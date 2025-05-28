@@ -59,4 +59,4 @@ En nuestra plantilla de tablero Kanban, hemos asignado los miembros responsables
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla Kanban Board. Si tiene alguna pregunta, nuestrasección de ayudaestá a su disposición.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla Kanban Board. Si tiene alguna pregunta, nuestra [sección de ayuda]({{< relref "help" >}})está a su disposición.

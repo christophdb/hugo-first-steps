@@ -19,4 +19,4 @@ En nuestraentrada delblog se presentan más plantillas prácticas relacionadas c
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tienes alguna duda o problema, te recomendamos nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tienes alguna duda o problema, te recomendamos nuestra [sección de ayuda]({{< relref "help" >}}).

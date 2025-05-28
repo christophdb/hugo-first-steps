@@ -23,4 +23,4 @@ Lea nuestro artículo del blog sobre pruebas de software para saber por qué tie
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones del sistema de seguimiento de errores. Si tiene alguna pregunta, nuestrasección de ayudaes el mejor lugar al que acudir.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones del sistema de seguimiento de errores. Si tiene alguna pregunta, nuestra [sección de ayuda]({{< relref "help" >}})es el mejor lugar al que acudir.

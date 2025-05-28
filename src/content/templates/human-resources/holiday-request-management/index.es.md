@@ -21,4 +21,4 @@ Sus empleados recibirán una notificación cada vez que cambie el estado de su s
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. Si tiene alguna pregunta o duda, merece la pena que eche un vistazo a nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. Si tiene alguna pregunta o duda, merece la pena que eche un vistazo a nuestra [sección de ayuda]({{< relref "help" >}}).

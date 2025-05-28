@@ -108,6 +108,6 @@ Puede encontrar más consejos y trucos para realizar un inventario con éxito en
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla de lista de inventario incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i situado detrás del nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de lista de inventario. Si tiene alguna pregunta, nuestrasección de ayudaestá a su disposición.
+Desplácese por nuestra plantilla de lista de inventario incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} situado detrás del nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de lista de inventario. Si tiene alguna pregunta, nuestra [sección de ayuda]({{< relref "help" >}})está a su disposición.
 
 ​

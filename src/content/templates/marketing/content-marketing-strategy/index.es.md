@@ -19,4 +19,4 @@ Una buena estrategia de marketing de contenidos es muy importante hoy en día pa
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tienes alguna duda o necesitas más información, te recomendamos nuestroartículo del blogy lasección de ayuda.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tienes alguna duda o necesitas más información, te recomendamos nuestroartículo del blogy lasección de ayuda.

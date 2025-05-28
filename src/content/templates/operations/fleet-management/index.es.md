@@ -89,4 +89,4 @@ Con nuestra plantilla gratuita parala gestión de flotas digitales, podrás opti
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones del software gratuito de gestión de flotas. Si tiene alguna pregunta o problema, le recomendamos nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones del software gratuito de gestión de flotas. Si tiene alguna pregunta o problema, le recomendamos nuestra [sección de ayuda]({{< relref "help" >}}).

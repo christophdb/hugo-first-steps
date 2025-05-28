@@ -83,6 +83,6 @@ También puede utilizar un formulario web para realizar unaencuesta de evaluaci�
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i situado detrás del nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de lista de asistencia. Si tiene alguna pregunta o problema, le recomendamos que utilice nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} situado detrás del nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de lista de asistencia. Si tiene alguna pregunta o problema, le recomendamos que utilice nuestra [sección de ayuda]({{< relref "help" >}}).
 
 ​

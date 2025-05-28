@@ -102,4 +102,4 @@ SeaTable realmente se pone en marcha. ¡Esto hace que trabajar con big data sea 
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de seguimiento temporal de proyectos. Nuestrasección de ayudale ofrece soporte si tiene alguna pregunta.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de seguimiento temporal de proyectos. nuestra [sección de ayuda]({{< relref "help" >}})le ofrece soporte si tiene alguna pregunta.

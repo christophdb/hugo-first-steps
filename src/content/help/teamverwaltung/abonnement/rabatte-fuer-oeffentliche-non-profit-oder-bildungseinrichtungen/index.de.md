@@ -14,7 +14,7 @@ SeaTable gewährt öffentlichen Einrichtungen 25% Rabatt, gemeinnützige Non-Pro
 
 ## Rabatt beantragen
 
-Sollten Sie noch kein Team auf cloud.seatable.io registriert haben, beginnen Sie als Erstes mit der [Registrierung]({{< relref "pages/registration" >}}). Dabei legen Sie immer zunächst ein Team mit dem kostenlosen [Free Abonnement](https://seatable.io/docs/abo-abrechnung/abo-pakete/) an. Danach gehen Sie wie folgt vor:
+Sollten Sie noch kein Team auf cloud.seatable.io registriert haben, beginnen Sie als Erstes mit der [Registrierung]({{< relref "pages/registration" >}}). Dabei legen Sie immer zunächst ein Team mit dem kostenlosen [Free Abonnement]({{< refref "help/teamverwaltung/abonnement/abo-pakete" >}}) an. Danach gehen Sie wie folgt vor:
 
 1. Öffnen Sie die [Teamverwaltung](https://account.seatable.io).
 2. Wechseln Sie in den Bereich **Abonnement**.

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/warum-finde-ich-in-meiner-base-die-automationen-nicht'
 ---
 
-Sie können in Ihren Bases keine Automationen anlegen? Eine mögliche Ursache könnte ein unzureichendes [Abonnement](https://seatable.io/docs/abo-abrechnung/abo-pakete/) sein.
+Sie können in Ihren Bases keine Automationen anlegen? Eine mögliche Ursache könnte ein unzureichendes [Abonnement]({{< refref "help/teamverwaltung/abonnement/abo-pakete" >}}) sein.
 
 Hier finden Sie die Automations-Funktion, sofern sie in Ihrem Abo verfügbar ist:
 
@@ -18,6 +18,6 @@ Wenn Sie dieses mächtige Feature von SeaTable künftig nutzen möchten, können
 
 ## Upgrade auf SeaTable Enterprise
 
-Automationen sind derzeit ausschließlich für Teams mit einem **[SeaTable Enterprise Abo](https://seatable.io/docs/abo-abrechnung/abo-pakete/)** verfügbar. Falls Sie dieses Feature in Ihren Bases nicht finden können, verfügt Ihr Team vermutlich **nicht** über ein derartiges Abonnement. Um Automationen nutzen zu können, müssen Sie das **Abonnement Ihres Teams** auf ein Enterprise Abo [aktualisieren](https://seatable.io/docs/abo-abrechnung/abonnement-verwaltung/#abonnement-anpassen).
+Automationen sind derzeit ausschließlich für Teams mit einem **[SeaTable Enterprise Abo]({{< refref "help/teamverwaltung/abonnement/abo-pakete" >}})** verfügbar. Falls Sie dieses Feature in Ihren Bases nicht finden können, verfügt Ihr Team vermutlich **nicht** über ein derartiges Abonnement. Um Automationen nutzen zu können, müssen Sie das **Abonnement Ihres Teams** auf ein Enterprise Abo [aktualisieren](https://seatable.io/docs/abo-abrechnung/abonnement-verwaltung/#abonnement-anpassen).
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Ein Abonnement gilt immer nur für das **gesamte Team**. Es können **keine** einzelnen Bases oder Teammitglieder hochgestuft werden." />}}

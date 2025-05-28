@@ -21,4 +21,4 @@ Encontrará más información sobre esta plantilla en el completo artículoGesti
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. Si tiene alguna duda, nuestrasección de ayudaestá siempre a su disposición.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. Si tiene alguna duda, nuestra [sección de ayuda]({{< relref "help" >}})está siempre a su disposición.

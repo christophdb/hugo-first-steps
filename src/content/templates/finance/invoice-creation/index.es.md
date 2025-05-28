@@ -105,4 +105,4 @@ Si desea utilizar la plantilla de factura gratuitamente,sólo tiene que registra
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de factura. Si tiene alguna duda, le recomendamos nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de factura. Si tiene alguna duda, le recomendamos nuestra [sección de ayuda]({{< relref "help" >}}).
