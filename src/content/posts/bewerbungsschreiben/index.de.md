@@ -14,7 +14,11 @@ Egal, ob Praktikum, Ausbildung oder Festanstellung – der erste Schritt auf dem
 
 Doch der Arbeitsaufwand lohnt sich, denn nur ein gelungenes Bewerbungsschreiben öffnet Ihnen die Türen zu einem persönlichen **Vorstellungsgespräch** und bringt Sie einen Schritt näher zu Ihrem **Traumjob**. Im Folgenden erfahren Sie, worauf Sie beim Schreiben Ihrer Bewerbung achten sollten.
 
-{{< warning headline="Tipp" text="Um den Überblick über Ihre Bewerbungen zu behalten, bietet sich auch ein Planungstool an. [Hier]({{< relref "templates/everyday-life/application-cover-letter" >}}) erfahren Sie, wie Sie mit diesem Tool per Knopfdruck aus einer Vorlage verschiedene Bewerbungsschreiben erzeugen können." />}}
+{{< warning headline="Tipp" >}}
+
+Um den Überblick über Ihre Bewerbungen zu behalten, bietet sich auch ein Planungstool an. [Hier]({{< relref "templates/everyday-life/application-cover-letter" >}}) erfahren Sie, wie Sie mit diesem Tool per Knopfdruck aus einer Vorlage verschiedene Bewerbungsschreiben erzeugen können.
+
+{{< /warning >}}
 
 ## Warum ein Bewerbungsschreiben wichtig ist
 

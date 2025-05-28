@@ -14,7 +14,11 @@ Whether it's an internship, apprenticeship or permanent position - the first ste
 
 But it's worth the effort, because only a successful application letter will open the door to a personal **interview** and bring you one step closer to your **dream job**. Below you will find out what you should pay attention to when writing your application.
 
-{{< warning headline="Tip" text="To keep track of your applications, you can also use a planning tool. [Here]({{< relref "templates/everyday-life/application-cover-letter" >}}) you can find out how you can use this tool to generate various application letters from a template at the touch of a button." />}}
+{{< warning headline="Tip" >}}
+
+To keep track of your applications, you can also use a planning tool. [Here]({{< relref "templates/everyday-life/application-cover-letter" >}}) you can find out how you can use this tool to generate various application letters from a template at the touch of a button.
+
+{{< /warning >}}
 
 ## Why a letter of application is important
 

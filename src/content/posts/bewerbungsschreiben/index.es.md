@@ -19,7 +19,11 @@ Pero el esfuerzo merece la pena, porque sólo una carta de solicitud satisfactor
 
 La carta de presentación es parte integrante de toda solicitud. Aunque debe incluir sus **aptitudes** en el **CV**, debe dedicar la carta de presentación a sus **aptitudes personales**. En los últimos años, estas aptitudes han cobrado cada vez más importancia, por lo que la carta de presentación personal se ha convertido en un punto central del proceso de selección.
 
-{{< warning headline="Habilidades duras frente a blandas" text="Las competencias duras incluyen todos los conocimientos especializados que ha adquirido a través del trabajo, las prácticas o las actividades de ocio. En cambio, las competencias [blandas](https://www.karriereakademie.de/soft-skills) resumen las características que conforman tu personalidad." />}}
+{{< warning headline="Habilidades duras frente a blandas" >}}
+
+Las competencias duras incluyen todos los conocimientos especializados que ha adquirido a través del trabajo, las prácticas o las actividades de ocio. En cambio, las competencias [blandas](https://www.karriereakademie.de/soft-skills) resumen las características que conforman tu personalidad.
+
+{{< /warning >}}
 
 Una carta de presentación le da la oportunidad de presentarse con confianza y destacar sus cualidades positivas. Por un lado, se trata de **presentarse** enumerando las cualificaciones pertinentes y, por otro, de destacar entre la multitud de candidatos.
 

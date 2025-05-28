@@ -19,7 +19,11 @@ Mais le travail en vaut la peine, car seule une lettre de motivation réussie vo
 
 La lettre de motivation fait partie intégrante de toute candidature. Alors que vous placez vos **hard skills** dans votre **CV**, vous consacrez votre lettre de motivation à vos **soft skills**. Celles-ci ont pris de plus en plus d'importance ces dernières années, ce qui explique pourquoi la lettre de motivation personnelle a également pris une place plus importante dans la procédure de sélection.
 
-{{< warning headline="Hard versus soft skills" text="Les hard skills regroupent l'ensemble des connaissances techniques que vous avez acquises par le travail, les stages ou les loisirs. Les [soft skills](https://www.karriereakademie.de/soft-skills), en revanche, regroupent les caractéristiques qui définissent votre personnalité." />}}
+{{< warning headline="Hard versus soft skills" >}}
+
+Les hard skills regroupent l'ensemble des connaissances techniques que vous avez acquises par le travail, les stages ou les loisirs. Les [soft skills](https://www.karriereakademie.de/soft-skills), en revanche, regroupent les caractéristiques qui définissent votre personnalité.
+
+{{< /warning >}}
 
 Avec une lettre de motivation, vous avez la possibilité de vous présenter avec assurance et de mettre en avant vos qualités positives. Il s'agit d'une part de **se mettre en valeur** en énumérant des qualifications pertinentes et d'autre part de se démarquer de la masse des candidats par la langue.
 

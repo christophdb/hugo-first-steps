@@ -19,7 +19,11 @@ Mas vale a pena o esforço, porque só uma carta de candidatura bem sucedida abr
 
 A carta de apresentação é uma parte integrante de qualquer candidatura. Embora deva incluir as suas **competências técnicas** no seu **CV**, deve dedicar a sua carta de apresentação às suas **competências pessoais**. Estas têm-se tornado cada vez mais importantes nos últimos anos, razão pela qual a carta de apresentação pessoal se tornou mais um ponto focal no processo de seleção.
 
-{{< warning headline="Competências técnicas versus competências transversais" text="As competências técnicas incluem todos os conhecimentos especializados que adquiriu através do trabalho, de estágios ou de actividades de lazer. [As competências transversais](https://www.karriereakademie.de/soft-skills), por outro lado, resumem as características que constituem a sua personalidade." />}}
+{{< warning headline="Competências técnicas versus competências transversais" >}}
+
+As competências técnicas incluem todos os conhecimentos especializados que adquiriu através do trabalho, de estágios ou de actividades de lazer. [As competências transversais](https://www.karriereakademie.de/soft-skills), por outro lado, resumem as características que constituem a sua personalidade.
+
+{{< /warning >}}
 
 Uma carta de apresentação dá-lhe a oportunidade de se apresentar com confiança e de realçar as suas qualidades positivas. Por um lado, trata-se de uma **auto-apresentação** através da enumeração das qualificações relevantes e, por outro lado, trata-se de se destacar da massa de candidatos em termos de linguagem.
 
