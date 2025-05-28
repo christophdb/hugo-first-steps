@@ -13,7 +13,11 @@ Quer se trate de um estágio, de uma aprendizagem ou de um posto de trabalho per
 
 Mas vale a pena o esforço, porque só uma carta de candidatura bem sucedida abrirá a porta a uma **entrevista** pessoal e deixá-lo-á um passo mais perto do seu **emprego de sonho**. A seguir, encontrará os pontos a que deve prestar atenção ao redigir a sua candidatura.
 
-{{< warning headline="Dica" text="Também pode utilizar uma ferramenta de planeamento para acompanhar as suas candidaturas. [Aqui]({{< relref "templates/everyday-life/application-cover-letter" >}}) pode descobrir como pode utilizar esta ferramenta para gerar várias cartas de candidatura a partir de um modelo com o toque de um botão." />}}
+{{< warning headline="Dica" >}}
+
+Também pode utilizar uma ferramenta de planeamento para acompanhar as suas candidaturas. [Aqui]({{< relref "templates/everyday-life/application-cover-letter" >}}) pode descobrir como pode utilizar esta ferramenta para gerar várias cartas de candidatura a partir de um modelo com o toque de um botão.
+
+{{< /warning >}}
 
 ## Porque é que uma carta de candidatura é importante
 
