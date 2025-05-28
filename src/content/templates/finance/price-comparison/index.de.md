@@ -21,4 +21,4 @@ In einer zweiten Tabelle erfassen Sie zusätzliche Details und mithilfe von Stat
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Falls Sie Fragen zu SeaTable haben, legen wir Ihnen unserenHilfebereichans Herz.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Falls Sie Fragen zu SeaTable haben, legen wir Ihnen unseren [Hilfebereich]({{< relref "help" >}})ans Herz.

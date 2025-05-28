@@ -83,6 +83,6 @@ You can also use a web form to conduct anevaluation surveyafter the event, in wh
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol behind the template name. This will give you a better feel for the functions of the attendance list template. If you have any questions or problems, we recommend that you use ourhelp section.
+Scroll through our interactively embedded template or read the description by clicking on the i symbol behind the template name. This will give you a better feel for the functions of the attendance list template. If you have any questions or problems, we recommend that you use our [help section]({{< relref "help" >}}).
 
 ​

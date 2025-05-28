@@ -23,4 +23,4 @@ Pour savoir pourquoi le bug tracking est utile et comment il fonctionne exacteme
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i après le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions du système de suivi des bugs. Si vous avez des questions, n'hésitez pas à consulter notrerubrique d'aide.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i après le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions du système de suivi des bugs. Si vous avez des questions, n'hésitez pas à consulter notre [rubrique d'aide]({{< relref "help" >}}).

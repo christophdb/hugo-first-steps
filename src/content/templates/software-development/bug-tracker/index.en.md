@@ -23,4 +23,4 @@ Read our blog article on software testing to find out why bug tracking makes sen
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions of the bug tracking system. If you have any questions, ourhelp sectionis the best place to go.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions of the bug tracking system. If you have any questions, our [help section]({{< relref "help" >}})is the best place to go.

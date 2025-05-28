@@ -51,6 +51,6 @@ Beet anlegen für Faule:​Mit dieser Vorlage ist der praktischen Einstieg in di
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Haben Sie Fragen? Schauen Sie doch mal in unserenHilfebereich.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Haben Sie Fragen? Schauen Sie doch mal in unseren [Hilfebereich]({{< relref "help" >}}).
 
 ​

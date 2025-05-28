@@ -17,4 +17,4 @@ Are you also tired of boring and monotonous training plans? Or are you annoyed b
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. If you have any questions, we recommend ourhelp section.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions, we recommend our [help section]({{< relref "help" >}}).

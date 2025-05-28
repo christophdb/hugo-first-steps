@@ -21,4 +21,4 @@ Vos collaborateurs reçoivent une notification à chaque changement de statut de
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions. En cas de questions ou d'incertitudes, il vaut la peine de jeter un coup d'œil dans notrerubrique d'aide.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions. En cas de questions ou d'incertitudes, il vaut la peine de jeter un coup d'œil dans notre [rubrique d'aide]({{< relref "help" >}}).

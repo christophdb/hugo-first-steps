@@ -19,4 +19,4 @@ Une bonne stratégie de marketing de contenu est aujourd'hui très importante po
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions. Pour toute question ou information complémentaire, nous vous conseillons de consulter notrearticle de bloget larubrique d'aide.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions. Pour toute question ou information complémentaire, nous vous conseillons de consulter notrearticle de bloget larubrique d'aide.

@@ -108,6 +108,6 @@ You can find more tips and tricks for a successful inventory in our blog article
 
 ## Interactive template
 
-Scroll through our interactively embedded inventory list template or read the description by clicking on the i symbol behind the template name. This will give you a better feel for the functions of the inventory list template. If you have any questions, ourhelp sectionis at your disposal.
+Scroll through our interactively embedded inventory list template or read the description by clicking on the i symbol behind the template name. This will give you a better feel for the functions of the inventory list template. If you have any questions, our [help section]({{< relref "help" >}})is at your disposal.
 
 ​

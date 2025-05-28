@@ -21,4 +21,4 @@ Si vous souhaitez en savoir plus sur le planning étudiant de Maxine,n'hésitez 
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. Notrerubrique d'aideest le meilleur point de contact en cas de questions.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. notre [rubrique d'aide]({{< relref "help" >}})est le meilleur point de contact en cas de questions.

@@ -21,6 +21,6 @@ You can find more information on how to use online literature management effecti
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. If you have any questions or problems, we recommend ourhelp section.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions or problems, we recommend our [help section]({{< relref "help" >}}).
 
 ​

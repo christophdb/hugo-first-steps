@@ -16,4 +16,4 @@ Durch empirische Studien und umfangreiche Recherchen können Sie eine Datenbank 
 
 ### Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen empfehlen wir Ihnen, unseren Hilfebereich zu nutzen.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen empfehlen wir Ihnen, unseren Hilfebereich zu nutzen.

@@ -25,6 +25,6 @@ In unserem Blogartikel erklären wir Ihnen ausführlich, wie Sie eigene Webformu
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Sollten Sie Fragen haben, legen wir Ihnen unserenHilfebereichans Herz.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Sollten Sie Fragen haben, legen wir Ihnen unseren [Hilfebereich]({{< relref "help" >}})ans Herz.
 
 ​

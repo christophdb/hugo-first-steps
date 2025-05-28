@@ -25,4 +25,4 @@ Besuchen Sie unserenBlog, um mehr über das Konzept des Fundraisings zu erfahren
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Sollten Sie Fragen haben, möchten wir Ihnen unserenHilfebereichans Herz legen.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Sollten Sie Fragen haben, möchten wir Ihnen unseren [Hilfebereich]({{< relref "help" >}})ans Herz legen.

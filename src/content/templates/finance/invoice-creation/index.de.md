@@ -105,4 +105,4 @@ Wenn Sie die Rechnungsvorlage kostenlos nutzen möchten,registrieren Sie sich ei
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen der Rechnung schreiben Vorlage. Sollten Sie Fragen haben, können wir Ihnen unserenHilfebereichempfehlen.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen der Rechnung schreiben Vorlage. Sollten Sie Fragen haben, können wir Ihnen unseren [Hilfebereich]({{< relref "help" >}})empfehlen.

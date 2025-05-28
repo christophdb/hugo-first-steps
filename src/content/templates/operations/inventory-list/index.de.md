@@ -108,6 +108,6 @@ In unserem Blog-ArtikelInventarliste erstellenfinden Sie weitere Tipps und Trick
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettete Inventarlisten Vorlage oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen der Inventarliste Vorlage. Falls Fragen auftreten, steht Ihnen unserHilfebereichzur Verfügung.
+Scrollen Sie durch unser interaktiv eingebettete Inventarlisten Vorlage oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen der Inventarliste Vorlage. Falls Fragen auftreten, steht Ihnen unserHilfebereichzur Verfügung.
 
 ​

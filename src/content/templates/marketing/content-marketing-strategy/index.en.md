@@ -19,4 +19,4 @@ A good content marketing strategy is very important these days to get noticed am
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. If you have any questions or require further information, we recommend ourblog articleand thehelp section.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions or require further information, we recommend ourblog articleand thehelp section.

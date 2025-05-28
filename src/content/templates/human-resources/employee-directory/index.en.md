@@ -21,4 +21,4 @@ Read ourblog articleto find out why an employee database is a good idea.
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. Do you still have questions? Then take a look at ourhelp section.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. Do you still have questions? Then take a look at our [help section]({{< relref "help" >}}).

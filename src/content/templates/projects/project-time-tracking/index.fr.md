@@ -102,4 +102,4 @@ SeaTable commence vraiment. C'est ainsi que travailler avec des données volumin
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions du modèle de saisie des temps de projet. Notrerubrique d'aidevous offre un soutien en cas de questions.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions du modèle de saisie des temps de projet. notre [rubrique d'aide]({{< relref "help" >}})vous offre un soutien en cas de questions.

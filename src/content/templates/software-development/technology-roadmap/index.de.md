@@ -34,4 +34,4 @@ Alle Nutzer haben hier die Möglichkeit, Dateien und Notizen zentral auszutausch
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Im Falle von Fragen empfehlen wir unserenHilfebereich.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Im Falle von Fragen empfehlen wir unseren [Hilfebereich]({{< relref "help" >}}).

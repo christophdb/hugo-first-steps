@@ -59,4 +59,4 @@ Dans notre modèle de tableau Kanban, nous avons attribué aux tâches les membr
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i après le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions du modèle de tableau Kanban. Si vous avez des questions, notrerubrique d'aideest à votre disposition.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i après le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions du modèle de tableau Kanban. Si vous avez des questions, notre [rubrique d'aide]({{< relref "help" >}})est à votre disposition.

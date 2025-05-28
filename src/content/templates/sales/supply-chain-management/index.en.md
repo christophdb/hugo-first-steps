@@ -17,12 +17,12 @@ When it comes to recording goods receipts and goods issues as efficiently as pos
 
 Record your goods receipts and goods issues easily viaweb formand let them flow into your SeaTable base fully automatically. Maintain your product range in SeaTable with just a few clicks and always keep track of your stock levels. Nothing is worse than having an empty warehouse and not being able to supply your customers. With a predefined safety quantity, SeaTable automatically calculates the replenishment to be ordered. With just one click your supplier is informed and the goods are on their way to you. The template is rounded off by adashboardthat shows you the most important figures about your supply chain.
 
-What are you waiting for? Get started today and optimize your supply chain management. You can read more about this in our blog article"How to optimize your supply chain management with SeaTable". We recommend ourhelp sectionfor answers to frequently asked questions.
+What are you waiting for? Get started today and optimize your supply chain management. You can read more about this in our blog article"How to optimize your supply chain management with SeaTable". We recommend our [help section]({{< relref "help" >}})for answers to frequently asked questions.
 
 ​
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions.
 
 ​

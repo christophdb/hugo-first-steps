@@ -27,4 +27,4 @@ Worauf warten Sie noch? Starten Sie noch heute durch und optimieren Sie Ihre Ver
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. UnserHilfebereichbietet Ihnen Antworten bei auftretenden Fragen.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. UnserHilfebereichbietet Ihnen Antworten bei auftretenden Fragen.

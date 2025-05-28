@@ -23,4 +23,4 @@ For more information on how to perfectly adapt your cleaning schedule to your ho
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. If you have any questions, ourhelp sectionis at your disposal.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions, our [help section]({{< relref "help" >}})is at your disposal.

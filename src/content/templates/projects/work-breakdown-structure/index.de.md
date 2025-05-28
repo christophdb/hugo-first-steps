@@ -19,6 +19,6 @@ Nutzen Sie verschiedene Ansichten, welche die Aufgaben für jeden Verantwortlich
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen und für weitere Informationen legen wir Ihnen unserenBlog-Artikelund denHilfebereichans Herz.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen und für weitere Informationen legen wir Ihnen unserenBlog-Artikelund denHilfebereichans Herz.
 
 ​

@@ -21,4 +21,4 @@ Mehr Informationen zu diesem Template finden Sie im umfangreichen ArtikelKunstma
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen steht Ihnen unserHilfebereichjederzeit zur Verfügung.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen. Bei Fragen steht Ihnen unserHilfebereichjederzeit zur Verfügung.

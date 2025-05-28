@@ -47,6 +47,6 @@ Would you like to know how a SWOT analysis template can help your company? In ou
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions of the SWOT analysis template. If you have any questions or problems, ourhelp sectionis there for you.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions of the SWOT analysis template. If you have any questions or problems, our [help section]({{< relref "help" >}})is there for you.
 
 ​

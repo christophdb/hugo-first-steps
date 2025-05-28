@@ -21,4 +21,4 @@ Le formulaire web intégré permet à vos collaborateurs de déposer facilement 
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions. Si vous avez des questions, notrerubrique d'aideest à votre disposition.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions. Si vous avez des questions, notre [rubrique d'aide]({{< relref "help" >}})est à votre disposition.

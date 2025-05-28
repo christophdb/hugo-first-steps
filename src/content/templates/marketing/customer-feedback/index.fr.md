@@ -25,6 +25,6 @@ Dans notre article de blog, nous vous expliquons en détailcomment créer vos pr
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions. Si vous avez des questions, nous vous conseillons de consulter notrerubrique d'aide.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions. Si vous avez des questions, nous vous conseillons de consulter notre [rubrique d'aide]({{< relref "help" >}}).
 
 ​

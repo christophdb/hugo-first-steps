@@ -47,7 +47,7 @@ Möchten Sie wissen, wie eine SWOT Analyse Vorlage Ihr Unternehmen weiterbringen
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen der SWOT Analyse Vorlage. Bei Fragen oder Problemen ist unserHilfebereichfür Sie da.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen der SWOT Analyse Vorlage. Bei Fragen oder Problemen ist unserHilfebereichfür Sie da.
 
 ​
 

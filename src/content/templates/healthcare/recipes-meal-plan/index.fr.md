@@ -21,4 +21,4 @@ Apprenez-en plus sur ce qu'est le Meal Prep et sur la meilleure façon de le met
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. Vous avez des questions ? N'hésitez pas à consulter notrerubrique d'aide.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. Vous avez des questions ? N'hésitez pas à consulter notre [rubrique d'aide]({{< relref "help" >}}).

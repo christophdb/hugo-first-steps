@@ -19,4 +19,4 @@ Use different views that filter the tasks for each responsible person to display
 
 ​### Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. If you have any questions or require further information, we recommend our blog article and the help section.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions or require further information, we recommend our blog article and the help section.

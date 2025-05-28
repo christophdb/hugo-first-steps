@@ -51,4 +51,4 @@ SeaTable est une puissante plate-forme sans code pour la création de bases de d
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions du modèle de carnet de route. Si vous avez des questions sur SeaTable, nous vous recommandons de consulter notrerubrique d'aide.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions du modèle de carnet de route. Si vous avez des questions sur SeaTable, nous vous recommandons de consulter notre [rubrique d'aide]({{< relref "help" >}}).

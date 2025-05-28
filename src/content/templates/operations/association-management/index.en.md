@@ -21,10 +21,10 @@ With the help of the calendar plug-in, you and your employees will always have a
 
 The Kanban view shows you all members as well as courses and events in compact tiles for a quick overview. The template is rounded off by adashboardthat shows you the most important figures on customers and the corresponding turnover. The map plug-in graphically displays the origin of your club members or sponsors, for example.
 
-What are you waiting for? Get started today and optimize your club administration. You can read more about this in our blog article "How SeaTable makes club administration easier". Ourhelp sectionprovides answers to any questions you may have.
+What are you waiting for? Get started today and optimize your club administration. You can read more about this in our blog article "How SeaTable makes club administration easier". our [help section]({{< relref "help" >}})provides answers to any questions you may have.
 
 ​
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. Ourhelp sectionprovides answers to any questions you may have.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. our [help section]({{< relref "help" >}})provides answers to any questions you may have.

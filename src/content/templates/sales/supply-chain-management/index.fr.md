@@ -15,13 +15,13 @@ Lorsqu'il s'agit de saisir les entrées et les sorties de marchandises le plus e
 
 Saisissez facilement vos entrées et sorties de marchandises via unformulaire webet intégrez-les de manière entièrement automatique dans votre base SeaTable. Gérez votre gamme de produits dans SeaTable en quelques clics et gardez toujours une vue d'ensemble de vos stocks. Rien n'est pire que d'avoir un stock vide et de ne plus pouvoir livrer vos clients. Avec une quantité de sécurité que vous avez prédéfinie, SeaTable calcule pour vous le réapprovisionnement à commander de manière totalement automatique. En un seul clic, votre fournisseur est directement informé et la marchandise est en route pour vous être envoyée. Le modèle est complété par untableau de bordqui vous présente les chiffres les plus importants de votre chaîne d'approvisionnement.
 
-Qu'est-ce que vous attendez encore ? Commencez dès aujourd'hui à optimiser la gestion de votre chaîne d'approvisionnement. Pour en savoir plus, consultez notre article de blog"Comment optimiser la gestion de votre chaîne logistique avec SeaTable".Nous vous recommandons de consulter notrerubrique d'aidepour obtenir des réponses aux questions fréquemment posées.
+Qu'est-ce que vous attendez encore ? Commencez dès aujourd'hui à optimiser la gestion de votre chaîne d'approvisionnement. Pour en savoir plus, consultez notre article de blog"Comment optimiser la gestion de votre chaîne logistique avec SeaTable".Nous vous recommandons de consulter notre [rubrique d'aide]({{< relref "help" >}})pour obtenir des réponses aux questions fréquemment posées.
 
 ​
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions.
 
 ​
 

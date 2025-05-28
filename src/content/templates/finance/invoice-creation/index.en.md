@@ -105,4 +105,4 @@ If you would like to use the invoice template free of charge,simply register wit
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions of the invoice template. If you have any questions, we can recommend ourhelp section.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions of the invoice template. If you have any questions, we can recommend our [help section]({{< relref "help" >}}).

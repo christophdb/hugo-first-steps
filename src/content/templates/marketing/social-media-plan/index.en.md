@@ -60,4 +60,4 @@ Use oursocial media plan templateto optimize your social media activities and re
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. If you have any questions about SeaTable, we recommend that you use ourhelp section.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions about SeaTable, we recommend that you use our [help section]({{< relref "help" >}}).

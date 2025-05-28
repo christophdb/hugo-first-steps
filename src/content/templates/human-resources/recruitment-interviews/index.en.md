@@ -21,4 +21,4 @@ The different views gain a lot of value with the filtering and grouping function
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. If you have any questions, please visit ourhelp section.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. If you have any questions, please visit our [help section]({{< relref "help" >}}).

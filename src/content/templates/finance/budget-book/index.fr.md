@@ -25,4 +25,4 @@ Pour savoir comment économiser beaucoup d'argent grâce à un livre de comptes,
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. Si vous avez des questions, nous vous recommandons d'utiliser notrerubrique d'aide.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. Si vous avez des questions, nous vous recommandons d'utiliser notre [rubrique d'aide]({{< relref "help" >}}).

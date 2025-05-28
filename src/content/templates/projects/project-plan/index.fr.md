@@ -76,4 +76,4 @@ Désormais, vous et les membres de votre équipe pouvezglisser-déposerchaque ca
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions du modèle de plan de projet. En cas de doute, nous vous recommandons d'utiliser notrerubrique d'aide.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée des fonctions du modèle de plan de projet. En cas de doute, nous vous recommandons d'utiliser notre [rubrique d'aide]({{< relref "help" >}}).

@@ -52,4 +52,4 @@ In unserer Kanban Board Vorlage haben wir den Aufgaben über eineMitarbeiter-Spa
 
 ## Interaktives Template
 
-Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das i-Symbol hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen der Kanban Board Vorlage. Falls Fragen auftreten, steht Ihnen unserHilfebereichzur Verfügung.
+Scrollen Sie durch unser interaktiv eingebettetes Template oder lesen Sie die Beschreibung, indem Sie auf das {{< seatable-icon icon="dtable-icon-description" >}} hinter dem Vorlagennamen klicken. So bekommen Sie ein besseres Gefühl für die Funktionen der Kanban Board Vorlage. Falls Fragen auftreten, steht Ihnen unserHilfebereichzur Verfügung.

@@ -21,4 +21,4 @@ Dans le tableau lié, vous saisissez les personnes pour lesquelles vous créez �
 
 ## Modèle interactif
 
-Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur l'icône i derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. Vous avez des questions ? Notrerubrique d'aideest là pour vous aider.
+Faites défiler notre modèle intégré de manière interactive ou lisez la description en cliquant sur {{< seatable-icon icon="dtable-icon-description" >}} derrière le nom du modèle. Vous aurez ainsi une meilleure idée de ses fonctions. Vous avez des questions ? notre [rubrique d'aide]({{< relref "help" >}})est là pour vous aider.

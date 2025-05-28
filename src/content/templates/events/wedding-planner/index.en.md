@@ -23,4 +23,4 @@ You can read a detailed explanation of how to turn SeaTable into your own person
 
 ## Interactive template
 
-Scroll through our interactively embedded template or read the description by clicking on the i symbol after the template name. This will give you a better feel for the functions. Do you have any questions? Ourhelp sectionwill help you.
+Scroll through our interactively embedded template or read the description by clicking on the {{< seatable-icon icon="dtable-icon-description" >}} after the template name. This will give you a better feel for the functions. Do you have any questions? our [help section]({{< relref "help" >}})will help you.
