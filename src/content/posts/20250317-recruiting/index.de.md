@@ -6,7 +6,7 @@ seo:
     description: 'Die Zukunft des Recruitings: Erfahre mehr über neue Technologien und innovative Wege, um Top-Kandidaten zu finden und langfristig zu binden'
 date: 2025-03-17
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Bewerber- & Talentmanagement'
 color: '#d4a2ee'

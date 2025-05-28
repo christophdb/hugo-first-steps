@@ -2,13 +2,13 @@
 title: 'Os 10 métodos de gestão de projectos mais populares num ápice'
 description: 'A escolha dos métodos corretos de gestão de projectos é muitas vezes crucial para o sucesso de um projeto. Afinal de contas, nem todas as abordagens são adequadas a todos os projectos. Mas que métodos estão efetivamente disponíveis? E qual deles faz mais sentido quando? Veja connosco os 10 melhores para determinar a abordagem certa para o seu projeto.'
 seo:
-    title: "Métodos de gestão de projectos: Agile vs. Waterfall & Co."
-    description: "Qual o método de gestão de projectos mais adequado para si? O nosso guia completo compara Scrum, Kanban, PRINCE2 e outros."
+    title: 'Métodos de gestão de projectos: Agile vs. Waterfall & Co.'
+    description: 'Qual o método de gestão de projectos mais adequado para si? O nosso guia completo compara Scrum, Kanban, PRINCE2 e outros.'
 date: 2025-03-08
 categories:
-    - 'General'
+    - 'general'
 tags:
-- 'Gestão de projectos'
+    - 'Gestão de projectos'
 color: '#fca86c'
 url: '/pt/projektmanagement-methoden/'
 ---

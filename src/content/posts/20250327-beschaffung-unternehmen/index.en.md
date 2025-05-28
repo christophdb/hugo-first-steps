@@ -6,7 +6,7 @@ seo:
     description: 'Efficient procurement processes are the be-all and end-all for corporate success. Discover strategies for purchasing processes & supplier management'
 date: 2025-03-27
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Digital Transformation'
     - 'Procurement & Logistics'

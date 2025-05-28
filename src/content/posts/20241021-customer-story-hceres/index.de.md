@@ -1,18 +1,18 @@
 ---
-title: "Effektive Datenverwaltung beim Hcéres mit SeaTable"
-description: "Lesen Sie mehr darüber, wie eine unabhängige öffentliche Behörde SeaTable nutzt."
+title: 'Effektive Datenverwaltung beim Hcéres mit SeaTable'
+description: 'Lesen Sie mehr darüber, wie eine unabhängige öffentliche Behörde SeaTable nutzt.'
 seo:
-    title: "Customer Story Hcéres: Effektive Datenverwaltung | SeaTable"
-    description: "Erfahren Sie, wie SeaTable die Zusammenarbeit mit den Evaluationsabteilungen enorm verbesserte, intuitiv, anpassbar und sicher machte"
+    title: 'Customer Story Hcéres: Effektive Datenverwaltung | SeaTable'
+    description: 'Erfahren Sie, wie SeaTable die Zusammenarbeit mit den Evaluationsabteilungen enorm verbesserte, intuitiv, anpassbar und sicher machte'
 date: 2024-10-21
-categories: 
-  - "Customer Story"
-tags: 
-  - "Datenmanagement & Visualisierung"
-  - "Digitale Transformation"
-  - "Öffentliche Verwaltung"
-color: "#fbe337"
-url: "/de/effektive-datenverwaltung-beim-hceres-mit-seatable"
+categories:
+    - 'customer-story'
+tags:
+    - 'Datenmanagement & Visualisierung'
+    - 'Digitale Transformation'
+    - 'Öffentliche Verwaltung'
+color: '#fbe337'
+url: '/de/effektive-datenverwaltung-beim-hceres-mit-seatable'
 ---
 
 Der Haut Conseil de l’évaluation de la recherche et de l’enseignement supérieur (Hcéres) ist eine unabhängige öffentliche Behörde in Frankreich, die durch die Artikel L. 114-3-1 bis L. 114-3-6 sowie R. 114-1 bis R. 114-23 des französischen Forschungsgesetzes geregelt wird. Zu den Hauptaufgaben des Hcéres gehören:
@@ -20,7 +20,8 @@ Der Haut Conseil de l’évaluation de la recherche et de l’enseignement sup�
 - Die Evaluierung sämtlicher Hochschul- und Forschungseinrichtungen in Frankreich.
 - Die Validierung von Evaluierungsverfahren, die von anderen Organisationen vorgeschlagen werden.
 - Die Evaluierung privater Hochschulen in Frankreich und im Ausland auf Anfrage.  
-    
+
+
 Hcéres stand vor der Herausforderung, seine komplexen Datenprozesse effizienter zu gestalten und die gesetzlichen Anforderungen zu erfüllen. Mit SeaTable fand der Hcéres eine Lösung, um seine Datenverwaltung zu zentralisieren und die Zusammenarbeit zu verbessern.
 
 ![Datenverwaltung mit Ordner ist veraltet und mühsam - Digitale Transformation mit SeaTable](pexels-anete-lusina-4792285-1.jpg)

@@ -6,8 +6,8 @@ seo:
     description: 'Découvrez comment les tests logiciels rendent votre application plus stable et pourquoi ils sont indispensables à la réussite de vos projets.'
 date: 2025-03-18
 categories:
-    - 'Général'
-    - 'Meilleures pratiques'
+    - 'general'
+    - 'best-practice'
 tags:
     - 'Processus informatiques'
     - 'Travail collaboratif'

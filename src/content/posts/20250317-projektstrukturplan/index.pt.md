@@ -1,17 +1,17 @@
 ---
-title: "Como criar uma estrutura analítica do trabalho eficaz - modelo e sugestões"
-description: "Uma estrutura analítica do trabalho é um método eficaz para apresentar e estruturar claramente projectos complexos. Aqui pode descobrir quando deve criar um modelo de estrutura analítica do trabalho, como pode proceder e quais as ferramentas que o podem ajudar."
+title: 'Como criar uma estrutura analítica do trabalho eficaz - modelo e sugestões'
+description: 'Uma estrutura analítica do trabalho é um método eficaz para apresentar e estruturar claramente projectos complexos. Aqui pode descobrir quando deve criar um modelo de estrutura analítica do trabalho, como pode proceder e quais as ferramentas que o podem ajudar.'
 seo:
-    title: "Criar estrutura analítica do trabalho | Ferramentas e modelos | SeaTable"
-    description: "Não volte a ficar atolado no caos dos projectos! Descubra as vantagens de uma estrutura analítica do trabalho bem pensada e como criar uma"
+    title: 'Criar estrutura analítica do trabalho | Ferramentas e modelos | SeaTable'
+    description: 'Não volte a ficar atolado no caos dos projectos! Descubra as vantagens de uma estrutura analítica do trabalho bem pensada e como criar uma'
 date: 2025-03-17
-categories: 
-  - "Informações gerais"
-  - "Melhores práticas"
-tags: 
-  - "Gestão de projectos"
-color: "#67c3c4"
-url: "/pt/projektstrukturplan"
+categories:
+    - 'general'
+    - 'best-practice'
+tags:
+    - 'Gestão de projectos'
+color: '#67c3c4'
+url: '/pt/projektstrukturplan'
 ---
 
 ## A estrutura analítica do trabalho: Uma abordagem estruturada para projectos
@@ -56,7 +56,7 @@ Chegou a altura da implementação propriamente dita. Utilizaremos uma mudança 
 
 Num workshop de arranque com todos os participantes no projeto, definem-se os objectivos do projeto de acordo com os critérios **SMART** (específicos, mensuráveis, atractivos, realistas, com prazos definidos). Ou existe um único objetivo para todo o projeto ou este deve ser dividido em subprojectos. No nosso caso, o objetivo global é a mudança atempada do escritório anterior para um novo escritório.
 
-![Uma estrutura analítica do trabalho ajudá-lo-á a atingir o seu objetivo](Gehen-Sie-Projekte-strukturiert-an.jpg "Um plano de estruturação do trabalho ajudá-lo-á a atingir o seu objetivo.")
+![Uma estrutura analítica do trabalho ajudá-lo-á a atingir o seu objetivo](Gehen-Sie-Projekte-strukturiert-an.jpg 'Um plano de estruturação do trabalho ajudá-lo-á a atingir o seu objetivo.')
 
 ### 2\. Definir subtarefas
 

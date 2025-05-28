@@ -2,11 +2,11 @@
 title: 'Gestión de carteras: cómo llevar siempre un seguimiento de su cartera'
 description: 'Gestión de carteras de proyectos, gestión de carteras de productos o gestión de carteras de TI: no importa para qué esté creando una cartera ni el tamaño de la cartera que quiera vigilar: en este artículo aprenderá a gestionar su cartera con éxito.'
 seo:
-    title: "Gestión de carteras: Mantenga la visión de conjunto | SeaTable"
-    description: "Gestión de carteras de proyectos o gestión de carteras de productos: en este artículo aprenderá cómo su gestión de carteras siempre tiene éxito"
+    title: 'Gestión de carteras: Mantenga la visión de conjunto | SeaTable'
+    description: 'Gestión de carteras de proyectos o gestión de carteras de productos: en este artículo aprenderá cómo su gestión de carteras siempre tiene éxito'
 fecha: 2025-03-27
 categorías:
-    - 'General'
+    - 'general'
 tags:
 color: '#bba9d3'
 url: '/es/portfoliomanagement'

@@ -1,18 +1,18 @@
 ---
-title: "Effective data management at Hcéres with SeaTable"
-description: "Read more about how an independent public authority uses SeaTable."
+title: 'Effective data management at Hcéres with SeaTable'
+description: 'Read more about how an independent public authority uses SeaTable.'
 seo:
-    title: "Customer Story Hcéres: Effective data management | SeaTable"
-    description: "Learn how SeaTable made collaboration with the evaluation departments vastly improved, intuitive, customisable and secure"
+    title: 'Customer Story Hcéres: Effective data management | SeaTable'
+    description: 'Learn how SeaTable made collaboration with the evaluation departments vastly improved, intuitive, customisable and secure'
 date: 2024-10-21
-categories: 
-  - "Customer Story"
-tags: 
-  - 'Data Management & Visualisation'
-  - 'Digital Transformation'
-  - 'Public Sector'
-color: "#fbe337"
-url: "/effektive-datenverwaltung-beim-hceres-mit-seatable"
+categories:
+    - 'customer-story'
+tags:
+    - 'Data Management & Visualisation'
+    - 'Digital Transformation'
+    - 'Public Sector'
+color: '#fbe337'
+url: '/effektive-datenverwaltung-beim-hceres-mit-seatable'
 ---
 
 The Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres) is an independent public authority in France governed by Articles L. 114-3-1 to L. 114-3-6 and R. 114-1 to R. 114-23 of the French Research Code. The main tasks of the Hcéres include
@@ -20,7 +20,8 @@ The Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieu
 - The evaluation of all higher education and research institutions in France.
 - The validation of evaluation procedures proposed by other organizations.
 - The evaluation of private universities in France and abroad on request.  
-    
+
+
 Hcéres was faced with the challenge of making its complex data processes more efficient and complying with legal requirements. With SeaTable, Hcéres found a solution to centralize its data management and improve collaboration.
 
 ![Data management with folders is outdated and tedious - Digital transformation with SeaTable](pexels-anete-lusina-4792285-1.jpg)

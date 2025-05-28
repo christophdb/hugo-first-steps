@@ -11,7 +11,7 @@ aliases:
 tags:
     - 'Event Management'
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 color: '#f7c1cf'
 ---
 

@@ -6,7 +6,7 @@ seo:
     description: 'Simplifique a organização dos seus imóveis! O nosso blogue fornece-lhe informações para uma gestão imobiliária bem sucedida'
 date: 2025-03-18
 categories:
-    - 'Informações gerais'
+    - 'general'
 tags:
     - 'Setor público'
 color: '#c4e8d8'

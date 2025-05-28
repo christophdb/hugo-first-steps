@@ -11,7 +11,7 @@ aliases:
 tags:
     - 'Управление событиями'
 categories:
-    - 'Лучшие практики'
+    - 'best-practice'
 color: '#f7c1cf'
 ---
 

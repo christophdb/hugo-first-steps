@@ -60,8 +60,6 @@ Y a-t-il par exemple un client qui dépasse toujours les temps de projet prévus
 Conseil:
 Si vous avez besoin d'un modèle de feuille de temps de projet plus complet, dans lequel vous pouvez planifier, estimer et suivre les ressources sur de nombreux projets, nous vous recommandons notremodèle de portefeuille de projets.
 
-​
-
 ## Avec l'application de saisie des temps de projet, saisissez facilement vos temps de projet où que vous soyez.
 
 Grâce à l'App-Builder intuitif de SeaTable, vous pouvez créer vous-même uneapplication de saisie des temps de projet selon vos besoins. Cette application web vous permet de saisir facilement des temps de projet à tout moment et sur n'importe quel terminal (PC, smartphone ou tablette). Vous avez besoin d'ajouter rapidement quelques heures en cours de route ? Avec l'app optimisée pour les mobiles, aucun problème !
@@ -79,8 +77,6 @@ En cliquant sur les enregistrements dans le plug-in de conception de page, vous 
 ![](images/image-1739269600741.gif)
 
 ## Avantages du modèle de saisie des temps de projet en un coup d'œil
-
-​
 
 -Gratuit: pour réaliser gratuitement une saisie simple du temps de projet avec notre modèle, il vous suffit devous inscrireavec votre adresse e-mail.
 

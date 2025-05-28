@@ -2,12 +2,12 @@
 title: 'Gestão ágil de projectos: 10 ferramentas práticas em comparação'
 description: 'A gestão ágil de projectos tornou-se parte integrante do mundo de trabalho moderno. Aqui apresentamos as vantagens, o seu funcionamento e os métodos mais importantes. Mais: uma comparação das ferramentas mais conhecidas para a gestão ágil de projectos.'
 seo:
-    title: "Gestão ágil de projectos: noções básicas e métodos"
-    description: "Conheça os princípios básicos da gestão ágil de projectos. Dicas práticas e estratégias comprovadas para uma gestão de projectos flexível"
+    title: 'Gestão ágil de projectos: noções básicas e métodos'
+    description: 'Conheça os princípios básicos da gestão ágil de projectos. Dicas práticas e estratégias comprovadas para uma gestão de projectos flexível'
 date: 2025-03-18
 lastmod: 2025-04-05T01:14:54+01:00
 categories:
-    - 'Informações gerais'
+    - 'general'
 tags:
     - 'Ferramentas e plugins'
 color: '#1eb0e5'

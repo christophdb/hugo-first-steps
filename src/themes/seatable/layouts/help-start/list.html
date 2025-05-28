@@ -19,7 +19,7 @@
                 <a href="{{ .RelPermalink }}">
                     <div class="flex h-full flex-col rounded-xl">
                         <div class="{{ $bgClass }} flex w-full justify-center rounded-t-xl border p-4 text-3xl text-seatable-gray">
-                            {{ partial "icon.html" .Params.icon }}
+                            {{ partial "icon.html" .Params.icon .Params.icon }}
                         </div>
                         <span class="text-md h-full rounded-b-xl border px-4 pb-8 pt-6 text-center font-poppins text-seatable-gray">{{ .Title }}</span>
                     </div>

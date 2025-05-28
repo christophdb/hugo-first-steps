@@ -6,7 +6,7 @@ seo:
     description: 'Solución de hoja de cálculo más flexible que Google Sheets. Nuestra entrada de blog te presenta alternativas que ofrecen más opciones de personalización'
 fecha: 2025-03-18
 categorías:
-    - 'General'
+    - 'general'
 tags:
     - 'Herramientas y plugins'
 color: '#59c9a1'

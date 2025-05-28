@@ -2,7 +2,7 @@
 title: 'Blog Design Tutorial'
 description: 'Welche Stylings gibt es? Wie nutze ich diese?'
 draft: true
-date: 2025-04-08
+date: 2025-05-27
 url: '/de/style-guide'
 color: '#eef0f2'
 ---
@@ -265,3 +265,22 @@ Die Namen des Icon kann man über die Entwicklertools des Browsers herausfinden.
 ## Verfügbar mit
 
 {{< required-version "free" "plus" "enterprise" >}}
+
+## Kommentare
+
+Im Markdown kann man einen Kommentar mit folgendem Code nutzen.
+Dieser Kommentar ist zwar in den Markdown Dateien aber nicht im späteren Quellcode auf der Webseite sichtbar.
+
+```
+<!-- Das ist ein Kommentar -->
+```
+
+Hinweis: im Frontmatter kann man einen Kommentar mit `#` machen. Die Einrückungen müssen trotzdem erhalten bleiben.
+
+```
+sections:
+  - name: "content-2"
+    weight: 3
+    # das ist ein Kommentar
+    # das ist noch ein Kommentar.
+```

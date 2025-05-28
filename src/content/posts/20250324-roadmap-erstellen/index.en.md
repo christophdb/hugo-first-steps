@@ -6,7 +6,7 @@ seo:
     description: 'In this blog article, you will learn how to create a roadmap and save time and resources with the right template'
 date: 2025-03-24
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Project Management'
 color: '#eee8ca'

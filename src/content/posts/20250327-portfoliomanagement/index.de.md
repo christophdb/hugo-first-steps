@@ -2,14 +2,14 @@
 title: 'Portfoliomanagement: Wie Sie immer den Überblick über Ihr Portfolio behalten'
 description: 'Projektportfoliomanagement, Produktportfoliomanagement oder IT Portfoliomanagement: Egal, wofür Sie ein Portfolio anlegen und wie groß das Portfolio ist, das Sie im Auge behalten möchten – in diesem Artikel erfahren Sie, wie Ihr Portfoliomanagement gelingt.'
 seo:
-    title: "Portfoliomanagement: Behalten Sie den Überblick | SeaTable"
-    description: "Projektportfoliomanagement oder Produktportfoliomanagement: in diesem Artikel erfahren Sie, wie Ihr Portfoliomanagement immer gelingt"
+    title: 'Portfoliomanagement: Behalten Sie den Überblick | SeaTable'
+    description: 'Projektportfoliomanagement oder Produktportfoliomanagement: in diesem Artikel erfahren Sie, wie Ihr Portfoliomanagement immer gelingt'
 date: 2025-03-27
 categories:
-    - 'Allgemein'
+    - 'general'
 tags:
-- "Projektmanagement"
-- "Finanzen"
+    - 'Projektmanagement'
+    - 'Finanzen'
 color: '#bba9d3'
 url: '/de/portfoliomanagement'
 ---
