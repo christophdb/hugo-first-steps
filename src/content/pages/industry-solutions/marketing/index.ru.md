@@ -170,7 +170,7 @@ sections:
             image_alt: Управляйте своими подписками на новостную рассылку и анализируйте их успех.
       buttons:
           - label: Откройте для себя все шаблоны
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
 
     - name: 'content-13'
       weight: 11

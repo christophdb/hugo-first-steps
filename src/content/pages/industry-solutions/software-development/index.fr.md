@@ -128,7 +128,7 @@ sections:
             image_alt: "Utilisez un tableau Kanban personnalisable pour suivre l'avancement des projets IT et des responsabilités."
       buttons:
           - label: Découvrir tous les modèles
-            link: https://seatable.io/vorlagen/?lang=auto
+            link: 'templates'
 
     - name: 'content-16'
       weight: 11

@@ -96,7 +96,7 @@ Bugs e problemas são relatados através de um formulário web, não existe uma 
 
 Vejamos como funciona a captura e gestão de erros com SeaTable.
 
-No SeaTable, existe um [modelo de rastreio de bugs que](https://seatable.io/pt/vorlage/hlbtvqrtscqmhx3adh5asg/) pode ser usado por qualquer utilizador sem custos. Os membros do pessoal introduzem os bugs aqui através de um [formulário web](https://seatable.io/pt/docs/handbuch/seatable-nutzen/webformulare/). Os bugs aparecem então automaticamente numa chamada [base](https://seatable.io/pt/docs/handbuch/seatable-nutzen/bases/), onde podem ser processados pelos membros responsáveis do pessoal.
+No SeaTable, existe um [modelo de rastreio de bugs que]({{< relref "templates/software-development/bug-tracker" >}}) pode ser usado por qualquer utilizador sem custos. Os membros do pessoal introduzem os bugs aqui através de um [formulário web](https://seatable.io/pt/docs/handbuch/seatable-nutzen/webformulare/). Os bugs aparecem então automaticamente numa chamada [base](https://seatable.io/pt/docs/handbuch/seatable-nutzen/bases/), onde podem ser processados pelos membros responsáveis do pessoal.
 
 ![Tabela com todos os bugs conhecidos no SeaTable bug tracker](https://seatable.io/wp-content/uploads/2021/11/bugtracker-uebersicht.jpg)
 
@@ -129,6 +129,6 @@ O software de rastreio de erros e problemas ajuda as empresas a monitorizar, ger
 
 Issuetracker © monticellllo / adobe stock
 
-Experimente o nosso [modelo gratuito para o seguimento de bugs](https://seatable.io/pt/vorlage/hlbtvqrtscqmhx3adh5asg/) e beneficie da solução de lista inteligente também em outras áreas.
+Experimente o nosso [modelo gratuito para o seguimento de bugs]({{< relref "templates/software-development/bug-tracker" >}}) e beneficie da solução de lista inteligente também em outras áreas.
 
 Fonte da imagem Imagem Imagem da capa: © REDPIXEL/Adobe Stock

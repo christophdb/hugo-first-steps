@@ -16,7 +16,7 @@ SeaTable verwaltet im Hintergrund für jede Base eine [Historie]({{< relref "hel
 
 ## Die Startseite
 
-Nach dem Login befinden Sie sich auf der **Startseite**. Hier verwalten Sie Ihre Bases. Wenn Sie bei der Registrierung [Templates](https://seatable.io/vorlagen/) ausgewählt haben, dann werden diese hier angezeigt.
+Nach dem Login befinden Sie sich auf der **Startseite**. Hier verwalten Sie Ihre Bases. Wenn Sie bei der Registrierung [Templates]({{< relref "templates" >}}) ausgewählt haben, dann werden diese hier angezeigt.
 
 Mit einem Klick auf das **Avatar-Bild** in der oberen rechten Ecke können Sie in die [persönlichen Einstellungen](https://seatable.io/docs/persoenliche-einstellungen/persoenliche-einstellungen/) wechseln, um zum Beispiel die Systemsprache anzupassen.
 

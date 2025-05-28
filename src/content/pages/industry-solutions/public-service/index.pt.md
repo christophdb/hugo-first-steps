@@ -74,7 +74,7 @@ sections:
             image_alt:
       buttons:
           - label: 'Encontre mais modelos para sua aplicação'
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
             style: secondary
 
     - name: content-25

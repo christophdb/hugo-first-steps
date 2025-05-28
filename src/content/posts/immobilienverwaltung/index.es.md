@@ -19,7 +19,7 @@ SeaTable es tan flexible como una navaja suiza y puede ayudarle con una amplia g
 - Estructure su próxima búsqueda de piso
 - Planifique su próximo movimiento y manténgase al día
 
-Encontrará estas cuatro plantillas en [la sección Plantillas inmobiliarias](https://seatable.io/es/vorlagen/immobilien/). Hemos creado esta sección para ayudarle en sus retos diarios. Ya lo verá: Las plantillas le ayudarán a trazar todos sus procesos y tareas de forma rápida y sencilla.
+Encontrará estas cuatro plantillas en [la sección Plantillas inmobiliarias]({{< relref "templates/real-estate" >}}). Hemos creado esta sección para ayudarle en sus retos diarios. Ya lo verá: Las plantillas le ayudarán a trazar todos sus procesos y tareas de forma rápida y sencilla.
 
 Copie las plantillas, personalícelas según sus necesidades o utilice las estructuras y el contenido de las tablas como inspiración para crear y desarrollar sus propias aplicaciones.
 
@@ -67,4 +67,4 @@ Puede reducir considerablemente sus niveles de estrés con nuestra [plantilla pa
 
 Nuestra plantilla de reubicación también incluye una lista de tareas pendientes para otras tareas que deben completarse en una fecha determinada. Así, no olvide preparar a tiempo la solicitud de reenvío a la oficina de correos o cancelar los contratos relativos a la antigua vivienda. ¡Pruébelo! Seguro que la próxima mudanza llegará.
 
-¿Le gustaría ver aún más formas de utilizar SeaTable? Descubra [todas nuestras plantillas](https://seatable.io/es/vorlagen/) y trabaje de forma aún más eficiente con sus datos.
+¿Le gustaría ver aún más formas de utilizar SeaTable? Descubra [todas nuestras plantillas]({{< relref "templates/finance" >}}) y trabaje de forma aún más eficiente con sus datos.

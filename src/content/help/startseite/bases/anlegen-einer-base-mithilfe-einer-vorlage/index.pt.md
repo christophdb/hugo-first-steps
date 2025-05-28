@@ -22,7 +22,7 @@ Se ainda estiver indeciso sobre o design da sua base ou se estiver simplesmente 
 
 ## Usando um modelo directamente do website SeaTable
 
-No [website SeaTable na secção Templates](https://seatable.io/pt/vorlagen/) encontrará uma variedade de modelos para diferentes casos de utilização. Cada modelo oferece-lhe uma pré-visualização da estrutura da tabela no website, para que possa rapidamente ter uma ideia de como a base está estruturada.
+No [website SeaTable na secção Templates]({{< relref "templates" >}}) encontrará uma variedade de modelos para diferentes casos de utilização. Cada modelo oferece-lhe uma pré-visualização da estrutura da tabela no website, para que possa rapidamente ter uma ideia de como a base está estruturada.
 
 Se gostar de um modelo e quiser experimentá-lo, pode clicar em **Use Template** para copiar o modelo directamente para a sua SeaTable Cloud na área **My Bases**. Também salta directamente para a base e pode começar imediatamente a explorá-la.
 

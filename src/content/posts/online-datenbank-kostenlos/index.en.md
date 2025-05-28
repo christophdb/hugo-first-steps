@@ -110,6 +110,6 @@ Lastly, you have the option of using the [SeaTable](https://seatable.io/en/) onl
 
 Either you do the programming yourself or you choose a solution that can be used without programming knowledge. With programmes like SeaTable, even companies and private individuals without an IT department can store, manage and analyse their data in a relational database.
 
-Try two to three solutions to find the right one for your [project](https://seatable.io/en/vorlagen-projektplanung/). [Start with the free subscription to SeaTable here]({{< relref "pages/registration" >}}).
+Try two to three solutions to find the right one for your [project]({{< relref "templates/projects/project-plan" >}}). [Start with the free subscription to SeaTable here]({{< relref "pages/registration" >}}).
 
 Image source Cover image: © monsitj/Adobe Stock

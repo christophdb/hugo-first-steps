@@ -96,7 +96,7 @@ sections:
             image_alt: ""
       buttons:
         - label: Просмотрите наши шаблоны
-          link: https://seatable.io/vorlagen/?lang=auto
+          link: 'templates'
 
     - name: banner-2
       weight: 20

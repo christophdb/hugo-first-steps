@@ -47,7 +47,7 @@ Es gibt so gut wie keine Ideen, die nicht schon einmal gedacht worden sind. Soll
 
 ### 4\. Klare Zuständigkeiten und Timelines festlegen
 
-Eine Marketingkampagne und ihre Planung funktionieren dann am besten, wenn jeder weiß, was er wann zu tun hat. Stehen [Projektziele](https://seatable.io/vorlagen-projektplanung/), Zielgruppe und Markt- bzw. Wettbewerbsanalyse, geht es darum, ein Team zusammenzustellen, [Zuständigkeiten und Aufgaben zu verteilen](https://seatable.io/projektstrukturplan-vorlage/), Deadlines und Meilensteine festzulegen und – ganz wichtig – das [Budget](https://seatable.io/budgetplanung-vorlage/) einzuteilen.
+Eine Marketingkampagne und ihre Planung funktionieren dann am besten, wenn jeder weiß, was er wann zu tun hat. Stehen [Projektziele]({{< relref "templates/projects/project-plan" >}}), Zielgruppe und Markt- bzw. Wettbewerbsanalyse, geht es darum, ein Team zusammenzustellen, [Zuständigkeiten und Aufgaben zu verteilen](https://seatable.io/projektstrukturplan-vorlage/), Deadlines und Meilensteine festzulegen und – ganz wichtig – das [Budget](https://seatable.io/budgetplanung-vorlage/) einzuteilen.
 
 ![Marketing Team bespricht Vorgehensweise der Kampagnen Planung.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
@@ -63,7 +63,7 @@ Sind alle Maßnahmen rund um die Marketingkampagne ausgearbeitet und die Planung
 
 ## Sie möchten mehr? Diese Tools unterstützen Sie bei der Planung Ihrer Marketingkampagne
 
-Stift und Papier sind super und sicher lässt sich eine Marketingkampagne damit planen, aber es geht auch einfacher. Denn ganz gleich, ob Offline- oder Online-Marketingkampagne – mit den passenden digitalen Tools werden Planung und Umsetzung noch unkomplizierter. So gibt es heute bereits etliche Programme, die Ihnen die [Projektplanung](https://seatable.io/vorlagen-projektplanung/) erleichtern und die Kampagnenumsetzung mittels automatisierter E-Mail-Aussendungen, Social-Media-Postings und vielen weiteren Features erleichtern.
+Stift und Papier sind super und sicher lässt sich eine Marketingkampagne damit planen, aber es geht auch einfacher. Denn ganz gleich, ob Offline- oder Online-Marketingkampagne – mit den passenden digitalen Tools werden Planung und Umsetzung noch unkomplizierter. So gibt es heute bereits etliche Programme, die Ihnen die [Projektplanung]({{< relref "templates/projects/project-plan" >}}) erleichtern und die Kampagnenumsetzung mittels automatisierter E-Mail-Aussendungen, Social-Media-Postings und vielen weiteren Features erleichtern.
 
 Wie genau das aussehen kann, können Sie gerne am Beispiel unserer [TikTok-Kampagne](https://t3n.de/consent?redirecturl=%2Fnews%2Fseatable-tiktok-case-study-1477428%2F) nachvollziehen. Mit der richtigen Planung unserer Marketingkampagne auf dieser Plattform generieren wir mehr als eine halbe Million Views pro Woche – ein wahnsinniger Booster für die Bekanntheit der Marke und unsere Sichtbarkeit im Netz. Mit der richtigen Planung ist alles möglich!
 

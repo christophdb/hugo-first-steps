@@ -61,7 +61,7 @@ sections:
             image_alt: Personnel recruitment
       buttons:
           - label: 'Discover more HR templates'
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
 
     - name: content-25
       weight: 5

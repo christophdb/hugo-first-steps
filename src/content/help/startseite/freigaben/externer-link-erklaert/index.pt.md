@@ -42,6 +42,6 @@ Os links externos são sempre adequados se quiserem tornar os dados em bases ace
 
 As ligações externas são óptimas para publicar registos individuais num website. Os visitantes do website apenas vêem o conteúdo que foi divulgado, mas não podem alterar o conteúdo.
 
-Com uma simples _etiqueta de incorporação_, pode integrar uma base ou uma vista numa página web através de uma ligação externa. Por exemplo, as bases da nossa [biblioteca de modelos](https://seatable.io/vorlagen/) estão incorporadas no nosso website através de ligações externas. É também desta forma que publicamos artigos de imprensa SeaTable na nossa página de imprensa.
+Com uma simples _etiqueta de incorporação_, pode integrar uma base ou uma vista numa página web através de uma ligação externa. Por exemplo, as bases da nossa [biblioteca de modelos]({{< relref "templates" >}}) estão incorporadas no nosso website através de ligações externas. É também desta forma que publicamos artigos de imprensa SeaTable na nossa página de imprensa.
 
 ![Incorporação de uma ligação externa numa página web](images/externer-link-in-webseite.gif)

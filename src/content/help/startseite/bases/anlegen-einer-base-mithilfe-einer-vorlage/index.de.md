@@ -22,7 +22,7 @@ Falls Sie mit der Gestaltung Ihrer Base noch unschlüssig sind oder einfach nur 
 
 ## Verwenden einer Vorlage direkt über die Webseite von SeaTable
 
-Auf der [Webseite von SeaTable im Bereich Vorlagen](https://seatable.io/vorlagen/) finden Sie eine Vielzahl von Vorlagen für die verschiedensten Anwendungsfälle. Jede Vorlage bietet Ihnen auf der Webseite eine Voransicht der Tabellenstruktur, sodass Sie schnell ein Gefühl dafür bekommen, wie die Base aufgebaut ist.
+Auf der [Webseite von SeaTable im Bereich Vorlagen]({{< relref "templates" >}}) finden Sie eine Vielzahl von Vorlagen für die verschiedensten Anwendungsfälle. Jede Vorlage bietet Ihnen auf der Webseite eine Voransicht der Tabellenstruktur, sodass Sie schnell ein Gefühl dafür bekommen, wie die Base aufgebaut ist.
 
 Wenn Ihnen eine Vorlage gefällt und Sie diese ausprobieren wollen, dann können Sie mit einem Klick auf **Vorlage benutzen** die Vorlage direkt in Ihre SeaTable Cloud in den Bereich **Meine Bases** kopieren. Außerdem springen Sie direkt in die Base und können unmittelbar mit der Erkundung der Base beginnen.
 

@@ -83,4 +83,4 @@ Por último, puede asignar todos los procesos necesarios en SeaTable para regist
 
 En SeaTable, usted y sus empleados documentan el registro de horas, las solicitudes de vacaciones y los días de baja por enfermedad en un lugar centralizado, en lugar de mantener muchas hojas de horas dispersas (por ejemplo, en Excel o Google Sheets). Todo lo que necesita es un navegador de Internet y una dirección de correo electrónico.
 
-Sin embargo, el control del tiempo es sólo un caso de uso de las casi infinitas posibilidades que SeaTable le ofrece. Descubra en nuestras [plantillas](https://seatable.io/es/vorlagen/) qué impresionantes soluciones de software puede crear con SeaTable y empiece ahora mismo con una [cuenta gratuita]({{< relref "pages/registration" >}}).
+Sin embargo, el control del tiempo es sólo un caso de uso de las casi infinitas posibilidades que SeaTable le ofrece. Descubra en nuestras [plantillas]({{< relref "templates/finance" >}}) qué impresionantes soluciones de software puede crear con SeaTable y empiece ahora mismo con una [cuenta gratuita]({{< relref "pages/registration" >}}).

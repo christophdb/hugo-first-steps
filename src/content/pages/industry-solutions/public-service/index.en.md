@@ -74,7 +74,7 @@ sections:
             image_alt:
       buttons:
           - label: 'Find more templates for your application'
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
             style: secondary
 
     - name: content-25

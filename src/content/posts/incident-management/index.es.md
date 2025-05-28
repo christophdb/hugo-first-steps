@@ -96,7 +96,7 @@ Los errores y problemas se comunican a través de un formulario web, no hay apli
 
 Veamos cómo funciona la captura y gestión de errores con SeaTable.
 
-En SeaTable, existe una [plantilla para el seguimiento de errores que](https://seatable.io/es/vorlage/hlbtvqrtscqmhx3adh5asg/) puede ser utilizada por cualquier usuario de forma gratuita. Los funcionarios introducen aquí los fallos a través de un [formulario web](https://seatable.io/es/docs/handbuch/seatable-nutzen/webformulare/). Los fallos aparecen entonces automáticamente en una llamada [base](https://seatable.io/es/docs/handbuch/seatable-nutzen/bases/), donde pueden ser procesados por los funcionarios responsables.
+En SeaTable, existe una [plantilla para el seguimiento de errores que]({{< relref "templates/software-development/bug-tracker" >}}) puede ser utilizada por cualquier usuario de forma gratuita. Los funcionarios introducen aquí los fallos a través de un [formulario web](https://seatable.io/es/docs/handbuch/seatable-nutzen/webformulare/). Los fallos aparecen entonces automáticamente en una llamada [base](https://seatable.io/es/docs/handbuch/seatable-nutzen/bases/), donde pueden ser procesados por los funcionarios responsables.
 
 ![Tabla con todos los errores conocidos en el rastreador de errores de SeaTable](https://seatable.io/wp-content/uploads/2021/11/bugtracker-uebersicht.jpg)
 
@@ -129,6 +129,6 @@ El software de seguimiento de errores y problemas ayuda a las empresas a supervi
 
 Issuetracker © monticellllo / adobe stock
 
-Pruebe nuestra [plantilla gratuita para el seguimiento de errores](https://seatable.io/es/vorlage/hlbtvqrtscqmhx3adh5asg/) y benefíciese de la solución de la lista inteligente también en otras áreas.
+Pruebe nuestra [plantilla gratuita para el seguimiento de errores]({{< relref "templates/software-development/bug-tracker" >}}) y benefíciese de la solución de la lista inteligente también en otras áreas.
 
 Fuente de la imagen Imagen de portada: © REDPIXEL/Adobe Stock

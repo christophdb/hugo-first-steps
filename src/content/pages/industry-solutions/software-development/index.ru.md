@@ -129,7 +129,7 @@ sections:
         image_alt: "Используйте настраиваемую канбан-доску для отслеживания прогресса IT-проектов и задач."
       buttons:
         - label: Посмотреть все шаблоны
-          link: https://seatable.io/vorlagen/?lang=auto
+          link: 'templates'
 
     - name: "content-16"
       weight: 11

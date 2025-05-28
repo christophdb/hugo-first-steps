@@ -25,7 +25,7 @@ Recolher provas para hipóteses, apresentar o estado atual da investigação ou 
 
 Com um programa de gestão da literatura, pode ...
 
-- manter uma [visão geral de projectos extensos](https://seatable.io/pt/vorlagen-projektplanung/).
+- manter uma [visão geral de projectos extensos]({{< relref "templates/projects/project-plan" >}}).
 - Registar sistematicamente a literatura de investigação.
 - assegurar um estilo de citação normalizado.
 - fazer alterações flexíveis às suas listas de literatura.

@@ -163,7 +163,7 @@ sections:
     image_alt: Marketing
   buttons:
     - label: "Encuentra más plantillas para tu área de aplicación"
-      link: "https://seatable.io/vorlagen/?lang=auto"
+      link: "templates"
       style: not-yet-defined
       id: es-homepage-vorlagen-allgemein-content-3
 

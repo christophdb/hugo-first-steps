@@ -16,7 +16,7 @@ SeaTable maintains a [history]({{< relref "help/base-editor/historie-und-version
 
 ## The home page
 
-After logging in, you will find yourself on the **start** page. Here you manage your bases. If you have selected [templates](https://seatable.io/vorlagen/) during registration, they will be displayed here.
+After logging in, you will find yourself on the **start** page. Here you manage your bases. If you have selected [templates]({{< relref "templates" >}}) during registration, they will be displayed here.
 
 By clicking on the **avatar image** in the upper right corner, you can switch to the [personal settings](https://seatable.io/en/docs/persoenliche-einstellungen/persoenliche-einstellungen/) to adjust the system language, for example.
 

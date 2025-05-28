@@ -16,7 +16,7 @@ SeaTable gère un [historique]({{< relref "help/base-editor/historie-und-version
 
 ## La page d'accueil
 
-Après vous être connecté, vous vous trouvez sur la **page d'accueil**. C'est ici que vous gérez vos bases. Si vous avez choisi [des templates](https://seatable.io/vorlagen/) lors de l'inscription, ils seront affichés ici.
+Après vous être connecté, vous vous trouvez sur la **page d'accueil**. C'est ici que vous gérez vos bases. Si vous avez choisi [des templates]({{< relref "templates" >}}) lors de l'inscription, ils seront affichés ici.
 
 En cliquant sur l'**image de l'avatar** dans le coin supérieur droit, vous pouvez accéder aux [paramètres personnels](https://seatable.io/fr/docs/persoenliche-einstellungen/persoenliche-einstellungen/), par exemple pour adapter la langue du système.
 

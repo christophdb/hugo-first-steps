@@ -46,7 +46,7 @@ Não há praticamente ideias que não tenham sido pensadas antes. Por outras pal
 
 ### 4\. Definir responsabilidades e prazos claros
 
-Uma campanha de marketing e o seu planeamento funcionam melhor quando todos sabem o que têm de fazer e quando têm de o fazer. Uma vez estabelecidos os [objectivos do projecto](https://seatable.io/pt/vorlagen-projektplanung/), o grupo-alvo e a análise do mercado/competitor, é uma questão de reunir uma equipa, atribuir [responsabilidades e tarefas](https://seatable.io/pt/projektstrukturplan-vorlage/), estabelecer prazos e marcos e - muito importante - atribuir o [orçamento](https://seatable.io/pt/budgetplanung-vorlage/).
+Uma campanha de marketing e o seu planeamento funcionam melhor quando todos sabem o que têm de fazer e quando têm de o fazer. Uma vez estabelecidos os [objectivos do projecto]({{< relref "templates/projects/project-plan" >}}), o grupo-alvo e a análise do mercado/competitor, é uma questão de reunir uma equipa, atribuir [responsabilidades e tarefas](https://seatable.io/pt/projektstrukturplan-vorlage/), estabelecer prazos e marcos e - muito importante - atribuir o [orçamento](https://seatable.io/pt/budgetplanung-vorlage/).
 
 ![A equipa de marketing discute o procedimento de planeamento de campanhas.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
@@ -62,7 +62,7 @@ Uma vez que todas as medidas para a campanha de marketing tenham sido trabalhada
 
 ## Quer mais? Estas ferramentas irão ajudá-lo a planear a sua campanha de marketing
 
-Caneta e papel são excelentes e pode certamente planear uma campanha de marketing com eles, mas também pode ser mais fácil. Porque independentemente de se tratar de uma campanha de marketing offline ou online - com as ferramentas digitais certas, o planeamento e a implementação tornam-se ainda mais fáceis. Actualmente, já existem vários programas que facilitam o [planeamento de projectos](https://seatable.io/pt/vorlagen-projektplanung/) e facilitam a implementação de campanhas através de correio electrónico automatizado, lançamentos nos meios de comunicação social e muitas outras funcionalidades.
+Caneta e papel são excelentes e pode certamente planear uma campanha de marketing com eles, mas também pode ser mais fácil. Porque independentemente de se tratar de uma campanha de marketing offline ou online - com as ferramentas digitais certas, o planeamento e a implementação tornam-se ainda mais fáceis. Actualmente, já existem vários programas que facilitam o [planeamento de projectos]({{< relref "templates/projects/project-plan" >}}) e facilitam a implementação de campanhas através de correio electrónico automatizado, lançamentos nos meios de comunicação social e muitas outras funcionalidades.
 
 Pode ver exactamente como isto pode parecer com o exemplo da nossa [campanha TikTok](https://t3n.de/consent?redirecturl=%2Fnews%2Fseatable-tiktok-case-study-1477428%2F). Com o planeamento correcto da nossa campanha de marketing nesta plataforma, geramos mais de meio milhão de visualizações por semana - um impulso insano para o conhecimento da marca e a nossa visibilidade na web. Com o planeamento correcto, tudo é possível!
 

@@ -97,7 +97,7 @@ Bugs and issues are reported via a web form, there is no app for mobile devices.
 
 Let's take a look at how capturing and managing errors works with SeaTable.
 
-In SeaTable, there is a [template for bug tracking that](https://seatable.io/en/vorlage/hlbtvqrtscqmhx3adh5asg/) can be used by any user free of charge. Staff members enter the bugs here via a [web form](https://seatable.io/en/docs/handbuch/seatable-nutzen/webformulare/). The bugs then appear automatically in a so-called [base](https://seatable.io/en/docs/handbuch/seatable-nutzen/bases/), where they can be processed by the responsible staff members.
+In SeaTable, there is a [template for bug tracking that]({{< relref "templates/software-development/bug-tracker" >}}) can be used by any user free of charge. Staff members enter the bugs here via a [web form](https://seatable.io/en/docs/handbuch/seatable-nutzen/webformulare/). The bugs then appear automatically in a so-called [base](https://seatable.io/en/docs/handbuch/seatable-nutzen/bases/), where they can be processed by the responsible staff members.
 
 ![Table with all known bugs in the SeaTable bug tracker](images/bugtracker-uebersicht.jpg)
 
@@ -130,6 +130,6 @@ Bug and issue tracker software helps companies monitor, manage and resolve issue
 
 Issuetracker © monticellllo / adobe stock
 
-Try our [free template for bug tracking](https://seatable.io/en/vorlage/hlbtvqrtscqmhx3adh5asg/) and benefit from the intelligent list solution in other areas as well.
+Try our [free template for bug tracking]({{< relref "templates/software-development/bug-tracker" >}}) and benefit from the intelligent list solution in other areas as well.
 
 Image source Cover image: © REDPIXEL/Adobe Stock

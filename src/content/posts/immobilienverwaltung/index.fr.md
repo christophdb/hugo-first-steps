@@ -19,7 +19,7 @@ SeaTable est aussi flexible qu'un couteau suisse et peut vous aider à relever l
 - Structurez votre prochaine recherche de logement
 - Planifiez votre prochain déménagement et gardez une vue d'ensemble
 
-Vous trouverez ces quatre modèles dans la [section Modèles de l'immobilier](https://seatable.io/fr/modeles/immobilien/). Nous avons créé cette section pour vous aider dans vos défis quotidiens. Vous allez voir : Les modèles vous aideront à représenter tous vos processus et tâches de manière simple et rapide.
+Vous trouverez ces quatre modèles dans la [section Modèles de l'immobilier]({{< relref "templates/real-estate" >}}). Nous avons créé cette section pour vous aider dans vos défis quotidiens. Vous allez voir : Les modèles vous aideront à représenter tous vos processus et tâches de manière simple et rapide.
 
 Copiez les modèles, adaptez-les à vos besoins ou utilisez les structures et le contenu des tableaux comme source d'inspiration lorsque vous construisez et développez vos propres applications.
 

@@ -22,7 +22,7 @@ If you are still undecided about the design of your base or just looking for new
 
 ## Using a template directly from the SeaTable website
 
-On [SeaTable's website in the Templates section](https://seatable.io/en/vorlagen/) you will find a variety of templates for different use cases. Each template offers you a preview of the table structure on the website, so you can quickly get a feel for how the base is built.
+On [SeaTable's website in the Templates section]({{< relref "templates" >}}) you will find a variety of templates for different use cases. Each template offers you a preview of the table structure on the website, so you can quickly get a feel for how the base is built.
 
 If you like a template and want to try it out, you can click **Use Template** to copy the template directly to your SeaTable Cloud in the **My Bases** area. You will also jump directly into the Base and can immediately start exploring it.
 

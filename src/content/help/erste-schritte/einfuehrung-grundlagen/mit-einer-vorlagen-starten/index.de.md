@@ -14,7 +14,7 @@ In diesem Beitrag erfahren Sie, wo Sie die Vorlagen finden und wie man mit diese
 
 ## Vorlagen-Bibliothek
 
-Sie können auf die kontinuierlich wachsende Vorlagen-Sammlung über verschiedene Wege zugreifen: über die [Vorlagen-Bibliothek auf der Webseite SeaTable.io](https://seatable.io/vorlagen/) - dies ist ohne Login möglich - , über die Schaltfläche **Vorlagen** auf der Startseite von SeaTable und bei der Erstellung einer neuen Base, wenn Sie **Base von Vorlage erstellen** wählen.
+Sie können auf die kontinuierlich wachsende Vorlagen-Sammlung über verschiedene Wege zugreifen: über die [Vorlagen-Bibliothek auf der Webseite SeaTable.io]({{< relref "templates" >}}) - dies ist ohne Login möglich - , über die Schaltfläche **Vorlagen** auf der Startseite von SeaTable und bei der Erstellung einer neuen Base, wenn Sie **Base von Vorlage erstellen** wählen.
 
 Die Vorlagen für SeaTable sind in verschiedene Kategorien eingeteilt. Diese sind u.a. Projektmanagement, Personalwesen, Marketing, Vertrieb oder Alltagsleben. In jeder Kategorie finden Sie mehrere Vorlagen. Zu jeder Vorlage gehört eine Kurzbeschreibung und eine Beschreibung des Anwendungsfalls. Unter der Beschreibung finden Sie ein interaktives Abbild der Vorlage mit seinem Tabellenlayout, seinen Ansichten sowie Dummy-Daten. Schauen Sie sich die Vorlage genau an, klicken Sie in ihr herum und prüfen Sie, ob sie für Ihren Anwendungsfall passt!
 

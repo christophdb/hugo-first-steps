@@ -61,7 +61,7 @@ sections:
             image_alt: Reclutamiento de personal
       buttons:
           - label: 'Descubra más plantillas de RR. HH.'
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
 
     - name: content-25
       weight: 5

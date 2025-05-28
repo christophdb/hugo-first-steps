@@ -19,7 +19,7 @@ O SeaTable é tão flexível como um canivete suíço e pode ajudá-lo numa vast
 - Estruture a sua próxima pesquisa plana
 - Planeie o seu próximo passo e mantenha-se no topo das coisas
 
-Encontrará estes quatro modelos na [secção de modelos para o sector imobiliário](https://seatable.io/pt/vorlagen/immobilien/). Criámos esta secção para o ajudar nos seus desafios diários. Verá: Os modelos ajudá-lo-ão a mapear todos os seus processos e tarefas de forma rápida e fácil.
+Encontrará estes quatro modelos na [secção de modelos para o sector imobiliário]({{< relref "templates/real-estate" >}}). Criámos esta secção para o ajudar nos seus desafios diários. Verá: Os modelos ajudá-lo-ão a mapear todos os seus processos e tarefas de forma rápida e fácil.
 
 Copie os modelos, personalize-os de acordo com as suas necessidades ou utilize as estruturas e conteúdos dos quadros como inspiração para criar e desenvolver as suas próprias aplicações.
 
@@ -67,4 +67,4 @@ Pode reduzir significativamente os seus níveis de stress com o nosso [modelo pa
 
 O nosso modelo de mudança também inclui uma lista de afazeres para outras tarefas que têm de ser concluídas até uma determinada data. Por isso, não se esqueça de preparar o pedido de reencaminhamento para os correios ou de cancelar atempadamente os contratos relativos à antiga propriedade. Experimente! O próximo passo é certo.
 
-Gostaria de ver ainda mais formas de utilizar o SeaTable? Descubra [todos os nossos modelos](https://seatable.io/pt/vorlagen/) e trabalhe de forma ainda mais eficiente com os seus dados.
+Gostaria de ver ainda mais formas de utilizar o SeaTable? Descubra [todos os nossos modelos]({{< relref "templates/finance" >}}) e trabalhe de forma ainda mais eficiente com os seus dados.

@@ -26,7 +26,7 @@ Belege für Hypothesen sammeln, den Forschungsstand darstellen oder das eigene V
 
 Mit einem Literaturverwaltungsprogramm können Sie …
 
-- den [Überblick bei umfangreichen Projekten](https://seatable.io/vorlagen-projektplanung/) behalten.
+- den [Überblick bei umfangreichen Projekten]({{< relref "templates/projects/project-plan" >}}) behalten.
 - Forschungsliteratur systematisch erfassen.
 - für eine einheitliche Zitierweise sorgen.
 - flexibel Änderungen an Ihren Literaturlisten vornehmen.

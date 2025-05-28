@@ -177,7 +177,7 @@ sections:
             image_alt: Verwalten Sie Ihre Newsletter-Anmeldungen und analysieren Sie deren Erfolg.
       buttons:
         - label: Alle Vorlagen entdecken
-          link: "https://seatable.io/vorlagen/?lang=auto"
+          link: "templates"
 
 
     - name: 'content-13'

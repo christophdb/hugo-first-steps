@@ -100,6 +100,6 @@ The market already offers a number of software solutions that are versatile and 
 
 If you are looking for the all-round carefree package for your offer management, [SeaTable](https://seatable.io/en/) is an optimal, cost-effective alternative. With the functions of this tool, you can automate all sales processes and easily collect all data using an integrated web form. For solving customer problems, answering inquiries and sorting feedback, this is a big plus.
 
-With SeaTable, you can manage CRM and customer support as well as supply chain management centrally in one place and make them available to all employees without any additional effort. This way, everyone always knows the current status of each offer. And: using a timeline and Kanban board, you can [easily visualize and meet deadlines](https://seatable.io/en/vorlagen-projektplanung/). This is how you lay the foundation for truly successful sales work.
+With SeaTable, you can manage CRM and customer support as well as supply chain management centrally in one place and make them available to all employees without any additional effort. This way, everyone always knows the current status of each offer. And: using a timeline and Kanban board, you can [easily visualize and meet deadlines]({{< relref "templates/projects/project-plan" >}}). This is how you lay the foundation for truly successful sales work.
 
 Image source Cover image: © contrastwerkstatt/Adobe Stock

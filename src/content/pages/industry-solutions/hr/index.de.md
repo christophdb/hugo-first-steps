@@ -64,7 +64,7 @@ sections:
             image_alt: Personalrekrutierung
       buttons:
           - label: "Entdecken Sie weitere HR Vorlagen"
-            link: "https://seatable.io/vorlagen/?lang=auto"
+            link: "templates"
 
     - name: content-25
       weight: 5

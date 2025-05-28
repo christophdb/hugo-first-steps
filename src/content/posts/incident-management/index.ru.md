@@ -96,7 +96,7 @@ SeaTable доступен как гибкий, простой SaaS с низки
 
 Давайте рассмотрим, как перехват и управление ошибками работает в SeaTable.
 
-В SeaTable есть [шаблон для отслеживания ошибок](https://seatable.io/ru/vorlage/hlbtvqrtscqmhx3adh5asg/), который может бесплатно использовать любой пользователь. Сотрудники вводят ошибки здесь через [веб-форму](https://seatable.io/ru/docs/handbuch/seatable-nutzen/webformulare/). Затем ошибки автоматически попадают в так называемую [базу](https://seatable.io/ru/docs/handbuch/seatable-nutzen/bases/), где их могут обработать ответственные сотрудники.
+В SeaTable есть [шаблон для отслеживания ошибок]({{< relref "templates/software-development/bug-tracker" >}}), который может бесплатно использовать любой пользователь. Сотрудники вводят ошибки здесь через [веб-форму](https://seatable.io/ru/docs/handbuch/seatable-nutzen/webformulare/). Затем ошибки автоматически попадают в так называемую [базу](https://seatable.io/ru/docs/handbuch/seatable-nutzen/bases/), где их могут обработать ответственные сотрудники.
 
 ![Таблица со всеми известными ошибками в баг-трекере SeaTable](https://seatable.io/wp-content/uploads/2021/11/bugtracker-uebersicht.jpg)
 
@@ -129,6 +129,6 @@ Issuetracker © SeaTable
 
 Issuetracker © monticellllo / adobe stock
 
-Попробуйте наш [бесплатный шаблон для отслеживания ошибок](https://seatable.io/ru/vorlage/hlbtvqrtscqmhx3adh5asg/) и воспользуйтесь преимуществами интеллектуального списочного решения и в других областях.
+Попробуйте наш [бесплатный шаблон для отслеживания ошибок]({{< relref "templates/software-development/bug-tracker" >}}) и воспользуйтесь преимуществами интеллектуального списочного решения и в других областях.
 
 Источник изображения Изображение на обложке: © REDPIXEL/Adobe Stock

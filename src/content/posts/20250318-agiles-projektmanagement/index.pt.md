@@ -118,7 +118,7 @@ Se procura um software de gestão de projectos ágil que suporte uma colaboraç�
 
 O SeaTable oferece-lhe a **máxima flexibilidade** na escolha do alojamento: tem a opção de alojar o software e instalar o [SeaTable On-Premises] ({{< relref "pages/product/seatable-server" >}}) nos seus próprios servidores, ou pode utilizar a **conveniente e escalável versão em nuvem**, mantendo os mais elevados padrões de segurança. A SeaTable é uma empresa alemã que armazena **todos os dados em conformidade com o RGPD em servidores alemães**. Na **versão básica gratuita**, tem à sua disposição inúmeras funções básicas. Para requisitos mais avançados, a [SeaTable]({{< relref "/" >}}) oferece subscrições com preços atractivos a partir de 7 euros por utilizador/mês.
 
-Na nossa biblioteca encontra [modelos de gestão de projectos](https://seatable.io/vorlagen/projekte/), que pode utilizar imediatamente na versão básica gratuita.
+Na nossa biblioteca encontra [modelos de gestão de projectos]({{< relref "templates/projects" >}}), que pode utilizar imediatamente na versão básica gratuita.
 
 ### Melhores resultados através da gestão ágil de projectos
 

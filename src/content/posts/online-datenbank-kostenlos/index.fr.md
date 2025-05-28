@@ -109,6 +109,6 @@ Enfin, vous avez la possibilité d'utiliser gratuitement la base de données en 
 
 Soit vous mettez la main à la pâte et programmez vous-même, soit vous choisissez une solution qui peut être utilisée sans connaissances en programmation. Des programmes comme SeaTable permettent aux entreprises et aux particuliers sans service informatique de stocker, de gérer et d'analyser leurs données dans une base de données relationnelle.
 
-Testez deux ou trois solutions pour trouver celle qui convient le mieux à votre [projet](https://seatable.io/fr/vorlagen-projektplanung/). [Commencez par vous abonner gratuitement à SeaTable ici](https://seatable.io/fr/enregistrement/).
+Testez deux ou trois solutions pour trouver celle qui convient le mieux à votre [projet]({{< relref "templates/projects/project-plan" >}}). [Commencez par vous abonner gratuitement à SeaTable ici](https://seatable.io/fr/enregistrement/).
 
 Source de l'image de couverture : © monsitj/Adobe Stock

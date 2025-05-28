@@ -170,7 +170,7 @@ sections:
             image_alt: Manage your newsletter subscriptions and analyze their success.
       buttons:
           - label: Discover all templates
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
 
     - name: 'content-13'
       weight: 11

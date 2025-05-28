@@ -170,7 +170,7 @@ sections:
             image_alt: Gestione sus suscripciones al boletín de noticias y analice su éxito.
       buttons:
           - label: Descubra todas las plantillas
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
 
     - name: 'content-13'
       weight: 11

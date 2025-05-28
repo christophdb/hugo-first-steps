@@ -29,7 +29,7 @@ Si prefieres ver vídeos, las instrucciones de nuestro [canal de](https://www.yo
 
 No existe una única forma "correcta" de utilizar SeaTable de forma rentable. El mejor sistema es el que se adapta a usted y a su flujo de trabajo.
 
-Si necesita un poco de inspiración para saber cómo sacar el máximo partido a SeaTable, eche un vistazo a nuestras [plantillas](https://seatable.io/es/vorlagen/). En ellas encontrará muchas formas interesantes de utilizar SeaTable.
+Si necesita un poco de inspiración para saber cómo sacar el máximo partido a SeaTable, eche un vistazo a nuestras [plantillas]({{< relref "templates" >}}). En ellas encontrará muchas formas interesantes de utilizar SeaTable.
 
 Otras fuentes son nuestro [canal de YouTube](https://www.youtube.com/seatable), donde publicamos muchos vídeos explicativos, y nuestro [blog SeaTable]({{< relref "posts" >}}), donde escribimos regularmente sobre nuevos casos de uso y soluciones.
 

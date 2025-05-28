@@ -169,7 +169,7 @@ sections:
             image_alt: Gerencie as suas subscrições de newsletter e analise o seu sucesso.
       buttons:
           - label: Descubra todos os modelos
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
 
     - name: 'content-13'
       weight: 11
