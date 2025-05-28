@@ -22,11 +22,16 @@ First, increase the row height in the table `Categories`to see more of the links
 
 Now create a new column in the table `Categories` to.
 
-> Name: `Sum`  
-> Column type: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`  
-> Formula used: `rollup`  
-> Link column used: `Expenses`  
-> Column used for the calculation: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`  
+> Name: `Sum`
+>
+> Column type: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`
+>
+> Formula used: `rollup`
+>
+> Link column used: `Expenses`
+>
+> Column used for the calculation: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
+>
 > Calculation method `Sum`
 
 ![](images/lvl1-rollup.png)

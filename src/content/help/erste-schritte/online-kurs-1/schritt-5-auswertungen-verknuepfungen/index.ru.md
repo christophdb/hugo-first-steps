@@ -22,11 +22,16 @@ url: '/ru/pomoshch/schritt-5-auswertungen-verknuepfungen'
 
 Теперь создайте новый столбец в таблице `Categories` к.
 
-> Имя: `Sum`  
-> Тип колонны: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`  
-> Используемая формула: `rollup`  
-> Используется колонка ссылок: `Expenses`  
-> Колонка, используемая для расчета: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`  
+> Имя: `Sum`
+>
+> Тип колонны: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`
+>
+> Используемая формула: `rollup`
+>
+> Используется колонка ссылок: `Expenses`
+>
+> Колонка, используемая для расчета: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
+>
 > Метод расчета `Sum`
 
 ![](images/lvl1-rollup.png)

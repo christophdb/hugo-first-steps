@@ -38,9 +38,12 @@ A continuación, pasamos a las columnas de la tabla para que nuestra base pueda 
 
 **Columna 1:**
 
-> Nombre: `Date`  
-> Tipo de columna: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`  
-> Formato: cualquiera  
+> Nombre: `Date`
+>
+> Tipo de columna: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`
+>
+> Formato: cualquiera
+>
 > Al minuto: `Yes`
 
 **Nota:** En lugar del tipo de columna `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` el tipo de columna `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` puede utilizarse. Mientras que tiene que rellenar manualmente la columna de la fecha, ésta se rellenaría automáticamente con la fecha actual. Esto, por supuesto, ahorra tiempo. Sin embargo, la desventaja sería que ya no podría cambiar el valor de la fecha y, por ejemplo, ya no podría introducir retroactivamente gastos de otros días.
@@ -49,15 +52,18 @@ A continuación, pasamos a las columnas de la tabla para que nuestra base pueda 
 
 **Columna 2:**
 
-> Nombre: `Amount`  
-> Tipo de columna: `{{< seatable-icon icon="dtable-icon-number" >}} Number`  
+> Nombre: `Amount`
+>
+> Tipo de columna: `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+>
 > Formato: `Euro`
 
 ---
 
 **Columna 3:**
 
-> Nombre: `Category`  
+> Nombre: `Category`
+>
 > Tipo de columna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
 
 ---

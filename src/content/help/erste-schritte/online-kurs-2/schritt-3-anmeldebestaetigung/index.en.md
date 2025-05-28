@@ -44,11 +44,16 @@ The emails are not actually sent, but appear in your Mailtrap mailbox. Test this
 
 Now we can see in the table `Registrations` to create a new column for sending e-mails. Use the following settings:
 
-> Name: any  
-> Column type: `{{< seatable-icon icon="dtable-icon-button" >}} Button`  
-> Label: `Send`  
-> Action: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`  
-> Subject: `Confirmation: Course {Registered for}`  
+> Name: any
+>
+> Column type: `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+>
+> Label: `Send`
+>
+> Action: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+>
+> Subject: `Confirmation: Course {Registered for}`
+>
 > Recipient: `customer@example.com`
 
 ![](images/lvl2-create-button.png)

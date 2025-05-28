@@ -44,7 +44,15 @@ Die E-Mails werden nicht wirklich versendet, sondern erscheinen in Ihrem Mailtra
 
 Jetzt können wir in der Tabelle `Registrations` eine neue Spalte für den E-Mail-Versand anlegen. Verwenden Sie die folgenden Einstellungen:
 
-> Name: beliebig Spaltentyp: `{{< seatable-icon icon="dtable-icon-button" >}} Button` Label: `Send` Action: `{{< seatable-icon icon="dtable-icon-email" >}} Send email` Betreff: `Confirmation: Course {Registered for}` Empfänger: `customer@example.com`
+> Name: beliebig Spaltentyp: `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+>
+> Label: `Send`
+>
+> Action: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+>
+> Betreff: `Confirmation: Course {Registered for}`
+>
+> Empfänger: `customer@example.com`
 
 ![](images/lvl2-create-button.png)
 

@@ -38,9 +38,12 @@ Ensuite, nous nous penchons sur les colonnes du tableau afin que notre base puis
 
 **Colonne 1 :**
 
-> Nom : `Date`  
-> Type de colonne : `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`  
-> Format : au choix  
+> Nom : `Date`
+>
+> Type de colonne : `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`
+>
+> Format : au choix
+>
 > A la minute près : `Yes`
 
 **Remarque :** Au lieu du type de colonne `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` on aurait également pu utiliser ici le type de colonne `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` peut être utilisée. Alors que vous devez remplir la colonne de date à la main, celle-ci serait automatiquement remplie avec la date du jour. Cela permet bien sûr de gagner du temps. Mais l'inconvénient serait que vous ne pourriez plus modifier la valeur de la date et que, par exemple, vous ne pourriez plus saisir rétroactivement des dépenses pour d'autres jours.
@@ -49,15 +52,18 @@ Ensuite, nous nous penchons sur les colonnes du tableau afin que notre base puis
 
 **Colonne 2 :**
 
-> Nom : `Amount`  
-> Type de colonne : `{{< seatable-icon icon="dtable-icon-number" >}} Number`  
+> Nom : `Amount`
+>
+> Type de colonne : `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+>
 > Format : `Euro`
 
 ---
 
 **Colonne 3 :**
 
-> Nom : `Category`  
+> Nom : `Category`
+>
 > Type de colonne : `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
 
 ---

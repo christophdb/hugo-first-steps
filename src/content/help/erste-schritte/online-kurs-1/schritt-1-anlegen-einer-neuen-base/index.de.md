@@ -39,8 +39,11 @@ Als Nächsten wenden wir uns den Spalten der Tabelle zu, damit unsere Base die g
 **Spalte 1:**
 
 > Name: `Date`
+>
 > Spaltentyp: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`
+>
 > Format: beliebig
+>
 > Minutengenau: `Yes`
 
 **Hinweis:** Anstelle des Spaltentyps `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` hätte man hier auch den Spaltentyp `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` verwenden können. Während Sie die Datumsspalte händisch ausfüllen müssen, würde diese automatisch mit dem aktuellen Datum gefüllt werden. Das spart natürlich Zeit. Der Nachteil wäre aber, dass Sie den Datumswert nicht mehr verändern können und z.B. rückwirkend keine Ausgaben mehr für andere Tage erfassen könnten.
@@ -50,7 +53,9 @@ Als Nächsten wenden wir uns den Spalten der Tabelle zu, damit unsere Base die g
 **Spalte 2:**
 
 > Name: `Amount`
+>
 > Spaltentyp: `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+>
 > Format: `Euro`
 
 ---
@@ -58,6 +63,7 @@ Als Nächsten wenden wir uns den Spalten der Tabelle zu, damit unsere Base die g
 **Spalte 3:**
 
 > Name: `Category`
+>
 > Spaltentyp: `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
 
 ---

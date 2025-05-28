@@ -44,11 +44,16 @@ As mensagens de correio eletrónico não são realmente enviadas, mas aparecem n
 
 Agora podemos ver no quadro `Registrations` para criar uma nova coluna para enviar mensagens de correio eletrónico. Utilize as seguintes definições:
 
-> Nome: qualquer  
-> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-button" >}} Button`  
-> Etiqueta: `Send`  
-> Ação: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`  
-> Assunto: `Confirmation: Course {Registered for}`  
+> Nome: qualquer
+>
+> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+>
+> Etiqueta: `Send`
+>
+> Ação: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+>
+> Assunto: `Confirmation: Course {Registered for}`
+>
 > Beneficiário: `customer@example.com`
 
 ![](images/lvl2-create-button.png)

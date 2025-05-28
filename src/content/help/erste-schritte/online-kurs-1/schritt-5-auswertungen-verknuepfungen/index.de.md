@@ -22,7 +22,16 @@ Erhöhen Sie als Erstes die Zeilenhöhe in der Tabelle `Categories`, um mehr von
 
 Legen Sie jetzt eine neue Spalte in der Tabelle `Categories` an.
 
-> Name: `Sum` Spaltentyp: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula` Verwendete Formel: `rollup` Verwendete Link-Spalte: `Expenses` Verwendete Spalte für die Berechnung: `{{< seatable-icon icon="dtable-icon-number" >}} Amount` Berechnungsmethode `Sum`
+> Name: `Sum`
+>
+> Spaltentyp: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`
+> Verwendete Formel: `rollup`
+>
+> Verwendete Link-Spalte: `Expenses`
+>
+> Verwendete Spalte für die Berechnung: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
+>
+> Berechnungsmethode `Sum`
 
 ![](images/lvl1-rollup.png)
 

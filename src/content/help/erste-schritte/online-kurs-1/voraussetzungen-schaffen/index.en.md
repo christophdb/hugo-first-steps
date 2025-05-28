@@ -34,7 +34,7 @@ The third option is our SeaTable Dedicated. With this premium offer, which we of
 
 {{< warning  headline="If you want to know more"  text="You can find out all the details about these three variants in our product comparison." />}}
 
-[To the product comparison](https://seatable.io/en/produktvergleich/)
+[To the product comparison]({{< relref "pages/product/overview" >}})
 
 ## SeaTable Community Forum
 
