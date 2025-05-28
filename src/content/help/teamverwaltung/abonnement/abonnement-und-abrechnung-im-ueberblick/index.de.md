@@ -1,11 +1,11 @@
 ---
-title: "Abonnement und Abrechnung im Überblick"
+title: 'Abonnement und Abrechnung im Überblick'
 date: 2023-05-12
-lastmod: "2023-05-12"
-categories: 
-  - "teamverwaltung-abonnement"
-author: "nsc2"
-url: "/de/hilfe/abonnement-und-abrechnung-im-ueberblick"
+lastmod: '2023-05-12'
+categories:
+    - 'teamverwaltung-abonnement'
+author: 'nsc2'
+url: '/de/hilfe/abonnement-und-abrechnung-im-ueberblick'
 ---
 
 Der folgende Artikel dient als Übersichtsartikel zum Thema Abonnement und Abrechnung. Von den einzelnen verfügbaren Abo-Paketen, dem Abruf Ihrer Rechnungen bis hin zur Kündigung Ihres Abos - Sie finden hier jegliche Links zu den verfügbaren Hilfe-Artikeln, die Ihnen alle Fragen bezüglich Abonnement und Abrechnung beantworten.
@@ -20,7 +20,7 @@ Das Free-Abonnement ist grundsätzlich für jeden kostenlos und bietet Ihnen ber
 
 SeaTable bietet verschiedene Abo-Pakete an, die je nach Preisstufe in Ihren Funktionen und Möglichkeiten variieren und somit ganz auf Ihre individuellen Bedürfnisse angepasst werden können.
 
-[Erfahren Sie mehr zu den verschiedenen Abo-Paketen in SeaTable.](https://seatable.io/docs/abo-abrechnung/abo-pakete/)
+[Erfahren Sie mehr zu den verschiedenen Abo-Paketen in SeaTable.]({{< refref "help/teamverwaltung/abonnement/abo-pakete" >}})
 
 ## Abonnement Verwaltung
 

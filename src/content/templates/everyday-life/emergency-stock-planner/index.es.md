@@ -21,4 +21,4 @@ En la tabla vinculada, introduzca las personas para las que está creando su sum
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. ¿Tiene alguna duda? Nuestrasección de ayudale ayudará.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. ¿Tiene alguna duda? nuestra [sección de ayuda]({{< relref "help" >}})le ayudará.

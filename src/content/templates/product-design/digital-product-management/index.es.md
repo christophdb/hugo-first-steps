@@ -21,4 +21,4 @@ En nuestra plantilla hemos representado una gestión digital de productos con di
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. ¿Tiene alguna pregunta? Eche un vistazo a nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. ¿Tiene alguna pregunta? Eche un vistazo a nuestra [sección de ayuda]({{< relref "help" >}}).

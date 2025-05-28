@@ -23,4 +23,4 @@ Aquíencontrará más información sobre cómo catalogar sus libros.
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tiene alguna duda, le recomendamos que utilice nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tiene alguna duda, le recomendamos que utilice nuestra [sección de ayuda]({{< relref "help" >}}).

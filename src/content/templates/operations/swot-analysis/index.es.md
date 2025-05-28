@@ -47,7 +47,7 @@ Establezca permisos de página individuales para controlar el acceso con precisi
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de análisis DAFO. Si tiene alguna pregunta o problema, nuestrasección de ayudaestá a su disposición.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de análisis DAFO. Si tiene alguna pregunta o problema, nuestra [sección de ayuda]({{< relref "help" >}})está a su disposición.
 
 ​
 

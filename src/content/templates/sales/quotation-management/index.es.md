@@ -123,6 +123,6 @@ Si desea utilizar gratuitamente la plantilla de redacción de ofertas,sólo tien
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de redacción de presupuestos. Si tiene alguna duda, consulte nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones de la plantilla de redacción de presupuestos. Si tiene alguna duda, consulte nuestra [sección de ayuda]({{< relref "help" >}}).
 
 ​

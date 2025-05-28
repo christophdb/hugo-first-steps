@@ -27,4 +27,4 @@ Encontrará más información sobre la gestión inmobiliaria en nuestro artícul
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tiene alguna pregunta sobre SeaTable, le recomendamos nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tiene alguna pregunta sobre SeaTable, le recomendamos nuestra [sección de ayuda]({{< relref "help" >}}).

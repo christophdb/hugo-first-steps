@@ -21,4 +21,4 @@ Leael artículo denuestro blog para saber por qué debe utilizar una base de dat
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. ¿Aún tiene preguntas? Entonces eche un vistazo a nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada interactivamente o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Así conocerá mejor las funciones. ¿Aún tiene preguntas? Entonces eche un vistazo a nuestra [sección de ayuda]({{< relref "help" >}}).

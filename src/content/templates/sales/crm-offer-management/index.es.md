@@ -21,4 +21,4 @@ Simplemente introduzca los datos de sus clientes a través deun formularioweb y 
 
 ## Plantilla interactiva
 
-Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el símbolo i que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tiene alguna duda o pregunta, consulte nuestrasección de ayuda.
+Desplácese por nuestra plantilla incrustada de forma interactiva o lea la descripción haciendo clic en el {{< seatable-icon icon="dtable-icon-description" >}} que aparece tras el nombre de la plantilla. Esto le dará una mejor idea de las funciones. Si tiene alguna duda o pregunta, consulte nuestra [sección de ayuda]({{< relref "help" >}}).
