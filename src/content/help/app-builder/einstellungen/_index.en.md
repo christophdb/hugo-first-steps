@@ -1,4 +1,4 @@
 ---
-title: Settings
+title: App settings
 url: /help/app-builder/settings
 ---
