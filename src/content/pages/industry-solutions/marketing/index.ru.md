@@ -16,6 +16,7 @@ sections:
           - label: Начать сейчас
             link: 'pages/registration'
             style: primary
+            id: ru-marketing-registration
           - label: Узнать о функциях
             link: pages/functions
 
@@ -119,6 +120,7 @@ sections:
       buttons:
           - label: Зарегистрироваться сейчас и начать
             link: pages/registration
+            id: ru-marketing-registration-2
 
     - name: content-11
       weight: 8
@@ -233,6 +235,7 @@ sections:
       buttons:
           - label: Зарегистрироваться сейчас и начать
             link: pages/registration
+            id: ru-marketing-registration-3
 
     - name: faq
       weight: 15

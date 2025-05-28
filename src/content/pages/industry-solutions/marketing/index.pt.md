@@ -16,6 +16,7 @@ sections:
           - label: Comece agora
             link: 'pages/registration'
             style: primary
+            id: pt-marketing-registration
           - label: Descubra as funcionalidades
             link: pages/functions
 
@@ -118,6 +119,7 @@ sections:
       buttons:
           - label: Registe-se agora e comece
             link: pages/registration
+            id: pt-marketing-registration-2
 
     - name: content-11
       weight: 8
@@ -232,6 +234,7 @@ sections:
       buttons:
           - label: Registe-se agora e comece
             link: pages/registration
+            id: pt-marketing-registration-3
 
     - name: faq
       weight: 15
