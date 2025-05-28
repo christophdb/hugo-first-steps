@@ -2,7 +2,7 @@
 title: 'Lista de tarefas'
 description: ''
 date: 2024-08-30
-url: '/template/to-do-list'
+url: '/pt/modelo/to-do-list'
 category: 'projects'
 functions:
 seo:

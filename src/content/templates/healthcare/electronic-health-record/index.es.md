@@ -2,7 +2,7 @@
 title: 'Historia clínica digital'
 description: ''
 date: '2024-08-24'
-url: '/template/electronic-health-record'
+url: '/es/plantilla/electronic-health-record'
 category: 'healthcare'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Список дел'
 description: ''
 date: 2024-08-30
-url: '/template/to-do-list'
+url: '/ru/шаблон/to-do-list'
 category: 'projects'
 functions:
 seo:

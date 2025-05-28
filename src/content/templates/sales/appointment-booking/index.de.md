@@ -2,7 +2,7 @@
 title: 'Terminbuchungen'
 description: ''
 date: '2024-08-16'
-url: '/template/appointment-booking'
+url: '/de/vorlage/appointment-booking'
 category: 'sales'
 functions:
 seo:

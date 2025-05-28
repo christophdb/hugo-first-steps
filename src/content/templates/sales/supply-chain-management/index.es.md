@@ -2,7 +2,7 @@
 title: 'Gestión de la cadena de suministro'
 description: ''
 date: '2024-08-24'
-url: '/template/supply-chain-management'
+url: '/es/plantilla/supply-chain-management'
 category: 'sales'
 functions:
 seo:

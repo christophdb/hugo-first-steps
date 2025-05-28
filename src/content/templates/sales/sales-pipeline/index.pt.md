@@ -2,7 +2,7 @@
 title: 'Gasoduto de vendas'
 description: ''
 date: '2024-08-16'
-url: '/template/sales-pipeline'
+url: '/pt/modelo/sales-pipeline'
 category: 'sales'
 functions:
 seo:

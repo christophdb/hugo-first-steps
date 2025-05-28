@@ -2,7 +2,7 @@
 title: 'Maßnahmenplan'
 description: ''
 date: '2024-08-24'
-url: '/template/action-plan'
+url: '/de/vorlage/action-plan'
 category: 'projects'
 functions:
 seo:

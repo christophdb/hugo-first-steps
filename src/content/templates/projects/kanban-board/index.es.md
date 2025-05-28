@@ -2,7 +2,7 @@
 title: 'Plantilla de tablero Kanban'
 description: ''
 date: '2025-03-05'
-url: '/template/kanban-board'
+url: '/es/plantilla/kanban-board'
 category: 'projects'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Gestão de pedidos de férias'
 description: ''
 date: '2024-08-24'
-url: '/template/holiday-request-management'
+url: '/pt/modelo/holiday-request-management'
 category: 'human-resources'
 functions:
 seo:

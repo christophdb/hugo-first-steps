@@ -2,7 +2,7 @@
 title: 'Feuille de route technologique'
 description: ''
 date: '2024-08-24'
-url: '/template/technology-roadmap'
+url: '/fr/modele/technology-roadmap'
 category: 'software-development'
 functions:
 seo:

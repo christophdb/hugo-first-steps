@@ -2,7 +2,7 @@
 title: 'Comparación de precios'
 description: ''
 date: '2024-08-24'
-url: '/template/price-comparison'
+url: '/es/plantilla/price-comparison'
 category: 'finance'
 functions:
 seo:

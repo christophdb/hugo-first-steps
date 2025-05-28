@@ -2,7 +2,7 @@
 title: 'Возмещение расходов'
 description: ''
 date: '2024-08-24'
-url: '/template/expenses-reimbursement'
+url: '/ru/шаблон/expenses-reimbursement'
 category: 'human-resources'
 functions:
 seo:

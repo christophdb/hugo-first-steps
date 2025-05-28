@@ -2,7 +2,7 @@
 title: 'Helpdesk de TI'
 description: ''
 date: '2025-05-02'
-url: '/template/it-helpdesk'
+url: '/pt/modelo/it-helpdesk'
 category: 'software-development'
 functions:
 seo:

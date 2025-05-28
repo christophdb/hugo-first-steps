@@ -2,7 +2,7 @@
 title: 'SWOT-анализа'
 description: ''
 date: '2025-02-23'
-url: '/template/swot-analysis'
+url: '/ru/шаблон/swot-analysis'
 category: 'operations'
 functions:
 seo:

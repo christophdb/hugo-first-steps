@@ -2,7 +2,7 @@
 title: 'Recrutement de personnel'
 description: ''
 date: '2024-08-24'
-url: '/template/hr-recruiting'
+url: '/fr/modele/hr-recruiting'
 category: 'human-resources'
 functions:
 seo:

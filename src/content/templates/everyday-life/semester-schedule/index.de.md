@@ -2,7 +2,7 @@
 title: 'Studienplaner'
 description: ''
 date: '2024-08-24'
-url: '/template/semester-schedule'
+url: '/de/vorlage/semester-schedule'
 category: 'everyday-life'
 functions:
 seo:

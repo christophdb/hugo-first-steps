@@ -2,7 +2,7 @@
 title: 'Garder des animaux domestiques'
 description: ''
 date: '2024-08-24'
-url: '/template/pet-care'
+url: '/fr/modele/pet-care'
 category: 'everyday-life'
 functions:
 seo:

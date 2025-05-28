@@ -2,7 +2,7 @@
 title: 'Plano de relocalização'
 description: ''
 date: '2024-08-24'
-url: '/template/moving-plan'
+url: '/pt/modelo/moving-plan'
 category: 'real-estate'
 functions:
 seo:

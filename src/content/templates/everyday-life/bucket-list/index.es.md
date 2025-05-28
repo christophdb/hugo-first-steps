@@ -2,7 +2,7 @@
 title: 'Lista de cosas que hacer antes de morir'
 description: ''
 date: '2024-08-24'
-url: '/template/bucket-list'
+url: '/es/plantilla/bucket-list'
 category: 'everyday-life'
 functions:
 seo:

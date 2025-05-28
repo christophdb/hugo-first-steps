@@ -2,7 +2,7 @@
 title: 'Plan de rédaction'
 description: ''
 date: '2024-08-24'
-url: '/template/writing-plan'
+url: '/fr/modele/writing-plan'
 category: 'projects'
 functions:
 seo:

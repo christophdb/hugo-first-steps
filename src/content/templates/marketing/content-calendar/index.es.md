@@ -2,7 +2,7 @@
 title: 'Planificación de la campaña'
 description: ''
 date: '2024-08-24'
-url: '/template/content-calendar'
+url: '/es/plantilla/content-calendar'
 category: 'marketing'
 functions:
 seo:

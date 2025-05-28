@@ -2,7 +2,7 @@
 title: 'Plan de redes sociales'
 description: ''
 date: '2025-02-17'
-url: '/template/social-media-plan'
+url: '/es/plantilla/social-media-plan'
 category: 'marketing'
 functions:
 seo:

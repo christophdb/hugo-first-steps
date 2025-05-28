@@ -2,7 +2,7 @@
 title: 'Plan de plantation'
 description: ''
 date: '2025-05-15'
-url: '/template/planting-plan'
+url: '/fr/modele/planting-plan'
 category: 'everyday-life'
 functions:
 seo:

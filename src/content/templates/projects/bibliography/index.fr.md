@@ -2,7 +2,7 @@
 title: 'Bibliographie'
 description: ''
 date: '2024-08-24'
-url: '/template/bibliography'
+url: '/fr/modele/bibliography'
 category: 'projects'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Estrategia de marketing de contenidos'
 description: ''
 date: '2024-08-16'
-url: '/template/content-marketing-strategy'
+url: '/es/plantilla/content-marketing-strategy'
 category: 'marketing'
 functions:
 seo:

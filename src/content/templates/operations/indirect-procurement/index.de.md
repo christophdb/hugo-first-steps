@@ -2,7 +2,7 @@
 title: 'Indirekter Einkauf'
 description: ''
 date: '2024-08-24'
-url: '/template/indirect-procurement'
+url: '/de/vorlage/indirect-procurement'
 category: 'operations'
 functions:
 seo:

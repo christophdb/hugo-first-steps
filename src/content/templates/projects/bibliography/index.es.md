@@ -2,7 +2,7 @@
 title: 'Bibliografía'
 description: ''
 date: '2024-08-24'
-url: '/template/bibliography'
+url: '/es/plantilla/bibliography'
 category: 'projects'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Auftragsbestätigung Vorlage'
 description: ''
 date: '2025-05-02'
-url: '/template/order-confirmation'
+url: '/de/vorlage/order-confirmation'
 category: 'sales'
 functions:
 seo:

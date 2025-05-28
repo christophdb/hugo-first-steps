@@ -2,7 +2,7 @@
 title: 'Справочник сотрудников'
 description: ''
 date: '2025-04-18'
-url: '/template/employee-directory'
+url: '/ru/шаблон/employee-directory'
 category: 'human-resources'
 functions:
 seo:

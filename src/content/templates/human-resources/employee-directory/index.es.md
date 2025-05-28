@@ -2,7 +2,7 @@
 title: 'Directorio del personal'
 description: ''
 date: '2025-04-18'
-url: '/template/employee-directory'
+url: '/es/plantilla/employee-directory'
 category: 'human-resources'
 functions:
 seo:

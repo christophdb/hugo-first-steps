@@ -2,7 +2,7 @@
 title: 'CRM: Kundenmanagement'
 description: ''
 date: '2025-04-05'
-url: '/template/crm-offer-management'
+url: '/de/vorlage/crm-offer-management'
 category: 'sales'
 functions:
 seo:

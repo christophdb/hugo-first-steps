@@ -2,7 +2,7 @@
 title: 'Passwort-Manager'
 description: ''
 date: '2024-08-24'
-url: '/template/password-manager'
+url: '/de/vorlage/password-manager'
 category: 'everyday-life'
 functions:
 seo:

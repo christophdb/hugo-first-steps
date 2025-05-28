@@ -2,7 +2,7 @@
 title: 'Kontaktformular'
 description: ''
 date: '2024-08-24'
-url: '/template/contact-form'
+url: '/de/vorlage/contact-form'
 category: 'sales'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Planificador de festivales'
 description: ''
 date: '2024-08-24'
-url: '/template/festival-planner'
+url: '/es/plantilla/festival-planner'
 category: 'events'
 functions:
 seo:

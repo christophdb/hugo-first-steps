@@ -2,7 +2,7 @@
 title: 'Семинары'
 description: ''
 date: '2024-08-24'
-url: '/template/workshop-planner'
+url: '/ru/шаблон/workshop-planner'
 category: 'human-resources'
 functions:
 seo:

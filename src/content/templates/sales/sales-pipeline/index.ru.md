@@ -2,7 +2,7 @@
 title: 'Конвейер продаж'
 description: ''
 date: '2024-08-16'
-url: '/template/sales-pipeline'
+url: '/ru/шаблон/sales-pipeline'
 category: 'sales'
 functions:
 seo:

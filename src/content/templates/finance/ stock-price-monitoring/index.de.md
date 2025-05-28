@@ -2,7 +2,7 @@
 title: 'Überwachung von Aktienkursen'
 description: ''
 date: '2024-08-24'
-url: '/template/stock-price-monitoring'
+url: '/de/vorlage/stock-price-monitoring'
 category: 'finance'
 functions:
 seo:

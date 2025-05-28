@@ -2,7 +2,7 @@
 title: 'Formulário de contacto'
 description: ''
 date: '2024-08-24'
-url: '/template/contact-form'
+url: '/pt/modelo/contact-form'
 category: 'sales'
 functions:
 seo:

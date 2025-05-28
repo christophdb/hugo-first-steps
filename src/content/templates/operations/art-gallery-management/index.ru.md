@@ -2,7 +2,7 @@
 title: 'Управление художественной галереей'
 description: ''
 date: '2024-08-24'
-url: '/template/art-gallery-management'
+url: '/ru/шаблон/art-gallery-management'
 category: 'operations'
 functions:
 seo:

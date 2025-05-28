@@ -2,7 +2,7 @@
 title: 'Gestion de la chaîne d\'approvisionnement'
 description: ''
 date: '2024-08-24'
-url: '/template/supply-chain-management'
+url: '/fr/modele/supply-chain-management'
 category: 'sales'
 functions:
 seo:

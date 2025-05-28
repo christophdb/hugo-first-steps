@@ -2,7 +2,7 @@
 title: 'Registo de convidados'
 description: ''
 date: '2024-08-24'
-url: '/template/guest-registration'
+url: '/pt/modelo/guest-registration'
 category: 'healthcare'
 functions:
 seo:

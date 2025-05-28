@@ -2,7 +2,7 @@
 title: 'Бронирование назначений'
 description: ''
 date: '2024-08-16'
-url: '/template/appointment-booking'
+url: '/ru/шаблон/appointment-booking'
 category: 'sales'
 functions:
 seo:

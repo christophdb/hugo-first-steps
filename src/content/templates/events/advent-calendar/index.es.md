@@ -2,7 +2,7 @@
 title: 'Calendario de Adviento'
 description: ''
 date: '2025-02-28'
-url: '/template/advent-calendar'
+url: '/es/plantilla/advent-calendar'
 category: 'events'
 functions:
 seo:

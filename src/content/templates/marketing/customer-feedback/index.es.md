@@ -2,7 +2,7 @@
 title: 'Comentarios de los clientes'
 description: ''
 date: '2024-08-24'
-url: '/template/customer-feedback'
+url: '/es/plantilla/customer-feedback'
 category: 'marketing'
 functions:
 seo:

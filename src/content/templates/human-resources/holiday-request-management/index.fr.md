@@ -2,7 +2,7 @@
 title: 'Gestion des demandes de congé'
 description: ''
 date: '2024-08-24'
-url: '/template/holiday-request-management'
+url: '/fr/modele/holiday-request-management'
 category: 'human-resources'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Produktbibliothek'
 description: ''
 date: '2024-08-24'
-url: '/template/product-library'
+url: '/de/vorlage/product-library'
 category: 'product-design'
 functions:
 seo:

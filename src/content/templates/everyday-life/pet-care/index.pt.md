@@ -2,7 +2,7 @@
 title: 'Manter os animais de estimação'
 description: ''
 date: '2024-08-24'
-url: '/template/pet-care'
+url: '/pt/modelo/pet-care'
 category: 'everyday-life'
 functions:
 seo:

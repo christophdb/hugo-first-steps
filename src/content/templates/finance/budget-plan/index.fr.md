@@ -2,7 +2,7 @@
 title: 'Planification budgétaire'
 description: ''
 date: '2024-08-24'
-url: '/template/budget-plan'
+url: '/fr/modele/budget-plan'
 category: 'finance'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Раскадровка'
 description: ''
 date: '2024-08-24'
-url: '/template/storyboard'
+url: '/ru/шаблон/storyboard'
 category: 'marketing'
 functions:
 seo:

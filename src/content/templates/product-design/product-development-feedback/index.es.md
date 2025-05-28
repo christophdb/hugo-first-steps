@@ -2,7 +2,7 @@
 title: 'Comentarios sobre el desarrollo de productos'
 description: ''
 date: '2024-08-24'
-url: '/template/product-development-feedback'
+url: '/es/plantilla/product-development-feedback'
 category: 'product-design'
 functions:
 seo:

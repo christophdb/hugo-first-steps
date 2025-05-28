@@ -2,7 +2,7 @@
 title: 'Rechnung schreiben'
 description: ''
 date: '2025-03-24'
-url: '/template/invoice-creation'
+url: '/de/vorlage/invoice-creation'
 category: 'finance'
 functions:
 seo:

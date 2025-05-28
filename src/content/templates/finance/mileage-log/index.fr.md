@@ -2,7 +2,7 @@
 title: 'Modèle de carnet de route'
 description: ''
 date: '2025-02-23'
-url: '/template/mileage-log'
+url: '/fr/modele/mileage-log'
 category: 'finance'
 functions:
 seo:

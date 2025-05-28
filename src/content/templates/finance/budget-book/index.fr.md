@@ -2,7 +2,7 @@
 title: 'Livre de ménage'
 description: ''
 date: '2024-08-24'
-url: '/template/budget-book'
+url: '/fr/modele/budget-book'
 category: 'finance'
 functions:
 seo:

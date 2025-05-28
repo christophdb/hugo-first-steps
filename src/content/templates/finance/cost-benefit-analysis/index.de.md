@@ -2,7 +2,7 @@
 title: 'Kosten-Nutzen-Analyse'
 description: ''
 date: '2024-08-24'
-url: '/template/cost-benefit-analysis'
+url: '/de/vorlage/cost-benefit-analysis'
 category: 'finance'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Управление цифровыми продуктами'
 description: ''
 date: '2024-08-24'
-url: '/template/digital-product-management'
+url: '/ru/шаблон/digital-product-management'
 category: 'product-design'
 functions:
 seo:

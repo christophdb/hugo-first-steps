@@ -2,7 +2,7 @@
 title: 'Software de gestión de flotas'
 description: ''
 date: '2025-03-12'
-url: '/template/fleet-management'
+url: '/es/plantilla/fleet-management'
 category: 'operations'
 functions:
 seo:

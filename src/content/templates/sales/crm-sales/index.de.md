@@ -2,7 +2,7 @@
 title: 'CRM & Verkäufe'
 description: ''
 date: '2024-08-16'
-url: '/template/crm-sales'
+url: '/de/vorlage/crm-sales'
 category: 'sales'
 functions:
 seo:

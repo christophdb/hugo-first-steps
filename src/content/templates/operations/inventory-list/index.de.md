@@ -2,7 +2,7 @@
 title: 'Inventarliste Vorlage'
 description: ''
 date: '2025-02-28'
-url: '/template/inventory-list'
+url: '/de/vorlage/inventory-list'
 category: 'operations'
 functions:
 seo:

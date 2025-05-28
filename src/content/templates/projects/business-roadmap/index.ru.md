@@ -2,7 +2,7 @@
 title: 'Бизнес-план'
 description: ''
 date: '2024-08-24'
-url: '/template/business-roadmap'
+url: '/ru/шаблон/business-roadmap'
 category: 'projects'
 functions:
 seo:

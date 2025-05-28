@@ -2,7 +2,7 @@
 title: 'Empregado a bordo'
 description: ''
 date: '2024-08-24'
-url: '/template/employee-onboarding'
+url: '/pt/modelo/employee-onboarding'
 category: 'human-resources'
 functions:
 seo:

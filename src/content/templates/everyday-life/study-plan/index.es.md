@@ -2,7 +2,7 @@
 title: 'Plan de aprendizaje'
 description: ''
 date: '2024-08-24'
-url: '/template/study-plan'
+url: '/es/plantilla/study-plan'
 category: 'everyday-life'
 functions:
 seo:

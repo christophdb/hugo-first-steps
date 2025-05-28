@@ -2,7 +2,7 @@
 title: 'программное обеспечение для управления автопарком'
 description: ''
 date: '2025-03-12'
-url: '/template/fleet-management'
+url: '/ru/шаблон/fleet-management'
 category: 'operations'
 functions:
 seo:

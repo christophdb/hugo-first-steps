@@ -2,7 +2,7 @@
 title: 'Fahrtenbuch Vorlage'
 description: ''
 date: '2025-02-23'
-url: '/template/mileage-log'
+url: '/de/vorlage/mileage-log'
 category: 'finance'
 functions:
 seo:

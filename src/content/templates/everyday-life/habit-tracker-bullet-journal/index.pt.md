@@ -2,7 +2,7 @@
 title: 'Rastreador de hábitos e Bullet Journal'
 description: ''
 date: '2024-08-24'
-url: '/template/habit-tracker-bullet-journal'
+url: '/pt/modelo/habit-tracker-bullet-journal'
 category: 'everyday-life'
 functions:
 seo:

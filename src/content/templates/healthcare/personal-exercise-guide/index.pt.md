@@ -2,7 +2,7 @@
 title: 'Plano de formação pessoal'
 description: ''
 date: '2024-08-24'
-url: '/template/personal-exercise-guide'
+url: '/pt/modelo/personal-exercise-guide'
 category: 'healthcare'
 functions:
 seo:

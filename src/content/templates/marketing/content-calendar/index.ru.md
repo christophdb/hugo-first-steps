@@ -2,7 +2,7 @@
 title: 'Планирование кампании'
 description: ''
 date: '2024-08-24'
-url: '/template/content-calendar'
+url: '/ru/шаблон/content-calendar'
 category: 'marketing'
 functions:
 seo:

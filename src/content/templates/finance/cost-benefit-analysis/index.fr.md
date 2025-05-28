@@ -2,7 +2,7 @@
 title: 'Analyse coûts-bénéfices'
 description: ''
 date: '2024-08-24'
-url: '/template/cost-benefit-analysis'
+url: '/fr/modele/cost-benefit-analysis'
 category: 'finance'
 functions:
 seo:

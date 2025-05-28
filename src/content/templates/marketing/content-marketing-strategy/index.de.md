@@ -2,7 +2,7 @@
 title: 'Content Marketing Strategie'
 description: ''
 date: '2024-08-16'
-url: '/template/content-marketing-strategy'
+url: '/de/vorlage/content-marketing-strategy'
 category: 'marketing'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Plan d\'action'
 description: ''
 date: '2024-08-24'
-url: '/template/action-plan'
+url: '/fr/modele/action-plan'
 category: 'projects'
 functions:
 seo:

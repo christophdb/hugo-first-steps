@@ -2,7 +2,7 @@
 title: 'Hausmeisterdienste'
 description: ''
 date: '2024-08-24'
-url: '/template/janitorial-services'
+url: '/de/vorlage/janitorial-services'
 category: 'real-estate'
 functions:
 seo:

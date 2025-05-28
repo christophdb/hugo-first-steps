@@ -2,7 +2,7 @@
 title: 'Modelo de diário de bordo'
 description: ''
 date: '2025-02-23'
-url: '/template/mileage-log'
+url: '/pt/modelo/mileage-log'
 category: 'finance'
 functions:
 seo:

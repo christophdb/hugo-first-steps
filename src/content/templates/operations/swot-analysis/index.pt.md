@@ -2,7 +2,7 @@
 title: 'Modelo de análise SWOT'
 description: ''
 date: '2025-02-23'
-url: '/template/swot-analysis'
+url: '/pt/modelo/swot-analysis'
 category: 'operations'
 functions:
 seo:

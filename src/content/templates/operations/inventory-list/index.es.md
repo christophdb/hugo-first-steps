@@ -2,7 +2,7 @@
 title: 'Modelo de lista de inventario'
 description: ''
 date: '2025-02-28'
-url: '/template/inventory-list'
+url: '/es/plantilla/inventory-list'
 category: 'operations'
 functions:
 seo:

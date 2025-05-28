@@ -2,7 +2,7 @@
 title: 'План переезда'
 description: ''
 date: '2024-08-24'
-url: '/template/moving-plan'
+url: '/ru/шаблон/moving-plan'
 category: 'real-estate'
 functions:
 seo:

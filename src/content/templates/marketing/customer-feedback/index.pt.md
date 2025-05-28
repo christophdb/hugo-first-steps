@@ -2,7 +2,7 @@
 title: 'Feedback do cliente'
 description: ''
 date: '2024-08-24'
-url: '/template/customer-feedback'
+url: '/pt/modelo/customer-feedback'
 category: 'marketing'
 functions:
 seo:

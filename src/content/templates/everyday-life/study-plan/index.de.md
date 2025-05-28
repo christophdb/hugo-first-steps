@@ -2,7 +2,7 @@
 title: 'Lernplan'
 description: ''
 date: '2024-08-24'
-url: '/template/study-plan'
+url: '/de/vorlage/study-plan'
 category: 'everyday-life'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Hochzeitsplaner'
 description: ''
 date: '2024-08-24'
-url: '/template/wedding-planner'
+url: '/de/vorlage/wedding-planner'
 category: 'events'
 functions:
 seo:

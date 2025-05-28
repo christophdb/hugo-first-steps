@@ -2,7 +2,7 @@
 title: 'Структура разбивки работ'
 description: ''
 date: '2024-08-17'
-url: '/template/work-breakdown-structure'
+url: '/ru/шаблон/work-breakdown-structure'
 category: 'projects'
 functions:
 seo:

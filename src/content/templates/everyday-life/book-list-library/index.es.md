@@ -2,7 +2,7 @@
 title: 'Lista de libros / Biblioteca'
 description: ''
 date: '2024-08-24'
-url: '/template/book-list-library'
+url: '/es/plantilla/book-list-library'
 category: 'everyday-life'
 functions:
 seo:

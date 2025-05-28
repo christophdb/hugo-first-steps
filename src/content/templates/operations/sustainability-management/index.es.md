@@ -2,7 +2,7 @@
 title: 'Gestión de la sostenibilidad'
 description: ''
 date: '2024-08-24'
-url: '/template/sustainability-management'
+url: '/es/plantilla/sustainability-management'
 category: 'operations'
 functions:
 seo:

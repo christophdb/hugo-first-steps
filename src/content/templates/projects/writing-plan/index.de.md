@@ -2,7 +2,7 @@
 title: 'Schreibplan'
 description: ''
 date: '2024-08-24'
-url: '/template/writing-plan'
+url: '/de/vorlage/writing-plan'
 category: 'projects'
 functions:
 seo:

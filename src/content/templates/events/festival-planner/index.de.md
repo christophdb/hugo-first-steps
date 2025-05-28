@@ -2,7 +2,7 @@
 title: 'Festivalplaner'
 description: ''
 date: '2024-08-24'
-url: '/template/festival-planner'
+url: '/de/vorlage/festival-planner'
 category: 'events'
 functions:
 seo:

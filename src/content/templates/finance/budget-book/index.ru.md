@@ -2,7 +2,7 @@
 title: 'Бюджетная книга'
 description: ''
 date: '2024-08-24'
-url: '/template/budget-book'
+url: '/ru/шаблон/budget-book'
 category: 'finance'
 functions:
 seo:

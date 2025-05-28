@@ -2,7 +2,7 @@
 title: 'Hoja de ruta tecnológica'
 description: ''
 date: '2024-08-24'
-url: '/template/technology-roadmap'
+url: '/es/plantilla/technology-roadmap'
 category: 'software-development'
 functions:
 seo:

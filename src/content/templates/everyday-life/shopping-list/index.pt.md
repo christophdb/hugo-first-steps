@@ -2,7 +2,7 @@
 title: 'Lista de compras'
 description: ''
 date: '2024-08-24'
-url: '/template/shopping-list'
+url: '/pt/modelo/shopping-list'
 category: 'everyday-life'
 functions:
 seo:

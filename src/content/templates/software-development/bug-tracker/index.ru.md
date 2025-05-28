@@ -2,7 +2,7 @@
 title: 'Отслеживание ошибок'
 description: ''
 date: '2025-01-09'
-url: '/template/bug-tracker'
+url: '/ru/шаблон/bug-tracker'
 category: 'software-development'
 functions:
 seo:

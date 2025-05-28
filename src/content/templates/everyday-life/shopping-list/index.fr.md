@@ -2,7 +2,7 @@
 title: 'Liste d\'achats'
 description: ''
 date: '2024-08-24'
-url: '/template/shopping-list'
+url: '/fr/modele/shopping-list'
 category: 'everyday-life'
 functions:
 seo:

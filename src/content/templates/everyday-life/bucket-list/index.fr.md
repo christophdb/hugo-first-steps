@@ -2,7 +2,7 @@
 title: 'Liste des choses à faire'
 description: ''
 date: '2024-08-24'
-url: '/template/bucket-list'
+url: '/fr/modele/bucket-list'
 category: 'everyday-life'
 functions:
 seo:

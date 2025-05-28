@@ -2,7 +2,7 @@
 title: 'Suscripción al boletín de noticias'
 description: ''
 date: '2024-08-17'
-url: '/template/newsletter-subscription'
+url: '/es/plantilla/newsletter-subscription'
 category: 'marketing'
 functions:
 seo:

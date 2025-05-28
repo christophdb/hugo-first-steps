@@ -2,7 +2,7 @@
 title: 'Arbeitszeiterfassung'
 description: ''
 date: '2024-08-24'
-url: '/template/recording-working-time'
+url: '/de/vorlage/recording-working-time'
 category: 'human-resources'
 functions:
 seo:

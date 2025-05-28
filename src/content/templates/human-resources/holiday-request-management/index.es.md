@@ -2,7 +2,7 @@
 title: 'Gestión de las solicitudes de vacaciones'
 description: ''
 date: '2024-08-24'
-url: '/template/holiday-request-management'
+url: '/es/plantilla/holiday-request-management'
 category: 'human-resources'
 functions:
 seo:

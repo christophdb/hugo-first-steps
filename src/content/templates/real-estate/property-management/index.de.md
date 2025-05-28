@@ -2,7 +2,7 @@
 title: 'Immobilienverwaltung'
 description: ''
 date: '2024-08-24'
-url: '/template/property-management'
+url: '/de/vorlage/property-management'
 category: 'real-estate'
 functions:
 seo:

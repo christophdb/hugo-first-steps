@@ -2,7 +2,7 @@
 title: 'Podcast Redaktionskalender'
 description: ''
 date: '2024-08-16'
-url: '/template/podcast-editorial-calendar'
+url: '/de/vorlage/podcast-editorial-calendar'
 category: 'marketing'
 functions:
 seo:

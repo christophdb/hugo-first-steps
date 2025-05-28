@@ -2,7 +2,7 @@
 title: 'Tener animales de compañía'
 description: ''
 date: '2024-08-24'
-url: '/template/pet-care'
+url: '/es/plantilla/pet-care'
 category: 'everyday-life'
 functions:
 seo:

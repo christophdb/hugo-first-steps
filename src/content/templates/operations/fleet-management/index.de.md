@@ -2,7 +2,7 @@
 title: 'Fuhrparkmanagement Software'
 description: ''
 date: '2025-03-12'
-url: '/template/fleet-management'
+url: '/de/vorlage/fleet-management'
 category: 'operations'
 functions:
 seo:

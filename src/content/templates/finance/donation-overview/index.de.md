@@ -2,7 +2,7 @@
 title: 'Spendenübersicht'
 description: ''
 date: '2024-08-24'
-url: '/template/donation-overview'
+url: '/de/vorlage/donation-overview'
 category: 'finance'
 functions:
 seo:

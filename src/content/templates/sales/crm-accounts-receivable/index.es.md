@@ -2,7 +2,7 @@
 title: 'CRM: Cuentas por cobrar'
 description: ''
 date: '2024-08-16'
-url: '/template/crm-accounts-receivable'
+url: '/es/plantilla/crm-accounts-receivable'
 category: 'sales'
 functions:
 seo:

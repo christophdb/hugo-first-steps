@@ -2,7 +2,7 @@
 title: 'Organizador de casamentos'
 description: ''
 date: '2024-08-24'
-url: '/template/wedding-planner'
+url: '/pt/modelo/wedding-planner'
 category: 'events'
 functions:
 seo:

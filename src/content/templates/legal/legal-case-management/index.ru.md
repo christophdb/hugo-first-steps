@@ -2,7 +2,7 @@
 title: 'Ведение дел'
 description: ''
 date: '2024-08-24'
-url: '/template/legal-case-management'
+url: '/ru/шаблон/legal-case-management'
 category: 'legal'
 functions:
 seo:

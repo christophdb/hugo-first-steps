@@ -2,7 +2,7 @@
 title: 'Modèle de liste d\'inventaire'
 description: ''
 date: '2025-02-28'
-url: '/template/inventory-list'
+url: '/fr/modele/inventory-list'
 category: 'operations'
 functions:
 seo:

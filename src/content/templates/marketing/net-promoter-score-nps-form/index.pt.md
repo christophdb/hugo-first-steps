@@ -2,7 +2,7 @@
 title: 'Questionário NPS'
 description: ''
 date: '2024-08-24'
-url: '/template/net-promoter-score-nps-form'
+url: '/pt/modelo/net-promoter-score-nps-form'
 category: 'marketing'
 functions:
 seo:

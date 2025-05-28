@@ -2,7 +2,7 @@
 title: 'Plan de negocio'
 description: ''
 date: '2024-08-24'
-url: '/template/business-roadmap'
+url: '/es/plantilla/business-roadmap'
 category: 'projects'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Plan éditorial'
 description: ''
 date: '2025-02-17'
-url: '/template/editorial-plan'
+url: '/fr/modele/editorial-plan'
 category: 'marketing'
 functions:
 seo:

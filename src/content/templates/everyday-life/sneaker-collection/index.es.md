@@ -2,7 +2,7 @@
 title: 'Colección de zapatillas'
 description: ''
 date: '2024-08-24'
-url: '/template/sneaker-collection'
+url: '/es/plantilla/sneaker-collection'
 category: 'everyday-life'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'CRM y ventas'
 description: ''
 date: '2024-08-16'
-url: '/template/crm-sales'
+url: '/es/plantilla/crm-sales'
 category: 'sales'
 functions:
 seo:

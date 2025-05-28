@@ -2,7 +2,7 @@
 title: 'IT Helpdesk'
 description: ''
 date: '2025-05-02'
-url: '/template/it-helpdesk'
+url: '/de/vorlage/it-helpdesk'
 category: 'software-development'
 functions:
 seo:

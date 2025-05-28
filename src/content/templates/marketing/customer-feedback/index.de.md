@@ -2,7 +2,7 @@
 title: 'Kundenfeedback'
 description: ''
 date: '2024-08-24'
-url: '/template/customer-feedback'
+url: '/de/vorlage/customer-feedback'
 category: 'marketing'
 functions:
 seo:

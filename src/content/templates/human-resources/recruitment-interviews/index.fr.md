@@ -2,7 +2,7 @@
 title: 'Entretiens d\'embauche'
 description: ''
 date: '2024-08-24'
-url: '/template/recruitment-interviews'
+url: '/fr/modele/recruitment-interviews'
 category: 'human-resources'
 functions:
 seo:

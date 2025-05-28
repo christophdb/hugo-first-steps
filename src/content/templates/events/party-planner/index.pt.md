@@ -2,7 +2,7 @@
 title: 'Planeador de festas'
 description: ''
 date: '2024-08-24'
-url: '/template/party-planner'
+url: '/pt/modelo/party-planner'
 category: 'events'
 functions:
 seo:

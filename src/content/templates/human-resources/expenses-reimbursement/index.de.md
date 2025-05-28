@@ -2,7 +2,7 @@
 title: 'Auslagenerstattung'
 description: ''
 date: '2024-08-24'
-url: '/template/expenses-reimbursement'
+url: '/de/vorlage/expenses-reimbursement'
 category: 'human-resources'
 functions:
 seo:

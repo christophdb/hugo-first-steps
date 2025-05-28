@@ -2,7 +2,7 @@
 title: 'Newsletter Anmeldung'
 description: ''
 date: '2024-08-17'
-url: '/template/newsletter-subscription'
+url: '/de/vorlage/newsletter-subscription'
 category: 'marketing'
 functions:
 seo:

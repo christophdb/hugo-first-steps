@@ -2,7 +2,7 @@
 title: 'Собеседования при приеме на работу'
 description: ''
 date: '2024-08-24'
-url: '/template/recruitment-interviews'
+url: '/ru/шаблон/recruitment-interviews'
 category: 'human-resources'
 functions:
 seo:

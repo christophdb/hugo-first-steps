@@ -2,7 +2,7 @@
 title: 'Gestor de palavras-passe'
 description: ''
 date: '2024-08-24'
-url: '/template/password-manager'
+url: '/pt/modelo/password-manager'
 category: 'everyday-life'
 functions:
 seo:

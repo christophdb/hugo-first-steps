@@ -2,7 +2,7 @@
 title: 'Wohnungssuche'
 description: ''
 date: '2024-08-24'
-url: '/template/apartment-hunting'
+url: '/de/vorlage/apartment-hunting'
 category: 'real-estate'
 functions:
 seo:

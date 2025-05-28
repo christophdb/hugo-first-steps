@@ -2,7 +2,7 @@
 title: 'Angebot schreiben'
 description: ''
 date: '2025-04-06'
-url: '/template/quotation-management'
+url: '/de/vorlage/quotation-management'
 category: 'sales'
 functions:
 seo:

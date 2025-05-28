@@ -2,7 +2,7 @@
 title: 'Chá de bebé'
 description: ''
 date: '2024-08-24'
-url: '/template/baby-party'
+url: '/pt/modelo/baby-party'
 category: 'events'
 functions:
 seo:

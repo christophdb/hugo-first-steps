@@ -2,7 +2,7 @@
 title: 'Gestión de casos'
 description: ''
 date: '2024-08-24'
-url: '/template/legal-case-management'
+url: '/es/plantilla/legal-case-management'
 category: 'legal'
 functions:
 seo:

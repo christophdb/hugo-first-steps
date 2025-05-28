@@ -1,7 +1,7 @@
 ---
 title: 'Portefeuille de projets'
 description: ''
-url: '/template/project-portfolio'
+url: '/fr/modele/project-portfolio'
 category: 'projects'
 functions:
 seo:

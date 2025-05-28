@@ -2,7 +2,7 @@
 title: 'Réservations de rendez-vous'
 description: ''
 date: '2024-08-16'
-url: '/template/appointment-booking'
+url: '/fr/modele/appointment-booking'
 category: 'sales'
 functions:
 seo:

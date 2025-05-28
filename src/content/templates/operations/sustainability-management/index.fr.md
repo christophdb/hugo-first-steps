@@ -2,7 +2,7 @@
 title: 'Gestion du développement durable'
 description: ''
 date: '2024-08-24'
-url: '/template/sustainability-management'
+url: '/fr/modele/sustainability-management'
 category: 'operations'
 functions:
 seo:

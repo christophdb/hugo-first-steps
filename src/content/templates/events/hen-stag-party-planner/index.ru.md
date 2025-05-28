@@ -2,7 +2,7 @@
 title: 'Мальчишник'
 description: ''
 date: '2024-09-06'
-url: '/template/hen-stag-party-planner'
+url: '/ru/шаблон/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:

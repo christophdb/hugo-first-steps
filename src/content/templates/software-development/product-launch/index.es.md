@@ -2,7 +2,7 @@
 title: 'Lanzamiento de productos'
 description: ''
 date: '2024-08-24'
-url: '/template/product-launch'
+url: '/es/plantilla/product-launch'
 category: 'software-development'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Modelo de confirmação de encomenda'
 description: ''
 date: '2025-05-02'
-url: '/template/order-confirmation'
+url: '/pt/modelo/order-confirmation'
 category: 'sales'
 functions:
 seo:

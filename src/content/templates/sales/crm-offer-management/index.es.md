@@ -2,7 +2,7 @@
 title: 'CRM: Gestión de clientes'
 description: ''
 date: '2025-04-05'
-url: '/template/crm-offer-management'
+url: '/es/plantilla/crm-offer-management'
 category: 'sales'
 functions:
 seo:

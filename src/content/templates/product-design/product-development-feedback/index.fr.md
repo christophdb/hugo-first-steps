@@ -2,7 +2,7 @@
 title: 'Feedback sur le développement de produits'
 description: ''
 date: '2024-08-24'
-url: '/template/product-development-feedback'
+url: '/fr/modele/product-development-feedback'
 category: 'product-design'
 functions:
 seo:

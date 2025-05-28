@@ -2,7 +2,7 @@
 title: 'Rastreador de errores'
 description: ''
 date: '2025-01-09'
-url: '/template/bug-tracker'
+url: '/es/plantilla/bug-tracker'
 category: 'software-development'
 functions:
 seo:
@@ -10,7 +10,6 @@ seo:
     description: ''
 template: '51d678ca8b004e9b9b79'
 ---
-
 
 Al desarrollar y probar software complejo, es inevitable encontrarse con errores. Debe registrar, documentar y corregir sistemáticamente estos errores de software para que su software funcione sin problemas o se publique a tiempo. Gracias al sistema de seguimiento de errores de SeaTable, podrá mantener una visión general y organizar una estrecha colaboración entre desarrolladores, probadores y diseñadores de interfaz de usuario y de interfaz de usuario.
 

@@ -2,7 +2,7 @@
 title: 'Recettes et plan de repas'
 description: ''
 date: '2024-08-24'
-url: '/template/recipes-meal-plan'
+url: '/fr/modele/recipes-meal-plan'
 category: 'healthcare'
 functions:
 seo:

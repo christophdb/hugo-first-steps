@@ -2,7 +2,7 @@
 title: 'Despedida de soltero'
 description: ''
 date: '2024-09-06'
-url: '/template/hen-stag-party-planner'
+url: '/es/plantilla/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:

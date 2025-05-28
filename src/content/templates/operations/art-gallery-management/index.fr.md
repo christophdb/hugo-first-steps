@@ -2,7 +2,7 @@
 title: 'Gestion de la galerie d'art'
 description: ''
 date: '2024-08-24'
-url: '/template/art-gallery-management'
+url: '/fr/modele/art-gallery-management'
 category: 'operations'
 functions:
 seo:

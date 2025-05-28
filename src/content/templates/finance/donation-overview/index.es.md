@@ -2,7 +2,7 @@
 title: 'Resumen de donaciones'
 description: ''
 date: '2024-08-24'
-url: '/template/donation-overview'
+url: '/es/plantilla/donation-overview'
 category: 'finance'
 functions:
 seo:

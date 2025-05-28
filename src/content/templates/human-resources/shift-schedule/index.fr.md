@@ -2,7 +2,7 @@
 title: 'Plan d'équipes'
 description: ''
 date: '2024-08-24'
-url: '/template/shift-schedule'
+url: '/fr/modele/shift-schedule'
 category: 'human-resources'
 functions:
 seo:

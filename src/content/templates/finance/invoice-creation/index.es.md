@@ -2,7 +2,7 @@
 title: 'Redactar factura'
 description: ''
 date: '2025-03-24'
-url: '/template/invoice-creation'
+url: '/es/plantilla/invoice-creation'
 category: 'finance'
 functions:
 seo:

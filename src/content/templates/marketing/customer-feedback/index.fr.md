@@ -2,7 +2,7 @@
 title: 'Commentaires des clients'
 description: ''
 date: '2024-08-24'
-url: '/template/customer-feedback'
+url: '/fr/modele/customer-feedback'
 category: 'marketing'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Planificador de bodas'
 description: ''
 date: '2024-08-24'
-url: '/template/wedding-planner'
+url: '/es/plantilla/wedding-planner'
 category: 'events'
 functions:
 seo:

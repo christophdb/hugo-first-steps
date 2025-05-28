@@ -2,7 +2,7 @@
 title: 'Solicitud y carta de presentación'
 description: ''
 date: '2024-08-24'
-url: '/template/application-cover-letter'
+url: '/es/plantilla/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:

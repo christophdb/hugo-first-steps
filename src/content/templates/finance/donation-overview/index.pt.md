@@ -2,7 +2,7 @@
 title: 'Visão geral das doações'
 description: ''
 date: '2024-08-24'
-url: '/template/donation-overview'
+url: '/pt/modelo/donation-overview'
 category: 'finance'
 functions:
 seo:

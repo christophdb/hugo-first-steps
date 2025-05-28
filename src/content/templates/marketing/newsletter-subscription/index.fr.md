@@ -2,7 +2,7 @@
 title: 'Inscription à la newsletter'
 description: ''
 date: '2024-08-17'
-url: '/template/newsletter-subscription'
+url: '/fr/modele/newsletter-subscription'
 category: 'marketing'
 functions:
 seo:

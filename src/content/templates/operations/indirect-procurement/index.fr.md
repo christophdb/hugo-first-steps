@@ -2,7 +2,7 @@
 title: 'Achats indirects'
 description: ''
 date: '2024-08-24'
-url: '/template/indirect-procurement'
+url: '/fr/modele/indirect-procurement'
 category: 'operations'
 functions:
 seo:

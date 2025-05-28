@@ -2,7 +2,7 @@
 title: 'Lista de desejos'
 description: ''
 date: '2024-08-24'
-url: '/template/bucket-list'
+url: '/pt/modelo/bucket-list'
 category: 'everyday-life'
 functions:
 seo:

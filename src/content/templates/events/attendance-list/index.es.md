@@ -2,7 +2,7 @@
 title: 'Lista de asistencia'
 description: ''
 date: '2025-02-28'
-url: '/template/attendance-list'
+url: '/es/plantilla/attendance-list'
 category: 'events'
 functions:
 seo:

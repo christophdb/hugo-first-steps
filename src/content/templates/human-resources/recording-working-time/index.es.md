@@ -2,7 +2,7 @@
 title: 'Registro del tiempo de trabajo'
 description: ''
 date: '2024-08-24'
-url: '/template/recording-working-time'
+url: '/es/plantilla/recording-working-time'
 category: 'human-resources'
 functions:
 seo:

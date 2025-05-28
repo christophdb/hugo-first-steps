@@ -2,7 +2,7 @@
 title: 'Gestão de sucursais'
 description: ''
 date: '2024-08-16'
-url: '/template/store-management'
+url: '/pt/modelo/store-management'
 category: 'sales'
 functions:
 seo:

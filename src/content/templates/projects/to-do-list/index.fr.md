@@ -2,7 +2,7 @@
 title: 'Liste des choses à faire'
 description: ''
 date: 2024-08-30
-url: '/template/to-do-list'
+url: '/fr/modele/to-do-list'
 category: 'projects'
 functions:
 seo:

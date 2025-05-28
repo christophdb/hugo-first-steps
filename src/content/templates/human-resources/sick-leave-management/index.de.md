@@ -2,7 +2,7 @@
 title: 'Verwaltung von Krankenständen'
 description: ''
 date: '2024-08-24'
-url: '/template/sick-leave-management'
+url: '/de/vorlage/sick-leave-management'
 category: 'human-resources'
 functions:
 seo:

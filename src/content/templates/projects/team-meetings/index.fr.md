@@ -2,7 +2,7 @@
 title: 'Réunions d\'équipe'
 description: ''
 date: '2025-03-03'
-url: '/template/team-meetings'
+url: '/fr/modele/team-meetings'
 category: 'projects'
 functions:
 seo:

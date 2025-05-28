@@ -2,7 +2,7 @@
 title: 'Адвент-календарь'
 description: ''
 date: '2025-02-28'
-url: '/template/advent-calendar'
+url: '/ru/шаблон/advent-calendar'
 category: 'events'
 functions:
 seo:

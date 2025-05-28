@@ -2,7 +2,7 @@
 title: 'Gestão de galerias de arte'
 description: ''
 date: '2024-08-24'
-url: '/template/art-gallery-management'
+url: '/pt/modelo/art-gallery-management'
 category: 'operations'
 functions:
 seo:

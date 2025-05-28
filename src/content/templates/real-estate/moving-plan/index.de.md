@@ -2,7 +2,7 @@
 title: 'Umzugsplan'
 description: ''
 date: '2024-08-24'
-url: '/template/moving-plan'
+url: '/de/vorlage/moving-plan'
 category: 'real-estate'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Написать предложение'
 description: ''
 date: '2025-04-06'
-url: '/template/quotation-management'
+url: '/ru/шаблон/quotation-management'
 category: 'sales'
 functions:
 seo:

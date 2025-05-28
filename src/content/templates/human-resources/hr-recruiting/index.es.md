@@ -2,7 +2,7 @@
 title: 'Contratación de personal'
 description: ''
 date: '2024-08-24'
-url: '/template/hr-recruiting'
+url: '/es/plantilla/hr-recruiting'
 category: 'human-resources'
 functions:
 seo:

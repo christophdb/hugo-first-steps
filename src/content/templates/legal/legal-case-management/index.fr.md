@@ -2,7 +2,7 @@
 title: 'Gestion des cas'
 description: ''
 date: '2024-08-24'
-url: '/template/legal-case-management'
+url: '/fr/modele/legal-case-management'
 category: 'legal'
 functions:
 seo:

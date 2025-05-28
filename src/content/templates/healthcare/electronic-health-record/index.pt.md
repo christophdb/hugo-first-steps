@@ -2,7 +2,7 @@
 title: 'Registo de saúde digital'
 description: ''
 date: '2024-08-24'
-url: '/template/electronic-health-record'
+url: '/pt/modelo/electronic-health-record'
 category: 'healthcare'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Compras indirectas'
 description: ''
 date: '2024-08-24'
-url: '/template/indirect-procurement'
+url: '/pt/modelo/indirect-procurement'
 category: 'operations'
 functions:
 seo:

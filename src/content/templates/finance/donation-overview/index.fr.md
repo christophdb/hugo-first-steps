@@ -2,7 +2,7 @@
 title: 'Aperçu des dons'
 description: ''
 date: '2024-08-24'
-url: '/template/donation-overview'
+url: '/fr/modele/donation-overview'
 category: 'finance'
 functions:
 seo:

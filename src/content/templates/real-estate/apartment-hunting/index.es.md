@@ -2,7 +2,7 @@
 title: 'Caza en plano'
 description: ''
 date: '2024-08-24'
-url: '/template/apartment-hunting'
+url: '/es/plantilla/apartment-hunting'
 category: 'real-estate'
 functions:
 seo:

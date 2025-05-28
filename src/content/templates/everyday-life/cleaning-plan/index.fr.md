@@ -2,7 +2,7 @@
 title: 'Plan de nettoyage'
 description: ''
 date: '2024-08-24'
-url: '/template/cleaning-plan'
+url: '/fr/modele/cleaning-plan'
 category: 'everyday-life'
 functions:
 seo:

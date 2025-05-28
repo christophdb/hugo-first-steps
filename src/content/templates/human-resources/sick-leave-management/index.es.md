@@ -2,7 +2,7 @@
 title: 'Gestión de las bajas por enfermedad'
 description: ''
 date: '2024-08-24'
-url: '/template/sick-leave-management'
+url: '/es/plantilla/sick-leave-management'
 category: 'human-resources'
 functions:
 seo:

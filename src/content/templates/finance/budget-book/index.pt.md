@@ -2,7 +2,7 @@
 title: 'Livro do orçamento'
 description: ''
 date: '2024-08-24'
-url: '/template/budget-book'
+url: '/pt/modelo/budget-book'
 category: 'finance'
 functions:
 seo:

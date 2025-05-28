@@ -2,7 +2,7 @@
 title: 'Reembolso de despesas'
 description: ''
 date: '2024-08-24'
-url: '/template/expenses-reimbursement'
+url: '/pt/modelo/expenses-reimbursement'
 category: 'human-resources'
 functions:
 seo:

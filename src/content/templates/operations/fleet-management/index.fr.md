@@ -2,7 +2,7 @@
 title: 'Logiciel de gestion de parc automobile'
 description: ''
 date: '2025-03-12'
-url: '/template/fleet-management'
+url: '/fr/modele/fleet-management'
 category: 'operations'
 functions:
 seo:

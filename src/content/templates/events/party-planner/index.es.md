@@ -2,7 +2,7 @@
 title: 'Organizador de fiestas'
 description: ''
 date: '2024-08-24'
-url: '/template/party-planner'
+url: '/es/plantilla/party-planner'
 category: 'events'
 functions:
 seo:

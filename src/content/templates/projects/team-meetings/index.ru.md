@@ -2,7 +2,7 @@
 title: 'Командные встречи'
 description: ''
 date: '2025-03-03'
-url: '/template/team-meetings'
+url: '/ru/шаблон/team-meetings'
 category: 'projects'
 functions:
 seo:

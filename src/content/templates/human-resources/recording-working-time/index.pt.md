@@ -2,7 +2,7 @@
 title: 'Gravação do tempo de trabalho'
 description: ''
 date: '2024-08-24'
-url: '/template/recording-working-time'
+url: '/pt/modelo/recording-working-time'
 category: 'human-resources'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Reiseplaner'
 description: ''
 date: '2024-08-17'
-url: '/template/travel-planner'
+url: '/de/vorlage/travel-planner'
 category: 'events'
 functions:
 seo:

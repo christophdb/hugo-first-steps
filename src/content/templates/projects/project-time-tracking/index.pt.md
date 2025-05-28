@@ -2,7 +2,7 @@
 title: 'Registo do tempo do projeto'
 description: ''
 date: '2025-03-12'
-url: '/template/project-time-tracking'
+url: '/pt/modelo/project-time-tracking'
 category: 'projects'
 functions:
 seo:

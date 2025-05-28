@@ -2,7 +2,7 @@
 title: 'Lieferkettenmanagement'
 description: ''
 date: '2024-08-24'
-url: '/template/supply-chain-management'
+url: '/de/vorlage/supply-chain-management'
 category: 'sales'
 functions:
 seo:

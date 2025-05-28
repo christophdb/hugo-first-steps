@@ -2,7 +2,7 @@
 title: 'Planifier des funérailles'
 description: ''
 date: '2024-08-24'
-url: '/template/funeral-planner'
+url: '/fr/modele/funeral-planner'
 category: 'events'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Embarque de clientes'
 description: ''
 date: '2024-08-16'
-url: '/template/customer-onboarding'
+url: '/pt/modelo/customer-onboarding'
 category: 'sales'
 functions:
 seo:

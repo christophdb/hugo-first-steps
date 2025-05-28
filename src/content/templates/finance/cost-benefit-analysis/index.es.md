@@ -2,7 +2,7 @@
 title: 'Análisis coste-beneficio'
 description: ''
 date: '2024-08-24'
-url: '/template/cost-benefit-analysis'
+url: '/es/plantilla/cost-benefit-analysis'
 category: 'finance'
 functions:
 seo:

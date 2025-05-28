@@ -2,7 +2,7 @@
 title: 'Pflanzplan'
 description: ''
 date: '2025-05-15'
-url: '/template/planting-plan'
+url: '/de/vorlage/planting-plan'
 category: 'everyday-life'
 functions:
 seo:

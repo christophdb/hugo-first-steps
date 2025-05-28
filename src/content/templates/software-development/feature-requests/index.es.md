@@ -2,7 +2,7 @@
 title: 'Peticiones de funciones'
 description: ''
 date: '2024-08-24'
-url: '/template/feature-requests'
+url: '/es/plantilla/feature-requests'
 category: 'software-development'
 functions:
 seo:

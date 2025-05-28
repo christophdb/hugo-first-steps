@@ -2,7 +2,7 @@
 title: 'Bewerbung & Anschreiben'
 description: ''
 date: '2024-08-24'
-url: '/template/application-cover-letter'
+url: '/de/vorlage/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:

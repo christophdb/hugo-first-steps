@@ -2,7 +2,7 @@
 title: 'Reembolso de gastos'
 description: ''
 date: '2024-08-24'
-url: '/template/expenses-reimbursement'
+url: '/es/plantilla/expenses-reimbursement'
 category: 'human-resources'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Modèle de confirmation de commande'
 description: ''
 date: '2025-05-02'
-url: '/template/order-confirmation'
+url: '/fr/modele/order-confirmation'
 category: 'sales'
 functions:
 seo:

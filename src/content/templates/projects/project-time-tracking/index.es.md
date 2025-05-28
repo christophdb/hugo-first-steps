@@ -2,7 +2,7 @@
 title: 'Registro del tiempo del proyecto'
 description: ''
 date: '2025-03-12'
-url: '/template/project-time-tracking'
+url: '/es/plantilla/project-time-tracking'
 category: 'projects'
 functions:
 seo:

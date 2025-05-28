@@ -2,7 +2,7 @@
 title: 'CRM: управление клиентами'
 description: ''
 date: '2025-04-05'
-url: '/template/crm-offer-management'
+url: '/ru/шаблон/crm-offer-management'
 category: 'sales'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Seguimiento de la cotización de las acciones'
 description: ''
 date: '2024-08-24'
-url: '/template/stock-price-monitoring'
+url: '/es/plantilla/stock-price-monitoring'
 category: 'finance'
 functions:
 seo:

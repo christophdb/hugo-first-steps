@@ -2,7 +2,7 @@
 title: 'Gestión de asociaciones'
 description: ''
 date: '2024-08-24'
-url: '/template/association-management'
+url: '/es/plantilla/association-management'
 category: 'operations'
 functions:
 seo:

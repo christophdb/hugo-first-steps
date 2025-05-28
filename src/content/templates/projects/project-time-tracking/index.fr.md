@@ -2,7 +2,7 @@
 title: 'Saisie du temps de projet'
 description: ''
 date: '2025-03-12'
-url: '/template/project-time-tracking'
+url: '/fr/modele/project-time-tracking'
 category: 'projects'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Pedidos de recursos'
 description: ''
 date: '2024-08-24'
-url: '/template/feature-requests'
+url: '/pt/modelo/feature-requests'
 category: 'software-development'
 functions:
 seo:

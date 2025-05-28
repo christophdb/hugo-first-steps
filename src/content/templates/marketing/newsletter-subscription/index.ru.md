@@ -2,7 +2,7 @@
 title: 'Подписка на рассылку новостей'
 description: ''
 date: '2024-08-17'
-url: '/template/newsletter-subscription'
+url: '/ru/шаблон/newsletter-subscription'
 category: 'marketing'
 functions:
 seo:

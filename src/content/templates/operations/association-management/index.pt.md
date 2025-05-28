@@ -2,7 +2,7 @@
 title: 'Gestão da associação'
 description: ''
 date: '2024-08-24'
-url: '/template/association-management'
+url: '/pt/modelo/association-management'
 category: 'operations'
 functions:
 seo:

@@ -1,7 +1,7 @@
 ---
 title: 'Análise do concorrente'
 description: ''
-url: '/template/competitor-analysis'
+url: '/pt/modelo/competitor-analysis'
 category: 'marketing'
 functions:
 seo:

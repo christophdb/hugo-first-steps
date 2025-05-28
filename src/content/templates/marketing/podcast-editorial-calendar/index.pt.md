@@ -2,7 +2,7 @@
 title: 'Podcast Calendário Editorial'
 description: ''
 date: '2024-08-16'
-url: '/template/podcast-editorial-calendar'
+url: '/pt/modelo/podcast-editorial-calendar'
 category: 'marketing'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Содержание домашних животных'
 description: ''
 date: '2024-08-24'
-url: '/template/pet-care'
+url: '/ru/шаблон/pet-care'
 category: 'everyday-life'
 functions:
 seo:

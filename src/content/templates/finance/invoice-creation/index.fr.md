@@ -2,7 +2,7 @@
 title: 'Écrire une facture'
 description: ''
 date: '2025-03-24'
-url: '/template/invoice-creation'
+url: '/fr/modele/invoice-creation'
 category: 'finance'
 functions:
 seo:

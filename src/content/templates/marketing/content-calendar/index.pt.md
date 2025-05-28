@@ -2,7 +2,7 @@
 title: 'Planeamento de campanhas'
 description: ''
 date: '2024-08-24'
-url: '/template/content-calendar'
+url: '/pt/modelo/content-calendar'
 category: 'marketing'
 functions:
 seo:

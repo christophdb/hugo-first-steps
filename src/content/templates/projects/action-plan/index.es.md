@@ -2,7 +2,7 @@
 title: 'Plan de acción'
 description: ''
 date: '2024-08-24'
-url: '/template/action-plan'
+url: '/es/plantilla/action-plan'
 category: 'projects'
 functions:
 seo:

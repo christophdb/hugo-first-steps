@@ -2,7 +2,7 @@
 title: 'Gestionnaire de mots de passe'
 description: ''
 date: '2024-08-24'
-url: '/template/password-manager'
+url: '/fr/modele/password-manager'
 category: 'everyday-life'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Escribir oferta'
 description: ''
 date: '2025-04-06'
-url: '/template/quotation-management'
+url: '/es/plantilla/quotation-management'
 category: 'sales'
 functions:
 seo:

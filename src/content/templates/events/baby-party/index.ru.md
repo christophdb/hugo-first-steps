@@ -2,7 +2,7 @@
 title: 'Детский душ'
 description: ''
 date: '2024-08-24'
-url: '/template/baby-party'
+url: '/ru/шаблон/baby-party'
 category: 'events'
 functions:
 seo:

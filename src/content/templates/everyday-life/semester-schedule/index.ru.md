@@ -2,7 +2,7 @@
 title: 'Планировщик учебы'
 description: ''
 date: '2024-08-24'
-url: '/template/semester-schedule'
+url: '/ru/шаблон/semester-schedule'
 category: 'everyday-life'
 functions:
 seo:

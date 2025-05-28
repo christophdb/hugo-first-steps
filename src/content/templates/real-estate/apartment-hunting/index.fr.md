@@ -2,7 +2,7 @@
 title: 'Recherche de logement'
 description: ''
 date: '2024-08-24'
-url: '/template/apartment-hunting'
+url: '/fr/modele/apartment-hunting'
 category: 'real-estate'
 functions:
 seo:

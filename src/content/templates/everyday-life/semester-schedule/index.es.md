@@ -2,7 +2,7 @@
 title: 'Planificador de estudios'
 description: ''
 date: '2024-08-24'
-url: '/template/semester-schedule'
+url: '/es/plantilla/semester-schedule'
 category: 'everyday-life'
 functions:
 seo:

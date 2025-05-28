@@ -2,7 +2,7 @@
 title: 'Écrire une offre'
 description: ''
 date: '2025-04-06'
-url: '/template/quotation-management'
+url: '/fr/modele/quotation-management'
 category: 'sales'
 functions:
 seo:

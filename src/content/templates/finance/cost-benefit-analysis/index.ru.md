@@ -2,7 +2,7 @@
 title: 'Анализ затрат и выгод'
 description: ''
 date: '2024-08-24'
-url: '/template/cost-benefit-analysis'
+url: '/ru/шаблон/cost-benefit-analysis'
 category: 'finance'
 functions:
 seo:

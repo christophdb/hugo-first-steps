@@ -2,7 +2,7 @@
 title: 'Gestion des arrêts maladie'
 description: ''
 date: '2024-08-24'
-url: '/template/sick-leave-management'
+url: '/fr/modele/sick-leave-management'
 category: 'human-resources'
 functions:
 seo:

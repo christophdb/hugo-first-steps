@@ -1,7 +1,7 @@
 ---
 title: 'Análisis de la competencia'
 description: ''
-url: '/template/competitor-analysis'
+url: '/es/plantilla/competitor-analysis'
 category: 'marketing'
 functions:
 seo:

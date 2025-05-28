@@ -2,7 +2,7 @@
 title: 'Plan d\'apprentissage'
 description: ''
 date: '2024-08-24'
-url: '/template/study-plan'
+url: '/fr/modele/study-plan'
 category: 'everyday-life'
 functions:
 seo:

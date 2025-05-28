@@ -2,7 +2,7 @@
 title: 'Incorporación de los empleados'
 description: ''
 date: '2024-08-24'
-url: '/template/employee-onboarding'
+url: '/es/plantilla/employee-onboarding'
 category: 'human-resources'
 functions:
 seo:

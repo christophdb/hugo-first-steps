@@ -2,7 +2,7 @@
 title: 'CRM: Debitorenbuchhaltung'
 description: ''
 date: '2024-08-16'
-url: '/template/crm-accounts-receivable'
+url: '/de/vorlage/crm-accounts-receivable'
 category: 'sales'
 functions:
 seo:

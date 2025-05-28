@@ -2,7 +2,7 @@
 title: 'Gestão da sustentabilidade'
 description: ''
 date: '2024-08-24'
-url: '/template/sustainability-management'
+url: '/pt/modelo/sustainability-management'
 category: 'operations'
 functions:
 seo:

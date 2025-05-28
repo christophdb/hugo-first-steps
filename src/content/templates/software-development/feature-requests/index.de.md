@@ -2,7 +2,7 @@
 title: 'Feature-Wünsche'
 description: ''
 date: '2024-08-24'
-url: '/template/feature-requests'
+url: '/de/vorlage/feature-requests'
 category: 'software-development'
 functions:
 seo:

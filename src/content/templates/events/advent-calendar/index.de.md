@@ -2,7 +2,7 @@
 title: 'Adventskalender'
 description: ''
 date: '2025-02-28'
-url: '/template/advent-calendar'
+url: '/de/vorlage/advent-calendar'
 category: 'events'
 functions:
 seo:

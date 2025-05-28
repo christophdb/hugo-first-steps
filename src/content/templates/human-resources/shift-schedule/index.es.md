@@ -2,7 +2,7 @@
 title: 'Plan de turnos'
 description: ''
 date: '2024-08-24'
-url: '/template/shift-schedule'
+url: '/es/plantilla/shift-schedule'
 category: 'human-resources'
 functions:
 seo:

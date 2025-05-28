@@ -2,7 +2,7 @@
 title: 'Plan de limpieza'
 description: ''
 date: '2024-08-24'
-url: '/template/cleaning-plan'
+url: '/es/plantilla/cleaning-plan'
 category: 'everyday-life'
 functions:
 seo:

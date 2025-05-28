@@ -2,7 +2,7 @@
 title: 'План действий'
 description: ''
 date: '2024-08-24'
-url: '/template/action-plan'
+url: '/ru/шаблон/action-plan'
 category: 'projects'
 functions:
 seo:

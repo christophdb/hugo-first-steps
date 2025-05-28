@@ -2,7 +2,7 @@
 title: 'Modèle de tableau Kanban'
 description: ''
 date: '2025-03-05'
-url: '/template/kanban-board'
+url: '/fr/modele/kanban-board'
 category: 'projects'
 functions:
 seo:

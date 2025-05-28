@@ -2,7 +2,7 @@
 title: 'Technologie-Roadmap'
 description: ''
 date: '2024-08-24'
-url: '/template/technology-roadmap'
+url: '/de/vorlage/technology-roadmap'
 category: 'software-development'
 functions:
 seo:

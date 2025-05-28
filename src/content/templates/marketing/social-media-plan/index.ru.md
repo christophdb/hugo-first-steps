@@ -2,7 +2,7 @@
 title: 'План социальных сетей'
 description: ''
 date: '2025-02-17'
-url: '/template/social-media-plan'
+url: '/ru/шаблон/social-media-plan'
 category: 'marketing'
 functions:
 seo:

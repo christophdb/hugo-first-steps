@@ -2,7 +2,7 @@
 title: 'Plan de reubicación'
 description: ''
 date: '2024-08-24'
-url: '/template/moving-plan'
+url: '/es/plantilla/moving-plan'
 category: 'real-estate'
 functions:
 seo:

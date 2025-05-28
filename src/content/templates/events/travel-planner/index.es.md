@@ -2,7 +2,7 @@
 title: 'Planificador de viajes'
 description: ''
 date: '2024-08-17'
-url: '/template/travel-planner'
+url: '/es/plantilla/travel-planner'
 category: 'events'
 functions:
 seo:

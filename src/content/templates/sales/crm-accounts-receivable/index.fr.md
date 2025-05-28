@@ -2,7 +2,7 @@
 title: 'CRM : Comptabilité des débiteurs'
 description: ''
 date: '2024-08-16'
-url: '/template/crm-accounts-receivable'
+url: '/fr/modele/crm-accounts-receivable'
 category: 'sales'
 functions:
 seo:

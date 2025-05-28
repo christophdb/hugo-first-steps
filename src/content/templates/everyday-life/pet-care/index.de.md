@@ -2,7 +2,7 @@
 title: 'Haustiere halten'
 description: ''
 date: '2024-08-24'
-url: '/template/pet-care'
+url: '/de/vorlage/pet-care'
 category: 'everyday-life'
 functions:
 seo:

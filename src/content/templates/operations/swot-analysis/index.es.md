@@ -2,7 +2,7 @@
 title: 'Plantilla de análisis DAFO'
 description: ''
 date: '2025-02-23'
-url: '/template/swot-analysis'
+url: '/es/plantilla/swot-analysis'
 category: 'operations'
 functions:
 seo:

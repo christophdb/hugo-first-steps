@@ -2,7 +2,7 @@
 title: 'Souhaits de fonctionnalités'
 description: ''
 date: '2024-08-24'
-url: '/template/feature-requests'
+url: '/fr/modele/feature-requests'
 category: 'software-development'
 functions:
 seo:

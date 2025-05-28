@@ -2,7 +2,7 @@
 title: 'Planeamento orçamental'
 description: ''
 date: '2024-08-24'
-url: '/template/budget-plan'
+url: '/pt/modelo/budget-plan'
 category: 'finance'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: ' Обзор прессы / анализ содержания'
 description: ''
 date: '2024-08-24'
-url: '/template/media-content-analysis'
+url: '/ru/шаблон/media-content-analysis'
 category: 'marketing'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Reservas de citas'
 description: ''
 date: '2024-08-16'
-url: '/template/appointment-booking'
+url: '/es/plantilla/appointment-booking'
 category: 'sales'
 functions:
 seo:

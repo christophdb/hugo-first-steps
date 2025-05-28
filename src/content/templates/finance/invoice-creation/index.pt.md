@@ -2,7 +2,7 @@
 title: 'Redigir fatura'
 description: ''
 date: '2025-03-24'
-url: '/template/invoice-creation'
+url: '/pt/modelo/invoice-creation'
 category: 'finance'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Calendrier de l\'Avent'
 description: ''
 date: '2025-02-28'
-url: '/template/advent-calendar'
+url: '/fr/modele/advent-calendar'
 category: 'events'
 functions:
 seo:

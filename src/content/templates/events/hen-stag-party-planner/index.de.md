@@ -2,7 +2,7 @@
 title: 'Junggesellenabschied'
 description: ''
 date: '2024-09-06'
-url: '/template/hen-stag-party-planner'
+url: '/de/vorlage/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:

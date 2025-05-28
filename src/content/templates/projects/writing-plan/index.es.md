@@ -2,7 +2,7 @@
 title: 'Plan de escritura'
 description: ''
 date: '2024-08-24'
-url: '/template/writing-plan'
+url: '/es/plantilla/writing-plan'
 category: 'projects'
 functions:
 seo:

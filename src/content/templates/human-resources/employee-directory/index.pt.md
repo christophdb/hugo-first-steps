@@ -2,7 +2,7 @@
 title: 'Lista de pessoal'
 description: ''
 date: '2025-04-18'
-url: '/template/employee-directory'
+url: '/pt/modelo/employee-directory'
 category: 'human-resources'
 functions:
 seo:

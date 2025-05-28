@@ -2,7 +2,7 @@
 title: 'Einstellungsgespräche'
 description: ''
 date: '2024-08-24'
-url: '/template/recruitment-interviews'
+url: '/de/vorlage/recruitment-interviews'
 category: 'human-resources'
 functions:
 seo:

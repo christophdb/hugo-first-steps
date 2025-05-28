@@ -2,7 +2,7 @@
 title: 'Suivi du cours des actions'
 description: ''
 date: '2024-08-24'
-url: '/template/stock-price-monitoring'
+url: '/fr/modele/stock-price-monitoring'
 category: 'finance'
 functions:
 seo:

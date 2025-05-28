@@ -2,7 +2,7 @@
 title: 'Colecção de sapatilhas'
 description: ''
 date: '2024-08-24'
-url: '/template/sneaker-collection'
+url: '/pt/modelo/sneaker-collection'
 category: 'everyday-life'
 functions:
 seo:

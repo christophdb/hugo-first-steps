@@ -2,7 +2,7 @@
 title: 'Babyparty'
 description: ''
 date: '2024-08-24'
-url: '/template/baby-party'
+url: '/de/vorlage/baby-party'
 category: 'events'
 functions:
 seo:

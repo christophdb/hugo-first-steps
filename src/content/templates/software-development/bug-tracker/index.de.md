@@ -2,7 +2,7 @@
 title: 'Bug Tracker'
 description: ''
 date: '2025-01-09'
-url: '/template/bug-tracker'
+url: '/de/vorlage/bug-tracker'
 category: 'software-development'
 functions:
 seo:

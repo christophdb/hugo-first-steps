@@ -2,7 +2,7 @@
 title: 'Revue de presse / analyse de contenu'
 description: ''
 date: '2024-08-24'
-url: '/template/media-content-analysis'
+url: '/fr/modele/media-content-analysis'
 category: 'marketing'
 functions:
 seo:

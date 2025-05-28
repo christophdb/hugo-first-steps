@@ -2,7 +2,7 @@
 title: 'Шаблон журнала регистрации'
 description: ''
 date: '2025-02-23'
-url: '/template/mileage-log'
+url: '/ru/шаблон/mileage-log'
 category: 'finance'
 functions:
 seo:

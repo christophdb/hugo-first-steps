@@ -2,7 +2,7 @@
 title: 'Entrevistas de trabajo'
 description: ''
 date: '2024-08-24'
-url: '/template/recruitment-interviews'
+url: '/es/plantilla/recruitment-interviews'
 category: 'human-resources'
 functions:
 seo:

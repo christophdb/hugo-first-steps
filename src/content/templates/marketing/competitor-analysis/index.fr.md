@@ -1,7 +1,7 @@
 ---
 title: 'Analyse de la concurrence'
 description: ''
-url: '/template/competitor-analysis'
+url: '/fr/modele/competitor-analysis'
 category: 'marketing'
 functions:
 seo:

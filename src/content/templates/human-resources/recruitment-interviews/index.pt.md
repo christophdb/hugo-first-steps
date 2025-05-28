@@ -2,7 +2,7 @@
 title: 'Entrevistas de emprego'
 description: ''
 date: '2024-08-24'
-url: '/template/recruitment-interviews'
+url: '/pt/modelo/recruitment-interviews'
 category: 'human-resources'
 functions:
 seo:

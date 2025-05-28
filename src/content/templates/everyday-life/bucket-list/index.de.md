@@ -2,7 +2,7 @@
 title: 'Bucket List'
 description: ''
 date: '2024-08-24'
-url: '/template/bucket-list'
+url: '/de/vorlage/bucket-list'
 category: 'everyday-life'
 functions:
 seo:

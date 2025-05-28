@@ -2,7 +2,7 @@
 title: 'Gestión inmobiliaria'
 description: ''
 date: '2024-08-24'
-url: '/template/property-management'
+url: '/es/plantilla/property-management'
 category: 'real-estate'
 functions:
 seo:

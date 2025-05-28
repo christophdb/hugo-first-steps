@@ -2,7 +2,7 @@
 title: 'Vorratshaltung'
 description: ''
 date: '2024-08-24'
-url: '/template/emergency-stock-planner'
+url: '/de/vorlage/emergency-stock-planner'
 category: 'everyday-life'
 functions:
 seo:

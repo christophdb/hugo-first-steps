@@ -2,7 +2,7 @@
 title: 'Список присутствующих'
 description: ''
 date: '2025-02-28'
-url: '/template/attendance-list'
+url: '/ru/шаблон/attendance-list'
 category: 'events'
 functions:
 seo:

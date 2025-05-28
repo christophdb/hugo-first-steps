@@ -2,7 +2,7 @@
 title: 'Serviços de limpeza'
 description: ''
 date: '2024-08-24'
-url: '/template/janitorial-services'
+url: '/pt/modelo/janitorial-services'
 category: 'real-estate'
 functions:
 seo:

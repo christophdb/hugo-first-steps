@@ -2,7 +2,7 @@
 title: 'Personalrekrutierung'
 description: ''
 date: '2024-08-24'
-url: '/template/hr-recruiting'
+url: '/de/vorlage/hr-recruiting'
 category: 'human-resources'
 functions:
 seo:

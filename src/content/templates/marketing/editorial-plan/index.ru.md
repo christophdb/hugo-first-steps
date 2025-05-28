@@ -2,7 +2,7 @@
 title: 'EРедакционный план'
 description: ''
 date: '2025-02-17'
-url: '/template/editorial-plan'
+url: '/ru/шаблон/editorial-plan'
 category: 'marketing'
 functions:
 seo:

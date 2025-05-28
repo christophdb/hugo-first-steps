@@ -2,7 +2,7 @@
 title: 'Software de gerenciamento de frota'
 description: ''
 date: '2025-03-12'
-url: '/template/fleet-management'
+url: '/pt/modelo/fleet-management'
 category: 'operations'
 functions:
 seo:

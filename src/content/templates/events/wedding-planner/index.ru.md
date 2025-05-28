@@ -2,7 +2,7 @@
 title: 'Организатор свадеб'
 description: ''
 date: '2024-08-24'
-url: '/template/wedding-planner'
+url: '/ru/шаблон/wedding-planner'
 category: 'events'
 functions:
 seo:

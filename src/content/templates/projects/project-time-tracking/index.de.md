@@ -2,7 +2,7 @@
 title: 'Projektzeiterfassung'
 description: ''
 date: '2025-03-12'
-url: '/template/project-time-tracking'
+url: '/de/vorlage/project-time-tracking'
 category: 'projects'
 functions:
 seo:

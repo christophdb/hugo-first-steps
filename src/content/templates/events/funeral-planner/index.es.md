@@ -2,7 +2,7 @@
 title: 'Plan funeral'
 description: ''
 date: '2024-08-24'
-url: '/template/funeral-planner'
+url: '/es/plantilla/funeral-planner'
 category: 'events'
 functions:
 seo:

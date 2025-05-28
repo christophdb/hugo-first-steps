@@ -2,7 +2,7 @@
 title: 'CRM: Contas a Receber'
 description: ''
 date: '2024-08-16'
-url: '/template/crm-accounts-receivable'
+url: '/pt/modelo/crm-accounts-receivable'
 category: 'sales'
 functions:
 seo:

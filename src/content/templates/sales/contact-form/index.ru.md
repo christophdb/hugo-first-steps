@@ -2,7 +2,7 @@
 title: 'Контактная форма'
 description: ''
 date: '2024-08-24'
-url: '/template/contact-form'
+url: '/ru/шаблон/contact-form'
 category: 'sales'
 functions:
 seo:

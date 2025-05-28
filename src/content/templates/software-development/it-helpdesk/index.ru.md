@@ -2,7 +2,7 @@
 title: 'Служба ИТ-помощи'
 description: ''
 date: '2025-05-02'
-url: '/template/it-helpdesk'
+url: '/ru/шаблон/it-helpdesk'
 category: 'software-development'
 functions:
 seo:

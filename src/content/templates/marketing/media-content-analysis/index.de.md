@@ -2,7 +2,7 @@
 title: 'Pressespiegel / Inhaltsanalyse'
 description: ''
 date: '2024-08-24'
-url: '/template/media-content-analysis'
+url: '/de/vorlage/media-content-analysis'
 category: 'marketing'
 functions:
 seo:

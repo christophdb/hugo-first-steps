@@ -2,7 +2,7 @@
 title: 'Saisie du temps de travail'
 description: ''
 date: '2024-08-24'
-url: '/template/recording-working-time'
+url: '/fr/modele/recording-working-time'
 category: 'human-resources'
 functions:
 seo:

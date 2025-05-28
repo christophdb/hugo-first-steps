@@ -2,7 +2,7 @@
 title: 'Estrutura analítica do trabalho'
 description: ''
 date: '2024-08-17'
-url: '/template/work-breakdown-structure'
+url: '/pt/modelo/work-breakdown-structure'
 category: 'projects'
 functions:
 seo:

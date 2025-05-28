@@ -2,7 +2,7 @@
 title: 'Putzplan'
 description: ''
 date: '2024-08-24'
-url: '/template/cleaning-plan'
+url: '/de/vorlage/cleaning-plan'
 category: 'everyday-life'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Plantilla de cuaderno diario'
 description: ''
 date: '2025-02-23'
-url: '/template/mileage-log'
+url: '/es/plantilla/mileage-log'
 category: 'finance'
 functions:
 seo:

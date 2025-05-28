@@ -2,7 +2,7 @@
 title: 'Calendário do Advento'
 description: ''
 date: '2025-02-28'
-url: '/template/advent-calendar'
+url: '/pt/modelo/advent-calendar'
 category: 'events'
 functions:
 seo:

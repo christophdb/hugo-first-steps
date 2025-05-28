@@ -2,7 +2,7 @@
 title: 'Книжный каталог / Библиотека'
 description: ''
 date: '2024-08-24'
-url: '/template/book-list-library'
+url: '/ru/шаблон/book-list-library'
 category: 'everyday-life'
 functions:
 seo:

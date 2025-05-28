@@ -2,7 +2,7 @@
 title: 'Social-Media-Plan'
 description: ''
 date: '2025-02-17'
-url: '/template/social-media-plan'
+url: '/de/vorlage/social-media-plan'
 category: 'marketing'
 functions:
 seo:

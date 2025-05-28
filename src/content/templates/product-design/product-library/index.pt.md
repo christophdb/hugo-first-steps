@@ -2,7 +2,7 @@
 title: 'Biblioteca de produtos'
 description: ''
 date: '2024-08-24'
-url: '/template/product-library'
+url: '/pt/modelo/product-library'
 category: 'product-design'
 functions:
 seo:

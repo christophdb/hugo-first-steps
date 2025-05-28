@@ -2,7 +2,7 @@
 title: 'Плоская охота'
 description: ''
 date: '2024-08-24'
-url: '/template/apartment-hunting'
+url: '/ru/шаблон/apartment-hunting'
 category: 'real-estate'
 functions:
 seo:

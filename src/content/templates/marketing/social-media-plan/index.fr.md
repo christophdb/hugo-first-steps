@@ -2,7 +2,7 @@
 title: 'Plan pour les médias sociaux'
 description: ''
 date: '2025-02-17'
-url: '/template/social-media-plan'
+url: '/fr/modele/social-media-plan'
 category: 'marketing'
 functions:
 seo:

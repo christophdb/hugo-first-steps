@@ -2,7 +2,7 @@
 title: 'Bücherliste / Bibliothek'
 description: ''
 date: '2024-08-24'
-url: '/template/book-list-library'
+url: '/de/vorlage/book-list-library'
 category: 'everyday-life'
 functions:
 seo:

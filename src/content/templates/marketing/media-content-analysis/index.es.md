@@ -2,7 +2,7 @@
 title: 'Revista de prensa / análisis de contenidos'
 description: ''
 date: '2024-08-24'
-url: '/template/media-content-analysis'
+url: '/es/plantilla/media-content-analysis'
 category: 'marketing'
 functions:
 seo:

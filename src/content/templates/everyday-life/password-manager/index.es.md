@@ -2,7 +2,7 @@
 title: 'Gestor de contraseñas'
 description: ''
 date: '2024-08-24'
-url: '/template/password-manager'
+url: '/es/plantilla/password-manager'
 category: 'everyday-life'
 functions:
 seo:

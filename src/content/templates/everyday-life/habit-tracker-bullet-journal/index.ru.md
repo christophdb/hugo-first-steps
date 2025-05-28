@@ -2,7 +2,7 @@
 title: 'Журнал для отслеживания привычек и пулевой журнал'
 description: ''
 date: '2024-08-24'
-url: '/template/habit-tracker-bullet-journal'
+url: '/ru/шаблон/habit-tracker-bullet-journal'
 category: 'everyday-life'
 functions:
 seo:

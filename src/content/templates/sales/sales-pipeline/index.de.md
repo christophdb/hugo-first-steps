@@ -2,7 +2,7 @@
 title: 'Verkaufspipeline'
 description: ''
 date: '2024-08-16'
-url: '/template/sales-pipeline'
+url: '/de/vorlage/sales-pipeline'
 category: 'sales'
 functions:
 seo:

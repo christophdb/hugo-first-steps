@@ -2,7 +2,7 @@
 title: 'Sneaker Sammlung'
 description: ''
 date: '2024-08-24'
-url: '/template/sneaker-collection'
+url: '/de/vorlage/sneaker-collection'
 category: 'everyday-life'
 functions:
 seo:

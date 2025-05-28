@@ -2,7 +2,7 @@
 title: 'Proceso de venta'
 description: ''
 date: '2024-08-16'
-url: '/template/sales-pipeline'
+url: '/es/plantilla/sales-pipeline'
 category: 'sales'
 functions:
 seo:

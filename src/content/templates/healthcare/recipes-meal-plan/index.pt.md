@@ -2,7 +2,7 @@
 title: 'Receitas e plano de refeições'
 description: ''
 date: '2024-08-24'
-url: '/template/recipes-meal-plan'
+url: '/pt/modelo/recipes-meal-plan'
 category: 'healthcare'
 functions:
 seo:

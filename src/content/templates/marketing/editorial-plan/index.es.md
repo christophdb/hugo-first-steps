@@ -2,7 +2,7 @@
 title: 'Plan editorial'
 description: ''
 date: '2025-02-17'
-url: '/template/editorial-plan'
+url: '/es/plantilla/editorial-plan'
 category: 'marketing'
 functions:
 seo:

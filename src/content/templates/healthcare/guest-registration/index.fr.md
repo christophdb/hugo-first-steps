@@ -2,7 +2,7 @@
 title: 'Enregistrement des invités'
 description: ''
 date: '2024-08-24'
-url: '/template/guest-registration'
+url: '/fr/modele/guest-registration'
 category: 'healthcare'
 functions:
 seo:

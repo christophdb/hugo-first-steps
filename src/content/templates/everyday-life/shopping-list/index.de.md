@@ -2,7 +2,7 @@
 title: 'Einkaufsliste'
 description: ''
 date: '2024-08-24'
-url: '/template/shopping-list'
+url: '/de/vorlage/shopping-list'
 category: 'everyday-life'
 functions:
 seo:

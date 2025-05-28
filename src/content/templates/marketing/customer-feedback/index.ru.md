@@ -2,7 +2,7 @@
 title: 'Отзывы клиентов'
 description: ''
 date: '2024-08-24'
-url: '/template/customer-feedback'
+url: '/ru/шаблон/customer-feedback'
 category: 'marketing'
 functions:
 seo:

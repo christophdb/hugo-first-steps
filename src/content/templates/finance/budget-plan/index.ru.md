@@ -2,7 +2,7 @@
 title: 'Планирование бюджета'
 description: ''
 date: '2024-08-24'
-url: '/template/budget-plan'
+url: '/ru/шаблон/budget-plan'
 category: 'finance'
 functions:
 seo:

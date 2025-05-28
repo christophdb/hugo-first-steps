@@ -2,7 +2,7 @@
 title: 'Lancement du produit'
 description: ''
 date: '2024-08-24'
-url: '/template/product-launch'
+url: '/fr/modele/product-launch'
 category: 'software-development'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Planificación presupuestaria'
 description: ''
 date: '2024-08-24'
-url: '/template/budget-plan'
+url: '/es/plantilla/budget-plan'
 category: 'finance'
 functions:
 seo:

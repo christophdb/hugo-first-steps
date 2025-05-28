@@ -2,7 +2,7 @@
 title: 'Список ведер'
 description: ''
 date: '2024-08-24'
-url: '/template/bucket-list'
+url: '/ru/шаблон/bucket-list'
 category: 'everyday-life'
 functions:
 seo:

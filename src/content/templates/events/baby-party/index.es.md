@@ -2,7 +2,7 @@
 title: 'Baby shower'
 description: ''
 date: '2024-08-24'
-url: '/template/baby-party'
+url: '/es/plantilla/baby-party'
 category: 'events'
 functions:
 seo:

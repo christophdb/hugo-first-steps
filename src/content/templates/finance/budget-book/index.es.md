@@ -2,7 +2,7 @@
 title: 'Libro de presupuesto'
 description: ''
 date: '2024-08-24'
-url: '/template/budget-book'
+url: '/es/plantilla/budget-book'
 category: 'finance'
 functions:
 seo:

@@ -1,7 +1,7 @@
 ---
 title: 'Анализ конкурентов'
 description: ''
-url: '/template/competitor-analysis'
+url: '/ru/шаблон/competitor-analysis'
 category: 'marketing'
 functions:
 seo:

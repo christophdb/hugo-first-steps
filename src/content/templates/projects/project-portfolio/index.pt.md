@@ -1,7 +1,7 @@
 ---
 title: 'Carteira de projectos'
 description: ''
-url: '/template/project-portfolio'
+url: '/pt/modelo/project-portfolio'
 category: 'projects'
 functions:
 seo:

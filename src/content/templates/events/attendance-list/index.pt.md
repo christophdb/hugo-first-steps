@@ -2,7 +2,7 @@
 title: 'Lista de presenças'
 description: ''
 date: '2025-02-28'
-url: '/template/attendance-list'
+url: '/pt/modelo/attendance-list'
 category: 'events'
 functions:
 seo:

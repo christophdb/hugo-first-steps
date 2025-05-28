@@ -2,7 +2,7 @@
 title: 'Gestão de licenças por doença'
 description: ''
 date: '2024-08-24'
-url: '/template/sick-leave-management'
+url: '/pt/modelo/sick-leave-management'
 category: 'human-resources'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Plan d'entraînement personnel'
 description: ''
 date: '2024-08-24'
-url: '/template/personal-exercise-guide'
+url: '/fr/modele/personal-exercise-guide'
 category: 'healthcare'
 functions:
 seo:

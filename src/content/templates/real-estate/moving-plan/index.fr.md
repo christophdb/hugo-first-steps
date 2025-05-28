@@ -2,7 +2,7 @@
 title: 'Plan de déménagement'
 description: ''
 date: '2024-08-24'
-url: '/template/moving-plan'
+url: '/fr/modele/moving-plan'
 category: 'real-estate'
 functions:
 seo:

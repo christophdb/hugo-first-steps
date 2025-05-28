@@ -2,7 +2,7 @@
 title: 'NPS Fragebogen'
 description: ''
 date: '2024-08-24'
-url: '/template/net-promoter-score-nps-form'
+url: '/de/vorlage/net-promoter-score-nps-form'
 category: 'marketing'
 functions:
 seo:

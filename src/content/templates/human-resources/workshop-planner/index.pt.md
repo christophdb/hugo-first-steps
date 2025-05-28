@@ -2,7 +2,7 @@
 title: 'Workshops'
 description: ''
 date: '2024-08-24'
-url: '/template/workshop-planner'
+url: '/pt/modelo/workshop-planner'
 category: 'human-resources'
 functions:
 seo:

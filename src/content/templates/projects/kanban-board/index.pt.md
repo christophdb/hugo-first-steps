@@ -2,7 +2,7 @@
 title: 'Modelo de quadro Kanban'
 description: ''
 date: '2025-03-05'
-url: '/template/kanban-board'
+url: '/pt/modelo/kanban-board'
 category: 'projects'
 functions:
 seo:

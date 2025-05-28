@@ -2,7 +2,7 @@
 title: 'Fête de bébé'
 description: ''
 date: '2024-08-24'
-url: '/template/baby-party'
+url: '/fr/modele/baby-party'
 category: 'events'
 functions:
 seo:

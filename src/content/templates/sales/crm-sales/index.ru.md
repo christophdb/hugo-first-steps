@@ -2,7 +2,7 @@
 title: 'CRM и продажи'
 description: ''
 date: '2024-08-16'
-url: '/template/crm-sales'
+url: '/ru/шаблон/crm-sales'
 category: 'sales'
 functions:
 seo:

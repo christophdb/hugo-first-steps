@@ -2,7 +2,7 @@
 title: 'Анкета НПС'
 description: ''
 date: '2024-08-24'
-url: '/template/net-promoter-score-nps-form'
+url: '/ru/шаблон/net-promoter-score-nps-form'
 category: 'marketing'
 functions:
 seo:

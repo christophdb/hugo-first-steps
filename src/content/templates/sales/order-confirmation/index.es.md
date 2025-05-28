@@ -2,7 +2,7 @@
 title: 'Modelo de confirmación de pedido'
 description: ''
 date: '2025-05-02'
-url: '/template/order-confirmation'
+url: '/es/plantilla/order-confirmation'
 category: 'sales'
 functions:
 seo:

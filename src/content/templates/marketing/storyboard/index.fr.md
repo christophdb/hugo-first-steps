@@ -2,7 +2,7 @@
 title: 'Storyboard'
 description: ''
 date: '2024-08-24'
-url: '/template/storyboard'
+url: '/fr/modele/storyboard'
 category: 'marketing'
 functions:
 seo:

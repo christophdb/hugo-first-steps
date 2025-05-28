@@ -2,7 +2,7 @@
 title: 'Modèle de plan de projet'
 description: ''
 date: '2025-03-07'
-url: '/template/project-plan'
+url: '/fr/modele/project-plan'
 category: 'projects'
 functions:
 seo:

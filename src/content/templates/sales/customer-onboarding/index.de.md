@@ -2,7 +2,7 @@
 title: 'Kunden-Onboarding'
 description: ''
 date: '2024-08-16'
-url: '/template/customer-onboarding'
+url: '/de/vorlage/customer-onboarding'
 category: 'sales'
 functions:
 seo:

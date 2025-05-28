@@ -2,7 +2,7 @@
 title: 'Mitarbeiterverzeichnis'
 description: ''
 date: '2025-04-18'
-url: '/template/employee-directory'
+url: '/de/vorlage/employee-directory'
 category: 'human-resources'
 functions:
 seo:

@@ -2,7 +2,7 @@
 title: 'Plano de acção'
 description: ''
 date: '2024-08-24'
-url: '/template/action-plan'
+url: '/pt/modelo/action-plan'
 category: 'projects'
 functions:
 seo:

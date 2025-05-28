@@ -2,7 +2,7 @@
 title: 'Beerdigung planen'
 description: ''
 date: '2024-08-24'
-url: '/template/funeral-planner'
+url: '/de/vorlage/funeral-planner'
 category: 'events'
 functions:
 seo:

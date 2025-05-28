@@ -2,7 +2,7 @@
 title: 'Gestion immobilière'
 description: ''
 date: '2024-08-24'
-url: '/template/property-management'
+url: '/fr/modele/property-management'
 category: 'real-estate'
 functions:
 seo:
