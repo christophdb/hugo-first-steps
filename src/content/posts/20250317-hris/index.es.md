@@ -97,13 +97,13 @@ Un sistema de información de RRHH tiene ventajas que van mucho más allá de la
 
 SeaTable es una base de datos sin código que se adapta perfectamente como software de gestión de RRHH para la nube o en las instalaciones. SeaTable ofrece la máxima flexibilidad y escalabilidad - usted decide cómo quiere mapear sus procesos en el software y qué funciones necesita.
 
-Por ejemplo, puede empezar con una [plantilla de directorio de empleados](https://seatable.io/es/vorlage/ijapmslssfu7r-6q6x9boq/), que representa una base de datos de RRHH en su forma más simple.
+Por ejemplo, puede empezar con una [plantilla de directorio de empleados]({{< relref "templates/human-resources/employee-directory" >}}), que representa una base de datos de RRHH en su forma más simple.
 
 ![SIRH: Base de datos de empleados con perfiles](Mitarbeiterdatenbank-mit-Profilen.jpg)
 
 Se trata de un directorio interno de empleados con información visible para todos en la empresa. Podría utilizar una lista de empleados de este tipo para los perfiles en el sistema de información de RR.HH. o para crear tarjetas de visita, por ejemplo.
 
-A continuación, puede ampliar su base de datos de RR.HH. con las tablas y funciones adicionales que desee. ¿Qué le parece, por ejemplo, una [cuenta de tiempo de trabajo interactiva](https://seatable.io/es/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) para registrar todas las asistencias, vacaciones y enfermedades? ¿O con expedientes de personal digitales en los que se pueda acceder a todos los certificados, CV y nóminas?
+A continuación, puede ampliar su base de datos de RR.HH. con las tablas y funciones adicionales que desee. ¿Qué le parece, por ejemplo, una [cuenta de tiempo de trabajo interactiva]({{< relref "templates/human-resources/recording-working-time" >}}) para registrar todas las asistencias, vacaciones y enfermedades? ¿O con expedientes de personal digitales en los que se pueda acceder a todos los certificados, CV y nóminas?
 
 Además de las funciones de un HRIS, también puede utilizar SeaTable para implementar la contratación, la gestión de candidatos y la incorporación. Incluso el desarrollo del personal y la formación pueden organizarse en SeaTable. Como base de datos de RRHH alemana, SeaTable cumple con los más altos estándares de protección de datos (GDPR) y almacena todos los datos de forma segura en centros de datos alemanes. Así que cuesta creer que este completo software de gestión de RRHH sea gratuito.
 

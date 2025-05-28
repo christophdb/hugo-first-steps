@@ -114,7 +114,7 @@ Pour le concept de contenu, il est d'abord important de développer une idée de
 
 **3\. Planifier le budget**
 
-Pour éviter de gérer des événements qui dépassent votre budget, il est essentiel, dans la gestion des événements, d'effectuer au préalable une [planification budgétaire] détaillée (https://seatable.io/vorlage/eecso26xscgq2jzffzmwcq/). Prenez en compte non seulement les dépenses évidentes, mais aussi les coûts moins évidents tels que les licences, les frais de déplacement, les invitations ainsi que les frais de démontage et de nettoyage.
+Pour éviter de gérer des événements qui dépassent votre budget, il est essentiel, dans la gestion des événements, d'effectuer au préalable une [planification budgétaire] détaillée ({{< relref "templates/finance/budget-plan" >}}). Prenez en compte non seulement les dépenses évidentes, mais aussi les coûts moins évidents tels que les licences, les frais de déplacement, les invitations ainsi que les frais de démontage et de nettoyage.
 
 Les principaux postes de dépenses à prendre en compte :
 
@@ -154,7 +154,7 @@ Pour rendre votre programme-cadre plus intéressant et vous assurer que vos invi
 
 Lorsque vous gérez des événements, les invitations jouent un rôle crucial dans votre succès. L'utilisation d'invitations personnalisées vous permet d'augmenter efficacement le nombre de participants. En outre, l'envoi de notifications "Save the Date" pendant la phase de planification peut contribuer à susciter l'intérêt à un stade précoce et à garantir que vos invités réservent la date.
 
-N'oubliez pas d'inclure dans les invitations des informations importantes telles que la date, l'heure, le lieu et le programme. Pour faciliter le processus de réservation pour vos invités, l'intégration d'un système de réservation de billets est une bonne solution. Grâce à un [formulaire web](https://seatable.io/docs/webformulare/webformulare/) dans le [modèle] préfabriqué(https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/) de SeaTable, vous pouvez facilement réaliser cette étape et créer une liste de participants de manière totalement automatisée.
+N'oubliez pas d'inclure dans les invitations des informations importantes telles que la date, l'heure, le lieu et le programme. Pour faciliter le processus de réservation pour vos invités, l'intégration d'un système de réservation de billets est une bonne solution. Grâce à un [formulaire web](https://seatable.io/docs/webformulare/webformulare/) dans le [modèle] préfabriqué({{< relref "templates/events/event-management" >}}) de SeaTable, vous pouvez facilement réaliser cette étape et créer une liste de participants de manière totalement automatisée.
 
 ![Envoyer des invitations avec SeaTable via le formulaire web](Einladungskommunikation.jpg)
 
@@ -168,7 +168,7 @@ Pour les événements commerciaux tels que les festivals, une publicité ciblée
 
 Il est important de lancer les mesures publicitaires à temps et de présenter les messages de manière attrayante et informative afin d'éveiller l'intérêt de votre groupe cible et d'atteindre un nombre élevé de visiteurs.
 
-_Conseil : en publiant les temps forts, les photos et les vidéos sur [les médias sociaux](https://seatable.io/vorlage/lmmjwghgtye322iwdxvj7a/), vous pouvez prolonger la présence et l'impact de votre événement au-delà de la date prévue._
+_Conseil : en publiant les temps forts, les photos et les vidéos sur [les médias sociaux]({{< relref "templates/marketing/social-media-plan" >}}), vous pouvez prolonger la présence et l'impact de votre événement au-delà de la date prévue._
 
 **9\. Attention à la sécurité et aux aspects juridiques**.
 

@@ -15,7 +15,7 @@ Incoming payments have to be checked, customers have to be reminded of payments 
 
 With [SeaTable](https://seatable.io/en/registrierung/?lang=auto) you finally have all invoices or receivables due from your customers at a glance and know exactly about each individual status. SeaTable enables your accounts receivable department to manage receivables optimally and efficiently. In addition, information can be easily exchanged between the individual departments in your company. So that everyone can work with the same and correct information and you as an entrepreneur can sleep more peacefully again.
 
-[Click here to go directly to our template "CRM Accounts Receivable".](https://seatable.io/en/vorlage/wsnf1ukarv6sp5omx6a2og/)
+[Click here to go directly to our template "CRM Accounts Receivable".]({{< relref "templates/sales/crm-accounts-receivable" >}})
 
 ## What is accounts receivable accounting?
 
@@ -111,6 +111,6 @@ So it doesn't always have to end up with expensive accounting software such as [
 
 Thanks to its enormous flexibility, SeaTable can also make your accounts receivable department work perfectly. The clear advantage that SeaTable brings with it is the diversity in which the product itself can be used. In addition to accounts receivable, other important use cases in your company can also be covered. You can find more about this in our [blog](https://seatable.io/en/blog/?lang=auto) or directly in our [templates](https://seatable.io/en/docs/templates/?lang=auto). Convince yourself of the most powerful and innovative spreadsheet and get started with your accounts receivable accounting today.
 
-[To the "CRM Accounts Receivable" template](https://seatable.io/en/vorlage/wsnf1ukarv6sp5omx6a2og/)  
+[To the "CRM Accounts Receivable" template]({{< relref "templates/sales/crm-accounts-receivable" >}})  
 [Try SeaTable in the cloud for free now]({{< relref "pages/registration" >}})  
 [Or prefer to run SeaTable Enterprise in your own data centre]({{< relref "pages/product/seatable-server" >}})

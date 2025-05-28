@@ -132,6 +132,6 @@ Si te gusta lo práctico y sencillo, también puedes utilizar una **aplicación*
 
 ## Plantilla para el registro digital de hábitos
 
-Para no perder de vista tu objetivo, necesitas una solución sencilla y eficaz para hacer un seguimiento de tus hábitos y progresos. SeaTable te lo ofrece con una [plantilla gratuita](https://seatable.io/es/vorlage/petkiwi1stmm_1lh2xlejq/) que puedes personalizar según tus necesidades personales. El Seguidor de hábitos se integra en un diario de viñetas, que ofrece formas aún más interesantes de organizar y cambiar tu vida.
+Para no perder de vista tu objetivo, necesitas una solución sencilla y eficaz para hacer un seguimiento de tus hábitos y progresos. SeaTable te lo ofrece con una [plantilla gratuita]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) que puedes personalizar según tus necesidades personales. El Seguidor de hábitos se integra en un diario de viñetas, que ofrece formas aún más interesantes de organizar y cambiar tu vida.
 
-Si desea utilizar SeaTable para su seguimiento de hábitos, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. Puede encontrar la plantilla correspondiente con mucha inspiración y ejemplos de hábitos [aquí](https://seatable.io/es/vorlage/petkiwi1stmm_1lh2xlejq/).
+Si desea utilizar SeaTable para su seguimiento de hábitos, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. Puede encontrar la plantilla correspondiente con mucha inspiración y ejemplos de hábitos [aquí]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}).

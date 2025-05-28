@@ -22,11 +22,16 @@ Em primeiro lugar, aumentar a altura da linha na tabela `Categories`para ver mai
 
 Agora crie uma nova coluna na tabela `Categories` para.
 
-> Nome: `Sum`  
-> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`  
-> Fórmula utilizada: `rollup`  
-> Coluna de ligação utilizada: `Expenses`  
-> Coluna utilizada para o cálculo: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`  
+> Nome: `Sum`
+>
+> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-link-formulas" >}} Link formula`
+>
+> Fórmula utilizada: `rollup`
+>
+> Coluna de ligação utilizada: `Expenses`
+>
+> Coluna utilizada para o cálculo: `{{< seatable-icon icon="dtable-icon-number" >}} Amount`
+>
 > Método de cálculo `Sum`
 
 ![](images/lvl1-rollup.png)

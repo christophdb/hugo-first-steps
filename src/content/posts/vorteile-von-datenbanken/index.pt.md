@@ -97,6 +97,6 @@ Ao contrário das bases de dados clássicas, o SeaTable tem uma interface gráfi
 
 As vantagens das bases de dados fazem sentido para si, mas a ideia de construir a sua própria base de dados ainda o desanima? Boas notícias: Já não precisa de conhecimentos especiais para o fazer. Com o SeaTable, pode facilmente criar os blocos de construção da sua própria base de dados sem quaisquer conhecimentos de programação.
 
-Veja muitos exemplos de como utilizar o SeaTable na nossa [biblioteca de modelos](https://seatable.io/pt/vorlagen/). Aqui encontrará exemplos das áreas de marketing, vendas, gestão de projectos, desenvolvimento de software, recursos humanos e muito mais. Até preparámos para si uma [introdução ao produto em 7 partes](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) no nosso canal do YouTube, na qual o orientamos ao longo de todo o processo de criação de uma Base SeaTable.
+Veja muitos exemplos de como utilizar o SeaTable na nossa [biblioteca de modelos]({{< relref "templates/finance" >}}). Aqui encontrará exemplos das áreas de marketing, vendas, gestão de projectos, desenvolvimento de software, recursos humanos e muito mais. Até preparámos para si uma [introdução ao produto em 7 partes](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) no nosso canal do YouTube, na qual o orientamos ao longo de todo o processo de criação de uma Base SeaTable.
 
 Utilize as vantagens de uma base de dados e diga adeus às tabelas confusas hoje mesmo! [Clique aqui]({{< relref "pages/registration" >}}) para se registar gratuitamente!

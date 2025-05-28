@@ -30,7 +30,7 @@ Welche Daten wollen Sie erfassen? Welcher Prozess in Ihrem Alltag läuft viellei
 
 Es gibt nicht nur eine "richtige" Vorgehensweise, mit der Sie SeaTable gewinnbringend nutzen können. Das beste System ist das, was zu Ihnen und Ihrem Workflow passt.
 
-Wenn Sie ein wenig Inspiration benötigen, um herauszufinden, wie Sie SeaTable optimal einsetzen können, schauen Sie sich unsere [Vorlagen](https://seatable.io/vorlagen/) an. Dort finden Sie viele interessante Anwendungsmöglichkeiten für SeaTable.
+Wenn Sie ein wenig Inspiration benötigen, um herauszufinden, wie Sie SeaTable optimal einsetzen können, schauen Sie sich unsere [Vorlagen]({{< relref "templates" >}}) an. Dort finden Sie viele interessante Anwendungsmöglichkeiten für SeaTable.
 
 Weitere Quellen sind unser [YouTube-Kanal](https://www.youtube.com/seatable), auf dem wir viele Anleitungsvideos veröffentlichen, und unser [SeaTable Blog]({{< relref "posts" >}}), auf dem wir regelmäßig über neue Anwendungsfälle und Lösungen schreiben.
 

@@ -133,6 +133,6 @@ If you like it practical and simple, you can also use an **app** or **online tem
 
 ## Template for your digital habit tracker
 
-In order not to lose sight of your goal, you need a simple and effective solution to track your habits and progress. SeaTable offers you this with a [free template](https://seatable.io/en/vorlage/petkiwi1stmm_1lh2xlejq/) that you can customize according to your personal needs. The Habit Tracker is integrated into a bullet journal that offers even more exciting ways to organize and change your life.
+In order not to lose sight of your goal, you need a simple and effective solution to track your habits and progress. SeaTable offers you this with a [free template]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) that you can customize according to your personal needs. The Habit Tracker is integrated into a bullet journal that offers even more exciting ways to organize and change your life.
 
-If you would like to use SeaTable for your habit tracker, simply [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template with lots of inspiration and sample habits [here](https://seatable.io/en/vorlage/petkiwi1stmm_1lh2xlejq/).
+If you would like to use SeaTable for your habit tracker, simply [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template with lots of inspiration and sample habits [here]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}).

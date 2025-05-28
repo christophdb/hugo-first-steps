@@ -130,7 +130,7 @@ Campfire Pro apresenta uma estrutura simples com **painéis** que resultam em um
 
 ### SeaTable
 
-[O plano de escrita](https://seatable.io/pt/vorlage/lkngogoxqfaoj1kppa2awa/) do SeaTable é extremamente útil para autores que desejam desenvolver um enredo antes de escrever um livro. Por ser **gratuito** , o programa é ideal para planejar projetos de livros. Além da tabela principal na qual você pode registrar o enredo, o SeaTable oferece tabelas adicionais que permitem elaborar mais sobre **personagens** , **lugares** , **elementos simbólicos** ou **relacionamentos** . Essas tabelas podem ser gerenciadas e complementadas livremente, enquanto você pode agrupar e classificar o conteúdo como desejar. O plugin de linha do tempo também permite visualizar a ação em uma **linha do tempo** . Um bônus adicional é o plugin de design de página, que permite criar **perfis** projetados individualmente para cada personagem.
+[O plano de escrita]({{< relref "templates/projects/writing-plan" >}}) do SeaTable é extremamente útil para autores que desejam desenvolver um enredo antes de escrever um livro. Por ser **gratuito** , o programa é ideal para planejar projetos de livros. Além da tabela principal na qual você pode registrar o enredo, o SeaTable oferece tabelas adicionais que permitem elaborar mais sobre **personagens** , **lugares** , **elementos simbólicos** ou **relacionamentos** . Essas tabelas podem ser gerenciadas e complementadas livremente, enquanto você pode agrupar e classificar o conteúdo como desejar. O plugin de linha do tempo também permite visualizar a ação em uma **linha do tempo** . Um bônus adicional é o plugin de design de página, que permite criar **perfis** projetados individualmente para cada personagem.
 
 **Facilidade de uso:** muito alta  
 **Gama de funções:** alta  
@@ -141,4 +141,4 @@ Campfire Pro apresenta uma estrutura simples com **painéis** que resultam em um
 
 As ferramentas de software de autoria apresentadas aqui oferecem uma variedade de funções e opções para apoiá-lo em todas as fases do processo de escrita. Em última análise, a escolha do software certo depende de suas necessidades e preferências individuais ao escrever um livro. Com o programa certo, você pode otimizar seu processo de escrita e concretizar com sucesso suas visões criativas.
 
-Se você quiser usar o modelo do SeaTable para o projeto do seu livro, basta [registrar-se]({{< relref "pages/registration" >}}) gratuitamente com seu endereço de e-mail. Você pode iniciar seu [plano de redação](https://seatable.io/pt/vorlage/lkngogoxqfaoj1kppa2awa/) pessoal em apenas alguns minutos.
+Se você quiser usar o modelo do SeaTable para o projeto do seu livro, basta [registrar-se]({{< relref "pages/registration" >}}) gratuitamente com seu endereço de e-mail. Você pode iniciar seu [plano de redação]({{< relref "templates/projects/writing-plan" >}}) pessoal em apenas alguns minutos.

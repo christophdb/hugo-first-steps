@@ -12,7 +12,7 @@ seo:
 
 La gestión digital de productos es indispensable para tratar los productos en la época actual. Porque digitalmente, muchas cosas son mucho más fáciles que antes. Uno de los objetivos es mapear las distintas interfaces de toda la gestión del producto de principio a fin y recopilar toda la información de forma completa y compacta. A menudo hay que cambiar de un programa a otro y de una herramienta a otra, pero con SeaTable esto ya no es necesario.
 
-SeaTable ofrece una base excelente para la gestión digital de productos, ya que puede trazar casi todos los pasos del proceso de desarrollo de productos con sus versátiles funciones. A continuación, explicamos [nuestra plantilla especialmente desarrollada](https://seatable.io/es/vorlage/lejzgk0brbo1piwmodvlsa/) y todas las funciones importantes que son esenciales en el día a día de un gestor de productos.
+SeaTable ofrece una base excelente para la gestión digital de productos, ya que puede trazar casi todos los pasos del proceso de desarrollo de productos con sus versátiles funciones. A continuación, explicamos [nuestra plantilla especialmente desarrollada]({{< relref "templates/product-design/digital-product-management" >}}) y todas las funciones importantes que son esenciales en el día a día de un gestor de productos.
 
 ### Excurso: ¿Qué es la gestión de productos?
 
@@ -26,7 +26,7 @@ La gestión de productos digitales se beneficia de las herramientas de gestión 
 
 Por otro lado, también hay otras características del producto que no están destinadas al público en general, como el grosor del material, el recubrimiento o incluso las propias mezclas de colores o composiciones del material. Para esta información, existe un detallado catálogo interno de datos del producto que resume todo esto. Hemos integrado ambas versiones en nuestra plantilla.
 
-[Haga clic aquí para ir directamente a la plantilla](https://seatable.io/es/vorlage/lejzgk0brbo1piwmodvlsa/)
+[Haga clic aquí para ir directamente a la plantilla]({{< relref "templates/product-design/digital-product-management" >}})
 
 ### Más visión de conjunto con la doble agrupación
 
@@ -42,11 +42,11 @@ Un catálogo de productos para su presentación externa
 
 Es posible que lo sepa: está buscando un producto y sabe cómo es, pero no cómo se llama. Nuestro plugin de galería es muy útil para esto. Muestra todas las imágenes que se han introducido en la tabla seleccionada y forma un conjunto compacto de información para la gestión de su producto. Con información adicional como el nombre del producto, la serie y el número de artículo, puede crear así una galería de imágenes detallada que también contenga datos importantes del producto.
 
-![Galería de imágenes de productos para la gestión de productos digitales](https://seatable.de/wp-content/uploads/2021/09/Gallery-Plugin.png)
+![Galería de imágenes de productos para la gestión de productos digitales](images/Gallery-Plugin.png)
 
 Con unos pocos clics habrás creado una galería informativa.
 
-El plugin complementa perfectamente los catálogos de productos y hace superfluas las bases de datos de imágenes de otras plataformas. Dado que SeaTable no sólo es una [potente herramienta de gestión de proyectos](https://seatable.io/es/vorlage/brsc53rrtqwduseehp2ntq/), sino también una base de datos que almacena imágenes en el original al mismo tiempo, esta función es óptima para la [gestión de proyectos](https://seatable.io/es/projektmanagement/) digitales.
+El plugin complementa perfectamente los catálogos de productos y hace superfluas las bases de datos de imágenes de otras plataformas. Dado que SeaTable no sólo es una potente herramienta de gestión de proyectos, sino también una base de datos que almacena imágenes en el original al mismo tiempo, esta función es óptima para la [gestión de proyectos](https://seatable.io/es/projektmanagement/) digitales.
 
 ## Catalogación sencilla de los productos
 
@@ -54,7 +54,7 @@ Pasemos ahora al catálogo interno de productos: Sirve como fuente interna de in
 
 El resultado es un catálogo de productos muy detallado que permite a cada empleado obtener la máxima información con el mínimo esfuerzo. De hecho, un catálogo totalmente equipado minimiza la comunicación con las unidades responsables, como los gestores de productos u otras unidades, si, por ejemplo, falta la designación exacta del revestimiento del producto.
 
-![](https://seatable.io/wp-content/uploads/2021/09/Product-Data_Overview.png)
+![](images/Product-Data_Overview.png)
 
 En nuestro ejemplo, hemos creado directamente cálculos para el margen con el fin de observar cómo se comportan los productos individuales en la producción. Esto es muy fácil con la [columna de fórmulas](https://seatable.io/es/docs/handbuch/seatable-nutzen/feld-typen/), que primero calcula el margen y luego el margen en porcentaje. De este modo, los jefes de producto y los empleados pueden ver de un vistazo cómo van los distintos productos.
 
@@ -109,10 +109,10 @@ Las estadísticas de la parte inferior izquierda muestran las cifras de ventas m
 
 Si desea más flexibilidad, puede utilizar nuestro plugin "Estadísticas avanzadas". La ventaja de este plugin es la ampliación de las estadísticas según se desee en la vista general y una disposición completamente flexible y nueva de las estadísticas. Estas dos estadísticas pueden ampliarse o reducirse en cualquier dirección con el puntero del ratón y, de este modo, pueden colocarse perfectamente una al lado de la otra. Esto es especialmente importante en los casos en que deban compararse directamente cifras importantes.
 
-Las estadísticas son una característica muy potente que está integrada en todas las versiones de SeaTable. [Nuestra plantilla está disponible](https://seatable.io/es/vorlage/lejzgk0brbo1piwmodvlsa/) para su descarga [aquí](https://seatable.io/es/vorlage/lejzgk0brbo1piwmodvlsa/).
+Las estadísticas son una característica muy potente que está integrada en todas las versiones de SeaTable. [Nuestra plantilla está disponible]({{< relref "templates/product-design/digital-product-management" >}}) para su descarga [aquí]({{< relref "templates/product-design/digital-product-management" >}}).
 
 ## Empiece ya a gestionar su producto digital con SeaTable
 
-Este ejemplo de aplicación muestra claramente lo bien que SeaTable puede mapear la gestión de productos digitales y, por tanto, cambiar positivamente la forma de trabajar. Al ser un software versátil y muy flexible, SeaTable puede adaptarse a sus necesidades y reaccionar ante cualquier situación. Gracias a los diferentes tipos de columnas y a los útiles plugins, se puede implementar una gran variedad de procesos: No importa si [necesita](https://seatable.io/es/vorlage/gnx7mg0dqkejp6p4e5c6-w/) una sofisticada [herramienta de gestión de CRM](https://seatable.io/es/vorlage/gnx7mg0dqkejp6p4e5c6-w/) o si quiere [registrar](https://seatable.io/es/vorlage/dkcp4_k3rnsb4d9sskb6qw/) y procesar posteriormente las [horas de trabajo de sus empleados](https://seatable.io/es/vorlage/dkcp4_k3rnsb4d9sskb6qw/). Con SeaTable, apenas hay límites.
+Este ejemplo de aplicación muestra claramente lo bien que SeaTable puede mapear la gestión de productos digitales y, por tanto, cambiar positivamente la forma de trabajar. Al ser un software versátil y muy flexible, SeaTable puede adaptarse a sus necesidades y reaccionar ante cualquier situación. Gracias a los diferentes tipos de columnas y a los útiles plugins, se puede implementar una gran variedad de procesos: No importa si [necesita]({{< relref "templates/sales/crm-offer-management" >}}) una sofisticada [herramienta de gestión de CRM]({{< relref "templates/sales/crm-offer-management" >}}) o si quiere [registrar]({{< relref "templates/human-resources/recording-working-time" >}}) y procesar posteriormente las [horas de trabajo de sus empleados]({{< relref "templates/human-resources/recording-working-time" >}}). Con SeaTable, apenas hay límites.
 
 [Regístrese gratuitamente]({{< relref "pages/registration" >}}) y pruebe nuestras funciones. Hemos creado plantillas útiles que pueden ayudarte a empezar con ciertos temas.

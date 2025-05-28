@@ -25,7 +25,7 @@ Rassembler des preuves pour des hypothèses, présenter l'état de la recherche 
 
 Avec un programme de gestion de la littérature, vous pouvez ...
 
-- garder [une vue d'ensemble des projets de grande envergure](https://seatable.io/fr/vorlagen-projektplanung/)
+- garder [une vue d'ensemble des projets de grande envergure]({{< relref "templates/projects/project-plan" >}})
 - Recenser systématiquement la littérature de recherche.
 - veiller à l'uniformité des citations.
 - apporter des modifications flexibles à vos listes de lecture

@@ -13,13 +13,17 @@ Qu'il s'agisse d'un stage, d'une formation ou d'un emploi fixe, la première ét
 
 Mais le travail en vaut la peine, car seule une lettre de motivation réussie vous ouvrira les portes d'un **entretien** personnel et vous rapprochera de l'**emploi de vos rêves**. Vous trouverez ci-dessous les points auxquels vous devez faire attention lors de la rédaction de votre candidature.
 
-{{< warning headline="Conseil" text="Pour garder une vue d'ensemble de vos candidatures, vous pouvez également utiliser un outil de planification. Vous apprendrez [ici](https://seatable.io/fr/modele/cc0-xv_fq_yn3ipvbvfiaa/) comment cet outil vous permet de générer différentes lettres de candidature à partir d'un modèle en appuyant sur un bouton." />}}
+{{< warning headline="Conseil" text="Pour garder une vue d'ensemble de vos candidatures, vous pouvez également utiliser un outil de planification. Vous apprendrez [ici]({{< relref "templates/everyday-life/application-cover-letter" >}}) comment cet outil vous permet de générer différentes lettres de candidature à partir d'un modèle en appuyant sur un bouton." />}}
 
 ## Pourquoi une lettre de motivation est importante
 
 La lettre de motivation fait partie intégrante de toute candidature. Alors que vous placez vos **hard skills** dans votre **CV**, vous consacrez votre lettre de motivation à vos **soft skills**. Celles-ci ont pris de plus en plus d'importance ces dernières années, ce qui explique pourquoi la lettre de motivation personnelle a également pris une place plus importante dans la procédure de sélection.
 
-{{< warning headline="Hard versus soft skills" text="Les hard skills regroupent l'ensemble des connaissances techniques que vous avez acquises par le travail, les stages ou les loisirs. Les [soft skills](https://www.karriereakademie.de/soft-skills), en revanche, regroupent les caractéristiques qui définissent votre personnalité." />}}
+{{< warning headline="Hard versus soft skills" >}}
+
+Les hard skills regroupent l'ensemble des connaissances techniques que vous avez acquises par le travail, les stages ou les loisirs. Les [soft skills](https://www.karriereakademie.de/soft-skills), en revanche, regroupent les caractéristiques qui définissent votre personnalité.
+
+{{< /warning >}}
 
 Avec une lettre de motivation, vous avez la possibilité de vous présenter avec assurance et de mettre en avant vos qualités positives. Il s'agit d'une part de **se mettre en valeur** en énumérant des qualifications pertinentes et d'autre part de se démarquer de la masse des candidats par la langue.
 
@@ -58,9 +62,9 @@ Vous pouvez mettre de côté toutes les qualifications que vous n'avez pas marqu
 
 ## Créer un aperçu de la candidature
 
-Pour ne pas perdre de vue, lors de votre recherche d'emploi, où vous avez postulé, quand et avec quels documents, vous devriez créer un tableau. Pour que les informations et les documents que vous avez élaborés soient toujours à portée de main, SeaTable vous propose un [tableau structuré des candidatures](https://seatable.io/fr/modele/cc0-xv_fq_yn3ipvbvfiaa/). Visualisez d'un coup d'œil toutes vos candidatures et les documents qui s'y rapportent et facilitez-vous la rédaction de lettres de motivation grâce au **design de la page**.
+Pour ne pas perdre de vue, lors de votre recherche d'emploi, où vous avez postulé, quand et avec quels documents, vous devriez créer un tableau. Pour que les informations et les documents que vous avez élaborés soient toujours à portée de main, SeaTable vous propose un [tableau structuré des candidatures]({{< relref "templates/everyday-life/application-cover-letter" >}}). Visualisez d'un coup d'œil toutes vos candidatures et les documents qui s'y rapportent et facilitez-vous la rédaction de lettres de motivation grâce au **design de la page**.
 
-Si vous souhaitez utiliser SeaTable pour planifier votre candidature, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle [ici](https://seatable.io/fr/modele/cc0-xv_fq_yn3ipvbvfiaa/).
+Si vous souhaitez utiliser SeaTable pour planifier votre candidature, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle [ici]({{< relref "templates/everyday-life/application-cover-letter" >}}).
 
 ## Formalités dans votre lettre de motivation
 
@@ -226,4 +230,4 @@ Avant d'envoyer votre candidature, vous devez la **relire** définitivement. En 
 
 Plus rien ne s'oppose à la rédaction de votre prochaine candidature réussie. Pour vous aider à garder une trace de vos documents, SeaTable a créé un [planificateur de candidatures en ligne](https://seatable.io/fr/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen). Il vous aide à planifier vos prochaines étapes, à classer vos documents et à rester à jour dans le processus de candidature.
 
-Si vous souhaitez utiliser SeaTable pour votre aperçu de candidature, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle [ici](https://seatable.io/fr/modele/cc0-xv_fq_yn3ipvbvfiaa/).
+Si vous souhaitez utiliser SeaTable pour votre aperçu de candidature, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle [ici]({{< relref "templates/everyday-life/application-cover-letter" >}}).

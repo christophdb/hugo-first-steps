@@ -123,7 +123,7 @@ Eine **Software für die Hausverwaltung** muss einiges leisten. Stellen Sie sich
 - Aufgaben und Termine (z. B. Wohnungsbesichtigungen) organisieren?
 - wichtige Dokumente wie Verträge und Betriebskostenabrechnungen speichern?
 
-Mit der SeaTable [Vorlage für Ihre Immobilienverwaltung](https://seatable.io/vorlage/ufyf6scpsgucxv8y0g9asw/) können Sie all diese Belange rund um Ihre Immobilien problemlos managen. Speichern Sie Vertragsdokumente, Rechnungen, Übergabeprotokolle, Grundrisse und Fotos einfach in Ihrer SeaTable Datenbank.
+Mit der SeaTable [Vorlage für Ihre Immobilienverwaltung]({{< relref "templates/real-estate/property-management" >}}) können Sie all diese Belange rund um Ihre Immobilien problemlos managen. Speichern Sie Vertragsdokumente, Rechnungen, Übergabeprotokolle, Grundrisse und Fotos einfach in Ihrer SeaTable Datenbank.
 
 ![Erfassen Sie Fotos und Daten Ihrer Immobilien](https://seatable.io/wp-content/uploads/2023/11/steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
 

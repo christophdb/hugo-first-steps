@@ -16,7 +16,7 @@ SeaTable mantiene un [historial]({{< relref "help/base-editor/historie-und-versi
 
 ## La página de inicio
 
-Después de iniciar sesión, te encontrarás en la página de **inicio**. Aquí puede gestionar sus bases. Si ha seleccionado [plantillas](https://seatable.io/vorlagen/) durante el registro, se mostrarán aquí.
+Después de iniciar sesión, te encontrarás en la página de **inicio**. Aquí puede gestionar sus bases. Si ha seleccionado [plantillas]({{< relref "templates" >}}) durante el registro, se mostrarán aquí.
 
 Haciendo clic en la **imagen del avatar**, en la esquina superior derecha, puedes pasar a la [configuración personal](https://seatable.io/es/docs/persoenliche-einstellungen/persoenliche-einstellungen/) para ajustar, por ejemplo, el idioma del sistema.
 

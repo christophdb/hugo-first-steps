@@ -80,7 +80,7 @@ Diese kostenlose Bücher-App greift bei der Suche nach Titeln auf zahlreiche Onl
 
 Wenn Sie eine [Inventarliste erstellen](https://seatable.io/inventarliste-vorlagen/) wollen für ihre Bücher und dafür ganz unkomplizierte Tabellen nutzen möchten, sind Sie bei SeaTable genau richtig. Einfach den entsprechenden Titel in eine Liste eingeben, bei Bedarf um weitere Informationen zum Autor und Verlag ergänzen und übersichtlich (z. B. nach Genre, Lesestatus oder Bewertung) ordnen. Sie möchten Ihren Bücherkatalog auch anderen verfügbar machen? Das ist ganz einfach möglich, indem Sie Ihre Listen teilen.
 
-Die kostenlose Cloud-Version von SeaTable können Sie direkt in Ihrem Browser öffnen. [Registrieren]({{< relref "pages/registration" >}}) Sie sich noch heute und starten Sie mit unserer [kostenfreien Vorlage](https://seatable.io/vorlage/ti27clk9rb2fjizia2pbwg/) für Ihre Bücherliste bzw. Bibliothek. Übrigens: Das Tool eignet sich ebenso für die wissenschaftliche [Literaturverwaltung](https://seatable.io/literaturverwaltung/).
+Die kostenlose Cloud-Version von SeaTable können Sie direkt in Ihrem Browser öffnen. [Registrieren]({{< relref "pages/registration" >}}) Sie sich noch heute und starten Sie mit unserer [kostenfreien Vorlage]({{< relref "templates/everyday-life/book-list-library" >}}) für Ihre Bücherliste bzw. Bibliothek. Übrigens: Das Tool eignet sich ebenso für die wissenschaftliche [Literaturverwaltung](https://seatable.io/literaturverwaltung/).
 
 ## Drei Tipps zum optimalen Katalogisieren von Büchern
 

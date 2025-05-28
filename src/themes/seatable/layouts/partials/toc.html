@@ -1,12 +1,8 @@
 <details class="mt-0 overflow-hidden rounded-lg" id="toc">
-  <summary
-    class="p-4 text-lg font-semibold cursor-pointer bg-neutral-200 text-neutral-800  font-poppins">
-    {{ i18n "article.table_of_contents" }}
-  </summary>
-  <div
-    class="p-4 border-dotted border-neutral-300 bg-neutral-100">
-    {{ .TableOfContents | emojify }}
-  </div>
+    <summary class="cursor-pointer bg-neutral-200 p-4 font-poppins text-lg font-semibold text-neutral-800">
+        {{ i18n "article.table_of_contents" }}
+    </summary>
+    <div class="border-dotted border-neutral-300 bg-neutral-100 p-4">
+        {{ .TableOfContents | replaceRE "id=\"TableOfContents\"" "id=\"TableOfContentsMobile\"" | emojify | safeHTML }}
+    </div>
 </details>
-
-

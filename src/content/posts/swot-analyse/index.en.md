@@ -77,7 +77,7 @@ Also pay attention to the following tips when carrying out your analysis.
 
 When looking at the external factors in a SWOT analysis example, you should bear in mind that a SWOT analysis is simply about solving two problems. How **can you keep pace with market trends** and **how can you predict and help shape them**? After all, you don't just want to keep up, you want to inspire your customers.
 
-You should also choose a [SWOT analysis template](https://seatable.io/en/vorlage/mldpcbsqsr2yifjof71qkg/) to make your work easier. The analysis starts with choosing the right tool, and you should also think about putting together the right team.
+You should also choose a [SWOT analysis template]({{< relref "templates/operations/swot-analysis" >}}) to make your work easier. The analysis starts with choosing the right tool, and you should also think about putting together the right team.
 
 [Taking stock](https://seatable.io/en/inventarliste-vorlagen/) requires a lot of time. Who can you release for the meetings and workshops? You also need expertise from different departments. **Which colleagues have an insight into the strengths, weaknesses, opportunities and risks of your company and business environment?** Ideally, you should put together a team of ten employees.
 

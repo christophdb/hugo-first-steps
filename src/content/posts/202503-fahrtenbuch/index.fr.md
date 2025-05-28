@@ -110,7 +110,7 @@ Si vous établissez votre carnet de route à l'aide d'un modèle Excel, cette m�
 
 ## Modèle gratuit : Tenir un journal de bord numérique et efficace avec SeaTable
 
-Si vous êtes à la recherche d'une application de livre de route qui soit gratuite et qui facilite votre travail quotidien, SeaTable est un excellent choix. SeaTable propose un **modèle de livre de bord personnalisable**(https://seatable.io/vorlage/gzggmm9nrqohu-ygi3fwrg/) qui vous permet d'enregistrer numériquement vos trajets et de les gérer facilement en ligne.
+Si vous êtes à la recherche d'une application de livre de route qui soit gratuite et qui facilite votre travail quotidien, SeaTable est un excellent choix. SeaTable propose un **modèle de livre de bord personnalisable**({{< relref "templates/finance/mileage-log" >}}) qui vous permet d'enregistrer numériquement vos trajets et de les gérer facilement en ligne.
 
 SeaTable marque des points en matière de **protection des données** et vous offre le choix entre un hébergement [Cloud]({{< relref "pages/product/seatable-cloud" >}}) et [On-Premises]({{< relref "pages/product/seatable-server" >}}), ce qui vous permet de décider vous-même de l'endroit où vous souhaitez stocker vos données. Un autre avantage : grâce au **formulaire web** intégré, les entrées peuvent être saisies facilement et rapidement. Ce formulaire peut demander toutes les informations nécessaires, y compris une **signature numérique**, ce qui rend le processus particulièrement efficace et sûr.
 
@@ -128,7 +128,7 @@ Une fois le formulaire envoyé, les conducteurs n'ont plus accès à leurs entr�
   **Fonction d'analyse** : Analyse étendue avec peu d'effort
   **Effort manuel** : Effort modéré par la saisie manuelle dans le formulaire
 
-**Note:** Avec SeaTable, vous pouvez non seulement tenir un journal de bord individuel, mais aussi gérer efficacement l'ensemble de votre [gestion de parc automobile](https://seatable.io/vorlage/qsxitf8ktcojsuivrormnq/).
+**Note:** Avec SeaTable, vous pouvez non seulement tenir un journal de bord individuel, mais aussi gérer efficacement l'ensemble de votre [gestion de parc automobile]({{< relref "templates/operations/fleet-management" >}}).
 
 Si vous souhaitez utiliser le livre de bord numérique de SeaTable, [il vous suffit de vous inscrire]({{< relref "pages/registration" >}}) et de commencer avec le modèle gratuit.
 

@@ -105,7 +105,7 @@ Social-Media-Tools automatisieren viele Aufgaben, die täglich im Social-Media-M
 
 ## Social-Media-Plan von SeaTable
 
-Wenn Sie viele Social-Media-Kanäle bespielen, kann es herausfordernd sein, den Überblick über alle Posts und Interaktionen zu behalten. Durch eine strukturierte Herangehensweise in Form eines Social-Media-Plans können Sie diese Komplexität besser bewältigen. Die [kostenlose Vorlage](https://seatable.io/vorlage/lmmjwghgtye322iwdxvj7a/) von SeaTable ermöglicht Ihnen die individuelle Erfassung Ihrer Beiträge und erleichtert Ihr Social-Media-Management.
+Wenn Sie viele Social-Media-Kanäle bespielen, kann es herausfordernd sein, den Überblick über alle Posts und Interaktionen zu behalten. Durch eine strukturierte Herangehensweise in Form eines Social-Media-Plans können Sie diese Komplexität besser bewältigen. Die [kostenlose Vorlage]({{< relref "templates/marketing/social-media-plan" >}}) von SeaTable ermöglicht Ihnen die individuelle Erfassung Ihrer Beiträge und erleichtert Ihr Social-Media-Management.
 
 Halten Sie Ihre **Ideen** fest, ordnen Sie Beiträge mit wenigen Klicks bestimmten **Rubriken** zu und haken Sie in der **To-do-Liste** erledigte Aufgaben ab. Speichern Sie Bilder, Texte, Aufgaben und KPIs an einem **zentralen Ort**, auf den alle im Team jederzeit zugreifen können. Die kollaborativen Funktionen von SeaTable machen die **Zusammenarbeit** zum Kinderspiel!
 

@@ -38,9 +38,12 @@ Em seguida, passamos às colunas da tabela para que a nossa base possa registar 
 
 **Coluna 1:**
 
-> Nome: `Date`  
-> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`  
-> Formato: qualquer  
+> Nome: `Date`
+>
+> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`
+>
+> Formato: qualquer
+>
 > Ao minuto: `Yes`
 
 **Nota:** Em vez do tipo de coluna `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` o tipo de coluna `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` pode ser utilizado. Enquanto a coluna da data tem de ser preenchida manualmente, esta seria preenchida automaticamente com a data atual. É claro que isso economiza tempo. No entanto, a desvantagem seria que não seria mais possível modificar o valor da data e, por exemplo, não seria mais possível entrar retroativamente despesas de outros dias.
@@ -49,15 +52,18 @@ Em seguida, passamos às colunas da tabela para que a nossa base possa registar 
 
 **Coluna 2:**
 
-> Nome: `Amount`  
-> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-number" >}} Number`  
+> Nome: `Amount`
+>
+> Tipo de coluna: `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+>
 > Formato: `Euro`
 
 ---
 
 **Coluna 3:**
 
-> Nome: `Category`  
+> Nome: `Category`
+>
 > Tipo de coluna: `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
 
 ---

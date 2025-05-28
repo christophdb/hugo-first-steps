@@ -42,6 +42,6 @@ Los enlaces externos son siempre adecuados si desea que los datos de las bases s
 
 Los enlaces externos son ideales para publicar registros individuales en un sitio web. Los visitantes del sitio web sólo ven el contenido que se ha publicado, pero no pueden modificarlo.
 
-Con una simple _etiqueta embed_, puedes integrar una base o una vista en una página web a través de un enlace externo. Por ejemplo, las bases de nuestra [biblioteca de plantillas](https://seatable.io/vorlagen/) están incrustadas en nuestro sitio web a través de enlaces externos. Así es también como publicamos los artículos de prensa de SeaTable en nuestra página de prensa.
+Con una simple _etiqueta embed_, puedes integrar una base o una vista en una página web a través de un enlace externo. Por ejemplo, las bases de nuestra [biblioteca de plantillas]({{< relref "templates" >}}) están incrustadas en nuestro sitio web a través de enlaces externos. Así es también como publicamos los artículos de prensa de SeaTable en nuestra página de prensa.
 
 ![Insertar un enlace externo en una página web](images/externer-link-in-webseite.gif)

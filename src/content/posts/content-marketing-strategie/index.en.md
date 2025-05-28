@@ -131,7 +131,7 @@ The following table shows a basic structure that you can adapt to your needs as 
 
 ![Content marketing strategy](images/content-marketing-strategie-seatable.png)
 
-This table of our [Content Marketing Strategy Template](https://seatable.io/en/vorlage/akpem7oksykcemvai5eblq/) seems quite extensive at first sight, but it is the minimum for an average content pipeline to keep the necessary overview. Get into the habit of collecting this data from day one and you will have no problems keeping track at any point in time.
+This table of our [Content Marketing Strategy Template]({{< relref "templates/marketing/content-marketing-strategy" >}}) seems quite extensive at first sight, but it is the minimum for an average content pipeline to keep the necessary overview. Get into the habit of collecting this data from day one and you will have no problems keeping track at any point in time.
 
 ### Allow an individual view of the data
 
@@ -201,4 +201,4 @@ It makes you wonder why so many business owners feel that their content marketin
 
 Convince yourself that content marketing is an effective tool and can make a decisive contribution to your company's success. If you want to be successful, do away with interchangeable content and confusing project management tools.
 
-Use SeaTable to set your personas, goals and content and closely monitor their development. Establish a self-improving process and you will see how success will come. Get started now with our [marketing templates](https://seatable.io/en/vorlage/akpem7oksykcemvai5eblq/) and customize them to fit your needs.
+Use SeaTable to set your personas, goals and content and closely monitor their development. Establish a self-improving process and you will see how success will come. Get started now with our [marketing templates]({{< relref "templates/marketing/content-marketing-strategy" >}}) and customize them to fit your needs.

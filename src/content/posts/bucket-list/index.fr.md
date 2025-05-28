@@ -177,8 +177,8 @@ Vos objectifs peuvent également se concentrer sur les relations interpersonnell
 
 ## Modèle en ligne dans SeaTable
 
-Pour être sûr de ne pas perdre de vue les objectifs de votre bucket list, il est conseillé de les mettre par écrit et de les conserver dans un endroit facilement accessible. SeaTable vous propose un [modèle](https://seatable.io/fr/modele/jbn_a4wysewcfd9eegkgha/) gratuit [en ligne](https://seatable.io/fr/modele/jbn_a4wysewcfd9eegkgha/) qui vous permet d'avoir toujours votre bucket list à portée de main et de classer vos objectifs de manière structurée en différentes catégories.
+Pour être sûr de ne pas perdre de vue les objectifs de votre bucket list, il est conseillé de les mettre par écrit et de les conserver dans un endroit facilement accessible. SeaTable vous propose un [modèle]({{< relref "templates/everyday-life/bucket-list" >}}) gratuit [en ligne]({{< relref "templates/everyday-life/bucket-list" >}}) qui vous permet d'avoir toujours votre bucket list à portée de main et de classer vos objectifs de manière structurée en différentes catégories.
 
 En outre, vous pouvez noter quels amis et membres de la famille partagent certains intérêts et seraient prêts à vous accompagner dans vos aventures. Vous pouvez également enregistrer des informations supplémentaires telles que des images, des liens ou des adresses directement dans votre bucket list afin de rassembler tous les détails pertinents en un seul endroit.
 
-Cochez objectif par objectif de votre bucket list, ajoutez de nouvelles idées en toute flexibilité ou supprimez les souhaits qui ne sont plus importants pour vous. Sur SeaTable, vous pouvez [vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) et adapter le [modèle en ligne](https://seatable.io/fr/modele/jbn_a4wysewcfd9eegkgha/) à vos besoins.
+Cochez objectif par objectif de votre bucket list, ajoutez de nouvelles idées en toute flexibilité ou supprimez les souhaits qui ne sont plus importants pour vous. Sur SeaTable, vous pouvez [vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) et adapter le [modèle en ligne]({{< relref "templates/everyday-life/bucket-list" >}}) à vos besoins.

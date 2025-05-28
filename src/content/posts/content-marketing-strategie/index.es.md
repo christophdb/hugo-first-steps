@@ -130,7 +130,7 @@ La siguiente tabla muestra una estructura básica que puede adaptar a sus necesi
 
 ![Estrategia de marketing de contenidos](images/content-marketing-strategie-seatable.png)
 
-Esta tabla de nuestra [Plantilla de estrategia de marketing de contenidos](https://seatable.io/es/vorlage/akpem7oksykcemvai5eblq/) parece bastante extensa a primera vista, pero es lo mínimo para que un canal de contenidos medio mantenga la visión de conjunto necesaria. Acostúmbrate a registrar estos datos desde el primer día y no tendrás problemas para llevar la cuenta en cualquier momento.
+Esta tabla de nuestra [Plantilla de estrategia de marketing de contenidos]({{< relref "templates/marketing/content-marketing-strategy" >}}) parece bastante extensa a primera vista, pero es lo mínimo para que un canal de contenidos medio mantenga la visión de conjunto necesaria. Acostúmbrate a registrar estos datos desde el primer día y no tendrás problemas para llevar la cuenta en cualquier momento.
 
 ### Permitir una visión individual de los datos
 
@@ -200,4 +200,4 @@ La pregunta es por qué tantos empresarios sienten que su marketing de contenido
 
 Convénzase de que el marketing de contenidos es una herramienta eficaz y puede contribuir decisivamente al éxito de su empresa. Si quiere tener éxito, prescinda de contenidos intercambiables y herramientas de gestión de proyectos confusas.
 
-Utilice SeaTable para establecer sus personas, objetivos y contenidos y supervise de cerca su desarrollo. Establezca un proceso de auto-mejora y verá cómo llega el éxito. Empieza ahora con nuestras [plantillas de marketing](https://seatable.io/es/vorlage/akpem7oksykcemvai5eblq/) y personalízalas según tus necesidades.
+Utilice SeaTable para establecer sus personas, objetivos y contenidos y supervise de cerca su desarrollo. Establezca un proceso de auto-mejora y verá cómo llega el éxito. Empieza ahora con nuestras [plantillas de marketing]({{< relref "templates/marketing/content-marketing-strategy" >}}) y personalízalas según tus necesidades.

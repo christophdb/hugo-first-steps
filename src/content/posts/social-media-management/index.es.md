@@ -104,7 +104,7 @@ Las herramientas para redes sociales automatizan muchas de las tareas diarias qu
 
 ## Plan de medios sociales de SeaTable
 
-Si tienes muchos canales en las redes sociales, puede ser difícil hacer un seguimiento de todas las publicaciones e interacciones. Un enfoque estructurado en forma de plan de redes sociales puede ayudarte a gestionar esta complejidad. La [plantilla gratuita](https://seatable.io/es/vorlage/lmmjwghgtye322iwdxvj7a/) de SeaTable permite personalizar las publicaciones y facilita la gestión de las redes sociales.
+Si tienes muchos canales en las redes sociales, puede ser difícil hacer un seguimiento de todas las publicaciones e interacciones. Un enfoque estructurado en forma de plan de redes sociales puede ayudarte a gestionar esta complejidad. La [plantilla gratuita]({{< relref "templates/marketing/social-media-plan" >}}) de SeaTable permite personalizar las publicaciones y facilita la gestión de las redes sociales.
 
 Registre sus **ideas**, asigne entradas a **categorías** específicas con sólo unos clics y marque las tareas completadas en la **lista de tareas pendientes**. Guarda imágenes, textos, tareas y KPI en una **ubicación central** a la que todos los miembros del equipo puedan acceder en cualquier momento. Las funciones de colaboración de SeaTable facilitan el **trabajo** en equipo.
 

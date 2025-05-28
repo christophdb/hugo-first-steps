@@ -44,11 +44,16 @@ Los correos electrónicos no se envían realmente, sino que aparecen en su buzó
 
 Ahora podemos ver en la tabla `Registrations` para crear una nueva columna para enviar correos electrónicos. Utilice la siguiente configuración:
 
-> Nombre: any  
-> Tipo de columna: `{{< seatable-icon icon="dtable-icon-button" >}} Button`  
-> Etiqueta: `Send`  
-> Acción: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`  
-> Asunto: `Confirmation: Course {Registered for}`  
+> Nombre: any
+>
+> Tipo de columna: `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+>
+> Etiqueta: `Send`
+>
+> Acción: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+>
+> Asunto: `Confirmation: Course {Registered for}`
+>
 > Beneficiario: `customer@example.com`
 
 ![](images/lvl2-create-button.png)

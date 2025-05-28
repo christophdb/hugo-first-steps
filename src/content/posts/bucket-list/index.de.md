@@ -178,8 +178,8 @@ Ihre Ziele können sich auch auf zwischenmenschliche Beziehungen konzentrieren.
 
 ## Online-Vorlage in SeaTable
 
-Um sicherzustellen, dass Sie die Ziele auf Ihrer Bucket List nicht aus den Augen verlieren, ist es ratsam, diese schriftlich festzuhalten und an einem leicht zugänglichen Ort aufzubewahren. SeaTable bietet Ihnen eine kostenlose [Online-Vorlage](https://seatable.io/vorlage/jbn_a4wysewcfd9eegkgha/), mit der Sie Ihre Bucket Liste immer zur Hand haben und Ihre Ziele strukturiert in verschiedene Kategorien einteilen können.
+Um sicherzustellen, dass Sie die Ziele auf Ihrer Bucket List nicht aus den Augen verlieren, ist es ratsam, diese schriftlich festzuhalten und an einem leicht zugänglichen Ort aufzubewahren. SeaTable bietet Ihnen eine kostenlose [Online-Vorlage]({{< relref "templates/everyday-life/bucket-list" >}}), mit der Sie Ihre Bucket Liste immer zur Hand haben und Ihre Ziele strukturiert in verschiedene Kategorien einteilen können.
 
 Darüber hinaus können Sie festhalten, welche Freunde und Familienmitglieder bestimmte Interessen teilen und Sie bei Ihren Abenteuern begleiten würden. Sie können auch zusätzliche Informationen wie Bilder, Links oder Adressen direkt in Ihrer Bucket List speichern, um alle relevanten Details an einem Ort zu sammeln.
 
-Haken Sie Ziel für Ziel von Ihrer Bucket List ab, ergänzen Sie flexibel neue Ideen oder löschen Sie Wünsche, die Ihnen nicht mehr wichtig sind. Bei SeaTable können Sie sich [kostenlos registrieren]({{< relref "pages/registration" >}}) und die [Online-Vorlage](https://seatable.io/vorlage/jbn_a4wysewcfd9eegkgha/) nach Belieben an Ihre Bedürfnisse anpassen.
+Haken Sie Ziel für Ziel von Ihrer Bucket List ab, ergänzen Sie flexibel neue Ideen oder löschen Sie Wünsche, die Ihnen nicht mehr wichtig sind. Bei SeaTable können Sie sich [kostenlos registrieren]({{< relref "pages/registration" >}}) und die [Online-Vorlage]({{< relref "templates/everyday-life/bucket-list" >}}) nach Belieben an Ihre Bedürfnisse anpassen.

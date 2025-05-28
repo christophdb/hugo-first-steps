@@ -74,7 +74,7 @@ La gestión de colecciones garantiza el registro, la catalogación, la indexaci�
 
 El punto fuerte de SeaTable reside en que usted mismo determina qué información desea registrar y puede ampliarla como desee. Al mismo tiempo, puede crear cualquier vínculo entre las distintas informaciones y, con la ayuda de columnas desplegables, también tomar información de otra tabla.
 
-Nuestra plantilla [Art Gallery Management](https://seatable.io/vorlage/wgdomegftn67lag0z_zjkg/) tiene algunas entradas de muestra para mostrarle las posibilidades. Los objetos de arte individuales son el centro de la gestión de la colección y están vinculados a los artistas. Al mismo tiempo, se registra dónde se encuentra actualmente la obra de arte y hay enlaces a las restauraciones y préstamos previstos. En cualquier momento puede añadirse una ampliación para incluir referencias públicas, periodos creativos o categorías artísticas.
+Nuestra plantilla [Art Gallery Management]({{< relref "templates/operations/art-gallery-management" >}}) tiene algunas entradas de muestra para mostrarle las posibilidades. Los objetos de arte individuales son el centro de la gestión de la colección y están vinculados a los artistas. Al mismo tiempo, se registra dónde se encuentra actualmente la obra de arte y hay enlaces a las restauraciones y préstamos previstos. En cualquier momento puede añadirse una ampliación para incluir referencias públicas, periodos creativos o categorías artísticas.
 
 ![Resumen de objetos de la plantilla de la galería de arte](images/art-gallery-management-objects.png)
 

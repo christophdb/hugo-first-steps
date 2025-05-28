@@ -38,9 +38,12 @@ Next, we turn to the columns of the table so that our base can record the desire
 
 **Column 1:**
 
-> Name: `Date`  
-> Column type: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`  
-> Format: any  
+> Name: `Date`
+>
+> Column type: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`
+>
+> Format: any
+>
 > To the minute: `Yes`
 
 **Note:** Instead of the column type `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` the column type `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` can be used. While you have to fill in the date column manually, this would be filled in automatically with the current date. This of course saves time. However, the disadvantage would be that you would no longer be able to change the date value and, for example, could no longer retroactively enter expenses for other days.
@@ -49,15 +52,18 @@ Next, we turn to the columns of the table so that our base can record the desire
 
 **Column 2:**
 
-> Name: `Amount`  
-> Column type: `{{< seatable-icon icon="dtable-icon-number" >}} Number`  
+> Name: `Amount`
+>
+> Column type: `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+>
 > Format: `Euro`
 
 ---
 
 **Column 3:**
 
-> Name: `Category`  
+> Name: `Category`
+>
 > Column type: `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
 
 ---

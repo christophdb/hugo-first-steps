@@ -48,7 +48,7 @@ Das Supply Chain Management deckt sämtliche Prozesse und Schritte entlang der W
 
 SeaTable schafft einen Ort, an dem alle Informationen zusammenlaufen können. Somit schaffen Sie es in nur wenigen Schritten und Klicks Ihr Supply Chain Management effizient abzubilden. Erfassen Sie alle nötigen Informationen, wie z.B. Ihre Lieferanten, Filialen, eingehende sowie ausgehende Bestellungen, Ihr Produktportfolio und behalten Sie Ihr gesamtes Lager im Blick. SeaTable bietet viele Möglichkeiten, Ihre Prozesse ganz flexibel im Supply Chain an Ihre Wünsche anzupassen.
 
-[Hier geht es direkt zu unserem Template “Supply Chain Management”](https://seatable.io/vorlage/lrtcit5zqratbf0rpidxlw/)
+[Hier geht es direkt zu unserem Template “Supply Chain Management”]({{< relref "templates/sales/supply-chain-management" >}})
 
 ### **Erfassen Sie Ihre Lieferanten und Filialen in nur wenigen Schritten**
 
@@ -132,6 +132,6 @@ Dieser Artikel sollte Ihnen gezeigt haben, wie flexibel SeaTable eingesetzt werd
 
 Worauf warten Sie noch? Ihr neues Supply Chain Management steht bereits in den Startlöchern.
 
-[Zum Template „Supply Chain Management“](https://seatable.io/vorlage/lrtcit5zqratbf0rpidxlw/)  
+[Zum Template „Supply Chain Management“]({{< relref "templates/sales/supply-chain-management" >}})  
 [Jetzt SeaTable kostenlos in der Cloud ausprobieren]({{< relref "pages/registration" >}})  
 [Oder lieber SeaTable Enterprise im eigenen Rechenzentrum betreiben]({{< relref "pages/product/seatable-server" >}})

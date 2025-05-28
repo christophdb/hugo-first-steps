@@ -14,7 +14,11 @@ Egal, ob Praktikum, Ausbildung oder Festanstellung – der erste Schritt auf dem
 
 Doch der Arbeitsaufwand lohnt sich, denn nur ein gelungenes Bewerbungsschreiben öffnet Ihnen die Türen zu einem persönlichen **Vorstellungsgespräch** und bringt Sie einen Schritt näher zu Ihrem **Traumjob**. Im Folgenden erfahren Sie, worauf Sie beim Schreiben Ihrer Bewerbung achten sollten.
 
-{{< warning headline="Tipp" text="Um den Überblick über Ihre Bewerbungen zu behalten, bietet sich auch ein Planungstool an. [Hier](https://seatable.io/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) erfahren Sie, wie Sie mit diesem Tool per Knopfdruck aus einer Vorlage verschiedene Bewerbungsschreiben erzeugen können." />}}
+{{< warning headline="Tipp" >}}
+
+Um den Überblick über Ihre Bewerbungen zu behalten, bietet sich auch ein Planungstool an. [Hier]({{< relref "templates/everyday-life/application-cover-letter" >}}) erfahren Sie, wie Sie mit diesem Tool per Knopfdruck aus einer Vorlage verschiedene Bewerbungsschreiben erzeugen können.
+
+{{< /warning >}}
 
 ## Warum ein Bewerbungsschreiben wichtig ist
 
@@ -59,9 +63,9 @@ Alle Qualifikationen, welche Sie nicht als **bewerbungsrelevant** markiert haben
 
 ## Bewerbungsübersicht anlegen
 
-Damit Sie auf der Jobsuche nicht den Überblick darüber verlieren, wo Sie sich wann und mit welchen Unterlagen beworben haben, sollten Sie eine Tabelle anlegen. Um die von Ihnen ausgearbeiteten Informationen und Dokumente immer griffbereit zu haben, bietet SeaTable Ihnen eine [strukturierte Bewerbungsübersicht](https://seatable.io/vorlage/cc0-xv_fq_yn3ipvbvfiaa/). Sehen Sie auf einen Blick alle Ihre Bewerbungen und die dazugehörigen Unterlagen und erleichtern Sie sich das Erstellen von Anschreiben mit dem **Seitendesign**.
+Damit Sie auf der Jobsuche nicht den Überblick darüber verlieren, wo Sie sich wann und mit welchen Unterlagen beworben haben, sollten Sie eine Tabelle anlegen. Um die von Ihnen ausgearbeiteten Informationen und Dokumente immer griffbereit zu haben, bietet SeaTable Ihnen eine [strukturierte Bewerbungsübersicht]({{< relref "templates/everyday-life/application-cover-letter" >}}). Sehen Sie auf einen Blick alle Ihre Bewerbungen und die dazugehörigen Unterlagen und erleichtern Sie sich das Erstellen von Anschreiben mit dem **Seitendesign**.
 
-Wenn Sie SeaTable für Ihren Bewerbungsplaner nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die Vorlage finden Sie [hier](https://seatable.io/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+Wenn Sie SeaTable für Ihren Bewerbungsplaner nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die Vorlage finden Sie [hier]({{< relref "templates/everyday-life/application-cover-letter" >}}).
 
 ## Formalien in Ihrem Bewerbungsschreiben
 
@@ -227,4 +231,4 @@ Bevor Sie Ihre Bewerbung abschicken, sollten Sie diese final **Korrektur lesen**
 
 Dem Schreiben Ihrer nächsten erfolgreichen Bewerbung steht nun nichts mehr im Wege. Damit Sie auch bei mehreren Bewerbungen nicht den Überblick über Ihre Unterlagen verlieren, hat SeaTable einen [Online-Bewerbungsplaner](https://seatable.io/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen) für Sie erstellt. Dieser hilft Ihnen Ihre nächsten Schritte zu planen, Dokumente zu ordnen und immer auf dem neuesten Stand im Bewerbungsprozess zu bleiben.
 
-Wenn Sie SeaTable für Ihre Bewerbungsübersicht nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die Vorlage finden Sie [hier](https://seatable.io/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+Wenn Sie SeaTable für Ihre Bewerbungsübersicht nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die Vorlage finden Sie [hier]({{< relref "templates/everyday-life/application-cover-letter" >}}).

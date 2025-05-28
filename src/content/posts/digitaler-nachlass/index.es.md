@@ -127,7 +127,7 @@ Otro software de base de datos que te permite gestionar tu patrimonio digital de
 
 Utilice un gestor de contraseñas para documentar su patrimonio digital.
 
-Si desea utilizar el gestor de contraseñas de SeaTable para su patrimonio digital, puede [ver la plantilla aquí](https://seatable.io/es/vorlage/a4269i5bs7olvut60dr5xq/). Si está interesado, solo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente y crear una visión general con sus propios datos.
+Si desea utilizar el gestor de contraseñas de SeaTable para su patrimonio digital, puede [ver la plantilla aquí]({{< relref "templates/everyday-life/password-manager" >}}). Si está interesado, solo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente y crear una visión general con sus propios datos.
 
 ## Conclusión: el patrimonio digital es más importante que nunca
 

@@ -129,7 +129,7 @@ sections:
         image_alt: "Utilice un tablero Kanban personalizable para monitorear el progreso de proyectos TI y responsabilidades."
     buttons:
     - label: Descubrir todas las plantillas
-      link: https://seatable.io/vorlagen/?lang=auto
+      link: 'templates'
 
   - name: "content-16"
     weight: 11

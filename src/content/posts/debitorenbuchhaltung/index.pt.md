@@ -14,7 +14,7 @@ Os pagamentos recebidos têm de ser verificados, os clientes têm de ser lembrad
 
 Com o [SeaTable](https://seatable.io/pt/registrierung/?lang=auto) tem finalmente todas as facturas ou créditos devidos pelos seus clientes num relance e sabe exactamente sobre cada estatuto individual. SeaTable permite ao seu departamento de contas a receber gerir de forma óptima e eficiente os seus créditos. Além disso, as informações podem ser facilmente trocadas entre os departamentos individuais da sua empresa. Para que todos possam trabalhar com a mesma e correcta informação e o senhor, como empresário, possa dormir de novo mais tranquilamente.
 
-[Clique aqui para ir diretamente para o nosso modelo "CRM Contas a Receber".](https://seatable.io/pt/vorlage/wsnf1ukarv6sp5omx6a2og/)
+[Clique aqui para ir diretamente para o nosso modelo "CRM Contas a Receber".]({{< relref "templates/sales/crm-accounts-receivable" >}})
 
 ## O que é a Contabilidade de Clientes?
 
@@ -110,6 +110,6 @@ Assim, nem sempre tem de acabar com software de contabilidade caro como o [Lexwa
 
 Graças à sua enorme flexibilidade, a SeaTable também pode fazer com que o seu departamento de contas a receber funcione perfeitamente. A vantagem clara que o SeaTable traz consigo é a diversidade em que o próprio produto pode ser utilizado. Para além das contas a receber, outros casos importantes de utilização na sua empresa também podem ser cobertos. Pode encontrar mais sobre isto no nosso [blog](https://seatable.io/pt/blog/?lang=auto) ou directamente nos nossos [modelos](https://seatable.io/pt/docs/templates/?lang=auto). Convença-se da folha de cálculo mais poderosa e inovadora e comece hoje mesmo a fazer a sua contabilidade de contas a receber.
 
-[Para o modelo "Contas a Receber de CRM](https://seatable.io/pt/vorlage/wsnf1ukarv6sp5omx6a2og/)  
+[Para o modelo "Contas a Receber de CRM]({{< relref "templates/sales/crm-accounts-receivable" >}})  
 [Experimente agora o SeaTable na nuvem de graça]({{< relref "pages/registration" >}})  
 [Ou prefere gerir o SeaTable Enterprise no seu próprio centro de dados]({{< relref "pages/product/seatable-server" >}})

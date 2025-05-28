@@ -4,8 +4,8 @@ date: 2022-08-05
 lastmod: '2022-07-25'
 author: 'rdb'
 url: '/es/planificacion-campamentos-marketing'
-aliases: 
-- /es/marketing-kampagne-planung/
+aliases:
+    - /es/marketing-kampagne-planung/
 color: '#eeeeee'
 seo:
     title:
@@ -48,7 +48,7 @@ Prácticamente no existen ideas en las que no se haya pensado antes. En otras pa
 
 ### 4\. Defina responsabilidades y plazos claros
 
-Una campaña de marketing y su planificación funcionan mejor cuando todo el mundo sabe lo que tiene que hacer y cuándo. Una vez establecidos los [objetivos del proyecto](https://seatable.io/vorlagen-projektplanung/), el grupo destinatario y el análisis del mercado y la competencia, es hora de formar un equipo, [asignar responsabilidades y tareas](https://seatable.io/projektstrukturplan-vorlage/), fijar plazos e hitos y, lo que es más importante, asignar el [presupuesto](https://seatable.io/budgetplanung-vorlage/).
+Una campaña de marketing y su planificación funcionan mejor cuando todo el mundo sabe lo que tiene que hacer y cuándo. Una vez establecidos los [objetivos del proyecto]({{< relref "templates/projects/project-plan" >}}), el grupo destinatario y el análisis del mercado y la competencia, es hora de formar un equipo, [asignar responsabilidades y tareas](https://seatable.io/projektstrukturplan-vorlage/), fijar plazos e hitos y, lo que es más importante, asignar el [presupuesto](https://seatable.io/budgetplanung-vorlage/).
 
 ![El equipo de marketing debate el enfoque de la planificación de la campaña](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
@@ -64,7 +64,7 @@ Una vez elaboradas todas las medidas relativas a la campaña de marketing y fina
 
 ## ¿Quieres más? Estas herramientas le ayudarán a planificar su campaña de marketing
 
-El bolígrafo y el papel están muy bien y sin duda pueden utilizarse para planificar una campaña de marketing, pero hay una forma más sencilla. Tanto si se trata de una campaña de marketing online como offline, las herramientas digitales adecuadas pueden facilitar aún más la planificación y la ejecución. Hoy en día ya existen varios programas que te facilitan la [planificación del proyecto](https://seatable.io/vorlagen-projektplanung/) y la ejecución de la campaña mediante envíos automáticos por correo electrónico, publicaciones en redes sociales y muchas otras funciones.
+El bolígrafo y el papel están muy bien y sin duda pueden utilizarse para planificar una campaña de marketing, pero hay una forma más sencilla. Tanto si se trata de una campaña de marketing online como offline, las herramientas digitales adecuadas pueden facilitar aún más la planificación y la ejecución. Hoy en día ya existen varios programas que te facilitan la [planificación del proyecto]({{< relref "templates/projects/project-plan" >}}) y la ejecución de la campaña mediante envíos automáticos por correo electrónico, publicaciones en redes sociales y muchas otras funciones.
 
 Nuestro ejemplo es nuestra [campaña TikTok](https://t3n.de/consent?redirecturl=%2Fnews%2Fseatable-tiktok-case-study-1477428%2F). Con la planificación adecuada de nuestra campaña de marketing en esta plataforma, generamos más de medio millón de visitas a la semana, lo que supone un impulso extraordinario para el conocimiento de nuestra marca y nuestra visibilidad en Internet. Con la planificación adecuada, ¡todo es posible!
 

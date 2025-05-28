@@ -132,7 +132,7 @@ sections:
             image_alt: "Nutzen Sie ein anpassbares Kanban Board, um den Fortschritt von IT Projekten und Aufgaben sowie Verantwortlichkeiten im Auge zu behalten."
       buttons:
         - label: Alle Vorlagen entdecken
-          link: https://seatable.io/vorlagen/?lang=auto
+          link: 'templates'
 
     - name: "content-16"
       weight: 11

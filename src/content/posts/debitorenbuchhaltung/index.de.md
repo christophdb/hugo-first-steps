@@ -15,7 +15,7 @@ Zahlungseingänge müssen geprüft, Kunden an Zahlungen erinnert werden und teil
 
 Mit [SeaTable](https://seatable.io/registrierung/?lang=auto) haben Sie endlich alle Rechnungen bzw. Forderungen an Ihre Kunden auf einen Blick und wissen genau über jeden einzelnen Stand Bescheid. SeaTable ermöglicht Ihrer Debitorenbuchhaltung ein optimales und effizientes Forderungsmanagement. Zudem können Informationen ganz einfach unter den einzelnen Abteilungen in Ihrem Unternehmen ausgetauscht werden. Damit jeder auch mit den gleichen und richtigen Infos arbeiten kann und auch Sie als Unternehmer wieder ruhiger schlafen können.
 
-[Hier geht es direkt zu unserem Template “CRM-Debitorenbuchhaltung”](https://seatable.io/vorlage/wsnf1ukarv6sp5omx6a2og/)
+[Hier geht es direkt zu unserem Template “CRM-Debitorenbuchhaltung”]({{< relref "templates/sales/crm-accounts-receivable" >}})
 
 ## Was versteht man unter Debitorenbuchhaltung?
 
@@ -111,6 +111,6 @@ Es muss also nicht immer bei einer teuren Buchhaltungssoftware wie beispielsweis
 
 SeaTable schafft es durch seine enorme Flexibilität auch Ihre Debitorenbuchhaltung perfekt arbeiten zu lassen. Den klaren Vorteil, den SeaTable mit sich bringt, ist die Vielfältigkeit, in welcher Form das Produkt selbst eingesetzt werden kann. Neben der Debitorenbuchhaltung können auch weitere wichtige Anwendungsfälle in Ihrem Unternehmen abgedeckt werden. Mehr hierzu finden Sie in unserem [Blog](https://seatable.io/blog/?lang=auto) oder unter direkt in unseren [Templates](https://seatable.io/docs/templates/?lang=auto). Überzeugen Sie sich nun selbst von dem mächtigsten und innovativsten Spreadsheet und starten Sie noch heute mit Ihrer Debitorenbuchhaltung so richtig durch.
 
-[Zum Template „CRM-Debitorenbuchhaltung“](https://seatable.io/vorlage/wsnf1ukarv6sp5omx6a2og/)  
+[Zum Template „CRM-Debitorenbuchhaltung“]({{< relref "templates/sales/crm-accounts-receivable" >}})  
 [Jetzt SeaTable kostenlos in der Cloud ausprobieren]({{< relref "pages/registration" >}})  
 [Oder lieber SeaTable Enterprise im eigenen Rechenzentrum betreiben]({{< relref "pages/product/seatable-server" >}})

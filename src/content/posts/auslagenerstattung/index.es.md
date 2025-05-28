@@ -11,7 +11,7 @@ seo:
 
 Ya se trate de una comida de negocios, un billete de tren o el teléfono móvil de la empresa, ¿realiza pagos por adelantado con regularidad en el trabajo y quiere saber qué debe tener en cuenta a la hora de **reembolsar gastos**? ¿O es usted empresario y busca la manera de que el proceso de reembolso de gastos sea más eficaz para sus empleados?
 
-Este artículo no sólo le proporciona todo lo que necesita saber sobre el reembolso de gastos, sino que también le ofrece una [plantilla](https://seatable.io/es/vorlage/alhhthyxqbud1qqkxaormq/) gratuita que puede facilitarle el trabajo diario.
+Este artículo no sólo le proporciona todo lo que necesita saber sobre el reembolso de gastos, sino que también le ofrece una [plantilla]({{< relref "templates/human-resources/expenses-reimbursement" >}}) gratuita que puede facilitarle el trabajo diario.
 
 ![Finanzas y burocracia](https://seatable.io/wp-content/uploads/2023/12/3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
 
@@ -80,8 +80,8 @@ Otro punto a favor es la **mayor transparencia**. Las empresas pueden comprender
 
 ## Modelo gratuito de reembolso de gastos
 
-Si desea dar el paso del reembolso de gastos analógico al digital, la [plantilla gratuita](https://seatable.io/es/vorlage/alhhthyxqbud1qqkxaormq/) de SeaTable es una excelente opción para usted.
+Si desea dar el paso del reembolso de gastos analógico al digital, la [plantilla gratuita]({{< relref "templates/human-resources/expenses-reimbursement" >}}) de SeaTable es una excelente opción para usted.
 
 Puede introducir sus gastos en la hoja de cálculo y **clasificarlos** en **categorías especialmente definidas**, como material de oficina, gastos de viaje o comidas de negocios, con un simple clic del ratón. Los empleados pueden guardar **los recibos y facturas digitales** directamente en la hoja de cálculo, lo que garantiza que no se pierdan más pruebas. También puedes ver de un vistazo qué gastos ya has reembolsado y cuáles quedan pendientes. Tras el reembolso, puede crear fácilmente documentos en los que confirme el reembolso. Gracias a las **estadísticas**, puede reconocer de un vistazo en qué gastos se incurre con más frecuencia y cuáles puede incluso reducir.
 
-Regístrese [gratuitamente]({{< relref "pages/registration" >}}) en SeaTable y utilice la plantilla según sus deseos y necesidades. Lleve un registro de sus reembolsos de gastos y minimice con éxito su carga de trabajo diaria. [Haga clic aquí para acceder a la plantilla.](https://seatable.io/es/vorlage/alhhthyxqbud1qqkxaormq/)
+Regístrese [gratuitamente]({{< relref "pages/registration" >}}) en SeaTable y utilice la plantilla según sus deseos y necesidades. Lleve un registro de sus reembolsos de gastos y minimice con éxito su carga de trabajo diaria. [Haga clic aquí para acceder a la plantilla.]({{< relref "templates/human-resources/expenses-reimbursement" >}})

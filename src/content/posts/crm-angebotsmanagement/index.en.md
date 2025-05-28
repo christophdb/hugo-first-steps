@@ -39,11 +39,11 @@ For this, SeaTable offers you many possibilities to collect all customer data in
 
 The advantage of a CRM in SeaTable: You always have a central collection point where all information from all departments converge and thus always have all customer data, sales phases and much more at a glance. This means that you no longer have to compile the information yourself through individual departments. This saves you a lot of time and, above all, nerves. Furthermore, SeaTable adapts flexibly to all your requirements.
 
-[Click here to go directly to our template CRM offer management](https://seatable.io/en/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/)
+[Click here to go directly to our template CRM offer management]({{< relref "templates/sales/crm-offer-management" >}})
 
 ## Enter new customer data
 
-To start recording the actual customer data, our [CRM template](https://seatable.io/en/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/) provides you with a predefined [web form](https://seatable.io/en/docs/handbuch/datenmanagement/webformulare/?lang=auto) that you can adapt to your design and your wishes. With this, you enter all relevant information that is important for your CRM, such as the customer's name, address, contact person, telephone number, e-mail address, sales potential, important file attachments and much more.
+To start recording the actual customer data, our [CRM template]({{< relref "templates/sales/crm-offer-management" >}}) provides you with a predefined [web form](https://seatable.io/en/docs/handbuch/datenmanagement/webformulare/?lang=auto) that you can adapt to your design and your wishes. With this, you enter all relevant information that is important for your CRM, such as the customer's name, address, contact person, telephone number, e-mail address, sales potential, important file attachments and much more.
 
 This data then moves into your personal CRM system or into the SeaTable table "Customer Data" and is directly colour-coded there according to sales potential.
 
@@ -143,6 +143,6 @@ This article should have made it clear to you how powerful and flexible SeaTable
 
 In addition, you do not need a separate solution for each individual task area, but can map cross-departmental processes effectively and efficiently with SeaTable. SeaTable really leaves nothing to be desired and adapts completely to your personal needs. What are you waiting for? Do away with expensive CRM software providers and get started with your SeaTable CRM system today.
 
-[To the "CRM offer management" template](https://seatable.io/en/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/)  
+[To the "CRM offer management" template]({{< relref "templates/sales/crm-offer-management" >}})  
 [Try SeaTable in the cloud for free now]({{< relref "pages/registration" >}})  
 [Or prefer to run SeaTable Enterprise in your own data centre]({{< relref "pages/product/seatable-server" >}})

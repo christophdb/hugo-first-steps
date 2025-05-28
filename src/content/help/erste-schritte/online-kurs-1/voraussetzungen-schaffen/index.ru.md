@@ -34,7 +34,7 @@ weight: 2
 
 {{< warning  headline="Если вы хотите узнать больше"  text="Все подробности об этих трех вариантах вы можете узнать из нашего сравнения продуктов." />}}
 
-[К сравнению продуктов](https://seatable.io/ru/produktvergleich/)
+[К сравнению продуктов]({{< relref "pages/product/overview" >}})
 
 ## Форум сообщества SeaTable
 

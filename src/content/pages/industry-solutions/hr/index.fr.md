@@ -61,7 +61,7 @@ sections:
             image_alt: Recrutement de personnel
       buttons:
           - label: 'Découvrez d’autres modèles RH'
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
 
     - name: content-25
       weight: 5

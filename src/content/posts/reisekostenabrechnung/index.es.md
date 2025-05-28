@@ -105,6 +105,6 @@ Un informe de gastos de viaje correcto requiere cierta información que debe inc
 
 Mucha gente utiliza una plantilla de Excel para sus informes de gastos de viaje, ¡pero no tiene por qué ser así! SeaTable, por ejemplo, ofrece una plantilla de informe de gastos de viaje más intuitiva y clara. Deje que sus empleados envíen todos los gastos y recibos digitalmente a través de formularios web. A continuación, los datos se organizan de forma automática y ordenada en una hoja de cálculo para que siempre tenga una visión general y pueda reembolsar regularmente a sus empleados todos los gastos.
 
-Puede encontrar más información sobre la plantilla de informe de gastos de viaje de SeaTable [aquí](https://seatable.io/es/vorlage/alhhthyxqbud1qqkxaormq/).
+Puede encontrar más información sobre la plantilla de informe de gastos de viaje de SeaTable [aquí]({{< relref "templates/human-resources/expenses-reimbursement" >}}).
 
 [Sólo tiene que registrarse gratuitamente]({{< relref "pages/registration" >}}) con su dirección de correo electrónico, probar SeaTable y personalizar la plantilla a su gusto para registrar las visualizaciones de su empresa como desee.

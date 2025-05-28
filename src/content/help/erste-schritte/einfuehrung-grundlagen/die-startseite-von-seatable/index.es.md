@@ -23,7 +23,7 @@ La cabecera de la página de inicio contiene cuatro elementos. Éstos son:
 
 ## Navegación por la página
 
-La navegación de la izquierda de la página de inicio contiene enlaces a varias secciones y recursos: [Bases]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) Inicio. También encontrará enlaces a esta guía del usuario y a las [plantillas](https://seatable.io/es/vorlagen/) disponibles en SeaTable.
+La navegación de la izquierda de la página de inicio contiene enlaces a varias secciones y recursos: [Bases]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) Inicio. También encontrará enlaces a esta guía del usuario y a las [plantillas]({{< relref "templates" >}}) disponibles en SeaTable.
 
 ## Espacio de trabajo
 

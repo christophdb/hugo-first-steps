@@ -16,7 +16,7 @@ O SeaTable mantém um [histórico]({{< relref "help/base-editor/historie-und-ver
 
 ## A página inicial
 
-Depois de iniciar sessão, encontra-se na página **inicial**. Aqui pode gerir as suas bases. Se seleccionou [modelos](https://seatable.io/vorlagen/) durante o registo, estes serão apresentados aqui.
+Depois de iniciar sessão, encontra-se na página **inicial**. Aqui pode gerir as suas bases. Se seleccionou [modelos]({{< relref "templates" >}}) durante o registo, estes serão apresentados aqui.
 
 Ao clicar na **imagem do avatar** no canto superior direito, pode aceder às [definições pessoais](https://seatable.io/pt/docs/persoenliche-einstellungen/persoenliche-einstellungen/) para ajustar a língua do sistema, por exemplo.
 

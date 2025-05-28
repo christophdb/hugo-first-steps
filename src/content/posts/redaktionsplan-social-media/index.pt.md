@@ -114,7 +114,7 @@ Eine andere Option sind **Social-Media-Tools wie Hootsuite,CoSchedule oder Conte
 
 Darüber hinaus gibt es **intelligente Datenbank-Lösungen** wie SeaTable. In den Tabellen lassen sich Informationen aller Art eintragen sowie Bilder, Dokumente und To-do-Listen speichern. So bündeln Sie den gesamten Content an einem Ort und bilden Ihre Prozesse in einem Redaktionsplan ab, mit dem alle **Teammitglieder gemeinsam und in Echtzeit arbeiten** können.
 
-Um immer das Wichtigste für sich im Blick zu haben, können Sie die Daten in Ihrem SeaTable Social-Media-Plan **unterschiedlich strukturieren, darstellen und mit Statistiken auswerten**. [Sie registrieren sich online]({{< relref "pages/registration" >}}) und legen sofort los. Hier erhalten Sie die kostenfreie [Redaktionsplan Vorlage](https://seatable.io/vorlage/lmmjwghgtye322iwdxvj7a/), die Sie genau an Ihre Bedürfnisse anpassen können.
+Um immer das Wichtigste für sich im Blick zu haben, können Sie die Daten in Ihrem SeaTable Social-Media-Plan **unterschiedlich strukturieren, darstellen und mit Statistiken auswerten**. [Sie registrieren sich online]({{< relref "pages/registration" >}}) und legen sofort los. Hier erhalten Sie die kostenfreie [Redaktionsplan Vorlage]({{< relref "templates/marketing/social-media-plan" >}}), die Sie genau an Ihre Bedürfnisse anpassen können.
 
 ## Fazit
 

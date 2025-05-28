@@ -111,7 +111,7 @@ Alles an einem Ort und alle auf demselben Stand: In SeaTable geistern keine vers
 
 Der größte Vorteil von SeaTable sind allerdings die vielfältigen Visualisierungsmöglichkeiten. Ob **Kalender**, **Timelines**, **Kanban-Boards** oder **Organigramme** – es gibt alles, was das Herz begehrt, und sogar noch mehr: Auf dem separaten **Whiteboard** können Sie Ihren Projektstrukturplan frei skizzieren und ähnliche Mindmaps wie in Miro erstellen. Oder Sie nutzen das brandneue **Tree-Plugin**, um die verschiedenen Ebenen Ihres Projektstrukturplans nach Belieben ein- und auszublenden.
 
-Die Projektstrukturplan Vorlage finden Sie [hier](https://seatable.io/vorlage/ijkegrn3q-ym8arpcq8qia/). Bevor Sie diese nutzen können, müssen Sie sich mit Ihrer E-Mail-Adresse kostenlos registrieren.
+Die Projektstrukturplan Vorlage finden Sie [hier]({{< relref "templates/projects/work-breakdown-structure" >}}). Bevor Sie diese nutzen können, müssen Sie sich mit Ihrer E-Mail-Adresse kostenlos registrieren.
 
 ## Jetzt Ihren Projektstrukturplan erstellen
 
@@ -119,4 +119,4 @@ Das Konzept rund um den Projektstrukturplan klingt simpel – je nach Größe Ih
 
 [Registrieren Sie sich noch heute]({{< relref "pages/registration" >}}), starten Sie Ihr nächstes Projekt und führen Sie es mit der kostenlosen Projektstrukturplanung Vorlage von SeaTable zum Erfolg.
 
-Sie benötigen noch einen Projektplan, der die zeitliche Abfolge von Projektphasen oder -aufgaben abbildet? Dann erfahren Sie hier, [wie Sie einen klassischen Projektplan erstellen](https://seatable.io/vorlage/yio4sr0wrcwuv3-1m0zvkg/).
+Sie benötigen noch einen Projektplan, der die zeitliche Abfolge von Projektphasen oder -aufgaben abbildet? Dann erfahren Sie hier, [wie Sie einen klassischen Projektplan erstellen]({{< relref "templates/projects/project-plan" >}}).

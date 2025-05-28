@@ -20,7 +20,7 @@ SeaTable is as flexible as a Swiss army knife and can help you with a wide range
 - Structure your next flat search
 - Plan your next move and stay on top of things
 
-You will find these four templates in [the Real estate templates section](https://seatable.io/en/vorlagen/immobilien/). We have created this section to help you with your daily challenges. You will see: The templates will help you to map all your processes and tasks quickly and easily.
+You will find these four templates in [the Real estate templates section]({{< relref "templates/real-estate" >}}). We have created this section to help you with your daily challenges. You will see: The templates will help you to map all your processes and tasks quickly and easily.
 
 Copy the templates, adapt them to your needs or use the table structures and contents as inspiration when building and developing your own applications.
 
@@ -32,7 +32,7 @@ Property management with SeaTable
 
 Even today, properties and all associated information such as tenants, repair orders, invoices, incoming payments, etc. are often still managed using Excel spreadsheets. Save yourself this tedious task and get started with SeaTable today.
 
-In our [template for managing your properties](https://seatable.io/en/vorlage/ufyf6scpsgucxv8y0g9asw/), you can record all information centrally in a database. Record data, photos and floor plans of your properties, remind defaulting tenants by e-mail if no money has been received, and document all maintenance work and repairs in a clear table.
+In our [template for managing your properties]({{< relref "templates/real-estate/property-management" >}}), you can record all information centrally in a database. Record data, photos and floor plans of your properties, remind defaulting tenants by e-mail if no money has been received, and document all maintenance work and repairs in a clear table.
 
 ## Keep your properties in order and coordinate janitor services
 
@@ -68,4 +68,4 @@ You can significantly reduce your stress level with our [template for your next 
 
 Our relocation template also provides a to-do list for other tasks that need to be completed by a certain date. So don't forget to set up the redirection request for the post office or cancel contracts relating to the old property in good time. Try it out! The next move is sure to come.
 
-Want to see even more ways you can use SeaTable? Discover [all our templates](https://seatable.io/en/vorlagen/) and work even more efficiently with your data.
+Want to see even more ways you can use SeaTable? Discover [all our templates]({{< relref "templates/finance" >}}) and work even more efficiently with your data.

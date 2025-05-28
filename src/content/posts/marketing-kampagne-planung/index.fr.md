@@ -46,7 +46,7 @@ Il n'existe pratiquement pas d'idées qui n'aient pas déjà été pensées. En 
 
 ### 4\. définir des responsabilités et des délais clairs
 
-Une campagne de marketing et sa planification fonctionnent mieux lorsque chacun sait ce qu'il doit faire et quand. Une fois que [les objectifs du projet](https://seatable.io/fr/vorlagen-projektplanung/), le groupe cible et l'analyse du marché ou de la concurrence sont définis, il s'agit de constituer une équipe, de [répartir les responsabilités et les tâches](https://seatable.io/fr/projektstrukturplan-vorlage/), de fixer des délais et des étapes et - très important - de répartir le [budget](https://seatable.io/fr/budgetplanung-vorlage/).
+Une campagne de marketing et sa planification fonctionnent mieux lorsque chacun sait ce qu'il doit faire et quand. Une fois que [les objectifs du projet]({{< relref "templates/projects/project-plan" >}}), le groupe cible et l'analyse du marché ou de la concurrence sont définis, il s'agit de constituer une équipe, de [répartir les responsabilités et les tâches](https://seatable.io/fr/projektstrukturplan-vorlage/), de fixer des délais et des étapes et - très important - de répartir le [budget](https://seatable.io/fr/budgetplanung-vorlage/).
 
 ![L'équipe marketing discute de la procédure de planification des campagnes.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
@@ -62,7 +62,7 @@ Une fois que toutes les mesures relatives à la campagne de marketing ont été 
 
 ## Vous voulez en savoir plus ? Ces outils vous aident à planifier votre campagne de marketing
 
-Un stylo et du papier, c'est bien, et c'est certainement suffisant pour planifier une campagne de marketing, mais il y a plus simple. En effet, qu'il s'agisse d'une campagne de marketing hors ligne ou en ligne, la planification et la mise en œuvre sont encore plus simples avec les outils numériques adéquats. Il existe déjà de nombreux programmes qui facilitent la [planification des projets](https://seatable.io/fr/vorlagen-projektplanung/) et la mise en œuvre des campagnes grâce à l'envoi automatique d'e-mails, aux publications sur les réseaux sociaux et à de nombreuses autres fonctionnalités.
+Un stylo et du papier, c'est bien, et c'est certainement suffisant pour planifier une campagne de marketing, mais il y a plus simple. En effet, qu'il s'agisse d'une campagne de marketing hors ligne ou en ligne, la planification et la mise en œuvre sont encore plus simples avec les outils numériques adéquats. Il existe déjà de nombreux programmes qui facilitent la [planification des projets]({{< relref "templates/projects/project-plan" >}}) et la mise en œuvre des campagnes grâce à l'envoi automatique d'e-mails, aux publications sur les réseaux sociaux et à de nombreuses autres fonctionnalités.
 
 L'exemple de notre [campagne TikTok](https://t3n.de/consent?redirecturl=%2Fnews%2Fseatable-tiktok-case-study-1477428%2F) illustre parfaitement ce à quoi cela peut ressembler. En planifiant correctement notre campagne de marketing sur cette plateforme, nous générons plus d'un demi-million de vues par semaine - un booster fou pour la notoriété de la marque et notre visibilité sur le web. Avec une bonne planification, tout est possible !
 

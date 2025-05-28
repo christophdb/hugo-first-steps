@@ -148,4 +148,4 @@ Al mismo tiempo, puedes establecer hábitos positivos: Por ejemplo, beber agua e
 
 Como puede ver: Controlar tus gastos y costes de vida sólo tiene ventajas. Con un libro de presupuesto, siempre tendrá el control y sabrá exactamente a dónde ha ido a parar su dinero. SeaTable se adapta a sus necesidades. Si actualmente utiliza Excel para su libro de presupuesto, puede simplemente importar sus tablas a SeaTable. Puede [registrarse gratuitamente]({{< relref "pages/registration" >}}) y probar SeaTable.
 
-Si desea utilizar nuestra plantilla, eche un vistazo a nuestra área de plantillas de [Finanzas](https://seatable.io/es/vorlagen/finanzen/). Hay muchos más casos de uso en los que SeaTable puede facilitarle el día a día.
+Si desea utilizar nuestra plantilla, eche un vistazo a nuestra área de plantillas de [Finanzas]({{< relref "templates/finance" >}}). Hay muchos más casos de uso en los que SeaTable puede facilitarle el día a día.

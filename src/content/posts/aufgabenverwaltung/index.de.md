@@ -11,7 +11,7 @@ seo:
     description: Entdecken Sie effektives Aufgabenmanagement für erfolgreiches Projektmanagement. Lernen Sie Tipps zur optimalen Aufgabenverwaltung kennen.
 ---
 
-Aufgabenmanagement und Aufgabenverwaltung sind zentrale Elemente eines erfolgreichen Projektmanagements. Diese Kompetenzen erfordern ein hohes Maß an Organisationstalent und die Fähigkeit, **Aufgaben effektiv zu koordinieren und zu verteilen**. Ein leistungsfähiges Aufgabenmanagement-Tool ist dabei unerlässlich, um den Überblick zu behalten, Deadlines einzuhalten und den Projekterfolg sicherzustellen. SeaTable bietet als [Projektportfolio Tool](https://seatable.io/vorlage/ajlptlawq6-nyxqwyjfujq/) die Möglichkeit, ein agiles Projektmanagement umzusetzen und Projekte erfolgreich abzuschließen. Mit SeaTable können Sie Ihre Aufgabenverwaltung optimieren und alle wichtigen Aspekte des Aufgabenmanagements abdecken.
+Aufgabenmanagement und Aufgabenverwaltung sind zentrale Elemente eines erfolgreichen Projektmanagements. Diese Kompetenzen erfordern ein hohes Maß an Organisationstalent und die Fähigkeit, **Aufgaben effektiv zu koordinieren und zu verteilen**. Ein leistungsfähiges Aufgabenmanagement-Tool ist dabei unerlässlich, um den Überblick zu behalten, Deadlines einzuhalten und den Projekterfolg sicherzustellen. SeaTable bietet als [Projektportfolio Tool]({{< relref "templates/projects/project-portfolio" >}}) die Möglichkeit, ein agiles Projektmanagement umzusetzen und Projekte erfolgreich abzuschließen. Mit SeaTable können Sie Ihre Aufgabenverwaltung optimieren und alle wichtigen Aspekte des Aufgabenmanagements abdecken.
 
 ## Grundlagen des Aufgabenmanagements
 

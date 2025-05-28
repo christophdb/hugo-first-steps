@@ -42,6 +42,6 @@ Les liens externes sont toujours appropriés lorsque vous souhaitez rendre des d
 
 Les liens externes conviennent parfaitement à la publication d'enregistrements individuels sur un site web. Les visiteurs du site web ne voient que les contenus qui ont été partagés, mais ne peuvent pas les modifier.
 
-Une simple _balise embed_ permet d'intégrer une base ou une vue dans une page web via un lien externe. Les bases de notre [bibliothèque de modèles](https://seatable.io/vorlagen/) sont par exemple intégrées dans notre site web au moyen de liens externes. C'est également de cette manière que nous publions les articles de presse de SeaTable sur notre page de presse.
+Une simple _balise embed_ permet d'intégrer une base ou une vue dans une page web via un lien externe. Les bases de notre [bibliothèque de modèles]({{< relref "templates" >}}) sont par exemple intégrées dans notre site web au moyen de liens externes. C'est également de cette manière que nous publions les articles de presse de SeaTable sur notre page de presse.
 
 ![Intégration d'un lien externe dans une page web](images/externer-link-in-webseite.gif)

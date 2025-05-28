@@ -130,7 +130,7 @@ sections:
             image_alt: 'Use a customizable Kanban board to track the progress of IT projects, tasks, and responsibilities.'
       buttons:
           - label: Discover All Templates
-            link: https://seatable.io/vorlagen/?lang=auto
+            link: 'templates'
 
     - name: 'content-16'
       weight: 11

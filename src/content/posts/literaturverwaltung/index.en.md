@@ -26,7 +26,7 @@ Collecting evidence for hypotheses, presenting the current state of research or 
 
 With a reference management program you can ...
 
-- maintain an [overview of extensive projects](https://seatable.io/en/vorlagen-projektplanung/).
+- maintain an [overview of extensive projects]({{< relref "templates/projects/project-plan" >}}).
 - Systematically record research literature.
 - ensure a uniform citation style.
 - make flexible changes to your literature lists.

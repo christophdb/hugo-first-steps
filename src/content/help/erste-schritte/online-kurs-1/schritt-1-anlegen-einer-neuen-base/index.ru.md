@@ -38,9 +38,12 @@ url: '/ru/pomoshch/schritt-1-anlegen-einer-neuen-base'
 
 **Колонка 1:**
 
-> Имя: `Date`  
-> Тип колонны: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`  
-> Формат: любой  
+> Имя: `Date`
+>
+> Тип колонны: `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date`
+>
+> Формат: любой
+>
 > С точностью до минуты: `Yes`
 
 **Примечание:** Вместо типа столбца `{{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} Date` тип столбца `{{< seatable-icon icon="dtable-icon-creation-time" >}} Created time` можно использовать. Пока вам приходится заполнять столбец даты вручную, этот столбец будет автоматически заполняться текущей датой. Это, конечно, экономит время. Однако недостатком будет то, что вы больше не сможете изменять значение даты и, например, вводить расходы за другие дни задним числом.
@@ -49,15 +52,18 @@ url: '/ru/pomoshch/schritt-1-anlegen-einer-neuen-base'
 
 **Колонна 2:**
 
-> Имя: `Amount`  
-> Тип колонны: `{{< seatable-icon icon="dtable-icon-number" >}} Number`  
+> Имя: `Amount`
+>
+> Тип колонны: `{{< seatable-icon icon="dtable-icon-number" >}} Number`
+>
 > Формат: `Euro`
 
 ---
 
 **Колонка 3:**
 
-> Имя: `Category`  
+> Имя: `Category`
+>
 > Тип колонны: `{{< seatable-icon icon="dtable-icon-single-election" >}} Single select`
 
 ---

@@ -96,7 +96,7 @@ Les bugs et les issues sont communiqués via un formulaire web, il n'y a pas d'a
 
 Voyons comment fonctionne la saisie et la gestion des erreurs avec SeaTable.
 
-Il existe dans SeaTable un [modèle de suivi des bugs](https://seatable.io/fr/modele/hlbtvqrtscqmhx3adh5asg/) qui peut être utilisé gratuitement par tous les utilisateurs. Les collaborateurs y saisissent les bugs via un [formulaire web](https://seatable.io/fr/docs/handbuch/seatable-nutzen/webformulare/). Les bugs apparaissent ensuite automatiquement dans une [base](https://seatable.io/fr/docs/handbuch/seatable-nutzen/bases/), où ils peuvent être traités par les collaborateurs compétents.
+Il existe dans SeaTable un [modèle de suivi des bugs]({{< relref "templates/software-development/bug-tracker" >}}) qui peut être utilisé gratuitement par tous les utilisateurs. Les collaborateurs y saisissent les bugs via un [formulaire web](https://seatable.io/fr/docs/handbuch/seatable-nutzen/webformulare/). Les bugs apparaissent ensuite automatiquement dans une [base](https://seatable.io/fr/docs/handbuch/seatable-nutzen/bases/), où ils peuvent être traités par les collaborateurs compétents.
 
 ![Tableau de tous les bugs connus dans le Bugtracker de SeaTable](https://seatable.io/wp-content/uploads/2021/11/bugtracker-uebersicht.jpg)
 
@@ -129,6 +129,6 @@ Les logiciels de suivi des bugs et des issues aident les entreprises à surveill
 
 Issuetracker © monticellllo / adobe stock
 
-Testez notre [modèle gratuit pour le suivi des bugs](https://seatable.io/fr/modele/hlbtvqrtscqmhx3adh5asg/) et profitez également de la solution de liste intelligente dans d'autres domaines.
+Testez notre [modèle gratuit pour le suivi des bugs]({{< relref "templates/software-development/bug-tracker" >}}) et profitez également de la solution de liste intelligente dans d'autres domaines.
 
 Source de l'image de couverture : © REDPIXEL/Adobe Stock

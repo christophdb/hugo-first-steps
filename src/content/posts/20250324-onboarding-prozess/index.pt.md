@@ -142,7 +142,7 @@ Com apenas um clique, pode criar uma lista de verificação intuitiva com todas 
 
 {{< template id="89db2f0bd28d41f19c01" height="500" >}}
 
-No [modelo gratuito](https://seatable.io/vorlage/nbmf4z3_rssykhs-3egoqa/) do SeaTable, pode agrupar todas as tarefas e informações num único local. Ao atribuir responsabilidades claras, um horizonte temporal e um estado a cada tarefa, pode visualizar claramente o progresso da indução e acompanhá-lo em direto.
+No [modelo gratuito]({{< relref "templates/human-resources/employee-onboarding" >}}) do SeaTable, pode agrupar todas as tarefas e informações num único local. Ao atribuir responsabilidades claras, um horizonte temporal e um estado a cada tarefa, pode visualizar claramente o progresso da indução e acompanhá-lo em direto.
 
 Confie num software adequado e assegure-se de que os seus novos empregados se sentem imediatamente bem-vindos e se instalam rapidamente na sua empresa. Para utilizar a [plataforma sem código SeaTable]({{< relref "/" >}}), basta registar-se gratuitamente. Pode então adicionar o modelo à sua base e completá-lo com os seus próprios dados.
 

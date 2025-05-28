@@ -119,7 +119,7 @@ Si vous recherchez pour votre gestion de projet agile un logiciel qui favorise u
 
 SeaTable vous offre **une flexibilité maximale** dans le choix de l'hébergement : vous avez l'option d'héberger vous-même le logiciel et d'installer [SeaTable On-Premises]({{< relref "pages/product/seatable-server" >}}) sur vos propres serveurs, ou vous pouvez utiliser la version **confortable et évolutive en nuage**, tout en conservant les normes de sécurité les plus élevées. SeaTable est une entreprise allemande qui **stocke toutes les données sur des serveurs allemands, conformément au RGPD**. Dans la **version de base gratuite**, vous disposez de nombreuses fonctions de base. Pour des exigences plus poussées, [SeaTable]({{< relref "/" >}}) propose des abonnements à prix attractifs à partir de 7 euros par utilisateur/mois.
 
-Dans notre bibliothèque, vous trouverez [Modèles de gestion de projet](https://seatable.io/vorlagen/projekte/), que vous pouvez utiliser immédiatement dans la version de base gratuite.
+Dans notre bibliothèque, vous trouverez [Modèles de gestion de projet]({{< relref "templates/projects" >}}), que vous pouvez utiliser immédiatement dans la version de base gratuite.
 
 ### De meilleurs résultats grâce à la gestion de projet agile
 

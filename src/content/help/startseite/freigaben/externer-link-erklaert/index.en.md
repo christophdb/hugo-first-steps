@@ -42,6 +42,6 @@ External links are suitable whenever you want to make data in bases accessible t
 
 External links are great for publishing individual records on a website. The visitors of the website will only see the content that has been shared, but they will not be able to modify the content.
 
-With a simple _embed tag_, you can integrate a base or view into a web page using an external link. For example, the bases in our [template library](https://seatable.io/vorlagen/) are embedded in our website using external links. This is also how we publish SeaTable press articles on our press page.
+With a simple _embed tag_, you can integrate a base or view into a web page using an external link. For example, the bases in our [template library]({{< relref "templates" >}}) are embedded in our website using external links. This is also how we publish SeaTable press articles on our press page.
 
 ![Embedding an external link in a web page](images/externer-link-in-webseite.gif)

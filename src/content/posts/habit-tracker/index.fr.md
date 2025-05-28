@@ -132,6 +132,6 @@ Ceux qui aiment la praticité et la simplicité peuvent aussi utiliser une **app
 
 ## Modèle pour votre Habit Tracker numérique
 
-Pour ne pas perdre de vue votre objectif, vous avez besoin d'une solution simple et efficace pour suivre vos habitudes et vos progrès. C'est ce que vous propose SeaTable avec un [modèle gratuit](https://seatable.io/fr/modele/petkiwi1stmm_1lh2xlejq/) que vous pouvez adapter à vos besoins personnels. Habit Tracker est intégré à un Bullet Journal, qui offre encore d'autres possibilités passionnantes d'organiser et de changer votre vie.
+Pour ne pas perdre de vue votre objectif, vous avez besoin d'une solution simple et efficace pour suivre vos habitudes et vos progrès. C'est ce que vous propose SeaTable avec un [modèle gratuit]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) que vous pouvez adapter à vos besoins personnels. Habit Tracker est intégré à un Bullet Journal, qui offre encore d'autres possibilités passionnantes d'organiser et de changer votre vie.
 
-Si vous souhaitez utiliser SeaTable pour votre Habit Tracker, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez [ici](https://seatable.io/fr/modele/petkiwi1stmm_1lh2xlejq/) le modèle correspondant avec de nombreuses inspirations et des exemples d'habitudes.
+Si vous souhaitez utiliser SeaTable pour votre Habit Tracker, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez [ici]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) le modèle correspondant avec de nombreuses inspirations et des exemples d'habitudes.

@@ -13,13 +13,17 @@ Quer se trate de um estágio, de uma aprendizagem ou de um posto de trabalho per
 
 Mas vale a pena o esforço, porque só uma carta de candidatura bem sucedida abrirá a porta a uma **entrevista** pessoal e deixá-lo-á um passo mais perto do seu **emprego de sonho**. A seguir, encontrará os pontos a que deve prestar atenção ao redigir a sua candidatura.
 
-{{< warning headline="Dica" text="Também pode utilizar uma ferramenta de planeamento para acompanhar as suas candidaturas. [Aqui](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) pode descobrir como pode utilizar esta ferramenta para gerar várias cartas de candidatura a partir de um modelo com o toque de um botão." />}}
+{{< warning headline="Dica" text="Também pode utilizar uma ferramenta de planeamento para acompanhar as suas candidaturas. [Aqui]({{< relref "templates/everyday-life/application-cover-letter" >}}) pode descobrir como pode utilizar esta ferramenta para gerar várias cartas de candidatura a partir de um modelo com o toque de um botão." />}}
 
 ## Porque é que uma carta de candidatura é importante
 
 A carta de apresentação é uma parte integrante de qualquer candidatura. Embora deva incluir as suas **competências técnicas** no seu **CV**, deve dedicar a sua carta de apresentação às suas **competências pessoais**. Estas têm-se tornado cada vez mais importantes nos últimos anos, razão pela qual a carta de apresentação pessoal se tornou mais um ponto focal no processo de seleção.
 
-{{< warning headline="Competências técnicas versus competências transversais" text="As competências técnicas incluem todos os conhecimentos especializados que adquiriu através do trabalho, de estágios ou de actividades de lazer. [As competências transversais](https://www.karriereakademie.de/soft-skills), por outro lado, resumem as características que constituem a sua personalidade." />}}
+{{< warning headline="Competências técnicas versus competências transversais" >}}
+
+As competências técnicas incluem todos os conhecimentos especializados que adquiriu através do trabalho, de estágios ou de actividades de lazer. [As competências transversais](https://www.karriereakademie.de/soft-skills), por outro lado, resumem as características que constituem a sua personalidade.
+
+{{< /warning >}}
 
 Uma carta de apresentação dá-lhe a oportunidade de se apresentar com confiança e de realçar as suas qualidades positivas. Por um lado, trata-se de uma **auto-apresentação** através da enumeração das qualificações relevantes e, por outro lado, trata-se de se destacar da massa de candidatos em termos de linguagem.
 
@@ -58,9 +62,9 @@ Pode pôr de lado quaisquer qualificações que não tenha assinalado como **rel
 
 ## Criar uma síntese da aplicação
 
-Deve criar uma tabela para não perder a noção de onde se candidatou, quando e com que documentos durante a sua procura de emprego. O SeaTable oferece-lhe uma [visão geral estruturada](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) das candidaturas, para que tenha sempre à mão as informações e os documentos que preparou. Veja todas as suas candidaturas e os documentos associados num relance e facilite a criação de cartas de apresentação com o **design da página**.
+Deve criar uma tabela para não perder a noção de onde se candidatou, quando e com que documentos durante a sua procura de emprego. O SeaTable oferece-lhe uma [visão geral estruturada]({{< relref "templates/everyday-life/application-cover-letter" >}}) das candidaturas, para que tenha sempre à mão as informações e os documentos que preparou. Veja todas as suas candidaturas e os documentos associados num relance e facilite a criação de cartas de apresentação com o **design da página**.
 
-Se pretender utilizar o SeaTable para o seu planeador de candidaturas, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+Se pretender utilizar o SeaTable para o seu planeador de candidaturas, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui]({{< relref "templates/everyday-life/application-cover-letter" >}}).
 
 ## Formalidades da carta de candidatura
 
@@ -214,4 +218,4 @@ Antes de enviar a sua candidatura, deve fazer **uma revisão da** mesma. Para al
 
 Agora nada o impede de redigir a sua próxima candidatura com êxito. A SeaTable criou um [planeador de candidaturas em linha](https://seatable.io/pt/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen) para que não perca o rasto dos seus documentos, mesmo que tenha várias candidaturas. Isto ajudá-lo-á a planear os seus próximos passos, a organizar os seus documentos e a manter-se sempre atualizado sobre o processo de candidatura.
 
-Se pretender utilizar o SeaTable para a síntese da sua candidatura, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui](https://seatable.io/pt/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+Se pretender utilizar o SeaTable para a síntese da sua candidatura, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui]({{< relref "templates/everyday-life/application-cover-letter" >}}).

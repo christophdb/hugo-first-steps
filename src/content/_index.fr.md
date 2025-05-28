@@ -164,7 +164,7 @@ sections:
     image_alt: 
   buttons:
     - label: "Trouvez plus de modèles pour votre domaine d'application"
-      link: "https://seatable.io/vorlagen/?lang=auto"
+      link: "templates"
       style: not-yet-defined
       id: fr-homepage-vorlagen-allgemein-content-3
 

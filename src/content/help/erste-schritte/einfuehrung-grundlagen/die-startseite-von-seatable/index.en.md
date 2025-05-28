@@ -23,7 +23,7 @@ The header of the home page contains four elements. These are:
 
 ## Page navigation
 
-The left side navigation of the Home page contains links to various sections and resources: [Bases]({{< relref "help/startseite/bases/loeschen-einer-base" >}}). You will also find links to this User Guide and the [templates](https://seatable.io/en/vorlagen/) available to you within SeaTable.
+The left side navigation of the Home page contains links to various sections and resources: [Bases]({{< relref "help/startseite/bases/loeschen-einer-base" >}}). You will also find links to this User Guide and the [templates]({{< relref "templates" >}}) available to you within SeaTable.
 
 ## Workspace
 

@@ -114,7 +114,7 @@ Para el concepto del contenido, lo primero es desarrollar una idea del evento y,
 
 **3\. Planificación del presupuesto**
 
-Para asegurarse de no gestionar eventos que superen su presupuesto, es crucial en la gestión de eventos llevar a cabo con antelación una [planificación presupuestaria](https://seatable.io/vorlage/eecso26xscgq2jzffzmwcq/) detallada. Ten en cuenta no sólo los gastos obvios, sino también otros menos evidentes, como licencias, gastos de viaje, invitaciones y costes de desmontaje y limpieza.
+Para asegurarse de no gestionar eventos que superen su presupuesto, es crucial en la gestión de eventos llevar a cabo con antelación una [planificación presupuestaria]({{< relref "templates/finance/budget-plan" >}}) detallada. Ten en cuenta no sólo los gastos obvios, sino también otros menos evidentes, como licencias, gastos de viaje, invitaciones y costes de desmontaje y limpieza.
 
 Las partidas de gastos más importantes que debes tener en cuenta:
 
@@ -154,7 +154,7 @@ Para que su programa social sea más interesante y sus invitados se lo pasen bie
 
 En la gestión de eventos, las invitaciones desempeñan un papel crucial para su éxito. Si utiliza invitaciones personalizadas, podrá aumentar eficazmente el número de participantes. Además, enviar notificaciones de "Reserve la fecha" durante la fase de planificación puede ayudar a generar interés desde el principio y garantizar que sus invitados mantengan la fecha libre.
 
-No olvide incluir en las invitaciones información importante como la fecha, la hora, el lugar y el programa. Para facilitar el proceso de reserva a tus invitados, es buena idea integrar un sistema de reserva de entradas. Con un [formulario web](https://seatable.io/docs/webformulare/webformulare/) en la [plantilla](https://seatable.io/vorlage/fewxqfzbsxocskxl7hikqq/) ya preparada de SeaTable, puedes implementar fácilmente este paso y crear automáticamente una lista de participantes.
+No olvide incluir en las invitaciones información importante como la fecha, la hora, el lugar y el programa. Para facilitar el proceso de reserva a tus invitados, es buena idea integrar un sistema de reserva de entradas. Con un [formulario web](https://seatable.io/docs/webformulare/webformulare/) en la [plantilla]({{< relref "templates/events/event-management" >}}) ya preparada de SeaTable, puedes implementar fácilmente este paso y crear automáticamente una lista de participantes.
 
 ![Enviar invitaciones con SeaTable a través de un formulario web](Einladungskommunikation.jpg)
 
@@ -168,7 +168,7 @@ En el caso de eventos comerciales como festivales, resulta útil la publicidad d
 
 Es importante empezar las medidas publicitarias con tiempo y preparar los mensajes de forma atractiva e informativa para despertar el interés de su público objetivo y conseguir un elevado número de visitantes.
 
-Consejo: publicando los momentos más destacados, fotos y vídeos en [redes sociales](https://seatable.io/vorlage/lmmjwghgtye322iwdxvj7a/), puede ampliar la presencia y el impacto de su evento más allá de la fecha real.
+Consejo: publicando los momentos más destacados, fotos y vídeos en [redes sociales]({{< relref "templates/marketing/social-media-plan" >}}), puede ampliar la presencia y el impacto de su evento más allá de la fecha real.
 
 **9\. Preste atención a las cuestiones legales y de seguridad**.
 

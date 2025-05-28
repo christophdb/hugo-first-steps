@@ -149,4 +149,4 @@ At the same time, you can establish positive habits: For example, simply drinkin
 
 As you can see: Keeping track of your expenses and living costs only has advantages. With a budget book, you always stay in control and know exactly where your money has gone. SeaTable adapts to your needs. If you currently use Excel for your budget book, you can simply import your tables into SeaTable. You can [register for free]({{< relref "pages/registration" >}}) and try out SeaTable!
 
-If you would like to use our template, take a look at our [Finance](https://seatable.io/en/vorlagen/finanzen/) template area. There are many more use cases for how SeaTable can make your everyday life easier.
+If you would like to use our template, take a look at our [Finance]({{< relref "templates/finance" >}}) template area. There are many more use cases for how SeaTable can make your everyday life easier.

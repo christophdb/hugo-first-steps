@@ -111,7 +111,7 @@ Everything in one place and everyone on the same page: There are no different ve
 
 The biggest advantage of SeaTable, however, is the wide range of visualization options. Whether **calendars**, **timelines**, **Kanban boards** or **organizational charts** - there is everything your heart desires and even more: On the separate **whiteboard** you can freely sketch your work breakdown structure and create mind maps similar to those in Miro. Or you can use the brand new **Tree plugin** to show and hide the different levels of your work breakdown structure as you wish.
 
-You can find the work breakdown structure template [here](https://seatable.io/vorlage/ijkegrn3q-ym8arpcq8qia/). Before you can use it, you need to register for free with your e-mail address.
+You can find the work breakdown structure template [here]({{< relref "templates/projects/work-breakdown-structure" >}}). Before you can use it, you need to register for free with your e-mail address.
 
 ## Create your work breakdown structure now
 
@@ -119,4 +119,4 @@ The concept behind the work breakdown structure sounds simple - but depending on
 
 [Register today]({{< relref "pages/registration" >}}), start your next project and make it a success with SeaTable's free work breakdown structure template.
 
-Do you still need a project plan that shows the chronological sequence of project phases or tasks? Then find out here [how to create a classic project plan](https://seatable.io/vorlage/yio4sr0wrcwuv3-1m0zvkg/).
+Do you still need a project plan that shows the chronological sequence of project phases or tasks? Then find out here [how to create a classic project plan]({{< relref "templates/projects/project-plan" >}}).

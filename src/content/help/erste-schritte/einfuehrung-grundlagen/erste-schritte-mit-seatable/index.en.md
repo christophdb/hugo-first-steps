@@ -29,7 +29,7 @@ What data do you want to capture? What process in your everyday life might not b
 
 There is no one "right" way to use SeaTable profitably. The best system is the one that fits you and your workflow.
 
-If you need a little inspiration to find out how to use SeaTable in the best way, take a look at our [templates](https://seatable.io/en/vorlagen/). There you will find many interesting ways to use SeaTable.
+If you need a little inspiration to find out how to use SeaTable in the best way, take a look at our [templates]({{< relref "templates" >}}). There you will find many interesting ways to use SeaTable.
 
 Other sources include our [YouTube channel](https://www.youtube.com/seatable), where we publish many how-to videos, and our [SeaTable blog]({{< relref "posts" >}}), where we regularly write about new use cases and solutions.
 

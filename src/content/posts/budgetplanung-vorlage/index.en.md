@@ -116,4 +116,4 @@ Many people use [Excel spreadsheets](https://seatable.io/en/die-beste-excel-alte
 
 Give your managers budget responsibility and use **SeaTable as a collaboration tool** to **work on budgeting** with several departments **at the same time**. This allows you to adjust the budget plan throughout the year, **track expenses in real time** and always have an overview of the current budget.
 
-Try our [free budget planning template](https://seatable.io/en/vorlage/eecso26xscgq2jzffzmwcq/) and discover other exciting use cases that you can implement with SeaTable.
+Try our [free budget planning template]({{< relref "templates/finance/budget-plan" >}}) and discover other exciting use cases that you can implement with SeaTable.

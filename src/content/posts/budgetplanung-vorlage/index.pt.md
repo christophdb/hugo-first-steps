@@ -115,4 +115,4 @@ Muitas pessoas utilizam [folhas de cálculo Excel](https://seatable.io/pt/die-be
 
 Atribua responsabilidades orçamentais aos seus gestores e utilize **o SeaTable como uma ferramenta de colaboração** para **trabalhar na elaboração do orçamento** com vários departamentos **ao mesmo tempo**. Isto permite-lhe ajustar o plano orçamental ao longo do ano, **acompanhar as despesas em tempo real** e ter sempre uma visão geral do orçamento atual.
 
-Experimente o nosso [modelo gratuito de planeamento orçamental](https://seatable.io/pt/vorlage/eecso26xscgq2jzffzmwcq/) e descubra outros casos de utilização interessantes que pode implementar com o SeaTable.
+Experimente o nosso [modelo gratuito de planeamento orçamental]({{< relref "templates/finance/budget-plan" >}}) e descubra outros casos de utilização interessantes que pode implementar com o SeaTable.

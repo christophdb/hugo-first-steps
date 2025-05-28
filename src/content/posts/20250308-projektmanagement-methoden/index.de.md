@@ -88,7 +88,7 @@ Aus dem agilen Projektmanagement heraus wurden zwei weitere Projektmanagementmet
 
 ### 5\. Kanban
 
-Im Mittelpunkt dieser Methode steht das sogenannte [Kanban-Board](https://seatable.io/vorlage/cwp-nvmltq6chdlesuhfrw/) mit mehreren Spalten, die bestimmte Projektmanagment-Phasen wie „To do“, „Doing“ und „Done“ darstellen. Die Kanban-Karten mit den Aufgaben starten in der To-do-Spalte und wandern von dort aus nach rechts bis hin zu „Done“. Sie können die Aufgaben-Karten priorisieren, um so den Ablauf der Abarbeitung zu beeinflussen.
+Im Mittelpunkt dieser Methode steht das sogenannte [Kanban-Board]({{< relref "templates/projects/kanban-board" >}}) mit mehreren Spalten, die bestimmte Projektmanagment-Phasen wie „To do“, „Doing“ und „Done“ darstellen. Die Kanban-Karten mit den Aufgaben starten in der To-do-Spalte und wandern von dort aus nach rechts bis hin zu „Done“. Sie können die Aufgaben-Karten priorisieren, um so den Ablauf der Abarbeitung zu beeinflussen.
 
 In kurzen Meetings tauschen sich die Teammitglieder täglich über den Fortschritt, Hindernisse und Erfolge aus. Die Kanban-Methode eignet sich daher für Projekte, die von vielen regelmäßigen Feedbackprozessen und Verbesserungsschleifen profitieren.
 

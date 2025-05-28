@@ -89,7 +89,7 @@ O software de base de dados **SeaTable** torna possível a gestão gratuita de f
 
 ## Gerir a sua frota com SeaTable
 
-Mantenha o controlo de toda a sua frota! Com o nosso [software](https://seatable.io/pt/vorlage/qsxitf8ktcojsuivrormnq/) gratuito [de gestão de frotas](https://seatable.io/pt/vorlage/qsxitf8ktcojsuivrormnq/), pode catalogar os seus veículos e gerir todos os processos de gestão de frotas num instante. Registe de forma cómoda e simples as reservas, as devoluções, as reparações e as marcações dos seus veículos.
+Mantenha o controlo de toda a sua frota! Com o nosso [software]({{< relref "templates/operations/fleet-management" >}}) gratuito [de gestão de frotas]({{< relref "templates/operations/fleet-management" >}}), pode catalogar os seus veículos e gerir todos os processos de gestão de frotas num instante. Registe de forma cómoda e simples as reservas, as devoluções, as reparações e as marcações dos seus veículos.
 
 O SeaTable oferece-lhe uma gestão clara e intuitiva da sua frota e dos pedidos de reserva recebidos. Isto significa que tem sempre uma visão geral dos veículos disponíveis e do estado da sua frota.
 

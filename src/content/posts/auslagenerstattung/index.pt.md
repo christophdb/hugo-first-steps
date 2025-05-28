@@ -11,7 +11,7 @@ seo:
 
 Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der **Auslagenerstattung** zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung für Ihre Mitarbeiter effizienter zu gestalten?
 
-Dieser Beitrag vermittelt Ihnen nicht nur alles Wissenswerte rund um das Thema Auslagenerstattung – er bietet Ihnen auch eine kostenlose [Vorlage](https://seatable.io/vorlage/alhhthyxqbud1qqkxaormq/), die Ihren Arbeitsalltag erleichtern kann.
+Dieser Beitrag vermittelt Ihnen nicht nur alles Wissenswerte rund um das Thema Auslagenerstattung – er bietet Ihnen auch eine kostenlose [Vorlage]({{< relref "templates/human-resources/expenses-reimbursement" >}}), die Ihren Arbeitsalltag erleichtern kann.
 
 ![Finanzen und Bürokratie](https://seatable.io/wp-content/uploads/2023/12/3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
 
@@ -80,8 +80,8 @@ Ein weiterer Pluspunkt ist die **gesteigerte Transparenz**. Unternehmen können 
 
 ## Kostenlose Vorlage zur Auslagenerstattung
 
-Wenn Sie den Schritt von einer analogen hin zu einer digitalen Auslagenerstattung gehen möchten, stellt die [kostenlose Vorlage](https://seatable.io/vorlage/alhhthyxqbud1qqkxaormq/) von SeaTable eine hervorragende Option für Sie dar.
+Wenn Sie den Schritt von einer analogen hin zu einer digitalen Auslagenerstattung gehen möchten, stellt die [kostenlose Vorlage]({{< relref "templates/human-resources/expenses-reimbursement" >}}) von SeaTable eine hervorragende Option für Sie dar.
 
 Sie können Ihre Auslagen in die Tabelle eintragen und diese per Mausklick in **eigens festgelegte Kategorien** wie Büroausstattung, Reisekosten oder Geschäftsessen einordnen. Die Mitarbeiter können **digitale Belege und Rechnungen** direkt in der Tabelle ablegen und so sicherstellen, dass kein Nachweis mehr verloren geht. Außerdem sehen Sie auf einen Blick, welche Auslagen Sie bereits erstattet haben und welche noch ausstehen. Nach der Erstattung können Sie mühelos Dokumente erstellen, in denen Sie die Rückerstattung bestätigen. Anhand der **Statistiken** erkennen Sie auf einen Blick, welche Kosten am häufigsten anfallen und welche Sie vielleicht sogar senken können.
 
-[Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) auf SeaTable und verwenden Sie die Vorlage nach Ihren Wünschen und Bedürfnissen. Behalten Sie den Überblick über Ihre Auslagenerstattung und minimieren Sie erfolgreich Ihren Aufwand im Arbeitsalltag. [Hier gelangen Sie zur Vorlage.](https://seatable.io/vorlage/alhhthyxqbud1qqkxaormq/)
+[Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) auf SeaTable und verwenden Sie die Vorlage nach Ihren Wünschen und Bedürfnissen. Behalten Sie den Überblick über Ihre Auslagenerstattung und minimieren Sie erfolgreich Ihren Aufwand im Arbeitsalltag. [Hier gelangen Sie zur Vorlage.]({{< relref "templates/human-resources/expenses-reimbursement" >}})

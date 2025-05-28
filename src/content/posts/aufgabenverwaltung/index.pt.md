@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-A gestão de tarefas e a administração de tarefas são elementos-chave de uma gestão de projectos bem sucedida. Estas competências requerem um elevado grau de talento organizacional e a capacidade de **coordenar e distribuir tarefas de forma eficaz**. Uma poderosa ferramenta de gestão de tarefas é essencial para manter uma visão geral, cumprir prazos e garantir o sucesso do projeto. Como [ferramenta de portfólio de projectos](https://seatable.io/pt/vorlage/ajlptlawq6-nyxqwyjfujq/), o SeaTable oferece a oportunidade de implementar uma gestão de projectos ágil e concluir projectos com sucesso. Com o SeaTable, pode otimizar a sua gestão de tarefas e cobrir todos os aspectos importantes da gestão de tarefas.
+A gestão de tarefas e a administração de tarefas são elementos-chave de uma gestão de projectos bem sucedida. Estas competências requerem um elevado grau de talento organizacional e a capacidade de **coordenar e distribuir tarefas de forma eficaz**. Uma poderosa ferramenta de gestão de tarefas é essencial para manter uma visão geral, cumprir prazos e garantir o sucesso do projeto. Como [ferramenta de portfólio de projectos]({{< relref "templates/projects/project-portfolio" >}}), o SeaTable oferece a oportunidade de implementar uma gestão de projectos ágil e concluir projectos com sucesso. Com o SeaTable, pode otimizar a sua gestão de tarefas e cobrir todos os aspectos importantes da gestão de tarefas.
 
 ## Noções básicas de gestão de tarefas
 

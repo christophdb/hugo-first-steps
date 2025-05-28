@@ -44,11 +44,16 @@ url: '/ru/pomoshch/schritt-3-anmeldebestaetigung'
 
 Теперь мы можем увидеть в таблице `Registrations` чтобы создать новый столбец для отправки сообщений электронной почты. Используйте следующие настройки:
 
-> Имя: любое  
-> Тип колонны: `{{< seatable-icon icon="dtable-icon-button" >}} Button`  
-> Ярлык: `Send`  
-> Действие: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`  
-> Тема: `Confirmation: Course {Registered for}`  
+> Имя: любое
+>
+> Тип колонны: `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+>
+> Ярлык: `Send`
+>
+> Действие: `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+>
+> Тема: `Confirmation: Course {Registered for}`
+>
 > Получатель: `customer@example.com`
 
 ![](images/lvl2-create-button.png)

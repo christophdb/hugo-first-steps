@@ -119,7 +119,7 @@ If you are looking for agile project management software that supports smooth te
 
 SeaTable offers you **maximum flexibility** in your choice of hosting: you have the option of hosting the software yourself and installing [SeaTable On-Premises]({{< relref "pages/product/seatable-server" >}}) on your own servers, or you can use the **convenient and scalable cloud version**, while maintaining the highest security standards. SeaTable is a German company that stores **all data GDPR-compliant on German servers**. In the **free basic version** you have numerous basic functions at your disposal. For more advanced requirements, [SeaTable]({{< relref "/" >}}) offers attractively priced subscriptions from 7 euros per user/month.
 
-In our library you will find [project management templates](https://seatable.io/vorlagen/projekte/), which you can use immediately in the free basic version.
+In our library you will find [project management templates]({{< relref "templates/projects" >}}), which you can use immediately in the free basic version.
 
 ### Better results through agile project management
 

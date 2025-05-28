@@ -100,8 +100,8 @@ Al elaborar estos informes, crea **transparencia** y permite a las partes intere
 
 ## Plantilla de SeaTable
 
-La [plantilla](https://seatable.io/es/vorlage/dzs1hkplqmurvmuwzhv0fa/) gratuita de SeaTable es ideal para fijar objetivos concretos y seguir sus progresos. Puede introducir sus objetivos en la plantilla, dividirlos en categorías y asignarlos a departamentos. Además de las próximas medidas, también puede asignar prioridades e introducir una fecha objetivo.
+La [plantilla]({{< relref "templates/operations/sustainability-management" >}}) gratuita de SeaTable es ideal para fijar objetivos concretos y seguir sus progresos. Puede introducir sus objetivos en la plantilla, dividirlos en categorías y asignarlos a departamentos. Además de las próximas medidas, también puede asignar prioridades e introducir una fecha objetivo.
 
 Con la ayuda de otra tabla, puede hacer un seguimiento de todas las cifras importantes y ver de un vistazo en qué áreas ya ha sido capaz de mejorar. También puede documentar los certificados de sostenibilidad que ya ha recibido o en los que está trabajando y generar automáticamente la próxima fecha para la nueva solicitud.
 
-Para utilizar SeaTable, basta con [registrarse]({{< relref "pages/registration" >}}) gratuitamente. A continuación, puede añadir la [plantilla](https://seatable.io/es/vorlage/dzs1hkplqmurvmuwzhv0fa/) a su base y añadir sus propios datos.
+Para utilizar SeaTable, basta con [registrarse]({{< relref "pages/registration" >}}) gratuitamente. A continuación, puede añadir la [plantilla]({{< relref "templates/operations/sustainability-management" >}}) a su base y añadir sus propios datos.

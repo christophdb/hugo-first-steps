@@ -163,7 +163,7 @@ sections:
             image_alt: ''
       buttons:
           - label: 'Найти больше шаблонов для вашей сферы'
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
             style: not-yet-defined
             id: ru-homepage-vorlagen-allgemein-content-3
 

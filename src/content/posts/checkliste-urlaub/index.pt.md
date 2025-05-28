@@ -229,7 +229,7 @@ Utilize tamanhos de viagem para os produtos de higiene pessoal para poupar espa�
 
 ## Conclusão: Férias descontraídas com a sua lista de controlo
 
-Quer no passado tenha feito as malas à última da hora ou tenha planeado tudo com antecedência, no futuro poderá começar as suas férias sem stress desnecessário e com todos os elementos essenciais na sua bagagem. O [modelo gratuito](https://seatable.io/pt/vorlage/axq_85kkrjsriagmqpxehw/) da SeaTable irá poupar-lhe tempo valioso e tornar os preparativos para as suas próximas férias eficientes e sem stress.
+Quer no passado tenha feito as malas à última da hora ou tenha planeado tudo com antecedência, no futuro poderá começar as suas férias sem stress desnecessário e com todos os elementos essenciais na sua bagagem. O [modelo gratuito]({{< relref "templates/events/travel-planner" >}}) da SeaTable irá poupar-lhe tempo valioso e tornar os preparativos para as suas próximas férias eficientes e sem stress.
 
 No modelo, não só encontrará uma lista de verificação de férias personalizável e flexível com todas as tarefas a realizar, mas também outras funções úteis: Recolha todas as ideias e locais que pretende visitar, crie um calendário claro e visualize todos os locais das actividades planeadas num mapa. Pode também registar todas as recordações maravilhosas da sua viagem, adicionar fotografias e anotar onde e quando ocorreram esses momentos especiais.
 
@@ -237,4 +237,4 @@ Também está disponível uma aplicação para simplificar o seu planeamento de 
 
 ![Painel de controlo do orçamento na aplicação de viagens da SeaTable](images/Travel-App.png)
 
-[Registe-se]({{< relref "pages/registration" >}}) gratuitamente hoje para beneficiar destas funções práticas e organizar a sua próxima viagem sem stress. Pode depois utilizar o [modelo](https://seatable.io/pt/vorlage/axq_85kkrjsriagmqpxehw/) no seu espaço de trabalho pessoal do SeaTable, preenchê-lo com os seus próprios dados e partilhá-lo com os seus companheiros de viagem através da aplicação.
+[Registe-se]({{< relref "pages/registration" >}}) gratuitamente hoje para beneficiar destas funções práticas e organizar a sua próxima viagem sem stress. Pode depois utilizar o [modelo]({{< relref "templates/events/travel-planner" >}}) no seu espaço de trabalho pessoal do SeaTable, preenchê-lo com os seus próprios dados e partilhá-lo com os seus companheiros de viagem através da aplicação.

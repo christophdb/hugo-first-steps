@@ -42,6 +42,6 @@ Externe Links eignen sich immer dann, wenn Sie **externen Personen** Daten in Ba
 
 Externe Links eignen sich super, um einzelne Datensätze auf einer Webseite zu veröffentlichen. Die Besucher der Webseite sehen nur die Inhalte, die freigegeben wurden, können die Inhalte jedoch nicht verändern.
 
-Mit einem einfachen _embed-Tag_ können Sie eine Base oder eine Ansicht über einen externen Link in eine Webseite integrieren. Die Bases in unserer [Template-Bibliothek](https://seatable.io/vorlagen/) sind beispielsweise mittels externer Links in unsere Webseite eingebettet. Auf diese Weise veröffentlichen wir auch die Presseartikel von SeaTable auf unserer Presseseite.
+Mit einem einfachen _embed-Tag_ können Sie eine Base oder eine Ansicht über einen externen Link in eine Webseite integrieren. Die Bases in unserer [Template-Bibliothek]({{< relref "templates" >}}) sind beispielsweise mittels externer Links in unsere Webseite eingebettet. Auf diese Weise veröffentlichen wir auch die Presseartikel von SeaTable auf unserer Presseseite.
 
 ![Einbetten von einem externen Link in eine Webseite](images/externer-link-in-webseite.gif)

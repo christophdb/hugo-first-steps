@@ -20,7 +20,7 @@ SeaTable ist so flexibel wie ein Schweizer Taschenmesser und kann Ihnen bei unte
 - Strukturieren Sie Ihre nächste Wohnungssuche
 - Planen Sie Ihren nächsten Umzug und behalten Sie die Übersicht
 
-Sie finden diese vier Vorlagen im [Vorlagen-Bereich Immobilien](https://seatable.io/vorlagen/immobilien/). Wir haben diesen Bereich geschaffen, um Sie bei Ihren täglichen Herausforderungen zu unterstützen. Sie werden sehen: Die Vorlagen werden Ihnen helfen, alle Ihre Prozesse und Aufgaben einfach und schnell abzubilden.
+Sie finden diese vier Vorlagen im [Vorlagen-Bereich Immobilien]({{< relref "templates/real-estate" >}}). Wir haben diesen Bereich geschaffen, um Sie bei Ihren täglichen Herausforderungen zu unterstützen. Sie werden sehen: Die Vorlagen werden Ihnen helfen, alle Ihre Prozesse und Aufgaben einfach und schnell abzubilden.
 
 Kopieren Sie sich die Vorlagen, passen Sie diese an Ihre Bedürfnisse an oder nutzen Sie die Tabellenstrukturen und -inhalte als Inspiration, wenn Sie Ihre eigenen Anwendungen bauen und entwickeln.
 
@@ -32,7 +32,7 @@ Immobilienverwaltung mit SeaTable
 
 Auch heute werden Immobilien und alle dazugehörigen Informationen wie Mieter, Reparaturaufträge, Rechnungen, Zahlungseingänge etc. häufig noch mit Excel-Tabellen verwaltet. Ersparen Sie sich dieses mühsame Unterfangen und starten Sie noch heute mit SeaTable.
 
-In unserem [Template zur Verwaltung Ihrer Immobilien](https://seatable.io/vorlage/ufyf6scpsgucxv8y0g9asw/) können Sie alle Informationen zentral in einer Datenbank erfassen. Erfassen Sie Daten, Fotos und Grundrisse Ihrer Immobilien, erinnern Sie säumige Mieter per E-Mail, wenn kein Geldeingang vorliegt, und dokumentieren Sie alle Instandsetzungsarbeiten und Reparaturen in einer übersichtlichen Tabelle.
+In unserem [Template zur Verwaltung Ihrer Immobilien]({{< relref "templates/real-estate/property-management" >}}) können Sie alle Informationen zentral in einer Datenbank erfassen. Erfassen Sie Daten, Fotos und Grundrisse Ihrer Immobilien, erinnern Sie säumige Mieter per E-Mail, wenn kein Geldeingang vorliegt, und dokumentieren Sie alle Instandsetzungsarbeiten und Reparaturen in einer übersichtlichen Tabelle.
 
 ## Halten Sie Ihre Immobilien in Ordnung und koordinieren Sie Hausmeisterdienste
 
@@ -68,4 +68,4 @@ Mit unserer [Vorlage für Ihren nächsten Umzug](https://seatable.io/vorlage/h3k
 
 Zusätzlich bietet unsere Umzugsvorlage eine To-do-Liste für sonstige Tätigkeiten, die zu einem bestimmten Tag erledigt sein müssen. So vergessen Sie nicht, den Nachsendeantrag für die Post einzurichten oder Verträge rund um die alten Immobilien rechtzeitig zu kündigen. Probieren Sie es aus! Der nächste Umzug kommt bestimmt.
 
-Möchten Sie noch mehr Möglichkeiten sehen, wie Sie SeaTable nutzen können? Entdecken Sie [alle unsere Vorlagen](https://seatable.io/vorlagen/) und arbeiten Sie noch effizienter mit Ihren Daten.
+Möchten Sie noch mehr Möglichkeiten sehen, wie Sie SeaTable nutzen können? Entdecken Sie [alle unsere Vorlagen]({{< relref "templates/finance" >}}) und arbeiten Sie noch effizienter mit Ihren Daten.

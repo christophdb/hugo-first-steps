@@ -128,7 +128,7 @@ Posten Sie beispielsweise unter dem Hashtag #throwbackthursday vergangene Erfolg
 
 ## Nutzen Sie SeaTable, um Ihre Content-Ideen zu planen
 
-Mit SeaTable haben Sie die Möglichkeit, Ihre Content-Ideen perfekt zu planen. Unser [Social-Media-Plan](https://seatable.io/vorlage/lmmjwghgtye322iwdxvj7a/) kann Ihnen als Inspiration für Ihre Content-Planung dienen. Füllen Sie die Pipeline für Ihren Social-Media-Auftritt, sodass Ihnen nie die Posts für Instagram, TikTok und Co. ausgehen.
+Mit SeaTable haben Sie die Möglichkeit, Ihre Content-Ideen perfekt zu planen. Unser [Social-Media-Plan]({{< relref "templates/marketing/social-media-plan" >}}) kann Ihnen als Inspiration für Ihre Content-Planung dienen. Füllen Sie die Pipeline für Ihren Social-Media-Auftritt, sodass Ihnen nie die Posts für Instagram, TikTok und Co. ausgehen.
 
 In dieser Vorlage können Sie die 14 Content-Ideen aus diesem Blogartikel zum Beispiel als wiederkehrende Formate mit unterschiedlichen Themenschwerpunkten anlegen. Passen Sie den Plan an Ihren individuellen Bedarf an, um Ihre Content-Ideen für Social Media zu sammeln und anschließend umzusetzen.
 

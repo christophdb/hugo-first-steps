@@ -97,7 +97,7 @@ Die Bugs und Issues werden über ein Webformular mitgeteilt, es ist keine App f�
 
 Lassen Sie uns einen Blick darauf werfen, wie das Erfassen und Verwalten von Fehlern mit SeaTable funktioniert.
 
-In SeaTable existiert eine [Vorlage für das Bugtracking](https://seatable.io/vorlage/hlbtvqrtscqmhx3adh5asg/), die von jedem Nutzer kostenfrei verwendet werden kann. Mitarbeiter erfassen die Bugs hier über ein [Webformular](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/). Die Bugs erscheinen anschließend automatisch in einer sogenannten [Base](https://seatable.io/docs/handbuch/seatable-nutzen/bases/), wo Sie von zuständigen Mitarbeitern bearbeitet werden können.
+In SeaTable existiert eine [Vorlage für das Bugtracking]({{< relref "templates/software-development/bug-tracker" >}}), die von jedem Nutzer kostenfrei verwendet werden kann. Mitarbeiter erfassen die Bugs hier über ein [Webformular](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/). Die Bugs erscheinen anschließend automatisch in einer sogenannten [Base](https://seatable.io/docs/handbuch/seatable-nutzen/bases/), wo Sie von zuständigen Mitarbeitern bearbeitet werden können.
 
 ![Tabelle mit allen bekannten Bugs im Bugtracker von SeaTable](https://seatable.io/wp-content/uploads/2021/11/bugtracker-uebersicht.jpg)
 
@@ -130,6 +130,6 @@ Bug- und Issuetracker-Software unterstützt Unternehmen bei der Überwachung, V
 
 Issuetracker © monticellllo / adobe stock
 
-Testen Sie unsere [kostenfreie Vorlage für das Bugtracking](https://seatable.io/vorlage/hlbtvqrtscqmhx3adh5asg/) und profitieren Sie auch in anderen Bereichen von der intelligenten Listenlösung.
+Testen Sie unsere [kostenfreie Vorlage für das Bugtracking]({{< relref "templates/software-development/bug-tracker" >}}) und profitieren Sie auch in anderen Bereichen von der intelligenten Listenlösung.
 
 Bildquelle Titelbild: © REDPIXEL/Adobe Stock

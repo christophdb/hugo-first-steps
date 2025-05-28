@@ -96,13 +96,13 @@ Ein Personalinformationssystem hat Vorteile, die weit über die Möglichkeiten e
 
 SeaTable ist eine No-Code-Datenbank, die sich hervorragend als HR Management Software für die Cloud oder On-Premises eignet. Dabei bietet SeaTable höchste Flexibilität und Skalierbarkeit – Sie entscheiden selbst, wie Sie Ihre Prozesse in der Software abbilden und welche Funktionen Sie dafür benötigen.
 
-Beispielsweise können Sie mit einer [Mitarbeiterverzeichnis Vorlage](https://seatable.io/vorlage/ijapmslssfu7r-6q6x9boq/) beginnen, die eine HR-Datenbank in ihrer einfachsten Form darstellt.
+Beispielsweise können Sie mit einer [Mitarbeiterverzeichnis Vorlage]({{< relref "templates/human-resources/employee-directory" >}}) beginnen, die eine HR-Datenbank in ihrer einfachsten Form darstellt.
 
 ![HRIS: Mitarbeiterdatenbank mit Profilen](Mitarbeiterdatenbank-mit-Profilen.jpg)
 
 Es handelt sich hierbei um ein internes Mitarbeiterverzeichnis mit Informationen, die für alle im Unternehmen sichtbar sind. Solch eine Mitarbeiterliste könnten Sie beispielsweise für Profile im Personalinformationssystem oder zur Erstellung von Visitenkarten verwenden.
 
-Anschließend können Sie Ihre HR-Datenbank beliebig mit weiteren Tabellen und Funktionen ausbauen. Wie wäre es beispielsweise mit einem interaktiven [Arbeitszeitkonto](https://seatable.io/vorlage/fyp0x2y-s-ut3m-wcbpzbq/), um alle Anwesenheiten, Urlaube und Krankheiten zu erfassen? Oder mit digitalen Personalakten, in denen alle Zeugnisse, Lebensläufe und Gehaltsabrechnungen abrufbar sind?
+Anschließend können Sie Ihre HR-Datenbank beliebig mit weiteren Tabellen und Funktionen ausbauen. Wie wäre es beispielsweise mit einem interaktiven [Arbeitszeitkonto]({{< relref "templates/human-resources/recording-working-time" >}}), um alle Anwesenheiten, Urlaube und Krankheiten zu erfassen? Oder mit digitalen Personalakten, in denen alle Zeugnisse, Lebensläufe und Gehaltsabrechnungen abrufbar sind?
 
 Über die Funktionen eines HRIS hinaus können Sie mit SeaTable aber auch das Recruiting, Bewerbermanagement und Onboarding umsetzen. Sogar die Personalentwicklung und Weiterbildung lässt sich in SeaTable organisieren. Als deutsche HR Datenbank erfüllt SeaTable höchste Datenschutzstandards (DSGVO) und speichert alle Daten sicher in deutschen Rechenzentren. Kaum zu glauben also, dass diese vollwertige Personalmanagement-Software kostenlos ist.
 

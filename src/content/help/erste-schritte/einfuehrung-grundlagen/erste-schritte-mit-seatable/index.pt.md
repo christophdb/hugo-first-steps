@@ -29,7 +29,7 @@ Que dados pretende recolher? Que processo da sua vida quotidiana pode não estar
 
 Não existe apenas uma forma "correcta" de utilizar o SeaTable de forma rentável. O melhor sistema é aquele que se adapta a si e ao seu fluxo de trabalho.
 
-Se precisar de um pouco de inspiração para descobrir como tirar o máximo partido do SeaTable, dê uma vista de olhos aos nossos [modelos](https://seatable.io/pt/vorlagen/). Aí encontrará muitas formas interessantes de utilizar o SeaTable.
+Se precisar de um pouco de inspiração para descobrir como tirar o máximo partido do SeaTable, dê uma vista de olhos aos nossos [modelos]({{< relref "templates" >}}). Aí encontrará muitas formas interessantes de utilizar o SeaTable.
 
 Outras fontes são o nosso [canal do YouTube](https://www.youtube.com/seatable), onde publicamos muitos vídeos de instruções, e o nosso [blogue SeaTable]({{< relref "posts" >}}), onde escrevemos regularmente sobre novos casos de utilização e soluções.
 

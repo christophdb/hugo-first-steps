@@ -79,7 +79,7 @@ Esta aplicación gratuita de libros utiliza numerosas bases de datos en línea c
 
 Si desea crear una [lista de inventario](https://seatable.io/es/inventarliste-vorlagen/) para sus libros utilizando tablas sencillas, SeaTable es la herramienta adecuada para usted. Basta con introducir el título correspondiente en una lista, añadir más información sobre el autor y el editor si es necesario y organizarla de forma clara (por ejemplo, por género, estado de lectura o clasificación). ¿Quiere poner su catálogo de libros a disposición de otras personas? Puede hacerlo fácilmente compartiendo sus listas.
 
-Puede abrir la versión gratuita en la nube de SeaTable directamente en su navegador. [Regístrese]({{< relref "pages/registration" >}}) hoy mismo y comience con nuestra [plantilla gratuita](https://seatable.io/es/vorlage/ti27clk9rb2fjizia2pbwg/) para su lista de libros o biblioteca. Por cierto: la herramienta también es adecuada para la [gestión de bibliografía](https://seatable.io/es/literaturverwaltung/) académica.
+Puede abrir la versión gratuita en la nube de SeaTable directamente en su navegador. [Regístrese]({{< relref "pages/registration" >}}) hoy mismo y comience con nuestra [plantilla gratuita]({{< relref "templates/everyday-life/book-list-library" >}}) para su lista de libros o biblioteca. Por cierto: la herramienta también es adecuada para la [gestión de bibliografía](https://seatable.io/es/literaturverwaltung/) académica.
 
 ## Tres consejos para catalogar mejor los libros
 

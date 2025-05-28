@@ -169,7 +169,7 @@ sections:
             image_alt: Gérez vos inscriptions à la newsletter et analysez leur succès.
       buttons:
           - label: Découvrez tous les modèles
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
 
     - name: content-13
       weight: 11

@@ -44,11 +44,16 @@ Les e-mails ne sont pas réellement envoyés, mais apparaissent dans votre boît
 
 Maintenant, nous pouvons être dans le tableau `Registrations` créer une nouvelle colonne pour l'envoi d'e-mails. Utilisez les paramètres suivants :
 
-> Nom : au choix  
-> Type de colonne : `{{< seatable-icon icon="dtable-icon-button" >}} Button`  
-> Label : `Send`  
-> Action : `{{< seatable-icon icon="dtable-icon-email" >}} Send email`  
-> Objet : `Confirmation: Course {Registered for}`  
+> Nom : au choix
+>
+> Type de colonne : `{{< seatable-icon icon="dtable-icon-button" >}} Button`
+>
+> Label : `Send`
+>
+> Action : `{{< seatable-icon icon="dtable-icon-email" >}} Send email`
+>
+> Objet : `Confirmation: Course {Registered for}`
+>
 > Récepteurs : `customer@example.com`
 
 ![](images/lvl2-create-button.png)

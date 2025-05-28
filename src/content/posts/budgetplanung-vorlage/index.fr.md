@@ -115,4 +115,4 @@ Nombreux sont ceux qui utilisent [des feuilles de calcul Excel](https://seatable
 
 Donnez des responsabilités budgétaires à vos cadres et utilisez **SeaTable comme outil de collaboration** pour **travailler sur le budget** avec plusieurs services **en même temps**. Vous pouvez ainsi adapter le plan budgétaire au cours de l'année, **suivre** l'**enregistrement des dépenses en temps réel** et garder en permanence une vue d'ensemble du budget actuel.
 
-Essayez notre [modèle gratuit de planification budgétaire](https://seatable.io/fr/modele/eecso26xscgq2jzffzmwcq/) et découvrez d'autres cas d'utilisation passionnants que vous pouvez mettre en œuvre avec SeaTable.
+Essayez notre [modèle gratuit de planification budgétaire]({{< relref "templates/finance/budget-plan" >}}) et découvrez d'autres cas d'utilisation passionnants que vous pouvez mettre en œuvre avec SeaTable.

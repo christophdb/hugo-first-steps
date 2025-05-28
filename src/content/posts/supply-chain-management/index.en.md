@@ -48,7 +48,7 @@ Supply chain management covers all processes and steps along the value chain and
 
 SeaTable creates a place where all information can converge. This allows you to efficiently map your supply chain management in just a few steps and clicks. Record all necessary information, such as your suppliers, branches, incoming and outgoing orders, your product portfolio and keep an eye on your entire warehouse. SeaTable offers many possibilities to flexibly adapt your supply chain processes to your needs.
 
-[Click here to go directly to our template "Supply Chain Management](https://seatable.io/en/vorlage/lrtcit5zqratbf0rpidxlw/)
+[Click here to go directly to our template "Supply Chain Management]({{< relref "templates/sales/supply-chain-management" >}})
 
 ### **Enter your suppliers and branches in just a few steps**
 
@@ -132,6 +132,6 @@ This article should have shown you how flexibly SeaTable can be used. You can ma
 
 What are you still waiting for? Your new supply chain management is already in the starting blocks.
 
-[To the template "Supply Chain Management](https://seatable.io/en/vorlage/lrtcit5zqratbf0rpidxlw/)  
+[To the template "Supply Chain Management]({{< relref "templates/sales/supply-chain-management" >}})  
 [Try SeaTable in the cloud for free now]({{< relref "pages/registration" >}})  
 [Or prefer to run SeaTable Enterprise in your own data centre]({{< relref "pages/product/seatable-server" >}})

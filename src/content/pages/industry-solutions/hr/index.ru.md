@@ -61,7 +61,7 @@ sections:
             image_alt: Подбор персонала
       buttons:
           - label: 'Откройте для себя другие HR-шаблоны'
-            link: 'https://seatable.io/vorlagen/?lang=auto'
+            link: 'templates'
 
     - name: content-25
       weight: 5

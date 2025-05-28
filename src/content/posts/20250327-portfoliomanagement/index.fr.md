@@ -78,7 +78,7 @@ Les logiciels de gestion de portefeuille habituels tels que Microsoft Project, A
 
 {{< template id="1acd19d97c8f4ed3ad38" >}}
 
-[Découvrez comment tirer profit du modèle de portefeuille de projets de SeaTable](https://seatable.io/vorlage/ajlptlawq6-nyxqwyjfujq/)
+[Découvrez comment tirer profit du modèle de portefeuille de projets de SeaTable]({{< relref "templates/projects/project-portfolio" >}})
 
 #### 6\. Gestion de la qualité, de l'information et des connaissances
 
@@ -96,7 +96,7 @@ La première étape de la gestion du portefeuille de produits est une analyse d�
 
 ![Un portefeuille de produits fictif dans la matrice BCG](Grafik-BCG-Matrix.jpg)
 
-Une version plus élaborée de la matrice BCG, dans laquelle vous évaluez vos produits en fonction de leur attractivité sur le marché et de leurs avantages concurrentiels, est le **portefeuille McKinsey.** Une [analyse SWOT](https://seatable.io/vorlage/mldpcbsqsr2yifjof71qkg/) vous permet en outre d'identifier les forces, les faiblesses, les opportunités et les menaces afin de prendre des décisions stratégiques pour des produits individuels.
+Une version plus élaborée de la matrice BCG, dans laquelle vous évaluez vos produits en fonction de leur attractivité sur le marché et de leurs avantages concurrentiels, est le **portefeuille McKinsey.** Une [analyse SWOT]({{< relref "templates/operations/swot-analysis" >}}) vous permet en outre d'identifier les forces, les faiblesses, les opportunités et les menaces afin de prendre des décisions stratégiques pour des produits individuels.
 
 #### 2\. Évaluation stratégique et définition des objectifs
 
@@ -160,7 +160,7 @@ Que vous soyez un propriétaire privé, une entreprise ou une société de logem
 
 {{< template id="6f9a2b4869804608978c" >}}
 
-[Découvrez comment utiliser le modèle de portefeuille immobilier de SeaTable pour en tirer profit](https://seatable.io/vorlage/ufyf6scpsgucxv8y0g9asw/)
+[Découvrez comment utiliser le modèle de portefeuille immobilier de SeaTable pour en tirer profit]({{< relref "templates/real-estate/property-management" >}})
 
 Pour plus d'informations, consultez soit l'article [Gestion immobilière](https://seatable.io/hausverwaltung/) pour les propriétaires privés, soit l'article [Gestion immobilière](https://seatable.com/liegenschaftsverwaltung/) pour les entreprises et les collectivités locales.
 

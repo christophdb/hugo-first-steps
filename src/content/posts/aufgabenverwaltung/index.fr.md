@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-La gestion et l'administration des tâches sont des éléments clés d'une gestion de projet réussie. Ces compétences requièrent un grand sens de l'organisation et la capacité de **coordonner et de répartir efficacement les tâches**. Un outil de gestion des tâches performant est alors indispensable pour garder une vue d'ensemble, respecter les délais et garantir la réussite du projet. En tant qu'[outil de portefeuille de projets](https://seatable.io/fr/modele/ajlptlawq6-nyxqwyjfujq/), SeaTable offre la possibilité de mettre en œuvre une gestion de projet agile et de mener à bien les projets. SeaTable vous permet d'optimiser la gestion des tâches et de couvrir tous les aspects importants de la gestion des tâches.
+La gestion et l'administration des tâches sont des éléments clés d'une gestion de projet réussie. Ces compétences requièrent un grand sens de l'organisation et la capacité de **coordonner et de répartir efficacement les tâches**. Un outil de gestion des tâches performant est alors indispensable pour garder une vue d'ensemble, respecter les délais et garantir la réussite du projet. En tant qu'[outil de portefeuille de projets]({{< relref "templates/projects/project-portfolio" >}}), SeaTable offre la possibilité de mettre en œuvre une gestion de projet agile et de mener à bien les projets. SeaTable vous permet d'optimiser la gestion des tâches et de couvrir tous les aspects importants de la gestion des tâches.
 
 ## Les bases de la gestion des tâches
 

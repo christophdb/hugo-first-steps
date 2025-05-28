@@ -149,4 +149,4 @@ Gleichzeitig können Sie positive Gewohnheiten etablieren: Zum Beispiel ist es g
 
 Sie sehen: Ihre Ausgaben und Lebenshaltungskosten zu überwachen hat nur Vorteile. Mit einem Haushaltsbuch bleiben Sie immer Herr der Lage und wissen genau, wo Ihr Geld geblieben ist. SeaTable passt sich dabei Ihren Bedürfnissen an. Wenn Sie für Ihr Haushaltsbuch bislang Excel nutzen, können Sie Ihre Tabellen einfach in SeaTable importieren. Sie können sich [kostenlos registrieren]({{< relref "pages/registration" >}}) und SeaTable ausprobieren!
 
-Wenn Sie unsere Vorlage nutzen möchten, schauen Sie sich doch mal in unserem Template-Bereich [Finanzen](https://seatable.io/vorlagen/finanzen/) um. Es gibt noch viele weitere Anwendungsfälle, wie SeaTable Ihnen den Alltag erleichtern kann.
+Wenn Sie unsere Vorlage nutzen möchten, schauen Sie sich doch mal in unserem Template-Bereich [Finanzen]({{< relref "templates/finance" >}}) um. Es gibt noch viele weitere Anwendungsfälle, wie SeaTable Ihnen den Alltag erleichtern kann.

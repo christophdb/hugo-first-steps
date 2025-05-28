@@ -97,8 +97,8 @@ Durch die Erstellung dieser Berichte schaffen Sie **Transparenz** und ermöglich
 
 ## Template von SeaTable
 
-Um konkrete Ziele festzulegen und Ihren Fortschritt verfolgen zu können, bietet sich das kostenlose [Template](https://seatable.io/vorlage/dzs1hkplqmurvmuwzhv0fa/) von SeaTable an. In der Vorlage können Sie Ihre Ziele eintragen, diese in Kategorien einteilen und Abteilungen zuordnen. Neben anstehenden Maßnahmen können Sie so auch Prioritäten zuteilen und ein Zieldatum eintragen.
+Um konkrete Ziele festzulegen und Ihren Fortschritt verfolgen zu können, bietet sich das kostenlose [Template]({{< relref "templates/operations/sustainability-management" >}}) von SeaTable an. In der Vorlage können Sie Ihre Ziele eintragen, diese in Kategorien einteilen und Abteilungen zuordnen. Neben anstehenden Maßnahmen können Sie so auch Prioritäten zuteilen und ein Zieldatum eintragen.
 
 Mithilfe einer weiteren Tabelle behalten Sie den Überblick über alle wichtigen Zahlen und sehen auf einen Blick, in welchen Bereichen Sie sich bereits verbessern konnten. Ebenso können Sie Nachhaltigkeitszertifikate, die Sie bereits erhalten haben oder auf die Sie hinarbeiten, dokumentieren und automatisiert den nächsten Termin für die Neubeantragung generieren lassen.
 
-Um SeaTable zu verwenden, müssen Sie sich lediglich kostenlos [registrieren]({{< relref "pages/registration" >}}). Anschließend können Sie die [Vorlage](https://seatable.io/vorlage/dzs1hkplqmurvmuwzhv0fa/) zu Ihrer Base hinzufügen und Ihre eigenen Daten ergänzen.
+Um SeaTable zu verwenden, müssen Sie sich lediglich kostenlos [registrieren]({{< relref "pages/registration" >}}). Anschließend können Sie die [Vorlage]({{< relref "templates/operations/sustainability-management" >}}) zu Ihrer Base hinzufügen und Ihre eigenen Daten ergänzen.

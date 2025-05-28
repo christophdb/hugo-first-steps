@@ -129,7 +129,7 @@ sections:
             image_alt: "Use um quadro Kanban personalizável para monitorar projetos de TI e responsabilidades."
       buttons:
         - label: Descobrir todos os modelos
-          link: https://seatable.io/vorlagen/?lang=auto
+          link: 'templates'
 
     - name: "content-16"
       weight: 11

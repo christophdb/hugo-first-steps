@@ -22,7 +22,7 @@ Si todavía está indeciso sobre el diseño de su base o simplemente busca nueva
 
 ## Utilizar una plantilla directamente desde el sitio web de SeaTable
 
-En el [sitio web de SeaTable, en la sección Plantillas](https://seatable.io/es/vorlagen/), encontrará una variedad de plantillas para diferentes casos de uso. Cada plantilla le ofrece una vista previa de la estructura de tablas del sitio web para que pueda hacerse una idea rápida de cómo está estructurada la base.
+En el [sitio web de SeaTable, en la sección Plantillas]({{< relref "templates" >}}), encontrará una variedad de plantillas para diferentes casos de uso. Cada plantilla le ofrece una vista previa de la estructura de tablas del sitio web para que pueda hacerse una idea rápida de cómo está estructurada la base.
 
 Si le gusta una plantilla y quiere probarla, puede hacer clic en **Usar plantilla** para copiar la plantilla directamente en su SeaTable Cloud en el área **Mis bases**. También saltas directamente a la base y puedes empezar a explorarla inmediatamente.
 

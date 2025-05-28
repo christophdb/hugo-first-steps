@@ -171,7 +171,7 @@ Ahora que ya domina los conceptos básicos de Universal App, ¿por qué no prueb
 
 **Consejo**:
 
-Si desea explorar un poco más y descubrir otras funciones de la aplicación, eche un vistazo a las plantillas [Time tracking](https://seatable.io/es/vorlage/fyp0x2y-s-ut3m-wcbpzbq/) o [Travel planner](https://seatable.io/es/vorlage/axq_85kkrjsriagmqpxehw/). Éstas ya contienen aplicaciones completamente desarrolladas que puedes utilizar y personalizar inmediatamente.
+Si desea explorar un poco más y descubrir otras funciones de la aplicación, eche un vistazo a las plantillas [Time tracking]({{< relref "templates/human-resources/recording-working-time" >}}) o [Travel planner]({{< relref "templates/events/travel-planner" >}}). Éstas ya contienen aplicaciones completamente desarrolladas que puedes utilizar y personalizar inmediatamente.
 
 ### Conclusión
 
