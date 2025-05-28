@@ -127,7 +127,7 @@ Another database software that lets you manage your digital estate in a clear, f
 
 Use a password manager to document your digital estate.
 
-If you would like to use SeaTable's password manager for your digital estate, you can view the [template here](https://seatable.io/en/vorlage/a4269i5bs7olvut60dr5xq/). If you are interested, simply [register](https://seatable.io/en/registrierung/) for free and create an overview with your own data.
+If you would like to use SeaTable's password manager for your digital estate, you can view the [template here]({{< relref "templates/everyday-life/password-manager" >}}). If you are interested, simply [register](https://seatable.io/en/registrierung/) for free and create an overview with your own data.
 
 ## Conclusion: A digital estate is more important than ever
 

@@ -127,7 +127,7 @@ Outro software de base de dados que lhe permite gerir o seu património digital 
 
 Utilize um gestor de palavras-passe para documentar o seu património digital.
 
-Se pretender utilizar o gestor de palavras-passe do SeaTable para o seu património digital, pode [ver o modelo aqui](https://seatable.io/pt/vorlage/a4269i5bs7olvut60dr5xq/). Se estiver interessado, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente e criar uma visão geral com os seus próprios dados.
+Se pretender utilizar o gestor de palavras-passe do SeaTable para o seu património digital, pode [ver o modelo aqui]({{< relref "templates/everyday-life/password-manager" >}}). Se estiver interessado, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente e criar uma visão geral com os seus próprios dados.
 
 ## Conclusão: O património digital é mais importante do que nunca
 

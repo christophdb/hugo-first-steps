@@ -50,7 +50,7 @@ Como pode ver, o planeamento do pessoal com um modelo Excel tem potencial de opt
 
 Outra vantagem chave do planeamento de RH sem um modelo Excel gratuito é a extrema flexibilidade que as ferramentas online trazem. Os departamentos de RH podem facilmente partilhar as suas folhas de cálculo com os seus empregados para que possam entrar nos seus turnos, tarefas e férias de forma independente.
 
-Desta forma, não só todos estão sempre no mesmo nível de informação, como o esforço organizacional é significativamente reduzido. E não faz diferença se gere uma pequena, média ou grande empresa, um café ou um concessionário de automóveis. Com a ferramenta online certa, existe um [plano de turnos](https://seatable.io/pt/vorlage/nmmouofjq5mw4cobogtgog/) adequado ou um [registo](https://seatable.io/pt/vorlage/dkcp4_k3rnsb4d9sskb6qw/) óptimo [do tempo de trabalho para](https://seatable.io/pt/vorlage/dkcp4_k3rnsb4d9sskb6qw/) cada exigência.
+Desta forma, não só todos estão sempre no mesmo nível de informação, como o esforço organizacional é significativamente reduzido. E não faz diferença se gere uma pequena, média ou grande empresa, um café ou um concessionário de automóveis. Com a ferramenta online certa, existe um [plano de turnos](https://seatable.io/pt/vorlage/nmmouofjq5mw4cobogtgog/) adequado ou um [registo]({{< relref "templates/human-resources/recording-working-time" >}}) óptimo [do tempo de trabalho para]({{< relref "templates/human-resources/recording-working-time" >}}) cada exigência.
 
 ![](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
 

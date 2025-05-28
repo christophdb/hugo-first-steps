@@ -51,7 +51,7 @@ As you can see, personnel planning with an Excel template has optimization poten
 
 Another key advantage of HR planning without a free Excel template is the extreme flexibility that online tools bring. HR departments can easily share their spreadsheets with their employees, allowing them to independently enter their shifts, duties, and vacations.
 
-Not only is everyone always on the same information level, but the organizational effort is significantly reduced. And it makes no difference whether you run a small, medium or large company, a café or a car dealership. With the right online tool, there is a suitable [shift schedule](https://seatable.io/en/vorlage/nmmouofjq5mw4cobogtgog/) or optimal [working time recording for](https://seatable.io/en/vorlage/dkcp4_k3rnsb4d9sskb6qw/) every requirement.
+Not only is everyone always on the same information level, but the organizational effort is significantly reduced. And it makes no difference whether you run a small, medium or large company, a café or a car dealership. With the right online tool, there is a suitable [shift schedule](https://seatable.io/en/vorlage/nmmouofjq5mw4cobogtgog/) or optimal [working time recording for]({{< relref "templates/human-resources/recording-working-time" >}}) every requirement.
 
 ![](images/Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
 

@@ -177,8 +177,8 @@ Os seus objectivos podem também centrar-se nas relações interpessoais.
 
 ## Modelo online no SeaTable
 
-Para garantir que não perde de vista os objectivos da sua lista de desejos, é aconselhável escrevê-los e mantê-los num local de fácil acesso. O SeaTable oferece-lhe um [modelo em linha](https://seatable.io/pt/vorlage/jbn_a4wysewcfd9eegkgha/) gratuito que lhe permite manter a sua lista de desejos à mão e organizar os seus objectivos em diferentes categorias.
+Para garantir que não perde de vista os objectivos da sua lista de desejos, é aconselhável escrevê-los e mantê-los num local de fácil acesso. O SeaTable oferece-lhe um [modelo em linha]({{< relref "templates/everyday-life/bucket-list" >}}) gratuito que lhe permite manter a sua lista de desejos à mão e organizar os seus objectivos em diferentes categorias.
 
 Além disso, pode registar os amigos e familiares que partilham determinados interesses e que o acompanhariam nas suas aventuras. Também pode guardar informações adicionais, como imagens, ligações ou endereços, diretamente na sua lista de destinos para reunir todos os detalhes relevantes num único local.
 
-Assinale objetivo após objetivo da sua lista de desejos, acrescente novas ideias de forma flexível ou elimine os desejos que já não são importantes para si. Pode registar-se [gratuitamente]({{< relref "pages/registration" >}}) no SeaTable e personalizar o [modelo em linha](https://seatable.io/pt/vorlage/jbn_a4wysewcfd9eegkgha/) de acordo com as suas necessidades.
+Assinale objetivo após objetivo da sua lista de desejos, acrescente novas ideias de forma flexível ou elimine os desejos que já não são importantes para si. Pode registar-se [gratuitamente]({{< relref "pages/registration" >}}) no SeaTable e personalizar o [modelo em linha]({{< relref "templates/everyday-life/bucket-list" >}}) de acordo com as suas necessidades.

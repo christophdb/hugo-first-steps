@@ -100,8 +100,8 @@ Ao elaborar estes relatórios, está a criar **transparência** e a permitir que
 
 ## Modelo do SeaTable
 
-O [modelo](https://seatable.io/pt/vorlage/dzs1hkplqmurvmuwzhv0fa/) gratuito da SeaTable é ideal para definir objectivos específicos e acompanhar os seus progressos. Pode introduzir os seus objectivos no modelo, dividi-los em categorias e atribuí-los a departamentos. Para além das medidas futuras, pode também atribuir prioridades e introduzir uma data-alvo.
+O [modelo]({{< relref "templates/operations/sustainability-management" >}}) gratuito da SeaTable é ideal para definir objectivos específicos e acompanhar os seus progressos. Pode introduzir os seus objectivos no modelo, dividi-los em categorias e atribuí-los a departamentos. Para além das medidas futuras, pode também atribuir prioridades e introduzir uma data-alvo.
 
 Com a ajuda de outra tabela, pode acompanhar todos os números importantes e ver rapidamente em que áreas já conseguiu melhorar. Também pode documentar os certificados de sustentabilidade que já recebeu ou para os quais está a trabalhar e gerar automaticamente a próxima data para o novo pedido.
 
-Para utilizar o SeaTable, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode então adicionar o [modelo](https://seatable.io/pt/vorlage/dzs1hkplqmurvmuwzhv0fa/) à sua base e adicionar os seus próprios dados.
+Para utilizar o SeaTable, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode então adicionar o [modelo]({{< relref "templates/operations/sustainability-management" >}}) à sua base e adicionar os seus próprios dados.

@@ -130,7 +130,7 @@ O quadro seguinte mostra uma estrutura básica que pode adaptar-se às suas nece
 
 ![Estratégia de marketing de conteúdo](images/content-marketing-strategie-seatable.png)
 
-Esta tabela do nosso [Modelo de Estratégia de Marketing de Conteúdos](https://seatable.io/pt/vorlage/akpem7oksykcemvai5eblq/) pode parecer bastante extensa à primeira vista, mas é o mínimo para um canal de conteúdos médio manter a visão geral necessária. Adquira o hábito de registar estes dados desde o primeiro dia e não terá problemas em manter o controlo em qualquer altura.
+Esta tabela do nosso [Modelo de Estratégia de Marketing de Conteúdos]({{< relref "templates/marketing/content-marketing-strategy" >}}) pode parecer bastante extensa à primeira vista, mas é o mínimo para um canal de conteúdos médio manter a visão geral necessária. Adquira o hábito de registar estes dados desde o primeiro dia e não terá problemas em manter o controlo em qualquer altura.
 
 ### Permitir uma visão individual dos dados
 
@@ -200,4 +200,4 @@ A questão é porque é que tantos empresários sentem que o seu marketing de co
 
 Convença-se de que o marketing de conteúdos é uma ferramenta eficaz e pode contribuir decisivamente para o sucesso da sua empresa. Se quer ser bem sucedido, dispense os conteúdos permutáveis e as ferramentas de gestão de projectos confusas.
 
-Utilize o SeaTable para definir as suas personas, objectivos e conteúdos e acompanhe de perto o seu desenvolvimento. Estabeleça um processo de auto-aperfeiçoamento e verá como o sucesso virá. Comece agora com os nossos [modelos de marketing](https://seatable.io/pt/vorlage/akpem7oksykcemvai5eblq/) e personalize-os de acordo com as suas necessidades.
+Utilize o SeaTable para definir as suas personas, objectivos e conteúdos e acompanhe de perto o seu desenvolvimento. Estabeleça um processo de auto-aperfeiçoamento e verá como o sucesso virá. Comece agora com os nossos [modelos de marketing]({{< relref "templates/marketing/content-marketing-strategy" >}}) e personalize-os de acordo com as suas necessidades.

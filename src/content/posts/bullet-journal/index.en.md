@@ -124,6 +124,6 @@ For the inventor, Ryder Carroll, it is important that the bullet journal improve
 
 ## Template for your digital bullet journal
 
-An alternative to the analog notebook is a **digital bullet journal**. SeaTable offers you a simple and effective solution for designing your calendars, lists and trackers digitally and restructuring them flexibly with just a few clicks. Customize the [free template](https://seatable.io/en/vorlage/petkiwi1stmm_1lh2xlejq/) to your needs and add your own ideas. A habit tracker is integrated into the bullet journal, which is a practical addition to your journal. Work with colors, symbols and images to customize your journal.
+An alternative to the analog notebook is a **digital bullet journal**. SeaTable offers you a simple and effective solution for designing your calendars, lists and trackers digitally and restructuring them flexibly with just a few clicks. Customize the [free template]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) to your needs and add your own ideas. A habit tracker is integrated into the bullet journal, which is a practical addition to your journal. Work with colors, symbols and images to customize your journal.
 
-If you would like to use SeaTable for your bullet journal, simply [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template with lots of inspiration and sample entries [here](https://seatable.io/en/vorlage/petkiwi1stmm_1lh2xlejq/).
+If you would like to use SeaTable for your bullet journal, simply [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template with lots of inspiration and sample entries [here]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}).

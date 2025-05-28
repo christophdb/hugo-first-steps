@@ -105,6 +105,6 @@ Un décompte correct des frais de voyage nécessite certaines informations qui d
 
 Beaucoup de personnes utilisent un modèle Excel pour leurs notes de frais - mais ce n'est pas nécessaire ! SeaTable, par exemple, propose un modèle de note de frais plus intuitif et plus clair. Demandez à vos collaborateurs de soumettre tous les frais et justificatifs sous forme numérique via des formulaires web. Les données sont ensuite automatiquement triées dans un tableau, ce qui vous permet de garder une vue d'ensemble et de rembourser régulièrement tous les frais de vos collaborateurs.
 
-Pour en savoir plus sur le modèle de note de frais de SeaTable, [cliquez ici](https://seatable.io/fr/modele/alhhthyxqbud1qqkxaormq/).
+Pour en savoir plus sur le modèle de note de frais de SeaTable, [cliquez ici]({{< relref "templates/human-resources/expenses-reimbursement" >}}).
 
 [Il vous suffit de vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) avec votre adresse e-mail, d'essayer SeaTable et de personnaliser le modèle à votre guise afin de saisir les étalages de votre entreprise comme vous le souhaitez !

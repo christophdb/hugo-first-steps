@@ -11,7 +11,7 @@ seo:
 
 Qu'il s'agisse d'un repas d'affaires, d'un billet de train ou d'un téléphone portable professionnel, vous faites régulièrement des avances dans le cadre de votre travail et vous souhaitez savoir ce qu'il faut prendre en compte pour le **remboursement des frais**? Ou êtes-vous vous-même employeur et cherchez-vous un moyen de rendre le processus de remboursement des frais plus efficace pour vos collaborateurs ?
 
-Cet article ne vous donne pas seulement tout ce qu'il faut savoir sur le remboursement des frais, il vous propose également un [modèle](https://seatable.io/fr/modele/alhhthyxqbud1qqkxaormq/) gratuit qui peut faciliter votre travail au quotidien.
+Cet article ne vous donne pas seulement tout ce qu'il faut savoir sur le remboursement des frais, il vous propose également un [modèle]({{< relref "templates/human-resources/expenses-reimbursement" >}}) gratuit qui peut faciliter votre travail au quotidien.
 
 ![Finances et bureaucratie](https://seatable.io/wp-content/uploads/2023/12/3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
 
@@ -80,8 +80,8 @@ Un autre avantage est la **transparence accrue**. Les entreprises peuvent mieux 
 
 ## Modèle gratuit de remboursement des frais
 
-Si vous souhaitez passer d'un remboursement analogique à un remboursement numérique des dépenses, le [modèle gratuit](https://seatable.io/fr/modele/alhhthyxqbud1qqkxaormq/) de SeaTable est une excellente option pour vous.
+Si vous souhaitez passer d'un remboursement analogique à un remboursement numérique des dépenses, le [modèle gratuit]({{< relref "templates/human-resources/expenses-reimbursement" >}}) de SeaTable est une excellente option pour vous.
 
 Vous pouvez inscrire vos dépenses dans le tableau et les classer d'un simple clic dans des **catégories spécialement définies**, comme le matériel de bureau, les frais de déplacement ou les repas d'affaires. Les collaborateurs peuvent classer **les justificatifs numériques et les factures** directement dans le tableau et s'assurer ainsi qu'aucun justificatif ne se perde. En outre, vous pouvez voir d'un coup d'œil les dépenses que vous avez déjà remboursées et celles qui restent à payer. Une fois le remboursement effectué, vous pouvez facilement créer des documents confirmant le remboursement. Les **statistiques** vous permettent de voir d'un coup d'œil quels sont les frais les plus fréquents et ceux que vous pouvez peut-être même réduire.
 
-[Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) sur SeaTable et utilisez le modèle selon vos souhaits et vos besoins. Gardez une vue d'ensemble de vos remboursements de frais et minimisez avec succès vos dépenses au quotidien. [Cliquez ici pour accéder au modèle.](https://seatable.io/fr/modele/alhhthyxqbud1qqkxaormq/)
+[Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) sur SeaTable et utilisez le modèle selon vos souhaits et vos besoins. Gardez une vue d'ensemble de vos remboursements de frais et minimisez avec succès vos dépenses au quotidien. [Cliquez ici pour accéder au modèle.]({{< relref "templates/human-resources/expenses-reimbursement" >}})

@@ -135,6 +135,6 @@ Wer es praktisch und einfach mag, kann auch eine **App** oder **Online-Vorlage**
 
 ## Vorlage für Ihren digitalen Habit Tracker
 
-Um Ihr Ziel nicht aus den Augen zu verlieren, benötigen Sie eine einfache und effektive Lösung, um Ihre Gewohnheiten und Fortschritte nachzuverfolgen. Diese bietet Ihnen SeaTable mit einer [kostenlosen Vorlage](https://seatable.io/vorlage/petkiwi1stmm_1lh2xlejq/), welche Sie nach Ihren persönlichen Bedürfnissen anpassen können. Der Habit Tracker ist in ein Bullet Journal integriert, das noch weitere spannende Möglichkeiten bietet, Ihr Leben zu organisieren und zu verändern.
+Um Ihr Ziel nicht aus den Augen zu verlieren, benötigen Sie eine einfache und effektive Lösung, um Ihre Gewohnheiten und Fortschritte nachzuverfolgen. Diese bietet Ihnen SeaTable mit einer [kostenlosen Vorlage]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}), welche Sie nach Ihren persönlichen Bedürfnissen anpassen können. Der Habit Tracker ist in ein Bullet Journal integriert, das noch weitere spannende Möglichkeiten bietet, Ihr Leben zu organisieren und zu verändern.
 
-Wenn Sie SeaTable für Ihren Habit Tracker nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage mit vielen Inspirationen und Beispiel-Gewohnheiten finden Sie [hier](https://seatable.io/vorlage/petkiwi1stmm_1lh2xlejq/).
+Wenn Sie SeaTable für Ihren Habit Tracker nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage mit vielen Inspirationen und Beispiel-Gewohnheiten finden Sie [hier]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}).

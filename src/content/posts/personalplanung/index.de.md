@@ -51,7 +51,7 @@ Sie sehen: die Personalplanung mit einer Excel-Vorlage hat Optimierungspotenzial
 
 Ein weiterer, entscheidender Vorteil der Personalplanung ohne kostenlose Excel-Vorlage ist die extreme Flexibilität, die Online-Tools mitbringen. HR-Abteilungen können ihre Tabellen ganz unkompliziert mit ihren Mitarbeitern teilen, sodass diese ganz selbständig ihre Schichten, Dienste und Urlaube eintragen können.
 
-So sind nicht nur alle immer auf dem gleichen Informationsstand, sondern der Organisationsaufwand reduziert sich signifikant. Und dabei macht es keinen Unterschied, ob Sie ein kleines, mittleres oder großes Unternehmen leiten, ein Café führen oder einen Autohandel. Mit dem passenden Online-Tool gibt es für jede Anforderungen den passenden [Schichtplan](https://seatable.io/vorlage/nmmouofjq5mw4cobogtgog/) oder die optimale [Arbeitszeiterfassung](https://seatable.io/vorlage/dkcp4_k3rnsb4d9sskb6qw/).
+So sind nicht nur alle immer auf dem gleichen Informationsstand, sondern der Organisationsaufwand reduziert sich signifikant. Und dabei macht es keinen Unterschied, ob Sie ein kleines, mittleres oder großes Unternehmen leiten, ein Café führen oder einen Autohandel. Mit dem passenden Online-Tool gibt es für jede Anforderungen den passenden [Schichtplan](https://seatable.io/vorlage/nmmouofjq5mw4cobogtgog/) oder die optimale [Arbeitszeiterfassung]({{< relref "templates/human-resources/recording-working-time" >}}).
 
 ![](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
 

@@ -13,7 +13,7 @@ seo:
 
 Digitales Produktmanagement ist im heutigen Zeitalter unabdingbar im Umgang mit Produkten. Denn digital ist vieles so viel einfacher, als es noch früher war. Dabei ist es ein Ziel, die verschiedenen Schnittstellen des ganzen Produktmanagements von Beginn bis Ende abzubilden und dabei alle Informationen vollständig und kompakt zusammen zu tragen. Oft wird dabei zwischen verschiedenen Programmen und Tools hin- und hergewechselt – mit SeaTable ist das nicht mehr nötig.
 
-SeaTable bietet eine hervorragende Grundlage für digitales Produktmanagement, da es mit seinen vielseitigen Funktionen nahezu alle Schritte im Produktentwicklungsprozess abbilden kann. Im Folgenden erklären wir [unser eigens entwickeltes Template](https://seatable.io/vorlage/lejzgk0brbo1piwmodvlsa/) und alle wichtigen Funktionen, die im Alltag eines Produktmanagers essentiell sind.
+SeaTable bietet eine hervorragende Grundlage für digitales Produktmanagement, da es mit seinen vielseitigen Funktionen nahezu alle Schritte im Produktentwicklungsprozess abbilden kann. Im Folgenden erklären wir [unser eigens entwickeltes Template]({{< relref "templates/product-design/digital-product-management" >}}) und alle wichtigen Funktionen, die im Alltag eines Produktmanagers essentiell sind.
 
 ### Exkurs: Was ist Produktmanagement?
 
@@ -27,7 +27,7 @@ Digitales Produktmanagement profitiert von entsprechenden Produktmanagement-Tool
 
 Zum anderen gibt es auch weitere Produktcharakteristika, die nicht für die Öffentlichkeit bestimmt sind, wie etwa Materialstärke, Beschichtung oder gar eigene Farbmischungen oder Materialzusammensetzungen. Für diese Informationen gibt es einen ausführlichen internen Produktdatenkatalog, der all dies zusammenfasst. In unserem Template haben wir beide Varianten integriert.
 
-[Hier gelangen Sie direkt zum Template](https://seatable.io/vorlage/lejzgk0brbo1piwmodvlsa/)
+[Hier gelangen Sie direkt zum Template]({{< relref "templates/product-design/digital-product-management" >}})
 
 ### Mehr Übersicht mit doppelter Gruppierung
 
@@ -47,7 +47,7 @@ Sie kennen das vielleicht – Sie suchen ein Produkt und Sie wissen, wie es auss
 
 Mit wenigen Klicks haben Sie eine informative Galerie erstellt.
 
-Das Plugin ergänzt die Produktkataloge perfekt und macht Bilddatenbanken auf anderen Plattformen überflüssig. Da SeaTable nicht nur ein [starkes Projektmanagement-Tool](https://seatable.io/vorlage/brsc53rrtqwduseehp2ntq/) ist, sondern auch gleichzeitig eine Datenbank, die Bilder im Original speichert, ist diese Funktion für das digitale [Projektmanagement](https://seatable.io/projektmanagement/) optimal.
+Das Plugin ergänzt die Produktkataloge perfekt und macht Bilddatenbanken auf anderen Plattformen überflüssig. Da SeaTable nicht nur ein starkes Projektmanagement-Tool ist, sondern auch gleichzeitig eine Datenbank, die Bilder im Original speichert, ist diese Funktion für das digitale [Projektmanagement](https://seatable.io/projektmanagement/) optimal.
 
 ## Einfache Katalogisierung von Produkten
 
@@ -55,7 +55,7 @@ Kommen wir nun zum internen Produktkatalog: Dieser dient als interne Information
 
 Damit ergibt sich ein sehr ausführlicher Produktkatalog, der es jedem Mitarbeiter ermöglicht, mit minimalem Aufwand maximalen Informations-Output zu erhalten. Ein voll ausgestatteter Katalog minimiert nämlich die Kommunikation mit zuständigen Einheiten, wie den Produktmanagern oder anderen Stellen, wenn zum Beispiel die genaue Bezeichnung der Produktbeschichtung fehlt.
 
-![](https://seatable.io/wp-content/uploads/2021/09/Product-Data_Overview.png)
+![](images/Product-Data_Overview.png)
 
 In unserem Beispiel haben wir direkt Berechnungen für die Marge angelegt, um zu beobachten, wie die einzelnen Produkte in der Herstellung performen. Das geht ganz leicht mit der [Formelspalte](https://seatable.io/docs/handbuch/seatable-nutzen/feld-typen/), mit der zuerst die Marge und dann die Marge in Prozent ausgerechnet wurden. So haben Produktmanager und Mitarbeiter auf einen Blick, wie es um die verschiedenen Produkte steht.
 
@@ -110,10 +110,10 @@ Die Statistik unten links zeigt die monatlichen Verkaufszahlen der Stores mit ei
 
 Wer mehr Flexibilität möchte, kann unser Plugin “Erweiterte Statistiken” nutzen. Der Vorteil dieses Plugins ist die Vergrößerung der Statistik nach Belieben in der Übersicht und eine gänzlich flexible und neue Anordnung von Statistiken. Diese zwei Statistiken können mit dem Mauszeiger in jede Richtung vergrößert oder verkleinert werden und können so perfekt nebeneinander platziert werden. Das ist vor allem bei Fällen wichtig, in denen wichtige Zahlen direkt miteinander verglichen werden sollen.
 
-Die Statistiken sind ein sehr machtvolles Feature, das in jeder Version von SeaTable integriert. [Unser Template steht Ihnen hier](https://seatable.io/vorlage/lejzgk0brbo1piwmodvlsa/) zum Download bereit!
+Die Statistiken sind ein sehr machtvolles Feature, das in jeder Version von SeaTable integriert. [Unser Template steht Ihnen hier]({{< relref "templates/product-design/digital-product-management" >}}) zum Download bereit!
 
 ## Jetzt mit SeaTable in Ihr digitales Produktmanagement starten
 
-Mit diesem Anwendungsbeispiel wird deutlich, wie gut SeaTable ein digitales Produktmanagement abbilden und damit Ihre Arbeitsweise positiv verändern kann. Als vielseitige und hochflexible Software kann SeaTable sich ganz auf Ihre Bedürfnisse anpassen und auf jede Gegebenheit reagieren. Mit den verschiedenen Spaltentypen und nützlichen Plugins können die verschiedensten Prozesse umgesetzt werden: Egal ob Sie ein ausgefeiltes [CRM-Management-Tool benötigen](https://seatable.io/vorlage/gnx7mg0dqkejp6p4e5c6-w/), oder ob Sie die [Arbeitszeit Ihrer Mitarbeiter erfassen](https://seatable.io/vorlage/dkcp4_k3rnsb4d9sskb6qw/) und weiter verarbeiten möchten. Mit SeaTable sind Ihnen kaum Grenzen gesetzt!
+Mit diesem Anwendungsbeispiel wird deutlich, wie gut SeaTable ein digitales Produktmanagement abbilden und damit Ihre Arbeitsweise positiv verändern kann. Als vielseitige und hochflexible Software kann SeaTable sich ganz auf Ihre Bedürfnisse anpassen und auf jede Gegebenheit reagieren. Mit den verschiedenen Spaltentypen und nützlichen Plugins können die verschiedensten Prozesse umgesetzt werden: Egal ob Sie ein ausgefeiltes [CRM-Management-Tool benötigen]({{< relref "templates/sales/crm-offer-management" >}}), oder ob Sie die [Arbeitszeit Ihrer Mitarbeiter erfassen]({{< relref "templates/human-resources/recording-working-time" >}}) und weiter verarbeiten möchten. Mit SeaTable sind Ihnen kaum Grenzen gesetzt!
 
 [Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) und probieren Sie unsere Features aus. Wir haben hilfreiche Templates erstellt, die Ihnen den Einstieg in bestimmte Themen erleichtern können!

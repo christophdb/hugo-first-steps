@@ -38,11 +38,11 @@ Para ello, SeaTable le ofrece muchas posibilidades para recopilar todos los dato
 
 La ventaja de un CRM en SeaTable: siempre tiene un punto de recogida central donde convergen todas las informaciones de todos los departamentos y, por lo tanto, siempre tiene todos los datos de los clientes, las fases de las ventas y mucho más de un vistazo. Esto significa que ya no tiene que recopilar la información usted mismo a través de los distintos departamentos. Así se ahorra mucho tiempo y, sobre todo, nervios. Además, SeaTable se adapta con flexibilidad a todas sus necesidades.
 
-[Haga clic aquí para ir directamente a nuestra plantilla de gestión de ofertas de CRM](https://seatable.io/es/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/)
+[Haga clic aquí para ir directamente a nuestra plantilla de gestión de ofertas de CRM]({{< relref "templates/sales/crm-offer-management" >}})
 
 ## Introducir los datos de los nuevos clientes
 
-Para empezar a registrar los datos reales de los clientes, nuestra [plantilla de CRM](https://seatable.io/es/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/) le proporciona un [formulario web](https://seatable.io/es/docs/handbuch/datenmanagement/webformulare/?lang=auto) predefinido que puede adaptar a su diseño y a sus deseos. Con esto, se introduce toda la información relevante que es importante para su CRM, como el nombre del cliente, la dirección, la persona de contacto, el número de teléfono, la dirección de correo electrónico, el potencial de ventas, los archivos adjuntos importantes y mucho más.
+Para empezar a registrar los datos reales de los clientes, nuestra [plantilla de CRM]({{< relref "templates/sales/crm-offer-management" >}}) le proporciona un [formulario web](https://seatable.io/es/docs/handbuch/datenmanagement/webformulare/?lang=auto) predefinido que puede adaptar a su diseño y a sus deseos. Con esto, se introduce toda la información relevante que es importante para su CRM, como el nombre del cliente, la dirección, la persona de contacto, el número de teléfono, la dirección de correo electrónico, el potencial de ventas, los archivos adjuntos importantes y mucho más.
 
 Estos datos se trasladan a su sistema personal de CRM o a la tabla de SeaTable "Datos del cliente" y allí se codifican directamente por colores según el potencial de ventas.
 
@@ -142,6 +142,6 @@ Este artículo debería haberle dejado claro lo potente y flexible que puede ser
 
 Además, no necesita una solución separada para cada área de tareas individual, sino que puede asignar los procesos interdepartamentales de forma eficaz y eficiente con SeaTable. SeaTable no deja nada que desear y se adapta completamente a sus necesidades personales. ¿A qué esperas? Olvídese de los costosos proveedores de software CRM y empiece hoy mismo con su sistema SeaTable CRM.
 
-[A la plantilla "Gestión de ofertas CRM"](https://seatable.io/es/vorlage/GNx7Mg0DQKeJp6P4e5c6-w/)  
+[A la plantilla "Gestión de ofertas CRM"]({{< relref "templates/sales/crm-offer-management" >}})  
 [Pruebe ahora SeaTable en la nube de forma gratuita]({{< relref "pages/registration" >}})  
 [O prefiere ejecutar SeaTable Enterprise en su propio centro de datos]({{< relref "pages/product/seatable-server" >}})

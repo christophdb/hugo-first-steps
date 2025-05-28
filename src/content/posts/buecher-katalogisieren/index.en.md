@@ -80,7 +80,7 @@ This free book app uses numerous online databases such as Amazon, Google, Open L
 
 If you want to [create](https://seatable.io/en/inventarliste-vorlagen/) an [inventory list](https://seatable.io/en/inventarliste-vorlagen/) for your books using simple tables, SeaTable is the right tool for you. Simply enter the relevant title in a list, add further information on the author and publisher if required and organize it clearly (e.g. by genre, reading status or rating). Would you like to make your book catalog available to others? You can easily do this by sharing your lists.
 
-You can open the free cloud version of SeaTable directly in your browser. [Register]({{< relref "pages/registration" >}}) today and get started with our [free template](https://seatable.io/en/vorlage/ti27clk9rb2fjizia2pbwg/) for your book list or library. By the way: The tool is also suitable for academic [literature management](https://seatable.io/en/literaturverwaltung/).
+You can open the free cloud version of SeaTable directly in your browser. [Register]({{< relref "pages/registration" >}}) today and get started with our [free template]({{< relref "templates/everyday-life/book-list-library" >}}) for your book list or library. By the way: The tool is also suitable for academic [literature management](https://seatable.io/en/literaturverwaltung/).
 
 ## Three tips for optimal book cataloging
 

@@ -131,7 +131,7 @@ In der folgenden Tabelle sehen Sie eine Grundstruktur, die Sie beliebig an Ihre 
 
 ![Content Marketing Strategie](images/content-marketing-strategie-seatable.png)
 
-Diese Tabelle unseres [Content Marketing Strategy Templates](https://seatable.io/vorlage/akpem7oksykcemvai5eblq/) wirkt zwar auf den ersten Blick ziemlich umfangreich, ist aber für eine durchschnittliche Content Pipeline das Minimum, um die notwendige Übersicht zu behalten. Gewöhnen Sie sich vom ersten Tag an diese Daten zu erfassen und Sie werden keine Probleme haben, zu jedem Zeitpunkt den Überblick zu behalten.
+Diese Tabelle unseres [Content Marketing Strategy Templates]({{< relref "templates/marketing/content-marketing-strategy" >}}) wirkt zwar auf den ersten Blick ziemlich umfangreich, ist aber für eine durchschnittliche Content Pipeline das Minimum, um die notwendige Übersicht zu behalten. Gewöhnen Sie sich vom ersten Tag an diese Daten zu erfassen und Sie werden keine Probleme haben, zu jedem Zeitpunkt den Überblick zu behalten.
 
 ### Ermöglichen Sie einen individuellen Blick auf die Daten
 
@@ -201,4 +201,4 @@ Es fragt sich, warum so viele Unternehmer das Gefühl haben, dass ihr Content Ma
 
 Überzeugen Sie sich selbst davon, dass Content Marketing ein wirksames Mittel ist und entscheidend zu Ihrem Unternehmenserfolg beitragen kann. Wenn Sie Erfolg haben wollen, dann verzichten Sie auf austauschbare Inhalte und unübersichtliche Projektmanagement-Tools.
 
-Verwenden Sie SeaTable, um Ihre Personas, Ziele und Inhalte festzulegen und deren Erarbeitung genauestens zu überwachen. Etablieren Sie einen sich selbst verbessernden Prozess und Sie werden sehen, wie sich der Erfolg einstellen wird. Starten Sie jetzt mit unseren [Marketing-Templates](https://seatable.io/vorlage/akpem7oksykcemvai5eblq/) und passen Sie diese an Ihre Bedürfnisse an.
+Verwenden Sie SeaTable, um Ihre Personas, Ziele und Inhalte festzulegen und deren Erarbeitung genauestens zu überwachen. Etablieren Sie einen sich selbst verbessernden Prozess und Sie werden sehen, wie sich der Erfolg einstellen wird. Starten Sie jetzt mit unseren [Marketing-Templates]({{< relref "templates/marketing/content-marketing-strategy" >}}) und passen Sie diese an Ihre Bedürfnisse an.

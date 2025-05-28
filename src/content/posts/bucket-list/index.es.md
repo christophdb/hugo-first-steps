@@ -177,8 +177,8 @@ Sus objetivos también pueden centrarse en las relaciones interpersonales.
 
 ## Plantilla en línea en SeaTable
 
-Para no perder de vista los objetivos de su lista de cosas que hacer antes de morir, es aconsejable escribirlos y guardarlos en un lugar de fácil acceso. SeaTable te ofrece una [plantilla online](https://seatable.io/es/vorlage/jbn_a4wysewcfd9eegkgha/) gratuita que te permite tener a mano tu lista de cosas que hacer antes de morir y organizar tus objetivos en distintas categorías.
+Para no perder de vista los objetivos de su lista de cosas que hacer antes de morir, es aconsejable escribirlos y guardarlos en un lugar de fácil acceso. SeaTable te ofrece una [plantilla online]({{< relref "templates/everyday-life/bucket-list" >}}) gratuita que te permite tener a mano tu lista de cosas que hacer antes de morir y organizar tus objetivos en distintas categorías.
 
 Además, puede registrar qué amigos y familiares comparten determinados intereses y le acompañarían en sus aventuras. También puedes guardar información adicional como fotos, enlaces o direcciones directamente en tu lista de cosas que hacer antes de morir para reunir todos los detalles relevantes en un solo lugar.
 
-Marque un objetivo tras otro de su lista de deseos, añada nuevas ideas de forma flexible o elimine deseos que ya no son importantes para usted. Puedes registrarte [gratis]({{< relref "pages/registration" >}}) en SeaTable y personalizar la [plantilla](https://seatable.io/es/vorlage/jbn_a4wysewcfd9eegkgha/) online para adaptarla a tus necesidades.
+Marque un objetivo tras otro de su lista de deseos, añada nuevas ideas de forma flexible o elimine deseos que ya no son importantes para usted. Puedes registrarte [gratis]({{< relref "pages/registration" >}}) en SeaTable y personalizar la [plantilla]({{< relref "templates/everyday-life/bucket-list" >}}) online para adaptarla a tus necesidades.

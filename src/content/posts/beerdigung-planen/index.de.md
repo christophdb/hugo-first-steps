@@ -192,4 +192,4 @@ Bei allem, was man für eine Beerdigung planen muss, kann man leicht den Überbl
 
 SeaTable Vorlage mit Kostenübersicht für die Beerdigung
 
-Wenn Sie SeaTable für die Organisation einer Beerdigung nutzen möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) und erstellen Sie eine Übersicht mit Ihren eigenen Daten. Die entsprechende Vorlage finden Sie [hier](https://seatable.io/vorlage/kraqwv46rhgoay-y9okshq/).
+Wenn Sie SeaTable für die Organisation einer Beerdigung nutzen möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) und erstellen Sie eine Übersicht mit Ihren eigenen Daten. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/events/funeral-planner" >}}).

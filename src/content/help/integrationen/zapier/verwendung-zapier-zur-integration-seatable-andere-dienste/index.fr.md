@@ -26,7 +26,7 @@ Pour créer un Zap avec SeaTable, vous devez [vous connecter](https://zapier.com
 
 ## Exemple 1 : Créer un zap avec SeaTable comme déclencheur pour envoyer un message Slack
 
-Dans cet exemple, nous utilisons le modèle [CRM & Ventes](https://seatable.io/fr/modele/pwl4sfutr06dstr9amtlag/). Avec l'aide de Zapier, nous voulons qu'à chaque nouvelle entrée dans le tableau _Opportunité_, un message soit posté sur notre canal Slack.
+Dans cet exemple, nous utilisons le modèle [CRM & Ventes]({{< relref "templates/sales/crm-sales" >}}). Avec l'aide de Zapier, nous voulons qu'à chaque nouvelle entrée dans le tableau _Opportunité_, un message soit posté sur notre canal Slack.
 
 ### Étape 1 : Création du déclencheur (SeaTable)
 

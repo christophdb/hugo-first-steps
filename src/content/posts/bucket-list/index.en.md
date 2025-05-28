@@ -178,8 +178,8 @@ Your goals can also focus on interpersonal relationships.
 
 ## Online template in SeaTable
 
-To ensure that you don't lose sight of the goals on your bucket list, it is advisable to write them down and keep them in an easily accessible place. SeaTable offers you a free [online template](https://seatable.io/en/vorlage/jbn_a4wysewcfd9eegkgha/) that allows you to always have your bucket list to hand and organize your goals into different categories in a structured way.
+To ensure that you don't lose sight of the goals on your bucket list, it is advisable to write them down and keep them in an easily accessible place. SeaTable offers you a free [online template]({{< relref "templates/everyday-life/bucket-list" >}}) that allows you to always have your bucket list to hand and organize your goals into different categories in a structured way.
 
 In addition, you can record which friends and family members share certain interests and would accompany you on your adventures. You can also save additional information such as pictures, links or addresses directly in your bucket list to collect all relevant details in one place.
 
-Check off goal after goal from your bucket list, flexibly add new ideas or delete wishes that are no longer important to you. You can [register for free]({{< relref "pages/registration" >}}) with SeaTable and customize the [online template](https://seatable.io/en/vorlage/jbn_a4wysewcfd9eegkgha/) to suit your needs.
+Check off goal after goal from your bucket list, flexibly add new ideas or delete wishes that are no longer important to you. You can [register for free]({{< relref "pages/registration" >}}) with SeaTable and customize the [online template]({{< relref "templates/everyday-life/bucket-list" >}}) to suit your needs.

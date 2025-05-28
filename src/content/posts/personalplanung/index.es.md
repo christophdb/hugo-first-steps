@@ -50,7 +50,7 @@ Como puede ver, la planificación de personal con una plantilla de Excel tiene p
 
 Otra ventaja clave de la planificación de RRHH sin plantilla de Excel gratuita es la extrema flexibilidad que aportan las herramientas online. Los departamentos de RRHH pueden compartir fácilmente sus hojas de cálculo con sus empleados para que puedan introducir de forma independiente sus turnos, tareas y vacaciones.
 
-De este modo, no sólo todo el mundo está siempre al mismo nivel de información, sino que el esfuerzo organizativo se reduce considerablemente. Y da igual que dirija una pequeña, mediana o gran empresa, una cafetería o un concesionario de coches. Con la herramienta en línea adecuada, existe un [plan de turnos](https://seatable.io/es/vorlage/nmmouofjq5mw4cobogtgog/) adecuado o un [registro del tiempo de trabajo](https://seatable.io/es/vorlage/dkcp4_k3rnsb4d9sskb6qw/) óptimo [para](https://seatable.io/es/vorlage/dkcp4_k3rnsb4d9sskb6qw/) cada necesidad.
+De este modo, no sólo todo el mundo está siempre al mismo nivel de información, sino que el esfuerzo organizativo se reduce considerablemente. Y da igual que dirija una pequeña, mediana o gran empresa, una cafetería o un concesionario de coches. Con la herramienta en línea adecuada, existe un [plan de turnos](https://seatable.io/es/vorlage/nmmouofjq5mw4cobogtgog/) adecuado o un [registro del tiempo de trabajo]({{< relref "templates/human-resources/recording-working-time" >}}) óptimo [para]({{< relref "templates/human-resources/recording-working-time" >}}) cada necesidad.
 
 ![](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
 

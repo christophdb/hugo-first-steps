@@ -13,7 +13,7 @@ seo:
 
 Digital product management is indispensable in dealing with products in today's age. Because digitally, many things are so much easier than they used to be. One goal is to map the various interfaces of the entire product management from start to finish and to compile all information completely and compactly. This often involves switching back and forth between different programmes and tools - with SeaTable, this is no longer necessary.
 
-SeaTable offers an excellent basis for digital product management, as it can map almost all steps in the product development process with its versatile functions. In the following, we explain [our specially developed template](https://seatable.io/en/vorlage/lejzgk0brbo1piwmodvlsa/) and all the important functions that are essential in the everyday life of a product manager.
+SeaTable offers an excellent basis for digital product management, as it can map almost all steps in the product development process with its versatile functions. In the following, we explain [our specially developed template]({{< relref "templates/product-design/digital-product-management" >}}) and all the important functions that are essential in the everyday life of a product manager.
 
 ### Excursus: What is product management?
 
@@ -27,7 +27,7 @@ Digital product management benefits from appropriate product management tools. A
 
 On the other hand, there are also other product characteristics that are not intended for the general public, such as material thickness, coating or even own colour mixtures or material compositions. For this information, there is a detailed internal product data catalogue that summarises all of this. We have integrated both versions in our template.
 
-[Click here to go directly to the template](https://seatable.io/en/vorlage/lejzgk0brbo1piwmodvlsa/)
+[Click here to go directly to the template]({{< relref "templates/product-design/digital-product-management" >}})
 
 ### More overview with double grouping
 
@@ -47,7 +47,7 @@ You might know this - you are looking for a product and you know what it looks l
 
 With a few clicks you have created an informative gallery.
 
-The plugin perfectly complements the product catalogues and makes image databases on other platforms superfluous. Since SeaTable is not only a [powerful project management tool](https://seatable.io/en/vorlage/brsc53rrtqwduseehp2ntq/), but also a database that stores images in the original at the same time, this function is optimal for digital [project management](https://seatable.io/en/projektmanagement/).
+The plugin perfectly complements the product catalogues and makes image databases on other platforms superfluous. Since SeaTable is not only a powerful project management tool, but also a database that stores images in the original at the same time, this function is optimal for digital [project management](https://seatable.io/en/projektmanagement/).
 
 ## Simple cataloguing of products
 
@@ -110,10 +110,10 @@ The statistics at the bottom left show the monthly sales figures of the stores w
 
 If you want more flexibility, you can use our plugin "Advanced statistics". The advantage of this plugin is the enlargement of the statistics at will in the overview and a completely flexible and new arrangement of statistics. These two statistics can be enlarged or reduced in any direction with the mouse cursor and can be placed perfectly next to each other. This is especially important in cases where important numbers need to be compared directly.
 
-The statistics are a very powerful feature that is integrated in every version of SeaTable. [Our template is available](https://seatable.io/en/vorlage/lejzgk0brbo1piwmodvlsa/) for download [here](https://seatable.io/en/vorlage/lejzgk0brbo1piwmodvlsa/)!
+The statistics are a very powerful feature that is integrated in every version of SeaTable. [Our template is available]({{< relref "templates/product-design/digital-product-management" >}}) for download [here]({{< relref "templates/product-design/digital-product-management" >}})!
 
 ## Start your digital product management now with SeaTable
 
-This application example clearly shows how well SeaTable can map digital product management and thus positively change the way you work. As a versatile and highly flexible software, SeaTable can adapt to your needs and react to every situation. With the different column types and useful plugins, a wide variety of processes can be implemented: No matter if you [need](https://seatable.io/en/vorlage/gnx7mg0dqkejp6p4e5c6-w/) a sophisticated [CRM management tool](https://seatable.io/en/vorlage/gnx7mg0dqkejp6p4e5c6-w/) or if you want to [record](https://seatable.io/en/vorlage/dkcp4_k3rnsb4d9sskb6qw/) and further process the [working hours of your employees](https://seatable.io/en/vorlage/dkcp4_k3rnsb4d9sskb6qw/). With SeaTable, there are hardly any limits!
+This application example clearly shows how well SeaTable can map digital product management and thus positively change the way you work. As a versatile and highly flexible software, SeaTable can adapt to your needs and react to every situation. With the different column types and useful plugins, a wide variety of processes can be implemented: No matter if you [need]({{< relref "templates/sales/crm-offer-management" >}}) a sophisticated [CRM management tool]({{< relref "templates/sales/crm-offer-management" >}}) or if you want to [record]({{< relref "templates/human-resources/recording-working-time" >}}) and further process the [working hours of your employees]({{< relref "templates/human-resources/recording-working-time" >}}). With SeaTable, there are hardly any limits!
 
 [Register for free]({{< relref "pages/registration" >}}) and try out our features. We have created helpful templates that can help you get started with certain topics!

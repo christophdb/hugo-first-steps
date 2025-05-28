@@ -14,7 +14,7 @@ Whether it's an internship, apprenticeship or permanent position - the first ste
 
 But it's worth the effort, because only a successful application letter will open the door to a personal **interview** and bring you one step closer to your **dream job**. Below you will find out what you should pay attention to when writing your application.
 
-{{< warning headline="Tip" text="To keep track of your applications, you can also use a planning tool. [Here](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) you can find out how you can use this tool to generate various application letters from a template at the touch of a button." />}}
+{{< warning headline="Tip" text="To keep track of your applications, you can also use a planning tool. [Here]({{< relref "templates/everyday-life/application-cover-letter" >}}) you can find out how you can use this tool to generate various application letters from a template at the touch of a button." />}}
 
 ## Why a letter of application is important
 
@@ -59,9 +59,9 @@ You can put aside any qualifications that you have not marked as **relevant to y
 
 ## Create application overview
 
-You should create a table so that you don't lose track of where you have applied, when and with which documents during your job search. SeaTable offers you a [structured application overview](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/) so that you always have the information and documents you have prepared to hand. See all your applications and the associated documents at a glance and make it easier for you to create cover letters with the **page design**.
+You should create a table so that you don't lose track of where you have applied, when and with which documents during your job search. SeaTable offers you a [structured application overview]({{< relref "templates/everyday-life/application-cover-letter" >}}) so that you always have the information and documents you have prepared to hand. See all your applications and the associated documents at a glance and make it easier for you to create cover letters with the **page design**.
 
-If you would like to use SeaTable for your application planner, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+If you would like to use SeaTable for your application planner, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here]({{< relref "templates/everyday-life/application-cover-letter" >}}).
 
 ## Formalities in your letter of application
 
@@ -223,4 +223,4 @@ Before you send off your application, you should **proofread** it. In addition t
 
 Now nothing stands in the way of writing your next successful application. SeaTable has created an [online application planner](https://seatable.io/en/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen) for you so that you don't lose track of your documents even if you have several applications. This will help you to plan your next steps, organize your documents and always stay up to date with the application process.
 
-If you would like to use SeaTable for your application overview, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here](https://seatable.io/en/vorlage/cc0-xv_fq_yn3ipvbvfiaa/).
+If you would like to use SeaTable for your application overview, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here]({{< relref "templates/everyday-life/application-cover-letter" >}}).

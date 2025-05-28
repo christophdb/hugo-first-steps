@@ -50,7 +50,7 @@ Vous voyez : la planification du personnel avec un modèle Excel a un potentiel 
 
 Un autre avantage décisif de la planification du personnel sans modèle Excel gratuit est l'extrême flexibilité qu'apportent les outils en ligne. Les services RH peuvent facilement partager leurs tableaux avec leurs employés, qui peuvent ainsi saisir leurs équipes, leurs services et leurs congés en toute autonomie.
 
-Non seulement tout le monde est toujours au même niveau d'information, mais l'effort d'organisation est réduit de manière significative. Et cela ne fait aucune différence si vous dirigez une petite, moyenne ou grande entreprise, un café ou un commerce automobile. Avec l'outil en ligne approprié, il existe un [plan d'équipe](https://seatable.io/fr/modele/nmmouofjq5mw4cobogtgog/) ou une [saisie du temps de travail](https://seatable.io/fr/modele/dkcp4_k3rnsb4d9sskb6qw/) optimale pour chaque exigence.
+Non seulement tout le monde est toujours au même niveau d'information, mais l'effort d'organisation est réduit de manière significative. Et cela ne fait aucune différence si vous dirigez une petite, moyenne ou grande entreprise, un café ou un commerce automobile. Avec l'outil en ligne approprié, il existe un [plan d'équipe](https://seatable.io/fr/modele/nmmouofjq5mw4cobogtgog/) ou une [saisie du temps de travail]({{< relref "templates/human-resources/recording-working-time" >}}) optimale pour chaque exigence.
 
 ![](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
 
