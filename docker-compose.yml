@@ -6,7 +6,7 @@ services:
         environment:
             - HUGO_BACKEND_URL=http://127.0.0.1:3000
             - ENABLE_PAGEFIND=${ENABLE_PAGEFIND:-0}
-            - ENABLE_TAILWIND=${ENABLE_TAILWIND:-0}
+            - ENABLE_TAILWIND=${ENABLE_TAILWIND:-1}
             # by default pagefind and tailwind is not activated (=0). To activate, you can create .env file with these environment variables.
         ports:
             - 127.0.0.1:1313:1313
