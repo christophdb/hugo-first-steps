@@ -138,3 +138,12 @@ price_table:
 help_area:
     category: 'Category'
     section: 'Section'
+
+templates:
+    all: 'All templates'
+    categories: 'Categories'
+    categorie: 'Categorie'
+    functions: 'Functions'
+    back: 'Back to oveview'
+    use_template: 'Use template'
+    preview: 'Preview'

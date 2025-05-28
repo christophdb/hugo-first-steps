@@ -90,11 +90,11 @@ name = "Ressources"
 pageRef = "#0"
 weight = 40
 
-#[[main]]
-#name = "Templates"
-#parent = "Ressources"
-#pageRef = "pages/functions"
-#weight = 42
+[[main]]
+name = "Modèles"
+parent = "Ressources"
+pageRef = "templates"
+weight = 42
 
 [[main]]
 name = "Guide rapide"
@@ -188,7 +188,7 @@ weight = 22
 [[footer]]
 name = "Modèles"
 parent = "Soutien"
-url = "https://seatable.io/vorlagen/?lang=auto"
+pageRef = "templates"
 weight = 23
 
 [[footer]]
