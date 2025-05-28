@@ -13,7 +13,11 @@ Qu'il s'agisse d'un stage, d'une formation ou d'un emploi fixe, la première ét
 
 Mais le travail en vaut la peine, car seule une lettre de motivation réussie vous ouvrira les portes d'un **entretien** personnel et vous rapprochera de l'**emploi de vos rêves**. Vous trouverez ci-dessous les points auxquels vous devez faire attention lors de la rédaction de votre candidature.
 
-{{< warning headline="Conseil" text="Pour garder une vue d'ensemble de vos candidatures, vous pouvez également utiliser un outil de planification. Vous apprendrez [ici]({{< relref "templates/everyday-life/application-cover-letter" >}}) comment cet outil vous permet de générer différentes lettres de candidature à partir d'un modèle en appuyant sur un bouton." />}}
+{{< warning headline="Conseil" >}}
+
+Pour garder une vue d'ensemble de vos candidatures, vous pouvez également utiliser un outil de planification. Vous apprendrez [ici]({{< relref "templates/everyday-life/application-cover-letter" >}}) comment cet outil vous permet de générer différentes lettres de candidature à partir d'un modèle en appuyant sur un bouton.
+
+{{< /warning >}}
 
 ## Pourquoi une lettre de motivation est importante
 

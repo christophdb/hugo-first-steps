@@ -13,7 +13,11 @@ Tanto si se trata de unas prácticas como de un puesto de aprendiz o fijo, el pr
 
 Pero el esfuerzo merece la pena, porque sólo una carta de solicitud satisfactoria le abrirá la puerta a una **entrevista** personal y le acercará un paso más al **trabajo de sus sueños**. A continuación descubrirá a qué debe prestar atención al redactar su solicitud.
 
-{{< warning headline="Consejo" text="También puede utilizar una herramienta de planificación para hacer un seguimiento de sus solicitudes. [Aquí]({{< relref "templates/everyday-life/application-cover-letter" >}}) puede descubrir cómo utilizar esta herramienta para generar varias cartas de solicitud a partir de una plantilla con solo pulsar un botón." />}}
+{{< warning headline="Consejo" >}}
+
+También puede utilizar una herramienta de planificación para hacer un seguimiento de sus solicitudes. [Aquí]({{< relref "templates/everyday-life/application-cover-letter" >}}) puede descubrir cómo utilizar esta herramienta para generar varias cartas de solicitud a partir de una plantilla con solo pulsar un botón.
+
+{{< /warning >}}
 
 ## Por qué es importante una carta de solicitud
 
