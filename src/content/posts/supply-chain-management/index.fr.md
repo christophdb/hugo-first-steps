@@ -47,7 +47,7 @@ La gestion de la chaîne d'approvisionnement couvre l'ensemble des processus et 
 
 SeaTable crée un lieu où toutes les informations peuvent être rassemblées. Vous pouvez ainsi gérer efficacement votre chaîne d'approvisionnement en quelques étapes et clics seulement. Saisissez toutes les informations nécessaires, comme par exemple vos fournisseurs, vos filiales, vos commandes entrantes et sortantes, votre portefeuille de produits et gardez un œil sur l'ensemble de votre stock. SeaTable offre de nombreuses possibilités d'adapter vos processus à vos souhaits.
 
-[Cliquez ici pour accéder directement à notre modèle "Supply Chain Management".](https://seatable.io/fr/modele/lrtcit5zqratbf0rpidxlw/)
+[Cliquez ici pour accéder directement à notre modèle "Supply Chain Management".]({{< relref "templates/sales/supply-chain-management" >}})
 
 ### **Saisissez vos fournisseurs et vos filiales en quelques étapes seulement**
 
@@ -131,6 +131,6 @@ Cet article devrait vous avoir montré la flexibilité d'utilisation de SeaTable
 
 Qu'attendez-vous encore ? Votre nouvelle gestion de la chaîne d'approvisionnement est déjà dans les starting-blocks.
 
-[Accéder au modèle "Gestion de la chaîne d'approvisionnement".](https://seatable.io/fr/modele/lrtcit5zqratbf0rpidxlw/)  
+[Accéder au modèle "Gestion de la chaîne d'approvisionnement".]({{< relref "templates/sales/supply-chain-management" >}})  
 [Essayez maintenant SeaTable gratuitement dans le cloud.](/fr/enregistrement/)  
 [Ou plutôt exploiter SeaTable Enterprise dans votre propre centre de données]({{< relref "pages/product/seatable-server" >}})

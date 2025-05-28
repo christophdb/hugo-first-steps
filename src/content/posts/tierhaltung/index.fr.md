@@ -203,4 +203,4 @@ Avec le modèle pour votre élevage, vous pouvez :
 - Organiser l'encadrement pour vos vacances et vos absences
 - Saisir les dépenses et calculer les coûts
 
-Si vous souhaitez utiliser SeaTable pour votre élevage, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez [ici](https://seatable.io/fr/modele/yhq088vxr8mtfpz_i_hmag/) le modèle correspondant avec des exemples d'entrées.
+Si vous souhaitez utiliser SeaTable pour votre élevage, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez [ici]({{< relref "templates/everyday-life/pet-care" >}}) le modèle correspondant avec des exemples d'entrées.

@@ -77,4 +77,4 @@ Il y a beaucoup à planifier lors des tâches ménagères, surtout si vous souha
 
 ![Créez un plan de nettoyage personnalisé dans SeaTable.](images/Putzplan.png)
 
-Si vous souhaitez utiliser SeaTable pour créer votre plan de nettoyage personnalisé, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici](https://seatable.io/fr/modele/a5nogkchqiifwjettvs4ha/).
+Si vous souhaitez utiliser SeaTable pour créer votre plan de nettoyage personnalisé, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/everyday-life/cleaning-plan" >}}).

@@ -75,14 +75,14 @@ Define the goals you want to achieve with the editorial plan. The following opti
 - **Traffic**: More people should visit your website.
 - **Sales**: You want to gain more leads, subscribers or customers.
 - **Customer loyalty**: You want to strengthen the relationship with your customers and encourage them to recommend you to others.
-- **Unique position**: You want to stand out [from the competition](https://seatable.io/en/vorlage/rv0aemhnqjufipzfycgc8w/) with your content.
+- **Unique position**: You want to stand out [from the competition]({{< relref "templates/marketing/competitor-analysis" >}}) with your content.
 - **Expert status**: You want to make a name for yourself in the industry and become a sought-after expert on a specific topic.
 
 Once the objectives have been defined, the next step is to decide on the appropriate media, content types and formats.
 
 ### 2\. select medium, content type and format
 
-Important media for content marketing are usually **your website, blogs, search engines, video and social media platforms** such as YouTube, Instagram, TikTok and Facebook. What type of content do you want to publish? Choose between **text, image, audio, video** or a mix of several content types. The possible content formats depend on which medium you choose. Content formats include blog articles, YouTube videos, [podcast episodes](https://seatable.io/en/vorlage/rxubtabas8wf5e25egmotw/), social media posts, presentations, webinars, white papers, infographics, newsletters and more.
+Important media for content marketing are usually **your website, blogs, search engines, video and social media platforms** such as YouTube, Instagram, TikTok and Facebook. What type of content do you want to publish? Choose between **text, image, audio, video** or a mix of several content types. The possible content formats depend on which medium you choose. Content formats include blog articles, YouTube videos, [podcast episodes]({{< relref "templates/marketing/podcast-editorial-calendar" >}}), social media posts, presentations, webinars, white papers, infographics, newsletters and more.
 
 **As a general rule,** focus on two to three formats in which you are particularly good or would like to become particularly good. These should be tailored to the usage habits and expectations of your target group.
 
@@ -112,7 +112,7 @@ These include, for example, **how to address readers, the tonality of texts, the
 
 ## Create content plan with SeaTable
 
-With SeaTable's free [content plan template](https://seatable.io/en/vorlage/pohjjt9xttuc5t_xl_c19a/), the marketing team, content creators, agencies and other stakeholders can work together in one tool. **In your editorial plan, you can organize all content clearly and maintain it easily**. Responsibilities are defined and tasks distributed.
+With SeaTable's free [content plan template]({{< relref "templates/marketing/editorial-plan" >}}), the marketing team, content creators, agencies and other stakeholders can work together in one tool. **In your editorial plan, you can organize all content clearly and maintain it easily**. Responsibilities are defined and tasks distributed.
 
 ### 1\. meaningful structuring with categories
 

@@ -113,9 +113,9 @@ Por último, **reactivar a los donantes inactivos** es importante para aprovecha
 
 ## Gestionar las donaciones con SeaTable
 
-Con la [plantilla gratuita](https://seatable.io/es/vorlage/nzqrkmzcsle8vkesd-lmpw/) de SeaTable, puedes organizar fácilmente la recaudación de fondos y simplificar al máximo la gestión de tus donativos. Organiza varios proyectos en un solo lugar y mantente organizado.
+Con la [plantilla gratuita]({{< relref "templates/finance/donation-overview" >}}) de SeaTable, puedes organizar fácilmente la recaudación de fondos y simplificar al máximo la gestión de tus donativos. Organiza varios proyectos en un solo lugar y mantente organizado.
 
-En su [base de datos en](https://seatable.io/es/vorlage/nzqrkmzcsle8vkesd-lmpw/) línea, no sólo puede **recaudar y gestionar las donaciones**, sino también calcular automáticamente la diferencia entre las donaciones ya realizadas y el importe objetivo. Cree **recibos de donativos** con sólo pulsar un botón y mantenga un registro de los datos **de contacto** de sus donantes. Puedes ver todos los datos importantes y el **progreso de tus proyectos** de un vistazo en un tablero Kanban claramente organizado.
+En su [base de datos en]({{< relref "templates/finance/donation-overview" >}}) línea, no sólo puede **recaudar y gestionar las donaciones**, sino también calcular automáticamente la diferencia entre las donaciones ya realizadas y el importe objetivo. Cree **recibos de donativos** con sólo pulsar un botón y mantenga un registro de los datos **de contacto** de sus donantes. Puedes ver todos los datos importantes y el **progreso de tus proyectos** de un vistazo en un tablero Kanban claramente organizado.
 
 Para las organizaciones más pequeñas, las funciones y los límites de almacenamiento de SeaTable Free (versión gratuita) deberían ser suficientes. Si tiene planes más grandes, su organización sin ánimo de lucro recibirá [descuentos estándar](https://seatable.io/es/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) en el coste de SeaTable Plus o Enterprise.
 

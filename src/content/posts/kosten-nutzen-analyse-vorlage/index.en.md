@@ -101,4 +101,4 @@ In addition to the classic cost-benefit analysis, there are [other forms and met
 
 You can also carry out your cost-benefit analysis manually using simple tables, but it is more convenient to use an intelligent database that automatically calculates the desired values using formulas and links.
 
-Have the advantages of a cost-benefit analysis convinced you? Then you will find the corresponding template [here](https://seatable.io/en/vorlage/le5dfgmarq6nvyuzgyafwq/). If you don't have a SeaTable account yet, you can [register for free]({{< relref "pages/registration" >}}). Give it a try!
+Have the advantages of a cost-benefit analysis convinced you? Then you will find the corresponding template [here]({{< relref "templates/finance/cost-benefit-analysis" >}}). If you don't have a SeaTable account yet, you can [register for free]({{< relref "pages/registration" >}}). Give it a try!

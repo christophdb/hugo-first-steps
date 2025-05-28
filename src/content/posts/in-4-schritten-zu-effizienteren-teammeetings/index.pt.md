@@ -39,7 +39,7 @@ Com SeaTable tem a possibilidade de evitar este problema: O nosso software é t�
 
 A nossa solução de software começa com a agenda e permite uma gestão abrangente e estruturada de compromissos e dados. Também é utilizada para a documentação e o acompanhamento das reuniões. Em seguida, explicamos exatamente como utilizar o nosso modelo personalizado e quais as funcionalidades que o esperam.
 
-[Clique aqui para ir diretamente para o modelo de reunião de equipa](https://seatable.io/pt/vorlage/gumqbevcroszpprj6j4xyg/)
+[Clique aqui para ir diretamente para o modelo de reunião de equipa]({{< relref "templates/projects/team-meetings" >}})
 
 Nas reuniões, é importante planear o conteúdo a discutir com bastante antecedência. Sem preparar o conteúdo, a reunião é aleatória, caótica e também inútil, porque o objetivo das reuniões não é apenas chegar a um acordo mútuo, mas também fazer progressos nos projectos. Devem ser tomadas decisões que produzam resultados. Se isso não acontecer, então a reunião falhou completamente o seu objetivo.
 
@@ -107,4 +107,4 @@ A segunda regra é uma notificação de lembrete definida com um prazo. Um dia a
 
 Como se pode ver: Com o SeaTable, organizar e conduzir reuniões não é um truque de magia. A preparação óptima é conseguida através de regras de notificação, vistas personalizadas, função de chat e a agenda, enquanto a agenda convida ao trabalho colaborativo durante a execução. Para acompanhamento, todos os detalhes importantes são listados e guardados na Base, para que tudo possa ser rastreado e lido em qualquer altura. Nunca mais faltará a uma reunião!
 
-[Teste](https://seatable.io/pt/vorlage/gumqbevcroszpprj6j4xyg/) hoje o [nosso modelo](https://seatable.io/pt/vorlage/gumqbevcroszpprj6j4xyg/) e [registe-se]({{< relref "pages/registration" >}}) completamente sem custos.
+[Teste]({{< relref "templates/projects/team-meetings" >}}) hoje o [nosso modelo]({{< relref "templates/projects/team-meetings" >}}) e [registe-se]({{< relref "pages/registration" >}}) completamente sem custos.

@@ -102,4 +102,4 @@ seo:
 
 ![Шаблон для создания аварийного запаса](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
 
-Если вы хотите использовать SeaTable для создания запасов, просто [зарегистрируйтесь]({{< relref "pages/registration" >}}) бесплатно. Соответствующий шаблон можно найти [здесь](https://seatable.io/ru/vorlage/xd246xzxtnuset-pxi0xsa/).
+Если вы хотите использовать SeaTable для создания запасов, просто [зарегистрируйтесь]({{< relref "pages/registration" >}}) бесплатно. Соответствующий шаблон можно найти [здесь]({{< relref "templates/everyday-life/shopping-list" >}}).

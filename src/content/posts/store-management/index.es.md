@@ -12,7 +12,7 @@ seo:
 
 Con la apertura de nuevos locales, no sólo crece el volumen de negocio, sino también el esfuerzo organizativo. Ahora es importante mantener una visión general. Nuestra plantilla de gestión de tiendas le ayuda con las siguientes preguntas: ¿Dónde están sus sucursales de mayor volumen de negocio? ¿Qué tiendas necesitan más atención porque no han alcanzado el volumen de negocio previsto? ¿Dónde se necesita nuevo personal y cuál es la calidad de su personal contratado? ¿Qué empleados podrían utilizar qué formación?
 
-Además, su equipo de ventas también se enfrenta a nuevos retos: Hay más sucursales que deben ser auditadas a intervalos regulares. Esto significa más citas y una demanda creciente. Necesita trabajar de forma estructurada y simplificar los procesos con la ayuda de nuestra [solución de gestión de tiendas](https://seatable.io/es/vorlage/d6nlvef8ram9wwbkjhziwa/).
+Además, su equipo de ventas también se enfrenta a nuevos retos: Hay más sucursales que deben ser auditadas a intervalos regulares. Esto significa más citas y una demanda creciente. Necesita trabajar de forma estructurada y simplificar los procesos con la ayuda de nuestra [solución de gestión de tiendas]({{< relref "templates/sales/store-management" >}}).
 
 ## SeaTable como herramienta de organización para la gestión de su tienda
 
@@ -20,7 +20,7 @@ Hay muchas cosas que hay que tener en cuenta en la gestión de una tienda. Nuest
 
 El complemento de la línea de tiempo también muestra todas las próximas citas. Por último, pero no menos importante, nuestra Plantilla de Gestión de Tiendas también le ayuda a ordenar y hacer un seguimiento de todos los materiales del punto de venta en todas las sucursales. A continuación, explicaremos cómo está estructurada exactamente la plantilla y cómo puede utilizarla.
 
-[Haga clic aquí para ir directamente a nuestra plantilla](https://seatable.io/es/vorlage/d6nlvef8ram9wwbkjhziwa/)
+[Haga clic aquí para ir directamente a nuestra plantilla]({{< relref "templates/sales/store-management" >}})
 
 ## Mantener una visión general de todas las sucursales y sus empleados
 
@@ -38,7 +38,7 @@ Nuestra tercera base "Formación" le ofrece una visión general de las distintas
 
 A continuación, se introducen todos los empleados que van a participar en la formación a través de una columna vinculada. Si un curso está completo, puede marcarlo en la siguiente columna. Después, la fila cambiará de color de verde a rojo, para que pueda ver directamente qué formaciones están aún disponibles y cuáles están ya totalmente reservadas para esa fecha. Por último, pero no menos importante, puede marcar la casilla si todos los empleados están inscritos en la formación correspondiente.
 
-Si su gestión de recursos humanos es cada vez más compleja y el número de formaciones crece, le recomendamos [esta plantilla](https://seatable.io/es/vorlage/kfsupdwhs9g5kgyqjemsea/). Aquí, todo gira en torno a la formación continua y los talleres internos.
+Si su gestión de recursos humanos es cada vez más compleja y el número de formaciones crece, le recomendamos [esta plantilla]({{< relref "templates/human-resources/workshop-planner" >}}). Aquí, todo gira en torno a la formación continua y los talleres internos.
 
 ## Mantenga una visión general de sus ventas
 
@@ -122,4 +122,4 @@ Puede utilizar las Reglas de Notificación para definir la configuración de las
 
 ## La gestión de la tienda es más fácil con SeaTable
 
-Lleve su flujo de trabajo al siguiente nivel. Puede encontrar nuestra plantilla de gestión de tiendas [aquí](https://seatable.io/es/vorlage/d6nlvef8ram9wwbkjhziwa/). Regístrese ahora y empiece a utilizar su nueva plantilla de forma gratuita.
+Lleve su flujo de trabajo al siguiente nivel. Puede encontrar nuestra plantilla de gestión de tiendas [aquí]({{< relref "templates/sales/store-management" >}}). Regístrese ahora y empiece a utilizar su nueva plantilla de forma gratuita.

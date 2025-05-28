@@ -77,4 +77,4 @@ seo:
 
 ![Создайте индивидуальный план уборки в SeaTable.](images/Putzplan.png)
 
-Если Вы хотите использовать SeaTable для создания своего индивидуального плана очистки, просто [зарегистрируйтесь]({{< relref "pages/registration" >}}) бесплатно. Соответствующий шаблон можно найти [здесь](https://seatable.io/ru/vorlage/a5nogkchqiifwjettvs4ha/).
+Если Вы хотите использовать SeaTable для создания своего индивидуального плана очистки, просто [зарегистрируйтесь]({{< relref "pages/registration" >}}) бесплатно. Соответствующий шаблон можно найти [здесь]({{< relref "templates/everyday-life/cleaning-plan" >}}).

@@ -2,8 +2,8 @@
 title: 'Inventar erstellen – so behalten Sie den Überblick!'
 description: 'Sie führen jedes Jahr oder sogar jeden Monat eine Inventur durch? Dann sind Sie hier genau richtig! In diesem Artikel erfahren Sie, wie Sie Ihre Inventarliste erstellen, den Prozess standardisieren und Ihre Inventur vereinfachen können.'
 seo:
-    title: "Inventarliste erstellen – Bestände präzise erfassen"
-    description: "Erfassen Sie Ihr Geschäftsinventar präzise! Sichern Sie sich volle Kontrolle über Ihre Vermögenswerte und optimieren Unternehmensprozesse"
+    title: 'Inventarliste erstellen – Bestände präzise erfassen'
+    description: 'Erfassen Sie Ihr Geschäftsinventar präzise! Sichern Sie sich volle Kontrolle über Ihre Vermögenswerte und optimieren Unternehmensprozesse'
 date: 2024-02-23
 lastmod: '2025-01-10'
 author: 'kgr'
@@ -129,7 +129,7 @@ Für größere Unternehmen mit vielen Gegenständen und komplexeren Anwendungsf�
 
 ## Eine Inventarliste erstellen mit SeaTable
 
-Die No-Code-Datenbank-Software **SeaTable** hält bereits eine [Inventarliste Vorlage](https://seatable.io/vorlage/nwkbq-cmrxmcxv1k0sxoaw/) für Sie bereit. Um diese **kostenlos zu nutzen**, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach mit Ihrer E-Mail-Adresse und legen einen Account an. Sind Sie eingeloggt, fahren Sie wie folgt fort:
+Die No-Code-Datenbank-Software **SeaTable** hält bereits eine [Inventarliste Vorlage]({{< relref "templates/operations/inventory-list" >}}) für Sie bereit. Um diese **kostenlos zu nutzen**, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach mit Ihrer E-Mail-Adresse und legen einen Account an. Sind Sie eingeloggt, fahren Sie wie folgt fort:
 
 1. Fügen Sie die Vorlage als **neue Base** auf Ihrer Startseite hinzu. Wie das geht, erfahren Sie [in dieser Anleitung](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
 2. Klicken Sie die Base an, um sie zu **öffnen**.

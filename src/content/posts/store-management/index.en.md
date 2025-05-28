@@ -13,7 +13,7 @@ seo:
 
 With the opening of new locations, not only the turnover grows, but also the organisational effort. Now it is important to keep an overview. Our Store Management Template helps you with the following questions: Where are your highest-turnover branches? Which shops need more attention because they have not reached the projected turnover? Where are new staff needed and what is the quality of your recruited staff? Which employees could use which training?
 
-In addition, your sales team is also confronted with new challenges: There are more branches that need to be audited at regular intervals. This means more appointments and growing demand. You need to work in a structured way and simplify processes with the help of our [store management solution](https://seatable.io/en/vorlage/d6nlvef8ram9wwbkjhziwa/).
+In addition, your sales team is also confronted with new challenges: There are more branches that need to be audited at regular intervals. This means more appointments and growing demand. You need to work in a structured way and simplify processes with the help of our [store management solution]({{< relref "templates/sales/store-management" >}}).
 
 ## SeaTable as an organisational tool for your store management
 
@@ -21,7 +21,7 @@ There are a lot of things to consider in store management. Our software solution
 
 The timeline plug-in also displays all upcoming appointments. Last but not least, our Store Management Template also helps you to order and keep track of all POS materials in all branches. In the following, we will explain how exactly the template is structured and how you can use it.
 
-[Click here to go directly to our template](https://seatable.io/en/vorlage/d6nlvef8ram9wwbkjhziwa/)
+[Click here to go directly to our template]({{< relref "templates/sales/store-management" >}})
 
 ## Maintain an overview of all branch locations and their employees
 
@@ -39,7 +39,7 @@ Our third base "Trainings" provides you with an overview of the various needs of
 
 Next, all employees who are to participate in the training are entered through a linked column. If a training is fully booked, you can place a tick in the next column. Afterwards, the row will change colour from green to red, so you can see directly which trainings are still available and which are already fully booked for this date. Last but not least, you can tick the box if all employees are registered for the respective training.
 
-If your human resource management is becoming more complex and the number of trainings is growing, we can recommend [this template](https://seatable.io/en/vorlage/kfsupdwhs9g5kgyqjemsea/). Here, everything revolves around further training and internal workshops.
+If your human resource management is becoming more complex and the number of trainings is growing, we can recommend [this template]({{< relref "templates/human-resources/workshop-planner" >}}). Here, everything revolves around further training and internal workshops.
 
 ## Keep an overview of your sales
 
@@ -123,4 +123,4 @@ You can use the Notification Rules to define settings for notifications at certa
 
 ## Store management made easy with SeaTable
 
-Take your workflow to the next level. You can find our store management template [here](https://seatable.io/en/vorlage/d6nlvef8ram9wwbkjhziwa/). Register now and get started with your new template for free!
+Take your workflow to the next level. You can find our store management template [here]({{< relref "templates/sales/store-management" >}}). Register now and get started with your new template for free!

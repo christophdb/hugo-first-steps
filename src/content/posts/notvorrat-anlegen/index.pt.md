@@ -102,4 +102,4 @@ Para que esteja idealmente preparado para a próxima situação de emergência, 
 
 ![Modelo para a sua reserva de emergência](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
 
-Se pretender utilizar o SeaTable para a constituição de reservas, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente [aqui](https://seatable.io/pt/vorlage/xd246xzxtnuset-pxi0xsa/).
+Se pretender utilizar o SeaTable para a constituição de reservas, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente [aqui]({{< relref "templates/everyday-life/shopping-list" >}}).

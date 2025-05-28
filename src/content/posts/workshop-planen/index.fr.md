@@ -41,7 +41,7 @@ La planification, l’organisation et la gestion d’ateliers peuvent rapidement
 
 Avec SeaTable, vous avez toujours une vue d'ensemble de vos ateliers et de vos formations et vous rassemblez toutes les informations en un point central. Vous gérez non seulement vos ateliers, mais aussi les coachs ainsi que les inscriptions et le feedback des participants.
 
-[Le modèle que nous vous proposons gratuitement](https://seatable.io/fr/modele/kfsupdwhs9g5kgyqjemsea/) contient quatre tableaux différents qui couvrent les principaux processus de planification d'un atelier.
+[Le modèle que nous vous proposons gratuitement]({{< relref "templates/human-resources/workshop-planner" >}}) contient quatre tableaux différents qui couvrent les principaux processus de planification d'un atelier.
 
 ## Définir le groupe cible et déterminer les besoins
 
@@ -111,4 +111,4 @@ Vous pouvez facilement **évaluer** les commentaires recueillis dans SeaTable, p
 
 Avec SeaTable, vous pouvez représenter chaque processus lié à la planification d'un atelier et gérer toutes les données sans effort. L'objectif est toujours d'être le plus efficace possible pour vous, vos collaborateurs et les autres personnes concernées. D'autres tableaux et processus sont également envisageables, que vous pouvez compléter de manière flexible en fonction de vos besoins, comme par exemple la réservation de salles de réunion ou un inventaire de votre matériel.
 
-[Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement dès aujourd’hui et essayez notre [modèle](https://seatable.io/fr/modele/kfsupdwhs9g5kgyqjemsea/) tout de suite ! Les fonctions peuvent être utilisées pour une variété d’autres cas d’utilisation.
+[Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement dès aujourd’hui et essayez notre [modèle]({{< relref "templates/human-resources/workshop-planner" >}}) tout de suite ! Les fonctions peuvent être utilisées pour une variété d’autres cas d’utilisation.

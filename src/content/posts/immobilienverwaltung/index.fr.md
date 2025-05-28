@@ -31,7 +31,7 @@ Gestion des biens immobiliers avec SeaTable
 
 Aujourd'hui encore, les biens immobiliers et toutes les informations qui s'y rapportent, comme les locataires, les ordres de réparation, les factures, les paiements reçus, etc. sont souvent gérés à l'aide de feuilles de calcul Excel. Épargnez-vous cette tâche fastidieuse et commencez dès aujourd'hui avec SeaTable.
 
-Notre [modèle de gestion immobilière](https://seatable.io/fr/modele/ufyf6scpsgucxv8y0g9asw/) vous permet de centraliser toutes les informations dans une base de données. Saisissez les données, les photos et les plans de vos biens immobiliers, rappelez aux locataires en retard par e-mail s'il n'y a pas de rentrée d'argent et documentez tous les travaux d'entretien et de réparation dans un tableau clair.
+Notre [modèle de gestion immobilière]({{< relref "templates/real-estate/property-management" >}}) vous permet de centraliser toutes les informations dans une base de données. Saisissez les données, les photos et les plans de vos biens immobiliers, rappelez aux locataires en retard par e-mail s'il n'y a pas de rentrée d'argent et documentez tous les travaux d'entretien et de réparation dans un tableau clair.
 
 ## Maintenez vos biens immobiliers en ordre et coordonnez les services de conciergerie
 
@@ -39,7 +39,7 @@ Notre [modèle de gestion immobilière](https://seatable.io/fr/modele/ufyf6scpsg
 
 Coordonner les services de conciergerie avec SeaTable
 
-Dans tout bâtiment, il arrive que quelque chose se casse. Vous ne pouvez pas y remédier. Mais ce que vous pouvez changer, c'est que le processus de réparation se déroule de manière efficace - grâce à notre [modèle de conciergerie](https://seatable.io/fr/modele/og4b3ghdrlippbkd3itqfg/).
+Dans tout bâtiment, il arrive que quelque chose se casse. Vous ne pouvez pas y remédier. Mais ce que vous pouvez changer, c'est que le processus de réparation se déroule de manière efficace - grâce à notre [modèle de conciergerie]({{< relref "templates/real-estate/janitorial-services" >}}).
 
 Avec SeaTable, vous permettez aux habitants de l'immeuble de soumettre facilement des demandes de réparation via un [formulaire web](https://seatable.io/fr/docs/handbuch/seatable-nutzen/webformulare/). Vous êtes automatiquement informé par e-mail des nouveaux dommages et problèmes signalés et pouvez attribuer la réparation au concierge, à l'artisan ou à l'employé approprié. Celui-ci reçoit toutes les informations nécessaires et peut documenter la réparation directement sur place dans son application SeaTable. Les heures de travail et les consommables nécessaires peuvent être facilement documentés.
 
@@ -53,7 +53,7 @@ Recherche de logement avec SeaTable - Ne laissez rien au hasard.
 
 Il est bien connu que la recherche d'un nouveau logement est difficile, surtout dans les agglomérations. Souvent, l'offre de logements ne correspond pas aux souhaits individuels en termes de loyer, de situation, de pièces et d'équipement. Au plus tard après la cinquième visite, on commence en outre à perdre la vue d'ensemble des biens immobiliers. Notez donc tous les arguments pour et contre des logements que vous avez visités en un seul endroit, comparez certains critères comme le [rapport qualité-prix](https://de.wikipedia.org/wiki/Preis-Leistungs-Verhältnis) et vous constaterez qu'au final, votre décision sera plus facile à prendre.
 
-Notre [modèle de recherche de logement](https://seatable.io/fr/modele/ggr4kqd4quazbz6fivljgg/) vous permet de saisir de manière simple et structurée toutes les informations, données et documents relatifs aux logements. Enregistrez les photos, les plans, la surface habitable, le prix du loyer et tout ce que vous avez remarqué d'autre pendant la visite des biens immobiliers dans un tableau clair. Attribuez une note et prenez plus facilement, plus sûrement et plus rapidement la bonne décision.
+Notre [modèle de recherche de logement]({{< relref "templates/real-estate/apartment-hunting" >}}) vous permet de saisir de manière simple et structurée toutes les informations, données et documents relatifs aux logements. Enregistrez les photos, les plans, la surface habitable, le prix du loyer et tout ce que vous avez remarqué d'autre pendant la visite des biens immobiliers dans un tableau clair. Attribuez une note et prenez plus facilement, plus sûrement et plus rapidement la bonne décision.
 
 ## Commencez à planifier votre prochain déménagement
 
@@ -63,7 +63,7 @@ Votre prochaine planification de déménagement sera un jeu d'enfant avec SeaTab
 
 Chacun d'entre nous a déjà déménagé dans sa vie et sait à quel point un tel déménagement peut être angoissant. Au plus tard au bout de la troisième caisse emballée, on perd la vue d'ensemble de ce qui est emballé et où, et on s'embourbe dans des listes de choses à faire peu claires.
 
-Notre [modèle pour votre prochain déménagement](https://seatable.io/fr/modele/h3kzygydsysdrzun-h-fxq/) vous permettra de réduire considérablement votre niveau de stress. Le modèle vous aide à répertorier exactement ce que vous avez emballé et où, ainsi que la manière dont cela est passé de votre ancien à votre nouveau logement.
+Notre [modèle pour votre prochain déménagement]({{< relref "templates/real-estate/moving-plan" >}}) vous permettra de réduire considérablement votre niveau de stress. Le modèle vous aide à répertorier exactement ce que vous avez emballé et où, ainsi que la manière dont cela est passé de votre ancien à votre nouveau logement.
 
 En outre, notre modèle de déménagement propose une liste de choses à faire pour les autres activités qui doivent être effectuées à une date précise. Ainsi, vous n'oublierez pas d'établir la demande de réexpédition du courrier ou de résilier à temps les contrats relatifs à l'ancien bien immobilier. Faites-en l'expérience ! Le prochain déménagement ne manquera pas d'arriver.
 

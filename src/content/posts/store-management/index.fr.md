@@ -12,7 +12,7 @@ seo:
 
 Avec l'ouverture de nouveaux sites, non seulement le chiffre d'affaires augmente, mais aussi l'effort d'organisation. Il est maintenant important de garder une vue d'ensemble. Notre modèle de gestion de magasin vous aide à répondre aux questions suivantes : Où se trouvent vos succursales à forte rotation ? Quels sont les magasins qui nécessitent plus d'attention parce qu'ils n'ont pas atteint le chiffre d'affaires prévu ? Où avez-vous besoin de nouveau personnel et quelle est la qualité de votre personnel recruté ? Quels employés pourraient utiliser quelle formation ?
 
-En outre, votre équipe de vente est également confrontée à de nouveaux défis : Il y a plus de branches qui doivent être auditées à intervalles réguliers. Cela signifie plus de rendez-vous et une demande croissante. Vous devez travailler de manière structurée et simplifier les processus à l'aide de notre [solution de gestion des magasins](https://seatable.io/fr/modele/d6nlvef8ram9wwbkjhziwa/).
+En outre, votre équipe de vente est également confrontée à de nouveaux défis : Il y a plus de branches qui doivent être auditées à intervalles réguliers. Cela signifie plus de rendez-vous et une demande croissante. Vous devez travailler de manière structurée et simplifier les processus à l'aide de notre [solution de gestion des magasins]({{< relref "templates/sales/store-management" >}}).
 
 ## SeaTable comme outil d'organisation pour la gestion de votre magasin
 
@@ -20,7 +20,7 @@ Il y a beaucoup de choses à prendre en compte dans la gestion des magasins. Not
 
 Le plug-in de la ligne de temps affiche également tous les rendez-vous à venir. Enfin, notre modèle de gestion de magasin vous aide également à commander et à suivre tout le matériel de PLV dans toutes les succursales. Dans les lignes qui suivent, nous allons vous expliquer comment le modèle est structuré et comment vous pouvez l'utiliser.
 
-[Cliquez ici pour accéder directement à notre modèle](https://seatable.io/fr/modele/d6nlvef8ram9wwbkjhziwa/)
+[Cliquez ici pour accéder directement à notre modèle]({{< relref "templates/sales/store-management" >}})
 
 ## Maintenir une vue d'ensemble de toutes les succursales et de leurs employés.
 
@@ -38,7 +38,7 @@ Notre troisième base "Formations" vous donne un aperçu des différents besoins
 
 Ensuite, tous les employés qui doivent participer à la formation sont saisis dans une colonne liée. Si une formation est complète, vous pouvez cocher la colonne suivante. Ensuite, la ligne passera du vert au rouge, ce qui vous permettra de voir directement quelles formations sont encore disponibles et lesquelles sont déjà complètes pour cette date. Enfin, vous pouvez cocher la case si tous les employés sont inscrits à la formation correspondante.
 
-Si votre gestion des ressources humaines devient plus complexe et que le nombre de formations augmente, nous vous recommandons [ce modèle](https://seatable.io/fr/modele/kfsupdwhs9g5kgyqjemsea/). Ici, tout tourne autour de la formation continue et des ateliers internes.
+Si votre gestion des ressources humaines devient plus complexe et que le nombre de formations augmente, nous vous recommandons [ce modèle]({{< relref "templates/human-resources/workshop-planner" >}}). Ici, tout tourne autour de la formation continue et des ateliers internes.
 
 ## Gardez une vue d'ensemble de vos ventes
 
@@ -122,4 +122,4 @@ Vous pouvez utiliser les règles de notification pour définir les paramètres d
 
 ## La gestion des magasins facilitée par SeaTable
 
-Faites passer votre flux de travail au niveau supérieur. Vous pouvez trouver notre modèle de gestion de magasin [ici](https://seatable.io/fr/modele/d6nlvef8ram9wwbkjhziwa/). Inscrivez-vous maintenant et commencez à utiliser votre nouveau modèle gratuitement !
+Faites passer votre flux de travail au niveau supérieur. Vous pouvez trouver notre modèle de gestion de magasin [ici]({{< relref "templates/sales/store-management" >}}). Inscrivez-vous maintenant et commencez à utiliser votre nouveau modèle gratuitement !

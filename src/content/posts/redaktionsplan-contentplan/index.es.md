@@ -74,14 +74,14 @@ Defina los objetivos que desea alcanzar con el plan editorial. Son posibles, por
 - **Tráfico**: Más gente debería visitar su sitio web.
 - **Ventas**: quiere conseguir más clientes potenciales, suscriptores o clientes.
 - **Fidelización de clientes**: quiere reforzar la relación con sus clientes y animarles a que le recomienden a otros.
-- **Posición única**: quiere destacar [entre la competencia](https://seatable.io/es/vorlage/rv0aemhnqjufipzfycgc8w/) con sus contenidos.
+- **Posición única**: quiere destacar [entre la competencia]({{< relref "templates/marketing/competitor-analysis" >}}) con sus contenidos.
 - **Estatus de experto**: quiere hacerse un nombre en el sector y convertirse en un experto solicitado en un tema específico.
 
 Una vez definidos los objetivos, el siguiente paso es decidir los medios, tipos de contenido y formatos adecuados.
 
 ### 2\. seleccione el soporte, el tipo de contenido y el formato
 
-Los medios importantes para el marketing de contenidos suelen ser **su sitio web, blogs, motores de búsqueda, vídeo y plataformas de medios sociales** como YouTube, Instagram, TikTok y Facebook. ¿Qué tipo de contenido desea publicar? Elige entre **texto, imagen, audio, vídeo** o una mezcla de varios tipos de contenido. Los posibles formatos de contenido dependen del medio que elijas. Los formatos de contenido incluyen artículos de blog, vídeos de YouTube, [episodios de podcast](https://seatable.io/es/vorlage/rxubtabas8wf5e25egmotw/), publicaciones en redes sociales, presentaciones, seminarios web, libros blancos, infografías, boletines y mucho más.
+Los medios importantes para el marketing de contenidos suelen ser **su sitio web, blogs, motores de búsqueda, vídeo y plataformas de medios sociales** como YouTube, Instagram, TikTok y Facebook. ¿Qué tipo de contenido desea publicar? Elige entre **texto, imagen, audio, vídeo** o una mezcla de varios tipos de contenido. Los posibles formatos de contenido dependen del medio que elijas. Los formatos de contenido incluyen artículos de blog, vídeos de YouTube, [episodios de podcast]({{< relref "templates/marketing/podcast-editorial-calendar" >}}), publicaciones en redes sociales, presentaciones, seminarios web, libros blancos, infografías, boletines y mucho más.
 
 **Como norma general,** céntrese en dos o tres formatos en los que sea especialmente bueno o en los que le gustaría llegar a serlo. Estos formatos deben adaptarse a los hábitos de uso y las expectativas de su público objetivo.
 
@@ -111,7 +111,7 @@ Incluyen, por ejemplo, **cómo dirigirse a los lectores, la tonalidad de los tex
 
 ## Crear un plan de contenidos con SeaTable
 
-Con la [plantilla](https://seatable.io/es/vorlage/pohjjt9xttuc5t_xl_c19a/) gratuita [de plan de contenidos](https://seatable.io/es/vorlage/pohjjt9xttuc5t_xl_c19a/) de SeaTable, el equipo de marketing, los creadores de contenidos, las agencias y otras partes interesadas pueden trabajar juntos en una sola herramienta. **Puede organizar claramente y mantener fácilmente todos los contenidos de su plan editorial**. Se definen las responsabilidades y se distribuyen las tareas.
+Con la [plantilla]({{< relref "templates/marketing/editorial-plan" >}}) gratuita [de plan de contenidos]({{< relref "templates/marketing/editorial-plan" >}}) de SeaTable, el equipo de marketing, los creadores de contenidos, las agencias y otras partes interesadas pueden trabajar juntos en una sola herramienta. **Puede organizar claramente y mantener fácilmente todos los contenidos de su plan editorial**. Se definen las responsabilidades y se distribuyen las tareas.
 
 ### 1\. estructuración significativa con categorías
 

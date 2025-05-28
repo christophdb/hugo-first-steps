@@ -75,14 +75,14 @@ Legen Sie die Ziele fest, die Sie mit dem Redaktionsplan erreichen möchten. Mö
 - **Traffic**: Mehr Menschen sollen Ihre Webseite besuchen.
 - **Sales**: Sie möchten mehr Leads, Abonnenten oder Kunden gewinnen.
 - **Kundenbindung**: Sie möchten die Beziehung zu Ihren Kunden stärken und sie zu Weiterempfehlungen anregen.
-- **Alleinstellung**: Sie möchten sich über den Content [von der Konkurrenz abheben](https://seatable.io/vorlage/rv0aemhnqjufipzfycgc8w/).
+- **Alleinstellung**: Sie möchten sich über den Content [von der Konkurrenz abheben]({{< relref "templates/marketing/competitor-analysis" >}}).
 - **Expertenstatus**: Sie möchten sich in der Branche einen Namen machen und ein gefragter Experte zu einem bestimmten Thema werden.
 
 Nach der Definition der Ziele geht es darum, sich für die passenden Medien, Content-Arten und -Formate zu entscheiden.
 
 ### 2\. Medium, Content-Art und -Format wählen
 
-Wichtige Medien für das Content Marketing sind üblicherweise **Ihre Webseite, Blogs, Suchmaschinen, Video- und Social-Media-Plattformen** wie zum Beispiel YouTube, Instagram, TikTok und Facebook. Welche Art von Beiträgen möchten Sie veröffentlichen? Wählen Sie zwischen **Text, Bild, Audio, Video** oder einem Mix aus mehreren Content-Arten. Je nachdem, welches Medium Sie wählen, ergeben sich daraus die möglichen Content-Formate. Zu den Content-Formaten zählen Blogartikel, YouTube-Videos, [Podcast-Episoden](https://seatable.io/vorlage/rxubtabas8wf5e25egmotw/), Social-Media-Posts, Präsentationen, Webinare, White Paper, Infografiken, Newsletter und mehr.
+Wichtige Medien für das Content Marketing sind üblicherweise **Ihre Webseite, Blogs, Suchmaschinen, Video- und Social-Media-Plattformen** wie zum Beispiel YouTube, Instagram, TikTok und Facebook. Welche Art von Beiträgen möchten Sie veröffentlichen? Wählen Sie zwischen **Text, Bild, Audio, Video** oder einem Mix aus mehreren Content-Arten. Je nachdem, welches Medium Sie wählen, ergeben sich daraus die möglichen Content-Formate. Zu den Content-Formaten zählen Blogartikel, YouTube-Videos, [Podcast-Episoden]({{< relref "templates/marketing/podcast-editorial-calendar" >}}), Social-Media-Posts, Präsentationen, Webinare, White Paper, Infografiken, Newsletter und mehr.
 
 **Generell gilt:** Fokussieren Sie sich auf zwei bis drei Formate, in denen Sie besonders gut sind oder es werden möchten. Diese sollten auf die Nutzungsgewohnheiten und Erwartungen Ihrer Zielgruppe abgestimmt sein.
 
@@ -112,7 +112,7 @@ Hier geht es zum Beispiel um die **Anrede der Leser, Tonalität der Texte, Verwe
 
 ## Contentplan mit SeaTable erstellen
 
-Mit der kostenlosen [Contentplan Vorlage](https://seatable.io/vorlage/pohjjt9xttuc5t_xl_c19a/) von SeaTable können das Marketingteam, Content Creators, Agenturen und andere Beteiligte in einem Tool zusammenarbeiten. **In Ihrem Redaktionsplan können Sie alle Inhalte übersichtlich ordnen und leicht pflegen**. Zuständigkeiten werden festgelegt und Aufgaben verteilt.
+Mit der kostenlosen [Contentplan Vorlage]({{< relref "templates/marketing/editorial-plan" >}}) von SeaTable können das Marketingteam, Content Creators, Agenturen und andere Beteiligte in einem Tool zusammenarbeiten. **In Ihrem Redaktionsplan können Sie alle Inhalte übersichtlich ordnen und leicht pflegen**. Zuständigkeiten werden festgelegt und Aufgaben verteilt.
 
 ### 1\. Sinnvolle Strukturierung mit Kategorien
 

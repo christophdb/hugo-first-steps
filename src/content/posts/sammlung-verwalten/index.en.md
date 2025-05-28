@@ -67,7 +67,7 @@ Apart from general open source collection programs, there are a large number of 
 
 ## SeaTable: Manage collections with the power of a database
 
-[SeaTable](https://de.wikipedia.org/wiki/SeaTable), on the other hand, is a digital tool that does not originate from the collector sector, but is ideal for managing collections. Here you can create clear tables, assign labels, upload images and documents, manage contacts and record loans. The special feature of this solution is its web-based use: you do not need to install any software or app, but can simply log in to the website. In addition, your data is stored in certified German data centers. You can find the free template [here](https://seatable.io/en/vorlage/ebrr3endt7q2zfahahzihq/).
+[SeaTable](https://de.wikipedia.org/wiki/SeaTable), on the other hand, is a digital tool that does not originate from the collector sector, but is ideal for managing collections. Here you can create clear tables, assign labels, upload images and documents, manage contacts and record loans. The special feature of this solution is its web-based use: you do not need to install any software or app, but can simply log in to the website. In addition, your data is stored in certified German data centers. You can find the free template [here]({{< relref "templates/everyday-life/sneaker-collection" >}}).
 
 For example, if you collect shoes, your database in SeaTable could look like this:
 

@@ -24,7 +24,7 @@ Ao mesmo tempo, é normalmente prestada muito menos atenção à compra indirect
 
 O desafio em qualquer negócio é adquirir materiais indirectos de forma eficiente e rentável. Por um lado, os consumíveis tais como canetas, grãos de café e papel de impressora precisam de ser reordenados a tempo antes de serem esgotados. Estes são materiais de trabalho que estão sujeitos à procura diária e, por conseguinte, necessitam sempre de uma oferta. Por outro lado, alguns artigos têm de ser encomendados separadamente e a pedido, tais como computadores, auriculares ou cabos de TI que chocam com o ruído. A solução para um processo suave: uma organização central de todas as encomendas internas de bens via SeaTable!
 
-Com SeaTable tem todas as informações, produtos e encomendas importantes num só local. Aqui pode criar o seu próprio catálogo de produtos para as suas compras internas, fazer encomendas através de formulário web e executar encomendas com um clique. Não tem de começar do zero, mas pode começar directamente com o nosso [modelo](https://seatable.io/pt/vorlage/cZ9GFdImRsiJRyyTD_5T9A/) da área de Operações.
+Com SeaTable tem todas as informações, produtos e encomendas importantes num só local. Aqui pode criar o seu próprio catálogo de produtos para as suas compras internas, fazer encomendas através de formulário web e executar encomendas com um clique. Não tem de começar do zero, mas pode começar directamente com o nosso [modelo]({{< relref "templates/operations/indirect-procurement" >}}) da área de Operações.
 
 ## Compras indirectas: Manter a visão geral
 

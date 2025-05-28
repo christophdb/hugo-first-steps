@@ -102,4 +102,4 @@ Pour que vous soyez idéalement préparé à la prochaine situation d'urgence, l
 
 ![Modèle pour votre réserve d'urgence](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
 
-Si vous souhaitez utiliser SeaTable pour faire des réserves, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici](https://seatable.io/fr/modele/xd246xzxtnuset-pxi0xsa/).
+Si vous souhaitez utiliser SeaTable pour faire des réserves, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/everyday-life/shopping-list" >}}).

@@ -20,7 +20,7 @@ Para aumentar la satisfacción del cliente, hay que conocer su grado de satisfac
 
 Independientemente del método que elija, siempre necesitará una herramienta para recoger, medir y posteriormente evaluar las opiniones de los clientes. Este proceso debe ser sencillo y fácil de repetir en cualquier momento. Al mismo tiempo, la evaluación debe seguir siendo clara incluso con grandes cantidades de datos. Esta evaluación también suele denominarse _User Experience Research_ o _UX Research_.
 
-Con SeaTable, le ofrecemos la herramienta perfecta. SeaTable le ayuda a recopilar con [formularios web](https://seatable.io/es/docs/handbuch/datenmanagement/webformulare/) fáciles de compartir y a evaluar y priorizar las opiniones de los clientes con [funciones estadísticas](https://seatable.io/es/docs/handbuch/datenmanagement/statistiken/). Incluso hemos preparado una [plantilla](https://seatable.io/es/vorlage/wcmmq-i4qp-euwa7zh52sg/) para darle un poco de inspiración inicial, que puede utilizar para completar los tres pasos siguientes. Eche un vistazo.
+Con SeaTable, le ofrecemos la herramienta perfecta. SeaTable le ayuda a recopilar con [formularios web](https://seatable.io/es/docs/handbuch/datenmanagement/webformulare/) fáciles de compartir y a evaluar y priorizar las opiniones de los clientes con [funciones estadísticas](https://seatable.io/es/docs/handbuch/datenmanagement/statistiken/). Incluso hemos preparado una [plantilla]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para darle un poco de inspiración inicial, que puede utilizar para completar los tres pasos siguientes. Eche un vistazo.
 
 ## Paso 1: Recopilar datos sobre la satisfacción del cliente
 
@@ -36,7 +36,7 @@ Normalmente, también se pregunta por qué se ha seleccionado el valor respectiv
 
 ![Un cuestionario NPS con SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-form-seatable.png)
 
-Un cuestionario NPS creado con SeaTable. Pruebe nuestra [plantilla N](https://seatable.io/es/vorlage/wcmmq-i4qp-euwa7zh52sg/) PS.
+Un cuestionario NPS creado con SeaTable. Pruebe nuestra [plantilla N]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) PS.
 
 ### Cálculo del NPS (Net Promoter Score)
 
@@ -144,4 +144,4 @@ Sólo una empresa que se toma en serio los deseos de sus clientes puede tener é
 
 Tenga cuidado de no perder de vista las cuestiones importantes por culpa de toda la información. Por tanto, priorice la información y deduzca de ella opciones de actuación. Dedica tiempo a tratar los [comentarios negativos](https://seatable.io/es/negatives-kundenfeedback/).
 
-Si desea mejorar permanentemente la experiencia de usuario de sus clientes, pruebe SeaTable. SeaTable le proporciona las [herramientas necesarias](https://seatable.io/es/vorlage/wcmmq-i4qp-euwa7zh52sg/) para aumentar la satisfacción de sus clientes. No espere a mañana, establezca hoy mismo un proceso fijo para medir la satisfacción de sus clientes.
+Si desea mejorar permanentemente la experiencia de usuario de sus clientes, pruebe SeaTable. SeaTable le proporciona las [herramientas necesarias]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para aumentar la satisfacción de sus clientes. No espere a mañana, establezca hoy mismo un proceso fijo para medir la satisfacción de sus clientes.

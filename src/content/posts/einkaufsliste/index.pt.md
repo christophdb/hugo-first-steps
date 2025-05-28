@@ -166,7 +166,7 @@ A aplicação de notas como uma lista de compras
 
 ### 7 SeaTable
 
-O SeaTable oferece um [modelo](https://seatable.io/pt/vorlage/rw6cogmdrjyl-j0w3sjraw/) que complementa a típica lista de compras com muitas outras funções. Aqui pode não só **assinalar** os seus artigos, mas também introduzir **receitas** e carregar **fotografias**.
+O SeaTable oferece um [modelo]({{< relref "templates/everyday-life/shopping-list" >}}) que complementa a típica lista de compras com muitas outras funções. Aqui pode não só **assinalar** os seus artigos, mas também introduzir **receitas** e carregar **fotografias**.
 
 A lista de compras digital / aplicação também o ajuda a controlar melhor os aspectos financeiros das suas compras. Por exemplo, pode atribuir produtos a categorias ou lojas específicas e **registar os preços**, que são somados para cada supermercado e compra. Com a ajuda das **estatísticas** integradas, pode ter uma visão clara das suas despesas.
 

@@ -169,4 +169,4 @@ To make your next move as stress-free as possible, the SeaTable team has created
 
 ![Relocation plan](images/Umzugsplan.png)
 
-If you want to use SeaTable for your relocation planning, just [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here](https://seatable.io/en/vorlage/h3kzygydsysdrzun-h-fxq/).
+If you want to use SeaTable for your relocation planning, just [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here]({{< relref "templates/real-estate/moving-plan" >}}).

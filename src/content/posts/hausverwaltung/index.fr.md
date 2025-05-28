@@ -122,7 +122,7 @@ Un **logiciel de gestion immobilière** doit être performant. Posez-vous les qu
 - Organiser les tâches et les rendez-vous (par exemple, les visites d'appartements) ?
 - sauvegarder des documents importants tels que des contrats et des décomptes de frais d'exploitation ?
 
-Le [modèle de gestion immobilière](https://seatable.io/fr/modele/ufyf6scpsgucxv8y0g9asw/) SeaTable vous permet de gérer facilement toutes ces questions relatives à vos biens immobiliers. Enregistrez facilement les documents contractuels, les factures, les protocoles de transfert, les plans et les photos dans votre base de données SeaTable.
+Le [modèle de gestion immobilière]({{< relref "templates/real-estate/property-management" >}}) SeaTable vous permet de gérer facilement toutes ces questions relatives à vos biens immobiliers. Enregistrez facilement les documents contractuels, les factures, les protocoles de transfert, les plans et les photos dans votre base de données SeaTable.
 
 ![Saisissez les photos et les données de vos biens immobiliers](https://seatable.io/wp-content/uploads/2023/11/steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
 

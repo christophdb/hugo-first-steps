@@ -47,7 +47,7 @@ Eine gut organisierte Übersicht erleichtert nicht nur den Arbeitsprozess sonder
 
 ## Produktmanagement mit SeaTable
 
-Sammeln Sie ganz einfach alle Daten an einem Ort: Mit SeaTable. [Unser Template für das Produktmanagement](https://seatable.io/vorlage/mo8j3bg_qqkig0v-xx2fmq/) ist aus mehreren Tabellenblättern aufgebaut. Zunächst gibt es eine generelle Produktübersicht, gefolgt von einem spezifischen Produktdatenblatt. Ebenso wichtig sind zu den Produktinformationen auch die Kontaktdaten von Zulieferern und externen Mitarbeitern. Nicht zu vergessen: Zahlen wie etwa Umsätze des Produkts können mit SeaTable hervorragend gesammelt und ausgewertet werden. Selbstverständlich ist unser Template flexibel an Ihre Bedürfnisse und die Ihres Produktes anpassbar.
+Sammeln Sie ganz einfach alle Daten an einem Ort: Mit SeaTable. [Unser Template für das Produktmanagement]({{< relref "templates/product-design/product-library" >}}) ist aus mehreren Tabellenblättern aufgebaut. Zunächst gibt es eine generelle Produktübersicht, gefolgt von einem spezifischen Produktdatenblatt. Ebenso wichtig sind zu den Produktinformationen auch die Kontaktdaten von Zulieferern und externen Mitarbeitern. Nicht zu vergessen: Zahlen wie etwa Umsätze des Produkts können mit SeaTable hervorragend gesammelt und ausgewertet werden. Selbstverständlich ist unser Template flexibel an Ihre Bedürfnisse und die Ihres Produktes anpassbar.
 
 ### 1\. Generelle Produktübersicht
 
@@ -85,4 +85,4 @@ Sortieren Sie Verkaufszahlen nach Regionen
 
 Statistiken geben wertvolle Informationen über die Verkaufszahlen Ihres Produkts
 
-Der Produktentwicklungsprozess im Produktmanagement ist nicht zu unterschätzen. Dabei müssen sehr viele Posten berücksichtigt werden. Um nicht den Überblick zu verlieren, bieten wir mit unserem SeaTable Produktmanagement Template eine hervorragende Möglichkeit, direkt organisiert und strukturiert in eine neue Art des Produktmanagements zu starten. Erleben Sie einfache Prozesse und effiziente Datensammlung – einfach [hier das Template downloaden](https://seatable.io/vorlage/mo8j3bg_qqkig0v-xx2fmq/) und loslegen!
+Der Produktentwicklungsprozess im Produktmanagement ist nicht zu unterschätzen. Dabei müssen sehr viele Posten berücksichtigt werden. Um nicht den Überblick zu verlieren, bieten wir mit unserem SeaTable Produktmanagement Template eine hervorragende Möglichkeit, direkt organisiert und strukturiert in eine neue Art des Produktmanagements zu starten. Erleben Sie einfache Prozesse und effiziente Datensammlung – einfach [hier das Template downloaden]({{< relref "templates/product-design/product-library" >}}) und loslegen!

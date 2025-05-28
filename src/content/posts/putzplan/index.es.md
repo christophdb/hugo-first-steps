@@ -77,4 +77,4 @@ Hay mucho que planificar cuando se trata de las tareas domésticas, sobre todo s
 
 ![Cree un plan de limpieza individual en SeaTable.](images/Putzplan.png)
 
-Si desea utilizar SeaTable para crear su plan de limpieza individual, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí](https://seatable.io/es/vorlage/a5nogkchqiifwjettvs4ha/) encontrará la plantilla correspondiente.
+Si desea utilizar SeaTable para crear su plan de limpieza individual, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/everyday-life/cleaning-plan" >}}) encontrará la plantilla correspondiente.

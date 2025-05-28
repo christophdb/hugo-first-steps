@@ -18,7 +18,7 @@ Atualmente, nada facilita mais o tratamento de dados do que as possibilidades da
 
 ### Facilite a marcação de compromissos para si e para os seus clientes!
 
-O SeaTable oferece uma solução simples e poderosa neste domínio. Com os nossos formulários Web, que pode ter utilizado até agora para [inquéritos aos clientes](https://seatable.io/pt/vorlage/ku9n1tyosmmho-8trn7rdg/), também pode criar facilmente sistemas de marcação de consultas em linha. As marcações definidas aparecem automaticamente na sua tabela e pode ver rapidamente quais as marcações que devem ser efectuadas.
+O SeaTable oferece uma solução simples e poderosa neste domínio. Com os nossos formulários Web, que pode ter utilizado até agora para [inquéritos aos clientes]({{< relref "templates/marketing/customer-feedback" >}}), também pode criar facilmente sistemas de marcação de consultas em linha. As marcações definidas aparecem automaticamente na sua tabela e pode ver rapidamente quais as marcações que devem ser efectuadas.
 
 A criação deste sistema de marcação de consultas é garantidamente efectuada em menos de 30 minutos sem qualquer conhecimento prévio! De seguida, explicamos passo a passo a criação de um sistema digital de marcação de consultas no SeaTable. Isto significa que já não precisa de um software de marcação de consultas como o [Calendly](https://calendly.com/de/).
 
@@ -30,7 +30,7 @@ Para criar um sistema de marcação de consultas no SeaTable, utilizaremos a [fu
 
 ## Criar as suas duas tabelas necessárias
 
-Precisa de duas bases para o seu sistema de marcação de consultas em linha. Pode inserir estas duas tabelas numa base SeaTable existente ou criar uma nova base. Naturalmente, também pode [copiar os nossos modelos prontos **aqui**](https://seatable.io/pt/vorlage/m1su2sncqwmgwfxs1x_jza/) e adaptá-los às suas necessidades, se necessário.
+Precisa de duas bases para o seu sistema de marcação de consultas em linha. Pode inserir estas duas tabelas numa base SeaTable existente ou criar uma nova base. Naturalmente, também pode [copiar os nossos modelos prontos **aqui**]({{< relref "templates/sales/appointment-booking" >}}) e adaptá-los às suas necessidades, se necessário.
 
 Na **primeira base** (Meeting Availability), são introduzidas todas as nomeações nas quais está livremente disponível. A **segunda base** (Agenda de Reuniões) contém todas as reuniões ou compromissos que já foram reservados pelos seus clientes através dos formulários. Aparecem automaticamente na tabela depois de o formulário ter sido submetido.
 
@@ -84,6 +84,6 @@ Pode configurar um mecanismo de notificação automática nas definições de no
 
 ## Enorme poupança de tempo graças ao sistema de marcação de consultas altamente flexível da SeaTable
 
-Pode ajustar o seu formulário em qualquer altura se verificar que faltam informações importantes. Depois de um participante ter submetido as suas informações, estas aparecem imediatamente na tabela "Meeting Schedule". Em apenas alguns passos, criou um sistema de marcação de reuniões simples e descomplicado que recolhe automaticamente todas as informações relevantes num único local. Planear as marcações torna-se uma brincadeira de crianças! [O nosso modelo](https://seatable.io/pt/vorlage/m1su2sncqwmgwfxs1x_jza/) pode ajudá-lo a estruturar o seu sistema de marcação de reuniões.
+Pode ajustar o seu formulário em qualquer altura se verificar que faltam informações importantes. Depois de um participante ter submetido as suas informações, estas aparecem imediatamente na tabela "Meeting Schedule". Em apenas alguns passos, criou um sistema de marcação de reuniões simples e descomplicado que recolhe automaticamente todas as informações relevantes num único local. Planear as marcações torna-se uma brincadeira de crianças! [O nosso modelo]({{< relref "templates/sales/appointment-booking" >}}) pode ajudá-lo a estruturar o seu sistema de marcação de reuniões.
 
 No [nosso tutorial do YouTube](https://www.youtube.com/watch?v=7Kgzeld0kDM), voltámos a explicar em pormenor como criar um formulário Web com o SeaTable. Isto pode ser facilmente transferido para um sistema de marcação de consultas - [experimente-o]({{< relref "pages/registration" >}}) hoje mesmo!

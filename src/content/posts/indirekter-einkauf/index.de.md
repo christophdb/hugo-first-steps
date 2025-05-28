@@ -25,7 +25,7 @@ Gleichzeitig wird dem indirekten Einkauf üblicherweise viel weniger Aufmerksamk
 
 Die Herausforderung in jedem Unternehmen ist es, dass indirekte Material effizient und kostengünstig zu beschaffen. Zum einen müssen Verbrauchsgegenstände wie Stifte, Kaffeebohnen und Druckerpapier rechtzeitig nachbestellt werden, bevor sie verbraucht sind. Das sind Arbeitsmittel, die dem täglichen Bedarf unterliegen und daher immer einen Vorrat benötigen. Zum anderen müssen manche Posten separat und auf Anfrage bestellt werden, wie zum Beispiel Computer, Noise Cancelling Earphones oder EDV Kabel. Die Lösung für einen reibungslosen Prozess: Eine zentrale Büroorganisation aller interner Warenbestellungen über SeaTable!
 
-Mit SeaTable haben Sie alle wichtigen Informationen, Produkte und Bestellungen an einem Ort. Hier erstellen Sie einen eigenen Produktkatalog für Ihren internen Einkauf, nehmen Bestellungen via Webformular auf und führen Bestellungen mit einem Klick aus. Sie müssen dabei nicht bei null anfangen, sondern können direkt mit unserem [Template](https://seatable.io/vorlage/cZ9GFdImRsiJRyyTD_5T9A/) aus dem Bereich Operations starten.
+Mit SeaTable haben Sie alle wichtigen Informationen, Produkte und Bestellungen an einem Ort. Hier erstellen Sie einen eigenen Produktkatalog für Ihren internen Einkauf, nehmen Bestellungen via Webformular auf und führen Bestellungen mit einem Klick aus. Sie müssen dabei nicht bei null anfangen, sondern können direkt mit unserem [Template]({{< relref "templates/operations/indirect-procurement" >}}) aus dem Bereich Operations starten.
 
 ## Indirekter Einkauf: Behalten Sie die Übersicht
 

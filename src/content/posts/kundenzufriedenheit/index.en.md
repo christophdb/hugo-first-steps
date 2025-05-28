@@ -21,7 +21,7 @@ To be able to increase customer satisfaction, you need to know about current cus
 
 No matter which method you choose, you always need a tool to collect, measure and subsequently evaluate customer feedback. This process should be uncomplicated and easy to repeat at any time. At the same time, the evaluation must remain clear even with large amounts of data. This evaluation is often also called _User Experience Research_ or _UX Research_.
 
-With SeaTable, we give you the perfect tool. SeaTable helps you collect with easy-to-share [web forms](https://seatable.io/en/docs/handbuch/datenmanagement/webformulare/) and evaluate and prioritize customer feedback with [statistics features](https://seatable.io/en/docs/handbuch/datenmanagement/statistiken/). We've even prepared a [template](https://seatable.io/en/vorlage/wcmmq-i4qp-euwa7zh52sg/) to give you some initial inspiration, which you can use to complete the following three steps. Just take a look.
+With SeaTable, we give you the perfect tool. SeaTable helps you collect with easy-to-share [web forms](https://seatable.io/en/docs/handbuch/datenmanagement/webformulare/) and evaluate and prioritize customer feedback with [statistics features](https://seatable.io/en/docs/handbuch/datenmanagement/statistiken/). We've even prepared a [template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) to give you some initial inspiration, which you can use to complete the following three steps. Just take a look.
 
 ## Step 1: Collect data on customer satisfaction
 
@@ -37,7 +37,7 @@ Usually, you also ask why the respective value was selected. The good thing abou
 
 ![An NPS questionnaire with SeaTable](images/nps-form-seatable.png)
 
-An NPS questionnaire created with SeaTable. Just try our [NPS template](https://seatable.io/en/vorlage/wcmmq-i4qp-euwa7zh52sg/).
+An NPS questionnaire created with SeaTable. Just try our [NPS template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}).
 
 ### Calculation of the NPS (Net Promoter Score)
 
@@ -145,4 +145,4 @@ Only a company that takes its customers' wishes seriously can be successful in t
 
 Make sure that you don't lose sight of the important issues because of all the information. Therefore, prioritize your information and derive courses of action from it. Take time to deal with [negative feedback](https://seatable.io/en/negatives-kundenfeedback/).
 
-If you plan to improve your customers' user experience permanently, try SeaTable. SeaTable gives you the [tools you need to](https://seatable.io/en/vorlage/wcmmq-i4qp-euwa7zh52sg/) increase your customers' satisfaction. Don't wait for tomorrow, establish a solid process for surveying your customer satisfaction today!
+If you plan to improve your customers' user experience permanently, try SeaTable. SeaTable gives you the [tools you need to]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) increase your customers' satisfaction. Don't wait for tomorrow, establish a solid process for surveying your customer satisfaction today!

@@ -13,7 +13,7 @@ seo:
 
 Once you have successfully completed the product development process, nothing stands in the way of a product launch.
 
-While the development process is already very well structured in most companies, too little attention is usually paid to the product launch process. Have you really completed all the necessary steps and forgotten nothing? With our [template](https://seatable.io/en/vorlage/duhr9rqdqtcbfeonhxntca/) and these [5 tips](https://www.pressesprecher.com/nachrichten/fuenf-tipps-fuer-einen-gelungenen-produkt-launch-9837), nothing stands in the way of a successful product launch!
+While the development process is already very well structured in most companies, too little attention is usually paid to the product launch process. Have you really completed all the necessary steps and forgotten nothing? With our [template]({{< relref "templates/software-development/product-launch" >}}) and these [5 tips](https://www.pressesprecher.com/nachrichten/fuenf-tipps-fuer-einen-gelungenen-produkt-launch-9837), nothing stands in the way of a successful product launch!
 
 ## Structure of our product launch template
 
@@ -33,4 +33,4 @@ The Newsletter table is specifically for the email marketing channel. New featur
 
 ## With SeaTable the product launch is guaranteed to succeed
 
-With our [product launch template](https://seatable.io/en/vorlage/duhr9rqdqtcbfeonhxntca/), you always keep track of your to-dos before the final product launch. Like every SeaTable table, this one is customisable. Adapt the template to your workflow and share the table with your employees. This way, everyone can access the table anytime and anywhere to view and enter important changes.
+With our [product launch template]({{< relref "templates/software-development/product-launch" >}}), you always keep track of your to-dos before the final product launch. Like every SeaTable table, this one is customisable. Adapt the template to your workflow and share the table with your employees. This way, everyone can access the table anytime and anywhere to view and enter important changes.

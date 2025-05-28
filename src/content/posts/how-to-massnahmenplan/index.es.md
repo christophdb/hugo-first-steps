@@ -55,7 +55,7 @@ Un plan de acción puede ser un muy buen remedio para esto. Todos estos datos se
 
 ## La planificación de acciones es más fácil con SeaTable
 
-Con nuestra [plantilla SeaTable para un plan de actividades](https://seatable.io/es/vorlage/hntk-vocrksmyj-9746vka/), siempre tendrá a la vista cada cita y cada actividad. Diseñe el plan según sus deseos y planes de actividad. Puede vincular sus medidas con sus objetivos (anuales) en el mismo documento en un abrir y cerrar de ojos, para tener toda la información en un solo lugar.
+Con nuestra [plantilla SeaTable para un plan de actividades]({{< relref "templates/projects/action-plan" >}}), siempre tendrá a la vista cada cita y cada actividad. Diseñe el plan según sus deseos y planes de actividad. Puede vincular sus medidas con sus objetivos (anuales) en el mismo documento en un abrir y cerrar de ojos, para tener toda la información en un solo lugar.
 
 Nuestra plantilla consiste esencialmente en un calendario de 365 días con fines de semana y días festivos marcados, en el que puede introducir fácilmente todo lo relacionado con su planificación. Esto tiene la ventaja de que puedes ver los días de la semana y los meses en una vista holística. Esto permite tener una mejor visión de conjunto de cuándo y con qué periodicidad debe tener lugar una determinada cita o actividad y facilita la planificación anual. Para una planificación detallada del proyecto, se integran en las columnas la hora, el lugar, los responsables y los departamentos, así como las tareas importantes. De este modo, se puede planificar con gran precisión el curso de las medidas individuales y las fechas importantes están siempre al alcance de unos pocos clics. Ya lo verás: Con SeaTable, la planificación de todo el año está perfectamente estructurada y organizada.
 
@@ -71,4 +71,4 @@ Visualice y avance los objetivos en su plan de acción
 
 Con la flexibilidad de SeaTable y las numerosas opciones de diseño, crear un plan de acción es un juego de niños. Los objetivos pueden estar vinculados entre sí, al igual que los plazos o las medidas que se repiten anualmente. Utilízalo para visionar tu estrategia y aplicar tus planes de forma directa y eficaz.
 
-Comience directamente y [descargue nuestra plantilla](https://seatable.io/es/vorlage/hntk-vocrksmyj-9746vka/) para un plan de acción en su nube hoy mismo. Benefíciese de las versátiles funciones de SeaTable. No volverá a perder de vista sus objetivos y medidas.
+Comience directamente y [descargue nuestra plantilla]({{< relref "templates/projects/action-plan" >}}) para un plan de acción en su nube hoy mismo. Benefíciese de las versátiles funciones de SeaTable. No volverá a perder de vista sus objetivos y medidas.

@@ -100,4 +100,4 @@ Outre l'analyse coûts-avantages classique, il existe [d'autres formes et métho
 
 Vous pouvez certes effectuer votre analyse coûts/bénéfices à la main avec de simples tableaux, mais il est plus pratique d'utiliser une base de données intelligente qui calcule automatiquement les valeurs souhaitées à l'aide de formules et de liens.
 
-Les avantages d'une analyse coûts-bénéfices vous ont convaincu ? Alors vous trouverez [ici](https://seatable.io/fr/modele/le5dfgmarq6nvyuzgyafwq/) le modèle correspondant. Si vous n'avez pas encore de compte SeaTable, vous pouvez [vous inscrire gratuitement](https://seatable.io/fr/enregistrement/). Essayez-le !
+Les avantages d'une analyse coûts-bénéfices vous ont convaincu ? Alors vous trouverez [ici]({{< relref "templates/finance/cost-benefit-analysis" >}}) le modèle correspondant. Si vous n'avez pas encore de compte SeaTable, vous pouvez [vous inscrire gratuitement](https://seatable.io/fr/enregistrement/). Essayez-le !

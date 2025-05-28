@@ -1,7 +1,7 @@
 ---
 title: 'Projektportfolio'
 description: 'Erstellen Sie eine Gesamtübersicht aller Projekte in Ihrem Unternehmen.'
-url: '/de/vorlage/projektportfolio'
+url: '/de/vorlage/project-portfolio'
 category: 'projekte'
 functions:
 seo:

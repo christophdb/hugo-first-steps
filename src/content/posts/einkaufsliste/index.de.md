@@ -167,7 +167,7 @@ Die Notizen-App als Einkaufsliste
 
 ### 7\. SeaTable
 
-SeaTable bietet ein [Template](https://seatable.io/vorlage/rw6cogmdrjyl-j0w3sjraw/), das die typische Einkaufsliste mit vielen weiteren Funktionen ergänzt. Hier können Sie nicht nur Ihre Artikel **abhaken**, sondern auch **Rezepte** erfassen und **Bilder** hochladen.
+SeaTable bietet ein [Template]({{< relref "templates/everyday-life/shopping-list" >}}), das die typische Einkaufsliste mit vielen weiteren Funktionen ergänzt. Hier können Sie nicht nur Ihre Artikel **abhaken**, sondern auch **Rezepte** erfassen und **Bilder** hochladen.
 
 Die digitale Einkaufsliste / App hilft Ihnen außerdem, die finanziellen Aspekte des Einkaufs besser im Blick zu halten. Beispielsweise können Sie die Produkte bestimmten Kategorien oder Einkaufsläden zuordnen und **Preise erfassen**, die pro Supermarkt und Einkauf addiert werden. Mithilfe der integrierten **Statistiken** können Sie so eine klare Übersicht über Ihre Ausgaben behalten.
 

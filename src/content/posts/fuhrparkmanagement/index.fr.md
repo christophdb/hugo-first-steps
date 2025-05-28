@@ -89,7 +89,7 @@ Le logiciel de base de données **SeaTable** permet une gestion de flotte gratui
 
 ## Gérez votre parc de véhicules avec SeaTable
 
-Gardez une trace de l'ensemble de votre flotte ! Avec notre [logiciel de gestion de flotte gratuit,](https://seatable.io/fr/modele/qsxitf8ktcojsuivrormnq/) vous pouvez cataloguer vos véhicules et gérer tous les processus de gestion de flotte en un rien de temps. Documentez facilement et de manière pratique les réservations, les retours, les réparations et les rendez-vous pour vos véhicules.
+Gardez une trace de l'ensemble de votre flotte ! Avec notre [logiciel de gestion de flotte gratuit,]({{< relref "templates/operations/fleet-management" >}}) vous pouvez cataloguer vos véhicules et gérer tous les processus de gestion de flotte en un rien de temps. Documentez facilement et de manière pratique les réservations, les retours, les réparations et les rendez-vous pour vos véhicules.
 
 SeaTable vous offre une gestion claire et intuitive de votre flotte et des demandes de réservation entrantes. Cela signifie que vous avez toujours un aperçu des véhicules disponibles à quel moment et de l'état de votre flotte.
 

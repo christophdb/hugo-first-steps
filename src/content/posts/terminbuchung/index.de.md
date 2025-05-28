@@ -19,7 +19,7 @@ Nichts erleichtert heutzutage den Umgang mit Daten mehr als die Möglichkeiten d
 
 ### Erleichtern Sie Sich und Ihren Kunden die Terminbuchung!
 
-SeaTable bietet hier eine einfache und leistungsstarke Lösung. Mit unseren Webformularen, die Sie bisher vielleicht für [Kundenumfragen](https://seatable.io/vorlage/ku9n1tyosmmho-8trn7rdg/) genutzt haben, lassen sich auch ganz einfach Online-Terminbuchungssysteme erstellen. Die festgelegten Termine erscheinen dann vollautomatisch in Ihrer Tabelle und Sie sehen auf einen Blick, wann welche Termine anstehen.
+SeaTable bietet hier eine einfache und leistungsstarke Lösung. Mit unseren Webformularen, die Sie bisher vielleicht für [Kundenumfragen]({{< relref "templates/marketing/customer-feedback" >}}) genutzt haben, lassen sich auch ganz einfach Online-Terminbuchungssysteme erstellen. Die festgelegten Termine erscheinen dann vollautomatisch in Ihrer Tabelle und Sie sehen auf einen Blick, wann welche Termine anstehen.
 
 Die Erstellung dieses Terminbuchungssystems ist ohne Vorkenntnisse garantiert in unter 30 Minuten erledigt! Im Folgenden erklären wir Ihnen die Erstellung eines digitalen Terminbuchungssystems in SeaTable Schritt für Schritt. Damit benötigen Sie kein Terminbuchungssoftware mehr, wie etwa [Calendly](https://calendly.com/de/).
 
@@ -31,7 +31,7 @@ Um ein Terminbuchungssystem in SeaTable zu erstellen, werden wir die [Formularfu
 
 ## Erstellung Ihrer zwei benötigten Tabellen
 
-Für Ihr Online-Terminbuchungssystem benötigen Sie zwei Bases. Sie können diese zwei Tabellen in eine bereits bestehende SeaTable Base einfügen oder Sie erstellen sich eine neue Base. Natürlich können Sie auch [unser fertiges Templates **hier** kopieren](https://seatable.io/vorlage/m1su2sncqwmgwfxs1x_jza/) und gegebenenfalls noch an Ihre Bedürfnisse anpassen.
+Für Ihr Online-Terminbuchungssystem benötigen Sie zwei Bases. Sie können diese zwei Tabellen in eine bereits bestehende SeaTable Base einfügen oder Sie erstellen sich eine neue Base. Natürlich können Sie auch [unser fertiges Templates **hier** kopieren]({{< relref "templates/sales/appointment-booking" >}}) und gegebenenfalls noch an Ihre Bedürfnisse anpassen.
 
 In der **ersten Base** (Meeting Availability) werden alle Termine eingepflegt, an denen Sie frei verfügbar sind. Die **zweite Base** (Meeting Schedule) enthält alle Meetings oder Termine, die bereits von Ihren Kunden über die Formulare gebucht wurden. Sie erscheinen nach dem Abschicken des Formulars automatisch in der Tabelle.
 
@@ -85,6 +85,6 @@ Sie können sich selbst unter den Benachrichtigungseinstellungen (drei Punkte re
 
 ## Enorme Zeitersparnis durch hochflexibles Terminbuchungssystem von SeaTable
 
-Sie können Ihr Formular jederzeit anpassen, wenn Sie merken, dass wichtige Informationen fehlen. Nachdem ein Teilnehmer seine Informationen abgeschickt hat, erscheinen diese sofort in der Tabelle “Meeting Schedule”. So haben Sie in wenigen Schritten ein einfaches und unkompliziertes Terminbuchungssystem erstellt, das ganz automatisch alle relevanten Informationen an einem Ort sammelt. Das Planen von Terminen wird so zum Kinderspiel! [Unser Template](https://seatable.io/vorlage/m1su2sncqwmgwfxs1x_jza/) kann Ihnen dabei helfen, eine Struktur in Ihr Terminbuchungssystem zu bringen.
+Sie können Ihr Formular jederzeit anpassen, wenn Sie merken, dass wichtige Informationen fehlen. Nachdem ein Teilnehmer seine Informationen abgeschickt hat, erscheinen diese sofort in der Tabelle “Meeting Schedule”. So haben Sie in wenigen Schritten ein einfaches und unkompliziertes Terminbuchungssystem erstellt, das ganz automatisch alle relevanten Informationen an einem Ort sammelt. Das Planen von Terminen wird so zum Kinderspiel! [Unser Template]({{< relref "templates/sales/appointment-booking" >}}) kann Ihnen dabei helfen, eine Struktur in Ihr Terminbuchungssystem zu bringen.
 
 [In unserem YouTube-Tutorial](https://www.youtube.com/watch?v=7Kgzeld0kDM) haben wir noch einmal ganz genau erklärt, wie man ein Webformular mit SeaTable erstellt. Das lässt sich ganz einfach auf ein Terminbuchungssystem übertragen – [probieren Sie es noch heute aus]({{< relref "pages/registration" >}})!

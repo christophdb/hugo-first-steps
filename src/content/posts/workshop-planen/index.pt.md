@@ -41,7 +41,7 @@ O planeamento, a organização e a gestão de workshops podem tornar-se rapidame
 
 Com o SeaTable, tem sempre uma visão geral dos seus seminários e programas de formação e pode agrupar todas as informações num ponto de recolha central. Não só gere os seus seminários, como também os formadores, as inscrições e o feedback dos participantes.
 
-[O nosso modelo gratuito](https://seatable.io/pt/vorlage/kfsupdwhs9g5kgyqjemsea/) para si contém quatro quadros diferentes que abrangem os processos mais importantes no planeamento de workshops.
+[O nosso modelo gratuito]({{< relref "templates/human-resources/workshop-planner" >}}) para si contém quatro quadros diferentes que abrangem os processos mais importantes no planeamento de workshops.
 
 ## Definir o grupo-alvo e determinar as necessidades
 
@@ -111,4 +111,4 @@ Pode **analisar** facilmente o feedback recolhido no SeaTable, por exemplo, apre
 
 Com o SeaTable, pode mapear todos os processos relacionados com o planeamento de workshops e gerir todos os dados sem esforço. O objetivo é sempre maximizar a eficiência para si, para os seus colaboradores e para os outros participantes. Também são possíveis outras tabelas e processos, que pode adicionar de forma flexível de acordo com as suas necessidades, como a reserva de salas de reunião ou uma lista de inventário dos seus materiais.
 
-[Registe-se]({{< relref "pages/registration" >}}) gratuitamente hoje e experimente o nosso [modelo](https://seatable.io/pt/vorlage/kfsupdwhs9g5kgyqjemsea/) imediatamente! As funções podem ser utilizadas para uma variedade de outras aplicações.
+[Registe-se]({{< relref "pages/registration" >}}) gratuitamente hoje e experimente o nosso [modelo]({{< relref "templates/human-resources/workshop-planner" >}}) imediatamente! As funções podem ser utilizadas para uma variedade de outras aplicações.

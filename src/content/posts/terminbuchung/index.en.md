@@ -19,7 +19,7 @@ Nowadays, nothing makes dealing with data easier than the possibilities offered 
 
 ### Make booking appointments easier for you and your customers!
 
-SeaTable offers a simple and powerful solution here. With our web forms, which you may have used for [customer surveys](https://seatable.io/en/vorlage/ku9n1tyosmmho-8trn7rdg/) so far, you can also easily create online appointment booking systems. The set appointments then appear fully automatically in your table and you can see at a glance which appointments are due and when.
+SeaTable offers a simple and powerful solution here. With our web forms, which you may have used for [customer surveys]({{< relref "templates/marketing/customer-feedback" >}}) so far, you can also easily create online appointment booking systems. The set appointments then appear fully automatically in your table and you can see at a glance which appointments are due and when.
 
 The creation of this appointment booking system is guaranteed to be done in under 30 minutes without any prior knowledge! In the following, we will explain the creation of a digital appointment booking system in SeaTable step by step. This means you no longer need appointment booking software, such as [Calendly](https://calendly.com/de/).
 
@@ -31,7 +31,7 @@ To create an appointment booking system in SeaTable, we will use the [form featu
 
 ## Creating your two required tables
 
-For your online appointment booking system you need two bases. You can insert these two tables into an already existing SeaTable base or you can create a new base. Of course, you can also [copy our ready-made templates **here**](https://seatable.io/en/vorlage/m1su2sncqwmgwfxs1x_jza/) and adapt them to your needs if necessary.
+For your online appointment booking system you need two bases. You can insert these two tables into an already existing SeaTable base or you can create a new base. Of course, you can also [copy our ready-made templates **here**]({{< relref "templates/sales/appointment-booking" >}}) and adapt them to your needs if necessary.
 
 In the **first base** (Meeting Availability), all appointments are entered on which you are freely available. The **second base** (Meeting Schedule) contains all meetings or appointments that have already been booked by your customers via the forms. They appear automatically in the table after the form has been submitted.
 
@@ -85,6 +85,6 @@ You can set up an automated notification mechanism for yourself under the notifi
 
 ## Enormous time savings thanks to SeaTable's highly flexible appointment booking system
 
-You can adjust your form at any time if you notice that important information is missing. After a participant submits their information, it immediately appears in the Meeting Schedule table. So in just a few steps, you've created a simple and straightforward appointment booking system that automatically collects all the relevant information in one place. Scheduling appointments becomes a breeze! [Our template](https://seatable.io/en/vorlage/m1su2sncqwmgwfxs1x_jza/) can help you bring structure to your appointment booking system.
+You can adjust your form at any time if you notice that important information is missing. After a participant submits their information, it immediately appears in the Meeting Schedule table. So in just a few steps, you've created a simple and straightforward appointment booking system that automatically collects all the relevant information in one place. Scheduling appointments becomes a breeze! [Our template]({{< relref "templates/sales/appointment-booking" >}}) can help you bring structure to your appointment booking system.
 
 [In our YouTube tutorial](https://www.youtube.com/watch?v=7Kgzeld0kDM) we explained once again in detail how to create a web form with SeaTable. This can be easily transferred to an appointment booking system - [try it out today]({{< relref "pages/registration" >}})!

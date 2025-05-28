@@ -56,7 +56,7 @@ Dabei kann ein Maßnahmenplan sehr gut Abhilfe schaffen. Dort sind all diese Ter
 
 ## Maßnahmenplanung ganz einfach mit SeaTable
 
-Mit unserem [SeaTable Template für einen Maßnahmenplan](https://seatable.io/vorlage/hntk-vocrksmyj-9746vka/) haben Sie jeden Termin und jede Maßnahme immer im Blick. Gestalten Sie den Plan ganz nach Ihren Wünschen und Aktivitätenplanungen. Dabei können Sie Ihre Maßnahmen im gleichen Dokument im Handumdrehen mit Ihren (Jahres-)Zielen verbinden – so haben Sie alle Informationen an einem Ort gebündelt.
+Mit unserem [SeaTable Template für einen Maßnahmenplan]({{< relref "templates/projects/action-plan" >}}) haben Sie jeden Termin und jede Maßnahme immer im Blick. Gestalten Sie den Plan ganz nach Ihren Wünschen und Aktivitätenplanungen. Dabei können Sie Ihre Maßnahmen im gleichen Dokument im Handumdrehen mit Ihren (Jahres-)Zielen verbinden – so haben Sie alle Informationen an einem Ort gebündelt.
 
 Unser Template besteht im Wesentlichen aus einem 365-Tage-Kalender mit markierten Wochenenden und Feiertagen, in dem Sie alles rund um Ihre Planung problemlos eintragen können. Dies hat den Vorteil, dass Sie die Wochentage und Monate in einem ganzheitlichen Blick betrachten können. Das gibt eine bessere Übersicht darüber, wann und in welchen Zeitabständen ein besonderer Termin oder eine Maßnahme stattfinden soll und erleichtert die Jahresplanung. Für eine ausführliche Projektplanung sind in den Spalten Zeit, Ort, Verantwortliche Personen und Abteilungen sowie wichtige To-Do’s integriert. So kann der Ablauf einzelner Maßnahmen ganz genau geplant werden und wichtige Termine sind stets mit wenigen Klicks greifbar. Sie werden sehen: Mit SeaTable ist die Planung für das ganze Jahr perfekt strukturiert und organisiert.
 
@@ -72,4 +72,4 @@ Ziele in Ihrem Maßnahmenplan visualisieren und voranbringen
 
 Mit der Flexibilität von SeaTable und den vielen Gestaltungsmöglichkeiten ist die Erstellung eines Maßnahmenplans ein Kinderspiel. Ziele können übergreifend miteinander verbunden werden, ebenso sich jährlich wiederholende Termine oder Maßnahmen. Visionieren Sie damit Ihre Strategie und setzen Sie Ihre Pläne direkt und effektiv um.
 
-Starten Sie direkt und [laden Sie unser Template](https://seatable.io/vorlage/hntk-vocrksmyj-9746vka/) für einen Maßnahmenplan noch heute in Ihre Cloud! Profitieren Sie von den vielseitigen Funktionen von SeaTable. Damit verlieren Sie Ihre Ziele und Maßnahmen nie wieder aus dem Blick!
+Starten Sie direkt und [laden Sie unser Template]({{< relref "templates/projects/action-plan" >}}) für einen Maßnahmenplan noch heute in Ihre Cloud! Profitieren Sie von den vielseitigen Funktionen von SeaTable. Damit verlieren Sie Ihre Ziele und Maßnahmen nie wieder aus dem Blick!

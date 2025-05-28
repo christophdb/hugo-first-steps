@@ -84,8 +84,8 @@ Para que tu storyboard realmente te permita realizar tu proyecto de forma óptim
 
 ## Utilice la plantilla gratuita de SeaTable
 
-Con la [plantilla gratuita](https://seatable.io/es/vorlage/k6o24najsho8oipbkwmo8g/) de SeaTable, no sólo podrás crear fácilmente tu guión gráfico, sino también **compartirlo** con otras personas y **editarlo conjuntamente** de forma eficaz.
+Con la [plantilla gratuita]({{< relref "templates/marketing/storyboard" >}}) de SeaTable, no sólo podrás crear fácilmente tu guión gráfico, sino también **compartirlo** con otras personas y **editarlo conjuntamente** de forma eficaz.
 
 La plantilla de guión gráfico te permite planificar claramente la **trama**, el **escenario**, los **diálogos** y **los ángulos de cámara**. También puedes añadir fácilmente **personajes**, **accesorios** y **direcciones de** escena para pensar y grabar tu historia hasta el más mínimo detalle.
 
-Si desea utilizar [esta plantilla](https://seatable.io/es/vorlage/k6o24najsho8oipbkwmo8g/) de SeaTable para su proyecto cinematográfico, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico. A continuación, puede empezar a crear su guión gráfico individual en un abrir y cerrar de ojos e impulsar eficazmente sus proyectos cinematográficos.
+Si desea utilizar [esta plantilla]({{< relref "templates/marketing/storyboard" >}}) de SeaTable para su proyecto cinematográfico, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico. A continuación, puede empezar a crear su guión gráfico individual en un abrir y cerrar de ojos e impulsar eficazmente sus proyectos cinematográficos.

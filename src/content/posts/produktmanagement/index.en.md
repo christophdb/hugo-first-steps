@@ -47,7 +47,7 @@ A well-organised overview not only facilitates the work process but also gives t
 
 ## Product management with SeaTable
 
-Easily collect all your data in one place: with SeaTable. [Our template for product management](https://seatable.io/en/vorlage/mo8j3bg_qqkig0v-xx2fmq/) is made up of several spreadsheets. First there is a general product overview, followed by a specific product data sheet. Equally important to the product information are the contact details of suppliers and external employees. Not to be forgotten: Figures such as sales of the product can be excellently collected and evaluated with SeaTable. Of course, our template is flexibly adaptable to your needs and those of your product.
+Easily collect all your data in one place: with SeaTable. [Our template for product management]({{< relref "templates/product-design/product-library" >}}) is made up of several spreadsheets. First there is a general product overview, followed by a specific product data sheet. Equally important to the product information are the contact details of suppliers and external employees. Not to be forgotten: Figures such as sales of the product can be excellently collected and evaluated with SeaTable. Of course, our template is flexibly adaptable to your needs and those of your product.
 
 ### 1\. general product overview
 
@@ -85,4 +85,4 @@ Sort sales figures by region
 
 Statistics give valuable information about the sales figures of your product
 
-The product development process in product management should not be underestimated. A lot of items have to be taken into account. In order not to lose the overview, we offer with our SeaTable product management template an excellent possibility to start directly organised and structured into a new kind of product management. Experience simple processes and efficient data collection - simply [download the template here](https://seatable.io/en/vorlage/mo8j3bg_qqkig0v-xx2fmq/) and get started!
+The product development process in product management should not be underestimated. A lot of items have to be taken into account. In order not to lose the overview, we offer with our SeaTable product management template an excellent possibility to start directly organised and structured into a new kind of product management. Experience simple processes and efficient data collection - simply [download the template here]({{< relref "templates/product-design/product-library" >}}) and get started!

@@ -101,4 +101,4 @@ Neben der klassischen Kosten-Nutzen-Analyse gibt es noch [weitere Formen und Met
 
 Ihre Kosten-Nutzen-Analyse können Sie zwar auch händisch mit simplen Tabellen durchführen, bequemer geht es aber mit einer intelligenten Datenbank, die mit Formeln und Verknüpfungen automatisch die gewünschten Werte errechnet.
 
-Die Vorteile einer Kosten-Nutzen-Analyse haben Sie überzeugt? Dann finden Sie [hier](https://seatable.io/vorlage/le5dfgmarq6nvyuzgyafwq/) die entsprechende Vorlage. Wenn Sie noch kein SeaTable Konto haben, können Sie sich [kostenlos registrieren]({{< relref "pages/registration" >}}). Probieren Sie es aus!
+Die Vorteile einer Kosten-Nutzen-Analyse haben Sie überzeugt? Dann finden Sie [hier]({{< relref "templates/finance/cost-benefit-analysis" >}}) die entsprechende Vorlage. Wenn Sie noch kein SeaTable Konto haben, können Sie sich [kostenlos registrieren]({{< relref "pages/registration" >}}). Probieren Sie es aus!

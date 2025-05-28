@@ -102,4 +102,4 @@ Para que estés perfectamente preparado para la próxima situación de emergenci
 
 ![Plantilla para su reserva de emergencia](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
 
-Si desea utilizar SeaTable para el almacenamiento, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí](https://seatable.io/es/vorlage/xd246xzxtnuset-pxi0xsa/) encontrará la plantilla correspondiente.
+Si desea utilizar SeaTable para el almacenamiento, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/everyday-life/shopping-list" >}}) encontrará la plantilla correspondiente.

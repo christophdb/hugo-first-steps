@@ -55,7 +55,7 @@ Um plano de acção pode ser um remédio muito bom para isto. Todas estas datas 
 
 ## Planeamento de acções facilitado com SeaTable
 
-Com o nosso [modelo SeaTable para um plano de actividades](https://seatable.io/pt/vorlage/hntk-vocrksmyj-9746vka/), tem sempre em vista todos os compromissos e todas as actividades. Desenhe o plano de acordo com os seus desejos e planos de actividade. Pode ligar as suas medidas aos seus objectivos (anuais) no mesmo documento num instante - para que tenha toda a informação num só lugar.
+Com o nosso [modelo SeaTable para um plano de actividades]({{< relref "templates/projects/action-plan" >}}), tem sempre em vista todos os compromissos e todas as actividades. Desenhe o plano de acordo com os seus desejos e planos de actividade. Pode ligar as suas medidas aos seus objectivos (anuais) no mesmo documento num instante - para que tenha toda a informação num só lugar.
 
 O nosso modelo consiste essencialmente num calendário de 365 dias com fins de semana e feriados marcados, no qual pode facilmente introduzir tudo relacionado com o seu planeamento. Isto tem a vantagem de poder olhar para os dias da semana e meses numa visão holística. Isto dá uma melhor visão geral de quando e a que intervalos uma determinada nomeação ou actividade deve ter lugar e facilita o planeamento anual. Para o planeamento detalhado do projecto, tempo, local, pessoas responsáveis e departamentos, bem como importantes afazeres, estão integrados nas colunas. Desta forma, o curso das medidas individuais pode ser planeado com muita precisão e datas importantes estão sempre ao alcance de apenas alguns cliques. Verá: Com SeaTable, o planeamento para todo o ano é perfeitamente estruturado e organizado.
 
@@ -71,4 +71,4 @@ Visualize e avance objectivos no seu plano de acção
 
 Com a flexibilidade do SeaTable e as muitas opções de design, criar um plano de acção é uma brincadeira de criança. Os objectivos podem ser associados de forma transversal, tal como os prazos ou medidas anuais recorrentes. Utilize-o para visualizar a sua estratégia e implementar os seus planos de forma directa e eficaz.
 
-Comece directamente e [descarregue](https://seatable.io/pt/vorlage/hntk-vocrksmyj-9746vka/) hoje o [nosso modelo](https://seatable.io/pt/vorlage/hntk-vocrksmyj-9746vka/) para um plano de acção na sua nuvem! Beneficiar das funções versáteis do SeaTable. Nunca mais perderá de vista os seus objectivos e medidas!
+Comece directamente e [descarregue]({{< relref "templates/projects/action-plan" >}}) hoje o [nosso modelo]({{< relref "templates/projects/action-plan" >}}) para um plano de acção na sua nuvem! Beneficiar das funções versáteis do SeaTable. Nunca mais perderá de vista os seus objectivos e medidas!

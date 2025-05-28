@@ -83,7 +83,7 @@ First ask yourself how many days you would like to cook ahead for. For meal prep
 
 ### 2\. shopping
 
-The recipes have been selected, now you need the **ingredients**. List what you need and in what **quantities** so that you can keep track of everything while you're shopping. A [shopping list](https://seatable.io/en/vorlage/rw6cogmdrjyl-j0w3sjraw/) also helps you to buy only the food you really need for your meals. Make sure you only buy fresh and perishable goods if you can use them immediately.
+The recipes have been selected, now you need the **ingredients**. List what you need and in what **quantities** so that you can keep track of everything while you're shopping. A [shopping list]({{< relref "templates/everyday-life/shopping-list" >}}) also helps you to buy only the food you really need for your meals. Make sure you only buy fresh and perishable goods if you can use them immediately.
 
 ![A shopping list will help you to get through your shopping without spending more money](images/torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
 
@@ -127,8 +127,8 @@ The different spices give the vegetables a different taste every day. You can of
 
 ## Template for your Meal Prep weekly plan
 
-So that you always have your favorite recipes to hand, you can create a list of all your meal prep dishes and record on which websites you have found which dish. The [free template from SeaTable](https://seatable.io/en/vorlage/egzrna4wtbsuv7bbquzwsq/) is ideal for organizing your meal prep recipes clearly.
+So that you always have your favorite recipes to hand, you can create a list of all your meal prep dishes and record on which websites you have found which dish. The [free template from SeaTable]({{< relref "templates/healthcare/recipes-meal-plan" >}}) is ideal for organizing your meal prep recipes clearly.
 
 Simply enter the day on which you want to cook a dish next time and create new **weekly Meal Prep plans** in the calendar. Upload photos and be inspired by your gallery of possible dishes week after week. In two additional tables, you can record all ingredients in a **shopping list** and compare the **nutritional values** of your favorite dishes.
 
-If you would like to use SeaTable for your weekly meal prep plan, simply [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here](https://seatable.io/en/vorlage/egzrna4wtbsuv7bbquzwsq/). Delete the sample recipes and customize the meal plan to suit your needs.
+If you would like to use SeaTable for your weekly meal prep plan, simply [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here]({{< relref "templates/healthcare/recipes-meal-plan" >}}). Delete the sample recipes and customize the meal plan to suit your needs.

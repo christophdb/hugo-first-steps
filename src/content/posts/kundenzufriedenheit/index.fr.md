@@ -20,7 +20,7 @@ Pour pouvoir améliorer la satisfaction des clients, vous devez connaître leur 
 
 Quelle que soit la méthode que vous choisissez, vous avez toujours besoin d'un outil pour recueillir, mesurer et évaluer le feedback des clients. Ce processus doit être simple et pouvoir être répété à tout moment sans grand effort. En même temps, l'évaluation doit rester claire, même en cas de grandes quantités de données. Cette évaluation est souvent appelée _User Experience Research_ ou _UX Research_.
 
-Avec SeaTable, nous vous fournissons l'outil idéal. SeaTable vous aide à collecter des informations grâce à [des formulaires web](https://seatable.io/fr/docs/handbuch/datenmanagement/webformulare/) faciles à partager et à évaluer et hiérarchiser les commentaires des clients grâce à des [fonctions statistiques](https://seatable.io/fr/docs/handbuch/datenmanagement/statistiken/). Nous avons même préparé un [modèle](https://seatable.io/fr/modele/wcmmq-i4qp-euwa7zh52sg/) pour vous donner une première inspiration et vous permettre de réaliser les trois étapes suivantes. N'hésitez pas à y jeter un coup d'œil.
+Avec SeaTable, nous vous fournissons l'outil idéal. SeaTable vous aide à collecter des informations grâce à [des formulaires web](https://seatable.io/fr/docs/handbuch/datenmanagement/webformulare/) faciles à partager et à évaluer et hiérarchiser les commentaires des clients grâce à des [fonctions statistiques](https://seatable.io/fr/docs/handbuch/datenmanagement/statistiken/). Nous avons même préparé un [modèle]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) pour vous donner une première inspiration et vous permettre de réaliser les trois étapes suivantes. N'hésitez pas à y jeter un coup d'œil.
 
 ## Étape 1 : Collecter des données sur la satisfaction des clients
 
@@ -36,7 +36,7 @@ Habituellement, on demande en plus pourquoi la valeur en question a été choisi
 
 ![Un questionnaire NPS avec SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-form-seatable.png)
 
-Un questionnaire NPS créé avec SeaTable. Essayez simplement notre [modèle NPS](https://seatable.io/fr/modele/wcmmq-i4qp-euwa7zh52sg/).
+Un questionnaire NPS créé avec SeaTable. Essayez simplement notre [modèle NPS]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}).
 
 ### Calcul du NPS (Net-Promoter-Score)
 
@@ -144,4 +144,4 @@ Seule une entreprise qui prend au sérieux les souhaits de ses clients peut réu
 
 Veillez à ne pas perdre de vue les sujets importants à cause de la quantité d'informations que vous recevez. Hiérarchisez donc vos informations et déduisez-en des options d'action. Prenez le temps de gérer les [réactions négatives](https://seatable.io/fr/negatives-kundenfeedback/).
 
-Si vous avez l'intention d'améliorer durablement l'expérience utilisateur de vos clients, essayez SeaTable. SeaTable vous donne les [outils nécessaires](https://seatable.io/fr/modele/wcmmq-i4qp-euwa7zh52sg/) pour augmenter la satisfaction de vos clients. N'attendez pas demain, mettez en place dès aujourd'hui un processus permanent d'enquête sur la satisfaction de vos clients !
+Si vous avez l'intention d'améliorer durablement l'expérience utilisateur de vos clients, essayez SeaTable. SeaTable vous donne les [outils nécessaires]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) pour augmenter la satisfaction de vos clients. N'attendez pas demain, mettez en place dès aujourd'hui un processus permanent d'enquête sur la satisfaction de vos clients !

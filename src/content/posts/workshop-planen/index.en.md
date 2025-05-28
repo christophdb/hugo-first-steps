@@ -42,7 +42,7 @@ Planning, organizing and managing workshops can quickly become confusing in larg
 
 With SeaTable, you always have an overview of your workshops and training measures and bundle all information in a central collection point. You not only manage your workshops, but also the coaches, registrations and participant feedback.
 
-[Our free template](https://seatable.io/en/vorlage/kfsupdwhs9g5kgyqjemsea/) for you contains four different tables that cover the most important processes in workshop planning.
+[Our free template]({{< relref "templates/human-resources/workshop-planner" >}}) for you contains four different tables that cover the most important processes in workshop planning.
 
 ## Define target group and determine needs
 
@@ -112,4 +112,4 @@ You can easily **evaluate** the collected feedback in SeaTable, for example by d
 
 With SeaTable, you can map every process related to workshop planning and manage all data effortlessly. The focus is always on the greatest possible efficiency for you, your employees and other participants. Other tables and processes are also conceivable, which you can add flexibly according to your requirements, such as booking meeting rooms or an inventory list of your materials.
 
-[Register]({{< relref "pages/registration" >}}) for free today and try out our [template](https://seatable.io/en/vorlage/kfsupdwhs9g5kgyqjemsea/) straight away! The functions can be used for a variety of other applications.
+[Register]({{< relref "pages/registration" >}}) for free today and try out our [template]({{< relref "templates/human-resources/workshop-planner" >}}) straight away! The functions can be used for a variety of other applications.

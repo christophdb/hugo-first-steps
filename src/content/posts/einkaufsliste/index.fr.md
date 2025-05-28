@@ -166,7 +166,7 @@ L'application Notes comme liste de courses
 
 ### 7\. SeaTable
 
-SeaTable propose un [modèle](https://seatable.io/fr/modele/rw6cogmdrjyl-j0w3sjraw/) qui complète la liste de courses typique par de nombreuses autres fonctions. Vous pouvez non seulement **cocher** vos articles, mais aussi saisir **des recettes** et télécharger **des images**.
+SeaTable propose un [modèle]({{< relref "templates/everyday-life/shopping-list" >}}) qui complète la liste de courses typique par de nombreuses autres fonctions. Vous pouvez non seulement **cocher** vos articles, mais aussi saisir **des recettes** et télécharger **des images**.
 
 La liste d'achats numérique / l'application vous aide également à mieux contrôler les aspects financiers des achats. Vous pouvez par exemple attribuer les produits à certaines catégories ou à certains magasins et **saisir les prix**, qui sont ensuite additionnés par supermarché et par achat. À l'aide des **statistiques** intégrées, vous pouvez ainsi garder une vue d'ensemble claire de vos dépenses.
 

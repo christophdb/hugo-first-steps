@@ -67,7 +67,7 @@ Abgesehen von allgemeinen Open-Source-Sammlungsprogrammen existiert eine Vielzah
 
 ## SeaTable: Sammlungen verwalten mit der Power einer Datenbank
 
-[SeaTable](https://de.wikipedia.org/wiki/SeaTable) wiederum ist ein digitales Tool, das nicht aus dem Sammler-Bereich stammt, aber ideal für das Verwalten von Sammlungen geeignet ist. Hier legen Sie übersichtliche Tabellen an, vergeben Labels, laden Bilder und Dokumente hoch, verwalten Kontakte und vermerken Leihgaben. Das Besondere an dieser Lösung ist die webbasierte Nutzung: Sie müssen keine Software oder App installieren, sondern können sich einfach auf der Webseite einloggen. Zudem liegen Ihre Daten in zertifizierten deutschen Rechenzentren. Die kostenlose Vorlage finden Sie [hier](https://seatable.io/vorlage/ebrr3endt7q2zfahahzihq/).
+[SeaTable](https://de.wikipedia.org/wiki/SeaTable) wiederum ist ein digitales Tool, das nicht aus dem Sammler-Bereich stammt, aber ideal für das Verwalten von Sammlungen geeignet ist. Hier legen Sie übersichtliche Tabellen an, vergeben Labels, laden Bilder und Dokumente hoch, verwalten Kontakte und vermerken Leihgaben. Das Besondere an dieser Lösung ist die webbasierte Nutzung: Sie müssen keine Software oder App installieren, sondern können sich einfach auf der Webseite einloggen. Zudem liegen Ihre Daten in zertifizierten deutschen Rechenzentren. Die kostenlose Vorlage finden Sie [hier]({{< relref "templates/everyday-life/sneaker-collection" >}}).
 
 Wenn Sie zum Beispiel Schuhe sammeln, könnte Ihre Datenbank in SeaTable so aussehen:
 

@@ -42,4 +42,4 @@ O SeaTable oferece-lhe uma visão direccionada da informação de que necessita 
 
 ## Pronto para o novo semestre
 
-Com o seu novo [planeador semestral](https://seatable.io/pt/vorlage/cfpc_mw3qsspac81dbiefa/), nada obsta a um semestre de sucesso. Pode conceber o seu planeador de estudantes individualmente na SeaTable e adaptá-lo às suas necessidades. Registe-se agora [gratuitamente]({{< relref "pages/registration" >}}) e obtenha um início produtivo até ao semestre de Inverno de 2020!
+Com o seu novo [planeador semestral]({{< relref "templates/everyday-life/study-plan" >}}), nada obsta a um semestre de sucesso. Pode conceber o seu planeador de estudantes individualmente na SeaTable e adaptá-lo às suas necessidades. Registe-se agora [gratuitamente]({{< relref "pages/registration" >}}) e obtenha um início produtivo até ao semestre de Inverno de 2020!

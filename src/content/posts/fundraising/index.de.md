@@ -114,9 +114,9 @@ Schließlich ist die **Reaktivierung inaktiver Spender** von Bedeutung, um das P
 
 ## Spenden verwalten mit SeaTable
 
-Mit der [kostenlosen Vorlage](https://seatable.io/vorlage/nzqrkmzcsle8vkesd-lmpw/) von SeaTable können Sie zukünftig kinderleicht Fundraising betreiben und Ihre Spendenverwaltung so einfach wie möglich gestalten. Organisieren Sie mehrere Projekte an einem Ort und behalten Sie dabei die Orientierung.
+Mit der [kostenlosen Vorlage]({{< relref "templates/finance/donation-overview" >}}) von SeaTable können Sie zukünftig kinderleicht Fundraising betreiben und Ihre Spendenverwaltung so einfach wie möglich gestalten. Organisieren Sie mehrere Projekte an einem Ort und behalten Sie dabei die Orientierung.
 
-In Ihrer [Online-Datenbank](https://seatable.io/vorlage/nzqrkmzcsle8vkesd-lmpw/) können Sie nicht nur **Spenden sammeln und verwalten**, sondern sich auch automatisch die Differenz zwischen bereits getätigten Spenden und der Zielsumme berechnen lassen. Erstellen Sie mit einem Klick **Spendenquittungen** und behalten Sie den Überblick über die **Kontaktdaten** Ihrer Spender. Auf einem übersichtlichen Kanban-Board sehen Sie alle wichtigen Fakten und den **Fortschritt Ihrer Projekte** auf einen Blick.
+In Ihrer [Online-Datenbank]({{< relref "templates/finance/donation-overview" >}}) können Sie nicht nur **Spenden sammeln und verwalten**, sondern sich auch automatisch die Differenz zwischen bereits getätigten Spenden und der Zielsumme berechnen lassen. Erstellen Sie mit einem Klick **Spendenquittungen** und behalten Sie den Überblick über die **Kontaktdaten** Ihrer Spender. Auf einem übersichtlichen Kanban-Board sehen Sie alle wichtigen Fakten und den **Fortschritt Ihrer Projekte** auf einen Blick.
 
 Für kleinere Vereine sollten die Funktionen und Speicherlimits von SeaTable Free (kostenlose Version) ausreichen. Wenn Sie Größeres vorhaben, erhält Ihre gemeinnützige Organisation standardmäßig [Rabatte](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) auf die Kosten von SeaTable Plus oder Enterprise.
 
