@@ -1,5 +1,5 @@
 ---
 title: Subscription
-url: /es/help/abrechnung/subscription
+url: /es/ayuda/abrechnung/subscription
 weight: 4
 ---

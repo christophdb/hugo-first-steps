@@ -1,4 +1,4 @@
 ---
 title: Definições da aplicação
-url: /pt/help/app-builder/settings
+url: /pt/ajuda/app-builder/settings
 ---

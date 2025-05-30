@@ -1,4 +1,4 @@
 ---
 title: 'Javascript'
-url: /es/help/skripte/javascript
+url: /es/ayuda/skripte/javascript
 ---

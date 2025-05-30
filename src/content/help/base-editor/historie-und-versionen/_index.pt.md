@@ -1,4 +1,4 @@
 ---
 title: History and versions
-url: /pt/help/base-editor/historie-und-versionen
+url: /pt/ajuda/base-editor/historie-und-versionen
 ---

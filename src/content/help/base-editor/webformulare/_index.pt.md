@@ -1,4 +1,4 @@
 ---
 title: Forms
-url: /pt/help/base-editor/webformulare
+url: /pt/ajuda/base-editor/webformulare
 ---

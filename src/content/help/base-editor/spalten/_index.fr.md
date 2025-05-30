@@ -1,4 +1,4 @@
 ---
 title: Columns
-url: /fr/help/base-editor/columns
+url: /fr/aide/base-editor/columns
 ---

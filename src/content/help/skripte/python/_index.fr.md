@@ -1,4 +1,4 @@
 ---
 title: 'Python'
-url: /fr/help/skripte/python
+url: /fr/aide/skripte/python
 ---
