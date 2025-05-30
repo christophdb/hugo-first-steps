@@ -335,7 +335,7 @@
         <script src="{{ $alpine.RelPermalink }}" integrity="{{ $alpine.Data.Integrity }}" defer></script>
 
         <!-- matomo analytics -->
-        {{ partial "matomo-analytics.html" .Site.Params.Seo }}
+        {{ partial "matomo-analytics.html" . }}
 
 
         <!-- AB-Split Tests -->
