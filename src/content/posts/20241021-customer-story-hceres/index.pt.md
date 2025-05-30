@@ -11,15 +11,14 @@ tags:
     - 'Gestão e visualização de dados'
     - 'Setor público'
 color: '#fbe337'
-url: '/pt/gestão eficaz de dados em hceres com seatable'
+url: '/pt/gestao-eficaz-de-dados-em-hceres-com-seatable'
 ---
 
 O Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres) é uma autoridade pública independente em França, regida pelos artigos L. 114-3-1 a L. 114-3-6 e R. 114-1 a R. 114-23 do Código da Investigação francês. As principais tarefas do Hcéres incluem
 
 - A avaliação de todas as instituições de ensino superior e de investigação em França.
 - A validação dos procedimentos de avaliação propostos por outras organizações.
-- A avaliação de universidades privadas em França e no estrangeiro, a pedido.  
-
+- A avaliação de universidades privadas em França e no estrangeiro, a pedido.
 
 A Hcéres foi confrontada com o desafio de tornar os seus complexos processos de dados mais eficientes e em conformidade com os requisitos legais. Com o SeaTable, a Hcéres encontrou uma solução para centralizar a sua gestão de dados e melhorar a colaboração.
 

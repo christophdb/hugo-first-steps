@@ -1,7 +1,7 @@
 ---
 title: 'Gestão de eventos'
 description: ''
-url: '/de/vorlage/event-management'
+url: '/pt/modelo/event-management'
 category: 'ereignisse'
 functions:
 seo:

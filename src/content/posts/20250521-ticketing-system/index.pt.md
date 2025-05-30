@@ -10,7 +10,7 @@ categories:
 tags:
     - 'Processos informáticos'
     - 'Gestão e visualização de dados'
-url: '/pt/sistema-de-bilhética'
+url: '/pt/sistema-de-bilhetica'
 color: '#66d4d0'
 ---
 
