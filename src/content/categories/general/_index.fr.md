@@ -1,4 +1,4 @@
 ---
 title: 'Général'
-url: 'categories/général'
+url: 'categories/general'
 ---

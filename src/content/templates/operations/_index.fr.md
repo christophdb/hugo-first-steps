@@ -1,4 +1,4 @@
 ---
 title: 'Opérations'
-url: '/fr/modeles/opérations'
+url: '/fr/modeles/operations'
 ---

@@ -6,6 +6,8 @@ seo:
     description: 'Un carnet de route numérique présente de nombreux avantages. Découvrez comment tenir intelligemment votre carnet de route, sans paperasserie fastidieuse.'
 date: 2025-04-01
 url: '/fr/carnet-de-route'
+aliases:
+    - '/fr/fahrtenbuch/'
 tags:
 categories:
 color: '#f34b4c'

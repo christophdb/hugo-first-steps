@@ -5,7 +5,7 @@ seo:
     title: 'Gerir um evento | 10 dicas para o seu sucesso | SeaTable'
     description: 'Leia como até os grandes eventos podem ser geridos de forma profissional e como as ferramentas podem ajudá-lo com um planeamento complexo'
 date: 2025-03-23
-url: '/pt/gestão de eventos'
+url: '/pt/gestao-de-eventos'
 aliases:
     - /pt/veranstaltung-verwalten/
 tags:

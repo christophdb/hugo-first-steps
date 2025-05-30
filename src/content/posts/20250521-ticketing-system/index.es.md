@@ -10,7 +10,7 @@ categories:
 tags:
     - 'Procesos informáticos'
     - 'Gestión y visualización de datos'
-url: '/es/sistema-de venta-de-entradas'
+url: '/es/sistema-de-venta-de-entradas'
 color: '#66d4d0'
 ---
 

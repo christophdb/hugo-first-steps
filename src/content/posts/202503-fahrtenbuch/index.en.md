@@ -6,6 +6,8 @@ seo:
     description: 'A digital logbook has many advantages. Discover how to keep a smart logbook without the hassle of bureaucracy.'
 date: 2025-04-01
 url: '/digital-logbook'
+aliases:
+    - '/fahrtenbuch'
 tags:
     - 'Finances'
     - 'Tools & Plugins'

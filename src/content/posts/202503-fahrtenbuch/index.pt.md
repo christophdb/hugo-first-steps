@@ -6,6 +6,8 @@ seo:
     description: 'Um diário de bordo digital tem muitas vantagens. Descubra como manter um diário de bordo inteligente sem o incómodo da burocracia.'
 date: 2025-04-01
 url: '/pt/digital-logbook'
+aliases:
+    - '/pt/fahrtenbuch'
 tags:
     - 'Finanças'
     - 'Ferramentas e plugins'

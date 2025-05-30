@@ -10,6 +10,8 @@ categories:
 tags:
     - 'Ferramentas e plugins'
 url: '/pt/excel-sem-custos'
+aliases:
+    - '/pt/excel-kostenlos'
 color: '#6d9c70'
 ---
 

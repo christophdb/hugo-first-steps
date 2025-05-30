@@ -12,7 +12,7 @@ tags:
     - 'Transformação digital'
     - 'Setor público'
 color: '#bb9de1'
-url: '/pt/história do cliente-fr-la-manche/'
+url: '/pt/historia-do-cliente-fr-la-manche/'
 ---
 
 ## Desafios na gestão de dados sensíveis
