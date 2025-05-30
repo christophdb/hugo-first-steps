@@ -1,4 +1,4 @@
 ---
 title: 'Información general'
-url: 'categories/información-general'
+url: 'categories/informacion-general'
 ---

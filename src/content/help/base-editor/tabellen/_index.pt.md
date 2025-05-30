@@ -1,4 +1,4 @@
 ---
 title: Work with tables
-url: /pt/help/base-editor/arbeiten-in-tabellen
+url: /pt/ajuda/base-editor/arbeiten-in-tabellen
 ---

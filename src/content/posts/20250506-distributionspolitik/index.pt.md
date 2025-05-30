@@ -9,7 +9,7 @@ categories:
     - 'general'
 tags:
     - 'Distribuição'
-url: '/pt/politica-de-distribuição'
+url: '/pt/politica-de-distribuicao'
 color: '#e9d3b4'
 ---
 

@@ -1,4 +1,4 @@
 ---
 title: Big Data
-url: /fr/help/base-editor/big-data
+url: /fr/aide/base-editor/big-data
 ---

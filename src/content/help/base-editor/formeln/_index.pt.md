@@ -1,4 +1,4 @@
 ---
 title: Formulas
-url: /pt/help/base-editor/formeln
+url: /pt/ajuda/base-editor/formeln
 ---

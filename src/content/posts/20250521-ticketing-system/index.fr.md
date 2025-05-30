@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Gestion des données & visualisation'
-url: '/fr/système-de-billetterie'
+url: '/fr/systeme-de-billetterie'
 color: '#66d4d0'
 ---
 

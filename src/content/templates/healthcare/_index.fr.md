@@ -1,4 +1,4 @@
 ---
 title: 'Santé'
-url: '/fr/modeles/santé'
+url: '/fr/modeles/sante'
 ---

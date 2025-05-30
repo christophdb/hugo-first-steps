@@ -1,4 +1,4 @@
 ---
 title: 'Événements'
-url: '/fr/modeles/événements'
+url: '/fr/modeles/evenements'
 ---

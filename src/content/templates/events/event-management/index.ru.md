@@ -1,7 +1,7 @@
 ---
 title: 'Управление событиями'
 description: ''
-url: '/de/vorlage/event-management'
+url: '/ru/шаблон/event-management'
 category: 'ereignisse'
 functions:
 seo:

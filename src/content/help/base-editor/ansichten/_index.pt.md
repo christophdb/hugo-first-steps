@@ -1,4 +1,4 @@
 ---
 title: Working with Views
-url: /pt/help/base-editor/grundlagen-von-ansichten
+url: /pt/ajuda/base-editor/grundlagen-von-ansichten
 ---

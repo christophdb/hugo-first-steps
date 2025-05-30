@@ -1,5 +1,5 @@
 ---
 title: Overview
-url: /fr/help/base-editor/seatable-nutzen
+url: /fr/aide/base-editor/seatable-nutzen
 weight: 1
 ---

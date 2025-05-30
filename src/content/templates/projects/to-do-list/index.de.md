@@ -2,7 +2,7 @@
 title: 'To-Do-Liste'
 description: 'Strukturieren Sie Ihre Arbeit und vergessen Sie nie wieder wichtige To-dos.'
 date: 2024-08-30
-url: '/de/vorlage/to-do-liste'
+url: '/de/vorlage/to-do-list'
 category: 'projekte'
 functions:
 seo:

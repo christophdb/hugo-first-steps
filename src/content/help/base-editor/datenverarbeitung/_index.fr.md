@@ -1,4 +1,4 @@
 ---
 title: Data processing
-url: /fr/help/base-editor/datenverarbeitung
+url: /fr/aide/base-editor/datenverarbeitung
 ---

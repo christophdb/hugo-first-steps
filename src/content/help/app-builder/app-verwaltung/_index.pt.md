@@ -1,4 +1,4 @@
 ---
 title: Gestão de aplicações
-url: /pt/help/app-builder/management
+url: /pt/ajuda/app-builder/management
 ---
