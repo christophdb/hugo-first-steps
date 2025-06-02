@@ -1,4 +1,4 @@
 ---
-title: Automations
-url: /es/ayuda/base-editor/automationen
+title: Automatizaciones
+url: /es/ayuda/base-editor/automatizaciones
 ---

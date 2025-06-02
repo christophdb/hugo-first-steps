@@ -1,4 +1,4 @@
 ---
-title: Formulas
-url: '/ru/pomoshch/base-editor/formeln'
+title: Формулы
+url: /ru/pomoshch/base-editor/formuly
 ---

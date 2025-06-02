@@ -1,5 +1,5 @@
 ---
-title: Team
-url: /es/ayuda/teamverwaltung/team
+title: Equipo
+url: /es/ayuda/administracion-del-equipo/equipo
 weight: 2
 ---

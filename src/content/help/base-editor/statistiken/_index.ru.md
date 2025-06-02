@@ -1,4 +1,4 @@
 ---
-title: Statistics
-url: '/ru/pomoshch/base-editor/statistcs'
+title: Статистика
+url: /ru/pomoshch/base-editor/statistika
 ---

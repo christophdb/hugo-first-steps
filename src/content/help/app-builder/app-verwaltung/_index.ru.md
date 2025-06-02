@@ -1,4 +1,4 @@
 ---
 title: Управление приложениями
-url: '/ru/pomoshch/app-builder/management'
+url: /ru/pomoshch/app-builder/upravlenie
 ---

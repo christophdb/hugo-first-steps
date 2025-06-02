@@ -1,8 +1,8 @@
 ---
-title: 'Página principal'
+title: 'Página inicial'
 description: ''
 weight: 2
-url: '/pt/ajuda/homepage'
+url: '/pt/ajuda/pagina-inicial'
 icon: 'compass'
 color: bg-blue-100
 ---

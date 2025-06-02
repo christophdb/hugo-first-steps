@@ -1,5 +1,5 @@
 ---
-title: 'Import of data'
+title: 'Data import'
 description: ''
-url: '/help/homepage/import-von-daten'
+url: '/help/homepage/data-import'
 ---

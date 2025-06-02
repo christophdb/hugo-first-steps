@@ -1,5 +1,5 @@
 ---
-title: Support
-url: '/ru/pomoshch/teamverwaltung/support'
+title: Поддержка
+url: /ru/pomoshch/administratsiya-komandy/podderzhka
 weight: 6
 ---

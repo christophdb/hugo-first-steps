@@ -1,5 +1,5 @@
 ---
-title: 'General about scripts'
-url: '/ru/pomoshch/skripte/allgemeines'
+title: 'Общая информация о скриптах'
+url: /ru/pomoshch/skripty/obshchaya-informatsiya
 weight: 1
 ---

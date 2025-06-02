@@ -1,4 +1,4 @@
 ---
-title: 'Personal Settings'
-url: '/es/ayuda/homepage/persoenliche-einstellungen'
+title: 'Opciones personales'
+url: '/es/ayuda/pagina-de-inicio/opciones-personales'
 ---

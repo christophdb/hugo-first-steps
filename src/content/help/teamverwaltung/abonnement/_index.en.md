@@ -1,5 +1,5 @@
 ---
 title: Subscription
-url: /help/abrechnung/subscription
+url: /help/team-administration/subscription
 weight: 4
 ---

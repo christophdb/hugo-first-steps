@@ -1,4 +1,4 @@
 ---
 title: Configuración de la aplicación
-url: /es/ayuda/app-builder/settings
+url: /es/ayuda/app-builder/configuracion
 ---

@@ -1,4 +1,4 @@
 ---
-title: Columns
-url: '/ru/pomoshch/base-editor/columns'
+title: Столбцы
+url: /ru/pomoshch/base-editor/stolbtsy
 ---

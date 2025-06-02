@@ -1,5 +1,5 @@
 ---
-title: 'Introduction to the basics'
-url: '/fr/aide/first-steps/einstieg'
+title: 'Introduction aux bases'
+url: '/fr/aide/premiers-pas/introduction'
 weight: 1
 ---

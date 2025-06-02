@@ -1,6 +1,6 @@
 ---
 title: 'Bases'
 description: ''
-url: '/help/startseite/bases'
+url: '/help/homepage/bases'
 weight: 1
 ---

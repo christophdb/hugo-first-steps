@@ -1,5 +1,5 @@
 ---
-title: 'Online Course - Level 1'
-url: '/fr/aide/first-steps/online-kurs'
+title: 'Cours en ligne – Niveau 1'
+url: '/fr/aide/premiers-pas/cours-en-ligne'
 weight: 3
 ---

@@ -1,4 +1,4 @@
 ---
-title: Automations
-url: '/ru/pomoshch/base-editor/automationen'
+title: Автоматизация
+url: /ru/pomoshch/base-editor/avtomatizatsiya
 ---

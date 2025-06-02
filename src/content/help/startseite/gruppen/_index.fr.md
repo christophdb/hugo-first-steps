@@ -1,5 +1,5 @@
 ---
-title: 'Groups'
+title: 'Groupes'
 description: ''
-url: '/fr/aide/homepage/groups'
+url: '/fr/aide/page-d-accueil/groupes'
 ---

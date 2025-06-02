@@ -1,4 +1,4 @@
 ---
 title: 'Zapier'
-url: '/ru/pomoshch/integration/zapier'
+url: '/ru/pomoshch/integratsii/zapier'
 ---

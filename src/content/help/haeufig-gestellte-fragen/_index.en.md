@@ -1,5 +1,5 @@
 ---
-title: 'FAQ'
+title: 'Frequently asked questions'
 description: ''
 weight: 10
 url: '/help/faq'

@@ -1,5 +1,5 @@
 ---
-title: 'Sharings'
+title: 'Compartir'
 description: ''
-url: '/es/ayuda/homepage/freigaben'
+url: '/es/ayuda/pagina-de-inicio/compartir'
 ---

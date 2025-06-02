@@ -1,4 +1,4 @@
 ---
 title: 'API'
-url: '/help/integrations/api'
+url: '/de/hilfe/integrationen/api'
 ---

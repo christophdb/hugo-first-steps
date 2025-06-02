@@ -1,5 +1,5 @@
 ---
-title: Support
-url: /es/ayuda/teamverwaltung/support
+title: Soporte
+url: /es/ayuda/administracion-del-equipo/soporte
 weight: 6
 ---

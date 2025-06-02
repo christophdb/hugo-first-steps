@@ -1,4 +1,4 @@
 ---
-title: Page types
-url: /help/app-builder/seitentypen-der-universelle-apps
+title: Page types in universal apps
+url: /help/app-builder/page-types
 ---

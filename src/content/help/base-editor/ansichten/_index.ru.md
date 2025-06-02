@@ -1,4 +1,4 @@
 ---
-title: Working with Views
-url: '/ru/pomoshch/base-editor/grundlagen-von-ansichten'
+title: Просмотров
+url: /ru/pomoshch/base-editor/prosmotrov
 ---

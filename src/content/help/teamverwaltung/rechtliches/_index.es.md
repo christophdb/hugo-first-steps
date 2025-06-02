@@ -1,5 +1,5 @@
 ---
 title: Legal
-url: /es/de/hilfe/teamverwaltung/legal
+url: /es/ayuda/administracion-del-equipo/legal
 weight: 7
 ---
