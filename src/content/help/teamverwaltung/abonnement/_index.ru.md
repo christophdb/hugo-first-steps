@@ -1,5 +1,5 @@
 ---
-title: Subscription
-url: '/ru/pomoshch/abrechnung/subscription'
+title: Подписка
+url: '/ru/pomoshch/administratsiya-komandy/podpiska'
 weight: 4
 ---

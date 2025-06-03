@@ -1,5 +1,5 @@
 ---
-title: Legal
-url: /ru/de/hilfe/teamverwaltung/legal
+title: Правовой
+url: '/ru/pomoshch/administratsiya-komandy/pravovoy'
 weight: 7
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Häufige Fragen'
+title: 'Häufig gestellte Fragen'
 description: ''
 weight: 10
 url: '/de/hilfe/faq'

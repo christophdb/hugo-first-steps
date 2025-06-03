@@ -1,6 +1,6 @@
 ---
 title: Список изменений
-url: /ru/changelog
+url: '/ru/changelog'
 
 sections:
     - name: 'hero-2'

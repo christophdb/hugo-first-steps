@@ -1,4 +1,4 @@
 ---
-title: History and versions
-url: '/ru/pomoshch/base-editor/historie-und-versionen'
+title: История и версии
+url: '/ru/pomoshch/base-editor/istoriya-i-versii'
 ---

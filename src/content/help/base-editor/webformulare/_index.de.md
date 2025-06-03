@@ -1,4 +1,4 @@
 ---
 title: Webformulare
-url: /de/hilfe/base-editor/webformulare
+url: '/de/hilfe/base-editor/webformulare'
 ---

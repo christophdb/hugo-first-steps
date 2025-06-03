@@ -1,5 +1,5 @@
 ---
 title: 'Common datasets'
 description: ''
-url: '/help/homepage/gemeinsame-datensaetze'
+url: '/help/homepage/common-datasets'
 ---

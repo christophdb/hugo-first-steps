@@ -1,6 +1,6 @@
 ---
 title: Changelog
-url: /de/changelog
+url: '/de/changelog'
 
 sections:
     - name: 'hero-2'

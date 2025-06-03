@@ -1,5 +1,5 @@
 ---
 title: Rechtliches
-url: /de/hilfe/teamverwaltung/rechtliches
+url: '/de/hilfe/teamverwaltung/rechtliches'
 weight: 7
 ---

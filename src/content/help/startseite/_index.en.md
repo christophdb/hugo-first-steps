@@ -1,5 +1,5 @@
 ---
-title: 'Home page'
+title: 'Homepage'
 description: ''
 weight: 2
 url: '/help/homepage'

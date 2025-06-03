@@ -1,5 +1,5 @@
 ---
-title: 'FAQ'
+title: 'Часто задаваемые вопросы'
 description: ''
 weight: 10
 url: '/ru/pomoshch/faq'

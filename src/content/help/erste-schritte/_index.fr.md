@@ -2,7 +2,7 @@
 title: 'Pour commencer'
 description: ''
 weight: 1
-url: '/fr/aide/first-steps'
+url: '/fr/aide/premiers-pas'
 icon: 'lightbulb'
 color: bg-red-100
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kurzanleitung
-url: /de/kurzanleitung
+url: '/de/kurzanleitung'
 
 sections:
     - name: 'hero-2'

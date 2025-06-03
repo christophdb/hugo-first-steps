@@ -1,4 +1,4 @@
 ---
-title: Page types
-url: '/ru/pomoshch/app-builder/seitentypen-der-universelle-apps'
+title: Типы страниц в универсальных приложениях
+url: '/ru/pomoshch/app-builder/tipy-stranits'
 ---

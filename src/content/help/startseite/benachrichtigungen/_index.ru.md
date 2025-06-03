@@ -1,5 +1,5 @@
 ---
-title: 'Notifications'
+title: 'Уведомления'
 description: ''
-url: '/ru/pomoshch/homepage/benachrichtigungen'
+url: '/ru/pomoshch/glavnaya-stranitsa/uvedomleniya'
 ---

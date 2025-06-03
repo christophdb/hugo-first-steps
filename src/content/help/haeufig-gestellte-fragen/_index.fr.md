@@ -1,5 +1,5 @@
 ---
-title: 'FAQ'
+title: 'Foire aux questions'
 description: ''
 weight: 10
 url: '/fr/aide/faq'

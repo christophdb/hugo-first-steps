@@ -1,4 +1,4 @@
 ---
 title: 'Zapier'
-url: '/pt/ajuda/integration/zapier'
+url: '/pt/ajuda/integrações/zapier'
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Import of data'
+title: 'Импорт данных'
 description: ''
-url: '/ru/pomoshch/homepage/import-von-daten'
+url: '/ru/pomoshch/glavnaya-stranitsa/import-dannykh'
 ---

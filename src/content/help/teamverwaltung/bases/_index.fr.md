@@ -1,5 +1,5 @@
 ---
 title: Bases
-url: /fr/aide/teamverwaltung/bases
+url: '/fr/aide/administration-de-l-equipe/bases'
 weight: 3
 ---

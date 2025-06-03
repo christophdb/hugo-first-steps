@@ -1,4 +1,4 @@
 ---
 title: App-Verwaltung
-url: /de/hilfe/app-builder/verwaltung
+url: '/de/hilfe/app-builder/verwaltung'
 ---

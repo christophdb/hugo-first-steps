@@ -1,4 +1,4 @@
 ---
 title: Statistics
-url: /help/base-editor/statistcs
+url: '/help/base-editor/statistics'
 ---

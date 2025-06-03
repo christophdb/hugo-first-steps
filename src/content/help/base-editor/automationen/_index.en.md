@@ -1,4 +1,4 @@
 ---
 title: Automations
-url: /help/base-editor/automationen
+url: '/help/base-editor/automations'
 ---

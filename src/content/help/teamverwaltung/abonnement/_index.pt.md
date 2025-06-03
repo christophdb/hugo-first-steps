@@ -1,5 +1,5 @@
 ---
-title: Subscription
-url: /pt/ajuda/abrechnung/subscription
+title: Assinatura
+url: '/pt/ajuda/administracao-da-equipa/assinatura'
 weight: 4
 ---

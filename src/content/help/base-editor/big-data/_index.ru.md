@@ -1,4 +1,4 @@
 ---
-title: Big Data
-url: '/ru/pomoshch/base-editor/big-data'
+title: Большие данные
+url: '/ru/pomoshch/base-editor/bolshie-dannye'
 ---
