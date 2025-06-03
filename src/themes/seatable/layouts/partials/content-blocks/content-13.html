@@ -29,7 +29,7 @@
         <div class="flex basis-1/2 flex-col pl-16">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
             <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
-            <p class="mb-4 mt-8 text-xl leading-relaxed">{{ .description }}</p>
+            <p class="mb-4 mt-8 text-xl leading-relaxed">{{ .description | markdownify }}</p>
         </div>
         <div class="grid basis-1/2 grid-cols-1 gap-4 md:grid-cols-2">
             {{ range .items }}
@@ -38,6 +38,7 @@
                     <p class="mb-2 mt-4 text-sm">{{ .text | markdownify }}</p>
                 </div>
             {{ end }}
+        </div>
         </div>
     </section>
 </section>
