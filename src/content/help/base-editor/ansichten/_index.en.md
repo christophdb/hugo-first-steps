@@ -1,4 +1,4 @@
 ---
 title: Views
-url: /help/base-editor/views
+url: '/help/base-editor/views'
 ---

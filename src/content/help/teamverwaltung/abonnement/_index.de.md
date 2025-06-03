@@ -1,5 +1,5 @@
 ---
 title: Abonnement
-url: /de/hilfe/teamverwaltung/abonnement
+url: '/de/hilfe/teamverwaltung/abonnement'
 weight: 4
 ---

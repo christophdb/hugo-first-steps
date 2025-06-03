@@ -1,4 +1,4 @@
 ---
 title: Tables
-url: /help/base-editor/tables
+url: '/help/base-editor/tables'
 ---

@@ -1,4 +1,4 @@
 ---
 title: Plugins
-url: /pt/ajuda/base-editor/plugins
+url: '/pt/ajuda/base-editor/plugins'
 ---

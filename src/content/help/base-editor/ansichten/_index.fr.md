@@ -1,4 +1,4 @@
 ---
 title: Vues
-url: /fr/aide/base-editor/vues
+url: '/fr/aide/base-editor/vues'
 ---

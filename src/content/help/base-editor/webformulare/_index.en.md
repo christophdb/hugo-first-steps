@@ -1,4 +1,4 @@
 ---
 title: Web Forms
-url: /help/base-editor/web-forms
+url: '/help/base-editor/web-forms'
 ---

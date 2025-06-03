@@ -1,4 +1,4 @@
 ---
 title: Плагины
-url: /ru/pomoshch/base-editor/plaginy
+url: '/ru/pomoshch/base-editor/plaginy'
 ---

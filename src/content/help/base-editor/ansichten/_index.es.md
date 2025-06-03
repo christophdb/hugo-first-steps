@@ -1,4 +1,4 @@
 ---
 title: Vistas
-url: /es/ayuda/base-editor/vistas
+url: '/es/ayuda/base-editor/vistas'
 ---

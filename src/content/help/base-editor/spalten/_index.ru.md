@@ -1,4 +1,4 @@
 ---
 title: Столбцы
-url: /ru/pomoshch/base-editor/stolbtsy
+url: '/ru/pomoshch/base-editor/stolbtsy'
 ---
