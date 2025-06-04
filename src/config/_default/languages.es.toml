@@ -5,7 +5,8 @@ weight = 4
 title = "SeaTable"
 
 [params]
-  displayName = "ES"
-  isoCode = "es"
-  dateFormat = "2 January 2006"
-  logo = "/images/seatable-logo.svg"
+displayName = "ES"
+isoCode = "es"
+dateFormat = "2 January 2006"
+logo = "/images/seatable-logo.svg"
+footerPhrase = "Hágalo como miles de personas que desarrollan cada día potentes procesos con SeaTable."
