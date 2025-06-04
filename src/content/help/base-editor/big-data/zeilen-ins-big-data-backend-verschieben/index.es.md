@@ -28,7 +28,7 @@ Sólo puede mover filas a la memoria [de big]({{< relref "help/base-editor/big-d
 
 {{< warning  headline="Consejo" >}}
 
-Por ejemplo, si desea **archivar entradas antiguas**, puede filtrar previamente la vista con los tipos de columna [Creado]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}) o [Último editado]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}).
+Por ejemplo, si desea **archivar entradas antiguas**, puede filtrar previamente la vista con los tipos de columna [Creado]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}) o [Último editado]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}).
 
 {{< /warning >}}
 

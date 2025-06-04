@@ -55,7 +55,7 @@ Il s'agit uniquement d'un réglage par défaut lors de la première ouverture de
 
 ## Charger la liste des collaborateurs
 
-Dans la quatrième section, vous pouvez décider si votre **liste de collaborateurs** doit être visible dans l'application pour tous les utilisateurs. Vous pouvez alors ajouter des personnes dans [les colonnes des collaborateurs]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) ou les ajouter aux [commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
+Dans la quatrième section, vous pouvez décider si votre **liste de collaborateurs** doit être visible dans l'application pour tous les utilisateurs. Vous pouvez alors ajouter des personnes dans [les colonnes des collaborateurs]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) ou les ajouter aux [commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
 
 ![Charger la liste des collaborateurs dans les applications](images/Load-collaborator-list-in-apps.png)
 

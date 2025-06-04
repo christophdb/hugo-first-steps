@@ -37,6 +37,6 @@ Commençons par le plus important : **la suppression d'une application ne fait j
 
 Veuillez noter, cependant, que lorsque vous supprimez une application universelle, toutes les pages et tous les dossiers qui se trouvent dans **l’application** sont également **définitivement supprimés** et ne peuvent pas _être restaurés_.[]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}})
 
-Lors de la suppression d'une **application de galerie**, _seules_ les **galeries** présentées dans l'application sont supprimées, les **images** restent en revanche conservées dans [les colonnes d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) de vos tableaux.
+Lors de la suppression d'une **application de galerie**, _seules_ les **galeries** présentées dans l'application sont supprimées, les **images** restent en revanche conservées dans [les colonnes d'images]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) de vos tableaux.
 
 De même, la suppression d'une **application de consultation de données** ne supprime **aucune donnée**, mais uniquement le **masque de recherche**.

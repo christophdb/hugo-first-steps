@@ -51,7 +51,7 @@ La acción de automatización "Enviar notificación" está disponible actualment
 - Activador periódico
 - Activación periódica de entradas que cumplen una determinada condición
 
-El artículo [Envío de notificaciones mediante automatización]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}}) recorre esta automatización utilizando un caso de uso concreto.
+El artículo [Envío de notificaciones mediante automatización]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}}) recorre esta automatización utilizando un caso de uso concreto.
 
 ## Acción de automatización: Enviar notificación de aplicación
 
@@ -130,7 +130,7 @@ La acción de automatización "Editar entrada" está disponible actualmente para
 
 ## Acción de automatización: Añadir enlaces
 
-Si selecciona "Añadir enlaces" como acción automatizada, se creará un enlace [a las entradas de otra tabla]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en la columna correspondiente cuando se **active el activador**. En la **configuración** de la regla de automatización, puede especificar exactamente en qué condiciones se añade el enlace a la tabla.
+Si selecciona "Añadir enlaces" como acción automatizada, se creará un enlace [a las entradas de otra tabla]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en la columna correspondiente cuando se **active el activador**. En la **configuración** de la regla de automatización, puede especificar exactamente en qué condiciones se añade el enlace a la tabla.
 
 ![Acción de automatización: "Añadir una columna vinculada a la tabla".](images/action-add-links.png)
 

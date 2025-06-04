@@ -51,7 +51,7 @@ Die Automations-Aktion "Benachrichtigung versenden" steht Ihnen derzeit bei folg
 - Periodischer Trigger
 - Periodischer Trigger für Einträge, die eine bestimmte Bedingung erfüllen
 
-Der Artikel [Benachrichtigungen per Automation versenden]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
+Der Artikel [Benachrichtigungen per Automation versenden]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}}) spielt diese Automation anhand eines konkreten Anwendungsfalls durch.
 
 ## Automations-Aktion: App-Benachrichtigung versenden
 
@@ -129,7 +129,7 @@ Die Automations-Aktion "Eintrag bearbeiten" steht Ihnen derzeit bei folgenden **
 
 ## Automations-Aktion: Links hinzufügen
 
-Wenn Sie "Links hinzufügen" als automatisierte Aktion auswählen, wird in der entsprechenden Spalte bei Auslösung des **Triggers** eine [Verknüpfung zu Einträgen einer anderen Tabelle]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) herstellt. In den **Einstellungen** der Automatisierungsregel können Sie dabei genauestens festlegen, unter welchen Bedingungen welcher Link in der Tabelle hinzugefügt wird.
+Wenn Sie "Links hinzufügen" als automatisierte Aktion auswählen, wird in der entsprechenden Spalte bei Auslösung des **Triggers** eine [Verknüpfung zu Einträgen einer anderen Tabelle]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) herstellt. In den **Einstellungen** der Automatisierungsregel können Sie dabei genauestens festlegen, unter welchen Bedingungen welcher Link in der Tabelle hinzugefügt wird.
 
 ![Automations-Aktion: "Hinzufügen einer verlinkten Spalte in die Tabelle"](images/action-add-links.png)
 

@@ -21,7 +21,7 @@ Ein **Plugin** ist eine optionale Softwarekomponente in SeaTable, die Ihnen zus�
 
 ## Kalender-Plugin
 
-Im Kalender-Plugin können Sie Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) in einer **Jahres-**, **Monats-**, **Wochen-**, **Tages-** oder **Agenda-Ansicht** anzeigen. Sie können mithilfe von zwei Datum-Spalten auch **Zeitspannen** darstellen und so einen Überblick über alle wichtigen Termine etc. behalten.
+Im Kalender-Plugin können Sie Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) in einer **Jahres-**, **Monats-**, **Wochen-**, **Tages-** oder **Agenda-Ansicht** anzeigen. Sie können mithilfe von zwei Datum-Spalten auch **Zeitspannen** darstellen und so einen Überblick über alle wichtigen Termine etc. behalten.
 
 ![](images/Calendar.png)
 
@@ -43,7 +43,7 @@ Das Timeline-Plugin stellt durch ein Start- und Enddatum bzw. durch ein Startdat
 
 ## Galerie-Plugin
 
-Das Galerie-Plugin eignet sich besonders gut, um Datensätze mit **Bildern** darzustellen, da es sich in erster Linie auf die Inhalte einer [Bild-Spalte]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) bezieht. Unter den Bildern werden die Einträge einer Spalte als **Titel** angezeigt. Zudem besteht die Möglichkeit, in diesem Plugin weitere Spalten der Tabelle einzublenden und so die Bilder durch mehr Informationen aus den Datensätzen zu ergänzen. Insbesondere bei kreativen und künstlerischen Projekten ist dies sehr hilfreich, um auf einen Blick alle Informationen zusammenzufassen.
+Das Galerie-Plugin eignet sich besonders gut, um Datensätze mit **Bildern** darzustellen, da es sich in erster Linie auf die Inhalte einer [Bild-Spalte]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) bezieht. Unter den Bildern werden die Einträge einer Spalte als **Titel** angezeigt. Zudem besteht die Möglichkeit, in diesem Plugin weitere Spalten der Tabelle einzublenden und so die Bilder durch mehr Informationen aus den Datensätzen zu ergänzen. Insbesondere bei kreativen und künstlerischen Projekten ist dies sehr hilfreich, um auf einen Blick alle Informationen zusammenzufassen.
 
 ![Galerie-Plugin](images/Galerie.png)
 

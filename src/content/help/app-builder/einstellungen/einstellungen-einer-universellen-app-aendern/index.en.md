@@ -55,7 +55,7 @@ This is only a default setting when the app is opened for the first time. Every 
 
 ## Load employee list
 
-In the fourth section, you can decide whether your **employee list** should be visible to all users in the app. You can then enter people in [employee columns]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) or add them to [comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
+In the fourth section, you can decide whether your **employee list** should be visible to all users in the app. You can then enter people in [employee columns]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) or add them to [comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
 
 ![Load collaborator list in apps](images/Load-collaborator-list-in-apps.png)
 

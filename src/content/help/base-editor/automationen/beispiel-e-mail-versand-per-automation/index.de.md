@@ -48,7 +48,7 @@ Im nächsten Schritt wählen Sie zunächst ein **E-Mail-Konto** aus, von welchem
 
 ![Auswahl eines E-Mail-Kontos für den Versand](images/select-email-account.png)
 
-Nach der Auswahl des E-Mail-Kontos legen Sie den **Betreff**, **Empfänger** und **Inhalt** der E-Mail fest. Sie können **mehrere E-Mail-Adressen** per Komma getrennt und in CC eintragen. Anschließend haben Sie zudem die Möglichkeit, **Anhänge** aus einer [Dateispalte]({{< relref "help/base-editor/spalten/die-datei-spalte" >}}) einzufügen.
+Nach der Auswahl des E-Mail-Kontos legen Sie den **Betreff**, **Empfänger** und **Inhalt** der E-Mail fest. Sie können **mehrere E-Mail-Adressen** per Komma getrennt und in CC eintragen. Anschließend haben Sie zudem die Möglichkeit, **Anhänge** aus einer [Dateispalte]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) einzufügen.
 
 ![Definition der per Automation zu versendenen E-Mail](images/define-email.png)
 
@@ -86,7 +86,7 @@ Im nächsten Schritt wählen Sie ein **E-Mail-Konto** aus, von welchem Sie die E
 
 ![Auswahl eines E-Mail-Kontos für den Versand](images/select-email-account-1.png)
 
-Nach der Auswahl Ihres E-Mail-Kontos legen Sie den **Betreff**, **Empfänger** und **Inhalt** der E-Mails fest. Sie können **mehrere E-Mail-Adressen** per Komma getrennt und in CC eintragen. Abschließend haben Sie zudem die Möglichkeit, **Anhänge** aus einer [Dateispalte]({{< relref "help/base-editor/spalten/die-datei-spalte" >}}) einzufügen.
+Nach der Auswahl Ihres E-Mail-Kontos legen Sie den **Betreff**, **Empfänger** und **Inhalt** der E-Mails fest. Sie können **mehrere E-Mail-Adressen** per Komma getrennt und in CC eintragen. Abschließend haben Sie zudem die Möglichkeit, **Anhänge** aus einer [Dateispalte]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) einzufügen.
 
 {{< warning  headline="Tipp"  text="Mithilfe von geschweiften Klammern können Sie **Inhalte aus Tabellenspalten** im Text der E-Mail zitieren. Nutzen Sie diese Funktion, um automatisch die **Namen** der gekündigten Mitarbeiter in den Text einzusetzen." />}}
 
@@ -106,4 +106,4 @@ Wenn Sie im Anschluss in der ausgewählten Tabelle den Beschäftigungsstatus ein
 - [Verlinken von Einträgen per Automation]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 - [Zeilen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
 - [Einträge in andere Tabellen per Automation hinzufügen]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
-- [Benachrichtigungen per Automation versenden]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})
+- [Benachrichtigungen per Automation versenden]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}})

@@ -18,11 +18,11 @@ Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigatio
 
 ![Modifier les paramètres de la page de la ligne du temps](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-Dans les **paramètres de la page**, vous pouvez tout d'abord régler la représentation graphique des lignes de temps. Pour cela, choisissez la [couleur des lignes]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou une [colonne de sélection simple]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) qui détermine la **couleur des blocs**. Vous pouvez également définir une colonne pour le **libellé des blocs**.
+Dans les **paramètres de la page**, vous pouvez tout d'abord régler la représentation graphique des lignes de temps. Pour cela, choisissez la [couleur des lignes]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou une [colonne de sélection simple]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) qui détermine la **couleur des blocs**. Vous pouvez également définir une colonne pour le **libellé des blocs**.
 
 ![Réglage graphique des lignes de temps dans les apps universelles](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Pour définir la période des entrées, vous avez besoin d'une [colonne de date]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}}) ou [formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) qui indique le nombre de jours. Vous pouvez en outre choisir la **période de temps**, c'est-à-dire le nombre d'années que doit couvrir la ligne du temps.
+Pour définir la période des entrées, vous avez besoin d'une [colonne de date]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}}) ou [formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) qui indique le nombre de jours. Vous pouvez en outre choisir la **période de temps**, c'est-à-dire le nombre d'années que doit couvrir la ligne du temps.
 
 ![Paramètres de la page de la ligne du temps dans les applications universelles](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

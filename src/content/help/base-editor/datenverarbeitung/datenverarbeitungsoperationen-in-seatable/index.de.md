@@ -39,11 +39,11 @@ Folgende **Beziehungs-Operationen** können derzeit mithilfe der Datenverarbeitu
 Für beide Arten von Datenverarbeitungsoperationen gelten jeweils unterschiedliche **Voraussetzungen**, die erfüllt werden müssen, um eine entsprechende Operation anzulegen.
 
 - **Mathematische Operationen** setzen das Vorhandensein von **zwei Zahlen-Spalten** in Ihrer Tabelle voraus.
-- Für die **Beziehungs-Operationen** benötigen Sie je nach Anwendungsfall ganz bestimmte Spaltentypen, z. B. eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) und eine [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) beim Übertragen von Benutzernamen.
+- Für die **Beziehungs-Operationen** benötigen Sie je nach Anwendungsfall ganz bestimmte Spaltentypen, z. B. eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) und eine [Text-Spalte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) beim Übertragen von Benutzernamen.
 
 ## Hinweise zur Ausführung
 
-Datenverarbeitungsoperationen können derzeit [manuell]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) oder [per Automation]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) ausgeführt werden können.
+Datenverarbeitungsoperationen können derzeit [manuell]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) oder [per Automation]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) ausgeführt werden können.
 
 Bei jeder Ausführung der Datenverarbeitungsoperation werden die **Ergebnisse** ohne Rücksicht auf Verluste in die **Ergebnisspalte** geschrieben. Wenn Sie keine Daten überschreiben wollen, sollten Sie für die Ergebnisse im Voraus eine [neue leere Spalte anlegen]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 

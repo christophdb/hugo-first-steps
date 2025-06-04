@@ -28,13 +28,13 @@ Es ist möglich, den Spaltentyp im Nachhinein noch zu ändern. Hier erfahren Sie
 
 Die **erste Spalte** in einer Tabelle unterstützt **nur 6 der 25 Spaltentypen**. Diese sind:
 
-- [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Zahl]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Datum]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Einfachauswahl]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Automatische Nummer]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
+- [Text]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+- [Zahl]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+- [Datum]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+- [Einfachauswahl]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+- [Automatische Nummer]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Warnung vor Datenverlust
 
-Die **Konvertierung** von bestimmten Spaltentypen führt in der Regel zu unerwünschtem **Datenverlust**. Dies ist beispielsweise bei [Datei-]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) der Fall oder wenn Sie [Textspalten]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) in numerische Spalten umwandeln. SeaTable blendet Ihnen in diesen Fällen die **Warnmeldung** ein, ob Sie den Spaltentyp wirklich ändern möchten.
+Die **Konvertierung** von bestimmten Spaltentypen führt in der Regel zu unerwünschtem **Datenverlust**. Dies ist beispielsweise bei [Datei-]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) der Fall oder wenn Sie [Textspalten]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) in numerische Spalten umwandeln. SeaTable blendet Ihnen in diesen Fällen die **Warnmeldung** ein, ob Sie den Spaltentyp wirklich ändern möchten.

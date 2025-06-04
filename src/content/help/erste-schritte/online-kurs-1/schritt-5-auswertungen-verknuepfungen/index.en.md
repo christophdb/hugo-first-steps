@@ -51,4 +51,4 @@ This brings us to the end of this section. Scroll to the end and skip to the six
 ## Help article with further information
 
 - [Adjust row height]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
-- [The roll-up formula]({{< relref "help/base-editor/spalten/die-rollup-formel" >}})
+- [The roll-up formula]({{< relref "help/base-editor/formeln/die-rollup-formel" >}})

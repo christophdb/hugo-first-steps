@@ -59,7 +59,7 @@ Dans l'étape suivante, vous pouvez sélectionner un nombre quelconque de colonn
 
 {{< warning  headline="Attention à la perte de données" >}}
 
-Les colonnes source et résultat doivent avoir **le même type de colonne** afin de ne pas perdre de données lors de la copie. Vous pouvez par exemple copier des données d'une [colonne de date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) dans une [colonne de texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), mais elles ne conviennent plus pour les [calendriers](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/). Avant d'effectuer l'opération, créez donc une **colonne de résultats** du même type dans le tableau cible pour chaque **colonne source** que vous souhaitez copier.
+Les colonnes source et résultat doivent avoir **le même type de colonne** afin de ne pas perdre de données lors de la copie. Vous pouvez par exemple copier des données d'une [colonne de date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) dans une [colonne de texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), mais elles ne conviennent plus pour les [calendriers](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/). Avant d'effectuer l'opération, créez donc une **colonne de résultats** du même type dans le tableau cible pour chaque **colonne source** que vous souhaitez copier.
 
 {{< /warning >}}
 
@@ -73,7 +73,7 @@ Si l'opération est exécutée avec succès, les tables **employees** et **open 
 
 Les types de colonnes suivants ne peuvent **pas** être copiés à l'aide de l'opération _Comparer et copier_ et ne sont donc **pas** disponibles lors de la définition des colonnes source et résultat.
 
-- [Colonne à choix multiples]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
-- [La colonne Créateur]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
-- [La colonne Dernier intervenant]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Bouton]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})
+- [Colonne à choix multiples]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
+- [La colonne Créateur]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}})
+- [La colonne Dernier intervenant]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Bouton]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})

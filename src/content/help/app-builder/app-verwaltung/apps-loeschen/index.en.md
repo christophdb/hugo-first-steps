@@ -37,6 +37,6 @@ First things first: **Deleting an app never loses data in the underlying base**.
 
 Please note, however, that when you delete a **Universal App** , all [pages and folders]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) that are in the app are also **permanently deleted** and cannot _be restored_ .
 
-When you delete a **gallery app**, _only_ the **galleries** displayed in the app are deleted, but the **images** remain in the [image columns]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) of your tables.
+When you delete a **gallery app**, _only_ the **galleries** displayed in the app are deleted, but the **images** remain in the [image columns]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) of your tables.
 
 Also, when you delete a **data query app**, **no data** is deleted, only the **search screen**.

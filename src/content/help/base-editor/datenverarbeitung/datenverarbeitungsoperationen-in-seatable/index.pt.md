@@ -39,11 +39,11 @@ As seguintes **operações de relacionamento** podem actualmente ser realizadas 
 Os dois tipos de operações de tratamento de dados têm **requisitos** diferentes que devem ser cumpridos cada um para criar uma operação correspondente.
 
 - **As operações matemáticas** requerem a presença de **duas colunas de números** na sua tabela.
-- Para as **operações de relacionamento**, são necessários tipos de colunas muito específicos dependendo da aplicação, por exemplo uma [coluna de pessoal]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) e uma coluna de [texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) quando se transferem nomes de utilizadores.
+- Para as **operações de relacionamento**, são necessários tipos de colunas muito específicos dependendo da aplicação, por exemplo uma [coluna de pessoal]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) e uma coluna de [texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) quando se transferem nomes de utilizadores.
 
 ## Notas sobre a execução
 
-Actualmente, as operações de processamento de dados podem ser executadas [manualmente]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) ou [por automatização]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
+Actualmente, as operações de processamento de dados podem ser executadas [manualmente]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) ou [por automatização]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
 
 Cada vez que a operação de processamento de dados é executada, os **resultados** são escritos na **coluna de resultados** independentemente. Se não quiser sobregravar quaisquer dados, deve [criar]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para os resultados.
 

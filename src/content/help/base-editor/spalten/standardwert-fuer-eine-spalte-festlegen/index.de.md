@@ -27,7 +27,7 @@ Zudem können Sie bereits beim [Anlegen einer neuen Spalte]({{< relref "help/bas
 ## Für welche Spaltentypen Sie Standardwerte festlegen können
 
 Standardwerte können für zahlreiche, aber nicht für alle [Spaltentypen in SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
-) definiert werden. Spalten, deren Inhalt automatisch von SeaTable generiert wird ([Formeln]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}), [Datei-]({{< relref "help/base-editor/spalten/die-datei-spalte" >}}) und [Signatur-](https://seatable.io/docs/dateien-und-bilder/die-signatur-spalte/)Spalten.
+) definiert werden. Spalten, deren Inhalt automatisch von SeaTable generiert wird ([Formeln]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), [Datei-]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) und [Signatur-](https://seatable.io/docs/dateien-und-bilder/die-signatur-spalte/)Spalten.
 
 **Hier eine Übersicht, für welche Spaltentypen Sie Standardwerte festlegen können:**
 
@@ -60,7 +60,7 @@ Standardwerte können für zahlreiche, aber nicht für alle [Spaltentypen in Sea
 
 ## Referenzierte Standardwerte in Text-Spalten
 
-Wenn Sie als Standardwert in einer [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) die Referenz **{creator.name}** oder **{creator.id}** festlegen, wird automatisch der **Name** oder die **ID des Benutzers** eingetragen, der die Zeile hinzugefügt hat.
+Wenn Sie als Standardwert in einer [Text-Spalte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) die Referenz **{creator.name}** oder **{creator.id}** festlegen, wird automatisch der **Name** oder die **ID des Benutzers** eingetragen, der die Zeile hinzugefügt hat.
 
 ![Mit einem Standardwert auf den Benutzernamen referenzieren](images/Set-creator-name-as-default-value.png)
 
@@ -69,7 +69,7 @@ Wenn Sie als Standardwert in einer [Text-Spalte]({{< relref "help/base-editor/sp
 Die Standardwerte greifen **überall**, wo Sie neue Zeilen anlegen können:
 
 - in einer [Tabelle]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
-- in einer [Link-Spalte]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- in einer [Link-Spalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - per [Schaltfläche](https://seatable.io/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (Aktion: „Zeile in andere Tabelle kopieren“)
 - per [Automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (Aktionen: „Zeile hinzufügen“ und „Neuen Eintrag in anderer Tabelle hinzufügen“)
 - im [Kalender-]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})

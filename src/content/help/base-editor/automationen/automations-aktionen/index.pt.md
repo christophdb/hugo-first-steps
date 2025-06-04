@@ -51,7 +51,7 @@ A ação de automatização "Enviar notificação" está atualmente disponível 
 - Desencadeamento periódico
 - Acionador periódico para entradas que preenchem uma determinada condição
 
-O artigo O [envio de notificações via automatização]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}}) percorre esta automatização utilizando um caso de uso concreto.
+O artigo O [envio de notificações via automatização]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}}) percorre esta automatização utilizando um caso de uso concreto.
 
 ## Ação de automatização: Enviar notificação de aplicação
 
@@ -130,7 +130,7 @@ A ação de automatização "Editar entrada" está atualmente disponível para o
 
 ## Acção de automatização: Adicionar ligações
 
-Se selecionar "Adicionar ligações" como uma ação automatizada, é criada uma ligação [a entradas noutra tabela]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) na coluna correspondente quando o **acionador é acionado**. Nas **definições** da regra de automatização, pode especificar exatamente em que condições a ligação é adicionada à tabela.
+Se selecionar "Adicionar ligações" como uma ação automatizada, é criada uma ligação [a entradas noutra tabela]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) na coluna correspondente quando o **acionador é acionado**. Nas **definições** da regra de automatização, pode especificar exatamente em que condições a ligação é adicionada à tabela.
 
 ![Acção de automatização: "Acrescentar uma coluna ligada à tabela".](images/action-add-links.png)
 

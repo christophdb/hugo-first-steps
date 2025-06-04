@@ -18,7 +18,7 @@ url: '/ru/pomoshch/datenimport-und-export'
 
 ![Экспортные базы](images/export-bases.png)
 
-SeaTable использует [формат файла DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) для экспорта баз. Для получения дополнительной информации см. статью [Сохранение базы в виде файла DTABLE]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}}).
+SeaTable использует [формат файла DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) для экспорта баз. Для получения дополнительной информации см. статью [Сохранение базы в виде файла DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}).
 
 ## Таблица экспорта
 

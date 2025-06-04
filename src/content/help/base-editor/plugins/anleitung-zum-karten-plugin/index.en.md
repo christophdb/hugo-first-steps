@@ -58,7 +58,7 @@ Decide between the default display with **location pins** or use **images** to m
 
 ![Map plugin the default map](images/default-map.png)
 
-If you choose to display images, you must specify the image [column]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) from which to display the images.
+If you choose to display images, you must specify the image [column]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) from which to display the images.
 
 ![The image display in the map plugin](images/bildanzeige.png)
 
@@ -74,7 +74,7 @@ Specify here a text column where you have entered addresses or place names, or a
 
 ### Marker color
 
-If you have [color-marked]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) with colored options in the table [rows , you can select at this point which of these should determine the]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) **color of the map markers**.
+If you have [color-marked]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) with colored options in the table [rows , you can select at this point which of these should determine the]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) **color of the map markers**.
 
 ### Display field
 

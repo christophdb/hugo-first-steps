@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/ru/pomoshch/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Используя функцию обработки данных, вы можете выполнять различные операции над столбцом. **Перенос имен пользователей** - это операция, которая может копировать данные из столбцов типа [Сотрудник]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Создатель]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}) в [текстовый столбец]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
+Используя функцию обработки данных, вы можете выполнять различные операции над столбцом. **Перенос имен пользователей** - это операция, которая может копировать данные из столбцов типа [Сотрудник]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), [Создатель]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}) в [текстовый столбец]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}).
 
 ## Проведение операции
 
@@ -31,7 +31,7 @@ url: '/ru/pomoshch/datenverarbeitung-benutzernamen-uebertragen'
 
 ## Выполнение операции
 
-Если, например, вы ведете таблицу с заданиями, в которой **члены** вашей **команды** записаны в качестве ответственных контактных лиц в [столбце сотрудников]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), вы можете просто скопировать имена пользователей в [текстовый столбец]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), например, чтобы использовать их для списка сотрудников.
+Если, например, вы ведете таблицу с заданиями, в которой **члены** вашей **команды** записаны в качестве ответственных контактных лиц в [столбце сотрудников]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), вы можете просто скопировать имена пользователей в [текстовый столбец]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), например, чтобы использовать их для списка сотрудников.
 
 Для этого выполните описанные выше действия и выберите столбец сотрудников в качестве **столбца-источника**, а столбец текста - в качестве **столбца-результата**.
 

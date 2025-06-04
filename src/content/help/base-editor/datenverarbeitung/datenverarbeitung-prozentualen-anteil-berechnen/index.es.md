@@ -33,7 +33,7 @@ La primera vez que se ejecuta con éxito, un pequeño **garrapata verde**.
 
 Un caso de uso concreto de esta operación de tratamiento de datos podría darse, por ejemplo, si se recoge el número de accesos diarios a un sitio web y se desea averiguar qué proporción tiene el número de accesos **de un día** sobre el número total de accesos de todos los días. Para ello, le gustaría calcular el **porcentaje** del número de accesos diarios en otra columna.
 
-Para la aplicación, primero se necesita una tabla en la que se recojan los distintos **días** en una columna de [fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) y los **números de acceso** al sitio web en una [columna de número]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}).
+Para la aplicación, primero se necesita una tabla en la que se recojan los distintos **días** en una columna de [fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) y los **números de acceso** al sitio web en una [columna de número]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}).
 
 ![Ejemplo de tabla para la aplicación Calcular porcentaje](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 
@@ -51,7 +51,7 @@ Cada vez que se ejecuta la operación de tratamiento de datos, los **porcentajes
 
 {{< warning  headline="Configuración del formato de las notas" >}}
 
-Para que los números calculados se muestren como porcentajes, primero debe ajustar la **configuración de formato de** la [columna de números]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}). Allí se selecciona **Porcentaje** como formato. También puede ajustar el **separador** **decimal** **a** punto o coma y el número de **decimales a** redondear.
+Para que los números calculados se muestren como porcentajes, primero debe ajustar la **configuración de formato de** la [columna de números]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}). Allí se selecciona **Porcentaje** como formato. También puede ajustar el **separador** **decimal** **a** punto o coma y el número de **decimales a** redondear.
 
 {{< /warning >}}
 

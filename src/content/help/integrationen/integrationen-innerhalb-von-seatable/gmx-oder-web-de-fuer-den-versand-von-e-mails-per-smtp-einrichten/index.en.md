@@ -57,6 +57,6 @@ An example configuration for a GMX account looks like this:
 
 ## Send emails via automation
 
-After that, you can use the email account created in your SeaTable Base to send emails via automation or [button.]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
+After that, you can use the email account created in your SeaTable Base to send emails via automation or [button.]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 
 If you want to learn more about this useful automation, read the article [Email Sending by Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).

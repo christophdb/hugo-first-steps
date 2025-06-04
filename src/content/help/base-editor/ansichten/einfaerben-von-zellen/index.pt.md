@@ -21,7 +21,7 @@ Para além da opção de **células de cor**, existe também a possibilidade de 
 Cada coluna oferece a opção **Formatar células da coluna** an:  
 ![Células de coloração em SeaTable](images/color-cells.png)
 
-O SeaTable comportar-se-á de forma diferente consoante o **tipo de coluna** para o qual chamar esta opção. Para [colunas numéricas]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}), pode utilizar tanto regras como valores para colorir. Para todos os outros tipos de colunas, apenas as regras de coloração estão disponíveis.
+O SeaTable comportar-se-á de forma diferente consoante o **tipo de coluna** para o qual chamar esta opção. Para [colunas numéricas]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}), pode utilizar tanto regras como valores para colorir. Para todos os outros tipos de colunas, apenas as regras de coloração estão disponíveis.
 
 ![Coloração com regras ou de acordo com valores](images/color-cells-rules-values.png)
 
@@ -46,7 +46,7 @@ Ao utilizar uma regra, colore **todas as células** de uma coluna à qual **se a
 
 ![Células de coloração com múltiplas regras](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
-Também pode definir **várias condições** por regra, que podem estar relacionadas com todas as colunas da tabela. Por exemplo, colorir a [coluna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) com o título de um artigo se o **estado** não for "terminado", a **data de publicação** estiver no futuro e já existir uma **imagem** disponível.
+Também pode definir **várias condições** por regra, que podem estar relacionadas com todas as colunas da tabela. Por exemplo, colorir a [coluna de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) com o título de um artigo se o **estado** não for "terminado", a **data de publicação** estiver no futuro e já existir uma **imagem** disponível.
 
 ![Regra com várias condições para colorir células](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 

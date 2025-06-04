@@ -20,7 +20,7 @@ Pour travailler efficacement et vous concentrer sur l'essentiel, vous devez pouv
 
 Dans le cas de la **liaison "et"**, toutes les conditions définies doivent s'appliquer à un enregistrement pour qu'il soit affiché.
 
-Cet exemple est démontré dans la vidéo suivante : Nous nous trouvons dans la vue d'un plan éditorial avec de nombreux posts. Dans un premier temps, nous avons filtré tous les posts qui **n'étaient pas terminés** dans la [colonne de sélection simple]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) **"Statut"**. Nous avons limité cette quantité de données en appliquant un deuxième filtre afin de n'afficher que les posts de **type "Blogpost"**. Nous voyons maintenant quels blog posts ne sont pas encore terminés.
+Cet exemple est démontré dans la vidéo suivante : Nous nous trouvons dans la vue d'un plan éditorial avec de nombreux posts. Dans un premier temps, nous avons filtré tous les posts qui **n'étaient pas terminés** dans la [colonne de sélection simple]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) **"Statut"**. Nous avons limité cette quantité de données en appliquant un deuxième filtre afin de n'afficher que les posts de **type "Blogpost"**. Nous voyons maintenant quels blog posts ne sont pas encore terminés.
 
 ![Ajouter une règle de filtrage avec un lien "et".](images/Filterregel-mit-Und-Verknuepfung-hinzufuegen.gif)
 

@@ -10,7 +10,7 @@ url: '/fr/aide/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 
 L'ID de l'utilisateur se décrit le mieux par un **numéro d'identification personnel**. L'ID de l'utilisateur est unique au sein de l'équipe et appartient toujours à un membre de l'équipe.
 
-L'ID d'utilisateur permet de définir **des filtres dynamiques** dans SeaTable, ce qui, dans certaines situations, est plus approprié qu'un filtre basé sur la [colonne du créateur]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}). Dans cet article, nous vous présentons les avantages et les inconvénients des filtres avec l'ID utilisateur.
+L'ID d'utilisateur permet de définir **des filtres dynamiques** dans SeaTable, ce qui, dans certaines situations, est plus approprié qu'un filtre basé sur la [colonne du créateur]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}). Dans cet article, nous vous présentons les avantages et les inconvénients des filtres avec l'ID utilisateur.
 
 Si vous voulez savoir comment modifier l'ID utilisateur d'un membre de l'équipe, [vous trouverez la réponse dans cet article d'aide]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
@@ -18,7 +18,7 @@ Si vous voulez savoir comment modifier l'ID utilisateur d'un membre de l'équipe
 
 ## Filtrer avec l'ID utilisateur
 
-Dans SeaTable, vous pouvez utiliser le filtre **"is current user's ID"** pour chaque colonne de texte. Cela crée un **filtre dynamique** qui n'affiche que les entrées dont l'**ID utilisateur** est enregistré dans la [colonne de texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) correspondante.
+Dans SeaTable, vous pouvez utiliser le filtre **"is current user's ID"** pour chaque colonne de texte. Cela crée un **filtre dynamique** qui n'affiche que les entrées dont l'**ID utilisateur** est enregistré dans la [colonne de texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) correspondante.
 
 ![Exemple de filtre par ID d'utilisateur](images/filter-user-ID-example-1.png)
 
@@ -45,7 +45,7 @@ Si vous gérez par exemple un tableau dans lequel vous saisissez les tâches ouv
 
 ## Quand un tel filtre est-il utile ?
 
-L'alternative serait de filtrer selon la colonne [Créateur]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), qui offrent également des possibilités de filtrage dynamique. Ces deux colonnes présentent toutefois les inconvénients suivants :
+L'alternative serait de filtrer selon la colonne [Créateur]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), qui offrent également des possibilités de filtrage dynamique. Ces deux colonnes présentent toutefois les inconvénients suivants :
 
 - La **valeur dans la colonne "Créateur** " ne peut _plus_ être **modifiée** ultérieurement. Une fois définie, la valeur reste toujours la même. Cela poserait problème dans l'exemple ci-dessus, car le créateur des tâches n'est _pas_ le collaborateur.
 - La **colonne des collaborateurs** ne peut être remplie que si un membre de l'équipe a au moins **un accès en lecture** à la base. Cela n'est peut-être _pas_ souhaitable, en particulier lors de l'utilisation de l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).

@@ -100,7 +100,7 @@ You will also find a **QR code generator** in the toolbar. The QR code contains 
 
 ## Execute button actions
 
-Just like on table and query pages, you can also use columns of the [button]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) type here. Whether you want to create a PDF document, edit a data record or execute a script - you can start all these **button actions** at the touch of a button. **No** editing authorization is required for this. In this way, app admins can limit user interactions for this page type to a few predefined actions.
+Just like on table and query pages, you can also use columns of the [button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) type here. Whether you want to create a PDF document, edit a data record or execute a script - you can start all these **button actions** at the touch of a button. **No** editing authorization is required for this. In this way, app admins can limit user interactions for this page type to a few predefined actions.
 
 ## Page authorizations
 
@@ -112,7 +112,7 @@ Decide who can **view** and **edit** the individual data records. You cannot add
 
 {{< warning  headline="Attention with buttons" >}}
 
-[Buttons]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) can **always** be activated regardless of the page authorizations. This means that every app user can make certain changes to the data records that you have previously defined, even if the affected columns are otherwise locked for them or the user is not authorized to edit the page.
+[Buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) can **always** be activated regardless of the page authorizations. This means that every app user can make certain changes to the data records that you have previously defined, even if the affected columns are otherwise locked for them or the user is not authorized to edit the page.
 
 {{< /warning >}}
 

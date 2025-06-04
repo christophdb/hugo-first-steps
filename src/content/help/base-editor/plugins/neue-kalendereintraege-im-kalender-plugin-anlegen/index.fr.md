@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/neue-kalendereintraege-im-kalender-plugin-anlegen'
 ---
 
-Pour ajouter **de nouvelles entrées** dans le calendrier, vous avez plusieurs possibilités. Vous pouvez le faire **dans le tableau sous-jacent** en y créant une nouvelle ligne et en inscrivant une date dans la [colonne des dates]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), qui sera ensuite également affichée dans le plug-in de calendrier.
+Pour ajouter **de nouvelles entrées** dans le calendrier, vous avez plusieurs possibilités. Vous pouvez le faire **dans le tableau sous-jacent** en y créant une nouvelle ligne et en inscrivant une date dans la [colonne des dates]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}), qui sera ensuite également affichée dans le plug-in de calendrier.
 
 Mais il est également très facile d'effectuer de nouvelles entrées directement **dans le plug-in de calendrier**. La manière dont vous pouvez saisir un rendez-vous dépend de la présentation choisie**(année**, **mois**, **semaine**, **jour** ou **agenda**).
 

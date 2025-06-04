@@ -55,7 +55,7 @@ url: '/ru/pomoshch/einstellungen-einer-universellen-app-aendern'
 
 ## Загрузить список сотрудников
 
-В четвертом разделе вы можете решить, должен ли **список сотрудников** быть виден всем пользователям приложения. Затем вы можете ввести людей в [колонки сотрудников]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) или добавить их в [комментарии]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
+В четвертом разделе вы можете решить, должен ли **список сотрудников** быть виден всем пользователям приложения. Затем вы можете ввести людей в [колонки сотрудников]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) или добавить их в [комментарии]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
 
 ![Загрузка списка коллабораторов в приложениях](images/Load-collaborator-list-in-apps.png)
 

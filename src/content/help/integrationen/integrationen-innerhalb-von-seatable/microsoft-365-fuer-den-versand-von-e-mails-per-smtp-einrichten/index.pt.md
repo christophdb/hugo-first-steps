@@ -57,6 +57,6 @@ Agora é necessário adicionar a sua conta Microsoft 365 ao SeaTable Base. Para 
 
 ## Enviar e-mails através de automação ou botão
 
-Pode então utilizar a conta de correio electrónico criada no seu SeaTable Base para enviar mensagens de correio electrónico através de [automação]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}).
+Pode então utilizar a conta de correio electrónico criada no seu SeaTable Base para enviar mensagens de correio electrónico através de [automação]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}).
 
 Se quiser saber mais sobre esta funcionalidade útil, leia o artigo [Configurar uma conta de correio electrónico numa Base](https://seatable.io/pt/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).

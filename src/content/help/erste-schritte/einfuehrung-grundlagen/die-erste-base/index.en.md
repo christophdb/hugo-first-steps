@@ -30,11 +30,11 @@ The new Base contains a [table](https://seatable.io/en/docs/seatable-nutzen/einf
 
 Before you [enter data]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
-SeaTable offers a total of [over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). From conventional spreadsheets you probably already know text, number and date columns. Of course, SeaTable knows these as well. In addition, SeaTable offers columns for [images and files]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) and [checkboxes]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) and [multiple selection fields]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}}).
+SeaTable offers a total of [over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). From conventional spreadsheets you probably already know text, number and date columns. Of course, SeaTable knows these as well. In addition, SeaTable offers columns for [images and files]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) and [checkboxes]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) and [multiple selection fields]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}}).
 
 You want to add images to an entry? Just drag the image into an image column and SeaTable saves it directly into the table. In SeaTable you have all your data in one place!
 
-Another column type that you are not familiar with from a spreadsheet is the [link to other entries]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). With links you create relations between rows of different tables. This procedure, which corresponds to the way relational databases work, avoids double entries, ensures data consistency and creates an overview.
+Another column type that you are not familiar with from a spreadsheet is the [link to other entries]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). With links you create relations between rows of different tables. This procedure, which corresponds to the way relational databases work, avoids double entries, ensures data consistency and creates an overview.
 
 Here is an application example: A property management company records the managed objects in a table and links them to tenants who are managed in another table. If something changes in the object properties, the manager only has to change the adjustment in the object table. By linking, the changed information is automatically updated for all assigned tenants.
 

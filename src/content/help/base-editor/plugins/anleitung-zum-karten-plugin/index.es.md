@@ -58,7 +58,7 @@ Decida entre la visualización estándar con **chinchetas de ubicación** o util
 
 ![Mapa plugin el mapa por defecto](images/default-map.png)
 
-Si decide mostrar imágenes, debe especificar la [columna de]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) imágenes desde la que se mostrarán las imágenes.
+Si decide mostrar imágenes, debe especificar la [columna de]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) imágenes desde la que se mostrarán las imágenes.
 
 ![La visualización de imágenes en el complemento de mapas](images/bildanzeige.png)
 
@@ -74,7 +74,7 @@ Establezca aquí una columna de texto en la que haya introducido direcciones o t
 
 ### Color del marcador
 
-Si ha [marcado con color las filas de]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) con opciones de color, puede seleccionar en este punto cuál de ellas debe determinar el **color de las marcas del mapa**.
+Si ha [marcado con color las filas de]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) con opciones de color, puede seleccionar en este punto cuál de ellas debe determinar el **color de las marcas del mapa**.
 
 ### Campo de visualización
 

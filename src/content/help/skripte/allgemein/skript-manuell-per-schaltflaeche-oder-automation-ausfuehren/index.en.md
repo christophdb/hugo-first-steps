@@ -24,14 +24,14 @@ In this article, we will introduce you to these three different possibilities. T
 
 ## Execute script via a button
 
-1. Create a column of the type [Button]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
+1. Create a column of the type [Button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
 2. Decide which **label** and **color** you want the button to have.
 3. Use the **Run Script** action.
 4. Select your **script** and save.
 
 ![Execute script via button](images/run-script-via-button.png)
 
-From now on, every time you click the button, your script will be executed. Within the script, you can access the values of row by calling _context.current_row_. Of course, you can also access all other rows via the [rows-ID or by using a loop.]({{< relref "help/haeufig-gestellte-fragen/allgemein/was-ist-die-zeilen-id" >}})
+From now on, every time you click the button, your script will be executed. Within the script, you can access the values of row by calling _context.current_row_. Of course, you can also access all other rows via the [rows-ID or by using a loop.]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/was-ist-die-zeilen-id" >}})
 
 ## Run script via automation
 

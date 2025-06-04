@@ -12,7 +12,7 @@ Les bases sont essentielles dans SeaTable. Chaque fois que vous saisissez, analy
 
 À première vue, une base n'est qu'un **conteneur** pour un ou plusieurs **tableaux**. De ce point de vue, il est logique de comparer une base à un classeur dans Excel. Mais cette comparaison ne rend pas justice à une base. Les bases de SeaTable sont bien supérieures aux classeurs traditionnels :
 
-- Fonctions de base de données relationnelles et [liens entre les tables]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- Fonctions de base de données relationnelles et [liens entre les tables]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Plus de 20 types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) couvrant tous les formats de données courants
 - Diverses [possibilités de partage]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) pour faciliter le partage des données
 - [Collaboration](https://seatable.io/fr/docs/seatable-nutzen/zusammenarbeit/) en temps réel avec d'autres utilisateurs et transmission en temps réel de toutes les modifications

@@ -41,7 +41,7 @@ If you have several **Tables** and **Views** created in your Base, you can choos
 
 ### Grouping
 
-The **grouping** determines which column defines the **columns**. [Selection]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) are particularly suitable for this.
+The **grouping** determines which column defines the **columns**. [Selection]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) are particularly suitable for this.
 
 ![Kanban plugin columns](images/Saeulen.png)  
 In this example the column **Status** chosen. As pillars were thereby the **Options** "idea", "in progress", "done" and "planned" defined.

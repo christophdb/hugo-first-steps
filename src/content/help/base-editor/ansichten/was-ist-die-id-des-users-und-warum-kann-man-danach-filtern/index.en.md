@@ -10,7 +10,7 @@ url: '/help/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 
 The ID of the user is best described as a **personal identification number**. The user's ID is unique within the team and always belongs to one team member.
 
-With the help of User ID you can set **dynamic filters** in SeaTable, which in certain situations is more suitable than filtering by the [creator column]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}). In this article we will present you the advantages and disadvantages of filters with User ID.
+With the help of User ID you can set **dynamic filters** in SeaTable, which in certain situations is more suitable than filtering by the [creator column]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}). In this article we will present you the advantages and disadvantages of filters with User ID.
 
 If you want to know how to change the user ID of a team member, [you can find the answer in this help article]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
@@ -18,7 +18,7 @@ If you want to know how to change the user ID of a team member, [you can find th
 
 ## Filter with the User ID
 
-In SeaTable you can use the filter **"is current user's ID"** for each text column. This creates a **dynamic filter** that only shows entries where the **own user** 's ID is stored in the corresponding [text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}).
+In SeaTable you can use the filter **"is current user's ID"** for each text column. This creates a **dynamic filter** that only shows entries where the **own user** 's ID is stored in the corresponding [text column]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}).
 
 ![Example filter by user ID](images/filter-user-ID-example-1.png)
 
@@ -45,7 +45,7 @@ Now, for example, if you maintain a table in which you enter the open tasks of y
 
 ## When is such a filter useful?
 
-The alternative would be to filter by the [Creator]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) column, which also offer dynamic filtering options. However, these two columns have the following disadvantages:
+The alternative would be to filter by the [Creator]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) column, which also offer dynamic filtering options. However, these two columns have the following disadvantages:
 
 - The **value in the creator column** _cannot_ be **changed** later. Once set, the value always remains the same. This would be problematic in the above example because the creator of the tasks is _not_ the employee.
 - The **Staff column** can only be filled if a team member has at least **read access** to Base. Especially when using the [Universal App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), this may _not_ be desired.

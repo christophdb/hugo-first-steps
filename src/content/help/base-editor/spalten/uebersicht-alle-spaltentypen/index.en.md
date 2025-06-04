@@ -26,7 +26,7 @@ Icon: {{< seatable-icon icon="dtable-icon-single-line-text" >}} **Text**
 
 This column type stores **text** without formatting and is one of the most basic column types in SeaTable. Text contents consist of **letters**, **numbers** and **special characters** as well as **spaces**. That's why text columns are often used for names and (short) descriptions.
 
-[More about the text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
+[More about the text column]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
 
 ### Formatted text
 
@@ -34,7 +34,7 @@ Icon: {{< seatable-icon icon="dtable-icon-long-text" >}} **Formatted text**
 
 In this column type you can save **longer texts** with inserted elements such as **images** and **tables**. You also have various formatting and structuring options for your texts using the Markdown markup language. Therefore, the _Formatted Text_ column is often used for descriptions and documentation. If it is helpful for information gathering that texts contain structuring elements and/or text and images are close to each other, then this column type is ideal.
 
-[More about the Formatted Text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
+[More about the Formatted Text column]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
 
 ### Number
 
@@ -42,7 +42,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-number" >}} **Number**
 
 Number columns store **numeric information** and can be used in many ways to work with numbers of any kind. A numeric information can be a **number**, a **percentage** or a **monetary amount**. Furthermore, number columns allow you to **calculate values** that you can visualize with formulas and [statistics](https://seatable.io/en/docs/seatable-nutzen/statistiken/). However, number columns are not suitable for storing strings of any length, and SeaTable refuses to allow you to enter letters in this type of column.
 
-[More about the numbers column]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
+[More about the numbers column]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
 
 ### Date
 
@@ -50,7 +50,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-calendar-alt-solid" >}} **Date**
 
 You can use the date column to enter **times** and **dates** in your tables down to the minute. Note that date columns always interpret the information entered as a date, so entries that cannot be interpreted as dates are always discarded as invalid.
 
-[More about the date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
+[More about the date column]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
 
 ### Duration
 
@@ -58,7 +58,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-duration" >}} **Duration**
 
 The duration column is a specialized number column type for storing **time measurements, spans and intervals,** and can thereby record a period of time to the minute or even to the second. For this reason, the column is particularly suitable for recording the duration of various events, among other things. When using the column, however, note that non-numeric entries are always discarded as invalid.
 
-[More about the duration column]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}})
+[More about the duration column]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}})
 
 ### Single selection
 
@@ -66,7 +66,7 @@ Icon: {{< seatable-icon icon="dtable-icon-single-election" >}} **Single selectio
 
 In a cell of a single-selection column you can select a **value** from a list of defined options. You create the list of defined options per single selection column yourself and can adapt it to changing circumstances at any time. The single selection is thus particularly suitable for categorizing and grouping your data.
 
-[More about the single selection column]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
+[More about the single selection column]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
 
 ### Multiple selection
 
@@ -74,7 +74,7 @@ Icon: {{< seatable-icon icon="dtable-icon-multiple-selection" >}} **Multiple sel
 
 With a multiple selection, you can choose **any number of values** from a list of defined options. As with the single selection, you create the list of possible values yourself and adapt it to your individual requirements. The multiple selection is therefore ideal for keywording - also called tagging.
 
-[More about the multiple selection column]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
+[More about the multiple selection column]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
 
 ### Image
 
@@ -82,7 +82,7 @@ Icon: {{< seatable-icon icon="dtable-icon-picture" >}} **Image**
 
 The Image column type stores any number of **image files** in **BMP**, **GIF**, **ICO**, **JPG**, **PNG**, **SVG** and **TIF** file formats. The Image column is thus a file column restricted to image file formats.
 
-[More about the image column]({{< relref "help/base-editor/spalten/die-bild-spalte" >}})
+[More about the image column]({{< relref "help/base-editor/dateien/die-bild-spalte" >}})
 
 ### File
 
@@ -90,13 +90,13 @@ Icon: {{< seatable-icon icon="dtable-icon-file" >}} **File**
 
 The File column type stores any number of files of **any file type**. For numerous image file formats SeaTable offers a preview function.
 
-[More about the file column]({{< relref "help/base-editor/spalten/die-datei-spalte" >}})
+[More about the file column]({{< relref "help/base-editor/dateien/die-datei-spalte" >}})
 
 ### E-mail
 
 Icon: {{< seatable-icon icon="dtable-icon-email" >}} **E-mail**
 
-Email columns are specialized text columns for capturing and storing **email addresses** and allow direct use with a mouse click. The email column is especially handy for web forms. Using an email field in place of a text column ensures that the input has the syntax of a valid email address. In addition, email columns can be used to send emails via [buttons]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}) and [automations]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
+Email columns are specialized text columns for capturing and storing **email addresses** and allow direct use with a mouse click. The email column is especially handy for web forms. Using an email field in place of a text column ensures that the input has the syntax of a valid email address. In addition, email columns can be used to send emails via [buttons]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) and [automations]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
 If you need more detailed information about the email column, take a look at this [article](https://seatable.io/en/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
 
@@ -114,7 +114,7 @@ Icon: {{< seatable-icon icon="dtable-icon-check-square-solid" >}} **Checkbox**
 
 Checkboxes allow the collection of **binary information**: Yes or No or _Checked_ vs. _Unchecked_. Further entries are not possible. Therefore, they are good for marking tasks as done, for example - that is, for keeping track of whether rows meets a certain yes/no condition. For this reason, you can also make excellent use of checkbox columns for [filtering]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [sorting]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) or [grouping]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}).
 
-[More about the checkbox column]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}})
+[More about the checkbox column]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}})
 
 ### Rating
 
@@ -122,7 +122,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-rate" >}} **Rating**
 
 A rating column allows you to **classify** your records in order to **rank** them or give them a **quality score**. You can select a rating scale from 1 to 10 and choose between different colors and shapes. This allows data to be assessed and rated quickly and easily for everyone to understand.
 
-[More about the rating column]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
+[More about the rating column]({{< relref "help/base-editor/numerische-spalten/die-rating-spalte" >}})
 
 ### Formula
 
@@ -138,7 +138,7 @@ Icon: {{< seatable-icon icon="dtable-icon-link-other-record" >}} **Link to other
 
 In cells of this column type you can enter any number of **references to entries in other tables** of the Base. The link column is intended for mapping relations between entries of different tables. The link column can be used to map 1:n and n:1 relations as well as n:m relations.
 
-More information about the column type Link to other entries can be found [here.]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+More information about the column type Link to other entries can be found [here.]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 
 ### Formula for links
 
@@ -152,7 +152,7 @@ Icon: {{< seatable-icon icon="dtable-icon-collaborator" >}} **Employee**
 
 In an employee column you can record any number of **users** who have at least read access to the Base. SeaTable users without access cannot be entered in the column as employees. Other entries are also not allowed. The employee column is especially useful for project management. For example, if you enter tasks to be completed in a table, you can record the persons performing the tasks and the person responsible in columns of the Employee type.
 
-[More about the employee column]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}})
+[More about the employee column]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}})
 
 ### Button
 
@@ -160,7 +160,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-button" >}} **Button**
 
 Buttons allow you to **automate** the processing of data or the execution of certain actions. However, keep in mind that you always have to operate buttons **manually**. Using the button that you can add to your rows in this column, you trigger certain actions defined in advance. For this reason, this column type is particularly suitable for automating process steps.
 
-For more information about the button and the actions that can be triggered in columns of this type, see this [article]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
+For more information about the button and the actions that can be triggered in columns of this type, see this [article]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
 
 ### Geoposition
 
@@ -188,7 +188,7 @@ Icon: {{< seatable-icon icon="dtable-icon-creator" >}} **Creator**
 
 SeaTable automatically documents the **name of the user** who created the row in the creator column.
 
-[More about the creator column]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
+[More about the creator column]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Creation date
 
@@ -196,7 +196,7 @@ Icon: {{< seatable-icon icon="dtable-icon-creation-time" >}} **Creation date**
 
 SeaTable automatically documents the **date and time of creation of the row** in the **creation date** column. The date and time are displayed in the format YYYY-MM-DD HH:MM.
 
-[More about the Creation Date column]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
+[More about the Creation Date column]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}})
 
 ### Last editor
 
@@ -204,7 +204,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-creator" >}} **Last editor**
 
 SeaTable automatically documents the **name of the user** who made the **last change to** an entry in the Last Editor column. Since the column automatically records changes to entries, it is well suited, for example, as a trigger for automations as well as for filters and sorts.
 
-[More about the Last editor column]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+[More about the Last editor column]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
 ### Processing date
 
@@ -212,7 +212,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-creation-time" >}} **Editing date**
 
 SeaTable documents the **date and time of the last modification of an entry in** the Edit Date column. Date and time are displayed in the format YYYY-MM-DD HH:MM. Since the column automatically records changes to entries, it is well suited as a trigger for automations as well as for filters and sorts.
 
-[More about the Processing Date column]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+[More about the Processing Date column]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
 
 ### Automatic number
 
@@ -220,4 +220,4 @@ Icon: {{< seatable-icon icon="dtable-icon-autonumber" >}} **Automatic number**
 
 The Automatic number column type generates an **automatically increasing number** for each new row. This column type is used whenever you need a unique identifier for each record.
 
-[More about the Automatic number column]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}).
+[More about the Automatic number column]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}).

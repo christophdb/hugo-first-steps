@@ -52,6 +52,6 @@ You can access notifications both from the SeaTable **home** page and from withi
 
 {{< warning  headline="Important note" >}}
 
-Please note that it depends on the **content of** a notification where exactly it is displayed. For example, notifications about approvals are always displayed on the **home** page, while notifications resulting from [automations]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) or [employee column entries]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) are displayed in the respective **Base**.
+Please note that it depends on the **content of** a notification where exactly it is displayed. For example, notifications about approvals are always displayed on the **home** page, while notifications resulting from [automations]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) or [employee column entries]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) are displayed in the respective **Base**.
 
 {{< /warning >}}

@@ -142,7 +142,7 @@ Le **rayon du cadre** permet de **arrondir** les **coins** du cadre jusqu'à obt
 
 ## Image statique
 
-Une **image statique** vous offre la possibilité d'intégrer des **fichiers d'image** tels que des logos, des graphiques ou des images d'arrière-plan dans une page afin de concevoir une mise en page de base. Contrairement aux images provenant de [colonnes d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) de votre tableau, une image statique ne change pas et reste la même indépendamment des entrées du tableau. Vous devez cependant télécharger **manuellement** le fichier image correspondant.
+Une **image statique** vous offre la possibilité d'intégrer des **fichiers d'image** tels que des logos, des graphiques ou des images d'arrière-plan dans une page afin de concevoir une mise en page de base. Contrairement aux images provenant de [colonnes d'images]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) de votre tableau, une image statique ne change pas et reste la même indépendamment des entrées du tableau. Vous devez cependant télécharger **manuellement** le fichier image correspondant.
 
 ### Modifier la position et la taille de l'image
 

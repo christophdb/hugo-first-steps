@@ -21,7 +21,7 @@ In addition to the **Color cells** option, there is also the possibility to [mar
 Each column offers the option **Format cells of the column** an:  
 ![Coloring cells in SeaTable](images/color-cells.png)
 
-SeaTable will behave differently depending on the **column type** for which you call this option. For [number columns]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}), you can use both rules and values for coloring. For all other column types, only the rules for coloring are available.
+SeaTable will behave differently depending on the **column type** for which you call this option. For [number columns]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}), you can use both rules and values for coloring. For all other column types, only the rules for coloring are available.
 
 ![Coloring with rules or according to values](images/color-cells-rules-values.png)
 
@@ -46,7 +46,7 @@ You can create **several rules with different colors** per column.
 
 ![Coloring cells with multiple rules](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
-You can also define **several conditions** per rule, which can apply to all columns in the table. For example, color the [text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) with the headline of an article if the **status** is not "finished", the **publication date** is in the future and an **image** is already available.
+You can also define **several conditions** per rule, which can apply to all columns in the table. For example, color the [text column]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) with the headline of an article if the **status** is not "finished", the **publication date** is in the future and an **image** is already available.
 
 ![Rule with several conditions for coloring cells](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 

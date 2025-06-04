@@ -45,7 +45,7 @@ Para la implementación, primero necesita dos tablas: una tabla en la que se reg
 
 {{< warning  headline="Nota importante" >}}
 
-Con esta operación de tratamiento de datos, **no** es necesario añadir **columnas** a las tablas manualmente, ya que se crea automáticamente una [columna de enlace]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en ambas tablas la primera vez que se ejecuta.
+Con esta operación de tratamiento de datos, **no** es necesario añadir **columnas** a las tablas manualmente, ya que se crea automáticamente una [columna de enlace]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en ambas tablas la primera vez que se ejecuta.
 
 {{< /warning >}}
 

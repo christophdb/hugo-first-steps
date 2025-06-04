@@ -40,7 +40,7 @@ Chaque ligne représente un ensemble de données cohérent dans votre tableau. P
 
 Les colonnes de votre tableau vous permettent de définir les informations qui y sont enregistrées. Contrairement à un tableur classique comme Excel, vous ne pouvez pas passer outre le type de colonne et stocker n'importe quelle information à n'importe quel endroit.
 
-Si une colonne est une [colonne de chiffres]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}), vous pouvez aussi n'enregistrer que des chiffres dans cette colonne. SeaTable connaît un grand nombre de types de colonnes différents, ce qui vous permet de saisir toutes les données souhaitées.
+Si une colonne est une [colonne de chiffres]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}), vous pouvez aussi n'enregistrer que des chiffres dans cette colonne. SeaTable connaît un grand nombre de types de colonnes différents, ce qui vous permet de saisir toutes les données souhaitées.
 
 [En savoir plus sur les colonnes de SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}})
 

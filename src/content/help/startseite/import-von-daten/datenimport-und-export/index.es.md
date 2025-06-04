@@ -18,7 +18,7 @@ Puedes exportar el estado actual de tus bases incluyendo todas las tablas, [vist
 
 ![Bases de exportación](images/export-bases.png)
 
-SeaTable utiliza el [formato de archivo DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) para exportar bases. Para más información, consulte el artículo [Guardar una base como archivo]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}}) DTABLE.
+SeaTable utiliza el [formato de archivo DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) para exportar bases. Para más información, consulte el artículo [Guardar una base como archivo]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) DTABLE.
 
 ## Tabla de exportación
 

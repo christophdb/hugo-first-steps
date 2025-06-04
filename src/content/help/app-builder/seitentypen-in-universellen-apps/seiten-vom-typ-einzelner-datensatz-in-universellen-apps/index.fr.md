@@ -100,7 +100,7 @@ Dans la barre d'outils, vous trouverez également un **générateur de code QR**
 
 ## Exécuter des actions de bouton
 
-Comme pour les pages de tableaux et de requêtes, vous pouvez utiliser des colonnes de type [bouton]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}). Que vous souhaitiez créer un document PDF, modifier un enregistrement ou exécuter un script, vous pouvez lancer toutes ces **actions de bouton** en appuyant sur un bouton. Une autorisation d'édition n'est **pas** nécessaire. De cette manière, les administrateurs d'applications peuvent limiter les interactions utilisateur pour ce type de page à quelques actions prédéfinies.
+Comme pour les pages de tableaux et de requêtes, vous pouvez utiliser des colonnes de type [bouton]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Que vous souhaitiez créer un document PDF, modifier un enregistrement ou exécuter un script, vous pouvez lancer toutes ces **actions de bouton** en appuyant sur un bouton. Une autorisation d'édition n'est **pas** nécessaire. De cette manière, les administrateurs d'applications peuvent limiter les interactions utilisateur pour ce type de page à quelques actions prédéfinies.
 
 ## Autorisations des pages
 
@@ -112,7 +112,7 @@ Décidez qui peut **voir** et **modifier** les différents enregistrements. Vous
 
 {{< warning  headline="Attention aux boutons" >}}
 
-[Les boutons]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) peuvent **toujours** être actionnés indépendamment des autorisations de la page. Cela permet à tout utilisateur de l'application d'effectuer certaines modifications sur les enregistrements que vous avez définis au préalable, même si les colonnes concernées sont par ailleurs bloquées pour lui ou si l'utilisateur n'est pas autorisé à modifier la page.
+[Les boutons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) peuvent **toujours** être actionnés indépendamment des autorisations de la page. Cela permet à tout utilisateur de l'application d'effectuer certaines modifications sur les enregistrements que vous avez définis au préalable, même si les colonnes concernées sont par ailleurs bloquées pour lui ou si l'utilisateur n'est pas autorisé à modifier la page.
 
 {{< /warning >}}
 

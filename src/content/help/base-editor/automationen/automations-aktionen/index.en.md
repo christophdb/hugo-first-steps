@@ -51,7 +51,7 @@ The automation action "Send notification" is currently available for the followi
 - Periodic trigger
 - Periodic trigger for entries that meet a certain condition
 
-The article [Sending notifications via automation]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}}) plays through this automation using a concrete use case.
+The article [Sending notifications via automation]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}}) plays through this automation using a concrete use case.
 
 ## Automation action: Send app notification
 
@@ -130,7 +130,7 @@ The "Edit entry" automation action is currently available for the following **au
 
 ## Automation action: Add links
 
-If you select "Add links" as an automated action, a link [to entries in another table]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) is created in the corresponding column when the **trigger is triggered**. In the automation rule **settings**, you can specify exactly under which conditions which link is added to the table.
+If you select "Add links" as an automated action, a link [to entries in another table]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) is created in the corresponding column when the **trigger is triggered**. In the automation rule **settings**, you can specify exactly under which conditions which link is added to the table.
 
 ![Automation action: "Add a linked column to the table".](images/action-add-links.png)
 

@@ -39,11 +39,11 @@ The following **relationship operations** can currently be performed using the d
 The two types of data processing operations each have different **requirements** that must be met in order to create a corresponding operation.
 
 - **Mathematical operations** require the presence of **two columns of numbers** in your table.
-- For the **relation operations**, you need very specific column types depending on the use case, e.g. an [employee column]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) and a [text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) when transferring user names.
+- For the **relation operations**, you need very specific column types depending on the use case, e.g. an [employee column]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) and a [text column]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) when transferring user names.
 
 ## Execution notes
 
-Data processing operations can currently be performed [manually]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) or [via automation]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) in the future.
+Data processing operations can currently be performed [manually]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) or [via automation]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) in the future.
 
 Each time the data processing operation is executed, the **results** are written to the **results column** regardless. If you do not want to overwrite any data, you should [create]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) for the results in advance.
 

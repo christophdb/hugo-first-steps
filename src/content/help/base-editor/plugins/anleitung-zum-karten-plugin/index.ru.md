@@ -58,7 +58,7 @@ url: '/ru/pomoshch/anleitung-zum-karten-plugin'
 
 ![Карта плагина карта по умолчанию](images/default-map.png)
 
-Если вы решили отобразить изображения, необходимо указать [колонку]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) изображений, из которой они будут отображаться.
+Если вы решили отобразить изображения, необходимо указать [колонку]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) изображений, из которой они будут отображаться.
 
 ![Отображение изображения в плагине карты](images/bildanzeige.png)
 
@@ -74,7 +74,7 @@ url: '/ru/pomoshch/anleitung-zum-karten-plugin'
 
 ### Цвет маркера
 
-Если вы [выделили цветом строки в]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) с цветными опциями, вы можете выбрать на этом этапе, какой из них должен определять **цвет маркировки карты**.
+Если вы [выделили цветом строки в]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) с цветными опциями, вы можете выбрать на этом этапе, какой из них должен определять **цвет маркировки карты**.
 
 ### Поле отображения
 

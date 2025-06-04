@@ -87,6 +87,6 @@ Parabéns! Acabou de enviar a sua primeira mensagem de correio eletrónico atrav
 
 - [Configurar uma conta de correio eletrónico numa base](https://seatable.io/pt/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/)
 - [Configurar o Gmail para enviar mensagens de correio eletrónico através de SMTP](https://seatable.io/pt/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
-- [O botão]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})
-- [Envio de um e-mail por botão]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}})
+- [O botão]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
+- [Envio de um e-mail por botão]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Correio eletrónico através de automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

@@ -22,7 +22,7 @@ Para definir qué registros de datos dependen unos de otros, necesita un [enlace
 
 > En el ejemplo de aplicación con los puestos en una empresa, se vincularía por tanto el respectivo responsable del empleado en la columna de vinculación. El resultado son los niveles del organigrama: Los jefes de departamento estarían en el segundo nivel y el director general en el superior.
 
-Si desea ilustrar los registros de datos del organigrama con imágenes, también necesitará una [columna de imágenes]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) en la tabla, donde podrá cargar fotos y gráficos.
+Si desea ilustrar los registros de datos del organigrama con imágenes, también necesitará una [columna de imágenes]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) en la tabla, donde podrá cargar fotos y gráficos.
 
 ## Opciones de configuración de un organigrama
 

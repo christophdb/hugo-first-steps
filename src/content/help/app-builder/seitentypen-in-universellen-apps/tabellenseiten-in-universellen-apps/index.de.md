@@ -72,11 +72,11 @@ Auf Tabellenseiten, über die verschiedene Benutzer neue Einträge in einer Base
 
 ## Formatprüfung bei neuen Einträgen
 
-Sie können einen weiteren **Regler** aktivieren, um [Eingaben in Text-Spalten zu validieren]({{< relref "help/base-editor/spalten/validierung-der-eingabe-bei-textfeldern" >}}). Sobald die **Formatprüfung** eingeschaltet ist, öffnen sich immer die Zeilendetails, wenn jemand einen neuen Eintrag auf der Tabellenseite hinzufügen möchte – und dies ist nur möglich, sofern die Einträge dem definierten Format entsprechen. Bei Einträgen mit einem abweichenden Format erscheint eine **Fehlermeldung**.
+Sie können einen weiteren **Regler** aktivieren, um [Eingaben in Text-Spalten zu validieren]({{< relref "help/base-editor/text-spalten/validierung-der-eingabe-bei-textfeldern" >}}). Sobald die **Formatprüfung** eingeschaltet ist, öffnen sich immer die Zeilendetails, wenn jemand einen neuen Eintrag auf der Tabellenseite hinzufügen möchte – und dies ist nur möglich, sofern die Einträge dem definierten Format entsprechen. Bei Einträgen mit einem abweichenden Format erscheint eine **Fehlermeldung**.
 
 ![Format check on table page](images/Format-check-on-table-page.png)
 
-So können Sie zum Beispiel **Tippfehler** bei klar umrissenen Zeichenfolgen wie Postleitzahlen oder Kontonummern minimieren. Die [regulären Ausdrücke]({{< relref "help/base-editor/spalten/validierung-der-eingabe-bei-textfeldern" >}}) zum Validieren der Eingaben legen Sie bereits beim Erstellen einer Text-Spalte in der Base fest.
+So können Sie zum Beispiel **Tippfehler** bei klar umrissenen Zeichenfolgen wie Postleitzahlen oder Kontonummern minimieren. Die [regulären Ausdrücke]({{< relref "help/base-editor/text-spalten/validierung-der-eingabe-bei-textfeldern" >}}) zum Validieren der Eingaben legen Sie bereits beim Erstellen einer Text-Spalte in der Base fest.
 
 ## Zellformatierung anzeigen
 
@@ -98,7 +98,7 @@ Bei den [Seitenberechtigungen]({{< relref "help/app-builder/einstellungen/seiten
 
 {{< warning  type="warning" headline="Achtung bei Schaltflächen" >}}
 
-[Schaltflächen]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Seite berechtigt ist.
+[Schaltflächen]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Seite berechtigt ist.
 
 {{< /warning >}}
 

@@ -57,6 +57,6 @@ url: '/ru/pomoshch/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrich
 
 ## Отправка электронных писем с помощью автоматизации
 
-Затем вы можете использовать учетную запись электронной почты, созданную в вашей базе SeaTable, для автоматической или [кнопочной]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}) отправки писем.
+Затем вы можете использовать учетную запись электронной почты, созданную в вашей базе SeaTable, для автоматической или [кнопочной]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) отправки писем.
 
 Если вы хотите узнать больше об этой полезной автоматизации, прочитайте статью [Рассылка электронной почты с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).

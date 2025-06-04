@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel'
 ---
 
-Las fórmulas de SeaTable le ofrecen varias formas de trabajar con los datos de sus tablas. Una de ellas es la fusión de contenidos de diferentes [columnas de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}). Con la ayuda de una fórmula correspondiente, puede combinar cualquier número de contenidos de diferentes columnas en una columna de fórmula.
+Las fórmulas de SeaTable le ofrecen varias formas de trabajar con los datos de sus tablas. Una de ellas es la fusión de contenidos de diferentes [columnas de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}). Con la ayuda de una fórmula correspondiente, puede combinar cualquier número de contenidos de diferentes columnas en una columna de fórmula.
 
 ## Fusión de columnas de texto
 

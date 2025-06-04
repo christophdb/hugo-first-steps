@@ -24,14 +24,14 @@ In diesem Artikel stellen wir Ihnen diese drei unterschiedlichen Möglichkeiten 
 
 ## Skript über eine Schaltfläche ausführen
 
-1. Legen Sie eine Spalte vom Typ [Schaltfläche]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) an.
+1. Legen Sie eine Spalte vom Typ [Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) an.
 2. Entscheiden Sie, welche **Beschriftung** und welche **Farbe** die Schaltfläche erhalten soll.
 3. Nutzen Sie die Aktion **Skript ausführen**.
 4. Wählen Sie Ihr **Skript** aus und speichern Sie.
 
 ![Skript per Schaltfläche ausführen](images/run-script-via-button.png)
 
-Ab sofort wird bei jedem Klick auf die Schaltfläche Ihr Skript ausgeführt. Innerhalb des Skripts können Sie über den Aufruf von _context.current_row_ auf die Werte der Zeile zugreifen. Selbstverständlich können Sie aber auch auf alle anderen Zeilen über die [Zeilen-ID]({{< relref "help/haeufig-gestellte-fragen/allgemein/was-ist-die-zeilen-id" >}}) oder mithilfe einer Schleife zugreifen.
+Ab sofort wird bei jedem Klick auf die Schaltfläche Ihr Skript ausgeführt. Innerhalb des Skripts können Sie über den Aufruf von _context.current_row_ auf die Werte der Zeile zugreifen. Selbstverständlich können Sie aber auch auf alle anderen Zeilen über die [Zeilen-ID]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/was-ist-die-zeilen-id" >}}) oder mithilfe einer Schleife zugreifen.
 
 ## Skript per Automation ausführen
 

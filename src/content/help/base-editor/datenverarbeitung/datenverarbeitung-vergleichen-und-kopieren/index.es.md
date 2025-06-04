@@ -59,7 +59,7 @@ En el siguiente paso, puede seleccionar cualquier número de columnas de origen 
 
 {{< warning  headline="Cuidado con la pérdida de datos" >}}
 
-Las columnas de origen y de resultado deben tener **el mismo tipo de columna** para que no se pierdan datos al copiar. Por ejemplo, puede copiar datos de una [columna de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) en [una columna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), pero entonces ya no servirán para [calendarios](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/). Por lo tanto, antes de realizar la operación, cree una columna de **resultado** del mismo tipo en la tabla de destino para cada columna de **origen** que desee copiar.
+Las columnas de origen y de resultado deben tener **el mismo tipo de columna** para que no se pierdan datos al copiar. Por ejemplo, puede copiar datos de una [columna de fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) en [una columna de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), pero entonces ya no servirán para [calendarios](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/). Por lo tanto, antes de realizar la operación, cree una columna de **resultado** del mismo tipo en la tabla de destino para cada columna de **origen** que desee copiar.
 
 {{< /warning >}}
 
@@ -73,7 +73,7 @@ Si la operación se ejecuta correctamente, se comprueba si las tablas **empleado
 
 Los siguientes tipos de columnas **no pueden** copiarse mediante la operación _Comparar y copiar_ y, por lo tanto, **no** están disponibles al definir las columnas de origen y de resultado.
 
-- [Columna de selección múltiple]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
-- [La columna Creado]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
-- [La columna del Último Editor]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Botón]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})
+- [Columna de selección múltiple]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
+- [La columna Creado]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}})
+- [La columna del Último Editor]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Botón]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})

@@ -101,6 +101,6 @@ Ahora tienes que añadir tu cuenta de Gmail como tercero en tu Base SeaTable. Pa
 
 ## Envío automatizado de correos electrónicos
 
-A continuación, puede utilizar la cuenta de correo electrónico creada en su Base SeaTable para enviar correos electrónicos mediante automatización o [botón]({{< relref "help/base-editor/spalten/eine-e-mail-per-schaltflaeche-verschicken" >}}).
+A continuación, puede utilizar la cuenta de correo electrónico creada en su Base SeaTable para enviar correos electrónicos mediante automatización o [botón]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}).
 
 Si desea obtener más información sobre esta útil automatización, lea el artículo [Envío de correo electrónico mediante automatización]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).

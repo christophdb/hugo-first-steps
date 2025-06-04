@@ -41,7 +41,7 @@ Si tiene varios **Tablas** y **Vistas** que ha creado en su base, puede seleccio
 
 ### Agrupación
 
-La **agrupación** determina qué columna define las **columnas**. Las [columnas de]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) son especialmente adecuadas para ello.
+La **agrupación** determina qué columna define las **columnas**. Las [columnas de]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) son especialmente adecuadas para ello.
 
 ![Columnas del plugin Kanban](images/Saeulen.png)  
 En este ejemplo, la columna **Estado** elegido. Como resultado, los pilares se **Opciones** "idea", "en curso", "realizado" y "previsto" definidos.

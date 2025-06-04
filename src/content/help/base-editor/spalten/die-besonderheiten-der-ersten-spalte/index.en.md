@@ -16,7 +16,7 @@ The **first column** of a table in SeaTable has several special features and res
 - Unlike the other columns, you **cannot move** the first column of a table.
 - Unlike the other columns, you **cannot delete** the first column of a table.
 - In contrast to the other columns, however, you can **fix** the first column individually.
-- The first column supports only [Text]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), [Single Select]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Auto Number]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) column **types**.
+- The first column supports only [Text]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}), [Single Select]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Auto Number]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) column **types**.
 
 ## How to customize the type of the first column
 
@@ -32,11 +32,11 @@ The **first column** of a table in SeaTable has several special features and res
 
 There are only **six column types** to choose from for the **first** **column**:
 
-- [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Number]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Single selection]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
+- [Text]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+- [Number]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+- [Date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+- [Single selection]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+- [Automatic number]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Formulas in the first column
@@ -51,6 +51,6 @@ If you define a **formula** as the **first column** of a table, you can use the 
 {{< /faq >}}
 {{< faq "Is it possible to change the type of the first column afterwards?" >}}Yes, this is possible. However, in some cases information may be **lost** when [changing the column type]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), for example from text to number. Therefore, after a conversion, check whether all information has been transferred correctly and completely.
 {{< /faq >}}
-{{< faq "What is an automatic number?" >}}If you want your rows to have a **unique identification number**, the [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) column type could serve you well. Examples include invoice numbers, test cases or employee IDs. The number can also be supplemented with any prefix.
+{{< faq "What is an automatic number?" >}}If you want your rows to have a **unique identification number**, the [Automatic number]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) column type could serve you well. Examples include invoice numbers, test cases or employee IDs. The number can also be supplemented with any prefix.
 
 {{< /faq >}}

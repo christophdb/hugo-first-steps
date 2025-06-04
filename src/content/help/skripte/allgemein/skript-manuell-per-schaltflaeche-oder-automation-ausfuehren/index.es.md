@@ -24,14 +24,14 @@ En este artículo te presentaremos estas tres posibilidades diferentes. El artí
 
 ## Ejecutar script mediante un botón
 
-1. Crear una columna de tipo [Button]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
+1. Crear una columna de tipo [Button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
 2. Decide qué **etiqueta** y qué **color** debe tener el botón.
 3. Utilice la acción **Ejecutar script**.
 4. Seleccione su **guión** y guárdelo.
 
 ![Ejecutar script mediante botón](images/run-script-via-button.png)
 
-A partir de ahora, cada vez que pulse el botón, se ejecutará su script. Dentro del script, puede acceder a los valores de la fila llamando a _context.current_row_. Por supuesto, también puede acceder a todas las demás filas a través del [ID de]({{< relref "help/haeufig-gestellte-fragen/allgemein/was-ist-die-zeilen-id" >}}) fila o con la ayuda de un bucle.
+A partir de ahora, cada vez que pulse el botón, se ejecutará su script. Dentro del script, puede acceder a los valores de la fila llamando a _context.current_row_. Por supuesto, también puede acceder a todas las demás filas a través del [ID de]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/was-ist-die-zeilen-id" >}}) fila o con la ayuda de un bucle.
 
 ## Ejecutar script mediante automatización
 

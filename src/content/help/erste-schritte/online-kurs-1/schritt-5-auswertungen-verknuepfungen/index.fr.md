@@ -51,4 +51,4 @@ Ceci nous amène déjà à la fin de cette section. Faites défiler la page jusq
 ## Article d'aide avec plus d'informations
 
 - [Ajuster la hauteur des lignes]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
-- [La formule du rollup]({{< relref "help/base-editor/spalten/die-rollup-formel" >}})
+- [La formule du rollup]({{< relref "help/base-editor/formeln/die-rollup-formel" >}})

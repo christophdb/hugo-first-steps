@@ -41,7 +41,7 @@ Si vous avez plusieurs **Tableaux** et **Vues** dans votre base, vous pouvez cho
 
 ### Regroupement
 
-Le **regroupement** détermine quelle colonne définit les **colonnes**. [Les]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) sont particulièrement adaptées à cet effet.
+Le **regroupement** détermine quelle colonne définit les **colonnes**. [Les]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) sont particulièrement adaptées à cet effet.
 
 ![Colonnes du plug-in Kanban](images/Saeulen.png)  
 Dans cet exemple, la colonne **Statut** ont été choisis. En tant que piliers, les **Options** "idée", "en cours", "réalisé" et "planifié".

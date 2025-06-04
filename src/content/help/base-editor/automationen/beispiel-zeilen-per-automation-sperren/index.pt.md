@@ -81,5 +81,5 @@ Para mais informações sobre o bloqueio de filas, ver o artigo [Bloquear uma fi
 - [Ligação de entradas via automatização]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 - [Acrescentar linhas via automatização]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
 - [Adicionar entradas a outras tabelas através de automatização]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
-- [Enviar notificações via automatização]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})
+- [Enviar notificações via automatização]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}})
 - [Envio de e-mails por automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

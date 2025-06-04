@@ -40,7 +40,7 @@ Jede Zeile steht für einen zusammenhängenden Datensatz in Ihrer Tabelle. Wenn 
 
 Mit den Spalten Ihrer Tabelle legen Sie fest, welche Informationen dort jeweils gespeichert werden. Im Gegensatz zu einer klassischen Tabellenkalkulation wie Excel können Sie sich nicht über den Spaltentyp hinwegsetzen und einfach beliebige Informationen an jeder Stelle speichern.
 
-Wenn eine Spalte eine [Zahlenspalte]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) ist, können Sie auch nur Zahlen in dieser Spalte speichern. SeaTable kennt eine Vielzahl verschiedener Spaltentypen, sodass Sie alle gewünschten Daten erfassen können.
+Wenn eine Spalte eine [Zahlenspalte]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}) ist, können Sie auch nur Zahlen in dieser Spalte speichern. SeaTable kennt eine Vielzahl verschiedener Spaltentypen, sodass Sie alle gewünschten Daten erfassen können.
 
 [Erfahren Sie mehr über die Spalten in SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
 )

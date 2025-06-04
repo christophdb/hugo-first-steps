@@ -60,7 +60,7 @@ In concrete terms, this can be implemented with the help of a table ("Order") in
 
 ![Table for the survey of the various orders placed](images/table-with-different-orders-1.png)
 
-In another table ("Order status log") you also want to see the different **order numbers** together with the corresponding **amounts**. In addition, the [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) "last status change" in this table contains the **time of the last status change**.
+In another table ("Order status log") you also want to see the different **order numbers** together with the corresponding **amounts**. In addition, the [date column]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) "last status change" in this table contains the **time of the last status change**.
 
 ![Table in which the times of the last status change are automatically collected](images/table-order-status-log.png)
 

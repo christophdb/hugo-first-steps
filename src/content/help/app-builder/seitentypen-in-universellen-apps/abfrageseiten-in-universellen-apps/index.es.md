@@ -69,7 +69,7 @@ En la parte inferior de la configuración de la página, puede restringir quién
 
 Esta es la única [autorización de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que puede seleccionar aquí. No puede añadir o eliminar filas en la tabla a través de páginas de consulta.
 
-Sin embargo, tras una consulta de datos satisfactoria, los usuarios de la aplicación pueden hacer clic en [los botones]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) de la lista de aciertos mostrada para realizar determinadas **acciones**.
+Sin embargo, tras una consulta de datos satisfactoria, los usuarios de la aplicación pueden hacer clic en [los botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) de la lista de aciertos mostrada para realizar determinadas **acciones**.
 
 ![Botones de ejecución en las páginas de consulta](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -77,7 +77,7 @@ Un ejemplo de aplicación es una bolsa de trabajo interna: la página de consult
 
 {{< warning  headline="Atención con los botones" >}}
 
-[Los botones]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar los resultados de la consulta.
+[Los botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar los resultados de la consulta.
 
 {{< /warning >}}
 

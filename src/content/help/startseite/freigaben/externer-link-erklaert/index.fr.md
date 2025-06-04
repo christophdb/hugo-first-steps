@@ -16,7 +16,7 @@ Par conséquent, les liens externes vous offrent de nombreuses possibilités int
 
 ## Fonctionnement et types de liens externes
 
-Un lien externe est une **URL** qui vous permet d'accéder **en lecture** à un recueil de données dans SeaTable. Un tel recueil de données peut être une [base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) ou une [vue]({{< relref "help/base-editor/einfuehrung/ansichten/" >}}).
+Un lien externe est une **URL** qui vous permet d'accéder **en lecture** à un recueil de données dans SeaTable. Un tel recueil de données peut être une [base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) ou une [vue]({{< relref "help/erste-schritte/einfuehrung-funktionen/ansichten/" >}}).
 
 - **Lien externe pour une base**: En appelant ce lien externe, le visiteur peut **voir** toutes les données enregistrées dans une base, y compris tous les tableaux. Le visiteur peut en outre accéder à **toutes les vues** et [statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) **existantes**. Il peut en outre utiliser les **outils d'évaluation** que sont le [regroupement, le tri et le filtre]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 - **Lien externe pour une vue**: un tel lien externe donne **un accès en lecture à _une_ vue spécifique d'un tableau**. Les autres vues et tableaux de la base, ainsi que **les lignes et colonnes masquées**, restent **cachés** aux utilisateurs du lien externe. Pour en savoir plus, consultez l'article [Créer un lien externe pour une vue]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).

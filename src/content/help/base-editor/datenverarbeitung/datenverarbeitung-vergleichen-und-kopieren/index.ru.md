@@ -59,7 +59,7 @@ url: '/ru/pomoshch/datenverarbeitung-vergleichen-und-kopieren'
 
 {{< warning  headline="Остерегайтесь потери данных" >}}
 
-Колонки источника и результата должны иметь **одинаковый тип колонок**, чтобы данные не были потеряны при копировании. Например, можно скопировать данные из [столбца даты]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) в [текстовый столбец]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), но тогда они уже не будут подходить для [календарей](https://seatable.io/ru/docs/plugins/anleitung-zum-kalender-plugin/). Поэтому перед выполнением операции создайте в целевой таблице столбец **результата** того же типа для каждого столбца **источника**, который вы хотите скопировать.
+Колонки источника и результата должны иметь **одинаковый тип колонок**, чтобы данные не были потеряны при копировании. Например, можно скопировать данные из [столбца даты]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) в [текстовый столбец]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), но тогда они уже не будут подходить для [календарей](https://seatable.io/ru/docs/plugins/anleitung-zum-kalender-plugin/). Поэтому перед выполнением операции создайте в целевой таблице столбец **результата** того же типа для каждого столбца **источника**, который вы хотите скопировать.
 
 {{< /warning >}}
 
@@ -73,7 +73,7 @@ url: '/ru/pomoshch/datenverarbeitung-vergleichen-und-kopieren'
 
 Следующие типы столбцов **не могут** быть скопированы с помощью операции _сравнения и копирования_ и поэтому **недоступны** при определении столбцов источника и результата.
 
-- [Колонка множественного выбора]({{< relref "help/base-editor/spalten/die-mehrfachauswahl-spalte" >}})
-- [Колонка "Создатель]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}})
-- [Колонка "Последний редактор]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Кнопка]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}})
+- [Колонка множественного выбора]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
+- [Колонка "Создатель]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}})
+- [Колонка "Последний редактор]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Кнопка]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})

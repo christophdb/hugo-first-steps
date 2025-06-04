@@ -24,14 +24,14 @@ Dans cet article, nous vous présentons ces trois possibilités différentes. L'
 
 ## Exécuter un script à l'aide d'un bouton
 
-1. Créez une colonne de type [bouton]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}).
+1. Créez une colonne de type [bouton]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
 2. Décidez du **libellé** et de la **couleur** du bouton.
 3. Utilisez l'action **Exécuter le script**.
 4. Sélectionnez votre **script** et enregistrez.
 
 ![Exécuter le script via un bouton](images/run-script-via-button.png)
 
-Désormais, chaque fois que vous cliquez sur le bouton, votre script est exécuté. Au sein du script, vous pouvez accéder aux valeurs de la ligne en appelant _context.current_row._ Mais vous pouvez bien entendu aussi accéder à toutes les autres lignes via l'[ID de ligne]({{< relref "help/haeufig-gestellte-fragen/allgemein/was-ist-die-zeilen-id" >}}) ou à l'aide d'une boucle.
+Désormais, chaque fois que vous cliquez sur le bouton, votre script est exécuté. Au sein du script, vous pouvez accéder aux valeurs de la ligne en appelant _context.current_row._ Mais vous pouvez bien entendu aussi accéder à toutes les autres lignes via l'[ID de ligne]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/was-ist-die-zeilen-id" >}}) ou à l'aide d'une boucle.
 
 ## Exécuter un script par automatisation
 

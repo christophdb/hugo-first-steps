@@ -27,13 +27,13 @@ It is possible to change the column type at a later date. Here you can find out 
 
 The **first column** in a table **only** supports **6 of the 25 column types**. These are
 
-- [Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Number]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Single selection]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Automatic number]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
+- [Text]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+- [Number]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+- [Date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+- [Single selection]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+- [Automatic number]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Data loss warning
 
-**Converting** certain types of columns usually results in unwanted **data loss**. This is the case, for example, with [file]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) columns or when you convert [text columns]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) to numeric columns. In these cases SeaTable will show you the **warning message** if you really want to change the column type.
+**Converting** certain types of columns usually results in unwanted **data loss**. This is the case, for example, with [file]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) columns or when you convert [text columns]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) to numeric columns. In these cases SeaTable will show you the **warning message** if you really want to change the column type.

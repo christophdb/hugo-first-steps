@@ -33,7 +33,7 @@ First, you make **basic settings for** the new notification rule. In this step, 
 
 In the next step, you define an event that serves as a **trigger** and **triggers** the notification rule. You can choose between the options that **entries** are **added** or **changed** or that **certain conditions are met after a change**.
 
-In addition, you can select as a temporal trigger that the **deadline of an entry is approaching**. This trigger is only applicable if there is a [date column]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) in the selected table view. You can then specify from **when** and **how often** SeaTable sends **reminders**.
+In addition, you can select as a temporal trigger that the **deadline of an entry is approaching**. This trigger is only applicable if there is a [date column]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) in the selected table view. You can then specify from **when** and **how often** SeaTable sends **reminders**.
 
 In addition, depending on the trigger, you can limit the number of **monitored columns** and/or set a **filter condition** that must be met for the trigger to fire.
 

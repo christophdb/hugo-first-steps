@@ -46,17 +46,17 @@ Para las columnas basadas en números, las siguientes **opciones de cálculo** e
 
 Para los siguientes tipos de columna, la línea de estado refleja un valor calculado:
 
-- [Columnas numéricas]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
+- [Columnas numéricas]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
     - Número
     - Porcentaje
     - Moneda
-- [Columnas permanentes]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}})
-- [Columnas de clasificación]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
+- [Columnas permanentes]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}})
+- [Columnas de clasificación]({{< relref "help/base-editor/numerische-spalten/die-rating-spalte" >}})
 - Valores numéricos en [columnas de fórmulas]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 Para los siguientes tipos de columnas, la línea de estado **no** refleja un valor calculado, aunque (pueden) contener números:
 
-- [Columnas de fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Creado]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
-- Números en [columnas de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
+- [Columnas de fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+- [Creado]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
+- Números en [columnas de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
