@@ -176,7 +176,7 @@ weight = 20
 [[footer]]
 name = "Kurzanleitung"
 parent = "Unterstützung"
-pageref = "pages/quick-guide"
+pageRef = "pages/quick-guide"
 weight = 21
 
 [[footer]]

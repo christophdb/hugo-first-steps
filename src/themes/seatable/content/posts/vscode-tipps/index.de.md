@@ -2,7 +2,7 @@
 title: 'VS Code Tipps'
 description: 'Tipps und Tricks für den VS Code Profi'
 draft: true
-date: 2025-05-27
+date: 2025-06-04
 url: '/de/vscode-tipps'
 color: '#085b79'
 ---
@@ -45,6 +45,30 @@ hugo  | [0] Press Ctrl+C to stop
 ```
 
 Mit {{< key "STRG" >}} + {{< key "C" >}} kann der Docker Container wieder gestoppt werden.
+
+## Neuesten Main Branch holen
+
+Das Abrufen der neuesten Inhalte für den `main` Branch kann bei umfangreichen Änderungen zu lange dauern und dann in einen Fehler laufen.
+Deshalb empfiehlt es sich anstelle auf den runden Pfeil zu klicken, den Pull über das Terminal anzustoßen.
+
+Man wechselt also in den `main` Branch und tippt dann in das Terminal:
+
+```
+git pull
+```
+
+## Höfliche Ansprache bei der automatischen Übersetzung
+
+Die deepl-Erweiterung bietet die Möglichkeit die Art der Ansprache festzulegen. Auf seatable.com verwenden wir das höfliche Sie, weshalb Ihr in den Einstellungen dieser Erweiterung den folgenden Wert setzen solltet:
+
+![Höfliche Ansprache beim Übersetzen mit deepl erzwingen](images/deepl-ansprache.png)
+
+So kommt Ihr zu der gewünschten Einstellung:
+
+- Wechselt in der linken Leiste auf die VS-Code Erweiterungen - alternativ drückt Ihr {{< key "STRG" >}} + {{< key "UMSCHALTTASTE" >}} + {{< key "X" >}}.
+- Sucht die installierte Erweiterung **Translate with DeepL for Visual Studio Code**
+- Klickt auf das Zahnrad und dann auf **Einstellungen**
+- Ändert den Wert für `Deepl: Formality`
 
 ## Öffnen von Dateien
 

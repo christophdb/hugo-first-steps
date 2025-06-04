@@ -1,0 +1,43 @@
+<section class="padding curved">
+    <section class="max-container">
+        <div class="mx-auto max-w-[800px] text-center">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            {{ if .description }}
+                <p class="mt-12 text-lg leading-normal">{{ .description | markdownify }}</p>
+            {{ end }}
+        </div>
+
+        <div class="mx-auto mt-12 max-w-6xl overflow-x-auto">
+            <div class="grid grid-cols-3 gap-4 bg-gray-100 p-2 text-center font-bold">
+                <div></div>
+                {{ range .table.head }}
+                    <div class="gradient font-poppins text-xl">{{ . }}</div>
+                {{ end }}
+            </div>
+
+            <!-- TODO: grid-cols-x dynmaisch machen... -->
+            <div class="">
+                {{ $colspan := add (len .table.head) 1 }}
+                {{ range .table.rows }}
+                    {{- if eq .type "section" }}
+                        <div class="border-b border-t border-gray-400 bg-[#ece5e2] p-3 text-left font-bold text-gray-800">{{ .label }}</div>
+                    {{- else }}
+                        <div class="grid grid-cols-3 place-items-center gap-4 px-4 py-2 text-xl text-[#ece5e2] hover:bg-gray-50">
+                            <div class="justify-self-start text-left text-lg text-seatable-blue">{{ .key }}</div>
+                            {{ range .values }}
+                                {{- if eq . "+" }}
+                                    <div class="text-seatable-orange">{{ partial "icon.html" "circle-check" }}</div>
+                                {{ else if eq . "-" }}
+                                    <div>{{ partial "icon.html" "circle-xmark" }}</div>
+                                {{- else }}
+                                    <div class="text-seatable-blue">{{ . }}</div>
+                                {{- end }}
+                            {{ end }}
+                        </div>
+                    {{- end }}
+                {{ end }}
+            </div>
+        </div>
+    </section>
+</section>

@@ -1,0 +1,48 @@
+<section class="padding curved bg-gray-100">
+    <section class="max-container">
+        <div class="mx-auto max-w-[800px] text-center">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
+            {{ if .description }}
+                <p class="mt-12 text-lg leading-normal">{{ .description | markdownify }}</p>
+            {{ end }}
+        </div>
+
+        <div class="mx-auto mt-16 grid max-w-lg grid-cols-1 items-stretch lg:max-w-4xl lg:grid-cols-2">
+            <div class="my-6 rounded-3xl rounded-br-none rounded-tr-none bg-white/40 p-8 ring-1 ring-gray-900/10 sm:p-10 lg:mx-0">
+                {{ range .competitor }}
+                    <img src="{{ .logo }}" class="mx-auto mb-6 max-h-14" />
+                    <h3 class="gradient text-2xl font-bold">{{ .title }}</h3>
+                    <p class="mt-4 flex items-baseline gap-x-2">
+                        <span class="font-poppins text-4xl font-bold tracking-tight text-gray-900">{{ .price }}</span>
+                        <span class="text-lg text-gray-500">/{{ T "price_table.monthly" }}</span>
+                    </p>
+
+                    <ul role="list" class="mt-8 space-y-3 text-base/6 text-gray-600">
+                        {{ range .options }}
+                            <li class="flex gap-x-3 text-lg"><span class="icon-check"></span> {{ . | markdownify }}</li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+            </div>
+
+            <div class="relative rounded-3xl bg-gray-900 p-8 shadow-2xl ring-1 ring-gray-900/10 sm:p-10">
+                {{ range .seatable }}
+                    <img src="{{ .logo }}" class="mx-auto mb-6 max-h-14" />
+                    <h3 id="tier-enterprise" class="gradient text-2xl font-bold">{{ .title }}</h3>
+                    <p class="mt-4 flex items-baseline gap-x-2">
+                        <span class="text-4xl font-semibold tracking-tight text-white">{{ .price }}</span>
+                        <span class="text-lg text-gray-500">/{{ T "price_table.monthly" }}</span>
+                    </p>
+
+                    <ul role="list" class="mt-14 space-y-3 text-base/6">
+                        {{ range .options }}
+                            <li class="flex gap-x-3 text-lg text-white"><span class="icon-check"></span> {{ . | markdownify }}</li>
+                        {{ end }}
+
+                    </ul>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+</section>
