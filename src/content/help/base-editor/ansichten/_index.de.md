@@ -1,4 +1,4 @@
 ---
 title: Ansichten
-url: /de/hilfe/base-editor/ansichten
+url: '/de/hilfe/base-editor/ansichten'
 ---

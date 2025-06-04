@@ -1,6 +1,6 @@
 ---
 title: Guide rapide
-url: /fr/guide-rapide
+url: '/fr/guide-rapide'
 
 sections:
     - name: 'hero-2'

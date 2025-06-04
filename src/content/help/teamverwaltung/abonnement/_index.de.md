@@ -1,5 +1,5 @@
 ---
-title: Abonnements
-url: /de/hilfe/abrechnung/abonnement
+title: Abonnement
+url: '/de/hilfe/teamverwaltung/abonnement'
 weight: 4
 ---

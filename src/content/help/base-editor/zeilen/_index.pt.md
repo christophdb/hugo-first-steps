@@ -1,4 +1,4 @@
 ---
-title: Rows
-url: /pt/ajuda/base-editor/zeilen
+title: Linhas
+url: '/pt/ajuda/base-editor/linhas'
 ---

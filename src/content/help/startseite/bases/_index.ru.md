@@ -1,6 +1,6 @@
 ---
-title: 'Bases'
+title: 'Базы'
 description: ''
-url: '/ru/pomoshch/startseite/bases'
+url: '/ru/pomoshch/glavnaya-stranitsa/bazy'
 weight: 1
 ---

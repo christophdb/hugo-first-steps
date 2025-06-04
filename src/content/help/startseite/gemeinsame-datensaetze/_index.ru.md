@@ -1,5 +1,5 @@
 ---
-title: 'Common datasets'
+title: 'Общие наборы данных'
 description: ''
-url: '/ru/pomoshch/homepage/gemeinsame-datensaetze'
+url: '/ru/pomoshch/glavnaya-stranitsa/obshchie-nabory-dannykh'
 ---

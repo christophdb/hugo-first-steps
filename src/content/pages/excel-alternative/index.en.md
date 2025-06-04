@@ -83,7 +83,7 @@ sections:
           - image: '/images/logos/seatable-api.svg'
       buttons:
           - label: 'Learn more about integrations'
-            link: 'https://seatable.io/integrationen/?lang=auto'
+            link: 'pages/integrations'
 
     - name: 'banner-2'
       weight: 6

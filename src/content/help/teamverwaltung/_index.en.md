@@ -1,8 +1,8 @@
 ---
-title: 'Team Admin'
+title: 'Team administration'
 description: ''
 weight: 5
-url: '/help/team-admin'
+url: '/help/team-administration'
 icon: 'user-plus'
 color: bg-purple-100
 ---

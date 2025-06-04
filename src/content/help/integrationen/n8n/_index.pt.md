@@ -1,4 +1,4 @@
 ---
 title: 'n8n'
-url: '/pt/ajuda/integrations/n8n'
+url: '/pt/ajuda/integrações/n8n'
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Groups'
+title: 'Группы'
 description: ''
-url: '/ru/pomoshch/homepage/groups'
+url: '/ru/pomoshch/glavnaya-stranitsa/gruppy'
 ---

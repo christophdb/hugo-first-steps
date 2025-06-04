@@ -1,4 +1,4 @@
 ---
-title: Seitentypen
-url: /de/hilfe/app-builder/seitentypen-der-universelle-apps
+title: Seitentypen in Universellen Apps
+url: '/de/hilfe/app-builder/seitentypen'
 ---

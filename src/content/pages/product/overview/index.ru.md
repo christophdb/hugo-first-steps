@@ -1,8 +1,8 @@
 ---
 title: 'SeaTable продукты'
 seo:
-    title: "Продукция SeaTable | Найдите правильное решение"
-    description: "SeaTable предлагает гибкие облачные, выделенные и локальные решения, идеально соответствующие требованиям вашего бизнеса"
+    title: 'Продукция SeaTable | Найдите правильное решение'
+    description: 'SeaTable предлагает гибкие облачные, выделенные и локальные решения, идеально соответствующие требованиям вашего бизнеса'
 date: '2025-03-30'
 url: '/ru/produkty'
 
@@ -118,7 +118,7 @@ sections:
           - image: '/images/logos/seatable-api.svg'
       buttons:
           - label: 'Узнайте больше об интеграциях'
-            link: 'https://seatable.io/integrationen/?lang=auto'
+            link: 'pages/integrations'
 
     - name: 'content-9'
       weight: 10

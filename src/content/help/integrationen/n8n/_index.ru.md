@@ -1,4 +1,4 @@
 ---
 title: 'n8n'
-url: '/ru/pomoshch/integrations/n8n'
+url: '/ru/pomoshch/integratsii/n8n'
 ---

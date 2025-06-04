@@ -1,4 +1,4 @@
 ---
-title: 'General'
-url: '/help/integration/general'
+title: 'Integrations within SeaTable'
+url: '/help/integrations/general'
 ---

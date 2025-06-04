@@ -1,5 +1,5 @@
 ---
-title: 'Online Course - Level 1'
-url: '/ru/pomoshch/first-steps/online-kurs'
+title: 'Онлайн-курс – уровень 1'
+url: '/ru/pomoshch/nachalo-raboty/onlain-kurs'
 weight: 3
 ---

@@ -479,5 +479,48 @@ sections:
       text: Organigramm erstellen leicht gemacht – mit SeaTable behalten Sie die Struktur Ihres Unternehmens immer im Blick und können Organigramme schnell und übersichtlich darstellen.
       image: /images/Landing-Page_HR_Zeiterfassung.png
 
+  - name: "content-26"
+    weight: 46
+    title: SeaTable Release 5
+    subtitle: Version details
+    anchor: release-5
+    items:
+      - text: 'Version **5.0.7** am 15. Juli 2024: [Release Notes Version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}})'
+      - text: 'Version **5.1.9** am 8. November 2024: [Release Notes Version 5.1]({{< relref "posts/seatable-releases/seatable-release-5-1" >}})'
+      - text: 'Version **5.2.7** am 25. Februar 2025: [Release Notes Version 5.2]({{< relref "posts/seatable-releases/seatable-release-5-2" >}})'
+    template: "5964c9e4b6534372b1d8"
+
+  - name: 'content-27'
+    weight: 45
+    title: 'Gehen Sie direkt zur letzten Version:'
+    subtitle: 'Verfügbare Versionen'
+    text: "Wir empfehlen Ihnen, unseren Newsletter zu abonnieren, um immer über die neueste und sicherste SeaTable-Server-Version informiert zu werden"
+    items:
+          - icon: bullseye
+            headline: 'SeaTable 5'
+            link: '#release-5'
+          - icon: code
+            headline: 'SeaTable 4'
+            link: '#release-4'
+          - icon: fingerprint
+            headline: 'Older versions'
+            link: '#release-3'
+
+  - name: content-28
+    weight: 47
+    title: Speaker und Agenda
+    description: 'Auf den SeaDays 2023 erwarten Sie Präsentationen von den folgenden Speakern.<br>**Präsentationssprache: Englisch**'
+    items:
+          - headline: Christoph Dyllick-Brenzinger
+            text: Geschäftsführer der SeaTable GmbH und datamate GmbH & Co. KG
+            link: https://www.linkedin.com/in/christoph-dyllick-brenzinger/
+            img: christoph_dyllick.jpg
+          - headline: Jonathan Xu
+            text: Chief Technology Officer (CTO) der Seafile Ltd.
+            img: gruender-jonathan-xue.jpg
+          - headline: Daniel Pan
+            text: Chief Executive Officer (CEO) der Seafile Ltd.
+            img: gruender-daniel-pan.png
+
 
 ---

@@ -1,4 +1,4 @@
 ---
 title: 'Python'
-url: '/ru/pomoshch/skripte/python'
+url: '/ru/pomoshch/skripty/python'
 ---

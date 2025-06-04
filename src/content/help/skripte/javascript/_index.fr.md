@@ -1,4 +1,4 @@
 ---
-title: 'Javascript'
-url: /fr/aide/skripte/javascript
+title: 'JavaScript'
+url: '/fr/aide/scripts/javascript'
 ---

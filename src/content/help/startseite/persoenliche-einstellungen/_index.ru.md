@@ -1,4 +1,4 @@
 ---
-title: 'Personal Settings'
-url: '/ru/pomoshch/homepage/persoenliche-einstellungen'
+title: 'Личные настройки'
+url: '/ru/pomoshch/glavnaya-stranitsa/lichnye-nastroyki'
 ---

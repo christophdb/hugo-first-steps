@@ -1,6 +1,6 @@
 ---
 title: Registo de alterações
-url: /pt/changelog
+url: '/pt/changelog'
 
 sections:
     - name: 'hero-2'

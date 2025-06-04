@@ -1,5 +1,5 @@
 ---
-title: 'Common datasets'
+title: 'Registros compartidos'
 description: ''
-url: '/es/ayuda/homepage/gemeinsame-datensaetze'
+url: '/es/ayuda/pagina-de-inicio/registros-compartidos'
 ---

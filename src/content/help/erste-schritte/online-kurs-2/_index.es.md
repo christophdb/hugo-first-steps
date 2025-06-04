@@ -1,5 +1,5 @@
 ---
-title: 'Online Course - Level 2'
-url: '/es/ayuda/first-steps/online-kurs-2'
+title: 'Curso en línea – Nivel 2'
+url: '/es/ayuda/primeros-pasos/curso-en-linea-2'
 weight: 4
 ---

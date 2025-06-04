@@ -1,5 +1,5 @@
 ---
-title: 'Sharings'
+title: 'Общий доступ'
 description: ''
-url: '/ru/pomoshch/homepage/freigaben'
+url: '/ru/pomoshch/glavnaya-stranitsa/obshchiy-dostup'
 ---

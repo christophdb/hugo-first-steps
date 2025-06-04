@@ -1,4 +1,4 @@
 ---
-title: Data processing
-url: '/ru/pomoshch/base-editor/datenverarbeitung'
+title: Обработка данных
+url: '/ru/pomoshch/base-editor/obrabotka-dannykh'
 ---

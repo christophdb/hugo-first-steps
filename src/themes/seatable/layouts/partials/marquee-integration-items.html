@@ -1,0 +1,15 @@
+{{ $logos := slice
+    (dict "src" "/integrations/google-contacts.png" "alt" "google contacts")
+    (dict "src" "/integrations/twitter.png" "alt" "twitter")
+    (dict "src" "/integrations/stripe.png" "alt" "Stripe")
+    (dict "src" "/integrations/asana.png" "alt" "Asana")
+    (dict "src" "/integrations/github.png" "alt" "Github")
+    (dict "src" "/integrations/slack.png" "alt" "Slack")
+    (dict "src" "/integrations/gmail.png" "alt" "Gmail")
+    (dict "src" "/integrations/mailchimp.png" "alt" "Mailchimp")
+    (dict "src" "/integrations/trello.png" "alt" "Trello")
+    (dict "src" "/integrations/hubspot.svg" "alt" "Hubspot")
+}}
+{{ range shuffle $logos }}
+    <img class="mr-8 h-[64px] rounded-xl border p-4 shadow-xl" src="{{ .src }}" alt="{{ .alt }}" />
+{{ end }}

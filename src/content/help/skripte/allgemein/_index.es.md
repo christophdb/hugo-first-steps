@@ -1,5 +1,5 @@
 ---
-title: 'General about scripts'
-url: /es/ayuda/skripte/allgemeines
+title: 'Información general sobre los scripts'
+url: '/es/ayuda/scripts/informacion-general'
 weight: 1
 ---

@@ -37,7 +37,12 @@
 
                     <div class="flex flex-col rounded-md bg-gray-100 p-8 hover:bg-orange-100">
                         <a class="mt-auto" href="{{ .link }}">
-                            <span class="text-3xl text-seatable-orange">{{ partial "icon.html" .icon }}</span>
+                            {{ if .icon }}
+                                <span class="text-3xl text-seatable-orange">{{ partial "icon.html" .icon }}</span>
+                            {{ end }}
+                            {{ if .img }}
+                                <img class="mb-8 mt-2 h-8" src="{{ .img }}" />
+                            {{ end }}
                             <h3 class="mt-3 text-2xl font-bold">{{ .headline | markdownify }}</h3>
                             <p class="mb-8 mt-4">{{ .text | markdownify }}</p>
                         </a>

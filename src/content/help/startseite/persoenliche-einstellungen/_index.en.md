@@ -1,4 +1,4 @@
 ---
-title: 'Personal Settings'
-url: '/help/homepage/persoenliche-einstellungen'
+title: 'Personal settings'
+url: '/help/homepage/personal-settings'
 ---
