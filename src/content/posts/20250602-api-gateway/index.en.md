@@ -1,77 +1,77 @@
 ---
-title: 'Umstellung auf das SeaTable API-Gateway: Was sich mit Version 5.3 ändert'
+title: 'Switching to the SeaTable API gateway: What changes with version 5.3'
 description: ''
-url: /api-gateway-with-version-5-3
+url: /api-gateway-version-5-3
 date: 2025-06-02
+color: '#c5e8bc'
 ---
 
-Mit dem Release von SeaTable v5.3 wird die API von SeaTable ausschließlich über das neue API-Gateway erreichbar sein. Der direkte Zugriff auf die bisherigen Endpunkte von `dtable-db` und `dtable-server` entfällt vollständig.
+With the release of SeaTable v5.3, the SeaTable API will only be accessible via the new API gateway. Direct access to the previous endpoints of `dtable-db` and `dtable-server` **will be completely removed**.
 
-Nachdem wir diese wichtige Änderung bereits [im Forum angekündigt haben](https://forum.seatable.io/t/important-changes-to-the-seatable-cloud-api-in-version-5-3/6677), erläutern wir in diesem Beitrag die Hintergründe der Umstellung, die konkreten Vorteile sowie die wichtigsten Punkte, die Entwickler jetzt beachten sollten.
+Having already announced this important change [in the forum](https://forum.seatable.io/t/important-changes-to-the-seatable-cloud-api-in-version-5-3/6677), in this article we explain the background to the changeover, the specific advantages and the most important points that developers should now bear in mind.
 
-## Zielgruppe dieses Beitrags
+## Target group of this article
 
-Der Artikel richtet sich primär an **Entwickler**, die eigene Lösungen auf Basis der SeaTable API gebaut haben, sowie an technisch Interessierte, die mehr über die Architektur von SeaTable erfahren möchten.
+The article is primarily aimed at **developers** who have built their own solutions based on the SeaTable API, as well as technically interested parties who would like to learn more about the architecture of SeaTable.
 
-Für Anwender, die ausschließlich im Webinterface arbeiten oder Integrationen über _n8n_, _Zapier_ oder _Make.com_ nutzen, ist die Umstellung zwar interessant, aber in der Praxis nicht relevant.
+For users who work exclusively in the web interface or use integrations via [n8n](https://n8n.io/integrations/seatable/), [Zapier](https://zapier.com/apps/seatable/integrations) or [Make.com](https://www.make.com/en/integrations/seatable), the changeover is interesting, but not relevant in practice.
 
-## Bisheriger Zugriff auf die SeaTable API
+## Previous access to the SeaTable API
 
-In SeaTable erfolgt der Zugriff auf die SeaTable-Daten über zwei unterschiedliche Komponenten:
+In SeaTable, the SeaTable data is accessed via two different components:
 
-- **dtable-server**: Stellt die Inhalte einer Base als JSON dar, erzeugt die tabellarische Ansicht und ermöglicht die Echtzeit-Zusammenarbeit.
-- **dtable-db**: Bietet eine SQL-ähnliche Abfragesprache und dient als Schnittstelle zum Big-Data-Backend.
+- **dtable-server**: Represents the contents of a base as JSON, generates the tabular view and enables real-time collaboration.
+- **dtable-db**: Provides a SQL-like query language and serves as an interface to the Big Data backend.
 
-Entsprechend gab es zwei API-Strukturen: Beispielsweise wurden Zeilen einer Tabelle über `/dtable-server/api/v1/{base_uuid}/rows/` ausgegeben, während SQL-Abfragen über `/dtable-db/api/v1/query/{base_uuid}/` liefen. Für beide APIs konnten eigene Limits gesetzt werden, ein zentrales, teamweites Limit existierte bisher nicht.
+Accordingly, there were two API structures: For example, rows of a table were output via `/dtable-server/api/v1/{base_uuuid}/rows/`, while SQL queries ran via `/dtable-db/api/v1/query/{base_uuuid}/`. Individual limits could be set for both APIs; a central, team-wide limit did not previously exist.
 
-## Herausforderungen: Ungleichmäßige Nutzung und fehlende Kontrolle
+## Challenges: Uneven usage and lack of transparency
 
-Unsere detaillierte Analyse der API-Nutzung zeigt ein klares Bild: Die überwiegende Mehrheit der SeaTable-Nutzer arbeitet entweder ausschließlich im Webinterface oder nutzt die API nur gelegentlich. Gleichzeitig gibt es jedoch eine kleine Gruppe sogenannter Heavy-User, die die API extrem intensiv beanspruchen. So verarbeitet SeaTable Cloud täglich bis zu einer halben Million API-Anfragen – und über 70% dieser externen API-Requests stammen von lediglich 20 Bases beziehungsweise den zehn aktivsten Teams.
+Our detailed analysis of API usage shows a clear picture: the vast majority of SeaTable users either work exclusively in the web interface or only use the API occasionally. At the same time, however, there are users who make intensive use of the API. SeaTable Cloud processes up to half a million API requests every day - and over 70% of these external API requests come from just 20 bases or the ten most active teams.
 
-Noch problematischer wird die Situation dadurch, dass viele dieser Anfragen von eigens entwickelten Integrationen oder Automatisierungen stammen, die häufig nicht optimal programmiert sind. Das bedeutet: Es werden oft große Datenmengen abgerufen, viele Anfragen wiederholen sich unnötig und es wird selten auf effiziente Abfrage- oder Caching-Strategien zurückgegriffen. In der Praxis führt das dazu, dass einzelne Teams zehntausende Requests pro Tag erzeugen – häufig, um Daten wie in einer klassischen SQL-Datenbank zu lesen und zu schreiben.
+We can also see that many of these requests come from custom integrations or automations that are not programmed optimally. This means that large amounts of data are retrieved, many requests are repeated unnecessarily and efficient query or caching strategies are rarely used. In practice, this leads to individual teams generating tens of thousands of requests per day - often to read and write data as in a classic SQL database.
 
-Für ein öffentliches SaaS-Produkt wie SeaTable Cloud ist das eine große Herausforderung. Denn die Infrastruktur muss nicht nur für die breite Masse der normalen Nutzer performant und stabil bleiben, sondern gleichzeitig auch die Belastung durch diese wenigen Heavy-User abfedern. Kommt es zu solchen Belastungsspitzen, kann das die Performance für alle Anwender beeinträchtigen – etwa durch längere Ladezeiten oder verzögerte Antwortzeiten der API. Ohne zentrale Kontrolle und gezielte Steuerung der API-Nutzung ist es kaum möglich, ein schnelles und stabiles Nutzungserlebnis für alle Teams zu gewährleisten.
+This is a major challenge for a public SaaS product like SeaTable Cloud. The infrastructure must be performant and stable for everyone. At the same time, the load caused by intensive API use must be cushioned. If such load peaks occur, this can affect performance for all users - for example due to longer loading times or delayed API response times. Without transparency and targeted control of API usage, it is virtually impossible to guarantee a fast and stable user experience for all teams.
 
-## Bisherige API-Limits: Zu grob und intransparent
+## Previous API limits: too coarse and non-transparent
 
-Bis Version 5.3 gab es für die SeaTable API nur relativ hohe Minuten-Limits sowie moderate Stunden- oder Tageslimits – jeweils pro Base und getrennt für `dtable-server` und `dtable-db`. Dadurch konnten Limits leicht umgangen werden, und eine zentrale Steuerung war kaum möglich.
+Until version 5.3, the SeaTable API only had relatively high minute limits and moderate hourly or daily limits - each per base and separately for `dtable-server` and `dtable-db`. This meant that limits could easily be circumvented and centralized control was hardly possible.
 
-Für Nutzer war zudem nicht ersichtlich, wie viele API-Calls sie bereits verbraucht hatten. Weder im Webinterface noch in der API wurden die aktuellen Kontingente angezeigt. So war es schwierig, die eigene Nutzung zu kontrollieren oder frühzeitig auf ein drohendes Limit zu reagieren.
+Users were also unable to see how many API calls they had already used. The current quotas were not displayed either in the web interface or in the API. This made it difficult to monitor their own usage or react to an impending limit at an early stage.
 
-Auch aus Anbietersicht war dieses System unbefriedigend: Eine faire Bepreisung oder gezielte Steuerung intensiver Nutzung war praktisch nicht möglich. Heavy-User konnten das System stark belasten, ohne dass dies transparent wurde oder angemessen begrenzt werden konnte.
+This system was also unsatisfactory from the provider's point of view: pricing or targeted control of intensive use was practically impossible. Individual heavy users could place a heavy load on the system without this becoming transparent or being appropriately limited.
 
-## Das neue API-Gateway: Zentrale Steuerung und Fairness
+## The new API gateway: central control and transparency
 
-Um den steigenden Anforderungen an Stabilität, Fairness und Transparenz gerecht zu werden und gleichzeitig die wachsende Komplexität der API-Nutzung besser steuern zu können, haben wir uns entschieden, mit dem neuen API-Gateway eine zentrale Schnittstelle einzuführen, die zahlreiche Vorteile für alle Nutzergruppen bietet:
+In order to meet the increasing requirements for stability and transparency and at the same time to be able to better control the growing complexity of API usage, we decided to introduce a central interface with the new API gateway, which offers numerous advantages for all user groups:
 
-- **Zentraler Einstiegspunkt:** Alle API-Anfragen laufen künftig über das Gateway, das wie ein Reverse Proxy agiert.
-- **Harmonisierung der Limits:** Es gibt ab sofort ein zentrales Minuten- und Monatslimit pro Team, abhängig von Teamgröße und Abonnement.
-- **Transparenz:** Die aktuelle Nutzung ist jederzeit im Webinterface sichtbar. Zusätzlich liefern x-ratelimit-Header in der API die aktuellen Werte zurück.
-- **Performance:** Wiederholte Anfragen können aus dem Cache beantwortet werden, was die Last auf den Backend-Systemen reduziert.
-- **Faire Monetarisierung:** Intensive Nutzung kann gezielt bepreist werden, sodass Heavy-User für ihren Ressourcenverbrauch aufkommen und die Kosten nicht auf alle Teams verteilt werden müssen.
+- **Central entry point:** In future, all API requests will go through the gateway, which acts like a reverse proxy.
+- **Harmonization of limits:** There is now a central minute and monthly limit per team, depending on team size and subscription.
+- **Transparency:** The current usage is visible at all times in the web interface. In addition, x-ratelimit headers in the API return the current values.
+- **Performance:** Repeated requests can be answered from the cache, which reduces the load on the backend systems.
 
-## Technischer Ablauf:
+## Technical process:
 
-Jede Anfrage an die SeaTable API läuft künftig immer zuerst über den Caddy-Server, der für die sichere Verbindung sorgt. Danach übernimmt das API-Gateway: Es prüft die Limits, erstellt Logs und beantwortet wiederkehrende Anfragen direkt aus dem Cache. Nur wenn nötig, wird die Anfrage an die internen SeaTable-Dienste (`dtable-db` oder `dtable-server`) weitergeleitet. So bleibt die API schnell, sicher und fair für alle Teams.
+In future, every request to the SeaTable API will always go through the caddy server first, which ensures a secure connection. The API gateway then takes over: it checks the limits, creates logs and answers recurring requests directly from the cache. Only if necessary is the request forwarded to the internal SeaTable services (`dtable-db` or `dtable-server`). This keeps the API fast, secure and fair for all teams.
 
-_Grafik, die das Folgende darstellt: Client → Caddy (SSL-Terminierung) → API-Gateway (Rate Limiting, Caching, Logging) → SeaTable API (dtable-db oder dtable-server)_
+![Technical setup of the API gateway](technical-setup.png)
 
-## Was bedeutet das konkret für Entwickler?
+## What does this mean for developers?
 
-- Die alten Endpunkte von `dtable-db` und `dtable-server` werden ab Version 5.3 nicht mehr unterstützt. Anfragen an diese Endpunkte führen zu entsprechenden Hinweismeldungen.
-- Individuelle Lösungen und Integrationen müssen auf die neuen API-Gateway-Endpunkte umgestellt werden. Die Dokumentation dazu findet sich unter [api.seatable.io](https://api.seatable.io).
-- Standard-Integrationen (_n8n_, _Zapier_, _Make.com_) sowie interne Skripte in SeaTable sind bereits auf die neuen Endpunkte umgestellt und funktionieren weiterhin ohne Anpassung.
+- The old endpoints of `dtable-db` and `dtable-server` are no longer supported as of version 5.3. Requests to these endpoints lead to corresponding messages.
+- Individual solutions and integrations must be converted to the new API gateway endpoints. The documentation for this can be found at [api.seatable.io](https://api.seatable.io).
+- Standard integrations (_n8n_, _Zapier_, _Make.com_) as well as internal scripts in SeaTable have already been converted to the new endpoints and continue to function without adaptation.
 
-## Neue API-Limits: Einfach, transparent, teamweit
+## New API limits: Simple, transparent, team-wide
 
-Zukünftig regeln nur noch zwei Limits den Zugriff auf eine SeaTable Base:
+In future, only two limits will regulate access to a SeaTable Base:
 
-- **Minutenlimit:** Schützt vor kurzfristigen Lastspitzen und Missbrauch.
-- **Monatslimit:** Bemisst sich an Teamgröße und Abonnement. Größere Teams erhalten proportional mehr API-Requests pro Monat.
+- **Minute limit:** Protects against short-term load peaks and abuse.
+- **Monthly limit:** Is based on team size and subscription. Larger teams receive proportionally more API requests per month.
 
-Die Nutzung und verbleibenden Kontingente sind jederzeit im Webinterface und über die `API-Header` einsehbar. Bei Überschreitung des Monatslimits kann das Team-Abo direkt erweitert werden, um sofort wieder Anfragen stellen zu können.
+The usage and remaining quotas can be viewed at any time in the web interface and via the 'API headers'. If the monthly limit is exceeded, the team subscription can be extended directly so that requests can be made again immediately.
 
-Hier ein Beispiel für die zurückgelieferten `x-ratelimit-header` auf der Kommandozeile:
+Here is an example of the returned `x-ratelimit-header` on the command line:
 
 ```
 x-powered-by: SeaTable-Api-Gateway
@@ -80,24 +80,24 @@ x-ratelimit-remaining: 199
 x-ratelimit-reset: 1748424867
 ```
 
-Wie im Beispiel zu sehen, liefert die SeaTable API bei jedem Aufruf sogenannte `Rate-Limit-Header` zurück.
+As can be seen in the example, the SeaTable API returns so-called `Rate-Limit-Headers` with every call.
 
-Diese Header geben Auskunft darüber, wie viele API-Anfragen Sie aktuell pro Minute stellen dürfen (`x-ratelimit-limit`), wie viele davon im aktuellen Zeitfenster noch übrig sind (`x-ratelimit-remaining`) und wann das Limit zurückgesetzt wird (`x-ratelimit-reset`, als Unix-Zeitstempel).
+These headers provide information about how many API requests you are currently allowed to make per minute (`x-ratelimit-limit`), how many are left in the current time window (`x-ratelimit-remaining`) and when the limit is reset (`x-ratelimit-reset`, as a Unix timestamp).
 
-Technisch bedingt zeigt die API hier immer das Minutenlimit an, da dieses schnell und ohne aufwendige Datenbankabfragen geprüft werden kann. Sollte jedoch das Monatslimit Ihres Teams erreicht sein, gibt die API bei `x-ratelimit-remaining` den Wert 0 und beim Reset den Zeitpunkt des nächsten Monatsstarts zurück. Dieses Verhalten wurde bewusst so umgesetzt, um unnötige Datenbankabfragen bei jeder Anfrage zu vermeiden und die Performance hoch zu halten.
+For technical reasons, the API always displays the minute limit here, as this can be checked quickly and without time-consuming database queries. However, if your team's monthly limit has been reached, the API returns the value 0 for 'x-ratelimit-remaining' and the time of the next monthly start on reset. This behavior was deliberately implemented to avoid unnecessary database queries for each request and to keep performance high.
 
-So wissen Sie jederzeit, wie viele Anfragen Sie aktuell noch stellen können – und werden rechtzeitig informiert, wenn Sie ein Limit erreicht haben. Im Webinterface sehen Sie zu jedem Zeitpunkt das Team-Monatslimit und Ihren aktuellen Verbrauch. Weitere Details zur API und den Limits finden Sie in der [offiziellen Dokumentation](https://api.seatable.io).
+This means you always know how many more requests you can currently make - and are informed in good time when you have reached a limit. You can see the team monthly limit and your current consumption at any time in the web interface. Further details on the API and the limits can be found in the [official documentation](https://api.seatable.io).
 
-{{< warning headline="Die Limits stehen noch nicht fest" >}}
+{{< warning headline="The limits are not yet fixed" >}}
 
-Die finalen Limits stehen zum Start noch nicht fest. Wir werden die tatsächliche Nutzung des Gateways für ein bis zwei Wochen beobachten und dann sukzessive die Limits festlegen. Unser Ziel ist, dass 99% aller Anwender die neuen API-Limits gar nicht bemerken. Lediglich die absoluten Heavy-User werden von den neuen Limits betroffen sein.
+The final limits have not yet been set at launch. We will observe the actual use of the gateway for one to two weeks and then gradually set the limits. Our goal is that 99% of all users will not even notice the new API limits.
 
 {{< /warning >}}
 
-## Performance- und Kostenvorteile
+## Performance and cost benefits
 
-Durch das Caching im Gateway werden häufige Leseanfragen schneller beantwortet, ohne jedes Mal das Backend zu belasten. Gleichzeitig ermöglicht das neue Modell, dass Teams mit sehr hohem API-Bedarf künftig gezielt für ihre Nutzung zahlen – was die Kosten für alle anderen Teams stabil hält.
+Thanks to caching in the gateway, frequent read requests are answered more quickly without burdening the backend every time. At the same time, the new model allows teams with very high API requirements to pay specifically for their use in future - which keeps costs stable for all other teams.
 
-## Fazit
+## Conclusion
 
-Mit Version 5.3 stellt SeaTable die Weichen für eine zukunftssichere, faire und leistungsfähige API-Nutzung. Entwickler müssen ihre Lösungen auf die neuen Endpunkte umstellen, profitieren aber von mehr Transparenz, besserer Performance und klaren Regeln.
+With version 5.3, SeaTable is setting the course for future-proof, fair and powerful API usage. Developers will have to convert their solutions to the new endpoints, but will benefit from more transparency, better performance and clear rules.
