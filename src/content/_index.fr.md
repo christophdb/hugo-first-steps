@@ -226,7 +226,7 @@ sections:
   - image: "/images/logos/seatable-api.svg"
   buttons:
     - label: "En savoir plus sur les intégrations"
-      link: "https://seatable.io/integrationen/?lang=auto"
+      link: "pages/integrations"
       id: fr-homepage-integrations-content-10
 
 - name: "content-11"

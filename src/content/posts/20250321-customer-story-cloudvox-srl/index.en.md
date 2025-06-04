@@ -57,6 +57,6 @@ His remarkable success so far: for one customer, data from the customer database
 
 ## Optimized processes for Cloudvox and its customers
 
-Cristian Livadaru is so happy with his choice that he is now actively recruiting new SeaTable users. He also sees potential in his company and plans to build his own CRM based on one of the SeaTable templates. While he makes intensive use of scripts, SQL queries, the API and [third-party integration](https://seatable.io/integrationen/) with n8n, among others, he has not yet tested the possibilities of the Universal App Builder for his company.
+Cristian Livadaru is so happy with his choice that he is now actively recruiting new SeaTable users. He also sees potential in his company and plans to build his own CRM based on one of the SeaTable templates. While he makes intensive use of scripts, SQL queries, the API and [third-party integration]({{< relref "pages/integrations" >}}) with n8n, among others, he has not yet tested the possibilities of the Universal App Builder for his company.
 
 In addition to optimizing and accelerating his own processes, the introduction of SeaTable also brought a decisive leap in quality in the collaboration with his customers. By using a well thought-out, stable data management tool with an understandable user interface, he was able to bridge the gap between the technical possibilities of data processing and a user-friendly presentation, thereby also advancing the digital transformation on the customer side.

@@ -1,8 +1,8 @@
 ---
 title: 'SeaTable Produkte'
 seo:
-    title: "SeaTable Produkte | Finden Sie die passende Lösung für sich"
-    description: "SeaTable bietet flexible Cloud-, Dedicated- und On-Premises-Lösungen, perfekt auf Ihre Geschäftsanforderungen zugeschnitten."
+    title: 'SeaTable Produkte | Finden Sie die passende Lösung für sich'
+    description: 'SeaTable bietet flexible Cloud-, Dedicated- und On-Premises-Lösungen, perfekt auf Ihre Geschäftsanforderungen zugeschnitten.'
 date: '2025-03-30'
 url: '/de/produkte'
 
@@ -119,7 +119,7 @@ sections:
           - image: '/images/logos/seatable-api.svg'
       buttons:
           - label: 'Mehr über Integrationen erfahren'
-            link: 'https://seatable.io/integrationen/?lang=auto'
+            link: 'pages/integrations'
 
     - name: 'content-9'
       weight: 10
