@@ -52,7 +52,7 @@ Webhooks обычно используются, когда вы не хотит�
 
 - [Zapier](https://zapier.com/apps/seatable/integrations)
 - [Make (ранее Integromat)](https://www.make.com/en/integrations/seatable)
-- [n8n](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.seatable/)
+- [n8n](https://n8n.io/integrations/seatable/)
 - [Локоиа](https://www.locoia.com/connector/seatable-integration)
 - [Интегрально](https://integrately.com/integrations/seatable)
 

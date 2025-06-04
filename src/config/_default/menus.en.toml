@@ -176,7 +176,7 @@ weight = 20
 [[footer]]
 name = "Quick guide"
 parent = "Assistance"
-pageref = "pages/quick-guide"
+pageRef = "pages/quick-guide"
 weight = 21
 
 [[footer]]
@@ -194,7 +194,7 @@ weight = 23
 [[footer]]
 name = "Integrations"
 parent = "Assistance"
-url = "https://seatable.io/integrationen/?lang=auto"
+pageRef = "pages/integrations"
 weight = 24
 
 [[footer]]

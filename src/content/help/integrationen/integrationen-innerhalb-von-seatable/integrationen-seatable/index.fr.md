@@ -52,7 +52,7 @@ Actuellement, les plateformes d'automatisation suivantes proposent un support po
 
 - [Zapier](https://zapier.com/apps/seatable/integrations)
 - [Make (formerly Integromat)](https://www.make.com/en/integrations/seatable)
-- [n8n](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.seatable/)
+- [n8n](https://n8n.io/integrations/seatable/)
 - [Locoia](https://www.locoia.com/connector/seatable-integration)
 - [Intégralement](https://integrately.com/integrations/seatable)
 

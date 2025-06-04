@@ -47,7 +47,7 @@ sections:
             img: '/images/logos/make.svg'
           - headline: n8n.io, Open Source and Self-Hosted
             text: n8n is open source software for process automation. n8n runs on any Linux server, requires only npm, and already supports over 200 applications.
-            link: hhttps://n8n.io/integrations/n8n-nodes-base.seaTable
+            link: https://n8n.io/integrations/seatable/
             img: '/images/logos/n8n.svg'
 
     - name: 'content-22'

@@ -47,7 +47,7 @@ sections:
             img: '/images/logos/make.svg'
           - headline: n8n.io, Open Source и самостоятельный хостинг
             text: n8n — это open source-программа для автоматизации процессов. n8n работает на любом Linux-сервере, требует только npm и уже поддерживает более 200 приложений.
-            link: hhttps://n8n.io/integrations/n8n-nodes-base.seaTable
+            link: https://n8n.io/integrations/seatable/
             img: '/images/logos/n8n.svg'
 
     - name: 'content-22'
