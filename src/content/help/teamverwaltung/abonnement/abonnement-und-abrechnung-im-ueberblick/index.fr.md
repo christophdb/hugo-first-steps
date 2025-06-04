@@ -86,7 +86,7 @@ Vous pouvez également ajouter à tout moment un identifiant fiscal valide à vo
 
 SeaTable accorde une remise standard de 25%, et dans certains cas particuliers jusqu'à 75%, sur le coût de SeaTable Plus ou Enterprise pour les institutions publiques, à but non lucratif ou éducatives. Pour bénéficier de cette remise, il suffit d'en faire la demande via l'administration de l'équipe.
 
-[En savoir plus sur les réductions accordées aux établissements mentionnés](https://seatable.io/fr/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
+[En savoir plus sur les réductions accordées aux établissements mentionnés]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
 
 ## Comment les membres de l'équipe influencent les coûts d'abonnement
 

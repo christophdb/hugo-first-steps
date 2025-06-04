@@ -117,6 +117,6 @@ Com o [modelo gratuito]({{< relref "templates/finance/donation-overview" >}}) da
 
 Na sua [base de dados online]({{< relref "templates/finance/donation-overview" >}}), pode não só **recolher e gerir os donativos**, mas também calcular automaticamente a diferença entre os donativos já efectuados e o montante pretendido. Crie **recibos de donativos** com um clique e mantenha um registo dos dados **de contacto** dos seus doadores. Pode ver todos os factos importantes e o **progresso dos seus projectos** num relance num quadro Kanban claramente organizado.
 
-Para as organizações mais pequenas, as funções e os limites de armazenamento do SeaTable Free (versão gratuita) devem ser suficientes. Se tiver planos maiores, a sua organização sem fins lucrativos beneficiará de [descontos](https://seatable.io/pt/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) normais no custo do SeaTable Plus ou Enterprise.
+Para as organizações mais pequenas, as funções e os limites de armazenamento do SeaTable Free (versão gratuita) devem ser suficientes. Se tiver planos maiores, a sua organização sem fins lucrativos beneficiará de [descontos]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}) normais no custo do SeaTable Plus ou Enterprise.
 
 Primeiro, [registe-se]({{< relref "pages/registration" >}}) para obter a subscrição gratuita e, em seguida, apresente um pedido correspondente através da administração da equipa. Estamos ansiosos por apoiar a sua organização sem fins lucrativos com o nosso software!

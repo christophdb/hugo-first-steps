@@ -86,7 +86,7 @@ Sie möchten Ihre Kreditkarte ändern, die Sie zur Bezahlung Ihres SeaTable-Abos
 
 SeaTable gewährt standardmäßig 25% Rabatt, in besonderen Fällen bis zu 75% Rabatt auf die Kosten von SeaTable Plus oder Enterprise für öffentliche, non-profit oder Bildungseinrichtungen. Um den Rabatt zu nutzen, stellen Sie einfach einen entsprechenden Antrag über die Teamverwaltung.
 
-[Erfahren Sie mehr zu den Rabatten für die genannten Einrichtungen](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
+[Erfahren Sie mehr zu den Rabatten für die genannten Einrichtungen]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
 
 ## Wie Teammitglieder die Abonnement-Kosten beeinflussen
 

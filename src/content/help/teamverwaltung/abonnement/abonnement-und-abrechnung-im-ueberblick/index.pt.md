@@ -86,7 +86,7 @@ Também pode adicionar um número de identificação fiscal válido à sua conta
 
 O SeaTable oferece um desconto padrão de 25%, em casos especiais até 75% de desconto no custo do SeaTable Plus ou Enterprise para instituições públicas, sem fins lucrativos ou educacionais. Para beneficiar do desconto, basta apresentar um pedido através da administração da equipa.
 
-[Saiba mais sobre os descontos para as instalações mencionadas](https://seatable.io/pt/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
+[Saiba mais sobre os descontos para as instalações mencionadas]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
 
 ## Como os membros da equipa influenciam os custos de subscrição
 

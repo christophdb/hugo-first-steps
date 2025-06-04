@@ -59,7 +59,7 @@ sections:
       title: Discounts for non-profit organizations
       subtitle: Affordable for everyone
       items:
-          - text: We are pleased to support people in great projects. Non-profit organizations and educational institutions generally receive a 50% discount. Local associations may even receive up to a 75% discount on SeaTable Plus and SeaTable Enterprise subscriptions in exceptional cases. Send us [your discount request via team management](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
+          - text: We are pleased to support people in great projects. Non-profit organizations and educational institutions generally receive a 50% discount. Local associations may even receive up to a 75% discount on SeaTable Plus and SeaTable Enterprise subscriptions in exceptional cases. Send us [your discount request via team management]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
       image: /images/image-341.png
 
     - name: platform-selector

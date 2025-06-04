@@ -105,7 +105,7 @@ Ko Smidt erklärt den Ablauf des Prüfungsprozesses an Niederländischen Schulen
 
 ## SeaTable im Einsatz: Einblicke in Use Cases und Integrationen
 
-Am zweiten Tag der SeaDays drehte sich alles um SeaTable und seine vielseitigen Einsatzmöglichkeiten. Von Workflow-Automatisierung über Prozessoptimierung in Schulen bis hin zu KI-gestützter Content-Erstellung – die Teilnehmer erhielten spannende Einblicke, wie SeaTable Unternehmen und [öffentliche Einrichtungen](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) unterstützen kann.
+Am zweiten Tag der SeaDays drehte sich alles um SeaTable und seine vielseitigen Einsatzmöglichkeiten. Von Workflow-Automatisierung über Prozessoptimierung in Schulen bis hin zu KI-gestützter Content-Erstellung – die Teilnehmer erhielten spannende Einblicke, wie SeaTable Unternehmen und [öffentliche Einrichtungen]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}) unterstützen kann.
 
 ### Clevere Automationen am Johannes Fontanus College
 

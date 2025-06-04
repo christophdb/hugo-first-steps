@@ -19,10 +19,8 @@ Si aún no has registrado un equipo en cloud.seatable.io, empieza por [registrar
 1. Abre la [administración del equipo](https://account.seatable.io).
 2. Pase a la sección **Suscripción**.
 3. Haga clic en ¿Es **usted una organización sin ánimo de lucro?**
-
-![Solicitar un descuento a través de la administración del equipo](images/Antrag-auf-Rabatt-in-SeaTable.png)
-
-5. Rellene el **formulario** y haga clic en **Enviar solicitud**.
+   ![Solicitar un descuento a través de la administración del equipo](images/Antrag-auf-Rabatt-in-SeaTable.png)
+4. Rellene el **formulario** y haga clic en **Enviar solicitud**.
 
 ## Esperar la respuesta
 

@@ -118,6 +118,6 @@ Mit der [kostenlosen Vorlage]({{< relref "templates/finance/donation-overview" >
 
 In Ihrer [Online-Datenbank]({{< relref "templates/finance/donation-overview" >}}) können Sie nicht nur **Spenden sammeln und verwalten**, sondern sich auch automatisch die Differenz zwischen bereits getätigten Spenden und der Zielsumme berechnen lassen. Erstellen Sie mit einem Klick **Spendenquittungen** und behalten Sie den Überblick über die **Kontaktdaten** Ihrer Spender. Auf einem übersichtlichen Kanban-Board sehen Sie alle wichtigen Fakten und den **Fortschritt Ihrer Projekte** auf einen Blick.
 
-Für kleinere Vereine sollten die Funktionen und Speicherlimits von SeaTable Free (kostenlose Version) ausreichen. Wenn Sie Größeres vorhaben, erhält Ihre gemeinnützige Organisation standardmäßig [Rabatte](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) auf die Kosten von SeaTable Plus oder Enterprise.
+Für kleinere Vereine sollten die Funktionen und Speicherlimits von SeaTable Free (kostenlose Version) ausreichen. Wenn Sie Größeres vorhaben, erhält Ihre gemeinnützige Organisation standardmäßig [Rabatte]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}) auf die Kosten von SeaTable Plus oder Enterprise.
 
 [Registrieren]({{< relref "pages/registration" >}}) Sie sich zunächst für das Free-Abonnement und stellen Sie anschließend einen entsprechenden Antrag über die Teamverwaltung. Wir freuen uns darauf, Ihre gemeinnützige Organisation mit unserer Software zu unterstützen!

@@ -86,7 +86,7 @@ You can also add a valid tax ID to your account at any time through Team Managem
 
 SeaTable provides a standard 25% discount, and in special cases up to 75% discount on the cost of SeaTable Plus or Enterprise for public, non-profit or educational institutions. To take advantage of the discount, simply submit an appropriate request through Team Administration.
 
-[Learn more about the discounts for the above facilities](https://seatable.io/en/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
+[Learn more about the discounts for the above facilities]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
 
 ## How team members influence subscription costs
 

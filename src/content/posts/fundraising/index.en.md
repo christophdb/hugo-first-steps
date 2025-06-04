@@ -118,6 +118,6 @@ With SeaTable's [free template]({{< relref "templates/finance/donation-overview"
 
 In your [online database]({{< relref "templates/finance/donation-overview" >}}), you can not only **collect and manage donations**, but also automatically calculate the difference between donations already made and the target amount. Create **donation receipts** with one click and keep track of your donors' **contact details**. You can see all the important facts and the **progress of your projects** at a glance on a clear Kanban board.
 
-For smaller organizations, the features and storage limits of SeaTable Free (free version) should be sufficient. If you have larger plans, your non-profit organization will receive standard [discounts](https://seatable.io/en/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) on the cost of SeaTable Plus or Enterprise.
+For smaller organizations, the features and storage limits of SeaTable Free (free version) should be sufficient. If you have larger plans, your non-profit organization will receive standard [discounts]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}) on the cost of SeaTable Plus or Enterprise.
 
 First [register]({{< relref "pages/registration" >}}) for the free subscription and then submit a corresponding request via the team administration. We look forward to supporting your non-profit organization with our software!

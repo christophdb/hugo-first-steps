@@ -104,7 +104,7 @@ Ko Smidt explique le déroulement du processus d'examen dans les écoles néerla
 
 ## SeaTable en action : aperçu des cas d'utilisation et des intégrations
 
-Le deuxième jour des SeaDays était consacré à SeaTable et à ses nombreuses possibilités d'utilisation. De l'automatisation des flux de travail à l'optimisation des processus dans les écoles en passant par la création de contenu assistée par l'IA, les participants ont eu un aperçu passionnant de la manière dont SeaTable peut aider les entreprises et [les institutions publiques](https://seatable.io/fr/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
+Le deuxième jour des SeaDays était consacré à SeaTable et à ses nombreuses possibilités d'utilisation. De l'automatisation des flux de travail à l'optimisation des processus dans les écoles en passant par la création de contenu assistée par l'IA, les participants ont eu un aperçu passionnant de la manière dont SeaTable peut aider les entreprises et [les institutions publiques]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
 
 ### Automations intelligentes au Johannes Fontanus College
 

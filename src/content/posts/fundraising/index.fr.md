@@ -117,6 +117,6 @@ Avec le [modèle gratuit]({{< relref "templates/finance/donation-overview" >}}) 
 
 Dans votre [base de données en ligne]({{< relref "templates/finance/donation-overview" >}}), vous pouvez non seulement **collecter et gérer les dons**, mais aussi calculer automatiquement la différence entre les dons déjà effectués et la somme cible. Créez **des reçus de dons** en un clic et gardez une vue d'ensemble des **coordonnées** de vos donateurs. Un tableau Kanban clair vous permet de voir d'un coup d'œil tous les faits importants et l'**avancement de vos projets**.
 
-Pour les petites associations, les fonctions et les limites de stockage de SeaTable Free (version gratuite) devraient suffire. Si vous avez des projets plus importants, votre organisation à but non lucratif bénéficiera par défaut de [réductions](https://seatable.io/fr/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/) sur les coûts de SeaTable Plus ou Enterprise.
+Pour les petites associations, les fonctions et les limites de stockage de SeaTable Free (version gratuite) devraient suffire. Si vous avez des projets plus importants, votre organisation à but non lucratif bénéficiera par défaut de [réductions]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}) sur les coûts de SeaTable Plus ou Enterprise.
 
 [Inscrivez-vous](https://seatable.io/fr/enregistrement/) d'abord à l'abonnement gratuit et faites ensuite une demande correspondante via l'administration de l'équipe. Nous nous réjouissons de soutenir votre organisation à but non lucratif avec notre logiciel !
