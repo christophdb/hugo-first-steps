@@ -104,7 +104,7 @@ Ko Smidt explica o processo de exame nas escolas neerlandesas.
 
 ## SeaTable em utilização: informações sobre casos de utilização e integrações
 
-O segundo dia dos SeaDays foi dedicado ao SeaTable e à sua vasta gama de aplicações. Desde a automatização do fluxo de trabalho e a otimização de processos nas escolas até à criação de conteúdos apoiada por IA - os participantes obtiveram conhecimentos interessantes sobre a forma como o SeaTable pode apoiar empresas e [instituições públicas](https://seatable.io/pt/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
+O segundo dia dos SeaDays foi dedicado ao SeaTable e à sua vasta gama de aplicações. Desde a automatização do fluxo de trabalho e a otimização de processos nas escolas até à criação de conteúdos apoiada por IA - os participantes obtiveram conhecimentos interessantes sobre a forma como o SeaTable pode apoiar empresas e [instituições públicas]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
 
 ### Automação inteligente no Colégio Johannes Fontanus
 

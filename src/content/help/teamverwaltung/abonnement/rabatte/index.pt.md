@@ -19,10 +19,8 @@ Se ainda não registou uma equipa em cloud.seatable.io, comece por [se registar]
 1. Abrir a [administração da equipa](https://account.seatable.io).
 2. Mudar para a secção **Assinatura**.
 3. Clique em **É uma organização sem fins lucrativos?**
-
-![Pedir um desconto através da administração da equipa](images/Antrag-auf-Rabatt-in-SeaTable.png)
-
-5. Preencher o **formulário** e clicar em **Enviar candidatura**.
+   ![Pedir um desconto através da administração da equipa](images/Antrag-auf-Rabatt-in-SeaTable.png)
+4. Preencher o **formulário** e clicar em **Enviar candidatura**.
 
 ## Aguardar por feedback
 

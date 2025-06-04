@@ -59,7 +59,7 @@ sections:
       title: Descontos para organizações sem fins lucrativos
       subtitle: Acessível para todos
       items:
-          - text: Temos prazer em apoiar pessoas em projetos extraordinários. Organizações sem fins lucrativos e instituições de ensino recebem 50% de desconto. Em casos excepcionais, associações locais podem obter até 75% de desconto nas assinaturas do SeaTable Plus e SeaTable Enterprise. Envie-nos [sua solicitação de desconto via gerenciamento de equipe](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
+          - text: Temos prazer em apoiar pessoas em projetos extraordinários. Organizações sem fins lucrativos e instituições de ensino recebem 50% de desconto. Em casos excepcionais, associações locais podem obter até 75% de desconto nas assinaturas do SeaTable Plus e SeaTable Enterprise. Envie-nos [sua solicitação de desconto via gerenciamento de equipe]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
       image: /images/image-341.png
 
     - name: platform-selector

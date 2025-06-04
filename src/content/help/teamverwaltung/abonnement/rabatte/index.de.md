@@ -19,8 +19,8 @@ Sollten Sie noch kein Team auf cloud.seatable.io registriert haben, beginnen Sie
 1. Öffnen Sie die [Teamverwaltung](https://account.seatable.io).
 2. Wechseln Sie in den Bereich **Abonnement**.
 3. Klicken Sie auf **Sind Sie eine gemeinnützige Organisation?**.
-
-![Antrag auf Rabatt über die Teamverwaltung stellen](images/Antrag-auf-Rabatt-in-SeaTable.png) 5. Füllen Sie das **Formular** aus und klicken Sie auf **Antrag abschicken**.
+   ![Antrag auf Rabatt über die Teamverwaltung stellen](images/Antrag-auf-Rabatt-in-SeaTable.png)
+4. Füllen Sie das **Formular** aus und klicken Sie auf **Antrag abschicken**.
 
 ## Rückmeldung abwarten
 

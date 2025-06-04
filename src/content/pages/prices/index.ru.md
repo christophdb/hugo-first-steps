@@ -59,7 +59,7 @@ sections:
       title: Скидки для некоммерческих организаций
       subtitle: Доступно для всех
       items:
-          - text: Мы рады поддерживать людей в их важных проектах. Некоммерческие организации и учебные заведения получают 50% скидку. В исключительных случаях местные объединения могут получить до 75% скидки на подписки SeaTable Plus и SeaTable Enterprise. Отправьте нам [запрос на скидку через управление командой](https://seatable.io/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/).
+          - text: Мы рады поддерживать людей в их важных проектах. Некоммерческие организации и учебные заведения получают 50% скидку. В исключительных случаях местные объединения могут получить до 75% скидки на подписки SeaTable Plus и SeaTable Enterprise. Отправьте нам [запрос на скидку через управление командой]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
       image: /images/image-341.png
 
     - name: platform-selector

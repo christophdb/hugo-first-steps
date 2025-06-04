@@ -86,7 +86,7 @@ Más información [sobre el depósito de un NIF](https://seatable.io/es/docs/abo
 
 SeaTable ofrece un descuento estándar del 25%, en casos especiales hasta un 75% de descuento en el coste de SeaTable Plus o Enterprise para instituciones públicas, sin ánimo de lucro o educativas. Para beneficiarse del descuento, simplemente envíe una solicitud a través de la administración del equipo.
 
-[Más información sobre los descuentos para las instalaciones mencionadas.](https://seatable.io/es/docs/abo-abrechnung/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen/)
+[Más información sobre los descuentos para las instalaciones mencionadas.]({{< relref "help/teamverwaltung/abonnement/rabatte" >}})
 
 ## Cómo influyen los miembros del equipo en los costes de suscripción
 
