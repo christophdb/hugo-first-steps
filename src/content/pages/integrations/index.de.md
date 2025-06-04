@@ -5,4 +5,59 @@ seo:
     title: ''
     description: ''
 url: '/de/integrationen/'
+
+# TODO: mehr inhalte wie auf https://monday.com/lang/de/integrations, z.B. Kundenstimmen
+
+sections:
+    - name: hero-2
+      weight: 1
+      title: Automatisieren Sie Ihre Arbeit
+      subtitle: Integrationen mit SeaTable
+      text: Integrieren Sie SeaTable in Ihre bevorzugten Tools, um Ihre wichtigsten Geschäftsinformationen zu verknüpfen und leistungsfähigere Anwendungen zu erstellen.
+
+    - name: 'customer-2'
+      weight: 2
+      marquee_rows: 2
+      title: Tausende von Integrationen stehen zur Verfügung
+      subtitle: Apps & Tools für jede Art der Arbeit
+
+    - name: 'content-11'
+      weight: 7
+      title: Die Datenbank für all Ihre Prozesse und Workflows
+      subtitle: SeaTable als individuelles Backend
+      items:
+          - text: Bei jedem Prozess müssen Daten gespeichert werden. SeaTable ist die perfekte Lösung, um als Datenbank für andere Applikationen zu dienen. Automatisierungsplattformen machen die Verknüpfung von einzelnen Applikationen zum Kinderspiel.
+      image: '/images/seatable-integrations.png'
+      image_alt: Verbinden Sie Ihre Daten
+      buttons:
+          - label: 'Mehr über die Vorteile von No-Code & Low-Code'
+            link: 'posts/20250307-low-code'
+
+    - name: 'content-27'
+      weight: 4
+      title: 'Automatisieren Sie Ihre Workflows'
+      subtitle: 'Verfügbare Integrationen'
+      text: Verbinden Sie SeaTable mit all Ihren Lieblings-Apps. Die folgenden Plattformen ermöglichen es Ihnen, Daten zwischen SeaTable und anderen Softwarelösungen automatisiert auszutauschen.
+      items:
+          - headline: Zapier, der amerikanische Platzhirsch
+            text: Zapier ist die führende Automatisierungsplattform aus den USA. Sie verknüpft über 4.000 Apps und verschiebt Informationen automatisch zwischen Ihren Webanwendungen.
+            link: https://zapier.com/apps/seatable/integrations
+            img: '/images/logos/zapier.svg'
+          - headline: Make.com, die Alternative aus Europa
+            text: Mit make (ehemals Integromat) können Sie Anwendungen verbinden und Arbeitsabläufe mit wenigen Klicks automatisieren. Verschieben Sie mühelos Daten zwischen all Ihren Anwendungen.
+            link: https://www.make.com/en/integrations/seatable
+            img: '/images/logos/make.svg'
+          - headline: n8n.io, Open Source and Self-Hosted
+            text: n8n ist eine Open Source Software zur Prozessautomatisierung. n8n läuft auf jedem Linux-Server, erfordert nur npm und unterstützt bereits über 200 Applikationen.
+            link: hhttps://n8n.io/integrations/n8n-nodes-base.seaTable
+            img: '/images/logos/n8n.svg'
+
+    - name: 'content-22'
+      weight: 10
+      title: 'Haben Sie die gewünschte Integration nicht gefunden?'
+      text: 'Nutzen Sie unsere offene API, um alle Ihre Tools zu verbinden. Mit minimalem Aufwand können Sie einfach Ihre eigene Integration erstellen.'
+      buttons:
+          - label: Zur API-Dokumentation
+            link: 'https://api.seatable.io'
+            style: primary
 ---
