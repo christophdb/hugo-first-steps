@@ -81,5 +81,5 @@ url: '/ru/pomoshch/zeilen-per-automation-sperren'
 - [Связывание записей с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-verlinken-von-eintraegen-per-automation" >}})
 - [Добавление линий с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-hinzufuegen" >}})
 - [Добавление записей в другие таблицы с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}})
-- [Отправка уведомлений с помощью автоматизации]({{< relref "help/startseite/benachrichtigungen/benachrichtigungen-per-automation-versenden" >}})
+- [Отправка уведомлений с помощью автоматизации]({{< relref "help/base-editor/automationen/benachrichtigungen-per-automation-versenden" >}})
 - [Отправка по электронной почте с помощью автоматики]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

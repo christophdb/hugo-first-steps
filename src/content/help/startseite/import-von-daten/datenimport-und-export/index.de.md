@@ -19,7 +19,7 @@ Wie Sie Bases und Tabellen aus SeaTable exportieren und in SeaTable importieren 
 
 ![Export von Bases](images/export-bases.png)
 
-Für den Export von Bases verwendet SeaTable das [DTABLE-Dateiformat]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). Weitere Informationen erhalten Sie im Artikel [Speichern einer Base als DTABLE-Datei]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}}).
+Für den Export von Bases verwendet SeaTable das [DTABLE-Dateiformat]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). Weitere Informationen erhalten Sie im Artikel [Speichern einer Base als DTABLE-Datei]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}).
 
 ## Tabelle exportieren
 

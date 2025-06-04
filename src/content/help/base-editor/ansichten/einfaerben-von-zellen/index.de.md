@@ -20,7 +20,7 @@ Neben der Option **Zellen einfärben** gibt es auch die Möglichkeit, [Zeilen fa
 
 Jede Spalte bietet die Option **Zellen der Spalte formatieren** an: ![Einfärben von Zellen in SeaTable](images/color-cells.png)
 
-Je nachdem, bei welchem **Spaltentyp** Sie diese Option aufrufen, wird sich SeaTable anders verhalten. Bei [Zahlen-Spalten]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) können Sie sowohl Regeln als auch Werte zum Einfärben verwenden. Bei allen anderen Spaltentypen stehen Ihnen nur die Regeln zum Einfärben zur Verfügung.
+Je nachdem, bei welchem **Spaltentyp** Sie diese Option aufrufen, wird sich SeaTable anders verhalten. Bei [Zahlen-Spalten]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}) können Sie sowohl Regeln als auch Werte zum Einfärben verwenden. Bei allen anderen Spaltentypen stehen Ihnen nur die Regeln zum Einfärben zur Verfügung.
 
 ![Einfärben mit Regeln oder nach Werten](images/color-cells-rules-values.png)
 
@@ -45,7 +45,7 @@ Sie können pro Spalte **mehrere Regeln mit unterschiedlichen Farben** anlegen.
 
 ![Einfärben von Zellen mit mehreren Regeln](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
-Darüber hinaus können Sie pro Regel **mehrere Bedingungen** definieren, die sich auf alle Spalten der Tabelle beziehen können. Färben Sie beispielsweise die [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) mit der Headline eines Artikels ein, wenn der **Status** nicht “fertig” ist, das **Veröffentlichungsdatum** in der Zukunft liegt und bereits ein **Bild** vorhanden ist.
+Darüber hinaus können Sie pro Regel **mehrere Bedingungen** definieren, die sich auf alle Spalten der Tabelle beziehen können. Färben Sie beispielsweise die [Text-Spalte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) mit der Headline eines Artikels ein, wenn der **Status** nicht “fertig” ist, das **Veröffentlichungsdatum** in der Zukunft liegt und bereits ein **Bild** vorhanden ist.
 
 ![Regel mit mehreren Bedingungen für das Einfärben von Zellen](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 

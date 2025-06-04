@@ -20,7 +20,7 @@ Um **plugin** é um componente de software opcional do SeaTable que oferece opç
 
 ## Plugin de calendário
 
-No plug-in de calendário, é possível apresentar dados de uma [coluna de data]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) numa **vista** de **ano**, **mês**, **semana**, **dia** ou **agenda**. Também é possível utilizar duas colunas de datas para apresentar **intervalos de tempo** e, assim, manter uma visão geral de todas as datas importantes, etc.
+No plug-in de calendário, é possível apresentar dados de uma [coluna de data]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) numa **vista** de **ano**, **mês**, **semana**, **dia** ou **agenda**. Também é possível utilizar duas colunas de datas para apresentar **intervalos de tempo** e, assim, manter uma visão geral de todas as datas importantes, etc.
 
 ![](images/Calendar.png)
 
@@ -41,7 +41,7 @@ O plug-in de cronologia representa diferentes períodos de tempo sob a forma de 
 
 ## Galeria plugin
 
-O plug-in da galeria é particularmente adequado para a apresentação de registos com **imagens**, uma vez que se refere principalmente ao conteúdo de uma [coluna de imagens]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}). Por baixo das imagens, as entradas de uma coluna são apresentadas como **títulos**. Além disso, é possível mostrar outras colunas da tabela neste plug-in e, assim, complementar as imagens com mais informações dos conjuntos de dados. Especialmente para projectos criativos e artísticos, isto é muito útil para resumir toda a informação num relance.
+O plug-in da galeria é particularmente adequado para a apresentação de registos com **imagens**, uma vez que se refere principalmente ao conteúdo de uma [coluna de imagens]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}). Por baixo das imagens, as entradas de uma coluna são apresentadas como **títulos**. Além disso, é possível mostrar outras colunas da tabela neste plug-in e, assim, complementar as imagens com mais informações dos conjuntos de dados. Especialmente para projectos criativos e artísticos, isto é muito útil para resumir toda a informação num relance.
 
 ![Galeria plugin](images/Galerie.png)
 

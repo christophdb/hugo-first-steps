@@ -42,6 +42,6 @@ Currently, the following operations are available to you:
 
 There are **different requirements for** creating a data processing operation depending on the operation.
 
-For mathematical calculations, i.e. for the operations **Calculate cumulative values**, Calculate **ranking**, Calculate **changes** and Calculate **percentage**, you need at least **two** [number columns]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) in the selected table view. Usually, the **source column** already exists and is filled with data, whereas you create the **result column** and fill it with values through the operation.
+For mathematical calculations, i.e. for the operations **Calculate cumulative values**, Calculate **ranking**, Calculate **changes** and Calculate **percentage**, you need at least **two** [number columns]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}) in the selected table view. Usually, the **source column** already exists and is filled with data, whereas you create the **result column** and fill it with values through the operation.
 
-For the other operations you need partly [link columns]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})**(compare and link** & **compare and copy**) or [text columns]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})**(transfer user name**).
+For the other operations you need partly [link columns]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})**(compare and link** & **compare and copy**) or [text columns]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})**(transfer user name**).

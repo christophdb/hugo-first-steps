@@ -51,4 +51,4 @@ url: '/ru/pomoshch/schritt-5-auswertungen-verknuepfungen'
 ## Справочная статья с дополнительной информацией
 
 - [Отрегулируйте высоту ряда]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
-- [Формула сворачивания]({{< relref "help/base-editor/spalten/die-rollup-formel" >}})
+- [Формула сворачивания]({{< relref "help/base-editor/formeln/die-rollup-formel" >}})

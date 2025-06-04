@@ -18,7 +18,7 @@ You can export the current status of your bases including all tables, [views]({{
 
 ![Bases export](images/export-bases.png)
 
-For exporting bases, SeaTable uses the [DTABLE file format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). For more information, see the article [Saving a Base as a DTABLE File]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}}).
+For exporting bases, SeaTable uses the [DTABLE file format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). For more information, see the article [Saving a Base as a DTABLE File]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}).
 
 ## Export table
 

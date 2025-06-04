@@ -58,7 +58,7 @@ Decidir entre a exibição padrão com **pinos de localização** ou usar **imag
 
 ![Plug-in do mapa por defeito](images/default-map.png)
 
-Se decidir apresentar imagens, deve especificar a [coluna de]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) imagens a partir da qual as imagens devem ser apresentadas.
+Se decidir apresentar imagens, deve especificar a [coluna de]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) imagens a partir da qual as imagens devem ser apresentadas.
 
 ![A visualização da imagem no plug-in do mapa](images/bildanzeige.png)
 
@@ -74,7 +74,7 @@ Defina aqui uma coluna de texto na qual tenha introduzido endereços ou nomes de
 
 ### Cor do marcador
 
-Se tiver [linhas com marcas de cor na]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) com opções de cor, pode seleccionar neste momento qual destas deve determinar a **cor das marcações do mapa**.
+Se tiver [linhas com marcas de cor na]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) com opções de cor, pode seleccionar neste momento qual destas deve determinar a **cor das marcações do mapa**.
 
 ### Campo de visualização
 

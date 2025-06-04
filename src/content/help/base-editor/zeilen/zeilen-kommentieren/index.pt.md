@@ -47,4 +47,4 @@ Só o próprio **criador** pode **apagar** os seus comentários ou **marcá-los 
 
 ## Adicionar imagens a um comentário
 
-Também pode adicionar **imagens** aos seus comentários através do **ícone de imagem** por baixo do campo de entrada. Estas só são visíveis na janela de comentários e não são guardadas numa [coluna de imagens da]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) tabela, mas sim na [gestão de ficheiros da base](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
+Também pode adicionar **imagens** aos seus comentários através do **ícone de imagem** por baixo do campo de entrada. Estas só são visíveis na janela de comentários e não são guardadas numa [coluna de imagens da]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) tabela, mas sim na [gestão de ficheiros da base](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/).

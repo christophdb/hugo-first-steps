@@ -167,7 +167,7 @@ Pour l'Airtable Base avec les deux tables "table1" et "table2", cela pourrait al
 
 ### 6\. définir des colonnes de liens
 
-Pour que SeaTable puisse importer correctement les données, une étape supplémentaire est nécessaire : la spécification des [colonnes de liaison]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) dans la base Airtable.
+Pour que SeaTable puisse importer correctement les données, une étape supplémentaire est nécessaire : la spécification des [colonnes de liaison]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) dans la base Airtable.
 
 La variable "links" est prévue à cet effet. Par exemple, si la colonne "link to table2" dans la table "table1" représente un lien avec la table "table 2", le script doit être paramétré comme suit :
 

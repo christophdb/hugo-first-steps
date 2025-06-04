@@ -142,7 +142,7 @@ Pode utilizar o **raio do quadro** para **arredondar** os **cantos** do quadro a
 
 ## Imagem estática
 
-Uma **imagem estática** oferece-lhe a opção de integrar **arquivos de imagem** como logótipos, gráficos ou imagens de fundo numa página para criar um layout de página básico. Ao contrário das imagens que têm origem nas [colunas de imagens]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) da sua tabela, uma imagem estática não muda e permanece a mesma independentemente das entradas na tabela. No entanto, é necessário carregar o ficheiro de imagem correspondente **manualmente**.
+Uma **imagem estática** oferece-lhe a opção de integrar **arquivos de imagem** como logótipos, gráficos ou imagens de fundo numa página para criar um layout de página básico. Ao contrário das imagens que têm origem nas [colunas de imagens]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) da sua tabela, uma imagem estática não muda e permanece a mesma independentemente das entradas na tabela. No entanto, é necessário carregar o ficheiro de imagem correspondente **manualmente**.
 
 ### Alterar a posição e o tamanho da imagem
 

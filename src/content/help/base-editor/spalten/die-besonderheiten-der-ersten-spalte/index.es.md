@@ -16,7 +16,7 @@ La **primera** columna de una tabla en SeaTable tiene varias características es
 - A diferencia de las demás columnas, **no puede desplazar** la primera columna de una tabla.
 - A diferencia de las demás columnas, **no puede eliminar** la primera columna de una tabla.
 - Sin embargo, a diferencia de las demás columnas, la primera puede **fijarse** individualmente.
-- La primera columna sólo admite los **tipos de columna** [texto]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), [selección única]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [número automático]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
+- La primera columna sólo admite los **tipos de columna** [texto]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}), [selección única]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), [número automático]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
 
 ## Cómo personalizar el tipo de la primera columna
 
@@ -32,11 +32,11 @@ La **primera** columna de una tabla en SeaTable tiene varias características es
 
 Para la **primera** columna, sólo hay **seis tipos de columna** entre los que elegir:
 
-- [Texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Número]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Selección individual]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
+- [Texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+- [Número]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+- [Fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+- [Selección individual]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+- [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
 - [Fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Fórmulas en la primera columna
@@ -51,6 +51,6 @@ Si define una **fórmula** como **primera** columna de una tabla, puede utilizar
 {{< /faq >}}
 {{< faq "¿Es posible cambiar después el tipo de la primera columna?" >}}Sí, es posible. En algunos casos, sin embargo, puede ocurrir que se **pierda** información al [cambiar el tipo de columna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), por ejemplo de texto a número. Por lo tanto, después de una conversión, compruebe si toda la información se ha transferido correcta y completamente.
 {{< /faq >}}
-{{< faq "¿Qué es un número automático?" >}}Si desea que sus filas tengan un **número de identificación único**, el tipo de columna [Número]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) automático puede serle útil. Algunos ejemplos son los números de factura, los casos de prueba o los ID de empleado. El número también puede completarse con cualquier prefijo.
+{{< faq "¿Qué es un número automático?" >}}Si desea que sus filas tengan un **número de identificación único**, el tipo de columna [Número]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) automático puede serle útil. Algunos ejemplos son los números de factura, los casos de prueba o los ID de empleado. El número también puede completarse con cualquier prefijo.
 
 {{< /faq >}}

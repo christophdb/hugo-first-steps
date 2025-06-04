@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Die **Übertragung von Benutzernamen** stellt dabei eine Operation dar, bei der Daten aus Spalten vom Typ [Mitarbeiter]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), [Ersteller]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) kopiert werden können.
+Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über eine Spalte hinweg durchführen. Die **Übertragung von Benutzernamen** stellt dabei eine Operation dar, bei der Daten aus Spalten vom Typ [Mitarbeiter]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), [Ersteller]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) kopiert werden können.
 
 ## Anlegen der Operation
 
@@ -23,7 +23,7 @@ Mithilfe der Datenverarbeitungsfunktion können Sie diverse Operationen über ei
 
 ## Ausführung der Operation
 
-Wenn Sie beispielsweise eine Tabelle mit zu erledigenden Aufgaben pflegen, in der Ihre **Teammitglieder** als zuständige Ansprechpersonen in einer [Mitarbeiter-Spalte]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) erfasst sind, können Sie die Benutzernamen einfach in eine [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) kopieren, z. B. um diese für eine Mitarbeiterliste zu verwenden.
+Wenn Sie beispielsweise eine Tabelle mit zu erledigenden Aufgaben pflegen, in der Ihre **Teammitglieder** als zuständige Ansprechpersonen in einer [Mitarbeiter-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) erfasst sind, können Sie die Benutzernamen einfach in eine [Text-Spalte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) kopieren, z. B. um diese für eine Mitarbeiterliste zu verwenden.
 
 Befolgen Sie dazu die oben beschriebenen Schritte und wählen Sie die Mitarbeiter-Spalte als **Quellspalte** sowie die Text-Spalte als **Ergebnisspalte** aus.
 

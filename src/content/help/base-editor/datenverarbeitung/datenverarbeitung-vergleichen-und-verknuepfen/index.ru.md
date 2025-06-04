@@ -45,7 +45,7 @@ url: '/ru/pomoshch/datenverarbeitung-vergleichen-und-verknuepfen'
 
 {{< warning  headline="Важное замечание" >}}
 
-При использовании этой операции обработки данных вам **не** придется добавлять **столбцы** в таблицы вручную, так как при первом ее выполнении в обеих таблицах автоматически создается [столбец связи]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+При использовании этой операции обработки данных вам **не** придется добавлять **столбцы** в таблицы вручную, так как при первом ее выполнении в обеих таблицах автоматически создается [столбец связи]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
 
 {{< /warning >}}
 

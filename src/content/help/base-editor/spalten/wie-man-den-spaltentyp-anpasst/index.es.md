@@ -27,13 +27,13 @@ Es posible cambiar el tipo de columna posteriormente. Aquí puede averiguar cóm
 
 La **primera columna** de una tabla **sólo** admite **6 de los 25 tipos de columnas**. Éstos son
 
-- [Texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Número]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Fecha]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Selección individual]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Número automático]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
+- [Texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+- [Número]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+- [Fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+- [Selección individual]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+- [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
 - [Fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Aviso de pérdida de datos
 
-La **conversión** de determinados tipos de columnas suele provocar **pérdidas de datos** no deseadas. Este es el caso, por ejemplo, de las columnas de [archivos]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) o cuando convierte [columnas de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) en columnas numéricas. En estos casos, SeaTable muestra un **mensaje de advertencia** preguntando si realmente desea cambiar el tipo de columna.
+La **conversión** de determinados tipos de columnas suele provocar **pérdidas de datos** no deseadas. Este es el caso, por ejemplo, de las columnas de [archivos]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) o cuando convierte [columnas de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) en columnas numéricas. En estos casos, SeaTable muestra un **mensaje de advertencia** preguntando si realmente desea cambiar el tipo de columna.

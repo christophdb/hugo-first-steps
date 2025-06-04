@@ -32,7 +32,7 @@ url: '/ru/pomoshch/farbliche-markierung-von-zeilen'
 
 {{< warning  headline="Создание одного столбца выбора" >}}
 
-[Здесь]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}) вы узнаете, как создать новые колонки с одиночным выбором.
+[Здесь]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) вы узнаете, как создать новые колонки с одиночным выбором.
 
 {{< /warning >}}
 
@@ -51,7 +51,7 @@ url: '/ru/pomoshch/farbliche-markierung-von-zeilen'
 
 ### Пример правила использования
 
-В этом примере необходимо выделить все строки редакционного плана, которые отмечены как завершенные в [столбце с галочкой]({{< relref "help/base-editor/spalten/anlegen-einer-checkbox-spalte" >}}) . Для этого был выбран **столбец "Опубликовано"**, использовано условие **"является"** и указано, что должны быть отмечены строки **с галочкой**.
+В этом примере необходимо выделить все строки редакционного плана, которые отмечены как завершенные в [столбце с галочкой]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) . Для этого был выбран **столбец "Опубликовано"**, использовано условие **"является"** и указано, что должны быть отмечены строки **с галочкой**.
 
 ![Цветовая маркировка линий](images/Farbliche-Markierung-von-Zellen-9.png)
 

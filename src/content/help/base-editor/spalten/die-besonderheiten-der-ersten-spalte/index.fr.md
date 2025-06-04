@@ -16,7 +16,7 @@ Dans SeaTable, la **première colonne** d'un tableau présente plusieurs particu
 - Contrairement aux autres colonnes, vous ne pouvez **pas déplacer** la première colonne d'un tableau.
 - Contrairement aux autres colonnes, vous ne pouvez **pas supprimer** la première colonne d'un tableau.
 - Mais contrairement aux autres colonnes, vous pouvez **fixer** individuellement la première colonne.
-- La première colonne ne prend en charge que les **types de colonne** [Texte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), [Sélection simple]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Numéro automatique]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
+- La première colonne ne prend en charge que les **types de colonne** [Texte]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}), [Sélection simple]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Numéro automatique]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
 
 ## Comment personnaliser le type de la première colonne
 
@@ -32,11 +32,11 @@ Dans SeaTable, la **première colonne** d'un tableau présente plusieurs particu
 
 Pour la **première colonne**, il n'y a que **six types de colonnes** au choix :
 
-- [Texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
-- [Nombre]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
-- [Date]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Sélection unique]({{< relref "help/base-editor/spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Numéro automatique]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
+- [Texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+- [Nombre]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+- [Date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+- [Sélection unique]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+- [Numéro automatique]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Formules dans la première colonne
@@ -51,6 +51,6 @@ Si vous définissez une **formule** comme **première colonne** d'un tableau, vo
 {{< /faq >}}
 {{< faq "Est-il possible de modifier ultérieurement le type de la première colonne ?" >}}Oui, c'est possible. Dans certains cas, il peut toutefois arriver que des informations soient **perdues** lors de la [modification du type de colonne]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), par exemple du texte au nombre. Après une conversion, vérifiez donc que toutes les informations ont été reprises correctement et intégralement.
 {{< /faq >}}
-{{< faq "Qu'est-ce qu'un numéro automatique ?" >}}Si vos lignes doivent avoir un **numéro d'identification unique**, le type de colonne [Numéro automatique]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}}) pourrait vous rendre de fiers services. Les numéros de facture, les cas de test ou les identifiants des collaborateurs en sont des exemples. Le numéro peut en outre être complété par un préfixe de votre choix.
+{{< faq "Qu'est-ce qu'un numéro automatique ?" >}}Si vos lignes doivent avoir un **numéro d'identification unique**, le type de colonne [Numéro automatique]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) pourrait vous rendre de fiers services. Les numéros de facture, les cas de test ou les identifiants des collaborateurs en sont des exemples. Le numéro peut en outre être complété par un préfixe de votre choix.
 
 {{< /faq >}}

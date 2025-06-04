@@ -72,11 +72,11 @@ Nas páginas de tabelas em que diferentes utilizadores podem fazer novas entrada
 
 ## Verificação de formato para novas entradas
 
-Pode ativar outra **barra deslizante** para [validar entradas em colunas de texto]({{< relref "help/base-editor/spalten/validierung-der-eingabe-bei-textfeldern" >}}). Assim que a **verificação do formato** estiver activada, os detalhes da linha abrem-se sempre que alguém quiser adicionar uma nova entrada à página da tabela - e isto só é possível se as entradas corresponderem ao formato definido. Aparece uma **mensagem de erro** para entradas com um formato diferente.
+Pode ativar outra **barra deslizante** para [validar entradas em colunas de texto]({{< relref "help/base-editor/text-spalten/validierung-der-eingabe-bei-textfeldern" >}}). Assim que a **verificação do formato** estiver activada, os detalhes da linha abrem-se sempre que alguém quiser adicionar uma nova entrada à página da tabela - e isto só é possível se as entradas corresponderem ao formato definido. Aparece uma **mensagem de erro** para entradas com um formato diferente.
 
 ![Verificação do formato na página da tabela](images/Format-check-on-table-page.png)
 
-Por exemplo, é possível minimizar **os erros de digitação** em cadeias de caracteres claramente definidas, como códigos postais ou números de conta. As [expressões regulares]({{< relref "help/base-editor/spalten/validierung-der-eingabe-bei-textfeldern" >}}) para validação das entradas são definidas quando se cria uma coluna de texto na base.
+Por exemplo, é possível minimizar **os erros de digitação** em cadeias de caracteres claramente definidas, como códigos postais ou números de conta. As [expressões regulares]({{< relref "help/base-editor/text-spalten/validierung-der-eingabe-bei-textfeldern" >}}) para validação das entradas são definidas quando se cria uma coluna de texto na base.
 
 ## Mostrar formatação de células
 
@@ -98,7 +98,7 @@ Nas [autorizações de página]({{< relref "help/app-builder/einstellungen/seite
 
 {{< warning  headline="Atenção com os botões" >}}
 
-[Os botões]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) podem ser **sempre** premidos, independentemente das autorizações da página. Isto significa que todos os utilizadores da aplicação podem fazer determinadas alterações aos registos de dados que definiu previamente, mesmo que as colunas afectadas estejam bloqueadas para eles ou que o utilizador não esteja autorizado a editar a página.
+[Os botões]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) podem ser **sempre** premidos, independentemente das autorizações da página. Isto significa que todos os utilizadores da aplicação podem fazer determinadas alterações aos registos de dados que definiu previamente, mesmo que as colunas afectadas estejam bloqueadas para eles ou que o utilizador não esteja autorizado a editar a página.
 
 {{< /warning >}}
 

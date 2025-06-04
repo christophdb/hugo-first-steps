@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel'
 ---
 
-SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine davon ist das Zusammenführen von Inhalten aus verschiedenen [Text-Spalten]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}). Mithilfe einer entsprechenden Formel können Sie beliebig viele Inhalte aus unterschiedlichen Spalten in einer Formel-Spalte zusammenführen.
+SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine davon ist das Zusammenführen von Inhalten aus verschiedenen [Text-Spalten]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}). Mithilfe einer entsprechenden Formel können Sie beliebig viele Inhalte aus unterschiedlichen Spalten in einer Formel-Spalte zusammenführen.
 
 ## Zusammenführen von Text-Spalten
 

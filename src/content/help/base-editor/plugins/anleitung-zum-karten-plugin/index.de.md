@@ -58,7 +58,7 @@ Entscheiden Sie sich zwischen der standardmäßigen Anzeige mit **Standort-Pins*
 
 ![Karten-Plugin die Default-Map](images/default-map.png)
 
-Wenn Sie sich für die Bildanzeige entscheiden, müssen Sie die [Bild-Spalte]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) festlegen, aus der die Bilder angezeigt werden sollen.
+Wenn Sie sich für die Bildanzeige entscheiden, müssen Sie die [Bild-Spalte]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) festlegen, aus der die Bilder angezeigt werden sollen.
 
 ![Die Bildanzeige im Karten-Plugin](images/bildanzeige.png)
 
@@ -72,7 +72,7 @@ Legen Sie hier eine Textspalte, in der Sie Adressen oder Ortsnamen erfasst haben
 
 ### Markerfarbe
 
-Wenn Sie in der Tabelle [Zeilen farblich markiert]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) mit farbigen Optionen angelegt haben, können Sie an dieser Stelle auswählen, was davon die **Farbe der Kartenmarkierungen** bestimmen soll.
+Wenn Sie in der Tabelle [Zeilen farblich markiert]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) mit farbigen Optionen angelegt haben, können Sie an dieser Stelle auswählen, was davon die **Farbe der Kartenmarkierungen** bestimmen soll.
 
 ### Anzeigefeld
 

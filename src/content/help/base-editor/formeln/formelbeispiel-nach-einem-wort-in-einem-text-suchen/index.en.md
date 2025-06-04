@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/formelbeispiel-nach-einem-wort-in-einem-text-suchen'
 ---
 
-SeaTable formulas offer you several ways to work with the data in your tables. One possibility is to **search for words in a text**. By entering an appropriate formula you can automatically search a [text column]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) for any words and have a hint - e.g. "word found/not found" - written as a result in a formula column of your table.
+SeaTable formulas offer you several ways to work with the data in your tables. One possibility is to **search for words in a text**. By entering an appropriate formula you can automatically search a [text column]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) for any words and have a hint - e.g. "word found/not found" - written as a result in a formula column of your table.
 
 ## Search for a word in a text
 

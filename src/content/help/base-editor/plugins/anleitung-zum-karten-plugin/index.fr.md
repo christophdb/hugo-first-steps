@@ -58,7 +58,7 @@ Choisissez entre l'affichage standard avec **des pins de localisation** ou utili
 
 ![Plugin de carte la carte par défaut](images/default-map.png)
 
-Si vous optez pour l'affichage des images, vous devez définir la [colonne d'images]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) à partir de laquelle les images doivent être affichées.
+Si vous optez pour l'affichage des images, vous devez définir la [colonne d'images]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) à partir de laquelle les images doivent être affichées.
 
 ![L'affichage des images dans le plug-in de carte](images/bildanzeige.png)
 
@@ -74,7 +74,7 @@ Définissez ici une colonne de texte dans laquelle vous avez saisi des adresses 
 
 ### Couleur du marqueur
 
-Si vous avez [mis des lignes en couleur]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) avec des options colorées, vous pouvez choisir à ce stade ce qui doit déterminer la **couleur des repères de la carte**.
+Si vous avez [mis des lignes en couleur]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) avec des options colorées, vous pouvez choisir à ce stade ce qui doit déterminer la **couleur des repères de la carte**.
 
 ### Champ d'affichage
 

@@ -45,4 +45,4 @@ Nur der **Ersteller** selbst kann seine Kommentare **löschen** oder **als erled
 
 ## Einem Kommentar Bilder hinzufügen
 
-Über das **Bild-Icon** unter dem Eingabefeld können Sie Ihren Kommentaren auch **Bilder** hinzufügen. Diese sind nur im Kommentar-Fenster sichtbar und werden zwar nicht in einer [Bild-Spalte]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) der Tabelle, aber in der [Dateiverwaltung der Base](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) gespeichert.
+Über das **Bild-Icon** unter dem Eingabefeld können Sie Ihren Kommentaren auch **Bilder** hinzufügen. Diese sind nur im Kommentar-Fenster sichtbar und werden zwar nicht in einer [Bild-Spalte]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) der Tabelle, aber in der [Dateiverwaltung der Base](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) gespeichert.

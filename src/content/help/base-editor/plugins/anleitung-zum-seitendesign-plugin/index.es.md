@@ -142,7 +142,7 @@ Con el **radio del marco** puede **redondear las esquinas** del mismo hasta form
 
 ## Imagen estática
 
-Una **imagen estática** le permite insertar **archivos de imagen** como logotipos, gráficos o imágenes de fondo en una página para diseñar la disposición básica de la misma. A diferencia de las imágenes que provienen de [columnas de imagen]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) de su tabla, una imagen estática no cambia y permanece igual independientemente de las entradas de la tabla. No obstante, debe **cargar el archivo de imagen manualmente**.
+Una **imagen estática** le permite insertar **archivos de imagen** como logotipos, gráficos o imágenes de fondo en una página para diseñar la disposición básica de la misma. A diferencia de las imágenes que provienen de [columnas de imagen]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) de su tabla, una imagen estática no cambia y permanece igual independientemente de las entradas de la tabla. No obstante, debe **cargar el archivo de imagen manualmente**.
 
 ### Cambiar posición y tamaño de la imagen
 

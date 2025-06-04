@@ -60,7 +60,7 @@ Concretamente, esto puede hacerse con la ayuda de una tabla ("Pedido") en la que
 
 ![Cuadro para el estudio de los distintos pedidos realizados](images/table-with-different-orders-1.png)
 
-En otra tabla ("Registro del estado de los pedidos") también desea ver los distintos **números de pedido** junto con los **importes** correspondientes. Además, en esta tabla se introduce la **hora del último** cambio de estado en la [columna de]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) fecha "último **cambio de estado** ".
+En otra tabla ("Registro del estado de los pedidos") también desea ver los distintos **números de pedido** junto con los **importes** correspondientes. Además, en esta tabla se introduce la **hora del último** cambio de estado en la [columna de]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) fecha "último **cambio de estado** ".
 
 ![Tabla en la que se recogen automáticamente las horas del último cambio de estado](images/table-order-status-log.png)
 

@@ -32,5 +32,5 @@ SeaTable tiene en cuenta esta restricción y garantiza que sólo se ofrezcan en 
 
 ## Artículo de ayuda con más información
 
-- [Cómo enlazar tablas en SeaTable]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- [Cómo enlazar tablas en SeaTable]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Opciones de configuración de un formulario web]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}})

@@ -72,11 +72,11 @@ On table pages where different users can make new entries in a base, it is easy 
 
 ## Format check for new entries
 
-You can activate another **slider** to [validate entries in text columns]({{< relref "help/base-editor/spalten/validierung-der-eingabe-bei-textfeldern" >}}). As soon as the **format check** is switched on, the row details always open when someone wants to add a new entry to the table page - and this is only possible if the entries correspond to the defined format. An **error message** appears for entries with a different format.
+You can activate another **slider** to [validate entries in text columns]({{< relref "help/base-editor/text-spalten/validierung-der-eingabe-bei-textfeldern" >}}). As soon as the **format check** is switched on, the row details always open when someone wants to add a new entry to the table page - and this is only possible if the entries correspond to the defined format. An **error message** appears for entries with a different format.
 
 ![Format check on table page](images/Format-check-on-table-page.png)
 
-For example, you can minimize **typing errors** for clearly defined character strings such as zip codes or account numbers. You define the [regular expressions]({{< relref "help/base-editor/spalten/validierung-der-eingabe-bei-textfeldern" >}}) for validating the entries when you create a text column in the base.
+For example, you can minimize **typing errors** for clearly defined character strings such as zip codes or account numbers. You define the [regular expressions]({{< relref "help/base-editor/text-spalten/validierung-der-eingabe-bei-textfeldern" >}}) for validating the entries when you create a text column in the base.
 
 ## Show cell formatting
 
@@ -98,7 +98,7 @@ In the [page authorizations]({{< relref "help/app-builder/einstellungen/seitenbe
 
 {{< warning  headline="Attention with buttons" >}}
 
-[Buttons]({{< relref "help/base-editor/spalten/die-schaltflaeche" >}}) can **always** be activated regardless of the page authorizations. This means that every app user can make certain changes to the data records that you have previously defined, even if the affected columns are otherwise locked for them or the user is not authorized to edit the page.
+[Buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) can **always** be activated regardless of the page authorizations. This means that every app user can make certain changes to the data records that you have previously defined, even if the affected columns are otherwise locked for them or the user is not authorized to edit the page.
 
 {{< /warning >}}
 

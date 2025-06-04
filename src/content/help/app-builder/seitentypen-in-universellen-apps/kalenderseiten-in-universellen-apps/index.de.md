@@ -9,7 +9,7 @@ url: '/de/hilfe/kalenderseiten-in-universellen-apps'
 ---
 
 Dieser Seitentyp der Universellen App funktioniert so ähnlich wie das [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
-) in der Base und ermöglicht es Ihnen, die Einträge aus einer oder zwei [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) Ihrer Tabelle in einem **Kalender** anzeigen zu lassen. Ein konkreter Anwendungsfall könnte beispielsweise die kalendarische Darstellung von bevorstehenden **Meetings** sein.
+) in der Base und ermöglicht es Ihnen, die Einträge aus einer oder zwei [Datum-Spalten]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) Ihrer Tabelle in einem **Kalender** anzeigen zu lassen. Ein konkreter Anwendungsfall könnte beispielsweise die kalendarische Darstellung von bevorstehenden **Meetings** sein.
 
 ![Bevorstehende Meetings in einer Kalenderansicht der Kalenderseite](images/calendar-page-example.png)
 
@@ -51,7 +51,7 @@ Unabhängig vom Datum können Sie ebenso auf das große **kreisförmige Plus-Sym
 
 ## Kalendereinträge bearbeiten und verschieben
 
-Sie können Kalendereinträge kinderleicht bearbeiten, indem Sie **auf einen Eintrag klicken** und in den sich öffnenden **Zeilendetails** die gewünschten Änderungen vornehmen. Zusätzlich können Sie Einträge im Kalender komfortabel **per Drag-and-Drop verschieben**. Dabei passt SeaTable automatisch die Werte in den jeweiligen [Datum-Spalten]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) an.
+Sie können Kalendereinträge kinderleicht bearbeiten, indem Sie **auf einen Eintrag klicken** und in den sich öffnenden **Zeilendetails** die gewünschten Änderungen vornehmen. Zusätzlich können Sie Einträge im Kalender komfortabel **per Drag-and-Drop verschieben**. Dabei passt SeaTable automatisch die Werte in den jeweiligen [Datum-Spalten]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) an.
 
 ![Einträge auf Kalenderseiten verschieben und bearbeiten](images/Eintraege-auf-Kalenderseiten-verschieben-und-bearbeiten.gif)
 

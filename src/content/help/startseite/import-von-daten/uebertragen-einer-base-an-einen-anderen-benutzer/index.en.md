@@ -33,5 +33,5 @@ If you want to transfer one of your bases to a **user on another team**, you won
 
 There is only one way to transfer a Base to another SeaTable server. **Export** the Base as a **DTABLE file** and send it to the recipient. The recipient can then import the file into his SeaTable system and continue working with your Base.
 
-- [Exporting a Base as a DTABLE File]({{< relref "help/startseite/import-von-daten/speichern-einer-base-als-dtable-datei" >}})
+- [Exporting a Base as a DTABLE File]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
 - [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

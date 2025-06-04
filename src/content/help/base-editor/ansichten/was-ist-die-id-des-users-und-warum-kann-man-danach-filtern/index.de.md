@@ -10,7 +10,7 @@ url: '/de/hilfe/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern'
 
 Die ID des Users lässt sich am besten mit einer **persönlichen Identifikationsnummer** beschreiben. Die ID des Users ist einzigartig innerhalb des Teams und gehört immer zu einem Teammitglied.
 
-Mithilfe der User-ID kann man in SeaTable **dynamische Filter** setzen, welche in gewissen Situationen besser geeignet ist als ein Filter nach der [Ersteller-Spalte]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}). In diesem Artikel stellen wir Ihnen die Vor- und Nachteile von Filtern mit der User-ID vor.
+Mithilfe der User-ID kann man in SeaTable **dynamische Filter** setzen, welche in gewissen Situationen besser geeignet ist als ein Filter nach der [Ersteller-Spalte]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}). In diesem Artikel stellen wir Ihnen die Vor- und Nachteile von Filtern mit der User-ID vor.
 
 Wenn Sie wissen wollen, wie Sie die User-ID eines Teammitglieds ändern, [finden Sie in diesem Hilfeartikel die Antwort]({{< relref "help/teamverwaltung/team/aenderung-der-id-des-users-in-der-teamverwaltung" >}}).
 
@@ -18,7 +18,7 @@ Wenn Sie wissen wollen, wie Sie die User-ID eines Teammitglieds ändern, [finden
 
 ## Mit der User-ID filtern
 
-In SeaTable können Sie für jede Text-Spalte den Filter **„is current user’s ID“** verwenden. Dies erzeugt einen **dynamischen Filter**, der ausschließlich Einträge anzeigt, bei dem in der entsprechenden [Text-Spalte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) die **eigene User-ID** gespeichert ist.
+In SeaTable können Sie für jede Text-Spalte den Filter **„is current user’s ID“** verwenden. Dies erzeugt einen **dynamischen Filter**, der ausschließlich Einträge anzeigt, bei dem in der entsprechenden [Text-Spalte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) die **eigene User-ID** gespeichert ist.
 
 ![Beispiel-Filter nach User-ID](images/filter-user-ID-example-1.png)
 
@@ -42,7 +42,7 @@ Wenn Sie nun beispielsweise eine Tabelle pflegen, in die Sie die offenen Aufgabe
 
 ## Wann ist ein solcher Filter sinnvoll?
 
-Die Alternative wäre das Filtern nach der Spalte [Ersteller]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}), die ebenfalls dynamische Filtermöglichkeiten anbieten. Diese beiden Spalten haben jedoch die folgenden Nachteile:
+Die Alternative wäre das Filtern nach der Spalte [Ersteller]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), die ebenfalls dynamische Filtermöglichkeiten anbieten. Diese beiden Spalten haben jedoch die folgenden Nachteile:
 
 - Der **Wert in der Ersteller-Spalte** lässt sich nachträglich _nicht_ mehr **ändern**. Einmal gesetzt, bleibt der Wert immer gleich. Dies wäre im oben genannten Beispiel problematisch, da der Ersteller der Aufgaben _nicht_ der Mitarbeiter ist.
 - Die **Mitarbeiter-Spalte** lässt sich nur füllen, wenn ein Teammitglied mindestens **Lesezugriff** auf die Base hat. Insbesondere beim Einsatz der [Universellen App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) ist dies vielleicht _nicht_ gewünscht.

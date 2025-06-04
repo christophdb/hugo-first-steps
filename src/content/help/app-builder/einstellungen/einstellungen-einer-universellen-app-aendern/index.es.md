@@ -55,7 +55,7 @@ Esta es la configuración por defecto cuando se abre la aplicación por primera 
 
 ## Cargar lista de empleados
 
-En la cuarta sección, puede decidir si su **lista de empleados** debe ser visible para todos los usuarios de la aplicación. A continuación, puedes introducir personas en [columnas de empleados]({{< relref "help/base-editor/spalten/die-spalte-mitarbeiter" >}}) o añadirlas a [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
+En la cuarta sección, puede decidir si su **lista de empleados** debe ser visible para todos los usuarios de la aplicación. A continuación, puedes introducir personas en [columnas de empleados]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) o añadirlas a [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
 
 ![Cargar la lista de colaboradores en las aplicaciones](images/Load-collaborator-list-in-apps.png)
 

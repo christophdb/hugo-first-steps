@@ -28,7 +28,7 @@ Sie können nur dann Zeilen in den Big-Data-Speicher verschieben, wenn Sie inner
 
 {{< warning  headline="Tipp" >}}
 
-Wenn Sie beispielsweise **alte Einträge archivieren** möchten, können Sie die Ansicht zuvor mit den Spaltentypen [Erstellt]({{< relref "help/base-editor/spalten/die-spalten-ersteller-und-erstelldatum" >}}) oder [Zuletzt bearbeitet]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) filtern.
+Wenn Sie beispielsweise **alte Einträge archivieren** möchten, können Sie die Ansicht zuvor mit den Spaltentypen [Erstellt]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}) oder [Zuletzt bearbeitet]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) filtern.
 
 {{< /warning >}}
 

@@ -21,7 +21,7 @@ En plus de l'option **Colorer les cellules**, il est également possible de [mar
 Chaque colonne offre l'option **Formater les cellules de la colonne** à :  
 ![Coloration de cellules dans SeaTable](images/color-cells.png)
 
-SeaTable se comportera différemment selon le **type de colonne** pour lequel vous appelez cette option. Pour les [colonnes de chiffres]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}), vous pouvez utiliser à la fois les règles et les valeurs de coloration. Pour tous les autres types de colonnes, vous ne pouvez utiliser que les règles de coloration.
+SeaTable se comportera différemment selon le **type de colonne** pour lequel vous appelez cette option. Pour les [colonnes de chiffres]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}), vous pouvez utiliser à la fois les règles et les valeurs de coloration. Pour tous les autres types de colonnes, vous ne pouvez utiliser que les règles de coloration.
 
 ![Coloration avec des règles ou selon des valeurs](images/color-cells-rules-values.png)
 
@@ -46,7 +46,7 @@ Vous pouvez créer **plusieurs règles** par colonne **avec des couleurs différ
 
 ![Coloration de cellules avec plusieurs règles](images/Einfaerben-von-Zellen-mit-mehreren-Regeln.png)
 
-En outre, vous pouvez définir **plusieurs conditions** par règle, qui peuvent s'appliquer à toutes les colonnes du tableau. Par exemple, colorez la [colonne de texte]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) avec le titre d'un article si le **statut** n'est pas "terminé", si la **date de publication** est dans le futur et s'il y a déjà une **image**.
+En outre, vous pouvez définir **plusieurs conditions** par règle, qui peuvent s'appliquer à toutes les colonnes du tableau. Par exemple, colorez la [colonne de texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) avec le titre d'un article si le **statut** n'est pas "terminé", si la **date de publication** est dans le futur et s'il y a déjà une **image**.
 
 ![Règle avec plusieurs conditions pour la coloration des cellules](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 

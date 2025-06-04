@@ -16,7 +16,7 @@ Por consiguiente, los enlaces externos le ofrecen muchas oportunidades interesan
 
 ## Funcionalidad y tipos de enlaces externos
 
-Un enlace externo es una **URL** que le da acceso **de sólo lectura** a una colección de datos en SeaTable. Dicha recopilación de datos puede ser una [base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) o una [vista]({{< relref "help/base-editor/einfuehrung/ansichten/" >}}).
+Un enlace externo es una **URL** que le da acceso **de sólo lectura** a una colección de datos en SeaTable. Dicha recopilación de datos puede ser una [base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) o una [vista]({{< relref "help/erste-schritte/einfuehrung-funktionen/ansichten/" >}}).
 
 - **Enlace externo para una base**: Al llamar a este enlace externo, el visitante puede **ver** todos los datos almacenados en una base, incluidas todas las tablas. El visitante también puede acceder a **todas las vistas** y [estadísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) **existentes**. Además, puede utilizar las **herramientas de evaluación** [agrupación, clasificación y filtrado]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 - Enlace externo **para una vista**: un enlace externo de este tipo concede **acceso de lectura a _una_ vista específica de una tabla**. Las demás vistas y tablas de Base, así como las **filas y columnas ocultas**, permanecen **ocultas** para los usuarios del enlace externo. Más información en el artículo [Crear un enlace externo para una vista]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).

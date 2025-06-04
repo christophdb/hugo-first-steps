@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/neue-kalendereintraege-im-kalender-plugin-anlegen'
 ---
 
-Existem várias opções para adicionar **novas entradas** ao calendário. Pode fazê-lo **na tabela subjacente**, criando aí uma nova linha e introduzindo um compromisso na [coluna da data]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}), que é depois também apresentada no plugin do calendário.
+Existem várias opções para adicionar **novas entradas** ao calendário. Pode fazê-lo **na tabela subjacente**, criando aí uma nova linha e introduzindo um compromisso na [coluna da data]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}), que é depois também apresentada no plugin do calendário.
 
 Mas também é muito fácil fazer novas entradas diretamente **no plugin do calendário**. A forma de introduzir um compromisso depende da visualização selecionada**(ano**, **mês**, **semana**, **dia** ou **agenda**).
 

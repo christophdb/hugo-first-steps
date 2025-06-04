@@ -45,7 +45,7 @@ Pour la mise en œuvre, vous avez tout d'abord besoin de deux tableaux : un tabl
 
 {{< warning  headline="Remarque importante" >}}
 
-Avec cette opération de traitement des données, vous n'avez **pas** besoin d'ajouter manuellement **des colonnes** à vos tables, car une [colonne de liaison]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) est automatiquement créée dans les deux tables lors de la première exécution.
+Avec cette opération de traitement des données, vous n'avez **pas** besoin d'ajouter manuellement **des colonnes** à vos tables, car une [colonne de liaison]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) est automatiquement créée dans les deux tables lors de la première exécution.
 
 {{< /warning >}}
 

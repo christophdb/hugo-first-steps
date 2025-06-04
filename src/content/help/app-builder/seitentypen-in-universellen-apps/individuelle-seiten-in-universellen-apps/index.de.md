@@ -48,7 +48,7 @@ In den Elementeinstellungen können Sie zahlreiche Parameter festlegen:
 
 ### Formatierter Text
 
-Mit formatierten Text-Elementen können Sie, wie der Name schon sagt, **längere Texte formatieren**. Dabei öffnet sich der Texteditor, den Sie bereits vom Spaltentyp [Formatierter Text]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}) kennen.
+Mit formatierten Text-Elementen können Sie, wie der Name schon sagt, **längere Texte formatieren**. Dabei öffnet sich der Texteditor, den Sie bereits vom Spaltentyp [Formatierter Text]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) kennen.
 
 ![Formatierte Texte auf individuellen Seiten](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 

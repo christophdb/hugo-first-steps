@@ -26,7 +26,7 @@ Também é possível definir um valor por defeito diretamente ao [criar uma nova
 
 ## Para que tipos de colunas é possível definir valores por defeito
 
-Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tipos de colunas no SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). As colunas cujo conteúdo é gerado automaticamente pelo SeaTable[(fórmulas]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}), [ficheiros]({{< relref "help/base-editor/spalten/die-datei-spalte" >}}) e [assinaturas](https://seatable.io/pt/docs/dateien-und-bilder/die-signatur-spalte/).
+Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tipos de colunas no SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). As colunas cujo conteúdo é gerado automaticamente pelo SeaTable[(fórmulas]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), [ficheiros]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) e [assinaturas](https://seatable.io/pt/docs/dateien-und-bilder/die-signatur-spalte/).
 
 **Segue-se uma síntese dos tipos de colunas para os quais é possível definir valores propostos:**
 
@@ -59,7 +59,7 @@ Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tip
 
 ## Valores por defeito referenciados em colunas de texto
 
-Se especificar a referência **{creator.name}** ou **{creator.id}** como valor predefinido numa [coluna de texto]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}}), o **nome** ou **ID do utilizador** que adicionou a linha é automaticamente introduzido.
+Se especificar a referência **{creator.name}** ou **{creator.id}** como valor predefinido numa [coluna de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), o **nome** ou **ID do utilizador** que adicionou a linha é automaticamente introduzido.
 
 ![Referência ao nome do utilizador com um valor predefinido](images/Set-creator-name-as-default-value.png)
 
@@ -68,7 +68,7 @@ Se especificar a referência **{creator.name}** ou **{creator.id}** como valor p
 Os valores predefinidos aplicam-se **sempre que** é possível criar novas linhas:
 
 - num [quadro]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
-- numa [coluna de ligação]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- numa [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - via [botão](https://seatable.io/pt/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (ação: "Copiar linha para outra tabela")
 - através da [automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")
 - no [calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})

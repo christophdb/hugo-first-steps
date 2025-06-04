@@ -37,6 +37,6 @@ Em primeiro lugar: **a eliminação de uma aplicação nunca perde dados na base
 
 Observe, entretanto, que quando você exclui um **aplicativo universal,** todas as [páginas e pastas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) que estão no aplicativo também serão **excluídas irrevogavelmente** e _não poderão_ ser restauradas.
 
-Quando elimina uma **aplicação de galeria**, _apenas_ as **galerias** apresentadas na aplicação são eliminadas, mas as **imagens** permanecem nas [colunas de imagens]({{< relref "help/base-editor/spalten/die-bild-spalte" >}}) das suas tabelas.
+Quando elimina uma **aplicação de galeria**, _apenas_ as **galerias** apresentadas na aplicação são eliminadas, mas as **imagens** permanecem nas [colunas de imagens]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) das suas tabelas.
 
 Mesmo quando uma **aplicação de consulta de dados** é eliminada, **não** são eliminados **quaisquer dados**, apenas a **máscara de pesquisa**.

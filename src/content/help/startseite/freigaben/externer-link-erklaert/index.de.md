@@ -16,7 +16,7 @@ Folglich bieten Ihnen externe Links jede Menge spannende Möglichkeiten. Dieser 
 
 ## Funktionsweise und Typen von externen Links
 
-Ein externer Link ist eine **URL**, über die Sie mit **Lesezugriff** auf eine Datensammlung in SeaTable zugreifen können. Eine solche Datensammlung kann eine [Base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) oder eine [Ansicht]({{< relref "help/base-editor/einfuehrung/ansichten/" >}}) sein.
+Ein externer Link ist eine **URL**, über die Sie mit **Lesezugriff** auf eine Datensammlung in SeaTable zugreifen können. Eine solche Datensammlung kann eine [Base]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) oder eine [Ansicht]({{< relref "help/erste-schritte/einfuehrung-funktionen/ansichten/" >}}) sein.
 
 - **Externer Link für eine Base**: Durch den Aufruf dieses externen Links kann der Besucher alle in einer Base gespeicherten Daten inklusive aller Tabellen **sehen**. Der Besucher kann darüber hinaus auf **alle bestehenden Ansichten** und [Statistiken]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) zugreifen. Zudem kann er die **Auswertungswerkzeuge** [Gruppierung, Sortierung und Filter]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) verwenden.
 - **Externer Link für eine Ansicht**: Ein solcher externer Link gewährt **Lesezugriff auf _eine_ bestimmte Ansicht einer Tabelle**. Andere Ansichten und Tabellen in der Base sowie **ausgeblendete Zeilen und Spalten** bleiben vor den Nutzern des externen Links **verborgen**. Lesen Sie mehr darüber im Artikel [Externen Link für eine Ansicht erstellen]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).

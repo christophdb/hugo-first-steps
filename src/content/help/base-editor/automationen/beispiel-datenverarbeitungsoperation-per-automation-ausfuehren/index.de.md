@@ -56,11 +56,11 @@ Bestätigen Sie abschließend die Automation mit **Abschicken**, um diese zu spe
 
 ## Anwendungsbeispiel
 
-Ein konkreter Anwendungsfall für diese Art von Automation könnte beispielsweise auftreten, wenn Sie die Anzahl der täglichen Zugriffe auf eine Website in Ihrer Tabelle erheben möchten. Hierfür möchten Sie die **Zugriffszahlen** jedes einzelnen Tages, die in einer bestehenden [Zahlen-Spalte]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) erfasst sind, von Zeile zu Zeile in einer neuen Spalte **aufaddieren**.
+Ein konkreter Anwendungsfall für diese Art von Automation könnte beispielsweise auftreten, wenn Sie die Anzahl der täglichen Zugriffe auf eine Website in Ihrer Tabelle erheben möchten. Hierfür möchten Sie die **Zugriffszahlen** jedes einzelnen Tages, die in einer bestehenden [Zahlen-Spalte]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}) erfasst sind, von Zeile zu Zeile in einer neuen Spalte **aufaddieren**.
 
 Bisher war die [Berechnung der kumulierten Zugriffszahlen mithilfe einer Datenverarbeitungsoperation]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-kumulierte-werte-berechnen" >}}) nur **manuell** möglich. Mithilfe einer entsprechenden Automation ist es von nun an möglich, die kumulierten Zugriffszahlen **jeden Tag** zu einem festen Zeitpunkt **automatisch** berechnen zu lassen.
 
-Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/spalten/die-datum-spalte" >}}) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}}) erhoben werden.
+Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}) erhoben werden.
 
 ![Beispieltabelle für den Anwendungsfall der Automation: Kumulierte Werte berechnen](images/Beispiel-Tabelle-automation-data-processing-kumulierte-werte-berechnen.png)
 

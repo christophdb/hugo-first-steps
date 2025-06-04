@@ -97,6 +97,6 @@ Ese fue el paso 1 de este curso en línea. Desplázate hasta el final de este ar
 - [Cómo personalizar el tipo de columna]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
 - [Borrar una línea]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Añadir una columna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
-- [Añadir opciones a una columna de selección única]({{< relref "help/base-editor/spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
+- [Añadir opciones a una columna de selección única]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
 - [Particularidades de la primera columna]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
 - [Personalizar el aspecto de una base (icono y color)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})

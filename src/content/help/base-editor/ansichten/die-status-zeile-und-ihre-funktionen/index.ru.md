@@ -46,17 +46,17 @@ url: '/ru/pomoshch/die-status-zeile-und-ihre-funktionen'
 
 Для следующих типов столбцов строка состояния отражает вычисленное значение:
 
-- [Номерные столбцы]({{< relref "help/base-editor/spalten/die-zahlen-spalte" >}})
+- [Номерные столбцы]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
     - Номер
     - Процент
     - Валюта
-- [Постоянные колонки]({{< relref "help/base-editor/spalten/die-dauer-spalte" >}})
-- [Рейтинговые колонки]({{< relref "help/base-editor/spalten/die-rating-spalte" >}})
+- [Постоянные колонки]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}})
+- [Рейтинговые колонки]({{< relref "help/base-editor/numerische-spalten/die-rating-spalte" >}})
 - Числовые значения в [столбцах формул]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 Для следующих типов столбцов строка состояния **не** отражает вычисляемое значение, хотя они (могут) содержать числа:
 
-- [Колонки дат]({{< relref "help/base-editor/spalten/die-datum-spalte" >}})
-- [Создано]({{< relref "help/base-editor/spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Автоматический номер]({{< relref "help/base-editor/spalten/der-spaltentyp-automatische-nummer" >}})
-- Числа в [текстовых колонках]({{< relref "help/base-editor/spalten/die-spalten-text-und-formatierter-text" >}})
+- [Колонки дат]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+- [Создано]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Автоматический номер]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
+- Числа в [текстовых колонках]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})

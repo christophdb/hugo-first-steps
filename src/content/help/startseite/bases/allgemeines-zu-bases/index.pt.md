@@ -12,7 +12,7 @@ As bases são de importância central no SeaTable. Sempre que entra, analisa, ed
 
 À primeira vista, uma base é apenas um **recipiente** para uma ou mais **mesas**. Nesta perspectiva, parece óbvio comparar uma base com uma pasta de trabalho em Excel. No entanto, esta comparação não faz justiça a uma base. As bases em SeaTable são muito superiores às pastas de trabalho, pois são conhecidas a partir de folhas de cálculo convencionais, porque oferecem:
 
-- Funções relacionais da base de dados e a [ligação de tabelas]({{< relref "help/base-editor/spalten/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
+- Funções relacionais da base de dados e a [ligação de tabelas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Mais de 20 tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) cobrindo todos os formatos de dados comuns
 - Várias [opções de partilha para]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) dados
 - [Colaboração](https://seatable.io/pt/docs/seatable-nutzen/zusammenarbeit/) em tempo real com outros utilizadores e transmissão em tempo real de todas as alterações
