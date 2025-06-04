@@ -52,6 +52,7 @@
                     <select
                         class="block w-full appearance-none rounded-lg border border-gray-300 bg-gray-200 py-2 pl-3 pr-10 text-base font-medium text-gray-900 shadow-sm transition focus:border-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-500"
                         @change="window.location = $event.target.value">
+                        <option value="">-</option>
                         {{ with $activeSection }}
                             {{ range .Pages }}
                                 <option value="{{ .RelPermalink }}" {{ if eq .RelPermalink $currentPage.RelPermalink }}selected{{ end }}>
