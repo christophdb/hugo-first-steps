@@ -15,7 +15,8 @@
 
 
 <!-- HTML Block -->
-<section class="padding" {{ with .xshow }}x-show="{{ . }}"{{ end }}>
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding" {{ with .xshow }}x-show="{{ . }}"{{ end }}>
     <section id="faq">
         <div class="mx-auto mb-24 max-w-[900px] text-center">
             {{ if .subtitle }}
