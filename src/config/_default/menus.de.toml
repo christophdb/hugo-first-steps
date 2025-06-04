@@ -194,7 +194,7 @@ weight = 23
 [[footer]]
 name = "Integrationen"
 parent = "Unterstützung"
-url = "https://seatable.io/integrationen/?lang=auto"
+pageRef = "pages/integrations"
 weight = 24
 
 [[footer]]

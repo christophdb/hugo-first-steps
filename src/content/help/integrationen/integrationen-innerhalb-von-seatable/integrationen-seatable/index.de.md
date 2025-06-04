@@ -1,11 +1,11 @@
 ---
-title: "Übersicht über alle Integrationen in und mit SeaTable"
+title: 'Übersicht über alle Integrationen in und mit SeaTable'
 date: 2023-03-22
-lastmod: "2023-07-19"
-categories: 
-  - "skripte-api-integrationen"
-author: "cdb"
-url: "/de/hilfe/integrationen-seatable"
+lastmod: '2023-07-19'
+categories:
+    - 'skripte-api-integrationen'
+author: 'cdb'
+url: '/de/hilfe/integrationen-seatable'
 ---
 
 Integrationen erweitern die Möglichkeit, wie Sie mit SeaTable arbeiten und interagieren können. Integrationen erlauben beispielsweise, dass Sie mit anderen Tools und Softwarelösungen auf die Ihre Daten innerhalb von SeaTable zugreifen, oder Sie können Arbeitsabläufe designen, die gewisse Arbeitsschritte automatisieren. Alternativ könnten Sie auch eigenen Apps oder Programme entwickeln, die SeaTable als Backend verwenden.
@@ -52,7 +52,7 @@ Aktuell bieten die folgenden Automatisierungsplattformen eine Unterstützung fü
 
 - [Zapier](https://zapier.com/apps/seatable/integrations)
 - [Make (formerly Integromat)](https://www.make.com/en/integrations/seatable)
-- [n8n](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.seatable/)
+- [n8n](https://n8n.io/integrations/seatable/)
 - [Locoia](https://www.locoia.com/connector/seatable-integration)
 - [Integrately](https://integrately.com/integrations/seatable)
 

@@ -52,7 +52,7 @@ Actualmente, las siguientes plataformas de automatización ofrecen soporte para 
 
 - [Zapier](https://zapier.com/apps/seatable/integrations)
 - [Make (antes Integromat)](https://www.make.com/en/integrations/seatable)
-- [n8n](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.seatable/)
+- [n8n](https://n8n.io/integrations/seatable/)
 - [Locoia](https://www.locoia.com/connector/seatable-integration)
 - [En](https://integrately.com/integrations/seatable)
 

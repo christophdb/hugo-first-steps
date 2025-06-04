@@ -47,7 +47,7 @@ sections:
             img: '/images/logos/make.svg'
           - headline: n8n.io, Open Source y autohospedado
             text: n8n es un software de código abierto para la automatización de procesos. n8n se ejecuta en cualquier servidor Linux, solo requiere npm y ya es compatible con más de 200 aplicaciones.
-            link: hhttps://n8n.io/integrations/n8n-nodes-base.seaTable
+            link: https://n8n.io/integrations/seatable/
             img: '/images/logos/n8n.svg'
 
     - name: 'content-22'
