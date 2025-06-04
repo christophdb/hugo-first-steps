@@ -108,7 +108,7 @@ sections:
           - image: '/images/logos/seatable-api.svg'
       buttons:
           - label: 'Learn more about integrations'
-            link: 'https://seatable.io/integrationen/?lang=auto'
+            link: 'pages/integrations'
 ---
 
 <!-- bei single pages kommt alles in den frontmatter ... -->

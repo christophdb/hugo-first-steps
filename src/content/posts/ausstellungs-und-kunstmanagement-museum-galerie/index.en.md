@@ -65,7 +65,7 @@ The problem with all these special solutions is their fixed structure. It forces
 
 That's why you should take a look at SeaTable. Because SeaTable offers you exactly this flexibility you need to develop your own processes and workflows. In SeaTable you can combine all your information, no matter what kind, in your very own personal database and thus organize your daily work more efficiently. At the same time, SeaTable is as easy and intuitive to use as an Excel spreadsheet.
 
-Manage and organize exhibitions, collections, contracts, loans, restoration tasks, customer bases, and information of any kind in a single intuitive software. Design your custom applications based on your information. Powerful filters, sorting, and grouping give you the freedom to tailor your work exactly the way you need it. Link SeaTable with your other [business applications](https://seatable.io/en/integrationen/) and automate your workflows.
+Manage and organize exhibitions, collections, contracts, loans, restoration tasks, customer bases, and information of any kind in a single intuitive software. Design your custom applications based on your information. Powerful filters, sorting, and grouping give you the freedom to tailor your work exactly the way you need it. Link SeaTable with your other [business applications]({{< relref "pages/integrations" >}}) and automate your workflows.
 
 SeaTable is not rigid, but adapts flexibly to the needs and requirements of art management. The following sections describe typical art management tasks and how you can solve them with SeaTable. They are intended to give you a sense of the flexibility that SeaTable can provide.
 
