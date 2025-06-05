@@ -31,7 +31,7 @@ Once you get used to SeaTable's wide range of analysis features, you will never 
 
 Easy-to-use [views]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) ensure that you always have exactly the data you need in view - and with various statistics you can visualize your evaluations quickly and easily.
 
-Moreover, with SeaTables different [plugins]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})) you get completely new display options to support your work in the best possible way.
+Moreover, with SeaTables different [plugins]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) you get completely new display options to support your work in the best possible way.
 
 For example, a first click puts the dates of an event on a calendar, a second click shows the accompanying pictures in a gallery, and a third shows the event locations on a map. You'll never want to do without this again.
 
@@ -53,7 +53,7 @@ You define relevant fields, dependencies, notifications, etc. in the graphical d
 
 ### ... you can integrate seamlessly and expand indefinitely
 
-Turn 1 + 1 = 3 by linking SeaTable to other applications and integrating it into other solutions. Thanks to the [REST API](https://docs.seatable.io/published/seatable-api/home.md), this is no challenge.
+Turn 1 + 1 = 3 by linking SeaTable to other applications and integrating it into other solutions. Thanks to the REST API, this is no challenge.
 
 Processes can be automated and standardized with [scripts]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}).
 

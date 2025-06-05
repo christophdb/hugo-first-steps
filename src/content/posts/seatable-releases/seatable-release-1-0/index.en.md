@@ -13,7 +13,7 @@ seo:
 
 We are pleased to announce that SeaTable 1.0 is finally ready!
 
-The main difference between SeaTable and Excel-like spreadsheet applications is that SeaTable works with rows and allows linking rows of different tables. In SeaTable 1.0 version we improve the function of linking rows, by adding two functions: "lookup" and "rollup". Lookup shows a specific column of a linked row, rollup shows the summary of the linked rows. These two functions enable advanced use cases for databases. The details can be found on this [manual page](https://docs.seatable.io/published/seatable-user-manual/link.md).
+The main difference between SeaTable and Excel-like spreadsheet applications is that SeaTable works with rows and allows linking rows of different tables. In SeaTable 1.0 version we improve the function of linking rows, by adding two functions: "lookup" and "rollup". Lookup shows a specific column of a linked row, rollup shows the summary of the linked rows. These two functions enable advanced use cases for databases.
 
 ## The most important changes
 

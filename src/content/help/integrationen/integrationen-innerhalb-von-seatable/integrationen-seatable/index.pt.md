@@ -60,8 +60,8 @@ Actualmente, as seguintes plataformas de automação oferecem apoio ao SeaTable:
 
 O SeaTable é do seu agrado, mas falta-lhe uma ou outra função? Pretende automatizar determinadas tarefas e pretende integrar o SeaTable em sistemas existentes? Com o SeaTable tem todas estas possibilidades! A capacidade de integrar e alargar faz parte do ADN do SeaTable.
 
-Os plugins do SeaTable Market baseiam-se no Realtime SDK do SeaTable. Assim, pode desenvolver os seus próprios plugins com pouco esforço. [Pode encontrar todos os detalhes sobre o SeaTable SDK na documentação do programador](https://docs.seatable.io/published/dtable-sdk/home.md/). Pode importar os seus próprios plugins através do Gestor de Plugins.
+Os plugins do SeaTable Market baseiam-se no Realtime SDK do SeaTable. Assim, pode desenvolver os seus próprios plugins com pouco esforço. [Pode encontrar todos os detalhes sobre o SeaTable SDK na documentação do programador](https://developer.seatable.com). Pode importar os seus próprios plugins através do Gestor de Plugins.
 
-A integração do SeaTable com outros sistemas quase não tem limites graças ao poderoso REST API do SeaTable. Toda a informação sobre o SeaTable API pode ser encontrada na [documentação API do SeaTable](https://docs.seatable.io/published/seatable-api/home.md/).
+A integração do SeaTable com outros sistemas quase não tem limites graças ao poderoso REST API do SeaTable. Toda a informação sobre o SeaTable API pode ser encontrada na [documentação API do SeaTable](https://api.seatable.com).
 
 Tanto para os plug-ins como para a integração, utiliza linguagens de programação bem conhecidas, como o JavaScript e o Python. Os seus programadores podem começar a trabalhar imediatamente.

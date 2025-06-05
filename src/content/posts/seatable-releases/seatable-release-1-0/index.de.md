@@ -12,7 +12,7 @@ seo:
 
 Wir freuen uns, Ihnen mitteilen zu können, dass SeaTable 1.0 endlich fertig ist!
 
-Der Hauptunterschied zwischen SeaTable- und Excel-ähnlichen Tabellenkalkulationsanwendungen besteht darin, dass SeaTable mit Zeilen arbeitet und das Verknüpfen von Zeilen verschiedener Tabellen ermöglicht. In der Version SeaTable 1.0 verbessern wir die Funktion zur Verknüpfung von Zeilen, indem wir zwei Funktionen hinzufügen: “lookup” und “rollup”. Lookup zeigt eine bestimmte Spalte einer verknüpften Zeile, Rollup zeigt die Zusammenfassung der verknüpften Zeilen. Diese beiden Funktionen ermöglichen erweiterte Anwendungsfälle für Datenbanken. Die Details finden Sie auf dieser [Handbuchseite](https://docs.seatable.io/published/seatable-user-manual/link.md).
+Der Hauptunterschied zwischen SeaTable- und Excel-ähnlichen Tabellenkalkulationsanwendungen besteht darin, dass SeaTable mit Zeilen arbeitet und das Verknüpfen von Zeilen verschiedener Tabellen ermöglicht. In der Version SeaTable 1.0 verbessern wir die Funktion zur Verknüpfung von Zeilen, indem wir zwei Funktionen hinzufügen: “lookup” und “rollup”. Lookup zeigt eine bestimmte Spalte einer verknüpften Zeile, Rollup zeigt die Zusammenfassung der verknüpften Zeilen. Diese beiden Funktionen ermöglichen erweiterte Anwendungsfälle für Datenbanken.
 
 ## Die wichtigsten Änderungen
 

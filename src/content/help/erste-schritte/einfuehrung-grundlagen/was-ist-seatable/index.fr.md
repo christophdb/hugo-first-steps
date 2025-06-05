@@ -31,7 +31,7 @@ Une fois que vous vous serez habitué aux nombreuses fonctions d'analyse de SeaT
 
 Des [vues]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) faciles à utiliser garantissent que vous avez toujours sous les yeux exactement les données dont vous avez besoin - et différentes statistiques vous permettent de visualiser rapidement et facilement vos évaluations.
 
-En outre, les différents [plug-ins]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) ou [de cartes](https://seatable.io/fr/docs/plugins/instructions-plugin-de-carte/)) vous offrent de toutes nouvelles options d'affichage pour vous aider à travailler de manière optimale.
+En outre, les différents [plug-ins]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) ou [de cartes](https://seatable.io/fr/docs/plugins/instructions-plugin-de-carte/) vous offrent de toutes nouvelles options d'affichage pour vous aider à travailler de manière optimale.
 
 Un premier clic permet par exemple de placer les dates d'un événement sur un calendrier, un deuxième clic permet d'afficher les photos d'accompagnement dans une galerie et un troisième clic permet d'afficher les lieux de l'événement sur une carte. Vous ne voudrez plus jamais vous en passer.
 
@@ -53,7 +53,7 @@ Les champs pertinents, les dépendances, les notifications, etc. sont définis d
 
 ### ... vous pouvez l'intégrer de manière transparente et l'étendre indéfiniment
 
-Transformez 1 + 1 = 3 en reliant SeaTable à d'autres applications et en l'intégrant à d'autres solutions. Grâce à [l'API REST](https://docs.seatable.io/published/seatable-api/home.md), cela ne pose aucun problème.
+Transformez 1 + 1 = 3 en reliant SeaTable à d'autres applications et en l'intégrant à d'autres solutions. Grâce à l'API REST, cela ne pose aucun problème.
 
 Les processus peuvent être automatisés et standardisés à l'aide de [scripts]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}).
 

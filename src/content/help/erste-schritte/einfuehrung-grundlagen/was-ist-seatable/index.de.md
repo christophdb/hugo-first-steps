@@ -57,7 +57,7 @@ Relevante Felder, Abhängigkeiten, Benachrichtigungen etc. definieren Sie im gra
 
 ### ... können Sie nahtlos integrieren und unbegrenzt erweitern
 
-Machen Sie aus 1 + 1 = 3, indem Sie SeaTable mit anderen Anwendungen verknüpfen und in andere Lösungen integrieren. Dank [REST-API](https://docs.seatable.io/published/seatable-api/home.md) stellt dies keine Herausforderung dar.
+Machen Sie aus 1 + 1 = 3, indem Sie SeaTable mit anderen Anwendungen verknüpfen und in andere Lösungen integrieren. Dank REST-API stellt dies keine Herausforderung dar.
 
 Prozesse lassen sich mit [Skripten]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}) automatisieren und standardisieren.
 

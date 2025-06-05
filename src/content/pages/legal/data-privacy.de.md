@@ -10,7 +10,7 @@ Version 1.3.0 vom 3\. November 2022
 
 ## 1\. Datenschutz auf einen Blick
 
-Dieser Abschnitt gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie dieses Online Angebot besuchen und benutzen. Zu diesem Online Angebot gehören die Webseite (seatable.io), der Cloud-Dienst SeaTable Cloud (cloud.seatable.io), die SeaTable Cloud Teamverwaltung (accounts.seatable.io), das SeaTable Forum (forum.seatable.io) und SeaTable Ideas (ideas.seatable.io) sowie der Store SeaTable Market (market.seatable.io). “Personenbezogene Daten” sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie den folgenden Abschnitten.
+Dieser Abschnitt gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie dieses Online Angebot besuchen und benutzen. Zu diesem Online Angebot gehören die Webseite (seatable.io), der Cloud-Dienst SeaTable Cloud (cloud.seatable.io), die SeaTable Cloud Teamverwaltung (accounts.seatable.io), das SeaTable Forum (forum.seatable.com) und SeaTable Ideas (ideas.seatable.com) sowie der Store SeaTable Market (market.seatable.io). “Personenbezogene Daten” sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie den folgenden Abschnitten.
 
 **Wer ist verantwortlich für die Datenverarbeitung auf diesem Online Angebot?**  
 Die Datenverarbeitung auf diesem Online Angebot erfolgt durch den Betreiber SeaTable GmbH, dessen Kontaktdaten Sie dem Impressum entnehmen können.
