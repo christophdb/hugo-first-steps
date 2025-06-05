@@ -14,4 +14,4 @@ Al crear un nuevo documento PDF utilizando el [plugin de diseño de páginas]({{
 
 ## Más información sobre este error
 
-- [https://forum.seatable.io/t/pdf-file-has-2-pages-although-should-only-have-1/1880](https://forum.seatable.io/t/pdf-file-has-2-pages-although-should-only-have-1/1880)
+- [https://forum.seatable.com/t/pdf-file-has-2-pages-although-should-only-have-1/1880](https://forum.seatable.com/t/pdf-file-has-2-pages-although-should-only-have-1/1880)

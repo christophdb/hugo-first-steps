@@ -123,7 +123,7 @@ weight = 45
 [[main]]
 name = "Fórum"
 parent = "Recursos"
-url = "https://forum.seatable.io"
+url = "https://forum.seatable.com"
 weight = 47
 
 [[main]]
@@ -200,7 +200,7 @@ weight = 24
 [[footer]]
 name = "Fórum"
 parent = "Apoio a"
-url = "https://forum.seatable.io"
+url = "https://forum.seatable.com"
 weight = 25
 
 [[footer]]

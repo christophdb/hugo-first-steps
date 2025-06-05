@@ -74,4 +74,4 @@ Wir drücken die Daumen, dass die Corona Pandemie schon bald etwas für die Gesc
 
 Diese Release Note thematisiert nur die wichtigsten Änderung im Detail. Das Changelog enthält die vollständige Änderungshistorie. Schauen Sie dort vorbei! Zu den erwähnenswerten kleineren Verbesserungen zählen die Zeitauslöser für Python Skripte (siehe [Release Note von SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})) und die Beseitigung von Performance Problemen bei der Verwaltung größerer Zeilenmengen im Tabelleneditor.
 
-Besorgen Sie sich ein SeaTable Konto für Ihr Team und nutzen Sie SeaTable dauerhaft kostenfrei! Wir freuen uns über Ihr Feedback und Kommentare im [Forum](https://forum.seatable.io/).
+Besorgen Sie sich ein SeaTable Konto für Ihr Team und nutzen Sie SeaTable dauerhaft kostenfrei! Wir freuen uns über Ihr Feedback und Kommentare im [Forum](https://forum.seatable.com/).

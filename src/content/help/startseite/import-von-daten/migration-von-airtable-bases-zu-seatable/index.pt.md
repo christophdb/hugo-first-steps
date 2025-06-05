@@ -14,7 +14,7 @@ Desenvolvemos um script de migração para a transferência de dados do Airtable
 
 O guião pode ser utilizado por qualquer pessoa - técnicos e não técnicos. Apenas são necessárias algumas **entradas manuais** para que o script esteja pronto a ser utilizado. Neste artigo, explicamos como o fazer.
 
-{{< warning  headline="Nota importante"  text="O guião de migração é funcional, mas ainda é beta. Estamos constantemente a adaptá-lo e a optimizá-lo. Se tiver algum problema, deixe uma mensagem no [fórum SeaTable](https://forum.seatable.io/)." />}}
+{{< warning  headline="Nota importante"  text="O guião de migração é funcional, mas ainda é beta. Estamos constantemente a adaptá-lo e a optimizá-lo. Se tiver algum problema, deixe uma mensagem no [fórum SeaTable](https://forum.seatable.com/)." />}}
 
 ## Como migrar uma base do Airtable para o SeaTable
 
@@ -276,7 +276,7 @@ Por outro lado, também é necessário criar vistas, uma vez que estas não são
 Se receber uma mensagem de erro, geralmente não se trata de um problema. Não se perdem dados. Proceda da seguinte forma para encontrar a causa do erro:  
 \- Na maioria dos casos, a mensagem de erro dá-lhe uma pista sobre onde encontrar o erro. Siga-a, corrija os parâmetros introduzidos e execute o script novamente. Um erro de indentação, por exemplo, indica que a indentação não corresponde à sintaxe Python.  
 \- Se a mensagem de erro for incompreensível, verifique se todas as entradas estão correctas e tente novamente.  
-\- Se nenhuma das dicas ajudar, procure ajuda no [Fórum SeaTable](https://forum.seatable.io/).
+\- Se nenhuma das dicas ajudar, procure ajuda no [Fórum SeaTable](https://forum.seatable.com/).
 
 {{< warning  headline="Nota importante"  text="Remova o token da API, o PAT e a ID de base antes de publicar capturas de ecrã ou scripts no fórum." />}}
 {{< /faq >}}

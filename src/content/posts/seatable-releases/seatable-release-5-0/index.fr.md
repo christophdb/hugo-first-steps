@@ -80,7 +80,7 @@ Voici un aperçu des points les plus importants :
 - Le format des valeurs de retour des colonnes de liens et de formules de liens est harmonisé.
 - Le site _API-Gateway_ renvoie à l'avenir la limite d'utilisation actuelle de l'API.
 
-Si vous souhaitez en savoir plus, vous trouverez tous les détails sur les changements dans ce [post de forum](https://forum.seatable.io/t/important-changes-to-api-and-seatable-cloud-with-version-5-0/4887).
+Si vous souhaitez en savoir plus, vous trouverez tous les détails sur les changements dans ce [post de forum](https://forum.seatable.com/t/important-changes-to-api-and-seatable-cloud-with-version-5-0/4887).
 
 ## Et bien plus encore
 

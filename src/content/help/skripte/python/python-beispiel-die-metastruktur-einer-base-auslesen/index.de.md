@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/python-beispiel-die-metastruktur-einer-base-auslesen'
 ---
 
-Dieser Artikel stellt Ihnen ein Python-Skript vor, welches die komplette Metastruktur einer Base ausgibt. Dies ist z. B. hilfreich, wenn Sie im [Community-Forum](https://forum.seatable.io/) eine Frage zu einer Base haben und die Struktur Ihrer Base ohne Screenshots einfach und schnell beschreiben wollen.
+Dieser Artikel stellt Ihnen ein Python-Skript vor, welches die komplette Metastruktur einer Base ausgibt. Dies ist z. B. hilfreich, wenn Sie im [Community-Forum](https://forum.seatable.com/) eine Frage zu einer Base haben und die Struktur Ihrer Base ohne Screenshots einfach und schnell beschreiben wollen.
 
 ## Die Metastruktur einer Base
 

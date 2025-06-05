@@ -80,7 +80,7 @@ He aquí un resumen de los puntos más importantes:
 - Se armoniza el formato de los valores de retorno de las columnas de enlace y fórmula de enlace.
 - En _API-Gateway_ devolverá el límite de uso actual de la API en el futuro.
 
-Si quieres saber más, puedes encontrar todos los detalles sobre los cambios en este [post del foro](https://forum.seatable.io/t/important-changes-to-api-and-seatable-cloud-with-version-5-0/4887).
+Si quieres saber más, puedes encontrar todos los detalles sobre los cambios en este [post del foro](https://forum.seatable.com/t/important-changes-to-api-and-seatable-cloud-with-version-5-0/4887).
 
 ## Y mucho más
 

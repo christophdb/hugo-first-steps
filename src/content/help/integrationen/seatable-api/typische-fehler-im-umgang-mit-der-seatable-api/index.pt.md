@@ -10,7 +10,7 @@ url: '/pt/ajuda/typische-fehler-im-umgang-mit-der-seatable-api'
 
 Ocasionalmente, podem ocorrer erros com chamadas API. Este artigo visa explicar e corrigir os erros ou problemas mais comuns encontrados. Pode encontrar uma lista detalhada de erros na nossa [documentação API](https://api.seatable.io).
 
-Se mesmo assim não conseguir resolver o problema, contacte o serviço de apoio ao cliente Plus e Enterprise ou abra um ticket [no fórum da comunidade](https://forum.seatable.io). Por favor, siga as orientações listadas na última secção para tornar o serviço ao cliente tão eficiente quanto possível.
+Se mesmo assim não conseguir resolver o problema, contacte o serviço de apoio ao cliente Plus e Enterprise ou abra um ticket [no fórum da comunidade](https://forum.seatable.com). Por favor, siga as orientações listadas na última secção para tornar o serviço ao cliente tão eficiente quanto possível.
 
 ## Códigos de erro API
 

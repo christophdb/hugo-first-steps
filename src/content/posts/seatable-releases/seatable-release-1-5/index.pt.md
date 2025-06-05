@@ -74,4 +74,4 @@ Estamos a fazer figas que a Pandemia de Corona será em breve algo para os livro
 
 Esta nota de lançamento discute apenas em pormenor as alterações mais importantes. O changelog contém o histórico completo das mudanças. Dê uma olhadela lá! Entre as pequenas melhorias que vale a pena mencionar estão o tempo de activação dos scripts Python (ver [nota de lançamento do SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})) e a eliminação de problemas de desempenho ao gerir conjuntos maiores de filas no editor de tabelas.
 
-Obtenha uma conta SeaTable para a sua equipa e use o SeaTable permanentemente sem custos! Agradecemos o vosso feedback e comentários no [fórum](https://forum.seatable.io/).
+Obtenha uma conta SeaTable para a sua equipa e use o SeaTable permanentemente sem custos! Agradecemos o vosso feedback e comentários no [fórum](https://forum.seatable.com/).

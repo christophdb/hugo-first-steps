@@ -40,7 +40,7 @@ Vous apprendrez tout cela en construisant une base pour enregistrer vos dépense
 Les conditions suivantes sont nécessaires pour pouvoir suivre ce cours en ligne :
 
 1. **SeaTable**: Vous pouvez utiliser n'importe quel système SeaTable. Le plus simple est d'avoir un [compte SeaTable Cloud gratuit](https://seatable.io/fr/enregistrement/).
-2. **Le forum**: Un [compte sur notre forum communautaire](https://forum.seatable.io/) si vous souhaitez obtenir un badge après avoir réussi le concours.
+2. **Le forum**: Un [compte sur notre forum communautaire](https://forum.seatable.com/) si vous souhaitez obtenir un badge après avoir réussi le concours.
 3. **Le navigateur**: Nous recommandons Google Chrome.
 4. **Anglais**: le cours est disponible en plusieurs langues, mais le quiz final, les captures d'écran et les données d'exemple utilisées sont en anglais.
 
@@ -55,7 +55,7 @@ En fin de compte, c'est vous qui décidez des connaissances et des compétences 
 À la fin de ce cours, vous aurez la possibilité de tester vos nouvelles connaissances en répondant à un quiz :
 
 - Le [quiz en anglais](https://tally.so/r/wk5BXr) est un mélange de questions à choix multiples et de questions sur la base, que vous construirez au fur et à mesure du tutoriel.
-- Si vous réussissez, vous recevrez un [badge pour votre profil sur le forum](https://forum.seatable.io/badges/106/completed-seatable-course-level-1). Celui-ci sera alors visible à chaque réponse que vous donnerez sur le forum et mettra en évidence vos compétences pour tous les autres utilisateurs.
+- Si vous réussissez, vous recevrez un [badge pour votre profil sur le forum](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). Celui-ci sera alors visible à chaque réponse que vous donnerez sur le forum et mettra en évidence vos compétences pour tous les autres utilisateurs.
 
 Qu'est-ce qu'on attend ? Allons-y !
 

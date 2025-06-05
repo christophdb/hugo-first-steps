@@ -10,7 +10,7 @@ url: '/ru/pomoshch/eine-checkbox-setzen-alle-anderen-entfernen'
 
 Представьте, что вы хотите всегда активировать флажок ровно в одной строке базы. Если этот флажок активирован, то все остальные флажки, которые могут быть заполнены, должны быть деактивированы. Это можно легко сделать с помощью скрипта, например, через кнопку.
 
-{{< warning  headline="Спасибо за этот вклад сообщества"  text="Большое спасибо Йоргу, разместившему этот скрипт на [форуме сообщества SeaTable](https://forum.seatable.io/t/tutorial-default-column-with-simple-js-script/2266)." />}}
+{{< warning  headline="Спасибо за этот вклад сообщества"  text="Большое спасибо Йоргу, разместившему этот скрипт на [форуме сообщества SeaTable](https://forum.seatable.com/t/tutorial-default-column-with-simple-js-script/2266)." />}}
 
 ## Результат
 

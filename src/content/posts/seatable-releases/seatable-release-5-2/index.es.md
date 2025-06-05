@@ -82,7 +82,7 @@ La sustitución del plugin se había hecho necesaria porque el "antiguo" plugin 
 
 Con el lanzamiento de la versión 5.2, nos gustaría anunciar un cambio importante en la API de SeaTable. Esto sólo afecta a los usuarios que utilizan la API para implementar sus propias aplicaciones y flujos de trabajo. Estos cambios no tienen ningún impacto en el uso de la interfaz web.
 
-Encontrará información detallada sobre los cambios en este [mensaje del foro](https://forum.seatable.io/t/important-changes-to-api-and-seatable-cloud-with-version-5-2/6317). He aquí un resumen de los puntos más importantes:
+Encontrará información detallada sobre los cambios en este [mensaje del foro](https://forum.seatable.com/t/important-changes-to-api-and-seatable-cloud-with-version-5-2/6317). He aquí un resumen de los puntos más importantes:
 
 - Para armonizar la estructura de la API, algunos puntos finales se han marcado como obsoletos. Los nuevos puntos finales ya están disponibles.
 - La versión 6.0 desactiva los puntos finales obsoletos.

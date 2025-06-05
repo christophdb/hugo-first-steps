@@ -14,4 +14,4 @@ url: '/ru/pomoshch/leere-seite-beim-page-design-plugin'
 
 ## Дополнительная информация об этой ошибке
 
-- [https://forum.seatable.io/t/pdf-file-has-2-pages-although-should-only-have-1/1880](https://forum.seatable.io/t/pdf-file-has-2-pages-although-should-only-have-1/1880)
+- [https://forum.seatable.com/t/pdf-file-has-2-pages-although-should-only-have-1/1880](https://forum.seatable.com/t/pdf-file-has-2-pages-although-should-only-have-1/1880)

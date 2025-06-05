@@ -14,4 +14,4 @@ When creating a new PDF document using the [Page Design plugin]({{< relref "help
 
 ## More information about this error
 
-- [https://forum.seatable.io/t/pdf-file-has-2-pages-although-should-only-have-1/1880](https://forum.seatable.io/t/pdf-file-has-2-pages-although-should-only-have-1/1880)
+- [https://forum.seatable.com/t/pdf-file-has-2-pages-although-should-only-have-1/1880](https://forum.seatable.com/t/pdf-file-has-2-pages-although-should-only-have-1/1880)

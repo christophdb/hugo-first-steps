@@ -74,4 +74,4 @@ Zum Thema Aktivitätenübersicht: Dieses Menü selbst ist mit seinem neuen Desig
 
 Kleine, aber feine Verbesserungen hat auch die Tabellenansicht erfahren. Wenn Sie nun eine Base zum ersten Mal öffnen, dann wird automatisch die Beschreibung der Base aufgerufen. Dies ist sehr nützlich, wenn Sie Bases mit anderen teilen. So werden Ihre Kollegen mit den Informationen versorgt, die Sie sie sehen lassen wollen, bevor sie sich auf die Daten stürzen.
 
-Sie sind interessiert oder sogar inspiriert? Dann worauf warten? Die Anmeldung ist im Nu gemacht und SeaTable ist dauerhaft kostenlos! Bei Fragen oder Zweifeln, Ideen oder Feedback schreiben Sie uns bitte oder hinterlassen Sie ein Kommentar im [Forum](https://forum.seatable.io).
+Sie sind interessiert oder sogar inspiriert? Dann worauf warten? Die Anmeldung ist im Nu gemacht und SeaTable ist dauerhaft kostenlos! Bei Fragen oder Zweifeln, Ideen oder Feedback schreiben Sie uns bitte oder hinterlassen Sie ein Kommentar im [Forum](https://forum.seatable.com).

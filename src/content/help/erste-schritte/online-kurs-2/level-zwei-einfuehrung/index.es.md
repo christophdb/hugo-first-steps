@@ -29,7 +29,7 @@ Todo el proceso empresarial se planifica en SeaTable para que pueda concentrarse
 Para completar con éxito este curso, necesitará:
 
 1. **SeaTable**: Utilice cualquier sistema SeaTable. La forma más sencilla de hacerlo es con una [cuenta gratuita de SeaTable Cloud]({{< relref "pages/registration" >}}).
-2. **Foro**: Una [cuenta en nuestro foro de la comunidad](https://forum.seatable.io/) si desea recibir una insignia después de completar el curso.
+2. **Foro**: Una [cuenta en nuestro foro de la comunidad](https://forum.seatable.com/) si desea recibir una insignia después de completar el curso.
 3. **Envío de** correo: Una [cuenta con Mailtrap](https://mailtrap.io/) para simular el envío de correo desde SeaTable.
 4. **Navegador**: Recomendamos el uso de Google Chrome.
 5. **Inglés**: El curso está disponible en varios idiomas, pero el cuestionario, las capturas de pantalla y los datos de muestra están en inglés.
@@ -43,7 +43,7 @@ El curso dura **aproximadamente una hora**, pero puede seguirlo a su ritmo. Pued
 Al final de este curso podrá poner a prueba sus conocimientos en un cuestionario:
 
 - El [cuestionario](https://tally.so/r/mDDbpb) está en inglés y consta de preguntas de opción múltiple y tareas relacionadas con el proceso que ha implantado.
-- Una vez completado con éxito, recibirá una [insignia para su perfil del foro](https://forum.seatable.io/badges/107/completed-seatable-course-level-2), que visualiza sus habilidades.
+- Una vez completado con éxito, recibirá una [insignia para su perfil del foro](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), que visualiza sus habilidades.
 
 ¿A qué esperamos? ¡Vamos!
 

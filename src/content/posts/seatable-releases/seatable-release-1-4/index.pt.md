@@ -74,4 +74,4 @@ Sobre o tema da síntese de actividades: Este menu em si é dificilmente reconhe
 
 Foram também feitas pequenas mas finas melhorias na vista da mesa. Quando se abre uma base pela primeira vez, a descrição da base é automaticamente chamada. Isto é muito útil quando se partilham bases com outros. Desta forma, os seus colegas recebem a informação que deseja que eles vejam antes de saltarem para os dados.
 
-Está interessado ou mesmo inspirado? Então de que é que está à espera? O registo é feito em pouco tempo e o SeaTable é permanentemente gratuito! Se tiver quaisquer perguntas ou dúvidas, ideias ou feedback, por favor escreva-nos ou deixe um comentário no [fórum](https://forum.seatable.io).
+Está interessado ou mesmo inspirado? Então de que é que está à espera? O registo é feito em pouco tempo e o SeaTable é permanentemente gratuito! Se tiver quaisquer perguntas ou dúvidas, ideias ou feedback, por favor escreva-nos ou deixe um comentário no [fórum](https://forum.seatable.com).

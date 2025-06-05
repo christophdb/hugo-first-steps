@@ -29,7 +29,7 @@ Der komplette Geschäftsprozess wird in SeaTable abgebildet, sodass Sie sich vol
 Um diesen Kurs erfolgreich zu absolvieren, benötigen Sie:
 
 1. **SeaTable**: Verwenden Sie ein beliebiges SeaTable-System. Am einfachsten geht es mit einem [kostenlosen SeaTable Cloud-Account]({{< relref "pages/registration" >}}).
-2. **Forum**: Einen [Account in unserem Community-Forum](https://forum.seatable.io/), falls Sie nach Abschluss des Kurses ein Abzeichen erhalten möchten.
+2. **Forum**: Einen [Account in unserem Community-Forum](https://forum.seatable.com/), falls Sie nach Abschluss des Kurses ein Abzeichen erhalten möchten.
 3. **Mailversand**: Ein [Konto bei Mailtrap](https://mailtrap.io/), um den Mailversand aus SeaTable zu simulieren.
 4. **Browser**: Wir empfehlen die Nutzung von Google Chrome.
 5. **Englisch**: Der Kurs ist in mehreren Sprachen verfügbar, jedoch sind das Quiz, die Screenshots und die Beispieldaten auf Englisch.
@@ -43,7 +43,7 @@ Der Kurs dauert **etwa eine Stunde**, aber Sie können ihn in Ihrem eigenen Temp
 Am Ende dieses Kurses können Sie Ihr Wissen in einem Quiz überprüfen:
 
 - Das [Quiz](https://tally.so/r/mDDbpb) ist auf Englisch und besteht aus Multiple-Choice-Fragen sowie Aufgaben zu dem von Ihnen umgesetzten Prozess.
-- Bei erfolgreichem Abschluss erhalten Sie ein [Abzeichen für Ihr Forums-Profil](https://forum.seatable.io/badges/107/completed-seatable-course-level-2), das Ihre Fähigkeiten sichtbar macht.
+- Bei erfolgreichem Abschluss erhalten Sie ein [Abzeichen für Ihr Forums-Profil](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), das Ihre Fähigkeiten sichtbar macht.
 
 Worauf warten wir? Los geht's!
 

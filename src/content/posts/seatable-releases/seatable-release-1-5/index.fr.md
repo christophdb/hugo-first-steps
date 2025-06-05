@@ -74,4 +74,4 @@ Nous croisons les doigts pour que la pandémie de Corona n'apparaisse bientôt p
 
 Cette note de mise à jour ne traite en détail que des changements les plus importants. Le journal des modifications contient l'historique complet des modifications. Jetez-y un coup d'œil ! Parmi les améliorations mineures qui méritent d'être mentionnées figurent les déclencheurs temporels pour les scripts Python (voir la [note de mise à jour de SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})) et l'élimination des problèmes de performance lors de la gestion de grands ensembles de lignes dans l'éditeur de tableaux.
 
-Obtenez un compte SeaTable pour votre équipe et utilisez SeaTable gratuitement de façon permanente ! Vos réactions et commentaires sont les bienvenus sur le [forum](https://forum.seatable.io/).
+Obtenez un compte SeaTable pour votre équipe et utilisez SeaTable gratuitement de façon permanente ! Vos réactions et commentaires sont les bienvenus sur le [forum](https://forum.seatable.com/).

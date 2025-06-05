@@ -74,4 +74,4 @@ En cuanto al resumen de actividades: este menú apenas se reconoce con su nuevo 
 
 También se han introducido pequeñas pero finas mejoras en la vista de la tabla. Cuando se abre una base por primera vez, se llama automáticamente la descripción de la base. Esto es muy útil cuando se comparten bases con otros. De esta manera, sus colegas reciben la información que usted quiere que vean antes de que se metan en los datos.
 
-¿Está interesado o incluso inspirado? Entonces, ¿a qué esperas? El registro se hace en un abrir y cerrar de ojos y SeaTable es permanentemente gratuito. Si tiene alguna pregunta o duda, ideas o comentarios, escríbanos o deje un comentario en el [foro](https://forum.seatable.io).
+¿Está interesado o incluso inspirado? Entonces, ¿a qué esperas? El registro se hace en un abrir y cerrar de ojos y SeaTable es permanentemente gratuito. Si tiene alguna pregunta o duda, ideas o comentarios, escríbanos o deje un comentario en el [foro](https://forum.seatable.com).

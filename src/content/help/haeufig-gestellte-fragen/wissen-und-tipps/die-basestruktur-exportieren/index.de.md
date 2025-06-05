@@ -27,6 +27,6 @@ Die Ausgabe des Skripts liefert zum Beispiel das folgende Ergebnis, welches Sie 
 
 ## Die Base-Struktur für einen Eintrag im Community-Forum verwenden
 
-Wenn Sie im [SeaTable Forum](https://forum.seatable.io) über den Button **\+ New Topic** ein neues Thema eröffnen, können Sie Ihre Base-Struktur als **Preformatted Text** einfügen, um die Problemstellung zu veranschaulichen.
+Wenn Sie im [SeaTable Forum](https://forum.seatable.com) über den Button **\+ New Topic** ein neues Thema eröffnen, können Sie Ihre Base-Struktur als **Preformatted Text** einfügen, um die Problemstellung zu veranschaulichen.
 
 ![Post des Ergebnisses im Forum](images/new-topic-with-preformatted-text.png)

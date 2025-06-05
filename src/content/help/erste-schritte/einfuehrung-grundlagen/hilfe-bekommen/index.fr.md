@@ -14,7 +14,7 @@ Les utilisateurs de SeaTable disposent de différentes possibilités pour obteni
 
 Notre guide de l'utilisateur devrait vous permettre de répondre à la plupart des questions que vous vous posez sur l'utilisation de SeaTable. Utilisez la fonction de recherche et cherchez votre problème spécifique. Le manuel d'utilisation contient actuellement près de 350 articles d'aide, il y a donc de fortes chances que vous trouviez ici la réponse à votre question.
 
-Si vous ne trouvez pas ce que vous cherchez dans le guide de l'utilisateur, vous pouvez poser votre question sur le [forum communautaire de SeaTable](https://forum.seatable.io). Décrivez votre situation actuelle, le problème que vous rencontrez et ce que vous avez déjà entrepris pour le résoudre. Outre la communauté active, des employés de SeaTable consultent régulièrement le forum pour répondre aux questions en suspens.
+Si vous ne trouvez pas ce que vous cherchez dans le guide de l'utilisateur, vous pouvez poser votre question sur le [forum communautaire de SeaTable](https://forum.seatable.com). Décrivez votre situation actuelle, le problème que vous rencontrez et ce que vous avez déjà entrepris pour le résoudre. Outre la communauté active, des employés de SeaTable consultent régulièrement le forum pour répondre aux questions en suspens.
 
 ### Aide pour les utilisateurs de SeaTable Plus et Enterprise
 
@@ -29,7 +29,7 @@ Outre le guide de l'utilisateur, il existe d'autres sources qui vous permettront
 
 - Dans le [blog SeaTable]({{ relref "posts" }}), nous publions régulièrement des articles et des aides pour une utilisation plus efficace de SeaTable. N'hésitez pas à parcourir les différents articles.
 - Notre [chaîne YouTube](https://youtube.com/seatable) propose de nombreuses vidéos qui vous permettront à la fois de vous familiariser avec SeaTable et de devenir vous-même un expert de SeaTable. Vous trouverez certainement la vidéo qui vous convient.
-- Dans notre [forum communautaire](https://forum.seatable.io), nous publions également régulièrement des petits tutoriels pour des problèmes typiques. Cherchez le terme " **tutoriel** " dans le forum et vous trouverez diverses petites aides.
+- Dans notre [forum communautaire](https://forum.seatable.com), nous publions également régulièrement des petits tutoriels pour des problèmes typiques. Cherchez le terme " **tutoriel** " dans le forum et vous trouverez diverses petites aides.
 
 ## Questions fréquentes sur le support
 

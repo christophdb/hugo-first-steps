@@ -10,7 +10,7 @@ url: '/fr/aide/eine-checkbox-setzen-alle-anderen-entfernen'
 
 Imaginez que vous souhaitiez activer une case à cocher dans une base sur une seule ligne. Lorsque cette case à cocher est activée, toutes les autres cases à cocher éventuellement remplies doivent être désactivées. Vous pouvez effectuer cette opération très simplement à l'aide d'un script, par exemple via un bouton.
 
-{{< warning  headline="Merci pour cet apport de la communauté"  text="Merci à Jörg qui a posté ce script sur le [forum de la communauté SeaTable](https://forum.seatable.io/t/tutorial-default-column-with-simple-js-script/2266)." />}}
+{{< warning  headline="Merci pour cet apport de la communauté"  text="Merci à Jörg qui a posté ce script sur le [forum de la communauté SeaTable](https://forum.seatable.com/t/tutorial-default-column-with-simple-js-script/2266)." />}}
 
 ## Le résultat
 

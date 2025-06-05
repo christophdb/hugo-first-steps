@@ -80,7 +80,7 @@ Hier die wichtigsten Punkte in der Übersicht:
 - Das Format der Rückgabewerte von Link- und Linkformel-Spalten wird harmonisiert.
 - Das _API-Gateway_ liefert zukünftig das aktuelle API-Nutzungslimit zurück.
 
-Wenn Sie mehr erfahren wollen, finden Sie in diesem [Forumspost](https://forum.seatable.io/t/important-changes-to-api-and-seatable-cloud-with-version-5-0/4887) alle Details zu den Änderungen.
+Wenn Sie mehr erfahren wollen, finden Sie in diesem [Forumspost](https://forum.seatable.com/t/important-changes-to-api-and-seatable-cloud-with-version-5-0/4887) alle Details zu den Änderungen.
 
 ## Und vieles mehr
 

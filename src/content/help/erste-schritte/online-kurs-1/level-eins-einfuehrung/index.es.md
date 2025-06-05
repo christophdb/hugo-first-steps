@@ -40,7 +40,7 @@ Aprenderá todo esto estableciendo una base para registrar sus gastos privados o
 Los siguientes requisitos son necesarios para completar este curso en línea:
 
 1. **SeaTable**: Puede utilizar cualquier sistema SeaTable. La forma más sencilla de hacerlo es con una [cuenta gratuita de SeaTable Cloud]({{< relref "pages/registration" >}}).
-2. **Foro**: Una [cuenta en nuestro foro de la comunidad](https://forum.seatable.io/) si desea recibir una insignia al completarlo con éxito.
+2. **Foro**: Una [cuenta en nuestro foro de la comunidad](https://forum.seatable.com/) si desea recibir una insignia al completarlo con éxito.
 3. **Navegador**: Recomendamos Google Chrome.
 4. **Inglés**: El curso está disponible en varios idiomas, pero el cuestionario final, las capturas de pantalla y los datos de muestra utilizados están en inglés.
 
@@ -55,7 +55,7 @@ Al final, depende de usted qué conocimientos y habilidades se lleva de este cur
 Al final de este curso tendrá la oportunidad de poner a prueba sus conocimientos recién adquiridos en un cuestionario:
 
 - El [cuestionario](https://tally.so/r/wk5BXr) consiste en una mezcla de preguntas de opción múltiple y preguntas básicas, que irás acumulando a lo largo del tutorial.
-- Si lo superas con éxito, recibirás una [insignia para tu perfil del foro](https://forum.seatable.io/badges/106/completed-seatable-course-level-1). Este distintivo será visible cada vez que responda en el foro y pondrá de relieve sus habilidades ante el resto de usuarios.
+- Si lo superas con éxito, recibirás una [insignia para tu perfil del foro](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). Este distintivo será visible cada vez que responda en el foro y pondrá de relieve sus habilidades ante el resto de usuarios.
 
 ¿A qué esperamos? Empecemos.
 
