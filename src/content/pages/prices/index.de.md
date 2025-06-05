@@ -118,9 +118,6 @@ sections:
                 values: ['-', '-', '+', '+']
 
 
-    # details
-    # TODO: hinzufügen
-
     # details on-premise
     - name: 'content-9'
       weight: 3
