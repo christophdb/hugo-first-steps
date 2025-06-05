@@ -12,7 +12,7 @@ seo:
 
 Nos complace anunciar que SeaTable 1.0 por fin está listo.
 
-La principal diferencia entre SeaTable y las aplicaciones de hojas de cálculo tipo Excel es que SeaTable trabaja con filas y permite enlazar filas de diferentes tablas. En la versión SeaTable 1.0, mejoramos la función de vinculación de filas añadiendo dos funciones: "lookup" y "rollup". Lookup muestra una columna específica de una fila vinculada, rollup muestra el resumen de las filas vinculadas. Estas dos funciones permiten casos de uso avanzados para bases de datos. Los detalles pueden consultarse en esta [página del manual](https://docs.seatable.io/published/seatable-user-manual/link.md).
+La principal diferencia entre SeaTable y las aplicaciones de hojas de cálculo tipo Excel es que SeaTable trabaja con filas y permite enlazar filas de diferentes tablas. En la versión SeaTable 1.0, mejoramos la función de vinculación de filas añadiendo dos funciones: "lookup" y "rollup". Lookup muestra una columna específica de una fila vinculada, rollup muestra el resumen de las filas vinculadas. Estas dos funciones permiten casos de uso avanzados para bases de datos.
 
 ## Los cambios más importantes
 

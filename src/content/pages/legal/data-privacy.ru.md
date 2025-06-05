@@ -18,7 +18,7 @@ Version 1.3.0 from November 3, 2022
 
 ## 1. Data Protection at a Glance
 
-In this section, we provide you with an easy to navigate overview of what will happen with your personal data when you visit and use this online service. This online service comprises the website (seatable.io), the cloud service SeaTable Cloud (cloud.seatable.io), the team administration of SeaTable Cloud (account.seatable.io), the SeaTable Forum (forum.seatable.io) and SeaTable Ideas (ideas.seatable.io) as well as the store SeaTable Market (market.seatable.io). Personal data refers to all data that can be used to personally identify you. More information about privacy at SeaTable is available in the following sections.
+In this section, we provide you with an easy to navigate overview of what will happen with your personal data when you visit and use this online service. This online service comprises the website (seatable.io), the cloud service SeaTable Cloud (cloud.seatable.io), the team administration of SeaTable Cloud (account.seatable.io), the SeaTable Forum (forum.seatable.com) and SeaTable Ideas (ideas.seatable.com) as well as the store SeaTable Market (market.seatable.io). Personal data refers to all data that can be used to personally identify you. More information about privacy at SeaTable is available in the following sections.
 
 **Who is the responsible party for the recording of data on this website (i.e. the controller)?**
 

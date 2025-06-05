@@ -31,7 +31,7 @@ Uma vez habituado às diversas funções de análise do SeaTable, nunca mais vai
 
 [Vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) fáceis de utilizar asseguram-lhe sempre uma visão geral exacta dos dados de que necessita - e com várias estatísticas pode visualizar as suas avaliações rápida e facilmente.
 
-Além disso, com SeaTables diferentes [plug-ins]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}})) obtêm-se opções de visualização completamente novas para apoiar de forma óptima o seu trabalho.
+Além disso, com SeaTables diferentes [plug-ins]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) obtêm-se opções de visualização completamente novas para apoiar de forma óptima o seu trabalho.
 
 Por exemplo, um primeiro clique coloca as datas de um evento num calendário, um segundo clique mostra as fotografias que o acompanham numa galeria e um terceiro mostra os locais num mapa. Nunca mais vai querer passar sem isto.
 
@@ -53,7 +53,7 @@ Os campos relevantes, dependências, notificações, etc. são definidos no modo
 
 ### ... pode integrar-se sem problemas e expandir-se indefinidamente
 
-Fazer 1 + 1 = 3 ligando o SeaTable a outras aplicações e integrando-o noutras soluções. Graças ao [REST API](https://docs.seatable.io/published/seatable-api/home.md), isto não é um desafio.
+Fazer 1 + 1 = 3 ligando o SeaTable a outras aplicações e integrando-o noutras soluções. Graças ao REST API, isto não é um desafio.
 
 Os processos podem ser automatizados e normalizados com [scripts]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}).
 

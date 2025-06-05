@@ -12,7 +12,7 @@ seo:
 
 Nous sommes heureux de vous annoncer que SeaTable 1.0 est enfin prêt !
 
-La principale différence entre les applications SeaTable et les tableurs de type Excel réside dans le fait que SeaTable fonctionne avec des lignes et permet de relier des lignes de différents tableaux. Dans la version SeaTable 1.0, nous améliorons la fonction de liaison des lignes en ajoutant deux fonctions : "lookup" et "rollup". Lookup affiche une colonne spécifique d'une ligne liée, tandis que Rollup affiche le résumé des lignes liées. Ces deux fonctions permettent des cas d'utilisation avancés pour les bases de données. Vous trouverez les détails sur cette [page de manuel](https://docs.seatable.io/published/seatable-user-manual/link.md).
+La principale différence entre les applications SeaTable et les tableurs de type Excel réside dans le fait que SeaTable fonctionne avec des lignes et permet de relier des lignes de différents tableaux. Dans la version SeaTable 1.0, nous améliorons la fonction de liaison des lignes en ajoutant deux fonctions : "lookup" et "rollup". Lookup affiche une colonne spécifique d'une ligne liée, tandis que Rollup affiche le résumé des lignes liées. Ces deux fonctions permettent des cas d'utilisation avancés pour les bases de données.
 
 ## Les principaux changements
 
