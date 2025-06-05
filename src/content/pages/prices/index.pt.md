@@ -5,18 +5,117 @@ date: '2025-03-30'
 url: '/pt/preco'
 
 sections:
-    - name: hero-2
+    - name: hero-price
       weight: 1
       title: SeaTable Cloud. Feito sob medida para você.
       subtitle: O que oferecemos
       text: Comece gratuitamente e obtenha mais recursos e limites maiores a partir de € 7 por usuário/mês quando precisar
-      platform_selector: 'yes'
+      title2: SeaTable Server. Controle total para a sua organização.
+      subtitle2: O que você recebe
+      text2: Instale o SeaTable no seu próprio servidor e beneficie-se da máxima soberania de dados, personalização individual e de todas as funcionalidades empresariais.
 
     - name: 'price-1'
       weight: 2
+      xshow: 'showCloud'
 
-    # details
-    # TODO: hinzufügen
+    - name: price-table
+      weight: 3
+      xshow: 'showCloud'
+      classes:
+          - curved
+          - bg-gray-100
+      title: Compare todos os detalhes
+      table:
+          head: ['Grátis', 'Plus', 'Enterprise', 'Dedicado']
+          rows:
+              - type: section
+                label: 'Preço (por usuário, sem IVA)'
+              - key: 'Faturamento anual'
+                values: ['0€', '7€', '14€', '*']
+              - key: 'Faturamento mensal'
+                values: ['0€', '9€', '18€', '*']
+              - type: section
+                label: 'Uso (total por equipe)'
+              - key: 'Bases'
+                values: ['∞', '∞', '∞', '∞']
+              - key: 'Tabelas'
+                values: ['∞', '∞', '∞', '∞']
+              - key: 'Linhas'
+                values: ['10.000', '50.000', '∞', '∞']
+              - key: 'Espaço de armazenamento'
+                values: ['2 GB', '50 GB', '100 GB', '∞']
+              - key: 'Período de retenção de snapshots'
+                values: ['1 mês', '6 meses', '12 meses', '24 meses']
+              - key: 'Execuções de JavaScript (por mês)'
+                values: ['∞', '∞', '∞', '∞']
+              - key: 'Execuções de Python (por mês)'
+                values: ['100', '5.000', '∞', '∞']
+              - key: 'Tamanho máximo da equipe'
+                values: ['25', '∞', '∞', '∞']
+              - type: section
+                label: 'Funcionalidades'
+              - key: '25 tipos de colunas'
+                values: ['+', '+', '+', '+']
+              - key: 'Filtrar, agrupar e ordenar'
+                values: ['+', '+', '+', '+']
+              - key: 'Visualizações'
+                values: ['+', '+', '+', '+']
+              - key: 'Visualizações privadas'
+                values: ['-', '+', '+', '+']
+              - key: 'Compartilhamento de visualizações'
+                values: ['-', '+', '+', '+']
+              - key: 'Formulários web'
+                values: ['+', '+', '+', '+']
+              - key: 'Conjuntos de dados compartilhados'
+                values: ['+', '+', '+', '+']
+              - key: 'Importação / Exportação (CSV, XLSX e DTABLE)'
+                values: ['+', '+', '+', '+']
+              - key: 'Notificações'
+                values: ['+', '+', '+', '+']
+              - key: 'Plugins'
+                values: ['+', '+', '+', '+']
+              - key: 'Suporte a Javascript e Python'
+                values: ['+', '+', '+', '+']
+              - key: 'App Builder'
+                values: ['+', '+', '+', '+']
+              - key: 'Permissões de compartilhamento individual (Base)'
+                values: ['-', '+', '+', '+']
+              - key: 'Permissões de tabela, visualização e coluna (Base)'
+                values: ['-', '+', '+', '+']
+              - key: 'Bloqueio de linhas'
+                values: ['-', '+', '+', '+']
+              - key: 'Permissões de página (App)'
+                values: ['-', '-', '+', '+']
+              - key: 'Personalização de formulários web (logo, imagem de cabeçalho)'
+                values: ['-', '-', '+', '+']
+              - key: 'Automatizações'
+                values: ['-', '-', '+', '+']
+              - key: 'Armazenamento de Big Data'
+                values: ['-', '-', '+', '+']
+              - type: section
+                label: 'Suporte'
+              - key: 'Central de ajuda'
+                values: ['+', '+', '+', '+']
+              - key: 'Fórum SeaTable'
+                values: ['+', '+', '+', '+']
+              - key: 'Suporte por e-mail'
+                values: ['-', '-', '+', '+']
+              - key: 'Serviços profissionais (pagos)'
+                values: ['-', '-', '+', '+']
+              - type: section
+                label: 'Administração & Segurança'
+              - key: 'Autenticação em dois fatores'
+                values: ['+', '+', '+', '+']
+              - key: 'Painel de administração Enterprise'
+                values: ['-', '-', '-', '+']
+              - key: 'Autenticação via AD/LDAP, SAML ou OAuth'
+                values: ['-', '-', '-', '+']
+              - type: section
+                label: 'Faturamento'
+              - key: 'Pagamento com cartão de crédito'
+                values: ['+', '+', '+', '+']
+              - key: 'Pagamento por transferência bancária (mín. 10 usuários, pagamento anual)'
+                values: ['-', '-', '+', '+']
 
     # details on-premise
     - name: 'content-9'

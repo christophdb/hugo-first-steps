@@ -1,0 +1,47 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  classes:
+    - bg-[#ece5e2]
+  title: 
+  subtitle: 
+  text: 
+  image:
+  image_alt:
+        </code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+{{ $classes := .classes | default "" }}
+<section class="padding">
+    <section id="customers" class="max-container">
+        <div class="mx-auto mb-8 max-w-4xl text-center">
+            <p class="gradient font-poppins text-2xl font-bold">
+                <span x-show="showCloud">{{ .subtitle }}</span>
+                <span x-show="!showCloud">{{ .subtitle2 }}</span>
+            </p>
+            <h1 class="mt-1 text-5xl font-bold leading-[1.1em]">
+                <span x-show="showCloud">{{ .title }}</span>
+                <span x-show="!showCloud">{{ .title2 }}</span>
+            </h1>
+            {{ if .text }}
+                <p class="mt-12 text-lg leading-normal">
+                    <span x-show="showCloud">{{ .text | markdownify }}</span>
+                    <span x-show="!showCloud">{{ .text2 | markdownify }}</span>
+                </p>
+            {{ end }}
+        </div>
+        {{ if .image }}
+            <div class="max-container max-h-[300px] w-full">
+                <img src="{{ .image }}" alt="{{ .image_alt }}" class="" />
+            </div>
+        {{ end }}
+
+        {{ partial "content-blocks/platform-selector.html" . }}
+
+    </section>
+</section>

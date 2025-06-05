@@ -5,18 +5,119 @@ date: '2025-03-30'
 url: '/es/precio'
 
 sections:
-    - name: hero-2
+    - name: hero-price
       weight: 1
       title: SeaTable Cloud. Hecho a tu medida.
       subtitle: Lo que ofrecemos
       text: Empieza gratis y obtén más funciones y límites más altos desde 7€ por usuario al mes cuando lo necesites
-      platform_selector: 'yes'
+      title2: SeaTable Server. Control total para su organización.
+      subtitle2: Lo que obtiene
+      text2: Instale SeaTable en su propio servidor y benefíciese de la máxima soberanía de datos, personalización individual y todas las funciones empresariales.
+
 
     - name: 'price-1'
       weight: 2
+      xshow: 'showCloud'
 
-    # details
-    # TODO: hinzufügen
+    - name: price-table
+      weight: 3
+      xshow: 'showCloud'
+      classes:
+        - curved
+        - bg-gray-100
+      title: Compare todos los detalles
+      table:
+        head: ['Gratis', 'Plus', 'Enterprise', 'Dedicado']
+        rows:
+          - type: section
+            label: 'Precio (por usuario, sin IVA)'
+          - key: 'Facturación anual'
+            values: ['0€', '7€', '14€', '*']
+          - key: 'Facturación mensual'
+            values: ['0€', '9€', '18€', '*']
+          - type: section
+            label: 'Uso (total por equipo)'
+          - key: 'Bases'
+            values: ['∞', '∞', '∞', '∞']
+          - key: 'Tablas'
+            values: ['∞', '∞', '∞', '∞']
+          - key: 'Filas'
+            values: ['10.000', '50.000', '∞', '∞']
+          - key: 'Espacio de almacenamiento'
+            values: ['2 GB', '50 GB', '100 GB', '∞']
+          - key: 'Período de retención de instantáneas'
+            values: ['1 mes', '6 meses', '12 meses', '24 meses']
+          - key: 'Ejecuciones de JavaScript (por mes)'
+            values: ['∞', '∞', '∞', '∞']
+          - key: 'Ejecuciones de Python (por mes)'
+            values: ['100', '5.000', '∞', '∞']
+          - key: 'Tamaño máximo del equipo'
+            values: ['25', '∞', '∞', '∞']
+          - type: section
+            label: 'Funciones'
+          - key: '25 tipos de columnas'
+            values: ['+', '+', '+', '+']
+          - key: 'Filtrar, agrupar y ordenar'
+            values: ['+', '+', '+', '+']
+          - key: 'Vistas'
+            values: ['+', '+', '+', '+']
+          - key: 'Vistas privadas'
+            values: ['-', '+', '+', '+']
+          - key: 'Compartir vistas'
+            values: ['-', '+', '+', '+']
+          - key: 'Formularios web'
+            values: ['+', '+', '+', '+']
+          - key: 'Conjuntos de datos compartidos'
+            values: ['+', '+', '+', '+']
+          - key: 'Importar / Exportar (CSV, XLSX y DTABLE)'
+            values: ['+', '+', '+', '+']
+          - key: 'Notificaciones'
+            values: ['+', '+', '+', '+']
+          - key: 'Plugins'
+            values: ['+', '+', '+', '+']
+          - key: 'Soporte de Javascript y Python'
+            values: ['+', '+', '+', '+']
+          - key: 'App Builder'
+            values: ['+', '+', '+', '+']
+          - key: 'Permisos de compartición individual (Base)'
+            values: ['-', '+', '+', '+']
+          - key: 'Permisos de tabla, vista y columna (Base)'
+            values: ['-', '+', '+', '+']
+          - key: 'Bloqueo de filas'
+            values: ['-', '+', '+', '+']
+          - key: 'Permisos de página (App)'
+            values: ['-', '-', '+', '+']
+          - key: 'Personalización de formularios web (logo, imagen de cabecera)'
+            values: ['-', '-', '+', '+']
+          - key: 'Automatizaciones'
+            values: ['-', '-', '+', '+']
+          - key: 'Almacenamiento de Big Data'
+            values: ['-', '-', '+', '+']
+          - type: section
+            label: 'Soporte'
+          - key: 'Centro de ayuda'
+            values: ['+', '+', '+', '+']
+          - key: 'Foro de SeaTable'
+            values: ['+', '+', '+', '+']
+          - key: 'Soporte por correo electrónico'
+            values: ['-', '-', '+', '+']
+          - key: 'Servicios profesionales (de pago)'
+            values: ['-', '-', '+', '+']
+          - type: section
+            label: 'Administración y seguridad'
+          - key: 'Autenticación de dos factores'
+            values: ['+', '+', '+', '+']
+          - key: 'Panel de administración empresarial'
+            values: ['-', '-', '-', '+']
+          - key: 'Autenticación mediante AD/LDAP, SAML u OAuth'
+            values: ['-', '-', '-', '+']
+          - type: section
+            label: 'Facturación'
+          - key: 'Pago con tarjeta de crédito'
+            values: ['+', '+', '+', '+']
+          - key: 'Pago por transferencia bancaria (mín. 10 usuarios, pago anual)'
+            values: ['-', '-', '+', '+']
+
 
     # details on-premise
     - name: 'content-9'
