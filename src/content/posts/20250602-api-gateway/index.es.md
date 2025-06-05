@@ -8,7 +8,7 @@ color: '#c5e8bc'
 
 Con el lanzamiento de SeaTable v5.3, la API de SeaTable sólo será accesible a través de la nueva pasarela API. El acceso directo a los anteriores puntos finales de `dtable-db` y `dtable-server` **se eliminará por completo**.
 
-Tras haber anunciado ya este importante cambio [en el foro](https://forum.seatable.io/t/important-changes-to-the-seatable-cloud-api-in-version-5-3/6677), en este artículo explicamos los antecedentes del cambio, las ventajas específicas y los puntos más importantes que los desarrolladores deben tener en cuenta a partir de ahora.
+Tras haber anunciado ya este importante cambio [en el foro](https://forum.seatable.com/t/important-changes-to-the-seatable-cloud-api-in-version-5-3/6677), en este artículo explicamos los antecedentes del cambio, las ventajas específicas y los puntos más importantes que los desarrolladores deben tener en cuenta a partir de ahora.
 
 ## Destinatarios de este artículo
 

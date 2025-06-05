@@ -82,7 +82,7 @@ Der Austausch des Plugins war nötig geworden, da das “alte” Whiteboard-Plug
 
 Mit der Veröffentlichung von Version 5.2 möchten wir eine wichtige Änderung an der API von SeaTable ankündigen. Dies betrifft nur Anwender, die mithilfe der API ihre eigenen Anwendungen und Workflows umsetzen. Auf die Nutzung im Webinterface haben diese Änderungen keinen Einfluss.
 
-In diesem [Forumspost](https://forum.seatable.io/t/important-changes-to-api-and-seatable-cloud-with-version-5-2/6317) finden Sie Details zu den Änderungen. Hier die wichtigsten Punkte in der Übersicht:
+In diesem [Forumspost](https://forum.seatable.com/t/important-changes-to-api-and-seatable-cloud-with-version-5-2/6317) finden Sie Details zu den Änderungen. Hier die wichtigsten Punkte in der Übersicht:
 
 - Zur Harmonisierung der API-Struktur werden bestimmte Endpunkte als veraltet markiert. Neue Endpunkte stehen bereits zur Verfügung.
 - Mit Version 6.0 werden die veralteten Endpunkte deaktiviert.

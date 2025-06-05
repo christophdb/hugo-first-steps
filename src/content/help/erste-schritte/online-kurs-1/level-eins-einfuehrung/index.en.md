@@ -40,7 +40,7 @@ You will learn all this by setting up a base for recording your private or profe
 The following requirements are necessary for you to complete this online course:
 
 1. **SeaTable**: You can use any SeaTable system. The easiest way to do this is with a [free SeaTable Cloud account]({{< relref "pages/registration" >}}).
-2. **Forum**: An [account in our community forum](https://forum.seatable.io/) if you would like to receive a badge upon successful completion.
+2. **Forum**: An [account in our community forum](https://forum.seatable.com/) if you would like to receive a badge upon successful completion.
 3. **Browser**: We recommend Google Chrome.
 4. **English**: The course is available in several languages, but the final quiz, the screenshots and the sample data used are in English.
 
@@ -55,7 +55,7 @@ In the end, it's up to you what knowledge and skills you take away from this onl
 At the end of this course you will have the opportunity to test your newly acquired knowledge in a quiz:
 
 - The [quiz](https://tally.so/r/wk5BXr) consists of a mixture of multiple-choice and base questions, which you will build up over the course of the tutorial.
-- If you pass this successfully, you will receive a [badge for your forum profile](https://forum.seatable.io/badges/106/completed-seatable-course-level-1). This badge will then be visible every time you reply in the forum and will make your skills clear to all other users.
+- If you pass this successfully, you will receive a [badge for your forum profile](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). This badge will then be visible every time you reply in the forum and will make your skills clear to all other users.
 
 What are we waiting for? Let's get started!
 

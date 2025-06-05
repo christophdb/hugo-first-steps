@@ -42,7 +42,7 @@ sections:
             subtitle: Comunidad SeaTable
             text: Recursos comunitarios y foros para entusiastas de Docker donde discutir soluciones técnicas, intercambiar ideas y mantenerse conectado.
             buttons:
-                - link: 'https://forum.seatable.io'
+                - link: 'https://forum.seatable.com'
                   label: 'Foro de la Comunidad'
 
     - name: faq

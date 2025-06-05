@@ -75,4 +75,4 @@ On the topic of activity overview: This menu itself is hardly recognizable with 
 
 Small, impactful changes have also been brought upon the table view! When opening a base for the first time, its description will automatically push to the front. This is extremely helpful when sharing bases with others. Before diving into the data, they will be confronted with the instructions that you want them to read.
 
-Feel inspired or interested? Allow us to remind you that registering is incredibly easy and SeaTable is permanently free of charge. If you have any questions or doubts, feel free to reach out to us via the [SeaTable Forum](https://forum.seatable.io).
+Feel inspired or interested? Allow us to remind you that registering is incredibly easy and SeaTable is permanently free of charge. If you have any questions or doubts, feel free to reach out to us via the [SeaTable Forum](https://forum.seatable.com).

@@ -76,4 +76,4 @@ Y, por supuesto, también hemos corregido algunos errores:
 - Las condiciones de filtrado de la columna de selección simple se adaptaron a las de la columna de selección múltiple.
 - Las columnas de casillas de verificación y de selección múltiple ahora se pueden ordenar.
 - La función de búsqueda incluye ahora a los miembros del personal, así como columnas de selección simple y múltiple.
-- La opción FREEZE_USER_ON_LOGIN_FAILED, que hace que las cuentas de usuario se bloqueen tras un determinado número de intentos de inicio de sesión no autorizados, vuelve a funcionar. [Gracias al usuario mtmail por señalarlo.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)
+- La opción FREEZE_USER_ON_LOGIN_FAILED, que hace que las cuentas de usuario se bloqueen tras un determinado número de intentos de inicio de sesión no autorizados, vuelve a funcionar. [Gracias al usuario mtmail por señalarlo.](https://forum.seatable.com/t/v1-7-1-freeze-account-and-fail2ban/296)

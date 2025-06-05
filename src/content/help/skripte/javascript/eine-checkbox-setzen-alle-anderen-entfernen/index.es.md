@@ -10,7 +10,7 @@ url: '/es/ayuda/eine-checkbox-setzen-alle-anderen-entfernen'
 
 Imagine que desea activar siempre una casilla de verificación exactamente en una fila de una base. Cuando se activa esta casilla de verificación, todas las demás casillas de verificación que puedan estar llenas deben desactivarse. Esto se puede hacer fácilmente con un script, por ejemplo, a través de un botón.
 
-{{< warning  headline="Gracias por esta aportación de la comunidad"  text="Muchas gracias a Jörg que publicó este script en el [foro de la comunidad SeaTable](https://forum.seatable.io/t/tutorial-default-column-with-simple-js-script/2266)." />}}
+{{< warning  headline="Gracias por esta aportación de la comunidad"  text="Muchas gracias a Jörg que publicó este script en el [foro de la comunidad SeaTable](https://forum.seatable.com/t/tutorial-default-column-with-simple-js-script/2266)." />}}
 
 ## El resultado
 

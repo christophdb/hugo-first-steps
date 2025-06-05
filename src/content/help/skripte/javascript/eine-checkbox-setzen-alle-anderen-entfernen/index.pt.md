@@ -10,7 +10,7 @@ url: '/pt/ajuda/eine-checkbox-setzen-alle-anderen-entfernen'
 
 Imagine que pretende ativar sempre uma caixa de verificação em exatamente uma linha de uma base. Quando esta caixa de verificação é activada, todas as outras caixas de verificação que podem ser preenchidas devem ser desactivadas. Isto pode ser feito facilmente com um script, por exemplo, através de um botão.
 
-{{< warning  headline="Obrigado por este contributo da comunidade"  text="Muito obrigado a Jörg que publicou este script no [fórum da comunidade SeaTable](https://forum.seatable.io/t/tutorial-default-column-with-simple-js-script/2266)." />}}
+{{< warning  headline="Obrigado por este contributo da comunidade"  text="Muito obrigado a Jörg que publicou este script no [fórum da comunidade SeaTable](https://forum.seatable.com/t/tutorial-default-column-with-simple-js-script/2266)." />}}
 
 ## O resultado
 

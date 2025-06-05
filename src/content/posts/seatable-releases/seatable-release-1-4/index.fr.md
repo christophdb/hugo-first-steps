@@ -74,4 +74,4 @@ Au sujet de l'aperçu des activités : ce menu lui-même est à peine reconnaiss
 
 De petites mais fines améliorations ont également été apportées à la vue des tableaux. Lorsque vous ouvrez une base pour la première fois, la description de la base est automatiquement appelée. Ceci est très utile lorsque vous partagez des bases avec d'autres personnes. De cette façon, vos collègues reçoivent les informations que vous voulez qu'ils voient avant de se plonger dans les données.
 
-Êtes-vous intéressé ou même inspiré ? Alors qu'attendez-vous ? L'inscription se fait en un rien de temps et SeaTable est définitivement gratuit ! Si vous avez des questions ou des doutes, des idées ou des commentaires, veuillez nous écrire ou laisser un commentaire dans le [forum](https://forum.seatable.io).
+Êtes-vous intéressé ou même inspiré ? Alors qu'attendez-vous ? L'inscription se fait en un rien de temps et SeaTable est définitivement gratuit ! Si vous avez des questions ou des doutes, des idées ou des commentaires, veuillez nous écrire ou laisser un commentaire dans le [forum](https://forum.seatable.com).

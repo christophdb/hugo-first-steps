@@ -42,7 +42,7 @@ sections:
             subtitle: Сообщество SeaTable
             text: Ресурсы сообщества и форумы для энтузиастов Docker, чтобы обсуждать технические решения, обмениваться идеями и оставаться на связи.
             buttons:
-                - link: 'https://forum.seatable.io'
+                - link: 'https://forum.seatable.com'
                   label: 'Форум сообщества'
 
     - name: faq

@@ -74,4 +74,4 @@ Cruzamos los dedos para que la pandemia de Corona sea pronto algo para los libro
 
 En esta nota de la versión sólo se comentan en detalle los cambios más importantes. El registro de cambios contiene el historial completo de cambios. Echa un vistazo allí! Entre las mejoras menores que vale la pena mencionar están los disparadores de tiempo para los scripts de Python (véase [la nota de lanzamiento de SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})) y la eliminación de los problemas de rendimiento cuando se manejan conjuntos más grandes de filas en el editor de tablas.
 
-Obtenga una cuenta SeaTable para su equipo y utilice SeaTable de forma permanente y gratuita. Agradecemos sus opiniones y comentarios en el [foro](https://forum.seatable.io/).
+Obtenga una cuenta SeaTable para su equipo y utilice SeaTable de forma permanente y gratuita. Agradecemos sus opiniones y comentarios en el [foro](https://forum.seatable.com/).

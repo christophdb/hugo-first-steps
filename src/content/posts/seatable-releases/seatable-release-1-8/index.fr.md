@@ -76,4 +76,4 @@ Et bien sûr, nous avons aussi corrigé quelques bugs :
 - Les conditions de filtrage de la colonne de sélection simple ont été alignées sur celles de la colonne de sélection multiple.
 - Les cases à cocher et les colonnes à choix multiples peuvent désormais être triées.
 - La fonction de recherche inclut désormais les collaborateurs ainsi que les colonnes de sélection simple et multiple.
-- L'option FREEZE_USER_ON_LOGIN_FAILED, qui permet de bloquer les comptes d'utilisateurs après un certain nombre de tentatives de connexion non autorisées, fonctionne à nouveau. [Merci à l'utilisateur mtmail pour cette remarque.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)
+- L'option FREEZE_USER_ON_LOGIN_FAILED, qui permet de bloquer les comptes d'utilisateurs après un certain nombre de tentatives de connexion non autorisées, fonctionne à nouveau. [Merci à l'utilisateur mtmail pour cette remarque.](https://forum.seatable.com/t/v1-7-1-freeze-account-and-fail2ban/296)

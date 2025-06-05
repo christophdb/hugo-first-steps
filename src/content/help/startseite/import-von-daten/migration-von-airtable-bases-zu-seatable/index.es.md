@@ -14,7 +14,7 @@ Für den Transfer der Airtable Daten in SeaTable haben wir ein Migrationsskript 
 
 Das Skript kann jeder – Techniker wie nicht-Techniker – verwenden. Es sind nur ein paar **manuelle Angaben** erforderlich, um das Skript betriebsbereit zu machen. In diesem Artikel erklären wir, wie Sie das machen.
 
-{{< warning  headline="Wichtiger Hinweis"  text="Das Migrationsskript ist funktional, aber noch beta. Wir passen es fortlaufend an und optimieren es. Bei Problemen hinterlassen Sie bitte einen Post im [SeaTable Forum](https://forum.seatable.io/)." />}}
+{{< warning  headline="Wichtiger Hinweis"  text="Das Migrationsskript ist funktional, aber noch beta. Wir passen es fortlaufend an und optimieren es. Bei Problemen hinterlassen Sie bitte einen Post im [SeaTable Forum](https://forum.seatable.com/)." />}}
 
 ## Wie Sie eine Base von Airtable zu SeaTable migrieren
 
@@ -276,7 +276,7 @@ Zum anderen müssen Sie auch Ansichten selbst anlegen, da diese nicht aus der Ai
 Wenn Sie eine Fehlermeldung erhalten, dann ist dies grundsätzlich kein Problem. Daten können keine verloren gehen. Gehen Sie wie folgt vor, um die Ursache des Fehlers zu finden:  
 – Die Fehlermeldung gibt Ihnen in den meisten Fällen ein Hinweis, wo der Fehler zu finden ist. Folgen Sie diesem, korrigieren Sie die eingegebenen Parameter und führen Sie das Skript erneut aus. Ein Einrückungsfehler (englich “indentation”) beispielsweise verweist auf eine nicht der Python-Syntax entsprechende Einrückung hin.  
 – Ist die Fehlermeldung unverständlich, prüfen Sie alle Eingaben auf Korrektheit und versuchen Sie es nochmals.  
-– Wenn keiner der Tipps hilft, holen Sie sich Hilfe im [SeaTable Forum](https://forum.seatable.io/).
+– Wenn keiner der Tipps hilft, holen Sie sich Hilfe im [SeaTable Forum](https://forum.seatable.com/).
 
 {{< warning  headline="Wichtiger Hinweis"  text="Bitte entfernen Sie API-Token, den PAT und die Base-ID, bevor Sie Screenshots oder Skripte im Forum posten." />}}
 {{< /faq >}}

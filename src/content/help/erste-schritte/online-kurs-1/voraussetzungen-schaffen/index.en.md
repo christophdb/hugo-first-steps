@@ -38,9 +38,9 @@ The third option is our SeaTable Dedicated. With this premium offer, which we of
 
 ## SeaTable Community Forum
 
-Our [community forum](https://forum.seatable.io) is an important communication channel for everyone who wants to use SeaTable. On the one hand, we regularly publish news about SeaTable as well as tips and tricks for efficient use. At the same time, you have the opportunity to post in the forum if you have questions or problems with SeaTable. A third aspect that should not be neglected is the direct exchange between SeaTable users. Many users willingly share their experiences and successes with others.
+Our [community forum](https://forum.seatable.com) is an important communication channel for everyone who wants to use SeaTable. On the one hand, we regularly publish news about SeaTable as well as tips and tricks for efficient use. At the same time, you have the opportunity to post in the forum if you have questions or problems with SeaTable. A third aspect that should not be neglected is the direct exchange between SeaTable users. Many users willingly share their experiences and successes with others.
 
-Registering for the Community Forum is very easy. At https://forum.seat [able.io/signup](https://forum.seatable.io/signup) you will find the registration form, which only requires your name, e-mail address, user name and a password. You will then receive an e-mail with an activation link. As soon as you have confirmed this, you can become active in the forum. Please make a note of your user name, as you will need it at the start of the quiz.
+Registering for the Community Forum is very easy. At https://forum.seat [able.io/signup](https://forum.seatable.com/signup) you will find the registration form, which only requires your name, e-mail address, user name and a password. You will then receive an e-mail with an activation link. As soon as you have confirmed this, you can become active in the forum. Please make a note of your user name, as you will need it at the start of the quiz.
 
 In any case, we recommend that you register in our forum, as the successful completion of the quiz at the end of this online course will automatically assign the corresponding badge to your forum account.
 

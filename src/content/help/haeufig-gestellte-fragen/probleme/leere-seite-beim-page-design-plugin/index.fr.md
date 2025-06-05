@@ -14,4 +14,4 @@ Lors de la création d'un nouveau document PDF à l'aide du [plug-in de concepti
 
 ## Plus d'informations sur cette erreur
 
-- [https://forum.seatable.io/t/pdf-file-has-2-pages-although-should-only-have-1/1880](https://forum.seatable.io/t/pdf-file-has-2-pages-although-should-only-have-1/1880)
+- [https://forum.seatable.com/t/pdf-file-has-2-pages-although-should-only-have-1/1880](https://forum.seatable.com/t/pdf-file-has-2-pages-although-should-only-have-1/1880)

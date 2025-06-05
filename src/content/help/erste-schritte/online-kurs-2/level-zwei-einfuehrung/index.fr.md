@@ -29,7 +29,7 @@ L'ensemble du processus commercial est reproduit dans SeaTable, ce qui vous perm
 Pour suivre ce cours avec succès, il vous faut
 
 1. **SeaTable**: utilisez n'importe quel système SeaTable. Le plus simple est d'avoir un [compte SeaTable Cloud gratuit](https://seatable.io/fr/enregistrement/).
-2. **Un forum**: Un [compte sur notre forum communautaire](https://forum.seatable.io/), si vous souhaitez obtenir un badge à la fin du cours.
+2. **Un forum**: Un [compte sur notre forum communautaire](https://forum.seatable.com/), si vous souhaitez obtenir un badge à la fin du cours.
 3. **Envoi de courrier**: un [compte chez Mailtrap](https://mailtrap.io/) pour simuler l'envoi de courrier depuis SeaTable.
 4. **Navigateur**: Nous recommandons l'utilisation de Google Chrome.
 5. **Anglais**: le cours est disponible en plusieurs langues, mais le quiz, les captures d'écran et les données d'exemple sont en anglais.
@@ -43,7 +43,7 @@ Le cours dure **environ une heure**, mais vous pouvez le suivre à votre propre 
 À la fin de ce cours, vous pourrez vérifier vos connaissances en répondant à un quiz :
 
 - Le [quiz](https://tally.so/r/mDDbpb) est en anglais et se compose de questions à choix multiples ainsi que de tâches relatives au processus que vous avez mis en œuvre.
-- Si vous réussissez, vous recevrez un [badge pour votre profil sur le forum](https://forum.seatable.io/badges/107/completed-seatable-course-level-2), qui rendra vos compétences visibles.
+- Si vous réussissez, vous recevrez un [badge pour votre profil sur le forum](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), qui rendra vos compétences visibles.
 
 Qu'est-ce qu'on attend ? C'est parti !
 

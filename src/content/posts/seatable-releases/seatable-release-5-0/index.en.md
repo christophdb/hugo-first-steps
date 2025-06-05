@@ -80,7 +80,7 @@ Here is an overview of the most important points:
 - The format of the return values of link and link formula columns is harmonized.
 - The _API-Gateway_ will return the current API usage limit in future.
 
-If you want to find out more, you can find all the details about the changes in this [forum post](https://forum.seatable.io/t/important-changes-to-api-and-seatable-cloud-with-version-5-0/4887).
+If you want to find out more, you can find all the details about the changes in this [forum post](https://forum.seatable.com/t/important-changes-to-api-and-seatable-cloud-with-version-5-0/4887).
 
 ## And much more
 

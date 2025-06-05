@@ -40,7 +40,7 @@ Dies alles werden Sie durch den Aufbau einer Base zur Erfassung Ihrer privaten o
 Folgende Voraussetzungen sind notwendig, damit Sie diesen Online Kurs absolvieren können:
 
 1. **SeaTable**: Sie können jedes SeaTable System verwenden. Am einfachsten geht es mit einem [kostenlosen SeaTable Cloud Account]({{< relref "pages/registration" >}}).
-2. **Forum**: Einen [Account in unserem Community-Forum](https://forum.seatable.io/), wenn Sie nach erfolgreichem Abschluss ein Abzeichen erhalten möchten.
+2. **Forum**: Einen [Account in unserem Community-Forum](https://forum.seatable.com/), wenn Sie nach erfolgreichem Abschluss ein Abzeichen erhalten möchten.
 3. **Browser**: Wir empfehlen Google Chrome.
 4. **Englisch**: Der Kurs ist in mehreren Sprachen verfügbar, das abschließende Quiz, die Screenshots und die verwendeten Beispieldaten sind jedoch auf Englisch.
 
@@ -55,7 +55,7 @@ Am Ende liegt es an Ihnen, welche Erkenntnisse und Fähigkeiten Sie aus diesem O
 Am Ende dieses Kurses haben Sie die Möglichkeit, Ihr neu erworbenes Wissen in einem Quiz zu überprüfen:
 
 - Das [englischsprachige Quiz](https://tally.so/r/wk5BXr) besteht aus einer Mischung aus Multiple-Choice-Fragen und Fragen zur Base, welche Sie im Laufe des Tutorials aufbauen werden.
-- Wenn Sie dieses erfolgreich bestehen, erhalten Sie ein [Abzeichen für Ihr Forums-Profil](https://forum.seatable.io/badges/106/completed-seatable-course-level-1). Dieses ist dann bei jeder Antworten von Ihnen im Forum sichtbar und verdeutlicht allen anderen Usern Ihre Fähigkeiten.
+- Wenn Sie dieses erfolgreich bestehen, erhalten Sie ein [Abzeichen für Ihr Forums-Profil](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). Dieses ist dann bei jeder Antworten von Ihnen im Forum sichtbar und verdeutlicht allen anderen Usern Ihre Fähigkeiten.
 
 Worauf warten wir? Lassen Sie uns loslegen!
 

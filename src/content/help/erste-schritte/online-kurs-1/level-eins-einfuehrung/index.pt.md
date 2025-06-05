@@ -40,7 +40,7 @@ Aprenderá tudo isto através da criação de uma base de registo das suas despe
 Os seguintes requisitos são necessários para concluir este curso em linha:
 
 1. **SeaTable**: Pode utilizar qualquer sistema SeaTable. A forma mais fácil de o fazer é com uma [conta gratuita SeaTable Cloud]({{< relref "pages/registration" >}}).
-2. **Fórum**: Uma [conta no nosso fórum da comunidade](https://forum.seatable.io/) se quiser receber um distintivo após a conclusão com êxito.
+2. **Fórum**: Uma [conta no nosso fórum da comunidade](https://forum.seatable.com/) se quiser receber um distintivo após a conclusão com êxito.
 3. **Navegador**: Recomendamos o Google Chrome.
 4. **Inglês**: O curso está disponível em várias línguas, mas o questionário final, as capturas de ecrã e os dados de amostra utilizados estão em inglês.
 
@@ -55,7 +55,7 @@ No final, cabe-lhe a si decidir quais os conhecimentos e competências que retir
 No final do curso, terá a oportunidade de testar os seus conhecimentos recém-adquiridos num teste:
 
 - O [questionário](https://tally.so/r/wk5BXr) é constituído por uma mistura de perguntas de escolha múltipla e de perguntas de base, que irá construir ao longo do tutorial.
-- Se fores bem sucedido, receberás um [emblema no teu perfil do fórum](https://forum.seatable.io/badges/106/completed-seatable-course-level-1). Este distintivo será visível sempre que responder no fórum e destacará as suas competências para todos os outros utilizadores.
+- Se fores bem sucedido, receberás um [emblema no teu perfil do fórum](https://forum.seatable.com/badges/106/completed-seatable-course-level-1). Este distintivo será visível sempre que responder no fórum e destacará as suas competências para todos os outros utilizadores.
 
 De que é que estamos à espera? Vamos lá começar!
 

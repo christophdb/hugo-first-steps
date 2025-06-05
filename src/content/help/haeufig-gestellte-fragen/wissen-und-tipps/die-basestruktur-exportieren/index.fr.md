@@ -67,6 +67,6 @@ Table: price range (ID: 5H74)
 
 ## Utiliser la structure de base pour une entrée dans le forum de la communauté
 
-Lorsque vous ouvrez un nouveau sujet dans le [forum SeaTable](https://forum.seatable.io) en cliquant sur le bouton **\+ New Topic**, vous pouvez insérer votre structure de base sous forme de **texte préformaté** afin d'illustrer le problème.
+Lorsque vous ouvrez un nouveau sujet dans le [forum SeaTable](https://forum.seatable.com) en cliquant sur le bouton **\+ New Topic**, vous pouvez insérer votre structure de base sous forme de **texte préformaté** afin d'illustrer le problème.
 
 ![Poster le résultat sur le forum](images/new-topic-with-preformatted-text.png)

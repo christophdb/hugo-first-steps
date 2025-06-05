@@ -14,7 +14,7 @@ We have developed a migration script for the transfer of Airtable data to SeaTab
 
 The script can be used by anyone - technicians and non-technicians alike. Only a few **manual entries** are required to make the script ready for use. In this article, we explain how to do this.
 
-{{< warning  headline="Important note"  text="The migration script is functional, but still beta. We are constantly adapting and optimizing it. If you have any problems, please leave a post in the [SeaTable forum](https://forum.seatable.io/)." />}}
+{{< warning  headline="Important note"  text="The migration script is functional, but still beta. We are constantly adapting and optimizing it. If you have any problems, please leave a post in the [SeaTable forum](https://forum.seatable.com/)." />}}
 
 ## How to migrate a Base from Airtable to SeaTable
 
@@ -276,7 +276,7 @@ On the other hand, you must also create views yourself, as these are not transfe
 If you receive an error message, this is generally not a problem. No data can be lost. Proceed as follows to find the cause of the error:  
 \- In most cases, the error message will give you a hint where to find the error. Follow it, correct the entered parameters and run the script again. An indentation error, for example, indicates that the indentation does not conform to Python syntax.  
 \- If the error message is incomprehensible, check all entries for correctness and try again.  
-\- If none of the tips help, get help in the [SeaTable Forum](https://forum.seatable.io/).
+\- If none of the tips help, get help in the [SeaTable Forum](https://forum.seatable.com/).
 
 {{< warning  headline="Important note"  text="Please remove the API token, the PAT and the base ID before posting screenshots or scripts in the forum." />}}
 {{< /faq >}}

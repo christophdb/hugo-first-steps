@@ -29,7 +29,7 @@ Todo o processo comercial é mapeado no SeaTable para que se possa concentrar to
 Para concluir com êxito este curso, é necessário:
 
 1. **SeaTable**: Utilize qualquer sistema SeaTable. A forma mais fácil de o fazer é com uma [conta gratuita SeaTable Cloud]({{< relref "pages/registration" >}}).
-2. **Fórum**: Uma [conta no nosso fórum da comunidade](https://forum.seatable.io/) se quiser receber um distintivo depois de concluir o curso.
+2. **Fórum**: Uma [conta no nosso fórum da comunidade](https://forum.seatable.com/) se quiser receber um distintivo depois de concluir o curso.
 3. **Envio de correio**: Uma [conta com o Mailtrap](https://mailtrap.io/) para simular o envio de correio do SeaTable.
 4. **Navegador**: Recomendamos a utilização do Google Chrome.
 5. **Inglês**: O curso está disponível em várias línguas, mas o questionário, as capturas de ecrã e os dados de amostra estão em inglês.
@@ -43,7 +43,7 @@ O curso dura **cerca de uma hora**, mas pode ser efectuado ao seu próprio ritmo
 No final do curso, pode testar os seus conhecimentos através de um questionário:
 
 - O [teste](https://tally.so/r/mDDbpb) é em inglês e consiste em perguntas de escolha múltipla e tarefas relacionadas com o processo que implementou.
-- Após a conclusão bem sucedida, receberá um [emblema no seu perfil do fórum](https://forum.seatable.io/badges/107/completed-seatable-course-level-2), que mostra as suas competências.
+- Após a conclusão bem sucedida, receberá um [emblema no seu perfil do fórum](https://forum.seatable.com/badges/107/completed-seatable-course-level-2), que mostra as suas competências.
 
 De que é que estamos à espera? Vamos lá!
 

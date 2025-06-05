@@ -77,4 +77,4 @@ Lastly, we have also fixed some bugs:
 - The filter conditions of single select columns have been aligned with those of multiple select columns.
 - Checkboxes and multiple select columns are now sortable.
 - The search function now also includes collaborator as well as single and multiple select columns.
-- The FREEZE_USER_ON_LOGIN_FAILED option works again - [thanks to user mtmail for pointing this out.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)
+- The FREEZE_USER_ON_LOGIN_FAILED option works again - [thanks to user mtmail for pointing this out.](https://forum.seatable.com/t/v1-7-1-freeze-account-and-fail2ban/296)

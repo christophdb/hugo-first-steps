@@ -14,7 +14,7 @@ Nous avons développé un script de migration pour le transfert des données Air
 
 Tout le monde – techniciens et non-techniciens – peut utiliser le script. Seuls quelques **détails manuels** sont nécessaires pour rendre le script opérationnel. Dans cet article, nous expliquons comment procéder.
 
-{{< warning  headline="Remarque importante"  text="Le script de migration est fonctionnel, mais encore bêta. Nous l'adaptons et l'optimisons en permanence. En cas de problème, veuillez laisser un message sur le [forum SeaTable](https://forum.seatable.io/)." />}}
+{{< warning  headline="Remarque importante"  text="Le script de migration est fonctionnel, mais encore bêta. Nous l'adaptons et l'optimisons en permanence. En cas de problème, veuillez laisser un message sur le [forum SeaTable](https://forum.seatable.com/)." />}}
 
 ## Comment migrer une base d'Airtable vers SeaTable
 
@@ -276,7 +276,7 @@ D'un autre côté, vous devez également créer vous-même des vues, car celles-
 Si vous recevez un message d'erreur, ce n'est en principe pas un problème. Aucune donnée ne peut être perdue. Procédez comme suit pour trouver la cause de l'erreur :  
 \- Dans la plupart des cas, le message d'erreur vous donne une indication sur l'endroit où se trouve l'erreur. Suivez-le, corrigez les paramètres saisis et exécutez à nouveau le script. Une erreur d'indentation, par exemple, indique que l'indentation n'est pas conforme à la syntaxe Python.  
 \- Si le message d'erreur est incompréhensible, vérifiez que toutes les données saisies sont correctes et essayez à nouveau.  
-\- Si aucun de ces conseils ne vous aide, demandez de l'aide au [Forum SeaTable](https://forum.seatable.io/).
+\- Si aucun de ces conseils ne vous aide, demandez de l'aide au [Forum SeaTable](https://forum.seatable.com/).
 
 {{< warning  headline="Remarque importante"  text="Veuillez supprimer les jetons API, le PAT et l'ID de base avant de poster des captures d'écran ou des scripts sur le forum." />}}
 {{< /faq >}}

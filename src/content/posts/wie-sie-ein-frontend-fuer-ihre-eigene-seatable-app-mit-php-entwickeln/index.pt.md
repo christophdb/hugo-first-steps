@@ -24,7 +24,7 @@ Mas não se preocupe. Verá que todos estes desafios podem ser resolvidos com um
 
 ## As etapas de desenvolvimento para o seu próprio frontend, num relance
 
-Este tutorial começa com a base que já criámos no vídeo do YouTube. Com base nisto, mostrar-vos-ei que passos são necessários para construir uma ferramenta, como podem encontrar em [https://ideas.seatable.io](https://ideas.seatable.io). Este tutorial simplifica alguns passos, mas mostra o procedimento básico.
+Este tutorial começa com a base que já criámos no vídeo do YouTube. Com base nisto, mostrar-vos-ei que passos são necessários para construir uma ferramenta, como podem encontrar em [https://ideas.seatable.com](https://ideas.seatable.com). Este tutorial simplifica alguns passos, mas mostra o procedimento básico.
 
 - Começaremos com o desenvolvimento de uma concepção simples de website utilizando HTML e CSS.
 - A seguir, utilizaremos o [SeaTable PHP API](https://seatable.github.io/seatable-api-php/) para preencher estas páginas web estáticas com o conteúdo do SeaTable. Para tal, utilizarei a [estrutura PHP Slim](https://www.slimframework.com/) e o [sistema modelo Twig](https://twig.symfony.com/).

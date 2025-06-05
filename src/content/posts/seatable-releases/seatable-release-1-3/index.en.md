@@ -69,4 +69,4 @@ We have updated the map plugin. Now, you can set colors to the locations on your
 
 Besides these new functionalities, the developers have also worked hard to make SeaTable 1.3 the user-friendliest SeaTable ever. SeaTable now supports autofill in forms, URLs in long texts fields are clickable in the table view, groupbys can be collapsed and expanded with one click, improved navigation in the bases library with a list of groups and sharing links, batch picture upload, and so on.
 
-We are very grateful to the users who continuously support us by providing valuable feedback and reporting issues. If you want to contribute to SeaTable’s continuous improvement, visit our [SeaTable Forum](https://forum.seatable.io) frequently and raise any questions, ideas or discussions. We are looking forward to seeing you there!
+We are very grateful to the users who continuously support us by providing valuable feedback and reporting issues. If you want to contribute to SeaTable’s continuous improvement, visit our [SeaTable Forum](https://forum.seatable.com) frequently and raise any questions, ideas or discussions. We are looking forward to seeing you there!

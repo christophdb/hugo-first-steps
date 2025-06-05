@@ -76,4 +76,4 @@ Und natürlich haben wir auch noch ein paar Bugs beseitigt:
 - Die Filterbedingungen der Einfachauswahlspalte wurden an die der Mehrfachauswahlspalte angepasst.
 - Checkbox und Mehrfachauswahlspalten lassen sich nun sortieren.
 - Die Suchfunktion inkludiert nun auch Mitarbeiter sowie Einfach- und Mehrfachauswahlspalten.
-- Die FREEZE_USER_ON_LOGIN_FAILED Option, die dafür sorgt, dass Benutzerkonten nach einer bestimmten Anzahl nicht autorisierte Anmeldeversuche gesperrt wird, funktioniert nun wieder. [Einen Dank an den Benutzer mtmail für den Hinweis.](https://forum.seatable.io/t/v1-7-1-freeze-account-and-fail2ban/296)
+- Die FREEZE_USER_ON_LOGIN_FAILED Option, die dafür sorgt, dass Benutzerkonten nach einer bestimmten Anzahl nicht autorisierte Anmeldeversuche gesperrt wird, funktioniert nun wieder. [Einen Dank an den Benutzer mtmail für den Hinweis.](https://forum.seatable.com/t/v1-7-1-freeze-account-and-fail2ban/296)

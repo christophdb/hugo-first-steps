@@ -38,9 +38,9 @@ La tercera opción es nuestra SeaTable Dedicada. Con esta oferta premium, que of
 
 ## Foro comunitario SeaTable
 
-Nuestro [foro comunitario](https://forum.seatable.io) es un importante canal de comunicación para todos los que quieran utilizar SeaTable. Además de noticias sobre SeaTable, también publicamos regularmente consejos y trucos para un uso eficiente. Al mismo tiempo, tiene la oportunidad de publicar en el foro si tiene preguntas o problemas con SeaTable. Un tercer aspecto que no debe descuidarse es el intercambio directo entre los usuarios de SeaTable. Muchos usuarios comparten de buen grado sus experiencias y éxitos con los demás.
+Nuestro [foro comunitario](https://forum.seatable.com) es un importante canal de comunicación para todos los que quieran utilizar SeaTable. Además de noticias sobre SeaTable, también publicamos regularmente consejos y trucos para un uso eficiente. Al mismo tiempo, tiene la oportunidad de publicar en el foro si tiene preguntas o problemas con SeaTable. Un tercer aspecto que no debe descuidarse es el intercambio directo entre los usuarios de SeaTable. Muchos usuarios comparten de buen grado sus experiencias y éxitos con los demás.
 
-Registrarse en el Foro comunitario es muy fácil. En https://forum.seatable.io/sign [up](https://forum.seatable.io/signup) encontrará el formulario de registro, que sólo requiere su nombre, dirección de correo electrónico, nombre de usuario y una contraseña. A continuación recibirá un correo electrónico con un enlace de activación. En cuanto lo haya confirmado, podrá participar activamente en el foro. Anote su nombre de usuario, ya que lo necesitará al comienzo del concurso.
+Registrarse en el Foro comunitario es muy fácil. En https://forum.seatable.com/sign [up](https://forum.seatable.com/signup) encontrará el formulario de registro, que sólo requiere su nombre, dirección de correo electrónico, nombre de usuario y una contraseña. A continuación recibirá un correo electrónico con un enlace de activación. En cuanto lo haya confirmado, podrá participar activamente en el foro. Anote su nombre de usuario, ya que lo necesitará al comienzo del concurso.
 
 En cualquier caso, le recomendamos que se registre en nuestro foro, ya que la superación del cuestionario al final de este curso en línea asignará automáticamente la insignia correspondiente a su cuenta del foro.
 
