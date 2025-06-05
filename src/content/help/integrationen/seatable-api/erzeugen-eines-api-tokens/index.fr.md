@@ -52,6 +52,6 @@ En revanche, un _jeton de base_ n'a qu'une validité limitée et doit toujours �
 
 ## Créer un jeton de base
 
-Dans la [documentation de l'API SeaTable](https://api.seatable.io), vous trouverez la commande nécessaire pour créer un jeton de base temporaire avec un jeton API.
+Dans la [documentation de l'API SeaTable](https://api.seatable.com), vous trouverez la commande nécessaire pour créer un jeton de base temporaire avec un jeton API.
 
 Avec le jeton de base généré, vous pouvez ensuite utiliser tous les points finaux API disponibles de la _Base-Operations_ utiliser les applications. Choisissez les points finaux qui vous conviennent et commencez à développer votre propre application ou interface.

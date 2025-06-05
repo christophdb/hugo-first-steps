@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/workspace-id-einer-gruppe-ermitteln'
 ---
 
-Each group in SeaTable has a so-called **workspace ID**. You need this ID to be able to make some [API calls](https://api.seatable.io). Here you can learn how to determine the workspace ID of a group via the browser.
+Each group in SeaTable has a so-called **workspace ID**. You need this ID to be able to make some [API calls](https://api.seatable.com). Here you can learn how to determine the workspace ID of a group via the browser.
 
 ## Determine workspace ID of a group
 

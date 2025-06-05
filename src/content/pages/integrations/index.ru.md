@@ -56,6 +56,6 @@ sections:
       text: 'Используйте наш открытый API, чтобы связать все ваши инструменты. С минимальными усилиями вы можете легко создать свою собственную интеграцию.'
       buttons:
           - label: Перейти к документации по API
-            link: 'https://api.seatable.io'
+            link: 'https://api.seatable.com'
             style: primary
 ---

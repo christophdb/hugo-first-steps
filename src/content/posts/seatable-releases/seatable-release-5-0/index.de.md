@@ -76,7 +76,7 @@ Im Rahmen von SeaTable 5.0 haben wir auch einige Änderungen an der SeaTable API
 
 Hier die wichtigsten Punkte in der Übersicht:
 
-- Die API-Endpunkte [Get Row](https://api.seatable.io/reference/getrowdeprecated) und [List Rows](https://api.seatable.io/reference/listrowsdeprecated) werden auf das neue _API-Gateway_ umgeleitet.
+- Die API-Endpunkte [Get Row](https://api.seatable.com/reference/getrowdeprecated) und [List Rows](https://api.seatable.com/reference/listrowsdeprecated) werden auf das neue _API-Gateway_ umgeleitet.
 - Das Format der Rückgabewerte von Link- und Linkformel-Spalten wird harmonisiert.
 - Das _API-Gateway_ liefert zukünftig das aktuelle API-Nutzungslimit zurück.
 

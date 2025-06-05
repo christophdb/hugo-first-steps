@@ -14,7 +14,7 @@ The SeaTable API is a standardized interface that could be used to perform virtu
 
 The abbreviation API stands for **Application Programming Interface** and typically describes a programming interface to exchange information between an application and individual program parts in a standardized way. An API defines the structure and syntax needed to execute predefined commands.
 
-APIs are typically encountered in web applications and are primarily intended to make life easier for developers. For a slightly more comprehensive explanation of APIs, see the following article from [howtogeek.com](https://www.howtogeek.com/343877/what-is-an-api/). SeaTable's full API documentation can be found at [https://api.seatable.io.](https://api.seatable.io)
+APIs are typically encountered in web applications and are primarily intended to make life easier for developers. For a slightly more comprehensive explanation of APIs, see the following article from [howtogeek.com](https://www.howtogeek.com/343877/what-is-an-api/). SeaTable's full API documentation can be found at [https://api.seatable.com.](https://api.seatable.com)
 
 ## API calls for interaction with your own bases and account
 
@@ -41,8 +41,8 @@ Each token carries the following information:
 
 {{< faq "What can you do with the SeaTable API?" >}}SeaTable's API provides virtually all the functions you could perform through the web browser. In some cases, using the API is even more efficient, since you can program repetitive activities once and then run them over and over again. Basically, however, it must be said that an API interface is only used by experienced developers or power users.
 {{< /faq >}}
-{{< faq "How do I get started with the SeaTable API?" >}}At https://api.seat [able.io](https://api.seatable.io) you will find all the information you need to take your first steps with the SeaTable API. If you have never used an API before, it is recommended to read some beginner tutorial first, as SeaTable API documentation assumes that you already have experience with APIs.
+{{< faq "How do I get started with the SeaTable API?" >}}At https://api.seat [able.io](https://api.seatable.com) you will find all the information you need to take your first steps with the SeaTable API. If you have never used an API before, it is recommended to read some beginner tutorial first, as SeaTable API documentation assumes that you already have experience with APIs.
 {{< /faq >}}
-{{< faq "Is there an execution limit of the SeaTable API?" >}}Yes, the SeaTable API has several limitations, all of which you can find [here](https://api.seatable.io/reference/limits). The most important limit is a maximum of 300 requests per minute and 5,000 requests per day and single base. Once this limit is reached, all further requests will be rejected with error code 429.
+{{< faq "Is there an execution limit of the SeaTable API?" >}}Yes, the SeaTable API has several limitations, all of which you can find [here](https://api.seatable.com/reference/limits). The most important limit is a maximum of 300 requests per minute and 5,000 requests per day and single base. Once this limit is reached, all further requests will be rejected with error code 429.
 
 {{< /faq >}}

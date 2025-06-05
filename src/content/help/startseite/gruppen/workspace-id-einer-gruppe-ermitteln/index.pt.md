@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/workspace-id-einer-gruppe-ermitteln'
 ---
 
-Cada grupo no SeaTable tem uma chamada **identificação de espaço de trabalho**. É necessário este ID para poder fazer algumas [chamadas API](https://api.seatable.io). Aqui pode descobrir como determinar a identificação do espaço de trabalho de um grupo através do navegador.
+Cada grupo no SeaTable tem uma chamada **identificação de espaço de trabalho**. É necessário este ID para poder fazer algumas [chamadas API](https://api.seatable.com). Aqui pode descobrir como determinar a identificação do espaço de trabalho de um grupo através do navegador.
 
 ## Determinar a identificação do espaço de trabalho de um grupo
 

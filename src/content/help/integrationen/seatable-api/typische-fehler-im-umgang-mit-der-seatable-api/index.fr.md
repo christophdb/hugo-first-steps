@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/fr/aide/typische-fehler-im-umgang-mit-der-seatable-api'
 ---
 
-Des erreurs peuvent parfois survenir lors des appels à l'API. Cet article a pour but d'expliquer et de corriger les erreurs ou les problèmes les plus courants que l'on peut rencontrer. Vous trouverez une liste détaillée des erreurs dans notre [documentation API](https://api.seatable.io).
+Des erreurs peuvent parfois survenir lors des appels à l'API. Cet article a pour but d'expliquer et de corriger les erreurs ou les problèmes les plus courants que l'on peut rencontrer. Vous trouverez une liste détaillée des erreurs dans notre [documentation API](https://api.seatable.com).
 
 Si vous ne parvenez toujours pas à résoudre le problème, contactez le support pour les clients Plus et Enterprise ou ouvrez un ticket [sur le forum de la communauté](https://forum.seatable.com). Veuillez suivre les directives indiquées dans la dernière section afin de rendre le service client aussi efficace que possible.
 
@@ -18,7 +18,7 @@ Si vous ne parvenez toujours pas à résoudre le problème, contactez le support
 La clé API ou le jeton d'accès n'était pas présent dans la demande ou a été transmis de manière incorrecte.
 
 **Étapes de dépannage**  
-Cherchez le token approprié et ajoutez-le à votre demande. Votre token d'accès doit être inclus dans la demande sous la forme d'un _en-tête d'autorisation_. Vous trouverez plus de détails sur le bon token dans la [documentation de l'API](https://api.seatable.io/#authentication).
+Cherchez le token approprié et ajoutez-le à votre demande. Votre token d'accès doit être inclus dans la demande sous la forme d'un _en-tête d'autorisation_. Vous trouverez plus de détails sur le bon token dans la [documentation de l'API](https://api.seatable.com/#authentication).
 {{< /faq >}}
 {{< faq "401 error : unauthorized, invalid authentication token" >}}**Signification du message d'erreur**  
 Le jeton indiqué n'est pas valide.

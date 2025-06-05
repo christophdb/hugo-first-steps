@@ -59,7 +59,7 @@ In future, every request to the SeaTable API will always go through the caddy se
 ## What does this mean for developers?
 
 - The old endpoints of `dtable-db` and `dtable-server` are no longer supported as of version 5.3. Requests to these endpoints lead to corresponding messages.
-- Individual solutions and integrations must be converted to the new API gateway endpoints. The documentation for this can be found at [api.seatable.io](https://api.seatable.io).
+- Individual solutions and integrations must be converted to the new API gateway endpoints. The documentation for this can be found at [api.seatable.com](https://api.seatable.com).
 - Standard integrations (_n8n_, _Zapier_, _Make.com_) as well as internal scripts in SeaTable have already been converted to the new endpoints and continue to function without adaptation.
 
 ## New API limits: Simple, transparent, team-wide
@@ -86,7 +86,7 @@ These headers provide information about how many API requests you are currently 
 
 For technical reasons, the API always displays the minute limit here, as this can be checked quickly and without time-consuming database queries. However, if your team's monthly limit has been reached, the API returns the value 0 for 'x-ratelimit-remaining' and the time of the next monthly start on reset. This behavior was deliberately implemented to avoid unnecessary database queries for each request and to keep performance high.
 
-This means you always know how many more requests you can currently make - and are informed in good time when you have reached a limit. You can see the team monthly limit and your current consumption at any time in the web interface. Further details on the API and the limits can be found in the [official documentation](https://api.seatable.io).
+This means you always know how many more requests you can currently make - and are informed in good time when you have reached a limit. You can see the team monthly limit and your current consumption at any time in the web interface. Further details on the API and the limits can be found in the [official documentation](https://api.seatable.com).
 
 {{< warning headline="The limits are not yet fixed" >}}
 

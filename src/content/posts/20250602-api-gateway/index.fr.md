@@ -59,7 +59,7 @@ Chaque demande adressée à l'API SeaTable passe désormais toujours en premier 
 ## Qu'est-ce que cela signifie concrètement pour les développeurs ?
 
 - Les anciens points de terminaison de `dtable-db` et `dtable-server` ne sont plus supportés à partir de la version 5.3. Les demandes adressées à ces points finaux entraînent des messages d'information correspondants.
-- Les solutions et intégrations individuelles doivent être adaptées aux nouveaux points finaux de la passerelle API. La documentation à ce sujet se trouve sous [api.seatable.io](https://api.seatable.io).
+- Les solutions et intégrations individuelles doivent être adaptées aux nouveaux points finaux de la passerelle API. La documentation à ce sujet se trouve sous [api.seatable.com](https://api.seatable.com).
 - Les intégrations standard (_n8n_, _Zapier_, _Make.com_) ainsi que les scripts internes de SeaTable ont déjà été convertis aux nouveaux points de terminaison et continuent de fonctionner sans adaptation.
 
 ## Nouvelles limites de l'API : simple, transparente, à l'échelle de l'équipe
@@ -86,7 +86,7 @@ Ces en-têtes indiquent le nombre de requêtes API que vous pouvez actuellement 
 
 Pour des raisons techniques, l'API indique toujours ici la limite en minutes, car celle-ci peut être vérifiée rapidement et sans requêtes complexes dans la base de données. Cependant, si la limite mensuelle de votre équipe est atteinte, l'API renvoie la valeur 0 pour `x-ratelimit-remaining` et l'heure du prochain début de mois lors de la réinitialisation. Ce comportement a été délibérément mis en place afin d'éviter des interrogations inutiles de la base de données à chaque demande et de maintenir des performances élevées.
 
-Vous savez ainsi à tout moment combien de demandes vous pouvez encore faire actuellement - et vous êtes informé à temps lorsque vous avez atteint une limite. Dans l'interface web, vous voyez à tout moment la limite mensuelle de l'équipe et votre consommation actuelle. Vous trouverez plus de détails sur l'API et les limites dans la [documentation officielle](https://api.seatable.io).
+Vous savez ainsi à tout moment combien de demandes vous pouvez encore faire actuellement - et vous êtes informé à temps lorsque vous avez atteint une limite. Dans l'interface web, vous voyez à tout moment la limite mensuelle de l'équipe et votre consommation actuelle. Vous trouverez plus de détails sur l'API et les limites dans la [documentation officielle](https://api.seatable.com).
 
 {{< warning headline="Les limites ne sont pas encore fixées" >}}
 

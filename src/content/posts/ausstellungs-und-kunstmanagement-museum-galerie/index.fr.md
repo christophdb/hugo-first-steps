@@ -126,7 +126,7 @@ Chaque exposition, galerie et collection a besoin d'un site web pour fournir aux
 
 Vous pouvez ainsi présenter vos objets sur votre site web en respectant votre charte graphique et créer une présence en ligne adaptée. Une fois configuré, le site web se met automatiquement à jour lorsque vous adaptez vos objets dans SeaTable ou lorsque vous ajoutez d'autres objets.
 
-Une seule section de code suffit pour placer vos expositions sur une page web. Utilisez simplement le code comme source d'inspiration et expérimentez-le. Vous trouverez la documentation complète de l'API sur [https://api.seatable.io.](https://api.seatable.io)
+Une seule section de code suffit pour placer vos expositions sur une page web. Utilisez simplement le code comme source d'inspiration et expérimentez-le. Vous trouverez la documentation complète de l'API sur [https://api.seatable.com.](https://api.seatable.com)
 
 ## Une plateforme pour les flux de travail et les processus individuels des musées, des galeries et des expositions.
 

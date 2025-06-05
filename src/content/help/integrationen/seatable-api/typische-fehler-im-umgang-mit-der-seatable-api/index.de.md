@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/typische-fehler-im-umgang-mit-der-seatable-api'
 ---
 
-Gelegentlich können bei API-Aufrufen Fehler auftreten. Dieser Artikel soll die häufigsten Fehler oder Probleme erklären und beheben, auf die man stößt. Eine ausführliche Liste der Fehler finden Sie in unserer [API-Dokumentation](https://api.seatable.io).
+Gelegentlich können bei API-Aufrufen Fehler auftreten. Dieser Artikel soll die häufigsten Fehler oder Probleme erklären und beheben, auf die man stößt. Eine ausführliche Liste der Fehler finden Sie in unserer [API-Dokumentation](https://api.seatable.com).
 
 Wenn Sie das Problem trotzdem nicht lösen können, kontaktieren Sie den Support für Plus- und Enterprise-Kunden oder eröffnen Sie ein Ticket [im Community-Forum](https://forum.seatable.com). Befolgen Sie bitte die im letzten Abschnitt aufgeführten Richtlinien, um den Kundenservice so effizient wie möglich zu gestalten.
 
@@ -16,7 +16,7 @@ Wenn Sie das Problem trotzdem nicht lösen können, kontaktieren Sie den Support
 
 {{< faq "401 error: authentication_required" >}}**Bedeutung der Fehlermeldung** Der API-Schlüssel oder das Zugriffstoken war in der Anfrage nicht vorhanden oder wurde falsch übergeben.
 
-**Schritte zur Fehlerbehebung** Suchen Sie den passenden Token und fügen Sie ihn Ihrer Anfrage hinzu. Ihr Zugriffstoken muss in der Anfrage in Form eines _Authorization-Headers_ enthalten sein. Weitere Details zum richtigen Token finden Sie in der [API-Dokumentation](https://api.seatable.io/#authentication).
+**Schritte zur Fehlerbehebung** Suchen Sie den passenden Token und fügen Sie ihn Ihrer Anfrage hinzu. Ihr Zugriffstoken muss in der Anfrage in Form eines _Authorization-Headers_ enthalten sein. Weitere Details zum richtigen Token finden Sie in der [API-Dokumentation](https://api.seatable.com/#authentication).
 {{< /faq >}}
 {{< faq "401 error: unauthorized, invalid authentication token" >}}**Bedeutung der Fehlermeldung** Der angegebene Token ist ungültig.
 

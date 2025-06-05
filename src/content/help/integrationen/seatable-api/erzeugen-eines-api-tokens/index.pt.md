@@ -52,6 +52,6 @@ Uma _ficha base_, por outro lado, tem apenas uma validade limitada e deve ser ge
 
 ## Criar uma Ficha Base
 
-Na [documentação da SeaTable API](https://api.seatable.io) encontrará o comando necessário para criar um token de base temporário com um token API.
+Na [documentação da SeaTable API](https://api.seatable.com) encontrará o comando necessário para criar um token de base temporário com um token API.
 
 Com o token base gerado, pode então utilizar todos os pontos finais API disponíveis do _Base-Operations_ utilização. Encontre os pontos finais apropriados e comece a desenvolver a sua própria aplicação ou interface.

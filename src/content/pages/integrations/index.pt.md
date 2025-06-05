@@ -56,6 +56,6 @@ sections:
       text: 'Use nossa API aberta para conectar todas as suas ferramentas. Com o mínimo de esforço, você pode criar facilmente sua própria integração.'
       buttons:
           - label: Ir para a documentação da API
-            link: 'https://api.seatable.io'
+            link: 'https://api.seatable.com'
             style: primary
 ---

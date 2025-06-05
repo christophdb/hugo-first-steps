@@ -126,7 +126,7 @@ Todas as exposições, galerias e colecções precisam de um website para fornec
 
 Isto permite-lhe apresentar as suas exposições no seu sítio Web com o seu design corporativo e criar uma presença online correspondente. Uma vez configurado, o sítio Web é atualizado automaticamente quando personaliza os seus objectos no SeaTable ou adiciona mais objectos.
 
-Uma única secção de código é tudo o que é necessário para colocar as suas exposições num sítio Web. Basta utilizar o código como fonte de inspiração e fazer experiências com ele. Pode encontrar a documentação completa da API em [https://api.seatable.io.](https://api.seatable.io)
+Uma única secção de código é tudo o que é necessário para colocar as suas exposições num sítio Web. Basta utilizar o código como fonte de inspiração e fazer experiências com ele. Pode encontrar a documentação completa da API em [https://api.seatable.com.](https://api.seatable.com)
 
 ## Uma plataforma para os fluxos de trabalho individuais e processos dos museus, galerias e exposições
 

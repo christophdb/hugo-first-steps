@@ -59,7 +59,7 @@ Jede Anfrage an die SeaTable API läuft künftig immer zuerst über den Caddy-Se
 ## Was bedeutet das konkret für Entwickler?
 
 - Die alten Endpunkte von `dtable-db` und `dtable-server` werden ab Version 5.3 nicht mehr unterstützt. Anfragen an diese Endpunkte führen zu entsprechenden Hinweismeldungen.
-- Individuelle Lösungen und Integrationen müssen auf die neuen API-Gateway-Endpunkte umgestellt werden. Die Dokumentation dazu findet sich unter [api.seatable.io](https://api.seatable.io).
+- Individuelle Lösungen und Integrationen müssen auf die neuen API-Gateway-Endpunkte umgestellt werden. Die Dokumentation dazu findet sich unter [api.seatable.com](https://api.seatable.com).
 - Standard-Integrationen (_n8n_, _Zapier_, _Make.com_) sowie interne Skripte in SeaTable sind bereits auf die neuen Endpunkte umgestellt und funktionieren weiterhin ohne Anpassung.
 
 ## Neue API-Limits: Einfach, transparent, teamweit
@@ -86,7 +86,7 @@ Diese Header geben Auskunft darüber, wie viele API-Anfragen Sie aktuell pro Min
 
 Technisch bedingt zeigt die API hier immer das Minutenlimit an, da dieses schnell und ohne aufwendige Datenbankabfragen geprüft werden kann. Sollte jedoch das Monatslimit Ihres Teams erreicht sein, gibt die API bei `x-ratelimit-remaining` den Wert 0 und beim Reset den Zeitpunkt des nächsten Monatsstarts zurück. Dieses Verhalten wurde bewusst so umgesetzt, um unnötige Datenbankabfragen bei jeder Anfrage zu vermeiden und die Performance hoch zu halten.
 
-So wissen Sie jederzeit, wie viele Anfragen Sie aktuell noch stellen können – und werden rechtzeitig informiert, wenn Sie ein Limit erreicht haben. Im Webinterface sehen Sie zu jedem Zeitpunkt das Team-Monatslimit und Ihren aktuellen Verbrauch. Weitere Details zur API und den Limits finden Sie in der [offiziellen Dokumentation](https://api.seatable.io).
+So wissen Sie jederzeit, wie viele Anfragen Sie aktuell noch stellen können – und werden rechtzeitig informiert, wenn Sie ein Limit erreicht haben. Im Webinterface sehen Sie zu jedem Zeitpunkt das Team-Monatslimit und Ihren aktuellen Verbrauch. Weitere Details zur API und den Limits finden Sie in der [offiziellen Dokumentation](https://api.seatable.com).
 
 {{< warning headline="Die Limits stehen noch nicht fest" >}}
 
