@@ -15,7 +15,7 @@ Al desarrollar y probar software complejo, es inevitable encontrarse con errores
 
 Aquí hay tres niveles importantes: los problemas encontrados (Tabla 1), las pruebas realizadas (Tabla 2) y las versiones probadas (Tabla 3). Si no dispone de un rastreador de errores o de un rastreador de errores gratuito mal estructurado, estos elementos suelen mezclarse. En cambio, la herramienta gratuita de seguimiento de fallos SeaTable le ayuda a documentar fácilmente los fallos de su software, asignarlos a personas e iniciar un proceso estructurado de solución.
 
-La plantilla de seguimiento de errores ofrece una vista Kanban intuitiva en la que puede organizar claramente todos los errores de software por estado. También puede registrar fácilmente los errores y problemas que surjan durante las pruebas mediante un formulario web. Con la ayuda del plugin Tree, puede navegar sin esfuerzo por las tablas vinculadas y mantener siempre la orientación, incluso con muchos datos en el gestor de errores.
+La plantilla de seguimiento de errores ofrece una vista Kanban intuitiva en la que puede organizar claramente todos los errores de software por estado. También puede registrar fácilmente los errores y problemas que surjan durante las pruebas mediante un formulario web. Con la ayuda del plugin Árbol, puede navegar sin esfuerzo por las tablas vinculadas y mantener siempre la orientación, incluso con muchos datos en el gestor de errores.
 
 Lea nuestro artículo del blog sobre pruebas de software para saber por qué tiene sentido el seguimiento de errores y cómo funciona exactamente.
 

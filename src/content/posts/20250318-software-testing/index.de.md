@@ -98,7 +98,7 @@ Mit der Kanban-Ansicht behält Ihr Team **mühelos den Überblick über anstehen
 
 Ein weiterer Vorteil dieser Vorlage ist die Versionen-Tabelle, die es Ihnen erlaubt, die behobenen Bugs mit spezifischen Software-Versionen zu verknüpfen. Damit haben Sie **jederzeit eine nachvollziehbare Dokumentation** darüber, wann und mit welcher Version eine Verbesserung oder ein Bugfix in Kraft getreten ist – wertvoll für die langfristige Qualitätssicherung und interne Audits.
 
-Das Tree-Plugin bietet zusätzlich eine **intuitive Übersicht über die Struktur und Verknüpfungen Ihrer Software Tests und Bugs**. Selbst bei umfangreichen Projekten behalten Sie so die Kontrolle und navigieren bequem durch Ihre Daten. Verknüpfte Einträge lassen sich schnell aufrufen, was die Orientierung bei komplexen Testszenarien deutlich erleichtert.
+Das Baum-Plugin bietet zusätzlich eine **intuitive Übersicht über die Struktur und Verknüpfungen Ihrer Software Tests und Bugs**. Selbst bei umfangreichen Projekten behalten Sie so die Kontrolle und navigieren bequem durch Ihre Daten. Verknüpfte Einträge lassen sich schnell aufrufen, was die Orientierung bei komplexen Testszenarien deutlich erleichtert.
 
 Mit SeaTable schaffen Sie eine zentrale Anlaufstelle, um ein verlässliches und leistungsstarkes Produkt zu liefern. Nutzen Sie den kostenlosen Bugtracker, der Ihnen und Ihrem Team wertvolle Zeit spart und gleichzeitig höchste Softwarequalität ermöglicht. Das Ergebnis? Ein reibungsloser Testprozess und zufriedene Anwender, die von einer stabilen und leistungsfähigen Software profitieren.
 

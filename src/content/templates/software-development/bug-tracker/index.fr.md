@@ -15,7 +15,7 @@ Lorsque l'on développe et teste un logiciel complexe, on tombe inévitablement 
 
 Il y a ici trois niveaux importants : les problèmes trouvés (tableau 1), les tests effectués (tableau 2) et les versions testées (tableau 3). Si vous ne disposez pas d'un bugtracker ou d'un logiciel gratuit de bugtracker mal structuré, ces éléments sont souvent confondus. En revanche, l'outil gratuit de suivi des bugs de SeaTable vous aide à documenter facilement les bugs dans votre logiciel, à les attribuer à des personnes et à mettre en place un processus de résolution structuré.
 
-Le modèle de Bugtracker offre à cet effet une vue Kanban intuitive dans laquelle vous pouvez classer clairement toutes les erreurs logicielles par statut. De plus, vous pouvez facilement enregistrer les erreurs et les problèmes qui apparaissent lors de vos tests via un formulaire web. Le plug-in Tree vous permet de naviguer facilement dans les tableaux liés et de vous orienter même si les données du Bug Tracker sont nombreuses.
+Le modèle de Bugtracker offre à cet effet une vue Kanban intuitive dans laquelle vous pouvez classer clairement toutes les erreurs logicielles par statut. De plus, vous pouvez facilement enregistrer les erreurs et les problèmes qui apparaissent lors de vos tests via un formulaire web. Le plug-in Arbre vous permet de naviguer facilement dans les tableaux liés et de vous orienter même si les données du Bug Tracker sont nombreuses.
 
 Pour savoir pourquoi le bug tracking est utile et comment il fonctionne exactement, consultez notre article de blog sur les tests logiciels.
 

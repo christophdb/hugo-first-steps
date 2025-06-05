@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Der Schwerpunkt von SeaTable 5.1 liegt auf der Verbesserung bestehender Funktionen und ihrer Optimierung für praktische Anwendungsfälle. Insbesondere der **App Builder**, der mit der Version 5.0 offiziell an den Start ging, hat besondere Aufmerksamkeit erhalten und ermöglicht nun noch leistungsfähigere Web-Anwendungen. Aber auch Benutzer des **Big-Data-Speichers** profitieren von umfangreichen Verbesserungen. Das neue **Tree-Plugin** bietet eine weitere Visualisierungsmöglichkeit für hierarchische Daten. Über alle wichtigen Neuerungen berichten wir in diesen Release Notes. Im [Changelog](https://seatable.io/docs/changelog/version-5-1/) finden Sie – wie immer – die vollständige Liste der Änderungen.
+Der Schwerpunkt von SeaTable 5.1 liegt auf der Verbesserung bestehender Funktionen und ihrer Optimierung für praktische Anwendungsfälle. Insbesondere der **App Builder**, der mit der Version 5.0 offiziell an den Start ging, hat besondere Aufmerksamkeit erhalten und ermöglicht nun noch leistungsfähigere Web-Anwendungen. Aber auch Benutzer des **Big-Data-Speichers** profitieren von umfangreichen Verbesserungen. Das neue **Baum-Plugin** bietet eine weitere Visualisierungsmöglichkeit für hierarchische Daten. Über alle wichtigen Neuerungen berichten wir in diesen Release Notes. Im [Changelog](https://seatable.io/docs/changelog/version-5-1/) finden Sie – wie immer – die vollständige Liste der Änderungen.
 
 Ebenfalls zu SeaTable 5.1 gehört eine aktualisierte Python Pipeline. Zwei [Python Pakete](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) für die Bearbeitung von PDF-Dateien schaffen neue Möglichkeiten für die Dokumentenverwaltung. Ein erweitertes Airtable-Converter-Modul macht die Migration von [Airtable Bases zu SeaTable](https://seatable.io/en/docs/import-von-daten/migration-von-airtable-bases-zu-seatable/) zukünftig noch einfacher.
 
@@ -78,9 +78,9 @@ Apps können zwar auf Daten im Big-Data-Speicher zugreifen, in Apps erstellte Ei
 
 Doch nicht nur die Integration mit den Apps haben wir verbessert, auch das [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) bietet neue Möglichkeiten. Das Plugin hat nun auf Zugriff auf den Big-Data-Speicher und kann **Dokumente für Zeilen im Big-Data-Speicher erstellen**.
 
-## Das neue Tree-Plugin
+## Das neue Baum-Plugin
 
-Nach drei neuen Plugins in [Version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}) vergrößert auch die Version 5.1 die Liste der verfügbaren SeaTable Plugins: Das neue Tree-Plugin ermöglicht die kompakte tabellarische Darstellung relational verknüpfter Datensätze. Egal, ob Sie Finanzdaten (wie im Screenshot unten), Projektdaten, Nutzungsdaten oder andere Daten auswerten, das neue Plugin schafft einen Überblick, der bisher so nicht existierte.
+Nach drei neuen Plugins in [Version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}) vergrößert auch die Version 5.1 die Liste der verfügbaren SeaTable Plugins: Das neue Baum-Plugin ermöglicht die kompakte tabellarische Darstellung relational verknüpfter Datensätze. Egal, ob Sie Finanzdaten (wie im Screenshot unten), Projektdaten, Nutzungsdaten oder andere Daten auswerten, das neue Plugin schafft einen Überblick, der bisher so nicht existierte.
 
 ![Tree Plugin](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
 

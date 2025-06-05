@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-O foco do SeaTable 5.1 está em melhorar as funções existentes e optimizá-las para casos de utilização prática. Em particular, o **App Builder**, que foi oficialmente lançado com a versão 5.0, recebeu atenção especial e agora permite aplicações web ainda mais poderosas. No entanto, os utilizadores do **Big Data Store** também beneficiam de extensas melhorias. O novo **plug-in Tree** oferece uma opção de visualização adicional para dados hierárquicos. Nas presentes notas de lançamento, apresentamos todas as novas funcionalidades importantes. Como sempre, encontrará a lista completa de alterações no [registo de alterações](https://seatable.io/pt/docs/changelog/version-5-1/).
+O foco do SeaTable 5.1 está em melhorar as funções existentes e optimizá-las para casos de utilização prática. Em particular, o **App Builder**, que foi oficialmente lançado com a versão 5.0, recebeu atenção especial e agora permite aplicações web ainda mais poderosas. No entanto, os utilizadores do **Big Data Store** também beneficiam de extensas melhorias. O novo **plug-in Árvore** oferece uma opção de visualização adicional para dados hierárquicos. Nas presentes notas de lançamento, apresentamos todas as novas funcionalidades importantes. Como sempre, encontrará a lista completa de alterações no [registo de alterações](https://seatable.io/pt/docs/changelog/version-5-1/).
 
 O SeaTable 5.1 também inclui um pipeline Python atualizado. Dois [pacotes Python](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) para a edição de ficheiros PDF criam novas possibilidades para a gestão de documentos. Um módulo de conversão Airtable alargado facilita ainda mais a migração de [Airtable Bases para o SeaTable](https://seatable.io/pt/docs/import-von-daten/migration-von-airtable-bases-zu-seatable/) no futuro.
 
@@ -80,7 +80,7 @@ No entanto, não só melhorámos a integração com as aplicações, como també
 
 ## O novo plugin Árvore
 
-Depois de três novos plugins na [versão 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), a versão 5.1 também expande a lista de plugins SeaTable disponíveis: O novo plugin Tree permite a visualização tabular compacta de registos de dados ligados por relações. Independentemente de estar a analisar dados financeiros (como na imagem abaixo), dados de projectos, dados de utilização ou outros dados, o novo plugin fornece uma visão geral que não existia anteriormente.
+Depois de três novos plugins na [versão 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), a versão 5.1 também expande a lista de plugins SeaTable disponíveis: O novo plugin Árvore permite a visualização tabular compacta de registos de dados ligados por relações. Independentemente de estar a analisar dados financeiros (como na imagem abaixo), dados de projectos, dados de utilização ou outros dados, o novo plugin fornece uma visão geral que não existia anteriormente.
 
 ![Plugin de árvore](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
 

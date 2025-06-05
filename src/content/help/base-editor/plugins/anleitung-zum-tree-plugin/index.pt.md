@@ -1,5 +1,5 @@
 ---
-title: 'Instruções para o plugin Tree'
+title: 'Instruções para o plugin Árvore'
 date: 2024-12-10
 lastmod: '2024-12-10'
 categories:
@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/anleitung-zum-tree-plugin'
 ---
 
-O **plugin Tree** permite a **visualização hierárquica** compacta de registos de dados ligados. Isto significa que é possível visualizar dados que estão localizados em várias [tabelas ligadas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) em diferentes níveis num diagrama de árvore. O plugin fornece, portanto, uma visão geral estruturada, especialmente para grandes quantidades de dados, como dados financeiros ou dados de projectos.
+O **plugin Árvore** permite a **visualização hierárquica** compacta de registos de dados ligados. Isto significa que é possível visualizar dados que estão localizados em várias [tabelas ligadas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) em diferentes níveis num diagrama de árvore. O plugin fornece, portanto, uma visão geral estruturada, especialmente para grandes quantidades de dados, como dados financeiros ou dados de projectos.
 
 Pode descobrir como ativar o plugin numa base [aqui](https://seatable.io/pt/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
 
@@ -16,7 +16,7 @@ Pode descobrir como ativar o plugin numa base [aqui](https://seatable.io/pt/docs
 
 ## Como funciona o plugin
 
-Para utilizar o Tree plugin de forma eficaz, é necessário criar uma **estrutura em árvore** bem pensada com níveis hierárquicos na sua base: Na contabilidade financeira, por exemplo, podem ser os departamentos no primeiro nível, os centros de custo no segundo nível e as despesas no terceiro nível. Por conseguinte, os departamentos, os centros de custo e as despesas devem ser registados em três tabelas diferentes, ligadas entre si. Cada despesa é atribuída a um centro de custo, que, por sua vez, está subordinado a um departamento.
+Para utilizar o Árvore plugin de forma eficaz, é necessário criar uma **estrutura em árvore** bem pensada com níveis hierárquicos na sua base: Na contabilidade financeira, por exemplo, podem ser os departamentos no primeiro nível, os centros de custo no segundo nível e as despesas no terceiro nível. Por conseguinte, os departamentos, os centros de custo e as despesas devem ser registados em três tabelas diferentes, ligadas entre si. Cada despesa é atribuída a um centro de custo, que, por sua vez, está subordinado a um departamento.
 
 Os **níveis** são utilizados para definir a forma como os registos de dados dependem uns dos outros e que tabelas estão em que nível. Atualmente, é possível apresentar até três níveis, ou seja, dados de três tabelas, no plugin Árvore.
 
@@ -46,7 +46,7 @@ Nos níveis 2 e 3, tem a opção de **ordenar** as entradas **por ordem alfabét
 
 ## Exemplo de aplicação para o plugin Árvore
 
-Um bom exemplo da utilização do plugin Tree é um [registo de erros]({{< relref "templates/software-development/bug-tracker" >}}). Nele pode registar as versões de um software, os testes efectuados e os erros de software encontrados em três tabelas diferentes. Utilizando um diagrama de árvore, pode agora visualizar todos estes dados numa vista geral.
+Um bom exemplo da utilização do plugin Árvore é um [registo de erros]({{< relref "templates/software-development/bug-tracker" >}}). Nele pode registar as versões de um software, os testes efectuados e os erros de software encontrados em três tabelas diferentes. Utilizando um diagrama de árvore, pode agora visualizar todos estes dados numa vista geral.
 
 Uma vez selecionadas as tabelas ligadas nas opções, é possível visualizar e abrir as entradas agrupadas no diagrama em árvore. No entanto, inicialmente, só são exibidas as entradas do primeiro nível (aqui: versões de software). Para expandir os registos de dados subjacentes, clicar na **seta pendente** à esquerda da entrada.
 

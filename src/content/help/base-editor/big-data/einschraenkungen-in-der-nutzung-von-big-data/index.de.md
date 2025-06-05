@@ -15,7 +15,7 @@ Eine normale Ansicht in SeaTable erlaubt das **kollaborative** Arbeiten **in Ech
 Der Big-Data-Speicher bietet Ihnen die weitestgehend **unlimitierte Speicherung von Zeilen**, bringt allerdings auch gewisse Einschränkungen mit sich. Im Folgenden finden Sie die **Einschränkungen** in der Übersicht:
 
 - Änderungen an einem Big-Data-Eintrag werden **nicht in Echtzeit** im Browser eines anderen Users **synchronisiert**. Die Änderungen werden für andere User erst nach einem **Reload** der Seite sichtbar.
-- Big-Data-Ansichten können Sie **nicht freigeben** – weder einzeln noch in [benutzerdefinierten Freigabeberechtigungen](https://seatable.io/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+- Big-Data-Ansichten können Sie **nicht freigeben** – weder einzeln noch in [benutzerdefinierten Freigabeberechtigungen]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).
 - In einer Big-Data-Ansicht können Sie **keine neuen Zeilen** anlegen. Dies muss immer in einer [normalen Ansicht]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}).
 - In einer Big-Data-Ansicht können Sie nicht den [Spaltentyp anpassen]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) bearbeiten.
 - [Verknüpfte Einträge]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) können Sie bei Big-Data-Einträgen **nicht verändern**. Verlinkungen mit Zeilen im Big-Data-Speicher werden in normalen Ansichten **nicht angezeigt** – in einer Big-Data-Ansicht hingegen schon.

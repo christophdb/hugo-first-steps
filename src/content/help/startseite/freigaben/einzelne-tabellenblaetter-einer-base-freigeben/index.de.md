@@ -28,4 +28,4 @@ Wenn Sie sich gerade **in einer Base** befinden, können Sie auch eine Freigabe 
 
 ## Benutzerdefinierte Freigabe erstellen
 
-Eine detaillierte Erklärung der notwendigen Schritte finden Sie im Artikel [Benutzerdefinierte Freigabe erstellen](https://seatable.io/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+Eine detaillierte Erklärung der notwendigen Schritte finden Sie im Artikel [Benutzerdefinierte Freigabe erstellen]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

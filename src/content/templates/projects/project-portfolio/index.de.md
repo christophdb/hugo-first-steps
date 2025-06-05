@@ -26,7 +26,7 @@ Damit Sie in unserem Projektportfolio Tool den Einsatz Ihrer Ressourcen effizien
 
 ### Visualisieren Sie Ihre Daten mit unserem Projektportfolio Tool
 
-- **TREE-PLUGIN**:​ Nutzen Sie dieses Plugin, um alle Datensätze in Ihrem Projektportfolio in einer Hierarchie darzustellen. So sehen Sie auf einen Blick, welche Projekte welchen Abteilungen zugeordnet sind und welche Aufgaben zu den Projekten gehören.
+- **BAUM-PLUGIN**:​ Nutzen Sie dieses Plugin, um alle Datensätze in Ihrem Projektportfolio in einer Hierarchie darzustellen. So sehen Sie auf einen Blick, welche Projekte welchen Abteilungen zugeordnet sind und welche Aufgaben zu den Projekten gehören.
 - **TIMELINE-PLUGIN**:​ Zeigen Sie Ihre Projekte mithilfe der Datum-Spalten (Kick-off und Deadline) als Balken auf einem Zeitstrahl an. In dieser Ansicht fallen Überschneidungen sofort auf, was die Ressourcenplanung vereinfacht.
 - **KANBAN-PLUGIN**:​ Visualisieren Sie die Projektphasen und Workflows auf Kanban-Boards. Per Drag-and-Drop können Sie den Status einer Aufgabe kinderleicht ändern.
 
