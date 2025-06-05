@@ -127,7 +127,7 @@ Every exhibition, gallery and collection needs a website to provide art enthusia
 
 This way you can display your exhibits on your website in your corporate design and create a suitable online presence. Once set up, the website updates automatically when you customize your objects in SeaTable or add more objects.
 
-A single section of code is all you need to get your exhibits onto a web page. Just use the code as a source of inspiration and experiment with it. You can find the full API documentation at [https://api.seatable.io.](https://api.seatable.io)
+A single section of code is all you need to get your exhibits onto a web page. Just use the code as a source of inspiration and experiment with it. You can find the full API documentation at [https://api.seatable.com.](https://api.seatable.com)
 
 ## A platform for the individual workflows and processes of museums, galleries and exhibitions
 

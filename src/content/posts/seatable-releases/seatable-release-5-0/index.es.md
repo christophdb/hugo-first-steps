@@ -76,7 +76,7 @@ Como parte de SeaTable 5.0, también hemos realizado algunos cambios en la API d
 
 He aquí un resumen de los puntos más importantes:
 
-- Los puntos finales de la API [Obtener fila](https://api.seatable.io/reference/getrowdeprecated) y [Lista de filas](https://api.seatable.io/reference/listrowsdeprecated) se transferirá al nuevo _API-Gateway_ redirigido.
+- Los puntos finales de la API [Obtener fila](https://api.seatable.com/reference/getrowdeprecated) y [Lista de filas](https://api.seatable.com/reference/listrowsdeprecated) se transferirá al nuevo _API-Gateway_ redirigido.
 - Se armoniza el formato de los valores de retorno de las columnas de enlace y fórmula de enlace.
 - En _API-Gateway_ devolverá el límite de uso actual de la API en el futuro.
 

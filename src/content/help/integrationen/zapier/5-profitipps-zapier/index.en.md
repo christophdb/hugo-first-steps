@@ -38,7 +38,7 @@ If your Zap reads the data from SeaTable, you should avoid such conversions in Z
 
 ## 4\. how not to exceed the API limit
 
-Every serious API implementation limits the number of allowed calls to prevent individual users from blocking system resources or, in the worst case, bringing the entire system to its knees. SeaTable also uses such limits, although for Zapier probably only the limit of a maximum of 5,000 queries per day is relevant. This limit does not count per team or account, but is calculated per base. Exact details can be found in the [API documentation of SeaTable](https://api.seatable.io/reference/limits).
+Every serious API implementation limits the number of allowed calls to prevent individual users from blocking system resources or, in the worst case, bringing the entire system to its knees. SeaTable also uses such limits, although for Zapier probably only the limit of a maximum of 5,000 queries per day is relevant. This limit does not count per team or account, but is calculated per base. Exact details can be found in the [API documentation of SeaTable](https://api.seatable.com/reference/limits).
 
 Basically, 5,000 views sounds like a pretty big number, but especially with a [Professional, Team or Company subscription to Zapier,](https://zapier.com/app/pricing) it can happen quickly that you reach this limit. The following example explains why this is the case:
 
@@ -59,7 +59,7 @@ With these measures, you should have no trouble staying under the execution limi
 
 ## 5\. benefit from completely individual API requests
 
-Using the SeaTable Zapier app you can easily monitor a base for new or changed entries, create new entries or update existing ones. With the _API-Request_ action you also have the possibility to execute any other API requests via Zapier, which might not be foreseen in the Zap. This action gives you the necessary freedom to execute any action from [Base Operations](https://api.seatable.io).
+Using the SeaTable Zapier app you can easily monitor a base for new or changed entries, create new entries or update existing ones. With the _API-Request_ action you also have the possibility to execute any other API requests via Zapier, which might not be foreseen in the Zap. This action gives you the necessary freedom to execute any action from [Base Operations](https://api.seatable.com).
 
 ![SeaTable Base Operations](images/seatable-api-base-operations.png)
 

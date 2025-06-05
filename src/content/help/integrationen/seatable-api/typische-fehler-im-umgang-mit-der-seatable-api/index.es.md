@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/es/ayuda/typische-fehler-im-umgang-mit-der-seatable-api'
 ---
 
-Ocasionalmente, pueden producirse errores con las llamadas a la API. Este artículo pretende explicar y solucionar los errores o problemas más comunes. Puede encontrar una lista detallada de errores en nuestra [documentación de la API](https://api.seatable.io).
+Ocasionalmente, pueden producirse errores con las llamadas a la API. Este artículo pretende explicar y solucionar los errores o problemas más comunes. Puede encontrar una lista detallada de errores en nuestra [documentación de la API](https://api.seatable.com).
 
 Si sigues sin poder resolver el problema, ponte en contacto con el servicio de atención al cliente de Plus y Enterprise o abre un ticket [en el foro de la comunidad](https://forum.seatable.com). Sigue las directrices indicadas en la última sección para que el servicio de atención al cliente sea lo más eficiente posible.
 
@@ -18,7 +18,7 @@ Si sigues sin poder resolver el problema, ponte en contacto con el servicio de a
 La clave API o el token de acceso no estaban presentes en la solicitud o se pasaron incorrectamente.
 
 **Pasos para solucionar problemas**  
-Localice el token adecuado y añádalo a su solicitud. Su token de acceso debe incluirse en la solicitud en forma de _cabecera de autorización_. Para más detalles sobre el token correcto, consulte la [documentación de la API](https://api.seatable.io/#authentication).
+Localice el token adecuado y añádalo a su solicitud. Su token de acceso debe incluirse en la solicitud en forma de _cabecera de autorización_. Para más detalles sobre el token correcto, consulte la [documentación de la API](https://api.seatable.com/#authentication).
 {{< /faq >}}
 {{< faq "Error 401: no autorizado, token de autenticación no válido" >}}**Significado del mensaje de error**  
 El token especificado no es válido.

@@ -38,7 +38,7 @@ Se o seu Zap ler os dados do SeaTable, não deve efetuar essas conversões no Za
 
 ## 4\. como não exceder o limite da API
 
-Todas as implementações sérias de API limitam o número de chamadas permitidas para evitar que os utilizadores individuais bloqueiem os recursos do sistema ou, no pior dos casos, ponham todo o sistema de joelhos. O SeaTable também utiliza esses limites, embora para o Zapier apenas seja relevante o limite de um máximo de 5000 consultas por dia. Este limite não é contabilizado por equipa ou conta, mas é calculado por base. Pode encontrar mais pormenores na [documentação da API do SeaTable](https://api.seatable.io/reference/limits).
+Todas as implementações sérias de API limitam o número de chamadas permitidas para evitar que os utilizadores individuais bloqueiem os recursos do sistema ou, no pior dos casos, ponham todo o sistema de joelhos. O SeaTable também utiliza esses limites, embora para o Zapier apenas seja relevante o limite de um máximo de 5000 consultas por dia. Este limite não é contabilizado por equipa ou conta, mas é calculado por base. Pode encontrar mais pormenores na [documentação da API do SeaTable](https://api.seatable.com/reference/limits).
 
 Basicamente, 5.000 visualizações parece um número bastante grande, mas especialmente com uma [subscrição Professional, Team ou Company do Zapier,](https://zapier.com/app/pricing) pode acontecer rapidamente que atinja este limite. O exemplo seguinte explica porque é que isto acontece:
 
@@ -59,7 +59,7 @@ Com estas medidas, não deve ter dificuldade em manter-se abaixo do limite de ex
 
 ## 5\. beneficiar de pedidos de API completamente individuais
 
-Com a aplicação SeaTable Zapier, pode facilmente monitorizar uma base para entradas novas ou alteradas, criar novas entradas ou atualizar as existentes. Com a ação _API-Request_, também tem a opção de executar quaisquer outros pedidos de API através do Zapier que possam não estar previstos no Zap. Esta ação dá-lhe a liberdade necessária para executar qualquer ação a partir da área [Base Operations](https://api.seatable.io).
+Com a aplicação SeaTable Zapier, pode facilmente monitorizar uma base para entradas novas ou alteradas, criar novas entradas ou atualizar as existentes. Com a ação _API-Request_, também tem a opção de executar quaisquer outros pedidos de API através do Zapier que possam não estar previstos no Zap. Esta ação dá-lhe a liberdade necessária para executar qualquer ação a partir da área [Base Operations](https://api.seatable.com).
 
 ![Operações de base do SeaTable](images/seatable-api-base-operations.png)
 

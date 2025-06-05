@@ -206,13 +206,13 @@ weight = 25
 [[footer]]
 name = "Developer API"
 parent = "Unterstützung"
-url = "https://api.seatable.io"
+url = "https://api.seatable.com"
 weight = 26
 
 [[footer]]
 name = "Status"
 parent = "Unterstützung"
-url = "https://status.seatable.io"
+url = "https://status.seatable.com"
 weight = 27
 
 [[footer]]

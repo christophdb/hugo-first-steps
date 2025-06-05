@@ -52,6 +52,6 @@ Ein _Base-Token_ hat hingegen nur eine begrenzte Gültigkeit und muss immer wied
 
 ## Einen Base-Token erzeugen
 
-In der [SeaTable-API Dokumentation](https://api.seatable.io) finden Sie den notwendigen Befehl, um mit einem API-Token einen temporären Base-Token zu erzeugen.
+In der [SeaTable-API Dokumentation](https://api.seatable.com) finden Sie den notwendigen Befehl, um mit einem API-Token einen temporären Base-Token zu erzeugen.
 
 Mit dem erzeugten Base-Token können Sie dann alle verfügbaren API-Endpunkte der _Base-Operations_ nutzen. Suchen Sie sich die passenden Endpunkte heraus und beginnen Sie mit der Entwicklung Ihrer eigenen App oder Schnittstelle.

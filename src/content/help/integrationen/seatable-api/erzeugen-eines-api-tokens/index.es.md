@@ -52,6 +52,6 @@ En cambio, un _token base_ sólo tiene una validez limitada y debe generarse una
 
 ## Crear un token base
 
-En la [documentación de la API de SeaTable](https://api.seatable.io) encontrará el comando necesario para crear un token base temporal con un token de API.
+En la [documentación de la API de SeaTable](https://api.seatable.com) encontrará el comando necesario para crear un token base temporal con un token de API.
 
 Con el token base generado, puede utilizar todos los puntos finales de API disponibles de la aplicación _Base-Operations_ utilizar. Encuentra los puntos finales adecuados y empieza a desarrollar tu propia aplicación o interfaz.

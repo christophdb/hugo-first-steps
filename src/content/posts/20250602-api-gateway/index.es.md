@@ -59,7 +59,7 @@ En el futuro, todas las solicitudes a la API de SeaTable pasarán siempre primer
 ## ¿Qué significa esto para los desarrolladores?
 
 - Los antiguos puntos finales de `dtable-db` y `dtable-server` ya no son compatibles a partir de la versión 5.3. Las solicitudes a estos puntos finales conducen a los mensajes correspondientes.
-- Las soluciones e integraciones personalizadas deben convertirse a los nuevos puntos finales de la pasarela API. Encontrará documentación al respecto en [api.seatable.io](https://api.seatable.io).
+- Las soluciones e integraciones personalizadas deben convertirse a los nuevos puntos finales de la pasarela API. Encontrará documentación al respecto en [api.seatable.com](https://api.seatable.com).
 - Las integraciones estándar (_n8n_, _Zapier_, _Make.com_) así como los scripts internos de SeaTable ya se han convertido a los nuevos puntos finales y siguen funcionando sin adaptación.
 
 ## Nuevos límites de la API: sencillos, transparentes, para todo el equipo
@@ -86,7 +86,7 @@ Estas cabeceras proporcionan información sobre cuántas peticiones a la API se 
 
 Por razones técnicas, la API siempre muestra aquí el límite de minutos, ya que puede comprobarse rápidamente y sin consultas a la base de datos que consumen mucho tiempo. Sin embargo, si se ha alcanzado el límite mensual de su equipo, la API devuelve el valor 0 para `x-ratelimit-remaining` y la hora del próximo inicio mensual al reiniciarse. Este comportamiento se ha implementado deliberadamente para evitar consultas innecesarias a la base de datos en cada solicitud y mantener un alto rendimiento.
 
-De este modo, siempre sabrá cuántas solicitudes más puede realizar en ese momento y se le informará a tiempo si ha alcanzado el límite. Puede ver el límite mensual del equipo y su consumo actual en cualquier momento en la interfaz web. Encontrará más detalles sobre la API y los límites en la [documentación oficial](https://api.seatable.io).
+De este modo, siempre sabrá cuántas solicitudes más puede realizar en ese momento y se le informará a tiempo si ha alcanzado el límite. Puede ver el límite mensual del equipo y su consumo actual en cualquier momento en la interfaz web. Encontrará más detalles sobre la API y los límites en la [documentación oficial](https://api.seatable.com).
 
 {{< warning headline="Los límites aún no están fijados" >}}
 

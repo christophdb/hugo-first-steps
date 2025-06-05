@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/pt/ajuda/typische-fehler-im-umgang-mit-der-seatable-api'
 ---
 
-Ocasionalmente, podem ocorrer erros com chamadas API. Este artigo visa explicar e corrigir os erros ou problemas mais comuns encontrados. Pode encontrar uma lista detalhada de erros na nossa [documentação API](https://api.seatable.io).
+Ocasionalmente, podem ocorrer erros com chamadas API. Este artigo visa explicar e corrigir os erros ou problemas mais comuns encontrados. Pode encontrar uma lista detalhada de erros na nossa [documentação API](https://api.seatable.com).
 
 Se mesmo assim não conseguir resolver o problema, contacte o serviço de apoio ao cliente Plus e Enterprise ou abra um ticket [no fórum da comunidade](https://forum.seatable.com). Por favor, siga as orientações listadas na última secção para tornar o serviço ao cliente tão eficiente quanto possível.
 
@@ -18,7 +18,7 @@ Se mesmo assim não conseguir resolver o problema, contacte o serviço de apoio 
 A chave API ou ficha de acesso não estava presente no pedido ou foi passada incorrectamente.
 
 **Passos para a resolução de problemas**  
-Localize a ficha apropriada e adicione-a ao seu pedido. O seu código de acesso deve ser incluído no pedido sob a forma de um _cabeçalho de autorização_. Para mais detalhes sobre o token correcto, ver a [documentação API](https://api.seatable.io/#authentication).
+Localize a ficha apropriada e adicione-a ao seu pedido. O seu código de acesso deve ser incluído no pedido sob a forma de um _cabeçalho de autorização_. Para mais detalhes sobre o token correcto, ver a [documentação API](https://api.seatable.com/#authentication).
 {{< /faq >}}
 {{< faq "401 erro: não autorizado, ficha de autenticação inválida" >}}**Significado da mensagem de erro**  
 A ficha especificada é inválida.

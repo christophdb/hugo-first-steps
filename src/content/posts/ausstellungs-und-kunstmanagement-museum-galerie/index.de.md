@@ -127,7 +127,7 @@ Jede Ausstellung, Galerie und Sammlung benötigt eine Webseite, um den Kunstinte
 
 So können Sie Ihre Exponate auf Ihrer Webseite in Ihrem Corporate Design darstellen und eine passende Online-Präsenz erschaffen. Einmal eingerichtet aktualisiert sich die Webseite automatisch, wenn Sie Ihre Objekte in SeaTable anpassen oder weitere Objekte hinzufügen.
 
-Ein einziger Code-Abschnitt genügt, um Ihre Exponate auf eine Webseite zu bringen. Nutzen Sie den Code einfach als Inspirationsquelle und experimentieren Sie damit. Die vollständige API-Dokumentation finden Sie unter [https://api.seatable.io](https://api.seatable.io).
+Ein einziger Code-Abschnitt genügt, um Ihre Exponate auf eine Webseite zu bringen. Nutzen Sie den Code einfach als Inspirationsquelle und experimentieren Sie damit. Die vollständige API-Dokumentation finden Sie unter [https://api.seatable.com](https://api.seatable.com).
 
 ## Eine Plattform für die individuellen Workflows und Prozesse von Museen, Galerien und Ausstellungen
 

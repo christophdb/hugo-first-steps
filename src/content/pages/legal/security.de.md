@@ -78,7 +78,7 @@ Sie können Ihre Daten jederzeit aus SeaTable heraus exportieren. SeaTable biete
 - Export über das Webinterface in eine DTABLE-Datei
 - Export über die API
 
-Mehr Informationen über das [DTABLE-Dateiformat](https://seatable.io/docs/handbuch/expertenwissen/dtable-dateiformat/) finden Sie im SeaTable Handbuch. Die SeaTable API ist vollständig in der [API-Dokumentation](https://api.seatable.io/) beschrieben.
+Mehr Informationen über das [DTABLE-Dateiformat](https://seatable.io/docs/handbuch/expertenwissen/dtable-dateiformat/) finden Sie im SeaTable Handbuch. Die SeaTable API ist vollständig in der [API-Dokumentation](https://api.seatable.com/) beschrieben.
 
 ## Audits und Zertifizierung
 

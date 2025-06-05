@@ -59,7 +59,7 @@ No futuro, todos os pedidos à API SeaTable passarão sempre primeiro pelo servi
 ## O que é que isto significa para os programadores?
 
 - Os antigos endpoints `dtable-db` e `dtable-server` não são mais suportados a partir da versão 5.3. Pedidos para esses endpoints levam a mensagens correspondentes.
-- As soluções personalizadas e as integrações devem ser convertidas para os novos pontos finais de gateway da API. A documentação para o efeito pode ser encontrada em [api.seatable.io] (https://api.seatable.io).
+- As soluções personalizadas e as integrações devem ser convertidas para os novos pontos finais de gateway da API. A documentação para o efeito pode ser encontrada em [api.seatable.com] (https://api.seatable.com).
 - As integrações padrão (_n8n_, _Zapier_, _Make.com_), bem como os scripts internos no SeaTable já foram convertidos para os novos pontos finais e continuam a funcionar sem adaptação.
 
 ## Novos limites da API: Simples, transparente, para toda a equipa
@@ -86,7 +86,7 @@ Esses cabeçalhos fornecem informações sobre quantas solicitações da API voc
 
 Por razões técnicas, a API apresenta sempre o limite de minutos aqui, uma vez que este pode ser verificado rapidamente e sem consultas demoradas à base de dados. No entanto, se o limite mensal da sua equipa tiver sido atingido, a API devolve o valor 0 para 'x-ratelimit-remaining' e a hora do próximo início mensal no reset. Este comportamento foi deliberadamente implementado para evitar consultas desnecessárias à base de dados para cada pedido e para manter o desempenho elevado.
 
-Isto significa que sabe sempre quantos mais pedidos pode fazer atualmente - e é informado atempadamente se tiver atingido um limite. Pode ver o limite mensal da equipa e o seu consumo atual a qualquer momento na interface Web. Pode encontrar mais pormenores sobre a API e os limites na [documentação oficial] (https://api.seatable.io).
+Isto significa que sabe sempre quantos mais pedidos pode fazer atualmente - e é informado atempadamente se tiver atingido um limite. Pode ver o limite mensal da equipa e o seu consumo atual a qualquer momento na interface Web. Pode encontrar mais pormenores sobre a API e os limites na [documentação oficial] (https://api.seatable.com).
 
 {{< warning headline="Os limites ainda não foram fixados" >}}
 

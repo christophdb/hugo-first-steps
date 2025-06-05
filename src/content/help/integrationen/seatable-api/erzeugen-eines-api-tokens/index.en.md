@@ -52,6 +52,6 @@ A _base token_, on the other hand, has only a limited validity and must be gener
 
 ## Create a base token
 
-See the [SeaTable API documentation](https://api.seatable.io) for the command necessary to use an API token to create a temporary base token.
+See the [SeaTable API documentation](https://api.seatable.com) for the command necessary to use an API token to create a temporary base token.
 
 You can then use the generated base token to access all available API endpoints of the _Base-Operations_ use. Find the right endpoints and start developing your own app or interface.

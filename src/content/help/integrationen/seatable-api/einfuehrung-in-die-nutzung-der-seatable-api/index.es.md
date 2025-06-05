@@ -14,7 +14,7 @@ La API de SeaTable es una interfaz estandarizada con la que se puede realizar pr
 
 La abreviatura API significa **Application Programming Interface (interfaz de programación de aplicaciones** ) y suele referirse a una interfaz de programación para intercambiar información entre una aplicación y las distintas partes del programa de forma estandarizada. Una API define la estructura y la sintaxis necesarias para ejecutar comandos predefinidos.
 
-Las API suelen encontrarse en las aplicaciones web y su objetivo principal es facilitar la vida a los desarrolladores. Para una explicación más completa de las API, consulte el siguiente artículo de [howtogeek.com](https://www.howtogeek.com/343877/what-is-an-api/). La documentación completa de la API de SeaTable se encuentra en [https://api.seatable.io.](https://api.seatable.io)
+Las API suelen encontrarse en las aplicaciones web y su objetivo principal es facilitar la vida a los desarrolladores. Para una explicación más completa de las API, consulte el siguiente artículo de [howtogeek.com](https://www.howtogeek.com/343877/what-is-an-api/). La documentación completa de la API de SeaTable se encuentra en [https://api.seatable.com.](https://api.seatable.com)
 
 ## Llamadas a la API para interactuar con las bases propias y la cuenta propia
 
@@ -41,8 +41,8 @@ Cada ficha contiene la siguiente información:
 
 {{< faq "¿Qué puede hacer con la API SeaTable?" >}}La API de SeaTable ofrece prácticamente todas las funciones que también podría realizar a través del navegador web. En parte, el uso de la API es incluso más eficiente, ya que puede programar actividades repetitivas una vez y luego ejecutarlas una y otra vez. Básicamente, sin embargo, hay que decir que una interfaz API sólo es utilizada por desarrolladores experimentados o usuarios avanzados.
 {{< /faq >}}
-{{< faq "¿Cómo puedo empezar a utilizar la API de SeaTable?" >}}En [https://api.seatable.io](https://api.seatable.io) encontrará toda la información que necesita para dar sus primeros pasos con la API de SeaTable. Si nunca antes ha utilizado una API, se recomienda leer primero algunos tutoriales para principiantes, ya que la documentación de la API de SeaTable asume que usted ya tiene experiencia con APIs.
+{{< faq "¿Cómo puedo empezar a utilizar la API de SeaTable?" >}}En [https://api.seatable.com](https://api.seatable.com) encontrará toda la información que necesita para dar sus primeros pasos con la API de SeaTable. Si nunca antes ha utilizado una API, se recomienda leer primero algunos tutoriales para principiantes, ya que la documentación de la API de SeaTable asume que usted ya tiene experiencia con APIs.
 {{< /faq >}}
-{{< faq "¿Existe un límite de ejecución para la API SeaTable?" >}}Sí, la API de SeaTable tiene varios límites, que puede consultar [aquí](https://api.seatable.io/reference/limits). El límite más importante es un máximo de 300 solicitudes por minuto y 5.000 solicitudes por día y base única. Una vez alcanzado este límite, todas las demás solicitudes serán rechazadas con el código de error 429.
+{{< faq "¿Existe un límite de ejecución para la API SeaTable?" >}}Sí, la API de SeaTable tiene varios límites, que puede consultar [aquí](https://api.seatable.com/reference/limits). El límite más importante es un máximo de 300 solicitudes por minuto y 5.000 solicitudes por día y base única. Una vez alcanzado este límite, todas las demás solicitudes serán rechazadas con el código de error 429.
 
 {{< /faq >}}
