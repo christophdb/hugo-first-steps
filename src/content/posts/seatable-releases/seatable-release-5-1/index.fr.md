@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-La version 5.1 de SeaTable met l'accent sur l'amélioration des fonctions existantes et leur optimisation pour des cas d'utilisation pratiques. En particulier, l'**App Builder**, officiellement lancé avec la version 5.0, a fait l'objet d'une attention particulière et permet désormais de créer des applications web encore plus performantes. Mais les utilisateurs de l'**espace de stockage de données volumineuses** bénéficient également d'importantes améliorations. Le nouveau **plug-in Tree** offre une possibilité de visualisation supplémentaire pour les données hiérarchiques. Nous vous informons de toutes les nouveautés importantes dans ces notes de mise à jour. Dans le [changelog](https://seatable.io/fr/docs/changelog/version-5-1/), vous trouverez - comme toujours - la liste complète des modifications.
+La version 5.1 de SeaTable met l'accent sur l'amélioration des fonctions existantes et leur optimisation pour des cas d'utilisation pratiques. En particulier, l'**App Builder**, officiellement lancé avec la version 5.0, a fait l'objet d'une attention particulière et permet désormais de créer des applications web encore plus performantes. Mais les utilisateurs de l'**espace de stockage de données volumineuses** bénéficient également d'importantes améliorations. Le nouveau **plug-in Arbre** offre une possibilité de visualisation supplémentaire pour les données hiérarchiques. Nous vous informons de toutes les nouveautés importantes dans ces notes de mise à jour. Dans le [changelog](https://seatable.io/fr/docs/changelog/version-5-1/), vous trouverez - comme toujours - la liste complète des modifications.
 
 SeaTable 5.1 comprend également une mise à jour du pipeline Python. Deux [paquets Python](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) pour le traitement des fichiers PDF offrent de nouvelles possibilités pour la gestion des documents. Un module de conversion Airtable étendu facilite la migration des [bases Airtable vers SeaTable](https://seatable.io/fr/docs/import-von-daten/migration-von-airtable-bases-zu-seatable/).
 
@@ -78,9 +78,9 @@ Les apps peuvent certes accéder aux données dans la mémoire Big Data, mais le
 
 Mais nous n'avons pas seulement amélioré l'intégration avec les apps, le [plugin de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) offre également de nouvelles possibilités. Le plugin a désormais accès à la mémoire Big Data et peut **créer des documents pour les lignes de la mémoire Big Data**.
 
-## Le nouveau plugin Tree
+## Le nouveau plugin Arbre
 
-Après trois nouveaux plug-ins dans la [version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), la version 5.1 élargit également la liste des plug-ins SeaTable disponibles : le nouveau plug-in Tree permet une représentation compacte sous forme de tableau d'ensembles de données liés de manière relationnelle. Que vous analysiez des données financières (comme dans la capture d'écran ci-dessous), des données de projet, des données d'utilisation ou d'autres données, le nouveau plugin crée une vue d'ensemble qui n'existait pas auparavant.
+Après trois nouveaux plug-ins dans la [version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), la version 5.1 élargit également la liste des plug-ins SeaTable disponibles : le nouveau plug-in Arbre permet une représentation compacte sous forme de tableau d'ensembles de données liés de manière relationnelle. Que vous analysiez des données financières (comme dans la capture d'écran ci-dessous), des données de projet, des données d'utilisation ou d'autres données, le nouveau plugin crée une vue d'ensemble qui n'existait pas auparavant.
 
 ![Plugin d'arbre](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
 

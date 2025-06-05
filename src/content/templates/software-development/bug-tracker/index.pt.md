@@ -15,7 +15,7 @@ Ao desenvolver e testar software complexo, é inevitável que se depare com erro
 
 Há três níveis importantes aqui: os problemas encontrados (Tabela 1), os testes efectuados (Tabela 2) e as versões testadas (Tabela 3). Se não tiver um bug tracker ou se tiver um bug tracker freeware mal estruturado, estes elementos misturam-se frequentemente. Por outro lado, a ferramenta gratuita de rastreio de erros do SeaTable ajuda-o a documentar facilmente os erros do seu software, a atribuí-los a pessoas e a iniciar um processo de solução estruturado.
 
-O modelo de rastreador de erros oferece uma vista Kanban intuitiva na qual pode organizar claramente todos os erros de software por estado. Também pode registar facilmente os erros e problemas que surgem durante os testes utilizando um formulário Web. Com a ajuda do plug-in Tree, pode navegar sem esforço pelas tabelas ligadas e manter-se sempre orientado, mesmo com muitos dados no rastreador de erros.
+O modelo de rastreador de erros oferece uma vista Kanban intuitiva na qual pode organizar claramente todos os erros de software por estado. Também pode registar facilmente os erros e problemas que surgem durante os testes utilizando um formulário Web. Com a ajuda do plug-in Árvore, pode navegar sem esforço pelas tabelas ligadas e manter-se sempre orientado, mesmo com muitos dados no rastreador de erros.
 
 Leia o artigo do nosso blogue sobre testes de software para saber porque é que o rastreio de erros faz sentido e como funciona exatamente.
 

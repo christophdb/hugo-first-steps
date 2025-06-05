@@ -16,7 +16,7 @@ In diesem Erklärungs- und Überblicks-Artikel lernen Sie die in SeaTable verfü
 
 In SeaTable haben Sie die Möglichkeit, **bestimmten Personen oder Gruppen** Zugang zu Bases, Tabellen und Ansichten zu gewähren, um gemeinsam mit den Daten zu arbeiten. Während dies viele Vorteile fürs **Teamwork** mit sich bringt, kann es jedoch **vertrauliche Informationen** geben, die nicht für jeden im Team zugänglich sein sollen.
 
-Deshalb ermöglicht Ihnen SeaTable, bei jeder Freigabe abgestufte Berechtigungen zu definieren. Indem Sie festlegen, ob es sich nur um eine **Lesefreigabe**, um eine **Lese- und Schreibfreigabe** oder um eine [benutzerdefinierte Freigabe](https://seatable.io/docs/freigaben/benutzerdefinierte-freigabe-erstellen/) handeln soll, behalten Sie die volle Kontrolle darüber, **wer** in Ihrer Base, Tabelle oder Ansicht **zu was berechtigt ist**. Dies heißt natürlich, dass Sie auch die Möglichkeit haben, Berechtigungen zu **ändern** und zu **entziehen**.
+Deshalb ermöglicht Ihnen SeaTable, bei jeder Freigabe abgestufte Berechtigungen zu definieren. Indem Sie festlegen, ob es sich nur um eine **Lesefreigabe**, um eine **Lese- und Schreibfreigabe** oder um eine [benutzerdefinierte Freigabe]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) handeln soll, behalten Sie die volle Kontrolle darüber, **wer** in Ihrer Base, Tabelle oder Ansicht **zu was berechtigt ist**. Dies heißt natürlich, dass Sie auch die Möglichkeit haben, Berechtigungen zu **ändern** und zu **entziehen**.
 
 ## Funktionsweise und Typen von Freigaben
 
@@ -29,7 +29,7 @@ Jede Freigabe - egal ob für eine Base, Tabelle oder Ansicht - erhält eine Bere
 - **Freigabe mit Leserechten**: Die Leseberechtigten können sich Tabellen und Daten anschauen und Ansichtseinstellungen wie Filter und Gruppierungen ändern. Die Benutzer können mit dieser Berechtigung aber keine Änderungen an Tabellen und Daten vornehmen.
 - **Freigabe mit Lese- und Schreibrechten**: Bei einer Freigabe mit Lese- und Schreibrechten können die Nutzungsberechtigten Änderungen an Tabellen und Daten vornehmen, allerdings keine Plugins installieren und die Base oder Ansicht nicht mit weiteren Personen oder Gruppen teilen.
 
-Damit Sie bei der Freigabe einer Base noch mehr Möglichkeiten haben, als dies mit den beiden grundlegenden Berechtigungen der Fall ist, bietet SeaTable bei Bases auch [benutzerdefinierte Freigabeberechtigungen](https://seatable.io/docs/freigaben/benutzerdefinierte-freigabe-erstellen/) an. Mit einer benutzerdefinierten Freigabeberechtigung können Sie in einer Base auf einen Schlag **mehrere Tabellen und Ansichten** samt unterschiedlichen Berechtigungsstufen **freigeben**.
+Damit Sie bei der Freigabe einer Base noch mehr Möglichkeiten haben, als dies mit den beiden grundlegenden Berechtigungen der Fall ist, bietet SeaTable bei Bases auch [benutzerdefinierte Freigabeberechtigungen]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) an. Mit einer benutzerdefinierten Freigabeberechtigung können Sie in einer Base auf einen Schlag **mehrere Tabellen und Ansichten** samt unterschiedlichen Berechtigungsstufen **freigeben**.
 
 Jede Freigabe, unabhängig von der vergebenen Berechtigung, lässt sich durch den Eigentümer bzw. einen Administrator jederzeit wieder **beenden**.
 

@@ -110,7 +110,7 @@ Tudo num só lugar e todos na mesma página: Não existem versões diferentes da
 
 {{< template id="898485ee9b7949c5b987" >}}
 
-A maior vantagem do SeaTable é, no entanto, a vasta gama de opções de visualização. Quer se trate de **calendários**, **cronogramas**, **quadros Kanban** ou **gráficos organizacionais** - existe tudo o que deseja e ainda mais: No **quadro branco** separado, pode esboçar livremente a sua estrutura de divisão do trabalho e criar mapas mentais semelhantes aos do Miro. Ou pode utilizar o novíssimo plugin **Tree** para mostrar e ocultar os diferentes níveis da sua estrutura analítica de trabalho como desejar.
+A maior vantagem do SeaTable é, no entanto, a vasta gama de opções de visualização. Quer se trate de **calendários**, **cronogramas**, **quadros Kanban** ou **gráficos organizacionais** - existe tudo o que deseja e ainda mais: No **quadro branco** separado, pode esboçar livremente a sua estrutura de divisão do trabalho e criar mapas mentais semelhantes aos do Miro. Ou pode utilizar o novíssimo plugin **Árvore** para mostrar e ocultar os diferentes níveis da sua estrutura analítica de trabalho como desejar.
 
 Pode encontrar o modelo da estrutura analítica do trabalho [aqui]({{< relref "templates/projects/work-breakdown-structure" >}}). Antes de o poder utilizar, tem de se registar gratuitamente com o seu endereço de correio eletrónico.
 

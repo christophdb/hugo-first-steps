@@ -100,7 +100,7 @@ Com a vista Kanban, a sua equipa **mantém facilmente o controlo das tarefas fut
 
 Outra vantagem deste modelo é a tabela de versões, que lhe permite associar os erros corrigidos a versões de software específicas. Isto significa que **tem sempre documentação rastreável** de quando e com que versão uma melhoria ou correção de erro entrou em vigor - valiosa para a garantia de qualidade a longo prazo e auditorias internas.
 
-O plugin Tree também fornece uma **visão geral intuitiva da estrutura e das ligações dos seus testes de software e bugs**. Mesmo com projectos extensos, mantém o controlo e navega facilmente pelos seus dados. As entradas ligadas podem ser chamadas rapidamente, o que torna muito mais fácil encontrar o seu caminho em cenários de teste complexos.
+O plugin Árvore também fornece uma **visão geral intuitiva da estrutura e das ligações dos seus testes de software e bugs**. Mesmo com projectos extensos, mantém o controlo e navega facilmente pelos seus dados. As entradas ligadas podem ser chamadas rapidamente, o que torna muito mais fácil encontrar o seu caminho em cenários de teste complexos.
 
 Com o SeaTable, cria-se um ponto de contacto central para fornecer um produto fiável e de elevado desempenho. Utilize o rastreador de erros gratuito para poupar tempo valioso a si e à sua equipa, garantindo a mais elevada qualidade de software. O resultado? Um processo de teste sem problemas e utilizadores satisfeitos que beneficiam de um software estável e potente.
 

@@ -74,9 +74,9 @@ D'autres mesures de sécurité pour SeaTable version 5.1 ont été lancées avec
 
 La prochaine étape importante est la **certification BSI** pour la prochaine version 6.0, une étape qui positionnera davantage SeaTable comme une plateforme sûre et fiable.
 
-### Nouveau plugin SeaTable : Tree
+### Nouveau plugin SeaTable : Arbre
 
-Une fonctionnalité passionnante qui a été présentée est le nouveau plug-in SeaTable "**Tree**". Ce plugin permet aux utilisateurs d'organiser les données dans une structure arborescente, ce qui simplifie considérablement la navigation dans des tableaux imbriqués. Avec des fonctions telles que les niveaux repliables, la largeur individuelle des colonnes et la possibilité de créer de nouvelles lignes ou de mettre à jour les lignes existantes, le plug-in Tree est un outil puissant pour la gestion d'ensembles de données complexes. La présentation triable en trois niveaux maximum est particulièrement utile et offre une plus grande flexibilité dans l'organisation des données.
+Une fonctionnalité passionnante qui a été présentée est le nouveau plug-in SeaTable "**Arbre**". Ce plugin permet aux utilisateurs d'organiser les données dans une structure arborescente, ce qui simplifie considérablement la navigation dans des tableaux imbriqués. Avec des fonctions telles que les niveaux repliables, la largeur individuelle des colonnes et la possibilité de créer de nouvelles lignes ou de mettre à jour les lignes existantes, le plug-in Arbre est un outil puissant pour la gestion d'ensembles de données complexes. La présentation triable en trois niveaux maximum est particulièrement utile et offre une plus grande flexibilité dans l'organisation des données.
 
 ![Participants aux SeaDays 2024](images/74b1d263-ec63-4f11-85bc-8af629d0b24e-711x400.jpg)
 
