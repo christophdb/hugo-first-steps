@@ -58,6 +58,8 @@ sections:
 
     - name: price-table
       weight: 4
+      classes:
+          - padding
       title: Comparez tous les détails
       table:
           head: ['Airtable Pro', 'SeaTable Enterprise']

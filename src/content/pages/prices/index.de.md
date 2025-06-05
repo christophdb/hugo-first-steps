@@ -5,15 +5,118 @@ date: '2025-03-30'
 url: '/de/preise'
 
 sections:
-    - name: hero-2
+    - name: hero-price
       weight: 1
       title: SeaTable Cloud. Maßgeschneidert für Sie.
       subtitle: Was wir bieten
       text: Starten Sie kostenlos und holen Sie sich bei Bedarf mehr Funktionen und mehr Limits ab 7 € pro Nutzer und Monat
-      platform_selector: 'yes'
+      title2: SeaTable Server. Volle Kontrolle für Ihr Unternehmen.
+      subtitle2: Was Sie bekommen
+      text2: Installieren Sie SeaTable auf Ihrem eigenen Server und profitieren Sie von maximaler Datensouveränität, individueller Anpassbarkeit und allen Enterprise-Funktionen.
 
     - name: 'price-1'
       weight: 2
+      xshow: 'showCloud'
+
+    - name: price-table
+      weight: 3
+      xshow: 'showCloud'
+      classes:
+        - curved
+        - bg-gray-100
+      title: Alle Details vergleichen
+      table:
+          head: ['Free', 'Plus', 'Enterprise', 'Dedicated']
+          rows:
+              - type: section
+                label: 'Preis (pro Nutzer, zzgl. MwSt.)'
+              - key: 'Jährliche Abrechnung'
+                values: ['0€', '7€', '14€', '*']
+              - key: 'Monatliche Abrechnung'
+                values: ['0€', '9€', '18€', '*']
+              - type: section
+                label: 'Nutzung (Gesamt pro Team)'
+              - key: 'Bases'
+                values: ['∞', '∞', '∞', '∞']  
+              - key: 'Tabellen'
+                values: ['∞', '∞', '∞', '∞']
+              - key: 'Zeilen'
+                values: ['10.000', '50.000', '∞', '∞']
+              - key: 'Speicherplatz'
+                values: ['2 GB', '50 GB', ' 100 GB', '∞']
+              - key: 'Aufbewahrungszeit Snapshots'
+                values: ['1 Monat', '6 Monate', ' 12 Monate', '24 Monate']
+              - key: 'JavaScript Läufe (pro Monat)'
+                values: ['∞', '∞', '∞', '∞']
+              - key: 'Python Läufe (pro Monat)'
+                values: ['100', '5.000', '∞', '∞']
+              - key: 'Maximale Teamgröße'
+                values: ['25', '∞', '∞', '∞']
+              - type: section
+                label: 'Funktionen'
+              - key: '25 Spaltentypen'
+                values: ['+', '+', '+', '+']
+              - key: 'Filter, Gruppierung und Sortierung'
+                values: ['+', '+', '+', '+']
+              - key: 'Ansichten'
+                values: ['+', '+', '+', '+']
+              - key: 'Private Ansichten'
+                values: ['-', '+', '+', '+']
+              - key: 'Freigabe von Ansichten'
+                values: ['-', '+', '+', '+']
+              - key: 'Webformulare'
+                values: ['+', '+', '+', '+']
+              - key: 'Gemeinsame Datensätze'
+                values: ['+', '+', '+', '+']
+              - key: 'Import / Export (CSV, XLSX und DTABLE)'
+                values: ['+', '+', '+', '+']
+              - key: 'Benachrichtigungen'
+                values: ['+', '+', '+', '+']
+              - key: 'Plugins'
+                values: ['+', '+', '+', '+']
+              - key: 'Javascript und Python Support'
+                values: ['+', '+', '+', '+']
+              - key: 'App Builder'
+                values: ['+', '+', '+', '+']
+              - key: 'Individuelle Freigabeberechtigungen (Base)'
+                values: ['-', '+', '+', '+']
+              - key: 'Tabellen-, Ansichts- und Spaltenberechtigungen (Base)'
+                values: ['-', '+', '+', '+']
+              - key: 'Zeilensperrung'
+                values: ['-', '+', '+', '+']
+              - key: 'Seitenberechtigungen (App)'
+                values: ['-', '-', '+', '+']
+              - key: 'Anpassungen des Webformulars (Logo, Header-Bild)'
+                values: ['-', '-', '+', '+']
+              - key: 'Automationen'
+                values: ['-', '-', '+', '+']
+              - key: 'Big-Data-Speicher'
+                values: ['-', '-', '+', '+']
+              - type: section
+                label: 'Support'
+              - key: 'Hilfebereich'
+                values: ['+', '+', '+', '+']
+              - key: 'SeaTable Forum'
+                values: ['+', '+', '+', '+']
+              - key: 'E-Mail-Support'
+                values: ['-', '-', '+', '+']
+              - key: 'Professional Services (kostenpflichtig)'
+                values: ['-', '-', '+', '+']
+              - type: section
+                label: 'Admin & Sicherheit'
+              - key: '2 Faktor-Authentifizierung'
+                values: ['+', '+', '+', '+']
+              - key: 'Enterprise Admin Panel'
+                values: ['-', '-', '-', '+']
+              - key: 'Authentifizierung per AD/LDAP, SAML oder OAuth'
+                values: ['-', '-', '-', '+']
+              - type: section
+                label: 'Abrechnung'
+              - key: 'Zahlung per Kreditkarte'
+                values: ['+', '+', '+', '+']
+              - key: 'Zahlung per Überweisung (mind. 10 Benutzer, jährliche Zahlung)'
+                values: ['-', '-', '+', '+']
+
 
     # details
     # TODO: hinzufügen

@@ -5,18 +5,118 @@ date: '2025-03-30'
 url: '/prices'
 
 sections:
-    - name: hero-2
+    - name: hero-price
       weight: 1
       title: SeaTable Cloud. Tailored to you.
       subtitle: What we offer
       text: Start for free and get more features and higher limits from €7 per user per month when you need them
-      platform_selector: 'yes'
+      title2: SeaTable Server. Full control for your organization.
+      subtitle2: What you get
+      text2: Install SeaTable on your own server and benefit from maximum data sovereignty, individual customization, and all enterprise features.
 
     - name: 'price-1'
       weight: 2
+      xshow: 'showCloud'
 
-    # details
-    # TODO: hinzufügen
+    - name: price-table
+      weight: 3
+      xshow: 'showCloud'
+      classes:
+        - curved
+        - bg-gray-100
+      title: Compare all details
+      table:
+        head: ['Free', 'Plus', 'Enterprise', 'Dedicated']
+        rows:
+          - type: section
+            label: 'Price (per user, excl. VAT)'
+          - key: 'Annual billing'
+            values: ['0€', '7€', '14€', '*']
+          - key: 'Monthly billing'
+            values: ['0€', '9€', '18€', '*']
+          - type: section
+            label: 'Usage (total per team)'
+          - key: 'Bases'
+            values: ['∞', '∞', '∞', '∞']  
+          - key: 'Tables'
+            values: ['∞', '∞', '∞', '∞']
+          - key: 'Rows'
+            values: ['10,000', '50,000', '∞', '∞']
+          - key: 'Storage space'
+            values: ['2 GB', '50 GB', '100 GB', '∞']
+          - key: 'Snapshot retention period'
+            values: ['1 month', '6 months', '12 months', '24 months']
+          - key: 'JavaScript runs (per month)'
+            values: ['∞', '∞', '∞', '∞']
+          - key: 'Python runs (per month)'
+            values: ['100', '5,000', '∞', '∞']
+          - key: 'Maximum team size'
+            values: ['25', '∞', '∞', '∞']
+          - type: section
+            label: 'Features'
+          - key: '25 column types'
+            values: ['+', '+', '+', '+']
+          - key: 'Filter, grouping and sorting'
+            values: ['+', '+', '+', '+']
+          - key: 'Views'
+            values: ['+', '+', '+', '+']
+          - key: 'Private views'
+            values: ['-', '+', '+', '+']
+          - key: 'Sharing views'
+            values: ['-', '+', '+', '+']
+          - key: 'Web forms'
+            values: ['+', '+', '+', '+']
+          - key: 'Shared datasets'
+            values: ['+', '+', '+', '+']
+          - key: 'Import / Export (CSV, XLSX and DTABLE)'
+            values: ['+', '+', '+', '+']
+          - key: 'Notifications'
+            values: ['+', '+', '+', '+']
+          - key: 'Plugins'
+            values: ['+', '+', '+', '+']
+          - key: 'Javascript and Python support'
+            values: ['+', '+', '+', '+']
+          - key: 'App Builder'
+            values: ['+', '+', '+', '+']
+          - key: 'Individual sharing permissions (Base)'
+            values: ['-', '+', '+', '+']
+          - key: 'Table, view and column permissions (Base)'
+            values: ['-', '+', '+', '+']
+          - key: 'Row locking'
+            values: ['-', '+', '+', '+']
+          - key: 'Page permissions (App)'
+            values: ['-', '-', '+', '+']
+          - key: 'Web form customization (logo, header image)'
+            values: ['-', '-', '+', '+']
+          - key: 'Automations'
+            values: ['-', '-', '+', '+']
+          - key: 'Big data storage'
+            values: ['-', '-', '+', '+']
+          - type: section
+            label: 'Support'
+          - key: 'Help center'
+            values: ['+', '+', '+', '+']
+          - key: 'SeaTable forum'
+            values: ['+', '+', '+', '+']
+          - key: 'Email support'
+            values: ['-', '-', '+', '+']
+          - key: 'Professional services (paid)'
+            values: ['-', '-', '+', '+']
+          - type: section
+            label: 'Admin & Security'
+          - key: '2-factor authentication'
+            values: ['+', '+', '+', '+']
+          - key: 'Enterprise admin panel'
+            values: ['-', '-', '-', '+']
+          - key: 'Authentication via AD/LDAP, SAML or OAuth'
+            values: ['-', '-', '-', '+']
+          - type: section
+            label: 'Billing'
+          - key: 'Payment by credit card'
+            values: ['+', '+', '+', '+']
+          - key: 'Payment by bank transfer (min. 10 users, annual payment)'
+            values: ['-', '-', '+', '+']
+
 
     # details on-premise
     - name: 'content-9'
