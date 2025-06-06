@@ -38,4 +38,4 @@ Wenn Sie sich gerade **in einer Base** befinden, können Sie auch eine Freigabe 
 - Bases, die Sie **selbst erstellt** haben, können Sie jederzeit freigeben, während Bases, die zu einer Gruppe gehören, nur von **Eigentümern** und **Administratoren** an andere Gruppen freigegeben werden können.
 - Eine Gruppe, die von Ihnen eine Base freigegeben bekommen hat, besitzt **keine Eigentümerrechte** und kann somit beispielsweise **nicht** den Namen der Base ändern.
 
-Wie Sie **einzelne Tabellen und Ansichten** einer Base an eine Gruppe freigeben können, erfahren Sie im Artikel [Benutzerdefinierte Freigabe erstellen](https://seatable.io/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+Wie Sie **einzelne Tabellen und Ansichten** einer Base an eine Gruppe freigeben können, erfahren Sie im Artikel [Benutzerdefinierte Freigabe erstellen]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

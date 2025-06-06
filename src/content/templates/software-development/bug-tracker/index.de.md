@@ -15,7 +15,7 @@ Beim Entwickeln und Testen einer komplexen Software stößt man zwangsläufig au
 
 Hierbei gibt es drei wichtige Ebenen: die gefundenen Probleme (Tabelle 1), die durchgeführten Tests (Tabelle 2) und die getesteten Versionen (Tabelle 3). Haben Sie keinen Bugtracker oder eine schlecht strukturierte Bugtracker Freeware, so geraten diese Elemente häufig durcheinander. Dahingegen hilft Ihnen das kostenlose Bugtracker Tool von SeaTable, Bugs in Ihrer Software einfach zu dokumentieren, Personen zuzuweisen und einen strukturierten Lösungsprozess einzuleiten.
 
-Die Bugtracker Vorlage bietet dafür eine intuitive Kanban-Ansicht, in der Sie alle Softwarefehler übersichtlich nach Status ordnen können. Zudem können Sie Fehler und Probleme, die bei Ihren Tests auffallen, unkompliziert über ein Webformular aufnehmen. Mithilfe des Tree-Plugins navigieren Sie mühelos durch die verknüpften Tabellen und behalten auch bei vielen Daten im Bug Tracker stets die Orientierung.
+Die Bugtracker Vorlage bietet dafür eine intuitive Kanban-Ansicht, in der Sie alle Softwarefehler übersichtlich nach Status ordnen können. Zudem können Sie Fehler und Probleme, die bei Ihren Tests auffallen, unkompliziert über ein Webformular aufnehmen. Mithilfe des Baum-Plugins navigieren Sie mühelos durch die verknüpften Tabellen und behalten auch bei vielen Daten im Bug Tracker stets die Orientierung.
 
 Warum Bug Tracking sinnvoll ist und wie genau es funktioniert, lesen Sie in unserem Blog-Artikel zum Software Testing.
 

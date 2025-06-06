@@ -99,7 +99,7 @@ Con la vista Kanban, su equipo **realiza fácilmente un seguimiento de las próx
 
 Otra ventaja de esta plantilla es la tabla de versiones, que permite vincular los errores corregidos a versiones de software concretas. De este modo, siempre dispondrá de documentación rastreable\*\* de cuándo y con qué versión se ha aplicado una mejora o se ha corregido un error, algo muy valioso para garantizar la calidad a largo plazo y para las auditorías internas.
 
-El plugin Tree también proporciona una **vista general intuitiva de la estructura y los vínculos de sus pruebas de software y errores**. Incluso con proyectos extensos, mantendrá el control y podrá navegar fácilmente por sus datos. Las entradas enlazadas pueden consultarse rápidamente, lo que facilita enormemente la orientación en escenarios de pruebas complejos.
+El plugin Árbol también proporciona una **vista general intuitiva de la estructura y los vínculos de sus pruebas de software y errores**. Incluso con proyectos extensos, mantendrá el control y podrá navegar fácilmente por sus datos. Las entradas enlazadas pueden consultarse rápidamente, lo que facilita enormemente la orientación en escenarios de pruebas complejos.
 
 Con SeaTable, creará un punto de contacto central para ofrecer un producto fiable y de alto rendimiento. Utilice el rastreador de errores gratuito para ahorrarle a usted y a su equipo un tiempo valioso, al tiempo que garantiza la máxima calidad del software. ¿El resultado? Un proceso de pruebas sin problemas y usuarios satisfechos que se benefician de un software estable y potente.
 

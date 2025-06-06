@@ -110,7 +110,7 @@ Tout est au même endroit et tout le monde est au même niveau : dans SeaTable, 
 
 {{< template id="898485ee9b7949c5b987" >}}
 
-Le plus grand avantage de SeaTable réside toutefois dans ses nombreuses possibilités de visualisation. Qu'il s'agisse de **calendriers**, de **timelines**, de **tableaux Kanban** ou de **organigrammes**, il y a tout ce que l'on peut désirer, et même plus : sur le **tableau blanc** séparé, vous pouvez esquisser librement votre organigramme de projet et créer des mindmaps similaires à celles de Miro. Vous pouvez également utiliser le tout nouveau **plugin Tree** pour afficher ou masquer à votre guise les différents niveaux de votre organigramme de projet.
+Le plus grand avantage de SeaTable réside toutefois dans ses nombreuses possibilités de visualisation. Qu'il s'agisse de **calendriers**, de **timelines**, de **tableaux Kanban** ou de **organigrammes**, il y a tout ce que l'on peut désirer, et même plus : sur le **tableau blanc** séparé, vous pouvez esquisser librement votre organigramme de projet et créer des mindmaps similaires à celles de Miro. Vous pouvez également utiliser le tout nouveau **plugin Arbre** pour afficher ou masquer à votre guise les différents niveaux de votre organigramme de projet.
 
 Vous trouverez le modèle d'organigramme technique de projet [ici]({{< relref "templates/projects/work-breakdown-structure" >}}). Avant de pouvoir l'utiliser, vous devez vous inscrire gratuitement avec votre adresse e-mail.
 

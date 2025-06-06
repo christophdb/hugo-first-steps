@@ -100,7 +100,7 @@ Grâce à la vue Kanban, votre équipe garde **sans effort une vue d'ensemble de
 
 Un autre avantage de ce modèle est le tableau des versions, qui vous permet de relier les bugs corrigés à des versions spécifiques du logiciel. Vous disposez ainsi **à tout moment d'une documentation compréhensible** indiquant quand et avec quelle version une amélioration ou une correction de bug est entrée en vigueur - ce qui est précieux pour l'assurance qualité à long terme et les audits internes.
 
-Le plug-in Tree offre en outre un **aperçu intuitif de la structure et des liens de vos tests et bugs logiciels**. Même pour les projets de grande envergure, vous gardez ainsi le contrôle et naviguez confortablement dans vos données. Les entrées liées peuvent être appelées rapidement, ce qui facilite considérablement l'orientation dans les scénarios de test complexes.
+Le plug-in Arbre offre en outre un **aperçu intuitif de la structure et des liens de vos tests et bugs logiciels**. Même pour les projets de grande envergure, vous gardez ainsi le contrôle et naviguez confortablement dans vos données. Les entrées liées peuvent être appelées rapidement, ce qui facilite considérablement l'orientation dans les scénarios de test complexes.
 
 Avec SeaTable, vous créez un point de contact unique pour livrer un produit fiable et performant. Utilisez le bugtracker gratuit qui vous fait gagner un temps précieux, à vous et à votre équipe, tout en permettant une qualité logicielle maximale. Le résultat ? Un processus de test sans faille et des utilisateurs satisfaits qui bénéficient d'un logiciel stable et performant.
 

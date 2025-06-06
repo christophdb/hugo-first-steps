@@ -76,7 +76,7 @@ El siguiente gran paso en la agenda es la **certificación BSI** para la próxim
 
 ### Nuevo plugin SeaTable: Árbol
 
-Una función interesante que se ha introducido es el nuevo plugin**"Tree**" de SeaTable. Este complemento permite a los usuarios organizar los datos en una estructura de árbol, lo que facilita enormemente la navegación por las tablas anidadas. Con funciones como niveles plegables, anchuras de columna personalizables y la posibilidad de crear nuevas filas o actualizar las existentes, el plugin Árbol es una potente herramienta para gestionar conjuntos de datos complejos. Especialmente útil es la visualización ordenable en hasta tres niveles, que ofrece más flexibilidad a la hora de organizar los datos.
+Una función interesante que se ha introducido es el nuevo plugin**"Árbol**" de SeaTable. Este complemento permite a los usuarios organizar los datos en una estructura de árbol, lo que facilita enormemente la navegación por las tablas anidadas. Con funciones como niveles plegables, anchuras de columna personalizables y la posibilidad de crear nuevas filas o actualizar las existentes, el plugin Árbol es una potente herramienta para gestionar conjuntos de datos complejos. Especialmente útil es la visualización ordenable en hasta tres niveles, que ofrece más flexibilidad a la hora de organizar los datos.
 
 ![Participantes en los SeaDays 2024](images/74b1d263-ec63-4f11-85bc-8af629d0b24e-711x400.jpg)
 

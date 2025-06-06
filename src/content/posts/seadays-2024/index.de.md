@@ -77,7 +77,7 @@ Als nächster großer Schritt steht die **BSI-Zertifizierung** für die kommende
 
 ### Neues SeaTable Plugin: Tree
 
-Ein spannendes Feature, das vorgestellt wurde, ist das neue SeaTable-Plugin “**Tree**“. Dieses Plugin ermöglicht es Nutzern, Daten in einer Baumstruktur zu organisieren, was die Navigation durch verschachtelte Tabellen erheblich vereinfacht. Mit Funktionen wie zusammenklappbaren Ebenen, individueller Spaltenbreite und der Möglichkeit, neue Zeilen zu erstellen oder bestehende zu aktualisieren, ist das Tree-Plugin ein leistungsstarkes Werkzeug für das Management komplexer Datensätze. Besonders nützlich ist die sortierbare Darstellung in bis zu drei Ebenen, die mehr Flexibilität bei der Organisation von Daten bietet.
+Ein spannendes Feature, das vorgestellt wurde, ist das neue SeaTable-Plugin “**Tree**“. Dieses Plugin ermöglicht es Nutzern, Daten in einer Baumstruktur zu organisieren, was die Navigation durch verschachtelte Tabellen erheblich vereinfacht. Mit Funktionen wie zusammenklappbaren Ebenen, individueller Spaltenbreite und der Möglichkeit, neue Zeilen zu erstellen oder bestehende zu aktualisieren, ist das Baum-Plugin ein leistungsstarkes Werkzeug für das Management komplexer Datensätze. Besonders nützlich ist die sortierbare Darstellung in bis zu drei Ebenen, die mehr Flexibilität bei der Organisation von Daten bietet.
 
 ![Teilnehmer der SeaDays 2024](images/74b1d263-ec63-4f11-85bc-8af629d0b24e-711x400.jpg)
 
