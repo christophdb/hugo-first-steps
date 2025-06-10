@@ -257,9 +257,10 @@
             const URL_BY_LANGUAGE = {};
             const LOCAL_STORAGE_KEY = 'hugo_language';
 
-            // Hugo will render this block with actual URLs
+            {{ $urls := dict }}
             {{ range $.AllTranslations }}
                 URL_BY_LANGUAGE['{{ .Lang }}'] = '{{ .Permalink }}';
+                {{ $urls = merge $urls (dict "{{ .Lang }}" "{{ .Permalink }}") }}
             {{ end }}
 
             // Function to detect if the visitor is a search engine crawler
@@ -269,49 +270,69 @@
             }
 
             document.addEventListener('alpine:init', () => {
+                const params = new URLSearchParams(window.location.search);
+
+                // Check if the URL has a force_language query parameter
+                if (params.has('force_language')) {
+                    // Update local storage
+                    localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(params.get('force_language')));
+                    return;
+                }
+
                 // Skip redirect for crawlers/bots
                 if (isCrawler()) {
                     return;
                 }
 
-                const params = new URLSearchParams(window.location.search);
-
-                // Handle force_language query parameter
-                if (params.has('force_language')) {
-                    localStorage.setItem(LOCAL_STORAGE_KEY, params.get('force_language'));
-                    return;
-                }
-
-                // Skip if in Matomo preview mode
+                // Skip redirect if Matomo preview mode is enabled
                 if (params.has('mtmPreviewMode')) {
                     return;
                 }
 
-                // Check local storage for language preference
-                const language = localStorage.getItem(LOCAL_STORAGE_KEY);
+                // Check local storage first
+                const language = JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY));
 
                 if (language !== null) {
                     const target = URL_BY_LANGUAGE[language] || URL_BY_LANGUAGE[DEFAULT_LANGUAGE];
-                    if (!target) return;
+
+                    if (!target) {
+                        // Do not try to redirect if the page does not exist in other languages
+                        // This can happen with /categories/<name> since the categories are not linked
+                        return;
+                    }
+
                     redirect(target);
                     return;
                 }
 
-                // Use browser language preferences
                 const languages = navigator.languages || [navigator.language] || [DEFAULT_LANGUAGE];
                 const languageCodes = languages.map((c) => c.split('-')[0]);
-                const preferredLanguage = languageCodes.find((code) => SUPPORTED_LANGUAGES.includes(code)) || DEFAULT_LANGUAGE;
+
+                // Find the first supported language (fallback to default language)
+                const preferredLanguage = languageCodes.filter((code) => SUPPORTED_LANGUAGES.includes(code))[0] || DEFAULT_LANGUAGE;
+
                 const target = URL_BY_LANGUAGE[preferredLanguage] || URL_BY_LANGUAGE[DEFAULT_LANGUAGE];
-                if (!target) return;
+
+                if (!target) {
+                    // Do not try to redirect if the page does not exist in other languages
+                    // This can happen with /categories/<name> since the categories are not linked
+                    return;
+                }
+
                 redirect(target);
+                return;
             });
 
-            function redirect(url) {
+            const redirect = (url) => {
+                // Strip query parameters in order to not take them into account when comparing URLs
                 const currentUrl = window.location.href.split('?')[0];
+
+                // Redirect if the user is not already on the correct page
                 if (currentUrl !== url) {
+                    // Keep query parameters and URL fragment
                     window.location.href = url + window.location.search + window.location.hash;
                 }
-            }
+            };
         </script>
 
         <!-- alpine js -->
