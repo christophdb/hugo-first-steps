@@ -263,6 +263,12 @@
                 {{ $urls = merge $urls (dict "{{ .Lang }}" "{{ .Permalink }}") }}
             {{ end }}
 
+            // Function to detect if the visitor is a search engine crawler
+            function isCrawler() {
+                const ua = navigator.userAgent;
+                return /bot|crawl|slurp|spider|mediapartners/i.test(ua);
+            }
+
             document.addEventListener('alpine:init', () => {
                 const params = new URLSearchParams(window.location.search);
 
@@ -273,7 +279,12 @@
                     return;
                 }
 
-                // Do not redirect if Matomo preview mode is enabled
+                // Skip redirect for crawlers/bots
+                if (isCrawler()) {
+                    return;
+                }
+
+                // Skip redirect if Matomo preview mode is enabled
                 if (params.has('mtmPreviewMode')) {
                     return;
                 }
