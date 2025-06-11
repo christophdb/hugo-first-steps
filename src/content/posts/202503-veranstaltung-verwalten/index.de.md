@@ -8,7 +8,6 @@ date: 2025-03-23
 url: '/de/veranstaltung-verwalten'
 aliases:
     - '/veranstaltung-verwalten'
-
 tags:
     - 'Eventmanagement'
 categories:
