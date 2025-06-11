@@ -5,6 +5,7 @@ date: '2025-04-03'
 url: '/ru/hr-процессы'
 aliases: 
   - '/ru/hr-processes'
+  - '/ru/hr-prozesse'
 
 sections:
     - name: hero-5
