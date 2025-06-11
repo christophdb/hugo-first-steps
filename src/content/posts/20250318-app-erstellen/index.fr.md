@@ -7,7 +7,7 @@ seo:
 date: 2025-03-18
 categories:
     - 'general'
-    - 'low-code-no-code'
+    - 'No Code & Low Code'
 tags:
     - 'Outils & plugins'
     - 'Universal App Builder'
