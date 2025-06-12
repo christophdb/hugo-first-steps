@@ -21,7 +21,7 @@ Ihre Aufgaben sollten Sie dabei priorisieren, damit wichtige Dinge zuerst erledi
 
 ## Wieso Time Blocking?
 
-Arbeitsunterbrechungen gehören im Arbeitsalltag dazu – denn nicht jeder hat einen eigenen Büroraum, in dem er ungestört arbeiten kann. Insbesondere bei der Arbeit mit vielen Schnittstellen, wie etwa im [Projektmanagement](https://seatable.io/projektmanagement/), sind Arbeitsunterbrechungen fast unvermeidbar. Anrufe, laute Umgebung und ad-hoc zugerufene Aufgaben sind in Großraumbüros keine Seltenheit.
+Arbeitsunterbrechungen gehören im Arbeitsalltag dazu – denn nicht jeder hat einen eigenen Büroraum, in dem er ungestört arbeiten kann. Insbesondere bei der Arbeit mit vielen Schnittstellen, wie etwa im [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), sind Arbeitsunterbrechungen fast unvermeidbar. Anrufe, laute Umgebung und ad-hoc zugerufene Aufgaben sind in Großraumbüros keine Seltenheit.
 
 Während des Arbeitsflusses ständig unterbrochen zu werden, hemmt aber die Produktivität deutlich. Auch Multitasking ist ein Produktivitätskiller, der sogar die Gesundheit belasten kann, wie [eine Studie der BAuA herausfand](https://www.baua.de/DE/Angebote/Publikationen/Praxis/A78.pdf?__blob=publicationFile&v). Die Arbeitsqualität verschlechtert sich, denn Sie kommen fast nie in den Zustand hoher Konzentration und Produktivität hat kaum eine Chance, überhaupt erst zu entstehen.
 

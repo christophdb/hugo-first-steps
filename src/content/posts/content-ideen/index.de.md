@@ -37,7 +37,7 @@ Indem Sie Ihr Team vorstellen, wirken Sie authentischer.
 
 Werden Sie interaktiv und beziehen Sie Ihre Follower mit ein. Dabei ist egal, ob aus reinem Vergnügen, zu Forschungszwecken oder um Ihre Follower **in eine Entscheidung einzubeziehen**. Finden Sie mit dieser Content-Idee auf unterhaltsame Weise die Meinung Ihrer Follower heraus und fördern Sie den Dialog.
 
-![Eine Umfrage in der Instagram-Story. ](images/Umfragen-711x889.png)
+![Eine Umfrage in der Instagram-Story.](images/Umfragen-711x889.png)
 
 Fragen Sie doch Ihre Follower direkt, was sie gerne sehen möchten.
 

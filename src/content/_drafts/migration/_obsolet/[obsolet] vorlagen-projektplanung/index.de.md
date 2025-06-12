@@ -19,7 +19,7 @@ Ein Projektplan beinhaltet sämtliche Übersichten und Dokumente, die Sie für I
 
 Der Projektplan ist ein zentraler Ort, an dem Sie jeden Schritt des Projekts verfolgen können. Er ermöglicht eine einfachere Kommunikation zwischen Beteiligten und legt die zeitliche Planung, den Umfang und die [Kosten des Projekts](https://seatable.io/budgetplanung-vorlage/) dar.
 
-Die Darstellung kann in Listen erfolgen. Zusätzlich kommen häufig die Gantt-Diagramm-Darstellung oder ein Kanban-Board zum Einsatz. Ein Gantt-Diagramm ist dabei eine Methode aus dem [Projektmanagement](https://seatable.io/projektmanagement/), um Aufgaben und Events in horizontalen Balken mit Start- und Enddatum abzubilden. Bei dem Kanban-Board geht es wiederum darum, Aufgaben als To-Do-Karten in interaktiven Listen abzuarbeiten. Zu beiden sehen Sie folgend Vorlagen-Beispiele für einen Projektplan.
+Die Darstellung kann in Listen erfolgen. Zusätzlich kommen häufig die Gantt-Diagramm-Darstellung oder ein Kanban-Board zum Einsatz. Ein Gantt-Diagramm ist dabei eine Methode aus dem [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), um Aufgaben und Events in horizontalen Balken mit Start- und Enddatum abzubilden. Bei dem Kanban-Board geht es wiederum darum, Aufgaben als To-Do-Karten in interaktiven Listen abzuarbeiten. Zu beiden sehen Sie folgend Vorlagen-Beispiele für einen Projektplan.
 
 ![Mitarbeiterin beschäftig sich mit einer Vorlage für die Projektplanung.](https://seatable.io/wp-content/uploads/2022/05/Vorlagen-Projektplanung_AdobeStock_137171761_bearbeitet-711x474.jpg)
 
