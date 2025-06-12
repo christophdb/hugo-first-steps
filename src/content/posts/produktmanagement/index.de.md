@@ -33,7 +33,7 @@ Zu den Aufgaben des Produktmanagements gehören alle Stadien, die ein Produkt du
 - **Konzeption**: Strategiebildung zu Markt, Preis, Distribution, Kommunikation; Prototyp, Kostenübersicht
 - **Umsetzung**: technische Umsetzung, Strategieumsetzung, Produktlaunch
 
-Zudem gibt es noch einige organisatorische Aufgaben, die ein Produktmanager übernimmt. Er fungiert als **Schnittstelle** zwischen [Marketing](https://seatable.io/marketing/), [Vertrieb](https://seatable.io/vertrieb/) und Produktentwicklung sowie der Produktion. Für die einzelnen Schritte im Produktentwicklungsprozess koordiniert der Produktmanager auch das **[Projektmanagement](https://seatable.io/projektmanagement/)**. Das Produktmanagement ist also auch viel mit Strategiebildung und Analysen beschäftigt, welche neben der Konzeption und Entwicklung des Produkts selbst anfallen.
+Zudem gibt es noch einige organisatorische Aufgaben, die ein Produktmanager übernimmt. Er fungiert als **Schnittstelle** zwischen [Marketing](https://seatable.io/marketing/), [Vertrieb](https://seatable.io/vertrieb/) und Produktentwicklung sowie der Produktion. Für die einzelnen Schritte im Produktentwicklungsprozess koordiniert der Produktmanager auch das **[Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}})**. Das Produktmanagement ist also auch viel mit Strategiebildung und Analysen beschäftigt, welche neben der Konzeption und Entwicklung des Produkts selbst anfallen.
 
 ### Herausforderungen im Produktmanagement
 

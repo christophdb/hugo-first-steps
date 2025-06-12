@@ -47,7 +47,7 @@ Sie kennen das vielleicht – Sie suchen ein Produkt und Sie wissen, wie es auss
 
 Mit wenigen Klicks haben Sie eine informative Galerie erstellt.
 
-Das Plugin ergänzt die Produktkataloge perfekt und macht Bilddatenbanken auf anderen Plattformen überflüssig. Da SeaTable nicht nur ein starkes Projektmanagement-Tool ist, sondern auch gleichzeitig eine Datenbank, die Bilder im Original speichert, ist diese Funktion für das digitale [Projektmanagement](https://seatable.io/projektmanagement/) optimal.
+Das Plugin ergänzt die Produktkataloge perfekt und macht Bilddatenbanken auf anderen Plattformen überflüssig. Da SeaTable nicht nur ein starkes Projektmanagement-Tool ist, sondern auch gleichzeitig eine Datenbank, die Bilder im Original speichert, ist diese Funktion für das digitale [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) optimal.
 
 ## Einfache Katalogisierung von Produkten
 
