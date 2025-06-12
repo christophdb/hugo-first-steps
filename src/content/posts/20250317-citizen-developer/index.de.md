@@ -9,7 +9,7 @@ categories:
     - 'No Code & Low Code'
 tags:
     - 'IT Prozesse'
-    - 'Low Code / No Code'
+    - 'No Code & Low Code'
 color: '#50c2d0'
 url: '/de/citizen-developer/'
 ---
