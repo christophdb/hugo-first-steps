@@ -4,6 +4,10 @@ description: ''
 url: /ru/api-gateway-version-5-3
 date: 2025-06-02
 color: '#c5e8bc'
+category:
+    - 'Продукт и функции'
+tags:
+    - 'Интеграции и автоматизация'
 ---
 
 С выходом SeaTable v5.3 доступ к API SeaTable будет осуществляться только через новый API-шлюз. Прямой доступ к прежним конечным точкам `dtable-db` и `dtable-server` **будет полностью удален**.

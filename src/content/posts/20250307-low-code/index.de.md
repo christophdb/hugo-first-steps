@@ -6,10 +6,10 @@ seo:
     description: 'Die neue Welt von Low-Code und No-Code! Erfahre Sie, wie ohne Programmierkenntnisse leistungsstarke Anwendungen erstellt werden können'
 date: 2025-03-07
 categories:
-    - 'low-code-no-code'
+    - 'No Code & Low Code'
 tags:
     - 'Digitale Transformation'
-    - 'Low Code / No Code'
+    - 'No Code & Low Code'
 color: '#f2afdb'
 url: '/de/low-code'
 ---

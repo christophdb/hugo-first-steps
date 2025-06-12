@@ -6,9 +6,9 @@ seo:
     description: 'Создавать собственные приложения стало проще! Откройте для себя простые способы разработки пользовательских приложений без знания программирования'
 date: 2025-03-18
 categories:
-    - 'low-code-no-code'
+    - 'No Code & Low Code'
 tags:
-    - 'Low Code / No Code'
+    - 'No Code & Low Code'
     - 'Universal App Builder'
 color: '#9fe0cc'
 url: '/ru/app-erstellen'

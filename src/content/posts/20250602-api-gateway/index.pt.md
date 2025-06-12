@@ -4,6 +4,10 @@ description: ''
 url: '/pt/api-gateway-version-5-3'
 date: 2025-06-02
 color: '#c5e8bc'
+category:
+    - 'Produto e funcionalidades'
+tags:
+    - 'Integrações e automatizações'
 ---
 
 Com o lançamento do SeaTable v5.3, a API do SeaTable só será acessível através do novo gateway de API. O acesso direto aos endpoints anteriores de `dtable-db` e `dtable-server` **será completamente removido**.

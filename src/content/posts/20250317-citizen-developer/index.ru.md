@@ -6,9 +6,9 @@ seo:
     description: 'Разрабатывайте собственные программные решения с помощью Citizen Developers! В этой статье рассказывается о том, как использовать опыт ваших специализированных отделов'
 date: 2025-03-17
 categories:
-    - 'low-code-no-code'
+    - 'No Code & Low Code'
 tags:
-    - 'Low Code / No Code'
+    - 'No Code & Low Code'
     - 'ИТ-процессы'
 color: '#50c2d0'
 url: '/ru/citizen-developer'

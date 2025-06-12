@@ -7,9 +7,9 @@ seo:
 date: 2025-03-18
 categories:
     - 'general'
-    - 'low-code-no-code'
+    - 'No Code & Low Code'
 tags:
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
     - 'Aplicação universal'
 color: '#9fe0cc'
 url: '/pt/app-erstellen'

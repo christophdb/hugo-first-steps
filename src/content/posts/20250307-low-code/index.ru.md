@@ -6,10 +6,10 @@ seo:
     description: 'Новый мир low-code и no-code! Узнайте, как можно создавать мощные приложения без знания программирования'
 date: 2025-03-07
 categories:
-    - 'low-code-no-code'
+    - 'No Code & Low Code'
 tags:
     - 'Цифровая трансформация'
-    - 'Low Code / No Code'
+    - 'No Code & Low Code'
 color: '#f2afdb'
 url: '/ru/low-code'
 ---
