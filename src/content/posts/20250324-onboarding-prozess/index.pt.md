@@ -6,7 +6,6 @@ seo:
     description: 'Neste artigo, ficará a saber como criar e implementar com êxito um conceito de integração estruturado para os novos trabalhadores'
 date: 2025-03-24
 categories:
-    - 'general'
     - 'best-practice'
 tags:
     - 'Integração'

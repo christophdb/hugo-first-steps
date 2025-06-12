@@ -6,7 +6,7 @@ seo:
     description: 'In this article we show the difference between a human resources information system (HRIS) and a human resources management system (HRMS)'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'HR Administration'
 color: '#f5bdd6'

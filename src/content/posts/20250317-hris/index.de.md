@@ -6,7 +6,7 @@ seo:
     description: 'In diesem Artikel zeigen wir den Unterschied zwischen einem Personalinformationssystem (HRIS) und einem Personalmanagementsystem (HRMS)'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Personalverwaltung'
 color: '#f5bdd6'

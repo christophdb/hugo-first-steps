@@ -7,7 +7,7 @@ seo:
 
 date: 2025-03-27
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Finances'
     - 'Project Management'

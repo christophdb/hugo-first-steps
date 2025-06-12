@@ -6,7 +6,6 @@ seo:
     description: 'In diesem Artikel erfahren Sie, wie Sie ein strukturiertes Onboarding-Konzept für neie Mitarbeiter erstellen und erfolgreich umsetzen'
 date: 2025-03-24
 categories:
-    - 'general'
     - 'best-practice'
 tags:
     - 'Bewerber- & Talentmanagement'

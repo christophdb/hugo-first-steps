@@ -6,7 +6,7 @@ seo:
     description: 'Lerne die Grundlagen des agilen Projektmanagements kennen. Praktische Tipps und bewährte Strategien für flexible Projektsteuerung'
 date: 2025-03-18
 categories:
-    - 'general'
+    - 'Best Practice'
 tags:
     - 'Toolings & Plugins'
     - 'Projektmanagement'
