@@ -8,7 +8,7 @@ date: 2025-03-17
 categories:
     - 'No Code & Low Code'
 tags:
-    - 'Low Code / No Code'
+    - 'No Code & Low Code'
     - 'IT Processes'
 color: '#50c2d0'
 url: '/citizen-developer/'
