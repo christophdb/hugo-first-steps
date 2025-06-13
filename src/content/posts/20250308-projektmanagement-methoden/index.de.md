@@ -120,7 +120,7 @@ Das Lean Project Management unterscheidet zwischen drei Übeln, die es zu analys
 - **Mura (Unausgeglichenheit)** konzentriert sich auf unausgewogene Prozesse mit nicht aufeinander abgestimmten Prozessschritten und Störungen, die Warteschlangen oder Leerlauf verursachen.
 - **Muri (Überlastung)** bezieht sich auf die Aus- und Entlastung von Teammitgliedern und Maschinen. Es sollen keine Engpässe entstehen, die zu einem hohen Verschleiß oder Krankenstand aufgrund der Überbeanspruchung führen.
 
-Wichtig für diese Methode ist zudem, das optimale Verhältnis zwischen [Kosten und Nutzen](https://seatable.io/kosten-nutzen-analyse-vorlage/) eines Projekts zu finden.
+Wichtig für diese Methode ist zudem, das optimale Verhältnis zwischen [Kosten und Nutzen]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) eines Projekts zu finden.
 
 Als Nächstes folgen zwei Projektmanagement-Methoden, die eine grafische Veranschaulichung in den Vordergrund stellen: Der Projektstrukturplan und die Netzplantechnik.
 

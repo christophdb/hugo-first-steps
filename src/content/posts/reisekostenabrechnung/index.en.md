@@ -7,15 +7,15 @@ author: 'nsc'
 url: '/reisekostenabrechnung'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Travel expense report: Everything important for companies & travelers'
+    description: 'Transparent expense reports for your company. This guide explains reimbursable expenses and how to use SeaTable for efficiency.'
 ---
 
 The Income Tax Act describes three categories of **expenses** that employees can have **reimbursed** by their companies. In addition to orders placed on behalf of the company and expenses incurred to fulfill an order, this also applies to **business trips**. Whether it's a business trip lasting several days, a meeting with a distant customer or a trip to a trade fair - business trips are part of everyday life for many employees. In the following article, you will not only learn what a **travel expense report** is, but also receive valuable tips on how to create one.
 
 ![Business trip: Hand on the suitcase](images/guests-with-suitcases-hotel-reception-711x474.jpg)
 
-Companies often carry out a [cost-benefit analysis](https://seatable.io/en/kosten-nutzen-analyse-vorlage/) of business trips to ensure that the expenditure is justified.
+Companies often carry out a [cost-benefit analysis]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) of business trips to ensure that the expenditure is justified.
 
 ## What a travel expense report is
 
