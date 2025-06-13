@@ -6,7 +6,7 @@ seo:
     description: 'Would you like to use Excel for free? Discover clever Excel alternatives in our blog post. Efficient spreadsheets'
 date: 2025-03-06
 categories:
-    - 'general'
+    - 'Best Practice'
 tags:
     - 'Tools & Plugins'
     - 'When Excel is no longer sufficient'

@@ -6,7 +6,7 @@ seo:
     description: 'Lee nuestra entrada del blog para saber en qué consiste la gestión de datos y qué diferentes sistemas de bases de datos existen.'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Gestión y visualización de datos'
     - 'Herramientas y complementos'

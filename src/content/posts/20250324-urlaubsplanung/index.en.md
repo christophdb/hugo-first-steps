@@ -6,7 +6,6 @@ seo:
     description: 'Efficient holiday planning in a team: How to optimally coordinate employee absences and avoid bottlenecks - tips and templates'
 date: 2025-03-24
 categories:
-    - 'general'
     - 'best-practice'
 tags:
     - 'HR Administration'

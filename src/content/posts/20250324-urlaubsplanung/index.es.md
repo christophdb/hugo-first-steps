@@ -6,7 +6,6 @@ seo:
     description: 'Planificación eficaz de las vacaciones en equipo: cómo coordinar de forma óptima las ausencias de los empleados y evitar cuellos de botella Consejos y plantillas'
 date: 2025-03-24
 categories:
-    - 'general'
     - 'best-practice'
 color: '#fdf505'
 url: '/es/urlaubsplanung'

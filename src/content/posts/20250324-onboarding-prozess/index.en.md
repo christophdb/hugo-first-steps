@@ -6,7 +6,6 @@ seo:
     description: 'In this article you will learn how to create and successfully implement a structured onboarding concept for new employees'
 date: 2025-03-24
 categories:
-    - 'general'
     - 'best-practice'
 tags:
     - 'Applicants & Talents Management'

@@ -6,7 +6,7 @@ seo:
     description: 'Descubra as técnicas básicas e avançadas de armazenamento de dados. Saiba como armazenar dados de forma eficaz'
 date: 2025-03-26
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
 url: '/pt/data-warehouse'
 color: '#34ba9d'

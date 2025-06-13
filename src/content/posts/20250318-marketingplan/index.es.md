@@ -6,7 +6,6 @@ seo:
     description: 'Aprende a crear un plan de marketing eficaz para alcanzar tus objetivos empresariales, desde el análisis hasta la implementación'
 date: 2025-03-18
 categories:
-    - 'general'
     - 'best-practice'
 tags:
     - 'planificación de marketing'

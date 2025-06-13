@@ -6,7 +6,7 @@ seo:
     description: 'Conoce los fundamentos de la gestión ágil de proyectos. Consejos prácticos y estrategias probadas para la gestión flexible de proyectos'
 date: 2025-03-18
 categories:
-    - 'general'
+    - 'Mejores prácticas'
 tags:
     - 'Toolings y plugins'
 color: '#1eb0e5'

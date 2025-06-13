@@ -6,7 +6,7 @@ seo:
     description: 'Find out in our blog post what data management is all about and what different database systems are available.'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Data Management & Visualisation'
     - 'IT Processes'

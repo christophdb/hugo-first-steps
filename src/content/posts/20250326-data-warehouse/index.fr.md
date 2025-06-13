@@ -6,7 +6,7 @@ seo:
     description: 'Découvrez les bases et les techniques avancées du data warehousing. Apprenez à stocker efficacement les données'
 date: 2025-03-26
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
 url: '/fr/data-warehouse'
 color: '#34ba9d'

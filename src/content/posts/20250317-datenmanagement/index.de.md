@@ -6,7 +6,7 @@ seo:
     description: 'Erfahren Sie in unserem Blogbeitrag, worauf es beim Datenmanagement ankommt und welche verschiedenen Datenbanksysteme es gibt.'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Datenmanagement & Visualisierung'
     - 'Toolings & Plugins'

@@ -7,7 +7,6 @@ seo:
 
 date: 2025-03-18
 categories:
-    - 'general'
     - 'best-practice'
 tags:
     - 'planification du marketing'

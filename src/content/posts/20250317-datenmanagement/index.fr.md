@@ -6,7 +6,7 @@ seo:
     description: 'Découvrez dans notre article de blog ce qui est important dans la gestion des données et quels sont les différents systèmes de base de données disponibles.'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Gestion des données & visualisation'
     - 'Outils & plugins'

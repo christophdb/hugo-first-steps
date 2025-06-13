@@ -6,7 +6,7 @@ seo:
     description: 'Discover the basics and advanced techniques of data warehousing. Learn how to store data effectively'
 date: 2025-03-26
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Data Management & Visualisation'
     - 'Digital Transformation'

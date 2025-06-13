@@ -6,7 +6,7 @@ seo:
     description: 'Descubra los fundamentos y las técnicas avanzadas del almacenamiento de datos. Aprenda a almacenar datos de forma eficaz'
 date: 2025-03-26
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
 url: '/es/data-warehouse'
 color: '#34ba9d'
