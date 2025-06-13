@@ -120,7 +120,7 @@ Lean project management distinguishes between three evils that need to be analyz
 - **Mura (imbalance)** focuses on unbalanced processes with uncoordinated process steps and disruptions that cause queues or idle time.
 - **Muri (overload)** refers to the utilization and relief of team members and machines. There should be no bottlenecks that lead to high levels of wear and tear or sick leave due to overloading.
 
-It is also important for this method to find the optimum ratio between [costs and benefits](https://seatable.io/kosten-nutzen-analyse-vorlage/) of a project.
+It is also important for this method to find the optimum ratio between [costs and benefits]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) of a project.
 
 Next are two project management methods that focus on graphical illustration: The work breakdown structure and the network technique.
 

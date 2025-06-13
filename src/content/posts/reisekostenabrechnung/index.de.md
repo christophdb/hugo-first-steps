@@ -7,15 +7,15 @@ author: 'nsc'
 url: '/de/reisekostenabrechnung'
 color: '#eeeeee'
 seo:
-    title: 'Reisekostenabrechnung: Alles, was Sie wissen müssen'
-    description: 'Reisekostenabrechnung leicht gemacht: Erfahren Sie, wie Sie alles, was Sie wissen müssen. Inkl. kostenfreier Vorlage!'
+    title: 'Reisekostenabrechnung: Alles Wichtige für Firmen & Reisende'
+    description: 'Transparente Reisekostenabrechnungen für Ihr Unternehmen. Dieser Guide erklärt erstattungsfähige Kosten und die Nutzung von SeaTable für Effizienz.'
 ---
 
 Im Einkommensteuergesetz werden drei Kategorien für **Auslagen** beschrieben, die sich Arbeitnehmer von ihren Unternehmen **erstatten** lassen können. Neben Bestellungen im Namen der Firma und Ausgaben, die getätigt werden, um einen Auftrag auszuführen, betrifft dies auch **Dienstreisen**. Ob mehrtägige Geschäftsreise, ein Meeting mit einem weit entfernten Kunden oder die Fahrt zur Messe – Dienstreisen sind Alltag für viele Arbeitnehmer. Im folgenden Artikel erfahren Sie nicht nur, was eine **Reisekostenabrechnung** ist, sondern erhalten auch wertvolle Tipps für die Erstellung.
 
 ![Dienstreise: Hand am Koffer](images/guests-with-suitcases-hotel-reception-711x474.jpg)
 
-Unternehmen führen oft eine [Kosten-Nutzen-Analyse](https://seatable.io/kosten-nutzen-analyse-vorlage/) von Dienstreisen durch, um sicherzustellen, dass die Ausgaben gerechtfertigt sind.
+Unternehmen führen oft eine [Kosten-Nutzen-Analyse]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) von Dienstreisen durch, um sicherzustellen, dass die Ausgaben gerechtfertigt sind.
 
 ## Was eine Reisekostenabrechnung ist
 
@@ -102,6 +102,6 @@ Eine korrekte Reisekostenabrechnung erfordert bestimmte Angaben, die unbedingt e
 
 Viele nutzen für ihre Reisekostenabrechnung eine Vorlage in Excel – aber das muss nicht sein! Eine intuitivere und übersichtlichere Reisekostenabrechnung Vorlage gibt es zum Beispiel von SeaTable. Lassen Sie Ihre Mitarbeiter alle Kosten und Belege digital über Webformulare einreichen. Die Daten landen anschließend automatisch und ordentlich sortiert in einer Tabelle, sodass Sie immer den Überblick behalten und Ihren Mitarbeitern regelmäßig alle Auslagen zurückerstatten können.
 
-Mehr Informationen zur Reisekostenabrechnung Vorlage von SeaTable finden Sie [hier]({{< relref "templates/human-resources/expenses-reimbursement" >}}).
+Erfahren Sie mehr Informationen zur [Reisekostenabrechnung Vorlage]({{< relref "templates/human-resources/expenses-reimbursement" >}}) von SeaTable.
 
 [Registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) mit Ihrer E-Mail-Adresse, probieren Sie SeaTable aus und passen Sie die Vorlage ganz nach Ihren Wünschen an, um die Auslagen in Ihrem Unternehmen so zu erfassen, wie Sie es möchten!

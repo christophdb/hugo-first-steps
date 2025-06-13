@@ -119,7 +119,7 @@ Le Lean Project Management distingue trois maux qu'il convient d'analyser et d'�
 - **Mura (déséquilibre)** se concentre sur les processus déséquilibrés avec des étapes de processus non coordonnées entre elles et des perturbations qui provoquent des files d'attente ou des temps morts.
 - **Muri (surcharge)** se réfère à la décharge et à l'épuisement des membres de l'équipe et des machines. Il ne doit pas y avoir de goulots d'étranglement qui entraînent une usure importante ou un absentéisme pour cause de surmenage.
 
-Il est en outre important pour cette méthode de trouver le rapport optimal entre [coûts et bénéfices](https://seatable.io/kosten-nutzen-analyse-vorlage/) d'un projet.
+Il est en outre important pour cette méthode de trouver le rapport optimal entre [coûts et bénéfices]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) d'un projet.
 
 Viennent ensuite deux méthodes de gestion de projet qui mettent l'accent sur une illustration graphique : L'organigramme technique de projet et la technique du réseau.
 
