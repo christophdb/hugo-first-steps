@@ -2,7 +2,7 @@
 title: 'Budgetierung: Worauf es bei der Budgetplanung ankommt'
 description: 'Die Budgetierung definiert, wie viel Geld Sie und Ihre Führungskräfte zur Verfügung haben, um bestimmte Ziele zu erreichen. Zudem unterstützt sie Sie dabei, Geld und Ressourcen sinnvoll auf Projekte und Abteilungen zu verteilen. Lesen Sie in diesem Artikel, wie eine effiziente Budgetplanung funktioniert.'
 date: 2025-06-06
-url: '/de/budgetierung
+url: '/de/budgetierung'
 alias: '/de/budgetplanung-vorlage/'
 seo:
     title: 'Budgetierung: Vorteile, Methoden, Tipps'
