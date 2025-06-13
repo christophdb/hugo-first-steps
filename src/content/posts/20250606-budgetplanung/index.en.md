@@ -2,8 +2,6 @@
 title: 'Budgeting: What is important in budget planning?'
 description: 'Budgeting defines how much money you and your managers have available to achieve certain goals. It also helps you to allocate money and resources sensibly to projects and departments. Read this article to find out how efficient budget planning works.'
 date: 2025-06-06
-lastmod: '2025-02-03'
-author: 'rdb'
 url: '/budgeting'
 seo:
     title: 'Budgeting: advantages, methods, tips'
@@ -115,7 +113,7 @@ Particularly in internal power struggles, results are often glossed over or exag
 
 **Specific budgeting must remain adaptable**, as it is partly based on assumptions for the future that cannot be predicted with certainty. If things develop differently than expected, you should react flexibly.
 
-{{< warning headline="Zero-base budgeting" text="[Zero-base budgeting](https://de.wikipedia.org/wiki/Zero-Base-Budgeting) is a method in which **not** the budgeting of previous years is used as a basis, but instead new budget plans are forged from scratch every year. This constant rethinking is intended to uncover unnecessary measures and save costs." />}}
+{{< warning headline="Zero-base budgeting" text="[Zero-base budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) is a method in which **not** the budgeting of previous years is used as a basis, but instead new budget plans are forged from scratch every year. This constant rethinking is intended to uncover unnecessary measures and save costs." />}}
 
 ## Budgeting in individual departments
 
