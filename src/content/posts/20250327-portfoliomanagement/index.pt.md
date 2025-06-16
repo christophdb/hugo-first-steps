@@ -6,7 +6,7 @@ seo:
     description: 'Gestão da carteira de projectos ou gestão da carteira de produtos: neste artigo, ficará a saber como é que a sua gestão da carteira é sempre bem sucedida'
 date: 2025-03-27
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
 color: '#bba9d3'
 url: '/pt/portfoliomanagement'

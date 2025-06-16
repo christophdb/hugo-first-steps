@@ -6,7 +6,7 @@ seo:
     description: 'Entdecken Sie die Grundlagen und fortgeschrittenen Techniken des Data Warehousing. Erfahren Sie, wie Sie Daten effektiv speichern'
 date: 2025-03-26
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Datenmanagement & Visualisierung'
     - 'Digitale Transformation'

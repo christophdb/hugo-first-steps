@@ -6,7 +6,7 @@ seo:
     description: '¿Quieres usar Excel gratis? Descubre alternativas inteligentes a Excel en nuestra entrada del blog. Hojas de cálculo eficientes'
 date: 2025-03-06
 categories:
-    - 'general'
+    - 'Mejores prácticas'
 tags:
     - 'Toolings y plugins'
 url: '/es/excel-kostenlos'

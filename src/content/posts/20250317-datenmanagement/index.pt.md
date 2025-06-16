@@ -6,7 +6,7 @@ seo:
     description: 'Leia a nossa publicação no blogue para saber o que é a gestão de dados e quais os diferentes sistemas de bases de dados disponíveis.'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Gestão e visualização de dados'
     - 'No Code & Low Code'

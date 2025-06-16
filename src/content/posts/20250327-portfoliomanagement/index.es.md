@@ -6,7 +6,7 @@ seo:
     description: 'Gestión de carteras de proyectos o gestión de carteras de productos: en este artículo aprenderá cómo su gestión de carteras siempre tiene éxito'
 fecha: 2025-03-27
 categorías:
-    - 'general'
+    - 'best-practice'
 tags:
 color: '#bba9d3'
 url: '/es/portfoliomanagement'
