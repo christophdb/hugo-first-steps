@@ -35,7 +35,7 @@ Ce type de page vous permet d'ajouter n'importe quel **tableau** de votre base c
 
 ## Type de page : Formulaire
 
-Ce type de page permet de construire différents **formulaires** que les utilisateurs peuvent ensuite soumettre. [Les formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}) ne sont pas seulement disponibles dans l'application universelle, mais aussi en tant que fonctionnalité séparée. Les pages de formulaires dans l'application universelle sont idéales pour faire saisir **des données par de nombreux utilisateurs différents**. Une application possible est la [saisie du temps de travail de vos collaborateurs](https://seatable.io/fr/arbeitszeiterfassung/).
+Ce type de page permet de construire différents **formulaires** que les utilisateurs peuvent ensuite soumettre. [Les formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}) ne sont pas seulement disponibles dans l'application universelle, mais aussi en tant que fonctionnalité séparée. Les pages de formulaires dans l'application universelle sont idéales pour faire saisir **des données par de nombreux utilisateurs différents**. Une application possible est la [saisie du temps de travail de vos collaborateurs]({{< relref "posts/arbeitszeiterfassung" >}}).
 
 ![Formulaire web pour enregistrer le temps de travail de vos employés](images/webformular-working-time.png)
 

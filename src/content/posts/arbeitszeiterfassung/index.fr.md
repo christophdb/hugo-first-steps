@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Vous l'avez probablement déjà appris par les médias : Le ministère fédéral du Travail prévoit une réforme de la loi sur le temps de travail pour 2023. Mais qu'est-ce que cela va changer pour vous et votre entreprise ? Devez-vous acquérir des systèmes de saisie du temps de travail coûteux ou un [logiciel gratuit](https://seatable.io/fr/arbeitszeiterfassung/) suffit-il ? Dans cet article, nous vous montrons comment mettre en œuvre la saisie des temps de vos collaborateurs avec un minimum de frais administratifs tout en respectant la législation en vigueur.
+Vous l'avez probablement déjà appris par les médias : Le ministère fédéral du Travail prévoit une réforme de la loi sur le temps de travail pour 2023. Mais qu'est-ce que cela va changer pour vous et votre entreprise ? Devez-vous acquérir des systèmes de saisie du temps de travail coûteux ou un [logiciel gratuit]({{< relref "posts/arbeitszeiterfassung" >}}) suffit-il ? Dans cet article, nous vous montrons comment mettre en œuvre la saisie des temps de vos collaborateurs avec un minimum de frais administratifs tout en respectant la législation en vigueur.
 
 ## La situation juridique actuelle concernant la saisie des temps dans les entreprises
 
@@ -75,7 +75,7 @@ Application de gestion avec tableau de bord
 
 Rappel : il ne s'agit ici que d'un modèle exemplaire que nous avons créé pour vous. Toutes les fonctions de base sont incluses dans un abonnement gratuit à Free, mais pour bénéficier de toutes les fonctions, y compris les automatisations, il vous faut un abonnement à Enterprise. Bien entendu, vous pouvez utiliser de nombreuses autres fonctionnalités de SeaTable pour développer votre propre application de gestion du temps dans votre entreprise, selon vos besoins.
 
-[Découvrez ici tout ce que vous devez savoir sur notre modèle](https://seatable.io/fr/arbeitszeiterfassung/) qui va révolutionner votre saisie du temps de travail.
+[Découvrez ici tout ce que vous devez savoir sur notre modèle]({{< relref "posts/arbeitszeiterfassung" >}}) qui va révolutionner votre saisie du temps de travail.
 
 ## Conclusion : pourquoi SeaTable vaut-il la peine pour vous ?
 

@@ -272,16 +272,21 @@ D'un autre côté, vous devez également créer vous-même des vues, car celles-
 
 {{< faq "Le script modifie-t-il des données dans ma base Airtable ?" >}}Non, le script lit uniquement votre Airtable Base. Les données de la base Airtable ne sont pas modifiées.
 {{< /faq >}}
-{{< faq "Comment réagir aux messages d'erreur ?" >}}Un message d'erreur lors de la première exécution n'est pas du tout improbable. Il y a suffisamment de raisons pour cela, par exemple un jeton erroné, un ordre incorrect dans la spécification des liens, des fautes de frappe, des virgules manquantes ou une indentation incorrecte. Une seule erreur peut entraîner l'arrêt de l'exécution du script.  
-Si vous recevez un message d'erreur, ce n'est en principe pas un problème. Aucune donnée ne peut être perdue. Procédez comme suit pour trouver la cause de l'erreur :  
-\- Dans la plupart des cas, le message d'erreur vous donne une indication sur l'endroit où se trouve l'erreur. Suivez-le, corrigez les paramètres saisis et exécutez à nouveau le script. Une erreur d'indentation, par exemple, indique que l'indentation n'est pas conforme à la syntaxe Python.  
-\- Si le message d'erreur est incompréhensible, vérifiez que toutes les données saisies sont correctes et essayez à nouveau.  
-\- Si aucun de ces conseils ne vous aide, demandez de l'aide au [Forum SeaTable](https://forum.seatable.com/).
 
-{{< warning  headline="Remarque importante"  text="Veuillez supprimer les jetons API, le PAT et l'ID de base avant de poster des captures d'écran ou des scripts sur le forum." />}}
+{{< faq "Comment réagir aux messages d'erreur ?" >}}Un message d'erreur lors de la première exécution n'est pas du tout improbable. Il y a suffisamment de raisons pour cela, par exemple un jeton erroné, un ordre incorrect dans la spécification des liens, des fautes de frappe, des virgules manquantes ou une indentation incorrecte. Une seule erreur peut entraîner l'arrêt de l'exécution du script.  
+Si vous recevez un message d'erreur, ce n'est en principe pas un problème. Aucune donnée ne peut être perdue. Procédez comme suit pour trouver la cause de l'erreur :
+
+- Dans la plupart des cas, le message d'erreur vous donne une indication sur l'endroit où se trouve l'erreur. Suivez-le, corrigez les paramètres saisis et exécutez à nouveau le script. Une erreur d'indentation, par exemple, indique que l'indentation n'est pas conforme à la syntaxe Python.
+- Si le message d'erreur est incompréhensible, vérifiez que toutes les données saisies sont correctes et essayez à nouveau.
+- Si aucun de ces conseils ne vous aide, demandez de l'aide au [Forum SeaTable](https://forum.seatable.com/).
+
+> **Remarque importante**: Veuillez supprimer les jetons API, le PAT et l'ID de base avant de poster des captures d'écran ou des scripts sur le forum.
+
 {{< /faq >}}
+
 {{< faq "Est-il possible de migrer des Airtable Bases de n'importe quelle taille ?" >}}En principe, oui. La procédure présentée dans cet article avec l'éditeur Python intégré est toutefois soumise à une limite maximale d'exécution de 15 minutes, ce qui signifie que les scripts qui s'exécutent pendant plus de 15 minutes sont interrompus. Dans la pratique, cela est suffisant pour la grande majorité des bases. Pour les bases avec des fichiers joints importants/nombreux, cette limite peut toutefois jouer un rôle. Dans ce cas, vous pouvez réduire la durée d'exécution en excluant des colonnes. Si vous ne voulez pas exclure les colonnes, vous devez exécuter le script Python localement sur un ordinateur qui n'a pas de limite de temps d'exécution.
 {{< /faq >}}
+
 {{< faq "Est-il possible d'importer des tableaux dans une base existante ?" >}}Le script n'exige pas qu'une base soit vide. Vous pouvez donc aussi exécuter le script dans une base avec des tables existantes et remplies. La seule chose à éviter est la duplication des noms de table.
 
 {{< /faq >}}

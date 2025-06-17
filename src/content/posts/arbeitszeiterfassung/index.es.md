@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Probablemente ya haya oído hablar de ello en los medios de comunicación: El Ministerio Federal de Trabajo está planeando una reforma de la Ley de Horarios Laborales para 2023. Pero, ¿qué cambiará esto para usted y su empresa? ¿Tiene que adquirir costosos sistemas de registro horario o le basta con [un software gratuito](https://seatable.io/es/arbeitszeiterfassung/)? En este artículo, le mostraremos cómo implementar el registro de tiempos para sus empleados con un mínimo esfuerzo administrativo y cumpliendo al mismo tiempo con la legislación aplicable.
+Probablemente ya haya oído hablar de ello en los medios de comunicación: El Ministerio Federal de Trabajo está planeando una reforma de la Ley de Horarios Laborales para 2023. Pero, ¿qué cambiará esto para usted y su empresa? ¿Tiene que adquirir costosos sistemas de registro horario o le basta con [un software gratuito]({{< relref "posts/arbeitszeiterfassung" >}})? En este artículo, le mostraremos cómo implementar el registro de tiempos para sus empleados con un mínimo esfuerzo administrativo y cumpliendo al mismo tiempo con la legislación aplicable.
 
 ## Situación jurídica actual del registro de tiempos en las empresas
 
@@ -75,7 +75,7 @@ Aplicación de gestión con panel de control
 
 Recordatorio: Esta es sólo una plantilla de ejemplo que hemos creado para usted. Todas las funciones básicas están incluidas en una suscripción gratuita, pero para la gama completa de funciones incluyendo automatizaciones necesita una suscripción Enterprise. Por supuesto, puede utilizar muchas más funciones de SeaTable para desarrollar su propia aplicación para el seguimiento del tiempo en su empresa según sus deseos.
 
-Descubra [aquí todo sobre nuestra plantilla](https://seatable.io/es/arbeitszeiterfassung/), que revolucionará su registro del tiempo de trabajo.
+Descubra [aquí todo sobre nuestra plantilla]({{< relref "posts/arbeitszeiterfassung" >}}), que revolucionará su registro del tiempo de trabajo.
 
 ## Conclusión: Por qué SeaTable le merece la pena
 

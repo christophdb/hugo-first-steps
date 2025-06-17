@@ -7,6 +7,8 @@ src/themes/seatable/static/css/styles.css
 **/.DS_Store
 .DS_Store
 
+.vscode/settings.json
+
 # disable search
 .env
 

@@ -11,7 +11,7 @@ seo:
     description: In diesem Artikel zeigen wir Ihnen, wie die Zeiterfassung Ihrer Mitarbeiter rechtssicher und mit minimalem Aufwand in SeaTable erfolgen kann.
 ---
 
-Wahrscheinlich haben Sie es bereits aus den Medien erfahren: Das Bundesarbeitsministerium plant für 2023 eine Reform des Arbeitszeitgesetzes. Doch was ändert sich dadurch für Sie und Ihr Unternehmen? Müssen Sie teure Zeiterfassungssysteme anschaffen oder reicht eine [kostenlose Software](https://seatable.io/arbeitszeiterfassung/)? In diesem Artikel zeigen wir Ihnen, wie Sie die Zeiterfassung Ihrer Mitarbeiter mit minimalem Verwaltungsaufwand umsetzen und dabei geltendes Recht einhalten.
+Wahrscheinlich haben Sie es bereits aus den Medien erfahren: Das Bundesarbeitsministerium plant für 2023 eine Reform des Arbeitszeitgesetzes. Doch was ändert sich dadurch für Sie und Ihr Unternehmen? Müssen Sie teure Zeiterfassungssysteme anschaffen oder reicht eine [kostenlose Software]({{< relref "posts/arbeitszeiterfassung" >}})? In diesem Artikel zeigen wir Ihnen, wie Sie die Zeiterfassung Ihrer Mitarbeiter mit minimalem Verwaltungsaufwand umsetzen und dabei geltendes Recht einhalten.
 
 ## Die aktuelle Rechtslage zur Zeiterfassung in Unternehmen
 
@@ -76,7 +76,7 @@ Management-App mit Dashboard
 
 Zur Erinnerung: Hierbei handelt es sich nur um eine beispielhafte Vorlage, die wir für Sie erstellt haben. Alle Grundfunktionen sind in einem kostenlosen Free Abonnement enthalten, für den vollen Funktionsumfang inklusive Automationen benötigen Sie aber ein Enterprise Abonnement. Natürlich können Sie noch viele weitere Features von SeaTable nutzen, um ganz nach Ihren Wünschen eine eigene Anwendung für die Zeiterfassung in Ihrem Unternehmen zu entwickeln.
 
-[Erfahren Sie hier alles zu unserem Template](https://seatable.io/arbeitszeiterfassung/), das Ihre Arbeitszeiterfassung revolutionieren wird.
+[Erfahren Sie hier alles zu unserem Template]({{< relref "posts/arbeitszeiterfassung" >}}), das Ihre Arbeitszeiterfassung revolutionieren wird.
 
 ## Fazit: Warum sich SeaTable für Sie lohnt
 

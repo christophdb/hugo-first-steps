@@ -81,8 +81,8 @@ Com a função de filtro do SeaTable, é possível utilizar regras de filtragem 
 
 Para regras de filtragem, ao contrário das regras de agrupamento e triagem, a instrução consiste geralmente em dois componentes:
 
-- Critério de filtragem: Rácio entre a coluna filtrada e o valor do filtro (por exemplo, "é", "contém", "está vazio")
-- Valor do filtro: O valor a filtrar (por exemplo, "123", "feito").
+- Critério de filtragem: Rácio entre a coluna filtrada e o valor do filtro (por exemplo, `é`, `contém`, `está vazio`)
+- Valor do filtro: O valor a filtrar (por exemplo, `123`, `feito`).
 
 As regras de filtragem também podem ser ligadas com os dois operadores Booleanos AND e OR. Com um link AND, só são filtradas as entradas que preenchem todas as condições ligadas. Com a operação OR, é possível filtrar as entradas que preenchem pelo menos uma das condições definidas. Com três ou mais regras de filtragem, os operadores AND e OR também podem ser utilizados em conjunto.
 
@@ -90,7 +90,7 @@ As regras de filtragem também podem ser ligadas com os dois operadores Booleano
 
 O Assistente de Filtros facilita a configuração de filtros poderosos para os seus dados. Um clique em _Filtrar_ nas configurações de visualização acima dos títulos das colunas abre-o.
 
-Em primeiro lugar, defina a coluna pela qual pretende filtrar. Em seguida, especifique o critério de filtragem. Dependendo do critério de filtragem selecionado, deve agora introduzir também o valor do filtro. Para alguns critérios de filtragem, como "está vazio", isto não é necessário por razões lógicas.
+Em primeiro lugar, defina a coluna pela qual pretende filtrar. Em seguida, especifique o critério de filtragem. Dependendo do critério de filtragem selecionado, deve agora introduzir também o valor do filtro. Para alguns critérios de filtragem, como `está vazio`, isto não é necessário por razões lógicas.
 
 Para adicionar outra regra de filtro, clique em _Adicionar filtro_ no assistente. Agora pode definir a segunda regra de filtragem como a primeira. Além disso, é necessário definir se as duas regras de filtragem têm uma ligação AND ou OR. Para acrescentar mais regras de filtragem, repetir o procedimento.
 
@@ -104,19 +104,19 @@ SeaTable suporta filtragem em todos os [tipos de colunas]({{< relref "help/base-
 
 Dependendo do tipo de coluna, o assistente de filtro mostra diferentes critérios de filtragem. Para os diferentes tipos de colunas, estes são:
 
-- Texto: "contém", "não contém", "é igual", "não é igual", "está vazio", "não está vazio" e "é o ID do utilizador com sessão iniciada".
-- Zahl: ”=”, ”≠”, ”<'', ''>”, ”≤”, ”≥”, ”ist leer” und ”ist nicht leer”
-- Caixa de verificação: "é igual"
-- Data: "é igual a", "está dentro de", "é antes de", "é depois de", "é em ou antes de", "'é em ou depois de'", "não é igual a", "está vazio" e "não está vazio
-- Dauer: ”=”, ”≠”, ”<'', ''>”, ”≤”, ”≥”, ”ist leer” und ”ist nicht leer”
-- Escolha única: "é igual", "é desigual", "é um de", "não é", "está vazio" e "não está vazio".
-- Seleção múltipla: "contém um de", "contém todos", "não contém", "é exato", "está vazio" e "não está vazio".
-- Pessoal: "inclui um de", "inclui todos", "não inclui", "é exato", "está vazio", "não está vazio" e "inclui o utilizador atual".
-- Correio eletrónico: "contém", "não contém", "é igual", "não é igual", "está vazio" e "não está vazio".
-- Ligação: "contém", "não contém", "está vazia" e "não está vazia".
-- Criação e última edição: "é igual a", "está dentro de", "é antes", "é depois", "é em ou antes", "'é em ou depois", "não é igual a", "está vazio" e "não está vazio" (idêntico à data)
+- Texto: `contém`, `não contém`, `é igual`, `não é igual`, `está vazio`, `não está vazio` e `é o ID do utilizador com sessão iniciada`.
+- Número: `=`, `≠`, `<'', ''>`, `≤`, `≥`, `está vazio` und `não está vazio`
+- Caixa de verificação: `é igual`
+- Data: `é igual a`, `está dentro de`, `é antes de`, `é depois de`, `é em ou antes de`, `'é em ou depois de'`, `não é igual a`, `está vazio` e `não está vazio
+- Duração: `=`, `≠`, `<'', ''>`, `≤`, `≥`, `está vazio` und `não está vazio`
+- Escolha única: `é igual`, `é desigual`, `é um de`, `não é`, `está vazio` e `não está vazio`.
+- Seleção múltipla: `contém um de`, `contém todos`, `não contém`, `é exato`, `está vazio` e `não está vazio`.
+- Pessoal: `inclui um de`, `inclui todos`, `não inclui`, `é exato`, `está vazio`, `não está vazio` e `inclui o utilizador atual`.
+- Correio eletrónico: `contém`, `não contém`, `é igual`, `não é igual`, `está vazio` e `não está vazio`.
+- Ligação: `contém`, `não contém`, `está vazia` e `não está vazia`.
+- Criação e última edição: `é igual a`, `está dentro de`, `é antes`, `é depois`, `é em ou antes`, `é em ou depois`, `não é igual a`, `está vazio` e `não está vazio` (idêntico à data)
 
-As linhas com células vazias são sempre filtradas e, por isso, não são apresentadas, exceto se for feita uma pesquisa explícita por "está vazio".
+As linhas com células vazias são sempre filtradas e, por isso, não são apresentadas, exceto se for feita uma pesquisa explícita por `está vazio`.
 
 ## Armazenamento de configurações de filtragem, classificação e agrupamento
 

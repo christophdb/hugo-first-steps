@@ -81,8 +81,8 @@ With SeaTable's filter function, you can use filter rules to filter out certain 
 
 For filter rules, unlike grouping and sorting rules, the instruction usually consists of two components:
 
-- Filter criterion: ratio of filtered column and filter value (e.g. "is", "contains", "is empty")
-- Filter value: The value to filter by (e.g. "123", "done").
+- Filter criterion: ratio of filtered column and filter value (e.g. `is`, `contains`, `is empty`)
+- Filter value: The value to filter by (e.g. `123`, `done`).
 
 Filter rules can also be linked with the two Boolean operators AND and OR. With an AND link, only those entries are filtered that fulfil all linked conditions. With the OR operation, you can filter the entries that fulfil at least one of the defined conditions. With three or more filter rules, the AND and OR operators can also be used together.
 
@@ -90,7 +90,7 @@ Filter rules can also be linked with the two Boolean operators AND and OR. With 
 
 The Filter Wizard makes it easy to set up powerful filters for your data. A click on _Filter_ in the view settings above the column headings opens it.
 
-Now first define the column over which you want to filter. Next, specify the filter criterion. Depending on the selected filter criterion, you must now also enter the filter value. For some filter criteria, such as "is empty", this is not necessary for logical reasons.
+Now first define the column over which you want to filter. Next, specify the filter criterion. Depending on the selected filter criterion, you must now also enter the filter value. For some filter criteria, such as `is empty`, this is not necessary for logical reasons.
 
 To add another filter rule, click _Add Filter_ in the wizard. Now you can define the second filter rule like the first one. In addition, you must define whether the two filter rules have an AND or OR link. To add further filter rules, repeat the process.
 
@@ -104,19 +104,19 @@ SeaTable supports filtering across all [column types]({{< relref "help/base-edit
 
 Depending on the column type, the filter wizard shows different filter criteria. For the different column types these are:
 
-- Text: "contains", "does not contain", "is equal", "is not equal", "is empty", "is not empty" and "is ID of logged in user"
-- Zahl: ”=”, ”≠”, ”<'', ''>”, ”≤”, ”≥”, ”ist leer” und ”ist nicht leer”
-- Checkbox: "is equal"
-- Date: "is equal to", "is within", "is before", "is after", is on or before", "'is on or after", "is not equal to", "is empty", and "is not empty"
-- Dauer: ”=”, ”≠”, ”<'', ''>”, ”≤”, ”≥”, ”ist leer” und ”ist nicht leer”
-- Single selection: "is equal to", "is not equal to", "is one of", "is not", "is empty" and "is not empty".
-- Multiple selection: "contains one of", "contains all", "does not contain", "is exact", "is empty" and "is not empty".
-- Collaborators: "includes one of", "includes all", "does not include", "is exact", "is empty", "is not empty" and "include current user".
-- Email: "contains", "does not contain", "is equal", "is not equal", "is empty" and "is not empty".
-- Link: "contains", "does not contain", "is empty" and "is not empty".
-- Creation and last edited: "is equal to", "is within", "is before", "is after", is on or before", "'is on or after", "is not equal to", "is empty" and "is not empty" (identical with date)
+- Text: `contains`, `does not contain`, `is equal`, `is not equal`, `is empty`, `is not empty` and `is ID of logged in user`
+- Number: `=`, `≠`, `<'', ''>`, `≤`, `≥`, `ist leer` und `ist nicht leer`
+- Checkbox: `is equal`
+- Date: `is equal to`, `is within`, `is before`, `is after`, `is on or before`, `is on or after`, `is not equal to`, `is empty`, and `is not empty`
+- Duration: `=`, `≠`, `<'', ''>`, `≤`, `≥`, `ist leer` und `ist nicht leer`
+- Single selection: `is equal to`, `is not equal to`, `is one of`, `is not`, `is empty` and `is not empty`.
+- Multiple selection: `contains one of`, `contains all`, `does not contain`, `is exact`, `is empty` and `is not empty`.
+- Collaborators: `includes one of`, `includes all`, `does not include`, `is exact`, `is empty`, `is not empty` and `include current user`.
+- Email: `contains`, `does not contain`, `is equal`, `is not equal`, `is empty` and `is not empty`.
+- Link: `contains`, `does not contain`, `is empty` and `is not empty`.
+- Creation and last edited: `is equal to`, `is within`, `is before`, `is after`, `is on or before`, `is on or after`, `is not equal to`, `is empty` and `is not empty` (identical with date)
 
-rows with empty cells are always filtered and thus not displayed, unless you explicitly search for "is empty".
+rows with empty cells are always filtered and thus not displayed, unless you explicitly search for `is empty`.
 
 ## Storage of filter, sorting and grouping settings
 
