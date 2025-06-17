@@ -3,8 +3,8 @@ title: 'Gestion des incidents : comment réagir correctement aux incidents infor
 description: 'Lorsque les systèmes tombent en panne, chaque minute compte. Mais avec une gestion des incidents bien pensée, le chaos se transforme en ordre. Découvrez comment des processus clairs, des réactions rapides et un outil performant peuvent vous soulager..'
 
 seo:
-    title: Gestion des incidents - Comment réagir correctement aux incidents informatiques
-    description: Tout ce que vous devez savoir sur la gestion des incidents pour minimiser les pannes et assurer la continuité des opérations.
+    title: 'Gestion des incidents - Comment réagir correctement aux incidents informatiques'
+    description: 'Tout ce que vous devez savoir sur la gestion des incidents pour minimiser les pannes et assurer la continuité des opérations.'
 categories:
     - 'Meilleures pratiques'
 tags:
