@@ -3,7 +3,6 @@ title: 'Presupuestación: qué es importante en la planificación presupuestaria
 description: "La presupuestación define de cuánto dinero disponen usted y sus directivos para alcanzar determinados objetivos. También le ayuda a asignar dinero y recursos de forma sensata a proyectos y departamentos. Lea este artículo para saber cómo funciona una planificación presupuestaria eficaz."
 date: 2025-06-06
 url: '/es/presupuestación'
-alias: '/es/budgetplanung-vorlage/'
 seo:
     title: 'Presupuestación: ventajas, métodos, consejos'
     description: '¿Cómo funciona la presupuestación en una empresa y qué hay que tener en cuenta? Lea aquí nuestros consejos, incluido un ejemplo.'
