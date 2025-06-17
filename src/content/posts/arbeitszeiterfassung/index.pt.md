@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Provavelmente, já ouviu falar disso nos meios de comunicação social: O Ministério Federal do Trabalho está a planear uma reforma da lei sobre o horário de trabalho para 2023. Mas o que é que isso vai mudar para si e para a sua empresa? Terá de comprar sistemas de registo de tempo dispendiosos ou [o software gratuito](https://seatable.io/pt/arbeitszeiterfassung/) é suficiente? Neste artigo, mostrar-lhe-emos como implementar o registo de horas para os seus empregados com um esforço administrativo mínimo, cumprindo simultaneamente a legislação aplicável.
+Provavelmente, já ouviu falar disso nos meios de comunicação social: O Ministério Federal do Trabalho está a planear uma reforma da lei sobre o horário de trabalho para 2023. Mas o que é que isso vai mudar para si e para a sua empresa? Terá de comprar sistemas de registo de tempo dispendiosos ou [o software gratuito]({{< relref "posts/arbeitszeiterfassung" >}}) é suficiente? Neste artigo, mostrar-lhe-emos como implementar o registo de horas para os seus empregados com um esforço administrativo mínimo, cumprindo simultaneamente a legislação aplicável.
 
 ## A actual situação legal relativa ao registo do tempo nas empresas
 
@@ -75,7 +75,7 @@ Aplicação de gestão com painel de instrumentos
 
 Lembrete: Este é apenas um exemplo de modelo que criámos para si. Todas as funções básicas estão incluídas numa assinatura gratuita, mas para toda a gama de funções, incluindo as automatizações, precisa de uma assinatura Enterprise. Naturalmente, pode utilizar muitas mais funcionalidades do SeaTable para desenvolver a sua própria aplicação de seguimento do tempo na sua empresa, de acordo com os seus desejos.
 
-[Descubra aqui tudo sobre o nosso modelo](https://seatable.io/pt/arbeitszeiterfassung/), o que irá revolucionar a sua gravação de tempo de trabalho.
+[Descubra aqui tudo sobre o nosso modelo]({{< relref "posts/arbeitszeiterfassung" >}}), o que irá revolucionar a sua gravação de tempo de trabalho.
 
 ## Conclusão: Porque é que o SeaTable vale a pena para si
 

@@ -1,5 +1,5 @@
 ---
-title: 'Migration von Airtable Bases zu SeaTable'
+title: 'Migración de Airtable Bases a SeaTable'
 date: 2023-07-30
 lastmod: '2024-11-21'
 categories:
@@ -8,25 +8,29 @@ author: 'fsa'
 url: '/es/ayuda/migration-von-airtable-bases-zu-seatable'
 ---
 
-Sie wollen Ihre Airtable Bases zu SeaTable umziehen und scheuen den Aufwand? Keine Sorge! Auch Bases mit komplizierten Datenstrukturen und vielen tausend Datensätzen lassen sich rasch in SeaTable übertragen.
+¿Quiere trasladar sus Airtable Bases a SeaTable y tiene miedo del esfuerzo? ¡No se preocupe! Incluso bases con estructuras de datos complicadas y muchos miles de registros de datos pueden ser rápidamente transferidos a SeaTable.
 
-Für den Transfer der Airtable Daten in SeaTable haben wir ein Migrationsskript entwickelt. Dieses überträgt alle Daten in einer Airtable Base – Tabellen, Spalten, Datensätze – in einem Rutsch in eine SeaTable Base. Nach der Migration können Sie in SeaTable mit den Daten weitermachen, die Sie in Airtable zuletzt verwendet haben. Nach Ausführung des Skripts sind nur einige Nacharbeiten notwendig.
+Hemos desarrollado un script de migración para transferir datos de Airtable a SeaTable. Esto transfiere todos los datos de una base Airtable - tablas, columnas, registros de datos - a una base SeaTable de una sola vez. Después de la migración, puede continuar en SeaTable con los datos que utilizó por última vez en Airtable. Después de ejecutar el script, sólo unos pocos ajustes son necesarios.
 
-Das Skript kann jeder – Techniker wie nicht-Techniker – verwenden. Es sind nur ein paar **manuelle Angaben** erforderlich, um das Skript betriebsbereit zu machen. In diesem Artikel erklären wir, wie Sie das machen.
+El script puede ser utilizado por cualquier persona - técnicos y no técnicos por igual. Sólo unas pocas **entradas manuales** son necesarias para hacer operativo el script. En este artículo explicamos cómo hacerlo.
 
-{{< warning  headline="Wichtiger Hinweis"  text="Das Migrationsskript ist funktional, aber noch beta. Wir passen es fortlaufend an und optimieren es. Bei Problemen hinterlassen Sie bitte einen Post im [SeaTable Forum](https://forum.seatable.com/)." />}}
+{{< warning  headline="Nota importante" >}}
 
-## Wie Sie eine Base von Airtable zu SeaTable migrieren
+El script de migración es funcional, pero aún está en fase beta. Lo estamos adaptando y optimizando constantemente. Si tiene algún problema, por favor deje un mensaje en el [Foro SeaTable](https://forum.seatable.com/)."
 
-### 1\. Base anlegen
+{{< /warning >}}
 
-Erstellen Sie in SeaTable eine [neue Base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). Der Name der SeaTable Base muss nicht dem Namen der zu importierenden Airtable Base entsprechen. Sie können den Namen frei wählen.
+## Cómo migrar una base de Airtable a SeaTable
 
-### 2\. Skript einfügen
+### 1\. Crear base
 
-Öffnen Sie in der neuen Base die [Skript-Seitenleiste]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) durch einen Klick auf das Skript-Icon {{< seatable-icon icon="dtable-icon-script" >}} im Base-Header oben rechts. Wählen Sie dann **Skript hinzufügen**. Das Migrationsskript ist in der Programmiersprache Python geschrieben. Wählen Sie daher **Python** aus.
+Crear una [nueva base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}) en SeaTable. El nombre de la base SeaTable no tiene que coincidir con el nombre de la base Airtable a importar. Puede elegir el nombre libremente.
 
-Markieren Sie nun den folgenden Codeblock, kopieren ihn in den Zwischenspeicher und fügen Sie ihn dann in das linke Fenster des Skripteditors ein:
+### 2\. Insertar script
+
+En la nueva base, abra la barra lateral [Script]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) haciendo clic en el icono de script {{< seatable-icon icon="dtable-icon-script" >}} de la cabecera de la base, arriba a la derecha. A continuación, seleccione **Añadir script**. El script de migración está escrito en el lenguaje de programación Python. Por lo tanto, seleccione **Python**.
+
+Ahora seleccione el siguiente bloque de código, cópielo en el portapapeles y péguelo en la ventana izquierda del editor de scripts:
 
 ```
 ## Parameterize the script
@@ -131,157 +135,163 @@ else:
 ##
 ```
 
-Machen Sie sich keine Gedanken, wenn Sie den gerade kopierten Code nicht verstehen. Wir erläutern ihn. Ein wenig bei der Interpretation helfen sollten die Kommentare im Code. Kommentare sind alle Zeilen mit führendem Rautezeichen (‘#’). Diese Zeilen werden bei der Skriptausführung nicht beachtet, d.h. Sie können Kommentare verändern, löschen oder auch weitere hinzufügen, ohne die Funktionalität des Skripts zu beeinflussen.
+No se preocupe si no entiende el código que acaba de copiar. Lo explicaremos. Los comentarios en el código deberían ayudarle un poco a interpretarlo. Los comentarios son todas las líneas que comienzan con el símbolo de almohadilla (‘#’). Estas líneas no se tienen en cuenta durante la ejecución del script, es decir, puede modificar, eliminar o agregar más comentarios sin afectar la funcionalidad del script.
 
-Anders als die Kommentare sind die Einrückungen im Code bei der Ausführung des Skripts sehr wichtig. Verändern Sie diese bitte nicht.
+A diferencia de los comentarios, las indentaciones en el código son muy importantes durante la ejecución del script. Por favor, no las modifique.
 
-### 3\. SeaTable Server URL und API-Token der Base angeben
+### 3\. Indicar la URL del servidor de SeaTable y el API Token de la base
 
-Fügen Sie unter dem Kommentar **SeaTable – Destination** die SeaTable Server URL ein und geben Sie den [API-Token](https://seatable.io/docs/seatable-api/erzeugen-eines-api-tokens/) an. Der API-Token muss Lese- und Schreibrechte gewähren. Wenn Sie SeaTable Cloud verwenden, dann ist die vorausgefüllte URL “https://cloud.seatable.io” richtig. Wenn Sie einen anderen SeaTable Server verwenden, dann tragen Sie dessen URL ein. (Die URL muss immer mit https:// bzw. http:// eingegeben werden.) URL und Token müssen von einfachen Anführungszeichen umschlossen sein.
+Bajo el comentario **SeaTable – Destination**, introduzca la URL del servidor de SeaTable e indique el [API-Token](https://seatable.io/docs/seatable-api/erzeugen-eines-api-tokens/). El API-Token debe otorgar permisos de lectura y escritura. Si utiliza SeaTable Cloud, la URL pre-rellenada “https://cloud.seatable.io” es la correcta. Si utiliza otro servidor de SeaTable, introduzca su URL. (La URL siempre debe comenzar con https:// o http://). Tanto la URL como el token deben ir entre comillas simples.
 
-Dies ist eine Beispielkonfiguration für den Import der Daten in eine Base in SeaTable Cloud:  
+Este es un ejemplo de configuración para importar datos a una base en SeaTable Cloud:  
 ![](images/SeaTable_Server_URL_and_API_Token.png)
 
-### 4\. Airtable Personal Access Token und Base ID eintragen
+### 4\. Introducir el Airtable Personal Access Token y el Base ID
 
-Ergänzen Sie unter dem Kommentar **Airtable – Source** den [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) sowie die [Airtable Base ID](https://support.airtable.com/docs/finding-airtable-ids), beide Werte wieder jeweils in einfachen Anführungszeichen. Der PAT muss über die Berechtigung `data.records:read` und `schema.bases:read` verfügen.
+Bajo el comentario **Airtable – Source**, añada el [Airtable Personal Access Token (PAT)](https://support.airtable.com/docs/creating-personal-access-tokens) así como el [Airtable Base ID](https://support.airtable.com/docs/finding-airtable-ids), ambos valores también entre comillas simples. El PAT debe tener los permisos `data.records:read` y `schema.bases:read`.
 
-So sollte es dann aussehen, wobei Ihre Werte natürlich anders sind:  
+Debería verse así, aunque sus valores serán diferentes:  
 ![](images/Airtable_Base_ID_and_PAT.png)
 
-Nutzen Sie die im Skript hinterlegten Links zur Airtable Dokumentation, um zu erfahren, wo Sie PAT und Base ID erhalten.
+Utilice los enlaces a la documentación de Airtable incluidos en el script para saber dónde obtener el PAT y el Base ID.
 
-### 5\. Tabellen- und Spaltennamen eintragen
+### 5\. Introducir los nombres de las tablas y columnas
 
-Teilen Sie dem Skript nun mit, welche Tabellen Sie aus der Airtable Base importieren möchten. Tun Sie dies in der Zeile “table_names”. Ergänzen Sie in der eckigen Klammer die Namen der Tabellen – jeweils umschlossen von einem einfachen Anführungszeichen und getrennt durch Komma.
+Ahora indique al script qué tablas de la base de Airtable desea importar. Hágalo en la línea “table_names”. Añada dentro de los corchetes los nombres de las tablas, cada uno entre comillas simples y separados por comas.
 
-Für eine Base mit den zwei Tabellen “table1” und “table2” muss die Zeile dann beispielsweise so aussehen:  
+Para una base con dos tablas “table1” y “table2”, la línea debería verse así:  
 ![](images/Airtable-tables_names_500.png)
 
-Wenn Ihre Airtable Base mehr als zwei Tabellen hat, verlängern Sie die Aufzählung in der Klammer einfach. Wenn Sie nicht alle Tabellen einer Base übertragen wollen, dann lassen Sie einfach die Namen derjenigen Tabellen weg, die nicht kopiert werden sollen.
+Si su base de Airtable tiene más de dos tablas, simplemente amplíe la lista dentro del corchete. Si no desea transferir todas las tablas de una base, omita los nombres de las tablas que no desea copiar.
 
-Aufgrund einer Einschränkung der Airtable API müssen Sie auch die Namen der ersten Spalten in den Tabellen angeben. Dies erfolgt in der Zeile “first_columns” bzw. den Folgezeilen.
+Debido a una limitación de la API de Airtable, también debe indicar los nombres de las primeras columnas de las tablas. Esto se hace en la línea “first_columns” o en las líneas siguientes.
 
-Für die Airtable Base mit den zwei Tabellen “table1” und “table2” könnte es dann so aussehen:  
+Para la base de Airtable con las dos tablas “table1” y “table2”, podría verse así:  
 ![](images/Airtable-first_columns_500.png)
 
-### 6\. Verknüpfungsspalten festlegen
+### 6\. Definir columnas de enlace
 
-Damit SeaTable die Daten richtig importieren kann, ist noch ein weiterer Schritt erforderlich: die Spezifikation der [Verknüpfungsspalten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in der Airtable Base.
+Para que SeaTable pueda importar los datos correctamente, es necesario un paso adicional: la especificación de las [columnas de enlace]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en la base de Airtable.
 
-Dafür ist die Variable “links” vorgesehen. Wenn beispielsweise die Spalte “link to table2” in der Tabelle “table1” eine Verknüpfung mit der Tabelle “table 2” abbildet, dann sollte das Skript wie folgt parametrisiert werden:
+Para ello se utiliza la variable “links”. Por ejemplo, si la columna “link to table2” en la tabla “table1” representa un enlace con la tabla “table 2”, entonces el script debe parametrizarse de la siguiente manera:
 
 ![](images/Airtable-links_500.png)
 
-Jedes Linkspaltenpaar müssen Sie nur einmal angeben. Sie müssen die Verknüpfung nicht in beiden Richtungen spezifizieren.
+Solo debe indicar cada par de columnas de enlace una vez. No es necesario especificar el enlace en ambas direcciones.
 
-Erhält die Airtable Base keine Verknüpfungsspalten, dann können Sie die eckige Klammer leer lassen:  
+Si la base de Airtable no tiene columnas de enlace, puede dejar el corchete vacío:  
 ![](images/Airtable-linksEmpty_500.png)
 
-### 7\. Spalten bzw. Spaltentypen auschließen (optional)
+### 7\. Excluir columnas o tipos de columna (opcional)
 
-Wenn Sie nicht alle Spalten oder Spaltentypen von Airtable zu SeaTable kopieren möchten, dann können Sie diese ausschließen. Der Ausschluss einer Spalte oder eines Spaltentyps sorgt dafür, dass die Spalte in der SeaTable Base angelegt, die darin enthaltenen Daten aber nicht übertragen werden. Durch den Ausschluss von Spalten mit sehr großen Datenmengen – und wir denken insbesondere an Dateispalten – können Sie die Laufzeit des Skripts deutlich reduzieren. Gerade für einen Migrationstest bietet es sich an, Spalten mit hohem Datenvolumen auszuschließen.
+Si no desea copiar todas las columnas o tipos de columna de Airtable a SeaTable, puede excluirlos. Excluir una columna o tipo de columna hará que la columna se cree en la base de SeaTable, pero los datos que contiene no se transferirán. Excluir columnas con grandes volúmenes de datos —especialmente columnas de archivos— puede reducir significativamente el tiempo de ejecución del script. Especialmente para una prueba de migración, es recomendable excluir columnas con mucho volumen de datos.
 
-Spaltentypen lassen sich über die Variable “excluded_column_types” ausschließen. Für die Spezfikation der auszuschließenden Spaltentypen verwenden Sie die dafür vorgesehenen Python Constants. Einzelne Spalten lassen sich über die Variable “excluded_columns” ausschließen. Die Spezifikation erfolgt analog der Variable “first_columns” im Format (‘Tabellenname’, ‘Spaltenname’). Wenn Sie mehrere Spalten ausschließen wollen, dann müssen die Werte durch Komma getrennt werden.
+Los tipos de columna se pueden excluir usando la variable “excluded_column_types”. Para especificar los tipos de columna a excluir, utilice las constantes de Python correspondientes. Las columnas individuales se pueden excluir usando la variable “excluded_columns”. La especificación es análoga a la variable “first_columns” en el formato (‘NombreTabla’, ‘NombreColumna’). Si desea excluir varias columnas, los valores deben estar separados por comas.
 
-### 8\. Tabellen und Spalten importieren
+### 8\. Importar tablas y columnas
 
-Das Skript kann in zwei Modi ausgeführt werden: “import-header” und “import-rows”. Zunächst muss das Skript immer im Modus “import-header” ausgeführt werden. In diesem Modus werden die Tabellen und Spalten in der SeaTable Base angelegt und 10 Testzeilen importiert.
+El script se puede ejecutar en dos modos: “import-header” y “import-rows”. Siempre debe ejecutar primero el script en el modo “import-header”. En este modo, se crean las tablas y columnas en la base de SeaTable y se importan 10 filas de prueba.
 
-Der Ausführungsmodus wird in über die gleichnamigen Variable festgelegt:  
+El modo de ejecución se define mediante la variable del mismo nombre:  
 ![](images/SeaTable-modeImportHeader_500.png)
 
-Führen Sie das Skript jetzt mit einem Klick auf **Skript ausführen** aus. Während der Ausführung sehen Sie auf der rechten Seite im Editor die ausgeführten Schritte. Im Hintergrund sehen Sie auch, wie die Tabellen und Spalten angelegt werden.
+Ejecute el script ahora haciendo clic en **Ejecutar script**. Durante la ejecución, verá los pasos realizados en el lado derecho del editor. En segundo plano, también verá cómo se crean las tablas y columnas.
 
-{{< warning  headline="Wichtiger Hinweis"  text="Schließen Sie das Fenster während des Imports nicht, da der Prozess sonst abgebrochen wird." />}}
+{{< warning  headline="Aviso importante"  text="No cierre la ventana durante la importación, ya que el proceso se interrumpirá." />}}
 
-### 9\. Testzeilen überprüfen
+### 9\. Comprobar las filas de prueba
 
-Prüfen Sie nun, ob
+Ahora compruebe si
 
-- alle Tabellen und alle Spalten importiert wurden,
-- in allen Tabellen die richtige erste Spalte angelegt wurde und
-- die Verknüpfungsspalten korrekt sind.
+- se importaron todas las tablas y columnas,
+- en todas las tablas se creó la primera columna correcta y
+- las columnas de enlace son correctas.
 
-Da die Spaltentypen von Airtable und SeaTable nicht vollständig kongruent sind, werden manchen Spaltentypen in der SeaTable Base von denen in der Airtable Base abweichen. Die folgende Tabelle stellt dar, wie die Spaltentypen in Airtable in SeaTable übertragen werden.
+Dado que los tipos de columna de Airtable y SeaTable no son completamente congruentes, algunos tipos de columna en la base de SeaTable diferirán de los de la base de Airtable. La siguiente tabla muestra cómo se transfieren los tipos de columna de Airtable a SeaTable.
 
-| **Airtable Spaltentyp** | **Import in SeaTable Spaltentyp** |
-| ----------------------- | --------------------------------- |
-| Attachment              | Datei                             |
-| Autonumber              | Text                              |
-| Barcode                 | Text                              |
-| Button                  | \-                                |
-| Checkbox                | Checkbox                          |
-| Count                   | \-                                |
-| Created by              | Text                              |
-| Created time            | Datum                             |
-| Currency                | Zahl                              |
-| Date                    | Datum                             |
-| Duration                | Dauer                             |
-| Email                   | E-Mail                            |
-| Formula                 | Formel (mit Platzhalterformel)    |
-| Last modified by        | Text                              |
-| Last modified time      | Datum                             |
-| Link to another record  | Verknüpfung zu anderen Einträgen  |
-| Long text               | Formatierter Text                 |
-| Lookup                  | \-                                |
-| Multiple select         | Mehrfachauswahl                   |
-| Number                  | Zahl                              |
-| Percent                 | Zahl                              |
-| Phone number            | Text                              |
-| Rating                  | Rating                            |
-| Rollup                  | \-                                |
-| Single line text        | Text                              |
-| Single select           | Einfachauswahl                    |
-| User                    | Text                              |
-| URL                     | URL                               |
+| **Tipo de columna en Airtable** | **Importación como tipo de columna en SeaTable** |
+| ------------------------------- | ------------------------------------------------ |
+| Attachment                      | Archivo                                          |
+| Autonumber                      | Texto                                            |
+| Barcode                         | Texto                                            |
+| Button                          | \-                                               |
+| Checkbox                        | Casilla de verificación                          |
+| Count                           | \-                                               |
+| Created by                      | Texto                                            |
+| Created time                    | Fecha                                            |
+| Currency                        | Número                                           |
+| Date                            | Fecha                                            |
+| Duration                        | Duración                                         |
+| Email                           | Correo electrónico                               |
+| Formula                         | Fórmula (con fórmula de marcador de posición)    |
+| Last modified by                | Texto                                            |
+| Last modified time              | Fecha                                            |
+| Link to another record          | Enlace a otros registros                         |
+| Long text                       | Texto con formato                                |
+| Lookup                          | \-                                               |
+| Multiple select                 | Selección múltiple                               |
+| Number                          | Número                                           |
+| Percent                         | Número                                           |
+| Phone number                    | Texto                                            |
+| Rating                          | Valoración                                       |
+| Rollup                          | \-                                               |
+| Single line text                | Texto                                            |
+| Single select                   | Selección única                                  |
+| User                            | Texto                                            |
+| URL                             | URL                                              |
 
-Eine besondere Rolle spielen Formelspalten sowie die Airtable Spaltentypen Count, Lookup und Rollup. Für erstere wird in der SeaTable Base eine Formelspalte mit dem Ergebnis “Formula to be defined” angelegt. Leider ist es aktuell nicht möglich, eine Airtable Formel automatisch in eine SeaTable Formel zu übersetzen. Ähnlich verhält es sich mit den anderen erwähnten Spaltentypen. Diese werden vom Skript nicht automatisch angelegt. Diejenigen Spalten, die vom Skript nicht angelegt werden, werden in der separaten Tabelle “Columns to be migrated manually” aufgelistet.
+Las columnas de tipo fórmula, así como los tipos de columna Count, Lookup y Rollup de Airtable, tienen un papel especial. Para las primeras, se crea en la base de SeaTable una columna de fórmula con el resultado “Formula to be defined”. Lamentablemente, actualmente no es posible traducir automáticamente una fórmula de Airtable a una fórmula de SeaTable. De manera similar ocurre con los otros tipos de columna mencionados. Estos no se crean automáticamente mediante el script. Las columnas que no se crean automáticamente se listan en la tabla separada “Columns to be migrated manually”.
 
-Wenn etwas nicht richtig ist, dann löschen Sie die durch das Skript angelegten Tabellen und überprüfen Sie die Eingaben in den Schritten 5. und 6. Führen Sie daraufhin das Skript erneut im Modus “import-header” aus. Sie können das Skript beliebig häufig ausführen.
+Si algo no es correcto, elimine las tablas creadas por el script y revise las entradas de los pasos 5 y 6. Luego, ejecute nuevamente el script en el modo “import-header”. Puede ejecutar el script tantas veces como desee.
 
 ![](images/Vorschaueintraege_Member_bearbeitet-1088x212.png)
 
-### 10\. Alle Datensätze importieren
+### 10\. Importar todos los registros
 
-Wenn die Überprüfung in Schritt 9. zu Ihrer Zufriedenheit ist, dann können alle Datensätze übertragen werden.
+Si la verificación en el paso 9 es satisfactoria, entonces puede transferir todos los registros.
 
-Ändern Sie im Skript den Modus von “import-header” zu “import-rows”:
+Cambie en el script el modo de “import-header” a “import-rows”:
 
 ![](images/SeaTable-modeImportRows_500.png)
 
-Führen Sie das Skript mit einem Klick auf **Skript ausführen** erneut aus. Wieder können Sie auf der rechten Seite die Ausführung des Skripts beobachten und im Hintergrund die Aktivitäten sehen.
+Ejecute nuevamente el script haciendo clic en **Ejecutar script**. Nuevamente podrá observar la ejecución del script en el lado derecho y ver en segundo plano las actividades.
 
-{{< warning  headline="Wichtiger Hinweis"  text="Schließen Sie das Fenster während des Imports nicht, da der Prozess sonst abgebrochen wird." />}}
+{{< warning  headline="Aviso importante"  text="No cierre la ventana durante la importación, ya que el proceso se interrumpirá." />}}
 
 ![](images/Migration_final-1088x348.png)
 
-Nun sollten Sie alle Datensätze aus der Airtable Base in der neuen SeaTable Base sehen. Gratulation, die Migration der Datensätze ist abgeschlossen!
+Ahora debería ver todos los registros de la base de Airtable en la nueva base de SeaTable. ¡Felicidades, la migración de los registros se ha completado!
 
-Wenn Sie mit dem Endergebnis nicht zufrieden sind, dann [löschen Sie alle Tabellen](https://seatable.io/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/) und starten erneut bei Schritt 5.
+Si no está satisfecho con el resultado final, entonces [elimine todas las tablas](https://seatable.io/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/) y comience de nuevo desde el paso 5.
 
-### 11\. Migration abschließen
+### 11\. Finalizar la migración
 
-Das Migrationsskript hat alle Daten übertragen. Einige manuelle Nacharbeiten sind nun ggf. noch notwendig.
+El script de migración ha transferido todos los datos. Es posible que aún se requieran algunos ajustes manuales.
 
-Zum einen müssen Sie die Formeln in Formelspalten ergänzen sowie die nicht automatisch angelegten und in der Tabelle “Columns to be migrated manually” aufgeführten Spalten hinzufügen.
+Por un lado, debe completar las fórmulas en las columnas de fórmula y añadir las columnas que no se crearon automáticamente y que están listadas en la tabla “Columns to be migrated manually”.
 
-Zum anderen müssen Sie auch Ansichten selbst anlegen, da diese nicht aus der Airtable Base übertragen werden. Das gleiche gilt für Automationen, Interfaces und Skripte.
+Por otro lado, también debe crear las vistas manualmente, ya que estas no se transfieren desde la base de Airtable. Lo mismo aplica para automatizaciones, interfaces y scripts.
 
-## FAQ-Bereich
+## Sección de Preguntas Frecuentes (FAQ)
 
-{{< faq "Ändert das Skript Daten in meiner Airtable Base?" >}}Nein. Das Skript liest ausschließlich Ihre Airtable Base aus. Die Daten in der Airtable Base werden nicht verändert.
+{{< faq "¿El script modifica datos en mi base de Airtable?" >}}No. El script solo lee su base de Airtable. Los datos en la base de Airtable no se modifican.
 {{< /faq >}}
-{{< faq "Wie verhalte ich mich bei Fehlermeldungen?" >}}Eine Fehlermeldung bei der ersten Ausführung ist gar nicht unwahrscheinlich. Gründe dafür gibt es genug, z.B. ein falscher Token, eine inkorrekte Reihenfolge bei der Spezifikation der Verlinkungen, Tippfehler, fehlende Kommas oder eine nicht korrekte Einrückung. Ein einzelner Fehler kann zu einem Abbruch der Skriptausführung führen.  
-Wenn Sie eine Fehlermeldung erhalten, dann ist dies grundsätzlich kein Problem. Daten können keine verloren gehen. Gehen Sie wie folgt vor, um die Ursache des Fehlers zu finden:  
-– Die Fehlermeldung gibt Ihnen in den meisten Fällen ein Hinweis, wo der Fehler zu finden ist. Folgen Sie diesem, korrigieren Sie die eingegebenen Parameter und führen Sie das Skript erneut aus. Ein Einrückungsfehler (englich “indentation”) beispielsweise verweist auf eine nicht der Python-Syntax entsprechende Einrückung hin.  
-– Ist die Fehlermeldung unverständlich, prüfen Sie alle Eingaben auf Korrektheit und versuchen Sie es nochmals.  
-– Wenn keiner der Tipps hilft, holen Sie sich Hilfe im [SeaTable Forum](https://forum.seatable.com/).
 
-{{< warning  headline="Wichtiger Hinweis"  text="Bitte entfernen Sie API-Token, den PAT und die Base-ID, bevor Sie Screenshots oder Skripte im Forum posten." />}}
+{{< faq "¿Qué debo hacer si recibo mensajes de error?" >}}
+Recibir un mensaje de error en la primera ejecución no es inusual. Hay muchas razones posibles, por ejemplo, un token incorrecto, un orden incorrecto en la especificación de los enlaces, errores tipográficos, comas faltantes o una indentación incorrecta. Un solo error puede hacer que la ejecución del script se detenga.  
+Si recibe un mensaje de error, no hay problema. No se perderán datos. Siga estos pasos para encontrar la causa del error:
+
+- El mensaje de error generalmente le indica dónde se encuentra el error. Siga la indicación, corrija los parámetros ingresados y ejecute el script nuevamente. Un error de indentación, por ejemplo, indica una indentación que no corresponde a la sintaxis de Python.
+- Si el mensaje de error no es claro, revise todas las entradas para asegurarse de que sean correctas e intente de nuevo.
+- Si ninguno de los consejos ayuda, solicite ayuda en el [Foro de SeaTable](https://forum.seatable.com/).
+
+> **Aviso importante**: Por favor, elimine el API-Token, el PAT y el Base-ID antes de publicar capturas de pantalla o scripts en el foro.
+
 {{< /faq >}}
-{{< faq "Können Airtable Bases beliebiger Größe migriert werden?" >}}Grundsätzlich ja. Die in diesem Artikel vorgestellten Vorgehensweise mit dem integrierten Python Editor unterliegt jedoch einer maximalen Laufzeitbeschränkung von 15 Minuten, d.h. Skripte, die länger als 15 Minuten laufen, werden abgebrochen. In der Praxis ist dies für die allermeisten Bases ausreichend. Bei Bases mit großen/vielen Dateianhängen kann dieses Limit jedoch eine Rolle spielen. In dem Fall können Sie durch das Ausschließen von Spalten die Laufzeit verrringern. Wenn Sie Spalten nicht ausschließen wollen, dann müssen Sie das Python Skript lokal auf einem Rechner ausführen, bei dem es keine Laufzeitbeschränkung gibt.
+
+{{< faq "¿Se pueden migrar bases de Airtable de cualquier tamaño?" >}}En principio, sí. Sin embargo, el procedimiento presentado en este artículo con el editor de Python integrado tiene una limitación máxima de tiempo de ejecución de 15 minutos, es decir, los scripts que se ejecutan durante más de 15 minutos se interrumpirán. En la práctica, esto es suficiente para la gran mayoría de las bases. Sin embargo, para bases con archivos adjuntos grandes o numerosos, este límite puede ser relevante. En ese caso, puede reducir el tiempo de ejecución excluyendo columnas. Si no desea excluir columnas, debe ejecutar el script de Python localmente en una computadora donde no haya límite de tiempo de ejecución.
 {{< /faq >}}
-{{< faq "Kann man Tabellen in eine bestehende Base importieren?" >}}Das Skript erfordert nicht, dass eine Base leer ist. Sie können das Skript also auch in einer Base mit bestehenden, gefüllten Tabellen ausführen. Das Einzige, was Sie vermeiden sollten, ist die Duplizierung von Tabellennamen.
+
+{{< faq "¿Se pueden importar tablas en una base existente?" >}}El script no requiere que una base esté vacía. Por lo tanto, puede ejecutar el script en una base con tablas existentes y llenas. Lo único que debe evitar es la duplicación de nombres de tablas.
 
 {{< /faq >}}
