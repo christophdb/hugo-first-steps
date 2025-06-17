@@ -3,7 +3,6 @@ title: 'Budgeting: What is important in budget planning?'
 description: 'Budgeting defines how much money you and your managers have available to achieve certain goals. It also helps you to allocate money and resources sensibly to projects and departments. Read this article to find out how efficient budget planning works.'
 date: 2025-06-06
 url: '/budgeting'
-alias: '/budgetplanung-vorlage/'
 seo:
     title: 'Budgeting: advantages, methods, tips'
     description: 'How does budgeting work in a company and what needs to be considered? Read our tips here, including an example.'
