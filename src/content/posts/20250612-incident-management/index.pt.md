@@ -3,8 +3,8 @@ title: 'Gestão de incidentes: como reagir corretamente a falhas informáticas'
 description: 'Quando os sistemas falham, todos os minutos contam. Mas com uma gestão de incidentes bem planeada, o caos pode ser transformado em ordem. Descubra como processos claros, reacções rápidas e uma ferramenta poderosa podem salvar os seus nervos.'
 
 seo:
-    title: Gestão de incidentes - como reagir corretamente a falhas informáticas
-    description: Tudo o que precisa de saber sobre gestão de incidentes para minimizar o tempo de inatividade e garantir a continuidade do negócio.
+    title: 'Gestão de incidentes - como reagir corretamente a falhas informáticas'
+    description: 'Tudo o que precisa de saber sobre gestão de incidentes para minimizar o tempo de inatividade e garantir a continuidade do negócio.'
 categories:
     - 'Melhores práticas'
 tags:
