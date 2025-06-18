@@ -23,7 +23,7 @@ SeaTable’s scripts are related to the well-known SeaTable plugins such as the 
 
 Many users already know our [carefully created templates](https://seatable.io/en/docs/templates/). With the new release, it is now even easier to create new bases directly based on these templates, without the hassle of manual copy and export procedures. Using a template is now as easy as it gets! Create a new base, select your preferred template and off you go.
 
-![](images/create-from-template.png)
+![](create-from-template.png)
 
 When creating a new base in your base library, you’ll be offered three options: Create a blank base, import from file, or create from a template. The latter option will load the [SeaTable Market](https://market.seatable.io), where you can browse all available templates. Pick the one that fits your needs and the template's data will be copied into your new base.
 
@@ -31,11 +31,11 @@ When creating a new base in your base library, you’ll be offered three options
 
 Conditional formatting has been a staple in Microsoft Excel and Google Sheets. As a consequence, it’s been high up on our priority list. So we are pleased to announce the arrival of conditional row formatting in SeaTable 1.3!
 
-![](images/row-color-non-modal.png)
+![](row-color-non-modal.png)
 
 Conditional formatting is just as easy to use as the other data analysis functions of sorting, grouping and filtering. And it can also be invoked in the same way: via an icon in the view settings. Click on the "Format" icon and a small wizard will help you achieve your goal as quickly as possible.
 
-![](images/row-color.png)
+![](row-color.png)
 
 At first, you choose if you want to color-code rows based on a particular value in a single-select column or based on individual rules. When using rules, you can select a color for each rule, and under each rule, you can set up multiple logical filter conditions to define exactly which rows should be given this particular color.
 
@@ -43,11 +43,11 @@ At first, you choose if you want to color-code rows based on a particular value 
 
 You have been looking for a way to print all the data you and your team have meticulously organized in SeaTable? SeaTable’s new print function allows great printouts for your team's jour fixes, customer meetings and field work.
 
-![](images/print-settings.png)
+![](print-settings.png)
 
 Select the view that you wish to print and click the “…” icon on the view control panel to open the print settings. Adjust the parameters to your liking and hit the print button. SeaTable then renders the view and passes it on to the print manager of your device. If you want to save time, just hit Ctrl+P to open the print settings.
 
-![](images/compact-row-detail.png)
+![](compact-row-detail.png)
 
 Apart from printing the table or a view, you can also print just the details of one row. Open the row details you wish to print and click on the print icon. You have two choices here: “as it is” and “compact” format.
 
@@ -55,7 +55,7 @@ Apart from printing the table or a view, you can also print just the details of 
 
 The auto number column type is a great supplement to SeaTable’s existing database functionalities and helps you keep your data in order. In an auto number column, SeaTable automatically generates a serial number when adding a new row.
 
-![](images/auto-number.png)
+![](auto-number.png)
 
 The auto number column supports three different number formats:
 

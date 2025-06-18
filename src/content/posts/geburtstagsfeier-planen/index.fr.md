@@ -16,7 +16,7 @@ Vous allez bientôt fêter votre anniversaire ou vous souhaitez organiser une f�
 
 Il est préférable de planifier les premières étapes d'une fête d'anniversaire environ **huit semaines** à l'avance. Il s'agit d'abord de définir les points essentiels.
 
-![Étape 1 : Le cadre de votre fête d'anniversaire](https://seatable.io/wp-content/uploads/2023/07/Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
+![Étape 1 : Le cadre de votre fête d'anniversaire](Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
 
 ## Planifier une date pour une fête d'anniversaire
 
@@ -24,7 +24,7 @@ Avant de commencer à planifier les détails de votre fête, vous devez d'abord 
 
 Si vous organisez un **anniversaire d'enfant**, la fête peut également avoir lieu l'après-midi en semaine. Si l'enfant et la plupart des invités sont adultes, la fête peut avoir lieu le soir et se prolonger dans la nuit. Lorsque vous choisissez une date appropriée, tenez compte des jours fériés et vérifiez la disponibilité de vos amis et de votre famille les plus proches.
 
-![Planifier un anniversaire d'enfant](images/pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
+![Planifier un anniversaire d'enfant](pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
 
 ## Créer une liste d'invités pour votre fête d'anniversaire
 
@@ -50,7 +50,7 @@ L'un des points les plus importants de votre fête est le lieu où vous allez vo
 
 Le choix d'un lieu approprié est souvent un défi, car les possibilités qui s'offrent à vous au départ semblent infinies. Cependant, n'oubliez pas que le lieu doit être adapté non seulement à vos invités, mais aussi aux conditions météorologiques de la **saison** et, le cas échéant, au thème de votre fête. Commencez donc par dresser une liste des critères auxquels le lieu potentiel doit répondre. Pensez également à organiser la fête entre vos quatre murs, en plein air ou dans un lieu public. Vous éviterez ainsi de **louer** un lieu et pourrez répartir votre budget ailleurs. Si vous décidez tout de même d'organiser votre fête dans un lieu extérieur, vous pouvez considérablement limiter le choix en fonction des critères que vous avez établis.
 
-![Des lieux exceptionnels pour une fête d'anniversaire](https://seatable.io/wp-content/uploads/2023/07/marvin-meyer-cjhuXRtRT0Y-unsplash.jpg)
+![Des lieux exceptionnels pour une fête d'anniversaire](marvin-meyer-cjhuXRtRT0Y-unsplash.jpg)
 
 Lieu exceptionnel pour une fête d'anniversaire : louer une maison de vacances pour une pool party.
 
@@ -69,7 +69,7 @@ Les cartes d'invitation bien conçues sont un excellent moyen d'annoncer à l'av
 
 Une fois que les grandes lignes de votre fête d'anniversaire ont été définies, il est temps de s'occuper des détails concrets de votre fête. Une planification en temps utile est particulièrement payante à cette étape. C'est pourquoi, au plus tard un mois avant votre fête, vous devriez vous occuper des choses de base comme la nourriture et la musique.
 
-![Étape 2 : Les détails de votre fête d'anniversaire](https://seatable.io/wp-content/uploads/2023/07/Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
+![Étape 2 : Les détails de votre fête d'anniversaire](Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
 
 ## Planifier les repas pour une fête d'anniversaire
 
@@ -94,7 +94,7 @@ En faisant appel à un service de restauration pour vos invités, vous économis
 - Pizza et pâtes
 - Gâteaux et desserts
 
-![Buffet pour une fête d'anniversaire](images/brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
+![Buffet pour une fête d'anniversaire](brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
 
 ### Demander de l'aide à vos invités
 
@@ -108,7 +108,7 @@ Une fois que vous vous êtes occupé de la restauration, vous devez également v
 
 Si votre lieu dispose d'enceintes sonores, vous pouvez facilement créer vous-même l'ambiance de la fête avec une playlist adaptée. Pour une expérience inoubliable, vous pouvez également faire appel à un groupe de musique live ou à un DJ qui fera monter l'ambiance et fera danser vos invités. Vous avez peut-être aussi un musicien ou un DJ dans votre cercle d'amis et pouvez ainsi économiser les frais d'engagement d'une personne externe.
 
-![Un groupe de musique en direct est le point fort de toute grande fête](https://seatable.io/wp-content/uploads/2023/07/music-hq-Cknyec2RnrE-unsplash.jpg)
+![Un groupe de musique en direct est le point fort de toute grande fête](music-hq-Cknyec2RnrE-unsplash.jpg)
 
 Un groupe de musique en direct est un point fort pour toute grande fête d'anniversaire.
 
@@ -132,7 +132,7 @@ Outre la décoration, vous devez également penser à un équipement suffisant p
 
 Votre fête d'anniversaire approche à grands pas et vous avez déjà réglé tous les détails ? Il est alors grand temps, environ une semaine avant votre fête, de commencer les préparatifs finaux de votre journée inoubliable.
 
-![Étape 3 : Les derniers préparatifs de votre fête d'anniversaire](https://seatable.io/wp-content/uploads/2023/07/1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
+![Étape 3 : Les derniers préparatifs de votre fête d'anniversaire](1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
 
 ### Préparatifs finaux et courses
 
@@ -148,4 +148,4 @@ Vous avez encore du retard à rattraper dans certains domaines ? Pas de problèm
 
 Planifier et organiser une fête d'anniversaire - ce qui semble être un jeu d'enfant pour beaucoup s'avère souvent être un processus long et laborieux d'après notre propre expérience. En effet, si l'on veut organiser une fête unique et inoubliable, il faut s'occuper le plus tôt possible de tous les préparatifs importants. Avec tout ce stress, il peut vite arriver d'oublier une personne importante lors de la planification, de commander trop peu de nourriture et de boissons ou de perdre de vue le budget dont on dispose.
 
-Pour vous éviter toutes ces mésaventures et vous permettre de vous réjouir de votre prochaine fête, SeaTable a développé un [organisateur de fête]({{< relref "templates/events/party-planner" >}}) qui vous permet de préparer votre fête de manière claire et structurée, tout en gardant un œil sur vos invités. N'hésitez pas à l'essayer en [vous inscrivant](https://seatable.io/fr/enregistrement/) gratuitement.
+Pour vous éviter toutes ces mésaventures et vous permettre de vous réjouir de votre prochaine fête, SeaTable a développé un [organisateur de fête]({{< relref "templates/events/party-planner" >}}) qui vous permet de préparer votre fête de manière claire et structurée, tout en gardant un œil sur vos invités. N'hésitez pas à l'essayer en [vous inscrivant]({{< relref "pages/registration" >}}) gratuitement.

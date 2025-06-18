@@ -31,11 +31,11 @@ We have already learned that there are [several methods](https://www.userlike.co
 
 "How likely is it that you would recommend our product to a friend?" We all know this sentence and have probably answered it a time or two. This is the _Net-Promoter-Score (NPS)_. The purpose of this is to determine the probability that a buyer, customer or prospective customer will recommend the purchased or preferred product to a friend or acquaintance. A scale from 0 (very unlikely) to 10 (very likely) is available for the answer.
 
-![Net Promoter Score (NPS)](images/NPS-Score-SeaTable.png)
+![Net Promoter Score (NPS)](NPS-Score-SeaTable.png)
 
 Usually, you also ask why the respective value was selected. The good thing about this is that the question is not just aimed at a feeling ("What did you think of our product?"), but at a behavioral intention. For many, this question is much easier to answer. The NPS is also so popular because the answer is usually more accurate and honest than a pure feeling question. After all, by recommending a bad product to a friend, the buyer would be putting his own reputation at risk - and who wants that? In addition, the question of "why" allows you to better understand why the respective customer feedback turned out to be positive or negative.
 
-![An NPS questionnaire with SeaTable](images/nps-form-seatable.png)
+![An NPS questionnaire with SeaTable](nps-form-seatable.png)
 
 An NPS questionnaire created with SeaTable. Just try our [NPS template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}).
 
@@ -94,7 +94,7 @@ There are cultural differences in valuation. This becomes important when you ope
 
 Whichever method you choose, make sure you use a tool that lets you store and manage all your feedback. For example, SeaTable can help you collect the customer feedback you want. Simply create your desired survey using our web form. In [this article](https://seatable.io/en/kundenfeedback-mit-seatable/), we will explain you the whole process of creating such a form and then analyzing it in more detail. If you want to get started right away, take a look there.
 
-![Customer feedback creation web form](images/Kundenfeedback-Formularerstellung-langsamer-1.gif)
+![Customer feedback creation web form](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 
 Creating a form is child's play in SeaTable
 
@@ -106,9 +106,9 @@ After getting the feedback you want from your customers, you need to filter out 
 
 ### Analyze weaknesses and potentials
 
-Let's say you want to make improvements to your product, identify the current weak points, and find out why your customers don't recommend your product to others. For this, you can create a new [view](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) to [filter](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [sort](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), and [group](https://seatable.io/en/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) the survey results. Look for the responses with a low NPS score and sort the feedback by relevant categories. You can create a separate view for each analysis you want, so you can access it in seconds at any time.
+Let's say you want to make improvements to your product, identify the current weak points, and find out why your customers don't recommend your product to others. For this, you can create a new [view](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) to [filter]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [sort](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), and [group](https://seatable.io/en/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) the survey results. Look for the responses with a low NPS score and sort the feedback by relevant categories. You can create a separate view for each analysis you want, so you can access it in seconds at any time.
 
-![Filter options of SeaTable](images/nps-form-filter.png)
+![Filter options of SeaTable](nps-form-filter.png)
 
 Display only the entries you want to see. Thanks to SeaTable's filters and views, it's child's play.
 
@@ -116,7 +116,7 @@ Display only the entries you want to see. Thanks to SeaTable's filters and views
 
 Besides the possibility to view the answers of the customer satisfaction survey in the table view, you can use the statistics function of SeaTable e.g. to visualize the frequency distributions. This makes it easy to quickly get an overview of the latest numbers.
 
-![Statistical analysis of the NPS survey in SeaTable](images/nps-statistics-seatable.png)
+![Statistical analysis of the NPS survey in SeaTable](nps-statistics-seatable.png)
 
 Statistical analysis of the NPS survey in SeaTable
 
@@ -133,7 +133,7 @@ If you want to prioritize, you should look at multiple dimensions. Just because 
 
 To identify the most impactful items, you need to focus on the categories that are mentioned most often and tend to have a poor NPS score.
 
-![NPS rating in SeaTable](images/nps-form-overview.png)
+![NPS rating in SeaTable](nps-form-overview.png)
 
 NPS rating in SeaTable
 

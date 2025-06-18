@@ -13,7 +13,7 @@ Numa altura em que a tendência para a **sustentabilidade** está a ganhar forç
 
 Por conseguinte, deve familiarizar-se com os princípios básicos da responsabilidade social das empresas e desenvolver estratégias sobre a forma como a sua empresa pode cumprir os novos requisitos. Mas o que significa exatamente o termo RSE e como pode implementar com sucesso a sustentabilidade na sua empresa?
 
-![RSE: Parque sustentável em frente a edifícios altos](images/solar-4478105_1280-711x474.jpg)
+![RSE: Parque sustentável em frente a edifícios altos](solar-4478105_1280-711x474.jpg)
 
 As empresas estão cada vez mais a reconhecer a importância da RSE e a integrá-la nas suas estratégias.
 
@@ -31,7 +31,7 @@ Se teve pouco contacto com a responsabilidade social das empresas, pode estar a 
 - **Cidadania empresarial:** descreve o compromisso de uma empresa para com a comunidade que vai para além das suas actividades comerciais. Inclui patrocínios, donativos e fundações, por exemplo.
 - A **responsabilidade das empresas:** RC tem sido utilizada como sinónimo de RSE desde há vários anos. Alguns preferem este termo para evitar mal-entendidos, uma vez que o "social" na responsabilidade social das empresas é frequentemente entendido como sendo exclusivamente social.
 
-![Três mãos à volta de um globo terrestre moldado em papel](images/earth-day-environment-eco-concept-space-text-711x474.jpg)
+![Três mãos à volta de um globo terrestre moldado em papel](earth-day-environment-eco-concept-space-text-711x474.jpg)
 
 A sustentabilidade não é apenas uma tendência, mas uma necessidade para as empresas.
 
@@ -44,7 +44,7 @@ A pirâmide da RSE, concebida por Archie B. Carroll, é uma orientação pormeno
 - **Responsabilidade ética:** Este nível consiste em ir além do que é legalmente exigido e promover um comportamento ético. As empresas devem estar empenhadas em princípios morais como a integridade, a honestidade e a justiça, tanto nos seus processos internos como nas suas relações com as partes externas, como os clientes, os fornecedores e a comunidade.
 - **Responsabilidade filantrópica:** O nível mais elevado da responsabilidade social das empresas envolve contribuições voluntárias para a sociedade que vão para além da simples obtenção de lucros e do cumprimento da legislação e das normas éticas. Pode incluir, por exemplo, donativos a organizações de caridade, investimentos em projectos de educação ou de proteção ambiental e a promoção do empenho social por parte dos trabalhadores.
 
-![Representação gráfica da pirâmide da RSE por Archie B. Carroll](images/CSR-Pyramide.png)
+![Representação gráfica da pirâmide da RSE por Archie B. Carroll](CSR-Pyramide.png)
 
 A pirâmide da RSE segundo Archie B. Carroll
 
@@ -56,7 +56,7 @@ A promoção de um **ambiente de trabalho positivo** e de **colaboradores empenh
 
 Globalmente, a integração da RSE pode, portanto, não só ajudar a dar um contributo positivo para a sociedade, mas também oferecer benefícios comerciais directos que podem tornar a sua empresa mais bem sucedida.
 
-![As pessoas colocam-se em círculo e esticam as mãos em direção ao centro](images/diverse-people-doing-fist-bump-park-711x474.jpg)
+![As pessoas colocam-se em círculo e esticam as mãos em direção ao centro](diverse-people-doing-fist-bump-park-711x474.jpg)
 
 A RSE deve ser parte integrante da cultura da empresa.
 
@@ -88,7 +88,7 @@ Espaçador
 - Bolsas de estudo
 - Formulação de valores fundamentais
 
-![CSR: Duas árvores e uma turbina eólica em três cubos.](images/windmill-5591464_1280-711x498.jpg)
+![CSR: Duas árvores e uma turbina eólica em três cubos.](windmill-5591464_1280-711x498.jpg)
 
 A RSE exige um compromisso a longo prazo e um acompanhamento contínuo.
 

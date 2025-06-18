@@ -14,7 +14,7 @@ seo:
 
 Nesta publicação do blogue, vamos analisar em profundidade o fenómeno da dívida Klarna e dar-lhe **dicas** e **estratégias** práticas sobre como pode sair de dificuldades financeiras.
 
-![Compras em linha: pequeno carrinho de compras ao lado de um computador portátil](images/pexels-karolina-grabowska-5632397-711x474.jpg)
+![Compras em linha: pequeno carrinho de compras ao lado de um computador portátil](pexels-karolina-grabowska-5632397-711x474.jpg)
 
 As compras em linha tornaram-se o método de compra preferido de muitos consumidores.
 
@@ -24,7 +24,7 @@ A Klarna é um **prestador de serviços financeiros sueco** que oferece serviço
 
 Com o seu slogan _"Compre agora._ Pague _depois_ ", a Klarna alcançou um enorme alcance, encorajando muitos consumidores a fazerem compras em lojas online sem terem de pagar imediatamente. Os operadores de lojas em linha, por sua vez, têm a vantagem de o Klarna assumir os **pagamentos** em falta dos compradores faltosos, de modo a que os comerciantes de comércio eletrónico recebam o seu dinheiro em qualquer caso.
 
-![Dívidas da Klarna: Compras online no smartphone](images/pexels-cottonbro-studio-5076511-711x474.jpg)
+![Dívidas da Klarna: Compras online no smartphone](pexels-cottonbro-studio-5076511-711x474.jpg)
 
 A opção de comprar em prestações pode tentá-lo a comprar mais do que pode realmente pagar.
 
@@ -40,7 +40,7 @@ Se não tiver liquidez suficiente na data de vencimento, **os juros de mora** e 
 
 A compra a prestações do Klarna é utilizada por um leque diversificado de pessoas, incluindo, de acordo com um [inquérito](https://de.statista.com/infografik/29303/anteil-der-befragten-verschiedener-generationen-die-klarna-bnpl-nutzen/), sobretudo jovens da **Geração Z** e da **geração** do **milénio**. Este grupo etário aprecia a conveniência e a flexibilidade dos serviços de pagamento do Klarna, especialmente a opção de pagar mais tarde. Muitos jovens partilham as suas dívidas ao Klarna nas redes sociais com o hashtag _#KlarnaSchulden_.
 
-![Gráfico dos utilizadores do Klarna divididos por gerações](images/Klarna-Schulden-711x533.png)
+![Gráfico dos utilizadores do Klarna divididos por gerações](Klarna-Schulden-711x533.png)
 
 Distribuição dos utilizadores da compra a prestações do Klarna por geração
 
@@ -58,7 +58,7 @@ As dívidas ao Klarna não têm apenas o peso imediato das **responsabilidades f
 
 Para além disso, as dívidas ao Klarna podem dificultar futuras **compras online**. Para além do bloqueio da sua conta Klarna, outros fornecedores de serviços podem também recusar-lhe o acesso até que as suas dívidas sejam saldadas. Outro aspeto que não deve ser descurado é a **pressão psicológica** que o endividamento acarreta. A pressão financeira constante pode provocar stress, ansiedade e preocupação, o que pode afetar significativamente a sua qualidade de vida e o seu bem-estar.
 
-![Sacos de dinheiro em frente a um mealheiro](images/pexels-katie-harp-12591342-711x472.jpg)
+![Sacos de dinheiro em frente a um mealheiro](pexels-katie-harp-12591342-711x472.jpg)
 
 Ao planear conscientemente e estabelecer prioridades para as suas despesas, pode manter as suas finanças sob controlo.
 
@@ -73,7 +73,7 @@ Confrontados com a dívida do Klarna, muitos sentem-se desamparados e sobrecarre
 
 Se se sentir completamente sobrecarregado e não tiver uma visão clara das suas finanças, não tenha medo de procurar ajuda profissional. **O aconselhamento em matéria de dívidas** pode ajudá-lo a desenvolver um plano para voltar a controlar as suas finanças e gerir a sua dívida ao Klarna a longo prazo.
 
-![Dívidas do Klarna: Um homem senta-se em frente a um consultor de dívidas.](images/pexels-rdne-stock-project-7821681-711x474.jpg)
+![Dívidas do Klarna: Um homem senta-se em frente a um consultor de dívidas.](pexels-rdne-stock-project-7821681-711x474.jpg)
 
 Os consultores em matéria de dívidas podem negociar com os credores planos de pagamento.
 
@@ -83,7 +83,7 @@ Para evitar dívidas futuras e criar uma base financeira sólida, deve aplicar a
 
 Também é aconselhável não se deixar influenciar demasiado por promessas publicitárias e ofertas tentadoras. Muitas vezes, são anunciados produtos ou serviços que não são efetivamente necessários. Tome **decisões racionais** e compre apenas o que é realmente necessário. Além disso, a constituição de um **pé-de-meia** para despesas imprevistas pode aumentar a sua segurança financeira e evitar que tenha de recorrer a empréstimos ou ao pagamento de prestações em caso de emergência.
 
-![iPhone com aplicação de calculadora para dívidas do Klarna](images/pexels-leeloo-the-first-8970691-711x508.jpg)
+![iPhone com aplicação de calculadora para dívidas do Klarna](pexels-leeloo-the-first-8970691-711x508.jpg)
 
 Um planeamento orçamental cuidadoso é crucial para garantir a segurança financeira.
 

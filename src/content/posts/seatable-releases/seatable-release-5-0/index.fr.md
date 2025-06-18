@@ -26,7 +26,7 @@ Le développement de l'App-Builder se poursuit sans relâche : avec le [type de 
 
 Les utilisateurs de l'application peuvent voir, rechercher, parcourir et modifier les différents enregistrements sur cette page - avec l'[autorisation](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) correspondante. Ce type de page convient par exemple pour afficher les données d'une base de données d'employés sous forme de fiches personnelles.
 
-![Page d'enregistrement unique](images/Single-Record-Page-min.gif)
+![Page d'enregistrement unique](Single-Record-Page-min.gif)
 
 ### Nouvelles fonctions des types de pages existants
 
@@ -36,25 +36,25 @@ Sur les [pages de la galerie](https://seatable.io/fr/docs/seitentypen-in-univers
 
 ## Trois plug-ins pour des visualisations complexes
 
-Un autre point fort de SeaTable 5.0 sont les nouveaux [plugins](https://seatable.io/fr/docs/plugins/alle-plugins-in-der-uebersicht/) qui permettent de visualiser les dépendances, les structures et les processus dans une base.
+Un autre point fort de SeaTable 5.0 sont les nouveaux [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) qui permettent de visualiser les dépendances, les structures et les processus dans une base.
 
 ### Organigramme
 
 Le plug-in Organigramme permet de représenter les hiérarchies entre les enregistrements d'un tableau, par exemple les postes dans une entreprise ou les [tâches supérieures et inférieures dans un projet](https://seatable.io/fr/projektstrukturplan-vorlage/). Pour visualiser les dépendances entre les enregistrements, vous avez besoin d'une [colonne de lien](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) qui se réfère à un seul et même tableau. L'entrée avec laquelle vous liez une autre ligne du même tableau est représentée comme enregistrement parent.
 
-![Plugin d'organigramme](images/Organigramm-Plugin.png)
+![Plugin d'organigramme](Organigramm-Plugin.png)
 
 ### Relations entre les tables
 
 Il est facile de perdre la vue d'ensemble des relations entre les différents tableaux d'une base, surtout lorsque celle-ci contient des milliers de lignes. Le nouveau plug-in Relations entre les tableaux permet de voir quels tableaux sont liés entre eux et par quelles colonnes. Il affiche non seulement les liens directs via les [colonnes de liens](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), mais aussi les liens indirects via les colonnes de formules de liens.
 
-![Plugin de relations entre les tables](images/Table-Relationships-Plugin.png)
+![Plugin de relations entre les tables](Table-Relationships-Plugin.png)
 
 ### Tableau blanc
 
 Le tableau blanc est le premier plugin qui fonctionne indépendamment des données dans une base. Il vous donne la liberté de visualiser graphiquement des processus et des structures que vous ne pouvez pas représenter avec les plugins précédents. De même, vous pouvez esquisser librement des mises en page et des mockups. Pour la conception, vous avez le choix entre différents **éléments** tels que des carrés, des ellipses et des flèches ainsi que **des outils** tels que le stylo et la gomme.
 
-![Plugin de tableau blanc](images/Whiteboard-Plugin.png)
+![Plugin de tableau blanc](Whiteboard-Plugin.png)
 
 {{< warning headline="SeaTable ♥ Excalidraw" text="Le plugin pour tableau blanc est basé sur le logiciel populaire [Excalidraw](https://plus.excalidraw.com/), que de nombreux utilisateurs connaissent déjà. Une restriction importante doit être mentionnée : Au lancement de SeaTable 5.0, le tableau blanc ne supportera pas la collaboration en direct. Nous y remédierons prochainement." />}}
 
@@ -68,7 +68,7 @@ Avec la version 5.0, nous atteignons l'objectif d'obtenir un Lighthouse Accessib
 
 Déjà dans la version 4.4, l'importation de fichiers XLSX est devenue plus rapide, plus flexible et plus stable. Avec SeaTable 5.0, l'assistant d'importation est encore plus performant : dans la fenêtre d'aperçu nettement améliorée, vous pouvez désormais sélectionner en détail les tables - et même **les colonnes d'un classeur XLSX** - que SeaTable doit importer. Il suffit de désélectionner les tables et les colonnes indésirables pour contrôler avec précision l'importation des données.
 
-![Importation Excel](images/Excel-Import.gif)
+![Importation Excel](Excel-Import.gif)
 
 ## Optimisation de l'API de SeaTable Cloud
 
@@ -84,9 +84,9 @@ Si vous souhaitez en savoir plus, vous trouverez tous les détails sur les chang
 
 ## Et bien plus encore
 
-Vous rencontrez l'**éditeur de texte long** à de nombreux endroits. Lorsque vous remplissez des champs de texte formatés dans les **détails des lignes** ou dans les [formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/), vous remarquerez que l'ergonomie a été améliorée : L'éditeur de texte long ne s'ouvre plus dans une autre fenêtre pop-up, mais en ligne, ce qui vous permet de commencer à écrire directement.
+Vous rencontrez l'**éditeur de texte long** à de nombreux endroits. Lorsque vous remplissez des champs de texte formatés dans les **détails des lignes** ou dans les [formulaires web]({{< relref "help/base-editor/webformulare" >}}), vous remarquerez que l'ergonomie a été améliorée : L'éditeur de texte long ne s'ouvre plus dans une autre fenêtre pop-up, mais en ligne, ce qui vous permet de commencer à écrire directement.
 
-![Éditeur de textes longs dans les formulaires web](images/Long-text-editor-in-web-forms.png)
+![Éditeur de textes longs dans les formulaires web](Long-text-editor-in-web-forms.png)
 
 Vous connaissez également les **statistiques** de plusieurs endroits dans SeaTable : du [module Statistiques](https://seatable.io/fr/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/) dans la Base ainsi que des [pages individuelles dans les Apps universelles](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). Nous avons amélioré et unifié les statistiques avec une nouvelle bibliothèque de graphiques.
 

@@ -13,7 +13,7 @@ seo:
 
 Ihre **Sammlungen** lassen sich ideal über digitale Programme und Apps **verwalten**. Dabei ist es egal, ob es sich bei der Sammlung um physische Gegenstände oder digitale Medien handelt. Zu den beliebtesten Sammlerstücken zählen Münzen, Briefmarken, Schuhe, Kunstwerke, Spielzeug, Sammelkarten, Non Fungible Tokens (NFT), [Bücher](https://seatable.io/buecher-katalogisieren/), Filme, Musik (auf CD, Schallplatten) und mehr. Wenn einen Sammler die Leidenschaft packt, ist die größte Herausforderung oft, den Überblick zu behalten. Hier kommen die Programme ins Spiel, mit denen Sie Ihre Sammlung verwalten können – am PC oder mit einer App.
 
-![Sammlung aller Briefmarken über ein digitales Tool verwalten.](https://seatable.io/wp-content/uploads/2022/07/Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
+![Sammlung aller Briefmarken über ein digitales Tool verwalten.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
 
 Was sammeln Sie? © VRD / Adobe Stock
 
@@ -27,11 +27,11 @@ Eine Möglichkeit ist zum Beispiel das Ranken von Gegenständen, wie es in einer
 
 ### Vergleiche, Recherchen und mehr
 
-Zusätzlich können Sie Sammlungen verwalten, um Ihre Sammlung zu analysieren. Über Programme und Apps lassen sich Vergleiche anstellen, sei es in Ihrer eigenen Sammlung oder in der Gegenüberstellung mit der eines Dritten. Zum Beispiel könnten Sie feststellen, welche Briefmarken oder Münzen eine andere Person hat, die Sie nicht besitzen. Mit den Informationen einer [Kunstsammlung](https://seatable.io/ausstellungs-und-kunstmanagement-museum-galerie/) lässt sich außerdem Recherche betreiben. Man weiß genau, welche weiteren Kunstgegenstände in die Sammlung passen könnten, und kann entsprechend recherchieren.
+Zusätzlich können Sie Sammlungen verwalten, um Ihre Sammlung zu analysieren. Über Programme und Apps lassen sich Vergleiche anstellen, sei es in Ihrer eigenen Sammlung oder in der Gegenüberstellung mit der eines Dritten. Zum Beispiel könnten Sie feststellen, welche Briefmarken oder Münzen eine andere Person hat, die Sie nicht besitzen. Mit den Informationen einer [Kunstsammlung]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}) lässt sich außerdem Recherche betreiben. Man weiß genau, welche weiteren Kunstgegenstände in die Sammlung passen könnten, und kann entsprechend recherchieren.
 
 ### Sammlungen verwalten für den Schadensfall
 
-Sammlungssoftware lohnt sich außerdem im Schadensfall. Ein Szenario: Sie verwalten eine Sammlung und möchten diese versichern. In dem Verwaltungsprogramm halten Sie fest, welche Gegenstände Sie besitzen. Es dient als eine Art [Inventarliste](https://seatable.io/inventarliste-vorlagen/). Von dieser ausgehend wissen Sie anschließend, für welchen Wert Sie die Sammlung versichern sollten.
+Sammlungssoftware lohnt sich außerdem im Schadensfall. Ein Szenario: Sie verwalten eine Sammlung und möchten diese versichern. In dem Verwaltungsprogramm halten Sie fest, welche Gegenstände Sie besitzen. Es dient als eine Art [Inventarliste]({{< relref "posts/inventarliste-erstellen" >}}). Von dieser ausgehend wissen Sie anschließend, für welchen Wert Sie die Sammlung versichern sollten.
 
 ### Lagerorte mit der Sammlungssoftware im Blick behalten
 
@@ -49,7 +49,7 @@ Um Ihre Sammlung zu verwalten, haben Sie verschiedene Möglichkeiten. Es existie
 
 Eine Option für das Verwalten von Sammlungen ist [Evernote](https://evernote.com/intl/de). Hier können Sie Notizen herunterschreiben und Bilder oder Dokumente wie Kaufbelege der Gegenstände anhängen. Es ist ebenfalls möglich, Tags zu setzen, um verschiedene Sammlungen voneinander zu unterscheiden. Eine Suchfunktion hilft dabei, innerhalb der Notizen Sammlungsobjekte wiederzufinden. Sie starten mit einer kostenfreien Version. Die Personal-Variante kostet 6,99 € pro Monat pro User und die Professional-Variante 8,99 €.
 
-![Jemand schaut sich das Evernote Tool an, um seine Sammlung zu verwalten.](https://seatable.io/wp-content/uploads/2022/06/Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
+![Jemand schaut sich das Evernote Tool an, um seine Sammlung zu verwalten.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
 Sammlung verwalten © monticellllo / Adobe Stock
 

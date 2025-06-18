@@ -30,7 +30,7 @@ Si quiere saber de dónde viene la tradición del calendario de Adviento, haga c
 
 El calendario de Adviento debe estar listo como muy tarde el 30 de noviembre. La siguiente planificación te ayudará a que nada se interponga en el camino:
 
-![Cómo planificar su calendario de Adviento en 5 pasos.](https://seatable.io/wp-content/uploads/2024/06/Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
+![Cómo planificar su calendario de Adviento en 5 pasos.](Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
 
 Estos pasos conducen al éxito.
 
@@ -40,7 +40,7 @@ Ya sea joven o mayor, todo el mundo espera con ilusión abrir una nueva puerta p
 
 A la hora de planificar, ten en cuenta **para quién** vas a llenar el calendario de Adviento. Porque no a todo el mundo le gustan las mismas cosas.
 
-![Los niños disfrutan especialmente abriendo una puertecita cada día.](https://seatable.io/wp-content/uploads/2024/06/pexels-cottonbro-6139608-e1718886096417.jpg)
+![Los niños disfrutan especialmente abriendo una puertecita cada día.](pexels-cottonbro-6139608-e1718886096417.jpg)
 
 Cuando se abre una puerta, la alegría suele ser grande.
 
@@ -62,7 +62,7 @@ Vayamos al grano. La forma de llenar el calendario de Adviento depende sobre tod
 
 El **calendario de Adviento de chocolate** es sin duda el clásico entre los calendarios de Adviento. Ya sea en forma de simple tableta, moldeado con forma navideña o en forma de fino praliné, ¡su sabor convence! Si quiere hacer feliz a alguien que no quiere renunciar a los dulces durante el Adviento, puede satisfacer el gusto de esa persona con golosinas que usted mismo haya preparado y confeccionar su propio calendario de Adviento de diversas maneras.
 
-![Llenar un calendario de Adviento con chocolate es un clásico.](https://seatable.io/wp-content/uploads/2024/06/markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
+![Llenar un calendario de Adviento con chocolate es un clásico.](markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
 
 Decorar tú mismo el chocolate hace que el calendario de Adviento sea único.
 
@@ -80,7 +80,7 @@ Sin embargo, comprar 24 especias diferentes es caro. En primer lugar, eche un vi
 
 Para las personas artísticamente activas, lo ideal es un **juego de manualidades o de colorear** automontable. Deje volar la creatividad de su ser querido o regálele unas instrucciones de manualidades que le permitan trabajar en el proyecto un poco más cada día.
 
-![Haz felices a los niños regalándoles objetos de artesanía.](https://seatable.io/wp-content/uploads/2024/06/rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
+![Haz felices a los niños regalándoles objetos de artesanía.](rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
 
 No hace falta ser muy creativo.
 
@@ -97,7 +97,7 @@ Astrid Lindgren
 
 Lo siguiente es válido para rellenar calendarios de Adviento, especialmente **para niños**: Cuanto más emocionante, mejor. Prepárele a su hijo algo que le divierta durante más tiempo. Por ejemplo, un puzzle o un juego de Lego en el que cada día haya que montar una sección.
 
-![Los sets de Lego también están disponibles en forma de calendario de Adviento.](https://seatable.io/wp-content/uploads/2024/06/handcraft-8226964_640-e1718624762925.jpg)
+![Los sets de Lego también están disponibles en forma de calendario de Adviento.](handcraft-8226964_640-e1718624762925.jpg)
 
 Dé a su hijo algo que le guste.
 
@@ -115,7 +115,7 @@ Tu regalo parecerá especialmente único si lo combinas con un objeto simbólico
 
 Una mezcla de diferentes productos garantiza la emoción hasta el último segundo.
 
-![24 ideas para llenar tu calendario de adviento.](https://seatable.io/wp-content/uploads/2024/06/Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
+![24 ideas para llenar tu calendario de adviento.](Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
 
 Todo está en la mezcla.
 
@@ -136,7 +136,7 @@ A la hora de seleccionar el envase, debe plantearse las siguientes preguntas:
 
 Si vas a hacer tu propio calendario de Adviento y todo el contenido (por ejemplo, las barritas de chocolate) es más o menos del mismo tamaño, puedes pintar rollos de papel higiénico y utilizarlos como envoltorio.
 
-![El envase clásico es la bolsa de papel.](https://seatable.io/wp-content/uploads/2024/06/pexels-nati-87264186-19312001-e1718886187213.jpg)
+![El envase clásico es la bolsa de papel.](pexels-nati-87264186-19312001-e1718886187213.jpg)
 
 La forma más fácil de empaquetar es con bolsas de papel.
 
@@ -158,7 +158,7 @@ Si los paquetes son ligeros, puedes colgarlos en la pared con una cuerda o perch
 
 ## 5\. compre todo lo que necesite
 
-Hay mucho que comprar y poco tiempo. Para asegurarte de que consigues todo lo que necesitas, tiene sentido elaborar una [lista de la compra](https://seatable.io/es/einkaufsliste/). Investiga con tiempo dónde puedes conseguir lo que necesitas. Especialmente si haces mucho bricolaje, no sólo debes pensar en los materiales, sino también en las herramientas.
+Hay mucho que comprar y poco tiempo. Para asegurarte de que consigues todo lo que necesitas, tiene sentido elaborar una [lista de la compra]({{< relref "posts/einkaufsliste" >}}). Investiga con tiempo dónde puedes conseguir lo que necesitas. Especialmente si haces mucho bricolaje, no sólo debes pensar en los materiales, sino también en las herramientas.
 
 ### Planifique en línea con qué llenar sus calendarios de Adviento
 
@@ -172,6 +172,6 @@ Un **calendario de adviento digital** es sostenible y creativo. Si quieres hacer
 
 Puedes utilizar SeaTable para crear tu calendario de Adviento virtual. Diseña una puertecita para cada día, crea una galería con la ayuda de una aplicación y haz que tu contenido, seleccionado con cariño, esté fácilmente disponible a través de un enlace.
 
-![Calendario de Adviento privado](images/Private-Advent-Calendar.png)
+![Calendario de Adviento privado](Private-Advent-Calendar.png)
 
 Si desea utilizar SeaTable para crear calendarios de Adviento analógicos y/o digitales, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico. También puede encontrar la plantilla gratuita [aquí]({{< relref "templates/events/advent-calendar" >}}).

@@ -17,7 +17,7 @@ Vous souhaitez **planifier** un **atelier** ou même gérer l'ensemble du **dév
 
 Les collaborateurs sont la ressource la plus précieuse d'une entreprise. Il est donc dans votre intérêt de promouvoir vos **ressources humaines** et de rendre ainsi votre entreprise encore plus précieuse. Vous pouvez donc considérer les formations continues, les formations et les ateliers comme un **investissement durable** dans votre entreprise. En effet, les nouvelles compétences et le savoir-faire que vos collaborateurs acquièrent ne profitent pas seulement à eux, mais aussi à l'entreprise.
 
-![Planifier un atelier](https://seatable.io/wp-content/uploads/2021/07/Workshops.jpg)
+![Planifier un atelier](Workshops.jpg)
 
 Selon la complexité du sujet et l'expertise de votre entreprise, vous pouvez soit organiser **des ateliers internes** avec vos collaborateurs, soit faire appel à des spécialistes externes pour une **formation en interne**, soit faire appel à **des formations externes**, par exemple auprès de l'agence pour l'emploi, d'une chambre de commerce et d'industrie ou d'une académie.
 
@@ -49,7 +49,7 @@ Vous souhaitez faire progresser le développement de votre personnel et proposer
 
 Bien entendu, vous devez adapter votre offre aux besoins et déterminer les domaines dans lesquels **un transfert de connaissances** est nécessaire dans votre entreprise. Si votre entreprise est active au niveau international, vos collaborateurs pourraient être très intéressés par un cours d'anglais des affaires qui leur permettrait de rafraîchir leurs **connaissances linguistiques**. Il est probable que tous les nouveaux arrivants aient besoin d'une formation en **sécurité informatique** et d'une introduction aux **applications logicielles** qu'ils utilisent.
 
-![Vue d'ensemble de vos ateliers](images/Overview-1.jpg)
+![Vue d'ensemble de vos ateliers](Overview-1.jpg)
 
 Obtenez une vue d'ensemble de tous les ateliers, formations et mesures de formation continue qui ont déjà lieu dans votre entreprise ou pour lesquels il existe un besoin supplémentaire. Pour ce faire, vous pouvez facilement saisir dans une base de données toutes les informations et tous les documents importants relatifs à un atelier. Le lien avec d'autres tableaux permet une attribution directe à un coach.
 
@@ -57,11 +57,11 @@ Obtenez une vue d'ensemble de tous les ateliers, formations et mesures de format
 
 Selon que l'expertise nécessaire sur un sujet est disponible dans votre entreprise, vous pouvez faire appel soit **à vos collaborateurs**, soit à **des experts externes** pour coacher vos ateliers. Vérifiez si les coachs sont aptes à mener un atelier avec le succès souhaité. En outre, vous devriez déposer des informations telles que les coordonnées, la photo et les qualifications des coachs.
 
-![Enregistrez toutes les informations importantes sur vos formateurs d'atelier](images/Coaches-1.jpg)
+![Enregistrez toutes les informations importantes sur vos formateurs d'atelier](Coaches-1.jpg)
 
 Grâce au plugin de conception de pages, il est également possible de créer une **fiche descriptive** avec les données contenues dans le tableau et de l'enregistrer au format PDF.
 
-![Avec le plugin Page Design, vous pouvez créer des profils de formateurs en quelques clics.](https://seatable.io/wp-content/uploads/2021/07/Coach-profile-711x588.jpg)
+![Avec le plugin Page Design, vous pouvez créer des profils de formateurs en quelques clics.](Coach-profile-711x588.jpg)
 
 ## Définir la durée et l'ordre du jour de l'atelier
 
@@ -75,9 +75,9 @@ Là, vous pouvez réserver la **restauration pour la pause déjeuner** , tandis 
 
 ## Gérer les inscriptions en ligne
 
-Ensuite, vous devez inviter les participants potentiels et noter qui assiste à quelle date. Si vous avez déjà vos ateliers dans une base de données, il est facile de gérer **les inscriptions** en ligne. Vous pouvez facilement l’implémenter dans SeaTable via un [formulaire Web](https://seatable.io/fr/docs/webformulare/webformulare/) que les participants peuvent utiliser pour s’inscrire à chaque atelier. Cela vous évite d’avoir à envoyer des **invitations à des rendez-vous** par e-mail.
+Ensuite, vous devez inviter les participants potentiels et noter qui assiste à quelle date. Si vous avez déjà vos ateliers dans une base de données, il est facile de gérer **les inscriptions** en ligne. Vous pouvez facilement l’implémenter dans SeaTable via un [formulaire Web]({{< relref "help/base-editor/webformulare" >}}) que les participants peuvent utiliser pour s’inscrire à chaque atelier. Cela vous évite d’avoir à envoyer des **invitations à des rendez-vous** par e-mail.
 
-![Inscription facile aux ateliers via le formulaire web](images/Einfache-Workshop-Anmeldung-ueber-das-Webformular.png)
+![Inscription facile aux ateliers via le formulaire web](Einfache-Workshop-Anmeldung-ueber-das-Webformular.png)
 
 Un tableau rassemble toutes les inscriptions et les données saisies par vos participants. Pratique : Lorsque les participants sélectionnent un atelier, leur inscription est directement attribuée à l’atelier approprié dans le tableau lié.
 
@@ -97,13 +97,13 @@ Selon le thème de l'atelier, différentes méthodes et différents matériaux c
 
 Pour **certifier la participation à l’atelier**, vous pouvez délivrer un certificat à chaque participant. Avec le [plugin de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) de SeaTable, vous pouvez vous épargner beaucoup de travail. Le plugin utilise les informations déjà saisies dans le tableau et peut les insérer individuellement dans la mise en page du certificat de participation pour chaque participant. À l’aide d’un bouton, vous pouvez créer des documents personnalisés d’une simple pression sur un bouton et les enregistrer au format PDF.
 
-![Créez des certificats sans effort supplémentaire grâce au plugin Page Design](https://seatable.io/wp-content/uploads/2021/07/Zertifikate.jpg)
+![Créez des certificats sans effort supplémentaire grâce au plugin Page Design](Zertifikate.jpg)
 
 ## Demander un feedback sur l'atelier et l'évaluer
 
 Que seraient les ateliers et les formations continues sans feedback ? Pour l'évaluation, vous pouvez soit utiliser **des formulaires papier** que vous faites remplir par les participants à la fin de l'atelier, soit miser à nouveau sur un **formulaire web**. Ce dernier présente l'avantage que les participants saisissent directement l'évaluation sous forme numérique. Ainsi, le feedback est toujours lisible et immédiatement lié aux ateliers et aux coachs. Les participants peuvent évaluer l'atelier et le coach aussi bien sur une échelle de notation que dans des champs de texte libre.
 
-![Utilisez le formulaire web de SeaTable pour recueillir les commentaires de vos employés](images/Feedback.jpg)
+![Utilisez le formulaire web de SeaTable pour recueillir les commentaires de vos employés](Feedback.jpg)
 
 Vous pouvez facilement **évaluer** les commentaires recueillis dans SeaTable, par exemple en affichant la médiane ou la moyenne d’une [colonne d’évaluation](https://seatable.io/fr/docs/auswahlspalten/die-rating-spalte/) dans la [barre d’état](https://seatable.io/fr/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) ou en utilisant les réponses ouvertes dans les [colonnes de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) pour le développement ultérieur des ateliers. S’il y a une quantité notable de **critiques** à l’égard d’un cours, le formateur peut soit apporter des améliorations, soit être remplacé. Si, par exemple, il y a souvent des commentaires indiquant que des aspects importants ont été manqués, cela pourrait indiquer que vous devriez leur donner plus de temps et prolonger l’atelier. Vous pouvez également créer un nouvel atelier qui se concentre sur ces aspects pour répondre aux besoins de vos participants.
 

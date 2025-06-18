@@ -19,7 +19,7 @@ Anyone who works regularly with [Excel]({{< relref "pages/excel-alternative" >}}
 
 For all columns, SeaTable offers rule-based conditional formatting. A rule is the description of a hypothetical content of a cell (e.g. value > 50 or date after 31.12.2021) and a formatting instruction. If the rule is fulfilled, the cell is formatted according to the instruction. Cleverly chosen rules can, among other things, make statistical outliers or unusual values easily recognisable. Of course, you can also define several rules per column to map demanding requirements.
 
-![Conditional cell formatting](images/Conditional_cell_formatting2.png)
+![Conditional cell formatting](Conditional_cell_formatting2.png)
 
 If a column has numerical cell values, SeaTable offers formatting by values in addition to rule-based formatting. This conditional formatting colours the cells with a colour gradient. Large values are coloured with the upper end of the gradient, small values with the lower end. This makes the magnitude of a cell value clear at a glance.
 
@@ -31,13 +31,13 @@ If you not only want to display the order of magnitude of the cell values in a c
 
 In tables with many columns, there is often the problem that the first columns disappear from the display when scrolling to the right. Until now, the first column could be fixed and thus permanently displayed even in large tables. This function shows a more flexible side in the new release: Starting with version 2.7, additional columns can be fixed on the left. This way, even when navigating in large tables, you know which entry you are in.
 
-![](images/Freeze-columns.png)
+![](Freeze-columns.png)
 
 To fix several columns, simply use the mouse: Move the mouse pointer to the vertical line separating the row numbering from the first column. Now drag the mouse to the right to set the number of fixed columns. If you want to remove the column fixation, move the mouse pointer to the frame between the last fixed column and its following column and drag the line all the way back to the left.
 
 ## Default values for the date column
 
-![Default value function for date columns](images/Default_value_date_column.png)
+![Default value function for date columns](Default_value_date_column.png)
 
 Repeatedly requested, now fulfilled: After the text, number and single-selection columns, SeaTable 2.7 also gives the date column a standard value function. With it, you automatically add a static or dynamic date value to new entries.
 

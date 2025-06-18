@@ -119,13 +119,13 @@ La gestión ajustada de proyectos distingue tres males que hay que analizar y el
 - **Mura (desequilibrio)** se centra en los procesos desequilibrados con etapas de proceso descoordinadas e interrupciones que provocan colas o tiempos muertos.
 - **Muri (sobrecarga)** se refiere a la utilización y el relevo de los miembros del equipo y las máquinas. No debe haber cuellos de botella que provoquen altos niveles de desgaste o bajas por enfermedad debidas a la sobreutilización.
 
-También es importante para este método encontrar la relación óptima entre [costes y beneficios](https://seatable.io/es/kosten-nutzen-analyse-vorlage/) de un proyecto.
+También es importante para este método encontrar la relación óptima entre [costes y beneficios]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) de un proyecto.
 
 A continuación vienen dos métodos de gestión de proyectos que hacen hincapié en la visualización gráfica: La estructura de desglose del trabajo y la técnica de redes.
 
 ### 9\. Estructura de desglose del trabajo
 
-En la [estructura de desglose del trabajo](https://seatable.com/es/projektstrukturplan/), se registran todas las tareas del proyecto en un único gráfico. A continuación, puedes crear paquetes de trabajo, asignar responsabilidades y fijar plazos.
+En la [estructura de desglose del trabajo]({{< relref "posts/20250317-projektstrukturplan" >}}), se registran todas las tareas del proyecto en un único gráfico. A continuación, puedes crear paquetes de trabajo, asignar responsabilidades y fijar plazos.
 
 La estructura de desglose del trabajo es adecuada para controlar grandes proyectos. Procede de la gestión clásica de proyectos y a veces es difícil adaptarla a los métodos ágiles. Sin embargo, en proyectos en los que necesitas una visión de conjunto, puedes racionalizar y simplificar el plan para que siga siendo claro y puedas hacer cambios fácilmente.
 

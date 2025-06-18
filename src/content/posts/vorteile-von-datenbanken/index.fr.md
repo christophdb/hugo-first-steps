@@ -28,7 +28,7 @@ Il existe de nombreuses façons de structurer les bases de données. Ci-dessous,
 4. **Base de données relationnelle :** elle est orientée table, chaque enregistrement étant lié à chaque autre enregistrement.
 5. **Base de données non relationnelle** (ou base de données NoSQL) : Une base de données No-SQL utilise une variété de formats tels que des documents, des diagrammes, etc. qui offrent une grande flexibilité à une conception de base de données.
 
-![Les liens sont le grand avantage des bases de données relationnelles](https://seatable.io/wp-content/uploads/2021/03/hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
+![Les liens sont le grand avantage des bases de données relationnelles](hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
 
 Les liens sont le grand avantage des bases de données relationnelles.
 
@@ -45,7 +45,7 @@ Maintenant que vous avez compris ce qu'est une base de données, vous vous deman
 
 Même si vous n'avez peut-être pas (encore) besoin de traiter vous-même d'énormes quantités d'informations, les avantages des bases de données sont déjà perceptibles pour des quantités de données plus petites. Grâce à la possibilité de traiter un nombre presque illimité de données, une base de données bien conçue et bien pensée peut vous servir pendant de nombreuses années, car elle grandit pour ainsi dire avec vous.
 
-![Des bases de données simples : pas de problème avec SeaTable](https://seatable.io/wp-content/uploads/2021/10/pexels-christina-morillo-1181354-e1634551763220.jpg)
+![Des bases de données simples : pas de problème avec SeaTable](pexels-christina-morillo-1181354-e1634551763220.jpg)
 
 ## Les limites des tableaux par rapport aux bases de données
 
@@ -89,7 +89,7 @@ Vous pouvez enregistrer les résultats de telles requêtes sous forme de **vue**
 
 Si, par le passé, vous deviez apprendre certains langages informatiques pour réaliser les requêtes de données susmentionnées, il existe aujourd'hui de nombreux systèmes de base de données, comme SeaTable, dotés d'une interface utilisateur graphique intuitive. Ceux-ci permettent même aux débutants d'utiliser immédiatement les bases de données afin d'améliorer votre flux de travail.
 
-![Avantages des bases de données comme SeaTable](images/Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
+![Avantages des bases de données comme SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
 Contrairement aux bases de données classiques, SeaTable possède une interface utilisateur graphique.
 
@@ -99,4 +99,4 @@ Les avantages des bases de données vous semblent évidents, mais l'idée de con
 
 Consultez de nombreux exemples d'utilisation de SeaTable dans notre [bibliothèque de modèles](https://seatable.io/fr/modeles/). Vous y trouverez des exemples dans les domaines du marketing, des ventes, de la gestion de projet, du développement de logiciels, des ressources humaines et bien plus encore. Nous avons même préparé pour vous une [introduction au produit en 7 parties](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) sur notre chaîne YouTube, dans laquelle nous vous guidons à travers tout le processus de création d'une base SeaTable.
 
-Profitez des avantages d'une base de données et dites adieu dès aujourd'hui aux tableaux compliqués ! Cliquez [ici](https://seatable.io/fr/enregistrement/) pour vous inscrire gratuitement !
+Profitez des avantages d'une base de données et dites adieu dès aujourd'hui aux tableaux compliqués ! Cliquez [ici]({{< relref "pages/registration" >}}) pour vous inscrire gratuitement !

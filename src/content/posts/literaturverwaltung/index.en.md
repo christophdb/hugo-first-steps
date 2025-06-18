@@ -16,7 +16,7 @@ With structured literature management, you can prevent errors in literature list
 
 Below you will find a comparison of various software solutions and additional tips for successful literature management.
 
-![A stack of books, presorted for literature management.](images/Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
+![A stack of books, presorted for literature management.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
 
 Get your scientific literature in order! © caftor / Adobe Stock
 
@@ -40,7 +40,7 @@ All in all, the database structure of reference management programs enables you 
 
 Have you decided to use literature software to work more efficiently? Wonderful! But now, of course, the question arises as to which program is best suited for you. This mainly depends on the size of your project and the tools you want to use. We present the six best-known programs below.
 
-![A comparison of the six programs based on their features can help you find the right one for you.](images/Green-and-Black-Corporate-Comparison-Chart-1-e1714394827171-711x528.png)
+![A comparison of the six programs based on their features can help you find the right one for you.](Green-and-Black-Corporate-Comparison-Chart-1-e1714394827171-711x528.png)
 
 First, get an overview of the features.
 
@@ -48,7 +48,7 @@ First, get an overview of the features.
 
 Citavi is the preferred reference management program at many universities. The main advantages of using Citavi in this area are that it can be used in **German**, **group work is possible without restrictions** and there is **good support** for questions.
 
-![The reference management program Citavi is suitable for group work, as data can be easily shared.](images/annie-spratt-QckxruozjRg-unsplash-e1714397904602.jpg)
+![The reference management program Citavi is suitable for group work, as data can be easily shared.](annie-spratt-QckxruozjRg-unsplash-e1714397904602.jpg)
 
 Group work is child's play with Citavi.
 
@@ -84,7 +84,7 @@ Despite these advantages, the program has weaknesses in terms of content. Search
 
 With EndNote you get an **all-round package with many useful functions**, but you should be prepared to pay a **high price** for it. The commercial reference management program from the information service provider Thomson-Reuters also offers a free version that you can **test** for **30 days**. However, the functions are very limited.
 
-![The EndNote reference management program has many useful functions.](images/ai-generated-8554676_640-e1715591833397.png)
+![The EndNote reference management program has many useful functions.](ai-generated-8554676_640-e1715591833397.png)
 
 The full version includes many useful tools.
 
@@ -96,7 +96,7 @@ You must purchase a full version to be able to use it indefinitely. This starts 
 
 JabRef is a **free open source literature management system**. The platform developers make the source code available to everyone so that many developers can contribute to the optimization of the software. This is particularly evident in the fact that the program is available **in many languages**.
 
-![Many developers are working on a common code.](images/program-6944163_640-e1715591934559.jpg)
+![Many developers are working on a common code.](program-6944163_640-e1715591934559.jpg)
 
 If you know your way around, you can help to improve JabRef.
 
@@ -120,7 +120,7 @@ Do not rely on the source information in literature programs or other scientific
 
 So check directly whether the references are correct and add to them if necessary. If you want to save this task until the end, it is helpful to enter it in a [to-do list]({{< relref "templates/projects/to-do-list" >}}) so that you don't forget it.
 
-![Literature management in library with tablet.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Literature management in library with tablet.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 
 Some reference management programs can record sources by DOI. © ake1150 / Adobe Stock
 
@@ -159,7 +159,7 @@ You should make a note of this information as accurately as possible. Count the 
 
 Some reference management programs make it easier for you to search for new literature. With Citavi, for example, you have the option of receiving **search alerts**. This lets you know when new articles on one of your topics are available online. Mendeley offers a recommendation service that you can use to display similar articles.
 
-![Student does a final check of her bibliography before handing it in.](images/Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
+![Student does a final check of her bibliography before handing it in.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
 
 Libraries are also a good place to research sources. Jacob Lund / Adobe Stock
 
@@ -179,7 +179,7 @@ Not all sources are cited in the same way. Right at the beginning of your projec
 
 Some programs have tools for **taking notes**. Use these to write down important statements while you are reading and add page numbers to make it easier to find them later.
 
-![You can also take notes on paper.](images/david-travis-5bYxXawHOQg-unsplash-e1715851598784.jpg)
+![You can also take notes on paper.](david-travis-5bYxXawHOQg-unsplash-e1715851598784.jpg)
 
 You can also use the classic notepad.
 

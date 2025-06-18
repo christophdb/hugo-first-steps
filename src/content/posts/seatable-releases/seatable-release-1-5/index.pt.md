@@ -22,7 +22,7 @@ Dado que a maioria dos utilizadores passa a maior parte do seu tempo no editor d
 
 Os modais eram mais comuns nas versões anteriores do SeaTable. Por exemplo, as caixas de diálogo "Inserir coluna" e "Ajustar tipo de coluna" eram [modais](https://en.wikipedia.org/wiki/Modal_window), em que os controlos apareciam em primeiro plano e o fundo estava oculto. Embora nos tenham servido bem até agora, os modais podem ser melhorados em termos de facilidade e eficiência de trabalho: quando o modal se abre no meio do ecrã, pede ao utilizador para ir até lá com o rato. Mais grave ainda, ao desativar as barras de deslocamento, as informações relevantes não podem ser retiradas de trás de um modal quando este as cobre. O que fizemos então? Substituímos os modais por menus não modais que oferecem todas as funções dos seus antecessores sem os seus inconvenientes.
 
-![Os modais foram substituídos por menus não modais](images/Nonmodal_Menus.png)
+![Os modais foram substituídos por menus não modais](Nonmodal_Menus.png)
 
 ### Menus simplificados
 
@@ -34,7 +34,7 @@ O menu de opções das colunas de selecção única e múltipla é outro modal q
 
 SeaTable 1.5 torna agora este feiticeiro ainda mais poderoso: As entradas na coluna ligada podem agora não só ser exibidas mas também editadas directamente. Um clique numa entrada ligada abre os seus detalhes e todas as alterações feitas aqui são guardadas directamente na tabela ligada. Se quiser saltar para a tabela ligada, pode fazê-lo com a ligação directa na parte superior dos detalhes.
 
-![Os registos ligados podem agora ser editados directamente a partir da coluna de outros registos ligados](images/Editing_Linked_Records_With_Wizard.png)
+![Os registos ligados podem agora ser editados directamente a partir da coluna de outros registos ligados](Editing_Linked_Records_With_Wizard.png)
 
 ### Ainda mais preciso
 
@@ -56,7 +56,7 @@ Os mapas e o plugin da linha do tempo também não foram negligenciados. O plugi
 
 Imagine que quer partilhar uma base com os membros da sua equipa com diferentes direitos de acesso: Todos os colegas deveriam ter pelo menos acesso de leitura, mas alguns colegas deveriam também ter acesso de leitura-escrita a algumas mesas e alguns colegas escolhidos a dedo deveriam ter acesso total a todas as mesas. Parece complicado de implementar e, de facto, foi. Uma base teve de ser dividida em várias bases e depois partilhada com os diferentes grupos com direitos diferentes. Até agora!
 
-![SeaTable 1.5 suporta agora permissões de partilha personalizadas](images/Custom_Sharing_Permission.png)
+![SeaTable 1.5 suporta agora permissões de partilha personalizadas](Custom_Sharing_Permission.png)
 
 Na nova versão, introduzimos permissões de lançamento definidas pelo utilizador. Graças a eles, o cenário agora mencionado é possível sem muita dor de cabeça. Uma permissão de partilha personalizada consiste em direitos de acesso individuais para todas as tabelas e vistas numa base. Com uma permissão de partilha personalizada, pode, por exemplo, conceder acesso de leitura a uma tabela mas acesso de leitura-escrita alargado a outra tabela na base. Mas isso não é tudo: as acções personalizadas também podem ser especificadas ao nível da vista. Pode, portanto, conceder acesso de leitura-escrita a uma visão específica de uma tabela, mas apenas acesso de leitura à visão por defeito. Se não quiser conceder acesso a uma mesa ou vista, isso também é possível. Simplesmente não conceder acesso de leitura nem de leitura-escrita. E o melhor de tudo, pode definir tantas [permissões de partilha](https://seatable.io/pt/docs/handbuch/zusammenarbeit/freigaben/) personalizadas quantas quiser para cada base. Tem ansiado por uma gestão de permissões mais granular em SeaTable? Agora já o tem!
 
@@ -66,7 +66,7 @@ Os poderosos formulários da SeaTable têm tido uma grande procura nos últimos 
 
 Com base no feedback dos clientes e na esperança de apoiar este sector em sofrimento, adicionámos três opções para personalizar os formulários Web: Em primeiro lugar, podem agora ser criadas mensagens individuais de "Obrigado pela sua participação". Se quiser enviar um agradecimento especial aos seus convidados ou fornecer mais informações depois de terem respondido às perguntas, o SeaTable 1.5 permite-lhe fazer isso mesmo. Em segundo lugar, o reencaminhamento automático tem sido uma funcionalidade muito solicitada. Temos o prazer de a implementar também nesta nova versão. Se for especificado um endereço de reencaminhamento, o SeaTable reencaminha automaticamente para esse endereço. Em terceiro lugar, também tornámos as funções de sugestão mais flexíveis. Para além da sugestão de formulário na parte inferior do formulário, existe agora também a possibilidade de apresentar uma sugestão à frente dos campos do formulário.
 
-![Os formulários web da SeaTable oferecem agora mais opções de personalização](images/Extra_Customization_Options_Webforms.png)
+![Os formulários web da SeaTable oferecem agora mais opções de personalização](Extra_Customization_Options_Webforms.png)
 
 Estamos a fazer figas que a Pandemia de Corona será em breve algo para os livros de história. Por outro lado, é nossa esperança que estas melhorias apoiem os utilizadores do SeaTable nas indústrias fortemente afectadas no seu trabalho, se a pandemia se mantiver por mais tempo.
 

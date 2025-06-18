@@ -14,7 +14,7 @@ Las vacaciones de verano están llegando a su fin y esperamos que haya disfrutad
 
 ¿Utiliza ya procesos automatizados en sus bases para ahorrar tiempo y clics? Entonces le gustará que hayamos refinado las opciones y mejorado el rendimiento de las [automatizaciones](https://seatable.io/es/docs/automationen/uebersicht-ueber-automationen/). Los usuarios intensivos de SeaTable estarán especialmente satisfechos con el mayor límite de ejecución. La [gestión de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) introducida en la versión 4.0 le ofrece ahora dos funciones más que simplifican el trabajo con archivos.
 
-El desarrollo del [Universal App Builder](https://seatable.io/es/docs/apps/universelle-app/) avanza a pasos agigantados: SeaTable 4.1 incorpora nuevas funciones para que pueda diferenciar con mayor precisión los permisos de usuario y la visualización de datos en las aplicaciones. Además, hemos mejorado o añadido muchas funciones menores en SeaTable 4.1. Compruébelo usted mismo: ¡la lista es larga y muy agradable!
+El desarrollo del [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) avanza a pasos agigantados: SeaTable 4.1 incorpora nuevas funciones para que pueda diferenciar con mayor precisión los permisos de usuario y la visualización de datos en las aplicaciones. Además, hemos mejorado o añadido muchas funciones menores en SeaTable 4.1. Compruébelo usted mismo: ¡la lista es larga y muy agradable!
 
 Esta mañana hemos actualizado SeaTable Cloud a la versión 4.1. Todos los auto-alojadores pueden hacer lo mismo: La imagen de SeaTable 4.1 está disponible para su descarga en el conocido [repositorioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como siempre, puede encontrar la lista completa de cambios en el [registro de cambios](https://seatable.io/es/docs/changelog/version-4/).
 
@@ -24,7 +24,7 @@ Para las automatizaciones con el [disparador](https://seatable.io/es/docs/automa
 
 Además, hemos mejorado el rendimiento de algunas [acciones](https://seatable.io/es/docs/automationen/automations-aktionen/) y ampliado sus funciones. Por ejemplo, la acción "Editar entrada" ahora también ofrece la opción de establecer el valor de una columna de fecha en**"Vacío**".
 
-![Nuevas opciones de automatización](images/New-options-for-automation.png)
+![Nuevas opciones de automatización](New-options-for-automation.png)
 
 {{< warning headline="Mayor límite de ejecución para las automatizaciones" >}}
 
@@ -38,7 +38,7 @@ La [gestión de](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagem
 
 Gracias a la papelera de reciclaje, los archivos borrados por error no se pierden permanentemente, sino que pueden restaurarse. Los archivos borrados permanecen en la papelera de reciclaje durante **60 días** antes de ser eliminados definitivamente del sistema. Si se desea que los archivos desaparezcan de la papelera de reciclaje más rápidamente, ésta también se puede vaciar manualmente.
 
-![Papelera de reciclaje y campo de búsqueda en la gestión de archivos](images/New-trash-and-search-in-the-file-management.png)
+![Papelera de reciclaje y campo de búsqueda en la gestión de archivos](New-trash-and-search-in-the-file-management.png)
 
 También es nueva la función de búsqueda con la que puedes buscar tus propias carpetas en la gestión de archivos. Basta con introducir un término de búsqueda en el campo de búsqueda. SeaTable muestra todos los archivos que contienen el término de búsqueda en el nombre del archivo. Si un archivo no está donde esperaba, podrá encontrarlo rápidamente.
 
@@ -54,7 +54,7 @@ La **configuración** por defecto de las vistas es otra de las novedades de las 
 
 Aquí no acaban las mejoras en el lado de la tabla: con un solo clic puedes mostrar el formato de celda condicional de la tabla subyacente y así [colorear las celdas](https://seatable.io/es/docs/ansichtsoptionen/einfaerben-von-zellen/).
 
-![Nuevas funciones en Universal App Builder](images/New-functions-in-the-Universal-App-Builder.png)
+![Nuevas funciones en Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
 Y los demás tipos de página tampoco se quedan con las manos vacías: Los [tipos de página](https://seatable.io/es/docs/apps/seitentypen-in-der-universellen-app/) consulta y formulario web ahora también ofrecen permisos de página. En la página individual, los elementos pueden moverse y colocarse más fácilmente.
 
@@ -66,12 +66,12 @@ En la página de inicio, antes sólo podías crear [carpetas](https://seatable.i
 
 A menudo no resulta obvio para otros usuarios en qué has pensado al estructurar una base o tabla. También es posible que desee registrar **notas** sobre una columna, tabla o base. Hasta ahora, podía hacerlo en una [descripción de](https://seatable.io/es/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) [columna](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spaltenbeschreibung/) o en una [descripción de](https://seatable.io/es/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) base. Lo que faltaba era la posibilidad de explicar el contenido, las estructuras y los procesos de una tabla con un texto conciso. Por tanto, en el futuro podrá dotar a cada tabla de una descripción de [tabla](https://seatable.io/es/docs/arbeiten-in-tabellen/eine-tabellenbeschreibung-hinzufuegen/).
 
-![Nueva función para la descripción de tablas](https://seatable.io/wp-content/uploads/2023/08/Table-description.png)
+![Nueva función para la descripción de tablas](Table-description.png)
 
 Otra mejora, puramente visual, afecta a los detalles de **las** filas, donde se pueden ver las entradas y editarlas según la autorización: Hemos armonizado el diseño de los detalles de las filas en las aplicaciones universales y las bases para crear un aspecto uniforme. Para que pueda reconocer directamente los campos bloqueados, ahora aparecen resaltados en gris en los detalles de la fila.
 
 Para todos aquellos a los que les gusta iniciar procesos con un clic del ratón, hay motivos para alegrarse: La nueva acción de [botón](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/) "Enviar notificación" está disponible desde SeaTable 4.1. Esta acción complementa a la anteriormente disponible "Enviar correo electrónico". Dado que SeaTable ofrece ahora **nueve** acciones de botón, también hemos hecho más clara la ventana de selección:
 
-![Nueva acción de botón "Enviar notificación](https://seatable.io/wp-content/uploads/2023/08/New-button-action-send-notification.png)
+![Nueva acción de botón "Enviar notificación](New-button-action-send-notification.png)
 
 Por último, pero no por ello menos importante, hemos corregido de nuevo algunos **errores** en SeaTable 4.1 - entre otros, que los valores con el siguiente signo % en columnas de texto y de selección única no se interpretaban como porcentajes sino como números. Esto podía dar lugar a resultados no deseados en algunas [fórmulas](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/). Por favor, compruebe si esta corrección afecta a sus fórmulas.

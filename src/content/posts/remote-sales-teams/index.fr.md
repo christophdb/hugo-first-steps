@@ -12,7 +12,7 @@ seo:
 
 La plupart des entreprises prennent des mesures pour permettre le travail à domicile et organisent, outre des possibilités de télétravail, des séminaires en ligne ou d'autres événements pour leurs collaborateurs. Mais : vous commencez à regretter même le collègue le plus agaçant et la discussion autour de la machine à café vous manque aussi. Avec une équipe travaillant presque exclusivement à distance, il est parfois difficile de rester à jour et il n'est pas rare que la [productivité en pâtisse](https://seatable.io/fr/homeoffice-tipps/) également. Heureusement, il existe une méthode qui pourrait vous aider à retrouver votre productivité à distance. Avec des stand-ups quotidiens, vous améliorez la productivité de votre équipe en un rien de temps.
 
-![La productivité souffre de l'absence de communication informelle.](https://seatable.de/wp-content/uploads/2021/04/Bildschirmfoto-2021-04-21-um-14.59.01.png)
+![La productivité souffre de l'absence de communication informelle.](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 
 [Source de l'image](https://www.odgersberndtson.com/media/9459/sonderausgabe-managerbarometer-corona.pdf)
 
@@ -56,7 +56,7 @@ Il faut faire attention à la troisième question. C'est là qu'il y a le plus d
 
 C'est là que les réunions en ligne ont enfin un avantage. Lorsqu'il s'agit d'être à l'heure, vous avez moins de raisons d'être en retard chez vous, car vous n'avez pas à vous déplacer physiquement vers une salle de réunion. D'une manière générale, vous devez tout de même instaurer une culture d'entreprise dans laquelle il devient normal d'arriver à l'heure (voire un peu en avance) à la réunion.
 
-![Garder un œil sur le temps](https://seatable.io/wp-content/uploads/2020/07/sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
+![Garder un œil sur le temps](sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
 
 Commencer les réunions en retard est en fait une plainte très courante de la part du personnel en général. Il y a également des plaintes concernant le mauvais timing d'une réunion. Soit il prend beaucoup trop de temps, soit il est programmé trop court. Commencez à l'heure et terminez à l'heure - même si quelqu'un arrive en retard.
 

@@ -18,7 +18,7 @@ Qu'il s'agisse de vos **examens du baccalauréat** ou de vos **examens à l'univ
 
 Si vous souhaitez établir un plan d'apprentissage, vous devez d'abord définir un objectif d'apprentissage clair. Déterminez exactement quels **contenus** vous devez maîtriser et à quelle **échéance**. Veillez à ce que vos objectifs soient **réalistes** et que le contenu soit **pertinent**, afin de ne pas tomber dans le stress au cours de la phase d'apprentissage.
 
-![Les fléchettes sont plantées au milieu d'une planche à fléchettes](images/darts-board-711x474.jpg)
+![Les fléchettes sont plantées au milieu d'une planche à fléchettes](darts-board-711x474.jpg)
 
 Un objectif d'apprentissage clairement défini est le point de départ d'un plan d'apprentissage réussi.
 
@@ -28,7 +28,7 @@ Pour suivre vos progrès au cours du processus d'apprentissage, vos objectifs do
 
 Avant d'établir un plan d'apprentissage, il est essentiel de rassembler et de structurer toute la matière. Commencez par avoir une **vue d'ensemble** de tous les sujets pertinents, en **éliminant les informations non essentielles**. Notez les sources des contenus importants, par exemple **les manuels**, **les diapositives de cours**, les **articles spécialisés** ou vos propres **notes de** cours.
 
-![Créer un plan d'apprentissage : Livres en éventail par le haut](images/top-view-books-arrangement-711x400.jpg)
+![Créer un plan d'apprentissage : Livres en éventail par le haut](top-view-books-arrangement-711x400.jpg)
 
 Lors de la collecte de matériel pédagogique, tenez également compte de sa qualité.
 
@@ -38,7 +38,7 @@ Ensuite, il est important de structurer systématiquement tout le matériel coll
 
 Maintenant que vous avez identifié tous les sujets pertinents pour l'examen, il est temps de les diviser en **paquets d'apprentissage plus petits**. Cela vous permettra d'appréhender et d'assimiler la matière de manière plus efficace. En divisant en unités gérables, vous éviterez de vous sentir submergé par l'abondance du matériel et de perdre votre concentration.
 
-![Créer un plan d'apprentissage : Les pièces électroniques sont éparpillées](https://seatable.io/wp-content/uploads/2024/04/unnamed-file-711x533.jpg)
+![Créer un plan d'apprentissage : Les pièces électroniques sont éparpillées](unnamed-file-711x533.jpg)
 
 Des unités plus petites facilitent l'assimilation et la compréhension.
 
@@ -48,7 +48,7 @@ En outre, il est conseillé d'évaluer le **niveau de difficulté** de chaque re
 
 Pendant que vous élaborez votre plan d'apprentissage, il vaut également la peine de jeter un coup d'œil aux différentes méthodes d'apprentissage et d'identifier celle **qui vous convient le mieux**. Les méthodes d'apprentissage sont des stratégies qui visent à maximiser l'apprentissage en favorisant l'approfondissement des connaissances. Compte tenu de la multitude de méthodes disponibles, il est important de choisir celles qui correspondent le mieux à vos **besoins individuels** et éventuellement de combiner différentes méthodes.
 
-![Une main tourne les pages d'un livre](images/book-6957870_1280-711x474.jpg)
+![Une main tourne les pages d'un livre](book-6957870_1280-711x474.jpg)
 
 Il est utile d'essayer différentes méthodes d'apprentissage.
 
@@ -80,7 +80,7 @@ La [technique des pomodoros](https://de.wikipedia.org/wiki/Pomodoro-Technik) con
 
 Maintenant que vous avez structuré votre apprentissage, il est temps d'établir un calendrier détaillé de vos sessions d'apprentissage. Ce plan vous aidera à atteindre efficacement vos objectifs d'apprentissage et à maintenir un équilibre sain entre **l'apprentissage**, **la vie quotidienne** et **les loisirs**.
 
-![Créer un plan d'apprentissage : Un réveil sur un bureau](images/time-2980690_1280-711x474.jpg)
+![Créer un plan d'apprentissage : Un réveil sur un bureau](time-2980690_1280-711x474.jpg)
 
 Un calendrier détaillé aide à organiser le processus d'apprentissage et à respecter les délais.
 
@@ -98,7 +98,7 @@ Un aspect important de la motivation est la **pertinence personnelle** de la mat
 
 En outre, la **mise en réseau** des informations avec les connaissances existantes est un avantage. Essayez donc d'établir un lien entre la matière apprise et vos connaissances antérieures. C'est aussi en **pratiquant** que l'on devient maître : en **appliquant** des contenus d'apprentissage abstraits à l'aide d'exemples concrets, vous pouvez consolider vos connaissances.
 
-![Créer un plan d'apprentissage : Panneau sur le bureau avec l'inscription "You got this".](images/pexels-prateekkatyal-2740956-711x474.jpg)
+![Créer un plan d'apprentissage : Panneau sur le bureau avec l'inscription "You got this".](pexels-prateekkatyal-2740956-711x474.jpg)
 
 La motivation peut être influencée par différents facteurs.
 
@@ -108,7 +108,7 @@ Si vous gardez vos objectifs d'apprentissage à l'esprit, vous pouvez être sûr
 
 La réflexion est une étape cruciale du processus d'apprentissage, car elle vous permet d'évaluer vos progrès, de reconsidérer votre plan d'apprentissage et de procéder à **des ajustements** si nécessaire. Consignez vos progrès en évaluant régulièrement votre niveau de connaissances. Demandez-vous si vous pouvez encore atteindre les objectifs que vous vous êtes fixés ou si une correction de trajectoire est nécessaire. Il se peut que vos méthodes ou objectifs d'apprentissage aient changé au cours du processus d'apprentissage - et il est important de reconnaître la réalité et d'adapter votre plan d'apprentissage en conséquence.
 
-![Créer un plan d'apprentissage : Un visage se reflète dans un morceau de verre](images/vince-fleming-Vmr8bGURExo-unsplash-711x474.jpg)
+![Créer un plan d'apprentissage : Un visage se reflète dans un morceau de verre](vince-fleming-Vmr8bGURExo-unsplash-711x474.jpg)
 
 La réflexion sur le plan d'apprentissage permet une amélioration continue de l'apprentissage.
 
@@ -120,4 +120,4 @@ Soyez attentif aux écarts par rapport à votre plan d'apprentissage initial et 
 
 Ce plan d'apprentissage vous aide à avoir une **vue d'ensemble de toute la matière à étudier** et à prévoir **des périodes réalistes** pour l'apprentissage. Cela vous permet d'utiliser votre temps efficacement et de vous assurer que vous avez suffisamment de temps pour chaque tâche. Un autre avantage du plan d'apprentissage est la possibilité de **classer** tous les contenus par ordre de pertinence. En cochant simplement les thèmes supérieurs et secondaires déjà appris, vous pouvez facilement **suivre** vos **progrès** et travailler de manière ciblée sur vos lacunes. La **flexibilité** du plan d'apprentissage vous permet d'adapter à tout moment vos horaires et vos objectifs d'apprentissage en fonction de vos besoins.
 
-Détendez-vous et libérez-vous du stress inutile ! [Inscrivez-vous](https://seatable.io/fr/enregistrement/) gratuitement, créez votre plan d'apprentissage individuel à l'aide du [modèle]({{< relref "templates/everyday-life/study-plan" >}}) et découvrez à quel point il peut être facile d'apprendre.
+Détendez-vous et libérez-vous du stress inutile ! [Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement, créez votre plan d'apprentissage individuel à l'aide du [modèle]({{< relref "templates/everyday-life/study-plan" >}}) et découvrez à quel point il peut être facile d'apprendre.

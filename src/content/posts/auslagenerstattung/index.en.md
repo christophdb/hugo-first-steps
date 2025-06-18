@@ -13,7 +13,7 @@ Whether it's a business meal, train ticket or company cell phone - do you regula
 
 This article not only provides you with everything you need to know about reimbursing expenses - it also offers you a free [template]({{< relref "templates/human-resources/expenses-reimbursement" >}}) that can make your day-to-day work easier.
 
-![Finances and bureaucracy](images/3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
+![Finances and bureaucracy](3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
 
 As an entrepreneur, it is important to keep track of all expenses.
 
@@ -25,7 +25,7 @@ The [Income Tax Act](https://www.gesetze-im-internet.de/estg/) defines out-of-po
 
 Paragraphs 4 and 5 of the German Income Tax Act contain the relevant regulations regarding business expenses. For example, costs incurred in connection with **business trips** can be reimbursed as expenses. The same applies to expenses arising from the fulfillment of orders or the provision of services, such as a **business meal** with your customers. You can also claim **purchases** or orders such as office supplies or fruit for the office kitchen as reimbursable expenses.
 
-![Types of reimbursement of expenses](images/Pastel-Aesthetic-Minimalist-Lifestyle-Tips-List-Instagram-Post-2-711x711.png)
+![Types of reimbursement of expenses](Pastel-Aesthetic-Minimalist-Lifestyle-Tips-List-Instagram-Post-2-711x711.png)
 
 There are various costs that you can have reimbursed as expenses.
 
@@ -44,7 +44,7 @@ Transitory funds are generally used for **foreseeable expenses** that are incurr
 
 Companies can also offset the reimbursement of expenses against a lump **sum**. These lump sums can include, for example, **travel, meals and accommodation costs**. However, you must note that the tax office sets the maximum rates. The maximum annual limit for accommodation and meals is 1,000 euros. If you exceed this, it makes more sense to have your expenses reimbursed in detail rather than as a lump sum.
 
-![People with briefcases and suitcases](images/19320-711x284.jpg)
+![People with briefcases and suitcases](19320-711x284.jpg)
 
 If you travel a lot on business, you should not rely on the flat-rate reimbursement of expenses.
 
@@ -58,7 +58,7 @@ According to [§ 3 No. 50 EStG](https://www.gesetze-im-internet.de/estg/__3.html
 - **Correct invoicing**: Expenses should be invoiced correctly, with each individual item shown separately on the receipt or invoice.
 - **Lump-sum reimbursement of expenses**: You must keep a clear record of regular expenses, as the tax office only grants a lump sum if documentation is provided over a certain period of time.
 
-![A woman stands in front of a file and is overwhelmed with the reimbursement of expenses](images/9276421-e1704291543704.jpg)
+![A woman stands in front of a file and is overwhelmed with the reimbursement of expenses](9276421-e1704291543704.jpg)
 
 Reimbursement of expenses can quickly overwhelm you without a good structure.
 

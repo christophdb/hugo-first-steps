@@ -18,7 +18,7 @@ Las tablas muy grandes provocan largos tiempos de carga y afectan a la experienc
 
 La nueva función de archivo elimina esta restricción. Además de las 150.000 filas del conjunto de datos activo, se pueden almacenar millones de filas en el archivo. La función de archivo ofrece así una solución para todas aquellas aplicaciones para las que los límites anteriores de SeaTable no eran suficientes.
 
-![Función de archivo](https://seatable.io/wp-content/uploads/2021/09/Archive-function-1088x631.png)
+![Función de archivo](Archive-function-1088x631.png)
 
 En cuanto a las opciones de evaluación y análisis, las diferencias entre las filas activas y las archivadas son manejables: el archivo admite todos los tipos de columnas. Los filtros y la clasificación permiten evaluar rápidamente los datos del archivo. Y también es posible el acceso a través de la API y de [aplicaciones externas](https://seatable.io/es/seatable-release-2-2#Externe_Apps_nur_fuer_Enterprise_Abos/?lang=auto). Se está desarrollando una función de búsqueda y un soporte completo de plug-ins.
 
@@ -55,7 +55,7 @@ Actualmente, las líneas archivadas no se pueden volver a mover al conjunto de d
 
 El acceso a los datos del archivo se realiza a través del nuevo tipo de vista Vista de Archivo. Una vez archivadas las filas, dicha vista de archivo -como otras vistas- puede crearse a través del menú de vistas. Las vistas de archivo se reconocen fácilmente por su propio icono en la navegación de vistas.
 
-![Vista de archivo](https://seatable.io/wp-content/uploads/2021/09/Archive-view-creation-1088x518.png)
+![Vista de archivo](Archive-view-creation-1088x518.png)
 
 La vista de archivo muestra las filas archivadas y no archivadas y permite evaluar todo el stock de datos -archivados y activos- de la tabla. Para ello se dispone de las conocidas herramientas de análisis. Con un complemento para estadísticas avanzadas, pronto se dispondrá de una herramienta que podrá utilizarse para evaluar exhaustivamente cantidades muy grandes de datos. Por lo tanto, para las posibilidades de evaluación, es casi irrelevante que las filas se archiven o no.
 
@@ -69,7 +69,7 @@ El historial de la mesa y los comentarios no forman parte de la información que
 
 Después de los [valores por defecto para las columnas]({{< relref "posts/seatable-releases/seatable-release-2-0" >}}), ahora también hay valores por defecto para los campos del formulario en la versión 2.3. Y no sólo se admiten valores estáticos por defecto: Las variables _creator.id_ y _creator._ name insertan automáticamente el ID de usuario o el nombre de usuario en el campo del formulario para los usuarios conectados.
 
-![Valores por defecto en los formularios](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
+![Valores por defecto en los formularios](Default-values-forms-1088x974.png)
 
 ### Vista previa del texto formateado del tipo de columna
 

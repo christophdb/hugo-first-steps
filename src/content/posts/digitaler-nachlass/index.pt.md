@@ -18,7 +18,7 @@ A herança digital é um tema que muitas pessoas negligenciam ou suprimem. No en
 
 Um património digital é constituído por **todas as actividades, dados e contas digitais de uma pessoa**. Inclui perfis nas redes sociais, contas de correio eletrónico, armazenamento na nuvem, lojas em linha, contas bancárias em linha, serviços de streaming e muito mais. Um património digital pode incluir memórias pessoais, documentos importantes e dados valiosos (por exemplo, em carteiras digitais).
 
-![Um património digital pode conter muitas contas: Redes sociais, correio eletrónico, etc.](https://seatable.io/wp-content/uploads/2023/10/sara-kurfess-6lcT2kRPvnI-unsplash_min.jpg)
+![Um património digital pode conter muitas contas: Redes sociais, correio eletrónico, etc.](sara-kurfess-6lcT2kRPvnI-unsplash_min.jpg)
 
 Um património digital pode conter muitas contas.
 
@@ -34,7 +34,7 @@ Do ponto de vista jurídico, a situação na Alemanha ainda não foi esclarecida
 
 Também não é claro se os herdeiros podem aceder ao conteúdo das comunicações do falecido, como conversas e mensagens de correio eletrónico, se este não tiver registado a sua última vontade a este respeito. Por um lado, o direito sucessório obriga o prestador de serviços a entregar o correio eletrónico aos herdeiros, à semelhança do que acontece com as cartas não abertas. No entanto, por outro lado, a entrega pode violar o sigilo das telecomunicações e as disposições relativas à proteção de dados.
 
-![O património digital não está claramente regulamentado por lei](https://seatable.io/wp-content/uploads/2023/10/conny-schneider-ysv-HwRpcA-unsplash_min.jpg)
+![O património digital não está claramente regulamentado por lei](conny-schneider-ysv-HwRpcA-unsplash_min.jpg)
 
 Juridicamente, a herança digital não está claramente regulamentada na Alemanha.
 
@@ -52,7 +52,7 @@ A Google, o Facebook e a Apple oferecem determinadas definições na conta do ut
 
 Em muitos casos, o património digital não é liquidado a tempo. Os herdeiros têm então de remexer no nevoeiro e embarcar numa tediosa busca de pistas: Que contas online é que o falecido utilizava? Quais são os nomes de utilizador e as palavras-passe? Sem estes dados, os familiares não têm acesso à partida - mas precisam deles urgentemente, por exemplo, para cancelar as subscrições actuais.
 
-![Um espólio digital contém todos os dados de início de sessão](https://seatable.io/wp-content/uploads/2023/10/pexels-pixabay-267469_min.jpg)
+![Um espólio digital contém todos os dados de início de sessão](pexels-pixabay-267469_min.jpg)
 
 Sem dados de acesso, os familiares enfrentam um grande obstáculo.
 
@@ -66,7 +66,7 @@ Teoricamente, pode anotar todas as suas contas e palavras-passe num **papel** e 
 
 Utilizando o mesmo princípio, também pode guardar as suas contas e palavras-passe **eletronicamente num documento de texto** no seu computador, num disco rígido ou numa pen USB. Pode efetuar alterações mais facilmente do que em papel.
 
-![Legado digital: guardar dados de início de sessão no browser](https://seatable.io/wp-content/uploads/2023/10/pexels-lisa-fotios-5860964_min.jpg)
+![Legado digital: guardar dados de início de sessão no browser](pexels-lisa-fotios-5860964_min.jpg)
 
 Muitos navegadores também oferecem a opção de guardar convenientemente os dados de início de sessão.
 
@@ -95,7 +95,7 @@ O seu património digital pode conter qualquer quantidade de dados. Dependendo d
 
 Nomeie uma pessoa da sua confiança como seu executor digital. Especifique numa procuração que a pessoa autorizada deve cuidar da sua herança digital e do seu negócio em linha - após a sua morte ou já durante a sua vida, se não o puder fazer, por exemplo, devido a um coma, uma deficiência mental ou outros motivos.
 
-![Mulher pensativa sentada no sofá com um computador portátil](https://seatable.io/wp-content/uploads/2023/10/mimi-thian-U7lWyAV-aM8-unsplash.jpg)
+![Mulher pensativa sentada no sofá com um computador portátil](mimi-thian-U7lWyAV-aM8-unsplash.jpg)
 
 Facilite ao máximo as coisas para a pessoa autorizada: pode regular antecipadamente quais as contas em linha a que a pessoa deve ter acesso em caso de emergência. Formule por escrito a sua vontade relativamente ao que a pessoa deve fazer com cada conta.
 
@@ -111,7 +111,7 @@ Pense nas formas como gostaria de dar à sua pessoa de confiança acesso às sua
 
 Se tiver guardado a maior parte dos seus dados de início de sessão e palavras-passe num dispositivo específico (por exemplo, num browser ou num documento de texto), a pessoa de confiança deve poder aceder-lhes após a sua morte. Por exemplo, escreva o **PIN** do seu smartphone ou **a palavra-passe do** seu **computador** numa folha de papel que guarde num envelope fechado.
 
-![Anotar a palavra-passe principal num papel](https://seatable.io/wp-content/uploads/2023/10/pexels-pixabay-261599.jpg)
+![Anotar a palavra-passe principal num papel](pexels-pixabay-261599.jpg)
 
 No entanto, também pode escrever as suas palavras-passe em papel ou introduzi-las num gestor de palavras-passe digital. Mas lembre-se também de atualizar sempre as palavras-passe alteradas! Anote a **palavra-passe mestra** e guarde-a num local seguro, que deve ser comunicado à sua pessoa de confiança.
 
@@ -123,11 +123,11 @@ Uma vez que quase ninguém se consegue lembrar de mais de dez palavras-passe dif
 
 Outro software de base de dados que lhe permite gerir o seu património digital de uma forma clara, flexível e segura chama-se **SeaTable**. Com ele, pode armazenar não só todas as suas contas, nomes de utilizador e palavras-passe, mas também toda a informação adicional que desejar.
 
-![Gestor de palavras-passe](images/Screenshot-2023-10-31-132220.png)
+![Gestor de palavras-passe](Screenshot-2023-10-31-132220.png)
 
 Utilize um gestor de palavras-passe para documentar o seu património digital.
 
-Se pretender utilizar o gestor de palavras-passe do SeaTable para o seu património digital, pode [ver o modelo aqui]({{< relref "templates/everyday-life/password-manager" >}}). Se estiver interessado, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente e criar uma visão geral com os seus próprios dados.
+Se pretender utilizar o gestor de palavras-passe do SeaTable para o seu património digital, pode [ver o modelo aqui]({{< relref "templates/everyday-life/password-manager" >}}). Se estiver interessado, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente e criar uma visão geral com os seus próprios dados.
 
 ## Conclusão: O património digital é mais importante do que nunca
 

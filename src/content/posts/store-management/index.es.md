@@ -52,7 +52,7 @@ Con una columna para el potencial de facturación y la facturación real, se pue
 
 Con nuestro plugin de estadísticas avanzadas podrá realizar fácilmente análisis de sus ventas. Ya hemos creado tres [estadísticas](https://seatable.io/es/docs/handbuch/seatable-nutzen/statistiken/) útiles para nuestra plantilla de ejemplo. Al hacer clic en el complemento que se encuentra encima de la mesa, se accede directamente al área de estadísticas. Aquí puede utilizar el signo + para crear nuevos cuadros de mando en los que podrá insertar varias estadísticas.
 
-![Gestión de la tienda ](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-14.11.06.png)
+![Gestión de la tienda ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
 En nuestro ejemplo, la primera estadística muestra las diferencias entre la facturación potencial y la facturación real. La segunda estadística muestra el potencial de facturación por tienda. De este modo, podrá ver directamente qué tiendas pueden esperar un volumen de negocio especialmente alto en este trimestre y centrarse en ellas. La última estadística compara el volumen de negocio del primer trimestre con el del segundo, de modo que se pueden identificar diferencias importantes y posibles fuentes de error.
 
@@ -62,7 +62,7 @@ Para añadir más estadísticas, basta con hacer clic en "+nuevo gráfico" en el
 
 Para obtener una visión geográfica de sus ventas, tal vez para ver en qué regiones su producto o servicio es particularmente bien recibido, existe el complemento Mapa. Al hacer clic en Mapa, todas las ramas se muestran en el color del grupo de facturación correspondiente. De este modo, se pueden reconocer inmediatamente las regiones con alta y baja rotación. Esto le proporciona importantes criterios de decisión a la hora de planificar la ubicación estratégica.
 
-![Gestión de sucursales a través del complemento de la tarjeta](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-11.55.12.png)
+![Gestión de sucursales a través del complemento de la tarjeta](Bildschirmfoto-2021-10-06-um-11.55.12.png)
 
 Complemento de la tarjeta con el volumen de negocios de las ramas individuales
 
@@ -86,7 +86,7 @@ Nuestra plantilla de gestión de tiendas ofrece una solución para todas estas t
 
 El complemento Timeline permite a sus vendedores ver cuándo están programadas las próximas citas para una visita personal a las tiendas que tienen asignadas. Como hemos creado una vista separada para cada empleado en esta base, que explicaremos de nuevo más adelante, también hay una línea de tiempo separada para cada empleado individual en el complemento de línea de tiempo. Si quiere añadir aquí nuevas líneas de tiempo para nuevos empleados, debe crear también una nueva vista en el complemento de línea de tiempo después de haber creado la nueva vista en la base. En la configuración, puede especificar la vista correspondiente como base para la fuente de datos.
 
-![Gestión de la tienda ](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.44.53.png)
+![Gestión de la tienda ](Bildschirmfoto-2021-10-06-um-13.44.53.png)
 
 Complemento de la línea de tiempo
 
@@ -94,7 +94,7 @@ Complemento de la línea de tiempo
 
 Durante cada visita personal a la tienda, su personal de ventas tiene la tarea de comprobar la exactitud de varios aspectos, dependiendo del tipo de empresa. Para ello, hemos creado un [formulario web](https://seatable.io/es/docs/handbuch/seatable-nutzen/webformulare/) que su personal de ventas puede rellenar fácilmente durante o después de su visita a la tienda. Encontrará los formularios web en la esquina superior derecha, en "Formularios". Cuando su jefe de ventas haga clic en el formulario web, podrá empezar a rellenarlo inmediatamente.
 
-![Gestión de la tienda Comprobación de la tienda](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.12.55.png)
+![Gestión de la tienda Comprobación de la tienda](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
 Formulario web para la comprobación de la tienda
 
@@ -106,7 +106,7 @@ Cada empleado de ventas tiene una [vista personalizada](https://seatable.io/es/d
 
 Para que rellenar el formulario web sea menos propenso a errores, hemos establecido como "obligatorio" cada uno de los campos que hay que rellenar. Esto hace que sea imposible enviar sin rellenar el campo. Estos y muchos otros ajustes, como los textos de ayuda para rellenar el formulario web o diversas opciones de formato, pueden realizarse fácilmente haciendo clic en el pequeño lápiz situado junto al formulario web.
 
-![Vistas personalizadas de la gestión de la tienda](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.16.42.png)
+![Vistas personalizadas de la gestión de la tienda](Bildschirmfoto-2021-10-06-um-13.16.42.png)
 
 ## Facilidad para pedir material de punto de venta
 

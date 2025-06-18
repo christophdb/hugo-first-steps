@@ -19,7 +19,7 @@ SeaTable Server 3.3 is available on SeaTable Cloud since this morning. Self-host
 
 In the revised editor for web forms, "blocks" replace the sliders in the settings sidebar. If such a block is dragged into the form and "dropped", then the associated element is added to the form at the current position. All settings for the block can be modified in the sidebar. This sounds familiar? That's right! The form editor thus adopts the user interface design of the page design plugin.
 
-![Block-based form editor in SeaTable 3.3](images/Form_Editor_Blockdesign.png)
+![Block-based form editor in SeaTable 3.3](Form_Editor_Blockdesign.png)
 
 The numerous advantages of the block design are convincing: The fields in the form can be in any order. The order of the form fields does not have to correspond to the order of the columns in the table. Each form can have an individual field sequence. Of course, all blocks in the form can be moved later. To swap the sequence of two fields, simply drag the lower field over the upper one (or vice versa) and you have optimized the sequence. Which fields you use in forms and in which order is now entirely up to you with the new editor.
 
@@ -33,7 +33,7 @@ Some other improvements for the form editor are currently still in the works and
 
 ## Fancier emails with HTML
 
-![SeaTable 3.3 supports HTML emails](images/HTML_Email_Support.png)
+![SeaTable 3.3 supports HTML emails](HTML_Email_Support.png)
 
 For many business processes, sending emails is essential. SeaTable already offers this capability since version 2. With this December update, the e-mail function is substantially upgraded: SeaTable now supports HTML e-mails. In these - unlike in plain text emails - you can insert images, tables, comments and other formatting, as you know it from email clients like Outlook, Thunderbird or Apple Mail.
 
@@ -47,7 +47,7 @@ Thanks to the Big Data function introduced in [version 3.1,]({{< relref "posts/s
 
 The bulk import is done directly into the Big Data store (or SeaTables component dtable-db). You can edit and analyze the data with all the functions available in a Big Data view. Up to the limit of 100,000 rows you can also move imported rows into the normal storage to collaborate on them in real time.
 
-![Mass-import into and export form SeaTable's big data storage](images/Massimport_BigDataStorage.png)
+![Mass-import into and export form SeaTable's big data storage](Massimport_BigDataStorage.png)
 
 The new import, update and export function can be accessed via the advanced functions of a Big Data view.
 
@@ -63,7 +63,7 @@ There are a few more improvements, which will be presented here individually, bu
 
 Conditional formatting in columns can now also highlight duplicates. When enabled, all cells whose content appears in identical form two or more times in a column are highlighted. Together with value-based and rule-based formatting, SeaTable now offers three types of conditional formatting.
 
-![New table and view settings in SeaTable 3.3](images/Table_View_Settings.png)
+![New table and view settings in SeaTable 3.3](Table_View_Settings.png)
 
 A third option has also been added to the table and view settings. Now the creation and deletion of views can be made an exclusive right of the Base owner or Base administrator(s).
 

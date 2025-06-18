@@ -16,7 +16,7 @@ Aujourd'hui, nous avons mis à disposition SeaTable 1.8 sur [SeaTable Cloud](htt
 
 Les lignes réglables en hauteur sont littéralement la nouvelle fonctionnalité la plus frappante de SeaTable 1.8. Il n'y a que quatre hauteurs de lignes au choix : Simple, double, triple, quadruple. Les lignes agrandies font de la place pour des miniatures de fichiers plus grandes et permettent d'afficher le contenu dans des colonnes de texte formaté. Une ligne double hauteur affiche deux lignes de texte, une ligne triple hauteur quatre lignes de texte et une ligne quadruple hauteur six lignes de texte.
 
-![La hauteur de rangée est réglable dans SeaTable 1.8](images/SeaTable1.8_CustomizableRowHeight_1498x646.png)
+![La hauteur de rangée est réglable dans SeaTable 1.8](SeaTable1.8_CustomizableRowHeight_1498x646.png)
 
 L'ancienne hauteur de ligne (simple) est la nouvelle hauteur de ligne par défaut. Elle est appliquée lors de l'ouverture d'une nouvelle base ou de la création d'un nouveau tableau. Le réglage de la hauteur de ligne se cache derrière la nouvelle icône dans la barre d'outils d'affichage, à droite des options de formatage. Testez-le et découvrez quelle hauteur de ligne convient le mieux à votre application !
 
@@ -24,7 +24,7 @@ L'ancienne hauteur de ligne (simple) est la nouvelle hauteur de ligne par défau
 
 Le nouveau type de colonne "Bouton" est l'excentrique parmi les presque deux douzaines de types de colonnes de SeaTable. (spoiler : Nous atteindrons très bientôt les deux douzaines de types de colonnes. Soyez curieux !) Dans une colonne de type Bouton, vous ne stockez aucune information ; vous utilisez la colonne Bouton pour automatiser des actions. Avec l'introduction du nouveau type de colonne dans cette version, vous pouvez exécuter un script par bouton. Très bientôt, vous pourrez également envoyer des e-mails (plus d'informations ci-dessous) et des messages de chat en un seul clic. Au cours de l'année 2021, nous ajouterons progressivement d'autres actions pouvant être déclenchées par un bouton.
 
-![Nouveau type de colonne : Bouton](images/SeaTable1.8_ColumnType_Button_1500x708.png)
+![Nouveau type de colonne : Bouton](SeaTable1.8_ColumnType_Button_1500x708.png)
 
 Lors de la création d'une colonne de bouton, vous définissez l'apparence et la fonction du bouton. Cela inclut l'action à effectuer, le libellé du bouton et sa couleur. Consultez le [manuel des scripts SeaTable](https://seatable.github.io/seatable-scripts/) si vous souhaitez écrire vos propres scripts et les intégrer dans votre tableau à l'aide d'un bouton.
 
@@ -32,7 +32,7 @@ Lors de la création d'une colonne de bouton, vous définissez l'apparence et la
 
 Imaginez que vous êtes directeur des ventes et que vous voulez inciter vos chefs de produits à mettre à jour les informations du catalogue de produits. Jusqu'à présent, vous deviez pour cela donner à tous les managers une autorisation sur la base (ou la vue) du catalogue de produits, puis leur demander de vérifier si les données étaient à jour. En fait, cela peut représenter beaucoup de travail si vous créez des vues individuelles et les envoyez une par une. Avec SeaTable 1.8, il existe désormais un moyen plus efficace et plus simple ! Nous faisons les présentations : Le formulaire de collecte.
 
-![Sauvegarde des identifiants de compte de messagerie dans SeaTable](images/SeaTable1.8_MailAccount_1500x495.png)
+![Sauvegarde des identifiants de compte de messagerie dans SeaTable](SeaTable1.8_MailAccount_1500x495.png)
 
 Le formulaire de collecte est une vue de tableau d'une base qui affiche à l'utilisateur uniquement les lignes qu'il a lui-même créées. Si l'utilisateur n'est inscrit sur aucune ligne en tant que créateur, le formulaire de collecte se présente alors comme un tableau vide. L'utilisateur peut donc uniquement créer de nouvelles entrées, mais pas modifier les entrées existantes. Le formulaire collectif est donc le moyen de choix pour les tâches de mise à jour des données à grande échelle qui impliquent de nombreuses personnes. Il est plus facile à gérer que les partages, car l'accès au formulaire groupé ne nécessite pas de partage. L'utilisateur n'a besoin que d'un compte d'utilisateur.
 
@@ -48,7 +48,7 @@ Vous créez un lien externe pour une vue via le menu contextuel d'une vue. Cliqu
 
 Dans la version 1.8, nous n'avons pas seulement amélioré les fonctions de partage existantes, nous avons également ajouté une toute nouvelle fonction de partage à SeaTable : SeaTable peut désormais envoyer des e-mails ! Les utilisateurs peuvent stocker les données d'accès à un ou plusieurs serveurs SMTP dans une base et les utiliser dans des scripts Python et JS. La méthode base.sendMail() est disponible à cet effet.
 
-![SeaTable 1.8 présente : Formulaire de collecte de données](images/SeaTable1.8_DataCollectionTable_1500x495.png)
+![SeaTable 1.8 présente : Formulaire de collecte de données](SeaTable1.8_DataCollectionTable_1500x495.png)
 
 Les données d'accès sont cryptées à l'aide de jetons symétriques et stockées dans la base de données backend. Dans une prochaine version, nous ajouterons une fonction de test de connexion. De même, il est prévu de rendre les comptes de messagerie directement utilisables via les nouveaux boutons.
 

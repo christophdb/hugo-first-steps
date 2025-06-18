@@ -81,8 +81,8 @@ Con la función de filtro de SeaTable, puede utilizar reglas de filtro para filt
 
 En el caso de las reglas de filtrado, a diferencia de las reglas de agrupación y ordenación, la instrucción suele constar de dos componentes:
 
-- Criterio de filtrado: Relación entre la columna filtrada y el valor del filtro (por ejemplo, "es", "contiene", "está vacío")
-- Valor del filtro: El valor por el que se va a filtrar (por ejemplo, "123", "hecho").
+- Criterio de filtrado: Relación entre la columna filtrada y el valor del filtro (por ejemplo, `es`, `contiene`, `está vacío`)
+- Valor del filtro: El valor por el que se va a filtrar (por ejemplo, `123`, `hecho`).
 
 Las reglas de filtrado también pueden vincularse con los dos operadores booleanos AND y OR. Con un enlace Y, sólo se filtran las entradas que cumplen todas las condiciones vinculadas. Con la operación OR, puede filtrar las entradas que cumplan al menos una de las condiciones definidas. Con tres o más reglas de filtrado, también se pueden utilizar conjuntamente los operadores AND y OR.
 
@@ -90,7 +90,7 @@ Las reglas de filtrado también pueden vincularse con los dos operadores boolean
 
 El asistente de filtros facilita la creación de potentes filtros para sus datos. Un clic en _Filtro_ en la configuración de la vista por encima de los títulos de las columnas lo abre.
 
-Defina primero la columna por la que desea filtrar. A continuación, especifique el criterio de filtrado. Dependiendo del criterio de filtrado seleccionado, ahora también debe introducir el valor del filtro. Para algunos criterios de filtrado, como "está vacío", esto no es necesario por razones lógicas.
+Defina primero la columna por la que desea filtrar. A continuación, especifique el criterio de filtrado. Dependiendo del criterio de filtrado seleccionado, ahora también debe introducir el valor del filtro. Para algunos criterios de filtrado, como `está vacío`, esto no es necesario por razones lógicas.
 
 Para añadir otra regla de filtrado, haga clic en _Añadir filtro_ en el asistente. Ahora puede definir la segunda regla de filtrado como la primera. Además, debe definir si las dos reglas de filtrado tienen un enlace AND u OR. Para añadir más reglas de filtrado, repita el proceso.
 
@@ -104,19 +104,19 @@ SeaTable admite el filtrado de todos los [tipos de columnas]({{< relref "help/ba
 
 Dependiendo del tipo de columna, el asistente de filtrado muestra diferentes criterios de filtrado. Para los diferentes tipos de columnas son:
 
-- Texto: "contiene", "no contiene", "es igual", "no es igual", "está vacío", "no está vacío" y "es ID de usuario registrado".
-- Zahl: ”=”, ”≠”, ”<'', ''>”, ”≤”, ”≥”, ”ist leer” und ”ist nicht leer”
-- Casilla: "es igual"
-- Fecha: "es igual a", "está dentro de", "está antes de", "está después de", "está en o antes de", "está en o después de", "no es igual a", "está vacío" y "no está vacío".
-- Dauer: ”=”, ”≠”, ”<'', ''>”, ”≤”, ”≥”, ”ist leer” und ”ist nicht leer”
-- Una sola opción: "es igual", "es desigual", "es uno de", "no es", "está vacío" y "no está vacío".
-- Selección múltiple: "contiene uno de", "contiene todos", "no contiene", "es exacto", "está vacío" y "no está vacío".
-- Personal: "incluye uno de", "incluye todos", "no incluye", "es exacto", "está vacío", "no está vacío" e "incluye al usuario actual".
-- Correo electrónico: "contiene", "no contiene", "es igual", "no es igual", "está vacío" y "no está vacío".
-- Enlace: "contiene", "no contiene", "está vacío" y "no está vacío".
-- Creación y última edición: "es igual a", "está dentro de", "está antes de", "está después de", "está en o antes de", "'está en o después de", "no es igual a", "está vacío" y "no está vacío" (idéntico con la fecha).
+- Texto: `contiene`, `no contiene`, `es igual`, `no es igual`, `está vacío`, `no está vacío` y `es ID de usuario registrado`.
+- Número: `=`, `≠`, `<'', ''>`, `≤`, `≥`, `está vacío` und `no está vacío`
+- Casilla: `es igual`
+- Fecha: `es igual a`, `está dentro de`, `está antes de`, `está después de`, `está en o antes de`, `está en o después de`, `no es igual a`, `está vacío` y `no está vacío`.
+- Duración: `=`, `≠`, `<'', ''>`, `≤`, `≥`, `está vacío` und `no está vacío`
+- Una sola opción: `es igual`, `es desigual`, `es uno de`, `no es`, `está vacío` y `no está vacío`.
+- Selección múltiple: `contiene uno de`, `contiene todos`, `no contiene`, `es exacto`, `está vacío` y `no está vacío`.
+- Personal: `incluye uno de`, `incluye todos`, `no incluye`, `es exacto`, `está vacío`, `no está vacío` e `incluye al usuario actual`.
+- Correo electrónico: `contiene`, `no contiene`, `es igual`, `no es igual`, `está vacío` y `no está vacío`.
+- Enlace: `contiene`, `no contiene`, `está vacío` y `no está vacío`.
+- Creación y última edición: `es igual a`, `está dentro de`, `está antes de`, `está después de`, `está en o antes de`, `está en o después de`, `no es igual a`, `está vacío` y `no está vacío` (idéntico con la fecha).
 
-Las filas con celdas vacías siempre se filtran y, por tanto, no se muestran, a menos que se realice una búsqueda explícita de "está vacío".
+Las filas con celdas vacías siempre se filtran y, por tanto, no se muestran, a menos que se realice una búsqueda explícita de `está vacío`.
 
 ## Almacenamiento de los ajustes de filtrado, clasificación y agrupación
 

@@ -20,7 +20,7 @@ Esta manhã, actualizámos o SeaTable Cloud para a versão 4.2. Todos os auto-ho
 
 A [funcionalidade de snapshot](https://seatable.io/pt/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) faz parte do ADN do SeaTable. Mesmo na versão 1.0, era possível criar instantâneos do estado de uma base e restaurá-los num momento posterior. Por conseguinte, é lógico integrar essa função no Universal App Builder.
 
-![Gestão de versões em aplicações universais](images/Version-management-in-Universal-Apps.gif)
+![Gestão de versões em aplicações universais](Version-management-in-Universal-Apps.gif)
 
 A nova **gestão de versões** está localizada atrás do ícone {{< seatable-icon icon="dtable-icon-history" >}} na barra de definições do lado esquerdo. Aí pode criar, ver, restaurar e eliminar instantâneos. Também é possível introduzir uma pequena nota para cada instantâneo, o que lhe permite encontrar rapidamente a versão correcta.
 
@@ -34,17 +34,17 @@ Se restaurar um instantâneo guardado, a aplicação é reposta no estado anteri
 
 Especialmente com aplicações universais, que muitos utilizadores podem utilizar para fazer novas entradas numa base, é fácil criar **linhas idênticas**. É possível evitar isso no futuro ativando a função para evitar a adição de duplicatas em [páginas de tabelas e formulários](https://seatable.io/pt/docs/apps/seitentypen-in-der-universellen-app/). Ao fazer isso, define-se as colunas nas quais os valores devem coincidir para que uma linha conte como **duplicada**. Se a adição de uma linha for bloqueada, uma mensagem de erro correspondente será exibida.
 
-![Impedir a adição de duplicados em aplicações universais](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
+![Impedir a adição de duplicados em aplicações universais](Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
 ## Duplicar páginas e desativar aplicações
 
 Criar e configurar páginas no Universal App Builder pode levar muito tempo - especialmente para páginas personalizadas, como painéis de controlo. No caso de já ter criado páginas que apenas pretende modificar ligeiramente, o SeaTable 4.2 oferece agora a função de **duplicar páginas**, poupando assim tempo e esforço. A cópia retoma todos os conteúdos, definições e autorizações, um a um, da página original.
 
-![Páginas duplicadas em aplicações universais](images/Duplicate-page-in-Universal-Apps.png)
+![Páginas duplicadas em aplicações universais](Duplicate-page-in-Universal-Apps.png)
 
 Se criou uma aplicação que gostaria de impedir temporariamente de ser utilizada, pode agora **suspendê-la** com apenas alguns cliques para retirar o acesso a todos os grupos de utilizadores. A aplicação pode ser **reactivada** da mesma forma numa data posterior.
 
-![Suspender temporariamente e reativar aplicações](images/Suspend-and-activate-apps.gif)
+![Suspender temporariamente e reativar aplicações](Suspend-and-activate-apps.gif)
 
 ## Outras opções de personalização
 
@@ -56,7 +56,7 @@ O desenvolvimento do Universal App Builder continuará inabalável nas próximas
 
 Anteriormente, só era possível acionar a [ação automatizada "Editar entrada"](https://seatable.io/pt/docs/automationen/automations-aktionen/#6-toc-title) ao adicionar novas linhas ou alterar entradas. Agora também pode **executar** esta automatização **periodicamente para entradas que preencham determinadas condições**. As entradas na tabela são então sempre ajustadas num momento específico de acordo com as configurações definidas antecipadamente.
 
-![Executar a ação automática "Editar entrada" periodicamente](images/Run-automated-action-Modify-record-periodically-.png)
+![Executar a ação automática "Editar entrada" periodicamente](Run-automated-action-Modify-record-periodically-.png)
 
 ## Nova função na coluna de fórmulas: iserror()
 
@@ -68,7 +68,7 @@ A nova função **iserror()** é um mimo para [os fãs de fórmulas](https://sea
 
 No SeaTable 4.2, aperfeiçoámos a função de pesquisa na página inicial para lhe dar uma visão geral ainda melhor das suas bases e aplicações. Basta introduzir parte do nome no campo de pesquisa e o SeaTable mostra-lhe uma lista de todos os resultados através do preenchimento automático. Também pode ver o **histórico dos resultados de pesquisa utilizados recentemente** numa espécie de histórico do navegador, que pode utilizar para aceder rapidamente às bases e aplicações utilizadas mais recentemente.
 
-![Função de pesquisa melhorada na página inicial](images/Screenshot-2023-11-20-133326.png)
+![Função de pesquisa melhorada na página inicial](Screenshot-2023-11-20-133326.png)
 
 ### Converter vistas privadas em normais
 

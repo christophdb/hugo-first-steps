@@ -60,13 +60,13 @@ Mit unserem [SeaTable Template für einen Maßnahmenplan]({{< relref "templates/
 
 Unser Template besteht im Wesentlichen aus einem 365-Tage-Kalender mit markierten Wochenenden und Feiertagen, in dem Sie alles rund um Ihre Planung problemlos eintragen können. Dies hat den Vorteil, dass Sie die Wochentage und Monate in einem ganzheitlichen Blick betrachten können. Das gibt eine bessere Übersicht darüber, wann und in welchen Zeitabständen ein besonderer Termin oder eine Maßnahme stattfinden soll und erleichtert die Jahresplanung. Für eine ausführliche Projektplanung sind in den Spalten Zeit, Ort, Verantwortliche Personen und Abteilungen sowie wichtige To-Do’s integriert. So kann der Ablauf einzelner Maßnahmen ganz genau geplant werden und wichtige Termine sind stets mit wenigen Klicks greifbar. Sie werden sehen: Mit SeaTable ist die Planung für das ganze Jahr perfekt strukturiert und organisiert.
 
-![Mit einem Maßnahmenplan im Kalenderformat haben Sie jederzeit einen Überblick über Ihre Maßnahmen](https://seatable.de/wp-content/uploads/2021/04/Overview.jpg)
+![Mit einem Maßnahmenplan im Kalenderformat haben Sie jederzeit einen Überblick über Ihre Maßnahmen](Overview.jpg)
 
 Die Übersicht im Maßnahmenplan
 
 Nicht nur Ihre Terminplanung findet hier Platz, sondern auch gleichzeitig Ihre geplanten Projekte und Ziele. Diese können Sie in einem weiteren Tabellenblatt anlegen und kontinuierlich Fortschritte dokumentieren. Das Praktische: Durch die Mitarbeiter-Spalte können Sie Aufgaben und Projekte direkt an die verantwortlichen Personen abgeben, um Chaos zu vermeiden. So gehen Sie sicher, dass alles rechtzeitig erledigt wird und alle Mitarbeiter wissen, was ihre Aufgaben sind. Damit sorgen Sie für einen idealen Workflow, bei dem nichts mehr verloren geht.
 
-![Ihre Ziele können Sie in Ihrem Maßnahmenplan festhalten, um kontinuierlich daran zu arbeiten](https://seatable.de/wp-content/uploads/2021/04/Annual-Goals.jpg)
+![Ihre Ziele können Sie in Ihrem Maßnahmenplan festhalten, um kontinuierlich daran zu arbeiten](Annual-Goals.jpg)
 
 Ziele in Ihrem Maßnahmenplan visualisieren und voranbringen
 

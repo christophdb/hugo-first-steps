@@ -29,7 +29,7 @@ Es gibt viele Möglichkeiten, Datenbanken zu strukturieren. Nachfolgend erkläre
 4. **Relationale Datenbank:** Sie ist tabellenorientiert, wobei jeder Datensatz mit jedem anderen Datensatz verknüpft ist.
 5. **Nicht-relationale Datenbank** (oder NoSQL-Datenbank): Eine No-SQL-Datenbank verwendet eine Vielzahl von Formaten wie Dokumente, Diagramme usw., die einem Datenbankdesign große Flexibilität bieten.
 
-![Verknüpfungen sind der große Vorteil von relationalen Datenbanken](https://seatable.io/wp-content/uploads/2021/03/hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
+![Verknüpfungen sind der große Vorteil von relationalen Datenbanken](hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
 
 Verknüpfungen sind der große Vorteil von relationalen Datenbanken.
 
@@ -46,7 +46,7 @@ Wenn Sie nun verstanden haben, was Datenbanken sind, so fragen Sie sich wahrsche
 
 Auch wenn Sie selbst vielleicht (noch) keine riesigen Mengen an Informationen verarbeiten müssen, so sind die Vorteile von Datenbanken doch auch schon bei kleineren Datenmengen spürbar. Durch die Möglichkeit, fast unbegrenzt Daten verarbeiten zu können, kann Ihnen eine gut konzipierte und durchdachte Datenbank viele Jahre dienen, da sie quasi mitwächst.
 
-![Unkomplizierte Datenbanken: Mit SeaTable kein Problem](https://seatable.io/wp-content/uploads/2021/10/pexels-christina-morillo-1181354-e1634551763220.jpg)
+![Unkomplizierte Datenbanken: Mit SeaTable kein Problem](pexels-christina-morillo-1181354-e1634551763220.jpg)
 
 ## Wo Tabellen im Gegensatz zu Datenbanken an ihre Grenzen stoßen
 
@@ -90,7 +90,7 @@ Die Ergebnisse solcher Abfragen können Sie als **Ansicht** speichern, die eine 
 
 Mussten Sie in der Vergangenheit noch bestimmte Computersprachen erlernen, um oben genannte Datenabfragen zu verwirklichen, so gibt es heute viele Datenbanksysteme wie SeaTable, die mit einer intuitiven grafischen Benutzeroberfläche ausgestattet sind. Diese ermöglichen auch Anfängern, Datenbanken sofort zu nutzen, um Ihren Workflow zu verbessern.
 
-![Vorteile von Datenbanken wie SeaTable](images/Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
+![Vorteile von Datenbanken wie SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
 Im Gegensatz zu klassischen Datenbanken hat SeaTable eine grafische Benutzeroberfläche.
 

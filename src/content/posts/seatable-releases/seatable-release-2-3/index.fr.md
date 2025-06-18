@@ -18,7 +18,7 @@ Les tableaux très volumineux entraînent des temps de chargement longs et nuise
 
 La nouvelle fonction d'archivage élimine cette restriction ! En plus des 150 000 lignes de l'ensemble de données actif, des millions de lignes peuvent être stockées dans l'archive. La fonction d'archivage offre donc une solution pour toutes les applications pour lesquelles les limites précédentes de SeaTable n'étaient pas suffisantes.
 
-![Fonction d'archivage](https://seatable.io/wp-content/uploads/2021/09/Archive-function-1088x631.png)
+![Fonction d'archivage](Archive-function-1088x631.png)
 
 En ce qui concerne les possibilités d'évaluation et d'analyse, les différences entre les lignes actives et les lignes archivées sont minimes : les archives prennent en charge tous les types de colonnes. Des filtres et des tris permettent d'évaluer rapidement les données dans les archives. Et l'accès par API et par des [apps externes](https://seatable.io/fr/seatable-release-2-2#Externe_Apps_nur_fuer_Enterprise_Abos/?lang=auto) est également possible. Une fonction de recherche et la prise en charge complète des plugins sont en cours de développement.
 
@@ -55,7 +55,7 @@ Les lignes archivées ne peuvent actuellement pas être replacées dans l'ensemb
 
 L'accès aux données dans les archives se fait via le nouveau type de vue Vue des archives. Une fois que les lignes ont été archivées, une telle vue d'archives - comme les autres vues - peut être créée via le menu des vues. Les vues d'archives sont facilement reconnaissables grâce à leur propre icône dans la navigation des vues.
 
-![Vue des archives](https://seatable.io/wp-content/uploads/2021/09/Archive-view-creation-1088x518.png)
+![Vue des archives](Archive-view-creation-1088x518.png)
 
 La vue des archives montre les lignes archivées et non archivées et permet d'évaluer l'ensemble du stock de données - archivé et actif - de la table. Les outils d'analyse familiers sont disponibles à cet effet. Avec un plug-in pour les statistiques avancées, on disposera bientôt d'un outil permettant d'évaluer de manière exhaustive de très grandes quantités de données. Pour les possibilités d'évaluation, il est donc presque sans importance que les lignes soient archivées ou non.
 
@@ -69,7 +69,7 @@ L'historique de la table et les commentaires ne font pas partie des informations
 
 Après les [valeurs par défaut pour les colonnes]({{< relref "posts/seatable-releases/seatable-release-2-0" >}}), il y a maintenant aussi des valeurs par défaut pour les champs de formulaire dans la version 2.3. Et les valeurs statiques par défaut ne sont pas les seules à être prises en charge : Les variables _creator.id_ et _creator.name_ insèrent automatiquement l'ID ou le nom de l'utilisateur dans le champ du formulaire pour les utilisateurs connectés.
 
-![Valeurs par défaut dans les formulaires](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
+![Valeurs par défaut dans les formulaires](Default-values-forms-1088x974.png)
 
 ### Aperçu du texte formaté du type de colonne
 

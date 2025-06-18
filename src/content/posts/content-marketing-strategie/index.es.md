@@ -96,7 +96,7 @@ Suponga que su empresa tiene los siguientes tres segmentos de clientes:
 
 A continuación, su primera tarea sería averiguar todo lo que pueda sobre estos segmentos de clientes y, por tanto, sobre sus personas. No te limites a pensar en ello, documenta tus hallazgos.
 
-![Descripción de las personas compradoras en SeaTable](https://seatable.de/wp-content/uploads/2021/02/buyer-personas-in-seatable.png)
+![Descripción de las personas compradoras en SeaTable](buyer-personas-in-seatable.png)
 
 Ejemplo de descripción de las personas en SeaTable
 
@@ -128,7 +128,7 @@ La siguiente tabla muestra una estructura básica que puede adaptar a sus necesi
 - Persona (para quien el artículo es relevante)
 - Idea del contenido (de dónde surgió la idea)
 
-![Estrategia de marketing de contenidos](images/content-marketing-strategie-seatable.png)
+![Estrategia de marketing de contenidos](content-marketing-strategie-seatable.png)
 
 Esta tabla de nuestra [Plantilla de estrategia de marketing de contenidos]({{< relref "templates/marketing/content-marketing-strategy" >}}) parece bastante extensa a primera vista, pero es lo mínimo para que un canal de contenidos medio mantenga la visión de conjunto necesaria. Acostúmbrate a registrar estos datos desde el primer día y no tendrás problemas para llevar la cuenta en cualquier momento.
 
@@ -138,19 +138,19 @@ Otro aspecto destacado de esta plantilla son las diferentes vistas con filtros y
 
 Los diseñadores gráficos sólo se interesarán por los artículos que requieran gráficos y que ya estén escritos, mientras que los autores sólo buscarán los trabajos que aún estén abiertos. Para cada uno de estos colaboradores hay una vista separada para mostrar sólo los datos que uno necesita en ese momento.
 
-![Vistas individuales para cada empleado](https://seatable.de/wp-content/uploads/2021/02/seatable-views.png)
+![Vistas individuales para cada empleado](seatable-views.png)
 
 Vistas individuales para cada empleado
 
 Cada empleado sabe exactamente quién tiene la tarea entre manos y quién tiene que trabajar en ella a continuación. Así se evitan tiempos de espera y confusiones. En cuanto un autor ha escrito su borrador, cambia el estado del artículo y lo pasa al siguiente miembro del personal para que realice el control de calidad. Si es necesaria la coordinación entre los miembros del personal, puede hacerse fácilmente mediante la [función de comentarios](https://seatable.io/es/docs/handbuch/zusammenarbeit/kommentare/) de SeaTable.
 
-![Comunicación en equipo en SeaTable](https://seatable.de/wp-content/uploads/2021/02/seatable-comments.png)
+![Comunicación en equipo en SeaTable](seatable-comments.png)
 
 De este modo, nadie tiene que pedir una actualización por correo electrónico o Slack. Basta con añadir al colega correspondiente en los comentarios o cambiar el estado del artículo. Si se desea, SeaTable también envía una notificación por correo electrónico.
 
 Como autor o editor, es posible que desee ver las fechas de publicación programadas en una vista de calendario. Allí podrá arrastrar y soltar fácilmente los artículos para reordenar los plazos y asegurarse de que se publican buenos contenidos de forma coherente.
 
-![Planificación editorial a través de arrastrar y soltar en SeaTable](https://seatable.de/wp-content/uploads/2021/02/redaktionsplanung-seatable-kalender.png)
+![Planificación editorial a través de arrastrar y soltar en SeaTable](redaktionsplanung-seatable-kalender.png)
 
 Planificación editorial mediante arrastrar y soltar en SeaTable
 
@@ -160,7 +160,7 @@ Cada una de estas vistas destaca determinados aspectos de la cadena de contenido
 
 Asegúrate también de no quedarte sin ideas antes de tiempo. Pida ideas a sus empleados y a sus clientes, o pídales temas que le interesen. Con SeaTable puede crear un cuestionario en minutos y distribuirlo.
 
-![Lluvia de ideas para preparar el marketing de contenidos](https://seatable.de/wp-content/uploads/2021/02/seatable-content-brainstorming-1.png)
+![Lluvia de ideas para preparar el marketing de contenidos](seatable-content-brainstorming-1.png)
 
 Su objetivo debe ser estar en constante intercambio con sus clientes y mantener lo más bajas posible las barreras para informar de esas ideas. Ya lo verá: La mejor forma de publicar buenos contenidos a intervalos regulares es mantener un flujo constante de ideas de alta calidad.
 
@@ -188,7 +188,7 @@ Notará rápidamente que con buenos artículos puede observar un aumento del tr�
 
 Verá que merece la pena registrar estas evaluaciones en SeaTable para que luego las cifras se muestren como estadísticas en un gráfico de barras, de líneas o de tarta.
 
-![Evaluaciones estadísticas con SeaTable](https://seatable.de/wp-content/uploads/2021/02/seatable-statistics.png)
+![Evaluaciones estadísticas con SeaTable](seatable-statistics.png)
 
 Evaluaciones estadísticas de las cifras de acceso y las contabilizaciones programadas con SeaTable
 

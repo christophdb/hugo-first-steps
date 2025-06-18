@@ -154,7 +154,7 @@ Para que su programa social sea más interesante y sus invitados se lo pasen bie
 
 En la gestión de eventos, las invitaciones desempeñan un papel crucial para su éxito. Si utiliza invitaciones personalizadas, podrá aumentar eficazmente el número de participantes. Además, enviar notificaciones de "Reserve la fecha" durante la fase de planificación puede ayudar a generar interés desde el principio y garantizar que sus invitados mantengan la fecha libre.
 
-No olvide incluir en las invitaciones información importante como la fecha, la hora, el lugar y el programa. Para facilitar el proceso de reserva a tus invitados, es buena idea integrar un sistema de reserva de entradas. Con un [formulario web](https://seatable.io/docs/webformulare/webformulare/) en la [plantilla]({{< relref "templates/events/event-management" >}}) ya preparada de SeaTable, puedes implementar fácilmente este paso y crear automáticamente una lista de participantes.
+No olvide incluir en las invitaciones información importante como la fecha, la hora, el lugar y el programa. Para facilitar el proceso de reserva a tus invitados, es buena idea integrar un sistema de reserva de entradas. Con un [formulario web]({{< relref "help/base-editor/webformulare" >}}) en la [plantilla]({{< relref "templates/events/event-management" >}}) ya preparada de SeaTable, puedes implementar fácilmente este paso y crear automáticamente una lista de participantes.
 
 ![Enviar invitaciones con SeaTable a través de un formulario web](Einladungskommunikation.jpg)
 
@@ -164,7 +164,7 @@ Para garantizar que al final su evento tenga una buena asistencia y que la plani
 
 En el caso de actos internos para empleados, por ejemplo, puede utilizar avisos en la empresa, anuncios en el boletín o invitaciones por correo electrónico. También puede pedir a los directivos que mencionen el acto en las reuniones de equipo para que se difunda.
 
-En el caso de eventos comerciales como festivales, resulta útil la publicidad dirigida a través de plataformas de medios sociales, anuncios en revistas relevantes y una referencia en su propio sitio web. Si planea una [exposición de arte](https://seatable.io/ausstellungs-und-kunstmanagement-museum-galerie/), puede recurrir a carteles, folletos, comunicados de prensa y la inclusión en revistas de arte y cultura.
+En el caso de eventos comerciales como festivales, resulta útil la publicidad dirigida a través de plataformas de medios sociales, anuncios en revistas relevantes y una referencia en su propio sitio web. Si planea una [exposición de arte]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}), puede recurrir a carteles, folletos, comunicados de prensa y la inclusión en revistas de arte y cultura.
 
 Es importante empezar las medidas publicitarias con tiempo y preparar los mensajes de forma atractiva e informativa para despertar el interés de su público objetivo y conseguir un elevado número de visitantes.
 

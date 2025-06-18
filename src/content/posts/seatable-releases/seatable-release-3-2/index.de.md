@@ -18,13 +18,13 @@ Seit heute Morgen läuft die neuste Version auf [SeaTable Cloud](https://cloud.s
 
 Der Formelassistent bot bisher nur wenig Orientierung bei der Erstellung komplexer Formeln. Mit dem neuen Formelassistenten sind auch verschaltete Formeln mit diversen Spaltenbezügen und mehreren Funktionen schnell erstellt. Er unterstützt bei der Eingabe interaktiv und bietet, falls doch mal etwas schief geht, aussagekräftige Fehlermeldungen zur schnellen Fehlerbehebung.
 
-![Seatable's interactive formula wizard](https://seatable.io/wp-content/uploads/2022/10/SeaTable3.2_FormulaWizard.png)
+![Seatable's interactive formula wizard](SeaTable3.2_FormulaWizard.png)
 
 Wo bisher nur grauer Text existierte, herrscht nun eine klare Farbensprache: Formeln werden in blauer Schrift angezeigt, Spaltenreferenzen sind lila, Zahlen sind grün und Text erscheint in rot. Klammern – runde sowie geschweifte – werden bei der Eingabe automatisch geschlossen und ein feiner Schatten markiert zusammenhängende Klammern. Auch einfache und doppelte Hochkommas für einfachen Text werden automatisch doppelt gesetzt, um die Eingabe zu beschleunigen. Natürlich funktioniert der neue Assistent nicht nur bei neuen Formeln, sondern auch bei bestehenden Formeln.
 
 ## Vielseitige Schaltfläche
 
-![SeaTable's button can now execute two actions with one click](https://seatable.io/wp-content/uploads/2022/10/SeaTable3.2_ButtonColumn.png)
+![SeaTable's button can now execute two actions with one click](SeaTable3.2_ButtonColumn.png)
 
 Bisher galt die Regel “1 Schaltfläche – 1 Aktion”. Diese Regel geht mit SeaTable 3.2 über Bord. Die neue Regel lautet “1 Schaltfläche – Sie wählen die Anzahl der Aktionen”. In SeaTable 3.2 erstellen Sie beispielsweise mit einem Klick ein PDF-Dokument mit dem Seitendesign-Plugin und versenden dieses dann per E-Mail. Auch lässt sich die Zeile danach sperren oder Zellwerte automatisch ändern (z.B. ein Statuswechsel). Die verfügbaren Aktionen können beliebig miteinander kombiniert werden. Bestehenden Schaltflächen können selbstverständlich ebenfalls weitere Aktionen zugewiesen werden, wodurch sich Tabellen verschlanken und vereinfachen lassen.
 
@@ -38,7 +38,7 @@ Auch mit diesen Verbesserungen bleibt der Spaltentyp Schaltfläche in aktiver En
 
 In SeaTable 3.2 schmückt ein neues Element ausgewählte Zellen in Spalten vom Typ Datei und Bild. Ein Klick auf den Doppelpfeil öffnet ein Pop-up, das die Dateien der Zelle in einer Listenansicht anzeigt. Bisher war dafür ein Klick in den weißen Zwischenraum zwischen den Datei-Icons nötig – nicht selten ein hakeliges Unterfangen. Das Datei Pop-up selbst haben wir im Übrigen auch ertüchtigt. Über das 3-Punkte-Icon für die erweiterten Funktionen lassen sich nun Dateien umbenennen. Bisher war dafür ein Download und erneuter Upload notwendig.
 
-![Updated file column in SeaTable 3.2](https://seatable.io/wp-content/uploads/2022/10/SeaTable3.2_FileColumn.png)
+![Updated file column in SeaTable 3.2](SeaTable3.2_FileColumn.png)
 
 Eine weitere Neuerung ist die Möglichkeit, Bild-Spalten ohne Verlust der Zelleninhalte in Datei-Spalten umzuwandeln. Dies ist insbesondere dann relevant, wenn man erstere für E-Mail-Anhänge verwenden will. Die Aktion “E-Mail versenden” unterstützt aktuell nämlich ausschließlich den Spaltentyp Datei. (Die verlustfreie Umwandlung funktioniert nur, wenn die Bilder in SeaTable abliegen. Bei Bildern, die über einen Link eingebunden sind, geht das nicht.)
 
@@ -50,7 +50,7 @@ Die Nutzung von Einfachauswahlfelder im Seitendesign-Plugin litt bisher an der s
 
 ## Leistungsfähigere Automationen
 
-![SeaTable 3.2 supports pausing an automation](https://seatable.io/wp-content/uploads/2022/10/SeaTable3.2_PauseAutomations_400x361.png)
+![SeaTable 3.2 supports pausing an automation](SeaTable3.2_PauseAutomations_400x361.png)
 
 Die Möglichkeiten zur Verwaltung von Automationen werden in SeaTable 3.2 an zwei Stellen erweitert. Zum einen werden im Ausführungsprotokoll von Automationen nun auch Warnungen angezeigt. Eine Warnung wird beispielsweise geloggt, wenn eine Automationsregel für eine große Anzahl an Zeilen zutrifft und entsprechend viele Aktionen auslöst. Mit den Warnungen werden also Hinweise auf Probleme bei der Konfiguration einer Automation geliefert. Die Möglichkeit zur Pausierung einer Automation ist die zweite ergänzte Funktion in SeaTable 3.2. Ein Klick auf das entsprechende Icon unterbindet bis auf weiteres die Ausführung der Automation. Ein entsprechender Hinweis markiert pausierte Automationen.
 
@@ -71,6 +71,6 @@ Eine neue Datenverarbeitungsoperation ‘Benutzernamen übertragen’ liest eine
 Wenn in einer Tabelle eine neue Spalte hinzugefügt wird, dann prüft SeaTable, ob in anderen Ansichten ausgeblendete Spalten vorhanden sind. Ist dies der Fall, dann wird die neu erstellte Spalte in diesen Ansichten ebenfalls ausgeblendet.
 
 Neben der verbesserten Darstellung von Einfachauswahlfelder erhält das Seitendesign eine weitere Verbesserung: Mehrere Elemente lassen sich nun kollektiv ausrichten, wie man es beispielsweise aus PowerPoint kennt.  
-![Multiple elements can be aligned in SeaTable 3.2's page design plugin](https://seatable.io/wp-content/uploads/2022/10/SeaTable3.2-ElementAlignment.png)
+![Multiple elements can be aligned in SeaTable 3.2's page design plugin](SeaTable3.2-ElementAlignment.png)
 
 Last but not least freut sich auch das Timeline Plugin über eine Verbesserung: Gruppierungen in einer Ansicht lassen sich nun auch im Plugin darstellen. Konkret: Die Einträge in einer Gruppierung werden durch Swimlanes getrennt voneinander angezeigt.

@@ -17,7 +17,7 @@ Here you can find out how to organize species-appropriate pet ownership and what
 
 The first question is whether there is room for an animal in your everyday life. You have to take **responsibility** for a pet for an indefinite period of time. You should ask yourself whether you can meet the individual requirements that your pet places on you.
 
-![Here is a list of questions you should ask yourself before buying a pet.](images/Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
+![Here is a list of questions you should ask yourself before buying a pet.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
 
 You should pay attention to this before you get a pet.
 
@@ -31,7 +31,7 @@ In Germany, the term **pet** is mainly characterized by typical representatives 
 
 From _Nemo the_ clownfish to _Hedwig_ the snowy owl: popular animals that normally live in zoos or in the wild can increasingly be found in private households. With a few exceptions, you are allowed to keep exotic animals of all kinds as pets in Germany.
 
-![The keeping of snakes is permitted. Exceptions are dangerous snakes, which must be reported.](images/pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
+![The keeping of snakes is permitted. Exceptions are dangerous snakes, which must be reported.](pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
 
 You may keep snakes subject to legal requirements, but you must report dangerous specimens.
 
@@ -84,7 +84,7 @@ The environment and care your pet needs depends on the size, type and character 
 - **Sleeping area**: Animals that move freely around your home first have to get used to their new surroundings. Offer your pet a retreat that can also serve as a place to sleep.
 - **Feeding stations:** To ensure that your pet has constant access to food and drink, you should set up a fixed feeding station. This will make it easier for you to monitor your pet's eating behavior.
 
-![Pet supplies, pet food and everything you need for keeping animals can be found in pet shops.](images/random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
+![Pet supplies, pet food and everything you need for keeping animals can be found in pet shops.](random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
 
 You can find everything your pet needs in pet shops.
 
@@ -106,7 +106,7 @@ Your pet should always have access to fresh **drinking water**. This is particul
 
 You can tell whether your pet is well by its **behavior** and **appearance**. Typical signs of illness are, for example, loss of appetite, weight loss, vomiting, apathy or changes in coat. In these cases, you should visit the vet.
 
-![Dogs need exercise](images/cristian-castillo-73pyV0JJOmE-unsplash.jpg)
+![Dogs need exercise](cristian-castillo-73pyV0JJOmE-unsplash.jpg)
 
 Dogs need enough exercise every day.
 
@@ -148,7 +148,7 @@ Just like us humans, animals sometimes fall ill, but they often hide it from us.
 
 When you take in an animal, you should go to the doctor for an initial **health check**. Regular **vaccinations** and **worming** are also necessary.
 
-![A dog is examined by a vet in order to detect diseases at an early stage.](images/pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
+![A dog is examined by a vet in order to detect diseases at an early stage.](pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
 
 Preventive care is the be-all and end-all to give your pet a long life.
 
@@ -184,7 +184,7 @@ For children, the question of whether or not they want a pet is easy to answer. 
 
 If children are the main reason for wanting a pet, parents often opt for an **easy-care small animal**. However, rabbits, guinea pigs or hamsters hardly satisfy children's desire for closeness and cuddles. Quite the opposite: they are usually shy and mucking out requires a lot of work. This is why rodents are particularly suitable for children who enjoy observing and caring for animals and are able to give them their space.
 
-![Children cuddle rabbits.](images/pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
+![Children cuddle rabbits.](pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
 
 It is important for children to learn to respect the animal's boundaries.
 

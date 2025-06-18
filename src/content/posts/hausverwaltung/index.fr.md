@@ -17,7 +17,7 @@ Dans cet article, vous découvrirez les points à prendre en compte pour la gest
 
 La gestion immobilière consiste principalement à gérer des unités locatives individuelles. En ce sens, une gérance immobilière est une entreprise qui s'occupe de la **gestion de maisons d'habitation louées, d'appartements en copropriété et de biens immobiliers commerciaux**. Elle ne doit _pas_ nécessairement être propriétaire de ces biens immobiliers.
 
-![Location de biens immobiliers](https://seatable.io/wp-content/uploads/2023/11/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
+![Location de biens immobiliers](tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
 
 En tant que propriétaire, vous devez vous occuper de la gestion et de la location de vos biens immobiliers.
 
@@ -41,7 +41,7 @@ Dans ce cas, vous devriez vous demander si les **coûts d'une gestion immobiliè
 
 Parfois, vous ne pouvez pas vous passer d'une gestion immobilière professionnelle et vous n'avez pas la possibilité de gérer vous-même toutes les affaires concernant vos biens immobiliers. En effet, lorsque vous achetez un **appartement en copropriété**, vous achetez souvent des parts de la propriété commune (comme les espaces verts, la cage d'escalier et le toit), qui appartient à l'ensemble de **la copropriété** et doit être gérée par un gestionnaire immobilier.
 
-![Gestion immobilière pour les communautés de propriétaires](https://seatable.io/wp-content/uploads/2021/05/house-1353389_640-e1620395214642.jpg)
+![Gestion immobilière pour les communautés de propriétaires](house-1353389_640-e1620395214642.jpg)
 
 Dans ce cas, la gestion de l'immeuble prend également en charge l'entretien des espaces verts, par exemple.
 
@@ -83,7 +83,7 @@ Les tâches d'une gérance immobilière sont régies par la loi sur la copropri�
 - Gestion des plaintes
 - Communication avec les autorités
 
-![Tâches de la gestion immobilière](https://seatable.io/wp-content/uploads/2023/11/towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
+![Tâches de la gestion immobilière](towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
 
 Les tâches de la gestion immobilière vont bien au-delà du contrôle des revenus locatifs.
 
@@ -107,7 +107,7 @@ Pour pouvoir vérifier à tout moment si vos locataires ont payé leur loyer à 
 
 En tant que bailleur, vous devez vous occuper des réparations, des mesures de modernisation et des travaux d'entretien. Pour garder une vue d'ensemble, vous devriez toujours documenter précisément les mesures urgentes et régulières. Pour ce faire, enregistrez les ordres, les dates de remise en état et les factures dans un tableau. Vos locataires dépendent d'une gestion immobilière qui coordonne de manière fiable les prestataires de services afin que les choses importantes, comme un robinet cassé, soient réparées immédiatement.
 
-![Tâches techniques de la gestion immobilière](https://seatable.io/wp-content/uploads/2023/11/pexels-anil-karakaya-6419128.jpg)
+![Tâches techniques de la gestion immobilière](pexels-anil-karakaya-6419128.jpg)
 
 Si vous possédez plusieurs biens immobiliers, la coordination des artisans et des remises en état peut prendre beaucoup de temps.
 
@@ -124,8 +124,8 @@ Un **logiciel de gestion immobilière** doit être performant. Posez-vous les qu
 
 Le [modèle de gestion immobilière]({{< relref "templates/real-estate/property-management" >}}) SeaTable vous permet de gérer facilement toutes ces questions relatives à vos biens immobiliers. Enregistrez facilement les documents contractuels, les factures, les protocoles de transfert, les plans et les photos dans votre base de données SeaTable.
 
-![Saisissez les photos et les données de vos biens immobiliers](https://seatable.io/wp-content/uploads/2023/11/steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
+![Saisissez les photos et les données de vos biens immobiliers](steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
 
 Une base de données vous permet de saisir les photos et les points forts de vos biens immobiliers (par exemple, une cuisine entièrement équipée, une terrasse).
 
-[Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) pour utiliser le modèle et organiser efficacement vos données. Créez de manière flexible la structure de tableau dont vous avez besoin pour la gestion de l'immeuble, afin de garder une vue d'ensemble de toutes les données et de réduire autant que possible votre charge administrative.
+[Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) pour utiliser le modèle et organiser efficacement vos données. Créez de manière flexible la structure de tableau dont vous avez besoin pour la gestion de l'immeuble, afin de garder une vue d'ensemble de toutes les données et de réduire autant que possible votre charge administrative.

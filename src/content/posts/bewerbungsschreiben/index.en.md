@@ -32,7 +32,7 @@ With a cover letter, you have the opportunity to present yourself confidently an
 
 Before you start writing, you should create an **information sheet**. After all, you need information about the company, the requirements and of course an overview of your own qualifications so that you can tailor your application letter to the job advertisement.
 
-![Use your computer to research the Internet to gather information about the company.](images/pexels-pixabay-39284-1-e1713177205489.jpg)
+![Use your computer to research the Internet to gather information about the company.](pexels-pixabay-39284-1-e1713177205489.jpg)
 
 Use various sources for your research.
 
@@ -49,7 +49,7 @@ A structured approach will help you to work out relevant information and not wri
 
 These questions should reveal what makes up **your personality** and what **sets** you apart from others. To check the relevance of the insights gained above, it helps to present them in a table.
 
-![Various hard and soft skills are relevant for a cover letter.](images/Bewerbungsschreiben_01-e1713776827650-711x549.png)
+![Various hard and soft skills are relevant for a cover letter.](Bewerbungsschreiben_01-e1713776827650-711x549.png)
 
 Combine the soft skills you have learned with the corresponding hard skills.
 
@@ -71,7 +71,7 @@ If you would like to use SeaTable for your application planner, simply [register
 
 Before you start formulating your application, it is important to have a **uniform design** for all your application documents. This will not only make your application look more coherent at first glance, but you will also convey that you **neat** and **clean** work.
 
-![Choose a suitable font, line spacing and font size.](images/markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
+![Choose a suitable font, line spacing and font size.](markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
 
 Look for a suitable font and pay attention to font size, line spacing and margins.
 
@@ -89,7 +89,7 @@ Of course, you can also apply these formalities to other application documents i
 
 The structure of an application letter always looks the same and can be divided into six sections.
 
-![The perfect structure for your cover letter consists of six steps.](images/Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
+![The perfect structure for your cover letter consists of six steps.](Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
 
 Follow the structure and fill it with content.
 
@@ -113,7 +113,7 @@ This is followed by the **subject line** with two to three blank lines. You can 
 
 Before you have the opportunity to shine with your qualifications, you need to attract the attention of your contact person. Address them **personally** by name and only use the impersonal terms _ladies and gentlemen_ in an emergency if you don't know anyone by name. For more conservative companies, choose a classic **form of address** such as _Dear Ms. XY_ to introduce your request politely. For start-ups, you can also try an informal form of address such as _Hello dear marketing team, dear Ms. XY_.
 
-![Write politely, because you want to sell yourself and your skills well in your cover letter.](images/monitor-376211_640-e1713177612297.jpg)
+![Write politely, because you want to sell yourself and your skills well in your cover letter.](monitor-376211_640-e1713177612297.jpg)
 
 Write politely to create a good first impression with your counterpart.
 
@@ -139,7 +139,7 @@ We've saved the best for last. Here you can enter your **salary expectations** o
 
 The **final sentence** is particularly important, as this is what the recruiter will remember the longest. It is therefore important that you radiate **self-confidence** and make it clear once again that you expect positive feedback. To achieve this, you should avoid the **subjunctive** mood. A conclusion such as " _I would be delighted to be invited to an interview_ " comes across as reserved, as if you are unsure of your own qualifications for the position.
 
-![The aim of the application letter is to be invited to an interview.](images/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash-e1713178160395.jpg)
+![The aim of the application letter is to be invited to an interview.](christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash-e1713178160395.jpg)
 
 Keep your goal in mind: Go to the interview with self-confidence.
 
@@ -165,7 +165,7 @@ The classic application letter, as explained above, can vary in certain cases. D
 
 If you would like to apply as part of a school or university internship, recruiters require **no or few professional qualifications**. Instead, you will score points with suitable **soft skills and interests** that you pursue in certain subjects, vacation jobs, your free time or as part of your own projects and voluntary work.
 
-![Soft skills can be demonstrated through voluntary work.](images/ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
+![Soft skills can be demonstrated through voluntary work.](ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
 
 Demonstrate your social commitment by volunteering.
 
@@ -187,7 +187,7 @@ Is the content of your application ready and you want to put the finishing touch
 
 Pay attention to your writing style and the wording you use.
 
-![You can enhance your cover letter by paying attention to the dos and don'ts.](images/Bewerbungsschreiben_02-e1713776597515-711x575.png)
+![You can enhance your cover letter by paying attention to the dos and don'ts.](Bewerbungsschreiben_02-e1713776597515-711x575.png)
 
 Make sure you use appropriate wording.
 

@@ -297,7 +297,7 @@ Comme il ne s'agit pas d'un tutoriel de conception, je me limite à des structur
 Créez un nouveau répertoire pour votre projet et copiez ces fichiers HTML.  
 Lorsque vous ouvrez les fichiers HTML avec votre navigateur, la page d'accueil, par exemple, devrait ressembler à ceci.
 
-![Apparence de vos pages HTML pour votre application SeaTable avec son propre front-end](images/html-struktur-eigenes-frontend-seatable-entwickeln.png)
+![Apparence de vos pages HTML pour votre application SeaTable avec son propre front-end](html-struktur-eigenes-frontend-seatable-entwickeln.png)
 
 ## Étape 2 : Connexion à SeaTable via l'API PHP de SeaTable
 

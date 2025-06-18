@@ -14,7 +14,7 @@ Les **dettes Klarna** sont abondamment thématisées dans les médias sociaux et
 
 Dans cet article de blog, nous allons nous pencher en détail sur le phénomène des dettes Klarna et vous présenter **des conseils** et des **stratégies** pratiques pour vous sortir de vos difficultés financières.
 
-![Achats en ligne : un petit chariot à côté d'un ordinateur portable](images/pexels-karolina-grabowska-5632397-711x474.jpg)
+![Achats en ligne : un petit chariot à côté d'un ordinateur portable](pexels-karolina-grabowska-5632397-711x474.jpg)
 
 Les achats en ligne sont devenus la méthode d'achat préférée de nombreux consommateurs.
 
@@ -24,7 +24,7 @@ Klarna est un **prestataire de services financiers suédois** qui propose des se
 
 Avec son slogan " _Achetez maintenant. Payez plus tard._ Klarna a atteint une énorme portée et encourage ainsi de nombreux consommateurs à effectuer des achats dans des boutiques en ligne sans devoir payer immédiatement. De leur côté, les gérants de boutiques en ligne ont l'avantage que Klarna prend en charge les **défauts de paiement** des acheteurs en retard, de sorte que les e-commerçants reçoivent leur argent quoi qu'il arrive.
 
-![La dette de Klarna : Achats en ligne sur smartphone](images/pexels-cottonbro-studio-5076511-711x474.jpg)
+![La dette de Klarna : Achats en ligne sur smartphone](pexels-cottonbro-studio-5076511-711x474.jpg)
 
 La possibilité d'acheter en plusieurs fois peut vous inciter à acheter plus que ce que vous pouvez réellement vous permettre.
 
@@ -40,7 +40,7 @@ Si vous ne disposez pas de suffisamment de liquidités à la date d'échéance, 
 
 L'achat en plusieurs fois Klarna est utilisé par un éventail varié de personnes, dont, selon une [enquête](https://de.statista.com/infografik/29303/anteil-der-befragten-verschiedener-generationen-die-klarna-bnpl-nutzen/), surtout les jeunes de la **génération Z** et **les millennials**. Ce groupe d'âge apprécie la commodité et la flexibilité des services de paiement Klarna, notamment la possibilité de payer plus tard. Sous le hashtag _#KlarnaSchulden_, de nombreux jeunes partagent leurs dettes Klarna sur les médias sociaux.
 
-![Graphique des utilisateurs de Klarna répartis par génération](images/Klarna-Schulden-711x533.png)
+![Graphique des utilisateurs de Klarna répartis par génération](Klarna-Schulden-711x533.png)
 
 Répartition des utilisateurs de l'achat à tempérament Klarna par génération
 
@@ -58,7 +58,7 @@ Les dettes Klarna ne comportent pas seulement le fardeau immédiat des **obligat
 
 En outre, les dettes Klarna peuvent rendre les futurs **achats en ligne plus difficiles**. Outre le blocage de votre compte Klarna, d'autres prestataires de services peuvent également vous refuser l'accès jusqu'à ce que vos dettes soient réglées. Un aspect à ne pas négliger est également le **stress psychologique** qu'engendrent les dettes. La pression financière constante peut entraîner du stress, de l'anxiété et des soucis qui affectent considérablement votre qualité de vie et votre bien-être.
 
-![Porte-monnaie De l'argent posé devant une tirelire](images/pexels-katie-harp-12591342-711x472.jpg)
+![Porte-monnaie De l'argent posé devant une tirelire](pexels-katie-harp-12591342-711x472.jpg)
 
 En planifiant et en hiérarchisant consciemment vos dépenses, vous pouvez garder le contrôle de vos finances.
 
@@ -73,7 +73,7 @@ Confrontés aux dettes Klarna, beaucoup se sentent impuissants et dépassés. Po
 
 Si vous vous sentez complètement dépassé et que vous n'avez pas une vision claire de vos finances, n'hésitez pas à faire appel à une aide professionnelle. Un **conseiller en matière de dettes** peut vous aider à élaborer un plan pour reprendre le contrôle de vos finances et gérer les dettes Klarna à long terme.
 
-![Les dettes de Klarna : Un homme est assis en face d'un conseiller en matière de dettes.](images/pexels-rdne-stock-project-7821681-711x474.jpg)
+![Les dettes de Klarna : Un homme est assis en face d'un conseiller en matière de dettes.](pexels-rdne-stock-project-7821681-711x474.jpg)
 
 Les conseillers en matière de dettes peuvent négocier avec les créanciers afin de convenir de plans de paiement.
 
@@ -83,7 +83,7 @@ Pour éviter de vous endetter à l'avenir et établir une base financière solid
 
 Il est également conseillé de ne pas trop se laisser influencer par les promesses publicitaires et les offres alléchantes. Souvent, on fait la promotion de produits ou de services qui ne sont en fait pas nécessaires. Prenez **des décisions rationnelles** et n'achetez que ce dont vous avez vraiment besoin. En outre, la constitution d'une **épargne de secours** pour les dépenses imprévues peut augmenter votre sécurité financière et vous éviter de devoir recourir à des crédits ou à des paiements échelonnés en cas de coup dur.
 
-![iPhone avec application de calculatrice pour les dettes Klarna](images/pexels-leeloo-the-first-8970691-711x508.jpg)
+![iPhone avec application de calculatrice pour les dettes Klarna](pexels-leeloo-the-first-8970691-711x508.jpg)
 
 Une planification budgétaire minutieuse est essentielle pour garantir la sécurité financière.
 
@@ -97,4 +97,4 @@ Avec le [planificateur de budget]({{< relref "templates/finance/budget-book" >}}
 
 Grâce au **calendrier** pratique, vous pouvez également garder un œil sur la date d'échéance de certaines dépenses afin de ne pas manquer une échéance de paiement et de ne pas être surpris par des prélèvements imprévus.
 
-Dites adieu à vos dettes Klarna en gérant efficacement vos finances et en gardant un œil sur vos dépenses. Pour cela, il vous suffit de [vous inscrire gratuitement sur SeaTable](https://seatable.io/fr/enregistrement/), de créer une nouvelle base de données à l'aide du modèle et d'y ajouter ensuite vos propres données.
+Dites adieu à vos dettes Klarna en gérant efficacement vos finances et en gardant un œil sur vos dépenses. Pour cela, il vous suffit de [vous inscrire gratuitement sur SeaTable]({{< relref "pages/registration" >}}), de créer une nouvelle base de données à l'aide du modèle et d'y ajouter ensuite vos propres données.

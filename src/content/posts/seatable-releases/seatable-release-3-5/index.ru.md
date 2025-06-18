@@ -18,11 +18,11 @@ seo:
 
 ## Формулы в первом столбце
 
-SeaTable 3.5 обеспечивает большую гибкость в первом столбце таблицы: До сих пор там допускались только [типы столбцов](https://seatable.io/ru/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) текст, число, дата, одиночный выбор и автоматический номер. [Тип столбца формула](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/), который теперь также поддерживается, позволяет "вычислить" собственную ссылку на строку. Поскольку [первый столбец](https://seatable.io/ru/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) таблицы не может быть скрыт, а также всегда отображается в диалоге ссылок, он особенно подходит для этой цели.
+SeaTable 3.5 обеспечивает большую гибкость в первом столбце таблицы: До сих пор там допускались только [типы столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) текст, число, дата, одиночный выбор и автоматический номер. [Тип столбца формула](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/), который теперь также поддерживается, позволяет "вычислить" собственную ссылку на строку. Поскольку [первый столбец](https://seatable.io/ru/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) таблицы не может быть скрыт, а также всегда отображается в диалоге ссылок, он особенно подходит для этой цели.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
-![SeaTable 3.5 - Первый столбец поддерживает формулы](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-FirstColumn.png)
+![SeaTable 3.5 - Первый столбец поддерживает формулы](SeaTable-3.5-FirstColumn.png)
 
 ## Два дополнительных действия для периодических автоматизаций
 
@@ -36,7 +36,7 @@ Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften 
 
 С помощью [кнопки](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/) можно выполнить одно или несколько действий одним щелчком мыши, например, [отправить письмо](https://seatable.io/ru/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/), а затем отредактировать строку. Невозможно было связать выполнение действия с условием. В SeaTable 3.5 мы устранили этот функциональный пробел.
 
-![SeaTable 3.5 - Действия кнопок могут быть связаны с правилами](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-ConditionalExecution.png)
+![SeaTable 3.5 - Действия кнопок могут быть связаны с правилами](SeaTable-3.5-ConditionalExecution.png)
 
 Новое условное выполнение позволяет определить правило для каждого действия кнопки. Правило может состоять из одного или нескольких условий. Только если правило выполнено, действие будет выполнено при нажатии на кнопку. Если условие не выполняется, SeaTable переходит к следующему действию и отображает невыполненное действие в сообщении.
 
@@ -48,7 +48,7 @@ Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften 
 
 Тип столбца Формула для связей позволяет оценивать связанные записи. Всего доступно пять методов оценки: [Findmin](https://seatable.io/ru/docs/verknuepfungen/die-findmin-formel/), [Findmax](https://seatable.io/ru/docs/verknuepfungen/die-findmax-formel/), [Rollup](https://seatable.io/ru/docs/verknuepfungen/die-rollup-formel/), [Countlinks](https://seatable.io/ru/docs/verknuepfungen/die-countlinks-formel/) и [Lookup](https://seatable.io/ru/docs/verknuepfungen/die-lookup-funktion/). Формула Lookup позволяет отображать дополнительные значения из уже связанных строк в текущей таблице. Таким образом, вы можете считывать и отображать столько информации из связанной таблицы, сколько захотите.
 
-![SeaTable 3.5 - Колонки формул ссылок поддерживают условный поиск](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-ConditionalLookup.png)
+![SeaTable 3.5 - Колонки формул ссылок поддерживают условный поиск](SeaTable-3.5-ConditionalLookup.png)
 
 В SeaTable 3.5 мы улучшили формулу поиска и реализовали функцию, которая уже некоторое время существовала в других формулах: условная оценка. Если для поиска активирована условная оценка, то отображаются только те значения, которые удовлетворяют заданному условию (условиям). Таким образом, вы получаете точную информацию, которая вам нужна, из связанной таблицы.
 
@@ -66,7 +66,7 @@ Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften 
 
 SeaTable предоставляет 24 цвета для опций выбора, кнопок и условного форматирования. Чтобы удовлетворить индивидуальные пожелания или требования CI, SeaTable 3.5 позволяет определить любое количество дополнительных цветов в каждой базе. У самостоятельных хостеров также есть возможность глобального определения отдельных цветов в SeaTable через конфигурационный файл.
 
-![SeaTable 3.5 - Новый макет для деталей строк](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-RowDetails.png)
+![SeaTable 3.5 - Новый макет для деталей строк](SeaTable-3.5-RowDetails.png)
 
 В новой версии одноколоночное расположение сведений о строках заменено на двухколоночное. Это делает отображение короче и понятнее, особенно для таблиц с большим количеством столбцов. Журнал базы, в котором можно отслеживать все изменения в базе, также приобрел новый вид. Если вы нажмете на Журнал в истории базы {{< seatable-icon icon="dtable-icon-history" >}}, откроется отдельное окно с четкими записями журнала.
 

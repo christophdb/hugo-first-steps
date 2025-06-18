@@ -18,7 +18,7 @@ Here you can find out what you should bear in mind when organizing your Gender R
 
 The Gender Reveal Party focuses on the **unveiling of the** baby's **gender**. The parents-to-be celebrate the imminent birth of the child together with friends and relatives - with a lot of fanfare. The decorations, food and games are planned down to the smallest detail to heighten the anticipation of the gender reveal.
 
-![Get your guests in the mood with a blackboard with the question 'he or she?](images/frederick-medina-hGLVkyNoYpQ-unsplash-e1707224889549-711x924.jpg)
+![Get your guests in the mood with a blackboard with the question 'he or she?](frederick-medina-hGLVkyNoYpQ-unsplash-e1707224889549-711x924.jpg)
 
 The whole celebration revolves around this question.
 
@@ -40,7 +40,7 @@ If the parents would like to find out the gender of their child in peace, they c
 
 Would you like to throw a gender reveal party for yourself or your friends, but don't know what all needs to be organized? Here you will find an overview of the tasks that await you on the way to a successful event.
 
-![Here you can find out how to organize your Gender Reveal Party in 7 steps.](images/Gender-Reveal-Party-organisieren-e1706793584661-711x939.jpg)
+![Here you can find out how to organize your Gender Reveal Party in 7 steps.](Gender-Reveal-Party-organisieren-e1706793584661-711x939.jpg)
 
 With the right organization, your celebration will be an unforgettable event.
 
@@ -52,7 +52,7 @@ However, it is also possible to combine the gender reveal with the **baby shower
 
 Also consider the availability of your guests. So that as many people as possible can come, it is best to hold the party at a **weekend**.
 
-![The Gender Reveal Party can take place as soon as the doctor has confirmed the sex of the child with an ultrasound image.](images/pexels-amina-filkins-5427991-e1707224569403-711x1044.jpg)
+![The Gender Reveal Party can take place as soon as the doctor has confirmed the sex of the child with an ultrasound image.](pexels-amina-filkins-5427991-e1707224569403-711x1044.jpg)
 
 Make sure that you do not plan the celebration too close to the birth.
 
@@ -74,7 +74,7 @@ Send out the invitations early and set a **deadline for accepting or canceling**
 
 The decorations are the be-all and end-all of the celebration. This is because the crucial clue to the baby's gender is traditionally hidden in one of the decorative pieces. The entire decoration is based on a **color scheme** of your choice. This can either be classic **pink** for a girl and **light blue** for a boy or other colors that break the stereotype. The only important thing is that everyone knows which color stands for which gender before the unveiling.
 
-![The balloon arch is kept in plain colors.](images/tony-luginsland-nqk6s5Zkip8-unsplash-scaled-e1707225176373-711x918.jpg)
+![The balloon arch is kept in plain colors.](tony-luginsland-nqk6s5Zkip8-unsplash-scaled-e1707225176373-711x918.jpg)
 
 Decide on a suitable color combination.
 
@@ -84,7 +84,7 @@ Decide on a suitable color combination.
 
 Of course, food to match the decorations should not be missing. If you decide to invite guests for coffee and cake, a well-stocked **Sweet Table** a must. The color scheme you choose is reflected in the desserts. Cakes, cookies or cupcakes with colored icing invite you to snack.
 
-![Present the food at your gender reveal party in an appealing way.](images/pexels-fu-zhichao-587741-e1707223367993-711x597.jpg)
+![Present the food at your gender reveal party in an appealing way.](pexels-fu-zhichao-587741-e1707223367993-711x597.jpg)
 
 Offer a delicious selection of dishes.
 
@@ -110,7 +110,7 @@ The moment everyone has been waiting for has finally arrived. Will it be a boy, 
 
 Balloons are very popular. One option is to fill a black balloon with glitter in the color chosen for the gender and then blow it up. The parents-to-be can pop the surprise with a pin or a dart.
 
-![Use a large black balloon to keep the baby's gender a secret until the last moment.](images/pexels-tima-miroshnichenko-6461822-e1707224120257-711x504.jpg)
+![Use a large black balloon to keep the baby's gender a secret until the last moment.](pexels-tima-miroshnichenko-6461822-e1707224120257-711x504.jpg)
 
 The sex of the baby is revealed with a bang.
 
@@ -126,7 +126,7 @@ It is especially nice for the guests if they are included in the announcement of
 
 The classic gender reveal is the **Cake**. Order or bake a multi-tiered cake with a colored cream filling or colored chocolate drops, depending on the gender. The outside of the cake matches the color scheme of the decoration. The gender of the child is only revealed when the cake is cut.
 
-![A gender reveal cake reveals the gender of the baby.](images/pexels-tima-miroshnichenko-6461826-711x474.jpg)
+![A gender reveal cake reveals the gender of the baby.](pexels-tima-miroshnichenko-6461826-711x474.jpg)
 
 Enjoy a delicious surprise.
 
@@ -134,7 +134,7 @@ Enjoy a delicious surprise.
 
 A gender reveal party is not just a unique event for the parents-to-be. Capture the day with photos so that it will be remembered forever. The best way to do this is to use a **Photographers** who will take pictures of the many happy moments. Alternatively, guests can get active themselves. Hand out **Disposable or instant cameras** to those present, allowing them to capture the day in all its facets as they please.
 
-![Assign someone to take photos during the Gender Reveal Party.](images/pexels-nicole-michalou-5775047-e1707226227633-711x671.jpg)
+![Assign someone to take photos during the Gender Reveal Party.](pexels-nicole-michalou-5775047-e1707226227633-711x671.jpg)
 
 Capture the celebration in pictures.
 
@@ -148,7 +148,7 @@ Would you like to celebrate your pregnancy with friends and family, but a gender
 
 Let it rain presents! Traditionally, this **Baby shower** organized by friends of the expectant mother and takes place with female acquaintances and relatives. The guests bring **Gifts** for the parents-to-be and the baby.
 
-![Soft toys, brushes or washcloths are useful gifts for parents-to-be.](images/elliot-verhaeren-sMjqcAOretU-unsplash-e1707226580159-711x575.jpg)
+![Soft toys, brushes or washcloths are useful gifts for parents-to-be.](elliot-verhaeren-sMjqcAOretU-unsplash-e1707226580159-711x575.jpg)
 
 Give gifts that are useful for the first time with the child.
 

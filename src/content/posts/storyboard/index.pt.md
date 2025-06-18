@@ -11,7 +11,7 @@ seo:
 
 Quer esteja a criar um vídeo de imagem para a sua empresa, uma curta-metragem para um festival de cinema ou o próximo êxito de bilheteira de Hollywood, a criação de um **storyboard** pode fazer toda a diferença. Um storyboard não é apenas uma ferramenta para estruturar as suas **ideias criativas**, mas também para garantir um **processo de produção sem problemas**. Este artigo explica a importância e as vantagens dos storyboards para projectos cinematográficos de todos os tipos e apresenta um modelo de storyboard gratuito para o ajudar a dar vida à sua visão.
 
-![O realizador aponta o dedo para o storyboard](images/dix-sept-xEKgWKmUk5A-unsplash-711x463.jpg)
+![O realizador aponta o dedo para o storyboard](dix-sept-xEKgWKmUk5A-unsplash-711x463.jpg)
 
 Antes de um filme ser rodado, tem de ser bem planeado.
 
@@ -21,7 +21,7 @@ Um storyboard é a **representação gráfica** ou o **esboço** de uma históri
 
 Os estilos de desenho podem variar consideravelmente. Alguns desenhadores de storyboards criam ilustrações extremamente elaboradas, enquanto outros preferem limitar-se a simples desenhos de bonecos.
 
-![Guião desenhado à mão](images/dix-sept-idiRDLFPH6A-unsplash-711x936.jpg)
+![Guião desenhado à mão](dix-sept-idiRDLFPH6A-unsplash-711x936.jpg)
 
 Um exemplo de representação visual de um storyboard
 
@@ -40,7 +40,7 @@ Um storyboard tem a grande vantagem de visualizar **sequências de ação comple
 
 À medida que aperfeiçoa a sua história e acrescenta mais detalhes durante o processo de planeamento, pode utilizar o storyboard para **reconhecer os erros numa fase inicial**. Isto poupa-lhe muito esforço durante a **filmagem** e **a edição do vídeo**. Determine o maior número possível de pormenores com antecedência, como o ritmo da história, para ter a cabeça limpa para o essencial durante os dias extenuantes de filmagem.
 
-![Planeamento visual de um filme](images/matt-popovich-pJwWrP-OIfk-unsplash-711x457.jpg)
+![Planeamento visual de um filme](matt-popovich-pJwWrP-OIfk-unsplash-711x457.jpg)
 
 ## O processo de realização do filme
 
@@ -56,7 +56,7 @@ Só se deve começar a **filmar** quando o guião e o storyboard estiverem concl
 
 Quando as filmagens estiverem concluídas, o passo seguinte é a transição para a **edição de vídeo**. Depois de o material ter sido visto, selecionado e editado, pode obter um primeiro **feedback** do seu ambiente. Verifique se o seu filme é compreensível e tangível para quem está de fora. Pode então utilizar o feedback para **finalizar** o seu **filme**.
 
-![Gravação de um filme em 8 passos](images/Film-drehen-in-8-Schritten-711x1264.png)
+![Gravação de um filme em 8 passos](Film-drehen-in-8-Schritten-711x1264.png)
 
 O storyboard faz parte da fase de planeamento - a filmagem só tem lugar depois.
 
@@ -68,7 +68,7 @@ Ao criar o seu storyboard, certifique-se também de que **numera** as **secçõe
 
 Isto abrange os pontos mais importantes. No entanto, também pode acrescentar outras informações, se necessário, como **papéis** envolvidos, **adereços** ou **instruções** de edição.
 
-![Desenhos de figuras de palito em estilo cómico](images/nasim-keshmiri-bNjYwZrkJ3A-unsplash-711x474.jpg)
+![Desenhos de figuras de palito em estilo cómico](nasim-keshmiri-bNjYwZrkJ3A-unsplash-711x474.jpg)
 
 Não é necessário ser um grande artista para criar um bom storyboard.
 

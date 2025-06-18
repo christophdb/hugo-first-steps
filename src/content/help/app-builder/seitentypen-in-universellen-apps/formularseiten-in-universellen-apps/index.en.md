@@ -1,5 +1,5 @@
 ---
-title: 'Formularseiten in Universellen Apps'
+title: 'Form pages in universal apps'
 date: 2023-12-04
 lastmod: '2025-02-26'
 categories:
@@ -8,52 +8,52 @@ author: 'kgr'
 url: '/help/formularseiten-in-universellen-apps'
 ---
 
-Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, welche die Benutzer im Anschluss einreichen können. Formularseiten in Universellen Apps eignen sich hervorragend, um Daten von vielen verschiedenen Nutzern erfassen zu lassen. Ein möglicher Anwendungsfall ist die [Arbeitszeiterfassung Ihrer Mitarbeiter](https://seatable.io/arbeitszeiterfassung/).
+You can use this page type to build different **forms** that users can then submit. Form pages in universal apps are ideal for collecting data from many different users. One possible use case is [recording your employees' working hours]({{< relref "posts/arbeitszeiterfassung" >}}).
 
-![Webformular zur Erfassung der Arbeitszeit Ihrer Mitarbeiter](images/webformular-working-time.png)
+![Web form for recording your employees' working hours](images/webformular-working-time.png)
 
 {{< warning  headline="Tipp" >}}
 
-[Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}}) gibt es nicht nur in der Universellen App, sondern auch direkt in der Base.
+[Web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) are not only available in the universal app, but also directly in the base.
 
 {{< /warning >}}
 
-## Seiteneinstellungen ändern
+## Change Page Settings
 
-Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navigation auf das entsprechende {{< seatable-icon icon="dtable-icon-set-up" >}} **Zahnrad-Symbol**.
+If you want to change the settings of a page, click on the corresponding {{< seatable-icon icon="dtable-icon-set-up" >}} **gear icon** in the navigation.
 
-![Einstellungen der Formularseite ändern](images/Einstellungen-der-Formularseite-aendern.png)
+![Change form page settings](images/Einstellungen-der-Formularseite-aendern.png)
 
-## Formulare erstellen
+## Create Forms
 
-Über die **Seiteneinstellungen**, die Sie vielleicht schon aus dem [Webformular-Editor]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}) kennen, können Sie verschiedene **Elemente** und **Felder** per Drag-and-Drop zum Webformular hinzufügen. Neben den **Tabellenfeldern**, die den Spalten der ausgewählten Tabelle entsprechen, können Sie auch **horizontale Linien** und **Anmerkungen** hinzufügen.
+Through the **page settings**, which you may already know from the [web form editor]({{< relref "help/base-editor/webformulare/konfigurationsmoeglichkeiten-eines-webformulars" >}}), you can add various **elements** and **fields** to the web form via drag-and-drop. In addition to the **table fields** that correspond to the columns of the selected table, you can also add **horizontal lines** and **annotations**.
 
-![Seiteneinstellungen der Formularseite](images/Seiteneinstellungen-der-Formularseite.png)
+![Page settings of the form page](images/Seiteneinstellungen-der-Formularseite.png)
 
-### Feldeinstellungen
+### Field Settings
 
-Jedes Feld verfügt zudem über individuelle **Feldeinstellungen**, bei denen Sie einen vom Spaltennamen abweichenden **Anzeigenamen** und einen **Hilfetext** im Formular hinzufügen können. Hier können Sie auch einstellen, ob ein Feld ein erforderliches **Pflichtfeld** ist, mit einem **Standardwert** vorbefüllt sein soll oder nur unter bestimmten **Bedingungen** angezeigt wird.
+Each field also has individual **field settings** where you can add a **display name** that differs from the column name and a **help text** in the form. Here you can also set whether a field is a required **mandatory field**, should be pre-filled with a **default value**, or is only displayed under certain **conditions**.
 
-![Feldeinstellungen der Formularseite](images/Feldeinstellungen-der-Formularseite.png)
+![Field settings of the form page](images/Feldeinstellungen-der-Formularseite.png)
 
-Wenn Sie die **Reihenfolge** der Felder im Formular verändern möchten, können Sie ein Feld am {{< seatable-icon icon="dtable-icon-drag" >}} **Sechs-Punkte-Symbol** greifen und verschieben. Per Klick auf das {{< seatable-icon icon="dtable-icon-delete" >}} **Papierkorb-Symbol** entfernen Sie ein Feld aus dem Formular.
+If you want to change the **order** of the fields in the form, you can grab and move a field using the {{< seatable-icon icon="dtable-icon-drag" >}} **six-dot icon**. By clicking the {{< seatable-icon icon="dtable-icon-delete" >}} **trash can icon**, you remove a field from the form.
 
-![Feld auf der Formularseite einer Universellen App](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
+![Field on the form page of a Universal App](images/Feld-auf-der-Formularseite-einer-Universellen-App.png)
 
-### Weitere Formularseiten-Einstellungen
+### Additional Form Page Settings
 
-Weiter unten können Sie eine **Farbe für die Hilfetexte** festlegen sowie eine **Nachricht**, die den Nutzern nach Einreichung des Formulars angezeigt wird.
+Further down, you can set a **color for the help texts** as well as a **message** that is displayed to users after submitting the form.
 
-![Weitere Einstellungen auf Formularseiten](images/Weitere-Einstellungen-auf-Formularseiten.png)
+![Additional settings on form pages](images/Weitere-Einstellungen-auf-Formularseiten.png)
 
-Des Weiteren können Sie unterbinden, dass Formulare mit bereits existierenden Datensätzen eingereicht werden, indem Sie das **Hinzufügen von Duplikaten verhindern**. Aktivieren Sie dazu den entsprechenden Regler und wählen Sie die Spalten aus, in denen die Werte übereinstimmen müssen, damit ein Formular als Duplikat gilt. Wenn ein Nutzer daraufhin identische Daten eingibt, wird das Einreichen des Formulars blockiert.
+You can also prevent forms with already existing records from being submitted by **preventing the addition of duplicates**. To do this, activate the corresponding toggle and select the columns in which the values must match for a form to be considered a duplicate. If a user then enters identical data, form submission will be blocked.
 
-Nicht zuletzt können Sie die Nutzer nach Einreichung des Formulars auf eine andere Seite der App oder eine andere Webseite weiterleiten. Klicken Sie dazu auf **Weiterleitung aktivieren** und wählen Sie den entsprechenden Hyperlink aus. Sie können ebenso einstellen, ob der Link in einem neuen oder im aktuellen Tab geöffnet werden soll.
+Finally, you can redirect users to another page of the app or to another website after submitting the form. To do this, click **Enable redirect** and select the appropriate hyperlink. You can also set whether the link opens in a new or the current tab.
 
-## Seitenberechtigungen
+## Page Permissions
 
-Ganz unten können Sie eingrenzen, wer die Formularseite sehen darf.
+At the very bottom, you can restrict who is allowed to see the form page.
 
-![Berechtigung für individuelle Seiten der Universellen App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
+![Permission for individual pages of the Universal App](images/Berechtigung-fuer-individuelle-Seiten-der-Universellen-App.png)
 
-Das ist die einzige [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), die Sie bei Formularseiten zur Auswahl haben – denn über Formularseiten können keine Zeilen in der Tabelle verändert oder gelöscht werden und jeder, der die Seite sehen kann, darf auch Formulare einreichen, also Zeilen hinzufügen.
+This is the only [page permission]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) you can choose for form pages – because form pages cannot be used to change or delete rows in the table, and anyone who can see the page is also allowed to submit forms, i.e., add rows.

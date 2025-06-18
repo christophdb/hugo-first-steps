@@ -16,7 +16,7 @@ Creating this unforgettable event requires careful planning. Would you like to f
 
 In this article, we not only present original ideas for the stag party, but also explain in detail what you need to consider when planning and how best to proceed.
 
-![Sign with the inscription Stag party](images/ibrahim-boran-P7z3tdMcLzk-unsplash-711x466.jpg)
+![Sign with the inscription Stag party](ibrahim-boran-P7z3tdMcLzk-unsplash-711x466.jpg)
 
 Some cultures have special traditions in connection with stag parties.
 
@@ -38,7 +38,7 @@ First of all, it is crucial to decide in advance which **friends and relatives**
 
 The **cost** of the stag party is usually split between all participants, with the bride and groom invited as guests of honor. It is therefore important to plan and agree the **budget** carefully so that you don't offend anyone or overstretch yourself financially.
 
-!["Bride to be" is written on one hand](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
+!["Bride to be" is written on one hand](ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
 
 For many, the stag party is an important rite of passage from being a bachelor to married life.
 
@@ -52,7 +52,7 @@ Organizing a stag party can be an exciting but challenging task. Between **findi
 
 These are the essential steps to ensure that the stag party is a complete success:
 
-![Checklist for a stag party](images/Checkliste-Junggesellenabschied.png)
+![Checklist for a stag party](Checkliste-Junggesellenabschied.png)
 
 You should tick off these points for the perfect stag party.
 
@@ -76,7 +76,7 @@ Spacer
 - Stuttgart
 - Leipzig
 
-![The door to a bar illuminated in orange](images/pexels-mali-219095-711x473.jpg)
+![The door to a bar illuminated in orange](pexels-mali-219095-711x473.jpg)
 
 City trips can quickly become expensive as they include accommodation, meals and activities.
 
@@ -96,7 +96,7 @@ Spacer
 - Ibiza
 - Dublin
 
-![Stag party in Las Vegas](images/pexels-camrainey-2600214-711x425.jpg)
+![Stag party in Las Vegas](pexels-camrainey-2600214-711x425.jpg)
 
 More and more stag and hen parties are taking place over an entire weekend instead of just one night.
 
@@ -116,7 +116,7 @@ Spacer
 - Flight simulator
 - Survival training
 
-![Stag party: A roller coaster](images/pexels-sandy-torchon-2229511-3973555-711x474.jpg)
+![Stag party: A roller coaster](pexels-sandy-torchon-2229511-3973555-711x474.jpg)
 
 Many theme parks offer special group discounts, making them an affordable option.
 
@@ -136,7 +136,7 @@ Spacer
 - Flotation tanks
 - Whirlpool party
 
-![Hands massaging a back](images/pexels-ian-panelo-3230236-711x538.jpg)
+![Hands massaging a back](pexels-ian-panelo-3230236-711x538.jpg)
 
 In recent years, a trend towards healthier stag parties has emerged, with activities such as yoga and wellness taking center stage.
 
@@ -156,7 +156,7 @@ Spacer
 - Kintsugi course
 - Drink-and-paint session
 
-![Kick-off with Aperol Spritz at the stag party](images/pexels-rachel-claire-4819717-711x570.jpg)
+![Kick-off with Aperol Spritz at the stag party](pexels-rachel-claire-4819717-711x570.jpg)
 
 Some opt for alternative activities during the stag party, such as cooking classes, cocktail nights or even humanitarian work.
 
@@ -168,7 +168,7 @@ A stag party can look very different. For some, a party vacation is the ultimate
 2. **Take preferences and interests into account**Take into account the personal preferences and interests of the bachelor or bachelorette to create a very special experience. Whether it's a relaxing spa break, an exciting day of adventure or an exuberant celebration - the most important thing is that the bride or groom feels at ease.
 3. **Plan special surprises:** Plan special surprises for the bride or groom during the stag party. These could be personal gifts, unexpected guests or unique experiences that will give the day a special touch and make it unforgettable.
 
-![Man holding the hand of his fiancée](images/brandon-cormier-fq8eRBLZl40-unsplash-711x430.jpg)
+![Man holding the hand of his fiancée](brandon-cormier-fq8eRBLZl40-unsplash-711x430.jpg)
 
 The stag party is often planned as a surprise for the bride or groom.
 
@@ -180,7 +180,7 @@ A stag party should be an unforgettable day full of fun and joy that everyone wi
 - Another important point is the **scheduling**. Make sure that the bride or groom has no other commitments on the day of the stag party. Early communication of the date and regular checks will ensure that there are no unexpected clashes.
 - Don't forget to keep the **memories** capture them. Especially in today's digital era, it's as easy as it is popular to document the special moments in the form of photos and videos. Hire someone from the group or perhaps even hire a professional photographer to create high-quality memories.
 
-![Pink balloons as decoration for a hen party](images/sj-38adackPTsI-unsplash-711x474.jpg)
+![Pink balloons as decoration for a hen party](sj-38adackPTsI-unsplash-711x474.jpg)
 
 Some stag parties have specific themes or colors.
 

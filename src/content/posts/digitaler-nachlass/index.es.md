@@ -18,7 +18,7 @@ La herencia digital es un tema que mucha gente descuida o suprime. Sin embargo, 
 
 Un patrimonio digital consiste en **todas las actividades, datos y cuentas digitales de una persona**. Esto incluye perfiles de redes sociales, cuentas de correo electrónico, almacenamiento en la nube, tiendas online, cuentas bancarias online, servicios de streaming y mucho más. Un patrimonio digital puede incluir recuerdos personales, documentos importantes y datos valiosos (por ejemplo, en carteras digitales).
 
-![Un patrimonio digital puede contener muchas cuentas: Redes sociales, correo electrónico, etc.](https://seatable.io/wp-content/uploads/2023/10/sara-kurfess-6lcT2kRPvnI-unsplash_min.jpg)
+![Un patrimonio digital puede contener muchas cuentas: Redes sociales, correo electrónico, etc.](sara-kurfess-6lcT2kRPvnI-unsplash_min.jpg)
 
 Un patrimonio digital puede contener muchas cuentas.
 
@@ -34,7 +34,7 @@ Desde el punto de vista jurídico, la situación en Alemania no se ha aclarado d
 
 Tampoco está claro si los herederos pueden acceder al contenido de las comunicaciones del fallecido, como chats y correos electrónicos, si no dejó constancia de su última voluntad al respecto. Por un lado, el derecho de sucesiones obliga al proveedor a entregar los correos electrónicos a los herederos, de forma similar a las cartas sin abrir. Por otro lado, sin embargo, la entrega puede violar el secreto de las telecomunicaciones y las disposiciones de protección de datos.
 
-![El patrimonio digital no está claramente regulado por la ley](https://seatable.io/wp-content/uploads/2023/10/conny-schneider-ysv-HwRpcA-unsplash_min.jpg)
+![El patrimonio digital no está claramente regulado por la ley](conny-schneider-ysv-HwRpcA-unsplash_min.jpg)
 
 Legalmente, la herencia digital no está claramente regulada en Alemania.
 
@@ -52,7 +52,7 @@ Google, Facebook y Apple ofrecen ciertos ajustes en la cuenta de usuario en los 
 
 En muchos casos, una herencia digital no se liquida a tiempo. Los herederos tienen entonces que hurgar en la niebla y embarcarse en una tediosa búsqueda de pistas: ¿Qué cuentas en línea utilizaba el difunto? ¿Cuáles son los nombres de usuario y las contraseñas? Sin estos datos, los familiares no tienen acceso al principio, pero los necesitan urgentemente, por ejemplo, para cancelar suscripciones en curso.
 
-![Un patrimonio digital contiene todos los datos de acceso](https://seatable.io/wp-content/uploads/2023/10/pexels-pixabay-267469_min.jpg)
+![Un patrimonio digital contiene todos los datos de acceso](pexels-pixabay-267469_min.jpg)
 
 Sin datos de acceso, los familiares se enfrentan a un gran obstáculo.
 
@@ -66,7 +66,7 @@ En teoría, puede anotar todas sus cuentas y contraseñas en **papel** y deposit
 
 Siguiendo el mismo principio, también puedes guardar tus cuentas y contraseñas **electrónicamente en un documento de texto** en tu ordenador, un disco duro o una memoria USB. Así podrás hacer cambios más fácilmente que en papel.
 
-![Legado digital: Guardar los datos de acceso en el navegador](https://seatable.io/wp-content/uploads/2023/10/pexels-lisa-fotios-5860964_min.jpg)
+![Legado digital: Guardar los datos de acceso en el navegador](pexels-lisa-fotios-5860964_min.jpg)
 
 Muchos navegadores también ofrecen la posibilidad de guardar cómodamente los datos de acceso.
 
@@ -95,7 +95,7 @@ Tu patrimonio digital puede contener cualquier cantidad de datos. Dependiendo de
 
 Designe a una persona de su confianza como su albacea digital. Especifique en un poder notarial que la persona autorizada se encargue de su herencia digital y de su negocio en línea, después de su fallecimiento o ya en vida si usted no puede hacerlo, por ejemplo, debido a un coma, una discapacidad mental u otros motivos.
 
-![Mujer pensativa sentada en el sofá con un portátil](https://seatable.io/wp-content/uploads/2023/10/mimi-thian-U7lWyAV-aM8-unsplash.jpg)
+![Mujer pensativa sentada en el sofá con un portátil](mimi-thian-U7lWyAV-aM8-unsplash.jpg)
 
 Póngaselo lo más fácil posible a la persona autorizada: puede regular de antemano exactamente a qué cuentas online debe tener acceso la persona en caso de emergencia. Formula tu voluntad por escrito sobre qué debe hacer la persona con cada cuenta.
 
@@ -111,7 +111,7 @@ Piense de qué manera le gustaría dar a su persona de confianza acceso a sus cu
 
 Si has guardado la mayoría de tus datos de acceso y contraseñas en un dispositivo específico (por ejemplo, en un navegador o en un documento de texto), tu persona de confianza debería poder acceder a ellos después de tu muerte. Por ejemplo, anota **el PIN** de tu smartphone o **la contraseña de tu ordenador** en un papel que guardes en un sobre cerrado.
 
-![Escriba la contraseña maestra en un papel](https://seatable.io/wp-content/uploads/2023/10/pexels-pixabay-261599.jpg)
+![Escriba la contraseña maestra en un papel](pexels-pixabay-261599.jpg)
 
 Sin embargo, también puedes escribir tus contraseñas en papel o introducirlas en un gestor de contraseñas digital. Pero recuerda actualizar siempre allí también las contraseñas modificadas. Anota la contraseña **maestra** y guárdala en un lugar seguro, que comuniques a tu persona de confianza.
 
@@ -123,11 +123,11 @@ Como casi nadie puede recordar más de diez contraseñas diferentes, existen **b
 
 Otro software de base de datos que te permite gestionar tu patrimonio digital de forma clara, flexible y segura se llama **SeaTable**. Con él, no solo puedes almacenar todas tus cuentas, nombres de usuario y contraseñas, sino también toda la información adicional que desees.
 
-![Gestor de contraseñas](images/Screenshot-2023-10-31-132220.png)
+![Gestor de contraseñas](Screenshot-2023-10-31-132220.png)
 
 Utilice un gestor de contraseñas para documentar su patrimonio digital.
 
-Si desea utilizar el gestor de contraseñas de SeaTable para su patrimonio digital, puede [ver la plantilla aquí]({{< relref "templates/everyday-life/password-manager" >}}). Si está interesado, solo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente y crear una visión general con sus propios datos.
+Si desea utilizar el gestor de contraseñas de SeaTable para su patrimonio digital, puede [ver la plantilla aquí]({{< relref "templates/everyday-life/password-manager" >}}). Si está interesado, solo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente y crear una visión general con sus propios datos.
 
 ## Conclusión: el patrimonio digital es más importante que nunca
 

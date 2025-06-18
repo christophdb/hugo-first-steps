@@ -17,7 +17,7 @@ Was es bei der Hausverwaltung zu beachten gibt und wie Sie Ihr Immobilienmanagem
 
 Bei der Immobilienverwaltung geht es primär um das Verwalten einzelner Mieteinheiten. Eine Hausverwaltung ist in diesem Sinne eine Firma, die sich mit der **Verwaltung von vermieteten Wohnhäusern, Eigentumswohnungen und Gewerbeimmobilien** beschäftigt. Diese Immobilien müssen sich dabei _nicht_ in ihrem Besitz befinden.
 
-![Vermietung von Immobilien](images/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
+![Vermietung von Immobilien](tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
 
 Als Eigentümer müssen Sie sich um die Verwaltung und Vermietung Ihrer Immobilien kümmern.
 
@@ -41,7 +41,7 @@ In diesem Fall sollten Sie überlegen, ob sich die **Kosten für eine externe Ha
 
 Manchmal kommen Sie um eine professionelle Hausverwaltung nicht herum und haben keine Chance, alle Angelegenheiten bezüglich Ihrer Immobilien selbst zu verwalten. Denn oft erwerben Sie beim Kauf einer **Eigentumswohnung** auch Anteile am Gemeinschaftseigentum (wie etwa Grünanlagen, Treppenhaus und Dach), das der gesamten **Eigentümergemeinschaft** gehört und von einer Hausverwaltung bewirtschaftet werden muss.
 
-![Hausverwaltung bei Eigentümergemeinschaften](images/house-1353389_640-e1620395214642.jpg)
+![Hausverwaltung bei Eigentümergemeinschaften](house-1353389_640-e1620395214642.jpg)
 
 Dann übernimmt die Hausverwaltung z. B. auch die Pflege der Grünanlagen.
 
@@ -83,7 +83,7 @@ Die Aufgaben einer Hausverwaltung sind durch das Wohnungseigentumsgesetz geregel
 - Beschwerdemanagement
 - Kommunikation mit Behörden
 
-![Aufgaben der Hausverwaltung](images/towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
+![Aufgaben der Hausverwaltung](towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
 
 Die Aufgaben der Hausverwaltung gehen weit über die Kontrolle der Mieteinnahmen hinaus.
 
@@ -107,7 +107,7 @@ Um jederzeit nachvollziehen zu können, ob Ihre Mieter die Miete rechtzeitig üb
 
 Als Vermieter müssen Sie sich um Reparaturen, Modernisierungsmaßnahmen und Instandhaltungsarbeiten kümmern. Um dabei den Überblick zu behalten, sollten Sie akute ebenso wie regelmäßige Maßnahmen immer genau dokumentieren. Erfassen Sie dazu Aufträge, Instandsetzungstermine und Rechnungen in einer Tabelle. Ihre Mieter sind auf eine Hausverwaltung angewiesen, die zuverlässig Dienstleister koordiniert, damit wichtige Dinge wie etwa ein kaputter Wasserhahn sofort repariert werden.
 
-![Technische Aufgaben der Hausverwaltung](images/pexels-anil-karakaya-6419128.jpg)
+![Technische Aufgaben der Hausverwaltung](pexels-anil-karakaya-6419128.jpg)
 
 Wenn Sie mehrere Immobilien besitzen, kann die Koordination von Handwerkern und Instandsetzungen viel Zeit kosten.
 
@@ -124,7 +124,7 @@ Eine **Software für die Hausverwaltung** muss einiges leisten. Stellen Sie sich
 
 Mit der SeaTable [Vorlage für Ihre Immobilienverwaltung]({{< relref "templates/real-estate/property-management" >}}) können Sie all diese Belange rund um Ihre Immobilien problemlos managen. Speichern Sie Vertragsdokumente, Rechnungen, Übergabeprotokolle, Grundrisse und Fotos einfach in Ihrer SeaTable Datenbank.
 
-![Erfassen Sie Fotos und Daten Ihrer Immobilien](images/steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
+![Erfassen Sie Fotos und Daten Ihrer Immobilien](steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
 
 In einer Datenbank können Sie Fotos und Highlights Ihrer Immobilien (z. B. voll ausgestattete Küche, Terrasse) erfassen.
 

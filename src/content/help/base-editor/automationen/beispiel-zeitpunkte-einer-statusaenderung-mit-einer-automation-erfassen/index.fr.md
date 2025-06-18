@@ -92,7 +92,7 @@ Ensuite, vous définissez les **valeurs** avec lesquelles certains champs doiven
 
 ![Définition des valeurs qui seront automatiquement ajoutées au tableau lors du déclenchement de l'automatisation](images/define-time-of-status-change-to-be-added-1.png)
 
-Um die verschiedenen **Bestellnummern** und die dazugehörigen **Beträge** in der Tabelle “Order-Status-Log” zu **zitieren**, schreiben Sie die Spaltennamen in geschweiften Klammern in das jeweilige Textfeld: {Order-ID} & {Amount}
+Pour **citer** les différents **numéros de commande** et les **montants** correspondants dans le tableau "Order-Status-Log", écrivez les noms de colonne entre accolades dans la zone de texte correspondante : `{Order-ID} & {Amount}`
 
 ![Définition des valeurs qui seront automatiquement ajoutées au tableau lors du déclenchement de l'automatisation](images/define-entries-to-be-added-to-table-after-automation.png)
 

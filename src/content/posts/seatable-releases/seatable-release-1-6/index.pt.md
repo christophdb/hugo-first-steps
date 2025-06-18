@@ -20,7 +20,7 @@ O tipo de coluna Duração é ideal para aqueles que utilizam o SeaTable para or
 
 O tipo de coluna armazena todas as entradas em segundos, mas apresenta as entradas nos formatos de fácil utilização h:mm:ss e h:mm. Tem também a opção de introduzir durações em notação separada por cólon ou como um número. O SeaTable converte automaticamente qualquer entrada numérica para o formato desejado. Os números inteiros e decimais são igualmente suportados. A forma como a entrada numérica é interpretada depende do formato seleccionado. Se o formato h:mm:ss for seleccionado, o número introduzido é interpretado como segundos; no caso h:mm como minutos. (Exemplo: A entrada 235 é convertida para 0:03:55 se a coluna utilizar o formato h:mm:ss. A mesma entrada resulta em 3:55 numa célula com formato h:mm).
 
-![Novo tipo de coluna Duração](images/Column_Type_Duration.jpg)
+![Novo tipo de coluna Duração](Column_Type_Duration.jpg)
 
 E isso não é tudo! Também alargámos as opções de formato da coluna de fórmula para que os resultados numéricos possam ser exibidos como durações em formato h:mm ou h:mm:ss.
 
@@ -28,7 +28,7 @@ E isso não é tudo! Também alargámos as opções de formato da coluna de fór
 
 O novo tipo de coluna E-mail armazena endereços de e-mail. Um clique numa célula cheia abre automaticamente a aplicação Mail e copia o endereço para a linha Para:. Pode, portanto, proceder directamente à composição do e-mail. As células da coluna Email comportam-se de forma muito semelhante às células da coluna do tipo URL introduzida no [SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}).
 
-![Tipo de coluna de correio electrónico em formato web](images/Column_Type_Email_Form.jpg)
+![Tipo de coluna de correio electrónico em formato web](Column_Type_Email_Form.jpg)
 
 A verdadeira força da coluna de correio electrónico aparece em formulários web. Com a validação integrada no campo de correio electrónico, é possível assegurar que uma entrada corresponde a um endereço de correio electrónico válido. Já não são possíveis erros de ortografia acidentais que inutilizem um endereço de correio electrónico.
 
@@ -36,7 +36,7 @@ A verdadeira força da coluna de correio electrónico aparece em formulários we
 
 SeaTable 1.6 introduz cinco novas funções: data(), datif(), eomonth(), meses() e ifs(). Os quatro primeiros simplificam e melhoram a organização e gestão dos valores de datas no SeaTable. A função date() calcula para uma data o número correspondente à data no formato data/hora do Microsoft Excel. dateif(), abreviatura de date difference, calcula a diferença entre duas datas. eomonth(), abreviatura de end of month, determina o último dia do mês especificado na data. Opcionalmente, podem ser adicionados meses. meses() determina o número de meses completos entre duas datas. ifs() verifica várias condições.
 
-![Assistente de fórmula melhorada](images/Improved_Formula_Wizard.jpg)
+![Assistente de fórmula melhorada](Improved_Formula_Wizard.jpg)
 
 Conseguimos uma melhoria adicional na funcionalidade do assistente, na medida em que as fórmulas podem agora também ter em conta colunas de fórmulas de outras tabelas. Em termos concretos: Uma fórmula na tabela B pode conter uma coluna de fórmula da tabela A. Anteriormente, só podiam ser utilizadas colunas não calculadas de outras tabelas.
 
@@ -50,7 +50,7 @@ SeaTable não é apenas uma grande ferramenta para capturar dados estruturados e
 
 Com o SeaTable 1.6, é agora possível aceder a este backend de armazenamento através da interface Web. É possível navegar pelos ficheiros armazenados e eliminar objectos individuais da memória. Para tal, basta passar o rato sobre uma base na Biblioteca de Bases, clicar no ícone de três pontos para opções avançadas e, por fim, selecionar "Gestão de anexos" em "Avançado". As imagens e os ficheiros são guardados em pastas separadas chamadas Imagens e Ficheiros.
 
-![Gestão de activos no SeaTable 1.6](images/Asset_Management.jpg)
+![Gestão de activos no SeaTable 1.6](Asset_Management.jpg)
 
 E não só os anexos podem ser melhor geridos com o SeaTable 1.6. Os utilizadores podem agora também aceder ao contentor de reciclagem, onde o SeaTable armazena as bases eliminadas antes de serem removidas do sistema após 30 dias. Se uma base for acidentalmente apagada ou o utilizador tiver uma mudança de coração, a base pode ser restaurada a partir daí, incluindo todas as fotografias.
 
@@ -60,6 +60,6 @@ A SeaTable 1.6 oferece muitas outras melhorias. Um grande número deles visa mel
 
 Em termos de interface de utilizador, convertemos o plugin da galeria num design não modal. O mesmo se aplica ao menu para mudar o nome de uma vista. Isto segue o nosso esforço geral para reduzir o número de modais. Também eliminámos uma falha da função de pesquisa. Agora, se premir CTRL + F, o foco do cursor desloca-se sempre para a linha de pesquisa. No editor de formulários, deslocámos os campos de introdução de sugestões para o formulário. Isto facilita a escrita de notas mais longas e basicamente torna o editor mais WYSIWYG. Em termos de usabilidade, adicionámos uma funcionalidade útil à função de preenchimento automático: o SeaTable reconhece agora padrões numéricos em cadeias alfanuméricas e tem-nos em conta no preenchimento automático. A nova funcionalidade "código incorporado" facilita a integração das bases SeaTable em páginas Web.
 
-![Plugin de Galeria não-modal](images/Non-modal_Gallery.jpg)
+![Plugin de Galeria não-modal](Non-modal_Gallery.jpg)
 
 Dois problemas conhecidos da pré-visualização da impressão foram também eliminados: Esconder uma coluna na vista de tabela não removeu as colunas também da vista de detalhe da linha e, portanto, da pré-visualização da impressão. Houve um problema semelhante ao imprimir dados agrupados. Na pré-visualização da impressão, os nomes dos grupos não eram exibidos se fossem utilizadas colunas de selecção única ou múltipla ou de ligação para agrupamento. Com o SeaTable 1.6, estes dois problemas são coisa do passado.

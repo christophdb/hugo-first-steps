@@ -17,7 +17,7 @@ Aquí encontrará información sobre cómo organizar una tenencia de animales de
 
 La primera pregunta es si hay sitio para un animal en tu vida cotidiana. Tienes que **responsabilizarte** de una mascota por tiempo indefinido. Debes preguntarte si puedes cumplir los requisitos individuales que tu mascota te impone.
 
-![He aquí una lista de preguntas que debe hacerse antes de comprar un animal de compañía.](https://seatable.io/wp-content/uploads/2024/01/Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
+![He aquí una lista de preguntas que debe hacerse antes de comprar un animal de compañía.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
 
 Debes ser consciente de ello antes de adquirir un animal de compañía.
 
@@ -31,7 +31,7 @@ En Alemania, el término **animal** de compañía se refiere sobre todo a repres
 
 Desde el pez payaso _Nemo_ hasta el búho nival _Hedwig_, cada vez es más frecuente encontrar en los hogares animales populares que normalmente viven en zoológicos o en la naturaleza. Salvo algunas excepciones, en Alemania está permitido tener animales exóticos de todo tipo como mascotas.
 
-![La tenencia de serpientes está permitida. Las excepciones son las serpientes peligrosas, que deben denunciarse.](https://seatable.io/wp-content/uploads/2024/01/pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
+![La tenencia de serpientes está permitida. Las excepciones son las serpientes peligrosas, que deben denunciarse.](pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
 
 Puede tener serpientes en condiciones legales, pero debe informar de los ejemplares peligrosos.
 
@@ -84,7 +84,7 @@ El entorno y los cuidados que necesita su mascota dependen del tamaño, tipo y c
 - **Zona para dormir**: Los animales que se mueven libremente por su casa primero tienen que acostumbrarse a su nuevo entorno. Ofrezca a su mascota un refugio que también pueda servirle como lugar para dormir.
 - **Comederos:** Para que tu mascota tenga acceso constante a comida y bebida, debes instalar un comedero fijo. Así te resultará más fácil controlar su comportamiento alimentario.
 
-![En las tiendas de animales encontrará artículos, comida y todo lo necesario para su cuidado.](https://seatable.io/wp-content/uploads/2024/01/random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
+![En las tiendas de animales encontrará artículos, comida y todo lo necesario para su cuidado.](random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
 
 En las tiendas de animales encontrará todo lo que su mascota necesita.
 
@@ -106,7 +106,7 @@ Su mascota debe tener siempre acceso a **agua potable** fresca. Esto es especial
 
 Puede saber si su mascota está bien por su **comportamiento** y su **aspecto**. Los signos típicos de enfermedad son, por ejemplo, pérdida de apetito, pérdida de peso, vómitos, apatía o cambios en el pelaje. En estos casos, debe acudir al veterinario.
 
-![Los perros necesitan ejercicio](https://seatable.io/wp-content/uploads/2024/01/cristian-castillo-73pyV0JJOmE-unsplash.jpg)
+![Los perros necesitan ejercicio](cristian-castillo-73pyV0JJOmE-unsplash.jpg)
 
 Los perros necesitan hacer suficiente ejercicio todos los días.
 
@@ -148,7 +148,7 @@ Al igual que nosotros, los animales a veces enferman, pero a menudo nos lo ocult
 
 Cuando se acoge a un animal, hay que acudir al médico para un primer **chequeo sanitario**. También es necesario **vacunarlo** y **desparasitarlo** periódicamente.
 
-![El veterinario examina al perro para reconocer enfermedades en una fase temprana.](https://seatable.io/wp-content/uploads/2024/01/pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
+![El veterinario examina al perro para reconocer enfermedades en una fase temprana.](pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
 
 La prevención es lo más importante para que su mascota tenga una larga vida.
 
@@ -184,7 +184,7 @@ Para los niños, la pregunta de si quieren o no un animal de compañía es fáci
 
 Si el principal motivo para tener un animal de compañía son los niños, los padres suelen decantarse por un **animal pequeño y fácil de cuidar**. Sin embargo, los conejos, cobayas o hámsters difícilmente satisfacen el deseo de cercanía y mimos de los niños. Más bien al contrario: suelen ser tímidos y limpiar el suelo requiere mucho trabajo. Por eso, los roedores son especialmente adecuados para los niños que disfrutan observando y cuidando a los animales y son capaces de darles su espacio.
 
-![Niños abrazando conejos.](https://seatable.io/wp-content/uploads/2024/01/pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
+![Niños abrazando conejos.](pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
 
 Es importante que los niños aprendan a respetar los límites del animal.
 

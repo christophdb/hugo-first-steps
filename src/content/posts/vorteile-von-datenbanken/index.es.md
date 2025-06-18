@@ -28,7 +28,7 @@ Hay muchas formas de estructurar las bases de datos. A continuación explicamos 
 4. **Base de datos relacional:** está orientada a tablas, por lo que cada registro de datos está vinculado a todos los demás.
 5. **Base de datos no relacional** (o base de datos NoSQL): Una base de datos No-SQL utiliza diversos formatos, como documentos, diagramas, etc., que ofrecen una gran flexibilidad al diseño de una base de datos.
 
-![Los enlaces son la gran ventaja de las bases de datos relacionales](https://seatable.io/wp-content/uploads/2021/03/hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
+![Los enlaces son la gran ventaja de las bases de datos relacionales](hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
 
 Los enlaces son la gran ventaja de las bases de datos relacionales.
 
@@ -45,7 +45,7 @@ Ahora que ya sabe qué son las bases de datos, probablemente aún se pregunte: �
 
 Aunque (todavía) no necesite procesar grandes cantidades de información, las ventajas de las bases de datos son notables incluso con cantidades más pequeñas de datos. La capacidad de procesar cantidades casi ilimitadas de datos significa que una base de datos bien diseñada y pensada puede servirle durante muchos años, ya que prácticamente crece con usted.
 
-![Bases de datos sin complicaciones: ningún problema con SeaTable](https://seatable.io/wp-content/uploads/2021/10/pexels-christina-morillo-1181354-e1634551763220.jpg)
+![Bases de datos sin complicaciones: ningún problema con SeaTable](pexels-christina-morillo-1181354-e1634551763220.jpg)
 
 ## Donde las tablas alcanzan sus límites en contraste con las bases de datos
 
@@ -89,7 +89,7 @@ Puedes guardar los resultados de estas consultas como una **vista** que represen
 
 Mientras que antes había que aprender determinados lenguajes informáticos para realizar las consultas de datos mencionadas, hoy en día hay muchos sistemas de bases de datos como SeaTable que están equipados con una interfaz gráfica de usuario intuitiva. Gracias a ellos, incluso los principiantes pueden utilizar inmediatamente las bases de datos para mejorar su flujo de trabajo.
 
-![Ventajas de bases de datos como SeaTable](images/Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
+![Ventajas de bases de datos como SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
 A diferencia de las bases de datos tradicionales, SeaTable tiene una interfaz gráfica de usuario.
 

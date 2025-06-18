@@ -15,7 +15,7 @@ seo:
 
 In this blog post, we will take an in-depth look at the phenomenon of Klarna debt and provide you with practical **tips** and **strategies** on how you can get out of financial difficulties.
 
-![Online shopping: Small shopping cart next to a laptop](images/pexels-karolina-grabowska-5632397-711x474.jpg)
+![Online shopping: Small shopping cart next to a laptop](pexels-karolina-grabowska-5632397-711x474.jpg)
 
 Online shopping has become the preferred shopping method for many consumers.
 
@@ -25,7 +25,7 @@ Klarna is a **Swedish financial services provider** that offers online payment s
 
 With its slogan " _Shop now. Pay later._ slogan, Klarna has achieved an enormous reach, encouraging many consumers to make purchases in online stores without having to pay immediately. In turn, online store operators have the advantage that Klarna assumes the **payment defaults** of defaulting buyers so that e-commerce merchants receive their money in any case.
 
-![Klarna debts: Online shopping on the smartphone](images/pexels-cottonbro-studio-5076511-711x474.jpg)
+![Klarna debts: Online shopping on the smartphone](pexels-cottonbro-studio-5076511-711x474.jpg)
 
 The option of buying in installments can tempt you to buy more than you can actually afford.
 
@@ -41,7 +41,7 @@ If you do not have sufficient liquidity on the due date, **late payment fees** a
 
 Klarna installment plan is used by a diverse range of people, including, according to a [survey](https://de.statista.com/infografik/29303/anteil-der-befragten-verschiedener-generationen-die-klarna-bnpl-nutzen/), mainly younger people from **Generation Z** and **millennials**. This age group appreciates the convenience and flexibility of Klarna payment services, especially the option to pay later. Many young people share their Klarna debts on social media under the hashtag _#KlarnaSchulden_.
 
-![Graphic of Klarna users divided into generations](images/Klarna-Schulden-711x533.png)
+![Graphic of Klarna users divided into generations](Klarna-Schulden-711x533.png)
 
 Distribution of Klarna installment purchase users by generation
 
@@ -59,7 +59,7 @@ Klarna debts not only involve the immediate burden of **financial obligations**,
 
 Furthermore, Klarna debts can make future **online purchases more difficult**. In addition to blocking your Klarna account, other service providers may also deny you access until your debts are settled. Another aspect that should not be neglected is the **psychological strain** that debt brings with it. The constant financial pressure can lead to stress, anxiety and worry, which can significantly affect your quality of life and well-being.
 
-![Bags of money lying in front of a piggy bank](images/pexels-katie-harp-12591342-711x472.jpg)
+![Bags of money lying in front of a piggy bank](pexels-katie-harp-12591342-711x472.jpg)
 
 By consciously planning and prioritizing your spending, you can keep your finances under control.
 
@@ -74,7 +74,7 @@ Faced with Klarna debt, many feel helpless and overwhelmed. But there are concre
 
 If you feel completely overwhelmed and don't have a clear overview of your finances, don't be afraid to seek professional help. **Debt counseling** can help you develop a plan to get your finances back under control and manage your Klarna debt in the long term.
 
-![Klarna debts: A man sits opposite a debt counselor.](images/pexels-rdne-stock-project-7821681-711x474.jpg)
+![Klarna debts: A man sits opposite a debt counselor.](pexels-rdne-stock-project-7821681-711x474.jpg)
 
 Debt advisors can negotiate with creditors to agree payment plans.
 
@@ -84,7 +84,7 @@ To avoid future debts and create a solid financial foundation, you should apply 
 
 It is also advisable not to be overly influenced by advertising promises and tempting offers. Products or services are often advertised that are not actually necessary. Make **rational decisions** and only buy what you really need. In addition, setting aside a **nest egg** for unforeseen expenses can increase your financial security and prevent you from having to resort to loans or installment payments in an emergency.
 
-![iPhone with calculator app for Klarna debts](images/pexels-leeloo-the-first-8970691-711x508.jpg)
+![iPhone with calculator app for Klarna debts](pexels-leeloo-the-first-8970691-711x508.jpg)
 
 Careful budget planning is crucial to guarantee financial security.
 

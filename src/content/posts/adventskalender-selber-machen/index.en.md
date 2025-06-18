@@ -31,7 +31,7 @@ If you would like to know where the tradition of the Advent calendar comes from,
 
 The Advent calendar must be ready by November 30 at the latest. The following planning will help you to ensure that nothing stands in the way:
 
-![How to plan your Advent calendar in 5 steps.](images/Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
+![How to plan your Advent calendar in 5 steps.](Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
 
 These steps lead to success.
 
@@ -41,7 +41,7 @@ Whether young or old - everyone looks forward to opening a new door in the morni
 
 When planning, consider **who** you are filling the Advent calendar **for**. Because not everyone enjoys the same things.
 
-![Children particularly enjoy opening a little door every day.](images/pexels-cottonbro-6139608-e1718886096417.jpg)
+![Children particularly enjoy opening a little door every day.](pexels-cottonbro-6139608-e1718886096417.jpg)
 
 When a door is opened, the joy is often great.
 
@@ -63,7 +63,7 @@ Let's get down to the nitty gritty. How you fill the Advent calendar yourself de
 
 The **chocolate Advent calendar** is without doubt the classic among Advent calendars. Whether as a simple bar, poured into a Christmas shape or as a fine praline - the taste is convincing! If you want to make someone happy who doesn't want to miss out on sweets during the Advent season, you can make your own Advent calendar with a variety of treats to suit the person's taste.
 
-![Filling an Advent calendar with chocolate is a classic.](images/markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
+![Filling an Advent calendar with chocolate is a classic.](markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
 
 Decorating chocolate yourself makes the Advent calendar unique.
 
@@ -81,7 +81,7 @@ However, buying 24 different spices is expensive. First look around your home to
 
 For people who are artistically active, a self-assembled **craft or painting set** is ideal. Let your loved one's creativity run wild or give them a set of crafting instructions so that they can continue working on the project a little every day.
 
-![Make children happy by giving them craft items.](images/rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
+![Make children happy by giving them craft items.](rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
 
 It doesn't take much to be creative.
 
@@ -98,7 +98,7 @@ Astrid Lindgren
 
 The following applies to filling Advent calendars, especially **for children**: The more exciting, the better. Prepare something for your child that they will enjoy for longer. For example, a puzzle or Lego set in which a section is put together every day.
 
-![Lego sets are also available in Advent calendar form.](images/handcraft-8226964_640-e1718624762925.jpg)
+![Lego sets are also available in Advent calendar form.](handcraft-8226964_640-e1718624762925.jpg)
 
 Give your child something they will enjoy.
 
@@ -116,7 +116,7 @@ Your gift will look particularly unique if you combine it with a symbolic object
 
 A mixture of different products ensures excitement right up to the last second.
 
-![24 ideas for filling your advent calendar.](images/Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
+![24 ideas for filling your advent calendar.](Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
 
 It's all in the mix.
 
@@ -137,7 +137,7 @@ So how should the gifts be wrapped? First of all, it depends on whether you pref
 
 If you make your own Advent calendar and all the contents (e.g. chocolate bars) are roughly the same size, you can paint toilet paper rolls and use them as packaging.
 
-![The classic packaging is the paper bag.](images/pexels-nati-87264186-19312001-e1718886187213.jpg)
+![The classic packaging is the paper bag.](pexels-nati-87264186-19312001-e1718886187213.jpg)
 
 The easiest way to pack is with paper bags.
 
@@ -159,7 +159,7 @@ If the packages are light, you can hang them on a wall with a string or coat han
 
 ## 5\. buy everything you need
 
-There is a lot to get and little time. To make sure you get everything you need, it makes sense to draw up a [shopping list](https://seatable.io/en/einkaufsliste/). Research early enough where you can get what you need. Especially if you do a lot of DIY, you should not only think about the materials, but also about the tools.
+There is a lot to get and little time. To make sure you get everything you need, it makes sense to draw up a [shopping list]({{< relref "posts/einkaufsliste" >}}). Research early enough where you can get what you need. Especially if you do a lot of DIY, you should not only think about the materials, but also about the tools.
 
 ### Plan online what to fill your Advent calendars with
 
@@ -173,6 +173,6 @@ A **digital Advent calendar** is both sustainable and creative. If you want to m
 
 You can use SeaTable to create your virtual Advent calendar. Design a little door for each day, create a gallery with the help of an app and make your lovingly selected content easily available via a link.
 
-![Private Advent Calendar](images/Private-Advent-Calendar.png)
+![Private Advent Calendar](Private-Advent-Calendar.png)
 
 If you would like to use SeaTable to create analog and/or digital Advent calendars, simply [register]({{< relref "pages/registration" >}}) for free with your e-mail address. You can also find the free template [here]({{< relref "templates/events/advent-calendar" >}}).

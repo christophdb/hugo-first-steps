@@ -16,7 +16,7 @@ Endlich ist es so weit! Sie haben die perfekte Wohnung für sich gefunden und k�
 
 Beginnen Sie Ihre Umzugsplanung mit einem Brainstorming. Welche Aufgaben muss ich erledigen? Wer kann mir dabei helfen? Wie viel Budget kann ich ausgeben? Stellen Sie danach eine Kostenübersicht auf, um Ihre Ausgaben einzuschätzen. In einer Checkliste können Sie erste Aufgaben definieren und abarbeiten.
 
-![Checkliste mit den wichtigsten Aufgaben für Ihren Umzug.](https://seatable.io/wp-content/uploads/2023/10/Green-And-Yellow-Simple-Checklist--711x1006.jpg)
+![Checkliste mit den wichtigsten Aufgaben für Ihren Umzug.](Green-And-Yellow-Simple-Checklist--711x1006.jpg)
 
 Eine Checkliste kann helfen, alle Aufgaben im Blick zu behalten.
 
@@ -28,7 +28,7 @@ Der neue Mietvertrag ist unterschrieben und der Auszug aus Ihrer alten Wohnung b
 
 Kurz nach Ihrem Umzug sollten Sie den Termin zur **Wohnungs- und Schlüsselübergabe** ansetzen. Dafür müssen Sie die Wohnung wie im Mietvertrag vereinbart zurücklassen. Dazu zählen meist Schönheitsreparaturen und die Wohnung besenrein zu säubern.
 
-![Mit der Schlüsselübergabe Ihrer alten Wohnung setzt sich Ihr Umzugsplan in Gang.](https://seatable.io/wp-content/uploads/2023/10/pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
+![Mit der Schlüsselübergabe Ihrer alten Wohnung setzt sich Ihr Umzugsplan in Gang.](pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
 
 Mit der Schlüsselübergabe schließen Sie mit Ihrer alten Wohnung ab.
 
@@ -75,13 +75,13 @@ Steht der Tag des Umzugs fest, steht Ihnen im nächsten Schritt die Planung bevo
 
 Mit einer **Umzugsfirma** ersparen Sie sich viel Zeit und Nerven. Denn alles, was Sie sonst selbst organisieren müssten, wird hier übernommen. Besonders wenn Sie mit mehreren Menschen umziehen oder unter Zeitdruck stehen, geht der Umzug so schnell und komfortabel über die Bühne. Klar ist aber auch: Wer möglichst wenig Eigenaufwand haben möchte, muss tief in die Tasche greifen. Wie viel genau Sie einrechnen müssen, ist individuell und sollte mit der Umzugsfirma im Detail besprochen werden. Grob kann man aber sagen, dass die Kosten mit der Entfernung des Umzugs und der Größe der Wohnung zusammenhängen. Als Orientierung dient Ihnen diese durchschnittliche Berechnung:
 
-![So viel Kostet Ihr Umzug, je nachdem wie groß Ihr Haushalt ist.](https://seatable.io/wp-content/uploads/2023/10/Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
+![So viel Kostet Ihr Umzug, je nachdem wie groß Ihr Haushalt ist.](Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
 
 Die Kosten Ihres Umzugs hängen von der Haushaltsgröße und Entfernung der Wohnungen ab.
 
 Für Ihr Geld kriegen Sie dann aber einen **Komplettservice**. Dazu gehört auch, dass das Unternehmen während Ihres Umzugs für alle eventuellen Schäden an Ihrem Besitz, der Wohnung oder dem Treppenhaus haftet. Das Gesetz sieht vor, dass 620 Euro pro Kubikmeter Transportgut für den Schadensfall veranschlagt werden. Sollten Sie besonders wertvolles Gut transportieren lassen wollen, können Sie mit der Umzugsfirma eine höhere Haftungssumme vereinbaren. Aber geben Sie Acht: Wenn Sie Ihre Möbel und Besitztümer selbst verpacken, übernehmen die Profis keine Haftung für beim Transport entstandene Schäden.
 
-![Eine Umzugsfirma zu beauftragen erspart Ihnen viel Arbeit.](https://seatable.io/wp-content/uploads/2023/10/handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
+![Eine Umzugsfirma zu beauftragen erspart Ihnen viel Arbeit.](handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
 Umzugsfirmen nehmen Ihnen einen Großteil der anfallenden Arbeit ab.
 
@@ -97,7 +97,7 @@ Wie viel Unterstützung Sie von einer Firma in Anspruch nehmen wollen, bleibt Ih
 
 Möchten Sie Kosten sparen, ist der **Umzug in Eigenregie** genau das Richtige. Dafür wird aber auch der Organisationsaufwand höher. Denn alles, was bei der Umzugsfirma inklusive ist, fällt nun in Ihre eigenen Hände. Doch mit einer guten Planung steht auch diesem Vorhaben nichts im Weg. Dabei hilft Ihnen ein [Umzugsplan](https://seatable.io/umzug/#Online-Planer_fuer_Ihren_Umzug), welcher Sie bei allen Schritten auf Ihrem Weg unterstützt.
 
-![Kosten, welche während Ihres Umzugs auf Sie zu kommen.](https://seatable.io/wp-content/uploads/2023/10/Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
+![Kosten, welche während Ihres Umzugs auf Sie zu kommen.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 
 Diese Ausgaben kommen bei einem Umzug in Eigenregie auf Sie zu.
 
@@ -111,7 +111,7 @@ Alles selbst organisieren? Kein Problem! Folgende Aufgaben kommen auf Sie zu:
 - **Umzugshelfer finden**: Erste Anlaufstelle sollten Ihre Verwandten und Freunde sein, da diese Ihnen sicher gerne ohne Bezahlung helfen. Haben zu wenige Ihrer Bekannten Zeit, können Sie weitere Helfer suchen, welche Sie jedoch bezahlen müssen. Dazu können Sie in Ihrer Nachbarschaft nachfragen oder einen Aufruf in Ihren sozialen Medien starten. Denken Sie auch daran, für den Umzugstag ausreichend Essen und Trinken für Ihre Helfer zu besorgen.
 - **Hilfsmittel**: Um Ihren Helfern und sich die Arbeit zu erleichtern, empfehlen sich Hilfsmittel wie Arbeitshandschuhe, Spanngurte und eine Sackkarre, um schwere Gegenstände zu transportieren. Sind keine Profis am Werk, kann es häufiger zu Verletzungen kommen. Sorgen Sie also für den Fall der Fälle vor und haben Sie ein Erste-Hilfe-Set vor Ort.
 
-![Verpacken Sie Ihr Eigentum sicher, damit es beim Umzug nicht kaputtgeht.](https://seatable.io/wp-content/uploads/2023/10/pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
+![Verpacken Sie Ihr Eigentum sicher, damit es beim Umzug nicht kaputtgeht.](pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
 
 Organisieren Sie stabiles Verpackungsmaterial, damit Ihr Eigentum nicht kaputtgeht.
 
@@ -142,7 +142,7 @@ Einen Teil Ihrer Umzugskosten können Sie in Deutschland als **Werbungskosten** 
 
 Es gibt einige **allgemeine Kosten**, welche Sie in voller Höhe in der Steuererklärung angeben können. **Ganz wichtig**: Bewahren Sie Rechnungen und Quittungen auf, um Ihre Ausgaben belegen zu können. Zu allgemeinen Kosten gehören zum Beispiel Transportkosten für den Hausrat, doppelte Miete während der Umzugsphase oder die Maklerprovision.
 
-![Behalten Sie Ihre Kosten immer im Blick, indem Sie Quittungen aufbewahren.](https://seatable.io/wp-content/uploads/2023/10/finance-8206242_1280-711x474.jpg)
+![Behalten Sie Ihre Kosten immer im Blick, indem Sie Quittungen aufbewahren.](finance-8206242_1280-711x474.jpg)
 
 Bewahren Sie alle Rechnungen und Quittungen auf, um Ihre Ausgaben steuerlich geltend zu machen.
 
@@ -154,7 +154,7 @@ Die Pauschale liegt seit dem 1. April 2023 bei 886 Euro; für jede zusätzliche 
 
 Natürlich ist es kein Muss, die Pauschale zu nutzen. Sollten die Ausgaben die mit der Pauschale abgedeckten Kosten überschreiten, können Sie wie bei den allgemeinen Kosten mit Quittungen den steuerlichen Anspruch geltend machen.
 
-![Auch das Renovieren der alten Wohnung wird zum Teil bei Ihrem Umzug übernommen und sollte bei Ausgaben in Ihrem Umzugsplan bedacht werden.](https://seatable.io/wp-content/uploads/2023/10/pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
+![Auch das Renovieren der alten Wohnung wird zum Teil bei Ihrem Umzug übernommen und sollte bei Ausgaben in Ihrem Umzugsplan bedacht werden.](pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
 
 Auch das Renovieren der alten Wohnung, z. B. vertraglich vereinbarte Schönheitsreparaturen, werden übernommen.
 
@@ -168,6 +168,6 @@ Als außergewöhnliche Belastung zählt ein Umzug aus medizinischen Gründen. Di
 
 Damit Ihr nächster Umzug möglichst stressfrei abläuft, hat das Team von SeaTable eine Vorlage für Ihren Umzugsplan erstellt. Diesen können Sie nach Belieben an Ihre Bedürfnisse anpassen.
 
-![Umzugsplan](images/Umzugsplan.png)
+![Umzugsplan](Umzugsplan.png)
 
 Wenn Sie SeaTable für Ihre Umzugsplanung nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/real-estate/moving-plan" >}}).

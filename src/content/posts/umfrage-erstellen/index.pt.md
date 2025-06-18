@@ -14,7 +14,7 @@ Gostaria de saber quais são as necessidades do seu grupo-alvo ou como pode otim
 
 O artigo seguinte destaca as vantagens e os critérios importantes para a criação de inquéritos em linha e compara sete ferramentas promissoras.
 
-![Criar um inquérito: Computador portátil com resultados de feedback](images/feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
+![Criar um inquérito: Computador portátil com resultados de feedback](feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
 
 O inquérito em linha revela-se uma ferramenta extremamente eficaz para a recolha de dados.
 
@@ -32,7 +32,7 @@ Uma das principais vantagens da criação de inquéritos em linha é a capacidad
 
 Para obter bons resultados, é particularmente importante formular cuidadosamente as perguntas ao criar um inquérito. Perguntas mal formuladas podem levar a respostas imprecisas ou tendenciosas, o que pode afetar a **validade dos** seus dados. Isto seria lamentável, especialmente se tiver investido muito tempo e esforço no inquérito. Para evitar tais problemas, Rolf Porst formulou [dez princípios](https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/howto/how-to2rp.pdf) que deve ter sempre em mente ao formular inquéritos.
 
-![Lista de controlo sobre os 10 princípios de formulação de perguntas.](images/Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
+![Lista de controlo sobre os 10 princípios de formulação de perguntas.](Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
 
 Os 10 mandamentos da formulação de perguntas segundo Rolf Porst.
 
@@ -46,7 +46,7 @@ Ofereça **variedade** no seu inquérito para manter os participantes interessad
 
 Mesmo depois de o inquérito ter sido concluído, é importante mostrar **apreço**. Os participantes investiram o seu valioso tempo para o ajudar e, por isso, merecem reconhecimento. Uma breve mensagem de agradecimento no final do inquérito pode ajudar os participantes a sentirem-se apreciados e dispostos a participar novamente em inquéritos no futuro.
 
-![Criar sondagem: Mulher ri-se para a câmara](images/pexels-andrea-piacquadio-3769021-711x474.jpg)
+![Criar sondagem: Mulher ri-se para a câmara](pexels-andrea-piacquadio-3769021-711x474.jpg)
 
 Com um inquérito bem concebido, é possível evitar uma elevada taxa de cancelamento.
 
@@ -138,11 +138,11 @@ Uma caraterística especial desta ferramenta é a capacidade de apresentar as pe
 
 ### SeaTable
 
-Os [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/) do **SeaTable** permitem inquéritos em que os dados recolhidos são automaticamente guardados numa tabela com uma base de dados. Isto facilita a correlação dos dados. Estão disponíveis várias [estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/) para analisar e processar os resultados do inquérito, e todos os dados podem ser claramente filtrados, ordenados, agrupados e apresentados através de [plug-ins](https://seatable.io/pt/docs/plugins/alle-plugins-in-der-uebersicht/) gráficos. O SeaTable também permite que os dados sejam exportados para análises ou relatórios adicionais.
+Os [formulários Web]({{< relref "help/base-editor/webformulare" >}}) do **SeaTable** permitem inquéritos em que os dados recolhidos são automaticamente guardados numa tabela com uma base de dados. Isto facilita a correlação dos dados. Estão disponíveis várias [estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/) para analisar e processar os resultados do inquérito, e todos os dados podem ser claramente filtrados, ordenados, agrupados e apresentados através de [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) gráficos. O SeaTable também permite que os dados sejam exportados para análises ou relatórios adicionais.
 
-Embora não tenha a mesma gama de funções para a criação de inquéritos que o Surveymonkey, por exemplo, oferece muitas aplicações práticas graças às suas opções de personalização e ao seu funcionamento intuitivo. A capacidade de recolher diferentes tipos de dados e de analisar os resultados [em colaboração com uma equipa](https://seatable.io/pt/docs/seatable-nutzen/zusammenarbeit/) faz do SeaTable uma ferramenta flexível para inquéritos e outros projectos.
+Embora não tenha a mesma gama de funções para a criação de inquéritos que o Surveymonkey, por exemplo, oferece muitas aplicações práticas graças às suas opções de personalização e ao seu funcionamento intuitivo. A capacidade de recolher diferentes tipos de dados e de analisar os resultados [em colaboração com uma equipa]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) faz do SeaTable uma ferramenta flexível para inquéritos e outros projectos.
 
-Em termos de proteção de dados, o SeaTable cumpre todos os requisitos do RGPD e oferece segurança adicional, uma vez que os dados são armazenados exclusivamente em centros de dados alemães. Para além da versão em nuvem, existe ainda a opção de instalar o SeaTable [no seu próprio servidor](https://seatable.io/pt/on-premises/) para manter a soberania total dos dados.
+Em termos de proteção de dados, o SeaTable cumpre todos os requisitos do RGPD e oferece segurança adicional, uma vez que os dados são armazenados exclusivamente em centros de dados alemães. Para além da versão em nuvem, existe ainda a opção de instalar o SeaTable [no seu próprio servidor]({{< relref "pages/product/seatable-server" >}}) para manter a soberania total dos dados.
 
 **Domínio de aplicação:** Inquéritos  
 **Facilidade de utilização:** muito boa  
@@ -153,7 +153,7 @@ Em termos de proteção de dados, o SeaTable cumpre todos os requisitos do RGPD 
 
 Pode utilizar gratuitamente todas as funcionalidades dos formulários Web do SeaTable. Apenas a personalização do design requer uma subscrição Enterprise por 14 euros por mês.
 
-![Um inquérito sobre o feedback dos clientes como exemplo](images/Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
+![Um inquérito sobre o feedback dos clientes como exemplo](Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
 
 Exemplo de um inquérito de feedback do cliente no SeaTable
 

@@ -26,7 +26,7 @@ Wenn Sie wissen möchten, woher die Tradition des Adventskalenders kommt, klicke
 
 Spätestens am 30. November muss der Adventskalender fertig sein. Damit dem nichts im Weg steht, hilft Ihnen folgende Planung:
 
-![Wie Sie in 5 Schritten Ihren Adventskalender planen.](https://seatable.io/wp-content/uploads/2024/06/Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
+![Wie Sie in 5 Schritten Ihren Adventskalender planen.](Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
 
 Diese Schritte führen zum Erfolg.
 
@@ -36,7 +36,7 @@ Egal, ob Jung oder Alt – alle freuen sich darauf, am Morgen mit Spannung ein n
 
 Bedenken Sie bei der Planung, **für wen** Sie den Adventskalender befüllen. Denn nicht jeder freut sich über die gleichen Dinge.
 
-![Kinder erfreuen sich besonders daran, jeden Tag ein Türchen zu öffnen.](https://seatable.io/wp-content/uploads/2024/06/pexels-cottonbro-6139608-e1718886096417.jpg)
+![Kinder erfreuen sich besonders daran, jeden Tag ein Türchen zu öffnen.](pexels-cottonbro-6139608-e1718886096417.jpg)
 
 Wird ein Türchen geöffnet, ist die Freude oft groß.
 
@@ -58,7 +58,7 @@ Kommen wir zum Eingemachten. Wie Sie den Adventskalender selber befüllen, kommt
 
 Der **Schokoladen-Adventskalender** ist ohne Zweifel der Klassiker unter den Adventskalendern. Egal, ob als einfaches Täfelchen, in eine weihnachtliche Form gegossen oder als edle Praline – der Geschmack überzeugt! Möchten Sie jemandem eine Freude bereiten, der in der Adventszeit nicht auf Süßes verzichten möchte, können Sie mit selbst zusammengestellten Leckereien den Geschmack der Person treffen und auf abwechslungsreiche Weise einen Adventskalender selber machen.
 
-![Einen Adventskalender mit Schokolade zu befüllen, ist der Klassiker.](https://seatable.io/wp-content/uploads/2024/06/markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
+![Einen Adventskalender mit Schokolade zu befüllen, ist der Klassiker.](markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
 
 Schokolade selbst zu verzieren macht den Adventskalender einzigartig.
 
@@ -76,7 +76,7 @@ Eine **kulinarische Reise** um die Welt; besonders Hobbyköchen können Sie mit 
 
 Für Menschen, die künstlerisch aktiv sind, bietet sich ein selbst zusammengestelltes **Bastel- oder Malset** an. Lassen Sie der Kreativität Ihrer Liebsten freien Lauf oder geben Sie eine Bastelanleitung dazu, welche es ermöglicht, jeden Tag ein Stück am Projekt weiterzuarbeiten.
 
-![Kindern machen Sie eine Freude, indem Sie Bastelsachen schenken.](https://seatable.io/wp-content/uploads/2024/06/rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
+![Kindern machen Sie eine Freude, indem Sie Bastelsachen schenken.](rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
 
 Es braucht nicht viel, um kreativ zu sein.
 
@@ -93,7 +93,7 @@ Astrid Lindgren
 
 Besonders **für Kinder** gilt beim Adventskalender befüllen: Je aufregender, desto besser. Bereiten Sie für Ihr Kind etwas vor, woran es länger Freude hat. Beispielweise ein Puzzle oder Lego-Set, bei dem jeden Tag ein Teilbereich zusammengesetzt wird.
 
-![Lego-Sets gibt es auch in Adventskalenderform.](https://seatable.io/wp-content/uploads/2024/06/handcraft-8226964_640-e1718624762925.jpg)
+![Lego-Sets gibt es auch in Adventskalenderform.](handcraft-8226964_640-e1718624762925.jpg)
 
 Schenken Sie Ihrem Kind etwas, woran es Freude hat.
 
@@ -111,7 +111,7 @@ Besonders einzigartig wirkt Ihr Geschenk, wenn Sie es mit einem symbolischen Geg
 
 Eine Mischung aus verschiedenen Produkten sorgt für Spannung bis zur letzten Sekunde.
 
-![24 Ideen zum Befüllen Ihres Adventskalenders.](https://seatable.io/wp-content/uploads/2024/06/Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
+![24 Ideen zum Befüllen Ihres Adventskalenders.](Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
 
 Die Mischung macht’s.
 
@@ -132,7 +132,7 @@ Wie also die Geschenke verpacken? Das kommt erstmal darauf an, ob Sie einen einh
 
 Wenn Sie einen Adventskalender selber machen und alle Inhalte (z. B. Schokoriegel) ungefähr die gleiche Größe haben, können Sie Klopapierrollen bemalen und als Verpackung nutzen.
 
-![Der Klassiker der Verpackungen ist die Papiertüte.](https://seatable.io/wp-content/uploads/2024/06/pexels-nati-87264186-19312001-e1718886187213.jpg)
+![Der Klassiker der Verpackungen ist die Papiertüte.](pexels-nati-87264186-19312001-e1718886187213.jpg)
 
 Am einfachsten geht das Verpacken mit Papiertüten.
 
@@ -154,7 +154,7 @@ Sind die Päckchen leicht, können Sie diese zum Beispiel mit einer Schnur oder 
 
 ## 5\. Alles Benötigte einkaufen
 
-Es gibt viel zu besorgen und wenig Zeit. Damit Sie alles, was Sie brauchen, auch kriegen, ist es sinnvoll eine [Einkaufsliste](https://seatable.io/einkaufsliste/) zu erstellen. Recherchieren Sie früh genug, wo Sie was bekommen können. Besonders wenn Sie viel selbst basteln, sollten Sie nicht nur an das Material, sondern auch an die Werkzeuge denken.
+Es gibt viel zu besorgen und wenig Zeit. Damit Sie alles, was Sie brauchen, auch kriegen, ist es sinnvoll eine [Einkaufsliste]({{< relref "posts/einkaufsliste" >}}) zu erstellen. Recherchieren Sie früh genug, wo Sie was bekommen können. Besonders wenn Sie viel selbst basteln, sollten Sie nicht nur an das Material, sondern auch an die Werkzeuge denken.
 
 ### Online planen, mit was Sie Ihre Adventskalender befüllen
 
@@ -168,6 +168,6 @@ Nachhaltig und zugleich kreativ ist ein **digitaler Adventskalender**. Möchten 
 
 Zur Erstellung Ihres virtuellen Adventskalenders können Sie SeaTable nutzen. Designen Sie für jeden Tag ein Türchen, legen Sie mithilfe einer App eine Galerie an und stellen Sie Ihre liebevoll ausgewählten Inhalte ganz einfach per Link zur Verfügung.
 
-![Private Advent Calendar](images/Private-Advent-Calendar.png)
+![Private Advent Calendar](Private-Advent-Calendar.png)
 
 Wenn Sie SeaTable nutzen möchten, um analoge und/oder digitale Adventskalender zu erstellen, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos mit Ihrer E-Mail-Adresse. Die ebenfalls kostenlose Vorlage finden Sie [hier]({{< relref "templates/events/advent-calendar" >}}).

@@ -18,7 +18,7 @@ Digital legacy is a topic that many people neglect or suppress. However, dealing
 
 A digital estate consists of **all of a person's digital activities, data and accounts**. This includes social media profiles, email accounts, cloud storage, online stores, online bank accounts, streaming services, and more. A digital estate can include personal memories, important documents, and valuable data (e.g., on digital wallets).
 
-![A digital estate can include many accounts: Social media, email, etc.](images/sara-kurfess-6lcT2kRPvnI-unsplash_min.jpg)
+![A digital estate can include many accounts: Social media, email, etc.](sara-kurfess-6lcT2kRPvnI-unsplash_min.jpg)
 
 A digital estate can contain many accounts.
 
@@ -34,7 +34,7 @@ From a legal perspective, the situation in Germany has not been conclusively cla
 
 It is also unclear whether heirs may access communication content of the deceased, such as chats and e-mails, if he did not record his last will in this regard. On the one hand, inheritance law obliges the provider to hand over e-mails to the heirs in the same way as unopened letters. On the other hand, however, the handover may violate the secrecy of telecommunications and data protection regulations.
 
-![Digital legacy is not clearly regulated by law](images/conny-schneider-ysv-HwRpcA-unsplash_min.jpg)
+![Digital legacy is not clearly regulated by law](conny-schneider-ysv-HwRpcA-unsplash_min.jpg)
 
 Digital legacy is not clearly regulated by law in Germany.
 
@@ -52,7 +52,7 @@ Google, Facebook and Apple offer certain settings in the user account in which a
 
 In many cases, a digital estate is not settled in time. The heirs then have to poke around in the fog and embark on a laborious search for clues: Which online accounts did the deceased use? What are the user names and passwords? Without this data, the relatives have no access for the time being - but they urgently need it, for example, to cancel current subscriptions.
 
-![A digital estate contains all login data](images/pexels-pixabay-267469_min.jpg)
+![A digital estate contains all login data](pexels-pixabay-267469_min.jpg)
 
 Without access data, relatives face a high hurdle.
 
@@ -66,7 +66,7 @@ Theoretically, you can write down all your accounts and passwords on **paper** a
 
 Using the same principle, you can also save your accounts and passwords **electronically in a text document** on your computer, hard drive or USB stick. You can make changes there more easily than on paper.
 
-![Digital estate: Save login data in the browser](images/pexels-lisa-fotios-5860964_min.jpg)
+![Digital estate: Save login data in the browser](pexels-lisa-fotios-5860964_min.jpg)
 
 Also many browsers offer the possibility to conveniently save login data.
 
@@ -95,7 +95,7 @@ Your digital estate can contain any amount of data. Depending on the number of a
 
 Appoint a person you trust as your digital executor. Specify in a power of attorney that the authorized person should take care of your digital inheritance and your online business - after your death or already during your lifetime if you are unable to do so, for example, due to a coma, a mental disability or other reasons.
 
-![Thoughtful woman sitting on sofa with laptop](images/mimi-thian-U7lWyAV-aM8-unsplash.jpg)
+![Thoughtful woman sitting on sofa with laptop](mimi-thian-U7lWyAV-aM8-unsplash.jpg)
 
 Make it as easy as possible for the authorized person: You can regulate in advance exactly which online accounts the person should have access to in the event of an emergency. Formulate your will in writing as to what the person should do with which account.
 
@@ -111,7 +111,7 @@ Consider the ways in which you would like to give your trusted person access to 
 
 If you have stored most of your login data and passwords on a specific device (e.g., in a browser or in a text document), your trusted person should be able to access them after your death. For example, write down your smartphone **PIN** or **computer password** on a piece of paper that you keep in a sealed envelope.
 
-![Write down master password on paper](images/pexels-pixabay-261599.jpg)
+![Write down master password on paper](pexels-pixabay-261599.jpg)
 
 However, you can also write down your passwords on paper or enter them in a digital password manager. But remember to always update changed passwords there as well! Write down the **master password** and store it in a safe place, which you share with the person you trust.
 
@@ -123,11 +123,11 @@ Since almost no one can remember more than ten different passwords, there are sp
 
 Another database software that lets you manage your digital estate in a clear, flexible and secure way is called **SeaTable**. With it you'll be able to store not only all your accounts, usernames and passwords, but also as much additional information as you want.
 
-![Password Manager](images/Screenshot-2023-10-31-132220.png)
+![Password Manager](Screenshot-2023-10-31-132220.png)
 
 Use a password manager to document your digital estate.
 
-If you would like to use SeaTable's password manager for your digital estate, you can view the [template here]({{< relref "templates/everyday-life/password-manager" >}}). If you are interested, simply [register](https://seatable.io/en/registrierung/) for free and create an overview with your own data.
+If you would like to use SeaTable's password manager for your digital estate, you can view the [template here]({{< relref "templates/everyday-life/password-manager" >}}). If you are interested, simply [register]({{< relref "pages/registration" >}}) for free and create an overview with your own data.
 
 ## Conclusion: A digital estate is more important than ever
 

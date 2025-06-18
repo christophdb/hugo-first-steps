@@ -35,7 +35,7 @@ If you want to use accumulated knowledge in your company, you first need to dist
 
 The key to knowledge management in your company is therefore to record the individual solutions developed by your employees in a knowledge management system.
 
-![A good working atmosphere in your company lays an important foundation for effective knowledge management.](images/Design-ohne-Titel-29-e1722945539973-711x555.png)
+![A good working atmosphere in your company lays an important foundation for effective knowledge management.](Design-ohne-Titel-29-e1722945539973-711x555.png)
 
 A pleasant working atmosphere helps you to gather and share knowledge.
 
@@ -53,7 +53,7 @@ With this variant, you bundle the knowledge of individuals in a **central storag
 
 This variant is used when the knowledge is too complex for everyone to understand. **Experts** are then needed to pass on their knowledge personally to specific colleagues and are also available to answer questions.
 
-![An expert should always be available during working hours, even if the person is working from home.](images/Design-ohne-Titel-28-e1722945260552-711x505.png)
+![An expert should always be available during working hours, even if the person is working from home.](Design-ohne-Titel-28-e1722945260552-711x505.png)
 
 If you have experts in your company, they should be available quickly and easily in the event of problems.
 
@@ -63,7 +63,7 @@ You can also combine the two strategies, e.g. pass on your knowledge in a worksh
 
 To be able to use your company's accumulated knowledge efficiently, you should be aware of the **eight building blocks** that make up knowledge management.
 
-![The eight building blocks of knowledge management build on each other and enable you to make your company more efficient overall.](images/Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
+![The eight building blocks of knowledge management build on each other and enable you to make your company more efficient overall.](Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
 
 Classification according to Probst, Raub and Romhardt
 
@@ -76,7 +76,7 @@ This results in a kind of guideline that you can use to develop an effective kno
 
 A variety of well-known methods can be used to distribute knowledge, for example [workshops](https://seatable.io/en/workshop-planen/), lessons learned, [team meetings](https://seatable.io/en/in-4-schritten-zu-effizienteren-teammeetings/), mentoring, [onboarding](https://seatable.io/en/onboarding/) or internal newsletters.
 
-![In order to operate knowledge management, it is important that all employees are up to date and actively exchange information.](images/Design-ohne-Titel-27-e1722944969749-711x544.png)
+![In order to operate knowledge management, it is important that all employees are up to date and actively exchange information.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 
 An active exchange is important for good knowledge management.
 
@@ -95,11 +95,11 @@ Knowledge management can achieve a great deal and can therefore be used profitab
 
 In **customer support**, for example, a sophisticated knowledge management system can relieve you of many tasks. For questions such as "How do I change my address details?" or "Where can I deactivate notifications?", customers rarely need a personal contact by phone or email. Instead, a **self-service portal** is set up in which the most frequent customer queries can be viewed with an immediately available solution.
 
-![Customer support consists of several components.](images/Design-ohne-Titel-26-e1722944554743-711x485.png)
+![Customer support consists of several components.](Design-ohne-Titel-26-e1722944554743-711x485.png)
 
 Save your employees a lot of work by offering your customers help to help themselves.
 
-[This help area](https://seatable.io/en/docs/) is an example of a well-managed knowledge management system. On the one hand, this reduces the support workload for your employees and, on the other, saves your customers a long wait.
+[This help area]({{< relref "help" >}}) is an example of a well-managed knowledge management system. On the one hand, this reduces the support workload for your employees and, on the other, saves your customers a long wait.
 
 ### Internal use
 
@@ -111,7 +111,7 @@ A **corporate culture** based on shared knowledge helps each individual employee
 
 If you are considering whether a knowledge management system is worthwhile for your company, don't worry: knowledge management is always worthwhile in the long term! However, there are some **challenges** that you should be aware of.
 
-![Knowledge management has many advantages, but faces a number of challenges, especially at the beginning of the process.](images/Vor-und-Nachteile-von-Wissensmanagement.png)
+![Knowledge management has many advantages, but faces a number of challenges, especially at the beginning of the process.](Vor-und-Nachteile-von-Wissensmanagement.png)
 
 Weigh up the two sides against each other.
 
@@ -188,11 +188,11 @@ To find the right software for your company, you should test several solutions a
 
 A good answer to all these questions is the intuitive and easy-to-use **SeaTable** knowledge database. At various levels (bases, tables, views, rows), it enables you and your employees to record information in a structured way, find it quickly, share it easily with others or filter it according to relevance for a particular group of people. This means you and your employees always have an overview.
 
-![Documenting knowledge is a simple task with SeaTable](images/knowledge-management.jpg)
+![Documenting knowledge is a simple task with SeaTable](knowledge-management.jpg)
 
-When you choose SeaTable, you give your employees a whole toolbox with which they can build a flexible knowledge database. SeaTable supports real-time [collaboration](https://seatable.io/en/docs/seatable-nutzen/zusammenarbeit/), including [comments](https://seatable.io/en/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) and [a](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/) complete [change history](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/). This allows you and your employees to convert your personal, implicit knowledge into explicit knowledge and make it available to others. SeaTable also allows you to visualize data graphically using various [plugins](https://seatable.io/en/docs/plugins/alle-plugins-in-der-uebersicht/) and [apps](https://seatable.io/en/docs/apps/universelle-app/).
+When you choose SeaTable, you give your employees a whole toolbox with which they can build a flexible knowledge database. SeaTable supports real-time [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}), including [comments](https://seatable.io/en/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) and [a](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/) complete [change history](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/). This allows you and your employees to convert your personal, implicit knowledge into explicit knowledge and make it available to others. SeaTable also allows you to visualize data graphically using various [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) and [apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
-You can use SeaTable in the cloud, which is hosted in GDPR-compliant German data centers, or install it [on-premises](https://seatable.io/en/on-premises/) on your own servers. So your data is safe in any case! You can also use authorizations in many places in SeaTable to control exactly who can see and edit which data.
+You can use SeaTable in the cloud, which is hosted in GDPR-compliant German data centers, or install it [on-premises]({{< relref "pages/product/seatable-server" >}}) on your own servers. So your data is safe in any case! You can also use authorizations in many places in SeaTable to control exactly who can see and edit which data.
 
 ## Conclusion: Build up your own knowledge management
 

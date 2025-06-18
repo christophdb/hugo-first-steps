@@ -25,7 +25,7 @@ Je größer ein Unternehmen ist, umso diffiziler gestaltet sich die Personalplan
 
 Generell ist die Personalplanung mit Excel-Vorlagen (kostenlos oder als Paid-Version) nicht ausschließlich schlecht. Der Vorteil ist, dass sich kostenlose Excel-Vorlagen aus dem Internet ohne großen Aufwand nutzen lassen. Alles, was ein User braucht, ist Microsoft Office, Open Office oder ein Google-Konto, um auf Google Sheets zugreifen zu können. Ob Dienstplan, Schichtplan oder Mitarbeiterplanung – einfach das entsprechende Suchwort bei Google eingeben und schon öffnet sich die Welt der kostenlosen Excel-Vorlagen.
 
-![Mitarbeiter nutzt für die Personalplanung die kostenlose Excel Vorlage.](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_343110940_bearbeitet-711x474.jpg)
+![Mitarbeiter nutzt für die Personalplanung die kostenlose Excel Vorlage.](Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_343110940_bearbeitet-711x474.jpg)
 
 Personalplanung Excel Vorlage kostenlos © monticellllo / adobe stock
 
@@ -53,7 +53,7 @@ Ein weiterer, entscheidender Vorteil der Personalplanung ohne kostenlose Excel-V
 
 So sind nicht nur alle immer auf dem gleichen Informationsstand, sondern der Organisationsaufwand reduziert sich signifikant. Und dabei macht es keinen Unterschied, ob Sie ein kleines, mittleres oder großes Unternehmen leiten, ein Café führen oder einen Autohandel. Mit dem passenden Online-Tool gibt es für jede Anforderungen den passenden [Schichtplan]({{< relref "templates/human-resources/shift-schedule" >}}) oder die optimale [Arbeitszeiterfassung]({{< relref "templates/human-resources/recording-working-time" >}}).
 
-![](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
+![](Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
 
 Personalplanung Excel Vorlage kostenlos © SeaTable
 

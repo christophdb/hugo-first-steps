@@ -18,7 +18,7 @@ Wer regelmäßig mit [Excel]({{< relref "pages/excel-alternative" >}}) arbeitet,
 
 Für alle Spalten bietet SeaTable eine regelbasierte, bedingte Formatierung an. Eine Regel ist die Beschreibung eines hypothetischen Inhalts einer Zelle (z.B. Wert > 50 oder Datum nach dem 31.12.2021) sowie eine Formatierungsanweisung. Ist die Regel erfüllt, dann wird die Zelle entsprechend der Anweisung formatiert. Mit geschickt gewählten Regeln lassen sich unter anderem statistische Ausreißer oder ungewöhnliche Werte leicht erkennbar machen. Natürlich können Sie auch mehrere Regeln pro Spalte definieren, um anspruchsvolle Anforderungen abzubilden.
 
-![Conditional cell formatting](https://seatable.io/wp-content/uploads/2022/02/Conditional_cell_formatting2.png)
+![Conditional cell formatting](Conditional_cell_formatting2.png)
 
 Hat eine Spalte numerische Zellwerte, dann bietet SeaTable zusätzlich zur regelbasierten Formatierung eine Formatierung nach Werten. Diese bedingte Formatierung färbt die Zellen mit einem Farbverlauf ein. Große Werte werden mit dem oberen Ende des Farbverlaufs eingefärbt, kleine Werte mit dem unteren Ende. So wird auf einen Blick die Größenordnung eines Zellwerts deutlich.
 
@@ -30,13 +30,13 @@ Wenn Sie nicht nur die Größenordnung der Zellwerte einer Spalte anzeigen lasse
 
 In Tabellen mit vielen Spalten tritt häufiger das Problem auf, dass die ersten Spalten beim Scrollen nach rechts aus der Anzeige verschwinden. Bisher konnte man die erste Spalte fixieren und damit auch bei großen Tabellen dauerhaft anzeigen lassen. Diese Funktion zeigt sich im neuen Release von einer flexibleren Seite: Beginnend mit der Version 2.7 lassen sich weitere Spalten links fixieren. So weiß man auch beim Navigieren in großen Tabellen, in welchem Eintrag man sich befindet.
 
-![](https://seatable.io/wp-content/uploads/2022/02/Freeze-columns.png)
+![](Freeze-columns.png)
 
 Die Fixierung mehrerer Spalten erledigen Sie einfach mit der Maus: Bewegen Sie den Mauszeiger auf die vertikale Linie, die die Zeilennummerierung von der ersten Spalte trennt. Ziehen Sie nun die Maus nach rechts, um die Anzahl der fixierten Spalten festzulegen. Möchten Sie die Spaltenfixierung wieder auflösen, dann bewegen Sie den Mauszeiger auf den Rahmen zwischen der letzten fixierten und deren nachfolgender Spalte und ziehen Sie die Linie ganz nach links zurück.
 
 ## Standardwerte für die Datumsspalte
 
-![Default value function for date columns](https://seatable.io/wp-content/uploads/2022/02/Default_value_date_column.png)
+![Default value function for date columns](Default_value_date_column.png)
 
 Wiederholt gewünscht, jetzt erfüllt: Nach Text-, Zahl- und Einfachauswahlspalte erhält mit SeaTable 2.7 auch die Datumsspalte eine Standardwertfunktion. Mit ihr fügen Sie neuen Einträgen automatisch einen statischen oder dynamischen Datumswert hinzu.
 

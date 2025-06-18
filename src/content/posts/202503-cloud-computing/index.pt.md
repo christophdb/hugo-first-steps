@@ -147,7 +147,7 @@ Para além da **infraestrutura de base de dados**, o SeaTable oferece uma **plat
 
 ## Conclusão: A computação em nuvem é o futuro
 
-A computação em nuvem oferece-lhe uma forma económica, conveniente e segura de dimensionar os recursos de TI da sua empresa de forma rápida e flexível, a pedido. Os seus funcionários podem aceder aos dados e aplicações na nuvem a qualquer momento e a partir de qualquer lugar. Isto promove o armazenamento eficiente de dados e a [colaboração](https://seatable.io/pt/docs/seatable-nutzen/zusammenarbeit/), especialmente tendo em conta a crescente cultura de trabalho remoto. Tire partido da nuvem para preparar a sua empresa para o futuro digital!
+A computação em nuvem oferece-lhe uma forma económica, conveniente e segura de dimensionar os recursos de TI da sua empresa de forma rápida e flexível, a pedido. Os seus funcionários podem aceder aos dados e aplicações na nuvem a qualquer momento e a partir de qualquer lugar. Isto promove o armazenamento eficiente de dados e a [colaboração]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}), especialmente tendo em conta a crescente cultura de trabalho remoto. Tire partido da nuvem para preparar a sua empresa para o futuro digital!
 
 ![computação em nuvem sem fronteiras](Cloud-Computing-ohne-Grenzen.jpg)
 

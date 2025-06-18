@@ -66,7 +66,7 @@ No entanto, as transições entre as duas abordagens são fluidas. Por esta raz�
 As plataformas de baixo código e sem código têm três vantagens principais em comum:
 
 - **Desenvolvimento acelerado**: Ao utilizar ferramentas visuais e blocos de construção pré-construídos, é possível criar aplicações numa fração do tempo que levaria com o desenvolvimento tradicional de software.
-- **Colaboração**: Graças à interface gráfica do utilizador, mesmo as pessoas sem conhecimentos de programação, por exemplo [Citizen Developer](https://seatable.com/pt/citizen-developer/), podem participar no processo de desenvolvimento, dar feedback ou mesmo criar as suas próprias soluções de forma independente.
+- **Colaboração**: Graças à interface gráfica do utilizador, mesmo as pessoas sem conhecimentos de programação, por exemplo [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}), podem participar no processo de desenvolvimento, dar feedback ou mesmo criar as suas próprias soluções de forma independente.
 - **Eficiência de custos**: Um dispêndio de tempo significativamente menor e a possibilidade de até os programadores menos experientes poderem programar de forma produtiva conduzem a custos de desenvolvimento mais baixos.
 
 ### As maiores vantagens da programação low-code

@@ -64,9 +64,9 @@ Primeiro crie o directório com assento em /opt. Desde a instalação do content
 `mkdir /opt/seatable   cd /opt/seatable   wget -O "docker-compose.yml" "https://manual.seatable.io/docker/Enterprise-Edition/docker-compose.yml"   nano docker-compose.yml`
 
 Este é o aspecto do ficheiro YAML após o download:  
-![docker-compose.yml ficheiro](https://seatable.io/wp-content/uploads/2021/01/SeaTable_dockercompose.png)
+![docker-compose.yml ficheiro](SeaTable_dockercompose.png)
 
-![docker-compose.yml ficheiro](https://seatable.io/wp-content/uploads/2021/01/SeaTable_dockercompose.png)
+![docker-compose.yml ficheiro](SeaTable_dockercompose.png)
 
 À primeira vista, pode ver os quatro contentores que Docker configura quando a receita é executada: db, memcached, redis e seatable. Para cada contentor, a imagem a ser utilizada ("image") e o nome do contentor ("container_name") são declarados. O nome do contentor é o nome que pode ser utilizado mais tarde para gerir o contentor através da Consola Docker .
 
@@ -110,7 +110,7 @@ Se votou para utilizar Let's Encrypt no site docker-compose.yml, então o seu pe
 
 Pode saber mais sobre a integração do seu próprio certificado SSL no [manual SeaTable](https://manual.seatable.io/docker/Enterprise-Edition/Deploy%20SeaTable-EE%20with%20Docker/#ssltls).
 
-![Menu de utilizadores na administração do sistema SeaTable](https://seatable.io/wp-content/uploads/2021/01/SeaTableEE_SystemAdministration_Users.png)
+![Menu de utilizadores na administração do sistema SeaTable](SeaTableEE_SystemAdministration_Users.png)
 
 ## Activação da licença SeaTable
 

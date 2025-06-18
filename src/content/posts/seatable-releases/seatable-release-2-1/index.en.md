@@ -17,7 +17,7 @@ Today, 6 July 2021, we updated [SeaTable Cloud](https://cloud.seatable.io) to Se
 
 SeaTable's advanced sharing (e.g. custom sharing permissions, column permissions, row locking) gives base administrators extensive control over who can view, edit and otherwise work with table data. With the new table permissions , administrators have an additional option to fine-tune access to tables.
 
-![SeaTable 2.1: Table permissions](images/TablePermissions.png)
+![SeaTable 2.1: Table permissions](TablePermissions.png)
 
 table permissions control the access rights of users to a single table in a Base. In the default settings, they do not limit the editing rights of users, i.e. any user with at least write permissions can add rows as well as edit and delete existing rows . If the owner of a Base or an administrator wants to limit these permissions for individual users or groups, they can now do so with SeaTable 2.1. Permissions to add files or delete files can be revoked from all or any non-admin users. Or they can be assigned exclusively to a selection of users. The permission to add and delete can be managed individually and independently.
 
@@ -37,7 +37,7 @@ Other data processing actions, such as calculating the order or automatically li
 
 ## Extended permissions for single and multiple selection columns
 
-![SeaTable 2.1: Advanced permissions for single and multiple select columns](images/Advanced-column-permissions.png)
+![SeaTable 2.1: Advanced permissions for single and multiple select columns](Advanced-column-permissions.png)
 
 The column permissions, which were introduced in [SeaTable 1.2](https://seatable.io/en/seatable-release-1-2/), allow the assignment and control of individual editing rights for individual columns. With SeaTable 2.1, the column authorisation menu of the two column types single selection and multiple selection was extended by a second button. This allows you to control which users may create and edit options in a selection column.
 
@@ -47,7 +47,7 @@ Basically, all users with write permissions can edit options. Owners and admins 
 
 The checkbox column type was somewhat unwieldy in daily use. Probably the most obvious convenience killer was the need for two clicks to check or uncheck a box - one to select the cell, another to check or uncheck the box. The new checkbox column is a huge step forward in usability and appearance.
 
-![SeaTable 2.1: Improved checkbox column](images/cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
+![SeaTable 2.1: Improved checkbox column](cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
 
 ## Numerous detail improvements
 

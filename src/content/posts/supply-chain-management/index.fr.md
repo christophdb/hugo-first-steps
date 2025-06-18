@@ -53,13 +53,13 @@ SeaTable crée un lieu où toutes les informations peuvent être rassemblées. V
 
 SeaTable vous permet de saisir et de suivre vos fournisseurs en quelques étapes seulement. Un ID fournisseur est automatiquement généré lors de la création d'une nouvelle ligne. Il vous suffit de saisir le nom du fournisseur, l'adresse, l'adresse e-mail, le site web, le service d'expédition et la catégorie des marchandises. La feuille de calcul est reliée aux autres feuilles de calcul "Article Master" et "Incoming Goods". Cela vous permet un échange d'informations permanent ou une synchronisation entre les différentes feuilles de calcul, afin que vous soyez toujours à jour.
 
-![SCM - Fournisseurs](https://seatable.de/wp-content/uploads/2021/10/Supplier.jpg)
+![SCM - Fournisseurs](Supplier.jpg)
 
 Vos fournisseurs dans SeaTable
 
 Dans la feuille de calcul "Stores", vous avez la possibilité de saisir toutes vos différentes filiales avec les informations les plus importantes, comme le nom de chaque filiale, l'adresse, le responsable de la filiale et l'adresse e-mail. Les données sont en outre directement transférées dans le plug-in Map. Ainsi, vous avez toujours une vue d'ensemble de toutes les filiales.
 
-![SCM - Magasins](https://seatable.de/wp-content/uploads/2021/10/Stores.jpg)
+![SCM - Magasins](Stores.jpg)
 
 Gardez un œil sur toutes les filiales
 
@@ -67,13 +67,13 @@ Gardez un œil sur toutes les filiales
 
 Saisissez facilement votre flux de marchandises via un formulaire web auquel vous donnez accès à vos collaborateurs compétents.
 
-![SCM - Réception des marchandises](https://seatable.de/wp-content/uploads/2021/10/Webformular_Inc.jpg)
+![SCM - Réception des marchandises](Webformular_Inc.jpg)
 
 Saisie de l'entrée de marchandises dans SeaTable
 
 La feuille de calcul "Incoming Goods" est consacrée à la réception des marchandises commandées auprès du fournisseur. Via le formulaire web, votre collaborateur de l'entrepôt saisit toutes les informations importantes, comme le nom de l'article, le service d'expédition avec lequel la marchandise est arrivée, l'état de la marchandise, le Tracking ID, ainsi que la quantité livrée et l'emplacement de stockage. En outre, il a la possibilité de saisir des notes sur l'état des marchandises endommagées. Les données saisies sont ensuite directement transférées dans votre tableau SeaTable. L'ID de livraison interne ainsi que la personne qui a saisi la commande sont automatiquement générés dans SeaTable. Les informations telles que l'ID d'article interne ou le numéro EAN sont extraites directement des feuilles de calcul "Article Master" et "Suppliers" via une [colonne de liaison](https://seatable.io/fr/docs/handbuch/seatable-nutzen/feld-typen/) et une formule, ce qui réduit considérablement le processus manuel.
 
-![SCM - Réception des marchandises](https://seatable.de/wp-content/uploads/2021/10/Incoming-goods.jpg)
+![SCM - Réception des marchandises](Incoming-goods.jpg)
 
 Votre réception de marchandises dans SeaTable
 
@@ -81,13 +81,13 @@ D'ailleurs, vous pouvez voir directement l'état de la marchandise en un coup d'
 
 Lors des commandes de vos filiales ou de la sortie des marchandises, celles-ci peuvent également commander facilement les produits nécessaires via le formulaire web. Pour ce faire, il suffit aux différentes filiales de sélectionner leur propre magasin, l'article souhaité et la quantité à livrer. La feuille de calcul "Outgoing goods" est liée aux feuilles de calcul "Stores" et "Article Master", de sorte que les informations, telles que l'adresse e-mail de la filiale et d'autres informations sur les articles, sont automatiquement complétées.
 
-![SCM - commande](https://seatable.de/wp-content/uploads/2021/10/Webformular_order.jpg)
+![SCM - commande](Webformular_order.jpg)
 
 Commander facilement via le formulaire web
 
 Vous avez maintenant la possibilité de planifier l'expédition et d'informer le magasin concerné que la commande est en route en appuyant sur un bouton. Pour ce faire, il vous suffit de saisir la date d'expédition, le prestataire de services d'expédition et le numéro d'envoi. En cliquant sur le bouton "Send !" dans la colonne "Shipping info to store", le message prédéfini est envoyé. Notez que vous devez pour cela enregistrer votre compte e-mail.
 
-![SCM - Sortie de marchandises](https://seatable.de/wp-content/uploads/2021/10/Outgoing-goods.jpg)
+![SCM - Sortie de marchandises](Outgoing-goods.jpg)
 
 Votre sortie de marchandises dans SeaTable
 
@@ -95,7 +95,7 @@ Vous pouvez adapter le contenu du message à votre guise et en quelques clics. P
 
 En outre, le plug-in Kanban vous permet de classer facilement les commandes en fonction du prestataire de services d'expédition ou de voir l'état des marchandises livrées. Cela vous permet de prendre des décisions encore plus rapidement.
 
-![SCM - Kanban](https://seatable.de/wp-content/uploads/2021/10/Kanban.jpg)
+![SCM - Kanban](Kanban.jpg)
 
 Vue Kanban dans SeaTable
 
@@ -103,7 +103,7 @@ Vue Kanban dans SeaTable
 
 La feuille de calcul "Article Master" constitue le cœur de ce modèle. Toutes les informations de toutes les feuilles de calcul y sont rassemblées. Le Supply Chain Manager a ainsi la possibilité de créer des produits, de les gérer, de leur attribuer automatiquement un numéro d'article continu, des numéros EAN ainsi que des images de produits et peut en même temps traiter, analyser et optimiser l'ensemble de son processus de gestion des stocks.
 
-![SCM - Article Master](https://seatable.de/wp-content/uploads/2021/10/Article_Master.jpg)
+![SCM - Article Master](Article_Master.jpg)
 
 Toutes les informations sur vos marchandises en un coup d'œil
 
@@ -117,7 +117,7 @@ D'un seul coup d'œil sur la ligne, vous pouvez voir directement, grâce aux mar
 
 Pour que vous puissiez également garder un œil sur tous les chiffres importants et prendre rapidement des décisions pertinentes, il est important de créer un lieu qui vous permette de structurer ces chiffres tout en les représentant graphiquement.
 
-![SCM - Statistiques](https://seatable.de/wp-content/uploads/2021/10/Statistics.jpg)
+![SCM - Statistiques](Statistics.jpg)
 
 Votre tableau de bord SCM dans SeaTable
 

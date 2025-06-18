@@ -16,7 +16,7 @@ Eating as cheaply and healthily as possible with as little time as possible - a 
 
 Meal Prep is the abbreviation for **Meal Preparation**. The idea behind it is that you pre-cook your favorite dishes in large quantities so that they are ready to eat in the following days and can be reheated or finished in just a few minutes.
 
-![With Meal Prep, prepared food is stored in boxes or jars.](images/ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
+![With Meal Prep, prepared food is stored in boxes or jars.](ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
 
 Various dishes are conjured up from just a few ingredients.
 
@@ -47,7 +47,7 @@ Meal prep has some unbeatable advantages - both over cooking fresh meals every d
 - **Promotes healthy eating:** Home-cooked meals often contain less sugar, fat and salt - you know what you are eating and can adapt the recipes to your nutritional goals.
 - **Against food waste:** You can avoid opened packs and spoiled ingredients by buying the right amount of fresh food and using all of it straight away.
 
-![With Meal Prep, you should only buy the food you really need.](images/maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
+![With Meal Prep, you should only buy the food you really need.](maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
 
 Targeted shopping saves you time and money because you only buy the food you really need.
 
@@ -60,7 +60,7 @@ Sounds too good to be true? Like many food trends, Meal Prep can't solve all you
 - **Monotony:** You don't always feel like eating your favorite dishes, even if you eat them for the third day in a row. But below you can find out how to add variety to your pre-cooked meals.
 - **Storage costs:** If you are pre-cooking for several days, you need enough space in your fridge or freezer and the right storage equipment.
 
-![Your meals can become one-sided if you only use a few ingredients.](images/pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
+![Your meals can become one-sided if you only use a few ingredients.](pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
 
 Be creative and make sure your dishes are as varied as possible.
 
@@ -68,7 +68,7 @@ Be creative and make sure your dishes are as varied as possible.
 
 To make the Meal Prep mission a success, you first need a [meal plan](https://seatable.io/en/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). The following **five steps** will help you with the process.
 
-![How to make your meal prep a success in five simple steps.](images/Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
+![How to make your meal prep a success in five simple steps.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 
 With the right planning, even inexperienced cooks can succeed with Meal Prep.
 
@@ -85,7 +85,7 @@ First ask yourself how many days you would like to cook ahead for. For meal prep
 
 The recipes have been selected, now you need the **ingredients**. List what you need and in what **quantities** so that you can keep track of everything while you're shopping. A [shopping list]({{< relref "templates/everyday-life/shopping-list" >}}) also helps you to buy only the food you really need for your meals. Make sure you only buy fresh and perishable goods if you can use them immediately.
 
-![A shopping list will help you to get through your shopping without spending more money](images/torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
+![A shopping list will help you to get through your shopping without spending more money](torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
 
 A list helps you to keep track of your purchases.
 
@@ -111,7 +111,7 @@ The last step of meal prep is the easiest. Take the prepared ingredients out of 
 
 Here is an example of a **meal plan** to illustrate how Meal Prep works: You have chosen four dishes for a week, all of which contain vegetables, potatoes and/or rice. The **oven vegetables** form the basis for all the dishes and could, for example, consist of peppers, zucchinis, carrots, chickpeas, onions and mushrooms.
 
-![Meal prep with oven vegetables](images/markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
+![Meal prep with oven vegetables](markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
 
 Oven vegetables are an excellent base for various dishes.
 

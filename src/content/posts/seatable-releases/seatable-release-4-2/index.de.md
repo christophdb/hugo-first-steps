@@ -20,7 +20,7 @@ Heute Morgen haben wir SeaTable Cloud auf Version 4.2 aktualisiert. Alle Selbsth
 
 Die [Snapshot](https://seatable.io/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/)\-Funktionalität gehört zur DNA von SeaTable. Bereits in Version 1.0 ließen sich Momentaufnahmen vom Zustand einer Base erstellen und zu einem späteren Zeitpunkt wiederherstellen. Nur konsequent also, eine solche Funktion auch in den Universal App Builder zu integrieren.
 
-![Versionsverwaltung in Universellen Apps](images/Version-management-in-Universal-Apps.gif)
+![Versionsverwaltung in Universellen Apps](Version-management-in-Universal-Apps.gif)
 
 Die neue **Versionsverwaltung** befindet sich hinter dem {{< seatable-icon icon="dtable-icon-history" >}}-Icon in der linken Einstellungsleiste. Dort können Sie Snapshots erstellen, ansehen, wiederherstellen und löschen. Für jeden Snapshot lässt sich auch eine kleine Notiz erfassen, mit der Sie schnell die richtige Version wiederfinden.
 
@@ -34,17 +34,17 @@ Wenn Sie einen gespeicherten Snapshot wiederherstellen, wird die App auf den fr�
 
 Gerade bei Universellen Apps, über die viele Benutzer neue Einträge in einer Base vornehmen können, ist es schnell passiert, dass **identische Zeilen** angelegt werden. Dies können Sie künftig unterbinden, indem Sie auf [Tabellen- und Formularseiten](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/) die Funktion aktivieren, das Hinzufügen von Duplikaten zu verhindern. Dabei legen Sie die Spalten fest, in denen die Werte übereinstimmen müssen, damit eine Zeile als **Duplikat** zählt. Wenn das Hinzufügen einer Zeile blockiert wird, erscheint eine entsprechende Fehlermeldung.
 
-![Das Hinzufügen von Duplikaten in Universellen Apps verhindern](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
+![Das Hinzufügen von Duplikaten in Universellen Apps verhindern](Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
 ## Seiten duplizieren und Apps deaktivieren
 
 Die Erstellung und Konfiguration von Seiten im Universal App Builder kann – insbesondere bei individuellen Seiten wie Dashboards – viel Zeit in Anspruch nehmen. Für den Fall, dass Sie bereits Seiten gebaut haben, die Sie nur leicht abwandeln möchten, bietet SeaTable 4.2 nun die Funktion, **Seiten zu duplizieren** und damit Zeit und Aufwand zu sparen. Die Kopie übernimmt alle Inhalte, Einstellungen und Berechtigungen eins zu eins von der ursprünglichen Seite.
 
-![Seiten duplizieren in Universellen Apps](images/Duplicate-page-in-Universal-Apps.png)
+![Seiten duplizieren in Universellen Apps](Duplicate-page-in-Universal-Apps.png)
 
 Wenn Sie eine App gebaut haben, deren Nutzung Sie zeitweise unterbinden möchten, können Sie diese nun mit wenigen Klicks **aussetzen**, um allen Nutzergruppen den Zugriff zu entziehen. Zu einem späteren Zeitpunkt lässt sich die App auf gleichem Wege wieder **aktivieren**.
 
-![Apps zeitweise aussetzen und wieder aktivieren](images/Suspend-and-activate-apps.gif)
+![Apps zeitweise aussetzen und wieder aktivieren](Suspend-and-activate-apps.gif)
 
 ## Weitere Customizing-Optionen
 
@@ -56,7 +56,7 @@ Die Entwicklung am Universal App Builder wird in den kommenden Versionen ungebre
 
 Die [automatisierte Aktion „Eintrag bearbeiten“](https://seatable.io/docs/automationen/automations-aktionen/#6-toc-title) konnten Sie bisher nur durch das Hinzufügen neuer Zeilen oder die Änderung von Einträgen auslösen. Nun können Sie diese Automation auch **periodisch für Einträge ausführen lassen, die gewisse Bedingungen erfüllen**. Die Einträge in der Tabelle werden dann immer zu einem bestimmten Zeitpunkt gemäß den im Vorhinein definierten Einstellungen angepasst.
 
-![Automatisierte Aktion "Eintrag bearbeiten" periodisch ausführen](images/Run-automated-action-Modify-record-periodically-.png)
+![Automatisierte Aktion "Eintrag bearbeiten" periodisch ausführen](Run-automated-action-Modify-record-periodically-.png)
 
 ## Neue Funktion in der Formel-Spalte: iserror()
 
@@ -68,7 +68,7 @@ Für [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/)
 
 In SeaTable 4.2 haben wir die Suchfunktion auf der Startseite verfeinert, sodass Sie einen noch besseren Überblick über Ihre Bases und Apps erhalten. Geben Sie einfach einen Teil des Namens in das Suchfeld ein und SeaTable wird Ihnen per Autovervollständigung eine Liste aller Treffer anzeigen. Zudem sehen Sie in einer Art Browserverlauf die **Chronik der kürzlich verwendeten Suchergebnisse**, über die Sie schnell auf die zuletzt genutzten Bases und Apps zugreifen können.
 
-![Verbesserte Suchfunktion auf der Startseite](images/Screenshot-2023-11-20-133326.png)
+![Verbesserte Suchfunktion auf der Startseite](Screenshot-2023-11-20-133326.png)
 
 ### Private in normale Ansichten unwandeln
 

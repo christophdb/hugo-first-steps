@@ -54,13 +54,13 @@ SeaTable schafft einen Ort, an dem alle Informationen zusammenlaufen können. So
 
 In SeaTable können Sie in nur wenigen Schritten Ihre Lieferanten erfassen und nachhalten. Eine Lieferanten ID wird automatisch beim Anlegen einer neuen Zeile erzeugt. Sie müssen lediglich den Namen des Lieferanten, die Adresse, die Emailadresse, die Webseite, den Versanddienstleister und die Kategorie der Güter erfassen. Das Tabellenblatt ist mit den weiteren Tabellenblättern „Article Master“ und „Incoming Goods“ verknüpft. Dies ermöglicht Ihnen einen permanenten Informationsaustausch bzw. Synchronisation zwischen den einzelnen Tabellenblättern, damit Sie immer up-to-date sind.
 
-![SCM - Lieferanten](https://seatable.de/wp-content/uploads/2021/10/Supplier.jpg)
+![SCM - Lieferanten](Supplier.jpg)
 
 Ihre Lieferanten in SeaTable
 
 In dem Tabellenblatt “Stores” haben Sie die Möglichkeit, alle Ihre verschiedenen Filialen mit den wichtigsten Informationen, wie z.B. den Namen der einzelnen Filiale, die Adresse, den Filialleiter und die Emailadresse zu erfassen. Die Daten wandern zudem auch direkt in das Map-Plugin. Somit haben Sie alle Filialen immer im Blick.
 
-![SCM - Stores](https://seatable.de/wp-content/uploads/2021/10/Stores.jpg)
+![SCM - Stores](Stores.jpg)
 
 Behalten Sie alle Filialen im Blick
 
@@ -68,13 +68,13 @@ Behalten Sie alle Filialen im Blick
 
 Erfassen Sie Ihren Warenfluss ganz einfach über ein Webformular, zu dem Sie Ihren dafür zuständigen Mitarbeitern den Zugang ermöglichen.
 
-![SCM - Wareneingang](https://seatable.de/wp-content/uploads/2021/10/Webformular_Inc.jpg)
+![SCM - Wareneingang](Webformular_Inc.jpg)
 
 Erfassung des Wareneingangs in SeaTable
 
 Im Tabellenblatt „Incoming Goods“ dreht sich alles um den Wareneingang Ihrer bestellten Ware des Lieferanten. Via Webformular trägt Ihr Lagermitarbeiter alle relevanten Informationen, wie den Artikelnamen, den Versanddienstleister mit dem die Ware eingetroffen ist, den Zustand der Ware, die Tracking ID, sowie die angelieferte Menge und den Lagerplatz ein. Zudem hat dieser noch die Möglichkeit, bei beschädigter Ware Notizen über den Zustand zu erfassen. Die erfassten Daten wandern im Anschluss direkt in Ihre SeaTable-Tabelle. Die interne Anlieferungs-ID, sowie der Erfasser der Bestellung werden automatisch in SeaTable erzeugt. Informationen, wie die interne Artikel-ID oder die EAN-Nummer, werden per [Verknüpfungsspalte](https://seatable.io/docs/handbuch/seatable-nutzen/feld-typen/) und Formel direkt aus den Tabellenblättern „Article Master“ und „Suppliers“ gezogen und verringern somit den manuellen Prozess enorm.
 
-![SCM - Wareneingang](https://seatable.de/wp-content/uploads/2021/10/Incoming-goods.jpg)
+![SCM - Wareneingang](Incoming-goods.jpg)
 
 Ihr Wareneingang in SeaTable
 
@@ -82,13 +82,13 @@ Ihr Wareneingang in SeaTable
 
 Bei Bestellungen Ihrer Filialen bzw. beim Warenausgang können diese auch bequem per Webformular die benötigten Produkte bestellen. Hierzu müssen die einzelnen Filialen lediglich Ihren eigenen Store, den gewünschten Artikel, sowie die Menge, die geliefert werden soll, auswählen. Das Tabellenblatt „Outgoing goods“ ist mit den Tabellenblättern „Stores“ und „Article Master“ verknüpft, sodass die Informationen, wie die Emailadresse der Filiale und weitere Artikelinformationen, automatisch ergänzt werden.
 
-![SCM - bestellung](https://seatable.de/wp-content/uploads/2021/10/Webformular_order.jpg)
+![SCM - bestellung](Webformular_order.jpg)
 
 Bestellungen ganz bequem per Webformular
 
 Sie haben nun die Möglichkeit, den Versand zu planen und den jeweiligen Store auf Knopfdruck zu informieren, dass die Bestellung auf dem Weg ist. Hierzu müssen Sie einfach das Versanddatum, den Versanddienstleister und die Sendungsnummer erfassen. Mit einem Klick auf den Button „Send!“ in der Spalte „Shipping info to store“ geht die vordefinierte Mitteilung raus. Beachten Sie, dass Sie hierfür Ihr Emailkonto hinterlegen müssen.
 
-![SCM - Warenausgang](https://seatable.de/wp-content/uploads/2021/10/Outgoing-goods.jpg)
+![SCM - Warenausgang](Outgoing-goods.jpg)
 
 Ihr Warenausgang in SeaTable
 
@@ -96,7 +96,7 @@ Den Inhalt der Nachricht können Sie ganz nach Ihren Wünschen und innerhalb wen
 
 Übrigens können Sie mithilfe des Kanban-Plug-ins ganz einfach die Bestellungen anhand des jeweiligen Versanddienstleisters einordnen oder den Zustand der jeweiligen angelieferten Ware einsehen. Das hilft Ihnen noch schneller dabei, aussagekräftige Entscheidungen zu treffen.
 
-![SCM - Kanban](https://seatable.de/wp-content/uploads/2021/10/Kanban.jpg)
+![SCM - Kanban](Kanban.jpg)
 
 Kanban-Ansicht in SeaTable
 
@@ -104,7 +104,7 @@ Kanban-Ansicht in SeaTable
 
 Das Herzstück dieses Templates ist das Tabellenblatt „Article Master“. Hier laufen alle Informationen aus allen Tabellenblättern zusammen. Der Supply Chain Manager hat somit die Möglichkeit, Produkte anzulegen, zu pflegen, mit einer fortlaufenden automatischen Artikel-ID, EAN-Nummern, sowie Produktbildern zu versehen und kann im gleichen Zug auch seinen gesamten Lagerhaltungsprozess darüber abwickeln, analysieren und optimieren.
 
-![SCM - Article Master](https://seatable.de/wp-content/uploads/2021/10/Article_Master.jpg)
+![SCM - Article Master](Article_Master.jpg)
 
 Alle Informationen zu Ihren Waren auf einen Blick
 
@@ -118,7 +118,7 @@ Mit nur einem Blick auf die Zeile können Sie anhand der farblichen Markierungen
 
 Damit Sie auch alle relevanten Zahlen im Blick behalten und schnell aussagekräftige Entscheidungen treffen können, ist es wichtig, einen Ort zu schaffen, der Ihnen diese Zahlen strukturiert aufbereitet und zugleich grafisch darstellt.
 
-![SCM - Statistiken](https://seatable.de/wp-content/uploads/2021/10/Statistics.jpg)
+![SCM - Statistiken](Statistics.jpg)
 
 Ihr SCM-Dashboard in SeaTable
 

@@ -53,7 +53,7 @@ Nous avons conçu notre modèle de manière simple et facile. Vous trouverez dan
 
 La colonne des dates permet de définir à l'étape suivante le jour et l'heure de début et de fin de la réunion. La colonne de formules qui suit calcule automatiquement la durée de la réunion, afin que tous sachent d'un coup d'œil combien de temps ils doivent prévoir. Dans la colonne "Employees", vous indiquez tous les collaborateurs qui doivent participer à la réunion. Tous les collaborateurs reçoivent alors une notification automatique, ce que nous expliquons plus en détail ci-dessous.
 
-![Gérer les réunions d'équipe avec SeaTable](https://seatable.de/wp-content/uploads/2021/10/Overview-Teammeeting.png)
+![Gérer les réunions d'équipe avec SeaTable](Overview-Teammeeting.png)
 
 L'étape suivante consiste à définir la salle dans laquelle la réunion aura lieu. Les salles sont clairement séparées par des couleurs, de sorte qu'il est facile de savoir où se réunir. La colonne suivante illustre une partie particulièrement importante de la préparation et du suivi : L'agenda. Comme SeaTable est aussi une base de données, tous les thèmes, fichiers et comptes rendus peuvent être directement déposés sur place et traités de manière synchrone. Chaque utilisateur autorisé peut travailler dans la base en même temps que d'autres utilisateurs et y inscrire par exemple des sujets importants.
 
@@ -63,7 +63,7 @@ L'agenda aide également à se préparer de manière adéquate à la réunion. I
 
 ### La fonction de chat facilite la communication
 
-![La fonction de chat rend les e-mails superflus ](https://seatable.io/wp-content/uploads/2021/10/Chat-Funktion.png)
+![La fonction de chat rend les e-mails superflus ](Chat-Funktion.png)
 
 La [fonction de chat](https://seatable.io/fr/docs/handbuch/zusammenarbeit/kommentare/) dans chaque ligne, c'est-à-dire dans chaque réunion d'équipe individuelle, permet une communication simple et légère qui rend tout e-mail superflu. En ouvrant une ligne (en cliquant sur les petites flèches bleues à gauche de la ligne), une vue globale de la réunion s'ouvre. À droite se trouve le chat, dans lequel vous pouvez facilement ajouter des collaborateurs et écrire des messages importants, comme par exemple que le collaborateur Müller doit télécharger la présentation intermédiaire avec la rétrospective de l'année.
 
@@ -75,7 +75,7 @@ Avec SeaTable, vous pouvez représenter l'ensemble de vos réunions d'équipe en
 
 La création de différentes vues est l'un des avantages pratiques de SeaTable par rapport aux autres tableurs.
 
-![Les vues personnalisées permettent de mieux s'organiser](https://seatable.io/wp-content/uploads/2021/10/Ansichten.png)
+![Les vues personnalisées permettent de mieux s'organiser](Ansichten.png)
 
 Créez autant de vues que vous le souhaitez et organisez-les en fonction de vos besoins en matière de données. Les paramètres de la vue d'origine restent inchangés. Un seul ensemble de données, mais des centaines de possibilités d'affichage : C'est possible avec SeaTable.
 
@@ -87,11 +87,11 @@ Les vues sont encore importantes pour le plug-in de calendrier et sont sur le po
 
 SeaTable est également équipé d'un plug-in de calendrier. Il est possible d'y intégrer des rendez-vous de toutes sortes afin de garder une bonne vue d'ensemble. Pour l'affichage général des réunions, il suffit de sélectionner cet affichage dans le plug-in de calendrier et de régler tous les paramètres en fonction de vos besoins.
 
-![Toutes les réunions sont visibles dans le calendrier](https://seatable.de/wp-content/uploads/2021/10/Calendar.png)
+![Toutes les réunions sont visibles dans le calendrier](Calendar.png)
 
 Nous avons donc catégorisé les salles dans des colonnes à sélection unique, car nous pouvons définir ici différentes couleurs par salle. Dans le plug-in de calendrier, cela présente l'avantage que les différentes réunions d'équipe peuvent être représentées par des couleurs correspondant exactement au schéma de couleurs des salles. Par exemple, si vous voulez créer une autre réunion le 20 octobre à la même heure, vous verrez directement qu'elle ne peut pas avoir lieu dans la salle de réunion bleue.
 
-![Vues dans le calendrier](https://seatable.io/wp-content/uploads/2021/10/Calendar-1.png)
+![Vues dans le calendrier](Calendar-1.png)
 
 Les vues créées sont maintenant utilisées dans le plug-in. Pour cela, il suffit de sélectionner la vue du collaborateur ou de la salle qui doit être affichée dans le calendrier. Ainsi, chaque collaborateur a sa propre vue du calendrier, dans laquelle toutes ses réunions sont enregistrées. Il en va de même pour l'aperçu de la salle : avec un filtre, seuls les rendez-vous qui ont lieu dans cette salle sont affichés dans la vue de la salle EG R002. Pour trouver une salle libre lors de la planification d'une réunion, il est possible de créer et de réserver directement un rendez-vous via la vue.
 

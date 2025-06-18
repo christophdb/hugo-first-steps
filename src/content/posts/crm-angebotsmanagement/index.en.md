@@ -47,13 +47,13 @@ To start recording the actual customer data, our [CRM template]({{< relref "temp
 
 This data then moves into your personal CRM system or into the SeaTable table "Customer Data" and is directly colour-coded there according to sales potential.
 
-![CRM_Webform](images/CRM_Webform.jpg)
+![CRM_Webform](CRM_Webform.jpg)
 
 Capture new customers via web form in SeaTable
 
 With just one look at row, you know exactly which turnover category the registered customer falls into. This should also help you to quickly and effectively assign the customer to one of your employees based on the turnover potential. The [notification rule that](https://seatable.io/en/docs/handbuch/zusammenarbeit/benachrichtigungen/?lang=auto) has been set is also particularly helpful here. If you subsequently change the turnover potential of the customer manually, the supervisor of the respective sales team is contacted directly and asked to assign the existing customer to one of his employees.
 
-![CRM system](images/CRM_Customer-data-view.jpg)
+![CRM system](CRM_Customer-data-view.jpg)
 
 The CRM system from SeaTable
 
@@ -65,13 +65,13 @@ In order to be able to assign an employee from your sales team to your customer,
 
 A [grouping function](https://seatable.io/en/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) and colour coding of rows according to the employee's position are intended to show you additional clear customer structures of your employees.
 
-![CRM_Salesteam](images/CRM_Salesteam.jpg)
+![CRM_Salesteam](CRM_Salesteam.jpg)
 
 Your sales team in SeaTable
 
 Now you can easily assign one of your responsible employees to the customer with just one click in the column "Responsible employee" in the table "Customer data". The whole thing is done in the background with a link to the table "Sales Team".
 
-![CRM_Salesteam_Employees](images/CRM_Salesteam02.jpg)
+![CRM_Salesteam_Employees](CRM_Salesteam02.jpg)
 
 Customer assignment in SeaTable
 
@@ -79,19 +79,19 @@ Customer assignment in SeaTable
 
 In just a few seconds you have created your very own personal offer for your customer. However, before you can start, it is important that you have maintained your product catalogue. As soon as you have entered all your products with product names and prices, you can start creating your offer straight away.
 
-![CRM_Product catalogue](images/CRM_Products.jpg)
+![CRM_Product catalogue](CRM_Products.jpg)
 
 Your product catalogue in SeaTable
 
 To do this, simply create a new entry in your "Offers" table. The offer number, which is consecutive, the corresponding offer date including time and the offer creator are automatically pre-filled. Now select your desired customer in the "Customer column" to whom you would like to submit an offer. The remaining missing customer data such as customer number, contact person, street, house number, postcode, city and country are automatically transferred from the "Customer data" table via the link column.
 
-![CRM_Offer_Customer_Data](images/CRM_offer_customer.jpg)
+![CRM_Offer_Customer_Data](CRM_offer_customer.jpg)
 
 Quotation creation in SeaTable
 
 You can then easily select the product you are offering in the "Product" column. The unit price is again automatically added from your "Product catalogue" table via a link column. Now simply enter the quantity offered under "Quantity" and the offer price will be calculated automatically using the formula unit price x quantity.
 
-![CRM_SeaTable_Product selection](images/crm_product_select.jpg)
+![CRM_SeaTable_Product selection](crm_product_select.jpg)
 
 Product selection in SeaTable
 
@@ -99,7 +99,7 @@ In order to be able to finally print out your offer or save it as a PDF file, no
 
 With just one click on "Print", you can now print this out or save it as a PDF document and then send it to your customer by post or e-mail.
 
-![CRM_Quotation](images/seatable_pagedesign-plugin-02.jpg)
+![CRM_Quotation](seatable_pagedesign-plugin-02.jpg)
 
 Your finished offer in SeaTable
 
@@ -109,19 +109,19 @@ If your customer has accepted the offer and paid, you can simply tick the "Paid"
 
 In addition to the table view, SeaTable offers offers a number of other plug-insto display your data differently. You can use these additional displays and automations to use them to get a different perspective on your customers and to derive targeted activities from it. The calendar plug-in provides you with an important overview of all customer appointments that are due to take place in your team. In addition, customers are marked in your calendar according to their turnover potential. To ensure that no customer appointments are forgotten, the responsible employee is automatically reminded of the appointment two days before it is due to take place by means of a notification rule.
 
-![CRM_SeaTable_Calendar](images/CRM-calendar.jpg)
+![CRM_SeaTable_Calendar](CRM-calendar.jpg)
 
 Calendar view in SeaTable
 
 The map plug-in, on the other hand, is designed to show you your customer distribution and, based on the turnover potential, to show you in colour where your most important customers are at home. With the "mouse-over effect" on the individual pin in the map view, you receive further important information on the actual customer hidden behind the marker.
 
-![CRM_SeaTable_Map](images/CRM_map.jpg)
+![CRM_SeaTable_Map](CRM_map.jpg)
 
 Map view in SeaTable
 
 Your SeaTable CRM system is rounded off with the Kanban plug-in. This shows you the exact distribution based on the sales potential of your customers and, on the other hand, in which sales phases your field staff are currently located. This view is also known as the sales pipeline and allows you to keep an eye on the most important customers.
 
-![CRM_SeaTable_Kanban](images/CRM_kanban.jpg)
+![CRM_SeaTable_Kanban](CRM_kanban.jpg)
 
 Kanban view in SeaTable
 
@@ -129,7 +129,7 @@ Kanban view in SeaTable
 
 In order to be able to make precise statements about your sales success, it is important that all relevant information is available in your CRM system at a glance. SeaTable enables you to create your own individual evaluations in no time at all with the help of [statistics](https://seatable.io/en/docs/handbuch/datenmanagement/statistiken/?lang=auto). This gives you your very own personal and individual dashboard view that gives your SeaTable CRM the finishing touch.
 
-![CRM_SeaTable_Statistics](images/crm_statistics.jpg)
+![CRM_SeaTable_Statistics](crm_statistics.jpg)
 
 Statistics in SeaTable
 

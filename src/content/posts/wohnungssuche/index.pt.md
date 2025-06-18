@@ -19,7 +19,7 @@ Antes de começar a procurar ativamente apartamentos, deve pensar primeiro nas c
 
 Um critério decisivo para muitos é a **renda**. A regra dos 30% estabelece que, idealmente, a renda não deve ser mais cara do que 30% do seu rendimento líquido. No entanto, deve ser realista e não estabelecer demasiados critérios de exclusão. Isto porque a oferta de apartamentos é limitada e a procura do apartamento perfeito é, na maioria dos casos, como procurar uma agulha num palheiro.
 
-![O que os inquilinos devem decidir antes de procurarem um apartamento](https://seatable.io/wp-content/uploads/2023/12/Wohnungssuche-Kriterien-711x889.png)
+![O que os inquilinos devem decidir antes de procurarem um apartamento](Wohnungssuche-Kriterien-711x889.png)
 
 Lista de controlo para a procura do apartamento perfeito.
 
@@ -36,7 +36,7 @@ O índice de rendas continua a aumentar, tornando difícil para muitas pessoas e
 - O **certificado de elegibilidade** confirma que o inquilino tem direito a mudar-se para um apartamento subsidiado pelo Estado. No entanto, para obter o certificado, o inquilino deve preencher determinados critérios. Por exemplo, não deve ultrapassar um determinado limite de rendimentos. A sua autarquia local esclarecerá se tem direito a este certificado.
 - **O subsídio de habitação** é um subsídio de renda para agregados familiares com baixos rendimentos. O Ministério Federal da Habitação, do Desenvolvimento Urbano e da Construção disponibiliza em linha uma [calculadora do subsídio de](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/wohnen/wohnraumfoerderung/wohngeld/wohngeldrechner-2023-artikel.html;jsessionid=6DD0480874498C458F1FA626537143D2.live861) habitação, que pode utilizar para verificar se tem direito ao mesmo. Também pode requerer o subsídio de alojamento junto da sua autarquia local.
 
-![Nascer do sol sobre os arranha-céus](https://seatable.io/wp-content/uploads/2023/12/Bild-von-Freepik_9328139-711x711.jpg)
+![Nascer do sol sobre os arranha-céus](Bild-von-Freepik_9328139-711x711.jpg)
 
 As pessoas que já não podem pagar as rendas na sua cidade têm direito a habitação social.
 
@@ -44,7 +44,7 @@ As pessoas que já não podem pagar as rendas na sua cidade têm direito a habit
 
 Existem vários métodos quotidianos para encontrar um apartamento. Por exemplo, alguns senhorios publicam **anúncios** nos **jornais locais** ou **afixam avisos** na cidade. Por isso, vale a pena manter os olhos abertos. **Os amigos** ou **conhecidos** também podem saber quem está à procura de inquilinos ou onde há um apartamento disponível.
 
-Se este processo for demasiado moroso, pode também recorrer a agências mais oficiais. Os inquilinos podem também recorrer a **agentes imob** iliários para encontrar alojamento, embora estes cobrem uma comissão. Nos termos da lei, a comissão do agente imobiliário não pode exceder duas rendas frias líquidas acrescidas de IVA. Outra opção é contactar diretamente **as empresas de gestão de imóveis**. Estas dispõem frequentemente de uma [visão global](https://seatable.io/pt/hausverwaltung/) e podem encontrar apartamentos que ficarão disponíveis em breve.
+Se este processo for demasiado moroso, pode também recorrer a agências mais oficiais. Os inquilinos podem também recorrer a **agentes imob** iliários para encontrar alojamento, embora estes cobrem uma comissão. Nos termos da lei, a comissão do agente imobiliário não pode exceder duas rendas frias líquidas acrescidas de IVA. Outra opção é contactar diretamente **as empresas de gestão de imóveis**. Estas dispõem frequentemente de uma [visão global]({{< relref "posts/hausverwaltung" >}}) e podem encontrar apartamentos que ficarão disponíveis em breve.
 
 {{< warning headline="Dica" text="Em caso de anulação, vale a pena perguntar ao senhorio se existe uma **lista de interessados**. Especialmente se possuir várias unidades de aluguer, pode ser contactado assim que houver outro apartamento disponível." />}}
 
@@ -54,7 +54,7 @@ Na era digital, o primeiro impulso quando se procura um apartamento é navegar n
 
 Talvez passe muito tempo nas **redes sociais**, por isso, porque não utilizar a inteligência dos enxames no Facebook, Instagram e afins? Pode anunciar a sua procura de um apartamento no seu estado, pedir às pessoas que o partilhem e depois navegar pelos grupos que foram criados especificamente para a procura de um apartamento.
 
-![Lupa sobre anúncios planos](https://seatable.io/wp-content/uploads/2023/12/Bild-von-Freepik_4344249-711x474.jpg)
+![Lupa sobre anúncios planos](Bild-von-Freepik_4344249-711x474.jpg)
 
 A procura de um apartamento é muitas vezes difícil.
 
@@ -74,7 +74,7 @@ Para o efeito, existem **agências de intercâmbio** especializadas em imóveis,
 
 Quando chega o momento de visitar um apartamento, há alguns pontos a ter em conta para determinar se o apartamento é realmente adequado. O ideal é marcar a visita numa altura em que ainda haja **luz do dia** suficiente para poder ver o apartamento. No entanto, o critério mais importante é saber se se sente bem no **bairro** e no apartamento.
 
-![Dicas para ver apartamentos](https://seatable.io/wp-content/uploads/2023/12/Wohnungssuche-Besichtigungen-1-711x889.png)
+![Dicas para ver apartamentos](Wohnungssuche-Besichtigungen-1-711x889.png)
 
 Dicas úteis para ver os apartamentos.
 

@@ -20,11 +20,11 @@ Também actualizámos os plugins para Webpack 5 e actualizámos a estrutura para
 
 ## Novo diálogo e ligações definidas pelo utilizador para formulários Web
 
-Para partilhar os seus [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/) com outros utilizadores, existiam anteriormente duas caixas de diálogo diferentes: uma em que podia copiar uma **hiperligação gerada automaticamente** e outra em que podia ampliar esta hiperligação com [valores pré-preenchidos](https://seatable.io/pt/docs/webformulare/formularfelder-per-url-vorbefuellen/). Agora combinámos estas opções numa única caixa de diálogo para aumentar a facilidade de utilização.
+Para partilhar os seus [formulários Web]({{< relref "help/base-editor/webformulare" >}}) com outros utilizadores, existiam anteriormente duas caixas de diálogo diferentes: uma em que podia copiar uma **hiperligação gerada automaticamente** e outra em que podia ampliar esta hiperligação com [valores pré-preenchidos](https://seatable.io/pt/docs/webformulare/formularfelder-per-url-vorbefuellen/). Agora combinámos estas opções numa única caixa de diálogo para aumentar a facilidade de utilização.
 
 Adicionámos também a nova opção de criar **URLs personalizados** para formulários Web. Pode depois editá-los, guardá-los como código QR, copiá-los ou apagá-los.
 
-![Novo diálogo de ligação de formulários no SeaTable 4.3](images/Formularlink-Dialog.gif)
+![Novo diálogo de ligação de formulários no SeaTable 4.3](Formularlink-Dialog.gif)
 
 {{< warning headline="Nota" text="A parte definida pelo utilizador que é anexada à ligação deve ter **entre 5 e 30 caracteres** e só pode conter **letras**, **números** e **hífenes**. Além disso, cada URL deve ser único: Se um URL definido pelo utilizador já estiver a ser utilizado, aparece uma mensagem de erro." />}}
 
@@ -39,7 +39,7 @@ Anteriormente, só era possível [criar documentos PDF](https://seatable.io/pt/d
 
 É possível utilizar as **notificações da aplicação** para informar os utilizadores de uma aplicação sobre alterações a registos de dados relevantes, por exemplo. Esta ação pode ser accionada por todos os quatro [eventos de acionamento](https://seatable.io/pt/docs/automationen/automations-trigger/).
 
-![Enviar notificação de aplicação](images/App-Benachrichtigung-senden.png)
+![Enviar notificação de aplicação](App-Benachrichtigung-senden.png)
 
 Os utilizadores da respectiva aplicação podem aceder às suas notificações através do ícone de sino {{< seatable-icon icon="dtable-icon-notice" >}} junto ao seu avatar no canto superior direito.
 
@@ -49,7 +49,7 @@ Na [coluna de](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalte-m
 
 Esta funcionalidade é particularmente útil na aplicação Universal. Pode ativar a opção para que os membros da equipa sejam visíveis para todos os utilizadores na lista pendente nas [definições](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) da aplicação Universal. Se não quiser que os utilizadores possam ver os registos de dados de outros, defina **filtros predefinidos**: Se uma página for filtrada pela coluna do empregado com a condição "inclui o utilizador atual", cada utilizador da aplicação universal só vê as entradas que lhe estão atribuídas na tabela.
 
-![Coluna do empregado na aplicação universal](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)
+![Coluna do empregado na aplicação universal](Mitarbeiter-Spalte-in-der-Universellen-App.gif)
 
 ## Mais melhorias na aplicação universal
 
@@ -59,11 +59,11 @@ Uma nova funcionalidade da aplicação Universal é a [função de comentários]
 
 Na [página individual](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), pode contar com dois novos elementos: o **contentor** e o **mapa**. O contentor fornece uma grelha com a qual pode organizar mais facilmente outros elementos (textos, imagens, estatísticas) e agrupá-los.
 
-![Elemento de contentor na página personalizada no SeaTable 4.3](images/Container-element-on-custom-page.png)
+![Elemento de contentor na página personalizada no SeaTable 4.3](Container-element-on-custom-page.png)
 
 O cartão, que combina uma imagem, um título e um texto num modelo de design, também garante uma apresentação de página bonita.
 
-![Elemento de cartão na página personalizada no SeaTable 4.3](images/Card-element-on-custom-page.png)
+![Elemento de cartão na página personalizada no SeaTable 4.3](Card-element-on-custom-page.png)
 
 Além disso, a **cor de fundo** das páginas individuais pode ser definida conforme desejado a partir do SeaTable 4.3 e a sobreposição indesejada de elementos foi corrigida. O design geral da aplicação universal é agora também apresentado numa cor uniforme em todas as páginas, que pode ser selecionada nas [definições globais](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
 
@@ -85,7 +85,7 @@ Se utilizar as duas aplicações que estão a expirar, recomendamos que reconstr
 
 Se [enviar mensagens de correio eletrónico através da automatização](https://seatable.io/pt/docs/beispiel-automationen/e-mail-versand-per-automation/), anteriormente só podia introduzir a sua mensagem como **texto simples** no campo de texto. A partir do SeaTable 4.3, é possível compor as mensagens em **formato rich text ou HTML** utilizando botões, tal como no envio de mensagens de correio eletrónico. Para tal, basta ativar o cursor à direita, por cima do campo de texto.
 
-![Rich text em mensagens de correio eletrónico automatizadas](images/Rich-text-in-automated-e-mail-messages.png)
+![Rich text em mensagens de correio eletrónico automatizadas](Rich-text-in-automated-e-mail-messages.png)
 
 Se gosta de utilizar **autorizações de coluna** para proteger os valores de alterações indesejadas, poderá defini-las de forma ainda mais precisa no futuro. Para além de _utilizadores específicos_, _administradores_ e _ninguém_, **determinados grupos** estão agora também disponíveis como opção.
 

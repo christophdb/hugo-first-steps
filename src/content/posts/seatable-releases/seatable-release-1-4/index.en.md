@@ -31,7 +31,7 @@ In version 1.3, selecting a linked record was a bit tedious. An in-cell dropdown
 
 The dropdown has made way for a new, detailed and context-sensitive wizard. Double-clicking on a cell opens it. If the cell is empty, the wizard displays the first columns of the linked table. Confusion about which entry in the target table is the correct one is now a thing of the past. When double-clicking on a cell with already linked entries, the wizard shows the details of the linked entries. Additional entries can be linked via the "Add new link" button in the upper right corner.
 
-![New wizard for link to other records columns](images/linking-dialog.png)
+![New wizard for link to other records columns](linking-dialog.png)
 
 The new wizard greatly facilitates the creation of links between tables, but that’s not all it can do. You can also create new records in the linked table right from the wizard. No need for switching tables. No awkward clicking sessions. No time lost. You basically work in two different tables from one.
 
@@ -45,7 +45,7 @@ Imagine you manage your IT assets with SeaTable. In Table 1 you manage the users
 
 Good communication within the team is key for efficient online collaboration. With the new real-time chat, SeaTable 1.4 introduces exactly what you need to stay in touch with your teammates! Bouncing off ideas, commenting on new data entries or discussing modifications – you can do it where it is easiest: right with the data.
 
-![Real-time chat in comments](images/comment-chat.png)
+![Real-time chat in comments](comment-chat.png)
 
 If you are not yet familiar with the comment function, select a row and press the space bar to call up the line details. In the upper right corner you will find the comment column. SeaTable's improved backend notifies users of new comments without delay. If the users are online, then the group chat can start. Otherwise, users are informed by [notification](https://seatable.io/en/docs/handbuch/zusammenarbeit/benachrichtigungen/). Share your ideas and impressions with colleagues when they are fresh.
 
@@ -57,7 +57,7 @@ But Zapier was only the first step. Webhooks, introduced with this version, are 
 
 ## Python support for SeaTable scripts
 
-![Python support in SeaTable scripts](images/python.png)
+![Python support in SeaTable scripts](python.png)
 
 Last but not least, SeaTable 1.4 also has something in store for developers. This time, we have good news for all those fond of Python.
 

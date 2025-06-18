@@ -18,11 +18,11 @@ Esta mañana hemos actualizado SeaTable Cloud a la versión 3.5. Todos los auto-
 
 ## Fórmulas en la primera columna
 
-SeaTable 3.5 ofrece más flexibilidad en la primera columna de la tabla: Hasta ahora, sólo se permitían en ella los [tipos de](https://seatable.io/es/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) columna texto, número, fecha, selección única y número automático. El tipo de columna [fórmula](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/), que ahora también se admite, permite "calcular" su propia referencia de fila. Dado que la [primera](https://seatable.io/es/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) columna de una tabla no se puede ocultar y, además, se muestra siempre en el diálogo de enlace, resulta especialmente adecuada para este fin.
+SeaTable 3.5 ofrece más flexibilidad en la primera columna de la tabla: Hasta ahora, sólo se permitían en ella los [tipos de]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) columna texto, número, fecha, selección única y número automático. El tipo de columna [fórmula](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/), que ahora también se admite, permite "calcular" su propia referencia de fila. Dado que la [primera](https://seatable.io/es/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) columna de una tabla no se puede ocultar y, además, se muestra siempre en el diálogo de enlace, resulta especialmente adecuada para este fin.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
-![SeaTable 3.5 - La primera columna admite fórmulas](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-FirstColumn.png)
+![SeaTable 3.5 - La primera columna admite fórmulas](SeaTable-3.5-FirstColumn.png)
 
 ## Dos acciones adicionales para automatizaciones periódicas
 
@@ -36,7 +36,7 @@ Compruebe usted mismo lo que permiten las [operaciones de tratamiento de datos e
 
 Con un [botón](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/) puedes ejecutar una o varias acciones con un solo clic, por ejemplo, [enviar un correo electrónico](https://seatable.io/es/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) y luego editar la línea. No era posible vincular la ejecución de una acción a una condición. Hemos cerrado esta brecha funcional con SeaTable 3.5.
 
-![SeaTable 3.5 - Las acciones de los botones pueden vincularse a reglas](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-ConditionalExecution.png)
+![SeaTable 3.5 - Las acciones de los botones pueden vincularse a reglas](SeaTable-3.5-ConditionalExecution.png)
 
 La nueva ejecución condicional permite definir una regla para cada acción del botón. Una regla puede constar de una o varias condiciones. Sólo si se cumple la regla, se ejecutará la acción al pulsar el botón. Si una condición no se cumple, SeaTable salta a la siguiente acción y muestra la acción no ejecutada en un mensaje.
 
@@ -48,7 +48,7 @@ A partir de la versión 3.5, SeaTable ejecuta todas las acciones definidas de fo
 
 El tipo de columna Fórmula para enlaces permite evaluar las entradas enlazadas. Se dispone de un total de cinco métodos de evaluación: [Findmin](https://seatable.io/es/docs/verknuepfungen/die-findmin-formel/), [Findmax](https://seatable.io/es/docs/verknuepfungen/die-findmax-formel/), [Rollup](https://seatable.io/es/docs/verknuepfungen/die-rollup-formel/), [Countlinks](https://seatable.io/es/docs/verknuepfungen/die-countlinks-formel/) y [Lookup](https://seatable.io/es/docs/verknuepfungen/die-lookup-funktion/). La fórmula Lookup permite mostrar valores adicionales de filas ya enlazadas en la tabla actual. De este modo, puede leer y mostrar tanta información como desee de la tabla enlazada.
 
-![SeaTable 3.5 - Las columnas de fórmulas de enlace admiten búsquedas condicionales](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-ConditionalLookup.png)
+![SeaTable 3.5 - Las columnas de fórmulas de enlace admiten búsquedas condicionales](SeaTable-3.5-ConditionalLookup.png)
 
 En SeaTable 3.5 hemos mejorado la fórmula de búsqueda y hemos implementado una función que existe desde hace tiempo en las otras fórmulas: una evaluación condicional. Si la evaluación condicional está activada para las búsquedas, sólo se muestran los valores que cumplen la(s) condición(es) establecida(s). De este modo, obtendrá la información exacta que necesita de la tabla vinculada.
 
@@ -66,7 +66,7 @@ Para simplificar la transferencia de datos de una base a otra, SeaTable 3.5 ofre
 
 SeaTable proporciona 24 colores para las opciones de selección, los botones y el formato condicional. Para satisfacer deseos individuales o requisitos de IC, SeaTable 3.5 permite definir cualquier número de colores adicionales en cada base. Los autoalojadores también tienen la opción de definir globalmente colores individuales en SeaTable a través del archivo de configuración.
 
-![SeaTable 3.5 - Nuevo diseño para los detalles de las filas](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-RowDetails.png)
+![SeaTable 3.5 - Nuevo diseño para los detalles de las filas](SeaTable-3.5-RowDetails.png)
 
 El diseño de una sola columna de los detalles de las filas se sustituye por un diseño de dos columnas con la nueva versión. Esto hace que la visualización sea más corta y clara, especialmente en tablas con muchas columnas. El registro de la base, en el que puedes seguir todos los cambios dentro de una base, también tiene un nuevo aspecto. Si hace clic en Registros en el historial de la base {{< seatable-icon icon="dtable-icon-history" >}}, se abrirá una ventana independiente con entradas de registro claras.
 

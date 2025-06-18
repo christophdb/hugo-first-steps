@@ -20,7 +20,7 @@ Mit dem Seitendesign-Plugin können Sie Daten aus Ihren Bases in anschauliche Do
 
 Das Seitendesign-Plugin in SeaTable 3.4 ermöglicht erstmals die dynamische Positionierung von Elementen auf der Seite. Je nach Länge vorausgehender Elemente wandern nachfolgende Elemente auf einer Seite nach unten. So können Sie die gleiche Vorlage verwenden, egal ob ein Angebot eine oder ein Dutzend Positionen enthält. Seitenumbrüche und neue Seiten werden automatisch eingefügt. Den oberen und unteren Seitenrand können Sie individuell einstellen.
 
-![SeaTable 3.4 - Dynamic Positioning of elements in the page design plugin](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-DynamicPositioningElements.png)
+![SeaTable 3.4 - Dynamic Positioning of elements in the page design plugin](SeaTable-3.4-DynamicPositioningElements.png)
 
 Die neue Funktion “Tabelle automatisch an Inhalt anpassen” gibt es für das Ansichtselement “Alle Einträge der Ansicht” sowie die tabellarische Darstellung von Verknüpfungen unter “Tabellenfelder”. Bei Aktivierung der Funktion definiert der Platzhalter für das Tabellenelement (grün umrahmtes Element im Screenshot) die Mindestlänge der einzufügenden Tabelle. Ist die Tabelle länger als der Platzhalter, wird dieser automatisch verlängert.
 
@@ -32,7 +32,7 @@ Die bisherige Funktion “Weitere Seiten hinzufügen, wenn die Größe des Platz
 
 Nun können Abfragen über eine beliebige Anzahl an Feldern erfolgen. Für jedes Feld können Sie festlegen, ob es sich um ein Pflichtfeld handelt oder die Eingabe optional ist. Für textbasierte Felder können Sie darüber hinaus eine unscharfe Suche aktivieren und die Berücksichtigung von Groß- und Kleinschreibung erzwingen. Durch die Kombination der Optionen lässt sich die Suche in hohem Maße steuern. Unverändert bleiben das Menü zum Ausblenden von einzelnen Spalten in den Suchergebnissen sowie die Sortieroptionen.
 
-![SeaTable 3.4 - Improved data query app](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-DataQueryApp.png)
+![SeaTable 3.4 - Improved data query app](SeaTable-3.4-DataQueryApp.png)
 
 Bei mehreren Abfragefeldern gilt immer eine Boolesche UND-Verknüpfung, d.h. alle eingegebenen Werte müssen in den Suchergebnissen vorkommen. Für vertrauliche Informationen ist die Data Query App natürlich weiterhin ungeeignet, weil sie keine Benutzer-Authentifizierung erfordert. Mit einer weiteren externen App, die wir demnächst vorstellen werden, werden wir diese funktionale Lücke schließen.
 
@@ -42,7 +42,7 @@ In [SeaTable 3.3]({{< relref "posts/seatable-releases/seatable-release-3-3" >}})
 
 Der Formular-Editor von SeaTable 3.4 bietet die Option, für jedes Formularelement einen Anzeigenamen festzulegen, der dann im Webformular anstelle des Spaltennamens angezeigt wird. Auf diese Weise wird es möglich, die Spalten in der Tabelle losgelöst vom Webformular zu benennen: Die Spaltennamen können kurz und knapp sein, während die Namen der Formularfelder im Sinne der Benutzerfreundlichkeit etwas wortreicher ausfallen dürfen. So haben Sie noch mehr Freiheit bei der Gestaltung Ihrer Webformulare.
 
-![SeaTable 3.4 - New editor for custom form links](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-FormLinkEditor.png)
+![SeaTable 3.4 - New editor for custom form links](SeaTable-3.4-FormLinkEditor.png)
 
 Gleich zwei Verbesserungen betreffen SeaTables Fähigkeit, Webformulare über URL-Parameter vorauszufüllen. Diese Funktion existiert zwar bereits seit geraumer Zeit, aber es fehlte eine benutzerfreundliche Möglichkeit für die Erstellung und Verwaltung individueller Formularlinks sowie die Option, einen vorausgefüllten Wert vor Änderungen durch den Formular-Benutzer zu schützen. Beides haben wir bei SeaTable 3.4 in Angriff genommen und gelöst.
 
@@ -52,7 +52,7 @@ Hinter der Schaltfläche “… Mehr” im Formular-Editor verbirgt sich ein neu
 
 Bei Tabellen mit vielen Spalten können die Auswahllisten in den Ansichtseinstellungen ganz schön lang und unübersichtlich werden. Um den Suchaufwand auf ein Minimum zu reduzieren, gibt es nun in allen Hauptmenüs der Ansichtseinstellungen (Filtern, Sortieren, Gruppieren, Ausblenden und Zeilen formatieren) eine Such- und Filterfunktion. Die Nutzung ist denkbar einfach: Geben Sie den Namen der gesuchten Spalte ein und schon wird nur noch die gewünschte Spalte angezeigt. Natürlich funktioniert dies auch dann, wenn Sie nur einen Teil des Namens eingeben, beispielsweise wenn Sie nicht ganz sicher sind, wie die gesuchte Spalte heißt. Aus der gefilterten Ergebnisliste können Sie dann die benötigte Spalte ohne großen Aufwand auswählen.
 
-![SeaTable 3.4 - Filters in view settings](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-FilterInViewSettings.png)
+![SeaTable 3.4 - Filters in view settings](SeaTable-3.4-FilterInViewSettings.png)
 
 Da diese praktische Suchfunktion bei Einfach- und Mehrfach-Auswahlspalten mit vielen Optionen ebenfalls fehlte, haben wir sie auch dort integriert. So müssen Sie bei der Anlage neuer Optionen nie wieder aufwändig prüfen, ob eine Option bereits existiert oder nicht.
 
@@ -60,7 +60,7 @@ Da diese praktische Suchfunktion bei Einfach- und Mehrfach-Auswahlspalten mit vi
 
 Bei einem Blick in das Changelog finden Sie noch viele weitere Verbesserungen, die wir hier nicht einzeln erläutern können. Nur auf drei weitere Verbesserungen soll hier in aller Kürze hingewiesen werden.
 
-![SeaTable 3.4 - New feature add/duplicate multiple rows](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-AddMultipleRows.png)
+![SeaTable 3.4 - New feature add/duplicate multiple rows](SeaTable-3.4-AddMultipleRows.png)
 
 Über das Zeilen-Kontextmenü, das Sie in Tabellen per Rechtsklick erreichen, lassen sich nun mehrere Leerzeilen einfügen und auch mehrere ausgewählte Zeilen duplizieren.
 

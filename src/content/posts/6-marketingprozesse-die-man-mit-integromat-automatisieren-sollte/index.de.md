@@ -16,19 +16,19 @@ Der folgende Artikel gibt sechs Beispiele der Marketingprozesse, die sich spiele
 
 ## 1\. Überwachen Sie die Nachrichten von sich und Ihrer Konkurrenz
 
-![Überwachen Sie die News Ihrer Konkurrenz](https://seatable.io/wp-content/uploads/2021/09/monitor-the-news-of-your-competition-711x290.png)
+![Überwachen Sie die News Ihrer Konkurrenz](monitor-the-news-of-your-competition-711x290.png)
 
 Auch im Marketing hilft es, seinen Feind zu kennen und sich regelmäßig darüber zu informieren, mit welchen Nachrichten und Updates diese in den Medien auftauchen. Richten Sie hierzu einen [Google Alert](https://www.google.de/alerts) für alle relevanten Suchbegriffe ein. So können Sie Ihren eigenen Firmennamen, den Namen Ihres Konkurrenten oder auch spezielle Produkte überwachen. Die Nachrichten lassen sich auf einzelne Länder oder Regionen eingrenzen und so an Ihre Bedürfnisse anpassen.
 
 In den Einstellungen des Alerts wählen Sie bei _Senden an \_die Option \_RSS-Feed_. So erhalten Sie eine URL, mit der Sie mit Hilfe von Integromat zukünftig alle neuen Einträge in eine SeaTable Tabelle speichern können. Dort können Sie dann ganz bequem und übersichtlich die Nachrichten überwachen und strukturieren.\_\_
 
-![So werden die Google News in SeaTable gespeichert.](https://seatable.io/wp-content/uploads/2021/09/google-news-seatable.png)
+![So werden die Google News in SeaTable gespeichert.](google-news-seatable.png)
 
 **Wichtig:** Für jeden Feed, den Sie überwachen wollen, legen Sie ein eigenes Szenario an, wobei die Ergebnisse alle in die gleiche SeaTable Tabelle gespeichert werden können. Wenn Sie besonders schnell auf Nachrichten reagieren wollen, können Sie noch eine E-Mail oder Slack-Benachrichtigung einbauen.
 
 ## 2\. Automatische Neukundenkategorisierung und Follow-up
 
-![Prozess zum Follow Up von neuen Kunden](https://seatable.io/wp-content/uploads/2021/09/follow-up-on-customers.png)
+![Prozess zum Follow Up von neuen Kunden](follow-up-on-customers.png)
 
 Lassen Sie sich nicht von dem umfangreichen Prozess abschrecken, den er kann Ihnen zukünftig dabei helfen, relevante Neukunden für ein Follow-up zu identifizieren. Die Idee hinter dem Prozess ist simpel: jedes Mal, wenn sich ein neuer Anwender auf Ihrer Webseite registriert, wird die angegebene E-Mail des Kunden von [MailboxValidator](https://www.mailboxvalidator.com/) überprüft. Wenn MailboxValidator zum Ergebnis kommt, dass es sich um eine valide E-Mailadresse handelt, übergeben Sie die E-Mailadresse als nächstes an [Clearbit](https://clearbit.com/). Clearbit versucht der E-Mailadresse einen Namen oder ein Unternehmen zuzuordnen. So können Sie z.B. festlegen, dass der Workflow nur weiterläuft, wenn das Unternehmen hinter der E-Mailadresse mehr als 9 Mitarbeiter hat. Diese Werte lassen sich natürlich beliebig verändern, aber mit der Hilfe von MailboxValidator und Clearbit können Sie die für Sie interessanten Kunden identifizieren. Der Rest ist dann vergleichsweise einfach.
 
@@ -40,7 +40,7 @@ Es ist dabei nicht wichtig, woher der erste Kundenkontakt kommt. Anstelle von [G
 
 ## 3\. Belohnen Sie die Teilnahme an einer Umfrage
 
-![Belohnen Sie die Teilnahme an einer Umfrage](https://seatable.io/wp-content/uploads/2021/09/incentive-for-a-survey.png)
+![Belohnen Sie die Teilnahme an einer Umfrage](incentive-for-a-survey.png)
 
 Im Marketing versucht man durch Kundenumfragen mit dem Kunden in Kontakt zu kommen und dessen Stimmung oder Meinung abzufragen. Das Problem dabei ist, dass die Kunden meistens keine Lust oder Zeit für so eine Umfrage haben und einfach nicht teilnehmen. Häufig wird deshalb dem Kunden eine Belohnung oder ein Anreize geboten, damit dieser an der Umfrage teilnimmt. Dieser Prozess lässt sich vollständig automatisieren.
 
@@ -48,11 +48,11 @@ Die Automation startet mit einer Umfrage, die Sie in [JotForm](https://jotform.c
 
 ## 4\. Gemeinsam im Team neue Artikel entwerfen
 
-![Brainstorming für neue Blog Posts](https://seatable.io/wp-content/uploads/2021/09/brainstorm-new-blog-posts-711x317.png)
+![Brainstorming für neue Blog Posts](brainstorm-new-blog-posts-711x317.png)
 
 Ein wichtiger Teil jeder Marketingarbeit ist das Erstellen von relevantem Content. Häufig entstehen die Ideen für gute Artikel im Team, wobei diese Automation die Entstehung solcher Artikel durch ein Brainstorming unterstützt. Legen Sie in SeaTable eine neue Tabelle an und laden Sie alle Ihre Mitarbeiter dazu ein. Jede Zeile steht für einen möglichen Artikel und sollte einen Titelvorschlag sowie eine Spalte für den grob skizzierten Inhalt haben. Weitere Spalten sind nicht notwendig für das Verständnis dieser Automation, doch natürlich können Sie weitere Spalten für Bilder, Links, sonstige Hinweise oder verantwortliche Mitarbeiter hinzufügen. Wichtig ist nur eine Einfachauswahl-Spalte für den Status des Artikels.
 
-![Tabelle mit Brainstorming Ideen für neue WordPress Posts](https://seatable.io/wp-content/uploads/2021/09/brainstorming-to-wordpress.png)
+![Tabelle mit Brainstorming Ideen für neue WordPress Posts](brainstorming-to-wordpress.png)
 
 In dieser Tabelle können Sie und Ihr Team nun nach Lust und Laune neue Ideen für Artikel entwickeln. Sobald Sie mit einem Artikel fertig sind, wechseln Sie den Status auf z.B. _ready-for-writing_. Dies ist der Trigger auf den Integromat achtet. Sobald ein Artikel diesen Status bekommt, wird in WordPress ein neuer Entwurf angelegt. Die Titelspalte, der Artikelentwurf und alle weiteren Informationen werden automatisch nach WordPress übernommen, sodass der verantwortliche Redakteur nun mit seiner Arbeit beginnen kann.
 
@@ -60,7 +60,7 @@ In dieser Tabelle können Sie und Ihr Team nun nach Lust und Laune neue Ideen f�
 
 ## 5\. SEO-Checkliste für jeden neuen Blogpost
 
-![seo checklist automation](https://seatable.io/wp-content/uploads/2021/09/seo-checklist-automation-711x234.png)
+![seo checklist automation](seo-checklist-automation-711x234.png)
 
 Diese Automation ist eine perfekte Ergänzung zum vorherigen Workflow. Denn sobald ein neuer Blogpost veröffentlicht wurde, fängt normalerweise die Arbeit der Marketingabteilung erst an. Soll der neue Artikel auf LinkedIn, Medium.com oder Twitter erwähnt werden? Wo landet der Artikel nach ein paar Tagen im Google Ranking? Typischerweise hat jede Marketingabteilung eine Checkliste, die im Falle von neuen Artikel abgearbeitet wird. Genau diese Checkliste soll mit diesem Workflow vereinfacht werden.
 
@@ -68,7 +68,7 @@ Sobald ein Artikel auf WordPress veröffentlicht wird, wird ein neuer Eintrag in
 
 ## 6\. Vorbereitung für das perfekte Meeting
 
-![Automation für die perfekte Vorbereitung eines Meetings](https://seatable.io/wp-content/uploads/2021/09/meeting-preparation-711x192.png)
+![Automation für die perfekte Vorbereitung eines Meetings](meeting-preparation-711x192.png)
 
 Mit dieser letzten Automation holen Sie mehr aus Ihren Meetings mit Interessenten und Kunden heraus. Immer wenn jemand einen Termin mit Ihnen über [Calendly](https://calendly.com/) bucht, hilft Ihnen Integromat dabei dieses Meeting vorzubereiten. Calendly verschickt automatisch Termineinladung an Sie und Ihren Gesprächspartner. Worum Calendly sich nicht kümmert ist die Terminnotizen und den Versand von wichtigen Informationen im Vorfeld. Deshalb kopieren Sie jeden neuen Termin mithilfe von Integromat in eine SeaTable Tabelle. Dort finden Sie dann eine Übersicht wann und mit wem Sie zu welchem Thema sprechen werden. Gleichzeitig bietet Ihnen SeaTable beliebige weitere Spalten zur Erfassung von Gesprächsnotizen, Todos und Ergebnissen. Zusätzlich kann Integromat noch im Vorfeld eine E-Mail mit weiteren Informationen an den Gesprächspartner verschicken. Integromat kann dabei sogar unterscheiden, was für ein Termin gebucht wurde und unterschiedliche E-Mails verschicken. Alternativ könnte man auch automatisch eine persönliche Dankesmail im Anschluss an das Gespräch verschickt werden. Indem Sie in der E-Mail Ihren Gesprächspartner persönlich ansprechen können und z.B. auf das Datum des Termins hinweisen können, wird niemand auf die Idee kommen, dass diese E-Mail automatisch verschickt wird.
 

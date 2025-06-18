@@ -41,7 +41,7 @@ A morte de um ente querido deve ser comunicada o mais rapidamente possível a to
 
 A morte de uma pessoa próxima está associada a uma grande **dor** para os familiares. Neste período emocionalmente stressante, não é fácil para muitas pessoas tratar do funeral. No caso de mortes súbitas, os familiares muitas vezes nem sequer sabem como é que o falecido teria imaginado o seu próprio funeral.
 
-![Um enterro num cemitério](https://seatable.io/wp-content/uploads/2023/08/rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
+![Um enterro num cemitério](rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
 
 Um enterro clássico num cemitério continua a ser a primeira escolha para muitos.
 
@@ -53,7 +53,7 @@ Para evitar o caos em caso de morte, deve esclarecer antecipadamente quem deve o
 
 {{< warning headline="Nota importante" text="Não se esqueça de [autorizar](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) as pessoas de confiança a aceder às suas contas após a sua morte, entre outras coisas. Caso contrário, os responsáveis poderão não poder atuar, pois terão de esperar semanas ou meses pela abertura do testamento ou pela emissão de um certificado de herança." />}}
 
-![Planear um funeral - numa situação de emergência, as pessoas afectadas não sabem muitas vezes por onde começar.](https://seatable.io/wp-content/uploads/2023/08/the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
+![Planear um funeral - numa situação de emergência, as pessoas afectadas não sabem muitas vezes por onde começar.](the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
 
 Planear um funeral - numa situação de emergência, as pessoas afectadas não sabem muitas vezes por onde começar.
 
@@ -71,7 +71,7 @@ A escolha de um tipo de enterro está diretamente relacionada com o local onde v
 
 Talvez haja familiares ou amigos ao lado dos quais gostaria de encontrar o seu último lugar de descanso? Então, uma sepultura colectiva também pode ser uma opção. Para além dos cemitérios, os locais de repouso alternativos na natureza têm-se tornado cada vez mais populares.
 
-![Caminho florestal](https://seatable.io/wp-content/uploads/2023/08/maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
+![Caminho florestal](maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
 
 Um descanso final tranquilo na natureza está a tornar-se cada vez mais popular.
 
@@ -87,7 +87,7 @@ Os custos de um funeral podem ser muito variáveis. Dependem, entre outros facto
 
 O mais caro é o enterro clássico num cemitério. Uma grande parte dos custos do funeral é constituída pelo **caixão**, pela **lápide** e pelas taxas de utilização de um **local de sepultura**. Cada um destes três elementos de custo pode ascender a vários milhares de euros. Pode poupar estes custos - bem como a manutenção posterior da sepultura - com uma cremação com enterro natural.
 
-![Sepulturas num cemitério](https://seatable.io/wp-content/uploads/2023/08/michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
+![Sepulturas num cemitério](michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
 
 Urna ou caixão? O tipo de enterro desempenha um papel importante no custo da sepultura.
 
@@ -113,7 +113,7 @@ Não pode dispensar os seus familiares deste procedimento, mas pode depositar to
 
 Na Alemanha, não é possível mandar enterrar uma pessoa falecida sem uma agência funerária. Por exemplo, na maior parte dos Estados federados, a lei exige que o corpo seja transferido do local de falecimento para uma agência funerária - e daí para o local de descanso final.
 
-![](https://seatable.io/wp-content/uploads/2023/08/adrianna-geo-JWlZS708L1Y-unsplash-min.jpg)
+![](adrianna-geo-JWlZS708L1Y-unsplash-min.jpg)
 
 **Outros serviços funerários incluem:**
 
@@ -132,7 +132,7 @@ Se a pessoa falecida tiver manifestado a sua vontade ou a tiver escrito, só tem
 
 Os serviços fúnebres são geralmente acompanhados por um orador independente ou por um clérigo da respectiva congregação religiosa. Contacte atempadamente um orador adequado e fale com ele sobre o desenrolar da cerimónia fúnebre. Normalmente, o orador abordará a vida da pessoa falecida no seu **discurso** e necessitará de informações pormenorizadas e de tempo de preparação suficiente para o efeito.
 
-![Orador para o funeral](https://seatable.io/wp-content/uploads/2023/08/the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
+![Orador para o funeral](the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
 
 Sacerdote, pastor ou orador independente: o que se adequa ao seu funeral planeado?
 
@@ -144,7 +144,7 @@ Na maioria dos casos, a cerimónia fúnebre realiza-se antes do enterro, perto d
 
 Pergunte atempadamente aos familiares se gostariam de contribuir **ativamente** para a cerimónia fúnebre. Por exemplo, podem dizer algumas palavras ao falecido ou ler um poema. As **orações** também podem ser proferidas em funerais religiosos. Ponha no funeral **música** de que a pessoa falecida gostava. Muitas agências funerárias têm boas aparelhagens de som ou mesmo um piano. Se alguns familiares forem musicalmente e emocionalmente capazes, podem também tocar instrumentos e cantar em conjunto.
 
-![Livro de canções para o funeral](https://seatable.io/wp-content/uploads/2023/08/david-beale-gOsGgt4olNs-unsplash-min.jpg)
+![Livro de canções para o funeral](david-beale-gOsGgt4olNs-unsplash-min.jpg)
 
 A música e o canto podem proporcionar conforto numa cerimónia fúnebre.
 
@@ -154,7 +154,7 @@ Muitas vezes, os enlutados voltam a reunir-se depois do funeral para o chamado *
 
 Numa cerimónia fúnebre seguida de enterro, a urna ou o caixão do defunto é geralmente bem visível na sala. Junto a ela, pode colocar uma bonita **fotografia emoldurada da** pessoa falecida. Para que o resto da sala não pareça **estéril** e vazia, as **coroas fúnebres e as decorações florais** são uma boa ideia. Pode contratar uma florista para a decoração, mas isso pode ser caro, dependendo das suas ideias.
 
-![Arranjos florais para o funeral](https://seatable.io/wp-content/uploads/2023/08/strauss-western-5a3eFHcGl9U-unsplash-min.jpg)
+![Arranjos florais para o funeral](strauss-western-5a3eFHcGl9U-unsplash-min.jpg)
 
 Muitas vezes, os outros familiares têm todo o gosto em participar na aquisição de coroas de flores ou arranjos fúnebres e, assim, consegue-se uma exposição floral respeitável. Se pretender plantar uma sepultura mais tarde, **os vasos de flores** com mudas são uma boa ideia. Regra geral, o diretor da agência funerária providenciará para que as coroas fúnebres e os arranjos florais sejam colocados na sepultura após o serviço fúnebre.
 
@@ -162,7 +162,7 @@ Muitas vezes, os outros familiares têm todo o gosto em participar na aquisiçã
 
 O vestuário tradicional de luto difere de cultura para cultura: na Europa e no mundo ocidental, **o preto** é a cor do luto, na Ásia é sobretudo **branco** - e noutros locais pode até ser colorido. Atualmente, na Alemanha, o vestuário do funeral já não tem de ser obrigatoriamente preto, mas espera-se frequentemente um **vestuário discreto** em cores suaves e cortes soltos - por exemplo, um fato azul-escuro com uma camisa branca, uma camisola de cor lisa com calças pretas ou um vestido que não seja demasiado justo e que não mostre demasiada pele.
 
-![Roupa funerária para o funeral](images/the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
+![Roupa funerária para o funeral](the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
 
 No entanto, o traje de luto não é obrigatório. Também são permitidas cerimónias fúnebres pouco convencionais ou alegres, se o falecido desejar uma celebração dele e da sua vida em vez de um **ambiente de luto**. Assim, planeie o serviço fúnebre sem tradições e inteiramente de acordo com os desejos do falecido.
 
@@ -176,7 +176,7 @@ O ideal é ter acesso a uma lista de contactos no telemóvel ou na conta de corr
 
 Depois de ter planeado a data e o local da cerimónia fúnebre, pode também publicar um **aviso de óbito** num jornal local, convidando as pessoas para a cerimónia fúnebre. Se for realizado num local público, como um cemitério, qualquer pessoa que tenha recebido a informação pode assistir ao serviço fúnebre. No entanto, pode pedir às pessoas que se abstenham de apresentar condolências no local.
 
-![Obituários no jornal](https://seatable.io/wp-content/uploads/2023/08/pexels-guel-isik-3837464.jpg)
+![Obituários no jornal](pexels-guel-isik-3837464.jpg)
 
 As pessoas mais idosas, em particular, continuam a ler os obituários nos jornais locais.
 
@@ -186,7 +186,7 @@ Se a cerimónia fúnebre se realizar apenas no círculo mais próximo, não escr
 
 Com tudo o que é necessário para planear um funeral, é fácil perder a noção de tudo. Por isso, a SeaTable compilou as tarefas mais importantes numa lista de verificação. Também pode utilizar o planeador em linha para coordenar o convite dos enlutados ou para calcular os custos do funeral.
 
-![Planeamento em linha com uma visão geral dos custos do funeral](images/Funeral-planner.png)
+![Planeamento em linha com uma visão geral dos custos do funeral](Funeral-planner.png)
 
 Modelo de síntese de custos funerários SeaTable
 

@@ -14,7 +14,7 @@ En la agitada vida cotidiana, ir al supermercado puede convertirse en un verdade
 
 Sin embargo, la pregunta sigue siendo: ¿qué lista de la compra digital/app es la mejor opción para satisfacer sus necesidades individuales? En este artículo analizamos siete prometedoras aplicaciones diseñadas para facilitar las compras.
 
-![Carro de la compra lleno en un supermercado.](images/einkaufswagen-voller-produkte-in-einem-supermarkt-711x474.jpg)
+![Carro de la compra lleno en un supermercado.](einkaufswagen-voller-produkte-in-einem-supermarkt-711x474.jpg)
 
 Con la organización adecuada, ir de compras no supone ningún estrés.
 
@@ -26,7 +26,7 @@ Hay buenas razones para hacer listas en todos los ámbitos de la vida, y la comp
 - **Ahorra tiempo**: Si planificas la compra con antelación con una lista de la compra, siempre tendrás a mano todos los alimentos que necesitas para tus recetas favoritas sin olvidar nada. Así ahorrarás mucho tiempo, ya que los dobles viajes al supermercado son cosa del pasado.
 - **Minimizar el desperdicio de alimentos**: Según el [Ministerio Federal de Alimentación y Agricultura](https://www.bmel.de/DE/themen/ernaehrung/lebensmittelverschwendung/studie-lebensmittelabfaelle-deutschland.html), cada consumidor tira unos 78 kilos de comida al año. Tal vez usted también tire habitualmente comida porque está estropeada o ha pasado su fecha de consumo preferente. Si en el futuro sólo compra lo que realmente necesita, también tendrá que tirar menos. Si planificas bien la compra y te [abasteces](https://seatable.io/es/notvorrat-anlegen/) adecuadamente, no sólo te ayudas a ti mismo, sino también al medio ambiente.
 
-![Proporción de alimentos que los alemanes tiran ](images/Lebensmittelverschwendung_B_EInkaufsliste-711x889.png)
+![Proporción de alimentos que los alemanes tiran ](Lebensmittelverschwendung_B_EInkaufsliste-711x889.png)
 
 Los alemanes son los que más fruta y verdura tiran.
 
@@ -54,7 +54,7 @@ Ya se trate de gestionar y clasificar **categorías de alimentos** o de tus **re
 
 - No se dispone de desventajas relevantes
 
-![La aplicación "Lista de la compra ](images/Die-Einkaufsliste-711x971.jpg)
+![La aplicación "Lista de la compra ](Die-Einkaufsliste-711x971.jpg)
 
 Este es el aspecto de "La lista de la compra".
 
@@ -76,7 +76,7 @@ Dentro de la aplicación, también puedes enviar **mensajes predefinidos** a los
 
 - No se dispone de desventajas relevantes
 
-![La aplicación de lista de la compra "¡Trae!"](images/Bring-711x1022.jpg)
+![La aplicación de lista de la compra "¡Trae!"](Bring-711x1022.jpg)
 
 La aplicación de lista de la compra "¡Trae!"
 
@@ -97,7 +97,7 @@ Además, no sólo se **analizan** las preferencias y hábitos del usuario, sino 
 
 - No hay iconos de los productos
 
-![El uso de Pon](images/Pon-711x1057.jpg)
+![El uso de Pon](Pon-711x1057.jpg)
 
 La lista de la compra en "pon"
 
@@ -119,7 +119,7 @@ Si guardas tus **recetas** en la aplicación, puedes añadir los ingredientes qu
 - No hay ofertas
 - El número ilimitado de listas y plantillas está sujeto a un recargo
 
-![La aplicación "ToBuy](images/ToBuy-711x1086.jpg)
+![La aplicación "ToBuy](ToBuy-711x1086.jpg)
 
 La aplicación "ToBuy" en modo oscuro
 
@@ -140,7 +140,7 @@ Aunque es posible **agrupar** y **clasificar de forma personalizada**, las funci
 - No hay ofertas
 - Sin funciones inteligentes
 
-![La aplicación de listas de la compra "WeNeed](images/WeNeed-711x1083.jpg)
+![La aplicación de listas de la compra "WeNeed](WeNeed-711x1083.jpg)
 
 La aplicación "WeNeed
 
@@ -160,7 +160,7 @@ Las funciones pueden variar según la marca. Sin embargo, suelen consistir en un
 - No hay ofertas
 - Sin funciones inteligentes
 
-![Aplicación de notas para compras](https://seatable.io/wp-content/uploads/2024/01/Notizen-e1707138910748.jpg)
+![Aplicación de notas para compras](Notizen-e1707138910748.jpg)
 
 La aplicación de notas como lista de la compra
 

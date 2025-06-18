@@ -18,7 +18,7 @@ This article explains in detail what the new data protection rules look like, wh
 
 The so-called **Patriot Act** is a [federal law that](https://www.justice.gov/archive/ll/highlights.htm) has been in force in the United States since the terrorist attacks of September 11, 2001. It states that U.S. federal agencies such as the NSA or CIA may access all data located in the U.S. without personal consent or a court order. The same applies to foreign subsidiaries and sites of U.S. companies, which are required by the Patriot Act to grant access to their servers even if local laws prohibit it.
 
-![Pariot Act](images/bild-1-artikel-patriot-act-711x474.png)
+![Pariot Act](bild-1-artikel-patriot-act-711x474.png)
 
 The Patriot Act, signed by former U.S. President George W. Bush, allows U.S. agencies such as the FBI or the NSA to access the servers of U.S. companies without a court order.
 
@@ -34,7 +34,7 @@ The fact that the use of US cloud providers is associated with data protection r
 
 On September 22, 2021, the government of the Canadian province of Quebec passed the "Act to Modernize the Legal Provisions for the Protection of Personal Data" - [Act 25](https://www.quebec.ca/gouvernement/ministeres-et-organismes/institutions-democratique-acces-information-laicite/acces-documents-protection-renseignements-personnels/pl64-modernisation-de-la-protection-des-renseignements-personnels#:~:text=Les modifications qui résultent de,citoyens sur leurs renseignements personnels) for short - in line with the GDPR in Europe. The data protection rules contained in Act 25 have since been gradually coming into force. The bill aims to modernize data protection laws in Canada, which are considered outdated, for both the private and public sectors and to adapt them to technological advances.
 
-![Patriot Act](images/schaubild-gesetz25.png)
+![Patriot Act](schaubild-gesetz25.png)
 
 Quebec's Act 25 has been in effect in annual increments since September 2022.
 
@@ -48,7 +48,7 @@ You can find all the contents of Act 25 for reference [here](https://www.publica
 
 Even if your company does not have any locations in Quebec, you could still be affected by Act 25. That's because the rules associated with the Act apply not only to Quebec businesses, but - regardless of location - to any business that works with data of Quebec residents. In addition, Act 25 is considered a groundbreaking legal framework in Canada, which has provided the impetus for other similar legislative reforms. For example, Canada will also revise its federal privacy laws in a timely manner with Bill [C-27](https://www.parl.ca/legisinfo/en/bill/44-1/c-27), which is still being debated in Parliament and is intended to replace the federal [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief/) law currently in place across Canada (with the exception of the provinces of Quebec, British Columbia and Alberta).
 
-![Patriot Act](images/bild3-patrio-act-711x473.png)
+![Patriot Act](bild3-patrio-act-711x473.png)
 
 Although Bill 25 was passed by the Quebec government, businesses and institutions far beyond the region are also facing its consequences.
 
@@ -62,11 +62,11 @@ The consequences are particularly drastic for Canadian companies that store and 
 
 At first, it seems not so easy to host personal data independently of US providers, i.e. outside the scope of the Patriot Act. But in fact, there are some alternatives to the dominant US clouds. If you are currently still using Airtable, Google Sheets or Microsoft Excel to store personal data, SeaTable, for example, might be the right solution for you. This affordable and powerful database and collaboration solution is a 100 percent privacy-compliant alternative. As a European company that values the highest level of data security, SeaTable turned its back on American industry leader AWS early on. Instead, the cloud version of SeaTable is hosted in German data centers operated by Swiss provider Exoscale, which means that the data is subject to strict European data protection requirements.
 
-![Patriot Act](images/bild-seatable-patriot-act-711x389.png)
+![Patriot Act](bild-seatable-patriot-act-711x389.png)
 
 Compared to Airtable, SeaTable impresses with multilingualism, higher memory limits and a lower price, among other things.
 
-In addition, SeaTable offers a self-hosted variant that allows you to install and operate the software as an [on-premises solution](https://seatable.io/en/on-premises/) on your own servers. This gives you absolute data sovereignty and maximum control over where your data is stored. No matter which option you choose, SeaTable is compliant with Canadian privacy laws.
+In addition, SeaTable offers a self-hosted variant that allows you to install and operate the software as an [on-premises solution]({{< relref "pages/product/seatable-server" >}}) on your own servers. This gives you absolute data sovereignty and maximum control over where your data is stored. No matter which option you choose, SeaTable is compliant with Canadian privacy laws.
 
 You want to capture data in a structured way, complete tasks efficiently and develop powerful processes - without having to worry about the security of your data? Then convince yourself and [register here]({{< relref "pages/registration" >}}) for a **SeaTable Free subscription**, which already provides you with numerous useful [functions](https://seatable.io/en/preise). The subscription is **completely free for** you and a perfect opportunity to test SeaTable without obligation.
 

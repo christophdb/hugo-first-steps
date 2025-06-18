@@ -97,7 +97,7 @@ Suppose your company has the following three customer segments:
 
 Then your first task would be to find out everything you can about these customer segments and thus about your personas. Don't just think about it, document your findings.
 
-![Description of the Buying Personas in SeaTable](images/buyer-personas-in-seatable.png)
+![Description of the Buying Personas in SeaTable](buyer-personas-in-seatable.png)
 
 Example description of the personas in SeaTable
 
@@ -129,7 +129,7 @@ The following table shows a basic structure that you can adapt to your needs as 
 - Persona (for whom the article is relevant)
 - Content idea (where the idea came from)
 
-![Content marketing strategy](images/content-marketing-strategie-seatable.png)
+![Content marketing strategy](content-marketing-strategie-seatable.png)
 
 This table of our [Content Marketing Strategy Template]({{< relref "templates/marketing/content-marketing-strategy" >}}) seems quite extensive at first sight, but it is the minimum for an average content pipeline to keep the necessary overview. Get into the habit of collecting this data from day one and you will have no problems keeping track at any point in time.
 
@@ -139,19 +139,19 @@ Another highlight of this template are the different views with predefined filte
 
 Graphic designers will only be interested in the articles that require graphics at all and that are already written, while authors will only look for the work that is still open. For each of these collaborators there is a separate view to display only the data one needs at the moment.
 
-![Individual views for each employee](images/seatable-views.png)
+![Individual views for each employee](seatable-views.png)
 
 Individual views for each employee
 
 Every employee knows exactly who has the task at hand and who has to work on it next. This helps you avoid waiting times and confusion. As soon as an author has written his draft, he changes the status of the article and passes it on to the next employee for quality control. If coordination between collaborators is necessary, this can easily be done via the [comment function](https://seatable.io/en/docs/handbuch/zusammenarbeit/kommentare/) within SeaTable.
 
-![Team communication in SeaTable](images/seatable-comments.png)
+![Team communication in SeaTable](seatable-comments.png)
 
 This way, no one has to ask for an update via email or Slack. You simply add the corresponding colleague in the comments or change the status of the article. If desired, SeaTable also sends an email notification.
 
 As an author or editor, you may want to see scheduled publication dates in a calendar view. There, you can conveniently drag and drop articles to rearrange deadlines and ensure consistently good content is published.
 
-![Editorial planning via drag & drop in SeaTable](images/redaktionsplanung-seatable-kalender.png)
+![Editorial planning via drag & drop in SeaTable](redaktionsplanung-seatable-kalender.png)
 
 Editorial planning via drag & drop in SeaTable
 
@@ -161,7 +161,7 @@ Each of these different views highlights certain aspects of the content pipeline
 
 Also make sure that you don't run out of ideas prematurely. Ask your employees and your customers for ideas or for topics that interest you. With SeaTable you can create a questionnaire in minutes and distribute it.
 
-![Brainstorming in preparation for content marketing](images/seatable-content-brainstorming-1.png)
+![Brainstorming in preparation for content marketing](seatable-content-brainstorming-1.png)
 
 Your goal should be to be in constant exchange with your customers and to keep the barriers to reporting such ideas as low as possible. You'll see: The best way to publish good content at regular intervals is to maintain a constant stream of high-quality ideas.
 
@@ -189,7 +189,7 @@ You will quickly notice that with good articles you can observe an increase in o
 
 You will see that it is worthwhile to record these evaluations in SeaTable in order to subsequently display the figures as statistics in a bar, line or pie chart.
 
-![Statistical evaluations with SeaTable](images/seatable-statistics.png)
+![Statistical evaluations with SeaTable](seatable-statistics.png)
 
 Statistical evaluations of access figures and scheduled postings with SeaTable
 

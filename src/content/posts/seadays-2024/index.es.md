@@ -16,7 +16,7 @@ El primer día giró en torno a **Seafile**, la **potente solución para sincron
 
 Tanto si se trata de grandes soluciones integrales como de proyectos más pequeños, los SeaDays proporcionaron la plataforma perfecta para el diálogo personal y la creación de redes dentro de la comunidad de Seafile y SeaTable. Muchas gracias a nuestros ponentes **Eloy Crespo**, **Stephan Lehniger**, **Ko Smidt**, **Matthias van Laar**, **Lisa Kleinman**, **Christian Livadaru** y **Stephan Heinrich** por hacer posible este evento.
 
-![Todos los participantes de SeaDays 2024 en una foto de grupo.](images/20241008_165520-711x533.jpg)
+![Todos los participantes de SeaDays 2024 en una foto de grupo.](20241008_165520-711x533.jpg)
 
 Todos los participantes de SeaDays 2024.
 
@@ -34,7 +34,7 @@ Por la noche, el acto concluyó con una acogedora tertulia en una cervecería de
 
 Los comentarios sobre el acto fueron abrumadoramente positivos. Con una valoración media de 5,5 puntos sobre 6, el alto grado de satisfacción de los participantes quedó claramente reflejado. Lo que fue especialmente satisfactorio fue que todos los encuestados afirmaron que les gustaría volver a asistir el año que viene. Por supuesto, siempre hay margen de mejora, y nos tomamos muy en serio las opiniones de nuestros participantes para seguir optimizando los SeaDays y convertirlos en un éxito el año que viene.
 
-![Los participantes en SeaDays 2024 escuchan atentamente las noticias.](images/20241008_092940-1-711x533.jpg)
+![Los participantes en SeaDays 2024 escuchan atentamente las noticias.](20241008_092940-1-711x533.jpg)
 
 Los participantes escuchan con atención las noticias.
 
@@ -50,7 +50,7 @@ Los usuarios de SeaTable pueden esperar novedades interesantes: la **función re
 
 La visión de la próxima versión 6 de SeaTable se centra en perfeccionar las funciones existentes y mejorar la facilidad de uso. Las innovaciones previstas incluyen opciones ampliadas para vincular datos entre diferentes bases de datos. También está previsto el uso de innovadores **asistentes de IA** para que el procesamiento de datos sea más inteligente y eficiente.
 
-![Christoph Dyllick-Brenzinger, uno de los dos hermanos fundadores de SeaTable.](images/20241008_120138-711x948.jpg)
+![Christoph Dyllick-Brenzinger, uno de los dos hermanos fundadores de SeaTable.](20241008_120138-711x948.jpg)
 
 Christoph Dyllick-Brenzinger, uno de los dos hermanos fundadores de SeaTable.
 
@@ -62,7 +62,7 @@ Uno de los aspectos más destacados es la integración de funciones asistidas po
 
 La presentación también ofreció una perspectiva de futuro: SeafilePlus se lanzará como solución SaaS en 2025. Algunas de las funciones avanzadas también se integrarán en las versiones existentes de Seafile.
 
-![Daniel Pan, Consejero Delegado (CEO) de Seafile Ltd.](images/20241008_092952-711x948.jpg)
+![Daniel Pan, Consejero Delegado (CEO) de Seafile Ltd.](20241008_092952-711x948.jpg)
 
 Daniel Pan, Consejero Delegado (CEO) de Seafile Ltd.
 
@@ -78,7 +78,7 @@ El siguiente gran paso en la agenda es la **certificación BSI** para la próxim
 
 Una función interesante que se ha introducido es el nuevo plugin**"Árbol**" de SeaTable. Este complemento permite a los usuarios organizar los datos en una estructura de árbol, lo que facilita enormemente la navegación por las tablas anidadas. Con funciones como niveles plegables, anchuras de columna personalizables y la posibilidad de crear nuevas filas o actualizar las existentes, el plugin Árbol es una potente herramienta para gestionar conjuntos de datos complejos. Especialmente útil es la visualización ordenable en hasta tres niveles, que ofrece más flexibilidad a la hora de organizar los datos.
 
-![Participantes en los SeaDays 2024](images/74b1d263-ec63-4f11-85bc-8af629d0b24e-711x400.jpg)
+![Participantes en los SeaDays 2024](74b1d263-ec63-4f11-85bc-8af629d0b24e-711x400.jpg)
 
 Ni siquiera el tiempo lluvioso pudo empañar el ambiente de los SeaDays.
 
@@ -98,7 +98,7 @@ Uno de los platos fuertes del primer día de los SeaDays fue la presentación de
 
 Desde la base de datos de conocimientos hasta la gestión de las relaciones con los clientes, Seafile se ha consolidado como una herramienta indispensable en SecUnity. Especialmente interesante es el plan de utilizar Seafile como base para una Plataforma de Intercambio de Inteligencia sobre Amenazas (TISP). Esta innovadora aplicación pone de relieve el enorme potencial de Seafile en el ámbito de la ciberseguridad. Para las organizaciones que buscan soluciones sólidas de gestión de archivos y colaboración, esta presentación ofreció muchos ejemplos concretos e inspiración.
 
-![Ko Smidt explica el proceso de examen en el Colegio Johannes Fontanus.](images/20241008_104823-711x533.jpg)
+![Ko Smidt explica el proceso de examen en el Colegio Johannes Fontanus.](20241008_104823-711x533.jpg)
 
 Ko Smidt explica el proceso de exámenes en las escuelas neerlandesas.
 
@@ -112,7 +112,7 @@ En el colegio Johannes Fontanus de los Países Bajos, el profesor Ko Smidt ha re
 
 Además, la asignación de dispositivos informáticos y la notificación de daños en los dispositivos también se organizaron a través de SeaTable. De este modo, el experto en TI Matthis van Laar siempre tiene una visión general de todos los procesos y puede garantizar que los problemas técnicos se resuelvan de forma rápida y estructurada.
 
-![SeaDays 2024: Ko Smidt presenta los procesos que ha optimizado en la Escuela Johannes Fontanus.](images/20241008_104929-711x533.jpg)
+![SeaDays 2024: Ko Smidt presenta los procesos que ha optimizado en la Escuela Johannes Fontanus.](20241008_104929-711x533.jpg)
 
 Ko Smidt, profesor de "Música" e "Investigación y Diseño" en el Johannes Fontanus College (Países Bajos).
 
@@ -122,7 +122,7 @@ Lisa Kleinman, de Make, hizo una impresionante presentación sobre lo sencilla y
 
 Esta combinación permite a las empresas utilizar sus datos en SeaTable para activar procesos automatizados en Make, por ejemplo, para enviar notificaciones, crear tareas o sincronizar datos con otras herramientas. El resultado: un enorme ahorro de tiempo y un flujo de trabajo optimizado que facilita enormemente el día a día.
 
-![SeaDays 2024: Lisa Kleinman, de Make, con Christoph Dyllick-Brenzinger, uno de los fundadores de SeaTable.](images/20241008_132717-1-711x948.jpg)
+![SeaDays 2024: Lisa Kleinman, de Make, con Christoph Dyllick-Brenzinger, uno de los fundadores de SeaTable.](20241008_132717-1-711x948.jpg)
 
 Lisa Kleinman, de Make, con Christoph Dyllick-Brenzinger, uno de los fundadores de SeaTable.
 
@@ -132,7 +132,7 @@ Christian Livadaru, Director General de la empresa de TI LcX.at, ha digitalizado
 
 Livadaru también es un ejemplo impresionante de las ventajas del creador de aplicaciones sin código. Las pruebas de concepto (PoC) pueden realizarse de forma rápida y sencilla, lo que acelera el desarrollo y permite obtener los primeros resultados en menos tiempo. Su experiencia demuestra que SeaTable también ofrece una plataforma versátil y potente para que los desarrolladores avancen de forma eficaz y específica.
 
-![Cristian Livadaru, Director General de LcX.at, de Viena.](images/20241008_142737-711x948.jpg)
+![Cristian Livadaru, Director General de LcX.at, de Viena.](20241008_142737-711x948.jpg)
 
 Cristian Livadaru, Director General de LcX.at, de Viena.
 
@@ -142,7 +142,7 @@ Stephan Heinrich, de Content Butler, hizo una impresionante demostración de có
 
 Lo que resulta especialmente fascinante es que en la base se pueden almacenar parámetros importantes como el estilo del contenido, el tema, el grupo destinatario y otros ajustes. A partir de estos datos, se genera automáticamente un mensaje con el que se pueden crear en pocos segundos entradas para redes sociales, artículos de blog u otros textos, incluso con imágenes. De este modo, se acelera enormemente la producción de contenidos, lo que resulta ideal para las empresas que necesitan contenidos nuevos con regularidad.
 
-![Stephan Heinrich, Director General de Content Butler GmbH.](images/20241008_151731-711x948.jpg)
+![Stephan Heinrich, Director General de Content Butler GmbH.](20241008_151731-711x948.jpg)
 
 Stephan Heinrich, Director General de Content Butler GmbH.
 

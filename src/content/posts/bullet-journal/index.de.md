@@ -18,7 +18,7 @@ Wie ein Bullet Journal funktioniert und was Sie wissen müssen, um ein Bullet Jo
 
 Ein Bullet Journal hilft Ihnen dabei, Ihren **Alltag zu organisieren** und alle Ihre Aufgaben, Termine und Bedürfnisse im Blick zu behalten. Dabei fungiert das Journal als eine Kombination aus Terminkalender, Projektplaner und Notizbuch. Außerdem bietet es genügend Freiraum, damit auch Ihre individuellen Themenwünsche Platz finden. Das Bullet Journal setzt Ihrer **Kreativität** keine Grenzen. Denn im Vergleich zu herkömmlichen Kalendern, gibt es keine vorgefertigten Seiten. Diese sollen von Ihnen selbst designt und nach Ihren Vorstellungen gefüllt werden.
 
-![So kann ein Bullet Journal mit Monats- und Tagesübersicht aussehen.](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
+![So kann ein Bullet Journal mit Monats- und Tagesübersicht aussehen.](estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
 
 Gestalten Sie Ihr Bullet Journal nach Ihren Wünschen.
 
@@ -34,7 +34,7 @@ Erfunden hat der New Yorker Grafikdesigner Ryder Carroll diese Kalender-Methode.
 
 Mit dem Bullet Journaling anzufangen ist denkbar einfach. Sie brauchen lediglich ein **Notizbuch** und einen **Stift**. Es bietet sich an, mit dem zu beginnen, was Sie zu Hause haben. Sie können ausprobieren, ob Ihnen das Journaling liegt. Wenn Sie Gefallen daran finden und sich kreativ entfalten möchten, können Sie weitere Utensilien dazukaufen.
 
-![Ihr](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
+![Ihr](estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
 Alles um Sie herum kann zur Gestaltung genutzt werden.
 
@@ -46,7 +46,7 @@ Wie oben bereits erwähnt, steht die Verwirklichung Ihrer eigenen Ideen im Vorde
 
 Dieses besteht primär aus **zeitlichen Übersichten**, in die Sie Ihre Aufgaben und Termine eintragen können. Darüber hinaus gibt es **Collections**. Das sind Seiten, welche Ihrer freien und individuellen Entfaltung dienen. Dafür finden Sie im Folgenden eine Sammlung an Ideen, welche Sie übernehmen oder von denen Sie sich inspirieren lassen können.
 
-![Ihr Bullet Journal sollte die Punkte Index, Key, Future Log, Monthly Log, Daily Log und Collectives enthalten.](https://seatable.io/wp-content/uploads/2023/12/Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
+![Ihr Bullet Journal sollte die Punkte Index, Key, Future Log, Monthly Log, Daily Log und Collectives enthalten.](Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
 
 Gestalten Sie Ihr Journal nach dieser Vorlage.
 
@@ -85,14 +85,14 @@ Viele Ideen lassen sich in **Listen** umsetzen. Dabei kommt es darauf an, dass S
 
 **Tracker** sind wohl die bekannteste Ergänzung zum Bullet Journal. Sie helfen, regelmäßige Aufgaben zu dokumentieren. Es gibt verschiedene Arten von Trackern:
 
-- **Habit Tracker**: Etablieren Sie neue Gewohnheiten und werden Sie schlechte Gewohnheiten wieder los. Einen ausführlichen Artikel dazu finden Sie [hier](https://seatable.io/habit-tracker-gewohnheiten-aendern/).
+- **Habit Tracker**: Etablieren Sie neue Gewohnheiten und werden Sie schlechte Gewohnheiten wieder los. Einen ausführlichen Artikel dazu finden Sie [hier]({{< relref "posts/habit-tracker" >}}).
 - **Mood Tracker**: Halten Sie fest, wie sich Ihre Stimmung über einen längeren Zeitraum verändert.
 - **Sleep Tracker**: Überwachen Sie Ihre Schlafzeiten und wie gut Sie geschlafen haben.
 - **Water Tracker**: Stellen Sie sicher, dass Sie täglich genug Wasser zu sich nehmen, um gesund zu bleiben.
 
 Eine weitere Möglichkeit, Ihre Pläne in die Tat umzusetzen, ist das Aufstellen von **Zielen**. In Verbindung mit Trackern können Sie Ihre Ziele messbar machen und Ihren Fortschritt jederzeit einsehen. Mögliche Ziele sind z. B. Vorsätze für das neue Jahr wie ein Sparziel zu knacken oder den Notenspiegel zu verbessern.
 
-![Ein Habit Tracker ist eine beliebte Ergänzung zum Bullet Journal.](https://seatable.io/wp-content/uploads/2023/12/prophsee-journals-WI30grRfBnE-unsplash-01.jpg)
+![Ein Habit Tracker ist eine beliebte Ergänzung zum Bullet Journal.](prophsee-journals-WI30grRfBnE-unsplash-01.jpg)
 
 Ein Habit Tracker ist eine beliebte Ergänzung zum Bullet Journal.
 
@@ -108,7 +108,7 @@ Der Hauptgrund, mit dem Journaling anzufangen, ist für die meisten die **organi
 
 Ihre Ideen – Ihr Bullet Journal. Es passt sich an Ihre **Bedürfnisse** an und muss keinem vorgegebenen Muster entsprechen. Sie können es zum Organisieren Ihrer täglichen Termine und Aufgaben verwenden. Dafür eignen sich die integrierten Tools, wie der Kalender oder die To-do-Liste. Gleichzeitig können Sie aber auch kreativ werden und in den Collections Ihrer Fantasie freien Lauf lassen.
 
-![Das Bild zeigt, dass es im Bullet Journal möglich ist., kreative Inhalte mit praktischen Inhalten zu kombinieren.](https://seatable.io/wp-content/uploads/2023/12/pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
+![Das Bild zeigt, dass es im Bullet Journal möglich ist., kreative Inhalte mit praktischen Inhalten zu kombinieren.](pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
 
 Kombinieren Sie Funktionalität mit Kreativität.
 

@@ -14,7 +14,7 @@ Les vacances d'été approchent et pour de nombreux vacanciers, cela signifie qu
 
 Cet article vous donne un aperçu complet de ce dont vous avez besoin pour votre prochain voyage de vacances et vous explique comment l'organiser au mieux sans oublier les choses essentielles. Que vous soyez un voyageur de dernière minute ou un planificateur prévoyant, vous trouverez ici une check-list détaillée pour vos vacances et de précieux conseils pour préparer votre voyage efficacement et sans stress.
 
-![Check-list vacances : une plage avec des palmiers vue du ciel](images/nattu-adnan-atSUvc1hMwk-unsplash-711x491.jpg)
+![Check-list vacances : une plage avec des palmiers vue du ciel](nattu-adnan-atSUvc1hMwk-unsplash-711x491.jpg)
 
 Renseignez-vous sur le climat de votre destination afin de vous préparer en conséquence.
 
@@ -26,7 +26,7 @@ Une telle check-list pour les voyages vous permet de planifier et de compléter 
 
 Dans l'idéal, la préparation des valises proprement dite ne devrait avoir lieu que **deux ou trois jours** avant le départ. De cette manière, vous pouvez tenir compte des prévisions météorologiques actuelles et adapter vos vêtements en conséquence. Le **jour du départ**, il ne vous restera plus qu'à emballer les objets dont vous aurez besoin jusqu'au bout, comme le câble de recharge de votre téléphone portable ou votre brosse à dents.
 
-![Deux femmes préparent une valise pour un voyage](images/pexels-gabby-k-5330979-711x474.jpg)
+![Deux femmes préparent une valise pour un voyage](pexels-gabby-k-5330979-711x474.jpg)
 
 Une liste de colisage permet de structurer la procédure d'emballage.
 
@@ -38,7 +38,7 @@ Une check-list de vacances bien organisée vous permet non seulement d'éviter t
 
 Même pour ceux qui aiment planifier à l'avance et qui utilisent déjà une check-list pour les voyages, il y a toujours une marge d'amélioration. Une préparation minutieuse du voyage est essentielle pour des vacances reposantes et sans stress. En mettant régulièrement à jour et **en optimisant** votre check-list de voyage, vous pouvez être sûr de penser à tout et de profiter de votre voyage sans souci.
 
-![Check-list vacances : une femme profite de la vue sur la mer dans une piscine](images/alex-bertha-Jyg7xHRmXiU-unsplash-711x474.jpg)
+![Check-list vacances : une femme profite de la vue sur la mer dans une piscine](alex-bertha-Jyg7xHRmXiU-unsplash-711x474.jpg)
 
 Les vacances doivent être une expérience relaxante et agréable, et une bonne préparation permet de minimiser le stress.
 
@@ -50,7 +50,7 @@ Une préparation minutieuse de vos vacances implique bien plus qu'une simple che
 - **Vaccins et santé :** Si vous prévoyez des vacances d'aventure dans des régions exotiques, vérifiez votre carnet de vaccination à l'avance et faites mettre à jour les vaccins nécessaires contre les maladies rares en Europe. Renseignez-vous sur les vaccins recommandés ou obligatoires pour votre destination.
 - **Assurance à l'étranger :** Une assurance voyage est indispensable pour être couvert en cas de maladie ou d'autres urgences. Comparez différentes offres et choisissez une assurance qui correspond à vos besoins.
 
-![Check-list vacances : une femme apprécie la vue depuis sa chambre d'hôtel](images/pexels-elina-sazonova-1838554-711x474.jpg)
+![Check-list vacances : une femme apprécie la vue depuis sa chambre d'hôtel](pexels-elina-sazonova-1838554-711x474.jpg)
 
 Il est important d'avoir une assurance voyage qui couvre les soins médicaux à l'étranger et les interruptions de voyage pour des raisons de santé.
 
@@ -61,7 +61,7 @@ Il est important d'avoir une assurance voyage qui couvre les soins médicaux à 
 - **Lois locales et permis de conduire :** Vérifiez si vous avez besoin d'un permis de conduire international dans votre pays de destination et familiarisez-vous avec les lois locales. Certains pays ont des réglementations plus strictes (par exemple, les règles de conduite dans les lieux publics) que vous devez respecter.
 - **Préparer son voyage sur place :** Des détails comme la réservation d'une place de parking à l'aéroport ou la garantie d'être joignable en mobile à l'étranger peuvent avoir une influence considérable sur votre humeur de vacances. Veillez à ce que tout soit bien organisé.
 
-![Une paire de lunettes sur une carte](images/eyeglasses-8227429_1280-711x533.jpg)
+![Une paire de lunettes sur une carte](eyeglasses-8227429_1280-711x533.jpg)
 
 Décidez comment vous allez vous déplacer (location de voiture, transports en commun, etc.) et réservez à l'avance si nécessaire.
 
@@ -97,7 +97,7 @@ Entretoise
 - Billets d'avion
 - Dossier d'hôtel/de location de voiture
 
-![Check-list vacances : passeport, billets d'avion et autres documents](images/convertkit-QMU1z6ReS5A-unsplash-711x474.jpg)
+![Check-list vacances : passeport, billets d'avion et autres documents](convertkit-QMU1z6ReS5A-unsplash-711x474.jpg)
 
 Vous pouvez photocopier les documents importants avant de partir en vacances afin d'être couvert en cas de perte.
 
@@ -119,7 +119,7 @@ Entretoise
 - Chaussures
 - Robes/jupes
 
-![Vêtements préparés pour les vacances](images/pexels-taryn-elliott-4374510-711x484.jpg)
+![Vêtements préparés pour les vacances](pexels-taryn-elliott-4374510-711x484.jpg)
 
 Avant de partir, vérifiez le temps qu'il fera sur votre lieu de voyage.
 
@@ -141,7 +141,7 @@ Entretoise
 - Désinfectant
 - Serviettes de bain
 
-![Les produits d'hygiène : Savon et serviettes pour la check-list vacances](images/pexels-karolina-grabowska-4210373-711x474.jpg)
+![Les produits d'hygiène : Savon et serviettes pour la check-list vacances](pexels-karolina-grabowska-4210373-711x474.jpg)
 
 Renseignez-vous à l'avance pour savoir si les serviettes et autres articles de toilette sont inclus afin de gagner de la place.
 
@@ -162,7 +162,7 @@ Entretoise
 - Carte à tiques
 - Médicaments personnels
 
-![Médicaments et fruits pour la santé](images/pexels-darina-belonogova-7208650-711x517.jpg)
+![Médicaments et fruits pour la santé](pexels-darina-belonogova-7208650-711x517.jpg)
 
 Pour être paré à toute éventualité en vacances, pensez à une petite pharmacie de voyage.
 
@@ -179,7 +179,7 @@ Entretoise
 - Câble de recharge
 - Caméra
 
-![Check-list vacances : un appareil photo drapé esthétiquement en pièces détachées](images/pexels-alex-andrews-271121-821652-711x431.jpg)
+![Check-list vacances : un appareil photo drapé esthétiquement en pièces détachées](pexels-alex-andrews-271121-821652-711x431.jpg)
 
 Veillez à ranger les appareils électroniques de manière sûre, de sorte que rien ne puisse se casser.
 
@@ -197,7 +197,7 @@ Entretoise
 - Provisions de voyage
 - Livre
 
-![Check-list vacances : une femme dort avec un masque de sommeil](images/pexels-cottonbro-6863349-711x512.jpg)
+![Check-list vacances : une femme dort avec un masque de sommeil](pexels-cottonbro-6863349-711x512.jpg)
 
 Les longs voyages en avion peuvent être rendus plus agréables grâce à des masques de sommeil et des bouchons d'oreille.
 
@@ -209,7 +209,7 @@ Le type de vacances joue également un rôle décisif. Pour un **voyage en ville
 
 Une check-list flexible pour vos vacances vous permet également de réagir aux changements de dernière minute. Il est plus facile de faire face aux changements imprévisibles de la météo ou aux modifications spontanées des plans si vous êtes déjà parfaitement organisé à l'avance et que vous ne tombez pas dans un stress inutile.
 
-![Check-list vacances : vue d'un coucher de soleil depuis un avion](images/pexels-stefanstefancik-127905-711x513.jpg)
+![Check-list vacances : vue d'un coucher de soleil depuis un avion](pexels-stefanstefancik-127905-711x513.jpg)
 
 Que ce soit des ustensiles de plage ou des équipements de sports d'hiver, vous n'avez pas besoin des mêmes choses selon vos vacances.
 
@@ -223,7 +223,7 @@ Si votre check-list pour les vacances est longue, cela peut être un défi de to
 - **Préparer le chemin du retour :** Pensez aussi au retour et laissez un peu de place pour les souvenirs et autres choses que vous achèterez pendant vos vacances.
 - **Garder les essentiels à portée de main :** Rangez les documents importants, les câbles de chargement et une petite trousse de premiers secours dans un compartiment facilement accessible. Vous aurez ainsi tout ce qui est important à portée de main.
 
-![Une valise est posée sur un lit d'hôtel](images/pexels-ketut-subiyanto-4246101-711x522.jpg)
+![Une valise est posée sur un lit d'hôtel](pexels-ketut-subiyanto-4246101-711x522.jpg)
 
 Utilisez des formats de voyage pour les produits d'hygiène afin de gagner de la place et de respecter les restrictions de liquides en vol.
 
@@ -235,6 +235,6 @@ Dans le modèle, vous trouverez non seulement une check-list de vacances adaptab
 
 Une application est également disponible pour simplifier la planification des voyages. Celle-ci vous permet de saisir des idées, des coûts et des choses à faire via des pages de formulaire, dont les informations sont ensuite automatiquement enregistrées dans les tableaux correspondants. L'ensemble de votre planification de vacances peut être consulté dans des tableaux clairs que vous pouvez regrouper et trier à votre guise. Des statistiques claires, comme par exemple dans le tableau de bord budgétaire, vous facilitent en outre la vue d'ensemble :
 
-![Tableau de bord du budget dans l'application Voyage de SeaTable](images/Travel-App.png)
+![Tableau de bord du budget dans l'application Voyage de SeaTable](Travel-App.png)
 
-[Inscrivez-vous](https://seatable.io/fr/enregistrement/) gratuitement dès aujourd'hui pour profiter de ces fonctions pratiques et organiser votre prochain voyage sans stress. Vous pourrez ensuite utiliser le [modèle]({{< relref "templates/events/travel-planner" >}}) dans votre espace de travail personnel SeaTable, le remplir avec vos propres données et le partager avec vos compagnons de voyage via l'application.
+[Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement dès aujourd'hui pour profiter de ces fonctions pratiques et organiser votre prochain voyage sans stress. Vous pourrez ensuite utiliser le [modèle]({{< relref "templates/events/travel-planner" >}}) dans votre espace de travail personnel SeaTable, le remplir avec vos propres données et le partager avec vos compagnons de voyage via l'application.

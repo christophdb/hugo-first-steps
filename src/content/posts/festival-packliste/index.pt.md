@@ -14,7 +14,7 @@ Quando a época dos festivais começa e a expetativa de boa música e de experi�
 
 Quer se esteja a preparar para o lendário [Wacken](https://www.wacken.com/de/), para o emocionante [Rock am Ring](https://www.rock-am-ring.com) ou para o enérgico [Hurricane](https://hurricane.de/de/) Festival - há alguns itens indispensáveis em todas as listas de embalagem de festivais.
 
-![Lista de bagagem para o festival: Homem carrega mulher à boleia no festival](images/group-friends-having-fun-together-711x475.jpg)
+![Lista de bagagem para o festival: Homem carrega mulher à boleia no festival](group-friends-having-fun-together-711x475.jpg)
 
 Os festivais reúnem as pessoas e promovem um sentido de comunidade.
 
@@ -24,7 +24,7 @@ Para o ajudar a encontrar tudo num ápice, a lista de embalagem do festival est�
 
 ### Essenciais
 
-![Packlist do Festival: Uma multidão em frente a um palco](images/colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
+![Packlist do Festival: Uma multidão em frente a um palco](colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
 
 Os festivais dão acesso a um programa musical diversificado.
 
@@ -50,7 +50,7 @@ Espaçador
 
 ### Acampamento
 
-![Mulher de pé num saco-cama em frente à sua tenda](images/female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
+![Mulher de pé num saco-cama em frente à sua tenda](female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
 
 As noites são muitas vezes curtas no meio do ambiente ruidoso.
 
@@ -76,7 +76,7 @@ Espaçador
 
 ### Restauração
 
-![Tigela com muesli e chávena sobre uma pedra](images/camping-lifestyle-with-food-711x637.jpg)
+![Tigela com muesli e chávena sobre uma pedra](camping-lifestyle-with-food-711x637.jpg)
 
 É preciso ter muita energia num festival.
 
@@ -102,7 +102,7 @@ Espaçador
 
 ### Vestuário
 
-![Uma mulher mostra algo ao seu parceiro num festival](images/couple-standing-crowd-music-festival-711x481.jpg)
+![Uma mulher mostra algo ao seu parceiro num festival](couple-standing-crowd-music-festival-711x481.jpg)
 
 A roupa certa é aquela com que se sente confortável.
 
@@ -128,7 +128,7 @@ Espaçador
 
 ### Higiene e medicina
 
-![Sanitários coloridos num chão poeirento](images/amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
+![Sanitários coloridos num chão poeirento](amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
 
 A situação de higiene nos festivais não é, muitas vezes, particularmente confortável.
 
@@ -158,7 +158,7 @@ Espaçador
 
 ### Diversos
 
-![Os amigos jogam beer pong juntos](images/front-view-women-playing-beer-pong-711x474.jpg)
+![Os amigos jogam beer pong juntos](front-view-women-playing-beer-pong-711x474.jpg)
 
 Para passar o tempo, há jogos no parque de campismo.
 

@@ -13,9 +13,9 @@ Qu'il s'agisse de camions, de bus ou de voitures de service classiques, la gesti
 
 ## Qu'est-ce qu'un parc de véhicules ?
 
-Le **parc automobile** ou la **flotte de** votre entreprise comprend tous les véhicules qui se trouvent dans votre [inventaire](https://seatable.io/fr/inventarliste-vorlagen/). Il s'agit le plus souvent de **voitures de société** classiques. Mais il peut également s'agir de véhicules spéciaux : Bus et trains, camions, véhicules de chantier, chariots élévateurs, tracteurs ou autres véhicules.
+Le **parc automobile** ou la **flotte de** votre entreprise comprend tous les véhicules qui se trouvent dans votre [inventaire]({{< relref "posts/inventarliste-erstellen" >}}). Il s'agit le plus souvent de **voitures de société** classiques. Mais il peut également s'agir de véhicules spéciaux : Bus et trains, camions, véhicules de chantier, chariots élévateurs, tracteurs ou autres véhicules.
 
-![Gestion de la flotte de véhicules](https://seatable.io/wp-content/uploads/2022/05/fuhrparkmanagement-mit-seatable.jpg)
+![Gestion de la flotte de véhicules](fuhrparkmanagement-mit-seatable.jpg)
 
 Il existe deux types de véhicules dans la gestion de parc automobile :
 
@@ -34,7 +34,7 @@ La charge de travail liée à la gestion de votre flotte dépend entièrement de
 
 L’objectif de la gestion de flotte (tant publique que privée) est de rendre tous les processus impliquant des véhicules aussi efficaces et rentables que possible. Cela comprend les **coûts d’acquisition** , les **coûts d’exploitation** , mais aussi **l’entretien et les réparations** . Une autre tâche importante est l’ **attribution et la réservation** des véhicules sans problème et sans complications. Vous pouvez par exemple utiliser des systèmes de réservation numériques pour faciliter la remise et garantir une documentation complète.
 
-![Clé de voiture pour la remise du véhicule](https://seatable.io/wp-content/uploads/2022/05/Anrita1705-automobile-7600895_1280.jpg)
+![Clé de voiture pour la remise du véhicule](Anrita1705-automobile-7600895_1280.jpg)
 
 ### Qu'est-ce qui fait partie de la gestion de la flotte de véhicules ?
 
@@ -51,7 +51,7 @@ Voyons maintenant en détail différents aspects et conseils de gestion de flott
 
 **De combien de véhicules** votre entreprise a-t-elle besoin ? Avec la gestion de la flotte, vous veillez à ce qu'un nombre suffisant de véhicules soit disponible au bon endroit, chaque fois que cela est nécessaire. Le nombre de **collaborateurs disposant d'un véhicule de service** ou le nombre de véhicules utilitaires qui doivent être utilisés en même temps pour remplir certaines missions peuvent être de bons indicateurs.
 
-![Parc de véhicules](https://seatable.io/wp-content/uploads/2024/01/Fahrzeugflotte.jpg)
+![Parc de véhicules](Fahrzeugflotte.jpg)
 
 L'**image** que vous voulez donner est également importante dans la gestion de la flotte. Les voitures de luxe, par exemple pour la direction, peuvent certes symboliser un certain statut vis-à-vis de l'extérieur, mais avoir un effet prétentieux sur vos propres collaborateurs et clients. La plupart du temps, la taille des véhicules s'accompagne d'une **consommation de carburant** élevée : à l'heure du tournant de la mobilité, l'utilisation de véhicules plus petits plutôt que de véhicules gourmands en carburant dans votre parc automobile est donc un aspect à la fois financier et stratégique.
 
@@ -63,7 +63,7 @@ Lors de l'achat d'un véhicule, vous devez bien entendu réfléchir au financeme
 
 Les **frais administratifs** sont généralement moins élevés avec le leasing, car de nombreuses sociétés de location de voitures proposent des services sur mesure dans leurs contrats et s'occupent de certaines tâches de gestion de parc automobile que vous devriez sinon assumer vous-même. Selon la situation, le leasing peut donc être plus avantageux qu'un achat financé à crédit, par exemple.
 
-![Financer une flotte de véhicules](https://seatable.io/wp-content/uploads/2024/01/Fuhrpark-finanzieren.jpg)
+![Financer une flotte de véhicules](Fuhrpark-finanzieren.jpg)
 
 **L’assurance** entraîne également des coûts permanents élevés en matière de gestion des véhicules et des flottes. Cependant, vous n’êtes pas obligé d’assurer chacun de vos véhicules individuellement. Si vous ne possédez que trois véhicules d’entreprise, vous pouvez bénéficier de polices d’assurance automobile de groupe, ce qui peut réduire les coûts et les efforts administratifs.
 
@@ -81,7 +81,7 @@ En outre, vous devez contrôler deux fois par an les permis de conduire des cond
 
 Pour gérer votre parc de véhicules, vous avez le choix entre plusieurs possibilités. La solution logicielle doit répondre à plusieurs exigences : D'une part, elle doit être **flexible** et donc applicable à vos scénarios individuels. D'autre part, elle doit pouvoir collecter différents types d'informations (par exemple des fichiers, des images et des données GPS) tout en restant simple **d'utilisation**.
 
-![Gestion de la flotte de véhicules](https://seatable.io/wp-content/uploads/2022/05/marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
+![Gestion de la flotte de véhicules](marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
 
 Selon la taille de l'entreprise, les exigences d'un tel logiciel sont différentes. Les grandes entreprises telles que les entreprises de transport ou les sociétés de transport peuvent recourir à des **solutions sectorielles** spécifiques, mais celles-ci sont souvent coûteuses. Les petites entreprises qui disposent d'une flotte de véhicules de taille raisonnable ne doivent toutefois pas se lancer dans des dépenses excessives pour un système de gestion de flotte coûteux.
 
@@ -93,7 +93,7 @@ Gardez une trace de l'ensemble de votre flotte ! Avec notre [logiciel de gestion
 
 SeaTable vous offre une gestion claire et intuitive de votre flotte et des demandes de réservation entrantes. Cela signifie que vous avez toujours un aperçu des véhicules disponibles à quel moment et de l'état de votre flotte.
 
-[Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) et essayez dès aujourd'hui SeaTable et son modèle personnalisable et flexible pour la gestion de votre parc automobile !
+[Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et essayez dès aujourd'hui SeaTable et son modèle personnalisable et flexible pour la gestion de votre parc automobile !
 
 ## FAQ
 

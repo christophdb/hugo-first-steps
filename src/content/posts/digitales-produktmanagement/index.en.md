@@ -33,7 +33,7 @@ On the other hand, there are also other product characteristics that are not int
 
 To create a better overview within the catalogue, we use SeaTable's multiple [grouping function](https://seatable.io/en/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/). This allows you to arrange and structure your data as you wish: For example, by series and quality range, or as in our template, by product series and product type.
 
-![Product catalogue for digital product management](images/Catalogue_Overview.png)
+![Product catalogue for digital product management](Catalogue_Overview.png)
 
 A product catalogue for external presentation
 
@@ -43,7 +43,7 @@ You need more than just a display view of your products? No problem! Simply add 
 
 You might know this - you are looking for a product and you know what it looks like, but not what it is called? Our gallery plugin is very helpful for this. It displays all the images that have been entered in the selected table and forms a compact information pool for your product management. With additional information such as product name, series and item number, you can thus create a detailed image gallery that also contains important product specifics.
 
-![Product image gallery for digital product management](images/Gallery-Plugin.png)
+![Product image gallery for digital product management](Gallery-Plugin.png)
 
 With a few clicks you have created an informative gallery.
 
@@ -55,7 +55,7 @@ Let us now turn to the internal product catalogue: This serves as an internal so
 
 This results in a very detailed product catalogue that enables every employee to obtain maximum information output with minimum effort. Indeed, a fully equipped catalogue minimises communication with responsible units, such as the product managers or other units, if, for example, the exact designation of the product coating is missing.
 
-![](images/Product-Data_Overview.png)
+![](Product-Data_Overview.png)
 
 In our example, we directly created calculations for the margin in order to observe how the individual products perform in production. This is very easy with the [formula column](https://seatable.io/en/docs/handbuch/seatable-nutzen/feld-typen/), which first calculates the margin and then the margin as a percentage. This way, product managers and employees can see at a glance how the different products are doing.
 
@@ -71,13 +71,13 @@ In order to divide the individual projects more precisely into task packages, th
 
 For easier handling of the tasks, we have integrated the **Kanban plugin**, which makes task management easy. In the Kanban manner, individual tasks can be transformed into a new status with one click, for example when the products for the campaign have been finally selected: Done! The Kanban plugin is based on the various views created in a table, so you can also create employee-specific views for your own Kanban boards.
 
-![Digital product management with digital task management](images/Kanban-Tasks.gif)
+![Digital product management with digital task management](Kanban-Tasks.gif)
 
 With the Kanban plugin you always have your tasks perfectly in view
 
 To ensure that you always have an eye on the time, we supplement our digital product management with the **Timeline plug-in**. It shows the course of time of your tasks in the form of a timeline. Always starting from the current date, a marker shows which tasks are still in time and which should already be completed. So you know at a glance whether your team is on schedule.
 
-![So that your digital product management stays on time](images/Timeline.png)
+![So that your digital product management stays on time](Timeline.png)
 
 The timeline shows tasks and projects over time. Are you on time?
 
@@ -85,12 +85,12 @@ The timeline shows tasks and projects over time. Are you on time?
 
 Of course, it is enormously important in product management to keep an eye on the monthly sales figures. Many informative analyses can be made on the basis of the figures. Will the new product flop and not be accepted by the customers at all? Or will it be an absolute sales hit? Is it possibly selling better in Germany than in Switzerland? All such questions can be answered very quickly with the sales figures.
 
-![Digital product management also includes monthly sales figures](images/Store-Sales.png)
+![Digital product management also includes monthly sales figures](Store-Sales.png)
 
 All selling stores are listed here with address and sales figures
 
 In our product management template, the table contains not only the sales, but also all listed outlets with address and the products that are sold at the outlets. The products are added to the "Catalogue" table by means of a link column and thus belong to the individual stores as sales units.   
-![The map plugin provides a visual representation of the individual outlets](images/Map-Plugin-711x341.jpg)  
+![The map plugin provides a visual representation of the individual outlets](Map-Plugin-711x341.jpg)  
 This can be used to create a detailed store portfolio, for example if employees and branch managers are added. When the addresses are entered, the map plug-in can be used at the same time, which can locate places by means of address or coordinates and visualise them on the map.  
 Stores are thus mapped geographically and provide information about a particularly high or low store density and where exactly new locations could be planned.
 
@@ -100,13 +100,13 @@ The sales figures are the heart of this table and extremely important for digita
 
 We have already created some statistics that are helpful for the data evaluation of this table. There are hardly any limits to the selection possibilities: By selecting a view depending on the table, highly individualised statistics can be created; for example, if a shop is to be analysed specifically, a single view can be created for this branch and then a statistic created just for it.
 
-![Digital product management also includes statistics of all kinds](images/Stats.png)
+![Digital product management also includes statistics of all kinds](Stats.png)
 
 These statistics complement product management with important analyses
 
 The first statistic shows the margins of the different product series and it becomes clear that the Easy Line has the highest margin. The following statistic on the right shows the sales figures in the first quarter for the individual sales locations: Berlin is obviously a strong location, while the figures in Graz look rather poor. So the rather meagre figures can be followed up by the product management in the further course to possibly improve the output.
 
-The statistics at the bottom left show the monthly sales figures of the stores with a stacked bar chart, which also shows the sum of the months at the height of the bar. To get another perspective on the monthly sales, ![Flexible statistics for digital product management](images/flexible-statistics.png) we have created another bar chart at the bottom left, showing all monthly sales figures per branch with narrow lines.
+The statistics at the bottom left show the monthly sales figures of the stores with a stacked bar chart, which also shows the sum of the months at the height of the bar. To get another perspective on the monthly sales, ![Flexible statistics for digital product management](flexible-statistics.png) we have created another bar chart at the bottom left, showing all monthly sales figures per branch with narrow lines.
 
 If you want more flexibility, you can use our plugin "Advanced statistics". The advantage of this plugin is the enlargement of the statistics at will in the overview and a completely flexible and new arrangement of statistics. These two statistics can be enlarged or reduced in any direction with the mouse cursor and can be placed perfectly next to each other. This is especially important in cases where important numbers need to be compared directly.
 

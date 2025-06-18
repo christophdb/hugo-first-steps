@@ -22,7 +22,7 @@ Para evitar el cansancio de las decisiones por la mañana, establezca una rutina
 
 Crear un espacio de trabajo es muy importante para trabajar desde casa. Si no tienes un estudio, utiliza [separadores de ambientes](https://diy-family.com/diy-raumteiler-6-praktische-ideen/). Pueden ser estanterías, plantas, cortinas o simplemente un color de pared diferente. La separación visual es importante, ya que facilita la entrada en el modo de trabajo y la desconexión después del mismo.
 
-![Oficina en casa](https://seatable.de/wp-content/uploads/2020/09/Bildschirmfoto-2020-09-08-um-11.37.16.png)
+![Oficina en casa](Bildschirmfoto-2020-09-08-um-11.37.16.png)
 
 ## 3\. aire fresco y ejercicio
 

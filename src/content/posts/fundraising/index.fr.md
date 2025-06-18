@@ -13,7 +13,7 @@ seo:
 
 Dans cet article, nous jetons un regard approfondi sur le thème de la collecte de fonds et mettons en lumière différentes **méthodes** qui vous permettront d'enthousiasmer les gens pour vos idées et d'encourager les dons. Pour pouvoir poursuivre de manière conséquente votre objectif de don, collecter des dons et établir un certificat de don, vous avez enfin la chance d'essayer un **logiciel gratuit pour la gestion des dons**.
 
-![Le mot "fundraising" est écrit dans un cahier avec des bonshommes-barres](images/charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
+![Le mot "fundraising" est écrit dans un cahier avec des bonshommes-barres](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
 Une collecte de fonds bien planifiée peut aider une organisation à réaliser ses objectifs.
 
@@ -31,7 +31,7 @@ Il est important de fournir des informations détaillées, y compris le **montan
 
 {{< warning headline="Conseil" text="Une approche qui a fait ses preuves est l'envoi de **lettres de don**. Celles-ci vous permettent de communiquer votre message de manière claire et efficace et d'aborder les donateurs potentiels à un niveau personnel." />}}
 
-![Verre contenant des pièces de monnaie, d'où sort une petite plante](images/micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
+![Verre contenant des pièces de monnaie, d'où sort une petite plante](micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 
 La collecte de fonds exige de la créativité pour attirer l'attention des gens.
 
@@ -43,7 +43,7 @@ En revanche, dans le cas du **crowdfunding**, on fixe souvent une période déte
 
 Le graphique suivant donne un bref aperçu des principales différences.
 
-![Différences entre la collecte de fonds et le crowdfunding](images/Crowdfunding-vs.-Fundraising-711x533.png)
+![Différences entre la collecte de fonds et le crowdfunding](Crowdfunding-vs.-Fundraising-711x533.png)
 
 La différence entre le fundraising et le crowdfunding
 
@@ -69,7 +69,7 @@ Dans le monde numérique, de nombreuses possibilités s'offrent à vous pour col
 - Offres actuelles
 - Moteurs de recherche et marketing des médias sociaux
 
-![Appel aux dons sur un ordinateur](images/donation-community-service-volunteer-support-711x595.jpg)
+![Appel aux dons sur un ordinateur](donation-community-service-volunteer-support-711x595.jpg)
 
 Les médias sociaux jouent un rôle de plus en plus important dans la collecte de fonds.
 
@@ -99,7 +99,7 @@ A l'inverse, la **prospection à froid** vous permet de contacter des donateurs 
 
 Entre le premier et le deuxième don, de nombreuses organisations à but non lucratif perdent une grande partie de leurs donateurs. Selon une [analyse](https://link.springer.com/book/10.1007/978-3-8349-6308-6) de Beat Hunziker, seule la moitié environ de tous les donateurs effectuent un deuxième don. Le **cycle de fidélisation des donateurs** est un modèle qui montre comment les personnes intéressées par un don peuvent devenir des soutiens engagés.
 
-![Cycle de fidélisation des donateurs dans la collecte de fonds](images/Spendenloyalitaetszyklus-711x533.png)
+![Cycle de fidélisation des donateurs dans la collecte de fonds](Spendenloyalitaetszyklus-711x533.png)
 
 Cycle de fidélisation des donateurs
 
@@ -119,4 +119,4 @@ Dans votre [base de données en ligne]({{< relref "templates/finance/donation-ov
 
 Pour les petites associations, les fonctions et les limites de stockage de SeaTable Free (version gratuite) devraient suffire. Si vous avez des projets plus importants, votre organisation à but non lucratif bénéficiera par défaut de [réductions]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}) sur les coûts de SeaTable Plus ou Enterprise.
 
-[Inscrivez-vous](https://seatable.io/fr/enregistrement/) d'abord à l'abonnement gratuit et faites ensuite une demande correspondante via l'administration de l'équipe. Nous nous réjouissons de soutenir votre organisation à but non lucratif avec notre logiciel !
+[Inscrivez-vous]({{< relref "pages/registration" >}}) d'abord à l'abonnement gratuit et faites ensuite une demande correspondante via l'administration de l'équipe. Nous nous réjouissons de soutenir votre organisation à but non lucratif avec notre logiciel !

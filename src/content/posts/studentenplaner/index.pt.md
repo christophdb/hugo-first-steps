@@ -34,7 +34,7 @@ Sabia que existem agora muitas plataformas para livros de texto em segunda mão?
 
 Para utilizar toda a potência do seu planificador estudantil, pode utilizar a [vista de calendário](https://seatable.io/pt/docs/handbuch/seatable-nutzen/ansichten/). Para o fazer, basta adicionar o plugin do calendário e verá então todos os seus prazos claramente organizados no seu calendário pessoal.
 
-![Planeador de estudantes](https://seatable.de/wp-content/uploads/2020/09/Bildschirmfoto-2020-09-02-um-11.57.21.png)
+![Planeador de estudantes](Bildschirmfoto-2020-09-02-um-11.57.21.png)
 
 ### Pontos de vista diferentes
 

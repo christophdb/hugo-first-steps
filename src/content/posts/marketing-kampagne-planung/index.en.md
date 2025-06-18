@@ -19,7 +19,7 @@ The answers, as well as an overview of the six best practice tips for planning y
 
 A major and crucial difference between marketing strategy and marketing campaign is the time component. While the strategy is a long-term, planned approach to the implementation of marketing objectives, the campaign is a time-limited action within the framework of this same strategy. Thus, a strategy can include many different marketing or advertising campaigns over a long period of time. This means that planning and implementation of the marketing campaign always take place under the umbrella of the marketing strategy.
 
-![Employee takes over marketing campaign planning.](images/Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
+![Employee takes over marketing campaign planning.](Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
 
 Marketing campaign planning © Rawpixel / adobe stock
 
@@ -47,9 +47,9 @@ There are virtually no ideas that haven't been thought of before. In other words
 
 ### 4\. define clear responsibilities and timelines
 
-A marketing campaign and its planning work best when everyone knows what they have to do and when. Once the [project goals]({{< relref "templates/projects/project-plan" >}}), target group and market/competitor analysis are in place, the next step is to put together a team, assign [responsibilities and tasks](https://seatable.io/en/projektstrukturplan-vorlage/), set deadlines and milestones and - very importantly - allocate the [budget](https://seatable.io/en/budgetplanung-vorlage/).
+A marketing campaign and its planning work best when everyone knows what they have to do and when. Once the [project goals]({{< relref "templates/projects/project-plan" >}}), target group and market/competitor analysis are in place, the next step is to put together a team, assign [responsibilities and tasks](https://seatable.io/en/projektstrukturplan-vorlage/), set deadlines and milestones and - very importantly - allocate the [budget]({{< relref "templates/finance/budget-book" >}}).
 
-![Marketing team discusses approach to campaign planning.](images/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
+![Marketing team discusses approach to campaign planning.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
 Marketing campaign planning © REDPIXEL / adobe stock
 

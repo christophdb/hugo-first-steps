@@ -14,7 +14,7 @@ seo:
 
 En este artículo le presentamos una guía completa con toda la información importante y los métodos de análisis de la competencia. Para llevar a cabo su análisis de forma estructurada y eficaz, le presentaremos a continuación una potente herramienta que le ayudará a organizar sus datos de forma clara y precisa.
 
-![Análisis del concurso: Una mujer posa victoriosa ante un fondo naranja](images/miguel-bruna-TzVN0xQhWaQ-unsplash-711x426.jpg)
+![Análisis del concurso: Una mujer posa victoriosa ante un fondo naranja](miguel-bruna-TzVN0xQhWaQ-unsplash-711x426.jpg)
 
 El principal objetivo del análisis competitivo es identificar y aprovechar las ventajas competitivas.
 
@@ -30,7 +30,7 @@ Un análisis estratégico de la competencia le proporciona información sobre el
 
 El análisis también proporciona información sobre cómo están posicionados sus productos o servicios en el mercado y qué**punto de venta** único ofrecen en comparación con la competencia. Esta información es útil para ajustar su estrategia de mercado de forma selectiva y reforzar su posición a largo plazo.
 
-![Análisis de la competencia: papel con diagramas y gráficos en color para el análisis](images/marketing-business-lady-striped-shirt-office-with-computer-pointing-out-schemes-711x474.jpg)
+![Análisis de la competencia: papel con diagramas y gráficos en color para el análisis](marketing-business-lady-striped-shirt-office-with-computer-pointing-out-schemes-711x474.jpg)
 
 Comprender las necesidades de los clientes es fundamental para analizar la competencia.
 
@@ -45,7 +45,7 @@ Pero, ¿cuándo es el momento adecuado para realizar un análisis de este tipo? 
 - **Actividades en medios de pago:** Si las medidas de publicidad de pago no están dando los resultados deseados, un análisis de la competencia puede revelar qué enfoques están adoptando sus competidores y cómo puede optimizar sus propias campañas.
 - **Tendencias del sector:** Para estar al día y reconocer las tendencias actuales del sector, es esencial analizar periódicamente a la competencia.
 
-![Manos en un portátil con gráficos que sobresalen en varios planos](images/ui-ux-representations-with-laptop-711x474.jpg)
+![Manos en un portátil con gráficos que sobresalen en varios planos](ui-ux-representations-with-laptop-711x474.jpg)
 
 Un análisis de la competencia es especialmente importante antes de relanzar un sitio web o entrar en un nuevo mercado.
 
@@ -59,7 +59,7 @@ Entre los métodos de análisis competitivo, hay dos enfoques importantes que of
 
 El análisis competitivo de Porter permite a las empresas comprender mejor la dinámica de su sector y desarrollar estrategias para obtener una ventaja competitiva. Este método de análisis competitivo ayuda a evaluar el **atractivo** y la **rentabilidad** de una industria y a tomar decisiones empresariales bien fundadas.
 
-![Análisis de la competencia: modelo de las 5 fuerzas de Porter](images/1-711x533.png)
+![Análisis de la competencia: modelo de las 5 fuerzas de Porter](1-711x533.png)
 
 El modelo de Michael E. Porter, que analiza las cinco fuerzas que determinan la competencia en una industria.
 
@@ -74,7 +74,7 @@ Por consiguiente, este método comienza con la identificación de las competenci
 - Los conocimientos que son caros o difíciles de imitar, como las invenciones patentadas, **no pueden ser imitados**.
 - Una competencia se considera **organizada** si su empresa puede explotar plenamente el potencial de la habilidad o el recurso.
 
-![Análisis de la competencia - Análisis VRIO](images/Wettbewerbsanalyse-VRIO-Analyse.png)
+![Análisis de la competencia - Análisis VRIO](Wettbewerbsanalyse-VRIO-Analyse.png)
 
 Los recursos deben ser valiosos, raros, no imitables y organizados para ofrecer una ventaja competitiva.
 
@@ -100,7 +100,7 @@ La creación de un análisis estratégico de la competencia puede parecer compli
 
 ### 1\. definir objetivos
 
-![Análisis de la competencia: Un dardo clavado en una diana](images/pexels-pixabay-262438-711x473.jpg)
+![Análisis de la competencia: Un dardo clavado en una diana](pexels-pixabay-262438-711x473.jpg)
 
 Además del posicionamiento estratégico en el mercado, minimizar los riesgos también puede ser un objetivo relevante.
 
@@ -108,7 +108,7 @@ Determine qué información desea obtener del análisis y cómo puede ayudarle. 
 
 ### 2\. identificar a los competidores
 
-![Piezas de ajedrez blancas en primer plano, piezas de ajedrez negras al fondo.](images/chess-6890325_1920-711x400.jpg)
+![Piezas de ajedrez blancas en primer plano, piezas de ajedrez negras al fondo.](chess-6890325_1920-711x400.jpg)
 
 Asegúrese de identificar al competidor también desde el punto de vista del cliente, no sólo desde la perspectiva de la empresa.
 
@@ -116,7 +116,7 @@ Elabore una lista de sus principales competidores. Esto incluye tanto a **los co
 
 ### 3\. recopilar datos
 
-![Análisis del concurso: una mujer con datos proyectados sobre su cara y la parte superior de su cuerpo.](images/pexels-thisisengineering-3861969-711x474.jpg)
+![Análisis del concurso: una mujer con datos proyectados sobre su cara y la parte superior de su cuerpo.](pexels-thisisengineering-3861969-711x474.jpg)
 
 Utilizar el análisis de fuentes de datos existentes, como informes de mercado, estudios sectoriales e informes de empresas.
 
@@ -126,7 +126,7 @@ Reúna información exhaustiva sobre sus competidores. Utilice fuentes públicas
 
 ### 4\. realizar análisis
 
-![Cuadro de mandos con gráficos de análisis web](images/luke-chesser-JKUTrJ4vK00-unsplash-711x474.jpg)
+![Cuadro de mandos con gráficos de análisis web](luke-chesser-JKUTrJ4vK00-unsplash-711x474.jpg)
 
 Tómese su tiempo para crear perfiles detallados de sus principales competidores.
 
@@ -134,7 +134,7 @@ Compare y evalúe los datos recopilados. Para ello, utilice los **métodos de an
 
 ### 5\. derivar estrategias
 
-![Análisis del concurso: un campo de juego "Mensch ärgere dich nicht" sobre una mesa de cristal](images/pexels-pixabay-207924-711x399.jpg)
+![Análisis del concurso: un campo de juego "Mensch ärgere dich nicht" sobre una mesa de cristal](pexels-pixabay-207924-711x399.jpg)
 
 Romper con los modelos empresariales rígidos y centrarse en la creación continua de nuevas ventajas competitivas.
 
@@ -142,7 +142,7 @@ Utilice los conocimientos adquiridos para mejorar sus propias estrategias. Esto 
 
 ### 6\. repetir regularmente
 
-![Una escalera de caracol en forma de panal desde arriba que lleva un largo camino hacia abajo](images/pexels-mithulvarshan-3023211-711x506.jpg)
+![Una escalera de caracol en forma de panal desde arriba que lleva un largo camino hacia abajo](pexels-mithulvarshan-3023211-711x506.jpg)
 
 En mercados especialmente dinámicos, las revisiones mensuales pueden ser incluso útiles.
 
@@ -152,7 +152,7 @@ La creación de un análisis de la competencia no es un proyecto puntual. Revise
 
 Los resultados de un análisis estratégico de la competencia no sólo le proporcionan información valiosa, sino que pueden situar a su empresa en la vía rápida. Al identificar los puntos débiles de las estrategias de sus competidores, puede **evitar escollos** similares y **optimizar** sus propios **procesos**. Al mismo tiempo, un análisis bien fundamentado le permite formular **objetivos empresariales claros**. Con un plan preciso en mente, sabrá exactamente hacia dónde se dirige el viaje y qué pasos son necesarios para llegar hasta allí.
 
-![Análisis del concurso: Una mano sostiene una brújula, al fondo se ve un lago.](images/compass-4891499_1280-711x454.jpg)
+![Análisis del concurso: Una mano sostiene una brújula, al fondo se ve un lago.](compass-4891499_1280-711x454.jpg)
 
 Con la ayuda de los análisis de la competencia, también podrá definir con mayor claridad sus objetivos empresariales a largo plazo.
 

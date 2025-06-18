@@ -16,7 +16,7 @@ O SeaTable 2.4 viu a luz do dia! A última encarnação do SeaTable Server foi c
 
 As vistas fornecem perspectivas únicas sobre os dados de uma tabela SeaTable e são ferramentas fantásticas para a análise de dados. Mas, de acordo com o feedback do utilizador, mudar de opinião é desnecessariamente complicado.
 
-![Navegação com vista pinável](images/Pinnable_View_Navigation_1448x787.png)
+![Navegação com vista pinável](Pinnable_View_Navigation_1448x787.png)
 
 Com o SeaTable 2.4 introduzimos a navegação com vista docável, o que torna a selecção e comutação entre vistas tão fácil como a navegação em pastas num gestor de ficheiros à la Windows Explorer ou no Finder no Mac. Com a navegação acoplada, a lista de vistas é expandida por todo o lado esquerdo do editor de tabelas, tornando as vistas directamente disponíveis para selecção. Para acomodar diferentes necessidades, a largura da navegação ancorada pode ser definida individualmente de acordo com os requisitos. Se tiver de mudar frequentemente de opinião, esta inovação irá poupar-lhe muitos cliques e trabalho com o rato.
 
@@ -24,7 +24,7 @@ Com o SeaTable 2.4 introduzimos a navegação com vista docável, o que torna a 
 
 O tipo de coluna Ligação a outras entradas é provavelmente a mais importante do SeaTable. O SeaTable não é apenas mais uma folha de cálculo online! Como nenhum outro tipo de coluna, este tipo de coluna representa isso. E no SeaTable 2.4 tornámos este tipo de coluna ainda melhor.
 
-![Mais opções de visualização para a coluna de ligação](images/More_Flexible_Link_Column_raw_1448x554.png)
+![Mais opções de visualização para a coluna de ligação](More_Flexible_Link_Column_raw_1448x554.png)
 
 Nas versões anteriores do SeaTable, a ligação mostrava sempre o valor da primeira coluna da entrada ligada. A partir de agora, pode seleccionar qual o valor da coluna da linha ligada que deve ser exibido. Esta selecção é feita facilmente através de um menu dropdown na configuração da coluna de ligação. O que parece pequeno é de grande importância! Imagine que a primeira coluna na tabela ligada é uma coluna de números automáticos. Estes valores não têm informação relevante para si, a exibição sem significado significativo. Na nova versão, selecciona agora uma coluna que contém informações mais significativas. Isto simplifica a criação de ligações e torna a tabela mais compacta com menos colunas de pesquisa. Finalmente, a coluna de ligação revista também torna os formulários web mais poderosos para inquéritos e sondagens. A coluna de pesquisa seleccionada é também a que um visitante vê e pode escolher no formulário web. Estamos convencidos de que será tão apreciado com a nova característica como nós somos.
 
@@ -32,7 +32,7 @@ Nas versões anteriores do SeaTable, a ligação mostrava sempre o valor da prim
 
 Pretende identificar todos os dados duplicados na sua tabela? Com o SeaTable 2.4, tem agora não uma, mas duas formas de o fazer: pode utilizar o plug-in de desduplicação de dados ou a nova opção de formatação condicional "Destacar duplicados". Esta opção de formatação destaca todas as linhas duplicadas na tabela ativa. Ao selecionar as colunas de comparação, pode definir exatamente o que constitui um duplicado.
 
-![Nova opção de formatação condicional "Destacar duplicados](images/Highlight_duplicates_1448x554.png)
+![Nova opção de formatação condicional "Destacar duplicados](Highlight_duplicates_1448x554.png)
 
 A grande vantagem da formatação condicional em comparação com o plugin é o facto de não se abandonar o editor de tabelas. Os duplicados são exibidos onde se pode editar linhas, apagar linhas e utilizar filtros e triagem. (O plugin continua a ser a ferramenta de escolha se se pretender eliminar automaticamente todas as duplicações).
 

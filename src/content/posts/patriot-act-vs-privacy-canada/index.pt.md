@@ -17,7 +17,7 @@ Neste artigo, ficará a saber em pormenor o que são as novas regras de proteç�
 
 O chamado **Patriot Act** é uma [lei federal](https://www.justice.gov/archive/ll/highlights.htm) em vigor nos Estados Unidos desde os ataques terroristas de 11 de setembro de 2001. Esta lei estabelece que as agências federais americanas, como a NSA ou a CIA, podem aceder a todos os dados localizados nos EUA sem consentimento pessoal ou ordem judicial. O mesmo se aplica às filiais e localizações estrangeiras de empresas americanas, que são obrigadas, ao abrigo do Patriot Act, a conceder acesso aos seus servidores, mesmo que a legislação local o proíba.
 
-![Lei dos Pariotas](images/bild-1-artikel-patriot-act-711x474.png)
+![Lei dos Pariotas](bild-1-artikel-patriot-act-711x474.png)
 
 O Patriot Act, assinado pelo antigo Presidente dos Estados Unidos, George W. Bush, permite que as autoridades norte-americanas, como o FBI ou a NSA, acedam aos servidores de empresas norte-americanas sem uma ordem judicial.
 
@@ -33,7 +33,7 @@ O facto de a utilização de fornecedores de serviços de computação em nuvem 
 
 Em 22 de setembro de 2021, o governo da província canadiana do Québec aprovou a "Lei de Modernização das Disposições Jurídicas de Proteção de Dados Pessoais" - abreviadamente, [Lei 25](https://www.quebec.ca/gouvernement/ministeres-et-organismes/institutions-democratique-acces-information-laicite/acces-documents-protection-renseignements-personnels/pl64-modernisation-de-la-protection-des-renseignements-personnels#:~:text=Les modifications qui résultent de,citoyens sur leurs renseignements personnels) - em conformidade com o RGPD na Europa. Desde então, as regras de proteção de dados contidas na Lei 25 têm vindo a entrar gradualmente em vigor. O projeto de lei visa modernizar as leis de proteção de dados no Canadá, que são consideradas ultrapassadas, tanto para o sector privado como para o sector público, e adaptá-las aos avanços tecnológicos.
 
-![Lei Patriota](images/schaubild-gesetz25.png)
+![Lei Patriota](schaubild-gesetz25.png)
 
 A Lei 25 do Quebeque tem vindo a entrar em vigor em etapas anuais desde setembro de 2022.
 
@@ -47,7 +47,7 @@ Pode ler todo o conteúdo da Lei 25 [aqui](https://www.publicationsduquebec.gouv
 
 Mesmo que a sua empresa não esteja localizada no Quebeque, poderá ser afetada pelo projeto de lei 25. Isto porque as regras associadas à lei aplicam-se não só às empresas do Quebeque, mas - independentemente da localização - a qualquer empresa que trabalhe com dados de residentes do Quebeque. Além disso, o Projeto de Lei 25 é considerado um quadro jurídico inovador no Canadá, que deu o impulso para outras reformas legislativas semelhantes. Por exemplo, o Canadá também irá rever atempadamente as suas leis federais de proteção de dados com o Projeto de Lei [C-27](https://www.parl.ca/legisinfo/en/bill/44-1/c-27), que ainda está a ser debatido no Parlamento e que irá substituir a lei federal [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief/) atualmente em vigor em todo o Canadá (com exceção das províncias do Quebeque, Colúmbia Britânica e Alberta).
 
-![Lei Patriota](images/bild3-patrio-act-711x473.png)
+![Lei Patriota](bild3-patrio-act-711x473.png)
 
 Embora o projeto de lei 25 tenha sido aprovado pelo governo do Quebeque, as empresas e instituições muito para além da região também estão a enfrentar as consequências da lei.
 
@@ -61,11 +61,11 @@ As consequências são particularmente drásticas para as empresas canadianas qu
 
 À primeira vista, não parece tão fácil alojar dados pessoais independentemente dos fornecedores dos EUA, ou seja, fora do âmbito da Lei Patriota. De facto, existem algumas alternativas às nuvens dominantes nos EUA. Se atualmente ainda utiliza o Airtable, o Google Sheets ou o Microsoft Excel para armazenar dados pessoais, o SeaTable, por exemplo, pode ser a solução certa para si. Esta base de dados e solução de colaboração económica e poderosa é uma alternativa 100% compatível com a privacidade. Sendo uma empresa europeia que valoriza a máxima segurança dos dados, o SeaTable virou as costas ao líder da indústria americana, a AWS, numa fase inicial. Em vez disso, a versão em nuvem do SeaTable está alojada em centros de dados alemães do fornecedor suíço Exoscale, o que significa que os dados estão sujeitos a rigorosos requisitos europeus de proteção de dados.
 
-![Lei Patriota](images/bild-seatable-patriot-act-711x389.png)
+![Lei Patriota](bild-seatable-patriot-act-711x389.png)
 
 Comparado com o Airtable, o SeaTable impressiona pelo multilinguismo, limites de memória mais elevados e um preço mais baixo, entre outras coisas.
 
-Além disso, o SeaTable oferece uma variante auto-hospedada com a qual pode instalar e utilizar o software como uma [solução no local](https://seatable.io/pt/on-premises/), nos seus próprios servidores. Isto proporciona-lhe uma soberania absoluta dos dados e o máximo controlo sobre o local onde os seus dados são armazenados. Qualquer que seja a opção escolhida, o SeaTable está em conformidade com as leis canadianas de proteção de dados.
+Além disso, o SeaTable oferece uma variante auto-hospedada com a qual pode instalar e utilizar o software como uma [solução no local]({{< relref "pages/product/seatable-server" >}}), nos seus próprios servidores. Isto proporciona-lhe uma soberania absoluta dos dados e o máximo controlo sobre o local onde os seus dados são armazenados. Qualquer que seja a opção escolhida, o SeaTable está em conformidade com as leis canadianas de proteção de dados.
 
 Pretende recolher dados de uma forma estruturada, concluir tarefas de forma eficiente e desenvolver processos poderosos - sem ter de se preocupar com a segurança dos seus dados? Então veja com os seus próprios olhos e [registe-se aqui]({{< relref "pages/registration" >}}) para obter uma **subscrição gratuita do SeaTable**, que já lhe oferece inúmeras [funções](https://seatable.io/pt/preise) úteis. A subscrição é **totalmente gratuita para** si e é uma oportunidade perfeita para testar o SeaTable sem compromisso.
 

@@ -13,9 +13,9 @@ Quer se trate de camiões, autocarros ou automóveis clássicos da empresa: a ge
 
 ## O que é uma frota de veículos?
 
-A **frota** de **veículos** da sua empresa inclui todos os veículos do seu [inventário](https://seatable.io/pt/inventarliste-vorlagen/). Trata-se, na maior parte dos casos, de veículos clássicos **da empresa**. No entanto, também pode incluir veículos especializados: Autocarros e comboios, camiões, veículos de estaleiro, empilhadores, tractores ou outros veículos.
+A **frota** de **veículos** da sua empresa inclui todos os veículos do seu [inventário]({{< relref "posts/inventarliste-erstellen" >}}). Trata-se, na maior parte dos casos, de veículos clássicos **da empresa**. No entanto, também pode incluir veículos especializados: Autocarros e comboios, camiões, veículos de estaleiro, empilhadores, tractores ou outros veículos.
 
-![Gestão de frotas](https://seatable.io/wp-content/uploads/2022/05/fuhrparkmanagement-mit-seatable.jpg)
+![Gestão de frotas](fuhrparkmanagement-mit-seatable.jpg)
 
 Existem dois tipos de veículos na gestão de frotas:
 
@@ -34,7 +34,7 @@ A quantidade de esforço necessário para a gestão da sua frota depende inteira
 
 O objetivo da gestão de frotas (tanto no sector público como no privado) é organizar todos os processos que envolvem veículos da forma mais eficiente e económica possível. Isto aplica-se aos **custos de aquisição**, aos **custos de funcionamento**, mas também à **manutenção e** às **reparações**. Outra tarefa importante é a **atribuição e reserva** de veículos sem problemas e sem complicações. Pode utilizar sistemas de reserva digitais, por exemplo, para facilitar a entrega e documentá-la sem problemas.
 
-![Chaves do automóvel para a entrega do veículo](https://seatable.io/wp-content/uploads/2022/05/Anrita1705-automobile-7600895_1280.jpg)
+![Chaves do automóvel para a entrega do veículo](Anrita1705-automobile-7600895_1280.jpg)
 
 ### O que faz parte da gestão de frotas?
 
@@ -51,7 +51,7 @@ Vamos agora analisar em pormenor vários aspectos e dicas de gestão de frotas.
 
 De **quantos veículos** necessita a sua empresa? Com a gestão de frotas, garante que um número suficiente de veículos está sempre disponível no sítio certo quando é necessário. Um bom indicador pode ser o número de **empregados autorizados a utilizar os veículos da empresa** ou o número de veículos comerciais que têm de ser utilizados em simultâneo para satisfazer determinadas encomendas.
 
-![Frota de veículos](https://seatable.io/wp-content/uploads/2024/01/Fahrzeugflotte.jpg)
+![Frota de veículos](Fahrzeugflotte.jpg)
 
 Quando se trata de gestão de frotas, a **imagem** que se pretende projetar também é importante. Os carros de luxo, por exemplo para a direção, podem simbolizar um certo estatuto para o mundo exterior, mas podem parecer arrogantes para os seus próprios funcionários e clientes. Na maioria dos casos, o tamanho dos veículos também está associado a um elevado **consumo de combustível**: a utilização de veículos mais pequenos na sua frota, em vez de veículos que consomem muita gasolina, é, por conseguinte, um aspeto financeiro e estratégico tendo em vista a transição para a mobilidade.
 
@@ -63,7 +63,7 @@ Ao comprar um veículo, é claro que deve pensar no financiamento. Não existe u
 
 A **carga administrativa** é geralmente menor com o leasing, uma vez que muitas empresas de aluguer de automóveis oferecem serviços personalizados nos seus contratos e tratam de certas tarefas de gestão da frota que, de outra forma, teria de fazer você mesmo. Dependendo da situação, a locação financeira pode, portanto, ser mais favorável do que, por exemplo, uma compra com financiamento a crédito.
 
-![Financiamento de um parque automóvel](https://seatable.io/wp-content/uploads/2024/01/Fuhrpark-finanzieren.jpg)
+![Financiamento de um parque automóvel](Fuhrpark-finanzieren.jpg)
 
 **Os seguros** também estão associados a custos de funcionamento elevados na gestão de frotas. No entanto, não é necessário segurar cada um dos seus veículos individualmente. Pode beneficiar de contratos de grupo para apólices de seguro automóvel para apenas três veículos da empresa, o que pode reduzir os custos e o trabalho administrativo.
 
@@ -81,7 +81,7 @@ Além disso, é necessário controlar duas vezes por ano a carta de condução d
 
 Existem várias opções de escolha para gerir a sua frota de veículos. A solução de software deve satisfazer vários requisitos: Em primeiro lugar, deve ser **flexível** e, por conseguinte, aplicável aos seus cenários individuais. Deve também ser capaz de registar diferentes tipos de informação (por exemplo, ficheiros, imagens e dados GPS) e ser fácil **de utilizar**.
 
-![Gestão de frotas](https://seatable.io/wp-content/uploads/2022/05/marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
+![Gestão de frotas](marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
 
 Os requisitos para este tipo de software variam consoante a dimensão da empresa. As grandes empresas, como as empresas de transportes ou de camionagem, podem recorrer a **soluções** especiais **para o sector**, mas estas são frequentemente dispendiosas. No entanto, as empresas mais pequenas, com uma frota gerível, não precisam de se sujeitar às despesas de um sistema de gestão de frotas dispendioso.
 

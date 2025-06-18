@@ -14,7 +14,7 @@ Está a planear expandir a sua linha de produtos e pretende saber que **carater�
 
 Neste artigo, apresentamos um guia completo com todas as informações importantes e métodos de análise da concorrência. Para efetuar a sua análise de forma estruturada e eficiente, apresentamos-lhe uma ferramenta poderosa que o ajudará a organizar os seus dados de forma clara e precisa.
 
-![Análise do concurso: Mulher faz pose de vitória em frente a um fundo cor de laranja](images/miguel-bruna-TzVN0xQhWaQ-unsplash-711x426.jpg)
+![Análise do concurso: Mulher faz pose de vitória em frente a um fundo cor de laranja](miguel-bruna-TzVN0xQhWaQ-unsplash-711x426.jpg)
 
 O principal objetivo da análise da concorrência é identificar e utilizar as vantagens competitivas.
 
@@ -30,7 +30,7 @@ Uma análise estratégica da concorrência fornece-lhe informações sobre o suc
 
 A análise também fornece informações sobre a forma como os seus produtos ou serviços estão posicionados no mercado e qual o**ponto de venda** único que oferecem em comparação com a concorrência. Esta informação é útil para ajustar a sua estratégia de mercado de uma forma direcionada e reforçar a sua posição a longo prazo.
 
-![Análise da concorrência: Papel com diagramas e gráficos coloridos para análise](images/marketing-business-lady-striped-shirt-office-with-computer-pointing-out-schemes-711x474.jpg)
+![Análise da concorrência: Papel com diagramas e gráficos coloridos para análise](marketing-business-lady-striped-shirt-office-with-computer-pointing-out-schemes-711x474.jpg)
 
 A compreensão das necessidades dos clientes é fundamental para a análise da concorrência.
 
@@ -45,7 +45,7 @@ Mas qual é o momento certo para efetuar essa análise? De seguida, encontrará 
 - **Actividades nos meios de comunicação social pagos:** Se as medidas de publicidade paga não estiverem a produzir o sucesso desejado, uma análise da concorrência pode revelar quais as abordagens que os seus concorrentes estão a adotar e como pode otimizar as suas próprias campanhas.
 - **Tendências do sector:** Para se manter atualizado e reconhecer as tendências actuais do sector, é essencial analisar regularmente a concorrência.
 
-![Mãos num computador portátil com gráficos a sobressair em vários planos](images/ui-ux-representations-with-laptop-711x474.jpg)
+![Mãos num computador portátil com gráficos a sobressair em vários planos](ui-ux-representations-with-laptop-711x474.jpg)
 
 Uma análise da concorrência é particularmente importante antes do relançamento de um sítio Web ou da entrada num novo mercado.
 
@@ -59,7 +59,7 @@ Entre os métodos de análise da concorrência, existem duas abordagens importan
 
 A análise competitiva de Porter permite às empresas compreender melhor a dinâmica do seu sector e desenvolver estratégias para obter uma vantagem competitiva. Este método de análise da concorrência ajuda a avaliar a **atratividade** e a **rentabilidade** de um sector e a tomar decisões comerciais bem fundamentadas.
 
-![Análise da concorrência: modelo das 5 forças de Porter](images/1-711x533.png)
+![Análise da concorrência: modelo das 5 forças de Porter](1-711x533.png)
 
 O modelo de Michael E. Porter, que analisa as cinco forças que determinam a concorrência num sector.
 
@@ -74,7 +74,7 @@ Assim, este método começa com a identificação das competências essenciais d
 - Os conhecimentos especializados que são caros ou difíceis de imitar, como as invenções patenteadas, **não podem ser imitados**.
 - Uma competência é considerada **organizada** se a sua empresa puder explorar plenamente o potencial da aptidão ou do recurso.
 
-![Análise da concorrência - Análise VRIO](images/Wettbewerbsanalyse-VRIO-Analyse.png)
+![Análise da concorrência - Análise VRIO](Wettbewerbsanalyse-VRIO-Analyse.png)
 
 Os recursos devem ser valiosos, raros, não imitáveis e organizados para oferecerem uma vantagem competitiva.
 
@@ -100,7 +100,7 @@ Criar uma análise estratégica da concorrência pode parecer complicado à prim
 
 ### 1\. definir objectivos
 
-![Análise da concorrência: um dardo preso num alvo de dardos](images/pexels-pixabay-262438-711x473.jpg)
+![Análise da concorrência: um dardo preso num alvo de dardos](pexels-pixabay-262438-711x473.jpg)
 
 Para além do posicionamento estratégico no mercado, a minimização dos riscos pode também ser um objetivo relevante.
 
@@ -108,7 +108,7 @@ Determine quais os conhecimentos que gostaria de obter com a análise e de que f
 
 ### 2\. identificar os concorrentes
 
-![Peças de xadrez brancas em primeiro plano, peças de xadrez pretas em segundo plano.](images/chess-6890325_1920-711x400.jpg)
+![Peças de xadrez brancas em primeiro plano, peças de xadrez pretas em segundo plano.](chess-6890325_1920-711x400.jpg)
 
 Certifique-se de que identifica o concorrente também do ponto de vista do cliente e não apenas do ponto de vista da empresa.
 
@@ -116,7 +116,7 @@ Crie uma lista dos seus principais concorrentes. Isto inclui tanto **os concorre
 
 ### 3\. recolher dados
 
-![Análise do concurso: Uma mulher com dados projectados no seu rosto e tronco](images/pexels-thisisengineering-3861969-711x474.jpg)
+![Análise do concurso: Uma mulher com dados projectados no seu rosto e tronco](pexels-thisisengineering-3861969-711x474.jpg)
 
 Utilizar a análise de fontes de dados existentes, como relatórios de mercado, estudos do sector e relatórios de empresas.
 
@@ -126,7 +126,7 @@ Recolha informações completas sobre os seus concorrentes. Utilize fontes públ
 
 ### 4\. efetuar análises
 
-![Painel de controlo com gráficos de análise da Web](images/luke-chesser-JKUTrJ4vK00-unsplash-711x474.jpg)
+![Painel de controlo com gráficos de análise da Web](luke-chesser-JKUTrJ4vK00-unsplash-711x474.jpg)
 
 Dedique algum tempo a criar perfis pormenorizados dos seus principais concorrentes.
 
@@ -134,7 +134,7 @@ Comparar e avaliar os dados recolhidos. Para o efeito, utilize os **métodos de 
 
 ### 5\. derivar estratégias
 
-![Análise do concurso: Um campo de jogo "Mensch ärgere dich nicht" numa mesa de vidro](images/pexels-pixabay-207924-711x399.jpg)
+![Análise do concurso: Um campo de jogo "Mensch ärgere dich nicht" numa mesa de vidro](pexels-pixabay-207924-711x399.jpg)
 
 Romper com os modelos empresariais rígidos e concentrar-se na criação contínua de novas vantagens competitivas.
 
@@ -142,7 +142,7 @@ Utilize os conhecimentos adquiridos para melhorar as suas próprias estratégias
 
 ### 6\. repetir regularmente
 
-![Uma escada em espiral em forma de favo de mel que desce muito alto](images/pexels-mithulvarshan-3023211-711x506.jpg)
+![Uma escada em espiral em forma de favo de mel que desce muito alto](pexels-mithulvarshan-3023211-711x506.jpg)
 
 Em mercados particularmente dinâmicos, as revisões mensais podem mesmo ser úteis.
 
@@ -152,7 +152,7 @@ A criação de uma análise da concorrência não é um projeto único. Reveja e
 
 Os resultados de uma análise estratégica da concorrência não só lhe fornecem informações valiosas, como também podem colocar a sua empresa na via mais rápida. Ao identificar os pontos fracos das estratégias dos seus concorrentes, pode **evitar armadilhas** semelhantes e **otimizar** os seus próprios **processos**. Ao mesmo tempo, uma análise bem fundamentada permite-lhe formular **objectivos comerciais claros**. Com um plano preciso em mente, sabe exatamente para onde vai a viagem e que passos são necessários para lá chegar.
 
-![Análise do concurso: Uma mão segura uma bússola e vê-se um lago ao fundo.](images/compass-4891499_1280-711x454.jpg)
+![Análise do concurso: Uma mão segura uma bússola e vê-se um lago ao fundo.](compass-4891499_1280-711x454.jpg)
 
 Com a ajuda de análises da concorrência, pode também definir mais claramente os seus objectivos empresariais a longo prazo.
 

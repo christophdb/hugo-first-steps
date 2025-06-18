@@ -14,7 +14,7 @@ In einer Zeit, in der sich der Trend zur **Nachhaltigkeit** zunehmend verstärkt
 
 Daher sollten Sie sich mit den Grundlagen der Corporate Social Responsibility vertraut machen und Strategien entwickeln, wie Ihr Unternehmen die neuen Anforderungen erfüllen kann. Doch was genau verbirgt sich hinter dem Begriff CSR und wie können Sie Nachhaltigkeit im Unternehmen erfolgreich umsetzen?
 
-![CSR: Nachhaltige Parkanlage vor Hochhäusern](images/solar-4478105_1280-711x474.jpg)
+![CSR: Nachhaltige Parkanlage vor Hochhäusern](solar-4478105_1280-711x474.jpg)
 
 Unternehmen erkennen zunehmend die Bedeutung von CSR und integrieren sie in ihre Strategien.
 
@@ -32,7 +32,7 @@ Wenn Sie bisher wenig Berührungspunkte mit Corporate Social Responsibility hatt
 - **Corporate Citizenship:** Das beschreibt das über die eigentliche Geschäftstätigkeit eines Unternehmens hinausgehende Engagement, das gemeinnützige Engagement. Darunter fallen beispielsweise Sponsorings, Spenden und Stiftungen.
 - **Corporate Responsibility:** CR wird seit einigen Jahren als Synonym für CSR verwendet. Einige bevorzugen diesen Ausdruck, um Missverständnisse zu vermeiden, da das „Social“ in Corporate Social Responsibility oft ausschließlich sozial verstanden wird.
 
-![Drei Hände die um einen aus Papier geformten Erdball liegen](images/earth-day-environment-eco-concept-space-text-711x474.jpg)
+![Drei Hände die um einen aus Papier geformten Erdball liegen](earth-day-environment-eco-concept-space-text-711x474.jpg)
 
 Nachhaltigkeit ist nicht nur ein Trend, sondern eine Notwendigkeit für Unternehmen.
 
@@ -45,7 +45,7 @@ Die CSR-Pyramide, konzipiert von Archie B. Carroll, stellt eine detaillierte Ric
 - **Ethische Verantwortung:** Auf dieser Ebene geht es darum, über das gesetzlich erforderliche Maß hinauszugehen und ethisch einwandfreies Verhalten zu fördern. Unternehmen sollten sich moralischen Prinzipien wie Integrität, Ehrlichkeit und Fairness verpflichten, sowohl in ihren internen Abläufen als auch in ihren Beziehungen zu externen Parteien wie Kunden, Lieferanten und der Gemeinschaft.
 - **Philanthropische Verantwortung:** Die oberste Ebene der Corporate Social Responsibility beinhaltet freiwillige Beiträge zur Gesellschaft, die über die bloße Gewinnerzielung und die Einhaltung von Gesetzen und ethischen Standards hinausgehen. Dies kann beispielsweise Spenden an gemeinnützige Organisationen, Investitionen in Bildung oder Umweltschutzprojekte sowie die Förderung von sozialem Engagement der Mitarbeiter umfassen.
 
-![Grafik der CSR-Pyramide von Archie B. Carroll](images/CSR-Pyramide.png)
+![Grafik der CSR-Pyramide von Archie B. Carroll](CSR-Pyramide.png)
 
 Die CSR-Pyramide nach Archie B. Carroll
 
@@ -57,7 +57,7 @@ Die Förderung eines **positiven Betriebsklimas** und **engagierter Mitarbeiter*
 
 Insgesamt kann die Integration von CSR somit nicht nur dazu beitragen, einen positiven Beitrag zur Gesellschaft zu leisten, sondern bietet auch direkte geschäftliche Vorteile, die Ihr Unternehmen erfolgreicher machen können.
 
-![Menschen stehen im Kreis und strecken ihre Hände in die Mitte](images/diverse-people-doing-fist-bump-park-711x474.jpg)
+![Menschen stehen im Kreis und strecken ihre Hände in die Mitte](diverse-people-doing-fist-bump-park-711x474.jpg)
 
 CSR sollte integraler Bestandteil der Unternehmenskultur sein.
 
@@ -85,7 +85,7 @@ Im Rahmen ihrer Corporate Social Responsibility (CSR) haben Unternehmen die Mög
 - Bildungsstipendien
 - Formulierung von Grundwerten
 
-![CSR: Zwei Bäume und ein Windrad auf drei Würfeln.](images/windmill-5591464_1280-711x498.jpg)
+![CSR: Zwei Bäume und ein Windrad auf drei Würfeln.](windmill-5591464_1280-711x498.jpg)
 
 CSR erfordert ein langfristiges Engagement und kontinuierliche Überprüfung.
 

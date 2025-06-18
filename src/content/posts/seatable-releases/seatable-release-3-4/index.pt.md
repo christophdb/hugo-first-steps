@@ -20,7 +20,7 @@ Com o plug-in de concepção de página, pode converter dados das suas bases em 
 
 O plug-in de design da página no SeaTable 3.4 permite o posicionamento dinâmico de elementos na página pela primeira vez. Dependendo da extensão dos elementos precedentes, os elementos subsequentes deslocam-se para baixo de uma página. Isto permite utilizar o mesmo modelo, quer uma oferta contenha um ou uma dúzia de elementos. As quebras de página e as novas páginas são inseridas automaticamente. É possível definir as margens superior e inferior individualmente.
 
-![SeaTable 3.4 - Posicionamento dinâmico de elementos no plugin de design da página](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-DynamicPositioningElements.png)
+![SeaTable 3.4 - Posicionamento dinâmico de elementos no plugin de design da página](SeaTable-3.4-DynamicPositioningElements.png)
 
 A nova função "Adaptar automaticamente a tabela ao conteúdo" está disponível para o elemento de vista "Todas as entradas da vista", bem como para a representação tabular de ligações em "Campos de tabela". Quando a função é activada, o marcador de posição para o elemento de tabela (elemento com moldura verde na imagem) define o comprimento mínimo da tabela a inserir. Se a tabela for maior do que o marcador de posição, este último é automaticamente alargado.
 
@@ -32,7 +32,7 @@ As aplicações externas do SeaTable tornam os dados de tabela facilmente acess�
 
 Agora podem ser feitas consultas em qualquer número de campos. Para cada campo, pode especificar se é um campo obrigatório ou se a entrada é opcional. Para campos baseados em texto, pode também activar uma pesquisa difusa e forçar a consideração de maiúsculas e minúsculas. Ao combinar as opções, é possível controlar a pesquisa em grande medida. O menu para ocultar colunas individuais nos resultados da pesquisa e as opções de ordenação permanecem inalteradas.
 
-![SeaTable 3.4 - Aplicação de consulta de dados melhorada](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-DataQueryApp.png)
+![SeaTable 3.4 - Aplicação de consulta de dados melhorada](SeaTable-3.4-DataQueryApp.png)
 
 No caso de campos de consulta múltiplos, aplica-se sempre uma operação Booleana E, ou seja, todos os valores introduzidos devem aparecer nos resultados da pesquisa. Evidentemente, a aplicação Data Query App continua a não ser adequada para informações confidenciais, porque não requer autenticação do utilizador. Vamos colmatar esta lacuna funcional com outra aplicação externa, que vamos introduzir em breve.
 
@@ -42,7 +42,7 @@ No [SeaTable 3.3]({{< relref "posts/seatable-releases/seatable-release-3-3" >}})
 
 O editor de formulários do SeaTable 3.4 oferece a opção de definir um nome de exibição para cada elemento do formulário, que é então exibido no formulário web em vez do nome da coluna. Desta forma, torna-se possível nomear as colunas na tabela destacadas do formulário web: Os nomes das colunas podem ser curtos e concisos, enquanto que os nomes dos campos do formulário podem ser um pouco mais verbais, por uma questão de facilidade de utilização. Isto dá-lhe ainda mais liberdade na concepção dos seus formulários da web.
 
-![SeaTable 3.4 - Novo editor para ligações de formulários personalizados](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-FormLinkEditor.png)
+![SeaTable 3.4 - Novo editor para ligações de formulários personalizados](SeaTable-3.4-FormLinkEditor.png)
 
 Duas melhorias dizem respeito à capacidade do SeaTable de pré-preencher formulários web através de parâmetros URL. Embora esta funcionalidade já exista há algum tempo, faltava-lhe uma forma amigável de criar e gerir ligações personalizadas de formulários, bem como a opção de proteger um valor pré-preenchido contra alterações por parte do utilizador do formulário. Abordámos e resolvemos ambos no SeaTable 3.4.
 
@@ -52,7 +52,7 @@ Atrás do botão "... Mais" no editor de formulários está uma nova janela para
 
 Para tabelas com muitas colunas, as listas de selecção nas definições de visualização podem tornar-se bastante longas e confusas. Para reduzir ao mínimo o esforço de pesquisa, existe agora uma função de pesquisa e filtragem em todos os menus principais das definições de visualização (filtrar, ordenar, agrupar, ocultar e formatar linhas). É muito fácil de usar: introduza o nome da coluna que procura e apenas a coluna desejada será exibida. Claro, isto também funciona se introduzir apenas parte do nome, por exemplo, se não tiver bem a certeza do nome da coluna que procura. Poderá então seleccionar a coluna de que necessita a partir da lista filtrada de resultados sem grande esforço.
 
-![SeaTable 3.4 - Filtros em configurações de visualização](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-FilterInViewSettings.png)
+![SeaTable 3.4 - Filtros em configurações de visualização](SeaTable-3.4-FilterInViewSettings.png)
 
 Uma vez que esta função de pesquisa prática também estava ausente em colunas de selecção simples e múltiplas com muitas opções, integrámo-la também aí. Desta forma, ao criar novas opções, nunca mais terá de verificar laboriosamente se já existe ou não uma opção.
 
@@ -60,7 +60,7 @@ Uma vez que esta função de pesquisa prática também estava ausente em colunas
 
 Se der uma vista de olhos no changelog, encontrará muitas mais melhorias que não podemos explicar aqui individualmente. Apenas três outros melhoramentos devem ser mencionados aqui muito brevemente.
 
-![SeaTable 3.4 - Nova funcionalidade adicionar/duplicar múltiplas filas](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-AddMultipleRows.png)
+![SeaTable 3.4 - Nova funcionalidade adicionar/duplicar múltiplas filas](SeaTable-3.4-AddMultipleRows.png)
 
 Usando o menu de contexto de linhas, que se obtém nas tabelas clicando com o botão direito do rato, pode-se agora inserir várias linhas em branco e também duplicar várias linhas seleccionadas.
 

@@ -27,7 +27,7 @@ You can always keep an eye on deadlines for drafts and important publication dat
 
 You should assign a responsible person to each planned article. This way, everyone in the team can **filter** the **editorial plan according to their to-dos** and see at a glance what needs to be done. **Coordination across several people or departments is easier** if it is clear who is involved in which project and who still has capacity.
 
-![Marketing team creates editorial plan template.](images/Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![Marketing team creates editorial plan template.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
 
 Use a content plan to coordinate the planning and creation of articles. Image rights: © DisobeyArt / Adobe Stock
 
@@ -56,7 +56,7 @@ The next step is to choose the right framework for your content plan. The follow
 - Do you need a calendar and automatic reminders?
 - What data and statistics would you like to use to analyze performance?
 
-![Marketing employee creates a template for editorial planning.](images/Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![Marketing employee creates a template for editorial planning.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
 
 Content planning requires a well thought-out concept. Image rights: © Andrey Popov / Adobe Stock
 
@@ -130,7 +130,7 @@ In order to keep track of time, you can **switch from the table to the calendar 
 
 The communication for planning contributions sometimes extends across various e-mails, internal chats or documents. This can quickly become confusing. With SeaTable, all messages are bundled in one place: **Communicate your feedback directly in the editorial plan**. This works very efficiently via the [comment function](https://seatable.io/en/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) in the individual rows. You can **track all changes** in the [log](https://seatable.io/en/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) - so it is always clear who has made which changes in the editorial plan.
 
-![Communication made easy - you can make comments directly in the content plan](images/Team-communication.jpg)
+![Communication made easy - you can make comments directly in the content plan](Team-communication.jpg)
 
 Simple and direct communication in the editorial plan
 
@@ -138,7 +138,7 @@ Simple and direct communication in the editorial plan
 
 Would you like to experiment with different data and analyze your content according to your wishes? Then **create meaningful [statistics](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/) with SeaTable**. For example, analyze in which months you have published a particularly large number of posts, which employee has written the most posts or on which channel the content was most successful. This provides many valuable insights into where things are going well - and where there may still be room for improvement.
 
-![Statistics provide valuable insights into how well the content performs](images/Statistics.jpg)
+![Statistics provide valuable insights into how well the content performs](Statistics.jpg)
 
 ## Tips on how to use your editorial plan efficiently
 

@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/formularseiten-in-universellen-apps'
 ---
 
-Pode utilizar este tipo de página para criar diferentes **formulários** que os utilizadores podem submeter. As páginas de formulário em aplicações universais são ideais para recolher dados de muitos utilizadores diferentes. Um caso de utilização possível é o [registo das horas de trabalho dos seus empregados](https://seatable.io/pt/arbeitszeiterfassung/).
+Pode utilizar este tipo de página para criar diferentes **formulários** que os utilizadores podem submeter. As páginas de formulário em aplicações universais são ideais para recolher dados de muitos utilizadores diferentes. Um caso de utilização possível é o [registo das horas de trabalho dos seus empregados]({{< relref "posts/arbeitszeiterfassung" >}}).
 
 ![Formulário Web para registar o tempo de trabalho dos seus empregados](images/webformular-working-time.png)
 

@@ -32,7 +32,7 @@ D'autre part, il existe également d'autres caractéristiques de produits qui ne
 
 Pour créer une meilleure vue d'ensemble au sein du catalogue, nous utilisons la [fonction de regroupement](https://seatable.io/fr/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) multiple de SeaTable. Vous pouvez ainsi classer et structurer vos données à votre guise : Par exemple, par série et gamme de qualité, ou comme dans notre modèle, par série de produits et type de produit.
 
-![Catalogue de produits pour la gestion numérique des produits](images/Catalogue_Overview.png)
+![Catalogue de produits pour la gestion numérique des produits](Catalogue_Overview.png)
 
 Un catalogue de produits pour la présentation à l'extérieur
 
@@ -42,7 +42,7 @@ Vous avez besoin de plus qu'un simple affichage de vos produits ? Pas de problè
 
 Vous connaissez peut-être cette situation - vous cherchez un produit et vous savez à quoi il ressemble, mais vous ne connaissez pas son nom ? Notre plug-in de galerie est alors très utile. Il affiche toutes les images saisies qui se trouvent dans le tableau sélectionné et constitue un pool d'informations compact pour votre gestion des produits. Avec des informations supplémentaires comme le nom du produit, la série et le numéro d'article, vous pouvez ainsi créer une galerie d'images détaillée qui contient en même temps des spécificités importantes du produit.
 
-![Galerie d'images de produits pour la gestion numérique des produits](images/Gallery-Plugin.png)
+![Galerie d'images de produits pour la gestion numérique des produits](Gallery-Plugin.png)
 
 En quelques clics, vous avez créé une galerie informative.
 
@@ -54,7 +54,7 @@ Venons-en maintenant au catalogue interne des produits : Celui-ci sert de source
 
 Il en résulte un catalogue de produits très détaillé qui permet à chaque collaborateur d'obtenir un maximum d'informations avec un minimum d'efforts. En effet, un catalogue entièrement équipé minimise la communication avec les unités compétentes, comme les chefs de produit ou d'autres services, lorsque, par exemple, la désignation exacte du revêtement du produit fait défaut.
 
-![](https://seatable.io/wp-content/uploads/2021/09/Product-Data_Overview.png)
+![](Product-Data_Overview.png)
 
 Dans notre exemple, nous avons directement créé des calculs pour la marge afin d'observer comment les différents produits se comportent dans la production. C'est très facile grâce à la [colonne de formules](https://seatable.io/fr/docs/handbuch/seatable-nutzen/feld-typen/) qui a permis de calculer d'abord la marge, puis la marge en pourcentage. Les chefs de produit et les collaborateurs peuvent ainsi voir d'un coup d'œil où en sont les différents produits.
 
@@ -70,13 +70,13 @@ Afin de répartir plus précisément les différents projets en paquets de tâch
 
 Pour faciliter la gestion des tâches, nous avons intégré le **plug-in Kanban**, qui permet de gérer les tâches en toute simplicité. Conformément à la méthode Kanban, les tâches individuelles peuvent être transformées en un clic en un nouveau statut, par exemple lorsque les produits pour la campagne ont été finalement sélectionnés : Done ! Le plugin Kanban se base sur les différentes vues créées d'un tableau, vous pouvez donc également créer des vues individuelles pour les collaborateurs pour vos propres tableaux Kanban.
 
-![Gestion numérique des produits avec gestion numérique des tâches](https://seatable.io/wp-content/uploads/2021/10/Kanban-Tasks.gif)
+![Gestion numérique des produits avec gestion numérique des tâches](Kanban-Tasks.gif)
 
 Avec le plug-in Kanban, vous avez toujours un aperçu parfait de vos tâches
 
 Pour que vous puissiez toujours garder un œil sur le temps, nous complétons notre gestion numérique des produits avec le **plug-in Timeline**. Il affiche le déroulement de vos tâches sous la forme d'une ligne du temps. En partant toujours de la date actuelle, un repère indique les tâches qui sont encore dans le temps et celles qui devraient déjà être effectuées. Vous savez ainsi en un coup d'œil si votre équipe est dans les temps.
 
-![Pour que votre gestion de produit numérique reste on time](https://seatable.de/wp-content/uploads/2021/09/Timeline.png)
+![Pour que votre gestion de produit numérique reste on time](Timeline.png)
 
 La ligne du temps montre les tâches et les projets au fil du temps. Êtes-vous on time ?
 
@@ -84,12 +84,12 @@ La ligne du temps montre les tâches et les projets au fil du temps. Êtes-vous 
 
 Il est évidemment très important pour la gestion des produits de garder un œil sur les chiffres de vente mensuels. Ces chiffres permettent d'effectuer de nombreuses analyses instructives. Le nouveau produit fait-il un flop et n'est-il pas accepté par les clients ? Ou sera-t-il un succès de vente absolu ? Est-ce qu'il se vend mieux en Allemagne qu'en Suisse ? Les chiffres de vente permettent de répondre très rapidement à toutes ces questions.
 
-![La gestion numérique des produits comprend également les chiffres de vente mensuels](https://seatable.de/wp-content/uploads/2021/09/Store-Sales.png)
+![La gestion numérique des produits comprend également les chiffres de vente mensuels](Store-Sales.png)
 
 Tous les magasins vendeurs sont listés ici avec leur adresse et les chiffres de vente.
 
 Dans notre modèle de gestion des produits, le tableau ne contient pas seulement les ventes, mais aussi tous les points de vente répertoriés avec leur adresse et les produits vendus dans ces points. Les produits sont ajoutés au tableau "Catalogue" au moyen d'une colonne de liaison et appartiennent ainsi aux différents points de vente en tant qu'unités de vente.   
-![Le plugin Map offre une représentation visuelle des différents points de vente](https://seatable.io/wp-content/uploads/2021/10/Map-Plugin-711x341.jpg)  
+![Le plugin Map offre une représentation visuelle des différents points de vente](Map-Plugin-711x341.jpg)  
 Il est ainsi possible de créer un portefeuille de magasins détaillé, par exemple en ajoutant des collaborateurs et des directeurs de magasins. L'inscription des adresses permet en même temps d'utiliser le plug-in Map, qui permet de localiser des lieux à l'aide de l'adresse ou des coordonnées et de les visualiser sur la carte.  
 Les magasins sont ainsi représentés géographiquement et donnent des informations sur une densité de magasins particulièrement élevée ou faible et sur l'endroit exact où de nouveaux locaux pourraient être planifiés.
 
@@ -99,13 +99,13 @@ Les chiffres de vente constituent le cœur de ce tableau et sont extrêmement im
 
 Nous avons déjà créé quelques statistiques qui sont utiles pour l'évaluation des données de ce tableau. Les possibilités de sélection sont quasiment illimitées : En sélectionnant une vue selon le tableau, il est possible de créer des statistiques très personnalisées ; par exemple, si un magasin doit être analysé de manière ciblée, il est possible de créer une vue unique pour ce point de vente et de créer ensuite une statistique uniquement pour celui-ci.
 
-![La gestion numérique des produits comprend également des statistiques de toutes sortes](https://seatable.de/wp-content/uploads/2021/09/Stats.png)
+![La gestion numérique des produits comprend également des statistiques de toutes sortes](Stats.png)
 
 Ces statistiques complètent la gestion des produits par des analyses importantes
 
 La première statistique montre les marges des différentes séries de produits et il est clair que la Easy Line a la marge la plus élevée. Les statistiques suivantes indiquent à droite les chiffres de vente au premier trimestre pour les différents sites de vente : Berlin est manifestement un site fort, tandis que les chiffres de Graz sont plutôt mauvais. La gestion des produits peut donc se pencher sur ces chiffres plutôt médiocres par la suite afin d'améliorer éventuellement le rendement.
 
-Les statistiques en bas à gauche montrent les chiffres de vente mensuels des magasins avec un diagramme à barres empilées, qui indiquent également le total des mois dans la hauteur de la barre. Pour avoir un autre point de vue sur les ventes mensuelles, ![Statistiques flexibles pour la gestion numérique des produits](https://seatable.io/wp-content/uploads/2021/09/flexible-statistics.png) nous avons créé un autre graphique à barres en bas à gauche, qui affiche tous les chiffres de vente mensuels par magasin avec des lignes étroites.
+Les statistiques en bas à gauche montrent les chiffres de vente mensuels des magasins avec un diagramme à barres empilées, qui indiquent également le total des mois dans la hauteur de la barre. Pour avoir un autre point de vue sur les ventes mensuelles, ![Statistiques flexibles pour la gestion numérique des produits](flexible-statistics.png) nous avons créé un autre graphique à barres en bas à gauche, qui affiche tous les chiffres de vente mensuels par magasin avec des lignes étroites.
 
 Ceux qui souhaitent plus de flexibilité peuvent utiliser notre plugin "Statistiques avancées". L'avantage de ce plugin est l'agrandissement des statistiques à volonté dans l'aperçu et une disposition entièrement flexible et nouvelle des statistiques. Ces deux statistiques peuvent être agrandies ou réduites dans n'importe quelle direction avec le pointeur de la souris et peuvent ainsi être placées parfaitement côte à côte. Cela est particulièrement important dans les cas où des chiffres importants doivent être directement comparés.
 
@@ -115,4 +115,4 @@ Les statistiques sont une fonctionnalité très puissante, intégrée dans chaqu
 
 Cet exemple d'application montre clairement à quel point SeaTable peut représenter une gestion numérique des produits et ainsi changer positivement votre façon de travailler. En tant que logiciel polyvalent et très flexible, SeaTable peut s'adapter entièrement à vos besoins et réagir à toute circonstance. Les différents types de colonnes et les plug-ins utiles permettent de mettre en œuvre les processus les plus divers : Que vous ayez [besoin]({{< relref "templates/sales/crm-offer-management" >}}) d'un [outil de gestion CRM]({{< relref "templates/sales/crm-offer-management" >}}) sophistiqué ou que vous souhaitiez [enregistrer]({{< relref "templates/human-resources/recording-working-time" >}}) et traiter les [heures de travail de vos collaborateurs]({{< relref "templates/human-resources/recording-working-time" >}}). Avec SeaTable, vous n'avez aucune limite !
 
-[Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) et essayez nos fonctionnalités. Nous avons créé des modèles utiles qui peuvent vous aider à vous lancer dans certains sujets !
+[Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et essayez nos fonctionnalités. Nous avons créé des modèles utiles qui peuvent vous aider à vous lancer dans certains sujets !

@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Provavelmente, já ouviu falar disso nos meios de comunicação social: O Ministério Federal do Trabalho está a planear uma reforma da lei sobre o horário de trabalho para 2023. Mas o que é que isso vai mudar para si e para a sua empresa? Terá de comprar sistemas de registo de tempo dispendiosos ou [o software gratuito](https://seatable.io/pt/arbeitszeiterfassung/) é suficiente? Neste artigo, mostrar-lhe-emos como implementar o registo de horas para os seus empregados com um esforço administrativo mínimo, cumprindo simultaneamente a legislação aplicável.
+Provavelmente, já ouviu falar disso nos meios de comunicação social: O Ministério Federal do Trabalho está a planear uma reforma da lei sobre o horário de trabalho para 2023. Mas o que é que isso vai mudar para si e para a sua empresa? Terá de comprar sistemas de registo de tempo dispendiosos ou [o software gratuito]({{< relref "posts/arbeitszeiterfassung" >}}) é suficiente? Neste artigo, mostrar-lhe-emos como implementar o registo de horas para os seus empregados com um esforço administrativo mínimo, cumprindo simultaneamente a legislação aplicável.
 
 ## A actual situação legal relativa ao registo do tempo nas empresas
 
@@ -53,7 +53,7 @@ Então, como é que as horas de trabalho dos empregados podem ser registadas de 
 
 Como em qualquer modelo SeaTable, trata-se de uma **base de dados** com diferentes tabelas que pode personalizar de acordo com as suas necessidades específicas. Na primeira tabela, criámos uma vista de administração abrangente para si, para a qual fluem todos os **horários de trabalho**, **pedidos de férias** e **notificações de doença** dos seus empregados. Como gestor, tem uma visão completa das presenças e ausências de todos os empregados da sua equipa.
 
-![Vista administrativa da tabela de tempo de trabalho](images/Working-Time-Admin-View.gif)
+![Vista administrativa da tabela de tempo de trabalho](Working-Time-Admin-View.gif)
 
 Vista administrativa da tabela de tempo de trabalho
 
@@ -61,21 +61,21 @@ Através de [visualizações](https://seatable.io/pt/docs/ansichtsoptionen/was-i
 
 Para que tanto os seus colaboradores como o próprio utilizador possam estar sempre atentos ao cumprimento dos regulamentos relativos ao tempo de trabalho, o SeaTable calcula o número de horas trabalhadas, bem como as horas extraordinárias ou as horas a menos em relação ao tempo de trabalho diário regular. Ao [codificar](https://seatable.io/pt/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) as linhas [por cores](https://seatable.io/pt/docs/ansichtsoptionen/farbliche-markierung-von-zellen/), você e os membros da sua equipa podem ver directamente se o saldo horário de um dia é negativo (vermelho) ou positivo (verde).
 
-Numa aplicação para colaboradores criada com o SeaTable, pode tornar a introdução de dados intuitiva e fácil de utilizar, fazendo com que os seus colaboradores introduzam horas de trabalho, pedidos de férias e baixas por doença em [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/). Ao fazê-lo, pode fornecer aos campos de introdução de dados instruções concretas para guiar com segurança as pessoas que os preenchem ao longo do processo. Um formulário Web preenchido corresponde a um dia de trabalho, um pedido de férias ou uma baixa por doença.
+Numa aplicação para colaboradores criada com o SeaTable, pode tornar a introdução de dados intuitiva e fácil de utilizar, fazendo com que os seus colaboradores introduzam horas de trabalho, pedidos de férias e baixas por doença em [formulários Web]({{< relref "help/base-editor/webformulare" >}}). Ao fazê-lo, pode fornecer aos campos de introdução de dados instruções concretas para guiar com segurança as pessoas que os preenchem ao longo do processo. Um formulário Web preenchido corresponde a um dia de trabalho, um pedido de férias ou uma baixa por doença.
 
-![Aplicação do empregado para rastreio do tempo, pedidos de férias e licenças por doença](images/Mitarbeiter-App.gif)
+![Aplicação do empregado para rastreio do tempo, pedidos de férias e licenças por doença](Mitarbeiter-App.gif)
 
 Aplicação dos funcionários para horas de trabalho, pedidos de férias e notificação de doença
 
 Quando os seus empregados enviam os formulários, o SeaTable adiciona novas entradas às tabelas correspondentes, que o gestor pode aprovar ou rejeitar na aplicação de gestão. No seu painel de controlo, pode incluir estatísticas para acompanhar as horas extraordinárias, as férias e as baixas por doença de todos os seus empregados. O [calendário](https://seatable.io/pt/docs/plugins/anleitung-zum-kalender-plugin/) também lhe permite apresentar os dados numa visão geral do calendário.
 
-![Aplicação de gestão para registo do tempo, pedidos de férias e licenças por doença](images/Dashboard_4MB.gif)
+![Aplicação de gestão para registo do tempo, pedidos de férias e licenças por doença](Dashboard_4MB.gif)
 
 Aplicação de gestão com painel de instrumentos
 
 Lembrete: Este é apenas um exemplo de modelo que criámos para si. Todas as funções básicas estão incluídas numa assinatura gratuita, mas para toda a gama de funções, incluindo as automatizações, precisa de uma assinatura Enterprise. Naturalmente, pode utilizar muitas mais funcionalidades do SeaTable para desenvolver a sua própria aplicação de seguimento do tempo na sua empresa, de acordo com os seus desejos.
 
-[Descubra aqui tudo sobre o nosso modelo](https://seatable.io/pt/arbeitszeiterfassung/), o que irá revolucionar a sua gravação de tempo de trabalho.
+[Descubra aqui tudo sobre o nosso modelo]({{< relref "posts/arbeitszeiterfassung" >}}), o que irá revolucionar a sua gravação de tempo de trabalho.
 
 ## Conclusão: Porque é que o SeaTable vale a pena para si
 

@@ -24,7 +24,7 @@ Quanto maior for uma empresa, mais difícil se torna o planeamento do pessoal. P
 
 Em geral, o planeamento de recursos humanos com modelos Excel (versão gratuita ou paga) não é exclusivamente mau. A vantagem é que os modelos Excel gratuitos da Internet podem ser utilizados sem muito esforço. Tudo o que um utilizador necessita é do Microsoft Office, Open Office ou uma conta Google para aceder a Google Sheets. Quer se trate de uma lista de tarefas, horário de turnos ou planeamento de empregados - basta introduzir o termo de pesquisa relevante no Google e o mundo dos modelos Excel gratuitos abre-se.
 
-![Os funcionários utilizam o modelo gratuito Excel para o planeamento do pessoal.](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_343110940_bearbeitet-711x474.jpg)
+![Os funcionários utilizam o modelo gratuito Excel para o planeamento do pessoal.](Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_343110940_bearbeitet-711x474.jpg)
 
 Planeamento de pessoal modelo Excel gratuito © monticellllo / adobe stock
 
@@ -52,7 +52,7 @@ Outra vantagem chave do planeamento de RH sem um modelo Excel gratuito é a extr
 
 Desta forma, não só todos estão sempre no mesmo nível de informação, como o esforço organizacional é significativamente reduzido. E não faz diferença se gere uma pequena, média ou grande empresa, um café ou um concessionário de automóveis. Com a ferramenta online certa, existe um [plano de turnos]({{< relref "templates/human-resources/shift-schedule" >}}) adequado ou um [registo]({{< relref "templates/human-resources/recording-working-time" >}}) óptimo [do tempo de trabalho para]({{< relref "templates/human-resources/recording-working-time" >}}) cada exigência.
 
-![](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
+![](Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
 
 Planeamento de Pessoal Excel Template Free © SeaTable
 

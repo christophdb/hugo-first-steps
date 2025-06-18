@@ -25,7 +25,7 @@ Je mehr Bücher Sie besitzen, umso schwieriger wird es, den genauen Überblick z
 
 Sie haben mehr als ein Bücherregal und die Standorte Ihrer Bücher verteilen sich auf mehrere Zimmer? Auch dann ist es sehr hilfreich, die Bücher zu katalogisieren. Mit der passenden Bücher-App wissen Sie so ganz genau, welches Buch wo steht, und müssen nicht lange suchen, wenn Sie es gerade einmal schnell zur Hand brauchen.
 
-![Frau katalogisiert mit Bücher-App ihre Bücher.](images/buecher-katalogisieren-frau.jpg)
+![Frau katalogisiert mit Bücher-App ihre Bücher.](buecher-katalogisieren-frau.jpg)
 
 Bücher katalogisieren © Viktoriia / Adobe Stock
 
@@ -52,7 +52,7 @@ oder Google Sheets organisieren. Hier müssen Sie ebenfalls jeden einzelnen Tite
 
 Wer seine Bücher sinnvoll katalogisieren, organisieren und verwalten möchte, sollte auf die Arbeit mit einer Bücher-App bzw. Bibliotheks-Apps setzen. Das geht schnell, unkompliziert und ganz ohne Stift und Zettel.
 
-![Mann katalogisiert seine Bücher in Bücher-App.](images/buecher-katalogisieren-mann.jpg)
+![Mann katalogisiert seine Bücher in Bücher-App.](buecher-katalogisieren-mann.jpg)
 
 Bücher katalogisieren © NDABCREATIVITY / Adobe Stock
 
@@ -78,9 +78,9 @@ Diese kostenlose Bücher-App greift bei der Suche nach Titeln auf zahlreiche Onl
 
 ### SeaTable
 
-Wenn Sie eine [Inventarliste erstellen](https://seatable.io/inventarliste-vorlagen/) wollen für ihre Bücher und dafür ganz unkomplizierte Tabellen nutzen möchten, sind Sie bei SeaTable genau richtig. Einfach den entsprechenden Titel in eine Liste eingeben, bei Bedarf um weitere Informationen zum Autor und Verlag ergänzen und übersichtlich (z. B. nach Genre, Lesestatus oder Bewertung) ordnen. Sie möchten Ihren Bücherkatalog auch anderen verfügbar machen? Das ist ganz einfach möglich, indem Sie Ihre Listen teilen.
+Wenn Sie eine [Inventarliste erstellen]({{< relref "posts/inventarliste-erstellen" >}}) wollen für ihre Bücher und dafür ganz unkomplizierte Tabellen nutzen möchten, sind Sie bei SeaTable genau richtig. Einfach den entsprechenden Titel in eine Liste eingeben, bei Bedarf um weitere Informationen zum Autor und Verlag ergänzen und übersichtlich (z. B. nach Genre, Lesestatus oder Bewertung) ordnen. Sie möchten Ihren Bücherkatalog auch anderen verfügbar machen? Das ist ganz einfach möglich, indem Sie Ihre Listen teilen.
 
-Die kostenlose Cloud-Version von SeaTable können Sie direkt in Ihrem Browser öffnen. [Registrieren]({{< relref "pages/registration" >}}) Sie sich noch heute und starten Sie mit unserer [kostenfreien Vorlage]({{< relref "templates/everyday-life/book-list-library" >}}) für Ihre Bücherliste bzw. Bibliothek. Übrigens: Das Tool eignet sich ebenso für die wissenschaftliche [Literaturverwaltung](https://seatable.io/literaturverwaltung/).
+Die kostenlose Cloud-Version von SeaTable können Sie direkt in Ihrem Browser öffnen. [Registrieren]({{< relref "pages/registration" >}}) Sie sich noch heute und starten Sie mit unserer [kostenfreien Vorlage]({{< relref "templates/everyday-life/book-list-library" >}}) für Ihre Bücherliste bzw. Bibliothek. Übrigens: Das Tool eignet sich ebenso für die wissenschaftliche [Literaturverwaltung]({{< relref "posts/literaturverwaltung" >}}).
 
 ## Drei Tipps zum optimalen Katalogisieren von Büchern
 
@@ -90,7 +90,7 @@ Ganz gleich, welches Medium Sie am Ende nutzen, gibt es drei Faktoren, die aussc
 2. **Intelligente Infos**: Wichtig zur Auswahl der passenden App ist auch, welche Infos Sie erfassen möchten. Reichen Titel und Autor oder sollen auch weiterführende Aspekte wie Genre, Lesestatus usw. aufgenommen werden?
 3. **Zeitmanagement**: Je mehr Bücher Sie haben, umso länger dauert es, diese zu katalogisieren. Um nicht die Motivation zu verlieren, planen Sie lieber mehr Zeit ein. Dafür werden Sie am Ende mit einer umfassenden privaten Bibliothek belohnt.
 
-![Bücherstapel, der in einer Bücher-App katalogisiert werden soll.](images/buecher-stapel.jpg)
+![Bücherstapel, der in einer Bücher-App katalogisiert werden soll.](buecher-stapel.jpg)
 
 Bücher katalogisieren © Kara / Adobe Stock
 

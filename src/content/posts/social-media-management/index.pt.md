@@ -17,7 +17,7 @@ Mas como funciona exatamente a gestão das redes sociais? Ao ler o seguinte arti
 
 O termo gestão de redes sociais **descreve a comunicação direcionada e a gestão da publicidade** em várias plataformas de redes sociais, como o Facebook, Instagram, YouTube & Co. Abrange uma vasta gama de tarefas, como a **comunicação direta com os seus grupos-alvo, a publicação de conteúdos e o desenvolvimento da sua própria estratégia de redes sociais**.
 
-![Gestão de redes sociais: aplicações num único ecrã.](https://seatable.io/wp-content/uploads/2024/01/pexels-pixabay-267350-711x516.jpg)
+![Gestão de redes sociais: aplicações num único ecrã.](pexels-pixabay-267350-711x516.jpg)
 
 Existe uma grande variedade de plataformas de redes sociais.
 
@@ -38,7 +38,7 @@ Para que uma empresa seja bem sucedida nas redes sociais a longo prazo, deve con
 
 Em 2023, um [inquérito online](https://de.statista.com/statistik/daten/studie/463928/umfrage/wichtigste-social-media-plattformen-fuer-marketingverantwortliche/) revelou qual a **plataforma** mais importante para os responsáveis pela gestão das redes sociais. De acordo com o inquérito, o Facebook está na liderança, seguido a alguma distância pelo Instagram e pelo LinkedIn.
 
-![Estatísticas sobre as empresas mais importantes na gestão das redes sociais.](images/Statistik-711x533.png)
+![Estatísticas sobre as empresas mais importantes na gestão das redes sociais.](Statistik-711x533.png)
 
 O Facebook está muito à frente em comparação com outras plataformas.
 
@@ -56,7 +56,7 @@ Tente também manter uma **identidade empresarial** coerente nos seus perfis. Po
 
 No TikTok e no Instagram, também tem a opção de **fixar** publicações relevantes na parte superior do seu perfil. Por exemplo, recebe frequentemente a mesma pergunta da sua comunidade? Basta afixar uma publicação que responda à pergunta e referir-se a ela no futuro.
 
-![Um feed do Instagram na gestão de redes sociais.](https://seatable.io/wp-content/uploads/2024/01/pexels-lisa-fotios-1092671-711x474.jpg)
+![Um feed do Instagram na gestão de redes sociais.](pexels-lisa-fotios-1092671-711x474.jpg)
 
 A estética desempenha um papel importante nas redes sociais.
 
@@ -86,7 +86,7 @@ Se pretende construir uma presença digital de sucesso, **a análise dos** seus 
 
 Se ainda não se debruçou intensamente sobre este tópico da gestão das redes sociais, é aconselhável começar por uma **auditoria das redes sociais**. Esta revisão exaustiva da sua presença nas redes sociais inclui a análise de actividades anteriores, conteúdos, interacções e o **desempenho** dos seus canais. Dê especial ênfase aos **indicadores-chave de desempenho (KPI)**.
 
-![Indicadores-chave de desempenho no marketing das redes sociais.](images/KPIs-711x533.png)
+![Indicadores-chave de desempenho no marketing das redes sociais.](KPIs-711x533.png)
 
 Tem também a opção de efetuar uma **análise compara** tiva dos seus concorrentes. Ao comparar diretamente os valores específicos do sector, pode avaliar melhor o seu desempenho em relação à concorrência. Para além de identificar os seus próprios pontos fortes e fracos, pode também retirar **as melhores práticas** do sector.
 

@@ -162,7 +162,7 @@ Quer seja um proprietário privado, uma empresa ou uma associação municipal de
 
 [Saiba como utilizar o modelo de carteira de propriedades da SeaTable em seu benefício aqui]({{< relref "templates/real-estate/property-management" >}})
 
-Mais informações podem ser encontradas no artigo [Gestão de propriedades](https://seatable.io/hausverwaltung/) para proprietários privados ou no artigo [Gestão de propriedades](https://seatable.com/liegenschaftsverwaltung/) para empresas e organizações municipais.
+Mais informações podem ser encontradas no artigo [Gestão de propriedades]({{< relref "posts/hausverwaltung" >}}) para proprietários privados ou no artigo [Gestão de propriedades]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}) para empresas e organizações municipais.
 
 ## Gestão clara da carteira de imóveis com o SeaTable
 

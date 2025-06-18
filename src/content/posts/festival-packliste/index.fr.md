@@ -14,7 +14,7 @@ Lorsque la saison des festivals commence et que l'on se réjouit de pouvoir éco
 
 Que vous vous prépariez pour le légendaire [Wacken](https://www.wacken.com/de/), l'entraînant [Rock am Ring](https://www.rock-am-ring.com) ou l'énergique [Hurricane](https://hurricane.de/de/) Festival, certains must-have sont obligatoires sur toute liste de colisage de festival.
 
-![Liste de colisage pour le festival : L'homme porte sa femme sur son dos au festival](images/group-friends-having-fun-together-711x475.jpg)
+![Liste de colisage pour le festival : L'homme porte sa femme sur son dos au festival](group-friends-having-fun-together-711x475.jpg)
 
 Les festivals rassemblent les gens et favorisent le sentiment de communauté.
 
@@ -24,7 +24,7 @@ Pour que vous puissiez tout trouver en un clin d'œil, la liste d'emballage du f
 
 ### Essentiels
 
-![Liste de colisage du festival : Une foule devant une scène](images/colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
+![Liste de colisage du festival : Une foule devant une scène](colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
 
 Les festivals permettent d'accéder à un programme musical varié.
 
@@ -50,7 +50,7 @@ Entretoise
 
 ### Camping
 
-![Une femme se tient devant sa tente dans un sac de couchage](images/female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
+![Une femme se tient devant sa tente dans un sac de couchage](female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
 
 Au milieu de cet environnement bruyant, les nuits sont souvent courtes.
 
@@ -76,7 +76,7 @@ Entretoise
 
 ### Restauration
 
-![Le bol de céréales et la tasse sont posés sur une pierre](images/camping-lifestyle-with-food-711x637.jpg)
+![Le bol de céréales et la tasse sont posés sur une pierre](camping-lifestyle-with-food-711x637.jpg)
 
 Lors d'un festival, on a particulièrement besoin d'énergie.
 
@@ -102,7 +102,7 @@ Entretoise
 
 ### Vêtements
 
-![Une femme montre quelque chose à son partenaire lors d'un festival](images/couple-standing-crowd-music-festival-711x481.jpg)
+![Une femme montre quelque chose à son partenaire lors d'un festival](couple-standing-crowd-music-festival-711x481.jpg)
 
 Les bons vêtements sont ceux dans lesquels vous vous sentez bien.
 
@@ -128,7 +128,7 @@ Entretoise
 
 ### Hygiène et médicaments
 
-![Des toilettes Dixi colorées sur un sol poussiéreux](images/amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
+![Des toilettes Dixi colorées sur un sol poussiéreux](amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
 
 La situation en matière d'hygiène dans les festivals n'est souvent pas très confortable.
 
@@ -158,7 +158,7 @@ Entretoise
 
 ### Autres
 
-![Des amis jouent ensemble au beer pong](images/front-view-women-playing-beer-pong-711x474.jpg)
+![Des amis jouent ensemble au beer pong](front-view-women-playing-beer-pong-711x474.jpg)
 
 Pour passer le temps, des jeux sont organisés sur le terrain de camping.
 
@@ -199,4 +199,4 @@ Le [planificateur de festival]({{< relref "templates/events/festival-planner" >}
 
 La possibilité de partager une liste d'emballage de festival avec vos amis vous permet de vous assurer que rien n'est apporté inutilement en double et que chacun sait exactement ce dont il est responsable. Grâce aux cases à cocher que l'on peut cocher, vous êtes sûr de ne rien oublier d'important.
 
-[Inscrivez-vous](https://seatable.io/fr/enregistrement/) gratuitement avec votre adresse e-mail et utilisez le [modèle]({{< relref "templates/events/festival-planner" >}}) pour votre prochain festival.
+[Inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement avec votre adresse e-mail et utilisez le [modèle]({{< relref "templates/events/festival-planner" >}}) pour votre prochain festival.

@@ -26,7 +26,7 @@ En outre, nous avons également amélioré la fonction de recherche. Si la reche
 
 Dans les versions précédentes, SeaTable ne supportait que trois devises : Euro, Dollar et Yuan. Cela signifie que tous les utilisateurs provenant de pays où aucune de ces devises n'est utilisée sont obligés de choisir l'une de ces trois devises lorsqu'ils utilisent une colonne de devises. Désolé pour ça ! Mais nous avons de bonnes nouvelles : Avec SeaTable 1.7, vous pouvez utiliser toutes les devises imaginables dans la colonne des devises.
 
-![Utilisez la dénomination que vous voulez dans SeaTable 1.7](images/Custom_Currency_1590x802.png)
+![Utilisez la dénomination que vous voulez dans SeaTable 1.7](Custom_Currency_1590x802.png)
 
 La colonne des paiements dispose désormais d'une option de format supplémentaire : "Devise personnalisée". Si vous la sélectionnez, vous pouvez définir la devise de votre choix. Vous pouvez utiliser des abréviations (par ex. CHF, SEK) tout comme des symboles monétaires (par ex. £, ₺ ). Désormais, c'est entièrement votre choix. Pour être complet, il faut mentionner que la devise peut bien sûr être définie individuellement dans chaque colonne. Une colonne doit être en $ et l'autre en CHF ? Ne vous gênez pas !
 
@@ -40,7 +40,7 @@ Avec la nouvelle version, SeaTable devient plus tolérant en matière de syntaxe
 
 SeaTable 1.7 comporte quelques nouvelles fonctions, dont la fonction d'importation pour Excel. Celle-ci permet de créer de nouvelles bases sur la base de fichiers XLSX existants. Il suffit de sélectionner "Importer une base (XLSX, CSV, DTABLE)" et de naviguer jusqu'au fichier XLSX souhaité. Un aperçu montre ensuite comment SeaTable interprète les données. En cliquant sur "Enregistrer", la base est créée et les données sont enregistrées dans SeaTable.
 
-![Créer de nouvelles bases en important un classeur excel](images/Excel_Import_1590x802.png)
+![Créer de nouvelles bases en important un classeur excel](Excel_Import_1590x802.png)
 
 L'importation de fichiers XLSX vient s'ajouter aux fonctions d'importation existantes pour les fichiers CSV et DTABLE. Par rapport à l'importation à partir d'un fichier CSV, l'importation Excel présente un avantage décisif : toutes les feuilles de calcul d'un classeur Excel sont importées en une seule fois. Un fichier texte, qui est un CSV, ne peut contenir que les données d'une seule et même fiche de données. Pour cette raison, chaque base créée par l'importation d'un fichier avec des valeurs séparées par des virgules ne contient toujours qu'une seule table. En outre, il y a un autre avantage : lors de l'importation d'un fichier CSV, toutes les valeurs sont importées dans des colonnes de texte. Ce n'est pas le cas avec l'importation XLSX. SeaTable interprète le contenu des fichiers importés et insère les données dans les types de colonnes appropriés. Les colonnes contenant uniquement des nombres sont importées dans des colonnes de nombres ; les valeurs d'une colonne contenant uniquement des dates se retrouvent dans une colonne de dates. À l'avenir, nous étendrons la fonction d'importation afin que les colonnes contenant des formules soient également importées automatiquement.
 
@@ -48,6 +48,6 @@ L'importation de fichiers XLSX vient s'ajouter aux fonctions d'importation exist
 
 Avez-vous manqué une fonction dans SeaTable qui vous permet de remplacer facilement des valeurs ? C'est du moins ce que nous avons ressenti et c'est pourquoi nous sommes d'autant plus heureux de pouvoir le dire : Maintenant, il y en a un ! La fonction Rechercher et remplacer recherche une chaîne - un mot, un nombre, un symbole - dans une colonne et la remplace par une autre chaîne. La recherche peut être simple ou exacte. Dans ce dernier cas, SeaTable recherche les cellules dans lesquelles la valeur de la cellule correspond exactement à la chaîne de recherche. En bref, la fonction de recherche et de remplacement de SeaTable fonctionne comme son homologue dans Excel.
 
-![Nouvelle fonctionnalité dans SeaTable 1.6.3 : Remplacement de lots](images/Batch_replacement_1590x717.png)
+![Nouvelle fonctionnalité dans SeaTable 1.6.3 : Remplacement de lots](Batch_replacement_1590x717.png)
 
 Rechercher et remplacer n'est en fait pas une nouvelle fonctionnalité de SeaTable 1.7, mais est apparu avec SeaTable 1.6.3 il y a un peu plus de quinze jours. Nos développeurs l'ont terminé quelques jours après la sortie de SeaTable 1.6 et nous ne voulions pas attendre un peu moins d'un mois pour le rendre disponible aux utilisateurs de SeaTable Cloud.

@@ -16,7 +16,7 @@ SeaTable 2.4 a vu le jour ! La dernière incarnation du serveur SeaTable a été
 
 Les vues offrent des perspectives uniques sur les données d'un tableau SeaTable et sont des outils fantastiques pour l'analyse des données. Mais, selon les commentaires des utilisateurs, passer d'une vue à l'autre est inutilement compliqué.
 
-![Navigation dans la vue Pinnable](images/Pinnable_View_Navigation_1448x787.png)
+![Navigation dans la vue Pinnable](Pinnable_View_Navigation_1448x787.png)
 
 Avec SeaTable 2.4, nous introduisons la navigation par vue ancrable, qui rend la sélection et le passage d'une vue à l'autre aussi facile que la navigation dans les dossiers d'un gestionnaire de fichiers à la Windows Explorer ou au Finder sur Mac. Lorsque la navigation est ancrée, la liste des vues s'étend sur tout le côté gauche de l'éditeur de tableaux, ce qui permet de sélectionner directement les vues. Pour répondre à des besoins différents, la largeur de la navigation à quai peut être réglée individuellement en fonction des besoins. Si vous devez fréquemment passer d'une vue à l'autre, cette innovation vous épargnera beaucoup de clics et de travail de souris.
 
@@ -24,7 +24,7 @@ Avec SeaTable 2.4, nous introduisons la navigation par vue ancrable, qui rend la
 
 Le type de colonne Lien vers d'autres entrées est probablement le plus important de SeaTable. SeaTable n'est pas seulement un autre tableur en ligne! Comme aucun autre type de colonne, ce type de colonne représente cela. Et dans SeaTable 2.4, nous avons encore amélioré ce type de colonne.
 
-![Plus d'options d'affichage pour la colonne de liens](images/More_Flexible_Link_Column_raw_1448x554.png)
+![Plus d'options d'affichage pour la colonne de liens](More_Flexible_Link_Column_raw_1448x554.png)
 
 Dans les versions précédentes de SeaTable, le lien affichait toujours la valeur de la première colonne de l'entrée liée. Dorénavant, vous pouvez choisir quelle valeur de colonne de la ligne liée doit être affichée. Ce choix se fait simplement via un menu déroulant dans la configuration de la colonne de lien. Ce qui semble petit est en fait d'une grande importance ! Imaginez que la première colonne du tableau lié soit une colonne de numéros de voiture. Ces valeurs sont pour vous sans information pertinente, l'affichage sans signification notable. Dans la nouvelle version, vous choisissez maintenant une colonne qui contient des informations plus significatives. Ainsi, la création de liens est simplifiée et le tableau est plus compact avec moins de colonnes de consultation. Enfin, la colonne de liaison révisée rend également les formulaires web plus performants pour les enquêtes et les sondages. La colonne d'affichage sélectionnée est également celle qu'un visiteur voit dans le formulaire web et parmi laquelle il peut choisir. Nous sommes convaincus que cette nouvelle fonctionnalité vous plaira autant qu'à nous.
 
@@ -32,7 +32,7 @@ Dans les versions précédentes de SeaTable, le lien affichait toujours la valeu
 
 Vous voulez identifier tous les doublons dans votre tableau ? Avec SeaTable 2.4, vous avez désormais non pas une, mais deux possibilités pour le faire : vous pouvez utiliser le plug-in de déduplication des données ou la nouvelle option de mise en forme conditionnelle "Mettre en évidence les doublons". Cette option de formatage met en évidence toutes les lignes en double dans le tableau actif. En sélectionnant les colonnes de comparaison, vous pouvez définir exactement ce qui constitue un doublon.
 
-![Nouvelle option de formatage conditionnel "Mettre en évidence les doublons](images/Highlight_duplicates_1448x554.png)
+![Nouvelle option de formatage conditionnel "Mettre en évidence les doublons](Highlight_duplicates_1448x554.png)
 
 Le grand avantage du formatage conditionnel par rapport au plugin est le fait que vous ne quittez pas l'éditeur de tableaux. Les doublons sont affichés et vous pouvez modifier les lignes, les supprimer et utiliser des filtres et des tris. (Le plugin reste l'outil de choix si vous souhaitez supprimer automatiquement tous les doublons).
 

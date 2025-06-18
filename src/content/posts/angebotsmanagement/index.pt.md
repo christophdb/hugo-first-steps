@@ -12,7 +12,7 @@ seo:
 
 Uma coisa é crucial para um trabalho de vendas bem sucedido: a **gestão da oferta**. Mas o que é importante aqui? Que erros não devem ser cometidos em circunstância alguma? E o que está por detrás do termo "gestão da oferta", afinal?
 
-Descubra neste artigo as respostas a estas perguntas e porque é que software e [ferramentas em linha](https://seatable.io/pt/agiles-projektmanagement-tools/) úteis podem ajudá-lo de forma decisiva na gestão da sua licitação.
+Descubra neste artigo as respostas a estas perguntas e porque é que software e [ferramentas em linha]({{< relref "posts/20250308-projektmanagement-methoden" >}}) úteis podem ajudá-lo de forma decisiva na gestão da sua licitação.
 
 ## Gestão da oferta - definição e factos chave
 
@@ -42,11 +42,11 @@ A preparação da oferta lança as bases para a sua gestão óptima da oferta e 
 Após as discussões iniciais com o potencial novo cliente, conhece as suas "necessidades" e quais as soluções que o ajudarão. Agora é tempo de dar o segundo passo da gestão da oferta, a preparação da oferta. Mas o que deve constar da oferta? Estará do lado seguro se considerar estes quatro aspectos:
 
 - Especificação da solução
-- [Cálculo do preço](https://seatable.io/pt/budgetplanung-vorlage/)
+- [Cálculo do preço]({{< relref "templates/finance/budget-book" >}})
 - Preparação de uma oferta escrita
 - Envio da oferta escrita ao cliente
 
-![O empregado calcula o preço no âmbito da gestão da oferta](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![O empregado calcula o preço no âmbito da gestão da oferta](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
 
 Gestão da oferta © Antonioguillem / adobe stock
 
@@ -87,7 +87,7 @@ Outro erro comum na gestão da oferta é que o vendedor não se preparou suficie
 
 A gestão perfeita da oferta também significa que o cliente dá seguimento após algum tempo, se o cliente não lhe voltar a contactar por conta própria. Desta forma, não só demonstra que o cliente é importante para si (fidelidade do cliente), como também pode esclarecer possíveis ambiguidades ou questões directamente e ajustar novamente a oferta, se necessário.
 
-![O representante de vendas faz uma chamada telefónica para o cliente potencial como parte da sua gestão de ofertas.](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![O representante de vendas faz uma chamada telefónica para o cliente potencial como parte da sua gestão de ofertas.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
 
 Gestão da oferta © Patrick Daxenbichler / adobe stock
 
@@ -95,7 +95,7 @@ Gestão da oferta © Patrick Daxenbichler / adobe stock
 
 Uma gestão de abastecimento personalizada não acontece por si só. Há demasiados aspectos a considerar. A fim de manter uma visão geral e organizar todos os processos tão eficiente e eficazmente quanto possível, tem grandes vantagens em gerir todo o processamento da oferta com software.
 
-O mercado já oferece uma série de soluções de software que são versáteis e podem ser flexivelmente adaptadas às exigências das vendas. Quer seja [CRM clássico](https://seatable.io/pt/crm-angebotsmanagement/), serviço ao cliente ou outras [áreas de vendas](https://seatable.io/pt/vertrieb/) - com as ferramentas certas pode combinar todo o seu negócio de vendas num único sistema e reduzir ao mínimo a complexidade da gestão da oferta. As ferramentas mais conhecidas para a gestão da oferta digital incluem HubSpot, SAP CRM e ActiveCampaign.
+O mercado já oferece uma série de soluções de software que são versáteis e podem ser flexivelmente adaptadas às exigências das vendas. Quer seja [CRM clássico]({{< relref "posts/crm-angebotsmanagement" >}}), serviço ao cliente ou outras [áreas de vendas](https://seatable.io/pt/vertrieb/) - com as ferramentas certas pode combinar todo o seu negócio de vendas num único sistema e reduzir ao mínimo a complexidade da gestão da oferta. As ferramentas mais conhecidas para a gestão da oferta digital incluem HubSpot, SAP CRM e ActiveCampaign.
 
 Se procura o pacote completo e despreocupado para a gestão da sua oferta, o [SeaTable](https://seatable.io/pt/) é uma alternativa óptima e rentável. Com as funções desta ferramenta, pode automatizar todos os processos de venda e recolher todos os dados de uma forma descomplicada utilizando o formulário web integrado. Para resolver problemas de clientes, responder a perguntas e ordenar o feedback, esta é uma grande vantagem.
 

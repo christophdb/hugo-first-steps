@@ -42,7 +42,7 @@ Ja. In Deutschland ist gesetzlich vorgeschrieben, dass bestimmte Tätigkeiten wi
 
 Der Tod einer nahestehenden Person ist für Angehörige mit viel **Trauer** verbunden. In dieser emotional belastenden Zeit fällt es vielen Menschen nicht leicht, sich um die Beerdigung zu kümmern. Bei plötzlichen Todesfällen wissen die Angehörigen oft nicht einmal, wie sich der oder die Verstorbene die eigene Bestattung vorgestellt hätte.
 
-![Eine Beerdigung auf einem Friedhof](images/rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
+![Eine Beerdigung auf einem Friedhof](rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
 
 Eine klassische Beerdigung auf einem Friedhof ist für viele immer noch die erste Wahl.
 
@@ -54,7 +54,7 @@ Damit im Todesfall kein Chaos ausbricht, sollten Sie zuvor klären, wer sich um 
 
 {{< warning headline="Wichtiger Hinweis" text="Vergessen Sie nicht, Ihren Vertrauenspersonen eine [Vollmacht](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) zu erteilen, mit der sie nach Ihrem Tod unter anderem Zugriff auf Ihre Konten erhalten. Ansonsten sind die Verantwortlichen eventuell nicht handlungsfähig, da sie Wochen bis Monate auf die Eröffnung des Testaments oder die Erteilung eines Erbscheins warten müssen." />}}
 
-![Eine Beerdigung planen – in Ernstfall wissen Betroffene oft nicht, womit sie anfangen sollen.](images/the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
+![Eine Beerdigung planen – in Ernstfall wissen Betroffene oft nicht, womit sie anfangen sollen.](the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
 
 Eine Beerdigung planen – in Ernstfall wissen Betroffene oft nicht, womit sie anfangen sollen.
 
@@ -72,7 +72,7 @@ Die Wahl einer Bestattungsart hängt direkt mit dem Ort zusammen, an dem Sie ode
 
 Vielleicht gibt es Verwandte oder Freunde, neben denen Sie gerne Ihre letzte Ruhe finden würden? Dann könnte sich auch ein Gemeinschaftsgrab anbieten. Abgesehen von Friedhöfen erfreuen sich alternative Ruhestätten in der Natur mittlerweile wachsender Beliebtheit.
 
-![Waldweg](images/maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
+![Waldweg](maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
 
 Eine friedliche letzte Ruhe in der Natur wird immer beliebter.
 
@@ -88,7 +88,7 @@ Die Kosten für eine Bestattung können sehr unterschiedlich ausfallen. Denn sie
 
 Am teuersten ist die klassische Beerdigung auf einem Friedhof. Ein großer Teil der Bestattungskosten entfällt dabei auf den **Sarg**, den **Grabstein** und die Nutzungsgebühren für eine **Grabstelle**. Jeder dieser drei Kostenpunkte kann sich auf mehrere Tausend Euro belaufen. Diese Kosten – wie auch die anschließende Grabpflege – können Sie sich bei einer Einäscherung mit Naturbestattung sparen.
 
-![Gräber auf einem Friedhof](images/michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
+![Gräber auf einem Friedhof](michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
 
 Urne oder Sarg? Die Art der Beerdigung spielt für die Kosten des Grabs eine große Rolle.
 
@@ -114,7 +114,7 @@ Diese Prozedur können Sie Ihren Angehörigen nicht ersparen, Sie können aber a
 
 Ohne einen Bestatter kann man in Deutschland keine Verstorbenen beerdigen lassen. Beispielsweise ist in den meisten Bundesländern gesetzlich vorgeschrieben, dass der Leichnam vom Sterbeort zu einem Bestatter – und von dort zur letzten Ruhestätte – überführt werden muss.
 
-![](images/adrianna-geo-JWlZS708L1Y-unsplash-min.jpg)
+![](adrianna-geo-JWlZS708L1Y-unsplash-min.jpg)
 
 **Weitere Bestattungsleistungen sind:**
 
@@ -133,7 +133,7 @@ Wenn die verstorbene Person ihre Wünsche geäußert oder schriftlich festgehalt
 
 Trauerfeiern werden in der Regel von einem unabhängigen Redner oder einem Geistlichen der zuständigen Kirchengemeinde begleitet. Kontaktieren Sie frühzeitig einen passenden Trauerredner und sprechen Sie mit ihm über den Ablauf der Trauerfeier. Üblicherweise wird er in seiner **Rede** auf das Leben der verstorbenen Person eingehen und benötigt dazu ausführliche Informationen und genug Vorbereitungszeit.
 
-![Trauerredner für die Beerdigung](images/the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
+![Trauerredner für die Beerdigung](the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
 
 Priester, Pastorin oder freier Redner: Was passt zu Ihrer geplanten Beerdigung?
 
@@ -145,7 +145,7 @@ In den meisten Fällen findet vor der Beerdigung eine Trauerfeier nahe der letzt
 
 Fragen Sie rechtzeitig bei den Angehörigen nach, ob sie **aktiv** zur Trauerfeier beitragen möchten. Beispielsweise könnten sie einige Worte an die verstorbene Person richten oder ein Gedicht vorlesen. Bei religiösen Trauerfeiern können zudem **Gebete** gesprochen werden. Spielen Sie auf der Trauerfeier **Musik**, welche die verstorbene Person mochte. Viele Trauerhallen verfügen über gute Stereoanlagen oder sogar ein Klavier. Falls einige Angehörige musikalisch und emotional dazu in der Lage sind, können Sie auch gemeinsam Instrumente spielen und singen.
 
-![Liederheft für die Beerdigung](images/david-beale-gOsGgt4olNs-unsplash-min.jpg)
+![Liederheft für die Beerdigung](david-beale-gOsGgt4olNs-unsplash-min.jpg)
 
 Musik und Gesang können auf einer Trauerfeier Trost spenden.
 
@@ -155,7 +155,7 @@ Oft kommt die Trauergemeinde auch nach der Beerdigung noch einmal zum sogenannte
 
 Bei einer Trauerfeier mit anschließender Beisetzung steht die Urne oder der Sarg des Verstorbenen meist gut sichtbar im Raum. Daneben können Sie ein schönes **gerahmtes Foto** der verstorbenen Person aufstellen. Damit der restliche Raum nicht karg und leer wirkt, bieten sich **Trauerkränze und Blumenschmuck** an. Für die Dekoration können Sie einen Floristen beauftragen, was je nach Ihren Vorstellungen allerdings teuer werden kann.
 
-![Blumenschmuck für die Beerdigung](images/strauss-western-5a3eFHcGl9U-unsplash-min.jpg)
+![Blumenschmuck für die Beerdigung](strauss-western-5a3eFHcGl9U-unsplash-min.jpg)
 
 Oftmals beteiligen sich die anderen Angehörigen sehr gerne an der Beschaffung von Trauerkränzen oder Gestecken und es kommt eine ansehnliche Blumenpracht zusammen. Falls Sie später ein Grab bepflanzen möchten, sind **Blumenschalen** mit Setzlingen eine gute Idee. In der Regel kümmert sich der Bestatter darum, dass Trauerkränze und Blumenschmuck nach der Trauerfeier ans Grab gelegt werden.
 
@@ -163,7 +163,7 @@ Oftmals beteiligen sich die anderen Angehörigen sehr gerne an der Beschaffung v
 
 Die traditionelle Trauerkleidung unterscheidet sich von Kultur zu Kultur: In Europa und der westlichen Welt ist **Schwarz**, in Asien vor allem **Weiß** die Farbe der Trauer – und anderswo darf es sogar farbenfroh zugehen. In Deutschland muss die Kleidung bei einer Beerdigung heute nicht mehr schwarz sein, oft wird aber **dezente Kleidung** in gedeckten Farben und weiten Schnitten erwartet – zum Beispiel ein dunkelblauer Anzug mit weißem Hemd, ein einfarbiger Pullover mit schwarzer Hose oder ein Kleid, das nicht zu eng anliegt und nicht zu viel Haut zeigt.
 
-![Trauerkleidung für die Beerdigung](images/the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
+![Trauerkleidung für die Beerdigung](the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
 
 Trauerkleidung ist aber kein Muss. Auch unkonventionelle oder heitere Trauerfeiern sind erlaubt, wenn sich der Verstorbene statt **Trauerstimmung** gewünscht hat, dass man ihn und sein Leben feiert. Planen Sie die Trauerfeier also losgelöst von Traditionen und ganz nach den Wünschen des Verstorbenen.
 
@@ -177,7 +177,7 @@ Für die **Benachrichtigung der Trauergäste** haben Sie im Optimalfall Zugriff 
 
 Sobald Sie den Termin und Ort der Trauerfeier geplant haben, können Sie auch eine **Todesanzeige** in einer lokalen Tageszeitung schalten und zur Trauerfeier einladen. Wenn diese an einem öffentlichen Ort wie einem Friedhof stattfindet, kann jeder an der Trauerfeier teilnehmen, der die Information erhalten hat. Sie können die Trauergäste allerdings darum bitten, von Beileidsbekundungen vor Ort abzusehen.
 
-![Traueranzeigen in der Zeitung](images/pexels-guel-isik-3837464.jpg)
+![Traueranzeigen in der Zeitung](pexels-guel-isik-3837464.jpg)
 
 Vor allem ältere Menschen lesen oft noch Traueranzeigen in lokalen Zeitungen.
 
@@ -187,7 +187,7 @@ Falls die Trauerfeier nur im engsten Kreis stattfinden soll, schreiben Sie keine
 
 Bei allem, was man für eine Beerdigung planen muss, kann man leicht den Überblick verlieren. SeaTable hat Ihnen daher die wichtigsten To-dos in einer Checkliste zusammengestellt. Sie können den Online-Planer ebenso nutzen, um die Einladung der Trauergäste zu koordinieren oder die Kosten für die Beerdigung zu berechnen.
 
-![Online-Planer mit Kostenübersicht für die Beerdigung](images/Funeral-planner.png)
+![Online-Planer mit Kostenübersicht für die Beerdigung](Funeral-planner.png)
 
 SeaTable Vorlage mit Kostenübersicht für die Beerdigung
 

@@ -14,7 +14,7 @@ Cuando comienza la temporada de festivales y aumenta la expectación por la buen
 
 Tanto si te preparas para el legendario [Wacken](https://www.wacken.com/de/) como para el emocionante [Rock am Ring](https://www.rock-am-ring.com) o el energético [Hurricane](https://hurricane.de/de/) Festival, en la lista de equipaje de cualquier festival no pueden faltar algunos artículos imprescindibles.
 
-![La lista del festival: Un hombre lleva a una mujer a cuestas en un festival](images/group-friends-having-fun-together-711x475.jpg)
+![La lista del festival: Un hombre lleva a una mujer a cuestas en un festival](group-friends-having-fun-together-711x475.jpg)
 
 Los festivales reúnen a la gente y fomentan el sentimiento de comunidad.
 
@@ -24,7 +24,7 @@ Para ayudarle a encontrar todo de un vistazo, la lista de equipaje del festival 
 
 ### Esenciales
 
-![Lista de festivales: Una multitud frente a un escenario](images/colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
+![Lista de festivales: Una multitud frente a un escenario](colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
 
 Los festivales permiten acceder a una programación musical variada.
 
@@ -50,7 +50,7 @@ Espaciador
 
 ### Camping
 
-![Mujer de pie en un saco de dormir delante de su tienda de campaña](images/female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
+![Mujer de pie en un saco de dormir delante de su tienda de campaña](female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
 
 Las noches suelen ser cortas en medio del ruidoso entorno.
 
@@ -76,7 +76,7 @@ Espaciador
 
 ### Catering
 
-![Cuenco con muesli y taza de pie sobre una piedra](images/camping-lifestyle-with-food-711x637.jpg)
+![Cuenco con muesli y taza de pie sobre una piedra](camping-lifestyle-with-food-711x637.jpg)
 
 En un festival se necesita mucha energía.
 
@@ -102,7 +102,7 @@ Espaciador
 
 ### Ropa
 
-![Una mujer muestra algo a su pareja en un festival](images/couple-standing-crowd-music-festival-711x481.jpg)
+![Una mujer muestra algo a su pareja en un festival](couple-standing-crowd-music-festival-711x481.jpg)
 
 La ropa adecuada es aquella con la que te sientes cómodo.
 
@@ -128,7 +128,7 @@ Espaciador
 
 ### Higiene y medicina
 
-![Orinales portátiles de colores en un suelo polvoriento](images/amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
+![Orinales portátiles de colores en un suelo polvoriento](amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
 
 La situación higiénica en los festivales no suele ser especialmente cómoda.
 
@@ -158,7 +158,7 @@ Espaciador
 
 ### Varios
 
-![Los amigos juegan juntos al beer pong](images/front-view-women-playing-beer-pong-711x474.jpg)
+![Los amigos juegan juntos al beer pong](front-view-women-playing-beer-pong-711x474.jpg)
 
 En el camping se organizan juegos para pasar el rato.
 

@@ -26,7 +26,7 @@ Die Entwicklung des App-Builders geht unvermindert weiter: Mit dem [Seitentyp](h
 
 Die Nutzer der App können auf dieser Seite – mit der jeweiligen [Berechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) – die einzelnen Datensätze sehen, suchen, durchblättern und bearbeiten. Dieser Seitentyp eignet sich zum Beispiel, um die Daten in einer Mitarbeiterdatenbank als persönliche Steckbriefe anzuzeigen.
 
-![Single Record Page](images/Single-Record-Page-min.gif)
+![Single Record Page](Single-Record-Page-min.gif)
 
 ### Neue Funktionen bestehender Seitentypen
 
@@ -36,25 +36,25 @@ Auf [Galerieseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/ga
 
 ## Drei Plugins für komplexe Visualisierungen
 
-Ein weiteres Highlight von SeaTable 5.0 sind die neuen [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/), mit denen man die Abhängigkeiten, Strukturen und Prozesse in einer Base visualisieren kann.
+Ein weiteres Highlight von SeaTable 5.0 sind die neuen [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}), mit denen man die Abhängigkeiten, Strukturen und Prozesse in einer Base visualisieren kann.
 
 ### Organigramm
 
 Mithilfe des Organigramm-Plugins lassen sich Hierarchien zwischen den Datensätzen in einer Tabelle darstellen, z. B. Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt](https://seatable.io/projektstrukturplan-vorlage/). Um die Abhängigkeiten der Datensätze zu visualisieren, brauchen Sie eine [Link-Spalte](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), die auf ein und dieselbe Tabelle referiert. Der Eintrag, mit dem Sie eine andere Zeile derselben Tabelle verlinken, wird als übergeordneter Datensatz dargestellt.
 
-![Organigramm-Plugin](images/Organigramm-Plugin.png)
+![Organigramm-Plugin](Organigramm-Plugin.png)
 
 ### Tabellenbeziehungen
 
 Besonders wenn sich viele Tabellen mit Tausenden Zeilen in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des neuen Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind. Dabei werden nicht nur direkte Verbindungen über [Link-Spalten](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), sondern auch indirekte Verbindungen über Linkformel-Spalten angezeigt.
 
-![Tabellenbeziehungen-Plugin](images/Table-Relationships-Plugin.png)
+![Tabellenbeziehungen-Plugin](Table-Relationships-Plugin.png)
 
 ### Whiteboard
 
 Das Whiteboard ist das erste Plugin, das losgelöst von den Daten in einer Base funktioniert. Es gibt Ihnen die Freiheit, Prozesse und Strukturen grafisch zu visualisieren, die Sie mit den bisherigen Plugins nicht darstellen können. Ebenso können Sie Layouts und Mockups frei skizzieren. Für die Gestaltung haben Sie verschiedene **Elemente** wie Vierecke, Ellipsen und Pfeile sowie **Werkzeuge** wie Stift und Radierer zur Auswahl.
 
-![Whiteboard Plugin](images/Whiteboard-Plugin.png)
+![Whiteboard Plugin](Whiteboard-Plugin.png)
 
 {{< warning headline="SeaTable ♥ Excalidraw" text="Das Whiteboard-Plugin basiert auf der beliebten Software [Excalidraw](https://plus.excalidraw.com/), die viele Anwender bereits kennen werden. Eine wichtige Einschränkung soll nicht unerwähnt bleiben: Zum Start von SeaTable 5.0 wird das Whiteboard keine Live-Zusammenarbeit unterstützen. Dies werden wir in Kürze nachliefern." />}}
 
@@ -68,7 +68,7 @@ Mit Version 5.0 erreichen wir das Ziel, für die wichtigsten Seiten von SeaTable
 
 Bereits in Version 4.4 wurde der Import von XLSX-Dateien schneller, flexibler und stabiler. Mit SeaTable 5.0 wird der Import-Wizard noch leistungsfähiger: Im deutlich aufgewerteten Vorschaufenster können Sie jetzt detailliert selektieren, welche Tabellen – und sogar **welche Spalten einer XLSX-Arbeitsmappe** – SeaTable importieren soll. Wählen Sie unerwünschte Tabellen und Spalten einfach ab, um den Datenimport genauestens zu steuern.
 
-![Excel-Import](images/Excel-Import.gif)
+![Excel-Import](Excel-Import.gif)
 
 ## Optimierung der API von SeaTable Cloud
 
@@ -84,9 +84,9 @@ Wenn Sie mehr erfahren wollen, finden Sie in diesem [Forumspost](https://forum.s
 
 ## Und vieles mehr
 
-Dem **Editor für lange Texte** begegnen Sie an vielen Stellen. Wenn Sie formatierte Textfelder in den **Zeilendetails** oder in [Webformularen](https://seatable.io/docs/webformulare/webformulare/) ausfüllen, werden Sie bemerken, dass sich nun die Usability verbessert hat: Der Editor für lange Texte öffnet sich nicht mehr in einem weiteren Pop-up-Fenster, sondern inline, sodass Sie direkt losschreiben können.
+Dem **Editor für lange Texte** begegnen Sie an vielen Stellen. Wenn Sie formatierte Textfelder in den **Zeilendetails** oder in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) ausfüllen, werden Sie bemerken, dass sich nun die Usability verbessert hat: Der Editor für lange Texte öffnet sich nicht mehr in einem weiteren Pop-up-Fenster, sondern inline, sodass Sie direkt losschreiben können.
 
-![Editor für lange Texte in Webformularen](images/Long-text-editor-in-web-forms.png)
+![Editor für lange Texte in Webformularen](Long-text-editor-in-web-forms.png)
 
 Auch die **Statistiken** kennen Sie von mehreren Stellen in SeaTable: vom [Statistik-Modul](https://seatable.io/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/) in der Base sowie von [individuellen Seiten in Universellen Apps](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). Mit einer überarbeiteten Diagramm-Bibliothek haben wir die Statistiken nun deutlich aufgewertet und vereinheitlicht.
 

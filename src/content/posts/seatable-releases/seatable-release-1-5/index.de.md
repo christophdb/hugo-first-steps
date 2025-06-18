@@ -22,7 +22,7 @@ Angesichts der Tatsache, dass die Mehrheit der Nutzer die meiste Zeit im Tabelle
 
 Modals waren in früheren Versionen von SeaTable häufiger anzutreffen. Beispielsweise die Dialoge für ‘Spalte einfügen’ und ‘Spaltentyp anpassen’ waren solche [Modals](https://en.wikipedia.org/wiki/Modal_window), bei denen die Steuerelemente im Vordergrund erscheinen und der Hintergrund ausgeblendet wird. Auch wenn sie uns bisher gute Dienste geleistet haben, so bieten Modals doch Raum für Verbesserungen hinsichtlich Leichtigkeit und Arbeitseffizienz: Wenn sich das Modal in der Mitte des Bildschirms öffnet, veranlasst es den Benutzer dazu, sich mit der Maus dorthin zu begeben. Noch schwerwiegender ist die Tatsache, dass durch die Deaktivierung der Bildlaufleisten relevante Informationen nicht hinter einem Modal hervorgebracht werden können, wenn ein Modal diese verdeckt. Was haben wir also getan? Wir haben die Modals durch nicht-modale Menüs ersetzt, die alle Funktionen ihrer Vorgänger ohne deren Nachteile bieten.
 
-![Modals were replaced with nonmodal menus](images/Nonmodal_Menus.png)
+![Modals were replaced with nonmodal menus](Nonmodal_Menus.png)
 
 ### Vereinfachte Menüs
 
@@ -34,7 +34,7 @@ Das Optionenmenü der Einfach- und Mehrfachauswahlspalten ist ein weiteres Modal
 
 SeaTable 1.5 macht diesen Assistenten nun noch leistungsfähiger: Einträge in der verknüpften Spalte lassen sich nun nicht nur anzeigen, sondern auch direkt editieren. Ein Klick auf einen verlinkten Eintrag öffnet dessen Details und alle hier vorgenommenen Änderungen werden direkt in die verlinkte Tabelle gespeichert. Wenn Sie in die verlinkte Tabelle abspringen wollen, dann können Sie dies mit dem Direktlink am oberen Ende der Details tun.
 
-![Linked records can now be edited right from the link other records column](images/Editing_Linked_Records_With_Wizard.png)
+![Linked records can now be edited right from the link other records column](Editing_Linked_Records_With_Wizard.png)
 
 ### Noch genauer
 
@@ -56,7 +56,7 @@ Das Karten und Timeline Plugin wurde auch nicht vernachlässigt. Das Karten Plug
 
 Stellen Sie sich vor, Sie wollen eine Base an Ihre Teammitgliedern mit unterschiedlichen Zugriffsrechten freigeben: Alle Kollegen sollen mindestens Lesezugriff erhalten, einige Kollegen aber auch Lese-Schreibzugriff auf ein paar wenige Tabellen und ein paar handverlesene Kollegen Vollzugriff auf alle Tabellen. Klingt kompliziert in der Umsetzung und tatsächlich war es das auch. Eine Base musste in mehrere Bases zerlegt und dann mit unterschiedlichen Rechten mit den unterschiedlichen Gruppen geteilt werden. Bis jetzt!
 
-![SeaTable 1.5 now supports custom sharing permissions](images/Custom_Sharing_Permission.png)
+![SeaTable 1.5 now supports custom sharing permissions](Custom_Sharing_Permission.png)
 
 In der neuen Version führen wir benutzerdefinierte Freigabeberechtigungen ein. Dank ihnen ist das gerade erwähnte Szenario ohne großes Kopfzerbrechen möglich. Eine benutzerdefinierte Freigabeberechtigung besteht aus individuellen Zugriffsrechten für alle Tabellen und Ansichten in einer Base. Mit einer benutzerdefinierten Freigabeberechtigung können Sie beispielsweise Lesezugriff auf eine Tabelle, aber erweiterten Lese-Schreibzugriff auf eine andere Tabelle der Base einräumen. Das ist aber nicht alles: Benutzerdefinierte Freigaben können auch auf Ansichtsebene spezifiziert werden. Sie können folglich Lese-Schreibzugriff auf eine spezifische Ansicht einer Tabelle einräumen, aber ausschließlich Lesezugriff auf die Default View. Wenn Sie gar keinen Zugriff auf eine Tabelle oder Ansicht erteilen wollen, dann ist auch das möglich. Erteilen Sie einfach weder Lese- noch Lese-Schreibzugriff. Und das Beste zum Schluss: Sie können für jede Base so viele benutzerdefinierte [Freigabeberechtigungen](https://seatable.io/docs/handbuch/zusammenarbeit/freigaben/) definieren, wie Sie wollen. Sie haben sich nach einer granulareren Berechtigungsverwaltung in SeaTable gesehnt? Jetzt haben Sie sie!
 
@@ -66,7 +66,7 @@ SeaTables leistungsfähige Webformulare haben sich in den letzten Monaten reger 
 
 Basierend auf Kundenfeedback und in der Hoffnung, diese leidende Branche zu unterstützen, haben wir drei Optionen zur Individualisierung der Webformulare ergänzt: Erstens können nun individuelle “Danke für Ihre Teilnahme” Nachrichten erstellt werden. Sie wollen ein besonderes Dankeschön an Ihre Gäste senden oder weiterführende Informationen nach der Beantwortung der Fragen geben, mit SeaTable 1.5 ist genau das möglich. Zweitens war die automatische Weiterleitung eine vielfach erwünschte Funktion. Es ist uns eine Freude, diese ebenfalls in dieser neuen Version umzusetzen. Wenn eine Weiterleitungsadresse angegeben ist, dann leitet SeaTable automatisch an diese Adresse weiter. Drittens haben wir auch die Hinweisfunktionen flexibilisiert. Ergänzend zum Formularhinweis am Fuß des Formulars gibt es nun auch die Möglichkeit, vor den Formularfeldern einen Hinweis anzuzeigen.
 
-![SeaTable's webforms now offer more customization options](images/Extra_Customization_Options_Webforms.png)
+![SeaTable's webforms now offer more customization options](Extra_Customization_Options_Webforms.png)
 
 Wir drücken die Daumen, dass die Corona Pandemie schon bald etwas für die Geschichtsbücher ist. Andererseits ist es unsere Hoffnung, dass diese Verbesserungen die SeaTable Nutzer in den stark betroffenen Industrien in ihrer Arbeit unterstützen, wenn die Pandemie noch länger bleibt.
 

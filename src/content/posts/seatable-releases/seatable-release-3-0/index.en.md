@@ -20,7 +20,7 @@ Strings of any type and length can be entered in text columns and thus offer gre
 
 If data validation is activated, SeaTable checks whether the entered cell value corresponds to the defined target format. If the input does not correspond to the target format, the cell is highlighted in red. In web forms, a non-compliant entry will result in an error message and the form cannot be submitted.
 
-![Data validation in SeaTable 3.0](images/FormatCheck.png)
+![Data validation in SeaTable 3.0](FormatCheck.png)
 
 Das Zielformat wird in Form eines [regulären Ausdrucks](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) definiert. Ein regulärer Ausdruck für eine Zahlenfolge mit genau 5 Stellen ist beispielsweise \[0-9\]{5}. Für reguläre Ausdrücke sprechen zwei Argumente: Sie sind eine weit verbreitete Methode und bieten ein Maximum an Flexibilität. Die Art der erlaubten Zeichen, die Länge, und auch die Syntax der Eingabe lässt sich mit regulären Ausdrücken präzise definieren.
 
@@ -42,13 +42,13 @@ Online editing is available in all SeaTable Cloud subscriptions, including the f
 
 The Shared Records feature allows you to synchronize data from one Base to one or more other Bases. They are especially useful when you want to make data available to other users for further processing and enrichment, but you cannot give these users access rights to the list you manage ("master list"). Version 3.0 includes several enhancements to simplify the creation, synchronization, and duplication of shared records.
 
-![Existing common datasets are displayed in the "New common dataset" dialogue box.](images/ExistingCDS.png)
+![Existing common datasets are displayed in the "New common dataset" dialogue box.](ExistingCDS.png)
 
 As of SeaTable 3.0, the New Shared Record dialog displays shared records that have already been created. This avoids the multiple creation of common data sets.
 
 In the new version, columns created by importing a common record are marked with a sync icon. This makes it easy to distinguish the columns that will be overwritten with the common data set during a re-sync from all other columns. The visual marking reduces the risk of unintentional data loss.
 
-![Columns imported from CDS marked with sync icon](images/ColumnIconsCDS.png)
+![Columns imported from CDS marked with sync icon](ColumnIconsCDS.png)
 
 When duplicating a table with an imported common data set, only the data was duplicated until now. The link to the common data set was not given in the duplicated table, so that no renewed sync was possible. The duplication function has now been extended so that you can either transfer the link to the common data set to the new table to be created or discard it via a switch.
 

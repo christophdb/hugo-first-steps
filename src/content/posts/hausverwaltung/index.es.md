@@ -17,7 +17,7 @@ Lea este artículo para saber qué debe tener en cuenta a la hora de gestionar s
 
 La administración de fincas consiste principalmente en gestionar unidades individuales de alquiler. En este sentido, una empresa de gestión inmobiliaria es una empresa que se ocupa de la **gestión de edificios residenciales, condominios y locales comerciales alquilados**. Estos inmuebles _no_ tienen por qué ser propiedad de la empresa.
 
-![Alquiler de inmuebles](https://seatable.io/wp-content/uploads/2023/11/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
+![Alquiler de inmuebles](tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
 
 Como propietario, tiene que ocuparse de la gestión y el alquiler de su propiedad.
 
@@ -41,7 +41,7 @@ En este caso, debería plantearse si el **coste de una gestión inmobiliaria ext
 
 A veces no puede evitar una gestión inmobiliaria profesional y no tiene ninguna posibilidad de gestionar usted mismo todos los asuntos relacionados con su propiedad. Esto se debe a que, cuando se compra una **comunidad de propietarios**, a menudo también se adquieren participaciones en los bienes comunes (como zonas verdes, huecos de escalera y tejados), que pertenecen a toda la **comunidad de propietarios** y deben ser gestionados por una empresa de administración de fincas.
 
-![Administración de fincas para comunidades de propietarios](https://seatable.io/wp-content/uploads/2021/05/house-1353389_640-e1620395214642.jpg)
+![Administración de fincas para comunidades de propietarios](house-1353389_640-e1620395214642.jpg)
 
 La empresa de gestión inmobiliaria también se encarga del mantenimiento de las zonas verdes, por ejemplo.
 
@@ -83,7 +83,7 @@ Las tareas de un administrador de fincas están reguladas por la Ley de Propieda
 - Gestión de reclamaciones
 - Comunicación con las autoridades
 
-![Tareas de la administración de fincas](https://seatable.io/wp-content/uploads/2023/11/towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
+![Tareas de la administración de fincas](towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
 
 Las tareas de gestión inmobiliaria van mucho más allá del control de los ingresos por alquiler.
 
@@ -107,7 +107,7 @@ Para poder saber en todo momento si sus inquilinos han pagado el alquiler a tiem
 
 Como arrendador, tiene que ocuparse de las reparaciones, las medidas de modernización y los trabajos de mantenimiento. Para tener una visión de conjunto, siempre debe documentar con precisión tanto las medidas urgentes como las periódicas. Para ello, registre los pedidos, las fechas de reparación y las facturas en una hoja de cálculo. Sus inquilinos dependen de una empresa de gestión inmobiliaria que coordine de forma fiable a los proveedores de servicios para que las cosas importantes, como un grifo roto, se reparen de inmediato.
 
-![Tareas técnicas de gestión inmobiliaria](https://seatable.io/wp-content/uploads/2023/11/pexels-anil-karakaya-6419128.jpg)
+![Tareas técnicas de gestión inmobiliaria](pexels-anil-karakaya-6419128.jpg)
 
 Si tiene varias propiedades, coordinar a los comerciantes y las reparaciones puede llevarle mucho tiempo.
 
@@ -124,7 +124,7 @@ Si tiene varias propiedades, coordinar a los comerciantes y las reparaciones pue
 
 Con la [plantilla]({{< relref "templates/real-estate/property-management" >}}) SeaTable [para su gestión inmobiliaria]({{< relref "templates/real-estate/property-management" >}}), podrá gestionar fácilmente todos estos asuntos relacionados con sus propiedades. Solo tiene que guardar documentos contractuales, facturas, protocolos de entrega, planos y fotos en su base de datos SeaTable.
 
-![Capture fotos y datos de sus propiedades](https://seatable.io/wp-content/uploads/2023/11/steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
+![Capture fotos y datos de sus propiedades](steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
 
 Puede registrar fotos y aspectos destacados de su propiedad (por ejemplo, cocina totalmente equipada, terraza) en una base de datos.
 

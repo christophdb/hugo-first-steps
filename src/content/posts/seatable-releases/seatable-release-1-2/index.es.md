@@ -18,7 +18,7 @@ Nos complace anunciar que la versión 1.2 de SeaTable ya está disponible. SeaTa
 
 La página de inicio parecía un poco aburrida en el pasado. Eso se ha acabado. En la nueva versión, puedes cambiar el icono y el color de cada base. Tienes un total de 12 colores y más de 25 símbolos a tu disposición. Sólo tienes que hacer clic en el icono del lápiz a la derecha del nombre de la base y diseñar el aspecto de tus bases según tus deseos.
 
-![](https://seatable.io/wp-content/uploads/2020/08/baseColorAndIcon-711x501.jpg)
+![](baseColorAndIcon-711x501.jpg)
 
 Personalizar los iconos y colores de las bases le ayuda a organizar mejor sus bases y a encontrarlas más rápidamente, especialmente si tiene muchas bases en SeaTable. En una futura versión, el color de la cabecera de la base en la vista de tabla se sincronizará con el color del símbolo de la base.
 
@@ -34,7 +34,7 @@ En SeaTable siempre tendrá una visión general de los procesos en sus bases. El
 
 Una instantánea captura el estado de una base en el momento en que se creó. En otras palabras, las instantáneas son básicamente máquinas para viajar atrás en el tiempo. ¿Quieres ver cómo era una base hace tres días? Olvídate del registro, ¡usa una instantánea!
 
-![](https://seatable.io/wp-content/uploads/2020/08/Snapshots.png)
+![](Snapshots.png)
 
 Puede acceder a las instantáneas disponibles de una base en la vista de tabla o a través de las opciones avanzadas de la base en la página de inicio. (Tenga en cuenta que el tiempo que SeaTable almacena sus instantáneas depende de su suscripción). Cuando restaura una instantánea, se crea una nueva base. Así que no se preocupe por sobrescribir su Base actual al restaurar una instantánea.
 
@@ -44,7 +44,7 @@ La versatilidad de las vistas es una de las mejores características de SeaTable
 
 La función de vista es ahora aún más potente. Antes, crear una nueva vista similar a una ya existente era un poco más complicado. Todas las condiciones de ordenación, agrupación y filtrado tenían que configurarse desde cero. Este factor de frustración ha desaparecido. Con SeaTable 1.2, las vistas se pueden duplicar.
 
-![](https://seatable.io/wp-content/uploads/2020/08/duplicate_view.png)
+![](duplicate_view.png)
 
 En el menú de vistas encontrará la opción "Duplicar vista". Con un solo clic, se crea una nueva vista basada en la existente. Los ajustes de las condiciones de ordenación, agrupación y filtrado en esta nueva vista se realizan entonces rápidamente.
 
@@ -56,7 +56,7 @@ Una base SeaTable puede compartirse fácilmente con otros usuarios. Los permisos
 
 En lugar de compartir una base entera, los suscriptores de Enterprise tienen ahora la opción de compartir sólo vistas específicas de los datos de una base. Filtre los datos, oculte columnas, ordene y agrupe los registros para que la vista transmita el mensaje deseado alto y claro, y comparta sólo eso con sus colegas. Para eso está la nueva función "Compartir vista".
 
-![](https://seatable.io/wp-content/uploads/2020/08/share_view.png)
+![](share_view.png)
 
 Cuando se comparte una base -aunque sea de sólo lectura- se exponen todos los datos almacenados en ella. Con una vista dividida, los destinatarios sólo tienen acceso a los datos que deben ver.
 
@@ -64,7 +64,7 @@ Cuando se comparte una base -aunque sea de sólo lectura- se exponen todos los d
 
 ¿Desea compartir una base con otros miembros del equipo pero quiere evitar que modifiquen el contenido de una o varias filas? Entonces SeaTable 1.2 tiene exactamente lo que necesita: la nueva función de bloqueo de filas.
 
-![](https://seatable.io/wp-content/uploads/2020/08/lock_row.png)
+![](lock_row.png)
 
 Al hacer clic con el botón derecho en una celda, se abre el menú contextual de la fila, donde encontrará la nueva opción "Bloquear fila". En cuanto se bloquea una fila, aparece un triángulo rojo en la esquina superior derecha del número de fila. Repita el proceso para desbloquearla. Los administradores de la base (tanto los propietarios de la base como los administradores de grupo) pueden desbloquear cualquier fila; los demás usuarios sólo pueden desbloquear filas bloqueadas por ellos mismos.
 
@@ -72,7 +72,7 @@ Al hacer clic con el botón derecho en una celda, se abre el menú contextual de
 
 Además del bloqueo de filas, los administradores de la Base también pueden restringir el acceso a determinadas columnas. Con SeaTable 1.2 puede decidir quién puede editar las entradas de una columna: nadie, sólo administradores o determinados usuarios. Ni que decir tiene que los permisos de columna pueden combinarse, por supuesto, con los bloqueos de filas.
 
-![](https://seatable.io/wp-content/uploads/2020/08/column_permission.png)
+![](column_permission.png)
 
 Los permisos de columna están disponibles para todos los tipos de columna. Abra el menú contextual de la columna y seleccione "Editar permisos de columna". El asistente que aparece le guiará por el resto.
 

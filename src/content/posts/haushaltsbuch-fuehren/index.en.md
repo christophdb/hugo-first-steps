@@ -18,7 +18,7 @@ Keeping track of your spending is sometimes not that easy. It happens far too of
 
 Let's be honest: how often do you check your bank statements and add up what you've spent money on? As long as the account is not in the red, we usually shy away from the effort and perhaps don't want to know exactly. Because if we saw how much shopping trips, going out with friends or smoking cost in the long run, we might question our lifestyle.
 
-![Keep a budget book](images/Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
+![Keep a budget book](Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
 
 In addition to unavoidable fixed costs, smaller cost traps can also add up to considerable sums. You should take action at the latest when you realize that there is hardly anything left over after deducting all costs. With a budget book, you can keep a complete record of what you spend your money on. Get an overview of your running costs so that you can be sure that your money won't simply disappear without a trace.
 
@@ -71,7 +71,7 @@ Scrutinize your current contracts, look around for cheaper alternatives if neces
 
 Do you have streaming subscriptions to Amazon Prime, Netflix and Sky? But let's be honest - how often do you really manage to watch a movie or a whole series in your everyday life? Check whether you really use certain **streaming services** or can actually do without them. The same applies to music streaming services such as Spotify and Deezer or even **newspapers** and **magazines** that you have subscribed to. Even if it's only a few euros per month, the amounts in your budget will add up over time.
 
-![Streaming subscriptions ](images/nicolas-j-leclercq-fg00hP0VPI8-unsplash.jpg)
+![Streaming subscriptions ](nicolas-j-leclercq-fg00hP0VPI8-unsplash.jpg)
 
 Unnecessary streaming subscriptions can be expensive.
 
@@ -91,13 +91,13 @@ Have your children moved out, have you sold your car or do you hardly use your b
 
 {{< warning headline="Attention" text="If you do not own your apartment yourself, your landlord must agree to subletting." />}}
 
-The same applies if a **garage**, **parking space** or **basement room** that you don't need is part of your home. In the long term, [renting out real estate](https://seatable.io/en/hausverwaltung/) can bring in a lot of income that will please your household budget.
+The same applies if a **garage**, **parking space** or **basement room** that you don't need is part of your home. In the long term, [renting out real estate]({{< relref "posts/hausverwaltung" >}}) can bring in a lot of income that will please your household budget.
 
 ### 6\. use public transportation, carpooling and car sharing
 
 Especially in larger cities, **owning a car** is hardly worthwhile for many people. After purchasing a car, you are constantly faced with the costs of fuel, maintenance, insurance and parking. This is why **car-sharing services** are becoming increasingly popular. If you are planning to travel a longer distance, you can use various **online car-sharing services** to pick up passengers or have yourself chauffeured.
 
-![Car parking space](images/david-schultz-ZLk6gA8EyG0-unsplash.jpg)
+![Car parking space](david-schultz-ZLk6gA8EyG0-unsplash.jpg)
 
 Do without your own car and rent out the parking space - this way you save costs and generate income at the same time.
 
@@ -121,7 +121,7 @@ Before making any **major purchases**, take a few days to calculate your budget 
 
 Most supermarket chains have **their own brands** produced, which are significantly cheaper than branded products that are advertised expensively. However, private labels are often produced in exactly the same factories and with the same ingredients as the more expensive branded products. If you increasingly opt for private labels, you can save up to 30 percent on your purchases without compromising on quality.
 
-![Record food costs in the budget book](images/cristiano-pinto-2lWGQ02DGL8-unsplash.jpg)
+![Record food costs in the budget book](cristiano-pinto-2lWGQ02DGL8-unsplash.jpg)
 
 Ready meals for every lunch break can be expensive. Here you can save not only with own brands, but also with home-cooked meals.
 
@@ -141,7 +141,7 @@ Instead, make sure you eat a balanced diet, get enough exercise and lead a healt
 
 ### 12\. an end to expensive vices
 
-Bad habits such as the regular consumption of **alcohol, cigarettes or coffee** can quickly cost you over 100 euros per month. However, there are several methods you can use to [change](https://seatable.io/en/habit-tracker-gewohnheiten-aendern/) your [habits](https://seatable.io/en/habit-tracker-gewohnheiten-aendern/) in the long term. With willpower and the support of friends and family, you may be able to get rid of expensive vices without which you can live healthier and save a lot of money in the long run.
+Bad habits such as the regular consumption of **alcohol, cigarettes or coffee** can quickly cost you over 100 euros per month. However, there are several methods you can use to [change]({{< relref "posts/habit-tracker" >}}) your [habits]({{< relref "posts/habit-tracker" >}}) in the long term. With willpower and the support of friends and family, you may be able to get rid of expensive vices without which you can live healthier and save a lot of money in the long run.
 
 At the same time, you can establish positive habits: For example, simply drinking water instead of expensive **energy drinks** is good for your health. Your budget will rejoice - especially if you avoid bottled water and use **tap water** instead.
 

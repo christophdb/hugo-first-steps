@@ -12,7 +12,7 @@ seo:
 
 Ganz gleich, ob Sie gerade ein Imagevideo für Ihre Firma, einen Kurzfilm für ein Film-Festival oder den nächsten Hollywood-Blockbuster konzipieren – ein **Storyboard** zu erstellen kann den entscheidenden Unterschied machen. Ein Storyboard ist nicht nur ein Werkzeug, um Ihre **kreativen Ideen** zu strukturieren, sondern auch um einen **reibungslosen Produktionsablauf** zu gewährleisten. In diesem Artikel wird die Bedeutung und der Nutzen von Storyboards für Filmprojekte aller Art erläutert und eine kostenlose Storyboard Vorlage vorgestellt, mit der Sie Ihre Visionen zum Leben erwecken können.
 
-![Regisseur zeigt mit seinem Finger auf das Storyboard](images/dix-sept-xEKgWKmUk5A-unsplash-711x463.jpg)
+![Regisseur zeigt mit seinem Finger auf das Storyboard](dix-sept-xEKgWKmUk5A-unsplash-711x463.jpg)
 
 Bevor ein Film gedreht wird, muss er zunächst gut geplant werden.
 
@@ -22,7 +22,7 @@ Als Storyboard bezeichnet man die **grafische Darstellung** oder **Skizze** eine
 
 Die Zeichenstile können dabei erheblich voneinander abweichen. Einige Storyboard-Künstler erstellen äußerst ausgearbeitete Illustrationen, während andere es vorziehen, sich auf einfache Strichmännchen-Zeichnungen zu beschränken.
 
-![Von Hand gezeichnetes Storyboard](images/dix-sept-idiRDLFPH6A-unsplash-711x936.jpg)
+![Von Hand gezeichnetes Storyboard](dix-sept-idiRDLFPH6A-unsplash-711x936.jpg)
 
 Ein Beispiel für die visuelle Darstellung eines Storyboards
 
@@ -41,7 +41,7 @@ Ein Storyboard hat den bedeutenden Vorteil, dass es **komplexe Handlungsabläufe
 
 Während Sie im Planungsprozess Ihre Geschichte verfeinern und weiter Details hinzufügen, können Sie mithilfe des Storyboards **frühzeitig Fehler erkennen**. Dadurch sparen Sie sich eine Menge Aufwand während der **Dreharbeiten** und beim **Videoschnitt**. Bestimmen Sie möglichst viele Einzelheiten wie zum Beispiel das Erzähltempo im Vorfeld, um während der anstrengenden Drehtage einen freien Kopf für das Wesentliche haben.
 
-![Visuelle Planung für einen Film](images/matt-popovich-pJwWrP-OIfk-unsplash-711x457.jpg)
+![Visuelle Planung für einen Film](matt-popovich-pJwWrP-OIfk-unsplash-711x457.jpg)
 
 ## Der Prozess des Filmemachens
 
@@ -57,7 +57,7 @@ Erst wenn sowohl Drehbuch als auch Storyboard final stehen, sollten Sie mit den 
 
 Wenn die Dreharbeiten abgeschlossen sind, erfolgt als nächster Schritt der Übergang zum **Videoschnitt**. Nachdem das Material gesichtet, ausgesucht und editiert ist, können Sie sich erstes **Feedback** in Ihrem Umfeld einholen. Prüfen Sie so, ob Ihr Film auch für Außenstehende verständlich und greifbar ist. Mithilfe der Rückmeldungen können Sie dann Ihren **Film fertigstellen**.
 
-![Film drehen in 8 Schritten](images/Film-drehen-in-8-Schritten-711x1264.png)
+![Film drehen in 8 Schritten](Film-drehen-in-8-Schritten-711x1264.png)
 
 Das Storyboard gehört zur Planungsphase – erst im Anschluss wird gedreht.
 
@@ -69,7 +69,7 @@ Achten Sie beim Erstellen Ihres Storyboards außerdem darauf, dass Sie die **Abs
 
 Damit sind die wichtigsten Punkte abgedeckt. Je nach Bedarf können Sie allerdings auch andere Informationen wie zum Beispiel involvierte **Rollen**, **Requisiten** oder **Anweisungen** für den Schnitt ergänzen.
 
-![Strichmännchen-Zeichnungen im Comic-Stil](images/nasim-keshmiri-bNjYwZrkJ3A-unsplash-711x474.jpg)
+![Strichmännchen-Zeichnungen im Comic-Stil](nasim-keshmiri-bNjYwZrkJ3A-unsplash-711x474.jpg)
 
 Sie müssen kein großer Künstler sein, um ein gutes Storyboard zu erstellen.
 

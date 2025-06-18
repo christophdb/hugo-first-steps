@@ -11,7 +11,7 @@ seo:
     description: In diesem Artikel zeigen wir Ihnen, wie die Zeiterfassung Ihrer Mitarbeiter rechtssicher und mit minimalem Aufwand in SeaTable erfolgen kann.
 ---
 
-Wahrscheinlich haben Sie es bereits aus den Medien erfahren: Das Bundesarbeitsministerium plant für 2023 eine Reform des Arbeitszeitgesetzes. Doch was ändert sich dadurch für Sie und Ihr Unternehmen? Müssen Sie teure Zeiterfassungssysteme anschaffen oder reicht eine [kostenlose Software](https://seatable.io/arbeitszeiterfassung/)? In diesem Artikel zeigen wir Ihnen, wie Sie die Zeiterfassung Ihrer Mitarbeiter mit minimalem Verwaltungsaufwand umsetzen und dabei geltendes Recht einhalten.
+Wahrscheinlich haben Sie es bereits aus den Medien erfahren: Das Bundesarbeitsministerium plant für 2023 eine Reform des Arbeitszeitgesetzes. Doch was ändert sich dadurch für Sie und Ihr Unternehmen? Müssen Sie teure Zeiterfassungssysteme anschaffen oder reicht eine [kostenlose Software]({{< relref "posts/arbeitszeiterfassung" >}})? In diesem Artikel zeigen wir Ihnen, wie Sie die Zeiterfassung Ihrer Mitarbeiter mit minimalem Verwaltungsaufwand umsetzen und dabei geltendes Recht einhalten.
 
 ## Die aktuelle Rechtslage zur Zeiterfassung in Unternehmen
 
@@ -54,7 +54,7 @@ Wie also lässt sich die Arbeitszeit der Mitarbeiter schnell, einfach und rechts
 
 Wie bei jeder SeaTable Vorlage handelt es sich um eine **Datenbank** mit verschiedenen Tabellen, die Sie an Ihre eigenen spezifischen Bedürfnisse anpassen können. In der ersten Tabelle haben wir für Sie eine übergreifende Admin-Ansicht angelegt, in die alle **Arbeitszeiten**, **Urlaubsanträge** und **Krankmeldungen** Ihrer Mitarbeiter einfließen. Als Führungskraft haben Sie den vollen Überblick über die An- und Abwesenheiten aller Mitarbeiter in Ihrem Team.
 
-![Admin-Ansicht der Arbeitszeit-Tabelle](images/Working-Time-Admin-View.gif)
+![Admin-Ansicht der Arbeitszeit-Tabelle](Working-Time-Admin-View.gif)
 
 Admin-Ansicht der Arbeitszeit-Tabelle
 
@@ -62,21 +62,21 @@ Admin-Ansicht der Arbeitszeit-Tabelle
 
 Damit sowohl Ihre Mitarbeiter als auch Sie selbst jederzeit die Einhaltung der Arbeitszeitregelungen im Blick haben, errechnet SeaTable die geleistete Stundenzahl sowie die Über- oder Unterstunden in Bezug auf die reguläre tägliche Arbeitszeit. Durch die [farbliche Markierung](https://seatable.io/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) der Zeilen sehen Sie und Ihre Teammitglieder direkt, ob der Stundensaldo eines Tages im Minus (rot) oder im Plus (grün) ist.
 
-In einer mit SeaTable gebauten Mitarbeiter-App können Sie die Datenerfassung intuitiv und benutzerfreundlich gestalten, indem Sie Ihre Mitarbeiter die Arbeitszeiten, Urlaubsanträge und Krankmeldungen in [Webformularen](https://seatable.io/docs/webformulare/webformulare/) erfassen lassen. Dabei können Sie die Eingabefelder mit konkreten Anweisungen versehen, um die Ausfüllenden sicher durch den Prozess zu leiten. Ein ausgefülltes Webformular entspricht je einem Werktag, einem Urlaubsantrag oder einer Krankmeldung.
+In einer mit SeaTable gebauten Mitarbeiter-App können Sie die Datenerfassung intuitiv und benutzerfreundlich gestalten, indem Sie Ihre Mitarbeiter die Arbeitszeiten, Urlaubsanträge und Krankmeldungen in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) erfassen lassen. Dabei können Sie die Eingabefelder mit konkreten Anweisungen versehen, um die Ausfüllenden sicher durch den Prozess zu leiten. Ein ausgefülltes Webformular entspricht je einem Werktag, einem Urlaubsantrag oder einer Krankmeldung.
 
-![Mitarbeiter-App für Zeiterfassung, Urlaubsanträge und Krankmeldung](images/Mitarbeiter-App.gif)
+![Mitarbeiter-App für Zeiterfassung, Urlaubsanträge und Krankmeldung](Mitarbeiter-App.gif)
 
 Mitarbeiter-App für Arbeitszeiten, Urlaubsanträge und Krankmeldung
 
 Wenn Ihre Mitarbeiter die Formulare absenden, fügt SeaTable neue Einträge in den entsprechenden Tabellen hinzu, die Sie als Führungskraft anschließend in der Management-App freigeben oder ablehnen können. Auf Ihrem Dashboard können Sie Statistiken einbauen, mit denen Sie alle Überstunden, Urlaube und Krankmeldungen Ihrer Mitarbeiter im Blick behalten. Der [Kalender](https://seatable.io/docs/plugins/anleitung-zum-kalender-plugin/) ermöglicht zudem die Darstellung der Daten in einer kalendarischen Übersicht.
 
-![Management-App für Zeiterfassung, Urlaubsanträge und Krankmeldung](images/Dashboard_4MB.gif)
+![Management-App für Zeiterfassung, Urlaubsanträge und Krankmeldung](Dashboard_4MB.gif)
 
 Management-App mit Dashboard
 
 Zur Erinnerung: Hierbei handelt es sich nur um eine beispielhafte Vorlage, die wir für Sie erstellt haben. Alle Grundfunktionen sind in einem kostenlosen Free Abonnement enthalten, für den vollen Funktionsumfang inklusive Automationen benötigen Sie aber ein Enterprise Abonnement. Natürlich können Sie noch viele weitere Features von SeaTable nutzen, um ganz nach Ihren Wünschen eine eigene Anwendung für die Zeiterfassung in Ihrem Unternehmen zu entwickeln.
 
-[Erfahren Sie hier alles zu unserem Template](https://seatable.io/arbeitszeiterfassung/), das Ihre Arbeitszeiterfassung revolutionieren wird.
+[Erfahren Sie hier alles zu unserem Template]({{< relref "posts/arbeitszeiterfassung" >}}), das Ihre Arbeitszeiterfassung revolutionieren wird.
 
 ## Fazit: Warum sich SeaTable für Sie lohnt
 

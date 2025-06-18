@@ -15,7 +15,7 @@ Planen Sie Ihre Produktlinie zu erweitern und möchten wissen, welche **Produkte
 
 In diesem Beitrag präsentieren wir Ihnen einen umfassenden Leitfaden mit allen wichtigen Informationen und Wettbewerbsanalyse Methoden. Um Ihre Analyse strukturiert und effizient durchzuführen, stellen wir Ihnen anschließend ein leistungsstarkes Tool vor, das Ihnen hilft, Ihre Daten übersichtlich und präzise zu organisieren.
 
-![Wettbewerbsanalyse: Frau macht Siegespose vor orangenem Hintergrund](images/miguel-bruna-TzVN0xQhWaQ-unsplash-711x426.jpg)
+![Wettbewerbsanalyse: Frau macht Siegespose vor orangenem Hintergrund](miguel-bruna-TzVN0xQhWaQ-unsplash-711x426.jpg)
 
 Das Hauptziel der Wettbewerbsanalyse ist es, Wettbewerbsvorteile zu identifizieren und zu nutzen.
 
@@ -31,7 +31,7 @@ Eine strategische Wettbewerbsanalyse liefert Ihnen Erkenntnisse darüber, wie er
 
 Darüber hinaus gibt die Analyse Aufschluss darüber, wie Ihre Produkte oder Dienstleistungen im Markt positioniert sind und welchen einzigartigen Nutzen (**Unique Selling Point**) sie im Vergleich zu den Wettbewerbern bieten. Diese Informationen sind hilfreich, um Ihre Marktstrategie gezielt anzupassen und Ihre Position langfristig zu stärken.
 
-![Wettbewerbsanalyse: Papier mit bunte Diagrammen und Grafiken zur Analyse](images/marketing-business-lady-striped-shirt-office-with-computer-pointing-out-schemes-711x474.jpg)
+![Wettbewerbsanalyse: Papier mit bunte Diagrammen und Grafiken zur Analyse](marketing-business-lady-striped-shirt-office-with-computer-pointing-out-schemes-711x474.jpg)
 
 Das Verstehen der Kundenbedürfnisse ist zentral für die Wettbewerbsanalyse.
 
@@ -46,7 +46,7 @@ Doch wann ist der richtige Zeitpunkt, um eine solche Analyse durchzuführen? Im 
 - **Paid-Media-Aktivitäten:** Wenn bezahlte Werbemaßnahmen nicht den gewünschten Erfolg bringen, kann eine Wettbewerbsanalyse aufdecken, welche Ansätze Ihre Konkurrenten verfolgen und wie Sie Ihre eigenen Kampagnen optimieren können.
 - **Branchentrends:** Um immer auf dem neuesten Stand zu bleiben und aktuelle Branchentrends zu erkennen, ist eine regelmäßige Wettbewerbsanalyse unverzichtbar.
 
-![Hände auf einem Laptop mit Grafiken, die in mehreren Eben herausstehen](images/ui-ux-representations-with-laptop-711x474.jpg)
+![Hände auf einem Laptop mit Grafiken, die in mehreren Eben herausstehen](ui-ux-representations-with-laptop-711x474.jpg)
 
 Eine Wettbewerbsanalyse ist besonders wichtig vor einem Website-Relaunch oder dem Eintritt in einen neuen Markt.
 
@@ -60,7 +60,7 @@ Michael E. Porters [Five-Forces-Modell](https://de.wikipedia.org/wiki/Branchenst
 
 Durch die Wettbewerbsanalyse nach Porter können Unternehmen die Dynamik ihrer Branche besser verstehen und Strategien entwickeln, um Wettbewerbsvorteile zu erlangen. Diese Wettbewerbsanalyse Methode hilft dabei, die **Attraktivität** und **Rentabilität** einer Branche zu beurteilen und fundierte Geschäftsentscheidungen zu treffen.
 
-![Wettbewerbsanalyse: Modell der 5 Kräfte nach Porter](images/1-711x533.png)
+![Wettbewerbsanalyse: Modell der 5 Kräfte nach Porter](1-711x533.png)
 
 Modell von Michael E. Porter, das fünf Kräfte analysiert, die den Wettbewerb in einer Branche bestimmen.
 
@@ -75,7 +75,7 @@ Dementsprechend beginnt diese Methode mit der Identifikation von Kernkompetenzen
 - **Nicht imitierbar** sind Kompetenzen, die teuer oder schwer nachzumachen sind, zum Beispiel patentierte Erfindungen.
 - Eine Kompetenz gilt als **organisiert**, wenn Ihr Unternehmen das Potenzial der Fähigkeit oder Ressource voll ausschöpfen kann.
 
-![Wettbewerbsanalyse - VRIO-Analyse](images/Wettbewerbsanalyse-VRIO-Analyse.png)
+![Wettbewerbsanalyse - VRIO-Analyse](Wettbewerbsanalyse-VRIO-Analyse.png)
 
 Ressourcen müssen wertvoll, selten, nicht imitierbar und organisiert sein, um einen Wettbewerbsvorteil zu bieten.
 
@@ -101,7 +101,7 @@ Eine strategische Wettbewerbsanalyse zu erstellen mag auf den ersten Blick kompl
 
 ### 1\. Ziele definieren
 
-![Wettbewerbsanalyse: Ein Dartpfeil steckt im Dartboard](images/pexels-pixabay-262438-711x473.jpg)
+![Wettbewerbsanalyse: Ein Dartpfeil steckt im Dartboard](pexels-pixabay-262438-711x473.jpg)
 
 Neben der strategischen Positionierung im Markt kann auch beispielsweise das Minimieren von Risiken ein relevantes Ziel sein.
 
@@ -109,7 +109,7 @@ Bestimmen Sie, welche Erkenntnisse Sie aus der Analyse gewinnen möchten und wie
 
 ### 2\. Wettbewerber identifizieren
 
-![Weiße Schachfiguren im Vordergrund, schwarze Schachfiguren im Hintergrund.](images/chess-6890325_1920-711x400.jpg)
+![Weiße Schachfiguren im Vordergrund, schwarze Schachfiguren im Hintergrund.](chess-6890325_1920-711x400.jpg)
 
 Achten Sie darauf, den Wettbewerber auch aus Sicht der Kunden zu identifizieren, nicht nur aus Unternehmensperspektive.
 
@@ -117,7 +117,7 @@ Erstellen Sie eine Liste Ihrer Hauptkonkurrenten. Dazu gehören sowohl **direkte
 
 ### 3\. Daten sammeln
 
-![Wettbewerbsanalyse: Eine Frau, der Daten ins Gesicht und auf den Oberkörper projiziert werden](images/pexels-thisisengineering-3861969-711x474.jpg)
+![Wettbewerbsanalyse: Eine Frau, der Daten ins Gesicht und auf den Oberkörper projiziert werden](pexels-thisisengineering-3861969-711x474.jpg)
 
 Nutzen Sie die Analyse vorhandener Datenquellen wie Marktberichte, Branchenstudien und Unternehmensberichte.
 
@@ -127,7 +127,7 @@ Sammeln Sie umfassende Informationen über Ihre Wettbewerber. Nutzen Sie dabei s
 
 ### 4\. Analyse durchführen
 
-![Dashboard mit Grafiken der Webanalyse](images/luke-chesser-JKUTrJ4vK00-unsplash-711x474.jpg)
+![Dashboard mit Grafiken der Webanalyse](luke-chesser-JKUTrJ4vK00-unsplash-711x474.jpg)
 
 Nehmen Sie sich die Zeit, detaillierte Profile Ihrer Hauptkonkurrenten zu erstellen.
 
@@ -135,7 +135,7 @@ Vergleichen und bewerten Sie die gesammelten Daten. Greifen Sie dazu auf die obe
 
 ### 5\. Strategien ableiten
 
-![Wettbewerbsanalyse: Ein "Mensch ärgere dich nicht"-Spielfeld auf einem Glastisch](images/pexels-pixabay-207924-711x399.jpg)
+![Wettbewerbsanalyse: Ein "Mensch ärgere dich nicht"-Spielfeld auf einem Glastisch](pexels-pixabay-207924-711x399.jpg)
 
 Lösen Sie sich von starren Geschäftsmodellen und setzen Sie auf kontinuierliche Schaffung neuer Wettbewerbsvorteile.
 
@@ -143,7 +143,7 @@ Nutzen Sie die gewonnenen Erkenntnisse, um Ihre eigenen Strategien zu verbessern
 
 ### 6\. Regelmäßig wiederholen
 
-![Eine wabenförmige Wendeltreppe von oben, die weit nach unten führt](images/pexels-mithulvarshan-3023211-711x506.jpg)
+![Eine wabenförmige Wendeltreppe von oben, die weit nach unten führt](pexels-mithulvarshan-3023211-711x506.jpg)
 
 In besonders dynamischen Märkten können sogar monatliche Überprüfungen sinnvoll sein.
 
@@ -153,7 +153,7 @@ Eine Wettbewerbsanalyse zu erstellen ist kein einmaliges Projekt. Überprüfen u
 
 Die Ergebnisse einer strategischen Wettbewerbsanalyse liefern Ihnen nicht nur wertvolle Informationen – sie können Ihr Unternehmen auf die Überholspur bringen. Indem Sie Schwachstellen in den Strategien Ihrer Mitbewerber identifizieren, können Sie ähnliche **Fallstricke vermeiden** und Ihre eigenen **Prozesse optimieren**. Gleichzeitig ermöglicht eine fundierte Analyse die Formulierung **klarer Geschäftsziele**. Mit einem präzisen Plan vor Augen wissen Sie genau, wohin die Reise geht und welche Schritte notwendig sind, um ans Ziel zu gelangen.
 
-![Wettbewerbsanalyse: Eine Hand hält einen Kompass, im Hintergrund ist ein See zu sehen.](images/compass-4891499_1280-711x454.jpg)
+![Wettbewerbsanalyse: Eine Hand hält einen Kompass, im Hintergrund ist ein See zu sehen.](compass-4891499_1280-711x454.jpg)
 
 Mithilfe von Wettbewerbsanalysen können Sie auch Ihre langfristigen Unternehmensziele klarer definieren.
 

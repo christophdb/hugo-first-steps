@@ -16,9 +16,9 @@ This morning at 6 am Central European Time, SeaTable Cloud was updated to versio
 
 ## Complex filter rules with filter groups
 
-Version 5.2 makes SeaTable's [filter functions](https://seatable.io/en/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) even more powerful. The new filter groups allow the **combination of filter rules with the logical operators AND and OR**. Example: Search for men born after 1979 (filter group 1) or women born after 1984 (filter group 2). Such filtering was previously not possible in SeaTable. In previous versions, all filter rules were linked with either logical AND or OR.
+Version 5.2 makes SeaTable's [filter functions]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) even more powerful. The new filter groups allow the **combination of filter rules with the logical operators AND and OR**. Example: Search for men born after 1979 (filter group 1) or women born after 1984 (filter group 2). Such filtering was previously not possible in SeaTable. In previous versions, all filter rules were linked with either logical AND or OR.
 
-![Filter groups in SeaTable 5.2](images/Fitlergroups.png)
+![Filter groups in SeaTable 5.2](Fitlergroups.png)
 
 In future versions, we will also introduce filter groups in apps, forms and automations.
 
@@ -26,7 +26,7 @@ In future versions, we will also introduce filter groups in apps, forms and auto
 
 Version 5.2 also offers extended filter options in conditional [rows](https://seatable.io/en/docs/ansichtsoptionen/farbliche-markierung-von-zeilen/) and [cell formatting](https://seatable.io/en/docs/ansichtsoptionen/einfaerben-von-zellen/). Do you want to color a cell red based on the values in other columns to draw attention to it? With SeaTable 5.2 you can! The color coding of a row or cell can now be formatted depending on each individual column value in a data set. And that's not all: conditional formatting can also take into account values in multiple columns, regardless of the column type.
 
-![Improved conditional formatting in SeaTable 5.2](images/ConditionalFormatting.png)
+![Improved conditional formatting in SeaTable 5.2](ConditionalFormatting.png)
 
 ## Functional improvements in the App Builder
 
@@ -36,7 +36,7 @@ The [single data record](https://seatable.io/en/docs/seitentypen-in-universellen
 
 As of SeaTable 5.2, the page settings for this page type include the **Preset read-only columns** function, which is already familiar from other page types. In combination with the [page authorization](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) "Who can edit rows ?", the app admin can precisely define which column values of a data set can be entered or changed by users and which cannot.
 
-![New read-only columns setting on single record page](images/ROcolumns-SingleRecordPage.png)
+![New read-only columns setting on single record page](ROcolumns-SingleRecordPage.png)
 
 For [locked data records](https://seatable.io/en/docs/arbeiten-mit-zeilen/sperren-einer-zeile/), the user now also receives feedback that editing is not possible. A corresponding message is displayed when you move the mouse pointer over "Edit entry" in the toolbar.
 
@@ -44,7 +44,7 @@ In addition to the authorization control, the new version also contains two impr
 
 ### Page type Form
 
-Simple [web forms](https://seatable.io/en/docs/webformulare/webformulare/) that can be created in Base offer a **redirect option**. Users are automatically redirected to a website after submission. We have now also added this function to the [form pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/), taking into account the special features of the app. Users can either be redirected to another app page or to an external URL. The other app pages can be conveniently selected from a drop-down menu. You can also set whether the redirection takes place in a new tab or in the same tab.
+Simple [web forms]({{< relref "help/base-editor/webformulare" >}}) that can be created in Base offer a **redirect option**. Users are automatically redirected to a website after submission. We have now also added this function to the [form pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/), taking into account the special features of the app. Users can either be redirected to another app page or to an external URL. The other app pages can be conveniently selected from a drop-down menu. You can also set whether the redirection takes place in a new tab or in the same tab.
 
 ### Page type Table
 
@@ -54,7 +54,7 @@ The **preset filters** in the data settings now allow the selection of all relev
 
 The [individual page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) has a new statistics type: the **simple table** allows - similar to the [table page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) - the tabular display of a data set that has been pre-filtered and pre-sorted by the app admin. Unlike the table page, the new statistics type makes it possible to combine two or more tables on one page. In version 5.2, app users cannot set their own filter and sorting rules. We will add this function in the future.
 
-![New chart type "Basic table"](images/BasicTable.png)
+![New chart type "Basic table"](BasicTable.png)
 
 ### Page type Calendar
 
@@ -76,7 +76,7 @@ You can install the new whiteboard plugin in addition to or as an alternative to
 
 The replacement of the plugin had become necessary because the "old" whiteboard plugin, which is based on the open source project [excalidraw](https://github.com/excalidraw/excalidraw), proved to be prone to malfunctions when used by several users at the same time. With version 6.0 in summer 2025, we will remove the old plugin from SeaTable Cloud. All whiteboards in the old whiteboard plugin will then no longer be available.
 
-![](images/tldraw-collaboration.png)
+![](tldraw-collaboration.png)
 
 ## Important changes to the SeaTable API
 
@@ -96,7 +96,7 @@ SeaTable 5.2 has other new features that deserve more than an explicit mention:
 
 The ability to **manage hierarchical data in a table** reaches a new level in SeaTable 5.2: Parent and child relationships are recorded and displayed in separate columns. SeaTable ensures that there is a child relationship for every parent relationship. This makes it easy to analyze relationships in both directions. The illustration shows the difference between SeaTable 5.2 (left) and SeaTable 5.1 (right) for the top management of a fictitious organization.
 
-![Juxtaposition internal linking in SeaTable 5.1 and 5.2](images/InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
+![Juxtaposition internal linking in SeaTable 5.1 and 5.2](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
 
 For users, this only brings advantages without additional complexity. If a user creates a new **link column** that links entries in one and the same table, SeaTable automatically creates the second link column. The [organization chart](https://seatable.io/en/docs/plugins/anleitung-zum-organigramm-plugin/) and [tree](https://seatable.io/en/docs/plugins/anleitung-zum-tree-plugin/) plugins can also handle the improved data structure.
 

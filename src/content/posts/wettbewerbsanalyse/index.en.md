@@ -15,7 +15,7 @@ Are you planning to expand your product line and want to know which **product fe
 
 In this article, we present a comprehensive guide with all the important information and competitive analysis methods. In order to carry out your analysis in a structured and efficient manner, we will then introduce you to a powerful tool that will help you to organize your data clearly and precisely.
 
-![Competition analysis: Woman makes victory pose in front of orange background](images/miguel-bruna-TzVN0xQhWaQ-unsplash-711x426.jpg)
+![Competition analysis: Woman makes victory pose in front of orange background](miguel-bruna-TzVN0xQhWaQ-unsplash-711x426.jpg)
 
 The main aim of competitive analysis is to identify and exploit competitive advantages.
 
@@ -31,7 +31,7 @@ A strategic competitive analysis provides you with insights into how successful 
 
 In addition, the analysis provides information on how your products or services are positioned in the market and what unique**selling point** they offer compared to the competition. This information is helpful for adjusting your market strategy in a targeted manner and strengthening your position in the long term.
 
-![Competitive analysis: Paper with colorful diagrams and graphics for analysis](images/marketing-business-lady-striped-shirt-office-with-computer-pointing-out-schemes-711x474.jpg)
+![Competitive analysis: Paper with colorful diagrams and graphics for analysis](marketing-business-lady-striped-shirt-office-with-computer-pointing-out-schemes-711x474.jpg)
 
 Understanding customer needs is central to competitive analysis.
 
@@ -46,7 +46,7 @@ But when is the right time to conduct such an analysis? Below you will find situ
 - **Paid media activities:** If paid advertising measures are not bringing the desired success, a competitive analysis can reveal which approaches your competitors are taking and how you can optimize your own campaigns.
 - **Industry trends:** In order to stay up to date and recognize current industry trends, regular competitive analysis is essential.
 
-![Hands on a laptop with graphics sticking out in multiple planes](images/ui-ux-representations-with-laptop-711x474.jpg)
+![Hands on a laptop with graphics sticking out in multiple planes](ui-ux-representations-with-laptop-711x474.jpg)
 
 A competitive analysis is particularly important before a website relaunch or entering a new market.
 
@@ -60,7 +60,7 @@ Michael E. Porter's [five forces model](https://de.wikipedia.org/wiki/Branchenst
 
 Porter's competitive analysis enables companies to better understand the dynamics of their industry and develop strategies to gain a competitive advantage. This competitive analysis method helps to assess the **attractiveness** and **profitability** of an industry and to make well-founded business decisions.
 
-![Competitive analysis: Porter's 5 forces model](images/1-711x533.png)
+![Competitive analysis: Porter's 5 forces model](1-711x533.png)
 
 Michael E. Porter's model, which analyzes five forces that determine competition in an industry.
 
@@ -75,7 +75,7 @@ Accordingly, this method begins with the identification of a company's core comp
 - Competencies that are expensive or difficult to imitate, such as patented inventions, **cannot be imitated**.
 - A competence is considered **organized** if your company can fully exploit the potential of the skill or resource.
 
-![Competitive analysis - VRIO analysis](images/Wettbewerbsanalyse-VRIO-Analyse.png)
+![Competitive analysis - VRIO analysis](Wettbewerbsanalyse-VRIO-Analyse.png)
 
 Resources must be valuable, rare, non-imitable and organized in order to offer a competitive advantage.
 
@@ -101,7 +101,7 @@ Creating a strategic competitive analysis may seem complicated at first glance -
 
 ### 1\. define goals
 
-![Competition analysis: A dart in a dartboard](images/pexels-pixabay-262438-711x473.jpg)
+![Competition analysis: A dart in a dartboard](pexels-pixabay-262438-711x473.jpg)
 
 In addition to strategic positioning in the market, minimizing risks, for example, can also be a relevant goal.
 
@@ -109,7 +109,7 @@ Determine which insights you would like to gain from the analysis and how they c
 
 ### 2\. identify competitors
 
-![White chess pieces in the foreground, black chess pieces in the background.](images/chess-6890325_1920-711x400.jpg)
+![White chess pieces in the foreground, black chess pieces in the background.](chess-6890325_1920-711x400.jpg)
 
 Make sure to identify the competitor from the customer's point of view as well, not just from the company's perspective.
 
@@ -117,7 +117,7 @@ Create a list of your main competitors. This includes **direct competitors** who
 
 ### 3\. collect data
 
-![Competition analysis: A woman with data projected onto her face and upper body](images/pexels-thisisengineering-3861969-711x474.jpg)
+![Competition analysis: A woman with data projected onto her face and upper body](pexels-thisisengineering-3861969-711x474.jpg)
 
 Use the analysis of existing data sources such as market reports, industry studies and company reports.
 
@@ -127,7 +127,7 @@ Gather comprehensive information about your competitors. Use public sources such
 
 ### 4\. perform analysis
 
-![Dashboard with web analytics graphics](images/luke-chesser-JKUTrJ4vK00-unsplash-711x474.jpg)
+![Dashboard with web analytics graphics](luke-chesser-JKUTrJ4vK00-unsplash-711x474.jpg)
 
 Take the time to create detailed profiles of your main competitors.
 
@@ -135,7 +135,7 @@ Compare and evaluate the collected data. To do this, use the **competitive analy
 
 ### 5\. derive strategies
 
-![Competition analysis: A "Mensch ärgere dich nicht" playing field on a glass table](images/pexels-pixabay-207924-711x399.jpg)
+![Competition analysis: A "Mensch ärgere dich nicht" playing field on a glass table](pexels-pixabay-207924-711x399.jpg)
 
 Break away from rigid business models and focus on the continuous creation of new competitive advantages.
 
@@ -143,7 +143,7 @@ Use the insights gained to improve your own strategies. This could mean **adapti
 
 ### 6\. repeat regularly
 
-![A honeycomb-shaped spiral staircase from above that leads a long way down](images/pexels-mithulvarshan-3023211-711x506.jpg)
+![A honeycomb-shaped spiral staircase from above that leads a long way down](pexels-mithulvarshan-3023211-711x506.jpg)
 
 In particularly dynamic markets, monthly reviews can even be useful.
 
@@ -153,7 +153,7 @@ Creating a competitive analysis is not a one-off project. Review and update your
 
 The results of a strategic competitive analysis not only provide you with valuable information - they can put your company in the fast lane. By identifying weaknesses in your competitors' strategies, you can **avoid** similar **pitfalls** and **optimize** your own **processes**. At the same time, a well-founded analysis enables you to formulate **clear business objectives**. With a precise plan in mind, you know exactly where the journey is heading and what steps are necessary to get there.
 
-![Competition analysis: A hand holds a compass, a lake can be seen in the background.](images/compass-4891499_1280-711x454.jpg)
+![Competition analysis: A hand holds a compass, a lake can be seen in the background.](compass-4891499_1280-711x454.jpg)
 
 With the help of competitive analyses, you can also define your long-term corporate goals more clearly.
 

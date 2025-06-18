@@ -36,7 +36,7 @@ Dans SeaTable, par contre, c'est très simple. Alors que toutes les informations
 
 En outre, tous les livres de la maison d'édition sont saisis dans SeaTable. Aucune autre solution ne permet de saisir aussi naturellement les informations les plus diverses comme le titre, l'auteur, la catégorie, l'édition du programme, la direction du projet, le statut du manuscrit, la date de publication, le nombre de pages, le prix, le numéro ISBN et l'URL dans la boutique, tout en se laissant facilement éditer. À cela s'ajoute le fait que les collaborateurs peuvent facilement filtrer les titres déjà publiés ou les trier selon les projets encore en cours.
 
-![Des processus flexibles dans l'édition grâce à SeaTable](images/ventil-verlag.jpg)
+![Des processus flexibles dans l'édition grâce à SeaTable](ventil-verlag.jpg)
 
 ## SeaTable offre la flexibilité nécessaire à l'édition
 

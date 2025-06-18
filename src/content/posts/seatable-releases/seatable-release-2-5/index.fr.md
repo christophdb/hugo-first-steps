@@ -18,7 +18,7 @@ Depuis l'introduction de l'archive en tant que fonction bêta dans la [version 2
 
 La fonction d'archivage prend désormais en charge les 24 colonnes, y compris les trois types de colonnes : formule, lien et formule pour lien. L'absence d'accès en écriture aux données d'archives reste une limitation dans SeaTable 2.5, mais ces trois colonnes sont des cas particuliers : Les valeurs dans les deux colonnes Formule sont calculées dynamiquement, en fonction de la spécification de la formule. Si une formule est modifiée, les valeurs dans les lignes archivées sont recalculées. Si l'utilisateur modifie la colonne de référence dans une formule pour les liens, les données archivées reflètent cette modification. Il en va de même pour la colonne des liens. Un changement de la colonne d'affichage s'effectue de la même manière dans l'ensemble des données, archives comprises. De cette manière, les données archivées restent comparables aux données non archivées.
 
-![La nouvelle vue des archives de SeaTable](https://seatable.io/wp-content/uploads/2021/11/archive-view.jpg)
+![La nouvelle vue des archives de SeaTable](archive-view.jpg)
 
 SeaTable 2.5 ajoute également une fonction d'impression pour les vues d'archives et permet désormais de masquer des colonnes individuelles dans une telle vue. Une fonction de recherche et une fonction d'exportation Excel ont déjà été implémentées dans [SeaTable 2.4]({{< relref "posts/seatable-releases/seatable-release-2-4" >}}).
 
@@ -37,7 +37,7 @@ L'opération Calculer les valeurs cumulées calcule des totaux interlignes pour 
 
 Malgré toute l'attention portée aux [intégrations](https://seatable.io/fr/integrations/) externes, nous n'avons pas perdu de vue les propres automatisations de SeaTable. La nouveauté centrale est l'action Exécuter un script Python. Elle peut être déclenchée par les déclencheurs "Nouvelle ligne", "Les entrées remplissent une certaine condition après la modification" et "Exécuter périodiquement". L'exécution automatisée de scripts Python pour une seule ligne ou pour tout un ensemble de données en utilisant un jeu de règles clair est presque un super pouvoir !
 
-![Les scripts Python peuvent désormais être lancés par automatisation.](https://seatable.io/wp-content/uploads/2021/11/python-script-durch-automation-511x448.jpg)
+![Les scripts Python peuvent désormais être lancés par automatisation.](python-script-durch-automation-511x448.jpg)
 
 L'action existante "Verrouiller la ligne" reçoit le nouvel événement déclencheur "Exécuter périodiquement pour les lignes qui remplissent une certaine condition". En combinaison avec les deux autres déclencheurs "Nouvelle ligne" et "Les entrées remplissent certaines conditions après la modification", l'utilisateur dispose désormais d'un contrôle optimal sur le blocage automatique des lignes.
 
@@ -47,7 +47,7 @@ Enfin, les deux événements planifiés "Exécuter périodiquement" et "Exécute
 
 Nous aimons tous avoir un grand choix ! La nouvelle colonne de classement répond exactement à cette envie de "plus". Dans SeaTable, la colonne de notation propose désormais quatre styles. En plus de l'étoile comme icône par défaut, on peut désormais choisir le cœur, le pouce levé ou le drapeau comme icône. Il n'est plus nécessaire non plus que l'icône soit orange.
 
-![La nouvelle colonne d'évaluation dans SeaTable 2.5](https://seatable.io/wp-content/uploads/2021/11/Bewertungsspalte.jpg)
+![La nouvelle colonne d'évaluation dans SeaTable 2.5](Bewertungsspalte.jpg)
 
 La nouvelle colonne de cotation n'est pas seulement une question d'esthétique, mais aussi de commodité. Comme pour les autres colonnes numériques, SeaTable calcule désormais des valeurs agrégées - minimum, maximum, moyenne et somme - pour les colonnes de cotation situées en bas du tableau. Dans les vues groupées, SeaTable calcule également des valeurs agrégées pour chaque groupe.
 

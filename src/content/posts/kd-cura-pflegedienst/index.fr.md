@@ -24,7 +24,7 @@ Le [service de soins KD-Cura](https://www.kd-cura.de) sait comment rendre le mon
 
 L'importance des soins continuera d'augmenter régulièrement dans les années à venir. Le thème de la numérisation n'est pas encore complètement entré dans le secteur des soins. Norman Kolwitz raconte que pour les caisses de soins et d'assurance maladie, il faut actuellement encore établir une facture analogique, ce qui n'est pas dans l'air du temps. La numérisation est une étape importante et nécessaire et doit enfin arriver dans le secteur des soins. Norman Kolwitz souhaite faire œuvre de pionnier avec SeaTable et numériser enfin les processus.
 
-![Numérisation des processus dans les soins ambulatoires avec SeaTable](images/KD-Cura-pionarbeit-in-der-pflege.jpg)
+![Numérisation des processus dans les soins ambulatoires avec SeaTable](KD-Cura-pionarbeit-in-der-pflege.jpg)
 
 ## L'augmentation du personnel et le désir d'expansion nécessitent des structures et des processus clairs
 

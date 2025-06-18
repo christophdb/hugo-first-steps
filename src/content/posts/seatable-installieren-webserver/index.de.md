@@ -94,7 +94,7 @@ Das Vorgehen zur Einrichtung des HTTPS-Zugriffs hängt vom verwendeten SSL/TLS-Z
 
 Wenn Sie zur Mehrheit gehören und Ihr HTTPS-Zertifikat mittels Let’s Encrypt verwalten wollen, dann folgen Sie einfach den Instruktionen auf der [Certbot Webseite der Electronic Frontier Foundation](https://certbot.eff.org/).
 
-![certbot instructions generator](images/certbot_instructions_generator.png)
+![certbot instructions generator](certbot_instructions_generator.png)
 
 Im Falle von nginx auf Ubuntu 20.04 sind nur vier Befehle notwendig, um ein Let’s Encrypt SSL-Zertifikat zu beantragen und einzubinden:  
 `sudo snap install core; sudo snap refresh core   sudo snap install --classic certbot   sudo ln -s /snap/bin/certbot /usr/bin/certbot   sudo certbot --nginx`

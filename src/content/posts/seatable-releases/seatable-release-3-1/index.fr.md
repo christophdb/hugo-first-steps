@@ -18,13 +18,13 @@ Les nouvelles fonctionnalités sont disponibles dès maintenant sur [SeaTable Cl
 
 Le plugin de conception de pages remanié pourrait faire l'objet d'une publication à part entière, tant il est rempli de nouvelles fonctions dans SeaTable 3.1. Il y a la fonction d'impression de listes, les champs dynamiques, y compris l'en-tête et le pied de page, ainsi que la fonction de versionnement. La barre latérale du mode d'édition s'est ainsi considérablement remplie (voir illustration ci-dessous). Ah et les modèles du plug-in peuvent désormais être déplacés et triés dans l'aperçu. Mais maintenant, tout dans l'ordre.
 
-![Fonctionnalité d'impression de listes dans le plugin Page Design de SeaTable](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-List-Print.gif)
+![Fonctionnalité d'impression de listes dans le plugin Page Design de SeaTable](SeaTable-3.1-List-Print.gif)
 
 La nouvelle fonction d'impression de listes permet d'imprimer le contenu d'une vue sur papier ou dans un document PDF en un rien de temps et avec un design attrayant. Il suffit de faire glisser l'élément "Toutes les entrées de la vue" sur le modèle, de redimensionner l'espace réservé, de formater le tableau selon vos préférences et d'ajouter les autres éléments de la page comme le titre du document, le logo et la date. SeaTable s'occupe ensuite automatiquement de la mise en page du tableau et du saut de page lors de l'impression si les lignes de l'affichage choisi ne rentrent pas dans l'espace réservé. Pour cela, SeaTable complète autant de pages que nécessaire.
 
 Les champs dynamiques permettent désormais d'insérer très facilement des informations contextuelles sur une page. Concrètement, il s'agit de la date du jour, du modèle utilisé, de l'utilisateur actuel et du numéro de page. En termes d'utilisation, les champs dynamiques ne se distinguent pas des champs de texte statiques. Les options de mise en forme sont également identiques. Il suffit de faire glisser le champ sur les modèles, de le positionner correctement et de le formater - SeaTable s'occupe du reste.
 
-![En-tête de page dans le plugin Page Design de SeaTable](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-Page-Header.png)
+![En-tête de page dans le plugin Page Design de SeaTable](SeaTable-3.1-Page-Header.png)
 
 Les nouveaux en-têtes et pieds de page sont un complément idéal pour les éléments dynamiques. Les éléments qui y sont placés sont répétés sur chaque page, y compris bien sûr sur les pages que le plugin complète automatiquement lors de l'impression de listes. Et les éléments dynamiques ne sont pas les seuls à pouvoir être utilisés dans l'en-tête et le pied de page. Les deux champs de texte statique et d'image statique peuvent également être intégrés afin de doter les documents de méta-informations pertinentes.
 
@@ -36,13 +36,13 @@ Vous avez envie d'essayer le nouveau plugin de conception de pages ? Alors, alle
 
 Si vous vous inquiétiez jusqu'à présent que la limite de 100 000 lignes par base de SeaTable puisse vous poser des problèmes dans un avenir proche, vous avez désormais un souci de moins. Grâce au nouveau backend Big Data, vous pouvez stocker des millions de lignes dans une base SeaTable. SeaTable offre ainsi non seulement une limite de lignes bien plus élevée que ses concurrents directs, mais s'aventure également dans des régions jusqu'ici réservées aux bases de données SQL classiques. Si vous cherchez une base de données avec API REST, support de script intégré, automatisation et/ou front-end graphique avec collaboration en temps réel, ne cherchez plus.
 
-![Le backend Big data en action](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-Base-Stats-with-Big-Data.png)
+![Le backend Big data en action](SeaTable-3.1-Base-Stats-with-Big-Data.png)
 
 L'ancienne limite de taille était nécessaire car SeaTable devait charger entièrement une base dans la mémoire de travail pour travailler simultanément, ensemble dans une même base. Avec l'activation de la fonction Big Data, ce n'est plus le cas. La fonction Big Data divise les données dans une base : les jeux de données qui sont chargés automatiquement à l'ouverture d'une base et les jeux de données qui ne sont chargés qu'en cas de requête explicite - en français moderne on-demand -, par exemple lors d'un filtrage ou d'une analyse statistique sur tous les jeux de données. Si seules les données chargées automatiquement sont utilisées, même des millions d'enregistrements dans la mémoire des Big Data n'influencent pas les temps de chargement d'une base ou son besoin en mémoire.
 
 Grâce à cette division des données en deux, l'utilisateur gagne une énorme flexibilité supplémentaire. Il est possible de mettre en œuvre des projets collaboratifs dans lesquels les membres de l'équipe travaillent dans l'interface web, tout comme des applications à forte intensité de données avec une saisie automatisée des données. Étant donné que les jeux de données dans le stockage de données volumineuses ne supportent pas la collaboration en ligne, c'est-à-dire que les modifications apportées aux données ne sont pas poussées vers d'autres utilisateurs, mais ne sont visibles qu'après une nouvelle consultation, ce stockage est particulièrement adapté aux jeux de données sur lesquels aucun travail actif n'est effectué. Cela explique également pourquoi la version bêta de la fonction Big Data de SeaTable 2.3 était encore [appelée Archives]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}).
 
-![Big data view dans SeaTable 3.1](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-Filter-with-Big-Data.png)
+![Big data view dans SeaTable 3.1](SeaTable-3.1-Filter-with-Big-Data.png)
 
 Les enregistrements du Big Data Backend supportent tous les types de colonnes et peuvent être modifiés et supprimés, filtrés et regroupés. Les enregistrements peuvent également être déplacés entre le stockage normal et le stockage de données volumineuses. D'un autre côté, les possibilités de traitement des enregistrements Big Data restent, pour des raisons techniques, inférieures à celles du stockage normal. Il existe des restrictions notamment en ce qui concerne le partage, les automatisations et les plugins : les vues qui contiennent des données du Big Data Backend ne peuvent pas être partagées. De même, seul le plugin Statistiques peut traiter les jeux de données dans la mémoire Big Data. Tous les autres plugins ainsi que les automatisations ne peuvent utiliser que des vues normales. Les jeux de données Big Data ne peuvent pas non plus être liés. Si cela est nécessaire, ils doivent d'abord être déplacés dans la mémoire normale.
 
@@ -70,7 +70,7 @@ La mémoire Big Data doit être activée dans une base via les paramètres. Le t
 
 Pour les grandes équipes avec de nombreux utilisateurs, cela peut devenir un peu confus. Dans les bases, un grand nombre de vues se disputent l'attention et la page d'accueil rassemble des dizaines de groupes avec autant de bases, ce qui fait que l'on perd le focus sur l'essentiel.
 
-![Dossier de vues nouvellement introduit dans SeaTable 3.1](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-View-folders.png)
+![Dossier de vues nouvellement introduit dans SeaTable 3.1](SeaTable-3.1-View-folders.png)
 
 Dans Bases, la nouvelle version permet désormais de regrouper les vues dans des dossiers et de retrouver ainsi une certaine clarté. Vous créez un dossier de la même manière qu'une vue. Vous pouvez ensuite déplacer des vues dans le nouveau dossier par glisser-déposer. Lors de la création du premier dossier, un autre dossier "Plus de vues" est créé, dans lequel toutes les vues existantes sont classées.
 
