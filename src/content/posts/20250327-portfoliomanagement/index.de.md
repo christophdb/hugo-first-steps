@@ -164,7 +164,7 @@ Egal, ob als Privateigentümer, Unternehmen oder kommunale Wohnungsgesellschaft:
 
 [Hier erfahren Sie, wie Sie die Immobilienportfolio Vorlage von SeaTable gewinnbringend für sich nutzen.]({{< relref "templates/real-estate/property-management" >}})
 
-Weitere Informationen finden Sie entweder im Artikel [Hausverwaltung](https://seatable.io/hausverwaltung/) für private Eigentümer oder im Artikel [Liegenschaftsverwaltung](https://seatable.com/liegenschaftsverwaltung/) für Unternehmen und kommunale Träger.
+Weitere Informationen finden Sie entweder im Artikel [Hausverwaltung]({{< relref "posts/hausverwaltung" >}}) für private Eigentümer oder im Artikel [Liegenschaftsverwaltung]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}) für Unternehmen und kommunale Träger.
 
 ## Übersichtliches Portfoliomanagement mit SeaTable
 

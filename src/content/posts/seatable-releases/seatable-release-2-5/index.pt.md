@@ -18,7 +18,7 @@ Desde a introdução do arquivo como função beta na [versão 2.3,]({{< relref 
 
 A função de arquivo suporta agora todas as 24 colunas, incluindo os três tipos de coluna fórmula, link e fórmula para link. A falta de acesso por escrito aos dados do arquivo continua a ser uma limitação no SeaTable 2.5, mas estas três colunas são casos especiais: Os valores nas duas colunas de fórmula são calculados dinamicamente, dependendo da especificação da fórmula. Se uma fórmula for alterada, então os valores nas filas arquivadas são recalculados. Se o utilizador alterar a coluna de consulta numa fórmula para ligações, os dados arquivados reflectem esta alteração. O mesmo se aplica à coluna de ligação. Uma alteração na coluna de visualização ocorre igualmente em todo o conjunto de dados, incluindo o arquivo. Desta forma, os dados arquivados permanecem comparáveis com os dados não arquivados.
 
-![A visão revista do arquivo do SeaTable](https://seatable.io/wp-content/uploads/2021/11/archive-view.jpg)
+![A visão revista do arquivo do SeaTable](archive-view.jpg)
 
 SeaTable 2.5 também acrescenta uma função de impressão para vistas de arquivo e agora também permite a ocultação de colunas individuais em tal vista. Uma função de pesquisa e uma função de exportação Excel já foram implementadas no [SeaTable 2.4]({{< relref "posts/seatable-releases/seatable-release-2-4" >}}).
 
@@ -37,7 +37,7 @@ A operação Calcular Valores Acumulados calcula totais entre linhas para coluna
 
 Com toda a atenção dada às [integrações]({{< relref "pages/integrations" >}}) externas, não perdemos de vista as próprias automatizações do SeaTable. A inovação central é a ação " Run Python Script". Pode ser accionada pelos accionadores "Nova linha", "As entradas cumprem uma determinada condição após a alteração" e "Executar periodicamente". A execução automática de scripts Python para uma única linha ou para todo um conjunto de dados, utilizando um conjunto claro de regras, é quase uma superpotência!
 
-![Os guiões Python podem agora ser iniciados através da automatização.](https://seatable.io/wp-content/uploads/2021/11/python-script-durch-automation-511x448.jpg)
+![Os guiões Python podem agora ser iniciados através da automatização.](python-script-durch-automation-511x448.jpg)
 
 A ação existente "Bloquear linha" recebe o novo evento de disparo "Executar periodicamente para linhas que satisfazem uma determinada condição". Em combinação com os outros dois accionadores "Nova linha" e "As entradas cumprem determinadas condições após a alteração", o utilizador tem agora um controlo ótimo sobre o bloqueio automático de linhas.
 
@@ -47,7 +47,7 @@ Por fim, os dois eventos agendados "Executar periodicamente" e "Executar periodi
 
 Todos nós gostamos de uma escolha alargada! A nova coluna de classificação satisfaz exatamente este desejo de "mais". No SeaTable, a coluna de classificação oferece agora quatro estilos. Para além da estrela como ícone padrão, agora também pode escolher o coração, o polegar para cima ou a bandeira como ícone. Além disso, o ícone já não tem de ser cor de laranja.
 
-![A nova coluna de classificação no SeaTable 2.5](https://seatable.io/wp-content/uploads/2021/11/Bewertungsspalte.jpg)
+![A nova coluna de classificação no SeaTable 2.5](Bewertungsspalte.jpg)
 
 A coluna de Classificação revista não se refere apenas à estética, mas também à conveniência. Tal como com outras colunas numéricas, o SeaTable calcula agora valores agregados para colunas de classificação no fundo da tabela - mínimo, máximo, médio e total. Em vistas agrupadas, SeaTable também calcula valores agregados para os grupos individuais.
 

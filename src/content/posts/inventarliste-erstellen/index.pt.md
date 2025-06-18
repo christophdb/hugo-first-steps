@@ -19,7 +19,7 @@ Pode utilizar uma lista de inventário para registar as existências da sua empr
 
 Todos os comerciantes e todas as empresas que são obrigados a manter uma contabilidade por partidas dobradas devem efetuar um inventário. Este inventário deve ser efectuado aquando da abertura da empresa e após cada exercício financeiro. Trata-se de registar as existências e de elaborar um inventário.
 
-![Trabalhador de armazém utiliza o iPad com uma lista de inventário.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Trabalhador de armazém utiliza o iPad com uma lista de inventário.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
 
 Utilize uma lista de inventário digital para registar o seu stock. Direitos de imagem: tradol / Adobe Stock
 
@@ -46,7 +46,7 @@ Também faz diferença **quando** cria o seu inventário:
 - É por isso que existe também o **inventário extraviado**. Com esta forma de inventário, é possível efetuar o inventário de forma flexível num dia à escolha, que pode ser, no máximo, três meses antes ou dois meses depois da data do balanço. No entanto, como é necessário atualizar ou voltar a calcular as existências com base nas entradas e saídas da lista de inventário, o inventário adiado é menos exato do que o inventário em data fixada.
 - Em contrapartida, o **inventário permanente** é um processo contínuo com a vantagem de o esforço ser distribuído uniformemente ao longo do ano e de um inventário contabilístico ser suficiente à data do balanço. No entanto, é necessário proceder a um inventário físico de todos os activos uma vez por ano, a fim de comparar as existências reais com as existências contabilísticas. Em seguida, é necessário documentar com precisão todos os acréscimos e cessões na lista de inventário, a fim de atualizar as existências para efeitos contabilísticos.
 
-![O trabalhador do armazém faz o inventário em Excel.](images/Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
+![O trabalhador do armazém faz o inventário em Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
 Deve comparar regularmente a sua lista de inventário com as existências reais. Direitos de imagem: zephyr_p / Adobe Stock
 
@@ -70,7 +70,7 @@ Além disso, deve ser atribuído um **número único** a cada artigo logo que es
 
 Um exemplo de uma lista de inventário é uma tabela com estas colunas (clique na imagem para a aumentar):
 
-![Exemplo: Modelo para uma lista de inventário](images/Beispiel-Vorlage-fuer-eine-Inventarliste.png)
+![Exemplo: Modelo para uma lista de inventário](Beispiel-Vorlage-fuer-eine-Inventarliste.png)
 
 A sua lista de inventário pode ter o seguinte aspeto.
 
@@ -82,7 +82,7 @@ Um programa que muitas empresas já utilizam é o Excel. Aqui pode criar uma **l
 
 Se já tiver uma lista de inventário como modelo do Excel, pode utilizá-la várias vezes com apenas alguns cliques. Para tal, duplique o ficheiro existente antes de o abrir no Excel.
 
-![Excel para uma lista de inventário.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel para uma lista de inventário.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
 
 As folhas de cálculo do Excel são muito populares para listas de inventário. Direitos de autor: PixieMe / Adobe Stock
 
@@ -114,7 +114,7 @@ Para o fazer, abra um documento vazio, clique em Inserir e depois em Tabela. Tem
 
 Independentemente da opção escolhida, o usuário também decide no Word quais títulos de coluna são necessários para a lista de inventário (por exemplo, número de identificação, item, tipo, localização, quantidade e valor). Em seguida, introduz os seus activos manualmente. A lista pode ter o seguinte aspeto (clique na imagem para a aumentar):
 
-![Lista de inventário no Word](images/Inventarliste-in-Word.png)
+![Lista de inventário no Word](Inventarliste-in-Word.png)
 
 Exemplo de uma lista de inventário no Word
 
@@ -143,11 +143,11 @@ Os programas baseados na Web, como o SeaTable, permitem a **criação e gestão 
 
 Por exemplo, é possível evitar que uma **lista de inventário desactualizada** seja utilizada e actualizada em paralelo por diferentes colaboradores. Se, por exemplo, o departamento de contabilidade necessitar de informações da lista de inventário, pode obter a versão mais recente diretamente no SeaTable e não tem de esperar até que diferentes empregados tenham fundido as suas versões.
 
-Também é possível criar [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/) para o inventário a partir de quadros no SeaTable. Aí pode orientar os seus empregados no processo de inventário e dar-lhes instruções mais pormenorizadas sobre o que registar e o que procurar.
+Também é possível criar [formulários Web]({{< relref "help/base-editor/webformulare" >}}) para o inventário a partir de quadros no SeaTable. Aí pode orientar os seus empregados no processo de inventário e dar-lhes instruções mais pormenorizadas sobre o que registar e o que procurar.
 
-![Apresentar um item durante o inventário](images/Submit-an-item-during-inventory.gif)
+![Apresentar um item durante o inventário](Submit-an-item-during-inventory.gif)
 
-A **visualização** e **a avaliação** dos dados no SeaTable são ainda mais flexíveis e fáceis do que no Excel. Pode criar [estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/), utilizar [plugins](https://seatable.io/pt/docs/plugins/alle-plugins-in-der-uebersicht/) para visualização ou filtrar, ordenar e agrupar os dados utilizando vistas.
+A **visualização** e **a avaliação** dos dados no SeaTable são ainda mais flexíveis e fáceis do que no Excel. Pode criar [estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/), utilizar [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) para visualização ou filtrar, ordenar e agrupar os dados utilizando vistas.
 
 Por último, mas não menos importante, pode guardar **imagens** e **ficheiros**, como documentos PDF, no SeaTable. Pode incluir recibos de compras, facturas ou fotografias do estado atual durante o inventário na sua lista de existências.
 

@@ -17,7 +17,7 @@ En este artículo, puedes descubrir cómo funciona un bullet journal y lo que ne
 
 Un diario con viñetas le ayuda a organizar sus **Organizar la vida cotidiana** y controle todas sus tareas, citas y necesidades. El diario funciona como una combinación de agenda, planificador de proyectos y cuaderno. Además, ofrece espacio suficiente para acomodar los temas que desee. El bullet journal establece su **Creatividad** sin límites. Porque, a diferencia de los calendarios convencionales, no hay páginas ya hechas. Las diseñas tú mismo y las rellenas según tus propias ideas.
 
-![Este es el aspecto que puede tener un diario de viñetas con un resumen mensual y diario.](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
+![Este es el aspecto que puede tener un diario de viñetas con un resumen mensual y diario.](estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
 
 Personaliza tu bullet journal según tus deseos.
 
@@ -33,7 +33,7 @@ Este método de calendario fue inventado por el diseñador gráfico neoyorquino 
 
 Empezar con el bullet journaling es muy fácil. Todo lo que necesitas es un **Cuaderno** y un **Pluma**. Es una buena idea empezar con lo que tienes en casa. Puedes probar si el diario te gusta. Si te gusta y quieres ser más creativo, puedes comprar más herramientas.
 
-![Atentamente](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
+![Atentamente](estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
 Todo lo que te rodea se puede utilizar para diseñar.
 
@@ -45,7 +45,7 @@ Como ya se ha mencionado, la realización de sus propias ideas es primordial. No
 
 Se trata principalmente de **resumen de tiempos**en el que puede introducir sus tareas y citas. Además, hay **Colecciones**. Son páginas que sirven para tu desarrollo libre e individual. A continuación encontrarás una colección de ideas que puedes utilizar o en las que puedes inspirarte.
 
-![Su diario de viñetas debe contener los elementos Índice, Clave, Registro futuro, Registro mensual, Registro diario y Colectivos.](https://seatable.io/wp-content/uploads/2023/12/Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
+![Su diario de viñetas debe contener los elementos Índice, Clave, Registro futuro, Registro mensual, Registro diario y Colectivos.](Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
 
 Diseña tu diario según esta plantilla.
 
@@ -84,14 +84,14 @@ Muchas ideas pueden plasmarse en **listas**. Lo importante es que enumere cosas 
 
 **Los rastreadores** son probablemente el complemento más conocido del bullet journal. Ayudan a documentar las tareas habituales. Existen distintos tipos de marcadores:
 
-- **Habit Tracker**: Establece nuevos hábitos y deshazte de los malos. Puedes encontrar un artículo detallado sobre esto [aquí](https://seatable.io/es/habit-tracker-gewohnheiten-aendern/).
+- **Habit Tracker**: Establece nuevos hábitos y deshazte de los malos. Puedes encontrar un artículo detallado sobre esto [aquí]({{< relref "posts/habit-tracker" >}}).
 - **Seguimiento del estado de ánimo**: Registra cómo cambia tu estado de ánimo durante un periodo de tiempo más largo.
 - **Sleep Tracker**: Controla tus horas de sueño y lo bien que has dormido.
 - **Rastreador de agua**: Asegúrate de beber suficiente agua cada día para mantenerte sano.
 
 Otra forma de poner en práctica tus planes es establecer **objetivos**. Junto con los rastreadores, puedes hacer que tus objetivos sean medibles y ver tu progreso en cualquier momento. Entre los posibles objetivos se incluyen, por ejemplo, propósitos de Año Nuevo como un objetivo de ahorro o mejorar tus notas.
 
-![El registro de hábitos es un complemento muy popular del diario de viñetas.](https://seatable.io/wp-content/uploads/2023/12/prophsee-journals-WI30grRfBnE-unsplash-01.jpg)
+![El registro de hábitos es un complemento muy popular del diario de viñetas.](prophsee-journals-WI30grRfBnE-unsplash-01.jpg)
 
 El registro de hábitos es un complemento muy popular del diario de viñetas.
 
@@ -107,7 +107,7 @@ La razón principal para que la mayoría de la gente empiece a llevar un diario 
 
 Tus ideas, tu bullet journal. Se adapta a tus **necesidades** y no tiene por qué seguir un patrón fijo. Puedes utilizarlo para organizar tus citas y tareas diarias. Las herramientas integradas, como el calendario o la lista de tareas, son adecuadas para ello. Al mismo tiempo, también puedes ser creativo y dejar volar tu imaginación en las colecciones.
 
-![La imagen muestra que es posible combinar contenidos creativos con contenidos prácticos en el bullet journal.](https://seatable.io/wp-content/uploads/2023/12/pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
+![La imagen muestra que es posible combinar contenidos creativos con contenidos prácticos en el bullet journal.](pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
 
 Combine funcionalidad con creatividad.
 

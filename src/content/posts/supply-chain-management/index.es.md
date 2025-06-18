@@ -53,13 +53,13 @@ SeaTable crea un lugar donde toda la información puede converger. Esto le permi
 
 En SeaTable puede introducir y seguir a sus proveedores en unos pocos pasos. Al crear una nueva línea se crea automáticamente un ID de proveedor. Sólo tiene que introducir el nombre del proveedor, la dirección, la dirección de correo electrónico, el sitio web, el proveedor de servicios de envío y la categoría de los productos. La hoja de cálculo está vinculada a las otras hojas de cálculo "Maestro de artículos" y "Mercancías entrantes". Esto le permite intercambiar permanentemente información o sincronizar entre las distintas hojas de cálculo para estar siempre al día.
 
-![SCM - Proveedores](https://seatable.de/wp-content/uploads/2021/10/Supplier.jpg)
+![SCM - Proveedores](Supplier.jpg)
 
 Sus proveedores en SeaTable
 
 En la hoja de cálculo "Tiendas", tiene la opción de introducir todas sus diferentes tiendas con la información más importante, como el nombre de la tienda individual, la dirección, el gerente de la tienda y la dirección de correo electrónico. Los datos también van directamente al complemento de mapas. Esto significa que siempre tendrá una visión general de todas sus sucursales.
 
-![SCM - Tiendas](https://seatable.de/wp-content/uploads/2021/10/Stores.jpg)
+![SCM - Tiendas](Stores.jpg)
 
 Vigilar todas las ramas
 
@@ -67,13 +67,13 @@ Vigilar todas las ramas
 
 Registre su flujo de mercancías fácilmente a través de un formulario web al que dará acceso a sus empleados responsables.
 
-![SCM - Entrada de mercancías](https://seatable.de/wp-content/uploads/2021/10/Webformular_Inc.jpg)
+![SCM - Entrada de mercancías](Webformular_Inc.jpg)
 
 Registro de la entrada de mercancías en SeaTable
 
 En la hoja de cálculo "Entrada de mercancías", todo gira en torno a la recepción de las mercancías pedidas al proveedor. A través del formulario web, su empleado de almacén introduce toda la información relevante, como el nombre del artículo, el proveedor de servicios de envío con el que llegó la mercancía, el estado de la misma, el ID de seguimiento, así como la cantidad entregada y el lugar de almacenamiento. Además, el cliente tiene la opción de introducir notas sobre el estado de la mercancía dañada. Los datos registrados pasan directamente a su tabla SeaTable. El ID de entrega interno y la persona que introdujo el pedido se generan automáticamente en SeaTable. La información, como el ID interno del artículo o el número EAN, se toma directamente de las hojas de cálculo "Maestro de artículos" y "Proveedores" mediante una [columna de enlace](https://seatable.io/es/docs/handbuch/seatable-nutzen/feld-typen/) y una fórmula, lo que reduce enormemente el proceso manual.
 
-![SCM - Entrada de mercancías](https://seatable.de/wp-content/uploads/2021/10/Incoming-goods.jpg)
+![SCM - Entrada de mercancías](Incoming-goods.jpg)
 
 Su entrada de mercancías en SeaTable
 
@@ -81,13 +81,13 @@ Por cierto: puede ver el estado de la mercancía directamente con un solo vistaz
 
 Cuando sus sucursales hacen pedidos o encargan mercancías de salida, también pueden pedir cómodamente los productos necesarios a través de un formulario web. Para ello, las distintas sucursales sólo tienen que seleccionar su propia tienda, el artículo deseado y la cantidad a entregar. La hoja de trabajo "Mercancías salientes" está vinculada a las hojas de trabajo "Tiendas" y "Maestro de artículos", de modo que se añade automáticamente información como la dirección de correo electrónico de la tienda y otros datos sobre los artículos.
 
-![SCM - pedido](https://seatable.de/wp-content/uploads/2021/10/Webformular_order.jpg)
+![SCM - pedido](Webformular_order.jpg)
 
 Pida cómodamente a través del formulario web
 
 Ahora tiene la opción de programar el envío e informar a la tienda correspondiente con sólo pulsar un botón de que el pedido está en camino. Para ello, sólo tiene que introducir la fecha de envío, el proveedor de servicios de envío y el número de envío. Al hacer clic en el botón "Enviar" de la columna "Información de envío a la tienda", se enviará el mensaje predefinido. Tenga en cuenta que tiene que introducir su cuenta de correo electrónico para ello.
 
-![SCM - Salida de mercancías](https://seatable.de/wp-content/uploads/2021/10/Outgoing-goods.jpg)
+![SCM - Salida de mercancías](Outgoing-goods.jpg)
 
 Su salida de mercancías en SeaTable
 
@@ -95,7 +95,7 @@ Puede personalizar el contenido del mensaje según sus deseos y en unos pocos cl
 
 Por cierto, con la ayuda del complemento Kanban, puede clasificar fácilmente los pedidos según el respectivo proveedor de servicios de envío o ver el estado de las respectivas mercancías entregadas. Esto le ayuda a tomar decisiones significativas aún más rápido.
 
-![SCM - Kanban](https://seatable.de/wp-content/uploads/2021/10/Kanban.jpg)
+![SCM - Kanban](Kanban.jpg)
 
 Vista de Kanban en SeaTable
 
@@ -103,7 +103,7 @@ Vista de Kanban en SeaTable
 
 El corazón de esta plantilla es la hoja de cálculo "Article Master". Aquí es donde se reúne toda la información de todas las hojas de cálculo. De este modo, el gestor de la cadena de suministro tiene la posibilidad de crear y mantener los productos, dotarlos de una identificación automática continua de los artículos, números EAN e imágenes de los productos y, al mismo tiempo, procesar, analizar y optimizar todo su proceso de almacenamiento.
 
-![SCM - Maestro de artículos](https://seatable.de/wp-content/uploads/2021/10/Article_Master.jpg)
+![SCM - Maestro de artículos](Article_Master.jpg)
 
 Toda la información sobre su mercancía de un vistazo
 
@@ -117,7 +117,7 @@ Con un solo vistazo a la línea, puede ver directamente en las marcas de colores
 
 Para que usted también tenga a la vista todas las cifras relevantes y pueda tomar rápidamente decisiones significativas, es importante crear un lugar que prepare estas cifras para usted de forma estructurada y que al mismo tiempo las muestre gráficamente.
 
-![SCM - Estadísticas](https://seatable.de/wp-content/uploads/2021/10/Statistics.jpg)
+![SCM - Estadísticas](Statistics.jpg)
 
 Su tablero SCM en SeaTable
 

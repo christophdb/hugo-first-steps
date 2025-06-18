@@ -24,7 +24,7 @@ Let's start with a definition. SWOT stands for
 - Opportunities - chances
 - Threats - Risks
 
-![Management consultant looking for a new template for a SWOT analysis example on his laptop.](images/Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
+![Management consultant looking for a new template for a SWOT analysis example on his laptop.](Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
 
 SWOT analysis © everythingpossible / Adobe Stock
 
@@ -38,7 +38,7 @@ In the SWOT analysis, you **take stock of your company or team in the form of a 
 
 In the second step, you derive **strategic recommendations for action** from the inventory. What do you need to do when opportunities meet weaknesses or risks meet strengths?
 
-![Graphical representation of a SWOT matrix as a template for a SWOT analysis.](images/Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Graphical representation of a SWOT matrix as a template for a SWOT analysis.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
 
 SWOT analysis example © r0b\_ / Adobe Stock
 
@@ -79,9 +79,9 @@ When looking at the external factors in a SWOT analysis example, you should bear
 
 You should also choose a [SWOT analysis template]({{< relref "templates/operations/swot-analysis" >}}) to make your work easier. The analysis starts with choosing the right tool, and you should also think about putting together the right team.
 
-[Taking stock](https://seatable.io/en/inventarliste-vorlagen/) requires a lot of time. Who can you release for the meetings and workshops? You also need expertise from different departments. **Which colleagues have an insight into the strengths, weaknesses, opportunities and risks of your company and business environment?** Ideally, you should put together a team of ten employees.
+[Taking stock]({{< relref "posts/inventarliste-erstellen" >}}) requires a lot of time. Who can you release for the meetings and workshops? You also need expertise from different departments. **Which colleagues have an insight into the strengths, weaknesses, opportunities and risks of your company and business environment?** Ideally, you should put together a team of ten employees.
 
-![A team talks about a new SWOT analysis example.](images/Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
+![A team talks about a new SWOT analysis example.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
 
 A team talks about a SWOT analysis example © weedezign / Adobe Stock
 

@@ -20,11 +20,11 @@ También hemos actualizado los plugins a Webpack 5 y actualizado el framework a 
 
 ## Nuevo diálogo y enlaces definidos por el usuario para formularios web
 
-Para compartir sus [formularios web](https://seatable.io/es/docs/webformulare/webformulare/) con otros usuarios, antes había dos cuadros de diálogo diferentes: uno en el que podía copiar un **enlace generado automáticamente** y otro en el que podía ampliar este enlace con [valores rellenados previamente](https://seatable.io/es/docs/webformulare/formularfelder-per-url-vorbefuellen/). Ahora hemos combinado estas opciones en un único cuadro de diálogo para aumentar la facilidad de uso.
+Para compartir sus [formularios web]({{< relref "help/base-editor/webformulare" >}}) con otros usuarios, antes había dos cuadros de diálogo diferentes: uno en el que podía copiar un **enlace generado automáticamente** y otro en el que podía ampliar este enlace con [valores rellenados previamente](https://seatable.io/es/docs/webformulare/formularfelder-per-url-vorbefuellen/). Ahora hemos combinado estas opciones en un único cuadro de diálogo para aumentar la facilidad de uso.
 
 También hemos añadido la nueva opción de crear **URL personalizadas** para formularios web. Después puedes editarlas, guardarlas como código QR, copiarlas o eliminarlas.
 
-![Nuevo diálogo de enlace de formularios en SeaTable 4.3](images/Formularlink-Dialog.gif)
+![Nuevo diálogo de enlace de formularios en SeaTable 4.3](Formularlink-Dialog.gif)
 
 {{< warning headline="Nota" text="La parte definida por el usuario que se añade al enlace debe tener **entre 5 y 30 caracteres** y sólo puede contener **letras**, **números** y **guiones**. Además, cada URL debe ser única: Si una URL definida por el usuario ya está en uso, aparece un mensaje de error." />}}
 
@@ -39,7 +39,7 @@ Antes, en SeaTable sólo podía [crear documentos PDF](https://seatable.io/es/do
 
 Puede utilizar las **notificaciones de la** aplicación para informar a los usuarios de una aplicación sobre los cambios en los registros de datos relevantes, por ejemplo. Esta acción puede [activarse](https://seatable.io/es/docs/automationen/automations-trigger/) mediante los cuatro [eventos desencadenantes](https://seatable.io/es/docs/automationen/automations-trigger/).
 
-![Enviar notificación de aplicación](images/App-Benachrichtigung-senden.png)
+![Enviar notificación de aplicación](App-Benachrichtigung-senden.png)
 
 Los usuarios de la aplicación correspondiente pueden acceder a sus notificaciones a través del icono de campana {{< seatable-icon icon="dtable-icon-notice" >}} situado junto a su avatar en la esquina superior derecha.
 
@@ -49,7 +49,7 @@ En la [columna](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalte-
 
 Esta funcionalidad es especialmente útil en la aplicación universal. Puede activar la opción de que los miembros del equipo sean visibles para todos los usuarios en la lista desplegable de los [ajustes de](https://seatable.io/es/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) la app Universal. Si no quieres que los usuarios puedan ver los registros de datos de otros, establece **filtros preestablecidos**: si una página se filtra por columna de empleado con la condición "incluye al usuario actual", cada usuario de la app universal solo verá las entradas que se le asignen en la tabla.
 
-![Columna de empleados en la aplicación universal](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)
+![Columna de empleados en la aplicación universal](Mitarbeiter-Spalte-in-der-Universellen-App.gif)
 
 ## Nuevas mejoras de la aplicación universal
 
@@ -59,11 +59,11 @@ Una novedad de la aplicación universal es la [función de comentarios](https://
 
 En la [página individual](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), le esperan dos nuevos elementos: el **contenedor** y el **mapa**. El contenedor proporciona una cuadrícula con la que puede organizar otros elementos (textos, imágenes, estadísticas) más fácilmente y agruparlos.
 
-![Elemento contenedor en página personalizada en SeaTable 4.3](images/Container-element-on-custom-page.png)
+![Elemento contenedor en página personalizada en SeaTable 4.3](Container-element-on-custom-page.png)
 
 La tarjeta, que combina una imagen, un titular y un texto en una plantilla de diseño, también garantiza un bonito diseño de página.
 
-![Elemento tarjeta en página personalizada en SeaTable 4.3](images/Card-element-on-custom-page.png)
+![Elemento tarjeta en página personalizada en SeaTable 4.3](Card-element-on-custom-page.png)
 
 Además, el **color de fondo** de las páginas individuales se puede configurar como se desee desde SeaTable 4.3 y se ha corregido la superposición no deseada de elementos. El diseño general de la aplicación universal también se presenta ahora en un color uniforme en todas las páginas, que se puede seleccionar en la [configuración global](https://seatable.io/es/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
 
@@ -85,7 +85,7 @@ Si utiliza las dos aplicaciones que expiran, le recomendamos que reconstruya sus
 
 Si [envía correos electrónicos mediante automatización](https://seatable.io/es/docs/beispiel-automationen/e-mail-versand-per-automation/), antes sólo podía introducir el mensaje como **texto sin formato** en el campo de texto. A partir de SeaTable 4.3, es posible redactar los mensajes en **formato de texto enriquecido o HTML** mediante botones, igual que al enviar correos electrónicos. Para ello, basta con activar el control deslizante situado a la derecha, encima del campo de texto.
 
-![Texto enriquecido en mensajes de correo electrónico automatizados](images/Rich-text-in-automated-e-mail-messages.png)
+![Texto enriquecido en mensajes de correo electrónico automatizados](Rich-text-in-automated-e-mail-messages.png)
 
 Si desea utilizar **autorizaciones de columna** para proteger los valores de cambios no deseados, en el futuro podrá definirlo con mayor precisión. Además de _usuarios específicos_, _administradores_ y _nadie_, ahora también se puede optar por **determinados grupos**.
 

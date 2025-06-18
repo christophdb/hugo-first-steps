@@ -12,7 +12,7 @@ seo:
 
 A maioria das empresas toma medidas para permitir o trabalho a partir de casa e organiza seminários em linha ou outros eventos para os seus empregados, para além das opções de escritório em casa. Mas: começa-se a sentir a falta até do colega mais chato e a conversa na máquina de café também desaparece. Com uma equipa que trabalha quase exclusivamente à distância, é por vezes difícil manter-se atualizado e, consequentemente, [a produtividade](https://seatable.io/pt/homeoffice-tipps/) é muitas vezes [prejudicada](https://seatable.io/pt/homeoffice-tipps/). Felizmente, existe um método que o pode ajudar a recuperar a sua produtividade à distância. Com stand-ups diários, pode melhorar a produtividade da sua equipa num instante.
 
-![A produtividade sofre com a incapacidade de manter a comunicação informal](https://seatable.de/wp-content/uploads/2021/04/Bildschirmfoto-2021-04-21-um-14.59.01.png)
+![A produtividade sofre com a incapacidade de manter a comunicação informal](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 
 [Fonte da imagem](https://www.odgersberndtson.com/media/9459/sonderausgabe-managerbarometer-corona.pdf)
 
@@ -56,7 +56,7 @@ Deve ter-se cuidado com a terceira pergunta. É aqui que existe o maior potencia
 
 É aqui que as reuniões em linha têm finalmente uma vantagem. Quando se trata de chegar a horas, tem menos razões para chegar atrasado a casa porque não tem de se mudar fisicamente para uma sala de reuniões. Em geral, deve ainda estabelecer uma cultura empresarial na qual se torne padrão chegar a tempo (se não um pouco cedo) para a reunião.
 
-![Manter um olho no tempo](https://seatable.io/wp-content/uploads/2020/07/sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
+![Manter um olho no tempo](sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
 
 O início tardio das reuniões é na realidade uma queixa muito comum do pessoal em geral. Há igualmente queixas sobre o momento errado de uma reunião. Ou leva demasiado tempo ou está programado para ser demasiado curto. Começar a tempo e terminar a tempo - mesmo que alguém apareça tarde.
 

@@ -17,7 +17,7 @@ Are you celebrating your birthday soon or want to plan a birthday party for your
 
 The first steps for a birthday party are best planned about **eight weeks** in advance. The first thing to do is to set the basic cornerstones.
 
-![Step 1: The framework of your birthday party](images/Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
+![Step 1: The framework of your birthday party](Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
 
 ## Schedule a birthday party
 
@@ -25,7 +25,7 @@ Before you start planning the details of your party, you first need to find a da
 
 If you are planning a **children's birthday** party, an afternoon during the week is equally suitable for the party. If the birthday child and the majority of the guests are adults, the party can take place in the evening and go into the night. In addition, when choosing a suitable date, take into account the public holidays and ask early the availability of your closest friends and relatives.
 
-![Plan a children's birthday party](images/pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
+![Plan a children's birthday party](pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
 
 ## Create guest list for your birthday party
 
@@ -51,7 +51,7 @@ One of the most important points of your party is the location where you will ha
 
 Choosing a suitable location often turns out to be challenging, as you have seemingly endless options at the beginning. However, take into account that the location should not only suit your guests, but also the weather conditions of the **season** and, if applicable, the theme of your party. Therefore, first make a list of criteria that the potential venue must meet. Also think about having the party in your own home, outdoors or in a public place. This will save you the cost of **renting** a venue and allow you to allocate your budget elsewhere. If you still decide to go with an outside venue, you can narrow down the choices considerably based on the criteria you set up.
 
-![Unusual locations for a birthday party](images/marvin-meyer-cjhuXRtRT0Y-unsplash.jpg)
+![Unusual locations for a birthday party](marvin-meyer-cjhuXRtRT0Y-unsplash.jpg)
 
 Extraordinary location for a birthday party: rent a cottage for a pool party.
 
@@ -70,7 +70,7 @@ Lovely invitation cards are a great way to announce in advance not only the date
 
 Once the key points of your birthday party have been clarified, it's time to take care of the concrete details of your party. Timely planning pays off especially in this step. Therefore, you should take care of basic things like catering and music at least one month before your party.
 
-![Step 2: The details of your birthday party](images/Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
+![Step 2: The details of your birthday party](Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
 
 ## Plan catering for a birthday party
 
@@ -95,7 +95,7 @@ Especially for larger parties, it saves you a lot of time and stress to hire a c
 - Pizza and pasta
 - Cakes and desserts
 
-![Buffet for a birthday party](images/brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
+![Buffet for a birthday party](brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
 
 ### Ask your guests for help
 
@@ -109,7 +109,7 @@ After you have taken care of the catering, you should also promptly deal with th
 
 If your venue has great-sounding speakers, you can easily set the party mood yourself with a suitable playlist. For an unforgettable experience, you can also hire a live band or DJ to heat up the atmosphere and get your guests dancing. Maybe you have a musician or a DJ in your circle of friends and can save the costs of hiring an external person.
 
-![A live band is a highlight for any big party](images/music-hq-Cknyec2RnrE-unsplash.jpg)
+![A live band is a highlight for any big party](music-hq-Cknyec2RnrE-unsplash.jpg)
 
 A live band is a highlight for any big birthday party.
 
@@ -133,7 +133,7 @@ In addition to the decoration, you should also think about sufficient equipment 
 
 Your birthday party is getting closer and closer and you have already sorted out all the details? Then about a week before your party it is high time to start with the final preparations for your unforgettable day.
 
-![Step 3: The final preparations for your birthday party](images/1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
+![Step 3: The final preparations for your birthday party](1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
 
 ### Final preparations and errands
 

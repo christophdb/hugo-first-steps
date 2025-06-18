@@ -15,7 +15,7 @@ La Navidad está a la vuelta de la esquina y a usted le gustaría obsequiar a su
 
 Ya sea un gran gesto o una pequeña muestra de agradecimiento, a todo el mundo le gusta recibir un regalo. Pero no siempre tiene por qué ser un regalo en forma de objeto material o vale. Hacer un regalo va más allá de lo material y puede adoptar muchas formas.
 
-![He aquí cinco ideas de lo que podría regalar a sus clientes y empleados durante el periodo navideño.](https://seatable.io/wp-content/uploads/2024/08/Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
+![He aquí cinco ideas de lo que podría regalar a sus clientes y empleados durante el periodo navideño.](Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
 
 ¿Qué idea harás realidad estas Navidades?
 
@@ -33,7 +33,7 @@ Muchas organizaciones de ayuda e instituciones sociales aprecian tu contribució
 
 ¿Chocolate, pero con pep? No se preocupe. Diseñe un calendario de Adviento para sus empleados y clientes con el logotipo de su empresa o añada mensajes personalizados.
 
-![Los pralinés de chocolate numerados son un delicioso calendario de Adviento casero.](https://seatable.io/wp-content/uploads/2024/08/markus-spiske-MxjnYEqAfVA-unsplash-1-scaled-e1722848744903-711x620.jpg)
+![Los pralinés de chocolate numerados son un delicioso calendario de Adviento casero.](markus-spiske-MxjnYEqAfVA-unsplash-1-scaled-e1722848744903-711x620.jpg)
 
 Sea cual sea su forma, ¡el chocolate siempre sabe bien!
 
@@ -47,7 +47,7 @@ Si sólo quieres confeccionar un calendario de Adviento para determinadas person
 
 Una gran alternativa al clásico calendario de Adviento analógico es la versión digital. Puedes llenar el calendario de Adviento online de tu empresa con fotos, vídeos o citas navideñas y enviarlo a tus empleados y clientes a través de un enlace como regalo de Navidad.
 
-![Calendario de Adviento para empresas](images/Enterprise-Advent-Calendar.png)
+![Calendario de Adviento para empresas](Enterprise-Advent-Calendar.png)
 
 El equipo de SeaTable ha creado para usted [una plantilla]({{< relref "templates/events/advent-calendar" >}}) que podrá personalizar según sus necesidades. Dale un toque personal al calendario y espera con impaciencia las caras de asombro de tus empleados cuando descubran cada día una nueva sorpresa detrás de una de las puertecitas.
 
@@ -57,7 +57,7 @@ Si desea utilizar SeaTable para crear un calendario de Adviento en línea, sólo
 
 Compaginar el espíritu navideño con el trabajo es todo un reto. Al fin y al cabo, una visita al mercado navideño o una partida de patinaje sobre hielo son mucho más tentadoras que pasarse todo el día en la oficina. Ahora te toca a ti llevar el espíritu **navideño** a tu empresa.
 
-![Varios cuadernos con diseño de logotipo personalizado de Leuchtturm1917.](images/header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
+![Varios cuadernos con diseño de logotipo personalizado de Leuchtturm1917.](header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
 
 Cuadernos personalizados con logotipo en relieve de LEUCHTTURM1917.
 
@@ -72,7 +72,7 @@ Un **regalo hecho en casa** da mucha alegría porque demuestra que se ha inverti
 
 - **Tarjeta de felicitación**: la clásica tarjeta navideña. Diseñe la tarjeta navideña de su empresa con un motivo emocionante y un mensaje personal. ¿O qué tal un poema escrito por usted mismo o una dedicatoria personal? Convierta su tarjeta de felicitación en la más bonita de las mesas de sus clientes y empleados.
 
-![Las tarjetas de Navidad caseras se hacen con mucho cariño.](https://seatable.io/wp-content/uploads/2024/08/pexels-jonathanborba-3358727-e1722852690526-711x536.jpg)
+![Las tarjetas de Navidad caseras se hacen con mucho cariño.](pexels-jonathanborba-3358727-e1722852690526-711x536.jpg)
 
 Su imaginación no tiene límites.
 
@@ -85,7 +85,7 @@ El **tiempo juntos** es el mejor regalo para muchos, sobre todo en la a menudo e
 
 Visitar juntos el mercado navideño o hacer galletas por la noche ayuda a conocerse mejor y refuerza el espíritu de equipo a largo plazo. Y, por supuesto, no puede faltar una fiesta de Navidad. [Aquí](https://seatable.io/es/weihnachtsfeier/) encontrará información sobre cómo organizarla con éxito.
 
-![Una visita al mercado navideño invita a charlar y curiosear.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-22-1-e1722859187769-711x730.png)
+![Una visita al mercado navideño invita a charlar y curiosear.](Design-ohne-Titel-22-1-e1722859187769-711x730.png)
 
 Aquí encontrará el mejor ambiente navideño.
 
@@ -102,7 +102,7 @@ El tiempo, el dinero y el trabajo que quiera dedicar a planificar los regalos de
 - **Cheques regalo:** Los cheques regalo son un regalo navideño muy popular entre empleados y clientes. Sin embargo, sólo están sujetos al límite de exención fiscal si, además del valor máximo de 50 euros, cumplen otros tres criterios. Las tarjetas regalo sólo pueden autorizar la compra de bienes y servicios y sólo pueden utilizarse en un número reducido de comercios. También hay que tener en cuenta que _, en cualquier caso,_ los vales deben expedirse _además de los salarios adeudados_.
 - **Eventos personales:** Si uno de sus empleados cumple años o celebra un aniversario importante de la empresa, la indemnización asciende a 60 euros. Sin embargo, esto no se aplica a la Navidad, ya que **no** cuenta como acontecimiento personal.
 
-![Empleados y superiores se alegran de una fiesta de Navidad en la empresa.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-25-e1722846043336-711x493.png)
+![Empleados y superiores se alegran de una fiesta de Navidad en la empresa.](Design-ohne-Titel-25-e1722846043336-711x493.png)
 
 Todavía hay que tener en cuenta algunas cosas en las fiestas de Navidad...
 

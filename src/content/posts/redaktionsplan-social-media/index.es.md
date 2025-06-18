@@ -18,7 +18,7 @@ Para lograr un éxito mensurable en las plataformas de medios sociales, es neces
 
 Un plan de redes sociales te permite hacer un **seguimiento de tus canales de redes sociales**. Más concretamente, puedes utilizar un plan editorial de redes sociales para registrar **quién, qué, cuándo y dónde deben hacerse las publicaciones**. Si utilizas una herramienta centralizada para las publicaciones en redes sociales, podrás trabajar de forma más eficaz con tus compañeros, ya que todos los miembros del equipo pueden ver en todo momento el estado actual. Así te resultará **más fácil distribuir las tareas** y seguir cumpliendo las directrices de diseño corporativo para crear publicaciones en las redes sociales a partir de un único molde.
 
-![El empleado de marketing utiliza la plantilla del plan de redes sociales para tener una visión general de las publicaciones.](https://seatable.io/wp-content/uploads/2022/06/Social-Media-Plan-Vorlage_AdobeStock_237523368_bearbeitet-711x474.jpg)
+![El empleado de marketing utiliza la plantilla del plan de redes sociales para tener una visión general de las publicaciones.](Social-Media-Plan-Vorlage_AdobeStock_237523368_bearbeitet-711x474.jpg)
 
 Un plan editorial para las redes sociales garantiza procesos estructurados y una presencia normalizada. Derechos de imagen: © Urupong / Adobe Stock
 
@@ -32,7 +32,7 @@ La siguiente ventaja de un plan de contenidos para redes sociales es que puedes 
 
 Debería ser posible visualizar el plan editorial en un calendario. Esto le permite planificar con mucha antelación **en qué fechas y con qué intervalos desea publicar**. Por ejemplo, anote los días festivos o eventos importantes para los que desee publicar contenidos. Cualquiera que produzca regularmente contenidos para canales de medios sociales sabe lo **importante que es un plan editorial bien estructurado para que los flujos de trabajo sean fluidos**.
 
-![Plantilla de plan de redes sociales](https://seatable.io/wp-content/uploads/2022/06/Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg)
+![Plantilla de plan de redes sociales](Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg)
 
 Planifica las fechas de tus posts en un calendario. Derechos de imagen: © mizar_21984 / Adobe Stock
 
@@ -54,7 +54,7 @@ Antes de empezar con el concepto para su plan editorial de medios sociales, debe
 4. ¿Se trata de publicaciones orgánicas o de campañas más amplias en las redes sociales?
 5. ¿Cuántos miembros del equipo deben colaborar en el plan editorial de las redes sociales?
 
-![Posibles plataformas para su plan de contenidos en las redes sociales](https://seatable.io/wp-content/uploads/2022/06/Social-Media-Plan_card.jpg)
+![Posibles plataformas para su plan de contenidos en las redes sociales](Social-Media-Plan_card.jpg)
 
 ¿Qué redes sociales utiliza?
 

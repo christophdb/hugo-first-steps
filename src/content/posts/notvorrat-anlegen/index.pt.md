@@ -23,7 +23,7 @@ O que pode significar ter de recorrer à constituição de reservas de emergênc
 
 Mesmo com a alimentação diária, é normalmente difícil agradar a todos. O mesmo se aplica à escolha da alimentação de emergência. Especialmente se estiver a armazenar alimentos de emergência para várias pessoas, deve ter em conta os hábitos alimentares de cada um. Da mesma forma, é necessário planear as **alergias** e **intolerâncias**, bem como os alimentos especiais para crianças pequenas ou animais de estimação. Não tente comprar alimentos desconhecidos que podem não ser do agrado de ninguém numa emergência. Confie nos alimentos que gosta de comer e que pode transformar em pratos variados.
 
-![Fazer compras com a família para que todos fiquem satisfeitos com a reserva de emergência.](https://seatable.io/wp-content/uploads/2023/09/pexels-gustavo-fring-3985062-min-1-min-711x474.jpg)
+![Fazer compras com a família para que todos fiquem satisfeitos com a reserva de emergência.](pexels-gustavo-fring-3985062-min-1-min-711x474.jpg)
 
 Fazer compras em conjunto ajuda a levar apenas alimentos que serão consumidos.
 
@@ -31,7 +31,7 @@ Fazer compras em conjunto ajuda a levar apenas alimentos que serão consumidos.
 
 Certifique-se de que a dieta não se torna demasiado unilateral e de que ingere uma quantidade suficiente **de nutrientes**. Estes consistem em hidratos de carbono, gorduras, proteínas, vitaminas e minerais, que fornecem energia ao corpo. Para além disso, as necessidades calóricas devem ser cobertas. Uma vez que esta varia de pessoa para pessoa, quer seja devido à idade ou à atividade desportiva, deve determiná-la previamente. Para o efeito, estão disponíveis [calculadoras de calorias em linha](https://www.esn.com/pages/kalorienrechner).
 
-![Os alimentos mais importantes do seu stock de emergência num relance.](https://seatable.io/wp-content/uploads/2023/09/Notvorratsliste-1-e1695036643833-711x1101.png)
+![Os alimentos mais importantes do seu stock de emergência num relance.](Notvorratsliste-1-e1695036643833-711x1101.png)
 
 Os alimentos mais importantes em resumo
 
@@ -47,7 +47,7 @@ A propósito, não precisa apenas de água potável, mas também de **água de s
 
 Para que não tenha de compilar o seu stock de raiz uma e outra vez, deve concentrar-se principalmente nos **alimentos de longa duração** quando os compra. No entanto, existe também a possibilidade de fazer com que os seus pratos caseiros favoritos durem mais tempo com alguns truques simples. Pode **congelá-los** (no caso de um apagão, terá de os comer primeiro) ou pode ferver os alimentos. Mas atenção: há muito a ter em conta quando se trata de **conservar**. Com a ajuda de um [guia](https://www.oma-kocht.de/wie-einkochen-anleitung-einsteiger-einwecken/), pode fazê-lo corretamente à primeira. Ao armazenar os alimentos em embalagens herméticas, num local fresco, seco e escuro, aumenta o seu prazo de validade.
 
-![Para além dos alimentos enlatados e conservados, os alimentos em conserva também devem fazer parte das suas reservas de emergência](https://seatable.io/wp-content/uploads/2023/09/cans-881098_640.jpg)
+![Para além dos alimentos enlatados e conservados, os alimentos em conserva também devem fazer parte das suas reservas de emergência](cans-881098_640.jpg)
 
 Outra forma de conservar os alimentos é fazer pickles.
 
@@ -61,7 +61,7 @@ Para evitar que os alimentos armazenados ultrapassem o prazo de validade e se to
 
 Continue a construir o seu stock peça por peça. Não é necessário comprar tudo de uma vez. Quando for às compras, habitue-se a levar mais um pacote de alimentos não perecíveis do que levaria de outra forma. É claro que, durante as **campanhas de desconto**, também pode atacar e comprar quantidades maiores. Desta forma, poupa dinheiro e está perfeitamente preparado para tudo ao mesmo tempo. No entanto, certifique-se de que compra apenas o que a sua família come.
 
-![Para além dos alimentos, os produtos de higiene também podem ser comprados a granel durante as campanhas de desconto](https://seatable.io/wp-content/uploads/2023/09/eduardo-soares-RTPrTSooj0c-unsplash-min-scaled-e1695208799536-711x634.jpg)
+![Para além dos alimentos, os produtos de higiene também podem ser comprados a granel durante as campanhas de desconto](eduardo-soares-RTPrTSooj0c-unsplash-min-scaled-e1695208799536-711x634.jpg)
 
 Aproveite as ofertas de desconto em alimentos, produtos de higiene e outros bens úteis.
 
@@ -100,6 +100,6 @@ Para poder manter-se a si e à sua casa limpos, é aconselhável tomar também p
 
 Para que esteja idealmente preparado para a próxima situação de emergência, a equipa SeaTable criou um modelo para o seu abastecimento de emergência. Pode adaptá-lo às suas necessidades como desejar.
 
-![Modelo para a sua reserva de emergência](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
+![Modelo para a sua reserva de emergência](Vorlage-fuer-Ihren-Notvorrat-1.png)
 
 Se pretender utilizar o SeaTable para a constituição de reservas, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente [aqui]({{< relref "templates/everyday-life/shopping-list" >}}).

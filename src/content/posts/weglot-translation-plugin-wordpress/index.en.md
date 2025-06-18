@@ -13,7 +13,7 @@ seo:
 
 Weglot is a WordPress plugin for automatically translating your own website. The idea is simple and quickly explained. You write all the texts on your own website in your native language as usual and let Weglot translate all the content into one or more other languages. The website visitor is automatically redirected to the language version that suits him and [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) takes care of all the necessary work for international SEO. 
 
-![Automatic translation of the website with Weglot](images/automatische-uebersetzung-der-webseite-mit-weglot-1.gif)
+![Automatic translation of the website with Weglot](automatische-uebersetzung-der-webseite-mit-weglot-1.gif)
 
 Automatic translation of the website with Weglot
 
@@ -30,7 +30,7 @@ The prospect of Weglot doing all the translation work for me sounded tempting at
 
 But, enough of words. If you don't know Weglot yet, you should take a quick look at the following video from Weglot, which briefly and succinctly describes how it works.
 
-[![Weglot explained in 63 seconds](images/weglot-youtube-video.png)](https://www.youtube.com/watch?v=frzdb79qTrU)
+[![Weglot explained in 63 seconds](weglot-youtube-video.png)](https://www.youtube.com/watch?v=frzdb79qTrU)
 
 Weglot explained in 64 seconds.
 
@@ -38,7 +38,7 @@ Weglot explained in 64 seconds.
 
 Let me briefly describe how to get started with Weglot. First, you register on the website weglot.com for the free _Free_\-version. Don't worry: Weglot writes something about a 10-day trial, but Weglot is permanently free for another language and a maximum of 2,000 words.
 
-![Creating the first project in Weglot](images/weglot-erstes-projekt-anlegen.png)
+![Creating the first project in Weglot](weglot-erstes-projekt-anlegen.png)
 
 Create the first project in Weglot.
 
@@ -46,7 +46,7 @@ After confirming your email address, you create your first project and choose yo
 
 So copy the displayed API key to your clipboard and go to the admin area of your WordPress website. Search for the WordPress plugin "Weglot" and install it. In the plugin's settings, you need to enter the previously saved API key and now you can start translating your website.
 
-![Install the WordPress plugin Weglot](images/install-weglot-in-wordpress.png)
+![Install the WordPress plugin Weglot](install-weglot-in-wordpress.png)
 
 Install the WordPress plugin Weglot.
 
@@ -74,7 +74,7 @@ But Weglot not only translates your website, it also ensures that Google and oth
 
 Of course, it can also happen that a translation is not quite perfect. In this case, Weglot allows you to easily correct the incorrect translation via your Weglot account. To do this, you select the relevant language and URL and all translations are then displayed in a translation table.
 
-![Weglot allows easy correction of any translation](images/weglot-uebersetzungstabelle.png)
+![Weglot allows easy correction of any translation](weglot-uebersetzungstabelle.png)
 
 Weglot allows easy correction of any translation.
 
@@ -84,7 +84,7 @@ If you do not want to correct the translations yourself, you can also book profe
 
 Another important function of Weglot is that you can define terms that should not be translated and certain elements can be excluded from the translation. SeaTable, for example, is a word that Weglot should never translate. Furthermore, we have defined that all elements with the HTML class _dont-translate_ not be translated. 
 
-![With css classes or ids you can tell Weglot not to translate something.](images/weglot-uebersetzung-verhindern.png)
+![With css classes or ids you can tell Weglot not to translate something.](weglot-uebersetzung-verhindern.png)
 
 With css classes or ids you can tell Weglot not to translate something.
 
@@ -96,7 +96,7 @@ Producing the good content was less of a problem. But we don't have a native spe
 
 Through the languages German, English, French, Spanish and Russian, we cover a large part of the world's population. A look at our website monitoring shows that 50 % of our website traffic comes from Germany, although we have only received press articles and media attention there so far. So I would say that we owe about 50 % of our current website traffic to Weglot. 
 
-![More traffic through international visitors](images/zugriffe-weltweit.png)
+![More traffic through international visitors](zugriffe-weltweit.png)
 
 More traffic from international visitors thanks to Weglot
 
@@ -107,7 +107,7 @@ Furthermore, we do not make any further efforts for our international SEO. Weglo
 Before we decided to use Weglot with SeaTable, we also looked at other WordPress plugins for translating the website.  
 The best-known plugin for a multilingual WordPress is, with paragraph, the plugin [WPML](https://wpml.org/). Unlike Weglot, however, WPML does not automatically translate the content, but _only_ provides the platform for its own translations. The other plugins [TranslatePress](https://translatepress.com/?ref=174), [Polylang](https://polylang.pro/) and [Loco Transl](https://de.wordpress.org/plugins/loco-translate/)ate work in the same way. 
 
-![WPML is by far the most popular translation plugin for WordPress.](images/weglot-bei-google-trends.png)
+![WPML is by far the most popular translation plugin for WordPress.](weglot-bei-google-trends.png)
 
 WPML is by far the most popular translation plugin for WordPress.
 
@@ -122,7 +122,7 @@ In the course of our evaluation of Weglot, we also came across the plugin [Conve
 
 By now you should have understood the importance of Weglot for the success of our website. With Weglot, we can create a multilingual website with minimal effort and thus distribute our software almost everywhere in the world. This also justifies the [price of Weglot](https://weglot.com/pricing?fp_ref=loved_by_seatable), which is unusually high for a WordPress plugin. At the same time, however, I want to emphasise that from our point of view Weglot is worth every euro. 
 
-![The prices of the WordPress plugin Weglot](images/weglot-preise.png)
+![The prices of the WordPress plugin Weglot](weglot-preise.png)
 
 The prices of the WordPress plugin Weglot.
 
@@ -134,7 +134,7 @@ In the near future we will be looking at the *Extended Plan wechseln, um weitere
 
 If you are unsure which subscription you need, the [Word Count tool from Weglot](https://wordcount.weglot.com/) will help you. With it, you know immediately which plan you need and what costs you should expect each year. 
 
-![the Weglot Word Counter Tool](images/weglot-word-counter.png)
+![the Weglot Word Counter Tool](weglot-word-counter.png)
 
 The Weglot word counter gives you a feel for which subscription you need.
 
@@ -147,9 +147,9 @@ Weglot tries to redirect each visitor to the appropriate translation based on th
 
 **2) special links of our theme are not supported**
 
-On SeaTable.io we use the Enfold theme and in addition to links in the body text we also use link boxes - for example on our [Help page](https://seatable.io/en/docs/)where the entire box serves as a link. Unfortunately, this link box is not recognised as a link by Weglot and users are always redirected back to the original language. We were able to change this behaviour by adding an additional _Action in der functions.php beheben._
+On SeaTable.io we use the Enfold theme and in addition to links in the body text we also use link boxes - for example on our [Help page]({{< relref "help" >}})where the entire box serves as a link. Unfortunately, this link box is not recognised as a link by Weglot and users are always redirected back to the original language. We were able to change this behaviour by adding an additional _Action in der functions.php beheben._
 
-![Weglot had problems with link boxes](images/weglot-boxen-als-links.png)
+![Weglot had problems with link boxes](weglot-boxen-als-links.png)
 
 Weglot had problems with link boxes from our help section.
 

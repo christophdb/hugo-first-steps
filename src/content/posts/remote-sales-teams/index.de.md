@@ -13,7 +13,7 @@ seo:
 
 Die meisten Unternehmen ergreifen Maßnahmen, die Arbeit von zu Hause aus zu ermöglichen und organisieren neben Homeoffice Möglichkeiten auch Online-Seminare oder sonstige Veranstaltungen für Ihre Mitarbeiter. Doch: Langsam vermissen Sie selbst den nervigsten Kollegen und der Plausch an der Kaffeemaschine fehlt Ihnen auch. Mit einem fast ausschließlich remote arbeitenden Team ist es manchmal schwierig, up-to-date zu bleiben und die [Produktivität leidet](https://seatable.io/homeoffice-tipps/) auch nicht selten darunter. Zum Glück gibt es da eine Methode, die Ihnen helfen könnte, Ihre Produktivität remote zurückzugewinnen. Mit täglichen Stand-ups verbessern Sie die Produktivität Ihres Teams im Handumdrehen.
 
-![Produktivität leidet unter der mangelnden Aufrechterhaltung der informellen Kommunikation](https://seatable.de/wp-content/uploads/2021/04/Bildschirmfoto-2021-04-21-um-14.59.01.png)
+![Produktivität leidet unter der mangelnden Aufrechterhaltung der informellen Kommunikation](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 
 [Bildquelle](https://www.odgersberndtson.com/media/9459/sonderausgabe-managerbarometer-corona.pdf)
 
@@ -57,7 +57,7 @@ Bei der dritten Frage ist Vorsicht geboten. Hier besteht das größte Potenzial 
 
 Hier haben online Meetings endlich mal einen Vorteil. Wenn es um das pünktliche Erscheinen geht, hat man zu Hause weniger Gründe, zu spät zu kommen, da man sich nicht physisch zu einem Meeting-Raum bewegen muss. Sie sollten generell trotzdem eine Unternehmenskultur etablieren, in der es zum Standard wird, pünktlich (wenn nicht sogar lieber etwas zu früh) zum Meeting zu erscheinen.
 
-![Zeit im Blick behalten](https://seatable.io/wp-content/uploads/2020/07/sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
+![Zeit im Blick behalten](sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
 
 Das verspätete Starten von Meetings ist tatsächlich ein sehr häufig angegebener Beschwerdegrund von Mitarbeitern im Allgemeinen. Beschwerden gibt es gleichermaßen über die falsche Zeitplanung eines Meetings. Entweder es dauert viel zu lange oder es wurde zu kurz angesetzt. Beginnen Sie pünktlich und hören Sie auch pünktlich wieder auf – auch wenn jemand zu spät erscheint.
 

@@ -15,7 +15,7 @@ In hectic everyday life, going to the supermarket can become a real challenge be
 
 Nevertheless, the question remains: which digital shopping list / app is the best choice to meet your individual needs? In this article, we take a closer look at seven promising apps designed to make shopping easier.
 
-![Full shopping cart in a supermarket.](images/einkaufswagen-voller-produkte-in-einem-supermarkt-711x474.jpg)
+![Full shopping cart in a supermarket.](einkaufswagen-voller-produkte-in-einem-supermarkt-711x474.jpg)
 
 With the right organization, shopping is stress-free.
 
@@ -27,7 +27,7 @@ There are good reasons to keep lists in every area of life - and shopping is no 
 - **Save time**: If you plan your shopping in advance with a shopping list, you will always have all the food you need for your favorite recipes at hand without forgetting anything. This saves you a lot of time, as double trips to the supermarket are a thing of the past.
 - **Minimize food waste**: According to the [Federal Ministry of Food and Agriculture](https://www.bmel.de/DE/themen/ernaehrung/lebensmittelverschwendung/studie-lebensmittelabfaelle-deutschland.html), every consumer throws away around 78 kilograms of food a year. Perhaps you also regularly throw away food because it is spoiled or past its best-before date. If you only buy what you really need in future, you will also have to throw away less. By planning your shopping wisely and [stocking up](https://seatable.io/en/notvorrat-anlegen/) properly, you not only help yourself, but also the environment.
 
-![Proportion of food that Germans throw away ](images/Lebensmittelverschwendung_B_EInkaufsliste-711x889.png)
+![Proportion of food that Germans throw away ](Lebensmittelverschwendung_B_EInkaufsliste-711x889.png)
 
 Germans throw away fruit and vegetables most often.
 
@@ -55,7 +55,7 @@ Whether it's managing and sorting **food categories** or your **favorite recipes
 
 - No relevant disadvantages available
 
-![The "Shopping list" application ](images/Die-Einkaufsliste-711x971.jpg)
+![The "Shopping list" application ](Die-Einkaufsliste-711x971.jpg)
 
 This is what "The shopping list" looks like.
 
@@ -77,7 +77,7 @@ Within the app, you can also send **predefined messages** to roommates with whom
 
 - No relevant disadvantages available
 
-![The shopping list app "Bring!"](images/Bring-711x1022.jpg)
+![The shopping list app "Bring!"](Bring-711x1022.jpg)
 
 The shopping list app "Bring!"
 
@@ -98,7 +98,7 @@ In addition, not only the user's preferences and habits are **analyzed**, but al
 
 - No icons of the products
 
-![The use of Pon](images/Pon-711x1057.jpg)
+![The use of Pon](Pon-711x1057.jpg)
 
 The shopping list in "pon"
 
@@ -120,7 +120,7 @@ If you save your **recipes** in the app, you can add the missing ingredients to 
 - No offers
 - Unlimited number of lists and templates is subject to a charge
 
-![The "ToBuy" application](images/ToBuy-711x1086.jpg)
+![The "ToBuy" application](ToBuy-711x1086.jpg)
 
 The "ToBuy" application in dark mode
 
@@ -141,7 +141,7 @@ Although **various groupings** and **individual sorting** are possible here, sma
 - No offers
 - No smart features
 
-![The shopping list app "WeNeed"](images/WeNeed-711x1083.jpg)
+![The shopping list app "WeNeed"](WeNeed-711x1083.jpg)
 
 The "WeNeed" application
 
@@ -161,7 +161,7 @@ The functions here can vary depending on the brand. However, they usually consis
 - No offers
 - No smart features
 
-![Notes app for purchases](images/Notizen-e1707138910748.jpg)
+![Notes app for purchases](Notizen-e1707138910748.jpg)
 
 The notes app as a shopping list
 

@@ -13,7 +13,7 @@ seo:
 
 Weglot ist ein WordPress-Plugin zum automatischen Übersetzen der eigenen Webseite. Die Idee ist einfach und schnell erklärt. Man schreibt wie gewohnt alle Texte auf der eigenen Webseite in seiner Muttersprache und lässt Weglot alle Inhalte in eine oder mehrere andere Sprachen übersetzen. Der Webseitenbesucher wird automatisch auf die für ihn passende Sprache-Version umgeleitet und [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) übernimmt alle notwendigen Arbeiten für das internationale SEO. 
 
-![Automatische Übersetzung der Webseite mit Weglot](https://seatable.io/wp-content/uploads/2022/03/automatische-uebersetzung-der-webseite-mit-weglot-1.gif)
+![Automatische Übersetzung der Webseite mit Weglot](automatische-uebersetzung-der-webseite-mit-weglot-1.gif)
 
 Automatische Übersetzung der Webseite mit Weglot
 
@@ -30,7 +30,7 @@ Die Aussicht darauf, dass mir Weglot die gesamte Übersetzungsarbeit abnimmt, kl
 
 Doch, genug der Worte. Wenn Sie Weglot noch nicht kennen, sollten Sie sich kurz das folgende Video von Weglot ansehen, welches die Funktionsweise kurz und knapp beschreibt.
 
-[![Weglot in 63 Sekunden erklärt](https://seatable.io/wp-content/uploads/2022/03/weglot-youtube-video.png)](https://www.youtube.com/watch?v=frzdb79qTrU)
+[![Weglot in 63 Sekunden erklärt](weglot-youtube-video.png)](https://www.youtube.com/watch?v=frzdb79qTrU)
 
 Weglot in 64 Sekunden erklärt.
 
@@ -38,7 +38,7 @@ Weglot in 64 Sekunden erklärt.
 
 Lassen Sie mich kurz beschreiben, wie die ersten Schritte mit Weglot aussehen. Als Erstes registrieren Sie sich auf der Webseite weglot.com für die kostenlose _Free_\-Version. Keine Sorge: Weglot schreibt etwas von 10 Tage ausprobieren, aber Weglot ist dauerhaft kostenlos für eine andere Sprache und maximal 2.000 Wörter.
 
-![Das erste Projekte in Weglot anlegen](https://seatable.io/wp-content/uploads/2022/03/weglot-erstes-projekt-anlegen.png)
+![Das erste Projekte in Weglot anlegen](weglot-erstes-projekt-anlegen.png)
 
 Das erste Projekte in Weglot anlegen.
 
@@ -46,7 +46,7 @@ Nach der Bestätigung Ihrer E-Mail-Adresse legen Sie Ihr erstes Projekt an und w
 
 Kopieren Sie also den angezeigten API-Key in Ihre Zwischenablage und wechseln Sie zum Adminbereich Ihrer WordPress-Webseite. Suchen Sie nach dem  WordPress-Plugin “Weglot” und installieren Sie dieses. In den Einstellungen des Plugins müssen Sie den zuvor gespeicherten API-Key eintragen und können nun damit beginnen, Ihre Webseite zu übersetzen.
 
-![Das WordPress-Plugin Weglot installieren](https://seatable.io/wp-content/uploads/2022/03/install-weglot-in-wordpress.png)
+![Das WordPress-Plugin Weglot installieren](install-weglot-in-wordpress.png)
 
 Das WordPress-Plugin Weglot installieren.
 
@@ -74,7 +74,7 @@ Doch Weglot übersetzt nicht nur Ihre Webseite, es sorgt auch dafür, dass Goog
 
 Natürlich kann es auch mal vorkommen, dass eine Übersetzung nicht ganz perfekt ist. In diesem Fall erlaubt Weglot die einfache Korrektur der fehlerhaften Übersetzung über Ihren Weglot Account. Hierzu wählt man die entsprechende Sprache und URL aus und erhält dann alle Übersetzungen in einer Übersetzungstabelle angezeigt.
 
-![Weglot erlaubt die einfache Korrektur jeder Übersetzung](https://seatable.io/wp-content/uploads/2022/03/weglot-uebersetzungstabelle.png)
+![Weglot erlaubt die einfache Korrektur jeder Übersetzung](weglot-uebersetzungstabelle.png)
 
 Weglot erlaubt die einfache Korrektur jeder Übersetzung.
 
@@ -84,7 +84,7 @@ Wenn man nicht selbst die Übersetzungen korrigieren will, kann man über Weglot
 
 Eine weitere wichtige Funktion von Weglot ist, dass man Begriffe definieren kann, die nicht übersetzt werden sollen und es lassen sich gewisse Elemente von der Übersetzung ausschließen. SeaTable ist z. B. so ein Wort, welches Weglot nie übersetzen soll. Weiterhin haben wir festgelegt, dass alle Elemente mit der HTML-Klasse _dont-translate_ nicht übersetzt werden. 
 
-![Mit css Klassen oder ids kann man Weglot anweisen etwas nicht zu übersetzen.](https://seatable.io/wp-content/uploads/2022/03/weglot-uebersetzung-verhindern.png)
+![Mit css Klassen oder ids kann man Weglot anweisen etwas nicht zu übersetzen.](weglot-uebersetzung-verhindern.png)
 
 Mit css Klassen oder ids kann man Weglot anweisen etwas nicht zu übersetzen.
 
@@ -96,7 +96,7 @@ Die guten Inhalte zu erzeugen, war weniger das Problem. Doch wir haben nicht fü
 
 Durch die Sprachen Deutsch, Englisch, Französisch, Spanisch und Russisch decken wir einen großen Teil der Weltbevölkerung ab. Ein Blick in unser Webseiten-Monitoring zeigt, dass 50 % unserer Webseitenzugriffe aus Deutschland kommen, obwohl wir bisher nur dort Presseartikel und mediale Aufmerksamkeit erhalten haben. Ich würde also sagen, dass wir ca. 50 % unseres aktuellen Webseiten-Traffics Weglot zu verdanken haben. 
 
-![Mehr Traffic durch internationale Besucher](https://seatable.io/wp-content/uploads/2022/03/zugriffe-weltweit.png)
+![Mehr Traffic durch internationale Besucher](zugriffe-weltweit.png)
 
 Mehr Traffic durch internationale Besucher dank Weglot
 
@@ -107,7 +107,7 @@ Weiterhin unternehmen wir keine weiteren Anstrengungen für unser internationale
 Bevor wir uns bei SeaTable für Weglot entschieden haben, haben wir uns auch andere WordPress-Plugins zum Übersetzen der Webseite angeschaut.   
 Das bekannteste Plugin für ein mehrsprachiges WordPress ist mit Absatz das Plugin [WPML](https://wpml.org/). Im Gegensatz zu Weglot übernimmt WPML jedoch nicht die automatische Übersetzung der Inhalte, sondern bietet _nur_ die Plattform für die eigenen Übersetzungen. Genauso funktionieren auch die anderen Plugins [TranslatePress](https://translatepress.com/?ref=174), [Polylang](https://polylang.pro/) und [Loco Translate](https://de.wordpress.org/plugins/loco-translate/). 
 
-![WPML ist mit Abstand das beliebteste Übersetzungs-Plugin für WordPress.](https://seatable.io/wp-content/uploads/2022/03/weglot-bei-google-trends.png)
+![WPML ist mit Abstand das beliebteste Übersetzungs-Plugin für WordPress.](weglot-bei-google-trends.png)
 
 WPML ist mit Abstand das beliebteste Übersetzungs-Plugin für WordPress.
 
@@ -122,7 +122,7 @@ Im Rahmen unserer Evaluation zu Weglot sind wir auch auf das Plugin [ConveyThis]
 
 Mittlerweile sollten Sie verstanden haben, welche Bedeutung Weglot für den Erfolg unserer Webseite hat. Mit Weglot können wir mit minimalem Aufwand eine mehrsprachige Webseite erstellen und so unsere Software fast überall auf der Welt vertreiben. Dies rechtfertigt auch den [Preis von Weglot](https://weglot.com/pricing?fp_ref=loved_by_seatable), welcher ungewöhnlich hoch ist für ein WordPress-Plugin. Gleichzeitig will ich aber betonen, dass aus unserer Sicht Weglot jeden Euro wert ist. 
 
-![Die Preise des WordPress-Plugins Weglot](https://seatable.io/wp-content/uploads/2022/03/weglot-preise.png)
+![Die Preise des WordPress-Plugins Weglot](weglot-preise.png)
 
 Die Preise des WordPress-Plugins Weglot.
 
@@ -134,7 +134,7 @@ In Kürze werden wir auf den *Extended Plan wechseln, um weitere Blogartikel üb
 
 Wenn Sie sich unsicher sind, welches Abo Sie benötigen, hilft Ihnen das [Word-Count-Tool von Weglot](https://wordcount.weglot.com/). Mit diesem wissen Sie sofort, welchen Plan Sie benötigen und mit welchen Kosten Sie jährlich rechnen müssen. 
 
-![das Weglot-Word-Counter-Tool](https://seatable.io/wp-content/uploads/2022/03/weglot-word-counter.png)
+![das Weglot-Word-Counter-Tool](weglot-word-counter.png)
 
 Der Weglot-Word-Counter gibt Ihnen ein Gefühl dafür, welches Abo Sie benötigen.
 
@@ -147,9 +147,9 @@ Weglot versucht jeden Besucher anhand seiner Browser-Sprache auf die für ihn pa
 
 **2) spezielle Links unseres Themes werden nicht unterstützt**
 
-Auf SeaTable.io nutzen wir das Enfold-Theme und neben Links im Fließtext nutzen wir auch Link-Boxen – so z. B. auf unserer [Hilfeseite](https://seatable.io/docs/), bei dem die gesamte Box als Link dient. Leider wird diese Link-Box von Weglot nicht als Link erkannt und die Anwender werden immer zurück auf die Originalsprache umgeleitet. Dieses Verhalten konnten wir durch eine zusätzliche _Action in der functions.php beheben._
+Auf SeaTable.io nutzen wir das Enfold-Theme und neben Links im Fließtext nutzen wir auch Link-Boxen – so z. B. auf unserer [Hilfeseite]({{< relref "help" >}}), bei dem die gesamte Box als Link dient. Leider wird diese Link-Box von Weglot nicht als Link erkannt und die Anwender werden immer zurück auf die Originalsprache umgeleitet. Dieses Verhalten konnten wir durch eine zusätzliche _Action in der functions.php beheben._
 
-![Weglot hatte Probleme mit Link-Boxen](https://seatable.io/wp-content/uploads/2022/03/weglot-boxen-als-links.png)
+![Weglot hatte Probleme mit Link-Boxen](weglot-boxen-als-links.png)
 
 Weglot hatte Probleme mit Link-Boxen aus unserem Hilfebereich.
 

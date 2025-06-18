@@ -25,7 +25,7 @@ Es ist somit die Aufgabe öffentlicher Museen, Ausstellungen und Galerien, ein H
 
 Beim Kunstmanagement geht es also darum, genau diese schwierige Herausforderung anzunehmen und Mittel und Wege zu finden, die genannten Kernaufgaben im öffentlichen Raum zu erfüllen.
 
-![Die Verwaltung von Kunstausstellungen, Museen und Ausstellungen erfordert flexibilität von Mensch und Software.](images/ausstellungsmanagement-seatable.jpg)
+![Die Verwaltung von Kunstausstellungen, Museen und Ausstellungen erfordert flexibilität von Mensch und Software.](ausstellungsmanagement-seatable.jpg)
 
 ## Die Unterschiede zwischen Kunstmanagement und dem Management eines Unternehmens
 
@@ -35,7 +35,7 @@ Darüber hinaus müssen Museen, Galerien und Ausstellungen nicht nur inhaltlich 
 
 Einen kleinen Einblick in die Problematik bekam man durch die [Kündigung von Udo Kittelmann im Jahre 2019](https://www.tagesspiegel.de/kultur/staatliche-museen-in-der-krise-udo-kittelmanns-ruecktritt-wirft-ein-schlaglicht-auf-gravierende-probleme/24944096.html). Kittelmann verzichtete auf den Chefposten der deutschen Nationalgalerie, der wohl renommiertesten Ausstellung in Deutschland. Zu wenig Budget und zu wenige Freiheiten in Kombination mit dem permanenten Repräsentationsbedürfnis der Politik hatten ihn das Handtuch werfen lassen.
 
-![Art Management unterscheidet sich von dem Management eines Unternehmens](images/art-management-seatable.jpg)
+![Art Management unterscheidet sich von dem Management eines Unternehmens](art-management-seatable.jpg)
 
 Nur wenige Museen haben eine Anziehungskraft wie der Louvre in Paris. Das Bild zeigt Besucher vor der Mona Lisa.
 
@@ -51,7 +51,7 @@ Zudem gehören Kunstobjekte häufig nicht den Museen, sondern werden in Form ein
 
 Es ist die Aufgabe des Kunstmanagements, dieser Komplexität mit digitalen Lösungen Herr zu werden. Diese Lösungen müssen mit jeder dieser Herausforderungen klarkommen und dürfen nicht zu viel kosten.
 
-![SeaTable als flexible Museumssoftware](images/museumssoftware-seatable.jpg)
+![SeaTable als flexible Museumssoftware](museumssoftware-seatable.jpg)
 
 Kunstmanagement-Software muss flexibel und gleichzeitig einfach sein. Eine unlösbare Herausforderung für übliche Branchenlösungen
 
@@ -77,7 +77,7 @@ Die Stärke von SeaTable liegt darin, dass Sie selbst festlegen, welche Informat
 
 Unser Template [Art Gallery Management]({{< relref "templates/operations/art-gallery-management" >}}) verfügt über einige Beispieleinträge, um Ihnen die Möglichkeiten darzustellen. Die einzelnen Kunstobjekte stehen im Zentrum des Sammlungsmanagements und sind mit den Künstlern verknüpft. Gleichzeitig wird erfasst, wo sich das Kunstwerk gerade befindet, und es gibt Verlinkungen zu den geplanten Restaurationen und Leihgaben. Eine Erweiterung um öffentliche Referenzen, Schaffensperioden oder Kunstkategorien können jederzeit hinzugefügt werden.
 
-![Objektübersicht des Art Gallery Templates](images/art-gallery-management-objects.png)
+![Objektübersicht des Art Gallery Templates](art-gallery-management-objects.png)
 
 Objektübersicht des Art Gallery Templates
 
@@ -85,7 +85,7 @@ Objektübersicht des Art Gallery Templates
 
 Die Tabellenansicht von SeaTable lässt sich mit individuellen Ansichten flexibel an die Bedürfnisse Ihrer einzelnen Mitarbeiter anpassen. Zusätzlich verfügt SeaTable neben der tabellarischen Darstellung über weitere Anzeigemöglichkeiten. So kann es bei Einträgen mit Bildern Sinn ergeben, das [Galerie-Plugin](https://seatable.io/docs/handbuch/seatable-nutzen/ansichten/) zu verwenden, um einen anschaulichen Überblick zu erhalten und schnell den gewünschten Eintrag zu finden. Ein Klick auf den Eintrag genügt, um in die Detailansicht zu wechseln und Anpassungen an den Daten vorzunehmen.
 
-![Die Künstler als Galerie dargestellt](images/art-gallery-management-gallery-view.png)
+![Die Künstler als Galerie dargestellt](art-gallery-management-gallery-view.png)
 
 Die Künstler, dargestellt in einer Galerie
 
@@ -95,7 +95,7 @@ Die Organisation einer Ausstellung ist komplex und erfordert eine sorgfältige P
 
 Jedes Museum muss eine Vielzahl an Verträgen, Vereinbarungen und Versicherungen in Bezug auf die Ausstellungen, Leihgaben und Objekte verwalten. In SeaTable können Sie jede Art von Information strukturiert erfassen und so eine vollständige Dokumentation ablegen. Verwalten Sie Ihre Schriftstücke in spezifischen Datei-Spalten, lassen Sie sich automatisch vor Ablauf einer Frist per E-Mail erinnern oder überwachen Sie die monatlichen Kosten mithilfe der statistischen Auswertungen.
 
-![Auswertung der monatlichen Kosten nach Ausgabenkategorie](images/art-gallery-management-statistics.png)
+![Auswertung der monatlichen Kosten nach Ausgabenkategorie](art-gallery-management-statistics.png)
 
 Auswertung der monatlichen Kosten nach Ausgabenkategorie
 
@@ -105,7 +105,7 @@ Im Kontakt- und Vertragsmanagement geht es um die Verwaltung aller Personen und 
 
 Wollen Sie neben der Anschrift zusätzlich noch das Geburtsdatum von Ihren Sponsoren speichern? Mit wenigen Klicks erweitern Sie Ihre Datenerfassung um eine weitere Datum-Spalte und können ab sofort auch diese Information speichern. Die Möglichkeiten sind fast grenzenlos; zum Beispiel könnten Sie neben den Stammdaten wie Anrede, Name, Adresse, Telefonnummer und E-Mail auch Adressgruppen und Verteiler sowie eine vollständige Kontakthistorie pflegen.
 
-![Gruppieren und Filtern Sie Ihre Kontakte](images/art-gallery-contacts.png)
+![Gruppieren und Filtern Sie Ihre Kontakte](art-gallery-contacts.png)
 
 Gruppieren und Filtern Sie Ihre Kontakte
 

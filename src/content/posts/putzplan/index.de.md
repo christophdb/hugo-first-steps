@@ -16,7 +16,7 @@ Wer mit mehreren Menschen unter einem Dach lebt, kennt es: Das dreckige Geschirr
 
 Wohnen viele Personen in einem Haushalt, kommt es unweigerlich zu Meinungsverschiedenheiten. Das bleibt auch beim Thema **Sauberkeit** nicht aus. Nicht jeder ist der Meinung, dass er sein Geschirr sofort spülen muss oder dass regelmäßiges Putzen im Bad notwendig ist.
 
-![Dreckiges Geschirr sammelt sich schnell an, wenn es keinen Putzplan gibt und sich keiner verantwortlich fühlt.](https://seatable.io/wp-content/uploads/2023/08/nathan-dumlao-m0ucB-06v7k-unsplash-1-e1693817126757-711x533.jpg)
+![Dreckiges Geschirr sammelt sich schnell an, wenn es keinen Putzplan gibt und sich keiner verantwortlich fühlt.](nathan-dumlao-m0ucB-06v7k-unsplash-1-e1693817126757-711x533.jpg)
 
 Dreckiges Geschirr sammelt sich schnell an, wenn Uneinigkeit über die Sauberkeit herrscht.
 
@@ -26,7 +26,7 @@ Daher hilft es, sich zusammenzusetzen und einen gemeinsamen Plan zu erstellen, m
 
 Nun geht es ans Eingemachte: Sie und Ihre Mitbewohner möchten einen Putzplan erstellen, wissen aber nicht, wo Sie anfangen sollen? Zunächst einmal: Jeder Plan sollte **individuell** auf den Haushalt abgestimmt sein. Stellen Sie sich daher zunächst folgende Fragen:
 
-![Ein erster Überblick über anstehende Aufgaben](https://seatable.io/wp-content/uploads/2023/09/Putzplan-1-711x711.png)
+![Ein erster Überblick über anstehende Aufgaben](Putzplan-1-711x711.png)
 
 Ein erster Überblick über anstehende Aufgaben
 
@@ -46,7 +46,7 @@ Um einen groben Überblick über die anfallenden Aufgaben zu erhalten, ist es hi
 
 In welchen zeitlichen Abständen bestimmte Aufgaben zu erledigen sind, hängt davon ab, wie gründlich diese bearbeitet werden. Gibt sich jemand bei einer Aufgabe im Putzplan keine Mühe, muss diese öfter durchgeführt werden, um das gleiche Ergebnis zu erzielen. Trotzdem haben wir für Sie einen Leitfaden, welche Aufgaben bei gründlicher Bearbeitung wie oft anstehen:
 
-![Diese Aufgaben kommen in regelmäßige Abständen auf Sie in ihrem Putzplan zu.](https://seatable.io/wp-content/uploads/2023/08/Haeufigkeit-der-Taetigkeiten-fuer-den-Putzplan-711x711.png)
+![Diese Aufgaben kommen in regelmäßige Abständen auf Sie in ihrem Putzplan zu.](Haeufigkeit-der-Taetigkeiten-fuer-den-Putzplan-711x711.png)
 
 Diese Aufgaben kommen in regelmäßigen Abständen auf Sie zu.
 
@@ -56,7 +56,7 @@ Entscheiden Sie gemeinsam, wer welche Aufgaben übernimmt. Beachten Sie dabei di
 
 Sollte das nicht der Fall sein, ist eine weitere Möglichkeit, die Aufgaben zu **rotieren**. Dabei wird die Zuständigkeit wöchentlich gewechselt. Dies ist meist besonders effektiv, da der Arbeitsaufwand nach einem Durchlauf für alle ungefähr gleich ist und jeder für alles schon einmal die Verantwortung übernommen hat. Jedoch dauert es länger, bis eine gewisse Routine in den Alltag kommt.
 
-![Teamwork ist das A und O für einen erfolgreichen Putzplan.](https://seatable.io/wp-content/uploads/2023/08/pexels-pavel-danilyuk-8763139-1-scaled-e1693817422843-711x498.jpg)
+![Teamwork ist das A und O für einen erfolgreichen Putzplan.](pexels-pavel-danilyuk-8763139-1-scaled-e1693817422843-711x498.jpg)
 
 Teamwork ist das A und O für einen erfolgreichen Putzplan.
 
@@ -66,7 +66,7 @@ Um auch [Putzmuffel](https://www.stuttgarter-zeitung.de/inhalt.putztipps-fuer-fa
 
 Die Aufgaben sind verteilt, aber keiner macht, was er sollte? Dann liegt es vielleicht am **Motivationsmangel**. Kein Wunder, denn Putzen gehört bei vielen nicht gerade zu ihren Lieblingsbeschäftigungen. Um den Putzplan dennoch am Laufen zu halten, kann es helfen, den richtigen Ansporn zu finden. Verbinden Sie das lästige Saubermachen mit Musik hören oder Serien schauen.
 
-![Mit ein bisschen Spaß beim Putzen ist es viel leichter, die Aufgaben zu erledigen.](https://seatable.io/wp-content/uploads/2023/08/pexels-rdne-stock-project-5591970-1-711x474.jpg)
+![Mit ein bisschen Spaß beim Putzen ist es viel leichter, die Aufgaben zu erledigen.](pexels-rdne-stock-project-5591970-1-711x474.jpg)
 
 Mit ein bisschen Spaß beim Putzen geht alles direkt viel leichter.
 
@@ -76,6 +76,6 @@ Achten Sie aber darauf, dass Sie sich nicht zu sehr ablenken lassen – das Putz
 
 Bei der Hausarbeit gibt es viel zu planen, besonders wenn Sie mehrere Personen in die Aufgaben einbinden möchten. Um dabei nicht den Überblick zu verlieren, hat das Team von SeaTable Ihnen eine Putzplan-Vorlage erstellt. Diese können Sie nach Belieben an Ihre Bedürfnisse anpassen. Indem Sie Aufgaben klar einem Verantwortlichen zuteilen, sehen Sie beispielsweise auf einen Blick, welche Aufgaben Sie und Ihre Mitbewohner zu erledigen haben und ob diese gerecht verteilt sind.
 
-![Erstellen Sie einen individuellen Putzplan in SeaTable.](images/Putzplan.png)
+![Erstellen Sie einen individuellen Putzplan in SeaTable.](Putzplan.png)
 
 Wenn Sie SeaTable für die Erstellung Ihres individuellen Putzplans nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/everyday-life/cleaning-plan" >}}).

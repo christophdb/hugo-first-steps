@@ -19,7 +19,7 @@ Die Antworten sowie einen Überblick über die sechs besten Praxistipps für die
 
 Ein großer und ganz entscheidender Unterschied zwischen Marketingstrategie und Marketingkampagne ist die zeitliche Komponente. Währende die Strategie ein langfristig angelegtes, planvolles Vorgehen zur Umsetzung der Marketingziele ist, handelt es sich bei der Kampagne um eine zeitlich begrenzte Aktion im Rahmen eben dieser Strategie. So kann eine Strategie über einen langen Zeitraum viele verschiedene Marketing- bzw. Werbekampagnen beinhalten. Das bedeutet: Planung und Umsetzung der Marketingkampagne finden immer unter dem Dach der Marketingstrategie statt.
 
-![Mitarbeiterin übernimmt Marketing Kampagnen Planung.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
+![Mitarbeiterin übernimmt Marketing Kampagnen Planung.](Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
 
 Marketing Kampagne Planung © Rawpixel / adobe stock
 
@@ -47,9 +47,9 @@ Es gibt so gut wie keine Ideen, die nicht schon einmal gedacht worden sind. Soll
 
 ### 4\. Klare Zuständigkeiten und Timelines festlegen
 
-Eine Marketingkampagne und ihre Planung funktionieren dann am besten, wenn jeder weiß, was er wann zu tun hat. Stehen [Projektziele]({{< relref "templates/projects/project-plan" >}}), Zielgruppe und Markt- bzw. Wettbewerbsanalyse, geht es darum, ein Team zusammenzustellen, [Zuständigkeiten und Aufgaben zu verteilen](https://seatable.io/projektstrukturplan-vorlage/), Deadlines und Meilensteine festzulegen und – ganz wichtig – das [Budget](https://seatable.io/budgetplanung-vorlage/) einzuteilen.
+Eine Marketingkampagne und ihre Planung funktionieren dann am besten, wenn jeder weiß, was er wann zu tun hat. Stehen [Projektziele]({{< relref "templates/projects/project-plan" >}}), Zielgruppe und Markt- bzw. Wettbewerbsanalyse, geht es darum, ein Team zusammenzustellen, [Zuständigkeiten und Aufgaben zu verteilen](https://seatable.io/projektstrukturplan-vorlage/), Deadlines und Meilensteine festzulegen und – ganz wichtig – das [Budget]({{< relref "templates/finance/budget-book" >}}) einzuteilen.
 
-![Marketing Team bespricht Vorgehensweise der Kampagnen Planung.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
+![Marketing Team bespricht Vorgehensweise der Kampagnen Planung.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
 Marketing Kampagne Planung © REDPIXEL / adobe stock
 

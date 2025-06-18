@@ -15,7 +15,7 @@ Comer lo más barato y sano posible con el menor tiempo posible: una tendencia d
 
 Meal Prep es la abreviatura de **preparación de comidas**. La idea consiste en precocinar tus comidas favoritas en grandes cantidades para que estén listas para comer en los días siguientes y puedan recalentarse o terminarse en pocos minutos.
 
-![Con Meal Prep, los alimentos preparados se guardan en cajas o tarros.](https://seatable.io/wp-content/uploads/2023/11/ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
+![Con Meal Prep, los alimentos preparados se guardan en cajas o tarros.](ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
 
 A partir de unos pocos ingredientes se elaboran diversos platos.
 
@@ -46,7 +46,7 @@ La preparación de comidas tiene algunas ventajas insuperables, tanto frente a l
 - **Fomenta una alimentación sana:** las comidas caseras suelen contener menos azúcar, grasa y sal; usted sabe lo que come y puede adaptar las recetas a sus objetivos nutricionales.
 - **Contra el desperdicio de alimentos:** puede evitar los envases abiertos y los ingredientes estropeados comprando la cantidad justa de alimentos frescos y consumiéndolos todos de inmediato.
 
-![Con Meal Prep, sólo debes comprar los alimentos que realmente necesitas.](https://seatable.io/wp-content/uploads/2023/11/maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
+![Con Meal Prep, sólo debes comprar los alimentos que realmente necesitas.](maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
 
 La compra selectiva le ahorra tiempo y dinero porque sólo compra los alimentos que realmente necesita.
 
@@ -59,7 +59,7 @@ La compra selectiva le ahorra tiempo y dinero porque sólo compra los alimentos 
 - **Monotonía:** no siempre apetece comer tus platos favoritos, aunque sea el tercer día consecutivo. Pero a continuación puedes descubrir cómo añadir variedad a tus platos precocinados.
 - **Costes de almacenamiento:** Si vas a precocinar para varios días, necesitas espacio suficiente en tu frigorífico o congelador y el equipo de almacenamiento adecuado.
 
-![Tus comidas pueden volverse unilaterales si sólo utilizas unos pocos ingredientes.](https://seatable.io/wp-content/uploads/2023/11/pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
+![Tus comidas pueden volverse unilaterales si sólo utilizas unos pocos ingredientes.](pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
 
 Sé creativo y procura que tus platos sean lo más variados posible.
 
@@ -67,7 +67,7 @@ Sé creativo y procura que tus platos sean lo más variados posible.
 
 Para que la misión Meal Prep sea un éxito, primero necesitas un [plan de comidas](https://seatable.io/es/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Los siguientes **cinco pasos** te ayudarán con el proceso.
 
-![Cómo conseguir que la preparación de comidas sea un éxito en cinco sencillos pasos.](https://seatable.io/wp-content/uploads/2023/11/Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
+![Cómo conseguir que la preparación de comidas sea un éxito en cinco sencillos pasos.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 
 Con la planificación adecuada, incluso los cocineros inexpertos pueden tener éxito con la preparación de comidas.
 
@@ -84,7 +84,7 @@ En primer lugar, pregúntate para cuántos días te gustaría cocinar con antela
 
 Las recetas ya están seleccionadas, ahora necesitas los **ingredientes**. Haz una lista de lo que necesitas y en qué **cantidades** para que puedas tenerlo todo controlado mientras haces la compra. Una [lista de la compra]({{< relref "templates/everyday-life/shopping-list" >}}) también te ayuda a comprar sólo los alimentos que realmente necesitas para tus comidas. Asegúrate de que sólo compras productos frescos y perecederos si puedes utilizarlos inmediatamente.
 
-![Una lista de la compra te ayudará a realizar tus compras sin gastar más dinero](https://seatable.io/wp-content/uploads/2023/11/torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
+![Una lista de la compra te ayudará a realizar tus compras sin gastar más dinero](torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
 
 Una lista te ayuda a llevar un registro de tus compras.
 
@@ -110,7 +110,7 @@ El último paso de la preparación de comidas es el más fácil. Saca los ingred
 
 Aquí tienes un ejemplo de **plan de comidas** para ilustrar cómo funciona el Meal Prep: Ha elegido cuatro platos para una semana, todos ellos con verduras, patatas y/o arroz. Las **verduras de horno** son la base de todos los platos y podrían consistir, por ejemplo, en pimientos, calabacines, zanahorias, garbanzos, cebollas y champiñones.
 
-![Comida preparada con verduras al horno](https://seatable.io/wp-content/uploads/2023/11/markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
+![Comida preparada con verduras al horno](markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
 
 Las verduras al horno son una base excelente para una gran variedad de platos.
 

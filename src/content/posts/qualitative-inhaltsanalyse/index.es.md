@@ -23,7 +23,7 @@ El diseño exacto del análisis de contenido depende de los resultados que quier
 
 Básicamente, hay un **enfoque** **cualitativo** y otro **cuantitativo** del análisis de contenidos. Puede decidir cuál de los dos métodos debe utilizar para su proyecto en función de los siguientes criterios:
 
-![Se muestra en qué puntos difieren el análisis de contenido cualitativo y el cuantitativo.](https://seatable.io/wp-content/uploads/2024/02/Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
+![Se muestra en qué puntos difieren el análisis de contenido cualitativo y el cuantitativo.](Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
 
 En el análisis de contenido cualitativo, uno se centra en una **pequeña cantidad** de contenido que analiza en profundidad. Aquí también depende de lo que escuche entre líneas en las entrevistas, por ejemplo. En consecuencia, se trabaja **de forma inductiva**, es decir, se llevan a cabo observaciones propias y se deducen nuevas hipótesis a partir de ellas. El objetivo es comprender e **interpretar** los resultados y desarrollar nuevos enfoques teóricos a partir de ellos.
 
@@ -39,7 +39,7 @@ También puede utilizar el análisis de contenidos para recopilar datos importan
 
 A primera vista, el análisis cualitativo de contenidos puede parecer muy complejo. Sin embargo, si se observa en sus pasos individuales, resulta más fácil de entender. A continuación se explica el proceso básico de un análisis de contenido cualitativo en ocho pasos y con ayuda de ejemplos.
 
-![Aquí encontrará ocho pasos para realizar un análisis de contenido cualitativo.](https://seatable.io/wp-content/uploads/2024/02/Blue-Modern-Data-Analysis-Your-Story-e1709037008610-711x1085.png)
+![Aquí encontrará ocho pasos para realizar un análisis de contenido cualitativo.](Blue-Modern-Data-Analysis-Your-Story-e1709037008610-711x1085.png)
 
 Estas instrucciones le ayudarán a hacerlo.
 
@@ -73,7 +73,7 @@ La orientación del análisis dependerá de la pregunta de investigación. Las p
 
 Si tu proyecto es un artículo científico, debes ser capaz de **explicar** tu **pregunta de investigación de forma fundamentada**. Para ello, debes relacionarla con las teorías existentes y el estado actual de la investigación.
 
-![Una biblioteca es un buen lugar para encontrar literatura.](https://seatable.io/wp-content/uploads/2024/03/susan-q-yin-2JIvboGLeho-unsplash-e1709908437533-711x502.jpg)
+![Una biblioteca es un buen lugar para encontrar literatura.](susan-q-yin-2JIvboGLeho-unsplash-e1709908437533-711x502.jpg)
 
 Busque bibliografía adecuada para fundamentar su planteamiento.
 
@@ -106,7 +106,7 @@ Es importante que formule cada categoría con claridad para que pueda distinguir
 
 Antes de llevar a cabo un análisis cualitativo del contenido, hay que definir las unidades de análisis. Éstas determinan lo que luego codificará, es decir, categorizará.
 
-![Los artículos en línea están bien estructurados, lo que facilita su división en unidades.](https://seatable.io/wp-content/uploads/2024/03/emiliano-vittoriosi-bmFIX77cXA-unsplash-e1709908751710-711x682.jpg)
+![Los artículos en línea están bien estructurados, lo que facilita su división en unidades.](emiliano-vittoriosi-bmFIX77cXA-unsplash-e1709908751710-711x682.jpg)
 
 Los artículos pueden dividirse fácilmente en unidades gracias a su estructura.
 
@@ -159,7 +159,7 @@ Asegúrese de que su análisis arroja resultados similares cuando se repite entr
 
 Para que su análisis de contenidos funcione a la perfección, aquí tiene las preguntas más importantes que debe plantearse.
 
-![Al realizar un análisis de contenido cualitativo, debe plantearse estas cinco preguntas.](https://seatable.io/wp-content/uploads/2024/03/Green-And-Yellow-Simple-Checklist--e1709905721190-711x513.png)
+![Al realizar un análisis de contenido cualitativo, debe plantearse estas cinco preguntas.](Green-And-Yellow-Simple-Checklist--e1709905721190-711x513.png)
 
 La lista de control le ayuda a no perder de vista los puntos más importantes de su análisis.
 

@@ -27,7 +27,7 @@ Deadlines für Entwürfe und wichtige Veröffentlichungstermine behalten Sie mit
 
 Jedem geplanten Beitrag sollten Sie einen Verantwortlichen zuweisen. So kann jeder im Team den **Redaktionsplan nach seinen To-dos filtern** und auf einen Blick sehen, was zu erledigen ist. Die **Abstimmung über mehrere Personen oder Abteilungen hinweg ist leichter**, wenn klar ist, wer an welchem Projekt beteiligt ist und wer noch Kapazitäten hat.
 
-![Marketingteam erstellt Redaktionsplan Vorlage.](https://seatable.io/wp-content/uploads/2022/05/Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![Marketingteam erstellt Redaktionsplan Vorlage.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
 
 Mit einem Contentplan koordinieren Sie die Planung und Erstellung von Beiträgen. Bildrechte: © DisobeyArt / Adobe Stock
 
@@ -56,7 +56,7 @@ Als Nächstes geht es um die Wahl des passenden Rahmens für Ihren Contentplan. 
 - Benötigen Sie einen Kalender und automatische Erinnerungen?
 - Mit welchen Daten und Statistiken möchten Sie die Performance analysieren?
 
-![Marketingmitarbeiterin erstellt eine Vorlage für Redaktionsplanung.](https://seatable.io/wp-content/uploads/2022/05/Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![Marketingmitarbeiterin erstellt eine Vorlage für Redaktionsplanung.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
 
 Die Planung des Contents erfordert ein durchdachtes Konzept. Bildrechte: © Andrey Popov / Adobe Stock
 
@@ -130,7 +130,7 @@ Um den zeitlichen Überblick zu behalten, können Sie **mit einem Klick von der 
 
 Die Kommunikation zur Planung von Beiträgen erstreckt sich manchmal über diverse E-Mails, interne Chats oder Dokumente. Das kann schnell unübersichtlich werden. Mit SeaTable sind alle Nachrichten an einem Ort gebündelt: **Kommunizieren Sie direkt im Redaktionsplan Ihr Feedback**. Das funktioniert sehr effizient über die [Kommentarfunktion](https://seatable.io/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) in den einzelnen Zeilen. Im [Log](https://seatable.io/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) können Sie **alle Änderungen nachverfolgen** – so ist immer klar, wer im Redaktionsplan welche Änderungen vorgenommen hat.
 
-![Kommunikation leicht gemacht - Anmerkungen können Sie direkt im Contentplan machen](images/Team-communication.jpg)
+![Kommunikation leicht gemacht - Anmerkungen können Sie direkt im Contentplan machen](Team-communication.jpg)
 
 Einfache und direkte Kommunikation im Redaktionsplanplan
 
@@ -138,7 +138,7 @@ Einfache und direkte Kommunikation im Redaktionsplanplan
 
 Sie möchten mit verschiedenen Daten experimentieren und Ihren Content nach Ihren Wünschen auswerten? Dann **erstellen Sie mit SeaTable aussagekräftige [Statistiken](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/)**. Analysieren Sie zum Beispiel, in welchen Monaten Sie besonders viele Beiträge veröffentlicht haben, welcher Mitarbeiter die meisten Beiträge geschrieben hat oder auf welchem Kanal der Content am erfolgreichsten war. Das bietet viele wertvolle Einblicke, wo es gut läuft – und an welchen Stellen es vielleicht noch Verbesserungsbedarf gibt.
 
-![Statistiken geben wertvolle Einblicke, wie gut der Content performt](images/Statistics.jpg)
+![Statistiken geben wertvolle Einblicke, wie gut der Content performt](Statistics.jpg)
 
 ## Tipps, wie Sie Ihren Redaktionsplan effizient einsetzen
 

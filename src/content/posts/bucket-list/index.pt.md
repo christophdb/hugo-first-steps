@@ -14,7 +14,7 @@ Sempre quis experimentar um salto de para-quedas de um avião? Desde criança qu
 
 Os nossos sonhos e aspirações são o que nos move e nos inspira a embarcar em aventuras inesquecíveis. Mas, com demasiada frequência, são adiados ou negligenciados quando somos apanhados pela rotina diária. Uma lista de desejos pode ajudá-lo a captar os seus sonhos e lembrá-lo de os realizar. Afinal de contas, são as experiências que enriquecem as nossas vidas e nos enchem de memórias que duram uma vida inteira.
 
-![Lista de desejos: Mulher a olhar para a distância em frente a um lago.](images/frau-mit-einem-rucksack-mit-blick-auf-den-schwarzen-see-im-nationalpark-durmitor-montenegro-711x474.jpg)
+![Lista de desejos: Mulher a olhar para a distância em frente a um lago.](frau-mit-einem-rucksack-mit-blick-auf-den-schwarzen-see-im-nationalpark-durmitor-montenegro-711x474.jpg)
 
 Quer se trate de emoções aventureiras ou de uma natureza de cortar a respiração: os nossos sonhos são diferentes.
 
@@ -30,7 +30,7 @@ Se ainda não pensou sobre o que quer da vida, uma lista de desejos pode ser um 
 
 Não só ficará mais satisfeito quanto mais assinalar a sua lista - com cada objetivo cumprido, receberá também um **impulso motivacional** que lhe facilitará a realização do objetivo seguinte. Ler regularmente a sua lista e recordá-la também lhe dará uma **boa sensação**.
 
-![Lista de desejos: fotografias de uma viagem](images/pexels-taryn-elliott-4340790-711x474.jpg)
+![Lista de desejos: fotografias de uma viagem](pexels-taryn-elliott-4340790-711x474.jpg)
 
 Mantenha um registo das suas experiências para que as possa recordar vezes sem conta.
 
@@ -42,7 +42,7 @@ Se se esforçar por criar uma lista de objectivos, deve também analisá-la de v
 
 Para algumas pessoas, a ideia de ter coisas inacabadas pode causar stress e pressão - mas não é esse o objetivo da lista. Uma lista de desejos deve ser **divertida** e **motivá-lo**, não pesá-lo. É importante lembrar que uma lista de desejos não é uma corrida a ser vencida. A vida é uma longa viagem e a lista deve acompanhá-lo durante muitos anos. Mesmo que, no final, ainda faltem alguns itens para completar, o importante é celebrar todas as experiências maravilhosas que teve ao longo do caminho.
 
-![Mulher a apreciar a vista numa montanha](images/pexels-nina-uhlikova-725255-711x533.jpg)
+![Mulher a apreciar a vista numa montanha](pexels-nina-uhlikova-725255-711x533.jpg)
 
 O mais importante na vida é saborear ao máximo os belos momentos.
 
@@ -68,7 +68,7 @@ Se não tiver muitas ideias, também pode encontrar inspiração aqui: desde **l
 - Tirar uma selfie com a Torre Inclinada de Pisa
 - Admire as luzes do norte na Islândia
 
-![Lista de desejos: Luzes do Norte no céu](images/aurora-1185464_1280-711x474.jpg)
+![Lista de desejos: Luzes do Norte no céu](aurora-1185464_1280-711x474.jpg)
 
 As luzes do Norte são um impressionante jogo de cores no céu.
 
@@ -83,7 +83,7 @@ As luzes do Norte são um impressionante jogo de cores no céu.
 - Sobreviver a um passeio de rafting
 - Trabalhar no estrangeiro
 
-![Lista de desejos: Alpinista pendurado num parapeito](images/rock-climbing-2264698_1280-711x474.jpg)
+![Lista de desejos: Alpinista pendurado num parapeito](rock-climbing-2264698_1280-711x474.jpg)
 
 Algumas pessoas procuram adrenalina e emoções.
 
@@ -97,7 +97,7 @@ Algumas pessoas procuram adrenalina e emoções.
 - Reserve umas férias relaxantes
 - Completar uma maratona
 
-![Corredor de maratona](images/marathon-3753907_1280-711x474.jpg)
+![Corredor de maratona](marathon-3753907_1280-711x474.jpg)
 
 Se está à procura de um desafio desportivo, pode escolher uma maratona como objetivo.
 
@@ -112,7 +112,7 @@ Se está à procura de um desafio desportivo, pode escolher uma maratona como ob
 - Participar num curso de fotografia
 - Aprender a programar
 
-![Bucket List: Livro sobre a linguagem de programação Python](images/pexels-christina-morillo-1181671-711x475.jpg)
+![Bucket List: Livro sobre a linguagem de programação Python](pexels-christina-morillo-1181671-711x475.jpg)
 
 Python é uma linguagem de programação.
 
@@ -126,7 +126,7 @@ Python é uma linguagem de programação.
 - Ver todos os filmes de "O Senhor dos Anéis" de uma só vez
 - Festejar o Carnaval no Rio de Janeiro
 
-![Museu de Arte ](images/pexels-suzy-hazelwood-3004909-711x400.jpg)
+![Museu de Arte ](pexels-suzy-hazelwood-3004909-711x400.jpg)
 
 Quer se trate de arte, música, literatura ou tradições, a cultura é diversificada.
 
@@ -141,7 +141,7 @@ Quer se trate de arte, música, literatura ou tradições, a cultura é diversif
 - Apanhar cogumelos na floresta
 - Beber champanhe
 
-![Lista de desejos: prato com aperitivos lindamente decorados.](images/pexels-jer-chung-2792186-711x533.jpg)
+![Lista de desejos: prato com aperitivos lindamente decorados.](pexels-jer-chung-2792186-711x533.jpg)
 
 A comida também pode ser uma experiência.
 
@@ -156,7 +156,7 @@ A comida também pode ser uma experiência.
 - Adotar um cão de um abrigo para animais
 - Recolher o lixo na natureza
 
-![Pessoas que recolhem o lixo](images/pexels-anna-shvets-5029859-711x474.jpg)
+![Pessoas que recolhem o lixo](pexels-anna-shvets-5029859-711x474.jpg)
 
 Fazer o bem é um objetivo que não só enriquece a vida dos que nos rodeiam.
 
@@ -171,7 +171,7 @@ Fazer o bem é um objetivo que não só enriquece a vida dos que nos rodeiam.
 - Casar na praia
 - Obter crianças
 
-![Lista de desejos: Um casal ao pôr do sol.](images/pexels-pavel-danilyuk-9143809-711x475.jpg)
+![Lista de desejos: Um casal ao pôr do sol.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 
 Os seus objectivos podem também centrar-se nas relações interpessoais.
 

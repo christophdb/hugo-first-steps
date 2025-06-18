@@ -15,7 +15,7 @@ Manger le moins cher et le plus sain possible en peu de temps - c'est exactement
 
 Meal Prep est l'abréviation de **Meal Pre**paration, ce qui signifie en français préparation des repas. L'idée est de précuire vos plats préférés en grandes quantités afin qu'ils soient prêts à être consommés les jours suivants et qu'ils puissent être réchauffés ou terminés en quelques minutes.
 
-![Avec Meal Prep, les aliments préparés sont rangés dans des boîtes ou des bocaux.](https://seatable.io/wp-content/uploads/2023/11/ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
+![Avec Meal Prep, les aliments préparés sont rangés dans des boîtes ou des bocaux.](ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
 
 Différents plats sont préparés à partir de quelques ingrédients.
 
@@ -46,7 +46,7 @@ Meal Prep présente quelques avantages imbattables, aussi bien par rapport à la
 - **Favorise une alimentation saine :** les plats cuisinés à la maison contiennent souvent moins de sucre, de graisse et de sel - vous savez ce que vous consommez et pouvez adapter les recettes à vos objectifs alimentaires.
 - **Contre le gaspillage alimentaire :** vous pouvez éviter les emballages entamés et les ingrédients abîmés en achetant des aliments frais dans les quantités appropriées et en les utilisant directement dans leur intégralité.
 
-![Avec Meal Prep, seuls les aliments dont vous avez réellement besoin doivent être achetés.](https://seatable.io/wp-content/uploads/2023/11/maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
+![Avec Meal Prep, seuls les aliments dont vous avez réellement besoin doivent être achetés.](maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
 
 En ciblant vos achats, vous économisez de l'argent et du temps, car vous n'achetez que les aliments dont vous avez vraiment besoin.
 
@@ -59,7 +59,7 @@ Cela semble trop beau pour être vrai ? Bien sûr, comme beaucoup de tendances a
 - **La monotonie :** même les plats préférés ne font pas toujours envie quand on les mange pour la troisième journée consécutive. Ci-dessous, vous découvrirez toutefois comment varier vos repas précuits.
 - **Le stockage a un coût :** Si vous cuisinez à l'avance pour plusieurs jours, vous avez besoin de suffisamment de place dans votre réfrigérateur ou votre congélateur et, en outre, de moyens de conservation adéquats.
 
-![Vos repas peuvent être déséquilibrés si vous n'utilisez que quelques ingrédients.](https://seatable.io/wp-content/uploads/2023/11/pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
+![Vos repas peuvent être déséquilibrés si vous n'utilisez que quelques ingrédients.](pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
 
 Faites preuve de créativité et veillez à ce que les plats soient aussi variés que possible.
 
@@ -67,7 +67,7 @@ Faites preuve de créativité et veillez à ce que les plats soient aussi varié
 
 Pour que la mission Meal Prep soit un succès, vous avez d'abord besoin d'un [plan alimentaire](https://seatable.io/fr/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Les **cinq étapes** suivantes vous aideront à le faire.
 
-![Voici comment réussir votre Meal Prep en cinq étapes simples.](https://seatable.io/wp-content/uploads/2023/11/Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
+![Voici comment réussir votre Meal Prep en cinq étapes simples.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 
 Avec une bonne planification, Meal Prep réussit même aux cuisiniers inexpérimentés.
 
@@ -84,7 +84,7 @@ Demandez-vous d'abord pour combien de jours vous souhaitez cuisiner à l'avance.
 
 Les recettes sont choisies, il vous manque encore les **ingrédients**. Listez ce dont vous avez besoin et en quelles **quantités** afin de garder une vue d'ensemble pendant vos achats. De plus, une [liste de courses]({{< relref "templates/everyday-life/shopping-list" >}}) vous aide à n'acheter que les aliments dont vous avez vraiment besoin pour vos repas. Veillez à n'acheter des produits frais et périssables que si vous pouvez les utiliser immédiatement.
 
-![Pour faire vos courses sans dépenser plus, une liste de courses peut vous aider](https://seatable.io/wp-content/uploads/2023/11/torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
+![Pour faire vos courses sans dépenser plus, une liste de courses peut vous aider](torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
 
 Une liste vous aide à garder une vue d'ensemble de vos achats.
 
@@ -110,7 +110,7 @@ La dernière étape de Meal Prep est la plus facile. Sortez les composants prép
 
 Voici un exemple de **plan alimentaire** pour illustrer encore une fois le fonctionnement de Meal Prep : Vous avez choisi quatre plats pour une semaine, qui contiennent tous des légumes, des pommes de terre et/ou du riz. **Les légumes au four** constituent la base de tous les plats et pourraient être composés, par exemple, de poivrons, de courgettes, de carottes, de pois chiches, d'oignons et de champignons.
 
-![Meal Prep avec légumes au four](https://seatable.io/wp-content/uploads/2023/11/markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
+![Meal Prep avec légumes au four](markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
 
 Les légumes au four sont parfaits comme base pour différents plats.
 
@@ -130,4 +130,4 @@ Pour que vos recettes préférées soient toujours à portée de main, vous pouv
 
 Il vous suffit d'inscrire le jour où vous souhaitez cuisiner un plat la prochaine fois et de créer en permanence de nouveaux **plans hebdomadaires Meal Prep** dans le calendrier. Téléchargez des photos et laissez-vous inspirer semaine après semaine par votre galerie de plats possibles. Deux autres tableaux vous permettent d'enregistrer tous les ingrédients dans une **liste de courses** et de comparer les **valeurs nutritives** de vos plats préférés.
 
-Si vous souhaitez utiliser SeaTable pour votre plan hebdomadaire Meal Prep, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/healthcare/recipes-meal-plan" >}}). Supprimez les exemples de recettes et adaptez le plan alimentaire à vos besoins.
+Si vous souhaitez utiliser SeaTable pour votre plan hebdomadaire Meal Prep, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/healthcare/recipes-meal-plan" >}}). Supprimez les exemples de recettes et adaptez le plan alimentaire à vos besoins.

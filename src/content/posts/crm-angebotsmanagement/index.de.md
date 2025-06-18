@@ -47,13 +47,13 @@ Um mit der Erfassung der eigentlichen Kundendaten zu starten, steht Ihnen bei un
 
 Diese Daten wandern im Anschluss in Ihr persönliches CRM-System bzw. in die SeaTable Tabelle „Customer Data“ und werden dort direkt nach Umsatzpotenzial farblich gekennzeichnet.
 
-![CRM_Webformular](https://seatable.de/wp-content/uploads/2021/07/CRM_Webform.jpg)
+![CRM_Webformular](CRM_Webform.jpg)
 
 Erfassung neuer Kunden via Webformular in SeaTable
 
 Mit nur einem Blick auf die Zeile, wissen Sie genau in welche Umsatzkategorie der eingetragene Kunde fällt. Das soll Ihnen zusätzlich dabei helfen, schnell und effektiv den Kunden anhand des Umsatzpotenzials einem Ihrer Mitarbeiter zuzuweisen. Besonders hilfreich ist hierbei auch die [Benachrichtigungsregel](https://seatable.io/docs/handbuch/zusammenarbeit/benachrichtigungen/?lang=auto), die gesetzt wurde. Falls Sie nun nachträglich manuell das Umsatzpotenzial des Kunden ändern, wird der Vorgesetzte des jeweiligen Verkaufsteams direkt kontaktiert und gebeten, den vorhandenen Kunden einem seiner Mitarbeiter zuzuweisen.
 
-![CRM-System](https://seatable.de/wp-content/uploads/2021/07/CRM_Customer-data-view.jpg)
+![CRM-System](CRM_Customer-data-view.jpg)
 
 Das CRM-System von SeaTable
 
@@ -65,13 +65,13 @@ Um Ihrem Kunden einen Mitarbeiter aus Ihrem Sales Team zuweisen zu können, müs
 
 Eine [Gruppierungsfunktion](https://seatable.io/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) und farbliche Kennzeichnung der Zeilen nach Position des Mitarbeiters sollen Ihnen zusätzliche klare Kundenstrukturen Ihrer Mitarbeiter aufzeigen.
 
-![CRM_Salesteam](https://seatable.de/wp-content/uploads/2021/07/CRM_Salesteam.jpg)
+![CRM_Salesteam](CRM_Salesteam.jpg)
 
 Ihr Salesteam in SeaTable
 
 Nun können Sie ganz einfach mit nur einem Klick in die Spalte „Responsible employee“ in der Tabelle „Customer data“ den Kunden einen Ihrer verantwortlichen Mitarbeiter zuweisen. Das Ganze erfolgt im Hintergrund mit einer Verknüpfung auf die Tabelle „Sales Team“.
 
-![CRM_Salesteam_Mitarbeiter](https://seatable.de/wp-content/uploads/2021/07/CRM_Salesteam02.jpg)
+![CRM_Salesteam_Mitarbeiter](CRM_Salesteam02.jpg)
 
 Kundenzuweisung in SeaTable
 
@@ -79,19 +79,19 @@ Kundenzuweisung in SeaTable
 
 In nur wenigen Sekunden haben Sie Ihr ganz persönliches Angebot für Ihren Kunden erstellt. Bevor Sie jedoch starten können, ist es wichtig, dass Sie Ihren Produktkatalog gepflegt haben. Sobald Sie alle Ihre Produkte mit Produktnamen und Preis erfasst haben, können Sie direkt loslegen mit der Angebotserstellung.
 
-![CRM_Produktkatalog](https://seatable.io/wp-content/uploads/2021/07/CRM_Products.jpg)
+![CRM_Produktkatalog](CRM_Products.jpg)
 
 Ihr Produktkatalog in SeaTable
 
 Hierzu erstellen Sie in Ihrer Tabelle „Offers“ einfach einen neuen Eintrag. Die Angebotsnummer, die fortlaufend ist, das dazugehörige Angebotsdatum inklusive Uhrzeit und der Angebotsersteller werden automatisch vorausgefüllt. Wählen Sie nun in der „Customer Spalte“ Ihren gewünschten Kunden aus, dem Sie gerne ein Angebot unterbreiten möchten. Die restlichen fehlenden Kundendaten wie Kundennummer, Kontaktperson, Straße, Hausnummer, Postleitzahl, Stadt und Land werden automatisch per Verknüpfungsspalte aus der Tabelle „Customer data“ übertragen.
 
-![CRM_Angebot_Kundendaten](https://seatable.de/wp-content/uploads/2021/07/CRM_offer_customer.jpg)
+![CRM_Angebot_Kundendaten](CRM_offer_customer.jpg)
 
 Angebotserstellung in SeaTable
 
 Im Anschluss können Sie nun bequem Ihr angebotenes Produkt in der Spalte „Product“ auswählen. Der Einzelpreis wird wieder per Verknüpfungsspalte automatisch aus Ihrer Tabelle „Product catalogue“ ergänzt. Nun geben Sie unter „Quantity“ einfach die angebotene Menge an und der Angebotspreis errechnet sich anhand der Formel Einzelpreis x Menge automatisch.
 
-![CRM_SeaTable_Produktwahl](https://seatable.de/wp-content/uploads/2021/07/crm_product_select.jpg)
+![CRM_SeaTable_Produktwahl](crm_product_select.jpg)
 
 Produktauswahl in SeaTable
 
@@ -99,7 +99,7 @@ Um Ihr Angebot nun final ausdrucken oder als PDF-Datei speichern zu können, wä
 
 Mit nur einem Klick auf „Drucken“ können Sie dies nun ausdrucken oder als PDF-Dokument speichern und im Anschluss postalisch oder per E-Mail an Ihren Kunden versenden.
 
-![CRM_Angebotserstellung](https://seatable.de/wp-content/uploads/2021/07/seatable_pagedesign-plugin-02.jpg)
+![CRM_Angebotserstellung](seatable_pagedesign-plugin-02.jpg)
 
 Ihr fertiges Angebot in SeaTable
 
@@ -109,19 +109,19 @@ Sollte Ihr Kunde das Angebot akzeptiert und bezahlt haben, so können Sie einfac
 
 Neben der Tabellenansicht bietet SeaTable eine Reihe weiterer Plug-ins, um Ihre Daten anders darzustellen. Diese zusätzlichen Darstellungen und Automationen können Sie nutzen, um einen anderen Blickwinkel auf Ihre Kunden zu bekommen und um zielgerichtet Aktivitäten daraus abzuleiten. Das Kalender-Plug-in liefert Ihnen einen wichtigen Überblick aller in Ihrem Team anstehenden Kundentermine. Zudem werden die Kunden anhand des Umsatzpotenzials in Ihrem Kalender gekennzeichnet. Damit auch keine Kundentermine vergessen werden, wird zwei Tage vor dem anstehenden Termin des zuständigen Mitarbeiters oder der zuständigen Mitarbeiterin mithilfe einer Benachrichtigungsregel automatisch an den Termin erinnert.
 
-![CRM_SeaTable_Kalender](https://seatable.de/wp-content/uploads/2021/07/CRM-calendar.jpg)
+![CRM_SeaTable_Kalender](CRM-calendar.jpg)
 
 Kalenderansicht in SeaTable
 
 Das Map-Plug-in hingegen soll Ihnen Ihre Kundenverteilung darstellen und Ihnen anhand des Umsatzpotenzials farblich aufzeigen, wo Ihre wichtigsten Kunden zu Hause sind. Mit dem „Mouse-Over-Effekt“ auf die einzelne Stecknadel in der Kartenansicht erhalten Sie weitere wichtige Infos zu dem eigentlichen Kunden, der sich hinter der Markierung verbirgt.
 
-![CRM_SeaTable_Map](https://seatable.de/wp-content/uploads/2021/07/CRM_map.jpg)
+![CRM_SeaTable_Map](CRM_map.jpg)
 
 Kartenansicht in SeaTable
 
 Abgerundet wird Ihr SeaTable-CRM-System mit dem Kanban-Plug-in. Dieses zeigt Ihnen, wie die genaue Verteilung anhand des Umsatzpotenzials Ihrer Kunden aussieht und zum anderen, in welchen Vertriebsphasen sich Ihre Mitarbeiter im Außendienst gerade befinden. Diese Ansicht wird auch gerne als Vertriebspipeline bezeichnet und lässt Sie die wichtigsten Kunden nicht aus dem Auge verlieren.
 
-![CRM_SeaTable_Kanban](https://seatable.de/wp-content/uploads/2021/07/CRM_kanban.jpg)
+![CRM_SeaTable_Kanban](CRM_kanban.jpg)
 
 Kanbanansicht in SeaTable
 
@@ -129,7 +129,7 @@ Kanbanansicht in SeaTable
 
 Um präzise Aussagen über Ihren Vertriebserfolg treffen zu können, ist es wichtig, dass in Ihrem CRM-System alle relevanten Informationen auf einen Blick zur Verfügung stehen. SeaTable ermöglicht es Ihnen, im Handumdrehen Ihre ganz individuellen Auswertungen Mithilfe von [Statistiken](https://seatable.io/docs/handbuch/datenmanagement/statistiken/?lang=auto) zu erstellen. So erhalten Sie Ihre ganz persönliche und individuelle Dashboard-Ansicht, die Ihrem SeaTable-CRM den letzten Feinschliff verleiht.
 
-![CRM_SeaTable_Statistiken](https://seatable.de/wp-content/uploads/2021/07/crm_statistics.jpg)
+![CRM_SeaTable_Statistiken](crm_statistics.jpg)
 
 Statistiken in SeaTable
 

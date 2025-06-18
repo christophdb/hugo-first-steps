@@ -121,7 +121,7 @@ Als Trend lässt sich die zunehmende Verwendung von cloudbasierten Datenmanageme
 
 In der tabellenbasierten [No-Code-Datenbank SeaTable]({{< relref "/" >}}) können Sie Ihre Daten effizient speichern, abrufen und analysieren, ohne SQL-Kenntnisse oder sonstige technische Vorerfahrung mitbringen zu müssen. Dabei können Sie nicht nur spielend leicht Daten strukturieren und verknüpfen, sondern auch Dateien, Bilder und Dokumente speichern.
 
-Im Gegensatz zu anderen relationalen Datenbanken können Sie auf der **grafischen Benutzeroberfläche** von SeaTable direkt Auswertungen vornehmen. Für weitergehende Analysen stehen Ihnen zahlreiche Statistiken zur Verfügung. Wenn Ihnen dies noch nicht reicht, können Sie Ihre Daten mithilfe von [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) in Galerien, Kalendern, Organigrammen etc. visualisieren.
+Im Gegensatz zu anderen relationalen Datenbanken können Sie auf der **grafischen Benutzeroberfläche** von SeaTable direkt Auswertungen vornehmen. Für weitergehende Analysen stehen Ihnen zahlreiche Statistiken zur Verfügung. Wenn Ihnen dies noch nicht reicht, können Sie Ihre Daten mithilfe von [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) in Galerien, Kalendern, Organigrammen etc. visualisieren.
 
 Mit dem **No-Code-App-Builder** von SeaTable können Sie ohne Programmierkenntnisse eigene Apps bauen und so den Zugriff auf die Daten in Ihrer Datenbank zielgenau steuern. Für das App-Design gibt es vorgefertigte Seitentypen mit visuellen Elementen, die Sie einfach per Drag-and-Drop zusammenfügen können.
 

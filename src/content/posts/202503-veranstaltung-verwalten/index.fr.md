@@ -154,7 +154,7 @@ Pour rendre votre programme-cadre plus intéressant et vous assurer que vos invi
 
 Lorsque vous gérez des événements, les invitations jouent un rôle crucial dans votre succès. L'utilisation d'invitations personnalisées vous permet d'augmenter efficacement le nombre de participants. En outre, l'envoi de notifications "Save the Date" pendant la phase de planification peut contribuer à susciter l'intérêt à un stade précoce et à garantir que vos invités réservent la date.
 
-N'oubliez pas d'inclure dans les invitations des informations importantes telles que la date, l'heure, le lieu et le programme. Pour faciliter le processus de réservation pour vos invités, l'intégration d'un système de réservation de billets est une bonne solution. Grâce à un [formulaire web](https://seatable.io/docs/webformulare/webformulare/) dans le [modèle] préfabriqué({{< relref "templates/events/event-management" >}}) de SeaTable, vous pouvez facilement réaliser cette étape et créer une liste de participants de manière totalement automatisée.
+N'oubliez pas d'inclure dans les invitations des informations importantes telles que la date, l'heure, le lieu et le programme. Pour faciliter le processus de réservation pour vos invités, l'intégration d'un système de réservation de billets est une bonne solution. Grâce à un [formulaire web]({{< relref "help/base-editor/webformulare" >}}) dans le [modèle] préfabriqué({{< relref "templates/events/event-management" >}}) de SeaTable, vous pouvez facilement réaliser cette étape et créer une liste de participants de manière totalement automatisée.
 
 ![Envoyer des invitations avec SeaTable via le formulaire web](Einladungskommunikation.jpg)
 
@@ -164,7 +164,7 @@ Pour que votre événement soit bien fréquenté et que sa planification en vail
 
 Pour les événements internes au personnel, vous pouvez par exemple utiliser des affiches dans l'entreprise, des annonces via la newsletter ou des invitations par e-mail. Vous pouvez également demander aux cadres d'évoquer l'événement lors des réunions d'équipe afin que la nouvelle se répande dans les couloirs.
 
-Pour les événements commerciaux tels que les festivals, une publicité ciblée via les plateformes de médias sociaux, des annonces dans des magazines pertinents et une mention sur votre propre site web sont utiles. Si vous prévoyez une [exposition d'art](https://seatable.io/ausstellungs-und-kunstmanagement-museum-galerie/), vous pouvez miser sur des affiches, des flyers, des communiqués de presse et l'intégration de magazines d'art et de culture.
+Pour les événements commerciaux tels que les festivals, une publicité ciblée via les plateformes de médias sociaux, des annonces dans des magazines pertinents et une mention sur votre propre site web sont utiles. Si vous prévoyez une [exposition d'art]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}), vous pouvez miser sur des affiches, des flyers, des communiqués de presse et l'intégration de magazines d'art et de culture.
 
 Il est important de lancer les mesures publicitaires à temps et de présenter les messages de manière attrayante et informative afin d'éveiller l'intérêt de votre groupe cible et d'atteindre un nombre élevé de visiteurs.
 

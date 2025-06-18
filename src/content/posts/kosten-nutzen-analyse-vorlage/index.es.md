@@ -20,13 +20,13 @@ Un análisis coste-beneficio, o ACB para abreviar, es un **análisis de rentabil
 
 La ventaja es que se pueden agrupar todos los **factores y efectos asociados a una inversión** en una sola base de datos, con lo que no se pierde la visión de conjunto. Especialmente en los [grandes proyectos](https://seatable.io/es/projektstrukturplan-vorlage/), hay un gran número de criterios objetivos y subjetivos que afectan al ACB de formas muy distintas. Una plantilla le ayuda a no perder de vista todos estos aspectos.
 
-![Plantilla impresa para un análisis coste-beneficio.](https://seatable.io/wp-content/uploads/2022/08/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Plantilla impresa para un análisis coste-beneficio.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 
 Benefíciese de un análisis coste-beneficio. Derechos de imagen: amazing studio / Adobe Stock
 
 ## ¿Dónde se utiliza el análisis coste-beneficio?
 
-Cuanto mayor es un [proyecto]({{< relref "templates/projects/project-plan" >}}), mayor suele ser su importe de inversión. Mientras que los [costes](https://seatable.io/es/budgetplanung-vorlage/) de una inversión suelen ser bastante fáciles de determinar, los beneficios específicos son mucho más difíciles de identificar. La razón es que ni el éxito ni el impacto de una medida pueden predecirse y cuantificarse de antemano con fiabilidad. Además, los beneficios de una inversión suelen estar sujetos a una evaluación subjetiva por parte de los responsables de la toma de decisiones.
+Cuanto mayor es un [proyecto]({{< relref "templates/projects/project-plan" >}}), mayor suele ser su importe de inversión. Mientras que los [costes]({{< relref "templates/finance/budget-book" >}}) de una inversión suelen ser bastante fáciles de determinar, los beneficios específicos son mucho más difíciles de identificar. La razón es que ni el éxito ni el impacto de una medida pueden predecirse y cuantificarse de antemano con fiabilidad. Además, los beneficios de una inversión suelen estar sujetos a una evaluación subjetiva por parte de los responsables de la toma de decisiones.
 
 Un ACB ayuda a documentar claramente todos los posibles factores que influyen en una decisión empresarial y a evaluarlos de forma objetiva y neutral en todos los departamentos. Para ello, resulta ventajoso utilizar una **base de datos**. Al fin y al cabo, si se crea el análisis coste-beneficio utilizando una plantilla, todos los implicados pueden trabajar sobre la misma base. Así no se pierde ningún dato, no se pasan por alto aspectos importantes y se pueden añadir fácilmente factores adicionales que otros departamentos consideren relevantes.
 
@@ -41,7 +41,7 @@ Básicamente, un análisis coste-beneficio siempre es apropiado cuando se planif
 - Introducir nuevos procesos empresariales
 - desea ampliar su [flota de vehículos](https://seatable.io/es/fuhrparkmanagement/)
 
-![El empleado crea una plantilla para un análisis coste-beneficio.](images/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
+![El empleado crea una plantilla para un análisis coste-beneficio.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 
 Un empleado realiza un análisis de costes y beneficios. Derechos de imagen: Andrey Popov / Adobe Stock
 

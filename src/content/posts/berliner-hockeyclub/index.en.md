@@ -41,7 +41,7 @@ In addition, the club manager Timo Stephan would like to see better handling of 
 
 Many sports clubs are supported primarily by the commitment and enthusiasm of volunteers. As club manager, Timo Stephan distributes a wide variety of tasks to them and also always wants to keep track of the status of the distributed tasks. Now, volunteers are not on site every day, which naturally makes communication more difficult. Phone calls and e-mails pile up in the inbox, and the overview is quickly lost. A mobile solution must be found to include all these people.
 
-![Digitization of a sports club with SeaTable](images/berliner-hockeyclub-goes-digital.jpg)
+![Digitization of a sports club with SeaTable](berliner-hockeyclub-goes-digital.jpg)
 
 ## SeaTable for clearer structures and better communication
 

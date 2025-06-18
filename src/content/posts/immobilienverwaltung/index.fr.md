@@ -25,7 +25,7 @@ Copiez les modèles, adaptez-les à vos besoins ou utilisez les structures et le
 
 ## Gérez tous vos biens immobiliers de manière claire dans un seul logiciel
 
-![Gestion des biens immobiliers avec SeaTable](https://seatable.io/wp-content/uploads/2022/04/seatable-property-management.png)
+![Gestion des biens immobiliers avec SeaTable](seatable-property-management.png)
 
 Gestion des biens immobiliers avec SeaTable
 
@@ -35,7 +35,7 @@ Notre [modèle de gestion immobilière]({{< relref "templates/real-estate/proper
 
 ## Maintenez vos biens immobiliers en ordre et coordonnez les services de conciergerie
 
-![Coordonner les services de conciergerie pour entretenir les biens immobiliers](https://seatable.io/wp-content/uploads/2022/04/hausmeisterdienste-seatable.png)
+![Coordonner les services de conciergerie pour entretenir les biens immobiliers](hausmeisterdienste-seatable.png)
 
 Coordonner les services de conciergerie avec SeaTable
 
@@ -47,7 +47,7 @@ Si vous le souhaitez, vous pouvez même informer par e-mail la personne qui a si
 
 ## Ne laissez rien au hasard lors de votre prochaine recherche de logement
 
-![Trouver un logement avec SeaTable](https://seatable.io/wp-content/uploads/2022/04/wohnungssuche-seatable-vorlage-immobilien.png)
+![Trouver un logement avec SeaTable](wohnungssuche-seatable-vorlage-immobilien.png)
 
 Recherche de logement avec SeaTable - Ne laissez rien au hasard.
 
@@ -57,7 +57,7 @@ Notre [modèle de recherche de logement]({{< relref "templates/real-estate/apart
 
 ## Commencez à planifier votre prochain déménagement
 
-![Votre prochain déménagement sera un jeu d'enfant avec SeaTable](https://seatable.io/wp-content/uploads/2022/04/umzugsliste-seatable-immobilien.png)
+![Votre prochain déménagement sera un jeu d'enfant avec SeaTable](umzugsliste-seatable-immobilien.png)
 
 Votre prochaine planification de déménagement sera un jeu d'enfant avec SeaTable.
 

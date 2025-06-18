@@ -13,7 +13,7 @@ seo:
 
 Das Schreiben eines Buches ist für viele ein faszinierender, aber auch herausfordernder Prozess. Von der ersten Idee bis zum fertigen **Manuskript** gibt es zahlreiche Hürden zu überwinden und Weichen zu stellen. In einer Zeit, in der digitale Werkzeuge und Softwarelösungen eine immer größere Rolle im **kreativen Schaffensprozess** spielen, ist es für Autoren entscheidend, die richtige Software zu finden, um ihre Visionen zum Leben zu erwecken. Dieser Artikel wirft einen genaueren Blick auf **7 Tools**, mit denen Sie Ihr Buch schreiben können.
 
-![Kleiner Autor steht vor Schreibmaschine und denkt nach.](images/Tiny-male-author-or-screenwriter-writing-story-or-movie-script-711x444.jpg)
+![Kleiner Autor steht vor Schreibmaschine und denkt nach.](Tiny-male-author-or-screenwriter-writing-story-or-movie-script-711x444.jpg)
 
 Das Schreiben eines Buches erfordert Zeit und Hingabe.
 
@@ -27,7 +27,7 @@ Ein [Schreibprozess](https://de.wikipedia.org/wiki/Schreibprozess#Das_Schreibpro
 - Mit der Struktur als Leitfaden beginnt das eigentliche **Schreiben**. In dieser Phase setzen Sie Ihre Ideen in Worte um und entwickeln das Buch weiter.
 - Der letzte Schritt ist das **Überarbeiten**. Hier wird das Buch sorgfältig überprüft, um Fehler zu korrigieren, den Schreibstil zu verbessern und sicherzustellen, dass der Text den gewünschten Standard erreicht.
 
-![Grafik Buch schreiben: Der Schreibprozess in 5 Schritten](images/Schreibprozess-in-5-Schritten-4-711x400.png)
+![Grafik Buch schreiben: Der Schreibprozess in 5 Schritten](Schreibprozess-in-5-Schritten-4-711x400.png)
 
 Schreibprozess in 5 Schritten
 
@@ -37,7 +37,7 @@ Die Bedeutung einer gründlichen Planung sollte beim Buch schreiben mit einem Pr
 
 Nicht nur inhaltlich, sondern auch organisatorisch ist eine Planung von Vorteil. Ein Buch zu schreiben ist ein gewaltiges Projekt, das sich leichter bewältigen lässt, wenn man es in **überschaubare Häppchen** unterteilt. Diese Untergliederung erleichtert Ihnen nicht nur den Schreibprozess selbst, sondern hilft auch dabei, den **Überblick** über das Gesamtprojekt zu behalten und den **Fortschritt** besser zu verfolgen.
 
-![Autorin denkt nach und erschafft einen roten Faden.](images/8753615-711x506.jpg)
+![Autorin denkt nach und erschafft einen roten Faden.](8753615-711x506.jpg)
 
 Selbst fiktive Geschichten erfordern oft gründliche Recherche, um realistische Details zu liefern.
 
@@ -64,7 +64,7 @@ Die Einarbeitung in Papyrus erfordert Zeit, um den vollen Funktionsumfang zu erf
 **Anpassungsmöglichkeit:** hoch  
 **Kosten:** 199 Euro
 
-![Buch schreiben: Die Datenbank für Gegenstände in Papyrus](images/papyrus-711x610.png)
+![Buch schreiben: Die Datenbank für Gegenstände in Papyrus](papyrus-711x610.png)
 
 In Papyrus kann man ausführliche Datenbanken anlegen.
 
@@ -77,7 +77,7 @@ Möchte man mit Scrivener ein Buch schreiben, kann man in dem Programm direkt zu
 **Anpassungsmöglichkeit:** sehr hoch  
 **Kosten:** 69,99 Euro
 
-![Buch schreiben: Einblicke in Scrivener](images/scrivener-711x381.png)
+![Buch schreiben: Einblicke in Scrivener](scrivener-711x381.png)
 
 Scrivener ermöglicht übersichtliche Charakterbögen.
 
@@ -90,7 +90,7 @@ Die Kernfunktion von Plottr ist ein **Zeitplan**, der es Autoren ermöglicht, de
 **Anpassungsmöglichkeit:** sehr hoch  
 **Kosten:** 149 – 299 Dollar
 
-![Buch schreiben mit Plottr: ein Einblick](images/plottr-711x388.png)
+![Buch schreiben mit Plottr: ein Einblick](plottr-711x388.png)
 
 Mit Plottr lassen sich Handlungsstränge einfach visualisieren.
 
@@ -103,7 +103,7 @@ Die Software DramaQueen ist zwar primär für **Drehbücher** und **Buchreihen**
 **Anpassungsmöglichkeit:** gut  
 **Kosten:** kostenlose Basisfunktion
 
-![Buch schreiben: Beispiel Plot konstruieren mit Dramaqueen](images/Dramaqueen-711x343.png)
+![Buch schreiben: Beispiel Plot konstruieren mit Dramaqueen](Dramaqueen-711x343.png)
 
 Mit DramaQueen können Sie die Schwächen Ihrer Dramaturgie herausfinden.
 
@@ -116,7 +116,7 @@ Patchwork bietet umfangreiche Unterstützung für Autoren durch zahlreiche **Bei
 **Anpassungsmöglichkeit:** hoch  
 **Kosten:** 154 – 189 Euro
 
-![Buch schreiben: Einblick in die Software Patchwork](images/patchwork-711x389.png)
+![Buch schreiben: Einblick in die Software Patchwork](patchwork-711x389.png)
 
 ### Campfire Pro
 
@@ -127,7 +127,7 @@ Campfire Pro zeichnet sich durch einen einfachen Aufbau mit **Panels** aus, die 
 **Anpassungsmöglichkeit:** sehr hoch  
 **Kosten:** teilweise kostenlos
 
-![Buch schreiben: Ein Einblick in Campfire Pro](images/campfire-711x437.png)
+![Buch schreiben: Ein Einblick in Campfire Pro](campfire-711x437.png)
 
 ### SeaTable
 

@@ -15,7 +15,7 @@ Mit wenig Zeit möglichst günstig und gesund essen – ein Trend aus den USA ve
 
 Meal Prep ist die Abkürzung für **Meal Preparation**, was im Deutschen so viel wie Essensvorbereitung bedeutet. Die Idee dahinter ist, dass Sie Ihre Lieblingsspeisen in größeren Mengen vorkochen, damit sie in den folgenden Tagen zum Verzehr bereitstehen und in wenigen Minuten aufgewärmt oder fertiggestellt werden können.
 
-![Bei Meal Prep wird zusammengestelltes Essen in Boxen oder Gläsern verstaut.](https://seatable.io/wp-content/uploads/2023/11/ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
+![Bei Meal Prep wird zusammengestelltes Essen in Boxen oder Gläsern verstaut.](ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
 
 Aus wenigen Zutaten werden verschiedene Speisen gezaubert.
 
@@ -46,7 +46,7 @@ Meal Prep hat einige unschlagbare Vorteile – sowohl gegenüber dem täglichen 
 - **Fördert gesunde Ernährung:** Selbstgekochte Gerichte enthalten oft weniger Zucker, Fett und Salz – Sie wissen, was Sie zu sich nehmen, und können die Rezepte an Ihre Ernährungsziele anpassen.
 - **Gegen Lebensmittelverschwendung:** Sie können angebrochene Packungen und verdorbene Zutaten vermeiden, indem Sie frische Lebensmittel in der passenden Menge kaufen und direkt vollständig verwerten.
 
-![Bei Meal Prep sollen nur die Lebensmittel gekauft werden, die Sie auch wirklich brauchen.](https://seatable.io/wp-content/uploads/2023/11/maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
+![Bei Meal Prep sollen nur die Lebensmittel gekauft werden, die Sie auch wirklich brauchen.](maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
 
 Bei einem gezielten Einkauf sparen Sie Geld und Zeit, weil Sie nur die Lebensmittel kaufen, die Sie wirklich brauchen.
 
@@ -59,7 +59,7 @@ Das klingt zu schön, um wahr zu sein? Wie viele Essenstrends kann natürlich au
 - **Eintönigkeit:** Selbst auf Lieblingsgerichte hat man nicht immer Lust, wenn man Sie den dritten Tag in Folge isst. Unten erfahren Sie aber, wie Sie Abwechslung in Ihr vorgekochtes Essen bringen können.
 - **Lagerung kostet:** Wer für mehrere Tage vorkocht, braucht genügend Platz in seinem Kühlschrank oder Gefrierfach und zudem die richtigen Aufbewahrungsmittel.
 
-![Ihre Mahlzeiten können einseitig werden, wenn Sie nur wenige Zutaten verwenden.](https://seatable.io/wp-content/uploads/2023/11/pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
+![Ihre Mahlzeiten können einseitig werden, wenn Sie nur wenige Zutaten verwenden.](pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
 
 Seien Sie kreativ und sorgen Sie für möglichst abwechslungsreiche Gerichte.
 
@@ -67,7 +67,7 @@ Seien Sie kreativ und sorgen Sie für möglichst abwechslungsreiche Gerichte.
 
 Damit die Mission Meal Prep ein Erfolg wird, benötigen Sie zunächst einen [Essensplan](https://seatable.io/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Die folgenden **fünf Schritte** helfen Ihnen beim Ablauf.
 
-![So gelingt Ihr Meal Prep in fünf einfachen Schritten.](https://seatable.io/wp-content/uploads/2023/11/Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
+![So gelingt Ihr Meal Prep in fünf einfachen Schritten.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 
 Mit der richtigen Planung gelingt Meal Prep auch ungeübten Köchen.
 
@@ -84,7 +84,7 @@ Stellen Sie sich zunächst die Frage, für wie viele Tage Sie vorkochen möchten
 
 Die Rezepte sind ausgewählt, jetzt fehlen Ihnen noch die **Zutaten**. Listen Sie auf, was Sie in welchen **Mengen** brauchen, damit Sie während Ihres Einkaufs den Überblick behalten. Außerdem hilft Ihnen eine [Einkaufsliste]({{< relref "templates/everyday-life/shopping-list" >}}) dabei, nur die Lebensmittel zu kaufen, welche Sie für Ihre Mahlzeiten wirklich benötigen. Achten Sie darauf, frische und leicht verderbliche Ware erst dann zu kaufen, wenn Sie sie sofort weiterverarbeiten können.
 
-![Um Ihren Einkauf ohne mehr Ausgaben durchzuziehen, hilft Ihnen eine Einkaufsliste](https://seatable.io/wp-content/uploads/2023/11/torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
+![Um Ihren Einkauf ohne mehr Ausgaben durchzuziehen, hilft Ihnen eine Einkaufsliste](torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
 
 Eine Liste hilft Ihnen, Ihre Einkäufe zu überblicken.
 
@@ -110,7 +110,7 @@ Der letzte Schritt des Meal Prep ist der leichteste. Nehmen Sie die vorbereitete
 
 Ein Beispiel für einen **Essensplan** soll die Funktionsweise von Meal Prep noch einmal illustrieren: Sie haben sich für eine Woche vier Gerichte ausgesucht, die alle Gemüse, Kartoffeln und/oder Reis enthalten. Das **Ofengemüse** bildet die Grundlage für alle Gerichte und könnte beispielsweise aus Paprika, Zucchini, Karotten, Kichererbsen, Zwiebeln und Pilzen bestehen.
 
-![Meal Prep mit Ofengemüse](https://seatable.io/wp-content/uploads/2023/11/markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
+![Meal Prep mit Ofengemüse](markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
 
 Ofengemüse eignet sich hervorragend als Basis für verschiedene Gerichte.
 

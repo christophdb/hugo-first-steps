@@ -18,7 +18,7 @@ Sehr große Tabellen führen zu langen Ladezeiten und beeinträchtigen die Benut
 
 Die neue Archivfunktion beseitigt diese Restriktion! Zusätzlich zu den 150.000 Zeilen im aktiven Datenbestand können Millionen von Zeilen im Archiv gespeichert werden. Damit bietet die Archivfunktion eine Lösung für all die Anwendungen, für die SeaTables bisherigen Limite nicht ausreichend waren.
 
-![Archive function](https://seatable.io/wp-content/uploads/2021/09/Archive-function-1088x631.png)
+![Archive function](Archive-function-1088x631.png)
 
 In Sachen Auswertungs- und Analysemöglichkeiten sind die Unterschiede zwischen aktiven und archivierten Zeilen überschaubar: Das Archiv unterstützt alle Spaltentypen. Filter und Sortierungen erlauben die schnelle Auswertung der Daten im Archiv. Und auch der Zugriff per API und durch [externe Apps](https://seatable.io/seatable-release-2-2#Externe_Apps_nur_fuer_Enterprise_Abos/?lang=auto) ist möglich. Eine Suchfunktion und die vollständige Unterstützung der Plugins ist in Entwicklung.
 
@@ -55,7 +55,7 @@ Archivierte Zeilen können aktuell nicht zurück in den aktiven Datenbestand ver
 
 Der Zugriff auf die Daten im Archiv erfolgt über den neuen Ansichtstyp Archivansicht. Sobald Zeilen archiviert wurden, kann eine solche Archivansicht – wie andere Ansichten auch – über das Ansichtsmenü erstellt werden. Archivansichten sind durch das ihnen eigene Icon in der Ansichtsnavigation leicht zu erkennen.
 
-![Archive view](https://seatable.io/wp-content/uploads/2021/09/Archive-view-creation-1088x518.png)
+![Archive view](Archive-view-creation-1088x518.png)
 
 Die Archivansicht zeigt archivierte und nicht-archivierte Zeilen an und erlaubt Auswertungen über den gesamten – archivierten und aktiven – Datenbestand der Tabelle. Dafür stehen die bekannten Analysewerkzeuge zur Verfügung. Mit einem Plugin für erweiterte Statistiken wird es in Kürze darüber hinaus ein Werkzeug geben, mit dem sich sehr große Datenmengen umfangreich auswerten lassen. Für die Auswertungsmöglichkeiten spielt es somit fast keine Rolle, ob Zeilen archiviert sind oder nicht.
 
@@ -69,7 +69,7 @@ Die Tabellenhistorie und Kommentare gehören nicht zu den Informationen, die man
 
 Nach [Standardwerten für Spalten]({{< relref "posts/seatable-releases/seatable-release-2-0" >}}) gibt es in der Version 2.3 nun auch Standardwerte für Formularfelder. Und nicht nur statische Standardwerte werden unterstützt: Die Variablen _creator.id_ und _creator.name_ fügen bei angemeldeten Benutzern automatisch die Benutzer-ID bzw. den Benutzernamen im Formularfeld ein.
 
-![Default values in forms](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
+![Default values in forms](Default-values-forms-1088x974.png)
 
 ### Vorschau für den Spaltentyp formatierter Text
 

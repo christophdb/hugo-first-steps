@@ -59,13 +59,13 @@ Con nuestra [plantilla SeaTable para un plan de actividades]({{< relref "templat
 
 Nuestra plantilla consiste esencialmente en un calendario de 365 días con fines de semana y días festivos marcados, en el que puede introducir fácilmente todo lo relacionado con su planificación. Esto tiene la ventaja de que puedes ver los días de la semana y los meses en una vista holística. Esto permite tener una mejor visión de conjunto de cuándo y con qué periodicidad debe tener lugar una determinada cita o actividad y facilita la planificación anual. Para una planificación detallada del proyecto, se integran en las columnas la hora, el lugar, los responsables y los departamentos, así como las tareas importantes. De este modo, se puede planificar con gran precisión el curso de las medidas individuales y las fechas importantes están siempre al alcance de unos pocos clics. Ya lo verás: Con SeaTable, la planificación de todo el año está perfectamente estructurada y organizada.
 
-![Con un plan de acción en formato de calendario, tendrá una visión general de sus medidas en todo momento](https://seatable.de/wp-content/uploads/2021/04/Overview.jpg)
+![Con un plan de acción en formato de calendario, tendrá una visión general de sus medidas en todo momento](Overview.jpg)
 
 La visión de conjunto en el plan de acción
 
 Aquí no sólo tiene cabida su agenda, sino también sus proyectos y objetivos previstos al mismo tiempo. Puede crearlas en otra hoja de cálculo y documentar continuamente los progresos. Lo práctico: a través de la columna de personal, puedes entregar las tareas y proyectos directamente a los responsables para evitar el caos. De este modo, te aseguras de que todo se haga a tiempo y de que todos los empleados sepan cuáles son sus tareas. De este modo, se garantiza un flujo de trabajo ideal en el que no se pierde nada.
 
-![Puedes anotar tus objetivos en tu plan de acción para trabajar en ellos continuamente](https://seatable.de/wp-content/uploads/2021/04/Annual-Goals.jpg)
+![Puedes anotar tus objetivos en tu plan de acción para trabajar en ellos continuamente](Annual-Goals.jpg)
 
 Visualice y avance los objetivos en su plan de acción
 

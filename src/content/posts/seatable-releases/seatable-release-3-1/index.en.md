@@ -19,13 +19,13 @@ The new features are now available on [SeaTable Cloud](https://cloud.seatable.io
 
 Being packed with new functions, the page design plugin almost merits release notes of its own. What's new? A list print function, new dynamic fields including page header and footer, as well as a version history for every template. Not surprisingly, the sidebar has become considerably more button-rich in the edit mode (see image below) as a result. Last but not least, the templates in the plugin can now also be moved and sorted in the overview. But now everything in order.
 
-![List print feature in SeaTable's Page Design plugin](images/SeaTable-3.1-List-Print.gif)
+![List print feature in SeaTable's Page Design plugin](SeaTable-3.1-List-Print.gif)
 
 The new list printing feature puts the contents of a view on paper or in a PDF document in no time at all with an attractive design. Simply drag the "All View Entries" element onto the template, resize the placeholder, format the table according to your preferences and add the remaining page elements such as document title, logo and date. SeaTable will then automatically take care of the table layout and pagination when printing if the rows of the selected view does not fit into the placeholder. SeaTable adds as many pages as necessary for this.
 
 The dynamic fields introduced in this new release make it super easy to insert contextual information on a page. Specifically, the current date, the template used, the current user, and the page number can be added to a page with them. In terms of usage, dynamic fields are no different from static text fields. Simply drag the field onto the templates, position it correctly, and format it - SeaTable takes care of the rest.
 
-![Page header in SeaTable's Page Design plugin](images/SeaTable-3.1-Page-Header.png)
+![Page header in SeaTable's Page Design plugin](SeaTable-3.1-Page-Header.png)
 
 The new page header and footers are an ideal complement for the dynamic elements. Elements placed in either get repeated on every page of the template, of course including the pages that the plugin automatically adds when printing lists. Page headers and footers are not reserved exclusively for dynamic elements. The two fields static text and static image can also be embedded to provide documents with meaningful meta information.
 
@@ -37,13 +37,13 @@ Feel like checking out the new page design plugin? Go for it! The improvements a
 
 If SeaTable's row limit of 100,000 rows per base has concerned you in the past, you now have one less thing to worry about! The new big data backend enables the storage of millions of rows in a SeaTable base. Not only does this place SeaTable way ahead of its immediate competitors, but it also pushes SeaTable into regions previously reserved for classic SQL databases. If you are looking for a database with REST API, built-in scripting support, automations and/or graphical frontend with real-time collaboration, look no further.
 
-![Big data backend in action](images/SeaTable-3.1-Base-Stats-with-Big-Data.png)
+![Big data backend in action](SeaTable-3.1-Base-Stats-with-Big-Data.png)
 
 The previous size limit was necessary because SeaTable loads a base completely into memory when it is opened. This is a technical precondition for SeaTable's real time, online collaboration. With the activation of SeaTable's big data backend, this is no longer the case. When enabled, a base divides its data into two tiers: Records that are loaded automatically when a base is opened and records that are loaded only when explicitly called. This is the case, for example, when filtering or performing statistical analyses over the entire data set. When using only the automatically loaded data, the base's loading time and memory usage is unaffected even by millions of records in the big data storage.
 
 "Tiering" a base's data entails enormous additional flexibility. Collaborative projects where team members work together in the web interface can be implemented just as much as data-intensive applications with automated data collection. Since the big data storage does not support online collaboration, i.e., changes to data are not pushed to other users but are only visible after they are retrieved again, this storage is particularly suitable for datasets on which there is no active work. This is the reason why, in SeaTable 2.3, the beta of the big data feature was presented as [archive function]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}).
 
-![Big data view in SeaTable 3.1](images/SeaTable-3.1-Filter-with-Big-Data.png)
+![Big data view in SeaTable 3.1](SeaTable-3.1-Filter-with-Big-Data.png)
 
 The big data backend supports all column types. Rows can be modified and deleted, filtered and grouped. Records can also be moved back and forth between normal and big data storage. On the other hand, the editing options for records in the big data storage lag those in normal storage for technical reasons. Restrictions exist especially for sharing, automations and plugins: Views that include data from the big data backend cannot be shared. Also, only the statistics plugin can handle data sets in the big data storage. All other plugins and also automations can only operate on normal views. Big data records cannot be linked either. If this is required, then they must first be moved back to normal storage.
 
@@ -71,7 +71,7 @@ The Big Data memory must be activated in a Base via the settings. The transfer o
 
 For large teams with many users, the interface can get a bit messy. In bases, many views compete for attention. On the homepage, dozens of groups with just as many bases make it hard to focus.
 
-![View folder newly introduced in SeaTable 3.1](images/SeaTable-3.1-View-folders.png)
+![View folder newly introduced in SeaTable 3.1](SeaTable-3.1-View-folders.png)
 
 In Bases, the new version now allows you to group views into folders and thus regain clarity. You create a folder in the same way as you create a view. You can then drag and drop views into the new folder. When the first folder is created, another folder "More views" is created, into which all existing views are sorted.
 

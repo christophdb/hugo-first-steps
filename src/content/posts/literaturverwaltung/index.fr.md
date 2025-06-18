@@ -15,7 +15,7 @@ Une gestion structurée de la littérature vous permet d'éviter les erreurs dan
 
 Vous trouverez ci-dessous une comparaison de différentes solutions logicielles ainsi que des conseils pour une gestion efficace de la littérature.
 
-![Une pile de livres, pré-triés pour la gestion de la littérature.](https://seatable.io/wp-content/uploads/2022/05/Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
+![Une pile de livres, pré-triés pour la gestion de la littérature.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
 
 Mettez de l'ordre dans votre littérature scientifique ! © caftor / Adobe Stock
 
@@ -39,7 +39,7 @@ Tout bien considéré, la structure de la base de données des programmes de ges
 
 Vous avez pris la décision d'utiliser un logiciel de littérature pour travailler plus efficacement ? C'est merveilleux ! Mais la question qui se pose maintenant est de savoir quel programme est le mieux adapté à vos besoins. Cela dépend avant tout de la taille de votre projet et des outils que vous souhaitez utiliser. Nous vous présentons ci-dessous les six programmes les plus connus.
 
-![Une comparaison des six programmes sur la base de leurs caractéristiques peut aider à trouver celui qui vous convient.](https://seatable.io/wp-content/uploads/2024/04/Green-and-Black-Corporate-Comparison-Chart-1-e1714394827171-711x528.png)
+![Une comparaison des six programmes sur la base de leurs caractéristiques peut aider à trouver celui qui vous convient.](Green-and-Black-Corporate-Comparison-Chart-1-e1714394827171-711x528.png)
 
 Commencez par vous faire une idée des caractéristiques.
 
@@ -47,7 +47,7 @@ Commencez par vous faire une idée des caractéristiques.
 
 Citavi est le programme de gestion de la littérature préféré de nombreuses universités. Pour l'utilisation dans ce domaine, ce sont surtout l'application en **allemand**, le **travail en groupe possible sans restriction**, ainsi qu'un **bon support** en cas de questions qui constituent des avantages.
 
-![Le programme de gestion de la littérature Citavi est adapté aux travaux de groupe, car les données peuvent être facilement partagées.](https://seatable.io/wp-content/uploads/2024/04/annie-spratt-QckxruozjRg-unsplash-e1714397904602.jpg)
+![Le programme de gestion de la littérature Citavi est adapté aux travaux de groupe, car les données peuvent être facilement partagées.](annie-spratt-QckxruozjRg-unsplash-e1714397904602.jpg)
 
 Travailler en groupe est un jeu d'enfant avec Citavi.
 
@@ -83,7 +83,7 @@ Malgré ces avantages, le programme présente des faiblesses au niveau du conten
 
 Avec EndNote, vous disposez d'un **paquet complet avec de nombreuses fonctions utiles**, mais vous devez être prêt à payer un **prix élevé** pour cela. Le programme commercial de gestion de la littérature du prestataire de services d'information Thomson-Reuters propose également une version gratuite que vous pouvez **tester pendant 30 jours**. Les fonctions sont toutefois très limitées.
 
-![Le programme de gestion de la littérature EndNote possède de nombreuses fonctions utiles.](https://seatable.io/wp-content/uploads/2024/05/ai-generated-8554676_640-e1715591833397.png)
+![Le programme de gestion de la littérature EndNote possède de nombreuses fonctions utiles.](ai-generated-8554676_640-e1715591833397.png)
 
 Dans la version complète, vous obtenez de nombreux outils utiles.
 
@@ -95,7 +95,7 @@ Pour pouvoir les utiliser de manière illimitée, il faut acheter une version co
 
 JabRef est un **système de gestion de la littérature gratuit et open source**. Les développeurs de la plate-forme mettent le code source à la disposition de tous, ce qui permet à de nombreux développeurs de participer à l'optimisation du logiciel. Cela se traduit notamment par le fait que le programme est disponible **dans de nombreuses langues**.
 
-![De nombreux développeurs travaillent sur un code commun.](https://seatable.io/wp-content/uploads/2024/05/program-6944163_640-e1715591934559.jpg)
+![De nombreux développeurs travaillent sur un code commun.](program-6944163_640-e1715591934559.jpg)
 
 Ceux qui s'y connaissent peuvent aider à améliorer JabRef.
 
@@ -119,7 +119,7 @@ Ne vous fiez pas à l'exactitude des sources indiquées dans les programmes de l
 
 Contrôlez donc directement si les références bibliographiques sont correctes et complétez-les si nécessaire. Si vous souhaitez garder cette tâche pour la fin, il est utile de l'inscrire sur une [liste de choses à faire]({{< relref "templates/projects/to-do-list" >}}) afin de ne pas l'oublier.
 
-![Gestion de la littérature dans une bibliothèque avec une tablette.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Gestion de la littérature dans une bibliothèque avec une tablette.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 
 Certains programmes de gestion de la littérature peuvent saisir les sources par DOI. © ake1150 / Adobe Stock
 
@@ -158,7 +158,7 @@ Notez ces informations le plus précisément possible. Comptez les numéros de p
 
 Certains programmes de gestion de la littérature vous facilitent la recherche de nouveaux ouvrages. Avec Citavi, vous avez par exemple la possibilité de **recevoir des alertes de recherche**. Vous êtes ainsi informé lorsque de nouveaux articles sur l'un de vos sujets sont disponibles en ligne. Mendeley propose un service de recommandation qui vous permet d'afficher des articles similaires.
 
-![L'étudiante vérifie finalement sa bibliographie avant de la rendre.](https://seatable.io/wp-content/uploads/2022/05/Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
+![L'étudiante vérifie finalement sa bibliographie avant de la rendre.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
 
 Pour la recherche de sources, les bibliothèques sont également une bonne solution. © Jacob Lund / Adobe Stock
 
@@ -178,7 +178,7 @@ Toutes les sources ne sont pas citées selon le même modèle. Dès le début de
 
 Certains programmes disposent d'outils de **prise de notes**. Utilisez-les pour noter les déclarations de contenu importantes pendant la lecture et attribuez-leur des numéros de page afin de pouvoir retrouver les passages plus facilement par la suite.
 
-![Vous pouvez également prendre des notes sur papier.](https://seatable.io/wp-content/uploads/2024/05/david-travis-5bYxXawHOQg-unsplash-e1715851598784.jpg)
+![Vous pouvez également prendre des notes sur papier.](david-travis-5bYxXawHOQg-unsplash-e1715851598784.jpg)
 
 Vous pouvez également recourir au bloc-notes classique.
 
@@ -196,4 +196,4 @@ Le choix du programme de gestion de la littérature dépend des fonctions que vo
 
 SeaTable vous propose à cet effet un [modèle]({{< relref "templates/projects/bibliography" >}}) dans lequel vous pouvez trouver des exemples de littérature et suivre le processus, de l'insertion des sources à l'édition de la bibliographie. Vous pouvez adapter le modèle à vos besoins, y ajouter vos propres sources, le structurer et le visualiser à l'aide de nombreux outils utiles.
 
-Si vous souhaitez utiliser SeaTable comme outil de gestion de la documentation, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement.
+Si vous souhaitez utiliser SeaTable comme outil de gestion de la documentation, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement.

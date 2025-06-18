@@ -41,7 +41,7 @@ Zudem wünschte sich der Vereinsmanager Timo Stephan ein besseres Handling sensi
 
 Viele Sportvereine werden vor allem durch das Engagement und die Begeisterung von Ehrenämtlern getragen. Als Vereinsmanager verteilt Timo Stephan unterschiedlichste Aufgaben an diese und möchte zudem stets den Überblick über den Status der verteilten Aufgaben behalten. Nun sind ehrenamtlich Arbeitende nicht jeden Tag vor Ort, was die Kommunikation natürlich erschwert. Telefonate und E-Mails im Postfach häufen sich, die Übersicht geht schnell verloren. Es muss eine mobile Lösung gefunden werden, um all diese Personen mit einbinden zu können.
 
-![Digitalisierung eines Sportvereins mit SeaTable](images/berliner-hockeyclub-goes-digital.jpg)
+![Digitalisierung eines Sportvereins mit SeaTable](berliner-hockeyclub-goes-digital.jpg)
 
 ## SeaTable für klarere Strukturen und eine bessere Kommunikation
 

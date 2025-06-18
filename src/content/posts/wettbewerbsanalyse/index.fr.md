@@ -14,7 +14,7 @@ Vous prévoyez d'élargir votre ligne de produits et vous voulez savoir quelles 
 
 Dans cet article, nous vous présentons un guide complet contenant toutes les informations importantes et les méthodes d'analyse de la concurrence. Afin de réaliser votre analyse de manière structurée et efficace, nous vous présenterons ensuite un outil performant qui vous aidera à organiser vos données de manière claire et précise.
 
-![Analyse de la concurrence : Une femme prend la pose de la victoire sur un fond orange](images/miguel-bruna-TzVN0xQhWaQ-unsplash-711x426.jpg)
+![Analyse de la concurrence : Une femme prend la pose de la victoire sur un fond orange](miguel-bruna-TzVN0xQhWaQ-unsplash-711x426.jpg)
 
 L'objectif principal de l'analyse de la concurrence est d'identifier et d'exploiter les avantages concurrentiels.
 
@@ -30,7 +30,7 @@ Une analyse stratégique de la concurrence vous fournit des informations sur le 
 
 En outre, l'analyse permet de savoir comment vos produits ou services sont positionnés sur le marché et quel avantage unique**(Unique Selling Point**) ils offrent par rapport à la concurrence. Ces informations sont utiles pour adapter votre stratégie de marché de manière ciblée et renforcer votre position à long terme.
 
-![Analyse de la concurrence : papier avec des diagrammes et des graphiques colorés pour l'analyse](images/marketing-business-lady-striped-shirt-office-with-computer-pointing-out-schemes-711x474.jpg)
+![Analyse de la concurrence : papier avec des diagrammes et des graphiques colorés pour l'analyse](marketing-business-lady-striped-shirt-office-with-computer-pointing-out-schemes-711x474.jpg)
 
 La compréhension des besoins des clients est centrale pour l'analyse de la concurrence.
 
@@ -45,7 +45,7 @@ Mais quel est le bon moment pour effectuer une telle analyse ? Vous trouverez ci
 - **Activités de médias payants :** Si les activités de publicité payante ne donnent pas les résultats escomptés, une analyse concurrentielle peut révéler les approches adoptées par vos concurrents et la manière dont vous pouvez optimiser vos propres campagnes.
 - **Les tendances du secteur :** Pour rester à jour et identifier les tendances actuelles du secteur, une analyse régulière de la concurrence est indispensable.
 
-![Mains sur un ordinateur portable avec des graphiques qui dépassent à plusieurs niveaux](images/ui-ux-representations-with-laptop-711x474.jpg)
+![Mains sur un ordinateur portable avec des graphiques qui dépassent à plusieurs niveaux](ui-ux-representations-with-laptop-711x474.jpg)
 
 Une analyse de la concurrence est particulièrement importante avant le relancement d'un site web ou l'entrée sur un nouveau marché.
 
@@ -59,7 +59,7 @@ Parmi les méthodes d'analyse de la concurrence, il existe deux approches import
 
 L'analyse de la concurrence selon Porter permet aux entreprises de mieux comprendre la dynamique de leur secteur et de développer des stratégies afin d'obtenir un avantage concurrentiel. Cette méthode d'analyse de la concurrence permet d'évaluer l'**attractivité** et **la rentabilité** d'un secteur et de prendre des décisions commerciales en connaissance de cause.
 
-![Analyse de la concurrence : modèle des 5 forces selon Porter](images/1-711x533.png)
+![Analyse de la concurrence : modèle des 5 forces selon Porter](1-711x533.png)
 
 Modèle de Michael E. Porter qui analyse cinq forces qui déterminent la concurrence dans un secteur.
 
@@ -74,7 +74,7 @@ En conséquence, cette méthode commence par l'identification des compétences c
 - Les compétences qui ne **peuvent pas être imitées** sont celles qui sont coûteuses ou difficiles à reproduire, par exemple les inventions brevetées.
 - Une compétence est considérée comme **organisée** lorsque votre entreprise peut exploiter pleinement le potentiel de la capacité ou de la ressource.
 
-![Analyse de la concurrence - Analyse VRIO](images/Wettbewerbsanalyse-VRIO-Analyse.png)
+![Analyse de la concurrence - Analyse VRIO](Wettbewerbsanalyse-VRIO-Analyse.png)
 
 Les ressources doivent être précieuses, rares, non imitables et organisées pour offrir un avantage concurrentiel.
 
@@ -100,7 +100,7 @@ Réaliser une analyse stratégique de la concurrence peut sembler compliqué au 
 
 ### 1\. définir des objectifs
 
-![Analyse de la concurrence : une fléchette plantée dans un jeu de fléchettes](images/pexels-pixabay-262438-711x473.jpg)
+![Analyse de la concurrence : une fléchette plantée dans un jeu de fléchettes](pexels-pixabay-262438-711x473.jpg)
 
 Outre le positionnement stratégique sur le marché, la minimisation des risques, par exemple, peut également être un objectif pertinent.
 
@@ -108,7 +108,7 @@ Déterminez les connaissances que vous souhaitez tirer de l'analyse et la maniè
 
 ### 2\. identifier les concurrents
 
-![Des pièces d'échecs blanches au premier plan, des pièces d'échecs noires à l'arrière-plan.](images/chess-6890325_1920-711x400.jpg)
+![Des pièces d'échecs blanches au premier plan, des pièces d'échecs noires à l'arrière-plan.](chess-6890325_1920-711x400.jpg)
 
 Veillez à identifier le concurrent également du point de vue des clients, et pas seulement du point de vue de l'entreprise.
 
@@ -116,7 +116,7 @@ Dressez la liste de vos principaux concurrents. Cela inclut les **concurrents di
 
 ### 3\. collecter des données
 
-![Analyse de la concurrence : une femme à qui l'on projette des données sur le visage et le torse](images/pexels-thisisengineering-3861969-711x474.jpg)
+![Analyse de la concurrence : une femme à qui l'on projette des données sur le visage et le torse](pexels-thisisengineering-3861969-711x474.jpg)
 
 Utilisez l'analyse des sources de données existantes, telles que les rapports de marché, les études sectorielles et les rapports d'entreprise.
 
@@ -126,7 +126,7 @@ Rassemblez des informations complètes sur vos concurrents. Pour ce faire, utili
 
 ### 4\. effectuer une analyse
 
-![Tableau de bord avec graphiques d'analyse web](images/luke-chesser-JKUTrJ4vK00-unsplash-711x474.jpg)
+![Tableau de bord avec graphiques d'analyse web](luke-chesser-JKUTrJ4vK00-unsplash-711x474.jpg)
 
 Prenez le temps d'établir des profils détaillés de vos principaux concurrents.
 
@@ -134,7 +134,7 @@ Comparez et évaluez les données collectées. Pour ce faire, recourez aux **mé
 
 ### 5\. déduire des stratégies
 
-![Analyse de la concurrence : un plateau de jeu de "l'homme qui ne se moque pas" sur une table en verre](images/pexels-pixabay-207924-711x399.jpg)
+![Analyse de la concurrence : un plateau de jeu de "l'homme qui ne se moque pas" sur une table en verre](pexels-pixabay-207924-711x399.jpg)
 
 Débarrassez-vous des modèles commerciaux rigides et misez sur la création continue de nouveaux avantages concurrentiels.
 
@@ -142,7 +142,7 @@ Utilisez les connaissances acquises pour améliorer vos propres stratégies. Cel
 
 ### 6\. répéter régulièrement
 
-![Un escalier en colimaçon en forme de nid d'abeille vu d'en haut, qui mène loin en bas](images/pexels-mithulvarshan-3023211-711x506.jpg)
+![Un escalier en colimaçon en forme de nid d'abeille vu d'en haut, qui mène loin en bas](pexels-mithulvarshan-3023211-711x506.jpg)
 
 Sur les marchés particulièrement dynamiques, il peut même être utile de procéder à des vérifications mensuelles.
 
@@ -152,7 +152,7 @@ Réaliser une analyse de la concurrence n'est pas un projet ponctuel. Révisez e
 
 Les résultats d'une analyse stratégique de la concurrence ne vous fournissent pas seulement des informations précieuses - ils peuvent mettre votre entreprise sur la voie de dépassement. En identifiant les points faibles dans les stratégies de vos concurrents, vous pouvez **éviter des pièges** similaires et **optimiser** vos propres **processus**. Parallèlement, une analyse approfondie permet de formuler **des objectifs commerciaux clairs**. Avec un plan précis sous les yeux, vous savez exactement où vous allez et quelles sont les étapes nécessaires pour atteindre votre objectif.
 
-![Analyse de la concurrence : une main tient une boussole, on voit un lac en arrière-plan.](images/compass-4891499_1280-711x454.jpg)
+![Analyse de la concurrence : une main tient une boussole, on voit un lac en arrière-plan.](compass-4891499_1280-711x454.jpg)
 
 L'analyse de la concurrence vous permet également de définir plus clairement les objectifs à long terme de votre entreprise.
 
@@ -166,4 +166,4 @@ L'outil gratuit de SeaTable vous permet de réaliser efficacement votre analyse 
 
 Déposez des documents PDF (par ex. rapports annuels, communiqués de presse) ainsi que des captures d'écran de publicités ou de sites web de vos concurrents afin de pouvoir comparer directement les sources intéressantes. Décrivez les points forts et les points faibles de la concurrence ou notez des informations sur les prix, les points de vente uniques et les groupes cibles. Grâce au modèle gratuit d'analyse de la concurrence que vous trouverez [ici]({{< relref "templates/marketing/competitor-analysis" >}}), vous pourrez visualiser vos données d'analyse en un coup d'œil et élaborer des stratégies aussi facilement que possible.
 
-Si vous êtes prêt à passer vos concurrents au crible, [inscrivez-vous](https://seatable.io/fr/enregistrement/) gratuitement sur SeaTable dès aujourd'hui. Vous pourrez ensuite démarrer directement, utiliser le modèle et le remplir avec vos propres données.
+Si vous êtes prêt à passer vos concurrents au crible, [inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement sur SeaTable dès aujourd'hui. Vous pourrez ensuite démarrer directement, utiliser le modèle et le remplir avec vos propres données.

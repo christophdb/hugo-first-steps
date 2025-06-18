@@ -13,7 +13,7 @@ seo:
 
 Zahlungseingänge müssen geprüft, Kunden an Zahlungen erinnert werden und teilweise kommt es sogar zu dem Part, den jedes Unternehmen vermeiden möchte: dem Mahnwesen. Das kann für viele Unternehmen zu einer wirklichen Herausforderung werden. Schnell verliert man sich im eigenen Chaos und niemand in Ihrem Unternehmen weiß noch, wann und ob eine Rechnung überhaupt bezahlt wurde. Am Ende leidet noch die Liquidität Ihres eigenen Unternehmens darunter. Soweit sollten Sie es jedoch nicht kommen lassen!
 
-Mit [SeaTable](https://seatable.io/registrierung/?lang=auto) haben Sie endlich alle Rechnungen bzw. Forderungen an Ihre Kunden auf einen Blick und wissen genau über jeden einzelnen Stand Bescheid. SeaTable ermöglicht Ihrer Debitorenbuchhaltung ein optimales und effizientes Forderungsmanagement. Zudem können Informationen ganz einfach unter den einzelnen Abteilungen in Ihrem Unternehmen ausgetauscht werden. Damit jeder auch mit den gleichen und richtigen Infos arbeiten kann und auch Sie als Unternehmer wieder ruhiger schlafen können.
+Mit [SeaTable]({{< relref "pages/registration" >}}) haben Sie endlich alle Rechnungen bzw. Forderungen an Ihre Kunden auf einen Blick und wissen genau über jeden einzelnen Stand Bescheid. SeaTable ermöglicht Ihrer Debitorenbuchhaltung ein optimales und effizientes Forderungsmanagement. Zudem können Informationen ganz einfach unter den einzelnen Abteilungen in Ihrem Unternehmen ausgetauscht werden. Damit jeder auch mit den gleichen und richtigen Infos arbeiten kann und auch Sie als Unternehmer wieder ruhiger schlafen können.
 
 [Hier geht es direkt zu unserem Template “CRM-Debitorenbuchhaltung”]({{< relref "templates/sales/crm-accounts-receivable" >}})
 
@@ -55,13 +55,13 @@ Beim Scoring wird der Kunde genau beleuchtet. Vergangene Zahlungen werden hierbe
 
 ## So effizient gestalten Sie Ihre Debitorenbuchhaltung in SeaTable
 
-In unserem letzten Artikel „[CRM: Von der Kundenerfassung bis zum Angebot](https://seatable.io/crm-angebotsmanagement/)“ haben wir Ihnen gezeigt, wie Sie im Handumdrehen Ihr ganz persönliches CRM-System in SeaTable erstellen können. In diesem Artikel bzw. Template knüpfen wir nun an den eben genannten Artikel an und zeigen Ihnen, wie Sie in SeaTable Ihre Debitorenbuchhaltung effizient abbilden können. Bislang drehte sich alles um den Kundenstamm, das Produktportfolio und die Angebotserstellung. Jetzt kommen wir vom Angebot zur Rechnungsstellung. Somit finden Sie in dem eigentlichen Template neben den Tabellenblättern „Customer data“, „Sales team“, „Offers“ und „Product Catalogue“ auch das neue Tabellenblatt „Invoices“ wieder.
+In unserem letzten Artikel „[CRM: Von der Kundenerfassung bis zum Angebot]({{< relref "posts/crm-angebotsmanagement" >}})“ haben wir Ihnen gezeigt, wie Sie im Handumdrehen Ihr ganz persönliches CRM-System in SeaTable erstellen können. In diesem Artikel bzw. Template knüpfen wir nun an den eben genannten Artikel an und zeigen Ihnen, wie Sie in SeaTable Ihre Debitorenbuchhaltung effizient abbilden können. Bislang drehte sich alles um den Kundenstamm, das Produktportfolio und die Angebotserstellung. Jetzt kommen wir vom Angebot zur Rechnungsstellung. Somit finden Sie in dem eigentlichen Template neben den Tabellenblättern „Customer data“, „Sales team“, „Offers“ und „Product Catalogue“ auch das neue Tabellenblatt „Invoices“ wieder.
 
 ### **Vom Angebot zur Rechnungsbeauftragung**
 
 Das Tabellenblatt „Offers“ wurde nun um die drei neuen [Spalten](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/?lang=auto) „Accounting Department“, „Payment Status“ und „Invoices“ ergänzt. Sollte nun Ihr Kunde ihr gestelltes Angebot akzeptiert haben und die Ware oder Dienstleistung beziehen wollen, so haben Sie nun die Möglichkeit, mit nur einem Klick auf die Schaltfläche „Please create Invoice“ die Buchhaltung darüber zu informieren, dem Kunden bitte eine Rechnung zu stellen. Alle wichtigen Daten zum akzeptierten Angebot wandern direkt als neue Zeile in das Tabellenblatt „Invoices“. Hierfür wird im Hintergrund ein Skript ausgeführt, dass die Daten zum Einen direkt in die Tabelle “Invoices” schreibt und zum Anderen eine Verknüpfung mit den Tabellenblättern “Invoices”, “Offers” und “Customer data” sicherstellt.
 
-![Debitorenbuchhaltung - Angebot](images/Ansicht_Offers.png)
+![Debitorenbuchhaltung - Angebot](Ansicht_Offers.png)
 
 Übersicht der Angebotsseite in SeaTable
 
@@ -71,13 +71,13 @@ Den eigentlichen Zahlungsstatus können Sie dann bequem in der [Spalte](https://
 
 Wie bereits erwähnt, wandern alle wichtigen Informationen zum akzeptierten Angebot durch den Kunden direkt in das Tabellenblatt „Invoices“. Somit werden alle Daten wie beispielsweise Angebotsnummer, Kundenname, Kundennummer, Kontaktperson, Straße und Hausnummer, Postleitzahl, Stadt, Land und alle Produktinfos mit Produktname, Einzelpreis, Menge und Gesamtsumme automatisch übertragen. Alles, was Ihre Buchhaltung nun machen muss, ist in der Spalte „Invoice“ auf die Schaltfläche „Create Invoice“ zu drücken.
 
-![Debitorenbuchhaltung - Rechnungen](images/Ansicht_Invoices.png)
+![Debitorenbuchhaltung - Rechnungen](Ansicht_Invoices.png)
 
 Alle Forderungen auf einen Blick
 
 Nun öffnet sich vollautomatisch das Plug-in „Page-Design“ und füllt bereits alle wichtigen Informationen aus. Die Rechnung können Sie im Anschluss ganz einfach als PDF-Datei speichern und in der Spalte „Files“ ablegen oder ausdrucken und an Ihren Kunden per E-Mail oder per Brief verschicken. Natürlich können Sie das vordefinierte Page-Design-Template in wenigen Minuten nach Ihren Wünschen anpassen bzw. ergänzen.
 
-![Debitorenbuchhaltung - Rechnung](images/PageDesign_Invoice.png)
+![Debitorenbuchhaltung - Rechnung](PageDesign_Invoice.png)
 
 Ihre fertige Rechnung im Page-Design-Plug-in
 
@@ -85,19 +85,19 @@ Ihre fertige Rechnung im Page-Design-Plug-in
 
 Damit auch alle relevanten Personen neben der eigentlichen Debitorenbuchhaltung in Ihrem Unternehmen Bescheid wissen, ob ein Kunde seine Rechnungen bezahlt oder nicht, steht Ihnen die Spalte „Payment Status“ zur Verfügung. Wird ein Angebot durch den Kunden akzeptiert und eine Rechnung erzeugt, so wird automatisch der Zahlungsstatus auf „Pending“ geändert. Sobald ein Zahlungseingang stattfindet, kann Ihre Debitorenbuchhaltung die Single Select-Spalte „Payment Status“ auf „Paid“ ändern und das Datum des Zahlungseingangs unter „Date of Payment“ erfassen. Mit der [Gruppierungsfunktion](https://seatable.io/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) und den verschiedenen [Ansichten](https://seatable.io/docs/handbuch/datenmanagement/ansichten/?lang=auto) nach “Payment Status” erhält man den bestmöglichen Blick auf alle derzeitigen Zahlungsstände. Des Weiteren finden Sie im Kanban Plug-in nun auch den “Invoice Status”, damit Sie auch wirklich keinen Zahlungsstatus aus den Augen verlieren können.
 
-![Debitorenbuchhaltung - Zahlungen](images/Ansicht_Invoices_Status.png)
+![Debitorenbuchhaltung - Zahlungen](Ansicht_Invoices_Status.png)
 
 Die verschiedenen Zahlungsstände
 
 Das zusätzlich großartige an dem Payment Status: Jeder Status wirkt sich auch auf Ihren eigentlichen Kundenstamm unter dem Tabellenblatt „Customer data“ aus. Bedeutet: Bezahlt ein Kunde alle seine Rechnungen bzw. steht auf „Pending“, ist die eigentliche Zeile grün markiert. Sollte der Kunde seine Rechnung aus irgendwelchen Gründen nicht bezahlt haben, so ändert sich die Zeilenfarbe auf Rot und jeder Mitarbeiter weiß Bescheid, dass dieser Kunde sich gerade im Mahnwesen befindet und bis auf Weiteres nicht mehr mit Produkten oder Dienstleistungen beliefert werden sollte.
 
-![](images/Customer-data.jpg)
+![](Customer-data.jpg)
 
 ### **Mit nur einem Klick den Zahlungsstatus Ihren Kunden mitteilen**
 
 Damit Ihre Debitorenbuchhaltung auch Ihre Kunden über den Zahlungseingang oder einen Zahlungsverzug informieren können, stehen Ihnen in SeaTable die beiden Schaltflächen „Receipt of Payment“ und „Dunning Info“ zur Verfügung. Mit nur einem Klick auf die jeweilige Schaltfläche wird automatisch eine E-Mail an die Kontakt-E-Mail-Adresse unter der Spalte „Email adress“ verschickt. In dieser werden auch Infos, wie beispielsweise die Rechnungsnummer oder der Betrag automatisch ergänzt. Die Nachricht an Ihre Kunden über die jeweiligen Zahlungsstände können Sie natürlich bequem nach Ihrem Belieben anpassen.
 
-![Debitorenbuchhaltung - Kundeninformationen](images/Email.png)
+![Debitorenbuchhaltung - Kundeninformationen](Email.png)
 
 Zahlungsinformationen an Ihre Kunden direkt aus SeaTable heraus verschicken
 

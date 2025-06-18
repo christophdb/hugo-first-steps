@@ -26,7 +26,7 @@ Kopieren Sie sich die Vorlagen, passen Sie diese an Ihre Bedürfnisse an oder nu
 
 ## Verwalten Sie alle Ihre Immobilien übersichtlich in einer Software
 
-![Immobilien-Verwaltung mit SeaTable](https://seatable.io/wp-content/uploads/2022/04/seatable-property-management.png)
+![Immobilien-Verwaltung mit SeaTable](seatable-property-management.png)
 
 Immobilienverwaltung mit SeaTable
 
@@ -36,7 +36,7 @@ In unserem [Template zur Verwaltung Ihrer Immobilien]({{< relref "templates/real
 
 ## Halten Sie Ihre Immobilien in Ordnung und koordinieren Sie Hausmeisterdienste
 
-![Hausmeisterdienste koordinieren, um Immobilien instandzuhalten](https://seatable.io/wp-content/uploads/2022/04/hausmeisterdienste-seatable.png)
+![Hausmeisterdienste koordinieren, um Immobilien instandzuhalten](hausmeisterdienste-seatable.png)
 
 Hausmeisterdienste koordinieren mit SeaTable
 
@@ -48,7 +48,7 @@ Wenn Sie wollen, können Sie sogar die Person, die den Reparaturbedarf gemeldet 
 
 ## Überlassen Sie bei Ihrer nächsten Wohnungssuche nichts dem Zufall
 
-![Wohnungssuche mit SeaTable](https://seatable.io/wp-content/uploads/2022/04/wohnungssuche-seatable-vorlage-immobilien.png)
+![Wohnungssuche mit SeaTable](wohnungssuche-seatable-vorlage-immobilien.png)
 
 Wohnungssuche mit SeaTable – Überlassen Sie nichts dem Zufall.
 
@@ -58,7 +58,7 @@ Mit unserer [Vorlage zur Wohnungssuche]({{< relref "templates/real-estate/apartm
 
 ## Starten Sie mit der Planung Ihres nächsten Umzugs
 
-![Ihr nächster Umzug wird mit SeaTable zum Kinderspiel](https://seatable.io/wp-content/uploads/2022/04/umzugsliste-seatable-immobilien.png)
+![Ihr nächster Umzug wird mit SeaTable zum Kinderspiel](umzugsliste-seatable-immobilien.png)
 
 Ihre nächste Umzugsplanung wird mit SeaTable zum Kinderspiel.
 

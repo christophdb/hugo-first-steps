@@ -19,11 +19,11 @@ This morning we updated the SeaTable Cloud to version 3.5. All self-hosters can 
 
 ## Formulas in the first column
 
-SeaTable 3.5 provides more flexibility in the first column of a table: Previously, only the [column types](https://seatable.io/en/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) Text, Number, Date, Single Select and Automatic Number were allowed there. The [Formula column type](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/) is now also supported and makes it possible to "calculate" your own row reference. Since [the first column](https://seatable.io/en/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) in a table cannot be hidden and is always displayed in the link dialog, it is particularly suitable for this purpose.
+SeaTable 3.5 provides more flexibility in the first column of a table: Previously, only the [column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) Text, Number, Date, Single Select and Automatic Number were allowed there. The [Formula column type](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/) is now also supported and makes it possible to "calculate" your own row reference. Since [the first column](https://seatable.io/en/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) in a table cannot be hidden and is always displayed in the link dialog, it is particularly suitable for this purpose.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
-![SeaTable 3.5 - First column supports formulas](images/SeaTable-3.5-FirstColumn.png)
+![SeaTable 3.5 - First column supports formulas](SeaTable-3.5-FirstColumn.png)
 
 ## Two additional actions for periodic automations
 
@@ -37,7 +37,7 @@ See for yourself what is possible with [data processing operations in SeaTable](
 
 With a [button](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) you can execute one or more actions with one click, e.g. [send an e-mail](https://seatable.io/en/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) and then edit the row . It was not possible to link the execution of an action to a condition. We have closed this functional gap with SeaTable 3.5.
 
-![SeaTable 3.5 - Button actions can be linked to rules](images/SeaTable-3.5-ConditionalExecution.png)
+![SeaTable 3.5 - Button actions can be linked to rules](SeaTable-3.5-ConditionalExecution.png)
 
 The new conditional execution allows you to define a rule for each button action. A rule can consist of one or more conditions. Only if the rule is met, the action will be executed when the button is clicked. If a condition does not apply, SeaTable jumps to the next action and displays the unexecuted action in a message.
 
@@ -49,7 +49,7 @@ From version 3.5 SeaTable executes all defined actions strictly sequentially. As
 
 The Formula column type for links allows you to evaluate linked entries. A total of five evaluation methods are available: [Findmin](https://seatable.io/en/docs/verknuepfungen/die-findmin-formel/), [Findmax](https://seatable.io/en/docs/verknuepfungen/die-findmax-formel/), [Rollup](https://seatable.io/en/docs/verknuepfungen/die-rollup-formel/), [Countlinks](https://seatable.io/en/docs/verknuepfungen/die-countlinks-formel/) and [Lookup](https://seatable.io/en/docs/verknuepfungen/die-lookup-funktion/). The Lookup formula allows you to display additional values from already linked rows in your current table. This way you can read and display as much information as you like from the linked table.
 
-![SeaTable 3.5 - Link formula columns support conditional lookups](images/SeaTable-3.5-ConditionalLookup.png)
+![SeaTable 3.5 - Link formula columns support conditional lookups](SeaTable-3.5-ConditionalLookup.png)
 
 In SeaTable 3.5 we have improved the lookup formula and implemented a feature that existed in the other formulas for quite some time: a conditional evaluation. If the conditional evaluation is activated for lookups, then only the values that meet the set condition(s) are displayed. This way you get exactly the information you need from the linked table.
 
@@ -67,7 +67,7 @@ To simplify data transfer from one Base to another, SeaTable 3.5 now offers the 
 
 For selection options, buttons and conditional formatting SeaTable provides 24 colors. To meet individual wishes or CI requirements, SeaTable 3.5 allows you to define any number of additional colors in each base. Self-hosters have the additional option to globally define individual colors in SeaTable via the configuration file.
 
-![SeaTable 3.5 - New layout for row details](images/SeaTable-3.5-RowDetails.png)
+![SeaTable 3.5 - New layout for row details](SeaTable-3.5-RowDetails.png)
 
 The single-column layout of the row details is replaced by a two-column design with the new version. Especially for tables with many columns, this makes the display shorter and clearer. The base log, where you can track all changes within a base, also gets a new look. If you click on Logs in the base history {{< seatable-icon icon="dtable-icon-history" >}}, a separate window opens with clearly arranged log entries.
 

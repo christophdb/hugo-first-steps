@@ -17,7 +17,7 @@ Mais comment fonctionne exactement la gestion des médias sociaux ? En lisant l'
 
 Le terme de gestion des médias sociaux **décrit une gestion ciblée de la communication et de la publicité** sur différentes plateformes de médias sociaux comme Facebook, Instagram, YouTube & Co. Elle englobe un large éventail de tâches, par exemple la **communication directe avec vos groupes cibles, la publication de contenus et le développement de votre propre stratégie de médias sociaux**.
 
-![Gestion des médias sociaux : des apps sur un seul écran.](https://seatable.io/wp-content/uploads/2024/01/pexels-pixabay-267350-711x516.jpg)
+![Gestion des médias sociaux : des apps sur un seul écran.](pexels-pixabay-267350-711x516.jpg)
 
 L'offre de plates-formes de médias sociaux est vaste.
 
@@ -38,7 +38,7 @@ Pour réussir à long terme en tant qu'entreprise sur les médias sociaux, vous 
 
 En 2023, un [sondage en ligne](https://de.statista.com/statistik/daten/studie/463928/umfrage/wichtigste-social-media-plattformen-fuer-marketingverantwortliche/) a révélé quelle était la **plate-forme** la plus importante pour les responsables de la gestion des médias sociaux. Facebook arrive en tête, suivi de loin par Instagram et LinkedIn.
 
-![Statistiques sur les entreprises les plus importantes dans la gestion des médias sociaux.](images/Statistik-711x533.png)
+![Statistiques sur les entreprises les plus importantes dans la gestion des médias sociaux.](Statistik-711x533.png)
 
 Facebook est largement en tête par rapport aux autres plateformes.
 
@@ -56,7 +56,7 @@ Essayez également de respecter une identité **d'entreprise** uniforme sur vos 
 
 Sur TikTok et Instagram, vous avez également la possibilité d'**épingler** des messages pertinents en haut de votre profil. Votre communauté vous pose-t-elle souvent la même question ? Il vous suffit d'épingler une publication qui répond à cette question et d'y faire référence à l'avenir.
 
-![Un fil Instagram dans la gestion des médias sociaux.](https://seatable.io/wp-content/uploads/2024/01/pexels-lisa-fotios-1092671-711x474.jpg)
+![Un fil Instagram dans la gestion des médias sociaux.](pexels-lisa-fotios-1092671-711x474.jpg)
 
 L'esthétique joue un rôle important dans les médias sociaux.
 
@@ -86,7 +86,7 @@ Si vous souhaitez développer une présence numérique efficace, l'**analyse** d
 
 Si vous n'avez pas encore abordé ce sujet de manière intensive dans la gestion des médias sociaux, il est conseillé de commencer par un **audit des médias sociaux**. Cet examen complet de votre présence sur les médias sociaux comprend l'analyse des activités, des contenus, des interactions et de la **performance** de vos canaux. Accordez une importance particulière aux **indicateurs clés de performance (KPI)**.
 
-![Indicateurs clés de performance dans le marketing des médias sociaux.](images/KPIs-711x533.png)
+![Indicateurs clés de performance dans le marketing des médias sociaux.](KPIs-711x533.png)
 
 Vous avez en outre la possibilité d'effectuer une **analyse comparative** de vos concurrents. En comparant directement les chiffres spécifiques à votre secteur, vous pouvez mieux évaluer la performance de votre entreprise par rapport à celle de vos concurrents. Outre l'identification de vos propres forces et faiblesses, vous pouvez ainsi également en déduire les **meilleures pratiques** de votre secteur.
 
@@ -110,4 +110,4 @@ Consignez vos **idées**, classez les contributions dans des **rubriques** spéc
 
 Grâce au **calendrier** intégré, vous gardez une vue d'ensemble sur la date de publication de vos contributions et pouvez facilement respecter votre rythme de publication. Grâce à des tableaux différents pour chaque plateforme, il vous sera plus facile de personnaliser votre contenu pour tous les médias sociaux.
 
-[Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) sur SeaTable, adaptez le plan des médias sociaux à vos besoins et profitez d'une charge de travail réduite !
+[Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) sur SeaTable, adaptez le plan des médias sociaux à vos besoins et profitez d'une charge de travail réduite !

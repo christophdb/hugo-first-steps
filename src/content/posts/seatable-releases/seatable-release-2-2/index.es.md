@@ -32,7 +32,7 @@ Actualmente, SeaTable ofrece una visualización tabular de los resultados. En el
 
 SeaTable admite la agrupación de datos desde la versión 1.0. Con la versión actual, esta popular función experimenta una gran mejora: en SeaTable 2.2, los datos pueden agruparse hasta en tres columnas. Los grupos del segundo y tercer nivel se muestran como subgrupos del nivel superior. Por supuesto, los valores agregados de las columnas, como la suma o la media, también se calculan y muestran automáticamente para estos subgrupos. Especialmente en combinación con los filtros y la clasificación, la agrupación se convierte así en una herramienta de análisis aún más potente.
 
-![Columnas en cascada y grupos anidados](images/Cascading-columns.png)
+![Columnas en cascada y grupos anidados](Cascading-columns.png)
 
 Otra pequeña mejora en términos de grupos: Al exportar una vista a Excel, también se exportan los grupos. En versiones anteriores, la función de exportación no tenía en cuenta los grupos.
 
@@ -51,7 +51,7 @@ En SeaTable 2.1 se introdujeron los permisos de las tablas. En la versión 2.2 s
 - Editar líneas y
 - líneas se permiten ver.
 
-![Permisos avanzados para las mesas](images/Advanced-table-permissions.png)
+![Permisos avanzados para las mesas](Advanced-table-permissions.png)
 
 Los permisos pueden definirse de forma independiente y cada permiso puede restringirse a nadie, a los administradores y a usuarios específicos.
 

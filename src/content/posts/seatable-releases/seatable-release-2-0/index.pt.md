@@ -20,7 +20,7 @@ E isso não é tudo! Graças a uma grande contribuição da comunidade, podemos 
 
 ## Tipo de coluna #22: Fórmula para links
 
-![Novo tipo de coluna Fórmula de ligação](https://seatable.io/wp-content/uploads/2021/05/Column_type_link_formula.png)
+![Novo tipo de coluna Fórmula de ligação](Column_type_link_formula.png)
 
 A capacidade de mapear relações entre as entradas em diferentes tabelas é um dos principais diferenciadores do SeaTable em relação às folhas de cálculo clássicas, tais como Excel e Google Sheets. Enquanto estes últimos só conhecem referências de células (por exemplo, para fórmulas), no SeaTable 1:1, 1:n e n:m podem ser criadas ligações entre tabelas numa base.
 
@@ -30,7 +30,7 @@ Com a nova coluna de fórmula para ligações, as ligações existentes podem se
 
 SeaTable não restringe, em princípio, o tipo de relação entre tabelas. Contudo, em alguns casos de utilização faz sentido impor uma relação 1:1 ou 1:n. Um sistema de gestão de inventário é um exemplo simples: um beamer só pode estar numa sala ou com um mutuário em qualquer altura. Da mesma forma, uma máquina de testes não pode estar disponível para múltiplos testes ao mesmo tempo.
 
-![Novos controlos para ligação a outras colunas de registos](https://seatable.io/wp-content/uploads/2021/05/More_Controls_over_linked_records.png)
+![Novos controlos para ligação a outras colunas de registos](More_Controls_over_linked_records.png)
 
 Com o SeaTable 2.0, as colunas de ligação oferecem agora a opção de configuração "Permitir ligação a várias linhas". Activada por predefinição, a desativação da opção faz com que uma entrada na tabela atual só possa ser ligada a uma única entrada na tabela ligada. Para os dois exemplos acima, isto significa: O SeaTable garante que não é necessário procurar o projetor com várias pessoas ou em várias salas e impede que a máquina de teste não seja programada para dois testes simultâneos.
 
@@ -40,7 +40,7 @@ Para além da opção de configuração para limitar o _número de entradas liga
 
 Os formulários web do SeaTable são incrivelmente práticos para pesquisas simples. Em apenas alguns momentos, um questionário é criado e está pronto a ser enviado. As respostas dos participantes no inquérito acabam na base subjacente e podem ser analisadas rápida e facilmente com as várias ferramentas de análise do SeaTable.
 
-![Novo tipo de coluna Classificação](https://seatable.io/wp-content/uploads/2021/05/Column_type_rating.png)
+![Novo tipo de coluna Classificação](Column_type_rating.png)
 
 A nova coluna de classificação é um complemento ideal para estes inquéritos: "Ficou satisfeito com o nosso desempenho?" ou "Recomendar-nos-ia aos seus amigos?" Cinco estrelas não deixam margem para dúvidas; duas estrelas, por outro lado, oferecem muito espaço para melhorias. No entanto, o novo tipo de coluna não é apenas adequado para inquéritos de satisfação do cliente. Quer votar na sua equipa sobre o nome de um novo produto? Os novos contactos requerem uma avaliação rápida para definição de prioridades? A coluna de classificação ajuda em todos estes casos!
 
@@ -64,7 +64,7 @@ A coluna de geoposição armazena as coordenadas de longitude e latitude como va
 
 Existem colunas em que é necessário introduzir sempre praticamente o mesmo valor quando se cria uma nova entrada, por exemplo, uma coluna de estado na gestão de projectos ou uma coluna de texto com uma cadeia inicial uniforme. Não pouparia muito tempo se estes valores pudessem ser definidos automaticamente para as novas entradas?
 
-![Valores por omissão para colunas](https://seatable.io/wp-content/uploads/2021/05/Default_values.png)
+![Valores por omissão para colunas](Default_values.png)
 
 Porque é exactamente este o caso, o SeaTable da versão 2.0 permite a definição de um valor por defeito para os três tipos de colunas texto, número e selecção única. Se esse valor por defeito for definido, a célula correspondente numa nova entrada é automaticamente preenchida com o valor por defeito. Se a nova entrada for a excepção à regra e o valor definido automaticamente não couber, então isto pode ser manualmente substituído em qualquer altura.
 
@@ -72,7 +72,7 @@ Porque é exactamente este o caso, o SeaTable da versão 2.0 permite a definiç�
 
 O plugin de desenho de página pode ser usado para criar documentos PDF de uma e várias páginas que recolhem dinamicamente dados de uma tabela SeaTable. Na SeaTable, geramos certificados de licença com o plugin. Mas os casos de utilização vão muito mais longe: pode criar certificados para os seus parceiros comerciais ou cartões de sócio para os membros do seu clube de ténis. Se gerir a sua carteira de produtos no SeaTable, pode gerar fichas de produtos atractivas para todos os seus produtos com apenas alguns cliques. Na área do pessoal, os anúncios de emprego baseados em PDF podem ser criados fácil e rapidamente sem esforço adicional repetido.
 
-![Desenho de nova página plugin](images/Plugin_page_design.png)
+![Desenho de nova página plugin](Plugin_page_design.png)
 
 Cada documento é baseado num modelo. O desenho de um modelo é feito no próprio SeaTable. O editor WYSIWYG faz parte do plug-in, não é necessário um editor externo. O editor fornece uma selecção de elementos estáticos tais como textos, tabelas e imagens e oferece várias operações de edição. Por exemplo, uma imagem pode ser rodada, cortada ou alinhada directamente no modelo. Se o seu modelo não parecer apelativo, não é culpa do editor ;-) O editor guarda todos os modelos em formato JSON; uma função de importação e exportação garante a portabilidade dos modelos.
 
@@ -80,7 +80,7 @@ Cada documento é baseado num modelo. O desenho de um modelo é feito no própri
 
 Uma placa Kanban é uma grande ferramenta para visualizar, controlar e monitorizar numerosas funções e tarefas operacionais (por exemplo, o pipeline de vendas). De facto, o princípio Kanban provou ser tão bem sucedido na prática que nos últimos anos surgiram vários programas que implementam diferentes variedades de conselhos Kanban.
 
-![Novo plugin Kanban](images/Plugin_kanban.png)
+![Novo plugin Kanban](Plugin_kanban.png)
 
 Com a nova versão, o SeaTable também tem um plugin Kanban que pode ser utilizado para apresentar dados em quadros num quadro Kanban. As categorias de um quadro Kanban são as opções numa coluna de seleção única ou os utilizadores numa coluna de empregados. Isto permite que o quadro Kanban seja utilizado para casos de utilização tão diversos como a gestão de RH, a produção, as vendas, o desenvolvimento de software e a gestão de projectos. Podem ser criadas novas categorias e novas entradas diretamente no modo de visualização Kanban sem ter de sair do plugin. Os utilizadores intensivos vão gostar do suporte de arrastar e largar.
 
@@ -110,7 +110,7 @@ Durante a utilização diária da SeaTable, uma ou outra base acumula-se. No Sea
 
 Se uma base contém dados confidenciais, então a protecção contra fugas de dados erradas ou maliciosas é da maior importância. Os regulamentos legais de protecção de dados também exigem medidas técnicas apropriadas para proteger os dados pessoais. A prevenção da fuga de dados é uma parte essencial destas medidas.
 
-![Novas definições de segurança](images/Security_settings_.png)
+![Novas definições de segurança](Security_settings_.png)
 
 Para satisfazer estas elevadas exigências, a SeaTable versão 2.0 oferece configurações adicionais de permissão para evitar a fuga de dados. Nestas novas configurações de segurança, o proprietário de uma base pode decidir se outros utilizadores estão autorizados a imprimir, duplicar e/ou exportar a base. Estas restrições de permissão podem ser aplicadas a todos os utilizadores ou apenas àqueles que têm permissão de partilha. No caso de uma Base pertencente a um grupo, o proprietário do grupo e os administradores do grupo podem alterar estas definições.
 
@@ -118,7 +118,7 @@ Para satisfazer estas elevadas exigências, a SeaTable versão 2.0 oferece confi
 
 Parte do apelo do SeaTable aos programadores é o seu apoio aos scripts Python e JavaScript (JS). (Os produtos dos nossos concorrentes apenas suportam scripts JS.) Enquanto os scripts JS correm no browser, os scripts Python correm no lado do servidor. Combinados com a capacidade de automatizar a sua execução, os guiões Python são particularmente adequados para cenários de processamento de dados mais exigentes.
 
-![Ambiente de execução Python](images/Python_execution_environment.png)
+![Ambiente de execução Python](Python_execution_environment.png)
 
 No entanto, esta flexibilidade também tem o seu preço: a execução dos scripts Python no servidor acarreta riscos de segurança. A fim de otimizar a segurança, isolámos amplamente o ambiente de execução dos scripts Python do sistema principal com dois componentes adicionais. A equipa constituída pelo SeaTable FAAS Scheduler e pelo Python Runner não só garante a segurança, como também uma escalabilidade óptima. Quando um script é chamado, é iniciado um contentor Docker e o script é executado. O resultado do script é devolvido ao SeaTable e o contentor Docker é destruído. Ao usar vários executores Python, vários scripts também podem ser executados simultaneamente sem espera. (Mais informações podem ser encontradas no [Manual de administração do SeaTable](https://manual.seatable.io/docker/Python-Runner/Deploy%20SeaTable%20Python%20Runner/)).
 

@@ -13,7 +13,7 @@ seo:
 
 C'est pourquoi vous devez vous familiariser avec les bases de la responsabilité sociale des entreprises et développer des stratégies pour que votre entreprise puisse répondre aux nouvelles exigences. Mais que se cache-t-il exactement derrière le terme RSE et comment pouvez-vous mettre en œuvre avec succès la durabilité dans votre entreprise ?
 
-![RSE : Un parc durable devant les gratte-ciel](images/solar-4478105_1280-711x474.jpg)
+![RSE : Un parc durable devant les gratte-ciel](solar-4478105_1280-711x474.jpg)
 
 Les entreprises reconnaissent de plus en plus l'importance de la RSE et l'intègrent dans leurs stratégies.
 
@@ -31,7 +31,7 @@ Si vous avez eu peu de contacts avec la responsabilité sociale des entreprises 
 - **Corporate Citizenship :** cela décrit l'engagement qui va au-delà de l'activité commerciale proprement dite d'une entreprise, l'engagement d'utilité publique. Il s'agit par exemple du sponsoring, des dons et des fondations.
 - **Responsabilité d'entreprise :** depuis quelques années, la CR est utilisée comme synonyme de RSE. Certains préfèrent cette expression pour éviter tout malentendu, le "social" de Corporate Social Responsibility étant souvent compris comme exclusivement social.
 
-![Trois mains autour d'un globe terrestre en papier](images/earth-day-environment-eco-concept-space-text-711x474.jpg)
+![Trois mains autour d'un globe terrestre en papier](earth-day-environment-eco-concept-space-text-711x474.jpg)
 
 La durabilité n'est pas seulement une tendance, c'est une nécessité pour les entreprises.
 
@@ -44,7 +44,7 @@ La pyramide RSE, conçue par Archie B. Carroll, constitue une directive détaill
 - **Responsabilité éthique :** à ce niveau, il s'agit d'aller au-delà de ce qui est requis par la loi et de promouvoir un comportement éthique. Les entreprises devraient s'engager à respecter des principes moraux tels que l'intégrité, l'honnêteté et l'équité, à la fois dans leurs opérations internes et dans leurs relations avec des parties externes telles que les clients, les fournisseurs et la communauté.
 - **Responsabilité philanthropique :** le niveau supérieur de la responsabilité sociale de l'entreprise comprend les contributions volontaires à la société, qui vont au-delà de la simple réalisation de bénéfices et du respect des lois et des normes éthiques. Il peut s'agir par exemple de dons à des organisations caritatives, d'investissements dans l'éducation ou dans des projets de protection de l'environnement , ou encore de la promotion de l'engagement social des employés.
 
-![Graphique de la pyramide RSE d'Archie B. Carroll](images/CSR-Pyramide.png)
+![Graphique de la pyramide RSE d'Archie B. Carroll](CSR-Pyramide.png)
 
 La pyramide de la RSE selon Archie B. Carroll
 
@@ -56,7 +56,7 @@ La promotion d'un **climat d'entreprise positif** et **de collaborateurs engagé
 
 Dans l'ensemble, l'intégration de la RSE peut donc non seulement contribuer à apporter une contribution positive à la société, mais elle offre également des avantages commerciaux directs qui peuvent rendre votre entreprise plus performante.
 
-![Les gens se tiennent en cercle et tendent leurs mains vers le centre.](images/diverse-people-doing-fist-bump-park-711x474.jpg)
+![Les gens se tiennent en cercle et tendent leurs mains vers le centre.](diverse-people-doing-fist-bump-park-711x474.jpg)
 
 La RSE devrait faire partie intégrante de la culture d'entreprise.
 
@@ -88,7 +88,7 @@ Entretoise
 - Bourses d'études
 - Formulation de valeurs fondamentales
 
-![CSR : Deux arbres et une éolienne sur trois cubes.](images/windmill-5591464_1280-711x498.jpg)
+![CSR : Deux arbres et une éolienne sur trois cubes.](windmill-5591464_1280-711x498.jpg)
 
 La RSE nécessite un engagement à long terme et un contrôle continu.
 
@@ -104,4 +104,4 @@ Pour définir des objectifs concrets et suivre vos progrès, vous pouvez utilise
 
 Un autre tableau vous permet de garder une vue d'ensemble de tous les chiffres importants et de voir en un coup d'œil les domaines dans lesquels vous avez déjà pu vous améliorer. Vous pouvez également documenter les certificats de durabilité que vous avez déjà obtenus ou pour lesquels vous travaillez et générer automatiquement la prochaine échéance pour une nouvelle demande.
 
-Pour utiliser SeaTable, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous pouvez ensuite ajouter le [modèle]({{< relref "templates/operations/sustainability-management" >}}) à votre base et y ajouter vos propres données.
+Pour utiliser SeaTable, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement. Vous pouvez ensuite ajouter le [modèle]({{< relref "templates/operations/sustainability-management" >}}) à votre base et y ajouter vos propres données.

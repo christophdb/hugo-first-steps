@@ -22,7 +22,7 @@ Um einen Entscheidungsmüdikeit am Morgen zu vermeiden, etablieren Sie eine fest
 
 Für das Arbeiten von zuhause ist das Schaffen eines Arbeitsplatzes enorm wichtig. Wenn du über kein Arbeitszimmer verfügst, nutze [Raumtrenner](https://diy-family.com/diy-raumteiler-6-praktische-ideen/). Das können Bücherregale, Pflanzen, Vorhänge oder lediglich eine andere Wandfarbe sein. Die optische Trennung ist wichtig, so kommst du leichter in den Arbeitsmodus und kannst nach Feierabend auch wieder leichter abschalten.
 
-![Homeoffice](https://seatable.de/wp-content/uploads/2020/09/Bildschirmfoto-2020-09-08-um-11.37.16.png)
+![Homeoffice](Bildschirmfoto-2020-09-08-um-11.37.16.png)
 
 ## 3\. Frische Luft und Bewegung
 

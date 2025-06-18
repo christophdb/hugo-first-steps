@@ -14,7 +14,7 @@ seo:
 
 Nuestros sueños y aspiraciones son lo que nos impulsa e inspira a embarcarnos en aventuras inolvidables. Pero con demasiada frecuencia los posponemos o los descuidamos al vernos atrapados en la rutina diaria. Una lista de cosas que hacer antes de morir puede ayudarle a plasmar sus sueños y recordarle que debe hacerlos realidad. Al fin y al cabo, son las experiencias las que enriquecen nuestras vidas y nos llenan de recuerdos para toda la vida.
 
-![Bucket List: Mujer mirando a lo lejos frente a un lago.](images/frau-mit-einem-rucksack-mit-blick-auf-den-schwarzen-see-im-nationalpark-durmitor-montenegro-711x474.jpg)
+![Bucket List: Mujer mirando a lo lejos frente a un lago.](frau-mit-einem-rucksack-mit-blick-auf-den-schwarzen-see-im-nationalpark-durmitor-montenegro-711x474.jpg)
 
 Emociones de aventura o naturaleza sobrecogedora: nuestros sueños son diferentes.
 
@@ -30,7 +30,7 @@ Si aún no ha pensado en lo que quiere de la vida, una lista de cosas que hacer 
 
 No sólo se sentirá más satisfecho cuanto más marque en su lista, sino que con cada objetivo cumplido recibirá un **impulso de motivación** que le facilitará la consecución del siguiente. Leer periódicamente tu lista y rememorarla también te hará **sentir bien**.
 
-![Lista de cosas que hacer antes de morir: Fotos de un viaje](images/pexels-taryn-elliott-4340790-711x474.jpg)
+![Lista de cosas que hacer antes de morir: Fotos de un viaje](pexels-taryn-elliott-4340790-711x474.jpg)
 
 Lleva un registro de tus experiencias para poder recordarlas una y otra vez.
 
@@ -42,7 +42,7 @@ Si haces el esfuerzo de crear una lista de objetivos, también deberías echarle
 
 Para algunos, pensar en cosas pendientes puede causar estrés y presión, pero ese no es el objetivo de la lista. Una lista de cosas que hacer antes de morir debe ser **divertida** y **motivadora**, no agobiante. Es importante recordar que una lista de cosas que hacer antes de morir no es una carrera que hay que ganar. La vida es un largo viaje y la lista debe acompañarte durante muchos años. Aunque al final te queden algunas cosas por completar, se trata de celebrar todas las experiencias maravillosas que has vivido a lo largo del camino.
 
-![Mujer disfrutando de la vista en una montaña](images/pexels-nina-uhlikova-725255-711x533.jpg)
+![Mujer disfrutando de la vista en una montaña](pexels-nina-uhlikova-725255-711x533.jpg)
 
 Lo más importante en la vida es saborear al máximo los bellos momentos.
 
@@ -68,7 +68,7 @@ Si le faltan ideas, aquí también puede encontrar inspiración: desde **lugares
 - Hágase un selfie con la Torre Inclinada de Pisa
 - Admirar la aurora boreal en Islandia
 
-![Lista de cosas que hacer antes de morir: Auroras Boreales en el cielo](images/aurora-1185464_1280-711x474.jpg)
+![Lista de cosas que hacer antes de morir: Auroras Boreales en el cielo](aurora-1185464_1280-711x474.jpg)
 
 Las auroras boreales son un impresionante juego de colores en el cielo.
 
@@ -83,7 +83,7 @@ Las auroras boreales son un impresionante juego de colores en el cielo.
 - Sobrevivir a un descenso de aguas bravas
 - Trabajar en el extranjero
 
-![Lista de cosas que hacer antes de morir: Escalador colgado de una cornisa](images/rock-climbing-2264698_1280-711x474.jpg)
+![Lista de cosas que hacer antes de morir: Escalador colgado de una cornisa](rock-climbing-2264698_1280-711x474.jpg)
 
 Algunas personas buscan adrenalina y emociones.
 
@@ -97,7 +97,7 @@ Algunas personas buscan adrenalina y emociones.
 - Reserve unas vacaciones relajantes
 - Completar un maratón
 
-![Corredor de maratón](images/marathon-3753907_1280-711x474.jpg)
+![Corredor de maratón](marathon-3753907_1280-711x474.jpg)
 
 Si busca un reto deportivo, puede elegir un maratón como objetivo.
 
@@ -112,7 +112,7 @@ Si busca un reto deportivo, puede elegir un maratón como objetivo.
 - Participar en un curso de fotografía
 - Aprender a programar
 
-![Bucket List: Libro sobre el lenguaje de programación Python](images/pexels-christina-morillo-1181671-711x475.jpg)
+![Bucket List: Libro sobre el lenguaje de programación Python](pexels-christina-morillo-1181671-711x475.jpg)
 
 Python es un lenguaje de programación.
 
@@ -126,7 +126,7 @@ Python es un lenguaje de programación.
 - Ver todas las películas de "El Señor de los Anillos" de un tirón
 - Celebrar el Carnaval en Río de Janeiro
 
-![Museo de Arte ](images/pexels-suzy-hazelwood-3004909-711x400.jpg)
+![Museo de Arte ](pexels-suzy-hazelwood-3004909-711x400.jpg)
 
 Ya sea arte, música, literatura o tradiciones, la cultura es diversa.
 
@@ -141,7 +141,7 @@ Ya sea arte, música, literatura o tradiciones, la cultura es diversa.
 - Recoger setas en el bosque
 - Beber champán
 
-![Bucket list: plato con aperitivos bellamente decorados.](images/pexels-jer-chung-2792186-711x533.jpg)
+![Bucket list: plato con aperitivos bellamente decorados.](pexels-jer-chung-2792186-711x533.jpg)
 
 La comida también puede ser una experiencia.
 
@@ -156,7 +156,7 @@ La comida también puede ser una experiencia.
 - Adopte un perro de una protectora de animales
 - Recoger basura en la naturaleza
 
-![Personas recogiendo basura](images/pexels-anna-shvets-5029859-711x474.jpg)
+![Personas recogiendo basura](pexels-anna-shvets-5029859-711x474.jpg)
 
 Hacer el bien es un objetivo que no sólo enriquece la vida de quienes te rodean.
 
@@ -171,7 +171,7 @@ Hacer el bien es un objetivo que no sólo enriquece la vida de quienes te rodean
 - Casarse en la playa
 - Conseguir niños
 
-![Lista de deseos: Una pareja al atardecer.](images/pexels-pavel-danilyuk-9143809-711x475.jpg)
+![Lista de deseos: Una pareja al atardecer.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 
 Sus objetivos también pueden centrarse en las relaciones interpersonales.
 

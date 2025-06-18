@@ -15,7 +15,7 @@ Finalmente, chegou o momento! Encontrou o apartamento perfeito para si e mal pod
 
 Comece o planeamento da sua mudança com uma sessão de brainstorming. Que tarefas preciso de fazer? Quem me pode ajudar? Qual é o orçamento que posso gastar? Em seguida, elabore um resumo dos custos para estimar as suas despesas. Pode definir e trabalhar as primeiras tarefas numa lista de verificação.
 
-![Lista de controlo com as tarefas mais importantes para a sua mudança.](https://seatable.io/wp-content/uploads/2023/10/Green-And-Yellow-Simple-Checklist--711x1006.jpg)
+![Lista de controlo com as tarefas mais importantes para a sua mudança.](Green-And-Yellow-Simple-Checklist--711x1006.jpg)
 
 Uma lista de controlo pode ajudar a manter um registo de todas as tarefas.
 
@@ -27,7 +27,7 @@ O novo contrato de arrendamento foi assinado e a saída do seu antigo apartament
 
 Pouco tempo depois da sua mudança, deve marcar a data de **entrega do apartamento e das chaves**. Deve deixar o apartamento como acordado no contrato de arrendamento. Isto inclui normalmente reparações estéticas e a limpeza do apartamento.
 
-![Com a entrega das chaves do seu antigo apartamento, o seu plano de mudança é posto em marcha.](https://seatable.io/wp-content/uploads/2023/10/pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
+![Com a entrega das chaves do seu antigo apartamento, o seu plano de mudança é posto em marcha.](pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
 
 Ao entregar as chaves, está a fechar o negócio com o seu antigo apartamento.
 
@@ -74,13 +74,13 @@ Uma vez marcado o dia da mudança, o passo seguinte é o planeamento. Existem ba
 
 Com uma **empresa de mudanças**, poupa-se muito tempo e nervos. Porque tudo o que, de outra forma, teria de organizar sozinho, é tratado aqui. Especialmente se estiver a mudar-se com várias pessoas ou se estiver sob pressão de tempo, a mudança pode ser concluída de forma rápida e confortável. No entanto, também é claro que, se quiser manter os seus próprios custos tão baixos quanto possível, terá de ir fundo nos seus bolsos. O montante exato do orçamento depende de cada um e deve ser discutido em pormenor com a empresa de mudanças. No entanto, pode dizer-se, grosso modo, que os custos estão relacionados com a distância da mudança e a dimensão do apartamento. Este cálculo médio serve de orientação:
 
-![Este é o custo da sua mudança, dependendo da dimensão do seu agregado familiar.](https://seatable.io/wp-content/uploads/2023/10/Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
+![Este é o custo da sua mudança, dependendo da dimensão do seu agregado familiar.](Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
 
 O custo da sua mudança depende da dimensão do agregado familiar e da distância dos apartamentos.
 
 Mas, pelo seu dinheiro, recebe um **Serviço completo**. Isto também inclui a responsabilidade da empresa por quaisquer danos causados aos seus bens, ao apartamento ou às escadas durante a mudança. A lei estipula que, em caso de danos, será cobrada uma indemnização de 620 euros por metro cúbico de bens transportados. Se pretender transportar bens particularmente valiosos, pode acordar com a empresa de mudanças um montante de responsabilidade mais elevado. Mas atenção: se for você a embalar os seus móveis e objectos, os profissionais não serão responsáveis por quaisquer danos causados durante o transporte.
 
-![A contratação de uma empresa de mudanças poupa-lhe muito trabalho.](https://seatable.io/wp-content/uploads/2023/10/handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
+![A contratação de uma empresa de mudanças poupa-lhe muito trabalho.](handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
 As empresas de mudanças tiram-lhe grande parte do trabalho.
 
@@ -96,7 +96,7 @@ A quantidade de apoio que pretende obter de uma empresa depende de si. Normalmen
 
 Se quiser poupar custos, **mudar-se por conta** própria é exatamente a coisa certa a fazer. No entanto, o esforço de organização também será maior. Porque tudo o que está incluído na empresa de mudanças passa a estar nas suas mãos. Mas, com um bom planeamento, nada pode impedir este plano. Um [plano](https://seatable.io/pt/umzug/#Online-Planer_fuer_Ihren_Umzug) de mudanças ajudá-lo-á em todas as etapas do processo.
 
-![Custos que terá de suportar durante a mudança.](https://seatable.io/wp-content/uploads/2023/10/Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
+![Custos que terá de suportar durante a mudança.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 
 Estas são as despesas em que incorrerá se se mudar sozinho.
 
@@ -110,7 +110,7 @@ Organizar tudo sozinho? Não há problema! As tarefas seguintes são suas:
 - **Encontrar ajudantes de mudanças**: O seu primeiro ponto de contacto deve ser os seus familiares e amigos, que certamente terão todo o gosto em ajudá-lo sem qualquer pagamento. Se poucos dos seus amigos tiverem tempo, pode procurar outros ajudantes, mas terá de os pagar. Para o fazer, pode pedir ajuda na sua vizinhança ou lançar um apelo nas suas redes sociais. Lembre-se também de providenciar comida e bebida suficientes para os seus ajudantes no dia da mudança.
 - **Ferramentas**: Para facilitar o trabalho dos seus ajudantes e o seu, recomendamos ferramentas como luvas de trabalho, cintas de tensão e um carrinho de mão para transportar objectos pesados. Se não houver profissionais no local de trabalho, as lesões podem ocorrer com mais frequência. Por isso, prepare-se para o pior e tenha um kit de primeiros socorros no local.
 
-![Embale os seus pertences de forma segura para que não se partam durante a mudança.](https://seatable.io/wp-content/uploads/2023/10/pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
+![Embale os seus pertences de forma segura para que não se partam durante a mudança.](pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
 
 Organize material de embalagem resistente para que os seus pertences não se partam.
 
@@ -141,7 +141,7 @@ Na Alemanha, uma parte das despesas de mudança pode ser deduzida do imposto sob
 
 Existem alguns **custos gerais**que pode declarar na íntegra na sua declaração de impostos. **Muito importante**: Guarde as facturas e os recibos para poder comprovar as suas despesas. As despesas gerais incluem, por exemplo, os custos de transporte dos bens domésticos, o dobro da renda durante o período de mudança ou a comissão do agente imobiliário.
 
-![Mantenha sempre um registo dos seus custos, guardando os recibos.](https://seatable.io/wp-content/uploads/2023/10/finance-8206242_1280-711x474.jpg)
+![Mantenha sempre um registo dos seus custos, guardando os recibos.](finance-8206242_1280-711x474.jpg)
 
 Guarde todas as facturas e recibos para poder declarar as suas despesas para efeitos fiscais.
 
@@ -153,7 +153,7 @@ O montante fixo é de 886 euros desde 1 de abril de 2023; por cada pessoa suplem
 
 É claro que não é obrigatório utilizar a taxa fixa. Se as despesas excederem os custos cobertos pela taxa fixa, é possível apresentar o pedido de reembolso do imposto com recibos, tal como acontece com as despesas gerais.
 
-![A renovação do antigo apartamento também será parcialmente coberta durante a mudança e deve ser considerada no seu plano de mudança, se houver despesas.](https://seatable.io/wp-content/uploads/2023/10/pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
+![A renovação do antigo apartamento também será parcialmente coberta durante a mudança e deve ser considerada no seu plano de mudança, se houver despesas.](pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
 
 A renovação do antigo apartamento, por exemplo, reparações estéticas acordadas contratualmente, também está coberta.
 
@@ -167,6 +167,6 @@ Uma mudança por razões médicas é considerada um encargo extraordinário. Tam
 
 Para que a sua próxima mudança seja o menos stressante possível, a equipa SeaTable criou um modelo para o seu plano de mudança. Pode adaptá-lo às suas necessidades como desejar.
 
-![Plano de relocalização](images/Umzugsplan.png)
+![Plano de relocalização](Umzugsplan.png)
 
 Se pretender utilizar o SeaTable para o planeamento da sua mudança, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente [aqui]({{< relref "templates/real-estate/moving-plan" >}}).

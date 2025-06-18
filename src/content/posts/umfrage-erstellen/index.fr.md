@@ -14,7 +14,7 @@ Vous voulez savoir quels sont les besoins de votre groupe cible ou comment optim
 
 L'article suivant met en lumière les avantages et les critères importants pour la création d'enquêtes en ligne et effectue une comparaison de sept outils prometteurs.
 
-![Créer une enquête : Ordinateur portable avec résultats du feedback](images/feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
+![Créer une enquête : Ordinateur portable avec résultats du feedback](feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
 
 Pour la collecte des données, l'enquête en ligne s'avère être un outil extrêmement efficace.
 
@@ -32,7 +32,7 @@ L'un des principaux avantages de la création d'enquêtes en ligne est la possib
 
 Pour obtenir de bons résultats, il est particulièrement important de formuler soigneusement vos questions lorsque vous créez une enquête. Des questions mal formulées peuvent donner lieu à des réponses imprécises ou biaisées, ce qui peut compromettre la **validité** de vos données. Cela serait regrettable, surtout si vous avez consacré beaucoup de temps et d'efforts à l'enquête. Pour éviter ce genre de problèmes, Rolf Porst a formulé [dix principes](https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/howto/how-to2rp.pdf) dont vous devez absolument tenir compte lors de la formulation d'une enquête.
 
-![Liste de contrôle sur les 10 principes de formulation des questions.](images/Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
+![Liste de contrôle sur les 10 principes de formulation des questions.](Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
 
 Les 10 commandements de la formulation des questions selon Rolf Porst.
 
@@ -46,7 +46,7 @@ Une **structure claire** de l'enquête est essentielle. Personne n'a envie de re
 
 Même après la clôture de l'enquête, il est important de montrer votre **appréciation**. Les participants ont investi leur temps précieux pour vous aider et méritent donc d'être reconnus. Un petit message de remerciement à la fin de l'enquête peut aider les participants à se sentir appréciés et à être prêts à participer à nouveau à des enquêtes à l'avenir.
 
-![Créer un sondage : Femme riant à la caméra](images/pexels-andrea-piacquadio-3769021-711x474.jpg)
+![Créer un sondage : Femme riant à la caméra](pexels-andrea-piacquadio-3769021-711x474.jpg)
 
 Avec une enquête bien conçue, vous évitez un taux d'abandon élevé.
 
@@ -138,11 +138,11 @@ Une caractéristique particulière de cet outil est la possibilité d'afficher l
 
 ### SeaTable
 
-Les [formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/) de **SeaTable** permettent de réaliser des enquêtes dans lesquelles les données collectées sont automatiquement enregistrées dans un tableau avec un backend de base de données. Cela permet d'établir d'excellentes relations entre les données. Différentes [statistiques](https://seatable.io/fr/docs/plugins/anleitung-zum-statistik-plugin/) sont disponibles pour l'analyse et la préparation des résultats de l'enquête, toutes les données peuvent être filtrées, triées et regroupées de manière claire et représentées à l'aide de [plug-ins](https://seatable.io/fr/docs/plugins/alle-plugins-in-der-uebersicht/) graphiques. De plus, SeaTable permet d'exporter les données pour d'autres analyses ou rapports.
+Les [formulaires web]({{< relref "help/base-editor/webformulare" >}}) de **SeaTable** permettent de réaliser des enquêtes dans lesquelles les données collectées sont automatiquement enregistrées dans un tableau avec un backend de base de données. Cela permet d'établir d'excellentes relations entre les données. Différentes [statistiques](https://seatable.io/fr/docs/plugins/anleitung-zum-statistik-plugin/) sont disponibles pour l'analyse et la préparation des résultats de l'enquête, toutes les données peuvent être filtrées, triées et regroupées de manière claire et représentées à l'aide de [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) graphiques. De plus, SeaTable permet d'exporter les données pour d'autres analyses ou rapports.
 
-Bien qu'il ne dispose pas de la même étendue de fonctions que Surveymonkey, par exemple, pour la création de sondages, il offre de nombreuses applications pratiques grâce à ses possibilités de personnalisation et à son utilisation intuitive. La possibilité de collecter différents types de données et d'évaluer les résultats de [manière collaborative en équipe](https://seatable.io/fr/docs/seatable-nutzen/zusammenarbeit/) fait de SeaTable un outil flexible pour les enquêtes et autres projets.
+Bien qu'il ne dispose pas de la même étendue de fonctions que Surveymonkey, par exemple, pour la création de sondages, il offre de nombreuses applications pratiques grâce à ses possibilités de personnalisation et à son utilisation intuitive. La possibilité de collecter différents types de données et d'évaluer les résultats de [manière collaborative en équipe]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) fait de SeaTable un outil flexible pour les enquêtes et autres projets.
 
-En ce qui concerne la protection des données, SeaTable répond à toutes les exigences du RGPD et offre une sécurité supplémentaire, car les données sont exclusivement stockées dans des centres de données allemands. Outre la version cloud, il existe même l'option d'[installer SeaTable sur son propre serveur](https://seatable.io/fr/on-premises/) afin de conserver la pleine maîtrise de ses données.
+En ce qui concerne la protection des données, SeaTable répond à toutes les exigences du RGPD et offre une sécurité supplémentaire, car les données sont exclusivement stockées dans des centres de données allemands. Outre la version cloud, il existe même l'option d'[installer SeaTable sur son propre serveur]({{< relref "pages/product/seatable-server" >}}) afin de conserver la pleine maîtrise de ses données.
 
 **le domaine d'application :** Enquêtes  
 **Facilité d'utilisation :** très bien  
@@ -153,7 +153,7 @@ En ce qui concerne la protection des données, SeaTable répond à toutes les ex
 
 La fonction de formulaire web de SeaTable peut être utilisée gratuitement dans son intégralité. Seule la personnalisation du design nécessite un abonnement Enterprise à 14€ par mois.
 
-![Une enquête sur le feedback des clients comme exemple](images/Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
+![Une enquête sur le feedback des clients comme exemple](Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
 
 Exemple d'enquête sur les commentaires des clients dans SeaTable
 

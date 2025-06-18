@@ -18,7 +18,7 @@ But how exactly does social media management work? By reading the following arti
 
 The term social media management **describes targeted communication and advertising management** on various social media platforms such as Facebook, Instagram, YouTube & Co. It covers a wide range of tasks, such as **communicating directly with your target groups, publishing content and developing your own social media strategy**.
 
-![Social media management: apps on one screen.](images/pexels-pixabay-267350-711x516.jpg)
+![Social media management: apps on one screen.](pexels-pixabay-267350-711x516.jpg)
 
 There is a wide range of social media platforms.
 
@@ -39,7 +39,7 @@ In order to be successful as a company on social media in the long term, you sho
 
 In 2023, an [online survey](https://de.statista.com/statistik/daten/studie/463928/umfrage/wichtigste-social-media-plattformen-fuer-marketingverantwortliche/) revealed which **platform** is the most important for those responsible for social media management. According to the survey, Facebook is in the lead, followed at some distance by Instagram and LinkedIn.
 
-![Statistics on the most important companies in social media management.](images/Statistik-711x533.png)
+![Statistics on the most important companies in social media management.](Statistik-711x533.png)
 
 Facebook is far ahead compared to other platforms.
 
@@ -57,7 +57,7 @@ Try to maintain a consistent **corporate identity** on your profiles too. For ex
 
 On TikTok and Instagram, you also have the option of **pinning** relevant posts to the top of your profile. For example, do you often get the same question from your community? Simply pin a post that answers the question and refer to it in future.
 
-![An Instagram feed in social media management.](images/pexels-lisa-fotios-1092671-711x474.jpg)
+![An Instagram feed in social media management.](pexels-lisa-fotios-1092671-711x474.jpg)
 
 Aesthetics play an important role in social media.
 
@@ -87,7 +87,7 @@ If you want to build a successful digital presence, **analyzing** your social me
 
 If you have not yet dealt intensively with this topic in social media management, it is advisable to start with a **social media audit**. This comprehensive review of your social media presence includes an analysis of previous activities, content, interactions and the **performance** of your channels. Pay particular attention to **important key performance indicators (KPIs)**.
 
-![Key performance indicators in social media marketing.](images/KPIs-711x533.png)
+![Key performance indicators in social media marketing.](KPIs-711x533.png)
 
 You also have the option of carrying out a **benchmark analysis** of your competitors. By directly comparing industry-specific figures, you can better assess how well your performance compares to the competition. In addition to identifying your own strengths and weaknesses, you can also derive **best practices** from the industry.
 

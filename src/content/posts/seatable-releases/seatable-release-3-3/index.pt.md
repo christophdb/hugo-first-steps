@@ -18,7 +18,7 @@ O SeaTable Server 3.3 está disponível no SeaTable Cloud desde esta manhã. Os 
 
 No editor revisto para formulários Web, os "blocos" substituem os cursores na barra lateral das definições. Se um bloco deste tipo for arrastado para o formulário e "largado", o elemento associado é adicionado ao formulário na posição atual. Todas as definições do bloco podem ser modificadas na barra lateral. Isto parece-te familiar? É isso mesmo! O editor de formulários adopta assim o design da interface do utilizador do plug-in de design de páginas.
 
-![Editor de formulários baseado em blocos no SeaTable 3.3](https://seatable.io/wp-content/uploads/2022/12/Form_Editor_Blockdesign.png)
+![Editor de formulários baseado em blocos no SeaTable 3.3](Form_Editor_Blockdesign.png)
 
 As numerosas vantagens do desenho do bloco são convincentes: os campos na forma podem estar em qualquer ordem. A ordem dos campos do formulário não tem de corresponder à ordem das colunas na tabela. Cada formulário pode ter uma sequência de campo individual. Naturalmente, todos os blocos na forma também podem ser movidos mais tarde. Para trocar a sequência de dois campos, basta arrastar o campo inferior sobre o superior (ou vice-versa) e terá optimizado a sequência. Que campos utiliza nos formulários e por ordem é agora da sua inteira responsabilidade com o novo editor.
 
@@ -32,7 +32,7 @@ Algumas melhorias adicionais para o editor de formulários estão ainda em curso
 
 ## E-mails mais sofisticados com HTML
 
-![SeaTable 3.3 suporta e-mails HTML](https://seatable.io/wp-content/uploads/2022/12/HTML_Email_Support.png)
+![SeaTable 3.3 suporta e-mails HTML](HTML_Email_Support.png)
 
 Para muitos processos empresariais, o envio de e-mails é essencial. SeaTable tem oferecido esta capacidade desde a versão 2. Esta actualização de Dezembro actualiza substancialmente a função de e-mail: SeaTable suporta agora e-mails HTML. Nestes - ao contrário dos e-mails de texto simples - pode inserir imagens, tabelas, comentários e outra formatação, tal como a conhece dos clientes de e-mail como Outlook, Thunderbird ou Apple Mail.
 
@@ -46,7 +46,7 @@ Graças à função Big Data introduzida na [versão 3.1,]({{< relref "posts/sea
 
 A importação em massa tem lugar directamente no armazenamento de Grandes Dados (ou componente SeaTables dtable-db). É possível processar e analisar os dados com todas as funções disponíveis numa vista de Grandes Dados. Até ao limite de 100.000 filas, também é possível mover filas importadas para a memória normal para trabalharem em conjunto em tempo real.
 
-![Importar e exportar em massa para o grande armazenamento de dados do SeaTable](https://seatable.io/wp-content/uploads/2022/12/Massimport_BigDataStorage.png)
+![Importar e exportar em massa para o grande armazenamento de dados do SeaTable](Massimport_BigDataStorage.png)
 
 A nova função de importação, actualização e exportação pode ser acedida através das funções alargadas de uma vista de Grandes Dados.
 
@@ -62,7 +62,7 @@ Há mais algumas melhorias, que serão aqui apresentadas individualmente, mas mu
 
 A formatação condicional em colunas pode agora destacar também as duplicações. Quando activadas, todas as células cujo conteúdo aparece de forma idêntica duas ou mais vezes numa coluna são destacadas. Juntamente com uma formatação baseada em valores e em regras, SeaTable oferece agora três tipos de formatação condicional.
 
-![Nova tabela e ajustes de visualização em SeaTable 3.3](https://seatable.io/wp-content/uploads/2022/12/Table_View_Settings.png)
+![Nova tabela e ajustes de visualização em SeaTable 3.3](Table_View_Settings.png)
 
 Uma terceira opção foi também adicionada à tabela e ajustes de visualização. Agora a criação e eliminação de vistas pode ser feita um direito exclusivo do proprietário da Base ou do(s) administrador(es) da Base.
 

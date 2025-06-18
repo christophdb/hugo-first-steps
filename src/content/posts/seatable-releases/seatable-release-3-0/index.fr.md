@@ -19,7 +19,7 @@ Les colonnes de texte permettent de saisir des chaînes de tout type et de toute
 
 Lorsque la validation des données est activée, SeaTable vérifie si la valeur de la cellule saisie correspond au format cible défini. Si la saisie ne correspond pas au format cible, la cellule est mise en évidence en rouge. Dans les formulaires web, une saisie non conforme entraîne un message d'erreur et le formulaire ne peut pas être soumis.
 
-![Validation des données dans SeaTable 3.0](https://seatable.io/wp-content/uploads/2022/06/FormatCheck.png)
+![Validation des données dans SeaTable 3.0](FormatCheck.png)
 
 Das Zielformat wird in Form eines [regulären Ausdrucks](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) definiert. Ein regulärer Ausdruck für eine Zahlenfolge mit genau 5 Stellen ist beispielsweise \[0-9\]{5}. Für reguläre Ausdrücke sprechen zwei Argumente: Sie sind eine weit verbreitete Methode und bieten ein Maximum an Flexibilität. Die Art der erlaubten Zeichen, die Länge, und auch die Syntax der Eingabe lässt sich mit regulären Ausdrücken präzise definieren.
 
@@ -41,13 +41,13 @@ L'édition en ligne est disponible dans tous les abonnements SeaTable Cloud, y c
 
 Les enregistrements partagés permettent de synchroniser les données d'une base vers une ou plusieurs autres bases. Ils sont particulièrement utiles lorsque vous souhaitez mettre des données à la disposition d'autres utilisateurs à des fins de traitement et d'enrichissement, mais que vous ne pouvez pas donner à ces utilisateurs le droit d'accéder à la liste que vous gérez ("liste maîtresse"). La version 3.0 contient plusieurs améliorations visant à simplifier la création, la synchronisation et la duplication d'ensembles de données partagés.
 
-![Les jeux de données communs existants sont affichés dans la boîte de dialogue "Nouveau jeu de données commun".](https://seatable.io/wp-content/uploads/2022/06/ExistingCDS.png)
+![Les jeux de données communs existants sont affichés dans la boîte de dialogue "Nouveau jeu de données commun".](ExistingCDS.png)
 
 À partir de la version 3.0 de SeaTable, la boîte de dialogue "Nouvel ensemble de données communes" affiche les ensembles de données communes déjà créés. Cela permet d'éviter de créer plusieurs fois des enregistrements communs.
 
 Dans la nouvelle version, les colonnes créées par l'importation d'un ensemble de données commun sont marquées d'une icône de synchronisation. Il est ainsi facile de distinguer les colonnes qui seront écrasées par l'ensemble de données commun lors d'une re-synchronisation de toutes les autres colonnes. Le marquage visuel réduit le risque de perte involontaire de données.
 
-![Colonnes importées de CDS marquées d'une icône de synchronisation](https://seatable.io/wp-content/uploads/2022/06/ColumnIconsCDS.png)
+![Colonnes importées de CDS marquées d'une icône de synchronisation](ColumnIconsCDS.png)
 
 Lors de la duplication d'une table avec un enregistrement commun importé, seules les données étaient jusqu'à présent dupliquées. Le lien avec l'enregistrement commun n'existait pas dans la table dupliquée, de sorte qu'une nouvelle synchronisation n'était pas possible. La fonction de duplication a maintenant été étendue de manière à ce que vous puissiez, à l'aide d'un bouton, soit reprendre le lien avec l'enregistrement commun dans la nouvelle table à créer, soit le rejeter.
 

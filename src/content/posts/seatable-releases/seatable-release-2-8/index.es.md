@@ -18,7 +18,7 @@ El color y la forma de los iconos base de la página de inicio ya pueden adaptar
 
 En la nueva versión hemos eliminado este vacío funcional. El color de la banda del título se basa ahora en el color del icono base. ¿Crees que el azul brillante de la captura de pantalla es elegante? Pues bien, ¡a por ello!
 
-![Cinta base en color personalizado](https://seatable.io/wp-content/uploads/2022/04/Colorful_ribbon.png)
+![Cinta base en color personalizado](Colorful_ribbon.png)
 
 ## Colaboración transparente
 
@@ -26,13 +26,13 @@ Cada cambio que realice en una Base SeaTable se transmite inmediatamente a todos
 
 Pero, ¿quiénes son los otros usuarios que están activos en la Base? SeaTable 2.8 ofrece una respuesta clara a esta pregunta. Un clic en el icono del usuario en la parte superior derecha del editor de la tabla abre la lista de usuarios actuales. Cuando se añade un usuario a una mesa o un compañero deja de trabajar, la lista se actualiza inmediatamente. Colaboración en tiempo real
 
-![Coeditores activos en la tabla](https://seatable.io/wp-content/uploads/2022/04/Active_editors.png)
+![Coeditores activos en la tabla](Active_editors.png)
 
 ## Descripción sencilla de las columnas
 
 Si se trabaja en equipo en las tablas, las instrucciones de cumplimentación evitan la introducción de datos incorrectos: ¿Qué debe introducirse en una columna? ¿En qué unidad deben registrarse los datos? ¿Cómo deben interpretarse las categorías? ¿Quién puede responder a las preguntas?
 
-![Descripciones de columnas disponibles a partir de SeaTable 2.8](https://seatable.io/wp-content/uploads/2022/04/Column_descriptions.png)
+![Descripciones de columnas disponibles a partir de SeaTable 2.8](Column_descriptions.png)
 
 Las descripciones de las columnas introducidas en SeaTable 2.8 están pensadas exactamente para este tipo de información. En las descripciones de las tablas se puede introducir información adicional que no cabe en el encabezamiento de la columna o que debería figurar en ella. Si se introduce una descripción para una columna, se muestra un icono de información en la cabecera de la columna. Al pasar el ratón por encima, se muestra la descripción en toda su extensión.
 
@@ -47,7 +47,7 @@ La novedad de SeaTable 2.8 es la posibilidad de formatear los textos de ayuda y 
 El editor de texto formateado no sólo se utiliza en los formularios web. También se utiliza en las columnas con texto formateado y en las descripciones de las bases. Con el cambio de versión, el editor ha experimentado tres mejoras:
 
 Las tablas pueden insertarse en las dimensiones deseadas en un abrir y cerrar de ojos gracias a un nuevo asistente. Se abre haciendo clic en el botón "Insertar tabla". Ahora arrastre la tabla a la dimensión deseada y haga clic de nuevo. La tabla con las proporciones seleccionadas se inserta entonces en la posición del cursor. Hasta ahora, SeaTable siempre insertaba nuevas tablas como tablas 2×2, lo que requería hacer clic y añadir manualmente más filas y columnas.  
-![Nuevo asistente para nuevas tablas de dimensiones personalizadas](https://seatable.io/wp-content/uploads/2022/04/New_table_wizard.png)
+![Nuevo asistente para nuevas tablas de dimensiones personalizadas](New_table_wizard.png)
 
 La navegación en las tablas también es más fácil a partir de ahora. A partir de SeaTable 2.8, el editor soporta la navegación con TAB y SHIFT + TAB. Según la convención general, el cursor salta a la siguiente celda con TAB; SHIFT + TAB permite al editor saltar a la celda anterior.
 
@@ -57,7 +57,7 @@ Por último, el editor de SeaTable 2.8 también ofrece una mejor vista previa de
 
 Un registro compartido es una vista de una tabla que se libera para uno o varios grupos con derechos de lectura. Los grupos autorizados pueden importar el conjunto de datos a sus propias bases. Esto les da acceso a los datos del conjunto de datos sin que el grupo que los comparte pierda la soberanía sobre sus datos.
 
-![Sincronización automática de los conjuntos de datos comunes](https://seatable.io/wp-content/uploads/2022/04/Automatic_sync.png)
+![Sincronización automática de los conjuntos de datos comunes](Automatic_sync.png)
 
 Anteriormente, los datos de un conjunto de datos comunes importados sólo podían actualizarse manualmente. En la versión actual, la sincronización de los datos puede realizarse opcionalmente de forma automática. Si la sincronización automática está activada, el conjunto de datos se actualiza cada 24 horas después de la última ejecución de la sincronización. Si los datos de la tabla de origen han cambiado, estos cambios se transfieren a la tabla importada mediante la sincronización.
 
@@ -72,4 +72,4 @@ Para las columnas y agrupaciones, ahora se puede calcular la mediana además de 
 En el plug-in de diseño de páginas, se puede ajustar el tamaño de la fuente en las tablas para las líneas enlazadas. También se ha mejorado el salto de línea en dichas tablas.
 
 Además de los decimales y el símbolo de la moneda, ahora se puede determinar libremente la posición de este último en una columna de moneda definida por el usuario.  
-![Símbolo de moneda y posición personalizados](https://seatable.io/wp-content/uploads/2022/04/Custom_currency_symbol.png)
+![Símbolo de moneda y posición personalizados](Custom_currency_symbol.png)

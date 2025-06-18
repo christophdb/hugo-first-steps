@@ -19,7 +19,7 @@ En las columnas de texto se pueden introducir cadenas de cualquier tipo y longit
 
 Si la validación de datos está activada, SeaTable comprueba si el valor de la celda introducido se corresponde con el formato de destino definido. Si la entrada no se corresponde con el formato de destino, la celda se resalta en rojo. En los formularios web, una entrada no conforme dará lugar a un mensaje de error y el formulario no podrá ser enviado.
 
-![Validación de datos en SeaTable 3.0](https://seatable.io/wp-content/uploads/2022/06/FormatCheck.png)
+![Validación de datos en SeaTable 3.0](FormatCheck.png)
 
 Das Zielformat wird in Form eines [regulären Ausdrucks](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) definiert. Ein regulärer Ausdruck für eine Zahlenfolge mit genau 5 Stellen ist beispielsweise \[0-9\]{5}. Für reguläre Ausdrücke sprechen zwei Argumente: Sie sind eine weit verbreitete Methode und bieten ein Maximum an Flexibilität. Die Art der erlaubten Zeichen, die Länge, und auch die Syntax der Eingabe lässt sich mit regulären Ausdrücken präzise definieren.
 
@@ -41,13 +41,13 @@ La edición en línea está disponible en todas las suscripciones de SeaTable Cl
 
 La función Registros compartidos permite sincronizar los datos de una Base con otra u otras Bases. Son especialmente útiles si desea poner los datos a disposición de otros usuarios para su posterior tratamiento y enriquecimiento, pero no puede dar a estos usuarios derechos de acceso a la lista que usted gestiona ("lista maestra"). La versión 3.0 incluye varias mejoras para simplificar la creación, sincronización y duplicación de registros compartidos.
 
-![Los conjuntos de datos comunes existentes se muestran en el cuadro de diálogo "Nuevo conjunto de datos comunes".](https://seatable.io/wp-content/uploads/2022/06/ExistingCDS.png)
+![Los conjuntos de datos comunes existentes se muestran en el cuadro de diálogo "Nuevo conjunto de datos comunes".](ExistingCDS.png)
 
 A partir de SeaTable 3.0, los conjuntos de datos comunes ya creados se muestran en el diálogo "Nuevo conjunto de datos comunes". Esto evita la creación múltiple de conjuntos de datos comunes.
 
 En la nueva versión, las columnas creadas al importar un registro común se marcan con un icono de sincronización. Esto hace que sea fácil distinguir las columnas que se sobrescribirán con el conjunto de datos comunes durante una resincronización de todas las demás columnas. El marcado visual reduce el riesgo de pérdida involuntaria de datos.
 
-![Columnas importadas de CDS marcadas con el icono de sincronización](https://seatable.io/wp-content/uploads/2022/06/ColumnIconsCDS.png)
+![Columnas importadas de CDS marcadas con el icono de sincronización](ColumnIconsCDS.png)
 
 Al duplicar una tabla con un conjunto de datos común importado, hasta ahora sólo se duplicaban los datos. El enlace al conjunto de datos común no figuraba en la tabla duplicada, por lo que no era posible renovar la sincronización. La función de duplicación se ha ampliado para que se pueda transferir el enlace del conjunto de datos común a la nueva tabla que se va a crear o descartarlo mediante un conmutador.
 

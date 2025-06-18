@@ -15,7 +15,7 @@ seo:
 
 Empiece a planificar su mudanza con una sesión de brainstorming. ¿Qué tareas tengo que hacer? ¿Quién puede ayudarme? ¿Cuánto presupuesto puedo gastar? A continuación, elabore un resumen de costes para calcular sus gastos. Puede definir y trabajar las primeras tareas en una lista de control.
 
-![Lista de comprobación con las tareas más importantes para su mudanza.](https://seatable.io/wp-content/uploads/2023/10/Green-And-Yellow-Simple-Checklist--711x1006.jpg)
+![Lista de comprobación con las tareas más importantes para su mudanza.](Green-And-Yellow-Simple-Checklist--711x1006.jpg)
 
 Una lista de control puede ayudar a controlar todas las tareas.
 
@@ -27,7 +27,7 @@ Ya ha firmado el nuevo contrato de alquiler y ha sellado la salida de su antiguo
 
 Poco después de la mudanza, debe concertar una cita para **entregar el piso y las llaves**. Debes dejar el piso tal y como se acordó en el contrato de alquiler. Esto suele incluir reparaciones cosméticas y la limpieza del piso.
 
-![Con la entrega de las llaves de su antiguo piso, su plan de traslado se pone en marcha.](https://seatable.io/wp-content/uploads/2023/10/pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
+![Con la entrega de las llaves de su antiguo piso, su plan de traslado se pone en marcha.](pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
 
 Cuando entregas las llaves, cierras el trato con tu antiguo piso.
 
@@ -74,13 +74,13 @@ Una vez fijado el día de la mudanza, el siguiente paso es la planificación. B�
 
 Con una **empresa de mudanzas** se ahorrará mucho tiempo y nervios. Porque aquí se encargan de todo lo que de otro modo tendría que organizar usted mismo. Especialmente si se muda con varias personas o está bajo presión de tiempo, la mudanza puede realizarse rápida y cómodamente. Sin embargo, también está claro que si quiere mantener sus propios costes lo más bajos posible, tendrá que rebuscar en sus bolsillos. El presupuesto exacto depende de cada persona y debe discutirse en detalle con la empresa de mudanzas. Sin embargo, se puede decir a grandes rasgos que los costes están relacionados con la distancia de la mudanza y el tamaño del piso. Este cálculo medio sirve de orientación:
 
-![Esto es lo que costará su mudanza, dependiendo de lo grande que sea su hogar.](https://seatable.io/wp-content/uploads/2023/10/Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
+![Esto es lo que costará su mudanza, dependiendo de lo grande que sea su hogar.](Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
 
 El coste de su mudanza depende del tamaño del hogar y de la distancia de los pisos.
 
 Pero por tu dinero obtienes un **Servicio completo**. Esto incluye también que la empresa es responsable de cualquier daño que sufran sus bienes, el piso o la escalera durante la mudanza. La ley estipula que se tasarán 620 euros por metro cúbico de mercancía transportada en caso de daños. Si desea transportar bienes especialmente valiosos, puede acordar con la empresa de mudanzas un importe de responsabilidad civil más elevado. Pero cuidado: si embala usted mismo sus muebles y enseres, los profesionales no se harán responsables de los daños causados durante el transporte.
 
-![Contratar una empresa de mudanzas le ahorra mucho trabajo.](https://seatable.io/wp-content/uploads/2023/10/handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
+![Contratar una empresa de mudanzas le ahorra mucho trabajo.](handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
 Las empresas de mudanzas le quitan mucho trabajo de encima.
 
@@ -96,7 +96,7 @@ El grado de apoyo que quieras recibir de una empresa depende de ti. Normalmente,
 
 Si quiere ahorrar costes, **mudarse** por su cuenta es exactamente lo que debe hacer. Sin embargo, el esfuerzo organizativo también será mayor. Porque todo lo que incluye la empresa de mudanzas recae ahora en sus propias manos. Pero con una buena planificación, nada puede interponerse en este plan. Un [plan de mudanzas](https://seatable.io/es/umzug/#Online-Planer_fuer_Ihren_Umzug) le ayudará con todos los pasos del camino.
 
-![Costes de la mudanza.](https://seatable.io/wp-content/uploads/2023/10/Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
+![Costes de la mudanza.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 
 Estos son los gastos en los que incurrirá si se traslada por su cuenta.
 
@@ -110,7 +110,7 @@ Estos son los gastos en los que incurrirá si se traslada por su cuenta.
 - **Busque ayudantes para la mudanza**: Lo primero a lo que debe acudir es a sus familiares y amigos, ya que seguro que estarán encantados de ayudarle sin tener que pagarle. Si tus amigos tienen poco tiempo, puedes buscar otros ayudantes, pero tendrás que pagarles. Para ello, puedes preguntar en tu barrio o hacer un llamamiento en tus redes sociales. Acuérdate también de proporcionar suficiente comida y bebida a tus ayudantes el día de la mudanza.
 - **Herramientas**: Para facilitar el trabajo a tus ayudantes y a ti mismo, te recomendamos herramientas como guantes de trabajo, correas tensoras y una carretilla de mano para transportar objetos pesados. Si no hay profesionales en el trabajo, pueden producirse lesiones con más frecuencia. Así que prepárate para lo peor y ten a mano un botiquín de primeros auxilios.
 
-![Empaquete bien sus pertenencias para que no se rompan durante la mudanza.](https://seatable.io/wp-content/uploads/2023/10/pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
+![Empaquete bien sus pertenencias para que no se rompan durante la mudanza.](pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
 
 Organice un material de embalaje resistente para que sus pertenencias no se rompan.
 
@@ -141,7 +141,7 @@ En Alemania puede deducir parte de los gastos de mudanza de sus impuestos como *
 
 Hay algunos **gastos generales**que puede declarar íntegramente en su declaración de la renta. **Muy importante**Gastos generales: Conserve facturas y recibos para poder demostrar sus gastos. Los gastos generales incluyen, por ejemplo, los gastos de transporte de enseres, el doble alquiler durante la fase de mudanza o la comisión del agente inmobiliario.
 
-![Lleve siempre la cuenta de sus gastos guardando los recibos.](https://seatable.io/wp-content/uploads/2023/10/finance-8206242_1280-711x474.jpg)
+![Lleve siempre la cuenta de sus gastos guardando los recibos.](finance-8206242_1280-711x474.jpg)
 
 Conserve todas las facturas y recibos para declarar sus gastos a efectos fiscales.
 
@@ -153,7 +153,7 @@ La cuantía a tanto alzado es de 886 euros desde el 1 de abril de 2023; por cada
 
 Por supuesto, no es obligatorio utilizar la tarifa plana. Si los gastos superan los costes cubiertos por la tarifa plana, puede reclamar la devolución de impuestos con recibos, como en el caso de los gastos generales.
 
-![La renovación del piso antiguo también estará cubierta en parte durante la mudanza y debe tenerse en cuenta en el plan de mudanza si hay gastos de por medio.](https://seatable.io/wp-content/uploads/2023/10/pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
+![La renovación del piso antiguo también estará cubierta en parte durante la mudanza y debe tenerse en cuenta en el plan de mudanza si hay gastos de por medio.](pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
 
 También está cubierta la renovación del piso antiguo, por ejemplo, las reparaciones estéticas acordadas contractualmente.
 
@@ -167,6 +167,6 @@ Un traslado por motivos médicos cuenta como carga extraordinaria. También pued
 
 Para que su próxima mudanza sea lo menos estresante posible, el equipo de SeaTable ha creado una plantilla para su plan de mudanza. Puede adaptarla a sus necesidades como desee.
 
-![Plan de reubicación](images/Umzugsplan.png)
+![Plan de reubicación](Umzugsplan.png)
 
 Si desea utilizar SeaTable para planificar su traslado, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/real-estate/moving-plan" >}}) encontrará la plantilla correspondiente.

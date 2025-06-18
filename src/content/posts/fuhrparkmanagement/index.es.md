@@ -13,9 +13,9 @@ Ya sean camiones, autobuses o coches de empresa clásicos: la gestión de una fl
 
 ## ¿Qué es un parque móvil?
 
-La **flota de** **vehículos de** su empresa incluye todos los vehículos de su [inventario](https://seatable.io/es/inventarliste-vorlagen/). Lo más frecuente es que se trate de los clásicos **coches de empresa**. Pero también puede incluir vehículos especializados: Autobuses y trenes, camiones, vehículos para obras, carretillas elevadoras, tractores u otros vehículos.
+La **flota de** **vehículos de** su empresa incluye todos los vehículos de su [inventario]({{< relref "posts/inventarliste-erstellen" >}}). Lo más frecuente es que se trate de los clásicos **coches de empresa**. Pero también puede incluir vehículos especializados: Autobuses y trenes, camiones, vehículos para obras, carretillas elevadoras, tractores u otros vehículos.
 
-![Gestión de flotas](https://seatable.io/wp-content/uploads/2022/05/fuhrparkmanagement-mit-seatable.jpg)
+![Gestión de flotas](fuhrparkmanagement-mit-seatable.jpg)
 
 Existen dos tipos de vehículos en la gestión de flotas:
 
@@ -34,7 +34,7 @@ El esfuerzo necesario para la gestión de su flota depende totalmente del **tama
 
 El objetivo de la gestión de flotas (tanto en el sector público como en el privado) es organizar todos los procesos relacionados con los vehículos de la forma más eficiente y rentable posible. Esto se aplica a **los costes de adquisición**, **los costes de funcionamiento**, pero también al **mantenimiento y las reparaciones**. Otra tarea importante es la **asignación y reserva** de vehículos sin problemas ni complicaciones. Puede utilizar sistemas de reserva digitales, por ejemplo, para facilitar la entrega y documentarla sin problemas.
 
-![Llaves del coche para la entrega del vehículo](https://seatable.io/wp-content/uploads/2022/05/Anrita1705-automobile-7600895_1280.jpg)
+![Llaves del coche para la entrega del vehículo](Anrita1705-automobile-7600895_1280.jpg)
 
 ### ¿Qué forma parte de la gestión de flotas?
 
@@ -51,7 +51,7 @@ Veamos ahora en detalle varios aspectos y consejos para la gestión de flotas.
 
 **¿Cuántos vehículos** necesita su empresa? Con la gestión de flotas, se asegura de que siempre haya disponible un número suficiente de vehículos en el lugar adecuado cuando se necesitan. Un buen indicador puede ser el número de **empleados autorizados a utilizar vehículos de empresa** o el número de vehículos comerciales que deben utilizarse al mismo tiempo para atender determinados pedidos.
 
-![Parque de vehículos](https://seatable.io/wp-content/uploads/2024/01/Fahrzeugflotte.jpg)
+![Parque de vehículos](Fahrzeugflotte.jpg)
 
 La **imagen** que se quiere proyectar también es importante cuando se trata de la gestión de flotas. Los coches de lujo, por ejemplo para la dirección, pueden simbolizar cierto estatus de cara al mundo exterior, pero pueden resultar arrogantes para sus propios empleados y clientes. En la mayoría de los casos, el tamaño de los vehículos también va de la mano de un alto **consumo de combustible**: utilizar vehículos más pequeños en su flota en lugar de devoradores de gasolina es, por tanto, un aspecto tanto financiero como estratégico de cara a la transición de la movilidad.
 
@@ -63,7 +63,7 @@ A la hora de comprar un vehículo, hay que pensar, por supuesto, en la financiac
 
 La **carga administrativa** suele ser menor con el leasing, ya que muchas empresas de alquiler de coches ofrecen servicios personalizados en sus contratos y se encargan de ciertas tareas de gestión de la flota que, de otro modo, tendría que hacer usted mismo. Dependiendo de la situación, el leasing puede ser más favorable que, por ejemplo, una compra con financiación a crédito.
 
-![Financiar una flota de vehículos](https://seatable.io/wp-content/uploads/2024/01/Fuhrpark-finanzieren.jpg)
+![Financiar una flota de vehículos](Fuhrpark-finanzieren.jpg)
 
 En la gestión de flotas, los **seguros** también conllevan elevados costes de funcionamiento. Sin embargo, no tiene por qué asegurar cada uno de sus vehículos individualmente. Puede beneficiarse de contratos de grupo para pólizas de seguro de automóvil para tan solo tres vehículos de empresa, lo que puede reducir los costes y el trabajo administrativo.
 
@@ -81,7 +81,7 @@ También debe comprobar los permisos de los conductores dos veces al año para a
 
 Tiene varias opciones entre las que elegir para gestionar su flota de vehículos. La solución de software debe cumplir varios requisitos: En primer lugar, debe ser **flexible** y, por tanto, aplicable a sus escenarios individuales. También debe ser capaz de registrar distintos tipos de información (por ejemplo, archivos, imágenes y datos GPS) y, al mismo tiempo, ser fácil de **usar**.
 
-![Gestión de flotas](https://seatable.io/wp-content/uploads/2022/05/marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
+![Gestión de flotas](marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
 
 Las necesidades de este tipo de software varían en función del tamaño de la empresa. Las grandes empresas, como las de transporte, pueden recurrir a **soluciones sectoriales** especiales, pero suelen ser caras. Sin embargo, las empresas más pequeñas con una flota manejable no necesitan gastar en un costoso sistema de gestión de flotas.
 

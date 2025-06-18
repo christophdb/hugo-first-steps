@@ -64,9 +64,9 @@ SeaTable использует docker-compose, и вам необходимо у�
 `mkdir /opt/seatable   cd /opt/seatable   wget -O "docker-compose.yml" "https://manual.seatable.io/docker/Enterprise-Edition/docker-compose.yml"   nano docker-compose.yml`
 
 Вот как выглядит YAML-файл после загрузки:  
-![docker-compose.yml файл](https://seatable.io/wp-content/uploads/2021/01/SeaTable_dockercompose.png)
+![docker-compose.yml файл](SeaTable_dockercompose.png)
 
-![docker-compose.yml файл](https://seatable.io/wp-content/uploads/2021/01/SeaTable_dockercompose.png)
+![docker-compose.yml файл](SeaTable_dockercompose.png)
 
 На первый взгляд можно увидеть четыре контейнера, которые Docker устанавливает при выполнении рецепта: db, memcached, redis и seatable. Для каждого контейнера объявляется образ, который будет использоваться ("image"), и имя контейнера ("container_name"). Имя контейнера - это имя, которое в дальнейшем может быть использовано для управления контейнером через Docker Console.
 
@@ -110,7 +110,7 @@ SeaTable использует docker-compose, и вам необходимо у�
 
 Подробнее об интеграции собственного SSL-сертификата вы можете узнать в [руководстве по SeaTable](https://manual.seatable.io/docker/Enterprise-Edition/Deploy%20SeaTable-EE%20with%20Docker/#ssltls).
 
-![Меню Пользователи в Системном администрировании SeaTable](https://seatable.io/wp-content/uploads/2021/01/SeaTableEE_SystemAdministration_Users.png)
+![Меню Пользователи в Системном администрировании SeaTable](SeaTableEE_SystemAdministration_Users.png)
 
 ## Активация лицензии SeaTable
 

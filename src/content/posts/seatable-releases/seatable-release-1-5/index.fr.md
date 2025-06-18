@@ -22,7 +22,7 @@ La liste complète des changements peut être trouvée, comme toujours, dans [le
 
 Les modales étaient plus fréquentes dans les versions précédentes de SeaTable. Par exemple, les boîtes de dialogue 'Insérer une colonne' et 'Ajuster le type de colonne' étaient de tels [modals](https://en.wikipedia.org/wiki/Modal_window), où les contrôles apparaissaient au premier plan et où l'arrière-plan était masqué. Même s'ils nous ont rendu de bons services jusqu'à présent, les modaux offrent une marge d'amélioration en termes de facilité et d'efficacité du travail : lorsque le modal s'ouvre au milieu de l'écran, il incite l'utilisateur à s'y rendre avec la souris. Plus grave encore, en désactivant les barres de défilement, des informations pertinentes ne peuvent pas apparaître derrière un modal si un modal les cache. Qu'avons-nous donc fait ? Nous avons remplacé les modals par des menus non modals qui offrent toutes les fonctions de leurs prédécesseurs sans leurs inconvénients.
 
-![Les modaux ont été remplacés par des menus non modaux](images/Nonmodal_Menus.png)
+![Les modaux ont été remplacés par des menus non modaux](Nonmodal_Menus.png)
 
 ### Des menus simplifiés
 
@@ -34,7 +34,7 @@ Le menu d'options des colonnes de sélection unique et multiple est une autre mo
 
 SeaTable 1.5 rend cet assistant encore plus puissant : les entrées dans la colonne liée peuvent maintenant être non seulement affichées mais aussi éditées directement. Un clic sur une entrée liée ouvre ses détails et toutes les modifications apportées ici sont enregistrées directement dans le tableau lié. Si vous voulez passer au tableau lié, vous pouvez le faire avec le lien direct en haut des détails.
 
-![Les enregistrements liés peuvent désormais être modifiés directement à partir de la colonne des autres enregistrements liés.](images/Editing_Linked_Records_With_Wizard.png)
+![Les enregistrements liés peuvent désormais être modifiés directement à partir de la colonne des autres enregistrements liés.](Editing_Linked_Records_With_Wizard.png)
 
 ### Encore plus précis
 
@@ -56,7 +56,7 @@ Le plugin cartes et chronologie n'a pas été négligé non plus. Le plugin de l
 
 Imaginez que vous souhaitiez partager une base avec les membres de votre équipe avec des droits d'accès différents : Tous les collègues doivent avoir au moins un accès en lecture, certains collègues un accès en lecture/écriture à quelques tables et quelques collègues triés sur le volet un accès complet à toutes les tables. Cela semble compliqué à mettre en œuvre et c'était effectivement le cas. Une base devait être divisée en plusieurs bases et ensuite partagée avec les différents groupes avec des droits différents. Jusqu'à présent !
 
-![SeaTable 1.5 prend désormais en charge les autorisations de partage personnalisées](images/Custom_Sharing_Permission.png)
+![SeaTable 1.5 prend désormais en charge les autorisations de partage personnalisées](Custom_Sharing_Permission.png)
 
 Dans la nouvelle version, nous introduisons des autorisations de partage définies par l'utilisateur. Grâce à elles, le scénario que nous venons d'évoquer est possible sans trop de casse-tête. Une autorisation de partage personnalisée consiste en des droits d'accès individuels pour toutes les tables et vues d'une base. Avec une autorisation de partage personnalisée, vous pouvez par exemple accorder un accès en lecture à une table, mais un accès en lecture-écriture étendu à une autre table de la base. Mais ce n'est pas tout : les partages personnalisés peuvent également être spécifiés au niveau de la vue. Vous pouvez donc accorder un accès en lecture/écriture à une vue spécifique d'une table, mais uniquement un accès en lecture à la vue par défaut. Si vous ne souhaitez pas accorder d'accès à une table ou à une vue, c'est également possible. Il suffit de ne pas accorder d'accès en lecture ou en écriture. Et le meilleur pour la fin : vous pouvez définir autant [d'autorisations de partage](https://seatable.io/fr/docs/handbuch/zusammenarbeit/freigaben/) personnalisées que vous le souhaitez pour chaque base. Vous rêviez d'une gestion plus granulaire des autorisations dans SeaTable ? Vous l'avez maintenant !
 
@@ -66,7 +66,7 @@ Les puissants formulaires web de SeaTable ont été très demandés au cours des
 
 En nous basant sur les commentaires de nos clients et dans l'espoir de soutenir ce secteur qui souffre, nous avons ajouté trois options de personnalisation des formulaires web : premièrement, il est désormais possible de créer des messages individuels "Merci pour votre participation". Vous voulez envoyer un remerciement spécial à vos invités ou donner des informations plus détaillées après avoir répondu aux questions, c'est exactement ce que vous pouvez faire avec SeaTable 1.5. Deuxièmement, la redirection automatique était une fonction très demandée. C'est un plaisir pour nous de la mettre en œuvre dans cette nouvelle version. Si une adresse de redirection est indiquée, SeaTable redirige automatiquement vers cette adresse. Troisièmement, nous avons également assoupli les fonctions de remarque. En plus de la note de formulaire au bas du formulaire, il est désormais possible d'afficher une note avant les champs de formulaire.
 
-![Les formulaires web de SeaTable offrent désormais plus d'options de personnalisation](images/Extra_Customization_Options_Webforms.png)
+![Les formulaires web de SeaTable offrent désormais plus d'options de personnalisation](Extra_Customization_Options_Webforms.png)
 
 Nous croisons les doigts pour que la pandémie de Corona n'apparaisse bientôt plus que dans les livres d'histoire. D'autre part, nous espérons que ces améliorations aideront les utilisateurs de SeaTable dans les secteurs fortement touchés dans leur travail si la pandémie se prolonge.
 

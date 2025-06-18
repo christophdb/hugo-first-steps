@@ -16,7 +16,7 @@ seo:
 
 Los primeros pasos para una fiesta de cumpleaños se planifican mejor con unas **ocho semanas** de antelación. Lo primero que hay que hacer es establecer los pilares básicos.
 
-![Paso 1: El marco de tu fiesta de cumpleaños](https://seatable.io/wp-content/uploads/2023/07/Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
+![Paso 1: El marco de tu fiesta de cumpleaños](Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
 
 ## Planificar una fecha para una fiesta de cumpleaños
 
@@ -24,7 +24,7 @@ Antes de empezar a planificar los detalles de tu fiesta, primero tienes que enco
 
 Si está planeando una fiesta de **cumpleaños infantil**, una tarde entre semana es igualmente adecuada para la fiesta. Si el cumpleañero y la mayoría de los invitados son adultos, la fiesta puede celebrarse por la tarde y prolongarse hasta la noche. A la hora de elegir una fecha adecuada, ten en cuenta también los días festivos y comprueba con antelación la disponibilidad de tus amigos y familiares más cercanos.
 
-![Planificar una fiesta de cumpleaños infantil](images/pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
+![Planificar una fiesta de cumpleaños infantil](pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
 
 ## Crea una lista de invitados para tu fiesta de cumpleaños
 
@@ -50,7 +50,7 @@ Uno de los puntos más importantes de tu fiesta es el lugar donde te desahogas c
 
 Elegir un lugar adecuado suele ser todo un reto, ya que, para empezar, las opciones parecen infinitas. Sin embargo, tenga en cuenta que el lugar no sólo debe adaptarse a sus invitados, sino también a las condiciones meteorológicas de la **temporada** y, si procede, al tema de su fiesta. Por lo tanto, primero haz una lista de los criterios que debe cumplir el posible lugar de celebración. Piensa también en celebrar la fiesta en tus propias cuatro paredes, al aire libre o en un lugar público. Esto le ahorrará el coste de **alquilar** un local y le permitirá destinar su presupuesto a otros fines. Si aun así te decides por un local externo, puedes reducir considerablemente la elección en función de los criterios que hayas establecido.
 
-![Lugares insólitos para una fiesta de cumpleaños](https://seatable.io/wp-content/uploads/2023/07/marvin-meyer-cjhuXRtRT0Y-unsplash.jpg)
+![Lugares insólitos para una fiesta de cumpleaños](marvin-meyer-cjhuXRtRT0Y-unsplash.jpg)
 
 Lugar excepcional para una fiesta de cumpleaños: alquile una casa de vacaciones para una fiesta en la piscina.
 
@@ -69,7 +69,7 @@ Unas bonitas tarjetas de invitación son una forma estupenda de anunciar por ade
 
 Una vez aclarados los puntos clave de tu fiesta de cumpleaños, es hora de ocuparse de los detalles concretos de la misma. Una planificación a tiempo merece la pena sobre todo en este paso. Por lo tanto, debes ocuparte de cosas básicas como el catering y la música al menos un mes antes de la fiesta.
 
-![Paso 2: Los detalles de tu fiesta de cumpleaños](https://seatable.io/wp-content/uploads/2023/07/Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
+![Paso 2: Los detalles de tu fiesta de cumpleaños](Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
 
 ## Planificar el catering de una fiesta de cumpleaños
 
@@ -94,7 +94,7 @@ Especialmente para las fiestas más grandes, le ahorrará mucho tiempo y estrés
 - Pizza y pasta
 - Tartas y postres
 
-![Buffet para una fiesta de cumpleaños](images/brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
+![Buffet para una fiesta de cumpleaños](brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
 
 ### Pide ayuda a tus invitados
 
@@ -108,7 +108,7 @@ Después de ocuparte del catering, también debes ocuparte rápidamente del entr
 
 Si tu local dispone de altavoces de gran sonido, puedes crear tú mismo el ambiente de la fiesta con una lista de reproducción adecuada. Para que la experiencia sea inolvidable, también puedes contratar a un grupo de música en directo o a un DJ para caldear el ambiente y poner a bailar a tus invitados. Tal vez tengas un músico o DJ en tu círculo de amigos y puedas ahorrarte los costes de contratar a una persona externa.
 
-![Una banda en directo es el plato fuerte de toda gran fiesta](https://seatable.io/wp-content/uploads/2023/07/music-hq-Cknyec2RnrE-unsplash.jpg)
+![Una banda en directo es el plato fuerte de toda gran fiesta](music-hq-Cknyec2RnrE-unsplash.jpg)
 
 Una banda de música en directo es el plato fuerte de cualquier gran fiesta de cumpleaños.
 
@@ -132,7 +132,7 @@ Además de la decoración, también debes pensar en el equipamiento suficiente p
 
 ¿Tu fiesta de cumpleaños está cada vez más cerca y ya has organizado todos los detalles? Entonces, aproximadamente una semana antes de la fiesta, ya es hora de empezar con los últimos preparativos para un día inolvidable.
 
-![Paso 3: Los últimos preparativos para tu fiesta de cumpleaños](https://seatable.io/wp-content/uploads/2023/07/1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
+![Paso 3: Los últimos preparativos para tu fiesta de cumpleaños](1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
 
 ### Últimos preparativos y recados
 

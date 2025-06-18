@@ -21,13 +21,13 @@ Eine Kosten-Nutzen-Analyse, kurz CBA (cost benefit analysis), ist eine **Wirtsch
 
 Der Vorteil hierbei ist, dass Sie alle **Faktoren und Auswirkungen, die mit einer Investition zusammenhängen**, in nur einer Datenbank bündeln können und so nicht den Überblick verlieren. Denn gerade bei [großen Projekten](https://seatable.io/projektstrukturplan-vorlage/) gibt es eine Vielzahl an objektiven, aber auch subjektiven Kriterien, die sich ganz unterschiedlich auf die CBA auswirken. Eine Vorlage hilft Ihnen, all diese Aspekte im Blick zu behalten.
 
-![Ausgedruckte Vorlage für eine Kosten Nutzen Analyse.](https://seatable.io/wp-content/uploads/2022/08/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Ausgedruckte Vorlage für eine Kosten Nutzen Analyse.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 
 Profitieren Sie von einer Kosten-Nutzen-Analyse. Bildrechte: amazing studio / Adobe Stock
 
 ## Wo kommt eine Kosten-Nutzen-Analyse zum Einsatz?
 
-Je größer ein [Projekt]({{< relref "templates/projects/project-plan" >}}) ist, umso größer ist in der Regel auch seine Investitionssumme. Während sich die [Kosten](https://seatable.io/budgetplanung-vorlage/) einer Investition dabei meist recht einfach ermitteln lassen, ist der konkrete Nutzen wesentlich schwieriger zu identifizieren. Grund dafür ist, dass sich weder der Erfolg noch die Wirkung einer Maßnahme vorab sicher voraussagen und beziffern lassen. Hinzu kommt, dass der Nutzen einer Investition oft einer subjektiven Bewertung der Entscheider unterliegt.
+Je größer ein [Projekt]({{< relref "templates/projects/project-plan" >}}) ist, umso größer ist in der Regel auch seine Investitionssumme. Während sich die [Kosten]({{< relref "templates/finance/budget-book" >}}) einer Investition dabei meist recht einfach ermitteln lassen, ist der konkrete Nutzen wesentlich schwieriger zu identifizieren. Grund dafür ist, dass sich weder der Erfolg noch die Wirkung einer Maßnahme vorab sicher voraussagen und beziffern lassen. Hinzu kommt, dass der Nutzen einer Investition oft einer subjektiven Bewertung der Entscheider unterliegt.
 
 Eine CBA hilft dabei, alle möglichen Faktoren, die sich auf eine unternehmerische Entscheidung auswirken, übersichtlich zu dokumentieren und abteilungsübergreifend, objektiv und neutral zu bewerten. Dabei ist es von Vorteil, auf eine **Datenbank** zu setzen. Denn wer seine Kosten-Nutzen-Analyse mit einer Vorlage erstellt, ermöglicht es allen Beteiligten, auf der gleichen Basis zu arbeiten. So gehen keine Daten verloren, wichtige Aspekte werden nicht übersehen und zusätzliche Faktoren, die andere Abteilungen als relevant erachten, lassen sich einfach ergänzen.
 
@@ -42,7 +42,7 @@ Im Grunde passt eine Kosten-Nutzen-Analyse immer, wenn größere finanzielle Inv
 - neue betriebswirtschaftliche Prozesse einführen
 - Ihre [Fahrzeugflotte](https://seatable.io/fuhrparkmanagement/) vergrößern möchten
 
-![Mitarbeiter erstellt Vorlage für eine Kosten-Nutzen-Analyse.](images/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
+![Mitarbeiter erstellt Vorlage für eine Kosten-Nutzen-Analyse.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 
 Ein Mitarbeiter führt eine Kosten-Nutzen-Analyse durch. Bildrechte: Andrey Popov / Adobe Stock
 

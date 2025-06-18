@@ -35,11 +35,11 @@ For your online appointment booking system you need two bases. You can insert th
 
 In the **first base** (Meeting Availability), all appointments are entered on which you are freely available. The **second base** (Meeting Schedule) contains all meetings or appointments that have already been booked by your customers via the forms. They appear automatically in the table after the form has been submitted.
 
-![For an appointment booking system with SeaTable you need two tables](images/Overview-1.jpg)
+![For an appointment booking system with SeaTable you need two tables](Overview-1.jpg)
 
 ### First table: Set your time slots
 
-![How to enter an exact time at your time slots for your appointment booking system.](images/Uhrzeit_Rahmen.jpg)
+![How to enter an exact time at your time slots for your appointment booking system.](Uhrzeit_Rahmen.jpg)
 
 The first table "Meeting Availability" consists of **4 columns**. In the **first column** you enter all available meetings that you can offer. Select the date format with time (move the slider to "accurate to minute"). You can also set manual times that are not displayed in the date window; to do this, enter the time yourself in the bar at the top.
 
@@ -55,23 +55,23 @@ By the way, with the colour function you can use automated rules to colour rows 
 
 The second table is the basis for your appointment booking system with web form. You can see in the following picture different columns that contain the information of the participants. Each column you create here can be used later in the web form. You can use the column types to directly influence the input of data in the form. For example, if you want to have a free text field, select Columns with text function. If you want to have a kind of dropdown menu, the single or multiple selection is suitable for this. You will see the linked column "Meeting Availability" - so the link will be displayed in both tables with the corresponding information from the 1st column.
 
-![This table is particularly relevant for your appointment booking system, because these columns are used to design the booking system](images/Teilnehmer-1.jpg)
+![This table is particularly relevant for your appointment booking system, because these columns are used to design the booking system](Teilnehmer-1.jpg)
 
 With these columns formed, we now move on to the web form. To do this, select "Forms" at the top, and then create a new web form with the "Traditional Form" setting. Here, the participants cannot access the table and the data themselves. A form mask opens, where you can now label all the columns to be displayed.
 
 Select the table in which you have created the columns for the information query (here: "Meeting Schedule"). You can choose which columns should be displayed in the form. Here it makes sense to include all columns in the form. You can now declare each input field as a mandatory field or add a description text, as well as insert your personal **company logo as a header**. This way you get your very own personal appointment booking system.
 
-![In the web form you can set up your appointment booking system according to your needs.](images/1st-form.jpg)
+![In the web form you can set up your appointment booking system according to your needs.](1st-form.jpg)
 
 You can label your form entirely according to your wishes. Information in the form of **form notes** gives participants helpful hints about what to look out for in your appointment booking system.
 
 You can also attach conditions to choices. In our example, there are three ways to hold the appointment: In person, by video call or by phone. In case of a phone call, the number of the participant is mandatory, therefore the Phone Number column was conditioned to appear only when the Phone call option was selected.
 
-![Columns can be linked with conditions. They only appear when a certain input has occurred.](images/2nd-form.jpg)
+![Columns can be linked with conditions. They only appear when a certain input has occurred.](2nd-form.jpg)
 
 ## Limit appointments - so no more booking goes wrong
 
-![With these filters, only free dates and those in the future are displayed](images/frei-zukunft.jpg)
+![With these filters, only free dates and those in the future are displayed](frei-zukunft.jpg)
 
 Assigned appointments should of course no longer be offered to other participants, nor should appointments that are in the past. This can be done by linking Calendly and SeaTable if you already use this system.
 
@@ -79,7 +79,7 @@ With SeaTable, on the other hand, only a few small steps are necessary to set up
 
 So that only appointments in the future are displayed, and not those from last week, a second filter must be set: With the condition "And" and the filter "Time slots after today" only appointments from the current day will be displayed. This way you will only have free and bookable time slots in this view.
 
-![The column function limits multiple selections](images/Allow-1-row.jpg)To ensure that this is also adopted in the appointment booking system, the column in the "Meeting Schedule" table must also be adjusted. To do this, simply open the column settings and restrict the rows to one view. To do this, the view just created with the two filters is selected and at the same time the function that allows participants to select multiple dates is deactivated. This means: Only one appointment can be booked at a time and only the free and future dates from the 2nd view are accessed.
+![The column function limits multiple selections](Allow-1-row.jpg)To ensure that this is also adopted in the appointment booking system, the column in the "Meeting Schedule" table must also be adjusted. To do this, simply open the column settings and restrict the rows to one view. To do this, the view just created with the two filters is selected and at the same time the function that allows participants to select multiple dates is deactivated. This means: Only one appointment can be booked at a time and only the free and future dates from the 2nd view are accessed.
 
 You can set up an automated notification mechanism for yourself under the notification settings (three dots at the top right), which reminds you of upcoming appointments, for example, or informs you that an appointment has just been booked via the appointment booking system.
 

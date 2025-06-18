@@ -26,7 +26,7 @@ Com um plano de conteúdos, é sempre possível controlar os prazos dos projecto
 
 Deve atribuir uma pessoa responsável a cada artigo planeado. Desta forma, todos os membros da equipa podem **filtrar** o **plano editorial de acordo com as suas tarefas** e ver rapidamente o que tem de ser feito. **A coordenação entre várias pessoas ou departamentos é mais fácil** se for claro quem está envolvido em que projeto e quem ainda tem capacidade.
 
-![A equipa de marketing cria um modelo de plano editorial.](https://seatable.io/wp-content/uploads/2022/05/Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![A equipa de marketing cria um modelo de plano editorial.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
 
 Utilize um plano de conteúdos para coordenar o planeamento e a criação de artigos. Direitos de imagem: © DisobeyArt / Adobe Stock
 
@@ -55,7 +55,7 @@ O passo seguinte é escolher a estrutura correta para o seu plano de conteúdos.
 - Precisa de um calendário e de lembretes automáticos?
 - Que dados e estatísticas gostaria de utilizar para analisar o desempenho?
 
-![O funcionário de marketing cria um modelo para o planeamento editorial.](https://seatable.io/wp-content/uploads/2022/05/Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![O funcionário de marketing cria um modelo para o planeamento editorial.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
 
 O planeamento de conteúdos requer um conceito bem pensado. Direitos de imagem: © Andrey Popov / Adobe Stock
 
@@ -129,7 +129,7 @@ Para manter uma visão geral do calendário, pode **mudar da tabela para a vista
 
 A comunicação para o planeamento de contribuições estende-se por vezes a vários e-mails, chats internos ou documentos. Isto pode tornar-se rapidamente confuso. Com o SeaTable, todas as mensagens são agrupadas num único local: **Comunique o seu feedback diretamente no plano editorial**. Isto funciona de forma muito eficiente através da [função de comentário](https://seatable.io/pt/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) nas linhas individuais. Pode **acompanhar todas as alterações** no [registo](https://seatable.io/pt/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) - para que seja sempre claro quem fez que alterações no plano editorial.
 
-![Comunicação facilitada - pode fazer comentários diretamente no plano de conteúdos](images/Team-communication.jpg)
+![Comunicação facilitada - pode fazer comentários diretamente no plano de conteúdos](Team-communication.jpg)
 
 Comunicação simples e direta no plano editorial
 
@@ -137,7 +137,7 @@ Comunicação simples e direta no plano editorial
 
 Gostaria de fazer experiências com dados diferentes e analisar o seu conteúdo de acordo com os seus desejos? Então **crie [estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/) significativas com o SeaTable**. Por exemplo, analise em que meses publicou um número particularmente elevado de mensagens, qual o funcionário que escreveu mais mensagens ou em que canal o conteúdo teve mais sucesso. Isto fornece muitas informações valiosas sobre onde as coisas estão a correr bem - e onde ainda pode haver espaço para melhorias.
 
-![As estatísticas fornecem informações valiosas sobre o desempenho dos conteúdos](images/Statistics.jpg)
+![As estatísticas fornecem informações valiosas sobre o desempenho dos conteúdos](Statistics.jpg)
 
 ## Sugestões sobre como utilizar eficazmente o seu plano editorial
 

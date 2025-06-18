@@ -17,7 +17,7 @@ Por vezes, não é fácil controlar as nossas despesas. Acontece com demasiada f
 
 Sejamos honestos: com que frequência verificamos os nossos extractos bancários e somamos o dinheiro que gastámos? Desde que a conta não esteja no vermelho, normalmente evitamos o esforço e talvez não queiramos saber exatamente. Porque se víssemos quanto custam, a longo prazo, as idas às compras, as saídas com os amigos ou o tabaco, poderíamos questionar o nosso estilo de vida.
 
-![Manter um livro de orçamento](https://seatable.io/wp-content/uploads/2021/12/Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
+![Manter um livro de orçamento](Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
 
 Para além dos custos fixos inevitáveis, as armadilhas de custos mais pequenos podem também resultar em montantes consideráveis. Deve agir o mais tardar quando se aperceber de que não sobra quase nada depois de deduzir todos os custos. Com um livro de orçamento, pode manter um registo completo das suas despesas. Obtenha uma visão geral das suas despesas correntes para ter a certeza de que o seu dinheiro não desaparece sem deixar rasto.
 
@@ -70,7 +70,7 @@ Examine os seus contratos actuais, procure alternativas mais baratas, se necess�
 
 Tem subscrições de streaming da Amazon Prime, Netflix e Sky? Mas sejamos honestos - quantas vezes consegue realmente ver um filme ou uma série inteira no seu dia a dia? Verifique se utiliza realmente determinados **serviços de streaming** ou se pode passar sem eles. O mesmo se aplica aos serviços de streaming de música, como o Spotify e o Deezer, ou mesmo aos **jornais** e **revistas** que subscreveu. Mesmo que sejam apenas alguns euros por mês, os montantes no seu orçamento vão-se acumulando ao longo do tempo.
 
-![Assinaturas de streaming ](https://seatable.io/wp-content/uploads/2023/12/nicolas-j-leclercq-fg00hP0VPI8-unsplash.jpg)
+![Assinaturas de streaming ](nicolas-j-leclercq-fg00hP0VPI8-unsplash.jpg)
 
 As subscrições de streaming desnecessárias podem ser dispendiosas.
 
@@ -90,13 +90,13 @@ Os seus filhos já saíram de casa, vendeu o seu carro ou quase não utiliza a s
 
 {{< warning headline="Atenção" text="Se não for o proprietário do seu apartamento, o seu senhorio deve autorizar o subarrendamento." />}}
 
-O mesmo se aplica se a sua casa incluir uma **garagem**, um parque **de estacionamento** ou uma **cave** de que não precisa. O [arrendamento de um imóvel](https://seatable.io/pt/hausverwaltung/) pode gerar muitos rendimentos a longo prazo, o que irá favorecer o seu orçamento familiar.
+O mesmo se aplica se a sua casa incluir uma **garagem**, um parque **de estacionamento** ou uma **cave** de que não precisa. O [arrendamento de um imóvel]({{< relref "posts/hausverwaltung" >}}) pode gerar muitos rendimentos a longo prazo, o que irá favorecer o seu orçamento familiar.
 
 ### 6\. utilizar os transportes públicos, a partilha de carros e a partilha de automóveis
 
 Especialmente nas grandes cidades, **ter um carro** dificilmente vale a pena para muitas pessoas. Depois de comprar um carro, é constantemente confrontado com os custos de combustível, manutenção, seguro e estacionamento. É por isso que **os sistemas de partilha de automóveis** estão a tornar-se cada vez mais populares. Se está a planear fazer uma viagem mais longa, pode utilizar várias **agências de partilha de automóveis online** para recolher passageiros ou ter um motorista.
 
-![Lugar de estacionamento](https://seatable.io/wp-content/uploads/2023/12/david-schultz-ZLk6gA8EyG0-unsplash.jpg)
+![Lugar de estacionamento](david-schultz-ZLk6gA8EyG0-unsplash.jpg)
 
 Dispense o seu próprio carro e alugue o lugar de estacionamento - desta forma, poupa custos e gera rendimentos ao mesmo tempo.
 
@@ -120,7 +120,7 @@ Antes de fazer **compras importantes**, dedique alguns dias a calcular o seu or�
 
 A maioria das cadeias de supermercados produz **as suas próprias marcas**, que são significativamente mais baratas do que os produtos de marca que são publicitados a preços elevados. No entanto, as marcas próprias são frequentemente produzidas exatamente nas mesmas fábricas e com os mesmos ingredientes que os produtos de marca mais caros. Se optar cada vez mais pelas marcas próprias, pode poupar até 30% nas suas compras sem comprometer a qualidade.
 
-![Registar as despesas de alimentação no livro de orçamento](https://seatable.io/wp-content/uploads/2023/12/cristiano-pinto-2lWGQ02DGL8-unsplash.jpg)
+![Registar as despesas de alimentação no livro de orçamento](cristiano-pinto-2lWGQ02DGL8-unsplash.jpg)
 
 As refeições prontas para cada intervalo de almoço podem ser caras. Aqui pode poupar não só com marcas próprias, mas também com refeições caseiras.
 
@@ -140,7 +140,7 @@ Em vez disso, certifique-se de que faz uma dieta equilibrada, pratica exercício
 
 ### 12\. o fim dos vícios dispendiosos
 
-Os maus hábitos, como o consumo regular de **álcool, cigarros ou café**, podem rapidamente custar-lhe mais de 100 euros por mês. No entanto, há vários métodos que pode utilizar para [mudar](https://seatable.io/pt/habit-tracker-gewohnheiten-aendern/) os seus [hábitos](https://seatable.io/pt/habit-tracker-gewohnheiten-aendern/) a longo prazo. Com força de vontade e o apoio de amigos e familiares, pode conseguir livrar-se de vícios dispendiosos, sem os quais pode viver de forma mais saudável e poupar muito dinheiro a longo prazo.
+Os maus hábitos, como o consumo regular de **álcool, cigarros ou café**, podem rapidamente custar-lhe mais de 100 euros por mês. No entanto, há vários métodos que pode utilizar para [mudar]({{< relref "posts/habit-tracker" >}}) os seus [hábitos]({{< relref "posts/habit-tracker" >}}) a longo prazo. Com força de vontade e o apoio de amigos e familiares, pode conseguir livrar-se de vícios dispendiosos, sem os quais pode viver de forma mais saudável e poupar muito dinheiro a longo prazo.
 
 Ao mesmo tempo, pode criar hábitos positivos: Por exemplo, o simples facto de beber água em vez de **bebidas energéticas** caras é bom para a sua saúde. O seu orçamento vai regozijar-se - especialmente se deixar de beber água engarrafada e passar a beber **água da torneira**.
 

@@ -40,7 +40,7 @@ Además, al director del club, Timo Stephan, le gustaría que se gestionaran mej
 
 Muchos clubes deportivos se sostienen principalmente gracias al compromiso y el entusiasmo de los voluntarios. Como gerente del club, Timo Stephan les distribuye una gran variedad de tareas y también quiere estar siempre al tanto del estado de las tareas distribuidas. Ahora bien, los voluntarios no están in situ todos los días, lo que naturalmente dificulta la comunicación. Las llamadas telefónicas y los correos electrónicos se acumulan en la bandeja de entrada, y la visión de conjunto se pierde rápidamente. Hay que encontrar una solución móvil para integrar a todas estas personas.
 
-![Digitalización de un club deportivo con SeaTable](images/berliner-hockeyclub-goes-digital.jpg)
+![Digitalización de un club deportivo con SeaTable](berliner-hockeyclub-goes-digital.jpg)
 
 ## SeaTable para unas estructuras más claras y una mejor comunicación
 

@@ -35,7 +35,7 @@ Did you know that there are now many platforms for second-hand textbooks? Take a
 
 To use the full power of your student planner, you can use the [calendar view](https://seatable.io/en/docs/handbuch/seatable-nutzen/ansichten/). To do this, simply add the calendar plugin and you will then see all your deadlines clearly arranged in your personal calendar.
 
-![Student planner](images/Bildschirmfoto-2020-09-02-um-11.57.21.png)
+![Student planner](Bildschirmfoto-2020-09-02-um-11.57.21.png)
 
 ### Different views
 

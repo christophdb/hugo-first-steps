@@ -13,7 +13,7 @@ seo:
 
 Your **collections** can be ideally **managed** via digital programs and apps. It doesn't matter whether the collection consists of physical items or digital media. The most popular collectibles include coins, stamps, shoes, artwork, toys, trading cards, non-fungible tokens (NFTs), [books](https://seatable.io/en/buecher-katalogisieren/), movies, music (on CD, records) and more. When a collector's passion takes hold, the biggest challenge is often keeping track of everything. This is where the programs that allow you to manage your collection come into play - on your PC or with an app.
 
-![Manage collection of all stamps via a digital tool.](images/Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
+![Manage collection of all stamps via a digital tool.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
 
 What do you collect? © VRD / Adobe Stock
 
@@ -27,11 +27,11 @@ One possibility, for example, is to rank items, as is the case in a DVD collecti
 
 ### Comparisons, research and more
 
-You can also manage collections to analyze your collection. Programs and apps can be used to make comparisons, either within your own collection or with that of a third party. For example, you can find out which stamps or coins another person has that you do not own. The information in an [art collection](https://seatable.io/en/ausstellungs-und-kunstmanagement-museum-galerie/) can also be used for research. You know exactly which other art objects could fit into the collection and can research accordingly.
+You can also manage collections to analyze your collection. Programs and apps can be used to make comparisons, either within your own collection or with that of a third party. For example, you can find out which stamps or coins another person has that you do not own. The information in an [art collection]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}) can also be used for research. You know exactly which other art objects could fit into the collection and can research accordingly.
 
 ### Manage collections in the event of damage
 
-Collection software is also worthwhile in the event of a claim. A scenario: You manage a collection and want to insure it. In the management program, you record which items you own. It serves as a kind of [inventory list](https://seatable.io/en/inventarliste-vorlagen/). Based on this, you then know the value for which you should insure the collection.
+Collection software is also worthwhile in the event of a claim. A scenario: You manage a collection and want to insure it. In the management program, you record which items you own. It serves as a kind of [inventory list]({{< relref "posts/inventarliste-erstellen" >}}). Based on this, you then know the value for which you should insure the collection.
 
 ### Keeping an eye on storage locations with the collection software
 
@@ -49,7 +49,7 @@ You have various options for managing your collection. There are both paid and f
 
 One option for managing collections is [Evernote](https://evernote.com/intl/de). Here you can write down notes and attach pictures or documents such as purchase receipts of the items. It is also possible to set tags to distinguish different collections from each other. A search function helps to find collection items within the notes. You start with a free version. The Personal version costs €6.99 per month per user and the Professional version costs €8.99.
 
-![Someone looks at the Evernote tool to manage their collection.](images/Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
+![Someone looks at the Evernote tool to manage their collection.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
 Manage collection © monticellllo / Adobe Stock
 

@@ -24,7 +24,7 @@ Outros países, outros costumes: dependendo da região, sábado, domingo ou segu
 
 Seguindo os hábitos de uso na Europa, Austrália, grande parte da África e Ásia, e o padrão ISO 8601, o SeaTable usa a segunda-feira como primeiro dia da semana. (Antes, o domingo era sempre o primeiro dia.) Ajustar isso nas configurações de data move o dia selecionado para a primeira coluna no controle de calendário. Isso se aplica à base e a todos os apps baseados nela. No plugin de calendário e na página de calendário do app, o dia da semana ainda pode ser definido individualmente e independentemente da configuração da base.
 
-![Opção de seleção do primeiro dia da semana](images/Date_Settings_EN.png)
+![Opção de seleção do primeiro dia da semana](Date_Settings_EN.png)
 
 ## Mais flexibilidade no App Builder
 
@@ -40,7 +40,7 @@ Com o SeaTable 5.3, atendemos a um pedido frequente para este tipo de página: a
 
 À primeira vista, também há mudanças nas configurações da página. Muitas configurações foram movidas para uma nova seção "Mais configurações", que está recolhida por padrão. Com as permissões de página também minimizadas por padrão, as configurações ficam mais organizadas e claras.
 
-![Mais configurações no SeaTable App](images/Link_Column_Settings_EN.png)
+![Mais configurações no SeaTable App](Link_Column_Settings_EN.png)
 
 Olhando mais de perto, também há mudanças funcionais nas configurações da página. As "Configurações da coluna de link" foram revisadas para dar lugar à nova permissão "Editar entradas vinculadas". Se concedida, os usuários do app têm direitos de escrita nas entradas da tabela vinculada. As colunas editáveis podem ser configuradas nas novas configurações de campo. Se a permissão não estiver ativada, o usuário só pode ver os links existentes, adicionar ou remover links, mas não modificar os registros vinculados.
 
@@ -64,7 +64,7 @@ No SeaTable 5.2, os resultados na página de consulta se tornaram editáveis. No
 
 Ativar o acesso irrestrito transforma um app do SeaTable em um aplicativo público. Qualquer pessoa pode acessar o app via URL (somente leitura); não é necessário login de usuário e não há proteção adicional de acesso. Pelo menos, até agora. O SeaTable 5.3 adiciona proteção opcional por senha ao acesso irrestrito. Se ativada, o app só pode ser usado após inserir a senha. O acesso irrestrito protegido por senha é uma opção interessante para associações ou grupos de trabalho que desejam compartilhar dados de baixa sensibilidade com muitas pessoas, mas evitar o acesso público irrestrito.
 
-![Proteção por senha no SeaTable App](images/App_Password_Protection_EN.png)
+![Proteção por senha no SeaTable App](App_Password_Protection_EN.png)
 
 ## Novo plugin de design de relatórios (beta)
 
@@ -74,7 +74,7 @@ O novo plugin de design de relatórios e o plugin de design de página existente
 
 Com o plugin de design de página, os elementos são posicionados precisamente no modelo, suas dimensões são definidas e atribuídas a uma camada. Basicamente, ele é usado como um programa gráfico: o design do modelo define exatamente a aparência do documento gerado. O plugin de design de relatórios lembra o Word ou o Google Docs. Texto e outros elementos são colocados continuamente um após o outro. O plugin cuida do layout da página, incluindo quebras de linha e de página, durante a criação do documento. Elementos de comprimento variável, como tabelas, são facilmente acomodados.
 
-![O novo plugin de design de relatórios](images/Report_Design_Plugin_EN.png)
+![O novo plugin de design de relatórios](Report_Design_Plugin_EN.png)
 
 O plugin de design de relatórios suporta uma ampla variedade de elementos dinâmicos: valores individuais de um registro, registros inteiros, tabelas e vários tipos de gráficos podem ser usados em um modelo de documento. Para a formatação de texto, você tem opções conhecidas de processadores de texto, como listas com marcadores, alinhamento de texto e layouts de várias colunas. Também estão disponíveis estilos de estruturação do documento. No entanto, para o design de elementos individuais, o plugin de design de página oferece mais opções. Para cada elemento, é possível definir a cor do texto e do fundo, bordas e outras opções de formatação. Usando camadas, os elementos podem ser sobrepostos e criar efeitos de sobreposição.
 

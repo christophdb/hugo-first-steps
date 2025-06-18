@@ -66,7 +66,7 @@ Les transitions entre les deux approches sont toutefois fluides. C'est pourquoi 
 Low Code et No Code ont trois avantages clés en commun :
 
 - **Développement accéléré** : Grâce à l'utilisation d'outils visuels et de blocs de construction préfabriqués, vous pouvez créer des applications en une fraction du temps nécessaire au développement traditionnel de logiciels.
-- **Collaboration** : Grâce à l'interface utilisateur graphique, des personnes sans connaissances en programmation, par exemple [Citizen Developer](https://seatable.com/citizen-developer/), peuvent participer au processus de développement, donner leur avis ou même créer leurs propres solutions de manière autonome.
+- **Collaboration** : Grâce à l'interface utilisateur graphique, des personnes sans connaissances en programmation, par exemple [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}), peuvent participer au processus de développement, donner leur avis ou même créer leurs propres solutions de manière autonome.
 - **Efficacité des coûts** : Un investissement en temps nettement plus faible et la possibilité pour les développeurs moins expérimentés de programmer de manière productive entraînent une réduction des coûts de développement.
 
 ### Les principaux avantages de la programmation Low Code

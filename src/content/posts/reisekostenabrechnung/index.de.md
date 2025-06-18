@@ -13,7 +13,7 @@ seo:
 
 Im Einkommensteuergesetz werden drei Kategorien für **Auslagen** beschrieben, die sich Arbeitnehmer von ihren Unternehmen **erstatten** lassen können. Neben Bestellungen im Namen der Firma und Ausgaben, die getätigt werden, um einen Auftrag auszuführen, betrifft dies auch **Dienstreisen**. Ob mehrtägige Geschäftsreise, ein Meeting mit einem weit entfernten Kunden oder die Fahrt zur Messe – Dienstreisen sind Alltag für viele Arbeitnehmer. Im folgenden Artikel erfahren Sie nicht nur, was eine **Reisekostenabrechnung** ist, sondern erhalten auch wertvolle Tipps für die Erstellung.
 
-![Dienstreise: Hand am Koffer](images/guests-with-suitcases-hotel-reception-711x474.jpg)
+![Dienstreise: Hand am Koffer](guests-with-suitcases-hotel-reception-711x474.jpg)
 
 Unternehmen führen oft eine [Kosten-Nutzen-Analyse]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) von Dienstreisen durch, um sicherzustellen, dass die Ausgaben gerechtfertigt sind.
 
@@ -31,7 +31,7 @@ Für **Arbeitgeber** ist eine korrekte Reisekostenabrechnung nicht nur wichtig, 
 
 Auch für **Arbeitnehmer** bietet es Vorteile, eine Reisekostenabrechnung zu erstellen. Zwar können Sie die Kosten einer Dienstreise als Werbungskosten in der **Einkommensteuererklärung** geltend machen, jedoch reduziert dies nur Ihr Bruttojahresgehalt. Die Erstattung der Ausgaben durch den Arbeitgeber ist daher oft die wirtschaftlich sinnvollere Option.
 
-![Reisekostenabrechnung: Eine Frau macht Papierkram und tippt in einen Taschenrechner.](images/entrepreneur-working-with-bills-711x474.jpg)
+![Reisekostenabrechnung: Eine Frau macht Papierkram und tippt in einen Taschenrechner.](entrepreneur-working-with-bills-711x474.jpg)
 
 Bei der Abrechnung von Spesen erfassen Mitarbeiter Ihre Ausgaben und reichen diese zur Erstattung ein.
 
@@ -51,7 +51,7 @@ Die Übernachtungskosten umfassen Aufwendungen wie **Hotelaufenthalte** oder die
 
 Eine wichtige Besonderheit bei der Abrechnung von Übernachtungskosten ist die **Eigenbeteiligung** für Frühstück und andere Mahlzeiten. Häufig wird hierfür ein fester Betrag festgelegt, üblich sind 5,60 Euro für das Frühstück und 11,20 Euro für ein Abendessen. Diese Beträge werden vom Mitarbeiter selbst getragen und sind entsprechend in der Reisekostenabrechnung zu berücksichtigen.
 
-![Reisekostenabrechnung: Ein Hotelzimmer in erdigen Farbtönen.](images/pexels-pixabay-164595-711x474.jpg)
+![Reisekostenabrechnung: Ein Hotelzimmer in erdigen Farbtönen.](pexels-pixabay-164595-711x474.jpg)
 
 Die Auswahl des Hotels erfolgt oft entsprechend dem Budget des Unternehmens und den geltenden Richtlinien für Dienstreisen.
 
@@ -77,7 +77,7 @@ Neben den großen Kostenpunkten einer Dienstreise können auch kleinere Ausgaben
 - Eintrittskarten für berufliche Veranstaltungen
 - Diebstahl von beruflichem Eigentum
 
-![Reisekostenabrechnung: eine mautpflichtigen Straße.](images/pexels-nandhukumar-16967276-711x443.jpg)
+![Reisekostenabrechnung: eine mautpflichtigen Straße.](pexels-nandhukumar-16967276-711x443.jpg)
 
 Unter Reisenebenkosten fallen auch Gebühren für die Nutzung von Autobahnen oder anderen mautpflichtigen Straßen.
 

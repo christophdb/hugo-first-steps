@@ -59,13 +59,13 @@ Com o nosso [modelo SeaTable para um plano de actividades]({{< relref "templates
 
 O nosso modelo consiste essencialmente num calendário de 365 dias com fins de semana e feriados marcados, no qual pode facilmente introduzir tudo relacionado com o seu planeamento. Isto tem a vantagem de poder olhar para os dias da semana e meses numa visão holística. Isto dá uma melhor visão geral de quando e a que intervalos uma determinada nomeação ou actividade deve ter lugar e facilita o planeamento anual. Para o planeamento detalhado do projecto, tempo, local, pessoas responsáveis e departamentos, bem como importantes afazeres, estão integrados nas colunas. Desta forma, o curso das medidas individuais pode ser planeado com muita precisão e datas importantes estão sempre ao alcance de apenas alguns cliques. Verá: Com SeaTable, o planeamento para todo o ano é perfeitamente estruturado e organizado.
 
-![Com um plano de acção em formato de calendário, tem sempre uma visão geral das suas medidas](https://seatable.de/wp-content/uploads/2021/04/Overview.jpg)
+![Com um plano de acção em formato de calendário, tem sempre uma visão geral das suas medidas](Overview.jpg)
 
 A visão geral no plano de acção
 
 Não só a sua agenda encontra aqui espaço, mas também os seus projectos e objectivos planeados, ao mesmo tempo. Pode criá-los noutra folha de cálculo e documentar continuamente o progresso. O prático: A coluna de pessoal permite entregar tarefas e projectos directamente aos responsáveis, a fim de evitar o caos. Desta forma, assegura-se que tudo é feito a tempo e que todos os empregados sabem quais são as suas tarefas. Desta forma, assegura-se um fluxo de trabalho ideal onde nada se perde.
 
-![Pode registar os seus objectivos no seu plano de acção a fim de trabalhar neles continuamente](https://seatable.de/wp-content/uploads/2021/04/Annual-Goals.jpg)
+![Pode registar os seus objectivos no seu plano de acção a fim de trabalhar neles continuamente](Annual-Goals.jpg)
 
 Visualize e avance objectivos no seu plano de acção
 

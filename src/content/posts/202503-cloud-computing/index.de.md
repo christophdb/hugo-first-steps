@@ -150,7 +150,7 @@ Ein bisher wenig bekannter, aber sehr preiswerter Cloud Service ist die [No-Code
 
 ## Fazit: Cloud Computing ist die Zukunft
 
-Cloud Computing bietet Ihnen eine kostengünstige, komfortable und sichere Möglichkeit, um die IT-Ressourcen Ihres Unternehmens schnell und flexibel auf Abruf zu skalieren. Ihre Mitarbeiter können jederzeit und von überall auf die Daten und Anwendungen in der Cloud zugreifen. Dies fördert eine effiziente Datenhaltung und [Zusammenarbeit](https://seatable.io/docs/seatable-nutzen/zusammenarbeit/), insbesondere in Anbetracht der zunehmenden Remote-Arbeitskultur. Nutzen auch Sie die Vorteile der Cloud, um Ihr Unternehmen fit für die digitale Zukunft zu machen!
+Cloud Computing bietet Ihnen eine kostengünstige, komfortable und sichere Möglichkeit, um die IT-Ressourcen Ihres Unternehmens schnell und flexibel auf Abruf zu skalieren. Ihre Mitarbeiter können jederzeit und von überall auf die Daten und Anwendungen in der Cloud zugreifen. Dies fördert eine effiziente Datenhaltung und [Zusammenarbeit]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}), insbesondere in Anbetracht der zunehmenden Remote-Arbeitskultur. Nutzen auch Sie die Vorteile der Cloud, um Ihr Unternehmen fit für die digitale Zukunft zu machen!
 
 ![Cloud Computing ohne Grenzen](Cloud-Computing-ohne-Grenzen.jpg)
 

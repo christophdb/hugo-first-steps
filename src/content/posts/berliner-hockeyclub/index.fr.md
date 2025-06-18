@@ -40,7 +40,7 @@ En outre, le manager de l'association Timo Stephan a souhaité une meilleure ges
 
 De nombreux clubs sportifs sont soutenus avant tout par l'engagement et l'enthousiasme des bénévoles. En tant que manager d'association, Timo Stephan distribue les tâches les plus diverses à ces derniers et souhaite en outre toujours garder une vue d'ensemble sur le statut des tâches distribuées. Or, les bénévoles ne sont pas tous les jours sur place, ce qui complique évidemment la communication. Les appels téléphoniques et les e-mails s'accumulent dans la boîte aux lettres et la vue d'ensemble se perd rapidement. Il faut trouver une solution mobile pour impliquer toutes ces personnes.
 
-![Numérisation d'un club de sport avec SeaTable](images/berliner-hockeyclub-goes-digital.jpg)
+![Numérisation d'un club de sport avec SeaTable](berliner-hockeyclub-goes-digital.jpg)
 
 ## SeaTable pour des structures plus claires et une meilleure communication
 

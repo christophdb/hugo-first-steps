@@ -13,7 +13,7 @@ seo:
 
 Incoming payments have to be checked, customers have to be reminded of payments and sometimes there is even the part that every company wants to avoid: the dunning process. This can become a real challenge for many companies. You quickly get lost in your own chaos and no one in your company still knows when and if an invoice was even paid. In the end, the liquidity of your own company suffers. However, you should not let it get that far!
 
-With [SeaTable](https://seatable.io/en/registrierung/?lang=auto) you finally have all invoices or receivables due from your customers at a glance and know exactly about each individual status. SeaTable enables your accounts receivable department to manage receivables optimally and efficiently. In addition, information can be easily exchanged between the individual departments in your company. So that everyone can work with the same and correct information and you as an entrepreneur can sleep more peacefully again.
+With [SeaTable]({{< relref "pages/registration" >}}) you finally have all invoices or receivables due from your customers at a glance and know exactly about each individual status. SeaTable enables your accounts receivable department to manage receivables optimally and efficiently. In addition, information can be easily exchanged between the individual departments in your company. So that everyone can work with the same and correct information and you as an entrepreneur can sleep more peacefully again.
 
 [Click here to go directly to our template "CRM Accounts Receivable".]({{< relref "templates/sales/crm-accounts-receivable" >}})
 
@@ -55,13 +55,13 @@ Scoring is a detailed examination of the customer. Past payments are listed in d
 
 ## How to efficiently manage your accounts receivable in SeaTable
 
-In our last article, "[CRM: From Customer Entry to Quotation](https://seatable.io/en/crm-angebotsmanagement/)", we showed you how you can create your very own CRM system in SeaTable in no time at all. In this article or template, we now follow on from the article just mentioned and show you how you can efficiently map your accounts receivable in SeaTable. So far, everything has revolved around the customer base, the product portfolio and the creation of quotations. Now we move from the quotation to the invoicing. Thus, in addition to the "Customer data", "Sales team", "Offers" and "Product Catalogue" spreadsheets, you will also find the new "Invoices" spreadsheet in the actual template.
+In our last article, "[CRM: From Customer Entry to Quotation]({{< relref "posts/crm-angebotsmanagement" >}})", we showed you how you can create your very own CRM system in SeaTable in no time at all. In this article or template, we now follow on from the article just mentioned and show you how you can efficiently map your accounts receivable in SeaTable. So far, everything has revolved around the customer base, the product portfolio and the creation of quotations. Now we move from the quotation to the invoicing. Thus, in addition to the "Customer data", "Sales team", "Offers" and "Product Catalogue" spreadsheets, you will also find the new "Invoices" spreadsheet in the actual template.
 
 ### **From the offer to the invoice order**
 
 The spreadsheet "Offers" has now been extended by the three new [columns](https://seatable.io/en/docs/handbuch/datenmanagement/feld-typen/?lang=auto) "Accounting Department", "Payment Status" and "Invoices". If your customer has accepted your offer and wants to purchase the goods or services, you now have the possibility to inform the accounting department to please create an invoice for the customer with just one click on the button "Please create Invoice". All the important data for the accepted offer will go directly into the "Invoices" worksheet as a new row . For this purpose, a script is executed in the background that writes the data directly into the "Invoices" table and ensures a link with the "Invoices", "Offers" and "Customer data" spreadsheets.
 
-![Accounts Receivable - Offer](images/Ansicht_Offers.png)
+![Accounts Receivable - Offer](Ansicht_Offers.png)
 
 Overview of the offer page in SeaTable
 
@@ -71,13 +71,13 @@ You can then conveniently view the actual payment status in the "Payment Status"
 
 As already mentioned, all important information on the accepted offer by the customer is transferred directly to the "Invoices" spreadsheet. Thus, all data such as offer number, customer name, customer number, contact person, street and house number, postcode, city, country and all product information with product name, unit price, quantity and total amount are automatically transferred. All your accounting department has to do now is press the "Create Invoice" button in the "Invoice" column.
 
-![Accounts Receivable - Invoices](images/Ansicht_Invoices.png)
+![Accounts Receivable - Invoices](Ansicht_Invoices.png)
 
 All demands at a glance
 
 The "Page Design" plug-in opens automatically and fills in all the important information. You can then easily save the invoice as a PDF file and store it in the "Files" column or print it out and send it to your customer by e-mail or letter. Of course, you can adapt or add to the predefined page design template according to your wishes in just a few minutes.
 
-![Accounts Receivable - Invoice](images/PageDesign_Invoice.png)
+![Accounts Receivable - Invoice](PageDesign_Invoice.png)
 
 Your finished invoice in the page design plug-in
 
@@ -85,19 +85,19 @@ Your finished invoice in the page design plug-in
 
 To ensure that all relevant persons in your company besides the actual accounts receivable department know whether a customer pays his invoices or not, the "Payment Status" column is available. If a quote is accepted by the customer and an invoice is generated, the payment status is automatically changed to "Pending". Once a payment is received, your Accounts Receivable department can change the Single Select column "Payment Status" to "Paid" and record the date the payment was received under "Date of Payment". With the [grouping feature](https://seatable.io/en/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) and the different [views](https://seatable.io/en/docs/handbuch/datenmanagement/ansichten/?lang=auto) by "Payment Status", you get the best possible view of all current payment statuses. Furthermore, you will now also find the "Invoice Status" in the Kanban plug-in, so that you really cannot lose sight of any payment status.
 
-![Accounts Receivable - Payments](images/Ansicht_Invoices_Status.png)
+![Accounts Receivable - Payments](Ansicht_Invoices_Status.png)
 
 The different payment statuses
 
 The additional great thing about the payment status: Each status also affects your actual customer master under the worksheet "Customer data". This means: If a customer pays all his invoices or is "Pending", the actual row is marked green. If the customer has not paid his invoice for any reason, the line colour changes to red and every employee knows that this customer is currently in the dunning process and should not be supplied with products or services until further notice.
 
-![](images/Customer-data.jpg)
+![](Customer-data.jpg)
 
 ### **Communicate the payment status to your customers with just one click**
 
 So that your accounts receivable department can also inform your customers about the receipt of payment or a delay in payment, the two buttons "Receipt of Payment" and "Dunning Info" are available in SeaTable. With just one click on the respective button, an email is automatically sent to the contact email address under the column "Email address". In this e-mail, information such as the invoice number or the amount is automatically added. Of course, you can easily customise the message to your customers about the respective payment statuses as you wish.
 
-![Accounts Receivable - Customer Information](images/Email.png)
+![Accounts Receivable - Customer Information](Email.png)
 
 Send payment information to your customers directly from SeaTable
 

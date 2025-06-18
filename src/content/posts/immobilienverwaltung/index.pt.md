@@ -25,7 +25,7 @@ Copie os modelos, personalize-os de acordo com as suas necessidades ou utilize a
 
 ## Administre todas as suas propriedades claramente num único software
 
-![Gestão de propriedades com SeaTable](https://seatable.io/wp-content/uploads/2022/04/seatable-property-management.png)
+![Gestão de propriedades com SeaTable](seatable-property-management.png)
 
 Gestão de propriedades com SeaTable
 
@@ -35,7 +35,7 @@ No nosso [modelo para gerir as suas propriedades]({{< relref "templates/real-est
 
 ## Manter as suas propriedades em ordem e coordenar os serviços de manutenção
 
-![Coordenar os serviços de manutenção dos imóveis](https://seatable.io/wp-content/uploads/2022/04/hausmeisterdienste-seatable.png)
+![Coordenar os serviços de manutenção dos imóveis](hausmeisterdienste-seatable.png)
 
 Coordenar os serviços de manutenção com SeaTable
 
@@ -47,7 +47,7 @@ Se quiser, pode até enviar um e-mail à pessoa que comunicou a necessidade de r
 
 ## Não deixe nada ao acaso na sua próxima pesquisa de apartamento
 
-![Pesquisa plana com SeaTable](https://seatable.io/wp-content/uploads/2022/04/wohnungssuche-seatable-vorlage-immobilien.png)
+![Pesquisa plana com SeaTable](wohnungssuche-seatable-vorlage-immobilien.png)
 
 Caça plana com SeaTable - Não deixar nada ao acaso.
 
@@ -57,7 +57,7 @@ Com o nosso [modelo de pesquisa de apartamento]({{< relref "templates/real-estat
 
 ## Comece a planear o seu próximo passo
 
-![A sua próxima jogada será uma brisa com SeaTable](https://seatable.io/wp-content/uploads/2022/04/umzugsliste-seatable-immobilien.png)
+![A sua próxima jogada será uma brisa com SeaTable](umzugsliste-seatable-immobilien.png)
 
 Planear a sua próxima jogada é uma brincadeira de crianças com o SeaTable.
 

@@ -15,7 +15,7 @@ Would you like to find out what the needs of your target group are or how you ca
 
 The following article highlights the advantages and important criteria for creating online surveys and compares seven promising tools.
 
-![Create a survey: Laptop with feedback results](images/feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
+![Create a survey: Laptop with feedback results](feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
 
 The online survey proves to be an extremely efficient tool for data collection.
 
@@ -33,7 +33,7 @@ A key advantage of creating surveys online is the ability to track and analyze t
 
 In order to achieve good results, it is particularly important that you formulate your questions carefully when creating a survey. Poorly worded questions can lead to inaccurate or biased responses, which can affect the **validity of** your data. This would be unfortunate, especially if you have invested a lot of time and effort into the survey. To avoid such problems, Rolf Porst has formulated [ten principles](https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/howto/how-to2rp.pdf) that you should keep in mind when formulating surveys.
 
-![Checklist on the 10 principles of question formulation.](images/Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
+![Checklist on the 10 principles of question formulation.](Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
 
 The 10 commandments of question formulation according to Rolf Porst.
 
@@ -47,7 +47,7 @@ Provide **variety** in your survey to keep your participants interested. A long 
 
 Even after the survey is completed, it is important to show **appreciation**. Participants have invested their valuable time to help you and therefore deserve recognition. A short thank you message at the end of the survey can help participants feel appreciated and willing to participate in surveys again in the future.
 
-![Create poll: Woman laughs into camera](images/pexels-andrea-piacquadio-3769021-711x474.jpg)
+![Create poll: Woman laughs into camera](pexels-andrea-piacquadio-3769021-711x474.jpg)
 
 With a well-designed survey, you can prevent a high drop-out rate.
 
@@ -139,11 +139,11 @@ A special feature of this tool is the ability to display the questions directly 
 
 ### SeaTable
 
-**SeaTable** 's [web forms](https://seatable.io/en/docs/webformulare/webformulare/) enable surveys in which the data collected is automatically stored in a table with a database backend. This makes it easy to correlate the data. Various [statistics](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/) are available for analyzing and processing the survey results, and all data can be clearly filtered, sorted and grouped and displayed using graphical [plug-ins](https://seatable.io/en/docs/plugins/alle-plugins-in-der-uebersicht/). SeaTable also allows data to be exported for further analysis or reports.
+**SeaTable** 's [web forms]({{< relref "help/base-editor/webformulare" >}}) enable surveys in which the data collected is automatically stored in a table with a database backend. This makes it easy to correlate the data. Various [statistics](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/) are available for analyzing and processing the survey results, and all data can be clearly filtered, sorted and grouped and displayed using graphical [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}). SeaTable also allows data to be exported for further analysis or reports.
 
-Although it does not have the same range of functions for creating surveys as Surveymonkey, for example, it offers many practical applications thanks to its individual customization options and intuitive operation. The ability to collect different types of data and evaluate the results [collaboratively in a team](https://seatable.io/en/docs/seatable-nutzen/zusammenarbeit/) makes SeaTable a flexible tool for surveys and other projects.
+Although it does not have the same range of functions for creating surveys as Surveymonkey, for example, it offers many practical applications thanks to its individual customization options and intuitive operation. The ability to collect different types of data and evaluate the results [collaboratively in a team]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) makes SeaTable a flexible tool for surveys and other projects.
 
-In terms of data protection, SeaTable meets all GDPR requirements and offers additional security as the data is stored exclusively in German data centers. In addition to the cloud version, there is even the option to install SeaTable [on your own server](https://seatable.io/en/on-premises/) to retain full data sovereignty.
+In terms of data protection, SeaTable meets all GDPR requirements and offers additional security as the data is stored exclusively in German data centers. In addition to the cloud version, there is even the option to install SeaTable [on your own server]({{< relref "pages/product/seatable-server" >}}) to retain full data sovereignty.
 
 **Scope of application:** Surveys  
 **Ease of use:** very good  
@@ -154,7 +154,7 @@ In terms of data protection, SeaTable meets all GDPR requirements and offers add
 
 You can use the full scope of SeaTable's web form function free of charge. Only the customization of the design requires an Enterprise subscription for 14€ per month.
 
-![A customer feedback survey as an example](images/Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
+![A customer feedback survey as an example](Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
 
 Example of a customer feedback survey in SeaTable
 

@@ -35,7 +35,7 @@ Uma carta de apresentação dá-lhe a oportunidade de se apresentar com confian�
 
 Antes de começar a escrever, deve criar uma **folha de informação**. Afinal, precisa de informações sobre a empresa, os requisitos e, claro, uma visão geral das suas próprias qualificações, para poder adaptar a sua carta de candidatura ao anúncio de emprego.
 
-![Utilize o seu computador para pesquisar na Internet e recolher informações sobre a empresa.](https://seatable.io/wp-content/uploads/2024/04/pexels-pixabay-39284-1-e1713177205489.jpg)
+![Utilize o seu computador para pesquisar na Internet e recolher informações sobre a empresa.](pexels-pixabay-39284-1-e1713177205489.jpg)
 
 Utilize várias fontes para a sua investigação.
 
@@ -52,7 +52,7 @@ Uma abordagem estruturada ajudá-lo-á a encontrar as informações relevantes e
 
 Estas perguntas devem revelar o que **caracteriza a sua personalidade** e o que o **distingue** dos outros. Para verificar a pertinência das informações obtidas acima, é útil apresentá-las num quadro.
 
-![São relevantes para uma carta de apresentação várias competências técnicas e pessoais.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_01-e1713776827650-711x549.png)
+![São relevantes para uma carta de apresentação várias competências técnicas e pessoais.](Bewerbungsschreiben_01-e1713776827650-711x549.png)
 
 Combine as competências transversais que aprendeu com as competências técnicas correspondentes.
 
@@ -74,7 +74,7 @@ Se pretender utilizar o SeaTable para o seu planeador de candidaturas, basta [re
 
 Antes de começar a formular a sua candidatura, é importante ter uma **Conceção normalizada** para todos os seus documentos de candidatura. Isto não só fará com que a sua candidatura pareça mais coerente à primeira vista, como também transmitirá que **limpo** e **limpo** trabalho.
 
-![Escolha um tipo de letra, um espaçamento entre linhas e um tamanho de letra adequados.](https://seatable.io/wp-content/uploads/2024/04/markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
+![Escolha um tipo de letra, um espaçamento entre linhas e um tamanho de letra adequados.](markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
 
 Procure um tipo de letra adequado e preste atenção ao tamanho da letra, ao espaçamento entre linhas e às margens.
 
@@ -92,7 +92,7 @@ A conceção dos documentos é da sua inteira responsabilidade, uma vez que não
 
 A estrutura de uma carta de candidatura é sempre a mesma e pode ser dividida em seis secções.
 
-![A estrutura perfeita para a sua carta de apresentação consiste em seis etapas.](https://seatable.io/wp-content/uploads/2024/03/Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
+![A estrutura perfeita para a sua carta de apresentação consiste em seis etapas.](Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
 
 Siga a estrutura e encha-a de conteúdo.
 
@@ -116,7 +116,7 @@ Segue-se a **linha de assunto** com duas ou três linhas em branco. Pode sublinh
 
 Antes de ter a oportunidade de brilhar com as suas qualificações, é necessário atrair a atenção da pessoa de contacto. Dirija-se a ela **pessoalmente** pelo nome e só utilize os termos impessoais _senhoras e senhores_ numa emergência, se não conhecer ninguém pelo nome. Para as empresas mais conservadoras, opte por uma **forma de tratamento** clássica, como " _Cara Sra. XY_", para apresentar o seu pedido de forma educada. Para as empresas em fase de arranque, pode também tentar uma forma informal de se dirigir, como, por exemplo, _Olá querida equipa de marketing, cara Sra. XY_.
 
-![Escreva de forma educada, porque quer vender-se a si próprio e às suas competências na sua carta de apresentação.](https://seatable.io/wp-content/uploads/2024/04/monitor-376211_640-e1713177612297.jpg)
+![Escreva de forma educada, porque quer vender-se a si próprio e às suas competências na sua carta de apresentação.](monitor-376211_640-e1713177612297.jpg)
 
 Escreva de forma educada para criar uma boa primeira impressão junto do seu interlocutor.
 
@@ -142,7 +142,7 @@ Guardámos o melhor para o fim. Aqui pode introduzir as suas **expectativas sala
 
 A **última frase** é particularmente importante, pois é a que o recrutador recorda durante mais tempo. Por conseguinte, é importante que irradie **autoconfiança** e sublinhe mais uma vez que está à espera de um feedback positivo. Para o efeito, deve evitar o modo **subjuntivo**. Uma conclusão do tipo _"Teria muito gosto em ser convidado para uma entrevista_ " parece reservada, como se não tivesse a certeza das suas próprias qualificações para o cargo.
 
-![O objetivo da carta de candidatura é ser convidado para uma entrevista.](https://seatable.io/wp-content/uploads/2024/04/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash-e1713178160395.jpg)
+![O objetivo da carta de candidatura é ser convidado para uma entrevista.](christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash-e1713178160395.jpg)
 
 Tenha em mente o seu objetivo: ir para a entrevista com autoconfiança.
 
@@ -168,7 +168,7 @@ A carta de candidatura clássica, como explicado acima, pode variar em certos ca
 
 Se quiser candidatar-se no âmbito de um estágio escolar ou universitário, os recrutadores não exigem **nenhuma ou poucas qualificações profissionais**. Em vez disso, os recrutadores valorizam **as competências transversais** adequadas **e os interesses** que tem em determinadas disciplinas, em trabalhos de férias, nos tempos livres ou no âmbito dos seus próprios projectos e trabalho voluntário.
 
-![As competências transversais podem ser demonstradas através do trabalho voluntário.](https://seatable.io/wp-content/uploads/2024/04/ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
+![As competências transversais podem ser demonstradas através do trabalho voluntário.](ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
 
 Demonstre o seu empenhamento social através do voluntariado.
 
@@ -190,7 +190,7 @@ O conteúdo da sua candidatura está pronto e quer dar-lhe os retoques finais? E
 
 Preste atenção ao seu estilo de escrita e à redação que utiliza.
 
-![Pode melhorar a sua carta de apresentação se prestar atenção ao que deve e não deve fazer.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_02-e1713776597515-711x575.png)
+![Pode melhorar a sua carta de apresentação se prestar atenção ao que deve e não deve fazer.](Bewerbungsschreiben_02-e1713776597515-711x575.png)
 
 Certifique-se de que utiliza uma redação adequada.
 

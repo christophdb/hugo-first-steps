@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-La version de septembre, que nous avons mise en ligne le 14 septembre, offre un éventail impressionnant de nouvelles caractéristiques, fonctionnalités et améliorations pour TOUS les utilisateurs. L'addition la plus chaude est le moteur de script de SeaTable. Parmi les autres nouvelles fonctionnalités, citons l'intégration transparente de nos modèles, le formatage conditionnel des lignes, une nouvelle fonction d'impression et le nouveau type de colonne à numérotation automatique. Et ce n'est pas tout, loin de là ! La liste complète des modifications est disponible dans le [journal des modifications](https://seatable.io/fr/docs/changelog/version-1-3/). SeaTable reste fidèle à son nom et offre une mer de possibilités. [Commencez maintenant](https://seatable.io/fr/enregistrement/) et jouez avec les vagues.
+La version de septembre, que nous avons mise en ligne le 14 septembre, offre un éventail impressionnant de nouvelles caractéristiques, fonctionnalités et améliorations pour TOUS les utilisateurs. L'addition la plus chaude est le moteur de script de SeaTable. Parmi les autres nouvelles fonctionnalités, citons l'intégration transparente de nos modèles, le formatage conditionnel des lignes, une nouvelle fonction d'impression et le nouveau type de colonne à numérotation automatique. Et ce n'est pas tout, loin de là ! La liste complète des modifications est disponible dans le [journal des modifications](https://seatable.io/fr/docs/changelog/version-1-3/). SeaTable reste fidèle à son nom et offre une mer de possibilités. [Commencez maintenant]({{< relref "pages/registration" >}}) et jouez avec les vagues.
 
 ## Traitement automatisé des données avec des scripts
 
@@ -22,7 +22,7 @@ Les scripts de SeaTable sont similaires aux plugins bien connus de SeaTable (par
 
 De nombreux utilisateurs connaissent déjà nos [modèles soigneusement créés](https://seatable.io/fr/docs/templates/). Avec la nouvelle version, il est désormais encore plus facile de créer de nouvelles bases directement sur la base de ces templates, sans aucune procédure manuelle fastidieuse de copie et d'exportation. L'utilisation d'un modèle est désormais aussi simple qu'elle puisse l'être ! Créez une nouvelle base, choisissez votre modèle préféré et c'est parti.
 
-![](https://seatable.io/wp-content/uploads/2020/09/create-from-template.png)
+![](create-from-template.png)
 
 Lorsque vous créez une nouvelle base, vous avez le choix entre trois options : Créer une base vide, Créer une base à partir d'un fichier ou Créer une base à partir d'un modèle. Cette dernière option permet de charger le [marché SeaTable](https://market.seatable.io), où vous pouvez facilement parcourir les modèles disponibles. Choisissez le modèle qui vous convient le mieux et son contenu sera copié directement dans la nouvelle base.
 
@@ -30,11 +30,11 @@ Lorsque vous créez une nouvelle base, vous avez le choix entre trois options : 
 
 La fonction de mise en forme conditionnelle existe dans Microsoft Excel et Google Sheets depuis des temps immémoriaux. L'intégration de cette fonction dans SeaTable était donc en tête de notre liste de priorités. Le moment est enfin venu ! Avec SeaTable 1.3, le formatage conditionnel des lignes est disponible pour tous les utilisateurs.
 
-![](https://seatable.io/wp-content/uploads/2020/09/row-color-non-modal.png)
+![](row-color-non-modal.png)
 
 La mise en forme conditionnelle est aussi facile à utiliser que les autres fonctions d'analyse des données, à savoir le tri, le regroupement et le filtrage. Et elle peut être appelée de la même manière : via une icône dans les paramètres d'affichage. Cliquez sur l'icône "Mise en forme" et un petit assistant vous aidera à atteindre votre objectif le plus rapidement possible.
 
-![](https://seatable.io/wp-content/uploads/2020/09/row-color.png)
+![](row-color.png)
 
 Vous choisissez d'abord comment la coloration des lignes doit être déterminée. Vous pouvez choisir entre le formatage des lignes par liaison avec une colonne à sélection unique et le formatage basé sur des règles. Avec le formatage basé sur des règles, vous attribuez une couleur à chaque règle. Si la ou les conditions d'une règle sont remplies, la cellule reçoit la couleur sélectionnée.
 
@@ -42,11 +42,11 @@ Vous choisissez d'abord comment la coloration des lignes doit être déterminée
 
 Vous cherchez un moyen d'imprimer toutes les données que vous avez laborieusement collectées et préparées dans SeaTable ? Avec la nouvelle fonction d'impression de SeaTable, vous obtenez des impressions de haute qualité pour vos réunions d'équipe et de clients ainsi que pour le travail sur le terrain.
 
-![](https://seatable.io/wp-content/uploads/2020/09/print-settings.png)
+![](print-settings.png)
 
 Sélectionnez la vue que vous souhaitez imprimer et cliquez sur l'icône à trois points dans les paramètres de la vue. Dans l'assistant d'impression qui s'ouvre, réglez les paramètres selon vos besoins et terminez le processus par une tâche d'impression. SeaTable rend alors votre vue et transfère le résultat au gestionnaire d'impression de votre appareil. Si vous préférez travailler avec le clavier, vous pouvez également appeler l'assistant d'impression avec le raccourci clavier CTRL + P.
 
-![](https://seatable.io/wp-content/uploads/2020/09/compact-row-detail.png)
+![](compact-row-detail.png)
 
 Bien entendu, outre les tables et les vues entières, vous pouvez également imprimer les détails d'une seule ligne. Ouvrez les détails de la ligne souhaitée et cliquez sur l'icône d'impression. Avec les deux types d'impression Normal et Compact, vous pouvez définir la taille de l'impression.
 
@@ -54,7 +54,7 @@ Bien entendu, outre les tables et les vues entières, vous pouvez également imp
 
 Le type de colonne Numéro automatique est une excellente extension des capacités de base de données de SeaTable et vous aide à garder vos données en ordre dans vos tables. Dans une telle colonne, SeaTable génère automatiquement un numéro de série pour chaque nouvelle ligne.
 
-![](https://seatable.io/wp-content/uploads/2020/09/auto-number.png)
+![](auto-number.png)
 
 Ce nouveau type de colonne prend en charge trois formats de chiffres différents :
 

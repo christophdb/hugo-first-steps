@@ -19,7 +19,7 @@ Puede utilizar una lista de inventario para registrar las existencias de su empr
 
 Todo comerciante y toda empresa que esté obligada a llevar una contabilidad por partida doble debe realizar un inventario. Debe realizarse tanto en el momento de la apertura de la empresa como después de cada ejercicio. Se trata de registrar las existencias y elaborar un inventario.
 
-![Trabajador de almacén utiliza iPad con lista de inventario.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Trabajador de almacén utiliza iPad con lista de inventario.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
 
 Utilice una lista de inventario digital para registrar sus existencias. Derechos de imagen: tradol / Adobe Stock
 
@@ -46,7 +46,7 @@ También influye a **la hora de** crear el inventario:
 - Por eso también existe el **inventario extraviado**. Con esta forma de inventario, puede realizarlo con flexibilidad el día que elija, como máximo tres meses antes o dos meses después de la fecha del balance. Sin embargo, como luego hay que actualizar o retrocalcular las existencias utilizando las entradas y salidas de la lista de inventario, el inventario aplazado es menos preciso que el inventario en fecha clave.
 - En cambio, el **inventario permanente** es un proceso continuo con la ventaja de que el esfuerzo se reparte uniformemente a lo largo del año y basta con un inventario contable en la fecha del balance. No obstante, es necesario realizar un inventario físico de todos los activos una vez al año para comparar las existencias reales con las existencias contables. A continuación, hay que documentar con precisión todas las altas y bajas en la lista de inventario para actualizar las existencias a efectos contables.
 
-![Trabajador de almacén hace inventario en Excel.](images/Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
+![Trabajador de almacén hace inventario en Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
 Debe comparar periódicamente su lista de inventario con las existencias reales. Derechos de imagen: zephyr_p / Adobe Stock
 
@@ -70,7 +70,7 @@ Además, debe asignar un **número único** a cada artículo en cuanto lo introd
 
 Un ejemplo de lista de inventario es una tabla con estas columnas (haga clic en la imagen para ampliarla):
 
-![Ejemplo: Plantilla para una lista de inventario](images/Beispiel-Vorlage-fuer-eine-Inventarliste.png)
+![Ejemplo: Plantilla para una lista de inventario](Beispiel-Vorlage-fuer-eine-Inventarliste.png)
 
 Tu lista de inventario podría tener este aspecto.
 
@@ -82,7 +82,7 @@ Un programa que ya utilizan muchas empresas es Excel. Con él puede crear una **
 
 Si ya dispone de una lista de inventario como plantilla de Excel, puede utilizarla una y otra vez con sólo unos clics. Para ello, duplique el archivo existente antes de abrirlo en Excel.
 
-![Excel para una lista de inventario.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel para una lista de inventario.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
 
 Las hojas de cálculo de Excel son populares para las listas de inventario. Derechos de autor de la imagen: PixieMe / Adobe Stock
 
@@ -114,7 +114,7 @@ Para ello, abra un documento vacío, haga clic en Insertar y luego en Tabla. Aho
 
 Independientemente de la opción que elija, decida también en Word qué títulos de columna necesita para su lista de inventario (por ejemplo, número de identificación, artículo, tipo, ubicación, cantidad y valor). A continuación, introduzca sus activos manualmente. Esto podría tener este aspecto (haga clic en la imagen para ampliarla):
 
-![Lista de inventario en Word](images/Inventarliste-in-Word.png)
+![Lista de inventario en Word](Inventarliste-in-Word.png)
 
 Ejemplo de lista de inventario en Word
 
@@ -143,11 +143,11 @@ Los programas basados en web, como SeaTable, permiten **crear y gestionar listas
 
 Por ejemplo, puede evitar que diferentes empleados utilicen y mantengan en paralelo una lista de inventario **obsoleta**. Si, por ejemplo, el departamento de contabilidad necesita información de la lista de inventario, puede recuperar la última versión directamente en SeaTable y no tiene que esperar a que los distintos empleados hayan fusionado sus versiones.
 
-También puede crear [formularios web](https://seatable.io/es/docs/webformulare/webformulare/) para hacer inventario a partir de tablas en SeaTable. En ellos puede guiar a sus empleados a través del proceso de inventario y darles instrucciones más detalladas sobre lo que deben registrar y en qué deben fijarse.
+También puede crear [formularios web]({{< relref "help/base-editor/webformulare" >}}) para hacer inventario a partir de tablas en SeaTable. En ellos puede guiar a sus empleados a través del proceso de inventario y darles instrucciones más detalladas sobre lo que deben registrar y en qué deben fijarse.
 
-![Enviar un artículo durante el inventario](images/Submit-an-item-during-inventory.gif)
+![Enviar un artículo durante el inventario](Submit-an-item-during-inventory.gif)
 
-La **visualización** y **evaluación de** datos en SeaTable es aún más flexible y sencilla que en Excel. Puedes crear [estadísticas](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin/), utilizar [plugins](https://seatable.io/es/docs/plugins/alle-plugins-in-der-uebersicht/) de visualización o filtrar, ordenar y agrupar los datos mediante vistas.
+La **visualización** y **evaluación de** datos en SeaTable es aún más flexible y sencilla que en Excel. Puedes crear [estadísticas](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin/), utilizar [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) de visualización o filtrar, ordenar y agrupar los datos mediante vistas.
 
 Por último, pero no menos importante, puede guardar **imágenes** y **archivos** como documentos PDF en SeaTable. Puede incluir recibos de compra, facturas o fotos del estado actual durante el inventario en su lista de existencias.
 

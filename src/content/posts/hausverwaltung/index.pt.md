@@ -17,7 +17,7 @@ Leia este artigo para saber o que deve ter em conta na gestão do seu imóvel e 
 
 A gestão de propriedades consiste essencialmente na gestão de unidades de aluguer individuais. Neste sentido, uma empresa de gestão imobiliária é uma empresa que se ocupa da **gestão de edifícios residenciais arrendados, condomínios e propriedades comerciais**. Estes imóveis _não_ têm de ser propriedade da empresa.
 
-![Aluguer de imóveis](https://seatable.io/wp-content/uploads/2023/11/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
+![Aluguer de imóveis](tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
 
 Enquanto proprietário, tem de se ocupar da gestão e do arrendamento do seu imóvel.
 
@@ -41,7 +41,7 @@ Neste caso, deve considerar se o **custo da gestão externa da propriedade** pod
 
 Por vezes, não é possível evitar a gestão profissional do património e não há qualquer hipótese de gerir sozinho todos os assuntos relacionados com o seu imóvel. Isto porque, quando se compra um **condomínio**, muitas vezes também se adquire acções na propriedade comum (como áreas verdes, escadas e telhados), que pertence a toda a **comunidade de proprietários** e deve ser gerida por uma empresa de gestão de propriedades.
 
-![Gestão de propriedades para comunidades de proprietários](https://seatable.io/wp-content/uploads/2021/05/house-1353389_640-e1620395214642.jpg)
+![Gestão de propriedades para comunidades de proprietários](house-1353389_640-e1620395214642.jpg)
 
 A sociedade de gestão imobiliária encarrega-se também da manutenção dos espaços verdes, por exemplo.
 
@@ -83,7 +83,7 @@ As tarefas de um gestor imobiliário são reguladas pela Lei do Condomínio alem
 - Gestão das queixas
 - Comunicação com as autoridades
 
-![Tarefas da gestão do património](https://seatable.io/wp-content/uploads/2023/11/towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
+![Tarefas da gestão do património](towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
 
 As tarefas da gestão imobiliária vão muito para além do controlo das rendas.
 
@@ -107,7 +107,7 @@ Para poder verificar, a qualquer momento, se os seus inquilinos pagaram a renda 
 
 Como senhorio, tem de se ocupar das reparações, das medidas de modernização e dos trabalhos de manutenção. Para manter uma visão geral, deve sempre documentar com exatidão as medidas agudas e regulares. Para tal, registe as encomendas, as datas de reparação e as facturas numa folha de cálculo. Os seus inquilinos dependem de uma empresa de gestão de propriedades que coordene de forma fiável os prestadores de serviços, para que coisas importantes, como uma torneira avariada, sejam reparadas imediatamente.
 
-![Tarefas técnicas da gestão do património](https://seatable.io/wp-content/uploads/2023/11/pexels-anil-karakaya-6419128.jpg)
+![Tarefas técnicas da gestão do património](pexels-anil-karakaya-6419128.jpg)
 
 Se tiver várias propriedades, coordenar os comerciantes e as reparações pode levar muito tempo.
 
@@ -124,7 +124,7 @@ Se tiver várias propriedades, coordenar os comerciantes e as reparações pode 
 
 Com o [modelo]({{< relref "templates/real-estate/property-management" >}}) SeaTable [para a sua gestão imobiliária]({{< relref "templates/real-estate/property-management" >}}), pode gerir facilmente todos estes assuntos relacionados com as suas propriedades. Basta guardar documentos contratuais, facturas, protocolos de entrega, plantas e fotografias na sua base de dados SeaTable.
 
-![Capturar fotografias e dados das suas propriedades](https://seatable.io/wp-content/uploads/2023/11/steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
+![Capturar fotografias e dados das suas propriedades](steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
 
 Pode registar fotografias e destaques da sua propriedade (por exemplo, cozinha totalmente equipada, terraço) numa base de dados.
 

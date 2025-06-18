@@ -17,11 +17,11 @@ Ils maintiennent la motivation à un niveau élevé et suscitent en outre l'ambi
 
 Construire de nouvelles habitudes et changer les mauvaises - c'est ce que vous aide à faire un Habit Tracker. Dans sa version la plus basique, il s'agit d'une **liste avec des cases à cocher** dans laquelle vous documentez chaque jour, sur une période d'un mois, si vous avez effectué une action ou non. Vous avez décidé de méditer tous les jours ? Dans ce cas, cochez toujours la case si vous avez effectivement respecté votre résolution ce jour-là. Si vous entretenez régulièrement votre Habit Tracker, il en résultera une image qui montrera vos **progrès**.
 
-![Ce Habit Tracker est simple et indique l'habitude, le jour et, avec un trait de couleur, si le comportement a été effectué.](https://seatable.io/wp-content/uploads/2023/11/prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
+![Ce Habit Tracker est simple et indique l'habitude, le jour et, avec un trait de couleur, si le comportement a été effectué.](prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
 
 Voici à quoi pourrait ressembler votre Habit Tracker.
 
-Votre imagination n'a pas de limite pour la **conception** de votre Habit Tracker. Travaillez par exemple avec différentes **couleurs** et polices de caractères ou concrétisez simplement vos idées en ligne avec l'[Habit Tracker de SeaTable](https://seatable.io/fr/habit-tracker-gewohnheiten-aendern/#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). Ce faisant, ne notez pas seulement les habitudes que vous souhaitez adopter, mais aussi celles que vous avez déjà adoptées. Le suivi vous aidera à prendre conscience des habitudes que vous aviez perçues jusqu'alors comme allant de soi.
+Votre imagination n'a pas de limite pour la **conception** de votre Habit Tracker. Travaillez par exemple avec différentes **couleurs** et polices de caractères ou concrétisez simplement vos idées en ligne avec l'[Habit Tracker de SeaTable]({{< relref "posts/habit-tracker" >}}#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). Ce faisant, ne notez pas seulement les habitudes que vous souhaitez adopter, mais aussi celles que vous avez déjà adoptées. Le suivi vous aidera à prendre conscience des habitudes que vous aviez perçues jusqu'alors comme allant de soi.
 
 {{< warning headline="Pourquoi nous avons besoin d'habitudes" text="Les habitudes nous facilitent la vie. Une fois que vous avez assimilé un comportement, vous l'exécutez généralement automatiquement. L'activité se déroule de manière subconsciente, comme par exemple le brossage quotidien des dents que nous faisons par habitude, sans nous interroger à chaque fois sur son utilité. Nous épargnons ainsi au cerveau un travail de réflexion et créons en même temps des capacités pour des processus plus importants." />}}
 
@@ -43,7 +43,7 @@ Qu'il s'agisse de petits détails du quotidien ou d'un changement de vie, tout e
 
 Réfléchissez à des habitudes qui **améliorent votre quotidien** et qui peuvent y être intégrées. Prenez également conscience des habitudes que vous avez déjà et si elles ont besoin d'être modifiées. Qu'il s'agisse d'abandonner de mauvaises habitudes ou d'en acquérir de nouvelles, vous trouverez ici de l'inspiration :
 
-![Il est possible de se débarrasser de nombreuses mauvaises habitudes et de les transformer en nouvelles bonnes habitudes.](https://seatable.io/wp-content/uploads/2023/11/Design-ohne-Titel-e1701347470819-711x946.jpg)
+![Il est possible de se débarrasser de nombreuses mauvaises habitudes et de les transformer en nouvelles bonnes habitudes.](Design-ohne-Titel-e1701347470819-711x946.jpg)
 
 Vous pouvez remplacer les mauvaises habitudes par de bonnes.
 
@@ -59,7 +59,7 @@ Vous pouvez remplacer les mauvaises habitudes par de bonnes.
 
 De nombreux **comportements désagréables** se sont installés dans notre vie quotidienne et sont devenus discrètement des habitudes. S'en débarrasser ou, dans le meilleur des cas, en faire une bonne habitude vous demandera beaucoup de temps et d'énergie. Mais avec un **plan**, vous y parviendrez.
 
-![6 étapes pour réussir à changer ses habitudes.](https://seatable.io/wp-content/uploads/2023/12/Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
+![6 étapes pour réussir à changer ses habitudes.](Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
 
 Ce plan vous aidera à atteindre vos objectifs.
 
@@ -77,7 +77,7 @@ Ne gardez pas vos projets pour vous. En parlant de vos objectifs à vos amis ou 
 
 Adopter un comportement régulier demande une grande **autodiscipline**. Il existe cependant des conseils qui vous aideront à intégrer plus rapidement des habitudes dans votre quotidien.
 
-![Le livre Atomic Habits contient les conseils ci-dessous, que vous pouvez intégrer dans votre traqueur d'habitudes.](https://seatable.io/wp-content/uploads/2023/11/jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
+![Le livre Atomic Habits contient les conseils ci-dessous, que vous pouvez intégrer dans votre traqueur d'habitudes.](jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
 
 Le best-seller de James Clear contient des conseils utiles.
 
@@ -124,7 +124,7 @@ Et voilà, vous avez atteint votre but ! Vous avez toujours entretenu votre Habi
 
 Comme nous l'avons déjà mentionné, il n'y a pas de limites à la conception de votre Habit Tracker. La fabrication individuelle à la main peut aider à créer un engagement supplémentaire grâce à la personnalisation et à se motiver encore plus avec le travail déjà investi.
 
-![Le modèle montre une approche plus créative, où l'on a travaillé avec des couleurs et une forme particulière.](https://seatable.io/wp-content/uploads/2023/12/Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
+![Le modèle montre une approche plus créative, où l'on a travaillé avec des couleurs et une forme particulière.](Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
 
 Vous pouvez concevoir votre Habit Tracker à la main ou avec des modèles.
 
@@ -134,4 +134,4 @@ Ceux qui aiment la praticité et la simplicité peuvent aussi utiliser une **app
 
 Pour ne pas perdre de vue votre objectif, vous avez besoin d'une solution simple et efficace pour suivre vos habitudes et vos progrès. C'est ce que vous propose SeaTable avec un [modèle gratuit]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) que vous pouvez adapter à vos besoins personnels. Habit Tracker est intégré à un Bullet Journal, qui offre encore d'autres possibilités passionnantes d'organiser et de changer votre vie.
 
-Si vous souhaitez utiliser SeaTable pour votre Habit Tracker, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez [ici]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) le modèle correspondant avec de nombreuses inspirations et des exemples d'habitudes.
+Si vous souhaitez utiliser SeaTable pour votre Habit Tracker, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement. Vous trouverez [ici]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) le modèle correspondant avec de nombreuses inspirations et des exemples d'habitudes.

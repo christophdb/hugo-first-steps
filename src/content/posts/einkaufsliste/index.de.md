@@ -15,7 +15,7 @@ Im hektischen Alltag kann der Gang zum Supermarkt zwischen all den beruflichen u
 
 Dennoch stellt sich die Frage: Welche digitale Einkaufsliste / App ist die beste Wahl, um Ihren individuellen Bedürfnissen gerecht zu werden? In diesem Artikel werfen wir einen genaueren Blick auf sieben vielversprechende Anwendungen, die das Einkaufen erleichtern sollen.
 
-![Voller Einkaufswagen in einem Supermarkt.](images/einkaufswagen-voller-produkte-in-einem-supermarkt-711x474.jpg)
+![Voller Einkaufswagen in einem Supermarkt.](einkaufswagen-voller-produkte-in-einem-supermarkt-711x474.jpg)
 
 Mit der richtigen Organisation ist Einkaufen stressfrei.
 
@@ -27,7 +27,7 @@ Es gibt in jedem Lebensbereich gute Gründe, Listen zu führen – so auch beim 
 - **Zeit sparen**: Wenn Sie Ihren Einkauf im Voraus mit einer Einkaufsliste planen, haben Sie immer alle Lebensmittel parat, die Sie für Ihre liebsten Rezepte benötigen, ohne etwas zu vergessen. Das spart Ihnen einiges an Zeit, weil doppelte Wege zum Supermarkt so der Vergangenheit angehören.
 - **Lebensmittelverschwendung minimieren**: Laut [Bundesministerium für Ernährung und Landwirtschaft](https://www.bmel.de/DE/themen/ernaehrung/lebensmittelverschwendung/studie-lebensmittelabfaelle-deutschland.html) wirft jeder Verbraucher etwa 78 Kilogramm Lebensmittel im Jahr weg. Vielleicht werfen auch Sie regelmäßig Lebensmittel weg, weil sie verdorben sind oder das Mindesthaltbarkeitsdatum überschritten haben. Wenn Sie in Zukunft nur noch kaufen, was Sie auch wirklich benötigen, müssen Sie auch weniger wegwerfen. Durch eine sinnvolle Planung beim Einkauf und eine ordentliche [Vorratshaltung](https://seatable.io/notvorrat-anlegen/) helfen Sie also nicht nur sich selbst, sondern auch der Umwelt.
 
-![Anteile der Lebensmittel, die Deutsche wegwerfen ](images/Lebensmittelverschwendung_B_EInkaufsliste-711x889.png)
+![Anteile der Lebensmittel, die Deutsche wegwerfen ](Lebensmittelverschwendung_B_EInkaufsliste-711x889.png)
 
 Am häufigsten werfen Deutsche Obst und Gemüse weg.
 
@@ -55,7 +55,7 @@ Ob das Verwalten und Sortieren von **Lebensmittel-Kategorien** oder die **Liebli
 
 - Keine relevanten Nachteile vorhanden
 
-![Die Anwendung "Die Einkaufsliste" ](images/Die-Einkaufsliste-711x971.jpg)
+![Die Anwendung "Die Einkaufsliste" ](Die-Einkaufsliste-711x971.jpg)
 
 So sieht “Die Einkaufsliste” aus.
 
@@ -77,7 +77,7 @@ Innerhalb der App können auch **vorgefertigte Mitteilungen** an Mitbewohner ges
 
 - Keine relevanten Nachteile vorhanden
 
-![Die Einkaufslisten-App "Bring!"](images/Bring-711x1022.jpg)
+![Die Einkaufslisten-App "Bring!"](Bring-711x1022.jpg)
 
 Die Einkaufslisten-App “Bring!”
 
@@ -98,7 +98,7 @@ Darüber hinaus werden nicht nur die Vorlieben und Gewohnheiten des Nutzers **an
 
 - Keine Icons der Produkte
 
-![Die Anwendung von Pon](images/Pon-711x1057.jpg)
+![Die Anwendung von Pon](Pon-711x1057.jpg)
 
 Die Einkaufsliste in “pon”
 
@@ -120,7 +120,7 @@ Wenn Sie Ihre **Rezepte** in der App speichern, können Sie die fehlenden Zutate
 - Keine Angebote
 - Unbegrenzte Anzahl an Listen und Vorlagen ist kostenpflichtig
 
-![Die Anwendung "ToBuy"](images/ToBuy-711x1086.jpg)
+![Die Anwendung "ToBuy"](ToBuy-711x1086.jpg)
 
 Die Anwendung “ToBuy” im Dunkel-Modus
 
@@ -141,7 +141,7 @@ Hier sind zwar **verschiedene Gruppierungen** und **individuelle Sortierungen** 
 - Keine Angebote
 - Keine smarten Features
 
-![Die Einkaufsliste App "WeNeed"](images/WeNeed-711x1083.jpg)
+![Die Einkaufsliste App "WeNeed"](WeNeed-711x1083.jpg)
 
 Die Anwendung “WeNeed”
 
@@ -161,7 +161,7 @@ Je nach Marke können sich die Funktionen hier unterscheiden. Normalerweise best
 - Keine Angebote
 - Keine smarten Features
 
-![Notizen-App für Einkäufe](https://seatable.io/wp-content/uploads/2024/01/Notizen-e1707138910748.jpg)
+![Notizen-App für Einkäufe](Notizen-e1707138910748.jpg)
 
 Die Notizen-App als Einkaufsliste
 

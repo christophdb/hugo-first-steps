@@ -13,7 +13,7 @@ Ya se trate de una comida de negocios, un billete de tren o el teléfono móvil 
 
 Este artículo no sólo le proporciona todo lo que necesita saber sobre el reembolso de gastos, sino que también le ofrece una [plantilla]({{< relref "templates/human-resources/expenses-reimbursement" >}}) gratuita que puede facilitarle el trabajo diario.
 
-![Finanzas y burocracia](https://seatable.io/wp-content/uploads/2023/12/3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
+![Finanzas y burocracia](3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
 
 Como empresario, es importante llevar un registro de todos los gastos.
 
@@ -25,7 +25,7 @@ La [Ley del Impuesto sobre la Renta](https://www.gesetze-im-internet.de/estg/) d
 
 Los apartados 4 y 5 de la Ley alemana del Impuesto sobre la Renta contienen la normativa aplicable a los gastos profesionales. Por ejemplo, los gastos derivados de **viajes de** negocios pueden reembolsarse como gastos. Lo mismo ocurre con los gastos derivados del cumplimiento de pedidos o la prestación de servicios, como una **comida de negocios** con sus clientes. También puede reclamar como gastos reembolsables **compras** o pedidos como material de oficina o fruta para la cocina de la oficina.
 
-![Tipos de reembolso de gastos](https://seatable.io/wp-content/uploads/2024/01/Pastel-Aesthetic-Minimalist-Lifestyle-Tips-List-Instagram-Post-2-711x711.png)
+![Tipos de reembolso de gastos](Pastel-Aesthetic-Minimalist-Lifestyle-Tips-List-Instagram-Post-2-711x711.png)
 
 Hay varios costes que puede hacer que le reembolsen como gastos.
 
@@ -44,7 +44,7 @@ Los fondos transitorios suelen utilizarse para **gastos previsibles** que se rea
 
 Las empresas también pueden compensar el reembolso de los gastos con una **cantidad** a tanto alzado. Estas cantidades a tanto alzado pueden incluir, por ejemplo, **gastos de viaje, dietas y alojamiento**. No obstante, debe tener en cuenta que la Agencia Tributaria fija los importes máximos. El límite máximo anual para alojamiento y manutención es de 1.000 euros. Si lo supera, es más lógico que le reembolsen los gastos pormenorizadamente que en forma de importe a tanto alzado.
 
-![Personas con maletines y maletas](https://seatable.io/wp-content/uploads/2024/01/19320-711x284.jpg)
+![Personas con maletines y maletas](19320-711x284.jpg)
 
 Si viaja mucho por negocios, no debe confiar en el reembolso a tanto alzado de los gastos.
 
@@ -58,7 +58,7 @@ Según [el artículo 3 nº 50 de la EStG](https://www.gesetze-im-internet.de/est
 - **Facturación correcta**: Los gastos deben facturarse correctamente, indicando cada concepto por separado en el recibo o factura.
 - **Reembolso a tanto alzado de los gastos**: Debe llevar un registro claro de los gastos periódicos, ya que la Agencia Tributaria sólo concede una cantidad a tanto alzado si se mantiene la documentación durante un determinado periodo de tiempo.
 
-![Una mujer frente a un archivo y abrumada por el reembolso de gastos](https://seatable.io/wp-content/uploads/2023/12/9276421-e1704291543704.jpg)
+![Una mujer frente a un archivo y abrumada por el reembolso de gastos](9276421-e1704291543704.jpg)
 
 El reembolso de los gastos puede abrumarle rápidamente sin una buena estructura.
 

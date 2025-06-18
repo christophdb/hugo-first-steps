@@ -21,7 +21,7 @@ The duration column type is ideal for everyone that uses SeaTable for organizing
 
 The duration column stores all duration inputs in seconds, but it can display the duration in either h:mm:ss or h:mm format. Additionally, if you don't want to enter the duration in the colon-separated format, you don't have to. SeaTable converts any numerical input automatically in the defined format. Integers and decimal numbers are both supported. This said, depending on the chosen format, the input is either interpreted as seconds or minutes in the case of h:mm:ss or h:mm, respectively. (Example: The input 235 yields 0:03:55 when formatted as h:mm:ss cell and 3:55 in a cell with h:mm format.)
 
-![New column type Duration](images/Column_Type_Duration.jpg)
+![New column type Duration](Column_Type_Duration.jpg)
 
 And we didn't stop there: We have also expanded the format settings of the formula column, so that results can be displayed as a duration in either h:mm or h:mm:ss format too.
 
@@ -29,7 +29,7 @@ And we didn't stop there: We have also expanded the format settings of the formu
 
 The new email column type stores email addresses. When clicking on a cell filled with an address, your email app opens up, the email address is copied in To: and you can start typing your mail right away. Hence, it works in a similar fashion as the URL column introduced in [SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}).
 
-![Column type email in webform](images/Column_Type_Email_Form.jpg)
+![Column type email in webform](Column_Type_Email_Form.jpg)
 
 The real strength of the email column comes into play in web forms. When using an email field, the built-in validation makes sure that any respondent enters a valid email address. Accidental typos that render email addresses useless no longer exist.
 
@@ -37,7 +37,7 @@ The real strength of the email column comes into play in web forms. When using a
 
 SeaTable 1.6 introduces five new functions: date(), datedif(), eomonth(), months() and ifs(). The first four facilitate and improve the organization and handling of dates in SeaTable. The date() function computes for any given date the serial number that Microsoft Excel would use for storing the date. datedif(), short for date difference, calculates the difference between two dates. eomonth(), short for end of month, returns the last day of the month specified in the given date. Optionally, a certain number of months can be added. months() computes the number of full months between two dates. ifs() nests a combination of if functions.
 
-![Improved formula wizard](images/Improved_Formula_Wizard.jpg)
+![Improved formula wizard](Improved_Formula_Wizard.jpg)
 
 In addition to the new functions, the new wizard now also support the calculation with formulas in linked tables. More specifically, the result of a formula in one table can be used in a formula in another table. Previously, only uncalculated fields in other tables could be used in formulas.
 
@@ -51,7 +51,7 @@ SeaTable is not only a great tool to capture structured tabular data, but also t
 
 With SeaTable 1.6 it is now possible to access this storage backend via the web interface. You can navigate through the stored files and delete individual objects from memory. To do this, simply hover over a base in the Bases library, then click the three-dot icon for advanced options, and finally select "Attachment Management" under "Advanced". Images and files are stored in separate folders named Images and Files.
 
-![Asset management in SeaTable 1.6](images/Asset_Management.jpg)
+![Asset management in SeaTable 1.6](Asset_Management.jpg)
 
 Related to asset management, user can now access the trash bin where SeaTable keeps deleted bases for 30 days before purging them from the system. If a base was deleted unintentially or a user changes has a change of mind, the base can be recovered from trash and restored including all its snapshots.
 
@@ -61,6 +61,6 @@ SeaTable 1.6 ships with many other improvements. Many address user interface and
 
 In terms of user interface, we have converted the gallery plugin to a non-modal design. The same goes for the menu to rename a view. This follows our general effort to reduce the number of modals. We also fixed a shortcoming of the search function. Now when you press CTRL + F, the cursor focus always moves to the search line. In the form editor, we moved the hint input fields into the form. This makes it easier to write longer hints and basically makes the editor more WYSIWYG. In terms of usability, we added a handy feature to the auto-fill function: SeaTable now recognizes numeric patterns in alphanumeric strings and takes them into account when auto-filling. The new 'embedded code' feature makes it easier to integrate SeaTable bases into web pages.
 
-![Non-modal Gallery plugin](images/Non-modal_Gallery.jpg)
+![Non-modal Gallery plugin](Non-modal_Gallery.jpg)
 
 Two known issues with the print preview have also been ironed out: Hiding a column in the table view did not remove the column from the row details and thus from the print view. Similarly, group labels weren't properly printed when the groups were formed by single / multiple select or link columns. With SeaTable 1.6, both are a thing of the past.

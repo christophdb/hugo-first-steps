@@ -20,11 +20,11 @@ Além disso, existem bases de dados de clientes para armazenar os interesses, in
 
 ## Quais são as vantagens das bases de dados em linha sobre as tradicionais?
 
-As bases de dados online ou estão disponíveis gratuitamente ou são pagas mensalmente. Só paga pelo que utilizou em termos de capacidade de armazenamento. Além disso, não tem de comprar o seu próprio hardware e [poupar nos custos de](https://seatable.io/pt/budgetplanung-vorlage/) instalação.
+As bases de dados online ou estão disponíveis gratuitamente ou são pagas mensalmente. Só paga pelo que utilizou em termos de capacidade de armazenamento. Além disso, não tem de comprar o seu próprio hardware e [poupar nos custos de]({{< relref "templates/finance/budget-book" >}}) instalação.
 
 Outra vantagem é que adquire um serviço. Os fornecedores têm normalmente o seu próprio departamento de TI. Isto alivia o fardo do seu próprio pessoal. Ninguém que vai criar e operar a base de dados precisa de conhecimentos profundos de programação. Os dados também podem ser introduzidos via importação ou formulário web.
 
-![O seu empregado trabalha com uma base de dados em linha gratuita.](https://seatable.io/wp-content/uploads/2022/06/Online-Datenbank-kostenlos_AdobeStock_163119186_bearbeitet-711x474.jpg)
+![O seu empregado trabalha com uma base de dados em linha gratuita.](Online-Datenbank-kostenlos_AdobeStock_163119186_bearbeitet-711x474.jpg)
 
 Base de dados online gratuita © Gorodenkoff / adobe stock
 
@@ -70,7 +70,7 @@ Quando se fala da Amazon e do Google, a Microsoft também não pode ser deixada 
 - **Microsoft SQL Server Edge**: Com esta base de dados relacional, o conceito de computação de ponta pode ser implementado para aplicações IoT.
 - **Servidor SQL dedicado Microsoft**: Aqui sabe onde os seus dados são armazenados e pode voltar a cair numa plataforma de dados híbrida.
 
-![Alguém está a olhar para a base de dados online gratuita da Microsoft.](https://seatable.io/wp-content/uploads/2022/06/Online-Datenbank-kostenlos_AdobeStock_418493344_bearbeitet-711x474.jpg)
+![Alguém está a olhar para a base de dados online gratuita da Microsoft.](Online-Datenbank-kostenlos_AdobeStock_418493344_bearbeitet-711x474.jpg)
 
 Base de dados online gratuita © monticellllo / adobe stock
 

@@ -66,7 +66,7 @@ Sin embargo, las transiciones entre ambos enfoques son fluidas. Por ello, muchas
 El bajo código y el no código tienen tres ventajas clave en común:
 
 - **Desarrollo acelerado**: El uso de herramientas visuales y bloques de construcción prefabricados permite crear aplicaciones en una fracción del tiempo que llevaría el desarrollo de software tradicional.
-- **Colaboración**: Gracias a la interfaz gráfica de usuario, incluso personas sin conocimientos de programación, por ejemplo [Citizen Developer](https://seatable.com/es/citizen-developer/), pueden participar en el proceso de desarrollo, aportar comentarios o incluso crear sus propias soluciones de forma independiente.
+- **Colaboración**: Gracias a la interfaz gráfica de usuario, incluso personas sin conocimientos de programación, por ejemplo [Citizen Developer]({{< relref "posts/20250317-citizen-developer" >}}), pueden participar en el proceso de desarrollo, aportar comentarios o incluso crear sus propias soluciones de forma independiente.
 - **Rentabilidad**: Un gasto de tiempo significativamente menor y la posibilidad de que los desarrolladores menos experimentados también puedan programar de forma productiva se traducen en una reducción de los costes de desarrollo.
 
 ### Las mayores ventajas de la programación de bajo código

@@ -32,7 +32,7 @@ Actuellement, SeaTable propose une présentation des résultats sous forme de ta
 
 Depuis la version 1.0, SeaTable permet de regrouper des données. Dans la version actuelle, cette fonction très appréciée a été considérablement améliorée : SeaTable 2.2 permet de regrouper les données selon trois colonnes au maximum. Les groupes de deuxième et troisième niveau sont représentés comme des sous-groupes du niveau supérieur. Bien entendu, les valeurs de colonnes agrégées telles que la somme ou la moyenne sont également calculées et affichées automatiquement pour ces sous-groupes. En combinaison avec des filtres et des tris, le regroupement devient ainsi un outil d'analyse encore plus puissant.
 
-![Colonnes en cascade et groupes imbriqués](images/Cascading-columns.png)
+![Colonnes en cascade et groupes imbriqués](Cascading-columns.png)
 
 Une autre petite amélioration concernant les groupes : Lors de l'exportation d'une vue vers Excel, les groupes sont également exportés. Dans les versions précédentes, la fonction d'exportation ne prenait pas en compte les groupes.
 
@@ -51,7 +51,7 @@ Les autorisations de table ont été introduites dans SeaTable 2.1. Dans la vers
 - Modifier les lignes et
 - voir les lignes.
 
-![Permissions de table avancées](images/Advanced-table-permissions.png)
+![Permissions de table avancées](Advanced-table-permissions.png)
 
 Les autorisations peuvent être définies indépendamment les unes des autres et chaque autorisation peut être limitée à personne, aux administrateurs et à certains utilisateurs.
 

@@ -14,9 +14,9 @@ Ob LKWs, Busse oder klassische Dienstwagen: Einen Fuhrpark zu verwalten ist für
 
 ## Was ist ein Fuhrpark?
 
-Der **Fuhrpark** beziehungsweise die **Flotte** Ihres Unternehmens umfasst alle Fahrzeuge, die sich in Ihrem [Inventar](https://seatable.io/inventarliste-vorlagen/) befinden. Am häufigsten handelt es sich hierbei um klassische **Firmenwagen**. Es können aber auch Spezialfahrzeuge damit gemeint sein: Busse und Bahnen, LKWs, Baustellenfahrzeuge, Gabelstapler, Traktoren oder sonstige Fahrzeuge.
+Der **Fuhrpark** beziehungsweise die **Flotte** Ihres Unternehmens umfasst alle Fahrzeuge, die sich in Ihrem [Inventar]({{< relref "posts/inventarliste-erstellen" >}}) befinden. Am häufigsten handelt es sich hierbei um klassische **Firmenwagen**. Es können aber auch Spezialfahrzeuge damit gemeint sein: Busse und Bahnen, LKWs, Baustellenfahrzeuge, Gabelstapler, Traktoren oder sonstige Fahrzeuge.
 
-![Fuhrparkmanagement](https://seatable.io/wp-content/uploads/2022/05/fuhrparkmanagement-mit-seatable.jpg)
+![Fuhrparkmanagement](fuhrparkmanagement-mit-seatable.jpg)
 
 Beim Fuhrparkmanagement gibt es zwei Arten von Fahrzeugen:
 
@@ -35,7 +35,7 @@ Wie viel Aufwand für Ihr Fuhrparkmanagement anfällt, hängt ganz davon ab, **w
 
 Das Fuhrparkmanagement (öffentlicher Dienst ebenso wie privatwirtschaftlich) hat zum Zweck, alle Prozesse, in denen Fahrzeuge involviert sind, so effizient und kostengünstig wie möglich zu gestalten. Das betrifft die **Anschaffungskosten**, die **Betriebskosten**, aber auch **Wartungen und Reparaturen**. Eine wichtige Aufgabe ist darüber hinaus die problemlose und unkomplizierte **Vergabe und Reservierung** von Fahrzeugen. Dafür können Sie etwa digitale Buchungssysteme nutzen, um die Übergabe zu erleichtern und lückenlos zu dokumentieren.
 
-![Autoschlüssel für Fahrzeugübergabe](https://seatable.io/wp-content/uploads/2022/05/Anrita1705-automobile-7600895_1280.jpg)
+![Autoschlüssel für Fahrzeugübergabe](Anrita1705-automobile-7600895_1280.jpg)
 
 ### Was gehört zum Fuhrparkmanagement?
 
@@ -52,7 +52,7 @@ Schauen wir uns nun im Detail verschiedene Aspekte und Fuhrparkmanagement Tipps 
 
 **Wie viele Fahrzeuge** benötigt Ihr Unternehmen? Beim Fuhrparkmanagement sorgen Sie dafür, dass Fahrzeuge in ausreichender Anzahl immer, wenn sie gebraucht werden, am richtigen Ort zur Verfügung stehen. Gute Anhaltspunkte dafür können sein, wie viele **dienstwagenberechtigte Mitarbeiter** Sie beschäftigen oder wie viele Nutzfahrzeuge gleichzeitig im Einsatz sein müssen, um bestimmte Aufträge zu erfüllen.
 
-![Fahrzeugflotte](https://seatable.io/wp-content/uploads/2024/01/Fahrzeugflotte.jpg)
+![Fahrzeugflotte](Fahrzeugflotte.jpg)
 
 Wichtig ist beim Flottenmanagement auch, welches **Image** Sie haben wollen. Nobelkarossen, etwa für die Geschäftsführung, können nach außen zwar einen gewissen Status symbolisieren, auf die eigenen Mitarbeiter und Kunden allerdings überheblich wirken. Meist geht mit der Größe der Fahrzeuge auch ein hoher **Kraftstoffverbrauch** einher: Kleinere Fahrzeuge anstelle von Spritschluckern in Ihrem Fuhrpark einzusetzen, ist angesichts der Mobilitätswende also sowohl ein finanzieller als auch ein strategischer Aspekt.
 
@@ -64,7 +64,7 @@ Bei der Anschaffung von Fahrzeugen sollten Sie sich natürlich Gedanken über di
 
 Der **Verwaltungsaufwand** ist beim Leasing meist geringer, da viele Autovermieter in Ihren Verträgen maßgeschneiderte Services anbieten und sich um bestimmte Fuhrparkmanagement Aufgaben kümmern, die Sie ansonsten selbst übernehmen müssen. Je nach Situation kann das Leasing also günstiger sein als beispielsweise ein Kauf mit Kreditfinanzierung.
 
-![Fuhrpark finanzieren](https://seatable.io/wp-content/uploads/2024/01/Fuhrpark-finanzieren.jpg)
+![Fuhrpark finanzieren](Fuhrpark-finanzieren.jpg)
 
 Auch die **Versicherung** schlägt beim Fuhrpark- und Flottenmanagement mit hohen laufenden Kosten zu Buche. Dabei müssen Sie aber nicht jedes Ihrer Fahrzeuge einzeln versichern. Bereits ab drei Firmenfahrzeugen können Sie bei Kfz-Versicherungen von Gruppenverträgen profitieren, was die Kosten und den Verwaltungsaufwand senken kann.
 
@@ -82,7 +82,7 @@ Des Weiteren müssen Sie zweimal jährlich die Führerscheine der Fahrer kontrol
 
 Um Ihren Fuhrpark zu managen, haben Sie verschiedene Möglichkeiten zur Auswahl. Die Softwarelösung sollte dabei mehrere Anforderungen erfüllen: Zum einen sollte sie **flexibel** und damit anwendbar auf Ihre individuellen Szenarien sein. Außerdem sollte sie unterschiedliche Arten von Informationen (z. B. Dateien, Bilder und GPS-Daten) erfassen können, während die **Bedienbarkeit** einfach bleibt.
 
-![Fuhrparkmanagement](https://seatable.io/wp-content/uploads/2022/05/marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
+![Fuhrparkmanagement](marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
 
 Je nach Unternehmensgröße sind die Anforderungen an eine solche Software anders. Große Unternehmen wie Verkehrsbetriebe oder Speditionen können auf spezielle **Branchenlösungen** zurückgreifen, die aber oft kostspielig sind. Kleinere Betriebe, die einen überschaubaren Fuhrpark haben, müssen sich jedoch nicht in Unkosten für ein teures Flottenmanagement-System stürzen.
 

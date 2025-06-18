@@ -20,11 +20,11 @@ We have also upgraded the plugins to Webpack 5 and upgraded the framework to Rea
 
 ## New dialog and custom links for web forms
 
-To share your [web forms](https://seatable.io/en/docs/webformulare/webformulare/) with other users, there were previously two different dialog boxes: one in which you could copy an **automatically generated link**; and one in which you could extend this link with [pre-filled values](https://seatable.io/en/docs/webformulare/formularfelder-per-url-vorbefuellen/). We have now combined these options into a single dialog to increase usability.
+To share your [web forms]({{< relref "help/base-editor/webformulare" >}}) with other users, there were previously two different dialog boxes: one in which you could copy an **automatically generated link**; and one in which you could extend this link with [pre-filled values](https://seatable.io/en/docs/webformulare/formularfelder-per-url-vorbefuellen/). We have now combined these options into a single dialog to increase usability.
 
 We have also added the brand new option to create **custom URLs** for web forms. You can then edit, save as a QR code, copy or delete them.
 
-![New form link dialog in SeaTable 4.3](images/Formularlink-Dialog.gif)
+![New form link dialog in SeaTable 4.3](Formularlink-Dialog.gif)
 
 {{< warning headline="Note" text="The user-defined part that is appended to the link must be **between 5 and 30 characters** long and may only contain **letters**, **numbers** and **hyphens**. In addition, each URL must be unique: If a user-defined URL is already in use, an error message appears." />}}
 
@@ -39,7 +39,7 @@ Previously, you could only [create PDF documents](https://seatable.io/en/docs/an
 
 You can use **app notifications** to inform the users of an app about changes to relevant data records, for example. This action can be [triggered](https://seatable.io/en/docs/automationen/automations-trigger/) by all four [trigger events](https://seatable.io/en/docs/automationen/automations-trigger/).
 
-![Send app notification](images/App-Benachrichtigung-senden.png)
+![Send app notification](App-Benachrichtigung-senden.png)
 
 Users of the respective app can access their notifications via the {{< seatable-icon icon="dtable-icon-notice" >}} bell icon next to their avatar in the top right-hand corner.
 
@@ -49,7 +49,7 @@ In the collaborator [column](https://seatable.io/en/docs/datum-dauer-und-persone
 
 This functionality is particularly useful in the universal app. You can activate the option for team members to be visible to all users in the drop-down list in the Universal app [settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). If you do not want users to be able to see the data records of other users, define **preset filters**: If a page is filtered by a collaborator column with the condition "includes current user", each user of the universal app only sees the records that are assigned to them in the table.
 
-![Employee column in the universal app](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)
+![Employee column in the universal app](Mitarbeiter-Spalte-in-der-Universellen-App.gif)
 
 ## Further improvements to the universal app
 
@@ -59,11 +59,11 @@ A brand new feature in the Universal app is the [comment function](https://seata
 
 On the [custom page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), you can look forward to two new elements: the **container** and the **card**. The container provides a grid with which you can arrange other elements (texts, images, statistics) more easily and group them together.
 
-![Container element on custom page in SeaTable 4.3](images/Container-element-on-custom-page.png)
+![Container element on custom page in SeaTable 4.3](Container-element-on-custom-page.png)
 
 The card, which combines an image, a headline and a text into a design template, also ensures a beautiful page layout.
 
-![Card element on custom page in SeaTable 4.3](images/Card-element-on-custom-page.png)
+![Card element on custom page in SeaTable 4.3](Card-element-on-custom-page.png)
 
 In addition, as of SeaTable 4.3, the **background color** of custom pages can be set as desired, and the unwanted overlapping of elements has been fixed. The overall design of the universal app is now also presented in one color theme across all pages, which you can select in the [global settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
 
@@ -85,7 +85,7 @@ If you use the two expiring apps, we recommend that you rebuild your use cases w
 
 If you [send emails via automation](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/), you could previously only enter your message as **plain text** in the text field. As of SeaTable 4.3, it is possible to compose the messages in **rich text or HTML format** via buttons, just like when sending e-mails. To do this, simply activate the slider on the right above the text field.
 
-![Rich text in automated e-mail messages](images/Rich-text-in-automated-e-mail-messages.png)
+![Rich text in automated e-mail messages](Rich-text-in-automated-e-mail-messages.png)
 
 If you like **column permissions** to protect values from unwanted changes, you will be able to define this even more precisely in future. In addition to _specific users_, _administrators_ and _nobody_, **specific groups** are now also available as an option.
 

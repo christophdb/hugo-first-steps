@@ -12,7 +12,7 @@ seo:
 
 Escrever um livro é um processo fascinante, mas também desafiante para muitas pessoas. Desde a ideia inicial até ao **manuscrito** acabado, há inúmeros obstáculos a ultrapassar e passos a dar. Numa altura em que as ferramentas digitais e as soluções de software desempenham um papel cada vez mais importante no **processo criativo**, é crucial que os autores encontrem o software certo para dar vida às suas visões. Este artigo analisa em pormenor **7 ferramentas** que pode utilizar para escrever o seu livro.
 
-![O pequeno autor fica diante de uma máquina de escrever e pensa.](images/Tiny-male-author-or-screenwriter-writing-story-or-movie-script-711x444.jpg)
+![O pequeno autor fica diante de uma máquina de escrever e pensa.](Tiny-male-author-or-screenwriter-writing-story-or-movie-script-711x444.jpg)
 
 Escrever um livro exige tempo e dedicação.
 
@@ -26,7 +26,7 @@ Um [processo de escrita](https://de.wikipedia.org/wiki/Schreibprozess#Das_Schrei
 - Com a estrutura como guia, começa a **redação** propriamente dita. Nesta fase, põe as suas ideias em palavras e desenvolve o livro.
 - A última etapa é a **revisão**. É aqui que o livro é cuidadosamente verificado para corrigir erros, melhorar o estilo de escrita e garantir que o texto atinge o nível desejado.
 
-![Escrevendo um livro gráfico: o processo de escrita em 5 etapas](images/Schreibprozess-in-5-Schritten-4-711x400.png)
+![Escrevendo um livro gráfico: o processo de escrita em 5 etapas](Schreibprozess-in-5-Schritten-4-711x400.png)
 
 Processo de escrita em 5 etapas
 
@@ -36,7 +36,7 @@ A importância de um planejamento completo não deve ser subestimada ao escrever
 
 O planejamento não é benéfico apenas em termos de conteúdo, mas também em termos organizacionais. Escrever um livro é um projeto enorme que fica mais fácil quando dividido em **partes gerenciáveis** . Essa análise não apenas torna o processo de escrita mais fácil, mas também ajuda a **acompanhar** o projeto geral e acompanhar melhor **o progresso** .
 
-![O autor pensa e cria um fio condutor.](images/8753615-711x506.jpg)
+![O autor pensa e cria um fio condutor.](8753615-711x506.jpg)
 
 Mesmo as histórias de ficção muitas vezes exigem uma pesquisa completa para fornecer detalhes realistas.
 
@@ -63,7 +63,7 @@ Acostumar-se com o Papyrus requer tempo para compreender totalmente sua funciona
 **Adaptabilidade:** alta  
 **Custo:** 199 euros
 
-![Escrevendo um livro: o banco de dados de itens em papiro](images/papyrus-711x610.png)
+![Escrevendo um livro: o banco de dados de itens em papiro](papyrus-711x610.png)
 
 No Papyrus você pode criar bancos de dados detalhados.
 
@@ -76,7 +76,7 @@ Se quiser escrever um livro com Scrivener, você pode escolher entre não ficç�
 **Adaptabilidade:** muito alta  
 **Custo:** 69,99 euros
 
-![Escrevendo um livro: Insights sobre o Scrivener](images/scrivener-711x381.png)
+![Escrevendo um livro: Insights sobre o Scrivener](scrivener-711x381.png)
 
 Scrivener permite fichas de personagens claras.
 
@@ -89,7 +89,7 @@ A função principal do Plottr é um **cronograma** que permite aos autores plan
 **Adaptabilidade:** muito alta  
 **Custo:** $ 149 – $ 299
 
-![Escrevendo um livro com Plottr: um insight](images/plottr-711x388.png)
+![Escrevendo um livro com Plottr: um insight](plottr-711x388.png)
 
 Plottr facilita a visualização de histórias.
 
@@ -102,7 +102,7 @@ O software DramaQueen foi projetado principalmente para **roteiros** e **séries
 **Adaptabilidade:** boa  
 **Custo:** função básica gratuita
 
-![Escrevendo um livro: Exemplo de construção de um enredo com Dramaqueen](images/Dramaqueen-711x343.png)
+![Escrevendo um livro: Exemplo de construção de um enredo com Dramaqueen](Dramaqueen-711x343.png)
 
 Com o DramaQueen você pode descobrir os pontos fracos da sua dramaturgia.
 
@@ -115,7 +115,7 @@ Patchwork oferece amplo suporte aos autores através de numerosos **exemplos** e
 **Adaptabilidade:** alta  
 **Custo:** 154 – 189 euros
 
-![Escreva um livro: Insight sobre o software Patchwork](images/patchwork-711x389.png)
+![Escreva um livro: Insight sobre o software Patchwork](patchwork-711x389.png)
 
 ### Fogueira Pro
 
@@ -126,7 +126,7 @@ Campfire Pro apresenta uma estrutura simples com **painéis** que resultam em um
 **Adaptabilidade:** muito alta  
 **Custos:** parcialmente gratuitos
 
-![Escrevendo um livro: uma visão do Campfire Pro](images/campfire-711x437.png)
+![Escrevendo um livro: uma visão do Campfire Pro](campfire-711x437.png)
 
 ### SeaTable
 

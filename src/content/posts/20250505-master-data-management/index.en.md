@@ -75,7 +75,7 @@ Examples of master data:
 - **Employee master data**: In addition to work-related data (e.g. name, position, educational qualifications and date of hire), this includes sensitive data such as tax class, bank details, social security, nationality, marital status, and emergency contacts. It is best to keep this HR master data well protected in an [HR database]({{< relref "posts/20250317-hris" >}}).
 - **Supplier master data**: This is about all the data you need for smooth procurement processes. This can be contractually agreed prices and delivery quantities, but also location and logistics data. Usually, an ERP system is the central data source for supply chain management.
 - **Product master data**: As your product data is relevant across departments (e.g. for marketing, sales, logistics, and product development), an up-to-date, centralized database is of the utmost importance. This includes unique product numbers, quantities and prices as well as attributes such as dimensions, color and material.
-- **Asset master data**: This refers to the assets of your company, which you usually record in an [inventory list](https://seatable.io/en/inventarliste-vorlagen/). Tangible assets can be real estate, machinery, vehicles, office furniture or financial resources, while intangible assets include patents or your company's master data.
+- **Asset master data**: This refers to the assets of your company, which you usually record in an [inventory list]({{< relref "posts/inventarliste-erstellen" >}}). Tangible assets can be real estate, machinery, vehicles, office furniture or financial resources, while intangible assets include patents or your company's master data.
 
 ## Challenges in master data management and how to overcome them
 

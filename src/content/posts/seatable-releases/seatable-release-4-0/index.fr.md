@@ -20,9 +20,9 @@ Ce matin, nous avons mis à jour le nuage SeaTable à la version 4.0. Tous les a
 
 Rien n'est plus contraignant qu'une signature, qu'il s'agisse d'une signature de contrat, d'un document ou d'une lettre. SeaTable vous permet de créer tous ces documents. Quoi de plus naturel donc que de numériser les signatures manuscrites avec SeaTable ? C'est possible grâce à la nouvelle colonne Signature ! Enregistrez simplement votre signature numérique en signant dans une cellule de cette colonne d'images spéciale à l'aide de la souris ou, sur les appareils à écran tactile, avec un stylo ou un doigt.
 
-![Ajouter une signature dans une colonne de signature](https://seatable.io/wp-content/uploads/2023/06/Add-a-signature-in-a-signature-column.gif)
+![Ajouter une signature dans une colonne de signature](Add-a-signature-in-a-signature-column.gif)
 
-Cela permet de créer des flux de travail pour les processus des employés et des clients que vous ne pouviez pas reproduire dans SeaTable jusqu'à présent : Grâce à l'ajout d'un champ de signature, vous pouvez par exemple faire signer les demandes de congé ou les inscriptions à des séminaires par les personnes qui les remplissent dans [les formulaires Web](https://seatable.io/fr/docs/webformulare/webformulare/) et les [applications universelles](https://seatable.io/fr/docs/apps/universelle-app/). De même, les clients peuvent confirmer à un monteur l'exécution de prestations sur place. Grâce au [plug-in de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), les signatures peuvent être facilement insérées dans des documents qui peuvent ensuite être envoyés en tant que pièces jointes à un e-mail. L'intégration transparente du nouveau type de colonne crée de nombreuses possibilités pour rendre les processus plus contraignants.
+Cela permet de créer des flux de travail pour les processus des employés et des clients que vous ne pouviez pas reproduire dans SeaTable jusqu'à présent : Grâce à l'ajout d'un champ de signature, vous pouvez par exemple faire signer les demandes de congé ou les inscriptions à des séminaires par les personnes qui les remplissent dans [les formulaires Web]({{< relref "help/base-editor/webformulare" >}}) et les [applications universelles]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}). De même, les clients peuvent confirmer à un monteur l'exécution de prestations sur place. Grâce au [plug-in de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), les signatures peuvent être facilement insérées dans des documents qui peuvent ensuite être envoyés en tant que pièces jointes à un e-mail. L'intégration transparente du nouveau type de colonne crée de nombreuses possibilités pour rendre les processus plus contraignants.
 
 ## Gestion performante des fichiers au sein de la base
 
@@ -30,11 +30,11 @@ La gestion des fichiers dans SeaTable 4.0 révolutionne le travail avec les fich
 
 Le gestionnaire de fichiers, qui peut être appelé via l'icône à trois points en haut à droite de la base et ajouté à la barre d'outils, se présente sous une forme aussi familière que possible : Les fichiers et les dossiers à droite, la navigation à gauche - les utilisateurs se sentiront immédiatement chez eux.
 
-![Glisser-déposer des fichiers de la gestion de fichiers dans une colonne de fichiers](https://seatable.io/wp-content/uploads/2023/06/dateien-aus-dem-dateimanagement-per-drag-and-drop-in-eine-dateispalte-ziehen.gif)
+![Glisser-déposer des fichiers de la gestion de fichiers dans une colonne de fichiers](dateien-aus-dem-dateimanagement-per-drag-and-drop-in-eine-dateispalte-ziehen.gif)
 
 Les fichiers existants peuvent être renommés, copiés, déplacés, téléchargés et supprimés dans le gestionnaire de fichiers. Il est également possible de créer de nouveaux documents Office et de les modifier directement via l'éditeur intégré. Il est désormais très facile de télécharger des fichiers et des dossiers depuis votre appareil ou de les insérer dans le gestionnaire de fichiers par glisser-déposer. Il est également possible de glisser-déposer des fichiers depuis le gestionnaire de fichiers dans les cellules des colonnes de tableau correspondantes et de les associer ainsi à des enregistrements. Pour offrir un maximum d'espace à cet effet, le gestionnaire de fichiers peut être redimensionné et épinglé en tant que barre latérale.
 
-![Structure des dossiers dans la gestion des fichiers](https://seatable.io/wp-content/uploads/2023/06/Ordnerstruktur-im-Dateimanagement-2.png)
+![Structure des dossiers dans la gestion des fichiers](Ordnerstruktur-im-Dateimanagement-2.png)
 
 Les dossiers système sont liés à la structure de la base et contiennent les images, les fichiers et les signatures des colonnes respectives ainsi que les fichiers de configuration des apps et des formulaires web. Dans les dossiers personnels, il est possible de déposer et d'organiser des fichiers indépendamment dans des dossiers individuels. Les fichiers sont ensuite disponibles dans les scripts Python et dans d'autres fonctions telles que les formulaires web ou le plug-in de conception de pages ; certaines de ces intégrations ne seront toutefois achevées que dans les prochaines versions.
 
@@ -46,7 +46,7 @@ Les dossiers système sont liés à la structure de la base et contiennent les i
 
 L'intégration de Seafile dans SeaTable ne pourrait pas être plus simple : Générez un jeton API pour une bibliothèque Seafile via l'interface web de Seafile, créez un nouveau compte tiers dans SeaTable et collez-y le jeton (voir illustration). Une fois le lien établi avec succès, la bibliothèque Seafile apparaît dans le gestionnaire de fichiers.
 
-![Intégration facilitée de Seafile pour les gros volumes de données](https://seatable.io/wp-content/uploads/2023/06/verbesserte-integration-mit-seafile-release-notes.png)
+![Intégration facilitée de Seafile pour les gros volumes de données](verbesserte-integration-mit-seafile-release-notes.png)
 
 En principe, les serveurs Seafile hébergés et auto-hébergés peuvent être connectés. N ['hésitez pas à contacter notre équipe de vente](https://seatable.io/fr/contact/) si vous souhaitez héberger vous-même un serveur Seafile. Pour les clients SeaTable dédiés, nous proposons un co-hébergement Seafile.
 
@@ -54,15 +54,15 @@ En principe, les serveurs Seafile hébergés et auto-hébergés peuvent être co
 
 SeaTable vous offre de nombreuses possibilités pour l'[analyse statistique des données](https://seatable.io/fr/docs/seatable-nutzen/statistiken/) et leur présentation graphique. Jusqu'à présent, vous disposiez à la fois d'un module statistique de base et d'un plug-in de statistiques avancées. Dans SeaTable 4.0, ce dernier prend la place du module de base, ce qui vous évite de devoir installer un plug-in. Toute la puissance statistique de SeaTable est désormais concentrée dans un outil puissant, accessible en un clic via le bouton "Statistiques" dans l'en-tête de base.
 
-![Le plug-in de statistiques et le module de statistiques fusionnent en un seul outil](https://seatable.io/wp-content/uploads/2023/06/erweitertes-statistik-plugin-release-notes.gif)
+![Le plug-in de statistiques et le module de statistiques fusionnent en un seul outil](erweitertes-statistik-plugin-release-notes.gif)
 
 Tous les graphiques et diagrammes que vous avez déjà créés - que ce soit dans le module Statistiques ou dans le plug-in Statistiques avancées - sont bien sûr conservés et automatiquement déplacés vers le nouveau tableau de bord.
 
 ## Progrès de l'Universal App Builder
 
-L'[Universal App Builder](https://seatable.io/fr/docs/apps/universelle-app/) (bêta) jouit d'une grande popularité, notre équipe de développement travaille à plein régime pour le peaufiner et les résultats sont impressionnants ! Tous les [types de pages](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/) ont désormais une mise en page uniforme et proposent dans les paramètres de données la fonction de recherche par colonne que l'on connaît déjà dans les bases. De plus, tous les types de pages supportent désormais le [filtre "ID réel de l'utilisateur connecté".](https://seatable.io/fr/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/) L'un des points forts du travail de développement a été la page individuelle, dont nous avons nettement amélioré l'utilisation. Nous avons également corrigé des erreurs dans les diagrammes. Les autres types de pages n'ont pas été négligés pour autant. Le support des colonnes a été optimisé pour le formulaire web, la page Kanban et la page Timeline. L'un des points forts de l'Universal App Builder dans SeaTable 4.0 est le nouveau type de page "Requête", qui intègre la fonctionnalité de l'[application de requête de données](https://seatable.io/fr/docs/apps/datenabfrage-app/) dans l'application universelle.
+L'[Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) (bêta) jouit d'une grande popularité, notre équipe de développement travaille à plein régime pour le peaufiner et les résultats sont impressionnants ! Tous les [types de pages](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/) ont désormais une mise en page uniforme et proposent dans les paramètres de données la fonction de recherche par colonne que l'on connaît déjà dans les bases. De plus, tous les types de pages supportent désormais le [filtre "ID réel de l'utilisateur connecté".](https://seatable.io/fr/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/) L'un des points forts du travail de développement a été la page individuelle, dont nous avons nettement amélioré l'utilisation. Nous avons également corrigé des erreurs dans les diagrammes. Les autres types de pages n'ont pas été négligés pour autant. Le support des colonnes a été optimisé pour le formulaire web, la page Kanban et la page Timeline. L'un des points forts de l'Universal App Builder dans SeaTable 4.0 est le nouveau type de page "Requête", qui intègre la fonctionnalité de l'[application de requête de données](https://seatable.io/fr/docs/apps/datenabfrage-app/) dans l'application universelle.
 
-![L'application universelle](https://seatable.io/wp-content/uploads/2023/06/SeaTable_Universal-App.png)
+![L'application universelle](SeaTable_Universal-App.png)
 
 Dans les versions 4.1 et 4.2, d'autres fonctions déjà bien établies dans les bases seront ajoutées. Il s'agit par exemple de la mise en forme conditionnelle et de la hauteur de ligne variable. La phase bêta de l'Universal App Builder prendra alors fin.
 
@@ -70,7 +70,7 @@ Dans les versions 4.1 et 4.2, d'autres fonctions déjà bien établies dans les 
 
 Les petites réalisations de SeaTable rendent également la vie plus agréable : les dossiers de la page d'accueil s'ouvrent depuis peu dans une fenêtre séparée, ce qui vous donne une meilleure vue d'ensemble des bases qui y sont classées.
 
-![Nouvelle vue des dossiers sur la page d'accueil](https://seatable.io/wp-content/uploads/2023/06/ordner-auf-der-startseite-release-notes.gif)
+![Nouvelle vue des dossiers sur la page d'accueil](ordner-auf-der-startseite-release-notes.gif)
 
 Verrouiller une ligne - cela était déjà possible depuis longtemps pour les utilisateurs d'Enterprise à l'aide d'une règle d'automatisation ou manuellement via le menu contextuel de la ligne. Désormais, la [colonne de boutons](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) "Verrouiller la ligne" est également une nouvelle action. Utilisez-la en combinaison avec les sept autres actions pour effectuer des opérations complexes d'un simple clic de souris. En outre, nous avons ajouté des valeurs de date dynamiques à l'action "Modifier la ligne" et amélioré l'affichage des options de sélection.
 
@@ -84,7 +84,7 @@ Dans le journal de base, SeaTable enregistre les modifications que vous et les m
 
 ## Ajustement des prix
 
-Depuis la version 1.0, nous avons progressivement étendu les fonctionnalités de SeaTable. Nous avons également réalisé des investissements significatifs dans des intégrations plus simples et plus puissantes, une documentation améliorée et une sécurité accrue. Ces changements, associés à la dynamique générale des prix, nécessitent un ajustement de nos prix pour les [licences SeaTable Server](https://seatable.io/fr/on-premises/).
+Depuis la version 1.0, nous avons progressivement étendu les fonctionnalités de SeaTable. Nous avons également réalisé des investissements significatifs dans des intégrations plus simples et plus puissantes, une documentation améliorée et une sécurité accrue. Ces changements, associés à la dynamique générale des prix, nécessitent un ajustement de nos prix pour les [licences SeaTable Server]({{< relref "pages/product/seatable-server" >}}).
 
 | Nombre d'utilisateurs | Prix jusqu'à présent | Prix nouveau | Variation |
 | --------------------- | -------------------- | ------------ | --------- |

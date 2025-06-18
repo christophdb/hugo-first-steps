@@ -19,7 +19,7 @@ Egal, ob es sich um Ihre **Abiturprüfungen** oder um Ihre **Klausuren an der Un
 
 Wenn Sie einen Lernplan erstellen möchten, sollten Sie zuerst ein klares Lernziel definieren. Bestimmen Sie genau, welche **Inhalte** Sie bis zu welcher **Deadline** beherrschen müssen. Achten Sie darauf, dass Ihre Ziele **realistisch** und die Inhalte **relevant** sind, damit Sie im Laufe der Lernphase nicht in Stress verfallen.
 
-![Dartpfeile stecken in der Mitte eines Dartboards](images/darts-board-711x474.jpg)
+![Dartpfeile stecken in der Mitte eines Dartboards](darts-board-711x474.jpg)
 
 Ein klar definiertes Lernziel ist der Ausgangspunkt für einen erfolgreichen Lernplan.
 
@@ -29,7 +29,7 @@ Um Ihren Fortschritt während des Lernprozesses zu verfolgen, sollten Ihre Ziele
 
 Bevor Sie einen Lernplan erstellen, ist es unerlässlich, sämtlichen Lernstoff zu sammeln und zu strukturieren. Beginnen Sie damit, sich einen **umfassenden Überblick** über alle relevanten Themen zu verschaffen und dabei **unwichtige Informationen auszusortieren**. Notieren Sie sich die Quellen für die wichtigen Inhalte, beispielsweise **Lehrbücher**, **Vorlesungsfolien**, **Fachartikel** oder eigene **Mitschriften** aus dem Unterricht.
 
-![Lernplan erstellen: Aufgefächerte Bücher von oben](images/top-view-books-arrangement-711x400.jpg)
+![Lernplan erstellen: Aufgefächerte Bücher von oben](top-view-books-arrangement-711x400.jpg)
 
 Berücksichtigen Sie beim Sammeln von Lernmaterialien auch deren Qualität.
 
@@ -39,7 +39,7 @@ Anschließend ist es wichtig, alle gesammelten Materialien systematisch zu struk
 
 Jetzt, da Sie alle relevanten Themen für die Prüfung identifiziert haben, ist es an der Zeit, diese in **kleinere Lernpakete** zu unterteilen. Dies ermöglicht es Ihnen, den Lernstoff effizienter zu erfassen und zu verarbeiten. Durch die Unterteilung in überschaubare Einheiten verhindern Sie, dass Sie sich von der Fülle des Materials überwältigt fühlen und den Fokus verlieren.
 
-![Lernplan erstellen: Elektronische Teile liegen verstreut](https://seatable.io/wp-content/uploads/2024/04/unnamed-file-711x533.jpg)
+![Lernplan erstellen: Elektronische Teile liegen verstreut](unnamed-file-711x533.jpg)
 
 Kleinere Einheiten erleichtern das Verarbeiten und Verstehen.
 
@@ -49,7 +49,7 @@ Zusätzlich ist es ratsam, den **Schwierigkeitsgrad** der einzelnen Lerneinheite
 
 Während Sie Ihren Lernplan erstellen, lohnt es sich auch, einen Blick auf verschiedene Lernmethoden zu werfen und die für Sie **passende Lernmethode** zu identifizieren. Lernmethoden sind Strategien, die darauf abzielen, den Lernerfolg zu maximieren, indem sie die Vertiefung des Wissens fördern. Angesichts der Vielzahl von verfügbaren Methoden ist es wichtig, diejenigen auszuwählen, die am besten zu Ihren **individuellen Bedürfnissen** passen, und möglicherweise verschiedene Methoden zu kombinieren.
 
-![Eine Hand blättert in die Seite eines Buches um](images/book-6957870_1280-711x474.jpg)
+![Eine Hand blättert in die Seite eines Buches um](book-6957870_1280-711x474.jpg)
 
 Es ist hilfreich, verschiedene Lernmethoden auszuprobieren.
 
@@ -81,7 +81,7 @@ Die [Pomodoro-Technik](https://de.wikipedia.org/wiki/Pomodoro-Technik) besteht d
 
 Nachdem Sie Ihre Lerninhalte strukturiert haben, ist es nun an der Zeit, einen detaillierten Zeitplan für Ihre Lernsessions zu erstellen. Dieser Plan hilft Ihnen, Ihre Lernziele effizient zu erreichen und ein gesundes Gleichgewicht zwischen **Lernen**, **Alltag** und **Freizeit** zu wahren.
 
-![Lernplan erstellen: Ein Wecker auf einem Schreibtisch](images/time-2980690_1280-711x474.jpg)
+![Lernplan erstellen: Ein Wecker auf einem Schreibtisch](time-2980690_1280-711x474.jpg)
 
 Ein detaillierter Zeitplan hilft, den Lernprozess zu organisieren und Deadlines einzuhalten.
 
@@ -99,7 +99,7 @@ Ein wichtiger Aspekt der Motivation ist die **persönliche Relevanz** des Lernst
 
 Zudem ist die **Vernetzung** der Informationen mit bestehendem Wissen von Vorteil. Versuchen Sie daher, eine Verbindung zwischen dem Lernstoff und Ihrem Vorwissen herzustellen. Auch Übung macht den Meister: Indem Sie abstrakte Lerninhalte anhand von konkreten Beispielen **anwenden**, können Sie Ihr Wissen festigen.
 
-![Lernplan erstellen: Schild auf dem Schreibtisch mit der Aufschrift "You got this"](images/pexels-prateekkatyal-2740956-711x474.jpg)
+![Lernplan erstellen: Schild auf dem Schreibtisch mit der Aufschrift "You got this"](pexels-prateekkatyal-2740956-711x474.jpg)
 
 Motivation kann durch verschiedene Faktoren beeinflusst werden.
 
@@ -109,7 +109,7 @@ Wenn Sie Ihre Lernziele vor Augen behalten, können Sie sicher sein, dass Sie au
 
 Reflexion ist ein entscheidender Schritt im Lernprozess, da sie es Ihnen ermöglicht, Ihren Fortschritt zu bewerten, Ihren Lernplan zu überdenken und gegebenenfalls **Anpassungen** vorzunehmen. Halten Sie Ihren Fortschritt fest, indem Sie regelmäßig Ihren Wissensstand überprüfen. Überlegen Sie, ob Sie Ihre gesteckten Ziele noch erreichen können oder ob eine Kurskorrektur erforderlich ist. Vielleicht haben sich Ihre Lernmethoden oder -ziele im Laufe des Lernprozesses geändert – und es ist wichtig, die Realität anzuerkennen und Ihren Lernplan entsprechend anzupassen.
 
-![Lernplan erstellen: Gesicht spiegelt sich in einem Glasstück](images/vince-fleming-Vmr8bGURExo-unsplash-711x474.jpg)
+![Lernplan erstellen: Gesicht spiegelt sich in einem Glasstück](vince-fleming-Vmr8bGURExo-unsplash-711x474.jpg)
 
 Reflexion über den Lernplan ermöglicht eine kontinuierliche Verbesserung des Lernens.
 

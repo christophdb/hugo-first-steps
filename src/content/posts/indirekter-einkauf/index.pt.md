@@ -30,7 +30,7 @@ Com SeaTable tem todas as informações, produtos e encomendas importantes num s
 
 O nosso modelo consiste em três tabelas que estão todas inter-relacionadas e passam informações umas às outras. A primeira tabela é a base para o formulário web que os seus empregados podem utilizar para todas as encomendas. A segunda tabela consiste num catálogo detalhado de produtos contendo todos os bens necessários na empresa para fins internos - desde lápis a ratos de computador. A terceira tabela contém todos os fornecedores das mercadorias com os dados de contacto importantes. **Com estes três parafusos**, a sua organização de escritório tornar-se-á muito em breve uma brisa.
 
-![Visão geral de todas as encomendas em compras indirectas](https://seatable.io/wp-content/uploads/2021/11/bestellungen-indirekter-einkauf-1088x515.png)
+![Visão geral de todas as encomendas em compras indirectas](bestellungen-indirekter-einkauf-1088x515.png)
 
 O facto de todas as tabelas estarem ligadas umas às outras é possível com as colunas ligadas. Esta característica prática simplifica a organização dos dados dentro de uma base: Os dados necessários em cada mesa, tais como o preço de um produto, podem ser criados numa mesa e reproduzidos em todas as outras mesas. Se o preço mudar na tabela original, também muda em todas as outras tabelas através da ligação. Desta forma, a informação não tem de ser introduzida várias vezes, mas regulamenta-se a si própria!
 
@@ -40,7 +40,7 @@ Esta tabela contém muitas informações: As colunas "Produto", "€" para o pre
 
 Com as suas colunas, a tabela também fornece a base para o [formulário Web](https://seatable.io/pt/docs/handbuch/seatable-nutzen/webformulare/) integrado para a organização do seu escritório. Para uma encomenda de material interno, os empregados seleccionam um produto da lista - esta é a coluna ligada "Produtos" do catálogo de produtos (Tabela 2). Depois disso, apenas introduzem a quantidade e o departamento em que trabalham, para que as encomendas permaneçam claras.
 
-![Formulário de encomenda de material indirecto](https://seatable.io/wp-content/uploads/2021/11/bestellformular-indirektes-material.png)
+![Formulário de encomenda de material indirecto](bestellformular-indirektes-material.png)
 
 Cada formulário submetido termina imediatamente na Base e é criado como uma nova fila. Os empregados têm de introduzir relativamente pouca informação, embora muita informação seja armazenada na própria tabela. É aqui que as colunas ligadas entram em jogo.
 
@@ -68,7 +68,7 @@ Esta regra notifica automaticamente todos os participantes por e-mail se houver 
 
 Com o SeaTable também tem a possibilidade de enviar e-mails automáticos com apenas um clique. Isto não só é muito útil nas compras internas. Para o fazer, é necessário primeiro adicionar a sua conta de correio electrónico à sua Base. Isto pode ser feito através dos três pontos no canto superior direito -> Definições -> Fornecedores terceiros. Aqui pode adicionar a sua conta de correio electrónico de acordo com as especificações do seu fornecedor de correio electrónico. Uma vez concluída esta etapa, pode utilizar a coluna de botões para criar um botão para o envio de e-mails.
 
-![Enviar encomendas automaticamente com SeaTable](https://seatable.io/wp-content/uploads/2021/11/Bestellungen-automatisch-verschicken.gif)
+![Enviar encomendas automaticamente com SeaTable](Bestellungen-automatisch-verschicken.gif)
 
 Aqui está como funciona:
 
@@ -82,7 +82,7 @@ Aqui está como funciona:
 
 O SeaTable não seria uma solução óptima para a organização do escritório se não tivesse também uma função clara e prática para a gestão de tarefas. Por um lado, criamos diferentes [vistas](https://seatable.io/pt/docs/handbuch/seatable-nutzen/ansichten/) para cada agente, de modo a que apenas sejam visíveis as encomendas que são relevantes para ele ou ela. Por exemplo, um agente de equipamento de escritório não precisa de ver as encomendas de alimentos. Para tal, basta clicar na pequena seta no canto superior esquerdo, no nosso exemplo intitulada "Ver tudo".
 
-![Visão Kanban de todas as encomendas em compras indirectas](https://seatable.io/wp-content/uploads/2021/11/kanban-view-indirekte-beschaffung.png)
+![Visão Kanban de todas as encomendas em compras indirectas](kanban-view-indirekte-beschaffung.png)
 
 Com um filtro, as pessoas correspondentes a quem a vista se destina são definidas. Assim, apenas são exibidas as encomendas que também pertencem a si próprio - isto ajuda a manter uma visão geral e a manter as suas próprias áreas de responsabilidade em vista. No entanto, as opiniões são também a base para o plug-in Kanban.
 
@@ -96,7 +96,7 @@ Já explicámos acima o valor das colunas ligadas no SeaTable para a organizaç�
 
 A segunda tabela contém o catálogo completo dos produtos da organização do escritório. Apenas os produtos que são armazenados aqui podem ser encomendados pelo pessoal. Por conseguinte, é importante que todos os produtos estejam na lista - assim que novos produtos são adicionados, são inseridos aqui e ficam então imediatamente disponíveis para encomenda.
 
-![O catálogo de produtos para o material indirecto em SeaTable](https://seatable.io/wp-content/uploads/2021/11/produktkatalog-indirekter-einkauf.png)
+![O catálogo de produtos para o material indirecto em SeaTable](produktkatalog-indirekter-einkauf.png)
 
 Esta tabela também utiliza informações de outras tabelas. Os números das encomendas, por exemplo, provêm da tabela "Encomendas" e os fornecedores e respectivos endereços de correio eletrónico provêm da terceira tabela "Fornecedores". Mais uma vez, as colunas ligadas são utilizadas para manter o esforço de organização tão baixo quanto possível. A coluna "€" deste quadro apresenta os preços dos produtos de acordo com a lista e é decisiva para o cálculo dos preços das encomendas.
 
@@ -104,6 +104,6 @@ Esta tabela também utiliza informações de outras tabelas. Os números das enc
 
 A organização do escritório, e especialmente a encomenda de bens internos, pode rapidamente tornar-se uma trivialidade, mas é importante e mantém o negócio a funcionar. O modelo mostrado neste post do blog pode ser encontrado directamente no SeaTable. Ao criar uma nova base, basta seleccionar a opção: _Comece com o modelo_ e encontrará este modelo na área **Operações**.
 
-Com SeaTable tem ao seu lado uma ferramenta poderosa que lhe pode fornecer um excelente apoio neste e em muitos outros processos. Por exemplo, pode utilizá-lo para organizar a [gestão da](https://seatable.io/pt/crm-angebotsmanagement/?lang=auto) sua [oferta CRM](https://seatable.io/pt/crm-angebotsmanagement/?lang=auto), [construir digitalmente](https://seatable.io/pt/digitales-produktmanagement/?lang=auto) a sua [gestão de produtos](https://seatable.io/pt/digitales-produktmanagement/?lang=auto) ou [planear workshops internos](https://seatable.io/pt/mit-internen-workshops-den-unternehmenswert-steigern/?lang=auto).
+Com SeaTable tem ao seu lado uma ferramenta poderosa que lhe pode fornecer um excelente apoio neste e em muitos outros processos. Por exemplo, pode utilizá-lo para organizar a [gestão da]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto) sua [oferta CRM]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto), [construir digitalmente](https://seatable.io/pt/digitales-produktmanagement/?lang=auto) a sua [gestão de produtos](https://seatable.io/pt/digitales-produktmanagement/?lang=auto) ou [planear workshops internos](https://seatable.io/pt/mit-internen-workshops-den-unternehmenswert-steigern/?lang=auto).
 
 Experimente o nosso modelo e [registe-se]({{< relref "pages/registration" >}})! O SeaTable é gratuito na versão básica.

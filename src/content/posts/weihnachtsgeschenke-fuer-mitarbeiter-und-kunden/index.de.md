@@ -16,7 +16,7 @@ Weihnachten steht vor der Tür und Sie möchten Ihren Mitarbeitern, Geschäftspa
 
 Ob große Gesten oder kleine Aufmerksamkeiten – jeder freut sich über ein Geschenk. Doch es muss nicht immer ein Geschenk in Form eines materiellen Gegenstands oder Gutscheins sein. Etwas zu verschenken geht über das Materielle hinaus und kann sich in vielen Arten zeigen.
 
-![Hier werden Ihnen fünf Ideen vorgestellt, was Sie Ihren Kunden und Mitarbeitern in der Weihnachtszeit schenken könnten.](https://seatable.io/wp-content/uploads/2024/08/Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
+![Hier werden Ihnen fünf Ideen vorgestellt, was Sie Ihren Kunden und Mitarbeitern in der Weihnachtszeit schenken könnten.](Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
 
 Welche Idee werden Sie dieses Weihnachten umsetzen?
 
@@ -34,7 +34,7 @@ Viele Hilfsorganisationen und soziale Einrichtungen freuen sich über Ihren Beit
 
 Schokolade, aber mit Pep? Kein Problem! Gestalten Sie für Ihre Mitarbeiter und Kunden einen Adventskalender mit Ihrem Firmenlogo oder fügen Sie individuelle Botschaften hinzu.
 
-![Schokoladenpralinen nummeriert ergeben einen leckeren selbstgemachten Adventskalender.](https://seatable.io/wp-content/uploads/2024/08/markus-spiske-MxjnYEqAfVA-unsplash-1-scaled-e1722848744903-711x620.jpg)
+![Schokoladenpralinen nummeriert ergeben einen leckeren selbstgemachten Adventskalender.](markus-spiske-MxjnYEqAfVA-unsplash-1-scaled-e1722848744903-711x620.jpg)
 
 Egal in welcher Form, Schokolade schmeckt immer gut!
 
@@ -48,7 +48,7 @@ Möchten Sie nur für ausgewählte Personen einen Adventskalender zusammenstelle
 
 Eine schöne Alternative zum klassischen analogen Adventskalender ist eine digitale Variante. Ihren unternehmenseigenen Online-Adventskalender können Sie mit Bildern, Videos oder Weihnachtszitaten befüllen und dann einfach per Link als Weihnachtsgeschenk an Mitarbeiter und Kunden verschicken.
 
-![Enterprise Advent Calendar](images/Enterprise-Advent-Calendar.png)
+![Enterprise Advent Calendar](Enterprise-Advent-Calendar.png)
 
 Das Team von SeaTable hat für Sie [eine Vorlage]({{< relref "templates/events/advent-calendar" >}}) erstellt, welche Sie nach Ihren Bedürfnissen anpassen können. Geben Sie dem Kalender eine persönliche Note und freuen Sie sich auf die erstaunten Gesichter Ihrer Mitarbeiter, wenn diese täglich eine neue Überraschung hinter einem der Türchen entdecken.
 
@@ -58,7 +58,7 @@ Wenn Sie SeaTable für die Erstellung eines Online-Adventskalenders nutzen möch
 
 Den Bogen zwischen Weihnachtsstimmung und Arbeit zu schlagen, ist eine Herausforderung. Schließlich ist ein Besuch auf dem Weihnachtsmarkt oder eine Runde Schlittschuhlaufen viel verlockender als den ganzen Tag im Büro zu verbringen. Es liegt nun an Ihnen, die **Weihnachtsstimmung** in Ihr Unternehmen zu bringen!
 
-![Verschiedene Notizbücher mit individuellem Logodesign von Leuchtturm1917.](images/header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
+![Verschiedene Notizbücher mit individuellem Logodesign von Leuchtturm1917.](header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
 
 Individuelle Notizbücher mit Logoprägung von LEUCHTTURM1917.
 
@@ -73,7 +73,7 @@ Ein **selbstgemachtes Geschenk** bereitet große Freude, denn es zeigt, dass Sie
 
 - **Grußkarte**: Der Klassiker zu Weihnachten. Gestalten Sie die Weihnachtskarte Ihrer Firma mit einem spannenden Motiv und einer persönlichen Botschaft. Oder wie wäre es mit einem selbstgeschriebenen Gedicht oder einer persönlichen Widmung? Machen Sie Ihre Grußkarte zur schönsten auf dem Schreibtisch Ihrer Kunden und Mitarbeiter!
 
-![In selbstgemachte Weihnachtskarten wird viel Liebe gesteckt.](https://seatable.io/wp-content/uploads/2024/08/pexels-jonathanborba-3358727-e1722852690526-711x536.jpg)
+![In selbstgemachte Weihnachtskarten wird viel Liebe gesteckt.](pexels-jonathanborba-3358727-e1722852690526-711x536.jpg)
 
 Der Fantasie sind keine Grenzen gesetzt.
 
@@ -86,7 +86,7 @@ Der Fantasie sind keine Grenzen gesetzt.
 
 Ein gemeinsamer Weihnachtsmarktbesuch oder abendliches Plätzchenbacken hilft, sich besser kennenzulernen und den Teamgeist nachhaltig zu stärken. Und natürlich darf auch eine Weihnachtsfeier nicht fehlen! Wie Sie diese erfolgreich planen, erfahren Sie [hier](https://seatable.io/weihnachtsfeier/).
 
-![Ein Weihnachtsmarktbesuch lädt zum Tratschen und Stöbern ein.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-22-1-e1722859187769-711x730.png)
+![Ein Weihnachtsmarktbesuch lädt zum Tratschen und Stöbern ein.](Design-ohne-Titel-22-1-e1722859187769-711x730.png)
 
 Die beste Weihnachtsstimmung gibt es hier.
 
@@ -103,7 +103,7 @@ Sie möchten Ihren Mitarbeitern zu Weihnachten eine Freude machen, aber die Kost
 - **Geschenkgutscheine:** Ein beliebtes Weihnachtsgeschenk für Mitarbeiter und Kunden sind Gutscheine. Diese sind jedoch nur unter der steuerbegünstigten Freigrenze, wenn sie neben dem maximalen Wert von 50 Euro auch drei weitere Kriterien erfüllen. Die Geschenkkarten dürfen ausschließlich zum Bezug von Waren und Dienstleistungen berechtigen und nur für eine geringe Anzahl an Läden einsetzbar sein. Zudem gilt es zu beachten, dass die Ausstellung der Gutscheine _zusätzlich zum ohnehin geschuldeten Arbeitslohn_ erfolgen muss.
 - **Persönliche Ereignisse:** Hat einer Ihrer Mitarbeiter Geburtstag oder hat ein rundes Firmenjubiläum, beträgt der Freibetrag bis zu 60 Euro. Dies gilt jedoch nicht für Weihnachten, da dies **nicht** als persönliches Ereignis zählt.
 
-![Über eine firmeninterne Weihnachtsfeier freuen sich Mitarbeiter und Vorgesetzte.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-25-e1722846043336-711x493.png)
+![Über eine firmeninterne Weihnachtsfeier freuen sich Mitarbeiter und Vorgesetzte.](Design-ohne-Titel-25-e1722846043336-711x493.png)
 
 Bei Weihnachtsfeiern gibt es noch einiges zu beachten…
 

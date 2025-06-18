@@ -25,7 +25,7 @@ The larger a company is, the more difficult personnel planning becomes. In addit
 
 In general, staff planning with Excel templates (free or paid version) is not exclusively bad. The advantage is that free Excel templates from the Internet can be used without much effort. All a user needs is Microsoft Office, Open Office or a Google account to access Google Sheets. Whether it's a duty roster, shift schedule or employee planning - simply enter the relevant search term on Google and the world of free Excel templates opens up.
 
-![Employee uses free Excel template for staff planning.](images/Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_343110940_bearbeitet-711x474.jpg)
+![Employee uses free Excel template for staff planning.](Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_343110940_bearbeitet-711x474.jpg)
 
 Personnel planning Excel template free © monticellllo / adobe stock
 
@@ -53,7 +53,7 @@ Another key advantage of HR planning without a free Excel template is the extrem
 
 Not only is everyone always on the same information level, but the organizational effort is significantly reduced. And it makes no difference whether you run a small, medium or large company, a café or a car dealership. With the right online tool, there is a suitable [shift schedule]({{< relref "templates/human-resources/shift-schedule" >}}) or optimal [working time recording for]({{< relref "templates/human-resources/recording-working-time" >}}) every requirement.
 
-![](images/Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
+![](Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
 
 Personnel Planning Excel Template Free © SeaTable
 

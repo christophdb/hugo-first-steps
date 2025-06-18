@@ -18,11 +18,11 @@ Heute Morgen haben wir die SeaTable Cloud auf Version 3.5 aktualisiert. Alle Sel
 
 ## Formeln in der ersten Spalte
 
-SeaTable 3.5 sorgt für mehr Flexibilität in der ersten Tabellenspalte: Bisher waren dort nur die [Spaltentypen](https://seatable.io/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) Text, Zahl, Datum, Einfachauswahl und Automatische Nummer erlaubt. Der nun ebenfalls unterstützte [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/")\-Spaltentyp macht es möglich, eine eigene Zeilenreferenz zu „berechnen“. Da [die erste Spalte](https://seatable.io/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) in einer Tabelle nicht ausgeblendet werden kann und auch im Verknüpfungsdialog immer angezeigt wird, bietet sie sich dafür ganz besonders an.
+SeaTable 3.5 sorgt für mehr Flexibilität in der ersten Tabellenspalte: Bisher waren dort nur die [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) Text, Zahl, Datum, Einfachauswahl und Automatische Nummer erlaubt. Der nun ebenfalls unterstützte [Formel](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/")\-Spaltentyp macht es möglich, eine eigene Zeilenreferenz zu „berechnen“. Da [die erste Spalte](https://seatable.io/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) in einer Tabelle nicht ausgeblendet werden kann und auch im Verknüpfungsdialog immer angezeigt wird, bietet sie sich dafür ganz besonders an.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
-![SeaTable 3.5 - First column supports formulas](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-FirstColumn.png)
+![SeaTable 3.5 - First column supports formulas](SeaTable-3.5-FirstColumn.png)
 
 ## Zwei zusätzliche Aktionen für periodische Automationen
 
@@ -36,7 +36,7 @@ Die Aktionen „Links hinzufügen“ und „Datenverarbeitungsoperation ausführ
 
 Mit einer [Schaltfläche](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) können Sie eine oder mehrere Aktionen mit einem Klick ausführen, z. B. [eine E-Mail versenden](https://seatable.io/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) und dann die Zeile bearbeiten. Nicht möglich war es, die Ausführung einer Aktion an eine Bedingung zu knüpfen. Diese funktionale Lücke haben wir mit SeaTable 3.5 geschlossen.
 
-![SeaTable 3.5 - Button actions can be linked to rules](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-ConditionalExecution.png)
+![SeaTable 3.5 - Button actions can be linked to rules](SeaTable-3.5-ConditionalExecution.png)
 
 Die neue bedingte Ausführung erlaubt Ihnen für jede Schaltflächenaktion eine Regel zu definieren. Eine Regel kann aus einer oder mehreren Bedingungen bestehen. Nur wenn die Regel erfüllt ist, wird die Aktion bei Klick auf die Schaltfläche auch ausgeführt. Trifft eine Bedingung nicht zu, springt SeaTable zur nächsten Aktion und zeigt die nicht ausgeführte Aktion in einer Meldung an.
 
@@ -48,7 +48,7 @@ Ab Version 3.5 führt SeaTable alle definierten Aktionen strikt sequenziell aus.
 
 Der Spaltentyp Formel für Verknüpfungen ermöglicht die Auswertung von verknüpften Einträgen. Insgesamt stehen Ihnen fünf Auswertungsmethoden zur Verfügung: [Findmin](https://seatable.io/docs/verknuepfungen/die-findmin-formel/), [Findmax](https://seatable.io/docs/verknuepfungen/die-findmax-formel/), [Rollup](https://seatable.io/docs/verknuepfungen/die-rollup-formel/), [Countlinks](https://seatable.io/docs/verknuepfungen/die-countlinks-formel/) und [Lookup](https://seatable.io/docs/verknuepfungen/die-lookup-funktion/). Die Lookup-Formel ermöglicht Ihnen dabei, zusätzliche Werte aus bereits verknüpften Zeilen in Ihrer aktuellen Tabelle darzustellen. So können Sie beliebig viele Informationen aus der verlinkten Tabelle auslesen und anzeigen lassen.
 
-![SeaTable 3.5 - Link formula columns support conditional lookups](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-ConditionalLookup.png)
+![SeaTable 3.5 - Link formula columns support conditional lookups](SeaTable-3.5-ConditionalLookup.png)
 
 In SeaTable 3.5 haben wir die Lookup-Formel verbessert und eine Funktion implementiert, die bei den anderen Formeln schon seit geraumer Zeit existierte: eine bedingte Auswertung. Ist die bedingte Auswertung bei Lookups aktiviert, dann werden nur die Werte angezeigt, welche die gesetzte Bedingung bzw. die gesetzten Bedingungen erfüllen. Dadurch erhalten Sie passgenau die Informationen aus der verlinkten Tabelle, die Sie benötigen.
 
@@ -66,7 +66,7 @@ Um die Datenübertragung von einer Base in eine andere zu vereinfachen, bietet S
 
 Für Auswahloptionen, Schaltflächen und bedingte Formatierungen gibt SeaTable 24 Farben vor. Um individuellen Wünschen oder CI-Anforderungen gerecht zu werden, können Sie mit SeaTable 3.5 in jeder Base eine beliebige Anzahl weiterer Farben definieren. Selbsthoster haben zusätzlich die Option, über die Konfigurationsdatei global individuelle Farben in SeaTable festzulegen.
 
-![SeaTable 3.5 - New layout for row details](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-RowDetails.png)
+![SeaTable 3.5 - New layout for row details](SeaTable-3.5-RowDetails.png)
 
 Das einspaltige Layout der Zeilendetails wird mit der neuen Version durch ein zweispaltiges Design abgelöst. Gerade bei Tabellen mit vielen Spalten wird die Darstellung dadurch kürzer und übersichtlicher. Auch das Base-Log, in dem Sie alle Änderungen innerhalb einer Base nachvollziehen können, bekommt einen neuen Look. Wenn Sie in der Base-Historie {{< seatable-icon icon="dtable-icon-history" >}} auf Logs klicken, öffnet sich nun ein separates Fenster mit übersichtlichen Log-Einträgen.
 

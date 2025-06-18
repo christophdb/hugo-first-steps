@@ -26,7 +26,7 @@ Zusätzlich haben wir auch die Suchfunktion verbessert. Wenn die Suche einen Tre
 
 In früheren Versionen hat SeaTable nur drei Währungen unterstützt: Euro, Dollar und Yuan. Damit waren all die Benutzer, die aus Ländern stammen, wo keine dieser Währungen verwendet wird, genötigt, sich bei Verwendung einer Währungsspalte für eine dieser drei zu entscheiden. Entschuldigung dafür! Aber wir haben gute Neuigkeiten: Mit SeaTable 1.7 kann man jede erdenkliche Währung in der Währungsspalte verwenden.
 
-![Use whatever denomination you want in SeaTable 1.7](images/Custom_Currency_1590x802.png)
+![Use whatever denomination you want in SeaTable 1.7](Custom_Currency_1590x802.png)
 
 Die Zahlspalte verfügt nun über eine weitere Formatoption: “Benutzerdefinierte Währung”. Wenn Sie diese wählen, dann können Sie die Währung Ihrer Wahl definieren. Sie können Abkürzungen (z.B. CHF, SEK) genauso verwenden wie Währungssymbole (z.B. £, ₺ ). Ab sofort ist es ganz Ihre Wahl. Der Vollständigkeit halber sei erwähnt: Natürlich kann die Währung in jeder Spalte individuell eingestellt werden. Die eine Spalte soll $ und die andere CHF sein? Nur zu!
 
@@ -40,7 +40,7 @@ Mit der neuen Version wird SeaTable toleranter hinsichtlich Syntax und erlaubt s
 
 Einige wenige neue Funktionen gibt es dann doch in SeaTable 1.7. Eine davon ist die Importfunktion für Excel. Mit dieser lassen sich neue Bases auf Basis von bestehenden XLSX-Dateien erstellen. Wählen Sie einfach “Base importieren (XLSX, CSV, DTABLE)” und navigieren zur gewünschten XLSX-Datei. Eine Vorschau stellt daraufhin dar, wie SeaTable die Daten interpretiert. Mit einem Klick auf “Speichern” wird die Base erstellt und die Daten sind in SeaTable gespeichert.
 
-![Create new bases by importing an excel workbook](images/Excel_Import_1590x802.png)
+![Create new bases by importing an excel workbook](Excel_Import_1590x802.png)
 
 Der Import von XLSX-Dateien ist eine Ergänzung zu den bestehenden Importfunktionen für CSV- und DTABLE-Dateien. Gegenüber dem Import aus einer CSV-Datei hat der Excel Import einen entscheidenden Vorteil: Alle Tabellenblätter einer Excel Arbeitsmappe werden in einem Rutsch importiert. Eine Textdatei, was eine CSV ist, kann nur Daten für ein und dasselbe Datenblatt enthalten. Aus diesem Grund enthält jede Base, die durch den Import einer Datei mit kommaseparierten Werten erstellt wird, immer nur eine Tabelle. Darüber hinaus gibt es noch ein weiteres Plus: Beim Import einer CSV-Datei werden alle Werte in Textspalten importiert. Nicht so beim XLSX-Import. SeaTable interpretiert die Inhalte der importierten Dateien und fügt die Daten in die passenden Spaltentypen ein. Spalten mit ausschließlich Zahlen werden in Zahlenspalten importiert; die Werte in einer Spalte, in der sich nur Datumswerten befinden, landen in einer Datumsspalte. In der Zukunft werden wir die Importfunktion dahin erweitern, dass auch Spalten mit Formeln automatisch importiert werden.
 
@@ -48,6 +48,6 @@ Der Import von XLSX-Dateien ist eine Ergänzung zu den bestehenden Importfunktio
 
 Haben Sie in SeaTable eine Funktion vermisst, mit der sich Werte einfach ersetzen lassen? So ging es zumindest uns und darum freuen wir uns umso mehr, jetzt sagen zu können: Jetzt gibt es sie! Suchen und Ersetzen sucht in einer Spalte nach einem String – ein Wort, eine Zahl, ein Symbol – und ersetzt ihn durch einen anderen String. Die Suche kann entweder einfach oder exakt erfolgen. In letzterem Fall sucht SeaTable nach Zellen, in denen der Zellwert exakt dem Suchstring entspricht. Kurz gesagt: SeaTables Suchen und Ersetzen funktioniert quasi genauso wie sein Gegenstück in Excel.
 
-![New feature in SeaTable 1.6.3: Batch replacement](images/Batch_replacement_1590x717.png)
+![New feature in SeaTable 1.6.3: Batch replacement](Batch_replacement_1590x717.png)
 
 Suchen und Ersetzen ist tatsächlich kein neues Feature von SeaTable 1.7, sondern kam bereits mit SeaTable 1.6.3 vor etwas mehr als zwei Wochen. Unsere Entwickler haben es ein paar Tage nach dem Release von SeaTable 1.6 fertiggestellt und wir wollten nicht knapp einen Monat warten, um es den SeaTable Cloud Benutzern zur Verfügung zu stellen.

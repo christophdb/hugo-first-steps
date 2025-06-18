@@ -18,7 +18,7 @@ Find out how a bullet journal works and what you need to know to design a bullet
 
 A bullet journal helps you to organize your **Organize everyday life** and keep track of all your tasks, appointments and needs. The journal functions as a combination of diary, project planner and notebook. It also offers enough space to accommodate your individual topic preferences. The bullet journal sets your **Creativity** no limits. Because unlike conventional calendars, there are no ready-made pages. You design them yourself and fill them according to your own ideas.
 
-![This is what a bullet journal with a monthly and daily overview can look like.](images/estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
+![This is what a bullet journal with a monthly and daily overview can look like.](estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
 
 Design your bullet journal according to your wishes.
 
@@ -34,7 +34,7 @@ This calendar method was invented by New York graphic designer Ryder Carroll. Bo
 
 Getting started with bullet journaling is very easy. All you need is a **Notebook** and a **Pen**. It is a good idea to start with what you have at home. You can try out whether you like journaling. If you like it and want to get creative, you can buy more tools.
 
-![Yours](images/estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
+![Yours](estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
 Everything around you can be used for design.
 
@@ -46,7 +46,7 @@ As mentioned above, the focus is on the realization of your own ideas. However, 
 
 This consists primarily of **time overviews**in which you can enter your tasks and appointments. There are also **Collections**. These are pages that serve your free and individual development. Below you will find a collection of ideas that you can adopt or be inspired by.
 
-![Your bullet journal should contain the items Index, Key, Future Log, Monthly Log, Daily Log and Collectives.](images/Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
+![Your bullet journal should contain the items Index, Key, Future Log, Monthly Log, Daily Log and Collectives.](Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
 
 Design your journal according to this template.
 
@@ -85,14 +85,14 @@ Many ideas can be implemented in **lists**. The important thing is that you list
 
 **Trackers** are probably the best-known addition to the bullet journal. They help to document regular tasks. There are different types of trackers:
 
-- **Habit Tracker**: Establish new habits and get rid of bad habits. You can find a detailed article on this [here](https://seatable.io/en/habit-tracker-gewohnheiten-aendern/).
+- **Habit Tracker**: Establish new habits and get rid of bad habits. You can find a detailed article on this [here]({{< relref "posts/habit-tracker" >}}).
 - **Mood Tracker**: Record how your mood changes over a longer period of time.
 - **Sleep Tracker**: Monitor your sleep times and how well you slept.
 - **Water Tracker**: Make sure you drink enough water every day to stay healthy.
 
 Another way to put your plans into action is to set **goals**. In conjunction with trackers, you can make your goals measurable and view your progress at any time. Possible goals include, for example, New Year's resolutions such as a savings target or improving your grades.
 
-![A habit tracker is a popular addition to the bullet journal.](images/prophsee-journals-WI30grRfBnE-unsplash-01.jpg)
+![A habit tracker is a popular addition to the bullet journal.](prophsee-journals-WI30grRfBnE-unsplash-01.jpg)
 
 A habit tracker is a popular addition to the bullet journal.
 
@@ -108,7 +108,7 @@ For most people, the main reason to start journaling is the **organizational hel
 
 Your ideas - your bullet journal. It adapts to your **needs** and doesn't have to follow a set pattern. You can use it to organize your daily appointments and tasks. The integrated tools, such as the calendar or the to-do list, are suitable for this. At the same time, you can also get creative and let your imagination run wild in the collections.
 
-![The image shows that it is possible to combine creative content with practical content in the bullet journal.](images/pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
+![The image shows that it is possible to combine creative content with practical content in the bullet journal.](pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
 
 Combine functionality with creativity.
 

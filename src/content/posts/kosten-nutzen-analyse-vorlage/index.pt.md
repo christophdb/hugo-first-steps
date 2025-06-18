@@ -20,13 +20,13 @@ Uma análise custo-benefício, ou ACB, é uma **análise de rentabilidade**. Com
 
 A vantagem aqui é que é possível agrupar todos os **factores e efeitos associados a um investimento** numa única base de dados, para que não se perca a visão geral. Especialmente no caso de [grandes projectos](https://seatable.io/pt/projektstrukturplan-vorlage/), há um grande número de critérios objectivos e subjectivos que afectam a ACB de formas muito diferentes. Um modelo ajuda-o a ter em conta todos estes aspectos.
 
-![Modelo impresso para uma análise custo-benefício.](https://seatable.io/wp-content/uploads/2022/08/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Modelo impresso para uma análise custo-benefício.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 
 Beneficiar de uma análise custo-benefício. Direitos de imagem: amazing studio / Adobe Stock
 
 ## Onde é utilizada a análise custo-benefício?
 
-Quanto maior é um [projeto]({{< relref "templates/projects/project-plan" >}}), maior é normalmente o montante do seu investimento. Enquanto os [custos](https://seatable.io/pt/budgetplanung-vorlage/) de um investimento são geralmente bastante fáceis de determinar, os benefícios específicos são muito mais difíceis de identificar. A razão para tal é que nem o sucesso nem o impacto de uma medida podem ser previstos e quantificados antecipadamente de forma fiável. Além disso, os benefícios de um investimento estão frequentemente sujeitos a uma avaliação subjectiva por parte dos decisores.
+Quanto maior é um [projeto]({{< relref "templates/projects/project-plan" >}}), maior é normalmente o montante do seu investimento. Enquanto os [custos]({{< relref "templates/finance/budget-book" >}}) de um investimento são geralmente bastante fáceis de determinar, os benefícios específicos são muito mais difíceis de identificar. A razão para tal é que nem o sucesso nem o impacto de uma medida podem ser previstos e quantificados antecipadamente de forma fiável. Além disso, os benefícios de um investimento estão frequentemente sujeitos a uma avaliação subjectiva por parte dos decisores.
 
 Uma ACB ajuda a documentar claramente todos os factores possíveis que têm impacto numa decisão empresarial e a avaliá-los de forma objetiva e neutra em todos os departamentos. É vantajoso utilizar uma **base de dados** para o efeito. Afinal, se criar a sua análise custo-benefício utilizando um modelo, todos os envolvidos podem trabalhar na mesma base. Isto significa que não se perdem dados, que os aspectos importantes não são esquecidos e que os factores adicionais que outros departamentos consideram relevantes podem ser facilmente acrescentados.
 
@@ -41,7 +41,7 @@ Basicamente, uma análise custo-benefício é sempre adequada quando se planeiam
 - Introduzir novos processos empresariais
 - pretende aumentar a sua [frota de veículos](https://seatable.io/pt/fuhrparkmanagement/)
 
-![Empregado prepara modelo para análise custo-benefício.](images/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
+![Empregado prepara modelo para análise custo-benefício.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 
 Um funcionário efectua uma análise custo-benefício. Direitos de imagem: Andrey Popov / Adobe Stock
 

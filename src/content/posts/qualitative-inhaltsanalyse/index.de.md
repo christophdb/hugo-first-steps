@@ -24,7 +24,7 @@ Wie genau Sie die Inhaltsanalyse konzipieren sollten, ist abhängig von den Erge
 
 Grundsätzlich gibt es für die Inhaltsanalyse einen **qualitativen** und einen **quantitativen Ansatz**. Welche der beiden Methoden Sie für Ihr Projekt nutzen sollten, können Sie anhand folgender Kriterien entscheiden:
 
-![Es wird aufgezeigt, in welchen Punkten sich die qualitative und quantitative Inhaltsanalyse unterscheiden.](https://seatable.io/wp-content/uploads/2024/02/Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
+![Es wird aufgezeigt, in welchen Punkten sich die qualitative und quantitative Inhaltsanalyse unterscheiden.](Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
 
 Bei der qualitativen Inhaltsanalyse legen Sie Ihren Fokus auf eine **geringe Anzahl** an Inhalten, welche Sie einer tiefgründigen Analyse unterziehen. Hier kommt es auch darauf an, was Sie zum Beispiel bei Interviews zwischen den Zeilen heraushören. Sie arbeiten dementsprechend **induktiv**, führen also eigene Beobachtungen durch und leiten daraus eine neue Hypothese ab. Das Ziel ist es, die Ergebnisse zu verstehen, zu **interpretieren** und auf dieser Grundlage neue theoretische Ansätze zu entwickeln.
 
@@ -42,7 +42,7 @@ Auch im beruflichen Alltag können Sie mithilfe einer Inhaltsanalyse wichtige Da
 
 Die qualitative Inhaltsanalyse mag einem auf den ersten Blick sehr komplex vorkommen. Betrachtet man sie jedoch in ihren Einzelschritten, ist sie einfacher nachzuvollziehen. Im Folgenden wird der grundsätzliche Ablauf einer qualitativen Inhaltsanalyse in acht Schritten und anhand von Beispielen erklärt.
 
-![Wie Sie eine qualitative Inhaltsanalyse durchführen, erfahren Sie hier in acht Schritten.](https://seatable.io/wp-content/uploads/2024/02/Blue-Modern-Data-Analysis-Your-Story-e1709037008610-711x1085.png)
+![Wie Sie eine qualitative Inhaltsanalyse durchführen, erfahren Sie hier in acht Schritten.](Blue-Modern-Data-Analysis-Your-Story-e1709037008610-711x1085.png)
 
 Diese Anleitung hilft Ihnen bei der Durchführung.
 
@@ -76,7 +76,7 @@ In welche Richtung Ihre Analyse gehen soll, richtet sich nach Ihrer Forschungsfr
 
 Handelt es sich bei Ihrem Vorhaben um eine wissenschaftliche Arbeit, müssen Sie Ihre **Forschungsfrage fundiert erklären** können. Dafür sollten Sie diese mit bestehenden Theorien und dem aktuellen Forschungsstand verknüpfen.
 
-![Eine Bibliothek ist ein guter Ort, um Literatur zu finden.](https://seatable.io/wp-content/uploads/2024/03/susan-q-yin-2JIvboGLeho-unsplash-e1709908437533-711x502.jpg)
+![Eine Bibliothek ist ein guter Ort, um Literatur zu finden.](susan-q-yin-2JIvboGLeho-unsplash-e1709908437533-711x502.jpg)
 
 Suchen Sie nach passender Literatur, um Ihr Vorgehen fundiert zu begründen.
 
@@ -109,7 +109,7 @@ Wichtig ist, dass Sie jede Kategorie klar formulieren, damit sie sich von andere
 
 Bevor Sie Ihre qualitative Inhaltsanalyse durchführen können, müssen Sie noch die Analyseeinheiten definieren. Diese legen fest, was Sie später codieren, also in Kategorien einordnen.
 
-![Online-Artikel sind durchstrukturiert, wodurch sie sich einfach in Einheiten aufteilen lassen.](https://seatable.io/wp-content/uploads/2024/03/emiliano-vittoriosi-bmFIX77cXA-unsplash-e1709908751710-711x682.jpg)
+![Online-Artikel sind durchstrukturiert, wodurch sie sich einfach in Einheiten aufteilen lassen.](emiliano-vittoriosi-bmFIX77cXA-unsplash-e1709908751710-711x682.jpg)
 
 Artikel lassen sich durch ihre Strukturierung einfach in Einheiten aufteilen.
 
@@ -162,7 +162,7 @@ Wie zuverlässig ist die Codierung? Werden gleiche Inhalte gleich bewertet und d
 
 Damit Ihre Inhaltsanalyse reibungslos abläuft, finden Sie hier die wichtigsten Fragen, welche Sie sich stellen sollten.
 
-![Diese fünf Fragen sollten Sie sich stellen, wenn Sie eine qualitative Inhaltsanalyse durchführen.](https://seatable.io/wp-content/uploads/2024/03/Green-And-Yellow-Simple-Checklist--e1709905721190-711x513.png)
+![Diese fünf Fragen sollten Sie sich stellen, wenn Sie eine qualitative Inhaltsanalyse durchführen.](Green-And-Yellow-Simple-Checklist--e1709905721190-711x513.png)
 
 Die Checkliste hilft Ihnen dabei, die wichtigsten Punkte Ihrer Analyse im Blick zu behalten.
 

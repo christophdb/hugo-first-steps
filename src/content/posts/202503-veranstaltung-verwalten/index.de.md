@@ -156,7 +156,7 @@ Um Ihr Rahmenprogramm interessanter zu gestalten und sicherzustellen, dass Ihre 
 
 Wenn Sie Veranstaltungen verwalten, spielen Einladungen eine entscheidende Rolle für Ihren Erfolg. Durch die Verwendung personalisierter Einladungen können Sie die Teilnehmerzahl effektiv steigern. Zudem kann das Versenden von “Save the Date”-Benachrichtigungen während der Planungsphase dazu beitragen, das Interesse frühzeitig zu wecken und sicherzustellen, dass Ihre Gäste den Termin freihalten.
 
-Vergessen Sie nicht, in den Einladungen wichtige Informationen wie Datum, Uhrzeit, Ort und Programm zu vermerken. Um den Buchungsprozess für Ihre Gäste zu erleichtern, bietet sich die Integration eines Ticket-Buchungssystems an. Mit einem [Webformular](https://seatable.io/docs/webformulare/webformulare/) im vorgefertigten [Template]({{< relref "templates/events/event-management" >}}) von SeaTable können Sie diesen Schritt einfach umsetzen und ganz automatisiert eine Teilnehmerliste erstellen.
+Vergessen Sie nicht, in den Einladungen wichtige Informationen wie Datum, Uhrzeit, Ort und Programm zu vermerken. Um den Buchungsprozess für Ihre Gäste zu erleichtern, bietet sich die Integration eines Ticket-Buchungssystems an. Mit einem [Webformular]({{< relref "help/base-editor/webformulare" >}}) im vorgefertigten [Template]({{< relref "templates/events/event-management" >}}) von SeaTable können Sie diesen Schritt einfach umsetzen und ganz automatisiert eine Teilnehmerliste erstellen.
 
 ![Einladungen versenden mit SeaTable via Webformular](Einladungskommunikation.jpg)
 
@@ -166,7 +166,7 @@ Damit Ihre Veranstaltung am Ende auch gut besucht wird und sich die Planung eine
 
 Für interne Mitarbeiterevents können Sie beispielsweise Aushänge im Unternehmen, Ankündigungen über den Newsletter oder E-Mail-Einladungen nutzen. Außerdem können Sie Führungskräfte bitten, die Veranstaltung in Teammeetings anzusprechen, damit es sich über den Flurfunk verbreitet.
 
-Bei kommerziellen Veranstaltungen wie Festivals ist eine gezielte Werbung über Social-Media-Plattformen, Anzeigen in relevanten Magazinen sowie der Hinweis auf Ihrer eigenen Website sinnvoll. Planen Sie eine [Kunstausstellung](https://seatable.io/ausstellungs-und-kunstmanagement-museum-galerie/), können Sie auf Plakate, Flyer, Pressemitteilungen und die Einbindung von Kunst- und Kulturmagazinen setzen.
+Bei kommerziellen Veranstaltungen wie Festivals ist eine gezielte Werbung über Social-Media-Plattformen, Anzeigen in relevanten Magazinen sowie der Hinweis auf Ihrer eigenen Website sinnvoll. Planen Sie eine [Kunstausstellung]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}), können Sie auf Plakate, Flyer, Pressemitteilungen und die Einbindung von Kunst- und Kulturmagazinen setzen.
 
 Wichtig ist es, die Werbemaßnahmen rechtzeitig zu starten und die Botschaften ansprechend und informativ aufzubereiten, um das Interesse Ihrer Zielgruppe zu wecken und eine hohe Besucherzahl zu erreichen.
 

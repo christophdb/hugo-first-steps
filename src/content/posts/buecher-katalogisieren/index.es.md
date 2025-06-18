@@ -24,7 +24,7 @@ Cuantos más libros posea, más difícil le resultará hacer un seguimiento de t
 
 ¿Tiene más de una estantería y la ubicación de sus libros está repartida en varias habitaciones? Entonces también es muy útil catalogar sus libros. Con la aplicación de libros adecuada, sabrá exactamente qué libro está en cada lugar y no tendrá que buscarlo cuando lo necesite rápidamente.
 
-![Una mujer cataloga sus libros con una aplicación de libros.](images/buecher-katalogisieren-frau.jpg)
+![Una mujer cataloga sus libros con una aplicación de libros.](buecher-katalogisieren-frau.jpg)
 
 Catalogación de libros © Viktoriia / Adobe Stock
 
@@ -51,7 +51,7 @@ o Google Sheets para organizar sus libros. Aquí también tienes que introducir 
 
 Si quiere catalogar, organizar y gestionar sus libros de forma sensata, debería utilizar una aplicación para libros o una aplicación para bibliotecas. Es rápido, sencillo y no requiere papel ni bolígrafo.
 
-![Un hombre cataloga sus libros en una app.](images/buecher-katalogisieren-mann.jpg)
+![Un hombre cataloga sus libros en una app.](buecher-katalogisieren-mann.jpg)
 
 Catalogación de libros © NDABCREATIVITY / Adobe Stock
 
@@ -77,9 +77,9 @@ Esta aplicación gratuita de libros utiliza numerosas bases de datos en línea c
 
 ### SeaTable
 
-Si desea crear una [lista de inventario](https://seatable.io/es/inventarliste-vorlagen/) para sus libros utilizando tablas sencillas, SeaTable es la herramienta adecuada para usted. Basta con introducir el título correspondiente en una lista, añadir más información sobre el autor y el editor si es necesario y organizarla de forma clara (por ejemplo, por género, estado de lectura o clasificación). ¿Quiere poner su catálogo de libros a disposición de otras personas? Puede hacerlo fácilmente compartiendo sus listas.
+Si desea crear una [lista de inventario]({{< relref "posts/inventarliste-erstellen" >}}) para sus libros utilizando tablas sencillas, SeaTable es la herramienta adecuada para usted. Basta con introducir el título correspondiente en una lista, añadir más información sobre el autor y el editor si es necesario y organizarla de forma clara (por ejemplo, por género, estado de lectura o clasificación). ¿Quiere poner su catálogo de libros a disposición de otras personas? Puede hacerlo fácilmente compartiendo sus listas.
 
-Puede abrir la versión gratuita en la nube de SeaTable directamente en su navegador. [Regístrese]({{< relref "pages/registration" >}}) hoy mismo y comience con nuestra [plantilla gratuita]({{< relref "templates/everyday-life/book-list-library" >}}) para su lista de libros o biblioteca. Por cierto: la herramienta también es adecuada para la [gestión de bibliografía](https://seatable.io/es/literaturverwaltung/) académica.
+Puede abrir la versión gratuita en la nube de SeaTable directamente en su navegador. [Regístrese]({{< relref "pages/registration" >}}) hoy mismo y comience con nuestra [plantilla gratuita]({{< relref "templates/everyday-life/book-list-library" >}}) para su lista de libros o biblioteca. Por cierto: la herramienta también es adecuada para la [gestión de bibliografía]({{< relref "posts/literaturverwaltung" >}}) académica.
 
 ## Tres consejos para catalogar mejor los libros
 
@@ -89,7 +89,7 @@ Independientemente del medio que acabe utilizando, hay tres factores que determi
 2. **Información inteligente**: La información que desea registrar también es importante a la hora de elegir la aplicación adecuada. Es suficiente con el título y el autor o deberían incluirse también otros aspectos como el género, el estado de lectura, etc.?
 3. **Gestión del tiempo**: cuantos más libros tenga, más tiempo tardará en catalogarlos. Para no perder la motivación, planifica más tiempo. Al final, se verá recompensado con una completa biblioteca particular.
 
-![Pila de libros para catalogar en una app de libros.](images/buecher-stapel.jpg)
+![Pila de libros para catalogar en una app de libros.](buecher-stapel.jpg)
 
 Catalogación de libros © Kara / Adobe Stock
 

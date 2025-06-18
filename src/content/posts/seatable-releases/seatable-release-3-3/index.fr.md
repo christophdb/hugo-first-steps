@@ -18,7 +18,7 @@ SeaTable Server 3.3 est disponible depuis ce matin sur SeaTable Cloud. Les auto-
 
 Dans l'éditeur de formulaires web révisé, les "blocs" remplacent les curseurs dans la barre latérale des paramètres. Si l'on fait glisser un tel bloc dans le formulaire et qu'on le "laisse tomber", l'élément correspondant est alors ajouté au formulaire à sa position actuelle. Tous les paramètres du bloc peuvent être modifiés dans la barre latérale. Cela vous semble familier ? C'est vrai ! L'éditeur de formulaire reprend ainsi le design de l'interface utilisateur du plug-in de conception de page.
 
-![Éditeur de formulaires en bloc dans SeaTable 3.3](https://seatable.io/wp-content/uploads/2022/12/Form_Editor_Blockdesign.png)
+![Éditeur de formulaires en bloc dans SeaTable 3.3](Form_Editor_Blockdesign.png)
 
 Les nombreux avantages du design en bloc sont convaincants : les champs du formulaire peuvent être placés dans n'importe quel ordre. L'ordre des champs du formulaire ne doit pas nécessairement correspondre à l'ordre des colonnes dans le tableau. Chaque formulaire peut avoir une séquence de champs individuelle. Bien entendu, tous les blocs du formulaire peuvent être déplacés ultérieurement. Pour échanger l'ordre de deux champs, il suffit de faire glisser le champ inférieur sur le champ supérieur (ou inversement) et vous avez déjà optimisé la séquence. Avec le nouvel éditeur, c'est à vous de décider quels champs vous utilisez dans les formulaires et dans quel ordre.
 
@@ -32,7 +32,7 @@ D'autres améliorations de l'éditeur de formulaires sont encore en cours de dé
 
 ## Des e-mails plus élégants grâce au HTML
 
-![SeaTable 3.3 supporte les e-mails HTML](https://seatable.io/wp-content/uploads/2022/12/HTML_Email_Support.png)
+![SeaTable 3.3 supporte les e-mails HTML](HTML_Email_Support.png)
 
 L'envoi d'e-mails est essentiel pour de nombreux processus commerciaux. SeaTable offre cette possibilité depuis la version 2. Avec cette mise à jour de décembre, la fonction e-mail a été substantiellement améliorée : SeaTable prend désormais en charge les e-mails HTML. Contrairement aux e-mails en texte seul, vous pouvez y insérer des images, des tableaux, des commentaires et d'autres formatages, comme vous le faites par exemple dans des clients de messagerie comme Outlook, Thunderbird ou Apple Mail.
 
@@ -46,7 +46,7 @@ Grâce à la fonction Big Data introduite dans la [version 3.1]({{< relref "post
 
 L'importation de masse se fait directement dans la mémoire Big Data (ou dans le composant dtable-db de SeaTables). Vous pouvez traiter et analyser les données avec toutes les fonctions disponibles dans une vue Big Data. Jusqu'à une limite de 100.000 lignes, vous pouvez également déplacer les lignes importées dans la mémoire normale afin de travailler ensemble en temps réel.
 
-![Importation et exportation de mesures dans le système de stockage de données de SeaTable](https://seatable.io/wp-content/uploads/2022/12/Massimport_BigDataStorage.png)
+![Importation et exportation de mesures dans le système de stockage de données de SeaTable](Massimport_BigDataStorage.png)
 
 Vous pouvez accéder aux nouvelles fonctions d'importation, de mise à jour et d'exportation via les fonctions avancées d'une vue Big Data.
 
@@ -62,7 +62,7 @@ Il existe encore quelques autres améliorations, qui seront présentées ici ind
 
 La mise en forme conditionnelle dans les colonnes peut désormais aussi mettre en évidence les doublons. Si elle est activée, toutes les cellules dont le contenu apparaît deux fois ou plus sous une forme identique dans une colonne sont mises en surbrillance. Avec la mise en forme basée sur des valeurs et des règles, SeaTable propose désormais trois types de mise en forme conditionnelle.
 
-![Nouveaux paramètres de table et de vue dans SeaTable 3.3](https://seatable.io/wp-content/uploads/2022/12/Table_View_Settings.png)
+![Nouveaux paramètres de table et de vue dans SeaTable 3.3](Table_View_Settings.png)
 
 Une troisième option a également été ajoutée dans les paramètres des tableaux et des vues. Il est désormais possible de faire de la création et de la suppression de vues un droit exclusif du propriétaire de la base ou du ou des administrateurs de la base.
 

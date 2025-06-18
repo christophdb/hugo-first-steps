@@ -18,7 +18,7 @@ Farbe und Form der Base-Icons auf der Homepage lassen sich bereits seit der [Ver
 
 In der neuen Version haben wir diese funktionale Lücke beseitigt. Die Farbe des Titelbandes richtet sich nun nach der Farbe des Base-Icons. Sie finden das knallige Blau aus dem Screenshot schick? Na, dann los!
 
-![Base ribbon in custom color](https://seatable.io/wp-content/uploads/2022/04/Colorful_ribbon.png)
+![Base ribbon in custom color](Colorful_ribbon.png)
 
 ## Transparente Kollaboration
 
@@ -26,13 +26,13 @@ Jede Änderung, die Sie in einer SeaTable Base machen, wird unmittelbar an alle 
 
 Aber wer sind denn die anderen Benutzer, die in der Base aktiv sind? SeaTable 2.8 liefert darauf eine klare Antwort. Ein Klick auf das Benutzer-Icon oben rechts im Tabelleneditor öffnet die Liste der aktuellen Benutzer. Wenn ein Benutzer in eine Tabelle hinzukommt oder ein Kollege die Arbeit beendet, dann wird die Liste sofort aktualisiert. Echtzeit-Kollaboration halt!
 
-![Active co-editors in table](https://seatable.io/wp-content/uploads/2022/04/Active_editors.png)
+![Active co-editors in table](Active_editors.png)
 
 ## Einfache Beschreibung von Spalten
 
 Wenn Sie im Team gemeinsam an Tabellen arbeiten, dann vermeiden Ausfüllhinweise die fehlerhafte Erfassung von Daten: Was soll in einer Spalte erfasst werden? In welcher Einheit soll die Erfassung erfolgen? Wie sind Kategorien zu interpretieren? Wer kann Rückfragen beantworten?
 
-![Column descriptions available beginning with SeaTable 2.8](https://seatable.io/wp-content/uploads/2022/04/Column_descriptions.png)
+![Column descriptions available beginning with SeaTable 2.8](Column_descriptions.png)
 
 Für genau diese Art von Informationen sind die Spaltenbeschreibungen gedacht, die in SeaTable 2.8 eingeführt werden. In den Tabellenbeschreibungen lassen sich ergänzende Informationen erfassen, die nicht in die Spaltenüberschrift passen oder dort enthalten sein sollen. Ist für eine Spalte eine Beschreibung erfasst, dann wird im Spaltenkopf ein Info-Icon eingeblendet. Das Darüberfahren mit der Maus blendet die Beschreibung in voller Länge ein.
 
@@ -47,7 +47,7 @@ Neu in SeaTable 2.8 ist nun die Möglichkeit, die Hilfetexte zu formatieren sowi
 Der Editor für formatierten Text wird nicht nur in Webformularen verwendet. Auch in Spalten mit formatiertem Text sowie in Beschreibungen für Bases kommt er zum Einsatz. Mit dem Versionswechsel erfährt der Editor gleich drei Verbesserungen:
 
 Tabellen lassen sich dank eines neuen Assistenten im Nu in den gewünschten Dimensionen einfügen. Dieser öffnet sich mit Klick auf die “Tabelle einfügen” Schaltfläche. Ziehen Sie nun die Tabelle auf das gewünschte Maß auf und klicken Sie ein weiteres Mal. Die Tabelle mit den gewählten Proportionen wird dann an der Cursorposition eingefügt. Bisher fügte SeaTable neue Tabellen grundsätzlich als 2×2-Tabellen ein, die dann klickaufwändig und manuell um weitere Zeilen und Spalten ergänzt werden musste.  
-![New wizard for new tables of custom dimensions](https://seatable.io/wp-content/uploads/2022/04/New_table_wizard.png)
+![New wizard for new tables of custom dimensions](New_table_wizard.png)
 
 Auch die Navigation in Tabellen ist von nun an einfacher. Der Editor unterstützt ab SeaTable 2.8 die Navigation mit TAB und SHIFT + TAB. Der allgemeinen Konvention entsprechend springt der Cursor mit TAB in die nächste Zelle; SHIFT + TAB lässt den Bearbeiter in die vorherige Zelle springen.
 
@@ -57,7 +57,7 @@ Schließlich bietet der Editor in SeaTable 2.8 auch eine bessere Bildvorschau. Z
 
 Ein gemeinsamer Datensatz ist eine Ansicht einer Tabelle, der für eine oder mehrere Gruppen mit Leserechten freigegeben ist. Berechtigte Gruppen können den Datensatz in eigene Bases importieren. Sie erhalten dadurch Zugriff auf die Daten des Datensatzes, ohne dass die freigebende Gruppe die Hoheit über ihre Daten verliert.
 
-![Automatic sync of common datassets](https://seatable.io/wp-content/uploads/2022/04/Automatic_sync.png)
+![Automatic sync of common datassets](Automatic_sync.png)
 
 Bisher konnten die Daten in einem importierten gemeinsamen Datensatz nur manuell aktualisiert werden. In der aktuellen Version kann die Synchronisation der Daten wahlweise auch automatisch erfolgen. Ist die automatische Synchronisation aktiv, wird der Datensatz alle 24 Stunden nach dem letzten Sync-Lauf aktualisiert. Haben sich die Daten in der Ausgangstabelle verändert, dann werden diese Änderungen durch die Synchronisation in die importierte Tabelle übernommen.
 
@@ -72,4 +72,4 @@ Für Spalten und Gruppierungen lässt sich neben der Summe, dem Durchschnitt sow
 Im Seitendesign-Plugin kann die Schriftgröße in Tabellen für verknüpfte Zeilen angepasst werden. Ebenfalls verbessert wurde der Zeilenumbruch in solchen Tabellen.
 
 Bei einer benutzerdefinierten Währungsspalte lässt sich nun neben den Nachkommastellen und dem Währungszeichen auch die Position letzteres frei bestimmen.  
-![Custom currency symbol and position](https://seatable.io/wp-content/uploads/2022/04/Custom_currency_symbol.png)
+![Custom currency symbol and position](Custom_currency_symbol.png)

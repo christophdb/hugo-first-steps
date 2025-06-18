@@ -20,7 +20,7 @@ En este artículo encontrará las respuestas y un resumen de los seis mejores co
 
 Una diferencia importante y crucial entre una estrategia de marketing y una campaña de marketing es el componente temporal. Mientras que una estrategia es un enfoque planificado a largo plazo para alcanzar los objetivos de marketing, una campaña es una acción limitada en el tiempo dentro del marco de la misma estrategia. Por lo tanto, una estrategia puede incluir muchas campañas de marketing y publicidad diferentes durante un largo periodo de tiempo. Esto significa que la planificación y la ejecución de la campaña de marketing siempre tienen lugar bajo el paraguas de la estrategia de marketing.
 
-![El empleado se encarga de planificar la campaña de marketing](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
+![El empleado se encarga de planificar la campaña de marketing](Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
 
 Planificación de una campaña de marketing © Rawpixel / adobe stock
 
@@ -48,9 +48,9 @@ Prácticamente no existen ideas en las que no se haya pensado antes. En otras pa
 
 ### 4\. Defina responsabilidades y plazos claros
 
-Una campaña de marketing y su planificación funcionan mejor cuando todo el mundo sabe lo que tiene que hacer y cuándo. Una vez establecidos los [objetivos del proyecto]({{< relref "templates/projects/project-plan" >}}), el grupo destinatario y el análisis del mercado y la competencia, es hora de formar un equipo, [asignar responsabilidades y tareas](https://seatable.io/projektstrukturplan-vorlage/), fijar plazos e hitos y, lo que es más importante, asignar el [presupuesto](https://seatable.io/budgetplanung-vorlage/).
+Una campaña de marketing y su planificación funcionan mejor cuando todo el mundo sabe lo que tiene que hacer y cuándo. Una vez establecidos los [objetivos del proyecto]({{< relref "templates/projects/project-plan" >}}), el grupo destinatario y el análisis del mercado y la competencia, es hora de formar un equipo, [asignar responsabilidades y tareas](https://seatable.io/projektstrukturplan-vorlage/), fijar plazos e hitos y, lo que es más importante, asignar el [presupuesto]({{< relref "templates/finance/budget-book" >}}).
 
-![El equipo de marketing debate el enfoque de la planificación de la campaña](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
+![El equipo de marketing debate el enfoque de la planificación de la campaña](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
 Planificación de una campaña de marketing © REDPIXEL / adobe stock
 

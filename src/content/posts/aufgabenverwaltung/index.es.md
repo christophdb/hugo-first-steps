@@ -49,7 +49,7 @@ El método Scrum se utiliza para proyectos especialmente complejos en los que no
 **3\. kanban**  
 Seguro que ya has oído hablar de él. Este método funciona especialmente bien con la visualización de tareas, por lo que es muy popular en la gestión de tareas. En este tipo de gestión de tareas, las tareas se mueven de una columna a otra en forma de tarjetas Kanban en un tablero Kanban visual, normalmente de "Abierto" a "Haciendo" y a "Hecho".
 
-Puede ver que los métodos difieren en su enfoque y que algunos pueden ser más adecuados para su proyecto que otros. En todos los casos, sin embargo, necesitas una herramienta de gestión de tareas que te apoye en todas las áreas para completar con éxito tu proyecto. Hay muchos proveedores diferentes, todos con sus ventajas y desventajas. SeaTable tiene la ventaja decisiva de ser un software flexible que no sólo puede cartografiar todo el proyecto, sino también cualquier otro proceso, como [el registro del tiempo](https://seatable.io/es/zeiterfassung-im-unternehmen/), [el CRM](https://seatable.io/es/crm-angebotsmanagement/) o la creación de un plan editorial.
+Puede ver que los métodos difieren en su enfoque y que algunos pueden ser más adecuados para su proyecto que otros. En todos los casos, sin embargo, necesitas una herramienta de gestión de tareas que te apoye en todas las áreas para completar con éxito tu proyecto. Hay muchos proveedores diferentes, todos con sus ventajas y desventajas. SeaTable tiene la ventaja decisiva de ser un software flexible que no sólo puede cartografiar todo el proyecto, sino también cualquier otro proceso, como [el registro del tiempo]({{< relref "posts/arbeitszeiterfassung" >}}), [el CRM]({{< relref "posts/crm-angebotsmanagement" >}}) o la creación de un plan editorial.
 
 Como herramienta de gestión de proyectos, SeaTable es muy flexible y puede **personalizarse para satisfacer todas sus necesidades**. Con SeaTable, puede implicar a sus empleados en el proyecto, simplificar los procesos de trabajo y comunicación y **estructurar su proyecto de principio a fin** con la ayuda de asignaciones y descripciones de tareas claras.
 
@@ -57,7 +57,7 @@ Como herramienta de gestión de proyectos, SeaTable es muy flexible y puede **pe
 
 Como **solución flexible de hoja de cálculo**, SeaTable ofrece un diseño completamente personalizado para su gestión de tareas. Hemos configurado nuestra base con toda la información importante necesaria para un proyecto, como tareas pendientes, responsable, plazo, fecha de inicio y documentos importantes. Se pueden utilizar varios tipos de columnas para personalizar y especificar las entradas. Esto permite crear una nueva línea para cada tarea que surja e introducir la tarea en detalle. Este proceso es comparable a la creación de un ticket, como ocurre en algunos sistemas.
 
-![Cree gestores de tareas para sus proyectos](https://seatable.io/wp-content/uploads/2021/09/Uebersichtn.gif)
+![Cree gestores de tareas para sus proyectos](Uebersichtn.gif)
 
 Casi todos los tipos de columnas pueden utilizarse para una estructuración y evaluación más detalladas. Para una mejor visión de conjunto y clasificación de las tareas, se realizó una doble agrupación por categoría y área de tareas en la tabla "Campaña publicitaria en TV" y una agrupación por área de tareas y prioridad en el proyecto paralelo "Revista de marca". No obstante, las tablas de gestión de tareas también podrían agruparse por empleado o plazo, tal y como usted necesite los datos en cada momento.
 
@@ -73,7 +73,7 @@ SeaTable permite la comunicación directa dentro de las mesas, eliminando la nec
 
 Para una mejor visualización y un manejo más sencillo de la gestión de tareas, el plugin Kanban es justo lo que necesita. El plugin integrado funciona como todas las herramientas estándar de gestión de tareas Kanban y permite mover las tareas de un lado a otro en forma de tarjetas basadas en diversas categorías de categorización, como el estado. Cuando se completa una tarea, la persona responsable puede simplemente mover la tarjeta de "haciendo" a "hecho" y la tarea se marca como completada.
 
-![El tablero Kanban facilita la gestión de las tareas](https://seatable.io/wp-content/uploads/2021/09/Kanban-board-711x457.jpg)
+![El tablero Kanban facilita la gestión de las tareas](Kanban-board-711x457.jpg)
 
 También son concebibles otras categorizaciones, como por ejemplo según paquetes de tareas superiores, por ejemplo el diseño de un sitio web. Esta forma de trabajar es mucho más fácil para muchos, ya que las tareas están claramente estructuradas y visualizadas. Esto también ayuda a poder evaluar un proyecto y el esfuerzo que supone en términos reales. Por ello, estas herramientas son muy populares, sobre todo entre los equipos o empresas más pequeños.
 
@@ -91,16 +91,16 @@ El complemento de la línea de tiempo es una gran ayuda para visualizar el tiemp
 
 Para las vistas individuales del personal, se crean por adelantado sus propias vistas para cada miembro del personal. De esta manera, cada uno ve sus propias tareas en su propia línea de tiempo y sabe cuánto tiempo queda para las tareas individuales. También puede ver el grado de ocupación de sus empleados al planificar las tareas y puede reprogramarlas si la carga de trabajo se distribuye de forma desigual.
 
-![Planifique su lista de tareas para que sea perfecta](https://seatable.io/wp-content/uploads/2021/09/Timeline.gif)
+![Planifique su lista de tareas para que sea perfecta](Timeline.gif)
 
 Al igual que el complemento de la línea de tiempo, el complemento del calendario ofrece una visión temporal de todo el proyecto y de todas las fases de planificación de la gestión de tareas, pero totalmente en estilo calendario. La vista por día, semana, mes, año o en su totalidad en la vista de la agenda permite ver día a día los pasos del proyecto y muestra en qué día hay que hacer. Aquí también es posible la creación de tableros personales de personal sin ningún problema en función de las vistas creadas.
 
-![Visualice su gestión de tareas con el plugin de calendario](https://seatable.io/wp-content/uploads/2021/09/Cal.gif)
+![Visualice su gestión de tareas con el plugin de calendario](Cal.gif)
 
 ## Reciba automáticamente todos los avances del proyecto
 
 Las notificaciones automáticas son muy importantes para que todos los empleados estén siempre al día de sus tareas y de la gestión de las mismas. Por lo tanto, ya no es necesario comprobar obligatoriamente la base para ver si hay novedades. En nuestra plantilla, hemos establecido una regla de notificación que se activa con los cambios en la columna "Responsable". Cuando se asigna una tarea a un empleado, éste recibe una notificación directa y automáticamente.  
-![Tareas completadas en la gestión de tareas](https://seatable.io/wp-content/uploads/2021/09/task-done.jpg)
+![Tareas completadas en la gestión de tareas](task-done.jpg)
 
 Si es necesario obtener información de un colega o del supervisor, basta con asignar la tarea a esta persona; de nuevo, la regla se activa automáticamente y se informa a la persona responsable. Esto elimina la necesidad de enviar correos electrónicos con consultas, comentarios o instrucciones de trabajo. Una vez procesada, la tarea se devuelve a la persona correspondiente para que continúe el flujo de trabajo.
 
