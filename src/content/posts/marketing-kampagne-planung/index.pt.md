@@ -18,7 +18,7 @@ As respostas, assim como uma visão geral das seis melhores dicas práticas para
 
 Uma grande e crucial diferença entre a estratégia de marketing e a campanha de marketing é a componente temporal. Embora a estratégia seja uma abordagem planeada a longo prazo para a realização de objectivos de marketing, a campanha é uma acção limitada no tempo no âmbito desta mesma estratégia. Assim, uma estratégia pode incluir muitas campanhas de marketing ou publicidade diferentes ao longo de um longo período de tempo. Isto significa: o planeamento e a implementação da campanha de marketing têm sempre lugar sob a égide da estratégia de marketing.
 
-![Empregado assume o planeamento da campanha de marketing.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
+![Empregado assume o planeamento da campanha de marketing.](Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
 
 Planeamento da Campanha de Marketing © Rawpixel / adobe stock
 
@@ -48,7 +48,7 @@ Não há praticamente ideias que não tenham sido pensadas antes. Por outras pal
 
 Uma campanha de marketing e o seu planeamento funcionam melhor quando todos sabem o que têm de fazer e quando têm de o fazer. Uma vez estabelecidos os [objectivos do projecto]({{< relref "templates/projects/project-plan" >}}), o grupo-alvo e a análise do mercado/competitor, é uma questão de reunir uma equipa, atribuir [responsabilidades e tarefas](https://seatable.io/pt/projektstrukturplan-vorlage/), estabelecer prazos e marcos e - muito importante - atribuir o [orçamento](https://seatable.io/pt/budgetplanung-vorlage/).
 
-![A equipa de marketing discute o procedimento de planeamento de campanhas.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
+![A equipa de marketing discute o procedimento de planeamento de campanhas.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
 Planeamento da campanha de marketing © REDPIXEL / stock de adobe
 

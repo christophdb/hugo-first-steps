@@ -18,7 +18,7 @@ Sie möchten einen **Workshop planen** oder gar die gesamte **Personalentwicklun
 
 Mitarbeiter sind die kostbarste Ressource eines Unternehmens. Daher liegt es in Ihrem Interesse, Ihre **Human Resources** zu fördern und Ihr Unternehmen dadurch noch wertvoller zu machen. Weiterbildungen, Schulungen und Workshops können Sie demnach als **nachhaltige Investition** in Ihr Unternehmen betrachten. Denn die neuen Skills und das Know-how, das sich Ihre Mitarbeiter aneignen, kommt nicht nur ihnen, sondern auch dem Unternehmen zugute.
 
-![Workshop planen](https://seatable.io/wp-content/uploads/2021/07/Workshops.jpg)
+![Workshop planen](Workshops.jpg)
 
 Je nach Komplexität des Themas und Expertise in Ihrem Unternehmen können Sie entweder **interne Workshops** mit Ihren Mitarbeitern durchführen, externe Fachleute zu einer **Inhouse-Schulung** dazuholen oder **externe Weiterbildungen**, zum Beispiel bei der Agentur für Arbeit, einer IHK oder Akademie, in Anspruch nehmen.
 
@@ -62,7 +62,7 @@ Je nachdem, ob die notwendige Expertise zu einem Thema in Ihrem Unternehmen vorh
 
 Mit dem Seitendesign-Plugin ist es außerdem möglich, mit den in der Tabelle enthaltenen Daten einen **Steckbrief** zu erstellen und diesen im PDF-Format abzuspeichern.
 
-![Mit dem Page Design Plugin erstellen Sie mit wenigen Klicks Trainerprofile](https://seatable.io/wp-content/uploads/2021/07/Coach-profile-711x588.jpg)
+![Mit dem Page Design Plugin erstellen Sie mit wenigen Klicks Trainerprofile](Coach-profile-711x588.jpg)
 
 ## Dauer und Agenda des Workshops festlegen
 
@@ -98,7 +98,7 @@ Je nach Thema des Workshops eignen sich unterschiedliche Methoden und Materialie
 
 Um die **Teilnahme am Workshop zu bescheinigen**, können Sie jedem Teilnehmer ein Zertifikat ausstellen. Mit dem [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) in SeaTable ersparen Sie sich dabei viel Arbeit. Das Plugin verwendet die bereits eingetragenen Informationen in der Tabelle und kann diese für jeden Teilnehmer individuell in das Layout des Teilnahmezertifikats einfügen. Mithilfe einer Schaltfläche können Sie per Knopfdruck personalisierte Dokumente erstellen und im PDF-Format speichern.
 
-![Erstellen Sie Zertifikate ohne Mehraufwand mit dem Page Design Plugin](https://seatable.io/wp-content/uploads/2021/07/Zertifikate.jpg)
+![Erstellen Sie Zertifikate ohne Mehraufwand mit dem Page Design Plugin](Zertifikate.jpg)
 
 ## Feedback zum Workshop einholen und auswerten
 

@@ -46,7 +46,7 @@ Basicamente, todos os utilizadores com permissões de escrita podem editar opç�
 
 O tipo de coluna da caixa de verificação era um pouco difícil de utilizar no dia-a-dia. Provavelmente o assassino de conveniência mais óbvio foi a necessidade de dois cliques para verificar ou desmarcar uma caixa - um para seleccionar a célula, outro para verificar ou desmarcar a caixa. A nova coluna da caixa de verificação é um enorme passo em frente na usabilidade e aparência.
 
-![SeaTable 2.1: Coluna de caixa de verificação melhorada](https://seatable.io/wp-content/uploads/2021/07/cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
+![SeaTable 2.1: Coluna de caixa de verificação melhorada](cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
 
 ## Numerosas melhorias de detalhe
 

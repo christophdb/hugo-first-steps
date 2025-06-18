@@ -20,7 +20,7 @@ Und das ist noch nicht alles! Dank eines großartigen Beitrags aus der Community
 
 ## Spaltentyp #22: Formel für Verknüpfungen
 
-![New column type Link Formula](https://seatable.io/wp-content/uploads/2021/05/Column_type_link_formula.png)
+![New column type Link Formula](Column_type_link_formula.png)
 
 Die Fähigkeit, Beziehungen zwischen Einträgen in unterschiedlichen Tabellen abzubilden, ist eine von SeaTables zentralen Unterscheidungskriterien zu klassischen Tabellenkalkulationen wie Excel und Google Sheets. Während letztere nur Zellreferenzen kennen (z.B. für Formeln), lassen sich in SeaTable 1:1, 1:n und n:m Verknüpfungen zwischen Tabellen in einer Base erstellen.
 
@@ -30,7 +30,7 @@ Mit der neuen Formelspalte für Verknüpfungen lassen sich bestehende Verknüpfu
 
 SeaTable schränkt die Art der Beziehung zwischen Tabellen grundsätzlich nicht ein. In einigen Anwendungsfällen macht es jedoch Sinn, eine 1:1 oder eine 1:n Beziehung zu erzwingen. Ein Bestandsverwaltungssystem ist ein einfaches Beispiel: Ein Beamer kann zu jedem Zeitpunkt nur in einem Raum oder bei einem Ausleiher sein. Ebenso kann eine Testmaschine nicht für mehrere Tests gleichzeitig zur Verfügung stehen.
 
-![New controls for link to other records columns](https://seatable.io/wp-content/uploads/2021/05/More_Controls_over_linked_records.png)
+![New controls for link to other records columns](More_Controls_over_linked_records.png)
 
 Mit SeaTable 2.0 bieten Verknüpfungsspalten nun die Konfigurationsoption “Verknüpfung zu mehreren Zeilen erlauben”. Standardmäßig aktiviert, führt die Deaktivierung des Schalters dazu, dass ein Eintrag in der aktuellen Tabelle nur mit einem einzigen Eintrag in der verknüpften Tabelle verlinkt werden kann. Für die beiden oben genannten Beispiele bedeutet dies: SeaTable stellt sicher, dass man nicht bei mehreren Personen bzw. in mehreren Räumen nach dem Beamer suchen muss und es verhindert, dass die Testmaschine nicht für zwei gleichzeitige Tests eingeplant wird.
 
@@ -40,7 +40,7 @@ Ergänzend zur Konfigurationsoption zur Einschränkung der _Anzahl der verknüpf
 
 SeaTables Webformulare sind unglaublich praktisch für einfache Umfragen. In wenigen Augenblicken ist ein Fragebogen erstellt und fertig gemacht für den Versand. Die Antworten der Umfrageteilnehmer landen in der zugrundeliegenden Base und lassen sich dort mit den diversen Analysewerkzeugen von SeaTable schnell und einfach auswerten.
 
-![New column type Rating](https://seatable.io/wp-content/uploads/2021/05/Column_type_rating.png)
+![New column type Rating](Column_type_rating.png)
 
 Die neue Ratingspalte ist eine ideale Ergänzung für solche Umfragen: “Waren Sie mit unserer Leistung zufrieden?” oder “Würden Sie uns Ihren Freunden empfehlen?” Fünf Sterne lassen keinen Raum für Zweifel; zwei Sterne hingegen bieten viel Raum für Verbesserungen. Der neue Spaltentyp eignet sich aber nicht nur für Kundenzufriedenheitsumfragen. Sie wollen in Ihrem Team über einen neuen Produktnamen abstimmen? Neue Leads verlangen eine schnelle Einschätzung für die Priorisierung? Die Rating-Spalte hilft in all diesen Fällen!
 
@@ -64,7 +64,7 @@ Die Geopositionsspalte speichert Längen- und Breitengradkoordinaten als Komma-s
 
 Es gibt diese Spalten, in denen quasi immer der gleiche Wert eingetragen werden muss, wenn ein neuer Eintrag angelegt wird, z.B. eine Status-Spalte im Projektmanagement oder eine Textspalte mit einer einheitlichen führenden Zeichenfolge. Würde es nicht eine Menge Zeit sparen, wenn diese Werte bei neuen Einträgen automatisch gesetzt werden könnten?
 
-![Default values for columns](https://seatable.io/wp-content/uploads/2021/05/Default_values.png)
+![Default values for columns](Default_values.png)
 
 Weil das genau so ist, erlaubt SeaTable ab der Version 2.0 bei den drei Spaltentypen Text, Zahl und Einfachauswahl die Definition eines Standardwerts. Ist ein solcher definiert, dann wird in einem neuen Eintrag die dazugehörige Zelle automatisch mit dem Standardwert befüllt. Wenn der neue Eintrag die Ausnahme von der Regel ist und der automatisch gesetzte Wert nicht passt, dann kann dieser zu jeder Zeit manuell überschrieben werden.
 

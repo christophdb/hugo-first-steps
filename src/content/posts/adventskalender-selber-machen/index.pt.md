@@ -30,7 +30,7 @@ Se quiser saber de onde vem a tradição do calendário do Advento, clique [aqui
 
 O calendário do Advento deve estar pronto, o mais tardar, a 30 de novembro. O planeamento que se segue ajudá-lo-á a garantir que nada se interpõe no caminho:
 
-![Como planear o seu calendário do Advento em 5 passos.](https://seatable.io/wp-content/uploads/2024/06/Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
+![Como planear o seu calendário do Advento em 5 passos.](Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
 
 Estes passos conduzem ao sucesso.
 
@@ -40,7 +40,7 @@ Seja jovem ou idoso - toda a gente anseia por abrir uma nova porta de manhã com
 
 Ao planear, tenha em conta **para quem** está a preencher o calendário do Advento. Porque nem toda a gente gosta das mesmas coisas.
 
-![As crianças gostam particularmente de abrir uma pequena porta todos os dias.](https://seatable.io/wp-content/uploads/2024/06/pexels-cottonbro-6139608-e1718886096417.jpg)
+![As crianças gostam particularmente de abrir uma pequena porta todos os dias.](pexels-cottonbro-6139608-e1718886096417.jpg)
 
 Quando uma porta se abre, a alegria é muitas vezes grande.
 
@@ -62,7 +62,7 @@ Vamos ao que interessa. A forma como se preenche o calendário do Advento depend
 
 O **calendário do Advento de chocolate** é, sem dúvida, o clássico dos calendários do Advento. Quer se trate de uma simples barra, moldada em forma de Natal ou de um fino praliné - o sabor é convincente! Se quiser fazer feliz alguém que não quer deixar de comer doces durante a época do Advento, pode ir ao encontro do gosto dessa pessoa com guloseimas preparadas por si e fazer o seu próprio calendário do Advento de várias formas.
 
-![Encher um calendário do Advento com chocolate é um clássico.](https://seatable.io/wp-content/uploads/2024/06/markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
+![Encher um calendário do Advento com chocolate é um clássico.](markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
 
 Decorar você mesmo o chocolate torna o calendário do Advento único.
 
@@ -80,7 +80,7 @@ No entanto, comprar 24 especiarias diferentes é dispendioso. Em primeiro lugar,
 
 Para as pessoas artisticamente activas, um **conjunto de trabalhos manuais ou de colorir** montado pelo próprio é ideal. Deixe a criatividade do seu ente querido correr à solta ou dê-lhe um conjunto de instruções de trabalhos manuais que lhe permita trabalhar no projeto um pouco mais todos os dias.
 
-![Faça as crianças felizes, oferecendo-lhes objectos de artesanato.](https://seatable.io/wp-content/uploads/2024/06/rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
+![Faça as crianças felizes, oferecendo-lhes objectos de artesanato.](rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
 
 Não é preciso muito para ser criativo.
 
@@ -97,7 +97,7 @@ Astrid Lindgren
 
 O seguinte aplica-se ao preenchimento de calendários do Advento, especialmente **para crianças**: Quanto mais emocionante, melhor. Prepare para o seu filho algo de que ele goste durante mais tempo. Por exemplo, um puzzle ou um conjunto de Lego em que todos os dias se junta uma parte.
 
-![Os conjuntos Lego também estão disponíveis em forma de calendário do Advento.](https://seatable.io/wp-content/uploads/2024/06/handcraft-8226964_640-e1718624762925.jpg)
+![Os conjuntos Lego também estão disponíveis em forma de calendário do Advento.](handcraft-8226964_640-e1718624762925.jpg)
 
 Dê ao seu filho algo de que ele goste.
 
@@ -115,7 +115,7 @@ O seu presente parecerá particularmente único se o combinar com um objeto simb
 
 Uma mistura de produtos diferentes garante a emoção até ao último segundo.
 
-![24 ideias para preencher o seu calendário do advento.](https://seatable.io/wp-content/uploads/2024/06/Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
+![24 ideias para preencher o seu calendário do advento.](Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
 
 Está tudo na mistura.
 
@@ -136,7 +136,7 @@ Como é que as prendas devem ser embrulhadas? Em primeiro lugar, depende se pref
 
 Se estiver a fazer o seu próprio calendário do Advento e todos os conteúdos (por exemplo, barras de chocolate) tiverem aproximadamente o mesmo tamanho, pode pintar rolos de papel higiénico e utilizá-los como embalagem.
 
-![A embalagem clássica é o saco de papel.](https://seatable.io/wp-content/uploads/2024/06/pexels-nati-87264186-19312001-e1718886187213.jpg)
+![A embalagem clássica é o saco de papel.](pexels-nati-87264186-19312001-e1718886187213.jpg)
 
 A forma mais fácil de embalar é com sacos de papel.
 

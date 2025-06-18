@@ -41,7 +41,7 @@ Una plantilla para tu lista de tareas pendientes también te ayuda a **visualiza
 
 Esta estructura y la certeza de que ningún pensamiento o tarea pendiente se pierde en línea te ayudan a encontrar la **paz interior**. Siempre sabes lo que tienes que hacer en cada momento. Así puedes **concentrarte** plenamente en las tareas que tienes entre manos y bloquear todo lo demás.
 
-![Actividades diarias en una pizarra](https://seatable.io/wp-content/uploads/2024/04/sign-870246_640.jpg)
+![Actividades diarias en una pizarra](sign-870246_640.jpg)
 
 ### Gestionar más fácilmente la comunicación en un equipo
 
@@ -71,7 +71,7 @@ Puedes ordenar las tareas individuales, fijar una fecha límite y marcarlas. Tam
 
 {{< warning headline="Uso gratuito" text="Microsoft To Do está disponible de forma gratuita. Todo lo que necesita es una cuenta Microsoft." />}}
 
-![Aplicación Microsoft To do list en smartphone.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Aplicación Microsoft To do list en smartphone.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
 © sdx15 / Adobe Stock
 
@@ -87,7 +87,7 @@ Con Projoodle, dispones de una aplicación gratuita para listas de tareas fácil
 
 Como usuario de Apple, probablemente ya estés familiarizado con la aplicación Recordatorios. Aquí puedes crear nuevas listas con tantas entradas como quieras, que puedes marcar sin esfuerzo, por ejemplo, cuando vas de compras. También puedes añadir numerosos detalles a cada tarea, como fecha, lugar, prioridad, imágenes y subtareas.
 
-![Recordatorios: Aplicación de listas de tareas para iOS](https://seatable.io/wp-content/uploads/2022/06/Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
+![Recordatorios: Aplicación de listas de tareas para iOS](Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
 
 Los recordatorios pueden clasificarse claramente en cada lista y dividirse en secciones. También hay varias categorías disponibles en la página de inicio, como _hoy_, _planificado_ o _hecho_, en las que terminan todas las entradas aplicables en todas las listas. Puedes utilizar la aplicación Recordatorios de forma gratuita para tus listas de tareas y sincronizarla en todos los dispositivos Apple.
 
@@ -112,7 +112,7 @@ Una vez que te hayas decidido por la herramienta, es hora de crear tu primera li
 - Celebra tus éxitos. Elige una herramienta que te permita **tachar** tareas **o marcarlas como completadas**. Así te sentirás bien.
 - Mantenga en la aplicación no sólo una, sino **al menos tres listas de tareas** en su día a día. Puede clasificarlas por temas, por ejemplo, según aficiones, tareas domésticas y compras. O puedes introducir todas las tareas pendientes con la fecha correspondiente para visualizarlas en una lista mensual, semanal y diaria con distintas vistas.
 
-![El empleado crea una lista de tareas en línea.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
+![El empleado crea una lista de tareas en línea.](To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
 
 Empiece con su propia lista de tareas © Tarokmew / Adobe Stock
 

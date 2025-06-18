@@ -22,7 +22,7 @@ Os guiões do SeaTable são semelhantes aos conhecidos plugins SeaTable (por exe
 
 Muitos utilizadores já conhecem os nossos [modelos cuidadosamente criados](https://seatable.io/pt/docs/templates/). Com a nova versão, é agora ainda mais fácil criar novas bases directamente baseadas nestes modelos, sem o incómodo da cópia manual e dos procedimentos de exportação. Usar um modelo é agora tão fácil quanto possível! Crie uma nova base, seleccione o seu modelo preferido e pronto a usar.
 
-![](https://seatable.io/wp-content/uploads/2020/09/create-from-template.png)
+![](create-from-template.png)
 
 Sempre que criar uma nova base, pode escolher entre três opções: Criar Base Vazia, Criar Base a partir de Arquivo ou Criar Base a partir de Modelo. Esta última opção carrega o [Mercado SeaTable](https://market.seatable.io), onde se pode navegar facilmente através dos modelos disponíveis. Escolha o modelo que melhor lhe convier e o seu conteúdo será copiado directamente para a nova base.
 
@@ -30,11 +30,11 @@ Sempre que criar uma nova base, pode escolher entre três opções: Criar Base V
 
 A função Formatação Condicionada existe no Microsoft Excel e Google Sheets desde tempos imemoriais. A integração desta função no SeaTable estava, portanto, no topo da nossa lista de prioridades. Agora chegou finalmente o momento! Com SeaTable 1.3, a formatação de linhas condicionais está disponível para todos os utilizadores.
 
-![](https://seatable.io/wp-content/uploads/2020/09/row-color-non-modal.png)
+![](row-color-non-modal.png)
 
 A formatação condicional é tão fácil de utilizar como as outras funções de análise de dados de ordenação, agrupamento e filtragem. E também pode ser acedida da mesma forma: através de um ícone nas definições da vista. Clique no ícone "Formatar" e um pequeno assistente ajudá-lo-á a atingir o seu objetivo o mais rapidamente possível.
 
-![](https://seatable.io/wp-content/uploads/2020/09/row-color.png)
+![](row-color.png)
 
 Primeiro selecciona-se como a coloração da linha deve ser determinada. Pode escolher entre formatação de linha através de ligação com uma única coluna de selecção e formatação baseada em regras. Com uma formatação baseada em regras, atribui-se uma cor a cada regra. Se a(s) condição(ões) de uma regra estiver(em) preenchida(s), a célula recebe a cor seleccionada.
 
@@ -42,11 +42,11 @@ Primeiro selecciona-se como a coloração da linha deve ser determinada. Pode es
 
 Tem procurado uma forma de imprimir todos os dados que recolheu e preparou cuidadosamente no SeaTable? Com a nova função de impressão SeaTable, obtém impressões de alta qualidade para as reuniões da sua equipa e clientes, bem como para o trabalho de campo.
 
-![](https://seatable.io/wp-content/uploads/2020/09/print-settings.png)
+![](print-settings.png)
 
 Seleccione a vista que pretende imprimir e clique no ícone de três pontos nas definições de vista. No assistente de impressão que se abre, ajuste os parâmetros às suas necessidades e complete o processo com um trabalho de impressão. O SeaTable torna então a sua vista e transfere o resultado para o gestor de impressão do seu dispositivo. Se preferir trabalhar com o teclado, pode também chamar o assistente de impressão com o atalho de teclado CTRL + P.
 
-![](https://seatable.io/wp-content/uploads/2020/09/compact-row-detail.png)
+![](compact-row-detail.png)
 
 Claro que, para além de tabelas e vistas inteiras, também se pode imprimir os detalhes de uma única fila. Abra os detalhes da fila desejada e clique no ícone de impressão. Com os dois tipos de impressão Normal e Compacto é possível definir o tamanho da impressão.
 
@@ -54,7 +54,7 @@ Claro que, para além de tabelas e vistas inteiras, também se pode imprimir os 
 
 O tipo de coluna Número Automático é uma grande extensão das capacidades da base de dados SeaTable e ajuda-o a manter os seus dados em ordem nas suas tabelas. Em tal coluna, SeaTable gera automaticamente um número de série para cada nova linha.
 
-![](https://seatable.io/wp-content/uploads/2020/09/auto-number.png)
+![](auto-number.png)
 
 Este novo tipo de coluna suporta três formatos de números diferentes:
 

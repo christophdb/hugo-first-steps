@@ -38,7 +38,7 @@ Ensuite, il est important de structurer systématiquement tout le matériel coll
 
 Maintenant que vous avez identifié tous les sujets pertinents pour l'examen, il est temps de les diviser en **paquets d'apprentissage plus petits**. Cela vous permettra d'appréhender et d'assimiler la matière de manière plus efficace. En divisant en unités gérables, vous éviterez de vous sentir submergé par l'abondance du matériel et de perdre votre concentration.
 
-![Créer un plan d'apprentissage : Les pièces électroniques sont éparpillées](https://seatable.io/wp-content/uploads/2024/04/unnamed-file-711x533.jpg)
+![Créer un plan d'apprentissage : Les pièces électroniques sont éparpillées](unnamed-file-711x533.jpg)
 
 Des unités plus petites facilitent l'assimilation et la compréhension.
 

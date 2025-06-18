@@ -30,7 +30,7 @@ La liaison des entrées était encore quelque peu fastidieuse dans la version 1.
 
 La liste déroulante a fait place à un nouvel assistant, riche en détails et sensible au contexte. Un double-clic sur une cellule l'ouvre. Si la cellule est vide, l'assistant affiche les premières colonnes du tableau lié. La confusion quant à l'entrée correcte dans le tableau cible fait désormais partie du passé. En double-cliquant sur une cellule contenant déjà des entrées liées, l'assistant affiche les détails des entrées liées. D'autres entrées peuvent être liées en cliquant sur le bouton "Ajouter un nouveau lien" dans le coin supérieur droit.
 
-![Nouvel assistant pour les colonnes de liens vers d'autres enregistrements](https://seatable.io/wp-content/uploads/2020/10/linking-dialog.png)
+![Nouvel assistant pour les colonnes de liens vers d'autres enregistrements](linking-dialog.png)
 
 Le nouvel assistant simplifie la liaison des tableaux, mais ce n'est pas la seule chose qu'il peut faire. De nouvelles entrées peuvent également être créées dans la table liée directement à partir de l'assistant. Sans tables à langer, sans orgies de clics et sans perte de temps. Avec le nouvel assistant, vous travaillez sur deux tables différentes en même temps.
 
@@ -44,7 +44,7 @@ Imaginez que vous gérez vos actifs informatiques avec SeaTable. Dans le tableau
 
 Une collaboration en ligne efficace n'est pas possible sans une bonne communication au sein de l'équipe. La version 1.4 présente maintenant la solution qui vous permet de rester en contact étroit avec les membres de votre équipe ! Discuter des idées, commenter les nouveaux enregistrements et discuter des changements, tout cela est facilement possible et se produit là où cela doit se produire : directement dans les données.
 
-![Discussion en temps réel dans les commentaires](https://seatable.io/wp-content/uploads/2020/10/comment-chat.png)
+![Discussion en temps réel dans les commentaires](comment-chat.png)
 
 Si vous ne connaissez pas encore la fonction de commentaire, sélectionnez une ligne et appuyez sur la barre d'espacement pour afficher les détails de la ligne. Dans les coins supérieurs droits, vous trouverez la colonne des commentaires. Le backend amélioré de SeaTable informe les utilisateurs des nouveaux commentaires sans délai. Si les utilisateurs sont en ligne, le chat de groupe peut alors commencer. Dans le cas contraire, les utilisateurs sont informés par [notification](https://seatable.io/fr/docs/handbuch/zusammenarbeit/benachrichtigungen/). Échangez vos idées et vos impressions avec vos collègues lorsqu'elles sont fraîches.
 
@@ -56,7 +56,7 @@ Mais Zapier n'était que la première étape. Les Webhooks, introduits avec cett
 
 ## Scripts SeaTable maintenant aussi en Python
 
-![Support de Python dans les scripts SeaTable](https://seatable.io/wp-content/uploads/2020/10/python.png)
+![Support de Python dans les scripts SeaTable](python.png)
 
 Enfin, SeaTable 1.4 offre également une innovation pour les développeurs. Cette fois, ce sont de bonnes nouvelles pour les amateurs de python.
 

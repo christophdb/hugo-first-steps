@@ -16,7 +16,7 @@ Vous allez bientôt fêter votre anniversaire ou vous souhaitez organiser une f�
 
 Il est préférable de planifier les premières étapes d'une fête d'anniversaire environ **huit semaines** à l'avance. Il s'agit d'abord de définir les points essentiels.
 
-![Étape 1 : Le cadre de votre fête d'anniversaire](https://seatable.io/wp-content/uploads/2023/07/Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
+![Étape 1 : Le cadre de votre fête d'anniversaire](Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
 
 ## Planifier une date pour une fête d'anniversaire
 
@@ -50,7 +50,7 @@ L'un des points les plus importants de votre fête est le lieu où vous allez vo
 
 Le choix d'un lieu approprié est souvent un défi, car les possibilités qui s'offrent à vous au départ semblent infinies. Cependant, n'oubliez pas que le lieu doit être adapté non seulement à vos invités, mais aussi aux conditions météorologiques de la **saison** et, le cas échéant, au thème de votre fête. Commencez donc par dresser une liste des critères auxquels le lieu potentiel doit répondre. Pensez également à organiser la fête entre vos quatre murs, en plein air ou dans un lieu public. Vous éviterez ainsi de **louer** un lieu et pourrez répartir votre budget ailleurs. Si vous décidez tout de même d'organiser votre fête dans un lieu extérieur, vous pouvez considérablement limiter le choix en fonction des critères que vous avez établis.
 
-![Des lieux exceptionnels pour une fête d'anniversaire](https://seatable.io/wp-content/uploads/2023/07/marvin-meyer-cjhuXRtRT0Y-unsplash.jpg)
+![Des lieux exceptionnels pour une fête d'anniversaire](marvin-meyer-cjhuXRtRT0Y-unsplash.jpg)
 
 Lieu exceptionnel pour une fête d'anniversaire : louer une maison de vacances pour une pool party.
 
@@ -69,7 +69,7 @@ Les cartes d'invitation bien conçues sont un excellent moyen d'annoncer à l'av
 
 Une fois que les grandes lignes de votre fête d'anniversaire ont été définies, il est temps de s'occuper des détails concrets de votre fête. Une planification en temps utile est particulièrement payante à cette étape. C'est pourquoi, au plus tard un mois avant votre fête, vous devriez vous occuper des choses de base comme la nourriture et la musique.
 
-![Étape 2 : Les détails de votre fête d'anniversaire](https://seatable.io/wp-content/uploads/2023/07/Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
+![Étape 2 : Les détails de votre fête d'anniversaire](Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
 
 ## Planifier les repas pour une fête d'anniversaire
 
@@ -108,7 +108,7 @@ Une fois que vous vous êtes occupé de la restauration, vous devez également v
 
 Si votre lieu dispose d'enceintes sonores, vous pouvez facilement créer vous-même l'ambiance de la fête avec une playlist adaptée. Pour une expérience inoubliable, vous pouvez également faire appel à un groupe de musique live ou à un DJ qui fera monter l'ambiance et fera danser vos invités. Vous avez peut-être aussi un musicien ou un DJ dans votre cercle d'amis et pouvez ainsi économiser les frais d'engagement d'une personne externe.
 
-![Un groupe de musique en direct est le point fort de toute grande fête](https://seatable.io/wp-content/uploads/2023/07/music-hq-Cknyec2RnrE-unsplash.jpg)
+![Un groupe de musique en direct est le point fort de toute grande fête](music-hq-Cknyec2RnrE-unsplash.jpg)
 
 Un groupe de musique en direct est un point fort pour toute grande fête d'anniversaire.
 
@@ -132,7 +132,7 @@ Outre la décoration, vous devez également penser à un équipement suffisant p
 
 Votre fête d'anniversaire approche à grands pas et vous avez déjà réglé tous les détails ? Il est alors grand temps, environ une semaine avant votre fête, de commencer les préparatifs finaux de votre journée inoubliable.
 
-![Étape 3 : Les derniers préparatifs de votre fête d'anniversaire](https://seatable.io/wp-content/uploads/2023/07/1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
+![Étape 3 : Les derniers préparatifs de votre fête d'anniversaire](1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
 
 ### Préparatifs finaux et courses
 

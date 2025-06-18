@@ -19,7 +19,7 @@ In Textspalten lassen sich Strings jeder Art und Länge erfassen und bieten dami
 
 Bei aktivierter Datenvalidierung prüft SeaTable, ob der eingegebene Zellwert dem definierten Zielformat entspricht. Entspricht die Eingabe nicht dem Zielformat, so wird die Zelle rot hervorgehoben. In Webformularen führt eine nicht-konforme Eingabe zu einer Fehlermeldung und das Formular kann nicht eingereicht werden.
 
-![Data validation in SeaTable 3.0](https://seatable.io/wp-content/uploads/2022/06/FormatCheck.png)
+![Data validation in SeaTable 3.0](FormatCheck.png)
 
 Das Zielformat wird in Form eines [regulären Ausdrucks](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) definiert. Ein regulärer Ausdruck für eine Zahlenfolge mit genau 5 Stellen ist beispielsweise \[0-9\]{5}. Für reguläre Ausdrücke sprechen zwei Argumente: Sie sind eine weit verbreitete Methode und bieten ein Maximum an Flexibilität. Die Art der erlaubten Zeichen, die Länge, und auch die Syntax der Eingabe lässt sich mit regulären Ausdrücken präzise definieren.
 
@@ -41,13 +41,13 @@ Die Online-Bearbeitung ist in allen SeaTable Cloud Abonnements verfügbar, inklu
 
 Mit der Funktion Gemeinsame Datensätze lassen sich die Daten aus einer Base in eine oder mehrere andere Bases synchronisieren. Sie sind besonders hilfreich, wenn Sie anderen Benutzern Daten für die Weiterverarbeitung und Anreicherung zur Verfügung stellen wollen, Sie diesen Benutzern aber keine Zugriffsrechte auf die von Ihnen verwalteten Liste (“Masterliste”) geben können. Die Version 3.0 enthält mehrere Verbesserungen, um die Erstellung, Synchronisation und Duplikation von gemeinsamen Datensätzen zu vereinfachen.
 
-![Existing common datasets are displayed in the "New common dataset" dialog](https://seatable.io/wp-content/uploads/2022/06/ExistingCDS.png)
+![Existing common datasets are displayed in the "New common dataset" dialog](ExistingCDS.png)
 
 Ab SeaTable 3.0 werden im Dialog “Neuer gemeinsamer Datensatz” bereits erstellte gemeinsame Datensätze angezeigt. So wird die mehrfache Erstellung von gemeinsamen Datensätzen vermieden.
 
 In der neuen Version werden Spalten, die durch den Import eines gemeinsamen Datensatz erstellt wurden, mit einem Sync-Icon markiert. So lassen sich die Spalten, die bei einem Re-Sync mit dem gemeinsamen Datensatz überschrieben werden, leicht von allen anderen Spalten unterscheiden. Die visuelle Markierung vermindert die Gefahr ungewollten Datenverlusts.
 
-![Columns imported from CDS marked with sync icon](https://seatable.io/wp-content/uploads/2022/06/ColumnIconsCDS.png)
+![Columns imported from CDS marked with sync icon](ColumnIconsCDS.png)
 
 Bei der Duplikation einer Tabelle mit einem importierten gemeinsamen Datensatz wurden bisher nur die Daten dupliziert. Die Verknüpfung mit dem gemeinsamen Datensatz war in der duplizierten Tabelle nicht gegeben, so dass auch kein erneuter Sync möglich war. Die Duplikationsfunktion wurde nun so erweitert, dass Sie über einen Schalter die Verbindung zum gemeinsamen Datensatz entweder in die neu zu erstellende Tabelle übernehmen oder verwerfen.
 

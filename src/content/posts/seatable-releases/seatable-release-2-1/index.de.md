@@ -46,7 +46,7 @@ Grundsätzlich können alle Benutzer mit Schreibrechten Optionen editieren. Eige
 
 Der Spaltentyp Checkbox war in der täglichen Nutzung etwas unhandlich. Der wohl offensichtlichste Komfortkiller war die Notwendigkeit zweier Klicks für das Setzen bzw. Entfernen eines Häkchens – einer um die Zelle zu markieren, ein weiterer um die Box zu aktivieren bzw. deaktivieren. Die neue Checkbox Spalte ist ein riesiger Schritt in Sachen Benutzerfreundlichkeit und Aussehen.
 
-![SeaTable 2.1: Improved checkbox column](https://seatable.io/wp-content/uploads/2021/07/cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
+![SeaTable 2.1: Improved checkbox column](cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
 
 ## Zahlreiche Detailverbesserungen
 

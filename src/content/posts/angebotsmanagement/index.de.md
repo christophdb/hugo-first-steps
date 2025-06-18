@@ -47,7 +47,7 @@ Nach den ersten Gesprächen mit dem potenziellen neuen Kunden, kennen Sie seine 
 - Erstellung eines schriftlichen Angebots
 - Versenden des schriftlichen Angebots an den Kunden
 
-![Mitarbeiterin kalkulliert Preis im Rahmen des Angebotsmanagement](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![Mitarbeiterin kalkulliert Preis im Rahmen des Angebotsmanagement](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
 
 Angebotsmanagement © Antonioguillem / adobe stock
 
@@ -88,7 +88,7 @@ Ein weiterer häufiger Fehler im Angebotsmanagement ist, dass der Verkäufer sic
 
 Zum perfekten Angebotsmanagement gehört auch, dass Sie nach geraumer Zeit nachhaken, sollte der Kunde sich nicht von selbst zurückmelden. So zeigen Sie nicht nur, dass er Ihnen wichtig ist (Thema Kundenbindung), sondern können mögliche Unklarheiten oder Fragen direkt aus dem Weg räumen und das Angebot ggf. nochmals anpassen.
 
-![Vertriebsmitarbeiter telefoniert mit dem potentiellen Kunden im Rahmen seines Angebotsmanagements.](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![Vertriebsmitarbeiter telefoniert mit dem potentiellen Kunden im Rahmen seines Angebotsmanagements.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
 
 Angebotsmanagement © Patrick Daxenbichler / adobe stock
 

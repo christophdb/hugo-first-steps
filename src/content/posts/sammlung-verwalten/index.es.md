@@ -12,7 +12,7 @@ seo:
 
 Sus **colecciones** pueden **gestionarse** de forma óptima mediante programas y aplicaciones digitales. No importa si la colección consiste en objetos físicos o digitales. Entre los coleccionables más populares se encuentran monedas, sellos, zapatos, obras de arte, juguetes, cromos, fichas no fungibles (NFT), [libros](https://seatable.io/es/buecher-katalogisieren/), películas, música (en CD, discos) y mucho más. Cuando la pasión de coleccionista se apodera de uno, el mayor reto suele ser llevar la cuenta de todo. Aquí es donde entran en juego los programas que le permiten gestionar su colección, en su PC o con una aplicación.
 
-![Gestionar la recogida de todos los sellos a través de una herramienta digital.](https://seatable.io/wp-content/uploads/2022/07/Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
+![Gestionar la recogida de todos los sellos a través de una herramienta digital.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
 
 ¿Qué colecciona? © VRD / Adobe Stock
 
@@ -48,7 +48,7 @@ Tienes varias opciones para gestionar tu colección. Existen aplicaciones y prog
 
 Una opción para gestionar las colecciones es [Evernote](https://evernote.com/intl/de). Aquí puedes escribir notas y adjuntar fotos o documentos como recibos de compra de los artículos. También es posible establecer etiquetas para distinguir diferentes colecciones entre sí. Una función de búsqueda ayuda a encontrar elementos de la colección dentro de las notas. Se empieza con una versión gratuita. La versión Personal cuesta 6,99 euros al mes por usuario y la versión Profesional cuesta 8,99 euros.
 
-![Alguien mira la herramienta Evernote para gestionar su colección.](https://seatable.io/wp-content/uploads/2022/06/Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
+![Alguien mira la herramienta Evernote para gestionar su colección.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
 Gestionar colección © monticellllo / Adobe Stock
 

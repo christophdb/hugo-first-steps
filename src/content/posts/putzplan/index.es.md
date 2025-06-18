@@ -15,7 +15,7 @@ Cualquiera que viva con varias personas bajo el mismo techo conoce la situación
 
 Cuando en un hogar conviven muchas personas, es inevitable que surjan desacuerdos. Esto también es cierto cuando se trata del tema de la **limpieza**. No todo el mundo opina que haya que fregar los platos inmediatamente o que sea necesaria una limpieza regular en el baño.
 
-![Los platos sucios se acumulan rápidamente si no hay un plan de limpieza y nadie se siente responsable.](https://seatable.io/wp-content/uploads/2023/08/nathan-dumlao-m0ucB-06v7k-unsplash-1-e1693817126757-711x533.jpg)
+![Los platos sucios se acumulan rápidamente si no hay un plan de limpieza y nadie se siente responsable.](nathan-dumlao-m0ucB-06v7k-unsplash-1-e1693817126757-711x533.jpg)
 
 Los platos sucios se acumulan rápidamente cuando hay desacuerdos sobre la limpieza.
 
@@ -25,7 +25,7 @@ Por eso ayuda sentarse juntos y elaborar un plan conjunto con el que al final to
 
 Ahora vamos al meollo de la cuestión: tú y tus compañeros de casa queréis crear un plan de limpieza, pero no sabéis por dónde empezar... En primer lugar: cada plan debe adaptarse **individualmente** al hogar. Por lo tanto, primero hazte las siguientes preguntas:
 
-![Una primera panorámica de las próximas tareas](https://seatable.io/wp-content/uploads/2023/09/Putzplan-1-711x711.png)
+![Una primera panorámica de las próximas tareas](Putzplan-1-711x711.png)
 
 Una primera panorámica de las próximas tareas
 
@@ -45,7 +45,7 @@ Para tener una idea general de las tareas que hay que hacer, es útil dividirlas
 
 La periodicidad con la que deben realizarse determinadas tareas depende de la intensidad con la que se trabaje en ellas. Si alguien no se esfuerza con una tarea del programa de limpieza, habrá que hacerla más a menudo para conseguir el mismo resultado. No obstante, tenemos una pauta para usted sobre qué tareas deben realizarse y con qué frecuencia si se hacen a conciencia:
 
-![Estas tareas aparecen a intervalos regulares en su programa de limpieza.](https://seatable.io/wp-content/uploads/2023/08/Haeufigkeit-der-Taetigkeiten-fuer-den-Putzplan-711x711.png)
+![Estas tareas aparecen a intervalos regulares en su programa de limpieza.](Haeufigkeit-der-Taetigkeiten-fuer-den-Putzplan-711x711.png)
 
 Estas tareas le llegan a intervalos regulares.
 
@@ -55,7 +55,7 @@ Decidan juntos quién se encargará de cada tarea. Tened en cuenta las rutinas d
 
 Si no es el caso, otra posibilidad es **rotar** las tareas. En este caso, la responsabilidad se cambia semanalmente. Esto suele ser especialmente eficaz porque la carga de trabajo es más o menos la misma para todos después de un ciclo y todos se han responsabilizado ya de todo. Sin embargo, lleva más tiempo hasta que se establece una cierta rutina en el día a día.
 
-![El trabajo en equipo es la clave del éxito de un plan de limpieza.](https://seatable.io/wp-content/uploads/2023/08/pexels-pavel-danilyuk-8763139-1-scaled-e1693817422843-711x498.jpg)
+![El trabajo en equipo es la clave del éxito de un plan de limpieza.](pexels-pavel-danilyuk-8763139-1-scaled-e1693817422843-711x498.jpg)
 
 El trabajo en equipo es la clave del éxito de un plan de limpieza.
 
@@ -65,7 +65,7 @@ Para convencer [de](https://www.stuttgarter-zeitung.de/inhalt.putztipps-fuer-fau
 
 ¿Las tareas están repartidas, pero nadie hace lo que debe? Entonces quizá se deba a la **falta de motivación**. No es de extrañar, porque la limpieza no es una de las actividades favoritas de mucha gente. Sin embargo, para mantener el ritmo de limpieza, puede ser útil encontrar el incentivo adecuado. Combine la tediosa limpieza con escuchar música o ver series.
 
-![Divertirse un poco mientras se limpia facilita mucho la realización de las tareas.](https://seatable.io/wp-content/uploads/2023/08/pexels-rdne-stock-project-5591970-1-711x474.jpg)
+![Divertirse un poco mientras se limpia facilita mucho la realización de las tareas.](pexels-rdne-stock-project-5591970-1-711x474.jpg)
 
 Con un poco de diversión a la hora de limpiar, todo resulta mucho más fácil enseguida.
 

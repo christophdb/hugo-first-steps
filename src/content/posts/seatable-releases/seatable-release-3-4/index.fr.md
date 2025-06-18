@@ -20,7 +20,7 @@ Le plug-in de conception de pages vous permet de transformer les données de vos
 
 Le plug-in de conception de page de SeaTable 3.4 permet pour la première fois le positionnement dynamique des éléments sur la page. En fonction de la longueur des éléments précédents, les éléments suivants se déplacent vers le bas d'une page. Il est ainsi possible d'utiliser le même modèle, qu'une offre contienne un ou une douzaine d'éléments. Les sauts de page et les nouvelles pages sont insérés automatiquement. Vous pouvez personnaliser les marges supérieure et inférieure de la page.
 
-![SeaTable 3.4 - Positionnement dynamique des éléments dans le plugin de conception de pages](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-DynamicPositioningElements.png)
+![SeaTable 3.4 - Positionnement dynamique des éléments dans le plugin de conception de pages](SeaTable-3.4-DynamicPositioningElements.png)
 
 La nouvelle fonction "Adapter automatiquement le tableau au contenu" est disponible pour l'élément d'affichage "Toutes les entrées de la vue" ainsi que pour la représentation tabulaire des liens sous "Champs de tableau". Lorsque la fonction est activée, le caractère de remplacement pour l'élément de tableau (élément encadré en vert dans la capture d'écran) définit la longueur minimale du tableau à insérer. Si le tableau est plus long que le caractère de remplacement, celui-ci est automatiquement rallongé.
 
@@ -32,7 +32,7 @@ Les applications externes de SeaTables permettent de rendre facilement accessibl
 
 Il est maintenant possible d'effectuer des requêtes sur un nombre quelconque de champs. Pour chaque champ, vous pouvez définir s'il s'agit d'un champ obligatoire ou si la saisie est facultative. Pour les champs basés sur du texte, vous pouvez en outre activer une recherche floue et forcer la prise en compte des majuscules et des minuscules. La combinaison des options permet de contrôler la recherche dans une large mesure. Le menu permettant de masquer des colonnes individuelles dans les résultats de recherche ainsi que les options de tri restent inchangés.
 
-![SeaTable 3.4 - Amélioration de l'application de recherche de données](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-DataQueryApp.png)
+![SeaTable 3.4 - Amélioration de l'application de recherche de données](SeaTable-3.4-DataQueryApp.png)
 
 En présence de plusieurs champs de requête, un lien booléen ET s'applique toujours, c'est-à-dire que toutes les valeurs saisies doivent figurer dans les résultats de la recherche. L'appli Data Query reste bien sûr inadaptée aux informations confidentielles, car elle ne nécessite pas d'authentification de l'utilisateur. Une autre app externe, que nous présenterons prochainement, nous permettra de combler cette lacune fonctionnelle.
 
@@ -42,7 +42,7 @@ Dans [SeaTable 3.3]({{< relref "posts/seatable-releases/seatable-release-3-3" >}
 
 L'éditeur de formulaires de SeaTable 3.4 offre la possibilité de définir un nom d'affichage pour chaque élément du formulaire, qui sera ensuite affiché dans le formulaire web au lieu du nom de la colonne. De cette manière, il est possible de nommer les colonnes du tableau indépendamment du formulaire Web : Les noms des colonnes peuvent être courts et concis, tandis que les noms des champs du formulaire peuvent être plus explicites pour faciliter l'utilisation. Cela vous donne encore plus de liberté dans la conception de vos formulaires web.
 
-![SeaTable 3.4 - Nouvel éditeur de liens de formulaires personnalisés](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-FormLinkEditor.png)
+![SeaTable 3.4 - Nouvel éditeur de liens de formulaires personnalisés](SeaTable-3.4-FormLinkEditor.png)
 
 Deux améliorations concernent la capacité de SeaTable à pré-remplir des formulaires web via des paramètres d'URL. Cette fonction existe déjà depuis un certain temps, mais il manquait un moyen convivial de créer et de gérer des liens de formulaire personnalisés, ainsi qu'une option permettant de protéger une valeur pré-remplie contre toute modification par l'utilisateur du formulaire. Nous avons résolu ces deux problèmes dans SeaTable 3.4.
 
@@ -52,7 +52,7 @@ Derrière le bouton "... Plus" de l'éditeur de formulaires se cache une nouvell
 
 Dans les tableaux comportant de nombreuses colonnes, les listes de sélection dans les paramètres d'affichage peuvent devenir très longues et difficiles à gérer. Pour réduire les recherches au minimum, il existe désormais une fonction de recherche et de filtrage dans tous les menus principaux des paramètres d'affichage (Filtrer, Trier, Grouper, Masquer et Formater les lignes). Son utilisation est très simple : il suffit de saisir le nom de la colonne recherchée pour que seule la colonne souhaitée s'affiche. Bien entendu, cela fonctionne également si vous ne saisissez qu'une partie du nom, par exemple si vous n'êtes pas tout à fait sûr du nom de la colonne recherchée. Vous pouvez ensuite sélectionner sans trop d'efforts la colonne nécessaire dans la liste de résultats filtrée.
 
-![SeaTable 3.4 - Filtres dans les paramètres de vue](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-FilterInViewSettings.png)
+![SeaTable 3.4 - Filtres dans les paramètres de vue](SeaTable-3.4-FilterInViewSettings.png)
 
 Comme cette fonction de recherche pratique manquait également dans les colonnes à choix unique et multiple avec de nombreuses options, nous l'avons également intégrée dans ces colonnes. Ainsi, lorsque vous créez de nouvelles options, vous ne devez plus jamais vérifier laborieusement si une option existe déjà ou non.
 
@@ -60,7 +60,7 @@ Comme cette fonction de recherche pratique manquait également dans les colonnes
 
 En jetant un coup d'œil au changelog, vous trouverez encore beaucoup d'autres améliorations que nous ne pouvons pas détailler ici. Seules trois autres améliorations seront brièvement évoquées ici.
 
-![SeaTable 3.4 - Nouvelle fonctionnalité ajouter/doubler des lignes multiples](https://seatable.io/wp-content/uploads/2023/02/SeaTable-3.4-AddMultipleRows.png)
+![SeaTable 3.4 - Nouvelle fonctionnalité ajouter/doubler des lignes multiples](SeaTable-3.4-AddMultipleRows.png)
 
 Le menu contextuel des lignes, accessible par un clic droit dans les tableaux, permet désormais d'insérer plusieurs lignes vides et également de dupliquer plusieurs lignes sélectionnées.
 

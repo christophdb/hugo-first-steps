@@ -41,7 +41,7 @@ Un modèle de liste de choses à faire vous aide en outre à **visualiser** vos 
 
 Cette structure et la certitude qu'aucune pensée ou tâche à faire ne se perd en ligne vous aident à retrouver votre **calme intérieur**. Vous savez toujours ce que vous avez à faire. Vous pouvez donc vous **concentrer** pleinement sur les tâches à accomplir et faire abstraction de tout le reste.
 
-![Activités quotidiennes sur un tableau](https://seatable.io/wp-content/uploads/2024/04/sign-870246_640.jpg)
+![Activités quotidiennes sur un tableau](sign-870246_640.jpg)
 
 ### Gérer plus facilement la communication au sein de l'équipe
 
@@ -71,7 +71,7 @@ Il est possible de trier les différentes tâches à faire, de leur attribuer un
 
 {{< warning headline="Utilisation gratuite" text="Microsoft To Do est disponible gratuitement. Tout ce dont vous avez besoin, c'est d'un compte Microsoft." />}}
 
-![Application Microsoft To do List sur smartphone.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Application Microsoft To do List sur smartphone.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
 © sdx15 / Adobe Stock
 
@@ -87,7 +87,7 @@ Avec Projoodle, vous disposez d'une application gratuite pour les listes de chos
 
 En tant qu'utilisateur Apple, vous connaissez probablement déjà l'application Rappels. Vous pouvez y créer de nouvelles listes avec autant d'entrées que vous le souhaitez, que vous pouvez cocher sans effort - par exemple lorsque vous faites vos courses. En outre, vous pouvez ajouter de nombreux détails à chaque tâche à faire, comme une date, un lieu, une priorité, des images et des sous-tâches.
 
-![Rappels de la journée : Application de liste de choses à faire pour iOS](https://seatable.io/wp-content/uploads/2022/06/Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
+![Rappels de la journée : Application de liste de choses à faire pour iOS](Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
 
 Les rappels peuvent être triés de manière claire dans chaque liste et divisés en sections. De plus, certaines catégories comme _aujourd'hui_, _planifié_ ou _terminé_ sont disponibles sur la page d'accueil, dans lesquelles atterrissent toutes les entrées qui s'appliquent à toutes les listes. Vous pouvez utiliser gratuitement l'application Rappels pour vos listes de choses à faire et les synchroniser sur tous les appareils Apple.
 
@@ -112,7 +112,7 @@ Une fois le choix de l'outil arrêté, il s'agit d'établir votre première list
 - Célébrez vos réussites. Choisissez un outil qui vous permet de **cocher** les tâches **ou de les marquer comme terminées**. Vous vous sentirez ainsi plus à l'aise.
 - Au quotidien, ne tenez pas seulement une, mais **au moins trois listes de choses à faire** dans l'application. Vous pouvez les classer par thème, par exemple en fonction des loisirs, des activités ménagères et des achats. Ou bien vous inscrivez toutes les tâches dans un backlog avec la date correspondante, afin de présenter les tâches dans une liste mensuelle, hebdomadaire et quotidienne grâce à différentes vues.
 
-![L'employé établit une liste de choses à faire en ligne](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
+![L'employé établit une liste de choses à faire en ligne](To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
 
 Commencez par établir votre propre liste de choses à faire © Tarokmew / Adobe Stock
 

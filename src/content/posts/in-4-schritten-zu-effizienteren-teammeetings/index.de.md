@@ -54,7 +54,7 @@ Wir haben unser Template schlicht und unkompliziert aufgebaut. Sie finden in ein
 
 Mit der Datumsspalte können Sie im nächsten Schritt festlegen, an welchem Tag und welcher Uhrzeit das Meeting beginnt, und wann es enden soll. Die darauffolgende Formelspalte berechnet die Dauer des Meetings automatisch, damit alle auf einen Blick wissen, wie viel Zeit sie einplanen müssen. In der Spalte “Employees” legen Sie alle Mitarbeiter fest, die am Meeting teilnehmen sollen. Alle Mitarbeiter bekommen dann eine automatische Benachrichtigung, was wir weiter unten noch genauer erklären.
 
-![Teammeetings mit SeaTable verwalten](https://seatable.de/wp-content/uploads/2021/10/Overview-Teammeeting.png)
+![Teammeetings mit SeaTable verwalten](Overview-Teammeeting.png)
 
 Im nächsten Schritt legen Sie den Raum fest, in dem das Meeting stattfindet. Die Räume sind farblich klar voneinander getrennt, sodass leicht erkennbar ist, wo man sich trifft. In der nächsten Spalte ist ein besonders wichtiger Teil der Vor- und Nachbereitung abgebildet: Die Agenda. Da SeaTable auch gleichzeitig eine Datenbank ist, können alle Themen, Dateien und Protokolle direkt an Ort und Stelle abgelegt und synchron bearbeitet werden. Jeder Nutzer, der berechtigt ist, kann mit anderen Nutzern gleichzeitig in der Base arbeiten und beispielsweise wichtige Themen eintragen.
 
@@ -64,7 +64,7 @@ Die Agenda hilft außerdem dabei, sich entsprechend auf das Meeting vorzubereite
 
 ### Chat-Funktion erleichtert die Kommunikation
 
-![Die Chat-Funktion macht E-Mails überflüssig ](https://seatable.io/wp-content/uploads/2021/10/Chat-Funktion.png)
+![Die Chat-Funktion macht E-Mails überflüssig ](Chat-Funktion.png)
 
 Die [Chat-Funktion](https://seatable.io/docs/handbuch/zusammenarbeit/kommentare/) in jeder Zeile, also in jedem einzelnen Teammeeting, ermöglicht eine unkomplizierte und schlanke Kommunikation, die jegliche E-Mails erübrigen. Beim Öffnen einer Zeile (Klicken auf die kleinen blauen Pfeilchen links in der Zeile) öffnet sich eine Gesamtansicht des Meetings. Rechts darin befindet sich der Chat, indem Sie einfach Mitarbeiter hinzufügen und wichtige Nachrichten schreiben können, wie zum Beispiel dass Mitarbeiter Müller bitte die Zwischenpräsentation mit dem Jahresrückblick hochladen soll.
 
@@ -76,7 +76,7 @@ Mit SeaTable können Sie Ihre kompletten Teammeetings an einem zentralen Ort abb
 
 Das Erstellen verschiedener Ansicht ist einer der praktischen Vorteile von SeaTable gegenüber anderen Tabellenkalkulationen.
 
-![Eigene Ansichten ermöglichen mehr Ordnung](https://seatable.io/wp-content/uploads/2021/10/Ansichten.png)
+![Eigene Ansichten ermöglichen mehr Ordnung](Ansichten.png)
 
 Erstellen Sie so viele Ansichten, wie Sie möchten, und gestalten Sie sie genau so, wie Sie die Daten gerade brauchen. Dabei ändern sich die Einstellungen in der ursprünglichen Ansicht nicht. Ein Datensatz, aber hunderte von Darstellungsmöglichkeiten: Das geht mit SeaTable.
 
@@ -88,11 +88,11 @@ Die Ansichten sind für das Kalender-Plugin noch wichtig und werden gleich gebra
 
 SeaTable ist auch mit einem Kalender-Plugin ausgestattet. Hier können Termine jeglicher Art integriert werden, um einen guten Überblick zu behalten. Für die allgemeine Meeting-Ansicht können Sie im Kalender-Plugin einfach diese Ansicht auswählen und alle Parameter passend auf Ihre Bedürfnisse einstellen.
 
-![Im Kalender sind alle Meetings zu sehen](https://seatable.de/wp-content/uploads/2021/10/Calendar.png)
+![Im Kalender sind alle Meetings zu sehen](Calendar.png)
 
 Die Räume haben wir deshalb in Single-Select-Spalten kategorisiert, da wir hier verschiedene Farben je Raum einstellen können. Im Kalender-Plugin hat dies den Vorteil, dass die verschiedenen Teammeetings farblich genau nach dem Raum-Farbschema dargestellt werden können. Wenn Sie zum Beispiel am 20.10. noch ein weiteres Meeting um die gleiche Uhrzeit erstellen wollen, sehen Sie direkt, dass es nicht im blauen Meetingraum stattfinden darf.
 
-![Ansichten im Kalender](https://seatable.io/wp-content/uploads/2021/10/Calendar-1.png)
+![Ansichten im Kalender](Calendar-1.png)
 
 Im Plugin kommen nun die erstellten Ansichten zum Einsatz. Dafür wählen Sie einfach die Ansicht des Mitarbeiters oder des Raums aus, die im Kalender dargestellt werden soll. So bekommt jeder Mitarbeiter auch seine eigene Kalender-Ansicht, in der alle seine Meetings eingetragen sind. Dasselbe gilt für die Raumübersicht: Mit einem Filter wurde bei der Raumansicht EG R002 nur solche Termine angezeigt, die in diesem Raum stattfinden. Um bei der Planung eines Meetings einen freien Raum  zu finden, kann über die Ansicht direkt ein Termin erstellt und gebucht werden.
 

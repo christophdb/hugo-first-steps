@@ -20,7 +20,7 @@ Heute Morgen haben wir die SeaTable Cloud auf Version 4.0 aktualisiert. Alle Sel
 
 Nichts ist verbindlicher als eine Unterschrift – ob unter Verträgen, auf Urkunden oder in Briefen. In SeaTable können Sie all diese Dokumente erstellen. Was liegt also näher als handschriftliche Signaturen mit SeaTable zu digitalisieren? Die neue Signatur-Spalte macht es möglich! Speichern Sie Ihre digitale Unterschrift einfach, indem Sie in einer Zelle dieser besonderen Bild-Spalte schwungvoll mit der Maus oder auf Geräten mit Touchscreen mit einem Stift oder Finger unterschreiben.
 
-![Add a signature in a signature column](https://seatable.io/wp-content/uploads/2023/06/Add-a-signature-in-a-signature-column.gif)
+![Add a signature in a signature column](Add-a-signature-in-a-signature-column.gif)
 
 Dies ermöglicht Workflows für Mitarbeiter- wie Kundenprozesse, die Sie in SeaTable bislang nicht abbilden konnten: Mit einem eingefügten Signatur-Feld können Sie z. B. Urlaubsanträge oder Anmeldungen zu Seminaren in [Webformularen](https://seatable.io/docs/webformulare/webformulare/) und [Universal Apps](https://seatable.io/docs/apps/universelle-app/) von den Ausfüllenden unterschreiben lassen. Ebenso können Kunden einem Monteur die Ausführung von Leistungen vor Ort bestätigen. Über das [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) lassen sich die Signaturen einfach in Dokumente einfügen, die dann als E-Mail-Anhang versandt werden können. Die nahtlose Integration des neuen Spaltentyps schafft viele Möglichkeiten, Prozesse verbindlicher zu gestalten.
 
@@ -30,11 +30,11 @@ Das Dateimanagement in SeaTable 4.0 revolutioniert die Arbeit mit Dateien in Ihr
 
 Der Dateimanager, der sich über das Drei-Punkte-Icon oben rechts in der Base aufrufen und der Toolbar hinzufügen lässt, präsentiert sich in einer denkbar vertrauten Form: Rechts die Dateien und Ordner, links die Navigation – Benutzer werden sich sofort zu Hause fühlen.
 
-![Dateien aus dem Dateimanagement per Drag-and-drop in eine Dateispalte ziehen](https://seatable.io/wp-content/uploads/2023/06/dateien-aus-dem-dateimanagement-per-drag-and-drop-in-eine-dateispalte-ziehen.gif)
+![Dateien aus dem Dateimanagement per Drag-and-drop in eine Dateispalte ziehen](dateien-aus-dem-dateimanagement-per-drag-and-drop-in-eine-dateispalte-ziehen.gif)
 
 Bestehende Dateien lassen sich im Dateimanager umbenennen, kopieren, verschieben, herunterladen und löschen. Neue Office-Dokumente lassen sich ebenfalls erstellen und direkt über den integrierten Editor bearbeiten. Kinderleicht können Sie nun Dateien und Ordner von Ihrem Gerät hochladen oder per Drag-and-Drop in die Dateiverwaltung einfügen. Per Drag-and-Drop lassen sich auch Dateien aus dem Dateimanager in die Zellen passender Tabellenspalten ziehen und damit Datensätzen zuordnen. Um dafür maximalen Raum zu bieten, lässt sich der Dateimanager in der Größe verändern und als Seitenleiste anheften.
 
-![Ordnerstruktur im Dateimanagement](https://seatable.io/wp-content/uploads/2023/06/Ordnerstruktur-im-Dateimanagement-2.png)
+![Ordnerstruktur im Dateimanagement](Ordnerstruktur-im-Dateimanagement-2.png)
 
 Die Systemordner hängen mit der Struktur der Base zusammen und enthalten Bilder, Dateien und Signaturen aus den jeweiligen Spalten sowie die Konfigurationsdateien von Apps und Webformularen. In den eigenen Ordnern können Sie Dateien unabhängig davon in individuellen Ordnern ablegen und organisieren. Die Dateien stehen dann in Python-Skripten und anderen Funktionen wie Webformularen oder dem Seitendesign-Plugin zur Verfügung; teilweise werden diese Integrationen aber erst in den kommenden Versionen abgeschlossen.
 
@@ -46,7 +46,7 @@ Apropos Dateimanagement: Wenn Sie viele große Dateien (z. B. Bilder und Videos)
 
 Die Integration von Seafile in SeaTable könnte kaum einfacher sein: Generieren Sie über das Seafile Webinterface einen API-Token für eine Seafile Bibliothek, legen Sie ein neues Drittanbieterkonto in SeaTable an und fügen Sie den Token dort ein (siehe Abbildung). Nach erfolgreicher Verknüpfung erscheint die Seafile Bibliothek in der Dateiverwaltung.
 
-![Erleichterte Seafile Integration für große Datenmengen](https://seatable.io/wp-content/uploads/2023/06/verbesserte-integration-mit-seafile-release-notes.png)
+![Erleichterte Seafile Integration für große Datenmengen](verbesserte-integration-mit-seafile-release-notes.png)
 
 Verbinden lassen sich grundsätzlich gehostete wie selbstgehostete Seafile Server. [Wenden Sie sich gern an unser Sales Team]({{< relref "pages/contact" >}}), wenn Sie einen Seafile Server selbst hosten wollen. Für SeaTable Dedicated Kunden bieten wir ein Seafile Co-Hosting an.
 
@@ -54,7 +54,7 @@ Verbinden lassen sich grundsätzlich gehostete wie selbstgehostete Seafile Serve
 
 SeaTable bietet Ihnen vielfältige Möglichkeiten zur [statistischen Datenanalyse](https://seatable.io/docs/seatable-nutzen/statistiken/) und deren grafischer Aufbereitung. Bisher hatten Sie dafür sowohl ein Statistik-Modul mit Basisfunktionen als auch das Erweiterte-Statistiken-Plugin zur Hand. Letzteres rückt in SeaTable 4.0 an die Stelle, wo vorher das Basis-Modul war, sodass Sie kein Plugin mehr einrichten müssen. Die gesamte Statistik-Power von SeaTable ist nun in einem starken Tool gebündelt, das Sie über die Schaltfläche „Statistiken“ im Base-Header mit einem Klick erreichen.
 
-![Statistik-Plugin und Statistik-Modul verschmelzen zu einem Tool](https://seatable.io/wp-content/uploads/2023/06/erweitertes-statistik-plugin-release-notes.gif)
+![Statistik-Plugin und Statistik-Modul verschmelzen zu einem Tool](erweitertes-statistik-plugin-release-notes.gif)
 
 Alle von Ihnen bereits erstellten Grafiken und Diagramme – egal ob im Statistik-Modul oder im Erweiterte-Statistiken-Plugin – bleiben natürlich erhalten und werden automatisch auf das neue Dashboard verschoben.
 
@@ -62,7 +62,7 @@ Alle von Ihnen bereits erstellten Grafiken und Diagramme – egal ob im Statisti
 
 Der [Universal App Builder](https://seatable.io/docs/apps/universelle-app/) (Beta) erfreut sich großer Beliebtheit, unser Entwicklungsteam arbeitet auf Hochtouren am Feinschliff und die Ergebnisse können sich sehen lassen! Alle [Seitentypen](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/) haben nun ein einheitliches Layout und bieten in den Dateneinstellungen die Spaltensuchfunktion, die man schon aus den Bases kennt. Außerdem unterstützen nun alle Seitentypen den [Filter „Ist ID des angemeldeten Benutzers“](https://seatable.io/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/). Ein Schwerpunkt der Entwicklungsarbeit lag auf der individuellen Seite, deren Bedienung wir deutlich verbessert haben. Fehler in Diagrammen haben wir ebenfalls behoben. Die anderen Seitentypen kamen indes nicht zu kurz. Für die Webformular-, Kanban- und Timeline-Seite wurde die Spaltenunterstützung optimiert. Ein Highlight des Universal App Builders in SeaTable 4.0 ist der neue Seitentyp „Abfrage“, der die Funktionalität der [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/) in die Universal App integriert.
 
-![Die Universelle App](https://seatable.io/wp-content/uploads/2023/06/SeaTable_Universal-App.png)
+![Die Universelle App](SeaTable_Universal-App.png)
 
 In den Versionen 4.1 und 4.2 werden noch weitere Funktionen ergänzt, die in den Bases bereits etabliert sind. Dazu gehören beispielsweise die bedingte Formatierung und die variable Zeilenhöhe. Dann wird auch die Beta-Phase des Universal App Builders enden.
 
@@ -70,7 +70,7 @@ In den Versionen 4.1 und 4.2 werden noch weitere Funktionen ergänzt, die in den
 
 Auch die kleinen Errungenschaften in SeaTable machen das Leben schöner: Die Ordner auf der Startseite öffnen sich neuerdings in einem separaten Fenster, wodurch Sie einen besseren Überblick über die dort einsortierten Bases gewinnen.
 
-![Neue Ordner-Ansicht auf der Startseite](https://seatable.io/wp-content/uploads/2023/06/ordner-auf-der-startseite-release-notes.gif)
+![Neue Ordner-Ansicht auf der Startseite](ordner-auf-der-startseite-release-notes.gif)
 
 Eine Zeile sperren – mit einer Automatisierungsregel oder manuell über das Zeilen-Kontextmenü war dies bereits seit Längerem für Enterprise-Nutzer möglich. Nun erhält auch die [Schaltflächen-Spalte](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) „Zeile sperren“ als neue Aktion. Nutzen Sie diese in Kombination mit den anderen sieben Aktionen, um komplexe Abläufe einfach per Mausklick zu erledigen. Darüber hinaus haben wir die Aktion „Zeile bearbeiten“ um dynamische Datumswerte ergänzt und die Anzeige von Auswahloptionen dort verbessert.
 

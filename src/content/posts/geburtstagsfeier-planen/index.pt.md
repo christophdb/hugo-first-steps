@@ -16,7 +16,7 @@ Sie feiern demnächst Ihren Geburtstag oder wollen für Ihre Liebsten eine Gebur
 
 Die ersten Schritte für eine Geburtstagsfeier planen Sie am besten etwa **acht Wochen** im Voraus. Dabei geht es zunächst darum, die grundlegenden Eckpunkte festzulegen.
 
-![Schritt 1: Die Rahmenbedingungen Ihrer Geburtstagsfeier](https://seatable.io/wp-content/uploads/2023/07/Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
+![Schritt 1: Die Rahmenbedingungen Ihrer Geburtstagsfeier](Schritt-1-Die-Rahmenbedingungen-Ihrer-Geburtstagsparty-711x596.png)
 
 ## Termin für eine Geburtstagsfeier planen
 
@@ -50,7 +50,7 @@ Einer der wichtigsten Punkte Ihrer Party ist die Location, an der Sie es mit Ihr
 
 Die Auswahl einer passenden Location stellt sich oftmals als herausfordernd heraus, da Ihnen zu Beginn scheinbar unendliche Möglichkeiten offenstehen. Berücksichtigen Sie dabei jedoch, dass die Location nicht nur zu Ihren Gästen, sondern auch zu den Wetterbedingungen der **Jahreszeit** und ggf. zum Motto Ihrer Party passen sollte. Stellen Sie daher zunächst eine Liste mit Kriterien auf, die der potenzielle Veranstaltungsort erfüllen muss. Denken Sie auch darüber nach, die Party in den eigenen vier Wänden, im Freien oder an einem öffentlichen Ort steigen zu lassen. So sparen Sie sich die **Miete** einer Location und können Ihr Budget anderweitig verteilen. Falls Sie sich dennoch für einen externen Veranstaltungsort entscheiden, können Sie die Auswahl anhand Ihrer aufgestellten Kriterien erheblich einschränken.
 
-![Außergewöhnliche Locations für eine Geburtstagsfeier](https://seatable.io/wp-content/uploads/2023/07/marvin-meyer-cjhuXRtRT0Y-unsplash.jpg)
+![Außergewöhnliche Locations für eine Geburtstagsfeier](marvin-meyer-cjhuXRtRT0Y-unsplash.jpg)
 
 Außergewöhnliche Location für eine Geburtstagsfeier: ein Ferienhaus für eine Poolparty mieten.
 
@@ -69,7 +69,7 @@ Liebevolle Einladungskarten bieten Ihnen eine tolle Möglichkeit, nicht nur den 
 
 Sobald die Eckpunkte Ihrer Geburtstagsfeier geklärt sind, ist es Zeit, sich um die konkreten Einzelheiten Ihrer Party zu kümmern. Eine rechtzeitige Planung zahlt sich in diesem Schritt besonders aus. Daher sollten Sie sich spätestens einen Monat vor Ihrer Party um grundlegende Dinge wie Verpflegung und Musik kümmern.
 
-![Schritt 2: Die Einzelheiten Ihrer Geburtstagsfeier](https://seatable.io/wp-content/uploads/2023/07/Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
+![Schritt 2: Die Einzelheiten Ihrer Geburtstagsfeier](Schritt-2-Die-Einzelheiten-Ihrer-Party-711x596.png)
 
 ## Verpflegung für eine Geburtstagsfeier planen
 
@@ -108,7 +108,7 @@ Nachdem Sie sich um die Verpflegung gekümmert haben, sollten Sie sich zeitnah a
 
 Wenn Ihre Location über klangvolle Lautsprecher verfügt, können Sie ganz einfach selbst mit einer passenden Playlist für Partylaune sorgen. Für ein unvergessliches Erlebnis können Sie aber auch eine Live-Band oder einen DJ beauftragen, der die Stimmung anheizt und Ihre Gäste zum Tanzen animiert. Vielleicht haben Sie ja auch einen Musiker oder einen DJ im Freundeskreis und können sich die Kosten für das Engagieren einer externen Person sparen.
 
-![Eine Live-Band ist ein Highlight für jede große Party](https://seatable.io/wp-content/uploads/2023/07/music-hq-Cknyec2RnrE-unsplash.jpg)
+![Eine Live-Band ist ein Highlight für jede große Party](music-hq-Cknyec2RnrE-unsplash.jpg)
 
 Eine Live-Band ist ein Highlight für jede große Geburtstagsfeier.
 
@@ -132,7 +132,7 @@ Neben der Dekoration sollten Sie bei einer Feier, die nicht in einer Gaststätte
 
 Ihre Geburtstagsfeier rückt immer näher und Sie haben bereits alle Details geklärt? Dann ist es etwa eine Woche vor Ihrer Party höchste Zeit, mit den finalen Vorbereitungen für Ihren unvergesslichen Tag zu beginnen.
 
-![Schritt 3: Die letzten Vorbereitungen für Ihre Geburtstagsfeier](https://seatable.io/wp-content/uploads/2023/07/1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
+![Schritt 3: Die letzten Vorbereitungen für Ihre Geburtstagsfeier](1-5-10-Tage-vor-Ihrer-Party-Abschliessende-Vorbereitungen-und-Besorgungen-2-1-5-Tage-vor-Ihrer-Party-Finaler-Check-1-711x596.png)
 
 ### Abschließende Vorbereitungen und Besorgungen
 

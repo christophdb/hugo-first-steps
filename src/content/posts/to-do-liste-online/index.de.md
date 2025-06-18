@@ -42,7 +42,7 @@ Eine Vorlage für Ihre To do Liste hilft Ihnen außerdem dabei, Ihre Aufgaben zu
 
 Diese Struktur und die Gewissheit, dass online keine Gedanken oder To-dos verloren gehen, verhilft Ihnen zu **innerer Ruhe**. Ihnen ist immer klar, was Sie gerade zu erledigen haben. Sie können sich also voll und ganz auf die jeweiligen Aufgaben **konzentrieren** und alles andere ausblenden.
 
-![Tägliche Tätigkeiten auf einer Tafel](https://seatable.io/wp-content/uploads/2024/04/sign-870246_640.jpg)
+![Tägliche Tätigkeiten auf einer Tafel](sign-870246_640.jpg)
 
 ### Kommunikation im Team leichter managen
 
@@ -72,7 +72,7 @@ Die einzelnen To-dos können Sie sortieren, mit einer Frist versehen und abhaken
 
 {{< warning headline="Kostenlose Nutzung" text="Microsoft To Do ist kostenlos erhältlich. Alles, was Sie brauchen, ist ein Microsoft Account." />}}
 
-![Microsoft To do Liste App auf Smartphone.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Microsoft To do Liste App auf Smartphone.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
 © sdx15 / Adobe Stock
 
@@ -88,7 +88,7 @@ Mit Projoodle erhalten Sie eine kostenlose App für To do Listen, die einfach zu
 
 Als Apple Nutzer kennen Sie wahrscheinlich bereits die Erinnerungen-App. Hier können Sie neue Listen mit beliebig vielen Einträgen anlegen, die Sie mühelos – zum Beispiel beim Einkaufen – abhaken können. Darüber hinaus können Sie zu jedem To-do zahlreiche Details wie ein Datum, einen Ort, eine Priorität, Bilder und Unteraufgaben hinzufügen.
 
-![Erinnerungen: To do Liste App für iOS](https://seatable.io/wp-content/uploads/2022/06/Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
+![Erinnerungen: To do Liste App für iOS](Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
 
 Die Erinnerungen lassen sich in jeder Liste übersichtlich sortieren und in Abschnitte einteilen. Zudem sind auf der Startseite einige Kategorien wie _heute_, _geplant_ oder _erledigt_ verfügbar, in denen listenübergreifend alle zutreffenden Einträge landen. Die Erinnerungen-App können Sie kostenlos für Ihre To-do-Listen verwenden und auf allen Apple Geräten synchronisieren.
 
@@ -113,7 +113,7 @@ Wenn die Wahl des Tools feststeht, geht es an die Erstellung Ihrer ersten To do 
 - Feiern Sie Ihre Erfolge. Wählen Sie ein Tool, mit dem Sie Aufgaben **abhaken oder als erledigt markieren** können. Das gibt Ihnen ein gutes Gefühl.
 - Führen Sie im Alltag nicht nur eine, sondern **mindestens drei To-do-Listen** in der App. Diese können Sie thematisch zum Beispiel nach Hobbys, Haushaltstätigkeiten und Einkäufen unterscheiden. Oder Sie tragen in einem Backlog alle Aufgaben mit entsprechendem Datum ein, um mit verschiedenen Ansichten die Aufgaben in einer Monats-, Wochen- und Tagesliste darzustellen.
 
-![Mitarbeiter erstellt eine To do Liste online.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
+![Mitarbeiter erstellt eine To do Liste online.](To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
 
 Starten Sie mit Ihrer eigenen To-do-Liste © Tarokmew / Adobe Stock
 

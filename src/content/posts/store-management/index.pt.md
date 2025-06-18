@@ -52,7 +52,7 @@ Com uma coluna para o seu potencial de rotatividade e a rotatividade real, os d�
 
 Com o nosso Plugin Estatístico Avançado pode facilmente realizar análises das suas vendas. Já criámos três [estatísticas](https://seatable.io/pt/docs/handbuch/seatable-nutzen/statistiken/) úteis para o nosso modelo de exemplo. Clicando no plug-in acima da sua mesa leva-o directamente para a área de estatísticas. Aqui pode usar o sinal + para criar novos painéis de bordo nos quais pode então inserir várias estatísticas.
 
-![Gestão de lojas ](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-14.11.06.png)
+![Gestão de lojas ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
 No nosso exemplo aqui, a primeira estatística mostra-lhe as diferenças entre o volume de negócios potencial e o volume de negócios real. A segunda estatística mostra-lhe o potencial de rotação por loja. Desta forma, pode ver directamente quais as lojas que podem esperar uma rotação particularmente elevada neste trimestre e concentrar-se nelas. A última estatística compara o volume de negócios Q1 com o volume de negócios Q2, para que se possa identificar fortes diferenças e possíveis fontes de erro.
 
@@ -62,7 +62,7 @@ Para adicionar mais estatísticas, basta clicar em "+novo gráfico" no menu do p
 
 Para obter uma visão geográfica do seu volume de negócios, talvez para ver em que regiões o seu produto ou serviço é particularmente bem recebido, existe o plug-in do Mapa. Com um clique no Mapa, todos os ramos são exibidos na cor do grupo de volume de negócios correspondente. Desta forma, as regiões com alta e baixa rotação podem ser reconhecidas imediatamente. Isto proporciona-lhe critérios importantes para a tomada de decisões quando se trata de planeamento estratégico de localização.
 
-![Gestão de sucursais através do plug-in do cartão](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-11.55.12.png)
+![Gestão de sucursais através do plug-in do cartão](Bildschirmfoto-2021-10-06-um-11.55.12.png)
 
 Plug-in de cartão com vendas das filiais individuais
 
@@ -86,7 +86,7 @@ O nosso Modelo de Gestão de Loja oferece uma solução para todas estas tarefas
 
 O plug-in da Linha do Tempo permite que o seu pessoal de vendas veja quando estão agendados os próximos compromissos para uma visita pessoal às lojas a eles atribuídas. Como criámos uma visão separada para cada empregado nesta base, que explicaremos novamente abaixo, existe também uma linha temporal separada para cada empregado individual no plug-in da linha temporal. Se quiser acrescentar aqui novas linhas de tempo para novos empregados, deve também criar uma nova vista no plug-in da linha de tempo depois de a nova vista ter sido criada na base. Nas definições, pode então especificar a visão correspondente como base para a fonte de dados.
 
-![Gestão de lojas ](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.44.53.png)
+![Gestão de lojas ](Bildschirmfoto-2021-10-06-um-13.44.53.png)
 
 Plug-in na linha do tempo
 
@@ -94,7 +94,7 @@ Plug-in na linha do tempo
 
 Durante cada visita pessoal à loja, o seu pessoal de vendas tem a tarefa de verificar a exatidão de vários aspectos, consoante o tipo de empresa. Para esse efeito, criámos um [formulário Web](https://seatable.io/pt/docs/handbuch/seatable-nutzen/webformulare/) que pode ser facilmente preenchido pelo seu pessoal de vendas durante ou após a visita à loja. Encontrará os formulários Web no canto superior direito, em "Formulários". Quando o seu gestor de vendas clica no formulário Web, pode começar a preenchê-lo imediatamente.
 
-![Verificação da loja de gestão da loja](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.12.55.png)
+![Verificação da loja de gestão da loja](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
 Formulário Web para a verificação da loja
 
@@ -106,7 +106,7 @@ Cada vendedor tem uma [vista personalizada](https://seatable.io/pt/docs/handbuch
 
 Para tornar o preenchimento do formulário Web menos propenso a erros, definimos cada campo a ser preenchido como "obrigatório". Desta forma, é impossível submeter o formulário sem preencher o campo. Estas e muitas outras definições, tais como textos de ajuda para preencher o formulário Web ou várias opções de formatação, podem ser facilmente efectuadas clicando no pequeno lápis junto ao formulário Web.
 
-![Gestão de lojas vistas personalizadas](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.16.42.png)
+![Gestão de lojas vistas personalizadas](Bildschirmfoto-2021-10-06-um-13.16.42.png)
 
 ## Encomenda fácil de materiais POS
 

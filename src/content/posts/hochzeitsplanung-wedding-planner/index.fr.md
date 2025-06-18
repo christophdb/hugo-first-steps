@@ -16,7 +16,7 @@ L'un des plus beaux et des plus importants jours de la vie est sur le point d'ar
 
 En général, l'organisation d'un mariage commence environ 13 mois avant le grand jour. Parfois même plus tôt si l'on souhaite avoir un lieu de mariage populaire. Il est important de ne pas perdre la vue d'ensemble face à la quantité de tâches à accomplir. C'est pourquoi la _liste de contrôle_ avec plus de 200 tâches prédéfinies se trouve au centre de notre modèle [Wedding Planner]({{< relref "templates/events/wedding-planner" >}}). De plus, ce tableau indique quand la tâche en question doit être effectuée. Il y a toujours une tâche principale qui contient plusieurs sous-rubriques individuelles pour vous guider tout au long du processus. La colonne _Check_ est une [colonne de cases à](https://seatable.io/fr/docs/handbuch/datenmanagement/feld-typen/?lang=auto#checkbox) cocher qui sert à cocher les choses à faire terminées.
 
-![Liste de contrôle de planification de mariage](https://seatable.de/wp-content/uploads/2021/07/wedding-more-than-200-todos.png)
+![Liste de contrôle de planification de mariage](wedding-more-than-200-todos.png)
 
 Notre check-list pour l'organisation du mariage contient déjà plus de 200 ToDos, afin que vous n'oubliiez rien.
 
@@ -47,7 +47,7 @@ Nous vous avons préparé tout de suite 5 vues différentes qui vous aideront à
 4. Pour le divertissement, il y a la vue _Entertainment_
 5. Pour la nourriture, il y a l'avis de \_traiteurs_possibles
 
-![Organisation du mariage](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
+![Organisation du mariage](Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
 
 ### L'organisation d'un mariage est une question de choix
 
@@ -74,7 +74,7 @@ Dans les notes, il y a de la place pour tout ce qui est possible, il y a peut-ê
 
 Pour éviter qu'en plus de l'organisation chaotique du mariage, il n'y ait un chaos supplémentaire de papiers sur la table de la salle à manger, nous avons pensé à résoudre numériquement le problème du plan de table. En reliant les deux tableaux _Guestlist_ et _Seating Chart_, vous pouvez attribuer à chaque invité du tableau _Guestlist_ une table du _tableau Seating Chart_ que vous avez définie au préalable. Si cela vous semble plus clair, vous pouvez également attribuer les différents invités à vos tables dans le _tableau Seating Chart_. Si vous cliquez sur une table dans la _Guestlist_, vous voyez directement qui est déjà assis à cette table.
 
-![](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-14.29.48.png)
+![](Bildschirmfoto-2021-07-13-um-14.29.48.png)
 
 Pour la liste des invités aussi, il y a à nouveau différentes vues pour vous aider encore plus. Nous avons créé une vue qui vous montre quelles [invitations](https://www.pinterest.de/mhochzeitsdeko/einladungenskarten-hochzeit/) n'ont pas encore été envoyées. Une vue vous montre les différents menus souhaités. Peut-être pourriez-vous [partager](https://seatable.io/fr/docs/handbuch/zusammenarbeit/externe-links/?lang=auto) cette vue directement avec le traiteur, afin qu'il puisse planifier le menu plus facilement. Enfin, il y a encore trois vues individuelles pour chaque fête, car comme nous le savons, tous les invités ne viennent pas à chaque partie de la fête. En un clic, vous avez donc directement une vue d'ensemble des personnes qui seront présentes à chaque fois.
 

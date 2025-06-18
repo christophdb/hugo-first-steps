@@ -161,7 +161,7 @@ Je nach Marke können sich die Funktionen hier unterscheiden. Normalerweise best
 - Keine Angebote
 - Keine smarten Features
 
-![Notizen-App für Einkäufe](https://seatable.io/wp-content/uploads/2024/01/Notizen-e1707138910748.jpg)
+![Notizen-App für Einkäufe](Notizen-e1707138910748.jpg)
 
 Die Notizen-App als Einkaufsliste
 

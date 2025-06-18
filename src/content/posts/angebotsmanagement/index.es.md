@@ -46,7 +46,7 @@ Tras las conversaciones iniciales con el nuevo cliente potencial, usted conoce s
 - Preparación de una oferta escrita
 - Envío de la oferta escrita al cliente
 
-![El empleado calcula el precio en el marco de la gestión de la oferta](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![El empleado calcula el precio en el marco de la gestión de la oferta](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
 
 Gestión de ofertas © Antonioguillem / adobe stock
 
@@ -87,7 +87,7 @@ Otro error común en la gestión de ofertas es que el vendedor no se haya prepar
 
 La gestión perfecta de la oferta también significa que se hace un seguimiento después de un tiempo si el cliente no se pone en contacto con usted por su cuenta. De este modo, no sólo demuestra que el cliente es importante para usted (fidelización de clientes), sino que también puede aclarar directamente posibles ambigüedades o preguntas y volver a ajustar la oferta si es necesario.
 
-![El representante de ventas realiza una llamada telefónica al cliente potencial como parte de su gestión de la oferta.](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![El representante de ventas realiza una llamada telefónica al cliente potencial como parte de su gestión de la oferta.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
 
 Gestión de ofertas © Patrick Daxenbichler / adobe stock
 

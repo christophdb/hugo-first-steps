@@ -17,7 +17,7 @@ Vous souhaitez **planifier** un **atelier** ou même gérer l'ensemble du **dév
 
 Les collaborateurs sont la ressource la plus précieuse d'une entreprise. Il est donc dans votre intérêt de promouvoir vos **ressources humaines** et de rendre ainsi votre entreprise encore plus précieuse. Vous pouvez donc considérer les formations continues, les formations et les ateliers comme un **investissement durable** dans votre entreprise. En effet, les nouvelles compétences et le savoir-faire que vos collaborateurs acquièrent ne profitent pas seulement à eux, mais aussi à l'entreprise.
 
-![Planifier un atelier](https://seatable.io/wp-content/uploads/2021/07/Workshops.jpg)
+![Planifier un atelier](Workshops.jpg)
 
 Selon la complexité du sujet et l'expertise de votre entreprise, vous pouvez soit organiser **des ateliers internes** avec vos collaborateurs, soit faire appel à des spécialistes externes pour une **formation en interne**, soit faire appel à **des formations externes**, par exemple auprès de l'agence pour l'emploi, d'une chambre de commerce et d'industrie ou d'une académie.
 
@@ -61,7 +61,7 @@ Selon que l'expertise nécessaire sur un sujet est disponible dans votre entrepr
 
 Grâce au plugin de conception de pages, il est également possible de créer une **fiche descriptive** avec les données contenues dans le tableau et de l'enregistrer au format PDF.
 
-![Avec le plugin Page Design, vous pouvez créer des profils de formateurs en quelques clics.](https://seatable.io/wp-content/uploads/2021/07/Coach-profile-711x588.jpg)
+![Avec le plugin Page Design, vous pouvez créer des profils de formateurs en quelques clics.](Coach-profile-711x588.jpg)
 
 ## Définir la durée et l'ordre du jour de l'atelier
 
@@ -97,7 +97,7 @@ Selon le thème de l'atelier, différentes méthodes et différents matériaux c
 
 Pour **certifier la participation à l’atelier**, vous pouvez délivrer un certificat à chaque participant. Avec le [plugin de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) de SeaTable, vous pouvez vous épargner beaucoup de travail. Le plugin utilise les informations déjà saisies dans le tableau et peut les insérer individuellement dans la mise en page du certificat de participation pour chaque participant. À l’aide d’un bouton, vous pouvez créer des documents personnalisés d’une simple pression sur un bouton et les enregistrer au format PDF.
 
-![Créez des certificats sans effort supplémentaire grâce au plugin Page Design](https://seatable.io/wp-content/uploads/2021/07/Zertifikate.jpg)
+![Créez des certificats sans effort supplémentaire grâce au plugin Page Design](Zertifikate.jpg)
 
 ## Demander un feedback sur l'atelier et l'évaluer
 

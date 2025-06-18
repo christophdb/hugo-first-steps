@@ -22,7 +22,7 @@ SeaTables Skripte sind den bekannten SeaTable Plugins (z.B. Kalender, Galerie, K
 
 Viele Nutzer kennen bereits unsere [sorgfältig erstellen Templates](https://seatable.io/docs/templates/). Mit dem neuen Release ist es nun noch einfacher, neue Bases direkt auf Basis dieser Templates zu erstellen, ganz ohne lästige, manuelle Kopier- und Exportprozeduren. Die Verwendung eines Templates ist jetzt so einfach, wie es nur sein kann! Erstellen Sie eine neue Base, wählen Sie Ihr bevorzugtes Template aus und los geht’s.
 
-![](https://seatable.io/wp-content/uploads/2020/09/create-from-template.png)
+![](create-from-template.png)
 
 Wann immer Sie nun eine neue Base anlegen, können Sie aus drei Optionen auswählen: Leere Base erstellen, Base aus Datei erstellen oder Base von Template erstellen. Letztere Option lädt den [SeaTable Market](https://market.seatable.io), in dem Sie bequem durch die verfügbaren Templates browsen können. Wählen Sie das Template, das Ihnen am besten passt und dessen Inhalt wird direkt in die neue Base kopiert.
 
@@ -30,11 +30,11 @@ Wann immer Sie nun eine neue Base anlegen, können Sie aus drei Optionen auswäh
 
 Die Funktion Bedingte Formatierung existiert schon seit Urzeiten in Microsoft Excel und Google Sheets. Die Integration dieser Funktion in SeaTable stand daher ganz oben auf unserer Prioritätenliste. Nun ist es endlich so weit! Mit SeaTable 1.3 steht die bedingte Zeilenformatierung allen Benutzern zur Verfügung.
 
-![](https://seatable.io/wp-content/uploads/2020/09/row-color-non-modal.png)
+![](row-color-non-modal.png)
 
 Die bedingte Formatierung lässt sich ebenso einfach nutzen wie die anderen Datenanalysefunktionen Sortieren, Gruppieren und Filtern. Und sie lässt sich auch auf die gleiche Art und Weise aufrufen: über ein Icon in den Ansichtseinstellungen. Klicken Sie auf das Icon “Formatieren” und ein kleiner Assistent hilft Ihnen dabei, Ihr Ziel schnellstmöglich zu erreichen.
 
-![](https://seatable.io/wp-content/uploads/2020/09/row-color.png)
+![](row-color.png)
 
 Zunächst wählen Sie aus, wie die Zeilenfärbung bestimmt werden soll. Wählen können Sie zwischen einer Zeilenformatierung via Verknüpfung mit einer Einfachauswahlspalte und der regelbasierten Formatierung. Bei der regelbasierten Formatierung weisen Sie jeder Regel eine Farbe zu. Ist die oder sind die Bedingungen einer Regel erfüllt, erhält die Zelle die ausgewählte Farbe.
 
@@ -42,11 +42,11 @@ Zunächst wählen Sie aus, wie die Zeilenfärbung bestimmt werden soll. Wählen 
 
 Haben Sie schon nach einem Weg gesucht, all die mühsam in SeaTable erfassten und aufbereiteten Daten auszudrucken? Mit SeaTables neuer Druckfunktion erhalten Sie hochwertige Ausdrucke für Ihre Team- und Kundenmeetings sowie die Feldarbeit.
 
-![](https://seatable.io/wp-content/uploads/2020/09/print-settings.png)
+![](print-settings.png)
 
 Wählen Sie die Ansicht, die Sie drucken wollen, und klicken Sie das Dreipunkte-Icon in den Ansichtseinstellungen. In dem sich öffnenden Druckassistenten passen Sie die Parameter an Ihre Bedürfnisse an und schließen den Prozess mit einem Druckauftrag ab. SeaTable rendert daraufhin Ihre Ansicht und übergibt das Ergebnis an den Druckmanager Ihres Geräts. Wenn Sie lieber mit der Tastatur arbeiten, dann können Sie den Druckassistenten auch mit dem Tastenkürzel STRG + P aufrufen.
 
-![](https://seatable.io/wp-content/uploads/2020/09/compact-row-detail.png)
+![](compact-row-detail.png)
 
 Natürlich können Sie neben ganzen Tabellen und Ansichten auch die Details einer einzelnen Zeile drucken. Öffnen Sie die Zeilendetails der gewünschten Zeile und klicken Sie das Druck-Icon. Mit den beiden Drucktypen Normal und Kompakt können Sie die Größe des Ausdrucks definieren.
 
@@ -54,7 +54,7 @@ Natürlich können Sie neben ganzen Tabellen und Ansichten auch die Details eine
 
 Der Spaltentyp automatische Nummer ist eine großartige Erweiterung von SeaTables Datenbankfähigkeiten und hilft Ihnen, Ihre Daten in Ihren Tabellen in Ordnung zu halten. In einer solchen Spalte erzeugt SeaTable automatisch für jede neue Zeile eine Seriennummer.
 
-![](https://seatable.io/wp-content/uploads/2020/09/auto-number.png)
+![](auto-number.png)
 
 Dieser neue Spaltentyp unterstützt drei unterschiedliche Nummernformate:
 

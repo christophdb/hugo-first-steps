@@ -39,7 +39,7 @@ Anschließend ist es wichtig, alle gesammelten Materialien systematisch zu struk
 
 Jetzt, da Sie alle relevanten Themen für die Prüfung identifiziert haben, ist es an der Zeit, diese in **kleinere Lernpakete** zu unterteilen. Dies ermöglicht es Ihnen, den Lernstoff effizienter zu erfassen und zu verarbeiten. Durch die Unterteilung in überschaubare Einheiten verhindern Sie, dass Sie sich von der Fülle des Materials überwältigt fühlen und den Fokus verlieren.
 
-![Lernplan erstellen: Elektronische Teile liegen verstreut](https://seatable.io/wp-content/uploads/2024/04/unnamed-file-711x533.jpg)
+![Lernplan erstellen: Elektronische Teile liegen verstreut](unnamed-file-711x533.jpg)
 
 Kleinere Einheiten erleichtern das Verarbeiten und Verstehen.
 

@@ -23,7 +23,7 @@ Empecemos con una definición. DAFO significa
 - Oportunidades
 - Amenazas - Riesgos
 
-![Consultor de gestión buscando una nueva plantilla para un ejemplo de análisis DAFO en su portátil.](https://seatable.io/wp-content/uploads/2022/04/Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
+![Consultor de gestión buscando una nueva plantilla para un ejemplo de análisis DAFO en su portátil.](Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
 
 Análisis DAFO © everythingpossible / Adobe Stock
 
@@ -37,7 +37,7 @@ A continuación, **analiza el entorno de tu empresa o equipo**. Ahora toca anali
 
 En el segundo paso, se derivan **recomendaciones estratégicas para la acción** a partir del inventario. ¿Qué hay que hacer cuando las oportunidades se encuentran con las debilidades o los riesgos con las fortalezas?
 
-![Representación gráfica de una matriz DAFO como plantilla para un análisis DAFO.](https://seatable.io/wp-content/uploads/2022/04/Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Representación gráfica de una matriz DAFO como plantilla para un análisis DAFO.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
 
 Ejemplo de análisis DAFO © r0b\_ / Adobe Stock
 
@@ -80,7 +80,7 @@ También debería elegir una [plantilla de análisis DAFO]({{< relref "templates
 
 El proceso de [inventario](https://seatable.io/es/inventarliste-vorlagen/) requiere mucho tiempo. ¿A quién puede liberar para las reuniones y talleres? También se necesitan expertos de varios departamentos. **¿Qué colegas tienen una visión de los puntos fuertes, los puntos débiles, las oportunidades y los riesgos de su empresa y su entorno empresarial?** Lo ideal sería formar un equipo de diez empleados.
 
-![Un equipo habla de un nuevo ejemplo de análisis DAFO.](https://seatable.io/wp-content/uploads/2022/04/Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
+![Un equipo habla de un nuevo ejemplo de análisis DAFO.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
 
 Un equipo habla sobre un ejemplo de análisis DAFO © weedezign / Adobe Stock
 

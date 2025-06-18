@@ -19,7 +19,7 @@ Das digitale Erbe ist ein Thema, das viele Menschen vernachlässigen oder verdr�
 
 Ein digitaler Nachlass besteht aus **allen digitalen Aktivitäten, Daten und Konten einer Person**. Dazu gehören Social-Media-Profile, E-Mail-Konten, Cloud-Speicher, Online-Shops, Online-Bankkonten, Streaming-Dienste und vieles mehr. Ein digitaler Nachlass kann persönliche Erinnerungen, wichtige Dokumente und wertvolle Daten (z. B. zu digitalen Wallets) enthalten.
 
-![Ein digitaler Nachlass kann viele Accounts enthalten: Social Media, E-Mail etc.](https://seatable.io/wp-content/uploads/2023/10/sara-kurfess-6lcT2kRPvnI-unsplash_min.jpg)
+![Ein digitaler Nachlass kann viele Accounts enthalten: Social Media, E-Mail etc.](sara-kurfess-6lcT2kRPvnI-unsplash_min.jpg)
 
 Ein digitaler Nachlass kann viele Accounts enthalten.
 
@@ -35,7 +35,7 @@ Aus rechtlicher Sicht ist die Lage in Deutschland nicht abschließend geklärt. 
 
 Unklar ist auch, ob Erben auf Kommunikationsinhalte des Verstorbenen wie Chats und E-Mails zugreifen dürfen, wenn er seinen letzten Willen diesbezüglich nicht festgehalten hat. Einerseits verpflichtet das Erbrecht den Anbieter, E-Mails ähnlich wie ungeöffnete Briefe an die Erben herauszugeben. Andererseits kann die Herausgabe aber das Fernmeldegeheimnis und Datenschutzbestimmungen verletzen.
 
-![Das digitale Erbe ist gesetzlich nicht klar geregelt](https://seatable.io/wp-content/uploads/2023/10/conny-schneider-ysv-HwRpcA-unsplash_min.jpg)
+![Das digitale Erbe ist gesetzlich nicht klar geregelt](conny-schneider-ysv-HwRpcA-unsplash_min.jpg)
 
 Gesetzlich ist das digitale Erbe in Deutschland nicht eindeutig geregelt.
 
@@ -53,7 +53,7 @@ Google, Facebook und Apple bieten im Benutzerkonto bestimmte Einstellungen an, i
 
 In vielen Fällen wird ein digitaler Nachlass nicht rechtzeitig geregelt. Die Erben müssen dann im Nebel stochern und sich auf eine mühsame Spurensuche begeben: Welche Online-Konten hat der Verstorbene genutzt? Wie lauten die Benutzernamen und Passwörter? Ohne diese Daten haben die Angehörigen erstmal keinen Zugriff – sie benötigen ihn aber dringend, um beispielsweise laufende Abonnements zu kündigen.
 
-![Ein digitaler Nachlass enthält alle Login-Daten](https://seatable.io/wp-content/uploads/2023/10/pexels-pixabay-267469_min.jpg)
+![Ein digitaler Nachlass enthält alle Login-Daten](pexels-pixabay-267469_min.jpg)
 
 Ohne Zugangsdaten stehen Angehörige vor einer hohen Hürde.
 
@@ -67,7 +67,7 @@ Theoretisch können Sie alle Ihre Konten und Passwörter auf **Papier** aufschre
 
 Nach dem gleichen Prinzip können Sie Ihre Konten und Passwörter auch **elektronisch in einem Textdokument** auf Ihrem Computer, einer Festplatte oder einem USB-Stick speichern. Dort können Sie leichter Änderungen vornehmen als auf Papier.
 
-![Digitaler Nachlass: Login-Daten im Browser speichern](https://seatable.io/wp-content/uploads/2023/10/pexels-lisa-fotios-5860964_min.jpg)
+![Digitaler Nachlass: Login-Daten im Browser speichern](pexels-lisa-fotios-5860964_min.jpg)
 
 Auch viele Browser bieten die Möglichkeit, bequem Login-Daten zu speichern.
 
@@ -96,7 +96,7 @@ Ihr digitaler Nachlass kann jede Menge Daten enthalten. Je nach Anzahl Ihrer Acc
 
 Bestimmen Sie eine Person Ihres Vertrauens zu Ihrem digitalen Nachlassverwalter. Legen Sie in einer Vollmacht fest, dass die bevollmächtigte Person sich um Ihr digitales Erbe und Ihre Online-Geschäfte kümmern soll – nach Ihrem Tod oder schon zu Ihren Lebzeiten, wenn Sie z. B. durch ein Koma, eine psychische Behinderung oder andere Gründe nicht dazu in der Lage sind.
 
-![Nachdenkliche Frau sitzt mit Laptop auf dem Sofa](https://seatable.io/wp-content/uploads/2023/10/mimi-thian-U7lWyAV-aM8-unsplash.jpg)
+![Nachdenkliche Frau sitzt mit Laptop auf dem Sofa](mimi-thian-U7lWyAV-aM8-unsplash.jpg)
 
 Machen Sie es der bevollmächtigten Person so einfach wie möglich: Sie können vorab genau regeln, auf welche Online-Konten die Person im Fall der Fälle Zugriff erhalten soll. Formulieren Sie schriftlich Ihren Willen, was die Person mit welchem Konto machen soll.
 
@@ -112,7 +112,7 @@ Legen Sie Ihr Vermächtnis für Ihre Social-Media-Profile und Online-Konten fest
 
 Wenn Sie die meisten Ihrer Login-Daten und Passwörter auf einem bestimmten Gerät (z. B. in einem Browser oder in einem Textdokument) gespeichert haben, sollte Ihre Vertrauensperson nach Ihrem Tod darauf zugreifen können. Notieren Sie die **PIN** Ihres Smartphones oder Ihr **Computer-Kennwort** zum Beispiel auf einem Zettel, den Sie in einem versiegelten Umschlag aufbewahren.
 
-![Master-Passwort auf Papier notieren](https://seatable.io/wp-content/uploads/2023/10/pexels-pixabay-261599.jpg)
+![Master-Passwort auf Papier notieren](pexels-pixabay-261599.jpg)
 
 Sie können Ihre Passwörter jedoch auch auf Papier aufschreiben oder in einem digitalen Passwort-Manager erfassen. Denken Sie aber daran, geänderte Kennwörter stets auch dort zu aktualisieren! Schreiben Sie das **Master-Passwort** auf und hinterlegen Sie dieses an einem sicheren Ort, den Sie Ihrer Vertrauensperson mitteilen.
 

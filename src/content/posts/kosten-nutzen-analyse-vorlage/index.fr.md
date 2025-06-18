@@ -20,7 +20,7 @@ Une analyse coûts-bénéfices, en abrégé CBA (cost benefit analysis), est un 
 
 L'avantage ici est que vous pouvez regrouper tous les **facteurs et effets liés à un investissement** dans une seule base de données et ainsi ne pas perdre la vue d'ensemble. En effet, dans le cas de [grands projets](https://seatable.io/fr/projektstrukturplan-vorlage/), il existe une multitude de critères objectifs, mais aussi subjectifs, qui ont des répercussions très différentes sur le CBA. Un modèle vous aide à garder un œil sur tous ces aspects.
 
-![Modèle imprimé pour une analyse coûts-bénéfices.](https://seatable.io/wp-content/uploads/2022/08/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Modèle imprimé pour une analyse coûts-bénéfices.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 
 Profitez d'une analyse coûts-bénéfices. Droits d'image : amazing studio / Adobe Stock
 

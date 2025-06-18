@@ -18,13 +18,13 @@ A última versão tem estado a correr no [SeaTable Cloud](https://cloud.seatable
 
 Até agora, o mago das fórmulas oferecia pouca orientação na criação de fórmulas complexas. Com o novo assistente de fórmulas, mesmo fórmulas interligadas com várias referências de colunas e várias funções podem ser criadas rapidamente. Fornece apoio interactivo durante a introdução e, se algo correr mal, oferece mensagens de erro significativas para uma rápida resolução de problemas.
 
-![Assistente de fórmula interactiva do Seatable](https://seatable.io/wp-content/uploads/2022/10/SeaTable3.2_FormulaWizard.png)
+![Assistente de fórmula interactiva do Seatable](SeaTable3.2_FormulaWizard.png)
 
 Onde anteriormente só havia texto cinzento, existe agora uma linguagem de cor clara: as fórmulas são apresentadas em letra azul, as referências das colunas são roxas, os números são verdes e o texto aparece em vermelho. Os parênteses - redondos bem como encaracolados - são automaticamente fechados quando inseridos e uma fina marca de sombra liga os parênteses. As vírgulas simples e duplas invertidas para texto simples também são automaticamente duplicadas para acelerar a digitação. É claro que o novo feiticeiro funciona não só para novas fórmulas, mas também para as já existentes.
 
 ## Botão versátil
 
-![O botão SeaTable pode agora executar duas acções com um clique](https://seatable.io/wp-content/uploads/2022/10/SeaTable3.2_ButtonColumn.png)
+![O botão SeaTable pode agora executar duas acções com um clique](SeaTable3.2_ButtonColumn.png)
 
 Até agora, aplicava-se a regra "1 botão - 1 ação". Esta regra foi ultrapassada com o SeaTable 3.2. A nova regra é "1 botão - você escolhe o número de acções". No SeaTable 3.2, por exemplo, pode criar um documento PDF com o plug-in de design de página com um clique e enviá-lo por correio eletrónico. Também pode bloquear a linha posteriormente ou alterar automaticamente os valores das células (por exemplo, uma alteração de estado). As acções disponíveis podem ser combinadas de qualquer forma. Os botões existentes também podem, naturalmente, ser atribuídos a outras acções, o que permite reduzir e simplificar as tabelas.
 
@@ -38,7 +38,7 @@ Mesmo com estas melhorias, o botão do tipo coluna continua em desenvolvimento a
 
 No SeaTable 3.2, um novo elemento decora células seleccionadas em colunas do tipo File and Picture. Um clique na seta dupla abre um pop-up que mostra os ficheiros da célula numa vista de lista. Até agora, isto exigia um clique no espaço branco entre os ícones do ficheiro - não raro, uma tarefa complicada. Também melhorámos o próprio ficheiro pop-up. Através do ícone de 3 pontos para as funções avançadas, os ficheiros podem agora ser renomeados. Anteriormente, isto exigia um download e um novo upload.
 
-![Coluna de ficheiro actualizada em SeaTable 3.2](https://seatable.io/wp-content/uploads/2022/10/SeaTable3.2_FileColumn.png)
+![Coluna de ficheiro actualizada em SeaTable 3.2](SeaTable3.2_FileColumn.png)
 
 Outra nova funcionalidade é a possibilidade de converter colunas de imagens em colunas de ficheiros sem perder o conteúdo das células. Isto é particularmente relevante se pretender utilizar as primeiras para anexos de correio eletrónico. Atualmente, a ação "Enviar e-mail" apenas suporta o tipo de coluna ficheiro. (A conversão sem perdas só funciona se as imagens estiverem armazenadas no SeaTable. Isto não funciona para imagens integradas através de uma ligação).
 
@@ -50,7 +50,7 @@ A utilização de campos de selecção única no plugin de design da página sof
 
 ## Automatizações mais poderosas
 
-![SeaTable 3.2 suporta a pausa de uma automatização](https://seatable.io/wp-content/uploads/2022/10/SeaTable3.2_PauseAutomations_400x361.png)
+![SeaTable 3.2 suporta a pausa de uma automatização](SeaTable3.2_PauseAutomations_400x361.png)
 
 As possibilidades de gestão das automatizações são expandidas em SeaTable 3.2 em dois lugares. Em primeiro lugar, os avisos são agora também afixados no registo de execução automatizada. Um aviso é registado, por exemplo, se uma regra de automatização se aplicar a um grande número de filas e desencadear um número correspondentemente grande de acções. As advertências fornecem assim informações sobre problemas na configuração de uma automatização. A possibilidade de pausar uma automatização é a segunda função adicionada no SeaTable 3.2. Um clique no ícone correspondente pára a execução da automatização até novo aviso. Uma nota correspondente marca as automatizações pausadas.
 
@@ -71,6 +71,6 @@ Uma nova operação de processamento de dados "Transferir nome do utilizador" l�
 Quando uma nova coluna é adicionada a uma tabela, o SeaTable verifica se existem colunas ocultas noutras vistas. Se for este o caso, a coluna recém-criada está também escondida nestas visões.
 
 Para além da exibição melhorada dos campos de selecção única, o desenho da página recebe outra melhoria: vários elementos podem agora ser alinhados colectivamente, como é conhecido por exemplo, a partir do PowerPoint.  
-![Múltiplos elementos podem ser alinhados no plugin de desenho de página da SeaTable 3.2](https://seatable.io/wp-content/uploads/2022/10/SeaTable3.2-ElementAlignment.png)
+![Múltiplos elementos podem ser alinhados no plugin de desenho de página da SeaTable 3.2](SeaTable3.2-ElementAlignment.png)
 
 Por último, mas não menos importante, o Plugin da Linha do Tempo também está satisfeito com uma melhoria: os agrupamentos numa vista podem agora também ser exibidos no plugin. Especificamente: As entradas num agrupamento são apresentadas separadas umas das outras por faixas de natação.

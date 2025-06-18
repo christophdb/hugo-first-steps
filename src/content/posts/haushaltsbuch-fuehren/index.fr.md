@@ -17,7 +17,7 @@ Il n'est pas toujours facile de garder un œil sur ses dépenses. Il arrive trop
 
 Honnêtement, combien de fois vérifiez-vous vos relevés de compte et calculez-vous les dépenses que vous avez effectuées ? Tant que le compte n'est pas dans le rouge, nous évitons généralement de faire cet effort et ne voulons peut-être pas savoir exactement ce qu'il en est. Car si nous voyions combien coûtent à long terme les virées shopping, les sorties entre amis ou la cigarette, nous remettrions peut-être en question notre style de vie.
 
-![Tenez un livre de comptes](https://seatable.io/wp-content/uploads/2021/12/Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
+![Tenez un livre de comptes](Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
 
 Outre les frais fixes inévitables, les petits pièges des coûts peuvent représenter des sommes considérables. Au plus tard lorsque vous constatez qu'il ne vous reste presque rien après déduction de tous les frais, vous devriez agir. Un livre de comptes vous permet de documenter sans faille les dépenses que vous effectuez. Obtenez une vue d'ensemble de vos dépenses courantes afin d'avoir la certitude que votre argent ne disparaît pas sans laisser de traces.
 
@@ -70,7 +70,7 @@ Remettez en question vos contrats en cours, cherchez éventuellement des alterna
 
 Vous avez des abonnements de streaming Amazon Prime, Netflix et Sky ? Mais soyons honnêtes : à quelle fréquence parvenez-vous réellement à regarder un film ou une série complète au quotidien ? Vérifiez si vous utilisez vraiment certaines **offres de streaming** ou si vous pouvez en fait vous en passer. Il en va de même pour les services de musique en streaming comme Spotify et Deezer ou pour les **journaux** et **magazines** auxquels vous êtes abonné. Même s'il ne s'agit que de quelques euros par mois, les montants s'accumulent au fil du temps dans le livre de comptes du ménage.
 
-![Abonnements au streaming ](https://seatable.io/wp-content/uploads/2023/12/nicolas-j-leclercq-fg00hP0VPI8-unsplash.jpg)
+![Abonnements au streaming ](nicolas-j-leclercq-fg00hP0VPI8-unsplash.jpg)
 
 Les abonnements inutiles au streaming peuvent coûter cher.
 
@@ -96,7 +96,7 @@ Il en va de même si un **garage**, une **place de parking** ou une **cave**, do
 
 Dans les grandes villes en particulier, posséder une **voiture** n'est plus guère rentable pour de nombreuses personnes. Après l'achat, les frais de carburant, d'entretien, d'assurance et de stationnement sont permanents. C'est pourquoi **les offres de covoiturage** sont de plus en plus populaires. Si vous prévoyez de parcourir un long trajet, vous pouvez prendre des passagers ou vous faire conduire vous-même via différents **sites de covoiturage en ligne**.
 
-![Emplacement de voiture](https://seatable.io/wp-content/uploads/2023/12/david-schultz-ZLk6gA8EyG0-unsplash.jpg)
+![Emplacement de voiture](david-schultz-ZLk6gA8EyG0-unsplash.jpg)
 
 Renoncer à sa propre voiture et louer sa place de stationnement - vous économisez ainsi des coûts tout en générant des revenus.
 
@@ -120,7 +120,7 @@ Avant de **faire des achats importants**, prenez quelques jours pour calculer vo
 
 La plupart des chaînes de supermarchés font produire **des marques propres** qui sont nettement moins chères que les produits de marque pour lesquels une publicité coûteuse est faite. Mais souvent, les marques propres sont fabriquées exactement dans les mêmes usines et avec les mêmes ingrédients que les produits de marque plus chers. En misant davantage sur les marques propres, vous pouvez économiser jusqu'à 30 % sur vos achats sans perdre en qualité.
 
-![Saisir les coûts des repas dans le livre de comptes](https://seatable.io/wp-content/uploads/2023/12/cristiano-pinto-2lWGQ02DGL8-unsplash.jpg)
+![Saisir les coûts des repas dans le livre de comptes](cristiano-pinto-2lWGQ02DGL8-unsplash.jpg)
 
 Les plats préparés pour chaque pause déjeuner peuvent être coûteux. Dans ce cas, il est possible d'économiser non seulement avec des marques de distributeur, mais aussi avec des repas préparés à la maison.
 

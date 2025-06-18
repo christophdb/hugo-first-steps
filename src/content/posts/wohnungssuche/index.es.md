@@ -19,7 +19,7 @@ Antes de empezar a buscar activamente pisos, debe pensar en las condiciones gene
 
 Un criterio decisivo para muchos es el **alquiler**. La regla del 30% establece que lo ideal es que el alquiler no supere el 30% de tus ingresos netos. Sin embargo, hay que ser realista y no fijar demasiados criterios de exclusión. Esto se debe a que la oferta de pisos es limitada y la búsqueda del piso perfecto es, en la mayoría de los casos, como buscar una aguja en un pajar.
 
-![Qué deben decidir los inquilinos antes de buscar piso](https://seatable.io/wp-content/uploads/2023/12/Wohnungssuche-Kriterien-711x889.png)
+![Qué deben decidir los inquilinos antes de buscar piso](Wohnungssuche-Kriterien-711x889.png)
 
 Lista de comprobación para la búsqueda del piso perfecto.
 
@@ -36,7 +36,7 @@ El índice de alquileres sigue subiendo, lo que dificulta a mucha gente encontra
 - El certificado de **derecho a** la vivienda confirma que el inquilino tiene derecho a mudarse a un piso subvencionado con fondos públicos. Sin embargo, para obtener el certificado, el inquilino debe cumplir determinados criterios. Por ejemplo, no debe superar un límite de ingresos establecido. Su ayuntamiento le aclarará si tiene derecho a ello.
 - El **subsidio** de vivienda es una ayuda al alquiler para las familias con bajos ingresos. El Ministerio Federal de Vivienda, Urbanismo y Construcción ofrece una [calculadora](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/wohnen/wohnraumfoerderung/wohngeld/wohngeldrechner-2023-artikel.html;jsessionid=6DD0480874498C458F1FA626537143D2.live861) en línea del subsidio de vivienda que puede utilizar para comprobar si tiene derecho al subsidio de vivienda. También puede solicitar el subsidio de vivienda a su ayuntamiento.
 
-![Amanecer sobre rascacielos](https://seatable.io/wp-content/uploads/2023/12/Bild-von-Freepik_9328139-711x711.jpg)
+![Amanecer sobre rascacielos](Bild-von-Freepik_9328139-711x711.jpg)
 
 Las personas que ya no pueden pagar los alquileres de su ciudad tienen derecho a una vivienda social.
 
@@ -54,7 +54,7 @@ En la era digital, el primer impulso a la hora de buscar piso es echar un vistaz
 
 Puede que pases mucho tiempo en **las redes sociales**, así que ¿por qué no utilizar la inteligencia de enjambre de Facebook, Instagram y similares? Puedes anunciar tu búsqueda de piso en tu estado, pedir a la gente que lo comparta y luego navegar por grupos creados específicamente para buscar piso.
 
-![Lupa sobre los anuncios planos](https://seatable.io/wp-content/uploads/2023/12/Bild-von-Freepik_4344249-711x474.jpg)
+![Lupa sobre los anuncios planos](Bild-von-Freepik_4344249-711x474.jpg)
 
 La búsqueda de piso suele ser difícil.
 
@@ -74,7 +74,7 @@ Para ello, existen **agencias de intercambio** especializadas en inmuebles, pero
 
 A la hora de visitar un piso, hay que tener en cuenta una serie de aspectos para determinar si es realmente adecuado. Lo ideal es concertar la visita a una hora en la que todavía haya suficiente **luz natural** en el piso para poder verlo. Sin embargo, el criterio más importante es si se siente cómodo en el **barrio** y en el piso.
 
-![Consejos para ver pisos](https://seatable.io/wp-content/uploads/2023/12/Wohnungssuche-Besichtigungen-1-711x889.png)
+![Consejos para ver pisos](Wohnungssuche-Besichtigungen-1-711x889.png)
 
 Consejos útiles para ver pisos.
 

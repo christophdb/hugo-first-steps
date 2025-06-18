@@ -38,7 +38,7 @@ Ao recolher materiais didácticos, tenha também em conta a sua qualidade.
 
 Agora que já identificou todos os tópicos relevantes para o exame, está na altura de os dividir em **pequenos pacotes de aprendizagem**. Isto permitir-lhe-á compreender e processar o material de aprendizagem de forma mais eficiente. Ao dividi-lo em unidades manejáveis, evita que se sinta sobrecarregado pela riqueza do material e perca a concentração.
 
-![Criar um plano de aprendizagem: As peças electrónicas estão espalhadas por todo o lado](https://seatable.io/wp-content/uploads/2024/04/unnamed-file-711x533.jpg)
+![Criar um plano de aprendizagem: As peças electrónicas estão espalhadas por todo o lado](unnamed-file-711x533.jpg)
 
 As unidades mais pequenas facilitam o processamento e a compreensão.
 

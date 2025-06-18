@@ -53,7 +53,7 @@ Mit einer Spalte für Ihr Umsatzpotenzial und dem tatsächlichen Umsatz lassen s
 
 Mit unserem Advanced Statistic Plugin lassen sich ganz einfach Analysen über Ihre Umsätze durchführen. Wir haben bereits drei nützliche [Statistiken](https://seatable.io/docs/handbuch/seatable-nutzen/statistiken/) für unser Beispiel-Template erstellt. Sie gelangen über einen Klick auf das Plug-in oberhalb Ihrer Tabelle direkt in den Statistikbereich. Hier können Sie sich mithilfe des + Zeichens neue Dashboards erstellen, in welche Sie dann mehrere Statistiken einfügen können.
 
-![Store Management ](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-14.11.06.png)
+![Store Management ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
 In unserem Beispiel hier zeigt Ihnen die erste Statistik die Differenzen zwischen Umsatzpotenzial und tatsächlichem Umsatz an. Die zweite Statistik zeigt Ihnen das Umsatzpotenzial pro Store. So können Sie direkt sehen, welche Filialen in diesem Quartal einen besonders hohen Umsatz erwarten können und Ihren Fokus hierauf legen. Die letzte Statistik vergleicht den Q1 Umsatz mit dem Q2 Umsatz, so können sie starke Differenzen und mögliche Fehlerquellen ausmachen.
 
@@ -63,7 +63,7 @@ Um weitere Statistiken hinzuzufügen, klicken Sie einfach im Plug-in Menü auf �
 
 Um einen geografischen Überblick über Ihre Umsätze zu erhalten, vielleicht um zu sehen, in welchen Regionen Ihr Produkt oder Ihre Dienstleistung besonders gut ankommt, gibt es das Map-Plug-in. Mit einem Klick auf Map werden Ihnen alle Filialen in der Farbe des entsprechenden Umsatzclusters angezeigt. So sind umsatzstarke und umsatzschwache Regionen sofort zu erkennen. Dies liefert Ihnen wichtige Entscheidungskriterien, wenn es um die strategische Standortplanung geht.
 
-![Filialmanagement über das Karten Plug-in](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-11.55.12.png)
+![Filialmanagement über das Karten Plug-in](Bildschirmfoto-2021-10-06-um-11.55.12.png)
 
 Karten Plug-In mit Umsätzen der einzelnen Filialen
 
@@ -87,7 +87,7 @@ Für all diese Aufgaben bietet unser Store Management Template eine Lösung an.
 
 Über das Timeline-Plug-in sehen Ihre Sales-Mitarbeiter, wann die nächsten Termine für einen persönlichen Besuch in den ihnen zugeordneten Stores anstehen. Da wir für jeden Mitarbeiter in dieser Base eine eigene Ansicht erstellt haben, die wir weiter unten noch einmal erklären, findet sich auch im Timeline-Plug-in eine eigene Timeline für jeden einzelnen Mitarbeiter. Möchten Sie hier neue Timelines für neue Mitarbeiter hinzufügen, so müssen Sie, nachdem die neue Ansicht in der Base erstellt wurde, auch im Timeline-Plug-in eine neue Ansicht erstellen. In den Einstellungen können Sie dann die entsprechende Ansicht als Grundlage für die Datenquelle angeben.
 
-![Store Management ](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.44.53.png)
+![Store Management ](Bildschirmfoto-2021-10-06-um-13.44.53.png)
 
 Timeline-Plug-in
 
@@ -95,7 +95,7 @@ Timeline-Plug-in
 
 Ihre Sales Mitarbeiter haben bei jedem persönlichen Filialbesuch die Aufgabe, je nach Unternehmensart verschiedene Aspekte auf Ihre Richtigkeit hin zu überprüfen. Hierfür haben wir ein [Webformular](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/) eingerichtet, welches ganz einfach während oder nach dem Besuchen des Stores von Ihren Sales Mitarbeitern ausgefüllt werden kann. Sie finden die Webformulare oben rechts unter “Forms”. Klickt Ihr Sales Manager auf das Webformular, so kann er direkt mit dem Ausfüllen beginnen.
 
-![Storemanagement Store Check](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.12.55.png)
+![Storemanagement Store Check](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
 Webformular für den Store Check
 
@@ -107,7 +107,7 @@ Jeder Salesmitarbeiter hat in diesem Template eine [personalisierte Ansicht](htt
 
 Um das Ausfüllen des Webformulars weniger fehleranfällig zu machen, haben wir jedes auszufüllende Feld auf “required” gestellt. Das macht ein Absenden ohne das Ausfüllen des Feldes nicht möglich. Diese und viele weitere Einstellungen, wie zum Beispiel Hilfstexte zum Ausfüllen des Webformulars oder verschiedenen Formatierungsmöglichkeiten, können Sie ganz einfach vornehmen, indem Sie neben dem Webformular auf den kleinen Stift klicken.
 
-![Store Management personalisierte Ansichten](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.16.42.png)
+![Store Management personalisierte Ansichten](Bildschirmfoto-2021-10-06-um-13.16.42.png)
 
 ## Einfaches Bestellen von POS-Materialien
 

@@ -28,7 +28,7 @@ Há muitas formas de estruturar bases de dados. A seguir explicamos brevemente o
 4. **Base de dados relacional:** é orientada para tabelas, em que cada registo de dados está ligado a todos os outros registos de dados.
 5. **Base de dados não relacional** (ou base de dados NoSQL): Uma base de dados No-SQL utiliza uma variedade de formatos, como documentos, diagramas, etc., que oferecem uma grande flexibilidade à conceção de uma base de dados.
 
-![As ligações são a grande vantagem das bases de dados relacionais](https://seatable.io/wp-content/uploads/2021/03/hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
+![As ligações são a grande vantagem das bases de dados relacionais](hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
 
 As ligações são a grande vantagem das bases de dados relacionais.
 
@@ -45,7 +45,7 @@ Agora que já sabe o que são bases de dados, deve estar a perguntar-se: Porque 
 
 Mesmo que não necessite (ainda) de processar grandes quantidades de informação, as vantagens das bases de dados são visíveis mesmo com pequenas quantidades de dados. A capacidade de processar quantidades quase ilimitadas de dados significa que uma base de dados bem concebida e bem pensada pode servi-lo durante muitos anos, uma vez que praticamente cresce consigo.
 
-![Bases de dados sem complicações: não há problema com o SeaTable](https://seatable.io/wp-content/uploads/2021/10/pexels-christina-morillo-1181354-e1634551763220.jpg)
+![Bases de dados sem complicações: não há problema com o SeaTable](pexels-christina-morillo-1181354-e1634551763220.jpg)
 
 ## Onde as tabelas atingem os seus limites em contraste com as bases de dados
 

@@ -52,7 +52,7 @@ Die Organisation eines Junggesellenabschieds kann eine aufregende, aber auch her
 
 Das sind die essenziellen Schritte, um sicherzustellen, dass der Junggesellenabschied ein voller Erfolg wird:
 
-![Checkliste für einen Junggesellenabschied](https://seatable.io/wp-content/uploads/2023/04/Checkliste-Junggesellenabschied.png)
+![Checkliste für einen Junggesellenabschied](Checkliste-Junggesellenabschied.png)
 
 Diese Punkte sollten Sie für den perfekten Junggesellenabschied abhaken.
 

@@ -15,7 +15,7 @@ Quiconque vit à plusieurs sous le même toit connaît cette situation : la vais
 
 Lorsque de nombreuses personnes vivent dans un même foyer, des divergences d'opinion apparaissent inévitablement. Cela n'échappe pas au thème de **la propreté**. Tout le monde n'est pas d'accord pour dire qu'il faut laver immédiatement sa vaisselle ou qu'il est nécessaire de nettoyer régulièrement la salle de bains.
 
-![La vaisselle sale s'accumule rapidement s'il n'y a pas de plan de nettoyage et si personne ne se sent responsable.](https://seatable.io/wp-content/uploads/2023/08/nathan-dumlao-m0ucB-06v7k-unsplash-1-e1693817126757-711x533.jpg)
+![La vaisselle sale s'accumule rapidement s'il n'y a pas de plan de nettoyage et si personne ne se sent responsable.](nathan-dumlao-m0ucB-06v7k-unsplash-1-e1693817126757-711x533.jpg)
 
 La vaisselle sale s'accumule rapidement lorsqu'il y a un désaccord sur la propreté.
 
@@ -25,7 +25,7 @@ Il est donc utile de se réunir et d'établir un plan commun qui satisfasse tout
 
 Il est temps de passer aux choses sérieuses : vous et vos colocataires souhaitez établir un plan de nettoyage, mais vous ne savez pas par où commencer ? Tout d'abord : chaque plan doit être adapté **individuellement** au ménage. Commencez donc par vous poser les questions suivantes :
 
-![Un premier aperçu des tâches à accomplir](https://seatable.io/wp-content/uploads/2023/09/Putzplan-1-711x711.png)
+![Un premier aperçu des tâches à accomplir](Putzplan-1-711x711.png)
 
 Un premier aperçu des tâches à accomplir
 
@@ -45,7 +45,7 @@ Pour avoir une vue d'ensemble des tâches à effectuer, il est utile de les rép
 
 La fréquence à laquelle certaines tâches doivent être effectuées dépend de la rigueur avec laquelle elles sont effectuées. Si quelqu'un ne fait pas d'effort pour une tâche du plan de nettoyage, celle-ci doit être effectuée plus souvent pour obtenir le même résultat. Néanmoins, nous vous proposons un guide des tâches à effectuer et de leur fréquence si elles sont effectuées avec soin :
 
-![Ces tâches vous incombent à intervalles réguliers dans votre plan de nettoyage.](https://seatable.io/wp-content/uploads/2023/08/Haeufigkeit-der-Taetigkeiten-fuer-den-Putzplan-711x711.png)
+![Ces tâches vous incombent à intervalles réguliers dans votre plan de nettoyage.](Haeufigkeit-der-Taetigkeiten-fuer-den-Putzplan-711x711.png)
 
 Ces tâches vous incombent à intervalles réguliers.
 
@@ -55,7 +55,7 @@ Décidez ensemble qui se charge de quelles tâches. Tenez compte du déroulement
 
 Si ce n'est pas le cas, une autre possibilité est de **faire tourner** les tâches. Les responsabilités sont alors changées chaque semaine. C'est généralement particulièrement efficace, car la charge de travail est à peu près la même pour tous après un passage et chacun a déjà assumé la responsabilité de tout au moins une fois. Cependant, il faut plus de temps pour qu'une certaine routine s'installe dans le quotidien.
 
-![Le travail d'équipe est essentiel à la réussite d'un plan de nettoyage.](https://seatable.io/wp-content/uploads/2023/08/pexels-pavel-danilyuk-8763139-1-scaled-e1693817422843-711x498.jpg)
+![Le travail d'équipe est essentiel à la réussite d'un plan de nettoyage.](pexels-pavel-danilyuk-8763139-1-scaled-e1693817422843-711x498.jpg)
 
 Le travail d'équipe est essentiel à la réussite d'un plan de nettoyage.
 
@@ -65,7 +65,7 @@ Pour convaincre [les plus réticents de](https://www.stuttgarter-zeitung.de/inha
 
 Les tâches sont réparties, mais personne ne fait ce qu'il devrait faire ? Alors c'est peut-être dû à un **manque de motivation**. Ce n'est pas étonnant, car pour beaucoup, le nettoyage ne fait pas partie de leurs activités préférées. Pour maintenir malgré tout le plan de nettoyage à flot, il peut être utile de trouver la bonne motivation. Combinez la corvée de nettoyage avec l'écoute de musique ou le visionnage de séries.
 
-![Il est beaucoup plus facile de s'acquitter de ses tâches en s'amusant un peu lors du nettoyage.](https://seatable.io/wp-content/uploads/2023/08/pexels-rdne-stock-project-5591970-1-711x474.jpg)
+![Il est beaucoup plus facile de s'acquitter de ses tâches en s'amusant un peu lors du nettoyage.](pexels-rdne-stock-project-5591970-1-711x474.jpg)
 
 Avec un peu de plaisir à nettoyer, tout devient directement beaucoup plus facile.
 

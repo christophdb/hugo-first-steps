@@ -21,7 +21,7 @@ Eine Kosten-Nutzen-Analyse, kurz CBA (cost benefit analysis), ist eine **Wirtsch
 
 Der Vorteil hierbei ist, dass Sie alle **Faktoren und Auswirkungen, die mit einer Investition zusammenhängen**, in nur einer Datenbank bündeln können und so nicht den Überblick verlieren. Denn gerade bei [großen Projekten](https://seatable.io/projektstrukturplan-vorlage/) gibt es eine Vielzahl an objektiven, aber auch subjektiven Kriterien, die sich ganz unterschiedlich auf die CBA auswirken. Eine Vorlage hilft Ihnen, all diese Aspekte im Blick zu behalten.
 
-![Ausgedruckte Vorlage für eine Kosten Nutzen Analyse.](https://seatable.io/wp-content/uploads/2022/08/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Ausgedruckte Vorlage für eine Kosten Nutzen Analyse.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 
 Profitieren Sie von einer Kosten-Nutzen-Analyse. Bildrechte: amazing studio / Adobe Stock
 

@@ -51,7 +51,7 @@ L'organisation d'un enterrement de vie de garçon peut être une tâche passionn
 
 Ce sont les étapes essentielles pour s'assurer que l'enterrement de vie de garçon soit un succès :
 
-![Liste de contrôle pour un enterrement de vie de garçon](https://seatable.io/wp-content/uploads/2023/04/Checkliste-Junggesellenabschied.png)
+![Liste de contrôle pour un enterrement de vie de garçon](Checkliste-Junggesellenabschied.png)
 
 Voici les points à cocher pour un enterrement de vie de garçon parfait.
 

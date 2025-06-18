@@ -34,7 +34,7 @@ Savais-tu qu'il existe aujourd'hui de nombreuses plates-formes pour les manuels 
 
 Pour exploiter pleinement la puissance de ton planning étudiant, tu peux utiliser la [vue calendrier](https://seatable.io/fr/docs/handbuch/seatable-nutzen/ansichten/). Pour cela, il te suffit d'ajouter le plugin calendrier et de visualiser ensuite toutes tes dates limites de remise dans ton calendrier personnel.
 
-![Agenda des étudiants](https://seatable.de/wp-content/uploads/2020/09/Bildschirmfoto-2020-09-02-um-11.57.21.png)
+![Agenda des étudiants](Bildschirmfoto-2020-09-02-um-11.57.21.png)
 
 ### Des points de vue différents
 

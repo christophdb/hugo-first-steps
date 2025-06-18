@@ -23,7 +23,7 @@ La manière exacte dont vous devez concevoir l'analyse de contenu dépend des r�
 
 En principe, il existe une **approche** **qualitative** et une **approche quantitative** de l'analyse de contenu. Vous pouvez décider laquelle des deux méthodes vous devez utiliser pour votre projet en vous basant sur les critères suivants :
 
-![Les points sur lesquels l'analyse de contenu qualitative et quantitative diffèrent sont mis en évidence.](https://seatable.io/wp-content/uploads/2024/02/Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
+![Les points sur lesquels l'analyse de contenu qualitative et quantitative diffèrent sont mis en évidence.](Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
 
 Dans l'analyse de contenu qualitative, vous vous concentrez sur un **petit nombre** de contenus que vous soumettez à une analyse approfondie. Ce qui compte ici, c'est ce que vous entendez entre les lignes, par exemple lors d'interviews. Vous travaillez en conséquence **de manière inductive**, c'est-à-dire que vous effectuez vos propres observations et en déduisez une nouvelle hypothèse. L'objectif est de comprendre et d'**interpréter** les résultats et de développer de nouvelles approches théoriques sur cette base.
 
@@ -39,7 +39,7 @@ Dans le quotidien professionnel également, vous pouvez collecter des données i
 
 L'analyse qualitative de contenu peut paraître très complexe au premier abord. Cependant, si l'on considère les différentes étapes, il est plus facile de les comprendre. Le déroulement de base d'une analyse de contenu qualitative est expliqué ci-dessous en huit étapes et à l'aide d'exemples.
 
-![Vous apprendrez ici en huit étapes comment réaliser une analyse de contenu qualitative.](https://seatable.io/wp-content/uploads/2024/02/Blue-Modern-Data-Analysis-Your-Story-e1709037008610-711x1085.png)
+![Vous apprendrez ici en huit étapes comment réaliser une analyse de contenu qualitative.](Blue-Modern-Data-Analysis-Your-Story-e1709037008610-711x1085.png)
 
 Ce guide vous aidera à le faire.
 
@@ -73,7 +73,7 @@ L'orientation de votre analyse dépend de votre question de recherche. Voici que
 
 Si votre projet est un travail scientifique, vous devez pouvoir **expliquer** votre **question de recherche de manière fondée**. Pour cela, vous devez la relier aux théories existantes et à l'état actuel de la recherche.
 
-![Une bibliothèque est un bon endroit pour trouver de la littérature.](https://seatable.io/wp-content/uploads/2024/03/susan-q-yin-2JIvboGLeho-unsplash-e1709908437533-711x502.jpg)
+![Une bibliothèque est un bon endroit pour trouver de la littérature.](susan-q-yin-2JIvboGLeho-unsplash-e1709908437533-711x502.jpg)
 
 Recherchez la littérature appropriée pour justifier votre démarche de manière fondée.
 
@@ -106,7 +106,7 @@ Il est important de formuler clairement chaque catégorie afin qu'elle puisse ê
 
 Avant de pouvoir réaliser votre analyse de contenu qualitative, vous devez encore définir les unités d'analyse. Celles-ci déterminent ce que vous allez ensuite coder, c'est-à-dire classer dans des catégories.
 
-![Les articles en ligne sont structurés, ce qui permet de les diviser facilement en unités.](https://seatable.io/wp-content/uploads/2024/03/emiliano-vittoriosi-bmFIX77cXA-unsplash-e1709908751710-711x682.jpg)
+![Les articles en ligne sont structurés, ce qui permet de les diviser facilement en unités.](emiliano-vittoriosi-bmFIX77cXA-unsplash-e1709908751710-711x682.jpg)
 
 Les articles peuvent être facilement divisés en unités grâce à leur structure.
 
@@ -159,7 +159,7 @@ Quelle est la fiabilité de la codification ? Les mêmes contenus sont-ils éval
 
 Pour que votre analyse de contenu se déroule sans problème, vous trouverez ici les questions les plus importantes que vous devriez vous poser.
 
-![Ces cinq questions doivent être posées lorsque vous réalisez une analyse de contenu qualitative.](https://seatable.io/wp-content/uploads/2024/03/Green-And-Yellow-Simple-Checklist--e1709905721190-711x513.png)
+![Ces cinq questions doivent être posées lorsque vous réalisez une analyse de contenu qualitative.](Green-And-Yellow-Simple-Checklist--e1709905721190-711x513.png)
 
 La liste de contrôle vous aide à garder un œil sur les points les plus importants de votre analyse.
 

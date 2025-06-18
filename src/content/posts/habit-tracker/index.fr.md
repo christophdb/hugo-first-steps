@@ -17,7 +17,7 @@ Ils maintiennent la motivation à un niveau élevé et suscitent en outre l'ambi
 
 Construire de nouvelles habitudes et changer les mauvaises - c'est ce que vous aide à faire un Habit Tracker. Dans sa version la plus basique, il s'agit d'une **liste avec des cases à cocher** dans laquelle vous documentez chaque jour, sur une période d'un mois, si vous avez effectué une action ou non. Vous avez décidé de méditer tous les jours ? Dans ce cas, cochez toujours la case si vous avez effectivement respecté votre résolution ce jour-là. Si vous entretenez régulièrement votre Habit Tracker, il en résultera une image qui montrera vos **progrès**.
 
-![Ce Habit Tracker est simple et indique l'habitude, le jour et, avec un trait de couleur, si le comportement a été effectué.](https://seatable.io/wp-content/uploads/2023/11/prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
+![Ce Habit Tracker est simple et indique l'habitude, le jour et, avec un trait de couleur, si le comportement a été effectué.](prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
 
 Voici à quoi pourrait ressembler votre Habit Tracker.
 
@@ -43,7 +43,7 @@ Qu'il s'agisse de petits détails du quotidien ou d'un changement de vie, tout e
 
 Réfléchissez à des habitudes qui **améliorent votre quotidien** et qui peuvent y être intégrées. Prenez également conscience des habitudes que vous avez déjà et si elles ont besoin d'être modifiées. Qu'il s'agisse d'abandonner de mauvaises habitudes ou d'en acquérir de nouvelles, vous trouverez ici de l'inspiration :
 
-![Il est possible de se débarrasser de nombreuses mauvaises habitudes et de les transformer en nouvelles bonnes habitudes.](https://seatable.io/wp-content/uploads/2023/11/Design-ohne-Titel-e1701347470819-711x946.jpg)
+![Il est possible de se débarrasser de nombreuses mauvaises habitudes et de les transformer en nouvelles bonnes habitudes.](Design-ohne-Titel-e1701347470819-711x946.jpg)
 
 Vous pouvez remplacer les mauvaises habitudes par de bonnes.
 
@@ -59,7 +59,7 @@ Vous pouvez remplacer les mauvaises habitudes par de bonnes.
 
 De nombreux **comportements désagréables** se sont installés dans notre vie quotidienne et sont devenus discrètement des habitudes. S'en débarrasser ou, dans le meilleur des cas, en faire une bonne habitude vous demandera beaucoup de temps et d'énergie. Mais avec un **plan**, vous y parviendrez.
 
-![6 étapes pour réussir à changer ses habitudes.](https://seatable.io/wp-content/uploads/2023/12/Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
+![6 étapes pour réussir à changer ses habitudes.](Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
 
 Ce plan vous aidera à atteindre vos objectifs.
 
@@ -77,7 +77,7 @@ Ne gardez pas vos projets pour vous. En parlant de vos objectifs à vos amis ou 
 
 Adopter un comportement régulier demande une grande **autodiscipline**. Il existe cependant des conseils qui vous aideront à intégrer plus rapidement des habitudes dans votre quotidien.
 
-![Le livre Atomic Habits contient les conseils ci-dessous, que vous pouvez intégrer dans votre traqueur d'habitudes.](https://seatable.io/wp-content/uploads/2023/11/jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
+![Le livre Atomic Habits contient les conseils ci-dessous, que vous pouvez intégrer dans votre traqueur d'habitudes.](jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
 
 Le best-seller de James Clear contient des conseils utiles.
 
@@ -124,7 +124,7 @@ Et voilà, vous avez atteint votre but ! Vous avez toujours entretenu votre Habi
 
 Comme nous l'avons déjà mentionné, il n'y a pas de limites à la conception de votre Habit Tracker. La fabrication individuelle à la main peut aider à créer un engagement supplémentaire grâce à la personnalisation et à se motiver encore plus avec le travail déjà investi.
 
-![Le modèle montre une approche plus créative, où l'on a travaillé avec des couleurs et une forme particulière.](https://seatable.io/wp-content/uploads/2023/12/Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
+![Le modèle montre une approche plus créative, où l'on a travaillé avec des couleurs et une forme particulière.](Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
 
 Vous pouvez concevoir votre Habit Tracker à la main ou avec des modèles.
 

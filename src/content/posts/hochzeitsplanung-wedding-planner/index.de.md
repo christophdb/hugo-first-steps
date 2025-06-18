@@ -17,7 +17,7 @@ Einer der schönsten und wichtigsten Tage im Leben steht vor der Tür: die eigen
 
 Normalerweise startet die Planung einer Hochzeit ungefähr 13 Monate vor dem großen Tag. Wenn man eine beliebte Hochzeitslocation haben möchte, teilweise sogar noch früher. Wichtig ist, dass man bei der schieren Menge an Aufgaben nicht den Überblick verliert. Deshalb steht in Zentrum unseres Templates [Wedding Planner]({{< relref "templates/events/wedding-planner" >}}) die _Checkliste_ mit bereits über 200 vordefinierten Aufgaben. Zusätzlich wird in dieser Tabelle erfasst, wann das entsprechende To-do erledigt werden muss. Es gibt immer ein übergeordnetes To-do, welches mehrere einzelne Unterpunkte beinhaltet, um Sie durch den ganzen Prozess zu leiten. Die Spalte _Check_ ist eine [Checkbox-Spalte](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/?lang=auto#checkbox), die dazu dient, erledigte To-dos abzuhaken.
 
-![Hochzeitplanung Checkliste](https://seatable.de/wp-content/uploads/2021/07/wedding-more-than-200-todos.png)
+![Hochzeitplanung Checkliste](wedding-more-than-200-todos.png)
 
 Unsere Checkliste für die Hochzeitplanung enthält bereits über 200 ToDos, damit Sie nichts vergessen.
 
@@ -48,7 +48,7 @@ Wir haben Ihnen gleich 5 verschiedene Ansichten vorbereitet, die bei 5 wichtigen
 4. Für die Unterhaltung gibt es die Ansicht _Entertainment_
 5. Für das Essen gibt es die Ansicht möglicher _Caterer_
 
-![Hochzeitsplanung](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
+![Hochzeitsplanung](Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
 
 ### Bei der Hochzeitsplanung geht es um Entscheidungen
 
@@ -75,7 +75,7 @@ In den Notizen ist Platz für alles möglich, vielleicht gibt es persönliche Pr
 
 Damit neben der chaotischen Hochzeitsplanung kein zusätzliches Zettelchaos auf dem Esstisch entsteht, haben wir uns gedacht, die Sitzplanproblematik digital zu lösen. Durch die Verknüpfung der beiden Tabellen _Guestlist_ und _Seating Chart_ können Sie jedem Gast in der Tabelle _Guestlist_ einen von Ihnen zuvor festgelegten Tisch der Tabelle _Seating Chart_ zuweisen. Falls es für Sie übersichtlicher ist, können Sie auch andersherum in der Tabelle _Seating Chart_ die einzelnen Gäste Ihren Tischen zuweisen. Wenn Sie in der _Guestlist_ auf einen Tisch klicken, so sehen Sie direkt, wer bereits am Tisch sitzt.
 
-![](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-14.29.48.png)
+![](Bildschirmfoto-2021-07-13-um-14.29.48.png)
 
 Auch bei der Gästeliste gibt es wieder verschiedene Ansichten, um Ihnen noch mehr unter die Arme zu greifen. Wir haben eine Ansicht erstellt, die Ihnen zeigt, welche [Einladungen](https://www.pinterest.de/mhochzeitsdeko/einladungenskarten-hochzeit/) noch nicht verschickt wurden. Eine Ansicht zeigt Ihnen die verschiedenen Menüwünsche. Vielleicht wäre es für Sie auch eine Option, diese Ansicht direkt mit dem Caterer zu [teilen](https://seatable.io/docs/handbuch/zusammenarbeit/externe-links/?lang=auto), so kann dieser das Menü einfacher planen. Zu guter Letzt gibt es noch drei Einzelansichten für jede einzelne Feierlichkeit, denn wie wir wissen, kommt nicht jeder Gast zu jedem Teil der Feier. Mit einem Klick haben Sie also direkt eine Übersicht über die Personen, die jeweils anwesend sein werden.
 

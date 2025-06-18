@@ -32,7 +32,7 @@ Mit einem Anschreiben haben Sie die Möglichkeit, sich selbstbewusst zu präsent
 
 Bevor Sie mit dem Schreiben starten, sollten Sie ein **Informationsblatt** anlegen. Schließlich benötigen Sie Informationen über das Unternehmen, die Anforderungen und natürlich einen Überblick über Ihre eigenen Qualifikationen, um Ihr Bewerbungsschreiben an die Stellenanzeige anpassen zu können.
 
-![Recherchieren Sie mit Ihrem Computer im Internet, um Informationen über das Unternehmen zu sammeln.](https://seatable.io/wp-content/uploads/2024/04/pexels-pixabay-39284-1-e1713177205489.jpg)
+![Recherchieren Sie mit Ihrem Computer im Internet, um Informationen über das Unternehmen zu sammeln.](pexels-pixabay-39284-1-e1713177205489.jpg)
 
 Bedienen Sie sich bei Ihrer Recherche an verschiedenen Quellen.
 
@@ -49,7 +49,7 @@ Dabei hilft Ihnen ein strukturiertes Vorgehen, relevante Informationen herauszua
 
 Aus diesen Fragen soll hervorgehen, was **Ihre Persönlichkeit** ausmacht und was Sie von Anderen **unterscheidet**. Um die oben erlangten Erkenntnisse auf Ihre Relevanz zu überprüfen, hilft es, diese tabellarisch darzustellen.
 
-![Verschiedene Hard- und Soft Skills sind für ein Bewerbungsschreiben relevant.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_01-e1713776827650-711x549.png)
+![Verschiedene Hard- und Soft Skills sind für ein Bewerbungsschreiben relevant.](Bewerbungsschreiben_01-e1713776827650-711x549.png)
 
 Verbinden Sie die erlernten Soft Skills mit den dazugehörigen Hard Skills.
 
@@ -71,7 +71,7 @@ Wenn Sie SeaTable für Ihren Bewerbungsplaner nutzen möchten, [registrieren]({{
 
 Bevor Sie mit dem Formulieren Ihrer Bewerbung beginnen, gilt es, ein **einheitliches Design** für alle Ihre Bewerbungsunterlagen festzulegen. Damit sieht Ihre Bewerbung nicht nur auf den ersten Blick stimmiger aus, sondern Sie vermitteln, dass Sie **ordentlich** und **sauber** arbeiten.
 
-![Suchen Sie eine passende Schriftart, Zeilenabstand und Schriftgröße aus.](https://seatable.io/wp-content/uploads/2024/04/markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
+![Suchen Sie eine passende Schriftart, Zeilenabstand und Schriftgröße aus.](markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
 
 Suchen Sie eine passende Schriftart und achten Sie auf Schriftgröße, Zeilenabstand und Seitenrand.
 
@@ -89,7 +89,7 @@ Diese Formalien können Sie natürlich auch auf weitere Bewerbungsunterlagen anw
 
 Der Aufbau eines Bewerbungsschreibens sieht immer gleich aus und lässt sich in sechs Abschnitte unterteilen.
 
-![Die perfekte Struktur Ihres Anschreibens besteht aus sechs Schritten.](https://seatable.io/wp-content/uploads/2024/03/Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
+![Die perfekte Struktur Ihres Anschreibens besteht aus sechs Schritten.](Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
 
 Folgen Sie der Struktur und füllen Sie diese mit Inhalt.
 
@@ -113,7 +113,7 @@ Darunter folgt mit zwei bis drei Leerzeilen Abstand die **Betreffzeile**. Diese 
 
 Bevor Sie die Möglichkeit haben, inhaltlich mit Ihren Qualifikationen zu glänzen, gilt es, die Aufmerksamkeit Ihres Ansprechpartners zu gewinnen. Sprechen Sie diesen **persönlich** mit Namen an und verwenden Sie nur im Notfall die unpersönliche Bezeichnung _Damen und Herren_, wenn Ihnen niemand namentlich bekannt ist. Wählen Sie bei konservativeren Unternehmen eine klassische **Anrede** wie _Sehr geehrte Frau XY_, um Ihr Anliegen höflich einzuleiten. Bei Start-ups können Sie auch eine informelle Anrede wie _Hallo liebes Marketing-Team, liebe Frau XY_ ausprobieren.
 
-![Schreiben Sie höflich, denn Sie wollen sich und Ihre Fähigkeiten in Ihrem Anschreiben gut verkaufen.](https://seatable.io/wp-content/uploads/2024/04/monitor-376211_640-e1713177612297.jpg)
+![Schreiben Sie höflich, denn Sie wollen sich und Ihre Fähigkeiten in Ihrem Anschreiben gut verkaufen.](monitor-376211_640-e1713177612297.jpg)
 
 Schreiben Sie höflich, um bei Ihrem Gegenüber einen guten ersten Eindruck zu erwecken.
 
@@ -139,7 +139,7 @@ Das Beste kommt zum Schluss. Hier ist Platz für Ihre Angaben zu **Gehaltsvorste
 
 Dem **Schlusssatz** kommt eine besondere Bedeutung zu, da dieser dem Personaler am längsten in Erinnerung bleibt. Daher ist es wichtig, dass Sie **Selbstbewusstsein** ausstrahlen und nochmals verdeutlichen, dass Sie mit einer positiven Rückmeldung rechnen. Um das zu bewirken, sollten Sie den **Konjunktiv** vermeiden. Ein Abschluss wie _Ich würde mich über die Einladung zu einem Bewerbungsgespräch freuen_ wirkt so zurückhaltend, als seien Sie sich Ihrer eigenen Qualifikation für die Stelle unsicher.
 
-![Das Ziel des Bewerbungsschreibens ist es, zu einem Bewerbungsgespräch eingeladen zu werden.](https://seatable.io/wp-content/uploads/2024/04/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash-e1713178160395.jpg)
+![Das Ziel des Bewerbungsschreibens ist es, zu einem Bewerbungsgespräch eingeladen zu werden.](christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash-e1713178160395.jpg)
 
 Behalten Sie Ihr Ziel vor Augen: Mit Selbstbewusstsein zum Bewerbungsgespräch.
 
@@ -165,7 +165,7 @@ Das klassische Bewerbungsschreiben, wie es oben erklärt wurde, kann in bestimmt
 
 Möchten Sie sich im Rahmen eines Schüler- oder Hochschulpraktikums bewerben, setzen die Personaler **keine oder wenige berufliche Qualifikationen** voraus. Dafür punkten Sie vor allem mit passenden **Soft Skills und Interessen**, welche Sie in bestimmten Fächern, Ferienjobs, Ihrer Freizeit oder im Rahmen von eigenen Projekten und Ehrenämtern ausüben.
 
-![Mit ehrenamtlichen Tätigkeiten lassen sich Soft Skills beweisen.](https://seatable.io/wp-content/uploads/2024/04/ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
+![Mit ehrenamtlichen Tätigkeiten lassen sich Soft Skills beweisen.](ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
 
 Zeigen Sie anhand eines Ehrenamtes Ihr soziales Engagement.
 
@@ -187,7 +187,7 @@ Inhaltlich steht Ihre Bewerbung und Sie wollen ihr den letzten Schliff verpassen
 
 Achten Sie auf Ihren Schreibstil und die von Ihnen verwendeten Formulierungen.
 
-![Ihr Anschreiben können Sie mit der Beachtung von Dos und Don'ts aufwerten.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_02-e1713776597515-711x575.png)
+![Ihr Anschreiben können Sie mit der Beachtung von Dos und Don'ts aufwerten.](Bewerbungsschreiben_02-e1713776597515-711x575.png)
 
 Achten Sie auf angemessene Formulierungen.
 

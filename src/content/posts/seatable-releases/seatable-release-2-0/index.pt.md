@@ -20,7 +20,7 @@ E isso não é tudo! Graças a uma grande contribuição da comunidade, podemos 
 
 ## Tipo de coluna #22: Fórmula para links
 
-![Novo tipo de coluna Fórmula de ligação](https://seatable.io/wp-content/uploads/2021/05/Column_type_link_formula.png)
+![Novo tipo de coluna Fórmula de ligação](Column_type_link_formula.png)
 
 A capacidade de mapear relações entre as entradas em diferentes tabelas é um dos principais diferenciadores do SeaTable em relação às folhas de cálculo clássicas, tais como Excel e Google Sheets. Enquanto estes últimos só conhecem referências de células (por exemplo, para fórmulas), no SeaTable 1:1, 1:n e n:m podem ser criadas ligações entre tabelas numa base.
 
@@ -30,7 +30,7 @@ Com a nova coluna de fórmula para ligações, as ligações existentes podem se
 
 SeaTable não restringe, em princípio, o tipo de relação entre tabelas. Contudo, em alguns casos de utilização faz sentido impor uma relação 1:1 ou 1:n. Um sistema de gestão de inventário é um exemplo simples: um beamer só pode estar numa sala ou com um mutuário em qualquer altura. Da mesma forma, uma máquina de testes não pode estar disponível para múltiplos testes ao mesmo tempo.
 
-![Novos controlos para ligação a outras colunas de registos](https://seatable.io/wp-content/uploads/2021/05/More_Controls_over_linked_records.png)
+![Novos controlos para ligação a outras colunas de registos](More_Controls_over_linked_records.png)
 
 Com o SeaTable 2.0, as colunas de ligação oferecem agora a opção de configuração "Permitir ligação a várias linhas". Activada por predefinição, a desativação da opção faz com que uma entrada na tabela atual só possa ser ligada a uma única entrada na tabela ligada. Para os dois exemplos acima, isto significa: O SeaTable garante que não é necessário procurar o projetor com várias pessoas ou em várias salas e impede que a máquina de teste não seja programada para dois testes simultâneos.
 
@@ -40,7 +40,7 @@ Para além da opção de configuração para limitar o _número de entradas liga
 
 Os formulários web do SeaTable são incrivelmente práticos para pesquisas simples. Em apenas alguns momentos, um questionário é criado e está pronto a ser enviado. As respostas dos participantes no inquérito acabam na base subjacente e podem ser analisadas rápida e facilmente com as várias ferramentas de análise do SeaTable.
 
-![Novo tipo de coluna Classificação](https://seatable.io/wp-content/uploads/2021/05/Column_type_rating.png)
+![Novo tipo de coluna Classificação](Column_type_rating.png)
 
 A nova coluna de classificação é um complemento ideal para estes inquéritos: "Ficou satisfeito com o nosso desempenho?" ou "Recomendar-nos-ia aos seus amigos?" Cinco estrelas não deixam margem para dúvidas; duas estrelas, por outro lado, oferecem muito espaço para melhorias. No entanto, o novo tipo de coluna não é apenas adequado para inquéritos de satisfação do cliente. Quer votar na sua equipa sobre o nome de um novo produto? Os novos contactos requerem uma avaliação rápida para definição de prioridades? A coluna de classificação ajuda em todos estes casos!
 
@@ -64,7 +64,7 @@ A coluna de geoposição armazena as coordenadas de longitude e latitude como va
 
 Existem colunas em que é necessário introduzir sempre praticamente o mesmo valor quando se cria uma nova entrada, por exemplo, uma coluna de estado na gestão de projectos ou uma coluna de texto com uma cadeia inicial uniforme. Não pouparia muito tempo se estes valores pudessem ser definidos automaticamente para as novas entradas?
 
-![Valores por omissão para colunas](https://seatable.io/wp-content/uploads/2021/05/Default_values.png)
+![Valores por omissão para colunas](Default_values.png)
 
 Porque é exactamente este o caso, o SeaTable da versão 2.0 permite a definição de um valor por defeito para os três tipos de colunas texto, número e selecção única. Se esse valor por defeito for definido, a célula correspondente numa nova entrada é automaticamente preenchida com o valor por defeito. Se a nova entrada for a excepção à regra e o valor definido automaticamente não couber, então isto pode ser manualmente substituído em qualquer altura.
 

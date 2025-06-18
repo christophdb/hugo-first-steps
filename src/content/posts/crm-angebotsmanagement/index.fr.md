@@ -46,13 +46,13 @@ Pour commencer à enregistrer les données réelles des clients, notre [modèle 
 
 Ces données sont ensuite transférées dans votre système CRM personnel ou dans le tableau "Données clients" de SeaTable, où elles sont directement codées par couleur en fonction du potentiel de vente.
 
-![CRM_Webform](https://seatable.de/wp-content/uploads/2021/07/CRM_Webform.jpg)
+![CRM_Webform](CRM_Webform.jpg)
 
 Saisie de nouveaux clients via un formulaire web dans SeaTable
 
 D'un seul coup d'œil sur la ligne, vous savez exactement à quelle catégorie de chiffre d'affaires appartient le client saisi. Cela devrait également vous permettre d'attribuer rapidement et efficacement le client à l'un de vos employés en fonction de son potentiel de rotation. La [règle de notification](https://seatable.io/fr/docs/handbuch/zusammenarbeit/benachrichtigungen/?lang=auto) qui a été définie est également particulièrement utile ici. Si, par la suite, vous modifiez manuellement le potentiel de rotation du client, le superviseur de l'équipe de vente concernée est directement contacté et invité à affecter le client existant à l'un de ses employés.
 
-![Système de CRM](https://seatable.de/wp-content/uploads/2021/07/CRM_Customer-data-view.jpg)
+![Système de CRM](CRM_Customer-data-view.jpg)
 
 Le système CRM de SeaTable
 
@@ -64,13 +64,13 @@ Afin de pouvoir affecter un employé de votre équipe de vente à votre client, 
 
 Une [fonction de regroupement](https://seatable.io/fr/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) et un code couleur des lignes en fonction de la position de l'employé sont destinés à vous montrer des structures de clientèle claires supplémentaires de vos employés.
 
-![Équipe de vente CRM](https://seatable.de/wp-content/uploads/2021/07/CRM_Salesteam.jpg)
+![Équipe de vente CRM](CRM_Salesteam.jpg)
 
 Votre équipe de vente à SeaTable
 
 Maintenant, vous pouvez facilement affecter l'un de vos employés responsables au client en un seul clic dans la colonne "Employé responsable" du tableau "Données client". Le tout se fait en arrière-plan avec un lien vers la table "Sales Team".
 
-![Employés de l'équipe de vente de CRM](https://seatable.de/wp-content/uploads/2021/07/CRM_Salesteam02.jpg)
+![Employés de l'équipe de vente de CRM](CRM_Salesteam02.jpg)
 
 Affectation des clients à SeaTable
 
@@ -78,19 +78,19 @@ Affectation des clients à SeaTable
 
 En quelques secondes seulement, vous avez créé votre offre personnelle pour votre client. Toutefois, avant de commencer, il est important que vous ayez mis à jour votre catalogue de produits. Dès que vous avez saisi tous vos produits avec leur nom et leur prix, vous pouvez commencer à créer votre offre immédiatement.
 
-![CRM_Catalogue de produits](https://seatable.io/wp-content/uploads/2021/07/CRM_Products.jpg)
+![CRM_Catalogue de produits](CRM_Products.jpg)
 
 Votre catalogue de produits dans SeaTable
 
 Pour ce faire, il suffit de créer une nouvelle entrée dans votre tableau "Offres". Le numéro de l'offre, qui est consécutif, la date et l'heure de l'offre correspondante et le créateur de l'offre sont automatiquement préremplis. Sélectionnez maintenant le client souhaité dans la "colonne Client", auquel vous souhaitez soumettre une offre. Les autres données client manquantes, telles que le numéro de client, la personne de contact, la rue, le numéro de maison, le code postal, la ville et le pays, sont automatiquement transférées de la table "Données client" via la colonne de liaison.
 
-![CRM_Offre_Données_clients](https://seatable.de/wp-content/uploads/2021/07/CRM_offer_customer.jpg)
+![CRM_Offre_Données_clients](CRM_offer_customer.jpg)
 
 Création de citations dans SeaTable
 
 Vous pouvez ensuite facilement sélectionner le produit que vous proposez dans la colonne "Produit". Le prix unitaire est à nouveau automatiquement ajouté à partir de votre tableau "Catalogue de produits" via une colonne de liaison. Il suffit maintenant de saisir la quantité offerte sous "Quantité" et le prix de l'offre sera calculé automatiquement à l'aide de la formule prix unitaire x quantité.
 
-![CRM_SeaTable_Sélection des produits](https://seatable.de/wp-content/uploads/2021/07/crm_product_select.jpg)
+![CRM_SeaTable_Sélection des produits](crm_product_select.jpg)
 
 Sélection de produits dans SeaTable
 
@@ -98,7 +98,7 @@ Pour pouvoir enfin imprimer votre offre ou l'enregistrer en tant que fichier PDF
 
 D'un seul clic sur "Imprimer", vous pouvez maintenant l'imprimer ou l'enregistrer en tant que document PDF, puis l'envoyer à votre client par courrier ou par e-mail.
 
-![Devis CRM](https://seatable.de/wp-content/uploads/2021/07/seatable_pagedesign-plugin-02.jpg)
+![Devis CRM](seatable_pagedesign-plugin-02.jpg)
 
 Votre offre finalisée à SeaTable
 
@@ -108,19 +108,19 @@ Si votre client a accepté l'offre et payé, il vous suffit de cocher la case "P
 
 En plus de la vue de la table, SeaTable offre offre un certain nombre d'autres plug-inspour afficher vos données différemment. Vous pouvez utiliser ces affichages et automatisations supplémentaires pour les utiliser pour d'obtenir une perspective différente sur vos clients et d'en tirer des activités ciblées. Le site plug-in de calendrier vous donne un aperçu important de tous les rendez-vous clients à venir dans votre équipe. En outre, les clients sont marqués dans votre calendrier en fonction de leur potentiel de chiffre d'affaires. Pour s'assurer qu'aucun rendez-vous client n'est oublié, l'employé responsable se voit automatiquement rappeler le rendez-vous deux jours avant qu'il n'ait lieu au moyen d'une règle de notification.
 
-![CRM_SeaTable_Calendar](https://seatable.de/wp-content/uploads/2021/07/CRM-calendar.jpg)
+![CRM_SeaTable_Calendar](CRM-calendar.jpg)
 
 Vue du calendrier dans SeaTable
 
 Le plug-in carte, quant à lui, est conçu pour vous montrer la répartition de votre clientèle et, sur la base du potentiel de chiffre d'affaires, pour vous indiquer en couleur où se trouvent vos principaux clients à domicile. Grâce à l'effet "mouse-over" sur chaque épingle dans la vue cartographique, vous obtenez d'autres informations importantes sur le client réel caché derrière le marqueur.
 
-![CRM_SeaTable_Map](https://seatable.de/wp-content/uploads/2021/07/CRM_map.jpg)
+![CRM_SeaTable_Map](CRM_map.jpg)
 
 Vue de la carte dans SeaTable
 
 Votre système CRM SeaTable est complété par le plug-in Kanban. Cela vous montre la répartition exacte en fonction du potentiel de vente de vos clients et, d'autre part, dans quelles phases de vente se trouve actuellement votre personnel de terrain. Cette vue est également connue sous le nom de "pipeline de vente" et vous permet de garder un œil sur les clients les plus importants.
 
-![CRM_SeaTable_Kanban](https://seatable.de/wp-content/uploads/2021/07/CRM_kanban.jpg)
+![CRM_SeaTable_Kanban](CRM_kanban.jpg)
 
 Vue kanban dans SeaTable
 
@@ -128,7 +128,7 @@ Vue kanban dans SeaTable
 
 Pour pouvoir faire des déclarations précises sur votre succès commercial, il est important que toutes les informations pertinentes soient disponibles dans votre système CRM en un clin d'œil. SeaTable vous permet de créer vos propres évaluations individuelles en un rien de temps à l'aide de [statistiques](https://seatable.io/fr/docs/handbuch/datenmanagement/statistiken/?lang=auto). Vous disposez ainsi d'une vue personnelle et individuelle du tableau de bord qui donne à votre CRM SeaTable la touche finale.
 
-![CRM_SeaTable_Statistics](https://seatable.de/wp-content/uploads/2021/07/crm_statistics.jpg)
+![CRM_SeaTable_Statistics](crm_statistics.jpg)
 
 Statistiques dans SeaTable
 

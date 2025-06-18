@@ -31,7 +31,7 @@ Mit SeaTable haben Sie alle wichtigen Informationen, Produkte und Bestellungen a
 
 Unser Template besteht aus drei Tabellen, die alle miteinander zusammenhängen und sich gegenseitig Informationen zuspielen. Die erste Tabelle ist die Grundlage für das Webformular, das Ihre Mitarbeiter für alle Bestellungen nutzen können. Die zweite Tabelle besteht aus einem ausführlichen Produktkatalog, der alle Waren beinhaltet, die im Unternehmen für interne Zwecke benötigt werden – von Bleistiften bis hin zur Computermaus. Die dritte Tabelle beinhaltet alle Lieferanten der Güter mit den wichtigen Kontaktdaten. **Mit diesen drei Stellschrauben** wird Ihre Büroorganisation sehr bald ein Leichtes werden.
 
-![Übersicht aller Bestellungen im indirekten Einkauf](https://seatable.io/wp-content/uploads/2021/11/bestellungen-indirekter-einkauf-1088x515.png)
+![Übersicht aller Bestellungen im indirekten Einkauf](bestellungen-indirekter-einkauf-1088x515.png)
 
 Dass alle Tabellen miteinander verbunden sind, ist mit den verknüpften Spalten möglich. Dieses praktische Feature vereinfacht die Datenorganisation innerhalb einer Base: Daten, die in jeder Tabelle benötigt werden, wie etwa der Preis eines Produkts, können in einer Tabelle angelegt und in allen anderen Tabellen ausgespielt werden. Ändert sich der Preis in der Ursprungstabelle, so ändert er sich durch die Verknüpfung auch in allen anderen Tabellen. So müssen Informationen nicht mehrfach eingetragen werden, sondern regulieren sich selbst!
 
@@ -41,7 +41,7 @@ In dieser Tabelle kommen damit viele Informationen zusammen: Die Spalten “Prod
 
 Die Tabelle bietet mit ihren Spalten gleichzeitig die Basis für das integrierte [Webformular](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/) für Ihre Büroorganisation. Für eine Bestellung von internem Material wählen die Mitarbeiter ein Produkt aus der Liste aus – das ist die verknüpfte Spalte “Products” aus dem Produktkatalog (Tabelle 2). Danach geben sie nur noch die Menge an und in welcher Abteilung sie tätig sind, damit die Bestellungen übersichtlich bleiben.
 
-![Bestellformular indirektes Material](https://seatable.io/wp-content/uploads/2021/11/bestellformular-indirektes-material.png)
+![Bestellformular indirektes Material](bestellformular-indirektes-material.png)
 
 Jedes abgeschickte Formular landet umgehend in der Base und wird als neue Zeile angelegt. Die Mitarbeiter müssen relativ wenige Angaben machen, obwohl in der Tabelle selbst sehr viele Informationen hinterlegt sind. Hier kommen die verknüpften Spalten ins Spiel.
 
@@ -69,7 +69,7 @@ Diese Regel benachrichtigt alle Beteiligten darin automatisch per Mail, falls es
 
 Mit SeaTable haben Sie auch die Möglichkeit, mit nur einem Klick automatisierte Emails zu verschicken. Das ist nicht nur im internen Einkauf sehr hilfreich. Dafür müssen Sie zuerst Ihr Email-Konto in Ihre Base einbauen. Das geht über die drei Punkte oben rechts -> Einstellungen -> Drittanbieter. Hier können Sie Ihr Email-Konto gemäß den Angaben Ihres Email-Anbieters hinzufügen. Ist dieser Schritt geschafft, so können Sie mit der Schaltflächen-Spalte eine Schaltfläche zum Versenden von Emails erstellen.
 
-![Bestellungen automatisch verschicken mit SeaTable](https://seatable.io/wp-content/uploads/2021/11/Bestellungen-automatisch-verschicken.gif)
+![Bestellungen automatisch verschicken mit SeaTable](Bestellungen-automatisch-verschicken.gif)
 
 Das geht folgendermaßen:
 
@@ -83,7 +83,7 @@ Das geht folgendermaßen:
 
 SeaTable wäre keine optimale Lösung für die Büroorganisation, wenn es nicht auch für die Aufgabenverwaltung eine übersichtliche und praktische Funktion parat hätte. Zum einen erstellen wir verschiedene [Ansichten](https://seatable.io/docs/handbuch/seatable-nutzen/ansichten/) für jeden Bearbeiter, damit nur die für ihn jeweiligen Bestellungen sichtbar sind. Denn ein Bearbeiter für Büroequipment muss die Bestellungen für Lebensmittel nicht sehen. Das geht über einen Klick auf den kleinen Pfeil links oben, in unserem Beispiel mit “View all” betitelt.
 
-![Kanban-Ansicht sämtlicher Bestellungen im indirekten Einkauf](https://seatable.io/wp-content/uploads/2021/11/kanban-view-indirekte-beschaffung.png)
+![Kanban-Ansicht sämtlicher Bestellungen im indirekten Einkauf](kanban-view-indirekte-beschaffung.png)
 
 Mit einem Filter werden die entsprechenden Personen, für die die Ansicht gedacht ist, eingestellt. Somit werden nur noch die Bestellungen angezeigt, die auch einem selbst zugehörig sind – das hilft, den Überblick zu wahren und seine eigenen Aufgabenbereiche im Blick zu behalten. Die Ansichten sind allerdings auch die Grundlage für das Kanban-Plugin.
 
@@ -97,7 +97,7 @@ Wir haben oben bereits erklärt, wie wertvoll die verknüpften Spalten in SeaTab
 
 In der zweiten Tabelle findet sich der komplette Produktkatalog der Büroorganisation. Nur Produkte, die hier hinterlegt sind, können von der Belegschaft auch bestellt werden. Daher ist es wichtig, dass auch alle Produkte in der Liste sind – sobald neue Produkte hinzukommen, werden diese hier mit eingepflegt und sind danach sofort für eine Bestellung verfügbar.
 
-![Der Produktkatalog für das indirekte Material in SeaTable](https://seatable.io/wp-content/uploads/2021/11/produktkatalog-indirekter-einkauf.png)
+![Der Produktkatalog für das indirekte Material in SeaTable](produktkatalog-indirekter-einkauf.png)
 
 Auch in dieser Tabelle werden Informationen aus anderen genutzt. Die Bestellnummern etwa stammen aus der Tabelle “Orders” und die Lieferanten und deren Email-Adresse stammen aus der dritten Tabelle “Suppliers”. Auch hier werden wieder die verknüpften Spalten genutzt, um den Organisationsaufwand zu gering wie möglich zu halten. Die Spalte “€” in dieser Tabelle gibt die Produktpreise laut Liste wieder und ist dabei maßgeblich für die Berechnung der Preise der Bestellungen.
 

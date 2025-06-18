@@ -20,7 +20,7 @@ Dans cet article, nous vous montrons comment une équipe de vente à distance pe
 
 En raison de la diminution des contacts personnels, il est essentiel pour l'équipe de vente de rester connectée et productive dans un environnement de travail à distance. Vous trouverez ci-dessous quelques stratégies et pratiques éprouvées que vous pouvez utiliser pour améliorer les performances et l'efficacité de votre équipe de vente à distance.
 
-![Des équipes à distance au travail](https://seatable.io/wp-content/uploads/2023/06/sigmund-eTgMFFzroGc-unsplash-scaled-e1686045067675.jpg)
+![Des équipes à distance au travail](sigmund-eTgMFFzroGc-unsplash-scaled-e1686045067675.jpg)
 
 Le travail en équipe à distance requiert différentes stratégies et pratiques pour améliorer les performances et l'efficacité.
 
@@ -44,7 +44,7 @@ Collaborer à travers différentes régions géographiques et fuseaux horaires n
 
 [SeaTable](https://seatable.io/fr/) est une autre application collaborative de premier ordre pour la gestion de l'information. Cette application sans code dispose de solutions pour le [marketing](https://seatable.io/fr/marketing/), les [ventes](https://seatable.io/fr/distribution/) et [la gestion de projet](https://seatable.io/fr/gestion-de-projet/) qui aident les équipes de vente à distance à collecter, structurer et évaluer différents types d'informations.
 
-![SeaTable propose plusieurs solutions pour les équipes de vente à distance, qui les aident à collecter, structurer et analyser différents types d'informations](https://seatable.io/wp-content/uploads/2021/08/Ansicht_Offers.png)
+![SeaTable propose plusieurs solutions pour les équipes de vente à distance, qui les aident à collecter, structurer et analyser différents types d'informations](Ansicht_Offers.png)
 
 SeaTable propose plusieurs solutions pour les équipes de vente à distance, qui aident à collecter, structurer et évaluer différents types d'informations.
 
@@ -64,7 +64,7 @@ Selon [des statistiques récentes sur les ventes](https://www.heinzmarketing.com
 
 L'automatisation des processus de vente aide l'équipe de vente à distance à fournir de meilleures performances en restant dans le flux de travail et en économisant son temps et son énergie précieux. Les managers peuvent faire évoluer efficacement leur équipe de vente et décider où diriger les efforts pour obtenir des résultats optimaux.
 
-![SeaTable propose déjà de nombreux modèles prédéfinis pour les équipes de vente à distance.](https://seatable.io/wp-content/uploads/2023/06/templates-crm-remote.png)
+![SeaTable propose déjà de nombreux modèles prédéfinis pour les équipes de vente à distance.](templates-crm-remote.png)
 
 SeaTable propose déjà de nombreux modèles prédéfinis pour les équipes de vente à distance.
 
@@ -84,7 +84,7 @@ On dit que les employés engagés sont plus productifs que ceux qui ont peu de c
 
 cette fin, il est important de prendre des mesures préventives pour encourager les travailleurs et réduire les facteurs qui les frustrent. En outre, il convient de partager les réussites communes avec les membres de l'équipe et de leur offrir un soutien afin qu'ils puissent eux-mêmes remporter de grands succès.
 
-![Les interactions sociales dans les équipes à distance favorisent les compétences en communication, rendent les réunions plus productives et créent de bonnes relations d'équipe.](https://seatable.io/wp-content/uploads/2023/06/antenna-ZDN-G1xBWHY-unsplash-scaled-e1686045663343-711x474.jpg)
+![Les interactions sociales dans les équipes à distance favorisent les compétences en communication, rendent les réunions plus productives et créent de bonnes relations d'équipe.](antenna-ZDN-G1xBWHY-unsplash-scaled-e1686045663343-711x474.jpg)
 
 Les interactions sociales au sein des équipes distantes favorisent les compétences en communication, rendent les réunions plus productives et créent de bonnes relations d'équipe.
 

@@ -21,7 +21,7 @@ In diesem Artikel zeigen wir Ihnen, wie ein Remote Sales Team seine Marketing- u
 
 Aufgrund der immer weniger vorhandenen persönlichen Kontakte ist es für das Vertriebsteam von entscheidender Bedeutung, in einer Remote-Arbeitsumgebung in Verbindung zu bleiben und produktiv zu arbeiten. Im Folgenden finden Sie einige bewährte Strategien und Praktiken, die Sie anwenden können, um die Leistung und Effizienz Ihres Remote-Verkaufsteams zu steigern.
 
-![Remote-Teams bei der Arbeit](https://seatable.io/wp-content/uploads/2023/06/sigmund-eTgMFFzroGc-unsplash-scaled-e1686045067675.jpg)
+![Remote-Teams bei der Arbeit](sigmund-eTgMFFzroGc-unsplash-scaled-e1686045067675.jpg)
 
 Bei der Arbeit in Remote-Teams bedarf es verschiedener Strategien und Praktiken, um die Leistung und Effizienz zu steigern.
 
@@ -45,7 +45,7 @@ Die Zusammenarbeit über verschiedene geografische Regionen und Zeitzonen hinweg
 
 [SeaTable](https://seatable.io/) ist eine weitere erstklassige kollaborative Anwendung für das Informationsmanagement. Die No-Code-Anwendung verfügt über Lösungen für [Marketing](https://seatable.io/en/marketing/), [Vertrieb](https://seatable.io/en/vertrieb/) und [Projektmanagement](https://seatable.io/en/projektmanagement/), die Remote Sales Teams bei der Erfassung, Strukturierung und Auswertung verschiedener Arten von Informationen unterstützen.
 
-![SeaTable bietet verschiedene Lösungen für Remote Sales Teams, die bei der Erfassung, Strukturierung und Auswertung verschiedener Arten von Informationen unterstützen](https://seatable.io/wp-content/uploads/2021/08/Ansicht_Offers.png)
+![SeaTable bietet verschiedene Lösungen für Remote Sales Teams, die bei der Erfassung, Strukturierung und Auswertung verschiedener Arten von Informationen unterstützen](Ansicht_Offers.png)
 
 SeaTable bietet verschiedene Lösungen für Remote Sales Teams, die bei der Erfassung, Strukturierung und Auswertung verschiedener Arten von Informationen unterstützen.
 
@@ -65,7 +65,7 @@ Sie sollten sich auch nach Berichten über Verkaufsziele erkundigen, um zu sehen
 
 Die Automatisierung von Vertriebsprozessen hilft dem Remote Sales Team, bessere Leistungen zu erbringen, weil es im Workflow bleibt und seine wertvolle Zeit und Energie spart. Manager können ihr Vertriebsteam effektiv skalieren und entscheiden, wohin der Aufwand für optimale Ergebnisse gelenkt werden soll.
 
-![SeaTable bietet bereits viele vorgefertigte Templates für Remote Sales Teams an.](https://seatable.io/wp-content/uploads/2023/06/templates-crm-remote.png)
+![SeaTable bietet bereits viele vorgefertigte Templates für Remote Sales Teams an.](templates-crm-remote.png)
 
 SeaTable bietet bereits viele vorgefertigte Templates für Remote Sales Teams an.
 
@@ -85,7 +85,7 @@ Es heißt, dass engagierte Mitarbeiter produktiver sind als solche mit wenig Kon
 
 Zu diesem Zweck ist es wichtig, vorbeugende Maßnahmen zu ergreifen, um die Arbeitnehmer zu ermutigen, und Faktoren, die sie frustrieren, zu reduzieren. Darüber hinaus sollten Sie die Teammitglieder an gemeinsamen Erfolgen teilhaben lassen und ihnen Unterstützung anbieten, damit sie selbst große Erfolge erzielen können.
 
-![Soziale Interaktionen in Remote-Teams fördern die Kommunikationsfähigkeiten, machen Meetings produktiver und schaffen gute Teambeziehungen](https://seatable.io/wp-content/uploads/2023/06/antenna-ZDN-G1xBWHY-unsplash-scaled-e1686045663343-711x474.jpg)
+![Soziale Interaktionen in Remote-Teams fördern die Kommunikationsfähigkeiten, machen Meetings produktiver und schaffen gute Teambeziehungen](antenna-ZDN-G1xBWHY-unsplash-scaled-e1686045663343-711x474.jpg)
 
 Soziale Interaktionen in Remote Teams fördern die Kommunikationsfähigkeiten, machen Meetings produktiver und schaffen gute Teambeziehungen.
 

@@ -20,7 +20,7 @@ Mit einer Inventarliste können Sie den Bestand in Ihrem Unternehmen erfassen. D
 
 Jeder Kaufmann und jedes Unternehmen, das zur doppelten Buchführung verpflichtet ist, muss eine Inventur durchführen. Diese muss sowohl zur Geschäftseröffnung als auch nach jedem Geschäftsjahr erfolgen. Dabei nehmen Sie den Bestand auf und erstellen ein Inventar.
 
-![Lagerarbeiter nutzt iPad mit Inventarliste.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Lagerarbeiter nutzt iPad mit Inventarliste.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
 
 Nutzen Sie eine digitale Inventarliste, um Ihren Bestand zu erfassen. Bildrechte: tradol / Adobe Stock
 
@@ -83,7 +83,7 @@ Ein Programm, das viele Unternehmen bereits verwenden, ist Excel. Hier können S
 
 Liegt Ihnen bereits eine Inventurliste als Excel-Vorlage vor, können Sie diese mit wenigen Klicks immer wieder verwenden. Duplizieren Sie dazu die bestehende Datei, bevor Sie sie in Excel öffnen.
 
-![Excel für eine Inventarliste.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel für eine Inventarliste.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
 
 Excel-Tabellen sind für Inventarlisten beliebt. Bildrechte: PixieMe / Adobe Stock
 

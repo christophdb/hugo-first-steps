@@ -58,7 +58,7 @@ SeaTable ist als Projektmananagement-Tool hochflexibel und kann sich hervorragen
 
 SeaTable bietet als **flexible Spreadsheetlösung** eine ganz individuelle Gestaltung Ihres Aufgabenmanagements. Aufgebaut haben wir unsere Base mit allen wichtigen Informationen, die für ein Projekt benötigt werden, wie To Do’s, verantwortliche Person, Deadline, Beginndatum und wichtige Dokumente. Dabei können verschiedene Spaltentypen genutzt werden, die die Eingaben personalisieren und präzisieren. Somit können Sie für jede anfallende Aufgabe eine neue Zeile erstellen und die Aufgabe ausführlich eintragen. Dieser Vorgang ist vergleichbar mit einer Ticket-Erstellung, wie es sie in manchen Systemen gibt.
 
-![Legen Sie für Ihre Projekte Aufgabenverwaltungen an](https://seatable.io/wp-content/uploads/2021/09/Uebersichtn.gif)
+![Legen Sie für Ihre Projekte Aufgabenverwaltungen an](Uebersichtn.gif)
 
 Nahezu jeder Spaltentyp kann für weiterführende Strukturierungen und Auswertungen genutzt werden. Für eine bessere Übersicht und Einordnung der Aufgaben wurde bei der Tabelle “TV Ad Campaign” eine doppelte Gruppierung nach Kategorie und Aufgabenbereich vorgenommen und im Nebenprojekt “Brand Magazine” eine Gruppierung nach Aufgabenbereich und Priorität. Die Aufgabenverwaltungen könnten aber auch nach Mitarbeiter oder Deadline gruppiert werden – ganz so, wie Sie die Daten gerade brauchen.
 
@@ -74,7 +74,7 @@ SeaTable ermöglicht eine direkte Kommunikation innerhalb der Tabellen, die die 
 
 Für eine bessere Visualisierung und einfachere Handhabung der Aufgabenverwaltung ist das Kanban-Plugin genau das richtige. Das integrierte Plugin funktioniert wie alle gängigen Kanban-Aufgabenmanagement-Tools und ermöglicht das Hin- und Herschieben von Aufgaben in Form von Karten auf Grundlage verschiedener Einordnungskategorien, also etwa dem Status. Wenn eine Aufgabe erledigt ist, kann die verantwortliche Person die Karte einfach von “doing” zu “done” schieben und die Aufgabe wird als erledigt markiert.
 
-![Das Kanban-Board macht Ihre Aufgabenverwaltung einfacher](https://seatable.io/wp-content/uploads/2021/09/Kanban-board-711x457.jpg)
+![Das Kanban-Board macht Ihre Aufgabenverwaltung einfacher](Kanban-board-711x457.jpg)
 
 Auch andere Kategorisierungen sind denkbar, wie etwa nach übergeordneten Aufgabenpaketen, zum Beispiel das Design einer Website. Diese Arbeitsweise ist für viele deutlich einfacher, da die Aufgaben ganz klar strukturiert und visualisiert werden. Das hilft auch dabei, ein Projekt und den Aufwand dafür real einschätzen zu können. Gerade bei kleineren Teams oder Unternehmen sind solche Tools daher sehr beliebt.
 
@@ -92,16 +92,16 @@ Das Timeline-Plugin ist zur zeitlichen Visualisierung Ihrer ganzen Aufgabenverwa
 
 Für individuelle Mitarbeiter-Ansichten kreieren Sie im Vorfeld bereits eigene Ansichten für jeden Mitarbeiter. So sieht dann auch jeder seine eigenen Aufgaben in seiner eigenen Zeitleiste und weiß, wie viel Zeit für einzelne Aufgaben noch bleibt. Sie sehen aber etwa auch, wie ausgelastet Ihre Mitarbeiter bei der Aufgabenplanung sind und können umplanen, wenn der Workload ungleich verteilt ist.
 
-![Planen Sie Ihre Aufgabenliste für ein perfektes Timing](https://seatable.io/wp-content/uploads/2021/09/Timeline.gif)
+![Planen Sie Ihre Aufgabenliste für ein perfektes Timing](Timeline.gif)
 
 Das Kalender-Plugin bietet ähnlich wie das Timeline-Plugin eine zeitliche Übersicht über das gesamte Projekt und alle Planungsstufen der Aufgabenverwaltung, jedoch ganz im kalendarischen Stil. Die Ansicht nach Tag, Woche, Monat, Jahr oder ganz in der Agenda-Ansicht ermöglicht eine tagesgenaue Betrachtung der Projektschritte und zeigt auf, an welchem Tag wie viel zu tun ist. Auch hier ist die Erstellung von persönlichen Mitarbeiter-Boards ohne Probleme auf Grundlage der erstellen Ansichten möglich.
 
-![Visualisieren Sie Ihre Aufgabenverwaltung mit dem Kalender Plugin](https://seatable.io/wp-content/uploads/2021/09/Cal.gif)
+![Visualisieren Sie Ihre Aufgabenverwaltung mit dem Kalender Plugin](Cal.gif)
 
 ## Alle Projektfortschritte automatisch erhalten
 
 Damit auch alle Mitarbeiter immer up to date sind, was ihre Aufgaben und die Aufgabenverwaltung angeht, sind automatische Benachrichtigungen sehr wichtig. Ein obligatorischer Check der Base, ob es Neuigkeiten gibt, fällt also weg. In unserem Template haben wir eine Benachrichtigungsregel gesetzt, die bei Änderungen in der “Responsible”-Spalte ausgelöst wird. Wenn eine Aufgabe an einen  Mitarbeiter vergeben wird, so bekommt er direkt und automatisch eine Benachrichtigung.  
-![Erledigte Aufgaben in der Aufgabenverwaltung](https://seatable.io/wp-content/uploads/2021/09/task-done.jpg)
+![Erledigte Aufgaben in der Aufgabenverwaltung](task-done.jpg)
 
 Ist es nötig, Feedback von einem Kollegen oder dem Vorgesetzen einzuholen, so weist man die Aufgabe einfach dieser Person zu – auch hier löst die Regel wieder automatisch aus und die zuständige Person wird informiert. So entfallen E-Mails mit Rückfragen, Feedback oder Arbeitsanweisungen. Die Aufgabe wird dann nach Bearbeitung wieder an die entsprechende Person zurückgewiesen, um den Workflow fortzusetzen.
 

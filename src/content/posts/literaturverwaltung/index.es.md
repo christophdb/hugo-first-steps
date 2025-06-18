@@ -15,7 +15,7 @@ Mit einer strukturierten Literaturverwaltung beugen Sie Fehlern in Literaturlist
 
 Im Folgenden bekommen Sie verschiedene Software-Lösungen im Vergleich vorgestellt und erhalten zusätzlich Tipps zur erfolgreichen Literaturverwaltung.
 
-![Ein Stapel Bücher, vorsortiert für die Literaturverwaltung.](https://seatable.io/wp-content/uploads/2022/05/Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
+![Ein Stapel Bücher, vorsortiert für die Literaturverwaltung.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
 
 Bringen Sie Ordnung in Ihre wissenschaftliche Literatur! © caftor / Adobe Stock
 
@@ -39,7 +39,7 @@ Alles in allem ermöglicht Ihnen die Datenbankstruktur von Literaturverwaltungsp
 
 Sie haben die Entscheidung getroffen, zum effizienteren Arbeiten eine Literatur-Software zu benutzen? Wunderbar! Aber nun stellt sich natürlich die Frage, welches Programm am besten für Sie geeignet ist. Dies ist vor allem abhängig von der Größe Ihres Projekts und den Tools, welche Sie nutzen möchten. Die sechs bekanntesten Programme stellen wir Ihnen im Folgenden vor.
 
-![Ein Vergleich der sechs Programme aufgrund ihrer Features kann helfen, das richtige für Sie zu finden.](https://seatable.io/wp-content/uploads/2024/04/Green-and-Black-Corporate-Comparison-Chart-1-e1714394827171-711x528.png)
+![Ein Vergleich der sechs Programme aufgrund ihrer Features kann helfen, das richtige für Sie zu finden.](Green-and-Black-Corporate-Comparison-Chart-1-e1714394827171-711x528.png)
 
 Verschaffen Sie sich zunächst einen Überblick über die Features.
 
@@ -47,7 +47,7 @@ Verschaffen Sie sich zunächst einen Überblick über die Features.
 
 Citavi ist das präferierte Literaturverwaltungsprogramm vieler Hochschulen. Für die Nutzung in diesem Bereich sind vor allem die Anwendung auf **Deutsch**, die **uneingeschränkt mögliche Gruppenarbeit**, sowie ein **guter Support** bei Fragen von Vorteil.
 
-![Das Literaturverwaltungsprogramm Citavi eignet sich für Gruppenarbeiten, da Daten einfach geteilt werden können.](https://seatable.io/wp-content/uploads/2024/04/annie-spratt-QckxruozjRg-unsplash-e1714397904602.jpg)
+![Das Literaturverwaltungsprogramm Citavi eignet sich für Gruppenarbeiten, da Daten einfach geteilt werden können.](annie-spratt-QckxruozjRg-unsplash-e1714397904602.jpg)
 
 Gruppenarbeiten sind mit Citavi ein Kinderspiel.
 
@@ -83,7 +83,7 @@ Trotz dieser Vorteile hat das Programm inhaltliche Schwächen. Die Suchverläufe
 
 Mit EndNote erhalten Sie ein **Rundumpaket mit vielen nützlichen Funktionen**, jedoch sollten Sie bereit sein, dafür einen **hohen Preis** zu zahlen. Das kommerzielle Literaturverwaltungsprogramm des Informationsdienstleisters Thomson-Reuters bietet aber auch eine kostenfreie Version an, welche Sie für **30 Tage testen** können. Dabei sind die Funktionen jedoch stark begrenzt.
 
-![Das Literaturverwaltungsprogramm EndNote hat viele nützliche Funktionen.](https://seatable.io/wp-content/uploads/2024/05/ai-generated-8554676_640-e1715591833397.png)
+![Das Literaturverwaltungsprogramm EndNote hat viele nützliche Funktionen.](ai-generated-8554676_640-e1715591833397.png)
 
 In der Vollversion erhalten Sie viele nützliche Tools.
 
@@ -95,7 +95,7 @@ Um diese unbegrenzt nutzen zu können, müssen Sie eine Vollversion erwerben. Di
 
 JabRef ist eine **kostenlose Open-Source-Literaturverwaltung**. Die Plattform-Entwickler stellen den Quellcode jedem zur Verfügung, sodass viele Entwickler an der Optimierung der Software mitarbeiten können. Das zeigt sich vor allem dadurch, dass das Programm **in vielen Sprachen** verfügbar ist.
 
-![Viele Entwickler arbeiten an einem gemeinsamen Code.](https://seatable.io/wp-content/uploads/2024/05/program-6944163_640-e1715591934559.jpg)
+![Viele Entwickler arbeiten an einem gemeinsamen Code.](program-6944163_640-e1715591934559.jpg)
 
 Wer sich auskennt, kann helfen JabRef zu verbessern.
 
@@ -158,7 +158,7 @@ Diese Angaben sollten Sie so genau wie möglich notieren. Zählen Sie die Seiten
 
 Einige Literaturverwaltungsprogramme erleichtern Ihnen die Suche nach neuer Literatur. Bei Citavi haben Sie zum Beispiel die Möglichkeit, sich **Such-Alarme** ausgeben zu lassen. So erfahren Sie, wenn neue Artikel zu einem Ihrer Themen online verfügbar sind. Mendeley bietet einen Empfehlungsdienst an, über den Sie sich ähnliche Artikel anzeigen lassen können.
 
-![Studentin prüft vor Abgabe final Ihr Literaturverzeichnis.](https://seatable.io/wp-content/uploads/2022/05/Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
+![Studentin prüft vor Abgabe final Ihr Literaturverzeichnis.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
 
 Für die Quellenrecherche bieten sich auch Bibliotheken an. © Jacob Lund / Adobe Stock
 
@@ -178,7 +178,7 @@ Nicht alle Quellen werden nach dem gleichen Muster zitiert. Bereits zu Beginn Ih
 
 Einige Programme haben Tools für **Notizen**. Nutzen Sie diese, um während des Lesens wichtige inhaltliche Aussagen mitzuschreiben, und versehen Sie diese mit Seitenzahlen, um die Stellen später leichter zu finden.
 
-![Notizen können Sie auch auf Papier machen.](https://seatable.io/wp-content/uploads/2024/05/david-travis-5bYxXawHOQg-unsplash-e1715851598784.jpg)
+![Notizen können Sie auch auf Papier machen.](david-travis-5bYxXawHOQg-unsplash-e1715851598784.jpg)
 
 Sie können auch auf den klassischen Notizblock zurückgreifen.
 

@@ -17,7 +17,7 @@ Mais comment fonctionne exactement la gestion des médias sociaux ? En lisant l'
 
 Le terme de gestion des médias sociaux **décrit une gestion ciblée de la communication et de la publicité** sur différentes plateformes de médias sociaux comme Facebook, Instagram, YouTube & Co. Elle englobe un large éventail de tâches, par exemple la **communication directe avec vos groupes cibles, la publication de contenus et le développement de votre propre stratégie de médias sociaux**.
 
-![Gestion des médias sociaux : des apps sur un seul écran.](https://seatable.io/wp-content/uploads/2024/01/pexels-pixabay-267350-711x516.jpg)
+![Gestion des médias sociaux : des apps sur un seul écran.](pexels-pixabay-267350-711x516.jpg)
 
 L'offre de plates-formes de médias sociaux est vaste.
 
@@ -56,7 +56,7 @@ Essayez également de respecter une identité **d'entreprise** uniforme sur vos 
 
 Sur TikTok et Instagram, vous avez également la possibilité d'**épingler** des messages pertinents en haut de votre profil. Votre communauté vous pose-t-elle souvent la même question ? Il vous suffit d'épingler une publication qui répond à cette question et d'y faire référence à l'avenir.
 
-![Un fil Instagram dans la gestion des médias sociaux.](https://seatable.io/wp-content/uploads/2024/01/pexels-lisa-fotios-1092671-711x474.jpg)
+![Un fil Instagram dans la gestion des médias sociaux.](pexels-lisa-fotios-1092671-711x474.jpg)
 
 L'esthétique joue un rôle important dans les médias sociaux.
 

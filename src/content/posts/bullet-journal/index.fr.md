@@ -17,7 +17,7 @@ Découvrez dans cet article comment fonctionne un Bullet Journal et ce que vous 
 
 Un Bullet Journal vous aide à **Organiser le quotidien** et de garder un œil sur toutes vos tâches, vos rendez-vous et vos besoins. Le journal fonctionne comme une combinaison d'agenda, de planificateur de projets et de carnet de notes. Il offre en outre suffisamment d'espace libre pour que vos souhaits individuels en matière de thèmes y trouvent leur place. Le Bullet Journal met en valeur votre **Créativité** n'a pas de limites. En effet, contrairement aux calendriers traditionnels, il n'y a pas de pages prédéfinies. Celles-ci doivent être conçues par vos soins et remplies selon vos idées.
 
-![Voici à quoi peut ressembler un Bullet Journal avec un aperçu mensuel et quotidien.](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
+![Voici à quoi peut ressembler un Bullet Journal avec un aperçu mensuel et quotidien.](estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
 
 Créez votre Bullet Journal comme vous le souhaitez.
 
@@ -33,7 +33,7 @@ Cette méthode de calendrier a été inventée par le graphiste new-yorkais Ryde
 
 Commencer à faire du Bullet Journaling est très simple. Il suffit d'avoir un **Carnet de notes** et un **Stylo**. Il est intéressant de commencer avec ce que vous avez chez vous. Vous pouvez essayer de voir si le journaling vous convient. Si cela vous plaît et que vous souhaitez développer votre créativité, vous pouvez acheter d'autres ustensiles.
 
-![Votre](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
+![Votre](estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
 Tout ce qui vous entoure peut être utilisé pour créer.
 
@@ -45,7 +45,7 @@ Comme mentionné plus haut, la réalisation de vos propres idées est au premier
 
 Celui-ci se compose en premier lieu **des aperçus temporels**Vous pouvez y inscrire vos tâches et vos rendez-vous. En outre, il existe **Collections**. Ce sont des pages qui servent à votre épanouissement libre et individuel. Pour cela, vous trouverez ci-dessous une collection d'idées que vous pouvez reprendre ou dont vous pouvez vous inspirer.
 
-![Votre Bullet Journal doit contenir les points Index, Key, Future Log, Monthly Log, Daily Log et Collectives.](https://seatable.io/wp-content/uploads/2023/12/Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
+![Votre Bullet Journal doit contenir les points Index, Key, Future Log, Monthly Log, Daily Log et Collectives.](Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
 
 Créez votre journal en suivant ce modèle.
 
@@ -91,7 +91,7 @@ Les **trackers** sont probablement le complément le plus connu du Bullet Journa
 
 Une autre façon de mettre vos projets en pratique est de **fixer des objectifs**. En combinaison avec des trackers, vous pouvez rendre vos objectifs mesurables et voir vos progrès à tout moment. Les objectifs possibles sont par exemple des résolutions pour la nouvelle année, comme atteindre un objectif d'épargne ou améliorer le niveau des notes.
 
-![Un Habit Tracker est un complément très apprécié du Bullet Journal.](https://seatable.io/wp-content/uploads/2023/12/prophsee-journals-WI30grRfBnE-unsplash-01.jpg)
+![Un Habit Tracker est un complément très apprécié du Bullet Journal.](prophsee-journals-WI30grRfBnE-unsplash-01.jpg)
 
 Un Habit Tracker est un complément très apprécié du Bullet Journal.
 
@@ -107,7 +107,7 @@ Pour la plupart des gens, la principale raison de commencer à utiliser le journ
 
 Vos idées - votre Bullet Journal. Il s'adapte à vos **besoins** et ne doit pas suivre un modèle prédéfini. Vous pouvez l'utiliser pour organiser vos rendez-vous et tâches quotidiens. Les outils intégrés, comme le calendrier ou la liste des choses à faire, sont adaptés à cet effet. Mais vous pouvez également faire preuve de créativité et laisser libre cours à votre imagination dans les collections.
 
-![L'image montre qu'il est possible, dans le Bullet Journal, de combiner des contenus créatifs avec des contenus pratiques.](https://seatable.io/wp-content/uploads/2023/12/pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
+![L'image montre qu'il est possible, dans le Bullet Journal, de combiner des contenus créatifs avec des contenus pratiques.](pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
 
 Combinez fonctionnalité et créativité.
 

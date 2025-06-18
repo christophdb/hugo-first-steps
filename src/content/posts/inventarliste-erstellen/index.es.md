@@ -19,7 +19,7 @@ Puede utilizar una lista de inventario para registrar las existencias de su empr
 
 Todo comerciante y toda empresa que esté obligada a llevar una contabilidad por partida doble debe realizar un inventario. Debe realizarse tanto en el momento de la apertura de la empresa como después de cada ejercicio. Se trata de registrar las existencias y elaborar un inventario.
 
-![Trabajador de almacén utiliza iPad con lista de inventario.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Trabajador de almacén utiliza iPad con lista de inventario.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
 
 Utilice una lista de inventario digital para registrar sus existencias. Derechos de imagen: tradol / Adobe Stock
 
@@ -82,7 +82,7 @@ Un programa que ya utilizan muchas empresas es Excel. Con él puede crear una **
 
 Si ya dispone de una lista de inventario como plantilla de Excel, puede utilizarla una y otra vez con sólo unos clics. Para ello, duplique el archivo existente antes de abrirlo en Excel.
 
-![Excel para una lista de inventario.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel para una lista de inventario.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
 
 Las hojas de cálculo de Excel son populares para las listas de inventario. Derechos de autor de la imagen: PixieMe / Adobe Stock
 

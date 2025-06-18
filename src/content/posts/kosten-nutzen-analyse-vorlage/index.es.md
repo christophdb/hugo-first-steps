@@ -20,7 +20,7 @@ Un análisis coste-beneficio, o ACB para abreviar, es un **análisis de rentabil
 
 La ventaja es que se pueden agrupar todos los **factores y efectos asociados a una inversión** en una sola base de datos, con lo que no se pierde la visión de conjunto. Especialmente en los [grandes proyectos](https://seatable.io/es/projektstrukturplan-vorlage/), hay un gran número de criterios objetivos y subjetivos que afectan al ACB de formas muy distintas. Una plantilla le ayuda a no perder de vista todos estos aspectos.
 
-![Plantilla impresa para un análisis coste-beneficio.](https://seatable.io/wp-content/uploads/2022/08/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Plantilla impresa para un análisis coste-beneficio.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 
 Benefíciese de un análisis coste-beneficio. Derechos de imagen: amazing studio / Adobe Stock
 

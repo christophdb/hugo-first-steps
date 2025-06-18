@@ -20,7 +20,7 @@ Et ce n'est pas tout ! Grâce à une grande contribution de la communauté, nous
 
 ## Type de colonne #22 : Formule pour les liens
 
-![Nouveau type de colonne Formule de lien](https://seatable.io/wp-content/uploads/2021/05/Column_type_link_formula.png)
+![Nouveau type de colonne Formule de lien](Column_type_link_formula.png)
 
 La capacité de représenter des relations entre des entrées dans différents tableaux est l'un des critères de différenciation centraux de SeaTable par rapport aux tableurs classiques comme Excel et Google Sheets. Alors que ces derniers ne connaissent que des références de cellules (par ex. pour les formules), SeaTable permet de créer des liens 1:1, 1:n et n:m entre les tableaux d'une base.
 
@@ -30,7 +30,7 @@ Grâce à la nouvelle colonne de formules pour les liens, les liens existants pe
 
 SeaTable ne restreint pas en principe le type de relation entre les tables. Toutefois, dans certains cas d'utilisation, il est utile d'appliquer une relation 1:1 ou 1:n. Un système de gestion des stocks en est un exemple simple : un projecteur ne peut se trouver que dans une seule pièce ou chez un seul emprunteur à un moment donné. De même, une machine d'essai ne peut pas être disponible pour plusieurs essais en même temps.
 
-![Nouveaux contrôles pour les colonnes de liens vers d'autres enregistrements](https://seatable.io/wp-content/uploads/2021/05/More_Controls_over_linked_records.png)
+![Nouveaux contrôles pour les colonnes de liens vers d'autres enregistrements](More_Controls_over_linked_records.png)
 
 Avec SeaTable 2.0, les colonnes de liens offrent désormais une option de configuration "Autoriser le lien vers plusieurs lignes". Activée par défaut, la désactivation de ce bouton a pour effet qu'une entrée du tableau actuel ne peut être liée qu'à une seule entrée du tableau lié. Pour les deux exemples ci-dessus, cela signifie que SeaTable garantit qu'il n'est pas nécessaire de chercher le vidéoprojecteur lorsqu'il y a plusieurs personnes ou plusieurs salles et il évite que la machine de test ne soit pas planifiée pour deux tests simultanés.
 
@@ -40,7 +40,7 @@ En plus de l'option de configuration pour limiter le _nombre d'entrées liées_,
 
 Les formulaires Web de SeaTables sont incroyablement pratiques pour des enquêtes simples. En quelques instants, un questionnaire est créé et prêt à être envoyé. Les réponses des participants à l'enquête atterrissent dans la base sous-jacente, où elles peuvent être évaluées rapidement et facilement grâce aux divers outils d'analyse de SeaTable.
 
-![Nouveau type de colonne Classement](https://seatable.io/wp-content/uploads/2021/05/Column_type_rating.png)
+![Nouveau type de colonne Classement](Column_type_rating.png)
 
 La nouvelle colonne de notation est un complément idéal pour de tels sondages : "Avez-vous été satisfait de notre prestation ?" ou "Nous recommanderiez-vous à vos amis ?" Cinq étoiles ne laissent aucune place au doute ; deux étoiles, en revanche, offrent une grande marge d'amélioration. Mais le nouveau type de colonne ne convient pas seulement aux enquêtes de satisfaction des clients. Vous voulez faire voter votre équipe sur un nouveau nom de produit ? De nouveaux leads demandent une évaluation rapide pour la priorisation ? La colonne de notation vous aide dans tous ces cas !
 
@@ -64,7 +64,7 @@ La colonne de géopositionnement enregistre les coordonnées de longitude et de 
 
 Il existe ces colonnes dans lesquelles la même valeur doit quasiment toujours être saisie lorsqu'une nouvelle entrée est créée, par exemple une colonne de statut dans la gestion de projet ou une colonne de texte avec une chaîne de caractères de tête uniforme. Ne serait-ce pas un gain de temps considérable si ces valeurs pouvaient être définies automatiquement lors de nouvelles entrées ?
 
-![Valeurs par défaut pour les colonnes](https://seatable.io/wp-content/uploads/2021/05/Default_values.png)
+![Valeurs par défaut pour les colonnes](Default_values.png)
 
 Parce que c'est exactement le cas, SeaTable à partir de la version 2.0 permet de définir une valeur par défaut pour les trois types de colonnes : texte, nombre et sélection unique. Si une telle valeur par défaut est définie, la cellule correspondante d'une nouvelle entrée est automatiquement remplie avec la valeur par défaut. Si la nouvelle entrée est l'exception à la règle et que la valeur fixée automatiquement ne convient pas, elle peut être remplacée manuellement à tout moment.
 

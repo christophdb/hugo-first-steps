@@ -27,7 +27,7 @@ Deadlines für Entwürfe und wichtige Veröffentlichungstermine behalten Sie mit
 
 Jedem geplanten Beitrag sollten Sie einen Verantwortlichen zuweisen. So kann jeder im Team den **Redaktionsplan nach seinen To-dos filtern** und auf einen Blick sehen, was zu erledigen ist. Die **Abstimmung über mehrere Personen oder Abteilungen hinweg ist leichter**, wenn klar ist, wer an welchem Projekt beteiligt ist und wer noch Kapazitäten hat.
 
-![Marketingteam erstellt Redaktionsplan Vorlage.](https://seatable.io/wp-content/uploads/2022/05/Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![Marketingteam erstellt Redaktionsplan Vorlage.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
 
 Mit einem Contentplan koordinieren Sie die Planung und Erstellung von Beiträgen. Bildrechte: © DisobeyArt / Adobe Stock
 
@@ -56,7 +56,7 @@ Als Nächstes geht es um die Wahl des passenden Rahmens für Ihren Contentplan. 
 - Benötigen Sie einen Kalender und automatische Erinnerungen?
 - Mit welchen Daten und Statistiken möchten Sie die Performance analysieren?
 
-![Marketingmitarbeiterin erstellt eine Vorlage für Redaktionsplanung.](https://seatable.io/wp-content/uploads/2022/05/Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![Marketingmitarbeiterin erstellt eine Vorlage für Redaktionsplanung.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
 
 Die Planung des Contents erfordert ein durchdachtes Konzept. Bildrechte: © Andrey Popov / Adobe Stock
 

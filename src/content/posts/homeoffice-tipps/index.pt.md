@@ -22,7 +22,7 @@ Para evitar o cansaço da decisão pela manhã, estabelecer uma rotina matinal f
 
 A criação de um espaço de trabalho é muito importante para trabalhar a partir de casa. Se não tiver um estudo, utilize [divisores de salas](https://diy-family.com/diy-raumteiler-6-praktische-ideen/). Isto pode ser estantes, plantas, cortinas ou apenas uma cor de parede diferente. A separação visual é importante, facilita a entrada no modo de trabalho e o desligamento após o trabalho.
 
-![Escritório em casa](https://seatable.de/wp-content/uploads/2020/09/Bildschirmfoto-2020-09-08-um-11.37.16.png)
+![Escritório em casa](Bildschirmfoto-2020-09-08-um-11.37.16.png)
 
 ## 3\. ar fresco e exercício
 

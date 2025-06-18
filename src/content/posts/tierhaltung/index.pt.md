@@ -17,7 +17,7 @@ Aqui pode descobrir como organizar a posse de animais de estimação adequados �
 
 A primeira questão é saber se há espaço para um animal na sua vida quotidiana. Terá de assumir **a responsabilidade** por um animal de estimação durante um período de tempo indefinido. Deve perguntar-se a si próprio se consegue satisfazer as exigências individuais que o seu animal de estimação lhe impõe.
 
-![Eis uma lista de perguntas que deve fazer a si próprio antes de comprar um animal de estimação.](https://seatable.io/wp-content/uploads/2024/01/Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
+![Eis uma lista de perguntas que deve fazer a si próprio antes de comprar um animal de estimação.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
 
 É preciso estar atento a este facto antes de adquirir um animal de estimação.
 
@@ -31,7 +31,7 @@ Na Alemanha, o termo **animal de estimação** é caracterizado principalmente p
 
 Do peixe-palhaço _Nemo_ à coruja das neves _Hedwig_: animais populares que normalmente vivem em jardins zoológicos ou na natureza podem ser cada vez mais encontrados em casas particulares. Salvo raras excepções, na Alemanha é permitido ter animais exóticos de todos os tipos como animais de companhia.
 
-![A manutenção de cobras é permitida. As excepções são as serpentes perigosas, que devem ser comunicadas.](https://seatable.io/wp-content/uploads/2024/01/pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
+![A manutenção de cobras é permitida. As excepções são as serpentes perigosas, que devem ser comunicadas.](pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
 
 É permitido manter serpentes em condições legais, mas é necessário comunicar os espécimes perigosos.
 
@@ -84,7 +84,7 @@ O ambiente e os cuidados de que o seu animal de estimação necessita dependem d
 - **Área de dormir**: Os animais que circulam livremente pela casa têm de se habituar ao novo ambiente. Ofereça ao seu animal de estimação um retiro que também possa servir de local para dormir.
 - **Estações de alimentação:** Para garantir que o seu animal de estimação tem acesso constante a alimentos e bebidas, deve instalar uma estação de alimentação fixa. Desta forma, será mais fácil monitorizar o comportamento alimentar do seu animal de estimação.
 
-![Nas lojas de animais pode encontrar artigos para animais de estimação, alimentos para animais de estimação e tudo o que precisa para criar animais.](https://seatable.io/wp-content/uploads/2024/01/random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
+![Nas lojas de animais pode encontrar artigos para animais de estimação, alimentos para animais de estimação e tudo o que precisa para criar animais.](random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
 
 Pode encontrar tudo o que o seu animal de estimação precisa nas lojas de animais.
 
@@ -106,7 +106,7 @@ O seu animal de estimação deve ter sempre acesso a **água potável** fresca. 
 
 Pode saber se o seu animal de estimação está bem pelo seu **comportamento** e **aparência**. Os sinais típicos de doença são, por exemplo, perda de apetite, perda de peso, vómitos, apatia ou alterações no pelo. Nestes casos, deve visitar o veterinário.
 
-![Os cães precisam de exercício](https://seatable.io/wp-content/uploads/2024/01/cristian-castillo-73pyV0JJOmE-unsplash.jpg)
+![Os cães precisam de exercício](cristian-castillo-73pyV0JJOmE-unsplash.jpg)
 
 Os cães precisam de fazer exercício suficiente todos os dias.
 
@@ -148,7 +148,7 @@ Tal como nós, os animais adoecem por vezes, mas muitas vezes escondem-no de nó
 
 Quando acolhe um animal, deve ir ao médico para um primeiro **exame de saúde**. São igualmente necessárias **vacinas** e **desparasitações** regulares.
 
-![O cão é examinado por um veterinário a fim de reconhecer as doenças numa fase precoce.](https://seatable.io/wp-content/uploads/2024/01/pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
+![O cão é examinado por um veterinário a fim de reconhecer as doenças numa fase precoce.](pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
 
 A prevenção é a solução ideal para dar uma vida longa ao seu animal de estimação.
 
@@ -184,7 +184,7 @@ Para as crianças, a questão de saber se querem ou não um animal de estimaçã
 
 Se as crianças são a principal razão para querer um animal de estimação, os pais optam frequentemente por um **animal pequeno e fácil de cuidar**. No entanto, coelhos, porquinhos-da-índia ou hamsters dificilmente satisfazem o desejo de proximidade e carinho das crianças. Muito pelo contrário: são normalmente tímidos e a limpeza da casa dá muito trabalho. É por isso que os roedores são particularmente adequados para crianças que gostam de observar e cuidar de animais e são capazes de lhes dar o seu espaço.
 
-![Crianças a acariciar coelhos.](https://seatable.io/wp-content/uploads/2024/01/pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
+![Crianças a acariciar coelhos.](pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
 
 É importante que as crianças aprendam a respeitar os limites do animal.
 

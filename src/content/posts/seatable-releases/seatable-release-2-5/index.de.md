@@ -18,7 +18,7 @@ Seit Einführung des Archivs als Beta-Funktion in der [Version 2.3]({{< relref "
 
 Die Archivfunktion unterstützt nun alle 24 Spalten, inklusive der drei Spaltentypen Formel, Verknüpfung und Formel für Verknüpfung. Der fehlende Schreibzugriff auf die Archivdaten bleibt auch in SeaTable 2.5 eine Einschränkung, diese drei Spalte sind aber Sonderfälle: Werte in den beiden Formel-Spalten werden dynamisch berechnet, je nach Spezifikation der Formel. Wenn eine Formel geändert wird, dann werden die Werte in den archivierten Zeilen neu berechnet. Ändert der Benutzer die Nachschlagespalte in einer Formel für Verknüpfungen, die Archivdaten reflektieren diese Änderung. Das Gleiche gilt für die Verknüpfungsspalte. Eine Umstellung der Anzeigespalte erfolgt gleichermaßen im gesamten Datenbestand, Archiv inklusive. Auf diese Weise bleiben die archivierte Daten vergleichbar mit den nicht-archivierten Daten.
 
-![Die überarbeitete Archiv-Ansicht von SeaTable](https://seatable.io/wp-content/uploads/2021/11/archive-view.jpg)
+![Die überarbeitete Archiv-Ansicht von SeaTable](archive-view.jpg)
 
 SeaTable 2.5 ergänzt darüber hinaus eine Druckfunktion für Archivansichten und erlaubt nun auch das Ausblenden einzelner Spalten in einer solchen Ansicht. Eine Suchfunktion und eine Excel Exportfunktion wurden schon in [SeaTable 2.4]({{< relref "posts/seatable-releases/seatable-release-2-4" >}}) implementiert.
 
@@ -37,7 +37,7 @@ Die Kumulierte Werte berechnen Operation berechnet zeilenübergreifende Summen f
 
 Bei aller Aufmerksamkeit auf externe [Integrationen]({{< relref "pages/integrations" >}}) haben wir SeaTables eigene Automationen nicht aus den Augen verloren. Die zentrale Neuerung ist die Aktion Python Skript ausführen. Sie lässt sich durch die Trigger “Neue Zeile”, “Einträge erfüllen nach der Änderung eine bestimmte Bedingung” und “Periodisch ausführen” auslösen. Die automatisierte Ausführung von Python Skripten für eine einzelne Zeile oder ein ganzes Datenset unter Verwendung eines klaren Regelsets ist fast schon eine Superkraft!
 
-![Python Scripte können nun per Automation gestartet werden.](https://seatable.io/wp-content/uploads/2021/11/python-script-durch-automation-511x448.jpg)
+![Python Scripte können nun per Automation gestartet werden.](python-script-durch-automation-511x448.jpg)
 
 Die bestehende Aktion “Zeile sperren” erhält das neue Trigger-Ereignis “Periodisch ausführen für Zeilen, die eine bestimmte Bedingung erfüllen”. In Kombination mit den beiden anderen Triggern “Neue Zeile” und “Einträge erfüllen nach der Änderung bestimmte Bedingungen” hat der Benutzer nun optimale Kontrolle über die automatische Sperrung von Zeilen.
 
@@ -47,7 +47,7 @@ Schließlich haben die beiden geplanten Ereignisse “Periodisch ausführen” u
 
 Wir alle lieben eine große Auswahl! Die neue Rating Spalte erfüllt genau diese Sehnsucht nach “mehr”. In SeaTable bietet die Rating Spalte nun vier Stile. Neben dem Stern als Standardicon kann man nun auch das Herz, den Daumen-hoch oder die Flagge als Icon wählen. Auch muss das Icon nicht mehr orange sein.
 
-![Die neue Bewertungsspalte in SeaTable 2.5](https://seatable.io/wp-content/uploads/2021/11/Bewertungsspalte.jpg)
+![Die neue Bewertungsspalte in SeaTable 2.5](Bewertungsspalte.jpg)
 
 Bei der überarbeiteten Rating Spalte geht es aber nicht nur um Ästhetik, sondern auch um Bequemlichkeit. So wie für andere numerische Spalten berechnet SeaTable nun auch für Rating Spalten am unteren Ende der Tabelle aggregierte Werte – Minimum, Maximum, Durchschnitt und Summe. In gruppierten Ansichten ermittelt SeaTable ebenfalls aggregierte Werte für die einzelnen Gruppen.
 

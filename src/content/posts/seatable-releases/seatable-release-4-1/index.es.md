@@ -66,12 +66,12 @@ En la página de inicio, antes sólo podías crear [carpetas](https://seatable.i
 
 A menudo no resulta obvio para otros usuarios en qué has pensado al estructurar una base o tabla. También es posible que desee registrar **notas** sobre una columna, tabla o base. Hasta ahora, podía hacerlo en una [descripción de](https://seatable.io/es/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) [columna](https://seatable.io/es/docs/arbeiten-mit-spalten/hinzufuegen-einer-spaltenbeschreibung/) o en una [descripción de](https://seatable.io/es/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) base. Lo que faltaba era la posibilidad de explicar el contenido, las estructuras y los procesos de una tabla con un texto conciso. Por tanto, en el futuro podrá dotar a cada tabla de una descripción de [tabla](https://seatable.io/es/docs/arbeiten-in-tabellen/eine-tabellenbeschreibung-hinzufuegen/).
 
-![Nueva función para la descripción de tablas](https://seatable.io/wp-content/uploads/2023/08/Table-description.png)
+![Nueva función para la descripción de tablas](Table-description.png)
 
 Otra mejora, puramente visual, afecta a los detalles de **las** filas, donde se pueden ver las entradas y editarlas según la autorización: Hemos armonizado el diseño de los detalles de las filas en las aplicaciones universales y las bases para crear un aspecto uniforme. Para que pueda reconocer directamente los campos bloqueados, ahora aparecen resaltados en gris en los detalles de la fila.
 
 Para todos aquellos a los que les gusta iniciar procesos con un clic del ratón, hay motivos para alegrarse: La nueva acción de [botón](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/) "Enviar notificación" está disponible desde SeaTable 4.1. Esta acción complementa a la anteriormente disponible "Enviar correo electrónico". Dado que SeaTable ofrece ahora **nueve** acciones de botón, también hemos hecho más clara la ventana de selección:
 
-![Nueva acción de botón "Enviar notificación](https://seatable.io/wp-content/uploads/2023/08/New-button-action-send-notification.png)
+![Nueva acción de botón "Enviar notificación](New-button-action-send-notification.png)
 
 Por último, pero no por ello menos importante, hemos corregido de nuevo algunos **errores** en SeaTable 4.1 - entre otros, que los valores con el siguiente signo % en columnas de texto y de selección única no se interpretaban como porcentajes sino como números. Esto podía dar lugar a resultados no deseados en algunas [fórmulas](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/). Por favor, compruebe si esta corrección afecta a sus fórmulas.

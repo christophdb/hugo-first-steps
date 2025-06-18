@@ -46,7 +46,7 @@ Básicamente, todos los usuarios con permisos de escritura pueden editar las opc
 
 El tipo de columna de casillas de verificación era algo poco manejable en el uso diario. Probablemente, el factor más obvio de comodidad era la necesidad de hacer dos clics para marcar o desmarcar una casilla: uno para seleccionar la celda y otro para marcar o desmarcar la casilla. La nueva columna de casillas de verificación es un gran paso adelante en cuanto a usabilidad y apariencia.
 
-![SeaTable 2.1: Mejora de la columna de casillas de verificación](https://seatable.io/wp-content/uploads/2021/07/cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
+![SeaTable 2.1: Mejora de la columna de casillas de verificación](cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
 
 ## Numerosas mejoras en los detalles
 

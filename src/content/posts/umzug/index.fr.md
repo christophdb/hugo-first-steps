@@ -15,7 +15,7 @@ Le moment est enfin venu ! Vous avez trouvé l'appartement parfait pour vous et 
 
 Commencez votre planification de déménagement par un brainstorming. Quelles sont les tâches que je dois accomplir ? Qui peut m'aider dans cette tâche ? Quel budget puis-je consacrer ? Faites ensuite un récapitulatif des coûts afin d'estimer vos dépenses. Dans une check-list, vous pouvez définir et traiter les premières tâches.
 
-![Liste de contrôle avec les tâches les plus importantes pour votre déménagement.](https://seatable.io/wp-content/uploads/2023/10/Green-And-Yellow-Simple-Checklist--711x1006.jpg)
+![Liste de contrôle avec les tâches les plus importantes pour votre déménagement.](Green-And-Yellow-Simple-Checklist--711x1006.jpg)
 
 Une liste de contrôle peut aider à garder une vue d'ensemble de toutes les tâches.
 
@@ -27,7 +27,7 @@ Le nouveau contrat de location est signé et le départ de votre ancien logement
 
 Peu après votre déménagement, vous devez fixer la date de **remise de l'appartement et des clés**. Pour cela, vous devez laisser le logement tel qu'il a été convenu dans le contrat de location. Vous devez également vous assurer que le logement est propre, ce qui inclut généralement les réparations esthétiques et le nettoyage du logement.
 
-![Avec la remise des clés de votre ancien logement, votre plan de déménagement se met en place.](https://seatable.io/wp-content/uploads/2023/10/pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
+![Avec la remise des clés de votre ancien logement, votre plan de déménagement se met en place.](pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
 
 En remettant les clés, vous mettez un terme à votre ancien logement.
 
@@ -74,13 +74,13 @@ Une fois le jour du déménagement fixé, l'étape suivante est la planification
 
 Avec une **entreprise de déménagement**, vous vous épargnez beaucoup de temps et d'énervement. En effet, tout ce que vous devriez normalement organiser vous-même est pris en charge. Surtout si vous déménagez avec plusieurs personnes ou si vous êtes pressé par le temps, le déménagement se déroule ainsi rapidement et confortablement. Mais il est également clair que si vous souhaitez faire le moins de démarches possible, vous devez mettre la main à la poche. Le montant exact à prévoir dépend de chacun et doit être discuté en détail avec l'entreprise de déménagement. En gros, on peut dire que les coûts sont liés à la distance du déménagement et à la taille de l'appartement. Ce calcul moyen vous servira d'orientation :
 
-![Voici le coût de votre déménagement, en fonction de la taille de votre ménage.](https://seatable.io/wp-content/uploads/2023/10/Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
+![Voici le coût de votre déménagement, en fonction de la taille de votre ménage.](Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
 
 Le coût de votre déménagement dépend de la taille du ménage et de la distance entre les logements.
 
 Mais pour votre argent, vous aurez un **Service complet**. Cela implique également que l'entreprise est responsable de tous les dommages éventuels causés à vos biens, à l'appartement ou à la cage d'escalier pendant votre déménagement. La loi prévoit que 620 euros par mètre cube de biens transportés seront facturés en cas de dommage. Si vous souhaitez faire transporter des biens particulièrement précieux, vous pouvez convenir d'un montant de responsabilité plus élevé avec l'entreprise de déménagement. Mais attention : si vous emballez vous-même vos meubles et vos biens, les professionnels ne sont pas responsables des dommages causés pendant le transport.
 
-![Faire appel à une entreprise de déménagement vous permet d'économiser beaucoup de travail.](https://seatable.io/wp-content/uploads/2023/10/handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
+![Faire appel à une entreprise de déménagement vous permet d'économiser beaucoup de travail.](handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
 Les entreprises de déménagement vous déchargent d'une grande partie du travail qui vous incombe.
 
@@ -96,7 +96,7 @@ C'est à vous de décider du niveau de soutien que vous souhaitez obtenir d'une 
 
 Si vous souhaitez faire des économies, le **déménagement par vos propres moyens** est la solution idéale. En revanche, le travail d'organisation sera plus important. En effet, tout ce qui est compris dans les prestations de l'entreprise de déménagement est désormais entre vos mains. Mais avec une bonne planification, rien ne s'oppose à ce projet. Un [plan de déménagement](https://seatable.io/fr/umzug/#Online-Planer_fuer_Ihren_Umzug) vous aidera à franchir toutes les étapes.
 
-![Les coûts que vous devez supporter pendant votre déménagement.](https://seatable.io/wp-content/uploads/2023/10/Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
+![Les coûts que vous devez supporter pendant votre déménagement.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 
 Voici les dépenses auxquelles vous devrez faire face si vous déménagez par vos propres moyens.
 
@@ -110,7 +110,7 @@ Tout organiser soi-même ? Pas de problème ! Les tâches suivantes vous incombe
 - **Trouver des déménageurs**: Vos parents et amis devraient être votre premier contact, car ils seront certainement heureux de vous aider sans rémunération. Si trop peu de vos connaissances sont disponibles, vous pouvez chercher d'autres aides, que vous devrez toutefois payer. Pour cela, vous pouvez demander à votre voisinage ou lancer un appel dans vos médias sociaux. Pensez également à prévoir suffisamment de nourriture et de boissons pour vos bénévoles le jour du déménagement.
 - **Outils**: pour faciliter le travail de vos assistants et le vôtre, il est recommandé d'utiliser des outils tels que des gants de travail, des sangles et un diable pour transporter les objets lourds. Si ce ne sont pas des professionnels qui travaillent, les blessures peuvent être plus fréquentes. Prévoyez donc les cas d'urgence et ayez une trousse de premiers secours sur place.
 
-![Emballez vos biens en toute sécurité pour éviter qu'ils ne s'abîment lors du déménagement.](https://seatable.io/wp-content/uploads/2023/10/pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
+![Emballez vos biens en toute sécurité pour éviter qu'ils ne s'abîment lors du déménagement.](pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
 
 Organisez un matériel d'emballage solide pour éviter que vos biens ne s'abîment.
 
@@ -141,7 +141,7 @@ En Allemagne, vous pouvez déduire une partie de vos frais de déménagement de 
 
 Il y a quelques **frais généraux**Le montant total de l'impôt sur le revenu peut être déclaré dans la déclaration d'impôt. **Très important**Conservez les factures et les reçus afin de pouvoir justifier vos dépenses. Les frais généraux comprennent par exemple les frais de transport du mobilier, le double loyer pendant la phase de déménagement ou la commission de l'agent immobilier.
 
-![Gardez toujours un œil sur vos dépenses en conservant les reçus.](https://seatable.io/wp-content/uploads/2023/10/finance-8206242_1280-711x474.jpg)
+![Gardez toujours un œil sur vos dépenses en conservant les reçus.](finance-8206242_1280-711x474.jpg)
 
 Conservez toutes les factures et les reçus afin de pouvoir déduire vos dépenses des impôts.
 
@@ -153,7 +153,7 @@ Depuis le 1er avril 2023, le forfait est de 886 euros ; pour chaque personne sup
 
 Bien entendu, il n'est pas obligatoire de recourir au forfait. Si les dépenses dépassent les frais couverts par le forfait, vous pouvez, comme pour les frais généraux, faire valoir votre droit fiscal en présentant des reçus.
 
-![La rénovation de l'ancien logement est également en partie prise en charge lors de votre déménagement et doit être prise en compte dans votre plan de déménagement en cas de dépenses.](https://seatable.io/wp-content/uploads/2023/10/pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
+![La rénovation de l'ancien logement est également en partie prise en charge lors de votre déménagement et doit être prise en compte dans votre plan de déménagement en cas de dépenses.](pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
 
 La rénovation de l'ancien logement, par exemple les réparations esthétiques convenues par contrat, est également prise en charge.
 

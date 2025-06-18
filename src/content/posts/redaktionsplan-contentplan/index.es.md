@@ -26,7 +26,7 @@ Con un plan de contenidos siempre puedes controlar los plazos de los borradores 
 
 Debe asignar un responsable a cada artículo planificado. De este modo, todos los miembros del equipo pueden **filtrar** el **plan editorial según sus tareas pendientes** y ver de un vistazo lo que hay que hacer. **La coordinación entre varias personas o departamentos es más fácil** si está claro quién participa en cada proyecto y quién tiene aún capacidad.
 
-![El equipo de marketing crea una plantilla de plan editorial.](https://seatable.io/wp-content/uploads/2022/05/Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![El equipo de marketing crea una plantilla de plan editorial.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
 
 Utilice un plan de contenidos para coordinar la planificación y creación de artículos. Derechos de imagen: © DisobeyArt / Adobe Stock
 
@@ -55,7 +55,7 @@ El siguiente paso es elegir el marco adecuado para su plan de contenidos. La sig
 - ¿Necesitas un calendario y recordatorios automáticos?
 - ¿Qué datos y estadísticas le gustaría utilizar para analizar el rendimiento?
 
-![Un empleado de marketing crea una plantilla para la planificación editorial.](https://seatable.io/wp-content/uploads/2022/05/Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![Un empleado de marketing crea una plantilla para la planificación editorial.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
 
 La planificación de contenidos requiere un concepto bien pensado. Derechos de imagen: © Andrey Popov / Adobe Stock
 

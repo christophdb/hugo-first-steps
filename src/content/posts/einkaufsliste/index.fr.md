@@ -160,7 +160,7 @@ Les fonctions peuvent varier en fonction de la marque. Mais normalement, elles c
 - Aucune offre
 - Pas de fonctionnalités intelligentes
 
-![Application de prise de notes pour les achats](https://seatable.io/wp-content/uploads/2024/01/Notizen-e1707138910748.jpg)
+![Application de prise de notes pour les achats](Notizen-e1707138910748.jpg)
 
 L'application Notes comme liste de courses
 

@@ -14,7 +14,7 @@ Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit 
 
 Dieser Beitrag vermittelt Ihnen nicht nur alles Wissenswerte rund um das Thema Auslagenerstattung – er bietet Ihnen auch eine kostenlose [Vorlage]({{< relref "templates/human-resources/expenses-reimbursement" >}}), die Ihren Arbeitsalltag erleichtern kann.
 
-![Finanzen und Bürokratie](https://seatable.io/wp-content/uploads/2023/12/3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
+![Finanzen und Bürokratie](3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
 
 Als Unternehmer ist es wichtig, den Überblick über alle Auslagen zu behalten.
 
@@ -26,7 +26,7 @@ Das [Einkommensteuergesetz](https://www.gesetze-im-internet.de/estg/) definiert 
 
 In den Paragraphen 4 und 5 des deutschen Einkommensteuergesetzes finden Sie die relevanten Regelungen bezüglich betrieblicher Ausgaben. Zum Beispiel können Sie Kosten, die im Zusammenhang mit **Dienstreisen** fällig werden, als Auslagen erstattet bekommen. Gleiches gilt für Aufwendungen, die sich aus der Erfüllung von Aufträgen oder der Erbringung von Dienstleistungen ergeben, wie etwa ein **Geschäftsessen** mit Ihren Kunden. Ebenso können Sie **Einkäufe** oder Bestellungen wie Büromaterial oder Obst für die Büroküche als erstattungsfähige Auslagen geltend machen.
 
-![Arten der Auslagenerstattung](https://seatable.io/wp-content/uploads/2024/01/Pastel-Aesthetic-Minimalist-Lifestyle-Tips-List-Instagram-Post-2-711x711.png)
+![Arten der Auslagenerstattung](Pastel-Aesthetic-Minimalist-Lifestyle-Tips-List-Instagram-Post-2-711x711.png)
 
 Es gibt verschiedene Kosten, die Sie sich als Auslagen erstatten lassen können.
 
@@ -45,7 +45,7 @@ Durchlaufende Gelder werden in der Regel eher für **absehbare Ausgaben** genutz
 
 Unternehmen können die Erstattung von Auslagen auch mit einer **Pauschale** verrechnen. Unter diese Pauschalbeträge können zum Beispiel **Fahrt-, Verpflegungs- und Übernachtungskosten** fallen. Hier müssen Sie jedoch beachten, dass das Finanzamt die Höchstsätze festlegt. Die jährliche Höchstgrenze für Übernachtung und Verpflegung liegt bei 1.000 Euro. Wenn Sie diese überschreiten, ist eine genaue Auslagenerstattung sinnvoller als eine pauschale Auslagenerstattung.
 
-![Menschen mit Aktentaschen und Koffern](https://seatable.io/wp-content/uploads/2024/01/19320-711x284.jpg)
+![Menschen mit Aktentaschen und Koffern](19320-711x284.jpg)
 
 Wenn Sie beruflich viel reisen, sollten Sie nicht auf die pauschale Auslagenerstattung zurückgreifen.
 
@@ -59,7 +59,7 @@ Auslagen gelten laut [§ 3 Nr. 50 EStG](https://www.gesetze-im-internet.de/estg/
 - **Korrekte Verrechnung**: Die Verrechnung der Auslagen sollte ordnungsgemäß erfolgen, wobei auf dem Beleg oder der Rechnung jeder einzelne Posten separat ausgewiesen werden sollte.
 - **Pauschale Auslagenerstattung**: Regelmäßige Aufwendungen müssen Sie nachvollziehbar aufzeichnen, denn das Finanzamt gewährt einen Pauschalbetrag nur, wenn die Dokumentation über einen bestimmten Zeitraum gegeben ist.
 
-![Eine Frau steht vor einer Akte und ist mit der Auslagenerstattung überfordert](https://seatable.io/wp-content/uploads/2023/12/9276421-e1704291543704.jpg)
+![Eine Frau steht vor einer Akte und ist mit der Auslagenerstattung überfordert](9276421-e1704291543704.jpg)
 
 Die Auslagenerstattung kann Sie ohne gute Struktur schnell überfordern.
 

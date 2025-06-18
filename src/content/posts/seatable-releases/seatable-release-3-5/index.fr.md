@@ -22,7 +22,7 @@ SeaTable 3.5 offre plus de flexibilité dans la première colonne du tableau : J
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
-![SeaTable 3.5 - La première colonne supporte les formules](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-FirstColumn.png)
+![SeaTable 3.5 - La première colonne supporte les formules](SeaTable-3.5-FirstColumn.png)
 
 ## Deux actions supplémentaires pour les automatisations périodiques
 
@@ -36,7 +36,7 @@ Voyez par vous-même tout ce qu'il est possible de faire avec les [opérations d
 
 Un [bouton](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) permet d'exécuter une ou plusieurs actions en un seul clic, par exemple [envoyer un e-mail](https://seatable.io/fr/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) puis modifier la ligne. Il n'était pas possible de lier l'exécution d'une action à une condition. Nous avons comblé cette lacune fonctionnelle avec SeaTable 3.5.
 
-![SeaTable 3.5 - Les actions des boutons peuvent être liées à des règles](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-ConditionalExecution.png)
+![SeaTable 3.5 - Les actions des boutons peuvent être liées à des règles](SeaTable-3.5-ConditionalExecution.png)
 
 La nouvelle exécution conditionnelle vous permet de définir une règle pour chaque action de bouton. Une règle peut être constituée d'une ou de plusieurs conditions. L'action n'est exécutée que si la règle est remplie lorsque l'on clique sur le bouton. Si une condition ne s'applique pas, SeaTable passe à l'action suivante et affiche un message indiquant l'action non exécutée.
 
@@ -48,7 +48,7 @@ Depuis la version 3.5, SeaTable exécute toutes les actions définies de manièr
 
 Le type de colonne Formule pour les liens permet d'évaluer les entrées liées. Au total, cinq méthodes d'évaluation sont à votre disposition : [Findmin](https://seatable.io/fr/docs/verknuepfungen/die-findmin-formel/), [Findmax](https://seatable.io/fr/docs/verknuepfungen/die-findmax-formel/), [Rollup](https://seatable.io/fr/docs/verknuepfungen/die-rollup-formel/), [Countlinks](https://seatable.io/fr/docs/verknuepfungen/die-countlinks-formel/) et [Lookup](https://seatable.io/fr/docs/verknuepfungen/die-lookup-funktion/). La formule Lookup vous permet d'afficher des valeurs supplémentaires de lignes déjà liées dans votre tableau actuel. Vous pouvez ainsi extraire et afficher autant d'informations que vous le souhaitez à partir du tableau lié.
 
-![SeaTable 3.5 - Colonnes de formules de liens supportant les recherches conditionnelles](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-ConditionalLookup.png)
+![SeaTable 3.5 - Colonnes de formules de liens supportant les recherches conditionnelles](SeaTable-3.5-ConditionalLookup.png)
 
 Dans SeaTable 3.5, nous avons amélioré la formule de recherche et implémenté une fonction qui existait déjà depuis un certain temps dans les autres formules : une évaluation conditionnelle. Si l'évaluation conditionnelle est activée pour les lookups, seules les valeurs qui remplissent la ou les conditions définies sont affichées. Ainsi, vous obtenez exactement les informations dont vous avez besoin à partir de la table liée.
 
@@ -66,7 +66,7 @@ Pour simplifier le transfert de données d'une base à une autre, SeaTable 3.5 o
 
 Pour les options de sélection, les boutons et le formatage conditionnel, SeaTable propose 24 couleurs. Pour répondre aux besoins individuels ou aux exigences de l'identité visuelle, SeaTable 3.5 permet de définir un nombre illimité de couleurs supplémentaires dans chaque base. Les auto-hébergeurs ont en outre l'option de définir globalement des couleurs individuelles dans SeaTable via le fichier de configuration.
 
-![SeaTable 3.5 - Nouvelle mise en page pour les détails des rangées](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-RowDetails.png)
+![SeaTable 3.5 - Nouvelle mise en page pour les détails des rangées](SeaTable-3.5-RowDetails.png)
 
 La présentation sur une seule colonne des détails des lignes est remplacée dans la nouvelle version par un design sur deux colonnes. La présentation des tableaux avec de nombreuses colonnes est ainsi plus courte et plus claire. Le journal de base, dans lequel vous pouvez suivre toutes les modifications au sein d'une base, a également un nouveau look. Si vous cliquez sur Logs dans l'historique de la base {{< seatable-icon icon="dtable-icon-history" >}}, une fenêtre séparée s'ouvre désormais avec des entrées de logs claires.
 

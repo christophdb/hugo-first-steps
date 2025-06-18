@@ -34,11 +34,11 @@ Precisa de duas bases para o seu sistema de marcação de consultas em linha. Po
 
 Na **primeira base** (Meeting Availability), são introduzidas todas as nomeações nas quais está livremente disponível. A **segunda base** (Agenda de Reuniões) contém todas as reuniões ou compromissos que já foram reservados pelos seus clientes através dos formulários. Aparecem automaticamente na tabela depois de o formulário ter sido submetido.
 
-![Para um sistema de marcação de consultas com o SeaTable, são necessárias duas tabelas](https://seatable.de/wp-content/uploads/2021/04/Overview-1.jpg)
+![Para um sistema de marcação de consultas com o SeaTable, são necessárias duas tabelas](Overview-1.jpg)
 
 ### Primeira tabela: Defina as suas faixas horárias
 
-![Para introduzir uma hora exacta nas faixas horárias do seu sistema de marcação de consultas.](https://seatable.io/wp-content/uploads/2021/04/Uhrzeit_Rahmen.jpg)
+![Para introduzir uma hora exacta nas faixas horárias do seu sistema de marcação de consultas.](Uhrzeit_Rahmen.jpg)
 
 A primeira tabela "Disponibilidade de reuniões" é composta por **4 colunas**. Na **primeira coluna**, introduza todas as reuniões disponíveis que pode oferecer. Seleccione o formato da data com a hora (mova o cursor para "exato ao minuto"). Também pode definir horas manuais que não são apresentadas na janela da data; para o fazer, introduza a hora na barra no topo.
 
@@ -54,23 +54,23 @@ A propósito, com a função de cor pode utilizar regras automatizadas para colo
 
 O segundo quadro constitui a base do seu sistema de marcação de consultas com formulário Web. Na imagem seguinte, pode ver as diferentes colunas que contêm as informações dos participantes. Cada coluna que criar aqui pode ser utilizada mais tarde no formulário Web. Pode utilizar os tipos de colunas para influenciar diretamente a introdução de dados no formulário. Por exemplo, se pretender ter um campo de texto livre, seleccione colunas com função de texto. Se quiser ter uma espécie de menu pendente, a seleção simples ou múltipla é adequada para isso. Pode ver a coluna ligada "Disponibilidade de reuniões" - a ligação é, portanto, apresentada em ambas as tabelas com as informações correspondentes da 1ª coluna.
 
-![Este quadro é particularmente relevante para o sistema de marcação de consultas, uma vez que o sistema de marcação é concebido com estas colunas](https://seatable.de/wp-content/uploads/2021/04/Teilnehmer-1.jpg)
+![Este quadro é particularmente relevante para o sistema de marcação de consultas, uma vez que o sistema de marcação é concebido com estas colunas](Teilnehmer-1.jpg)
 
 Com estas colunas formadas, passamos agora ao formulário Web. Para tal, seleccione "Formulários" na parte superior e crie um novo formulário Web com a definição "Formulário tradicional". Aqui, os participantes não podem aceder à tabela e aos dados. Abre-se uma máscara de formulário onde pode rotular todas as colunas a serem apresentadas.
 
 Seleccione a tabela em que criou as colunas para o pedido de informações (aqui: "Calendário de reuniões"). Pode selecionar as colunas que devem ser apresentadas no formulário. Faz sentido incluir todas as colunas no formulário. Pode agora declarar cada campo de entrada como um campo obrigatório ou adicionar um texto descritivo, bem como inserir **o logótipo** pessoal **da** sua **empresa como cabeçalho**. Assim, obtém o seu próprio sistema pessoal de marcação de consultas.
 
-![No formulário Web, pode configurar o seu sistema de marcação de consultas de acordo com os seus desejos.](https://seatable.de/wp-content/uploads/2021/04/1st-form.jpg)
+![No formulário Web, pode configurar o seu sistema de marcação de consultas de acordo com os seus desejos.](1st-form.jpg)
 
 Pode rotular o seu formulário de acordo com os seus desejos. As informações sob a forma de **notas de formulário** dão aos participantes dicas úteis sobre o que devem procurar no seu sistema de marcação de consultas.
 
 Também é possível associar condições às escolhas. No nosso exemplo, existem três formas de efetuar a marcação: Pessoalmente, por videochamada ou por telefone. No caso de uma chamada telefónica, o número do participante é obrigatório, pelo que a coluna "Número de telefone" foi condicionada para aparecer apenas quando a opção "Chamada telefónica" tiver sido selecionada.
 
-![As colunas podem ser ligadas com condições. Só aparecem quando um certo input ocorreu.](https://seatable.de/wp-content/uploads/2021/04/2nd-form.jpg)
+![As colunas podem ser ligadas com condições. Só aparecem quando um certo input ocorreu.](2nd-form.jpg)
 
 ## Marcações limitadas - por isso não há mais marcações que correm mal
 
-![Com estes filtros, apenas as datas livres e as futuras são exibidas](https://seatable.de/wp-content/uploads/2021/06/frei-zukunft.jpg)
+![Com estes filtros, apenas as datas livres e as futuras são exibidas](frei-zukunft.jpg)
 
 As nomeações atribuídas não devem, evidentemente, continuar a ser oferecidas a outros participantes, nem as nomeações que estão no passado. Isto pode ser feito ligando Calendly e SeaTable se já utilizar este sistema.
 
@@ -78,7 +78,7 @@ Com o SeaTable, por outro lado, são necessários apenas alguns pequenos passos 
 
 Para garantir que apenas são apresentadas as marcações futuras e não as da semana passada, é necessário definir um segundo filtro: Com a condição "E" e o filtro "Faixas horárias depois de hoje", só são apresentadas as marcações do dia atual. Desta forma, apenas as faixas horárias livres e reserváveis são apresentadas nesta vista.
 
-![A função de coluna limita as múltiplas selecções](https://seatable.de/wp-content/uploads/2021/06/Allow-1-row.jpg)Para que isto também seja adotado no sistema de marcação de reuniões, a coluna da tabela "Calendário de reuniões" também deve ser ajustada. Para o efeito, basta abrir as definições da coluna e restringir as linhas a uma vista. Para tal, selecciona-se a vista acabada de criar com os dois filtros e, ao mesmo tempo, desactiva-se a função em que os participantes podem selecionar várias datas. Isto significa que só pode ser marcada uma marcação de cada vez e que só é possível aceder às datas livres e futuras da 2ª vista.
+![A função de coluna limita as múltiplas selecções](Allow-1-row.jpg)Para que isto também seja adotado no sistema de marcação de reuniões, a coluna da tabela "Calendário de reuniões" também deve ser ajustada. Para o efeito, basta abrir as definições da coluna e restringir as linhas a uma vista. Para tal, selecciona-se a vista acabada de criar com os dois filtros e, ao mesmo tempo, desactiva-se a função em que os participantes podem selecionar várias datas. Isto significa que só pode ser marcada uma marcação de cada vez e que só é possível aceder às datas livres e futuras da 2ª vista.
 
 Pode configurar um mecanismo de notificação automática nas definições de notificação (três pontos no canto superior direito), que o recorda das próximas marcações, por exemplo, ou o informa de que uma marcação acabou de ser feita através do sistema de marcação de consultas.
 

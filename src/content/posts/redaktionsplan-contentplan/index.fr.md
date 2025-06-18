@@ -26,7 +26,7 @@ Avec un plan de contenu, vous gardez toujours un œil sur les délais pour les p
 
 Vous devriez attribuer un responsable à chaque contribution planifiée. Ainsi, chaque membre de l'équipe peut **filtrer** le **plan éditorial en fonction de ce qu'il a à** faire et voir d'un seul coup d'œil ce qui doit être fait. La **coordination entre plusieurs personnes ou départements est plus facile** si l'on sait clairement qui est impliqué dans quel projet et qui a encore des capacités.
 
-![L'équipe marketing crée un modèle de plan éditorial.](https://seatable.io/wp-content/uploads/2022/05/Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
+![L'équipe marketing crée un modèle de plan éditorial.](Contentplan-Vorlage_AdobeStock_324810111_bearbeitet-711x474.jpg)
 
 Un plan de contenu permet de coordonner la planification et la création de contributions. Droits d'image : © DisobeyArt / Adobe Stock
 
@@ -55,7 +55,7 @@ L'étape suivante consiste à choisir le cadre approprié pour votre plan de con
 - Vous avez besoin d'un calendrier et de rappels automatiques ?
 - Quelles données et statistiques souhaitez-vous utiliser pour analyser les performances ?
 
-![Une collaboratrice marketing crée un modèle de planification éditoriale.](https://seatable.io/wp-content/uploads/2022/05/Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
+![Une collaboratrice marketing crée un modèle de planification éditoriale.](Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg)
 
 La planification du contenu nécessite un concept bien pensé. Droits d'image : © Andrey Popov / Adobe Stock
 

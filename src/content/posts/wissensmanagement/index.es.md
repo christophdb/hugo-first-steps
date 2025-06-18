@@ -35,7 +35,7 @@ Si quiere utilizar el conocimiento acumulado en su empresa, primero tiene que di
 
 Por lo tanto, es crucial para la gestión del conocimiento en su empresa registrar las soluciones individuales desarrolladas por sus empleados en un sistema de gestión del conocimiento.
 
-![Un buen ambiente de trabajo en su empresa sienta una base importante para una gestión eficaz del conocimiento.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-29-e1722945539973-711x555.png)
+![Un buen ambiente de trabajo en su empresa sienta una base importante para una gestión eficaz del conocimiento.](Design-ohne-Titel-29-e1722945539973-711x555.png)
 
 Un ambiente de trabajo agradable ayuda a reunir y compartir conocimientos.
 
@@ -53,7 +53,7 @@ Con esta variante, se agrupan los conocimientos de las personas en un **almacén
 
 Esta variante se utiliza cuando los conocimientos son demasiado complejos para que todos puedan entenderlos. Entonces se necesitan **expertos** que puedan transmitir sus conocimientos personalmente a determinados compañeros y que también estén disponibles para responder a preguntas.
 
-![Un experto debe estar siempre disponible durante el horario laboral, aunque trabaje desde casa.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-28-e1722945260552-711x505.png)
+![Un experto debe estar siempre disponible durante el horario laboral, aunque trabaje desde casa.](Design-ohne-Titel-28-e1722945260552-711x505.png)
 
 Si tiene expertos en su empresa, debe poder acceder a ellos rápida y fácilmente en caso de problemas.
 
@@ -63,7 +63,7 @@ También puede combinar las dos estrategias, por ejemplo, transmitir sus conocim
 
 Para utilizar eficazmente los conocimientos acumulados en su empresa, debe conocer los **ocho componentes básicos** de la gestión del conocimiento.
 
-![Los ocho pilares de la gestión del conocimiento se complementan entre sí y le permiten organizar su empresa de forma más eficiente.](https://seatable.io/wp-content/uploads/2024/08/Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
+![Los ocho pilares de la gestión del conocimiento se complementan entre sí y le permiten organizar su empresa de forma más eficiente.](Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
 
 Clasificación según Probst, Raub y Romhardt
 
@@ -76,7 +76,7 @@ El resultado es una especie de pauta que puede utilizar como guía para desarrol
 
 Para compartir conocimientos pueden utilizarse diversos métodos bien conocidos, por ejemplo [talleres](https://seatable.io/es/workshop-planen/), lecciones aprendidas, [reuniones de equipo](https://seatable.io/es/in-4-schritten-zu-effizienteren-teammeetings/), tutorías, [incorporación](https://seatable.io/es/onboarding/) o boletines internos.
 
-![Para que funcione la gestión del conocimiento, es importante que todos los empleados estén al día e intercambien información activamente.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-27-e1722944969749-711x544.png)
+![Para que funcione la gestión del conocimiento, es importante que todos los empleados estén al día e intercambien información activamente.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 
 Un intercambio activo es importante para una buena gestión del conocimiento.
 
@@ -95,7 +95,7 @@ La gestión del conocimiento puede dar mucho de sí y, por tanto, puede utilizar
 
 En **atención al cliente**, por ejemplo, un sofisticado sistema de gestión del conocimiento puede aliviarle de muchas tareas. Para preguntas como "¿Cómo cambio los datos de mi dirección?" o "¿Dónde puedo desactivar las notificaciones?", los clientes rara vez necesitan un contacto personal por teléfono o correo electrónico. En su lugar, se crea un **portal de autoservicio** en el que se pueden consultar las consultas más frecuentes de los clientes con una solución inmediatamente disponible.
 
-![La atención al cliente consta de varios componentes.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-26-e1722944554743-711x485.png)
+![La atención al cliente consta de varios componentes.](Design-ohne-Titel-26-e1722944554743-711x485.png)
 
 Ahorre mucho trabajo a sus empleados ofreciendo a sus clientes ayuda para ayudarse a sí mismos.
 

@@ -23,7 +23,7 @@ Vamos começar com uma definição. SWOT significa
 - Oportunidades – oportunidades
 - Ameaças – riscos
 
-![Consultor de gestão à procura de um novo modelo para um exemplo de análise SWOT no seu computador portátil.](https://seatable.io/wp-content/uploads/2022/04/Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
+![Consultor de gestão à procura de um novo modelo para um exemplo de análise SWOT no seu computador portátil.](Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
 
 Análise SWOT © tudo possível / Adobe Stock
 
@@ -37,7 +37,7 @@ Em seguida, **analisa o ambiente da sua empresa ou equipa**. Agora é altura de 
 
 Na segunda etapa, você obtém **recomendações estratégicas de ação** a partir do inventário. O que você deve fazer quando as oportunidades encontram os pontos fracos ou as ameaças encontram os pontos fortes?
 
-![Representação gráfica de uma matriz SWOT como modelo para uma análise SWOT.](https://seatable.io/wp-content/uploads/2022/04/Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Representação gráfica de uma matriz SWOT como modelo para uma análise SWOT.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
 
 Exemplo de análise SWOT © r0b\_ / Adobe Stock
 
@@ -80,7 +80,7 @@ Deve também escolher um [modelo de análise SWOT]({{< relref "templates/operati
 
 O processo [de balanço](https://seatable.io/pt/inventarliste-vorlagen/) é muito moroso. Quem pode ser destacado para as reuniões e seminários? São necessários conhecimentos especializados de vários departamentos. **Que colegas têm uma visão dos pontos fortes, pontos fracos, oportunidades e riscos da sua empresa e do seu ambiente de negócios?** O ideal seria reunir uma equipa de dez funcionários.
 
-![Uma equipe fala sobre um novo exemplo de análise SWOT.](https://seatable.io/wp-content/uploads/2022/04/Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
+![Uma equipe fala sobre um novo exemplo de análise SWOT.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
 
 Uma equipe fala sobre um exemplo de análise SWOT © weedezign / Adobe Stock
 

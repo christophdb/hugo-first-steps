@@ -35,7 +35,7 @@ En revanche, **les connaissances implicites** sont tout le savoir-faire de vos p
 
 Il est donc essentiel pour la gestion des connaissances dans votre entreprise de consigner les solutions individuelles développées par vos collaborateurs dans un système de gestion des connaissances.
 
-![Un bon climat de travail dans votre entreprise pose une pierre angulaire importante pour une gestion des connaissances qui fonctionne.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-29-e1722945539973-711x555.png)
+![Un bon climat de travail dans votre entreprise pose une pierre angulaire importante pour une gestion des connaissances qui fonctionne.](Design-ohne-Titel-29-e1722945539973-711x555.png)
 
 Une ambiance de travail agréable vous aide à rassembler et à partager les connaissances.
 
@@ -53,7 +53,7 @@ Dans cette variante, vous regroupez les connaissances de personnes individuelles
 
 Cette variante est utilisée lorsque les connaissances sont trop complexes pour être formulées de manière compréhensible pour tous. Il faut alors **des experts** qui transmettent personnellement leur savoir à certains collègues et qui sont également disponibles en cas de questions.
 
-![Un expert devrait toujours être disponible aux heures de travail, même si la personne se trouve dans son bureau à domicile.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-28-e1722945260552-711x505.png)
+![Un expert devrait toujours être disponible aux heures de travail, même si la personne se trouve dans son bureau à domicile.](Design-ohne-Titel-28-e1722945260552-711x505.png)
 
 Si vous avez des experts dans votre entreprise, ils doivent pouvoir être contactés rapidement et facilement en cas de problème.
 
@@ -63,7 +63,7 @@ Vous pouvez également combiner les deux stratégies, par exemple en partageant 
 
 Pour pouvoir utiliser efficacement les connaissances accumulées par votre entreprise, vous devez être conscient des **huit éléments qui** composent la gestion des connaissances.
 
-![Les huit éléments de la gestion des connaissances s'appuient les uns sur les autres et vous permettent d'améliorer l'efficacité globale de votre entreprise.](https://seatable.io/wp-content/uploads/2024/08/Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
+![Les huit éléments de la gestion des connaissances s'appuient les uns sur les autres et vous permettent d'améliorer l'efficacité globale de votre entreprise.](Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
 
 Systématique selon Probst, Raub et Romhardt
 
@@ -76,7 +76,7 @@ Il en résulte une sorte de guide dont vous pouvez vous inspirer pour élaborer 
 
 Un grand nombre de méthodes connues entrent en ligne de compte pour la diffusion des connaissances, par exemple [les ateliers](https://seatable.io/fr/workshop-planen/), les leçons apprises, les [réunions d'équipe](https://seatable.io/fr/in-4-schritten-zu-effizienteren-teammeetings/), le mentoring, [l](https://seatable.io/fr/onboarding/) '[onboarding](https://seatable.io/fr/onboarding/) ou les newsletters internes.
 
-![Pour gérer les connaissances, il est important que tous les collaborateurs soient au même niveau et qu'ils échangent activement des informations.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-27-e1722944969749-711x544.png)
+![Pour gérer les connaissances, il est important que tous les collaborateurs soient au même niveau et qu'ils échangent activement des informations.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 
 Pour une bonne gestion des connaissances, il est important d'avoir un échange actif.
 
@@ -95,7 +95,7 @@ La gestion des connaissances peut apporter beaucoup et peut donc être utilisée
 
 Dans le domaine du **support client**, par exemple, un système de gestion des connaissances sophistiqué peut vous décharger de nombreuses tâches. Pour des questions telles que "Comment modifier mes données d'adresse ?" ou "Où puis-je désactiver les notifications ?", les clients ont rarement besoin d'un interlocuteur personnel par téléphone ou par e-mail. Au lieu de cela, un **portail en libre-service** est mis en place, dans lequel les questions les plus fréquentes des clients peuvent être consultées avec une solution immédiatement mise à disposition.
 
-![Le support client se compose de plusieurs éléments.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-26-e1722944554743-711x485.png)
+![Le support client se compose de plusieurs éléments.](Design-ohne-Titel-26-e1722944554743-711x485.png)
 
 Épargnez beaucoup de travail à vos collaborateurs en proposant à vos clients de les aider à s'aider eux-mêmes.
 

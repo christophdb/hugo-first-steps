@@ -46,7 +46,7 @@ Après les premiers entretiens avec le nouveau client potentiel, vous connaissez
 - Rédaction d'une offre écrite
 - Envoi de l'offre écrite au client
 
-![Une collaboratrice calcule le prix dans le cadre de la gestion des offres](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![Une collaboratrice calcule le prix dans le cadre de la gestion des offres](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
 
 Gestion des offres © Antonioguillem / adobe stock
 
@@ -87,7 +87,7 @@ Une autre erreur fréquente dans la gestion des offres est que le vendeur ne s'e
 
 Une gestion parfaite de l'offre implique également de relancer le client après un certain temps s'il ne répond pas de lui-même. Ainsi, vous montrez non seulement qu'il est important pour vous (thème de la fidélisation de la clientèle), mais vous pouvez aussi éliminer directement les éventuelles ambiguïtés ou questions et, le cas échéant, adapter à nouveau l'offre.
 
-![Le commercial est au téléphone avec le client potentiel dans le cadre de la gestion de son offre.](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![Le commercial est au téléphone avec le client potentiel dans le cadre de la gestion de son offre.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
 
 Gestion des offres © Patrick Daxenbichler / adobe stock
 

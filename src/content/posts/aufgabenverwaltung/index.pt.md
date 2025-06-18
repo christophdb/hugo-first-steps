@@ -57,7 +57,7 @@ Como ferramenta de gestão de projectos, o SeaTable é altamente flexível e pod
 
 Sendo uma **solução de folha de cálculo flexível**, o SeaTable oferece um design completamente personalizado para a sua gestão de tarefas. Criámos a nossa base com todas as informações importantes necessárias para um projeto, tais como tarefas, pessoa responsável, prazo, data de início e documentos importantes. Podem ser utilizados vários tipos de colunas para personalizar e especificar as entradas. Isto permite-lhe criar uma nova linha para cada tarefa que surja e introduzir a tarefa em pormenor. Este processo é comparável à criação de um bilhete, como acontece em alguns sistemas.
 
-![Criar gestores de tarefas para os seus projectos](https://seatable.io/wp-content/uploads/2021/09/Uebersichtn.gif)
+![Criar gestores de tarefas para os seus projectos](Uebersichtn.gif)
 
 Quase todos os tipos de colunas podem ser utilizados para uma maior estruturação e avaliação. Para uma melhor visão geral e classificação das tarefas, foi efectuado um duplo agrupamento por categoria e área de tarefa na tabela "Campanha de anúncios na TV" e um agrupamento por área de tarefa e prioridade no projeto paralelo "Revista da marca". No entanto, as tabelas de gestão de tarefas também podem ser agrupadas por colaborador ou prazo - tal como necessita dos dados neste momento.
 
@@ -73,7 +73,7 @@ SeaTable permite a comunicação directa dentro das tabelas, eliminando a necess
 
 Para uma melhor visualização e um manuseamento mais fácil da gestão de tarefas, o plugin Kanban é a solução ideal. O plugin integrado funciona como todas as ferramentas comuns de gestão de tarefas Kanban e permite que as tarefas sejam movidas para trás e para a frente sob a forma de cartões com base em várias categorias de categorização, como o estado. Quando uma tarefa é concluída, a pessoa responsável pode simplesmente mover o cartão de "a fazer" para "feito" e a tarefa é marcada como concluída.
 
-![O quadro Kanban facilita a sua gestão de tarefas](https://seatable.io/wp-content/uploads/2021/09/Kanban-board-711x457.jpg)
+![O quadro Kanban facilita a sua gestão de tarefas](Kanban-board-711x457.jpg)
 
 Outras categorizações são também concebíveis, tais como de acordo com pacotes de tarefas superiores, por exemplo o design de um website. Esta forma de trabalhar é muito mais fácil para muitos, uma vez que as tarefas são claramente estruturadas e visualizadas. Isto também ajuda a poder avaliar um projecto e o esforço envolvido no mesmo em termos reais. Tais ferramentas são, portanto, muito populares, especialmente com equipas ou empresas mais pequenas.
 
@@ -91,16 +91,16 @@ O plug-in da linha do tempo é uma grande ajuda na visualização do tempo de to
 
 Para opiniões individuais do pessoal, crie as suas próprias opiniões para cada membro do pessoal com antecedência. Desta forma, cada um vê as suas próprias tarefas na sua própria linha temporal e sabe quanto tempo lhe resta para tarefas individuais. Também pode ver como os seus empregados estão ocupados quando planeiam tarefas e podem reprogramar se a carga de trabalho for distribuída de forma desigual.
 
-![Planeie a sua lista de afazeres para um timing perfeito](https://seatable.io/wp-content/uploads/2021/09/Timeline.gif)
+![Planeie a sua lista de afazeres para um timing perfeito](Timeline.gif)
 
 Semelhante ao plug-in da linha do tempo, o plug-in do calendário oferece uma visão geral temporal de todo o projecto e de todas as fases de planeamento da gestão de tarefas, mas inteiramente em estilo de calendário. A visão por dia, semana, mês, ano ou inteiramente na visão da agenda permite uma visão diária das etapas do projecto e mostra em que dia o quanto precisa de ser feito. Também aqui é possível a criação de quadros de pessoal sem quaisquer problemas com base nas opiniões criadas.
 
-![Visualize a sua gestão de tarefas com o plugin do calendário](https://seatable.io/wp-content/uploads/2021/09/Cal.gif)
+![Visualize a sua gestão de tarefas com o plugin do calendário](Cal.gif)
 
 ## Receber automaticamente todo o progresso do projecto
 
 As notificações automáticas são muito importantes para que todos os empregados estejam sempre actualizados relativamente às suas tarefas e à gestão das mesmas. A verificação obrigatória da base para ver se há novidades deixou de ser necessária. No nosso modelo, definimos uma regra de notificação que é accionada por alterações na coluna "Responsável". Quando uma tarefa é atribuída a um colaborador, este recebe uma notificação direta e automaticamente.  
-![Tarefas concluídas na gestão de tarefas](https://seatable.io/wp-content/uploads/2021/09/task-done.jpg)
+![Tarefas concluídas na gestão de tarefas](task-done.jpg)
 
 Se for necessário obter feedback de um colega ou do supervisor, basta atribuir a tarefa a essa pessoa - mais uma vez, a regra desencadeia-se automaticamente e a pessoa responsável é informada. Isto elimina a necessidade de e-mails com consultas, feedback ou instruções de trabalho. Após o processamento, a tarefa é então enviada de volta para a pessoa apropriada para continuar o fluxo de trabalho.
 

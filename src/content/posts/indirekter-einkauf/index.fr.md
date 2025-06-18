@@ -30,7 +30,7 @@ Avec SeaTable, vous avez toutes les informations importantes, les produits et le
 
 Notre modèle se compose de trois tableaux qui sont tous liés entre eux et se transmettent mutuellement des informations. Le premier tableau est la base du formulaire web que vos collaborateurs peuvent utiliser pour toutes leurs commandes. Le deuxième tableau est un catalogue de produits détaillé qui contient toutes les marchandises nécessaires à l'entreprise à des fins internes, des crayons à la souris d'ordinateur. Le troisième tableau contient tous les fournisseurs des biens avec les coordonnées importantes. **Avec ces trois leviers**, l'organisation de votre bureau deviendra très vite un jeu d'enfant.
 
-![Aperçu de toutes les commandes dans les achats indirects](https://seatable.io/wp-content/uploads/2021/11/bestellungen-indirekter-einkauf-1088x515.png)
+![Aperçu de toutes les commandes dans les achats indirects](bestellungen-indirekter-einkauf-1088x515.png)
 
 Le fait que tous les tableaux soient reliés entre eux est possible grâce aux colonnes liées. Cette fonction pratique simplifie l'organisation des données au sein d'une base : Les données qui sont nécessaires dans chaque table, comme le prix d'un produit, peuvent être créées dans une table et diffusées dans toutes les autres tables. Si le prix change dans la table d'origine, il change également dans toutes les autres tables grâce à la liaison. Ainsi, les informations ne doivent pas être saisies plusieurs fois, mais se règlent d'elles-mêmes !
 
@@ -40,7 +40,7 @@ De nombreuses informations sont ainsi rassemblées dans ce tableau : Les colonne
 
 Avec ses colonnes, le tableau offre en même temps la base du [formulaire web](https://seatable.io/fr/docs/handbuch/seatable-nutzen/webformulare/) intégré pour l'organisation de votre bureau. Pour une commande de matériel interne, les collaborateurs choisissent un produit dans la liste - c'est la colonne liée "Products" du catalogue de produits (tableau 2). Ensuite, ils n'ont plus qu'à indiquer la quantité et le service dans lequel ils travaillent pour que les commandes restent claires.
 
-![Formulaire de commande de matériel indirect](https://seatable.io/wp-content/uploads/2021/11/bestellformular-indirektes-material.png)
+![Formulaire de commande de matériel indirect](bestellformular-indirektes-material.png)
 
 Chaque formulaire envoyé atterrit immédiatement dans la base et est créé sous forme de nouvelle ligne. Les collaborateurs doivent fournir relativement peu d'informations, bien que la table elle-même contienne beaucoup d'informations. C'est là qu'interviennent les colonnes liées.
 
@@ -68,7 +68,7 @@ Cette règle informe automatiquement par e-mail tous les participants en cas de 
 
 Avec SeaTable, vous avez également la possibilité d'envoyer des e-mails automatisés en un seul clic. C'est très utile, et pas seulement pour les achats internes. Pour cela, vous devez d'abord intégrer votre compte e-mail dans votre base. Cela se fait via les trois points en haut à droite -> Paramètres -> Fournisseurs tiers. Ici, vous pouvez ajouter votre compte e-mail selon les indications de votre fournisseur de messagerie. Une fois cette étape franchie, vous pouvez créer un bouton d'envoi d'e-mails avec la colonne des boutons.
 
-![Envoyer automatiquement des commandes avec SeaTable](https://seatable.io/wp-content/uploads/2021/11/Bestellungen-automatisch-verschicken.gif)
+![Envoyer automatiquement des commandes avec SeaTable](Bestellungen-automatisch-verschicken.gif)
 
 Voici comment procéder :
 
@@ -82,7 +82,7 @@ Voici comment procéder :
 
 SeaTable ne serait pas une solution optimale pour l'organisation du bureau si elle n'offrait pas une fonction claire et pratique pour la gestion des tâches. D'une part, nous créons des [vues](https://seatable.io/fr/docs/handbuch/seatable-nutzen/ansichten/) différentes pour chaque agent afin que seules les commandes qui le concernent soient visibles. En effet, un employé chargé de l'équipement de bureau ne doit pas voir les commandes de produits alimentaires. Pour cela, il suffit de cliquer sur la petite flèche en haut à gauche, intitulée dans notre exemple "View all".
 
-![Vue Kanban de toutes les commandes dans l'achat indirect](https://seatable.io/wp-content/uploads/2021/11/kanban-view-indirekte-beschaffung.png)
+![Vue Kanban de toutes les commandes dans l'achat indirect](kanban-view-indirekte-beschaffung.png)
 
 Un filtre permet de définir les personnes auxquelles l'affichage est destiné. Ainsi, seules les commandes dont on fait partie sont affichées - ce qui aide à garder une vue d'ensemble et à garder un œil sur ses propres domaines d'activité. Les vues sont toutefois aussi la base du plugin Kanban.
 
@@ -96,7 +96,7 @@ Nous avons déjà expliqué plus haut à quel point les colonnes liées de SeaTa
 
 Le deuxième tableau contient le catalogue complet des produits de l'organisation de bureau. Seuls les produits qui y sont enregistrés peuvent être commandés par le personnel. Il est donc important que tous les produits figurent dans la liste - dès que de nouveaux produits sont ajoutés, ils sont intégrés ici et sont ensuite immédiatement disponibles pour une commande.
 
-![Le catalogue de produits pour le matériel indirect dans SeaTable](https://seatable.io/wp-content/uploads/2021/11/produktkatalog-indirekter-einkauf.png)
+![Le catalogue de produits pour le matériel indirect dans SeaTable](produktkatalog-indirekter-einkauf.png)
 
 Ce tableau utilise également des informations provenant d'autres tableaux. Les numéros de commande, par exemple, proviennent du tableau "Orders" et les fournisseurs et leur adresse e-mail sont issus du troisième tableau "Suppliers". Ici aussi, les colonnes liées sont utilisées afin de réduire au maximum le travail d'organisation. La colonne "€" de ce tableau indique les prix des produits selon la liste et est déterminante pour le calcul des prix des commandes.
 

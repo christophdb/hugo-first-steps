@@ -17,7 +17,7 @@ Gostaria de **planear** um **seminário** ou mesmo de gerir todo o programa **de
 
 Os trabalhadores são o recurso mais valioso de uma empresa. Por conseguinte, é do seu interesse desenvolver os seus **recursos humanos** e, assim, tornar a sua empresa ainda mais valiosa. A educação contínua, a formação e os workshops podem, por isso, ser vistos como um **investimento sustentável** na sua empresa. Afinal de contas, as novas competências e conhecimentos que os seus empregados adquirem não só os beneficiarão a eles, mas também à empresa.
 
-![Workshop de planeamento](https://seatable.io/wp-content/uploads/2021/07/Workshops.jpg)
+![Workshop de planeamento](Workshops.jpg)
 
 Consoante a complexidade do tema e os conhecimentos da sua empresa, pode organizar **seminários internos** com os seus empregados, recorrer a peritos externos para **formação interna** ou tirar partido de **cursos de formação externos**, por exemplo, na Agência Federal de Emprego, numa Câmara de Indústria e Comércio ou numa academia.
 
@@ -61,7 +61,7 @@ Dependendo do facto de a sua empresa dispor dos conhecimentos necessários sobre
 
 Com o plugin de conceção de páginas, também é possível criar um **perfil** com os dados contidos na tabela e guardá-lo em formato PDF.
 
-![Com o Page Design Plugin pode criar perfis de formadores com apenas alguns cliques](https://seatable.io/wp-content/uploads/2021/07/Coach-profile-711x588.jpg)
+![Com o Page Design Plugin pode criar perfis de formadores com apenas alguns cliques](Coach-profile-711x588.jpg)
 
 ## Determinar a duração e a ordem de trabalhos do seminário
 
@@ -97,7 +97,7 @@ Dependendo do tema da oficina, diferentes métodos e materiais são adequados pa
 
 Para **certificar a participação no workshop**, pode emitir um certificado para cada participante. O [plugin de design de páginas](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) do SeaTable poupa-lhe muito trabalho. O plugin utiliza as informações já introduzidas na tabela e pode inseri-las individualmente para cada participante no layout do certificado de presença. Com a ajuda de um botão, pode criar documentos personalizados com o toque de um botão e guardá-los em formato PDF.
 
-![Criar certificados sem esforço extra com o Page Design Plugin](https://seatable.io/wp-content/uploads/2021/07/Zertifikate.jpg)
+![Criar certificados sem esforço extra com o Page Design Plugin](Zertifikate.jpg)
 
 ## Obter e avaliar as reacções ao seminário
 

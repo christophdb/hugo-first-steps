@@ -51,7 +51,7 @@ Organizar una despedida de soltero puede ser una tarea apasionante, pero tambié
 
 Estos son los pasos esenciales para garantizar que la despedida de soltero sea todo un éxito:
 
-![Lista de control para una despedida de soltero](https://seatable.io/wp-content/uploads/2023/04/Checkliste-Junggesellenabschied.png)
+![Lista de control para una despedida de soltero](Checkliste-Junggesellenabschied.png)
 
 Deberías marcar estos puntos para que tu despedida de soltero sea perfecta.
 

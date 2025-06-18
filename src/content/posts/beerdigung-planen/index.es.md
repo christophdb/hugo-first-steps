@@ -41,7 +41,7 @@ Debe informar lo antes posible del fallecimiento de un ser querido a todas las p
 
 La muerte de una persona cercana conlleva mucho **dolor** para los familiares. En estos momentos de tensión emocional, no es fácil para muchos ocuparse del funeral. En el caso de las muertes repentinas, los familiares a menudo ni siquiera saben cómo se habría imaginado el fallecido su propio funeral.
 
-![Un entierro en un cementerio](https://seatable.io/wp-content/uploads/2023/08/rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
+![Un entierro en un cementerio](rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
 
 Un entierro clásico en un cementerio sigue siendo la primera opción para muchos.
 
@@ -53,7 +53,7 @@ Para evitar el caos en caso de fallecimiento, debe aclarar de antemano quién de
 
 {{< warning headline="Nota importante" text="No olvide, entre otras cosas, [autorizar](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) a sus personas de confianza a acceder a sus cuentas tras su fallecimiento. De lo contrario, es posible que los responsables no puedan actuar, ya que tendrán que esperar semanas o meses a que se abra el testamento o se expida un certificado de herencia." />}}
 
-![Planificar un funeral: en caso de emergencia, los afectados no suelen saber por dónde empezar.](https://seatable.io/wp-content/uploads/2023/08/the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
+![Planificar un funeral: en caso de emergencia, los afectados no suelen saber por dónde empezar.](the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
 
 Planificar un funeral: en caso de emergencia, los afectados no suelen saber por dónde empezar.
 
@@ -71,7 +71,7 @@ La elección de un tipo de sepultura está directamente relacionada con el lugar
 
 ¿Quizás hay familiares o amigos junto a los que le gustaría encontrar su última morada? Entonces una fosa común también podría ser una opción. Además de los cementerios, cada vez son más populares los lugares de descanso alternativos en la naturaleza.
 
-![Senda forestal](https://seatable.io/wp-content/uploads/2023/08/maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
+![Senda forestal](maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
 
 Un apacible descanso final en la naturaleza es cada vez más popular.
 
@@ -87,7 +87,7 @@ Los costes de un funeral pueden variar mucho. Dependen, entre otras cosas, del t
 
 El más caro es el entierro clásico en un cementerio. Una gran parte de los costes funerarios corresponde al **ataúd**, la **lápida** y los derechos de uso de una **sepultura**. Cada uno de estos tres gastos puede ascender a varios miles de euros. Puede ahorrarse estos costes -así como el posterior mantenimiento de la tumba- con una incineración con enterramiento natural.
 
-![Tumbas en un cementerio](https://seatable.io/wp-content/uploads/2023/08/michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
+![Tumbas en un cementerio](michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
 
 ¿Una urna o un ataúd? El tipo de entierro influye mucho en el coste de la sepultura.
 
@@ -113,7 +113,7 @@ No puede evitar este trámite a sus familiares, pero puede depositar el resto de
 
 En Alemania no se puede enterrar a un difunto sin una empresa de pompas fúnebres. Por ejemplo, en la mayoría de los estados federados es obligatorio trasladar el cuerpo desde el lugar del fallecimiento a una funeraria y, desde allí, al lugar de descanso final.
 
-![](https://seatable.io/wp-content/uploads/2023/08/adrianna-geo-JWlZS708L1Y-unsplash-min.jpg)
+![](adrianna-geo-JWlZS708L1Y-unsplash-min.jpg)
 
 **Otros servicios funerarios incluyen:**
 
@@ -132,7 +132,7 @@ Si la persona fallecida ha expresado sus deseos o los ha puesto por escrito, ust
 
 Los servicios funerarios suelen ir acompañados de un orador independiente o de un clérigo de la congregación eclesiástica correspondiente. Póngase en contacto con antelación con un orador adecuado y hable con él sobre el desarrollo del funeral. Normalmente, el orador abordará en su **discurso** la vida de la persona fallecida y necesitará información detallada y suficiente tiempo de preparación para ello.
 
-![Orador para el funeral](https://seatable.io/wp-content/uploads/2023/08/the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
+![Orador para el funeral](the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
 
 Sacerdote, pastor u orador independiente: ¿qué le conviene para su funeral previsto?
 
@@ -144,7 +144,7 @@ En la mayoría de los casos, el funeral se celebra antes del entierro, cerca del
 
 Pregunte a los familiares con tiempo suficiente si desean contribuir **activamente** al servicio funerario. Por ejemplo, pueden decir unas palabras al difunto o leer un poema. En los funerales religiosos también se pueden rezar **oraciones**. Ponga en el funeral **música** que le gustara a la persona fallecida. Muchas funerarias tienen buenos equipos de música o incluso un piano. Si algunos familiares son musical y emocionalmente capaces, también pueden tocar instrumentos y cantar juntos.
 
-![Cancionero para el funeral](https://seatable.io/wp-content/uploads/2023/08/david-beale-gOsGgt4olNs-unsplash-min.jpg)
+![Cancionero para el funeral](david-beale-gOsGgt4olNs-unsplash-min.jpg)
 
 La música y las canciones pueden reconfortar en un funeral.
 
@@ -154,7 +154,7 @@ A menudo, los dolientes se reúnen de nuevo tras el funeral para celebrar el lla
 
 En un servicio funerario seguido de entierro, la urna o el féretro del difunto suelen estar bien visibles en la sala. Junto a él, se puede colocar una bonita **foto enmarcada de** la persona fallecida. Para que el resto de la habitación no parezca **yerma** y vacía, las **coronas funerarias y los adornos florales** son una buena idea. Puede contratar a un florista para la decoración, pero esto puede resultar caro dependiendo de sus ideas.
 
-![Arreglos florales para el funeral](https://seatable.io/wp-content/uploads/2023/08/strauss-western-5a3eFHcGl9U-unsplash-min.jpg)
+![Arreglos florales para el funeral](strauss-western-5a3eFHcGl9U-unsplash-min.jpg)
 
 A menudo, los demás familiares están encantados de participar en la adquisición de coronas o arreglos funerarios y se consigue un respetable despliegue floral. Si desea plantar una tumba más adelante, los **cuencos de** flores con plantones son una buena idea. Por regla general, el director de la funeraria se encargará de colocar las coronas funerarias y los arreglos florales en la tumba después del funeral.
 
@@ -176,7 +176,7 @@ Lo ideal es que tengas acceso a la lista de contactos del teléfono móvil o la 
 
 Una vez que haya planificado la fecha y el lugar de las exequias, también puede publicar una **esquela** en un periódico local invitando a la gente a las exequias. Si se celebra en un lugar público, como un cementerio, cualquier persona que haya recibido la información puede asistir al funeral. Sin embargo, puede pedir a los dolientes que se abstengan de expresar sus condolencias en el acto.
 
-![Obituarios en el periódico](https://seatable.io/wp-content/uploads/2023/08/pexels-guel-isik-3837464.jpg)
+![Obituarios en el periódico](pexels-guel-isik-3837464.jpg)
 
 Las personas mayores, en particular, siguen leyendo las necrológicas en los periódicos locales.
 

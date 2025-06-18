@@ -19,7 +19,7 @@ Avant de chercher activement un logement, vous devez d'abord réfléchir aux con
 
 Pour beaucoup, le **prix du loyer** est un critère décisif. La règle des 30 % stipule que, dans le meilleur des cas, le loyer ne devrait pas être plus cher que 30 % de votre revenu net. Il convient toutefois de rester réaliste et de ne pas fixer trop de critères d'exclusion. Car l'offre de logements est limitée et la recherche de l'appartement parfait s'apparente dans la grande majorité des cas à la recherche d'une aiguille dans une botte de foin.
 
-![Ce que les locataires doivent définir avant de chercher un logement](https://seatable.io/wp-content/uploads/2023/12/Wohnungssuche-Kriterien-711x889.png)
+![Ce que les locataires doivent définir avant de chercher un logement](Wohnungssuche-Kriterien-711x889.png)
 
 Check-list pour une recherche de logement parfaite.
 
@@ -36,7 +36,7 @@ Le niveau des loyers ne cesse d'augmenter, de sorte que de nombreuses personnes 
 - Le **certificat d'autorisation de logement** confirme que le locataire a le droit d'occuper un logement subventionné par des fonds publics. Pour l'obtenir, le locataire doit toutefois remplir certains critères. Il ne doit par exemple pas dépasser un certain plafond de revenus. C'est l'autorité locale compétente qui détermine si vous y avez droit.
 - L'**allocation logement** est une aide au loyer pour les ménages qui ne peuvent justifier que de faibles revenus. Le ministère fédéral du Logement, de l'Urbanisme et de la Construction propose un [calculateur d'allocation logement](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/wohnen/wohnraumfoerderung/wohngeld/wohngeldrechner-2023-artikel.html;jsessionid=6DD0480874498C458F1FA626537143D2.live861) en ligne qui vous permet de vérifier si vous y avez droit. La demande d'aide au logement elle-même doit également être déposée auprès de l'autorité compétente.
 
-![Lever de soleil sur les gratte-ciel](https://seatable.io/wp-content/uploads/2023/12/Bild-von-Freepik_9328139-711x711.jpg)
+![Lever de soleil sur les gratte-ciel](Bild-von-Freepik_9328139-711x711.jpg)
 
 Les personnes qui ne peuvent plus se permettre de payer les loyers dans leur ville ont droit à un logement social.
 
@@ -54,7 +54,7 @@ Si cela vous semble trop compliqué, vous pouvez vous adresser à des organismes
 
 Vous passez peut-être de toute façon beaucoup de temps sur **les médias sociaux** - alors pourquoi ne pas utiliser l'intelligence du groupe sur Facebook, Instagram et autres ? Vous pouvez annoncer que vous êtes à la recherche d'un logement dans votre statut, inviter au partage et ensuite parcourir les groupes créés spécialement pour la recherche d'un logement.
 
-![Loupe sur les annonces de logement](https://seatable.io/wp-content/uploads/2023/12/Bild-von-Freepik_4344249-711x474.jpg)
+![Loupe sur les annonces de logement](Bild-von-Freepik_4344249-711x474.jpg)
 
 La recherche d'un logement s'avère souvent difficile.
 
@@ -74,7 +74,7 @@ Il existe à cet effet des **agences d'échange** spécialisées dans l'immobili
 
 Quand vient enfin le moment de visiter un appartement, il y a quelques points à prendre en compte pour savoir si l'appartement en question entre vraiment en ligne de compte. Dans le meilleur des cas, fixez la visite à une heure où **la lumière du jour** pénètre encore suffisamment dans l'appartement pour pouvoir l'examiner sous toutes les coutures. Le critère le plus important est toutefois de savoir si vous vous sentez bien dans le **quartier** et dans l'appartement.
 
-![Conseils pour les visites d'appartements](https://seatable.io/wp-content/uploads/2023/12/Wohnungssuche-Besichtigungen-1-711x889.png)
+![Conseils pour les visites d'appartements](Wohnungssuche-Besichtigungen-1-711x889.png)
 
 Conseils utiles pour les visites d'appartements.
 

@@ -18,7 +18,7 @@ Les réponses ainsi qu'un aperçu des six meilleurs conseils pratiques pour la p
 
 Une différence importante et décisive entre la stratégie marketing et la campagne marketing est la composante temporelle. Alors que la stratégie est une approche planifiée à long terme pour la réalisation des objectifs marketing, la campagne est une action limitée dans le temps dans le cadre de cette même stratégie. Ainsi, une stratégie peut comporter de nombreuses campagnes de marketing ou de publicité différentes sur une longue période. Cela signifie que la planification et la mise en œuvre de la campagne de marketing se font toujours sous l'égide de la stratégie de marketing.
 
-![Une collaboratrice prend en charge la planification des campagnes de marketing.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
+![Une collaboratrice prend en charge la planification des campagnes de marketing.](Marketing-Kampagne-Planung_AdobeStock_101585925-711x474.jpg)
 
 Planification de la campagne marketing © Rawpixel / adobe stock
 
@@ -48,7 +48,7 @@ Il n'existe pratiquement pas d'idées qui n'aient pas déjà été pensées. En 
 
 Une campagne de marketing et sa planification fonctionnent mieux lorsque chacun sait ce qu'il doit faire et quand. Une fois que [les objectifs du projet]({{< relref "templates/projects/project-plan" >}}), le groupe cible et l'analyse du marché ou de la concurrence sont définis, il s'agit de constituer une équipe, de [répartir les responsabilités et les tâches](https://seatable.io/fr/projektstrukturplan-vorlage/), de fixer des délais et des étapes et - très important - de répartir le [budget](https://seatable.io/fr/budgetplanung-vorlage/).
 
-![L'équipe marketing discute de la procédure de planification des campagnes.](https://seatable.io/wp-content/uploads/2022/07/Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
+![L'équipe marketing discute de la procédure de planification des campagnes.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
 Planification de la campagne marketing © REDPIXEL / adobe stock
 

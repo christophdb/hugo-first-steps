@@ -12,7 +12,7 @@ seo:
 
 Weglot est un plug-in WordPress permettant de traduire automatiquement son propre site web. L'idée est simple et rapidement expliquée. On rédige comme d'habitude tous les textes de son propre site web dans sa langue maternelle et on laisse Weglot traduire tous les contenus dans une ou plusieurs autres langues. Le visiteur du site web est automatiquement redirigé vers la version linguistique qui lui convient le mieux et [Weglot](https://weglot.com/?fp_ref=loved_by_seatable) se charge de tous les travaux nécessaires au référencement international. 
 
-![Traduction automatique de la page web avec Weglot](https://seatable.io/wp-content/uploads/2022/03/automatische-uebersetzung-der-webseite-mit-weglot-1.gif)
+![Traduction automatique de la page web avec Weglot](automatische-uebersetzung-der-webseite-mit-weglot-1.gif)
 
 Traduction automatique de la page web avec Weglot
 
@@ -29,7 +29,7 @@ La perspective de voir Weglot se charger de l'ensemble du travail de traduction 
 
 Mais assez parlé. Si vous ne connaissez pas encore Weglot, je vous invite à regarder brièvement la vidéo suivante de Weglot, qui décrit brièvement son fonctionnement.
 
-[![Weglot expliqué en 63 secondes](https://seatable.io/wp-content/uploads/2022/03/weglot-youtube-video.png)](https://www.youtube.com/watch?v=frzdb79qTrU)
+[![Weglot expliqué en 63 secondes](weglot-youtube-video.png)](https://www.youtube.com/watch?v=frzdb79qTrU)
 
 Weglot expliqué en 64 secondes.
 
@@ -37,7 +37,7 @@ Weglot expliqué en 64 secondes.
 
 Permettez-moi de vous décrire brièvement les premiers pas avec Weglot. Tout d'abord, vous vous inscrivez sur le site weglot.com pour bénéficier de l'abonnement gratuit. _Free_\-version de l'application. Ne vous inquiétez pas : Weglot écrit quelque chose de 10 jours d'essai, mais Weglot est gratuit en permanence pour une autre langue et un maximum de 2.000 mots.
 
-![Créer le premier projet dans Weglot](https://seatable.io/wp-content/uploads/2022/03/weglot-erstes-projekt-anlegen.png)
+![Créer le premier projet dans Weglot](weglot-erstes-projekt-anlegen.png)
 
 Créer le premier projet dans Weglot.
 
@@ -45,7 +45,7 @@ Après avoir confirmé votre adresse e-mail, vous créez votre premier projet et
 
 Copiez donc la clé API affichée dans votre presse-papiers et allez dans la zone d'administration de votre site WordPress. Cherchez le plugin WordPress "Weglot" et installez-le. Dans les paramètres du plugin, vous devez saisir la clé API précédemment enregistrée et vous pouvez maintenant commencer à traduire votre site web.
 
-![Installer le plugin WordPress Weglot](https://seatable.io/wp-content/uploads/2022/03/install-weglot-in-wordpress.png)
+![Installer le plugin WordPress Weglot](install-weglot-in-wordpress.png)
 
 Installer le plugin WordPress Weglot.
 
@@ -73,7 +73,7 @@ Mais Weglot ne se contente pas de traduire votre site web, il veille également 
 
 Bien sûr, il peut arriver qu'une traduction ne soit pas tout à fait parfaite. Dans ce cas, Weglot permet de corriger facilement la traduction erronée via votre compte Weglot. Pour ce faire, il suffit de sélectionner la langue et l'URL correspondantes, puis d'afficher toutes les traductions dans un tableau de traduction.
 
-![Weglot permet de corriger facilement toute traduction](https://seatable.io/wp-content/uploads/2022/03/weglot-uebersetzungstabelle.png)
+![Weglot permet de corriger facilement toute traduction](weglot-uebersetzungstabelle.png)
 
 Weglot permet de corriger facilement toute traduction.
 
@@ -83,7 +83,7 @@ Si l'on ne souhaite pas corriger soi-même les traductions, il est possible de f
 
 Une autre fonction importante de Weglot est la possibilité de définir des termes qui ne doivent pas être traduits et d'exclure certains éléments de la traduction. SeaTable, par exemple, est un de ces mots que Weglot ne doit jamais traduire. De plus, nous avons défini que tous les éléments avec la classe HTML _dont-translate_ ne sont pas traduits. 
 
-![Avec les classes css ou les ids, on peut demander à Weglot de ne pas traduire quelque chose.](https://seatable.io/wp-content/uploads/2022/03/weglot-uebersetzung-verhindern.png)
+![Avec les classes css ou les ids, on peut demander à Weglot de ne pas traduire quelque chose.](weglot-uebersetzung-verhindern.png)
 
 Avec les classes css ou les ids, on peut demander à Weglot de ne pas traduire quelque chose.
 
@@ -95,7 +95,7 @@ Produire un bon contenu a moins posé problème. Mais nous n'avons pas de locute
 
 Grâce aux langues allemande, anglaise, française, espagnole et russe, nous couvrons une grande partie de la population mondiale. Un coup d'œil sur le monitoring de notre site web montre que 50 % du trafic de notre site web provient d'Allemagne, bien que nous n'ayons reçu jusqu'à présent des articles de presse et l'attention des médias que dans ce pays. Je dirais donc que nous devons environ 50 % du trafic actuel de notre site web à Weglot. 
 
-![Plus de trafic grâce aux visiteurs internationaux](https://seatable.io/wp-content/uploads/2022/03/zugriffe-weltweit.png)
+![Plus de trafic grâce aux visiteurs internationaux](zugriffe-weltweit.png)
 
 Plus de trafic grâce aux visiteurs internationaux grâce à Weglot
 
@@ -106,7 +106,7 @@ Par ailleurs, nous ne faisons aucun effort supplémentaire pour notre référenc
 Avant d'opter pour Weglot avec SeaTable, nous avons également examiné d'autres plug-ins WordPress pour traduire le site web.  
 Le plugin le plus connu pour un WordPress multilingue est, avec le paragraphe, le plugin [WPML](https://wpml.org/). Contrairement à Weglot, WPML ne se charge pas de la traduction automatique des contenus, mais offre _uniquement_ une plate-forme pour les propres traductions. Les autres plugins [TranslatePress](https://translatepress.com/?ref=174), [Polylang](https://polylang.pro/) et [Loco Translate](https://de.wordpress.org/plugins/loco-translate/) fonctionnent de la même manière. 
 
-![WPML est de loin le plug-in de traduction le plus populaire pour WordPress.](https://seatable.io/wp-content/uploads/2022/03/weglot-bei-google-trends.png)
+![WPML est de loin le plug-in de traduction le plus populaire pour WordPress.](weglot-bei-google-trends.png)
 
 WPML est de loin le plug-in de traduction le plus populaire pour WordPress.
 
@@ -121,7 +121,7 @@ Dans le cadre de notre évaluation de Weglot, nous sommes également tombés sur
 
 Vous devriez maintenant avoir compris l'importance de Weglot pour le succès de notre site web. Grâce à Weglot, nous pouvons créer un site web multilingue avec un minimum d'efforts et ainsi distribuer notre logiciel presque partout dans le monde. Cela justifie également le [prix de Weglot](https://weglot.com/pricing?fp_ref=loved_by_seatable), qui est inhabituellement élevé pour un plug-in WordPress. Mais en même temps, je tiens à souligner que, de notre point de vue, Weglot vaut chaque euro. 
 
-![Les prix du plugin WordPress Weglot](https://seatable.io/wp-content/uploads/2022/03/weglot-preise.png)
+![Les prix du plugin WordPress Weglot](weglot-preise.png)
 
 Les prix du plugin WordPress Weglot.
 
@@ -133,7 +133,7 @@ Prochainement, nous allons publier sur le *Extended Plan wechseln, um weitere Bl
 
 Si vous n'êtes pas sûr de l'abonnement dont vous avez besoin, l'[outil Word-Count de Weglot](https://wordcount.weglot.com/) vous aidera. Grâce à lui, vous savez immédiatement de quel plan vous avez besoin et à quels coûts vous devez vous attendre chaque année. 
 
-![l'outil de comptage de mots Weglot](https://seatable.io/wp-content/uploads/2022/03/weglot-word-counter.png)
+![l'outil de comptage de mots Weglot](weglot-word-counter.png)
 
 Le compteur de mots Weglot vous donne une idée de l'abonnement dont vous avez besoin.
 
@@ -148,7 +148,7 @@ Weglot essaie de rediriger chaque visiteur vers la traduction qui lui convient e
 
 Sur SeaTable.io, nous utilisons le thème Enfold et, en plus des liens dans le corps du texte, nous utilisons également des boîtes de liens - par exemple sur notre site web. [Page d'aide](https://seatable.io/fr/docs/)où la boîte entière sert de lien. Malheureusement, cette boîte de lien n'est pas reconnue comme un lien par Weglot et les utilisateurs sont toujours redirigés vers la langue d'origine. Nous avons pu remédier à ce comportement en ajoutant une _Action in der functions.php beheben._
 
-![Weglot a eu des problèmes avec les boîtes de lien](https://seatable.io/wp-content/uploads/2022/03/weglot-boxen-als-links.png)
+![Weglot a eu des problèmes avec les boîtes de lien](weglot-boxen-als-links.png)
 
 Weglot avait des problèmes avec les boîtes de liens de notre rubrique d'aide.
 

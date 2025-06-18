@@ -17,7 +17,7 @@ Hoy en día, el aprendizaje permanente es una de las cosas más importantes cuan
 
 Los empleados son el recurso más valioso de una empresa. Por lo tanto, le interesa desarrollar sus **recursos humanos** y hacer que su empresa sea aún más valiosa. Por ello, la formación continua y los talleres pueden considerarse una **inversión sostenible** en su empresa. Al fin y al cabo, las nuevas habilidades y conocimientos que adquieran sus empleados no sólo les beneficiarán a ellos, sino también a la empresa.
 
-![Taller de planificación](https://seatable.io/wp-content/uploads/2021/07/Workshops.jpg)
+![Taller de planificación](Workshops.jpg)
 
 Dependiendo de la complejidad del tema y de los conocimientos de su empresa, puede organizar **talleres internos** con sus empleados, traer expertos externos para **formación interna** o aprovechar **cursos de formación externos**, por ejemplo en la Agencia Federal de Empleo, una Cámara de Industria y Comercio o una academia.
 
@@ -61,7 +61,7 @@ Dependiendo de si en su empresa se dispone de los conocimientos necesarios sobre
 
 Con el plugin de diseño de páginas, también es posible crear un **perfil** con los datos contenidos en la tabla y guardarlo en formato PDF.
 
-![Con el plugin de diseño de páginas puede crear perfiles de entrenador con unos pocos clics](https://seatable.io/wp-content/uploads/2021/07/Coach-profile-711x588.jpg)
+![Con el plugin de diseño de páginas puede crear perfiles de entrenador con unos pocos clics](Coach-profile-711x588.jpg)
 
 ## Determinar la duración y el orden del día del taller
 
@@ -97,7 +97,7 @@ Dependiendo del tema del taller, hay distintos métodos y materiales adecuados p
 
 Para **certificar la participación en el taller**, puede expedir un certificado a cada participante. El plugin de [diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) de SeaTable le ahorra mucho trabajo. El plugin utiliza la información ya introducida en la tabla y puede insertarla individualmente para cada participante en el diseño del certificado de asistencia. Con sólo pulsar un botón, podrá crear documentos personalizados y guardarlos en formato PDF.
 
-![Cree certificados sin esfuerzo adicional con el plugin de diseño de páginas](https://seatable.io/wp-content/uploads/2021/07/Zertifikate.jpg)
+![Cree certificados sin esfuerzo adicional con el plugin de diseño de páginas](Zertifikate.jpg)
 
 ## Obtener y evaluar los comentarios sobre el taller
 

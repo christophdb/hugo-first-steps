@@ -17,7 +17,7 @@ Neste artigo, pode descobrir como funciona um bullet journal e o que precisa de 
 
 Um bullet journal ajuda-o a organizar as suas **Organizar a vida quotidiana** e manter um registo de todas as suas tarefas, compromissos e necessidades. O diário funciona como uma combinação de agenda, planificador de projectos e bloco de notas. Também oferece espaço suficiente para acomodar os seus desejos individuais. O bullet journal define o seu **Criatividade** sem limites. Porque, ao contrário dos calendários convencionais, não existem páginas prontas a usar. É o próprio utilizador que as desenha e preenche de acordo com as suas próprias ideias.
 
-![Este é o aspeto de um bullet journal com uma visão geral mensal e diária.](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
+![Este é o aspeto de um bullet journal com uma visão geral mensal e diária.](estee-janssens-mO3s5xdo68Y-unsplash-scaled-e1702550740119-711x579.jpg)
 
 Personalize o seu bullet journal de acordo com os seus desejos.
 
@@ -33,7 +33,7 @@ A **sua ideia:** um diário sem directrizes e sem problemas de espaço. Carroll 
 
 Começar a utilizar o bullet journaling é muito fácil. Tudo o que precisa é de um **Caderno de notas** e um **Caneta**. É uma boa ideia começar com o que tem em casa. Pode experimentar se o journaling lhe agrada. Se gostar e quiser ser mais criativo, pode comprar ferramentas adicionais.
 
-![O](https://seatable.io/wp-content/uploads/2023/12/estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
+![O](estee-janssens-MUf7Ly04sOI-unsplash-scaled-e1702555769119-711x746.jpg)
 
 Tudo o que está à sua volta pode ser utilizado para o design.
 
@@ -45,7 +45,7 @@ Como já foi referido, a concretização das suas próprias ideias é fundamenta
 
 Trata-se essencialmente de **sínteses temporais**no qual pode introduzir as suas tarefas e compromissos. Além disso, existem **Colecções**. São páginas que servem para o seu desenvolvimento livre e individual. Abaixo encontra uma coleção de ideias que pode utilizar ou nas quais se pode inspirar.
 
-![O seu bullet journal deve conter os itens Índice, Chave, Registo do futuro, Registo mensal, Registo diário e Colectivos.](https://seatable.io/wp-content/uploads/2023/12/Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
+![O seu bullet journal deve conter os itens Índice, Chave, Registo do futuro, Registo mensal, Registo diário e Colectivos.](Bullet-Journal-Dot-Grid-Blank-Journal-1-711x920.png)
 
 Conceba o seu diário de acordo com este modelo.
 
@@ -91,7 +91,7 @@ Muitas ideias podem ser concretizadas em **listas**. O importante é fazer uma l
 
 Outra forma de pôr em prática os seus planos é definir **objectivos**. Em conjunto com os rastreadores, pode tornar os seus objectivos mensuráveis e ver o seu progresso em qualquer altura. Os objectivos possíveis incluem, por exemplo, resoluções de Ano Novo, como um objetivo de poupança ou a melhoria das suas notas.
 
-![Um registo de hábitos é uma adição popular ao bullet journal.](https://seatable.io/wp-content/uploads/2023/12/prophsee-journals-WI30grRfBnE-unsplash-01.jpg)
+![Um registo de hábitos é uma adição popular ao bullet journal.](prophsee-journals-WI30grRfBnE-unsplash-01.jpg)
 
 Um registo de hábitos é uma adição popular ao bullet journal.
 
@@ -107,7 +107,7 @@ A principal razão para a maioria das pessoas começar a escrever um diário é 
 
 As suas ideias - o seu bullet journal. Adapta-se às suas **necessidades** e não tem de seguir um padrão definido. Pode utilizá-lo para organizar os seus compromissos e tarefas diárias. As ferramentas integradas, como o calendário ou a lista de tarefas, são adequadas para o efeito. Ao mesmo tempo, também pode ser criativo e dar largas à sua imaginação nas colecções.
 
-![A imagem mostra que é possível combinar conteúdos criativos com conteúdos práticos no bullet journal.](https://seatable.io/wp-content/uploads/2023/12/pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
+![A imagem mostra que é possível combinar conteúdos criativos com conteúdos práticos no bullet journal.](pexels-bich-tran-636237-scaled-e1702974144662-711x555.jpg)
 
 Combine funcionalidade com criatividade.
 

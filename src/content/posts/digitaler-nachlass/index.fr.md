@@ -18,7 +18,7 @@ L'héritage numérique est un sujet que beaucoup de gens négligent ou refoulent
 
 Un héritage numérique se compose de **toutes les activités, données et comptes numériques d'une personne**. Il s'agit notamment des profils de médias sociaux, des comptes de messagerie électronique, des espaces de stockage en nuage, des boutiques en ligne, des comptes bancaires en ligne, des services de streaming et bien plus encore. Un héritage numérique peut contenir des souvenirs personnels, des documents importants et des données précieuses (par exemple sur les portefeuilles numériques).
 
-![Une succession numérique peut contenir de nombreux comptes : Médias sociaux, e-mail, etc.](https://seatable.io/wp-content/uploads/2023/10/sara-kurfess-6lcT2kRPvnI-unsplash_min.jpg)
+![Une succession numérique peut contenir de nombreux comptes : Médias sociaux, e-mail, etc.](sara-kurfess-6lcT2kRPvnI-unsplash_min.jpg)
 
 Un héritage numérique peut contenir de nombreux comptes.
 
@@ -34,7 +34,7 @@ D'un point de vue juridique, la situation en Allemagne n'est pas définitivement
 
 Il n'est pas non plus clair si les héritiers peuvent accéder aux contenus de communication du défunt, tels que les chats et les e-mails, lorsque celui-ci n'a pas consigné ses dernières volontés à ce sujet. D'une part, le droit successoral oblige le fournisseur à remettre les e-mails aux héritiers, comme s'il s'agissait de lettres non ouvertes. Mais d'un autre côté, cette remise peut violer le secret des télécommunications et les dispositions relatives à la protection des données.
 
-![L'héritage numérique n'est pas clairement réglementé par la loi](https://seatable.io/wp-content/uploads/2023/10/conny-schneider-ysv-HwRpcA-unsplash_min.jpg)
+![L'héritage numérique n'est pas clairement réglementé par la loi](conny-schneider-ysv-HwRpcA-unsplash_min.jpg)
 
 Légalement, le patrimoine numérique n'est pas clairement réglementé en Allemagne.
 
@@ -52,7 +52,7 @@ Google, Facebook et Apple proposent dans le compte d'utilisateur certains param�
 
 Dans de nombreux cas, une succession numérique n'est pas réglée à temps. Les héritiers doivent alors s'enfoncer dans le brouillard et se lancer dans une pénible recherche de traces : Quels comptes en ligne le défunt utilisait-il ? Quels sont les noms d'utilisateur et les mots de passe ? Sans ces données, les proches n'ont pour l'instant aucun accès - ils en ont pourtant un besoin urgent, par exemple pour résilier des abonnements en cours.
 
-![Un héritage numérique contient toutes les données de connexion](https://seatable.io/wp-content/uploads/2023/10/pexels-pixabay-267469_min.jpg)
+![Un héritage numérique contient toutes les données de connexion](pexels-pixabay-267469_min.jpg)
 
 Sans données d'accès, les proches sont confrontés à un obstacle de taille.
 
@@ -66,7 +66,7 @@ En théorie, vous pouvez noter tous vos comptes et mots de passe sur **papier** 
 
 Selon le même principe, vous pouvez également enregistrer vos comptes et mots de passe **sous forme électronique dans un document texte** sur votre ordinateur, un disque dur ou une clé USB. Vous pourrez y apporter des modifications plus facilement que sur papier.
 
-![Héritage numérique : enregistrer les données de connexion dans le navigateur](https://seatable.io/wp-content/uploads/2023/10/pexels-lisa-fotios-5860964_min.jpg)
+![Héritage numérique : enregistrer les données de connexion dans le navigateur](pexels-lisa-fotios-5860964_min.jpg)
 
 De nombreux navigateurs offrent également la possibilité d'enregistrer facilement les données de connexion.
 
@@ -95,7 +95,7 @@ Votre patrimoine numérique peut contenir une multitude de données. Selon le no
 
 Désignez une personne de confiance comme votre exécuteur testamentaire numérique. Indiquez dans une procuration que la personne mandatée devra s'occuper de votre héritage numérique et de vos affaires en ligne - après votre décès ou déjà de votre vivant si vous n'êtes pas en mesure de le faire, par exemple en raison d'un coma, d'un handicap psychique ou d'autres raisons.
 
-![Une femme pensive assise sur le canapé avec un ordinateur portable](https://seatable.io/wp-content/uploads/2023/10/mimi-thian-U7lWyAV-aM8-unsplash.jpg)
+![Une femme pensive assise sur le canapé avec un ordinateur portable](mimi-thian-U7lWyAV-aM8-unsplash.jpg)
 
 Facilitez au maximum la tâche de la personne mandatée : vous pouvez régler à l'avance et avec précision les comptes en ligne auxquels la personne doit avoir accès en cas de besoin. Formulez par écrit votre volonté quant à ce que la personne doit faire avec tel ou tel compte.
 
@@ -111,7 +111,7 @@ Réfléchissez à la manière dont vous souhaitez donner à votre personne de co
 
 Si vous avez enregistré la plupart de vos identifiants et mots de passe sur un appareil spécifique (par exemple dans un navigateur ou dans un document texte), votre personne de confiance devrait pouvoir y accéder après votre décès. Notez par exemple le **code PIN** de votre smartphone ou **le mot de passe de votre ordinateur** sur un papier que vous conserverez dans une enveloppe scellée.
 
-![Noter le mot de passe principal sur papier](https://seatable.io/wp-content/uploads/2023/10/pexels-pixabay-261599.jpg)
+![Noter le mot de passe principal sur papier](pexels-pixabay-261599.jpg)
 
 Vous pouvez également écrire vos mots de passe sur papier ou les saisir dans un gestionnaire de mots de passe numérique. N'oubliez cependant pas d'y mettre à jour les mots de passe modifiés ! Notez le **mot de passe principal** et déposez-le dans un endroit sûr que vous communiquerez à votre personne de confiance.
 

@@ -19,7 +19,7 @@ Une liste d'inventaire vous permet d'enregistrer le stock dans votre entreprise.
 
 Chaque commerçant et chaque entreprise qui est tenu de tenir une comptabilité en partie double doit procéder à un inventaire. Celui-ci doit avoir lieu à l'ouverture de l'entreprise et après chaque exercice comptable. Il s'agit de faire le point sur les stocks et de dresser un inventaire.
 
-![Un magasinier utilise un iPad avec une liste d'inventaire.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Un magasinier utilise un iPad avec une liste d'inventaire.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
 
 Utilisez une liste d'inventaire numérique pour répertorier votre stock. Droits d'image : tradol / Adobe Stock
 
@@ -82,7 +82,7 @@ Un programme que de nombreuses entreprises utilisent déjà est Excel. Vous pouv
 
 Si vous disposez déjà d'une liste d'inventaire sous forme de modèle Excel, vous pouvez la réutiliser en quelques clics. Pour ce faire, dupliquez le fichier existant avant de l'ouvrir dans Excel.
 
-![Excel pour une liste d'inventaire.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel pour une liste d'inventaire.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
 
 Les feuilles de calcul Excel sont populaires pour les inventaires. Droits d'image : PixieMe / Adobe Stock
 

@@ -38,7 +38,7 @@ A continuación, es importante estructurar sistemáticamente todo el material re
 
 Ahora que ha identificado todos los temas relevantes para el examen, es el momento de desglosarlos en **pequeños paquetes de aprendizaje**. Esto te permitirá asimilar y procesar el material de aprendizaje de forma más eficaz. Al dividirlo en unidades manejables, evitarás sentirte abrumado por la cantidad de material y perder la concentración.
 
-![Crear un plan de aprendizaje: Las piezas electrónicas están desperdigadas](https://seatable.io/wp-content/uploads/2024/04/unnamed-file-711x533.jpg)
+![Crear un plan de aprendizaje: Las piezas electrónicas están desperdigadas](unnamed-file-711x533.jpg)
 
 Las unidades más pequeñas facilitan el procesamiento y la comprensión.
 

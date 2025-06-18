@@ -19,7 +19,7 @@ Trinken Sie mit Ihren Kollegen jedes Jahr Glühwein auf dem Weihnachtsmarkt oder
 
 Das Büro und das Firmengebäude bekommen Ihre Mitarbeiter schon jede Woche zu Gesicht. Wie wäre es also mit einem Ort, den Ihre Kollegen noch nicht kennen? Eine Weihnachtsfeier außerhalb der Firma bringt immer ein besonderes Flair mit sich und bietet die perfekte Gelegenheit, den Arbeitsalltag hinter sich zu lassen. Abhängig vom Budget, das Ihnen für Ihre Feier zur Verfügung steht, ergeben sich dabei zahlreiche Möglichkeiten, die Sie jedoch weit genug im Voraus planen sollten.
 
-![Ideen für eine Weihnachtsfeier außerhalb der Firmenräume](https://seatable.io/wp-content/uploads/2023/07/Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
+![Ideen für eine Weihnachtsfeier außerhalb der Firmenräume](Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
 
 ### Weihnachtskrimi
 
@@ -33,7 +33,7 @@ Wer selbst auf der Weihnachtsfeier nicht auf knifflige Rätsel verzichten möcht
 
 Lassen Sie die Weihnachtsfeier im Anschluss mit einem gemütlichen Beisammensein bei leckeren Speisen und Getränken ausklingen. Escape Rooms gibt es mittlerweile in jeder größeren Stadt. Umsetzen lässt sich diese Idee aber auch mit mobilen Escape Games, die Sie bei Ihrer Weihnachtsfeier auf den Tischen verteilen können. Dazu lassen Sie die Utensilien für die Rätsel einfach zu Ihrer Event-Location liefern und weisen die Gäste selbst in das spielerische Abenteuer ein.
 
-![Weihnachtlicher Escape Room](https://seatable.io/wp-content/uploads/2023/08/theo-crazzolara-HYBL_FAunt0-unsplash.jpg)
+![Weihnachtlicher Escape Room](theo-crazzolara-HYBL_FAunt0-unsplash.jpg)
 
 Ein stilvolles Krimi-Dinner oder weihnachtliche Escape Rooms können für ein spannendes Firmenevent sorgen.
 
@@ -47,7 +47,7 @@ Nach erfolgreich bewältigter Wanderung können Sie die Feier noch mit einem lec
 
 Käsefondue und Kaiserschmarrn, dazu Obstbrand und andere Klassiker – all das im kuscheligen Hüttenflair. Klingt einzigartig? Ist es auch! Eine Hüttengaudi gehört definitiv zu unseren Favoriten, wenn es um die firmeneigene Weihnachtsfeier geht. Mieten Sie für Ihr Team eine Location in den Alpen oder anderen malerischen Gebirgen und setzen Sie die Hüttengaudi mit passender Dekoration und Musik um.
 
-![Eine kuschelige Hütte umgeben von einer verschneiten Landschaft: Die perfekte Locationfür eine Hüttengaudi als Weihnachtsfeier](https://seatable.io/wp-content/uploads/2023/07/pexels-mikhail-nilov-6530841-min-711x400.jpg)
+![Eine kuschelige Hütte umgeben von einer verschneiten Landschaft: Die perfekte Locationfür eine Hüttengaudi als Weihnachtsfeier](pexels-mikhail-nilov-6530841-min-711x400.jpg)
 
 Eine kuschelige Hütte umgeben von einer verschneiten Landschaft: Die perfekte Location für eine Hüttengaudi als Weihnachtsfeier.
 
@@ -67,7 +67,7 @@ Sie wollen auswärts feiern, aber unsere Top 5 haben Sie noch nicht überzeugt? 
 - **Soirée im Schloss:** Laden Sie Ihre Mitarbeiter zu einem Festmahl in ein nahegelegenes Schloss oder Herrenhaus ein. Nobler kann das Jahr kaum zu Ende gehen!
 - **Ritterliche Tafelrunde:** Eine Weihnachtsfeier mit Speis und Trank wie im Mittelalter können Sie auf Burgen, in Gewölbekellern oder rustikalen Wirtshäusern feiern.
 
-![Außergewöhnliche Location für die Weihnachtsfeier](https://seatable.io/wp-content/uploads/2023/08/nico-benedickt-CpQBg5qyW5M-unsplash-min.jpg)
+![Außergewöhnliche Location für die Weihnachtsfeier](nico-benedickt-CpQBg5qyW5M-unsplash-min.jpg)
 
 Wie wäre es mit einem Märchenschloss oder einer mittelalterlichen Burg für Ihre Weihnachtsfeier?
 
@@ -75,7 +75,7 @@ Wie wäre es mit einem Märchenschloss oder einer mittelalterlichen Burg für Ih
 
 Wenn Sie Ihre Weihnachtsfeier nicht in einer externen Location veranstalten, sondern lieber bequem auf Ihre Firmenräume zurückgreifen möchten, bedeutet dies keineswegs, dass Ihre Feier nicht auch außergewöhnlich sein kann. Dafür gibt es ebenfalls genügend Ideen, die Ihre Weihnachtsfeier vor Ort zu einem besonderen Firmenevent machen.
 
-![Ideen für die Weihnachtsfeier in den Firmenräumen](https://seatable.io/wp-content/uploads/2023/07/Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
+![Ideen für die Weihnachtsfeier in den Firmenräumen](Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
 
 ### Mottoparty
 
@@ -85,7 +85,7 @@ Ein beliebtes und mit vergleichsweise wenig Aufwand verbundenes Event ist eine M
 
 Ihre Location in ein Casino zu verwandeln ist eine ebenso außergewöhnliche wie amüsante Idee für Ihre Weihnachtsfeier. Holen Sie sich das glanzvolle Feeling aus Las Vegas direkt in Ihre Firma! Professionelle Croupiers erwarten Ihre Gäste bei Spielen wie Black Jack, Poker oder Roulette. Klingt ganz und gar nicht weihnachtlich? Oh doch! Mit einem weihnachtlichen Menü und der richtigen Dekoration erreichen Sie problemlos eine weihnachtliche Atmosphäre.
 
-![Weihnachtsfeier wie im Casino](https://seatable.io/wp-content/uploads/2023/08/dusan-kipic-qtD-aRQtMuc-unsplash-min.jpg)
+![Weihnachtsfeier wie im Casino](dusan-kipic-qtD-aRQtMuc-unsplash-min.jpg)
 
 Natürlich steht bei einer Weihnachtsfeier nicht das Zocken um echtes Geld im Vordergrund, sondern die Stimmung und der Spaß Ihrer Mitarbeiter. Dennoch können Sie Preise für die Mitarbeiter ausloben, die über den Abend hinweg die meisten Jetons sammeln. Externe Anbieter unterstützen Sie bei der Organisation des Abends, vermitteln Croupiers und liefern das Casino-Zubehör an Ihre Location.
 
@@ -93,7 +93,7 @@ Natürlich steht bei einer Weihnachtsfeier nicht das Zocken um echtes Geld im Vo
 
 Eine schnell und ohne viel Vorbereitung umzusetzende Idee für Ihre Firmenweihnachtsfeier ist ein gemeinsames Weihnachtsbacken. Voraussetzungen dafür sind, dass Sie eine gut ausgestattete Firmenküche mit Backofen besitzen und dass Ihr Team oder Ihre Abteilung aus einer überschaubaren Anzahl an Kollegen besteht. Lassen Sie Kindheitserinnerungen wieder aufleben und verbringen Sie gemeinsam gemütliche Stunden mit der Zubereitung von verschiedensten Weihnachtsplätzchen. Die dabei entstehenden Backkreationen wie Vanillekipferl, Zimtsterne und Co. können Sie anschließend gemeinsam verpacken und natürlich auch verspeisen.
 
-![Ein gemeinsames Weihnachtsbacken mit Ihren Kollegen: Eine simple Idee für eine gelungene Firmenweihnachtsfeier ](https://seatable.io/wp-content/uploads/2023/07/pexels-nicole-michalou-6061743-min-711x474.jpg)
+![Ein gemeinsames Weihnachtsbacken mit Ihren Kollegen: Eine simple Idee für eine gelungene Firmenweihnachtsfeier ](pexels-nicole-michalou-6061743-min-711x474.jpg)
 
 Ein gemeinsames Weihnachtsbacken mit Ihren Kollegen: Eine simple Idee für eine gelungene Firmenweihnachtsfeier.
 
@@ -127,7 +127,7 @@ Sobald Sie wissen, wann, wo und wie Sie mit Ihren Mitarbeitern feiern, sollten S
 
 Der vermutlich wichtigste Punkt Ihrer Weihnachtsfeier ist die Verpflegung Ihrer Gäste. Ausgewählte Drinks und ein köstliches Menü sind oftmals schon die halbe Miete und sorgen für gute Laune und Zufriedenheit bei Ihren Gästen. Auch für ein relativ geringes Budget stehen Ihnen hier einige Möglichkeiten zur Verfügung. Besuchen Sie gemeinsam ein Restaurant, beauftragen Sie einen Caterer für ein Buffet oder buchen Sie einen Foodtruck, der Ihre Kollegen vor Ort mit leckeren Speisen versorgt. Je nach Größe Ihres Teams und Ausstattung Ihrer Location kann es sich auch anbieten, dass Sie selbst ein gemeinsames Weihnachtsessen zubereiten.
 
-![Egal ob Restaurantbesuch, Catering-Service oder gemeinsames Kochen: Die Verpflegung Ihrer Gäste legt den Grundstein für eine gelungene Weihnachtsfeier](https://seatable.io/wp-content/uploads/2023/07/pexels-naim-benjelloun-2291367-min-711x474.jpg)
+![Egal ob Restaurantbesuch, Catering-Service oder gemeinsames Kochen: Die Verpflegung Ihrer Gäste legt den Grundstein für eine gelungene Weihnachtsfeier](pexels-naim-benjelloun-2291367-min-711x474.jpg)
 
 Egal ob Restaurantbesuch, Catering-Service oder gemeinsames Kochen: Die Verpflegung Ihrer Gäste legt den Grundstein für eine gelungene Weihnachtsfeier.
 
@@ -146,7 +146,7 @@ Sofern Sie sich für eine der oben genannten Ideen entschieden haben, steht ein 
 2. Oder möchten Sie lieber viel zusammen lachen? Laden Sie dafür zum Beispiel einen Stand-up-Comedian ein, der einen witzigen Vortrag hält und mit Ihren Gästen interagiert.
 3. Auch gemeinsames Raten lockert die Stimmung auf und sorgt gewiss für den ein oder anderen Lacher. Ein Weihnachts-Quiz mit einem professionellen Moderator wäre dafür genau richtig.
 
-![Musik für Ihr Firmenevent](https://seatable.io/wp-content/uploads/2023/08/marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg)
+![Musik für Ihr Firmenevent](marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg)
 
 Sie verfügen nur über ein begrenztes Budget, möchten aber trotzdem einen lustigen Abend mit Ihren Mitarbeitern verbringen? Kein Problem! Auch dann können Sie Ihren Kollegen ein Firmenevent bescheren, das sie noch lange in Erinnerung behalten werden. Bestimmte Programmpunkte können Sie nämlich komplett selbst übernehmen: Erstellen Sie beispielsweise eine Playlist mit passender Musik für Ihre Weihnachtsfeier oder bereiten Sie selbst verschiedene Quiz-Spiele vor.
 

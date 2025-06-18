@@ -30,7 +30,7 @@ Con SeaTable tendrá toda la información importante, los productos y los pedido
 
 Nuestra plantilla consta de tres tablas que están interrelacionadas y se pasan información unas a otras. La primera tabla es la base del formulario web que sus empleados pueden utilizar para todos los pedidos. El segundo cuadro consiste en un catálogo detallado de productos que contiene todos los bienes necesarios en la empresa para fines internos, desde lápices hasta ratones de ordenador. La tercera tabla contiene todos los proveedores de la mercancía con los datos de contacto importantes. **Con estos tres tornillos de** fijación, la organización de su oficina se convertirá muy pronto en un juego de niños.
 
-![Resumen de todos los pedidos en compras indirectas](https://seatable.io/wp-content/uploads/2021/11/bestellungen-indirekter-einkauf-1088x515.png)
+![Resumen de todos los pedidos en compras indirectas](bestellungen-indirekter-einkauf-1088x515.png)
 
 El hecho de que todas las tablas estén vinculadas entre sí es posible con las columnas vinculadas. Esta práctica característica simplifica la organización de los datos dentro de una base: Los datos que se necesitan en todas las tablas, como el precio de un producto, pueden crearse en una tabla y reproducirse en todas las demás. Si el precio cambia en la tabla original, también cambia en todas las demás tablas a través del enlace. De este modo, la información no tiene que introducirse varias veces, sino que se regula sola.
 
@@ -40,7 +40,7 @@ En esta tabla se reúne mucha información: Las columnas "Producto", "€" para 
 
 Con sus columnas, la tabla también constituye la base del [formulario web](https://seatable.io/es/docs/handbuch/seatable-nutzen/webformulare/) integrado para la organización de su oficina. Para realizar un pedido de material interno, los empleados seleccionan un producto de la lista - se trata de la columna vinculada "Productos" del catálogo de productos (Tabla 2). Después, sólo tienen que introducir la cantidad y en qué departamento trabajan, para que los pedidos queden claros.
 
-![Formulario de pedido de material indirecto](https://seatable.io/wp-content/uploads/2021/11/bestellformular-indirektes-material.png)
+![Formulario de pedido de material indirecto](bestellformular-indirektes-material.png)
 
 Cada formulario enviado termina inmediatamente en Base y se crea como una nueva fila. Los empleados tienen que introducir relativamente poca información, aunque hay mucha información almacenada en la propia tabla. Aquí es donde entran en juego las columnas enlazadas.
 
@@ -68,7 +68,7 @@ Esta regla notifica automáticamente a todos los participantes por correo electr
 
 Con SeaTable también tiene la posibilidad de enviar correos electrónicos automatizados con un solo clic. Esto no sólo es muy útil en las compras internas. Para ello, primero tienes que añadir tu cuenta de correo electrónico a tu Base. Esto se puede hacer a través de los tres puntos en la parte superior derecha -> Configuración -> Proveedores de terceros. Aquí puede añadir su cuenta de correo electrónico de acuerdo con las especificaciones de su proveedor de correo electrónico. Una vez realizado este paso, puede utilizar la columna de botones para crear un botón de envío de correos electrónicos.
 
-![Enviar pedidos automáticamente con SeaTable](https://seatable.io/wp-content/uploads/2021/11/Bestellungen-automatisch-verschicken.gif)
+![Enviar pedidos automáticamente con SeaTable](Bestellungen-automatisch-verschicken.gif)
 
 Así es como funciona:
 
@@ -82,7 +82,7 @@ Así es como funciona:
 
 SeaTable no sería una solución óptima para la organización de oficinas si no tuviera también una función clara y práctica para la gestión de tareas. Por un lado, creamos [vistas](https://seatable.io/es/docs/handbuch/seatable-nutzen/ansichten/) diferentes para cada agente, de modo que sólo sean visibles los pedidos que le conciernen. Por ejemplo, un agente de material de oficina no necesita ver los pedidos de comida. Para ello, haga clic en la pequeña flecha de la esquina superior izquierda, en nuestro ejemplo titulada "Ver todo".
 
-![Vista de Kanban de todos los pedidos en compras indirectas](https://seatable.io/wp-content/uploads/2021/11/kanban-view-indirekte-beschaffung.png)
+![Vista de Kanban de todos los pedidos en compras indirectas](kanban-view-indirekte-beschaffung.png)
 
 Con un filtro, se establecen las personas correspondientes a las que va dirigida la vista. Así, sólo se muestran las órdenes que también pertenecen a uno mismo, lo que ayuda a mantener una visión general y a tener a la vista las propias áreas de responsabilidad. Sin embargo, las vistas son también la base del complemento Kanban.
 
@@ -96,7 +96,7 @@ Ya hemos explicado anteriormente lo valiosas que son las columnas vinculadas de 
 
 El segundo cuadro contiene el catálogo completo de productos de la organización de la oficina. Sólo los productos que se almacenan aquí pueden ser pedidos por el personal. Por lo tanto, es importante que todos los productos estén en la lista: en cuanto se añaden nuevos productos, se introducen aquí y están disponibles inmediatamente para su pedido.
 
-![El catálogo de productos para el material indirecto en SeaTable](https://seatable.io/wp-content/uploads/2021/11/produktkatalog-indirekter-einkauf.png)
+![El catálogo de productos para el material indirecto en SeaTable](produktkatalog-indirekter-einkauf.png)
 
 Esta tabla también utiliza información de otras tablas. Los números de pedido, por ejemplo, proceden de la tabla "Pedidos", y los proveedores y sus direcciones de correo electrónico, de la tercera tabla "Proveedores". Una vez más, las columnas vinculadas se utilizan para reducir al máximo el esfuerzo organizativo. La columna "€" de esta tabla muestra los precios de los productos según la lista y es decisiva para calcular los precios de los pedidos.
 

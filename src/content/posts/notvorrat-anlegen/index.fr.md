@@ -23,7 +23,7 @@ Nous savons, au moins depuis la pandémie de Corona, ce que cela peut signifier 
 
 Déjà pour les repas quotidiens, il est généralement difficile de contenter tout le monde. Il en va de même pour le choix de la nourriture en cas d'urgence. Surtout si vous constituez des réserves d'urgence pour plusieurs personnes, vous devez tenir compte des habitudes alimentaires de chacune d'entre elles. De même, vous devez prévoir **les allergies** et **les intolérances** ainsi que la nourriture spéciale pour les jeunes enfants ou les animaux domestiques. N'essayez pas d'acheter des aliments inconnus qui ne plairont peut-être à personne en cas d'urgence. Faites confiance aux aliments que vous aimez et que vous pouvez transformer en plats variés.
 
-![Faire les courses en famille pour que tout le monde soit satisfait de la composition des provisions d'urgence.](https://seatable.io/wp-content/uploads/2023/09/pexels-gustavo-fring-3985062-min-1-min-711x474.jpg)
+![Faire les courses en famille pour que tout le monde soit satisfait de la composition des provisions d'urgence.](pexels-gustavo-fring-3985062-min-1-min-711x474.jpg)
 
 Faire les courses ensemble permet de n'emporter que des aliments qui seront consommés.
 
@@ -31,7 +31,7 @@ Faire les courses ensemble permet de n'emporter que des aliments qui seront cons
 
 Veillez à ce que l'alimentation ne soit pas trop déséquilibrée et assurez-vous que l'**apport en nutriments** est suffisant. Celui-ci se compose de glucides, de lipides, de protéines, de vitamines et de minéraux qui fournissent de l'énergie au corps. En outre, les besoins en calories doivent être couverts. Comme ceux-ci varient d'une personne à l'autre, que ce soit en raison de l'âge ou de l'activité sportive, il convient de les déterminer au préalable. Pour cela, il existe des [calculateurs de calories en ligne](https://www.esn.com/pages/kalorienrechner).
 
-![Les principaux aliments de votre réserve d'urgence en un coup d'œil.](https://seatable.io/wp-content/uploads/2023/09/Notvorratsliste-1-e1695036643833-711x1101.png)
+![Les principaux aliments de votre réserve d'urgence en un coup d'œil.](Notvorratsliste-1-e1695036643833-711x1101.png)
 
 Les principaux aliments en un coup d'œil
 
@@ -47,7 +47,7 @@ D'ailleurs, vous n'avez pas seulement besoin d'eau potable, mais aussi **d'eau u
 
 Pour ne pas avoir à reconstituer vos réserves à chaque fois à partir de zéro, il est conseillé d'acheter en priorité des **aliments qui se conservent longtemps**. Il est toutefois possible de conserver plus longtemps vos plats préférés préparés par vos soins grâce à quelques astuces simples. Vous pouvez soit les **congeler** (en cas de black-out, vous devrez alors les consommer en premier), soit faire cuire vos aliments. Mais attention : il y a beaucoup de choses à respecter lors de la **mise en conserve**. Un [guide](https://www.oma-kocht.de/wie-einkochen-anleitung-einsteiger-einwecken/) vous permettra de réussir dès le premier essai. En conservant les aliments dans un emballage hermétique, dans un endroit frais, sec et sombre, vous augmentez leur durée de conservation.
 
-![Outre les boîtes de conserve et les aliments en conserve, les aliments marinés doivent également faire partie de vos réserves d'urgence.](https://seatable.io/wp-content/uploads/2023/09/cans-881098_640.jpg)
+![Outre les boîtes de conserve et les aliments en conserve, les aliments marinés doivent également faire partie de vos réserves d'urgence.](cans-881098_640.jpg)
 
 Une autre façon de conserver les aliments est de les faire mariner.
 
@@ -61,7 +61,7 @@ Pour éviter que les aliments stockés ne dépassent leur date de péremption et
 
 Constituez votre stock petit à petit. Il n'est pas nécessaire de tout acheter en une seule fois. Lorsque vous faites vos courses, prenez l'habitude d'emporter un paquet d'aliments de longue conservation de plus que vous ne le feriez normalement. En cas **d'actions de réduction**, vous pouvez bien sûr aussi frapper et acheter de plus grandes quantités. Vous économiserez ainsi de l'argent tout en étant parfaitement préparé à toute éventualité. Veillez toutefois à n'acheter que ce qui est consommé dans votre famille.
 
-![Outre les produits alimentaires, les articles d'hygiène peuvent également être achetés en grandes quantités dans le cadre d'actions de réduction.](https://seatable.io/wp-content/uploads/2023/09/eduardo-soares-RTPrTSooj0c-unsplash-min-scaled-e1695208799536-711x634.jpg)
+![Outre les produits alimentaires, les articles d'hygiène peuvent également être achetés en grandes quantités dans le cadre d'actions de réduction.](eduardo-soares-RTPrTSooj0c-unsplash-min-scaled-e1695208799536-711x634.jpg)
 
 Profitez des réductions sur les produits alimentaires, les produits d'hygiène et autres produits utiles.
 

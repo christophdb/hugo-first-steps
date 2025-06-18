@@ -19,7 +19,7 @@ Pode utilizar uma lista de inventário para registar as existências da sua empr
 
 Todos os comerciantes e todas as empresas que são obrigados a manter uma contabilidade por partidas dobradas devem efetuar um inventário. Este inventário deve ser efectuado aquando da abertura da empresa e após cada exercício financeiro. Trata-se de registar as existências e de elaborar um inventário.
 
-![Trabalhador de armazém utiliza o iPad com uma lista de inventário.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Trabalhador de armazém utiliza o iPad com uma lista de inventário.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
 
 Utilize uma lista de inventário digital para registar o seu stock. Direitos de imagem: tradol / Adobe Stock
 
@@ -82,7 +82,7 @@ Um programa que muitas empresas já utilizam é o Excel. Aqui pode criar uma **l
 
 Se já tiver uma lista de inventário como modelo do Excel, pode utilizá-la várias vezes com apenas alguns cliques. Para tal, duplique o ficheiro existente antes de o abrir no Excel.
 
-![Excel para uma lista de inventário.](https://seatable.io/wp-content/uploads/2022/03/Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel para uma lista de inventário.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
 
 As folhas de cálculo do Excel são muito populares para listas de inventário. Direitos de autor: PixieMe / Adobe Stock
 

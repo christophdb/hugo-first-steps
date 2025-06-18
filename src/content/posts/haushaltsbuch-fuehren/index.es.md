@@ -17,7 +17,7 @@ A veces no es fácil controlar los gastos. Ocurre con demasiada frecuencia que e
 
 Seamos sinceros: ¿con qué frecuencia compruebas tus extractos bancarios y sumas en qué te has gastado el dinero? Mientras la cuenta no esté en números rojos, solemos rehuir el esfuerzo y quizá no queramos saberlo con exactitud. Porque si viéramos cuánto cuestan a la larga los viajes de compras, las salidas con amigos o fumar, podríamos cuestionarnos nuestro estilo de vida.
 
-![Llevar un libro de presupuesto](https://seatable.io/wp-content/uploads/2021/12/Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
+![Llevar un libro de presupuesto](Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
 
 Además de los costes fijos inevitables, las pequeñas trampas de costes también pueden sumar sumas considerables. Debería tomar medidas como muy tarde cuando se dé cuenta de que apenas le queda nada después de deducir todos los gastos. Con un libro de presupuesto, puedes llevar un registro completo de en qué gastas tu dinero. Hazte una idea general de tus gastos corrientes para estar seguro de que tu dinero no desaparece sin dejar rastro.
 
@@ -70,7 +70,7 @@ Revise sus contratos actuales, busque alternativas más baratas si es necesario 
 
 ¿Tiene suscripciones de streaming de Amazon Prime, Netflix y Sky? Pero seamos sinceros: ¿con qué frecuencia consigues realmente ver una película o una serie entera en tu día a día? Comprueba si realmente utilizas determinados **servicios** de streaming o puedes prescindir de ellos. Lo mismo se aplica a los servicios de streaming de música, como Spotify y Deezer, o incluso a los **periódicos** y **revistas** a los que esté suscrito. Aunque solo sean unos euros al mes, las cantidades de tu presupuesto se irán acumulando con el tiempo.
 
-![Suscripciones de streaming ](https://seatable.io/wp-content/uploads/2023/12/nicolas-j-leclercq-fg00hP0VPI8-unsplash.jpg)
+![Suscripciones de streaming ](nicolas-j-leclercq-fg00hP0VPI8-unsplash.jpg)
 
 Las suscripciones innecesarias de streaming pueden resultar caras.
 
@@ -96,7 +96,7 @@ Lo mismo ocurre si en su casa hay un **garaje**, un **aparcamiento** o **un sót
 
 Especialmente en las grandes ciudades, **tener un coche** apenas merece la pena para mucha gente. Después de comprar un coche, hay que hacer frente constantemente a los gastos de combustible, mantenimiento, seguro y aparcamiento. Por eso son cada vez más populares los **sistemas de coche compartido**. Si tiene previsto recorrer una distancia larga, puede utilizar varias **agencias de coches compartidos en línea** para recoger pasajeros o pedir que le lleven con chófer.
 
-![Plaza de aparcamiento](https://seatable.io/wp-content/uploads/2023/12/david-schultz-ZLk6gA8EyG0-unsplash.jpg)
+![Plaza de aparcamiento](david-schultz-ZLk6gA8EyG0-unsplash.jpg)
 
 Prescinde de tu propio coche y alquila la plaza de aparcamiento: así ahorras costes y generas ingresos al mismo tiempo.
 
@@ -120,7 +120,7 @@ Antes de hacer **compras importantes**, tómate unos días para calcular tu pres
 
 La mayoría de las cadenas de supermercados hacen producir sus **propias** marcas, que son bastante más baratas que los productos de marca que se anuncian caros. Sin embargo, las marcas blancas suelen producirse exactamente en las mismas fábricas y con los mismos ingredientes que los productos de marca más caros. Si opta cada vez más por las marcas blancas, puede ahorrar hasta un 30% en sus compras sin sacrificar la calidad.
 
-![Registrar los gastos de alimentación en el libro de presupuesto](https://seatable.io/wp-content/uploads/2023/12/cristiano-pinto-2lWGQ02DGL8-unsplash.jpg)
+![Registrar los gastos de alimentación en el libro de presupuesto](cristiano-pinto-2lWGQ02DGL8-unsplash.jpg)
 
 Los platos precocinados para cada almuerzo pueden resultar caros. Aquí puedes ahorrar no solo con marcas propias, sino también con comidas caseras.
 

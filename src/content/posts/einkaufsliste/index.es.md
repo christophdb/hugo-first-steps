@@ -160,7 +160,7 @@ Las funciones pueden variar según la marca. Sin embargo, suelen consistir en un
 - No hay ofertas
 - Sin funciones inteligentes
 
-![Aplicación de notas para compras](https://seatable.io/wp-content/uploads/2024/01/Notizen-e1707138910748.jpg)
+![Aplicación de notas para compras](Notizen-e1707138910748.jpg)
 
 La aplicación de notas como lista de la compra
 

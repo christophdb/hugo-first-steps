@@ -66,12 +66,12 @@ Na página inicial, anteriormente só era possível criar [pastas](https://seata
 
 Muitas vezes, não é óbvio para os outros utilizadores o que pensou ao estruturar uma base ou tabela. Também pode querer registar **notas** sobre uma coluna, tabela ou base. Até agora, era possível fazê-lo na [descrição de uma coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/hinzufuegen-einer-spaltenbeschreibung/) ou na [descrição](https://seatable.io/pt/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) de uma base. Faltava ainda a possibilidade de explicar os conteúdos, estruturas e processos de uma tabela através de um texto conciso. No futuro, será possível fornecer a cada tabela uma [descrição da tabela](https://seatable.io/pt/docs/arbeiten-in-tabellen/eine-tabellenbeschreibung-hinzufuegen/).
 
-![Nova função para descrição de tabelas](https://seatable.io/wp-content/uploads/2023/08/Table-description.png)
+![Nova função para descrição de tabelas](Table-description.png)
 
 Outra melhoria, puramente visual, diz respeito aos **detalhes da linha**, onde pode ver as entradas e editá-las de acordo com a autorização: Harmonizámos o design dos detalhes de linha nas Aplicações e Bases Universais para criar um aspeto uniforme. Para que possa reconhecer diretamente os campos bloqueados, estes são agora destacados a cinzento nos detalhes da linha.
 
 Para todos aqueles que gostam de iniciar processos com um clique do rato, há razões para se regozijarem: a nova [ação do botão](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) "Enviar notificação" está disponível a partir do SeaTable 4.1. Esta ação complementa a ação anteriormente disponível "Enviar e-mail". Uma vez que o SeaTable oferece agora **nove** acções de botão, também tornámos a janela de seleção mais clara:
 
-![Nova ação do botão "Enviar notificação](https://seatable.io/wp-content/uploads/2023/08/New-button-action-send-notification.png)
+![Nova ação do botão "Enviar notificação](New-button-action-send-notification.png)
 
 Por último, mas não menos importante, corrigimos novamente alguns **erros** no SeaTable 4.1 - entre outros, os valores com o seguinte sinal de % em colunas de texto e de seleção única não eram interpretados como percentagens, mas como números. Isto poderia levar a resultados indesejados em algumas [fórmulas](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/). Verifique se esta correção de erro afecta as suas fórmulas.

@@ -18,7 +18,7 @@ Desde la introducción del archivo como función beta en [la versión 2.3,]({{< 
 
 La función de archivo admite ahora las 24 columnas, incluidos los tres tipos de columnas: fórmula, enlace y fórmula para el enlace. La falta de acceso de escritura a los datos del archivo sigue siendo una limitación en SeaTable 2.5, pero estas tres columnas son casos especiales: Los valores de las dos columnas de la fórmula se calculan dinámicamente, en función de la especificación de la fórmula. Si se modifica una fórmula, se recalculan los valores de las filas archivadas. Si el usuario cambia la columna de búsqueda en una fórmula de enlaces, los datos archivados reflejan este cambio. Lo mismo ocurre con la columna de enlaces. Un cambio en la columna de visualización se produce por igual en todo el conjunto de datos, archivo incluido. De este modo, los datos archivados siguen siendo comparables con los no archivados.
 
-![La vista de archivo revisada de SeaTable](https://seatable.io/wp-content/uploads/2021/11/archive-view.jpg)
+![La vista de archivo revisada de SeaTable](archive-view.jpg)
 
 SeaTable 2.5 también añade una función de impresión para las vistas de archivo y ahora también permite ocultar columnas individuales en dicha vista. En la [versión 2.4 de SeaTable]({{< relref "posts/seatable-releases/seatable-release-2-4" >}}) ya se había implementado una función de búsqueda y una función de exportación a Excel.
 
@@ -37,7 +37,7 @@ La operación Calcular Valores Acumulados calcula los totales a través de las f
 
 Con toda la atención puesta en [las integraciones]({{< relref "pages/integrations" >}}) externas, no hemos perdido de vista las automatizaciones propias de SeaTable. La innovación central es la acción Ejecutar script Python. Puede activarse mediante los disparadores "Nueva fila", "Las entradas cumplen una determinada condición tras el cambio" y "Ejecutar periódicamente". La ejecución automatizada de scripts de Python para una sola fila o para todo un conjunto de datos utilizando un conjunto de reglas claras es casi una superpotencia.
 
-![Ahora los scripts de Python pueden iniciarse mediante la automatización.](https://seatable.io/wp-content/uploads/2021/11/python-script-durch-automation-511x448.jpg)
+![Ahora los scripts de Python pueden iniciarse mediante la automatización.](python-script-durch-automation-511x448.jpg)
 
 La acción existente "Bloquear fila" recibe el nuevo evento desencadenante "Ejecutar periódicamente para filas que cumplan una determinada condición". En combinación con los otros dos desencadenantes "Nueva fila" y "Las entradas cumplen determinadas condiciones tras la modificación", el usuario dispone ahora de un control óptimo sobre el bloqueo automático de filas.
 
@@ -47,7 +47,7 @@ Por último, los dos eventos programados "Ejecutar periódicamente" y "Ejecutar 
 
 A todos nos gusta poder elegir. La nueva columna de puntuación satisface exactamente este anhelo de "más". En SeaTable, la columna de valoración ofrece ahora cuatro estilos. Además de la estrella como icono estándar, ahora también puede elegir el corazón, el pulgar hacia arriba o la bandera como icono. Además, el icono ya no tiene que ser naranja.
 
-![La nueva columna de valoración en SeaTable 2.5](https://seatable.io/wp-content/uploads/2021/11/Bewertungsspalte.jpg)
+![La nueva columna de valoración en SeaTable 2.5](Bewertungsspalte.jpg)
 
 La columna de valoración revisada no es sólo una cuestión de estética, sino también de comodidad. Al igual que con otras columnas numéricas, SeaTable calcula ahora los valores agregados de las columnas de calificación en la parte inferior de la tabla: mínimo, máximo, media y total. En las vistas agrupadas, SeaTable también calcula valores agregados para los grupos individuales.
 

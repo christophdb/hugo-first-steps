@@ -20,7 +20,7 @@ Esta manhã, actualizámos o SeaTable Cloud para a versão 4.0. Todos os auto-ho
 
 Nada é mais vinculativo do que uma assinatura - seja em contratos, em escrituras ou em cartas. No SeaTable é possível criar todos estes documentos. Então, o que poderia ser mais óbvio do que digitalizar assinaturas manuscritas com o SeaTable? A nova coluna de assinatura torna-o possível! Guarde a sua assinatura digital simplesmente assinando numa célula desta coluna de imagem especial com um gesto de varrimento utilizando o rato ou, em dispositivos com um ecrã tátil, com uma caneta ou um dedo.
 
-![Adicionar uma assinatura numa coluna de assinatura](https://seatable.io/wp-content/uploads/2023/06/Add-a-signature-in-a-signature-column.gif)
+![Adicionar uma assinatura numa coluna de assinatura](Add-a-signature-in-a-signature-column.gif)
 
 Isto permite fluxos de trabalho para processos de empregados e clientes que anteriormente não podiam ser mapeados no SeaTable: Com um campo de assinatura inserido, é possível, por exemplo, ter pedidos de férias ou registos para seminários em [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/) e [aplicações universais](https://seatable.io/pt/docs/apps/universelle-app/) assinados pela pessoa que os preenche. Do mesmo modo, os clientes podem confirmar a um instalador que os serviços foram efectuados no local. Através do [plug-in de design de página](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), as assinaturas podem ser facilmente inseridas em documentos, que podem depois ser enviados como anexos de correio eletrónico. A integração perfeita do novo tipo de coluna cria muitas oportunidades para tornar os processos mais vinculativos.
 
@@ -30,11 +30,11 @@ A gestão de ficheiros do SeaTable 4.0 revoluciona o trabalho com os ficheiros n
 
 O gestor de ficheiros, que pode ser acedido através do ícone de três pontos no canto superior direito do Base e adicionado à barra de ferramentas, apresenta-se da forma mais familiar que se possa imaginar: Ficheiros e pastas à direita, navegação à esquerda - os utilizadores sentir-se-ão imediatamente em casa.
 
-![Arrastar e largar ficheiros da gestão de ficheiros para uma coluna de ficheiros](https://seatable.io/wp-content/uploads/2023/06/dateien-aus-dem-dateimanagement-per-drag-and-drop-in-eine-dateispalte-ziehen.gif)
+![Arrastar e largar ficheiros da gestão de ficheiros para uma coluna de ficheiros](dateien-aus-dem-dateimanagement-per-drag-and-drop-in-eine-dateispalte-ziehen.gif)
 
 Os ficheiros existentes podem ser renomeados, copiados, movidos, descarregados e eliminados no gestor de ficheiros. Também é possível criar e editar novos documentos do Office diretamente através do editor integrado. Agora pode carregar facilmente ficheiros e pastas a partir do seu dispositivo ou adicioná-los ao gestor de ficheiros utilizando a função arrastar e largar. Os ficheiros também podem ser arrastados e largados do gestor de ficheiros para as células de colunas de tabelas correspondentes e, assim, atribuídos a registos de dados. Para proporcionar o máximo de espaço possível, o gestor de ficheiros pode ser redimensionado e fixado como uma barra lateral.
 
-![Estrutura de pastas na gestão de ficheiros](https://seatable.io/wp-content/uploads/2023/06/Ordnerstruktur-im-Dateimanagement-2.png)
+![Estrutura de pastas na gestão de ficheiros](Ordnerstruktur-im-Dateimanagement-2.png)
 
 As pastas do sistema estão relacionadas com a estrutura do Base e contêm imagens, ficheiros e assinaturas das respectivas colunas, bem como os ficheiros de configuração de aplicações e formulários Web. Nas pastas personalizadas, pode armazenar e organizar ficheiros de forma independente em pastas individuais. Os ficheiros ficam então disponíveis em scripts Python e outras funções, como formulários Web ou o plug-in de design de páginas; no entanto, algumas destas integrações só serão concluídas em versões futuras.
 
@@ -46,7 +46,7 @@ Enquanto solução empresarial de sincronização e partilha de ficheiros, [o Se
 
 A integração do Seafile no SeaTable dificilmente poderia ser mais fácil: Gerar um token API para uma biblioteca Seafile através da interface web do Seafile, criar uma nova conta de terceiros no SeaTable e adicionar o token (ver figura). Após uma ligação bem sucedida, a biblioteca Seafile aparece na gestão de ficheiros.
 
-![Integração facilitada do Seafile para grandes volumes de dados](https://seatable.io/wp-content/uploads/2023/06/verbesserte-integration-mit-seafile-release-notes.png)
+![Integração facilitada do Seafile para grandes volumes de dados](verbesserte-integration-mit-seafile-release-notes.png)
 
 Os servidores Seafile alojados e auto-hospedados podem ser ligados. [Por favor, contacte a nossa equipa de vendas]({{< relref "pages/contact" >}}) se pretender alojar um servidor Seafile. Para os clientes SeaTable Dedicated, oferecemos o co-hospedagem Seafile.
 
@@ -54,7 +54,7 @@ Os servidores Seafile alojados e auto-hospedados podem ser ligados. [Por favor, 
 
 O SeaTable oferece-lhe uma vasta gama de opções para a [análise de dados estatísticos](https://seatable.io/pt/docs/seatable-nutzen/statistiken/) e a sua apresentação gráfica. Até agora, tinha à sua disposição um módulo de estatísticas com funções básicas e o plugin de estatísticas avançadas. No SeaTable 4.0, este último passa a ocupar o lugar do módulo básico, pelo que já não é necessário configurar um plug-in. Todo o poder estatístico do SeaTable está agora reunido numa ferramenta poderosa, à qual pode aceder com um clique através do botão "Estatísticas" no cabeçalho da Base.
 
-![O plug-in de estatísticas e o módulo de estatísticas fundem-se numa única ferramenta](https://seatable.io/wp-content/uploads/2023/06/erweitertes-statistik-plugin-release-notes.gif)
+![O plug-in de estatísticas e o módulo de estatísticas fundem-se numa única ferramenta](erweitertes-statistik-plugin-release-notes.gif)
 
 Todos os gráficos e diagramas que já criou - quer no módulo Estatísticas, quer no plugin Estatísticas avançadas - serão obviamente mantidos e automaticamente transferidos para o novo painel de controlo.
 
@@ -62,7 +62,7 @@ Todos os gráficos e diagramas que já criou - quer no módulo Estatísticas, qu
 
 O [Universal App Builder](https://seatable.io/pt/docs/apps/universelle-app/) (Beta) goza de grande popularidade, a nossa equipa de desenvolvimento está a trabalhar a todo o vapor nos retoques finais e os resultados são impressionantes! Todos os [tipos de página](https://seatable.io/pt/docs/apps/seitentypen-in-der-universellen-app/) têm agora um layout uniforme e oferecem a função de pesquisa de colunas nas definições de dados que já conhece das bases. Além disso, todos os tipos de página suportam agora o [filtro "ID real do utilizador com sessão iniciada"](https://seatable.io/pt/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/). Um dos focos do trabalho de desenvolvimento foi a página individual, cujo tratamento melhorámos significativamente. Também corrigimos erros nos diagramas. Os outros tipos de páginas não foram descurados. O suporte de colunas foi optimizado para as páginas de formulário Web, Kanban e Linha de tempo. Um destaque do Universal App Builder no SeaTable 4.0 é o novo tipo de página "Query", que integra a funcionalidade da [aplicação de consulta de dados](https://seatable.io/pt/docs/apps/datenabfrage-app/) na Universal App.
 
-![A aplicação universal](https://seatable.io/wp-content/uploads/2023/06/SeaTable_Universal-App.png)
+![A aplicação universal](SeaTable_Universal-App.png)
 
 Nas versões 4.1 e 4.2, serão acrescentadas outras funções que já estão estabelecidas nas bases. Estas incluem, por exemplo, a formatação condicional e a altura variável da linha. Nessa altura, a fase beta do Universal App Builder também terminará.
 
@@ -70,7 +70,7 @@ Nas versões 4.1 e 4.2, serão acrescentadas outras funções que já estão est
 
 As pequenas conquistas do SeaTable também tornam a vida mais agradável: as pastas na página inicial abrem agora numa janela separada, dando-lhe uma melhor visão geral das bases aí organizadas.
 
-![Nova vista de pastas na página inicial](https://seatable.io/wp-content/uploads/2023/06/ordner-auf-der-startseite-release-notes.gif)
+![Nova vista de pastas na página inicial](ordner-auf-der-startseite-release-notes.gif)
 
 Bloquear uma linha - com uma regra de automatização ou manualmente através do menu de contexto da linha, o que já é possível para os utilizadores empresariais há algum tempo. Agora, a [coluna de botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) também tem "Bloquear linha" como uma nova ação. Utilize-a em combinação com as outras sete acções para concluir processos complexos com um simples clique do rato. Além disso, adicionámos valores de data dinâmicos à ação "Editar linha" e melhorámos a apresentação das opções de seleção.
 

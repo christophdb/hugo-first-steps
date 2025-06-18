@@ -18,7 +18,7 @@ Doch wie genau funktioniert das Social-Media-Management? Mit dem Lesen des folge
 
 Der Begriff Social-Media-Management **beschreibt ein gezieltes Kommunikations- und Werbemanagement** auf unterschiedlichen Social-Media-Plattformen wie Facebook, Instagram, YouTube & Co. Es umfasst eine breite Palette von Aufgaben, zum Beispiel das **direkte Kommunizieren mit Ihren Zielgruppen, das Veröffentlichen von Content sowie das Entwickeln Ihrer eigenen Social-Media-Strategie**.
 
-![Social-Media-Management: Apps auf einem Bildschirm.](https://seatable.io/wp-content/uploads/2024/01/pexels-pixabay-267350-711x516.jpg)
+![Social-Media-Management: Apps auf einem Bildschirm.](pexels-pixabay-267350-711x516.jpg)
 
 Das Angebot an Social-Media-Plattformen ist groß.
 
@@ -57,7 +57,7 @@ Versuchen Sie auch auf Ihren Profilen eine einheitliche **Corporate Identity** e
 
 Auf TikTok und Instagram haben Sie zudem die Möglichkeit, relevante Beiträge oben in Ihrem Profil **anzupinnen**. Bekommen Sie beispielsweise von Ihrer Community oft die gleiche Frage gestellt? Pinnen Sie einfach einen Beitrag an, der die Frage klärt, und verweisen Sie in Zukunft auf diesen.
 
-![Ein Instagram Feed im Social-Media-Management.](https://seatable.io/wp-content/uploads/2024/01/pexels-lisa-fotios-1092671-711x474.jpg)
+![Ein Instagram Feed im Social-Media-Management.](pexels-lisa-fotios-1092671-711x474.jpg)
 
 Ästhetik spielt bei Social Media eine bedeutende Rolle.
 

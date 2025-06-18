@@ -59,13 +59,13 @@ Avec notre [modèle de plan d'action SeaTable]({{< relref "templates/projects/ac
 
 Notre modèle se compose essentiellement d'un calendrier de 365 jours avec des week-ends et des jours fériés marqués, dans lequel vous pouvez facilement inscrire tout ce qui concerne votre planification. Cela a l'avantage de vous permettre d'avoir une vision globale des jours de la semaine et des mois. Cela permet d'avoir une meilleure vue d'ensemble sur la date et la fréquence d'un rendez-vous ou d'une action particulière et facilite la planification annuelle. Pour une planification détaillée du projet, les colonnes "Heure", "Lieu", "Personnes et services responsables" ainsi que "To-Do" importants sont intégrés. Ainsi, le déroulement des différentes mesures peut être planifié très précisément et les dates importantes sont toujours à portée de main en quelques clics. Vous allez voir : Avec SeaTable, la planification pour toute l'année est parfaitement structurée et organisée.
 
-![Un plan d'action au format calendrier vous permet d'avoir à tout moment une vue d'ensemble de vos actions.](https://seatable.de/wp-content/uploads/2021/04/Overview.jpg)
+![Un plan d'action au format calendrier vous permet d'avoir à tout moment une vue d'ensemble de vos actions.](Overview.jpg)
 
 La vue d'ensemble dans le plan d'action
 
 Vous y trouverez non seulement votre planning, mais aussi vos projets et objectifs planifiés. Vous pouvez les créer dans une autre feuille de calcul et documenter continuellement les progrès. Le plus pratique : grâce à la colonne des collaborateurs, vous pouvez remettre les tâches et les projets directement aux personnes responsables afin d'éviter le chaos. Vous vous assurez ainsi que tout est fait à temps et que tous les collaborateurs savent quelles sont leurs tâches. Vous garantissez ainsi un flux de travail idéal où plus rien ne se perd.
 
-![Vous pouvez consigner vos objectifs dans votre plan d'action afin d'y travailler en permanence.](https://seatable.de/wp-content/uploads/2021/04/Annual-Goals.jpg)
+![Vous pouvez consigner vos objectifs dans votre plan d'action afin d'y travailler en permanence.](Annual-Goals.jpg)
 
 Visualiser les objectifs dans votre plan d'action et les faire progresser
 

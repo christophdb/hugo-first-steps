@@ -31,11 +31,11 @@ Wir haben bereits erfahren, dass es [einige Methoden](https://www.userlike.com/d
 
 “Wie wahrscheinlich ist es, dass Sie unser Produkt an einen Freund weiterempfehlen würden?” Wir alle kennen diesen Satz und haben ihn wahrscheinlich auch schon das ein oder andere Mal beantwortet. Das ist der _Net-Promoter-Score (NPS)_. Mit diesem will man die Wahrscheinlichkeit ermitteln, dass ein Käufer, Kunde oder Interessent das gekaufte oder präferierte Produkt an einen Freund oder Bekannten weiterempfiehlt. Für die Antwort steht eine Skala von 0 (sehr unwahrscheinlich) bis 10 (sehr wahrscheinlich) zur Verfügung.
 
-![Net Promoter Score (NPS)](https://seatable.de/wp-content/uploads/2021/03/NPS-Score-SeaTable.png)
+![Net Promoter Score (NPS)](NPS-Score-SeaTable.png)
 
 Üblicherweise fragt man zusätzlich noch ab, warum der jeweilige Wert ausgewählt wurde. Das Gute daran ist, dass die Frage eben nicht nur auf ein Gefühl abzielt (“Wie fanden Sie unser Produkt?”), sondern auf eine Verhaltensabsicht. Für viele ist diese Frage viel leichter zu beantworten. Der NPS ist auch deswegen so beliebt, da die Antwort meist genauer und ehrlicher ausfällt als eine reine Gefühlsabfrage. Mit einer schlechten Produktempfehlung an einen Freund würde der Käufer ja schließlich die eigene Reputation aufs Spiel setzen – und wer will das schon? Zudem lässt Sie die Frage nach dem “Warum” besser verstehen, warum das jeweilige Kundenfeedback positiv oder negativ ausgefallen ist.
 
-![Ein NPS Fragebogen mit SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-form-seatable.png)
+![Ein NPS Fragebogen mit SeaTable](nps-form-seatable.png)
 
 Ein mit SeaTable erstellter NPS-Fragebogen. Probieren Sie unser [NPS-Template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) einfach aus.
 
@@ -94,7 +94,7 @@ Es gibt kulturelle Unterschiede bei der Bewertung. Dies wird wichtig, wenn Sie i
 
 Egal für welche Methode Sie sich entscheiden, sorgen Sie dafür, dass Sie ein Tool verwenden, mit dem Sie alle Ihre Feedbacks speichern und verwalten können. SeaTable kann Ihnen z. B. dabei helfen, das gewünschte Kundenfeedback einzuholen. Erstellen Sie einfach Ihre Wunschumfrage mit unserem Webformular. In [diesem Artikel](https://seatable.io/kundenfeedback-mit-seatable/) wird Ihnen der gesamte Prozess der Erstellung eines solchen Formulars und die anschließende Auswertung noch einmal genauer erklärt. Wenn Sie direkt loslegen wollen, schauen Sie dort vorbei.
 
-![Kundenfeedback Erstellung Webformular](https://seatable.io/wp-content/uploads/2020/08/Kundenfeedback-Formularerstellung-langsamer-1.gif)
+![Kundenfeedback Erstellung Webformular](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 
 Die Erstellung eines Formulars wird in SeaTable zum Kinderspiel
 
@@ -108,7 +108,7 @@ Nachdem Sie von Ihren Kunden das gewünschte Feedback bekommen haben, müssen Si
 
 Angenommen, Sie möchten Verbesserungen an Ihrem Produkt vornehmen, die aktuellen Schwachstellen ermitteln und herausbekommen, warum Ihre Kunden Ihr Produkt nicht weiterempfehlen. Dafür können Sie eine neue [Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) anlegen, um die Umfrageergebnisse zu [filtern](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), zu [sortieren](https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) und zu [gruppieren](https://seatable.io/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/). Suchen Sie nach den Antworten mit einem niedrigen NPS-Wert und ordnen Sie das Feedback nach relevanten Kategorien. Für jede gewünschte Analyse können Sie eine eigene Ansicht anlegen und so jederzeit in Sekunden darauf zurückgreifen.
 
-![Filtermöglichkeiten von SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-form-filter.png)
+![Filtermöglichkeiten von SeaTable](nps-form-filter.png)
 
 Lassen Sie sich nur die Einträge anzeigen, die Sie sehen möchten. Dank der Filter und Ansichten von SeaTable ein Kinderspiel.
 
@@ -116,7 +116,7 @@ Lassen Sie sich nur die Einträge anzeigen, die Sie sehen möchten. Dank der Fil
 
 Neben der Möglichkeit, sich die Antworten der Kundenzufriedenheitsbefragung in der Tabellenansicht anzusehen, können Sie die Statistikfunktion von SeaTable z. B. zur Visualisierung der Häufigkeitsverteilungen verwenden. So ist es ein Leichtes, sich schnell einen Überblick über die neuesten Zahlen zu verschaffen.
 
-![Statistische Auswertung der NPS Befragung in SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-statistics-seatable.png)
+![Statistische Auswertung der NPS Befragung in SeaTable](nps-statistics-seatable.png)
 
 Statistische Auswertung der NPS Befragung in SeaTable
 
@@ -133,7 +133,7 @@ Wenn Sie eine Priorität festlegen möchten, sollten Sie mehrere Dimensionen bet
 
 Um die wichtigsten Punkte mit der größten Wirkung zu erkennen, müssen Sie sich auf die Kategorien fokussieren, die am häufigsten genannt werden und einen tendenziell schlechten NPS-Wert haben.
 
-![NPS Bewertung in SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-form-overview.png)
+![NPS Bewertung in SeaTable](nps-form-overview.png)
 
 NPS-Bewertung in SeaTable
 

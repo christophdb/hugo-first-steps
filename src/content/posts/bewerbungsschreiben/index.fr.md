@@ -35,7 +35,7 @@ Avec une lettre de motivation, vous avez la possibilité de vous présenter avec
 
 Avant de commencer à écrire, vous devriez créer une **fiche d'information**. Après tout, vous avez besoin d'informations sur l'entreprise, ses exigences et, bien sûr, d'un aperçu de vos propres qualifications afin d'adapter votre lettre de motivation à l'offre d'emploi.
 
-![Faites des recherches sur Internet avec votre ordinateur pour recueillir des informations sur l'entreprise.](https://seatable.io/wp-content/uploads/2024/04/pexels-pixabay-39284-1-e1713177205489.jpg)
+![Faites des recherches sur Internet avec votre ordinateur pour recueillir des informations sur l'entreprise.](pexels-pixabay-39284-1-e1713177205489.jpg)
 
 Utilisez différentes sources pour vos recherches.
 
@@ -52,7 +52,7 @@ Une procédure structurée vous aidera à mettre en évidence les informations p
 
 Ces questions doivent faire ressortir ce qui caractérise **votre personnalité** et ce qui vous **distingue** des autres. Pour vérifier la pertinence des connaissances acquises ci-dessus, il est utile de les présenter sous forme de tableau.
 
-![Différents hard et soft skills sont pertinents pour une lettre de motivation.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_01-e1713776827650-711x549.png)
+![Différents hard et soft skills sont pertinents pour une lettre de motivation.](Bewerbungsschreiben_01-e1713776827650-711x549.png)
 
 Reliez les soft skills apprises aux hard skills correspondantes.
 
@@ -74,7 +74,7 @@ Si vous souhaitez utiliser SeaTable pour planifier votre candidature, il vous su
 
 Avant de commencer à formuler votre candidature, il convient d'établir une **design cohérent** pour tous vos documents de candidature. Non seulement votre candidature sera plus cohérente au premier coup d'œil, mais vous communiquerez aussi que vous êtes **ordonné** et **propre** travailler.
 
-![Choisissez une police, un interligne et une taille de caractères appropriés.](https://seatable.io/wp-content/uploads/2024/04/markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
+![Choisissez une police, un interligne et une taille de caractères appropriés.](markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
 
 Cherchez une police de caractères appropriée et faites attention à la taille des caractères, à l'interligne et aux marges.
 
@@ -92,7 +92,7 @@ Vous pouvez bien sûr appliquer ces formalités à d'autres documents de candida
 
 La structure d'une lettre de motivation se présente toujours de la même manière et peut être divisée en six sections.
 
-![La structure parfaite de votre lettre de motivation se compose de six étapes.](https://seatable.io/wp-content/uploads/2024/03/Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
+![La structure parfaite de votre lettre de motivation se compose de six étapes.](Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
 
 Suivez la structure et remplissez-la de contenu.
 
@@ -116,7 +116,7 @@ L'**objet** est placé en dessous, avec deux ou trois lignes vides. Vous pouvez 
 
 Avant d'avoir la possibilité de briller par le contenu de vos qualifications, il s'agit d'attirer l'attention de votre interlocuteur. Adressez-vous à lui **personnellement** par son nom et n'utilisez la désignation impersonnelle _Mesdames et Messieurs_ qu'en cas d'urgence, si vous ne connaissez personne par son nom. Pour les entreprises plus conservatrices, choisissez une **formule de salutation** classique telle que " _Chère Madame XY_" pour introduire poliment votre demande. Dans le cas des start-ups, vous pouvez également essayer une formule de salutation informelle comme _Bonjour, chère équipe marketing, chère Madame XY_.
 
-![Écrivez poliment, car vous voulez vous vendre et vendre vos compétences dans votre lettre de motivation.](https://seatable.io/wp-content/uploads/2024/04/monitor-376211_640-e1713177612297.jpg)
+![Écrivez poliment, car vous voulez vous vendre et vendre vos compétences dans votre lettre de motivation.](monitor-376211_640-e1713177612297.jpg)
 
 Écrivez poliment pour donner une bonne première impression à votre interlocuteur.
 
@@ -142,7 +142,7 @@ Le meilleur est à la fin. C'est ici que tu peux indiquer tes **prétentions sal
 
 La **phrase de conclusion** revêt une importance particulière, car c'est celle dont le recruteur se souviendra le plus longtemps. Il est donc important de montrer que vous **êtes sûr de vous** et de préciser une nouvelle fois que vous vous attendez à un retour positif. Pour ce faire, évitez le **conditionnel**. Une conclusion telle que " _Je serais heureux d'être invité à un entretien d'embauche_ " donne l'impression que vous n'êtes pas sûr de vos qualifications pour le poste.
 
-![L'objectif de la lettre de motivation est d'être invité à un entretien d'embauche.](https://seatable.io/wp-content/uploads/2024/04/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash-e1713178160395.jpg)
+![L'objectif de la lettre de motivation est d'être invité à un entretien d'embauche.](christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash-e1713178160395.jpg)
 
 Ne perdez pas de vue votre objectif : arriver à l'entretien d'embauche en ayant confiance en vous.
 
@@ -168,7 +168,7 @@ La lettre de motivation classique, telle qu'expliquée ci-dessus, peut varier da
 
 Si vous souhaitez postuler dans le cadre d'un stage d'étudiant ou d'un stage universitaire, les recruteurs n **'exigent pas ou peu de qualifications professionnelles**. En revanche, vous marquerez des points surtout avec des **soft skills et des intérêts** appropriés, que vous exercez dans certaines matières, dans des jobs d'été, dans votre temps libre ou dans le cadre de vos propres projets et activités bénévoles.
 
-![Le bénévolat permet de démontrer des soft skills.](https://seatable.io/wp-content/uploads/2024/04/ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
+![Le bénévolat permet de démontrer des soft skills.](ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
 
 Montrez votre engagement social en faisant du bénévolat.
 
@@ -190,7 +190,7 @@ Le contenu de votre candidature est prêt et vous souhaitez y apporter la touche
 
 Faites attention à votre style d'écriture et aux formulations que vous utilisez.
 
-![Vous pouvez valoriser votre lettre de motivation en tenant compte des choses à faire et à ne pas faire.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_02-e1713776597515-711x575.png)
+![Vous pouvez valoriser votre lettre de motivation en tenant compte des choses à faire et à ne pas faire.](Bewerbungsschreiben_02-e1713776597515-711x575.png)
 
 Veillez à utiliser des formulations appropriées.
 

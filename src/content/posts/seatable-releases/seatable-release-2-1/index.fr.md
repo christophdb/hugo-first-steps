@@ -46,7 +46,7 @@ Fondamentalement, tous les utilisateurs ayant des droits d'écriture peuvent mod
 
 Le type de colonne "case à cocher" était quelque peu difficile à manier au quotidien. L'inconvénient le plus évident était la nécessité de cliquer deux fois pour cocher ou décocher une case - un clic pour sélectionner la cellule, un autre pour cocher ou décocher la case. La nouvelle colonne de cases à cocher constitue un énorme progrès en termes de convivialité et d'apparence.
 
-![SeaTable 2.1 : Amélioration de la colonne des cases à cocher](https://seatable.io/wp-content/uploads/2021/07/cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
+![SeaTable 2.1 : Amélioration de la colonne des cases à cocher](cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
 
 ## Nombreuses améliorations des détails
 

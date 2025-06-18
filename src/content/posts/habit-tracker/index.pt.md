@@ -17,7 +17,7 @@ Mantêm a motivação elevada e também criam ambição para manter um bom compo
 
 Criar novos hábitos e alterar os maus hábitos - um registo de hábitos pode ajudá-lo. Na sua forma mais básica, trata-se de uma **lista com caixas de verificação** em que documenta todos os dias, durante um mês, se realizou ou não uma ação. Resolveu meditar todos os dias? Então, assinale sempre a caixa se tiver efetivamente cumprido a sua resolução nesse dia. Se mantiver o seu registo de hábitos regularmente, obterá uma imagem que mostra o seu **progresso**.
 
-![Este rastreador de hábitos é simples e mostra o hábito, o dia e, com uma linha colorida, se o comportamento foi realizado.](https://seatable.io/wp-content/uploads/2023/11/prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
+![Este rastreador de hábitos é simples e mostra o hábito, o dia e, com uma linha colorida, se o comportamento foi realizado.](prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
 
 O seu Localizador de Hábitos pode ter o seguinte aspeto.
 
@@ -43,7 +43,7 @@ Quer se trate de pequenas coisas no dia a dia ou de mudar toda a sua vida - basi
 
 Pense em hábitos que melhorem **a sua vida quotidiana** e que possam ser integrados na mesma. Perceba também quais os hábitos que já tem e se precisam de ser alterados. Quer queira livrar-se de maus hábitos ou aprender novos, encontrará aqui inspiração:
 
-![Muitos maus hábitos podem ser quebrados e transformados em novos bons hábitos.](https://seatable.io/wp-content/uploads/2023/11/Design-ohne-Titel-e1701347470819-711x946.jpg)
+![Muitos maus hábitos podem ser quebrados e transformados em novos bons hábitos.](Design-ohne-Titel-e1701347470819-711x946.jpg)
 
 É possível trocar os maus hábitos por bons hábitos.
 
@@ -59,7 +59,7 @@ Pense em hábitos que melhorem **a sua vida quotidiana** e que possam ser integr
 
 Muitos **padrões de comportamento desagradáveis** estabeleceram-se na nossa vida quotidiana e tornaram-se, silenciosa e secretamente, hábitos. Livrar-se deles ou, na melhor das hipóteses, transformá-los em bons hábitos requer muito tempo e energia. Mas com um **plano**, pode ser bem sucedido neste esforço.
 
-![6 passos para mudar os seus hábitos com sucesso.](https://seatable.io/wp-content/uploads/2023/12/Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
+![6 passos para mudar os seus hábitos com sucesso.](Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
 
 Este plano ajudá-lo-á a atingir os seus objectivos.
 
@@ -77,7 +77,7 @@ Não guarde os seus planos só para si. Ao falar aos seus amigos ou familiares s
 
 A adoção regular dos seus comportamentos exige uma forte **autodisciplina**. No entanto, existem dicas que o ajudarão a integrar mais rapidamente os hábitos na sua vida quotidiana.
 
-![O livro Atomic Habits contém as dicas abaixo, que pode integrar no seu rastreador de hábitos.](https://seatable.io/wp-content/uploads/2023/11/jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
+![O livro Atomic Habits contém as dicas abaixo, que pode integrar no seu rastreador de hábitos.](jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
 
 O bestseller de James Clear contém dicas úteis.
 
@@ -124,7 +124,7 @@ E atingiu o seu objetivo! Manteve sempre o seu registo de hábitos e os hábitos
 
 Como já foi referido, não há limites para o design do seu Habit Tracker. A personalização à mão pode ajudar a criar um compromisso adicional através da personalização e proporcionar uma motivação adicional com o trabalho que já investiu.
 
-![O modelo apresenta uma abordagem mais criativa, trabalhando com cores e uma forma especial.](https://seatable.io/wp-content/uploads/2023/12/Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
+![O modelo apresenta uma abordagem mais criativa, trabalhando com cores e uma forma especial.](Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
 
 Pode desenhar o seu Localizador de Hábitos à mão ou com modelos.
 

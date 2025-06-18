@@ -17,7 +17,7 @@ Pero, ¿cómo funciona exactamente la gestión de las redes sociales? Leyendo el
 
 El término gestión de redes sociales **describe la comunicación dirigida y la gestión publicitaria** en diversas plataformas de redes sociales como Facebook, Instagram, YouTube y similares. Abarca una amplia gama de tareas, como la **comunicación directa con sus grupos objetivo, la publicación de contenidos y el desarrollo de su propia estrategia en las redes sociales**.
 
-![Gestión de redes sociales: aplicaciones en una sola pantalla.](https://seatable.io/wp-content/uploads/2024/01/pexels-pixabay-267350-711x516.jpg)
+![Gestión de redes sociales: aplicaciones en una sola pantalla.](pexels-pixabay-267350-711x516.jpg)
 
 Existe una amplia gama de plataformas de medios sociales.
 
@@ -56,7 +56,7 @@ Intenta mantener una **identidad corporativa** coherente también en tus perfile
 
 En TikTok e Instagram, también tienes la opción de **fijar** publicaciones relevantes en la parte superior de tu perfil. Por ejemplo, ¿recibes a menudo la misma pregunta de tu comunidad? Fija una publicación que responda a la pregunta y consúltala en el futuro.
 
-![Un feed de Instagram en la gestión de redes sociales.](https://seatable.io/wp-content/uploads/2024/01/pexels-lisa-fotios-1092671-711x474.jpg)
+![Un feed de Instagram en la gestión de redes sociales.](pexels-lisa-fotios-1092671-711x474.jpg)
 
 La estética desempeña un papel importante en las redes sociales.
 

@@ -16,7 +16,7 @@ Uno de los días más bonitos e importantes de la vida está a la vuelta de la e
 
 Normalmente, la planificación de una boda comienza unos 13 meses antes del gran día. Si quieres tener un lugar popular para la boda, a veces incluso antes. Es importante no perder de vista el gran número de tareas. Por eso, en el centro de nuestra plantilla Wedding [Planner]({{< relref "templates/events/wedding-planner" >}}) se encuentra la _lista de comprobación_, que ya cuenta con más de 200 tareas predefinidas. Además, esta tabla registra cuándo debe completarse la tarea correspondiente. Siempre hay una tarea superior, que contiene varios subapartados individuales para guiarle a través de todo el proceso. La columna _"Check"_ es una [casilla de verificación](https://seatable.io/es/docs/handbuch/datenmanagement/feld-typen/?lang=auto#checkbox) que se utiliza para marcar las tareas pendientes completadas.
 
-![Lista de control para la planificación de la boda](https://seatable.de/wp-content/uploads/2021/07/wedding-more-than-200-todos.png)
+![Lista de control para la planificación de la boda](wedding-more-than-200-todos.png)
 
 Nuestra lista de control para la planificación de la boda ya contiene más de 200 tareas para que no se le olvide nada.
 
@@ -47,7 +47,7 @@ Hemos preparado 5 puntos de vista diferentes para ayudarte a tomar 5 decisiones 
 4. Para el entretenimiento está la vista _Entertainment_
 5. Para la comida está la vista de los posibles _servicios de catering_
 
-![Planificación de la boda](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
+![Planificación de la boda](Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
 
 ### La planificación de la boda es una cuestión de decisiones
 
@@ -74,7 +74,7 @@ En las notas hay espacio para todo lo posible, tal vez haya preferencias persona
 
 Para evitar un caos adicional de notas en la mesa del comedor, además de la caótica planificación de la boda, pensamos en resolver el problema del plan de asientos de forma digital. Al vincular las dos tablas _Lista_ de invitados y Tabla _de_ _asientos_, puede asignar cada invitado de la tabla _Lista de invitados_ a una tabla que haya definido previamente en la tabla _Tabla de asientos_. Si le resulta más claro, también puede asignar los invitados individuales a sus mesas en la tabla _de asientos_ al revés. Si hace clic en una mesa de la _lista de invitados_, podrá ver directamente quién está sentado en ella.
 
-![](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-14.29.48.png)
+![](Bildschirmfoto-2021-07-13-um-14.29.48.png)
 
 Una vez más, hay diferentes vistas para la lista de invitados para ayudarte aún más. Hemos creado una vista que muestra las [invitaciones](https://www.pinterest.de/mhochzeitsdeko/einladungenskarten-hochzeit/) que aún no se han enviado. Una vista le muestra las diferentes solicitudes de menú. Quizás también sería una opción que [compartierais](https://seatable.io/es/docs/handbuch/zusammenarbeit/externe-links/?lang=auto) esta visión directamente con el proveedor, para que pueda planificar el menú más fácilmente. Por último, pero no menos importante, hay tres vistas individuales para cada celebración, porque como sabemos, no todos los invitados acuden a todas las partes de la celebración. Así, con un solo clic tendrá una visión directa de las personas que estarán presentes en cada caso.
 

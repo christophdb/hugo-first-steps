@@ -23,7 +23,7 @@ Commençons par une définition. SWOT signifie
 - Opportunities - Opportunités
 - Threats - Risques
 
-![Consultant en gestion d'entreprise qui cherche sur son ordinateur portable un nouveau modèle pour un exemple d'analyse SWOT.](https://seatable.io/wp-content/uploads/2022/04/Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
+![Consultant en gestion d'entreprise qui cherche sur son ordinateur portable un nouveau modèle pour un exemple d'analyse SWOT.](Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg)
 
 Analyse SWOT © everythingpossible / Adobe Stock
 
@@ -37,7 +37,7 @@ Ensuite **, vous analysez l'environnement de votre entreprise ou de votre équip
 
 Dans un deuxième temps, vous déduisez de l'état des lieux **des recommandations d'actions stratégiques**. Que devez-vous faire lorsque des opportunités rencontrent des faiblesses ou des risques rencontrent des forces ?
 
-![Représentation graphique d'une matrice SWOT comme modèle pour une analyse SWOT.](https://seatable.io/wp-content/uploads/2022/04/Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
+![Représentation graphique d'une matrice SWOT comme modèle pour une analyse SWOT.](Swot-Analyse-template_AdobeStock_41600134_bearbeitet-711x474.jpg)
 
 Exemple d'analyse SWOT © r0b\_ / Adobe Stock
 
@@ -80,7 +80,7 @@ Choisissez également un [modèle d'analyse SWOT]({{< relref "templates/operatio
 
 L'[inventaire](https://seatable.io/fr/inventarliste-vorlagen/) s'accompagne d'un investissement en temps important. Qui pouvez-vous libérer pour les réunions et les ateliers ? En outre, des compétences de différents départements sont nécessaires. **Quels sont les collègues qui ont un aperçu des forces, des faiblesses, des opportunités et des risques de votre entreprise et de son environnement ?** Dans l'idéal, vous devriez constituer une équipe de dix personnes.
 
-![Une équipe parle d'un nouvel exemple d'analyse SWOT.](https://seatable.io/wp-content/uploads/2022/04/Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
+![Une équipe parle d'un nouvel exemple d'analyse SWOT.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
 
 Une équipe discute d'un exemple d'analyse SWOT © weedezign / Adobe Stock
 

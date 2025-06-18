@@ -15,7 +15,7 @@ O Natal está à porta e gostaria de oferecer aos seus empregados, parceiros com
 
 Quer se trate de um grande gesto ou de um pequeno sinal de apreço - toda a gente fica feliz por receber uma prenda. Mas nem sempre tem de ser um presente sob a forma de um objeto material ou de um vale. Dar um presente vai para além do material e pode assumir muitas formas.
 
-![Eis cinco ideias do que pode oferecer aos seus clientes e empregados durante o período de Natal.](https://seatable.io/wp-content/uploads/2024/08/Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
+![Eis cinco ideias do que pode oferecer aos seus clientes e empregados durante o período de Natal.](Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
 
 Que ideia vai pôr em prática neste Natal?
 
@@ -33,7 +33,7 @@ Muitas organizações de ajuda e instituições sociais apreciam a sua contribui
 
 Chocolate, mas com energia? Não há problema! Crie um calendário do Advento para os seus empregados e clientes com o logótipo da sua empresa ou adicione mensagens personalizadas.
 
-![Os pralinés de chocolate numerados são um delicioso calendário do Advento caseiro.](https://seatable.io/wp-content/uploads/2024/08/markus-spiske-MxjnYEqAfVA-unsplash-1-scaled-e1722848744903-711x620.jpg)
+![Os pralinés de chocolate numerados são um delicioso calendário do Advento caseiro.](markus-spiske-MxjnYEqAfVA-unsplash-1-scaled-e1722848744903-711x620.jpg)
 
 Seja qual for a sua forma, o chocolate sabe sempre bem!
 
@@ -72,7 +72,7 @@ Um **presente feito em casa** traz grande alegria porque mostra que investiu tra
 
 - **Cartão de felicitações**: O clássico cartão de Natal. Crie o cartão de Natal da sua empresa com um motivo interessante e uma mensagem pessoal. Ou que tal um poema escrito por si ou uma dedicatória pessoal? Faça do seu cartão de felicitações o mais bonito nas secretárias dos seus clientes e empregados!
 
-![Os postais de Natal feitos em casa são feitos com muito amor.](https://seatable.io/wp-content/uploads/2024/08/pexels-jonathanborba-3358727-e1722852690526-711x536.jpg)
+![Os postais de Natal feitos em casa são feitos com muito amor.](pexels-jonathanborba-3358727-e1722852690526-711x536.jpg)
 
 Não há limites para a sua imaginação.
 
@@ -85,7 +85,7 @@ Não há limites para a sua imaginação.
 
 Uma visita conjunta ao mercado de Natal ou a confeção de bolachas ao fim do dia ajuda a conhecermo-nos melhor e a reforçar o espírito de equipa a longo prazo. E, claro, uma festa de Natal é obrigatória! Pode descobrir como planear uma com sucesso [aqui](https://seatable.io/pt/weihnachtsfeier/).
 
-![Uma visita ao mercado de Natal convida-o a conversar e a passear.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-22-1-e1722859187769-711x730.png)
+![Uma visita ao mercado de Natal convida-o a conversar e a passear.](Design-ohne-Titel-22-1-e1722859187769-711x730.png)
 
 O melhor ambiente natalício pode ser encontrado aqui.
 
@@ -102,7 +102,7 @@ Gostaria de fazer os seus empregados felizes no Natal mas manter os custos o mai
 - **Cheques-prenda:** Os **cheques-prenda** são uma prenda de Natal muito apreciada pelos trabalhadores e pelos clientes. No entanto, estes só estão sujeitos ao limite de isenção fiscal se, para além do valor máximo de 50 euros, preencherem três outros critérios. Os cartões-presente só podem autorizar a compra de bens e serviços e só podem ser utilizados num número reduzido de lojas. De notar ainda que os vales devem ser emitidos para _além dos salários devidos_.
 - **Eventos pessoais:** Se um dos seus trabalhadores fizer anos ou tiver um aniversário importante na empresa, o subsídio pode ir até 60 euros. No entanto, isto não se aplica ao Natal, uma vez que este **não é** considerado um acontecimento pessoal.
 
-![Os empregados e os superiores estão satisfeitos com uma festa de Natal interna.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-25-e1722846043336-711x493.png)
+![Os empregados e os superiores estão satisfeitos com uma festa de Natal interna.](Design-ohne-Titel-25-e1722846043336-711x493.png)
 
 Há ainda algumas coisas a ter em conta nas festas de Natal...
 

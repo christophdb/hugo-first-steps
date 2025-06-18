@@ -96,7 +96,7 @@ Suponha que a sua empresa tem os seguintes três segmentos de clientes:
 
 Então, a sua primeira tarefa será descobrir tudo o que puder sobre estes segmentos de clientes e, consequentemente, sobre as suas personas. Não se limite a pensar nisso, documente as suas descobertas.
 
-![Descrição das Personas Compradoras em SeaTable](https://seatable.de/wp-content/uploads/2021/02/buyer-personas-in-seatable.png)
+![Descrição das Personas Compradoras em SeaTable](buyer-personas-in-seatable.png)
 
 Exemplo de descrição das personas no SeaTable
 
@@ -138,19 +138,19 @@ Outro destaque deste modelo são as diferentes vistas com filtros e agrupamentos
 
 Os desenhadores gráficos só se interessarão pelos artigos que requerem gráficos e que já estão escritos, enquanto os autores apenas procurarão os trabalhos que ainda estão abertos. Para cada um destes colaboradores existe uma visão separada para mostrar apenas os dados de que se necessita neste momento.
 
-![Opiniões individuais para cada empregado](https://seatable.de/wp-content/uploads/2021/02/seatable-views.png)
+![Opiniões individuais para cada empregado](seatable-views.png)
 
 Opiniões individuais para cada empregado
 
 Todos os empregados sabem exatamente quem tem a tarefa em mãos e quem tem de trabalhar nela a seguir. Desta forma, evitam-se tempos de espera e confusões. Logo que um autor tenha escrito o seu rascunho, altera o estado do artigo e passa-o ao membro seguinte da equipa para controlo de qualidade. Se for necessária uma coordenação entre os membros da equipa, isso pode ser feito facilmente através da [função de comentários](https://seatable.io/pt/docs/handbuch/zusammenarbeit/kommentare/) no SeaTable.
 
-![Comunicação da equipa em SeaTable](https://seatable.de/wp-content/uploads/2021/02/seatable-comments.png)
+![Comunicação da equipa em SeaTable](seatable-comments.png)
 
 Desta forma, ninguém tem de pedir uma atualização por correio eletrónico ou pelo Slack. Basta adicionar o colega correspondente nos comentários ou alterar o estado do artigo. Se desejar, o SeaTable também envia uma notificação por correio eletrónico.
 
 Como autor ou editor, pode querer ver as datas de publicação agendadas numa vista de calendário. Aí, pode facilmente arrastar e largar artigos para reorganizar os prazos e garantir que os bons conteúdos são publicados de forma consistente.
 
-![Planeamento editorial através de drag & drop no SeaTable](https://seatable.de/wp-content/uploads/2021/02/redaktionsplanung-seatable-kalender.png)
+![Planeamento editorial através de drag & drop no SeaTable](redaktionsplanung-seatable-kalender.png)
 
 Planeamento editorial através de arrastar e largar no SeaTable
 
@@ -160,7 +160,7 @@ Cada uma destas diferentes visualizações realça determinados aspectos do pipe
 
 Certifique-se também de que não fica sem ideias prematuramente. Pergunte aos seus empregados e aos seus clientes por ideias ou por temas que lhe interessem. Com o SeaTable pode criar um questionário em minutos e distribuí-lo.
 
-![Brainstorming na preparação para a comercialização de conteúdos](https://seatable.de/wp-content/uploads/2021/02/seatable-content-brainstorming-1.png)
+![Brainstorming na preparação para a comercialização de conteúdos](seatable-content-brainstorming-1.png)
 
 O seu objetivo deve ser estar em constante intercâmbio com os seus clientes e manter os obstáculos à comunicação dessas ideias tão baixos quanto possível. Verá: A melhor maneira de publicar bons conteúdos em intervalos regulares é manter um fluxo constante de ideias de alta qualidade.
 
@@ -188,7 +188,7 @@ Verificará rapidamente que, com bons artigos, pode observar um aumento do tráf
 
 Verá que vale a pena registar estas avaliações no SeaTable para que os valores sejam apresentados como estatísticas num gráfico de barras, de linhas ou de pizza.
 
-![Avaliações estatísticas com SeaTable](https://seatable.de/wp-content/uploads/2021/02/seatable-statistics.png)
+![Avaliações estatísticas com SeaTable](seatable-statistics.png)
 
 Avaliações estatísticas dos números de acesso e lançamentos programados com SeaTable
 

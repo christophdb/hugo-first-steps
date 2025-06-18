@@ -28,7 +28,7 @@ Il existe de nombreuses façons de structurer les bases de données. Ci-dessous,
 4. **Base de données relationnelle :** elle est orientée table, chaque enregistrement étant lié à chaque autre enregistrement.
 5. **Base de données non relationnelle** (ou base de données NoSQL) : Une base de données No-SQL utilise une variété de formats tels que des documents, des diagrammes, etc. qui offrent une grande flexibilité à une conception de base de données.
 
-![Les liens sont le grand avantage des bases de données relationnelles](https://seatable.io/wp-content/uploads/2021/03/hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
+![Les liens sont le grand avantage des bases de données relationnelles](hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
 
 Les liens sont le grand avantage des bases de données relationnelles.
 
@@ -45,7 +45,7 @@ Maintenant que vous avez compris ce qu'est une base de données, vous vous deman
 
 Même si vous n'avez peut-être pas (encore) besoin de traiter vous-même d'énormes quantités d'informations, les avantages des bases de données sont déjà perceptibles pour des quantités de données plus petites. Grâce à la possibilité de traiter un nombre presque illimité de données, une base de données bien conçue et bien pensée peut vous servir pendant de nombreuses années, car elle grandit pour ainsi dire avec vous.
 
-![Des bases de données simples : pas de problème avec SeaTable](https://seatable.io/wp-content/uploads/2021/10/pexels-christina-morillo-1181354-e1634551763220.jpg)
+![Des bases de données simples : pas de problème avec SeaTable](pexels-christina-morillo-1181354-e1634551763220.jpg)
 
 ## Les limites des tableaux par rapport aux bases de données
 

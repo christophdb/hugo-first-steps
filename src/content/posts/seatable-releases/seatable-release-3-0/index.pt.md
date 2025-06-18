@@ -19,7 +19,7 @@ Cordas de qualquer tipo e comprimento podem ser introduzidas em colunas de texto
 
 Se a validação dos dados for activada, o SeaTable verifica se o valor introduzido na célula corresponde ao formato alvo definido. Se a entrada não corresponder ao formato alvo, a célula é destacada a vermelho. Em formulários web, uma entrada não conforme resultará numa mensagem de erro e o formulário não pode ser submetido.
 
-![Validação de dados em SeaTable 3.0](https://seatable.io/wp-content/uploads/2022/06/FormatCheck.png)
+![Validação de dados em SeaTable 3.0](FormatCheck.png)
 
 Das Zielformat wird in Form eines [regulären Ausdrucks](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) definiert. Ein regulärer Ausdruck für eine Zahlenfolge mit genau 5 Stellen ist beispielsweise \[0-9\]{5}. Für reguläre Ausdrücke sprechen zwei Argumente: Sie sind eine weit verbreitete Methode und bieten ein Maximum an Flexibilität. Die Art der erlaubten Zeichen, die Länge, und auch die Syntax der Eingabe lässt sich mit regulären Ausdrücken präzise definieren.
 
@@ -41,13 +41,13 @@ A edição online está disponível em todas as subscrições SeaTable Cloud, in
 
 A função Registos Partilhados permite sincronizar os dados de uma Base com uma ou mais Bases. São particularmente úteis se pretender disponibilizar os dados a outros utilizadores para processamento e enriquecimento posterior, mas não pode dar a esses utilizadores direitos de acesso à lista que gere ("lista principal"). A versão 3.0 inclui várias melhorias para simplificar a criação, a sincronização e a duplicação de registos partilhados.
 
-![Os conjuntos de dados comuns existentes são apresentados na caixa de diálogo "Novo conjunto de dados comum".](https://seatable.io/wp-content/uploads/2022/06/ExistingCDS.png)
+![Os conjuntos de dados comuns existentes são apresentados na caixa de diálogo "Novo conjunto de dados comum".](ExistingCDS.png)
 
 A partir do SeaTable 3.0, os conjuntos de dados comuns já criados são apresentados na caixa de diálogo "Novo conjunto de dados comum". Isto evita a criação múltipla de conjuntos de dados comuns.
 
 Na nova versão, as colunas criadas pela importação de um registo comum são marcadas com um ícone de sincronização. Isto facilita a distinção das colunas que serão sobregravadas com o conjunto de dados comum durante uma re-síntese de todas as outras colunas. A marcação visual reduz o risco de perda não intencional de dados.
 
-![Colunas importadas de CDS marcadas com ícone de sincronização](https://seatable.io/wp-content/uploads/2022/06/ColumnIconsCDS.png)
+![Colunas importadas de CDS marcadas com ícone de sincronização](ColumnIconsCDS.png)
 
 Ao duplicar uma tabela com um conjunto de dados comuns importados, apenas os dados eram duplicados até agora. A ligação ao conjunto de dados comum não foi dada na tabela duplicada, de modo que não foi possível uma sincronização renovada. A função de duplicação foi agora alargada para que se possa transferir a ligação ao conjunto de dados comum para a nova tabela a ser criada ou descartá-la através de um interruptor.
 

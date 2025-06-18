@@ -17,7 +17,7 @@ Vous apprendrez ici comment organiser un élevage respectueux des animaux et que
 
 La première question qui se pose est de savoir si un animal peut trouver sa place dans votre quotidien. Vous devez assumer **la responsabilité** d'un animal de compagnie pour une durée indéterminée. Dans ce contexte, vous devez vous demander si vous pouvez répondre aux exigences individuelles que votre animal vous impose.
 
-![Voici une liste de questions à se poser avant d'acheter un animal de compagnie.](https://seatable.io/wp-content/uploads/2024/01/Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
+![Voici une liste de questions à se poser avant d'acheter un animal de compagnie.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
 
 C'est ce à quoi vous devez faire attention avant d'acheter un animal de compagnie.
 
@@ -31,7 +31,7 @@ En Allemagne, la notion d'**animal domestique** est surtout marquée par des rep
 
 Qu'il s'agisse du poisson-clown _Nemo_ ou de la chouette des neiges _Hedwig_: vous pouvez de plus en plus souvent rencontrer des animaux populaires qui vivent normalement dans des zoos ou en liberté dans la nature chez des particuliers. En Allemagne, à quelques exceptions près, vous pouvez détenir des animaux exotiques de toutes sortes comme animaux de compagnie.
 
-![L'élevage de serpents est autorisé. Les exceptions sont les serpents dangereux, qui doivent être déclarés.](https://seatable.io/wp-content/uploads/2024/01/pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
+![L'élevage de serpents est autorisé. Les exceptions sont les serpents dangereux, qui doivent être déclarés.](pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
 
 Vous pouvez détenir des serpents sous certaines conditions légales, mais vous devez signaler les spécimens dangereux.
 
@@ -84,7 +84,7 @@ L'environnement et les soins dont votre animal de compagnie a besoin dépendent 
 - **Lieu de couchage :** les animaux qui se déplacent librement dans votre appartement doivent d'abord s'habituer à leur nouvel environnement. Offrez à votre animal un endroit où il pourra se retirer et où il pourra également dormir.
 - **Des stations d'alimentation :** Pour que votre animal ait un accès permanent à la nourriture et à l'eau, vous devriez installer une station d'alimentation fixe. Il vous sera ainsi plus facile de surveiller le comportement alimentaire de votre animal.
 
-![Vous trouverez des articles pour animaux, de la nourriture pour animaux et tout ce qui concerne l'élevage dans les animaleries.](https://seatable.io/wp-content/uploads/2024/01/random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
+![Vous trouverez des articles pour animaux, de la nourriture pour animaux et tout ce qui concerne l'élevage dans les animaleries.](random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
 
 Dans les animaleries, vous trouverez tout ce dont votre animal a besoin.
 
@@ -106,7 +106,7 @@ Votre animal devrait toujours avoir accès à **de l'eau potable** fraîche. C'e
 
 Vous pouvez savoir si votre animal va bien en observant **son comportement** et son **apparence**. Les signes typiques de maladie sont par exemple le manque d'appétit, la perte de poids, les vomissements, l'apathie ou la modification du pelage. Dans ces cas, vous devriez consulter le vétérinaire.
 
-![Les chiens ont besoin d'exercice](https://seatable.io/wp-content/uploads/2024/01/cristian-castillo-73pyV0JJOmE-unsplash.jpg)
+![Les chiens ont besoin d'exercice](cristian-castillo-73pyV0JJOmE-unsplash.jpg)
 
 Les chiens ont besoin de suffisamment d'exercice chaque jour.
 
@@ -148,7 +148,7 @@ Comme nous, les animaux tombent parfois malades, mais ils nous le cachent souven
 
 Lorsque vous accueillez un animal chez vous, vous devez vous rendre chez le médecin pour un premier **bilan de santé**. En outre, des **vaccinations** et **des vermifuges** réguliers sont nécessaires.
 
-![Un chien est examiné chez le vétérinaire afin de détecter rapidement les maladies.](https://seatable.io/wp-content/uploads/2024/01/pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
+![Un chien est examiné chez le vétérinaire afin de détecter rapidement les maladies.](pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
 
 La prévention est essentielle pour assurer une longue vie à votre animal.
 
@@ -184,7 +184,7 @@ Pour les enfants, il est facile de répondre à la question de savoir s'ils souh
 
 Si le souhait d'avoir un animal de compagnie émane en premier lieu des enfants, les parents optent souvent pour un **petit animal facile à entretenir**. Mais les lapins, cochons d'Inde ou hamsters ne répondent guère au besoin de proximité et de câlins des enfants. Bien au contraire : ils sont généralement craintifs et le nettoyage demande beaucoup de travail. C'est pourquoi les rongeurs conviennent surtout aux enfants qui aiment observer les animaux, les soigner et leur laisser de l'espace.
 
-![Les enfants câlinent des lapins.](https://seatable.io/wp-content/uploads/2024/01/pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
+![Les enfants câlinent des lapins.](pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
 
 Pour les enfants, il est important d'apprendre à respecter les limites de l'animal.
 

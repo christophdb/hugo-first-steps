@@ -51,7 +51,7 @@ Organizar uma despedida de solteiro pode ser uma tarefa excitante, mas também d
 
 Estes são os passos essenciais para garantir que a despedida de solteiro seja um sucesso total:
 
-![Lista de verificação para uma despedida de solteiro](https://seatable.io/wp-content/uploads/2023/04/Checkliste-Junggesellenabschied.png)
+![Lista de verificação para uma despedida de solteiro](Checkliste-Junggesellenabschied.png)
 
 Para que a despedida de solteiro seja perfeita, é necessário assinalar estes pontos.
 

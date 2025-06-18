@@ -66,12 +66,12 @@ Auf der Homepage konnten Sie [Ordner](https://seatable.io/docs/arbeiten-mit-base
 
 Oftmals ist für andere Nutzer nicht ersichtlich, was Sie sich bei der Struktur einer Base oder Tabelle gedacht haben. Vielleicht möchten Sie auch **Notizen** zu einer Spalte, Tabelle oder Base festhalten. Dies können Sie bisher in einer [Spaltenbeschreibung](https://seatable.io/docs/arbeiten-mit-spalten/hinzufuegen-einer-spaltenbeschreibung/) oder in einer [Base-Beschreibung](https://seatable.io/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) tun. Was noch fehlte, war die Option, mit einem prägnanten Text die Inhalte, Strukturen und Prozesse in einer Tabelle zu erläutern. Künftig können Sie deshalb jede Tabelle mit einer [Tabellenbeschreibung](https://seatable.io/docs/arbeiten-in-tabellen/eine-tabellenbeschreibung-hinzufuegen/) versehen.
 
-![Neue Funktion zur Tabellenbeschreibung](https://seatable.io/wp-content/uploads/2023/08/Table-description.png)
+![Neue Funktion zur Tabellenbeschreibung](Table-description.png)
 
 Eine weitere, rein optische Verbesserung betrifft die **Zeilendetails**, in denen Sie Einträge ansehen und je nach Berechtigung bearbeiten können: Wir haben das Design der Zeilendetails in Universellen Apps und Bases angeglichen, um einen einheitlichen Look zu schaffen. Damit Sie gesperrte Felder direkt erkennen können, werden diese in den Zeilendetails nun einheitlich grau hinterlegt.
 
 Für alle, die gerne Prozesse mit einem Mausklick starten, gibt es Grund zur Freude: Die neue [Schaltflächen-Aktion](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) „Benachrichtigung senden“ ist ab SeaTable 4.1 verfügbar. Diese ergänzt die schon zuvor verfügbare Aktion „E-Mail senden“. Da SeaTable mittlerweile **neun** Schaltflächen-Aktionen anbietet, haben wir auch das Auswahl-Fenster übersichtlicher gestaltet:
 
-![Neue Schaltflächen-Aktion "Benachrichtigung senden"](https://seatable.io/wp-content/uploads/2023/08/New-button-action-send-notification.png)
+![Neue Schaltflächen-Aktion "Benachrichtigung senden"](New-button-action-send-notification.png)
 
 Zu guter Letzt haben wir in SeaTable 4.1 wieder einige **Bugs** gefixt – unter anderem, dass Werte mit folgendem %-Zeichen in Text- und Einfachauswahl-Spalten nicht als Prozentwerte, sondern als Zahlen interpretiert wurden. Dies konnte bei manchen [Formeln](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/) zu unerwünschten Ergebnissen führen. Bitte überprüfen Sie, ob sich dieser Bugfix auf Ihre Formeln auswirkt.

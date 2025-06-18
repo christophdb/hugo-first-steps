@@ -36,7 +36,7 @@ Als **explizit** bezeichnet man all das Wissen, welches Sie oder Ihre Mitarbeite
 
 Zentral für das Wissensmanagement in Ihrem Unternehmen ist deshalb, die von Ihren Mitarbeitern entwickelten individuellen Lösungsansätze in einem Wissensmanagementsystem festzuhalten.
 
-![Ein gutes Arbeitsklima in Ihrer Firma legt einen wichtigen Grundstein für ein funktionierendes Wissensmanagement.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-29-e1722945539973-711x555.png)
+![Ein gutes Arbeitsklima in Ihrer Firma legt einen wichtigen Grundstein für ein funktionierendes Wissensmanagement.](Design-ohne-Titel-29-e1722945539973-711x555.png)
 
 Ein angenehmes Arbeitsklima hilft Ihnen dabei, Wissen zu sammeln und gemeinsam zu nutzen.
 
@@ -54,7 +54,7 @@ Bei dieser Variante bündeln Sie das Wissen von Einzelpersonen an einem **zentra
 
 Diese Variante kommt zum Einsatz, wenn das Wissen zu komplex ist, um es für alle verständlich zu formulieren. Dann braucht es **Experten**, welche ihr Wissen persönlich an bestimmte Kollegen weitergeben und auch bei Rückfragen zur Verfügung stehen.
 
-![Ein Experte sollte zur Arbeitszeit immer ansprechbar sein, auch wenn die Person im Homeoffice ist.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-28-e1722945260552-711x505.png)
+![Ein Experte sollte zur Arbeitszeit immer ansprechbar sein, auch wenn die Person im Homeoffice ist.](Design-ohne-Titel-28-e1722945260552-711x505.png)
 
 Wenn Sie Experten in Ihrer Firma haben, sollten diese schnell und einfach bei Problemen erreichbar sein.
 
@@ -64,7 +64,7 @@ Sie können die beiden Strategien auch kombinieren, z. B. Ihr Wissen in einem Wo
 
 Um das gesammelte Wissen Ihres Unternehmens effizient nutzen zu können, sollte Ihnen bewusst sein, aus welchen **acht Bausteinen** sich das Wissensmanagement zusammensetzt.
 
-![Die acht Bausteine von Wissensmanagement bauen aufeinander auf und ermöglichen es Ihnen, ein Ihr Unternehmen insgesamt effizienter zu gestalten.](https://seatable.io/wp-content/uploads/2024/08/Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
+![Die acht Bausteine von Wissensmanagement bauen aufeinander auf und ermöglichen es Ihnen, ein Ihr Unternehmen insgesamt effizienter zu gestalten.](Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
 
 Systematik nach Probst, Raub und Romhardt
 
@@ -77,7 +77,7 @@ Daraus ergibt sich eine Art Leitfaden, an dem Sie sich für die Erarbeitung eine
 
 Für die Wissensverteilung kommt eine Vielzahl bekannter Methoden in Frage, zum Beispiel [Workshops](https://seatable.io/workshop-planen/), Lessons Learned, [Teammeetings](https://seatable.io/in-4-schritten-zu-effizienteren-teammeetings/), Mentoring, [Onboarding](https://seatable.io/onboarding/) oder interne Newsletter.
 
-![Um Wissensmanagement zu betreiben, ist es wichtig, dass alle Mitarbeiter auf dem gleichen Stand sind und aktiv Informationsaustausch betreiben.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-27-e1722944969749-711x544.png)
+![Um Wissensmanagement zu betreiben, ist es wichtig, dass alle Mitarbeiter auf dem gleichen Stand sind und aktiv Informationsaustausch betreiben.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 
 Für gutes Wissensmanagement ist ein aktiver Austausch wichtig.
 
@@ -96,7 +96,7 @@ Wissensmanagement kann viel leisten und ist daher für verschiedene Unternehmens
 
 Im **Kundensupport** beispielsweise kann Ihnen ein ausgefeiltes Wissensmanagementsystem viele Aufgaben abnehmen. Für Fragen wie „Wie ändere ich meine Adressdaten?“ oder „Wo kann ich die Benachrichtigungen deaktivieren?“ brauchen Kunden selten einen persönlichen Ansprechpartner per Telefon oder E-Mail. Stattdessen wird ein **Self-Service-Portal** eingerichtet, in welchem die häufigsten Kundenanfragen mit einer sofort bereitgestellten Lösung einsehbar sind.
 
-![Der Kundensupport besteht aus mehreren Komponenten.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-26-e1722944554743-711x485.png)
+![Der Kundensupport besteht aus mehreren Komponenten.](Design-ohne-Titel-26-e1722944554743-711x485.png)
 
 Ersparen Sie Ihren Mitarbeitern viel Arbeit, indem Sie Ihren Kunden Hilfe zur Selbsthilfe anbieten.
 

@@ -17,7 +17,7 @@ Mantienen alta la motivación y también crean la ambición de mantener un buen 
 
 Crear nuevos hábitos y cambiar los malos: un registro de hábitos puede ayudarle a conseguirlo. En su forma más básica, se trata de una **lista con casillas de verificación** en la que documentas cada día durante un periodo de un mes si has llevado a cabo una acción o no. ¿Te has propuesto meditar todos los días? Marque siempre la casilla si ha cumplido su propósito ese día. Si mantienes tu registro de hábitos con regularidad, obtendrás una imagen que muestra tus **progresos**.
 
-![Este rastreador de hábitos es sencillo y muestra el hábito, el día y, con una línea de color, si se ha realizado el comportamiento.](https://seatable.io/wp-content/uploads/2023/11/prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
+![Este rastreador de hábitos es sencillo y muestra el hábito, el día y, con una línea de color, si se ha realizado el comportamiento.](prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
 
 Tu Rastreador de Hábitos podría tener este aspecto.
 
@@ -43,7 +43,7 @@ Ya se trate de pequeñas cosas de la vida cotidiana o de dar un vuelco a toda tu
 
 Piense en hábitos que **mejoren su vida cotidiana** y puedan integrarse en ella. Date cuenta también de qué hábitos tienes ya y si es necesario cambiarlos. Tanto si quieres deshacerte de malos hábitos como aprender otros nuevos, aquí encontrarás inspiración:
 
-![Muchos malos hábitos pueden romperse y transformarse en nuevos buenos hábitos.](https://seatable.io/wp-content/uploads/2023/11/Design-ohne-Titel-e1701347470819-711x946.jpg)
+![Muchos malos hábitos pueden romperse y transformarse en nuevos buenos hábitos.](Design-ohne-Titel-e1701347470819-711x946.jpg)
 
 Puedes cambiar los malos hábitos por los buenos.
 
@@ -59,7 +59,7 @@ Puedes cambiar los malos hábitos por los buenos.
 
 Muchas **pautas de comportamiento desagradables** se han instalado en nuestra vida cotidiana y se han convertido en hábitos silenciosa y secretamente. Deshacerse de ellos o, en el mejor de los casos, convertirlos en buenos hábitos requiere mucho tiempo y energía. Pero con un **plan**, puede tener éxito en este empeño.
 
-![6 pasos conducen al éxito en el cambio de hábitos.](https://seatable.io/wp-content/uploads/2023/12/Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
+![6 pasos conducen al éxito en el cambio de hábitos.](Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
 
 Este plan le ayudará a alcanzar sus objetivos.
 
@@ -77,7 +77,7 @@ No te guardes tus planes para ti. Al contar tus objetivos a tus amigos o familia
 
 Llevar a cabo sus comportamientos con regularidad requiere una gran **autodisciplina**. Sin embargo, hay consejos que te ayudarán a integrar más rápidamente los hábitos en tu vida cotidiana.
 
-![El libro Atomic Habits contiene los siguientes consejos, que puedes integrar en tu rastreador de hábitos.](https://seatable.io/wp-content/uploads/2023/11/jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
+![El libro Atomic Habits contiene los siguientes consejos, que puedes integrar en tu rastreador de hábitos.](jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
 
 El bestseller de James Clear contiene consejos útiles.
 
@@ -124,7 +124,7 @@ Cualquiera que progrese también tendrá que hacer frente a los contratiempos. N
 
 Como ya se ha mencionado, no hay límites para el diseño de tu Seguidor de Hábitos. La personalización a mano puede ayudar a crear un compromiso adicional a través de la personalización y proporcionar una motivación adicional con el trabajo que ya has invertido.
 
-![La plantilla muestra un enfoque más creativo, trabajando con colores y una forma especial.](https://seatable.io/wp-content/uploads/2023/12/Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
+![La plantilla muestra un enfoque más creativo, trabajando con colores y una forma especial.](Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
 
 Puedes diseñar tu Seguidor de hábitos a mano o con plantillas.
 

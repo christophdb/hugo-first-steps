@@ -20,7 +20,7 @@ Y eso no es todo. Gracias a una gran contribución de la comunidad, ahora podemo
 
 ## Tipo de columna #22: Fórmula para enlaces
 
-![Nuevo tipo de columna Fórmula de enlace](https://seatable.io/wp-content/uploads/2021/05/Column_type_link_formula.png)
+![Nuevo tipo de columna Fórmula de enlace](Column_type_link_formula.png)
 
 La capacidad de establecer relaciones entre las entradas de diferentes tablas es uno de los principales factores de diferenciación de SeaTable con respecto a las hojas de cálculo clásicas, como Excel y Google Sheets. Mientras que estos últimos sólo conocen las referencias de celdas (por ejemplo, para las fórmulas), en SeaTable 1:1, se pueden crear enlaces 1:n y n:m entre las tablas de una base.
 
@@ -30,7 +30,7 @@ Con la nueva columna de fórmulas para los enlaces, se pueden evaluar los enlace
 
 En principio, SeaTable no restringe el tipo de relación entre tablas. Sin embargo, en algunos casos de uso tiene sentido imponer una relación 1:1 o 1:n. Un sistema de gestión de inventarios es un ejemplo sencillo: un proyector sólo puede estar en una sala o con un prestatario en un momento dado. Del mismo modo, una máquina de pruebas no puede estar disponible para varias pruebas al mismo tiempo.
 
-![Nuevos controles para enlazar con las columnas de otros registros](https://seatable.io/wp-content/uploads/2021/05/More_Controls_over_linked_records.png)
+![Nuevos controles para enlazar con las columnas de otros registros](More_Controls_over_linked_records.png)
 
 Con SeaTable 2.0, las columnas de enlace ofrecen ahora la opción de configuración "Permitir enlace a múltiples filas". Activada por defecto, la desactivación del interruptor hace que una entrada de la tabla actual sólo pueda enlazar con una única entrada de la tabla enlazada. Para los dos ejemplos anteriores, esto significa: SeaTable garantiza que no haya que buscar el proyector con varias personas o en varias salas y evita que la máquina de pruebas no esté programada para dos pruebas simultáneas.
 
@@ -40,7 +40,7 @@ Además de la opción de configuración para limitar el _número de entradas_ vi
 
 Los formularios web de SeaTable son increíblemente prácticos para realizar encuestas sencillas. En unos instantes, se crea un cuestionario y está listo para ser enviado. Las respuestas de los participantes en la encuesta van a parar a la base subyacente y pueden analizarse rápida y fácilmente con las distintas herramientas de análisis de SeaTable.
 
-![Nuevo tipo de columna Calificación](https://seatable.io/wp-content/uploads/2021/05/Column_type_rating.png)
+![Nuevo tipo de columna Calificación](Column_type_rating.png)
 
 La nueva columna de valoración es un complemento ideal para este tipo de encuestas: "¿Ha quedado satisfecho con nuestra actuación?" o "¿Nos recomendaría a sus amigos?". Cinco estrellas no dejan lugar a dudas; dos estrellas, en cambio, ofrecen mucho margen de mejora. Sin embargo, el nuevo tipo de columna no sólo es adecuado para las encuestas de satisfacción del cliente. ¿Quiere votar en su equipo el nombre de un nuevo producto? ¿Nuevos clientes potenciales requieren una evaluación rápida para establecer prioridades? La columna de valoración ayuda en todos estos casos.
 
@@ -64,7 +64,7 @@ La columna de geoposición almacena las coordenadas de longitud y latitud como v
 
 Hay columnas en las que siempre hay que introducir prácticamente el mismo valor cuando se crea una nueva entrada, por ejemplo, una columna de estado en la gestión de proyectos o una columna de texto con una cadena inicial uniforme. ¿No se ahorraría mucho tiempo si estos valores pudieran establecerse automáticamente para las nuevas entradas?
 
-![Valores por defecto de las columnas](https://seatable.io/wp-content/uploads/2021/05/Default_values.png)
+![Valores por defecto de las columnas](Default_values.png)
 
 Porque este es exactamente el caso, SeaTable a partir de la versión 2.0 permite la definición de un valor por defecto para los tres tipos de columna texto, número y selección simple. Si se define este valor por defecto, la celda correspondiente de una nueva entrada se rellena automáticamente con el valor por defecto. Si la nueva entrada es la excepción a la regla y el valor establecido automáticamente no se ajusta, entonces se puede sobrescribir manualmente en cualquier momento.
 

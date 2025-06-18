@@ -24,7 +24,7 @@ Was es bedeuten kann, auf einen Notvorrat zurückgreifen zu müssen, ist uns sp�
 
 Bereits beim täglichen Essen ist es meist schwierig, es jedem recht zu machen. Das Gleiche gilt für die Wahl der Nahrung für den Notfall. Besonders wenn Sie für mehrere Personen einen Notvorrat anlegen, sollten Sie die Essgewohnheiten jedes Einzelnen beachten. Ebenso müssen Sie **Allergien** und **Unverträglichkeiten** sowie spezielle Nahrung für Kleinkinder oder Haustiere einplanen. Versuchen Sie nicht, unbekannte Lebensmittel zu kaufen, welche im Ernstfall vielleicht keinem schmecken. Verlassen Sie sich auf gern gegessene Kost, welche Sie in abwechslungsreiche Gerichte verwandeln können.
 
-![Einkaufen mit der Familie, damit alle mit der Zusammenstellung des Notvorrats zufrieden sind.](https://seatable.io/wp-content/uploads/2023/09/pexels-gustavo-fring-3985062-min-1-min-711x474.jpg)
+![Einkaufen mit der Familie, damit alle mit der Zusammenstellung des Notvorrats zufrieden sind.](pexels-gustavo-fring-3985062-min-1-min-711x474.jpg)
 
 Gemeinsames Einkaufen hilft, nur Lebensmittel mitzunehmen, welche auch gegessen werden.
 
@@ -32,7 +32,7 @@ Gemeinsames Einkaufen hilft, nur Lebensmittel mitzunehmen, welche auch gegessen 
 
 Legen Sie Wert darauf, dass die Ernährung nicht zu einseitig wird und achten Sie auf eine ausreichende **Nährstoffzufuhr**. Diese besteht aus Kohlenhydraten, Fetten, Proteinen, Vitaminen und Mineralstoffen, welche den Körper mit Energie versorgen. Außerdem sollte der Kalorienbedarf gedeckt sein. Da dieser bei jedem Menschen unterschiedlich hoch ausfällt, sei es aufgrund des Alters oder der sportlichen Aktivität, sollten Sie diesen vorher ermitteln. Dafür bieten sich [Online-Kalorienrechner](https://www.esn.com/pages/kalorienrechner) an.
 
-![Die wichtigsten Lebensmittel in Ihrem Notvorrat auf einen Blick.](https://seatable.io/wp-content/uploads/2023/09/Notvorratsliste-1-e1695036643833-711x1101.png)
+![Die wichtigsten Lebensmittel in Ihrem Notvorrat auf einen Blick.](Notvorratsliste-1-e1695036643833-711x1101.png)
 
 Die wichtigsten Lebensmittel auf einen Blick
 
@@ -48,7 +48,7 @@ Neben dem Essen müssen Sie genügend Flüssigkeit zu sich nehmen. Ohne Nahrung 
 
 Damit Sie Ihren Vorrat nicht immer wieder von Grund auf neu zusammenstellen müssen, sollten Sie beim Kauf primär auf **lang haltbare Lebensmittel** setzen. Es gibt jedoch auch die Möglichkeit, mit ein paar einfachen Kniffen Ihre selbst gekochten Lieblingsgerichte länger haltbar zu machen. Sie können diese entweder **einfrieren** (im Fall eines Blackouts müssen Sie diese dann zuerst verzehren) oder Sie kochen Ihr Essen ein. Aber Achtung: Beim **Einkochen** gibt es jede Menge zu beachten. Mithilfe einer [Anleitung](https://www.oma-kocht.de/wie-einkochen-anleitung-einsteiger-einwecken/) gelingt es Ihnen gleich beim ersten Versuch. Indem Sie Lebensmittel in einer luftdichten Verpackung an einem kühlen, trockenen und dunklen Ort lagern, erhöhen Sie die Haltbarkeit.
 
-![Neben Dosen und eingekochten Lebensmitteln gehört auch eingelegte Nahrung in Ihren Notvorrat](https://seatable.io/wp-content/uploads/2023/09/cans-881098_640.jpg)
+![Neben Dosen und eingekochten Lebensmitteln gehört auch eingelegte Nahrung in Ihren Notvorrat](cans-881098_640.jpg)
 
 Eine weitere Möglichkeit, Essen haltbar zu machen, ist es einzulegen.
 
@@ -62,7 +62,7 @@ Um zu verhindern, dass die gelagerten Lebensmittel ihr Mindesthaltbarkeitsdatum 
 
 Bauen Sie Ihren Vorrat Stück für Stück weiter aus. Es ist nicht notwendig, alles auf einmal zu kaufen. Gewöhnen Sie sich an, beim Einkaufen eine Packung mehr von haltbaren Nahrungsmitteln mitzunehmen, als Sie es sonst tun würden. Bei **Rabattaktionen** können Sie natürlich auch zuschlagen und größere Mengen kaufen. So sparen Sie Geld und sind gleichzeitig optimal auf alles vorbereitet. Achten Sie dennoch darauf, dass Sie nur das kaufen, was in Ihrer Familie auch gegessen wird.
 
-![Neben Lebensmitteln können auch Hygieneartikel in Rabattaktionen in größeren Mengen gekauft werden](https://seatable.io/wp-content/uploads/2023/09/eduardo-soares-RTPrTSooj0c-unsplash-min-scaled-e1695208799536-711x634.jpg)
+![Neben Lebensmitteln können auch Hygieneartikel in Rabattaktionen in größeren Mengen gekauft werden](eduardo-soares-RTPrTSooj0c-unsplash-min-scaled-e1695208799536-711x634.jpg)
 
 Nutzen Sie Rabattaktionen für Nahrungsmittel, Hygieneartikel und andere nützliche Waren.
 

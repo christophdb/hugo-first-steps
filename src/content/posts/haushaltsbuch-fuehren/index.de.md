@@ -18,7 +18,7 @@ Die eigenen Ausgaben im Blick zu behalten ist manchmal gar nicht so leicht. Viel
 
 Mal ehrlich: Wie oft prüfen Sie Ihre Kontoauszüge und rechnen zusammen, wofür Sie Geld ausgegeben haben? Solange das Konto nicht im Minus ist, scheuen wir meist den Aufwand und wollen es vielleicht gar nicht so genau wissen. Denn wenn wir sehen würden, wie viel die Shoppingtouren, das Ausgehen mit Freunden oder das Rauchen auf Dauer kosten, würden wir womöglich unseren Lebensstil hinterfragen.
 
-![Führen Sie ein Haushaltsbuch](https://seatable.io/wp-content/uploads/2021/12/Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
+![Führen Sie ein Haushaltsbuch](Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg)
 
 Neben unvermeidbaren Fixkosten können auch kleinere Kostenfallen beträchtliche Summen ergeben. Spätestens, wenn Sie feststellen, dass nach Abzug aller Kosten kaum etwas übrig bleibt, sollten Sie handeln. Mit einem Haushaltsbuch können Sie lückenlos dokumentieren, wofür Sie Ihr Geld ausgeben. Verschaffen Sie sich einen Überblick über Ihre laufenden Kosten, um die Gewissheit zu haben, dass Ihr Geld nicht einfach spurlos verschwindet.
 
@@ -71,7 +71,7 @@ Hinterfragen Sie Ihre laufenden Verträge, sehen Sie sich gegebenenfalls nach g�
 
 Sie haben Streaming-Abos von Amazon Prime, Netflix und Sky? Aber mal Hand aufs Herz – wie oft schaffen Sie es im Alltag wirklich, einen Film oder eine ganze Serie zu schauen? Prüfen Sie, ob Sie bestimmte **Streaming-Angebote** wirklich nutzen oder eigentlich darauf verzichten können. Das Gleiche gilt für Musik-Streaming-Dienste wie Spotify und Deezer oder auch **Zeitungen** und **Zeitschriften**, die Sie abonniert haben. Selbst wenn es nur ein paar Euro pro Monat sind, läppern sich die Beträge im Haushaltsbuch mit der Zeit zusammen.
 
-![Streaming-Abonnements ](https://seatable.io/wp-content/uploads/2023/12/nicolas-j-leclercq-fg00hP0VPI8-unsplash.jpg)
+![Streaming-Abonnements ](nicolas-j-leclercq-fg00hP0VPI8-unsplash.jpg)
 
 Unnötige Streaming-Abonnements können ins Geld gehen.
 
@@ -97,7 +97,7 @@ Das Gleiche gilt, wenn eine **Garage**, ein **Parkplatz** oder ein **Kellerraum*
 
 Gerade in größeren Städten lohnt sich ein **eigenes Auto** für viele Menschen kaum noch. Nach der Anschaffung kommen ständige Kosten für den Treibstoff, die Instandhaltung, die Versicherung und das Parken auf Sie zu. Deshalb werden **Car-Sharing-Angebote** immer populärer. Sollten Sie planen, eine längere Strecke zurückzulegen, können Sie über verschiedene **Online-Mitfahrzentralen** Fahrgäste mitnehmen oder sich selbst chauffieren lassen.
 
-![Auto-Stellplatz](https://seatable.io/wp-content/uploads/2023/12/david-schultz-ZLk6gA8EyG0-unsplash.jpg)
+![Auto-Stellplatz](david-schultz-ZLk6gA8EyG0-unsplash.jpg)
 
 Auf ein eigenes Auto verzichten und den Stellplatz vermieten – so sparen Sie Kosten und generieren zugleich Einnahmen.
 
@@ -121,7 +121,7 @@ Nehmen Sie sich vor **größeren Anschaffungen** einige Tage Zeit, um Ihr Budget
 
 Die meisten Supermarktketten lassen **Eigenmarken** produzieren, die deutlich günstiger sind als Markenprodukte, für die kostspielige Werbung gemacht wird. Oft werden die Eigenmarken aber in genau denselben Fabriken und mit denselben Zutaten hergestellt wie die teureren Markenprodukte. Wenn Sie vermehrt auf Eigenmarken setzen, können Sie beim Einkauf bis zu 30 Prozent sparen, ohne Qualität einzubüßen.
 
-![Kosten für Essen im Haushaltsbuch erfassen](https://seatable.io/wp-content/uploads/2023/12/cristiano-pinto-2lWGQ02DGL8-unsplash.jpg)
+![Kosten für Essen im Haushaltsbuch erfassen](cristiano-pinto-2lWGQ02DGL8-unsplash.jpg)
 
 Fertiggerichte für jede Mittagspause können kostspielig sein. Hier können Sie nicht nur mit Eigenmarken, sondern auch mit selbstgekochten Mahlzeiten sparen.
 

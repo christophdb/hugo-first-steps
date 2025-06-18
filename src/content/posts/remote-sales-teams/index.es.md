@@ -12,7 +12,7 @@ seo:
 
 La mayoría de las empresas toman medidas para permitir el trabajo desde casa y organizan seminarios en línea u otros eventos para sus empleados, además de las opciones de oficina en casa. Pero: se empieza a echar de menos hasta al colega más pesado y también falta la charla en la máquina de café. Con un equipo que trabaja casi exclusivamente a distancia, a veces es difícil mantenerse al día y [la productividad](https://seatable.io/es/homeoffice-tipps/) suele [resentirse](https://seatable.io/es/homeoffice-tipps/) por ello. Por suerte, existe un método que puede ayudarle a recuperar su productividad a distancia. Con reuniones diarias, puede mejorar la productividad de su equipo en muy poco tiempo.
 
-![La productividad se resiente por no mantener una comunicación informal](https://seatable.de/wp-content/uploads/2021/04/Bildschirmfoto-2021-04-21-um-14.59.01.png)
+![La productividad se resiente por no mantener una comunicación informal](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 
 [Fuente de la imagen](https://www.odgersberndtson.com/media/9459/sonderausgabe-managerbarometer-corona.pdf)
 
@@ -56,7 +56,7 @@ Hay que tener cuidado con la tercera pregunta. Aquí es donde existe el mayor po
 
 Aquí es donde las reuniones en línea tienen por fin una ventaja. Cuando se trata de ser puntual, tienes menos motivos para llegar tarde a casa porque no tienes que desplazarte físicamente a una sala de reuniones. En general, debe establecer una cultura corporativa en la que se convierta en norma llegar a tiempo (si no un poco antes) a la reunión.
 
-![Vigilar el tiempo](https://seatable.io/wp-content/uploads/2020/07/sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
+![Vigilar el tiempo](sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
 
 Empezar las reuniones con retraso es en realidad una queja muy común del personal en general. También hay quejas por el mal momento de una reunión. O se tarda demasiado o se programa demasiado poco. Empezar a tiempo y terminar a tiempo, incluso si alguien llega tarde.
 

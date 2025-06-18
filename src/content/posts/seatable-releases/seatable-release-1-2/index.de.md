@@ -18,7 +18,7 @@ Wir freuen uns, SeaTable in der Version 1.2 in den Produktivbetrieb zu übernehm
 
 Die Startseite sah in der Vergangenheit etwas langweilig aus. Das ist nun vorbei! In der neuen Version können Sie das Symbol und die Farbe jeder Base ändern. Ihnen stehen insgesamt 12 Farben und mehr als 25 Symbole zur Verfügung. Klicken Sie einfach auf das Stift-Symbol rechts neben dem Basenamen und gestalten Sie das Aussehen Ihrer Bases ganz nach Ihren Wünschen.
 
-![](https://seatable.io/wp-content/uploads/2020/08/baseColorAndIcon-711x501.jpg)
+![](baseColorAndIcon-711x501.jpg)
 
 Das Anpassen von Base-Symbolen und -farben hilft Ihnen dabei, Ihre Bases besser zu organisieren und schneller wiederzufinden, insbesondere wenn Sie viele Bases in SeaTable haben. In einer zukünftigen Version wird die Farbe des Base-Headers in der Tabellenansicht mit der Farbe des Base-Symbols synchronisiert.
 
@@ -34,7 +34,7 @@ In SeaTable haben Sie immer den Überblick über die Vorgänge in Ihren Bases. D
 
 Ein Snapshot erfasst den Zustand einer Base zum Zeitpunkt seiner Erstellung. Mit anderen Worten: Snapshots sind im Grunde Maschinen, um in die Vergangenheit zu reisen. Sie möchten sehen, wie eine Base vor drei Tagen aussah? Vergessen Sie das Log, benutzen Sie einen Snapshot!
 
-![](https://seatable.io/wp-content/uploads/2020/08/Snapshots.png)
+![](Snapshots.png)
 
 Sie können die verfügbaren Snapshots einer Base in der Tabellenansicht oder über die erweiterten Optionen der Base auf der Startseite aufrufen. (Beachten Sie, dass die Dauer, für die SeaTable Ihre Snapshots speichert, von Ihrem Abonnement abhängig ist.) Beim Wiederherstellen eines Snapshots wird eine neue Base erstellt. Machen Sie sich also keine Sorgen, dass Sie Ihre aktuelle Base bei der Wiederherstellung eines Snapshots überschreiben.
 
@@ -44,7 +44,7 @@ Die vielseitigen Ansichten sind eine der besten Funktionen von SeaTable. Sortier
 
 Die Ansichtsfunktion ist jetzt noch stärker geworden! In der Vergangenheit war das Erstellen einer neuen Ansicht, die einer vorhandenen Ansicht ähnlich war, etwas aufwändiger. Alle Sortier-, Gruppier- und Filterbedingungen mussten von Grund auf neu eingerichtet werden. Dieser Frustfaktor ist nun weg. Mit SeaTable 1.2 lassen sich Ansichten duplizieren.
 
-![](https://seatable.io/wp-content/uploads/2020/08/duplicate_view.png)
+![](duplicate_view.png)
 
 Im Ansichtsmenü finden Sie den Menüpunkt ‘Ansicht duplizieren’. Mit einem Klick wird eine neue Ansicht basierend auf der vorhandenen erstellt. Die Anpassungen an den Sortier-, Gruppier- und Filterbedingungen in dieser neuen Ansicht sind dann schnell vorgenommen.
 
@@ -56,7 +56,7 @@ Eine SeaTable Base lässt sich mühelos mit anderen Benutzern teilen. Dank der F
 
 Anstatt eine gesamte Base zu teilen, haben Enterprise-Abonnenten jetzt die Möglichkeit, nur bestimmte Ansichten auf die Daten einer Base zu teilen. Filtern Sie die Daten, blenden Sie Spalten aus, sortieren und gruppieren Sie die Datensätze so, dass die Ansicht die gewünschte Botschaft laut und deutlich spricht, und stellen Sie nur diese Ihren Kollegen zur Verfügung. Dafür ist die neue Funktion ‘Ansicht teilen’ gedacht.
 
-![](https://seatable.io/wp-content/uploads/2020/08/share_view.png)
+![](share_view.png)
 
 Wenn Sie eine Base freigeben – auch wenn dies schreibgeschützt erfolgt – legen Sie alle in der Base gespeicherten Daten offen. Bei einer geteilten Ansicht haben die Empfänger nur Zugriff auf die Daten, die sie sehen sollen.
 
@@ -64,7 +64,7 @@ Wenn Sie eine Base freigeben – auch wenn dies schreibgeschützt erfolgt – le
 
 Sie wollen eine Base mit anderen Teammitgliedern teilen, möchten aber verhindern, dass diese den Inhalt einer oder mehrerer Zeilen ändern? Dann hat SeaTable 1.2 genau das, was Sie brauchen: die neue Funktion zum Sperren von Zeilen.
 
-![](https://seatable.io/wp-content/uploads/2020/08/lock_row.png)
+![](lock_row.png)
 
 Ein Rechtsklick auf eine Zelle ruft das Kontextmenü der Zeile auf, wo Sie die neue Option ‘Zeile sperren’ finden. Sobald eine Zeile gesperrt ist, wird in der oberen rechten Ecke der Zeilennummer ein rotes Dreieck angezeigt. Wiederholen Sie den Vorgang zum Entsperren. Base-Administratoren (Basebesitzer sowie Gruppenadministratoren) können jede Zeile entsperren; andere Benutzer können nur von sich selbst gesperrte Zeilen entsperren.
 
@@ -72,7 +72,7 @@ Ein Rechtsklick auf eine Zelle ruft das Kontextmenü der Zeile auf, wo Sie die n
 
 Neben der Zeilensperrung können Base-Administratoren auch den Zugriff auf bestimmte Spalten beschränken. Mit SeaTable 1.2 können Sie entscheiden, wer Einträge in einer Spalte bearbeiten darf: niemand, nur Admins oder bestimmte Benutzer. Unnötig zu erwähnen: Spaltenberechtigungen können natürlich mit Zeilensperren kombiniert werden.
 
-![](https://seatable.io/wp-content/uploads/2020/08/column_permission.png)
+![](column_permission.png)
 
 Spaltenberechtigungen sind für alle Spaltentypen verfügbar. Öffnen Sie das Spaltenkontextmenü und wählen Sie ‘Spaltenberechtigungen bearbeiten’. Der Assistent, der auftaucht, führt Sie durch den Rest.
 

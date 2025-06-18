@@ -51,7 +51,7 @@ seo:
 
 Это основные шаги, которые обеспечат полный успех мальчишника:
 
-![Контрольный список для мальчишника](https://seatable.io/wp-content/uploads/2023/04/Checkliste-Junggesellenabschied.png)
+![Контрольный список для мальчишника](Checkliste-Junggesellenabschied.png)
 
 Для идеального мальчишника вам следует отметить эти пункты.
 
