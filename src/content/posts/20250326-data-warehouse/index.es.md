@@ -84,7 +84,7 @@ Supongamos que dirige una **tienda online** y desea analizar los datos de ventas
 
 ## Diferencias entre un almacén de datos y una base de datos
 
-Un almacén de datos y una base de datos son dos [sistemas de gestión de datos](https://seatable.com/es/datenmanagement/) diferentes. Mientras que una base de datos suele centrarse en el **almacenamiento de datos**, el sistema de almacén de datos traza un proceso más largo, desde la adquisición de datos hasta su análisis, pasando por su integración y preparación. No obstante, los almacenes de datos también almacenan enormes cantidades de datos en una base de datos central, que es el corazón de toda solución DWH. A su vez, un almacén de datos sirve de **base para los análisis y la elaboración de informes** en toda la empresa.
+Un almacén de datos y una base de datos son dos [sistemas de gestión de datos]({{< relref "posts/20250317-datenmanagement" >}}) diferentes. Mientras que una base de datos suele centrarse en el **almacenamiento de datos**, el sistema de almacén de datos traza un proceso más largo, desde la adquisición de datos hasta su análisis, pasando por su integración y preparación. No obstante, los almacenes de datos también almacenan enormes cantidades de datos en una base de datos central, que es el corazón de toda solución DWH. A su vez, un almacén de datos sirve de **base para los análisis y la elaboración de informes** en toda la empresa.
 
 | **Almacén de datos** | **Base de datos** |
 | -------------------- | ----------------- |

@@ -82,7 +82,7 @@ Sin embargo, el software estándar de gestión de carteras, como Microsoft Proje
 
 #### 6\. Gestión de la calidad, la información y el conocimiento
 
-Al final, el factor decisivo es si la **calidad de los proyectos** es la adecuada y si consiguen los resultados deseados con un uso apropiado de los recursos. En particular, si dispone de una Oficina de Gestión de Proyectos (PMO), puede establecer **normas uniformes para una gestión eficaz de los proyectos** en su organización, que garanticen la aplicación de determinados [métodos de gestión de proyectos](https://seatable.com/es/projektmanagement-methoden/), procesos y herramientas. Una PMO ofrece a los gestores de proyectos asesoramiento y apoyo y se encarga de la gestión de la calidad, la información y el conocimiento entre proyectos, por ejemplo con instrucciones, documentación y formación.
+Al final, el factor decisivo es si la **calidad de los proyectos** es la adecuada y si consiguen los resultados deseados con un uso apropiado de los recursos. En particular, si dispone de una Oficina de Gestión de Proyectos (PMO), puede establecer **normas uniformes para una gestión eficaz de los proyectos** en su organización, que garanticen la aplicación de determinados [métodos de gestión de proyectos]({{< relref "posts/20250308-projektmanagement-methoden" >}}), procesos y herramientas. Una PMO ofrece a los gestores de proyectos asesoramiento y apoyo y se encarga de la gestión de la calidad, la información y el conocimiento entre proyectos, por ejemplo con instrucciones, documentación y formación.
 
 ## Gestión de la cartera de productos
 
@@ -162,7 +162,7 @@ Ya sea un propietario privado, una empresa o una asociación municipal de la viv
 
 [Aprenda a utilizar la plantilla de cartera de propiedades de SeaTable en su beneficio aquí]({{< relref "templates/real-estate/property-management" >}})
 
-Encontrará más información en el artículo [Gestión de la propiedad](https://seatable.io/es/hausverwaltung/) para propietarios privados o en el artículo [Gestión de la propiedad](https://seatable.com/es/liegenschaftsverwaltung/) para empresas y organizaciones municipales.
+Encontrará más información en el artículo [Gestión de la propiedad](https://seatable.io/es/hausverwaltung/) para propietarios privados o en el artículo [Gestión de la propiedad]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}) para empresas y organizaciones municipales.
 
 ## Gestión clara de la cartera con SeaTable
 

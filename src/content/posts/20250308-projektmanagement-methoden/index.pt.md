@@ -126,7 +126,7 @@ Seguem-se dois métodos de gestão de projectos que se centram na ilustração g
 
 ### 9\. Estrutura analítica do trabalho
 
-No [plano de estrutura do projeto](https://seatable.com/pt/projektstrukturplan/), registam-se todas as tarefas do projeto num único gráfico. Pode então criar pacotes de trabalho, atribuir responsabilidades e estabelecer prazos.
+No [plano de estrutura do projeto]({{< relref "posts/20250317-projektstrukturplan" >}}), registam-se todas as tarefas do projeto num único gráfico. Pode então criar pacotes de trabalho, atribuir responsabilidades e estabelecer prazos.
 
 O plano de estruturação do trabalho é adequado para acompanhar grandes projectos. Tem origem na gestão clássica de projectos e é por vezes difícil de adaptar aos métodos ágeis. No entanto, nos projectos em que é necessária uma visão global, é possível racionalizar e simplificar o plano para que este permaneça claro e seja fácil fazer alterações.
 

@@ -125,7 +125,7 @@ A continuación vienen dos métodos de gestión de proyectos que hacen hincapié
 
 ### 9\. Estructura de desglose del trabajo
 
-En la [estructura de desglose del trabajo](https://seatable.com/es/projektstrukturplan/), se registran todas las tareas del proyecto en un único gráfico. A continuación, puedes crear paquetes de trabajo, asignar responsabilidades y fijar plazos.
+En la [estructura de desglose del trabajo]({{< relref "posts/20250317-projektstrukturplan" >}}), se registran todas las tareas del proyecto en un único gráfico. A continuación, puedes crear paquetes de trabajo, asignar responsabilidades y fijar plazos.
 
 La estructura de desglose del trabajo es adecuada para controlar grandes proyectos. Procede de la gestión clásica de proyectos y a veces es difícil adaptarla a los métodos ágiles. Sin embargo, en proyectos en los que necesitas una visión de conjunto, puedes racionalizar y simplificar el plan para que siga siendo claro y puedas hacer cambios fácilmente.
 
