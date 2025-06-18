@@ -123,11 +123,11 @@ Uma vez que quase ninguém se consegue lembrar de mais de dez palavras-passe dif
 
 Outro software de base de dados que lhe permite gerir o seu património digital de uma forma clara, flexível e segura chama-se **SeaTable**. Com ele, pode armazenar não só todas as suas contas, nomes de utilizador e palavras-passe, mas também toda a informação adicional que desejar.
 
-![Gestor de palavras-passe](images/Screenshot-2023-10-31-132220.png)
+![Gestor de palavras-passe](Screenshot-2023-10-31-132220.png)
 
 Utilize um gestor de palavras-passe para documentar o seu património digital.
 
-Se pretender utilizar o gestor de palavras-passe do SeaTable para o seu património digital, pode [ver o modelo aqui]({{< relref "templates/everyday-life/password-manager" >}}). Se estiver interessado, basta [registar-se](https://seatable.io/pt/registrierung/) gratuitamente e criar uma visão geral com os seus próprios dados.
+Se pretender utilizar o gestor de palavras-passe do SeaTable para o seu património digital, pode [ver o modelo aqui]({{< relref "templates/everyday-life/password-manager" >}}). Se estiver interessado, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente e criar uma visão geral com os seus próprios dados.
 
 ## Conclusão: O património digital é mais importante do que nunca
 

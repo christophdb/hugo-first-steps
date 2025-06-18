@@ -44,7 +44,7 @@ Las personas que ya no pueden pagar los alquileres de su ciudad tienen derecho a
 
 Existen varios métodos cotidianos para encontrar piso. Por ejemplo, algunos propietarios se anuncian en **los periódicos locales** o **ponen carteles** por la ciudad. Así que vale la pena estar atento. También es posible que **amigos** o **conocidos** sepan quién busca inquilinos o dónde hay un piso disponible.
 
-Si esto le lleva demasiado tiempo, también puede recurrir a agencias más oficiales. Los inquilinos también pueden recurrir a **agentes inmobiliarios** para encontrar alojamiento, aunque cobrarán una comisión. Según la ley, la comisión del agente inmobiliario no puede superar los dos alquileres fríos netos más IVA. Otra opción es contactar directamente con **empresas de gestión inmobiliaria**. Suelen tener una [visión de conjunto](https://seatable.io/es/hausverwaltung/) y pueden ofrecer pisos que quedarán disponibles en breve.
+Si esto le lleva demasiado tiempo, también puede recurrir a agencias más oficiales. Los inquilinos también pueden recurrir a **agentes inmobiliarios** para encontrar alojamiento, aunque cobrarán una comisión. Según la ley, la comisión del agente inmobiliario no puede superar los dos alquileres fríos netos más IVA. Otra opción es contactar directamente con **empresas de gestión inmobiliaria**. Suelen tener una [visión de conjunto]({{< relref "posts/hausverwaltung" >}}) y pueden ofrecer pisos que quedarán disponibles en breve.
 
 {{< warning headline="Consejo" text="En caso de cancelación, conviene preguntar al propietario si existe una **lista de interesados**. Sobre todo si son propietarios de varias viviendas de alquiler, pueden ponerse en contacto contigo en cuanto haya otro piso disponible." />}}
 

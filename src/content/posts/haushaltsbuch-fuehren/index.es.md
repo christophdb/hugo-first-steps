@@ -90,7 +90,7 @@ Noches de juegos, fiestas o cocinar algo delicioso juntos: **Las actividades en 
 
 {{< warning headline="Atención" text="Si no es usted el propietario de su piso, el arrendador debe dar su consentimiento al subarriendo." />}}
 
-Lo mismo ocurre si en su casa hay un **garaje**, un **aparcamiento** o **un sótano** que no necesita. [Alquilar una propiedad](https://seatable.io/es/hausverwaltung/) puede generar muchos ingresos a largo plazo, lo que complacerá el presupuesto de tu hogar.
+Lo mismo ocurre si en su casa hay un **garaje**, un **aparcamiento** o **un sótano** que no necesita. [Alquilar una propiedad]({{< relref "posts/hausverwaltung" >}}) puede generar muchos ingresos a largo plazo, lo que complacerá el presupuesto de tu hogar.
 
 ### 6\. utilizar el transporte público, el coche compartido y el coche compartido
 
@@ -140,7 +140,7 @@ En lugar de eso, asegúrate de seguir una dieta equilibrada, hacer suficiente ej
 
 ### 12\. fin de los vicios caros
 
-Los malos hábitos, como el consumo habitual de **alcohol, cigarrillos o café**, pueden costarle rápidamente más de 100 euros al mes. Sin embargo, hay varios métodos que puede utilizar para [cambiar](https://seatable.io/es/habit-tracker-gewohnheiten-aendern/) sus hábitos a largo plazo. Con fuerza de voluntad y el apoyo de amigos y familiares, podrá deshacerse de vicios caros sin los cuales podrá vivir más sano y ahorrar mucho dinero a largo plazo.
+Los malos hábitos, como el consumo habitual de **alcohol, cigarrillos o café**, pueden costarle rápidamente más de 100 euros al mes. Sin embargo, hay varios métodos que puede utilizar para [cambiar]({{< relref "posts/habit-tracker" >}}) sus hábitos a largo plazo. Con fuerza de voluntad y el apoyo de amigos y familiares, podrá deshacerse de vicios caros sin los cuales podrá vivir más sano y ahorrar mucho dinero a largo plazo.
 
 Al mismo tiempo, puedes establecer hábitos positivos: Por ejemplo, beber agua en lugar de **las** caras **bebidas energéticas** es bueno para la salud. Tu presupuesto se alegrará, sobre todo si renuncias al agua embotellada y utilizas **agua del grifo** en su lugar.
 

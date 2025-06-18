@@ -90,7 +90,7 @@ Die Ergebnisse solcher Abfragen können Sie als **Ansicht** speichern, die eine 
 
 Mussten Sie in der Vergangenheit noch bestimmte Computersprachen erlernen, um oben genannte Datenabfragen zu verwirklichen, so gibt es heute viele Datenbanksysteme wie SeaTable, die mit einer intuitiven grafischen Benutzeroberfläche ausgestattet sind. Diese ermöglichen auch Anfängern, Datenbanken sofort zu nutzen, um Ihren Workflow zu verbessern.
 
-![Vorteile von Datenbanken wie SeaTable](images/Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
+![Vorteile von Datenbanken wie SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
 Im Gegensatz zu klassischen Datenbanken hat SeaTable eine grafische Benutzeroberfläche.
 

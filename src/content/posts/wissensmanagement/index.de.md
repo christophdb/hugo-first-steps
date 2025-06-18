@@ -100,7 +100,7 @@ Im **Kundensupport** beispielsweise kann Ihnen ein ausgefeiltes Wissensmanagemen
 
 Ersparen Sie Ihren Mitarbeitern viel Arbeit, indem Sie Ihren Kunden Hilfe zur Selbsthilfe anbieten.
 
-[Dieser Hilfebereich](https://seatable.io/docs/) ist ein Beispiel für ein gut geführtes Wissensmanagementsystem. Dadurch senken Sie einerseits den Supportaufwand Ihrer Mitarbeiter und ersparen andererseits Ihren Kunden eine lange Wartezeit.
+[Dieser Hilfebereich]({{< relref "help" >}}) ist ein Beispiel für ein gut geführtes Wissensmanagementsystem. Dadurch senken Sie einerseits den Supportaufwand Ihrer Mitarbeiter und ersparen andererseits Ihren Kunden eine lange Wartezeit.
 
 ### Interner Einsatz
 
@@ -112,7 +112,7 @@ Eine **Unternehmenskultur**, die auf gemeinsamem Wissen basiert, hilft jedem ein
 
 Wenn Sie überlegen, ob sich ein Wissensmanagementsystem für Ihr Unternehmen rentiert, seien Sie unbesorgt: Langfristig lohnt sich Wissensmanagement immer! Es gibt jedoch einige **Herausforderungen**, mit denen Sie rechnen sollten.
 
-![Wissensmanagement hat viele Vorteile, sieht sich aber besonders zu Beginn des Prozesses mit einigen Herausforderungen konfrontiert.](images/Vor-und-Nachteile-von-Wissensmanagement.png)
+![Wissensmanagement hat viele Vorteile, sieht sich aber besonders zu Beginn des Prozesses mit einigen Herausforderungen konfrontiert.](Vor-und-Nachteile-von-Wissensmanagement.png)
 
 Wägen Sie die beiden Seiten gegeneinander ab.
 
@@ -189,11 +189,11 @@ Um die für Ihr Unternehmen passende Software zu finden, sollten Sie mehrere Lö
 
 Eine gute Antwort auf all diese Fragen ist die intuitiv und unkompliziert zu bedienende Wissensdatenbank **SeaTable**. Auf verschiedenen Ebenen (Bases, Tabellen, Ansichten, Zeilen) ermöglicht sie es Ihnen und Ihren Mitarbeitern, Informationen strukturiert zu erfassen, schnell zu finden, einfach mit anderen zu teilen oder nach Relevanz für eine betreffende Personengruppe zu filtern. So behalten Sie und Ihre Mitarbeiter stets den Überblick.
 
-![Die Dokumentation von Wissen ist mit SeaTable eine einfache Aufgabe](images/knowledge-management.jpg)
+![Die Dokumentation von Wissen ist mit SeaTable eine einfache Aufgabe](knowledge-management.jpg)
 
-Wenn Sie sich für SeaTable entscheiden, geben Sie Ihren Mitarbeitern einen ganzen Werkzeugkasten an die Hand, mit dem sie eine flexible Wissensdatenbank aufbauen können. SeaTable unterstützt die [Zusammenarbeit](https://seatable.io/docs/seatable-nutzen/zusammenarbeit/) in Echtzeit, samt [Kommentaren](https://seatable.io/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) und vollständiger [Änderungshistorie](https://seatable.io/docs/historie-und-versionen/historie-und-logs/). So können Sie und Ihre Mitarbeiter Ihr persönliches, implizites Wissen in explizites Wissen umwandeln und anderen bereitstellen. SeaTable bietet Ihnen darüber hinaus die Möglichkeit, Daten mithilfe verschiedener [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) und [Apps](https://seatable.io/docs/apps/universelle-app/) grafisch zu visualisieren.
+Wenn Sie sich für SeaTable entscheiden, geben Sie Ihren Mitarbeitern einen ganzen Werkzeugkasten an die Hand, mit dem sie eine flexible Wissensdatenbank aufbauen können. SeaTable unterstützt die [Zusammenarbeit]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) in Echtzeit, samt [Kommentaren](https://seatable.io/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) und vollständiger [Änderungshistorie](https://seatable.io/docs/historie-und-versionen/historie-und-logs/). So können Sie und Ihre Mitarbeiter Ihr persönliches, implizites Wissen in explizites Wissen umwandeln und anderen bereitstellen. SeaTable bietet Ihnen darüber hinaus die Möglichkeit, Daten mithilfe verschiedener [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) und [Apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) grafisch zu visualisieren.
 
-SeaTable können Sie in der Cloud nutzen, die DSGVO-konform in deutschen Rechenzentren gehostet wird, oder [On-Premises](https://seatable.io/on-premises/) auf Ihren eigenen Servern installieren. So sind Ihre Daten in jedem Fall sicher! Über Berechtigungen können Sie zudem an vielen Stellen in SeaTable genau steuern, wer welche Daten sehen und bearbeiten darf.
+SeaTable können Sie in der Cloud nutzen, die DSGVO-konform in deutschen Rechenzentren gehostet wird, oder [On-Premises]({{< relref "pages/product/seatable-server" >}}) auf Ihren eigenen Servern installieren. So sind Ihre Daten in jedem Fall sicher! Über Berechtigungen können Sie zudem an vielen Stellen in SeaTable genau steuern, wer welche Daten sehen und bearbeiten darf.
 
 ## Fazit: Bauen Sie Ihr eigenes Wissensmanagement auf
 

@@ -162,7 +162,7 @@ Ya sea un propietario privado, una empresa o una asociación municipal de la viv
 
 [Aprenda a utilizar la plantilla de cartera de propiedades de SeaTable en su beneficio aquí]({{< relref "templates/real-estate/property-management" >}})
 
-Encontrará más información en el artículo [Gestión de la propiedad](https://seatable.io/es/hausverwaltung/) para propietarios privados o en el artículo [Gestión de la propiedad]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}) para empresas y organizaciones municipales.
+Encontrará más información en el artículo [Gestión de la propiedad]({{< relref "posts/hausverwaltung" >}}) para propietarios privados o en el artículo [Gestión de la propiedad]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}) para empresas y organizaciones municipales.
 
 ## Gestión clara de la cartera con SeaTable
 

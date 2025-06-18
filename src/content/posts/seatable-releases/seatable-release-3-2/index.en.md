@@ -19,13 +19,13 @@ Since this morning the latest version is running on [SeaTable Cloud](https://clo
 
 The Formula Wizard previously offered little guidance when creating complex formulas. With the new formula wizard, even interconnected formulas with various column references and multiple functions can be created quickly. It provides interactive support during input and, if something does go wrong, offers meaningful error messages for quick troubleshooting.
 
-![Seatable's interactive formula wizard](images/SeaTable3.2_FormulaWizard.png)
+![Seatable's interactive formula wizard](SeaTable3.2_FormulaWizard.png)
 
 Where previously there was only gray text, there is now a clear color language: formulas are displayed in blue font, column references are purple, numbers are green and text appears in red. Brackets - round as well as curly ones - are automatically closed when typing and a fine shadow marks connected brackets. Single and double quotation marks for plain text are also automatically doubled to speed up typing. Of course, the new wizard works not only for new formulas, but also for existing ones.
 
 ## Versatile button
 
-![SeaTable's button can now execute two actions with one click](images/SeaTable3.2_ButtonColumn.png)
+![SeaTable's button can now execute two actions with one click](SeaTable3.2_ButtonColumn.png)
 
 Until now, the rule was "1 button - 1 action". This rule goes overboard with SeaTable 3.2. The new rule is "1 button - you choose the number of actions". For example, in SeaTable 3.2 you create a PDF document with the page design plugin with one click and then send it by email. Also, the row can be locked afterwards or cell values can be changed automatically (e.g. a status change). The available actions can be combined in any way. Existing buttons can, of course, also be assigned additional actions, making tables leaner and simpler.
 
@@ -39,7 +39,7 @@ Even with these improvements, the column type button remains in active developme
 
 In SeaTable 3.2 a new element decorates selected cells in columns of type File and Image. A click on the double arrow opens a pop-up that shows the files of the cell in a list view. Previously, this required a click in the white space between the file icons - not infrequently a ticklish endeavor. We have also improved the file pop-up itself. The 3-dot icon for the advanced functions can now be used to rename files. Previously, this required a download and re-upload.
 
-![Updated file column in SeaTable 3.2](images/SeaTable3.2_FileColumn.png)
+![Updated file column in SeaTable 3.2](SeaTable3.2_FileColumn.png)
 
 Another new feature is the ability to convert image columns to file columns without losing the cell contents. This is especially relevant if you want to use the former for e-mail attachments. The action "Send e-mail" currently supports only the column type File. (The lossless conversion only works if the images are stored in SeaTable. It does not work for images that are embedded via a link).
 
@@ -51,7 +51,7 @@ The use of single select fields in the page design plugin previously suffered fr
 
 ## More powerful automations
 
-![SeaTable 3.2 supports pausing an automation](images/SeaTable3.2_PauseAutomations_400x361.png)
+![SeaTable 3.2 supports pausing an automation](SeaTable3.2_PauseAutomations_400x361.png)
 
 The possibilities for managing automations are extended in SeaTable 3.2 in two places. First, warnings are now also displayed in the automation execution log. For example, a warning is logged if an automation rule applies to a large number of rows and triggers a correspondingly large number of actions. Warnings are thus used to provide indications of problems in the configuration of an automation. The possibility to pause an automation is the second added feature in SeaTable 3.2. A click on the corresponding icon stops the execution of the automation until further notice. A corresponding hint marks paused automations.
 
@@ -72,6 +72,6 @@ A new data processing operation 'Transfer user name' reads a column of the type 
 When a new column is added to a table, SeaTable checks if there are hidden columns in other views. If this is the case, then the newly created column will be hidden in these views as well.
 
 In addition to the improved display of single-selection fields, the page design gets another improvement: Multiple elements can now be aligned collectively, as known from PowerPoint, for example.  
-![Multiple elements can be aligned in SeaTable 3.2's page design plugin](images/SeaTable3.2-ElementAlignment.png)
+![Multiple elements can be aligned in SeaTable 3.2's page design plugin](SeaTable3.2-ElementAlignment.png)
 
 Last but not least, the Timeline plugin is happy about an improvement: Groupings in a view can now also be displayed in the plugin. Specifically: The entries in a grouping are displayed separated from each other by swimlanes.

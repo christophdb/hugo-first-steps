@@ -17,13 +17,13 @@ One of the most beautiful and important days in life is just around the corner: 
 
 Usually the planning of a wedding starts about 13 months before the big day. If you want to have a popular wedding location, sometimes even earlier. It is important not to lose track of the sheer number of tasks. That's why at the centre of our Wedding [Planner]({{< relref "templates/events/wedding-planner" >}}) template is the _checklist_ with already over 200 predefined tasks. In addition, this table records when the corresponding to-do must be completed. There is always a superordinate to-do, which contains several individual sub-items to guide you through the whole process. The _Check_ column is a [checkbox column](https://seatable.io/en/docs/handbuch/datenmanagement/feld-typen/?lang=auto#checkbox) that is used to tick off completed to-dos.
 
-![Wedding Planning Checklist](images/wedding-more-than-200-todos.png)
+![Wedding Planning Checklist](wedding-more-than-200-todos.png)
 
 Our wedding planning checklist already contains over 200 to-dos so that you don't forget anything.
 
 ### Create your own to-dos
 
-To start planning your own wedding, you need to [register for a SeaTable Free Account](https://seatable.io/en/registrierung/?lang=auto). You can then start planning your wedding using our Wedding _Planner_ template.
+To start planning your own wedding, you need to [register for a SeaTable Free Account]({{< relref "pages/registration" >}}). You can then start planning your wedding using our Wedding _Planner_ template.
 
 You can insert additional or further to-dos at any point in the template. When you assign a new _Parent To-do_, a new group of tasks is automatically created. The sorting of the task groups is done automatically based on the lead time to your wedding. Want to give the tasks a specific date? Simply add a new [date column](https://seatable.io/en/docs/handbuch/datenmanagement/feld-typen/?lang=auto#datum) and assign a date to each to-do.
 
@@ -48,7 +48,7 @@ We have prepared 5 different views to help you make 5 important decisions:
 4. For entertainment there is the \_Entertainment_view
 5. For the food there is the view of possible _caterers_
 
-![Wedding planning](images/Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
+![Wedding planning](Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
 
 ### Wedding planning is about decisions
 
@@ -75,7 +75,7 @@ There is room for everything possible in the notes, perhaps there are personal p
 
 In order to avoid an additional chaos of notes on the dining table in addition to the chaotic wedding planning, we thought of solving the seating plan problem digitally. By linking the two tables _Guestlist_ and _Seating Chart_, you can assign each guest in the _Guestlist_ table to a table you have previously defined in the _Seating Chart_ table. If it is clearer for you, you can also assign the individual guests to their tables in the _Seating Chart_ table the other way round. If you click on a table in the _guest list_, you can see directly who is already sitting at the table.
 
-![](images/Bildschirmfoto-2021-07-13-um-14.29.48.png)
+![](Bildschirmfoto-2021-07-13-um-14.29.48.png)
 
 Again, there are different views for the guest list to help you even more. We have created a view that shows you which [invitations](https://www.pinterest.de/mhochzeitsdeko/einladungenskarten-hochzeit/) have not yet been sent. A view shows you the different menu requests. Perhaps it would also be an option for you to [share](https://seatable.io/en/docs/handbuch/zusammenarbeit/externe-links/?lang=auto) this view directly with the caterer, so they can plan the menu more easily. Last but not least, there are three individual views for each celebration, because as we know, not every guest comes to every part of the celebration. So with one click you have a direct overview of the people who will be present in each case.
 
@@ -93,7 +93,7 @@ With our 200+ point _checklist_, nothing can go wrong when planning your wedding
 
 Even if your wedding is a bit more special or you have different requirements, SeaTable is fully customizable. Add tables, create [different views](https://seatable.io/en/docs/handbuch/datenmanagement/ansichten/?lang=auto), [group and filter](https://seatable.io/en/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) your data and views or try out the [plugins](https://seatable.io/en/docs/handbuch/schnelleinstieg/erweiterungen/?lang=auto) that suit you best. For example, it would be conceivable to integrate a wish list into the Wedding Planner and the guests can enter via web form in advance which gift they will choose. With SeaTable, the web form could be designed so that guests only see gifts that no other guest has chosen yet. There really are no limits to the imagination.
 
-[Register now](https://seatable.io/en/registrierung/?lang=auto) and start planning your wedding. The whole SeaTable team wishes you lots of fun and a great wedding!
+[Register now]({{< relref "pages/registration" >}}) and start planning your wedding. The whole SeaTable team wishes you lots of fun and a great wedding!
 
 ### German video instructions on YouTube
 

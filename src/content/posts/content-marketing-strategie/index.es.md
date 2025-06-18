@@ -128,7 +128,7 @@ La siguiente tabla muestra una estructura básica que puede adaptar a sus necesi
 - Persona (para quien el artículo es relevante)
 - Idea del contenido (de dónde surgió la idea)
 
-![Estrategia de marketing de contenidos](images/content-marketing-strategie-seatable.png)
+![Estrategia de marketing de contenidos](content-marketing-strategie-seatable.png)
 
 Esta tabla de nuestra [Plantilla de estrategia de marketing de contenidos]({{< relref "templates/marketing/content-marketing-strategy" >}}) parece bastante extensa a primera vista, pero es lo mínimo para que un canal de contenidos medio mantenga la visión de conjunto necesaria. Acostúmbrate a registrar estos datos desde el primer día y no tendrás problemas para llevar la cuenta en cualquier momento.
 

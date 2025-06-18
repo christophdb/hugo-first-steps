@@ -72,7 +72,7 @@ Porque este es exactamente el caso, SeaTable a partir de la versión 2.0 permite
 
 El plugin de diseño de páginas puede utilizarse para crear documentos PDF de una o varias páginas que obtengan datos de forma dinámica de una tabla SeaTable. En SeaTable, generamos certificados de licencia con el plugin. Pero los casos de uso van mucho más allá: puede crear certificados para sus socios comerciales o carnés de socio para los miembros de su club de tenis. Si gestiona su cartera de productos en SeaTable, puede generar atractivas fichas técnicas para todos sus productos con sólo unos clics. En el área de personal, los anuncios de empleo basados en PDF pueden crearse fácil y rápidamente sin necesidad de repetir el esfuerzo adicional.
 
-![Nuevo diseño de la página del plugin](images/Plugin_page_design.png)
+![Nuevo diseño de la página del plugin](Plugin_page_design.png)
 
 Cada documento se basa en una plantilla. El diseño de una plantilla se realiza en el propio SeaTable. El editor WYSIWYG forma parte del plug-in, no es necesario un editor externo. El editor proporciona una selección de elementos estáticos como textos, tablas e imágenes y ofrece diversas operaciones de edición. Por ejemplo, una imagen puede girarse, recortarse o alinearse directamente en la plantilla. Si su plantilla no resulta atractiva, no es culpa del editor ;-) El editor guarda todas las plantillas en formato JSON; una función de importación y exportación garantiza la portabilidad de las plantillas.
 
@@ -80,7 +80,7 @@ Cada documento se basa en una plantilla. El diseño de una plantilla se realiza 
 
 Un tablero Kanban es una gran herramienta para visualizar, controlar y supervisar numerosas funciones y tareas operativas (por ejemplo, el pipeline de ventas). De hecho, el principio Kanban ha demostrado tener tanto éxito en la práctica que en los últimos años han aparecido diversos programas que aplican distintas variedades de tableros Kanban.
 
-![Nuevo plugin de Kanban](images/Plugin_kanban.png)
+![Nuevo plugin de Kanban](Plugin_kanban.png)
 
 Con la nueva versión, SeaTable también tiene un plugin Kanban que se puede utilizar para mostrar datos en tablas en un tablero Kanban. Las categorías de un tablero Kanban son las opciones en una columna de selección única o los usuarios en una columna de empleados. Esto permite que la vista Kanban se utilice para casos de uso tan diversos como la gestión de recursos humanos, producción, ventas, desarrollo de software y gestión de proyectos. Se pueden crear nuevas categorías y nuevas entradas directamente en la vista Kanban sin tener que salir del plugin. A los usuarios intensivos les gustará el soporte de arrastrar y soltar.
 
@@ -110,7 +110,7 @@ Durante el uso diario de SeaTable, se acumula una u otra base. En SeaTable 2.0 i
 
 Si una base contiene datos confidenciales, la protección contra la filtración errónea o maliciosa de datos es de suma importancia. La normativa de protección de datos también exige medidas técnicas adecuadas para proteger los datos personales. La prevención de la fuga de datos es una parte esencial de estas medidas.
 
-![Nueva configuración de seguridad](images/Security_settings_.png)
+![Nueva configuración de seguridad](Security_settings_.png)
 
 Para responder a estas elevadas exigencias, la versión 2.0 de SeaTable ofrece una configuración de permisos adicional para evitar la fuga de datos. En esta nueva configuración de seguridad, el propietario de una base puede decidir si otros usuarios pueden imprimir, duplicar y/o exportar la base. Estas restricciones de permisos pueden aplicarse a todos los usuarios o sólo a los que tienen permiso para compartir. En el caso de una Base propiedad de un grupo, el propietario del grupo y los administradores del grupo pueden cambiar estos ajustes.
 
@@ -118,7 +118,7 @@ Para responder a estas elevadas exigencias, la versión 2.0 de SeaTable ofrece u
 
 Parte del atractivo de SeaTable para los desarrolladores es su compatibilidad con scripts de Python y JavaScript (JS). (Los productos de nuestros competidores sólo admiten scripts JS.) Mientras que los scripts JS se ejecutan en el navegador, los scripts Python se ejecutan en el lado del servidor. Combinados con la posibilidad de automatizar su ejecución, los scripts de Python son especialmente adecuados para los escenarios de procesamiento de datos más exigentes.
 
-![Entorno de ejecución de Python](images/Python_execution_environment.png)
+![Entorno de ejecución de Python](Python_execution_environment.png)
 
 Sin embargo, esta flexibilidad también tiene su precio: la ejecución de los scripts Python en el servidor conlleva riesgos de seguridad. Para garantizarla de forma óptima, hemos aislado en gran medida el entorno de ejecución de los scripts Python del sistema principal con dos componentes adicionales. El equipo formado por SeaTable FAAS Scheduler y Python Runner no sólo garantiza la seguridad, sino también una escalabilidad óptima. Cuando se llama a un script, se inicia un contenedor Docker y se ejecuta el script. El resultado del script se devuelve a SeaTable y el contenedor Docker se destruye. Mediante el uso de múltiples Python runners, también se pueden ejecutar numerosos scripts simultáneamente sin esperas. (Puede encontrar más información en el [Manual de administración de Sea](https://manual.seatable.io/docker/Python-Runner/Deploy%20SeaTable%20Python%20Runner/)Table).
 

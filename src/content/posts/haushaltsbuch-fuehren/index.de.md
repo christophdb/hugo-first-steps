@@ -91,7 +91,7 @@ Ihre Kinder sind ausgezogen, Sie haben Ihr Auto verkauft oder nutzen Ihren Kelle
 
 {{< warning headline="Achtung" text="Wenn Sie nicht selbst Eigentümer Ihrer Wohnung sind, muss Ihr Vermieter einer Untervermietung zustimmen." />}}
 
-Das Gleiche gilt, wenn eine **Garage**, ein **Parkplatz** oder ein **Kellerraum**, den Sie nicht benötigen, zu Ihrer Wohnung gehört. Die [Vermietung von Immobilien](https://seatable.io/hausverwaltung/) kann langfristig jede Menge Einnahmen in Ihre Kasse spülen, die Ihr Haushaltsbuch erfreuen.
+Das Gleiche gilt, wenn eine **Garage**, ein **Parkplatz** oder ein **Kellerraum**, den Sie nicht benötigen, zu Ihrer Wohnung gehört. Die [Vermietung von Immobilien]({{< relref "posts/hausverwaltung" >}}) kann langfristig jede Menge Einnahmen in Ihre Kasse spülen, die Ihr Haushaltsbuch erfreuen.
 
 ### 6\. Öffentliche Verkehrsmittel, Mitfahrgelegenheiten und Car-Sharing nutzen
 
@@ -141,7 +141,7 @@ Achten Sie lieber auf eine ausgewogene Ernährung, genug Bewegung und einen gesu
 
 ### 12\. Schluss mit teuren Lastern
 
-Schlechte Angewohnheiten wie der regelmäßige Konsum von **Alkohol, Zigaretten oder Kaffee** kosten schnell über 100 Euro pro Monat. Dabei gibt es einige Methoden, wie Sie langfristig Ihre [Gewohnheiten ändern](https://seatable.io/habit-tracker-gewohnheiten-aendern/) können. Mit Willensstärke und der Unterstützung von Freunden und Familie schaffen Sie es womöglich, teure Laster loszuwerden, ohne die Sie gesünder leben und auf Dauer sehr viel Geld sparen.
+Schlechte Angewohnheiten wie der regelmäßige Konsum von **Alkohol, Zigaretten oder Kaffee** kosten schnell über 100 Euro pro Monat. Dabei gibt es einige Methoden, wie Sie langfristig Ihre [Gewohnheiten ändern]({{< relref "posts/habit-tracker" >}}) können. Mit Willensstärke und der Unterstützung von Freunden und Familie schaffen Sie es womöglich, teure Laster loszuwerden, ohne die Sie gesünder leben und auf Dauer sehr viel Geld sparen.
 
 Gleichzeitig können Sie positive Gewohnheiten etablieren: Zum Beispiel ist es gut für die Gesundheit, statt teuren **Energydrinks** einfach Wasser zu trinken. Ihr Haushaltsbuch wird frohlocken – insbesondere wenn Sie auf Flaschenwasser verzichten und stattdessen auf **Leitungswasser** zurückgreifen.
 

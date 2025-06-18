@@ -124,11 +124,11 @@ Da sich fast niemand mehr als zehn verschiedene Passwörter merken kann, gibt es
 
 Eine andere Datenbank-Software, mit der Sie Ihren digitalen Nachlass übersichtlich, flexibel und sicher verwalten können, heißt **SeaTable**. Damit können Sie nicht nur alle Ihre Konten, Benutzernamen und Passwörter, sondern auch beliebig viele zusätzliche Informationen speichern.
 
-![Passwort-Manager](images/Screenshot-2023-10-31-132220.png)
+![Passwort-Manager](Screenshot-2023-10-31-132220.png)
 
 Nutzen Sie einen Passwort-Manager, um Ihren digitalen Nachlass zu dokumentieren.
 
-Wenn Sie den Passwort-Manager von SeaTable für Ihren digitalen Nachlass nutzen möchten, können Sie sich [die Vorlage hier ansehen]({{< relref "templates/everyday-life/password-manager" >}}). Bei Interesse [registrieren](https://seatable.io/registrierung/) Sie sich einfach kostenlos und erstellen eine Übersicht mit Ihren eigenen Daten.
+Wenn Sie den Passwort-Manager von SeaTable für Ihren digitalen Nachlass nutzen möchten, können Sie sich [die Vorlage hier ansehen]({{< relref "templates/everyday-life/password-manager" >}}). Bei Interesse [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos und erstellen eine Übersicht mit Ihren eigenen Daten.
 
 ## Fazit: Ein digitaler Nachlass ist wichtiger denn je
 

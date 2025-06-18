@@ -75,6 +75,6 @@ Mas não se distraia demasiado - a limpeza deve continuar a ser a sua principal 
 
 Há muito para planear quando se trata de tarefas domésticas, especialmente se quiser envolver várias pessoas nas tarefas. Para não perder a visão geral, a equipa SeaTable criou um modelo de plano de limpeza para si. Pode adaptá-lo às suas necessidades como desejar. Por exemplo, ao atribuir claramente as tarefas a uma pessoa responsável, pode ver num relance quais as tarefas que você e os seus colegas de casa têm de fazer e se estão distribuídas de forma justa.
 
-![Criar um plano de limpeza individual no SeaTable.](images/Putzplan.png)
+![Criar um plano de limpeza individual no SeaTable.](Putzplan.png)
 
 Se pretender utilizar o SeaTable para criar o seu plano de limpeza individual, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente [aqui]({{< relref "templates/everyday-life/cleaning-plan" >}}).

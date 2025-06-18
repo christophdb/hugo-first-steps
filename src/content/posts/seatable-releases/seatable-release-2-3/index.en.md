@@ -19,7 +19,7 @@ Very large tables lead to long loading times and affect the user experience - yo
 
 The new archive function removes this restriction! In addition to the 150,000 rows in the active data stock, millions of rows can be stored in the archive. The archive function thus offers a solution for all those applications for which SeaTable's previous limits were not sufficient.
 
-![Archive function](images/Archive-function-1088x631.png)
+![Archive function](Archive-function-1088x631.png)
 
 In terms of evaluation and analysis options, the differences between active and archived rows are manageable: The archive supports all column types. Filters and sorting allow quick evaluation of the data in the archive. And access via API and through [external apps](https://seatable.io/en/seatable-release-2-2#Externe_Apps_nur_fuer_Enterprise_Abos/?lang=auto) is also possible. A search function and full plug-in support is under development.
 
@@ -56,7 +56,7 @@ Archived rows cannot currently be moved back into the active dataset. Archived d
 
 Access to the data in the archive is via the new view type Archive View. Once rows has been archived, such an archive view - like other views - can be created via the view menu. Archive views are easily recognised by their own icon in the view navigation.
 
-![Archive view](images/Archive-view-creation-1088x518.png)
+![Archive view](Archive-view-creation-1088x518.png)
 
 The archive view shows archived and non-archived rows and allows evaluations of the entire - archived and active - data stock of the table. The familiar analysis tools are available for this purpose. With a plug-in for advanced statistics, there will soon also be a tool with which very large amounts of data can be comprehensively evaluated. For the evaluation possibilities, it is therefore almost irrelevant whether rows is archived or not.
 
@@ -70,7 +70,7 @@ The table history and comments are not part of the information that one would no
 
 After [default values for columns]({{< relref "posts/seatable-releases/seatable-release-2-0" >}}), there are now also default values for form fields in version 2.3. And not only static default values are supported: The variables _creator.id_ and _creator.name_ automatically insert the user ID or user name in the form field for logged-in users.
 
-![Default values in forms](images/Default-values-forms-1088x974.png)
+![Default values in forms](Default-values-forms-1088x974.png)
 
 ### Preview for the column type formatted text
 

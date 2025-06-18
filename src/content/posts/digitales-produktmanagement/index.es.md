@@ -42,7 +42,7 @@ Un catálogo de productos para su presentación externa
 
 Es posible que lo sepa: está buscando un producto y sabe cómo es, pero no cómo se llama. Nuestro plugin de galería es muy útil para esto. Muestra todas las imágenes que se han introducido en la tabla seleccionada y forma un conjunto compacto de información para la gestión de su producto. Con información adicional como el nombre del producto, la serie y el número de artículo, puede crear así una galería de imágenes detallada que también contenga datos importantes del producto.
 
-![Galería de imágenes de productos para la gestión de productos digitales](images/Gallery-Plugin.png)
+![Galería de imágenes de productos para la gestión de productos digitales](Gallery-Plugin.png)
 
 Con unos pocos clics habrás creado una galería informativa.
 
@@ -54,7 +54,7 @@ Pasemos ahora al catálogo interno de productos: Sirve como fuente interna de in
 
 El resultado es un catálogo de productos muy detallado que permite a cada empleado obtener la máxima información con el mínimo esfuerzo. De hecho, un catálogo totalmente equipado minimiza la comunicación con las unidades responsables, como los gestores de productos u otras unidades, si, por ejemplo, falta la designación exacta del revestimiento del producto.
 
-![](images/Product-Data_Overview.png)
+![](Product-Data_Overview.png)
 
 En nuestro ejemplo, hemos creado directamente cálculos para el margen con el fin de observar cómo se comportan los productos individuales en la producción. Esto es muy fácil con la [columna de fórmulas](https://seatable.io/es/docs/handbuch/seatable-nutzen/feld-typen/), que primero calcula el margen y luego el margen en porcentaje. De este modo, los jefes de producto y los empleados pueden ver de un vistazo cómo van los distintos productos.
 

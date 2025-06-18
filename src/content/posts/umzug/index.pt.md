@@ -167,6 +167,6 @@ Uma mudança por razões médicas é considerada um encargo extraordinário. Tam
 
 Para que a sua próxima mudança seja o menos stressante possível, a equipa SeaTable criou um modelo para o seu plano de mudança. Pode adaptá-lo às suas necessidades como desejar.
 
-![Plano de relocalização](images/Umzugsplan.png)
+![Plano de relocalização](Umzugsplan.png)
 
 Se pretender utilizar o SeaTable para o planeamento da sua mudança, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente [aqui]({{< relref "templates/real-estate/moving-plan" >}}).

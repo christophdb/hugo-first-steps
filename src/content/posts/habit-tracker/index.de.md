@@ -22,7 +22,7 @@ Neue Gewohnheiten aufbauen und schlechte ändern – dabei hilft Ihnen ein Habit
 
 So könnte Ihr Habit Tracker aussehen.
 
-Bei der **Gestaltung** Ihres Habit Trackers sind Ihrer Fantasie keine Grenzen gesetzt. Arbeiten Sie zum Beispiel mit verschiedenen **Farben** und Schriftarten oder setzen Sie Ihre Ideen mit dem [Habit Tracker von SeaTable](https://seatable.io/habit-tracker-gewohnheiten-aendern/#Vorlage_fuer_Ihren_digitalen_Habit_Tracker) einfach online um. Dabei sollten Sie nicht nur Ihre angestrebten, sondern auch Ihre bisherigen Gewohnheiten aufschreiben. Das Nachverfolgen hilft Ihnen, sich der Gewohnheiten bewusst zu werden, die Sie bis dahin als selbstverständlich wahrgenommen haben.
+Bei der **Gestaltung** Ihres Habit Trackers sind Ihrer Fantasie keine Grenzen gesetzt. Arbeiten Sie zum Beispiel mit verschiedenen **Farben** und Schriftarten oder setzen Sie Ihre Ideen mit dem [Habit Tracker von SeaTable]({{< relref "posts/habit-tracker" >}}#Vorlage_fuer_Ihren_digitalen_Habit_Tracker) einfach online um. Dabei sollten Sie nicht nur Ihre angestrebten, sondern auch Ihre bisherigen Gewohnheiten aufschreiben. Das Nachverfolgen hilft Ihnen, sich der Gewohnheiten bewusst zu werden, die Sie bis dahin als selbstverständlich wahrgenommen haben.
 
 {{< warning headline="Warum wir Gewohnheiten brauchen" text="Gewohnheiten machen unser Leben leichter. Haben Sie eine Verhaltensweise erst einmal verinnerlicht, wird sie meist automatisch von Ihnen ausgeführt. Die Aktivität passiert unterbewusst, wie zum Beispiel das tägliche Zähneputzen, das wir aus Gewohnheit tun, ohne jedes Mal den Zweck zu hinterfragen. Damit nehmen wir dem Gehirn Denkarbeit ab und schaffen gleichzeitig Kapazitäten für wichtigere Abläufe." />}}
 

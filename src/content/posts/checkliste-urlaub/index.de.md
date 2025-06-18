@@ -15,7 +15,7 @@ Die Sommerferien stehen vor der Tür und für viele Urlauber heißt das: Zeit zu
 
 Dieser Artikel bietet Ihnen einen umfassenden Einblick, was Sie für Ihre nächste Urlaubsreise benötigen und wie Sie diese am besten organisieren, ohne essenzielle Dinge zu vergessen. Egal, ob Sie ein Last-Minute-Bucher oder ein vorausschauender Planer sind, hier finden Sie eine ausführliche Checkliste für Ihren Urlaub und wertvolle Tipps, um Ihre Reise effizient und stressfrei vorzubereiten.
 
-![Checkliste Urlaub: Ein Strand mit Palmen aus der Vogelperspektive](images/nattu-adnan-atSUvc1hMwk-unsplash-711x491.jpg)
+![Checkliste Urlaub: Ein Strand mit Palmen aus der Vogelperspektive](nattu-adnan-atSUvc1hMwk-unsplash-711x491.jpg)
 
 Informieren Sie sich über das Klima Ihres Reiseziels, um sich entsprechend vorzubereiten.
 
@@ -27,7 +27,7 @@ Eine solche Checkliste für Reisen ermöglicht es Ihnen, alles Nötige in Ruhe z
 
 Das eigentliche Kofferpacken sollte idealerweise erst **zwei bis drei Tage** vor der Abreise erfolgen. Auf diese Weise können Sie die aktuelle Wettervorhersage berücksichtigen und Ihre Kleidung entsprechend anpassen. Am **Abreisetag** bleibt dann nur noch das Einpacken der Dinge, die Sie bis zuletzt benötigen, wie Ihr Handy-Ladekabel oder Ihre Zahnbürste.
 
-![Zwei Frauen packen einen Koffer für eine Reise](images/pexels-gabby-k-5330979-711x474.jpg)
+![Zwei Frauen packen einen Koffer für eine Reise](pexels-gabby-k-5330979-711x474.jpg)
 
 Eine Packliste sorgt für eine strukturierte Vorgehensweise beim Packen.
 
@@ -39,7 +39,7 @@ Eine gut organisierte Checkliste für den Urlaub hilft Ihnen nicht nur, unnötig
 
 Auch für diejenigen, die gerne im Voraus planen und bereits eine Checkliste für Reisen nutzen, gibt es immer noch Raum für Verbesserungen. Eine sorgfältige Reisevorbereitung ist das A und O für einen stressfreien und erholsamen Urlaub. Indem Sie Ihre Reise Checkliste regelmäßig aktualisieren und **optimieren**, können Sie sicherstellen, dass Sie an alles denken und Ihre Reise unbeschwert genießen können.
 
-![Checkliste Urlaub: Eine Frau genießt den Meerblick in einem Pool](images/alex-bertha-Jyg7xHRmXiU-unsplash-711x474.jpg)
+![Checkliste Urlaub: Eine Frau genießt den Meerblick in einem Pool](alex-bertha-Jyg7xHRmXiU-unsplash-711x474.jpg)
 
 Urlaub sollte eine entspannende und angenehme Erfahrung sein, und eine gute Vorbereitung hilft, den Stress zu minimieren.
 
@@ -51,7 +51,7 @@ Eine gründliche Vorbereitung auf Ihren Urlaub umfasst mehr als nur die Urlaub-C
 - **Impfungen und Gesundheit:** Wenn Sie Abenteuerurlaub in exotischen Gegenden planen, sollten Sie frühzeitig Ihren Impfpass überprüfen und notwendige Impfungen gegen in Europa seltene Krankheiten auffrischen lassen. Informieren Sie sich über empfohlene oder verpflichtende Impfungen für Ihr Reiseziel.
 - **Auslandsversicherung:** Eine Reiseversicherung ist unerlässlich, um im Krankheitsfall oder bei anderen Notfällen abgesichert zu sein. Vergleichen Sie verschiedene Angebote und wählen Sie eine Versicherung, die Ihren Bedürfnissen entspricht.
 
-![Checkliste Urlaub: Eine Frau genießt den Ausblick aus ihrem Hotelzimmer](images/pexels-elina-sazonova-1838554-711x474.jpg)
+![Checkliste Urlaub: Eine Frau genießt den Ausblick aus ihrem Hotelzimmer](pexels-elina-sazonova-1838554-711x474.jpg)
 
 Eine Reiseversicherung, die medizinische Versorgung im Ausland und Reiseabbrüche aus gesundheitlichen Gründen abdeckt, ist wichtig.
 
@@ -62,7 +62,7 @@ Eine Reiseversicherung, die medizinische Versorgung im Ausland und Reiseabbrüch
 - **Lokale Gesetze und Führerschein:** Prüfen Sie, ob Sie in Ihrem Zielland einen internationalen Führerschein benötigen, und machen Sie sich mit den lokalen Gesetzen vertraut. In einigen Ländern gelten strengere Vorschriften (z. B. Verhaltensregeln im öffentlichen Raum), die Sie beachten müssen.
 - **Reisevorbereitungen vor Ort:** Kleinigkeiten wie die Buchung eines Parkplatzes am Flughafen oder die Sicherstellung der mobilen Erreichbarkeit im Ausland können Ihre Urlaubsstimmung erheblich beeinflussen. Sorgen Sie dafür, dass alles gut organisiert ist.
 
-![Eine Brille auf einer Landkarte](images/eyeglasses-8227429_1280-711x533.jpg)
+![Eine Brille auf einer Landkarte](eyeglasses-8227429_1280-711x533.jpg)
 
 Entscheiden Sie, wie Sie sich fortbewegen werden (Mietwagen, öffentliche Verkehrsmittel etc.), und buchen Sie gegebenenfalls im Voraus.
 
@@ -94,7 +94,7 @@ Stellen Sie sich vor, der langersehnte Urlaub steht bevor und Sie haben eine per
 - Flugtickets
 - Hotel-/Mietwagenunterlagen
 
-![Checkliste Urlaub: Reisepass, Flugtickets und andere Dokumente](images/convertkit-QMU1z6ReS5A-unsplash-711x474.jpg)
+![Checkliste Urlaub: Reisepass, Flugtickets und andere Dokumente](convertkit-QMU1z6ReS5A-unsplash-711x474.jpg)
 
 Wichtige Dokumente können Sie vor Ihrem Urlaub kopieren, damit Sie abgesichert sind, falls etwas verloren geht.
 
@@ -112,7 +112,7 @@ Wichtige Dokumente können Sie vor Ihrem Urlaub kopieren, damit Sie abgesichert 
 - Schuhe
 - Kleider/Röcke
 
-![Kleidung, die für einen Urlaub bereit gelegt wurde](images/pexels-taryn-elliott-4374510-711x484.jpg)
+![Kleidung, die für einen Urlaub bereit gelegt wurde](pexels-taryn-elliott-4374510-711x484.jpg)
 
 Checken Sie vor Ihrer Reise, wie das Wetter an Ihrem Reiseort sein wird.
 
@@ -130,7 +130,7 @@ Checken Sie vor Ihrer Reise, wie das Wetter an Ihrem Reiseort sein wird.
 - Desinfektionsmittel
 - Handtücher
 
-![Hygieneartikel: Seife und Handtücher für die Checkliste Urlaub](images/pexels-karolina-grabowska-4210373-711x474.jpg)
+![Hygieneartikel: Seife und Handtücher für die Checkliste Urlaub](pexels-karolina-grabowska-4210373-711x474.jpg)
 
 Informieren Sie sich im Vorfeld, ob Handtücher und andere Hygieneartikel inklusive sind, um Platz zu sparen.
 
@@ -147,7 +147,7 @@ Informieren Sie sich im Vorfeld, ob Handtücher und andere Hygieneartikel inklus
 - Zeckenkarte
 - Persönliche Medikamente
 
-![Medikamente und Obst für die Gesundheit](images/pexels-darina-belonogova-7208650-711x517.jpg)
+![Medikamente und Obst für die Gesundheit](pexels-darina-belonogova-7208650-711x517.jpg)
 
 Um im Urlaub gegen alles gewappnet zu sein, sollten Sie an eine kleine Reiseapotheke denken.
 
@@ -160,7 +160,7 @@ Um im Urlaub gegen alles gewappnet zu sein, sollten Sie an eine kleine Reiseapot
 - Ladekabel
 - Kamera
 
-![Checkliste Urlaub: Eine Kamera, die in Einzelteilen ästhetisch drapiert wurde](images/pexels-alex-andrews-271121-821652-711x431.jpg)
+![Checkliste Urlaub: Eine Kamera, die in Einzelteilen ästhetisch drapiert wurde](pexels-alex-andrews-271121-821652-711x431.jpg)
 
 Achten Sie darauf, elektronische Geräte sicher zu verstauen, sodass nichts kaputtgehen kann.
 
@@ -174,7 +174,7 @@ Achten Sie darauf, elektronische Geräte sicher zu verstauen, sodass nichts kapu
 - Reiseproviant
 - Buch
 
-![Checkliste Urlaub: Eine Frau schläft mit Schlafmaske](images/pexels-cottonbro-6863349-711x512.jpg)
+![Checkliste Urlaub: Eine Frau schläft mit Schlafmaske](pexels-cottonbro-6863349-711x512.jpg)
 
 Lange Flugreisen können Sie mit Schlafmasken und Ohrstöpseln angenehmer gestalten.
 
@@ -186,7 +186,7 @@ Auch die Art des Urlaubs spielt eine entscheidende Rolle. Bei einer **Städterei
 
 Eine flexible Checkliste für Ihren Urlaub ermöglicht es Ihnen auch, auf kurzfristige Änderungen zu reagieren. Unvorhersehbare Wetterumschwünge oder spontane Planänderungen lassen sich besser bewältigen, wenn Sie schon im Vorfeld bestens organisiert sind und nicht in unnötigen Stress verfallen.
 
-![Checkliste Urlaub: Blick auf einen Sonnenuntergang aus einem Flugzeug](images/pexels-stefanstefancik-127905-711x513.jpg)
+![Checkliste Urlaub: Blick auf einen Sonnenuntergang aus einem Flugzeug](pexels-stefanstefancik-127905-711x513.jpg)
 
 Ob Strandutensilien oder Wintersport-Equipment – je nach Urlaub benötigen Sie andere Dinge.
 
@@ -200,7 +200,7 @@ Wenn Ihre Checkliste für den Urlaub umfangreich ist, kann es eine Herausforderu
 - **Vorbereitung auf den Rückweg:** Denken Sie auch an den Rückweg und lassen Sie etwas Platz für Souvenirs und andere Dinge, die Sie während Ihres Urlaubs kaufen.
 - **Essentials griffbereit halten:** Bewahren Sie wichtige Dokumente, Ladekabel und eine kleine Erste-Hilfe-Ausrüstung in einem leicht zugänglichen Fach auf. So haben Sie alles Wichtige sofort zur Hand.
 
-![Ein Koffer liegt auf einem Hotelbett](images/pexels-ketut-subiyanto-4246101-711x522.jpg)
+![Ein Koffer liegt auf einem Hotelbett](pexels-ketut-subiyanto-4246101-711x522.jpg)
 
 Verwenden Sie Reisegrößen für Hygieneartikel, um Platz zu sparen und den Flüssigkeitsbeschränkungen bei Flügen zu entsprechen.
 
@@ -212,6 +212,6 @@ In der Vorlage finden Sie nicht nur eine flexibel anpassbare Urlaubs-Checkliste 
 
 Zur Vereinfachung der Reiseplanung steht Ihnen zudem eine App zur Verfügung. Mit dieser können Sie Ideen, Kosten und To-dos über Formularseiten eingeben, deren Informationen dann automatisch in den entsprechenden Tabellen gespeichert werden. Ihre gesamte Urlaubsplanung ist in übersichtlichen Tabellen abrufbar, die Sie nach Belieben gruppieren und sortieren können. Anschauliche Statistiken, wie zum Beispiel im Budget Dashboard, erleichtern Ihnen zusätzlich die Übersicht:
 
-![Budget Dashboard in SeaTable's Travel App](images/Travel-App.png)
+![Budget Dashboard in SeaTable's Travel App](Travel-App.png)
 
 [Registrieren]({{< relref "pages/registration" >}}) Sie sich noch heute kostenlos, um von diesen praktischen Funktionen zu profitieren und Ihre nächste Reise stressfrei zu organisieren. Daraufhin können Sie die [Vorlage]({{< relref "templates/events/travel-planner" >}}) in Ihrem persönlichen SeaTable Arbeitsbereich nutzen, mit ihren eigenen Daten füllen und via App mit Ihren Mitreisenden teilen.

@@ -13,7 +13,7 @@ seo:
 
 Neste artigo, analisamos exaustivamente o tema da angariação de fundos e destacamos vários **métodos** que pode utilizar para entusiasmar as pessoas com as suas ideias e incentivar os donativos. Para o ajudar a atingir de forma consistente o seu objetivo de angariação de fundos, recolher donativos e emitir um recibo de donativo, terá finalmente a oportunidade de experimentar **um software gratuito de gestão de donativos**.
 
-![A palavra angariação de fundos está escrita num folheto com figuras de paus](images/charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
+![A palavra angariação de fundos está escrita num folheto com figuras de paus](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
 Uma angariação de fundos bem planeada pode ajudar uma organização a atingir os seus objectivos.
 
@@ -31,7 +31,7 @@ Para angariar fundos com sucesso e convencer as pessoas do seu projeto, é cruci
 
 {{< warning headline="Dica" text="Uma abordagem experimentada e testada é o envio de **cartas de donativos**. Estas permitem-lhe comunicar a sua mensagem de forma clara e eficaz e dirigir-se aos potenciais doadores a um nível pessoal." />}}
 
-![Frasco com moedas, do qual nasce uma pequena planta](images/micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
+![Frasco com moedas, do qual nasce uma pequena planta](micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 
 A angariação de fundos requer criatividade para atrair a atenção das pessoas.
 
@@ -43,7 +43,7 @@ Em contrapartida, **o crowdfunding** estabelece frequentemente um período de te
 
 O diagrama seguinte apresenta uma breve panorâmica das principais diferenças.
 
-![Diferenças entre angariação de fundos e financiamento coletivo](images/Crowdfunding-vs.-Fundraising-711x533.png)
+![Diferenças entre angariação de fundos e financiamento coletivo](Crowdfunding-vs.-Fundraising-711x533.png)
 
 A diferença entre angariação de fundos e financiamento coletivo
 
@@ -69,7 +69,7 @@ No mundo digital, tem inúmeras opções para recolher donativos. As campanhas e
 - Ofertas actuais
 - Motores de pesquisa e marketing nas redes sociais
 
-![Apelo a donativos num computador](images/donation-community-service-volunteer-support-711x595.jpg)
+![Apelo a donativos num computador](donation-community-service-volunteer-support-711x595.jpg)
 
 As redes sociais estão a desempenhar um papel cada vez mais importante na angariação de fundos.
 
@@ -99,7 +99,7 @@ Isto contrasta com a **chamada fria**, em que se abordam potenciais doadores que
 
 Muitas organizações sem fins lucrativos perdem uma grande parte dos seus dadores entre o primeiro e o segundo donativo. De acordo com uma [análise](https://link.springer.com/book/10.1007/978-3-8349-6308-6) efectuada por Beat Hunziker, apenas cerca de metade dos dadores fazem um segundo donativo. O **ciclo de fidelização dos** dadores é um modelo que mostra como as pessoas interessadas em dar um donativo podem tornar-se apoiantes empenhados.
 
-![Ciclo de fidelização dos dadores na angariação de fundos](images/Spendenloyalitaetszyklus-711x533.png)
+![Ciclo de fidelização dos dadores na angariação de fundos](Spendenloyalitaetszyklus-711x533.png)
 
 Ciclo de fidelização dos dadores
 

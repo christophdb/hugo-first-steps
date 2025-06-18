@@ -120,7 +120,7 @@ A gestão de projectos Lean distingue três males que têm de ser analisados e e
 - Mura **(desequilíbrio)** centra-se em processos desequilibrados com etapas de processo descoordenadas e interrupções que causam filas de espera ou tempos de inatividade.
 - Muri **(sobrecarga)** refere-se à utilização e ao alívio dos membros da equipa e das máquinas. Não devem existir estrangulamentos que provoquem níveis elevados de desgaste ou baixas por doença devido a sobrecarga.
 
-É também importante para este método encontrar o rácio ótimo entre [custos e benefícios](https://seatable.io/pt/kosten-nutzen-analyse-vorlage/) de um projeto.
+É também importante para este método encontrar o rácio ótimo entre [custos e benefícios]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) de um projeto.
 
 Seguem-se dois métodos de gestão de projectos que se centram na ilustração gráfica: A estrutura de decomposição do trabalho e a técnica de rede.
 

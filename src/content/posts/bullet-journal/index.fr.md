@@ -84,7 +84,7 @@ De nombreuses idées peuvent être mises en œuvre sous forme de **listes**. Il 
 
 Les **trackers** sont probablement le complément le plus connu du Bullet Journal. Ils aident à documenter les tâches régulières. Il existe différents types de trackers :
 
-- **Habit Tracker**: établissez de nouvelles habitudes et débarrassez-vous des mauvaises. Vous trouverez un article détaillé à ce sujet [ici](https://seatable.io/fr/habit-tracker-gewohnheiten-aendern/).
+- **Habit Tracker**: établissez de nouvelles habitudes et débarrassez-vous des mauvaises. Vous trouverez un article détaillé à ce sujet [ici]({{< relref "posts/habit-tracker" >}}).
 - **Mood Tracker**: notez l'évolution de votre humeur sur une longue période.
 - **Sleep Tracker**: surveillez vos heures de sommeil et la qualité de votre sommeil.
 - **Water Tracker**: assurez-vous de consommer suffisamment d'eau chaque jour pour rester en bonne santé.
@@ -125,4 +125,4 @@ Pour son inventeur, Ryder Carroll, il est important que le Bullet Journal améli
 
 Une alternative au carnet de notes analogique est le **bullet journal numérique**. SeaTable vous offre une solution simple et efficace pour concevoir vos calendriers, listes et trackers sous forme numérique et les réorganiser de manière flexible en quelques clics. Adaptez le [modèle gratuit]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) à vos besoins et ajoutez vos propres idées. Un Habit Tracker est intégré dans le Bullet Journal, ce qui constitue un complément pratique à votre journal. Travaillez avec des couleurs, des symboles et des images pour personnaliser votre journal.
 
-Si vous souhaitez utiliser SeaTable pour votre Bullet Journal, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez [ici]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) le modèle correspondant avec de nombreuses inspirations et des exemples d'entrées.
+Si vous souhaitez utiliser SeaTable pour votre Bullet Journal, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement. Vous trouverez [ici]({{< relref "templates/everyday-life/habit-tracker-bullet-journal" >}}) le modèle correspondant avec de nombreuses inspirations et des exemples d'entrées.

@@ -89,7 +89,7 @@ Como as bases de dados existem para facilitar a **recuperação de dados**, tamb
 
 Enquanto no passado era necessário aprender determinadas linguagens informáticas para realizar as consultas de dados acima referidas, atualmente existem muitos sistemas de bases de dados, como o SeaTable, que estão equipados com uma interface gráfica intuitiva para o utilizador. Estes sistemas permitem que mesmo os principiantes utilizem imediatamente as bases de dados para melhorar o seu fluxo de trabalho.
 
-![Vantagens das bases de dados como o SeaTable](images/Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
+![Vantagens das bases de dados como o SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
 Ao contrário das bases de dados clássicas, o SeaTable tem uma interface gráfica do utilizador.
 

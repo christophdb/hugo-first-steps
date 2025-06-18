@@ -18,7 +18,7 @@ Quer se trate de **exames de nível A** ou de **exames universitários** - um pl
 
 Se pretende criar um plano de aprendizagem, deve começar por definir um objetivo de aprendizagem claro. Determine exatamente o **conteúdo** que precisa de dominar e em que **prazo**. Certifique-se de que os seus objectivos são **realistas** e que o conteúdo é **relevante**, para que não fique stressado durante a fase de aprendizagem.
 
-![Dardos presos no centro de um alvo de dardos](images/darts-board-711x474.jpg)
+![Dardos presos no centro de um alvo de dardos](darts-board-711x474.jpg)
 
 Um objetivo de aprendizagem claramente definido é o ponto de partida para um plano de aprendizagem bem sucedido.
 
@@ -28,7 +28,7 @@ Para poder acompanhar os seus progressos durante o processo de aprendizagem, os 
 
 Antes de elaborar um plano de aprendizagem, é essencial recolher e estruturar todo o material de aprendizagem. Comece por obter uma **visão global** de todos os tópicos relevantes e por **separar a informação sem importância**. Anote as fontes dos conteúdos importantes, por exemplo, **livros didácticos**, **diapositivos** de aulas, **artigos especializados** ou as suas próprias **notas** das aulas.
 
-![Criar um plano de aprendizagem: Livros espalhados por cima](images/top-view-books-arrangement-711x400.jpg)
+![Criar um plano de aprendizagem: Livros espalhados por cima](top-view-books-arrangement-711x400.jpg)
 
 Ao recolher materiais didácticos, tenha também em conta a sua qualidade.
 
@@ -48,7 +48,7 @@ As unidades mais pequenas facilitam o processamento e a compreensão.
 
 Enquanto cria o seu plano de aprendizagem, vale a pena analisar os diferentes métodos de aprendizagem e identificar o que melhor se **adequa** a si. Os métodos de aprendizagem são estratégias que têm por objetivo maximizar o sucesso da aprendizagem, promovendo a consolidação dos conhecimentos. Dada a variedade de métodos disponíveis, é importante escolher os que melhor se adaptam às suas **necessidades individuais** e, eventualmente, combinar diferentes métodos.
 
-![Uma mão vira a página de um livro](images/book-6957870_1280-711x474.jpg)
+![Uma mão vira a página de um livro](book-6957870_1280-711x474.jpg)
 
 É útil experimentar diferentes métodos de aprendizagem.
 
@@ -80,7 +80,7 @@ A [técnica Pomodoro](https://de.wikipedia.org/wiki/Pomodoro-Technik) consiste e
 
 Agora que já estruturou o seu conteúdo de aprendizagem, é altura de criar um calendário detalhado para as suas sessões de aprendizagem. Este plano ajudá-lo-á a atingir os seus objectivos de aprendizagem de forma eficiente e a manter um equilíbrio saudável entre a **aprendizagem**, **a vida quotidiana** e **o tempo livre**.
 
-![Criar um plano de aprendizagem: Um despertador numa secretária](images/time-2980690_1280-711x474.jpg)
+![Criar um plano de aprendizagem: Um despertador numa secretária](time-2980690_1280-711x474.jpg)
 
 Um calendário pormenorizado ajuda a organizar o processo de aprendizagem e a cumprir os prazos.
 
@@ -98,7 +98,7 @@ Um aspeto importante da motivação é a **relevância pessoal** do material de 
 
 É igualmente benéfico **relacionar** a informação com os conhecimentos existentes. Por isso, tente estabelecer uma ligação entre o material de aprendizagem e os seus conhecimentos anteriores. A prática leva à perfeição: ao **aplicar** conteúdos de aprendizagem abstractos através de exemplos concretos, pode consolidar os seus conhecimentos.
 
-![Criar um plano de aprendizagem: Placa na secretária com a inscrição "Tu consegues"](images/pexels-prateekkatyal-2740956-711x474.jpg)
+![Criar um plano de aprendizagem: Placa na secretária com a inscrição "Tu consegues"](pexels-prateekkatyal-2740956-711x474.jpg)
 
 A motivação pode ser influenciada por vários factores.
 
@@ -108,7 +108,7 @@ Se mantiver os seus objectivos de aprendizagem em mente, pode ter a certeza de q
 
 A reflexão é um passo crucial no processo de aprendizagem, pois permite-lhe avaliar os seus progressos, repensar o seu plano de aprendizagem e fazer **ajustes** quando necessário. Registe os seus progressos, revendo regularmente o seu nível de conhecimentos. Pense se ainda consegue atingir os objectivos que estabeleceu ou se é necessário corrigir o rumo. Talvez os seus métodos ou objectivos de aprendizagem tenham mudado durante o processo de aprendizagem - e é importante reconhecer a realidade e ajustar o seu plano de aprendizagem em conformidade.
 
-![Criar um plano de aprendizagem: Rosto refletido num pedaço de vidro](images/vince-fleming-Vmr8bGURExo-unsplash-711x474.jpg)
+![Criar um plano de aprendizagem: Rosto refletido num pedaço de vidro](vince-fleming-Vmr8bGURExo-unsplash-711x474.jpg)
 
 A reflexão sobre o plano de aprendizagem permite uma melhoria contínua da aprendizagem.
 

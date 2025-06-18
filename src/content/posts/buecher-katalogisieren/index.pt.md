@@ -24,7 +24,7 @@ Quanto maior for o número de livros, mais difícil será manter um registo de t
 
 Tem mais de uma estante e os locais dos seus livros estão espalhados por várias salas? Então é também muito útil catalogar os seus livros. Com a aplicação do livro certo, sabe exactamente qual é o livro onde está e não tem de o procurar quando precisa dele rapidamente.
 
-![A mulher cataloga os seus livros com aplicação de livro.](images/buecher-katalogisieren-frau.jpg)
+![A mulher cataloga os seus livros com aplicação de livro.](buecher-katalogisieren-frau.jpg)
 
 Catalogação de livros © Viktoriia / Adobe Stock
 
@@ -51,7 +51,7 @@ ou o Google Sheets para organizar os seus livros. Aqui também tem de introduzir
 
 Se quiser catalogar, organizar e gerir os seus livros de forma sensata, deve utilizar uma aplicação para livros ou uma aplicação para bibliotecas. É rápido, descomplicado e não requer uma caneta ou um pedaço de papel.
 
-![Um homem cataloga os seus livros numa aplicação de livros.](images/buecher-katalogisieren-mann.jpg)
+![Um homem cataloga os seus livros numa aplicação de livros.](buecher-katalogisieren-mann.jpg)
 
 Catalogação de livros © NDABCREATIVITY / Adobe Stock
 
@@ -77,9 +77,9 @@ Esta aplicação gratuita de livros utiliza várias bases de dados online, como 
 
 ### SeaTable
 
-Se pretende [criar](https://seatable.io/pt/inventarliste-vorlagen/) uma [lista de inventário](https://seatable.io/pt/inventarliste-vorlagen/) para os seus livros utilizando tabelas simples, o SeaTable é a ferramenta certa para si. Basta introduzir o título relevante numa lista, adicionar mais informações sobre o autor e a editora, se necessário, e organizá-la de forma clara (por exemplo, por género, estado de leitura ou classificação). Gostaria de disponibilizar o seu catálogo de livros a outras pessoas? Pode fazê-lo facilmente partilhando as suas listas.
+Se pretende [criar]({{< relref "posts/inventarliste-erstellen" >}}) uma [lista de inventário]({{< relref "posts/inventarliste-erstellen" >}}) para os seus livros utilizando tabelas simples, o SeaTable é a ferramenta certa para si. Basta introduzir o título relevante numa lista, adicionar mais informações sobre o autor e a editora, se necessário, e organizá-la de forma clara (por exemplo, por género, estado de leitura ou classificação). Gostaria de disponibilizar o seu catálogo de livros a outras pessoas? Pode fazê-lo facilmente partilhando as suas listas.
 
-Pode abrir a versão gratuita do SeaTable na nuvem diretamente no seu browser. [Registe-se]({{< relref "pages/registration" >}}) hoje e comece a utilizar o nosso [modelo gratuito]({{< relref "templates/everyday-life/book-list-library" >}}) para a sua lista de livros ou biblioteca. A propósito: a ferramenta também é adequada para a [gestão de literatura](https://seatable.io/pt/literaturverwaltung/) académica.
+Pode abrir a versão gratuita do SeaTable na nuvem diretamente no seu browser. [Registe-se]({{< relref "pages/registration" >}}) hoje e comece a utilizar o nosso [modelo gratuito]({{< relref "templates/everyday-life/book-list-library" >}}) para a sua lista de livros ou biblioteca. A propósito: a ferramenta também é adequada para a [gestão de literatura]({{< relref "posts/literaturverwaltung" >}}) académica.
 
 ## Três dicas sobre a melhor forma de catalogar livros
 
@@ -89,7 +89,7 @@ Independentemente do meio que acabe por utilizar, há três factores que determi
 2. **Informação inteligente**: A informação que se pretende registar também é importante para a escolha da aplicação certa. O título e o autor são suficientes ou devem ser incluídos outros aspectos como o género, o estado de leitura, etc.?
 3. **Gestão do tempo**: Quanto mais livros tiver, mais tempo demorará a catalogá-los. Para não perder a motivação, planeie mais tempo. No final, será recompensado com uma biblioteca privada completa.
 
-![Pilha de livros a serem catalogados numa aplicação de livro.](images/buecher-stapel.jpg)
+![Pilha de livros a serem catalogados numa aplicação de livro.](buecher-stapel.jpg)
 
 Catalogação de livros © Kara / Adobe Stock
 

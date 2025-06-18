@@ -128,4 +128,4 @@ Le [modèle de gestion immobilière]({{< relref "templates/real-estate/property-
 
 Une base de données vous permet de saisir les photos et les points forts de vos biens immobiliers (par exemple, une cuisine entièrement équipée, une terrasse).
 
-[Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) pour utiliser le modèle et organiser efficacement vos données. Créez de manière flexible la structure de tableau dont vous avez besoin pour la gestion de l'immeuble, afin de garder une vue d'ensemble de toutes les données et de réduire autant que possible votre charge administrative.
+[Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) pour utiliser le modèle et organiser efficacement vos données. Créez de manière flexible la structure de tableau dont vous avez besoin pour la gestion de l'immeuble, afin de garder une vue d'ensemble de toutes les données et de réduire autant que possible votre charge administrative.

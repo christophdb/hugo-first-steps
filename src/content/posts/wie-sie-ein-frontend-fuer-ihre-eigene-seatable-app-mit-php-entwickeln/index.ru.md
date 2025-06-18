@@ -297,7 +297,7 @@ SeaTable - это невероятно мощная платформа с низ
 Создайте новый каталог для вашего проекта и скопируйте туда эти HTML-файлы.  
 Когда вы открываете HTML-файлы в браузере, стартовая страница, например, должна выглядеть следующим образом.
 
-![Внешний вид HTML-страниц для вашего приложения SeaTable с собственным фронтендом](images/html-struktur-eigenes-frontend-seatable-entwickeln.png)
+![Внешний вид HTML-страниц для вашего приложения SeaTable с собственным фронтендом](html-struktur-eigenes-frontend-seatable-entwickeln.png)
 
 ## Шаг 2: Подключение SeaTable через SeaTable PHP API
 

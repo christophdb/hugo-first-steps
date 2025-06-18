@@ -23,7 +23,7 @@ Unsere Checkliste für die Hochzeitplanung enthält bereits über 200 ToDos, dam
 
 ### Eigene To-dos erstellen
 
-Um mit der Planung Ihrer eigenen Hochzeit zu beginnen, müssen Sie sich für einen [Free-Account von SeaTable registrieren](https://seatable.io/registrierung/?lang=auto). Anschließend können Sie mithilfe unseres Templates _Wedding Planner_ mit der Planung Ihrer Hochzeit beginnen.
+Um mit der Planung Ihrer eigenen Hochzeit zu beginnen, müssen Sie sich für einen [Free-Account von SeaTable registrieren]({{< relref "pages/registration" >}}). Anschließend können Sie mithilfe unseres Templates _Wedding Planner_ mit der Planung Ihrer Hochzeit beginnen.
 
 Zusätzliche oder weitere To-dos können Sie an beliebiger Stelle in das Template einfügen. Wenn Sie ein neues _Parent To-do_ vergeben, wird automatisch eine neue Gruppe von Aufgaben angelegt. Die Sortierung der Aufgabengruppen erfolgt automatisch anhand der Vorlaufzeit zu Ihrer Hochzeit. Sie möchten die Aufgaben mit einem konkreten Datum versehen? Fügen Sie einfach eine neue [Datumsspalte](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/?lang=auto#datum) hinzu und versehen Sie jedes To-do mit einem Datum.
 
@@ -93,7 +93,7 @@ Mit unserer über 200 Punkte umfassenden _Checkliste_ kann bei der Planung Ihrer
 
 Selbst wenn Ihre Hochzeit etwas spezieller ist oder Sie andere Anforderungen haben, SeaTable lässt sich ganz nach Ihren Wünschen anpassen. Fügen Sie Tabellen hinzu, erstellen Sie [unterschiedliche Ansichten](https://seatable.io/docs/handbuch/datenmanagement/ansichten/?lang=auto), [gruppieren und filtern](https://seatable.io/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) Sie Ihre Daten und Ansichten oder probieren Sie die für Sie passende [PlugIns](https://seatable.io/docs/handbuch/schnelleinstieg/erweiterungen/?lang=auto) aus. So wäre es z.B. vorstellbar eine Wunschliste in den Wedding Planner zu integrieren und die Gäste können per Webformular im Vorfeld eintragen, welches Geschenk Sie aussuchen werden. Mit SeaTable könnte das Webformular so gestaltet sein, dass die Gäste nur Geschenke sehen, die noch kein anderer Gast ausgesucht hat. Der Fantasie sind wirklich keine Grenzen gesetzt.
 
-[Melden Sie sich jetzt an](https://seatable.io/registrierung/?lang=auto) und starten Sie mit der Planung Ihrer Hochzeit. Das ganze SeaTable Team wünscht Ihnen viel Spaß und eine tolle Hochzeit!
+[Melden Sie sich jetzt an]({{< relref "pages/registration" >}}) und starten Sie mit der Planung Ihrer Hochzeit. Das ganze SeaTable Team wünscht Ihnen viel Spaß und eine tolle Hochzeit!
 
 ### Deutsche Videoanleitungen auf YouTube
 

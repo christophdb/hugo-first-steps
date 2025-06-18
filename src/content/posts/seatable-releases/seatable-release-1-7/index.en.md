@@ -27,7 +27,7 @@ Additionally, we improved the search function. When the search finds a match in 
 
 In previous versions, SeaTable only supported three currencies: Euro, Dollar and Yuan. This meant that all those users who came from countries where none of these currencies were used were forced to choose one of these three when using a currency column. Sorry about that! But we have good news: With SeaTable 1.7 you can use any currency you can think of in the currency column.
 
-![Use whatever denomination you want in SeaTable 1.7](images/Custom_Currency_1590x802.png)
+![Use whatever denomination you want in SeaTable 1.7](Custom_Currency_1590x802.png)
 
 The payment column now has another format option: "Custom currency". If you select this, then you can define the currency of your choice. You can use abbreviations (e.g. CHF, SEK) as well as currency symbols (e.g. £, ₺ ). From now on, it is entirely your choice. For the sake of completeness, it should be mentioned: of course, the currency in each column can be set individually. One column should be $ and the other CHF? Go ahead!
 
@@ -41,7 +41,7 @@ With the new version SeaTable becomes more tolerant regarding syntax and thus al
 
 There are a few new features in SeaTable 1.7, one of which is the import function for Excel. With this you can create new bases based on existing XLSX files. Simply select "Import Base (XLSX, CSV, DTABLE)" and navigate to the desired XLSX file. A preview will then show how SeaTable interprets the data. With a click on "Save" the base is created and the data is stored in SeaTable.
 
-![Create new bases by importing an excel workbook](images/Excel_Import_1590x802.png)
+![Create new bases by importing an excel workbook](Excel_Import_1590x802.png)
 
 The XLSX import adds to the existing CSV and DTABLE import functions. Compared to the CSV import, which has been around since SeaTable 1.0, importing from an Excel file has one major advantage: All the worksheets in a workbook are imported in one go. A text file, which CSV is, can only contain data for one and the same sheet. Any base created from a comma-separated file can therefore only contain one table. And there is another benefit: When importing a CSV file, all values are imported into text columns. Not so when importing an XLSX file! SeaTable interprets the contents of the columns in the source file and imports them in the corresponding column types. Columns with numbers only are imported in number columns; a column that contains only dates is imported into a date column. In the future, we'll add an automatic import of formula columns.
 
@@ -49,6 +49,6 @@ The XLSX import adds to the existing CSV and DTABLE import functions. Compared t
 
 You've been missing a search and replace function in SeaTable? So have we and this is why we are happy to say now: Not anymore! Batch replacement searches for a particular string - term, character, or symbol - in a target column and replaces it with any other value. The search can be either a simple search or an exact search, meaning the search string must match the content of the entire cell. In short, it works like its counterpart in Word and Excel for all practical purposes.
 
-![New feature in SeaTable 1.6.3: Batch replacement](images/Batch_replacement_1590x717.png)
+![New feature in SeaTable 1.6.3: Batch replacement](Batch_replacement_1590x717.png)
 
 Batch replacement is actually not a new feature of SeaTable 1.7, but SeaTable 1.6.3. Our developers finalized it a few days after the release of SeaTable 1.6. Because we didn't want you to wait for it for almost one month, we added it to the SeaTable Cloud after completion where it has been available for more than two weeks now.

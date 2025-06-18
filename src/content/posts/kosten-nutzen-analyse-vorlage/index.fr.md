@@ -26,7 +26,7 @@ Profitez d'une analyse coûts-bénéfices. Droits d'image : amazing studio / Ado
 
 ## Où utiliser l'analyse coûts-avantages ?
 
-En règle générale, plus un [projet]({{< relref "templates/projects/project-plan" >}}) est important, plus le montant de l'investissement est élevé. Alors que les [coûts](https://seatable.io/fr/budgetplanung-vorlage/) d'un investissement sont généralement faciles à déterminer, les bénéfices concrets sont beaucoup plus difficiles à identifier. Cela s'explique par le fait que ni le succès ni l'impact d'une mesure ne peuvent être prédits et chiffrés à l'avance. De plus, l'utilité d'un investissement est souvent évaluée subjectivement par les décideurs.
+En règle générale, plus un [projet]({{< relref "templates/projects/project-plan" >}}) est important, plus le montant de l'investissement est élevé. Alors que les [coûts]({{< relref "templates/finance/budget-book" >}}) d'un investissement sont généralement faciles à déterminer, les bénéfices concrets sont beaucoup plus difficiles à identifier. Cela s'explique par le fait que ni le succès ni l'impact d'une mesure ne peuvent être prédits et chiffrés à l'avance. De plus, l'utilité d'un investissement est souvent évaluée subjectivement par les décideurs.
 
 Un CBA aide à documenter de manière claire tous les facteurs possibles qui ont un impact sur une décision d'entreprise et à les évaluer de manière interdépartementale, objective et neutre. Pour cela, il est avantageux de miser sur une **base de données**. En effet, celui qui réalise son analyse coûts/bénéfices à l'aide d'un modèle permet à toutes les personnes concernées de travailler sur la même base. Ainsi, aucune donnée n'est perdue, les aspects importants ne sont pas négligés et les facteurs supplémentaires que d'autres départements jugent pertinents peuvent être facilement ajoutés.
 
@@ -41,7 +41,7 @@ En principe, une analyse coûts-bénéfices est toujours appropriée lorsque des
 - introduire de nouveaux processus de gestion d'entreprise
 - souhaitez augmenter votre [parc de véhicules](https://seatable.io/fr/fuhrparkmanagement/)
 
-![Le collaborateur établit un modèle d'analyse coûts-bénéfices.](images/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
+![Le collaborateur établit un modèle d'analyse coûts-bénéfices.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 
 Un employé effectue une analyse coûts-bénéfices. Droits d'image : Andrey Popov / Adobe Stock
 
@@ -100,4 +100,4 @@ Outre l'analyse coûts-avantages classique, il existe [d'autres formes et métho
 
 Vous pouvez certes effectuer votre analyse coûts/bénéfices à la main avec de simples tableaux, mais il est plus pratique d'utiliser une base de données intelligente qui calcule automatiquement les valeurs souhaitées à l'aide de formules et de liens.
 
-Les avantages d'une analyse coûts-bénéfices vous ont convaincu ? Alors vous trouverez [ici]({{< relref "templates/finance/cost-benefit-analysis" >}}) le modèle correspondant. Si vous n'avez pas encore de compte SeaTable, vous pouvez [vous inscrire gratuitement](https://seatable.io/fr/enregistrement/). Essayez-le !
+Les avantages d'une analyse coûts-bénéfices vous ont convaincu ? Alors vous trouverez [ici]({{< relref "templates/finance/cost-benefit-analysis" >}}) le modèle correspondant. Si vous n'avez pas encore de compte SeaTable, vous pouvez [vous inscrire gratuitement]({{< relref "pages/registration" >}}). Essayez-le !

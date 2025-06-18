@@ -84,7 +84,7 @@ Muchas ideas pueden plasmarse en **listas**. Lo importante es que enumere cosas 
 
 **Los rastreadores** son probablemente el complemento más conocido del bullet journal. Ayudan a documentar las tareas habituales. Existen distintos tipos de marcadores:
 
-- **Habit Tracker**: Establece nuevos hábitos y deshazte de los malos. Puedes encontrar un artículo detallado sobre esto [aquí](https://seatable.io/es/habit-tracker-gewohnheiten-aendern/).
+- **Habit Tracker**: Establece nuevos hábitos y deshazte de los malos. Puedes encontrar un artículo detallado sobre esto [aquí]({{< relref "posts/habit-tracker" >}}).
 - **Seguimiento del estado de ánimo**: Registra cómo cambia tu estado de ánimo durante un periodo de tiempo más largo.
 - **Sleep Tracker**: Controla tus horas de sueño y lo bien que has dormido.
 - **Rastreador de agua**: Asegúrate de beber suficiente agua cada día para mantenerte sano.

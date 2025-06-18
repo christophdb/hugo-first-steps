@@ -12,9 +12,9 @@ seo:
 
 La Ley del Impuesto sobre la Renta describe tres categorías de **gastos** que los trabajadores pueden hacer que **les reembolse** su empresa. Además de los pedidos realizados por cuenta de la empresa y los gastos en que se incurre para cumplir un pedido, esto también se aplica a los **viajes de negocios**. Ya se trate de un viaje de negocios de varios días, una reunión con un cliente lejano o el desplazamiento a una feria, los viajes de negocios forman parte de la vida cotidiana de muchos empleados. En el siguiente artículo, no sólo aprenderá qué es un **informe de gastos de viaje**, sino que también recibirá valiosos consejos sobre cómo crear uno.
 
-![Viaje de negocios: La mano en la maleta](images/guests-with-suitcases-hotel-reception-711x474.jpg)
+![Viaje de negocios: La mano en la maleta](guests-with-suitcases-hotel-reception-711x474.jpg)
 
-Las empresas suelen realizar un [análisis coste-beneficio](https://seatable.io/es/kosten-nutzen-analyse-vorlage/) de los viajes de negocios para asegurarse de que el gasto está justificado.
+Las empresas suelen realizar un [análisis coste-beneficio]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) de los viajes de negocios para asegurarse de que el gasto está justificado.
 
 ## Qué es un informe de gastos de viaje
 
@@ -30,7 +30,7 @@ Para **empresarios** Una contabilidad correcta de los gastos de viaje no sólo e
 
 También para **empleados** preparar un informe de gastos de viaje tiene sus ventajas. Aunque puede reclamar los costes de un viaje de negocios como gastos relacionados con los ingresos en su **declaración de la renta**, esto sólo reduce su salario bruto anual. Por tanto, el reembolso de los gastos por parte de la empresa suele ser la opción más sensata desde el punto de vista económico.
 
-![Informe de gastos de viaje: Una mujer está haciendo papeleo y tecleando en una calculadora.](images/entrepreneur-working-with-bills-711x474.jpg)
+![Informe de gastos de viaje: Una mujer está haciendo papeleo y tecleando en una calculadora.](entrepreneur-working-with-bills-711x474.jpg)
 
 Los empleados registran sus gastos y los presentan para su reembolso.
 
@@ -50,7 +50,7 @@ Los costes de alojamiento incluyen gastos como **estancias en hoteles** o el **a
 
 Una característica importante de la facturación de los gastos de alojamiento es la **contribución personal** para el desayuno y otras comidas. A menudo se establece una cantidad fija para ello, normalmente 5,60 euros para el desayuno y 11,20 euros para una cena. Estos importes corren a cargo del empleado y deben tenerse en cuenta en consecuencia en el informe de gastos de viaje.
 
-![Informe de gastos de viaje: una habitación de hotel en colores tierra.](images/pexels-pixabay-164595-711x474.jpg)
+![Informe de gastos de viaje: una habitación de hotel en colores tierra.](pexels-pixabay-164595-711x474.jpg)
 
 El hotel suele elegirse en función del presupuesto de la empresa y de las directrices aplicables a los viajes de negocios.
 
@@ -80,7 +80,7 @@ Espaciador
 - Entradas para eventos profesionales
 - Robo de bienes profesionales
 
-![Informe de gastos de viaje: una autopista de peaje.](images/pexels-nandhukumar-16967276-711x443.jpg)
+![Informe de gastos de viaje: una autopista de peaje.](pexels-nandhukumar-16967276-711x443.jpg)
 
 Los gastos imprevistos de viaje también incluyen las tasas por el uso de autopistas u otras carreteras de peaje.
 

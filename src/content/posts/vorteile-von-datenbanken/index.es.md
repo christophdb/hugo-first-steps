@@ -89,7 +89,7 @@ Puedes guardar los resultados de estas consultas como una **vista** que represen
 
 Mientras que antes había que aprender determinados lenguajes informáticos para realizar las consultas de datos mencionadas, hoy en día hay muchos sistemas de bases de datos como SeaTable que están equipados con una interfaz gráfica de usuario intuitiva. Gracias a ellos, incluso los principiantes pueden utilizar inmediatamente las bases de datos para mejorar su flujo de trabajo.
 
-![Ventajas de bases de datos como SeaTable](images/Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
+![Ventajas de bases de datos como SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
 A diferencia de las bases de datos tradicionales, SeaTable tiene una interfaz gráfica de usuario.
 

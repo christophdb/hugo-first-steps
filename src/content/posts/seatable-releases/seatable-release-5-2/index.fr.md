@@ -16,7 +16,7 @@ Ce matin, à 6 heures, heure d'Europe centrale, SeaTable Cloud a été mis à jo
 
 ## Règles de filtrage complexes avec groupes de filtres
 
-La version 5.2 rend [les fonctions de filtrage](https://seatable.io/fr/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) de SeaTables encore plus puissantes. Les nouveaux groupes de filtres permettent de **combiner des règles de filtrage avec les opérateurs logiques ET et OU**. Exemple : on recherche des hommes nés après 1979 (groupe de filtres 1) ou des femmes nées après 1984 (groupe de filtres 2). Un tel filtrage n'était jusqu'à présent pas possible dans SeaTable. Dans les versions précédentes, toutes les règles de filtrage étaient liées soit à l'opérateur logique ET, soit à l'opérateur logique OU.
+La version 5.2 rend [les fonctions de filtrage]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) de SeaTables encore plus puissantes. Les nouveaux groupes de filtres permettent de **combiner des règles de filtrage avec les opérateurs logiques ET et OU**. Exemple : on recherche des hommes nés après 1979 (groupe de filtres 1) ou des femmes nées après 1984 (groupe de filtres 2). Un tel filtrage n'était jusqu'à présent pas possible dans SeaTable. Dans les versions précédentes, toutes les règles de filtrage étaient liées soit à l'opérateur logique ET, soit à l'opérateur logique OU.
 
 ![Groupes de filtres dans SeaTable 5.2](Fitlergroups.png)
 
@@ -44,7 +44,7 @@ Outre le contrôle des autorisations, la nouvelle version contient encore deux a
 
 ### Type de page Formulaire
 
-Les [formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/) simples qui peuvent être créés dans la base offrent une **option de redirection**. Les utilisateurs sont automatiquement redirigés vers une page web après la soumission. Nous avons désormais ajouté cette fonction aux [pages de formulaire](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/), en tenant compte des spécificités de l'app. Une redirection peut se faire soit vers une autre page de l'app, soit vers une URL externe. Les autres pages de l'app peuvent être facilement sélectionnées dans un menu déroulant. Il est également possible de définir si la redirection s'effectue dans un nouvel onglet ou dans le même onglet.
+Les [formulaires web]({{< relref "help/base-editor/webformulare" >}}) simples qui peuvent être créés dans la base offrent une **option de redirection**. Les utilisateurs sont automatiquement redirigés vers une page web après la soumission. Nous avons désormais ajouté cette fonction aux [pages de formulaire](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/), en tenant compte des spécificités de l'app. Une redirection peut se faire soit vers une autre page de l'app, soit vers une URL externe. Les autres pages de l'app peuvent être facilement sélectionnées dans un menu déroulant. Il est également possible de définir si la redirection s'effectue dans un nouvel onglet ou dans le même onglet.
 
 ### Type de page Tableau
 

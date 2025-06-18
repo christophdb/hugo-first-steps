@@ -16,13 +16,13 @@ Heute Morgen haben wir SeaTable Cloud auf Version 4.4 aktualisiert. Alle Selbsth
 
 ## Flexiblerer, leistungsfähigerer App Builder
 
-In SeaTable 4.4 haben wir wieder jede Menge Verbesserungen und Bugfixes an der [Universellen App](https://seatable.io/docs/apps/universelle-app/) vorgenommen, von denen fast alle [Seitentypen](https://seatable.io/docs/universelle-apps/seitentypen-in-der-universellen-app/) profitieren. Das Ende der Beta-Phase rückt damit in greifbare Nähe.
+In SeaTable 4.4 haben wir wieder jede Menge Verbesserungen und Bugfixes an der [Universellen App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) vorgenommen, von denen fast alle [Seitentypen](https://seatable.io/docs/universelle-apps/seitentypen-in-der-universellen-app/) profitieren. Das Ende der Beta-Phase rückt damit in greifbare Nähe.
 
 ### Buttons auf Abfrageseiten
 
 [Abfrageseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) unterstützen nun die Ausführung von Schaltflächen-Aktionen: Nach einer erfolgreichen Datenabfrage können Sie in der angezeigten Trefferliste [Schaltflächen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) betätigen, um Aktionen auszuführen. Dies ist eine besondere Neuerung, denn bisher war in SeaTable nirgends eine Interaktion mit abgefragten Zeilen möglich.
 
-![Schaltflächen auf Abfrageseiten ausführen](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
+![Schaltflächen auf Abfrageseiten ausführen](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
 Ein Anwendungsbeispiel ist eine interne Stellenbörse: Die Abfrageseite erlaubt die schnelle Suche nach relevanten Positionen. Ist eine interessante Stelle dabei, dann reicht ein Klick auf die Schaltfläche in den Suchergebnissen, um sich direkt für die Stelle zu bewerben.
 
@@ -34,11 +34,11 @@ Bislang war es nicht möglich, Termine auf der [Kalenderseite](https://seatable.
 
 Wie in der Base können Sie nun auch auf den [Tabellenseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) Ihrer Apps mit nur einem Klick auf den Spaltenkopf [alle Einträge in einer Spalte markieren](https://seatable.io/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/). Auch der praktische [Füllgriff](https://seatable.io/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) ist nun möglich: Ziehen Sie das kleine Quadrat in der unteren rechten Ecke einer Zelle nach unten, um den Wert in alle darunterliegenden Zeilen zu übertragen.
 
-![Spalteneinträge markieren](images/Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
+![Spalteneinträge markieren](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
 ### Mitarbeiter-Spalte auf Formularseiten verfügbar
 
-Wenn Sie eine [Mitarbeiter-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) in Ihrer Tabelle nutzen, ist diese in [Webformularen](https://seatable.io/docs/webformulare/webformulare/) **nicht** verfügbar. Jedoch können Sie ab SeaTable 4.4 Mitarbeiter-Spalten auf [Formularseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) der Universellen App hinzufügen. So können sich Ihre Teammitglieder beispielsweise bei einem Urlaubsantrag selbst auswählen und müssen ihre Namen nicht mehr manuell eintragen. Zuvor müssen Sie in den [App-Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) die Option aktivieren, dass die Mitarbeiterliste angezeigt werden soll.
+Wenn Sie eine [Mitarbeiter-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) in Ihrer Tabelle nutzen, ist diese in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) **nicht** verfügbar. Jedoch können Sie ab SeaTable 4.4 Mitarbeiter-Spalten auf [Formularseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) der Universellen App hinzufügen. So können sich Ihre Teammitglieder beispielsweise bei einem Urlaubsantrag selbst auswählen und müssen ihre Namen nicht mehr manuell eintragen. Zuvor müssen Sie in den [App-Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) die Option aktivieren, dass die Mitarbeiterliste angezeigt werden soll.
 
 ### Mehr Customizing-Optionen für individuelle Seiten
 
@@ -50,7 +50,7 @@ Wie in den letzten Release Notes angekündigt, haben wir in SeaTable 4.4 den **G
 
 {{< warning headline="Gut zu wissen" text="**Bestehende Galerie-Apps funktionieren weiterhin**. Wir empfehlen aber, bestehende Galerie-Apps auf Universelle Apps umzustellen, um von Weiterentwicklungen und Verbesserungen zu profitieren." />}}
 
-![Create app dialog](images/Create-app-dialog-.png)
+![Create app dialog](Create-app-dialog-.png)
 
 Auch bei der [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/) hat sich einiges getan. Der alte App Builder für Datenabfragen wurde entfernt und durch einen neuen auf Basis des Universal App Builders ersetzt. Das heißt: Sie können natürlich weiterhin öffentliche Apps für die Abfrage Ihrer Bases anlegen, das Interface sieht nun aber aus wie im Universal App Builder. Für bestehende Abfrage-Apps gilt das Gleiche wie für Galerie-Apps: Sie müssen nichts tun und können diese weiter verwenden.
 
@@ -58,9 +58,9 @@ Auch bei der [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/)
 
 ## Angenehmere User Experience beim Excel Import
 
-Mit SeaTable 4.4 wird der [Import von Excel Tabellen](https://seatable.io/docs/import-von-daten/import-von-excel-dateien-in-seatable/) schneller, flexibler und stabiler: Tabellen mit vielen Tausend Zeilen werden nun in wenigen Augenblicken in SeaTable bereitgestellt. Im deutlich verbreiterten Vorschaufenster können Sie jetzt wählen, welche Tabellen einer Arbeitsmappe – alle oder nur einzelne – Sie aus der XLSX-Datei importieren möchten. Während Sonderzeichen in Spaltennamen und andere Spezialfälle in der Vergangenheit zu unerwünschten Ergebnissen führten, werden diese nun zuverlässig berücksichtigt. Verbesserte Fehlermeldungen geben klare Hinweise auf Konflikte, insbesondere beim [Import in den Big-Data-Speicher](https://seatable.io/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/).
+Mit SeaTable 4.4 wird der [Import von Excel Tabellen]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) schneller, flexibler und stabiler: Tabellen mit vielen Tausend Zeilen werden nun in wenigen Augenblicken in SeaTable bereitgestellt. Im deutlich verbreiterten Vorschaufenster können Sie jetzt wählen, welche Tabellen einer Arbeitsmappe – alle oder nur einzelne – Sie aus der XLSX-Datei importieren möchten. Während Sonderzeichen in Spaltennamen und andere Spezialfälle in der Vergangenheit zu unerwünschten Ergebnissen führten, werden diese nun zuverlässig berücksichtigt. Verbesserte Fehlermeldungen geben klare Hinweise auf Konflikte, insbesondere beim [Import in den Big-Data-Speicher](https://seatable.io/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/).
 
-![Excel-Import](images/Excel-Import.png)
+![Excel-Import](Excel-Import.png)
 
 {{< warning headline="Kleiner Vorgeschmack" text="Mit SeaTable 5.0 machen wir den Import noch flexibler! Dann lassen sich auch einzelne Spalten einer Tabelle auswählen und vom Import ausschließen." />}}
 
@@ -70,23 +70,23 @@ Mit SeaTable 4.4 wird der [Import von Excel Tabellen](https://seatable.io/docs/i
 
 1. Wenn Sie eine [Base kopieren](https://seatable.io/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/), in die gemeinsame Datensätze eingebunden sind, können Sie entscheiden, ob Sie die Verbindung zu diesen Datensätzen beibehalten wollen. Die Gruppe, in die Sie die Base kopieren, muss dafür natürlich Zugriff auf die gemeinsamen Datensätze haben.
 
-    ![Retain link to common dataset when copying a base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
+    ![Retain link to common dataset when copying a base](Retain-link-to-common-dataset-when-copying-a-base.gif)
 
 2. Nach der [Wiederherstellung von Bases aus Snapshots](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) oder der [Erstellung einer Base aus einer Vorlage](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) können Sie bestehende Tabellen mit einem gemeinsamen Datensatz verknüpfen und dadurch die Synchronisation mit den dortigen Daten ermöglichen. Bisher ließen sich gemeinsame Datensätze nicht reimportieren, sondern nur in neue Tabellen einbinden.
 
-    ![Reimport common dataset](images/Reimport-common-dataset.gif)
+    ![Reimport common dataset](Reimport-common-dataset.gif)
 
 3. Der Ersteller eines gemeinsamen Datensatzes kann neuerdings die [Synchronisation](https://seatable.io/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) aller abhängigen Tabellen mit dem Datensatz erzwingen und so sicherstellen, dass die anderen Benutzer in ihren Bases den aktuellen Stand der Daten verwenden. In der Vergangenheit mussten Sie darauf vertrauen, dass die Benutzer die automatische Synchronisation eingerichtet haben oder die Synchronisation manuell anstoßen.
 
-    ![Force sync of common dataset](images/Force-sync-of-common-dataset.png)
+    ![Force sync of common dataset](Force-sync-of-common-dataset.png)
 
 ## Standardwerte greifen überall
 
-Mit Version 4.4 generalisiert SeaTable die Anwendung von [Standardwerten](https://seatable.io/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Wenn Sie eine neue Zeile anlegen, sei es in der Tabelle einer Base oder App, per [Link-Spalte](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [Webformular](https://seatable.io/docs/webformulare/webformulare/), [Schaltfläche](https://seatable.io/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) oder [Automation](https://seatable.io/docs/automationen/automations-aktionen/), kommen die Standardwerte bei der Erstellung der Zeile überall zum Tragen. Bisher griffen die Standardwerte nur, wenn in einer Tabelle manuell eine neue Zeile angelegt wurde.
+Mit Version 4.4 generalisiert SeaTable die Anwendung von [Standardwerten](https://seatable.io/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Wenn Sie eine neue Zeile anlegen, sei es in der Tabelle einer Base oder App, per [Link-Spalte](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [Webformular]({{< relref "help/base-editor/webformulare" >}}), [Schaltfläche](https://seatable.io/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) oder [Automation](https://seatable.io/docs/automationen/automations-aktionen/), kommen die Standardwerte bei der Erstellung der Zeile überall zum Tragen. Bisher griffen die Standardwerte nur, wenn in einer Tabelle manuell eine neue Zeile angelegt wurde.
 
 Da sich der Wirkungsbereich der Standardwerte erheblich vergrößert hat, haben wir bei den Spaltenoptionen auch einen prominenten Menüpunkt geschaffen, über den Sie die Standardwerte bequem einstellen können.
 
-![Standardwert greift überall bei neuen Zeilen](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
+![Standardwert greift überall bei neuen Zeilen](Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
 {{< warning headline="Hinweis" text="Wenn sowohl in der Tabelle als auch im Webformular ein Standardwert definiert ist, greift der Wert aus dem Formular für alle Zeilen, die über das Formular erstellt werden." />}}
 

@@ -14,7 +14,7 @@ Las vacaciones de verano están llegando a su fin y esperamos que haya disfrutad
 
 ¿Utiliza ya procesos automatizados en sus bases para ahorrar tiempo y clics? Entonces le gustará que hayamos refinado las opciones y mejorado el rendimiento de las [automatizaciones](https://seatable.io/es/docs/automationen/uebersicht-ueber-automationen/). Los usuarios intensivos de SeaTable estarán especialmente satisfechos con el mayor límite de ejecución. La [gestión de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) introducida en la versión 4.0 le ofrece ahora dos funciones más que simplifican el trabajo con archivos.
 
-El desarrollo del [Universal App Builder](https://seatable.io/es/docs/apps/universelle-app/) avanza a pasos agigantados: SeaTable 4.1 incorpora nuevas funciones para que pueda diferenciar con mayor precisión los permisos de usuario y la visualización de datos en las aplicaciones. Además, hemos mejorado o añadido muchas funciones menores en SeaTable 4.1. Compruébelo usted mismo: ¡la lista es larga y muy agradable!
+El desarrollo del [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) avanza a pasos agigantados: SeaTable 4.1 incorpora nuevas funciones para que pueda diferenciar con mayor precisión los permisos de usuario y la visualización de datos en las aplicaciones. Además, hemos mejorado o añadido muchas funciones menores en SeaTable 4.1. Compruébelo usted mismo: ¡la lista es larga y muy agradable!
 
 Esta mañana hemos actualizado SeaTable Cloud a la versión 4.1. Todos los auto-alojadores pueden hacer lo mismo: La imagen de SeaTable 4.1 está disponible para su descarga en el conocido [repositorioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como siempre, puede encontrar la lista completa de cambios en el [registro de cambios](https://seatable.io/es/docs/changelog/version-4/).
 
@@ -24,7 +24,7 @@ Para las automatizaciones con el [disparador](https://seatable.io/es/docs/automa
 
 Además, hemos mejorado el rendimiento de algunas [acciones](https://seatable.io/es/docs/automationen/automations-aktionen/) y ampliado sus funciones. Por ejemplo, la acción "Editar entrada" ahora también ofrece la opción de establecer el valor de una columna de fecha en**"Vacío**".
 
-![Nuevas opciones de automatización](images/New-options-for-automation.png)
+![Nuevas opciones de automatización](New-options-for-automation.png)
 
 {{< warning headline="Mayor límite de ejecución para las automatizaciones" >}}
 
@@ -38,7 +38,7 @@ La [gestión de](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagem
 
 Gracias a la papelera de reciclaje, los archivos borrados por error no se pierden permanentemente, sino que pueden restaurarse. Los archivos borrados permanecen en la papelera de reciclaje durante **60 días** antes de ser eliminados definitivamente del sistema. Si se desea que los archivos desaparezcan de la papelera de reciclaje más rápidamente, ésta también se puede vaciar manualmente.
 
-![Papelera de reciclaje y campo de búsqueda en la gestión de archivos](images/New-trash-and-search-in-the-file-management.png)
+![Papelera de reciclaje y campo de búsqueda en la gestión de archivos](New-trash-and-search-in-the-file-management.png)
 
 También es nueva la función de búsqueda con la que puedes buscar tus propias carpetas en la gestión de archivos. Basta con introducir un término de búsqueda en el campo de búsqueda. SeaTable muestra todos los archivos que contienen el término de búsqueda en el nombre del archivo. Si un archivo no está donde esperaba, podrá encontrarlo rápidamente.
 
@@ -54,7 +54,7 @@ La **configuración** por defecto de las vistas es otra de las novedades de las 
 
 Aquí no acaban las mejoras en el lado de la tabla: con un solo clic puedes mostrar el formato de celda condicional de la tabla subyacente y así [colorear las celdas](https://seatable.io/es/docs/ansichtsoptionen/einfaerben-von-zellen/).
 
-![Nuevas funciones en Universal App Builder](images/New-functions-in-the-Universal-App-Builder.png)
+![Nuevas funciones en Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
 Y los demás tipos de página tampoco se quedan con las manos vacías: Los [tipos de página](https://seatable.io/es/docs/apps/seitentypen-in-der-universellen-app/) consulta y formulario web ahora también ofrecen permisos de página. En la página individual, los elementos pueden moverse y colocarse más fácilmente.
 

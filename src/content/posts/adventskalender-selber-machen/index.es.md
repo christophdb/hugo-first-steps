@@ -158,7 +158,7 @@ Si los paquetes son ligeros, puedes colgarlos en la pared con una cuerda o perch
 
 ## 5\. compre todo lo que necesite
 
-Hay mucho que comprar y poco tiempo. Para asegurarte de que consigues todo lo que necesitas, tiene sentido elaborar una [lista de la compra](https://seatable.io/es/einkaufsliste/). Investiga con tiempo dónde puedes conseguir lo que necesitas. Especialmente si haces mucho bricolaje, no sólo debes pensar en los materiales, sino también en las herramientas.
+Hay mucho que comprar y poco tiempo. Para asegurarte de que consigues todo lo que necesitas, tiene sentido elaborar una [lista de la compra]({{< relref "posts/einkaufsliste" >}}). Investiga con tiempo dónde puedes conseguir lo que necesitas. Especialmente si haces mucho bricolaje, no sólo debes pensar en los materiales, sino también en las herramientas.
 
 ### Planifique en línea con qué llenar sus calendarios de Adviento
 
@@ -172,6 +172,6 @@ Un **calendario de adviento digital** es sostenible y creativo. Si quieres hacer
 
 Puedes utilizar SeaTable para crear tu calendario de Adviento virtual. Diseña una puertecita para cada día, crea una galería con la ayuda de una aplicación y haz que tu contenido, seleccionado con cariño, esté fácilmente disponible a través de un enlace.
 
-![Calendario de Adviento privado](images/Private-Advent-Calendar.png)
+![Calendario de Adviento privado](Private-Advent-Calendar.png)
 
 Si desea utilizar SeaTable para crear calendarios de Adviento analógicos y/o digitales, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente con su dirección de correo electrónico. También puede encontrar la plantilla gratuita [aquí]({{< relref "templates/events/advent-calendar" >}}).

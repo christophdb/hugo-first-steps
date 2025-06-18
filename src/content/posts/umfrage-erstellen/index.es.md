@@ -14,7 +14,7 @@ seo:
 
 El siguiente artículo destaca las ventajas y los criterios importantes para crear encuestas en línea y compara siete herramientas prometedoras.
 
-![Crear una encuesta: Ordenador portátil con resultados](images/feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
+![Crear una encuesta: Ordenador portátil con resultados](feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
 
 La encuesta en línea demuestra ser una herramienta extremadamente eficaz para la recogida de datos.
 
@@ -32,7 +32,7 @@ Una ventaja clave de crear encuestas en línea es la posibilidad de seguir y ana
 
 Para obtener buenos resultados, es especialmente importante que formule las preguntas con cuidado al crear una encuesta. Las preguntas mal formuladas pueden dar lugar a respuestas inexactas o sesgadas, lo que puede afectar a la **validez de** sus datos. Sería una lástima, sobre todo si has invertido mucho tiempo y esfuerzo en la encuesta. Para evitar este tipo de problemas, Rolf Porst ha formulado [diez principios](https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/howto/how-to2rp.pdf) que siempre hay que tener en cuenta a la hora de formular encuestas.
 
-![Lista de control sobre los 10 principios de la formulación de preguntas.](images/Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
+![Lista de control sobre los 10 principios de la formulación de preguntas.](Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
 
 Los 10 mandamientos de la formulación de preguntas según Rolf Porst.
 
@@ -46,7 +46,7 @@ Aporte **variedad** a su encuesta para mantener el interés de los participantes
 
 Incluso después de completar la encuesta, es importante mostrar **agradecimiento**. Los participantes han invertido su valioso tiempo en ayudarle y, por tanto, merecen un reconocimiento. Un breve mensaje de agradecimiento al final de la encuesta puede ayudar a los participantes a sentirse apreciados y dispuestos a volver a participar en encuestas en el futuro.
 
-![Crear encuesta: Mujer ríe a cámara](images/pexels-andrea-piacquadio-3769021-711x474.jpg)
+![Crear encuesta: Mujer ríe a cámara](pexels-andrea-piacquadio-3769021-711x474.jpg)
 
 Con una encuesta bien diseñada, puede evitar un alto índice de cancelaciones.
 
@@ -138,11 +138,11 @@ Una característica especial de esta herramienta es la posibilidad de mostrar la
 
 ### SeaTable
 
-Los [formularios web](https://seatable.io/es/docs/webformulare/webformulare/) de **SeaTable** permiten realizar encuestas en las que los datos recogidos se guardan automáticamente en una tabla con un backend de base de datos. Esto facilita la correlación de los datos. Se dispone de varias [estadísticas](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin/) para analizar y procesar los resultados de la encuesta, y todos los datos pueden filtrarse, clasificarse y agruparse con claridad y visualizarse mediante [plug-ins](https://seatable.io/es/docs/plugins/alle-plugins-in-der-uebersicht/) gráficos. SeaTable también permite exportar los datos para análisis o informes posteriores.
+Los [formularios web]({{< relref "help/base-editor/webformulare" >}}) de **SeaTable** permiten realizar encuestas en las que los datos recogidos se guardan automáticamente en una tabla con un backend de base de datos. Esto facilita la correlación de los datos. Se dispone de varias [estadísticas](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin/) para analizar y procesar los resultados de la encuesta, y todos los datos pueden filtrarse, clasificarse y agruparse con claridad y visualizarse mediante [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) gráficos. SeaTable también permite exportar los datos para análisis o informes posteriores.
 
-Aunque no dispone de la misma gama de funciones para crear encuestas que Surveymonkey, por ejemplo, ofrece muchas aplicaciones prácticas gracias a sus opciones de personalización y su funcionamiento intuitivo. La posibilidad de recopilar distintos tipos de datos y analizar los resultados en [colaboración con un equipo](https://seatable.io/es/docs/seatable-nutzen/zusammenarbeit/) convierte a SeaTable en una herramienta flexible para encuestas y otros proyectos.
+Aunque no dispone de la misma gama de funciones para crear encuestas que Surveymonkey, por ejemplo, ofrece muchas aplicaciones prácticas gracias a sus opciones de personalización y su funcionamiento intuitivo. La posibilidad de recopilar distintos tipos de datos y analizar los resultados en [colaboración con un equipo]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) convierte a SeaTable en una herramienta flexible para encuestas y otros proyectos.
 
-En cuanto a la protección de datos, SeaTable cumple todos los requisitos del GDPR y ofrece seguridad adicional, ya que los datos se almacenan exclusivamente en centros de datos alemanes. Además de la versión en la nube, existe incluso la opción de instalar SeaTable [en su propio servidor](https://seatable.io/es/on-premises/) para conservar la plena soberanía de los datos.
+En cuanto a la protección de datos, SeaTable cumple todos los requisitos del GDPR y ofrece seguridad adicional, ya que los datos se almacenan exclusivamente en centros de datos alemanes. Además de la versión en la nube, existe incluso la opción de instalar SeaTable [en su propio servidor]({{< relref "pages/product/seatable-server" >}}) para conservar la plena soberanía de los datos.
 
 **Ámbito de aplicación:** Encuestas  
 **Facilidad de uso:** muy buena  
@@ -153,7 +153,7 @@ En cuanto a la protección de datos, SeaTable cumple todos los requisitos del GD
 
 Puede utilizar todas las funciones del formulario web de SeaTable de forma gratuita. Solo la personalización del diseño requiere una suscripción Enterprise de 14 € al mes.
 
-![Una encuesta de satisfacción del cliente como ejemplo](images/Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
+![Una encuesta de satisfacción del cliente como ejemplo](Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
 
 Ejemplo de encuesta de opinión de clientes en SeaTable
 

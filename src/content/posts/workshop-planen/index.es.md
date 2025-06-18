@@ -49,7 +49,7 @@ Con SeaTable, siempre tendrá una visión general de sus talleres y programas de
 
 Por supuesto, debe adaptar su oferta a sus necesidades e identificar dónde se requiere la **transferencia de conocimientos** en su empresa. Si su empresa opera a escala internacional, sus empleados pueden estar muy interesados en un curso de inglés comercial para refrescar sus **conocimientos lingüísticos**. Es probable que todos los nuevos empleados necesiten formación en **seguridad informática** y una introducción a las **aplicaciones de software** que utilizan.
 
-![Panorama de sus talleres](images/Overview-1.jpg)
+![Panorama de sus talleres](Overview-1.jpg)
 
 Obtenga una visión general de todos los talleres, cursos de formación y medidas de formación continua que ya se están impartiendo en su empresa o para los que existe una demanda adicional. Puede registrar fácilmente en una base de datos toda la información y los documentos importantes relativos a un taller. El enlace con otras tablas permite la asignación directa a un tutor.
 
@@ -57,7 +57,7 @@ Obtenga una visión general de todos los talleres, cursos de formación y medida
 
 Dependiendo de si en su empresa se dispone de los conocimientos necesarios sobre un tema, puede contratar a **sus empleados** o a **expertos externos** como formadores para sus talleres. Compruebe si los entrenadores son adecuados para dirigir un taller con el éxito deseado. También debe facilitar información como datos de contacto, foto y cualificaciones de los entrenadores.
 
-![Guarde toda la información importante sobre sus formadores de taller](images/Coaches-1.jpg)
+![Guarde toda la información importante sobre sus formadores de taller](Coaches-1.jpg)
 
 Con el plugin de diseño de páginas, también es posible crear un **perfil** con los datos contenidos en la tabla y guardarlo en formato PDF.
 
@@ -75,9 +75,9 @@ Allí podrá reservar el **servicio de catering para la pausa del almuerzo**, mi
 
 ## Gestionar inscripciones en línea
 
-A continuación, debe invitar a los posibles participantes y anotar quién asiste a cada acto. Si ya ha registrado sus talleres en una base de datos, es fácil gestionar **las inscripciones** en línea. Puede hacerlo sin esfuerzo en SeaTable mediante un [formulario web](https://seatable.io/es/docs/webformulare/webformulare/) que los participantes pueden utilizar para inscribirse en cada taller. Esto le ahorra tener que enviar **invitaciones** de un lado a otro por correo electrónico.
+A continuación, debe invitar a los posibles participantes y anotar quién asiste a cada acto. Si ya ha registrado sus talleres en una base de datos, es fácil gestionar **las inscripciones** en línea. Puede hacerlo sin esfuerzo en SeaTable mediante un [formulario web]({{< relref "help/base-editor/webformulare" >}}) que los participantes pueden utilizar para inscribirse en cada taller. Esto le ahorra tener que enviar **invitaciones** de un lado a otro por correo electrónico.
 
-![Inscripción sencilla en el taller a través del formulario web](images/Einfache-Workshop-Anmeldung-ueber-das-Webformular.png)
+![Inscripción sencilla en el taller a través del formulario web](Einfache-Workshop-Anmeldung-ueber-das-Webformular.png)
 
 Una tabla recoge todas las inscripciones y los datos introducidos por sus participantes. Práctico: cuando los participantes seleccionan un taller, su inscripción se asigna directamente al taller correcto en la tabla vinculada.
 
@@ -103,7 +103,7 @@ Para **certificar la participación en el taller**, puede expedir un certificado
 
 ¿Qué sería de los talleres y programas de formación sin feedback? Para la evaluación se pueden utilizar **formularios en papel**, que los participantes deben rellenar al final del taller, o bien un **formulario web**. Esto tiene la ventaja de que los participantes pueden introducir su evaluación directamente en formato digital. Esto significa que las opiniones son siempre legibles y se relacionan inmediatamente con los talleres y los entrenadores. Los participantes pueden valorar el taller y el coach tanto en una escala de puntuación como en campos de texto libre.
 
-![Utilice el formulario web de SeaTable para recoger las opiniones de sus empleados](images/Feedback.jpg)
+![Utilice el formulario web de SeaTable para recoger las opiniones de sus empleados](Feedback.jpg)
 
 Puede **analizar** fácilmente los comentarios recogidos en SeaTable, por ejemplo mostrando la mediana o la media de una [columna de valoración](https://seatable.io/es/docs/auswahlspalten/die-rating-spalte/) en la [barra de estado](https://seatable.io/es/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) o utilizando las respuestas abiertas en las [columnas de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) para seguir desarrollando los talleres. Si un curso recibe muchas **críticas**, el formador puede mejorar o ser sustituido. Por ejemplo, si hay comentarios frecuentes de que faltan aspectos importantes, esto podría ser una indicación de que debería darles más tiempo y ampliar el taller. También podría crear un nuevo taller centrado precisamente en esos aspectos y satisfacer así las necesidades de sus participantes.
 

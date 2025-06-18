@@ -54,7 +54,7 @@ We have designed our template in a simple and straightforward way. You will find
 
 With the date column you can define in the next step on which day and time the meeting should start and when it should end. The subsequent formula column automatically calculates the duration of the meeting, so that everyone knows at a glance how much time they need to schedule. In the "Employees" column, you specify all employees who should attend the meeting. All employees will then receive an automatic notification, which we will explain in more detail below.
 
-![Manage team meetings with SeaTable](images/Overview-Teammeeting.png)
+![Manage team meetings with SeaTable](Overview-Teammeeting.png)
 
 The next step is to define the room where the meeting will take place. The rooms are clearly separated by color so that it is easy to see where you are meeting. The next column shows a particularly important part of the preparation and follow-up: The agenda. Since SeaTable is also a database, all topics, files and minutes can be stored directly on the spot and edited synchronously. Every user who is authorized can work in Base with other users at the same time and, for example, enter important topics.
 
@@ -64,7 +64,7 @@ The agenda also helps to prepare for the meeting accordingly. A quick glance at 
 
 ### Chat function facilitates communication
 
-![The chat function makes e-mails superfluous ](images/Chat-Funktion.png)
+![The chat function makes e-mails superfluous ](Chat-Funktion.png)
 
 The [chat function](https://seatable.io/en/docs/handbuch/zusammenarbeit/kommentare/) in each row, i.e. in each individual team meeting, enables uncomplicated and streamlined communication that makes any e-mails superfluous. When you open row (click on the small blue arrows on the left in row), an overall view of the meeting opens. On the right is the chat, where you can easily add employees and write important messages, such as that employee Müller should please upload the interim presentation with the annual review.
 
@@ -76,7 +76,7 @@ With SeaTable, you can map your entire team meetings in one central location.
 
 Creating different views is one of the practical advantages of SeaTable over other spreadsheets.
 
-![Own views enable more order](images/Ansichten.png)
+![Own views enable more order](Ansichten.png)
 
 Create as many views as you like and design them exactly as you need the data at the moment. The settings in the original view do not change. One data set, but hundreds of display options: That's possible with SeaTable.
 
@@ -88,11 +88,11 @@ The views are still important for the calendar plug-in and are needed immediatel
 
 SeaTable is also equipped with a calendar plug-in. Here, appointments of any kind can be integrated to keep a good overview. For the general meeting view, you can simply select this view in the calendar plugin and set all parameters to suit your needs.
 
-![In the calendar you can see all meetings](images/Calendar.png)
+![In the calendar you can see all meetings](Calendar.png)
 
 We have therefore categorized the rooms in single-select columns, as we can set different colors per room here. In the calendar plugin, this has the advantage that the different team meetings can be displayed in color exactly according to the room color scheme. For example, if you want to create another meeting at the same time on 10/20, you will see directly that it may not take place in the blue meeting room.
 
-![Calendar views](images/Calendar-1.png)
+![Calendar views](Calendar-1.png)
 
 The views created are now used in the plug-in. To do this, simply select the view of the staff member or the room that is to be displayed in the calendar. In this way, each staff member also gets their own calendar view in which all their meetings are entered. The same applies to the room overview: With a filter, the room view EG R002 only shows those meetings that take place in this room. To find a free room when planning a meeting, an appointment can be created and booked directly via the view.
 

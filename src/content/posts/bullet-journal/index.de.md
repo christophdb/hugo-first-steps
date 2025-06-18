@@ -85,7 +85,7 @@ Viele Ideen lassen sich in **Listen** umsetzen. Dabei kommt es darauf an, dass S
 
 **Tracker** sind wohl die bekannteste Ergänzung zum Bullet Journal. Sie helfen, regelmäßige Aufgaben zu dokumentieren. Es gibt verschiedene Arten von Trackern:
 
-- **Habit Tracker**: Etablieren Sie neue Gewohnheiten und werden Sie schlechte Gewohnheiten wieder los. Einen ausführlichen Artikel dazu finden Sie [hier](https://seatable.io/habit-tracker-gewohnheiten-aendern/).
+- **Habit Tracker**: Etablieren Sie neue Gewohnheiten und werden Sie schlechte Gewohnheiten wieder los. Einen ausführlichen Artikel dazu finden Sie [hier]({{< relref "posts/habit-tracker" >}}).
 - **Mood Tracker**: Halten Sie fest, wie sich Ihre Stimmung über einen längeren Zeitraum verändert.
 - **Sleep Tracker**: Überwachen Sie Ihre Schlafzeiten und wie gut Sie geschlafen haben.
 - **Water Tracker**: Stellen Sie sicher, dass Sie täglich genug Wasser zu sich nehmen, um gesund zu bleiben.

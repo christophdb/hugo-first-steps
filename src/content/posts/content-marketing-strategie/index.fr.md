@@ -128,7 +128,7 @@ Le tableau suivant présente une structure de base que vous pouvez adapter à vo
 - Persona (pour qui l'article est pertinent)
 - Idée de contenu (d'où vient l'idée)
 
-![Stratégie de marketing de contenu](images/content-marketing-strategie-seatable.png)
+![Stratégie de marketing de contenu](content-marketing-strategie-seatable.png)
 
 Ce tableau de notre [modèle de stratégie de marketing de contenu]({{< relref "templates/marketing/content-marketing-strategy" >}}) semble certes assez volumineux au premier abord, mais il s'agit du minimum nécessaire pour un pipeline de contenu moyen afin de conserver la vue d'ensemble nécessaire. Prenez l'habitude de saisir ces données dès le premier jour et vous n'aurez aucun problème à garder une vue d'ensemble à tout moment.
 

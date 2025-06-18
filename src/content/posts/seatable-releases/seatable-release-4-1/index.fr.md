@@ -14,7 +14,7 @@ Les vacances d'été touchent à leur fin et nous espérons que vous en avez pro
 
 Vous utilisez déjà des processus automatisés dans vos bases afin d'économiser du temps et des clics ? Dans ce cas, vous apprécierez le fait que nous ayons affiné les options et amélioré les performances des [automatisations](https://seatable.io/fr/docs/automationen/uebersicht-ueber-automationen/). Les utilisateurs intensifs de SeaTable seront particulièrement satisfaits de la limite d'exécution plus élevée. La [gestion des fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/), introduite dans la version 4.0, offre désormais deux fonctions supplémentaires qui simplifient le travail avec les fichiers.
 
-Le développement de l'[Universal App Builder](https://seatable.io/fr/docs/apps/universelle-app/) avance à grands pas : SeaTable 4.1 vous propose de nouvelles fonctions pour différencier plus précisément les autorisations des utilisateurs et la visualisation des données dans les applications. En outre, nous avons amélioré ou ajouté de nombreuses petites fonctions à SeaTable 4.1. Jugez-en par vous-même - la liste est longue et très réjouissante !
+Le développement de l'[Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) avance à grands pas : SeaTable 4.1 vous propose de nouvelles fonctions pour différencier plus précisément les autorisations des utilisateurs et la visualisation des données dans les applications. En outre, nous avons amélioré ou ajouté de nombreuses petites fonctions à SeaTable 4.1. Jugez-en par vous-même - la liste est longue et très réjouissante !
 
 Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.1. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.1 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog](https://seatable.io/fr/docs/changelog/version-4/) la liste complète des modifications.
 
@@ -24,7 +24,7 @@ Pour les automatisations avec le [déclencheur](https://seatable.io/fr/docs/auto
 
 En outre, nous avons amélioré les performances de certaines [actions](https://seatable.io/fr/docs/automationen/automations-aktionen/) et étendu leurs fonctions. Par exemple, l'action "Modifier l'entrée" offre désormais l'option de définir la valeur d'une colonne de date sur "**vide**".
 
-![Nouvelles options pour les automatisations](images/New-options-for-automation.png)
+![Nouvelles options pour les automatisations](New-options-for-automation.png)
 
 {{< warning headline="Limite d'exécution plus élevée pour les automatisations" >}}
 
@@ -38,7 +38,7 @@ Le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das
 
 Grâce à la corbeille, les fichiers supprimés par erreur ne sont pas définitivement perdus, mais peuvent être restaurés. Les fichiers supprimés restent dans la corbeille **pendant 60 jours** avant d'être définitivement supprimés du système. Si les fichiers doivent disparaître plus rapidement de la corbeille, celle-ci peut également être vidée manuellement.
 
-![Corbeille et champ de recherche dans la gestion des fichiers](images/New-trash-and-search-in-the-file-management.png)
+![Corbeille et champ de recherche dans la gestion des fichiers](New-trash-and-search-in-the-file-management.png)
 
 Autre nouveauté : la fonction de recherche, qui vous permet de parcourir vos propres dossiers dans le gestionnaire de fichiers. Il suffit de saisir un terme de recherche dans le champ de recherche. SeaTable affiche alors tous les fichiers dont le nom contient le terme recherché. Si un fichier ne se trouve pas là où vous l'attendez, vous pourrez ainsi le retrouver rapidement.
 
@@ -54,7 +54,7 @@ Les **paramètres par défaut** des vues sont une autre nouveauté des pages de 
 
 Les améliorations du côté des tableaux ne s'arrêtent pas là : en un clic, vous pouvez afficher le formatage conditionnel des cellules du tableau sous-jacent et ainsi [colorer](https://seatable.io/fr/docs/ansichtsoptionen/einfaerben-von-zellen/) les [cellules](https://seatable.io/fr/docs/ansichtsoptionen/einfaerben-von-zellen/).
 
-![Nouvelles fonctions dans l'Universal App Builder](images/New-functions-in-the-Universal-App-Builder.png)
+![Nouvelles fonctions dans l'Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
 Les autres types de pages ne sont pas en reste : Les [types de pages](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/) Requête et Formulaire web offrent désormais des autorisations de page. Sur la page individuelle, les éléments peuvent désormais être déplacés et positionnés plus facilement.
 

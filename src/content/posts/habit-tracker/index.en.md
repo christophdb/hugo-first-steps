@@ -18,11 +18,11 @@ They keep motivation high and also create ambition to maintain good behaviors or
 
 Building new habits and changing bad ones - a habit tracker can help you with this. In its most basic form, this is a **list with checkboxes** in which you document every day over a period of one month whether you have carried out an action or not. Have you resolved to meditate every day? Then always put a tick in the box if you have actually kept your resolution on that day. If you maintain your Habit Tracker regularly, you will get a picture that shows your **progress**.
 
-![This habit tracker is simple and shows the habit, the day and with a colored line whether the behavior was performed.](images/prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
+![This habit tracker is simple and shows the habit, the day and with a colored line whether the behavior was performed.](prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
 
 Your Habit Tracker could look like this.
 
-There are no limits to your imagination when **designing** your Habit Tracker. For example, work with different **colors** and fonts or simply implement your ideas online with the [Habit Tracker from SeaTable](https://seatable.io/en/habit-tracker-gewohnheiten-aendern/#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). You should not only write down your desired habits, but also your previous habits. Tracking helps you to become aware of the habits that you have taken for granted up to this point.
+There are no limits to your imagination when **designing** your Habit Tracker. For example, work with different **colors** and fonts or simply implement your ideas online with the [Habit Tracker from SeaTable]({{< relref "posts/habit-tracker" >}}#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). You should not only write down your desired habits, but also your previous habits. Tracking helps you to become aware of the habits that you have taken for granted up to this point.
 
 {{< warning headline="Why we need habits" text="Habits make our lives easier. Once you have internalized a behavior, you usually perform it automatically. The activity happens subconsciously, such as brushing our teeth every day, which we do out of habit without questioning the purpose each time. This relieves the brain of mental work and at the same time creates capacity for more important processes." />}}
 
@@ -44,7 +44,7 @@ Whether it's little things in everyday life or turning your whole life upside do
 
 Think about habits that will **improve your everyday life** and can be integrated into it. Also become aware of which habits you already have and whether they need changing. Whether you want to get rid of bad habits or learn new ones, you will find inspiration here:
 
-![Many bad habits can be broken and transformed into new good habits.](images/Design-ohne-Titel-e1701347470819-711x946.jpg)
+![Many bad habits can be broken and transformed into new good habits.](Design-ohne-Titel-e1701347470819-711x946.jpg)
 
 You can swap bad habits for good ones.
 
@@ -60,7 +60,7 @@ You can swap bad habits for good ones.
 
 Many **unpleasant patterns of behavior** have become established in our everyday lives and have quietly and secretly become habits. Getting rid of them or, ideally, turning them into good habits takes a lot of time and energy. But with a **plan**, you can succeed.
 
-![6 steps lead to success in changing your habits.](images/Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
+![6 steps lead to success in changing your habits.](Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
 
 This plan will help you to achieve your goals.
 
@@ -78,7 +78,7 @@ Don't keep your plans to yourself. By telling your friends or relatives about yo
 
 Carrying out your behaviors regularly requires strong **self-discipline**. However, there are tips to help you integrate habits into your everyday life more quickly.
 
-![The Atomic Habits book contains the tips below, which you can integrate into your habit tracker.](images/jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
+![The Atomic Habits book contains the tips below, which you can integrate into your habit tracker.](jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
 
 James Clear's bestseller contains useful tips.
 
@@ -125,7 +125,7 @@ And you've reached your goal! You have always maintained your habit tracker and 
 
 As already mentioned, there are no limits to the design of your Habit Tracker. Customizing it by hand can help to create additional commitment through personalization and provide additional motivation with the work you have already invested.
 
-![The template shows a more creative approach, working with colors and a special shape.](images/Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
+![The template shows a more creative approach, working with colors and a special shape.](Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
 
 You can design your Habit Tracker by hand or with templates.
 

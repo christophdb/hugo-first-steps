@@ -100,6 +100,6 @@ Para poder manter-se a si e à sua casa limpos, é aconselhável tomar também p
 
 Para que esteja idealmente preparado para a próxima situação de emergência, a equipa SeaTable criou um modelo para o seu abastecimento de emergência. Pode adaptá-lo às suas necessidades como desejar.
 
-![Modelo para a sua reserva de emergência](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
+![Modelo para a sua reserva de emergência](Vorlage-fuer-Ihren-Notvorrat-1.png)
 
 Se pretender utilizar o SeaTable para a constituição de reservas, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo correspondente [aqui]({{< relref "templates/everyday-life/shopping-list" >}}).

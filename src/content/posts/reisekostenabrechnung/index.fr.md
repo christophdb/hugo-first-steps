@@ -12,9 +12,9 @@ seo:
 
 La loi sur l'impôt sur le revenu décrit trois catégories de **dépenses** que les travailleurs peuvent se faire **rembourser** par leur entreprise. Outre les commandes passées au nom de l'entreprise et les dépenses effectuées pour exécuter une commande, cela concerne également les **déplacements professionnels**. Qu'il s'agisse d'un voyage d'affaires de plusieurs jours, d'une réunion avec un client éloigné ou d'un déplacement à un salon, les déplacements professionnels font partie du quotidien de nombreux travailleurs. Dans l'article suivant, vous découvrirez non seulement ce qu'est une **note de frais**, mais vous obtiendrez également de précieux conseils pour l'établir.
 
-![voyage de service : La main sur la valise](images/guests-with-suitcases-hotel-reception-711x474.jpg)
+![voyage de service : La main sur la valise](guests-with-suitcases-hotel-reception-711x474.jpg)
 
-Les entreprises effectuent souvent une [analyse coûts-avantages](https://seatable.io/fr/kosten-nutzen-analyse-vorlage/) des missions afin de s'assurer que les dépenses sont justifiées.
+Les entreprises effectuent souvent une [analyse coûts-avantages]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) des missions afin de s'assurer que les dépenses sont justifiées.
 
 ## Ce qu'est un calcul de frais de déplacement
 
@@ -30,7 +30,7 @@ Pour **employeurs** un décompte correct des frais de déplacement est important
 
 Aussi pour les **salariés** il y a des avantages à établir une note de frais. Certes, vous pouvez faire valoir les frais d'un déplacement professionnel comme frais professionnels dans votre **déclaration d'impôt sur le revenu**, mais cela ne fait que réduire votre salaire annuel brut. Le remboursement des dépenses par l'employeur est donc souvent l'option la plus judicieuse sur le plan économique.
 
-![Frais de déplacement : une femme fait de la paperasse et tape dans une calculatrice.](images/entrepreneur-working-with-bills-711x474.jpg)
+![Frais de déplacement : une femme fait de la paperasse et tape dans une calculatrice.](entrepreneur-working-with-bills-711x474.jpg)
 
 Lors du décompte des frais, les collaborateurs enregistrent leurs dépenses et les soumettent pour remboursement.
 
@@ -50,7 +50,7 @@ Les frais d'hébergement comprennent les dépenses telles que **les séjours à 
 
 Une particularité importante dans le décompte des frais d'hébergement est la **participation personnelle** pour le petit-déjeuner et les autres repas. Souvent, un montant fixe est fixé à cet effet, généralement 5,60 euros pour le petit-déjeuner et 11,20 euros pour le dîner. Ces montants sont pris en charge par le salarié lui-même et doivent être pris en compte en conséquence dans le calcul des frais de déplacement.
 
-![Frais de déplacement : une chambre d'hôtel dans des tons terreux.](images/pexels-pixabay-164595-711x474.jpg)
+![Frais de déplacement : une chambre d'hôtel dans des tons terreux.](pexels-pixabay-164595-711x474.jpg)
 
 Le choix de l'hôtel se fait souvent en fonction du budget de l'entreprise et des directives en vigueur pour les voyages d'affaires.
 
@@ -80,7 +80,7 @@ Entretoise
 - Billets d'entrée pour des événements professionnels
 - Vol de biens professionnels
 
-![Frais de déplacement : une route à péage.](images/pexels-nandhukumar-16967276-711x443.jpg)
+![Frais de déplacement : une route à péage.](pexels-nandhukumar-16967276-711x443.jpg)
 
 Les frais accessoires de voyage comprennent également les frais d'utilisation des autoroutes ou autres routes à péage.
 
@@ -107,4 +107,4 @@ Beaucoup de personnes utilisent un modèle Excel pour leurs notes de frais - mai
 
 Pour en savoir plus sur le modèle de note de frais de SeaTable, [cliquez ici]({{< relref "templates/human-resources/expenses-reimbursement" >}}).
 
-[Il vous suffit de vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) avec votre adresse e-mail, d'essayer SeaTable et de personnaliser le modèle à votre guise afin de saisir les étalages de votre entreprise comme vous le souhaitez !
+[Il vous suffit de vous inscrire gratuitement]({{< relref "pages/registration" >}}) avec votre adresse e-mail, d'essayer SeaTable et de personnaliser le modèle à votre guise afin de saisir les étalages de votre entreprise comme vous le souhaitez !

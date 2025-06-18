@@ -21,7 +21,7 @@ Criar novos hábitos e alterar os maus hábitos - um registo de hábitos pode aj
 
 O seu Localizador de Hábitos pode ter o seguinte aspeto.
 
-Não há limites para a sua imaginação ao **desenhar** o seu Localizador de Hábitos. Por exemplo, trabalhe com diferentes **cores** e tipos de letra ou simplesmente implemente as suas ideias online com o [Localizador de Hábitos da SeaTable](https://seatable.io/pt/habit-tracker-gewohnheiten-aendern/#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). Não deve escrever apenas os hábitos desejados, mas também os hábitos anteriores. O registo ajuda-o a tomar consciência dos hábitos que, até ao momento, tomou como garantidos.
+Não há limites para a sua imaginação ao **desenhar** o seu Localizador de Hábitos. Por exemplo, trabalhe com diferentes **cores** e tipos de letra ou simplesmente implemente as suas ideias online com o [Localizador de Hábitos da SeaTable]({{< relref "posts/habit-tracker" >}}#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). Não deve escrever apenas os hábitos desejados, mas também os hábitos anteriores. O registo ajuda-o a tomar consciência dos hábitos que, até ao momento, tomou como garantidos.
 
 {{< warning headline="Porque é que precisamos de hábitos" text="Os hábitos tornam a nossa vida mais fácil. Depois de interiorizarmos um comportamento, normalmente fazemo-lo de forma automática. A atividade ocorre subconscientemente, como escovar os dentes todos os dias, o que fazemos por hábito, sem questionar o objetivo de cada vez. Desta forma, aliviamos o cérebro do trabalho mental e, ao mesmo tempo, criamos capacidade para processos mais importantes." />}}
 

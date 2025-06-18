@@ -47,7 +47,7 @@ Se só quiser fazer um calendário do Advento para determinadas pessoas, também
 
 Uma óptima alternativa ao clássico calendário do Advento analógico é uma versão digital. Pode preencher o calendário do Advento em linha da sua empresa com imagens, vídeos ou citações de Natal e depois enviá-lo aos empregados e clientes como presente de Natal através de uma ligação.
 
-![Calendário do Advento da Empresa](images/Enterprise-Advent-Calendar.png)
+![Calendário do Advento da Empresa](Enterprise-Advent-Calendar.png)
 
 A equipa SeaTable criou [um modelo]({{< relref "templates/events/advent-calendar" >}}) para si que pode personalizar de acordo com as suas necessidades. Dê um toque pessoal ao calendário e aguarde com expetativa os rostos espantados dos seus empregados quando descobrirem uma nova surpresa atrás de uma das pequenas portas todos os dias.
 
@@ -57,7 +57,7 @@ Se quiser utilizar o SeaTable para criar um calendário do Advento em linha, bas
 
 Equilibrar o espírito natalício com o trabalho é um desafio. Afinal de contas, uma visita ao mercado de Natal ou uma partida de patinagem no gelo são muito mais tentadoras do que passar o dia inteiro no escritório. Agora, cabe-lhe a si trazer o **espírito natalício** para a sua empresa!
 
-![Vários cadernos com logótipo personalizado da Leuchtturm1917.](images/header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
+![Vários cadernos com logótipo personalizado da Leuchtturm1917.](header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
 
 Cadernos personalizados com logótipo em relevo da LEUCHTTURM1917.
 

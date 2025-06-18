@@ -65,7 +65,7 @@ Também pode ser ligado ao seu calendário, a um assistente de voz no seu smartp
 
 ### Microsoft To Do: A aplicação versátil para a sua lista de tarefas
 
-Com o [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), obtém um planeador diário e uma ferramenta para [listas de](https://seatable.io/pt/einkaufsliste/) tarefas e [de compras](https://seatable.io/pt/einkaufsliste/). Pode integrar tarefas do Outlook e trabalhar numa lista sincronizada a partir de todos os dispositivos finais.
+Com o [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), obtém um planeador diário e uma ferramenta para [listas de]({{< relref "posts/einkaufsliste" >}}) tarefas e [de compras]({{< relref "posts/einkaufsliste" >}}). Pode integrar tarefas do Outlook e trabalhar numa lista sincronizada a partir de todos os dispositivos finais.
 
 Pode ordenar as tarefas individuais, definir um prazo e assinalá-las. Também são possíveis lembretes e tarefas recorrentes. No entanto, não existem opções de visualização avançadas para além do modo de lista; para tal, é necessário o Planner.
 
@@ -101,7 +101,11 @@ O SeaTable tem, de longe, a **gama mais vasta de funções** de todas as aplica�
 
 Com o SeaTable, pode começar imediatamente com a [versão gratuita]({{< relref "pages/registration" >}}) e o [modelo interativo]({{< relref "templates/projects/to-do-list" >}}). Estão disponíveis funcionalidades adicionais na versão Plus por 7 euros por utilizador e por mês, na versão Enterprise por 14 euros por utilizador e por mês ou numa solução dedicada na nuvem.
 
-{{< warning headline="RGPD e soberania dos dados" text="Os servidores SeaTable Cloud estão localizados na Alemanha, o que torna a plataforma adequada para o trabalho em conformidade com o RGPD com dados pessoais sensíveis. Também tem a opção de instalar [o SeaTable on-premises](https://seatable.io/pt/on-premises/) nos seus próprios servidores." />}}
+{{< warning headline="RGPD e soberania dos dados" >}}
+
+Os servidores SeaTable Cloud estão localizados na Alemanha, o que torna a plataforma adequada para o trabalho em conformidade com o RGPD com dados pessoais sensíveis. Também tem a opção de instalar [o SeaTable on-premises]({{< relref "pages/product/seatable-server" >}}) nos seus próprios servidores.
+
+{{< /warning >}}
 
 ## Dicas para implementar com sucesso a sua lista de tarefas
 

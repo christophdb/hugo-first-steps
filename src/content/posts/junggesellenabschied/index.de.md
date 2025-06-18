@@ -16,7 +16,7 @@ Die Gestaltung dieses unvergesslichen Ereignisses erfordert eine sorgfältige Pl
 
 In diesem Artikel stellen wir nicht nur originelle Ideen für den Junggesellenabschied vor, sondern erläutern auch detailliert, was bei der Planung zu berücksichtigen ist und wie Sie am besten vorgehen.
 
-![Schild mit der Aufschrift Junggesellenabschied](images/ibrahim-boran-P7z3tdMcLzk-unsplash-711x466.jpg)
+![Schild mit der Aufschrift Junggesellenabschied](ibrahim-boran-P7z3tdMcLzk-unsplash-711x466.jpg)
 
 Einige Kulturen haben besondere Traditionen im Zusammenhang mit Junggesellenabschieden.
 
@@ -38,7 +38,7 @@ Zunächst einmal ist es entscheidend, im Vorfeld festzulegen, welche **Freunde u
 
 Die **Kosten** für den Junggesellenabschied werden in der Regel unter allen Teilnehmern aufgeteilt, wobei Braut und Bräutigam als Ehrengäste eingeladen sind. Daher ist es wichtig, das **Budget** sorgfältig zu planen und abzusprechen, damit Sie niemanden vor den Kopf stoßen oder finanziell überfordern.
 
-![Auf einer Hand steht "Bride to be"](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
+![Auf einer Hand steht "Bride to be"](ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
 
 Für viele ist der Junggesellenabschied ein wichtiger Übergangsritus vom Junggesellen-Dasein zum Eheleben.
 
@@ -72,7 +72,7 @@ Egal, ob Sie eine spaßige Aktivität oder eine luxuriöse Location suchen – d
 - Stuttgart
 - Leipzig
 
-![Die Tür zu einer Bar in orange beleuchtet](images/pexels-mali-219095-711x473.jpg)
+![Die Tür zu einer Bar in orange beleuchtet](pexels-mali-219095-711x473.jpg)
 
 Städtetrips können schnell teuer werden, da sie Unterkunft, Verpflegung und Aktivitäten umfassen.
 
@@ -88,7 +88,7 @@ Städtetrips können schnell teuer werden, da sie Unterkunft, Verpflegung und Ak
 - Ibiza
 - Dublin
 
-![Junggesellenabschied in Las Vegas](images/pexels-camrainey-2600214-711x425.jpg)
+![Junggesellenabschied in Las Vegas](pexels-camrainey-2600214-711x425.jpg)
 
 Immer mehr Junggesellenabschiede erstrecken sich über ein ganzes Wochenende, anstatt nur eine Nacht lang zu dauern.
 
@@ -104,7 +104,7 @@ Immer mehr Junggesellenabschiede erstrecken sich über ein ganzes Wochenende, an
 - Flugsimulator
 - Survival-Training
 
-![Junggesellenabschied: Eine Achterbahn](images/pexels-sandy-torchon-2229511-3973555-711x474.jpg)
+![Junggesellenabschied: Eine Achterbahn](pexels-sandy-torchon-2229511-3973555-711x474.jpg)
 
 Viele Freizeitparks bieten spezielle Gruppenrabatte an, was sie zu einer erschwinglichen Option macht.
 
@@ -120,7 +120,7 @@ Viele Freizeitparks bieten spezielle Gruppenrabatte an, was sie zu einer erschwi
 - Flotation-Tanks
 - Whirlpool-Party
 
-![Hände, die einen Rücken massieren](images/pexels-ian-panelo-3230236-711x538.jpg)
+![Hände, die einen Rücken massieren](pexels-ian-panelo-3230236-711x538.jpg)
 
 In den letzten Jahren ist ein Trend zu gesünderen Junggesellenabschieden entstanden, bei denen Aktivitäten wie Yoga oder Wellness im Vordergrund stehen.
 
@@ -136,7 +136,7 @@ In den letzten Jahren ist ein Trend zu gesünderen Junggesellenabschieden entsta
 - Kintsugi-Kurs
 - Drink-and-Paint-Session
 
-![Anstoß mit Aperol Spritz auf dem Junggesellenabschied](images/pexels-rachel-claire-4819717-711x570.jpg)
+![Anstoß mit Aperol Spritz auf dem Junggesellenabschied](pexels-rachel-claire-4819717-711x570.jpg)
 
 Einige entscheiden sich für alternative Aktivitäten während des Junggesellenabschieds, wie z. B. Kochkurse, Cocktail-Abende oder sogar humanitäre Arbeit.
 
@@ -148,7 +148,7 @@ Ein Junggesellenabschied kann ganz unterschiedlich aussehen. Für den einen ist 
 2. **Vorlieben und Interessen beachten**: Berücksichtigen Sie die persönlichen Vorlieben und Interessen des Junggesellen oder der Junggesellin, um ein ganz besonderes Erlebnis zu schaffen. Ob eine entspannte Wellness-Auszeit, ein aufregender Abenteuer-Tag oder eine ausgelassene Feier – am wichtigsten ist, dass sich Braut oder Bräutigam wohlfühlen.
 3. **Besondere Überraschungen planen:** Planen Sie besondere Überraschungen für die Braut oder den Bräutigam während des Junggesellenabschieds. Dies könnten persönliche Geschenke, unerwartete Gäste oder einzigartige Erlebnisse sein, die dem Tag eine besondere Note verleihen und ihn unvergesslich machen.
 
-![Mann hält die Hand seiner Verlobten](images/brandon-cormier-fq8eRBLZl40-unsplash-711x430.jpg)
+![Mann hält die Hand seiner Verlobten](brandon-cormier-fq8eRBLZl40-unsplash-711x430.jpg)
 
 Oft wird der Junggesellenabschied als Überraschung für die Braut oder den Bräutigam geplant.
 
@@ -160,7 +160,7 @@ Ein Junggesellenabschied soll ein unvergesslicher Tag voller Spaß und Freude se
 - Ein weiterer wichtiger Punkt ist die **Zeitplanung**. Stellen Sie sicher, dass die Braut oder der Bräutigam am Tag des Junggesellenabschieds keine anderen Verpflichtungen hat. Eine frühzeitige Kommunikation des Termins und regelmäßige Überprüfungen sorgen dafür, dass keine unerwarteten Kollisionen entstehen.
 - Vergessen Sie nicht, die **Erinnerungen** festzuhalten. Besonders in der heutigen digitalen Ära ist es ebenso einfach wie beliebt, die besonderen Momente in Form von Fotos und Videos zu dokumentieren. Beauftragen Sie jemanden aus der Gruppe oder mieten Sie eventuell sogar einen professionellen Fotografen, um qualitativ hochwertige Erinnerungen zu schaffen.
 
-![Pinke Luftballons als Deko für einen Junggesellinnenabschied](images/sj-38adackPTsI-unsplash-711x474.jpg)
+![Pinke Luftballons als Deko für einen Junggesellinnenabschied](sj-38adackPTsI-unsplash-711x474.jpg)
 
 Einige Junggesellenabschiede haben bestimmte Themen oder Farben.
 

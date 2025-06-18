@@ -65,7 +65,7 @@ También puede vincularse a tu calendario, a un asistente de voz de tu smartphon
 
 ### Microsoft To Do: La versátil aplicación para tu lista de tareas pendientes
 
-Con [Microsoft To](https://todo.microsoft.com/tasks/de-de/) Do, dispondrá tanto de un planificador diario como de una herramienta para [listas de](https://seatable.io/es/einkaufsliste/) tareas y [compras](https://seatable.io/es/einkaufsliste/). Puede integrar tareas de Outlook y trabajar en una lista sincronizada desde todos los dispositivos finales.
+Con [Microsoft To](https://todo.microsoft.com/tasks/de-de/) Do, dispondrá tanto de un planificador diario como de una herramienta para [listas de]({{< relref "posts/einkaufsliste" >}}) tareas y [compras]({{< relref "posts/einkaufsliste" >}}). Puede integrar tareas de Outlook y trabajar en una lista sincronizada desde todos los dispositivos finales.
 
 Puedes ordenar las tareas individuales, fijar una fecha límite y marcarlas. También es posible utilizar recordatorios y tareas recurrentes. Sin embargo, no hay opciones avanzadas de visualización más allá del modo lista; para ello necesitarás el Planificador.
 
@@ -101,7 +101,11 @@ SeaTable es, con diferencia, la aplicación con más **funciones** de todas las 
 
 Con SeaTable, puede empezar de inmediato con la [versión gratuita]({{< relref "pages/registration" >}}) y la [plantilla interactiva]({{< relref "templates/projects/to-do-list" >}}). Las funciones adicionales están disponibles en la versión Plus por 7 € por usuario al mes, la versión Enterprise por 14 € por usuario al mes o una solución dedicada en la nube.
 
-{{< warning headline="GDPR y soberanía de datos" text="Los servidores de SeaTable Cloud se encuentran en Alemania, por lo que la plataforma es adecuada para trabajar con datos personales sensibles de conformidad con la GDPR. También tiene la opción de instalar [SeaTable in situ](https://seatable.io/es/on-premises/) en sus propios servidores." />}}
+{{< warning headline="GDPR y soberanía de datos" >}}
+
+Los servidores de SeaTable Cloud se encuentran en Alemania, por lo que la plataforma es adecuada para trabajar con datos personales sensibles de conformidad con la GDPR. También tiene la opción de instalar [SeaTable in situ]({{< relref "pages/product/seatable-server" >}}) en sus propios servidores.
+
+{{< /warning >}}
 
 ## Consejos para aplicar con éxito su lista de tareas pendientes
 

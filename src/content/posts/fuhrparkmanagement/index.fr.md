@@ -13,7 +13,7 @@ Qu'il s'agisse de camions, de bus ou de voitures de service classiques, la gesti
 
 ## Qu'est-ce qu'un parc de véhicules ?
 
-Le **parc automobile** ou la **flotte de** votre entreprise comprend tous les véhicules qui se trouvent dans votre [inventaire](https://seatable.io/fr/inventarliste-vorlagen/). Il s'agit le plus souvent de **voitures de société** classiques. Mais il peut également s'agir de véhicules spéciaux : Bus et trains, camions, véhicules de chantier, chariots élévateurs, tracteurs ou autres véhicules.
+Le **parc automobile** ou la **flotte de** votre entreprise comprend tous les véhicules qui se trouvent dans votre [inventaire]({{< relref "posts/inventarliste-erstellen" >}}). Il s'agit le plus souvent de **voitures de société** classiques. Mais il peut également s'agir de véhicules spéciaux : Bus et trains, camions, véhicules de chantier, chariots élévateurs, tracteurs ou autres véhicules.
 
 ![Gestion de la flotte de véhicules](fuhrparkmanagement-mit-seatable.jpg)
 
@@ -93,7 +93,7 @@ Gardez une trace de l'ensemble de votre flotte ! Avec notre [logiciel de gestion
 
 SeaTable vous offre une gestion claire et intuitive de votre flotte et des demandes de réservation entrantes. Cela signifie que vous avez toujours un aperçu des véhicules disponibles à quel moment et de l'état de votre flotte.
 
-[Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) et essayez dès aujourd'hui SeaTable et son modèle personnalisable et flexible pour la gestion de votre parc automobile !
+[Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et essayez dès aujourd'hui SeaTable et son modèle personnalisable et flexible pour la gestion de votre parc automobile !
 
 ## FAQ
 

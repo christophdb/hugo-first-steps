@@ -16,7 +16,7 @@ Christmas is just around the corner and you would like to give your employees, b
 
 Whether it's a grand gesture or a small token of appreciation - everyone is happy to receive a gift. But it doesn't always have to be a gift in the form of a material object or voucher. Giving a gift goes beyond the material and can take many forms.
 
-![Here are five ideas of what you could give your customers and employees this Christmas.](images/Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
+![Here are five ideas of what you could give your customers and employees this Christmas.](Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
 
 Which idea will you be implementing this Christmas?
 
@@ -34,7 +34,7 @@ Many aid organizations and social institutions appreciate your contribution and 
 
 Chocolate, but with pep? No problem! Design an Advent calendar for your employees and customers with your company logo or add individual messages.
 
-![Numbered chocolate pralines make a delicious homemade Advent calendar.](images/markus-spiske-MxjnYEqAfVA-unsplash-1-scaled-e1722848744903-711x620.jpg)
+![Numbered chocolate pralines make a delicious homemade Advent calendar.](markus-spiske-MxjnYEqAfVA-unsplash-1-scaled-e1722848744903-711x620.jpg)
 
 No matter what form it takes, chocolate always tastes good!
 
@@ -48,7 +48,7 @@ If you only want to put together an Advent calendar for selected people, you can
 
 A nice alternative to the classic analog Advent calendar is a digital version. You can fill your company's own online Advent calendar with pictures, videos or Christmas quotes and then simply send it to employees and customers via a link as a Christmas gift.
 
-![Enterprise Advent Calendar](images/Enterprise-Advent-Calendar.png)
+![Enterprise Advent Calendar](Enterprise-Advent-Calendar.png)
 
 The SeaTable team has created [a template]({{< relref "templates/events/advent-calendar" >}}) for you that you can customize according to your needs. Give the calendar a personal touch and look forward to the astonished faces of your employees when they discover a new surprise behind one of the little doors every day.
 
@@ -58,7 +58,7 @@ If you would like to use SeaTable to create an online Advent calendar, simply [r
 
 Striking a balance between Christmas spirit and work is a challenge. After all, a visit to the Christmas market or a round of ice skating is much more tempting than spending the whole day in the office. Now it's up to you to bring the **Christmas spirit** into your company!
 
-![Various notebooks with individual logo design from Leuchtturm1917.](images/header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
+![Various notebooks with individual logo design from Leuchtturm1917.](header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
 
 Individual notebooks with embossed logo from LEUCHTTURM1917.
 
@@ -73,7 +73,7 @@ A **homemade gift** brings great joy because it shows that you have invested wor
 
 - **Greeting card**: The classic Christmas card. Design your company's Christmas card with an exciting motif and a personal message. Or how about a self-written poem or a personal dedication? Make your greetings card the most beautiful on your customers' and employees' desks!
 
-![A lot of love goes into homemade Christmas cards.](images/pexels-jonathanborba-3358727-e1722852690526-711x536.jpg)
+![A lot of love goes into homemade Christmas cards.](pexels-jonathanborba-3358727-e1722852690526-711x536.jpg)
 
 There are no limits to the imagination.
 
@@ -86,7 +86,7 @@ There are no limits to the imagination.
 
 A visit to the Christmas market together or baking cookies in the evening helps to get to know each other better and strengthen team spirit in the long term. And of course, a Christmas party is a must! Find out how to plan it successfully [here](https://seatable.io/en/weihnachtsfeier/).
 
-![A visit to the Christmas market invites you to chat and browse.](images/Design-ohne-Titel-22-1-e1722859187769-711x730.png)
+![A visit to the Christmas market invites you to chat and browse.](Design-ohne-Titel-22-1-e1722859187769-711x730.png)
 
 The best Christmas atmosphere can be found here.
 
@@ -103,7 +103,7 @@ Would you like to make your employees happy at Christmas, but keep the costs as 
 - **Gift vouchers: Gift** vouchers are a popular Christmas present for employees and customers. However, these are only subject to the tax-privileged exemption limit if they meet three further criteria in addition to the maximum value of 50 euros. The gift cards may only be used to purchase goods and services and may only be used for a small number of stores. It should also be noted that the vouchers must be issued _in addition to the wages owed anyway_.
 - **Personal events:** If one of your employees has a birthday or a milestone company anniversary, the allowance is up to 60 euros. However, this does not apply to Christmas, as this **does not** count as a personal event.
 
-![Employees and superiors are happy about an in-house Christmas party.](images/Design-ohne-Titel-25-e1722846043336-711x493.png)
+![Employees and superiors are happy about an in-house Christmas party.](Design-ohne-Titel-25-e1722846043336-711x493.png)
 
 There are still a few things to consider at Christmas parties...
 

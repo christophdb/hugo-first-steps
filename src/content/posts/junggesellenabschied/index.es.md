@@ -15,7 +15,7 @@ Organizar este evento inolvidable requiere una planificación minuciosa. ¿Le gu
 
 En este artículo no sólo te presentamos ideas originales para la despedida de soltero, sino que también te explicamos detalladamente qué debes tener en cuenta a la hora de planificarla y cuál es la mejor forma de proceder.
 
-![Cartel con la inscripción Despedida de soltero](images/ibrahim-boran-P7z3tdMcLzk-unsplash-711x466.jpg)
+![Cartel con la inscripción Despedida de soltero](ibrahim-boran-P7z3tdMcLzk-unsplash-711x466.jpg)
 
 Algunas culturas tienen tradiciones especiales en relación con las despedidas de soltero.
 
@@ -37,7 +37,7 @@ En primer lugar, es fundamental decidir de antemano qué **amigos y familiares**
 
 El **coste** de la despedida de soltero suele repartirse entre todos los participantes, con los novios como invitados de honor. Por lo tanto, es importante planificar y acordar el **presupuesto** con cuidado para no ofender a nadie ni excederse económicamente.
 
-![En una mano se lee "Bride to be"](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
+![En una mano se lee "Bride to be"](ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
 
 Para muchos, la despedida de soltero es un importante rito de paso de la soltería al matrimonio.
 
@@ -75,7 +75,7 @@ Espaciador
 - Stuttgart
 - Leipzig
 
-![La puerta de un bar iluminada en naranja](images/pexels-mali-219095-711x473.jpg)
+![La puerta de un bar iluminada en naranja](pexels-mali-219095-711x473.jpg)
 
 Los viajes urbanos pueden resultar caros rápidamente, ya que incluyen alojamiento, comidas y actividades.
 
@@ -95,7 +95,7 @@ Espaciador
 - Ibiza
 - Dublín
 
-![Despedida de soltero en Las Vegas](images/pexels-camrainey-2600214-711x425.jpg)
+![Despedida de soltero en Las Vegas](pexels-camrainey-2600214-711x425.jpg)
 
 Cada vez son más las despedidas de soltero y soltera que se celebran durante todo un fin de semana en lugar de una sola noche.
 
@@ -115,7 +115,7 @@ Espaciador
 - Simulador de vuelo
 - Formación en supervivencia
 
-![Despedida de soltero: Una montaña rusa](images/pexels-sandy-torchon-2229511-3973555-711x474.jpg)
+![Despedida de soltero: Una montaña rusa](pexels-sandy-torchon-2229511-3973555-711x474.jpg)
 
 Muchos parques temáticos ofrecen descuentos especiales para grupos, lo que los convierte en una opción asequible.
 
@@ -135,7 +135,7 @@ Espaciador
 - Tanques de flotación
 - Fiesta Whirlpool
 
-![Manos masajeando una espalda](images/pexels-ian-panelo-3230236-711x538.jpg)
+![Manos masajeando una espalda](pexels-ian-panelo-3230236-711x538.jpg)
 
 En los últimos años ha surgido una tendencia hacia las despedidas de soltero más sanas, con actividades como el yoga y el bienestar como protagonistas.
 
@@ -155,7 +155,7 @@ Espaciador
 - Curso de Kintsugi
 - Sesión de beber y pintar
 
-![Comienza la despedida de soltero con un Aperol Spritz](images/pexels-rachel-claire-4819717-711x570.jpg)
+![Comienza la despedida de soltero con un Aperol Spritz](pexels-rachel-claire-4819717-711x570.jpg)
 
 Algunos optan por actividades alternativas durante la despedida de soltero, como clases de cocina, veladas de cóctel o incluso labores humanitarias.
 
@@ -167,7 +167,7 @@ Una despedida de soltero puede ser muy diferente. Para algunos, unas vacaciones 
 2. **Tener en cuenta las preferencias y los intereses**Tenga en cuenta las preferencias e intereses personales del soltero o soltera para crear una experiencia muy especial. Ya sea una relajante escapada a un balneario, un emocionante día de aventura o una exuberante celebración, lo más importante es que el novio o la novia se sientan a gusto.
 3. **Planea sorpresas especiales:** Planifica sorpresas especiales para el novio o la novia durante la despedida de soltero. Pueden ser regalos personalizados, invitados inesperados o experiencias únicas que darán al día un toque especial y lo harán inolvidable.
 
-![Hombre de la mano de su prometida](images/brandon-cormier-fq8eRBLZl40-unsplash-711x430.jpg)
+![Hombre de la mano de su prometida](brandon-cormier-fq8eRBLZl40-unsplash-711x430.jpg)
 
 La despedida de soltero suele planearse como una sorpresa para el novio o la novia.
 
@@ -179,7 +179,7 @@ Una despedida de soltero debe ser un día inolvidable lleno de diversión y aleg
 - Otro punto importante es la **programación**. Asegúrate de que el novio o la novia no tienen otros compromisos el día de la despedida de soltero. Una comunicación temprana de la fecha y comprobaciones periódicas garantizarán que no se produzcan choques inesperados.
 - No olvides conservar los **recuerdos** captúralos. Especialmente en la era digital actual, es tan fácil como popular documentar los momentos especiales en forma de fotos y vídeos. Contrata a alguien del grupo o incluso a un fotógrafo profesional para crear recuerdos de gran calidad.
 
-![Globos rosas como decoración para una despedida de soltera](images/sj-38adackPTsI-unsplash-711x474.jpg)
+![Globos rosas como decoración para una despedida de soltera](sj-38adackPTsI-unsplash-711x474.jpg)
 
 Algunas despedidas de soltero tienen temas o colores específicos.
 

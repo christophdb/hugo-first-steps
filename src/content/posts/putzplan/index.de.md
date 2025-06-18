@@ -76,6 +76,6 @@ Achten Sie aber darauf, dass Sie sich nicht zu sehr ablenken lassen – das Putz
 
 Bei der Hausarbeit gibt es viel zu planen, besonders wenn Sie mehrere Personen in die Aufgaben einbinden möchten. Um dabei nicht den Überblick zu verlieren, hat das Team von SeaTable Ihnen eine Putzplan-Vorlage erstellt. Diese können Sie nach Belieben an Ihre Bedürfnisse anpassen. Indem Sie Aufgaben klar einem Verantwortlichen zuteilen, sehen Sie beispielsweise auf einen Blick, welche Aufgaben Sie und Ihre Mitbewohner zu erledigen haben und ob diese gerecht verteilt sind.
 
-![Erstellen Sie einen individuellen Putzplan in SeaTable.](images/Putzplan.png)
+![Erstellen Sie einen individuellen Putzplan in SeaTable.](Putzplan.png)
 
 Wenn Sie SeaTable für die Erstellung Ihres individuellen Putzplans nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/everyday-life/cleaning-plan" >}}).

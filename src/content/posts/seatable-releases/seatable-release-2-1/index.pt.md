@@ -16,7 +16,7 @@ Hoje, 6 de Julho de 2021, actualizámos o [SeaTable Cloud](https://cloud.seatabl
 
 As permissões avançadas do SeaTable (por exemplo, permissões de partilha personalizadas, permissões de coluna, bloqueio de linha) dão aos administradores da base um controlo extensivo sobre quem pode ver, editar e trabalhar com dados de tabela. Com as novas permissões de tabelas, os administradores têm uma opção adicional para afinar o acesso às tabelas.
 
-![SeaTable 2.1: Tabela de permissões](images/TablePermissions.png)
+![SeaTable 2.1: Tabela de permissões](TablePermissions.png)
 
 As permissões das tabelas controlam os direitos de acesso dos utilizadores a uma única tabela numa base. Nas configurações padrão, não limitam os direitos de edição dos utilizadores, ou seja, qualquer utilizador com pelo menos direitos de escrita pode adicionar linhas, assim como editar e apagar linhas existentes. Se o proprietário de uma base ou um administrador quiser limitar estes direitos para utilizadores individuais ou grupos, pode agora fazê-lo com o SeaTable 2.1. As permissões para adicionar ou eliminar ficheiros podem ser revogadas a todos ou a quaisquer utilizadores não administradores. Ou podem ser atribuídos exclusivamente a uma selecção de utilizadores. A permissão para adicionar e apagar pode ser gerida individualmente e independentemente uma da outra.
 
@@ -36,7 +36,7 @@ Outras acções de processamento de dados, como o cálculo da ordem ou a ligaç�
 
 ## Permissões alargadas para colunas de selecção simples e múltiplas
 
-![SeaTable 2.1: Permissões avançadas para colunas de selecção simples e múltiplas](images/Advanced-column-permissions.png)
+![SeaTable 2.1: Permissões avançadas para colunas de selecção simples e múltiplas](Advanced-column-permissions.png)
 
 As permissões de coluna introduzidas no [SeaTable 1.2](https://seatable.io/pt/seatable-release-1-2/) permitem a atribuição e controlo dos direitos de edição individuais para as colunas individuais. Com SeaTable 2.1, o menu de permissão de colunas dos dois tipos de selecção simples e selecção múltipla foi alargado por um segundo botão. Isto permite-lhe controlar quais os utilizadores que podem criar e editar opções numa coluna de selecção.
 

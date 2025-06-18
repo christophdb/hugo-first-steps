@@ -22,7 +22,7 @@ Nuestra lista de control para la planificación de la boda ya contiene más de 2
 
 ### Cree sus propias tareas pendientes
 
-Para empezar a planificar su propia boda, debe [registrarse en una cuenta gratuita de SeaTable](https://seatable.io/es/registrierung/?lang=auto). A continuación, puede empezar a planificar su boda utilizando nuestra plantilla de _planificador de_ bodas.
+Para empezar a planificar su propia boda, debe [registrarse en una cuenta gratuita de SeaTable]({{< relref "pages/registration" >}}). A continuación, puede empezar a planificar su boda utilizando nuestra plantilla de _planificador de_ bodas.
 
 Puede insertar tareas adicionales en cualquier punto de la plantilla. Cuando se asigna una nueva _tarea principal_, se crea automáticamente un nuevo grupo de tareas. La clasificación de los grupos de tareas se realiza automáticamente en función del tiempo de espera hasta la boda. ¿Quiere dar a las tareas una fecha concreta? Basta con añadir una nueva [columna de fechas](https://seatable.io/es/docs/handbuch/datenmanagement/feld-typen/?lang=auto#datum) y asignar una fecha a cada tarea.
 
@@ -92,7 +92,7 @@ Con nuestra _lista de control_ de más de 200 puntos, nada puede fallar a la hor
 
 Incluso si su boda es un poco más específica o tiene otros requisitos, SeaTable se puede personalizar a su gusto. Añada tablas, cree [diferentes vistas](https://seatable.io/es/docs/handbuch/datenmanagement/ansichten/?lang=auto), [agrupe y filtre](https://seatable.io/es/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) sus datos y vistas o pruebe los [complementos](https://seatable.io/es/docs/handbuch/schnelleinstieg/erweiterungen/?lang=auto) que más le convengan. Por ejemplo, sería concebible integrar una lista de deseos en el planificador de bodas y que los invitados puedan introducir por adelantado el regalo que van a elegir a través de un formulario web. Con SeaTable, el formulario web podría diseñarse de forma que los invitados sólo vieran los regalos que ningún otro invitado ha elegido todavía. Realmente no hay límites para la imaginación.
 
-[Regístrese ahora](https://seatable.io/es/registrierung/?lang=auto) y empiece a planificar su boda. Todo el equipo de SeaTable te desea mucha diversión y una gran boda.
+[Regístrese ahora]({{< relref "pages/registration" >}}) y empiece a planificar su boda. Todo el equipo de SeaTable te desea mucha diversión y una gran boda.
 
 ### Instrucciones en vídeo en alemán en YouTube
 

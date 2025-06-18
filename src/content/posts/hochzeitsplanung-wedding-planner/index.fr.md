@@ -22,7 +22,7 @@ Notre check-list pour l'organisation du mariage contient déjà plus de 200 ToDo
 
 ### Créer ses propres to-do
 
-Pour commencer à planifier votre propre mariage, vous devez [vous inscrire](https://seatable.io/fr/enregistrement/?lang=auto) à un [compte gratuit de SeaTable](https://seatable.io/fr/enregistrement/?lang=auto). Vous pourrez ensuite commencer à planifier votre mariage à l'aide de notre modèle _Wedding Planner_.
+Pour commencer à planifier votre propre mariage, vous devez [vous inscrire]({{< relref "pages/registration" >}}?lang=auto) à un [compte gratuit de SeaTable]({{< relref "pages/registration" >}}?lang=auto). Vous pourrez ensuite commencer à planifier votre mariage à l'aide de notre modèle _Wedding Planner_.
 
 Vous pouvez insérer des tâches à faire supplémentaires ou additionnelles à n'importe quel endroit du modèle. Lorsque vous attribuez un nouveau _Parent To-do_, un nouveau groupe de tâches est automatiquement créé. Le tri des groupes de tâches se fait automatiquement en fonction du délai de préparation de votre mariage. Vous souhaitez attribuer une date concrète aux tâches ? Il vous suffit d'ajouter une nouvelle [colonne de date](https://seatable.io/fr/docs/handbuch/datenmanagement/feld-typen/?lang=auto#datum) et d'attribuer une date à chaque to-do.
 
@@ -92,7 +92,7 @@ Grâce à notre _liste de contrôle_ de plus de 200 points, l'organisation de vo
 
 Même si votre mariage est plus spécifique ou si vous avez d'autres exigences, SeaTable peut être personnalisé selon vos besoins. Ajoutez des tableaux, créez [différentes vues](https://seatable.io/fr/docs/handbuch/datenmanagement/ansichten/?lang=auto), [regroupez et filtrez](https://seatable.io/fr/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) vos données et vos vues ou essayez les [plug-ins](https://seatable.io/fr/docs/handbuch/schnelleinstieg/erweiterungen/?lang=auto) qui vous conviennent. Il serait par exemple envisageable d'intégrer une liste de souhaits dans le Wedding Planner et de permettre aux invités d'inscrire à l'avance, via un formulaire web, le cadeau qu'ils choisiront. Avec SeaTable, le formulaire web pourrait être conçu de manière à ce que les invités ne voient que les cadeaux qu'aucun autre invité n'a encore choisis. Il n'y a vraiment aucune limite à l'imagination.
 
-Inscrivez-vous[dès maintenant](https://seatable.io/fr/enregistrement/?lang=auto) et commencez à planifier votre mariage. Toute l'équipe de SeaTable vous souhaite un bon mariage !
+Inscrivez-vous[dès maintenant]({{< relref "pages/registration" >}}?lang=auto) et commencez à planifier votre mariage. Toute l'équipe de SeaTable vous souhaite un bon mariage !
 
 ### Instructions vidéo en allemand sur YouTube
 

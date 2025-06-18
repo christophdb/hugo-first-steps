@@ -14,7 +14,7 @@ Ob LKWs, Busse oder klassische Dienstwagen: Einen Fuhrpark zu verwalten ist für
 
 ## Was ist ein Fuhrpark?
 
-Der **Fuhrpark** beziehungsweise die **Flotte** Ihres Unternehmens umfasst alle Fahrzeuge, die sich in Ihrem [Inventar](https://seatable.io/inventarliste-vorlagen/) befinden. Am häufigsten handelt es sich hierbei um klassische **Firmenwagen**. Es können aber auch Spezialfahrzeuge damit gemeint sein: Busse und Bahnen, LKWs, Baustellenfahrzeuge, Gabelstapler, Traktoren oder sonstige Fahrzeuge.
+Der **Fuhrpark** beziehungsweise die **Flotte** Ihres Unternehmens umfasst alle Fahrzeuge, die sich in Ihrem [Inventar]({{< relref "posts/inventarliste-erstellen" >}}) befinden. Am häufigsten handelt es sich hierbei um klassische **Firmenwagen**. Es können aber auch Spezialfahrzeuge damit gemeint sein: Busse und Bahnen, LKWs, Baustellenfahrzeuge, Gabelstapler, Traktoren oder sonstige Fahrzeuge.
 
 ![Fuhrparkmanagement](fuhrparkmanagement-mit-seatable.jpg)
 

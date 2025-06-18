@@ -162,7 +162,7 @@ Muitas vezes, os outros familiares têm todo o gosto em participar na aquisiçã
 
 O vestuário tradicional de luto difere de cultura para cultura: na Europa e no mundo ocidental, **o preto** é a cor do luto, na Ásia é sobretudo **branco** - e noutros locais pode até ser colorido. Atualmente, na Alemanha, o vestuário do funeral já não tem de ser obrigatoriamente preto, mas espera-se frequentemente um **vestuário discreto** em cores suaves e cortes soltos - por exemplo, um fato azul-escuro com uma camisa branca, uma camisola de cor lisa com calças pretas ou um vestido que não seja demasiado justo e que não mostre demasiada pele.
 
-![Roupa funerária para o funeral](images/the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
+![Roupa funerária para o funeral](the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
 
 No entanto, o traje de luto não é obrigatório. Também são permitidas cerimónias fúnebres pouco convencionais ou alegres, se o falecido desejar uma celebração dele e da sua vida em vez de um **ambiente de luto**. Assim, planeie o serviço fúnebre sem tradições e inteiramente de acordo com os desejos do falecido.
 
@@ -186,7 +186,7 @@ Se a cerimónia fúnebre se realizar apenas no círculo mais próximo, não escr
 
 Com tudo o que é necessário para planear um funeral, é fácil perder a noção de tudo. Por isso, a SeaTable compilou as tarefas mais importantes numa lista de verificação. Também pode utilizar o planeador em linha para coordenar o convite dos enlutados ou para calcular os custos do funeral.
 
-![Planeamento em linha com uma visão geral dos custos do funeral](images/Funeral-planner.png)
+![Planeamento em linha com uma visão geral dos custos do funeral](Funeral-planner.png)
 
 Modelo de síntese de custos funerários SeaTable
 

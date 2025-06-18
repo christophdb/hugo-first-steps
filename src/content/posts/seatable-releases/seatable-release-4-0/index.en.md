@@ -21,9 +21,9 @@ This morning we updated the SeaTable Cloud to version 4.0. All self-hosters can 
 
 Nothing is more binding than a signature - whether under contracts, on documents or in letters. In SeaTable you can create all these documents. So what could be more obvious than digitizing handwritten signatures with SeaTable? The new signature column makes it possible! Save your digital signature simply by signing in a cell of this special image column sweeping with the mouse or on devices with touch screen with a pen or finger.
 
-![Add a signature in a signature column](images/Add-a-signature-in-a-signature-column.gif)
+![Add a signature in a signature column](Add-a-signature-in-a-signature-column.gif)
 
-This enables workflows for employee and customer processes that you were previously unable to map in SeaTable: With an inserted signature field, you can, for example, have vacation requests or registrations for seminars in [web forms](https://seatable.io/en/docs/webformulare/webformulare/) and [universal apps](https://seatable.io/en/docs/apps/universelle-app/) signed by the person filling them out. Likewise, customers can confirm to a fitter that services have been performed on site. Using the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), signatures can be easily inserted into documents, which can then be sent as email attachments. The seamless integration of the new column type creates many opportunities to make processes more binding.
+This enables workflows for employee and customer processes that you were previously unable to map in SeaTable: With an inserted signature field, you can, for example, have vacation requests or registrations for seminars in [web forms]({{< relref "help/base-editor/webformulare" >}}) and [universal apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) signed by the person filling them out. Likewise, customers can confirm to a fitter that services have been performed on site. Using the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), signatures can be easily inserted into documents, which can then be sent as email attachments. The seamless integration of the new column type creates many opportunities to make processes more binding.
 
 ## Powerful file management within Base
 
@@ -31,11 +31,11 @@ The file management in SeaTable 4.0 revolutionizes the way you work with files i
 
 The file manager, which can be called up via the three-dot icon in the top right of Base and added to the toolbar, presents itself in a very familiar form: Files and folders on the right, navigation on the left - users will immediately feel at home.
 
-![Drag and drop files from the file management into a file column](images/dateien-aus-dem-dateimanagement-per-drag-and-drop-in-eine-dateispalte-ziehen.gif)
+![Drag and drop files from the file management into a file column](dateien-aus-dem-dateimanagement-per-drag-and-drop-in-eine-dateispalte-ziehen.gif)
 
 Existing files can be renamed, copied, moved, downloaded and deleted in the file manager. New Office documents can also be created and edited directly via the integrated editor. You can now easily upload files and folders from your device or add them to the file manager via drag-and-drop. Files can also be dragged and dropped from the file manager into the cells of matching table columns and thus assigned to data records. To provide maximum space for this, the file manager can be resized and pinned as a sidebar.
 
-![Folder structure in file management](images/Ordnerstruktur-im-Dateimanagement-2.png)
+![Folder structure in file management](Ordnerstruktur-im-Dateimanagement-2.png)
 
 The system folders are related to the Base structure and contain images, files and signatures from the respective columns as well as the configuration files of apps and web forms. In the custom folders, you can store and organize files independently in individual folders. The files are then available in Python scripts and other functions such as web forms or the page design plugin; however, some of these integrations will be completed in future versions.
 
@@ -47,7 +47,7 @@ Speaking of file management, if you store a lot of large files (e.g. images and 
 
 Integrating Seafile with SeaTable could hardly be easier: Generate an API token for a Seafile library via the Seafile web interface, create a new third-party account in SeaTable and paste the token there (see figure). After successful linking, the Seafile library will appear in the file manager.
 
-![Facilitated Seafile integration for large data sets](images/verbesserte-integration-mit-seafile-release-notes.png)
+![Facilitated Seafile integration for large data sets](verbesserte-integration-mit-seafile-release-notes.png)
 
 In principle, both hosted and self-hosted Seafile servers can be connected. [Feel free to contact our sales team]({{< relref "pages/contact" >}}) if you want to self-host a Seafile server. For SeaTable Dedicated customers we offer Seafile co-hosting.
 
@@ -55,15 +55,15 @@ In principle, both hosted and self-hosted Seafile servers can be connected. [Fee
 
 SeaTable offers you a wide range of options for [statistical data analysis](https://seatable.io/en/docs/seatable-nutzen/statistiken/) and its graphical presentation. Until now, you had both a statistics module with basic functions and the advanced statistics plugin at hand. The latter moves in SeaTable 4.0 to the place where the basic module was before, so you don't need to set up a plugin anymore. All of SeaTable's statistics power is now bundled into one powerful tool, which you can access with one click via the Statistics button in the Base header.
 
-![Statistics plugin and statistics module merge into one tool](images/erweitertes-statistik-plugin-release-notes.gif)
+![Statistics plugin and statistics module merge into one tool](erweitertes-statistik-plugin-release-notes.gif)
 
 All graphs and charts you have already created - whether in the Statistics module or in the Advanced Statistics plugin - will of course be preserved and automatically moved to the new dashboard.
 
 ## Universal App Builder Progress
 
-The [Universal App Builder](https://seatable.io/en/docs/apps/universelle-app/) (Beta) enjoys great popularity, our development team is working at full speed on the finishing touches and the results are impressive! All [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) now have a uniform layout and offer the column search function in the data settings, which you already know from the bases. In addition, all page types now support the [filter "Actual ID of the logged in user"](https://seatable.io/en/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/). One focus of the development work was on the individual page, whose operation we have significantly improved. We also fixed bugs in diagrams. Meanwhile, the other page types were not neglected. Column support was optimized for the web form, Kanban and Timeline pages. A highlight of the Universal App Builder in SeaTable 4.0 is the new page type "Query", which integrates the functionality of the [data query app](https://seatable.io/en/docs/apps/datenabfrage-app/) into the Universal App.
+The [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) (Beta) enjoys great popularity, our development team is working at full speed on the finishing touches and the results are impressive! All [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) now have a uniform layout and offer the column search function in the data settings, which you already know from the bases. In addition, all page types now support the [filter "Actual ID of the logged in user"](https://seatable.io/en/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/). One focus of the development work was on the individual page, whose operation we have significantly improved. We also fixed bugs in diagrams. Meanwhile, the other page types were not neglected. Column support was optimized for the web form, Kanban and Timeline pages. A highlight of the Universal App Builder in SeaTable 4.0 is the new page type "Query", which integrates the functionality of the [data query app](https://seatable.io/en/docs/apps/datenabfrage-app/) into the Universal App.
 
-![The Universal App](images/SeaTable_Universal-App.png)
+![The Universal App](SeaTable_Universal-App.png)
 
 In versions 4.1 and 4.2, even more functions will be added that are already established in the bases. These include conditional formatting and variable line height, for example. The beta phase of the Universal App Builder will also end then.
 
@@ -71,7 +71,7 @@ In versions 4.1 and 4.2, even more functions will be added that are already esta
 
 Also the small achievements in SeaTable make life nicer: The folders on the start page now open in a separate window, which gives you a better overview of the bases sorted there.
 
-![New folder view on the home page](images/ordner-auf-der-startseite-release-notes.gif)
+![New folder view on the home page](ordner-auf-der-startseite-release-notes.gif)
 
 Locking a row - with an automation rule or manually via the rows context menu, this has been possible for Enterprise users for quite some time. Now the [button column](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) "row lock" also gets as a new action. Use it in combination with the other seven actions to perform complex operations simply with a mouse click. In addition, we have added dynamic date values to the " Editrow " action and improved the display of selection options there.
 
@@ -85,7 +85,7 @@ In the Base Log, SeaTable stores changes that you and your team members make in 
 
 ## Price adjustment
 
-Since version 1.0, we have expanded the functionality of SeaTable step by step. We have also made significant investments in simpler and more powerful integrations, improved documentation and increased security. Together with the generally high price dynamics, this requires an adjustment of our prices for [SeaTable Server licenses](https://seatable.io/en/on-premises/).
+Since version 1.0, we have expanded the functionality of SeaTable step by step. We have also made significant investments in simpler and more powerful integrations, improved documentation and increased security. Together with the generally high price dynamics, this requires an adjustment of our prices for [SeaTable Server licenses]({{< relref "pages/product/seatable-server" >}}).
 
 | Number of users | Price so far | Price new | Change    |
 | --------------- | ------------ | --------- | --------- |

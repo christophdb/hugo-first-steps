@@ -16,7 +16,7 @@ Esta mañana a las 6am hora central europea, SeaTable Cloud fue actualizado a la
 
 ## Reglas de filtrado complejas con grupos de filtros
 
-La versión 5.2 hace aún más potentes las [funciones de filtro](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) de SeaTable. Los nuevos grupos de filtros permiten **combinar reglas de filtrado con los operadores lógicos Y y O**. Ejemplo: Buscar hombres nacidos después de 1979 (grupo de filtrado 1) o mujeres nacidas después de 1984 (grupo de filtrado 2). Este tipo de filtrado no era posible anteriormente en SeaTable. En versiones anteriores, todas las reglas de filtrado se vinculaban con los operadores lógicos Y u O.
+La versión 5.2 hace aún más potentes las [funciones de filtro]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) de SeaTable. Los nuevos grupos de filtros permiten **combinar reglas de filtrado con los operadores lógicos Y y O**. Ejemplo: Buscar hombres nacidos después de 1979 (grupo de filtrado 1) o mujeres nacidas después de 1984 (grupo de filtrado 2). Este tipo de filtrado no era posible anteriormente en SeaTable. En versiones anteriores, todas las reglas de filtrado se vinculaban con los operadores lógicos Y u O.
 
 ![Grupos de filtros en SeaTable 5.2](Fitlergroups.png)
 
@@ -44,7 +44,7 @@ Además del control de autorizaciones, la nueva versión contiene dos mejoras pa
 
 ### Tipo de página Formulario
 
-Los [formularios web](https://seatable.io/es/docs/webformulare/webformulare/) sencillos que pueden crearse en Base ofrecen una **opción de redirección**. Los usuarios son redirigidos automáticamente a un sitio web tras el envío. Ahora también hemos añadido esta función a las [páginas de formularios](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/), teniendo en cuenta las características especiales de la app. Los usuarios pueden ser redirigidos a otra página de la aplicación o a una URL externa. Las otras páginas de la aplicación pueden seleccionarse cómodamente en un menú desplegable. También se puede establecer si la redirección tiene lugar en una nueva pestaña o en la misma pestaña.
+Los [formularios web]({{< relref "help/base-editor/webformulare" >}}) sencillos que pueden crearse en Base ofrecen una **opción de redirección**. Los usuarios son redirigidos automáticamente a un sitio web tras el envío. Ahora también hemos añadido esta función a las [páginas de formularios](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/), teniendo en cuenta las características especiales de la app. Los usuarios pueden ser redirigidos a otra página de la aplicación o a una URL externa. Las otras páginas de la aplicación pueden seleccionarse cómodamente en un menú desplegable. También se puede establecer si la redirección tiene lugar en una nueva pestaña o en la misma pestaña.
 
 ### Tipo de página Tabla
 

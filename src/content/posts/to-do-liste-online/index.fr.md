@@ -65,7 +65,7 @@ Un lien avec votre calendrier, un assistant vocal sur votre smartphone et d'autr
 
 ### Microsoft To Do : l'application polyvalente pour votre liste de choses à faire
 
-Avec [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), vous disposez à la fois d'un planificateur journalier et d'un outil pour les [listes](https://seatable.io/fr/einkaufsliste/) de tâches et [d'achats](https://seatable.io/fr/einkaufsliste/). Vous pouvez intégrer des tâches depuis Outlook et travailler sur une liste de manière synchrone depuis tous les terminaux.
+Avec [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), vous disposez à la fois d'un planificateur journalier et d'un outil pour les [listes]({{< relref "posts/einkaufsliste" >}}) de tâches et [d'achats]({{< relref "posts/einkaufsliste" >}}). Vous pouvez intégrer des tâches depuis Outlook et travailler sur une liste de manière synchrone depuis tous les terminaux.
 
 Il est possible de trier les différentes tâches à faire, de leur attribuer un délai et de les cocher. Des rappels et des tâches répétitives sont également possibles. Au-delà du mode liste, il n'y a cependant pas d'options avancées pour la visualisation, vous avez alors besoin du Planner.
 
@@ -99,9 +99,13 @@ Il est également intéressant de noter que vous pouvez télécharger [des fichi
 
 Dans la comparaison de toutes les apps considérées, SeaTable a de loin **le plus grand nombre de fonctions** et convainc par sa grande **flexibilité**. Ainsi, vous obtenez en une seule application tout ce dont vous avez besoin pour votre liste de choses à faire. Grâce aux nombreuses **fonctions collaboratives** (commentaires, ensembles de données partagés, travail synchrone en temps réel, etc.), vous pouvez non seulement travailler sur vos propres listes, mais aussi collaborer avec succès en équipe.
 
-Avec SeaTable, vous pouvez commencer immédiatement avec la [version gratuite](https://seatable.io/fr/enregistrement/) et le [modèle interactif]({{< relref "templates/projects/to-do-list" >}}). D'autres fonctionnalités sont disponibles dans la version Plus pour 7 € par utilisateur et par mois, la version Enterprise pour 14 € par utilisateur et par mois ou une solution cloud dédiée.
+Avec SeaTable, vous pouvez commencer immédiatement avec la [version gratuite]({{< relref "pages/registration" >}}) et le [modèle interactif]({{< relref "templates/projects/to-do-list" >}}). D'autres fonctionnalités sont disponibles dans la version Plus pour 7 € par utilisateur et par mois, la version Enterprise pour 14 € par utilisateur et par mois ou une solution cloud dédiée.
 
-{{< warning headline="RGPD et souveraineté des données" text="Les serveurs de SeaTable Cloud sont situés en Allemagne, ce qui fait que la plateforme est également adaptée au travail avec des données sensibles et personnelles, conformément au RGPD. Vous avez en outre la possibilité d'installer [SeaTable On-Premises](https://seatable.io/fr/on-premises/) sur vos propres serveurs." />}}
+{{< warning headline="RGPD et souveraineté des données" >}}
+
+Les serveurs de SeaTable Cloud sont situés en Allemagne, ce qui fait que la plateforme est également adaptée au travail avec des données sensibles et personnelles, conformément au RGPD. Vous avez en outre la possibilité d'installer [SeaTable On-Premises]({{< relref "pages/product/seatable-server" >}}) sur vos propres serveurs.
+
+{{< /warning >}}
 
 ## Conseils pour réussir votre liste de choses à faire
 

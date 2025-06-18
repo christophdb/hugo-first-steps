@@ -23,7 +23,7 @@ How exactly you should design the content analysis depends on the results you wa
 
 Basically, there is a **qualitative** and a **quantitative approach** to content analysis. You can decide which of the two methods you should use for your project based on the following criteria:
 
-![It is shown in which points qualitative and quantitative content analysis differ.](images/Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
+![It is shown in which points qualitative and quantitative content analysis differ.](Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
 
 In qualitative content analysis, you focus on a **small amount** of content that you subject to in-depth analysis. Here it also depends on what you hear, for example, in interviews between the rows . Accordingly, you work **inductively**, i.e. you carry out your own observations and derive a new hypothesis from them. The aim is to understand and **interpret** the results and develop new theoretical approaches on this basis.
 
@@ -39,7 +39,7 @@ You can also use content analysis to collect important data in your day-to-day w
 
 At first glance, qualitative content analysis may seem very complex. However, if you look at it in its individual steps, it is easier to understand. In the following, the basic procedure of a qualitative content analysis is explained in eight steps and with the help of examples.
 
-![You can find out how to carry out a qualitative content analysis in eight steps here.](images/Blue-Modern-Data-Analysis-Your-Story-e1709037008610-711x1085.png)
+![You can find out how to carry out a qualitative content analysis in eight steps here.](Blue-Modern-Data-Analysis-Your-Story-e1709037008610-711x1085.png)
 
 These instructions will help you to do this.
 
@@ -73,7 +73,7 @@ The direction your analysis should take depends on your research question. Possi
 
 If your project is a scientific paper, you must be able to **explain** your **research question in a well-founded manner**. To do this, you should link it to existing theories and the current state of research.
 
-![A library is a good place to find literature.](images/susan-q-yin-2JIvboGLeho-unsplash-e1709908437533-711x502.jpg)
+![A library is a good place to find literature.](susan-q-yin-2JIvboGLeho-unsplash-e1709908437533-711x502.jpg)
 
 Look for suitable literature to substantiate your approach.
 
@@ -106,7 +106,7 @@ It is important that you formulate each category clearly so that it can be clear
 
 Before you can carry out your qualitative content analysis, you need to define the units of analysis. These determine what you will later code, i.e. classify into categories.
 
-![Online articles are structured, making them easy to divide into units.](images/emiliano-vittoriosi-bmFIX77cXA-unsplash-e1709908751710-711x682.jpg)
+![Online articles are structured, making them easy to divide into units.](emiliano-vittoriosi-bmFIX77cXA-unsplash-e1709908751710-711x682.jpg)
 
 Articles can be easily divided into units thanks to their structure.
 
@@ -159,7 +159,7 @@ How reliable is the coding? Is the same content rated equally and are difference
 
 To ensure that your content analysis runs smoothly, here are the most important questions you should ask yourself.
 
-![You should ask yourself these five questions when conducting a qualitative content analysis.](images/Green-And-Yellow-Simple-Checklist--e1709905721190-711x513.png)
+![You should ask yourself these five questions when conducting a qualitative content analysis.](Green-And-Yellow-Simple-Checklist--e1709905721190-711x513.png)
 
 The checklist helps you to keep an eye on the most important points of your analysis.
 

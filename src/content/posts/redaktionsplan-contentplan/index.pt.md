@@ -129,7 +129,7 @@ Para manter uma visão geral do calendário, pode **mudar da tabela para a vista
 
 A comunicação para o planeamento de contribuições estende-se por vezes a vários e-mails, chats internos ou documentos. Isto pode tornar-se rapidamente confuso. Com o SeaTable, todas as mensagens são agrupadas num único local: **Comunique o seu feedback diretamente no plano editorial**. Isto funciona de forma muito eficiente através da [função de comentário](https://seatable.io/pt/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) nas linhas individuais. Pode **acompanhar todas as alterações** no [registo](https://seatable.io/pt/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) - para que seja sempre claro quem fez que alterações no plano editorial.
 
-![Comunicação facilitada - pode fazer comentários diretamente no plano de conteúdos](images/Team-communication.jpg)
+![Comunicação facilitada - pode fazer comentários diretamente no plano de conteúdos](Team-communication.jpg)
 
 Comunicação simples e direta no plano editorial
 
@@ -137,7 +137,7 @@ Comunicação simples e direta no plano editorial
 
 Gostaria de fazer experiências com dados diferentes e analisar o seu conteúdo de acordo com os seus desejos? Então **crie [estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/) significativas com o SeaTable**. Por exemplo, analise em que meses publicou um número particularmente elevado de mensagens, qual o funcionário que escreveu mais mensagens ou em que canal o conteúdo teve mais sucesso. Isto fornece muitas informações valiosas sobre onde as coisas estão a correr bem - e onde ainda pode haver espaço para melhorias.
 
-![As estatísticas fornecem informações valiosas sobre o desempenho dos conteúdos](images/Statistics.jpg)
+![As estatísticas fornecem informações valiosas sobre o desempenho dos conteúdos](Statistics.jpg)
 
 ## Sugestões sobre como utilizar eficazmente o seu plano editorial
 

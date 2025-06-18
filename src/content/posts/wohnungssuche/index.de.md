@@ -45,7 +45,7 @@ Menschen, die sich die Mieten in ihrer Stadt gar nicht mehr leisten können, hab
 
 Im Alltag gibt es einige Methoden, um Wohnungen zu finden. Manche Vermieter inserieren zum Beispiel in **lokalen Zeitungen** oder verteilen **Aushänge** in der Stadt. Es lohnt sich also die Augen offen zu halten. Vielleicht wissen auch **Freunde** oder **Bekannte**, wer gerade nach Mietern sucht oder wo gerade eine Wohnung frei wird.
 
-Wem das zu aufwändig ist, kann sich auch an offiziellere Stellen wenden. Auch Mieter können **Immobilienmakler** zur Wohnungssuche beauftragen, die allerdings eine Provision verlangen. Laut Gesetz darf die Maklercourtage maximal zwei Nettokaltmieten zuzüglich der Mehrwertsteuer betragen. Eine weitere Option bietet der direkte Kontakt zu **Hausverwaltungen**. Diese haben oft den [Überblick](https://seatable.io/hausverwaltung/) und können Wohnungen vermitteln, die bald frei werden.
+Wem das zu aufwändig ist, kann sich auch an offiziellere Stellen wenden. Auch Mieter können **Immobilienmakler** zur Wohnungssuche beauftragen, die allerdings eine Provision verlangen. Laut Gesetz darf die Maklercourtage maximal zwei Nettokaltmieten zuzüglich der Mehrwertsteuer betragen. Eine weitere Option bietet der direkte Kontakt zu **Hausverwaltungen**. Diese haben oft den [Überblick]({{< relref "posts/hausverwaltung" >}}) und können Wohnungen vermitteln, die bald frei werden.
 
 {{< warning headline="Tipp" text="Bei einer Absage lohnt sich die Nachfrage beim Vermieter, ob eine **Interessentenliste** besteht. Vor allem wenn dieser mehrere Mieteinheiten besitzt, kann er Sie kontaktieren, sobald eine andere Wohnung frei wird." />}}
 

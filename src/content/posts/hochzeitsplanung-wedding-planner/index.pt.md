@@ -22,7 +22,7 @@ A nossa lista de controlo de planeamento de casamento já contém mais de 200 do
 
 ### Crie as suas próprias doses
 
-Para começar a planear o seu próprio casamento, precisa de [se registar para uma conta SeaTable Free](https://seatable.io/pt/registrierung/?lang=auto). Pode então começar a planear o seu casamento usando o nosso modelo de Wedding _Planner_.
+Para começar a planear o seu próprio casamento, precisa de [se registar para uma conta SeaTable Free]({{< relref "pages/registration" >}}). Pode então começar a planear o seu casamento usando o nosso modelo de Wedding _Planner_.
 
 Pode inserir doses adicionais ou posteriores em qualquer ponto do modelo. Quando se atribui um novo _Parent To-do_, é automaticamente criado um novo grupo de tarefas. A ordenação dos grupos de tarefas é feita automaticamente com base no tempo de espera para o seu casamento. Deseja acrescentar uma data específica às tarefas? Basta adicionar uma nova [coluna de datas](https://seatable.io/pt/docs/handbuch/datenmanagement/feld-typen/?lang=auto#datum) e atribuir uma data a cada um dos afazeres.
 
@@ -92,7 +92,7 @@ Com a nossa _lista de verificação de_ mais de 200 pontos, nada pode correr mal
 
 Mesmo que o seu casamento seja um pouco mais específico ou que tenha outros requisitos, o SeaTable pode ser personalizado ao seu gosto. Adicione tabelas, crie [diferentes vistas](https://seatable.io/pt/docs/handbuch/datenmanagement/ansichten/?lang=auto), [agrupe e filtre](https://seatable.io/pt/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) os seus dados e vistas ou experimente os [plug-ins](https://seatable.io/pt/docs/handbuch/schnelleinstieg/erweiterungen/?lang=auto) que mais lhe convêm. Por exemplo, seria concebível integrar uma lista de desejos no Planeador de Casamentos e os convidados podem entrar no presente que escolherão antecipadamente através de um formulário web. Com SeaTable, o formulário da web poderia ser concebido de tal forma que os convidados só vissem presentes que nenhum outro convidado tivesse ainda escolhido. Não há realmente limites para a imaginação.
 
-[Registe-se agora](https://seatable.io/pt/registrierung/?lang=auto) e comece a planear o seu casamento. Toda a equipa SeaTable deseja-lhe muita diversão e um grande casamento!
+[Registe-se agora]({{< relref "pages/registration" >}}) e comece a planear o seu casamento. Toda a equipa SeaTable deseja-lhe muita diversão e um grande casamento!
 
 ### Instruções em vídeo em alemão no YouTube
 

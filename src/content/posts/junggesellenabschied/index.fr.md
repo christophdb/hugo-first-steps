@@ -15,7 +15,7 @@ L'organisation de cet événement inoubliable nécessite une planification minut
 
 Dans cet article, nous ne présentons pas seulement des idées originales pour l'enterrement de vie de garçon, mais nous expliquons aussi en détail ce dont il faut tenir compte lors de la planification et comment procéder au mieux.
 
-![Panneau avec l'inscription Enterrement de vie de garçon](images/ibrahim-boran-P7z3tdMcLzk-unsplash-711x466.jpg)
+![Panneau avec l'inscription Enterrement de vie de garçon](ibrahim-boran-P7z3tdMcLzk-unsplash-711x466.jpg)
 
 Certaines cultures ont des traditions particulières en ce qui concerne les enterrements de vie de garçon.
 
@@ -37,7 +37,7 @@ Tout d'abord, il est crucial de déterminer à l'avance quels sont les **amis et
 
 Les **coûts** de l'enterrement de vie de garçon sont généralement partagés entre tous les participants, la mariée et le marié étant invités d'honneur. Il est donc important de planifier et de convenir soigneusement du **budget** afin de ne froisser personne et de ne pas dépasser les limites financières.
 
-![Sur une main, on peut lire "Bride to be".](images/ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
+![Sur une main, on peut lire "Bride to be".](ibrahim-boran-oLaWOFe7_xI-unsplash-711x474.jpg)
 
 Pour beaucoup, l'enterrement de vie de garçon est un rite de passage important entre la vie de célibataire et la vie de couple.
 
@@ -75,7 +75,7 @@ Entretoise
 - Stuttgart
 - Leipzig
 
-![La porte d'un bar illuminée en orange](images/pexels-mali-219095-711x473.jpg)
+![La porte d'un bar illuminée en orange](pexels-mali-219095-711x473.jpg)
 
 Les city trips peuvent vite devenir onéreux, car ils comprennent l'hébergement, la restauration et les activités.
 
@@ -95,7 +95,7 @@ Entretoise
 - Ibiza
 - Dublin
 
-![Enterrement de vie de garçon à Las Vegas](images/pexels-camrainey-2600214-711x425.jpg)
+![Enterrement de vie de garçon à Las Vegas](pexels-camrainey-2600214-711x425.jpg)
 
 De plus en plus d'enterrements de vie de garçon s'étendent sur tout un week-end au lieu de ne durer qu'une nuit.
 
@@ -115,7 +115,7 @@ Entretoise
 - Simulateur de vol
 - Entraînement à la survie
 
-![Enterrement de vie de garçon : les montagnes russes](images/pexels-sandy-torchon-2229511-3973555-711x474.jpg)
+![Enterrement de vie de garçon : les montagnes russes](pexels-sandy-torchon-2229511-3973555-711x474.jpg)
 
 De nombreux parcs d'attractions proposent des réductions spéciales pour les groupes, ce qui en fait une option abordable.
 
@@ -135,7 +135,7 @@ Entretoise
 - Réservoirs de flottation
 - Fête du jacuzzi
 
-![Des mains qui massent un dos](images/pexels-ian-panelo-3230236-711x538.jpg)
+![Des mains qui massent un dos](pexels-ian-panelo-3230236-711x538.jpg)
 
 Ces dernières années, la tendance est à l'enterrement de vie de garçon plus sain, avec des activités comme le yoga ou le bien-être.
 
@@ -155,7 +155,7 @@ Entretoise
 - Cours de kintsugi
 - Session Drink-and-Paint
 
-![Coup d'envoi avec Aperol Spritz à l'enterrement de vie de garçon](images/pexels-rachel-claire-4819717-711x570.jpg)
+![Coup d'envoi avec Aperol Spritz à l'enterrement de vie de garçon](pexels-rachel-claire-4819717-711x570.jpg)
 
 Certains optent pour des activités alternatives pendant l'enterrement de vie de garçon, comme des cours de cuisine, des soirées cocktail ou même du travail humanitaire.
 
@@ -167,7 +167,7 @@ Un enterrement de vie de garçon peut prendre des formes très différentes. Pou
 2. **Tenir compte des préférences et des intérêts**Les jeunes filles et les jeunes garçons doivent tenir compte de leurs goûts et de leurs intérêts personnels afin de créer une expérience unique. Qu'il s'agisse d'un moment de détente dans un centre de bien-être, d'une journée d'aventure passionnante ou d'une fête endiablée, le plus important est que la future mariée ou le futur marié se sente bien.
 3. **Prévoir des surprises spéciales :** Prévoyez des surprises spéciales pour la mariée ou le marié pendant l'enterrement de vie de garçon. Il pourrait s'agir de cadeaux personnalisés, d'invités inattendus ou d'expériences uniques qui donneront à cette journée une touche particulière et la rendront inoubliable.
 
-![Un homme tient la main de sa fiancée](images/brandon-cormier-fq8eRBLZl40-unsplash-711x430.jpg)
+![Un homme tient la main de sa fiancée](brandon-cormier-fq8eRBLZl40-unsplash-711x430.jpg)
 
 Souvent, l'enterrement de vie de garçon est prévu comme une surprise pour la mariée ou le marié.
 
@@ -179,7 +179,7 @@ Un enterrement de vie de garçon doit être une journée inoubliable, pleine de 
 - Un autre point important est la **Planification du temps**. Assurez-vous que la mariée ou le marié n'a pas d'autres obligations le jour de l'enterrement de vie de garçon. Une communication précoce de la date et des vérifications régulières permettent d'éviter les collisions inattendues.
 - N'oubliez pas les **souvenirs** de garder une trace. Surtout à l'ère numérique actuelle, il est aussi facile que populaire de documenter les moments particuliers sous forme de photos et de vidéos. Faites appel à un membre du groupe ou louez éventuellement les services d'un photographe professionnel pour créer des souvenirs de qualité.
 
-![Ballons roses comme décoration pour un enterrement de vie de jeune fille](images/sj-38adackPTsI-unsplash-711x474.jpg)
+![Ballons roses comme décoration pour un enterrement de vie de jeune fille](sj-38adackPTsI-unsplash-711x474.jpg)
 
 Certains enterrements de vie de garçon ont des thèmes ou des couleurs spécifiques.
 
@@ -192,4 +192,4 @@ Vous êtes confronté(e) au défi de planifier l'ultime enterrement de vie de ga
 
 Vous pouvez facilement adapter le modèle à vos besoins en supprimant les entrées d'exemple et en ajoutant vos propres données. SeaTable vous permet de classer et de visualiser les données de manière claire afin de toujours garder une vue d'ensemble des activités, des choses à faire, des invités et des finances.
 
-SeaTable n'aide pas seulement les témoins de mariage : les futurs mariés peuvent également utiliser SeaTable comme [organisateur de mariage]({{< relref "templates/events/wedding-planner" >}}) gratuit pour organiser à la perfection le plus beau jour de leur vie. Pour vous inscrire gratuitement, indiquez [ici](https://seatable.io/fr/enregistrement/) votre adresse e-mail.
+SeaTable n'aide pas seulement les témoins de mariage : les futurs mariés peuvent également utiliser SeaTable comme [organisateur de mariage]({{< relref "templates/events/wedding-planner" >}}) gratuit pour organiser à la perfection le plus beau jour de leur vie. Pour vous inscrire gratuitement, indiquez [ici]({{< relref "pages/registration" >}}) votre adresse e-mail.

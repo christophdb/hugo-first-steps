@@ -100,6 +100,6 @@ Bien sûr, il ne faut pas oublier l'eau pour le lavage. Pour que celle-ci se con
 
 Pour que vous soyez idéalement préparé à la prochaine situation d'urgence, l'équipe de SeaTable a créé pour vous un modèle de réserve d'urgence. Vous pouvez l'adapter à vos besoins.
 
-![Modèle pour votre réserve d'urgence](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
+![Modèle pour votre réserve d'urgence](Vorlage-fuer-Ihren-Notvorrat-1.png)
 
-Si vous souhaitez utiliser SeaTable pour faire des réserves, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/everyday-life/shopping-list" >}}).
+Si vous souhaitez utiliser SeaTable pour faire des réserves, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/everyday-life/shopping-list" >}}).

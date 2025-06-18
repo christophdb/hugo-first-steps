@@ -50,7 +50,7 @@ Sie möchten Ihre Personalentwicklung vorantreiben und neue Weiterbildungsmögli
 
 Selbstverständlich sollten Sie Ihr Angebot an den Bedarf anpassen und ermitteln, wo in Ihrem Unternehmen **Wissentransfer** nötig ist. Wenn Ihr Unternehmen international agiert, könnten Ihre Mitarbeiter großes Interesse an einem Business-English-Kurs haben, mit dem sie ihre **Sprachkenntnisse** auffrischen können. Vermutlich benötigen alle Neueinsteiger eine Schulung in **IT-Sicherheit** und eine Einführung in die genutzten **Software-Anwendungen**.
 
-![Gesamtüberblick über Ihre Workshops](images/Overview-1.jpg)
+![Gesamtüberblick über Ihre Workshops](Overview-1.jpg)
 
 Verschaffen Sie sich einen Überblick über alle Workshops, Schulungen und Weiterbildungsmaßnahmen, die in Ihrem Unternehmen bereits stattfinden oder für die es zusätzlichen Bedarf gibt. Dazu können Sie alle wichtigen Informationen und Dokumente zu einem Workshop einfach in einer Datenbank erfassen. Die Verknüpfung mit anderen Tabellen ermöglicht hierbei die direkte Zuordnung zu einem Coach.
 
@@ -58,7 +58,7 @@ Verschaffen Sie sich einen Überblick über alle Workshops, Schulungen und Weite
 
 Je nachdem, ob die notwendige Expertise zu einem Thema in Ihrem Unternehmen vorhanden ist, können Sie entweder **Ihre Mitarbeiter** oder **externe Fachleute** als Coaches für Ihre Workshops gewinnen. Prüfen Sie, ob die Coaches geeignet sind, einen Workshop mit dem gewünschten Erfolg durchzuführen. Darüber hinaus sollten Sie Informationen wie Kontaktdaten, Foto und Qualifikation der Coaches hinterlegen.
 
-![Hinterlegen Sie alle wichtigen Informationen zu Ihren Workshop-Trainern](images/Coaches-1.jpg)
+![Hinterlegen Sie alle wichtigen Informationen zu Ihren Workshop-Trainern](Coaches-1.jpg)
 
 Mit dem Seitendesign-Plugin ist es außerdem möglich, mit den in der Tabelle enthaltenen Daten einen **Steckbrief** zu erstellen und diesen im PDF-Format abzuspeichern.
 
@@ -76,9 +76,9 @@ Dort können Sie gleich das **Catering für die Mittagspause** dazubuchen, wohin
 
 ## Anmeldungen online verwalten
 
-Als Nächstes müssen Sie die potenziellen Teilnehmer einladen und notieren, wer an welchem Termin teilnimmt. Wenn Sie Ihre Workshops bereits in einer Datenbank erfasst haben, ist es ein Leichtes, die **Anmeldungen** online zu verwalten. Über ein [Webformular](https://seatable.io/docs/webformulare/webformulare/), mit dem sich die Teilnehmer für jeden Workshop registrieren können, können Sie das in SeaTable mühelos umsetzen. Dadurch sparen Sie sich das Hin- und Hersenden von **Termineinladungen** per E-Mail.
+Als Nächstes müssen Sie die potenziellen Teilnehmer einladen und notieren, wer an welchem Termin teilnimmt. Wenn Sie Ihre Workshops bereits in einer Datenbank erfasst haben, ist es ein Leichtes, die **Anmeldungen** online zu verwalten. Über ein [Webformular]({{< relref "help/base-editor/webformulare" >}}), mit dem sich die Teilnehmer für jeden Workshop registrieren können, können Sie das in SeaTable mühelos umsetzen. Dadurch sparen Sie sich das Hin- und Hersenden von **Termineinladungen** per E-Mail.
 
-![Einfache Workshop Anmeldung über das Webformular](images/Einfache-Workshop-Anmeldung-ueber-das-Webformular.png)
+![Einfache Workshop Anmeldung über das Webformular](Einfache-Workshop-Anmeldung-ueber-das-Webformular.png)
 
 Eine Tabelle sammelt alle Anmeldungen und die von Ihren Teilnehmern eingetragenen Daten. Praktisch: Wenn die Teilnehmer einen Workshop auswählen, ist ihre Anmeldung direkt dem richtigen Workshop in der verknüpften Tabelle zugeordnet.
 
@@ -104,7 +104,7 @@ Um die **Teilnahme am Workshop zu bescheinigen**, können Sie jedem Teilnehmer e
 
 Was wären Workshops und Weiterbildungsmaßnahmen ohne Feedback? Zur Evaluation können Sie entweder **Papierbögen** nutzen, die Sie am Ende des Workshops von den Teilnehmern ausfüllen lassen, oder Sie setzen erneut auf ein **Webformular**. Dieses hat den Vorteil, dass die Teilnehmer die Bewertung direkt digital erfassen. So ist das Feedback immer lesbar und sofort mit den Workshops und Coaches verknüpft. Die Teilnehmer können Workshop und Coach sowohl auf einer Rating-Skala als auch in Freitextfeldern bewerten.
 
-![Nutzen Sie das SeaTable Webformular, um Feedback von Ihren Mitarbeitern zu sammeln](images/Feedback.jpg)
+![Nutzen Sie das SeaTable Webformular, um Feedback von Ihren Mitarbeitern zu sammeln](Feedback.jpg)
 
 Das gesammelte Feedback können Sie in SeaTable einfach **auswerten**, indem Sie beispielsweise den Median oder Durchschnitt einer [Rating-Spalte](https://seatable.io/docs/auswahlspalten/die-rating-spalte/) in der [Statuszeile](https://seatable.io/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) anzeigen lassen oder die offenen Antworten in den [Text-Spalten](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) für die Weiterentwicklung der Workshops nutzen. Wenn es auffällig viel **Kritik** an einem Kurs gibt, kann der Trainer entweder Verbesserungen vornehmen oder ausgetauscht werden. Kommt etwa oft das Feedback, dass wichtige Aspekte gefehlt haben, könnte das ein Hinweis darauf sein, dass Sie diesen mehr Zeit einräumen und den Workshop verlängern sollten. Sie könnten ebenso einen neuen Workshop ins Leben rufen, der sich genau auf diese Aspekte konzentriert und so die Bedürfnisse Ihrer Teilnehmer erfüllt.
 

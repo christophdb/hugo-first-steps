@@ -21,7 +21,7 @@ Crear nuevos hábitos y cambiar los malos: un registro de hábitos puede ayudarl
 
 Tu Rastreador de Hábitos podría tener este aspecto.
 
-No hay límites a su imaginación a la hora de **diseñar** su Seguidor de hábitos. Por ejemplo, trabaje con diferentes **colores** y tipos de letra o simplemente ponga en práctica sus ideas en línea con el Seguidor de hábitos [de SeaTable](https://seatable.io/es/habit-tracker-gewohnheiten-aendern/#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). No sólo debes anotar tus hábitos deseados, sino también tus hábitos anteriores. El seguimiento le ayuda a tomar conciencia de los hábitos que ha dado por sentados hasta el momento.
+No hay límites a su imaginación a la hora de **diseñar** su Seguidor de hábitos. Por ejemplo, trabaje con diferentes **colores** y tipos de letra o simplemente ponga en práctica sus ideas en línea con el Seguidor de hábitos [de SeaTable]({{< relref "posts/habit-tracker" >}}#Vorlage_fuer_Ihren_digitalen_Habit_Tracker). No sólo debes anotar tus hábitos deseados, sino también tus hábitos anteriores. El seguimiento le ayuda a tomar conciencia de los hábitos que ha dado por sentados hasta el momento.
 
 {{< warning headline="Por qué necesitamos hábitos" text="Los hábitos nos facilitan la vida. Una vez interiorizado un comportamiento, solemos realizarlo automáticamente. La actividad se produce de forma subconsciente, como cepillarse los dientes cada día, que hacemos por costumbre sin cuestionarnos el propósito cada vez. De este modo, descargamos al cerebro de trabajo mental y al mismo tiempo creamos capacidad para procesos más importantes." />}}
 

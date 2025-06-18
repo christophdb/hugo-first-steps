@@ -119,7 +119,7 @@ Não confie que as fontes dos programas de literatura ou de outros trabalhos cie
 
 Por isso, verifique diretamente se as referências estão correctas e, se necessário, acrescente-as. Se quiser deixar esta tarefa para o fim, é útil inscrevê-la numa [lista de tarefas]({{< relref "templates/projects/to-do-list" >}}) para não se esquecer dela.
 
-![Gestão de literatura em biblioteca com pastilha.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Gestão de literatura em biblioteca com pastilha.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 
 Alguns programas de gestão de referências podem registar as fontes por DOI. © ake1150 / Adobe Stock
 

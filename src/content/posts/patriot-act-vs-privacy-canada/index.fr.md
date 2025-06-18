@@ -17,7 +17,7 @@ Dans cet article, vous découvrirez en détail les nouvelles règles de protecti
 
 Le **Patriot Act** est une [loi fédérale](https://www.justice.gov/archive/ll/highlights.htm) en vigueur aux États-Unis depuis les attentats terroristes du 11 septembre 2001. Elle stipule que les autorités fédérales américaines, telles que la NSA ou la CIA, peuvent accéder à toutes les données se trouvant aux États-Unis sans autorisation personnelle ni mandat judiciaire. Il en va de même pour les filiales et les sites étrangers des entreprises américaines, qui sont tenus par le Patriot Act d'accorder l'accès à leurs serveurs, même si les lois locales l'interdisent.
 
-![Loi sur le parrainage](images/bild-1-artikel-patriot-act-711x474.png)
+![Loi sur le parrainage](bild-1-artikel-patriot-act-711x474.png)
 
 Le Patriot Act, signé par l'ancien président américain George W. Bush, permet aux autorités américaines comme le FBI ou la NSA d'accéder aux serveurs des entreprises américaines sans mandat judiciaire.
 
@@ -33,7 +33,7 @@ Le fait que l'utilisation de fournisseurs de cloud américains soit liée à des
 
 Le 22 septembre 2021, le gouvernement de la province canadienne du Québec a adopté la "Loi sur la modernisation des dispositions législatives relatives à la protection des données à caractère personnel" - en bref, [la loi 25](https://www.quebec.ca/gouvernement/ministeres-et-organismes/institutions-democratique-acces-information-laicite/acces-documents-protection-renseignements-personnels/pl64-modernisation-de-la-protection-des-renseignements-personnels#:~:text=Les modifications qui résultent de,citoyens sur leurs renseignements personnels) - en s'inspirant du RGPD en Europe. Les règles de protection des données contenues dans la loi 25 entrent depuis lors progressivement en vigueur. Ce projet de loi vise à moderniser les lois canadiennes sur la protection des données, considérées comme obsolètes, tant pour le secteur privé que pour le secteur public, et à les adapter aux progrès technologiques.
 
-![Loi sur le patriotisme](images/schaubild-gesetz25.png)
+![Loi sur le patriotisme](schaubild-gesetz25.png)
 
 La loi 25 du Québec entre en vigueur par étapes annuelles depuis septembre 2022.
 
@@ -47,7 +47,7 @@ Tous les contenus de la loi 25 à lire [ici](https://www.publicationsduquebec.go
 
 Même si votre entreprise n'est pas située au Québec, vous pourriez être concerné par la loi 25. En effet, les règles liées à la loi s'appliquent non seulement aux entreprises québécoises, mais aussi - indépendamment de leur emplacement - à toute entreprise qui traite des données de résidents québécois. En outre, la loi 25 est considérée au Canada comme un cadre juridique novateur qui a donné l'impulsion à d'autres réformes législatives similaires. Par exemple, le Canada révisera également rapidement ses lois fédérales sur la protection des données avec le projet de loi [C-27](https://www.parl.ca/legisinfo/en/bill/44-1/c-27), actuellement en cours de discussion au Parlement, qui remplacera la loi fédérale [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief/) actuellement en vigueur dans tout le Canada (à l'exception des provinces du Québec, de la Colombie-Britannique et de l'Alberta).
 
-![Loi sur le patriotisme](images/bild3-patrio-act-711x473.png)
+![Loi sur le patriotisme](bild3-patrio-act-711x473.png)
 
 Bien que la loi 25 ait été adoptée par le gouvernement du Québec, les entreprises et les institutions sont également confrontées aux conséquences de cette loi bien au-delà de la région.
 
@@ -61,13 +61,13 @@ Les conséquences sont particulièrement radicales pour les entreprises canadien
 
 Au départ, il ne semble pas si facile d'héberger des données personnelles indépendamment des fournisseurs américains, c'est-à-dire en dehors du champ d'application du Patriot Act. En fait, il existe quelques alternatives aux clouds américains dominants. Si vous utilisez actuellement Airtable, Google Sheets ou Microsoft Excel pour stocker des données à caractère personnel, SeaTable pourrait par exemple être la solution qui vous convient. Cette solution de base de données et de collaboration puissante et bon marché est une alternative 100 % conforme à la protection des données. En tant qu'entreprise européenne attachant une grande importance à la sécurité des données, SeaTable a très tôt tourné le dos au leader américain du secteur, AWS. À la place, la version cloud de SeaTable est hébergée dans des centres de données allemands du fournisseur suisse Exoscale, ce qui soumet les données à des exigences européennes strictes en matière de protection des données.
 
-![Loi sur le patriotisme](images/bild-seatable-patriot-act-711x389.png)
+![Loi sur le patriotisme](bild-seatable-patriot-act-711x389.png)
 
 Par rapport à Airtable, SeaTable se distingue entre autres par son multilinguisme, ses limites de stockage plus élevées et son prix plus avantageux.
 
-En outre, SeaTable propose une variante auto-hébergée qui vous permet d'installer et d'exploiter le logiciel en tant que [solution sur site](https://seatable.io/fr/on-premises/) sur vos propres serveurs. Vous disposez ainsi d'une souveraineté absolue et d'un contrôle maximal sur l'emplacement de vos données. Quelle que soit l'option que vous choisissez, SeaTable est conforme aux lois canadiennes sur la protection des données.
+En outre, SeaTable propose une variante auto-hébergée qui vous permet d'installer et d'exploiter le logiciel en tant que [solution sur site]({{< relref "pages/product/seatable-server" >}}) sur vos propres serveurs. Vous disposez ainsi d'une souveraineté absolue et d'un contrôle maximal sur l'emplacement de vos données. Quelle que soit l'option que vous choisissez, SeaTable est conforme aux lois canadiennes sur la protection des données.
 
-Vous souhaitez saisir des données de manière structurée, effectuer des tâches de manière efficace et développer des processus performants - sans avoir à vous soucier de la sécurité de vos données ? Alors, laissez-vous convaincre et [inscrivez-vous ici](https://seatable.io/fr/enregistrement/) pour un **abonnement gratuit à SeaTable**, qui vous permettra de bénéficier de nombreuses [fonctions](https://seatable.io/fr/prix) utiles. L'abonnement est **entièrement gratuit** et constitue une occasion idéale pour tester SeaTable sans engagement.
+Vous souhaitez saisir des données de manière structurée, effectuer des tâches de manière efficace et développer des processus performants - sans avoir à vous soucier de la sécurité de vos données ? Alors, laissez-vous convaincre et [inscrivez-vous ici]({{< relref "pages/registration" >}}) pour un **abonnement gratuit à SeaTable**, qui vous permettra de bénéficier de nombreuses [fonctions](https://seatable.io/fr/prix) utiles. L'abonnement est **entièrement gratuit** et constitue une occasion idéale pour tester SeaTable sans engagement.
 
 Pas encore convaincu ? Pour plus d'informations sur SeaTable, consultez le [site web](https://seatable.io/fr/).
 

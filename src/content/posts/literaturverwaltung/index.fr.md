@@ -119,7 +119,7 @@ Ne vous fiez pas à l'exactitude des sources indiquées dans les programmes de l
 
 Contrôlez donc directement si les références bibliographiques sont correctes et complétez-les si nécessaire. Si vous souhaitez garder cette tâche pour la fin, il est utile de l'inscrire sur une [liste de choses à faire]({{< relref "templates/projects/to-do-list" >}}) afin de ne pas l'oublier.
 
-![Gestion de la littérature dans une bibliothèque avec une tablette.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Gestion de la littérature dans une bibliothèque avec une tablette.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 
 Certains programmes de gestion de la littérature peuvent saisir les sources par DOI. © ake1150 / Adobe Stock
 
@@ -196,4 +196,4 @@ Le choix du programme de gestion de la littérature dépend des fonctions que vo
 
 SeaTable vous propose à cet effet un [modèle]({{< relref "templates/projects/bibliography" >}}) dans lequel vous pouvez trouver des exemples de littérature et suivre le processus, de l'insertion des sources à l'édition de la bibliographie. Vous pouvez adapter le modèle à vos besoins, y ajouter vos propres sources, le structurer et le visualiser à l'aide de nombreux outils utiles.
 
-Si vous souhaitez utiliser SeaTable comme outil de gestion de la documentation, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement.
+Si vous souhaitez utiliser SeaTable comme outil de gestion de la documentation, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement.

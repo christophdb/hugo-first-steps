@@ -54,7 +54,7 @@ Dans votre livre de comptes numérique, vous pouvez inscrire toutes vos dépense
 
 Qu'il s'agisse des achats, du loyer et des charges, de l'assurance automobile ou des cours particuliers pour votre fils, SeaTable vous permet de garder une vue d'ensemble de tous vos frais. Les [colonnes à sélection simple](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) vous permettent de **classer**, **filtrer** et **regrouper** vos dépenses de manière individuelle. Pour un ordre chronologique dans votre livre de comptes, il vous suffit de **trier** vos dépenses par [date](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/). Deux autres tableaux vous permettent de lister vos **revenus** mensuels et de calculer votre **budget** excédentaire.
 
-Si vous souhaitez utiliser le modèle pour votre livre de comptes, [il vous suffit de vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) dans SeaTable. Vous pourrez ensuite importer le [modèle]({{< relref "templates/finance/budget-book" >}}) dans votre espace de travail et l'adapter de manière flexible à vos besoins.
+Si vous souhaitez utiliser le modèle pour votre livre de comptes, [il vous suffit de vous inscrire gratuitement]({{< relref "pages/registration" >}}) dans SeaTable. Vous pourrez ensuite importer le [modèle]({{< relref "templates/finance/budget-book" >}}) dans votre espace de travail et l'adapter de manière flexible à vos besoins.
 
 ## 12 conseils pour économiser de l'argent
 
@@ -90,7 +90,7 @@ Vos enfants ont déménagé, vous avez vendu votre voiture ou vous utilisez à p
 
 {{< warning headline="Attention" text="Si vous n'êtes pas propriétaire de votre logement, votre bailleur doit donner son accord pour une sous-location." />}}
 
-Il en va de même si un **garage**, une **place de parking** ou une **cave**, dont vous n'avez pas besoin, fait partie de votre logement. La [location de biens immobiliers](https://seatable.io/fr/hausverwaltung/) peut, à long terme, faire entrer dans vos caisses toutes sortes de revenus qui réjouiront votre comptabilité budgétaire.
+Il en va de même si un **garage**, une **place de parking** ou une **cave**, dont vous n'avez pas besoin, fait partie de votre logement. La [location de biens immobiliers]({{< relref "posts/hausverwaltung" >}}) peut, à long terme, faire entrer dans vos caisses toutes sortes de revenus qui réjouiront votre comptabilité budgétaire.
 
 ### 6\. utiliser les transports en commun, le covoiturage et l'auto-partage
 
@@ -140,12 +140,12 @@ Veillez plutôt à avoir une alimentation équilibrée, à faire suffisamment d'
 
 ### 12\. en finir avec les vices coûteux
 
-Les mauvaises habitudes comme la consommation régulière d'**alcool, de cigarettes ou de café** coûtent rapidement plus de 100 euros par mois. Il existe pourtant quelques méthodes qui vous permettront de [changer](https://seatable.io/fr/habit-tracker-gewohnheiten-aendern/) vos [habitudes](https://seatable.io/fr/habit-tracker-gewohnheiten-aendern/) à long terme. Avec de la volonté et le soutien de vos amis et de votre famille, vous parviendrez peut-être à vous débarrasser de vices coûteux, sans lesquels vous vivriez plus sainement et économiseriez beaucoup d'argent à long terme.
+Les mauvaises habitudes comme la consommation régulière d'**alcool, de cigarettes ou de café** coûtent rapidement plus de 100 euros par mois. Il existe pourtant quelques méthodes qui vous permettront de [changer]({{< relref "posts/habit-tracker" >}}) vos [habitudes]({{< relref "posts/habit-tracker" >}}) à long terme. Avec de la volonté et le soutien de vos amis et de votre famille, vous parviendrez peut-être à vous débarrasser de vices coûteux, sans lesquels vous vivriez plus sainement et économiseriez beaucoup d'argent à long terme.
 
 En même temps, vous pouvez établir des habitudes positives : Par exemple, il est bon pour la santé de boire de l'eau plutôt que des **boissons énergétiques** coûteuses. Votre compte en banque se réjouira, surtout si vous renoncez à l'eau en bouteille au profit de l'**eau du robinet**.
 
 ## Avec SeaTable, créez votre livre de comptes parfait
 
-Comme vous pouvez le constater : Surveiller vos dépenses et votre train de vie n'a que des avantages. Avec un livre de comptes, vous restez toujours maître de la situation et vous savez exactement où est passé votre argent. SeaTable s'adapte à vos besoins. Si vous utilisiez Excel pour votre livre de comptes, vous pouvez facilement importer vos tableaux dans SeaTable. Vous pouvez [vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) et essayer SeaTable !
+Comme vous pouvez le constater : Surveiller vos dépenses et votre train de vie n'a que des avantages. Avec un livre de comptes, vous restez toujours maître de la situation et vous savez exactement où est passé votre argent. SeaTable s'adapte à vos besoins. Si vous utilisiez Excel pour votre livre de comptes, vous pouvez facilement importer vos tableaux dans SeaTable. Vous pouvez [vous inscrire gratuitement]({{< relref "pages/registration" >}}) et essayer SeaTable !
 
 Si vous souhaitez utiliser notre modèle, jetez un coup d'œil à notre section Template [Finance](https://seatable.io/fr/modeles/finanzen/). Il existe encore bien d'autres cas d'application où SeaTable peut vous faciliter la vie au quotidien.

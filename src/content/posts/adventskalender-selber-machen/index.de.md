@@ -154,7 +154,7 @@ Sind die Päckchen leicht, können Sie diese zum Beispiel mit einer Schnur oder 
 
 ## 5\. Alles Benötigte einkaufen
 
-Es gibt viel zu besorgen und wenig Zeit. Damit Sie alles, was Sie brauchen, auch kriegen, ist es sinnvoll eine [Einkaufsliste](https://seatable.io/einkaufsliste/) zu erstellen. Recherchieren Sie früh genug, wo Sie was bekommen können. Besonders wenn Sie viel selbst basteln, sollten Sie nicht nur an das Material, sondern auch an die Werkzeuge denken.
+Es gibt viel zu besorgen und wenig Zeit. Damit Sie alles, was Sie brauchen, auch kriegen, ist es sinnvoll eine [Einkaufsliste]({{< relref "posts/einkaufsliste" >}}) zu erstellen. Recherchieren Sie früh genug, wo Sie was bekommen können. Besonders wenn Sie viel selbst basteln, sollten Sie nicht nur an das Material, sondern auch an die Werkzeuge denken.
 
 ### Online planen, mit was Sie Ihre Adventskalender befüllen
 
@@ -168,6 +168,6 @@ Nachhaltig und zugleich kreativ ist ein **digitaler Adventskalender**. Möchten 
 
 Zur Erstellung Ihres virtuellen Adventskalenders können Sie SeaTable nutzen. Designen Sie für jeden Tag ein Türchen, legen Sie mithilfe einer App eine Galerie an und stellen Sie Ihre liebevoll ausgewählten Inhalte ganz einfach per Link zur Verfügung.
 
-![Private Advent Calendar](images/Private-Advent-Calendar.png)
+![Private Advent Calendar](Private-Advent-Calendar.png)
 
 Wenn Sie SeaTable nutzen möchten, um analoge und/oder digitale Adventskalender zu erstellen, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos mit Ihrer E-Mail-Adresse. Die ebenfalls kostenlose Vorlage finden Sie [hier]({{< relref "templates/events/advent-calendar" >}}).

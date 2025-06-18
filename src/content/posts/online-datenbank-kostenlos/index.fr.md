@@ -20,7 +20,7 @@ Il existe également des bases de données clients pour enregistrer les intérê
 
 ## Quels sont les avantages des bases de données en ligne par rapport aux bases de données traditionnelles ?
 
-Les bases de données en ligne sont soit disponibles gratuitement, soit payées mensuellement. Vous ne payez que ce que vous avez utilisé comme capacité de stockage. De plus, vous n'avez pas besoin d'acheter votre propre matériel et vous [économisez des frais](https://seatable.io/fr/budgetplanung-vorlage/) d'installation.
+Les bases de données en ligne sont soit disponibles gratuitement, soit payées mensuellement. Vous ne payez que ce que vous avez utilisé comme capacité de stockage. De plus, vous n'avez pas besoin d'acheter votre propre matériel et vous [économisez des frais]({{< relref "templates/finance/budget-book" >}}) d'installation.
 
 Un autre avantage est que vous achetez un service. Les fournisseurs ont généralement leur propre département informatique. Vous déchargez ainsi votre propre personnel. Personne pour créer et utiliser la base de données n'a besoin de connaissances approfondies en programmation. La saisie des données peut également se faire par importation ou par formulaire web.
 
@@ -109,6 +109,6 @@ Enfin, vous avez la possibilité d'utiliser gratuitement la base de données en 
 
 Soit vous mettez la main à la pâte et programmez vous-même, soit vous choisissez une solution qui peut être utilisée sans connaissances en programmation. Des programmes comme SeaTable permettent aux entreprises et aux particuliers sans service informatique de stocker, de gérer et d'analyser leurs données dans une base de données relationnelle.
 
-Testez deux ou trois solutions pour trouver celle qui convient le mieux à votre [projet]({{< relref "templates/projects/project-plan" >}}). [Commencez par vous abonner gratuitement à SeaTable ici](https://seatable.io/fr/enregistrement/).
+Testez deux ou trois solutions pour trouver celle qui convient le mieux à votre [projet]({{< relref "templates/projects/project-plan" >}}). [Commencez par vous abonner gratuitement à SeaTable ici]({{< relref "pages/registration" >}}).
 
 Source de l'image de couverture : © monsitj/Adobe Stock

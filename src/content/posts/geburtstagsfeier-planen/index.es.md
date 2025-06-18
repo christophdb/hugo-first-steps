@@ -24,7 +24,7 @@ Antes de empezar a planificar los detalles de tu fiesta, primero tienes que enco
 
 Si está planeando una fiesta de **cumpleaños infantil**, una tarde entre semana es igualmente adecuada para la fiesta. Si el cumpleañero y la mayoría de los invitados son adultos, la fiesta puede celebrarse por la tarde y prolongarse hasta la noche. A la hora de elegir una fecha adecuada, ten en cuenta también los días festivos y comprueba con antelación la disponibilidad de tus amigos y familiares más cercanos.
 
-![Planificar una fiesta de cumpleaños infantil](images/pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
+![Planificar una fiesta de cumpleaños infantil](pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
 
 ## Crea una lista de invitados para tu fiesta de cumpleaños
 
@@ -94,7 +94,7 @@ Especialmente para las fiestas más grandes, le ahorrará mucho tiempo y estrés
 - Pizza y pasta
 - Tartas y postres
 
-![Buffet para una fiesta de cumpleaños](images/brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
+![Buffet para una fiesta de cumpleaños](brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
 
 ### Pide ayuda a tus invitados
 

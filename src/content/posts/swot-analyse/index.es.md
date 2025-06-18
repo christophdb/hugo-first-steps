@@ -78,7 +78,7 @@ Al examinar los factores externos en un ejemplo de análisis DAFO, debe tener en
 
 También debería elegir una [plantilla de análisis DAFO]({{< relref "templates/operations/swot-analysis" >}}) para facilitarle el trabajo. El análisis comienza con la elección de la herramienta adecuada, y también debes pensar en reunir al equipo adecuado.
 
-El proceso de [inventario](https://seatable.io/es/inventarliste-vorlagen/) requiere mucho tiempo. ¿A quién puede liberar para las reuniones y talleres? También se necesitan expertos de varios departamentos. **¿Qué colegas tienen una visión de los puntos fuertes, los puntos débiles, las oportunidades y los riesgos de su empresa y su entorno empresarial?** Lo ideal sería formar un equipo de diez empleados.
+El proceso de [inventario]({{< relref "posts/inventarliste-erstellen" >}}) requiere mucho tiempo. ¿A quién puede liberar para las reuniones y talleres? También se necesitan expertos de varios departamentos. **¿Qué colegas tienen una visión de los puntos fuertes, los puntos débiles, las oportunidades y los riesgos de su empresa y su entorno empresarial?** Lo ideal sería formar un equipo de diez empleados.
 
 ![Un equipo habla de un nuevo ejemplo de análisis DAFO.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
 

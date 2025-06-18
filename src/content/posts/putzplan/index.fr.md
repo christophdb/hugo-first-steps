@@ -75,6 +75,6 @@ Veillez toutefois à ne pas vous laisser trop distraire - le nettoyage doit touj
 
 Il y a beaucoup à planifier lors des tâches ménagères, surtout si vous souhaitez impliquer plusieurs personnes dans les tâches. Pour ne pas perdre la vue d'ensemble, l'équipe de SeaTable a créé un modèle de plan de nettoyage. Vous pouvez l'adapter à vos besoins comme bon vous semble. En attribuant clairement les tâches à un responsable, vous pouvez par exemple voir d'un coup d'œil quelles tâches vous et vos colocataires devez effectuer et si elles sont réparties équitablement.
 
-![Créez un plan de nettoyage personnalisé dans SeaTable.](images/Putzplan.png)
+![Créez un plan de nettoyage personnalisé dans SeaTable.](Putzplan.png)
 
-Si vous souhaitez utiliser SeaTable pour créer votre plan de nettoyage personnalisé, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/everyday-life/cleaning-plan" >}}).
+Si vous souhaitez utiliser SeaTable pour créer votre plan de nettoyage personnalisé, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/everyday-life/cleaning-plan" >}}).

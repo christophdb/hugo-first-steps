@@ -129,7 +129,7 @@ In der folgenden Tabelle sehen Sie eine Grundstruktur, die Sie beliebig an Ihre 
 - Persona (für wen der Artikel relevant ist)
 - Content-Idee (woher die Idee kam)
 
-![Content Marketing Strategie](images/content-marketing-strategie-seatable.png)
+![Content Marketing Strategie](content-marketing-strategie-seatable.png)
 
 Diese Tabelle unseres [Content Marketing Strategy Templates]({{< relref "templates/marketing/content-marketing-strategy" >}}) wirkt zwar auf den ersten Blick ziemlich umfangreich, ist aber für eine durchschnittliche Content Pipeline das Minimum, um die notwendige Übersicht zu behalten. Gewöhnen Sie sich vom ersten Tag an diese Daten zu erfassen und Sie werden keine Probleme haben, zu jedem Zeitpunkt den Überblick zu behalten.
 

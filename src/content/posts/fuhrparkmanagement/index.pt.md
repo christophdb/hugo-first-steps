@@ -13,7 +13,7 @@ Quer se trate de camiões, autocarros ou automóveis clássicos da empresa: a ge
 
 ## O que é uma frota de veículos?
 
-A **frota** de **veículos** da sua empresa inclui todos os veículos do seu [inventário](https://seatable.io/pt/inventarliste-vorlagen/). Trata-se, na maior parte dos casos, de veículos clássicos **da empresa**. No entanto, também pode incluir veículos especializados: Autocarros e comboios, camiões, veículos de estaleiro, empilhadores, tractores ou outros veículos.
+A **frota** de **veículos** da sua empresa inclui todos os veículos do seu [inventário]({{< relref "posts/inventarliste-erstellen" >}}). Trata-se, na maior parte dos casos, de veículos clássicos **da empresa**. No entanto, também pode incluir veículos especializados: Autocarros e comboios, camiões, veículos de estaleiro, empilhadores, tractores ou outros veículos.
 
 ![Gestão de frotas](fuhrparkmanagement-mit-seatable.jpg)
 

@@ -14,9 +14,9 @@ Whether trucks, buses or classic company cars: managing a fleet of vehicles is a
 
 ## What is a vehicle fleet?
 
-Your company's **vehicle** **fleet** includes all vehicles in your [inventory](https://seatable.io/en/inventarliste-vorlagen/). These are most frequently classic **company cars**. However, it can also include special vehicles: Buses and trains, trucks, construction site vehicles, forklifts, tractors or other vehicles.
+Your company's **vehicle** **fleet** includes all vehicles in your [inventory]({{< relref "posts/inventarliste-erstellen" >}}). These are most frequently classic **company cars**. However, it can also include special vehicles: Buses and trains, trucks, construction site vehicles, forklifts, tractors or other vehicles.
 
-![Fleet management](images/fuhrparkmanagement-mit-seatable.jpg)
+![Fleet management](fuhrparkmanagement-mit-seatable.jpg)
 
 There are two types of vehicles in fleet management:
 
@@ -35,7 +35,7 @@ How much effort is required for your fleet management depends entirely on **how 
 
 The purpose of fleet management (both public and private sector) is to make all processes involving vehicles as efficient and cost-effective as possible. This applies to **acquisition costs**, **operating costs**, but also **maintenance and repairs**. Another important task is the smooth and uncomplicated **allocation and reservation** of vehicles. You can use digital booking systems, for example, to facilitate the handover and document it seamlessly.
 
-![Car keys for vehicle handover](images/Anrita1705-automobile-7600895_1280.jpg)
+![Car keys for vehicle handover](Anrita1705-automobile-7600895_1280.jpg)
 
 ### What is part of fleet management?
 
@@ -52,7 +52,7 @@ Let's now take a detailed look at various aspects and fleet management tips.
 
 **How many vehicles** does your company need? With fleet management, you ensure that a sufficient number of vehicles are always available in the right place when they are needed. Good indicators for this can be how many **employees** you employ **who are entitled to use company cars** or how many commercial vehicles need to be in use at the same time to fulfill certain orders.
 
-![Vehicle fleet](images/Fahrzeugflotte.jpg)
+![Vehicle fleet](Fahrzeugflotte.jpg)
 
 The **image** you want to project is also important in fleet management. Luxury cars, for example for the management, may symbolize a certain status to the outside world, but can come across as arrogant to your own employees and customers. In most cases, the size of the vehicles also goes hand in hand with high **fuel consumption**: using smaller vehicles instead of gas-guzzlers in your fleet is therefore both a financial and a strategic aspect in view of the mobility transition.
 
@@ -64,7 +64,7 @@ When purchasing a vehicle, you should of course think about financing. There is 
 
 The **administrative burden** is usually lower with leasing, as many car rental companies offer tailor-made services in their contracts and take care of certain fleet management tasks that you would otherwise have to do yourself. Depending on the situation, leasing can therefore be cheaper than buying with credit financing, for example.
 
-![Financing a vehicle fleet](images/Fuhrpark-finanzieren.jpg)
+![Financing a vehicle fleet](Fuhrpark-finanzieren.jpg)
 
 **Insurance** also comes with high running costs in fleet management. However, you do not have to insure each of your vehicles individually. If you have three or more company vehicles, you can benefit from group contracts for car insurance, which can reduce costs and administrative work.
 
@@ -82,7 +82,7 @@ Furthermore, you must check the driver's licenses twice a year to ensure that th
 
 You have various options to choose from for managing your vehicle fleet. The software solution should meet several requirements: Firstly, it should be **flexible** and therefore applicable to your individual scenarios. It should also be able to record different types of information (e.g. files, images and GPS data) while remaining easy **to use**.
 
-![Fleet management](images/marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
+![Fleet management](marcin-jozwiak-kGoPcmpPT7c-unsplash.jpg)
 
 The requirements for such software vary depending on the size of the company. Large companies such as transport companies or haulage firms can fall back on special **industry solutions**, but these are often expensive. Smaller companies with a manageable fleet, however, do not have to go to the expense of an expensive fleet management system.
 

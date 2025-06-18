@@ -32,7 +32,7 @@ A SeaTable oferece actualmente uma apresentação tabular dos resultados. No fut
 
 SeaTable tem apoiado o agrupamento de dados desde a versão 1.0. Com a versão actual, esta função popular sofre uma melhoria maciça: No SeaTable 2.2, os dados podem ser agrupados por um máximo de três colunas. Os grupos do segundo e terceiro níveis são exibidos como subgrupos do nível dos pais. Evidentemente, os valores agregados das colunas, tais como soma ou média, são também automaticamente calculados e exibidos para estes subgrupos. Especialmente em combinação com filtros e triagem, o agrupamento torna-se assim uma ferramenta de análise ainda mais poderosa.
 
-![Colunas em cascata e grupos aninhados](images/Cascading-columns.png)
+![Colunas em cascata e grupos aninhados](Cascading-columns.png)
 
 Outra pequena melhoria em termos de grupos: Ao exportar uma vista para o Excel, os grupos são também exportados. Nas versões anteriores, a função de exportação não levava em conta os grupos.
 
@@ -51,7 +51,7 @@ No SeaTable 2.1, foram introduzidas as permissões de tabela. Na versão 2.2 sã
 - Editar linhas e
 - linhas são autorizadas a ver.
 
-![Permissões de tabelas avançadas](images/Advanced-table-permissions.png)
+![Permissões de tabelas avançadas](Advanced-table-permissions.png)
 
 As permissões podem ser definidas independentemente e cada permissão pode ser restrita a ninguém, administradores e utilizadores específicos.
 

@@ -11,7 +11,7 @@ seo:
 
 Tanto si estás creando un vídeo de imagen para tu empresa, un cortometraje para un festival de cine o la próxima superproducción de Hollywood, la creación de un guión **gráfico** puede marcar la diferencia. Un guión gráfico no es sólo una herramienta para estructurar tus **ideas creativas**, sino también para garantizar un **proceso de producción fluido**. En este artículo se explican la importancia y las ventajas de los guiones gráficos para proyectos cinematográficos de todo tipo y se presenta una plantilla de guión gráfico gratuita que le ayudará a dar vida a su visión.
 
-![El director señala con el dedo el guión gráfico](images/dix-sept-xEKgWKmUk5A-unsplash-711x463.jpg)
+![El director señala con el dedo el guión gráfico](dix-sept-xEKgWKmUk5A-unsplash-711x463.jpg)
 
 Antes de rodar una película, hay que planificarla bien.
 
@@ -21,7 +21,7 @@ Un storyboard es la **representación gráfica** o **boceto** de una historia. S
 
 Los estilos de dibujo pueden variar considerablemente. Algunos dibujantes de storyboards crean ilustraciones extremadamente elaboradas, mientras que otros prefieren limitarse a simples dibujos de figuras de palo.
 
-![Guión gráfico dibujado a mano](images/dix-sept-idiRDLFPH6A-unsplash-711x936.jpg)
+![Guión gráfico dibujado a mano](dix-sept-idiRDLFPH6A-unsplash-711x936.jpg)
 
 Ejemplo de representación visual de un guión gráfico
 
@@ -40,7 +40,7 @@ Un guión gráfico tiene la importante ventaja de que visualiza **secuencias de 
 
 Mientras perfeccionas tu historia y añades más detalles durante el proceso de planificación, puedes utilizar el guión gráfico para **reconocer errores en una** fase temprana. Esto te ahorrará mucho esfuerzo durante el **rodaje** y la **edición del vídeo**. Determina de antemano tantos detalles como sea posible, como el ritmo de la historia, para tener la cabeza despejada para lo esencial durante los agotadores días de rodaje.
 
-![Planificación visual de una película](images/matt-popovich-pJwWrP-OIfk-unsplash-711x457.jpg)
+![Planificación visual de una película](matt-popovich-pJwWrP-OIfk-unsplash-711x457.jpg)
 
 ## El proceso de rodaje
 
@@ -56,7 +56,7 @@ Sólo se debe empezar a **rodar** una vez que se hayan ultimado el guión y el g
 
 Una vez finalizada la filmación, el siguiente paso es la transición a la **edición de vídeo**. Una vez visionado, seleccionado y editado el material, puedes obtener una primera **reacción** de tu entorno. De este modo, podrá comprobar si su película es comprensible y tangible para los de fuera. A partir de ahí, puedes utilizar los comentarios para **finalizar** la película.
 
-![Rodar una película en 8 pasos](images/Film-drehen-in-8-Schritten-711x1264.png)
+![Rodar una película en 8 pasos](Film-drehen-in-8-Schritten-711x1264.png)
 
 El guión gráfico forma parte de la fase de planificación; el rodaje sólo tiene lugar después.
 
@@ -68,7 +68,7 @@ Al crear tu guión gráfico, asegúrate también de **numerar** las **secciones*
 
 Esto cubre los puntos más importantes. Sin embargo, también puede añadir otra información que considere necesaria, como **las funciones** implicadas, el **atrezzo** o las **instrucciones de** edición.
 
-![Dibujos de figuras de palo en estilo cómic](images/nasim-keshmiri-bNjYwZrkJ3A-unsplash-711x474.jpg)
+![Dibujos de figuras de palo en estilo cómic](nasim-keshmiri-bNjYwZrkJ3A-unsplash-711x474.jpg)
 
 No hace falta ser un gran artista para crear un buen guión gráfico.
 

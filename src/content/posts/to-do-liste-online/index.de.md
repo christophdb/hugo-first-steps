@@ -66,7 +66,7 @@ Eine Verknüpfung mit Ihrem Kalender, einem Sprachassistenten auf dem Smartphone
 
 ### Microsoft To Do: Die vielseitige App für Ihre To-do-Liste
 
-Mit [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/) erhalten Sie sowohl einen Tagesplaner als auch ein Tool für Aufgaben- und [Einkaufslisten](https://seatable.io/einkaufsliste/). Sie können Aufgaben aus Outlook einbinden und von allen Endgeräten synchron an einer Liste arbeiten.
+Mit [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/) erhalten Sie sowohl einen Tagesplaner als auch ein Tool für Aufgaben- und [Einkaufslisten]({{< relref "posts/einkaufsliste" >}}). Sie können Aufgaben aus Outlook einbinden und von allen Endgeräten synchron an einer Liste arbeiten.
 
 Die einzelnen To-dos können Sie sortieren, mit einer Frist versehen und abhaken. Erinnerungen und sich wiederholende Aufgaben sind ebenfalls möglich. Über den Listenmodus hinaus gibt es allerdings keine erweiterten Optionen zur Visualisierung, dafür benötigen Sie dann den Planner.
 
@@ -102,7 +102,11 @@ Im Vergleich aller betrachteten Apps hat SeaTable den mit Abstand **größten Fu
 
 Bei SeaTable können Sie mit der [kostenfreien Version]({{< relref "pages/registration" >}}) und dem [interaktiven Template]({{< relref "templates/projects/to-do-list" >}}) sofort beginnen. Weitere Features sind in der Plus-Version für 7 € pro User und Monat, der Enterprise-Version für 14 € pro User und Monat oder einer dedizierten Cloud-Lösung erhältlich.
 
-{{< warning headline="DSGVO und Datenhoheit" text="Die Server der SeaTable Cloud befinden sich in Deutschland, sodass sich die Plattform auch für die DSGVO-konforme Arbeit mit sensiblen, personenbezogenen Daten eignet. Zudem haben Sie die Möglichkeit, [SeaTable On-Premises](https://seatable.io/on-premises/) auf Ihren eigenen Servern zu installieren." />}}
+{{< warning headline="DSGVO und Datenhoheit" >}}
+
+Die Server der SeaTable Cloud befinden sich in Deutschland, sodass sich die Plattform auch für die DSGVO-konforme Arbeit mit sensiblen, personenbezogenen Daten eignet. Zudem haben Sie die Möglichkeit, [SeaTable On-Premises]({{< relref "pages/product/seatable-server" >}}) auf Ihren eigenen Servern zu installieren.
+
+{{< /warning >}}
 
 ## Tipps für die erfolgreiche Umsetzung Ihrer To-do-Liste
 

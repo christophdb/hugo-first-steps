@@ -47,7 +47,7 @@ Si sólo quieres confeccionar un calendario de Adviento para determinadas person
 
 Una gran alternativa al clásico calendario de Adviento analógico es la versión digital. Puedes llenar el calendario de Adviento online de tu empresa con fotos, vídeos o citas navideñas y enviarlo a tus empleados y clientes a través de un enlace como regalo de Navidad.
 
-![Calendario de Adviento para empresas](images/Enterprise-Advent-Calendar.png)
+![Calendario de Adviento para empresas](Enterprise-Advent-Calendar.png)
 
 El equipo de SeaTable ha creado para usted [una plantilla]({{< relref "templates/events/advent-calendar" >}}) que podrá personalizar según sus necesidades. Dale un toque personal al calendario y espera con impaciencia las caras de asombro de tus empleados cuando descubran cada día una nueva sorpresa detrás de una de las puertecitas.
 
@@ -57,7 +57,7 @@ Si desea utilizar SeaTable para crear un calendario de Adviento en línea, sólo
 
 Compaginar el espíritu navideño con el trabajo es todo un reto. Al fin y al cabo, una visita al mercado navideño o una partida de patinaje sobre hielo son mucho más tentadoras que pasarse todo el día en la oficina. Ahora te toca a ti llevar el espíritu **navideño** a tu empresa.
 
-![Varios cuadernos con diseño de logotipo personalizado de Leuchtturm1917.](images/header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
+![Varios cuadernos con diseño de logotipo personalizado de Leuchtturm1917.](header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
 
 Cuadernos personalizados con logotipo en relieve de LEUCHTTURM1917.
 

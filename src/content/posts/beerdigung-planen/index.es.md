@@ -162,7 +162,7 @@ A menudo, los demás familiares están encantados de participar en la adquisici�
 
 El atuendo tradicional de luto difiere de una cultura a otra: en Europa y Occidente, el **negro** es el color del luto, en Asia es principalmente **blanco** y en otros lugares puede ser incluso colorido. Hoy en día, en Alemania, la vestimenta en los funerales ya no tiene por qué ser negra, sino que a menudo se esperan **prendas discretas** de colores apagados y cortes holgados: por ejemplo, un traje azul oscuro con camisa blanca, un jersey de color liso con pantalones negros o un vestido no demasiado ajustado y que no muestre demasiada piel.
 
-![Ropa funeraria para el funeral](images/the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
+![Ropa funeraria para el funeral](the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
 
 Sin embargo, el atuendo de luto no es obligatorio. Las ceremonias funerarias poco convencionales o alegres también están permitidas si el fallecido deseaba una celebración de él y de su vida en lugar de un **ambiente de luto**. Así que planifique el servicio funerario al margen de tradiciones y totalmente de acuerdo con los deseos del fallecido.
 
@@ -186,7 +186,7 @@ Si el funeral sólo va a celebrarse en el círculo más cercano, no escriba una 
 
 Con todo lo que hay que planificar para un funeral, es fácil perderlo todo de vista. Por ello, SeaTable ha recopilado para usted las tareas más importantes en una lista de comprobación. También puede utilizar el planificador en línea para coordinar la invitación de los invitados al funeral o calcular los costes del mismo.
 
-![Planificador en línea con resumen de costes para el funeral](images/Funeral-planner.png)
+![Planificador en línea con resumen de costes para el funeral](Funeral-planner.png)
 
 SeaTable Plantilla de resumen de costes funerarios
 

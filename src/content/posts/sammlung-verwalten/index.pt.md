@@ -26,11 +26,11 @@ Eine Möglichkeit ist zum Beispiel das Ranken von Gegenständen, wie es in einer
 
 ### Vergleiche, Recherchen und mehr
 
-Zusätzlich können Sie Sammlungen verwalten, um Ihre Sammlung zu analysieren. Über Programme und Apps lassen sich Vergleiche anstellen, sei es in Ihrer eigenen Sammlung oder in der Gegenüberstellung mit der eines Dritten. Zum Beispiel könnten Sie feststellen, welche Briefmarken oder Münzen eine andere Person hat, die Sie nicht besitzen. Mit den Informationen einer [Kunstsammlung](https://seatable.io/ausstellungs-und-kunstmanagement-museum-galerie/) lässt sich außerdem Recherche betreiben. Man weiß genau, welche weiteren Kunstgegenstände in die Sammlung passen könnten, und kann entsprechend recherchieren.
+Zusätzlich können Sie Sammlungen verwalten, um Ihre Sammlung zu analysieren. Über Programme und Apps lassen sich Vergleiche anstellen, sei es in Ihrer eigenen Sammlung oder in der Gegenüberstellung mit der eines Dritten. Zum Beispiel könnten Sie feststellen, welche Briefmarken oder Münzen eine andere Person hat, die Sie nicht besitzen. Mit den Informationen einer [Kunstsammlung]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}) lässt sich außerdem Recherche betreiben. Man weiß genau, welche weiteren Kunstgegenstände in die Sammlung passen könnten, und kann entsprechend recherchieren.
 
 ### Sammlungen verwalten für den Schadensfall
 
-Sammlungssoftware lohnt sich außerdem im Schadensfall. Ein Szenario: Sie verwalten eine Sammlung und möchten diese versichern. In dem Verwaltungsprogramm halten Sie fest, welche Gegenstände Sie besitzen. Es dient als eine Art [Inventarliste](https://seatable.io/inventarliste-vorlagen/). Von dieser ausgehend wissen Sie anschließend, für welchen Wert Sie die Sammlung versichern sollten.
+Sammlungssoftware lohnt sich außerdem im Schadensfall. Ein Szenario: Sie verwalten eine Sammlung und möchten diese versichern. In dem Verwaltungsprogramm halten Sie fest, welche Gegenstände Sie besitzen. Es dient als eine Art [Inventarliste]({{< relref "posts/inventarliste-erstellen" >}}). Von dieser ausgehend wissen Sie anschließend, für welchen Wert Sie die Sammlung versichern sollten.
 
 ### Lagerorte mit der Sammlungssoftware im Blick behalten
 

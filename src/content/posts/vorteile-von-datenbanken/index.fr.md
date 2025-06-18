@@ -89,7 +89,7 @@ Vous pouvez enregistrer les résultats de telles requêtes sous forme de **vue**
 
 Si, par le passé, vous deviez apprendre certains langages informatiques pour réaliser les requêtes de données susmentionnées, il existe aujourd'hui de nombreux systèmes de base de données, comme SeaTable, dotés d'une interface utilisateur graphique intuitive. Ceux-ci permettent même aux débutants d'utiliser immédiatement les bases de données afin d'améliorer votre flux de travail.
 
-![Avantages des bases de données comme SeaTable](images/Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
+![Avantages des bases de données comme SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
 Contrairement aux bases de données classiques, SeaTable possède une interface utilisateur graphique.
 
@@ -99,4 +99,4 @@ Les avantages des bases de données vous semblent évidents, mais l'idée de con
 
 Consultez de nombreux exemples d'utilisation de SeaTable dans notre [bibliothèque de modèles](https://seatable.io/fr/modeles/). Vous y trouverez des exemples dans les domaines du marketing, des ventes, de la gestion de projet, du développement de logiciels, des ressources humaines et bien plus encore. Nous avons même préparé pour vous une [introduction au produit en 7 parties](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) sur notre chaîne YouTube, dans laquelle nous vous guidons à travers tout le processus de création d'une base SeaTable.
 
-Profitez des avantages d'une base de données et dites adieu dès aujourd'hui aux tableaux compliqués ! Cliquez [ici](https://seatable.io/fr/enregistrement/) pour vous inscrire gratuitement !
+Profitez des avantages d'une base de données et dites adieu dès aujourd'hui aux tableaux compliqués ! Cliquez [ici]({{< relref "pages/registration" >}}) pour vous inscrire gratuitement !

@@ -78,7 +78,7 @@ Ao analisar os factores externos num exemplo de análise SWOT, deve ter em conta
 
 Deve também escolher um [modelo de análise SWOT]({{< relref "templates/operations/swot-analysis" >}}) para facilitar o seu trabalho. A análise começa com a escolha da ferramenta certa e deve também pensar em reunir a equipa certa.
 
-O processo [de balanço](https://seatable.io/pt/inventarliste-vorlagen/) é muito moroso. Quem pode ser destacado para as reuniões e seminários? São necessários conhecimentos especializados de vários departamentos. **Que colegas têm uma visão dos pontos fortes, pontos fracos, oportunidades e riscos da sua empresa e do seu ambiente de negócios?** O ideal seria reunir uma equipa de dez funcionários.
+O processo [de balanço]({{< relref "posts/inventarliste-erstellen" >}}) é muito moroso. Quem pode ser destacado para as reuniões e seminários? São necessários conhecimentos especializados de vários departamentos. **Que colegas têm uma visão dos pontos fortes, pontos fracos, oportunidades e riscos da sua empresa e do seu ambiente de negócios?** O ideal seria reunir uma equipa de dez funcionários.
 
 ![Uma equipe fala sobre um novo exemplo de análise SWOT.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
 

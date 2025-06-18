@@ -38,7 +38,7 @@ Para que uma empresa seja bem sucedida nas redes sociais a longo prazo, deve con
 
 Em 2023, um [inquérito online](https://de.statista.com/statistik/daten/studie/463928/umfrage/wichtigste-social-media-plattformen-fuer-marketingverantwortliche/) revelou qual a **plataforma** mais importante para os responsáveis pela gestão das redes sociais. De acordo com o inquérito, o Facebook está na liderança, seguido a alguma distância pelo Instagram e pelo LinkedIn.
 
-![Estatísticas sobre as empresas mais importantes na gestão das redes sociais.](images/Statistik-711x533.png)
+![Estatísticas sobre as empresas mais importantes na gestão das redes sociais.](Statistik-711x533.png)
 
 O Facebook está muito à frente em comparação com outras plataformas.
 
@@ -86,7 +86,7 @@ Se pretende construir uma presença digital de sucesso, **a análise dos** seus 
 
 Se ainda não se debruçou intensamente sobre este tópico da gestão das redes sociais, é aconselhável começar por uma **auditoria das redes sociais**. Esta revisão exaustiva da sua presença nas redes sociais inclui a análise de actividades anteriores, conteúdos, interacções e o **desempenho** dos seus canais. Dê especial ênfase aos **indicadores-chave de desempenho (KPI)**.
 
-![Indicadores-chave de desempenho no marketing das redes sociais.](images/KPIs-711x533.png)
+![Indicadores-chave de desempenho no marketing das redes sociais.](KPIs-711x533.png)
 
 Tem também a opção de efetuar uma **análise compara** tiva dos seus concorrentes. Ao comparar diretamente os valores específicos do sector, pode avaliar melhor o seu desempenho em relação à concorrência. Para além de identificar os seus próprios pontos fortes e fracos, pode também retirar **as melhores práticas** do sector.
 

@@ -20,7 +20,7 @@ Before you start actively looking for apartments, you should first think about t
 
 A decisive criterion for many is the **rent**. The 30% rule states that the rent should ideally not be more expensive than 30% of your net income. However, you should remain realistic and not set too many exclusion criteria. After all, the supply of apartments is limited and in most cases the search for the perfect apartment is like looking for a needle in a haystack.
 
-![What tenants should determine before looking for an apartment](images/Wohnungssuche-Kriterien-711x889.png)
+![What tenants should determine before looking for an apartment](Wohnungssuche-Kriterien-711x889.png)
 
 Checklist for the perfect apartment search.
 
@@ -37,7 +37,7 @@ The rent index continues to rise, making it difficult for many people to find af
 - The **certificate of eligibility for housing** confirms that the tenant is entitled to move into an apartment subsidized by public funds. To obtain the certificate, however, the tenant must meet certain criteria. For example, they must not exceed a set income limit. Your local authority will clarify whether you are entitled to this.
 - **Housing benefit** is a rent subsidy for households with a low income. The Federal Ministry of Housing, Urban Development and Building offers an online housing [benefit calculator](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/wohnen/wohnraumfoerderung/wohngeld/wohngeldrechner-2023-artikel.html;jsessionid=6DD0480874498C458F1FA626537143D2.live861) which you can use to check whether you are eligible. You can also apply for housing benefit from your local authority.
 
-![Sunrise over skyscrapers](images/Bild-von-Freepik_9328139-711x711.jpg)
+![Sunrise over skyscrapers](Bild-von-Freepik_9328139-711x711.jpg)
 
 People who can no longer afford the rents in their city have a right to social housing.
 
@@ -45,7 +45,7 @@ People who can no longer afford the rents in their city have a right to social h
 
 There are several everyday methods for finding apartments. For example, some landlords advertise in **local newspapers** or **post notices** around town. So it's worth keeping your eyes open. **Friends** or **acquaintances** may also know who is looking for tenants or where an apartment is currently available.
 
-If this is too time-consuming, you can also turn to more official agencies. Tenants can also use **estate agents** to find accommodation, but they charge a commission. According to the law, the estate agent's commission may not exceed two net cold rents plus VAT. Another option is to contact **property management companies** directly. They often have an [overview](https://seatable.io/en/hausverwaltung/) and can arrange apartments that will soon become available.
+If this is too time-consuming, you can also turn to more official agencies. Tenants can also use **estate agents** to find accommodation, but they charge a commission. According to the law, the estate agent's commission may not exceed two net cold rents plus VAT. Another option is to contact **property management companies** directly. They often have an [overview]({{< relref "posts/hausverwaltung" >}}) and can arrange apartments that will soon become available.
 
 {{< warning headline="Tip" text="In the event of a rejection, it is worth asking the landlord whether there is a **list of interested parties**. Especially if they own several rental units, they can contact you as soon as another apartment becomes available." />}}
 
@@ -55,7 +55,7 @@ In the digital age, the first impulse when looking for a home is to browse **onl
 
 Perhaps you spend a lot of time on **social media** anyway - so why not take advantage of the swarm intelligence on Facebook, Instagram and the like? You can announce your search for an apartment in your status, ask people to share it and then browse through groups that have been created specifically for apartment hunting.
 
-![Magnifying glass over apartment ads](images/Bild-von-Freepik_4344249-711x474.jpg)
+![Magnifying glass over apartment ads](Bild-von-Freepik_4344249-711x474.jpg)
 
 The search for an apartment is often difficult.
 
@@ -75,7 +75,7 @@ For this purpose, there are **exchange agencies** specializing in real estate, b
 
 When it finally comes to viewing the apartment, there are a few points to consider in order to determine whether the apartment is really suitable. Ideally, schedule the viewing appointment at a time when there is still enough **daylight** in the apartment so that you can put it through its paces. However, the most important criterion is whether you feel comfortable in the **neighborhood** and in the apartment.
 
-![Tips for apartment viewings](images/Wohnungssuche-Besichtigungen-1-711x889.png)
+![Tips for apartment viewings](Wohnungssuche-Besichtigungen-1-711x889.png)
 
 Helpful tips for apartment viewings.
 

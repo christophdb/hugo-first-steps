@@ -164,7 +164,7 @@ Oftmals beteiligen sich die anderen Angehörigen sehr gerne an der Beschaffung v
 
 Die traditionelle Trauerkleidung unterscheidet sich von Kultur zu Kultur: In Europa und der westlichen Welt ist **Schwarz**, in Asien vor allem **Weiß** die Farbe der Trauer – und anderswo darf es sogar farbenfroh zugehen. In Deutschland muss die Kleidung bei einer Beerdigung heute nicht mehr schwarz sein, oft wird aber **dezente Kleidung** in gedeckten Farben und weiten Schnitten erwartet – zum Beispiel ein dunkelblauer Anzug mit weißem Hemd, ein einfarbiger Pullover mit schwarzer Hose oder ein Kleid, das nicht zu eng anliegt und nicht zu viel Haut zeigt.
 
-![Trauerkleidung für die Beerdigung](images/the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
+![Trauerkleidung für die Beerdigung](the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
 
 Trauerkleidung ist aber kein Muss. Auch unkonventionelle oder heitere Trauerfeiern sind erlaubt, wenn sich der Verstorbene statt **Trauerstimmung** gewünscht hat, dass man ihn und sein Leben feiert. Planen Sie die Trauerfeier also losgelöst von Traditionen und ganz nach den Wünschen des Verstorbenen.
 
@@ -188,7 +188,7 @@ Falls die Trauerfeier nur im engsten Kreis stattfinden soll, schreiben Sie keine
 
 Bei allem, was man für eine Beerdigung planen muss, kann man leicht den Überblick verlieren. SeaTable hat Ihnen daher die wichtigsten To-dos in einer Checkliste zusammengestellt. Sie können den Online-Planer ebenso nutzen, um die Einladung der Trauergäste zu koordinieren oder die Kosten für die Beerdigung zu berechnen.
 
-![Online-Planer mit Kostenübersicht für die Beerdigung](images/Funeral-planner.png)
+![Online-Planer mit Kostenübersicht für die Beerdigung](Funeral-planner.png)
 
 SeaTable Vorlage mit Kostenübersicht für die Beerdigung
 

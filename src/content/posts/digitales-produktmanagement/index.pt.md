@@ -32,7 +32,7 @@ Por outro lado, existem também outras características do produto que não se d
 
 Para criar uma melhor visão geral dentro do catálogo, utilizamos a [função de agrupamento](https://seatable.io/pt/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) múltiplo do SeaTable. Isto permite-lhe organizar e estruturar os seus dados como desejar: Por exemplo, por série e gama de qualidade, ou como no nosso modelo, por série de produto e tipo de produto.
 
-![Catálogo de produtos para gestão digital de produtos](images/Catalogue_Overview.png)
+![Catálogo de produtos para gestão digital de produtos](Catalogue_Overview.png)
 
 Um catálogo de produtos para apresentação externa
 
@@ -42,7 +42,7 @@ Precisa de mais do que uma simples visualização dos seus produtos? Não há pr
 
 Talvez saiba isto - está à procura de um produto e sabe como é, mas não como se chama? O nosso plugin de galeria é muito útil para isto. Apresenta todas as imagens que foram introduzidas na tabela seleccionada e forma um conjunto compacto de informações para a gestão do seu produto. Com informações adicionais tais como nome do produto, série e número de item, pode assim criar uma galeria de imagens detalhada que também contém importantes especificidades de produto.
 
-![Galeria de imagens de produtos para gestão de produtos digitais](images/Gallery-Plugin.png)
+![Galeria de imagens de produtos para gestão de produtos digitais](Gallery-Plugin.png)
 
 Com alguns cliques, criou uma galeria informativa.
 

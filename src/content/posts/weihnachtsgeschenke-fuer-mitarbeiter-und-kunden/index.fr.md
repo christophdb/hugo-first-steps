@@ -47,17 +47,17 @@ Si vous souhaitez composer un calendrier de l'Avent uniquement pour des personne
 
 Une belle alternative au calendrier de l'Avent analogique classique est une variante numérique. Vous pouvez remplir le calendrier de l'Avent en ligne de votre entreprise avec des images, des vidéos ou des citations de Noël, puis l'envoyer simplement par lien aux collaborateurs et aux clients comme cadeau de Noël.
 
-![Calendrier de l'Avent Enterprise](images/Enterprise-Advent-Calendar.png)
+![Calendrier de l'Avent Enterprise](Enterprise-Advent-Calendar.png)
 
 L'équipe de SeaTable a créé pour vous [un modèle]({{< relref "templates/events/advent-calendar" >}}) que vous pouvez adapter à vos besoins. Donnez une touche personnelle au calendrier et réjouissez-vous de voir les visages étonnés de vos collaborateurs lorsqu'ils découvrent chaque jour une nouvelle surprise derrière l'une des portes.
 
-Si vous souhaitez utiliser SeaTable pour créer un calendrier de l'Avent en ligne, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement et de personnaliser le modèle à votre guise. Dans le modèle, vous trouverez également 24 idées de cadeaux de Noël pour les employés et les clients.
+Si vous souhaitez utiliser SeaTable pour créer un calendrier de l'Avent en ligne, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement et de personnaliser le modèle à votre guise. Dans le modèle, vous trouverez également 24 idées de cadeaux de Noël pour les employés et les clients.
 
 ## 3\. cadeau en rapport avec l'entreprise
 
 Faire le lien entre l'esprit de Noël et le travail est un défi. Après tout, une visite au marché de Noël ou une partie de patin à glace sont bien plus tentantes que de passer toute la journée au bureau. Il ne tient qu'à vous de faire entrer l'**esprit de Noël** dans votre entreprise !
 
-![Différents carnets de notes avec un design de logo individuel de Leuchtturm1917.](images/header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
+![Différents carnets de notes avec un design de logo individuel de Leuchtturm1917.](header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
 
 Carnets de notes individuels avec logo en relief de LEUCHTTURM1917.
 
@@ -123,4 +123,4 @@ La période de Noël est stressante, c'est pourquoi une préparation réfléchie
 
 Vous cherchez d'autres idées de cadeaux de Noël pour vos collaborateurs et clients ? Vous trouverez de nombreuses idées intéressantes dans notre modèle de calendrier de l'Avent pour entreprises !
 
-Si vous souhaitez utiliser SeaTable pour planifier votre fête de Noël ou vos cadeaux de Noël pour vos employés et clients, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement et de personnaliser les modèles liés ci-dessus à votre guise.
+Si vous souhaitez utiliser SeaTable pour planifier votre fête de Noël ou vos cadeaux de Noël pour vos employés et clients, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement et de personnaliser les modèles liés ci-dessus à votre guise.

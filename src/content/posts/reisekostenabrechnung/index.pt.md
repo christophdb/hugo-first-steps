@@ -12,9 +12,9 @@ seo:
 
 A lei relativa ao imposto sobre o rendimento descreve três categorias de **despesas** que podem ser **reembolsadas** aos trabalhadores pelas suas empresas. Para além das encomendas feitas em nome da empresa e das despesas incorridas para cumprir uma encomenda, isto também se aplica às **viagens de negócios**. Quer se trate de uma viagem de negócios de vários dias, de uma reunião com um cliente distante ou de uma deslocação a uma feira comercial - as viagens de negócios fazem parte do quotidiano de muitos trabalhadores. No artigo que se segue, não só ficará a saber o que é um **relatório de despesas de viagem**, como também receberá dicas valiosas sobre como criar um.
 
-![Viagem de negócios: Mão na mala](images/guests-with-suitcases-hotel-reception-711x474.jpg)
+![Viagem de negócios: Mão na mala](guests-with-suitcases-hotel-reception-711x474.jpg)
 
-As empresas efectuam frequentemente uma [análise custo-benefício](https://seatable.io/pt/kosten-nutzen-analyse-vorlage/) das viagens de negócios para garantir que as despesas se justificam.
+As empresas efectuam frequentemente uma [análise custo-benefício]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) das viagens de negócios para garantir que as despesas se justificam.
 
 ## O que é um relatório de despesas de viagem
 
@@ -30,7 +30,7 @@ Para **empregadores** A contabilização correta das despesas de viagem é impor
 
 Também para **empregados** há vantagens em elaborar um relatório de despesas de viagem. Embora se possa declarar os custos de uma viagem de negócios como despesas relacionadas com o rendimento na **declaração de rendimentos**, isso apenas reduz o salário anual bruto. Por conseguinte, o reembolso das despesas pela entidade patronal é frequentemente a opção mais sensata do ponto de vista económico.
 
-![Relatório de despesas de viagem: Uma mulher está a tratar de papelada e a escrever numa calculadora.](images/entrepreneur-working-with-bills-711x474.jpg)
+![Relatório de despesas de viagem: Uma mulher está a tratar de papelada e a escrever numa calculadora.](entrepreneur-working-with-bills-711x474.jpg)
 
 Ao apresentar um pedido de reembolso de despesas, os trabalhadores registam as suas despesas e apresentam-nas para reembolso.
 
@@ -50,7 +50,7 @@ As despesas de alojamento incluem despesas como **estadias em hotéis** ou a **r
 
 Uma caraterística importante da faturação das despesas de alojamento é a **contribuição pessoal** para o pequeno-almoço e outras refeições. É frequentemente estabelecido um montante fixo para este efeito, geralmente 5,60 euros para o pequeno-almoço e 11,20 euros para a refeição da noite. Estes montantes são suportados pelo trabalhador e devem ser tidos em conta no relatório de despesas de deslocação.
 
-![Relatório de despesas de viagem: Um quarto de hotel em tons de terra.](images/pexels-pixabay-164595-711x474.jpg)
+![Relatório de despesas de viagem: Um quarto de hotel em tons de terra.](pexels-pixabay-164595-711x474.jpg)
 
 O hotel é frequentemente selecionado de acordo com o orçamento da empresa e as orientações aplicáveis às viagens de negócios.
 
@@ -80,7 +80,7 @@ Espaçador
 - Bilhetes para eventos profissionais
 - Roubo de bens profissionais
 
-![Relatório de despesas de viagem: uma estrada com portagem.](images/pexels-nandhukumar-16967276-711x443.jpg)
+![Relatório de despesas de viagem: uma estrada com portagem.](pexels-nandhukumar-16967276-711x443.jpg)
 
 As despesas acessórias de viagem incluem também as despesas de utilização de auto-estradas ou de outras estradas com portagem.
 

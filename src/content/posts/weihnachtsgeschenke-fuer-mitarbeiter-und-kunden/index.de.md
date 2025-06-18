@@ -48,7 +48,7 @@ Möchten Sie nur für ausgewählte Personen einen Adventskalender zusammenstelle
 
 Eine schöne Alternative zum klassischen analogen Adventskalender ist eine digitale Variante. Ihren unternehmenseigenen Online-Adventskalender können Sie mit Bildern, Videos oder Weihnachtszitaten befüllen und dann einfach per Link als Weihnachtsgeschenk an Mitarbeiter und Kunden verschicken.
 
-![Enterprise Advent Calendar](images/Enterprise-Advent-Calendar.png)
+![Enterprise Advent Calendar](Enterprise-Advent-Calendar.png)
 
 Das Team von SeaTable hat für Sie [eine Vorlage]({{< relref "templates/events/advent-calendar" >}}) erstellt, welche Sie nach Ihren Bedürfnissen anpassen können. Geben Sie dem Kalender eine persönliche Note und freuen Sie sich auf die erstaunten Gesichter Ihrer Mitarbeiter, wenn diese täglich eine neue Überraschung hinter einem der Türchen entdecken.
 
@@ -58,7 +58,7 @@ Wenn Sie SeaTable für die Erstellung eines Online-Adventskalenders nutzen möch
 
 Den Bogen zwischen Weihnachtsstimmung und Arbeit zu schlagen, ist eine Herausforderung. Schließlich ist ein Besuch auf dem Weihnachtsmarkt oder eine Runde Schlittschuhlaufen viel verlockender als den ganzen Tag im Büro zu verbringen. Es liegt nun an Ihnen, die **Weihnachtsstimmung** in Ihr Unternehmen zu bringen!
 
-![Verschiedene Notizbücher mit individuellem Logodesign von Leuchtturm1917.](images/header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
+![Verschiedene Notizbücher mit individuellem Logodesign von Leuchtturm1917.](header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
 
 Individuelle Notizbücher mit Logoprägung von LEUCHTTURM1917.
 

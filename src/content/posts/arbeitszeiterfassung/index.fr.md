@@ -53,7 +53,7 @@ Alors comment saisir le temps de travail des employés rapidement, facilement et
 
 Comme pour tout modèle SeaTable, il s'agit d'une **base de données** avec différents tableaux que vous pouvez adapter à vos propres besoins spécifiques. Dans le premier tableau, nous avons créé pour vous une vue d'administration globale dans laquelle sont intégrés tous les **horaires de travail**, **les demandes de congé** et **les arrêts maladie** de vos collaborateurs. En tant que responsable, vous avez une vue d'ensemble complète sur les présences et les absences de tous les collaborateurs de votre équipe.
 
-![Vue admin du tableau des heures de travail](images/Working-Time-Admin-View.gif)
+![Vue admin du tableau des heures de travail](Working-Time-Admin-View.gif)
 
 Vue admin du tableau des heures de travail
 
@@ -61,15 +61,15 @@ Grâce à des [vues](https://seatable.io/fr/docs/ansichtsoptionen/was-ist-die-id
 
 Pour que vos collaborateurs et vous-même puissiez contrôler à tout moment le respect des règles relatives au temps de travail, SeaTable calcule le nombre d'heures travaillées ainsi que les heures supplémentaires ou les heures en moins par rapport au temps de travail quotidien normal. Grâce au [marquage](https://seatable.io/fr/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) des lignes [en couleur](https://seatable.io/fr/docs/ansichtsoptionen/farbliche-markierung-von-zellen/), vous et les membres de votre équipe voyez directement si le solde d'heures d'un jour est négatif (rouge) ou positif (vert).
 
-Dans une application pour employés construite avec SeaTable, vous pouvez rendre la saisie des données intuitive et conviviale en demandant à vos employés de saisir les heures de travail, les demandes de congé et les congés maladie dans des [formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/). Vous pouvez ajouter des instructions concrètes aux champs de saisie afin de guider les personnes qui les remplissent à travers le processus. Un formulaire web rempli correspond à un jour ouvrable, à une demande de congé ou à un arrêt maladie.
+Dans une application pour employés construite avec SeaTable, vous pouvez rendre la saisie des données intuitive et conviviale en demandant à vos employés de saisir les heures de travail, les demandes de congé et les congés maladie dans des [formulaires web]({{< relref "help/base-editor/webformulare" >}}). Vous pouvez ajouter des instructions concrètes aux champs de saisie afin de guider les personnes qui les remplissent à travers le processus. Un formulaire web rempli correspond à un jour ouvrable, à une demande de congé ou à un arrêt maladie.
 
-![Application pour les collaborateurs pour la saisie des temps, les demandes de congé et les déclarations de maladie](images/Mitarbeiter-App.gif)
+![Application pour les collaborateurs pour la saisie des temps, les demandes de congé et les déclarations de maladie](Mitarbeiter-App.gif)
 
 Application pour les employés pour les horaires de travail, les demandes de congé et les congés maladie
 
 Lorsque vos employés envoient les formulaires, SeaTable ajoute de nouvelles entrées dans les tableaux correspondants, que vous pouvez ensuite, en tant que responsable, valider ou rejeter dans l'application de gestion. Sur votre tableau de bord, vous pouvez intégrer des statistiques qui vous permettent de garder un œil sur toutes les heures supplémentaires, les congés et les arrêts maladie de vos collaborateurs. Le [calendrier](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/) permet en outre de présenter les données sous forme d'aperçu calendaire.
 
-![Application de gestion pour la saisie des temps, les demandes de congé et les congés maladie](images/Dashboard_4MB.gif)
+![Application de gestion pour la saisie des temps, les demandes de congé et les congés maladie](Dashboard_4MB.gif)
 
 Application de gestion avec tableau de bord
 
@@ -83,4 +83,4 @@ Enfin, SeaTable vous permet de mettre en place tous les processus nécessaires p
 
 Dans SeaTable, vous et vos employés documentez les feuilles de temps, les demandes de congé et les jours de maladie en un seul endroit, au lieu de gérer de nombreux tableaux d'heures éparpillés (par exemple dans Excel ou Google Sheets). Tout ce dont vous avez besoin, c'est d'un navigateur Internet et d'une adresse e-mail.
 
-Pourtant, la gestion du temps n'est qu'une application parmi les possibilités infinies offertes par SeaTable. Découvrez dans nos [modèles](https://seatable.io/fr/modeles/) les solutions logicielles impressionnantes que vous pouvez construire avec SeaTable et commencez dès maintenant avec un [compte gratuit](https://seatable.io/fr/enregistrement/).
+Pourtant, la gestion du temps n'est qu'une application parmi les possibilités infinies offertes par SeaTable. Découvrez dans nos [modèles](https://seatable.io/fr/modeles/) les solutions logicielles impressionnantes que vous pouvez construire avec SeaTable et commencez dès maintenant avec un [compte gratuit]({{< relref "pages/registration" >}}).

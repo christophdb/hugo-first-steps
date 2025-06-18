@@ -100,6 +100,6 @@ Por supuesto, no debe faltar agua para el lavado. Para que dure más, puedes uti
 
 Para que estés perfectamente preparado para la próxima situación de emergencia, el equipo de SeaTable ha creado una plantilla para tu suministro de emergencia. Puedes adaptarla a tus necesidades como desees.
 
-![Plantilla para su reserva de emergencia](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
+![Plantilla para su reserva de emergencia](Vorlage-fuer-Ihren-Notvorrat-1.png)
 
 Si desea utilizar SeaTable para el almacenamiento, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/everyday-life/shopping-list" >}}) encontrará la plantilla correspondiente.

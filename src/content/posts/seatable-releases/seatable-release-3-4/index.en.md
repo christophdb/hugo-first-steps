@@ -21,7 +21,7 @@ With the page design plugin you can convert data from your bases into descriptiv
 
 The page design plugin in SeaTable 3.4 enables dynamic positioning of elements on the page for the first time. Depending on the length of preceding elements, subsequent elements move down on a page. This allows you to use the same template whether a quote contains one item or a dozen. Page breaks and new pages are inserted automatically. You can set the top and bottom margins individually.
 
-![SeaTable 3.4 - Dynamic Positioning of elements in the page design plugin](images/SeaTable-3.4-DynamicPositioningElements.png)
+![SeaTable 3.4 - Dynamic Positioning of elements in the page design plugin](SeaTable-3.4-DynamicPositioningElements.png)
 
 The new function "Automatically fit table to content" is available for the view element "All view entries" as well as the tabular representation of links under "Table fields". When the function is activated, the placeholder for the table element (green framed element in the screenshot) defines the minimum length of the table to be inserted. If the table is longer than the placeholder, the latter will be automatically extended.
 
@@ -33,7 +33,7 @@ SeaTable's external apps provide an easy way to make table data publicly availab
 
 Now queries can be made over any number of fields. For each field, you can specify whether it is a required field or the input is optional. For text-based fields, you can also enable fuzzy search and force case sensitivity. By combining the options, you can control the search to a great extent. The menu for hiding individual columns in the search results and the sorting options remain unchanged.
 
-![SeaTable 3.4 - Improved data query app](images/SeaTable-3.4-DataQueryApp.png)
+![SeaTable 3.4 - Improved data query app](SeaTable-3.4-DataQueryApp.png)
 
 In the case of multiple query fields, a Boolean AND operation always applies, i.e. all entered values must appear in the search results. Of course, the Data Query App is still unsuitable for confidential information because it does not require user authentication. With another external app, which we will introduce soon, we will close this functional gap.
 
@@ -43,7 +43,7 @@ In [SeaTable 3.3]({{< relref "posts/seatable-releases/seatable-release-3-3" >}})
 
 The form editor of SeaTable 3.4 offers the option to specify a display name for each form element, which is then displayed in the web form instead of the column name. This way it becomes possible to name the columns in the table detached from the web form: The column names can be short and concise, while the form field names may be a bit more wordy for the sake of usability. This gives you even more freedom in designing your web forms.
 
-![SeaTable 3.4 - New editor for custom form links](images/SeaTable-3.4-FormLinkEditor.png)
+![SeaTable 3.4 - New editor for custom form links](SeaTable-3.4-FormLinkEditor.png)
 
 Two enhancements involve SeaTable's ability to pre-populate web forms via URL parameters. While this feature has existed for some time, it lacked a user-friendly way to create and manage custom form links, as well as the option to protect a pre-filled value from modification by the form user. We have addressed and solved both of these issues in SeaTable 3.4.
 
@@ -53,7 +53,7 @@ The "... More" button in the form editor hides a new window for creating any num
 
 For tables with many columns, the selection lists in the view settings can become quite long and confusing. To reduce the search effort to a minimum, there is now a search and filter function in all main menus of the view settings (Filter, Sort, Group, Hide and Format rows ). It is very easy to use: enter the name of the column you are looking for and only the desired column will be displayed. Of course, this also works if you enter only part of the name, for example if you are not quite sure what the column you are looking for is called. You can then select the column you need from the filtered list of results without much effort.
 
-![SeaTable 3.4 - Filters in view settings](images/SeaTable-3.4-FilterInViewSettings.png)
+![SeaTable 3.4 - Filters in view settings](SeaTable-3.4-FilterInViewSettings.png)
 
 Since this practical search function was also missing in single and multiple selection columns with many options, we have integrated it there as well. This way, when creating new options, you never again have to laboriously check whether an option already exists or not.
 
@@ -61,7 +61,7 @@ Since this practical search function was also missing in single and multiple sel
 
 If you take a look at the changelog, you will find many more improvements that we cannot explain individually here. Only three further improvements should be pointed out here very briefly.
 
-![SeaTable 3.4 - New feature add/duplicate multiple rows](images/SeaTable-3.4-AddMultipleRows.png)
+![SeaTable 3.4 - New feature add/duplicate multiple rows](SeaTable-3.4-AddMultipleRows.png)
 
 Using the rows context menu, which you can reach by right-clicking in tables, you can now insert multiple blank lines and also duplicate multiple selected rows .
 

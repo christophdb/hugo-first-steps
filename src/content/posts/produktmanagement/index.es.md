@@ -52,7 +52,7 @@ Recoge fácilmente todos tus datos en un solo lugar: con SeaTable. [Nuestra plan
 
 Para que cada empleado tenga una visión global del producto, es útil una hoja de resumen estándar. En él se recoge la información más importante del producto, como la serie, el tipo de producto, el nombre oficial del producto para el comercio, el número de artículo, los precios y las imágenes del producto asociadas. Un breve resumen es especialmente valioso para las personas que no están familiarizadas con el tema. Con las distintas vistas de SeaTable, los datos pueden [filtrarse y guardarse con](https://seatable.io/es/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) unos pocos clics, por ejemplo, por serie o tipo de producto, y ya no es necesaria la tediosa clasificación manual.
 
-![En esta vista tiene todos los productos inmediatamente a la vista - perfecto para la gestión de productos](images/Range-View_2.jpg)
+![En esta vista tiene todos los productos inmediatamente a la vista - perfecto para la gestión de productos](Range-View_2.jpg)
 
 La visión general de los productos estructura la gestión de los mismos
 
@@ -60,7 +60,7 @@ La visión general de los productos estructura la gestión de los mismos
 
 A veces no basta con una visión general del producto y es necesario ser un poco más específico. Información muy específica sobre el producto, como un revestimiento especial, el material y el grosor del mismo, u otros datos que harían confusa la descripción del producto. SeaTable es ideal para recopilar datos específicos de los productos para los empleados y así optimizar el proceso de desarrollo de productos. La descripción exacta del color en el proveedor es tan importante como las propiedades del material y ayuda, por ejemplo, a los nuevos empleados a iniciarse inmediatamente en el día a día. Las diferentes opiniones también aportan un apoyo adicional en este sentido.
 
-![¿Necesita detalles del producto? No hay problema con SeaTable. Esto le facilita la gestión de los productos](images/Product-Data_1.jpg)
+![¿Necesita detalles del producto? No hay problema con SeaTable. Esto le facilita la gestión de los productos](Product-Data_1.jpg)
 
 En la ficha técnica del producto encontrará toda la información importante sobre el mismo
 
@@ -68,7 +68,7 @@ En la ficha técnica del producto encontrará toda la información importante so
 
 En el proceso de desarrollo del producto, éste pasa por varios departamentos. El [marketing](https://seatable.io/es/marketing/), las ventas, la planta de producción, la fotografía y también el comercio minorista son importantes puntos de contacto diarios en el trabajo de un gestor de productos. Resulta entonces práctico que todos los datos de contacto se recojan en un solo lugar y, por tanto, sean accesibles para todos. Esto es tan útil para el sustituto de vacaciones como para el nuevo aprendiz. Además, también se puede añadir información, como actas de reuniones, documentos importantes o próximas citas telefónicas. Con SeaTable, crear una libreta de direcciones dentro de una tabla no supone ningún problema.
 
-![Los datos de contacto de los proveedores y clientes son muy importantes para una gestión fluida de los productos](images/Suppliers-and-Contacts.jpg)
+![Los datos de contacto de los proveedores y clientes son muy importantes para una gestión fluida de los productos](Suppliers-and-Contacts.jpg)
 
 Anote todos los datos de contacto importantes de sus proveedores y clientes
 
@@ -76,11 +76,11 @@ Anote todos los datos de contacto importantes de sus proveedores y clientes
 
 En la gestión de productos, las ventas son un importante instrumento de control para evaluar el éxito de las medidas y estrategias. ¿Hay tal vez alguna tienda que no va bien del todo? ¿Hay que presentar los productos de nuevo o estructurar el surtido de forma diferente? Las cifras de ventas son ratios muy importantes para las empresas, de las que pueden extraer información valiosa. Si las ventas son buenas, es una prueba de la buena gestión del producto y de que se han alcanzado los objetivos fijados. Si hay que mejorar, las cifras de ventas también pueden aportar información al respecto. Si las cifras de ventas incluyen incluso datos demográficos, que pueden recopilarse, por ejemplo, a través del comercio en línea, el análisis del grupo objetivo puede optimizarse considerablemente, por ejemplo, creando [personas](https://www.reachx.de/6-punkte-anleitung-zur-erstellung-individueller-personas/) o adaptando la estrategia de marketing a segmentos específicos del grupo objetivo.
 
-![Las cifras de ventas también desempeñan un papel importante en la gestión de productos. Con SeaTable no se pierde de vista nada](images/Sales_1.jpg)
+![Las cifras de ventas también desempeñan un papel importante en la gestión de productos. Con SeaTable no se pierde de vista nada](Sales_1.jpg)
 
 Ordenar las cifras de ventas por regiones
 
-![Las estadísticas sencillas facilitan la gestión de sus productos](images/Statistics-1.jpg)
+![Las estadísticas sencillas facilitan la gestión de sus productos](Statistics-1.jpg)
 
 Las estadísticas proporcionan información valiosa sobre las cifras de ventas de su producto
 

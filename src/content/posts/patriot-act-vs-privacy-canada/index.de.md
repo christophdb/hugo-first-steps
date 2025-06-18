@@ -18,7 +18,7 @@ Wie die neuen Datenschutzregeln im Detail aussehen, welche Folgen sich daraus f�
 
 Der sogenannte **Patriot Act** ist ein seit den Terroranschlägen vom 11. September 2001 in den Vereinigten Staaten geltendes [Bundesgesetz](https://www.justice.gov/archive/ll/highlights.htm). Es besagt, dass US-Bundesbehörden wie die NSA oder CIA auf alle in den USA liegenden Daten ohne persönliche Zustimmung oder richterliche Anordnung zugreifen dürfen. Dasselbe gilt für ausländische Tochterfirmen und Standorte amerikanischer Unternehmen, die nach dem Patriot Act dazu verpflichtet sind, Zugriff auf ihre Server zu gewähren, selbst wenn lokale Gesetze dies verbieten.
 
-![Pariot Act](images/bild-1-artikel-patriot-act-711x474.png)
+![Pariot Act](bild-1-artikel-patriot-act-711x474.png)
 
 Der vom ehemaligen US-Präsidenten George W. Bush unterzeichnete Patriot Act erlaubt US-Behörden wie dem FBI oder der NSA, ohne richterliche Anordnung auf die Server von US-Unternehmen zuzugreifen.
 
@@ -34,7 +34,7 @@ Dass die Nutzung von US-amerikanischen Cloud-Anbietern mit datenschutzrechtliche
 
 Am 22. September 2021 hat die Regierung der kanadischen Provinz Quebec in Anlehnung an die DSGVO in Europa das „Gesetz zur Modernisierung der gesetzlichen Bestimmungen zum Schutz personenbezogener Daten“ – kurz [Gesetz 25](https://www.quebec.ca/gouvernement/ministeres-et-organismes/institutions-democratique-acces-information-laicite/acces-documents-protection-renseignements-personnels/pl64-modernisation-de-la-protection-des-renseignements-personnels#:~:text=Les modifications qui résultent de,citoyens sur leurs renseignements personnels) – verabschiedet. Die in Gesetz 25 enthaltenen Datenschutzregeln treten seither schrittweise in Kraft. Mit dem Gesetzesentwurf sollen die als veraltet geltenden Datenschutzgesetze in Kanada sowohl für den privaten als auch für den öffentlichen Sektor modernisiert und an die technologischen Fortschritte angepasst werden.
 
-![Patriot Act](images/schaubild-gesetz25.png)
+![Patriot Act](schaubild-gesetz25.png)
 
 Quebecs Gesetz 25 tritt seit September 2022 in jährlichen Schritten in Kraft.
 
@@ -48,7 +48,7 @@ Alle Inhalte von Gesetz 25 zum Nachlesen finden Sie [hier](https://www.publicati
 
 Auch wenn Ihr Unternehmen keine Standorte in Quebec besitzt, könnten Sie dennoch von Gesetz 25 betroffen sein. Denn die mit dem Gesetz verbundenen Regeln gelten nicht nur für Unternehmen in Quebec, sondern – unabhängig vom Standort – für jegliche Unternehmen, die mit Daten von in Quebec ansässigen Personen arbeiten. Darüber hinaus gilt das Gesetz 25 in Kanada als bahnbrechender Rechtsrahmen, der den Anstoß zu weiteren vergleichbaren Gesetzesreformen gegeben hat. Beispielsweise wird Kanada seine bundesstaatlichen Datenschutzgesetze ebenfalls zeitnah mit dem Gesetzesentwurf [C-27](https://www.parl.ca/legisinfo/en/bill/44-1/c-27) überarbeiten, der derzeit noch im Parlament diskutiert wird und das aktuell in ganz Kanada (mit Ausnahme der Provinzen Quebec, British Columbia und Alberta) geltende Bundesgesetz [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief/) ersetzen soll.
 
-![Patriot Act](images/bild3-patrio-act-711x473.png)
+![Patriot Act](bild3-patrio-act-711x473.png)
 
 Obwohl Gesetz 25 von der Regierung Quebecs verabschiedet wurde, sehen sich auch Unternehmen und Institutionen weit über die Region hinaus mit den Folgen des Gesetzes konfrontiert.
 
@@ -62,11 +62,11 @@ Besonders einschneidend sind die Folgen für kanadische Unternehmen, die Daten i
 
 Zunächst scheint es gar nicht so leicht zu sein, personenbezogene Daten unabhängig von US-amerikanischen Anbietern, also außerhalb vom Geltungsbereich des Patriot Act zu hosten. Tatsächlich gibt es aber einige Alternativen zu den dominierenden US-Clouds. Wenn Sie derzeit noch Airtable, Google Sheets oder Microsoft Excel für die Speicherung personenbezogener Daten nutzen, könnte beispielsweise SeaTable die richtige Lösung für Sie sein. Diese günstige und leistungsstarke Datenbank- und Kollaborationslösung ist eine zu 100 Prozent datenschutzkonforme Alternative. Als europäisches Unternehmen, das Wert auf höchste Datensicherheit legt, hat SeaTable schon früh dem amerikanischen Branchenführer AWS den Rücken gekehrt. Stattdessen wird die Cloud-Version von SeaTable in deutschen Rechenzentren des Schweizer Anbieters Exoscale gehostet, wodurch die Daten strengen europäischen Datenschutzanforderungen unterliegen.
 
-![Patriot Act](images/bild-seatable-patriot-act-711x389.png)
+![Patriot Act](bild-seatable-patriot-act-711x389.png)
 
 SeaTable besticht im Vergleich zu Airtable unter anderem durch Mehrsprachigkeit, höhere Speicherlimits und einen günstigeren Preis.
 
-Darüber hinaus bietet SeaTable eine selbstgehostete Variante an, mit der Sie die Software als [On-Premises-Lösung](https://seatable.io/on-premises/) auf Ihren eigenen Servern installieren und betreiben können. So haben Sie die absolute Datenhoheit und maximale Kontrolle über die Speicherorte Ihrer Daten. Egal, für welche Option Sie sich entscheiden – SeaTable steht im Einklang mit den kanadischen Datenschutzgesetzen.
+Darüber hinaus bietet SeaTable eine selbstgehostete Variante an, mit der Sie die Software als [On-Premises-Lösung]({{< relref "pages/product/seatable-server" >}}) auf Ihren eigenen Servern installieren und betreiben können. So haben Sie die absolute Datenhoheit und maximale Kontrolle über die Speicherorte Ihrer Daten. Egal, für welche Option Sie sich entscheiden – SeaTable steht im Einklang mit den kanadischen Datenschutzgesetzen.
 
 Sie möchten strukturiert Daten erfassen, effizient Aufgaben erledigen und leistungsfähige Prozesse entwickeln – ohne sich Gedanken über die Sicherheit Ihrer Daten machen zu müssen? Dann überzeugen Sie sich selbst und [registrieren Sie sich hier]({{< relref "pages/registration" >}}) für ein **SeaTable Free-Abonnement**, mit dem Ihnen bereits zahlreiche nützliche [Funktionen](https://seatable.io/preise) zur Verfügung stehen. Das Abonnement ist für Sie **komplett kostenlos** und eine perfekte Gelegenheit, SeaTable unverbindlich zu testen.
 

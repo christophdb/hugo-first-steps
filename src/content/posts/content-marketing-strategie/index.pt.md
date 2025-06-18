@@ -128,7 +128,7 @@ O quadro seguinte mostra uma estrutura básica que pode adaptar-se às suas nece
 - Persona (para quem o artigo é relevante)
 - Ideia de conteúdo (de onde surgiu a ideia)
 
-![Estratégia de marketing de conteúdo](images/content-marketing-strategie-seatable.png)
+![Estratégia de marketing de conteúdo](content-marketing-strategie-seatable.png)
 
 Esta tabela do nosso [Modelo de Estratégia de Marketing de Conteúdos]({{< relref "templates/marketing/content-marketing-strategy" >}}) pode parecer bastante extensa à primeira vista, mas é o mínimo para um canal de conteúdos médio manter a visão geral necessária. Adquira o hábito de registar estes dados desde o primeiro dia e não terá problemas em manter o controlo em qualquer altura.
 

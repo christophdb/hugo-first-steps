@@ -17,7 +17,7 @@ SeaTable 2.4 has seen the light of day! The latest incarnation of the SeaTable S
 
 Views provide unique perspectives on the data in a SeaTable table and are fantastic tools for data analysis. But, according to user feedback, switching between views is unnecessarily complicated.
 
-![Pinnable view navigation](images/Pinnable_View_Navigation_1448x787.png)
+![Pinnable view navigation](Pinnable_View_Navigation_1448x787.png)
 
 With SeaTable 2.4 we introduce dockable view navigation, which makes selecting and switching between views as easy as navigating folders in a file manager à la Windows Explorer or the Finder on the Mac. With the navigation docked, the list of views is expanded across the full left side of the table editor, making the views directly available for selection. To accommodate different needs, the width of the docked navigation can be set individually according to requirements. If you have to switch between views frequently, this innovation will save you a lot of clicking and mouse work.
 
@@ -25,7 +25,7 @@ With SeaTable 2.4 we introduce dockable view navigation, which makes selecting a
 
 The column type Link to other entries is probably SeaTable's most important. SeaTable is not just another online spreadsheet! Like no other column type, this column type stands for that. And in SeaTable 2.4 we have made this column type even better.
 
-![More display options for link column](images/More_Flexible_Link_Column_raw_1448x554.png)
+![More display options for link column](More_Flexible_Link_Column_raw_1448x554.png)
 
 In previous SeaTable versions, the link always showed the value of the first column of the linked entry. From now on you can select which column value of the linked row should be shown. This selection is easily done via a dropdown menu in the link column configuration. What sounds small is of great importance! Imagine that the first column in the linked table is an autonumber column. These values are without relevant information for you, the display without significant meaning. In the new version you now choose a column that contains more meaningful information. This simplifies link creation and makes the table more compact with fewer lookup columns. Finally, the revised link column also makes web forms more powerful for polls and surveys. The selected display column is also the one that a visitor sees and can choose from in the web form. We are confident that you will be as excited about the new feature as we are.
 
@@ -33,7 +33,7 @@ In previous SeaTable versions, the link always showed the value of the first col
 
 Want to identify all duplicates in your table? With SeaTable 2.4 you now have not one, but two ways to do this: you can use the data deduplication plugin or the new conditional formatting option "Highlight duplicates". This formatting option highlights all duplicate rows in the active table. By selecting the comparison columns, you can define exactly what constitutes a duplicate.
 
-![New conditional formatting option "Highlight duplicates](images/Highlight_duplicates_1448x554.png)
+![New conditional formatting option "Highlight duplicates](Highlight_duplicates_1448x554.png)
 
 The big advantage of conditional formatting compared to the plugin is the fact that you do not leave the table editor. The duplicates are displayed where you can edit rows , delete rows as well as use filters and sorting. (The plugin remains the tool of choice if you want to automatically delete all duplicates).
 

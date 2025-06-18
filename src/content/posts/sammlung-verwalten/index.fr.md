@@ -26,11 +26,11 @@ Une possibilité est par exemple de classer des objets, comme c'est le cas dans 
 
 ### Comparaisons, recherches et plus
 
-En outre, vous pouvez gérer des collections afin d'analyser votre collection. Des programmes et des applications permettent de faire des comparaisons, que ce soit dans votre propre collection ou en la comparant à celle d'un tiers. Par exemple, vous pourriez découvrir quels timbres ou pièces de monnaie une autre personne possède et que vous ne possédez pas. Les informations d'une [collection d'art](https://seatable.io/fr/ausstellungs-und-kunstmanagement-museum-galerie/) permettent en outre de faire des recherches. On sait exactement quels autres objets d'art pourraient faire partie de la collection et on peut faire des recherches en conséquence.
+En outre, vous pouvez gérer des collections afin d'analyser votre collection. Des programmes et des applications permettent de faire des comparaisons, que ce soit dans votre propre collection ou en la comparant à celle d'un tiers. Par exemple, vous pourriez découvrir quels timbres ou pièces de monnaie une autre personne possède et que vous ne possédez pas. Les informations d'une [collection d'art]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}) permettent en outre de faire des recherches. On sait exactement quels autres objets d'art pourraient faire partie de la collection et on peut faire des recherches en conséquence.
 
 ### Gérer les collections en cas de sinistre
 
-Un logiciel de gestion de collection est également utile en cas de sinistre. Un scénario : vous gérez une collection et souhaitez l'assurer. Dans le programme de gestion, vous enregistrez les objets que vous possédez. Il sert en quelque sorte de [liste d'inventaire](https://seatable.io/fr/inventarliste-vorlagen/). À partir de là, vous savez quelle valeur vous devez assurer pour la collection.
+Un logiciel de gestion de collection est également utile en cas de sinistre. Un scénario : vous gérez une collection et souhaitez l'assurer. Dans le programme de gestion, vous enregistrez les objets que vous possédez. Il sert en quelque sorte de [liste d'inventaire]({{< relref "posts/inventarliste-erstellen" >}}). À partir de là, vous savez quelle valeur vous devez assurer pour la collection.
 
 ### Garder un œil sur les lieux de stockage grâce au logiciel de collection
 
@@ -70,10 +70,10 @@ En dehors des programmes de collection open source généraux, il existe une mul
 
 Par exemple, si vous collectionnez des chaussures, votre base de données pourrait ressembler à ceci dans SeaTable :
 
-[Inscrivez-vous](https://seatable.io/fr/enregistrement/) avec votre adresse e-mail et commencez avec la version gratuite, qui suffit amplement pour les collections privées. Si vous avez besoin de plus de fonctions ou d'espace de stockage, passez à la version Plus pour 7 € par personne et par mois ou à la version Enterprise pour 14 € par utilisateur et par mois.
+[Inscrivez-vous]({{< relref "pages/registration" >}}) avec votre adresse e-mail et commencez avec la version gratuite, qui suffit amplement pour les collections privées. Si vous avez besoin de plus de fonctions ou d'espace de stockage, passez à la version Plus pour 7 € par personne et par mois ou à la version Enterprise pour 14 € par utilisateur et par mois.
 
 ## Conclusion
 
 Pour les collectionneurs, chaque objet de collection est précieux. Pour garder une vue d'ensemble, il faut utiliser une application de gestion de collection adaptée ou un logiciel de gestion général adapté aux collections.
 
-L'offre de logiciels de collection est aussi vaste et variée que les collections qui existent. Si vous collectionnez par exemple des poissons ou des voitures anciennes, vous trouverez en ligne le programme de gestion adapté à chaque cas. En revanche, si vous souhaitez utiliser un seul et même programme pour gérer différentes collections, il vaut la peine d'opter pour des programmes clairs et polyvalents comme SeaTable. La [version gratuite](https://seatable.io/fr/enregistrement/) vous permet de gérer efficacement votre collection dans des tableaux intelligents.
+L'offre de logiciels de collection est aussi vaste et variée que les collections qui existent. Si vous collectionnez par exemple des poissons ou des voitures anciennes, vous trouverez en ligne le programme de gestion adapté à chaque cas. En revanche, si vous souhaitez utiliser un seul et même programme pour gérer différentes collections, il vaut la peine d'opter pour des programmes clairs et polyvalents comme SeaTable. La [version gratuite]({{< relref "pages/registration" >}}) vous permet de gérer efficacement votre collection dans des tableaux intelligents.

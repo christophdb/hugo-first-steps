@@ -13,7 +13,7 @@ Ya sean camiones, autobuses o coches de empresa clásicos: la gestión de una fl
 
 ## ¿Qué es un parque móvil?
 
-La **flota de** **vehículos de** su empresa incluye todos los vehículos de su [inventario](https://seatable.io/es/inventarliste-vorlagen/). Lo más frecuente es que se trate de los clásicos **coches de empresa**. Pero también puede incluir vehículos especializados: Autobuses y trenes, camiones, vehículos para obras, carretillas elevadoras, tractores u otros vehículos.
+La **flota de** **vehículos de** su empresa incluye todos los vehículos de su [inventario]({{< relref "posts/inventarliste-erstellen" >}}). Lo más frecuente es que se trate de los clásicos **coches de empresa**. Pero también puede incluir vehículos especializados: Autobuses y trenes, camiones, vehículos para obras, carretillas elevadoras, tractores u otros vehículos.
 
 ![Gestión de flotas](fuhrparkmanagement-mit-seatable.jpg)
 

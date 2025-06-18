@@ -16,7 +16,7 @@ Heute Morgen um 6 Uhr mitteleuropäischer Zeit wurde SeaTable Cloud auf Version 
 
 ## Komplexe Filterregeln mit Filtergruppen
 
-Version 5.2 macht SeaTables [Filterfunktionen](https://seatable.io/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) noch leistungsfähiger. Die neuen Filtergruppen erlauben die **Kombination von Filterregeln mit den logischen Operatoren UND und ODER**. Beispiel: Gesucht sind Männer geboren nach 1979 (Filtergruppe 1) oder Frauen geboren nach 1984 (Filtergruppe 2). Eine solche Filterung war in SeaTable bisher nicht möglich. In früheren Versionen waren alle Filterregeln entweder mit logischem UND oder ODER verknüpft.
+Version 5.2 macht SeaTables [Filterfunktionen]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) noch leistungsfähiger. Die neuen Filtergruppen erlauben die **Kombination von Filterregeln mit den logischen Operatoren UND und ODER**. Beispiel: Gesucht sind Männer geboren nach 1979 (Filtergruppe 1) oder Frauen geboren nach 1984 (Filtergruppe 2). Eine solche Filterung war in SeaTable bisher nicht möglich. In früheren Versionen waren alle Filterregeln entweder mit logischem UND oder ODER verknüpft.
 
 ![Filtergroups in SeaTable 5.2](Fitlergroups.png)
 
@@ -44,7 +44,7 @@ Neben der Berechtigungssteuerung enthält die neue Version auch noch zwei Verbes
 
 ### Seitentyp Formular
 
-Einfache [Webformulare](https://seatable.io/docs/webformulare/webformulare/), die sich in der Base erstellen lassen, bieten eine **Weiterleitungsoption**. Benutzer werden nach der Einreichung automatisch zu einer Webseite umgeleitet. Diese Funktion haben wir nun auch auf den [Formularseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) ergänzt und dabei die Besonderheiten der App berücksichtigt. Eine Weiterleitung kann entweder zu einer anderen App-Seite oder zu einer externen URL erfolgen. Die anderen App-Seiten lassen sich bequem aus einem Drop-down-Menü auswählen. Ebenfalls einstellen lässt sich, ob die Umleitung in einem neuen oder im gleichen Tab erfolgt.
+Einfache [Webformulare]({{< relref "help/base-editor/webformulare" >}}), die sich in der Base erstellen lassen, bieten eine **Weiterleitungsoption**. Benutzer werden nach der Einreichung automatisch zu einer Webseite umgeleitet. Diese Funktion haben wir nun auch auf den [Formularseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) ergänzt und dabei die Besonderheiten der App berücksichtigt. Eine Weiterleitung kann entweder zu einer anderen App-Seite oder zu einer externen URL erfolgen. Die anderen App-Seiten lassen sich bequem aus einem Drop-down-Menü auswählen. Ebenfalls einstellen lässt sich, ob die Umleitung in einem neuen oder im gleichen Tab erfolgt.
 
 ### Seitentyp Tabelle
 

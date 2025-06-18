@@ -79,7 +79,7 @@ Bei der Betrachtung der externen Faktoren in einem SWOT-Analyse Beispiel sollten
 
 Wählen Sie außerdem eine [SWOT Analyse Vorlage]({{< relref "templates/operations/swot-analysis" >}}), um sich die Arbeit zu erleichtern. Die Analyse startet mit der Wahl des richtigen Tools, zusätzlich sollten Sie sich Gedanken um die Zusammenstellung des passenden Teams machen.
 
-Die [Bestandsaufnahme](https://seatable.io/inventarliste-vorlagen/) geht mit einem hohen zeitlichen Aufwand einher. Wen können Sie für die Meetings und Workshops freistellen? Des Weiteren werden Kompetenzen aus verschiedenen Abteilungen benötigt. **Welche Kollegen haben einen Einblick in die Stärken, Schwächen, Chancen und Risiken Ihres Unternehmens und Unternehmensumfelds?** Im Idealfall stellen Sie ein Team von zehn Mitarbeitern zusammen.
+Die [Bestandsaufnahme]({{< relref "posts/inventarliste-erstellen" >}}) geht mit einem hohen zeitlichen Aufwand einher. Wen können Sie für die Meetings und Workshops freistellen? Des Weiteren werden Kompetenzen aus verschiedenen Abteilungen benötigt. **Welche Kollegen haben einen Einblick in die Stärken, Schwächen, Chancen und Risiken Ihres Unternehmens und Unternehmensumfelds?** Im Idealfall stellen Sie ein Team von zehn Mitarbeitern zusammen.
 
 ![Ein Team spricht über neues SWOT Analyse Beispiel.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
 

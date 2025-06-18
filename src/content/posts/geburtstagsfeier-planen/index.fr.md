@@ -24,7 +24,7 @@ Avant de commencer à planifier les détails de votre fête, vous devez d'abord 
 
 Si vous organisez un **anniversaire d'enfant**, la fête peut également avoir lieu l'après-midi en semaine. Si l'enfant et la plupart des invités sont adultes, la fête peut avoir lieu le soir et se prolonger dans la nuit. Lorsque vous choisissez une date appropriée, tenez compte des jours fériés et vérifiez la disponibilité de vos amis et de votre famille les plus proches.
 
-![Planifier un anniversaire d'enfant](images/pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
+![Planifier un anniversaire d'enfant](pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
 
 ## Créer une liste d'invités pour votre fête d'anniversaire
 
@@ -94,7 +94,7 @@ En faisant appel à un service de restauration pour vos invités, vous économis
 - Pizza et pâtes
 - Gâteaux et desserts
 
-![Buffet pour une fête d'anniversaire](images/brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
+![Buffet pour une fête d'anniversaire](brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
 
 ### Demander de l'aide à vos invités
 
@@ -148,4 +148,4 @@ Vous avez encore du retard à rattraper dans certains domaines ? Pas de problèm
 
 Planifier et organiser une fête d'anniversaire - ce qui semble être un jeu d'enfant pour beaucoup s'avère souvent être un processus long et laborieux d'après notre propre expérience. En effet, si l'on veut organiser une fête unique et inoubliable, il faut s'occuper le plus tôt possible de tous les préparatifs importants. Avec tout ce stress, il peut vite arriver d'oublier une personne importante lors de la planification, de commander trop peu de nourriture et de boissons ou de perdre de vue le budget dont on dispose.
 
-Pour vous éviter toutes ces mésaventures et vous permettre de vous réjouir de votre prochaine fête, SeaTable a développé un [organisateur de fête]({{< relref "templates/events/party-planner" >}}) qui vous permet de préparer votre fête de manière claire et structurée, tout en gardant un œil sur vos invités. N'hésitez pas à l'essayer en [vous inscrivant](https://seatable.io/fr/enregistrement/) gratuitement.
+Pour vous éviter toutes ces mésaventures et vous permettre de vous réjouir de votre prochaine fête, SeaTable a développé un [organisateur de fête]({{< relref "templates/events/party-planner" >}}) qui vous permet de préparer votre fête de manière claire et structurée, tout en gardant un œil sur vos invités. N'hésitez pas à l'essayer en [vous inscrivant]({{< relref "pages/registration" >}}) gratuitement.

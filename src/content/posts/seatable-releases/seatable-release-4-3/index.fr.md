@@ -20,11 +20,11 @@ Nous avons également procédé à une mise à niveau des plug-ins vers le Webpa
 
 ## Nouveau dialogue et liens personnalisés pour les formulaires web
 
-Pour partager vos [formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/) avec d'autres utilisateurs, il existait jusqu'à présent deux boîtes de dialogue différentes : une dans laquelle vous pouviez copier un **lien généré automatiquement**; et une dans laquelle vous pouviez développer ce lien avec [des valeurs pré-remplies](https://seatable.io/fr/docs/webformulare/formularfelder-per-url-vorbefuellen/). Nous avons désormais réuni ces possibilités en une seule boîte de dialogue afin d'améliorer la convivialité.
+Pour partager vos [formulaires web]({{< relref "help/base-editor/webformulare" >}}) avec d'autres utilisateurs, il existait jusqu'à présent deux boîtes de dialogue différentes : une dans laquelle vous pouviez copier un **lien généré automatiquement**; et une dans laquelle vous pouviez développer ce lien avec [des valeurs pré-remplies](https://seatable.io/fr/docs/webformulare/formularfelder-per-url-vorbefuellen/). Nous avons désormais réuni ces possibilités en une seule boîte de dialogue afin d'améliorer la convivialité.
 
 Nous avons également ajouté une toute nouvelle option permettant de créer **des URL personnalisées** pour les formulaires web. Vous pouvez ensuite les modifier, les enregistrer sous forme de code QR, les copier ou les supprimer.
 
-![Nouvelle boîte de dialogue de lien de formulaire dans SeaTable 4.3](images/Formularlink-Dialog.gif)
+![Nouvelle boîte de dialogue de lien de formulaire dans SeaTable 4.3](Formularlink-Dialog.gif)
 
 {{< warning headline="Remarque" text="La partie personnalisée qui est ajoutée au lien doit comporter **entre 5 et 30 caractères** et ne peut contenir que **des lettres**, **des chiffres** et des **tirets**. De plus, chaque URL doit être unique : Si une URL personnalisée est déjà occupée, un message d'erreur apparaît." />}}
 
@@ -39,7 +39,7 @@ Auparavant, SeaTable vous permettait uniquement de [créer](https://seatable.io/
 
 Les **notifications d'application** permettent par exemple d'informer les utilisateurs d'une application des modifications apportées aux enregistrements pertinents. Cette action peut être déclenchée par les quatre [événements déclencheurs](https://seatable.io/fr/docs/automationen/automations-trigger/).
 
-![Envoyer une notification d'application](images/App-Benachrichtigung-senden.png)
+![Envoyer une notification d'application](App-Benachrichtigung-senden.png)
 
 Les utilisateurs de chaque application peuvent consulter leurs notifications en cliquant sur l'icône de la cloche {{< seatable-icon icon="dtable-icon-notice" >}} à côté de leur avatar dans le coin supérieur droit.
 
@@ -49,7 +49,7 @@ Dans la [colonne des collaborateurs](https://seatable.io/fr/docs/datum-dauer-und
 
 Cette fonctionnalité est particulièrement utile dans l'application universelle. Vous pouvez activer l'option permettant à tous les utilisateurs de voir les membres de l'équipe dans la liste déroulante dans les [paramètres](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) de l'application universelle. Si vous ne souhaitez pas que les utilisateurs puissent voir les enregistrements des autres, définissez **des filtres prédéfinis**: si une page est filtrée par colonne de collaborateurs avec la condition "inclut l'utilisateur actuel", chaque utilisateur de l'application universelle ne verra que les enregistrements qui lui sont attribués dans le tableau.
 
-![Colonne des employés dans l'application universelle](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)
+![Colonne des employés dans l'application universelle](Mitarbeiter-Spalte-in-der-Universellen-App.gif)
 
 ## Autres améliorations de l'application universelle
 
@@ -59,11 +59,11 @@ La [fonction de commentaire](https://seatable.io/fr/docs/arbeiten-mit-zeilen/zei
 
 Sur la [page individuelle](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), vous pouvez vous réjouir de deux nouveaux éléments : le **conteneur** et la **carte**. Le conteneur donne une grille qui vous permet de disposer plus facilement d'autres éléments (textes, images, statistiques) et de les regrouper.
 
-![Élément conteneur sur page personnalisée dans SeaTable 4.3](images/Container-element-on-custom-page.png)
+![Élément conteneur sur page personnalisée dans SeaTable 4.3](Container-element-on-custom-page.png)
 
 La carte, qui réunit une image, un titre et un texte en un modèle de design, assure également une belle mise en page.
 
-![Élément de carte sur page personnalisée dans SeaTable 4.3](images/Card-element-on-custom-page.png)
+![Élément de carte sur page personnalisée dans SeaTable 4.3](Card-element-on-custom-page.png)
 
 De plus, à partir de la version 4.3 de SeaTable, la **couleur d'arrière-plan** des pages individuelles peut être réglée à volonté et le chevauchement indésirable des éléments a été corrigé. De même, le design général de l'application universelle se présente désormais dans une couleur uniforme sur toutes les pages, que vous pouvez choisir dans les [paramètres globaux](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
 
@@ -85,7 +85,7 @@ Si vous utilisez les deux applications en cours d'exécution, nous vous recomman
 
 Lorsque vous [envoyiez des e-mails par automatisation](https://seatable.io/fr/docs/beispiel-automationen/e-mail-versand-per-automation/), vous ne pouviez jusqu'à présent saisir votre message qu'en **texte brut** dans le champ de texte. À partir de SeaTable 4.3, il est possible, comme pour l'envoi d'e-mails via des boutons, de rédiger les messages au **format texte enrichi ou HTML**. Il suffit pour cela d'activer le curseur situé à droite au-dessus du champ de texte.
 
-![Texte riche dans les messages électroniques automatisés](images/Rich-text-in-automated-e-mail-messages.png)
+![Texte riche dans les messages électroniques automatisés](Rich-text-in-automated-e-mail-messages.png)
 
 Si vous souhaitez utiliser **des autorisations de colonnes** pour protéger les valeurs contre des modifications non souhaitées, vous pourrez désormais les définir de manière encore plus précise. En plus des _utilisateurs spécifiques_, des _administrateurs_ et _de personne_, **certains groupes** sont désormais disponibles en option.
 

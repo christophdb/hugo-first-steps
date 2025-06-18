@@ -32,7 +32,7 @@ Aktuell bietet SeaTable eine tabellarische Ergebnisdarstellung. In Zukunft werde
 
 Seit der Version 1.0 unterstützt SeaTable die Gruppierung von Daten. Mit der aktuellen Version erfährt diese beliebte Funktion eine massive Verbesserung: In SeaTable 2.2 lassen sich Daten nach bis zu drei Spalten gruppieren. Gruppen auf zweiter und dritter Ebene werden als Untergruppen der übergeordneten Ebene dargestellt. Natürlich werden auch für diese Untergruppen aggregierte Spaltenwerte wie Summe oder Durchschnitt automatisch berechnet und angezeigt. Gerade in Kombination mit Filtern und Sortierungen wird die Gruppierung damit ein noch mächtigeres Analysewerkzeug.
 
-![Cascading columns and nested groups](images/Cascading-columns.png)
+![Cascading columns and nested groups](Cascading-columns.png)
 
 Eine weitere kleinere Verbesserung in Sachen Gruppen: Beim Export einer Ansicht in Excel werden die Gruppen ebenfalls exportiert. In früheren Versionen berücksichtigte die Exportfunktion Gruppen nicht.
 
@@ -51,7 +51,7 @@ In SeaTable 2.1 wurden die Tabellenberechtigungen eingeführt. In Version 2.2 we
 - Zeilen bearbeiten und
 - Zeilen sehen dürfen.
 
-![Advanced table permissions](images/Advanced-table-permissions.png)
+![Advanced table permissions](Advanced-table-permissions.png)
 
 Die Berechtigungen lassen sich unabhängig voneinander definieren und jede Berechtigung kann auf Niemanden, Administratoren und bestimmte Benutzer beschränkt werden.
 

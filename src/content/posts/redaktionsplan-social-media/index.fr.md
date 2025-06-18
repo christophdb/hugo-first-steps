@@ -114,7 +114,7 @@ Une autre option consiste à **utiliser des outils de médias sociaux tels que H
 
 Il existe en outre **des solutions de base de données intelligentes** comme SeaTable. Ces tableaux permettent de saisir des informations de toutes sortes et de stocker des images, des documents et des listes de choses à faire. Vous regroupez ainsi l'ensemble du contenu en un seul endroit et représentez vos processus dans un plan éditorial avec lequel tous les **membres de l'équipe** peuvent **travailler ensemble et en temps réel**.
 
-Pour avoir toujours l'essentiel sous les yeux, vous pouvez **structurer et afficher** les données de votre plan de médias sociaux SeaTable **de différentes manières et les analyser à l'aide de statistiques**. [Vous vous inscrivez en ligne](https://seatable.io/fr/enregistrement/) et commencez immédiatement. Vous recevez ici le [modèle de plan éditorial]({{< relref "templates/marketing/social-media-plan" >}}) gratuit que vous pouvez adapter exactement à vos besoins.
+Pour avoir toujours l'essentiel sous les yeux, vous pouvez **structurer et afficher** les données de votre plan de médias sociaux SeaTable **de différentes manières et les analyser à l'aide de statistiques**. [Vous vous inscrivez en ligne]({{< relref "pages/registration" >}}) et commencez immédiatement. Vous recevez ici le [modèle de plan éditorial]({{< relref "templates/marketing/social-media-plan" >}}) gratuit que vous pouvez adapter exactement à vos besoins.
 
 ## Conclusion
 

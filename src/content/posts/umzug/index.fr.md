@@ -167,6 +167,6 @@ Un déménagement pour raisons médicales est considéré comme une charge excep
 
 Pour que votre prochain déménagement se déroule sans stress, l'équipe de SeaTable a créé un modèle de plan de déménagement. Vous pouvez l'adapter à vos besoins.
 
-![Plan de déménagement](images/Umzugsplan.png)
+![Plan de déménagement](Umzugsplan.png)
 
-Si vous souhaitez utiliser SeaTable pour planifier votre déménagement, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/real-estate/moving-plan" >}}).
+Si vous souhaitez utiliser SeaTable pour planifier votre déménagement, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement. Vous trouverez le modèle correspondant [ici]({{< relref "templates/real-estate/moving-plan" >}}).

@@ -162,7 +162,7 @@ Souvent, les autres membres de la famille participent très volontiers à l'acha
 
 Les vêtements de deuil traditionnels diffèrent d'une culture à l'autre : en Europe et dans le monde occidental, le **noir** est la couleur du deuil, en Asie, c'est surtout le **blanc** - et ailleurs, on peut même se permettre d'être coloré. En Allemagne, les vêtements portés lors d'un enterrement ne doivent plus être noirs aujourd'hui, mais on attend souvent **des vêtements discrets** aux couleurs sobres et aux coupes amples - par exemple un costume bleu foncé avec une chemise blanche, un pull uni avec un pantalon noir ou une robe qui ne soit pas trop moulante et ne laisse pas apparaître trop de peau.
 
-![Vêtements de deuil pour l'enterrement](images/the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
+![Vêtements de deuil pour l'enterrement](the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
 
 Les vêtements de deuil ne sont toutefois pas obligatoires. Les cérémonies funéraires non conventionnelles ou joyeuses sont également autorisées si le défunt a souhaité que l'on célèbre sa vie et sa personne plutôt que **l'ambiance funèbre**. Planifiez donc la cérémonie funéraire en vous détachant des traditions et en respectant entièrement les souhaits du défunt.
 
@@ -186,8 +186,8 @@ Si la cérémonie funéraire ne doit avoir lieu que dans un cercle restreint, n'
 
 Avec tout ce qu'il faut prévoir pour un enterrement, il est facile de se perdre. SeaTable a donc réuni les principales choses à faire dans une liste de contrôle. Vous pouvez également utiliser le planificateur en ligne pour coordonner l'invitation des personnes à enterrer ou calculer le coût des funérailles.
 
-![Planificateur en ligne avec aperçu des coûts pour les funérailles](images/Funeral-planner.png)
+![Planificateur en ligne avec aperçu des coûts pour les funérailles](Funeral-planner.png)
 
 Modèle SeaTable avec aperçu des coûts pour les funérailles
 
-Si vous souhaitez utiliser SeaTable pour organiser des funérailles, [il vous suffit de vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) et de créer un aperçu avec vos propres données. Vous trouverez le modèle correspondant [ici]({{< relref "templates/events/funeral-planner" >}}).
+Si vous souhaitez utiliser SeaTable pour organiser des funérailles, [il vous suffit de vous inscrire gratuitement]({{< relref "pages/registration" >}}) et de créer un aperçu avec vos propres données. Vous trouverez le modèle correspondant [ici]({{< relref "templates/events/funeral-planner" >}}).

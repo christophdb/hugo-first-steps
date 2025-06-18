@@ -168,6 +168,6 @@ Als außergewöhnliche Belastung zählt ein Umzug aus medizinischen Gründen. Di
 
 Damit Ihr nächster Umzug möglichst stressfrei abläuft, hat das Team von SeaTable eine Vorlage für Ihren Umzugsplan erstellt. Diesen können Sie nach Belieben an Ihre Bedürfnisse anpassen.
 
-![Umzugsplan](images/Umzugsplan.png)
+![Umzugsplan](Umzugsplan.png)
 
 Wenn Sie SeaTable für Ihre Umzugsplanung nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/real-estate/moving-plan" >}}).

@@ -162,7 +162,7 @@ Que vous soyez un propriétaire privé, une entreprise ou une société de logem
 
 [Découvrez comment utiliser le modèle de portefeuille immobilier de SeaTable pour en tirer profit]({{< relref "templates/real-estate/property-management" >}})
 
-Pour plus d'informations, consultez soit l'article [Gestion immobilière](https://seatable.io/hausverwaltung/) pour les propriétaires privés, soit l'article [Gestion immobilière](https://seatable.com/liegenschaftsverwaltung/) pour les entreprises et les collectivités locales.
+Pour plus d'informations, consultez soit l'article [Gestion immobilière]({{< relref "posts/hausverwaltung" >}}) pour les propriétaires privés, soit l'article [Gestion immobilière]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}) pour les entreprises et les collectivités locales.
 
 ## Gestion de portefeuille claire avec SeaTable
 

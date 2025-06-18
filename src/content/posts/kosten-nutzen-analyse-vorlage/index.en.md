@@ -21,13 +21,13 @@ A cost-benefit analysis, or CBA for short, is a **profitability analysis**. It c
 
 The advantage here is that you can bundle all the **factors and effects associated with an investment** in just one database, so you don't lose track. Especially with [large projects](https://seatable.io/en/projektstrukturplan-vorlage/), there are a large number of objective and subjective criteria that affect the CBA in very different ways. A template helps you to keep track of all these aspects.
 
-![Printed template for a cost benefit analysis.](images/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
+![Printed template for a cost benefit analysis.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 
 Benefit from a cost-benefit analysis. Image rights: amazing studio / Adobe Stock
 
 ## Where is a cost-benefit analysis used?
 
-The larger a [project]({{< relref "templates/projects/project-plan" >}}) is, the larger its investment sum usually is. While the [costs](https://seatable.io/en/budgetplanung-vorlage/) of an investment are usually quite easy to determine, the specific benefits are much more difficult to identify. The reason for this is that neither the success nor the impact of a measure can be reliably predicted and quantified in advance. In addition, the benefits of an investment are often subject to a subjective assessment by the decision-makers.
+The larger a [project]({{< relref "templates/projects/project-plan" >}}) is, the larger its investment sum usually is. While the [costs]({{< relref "templates/finance/budget-book" >}}) of an investment are usually quite easy to determine, the specific benefits are much more difficult to identify. The reason for this is that neither the success nor the impact of a measure can be reliably predicted and quantified in advance. In addition, the benefits of an investment are often subject to a subjective assessment by the decision-makers.
 
 A CBA helps to clearly document all possible factors that have an impact on a business decision and to evaluate them objectively and neutrally across departments. It is advantageous to use a **database** for this. Because if you create your cost-benefit analysis using a template, everyone involved can work on the same basis. This means that no data is lost, important aspects are not overlooked and additional factors that other departments consider relevant can be easily added.
 
@@ -42,7 +42,7 @@ Basically, a cost-benefit analysis is always appropriate when major financial in
 - Introduce new business processes
 - want to expand your [vehicle fleet](https://seatable.io/en/fuhrparkmanagement/)
 
-![Employee creates template for a cost-benefit analysis.](images/Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
+![Employee creates template for a cost-benefit analysis.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 
 An employee carries out a cost-benefit analysis. Image rights: Andrey Popov / Adobe Stock
 

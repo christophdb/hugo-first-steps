@@ -90,7 +90,7 @@ Os seus filhos já saíram de casa, vendeu o seu carro ou quase não utiliza a s
 
 {{< warning headline="Atenção" text="Se não for o proprietário do seu apartamento, o seu senhorio deve autorizar o subarrendamento." />}}
 
-O mesmo se aplica se a sua casa incluir uma **garagem**, um parque **de estacionamento** ou uma **cave** de que não precisa. O [arrendamento de um imóvel](https://seatable.io/pt/hausverwaltung/) pode gerar muitos rendimentos a longo prazo, o que irá favorecer o seu orçamento familiar.
+O mesmo se aplica se a sua casa incluir uma **garagem**, um parque **de estacionamento** ou uma **cave** de que não precisa. O [arrendamento de um imóvel]({{< relref "posts/hausverwaltung" >}}) pode gerar muitos rendimentos a longo prazo, o que irá favorecer o seu orçamento familiar.
 
 ### 6\. utilizar os transportes públicos, a partilha de carros e a partilha de automóveis
 
@@ -140,7 +140,7 @@ Em vez disso, certifique-se de que faz uma dieta equilibrada, pratica exercício
 
 ### 12\. o fim dos vícios dispendiosos
 
-Os maus hábitos, como o consumo regular de **álcool, cigarros ou café**, podem rapidamente custar-lhe mais de 100 euros por mês. No entanto, há vários métodos que pode utilizar para [mudar](https://seatable.io/pt/habit-tracker-gewohnheiten-aendern/) os seus [hábitos](https://seatable.io/pt/habit-tracker-gewohnheiten-aendern/) a longo prazo. Com força de vontade e o apoio de amigos e familiares, pode conseguir livrar-se de vícios dispendiosos, sem os quais pode viver de forma mais saudável e poupar muito dinheiro a longo prazo.
+Os maus hábitos, como o consumo regular de **álcool, cigarros ou café**, podem rapidamente custar-lhe mais de 100 euros por mês. No entanto, há vários métodos que pode utilizar para [mudar]({{< relref "posts/habit-tracker" >}}) os seus [hábitos]({{< relref "posts/habit-tracker" >}}) a longo prazo. Com força de vontade e o apoio de amigos e familiares, pode conseguir livrar-se de vícios dispendiosos, sem os quais pode viver de forma mais saudável e poupar muito dinheiro a longo prazo.
 
 Ao mesmo tempo, pode criar hábitos positivos: Por exemplo, o simples facto de beber água em vez de **bebidas energéticas** caras é bom para a sua saúde. O seu orçamento vai regozijar-se - especialmente se deixar de beber água engarrafada e passar a beber **água da torneira**.
 

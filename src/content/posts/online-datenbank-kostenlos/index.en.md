@@ -21,11 +21,11 @@ Furthermore, there are customer databases for storing the interests, contact inf
 
 ## What are the advantages of online databases over traditional ones?
 
-Online databases are either available free of charge or are paid for monthly. You only pay for what you have used in terms of storage capacity. In addition, you do not have to purchase your own hardware and [save on](https://seatable.io/en/budgetplanung-vorlage/) installation [costs](https://seatable.io/en/budgetplanung-vorlage/).
+Online databases are either available free of charge or are paid for monthly. You only pay for what you have used in terms of storage capacity. In addition, you do not have to purchase your own hardware and [save on]({{< relref "templates/finance/budget-book" >}}) installation [costs]({{< relref "templates/finance/budget-book" >}}).
 
 Another advantage is that you purchase a service. The providers usually have their own IT department. This relieves the burden on your own employees. No one to create and operate the database needs in-depth programming knowledge. Also the input of data can be done by import or web form.
 
-![It employee works with a free online database.](images/Online-Datenbank-kostenlos_AdobeStock_163119186_bearbeitet-711x474.jpg)
+![It employee works with a free online database.](Online-Datenbank-kostenlos_AdobeStock_163119186_bearbeitet-711x474.jpg)
 
 Online database free of charge © Gorodenkoff / adobe stock
 
@@ -71,7 +71,7 @@ When talking about Amazon and Google, Microsoft cannot be left out either. You h
 - **Microsoft SQL Server Edge**: With this relational database, the concept of edge computing can be implemented for IoT applications.
 - **Microsoft dedicated SQL Server**: Here you know where your data is stored and can fall back on a hybrid data platform.
 
-![Someone is looking at Microsoft's free online database.](images/Online-Datenbank-kostenlos_AdobeStock_418493344_bearbeitet-711x474.jpg)
+![Someone is looking at Microsoft's free online database.](Online-Datenbank-kostenlos_AdobeStock_418493344_bearbeitet-711x474.jpg)
 
 Online database free of charge © monticellllo / adobe stock
 

@@ -18,7 +18,7 @@ Would you like to **plan** a **workshop** or even manage the entire **personnel 
 
 Employees are a company's most valuable resource. It is therefore in your interest to develop your **human resources** and thus make your company even more valuable. Further education, training and workshops can therefore be seen as a **sustainable investment** in your company. After all, the new skills and know-how that your employees acquire will not only benefit them, but also the company.
 
-![Plan workshop](images/Workshops.jpg)
+![Plan workshop](Workshops.jpg)
 
 Depending on the complexity of the topic and the expertise in your company, you can either hold **internal workshops** with your employees, bring in external experts for **in-house training** or take advantage of **external training courses**, for example at the Federal Employment Agency, a Chamber of Industry and Commerce or an academy.
 
@@ -50,7 +50,7 @@ Would you like to drive forward your personnel development and offer new trainin
 
 Of course, you should tailor your offer to your needs and identify where **knowledge transfer** is required in your company. If your company operates internationally, your employees may be very interested in a business English course to brush up on their **language skills**. All new starters will probably need training in **IT security** and an introduction to the **software applications** they use.
 
-![Complete overview of your workshops](images/Overview-1.jpg)
+![Complete overview of your workshops](Overview-1.jpg)
 
 Get an overview of all workshops, training courses and further training measures that are already taking place in your company or for which there is additional demand. You can easily record all important information and documents relating to a workshop in a database. The link to other tables enables direct assignment to a coach.
 
@@ -58,11 +58,11 @@ Get an overview of all workshops, training courses and further training measures
 
 Depending on whether the necessary expertise on a topic is available in your company, you can either recruit **your employees** or **external experts** as coaches for your workshops. Check whether the coaches are suitable to conduct a workshop with the desired success. You should also provide information such as contact details, photo and qualifications of the coaches.
 
-![Store all important information about your workshop trainers](images/Coaches-1.jpg)
+![Store all important information about your workshop trainers](Coaches-1.jpg)
 
 With the page design plugin, it is also possible to create a **profile** with the data contained in the table and save it in PDF format.
 
-![With the Page Design Plugin you can create trainer profiles with just a few clicks](images/Coach-profile-711x588.jpg)
+![With the Page Design Plugin you can create trainer profiles with just a few clicks](Coach-profile-711x588.jpg)
 
 ## Determine the duration and agenda of the workshop
 
@@ -76,9 +76,9 @@ You can book **catering for the lunch break** there, whereas you have to organiz
 
 ## Manage registrations online
 
-Next, you need to invite potential participants and make a note of who is attending which event. If you have already recorded your workshops in a database, it is easy to manage **registrations** online. You can do this effortlessly in SeaTable using a [web form](https://seatable.io/en/docs/webformulare/webformulare/) that participants can use to register for each workshop. This saves you having to send **invitations** back and forth by e-mail.
+Next, you need to invite potential participants and make a note of who is attending which event. If you have already recorded your workshops in a database, it is easy to manage **registrations** online. You can do this effortlessly in SeaTable using a [web form]({{< relref "help/base-editor/webformulare" >}}) that participants can use to register for each workshop. This saves you having to send **invitations** back and forth by e-mail.
 
-![Simple workshop registration via the web form](images/Einfache-Workshop-Anmeldung-ueber-das-Webformular.png)
+![Simple workshop registration via the web form](Einfache-Workshop-Anmeldung-ueber-das-Webformular.png)
 
 A table collects all registrations and the data entered by your participants. Practical: When participants select a workshop, their registration is directly assigned to the correct workshop in the linked table.
 
@@ -98,13 +98,13 @@ Depending on the topic of the workshop, different methods and materials are suit
 
 You can issue a certificate to each participant to **certify their participation in the workshop**. The [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) in SeaTable saves you a lot of work. The plugin uses the information already entered in the table and can insert it individually for each participant in the layout of the certificate of attendance. With the help of a button, you can create personalized documents at the touch of a button and save them in PDF format.
 
-![Create certificates without extra effort with the Page Design Plugin](images/Zertifikate.jpg)
+![Create certificates without extra effort with the Page Design Plugin](Zertifikate.jpg)
 
 ## Obtaining and evaluating feedback on the workshop
 
 What would workshops and training measures be without feedback? You can either use **paper forms** for evaluation, which you have the participants fill out at the end of the workshop, or you can use a **web form** again. This has the advantage that participants can enter their evaluation directly in digital form. This means that the feedback is always legible and immediately linked to the workshops and coaches. Participants can rate the workshop and coach both on a rating scale and in free text fields.
 
-![Use the SeaTable web form to collect feedback from your employees](images/Feedback.jpg)
+![Use the SeaTable web form to collect feedback from your employees](Feedback.jpg)
 
 You can easily **evaluate** the collected feedback in SeaTable, for example by displaying the median or average of a [rating column](https://seatable.io/en/docs/auswahlspalten/die-rating-spalte/) in the [status bar](https://seatable.io/en/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) or by using the open answers in the [text columns](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) to further develop the workshops. If there is a conspicuous amount of **criticism** of a course, the trainer can either make improvements or be replaced. For example, if there is frequent feedback that important aspects are missing, this could be an indication that you should give them more time and extend the workshop. You could also create a new workshop that focuses precisely on these aspects and thus meets the needs of your participants.
 

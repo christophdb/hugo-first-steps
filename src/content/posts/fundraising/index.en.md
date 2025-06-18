@@ -14,7 +14,7 @@ seo:
 
 In this article, we take a comprehensive look at the topic of fundraising and highlight various **methods** you can use to get people excited about your ideas and encourage donations. To help you consistently pursue your fundraising goal, collect donations and issue a donation receipt, you will finally have the chance to try out **free donation management software**.
 
-![The word fundraising is written in a booklet with stick figures](images/charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
+![The word fundraising is written in a booklet with stick figures](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
 Well-planned fundraising can help an organization achieve its goals.
 
@@ -32,7 +32,7 @@ It is important that you provide detailed information, including the specific **
 
 {{< warning headline="Tip" text="A tried and tested approach is to send out **donation letters**. These allow you to communicate your message clearly and effectively and address potential donors on a personal level." />}}
 
-![Jar with coins, out of which a small plant grows](images/micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
+![Jar with coins, out of which a small plant grows](micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 
 Fundraising requires creativity to attract people's attention.
 
@@ -44,7 +44,7 @@ In contrast, **crowdfunding** often sets a specific time period, typically betwe
 
 The following diagram provides a brief overview of the main differences.
 
-![Differences between fundraising and crowdfunding](images/Crowdfunding-vs.-Fundraising-711x533.png)
+![Differences between fundraising and crowdfunding](Crowdfunding-vs.-Fundraising-711x533.png)
 
 The difference between fundraising and crowdfunding
 
@@ -70,7 +70,7 @@ In the digital world, you have numerous options for collecting donations. Online
 - Current offers
 - Search engines and social media marketing
 
-![Appeal for donations on a computer](images/donation-community-service-volunteer-support-711x595.jpg)
+![Appeal for donations on a computer](donation-community-service-volunteer-support-711x595.jpg)
 
 Social media is playing an increasingly important role in fundraising.
 
@@ -100,7 +100,7 @@ This contrasts with **cold calling**, where you approach potential donors who ha
 
 Many non-profit organizations lose a large proportion of their donors between the first and second donation. According to an [analysis](https://link.springer.com/book/10.1007/978-3-8349-6308-6) by Beat Hunziker, only around half of all donors make a second donation. The **donor loyalty cycle** is a model that shows how people interested in donating can become committed supporters.
 
-![Donor loyalty cycle in fundraising](images/Spendenloyalitaetszyklus-711x533.png)
+![Donor loyalty cycle in fundraising](Spendenloyalitaetszyklus-711x533.png)
 
 Donor loyalty cycle
 

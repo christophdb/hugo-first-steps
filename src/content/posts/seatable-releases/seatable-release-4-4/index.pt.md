@@ -16,13 +16,13 @@ Esta manhã, actualizámos o SeaTable Cloud para a versão 4.4. Todos os auto-ho
 
 ## App Builder mais flexível e mais potente
 
-No SeaTable 4.4, voltámos a introduzir muitas melhorias e correcções de erros na [aplicação universal](https://seatable.io/pt/docs/apps/universelle-app/), que beneficiarão quase todos os [tipos de páginas](https://seatable.io/pt/docs/universelle-apps/seitentypen-in-der-universellen-app/). O fim da fase beta está agora ao alcance.
+No SeaTable 4.4, voltámos a introduzir muitas melhorias e correcções de erros na [aplicação universal]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), que beneficiarão quase todos os [tipos de páginas](https://seatable.io/pt/docs/universelle-apps/seitentypen-in-der-universellen-app/). O fim da fase beta está agora ao alcance.
 
 ### Botões nas páginas de consulta
 
 [As páginas de consulta](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) suportam agora a execução de acções de botão: Após uma consulta de dados bem sucedida, é possível premir [botões](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) na lista de resultados apresentada para executar acções. Esta é uma nova funcionalidade especial, uma vez que anteriormente não era possível interagir com as linhas consultadas em qualquer parte do SeaTable.
 
-![Botões de execução nas páginas de consulta](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
+![Botões de execução nas páginas de consulta](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
 Um exemplo de aplicação é um quadro de empregos interno: a página de consulta permite-lhe procurar rapidamente posições relevantes. Se for encontrada uma posição interessante, basta clicar no botão nos resultados da pesquisa para se candidatar diretamente à posição.
 
@@ -34,11 +34,11 @@ Até agora, não era possível alterar os compromissos na [página do calendári
 
 Tal como no Base, pode agora [selecionar todas as entradas de uma coluna](https://seatable.io/pt/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/) nas [páginas de tabelas](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) das suas aplicações com apenas um clique no cabeçalho da coluna. A prática [pega de preenchimento](https://seatable.io/pt/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) também é agora possível: arraste o pequeno quadrado no canto inferior direito de uma célula para baixo para transferir o valor para todas as linhas abaixo.
 
-![Marcar entradas de coluna](images/Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
+![Marcar entradas de coluna](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
 ### Coluna do empregado disponível nas páginas do formulário
 
-Se utilizar uma [coluna de empregado](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) na sua tabela, esta **não** está disponível em [formulários Web](https://seatable.io/pt/docs/webformulare/webformulare/). No entanto, a partir do SeaTable 4.4, pode adicionar colunas de colaboradores a [páginas de formulários](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) na aplicação universal. Por exemplo, os membros da sua equipa podem selecionar-se a si próprios para um pedido de férias e já não têm de introduzir os seus nomes manualmente. Primeiro, é necessário ativar a opção para apresentar a lista de colaboradores nas [definições da aplicação](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+Se utilizar uma [coluna de empregado](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) na sua tabela, esta **não** está disponível em [formulários Web]({{< relref "help/base-editor/webformulare" >}}). No entanto, a partir do SeaTable 4.4, pode adicionar colunas de colaboradores a [páginas de formulários](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) na aplicação universal. Por exemplo, os membros da sua equipa podem selecionar-se a si próprios para um pedido de férias e já não têm de introduzir os seus nomes manualmente. Primeiro, é necessário ativar a opção para apresentar a lista de colaboradores nas [definições da aplicação](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
 
 ### Mais opções de personalização para páginas individuais
 
@@ -50,7 +50,7 @@ Tal como anunciado nas últimas notas de versão, removemos o **Gallery App Buil
 
 {{< warning headline="É bom saber" text="**As aplicações de galeria existentes continuarão a funcionar**. No entanto, recomendamos a mudança das aplicações de galeria existentes para aplicações universais, de modo a beneficiar de novos desenvolvimentos e melhorias." />}}
 
-![Criar diálogo de aplicações](images/Create-app-dialog-.png)
+![Criar diálogo de aplicações](Create-app-dialog-.png)
 
 Também houve algumas alterações na [aplicação de consulta de dados](https://seatable.io/pt/docs/apps/datenabfrage-app/). O antigo App Builder para consultas de dados foi removido e substituído por um novo baseado no Universal App Builder. Isto significa que ainda é possível criar aplicações públicas para consultar as suas bases, mas a interface é agora semelhante à do Universal App Builder. O mesmo se aplica às aplicações de consulta existentes e às aplicações de galeria: não tem de fazer nada e pode continuar a utilizá-las.
 
@@ -58,9 +58,9 @@ Também houve algumas alterações na [aplicação de consulta de dados](https:/
 
 ## Experiência de utilizador mais agradável ao importar o Excel
 
-O SeaTable 4.4 torna [a importação de tabelas Excel](https://seatable.io/pt/docs/import-von-daten/import-von-excel-dateien-in-seatable/) mais rápida, mais flexível e mais estável: Tabelas com muitos milhares de linhas são agora disponibilizadas no SeaTable em apenas alguns momentos. Na janela de pré-visualização significativamente ampliada, pode agora selecionar quais as tabelas de um livro de trabalho - todas ou apenas as individuais - que pretende importar do ficheiro XLSX. Enquanto no passado os caracteres especiais nos nomes das colunas e outros casos especiais levavam a resultados indesejáveis, agora são tidos em conta de forma fiável. As mensagens de erro melhoradas fornecem indicações claras de conflitos, especialmente ao [importar para o armazenamento de Big Data](https://seatable.io/pt/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/).
+O SeaTable 4.4 torna [a importação de tabelas Excel]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) mais rápida, mais flexível e mais estável: Tabelas com muitos milhares de linhas são agora disponibilizadas no SeaTable em apenas alguns momentos. Na janela de pré-visualização significativamente ampliada, pode agora selecionar quais as tabelas de um livro de trabalho - todas ou apenas as individuais - que pretende importar do ficheiro XLSX. Enquanto no passado os caracteres especiais nos nomes das colunas e outros casos especiais levavam a resultados indesejáveis, agora são tidos em conta de forma fiável. As mensagens de erro melhoradas fornecem indicações claras de conflitos, especialmente ao [importar para o armazenamento de Big Data](https://seatable.io/pt/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/).
 
-![Importação do Excel](images/Excel-Import.png)
+![Importação do Excel](Excel-Import.png)
 
 {{< warning headline="Uma pequena amostra" text="Com o SeaTable 5.0, estamos a tornar a importação ainda mais flexível! As colunas individuais de uma tabela podem ser seleccionadas e excluídas da importação." />}}
 
@@ -70,23 +70,23 @@ O SeaTable 4.4 torna [a importação de tabelas Excel](https://seatable.io/pt/do
 
 1. Se tiver um [Base de cópia](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)Se copiar uma base para um grupo no qual estão incluídos registos de dados partilhados, o utilizador pode decidir se pretende manter a ligação a esses registos de dados. O grupo para o qual se copia a base deve, obviamente, ter acesso aos registos de dados partilhados.
 
-    ![Manter a ligação ao conjunto de dados comum ao copiar uma base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
+    ![Manter a ligação ao conjunto de dados comum ao copiar uma base](Retain-link-to-common-dataset-when-copying-a-base.gif)
 
 2. Após o [Restaurar bases a partir de instantâneos](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) ou o [Criar uma base a partir de um modelo](https://seatable.io/pt/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) é possível ligar tabelas existentes a um registo de dados partilhados e, assim, permitir a sincronização com os dados aí existentes. Anteriormente, os registos de dados partilhados não podiam ser reimportados, mas apenas integrados em novas tabelas.
 
-    ![Reimportar conjunto de dados comum](images/Reimport-common-dataset.gif)
+    ![Reimportar conjunto de dados comum](Reimport-common-dataset.gif)
 
 3. O criador de um registo de dados partilhados pode agora selecionar o [Sincronização](https://seatable.io/pt/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) de todas as tabelas dependentes com o conjunto de dados e, assim, garantir que os outros utilizadores utilizam o estado atual dos dados nas suas bases. No passado, era necessário confiar nos utilizadores que configuravam a sincronização automática ou que a desencadeavam manualmente.
 
-    ![Forçar a sincronização de um conjunto de dados comum](images/Force-sync-of-common-dataset.png)
+    ![Forçar a sincronização de um conjunto de dados comum](Force-sync-of-common-dataset.png)
 
 ## Os valores por defeito aplicam-se em todo o lado
 
-Com a versão 4.4, o SeaTable generaliza a utilização dos [valores por defeito](https://seatable.io/pt/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Quando cria uma nova linha, seja na tabela de uma base ou aplicação, através de uma [coluna de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [formulário Web](https://seatable.io/pt/docs/webformulare/webformulare/), [botão](https://seatable.io/pt/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) ou [automatização](https://seatable.io/pt/docs/automationen/automations-aktionen/), os valores por defeito são aplicados em todo o lado quando a linha é criada. Anteriormente, os valores por defeito só eram aplicados quando uma nova linha era criada manualmente numa tabela.
+Com a versão 4.4, o SeaTable generaliza a utilização dos [valores por defeito](https://seatable.io/pt/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Quando cria uma nova linha, seja na tabela de uma base ou aplicação, através de uma [coluna de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [formulário Web]({{< relref "help/base-editor/webformulare" >}}), [botão](https://seatable.io/pt/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) ou [automatização](https://seatable.io/pt/docs/automationen/automations-aktionen/), os valores por defeito são aplicados em todo o lado quando a linha é criada. Anteriormente, os valores por defeito só eram aplicados quando uma nova linha era criada manualmente numa tabela.
 
 Como o âmbito dos valores por defeito aumentou consideravelmente, criámos também um item de menu proeminente nas opções de coluna, que pode utilizar para definir convenientemente os valores por defeito.
 
-![O valor por defeito aplica-se a todas as novas linhas](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
+![O valor por defeito aplica-se a todas as novas linhas](Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
 {{< warning headline="Nota" text="Se for definido um valor predefinido na tabela e no formulário Web, o valor do formulário aplica-se a todas as linhas criadas através do formulário." />}}
 

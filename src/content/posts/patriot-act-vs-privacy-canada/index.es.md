@@ -17,7 +17,7 @@ En este artículo, descubrirá en detalle cómo son las nuevas normas de protecc
 
 La llamada **Patriot Act** es una [ley federal](https://www.justice.gov/archive/ll/highlights.htm) vigente en Estados Unidos desde los atentados terroristas del 11 de septiembre de 2001. Establece que las agencias federales estadounidenses, como la NSA o la CIA, pueden acceder a todos los datos ubicados en Estados Unidos sin consentimiento personal ni orden judicial. Lo mismo se aplica a las filiales y sedes extranjeras de empresas estadounidenses, que están obligadas por la Patriot Act a permitir el acceso a sus servidores aunque las leyes locales lo prohíban.
 
-![Ley Pariot](images/bild-1-artikel-patriot-act-711x474.png)
+![Ley Pariot](bild-1-artikel-patriot-act-711x474.png)
 
 La Patriot Act, firmada por el ex Presidente de Estados Unidos George W. Bush, permite a autoridades estadounidenses como el FBI o la NSA acceder a los servidores de empresas estadounidenses sin orden judicial.
 
@@ -33,7 +33,7 @@ El hecho de que el uso de proveedores de nube estadounidenses está asociado a r
 
 El 22 de septiembre de 2021, el gobierno de la provincia canadiense de Quebec aprobó la "Ley de Modernización de las Disposiciones Legales para la Protección de Datos Personales" - [Ley 25](https://www.quebec.ca/gouvernement/ministeres-et-organismes/institutions-democratique-acces-information-laicite/acces-documents-protection-renseignements-personnels/pl64-modernisation-de-la-protection-des-renseignements-personnels#:~:text=Les modifications qui résultent de,citoyens sur leurs renseignements personnels) para abreviar - en línea con el GDPR en Europa. Desde entonces, las normas de protección de datos contenidas en la Ley 25 han ido entrando gradualmente en vigor. El proyecto de ley pretende modernizar las leyes de protección de datos en Canadá, consideradas obsoletas, tanto para el sector privado como para el público, y adaptarlas a los avances tecnológicos.
 
-![Ley Patriótica](images/schaubild-gesetz25.png)
+![Ley Patriótica](schaubild-gesetz25.png)
 
 La Ley 25 de Quebec ha ido entrando en vigor por etapas anuales desde septiembre de 2022.
 
@@ -47,7 +47,7 @@ Puede leer todo el contenido de la Ley 25 [aquí](https://www.publicationsduqueb
 
 Incluso si su empresa no tiene ningún establecimiento en Quebec, podría verse afectada por la Ley 25. Esto se debe a que las normas asociadas a la Ley se aplican no sólo a las empresas de Quebec, sino -independientemente de su ubicación- a cualquier empresa que trabaje con datos de residentes en Quebec. Además, la Ley 25 se considera un marco jurídico innovador en Canadá, que ha servido de impulso para otras reformas legislativas similares. Por ejemplo, Canadá también revisará oportunamente sus leyes federales de protección de datos con el proyecto de ley [C-27](https://www.parl.ca/legisinfo/en/bill/44-1/c-27), que aún se está debatiendo en el Parlamento y que sustituirá a la ley federal [LPRPDE](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief/) actualmente en vigor en todo Canadá (a excepción de las provincias de Quebec, Columbia Británica y Alberta).
 
-![Ley Patriótica](images/bild3-patrio-act-711x473.png)
+![Ley Patriótica](bild3-patrio-act-711x473.png)
 
 Aunque el proyecto de ley 25 fue aprobado por el gobierno de Quebec, empresas e instituciones de fuera de la región también se enfrentan a las consecuencias de la ley.
 
@@ -61,11 +61,11 @@ Las consecuencias son especialmente drásticas para las empresas canadienses que
 
 En principio, no parece tan fácil alojar datos personales independientemente de los proveedores estadounidenses, es decir, fuera del ámbito de aplicación de la Patriot Act. De hecho, existen algunas alternativas a las nubes estadounidenses dominantes. Si actualmente sigue utilizando Airtable, Google Sheets o Microsoft Excel para almacenar datos personales, SeaTable, por ejemplo, podría ser la solución adecuada para usted. Esta asequible y potente solución de base de datos y colaboración es una alternativa que respeta la privacidad al cien por cien. Como empresa europea que valora la máxima seguridad de los datos, SeaTable dio la espalda al líder del sector estadounidense AWS desde el principio. En su lugar, la versión en la nube de SeaTable se aloja en centros de datos alemanes del proveedor suizo Exoscale, lo que significa que los datos están sujetos a estrictos requisitos europeos de protección de datos.
 
-![Ley Patriótica](images/bild-seatable-patriot-act-711x389.png)
+![Ley Patriótica](bild-seatable-patriot-act-711x389.png)
 
 Comparado con Airtable, SeaTable impresiona por su multilingüismo, mayores límites de memoria y un precio más bajo, entre otras cosas.
 
-Además, SeaTable ofrece una variante autoalojada con la que puede instalar y utilizar el software como [solución local](https://seatable.io/es/on-premises/) en sus propios servidores. Esto le proporciona una soberanía de datos absoluta y el máximo control sobre dónde se almacenan sus datos. Sea cual sea la opción que elija, SeaTable cumple las leyes canadienses de protección de datos.
+Además, SeaTable ofrece una variante autoalojada con la que puede instalar y utilizar el software como [solución local]({{< relref "pages/product/seatable-server" >}}) en sus propios servidores. Esto le proporciona una soberanía de datos absoluta y el máximo control sobre dónde se almacenan sus datos. Sea cual sea la opción que elija, SeaTable cumple las leyes canadienses de protección de datos.
 
 ¿Desea capturar datos de forma estructurada, completar tareas de forma eficaz y desarrollar procesos potentes, sin tener que preocuparse por la seguridad de sus datos? Entonces compruébelo usted mismo y [regístrese aquí]({{< relref "pages/registration" >}}) para obtener una **suscripción gratuita** a SeaTable, que ya le ofrece numerosas [funciones](https://seatable.io/es/preise) útiles. La suscripción es **completamente gratuita para** usted y una oportunidad perfecta para probar SeaTable sin compromiso.
 

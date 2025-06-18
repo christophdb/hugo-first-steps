@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-La version de septembre, que nous avons mise en ligne le 14 septembre, offre un éventail impressionnant de nouvelles caractéristiques, fonctionnalités et améliorations pour TOUS les utilisateurs. L'addition la plus chaude est le moteur de script de SeaTable. Parmi les autres nouvelles fonctionnalités, citons l'intégration transparente de nos modèles, le formatage conditionnel des lignes, une nouvelle fonction d'impression et le nouveau type de colonne à numérotation automatique. Et ce n'est pas tout, loin de là ! La liste complète des modifications est disponible dans le [journal des modifications](https://seatable.io/fr/docs/changelog/version-1-3/). SeaTable reste fidèle à son nom et offre une mer de possibilités. [Commencez maintenant](https://seatable.io/fr/enregistrement/) et jouez avec les vagues.
+La version de septembre, que nous avons mise en ligne le 14 septembre, offre un éventail impressionnant de nouvelles caractéristiques, fonctionnalités et améliorations pour TOUS les utilisateurs. L'addition la plus chaude est le moteur de script de SeaTable. Parmi les autres nouvelles fonctionnalités, citons l'intégration transparente de nos modèles, le formatage conditionnel des lignes, une nouvelle fonction d'impression et le nouveau type de colonne à numérotation automatique. Et ce n'est pas tout, loin de là ! La liste complète des modifications est disponible dans le [journal des modifications](https://seatable.io/fr/docs/changelog/version-1-3/). SeaTable reste fidèle à son nom et offre une mer de possibilités. [Commencez maintenant]({{< relref "pages/registration" >}}) et jouez avec les vagues.
 
 ## Traitement automatisé des données avec des scripts
 

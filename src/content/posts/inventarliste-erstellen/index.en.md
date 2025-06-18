@@ -24,7 +24,7 @@ You can use an inventory list to record the stock in your company. This can be a
 
 Every merchant and every company that is obliged to keep double-entry accounts must carry out an inventory. This must be carried out both at the opening of the business and after each financial year. This involves recording the stock and drawing up an inventory.
 
-![Warehouse worker uses iPad with inventory list.](images/Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
+![Warehouse worker uses iPad with inventory list.](Inventarliste-Vorlage-2_AdobeStock_214190951_bearbeitet-711x474.jpg)
 
 Use a digital inventory list to record your stock. Image rights: tradol / Adobe Stock
 
@@ -51,7 +51,7 @@ It also makes a difference **when** you create your inventory:
 - This is why there is also the **misplaced inventory**. With this form of stocktaking, you can carry out the inventory flexibly on a day of your choice, which is a maximum of three months before or two months after the balance sheet date. However, as you then have to update or count back the stocks using the receipts and issues in your inventory list, the postponed inventory is less accurate than the key date inventory.
 - In contrast, the **perpetual inventory** is an ongoing process with the advantage that the effort is spread evenly throughout the year and a book inventory is sufficient on the balance sheet date. Nevertheless, a physical inventory of all assets is necessary once a year in order to compare the actual stocks with the book stocks. You must then document all additions and disposals precisely in your inventory list in order to update the stocks for accounting purposes.
 
-![Warehouse worker takes inventory in Excel.](images/Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
+![Warehouse worker takes inventory in Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
 You should regularly compare your inventory list with the actual stock. Image rights: zephyr_p / Adobe Stock
 
@@ -75,7 +75,7 @@ In addition, each item should be given a **unique number** as soon as you enter 
 
 An example of an inventory list is a table with these columns (click on the image to enlarge):
 
-![Example: Template for an inventory list](images/Beispiel-Vorlage-fuer-eine-Inventarliste.png)
+![Example: Template for an inventory list](Beispiel-Vorlage-fuer-eine-Inventarliste.png)
 
 Your inventory list could look like this.
 
@@ -87,7 +87,7 @@ One program that many companies already use is Excel. Here you can create an **i
 
 If you already have an inventory list as an Excel template, you can use it again and again with just a few clicks. To do this, duplicate the existing file before opening it in Excel.
 
-![Excel for an inventory list.](images/Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
+![Excel for an inventory list.](Inventarliste-Vorlage-3_AdobeStock_288360292_bearbeitet-711x474.jpg)
 
 Excel spreadsheets are popular for inventory lists. Image copyright: PixieMe / Adobe Stock
 
@@ -119,7 +119,7 @@ To do this, open an empty document, click on Insert and then on Table. You now h
 
 Regardless of which option you choose, you also decide in Word which column titles you need for your inventory list (e.g. identification number, item, type, location, quantity and value). You then enter your assets manually. This could look like this (click on the image to enlarge):
 
-![Inventory list in Word](images/Inventarliste-in-Word.png)
+![Inventory list in Word](Inventarliste-in-Word.png)
 
 Example of an inventory list in Word
 
@@ -148,11 +148,11 @@ Web-based programs such as SeaTable enable the **collaborative creation and mana
 
 For example, you can avoid an **outdated inventory list** being used and managed in parallel by different employees. If, for example, the accounting department needs information from the inventory list, it can retrieve the latest version directly in SeaTable and does not have to wait until different employees have merged their versions.
 
-You can also create [web forms](https://seatable.io/en/docs/webformulare/webformulare/) for stocktaking from tables in SeaTable. There you can guide your employees through the stocktaking process and give them more detailed instructions on what to record and what to look out for.
+You can also create [web forms]({{< relref "help/base-editor/webformulare" >}}) for stocktaking from tables in SeaTable. There you can guide your employees through the stocktaking process and give them more detailed instructions on what to record and what to look out for.
 
-![Submit an item during inventory](images/Submit-an-item-during-inventory.gif)
+![Submit an item during inventory](Submit-an-item-during-inventory.gif)
 
-The **visualization** and **evaluation** of data in SeaTable is even more flexible and easier than in Excel. You can create [statistics](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/), use [plugins](https://seatable.io/en/docs/plugins/alle-plugins-in-der-uebersicht/) for visualization or filter, sort and group the data using views.
+The **visualization** and **evaluation** of data in SeaTable is even more flexible and easier than in Excel. You can create [statistics](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/), use [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) for visualization or filter, sort and group the data using views.
 
 Last but not least, you can save **images** and **files** such as PDF documents in SeaTable. Purchase receipts, invoices or photos of the current status during the inventory can be included in your inventory list.
 

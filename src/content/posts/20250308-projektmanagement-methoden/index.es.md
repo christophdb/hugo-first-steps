@@ -119,7 +119,7 @@ La gestión ajustada de proyectos distingue tres males que hay que analizar y el
 - **Mura (desequilibrio)** se centra en los procesos desequilibrados con etapas de proceso descoordinadas e interrupciones que provocan colas o tiempos muertos.
 - **Muri (sobrecarga)** se refiere a la utilización y el relevo de los miembros del equipo y las máquinas. No debe haber cuellos de botella que provoquen altos niveles de desgaste o bajas por enfermedad debidas a la sobreutilización.
 
-También es importante para este método encontrar la relación óptima entre [costes y beneficios](https://seatable.io/es/kosten-nutzen-analyse-vorlage/) de un proyecto.
+También es importante para este método encontrar la relación óptima entre [costes y beneficios]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) de un proyecto.
 
 A continuación vienen dos métodos de gestión de proyectos que hacen hincapié en la visualización gráfica: La estructura de desglose del trabajo y la técnica de redes.
 

@@ -12,7 +12,7 @@ seo:
 
 Il faut vérifier les paiements entrants, rappeler les paiements aux clients et, parfois, il y a même la partie que toute entreprise veut éviter : le processus de relance. Cela peut devenir un véritable défi pour de nombreuses entreprises. Vous vous perdez rapidement dans votre propre chaos et personne dans votre entreprise ne sait toujours quand et si une facture a même été payée. Au final, c'est la liquidité de votre propre entreprise qui en pâtit. Cependant, il ne faut pas que cela aille aussi loin !
 
-Avec [SeaTable](https://seatable.io/fr/enregistrement/?lang=auto), vous avez enfin toutes les factures ou créances dues par vos clients en un coup d'œil et vous connaissez exactement le statut de chacune d'entre elles. SeaTable permet à votre service des comptes débiteurs de gérer les créances de manière optimale et efficace. En outre, les informations peuvent être facilement échangées entre les différents départements de votre entreprise. Ainsi, tout le monde peut travailler avec des informations identiques et correctes et vous, en tant qu'entrepreneur, pouvez à nouveau dormir plus tranquillement.
+Avec [SeaTable]({{< relref "pages/registration" >}}?lang=auto), vous avez enfin toutes les factures ou créances dues par vos clients en un coup d'œil et vous connaissez exactement le statut de chacune d'entre elles. SeaTable permet à votre service des comptes débiteurs de gérer les créances de manière optimale et efficace. En outre, les informations peuvent être facilement échangées entre les différents départements de votre entreprise. Ainsi, tout le monde peut travailler avec des informations identiques et correctes et vous, en tant qu'entrepreneur, pouvez à nouveau dormir plus tranquillement.
 
 [Cliquez ici pour accéder directement à notre modèle "CRM-Comptabilité clients".]({{< relref "templates/sales/crm-accounts-receivable" >}})
 
@@ -54,13 +54,13 @@ Le scoring est un examen détaillé du client. Les paiements passés sont réper
 
 ## Comment gérer efficacement vos comptes débiteurs dans SeaTable
 
-Dans notre dernier article,["CRM : de l'entrée du client au devis](https://seatable.io/fr/crm-angebotsmanagement/)", nous vous avons montré comment vous pouvez créer votre propre système CRM dans SeaTable en un rien de temps. Dans cet article ou modèle, nous faisons suite à l'article mentionné ci-dessus et vous montrons comment cartographier efficacement vos comptes clients dans SeaTable. Jusqu'à présent, tout tournait autour de la base de clients, du portefeuille de produits et de la création de devis. Nous passons maintenant du devis à la facturation. Ainsi, en plus des feuilles de calcul "Données clients", "Équipe de vente", "Offres" et "Catalogue de produits", vous trouverez également la nouvelle feuille de calcul "Factures" dans le modèle actuel.
+Dans notre dernier article,["CRM : de l'entrée du client au devis]({{< relref "posts/crm-angebotsmanagement" >}})", nous vous avons montré comment vous pouvez créer votre propre système CRM dans SeaTable en un rien de temps. Dans cet article ou modèle, nous faisons suite à l'article mentionné ci-dessus et vous montrons comment cartographier efficacement vos comptes clients dans SeaTable. Jusqu'à présent, tout tournait autour de la base de clients, du portefeuille de produits et de la création de devis. Nous passons maintenant du devis à la facturation. Ainsi, en plus des feuilles de calcul "Données clients", "Équipe de vente", "Offres" et "Catalogue de produits", vous trouverez également la nouvelle feuille de calcul "Factures" dans le modèle actuel.
 
 ### **De l'offre à la commande de la facture**
 
 La feuille de calcul "Offers" a été complétée par trois nouvelles [colonnes](https://seatable.io/fr/docs/handbuch/datenmanagement/feld-typen/?lang=auto): "Accounting Department", "Payment Status" et "Invoices". Si votre client a accepté votre offre et souhaite acheter la marchandise ou le service, vous avez maintenant la possibilité d'informer le service comptable de l'établissement d'une facture en cliquant sur le bouton "Please create Invoice". Toutes les données importantes relatives à l'offre acceptée sont directement transférées sous forme de nouvelle ligne dans la feuille de calcul "Invoices". Pour ce faire, un script est exécuté en arrière-plan qui, d'une part, écrit les données directement dans le tableau "Invoices" et, d'autre part, assure un lien avec les feuilles de calcul "Invoices", "Offers" et "Customer data".
 
-![Comptes débiteurs - Offre](images/Ansicht_Offers.png)
+![Comptes débiteurs - Offre](Ansicht_Offers.png)
 
 Aperçu de la page d'offre dans SeaTable
 
@@ -70,13 +70,13 @@ Vous pouvez ensuite consulter l'état réel du paiement dans la [colonne](https:
 
 Comme nous l'avons déjà mentionné, toutes les informations importantes concernant l'offre acceptée par le client sont transférées directement dans la feuille de calcul "Factures". Ainsi, toutes les données telles que le numéro de l'offre, le nom du client, le numéro de client, la personne de contact, la rue et le numéro de maison, le code postal, la ville, le pays et toutes les informations sur les produits avec le nom du produit, le prix unitaire, la quantité et le montant total sont automatiquement transférées. Il ne reste plus à votre service comptable qu'à appuyer sur le bouton "Créer une facture" dans la colonne "Facture".
 
-![Comptes clients - Factures](images/Ansicht_Invoices.png)
+![Comptes clients - Factures](Ansicht_Invoices.png)
 
 Toutes les demandes en un coup d'œil
 
 Le plug-in "Conception de la page" s'ouvre automatiquement et remplit toutes les informations importantes. Vous pouvez ensuite facilement enregistrer la facture sous forme de fichier PDF et la stocker dans la colonne "Fichiers" ou l'imprimer et l'envoyer à votre client par courrier électronique ou par lettre. Bien entendu, vous pouvez adapter ou compléter le modèle de page prédéfini selon vos souhaits en quelques minutes seulement.
 
-![Comptes débiteurs - Facture](images/PageDesign_Invoice.png)
+![Comptes débiteurs - Facture](PageDesign_Invoice.png)
 
 Votre facture terminée dans le plug-in de conception de pages
 
@@ -84,19 +84,19 @@ Votre facture terminée dans le plug-in de conception de pages
 
 Pour que toutes les personnes concernées, en plus de la comptabilité clients proprement dite dans votre entreprise, sachent si un client paie ses factures ou non, vous disposez de la colonne "Payment Status". Si une offre est acceptée par le client et qu'une facture est générée, le statut de paiement est automatiquement modifié en "En attente". Dès qu'une entrée de paiement a lieu, votre comptabilité clients peut modifier la colonne Single Select "Payment Status" en "Paid" et saisir la date de l'entrée de paiement sous "Date of Payment". Grâce à la [fonction de regroupement](https://seatable.io/fr/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) et aux différentes [vues](https://seatable.io/fr/docs/handbuch/datenmanagement/ansichten/?lang=auto) par "Payment Status", on obtient la meilleure vue possible de tous les états de paiement actuels. En outre, vous trouverez désormais dans le plug-in Kanban le "Invoice Status", afin de ne perdre de vue aucun statut de paiement.
 
-![Comptes débiteurs - Paiements](images/Ansicht_Invoices_Status.png)
+![Comptes débiteurs - Paiements](Ansicht_Invoices_Status.png)
 
 Les différents statuts de paiement
 
 L'autre avantage de l'état des paiements est que chaque état affecte également la fiche de votre client actuel dans la feuille de calcul "Données client". Cela signifie que si un client paie toutes ses factures ou est "en attente", la ligne en question est marquée en vert. Si le client n'a pas payé sa facture pour quelque raison que ce soit, la couleur de la ligne passe au rouge et chaque employé sait que ce client est en cours de relance et qu'il ne doit pas recevoir de produits ou de services jusqu'à nouvel ordre.
 
-![](images/Customer-data.jpg)
+![](Customer-data.jpg)
 
 ### **Communiquez le statut du paiement à vos clients en un seul clic.**
 
 Pour que votre service de comptabilité clients puisse également informer vos clients de la réception d'un paiement ou d'un retard de paiement, les deux boutons "Réception du paiement" et "Info relance" sont disponibles dans SeaTable. En un seul clic sur le bouton correspondant, un courriel est automatiquement envoyé à l'adresse électronique de contact figurant dans la colonne "Adresse électronique". Dans cet e-mail, des informations telles que le numéro de la facture ou le montant sont automatiquement ajoutées. Bien entendu, vous pouvez facilement personnaliser le message adressé à vos clients sur les statuts de paiement respectifs comme vous le souhaitez.
 
-![Comptes clients - Informations sur les clients](images/Email.png)
+![Comptes clients - Informations sur les clients](Email.png)
 
 Envoyez les informations de paiement à vos clients directement depuis SeaTable
 

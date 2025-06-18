@@ -14,7 +14,7 @@ Na vida quotidiana agitada, ir ao supermercado pode tornar-se um verdadeiro desa
 
 No entanto, a questão mantém-se: que lista de compras digital/aplicação é a melhor escolha para satisfazer as suas necessidades individuais? Neste artigo, analisamos em pormenor sete aplicações promissoras concebidas para facilitar as compras.
 
-![Carrinho de compras cheio num supermercado.](images/einkaufswagen-voller-produkte-in-einem-supermarkt-711x474.jpg)
+![Carrinho de compras cheio num supermercado.](einkaufswagen-voller-produkte-in-einem-supermarkt-711x474.jpg)
 
 Com a organização certa, as compras são livres de stress.
 
@@ -26,7 +26,7 @@ Há boas razões para manter listas em todas as áreas da vida - e as compras n�
 - Poupar **tempo**: Se planear as suas compras antecipadamente com uma lista de compras, terá sempre à mão todos os alimentos necessários para as suas receitas favoritas, sem se esquecer de nada. Isto poupa-lhe muito tempo, porque as idas duplas ao supermercado são uma coisa do passado.
 - **Minimizar o desperdício de alimentos**: De acordo com o [Ministério Federal da Alimentação e Agricultura](https://www.bmel.de/DE/themen/ernaehrung/lebensmittelverschwendung/studie-lebensmittelabfaelle-deutschland.html), cada consumidor deita fora cerca de 78 quilos de alimentos por ano. Talvez também deite fora regularmente alimentos estragados ou fora do prazo de validade. Se, no futuro, comprar apenas o que realmente precisa, também terá de deitar menos fora. Ao planear as suas compras de forma sensata e ao [abastecer-se](https://seatable.io/pt/notvorrat-anlegen/) adequadamente, não só está a ajudar-se a si próprio, como também ao ambiente.
 
-![Proporção de alimentos que os alemães deitam fora ](images/Lebensmittelverschwendung_B_EInkaufsliste-711x889.png)
+![Proporção de alimentos que os alemães deitam fora ](Lebensmittelverschwendung_B_EInkaufsliste-711x889.png)
 
 Os alemães são os que mais deitam fora fruta e legumes.
 
@@ -54,7 +54,7 @@ Quer se trate de gerir e ordenar **categorias de alimentos** ou das suas **recei
 
 - Não há desvantagens relevantes disponíveis
 
-![A aplicação "Lista de compras ](images/Die-Einkaufsliste-711x971.jpg)
+![A aplicação "Lista de compras ](Die-Einkaufsliste-711x971.jpg)
 
 Este é o aspeto da "lista de compras".
 
@@ -76,7 +76,7 @@ Na aplicação, também pode enviar **mensagens predefinidas** aos colegas de ca
 
 - Não há desvantagens relevantes disponíveis
 
-![A aplicação de lista de compras "Traz!"](images/Bring-711x1022.jpg)
+![A aplicação de lista de compras "Traz!"](Bring-711x1022.jpg)
 
 A aplicação de lista de compras "Traz!"
 
@@ -97,7 +97,7 @@ Além disso, são **analisadas** não só as preferências e os hábitos do util
 
 - Ausência de ícones dos produtos
 
-![A utilização de Pon](images/Pon-711x1057.jpg)
+![A utilização de Pon](Pon-711x1057.jpg)
 
 A lista de compras em "pon"
 
@@ -119,7 +119,7 @@ Se guardar as suas **receitas** na aplicação, pode adicionar os ingredientes e
 - Sem ofertas
 - O número ilimitado de listas e modelos está sujeito a um custo
 
-![A aplicação "ToBuy](images/ToBuy-711x1086.jpg)
+![A aplicação "ToBuy](ToBuy-711x1086.jpg)
 
 A aplicação "ToBuy" em modo escuro
 
@@ -140,7 +140,7 @@ Embora aqui sejam possíveis **vários agrupamentos** e **ordenações personali
 - Sem ofertas
 - Sem funcionalidades inteligentes
 
-![A aplicação de lista de compras "WeNeed"](images/WeNeed-711x1083.jpg)
+![A aplicação de lista de compras "WeNeed"](WeNeed-711x1083.jpg)
 
 A aplicação "WeNeed
 

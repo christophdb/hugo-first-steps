@@ -123,11 +123,11 @@ Como casi nadie puede recordar más de diez contraseñas diferentes, existen **b
 
 Otro software de base de datos que te permite gestionar tu patrimonio digital de forma clara, flexible y segura se llama **SeaTable**. Con él, no solo puedes almacenar todas tus cuentas, nombres de usuario y contraseñas, sino también toda la información adicional que desees.
 
-![Gestor de contraseñas](images/Screenshot-2023-10-31-132220.png)
+![Gestor de contraseñas](Screenshot-2023-10-31-132220.png)
 
 Utilice un gestor de contraseñas para documentar su patrimonio digital.
 
-Si desea utilizar el gestor de contraseñas de SeaTable para su patrimonio digital, puede [ver la plantilla aquí]({{< relref "templates/everyday-life/password-manager" >}}). Si está interesado, solo tiene que [registrarse](https://seatable.io/es/registrierung/) gratuitamente y crear una visión general con sus propios datos.
+Si desea utilizar el gestor de contraseñas de SeaTable para su patrimonio digital, puede [ver la plantilla aquí]({{< relref "templates/everyday-life/password-manager" >}}). Si está interesado, solo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente y crear una visión general con sus propios datos.
 
 ## Conclusión: el patrimonio digital es más importante que nunca
 

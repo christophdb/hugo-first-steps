@@ -20,7 +20,7 @@ Le type de colonne Durée est idéal pour ceux qui utilisent SeaTable pour organ
 
 Le type de colonne enregistre toutes les entrées en secondes, mais présente les entrées dans les formats conviviaux h:mm:ss et h:mm. Vous avez également le choix de saisir les durées soit en notation séparée par deux points, soit sous forme de chiffres. SeaTable convertit automatiquement toute entrée numérique dans le format souhaité. Les nombres entiers et décimaux sont également pris en charge. La façon dont l'entrée numérique est interprétée dépend du format sélectionné. Si le format h:mm:ss est sélectionné, le nombre saisi est interprété comme des secondes ; dans le cas h:mm, comme des minutes. (Exemple : L'entrée 235 est convertie en 0:03:55 si la colonne utilise le format h:mm:ss. La même entrée donne 3:55 dans une cellule au format h:mm).
 
-![Nouveau type de colonne Durée](images/Column_Type_Duration.jpg)
+![Nouveau type de colonne Durée](Column_Type_Duration.jpg)
 
 Et ce n'est pas tout ! Nous avons également étendu les options de format de la colonne de formule afin que les résultats numériques puissent être affichés sous forme de durées au format h:mm ou h:mm:ss.
 
@@ -28,7 +28,7 @@ Et ce n'est pas tout ! Nous avons également étendu les options de format de la
 
 Le nouveau type de colonne E-mail permet de stocker les adresses électroniques. Un clic sur une cellule remplie ouvre automatiquement l'application Mail et copie l'adresse dans la ligne À :. Vous pouvez donc passer directement à la composition de l'e-mail. Les cellules de la colonne Email se comportent de manière très similaire à celles de la colonne Type d'URL introduite dans [SeaTable 1.4.]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})
 
-![Colonne de type email dans le formulaire web](images/Column_Type_Email_Form.jpg)
+![Colonne de type email dans le formulaire web](Column_Type_Email_Form.jpg)
 
 La véritable force de la colonne de courrier électronique apparaît dans les formulaires web. Grâce à la validation intégrée dans le champ e-mail, il est possible de s'assurer qu'une entrée correspond à une adresse e-mail valide. Les fautes d'orthographe accidentelles qui rendent une adresse électronique inutilisable ne sont plus possibles.
 
@@ -36,7 +36,7 @@ La véritable force de la colonne de courrier électronique apparaît dans les f
 
 SeaTable 1.6 introduit cinq nouvelles fonctions : date(), datedif(), eomonth(), months() et ifs(). Les quatre premières simplifient et améliorent l'organisation et la gestion des dates dans SeaTable. La fonction date() calcule pour une date le nombre correspondant à la date dans le format date-heure de Microsoft Excel. datedif(), abréviation de date difference, calcule la différence entre deux dates. eomonth(), abréviation de end of month, détermine le dernier jour du mois spécifié dans la date. En option, des mois peuvent être ajoutés. months() détermine le nombre de mois complets entre deux dates. ifs() vérifie plusieurs conditions.
 
-![Assistant de formule amélioré](images/Improved_Formula_Wizard.jpg)
+![Assistant de formule amélioré](Improved_Formula_Wizard.jpg)
 
 Nous avons encore amélioré la fonctionnalité de l'assistant en permettant aux formules de prendre en compte les colonnes de formule d'autres tableaux. Concrètement : une formule du tableau B peut contenir une colonne de formule du tableau A. Auparavant, seules les colonnes non calculées provenant d'autres tables pouvaient être utilisées.
 
@@ -50,7 +50,7 @@ SeaTable n'est pas seulement un outil formidable pour saisir des données struct
 
 Avec SeaTable 1.6, il est désormais possible d'accéder à ce backend de stockage via l'interface web. Vous pouvez naviguer dans les fichiers stockés et supprimer des objets de la mémoire. Pour cela, il suffit de passer le curseur de la souris sur une base dans la bibliothèque des bases, puis de cliquer sur l'icône à trois points pour les options avancées et enfin de sélectionner "Gestion des pièces jointes" sous "Avancé". Les images et les fichiers sont enregistrés dans des dossiers séparés appelés Images et Files.
 
-![Gestion des actifs dans SeaTable 1.6](images/Asset_Management.jpg)
+![Gestion des actifs dans SeaTable 1.6](Asset_Management.jpg)
 
 Et ce ne sont pas seulement les pièces jointes qui peuvent être mieux gérées avec SeaTable 1.6. Les utilisateurs peuvent maintenant aussi accéder à la corbeille, où SeaTable stocke les bases supprimées avant qu'elles ne soient retirées du système après 30 jours. Si une base est accidentellement supprimée ou si l'utilisateur change d'avis, la base peut être restaurée à partir de là, y compris tous les instantanés.
 
@@ -60,6 +60,6 @@ SeaTable 1.6 offre de nombreuses autres améliorations. Un grand nombre d'entre 
 
 En ce qui concerne l'interface utilisateur, nous avons transformé le plugin Galerie en un design non modal. Il en va de même pour le menu permettant de renommer une vue. Cela suit notre volonté générale de réduire le nombre de modaux. Nous avons également éliminé une lacune de la fonction de recherche. Désormais, lorsque vous appuyez sur CTRL + F, le curseur se déplace toujours vers la ligne de recherche. Dans l'éditeur de formulaires, nous avons déplacé les champs de saisie des remarques dans le formulaire. Cela facilite l'écriture de notes plus longues et rend l'éditeur fondamentalement plus WYSIWYG. En ce qui concerne la convivialité, nous avons ajouté une fonctionnalité pratique à la fonction d'auto-remplissage : SeaTable reconnaît désormais les modèles numériques dans les chaînes alphanumériques et les prend en compte lors de l'auto-remplissage. La nouvelle fonctionnalité 'code intégré' facilite l'intégration des bases SeaTable dans les pages web.
 
-![Plugin Galerie non-modale](images/Non-modal_Gallery.jpg)
+![Plugin Galerie non-modale](Non-modal_Gallery.jpg)
 
 Deux problèmes connus de l'aperçu avant impression ont également été éliminés : Le fait de masquer une colonne dans la vue tableau ne supprimait pas les colonnes de la vue détaillée de la ligne et donc de l'aperçu avant impression. Un problème similaire se posait lors de l'impression de données groupées. Dans l'aperçu avant impression, les noms des groupes n'étaient pas affichés si des colonnes de sélection ou de liaison uniques ou multiples étaient utilisées pour le regroupement. Avec SeaTable 1.6, ces deux problèmes font partie du passé.

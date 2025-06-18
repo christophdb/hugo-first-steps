@@ -53,7 +53,7 @@ Sammeln Sie ganz einfach alle Daten an einem Ort: Mit SeaTable. [Unser Template 
 
 Um jedem Mitarbeiter einen umfassenden Blick über das Produkt zu geben, ist ein Standard-Übersichtsblatt sinnvoll. Hier sind die wichtigsten Produktinformationen aufgelistet, wie etwa Produktreihe, Produkttyp, der offizielle Produktname für den Handel, Artikelnummer, Preise und dazugehörige Produktbilder. Insbesondere für Fachfremde ist eine Kurzübersicht besonders wertvoll. Mit den verschiedenen Ansichten in SeaTable können die Daten mit wenigen Klicks zum Beispiel nach Produktreihe oder Produkttyp [gefiltert und gespeichert](https://seatable.io/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) werden und lästiges manuelles Sortieren fällt weg.
 
-![In dieser Ansicht haben Sie alle Produkte sofort im Blick - perfekt für das Produktmanagement](images/Range-View_2.jpg)
+![In dieser Ansicht haben Sie alle Produkte sofort im Blick - perfekt für das Produktmanagement](Range-View_2.jpg)
 
 Die Produktübersicht gibt dem Produktmanagement Struktur
 
@@ -61,7 +61,7 @@ Die Produktübersicht gibt dem Produktmanagement Struktur
 
 Manchmal reicht eine Produktübersicht nicht aus und es muss ein wenig spezifischer werden. Ganz spezielle Produktinformationen wie zum Beispiel eine besondere Beschichtung, Material und Materialstärke oder andere Daten, die die Produktübersicht unübersichtlich machen würden. SeaTable ist ideal dafür geeignet, Produktspezifika für Mitarbeiter zu sammeln und damit den Produktentwicklungsprozess zu optimieren. Die genaue Farbbeschreibung beim Lieferanten ist genau so wichtig, wie die Materialbeschaffenheit und hilft beispielsweise neuen Mitarbeitern dabei, sofort ins Tagesgeschäft einsteigen zu können. Verschiedene Ansichten geben auch hier zusätzliche Unterstützung.
 
-![Sie benötigen Produktdetails? Kein Problem mit SeaTable. So geht Ihnen das Produktmanagement leicht von der Hand](images/Product-Data_1.jpg)
+![Sie benötigen Produktdetails? Kein Problem mit SeaTable. So geht Ihnen das Produktmanagement leicht von der Hand](Product-Data_1.jpg)
 
 Im Produktdatenblatt finden Sie alle wichtigen Informationen rund um das Produkt
 
@@ -69,7 +69,7 @@ Im Produktdatenblatt finden Sie alle wichtigen Informationen rund um das Produkt
 
 Im Produktentwicklungsprozess durchläuft das Produkt eine ganze Reihe an verschiedenen Abteilungen durch. [Marketing](https://seatable.io/marketing/), Vertrieb, Produktionsstätte, Fotografie und auch der Handel sind wichtige alltägliche Kontaktpunkte in der Arbeit eines Produktmanagers. Praktisch ist es dann, wenn alle Kontaktdaten an einem Ort gesammelt und so für jeden zugänglich sind. Für die Urlaubsvertretung ist dies genau so hilfreich wie für die neue Auszubildende! Zudem können auch Informationen hinzugefügt werden, wie etwa Gesprächsprotokolle, wichtige Dokumente oder bevorstehende Telefontermine. Mit SeaTable ist das Erstellen eines Adressbuchs innerhalb einer Tabelle absolut kein Problem.
 
-![Kontaktdaten von Lieferanten und Kunden sind sehr wichtig für ein reibungsloses Produktmanagement](images/Suppliers-and-Contacts.jpg)
+![Kontaktdaten von Lieferanten und Kunden sind sehr wichtig für ein reibungsloses Produktmanagement](Suppliers-and-Contacts.jpg)
 
 Notieren Sie alle wichtigen Kontaktdaten Ihrer Lieferanten und Kunden
 
@@ -77,11 +77,11 @@ Notieren Sie alle wichtigen Kontaktdaten Ihrer Lieferanten und Kunden
 
 Im Produktmanagement sind die Umsätze ein wichtiges Kontrollinstrument, um den Erfolg von Maßnahmen und Strategien abzuschätzen. Gibt es vielleicht einen Store, der überhaupt nicht gut läuft? Müssen Produkte neu präsentiert oder das Sortiment anders aufgebaut werden? Die Verkaufszahlen sind extrem wichtige Kennzahlen für Unternehmen, aus denen sie wertvolle Informationen ziehen können. Sind die Umsätze gut, so zeugt dies von einem guten Produktmanagement und dass die festgesetzten Ziele erreicht wurden. Falls es Verbesserungsbedarf gibt, können die Umsatzzahlen auch darüber Aufschluss geben. Sind bei den Verkaufszahlen sogar demographische Daten hinterlegt, die beispielsweise durch den Online-Handel gesammelt werden können, kann die Zielgruppenanalyse dadurch bedeutsam optimiert werden – etwa durch die Bildung von [Personas](https://www.reachx.de/6-punkte-anleitung-zur-erstellung-individueller-personas/) oder das Anpassen der Marketingstrategie an bestimmte Zielgruppensegmente.
 
-![Im Produktmanagement spielen auch Verkaufszahlen eine wichtige Rolle. Mit SeaTable verlieren Sie nichts aus den Augen](images/Sales_1.jpg)
+![Im Produktmanagement spielen auch Verkaufszahlen eine wichtige Rolle. Mit SeaTable verlieren Sie nichts aus den Augen](Sales_1.jpg)
 
 Sortieren Sie Verkaufszahlen nach Regionen
 
-![Einfache Statistiken erleichtern Ihr Produktmanagement](images/Statistics-1.jpg)
+![Einfache Statistiken erleichtern Ihr Produktmanagement](Statistics-1.jpg)
 
 Statistiken geben wertvolle Informationen über die Verkaufszahlen Ihres Produkts
 

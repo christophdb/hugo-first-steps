@@ -101,6 +101,6 @@ Natürlich darf auch Wasser zum Waschen nicht fehlen. Um dieses länger haltbar 
 
 Damit Sie auf die nächste Notsituation ideal vorbereitet sind, hat das Team von SeaTable Ihnen eine Vorlage für Ihren Notvorrat erstellt. Diese können Sie nach Belieben an Ihre Bedürfnisse anpassen.
 
-![Vorlage für Ihren Notvorrat](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
+![Vorlage für Ihren Notvorrat](Vorlage-fuer-Ihren-Notvorrat-1.png)
 
 Wenn Sie SeaTable zur Vorratshaltung nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/everyday-life/shopping-list" >}}).

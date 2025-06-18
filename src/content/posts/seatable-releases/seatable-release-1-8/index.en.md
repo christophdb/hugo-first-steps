@@ -17,7 +17,7 @@ We have deployed SeaTable 1.8 on [SeaTable Cloud](https://cloud.seatable.io) tod
 
 Literally, SeaTable's new height adjustable rows are its most obvious new features. Four row heights are available: Single, double, triple, and quadruple. The inflated rows make room to show larger picture thumbnails and provide more space to display the content in long-text columns. Specifically, the double row height can hold two lines of text, the triple row height can hold 4, and the quadruple row height holds 6 lines.
 
-![Row height is adjustable in SeaTable 1.8](images/SeaTable1.8_CustomizableRowHeight_1498x646.png)
+![Row height is adjustable in SeaTable 1.8](SeaTable1.8_CustomizableRowHeight_1498x646.png)
 
 The old (single) row height is the new default row height. When opening a new base or creating a new table, this will be applied. The row height setting is hidden behind the new icon in the view toolbar, to the right of the formatting options. Try it and find out which row height fits best for your application!
 
@@ -25,7 +25,7 @@ The old (single) row height is the new default row height. When opening a new ba
 
 The new column type "Button" is the odd man out among the nearly two dozen column types in SeaTable. (Spoiler: We'll fill up the two dozen column types very soon. Be curious!) You don't store any information in a column of the Switch Area type; you use the Button column to automate actions. With the introduction of the new column type in this release, you can run a script by button. Very soon, you will also be able to send emails (more below) and chat messages with one click. Over the course of 2021, we will gradually add more actions that can be triggered by a button.
 
-![New column type: Button](images/SeaTable1.8_ColumnType_Button_1500x708.png)
+![New column type: Button](SeaTable1.8_ColumnType_Button_1500x708.png)
 
 When creating a button column, the button's look and purpose is specified. This includes the button's label, its color, and its action. Have a look at the [SeaTable Script Manual](https://seatable.github.io/seatable-scripts/) , if you want to write your own scripts.
 
@@ -33,7 +33,7 @@ When creating a button column, the button's look and purpose is specified. This 
 
 Imagine you are head of sales and you want your product managers to update the product information in your product catalog. Until today, you'd have to grant them access to the product catalog base (or a view) and ask them to verify its up-to-dateness. This may end up being a lot of work as you define individual views and share them with individual team members. With SeaTable 1.8, there is a better way! We introduce: The data collection form.
 
-![Save mail account credentials in SeaTable](images/SeaTable1.8_MailAccount_1500x495.png)
+![Save mail account credentials in SeaTable](SeaTable1.8_MailAccount_1500x495.png)
 
 The data collection form is a tabular view of a base that contains only the rows the current user has created. If the current user is the creator of no row in the underlying base, the data collection form is empty. Hence, the user can only create new records, not edit existing ones. Data collection forms are the tool of choice when it comes to bulk updates involving many people, because the data collection form does not require the user to have a sharing permission for the base. The user only needs to have a SeaTable user account.
 
@@ -49,7 +49,7 @@ You create an external link for a view using the context menu of a view. Click o
 
 Talking about extending existing sharing features, SeaTable 1.8 also has one entirely new sharing feature: SeaTable can send emails! Users can save SMTP credentials of one or more email accounts in a base and then employ these mail accounts using the base.sendMail() method in Python and JS scripts.
 
-![SeaTable 1.8 presents: Data collection form](images/SeaTable1.8_DataCollectionTable_1500x495.png)
+![SeaTable 1.8 presents: Data collection form](SeaTable1.8_DataCollectionTable_1500x495.png)
 
 The mail accounts are saved in the backend database and encrypted with symmetrical tokens. In one of the next releases, we'll amend the function with a connection test function. Similarly, we'll provide an option to use the email accounts in combination with the new button column.
 

@@ -26,7 +26,7 @@ Copy the templates, adapt them to your needs or use the table structures and con
 
 ## Manage all your properties clearly in one software
 
-![Real estate management with SeaTable](images/seatable-property-management.png)
+![Real estate management with SeaTable](seatable-property-management.png)
 
 Property management with SeaTable
 
@@ -36,7 +36,7 @@ In our [template for managing your properties]({{< relref "templates/real-estate
 
 ## Keep your properties in order and coordinate janitor services
 
-![Coordinate janitorial services to maintain properties](images/hausmeisterdienste-seatable.png)
+![Coordinate janitorial services to maintain properties](hausmeisterdienste-seatable.png)
 
 Coordinate caretaker services with SeaTable
 
@@ -48,7 +48,7 @@ If you want, you can even email the person who reported the repair need to infor
 
 ## Leave nothing to chance in your next flat search
 
-![Flat search with SeaTable](images/wohnungssuche-seatable-vorlage-immobilien.png)
+![Flat search with SeaTable](wohnungssuche-seatable-vorlage-immobilien.png)
 
 Flat hunting with SeaTable - Leave nothing to chance.
 
@@ -58,7 +58,7 @@ With our [apartment search template]({{< relref "templates/real-estate/apartment
 
 ## Start planning your next move
 
-![Your next move will be a breeze with SeaTable](images/umzugsliste-seatable-immobilien.png)
+![Your next move will be a breeze with SeaTable](umzugsliste-seatable-immobilien.png)
 
 Your next move planning will be a breeze with SeaTable.
 

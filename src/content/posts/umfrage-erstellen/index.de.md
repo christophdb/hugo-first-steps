@@ -16,7 +16,7 @@ Möchten Sie herausfinden, was die Bedürfnisse Ihrer Zielgruppe sind oder wie S
 
 Der nachfolgende Artikel beleuchtet die Vorzüge und wichtige Kriterien für das Erstellen von Online-Umfragen und führt einen Vergleich von sieben vielversprechenden Tools durch.
 
-![Umfrage erstellen: Laptop mit Feedbackergebnissen](images/feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
+![Umfrage erstellen: Laptop mit Feedbackergebnissen](feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
 
 Zur Datenerhebung erweist sich die Online-Umfrage als ein äußerst effizientes Werkzeug.
 
@@ -34,7 +34,7 @@ Ein entscheidender Vorteil davon, online Umfragen zu erstellen, ist die Möglich
 
 Damit Sie gute Ergebnisse erzielen, ist es besonders wichtig, dass Sie Ihre Fragen sorgfältig formulieren, wenn Sie eine Umfrage erstellen. Schlecht formulierte Fragen können zu ungenauen oder verzerrten Antworten führen, was die **Gültigkeit** Ihrer Daten beeinträchtigen kann. Dies wäre bedauerlich, insbesondere wenn Sie viel Zeit und Mühe in die Umfrage investiert haben. Um solche Probleme zu vermeiden, hat Rolf Porst [zehn Grundsätze](https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/howto/how-to2rp.pdf) formuliert, die Sie bei der Formulierung von Umfragen unbedingt berücksichtigen sollten.
 
-![Checkliste zu den 10 Grundsätzen der Frageformulierung.](images/Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
+![Checkliste zu den 10 Grundsätzen der Frageformulierung.](Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
 
 Die 10 Gebote der Frageformulierung nach Rolf Porst.
 
@@ -48,7 +48,7 @@ Sorgen Sie für **Abwechslung** in Ihrer Umfrage, um das Interesse Ihrer Teilneh
 
 Auch nach Abschluss der Umfrage ist es wichtig, **Wertschätzung** zu zeigen. Die Teilnehmer haben ihre wertvolle Zeit investiert, um Ihnen zu helfen, und verdienen daher Anerkennung. Eine kurze Dankesnachricht am Ende der Umfrage kann dazu beitragen, dass sich die Teilnehmer geschätzt fühlen und bereit sind, in Zukunft erneut an Umfragen teilzunehmen.
 
-![Umfrage erstellen: Frau lacht in Kamera](images/pexels-andrea-piacquadio-3769021-711x474.jpg)
+![Umfrage erstellen: Frau lacht in Kamera](pexels-andrea-piacquadio-3769021-711x474.jpg)
 
 Mit einer gut konzipierten Umfrage verhindern Sie eine hohe Abbruchrate.
 
@@ -140,11 +140,11 @@ Ein besonderes Merkmal dieses Tools ist die Möglichkeit, die Fragen beispielswe
 
 ### SeaTable
 
-Die [Webformulare](https://seatable.io/docs/webformulare/webformulare/) von **SeaTable** ermöglichen Umfragen, bei denen die erhobenen Daten automatisch in einer Tabelle mit Datenbank-Backend gespeichert werden. Dadurch lassen sich die Daten hervorragend miteinander in Beziehung setzen. Für die Analyse und Aufbereitung der Umfrageergebnisse stehen verschiedene [Statistiken](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/) zur Verfügung, alle Daten können übersichtlich gefiltert, sortiert und gruppiert sowie mit grafischen [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) dargestellt werden. Darüber hinaus erlaubt SeaTable den Export der Daten für weitere Analysen oder Berichte.
+Die [Webformulare]({{< relref "help/base-editor/webformulare" >}}) von **SeaTable** ermöglichen Umfragen, bei denen die erhobenen Daten automatisch in einer Tabelle mit Datenbank-Backend gespeichert werden. Dadurch lassen sich die Daten hervorragend miteinander in Beziehung setzen. Für die Analyse und Aufbereitung der Umfrageergebnisse stehen verschiedene [Statistiken](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/) zur Verfügung, alle Daten können übersichtlich gefiltert, sortiert und gruppiert sowie mit grafischen [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) dargestellt werden. Darüber hinaus erlaubt SeaTable den Export der Daten für weitere Analysen oder Berichte.
 
-Obwohl es beim Umfragen erstellen nicht den gleichen Umfang an Funktionen wie beispielsweise Surveymonkey hat, bietet es dank seiner individuellen Anpassungsmöglichkeiten und der intuitiven Bedienung viele praktische Anwendungen. Die Möglichkeit, verschiedene Datentypen zu erheben und die Ergebnisse [kollaborativ im Team](https://seatable.io/docs/seatable-nutzen/zusammenarbeit/) auszuwerten, macht SeaTable zu einem flexiblen Werkzeug für Umfragen und andere Projekte.
+Obwohl es beim Umfragen erstellen nicht den gleichen Umfang an Funktionen wie beispielsweise Surveymonkey hat, bietet es dank seiner individuellen Anpassungsmöglichkeiten und der intuitiven Bedienung viele praktische Anwendungen. Die Möglichkeit, verschiedene Datentypen zu erheben und die Ergebnisse [kollaborativ im Team]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) auszuwerten, macht SeaTable zu einem flexiblen Werkzeug für Umfragen und andere Projekte.
 
-In Bezug auf den Datenschutz erfüllt SeaTable alle Anforderungen der DSGVO und bietet zusätzliche Sicherheit, da die Daten ausschließlich in deutschen Rechenzentren gespeichert werden. Neben der Cloud-Version gibt es sogar die Option, [SeaTable auf dem eigenen Server zu installieren](https://seatable.io/on-premises/), um die volle Datenhoheit zu behalten.
+In Bezug auf den Datenschutz erfüllt SeaTable alle Anforderungen der DSGVO und bietet zusätzliche Sicherheit, da die Daten ausschließlich in deutschen Rechenzentren gespeichert werden. Neben der Cloud-Version gibt es sogar die Option, [SeaTable auf dem eigenen Server zu installieren]({{< relref "pages/product/seatable-server" >}}), um die volle Datenhoheit zu behalten.
 
 **Anwendungsbereich:** Umfragen  
 **Benutzerfreundlichkeit:** sehr gut  
@@ -155,7 +155,7 @@ In Bezug auf den Datenschutz erfüllt SeaTable alle Anforderungen der DSGVO und 
 
 Die Webformular-Funktion von SeaTable können Sie in vollem Umfang kostenlos nutzen. Lediglich die Anpassung des Designs erfordert ein Enterprise Abo für 14€ pro Monat.
 
-![Eine Umfrage zum Kundenfeedback als Beispiel](images/Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
+![Eine Umfrage zum Kundenfeedback als Beispiel](Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
 
 Beispiel einer Umfrage zum Kundenfeedback in SeaTable
 

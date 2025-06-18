@@ -55,7 +55,7 @@ Kommen wir nun zum internen Produktkatalog: Dieser dient als interne Information
 
 Damit ergibt sich ein sehr ausführlicher Produktkatalog, der es jedem Mitarbeiter ermöglicht, mit minimalem Aufwand maximalen Informations-Output zu erhalten. Ein voll ausgestatteter Katalog minimiert nämlich die Kommunikation mit zuständigen Einheiten, wie den Produktmanagern oder anderen Stellen, wenn zum Beispiel die genaue Bezeichnung der Produktbeschichtung fehlt.
 
-![](images/Product-Data_Overview.png)
+![](Product-Data_Overview.png)
 
 In unserem Beispiel haben wir direkt Berechnungen für die Marge angelegt, um zu beobachten, wie die einzelnen Produkte in der Herstellung performen. Das geht ganz leicht mit der [Formelspalte](https://seatable.io/docs/handbuch/seatable-nutzen/feld-typen/), mit der zuerst die Marge und dann die Marge in Prozent ausgerechnet wurden. So haben Produktmanager und Mitarbeiter auf einen Blick, wie es um die verschiedenen Produkte steht.
 

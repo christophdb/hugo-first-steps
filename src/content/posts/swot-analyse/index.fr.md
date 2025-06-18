@@ -78,7 +78,7 @@ Lorsque vous examinez les facteurs externes dans un exemple d'analyse SWOT, vous
 
 Choisissez également un [modèle d'analyse SWOT]({{< relref "templates/operations/swot-analysis" >}}) pour vous faciliter la tâche. L'analyse commence par le choix du bon outil, et vous devez en outre réfléchir à la composition de l'équipe adéquate.
 
-L'[inventaire](https://seatable.io/fr/inventarliste-vorlagen/) s'accompagne d'un investissement en temps important. Qui pouvez-vous libérer pour les réunions et les ateliers ? En outre, des compétences de différents départements sont nécessaires. **Quels sont les collègues qui ont un aperçu des forces, des faiblesses, des opportunités et des risques de votre entreprise et de son environnement ?** Dans l'idéal, vous devriez constituer une équipe de dix personnes.
+L'[inventaire]({{< relref "posts/inventarliste-erstellen" >}}) s'accompagne d'un investissement en temps important. Qui pouvez-vous libérer pour les réunions et les ateliers ? En outre, des compétences de différents départements sont nécessaires. **Quels sont les collègues qui ont un aperçu des forces, des faiblesses, des opportunités et des risques de votre entreprise et de son environnement ?** Dans l'idéal, vous devriez constituer une équipe de dix personnes.
 
 ![Une équipe parle d'un nouvel exemple d'analyse SWOT.](Swot-Analyse-Template_AdobeStock_284656559_bearbeitet-711x474.jpg)
 
@@ -105,7 +105,7 @@ Voici un bel **exemple d'analyse SWOT pour les entreprises**:
 
 ## Voici comment fonctionne le modèle d'analyse SWOT de SeaTable
 
-Vous souhaitez utiliser le modèle de SeaTable pour effectuer votre analyse ? Alors [inscrivez-vous](https://seatable.io/fr/enregistrement/) en un clin d'œil sur notre site. Dans la bibliothèque, vous trouverez le **modèle gratuit** dans lequel l'analyse SWOT est expliquée simplement et remplie avec des exemples de données. Cliquez sur Utiliser le modèle et commencez votre analyse.
+Vous souhaitez utiliser le modèle de SeaTable pour effectuer votre analyse ? Alors [inscrivez-vous]({{< relref "pages/registration" >}}) en un clin d'œil sur notre site. Dans la bibliothèque, vous trouverez le **modèle gratuit** dans lequel l'analyse SWOT est expliquée simplement et remplie avec des exemples de données. Cliquez sur Utiliser le modèle et commencez votre analyse.
 
 Dans le premier tableau, vous trouverez des exemples d'entrées classées selon les quatre catégories SWOT correspondantes. Dans la première colonne, vous inscrivez le facteur avant de déterminer son origine (interne ou externe) et de le classer dans les différentes catégories.
 

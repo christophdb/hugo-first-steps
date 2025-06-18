@@ -13,7 +13,7 @@ La **recaudación de fondos** es algo más que una estrategia de financiación: 
 
 En este artículo, echamos un vistazo exhaustivo al tema de la recaudación de fondos y destacamos varios **métodos** que puede utilizar para entusiasmar a la gente con sus ideas y fomentar las donaciones. Para ayudarte a perseguir de forma coherente tu objetivo de recaudación de fondos, recaudar donativos y emitir un recibo de donativos, por fin tendrás la oportunidad de probar un **software gratuito de gestión de donativos**.
 
-![La palabra recaudación de fondos está escrita en un cuadernillo con figuras de palitos](images/charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
+![La palabra recaudación de fondos está escrita en un cuadernillo con figuras de palitos](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
 Una recaudación de fondos bien planificada puede ayudar a una organización a alcanzar sus objetivos.
 
@@ -31,7 +31,7 @@ Es importante que facilite información detallada, incluida la **cantidad** conc
 
 {{< warning headline="Consejo" text="Un método de probada eficacia es enviar **cartas de donación**. Estas cartas le permiten comunicar su mensaje de forma clara y eficaz y dirigirse a los donantes potenciales a nivel personal." />}}
 
-![Jarra con monedas, de la que crece una pequeña planta](images/micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
+![Jarra con monedas, de la que crece una pequeña planta](micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 
 La recaudación de fondos requiere creatividad para atraer la atención de la gente.
 
@@ -43,7 +43,7 @@ Por el contrario, **el crowdfunding** suele establecer un periodo de tiempo espe
 
 El siguiente diagrama ofrece un breve resumen de las principales diferencias.
 
-![Diferencias entre captación de fondos y crowdfunding](images/Crowdfunding-vs.-Fundraising-711x533.png)
+![Diferencias entre captación de fondos y crowdfunding](Crowdfunding-vs.-Fundraising-711x533.png)
 
 Diferencia entre captación de fondos y crowdfunding
 
@@ -69,7 +69,7 @@ En el mundo digital, dispone de numerosas opciones para recaudar donativos. Las 
 - Ofertas actuales
 - Motores de búsqueda y marketing en redes sociales
 
-![Petición de donativos en un ordenador](images/donation-community-service-volunteer-support-711x595.jpg)
+![Petición de donativos en un ordenador](donation-community-service-volunteer-support-711x595.jpg)
 
 Las redes sociales desempeñan un papel cada vez más importante en la recaudación de fondos.
 
@@ -99,7 +99,7 @@ Esto contrasta con la **llamada en frío**, en la que te diriges a donantes pote
 
 Muchas organizaciones sin ánimo de lucro pierden una gran proporción de sus donantes entre la primera y la segunda donación. Según un [análisis](https://link.springer.com/book/10.1007/978-3-8349-6308-6) de Beat Hunziker, sólo la mitad de los donantes hacen un segundo donativo. El **ciclo de fidelización de donantes** es un modelo que muestra cómo las personas interesadas en donar pueden convertirse en simpatizantes comprometidos.
 
-![Ciclo de fidelización de donantes en la captación de fondos](images/Spendenloyalitaetszyklus-711x533.png)
+![Ciclo de fidelización de donantes en la captación de fondos](Spendenloyalitaetszyklus-711x533.png)
 
 Ciclo de fidelización de donantes
 

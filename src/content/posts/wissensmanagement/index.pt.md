@@ -99,7 +99,7 @@ No **apoio ao cliente**, por exemplo, um sistema sofisticado de gestão do conhe
 
 Poupe muito trabalho aos seus empregados, oferecendo aos seus clientes ajuda para se ajudarem a si próprios.
 
-[Esta área de ajuda](https://seatable.io/pt/docs/) é um exemplo de um sistema de gestão do conhecimento bem gerido. Por um lado, reduz o volume de trabalho de apoio dos seus empregados e, por outro, poupa aos seus clientes uma longa espera.
+[Esta área de ajuda]({{< relref "help" >}}) é um exemplo de um sistema de gestão do conhecimento bem gerido. Por um lado, reduz o volume de trabalho de apoio dos seus empregados e, por outro, poupa aos seus clientes uma longa espera.
 
 ### Utilização interna
 
@@ -111,7 +111,7 @@ Uma **cultura empresarial** baseada na partilha de conhecimentos ajuda cada cola
 
 Se está a considerar se um sistema de gestão do conhecimento vale a pena para a sua empresa, não se preocupe: a gestão do conhecimento vale sempre a pena a longo prazo! No entanto, há alguns **desafios** a que deve estar atento.
 
-![A gestão do conhecimento tem muitas vantagens, mas enfrenta uma série de desafios, especialmente no início do processo.](images/Vor-und-Nachteile-von-Wissensmanagement.png)
+![A gestão do conhecimento tem muitas vantagens, mas enfrenta uma série de desafios, especialmente no início do processo.](Vor-und-Nachteile-von-Wissensmanagement.png)
 
 Pesar os dois lados um contra o outro.
 
@@ -188,11 +188,11 @@ Para encontrar o software certo para a sua empresa, deve testar várias soluçõ
 
 Uma boa resposta a todas estas perguntas é a base de dados de conhecimentos **SeaTable**, intuitiva e fácil de utilizar. A vários níveis (bases, tabelas, vistas, linhas), permite-lhe a si e aos seus colaboradores registar informações de forma estruturada, encontrá-las rapidamente, partilhá-las facilmente com outros ou filtrá-las de acordo com a relevância para um determinado grupo de pessoas. Isto significa que o utilizador e os seus empregados têm sempre uma visão global.
 
-![Documentar o conhecimento é uma tarefa simples com o SeaTable](images/knowledge-management.jpg)
+![Documentar o conhecimento é uma tarefa simples com o SeaTable](knowledge-management.jpg)
 
-Quando escolhe o SeaTable, dá aos seus colaboradores uma caixa de ferramentas completa com a qual podem construir uma base de dados de conhecimentos flexível. O SeaTable suporta a [colaboração](https://seatable.io/pt/docs/seatable-nutzen/zusammenarbeit/) em tempo real, incluindo [comentários](https://seatable.io/pt/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) e [um histórico](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/) completo [de alterações](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/). Isto permite-lhe a si e aos seus colaboradores converter o seu conhecimento pessoal e implícito em conhecimento explícito e torná-lo disponível para os outros. O SeaTable também permite a visualização gráfica dos dados através de vários [plugins](https://seatable.io/pt/docs/plugins/alle-plugins-in-der-uebersicht/) e [aplicações](https://seatable.io/pt/docs/apps/universelle-app/).
+Quando escolhe o SeaTable, dá aos seus colaboradores uma caixa de ferramentas completa com a qual podem construir uma base de dados de conhecimentos flexível. O SeaTable suporta a [colaboração]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) em tempo real, incluindo [comentários](https://seatable.io/pt/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) e [um histórico](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/) completo [de alterações](https://seatable.io/pt/docs/historie-und-versionen/historie-und-logs/). Isto permite-lhe a si e aos seus colaboradores converter o seu conhecimento pessoal e implícito em conhecimento explícito e torná-lo disponível para os outros. O SeaTable também permite a visualização gráfica dos dados através de vários [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) e [aplicações]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
-Pode utilizar o SeaTable na nuvem, que está alojado em centros de dados alemães em conformidade com o RGPD, ou instalá-lo [no local](https://seatable.io/pt/on-premises/), nos seus próprios servidores. Assim, os seus dados estão seguros em qualquer caso! Também pode utilizar autorizações em muitos locais no SeaTable para controlar exatamente quem pode ver e editar que dados.
+Pode utilizar o SeaTable na nuvem, que está alojado em centros de dados alemães em conformidade com o RGPD, ou instalá-lo [no local]({{< relref "pages/product/seatable-server" >}}), nos seus próprios servidores. Assim, os seus dados estão seguros em qualquer caso! Também pode utilizar autorizações em muitos locais no SeaTable para controlar exatamente quem pode ver e editar que dados.
 
 ## Conclusão: Construa a sua própria gestão do conhecimento
 

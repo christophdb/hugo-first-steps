@@ -37,7 +37,7 @@ In SeaTable hingegen ist das denkbar einfach. Während in einer Tabelle sämtlic
 
 Darüber hinaus werden sämtliche Bücher des Verlags in SeaTable erfasst. Keine andere Lösung kann so selbstverständlich die unterschiedlichsten Informationen wie Titel, Autor, Kategorie, Ausgabe des Programms, Projektleitung, Status des Manuskripts, Datum der Veröffentlichung, Seitenzahl, Preis, ISBN-Nummer und die URL im Shop erfassen und sich gleichzeitig einfach bearbeiten lassen. Hinzu kommt, dass die Mitarbeiter ganz einfach die bereits veröffentlichten Titel herausfiltern oder nach noch laufenden Projekten sortieren können.
 
-![Flexible Prozesse im Verlag dank SeaTable](images/ventil-verlag.jpg)
+![Flexible Prozesse im Verlag dank SeaTable](ventil-verlag.jpg)
 
 ## SeaTable bietet die nötige Flexibilität für den Verlag
 

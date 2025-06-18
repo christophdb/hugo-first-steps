@@ -47,7 +47,7 @@ Zudem macht es einen Unterschied, **wann** Sie Ihr Inventar erstellen:
 - Daher gibt es auch die **verlegte Inventur**. Bei dieser Form der Inventur können Sie die Bestandsaufnahme flexibel an einem von Ihnen gewählten Tag durchführen, der maximal drei Monate vor oder zwei Monate nach dem Bilanzstichtag liegt. Da Sie die Bestände dann anhand der Zu- und Abgänge in Ihrer Inventarliste fortschreiben oder zurückrechnen müssen, ist die verlegte Inventur jedoch ungenauer als die Stichtagsinventur.
 - Im Gegensatz dazu ist die **permanente Inventur** ein laufender Prozess mit dem Vorteil, dass sich der Aufwand gleichmäßig über das ganze Jahr verteilt und zum Bilanzstichtag eine Buchinventur ausreicht. Dennoch ist einmal im Jahr eine körperliche Inventur aller Vermögensgegenstände notwendig, um die tatsächlichen Bestände mit den Buchbeständen abzugleichen. Anschließend müssen Sie alle Zu- und Abgänge präzise in Ihrer Inventarliste dokumentieren, um die Bestände buchhalterisch fortzuschreiben.
 
-![Lagerarbeiter macht Inventur in Excel.](images/Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
+![Lagerarbeiter macht Inventur in Excel.](Inventarliste-Vorlage-1_AdobeStock_221081905_bearbeitet.jpg)
 
 Ihre Inventarliste sollten Sie regelmäßig mit dem tatsächlichen Bestand abgleichen. Bildrechte: zephyr_p / Adobe Stock
 
@@ -71,7 +71,7 @@ Zudem sollte jeder Gegenstand eine **eindeutige Nummer** erhalten, sobald Sie ih
 
 Ein Beispiel für eine Inventarliste ist eine Tabelle mit diesen Spalten (klicken Sie zum Vergrößern auf das Bild):
 
-![Beispiel: Vorlage für eine Inventarliste](images/Beispiel-Vorlage-fuer-eine-Inventarliste.png)
+![Beispiel: Vorlage für eine Inventarliste](Beispiel-Vorlage-fuer-eine-Inventarliste.png)
 
 So könnte Ihre Inventarliste aussehen.
 
@@ -115,7 +115,7 @@ Word, das Textverarbeitungsprogramm von Microsoft, hat vermutlich fast jeder sch
 
 Egal, welche Option Sie wählen – auch in Word entscheiden Sie, welche Spaltentitel Sie für Ihre Inventurliste benötigen (zum Beispiel Identifikationsnummer, Gegenstand, Art, Standort, Menge und Wert). Anschließend tippen Sie Ihre Vermögensgegenstände händisch ein. Dies könnte so aussehen (klicken Sie zum Vergrößern auf das Bild):
 
-![Inventarliste in Word](images/Inventarliste-in-Word.png)
+![Inventarliste in Word](Inventarliste-in-Word.png)
 
 Beispiel einer Inventarliste in Word
 
@@ -144,11 +144,11 @@ Webbasierte Programme wie SeaTable ermöglichen das **kollaborative Erstellen un
 
 So können Sie zum Beispiel vermeiden, dass eine **veraltete Inventurliste** genutzt und von verschiedenen Mitarbeitern parallel geführt wird. Benötigt beispielsweise die Buchhaltung Informationen aus der Inventarliste, kann sie diese in SeaTable direkt auf dem neuesten Stand abrufen und muss nicht warten, bis verschiedene Mitarbeiter ihre Versionen zusammengeführt haben.
 
-Ferner können Sie aus Tabellen in SeaTable auch [Webformulare](https://seatable.io/docs/webformulare/webformulare/) für die Inventur erstellen. Dort können Sie Ihre Mitarbeiter durch den Inventurprozess begleiten und ihnen genauere Anweisungen geben, was sie erfassen sollen und worauf sie dabei achten müssen.
+Ferner können Sie aus Tabellen in SeaTable auch [Webformulare]({{< relref "help/base-editor/webformulare" >}}) für die Inventur erstellen. Dort können Sie Ihre Mitarbeiter durch den Inventurprozess begleiten und ihnen genauere Anweisungen geben, was sie erfassen sollen und worauf sie dabei achten müssen.
 
-![Submit an item during inventory](images/Submit-an-item-during-inventory.gif)
+![Submit an item during inventory](Submit-an-item-during-inventory.gif)
 
-Die **Visualisierung** und **Auswertung** der Daten ist in SeaTable noch flexibler und einfacher als in Excel. Sie können [Statistiken](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/) erstellen, [Plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) zur Darstellung verwenden oder mithilfe von Ansichten die Daten filtern, sortieren und gruppieren.
+Die **Visualisierung** und **Auswertung** der Daten ist in SeaTable noch flexibler und einfacher als in Excel. Sie können [Statistiken](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/) erstellen, [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) zur Darstellung verwenden oder mithilfe von Ansichten die Daten filtern, sortieren und gruppieren.
 
 Nicht zuletzt können Sie **Bilder** und **Dateien** wie PDF-Dokumente in SeaTable speichern. Kaufbelege, Rechnungen oder Fotos vom aktuellen Zustand während der Inventur können Sie so mit in Ihre Bestandsliste aufnehmen.
 

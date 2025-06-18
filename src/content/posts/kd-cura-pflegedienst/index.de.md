@@ -25,7 +25,7 @@ Der [KD-Cura Pflegedienst](https://www.kd-cura.de) versteht es, die Welt für hi
 
 Der Stellenwert der Pflege wird auch in den folgenden Jahren stetig steigen. Das Thema Digitalisierung ist noch nicht vollständig in der Pflegebranche angekommen. Norman Kolwitz erzählt, dass für Pflege- und Krankenkassen momentan immer noch eine analoge Rechnung geschrieben werden muss, das ist nicht am Zahn der Zeit. Digitalisierung ist ein wichtiger und erforderlicher Schritt und muss nun endlich auch in der Pflege ankommen. Norman Kolwitz möchte mit SeaTable Pionierarbeit leisten und Prozesse endlich digitalisieren.
 
-![Digitalisierung von Prozessen in der ambulanten Pflege mit SeaTable](images/KD-Cura-pionarbeit-in-der-pflege.jpg)
+![Digitalisierung von Prozessen in der ambulanten Pflege mit SeaTable](KD-Cura-pionarbeit-in-der-pflege.jpg)
 
 ## Mitarbeiterzuwachs und Expansionswunsch erfordert klare Strukturen und Prozesse
 

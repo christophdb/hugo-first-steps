@@ -53,7 +53,7 @@ Easily collect all your data in one place: with SeaTable. [Our template for prod
 
 To give every employee a comprehensive view of the product, a standard overview sheet is useful. This lists the most important product information, such as product series, product type, the official product name for the trade, item number, prices and associated product images. A brief overview is particularly valuable for people unfamiliar with the subject. With the various views in SeaTable, the data can be [filtered and saved with](https://seatable.io/en/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) just a few clicks, for example by product series or product type, and tedious manual sorting is no longer necessary.
 
-![In this view you have all products immediately in view - perfect for product management](images/Range-View_2.jpg)
+![In this view you have all products immediately in view - perfect for product management](Range-View_2.jpg)
 
 The product overview gives structure to product management
 
@@ -61,7 +61,7 @@ The product overview gives structure to product management
 
 Sometimes a product overview is not enough and it needs to be a little more specific. Very specific product information such as a special coating, material and material thickness or other data that would make the product overview confusing. SeaTable is ideal for collecting product specifics for employees and thus optimising the product development process. The exact colour description at the supplier is just as important as the material properties and helps, for example, new employees to get started immediately in the day-to-day business. Different views also provide additional support here.
 
-![You need product details? No problem with SeaTable. This makes product management easy for you](images/Product-Data_1.jpg)
+![You need product details? No problem with SeaTable. This makes product management easy for you](Product-Data_1.jpg)
 
 In the product data sheet you will find all the important information about the product
 
@@ -69,7 +69,7 @@ In the product data sheet you will find all the important information about the 
 
 In the product development process, the product passes through a number of different departments. [Marketing](https://seatable.io/en/marketing/), sales, production plant, photography and also retail are important everyday contact points in the work of a product manager. It is then practical if all contact data is collected in one place and thus accessible to everyone. This is just as helpful for the holiday replacement as it is for the new trainee! In addition, information can also be added, such as minutes of meetings, important documents or upcoming telephone appointments. With SeaTable, creating an address book within a table is absolutely no problem.
 
-![Contact details of suppliers and customers are very important for smooth product management](images/Suppliers-and-Contacts.jpg)
+![Contact details of suppliers and customers are very important for smooth product management](Suppliers-and-Contacts.jpg)
 
 Note down all important contact details of your suppliers and customers
 
@@ -77,11 +77,11 @@ Note down all important contact details of your suppliers and customers
 
 In product management, sales are an important control instrument to assess the success of measures and strategies. Is there perhaps a store that is not doing well at all? Do products have to be presented anew or the assortment structured differently? Sales figures are extremely important key figures for companies from which they can draw valuable information. If sales are good, this is evidence of good product management and that the set goals have been achieved. If there is a need for improvement, the sales figures can also provide information about this. If the sales figures even include demographic data, which can be collected through online trading, for example, the target group analysis can be significantly optimised - for example, by creating [personas](https://www.reachx.de/6-punkte-anleitung-zur-erstellung-individueller-personas/) or adapting the marketing strategy to specific target group segments.
 
-![Sales figures also play an important role in product management. With SeaTable you don't lose sight of anything](images/Sales_1.jpg)
+![Sales figures also play an important role in product management. With SeaTable you don't lose sight of anything](Sales_1.jpg)
 
 Sort sales figures by region
 
-![Simple statistics facilitate your product management](images/Statistics-1.jpg)
+![Simple statistics facilitate your product management](Statistics-1.jpg)
 
 Statistics give valuable information about the sales figures of your product
 

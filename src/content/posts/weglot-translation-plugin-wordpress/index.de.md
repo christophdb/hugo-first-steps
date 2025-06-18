@@ -147,7 +147,7 @@ Weglot versucht jeden Besucher anhand seiner Browser-Sprache auf die für ihn pa
 
 **2) spezielle Links unseres Themes werden nicht unterstützt**
 
-Auf SeaTable.io nutzen wir das Enfold-Theme und neben Links im Fließtext nutzen wir auch Link-Boxen – so z. B. auf unserer [Hilfeseite](https://seatable.io/docs/), bei dem die gesamte Box als Link dient. Leider wird diese Link-Box von Weglot nicht als Link erkannt und die Anwender werden immer zurück auf die Originalsprache umgeleitet. Dieses Verhalten konnten wir durch eine zusätzliche _Action in der functions.php beheben._
+Auf SeaTable.io nutzen wir das Enfold-Theme und neben Links im Fließtext nutzen wir auch Link-Boxen – so z. B. auf unserer [Hilfeseite]({{< relref "help" >}}), bei dem die gesamte Box als Link dient. Leider wird diese Link-Box von Weglot nicht als Link erkannt und die Anwender werden immer zurück auf die Originalsprache umgeleitet. Dieses Verhalten konnten wir durch eine zusätzliche _Action in der functions.php beheben._
 
 ![Weglot hatte Probleme mit Link-Boxen](weglot-boxen-als-links.png)
 

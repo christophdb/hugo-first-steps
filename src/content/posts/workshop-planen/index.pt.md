@@ -49,7 +49,7 @@ Gostaria de promover o desenvolvimento do seu pessoal e oferecer novas oportunid
 
 Naturalmente, deve adaptar a sua oferta às suas necessidades e identificar as áreas em que a **transferência de conhecimentos** é necessária na sua empresa. Se a sua empresa opera a nível internacional, os seus empregados podem estar muito interessados num curso de inglês comercial para aperfeiçoar as suas **competências linguísticas**. Todos os recém-chegados precisarão provavelmente de formação em **segurança informática** e de uma introdução às **aplicações inform**áticas que utilizam.
 
-![Visão geral dos seus seminários](images/Overview-1.jpg)
+![Visão geral dos seus seminários](Overview-1.jpg)
 
 Obtenha uma visão geral de todos os workshops, cursos de formação e medidas de formação contínua que já estão a decorrer na sua empresa ou para os quais existe uma procura adicional. Pode registar facilmente todas as informações e documentos importantes relacionados com um workshop numa base de dados. A ligação a outras tabelas permite a atribuição direta a um formador.
 
@@ -57,7 +57,7 @@ Obtenha uma visão geral de todos os workshops, cursos de formação e medidas d
 
 Dependendo do facto de a sua empresa dispor dos conhecimentos necessários sobre um determinado tópico, pode recrutar **os seus empregados** ou **peritos externos** como formadores para os seus workshops. Verifique se os formadores são adequados para conduzir um seminário com o sucesso desejado. Deve também fornecer informações como os dados de contacto, fotografia e qualificações dos formadores.
 
-![Armazene toda a informação importante sobre os seus formadores de oficina](images/Coaches-1.jpg)
+![Armazene toda a informação importante sobre os seus formadores de oficina](Coaches-1.jpg)
 
 Com o plugin de conceção de páginas, também é possível criar um **perfil** com os dados contidos na tabela e guardá-lo em formato PDF.
 
@@ -75,9 +75,9 @@ Pode reservar aí o serviço **de catering para a pausa para o almoço**, ao pas
 
 ## Gerir os registos em linha
 
-Em seguida, é necessário convidar os potenciais participantes e tomar nota de quem vai participar em cada evento. Se já registou os seus seminários numa base de dados, é fácil gerir **as inscrições** em linha. Pode fazê-lo sem esforço no SeaTable, utilizando um [formulário Web](https://seatable.io/pt/docs/webformulare/webformulare/) que os participantes podem utilizar para se inscreverem em cada workshop. Isto evita que tenha de enviar **convites** por correio eletrónico.
+Em seguida, é necessário convidar os potenciais participantes e tomar nota de quem vai participar em cada evento. Se já registou os seus seminários numa base de dados, é fácil gerir **as inscrições** em linha. Pode fazê-lo sem esforço no SeaTable, utilizando um [formulário Web]({{< relref "help/base-editor/webformulare" >}}) que os participantes podem utilizar para se inscreverem em cada workshop. Isto evita que tenha de enviar **convites** por correio eletrónico.
 
-![Inscrição simples na oficina através do formulário Web](images/Einfache-Workshop-Anmeldung-ueber-das-Webformular.png)
+![Inscrição simples na oficina através do formulário Web](Einfache-Workshop-Anmeldung-ueber-das-Webformular.png)
 
 Uma tabela reúne todas as inscrições e os dados introduzidos pelos participantes. Prática: Quando os participantes seleccionam um seminário, a sua inscrição é diretamente atribuída ao seminário correto na tabela associada.
 
@@ -103,7 +103,7 @@ Para **certificar a participação no workshop**, pode emitir um certificado par
 
 O que seria dos workshops e dos programas de formação sem feedback? Pode utilizar **formulários em papel** para a avaliação, que os participantes devem preencher no final do seminário, ou pode utilizar novamente um **formulário Web**. Esta opção tem a vantagem de os participantes poderem introduzir a avaliação diretamente em formato digital. Isto significa que o feedback é sempre legível e imediatamente associado aos workshops e aos formadores. Os participantes podem avaliar a oficina e o formador numa escala de classificação e em campos de texto livre.
 
-![Utilize o formulário web SeaTable para recolher feedback dos seus empregados](images/Feedback.jpg)
+![Utilize o formulário web SeaTable para recolher feedback dos seus empregados](Feedback.jpg)
 
 Pode **analisar** facilmente o feedback recolhido no SeaTable, por exemplo, apresentando a mediana ou a média de uma [coluna de classificação](https://seatable.io/pt/docs/auswahlspalten/die-rating-spalte/) na [barra de estado](https://seatable.io/pt/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) ou utilizando as respostas abertas nas [colunas de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) para desenvolver mais os workshops. Se houver uma quantidade considerável de **críticas** a um curso, o formador pode fazer melhorias ou ser substituído. Por exemplo, se houver um feedback frequente de que faltam aspectos importantes, isso pode ser uma indicação de que deve dar-lhes mais tempo e prolongar o workshop. Também pode criar um novo workshop que se concentre precisamente nesses aspectos e que, assim, satisfaça as necessidades dos seus participantes.
 

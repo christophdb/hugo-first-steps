@@ -24,7 +24,7 @@ Bevor Sie damit beginnen, die Einzelheiten Ihrer Party zu planen, müssen Sie zu
 
 Wenn Sie einen **Kindergeburtstag** planen, eignet sich ebenso ein Nachmittag unter der Woche für die Party. Ist das Geburtstagskind und der Großteil der Gäste erwachsen, kann die Feier abends stattfinden und bis in die Nacht gehen. Beachten Sie bei der Auswahl eines geeigneten Termins darüber hinaus die gesetzlichen Feiertage und fragen Sie frühzeitig die Verfügbarkeit Ihrer engsten Freunde und Verwandten ab.
 
-![Einen Kindergeburtstag planen](images/pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
+![Einen Kindergeburtstag planen](pexels-pavel-danilyuk-7221139-1-min-scaled.jpg)
 
 ## Gästeliste für Ihre Geburtstagsfeier erstellen
 
@@ -94,7 +94,7 @@ Vor allem bei Feiern im größeren Kreis erspart es Ihnen viel Zeit und Stress, 
 - Pizza und Pasta
 - Kuchen und Desserts
 
-![Buffet für eine Geburtstagsfeier](images/brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
+![Buffet für eine Geburtstagsfeier](brooke-lark-DW_nQY7e8t8-unsplash1.jpg)
 
 ### Ihre Gäste um Hilfe bitten
 

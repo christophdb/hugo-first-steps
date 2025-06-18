@@ -54,13 +54,13 @@ SeaTable creates a place where all information can converge. This allows you to 
 
 In SeaTable you can enter and track your suppliers in just a few steps. A supplier ID is automatically generated when creating a new row . You only need to enter the name of the supplier, the address, the email address, the website, the shipping service provider and the category of the goods. The spreadsheet is linked to the other spreadsheets "Article Master" and "Incoming Goods". This enables you to permanently exchange information or synchronise between the individual spreadsheets so that you are always up-to-date.
 
-![SCM - Suppliers](images/Supplier.jpg)
+![SCM - Suppliers](Supplier.jpg)
 
 Your suppliers in SeaTable
 
 In the "Stores" spreadsheet, you have the option of entering all your different shops with the most important information, such as the name of the individual shop, the address, the store manager and the email address. The data also goes directly into the map plug-in. This means that you always have an overview of all your branches.
 
-![SCM - Stores](images/Stores.jpg)
+![SCM - Stores](Stores.jpg)
 
 Keep an eye on all branches
 
@@ -68,13 +68,13 @@ Keep an eye on all branches
 
 Record your flow of goods easily via a web form, to which you give access to your responsible employees.
 
-![SCM - Incoming goods](images/Webformular_Inc.jpg)
+![SCM - Incoming goods](Webformular_Inc.jpg)
 
 Recording the goods receipt in SeaTable
 
 In the "Incoming Goods" spreadsheet, everything revolves around the goods receipt of your ordered goods from the supplier. Via the web form, your warehouse employee enters all relevant information, such as the item name, the shipping service provider with which the goods arrived, the condition of the goods, the tracking ID, as well as the delivered quantity and the storage location. In addition, the customer has the option of entering notes about the condition of damaged goods. The recorded data then goes directly into your SeaTable table. The internal delivery ID and the person who entered the order are automatically generated in SeaTable. Information such as the internal article ID or the EAN number is taken directly from the 'Article Master' and 'Suppliers' spreadsheets via a [link column](https://seatable.io/en/docs/handbuch/seatable-nutzen/feld-typen/) and formula, thus reducing the manual process enormously.
 
-![SCM - Incoming goods](images/Incoming-goods.jpg)
+![SCM - Incoming goods](Incoming-goods.jpg)
 
 Your goods receipt in SeaTable
 
@@ -82,13 +82,13 @@ By the way: You can see the condition of the goods directly with just one look a
 
 When your branches place orders or order outgoing goods, they can also conveniently order the required products via a web form. To do this, the individual branches only have to select their own store, the desired article and the quantity to be delivered. The worksheet "Outgoing goods" is linked to the worksheets "Stores" and "Article Master", so that information such as the email address of the shop and other article information is automatically added.
 
-![SCM - order](images/Webformular_order.jpg)
+![SCM - order](Webformular_order.jpg)
 
 Order conveniently via web form
 
 You now have the option of scheduling the shipment and informing the respective store at the touch of a button that the order is on its way. To do this, you simply have to enter the shipping date, the shipping service provider and the shipment number. By clicking on the "Send!" button in the "Shipping info to store" column, the predefined message will go out. Please note that you have to enter your email account for this.
 
-![SCM - Outgoing goods](images/Outgoing-goods.jpg)
+![SCM - Outgoing goods](Outgoing-goods.jpg)
 
 Your outgoing goods in SeaTable
 
@@ -96,7 +96,7 @@ You can customise the content of the message according to your wishes and within
 
 By the way, with the help of the Kanban plug-in, you can easily classify the orders according to the respective shipping service provider or view the condition of the respective delivered goods. This helps you to make meaningful decisions even faster.
 
-![SCM - Kanban](images/Kanban.jpg)
+![SCM - Kanban](Kanban.jpg)
 
 Kanban view in SeaTable
 
@@ -104,7 +104,7 @@ Kanban view in SeaTable
 
 The heart of this template is the "Article Master" spreadsheet. This is where all the information from all the spreadsheets comes together. This gives the supply chain manager the possibility to create and maintain products, to provide them with a continuous automatic article ID, EAN numbers and product images, and at the same time to process, analyse and optimise his entire warehousing process.
 
-![SCM - Article Master](images/Article_Master.jpg)
+![SCM - Article Master](Article_Master.jpg)
 
 All information about your goods at a glance
 
@@ -118,7 +118,7 @@ With just one glance at row , you can see directly from the coloured markings wh
 
 To ensure that you also keep an eye on all the relevant figures and can quickly make meaningful decisions, it is important to create a place that prepares these figures for you in a structured manner and at the same time displays them graphically.
 
-![SCM - Statistics](images/Statistics.jpg)
+![SCM - Statistics](Statistics.jpg)
 
 Your SCM Dashboard in SeaTable
 

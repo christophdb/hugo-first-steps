@@ -24,7 +24,7 @@ Plus vous possédez de livres, plus il est difficile de garder une vue d'ensembl
 
 Vous avez plus d'une bibliothèque et les emplacements de vos livres sont répartis dans plusieurs pièces ? Même dans ce cas, il est très utile de cataloguer les livres. Avec l'application Livres appropriée, vous savez exactement quel livre se trouve où et vous n'avez pas besoin de le chercher longtemps si vous en avez besoin rapidement.
 
-![Une femme cataloguera ses livres avec l'application Livres.](images/buecher-katalogisieren-frau.jpg)
+![Une femme cataloguera ses livres avec l'application Livres.](buecher-katalogisieren-frau.jpg)
 
 Cataloguer des livres © Viktoriia / Adobe Stock
 
@@ -51,7 +51,7 @@ ou Google Sheets. Ici aussi, vous devez saisir vous-même chaque titre et les in
 
 Si vous souhaitez cataloguer, organiser et gérer vos livres de manière judicieuse, vous devriez miser sur le travail avec une application pour livres ou une application pour bibliothèques. C'est rapide, simple et sans crayon ni fiche.
 
-![Un homme répertorie ses livres dans l'application Livres.](images/buecher-katalogisieren-mann.jpg)
+![Un homme répertorie ses livres dans l'application Livres.](buecher-katalogisieren-mann.jpg)
 
 Cataloguer des livres © NDABCREATIVITY / Adobe Stock
 
@@ -77,9 +77,9 @@ Cette application gratuite pour livres utilise de nombreuses bases de données e
 
 ### SeaTable
 
-Si vous souhaitez [créer](https://seatable.io/fr/inventarliste-vorlagen/) un [inventaire de](https://seatable.io/fr/inventarliste-vorlagen/) vos livres et utiliser pour cela des tableaux simples, SeaTable est l'outil qu'il vous faut. Il vous suffit de saisir le titre correspondant dans une liste, d'ajouter des informations sur l'auteur et l'éditeur si nécessaire et de le classer de manière claire (par exemple par genre, statut de lecture ou évaluation). Vous souhaitez mettre votre catalogue de livres à la disposition d'autres personnes ? C'est tout à fait possible en partageant vos listes.
+Si vous souhaitez [créer]({{< relref "posts/inventarliste-erstellen" >}}) un [inventaire de]({{< relref "posts/inventarliste-erstellen" >}}) vos livres et utiliser pour cela des tableaux simples, SeaTable est l'outil qu'il vous faut. Il vous suffit de saisir le titre correspondant dans une liste, d'ajouter des informations sur l'auteur et l'éditeur si nécessaire et de le classer de manière claire (par exemple par genre, statut de lecture ou évaluation). Vous souhaitez mettre votre catalogue de livres à la disposition d'autres personnes ? C'est tout à fait possible en partageant vos listes.
 
-Vous pouvez ouvrir la version cloud gratuite de SeaTable directement dans votre navigateur. [Inscrivez-vous](https://seatable.io/fr/enregistrement/) dès aujourd'hui et commencez à utiliser notre [modèle gratuit]({{< relref "templates/everyday-life/book-list-library" >}}) pour votre liste de livres ou votre bibliothèque. D'ailleurs, cet outil convient également à la [gestion de la littérature](https://seatable.io/fr/literaturverwaltung/) scientifique.
+Vous pouvez ouvrir la version cloud gratuite de SeaTable directement dans votre navigateur. [Inscrivez-vous]({{< relref "pages/registration" >}}) dès aujourd'hui et commencez à utiliser notre [modèle gratuit]({{< relref "templates/everyday-life/book-list-library" >}}) pour votre liste de livres ou votre bibliothèque. D'ailleurs, cet outil convient également à la [gestion de la littérature]({{< relref "posts/literaturverwaltung" >}}) scientifique.
 
 ## Trois conseils pour optimiser le catalogage des livres
 
@@ -89,7 +89,7 @@ Quel que soit le support que vous utilisez au final, il y a trois facteurs qui s
 2. **Des informations intelligentes**: Pour choisir l'application qui convient, il est également important de savoir quelles informations vous souhaitez saisir. Le titre et l'auteur suffisent-ils ou faut-il également saisir des aspects plus détaillés comme le genre, le statut de lecture, etc.
 3. **Gestion du temps**: plus vous avez de livres, plus il vous faudra de temps pour les cataloguer. Pour ne pas perdre votre motivation, prévoyez plutôt plus de temps. En revanche, vous serez récompensé à la fin par une bibliothèque privée complète.
 
-![Pile de livres à cataloguer dans une application de livres.](images/buecher-stapel.jpg)
+![Pile de livres à cataloguer dans une application de livres.](buecher-stapel.jpg)
 
 Cataloguer des livres © Kara / Adobe Stock
 

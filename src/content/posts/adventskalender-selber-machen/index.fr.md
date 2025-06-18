@@ -158,7 +158,7 @@ Si les paquets sont légers, vous pouvez par exemple les suspendre à un mur à 
 
 ## 5\. acheter tout ce dont vous avez besoin
 
-Il y a beaucoup de choses à acheter et peu de temps. Pour obtenir tout ce dont vous avez besoin, il est judicieux d'établir une [liste de courses](https://seatable.io/fr/einkaufsliste/). Faites des recherches suffisamment tôt pour savoir où vous pouvez vous procurer quoi. Surtout si vous bricolez beaucoup vous-même, vous devriez penser non seulement au matériel, mais aussi aux outils.
+Il y a beaucoup de choses à acheter et peu de temps. Pour obtenir tout ce dont vous avez besoin, il est judicieux d'établir une [liste de courses]({{< relref "posts/einkaufsliste" >}}). Faites des recherches suffisamment tôt pour savoir où vous pouvez vous procurer quoi. Surtout si vous bricolez beaucoup vous-même, vous devriez penser non seulement au matériel, mais aussi aux outils.
 
 ### Planifier en ligne avec quoi vous remplissez vos calendriers de l'Avent
 
@@ -172,6 +172,6 @@ Un **calendrier de l'Avent numérique** est à la fois durable et créatif. Si v
 
 Pour créer votre calendrier de l'Avent virtuel, vous pouvez utiliser SeaTable. Créez une porte pour chaque jour, créez une galerie à l'aide d'une application et partagez facilement le contenu que vous avez sélectionné avec soin via un lien.
 
-![Calendrier de l'Avent privé](images/Private-Advent-Calendar.png)
+![Calendrier de l'Avent privé](Private-Advent-Calendar.png)
 
-Si vous souhaitez utiliser SeaTable pour créer des calendriers de l'Avent analogiques et/ou numériques, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement avec votre adresse e-mail. Vous trouverez le modèle, également gratuit, [ici]({{< relref "templates/events/advent-calendar" >}}).
+Si vous souhaitez utiliser SeaTable pour créer des calendriers de l'Avent analogiques et/ou numériques, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement avec votre adresse e-mail. Vous trouverez le modèle, également gratuit, [ici]({{< relref "templates/events/advent-calendar" >}}).

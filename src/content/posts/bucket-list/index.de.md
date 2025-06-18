@@ -15,7 +15,7 @@ Wollten Sie schon immer mal einen Fallschirmsprung aus einem Flugzeug wagen? Tr�
 
 Unsere Träume und Sehnsüchte sind es, die uns antreiben und uns zu unvergesslichen Abenteuern inspirieren. Doch allzu oft werden sie aufgeschoben oder vernachlässigt, während wir uns dem Alltagstrott hingeben. Eine Bucket Liste kann Ihnen dabei helfen, Ihre Träume festzuhalten und Sie daran zu erinnern, sie zu verwirklichen. Denn letztendlich sind es Erfahrungen, die unser Leben bereichern und uns mit Erinnerungen füllen, die ein Leben lang halten.
 
-![Bucket List: Frau schaut vor einem See in die Ferne.](images/frau-mit-einem-rucksack-mit-blick-auf-den-schwarzen-see-im-nationalpark-durmitor-montenegro-711x474.jpg)
+![Bucket List: Frau schaut vor einem See in die Ferne.](frau-mit-einem-rucksack-mit-blick-auf-den-schwarzen-see-im-nationalpark-durmitor-montenegro-711x474.jpg)
 
 Ob abenteuerlicher Nervenkitzel oder atemberaubende Natur: Unsere Träume unterscheiden sich.
 
@@ -31,7 +31,7 @@ Falls Sie sich noch keine Gedanken gemacht haben, was Sie vom Leben erwarten, k�
 
 Sie werden nicht nur zufriedener, je mehr Sie auf Ihrer Liste abhaken – mit jedem abgeschlossenen Ziel erhalten Sie auch einen **Motivationskick**, der es Ihnen erleichtert, Ihr nächstes Ziel zu erreichen. Das regelmäßige Durchlesen Ihrer Liste und das Schwelgen in Erinnerung wird Ihnen außerdem ein **gutes Gefühl** geben.
 
-![Bucket List: Fotos von einer Reise](images/pexels-taryn-elliott-4340790-711x474.jpg)
+![Bucket List: Fotos von einer Reise](pexels-taryn-elliott-4340790-711x474.jpg)
 
 Halten Sie Ihre Erlebnisse fest, um sich immer wieder daran erinnern können.
 
@@ -43,7 +43,7 @@ Wer sich die Mühe macht, eine Bucket List zu erstellen, sollte auch hin und wie
 
 Für manche kann der Gedanke an unerledigte Punkte Stress und Druck verursachen – doch das ist nicht das Ziel der Liste. Eine Bucket Liste soll Ihnen **Spaß machen** und Sie **motivieren**, nicht belasten. Es ist wichtig, sich daran zu erinnern, dass eine Bucket List kein Rennen ist, das es zu gewinnen gilt. Das Leben ist ein langer Weg und die Liste soll Sie über viele Jahre begleiten. Selbst wenn am Ende noch einige Punkte offenbleiben sollten, geht es doch darum, all die wundervollen Erlebnisse zu feiern, die Sie auf dem Weg dorthin hatten.
 
-![Frau genießt den Ausblick auf einem Berg](images/pexels-nina-uhlikova-725255-711x533.jpg)
+![Frau genießt den Ausblick auf einem Berg](pexels-nina-uhlikova-725255-711x533.jpg)
 
 Das Wichtigste im Leben ist, die schönen Momente voll auszukosten.
 
@@ -69,7 +69,7 @@ Falls Sie kaum Ideen haben, können Sie sich auch hier inspirieren lassen: von *
 - Ein Selfie mit dem Schiefen Turm von Pisa machen
 - Die Polarlichter in Island bewundern
 
-![Bucket List: Nordlichter am Himmel](images/aurora-1185464_1280-711x474.jpg)
+![Bucket List: Nordlichter am Himmel](aurora-1185464_1280-711x474.jpg)
 
 Polarlichter sind ein beeindruckendes Farbenspiel am Himmel.
 
@@ -84,7 +84,7 @@ Polarlichter sind ein beeindruckendes Farbenspiel am Himmel.
 - Eine Wildwasser-Rafting-Tour überleben
 - Im Ausland arbeiten
 
-![Bucket List: Kletterer hängt am Felsvorsprung](images/rock-climbing-2264698_1280-711x474.jpg)
+![Bucket List: Kletterer hängt am Felsvorsprung](rock-climbing-2264698_1280-711x474.jpg)
 
 Einige Menschen sind auf der Suche nach Adrenalin und Nervenkitzel.
 
@@ -98,7 +98,7 @@ Einige Menschen sind auf der Suche nach Adrenalin und Nervenkitzel.
 - Einen Entspannungsurlaub buchen
 - Einen Marathon absolvieren
 
-![Marathonläufer](images/marathon-3753907_1280-711x474.jpg)
+![Marathonläufer](marathon-3753907_1280-711x474.jpg)
 
 Wer die sportliche Herausforderung sucht, kann einen Marathon als Ziel wählen.
 
@@ -113,7 +113,7 @@ Wer die sportliche Herausforderung sucht, kann einen Marathon als Ziel wählen.
 - An einem Fotografie-Kurs teilnehmen
 - Programmieren lernen
 
-![Bucket List: Buch über Programmiersprache Python](images/pexels-christina-morillo-1181671-711x475.jpg)
+![Bucket List: Buch über Programmiersprache Python](pexels-christina-morillo-1181671-711x475.jpg)
 
 Python ist eine Programmiersprache.
 
@@ -127,7 +127,7 @@ Python ist eine Programmiersprache.
 - Alle “Der Herr der Ringe”-Filme am Stück sehen
 - Karneval in Rio de Janeiro feiern
 
-![Kunstmuseum ](images/pexels-suzy-hazelwood-3004909-711x400.jpg)
+![Kunstmuseum ](pexels-suzy-hazelwood-3004909-711x400.jpg)
 
 Ob Kunst, Musik, Literatur oder Traditionen – Kultur ist vielfältig.
 
@@ -142,7 +142,7 @@ Ob Kunst, Musik, Literatur oder Traditionen – Kultur ist vielfältig.
 - Pilze im Wald sammeln
 - Champagner trinken
 
-![Bucket List: Teller mit schön dekorierten Häppchen.](images/pexels-jer-chung-2792186-711x533.jpg)
+![Bucket List: Teller mit schön dekorierten Häppchen.](pexels-jer-chung-2792186-711x533.jpg)
 
 Auch Essen kann ein Erlebnis sein.
 
@@ -157,7 +157,7 @@ Auch Essen kann ein Erlebnis sein.
 - Einen Hund aus dem Tierheim adoptieren
 - Müll in der Natur sammeln
 
-![Menschen beim Müll sammeln](images/pexels-anna-shvets-5029859-711x474.jpg)
+![Menschen beim Müll sammeln](pexels-anna-shvets-5029859-711x474.jpg)
 
 Gutes zu tun ist ein Ziel, das nicht nur das Leben Ihrer Mitmenschen bereichert.
 
@@ -172,7 +172,7 @@ Gutes zu tun ist ein Ziel, das nicht nur das Leben Ihrer Mitmenschen bereichert.
 - Am Strand heiraten
 - Kinder bekommen
 
-![Bucket List: Ein Pärchen im Sonnenuntergang.](images/pexels-pavel-danilyuk-9143809-711x475.jpg)
+![Bucket List: Ein Pärchen im Sonnenuntergang.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 
 Ihre Ziele können sich auch auf zwischenmenschliche Beziehungen konzentrieren.
 

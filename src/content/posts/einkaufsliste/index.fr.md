@@ -14,7 +14,7 @@ Dans le rythme effréné de la vie quotidienne, aller au supermarché peut deven
 
 Cependant, la question se pose de savoir quelle liste de courses/application numérique est le meilleur choix pour répondre à vos besoins individuels ? Dans cet article, nous jetons un regard plus approfondi sur sept applications prometteuses destinées à faciliter les achats.
 
-![Chariot plein dans un supermarché.](images/einkaufswagen-voller-produkte-in-einem-supermarkt-711x474.jpg)
+![Chariot plein dans un supermarché.](einkaufswagen-voller-produkte-in-einem-supermarkt-711x474.jpg)
 
 Avec une bonne organisation, faire ses courses est sans stress.
 
@@ -26,7 +26,7 @@ Il y a de bonnes raisons de faire des listes dans tous les domaines de la vie - 
 - **Gagnez du temps**: Si vous planifiez vos achats à l'avance avec une liste de courses, vous aurez toujours sous la main tous les aliments dont vous avez besoin pour vos recettes préférées, sans rien oublier. Cela vous permet de gagner du temps, car les doubles trajets au supermarché appartiennent au passé.
 - **Minimiser le gaspillage alimentaire**: Selon le [ministère fédéral de l'Alimentation et de l'Agriculture](https://www.bmel.de/DE/themen/ernaehrung/lebensmittelverschwendung/studie-lebensmittelabfaelle-deutschland.html), chaque consommateur jette environ 78 kilos de nourriture par an. Peut-être que vous aussi, vous jetez régulièrement des aliments parce qu'ils sont abîmés ou que leur date de péremption est dépassée. Si, à l'avenir, vous n'achetez que ce dont vous avez vraiment besoin, vous aurez aussi moins de choses à jeter. En planifiant judicieusement vos achats et [en stockant](https://seatable.io/fr/notvorrat-anlegen/) correctement, vous vous aidez donc non seulement vous-même, mais aussi l'environnement.
 
-![Proportion d'aliments que les Allemands jettent ](images/Lebensmittelverschwendung_B_EInkaufsliste-711x889.png)
+![Proportion d'aliments que les Allemands jettent ](Lebensmittelverschwendung_B_EInkaufsliste-711x889.png)
 
 Les Allemands sont ceux qui jettent le plus souvent les fruits et les légumes.
 
@@ -54,7 +54,7 @@ Que ce soit la gestion et le tri des **catégories d'aliments** ou les **recette
 
 - Aucun inconvénient majeur
 
-![L'application "La liste des courses ](images/Die-Einkaufsliste-711x971.jpg)
+![L'application "La liste des courses ](Die-Einkaufsliste-711x971.jpg)
 
 Voici à quoi ressemble "La liste des courses".
 
@@ -76,7 +76,7 @@ L'application permet également d'envoyer **des messages prédéfinis** aux colo
 
 - Aucun inconvénient majeur
 
-![L'application de liste de courses "Bring !](images/Bring-711x1022.jpg)
+![L'application de liste de courses "Bring !](Bring-711x1022.jpg)
 
 L'application de liste de courses "Bring !
 
@@ -97,7 +97,7 @@ En outre, non seulement les préférences et les habitudes de l'utilisateur sont
 
 - Pas d'icônes des produits
 
-![L'utilisation de Pon](images/Pon-711x1057.jpg)
+![L'utilisation de Pon](Pon-711x1057.jpg)
 
 La liste d'achats en "pon
 
@@ -119,7 +119,7 @@ Si vous enregistrez vos **recettes** dans l'application, vous pourrez ajouter le
 - Aucune offre
 - Un nombre illimité de listes et de modèles est payant
 
-![L'application "ToBuy](images/ToBuy-711x1086.jpg)
+![L'application "ToBuy](ToBuy-711x1086.jpg)
 
 L'application "ToBuy" en mode sombre
 
@@ -140,7 +140,7 @@ Ici, il est certes possible **de procéder à différents regrou** pements et **
 - Aucune offre
 - Pas de fonctionnalités intelligentes
 
-![L'application de liste de courses "WeNeed](images/WeNeed-711x1083.jpg)
+![L'application de liste de courses "WeNeed](WeNeed-711x1083.jpg)
 
 L'application "WeNeed
 

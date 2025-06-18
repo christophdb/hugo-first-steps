@@ -17,7 +17,7 @@ Tag eins drehte sich alles um **Seafile**, die **leistungsstarke Sync-and-Share-
 
 Ob große All-in-One-Lösungen oder kleinere Projekte – die SeaDays boten die perfekte Plattform für den persönlichen Austausch und die Vernetzung innerhalb der Seafile- und SeaTable-Community. Ein herzlicher Dank geht an unsere Speaker **Eloy Crespo**, **Stephan Lehniger**, **Ko Smidt**, **Matthias van Laar**, **Lisa Kleinman**, **Christian Livadaru** und **Stephan Heinrich**, die dieses Event möglich gemacht haben!
 
-![Alle Teilnehmer der SeaDays 2024 auf einem gemeinsamen Gruppenfoto.](images/20241008_165520-711x533.jpg)
+![Alle Teilnehmer der SeaDays 2024 auf einem gemeinsamen Gruppenfoto.](20241008_165520-711x533.jpg)
 
 Alle Teilnehmer der SeaDays 2024.
 
@@ -35,7 +35,7 @@ Am Abend ging es zum gemütlichen Ausklang in eine Mainzer Gasthausbrauerei. Bei
 
 Das Feedback zur Veranstaltung war überwältigend positiv. Mit einer durchschnittlichen Bewertung von 5,5 von 6 Punkten spiegelte sich die hohe Zufriedenheit der Teilnehmer deutlich wider. Besonders erfreulich: Alle Befragten gaben an, auch im nächsten Jahr wieder dabei sein zu wollen. Natürlich gibt es immer Raum für Verbesserungen, und wir nehmen das Feedback unserer Teilnehmer sehr ernst, um die SeaDays noch weiter zu optimieren und auch im nächsten Jahr wieder ein erfolgreiches Event zu gestalten.
 
-![Die Teilnehmer der SeaDays 2024 hören gespannt den Neuigkeiten zu.](images/20241008_092940-1-711x533.jpg)
+![Die Teilnehmer der SeaDays 2024 hören gespannt den Neuigkeiten zu.](20241008_092940-1-711x533.jpg)
 
 Die Teilnehmer lauschen gespannt den Neuigkeiten.
 
@@ -51,7 +51,7 @@ SeaTable-Nutzer konnten sich über spannende Neuigkeiten freuen: Die **überarbe
 
 Die Vision für die kommende Version 6 von SeaTable legt den Fokus auf die Verfeinerung bestehender Funktionen und eine noch bessere Benutzerfreundlichkeit. Zu den geplanten Neuerungen zählen erweiterte Möglichkeiten zur Datenverknüpfung zwischen verschiedenen Datenbanken. Außerdem ist der Einsatz innovativer **KI-Assistenten** geplant, die die Datenverarbeitung intelligenter und effizienter machen sollen.
 
-![Christoph Dyllick-Brenzinger, einer der beiden Gründerbrüder von SeaTable.](images/20241008_120138-711x948.jpg)
+![Christoph Dyllick-Brenzinger, einer der beiden Gründerbrüder von SeaTable.](20241008_120138-711x948.jpg)
 
 Christoph Dyllick-Brenzinger, einer der beiden Gründerbrüder von SeaTable.
 
@@ -63,7 +63,7 @@ Ein Highlight ist dabei die Integration von KI-gestützten Features. Die künstl
 
 Die Präsentation gab auch einen Ausblick auf die Zukunft: SeafilePlus soll 2025 als SaaS-Lösung auf den Markt kommen. Einige der fortschrittlichen Funktionen werden zudem in die bestehenden Seafile-Versionen integriert.
 
-![Daniel Pan, Chief Executive Officer (CEO) der Seafile Ltd.](images/20241008_092952-711x948.jpg)
+![Daniel Pan, Chief Executive Officer (CEO) der Seafile Ltd.](20241008_092952-711x948.jpg)
 
 Daniel Pan, Chief Executive Officer (CEO) der Seafile Ltd.
 
@@ -79,7 +79,7 @@ Als nächster großer Schritt steht die **BSI-Zertifizierung** für die kommende
 
 Ein spannendes Feature, das vorgestellt wurde, ist das neue SeaTable-Plugin “**Tree**“. Dieses Plugin ermöglicht es Nutzern, Daten in einer Baumstruktur zu organisieren, was die Navigation durch verschachtelte Tabellen erheblich vereinfacht. Mit Funktionen wie zusammenklappbaren Ebenen, individueller Spaltenbreite und der Möglichkeit, neue Zeilen zu erstellen oder bestehende zu aktualisieren, ist das Baum-Plugin ein leistungsstarkes Werkzeug für das Management komplexer Datensätze. Besonders nützlich ist die sortierbare Darstellung in bis zu drei Ebenen, die mehr Flexibilität bei der Organisation von Daten bietet.
 
-![Teilnehmer der SeaDays 2024](images/74b1d263-ec63-4f11-85bc-8af629d0b24e-711x400.jpg)
+![Teilnehmer der SeaDays 2024](74b1d263-ec63-4f11-85bc-8af629d0b24e-711x400.jpg)
 
 Selbst das regnerische Wetter konnte die Stimmung auf den SeaDays nicht trüben.
 
@@ -99,7 +99,7 @@ Ein besonderes Highlight am ersten Tage der SeaDays war die Präsentation von St
 
 Von der Wissensdatenbank bis zum Kundenbeziehungsmanagement – Seafile hat sich bei SecUnity als unverzichtbares Tool etabliert. Besonders spannend ist der Plan, Seafile als Grundlage für eine Threat Intelligence Sharing Platform (TISP) zu verwenden. Diese innovative Anwendung unterstreicht das enorme Potenzial von Seafile im Bereich Cybersicherheit. Für Unternehmen auf der Suche nach robusten Lösungen für Dateimanagement und Zusammenarbeit bot diese Präsentation viele konkrete Beispiele und Inspiration.
 
-![Ko Smidt erklärt den Ablauf des Prüfungsprozesses am Johannes Fontanus College.](images/20241008_104823-711x533.jpg)
+![Ko Smidt erklärt den Ablauf des Prüfungsprozesses am Johannes Fontanus College.](20241008_104823-711x533.jpg)
 
 Ko Smidt erklärt den Ablauf des Prüfungsprozesses an Niederländischen Schulen.
 
@@ -113,7 +113,7 @@ Am Johannes Fontanus College in den Niederlanden hat Lehrer Ko Smidt den **Korre
 
 Darüber hinaus wurde auch die Vergabe von IT-Geräten und das Melden von Geräteschäden über SeaTable organisiert. So behält IT-Experte Matthis van Laar stets den Überblick über alle Vorgänge und kann sicherstellen, dass technische Probleme schnell und strukturiert bearbeitet werden.
 
-![SeaDays 2024: Ko Smidt stellt vor, welche Prozesse er am Johannes Fontanus College optimiert hat.](images/20241008_104929-711x533.jpg)
+![SeaDays 2024: Ko Smidt stellt vor, welche Prozesse er am Johannes Fontanus College optimiert hat.](20241008_104929-711x533.jpg)
 
 Ko Smidt, Lehrer für “Music” und “Research & Design” am Johannes Fontanus College (Niederlande).
 
@@ -123,7 +123,7 @@ Lisa Kleinman von Make präsentierte eindrucksvoll, wie einfach und wirkungsvoll
 
 Durch diese Kombination können Unternehmen ihre Daten in SeaTable nutzen, um automatisierte Prozesse in Make zu triggern – zum Beispiel, um Benachrichtigungen zu versenden, Aufgaben zu erstellen oder Daten mit anderen Tools zu synchronisieren. Das Ergebnis: eine enorme Zeitersparnis und ein optimierter Arbeitsfluss, der den Alltag deutlich erleichtert.
 
-![SeaDays 2024: Lisa Kleinman von Make mit Christoph Dyllick-Brenzinger, einer der Gründer von SeaTable.](images/20241008_132717-1-711x948.jpg)
+![SeaDays 2024: Lisa Kleinman von Make mit Christoph Dyllick-Brenzinger, einer der Gründer von SeaTable.](20241008_132717-1-711x948.jpg)
 
 Lisa Kleinman von Make mit Christoph Dyllick-Brenzinger, einer der Gründer von SeaTable.
 
@@ -133,7 +133,7 @@ Christian Livadaru, Geschäftsführer des IT-Unternehmens LcX.at, hat sein kompl
 
 Livadaru setzt außerdem ein beeindruckendes Beispiel für den Nutzen des No-Code-App-Builders. Denn damit lassen sich Proof-of-Concepts (PoCs) schnell und unkompliziert umsetzen, was die Entwicklung beschleunigt und erste Ergebnisse in kürzerer Zeit möglich macht. Seine Erfahrung zeigt, dass SeaTable auch für Entwickler eine vielseitige und leistungsfähige Plattform bietet, um effizient und zielgerichtet voranzukommen.
 
-![Cristian Livadaru, Geschäftsführer der LcX.at aus Wien.](images/20241008_142737-711x948.jpg)
+![Cristian Livadaru, Geschäftsführer der LcX.at aus Wien.](20241008_142737-711x948.jpg)
 
 Cristian Livadaru, Geschäftsführer der LcX.at aus Wien.
 
@@ -143,7 +143,7 @@ Stephan Heinrich von Content Butler zeigte eindrucksvoll, wie sich mit Hilfe von
 
 Besonders faszinierend: In der Base können wichtige Parameter wie Contentstil, Thema, Zielgruppe und weitere Feinabstimmungen hinterlegt werden. Diese Daten werden dann genutzt, um automatisch ein Prompt zu generieren, mit dem in wenigen Sekunden Social Media Posts, Blogartikel oder andere Texte, sogar inklusive Bildmaterial, erstellt werden. Auf diese Weise wird die Content-Produktion massiv beschleunigt – ideal für Unternehmen, die regelmäßig frischen Content benötigen.
 
-![Stephan Heinrich, Geschäftsführer der Content Butler GmbH.](images/20241008_151731-711x948.jpg)
+![Stephan Heinrich, Geschäftsführer der Content Butler GmbH.](20241008_151731-711x948.jpg)
 
 Stephan Heinrich, Geschäftsführer der Content Butler GmbH.
 

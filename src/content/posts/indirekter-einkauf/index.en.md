@@ -31,7 +31,7 @@ With SeaTable you have all important information, products and orders in one pla
 
 Our template consists of three tables that are all interrelated and pass information to each other. The first table is the basis for the web form that your employees can use for all orders. The second table consists of a detailed product catalogue containing all the goods needed in the company for internal purposes - from pencils to computer mice. The third table contains all suppliers of the goods with the important contact details. **With these three set screws**, your office organisation will very soon become a breeze.
 
-![Overview of all orders in indirect procurement](images/bestellungen-indirekter-einkauf-1088x515.png)
+![Overview of all orders in indirect procurement](bestellungen-indirekter-einkauf-1088x515.png)
 
 The fact that all tables are linked to each other is possible with the linked columns. This handy feature simplifies data organization within a base: Data that is needed in each table, such as the price of a product, can be created in one table and played out in all other tables. If the price changes in the source table, it also changes in all other tables due to the link. Thus information does not have to be entered several times, but regulates itself!
 
@@ -41,7 +41,7 @@ In this table a lot of information comes together: The columns "Product", "€" 
 
 The table with its columns also provides the basis for the integrated [web form](https://seatable.io/en/docs/handbuch/seatable-nutzen/webformulare/) for your office organization. For an order of internal material, the employees select a product from the list - this is the linked column "Products" from the product catalog (Table 2). After that, they only specify the quantity and in which department they work, so that the orders remain clear.
 
-![Order form indirect material](images/bestellformular-indirektes-material.png)
+![Order form indirect material](bestellformular-indirektes-material.png)
 
 Each submitted form immediately ends up in Base and is created as a new row . The employees have to enter relatively little information, although a lot of information is stored in the table itself. This is where the linked columns come into play.
 
@@ -69,7 +69,7 @@ This rule automatically notifies all participants by e-mail if there are any cha
 
 With SeaTable you also have the possibility to send automated emails with just one click. This is not only very helpful in internal purchasing. To do this, you first need to add your email account to your Base. This can be done via the three dots at the top right -> Settings -> Third-party providers. Here you can add your email account according to the specifications of your email provider. Once this step is done, you can use the button column to create a button for sending emails.
 
-![Send orders automatically with SeaTable](images/Bestellungen-automatisch-verschicken.gif)
+![Send orders automatically with SeaTable](Bestellungen-automatisch-verschicken.gif)
 
 Here's how it works:
 
@@ -83,7 +83,7 @@ Here's how it works:
 
 SeaTable would not be an optimal solution for office organization if it did not have a clear and practical function for task management as well. First, we create different [views](https://seatable.io/en/docs/handbuch/seatable-nutzen/ansichten/) for each agent, so that only the orders that are relevant for him are visible. For example, a processor for office equipment does not need to see the orders for food. This can be done by clicking on the small arrow in the upper left corner, in our example titled "View all".
 
-![Kanban view of all orders in indirect procurement](images/kanban-view-indirekte-beschaffung.png)
+![Kanban view of all orders in indirect procurement](kanban-view-indirekte-beschaffung.png)
 
 With a filter, the corresponding persons for whom the view is intended are set. Thus, only those orders are displayed that also belong to oneself - this helps to maintain an overview and to keep one's own areas of responsibility in view. However, the views are also the basis for the Kanban plug-in.
 
@@ -97,7 +97,7 @@ We have already explained above how valuable the linked columns in SeaTable are 
 
 The second table contains the complete product catalogue of the office organisation. Only products that are stored here can be ordered by the staff. It is therefore important that all products are in the list - as soon as new products are added, they are entered here and are then immediately available for ordering.
 
-![The product catalogue for the indirect material in SeaTable](images/produktkatalog-indirekter-einkauf.png)
+![The product catalogue for the indirect material in SeaTable](produktkatalog-indirekter-einkauf.png)
 
 This table also uses information from other tables. The order numbers, for example, come from the "Orders" table, and the suppliers and their email addresses come from the third "Suppliers" table. Again, the linked columns are used to keep the organization effort as low as possible. The column "€" in this table shows the product prices according to the list and is decisive for the calculation of the prices of the orders.
 
@@ -105,6 +105,6 @@ This table also uses information from other tables. The order numbers, for examp
 
 Office organisation, and especially the ordering of internal goods, can quickly become a triviality, yet it is important and keeps the business running. The template shown in this blog post can be found directly in SeaTable. When creating a new base, simply select the option: _Start with template_ and you will find this template in the **Operations** area.
 
-With SeaTable you have a powerful tool at your side that can provide you with excellent support in this and many other processes. For example, you can use it to organise your [CRM offer management](https://seatable.io/en/crm-angebotsmanagement/?lang=auto), [build](https://seatable.io/en/digitales-produktmanagement/?lang=auto) your [product management digitally](https://seatable.io/en/digitales-produktmanagement/?lang=auto) or [plan internal workshops](https://seatable.io/en/mit-internen-workshops-den-unternehmenswert-steigern/?lang=auto).
+With SeaTable you have a powerful tool at your side that can provide you with excellent support in this and many other processes. For example, you can use it to organise your [CRM offer management]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto), [build](https://seatable.io/en/digitales-produktmanagement/?lang=auto) your [product management digitally](https://seatable.io/en/digitales-produktmanagement/?lang=auto) or [plan internal workshops](https://seatable.io/en/mit-internen-workshops-den-unternehmenswert-steigern/?lang=auto).
 
 Try out our template and [register]({{< relref "pages/registration" >}})! SeaTable is free of charge in the basic version.

@@ -158,7 +158,7 @@ Se os pacotes forem leves, pode pendurá-los numa parede com um fio ou cabides, 
 
 ## 5\. comprar tudo o que é necessário
 
-Há muito para comprar e pouco tempo. Para ter a certeza de que tem tudo o que precisa, faz sentido elaborar uma [lista de compras](https://seatable.io/pt/einkaufsliste/). Pesquise com antecedência onde pode obter o que precisa. Especialmente se fizer muita bricolage, não deve pensar apenas nos materiais, mas também nas ferramentas.
+Há muito para comprar e pouco tempo. Para ter a certeza de que tem tudo o que precisa, faz sentido elaborar uma [lista de compras]({{< relref "posts/einkaufsliste" >}}). Pesquise com antecedência onde pode obter o que precisa. Especialmente se fizer muita bricolage, não deve pensar apenas nos materiais, mas também nas ferramentas.
 
 ### Planear em linha o que encher os calendários do Advento
 
@@ -172,6 +172,6 @@ Um **calendário do advento digital** é simultaneamente sustentável e criativo
 
 Pode utilizar o SeaTable para criar o seu calendário virtual do Advento. Crie uma pequena porta para cada dia, crie uma galeria com a ajuda de uma aplicação e disponibilize facilmente o seu conteúdo cuidadosamente selecionado através de uma ligação.
 
-![Calendário do Advento privado](images/Private-Advent-Calendar.png)
+![Calendário do Advento privado](Private-Advent-Calendar.png)
 
 Se quiser utilizar o SeaTable para criar calendários do Advento analógicos e/ou digitais, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente com o seu endereço de correio eletrónico. Também pode encontrar o modelo gratuito [aqui]({{< relref "templates/events/advent-calendar" >}}).

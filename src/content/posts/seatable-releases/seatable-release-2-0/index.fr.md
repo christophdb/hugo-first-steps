@@ -72,7 +72,7 @@ Parce que c'est exactement le cas, SeaTable à partir de la version 2.0 permet d
 
 Le plugin de mise en page peut être utilisé pour créer des documents PDF d'une ou plusieurs pages qui récupèrent dynamiquement les données d'une table SeaTable. Chez SeaTable, nous générons des certificats de licence avec le plugin. Mais les cas d'utilisation vont bien au-delà : vous pouvez créer des certificats pour vos partenaires commerciaux ou des cartes de membre pour les membres de votre club de tennis. Si vous gérez votre portefeuille de produits dans SeaTable, vous pouvez générer des fiches produit attrayantes pour tous vos produits en quelques clics. Dans le domaine du personnel, les offres d'emploi au format PDF peuvent être créées facilement et rapidement sans effort supplémentaire répété.
 
-![Nouveau design de la page du plugin](images/Plugin_page_design.png)
+![Nouveau design de la page du plugin](Plugin_page_design.png)
 
 Chaque document est basé sur un modèle. La conception d'un modèle est faite dans SeaTable lui-même. L'éditeur WYSIWYG fait partie du plug-in, un éditeur externe n'est pas nécessaire. L'éditeur offre une sélection d'éléments statiques tels que des textes, des tableaux et des images et propose diverses opérations d'édition. Par exemple, une image peut être tournée, recadrée ou alignée directement dans le modèle. Si votre modèle n'est pas attrayant, ce n'est pas la faute de l'éditeur ;-) L'éditeur enregistre tous les modèles dans un format JSON ; une fonction d'importation et d'exportation garantit la portabilité des modèles.
 
@@ -80,7 +80,7 @@ Chaque document est basé sur un modèle. La conception d'un modèle est faite d
 
 Un tableau Kanban est un excellent outil pour visualiser, contrôler et suivre de nombreuses fonctions et tâches opérationnelles (par exemple, le pipeline des ventes). En fait, le principe Kanban s'est avéré si efficace dans la pratique qu'une série de programmes ont vu le jour ces dernières années, mettant en œuvre différentes variétés de tableaux Kanban.
 
-![Nouveau plugin Kanban](images/Plugin_kanban.png)
+![Nouveau plugin Kanban](Plugin_kanban.png)
 
 Avec la nouvelle version, SeaTable dispose également d'un plug-in Kanban qui permet d'afficher les données dans des tableaux sur un tableau Kanban. Les catégories d'un tableau Kanban sont soit les options d'une colonne de sélection simple, soit les utilisateurs dans une colonne d'employés. Cela permet d'utiliser la vue Kanban pour des applications aussi diverses que la gestion des RH, la production, la vente, le développement de logiciels et la gestion de projets. De nouvelles catégories et de nouvelles entrées peuvent être créées directement dans la vue Kanban, sans devoir quitter le plugin. Les utilisateurs intensifs apprécieront le support du glisser-déposer.
 
@@ -110,7 +110,7 @@ Lors de l'utilisation quotidienne de SeaTable, l'une ou l'autre base s'accumule.
 
 Si une base contient des données confidentielles, la protection contre les fuites de données par erreur ou par malveillance est de la plus haute importance. Les dispositions légales en matière de protection des données exigent également des mesures techniques appropriées pour protéger les données personnelles. La prévention des fuites de données est un élément essentiel de ces mesures.
 
-![Nouveaux paramètres de sécurité](images/Security_settings_.png)
+![Nouveaux paramètres de sécurité](Security_settings_.png)
 
 Pour répondre à ces exigences élevées, la version 2.0 de SeaTable offre des paramètres d'autorisation supplémentaires pour éviter les fuites de données. Dans ces nouveaux paramètres de sécurité, le propriétaire d'une base peut décider si d'autres utilisateurs sont autorisés à imprimer, dupliquer et/ou exporter la base. Ces restrictions d'autorisation peuvent être appliquées à tous les utilisateurs ou seulement à ceux qui ont une autorisation de partage. Dans le cas d'une base appartenant à un groupe, le propriétaire du groupe et les administrateurs du groupe peuvent modifier ces paramètres.
 
@@ -118,7 +118,7 @@ Pour répondre à ces exigences élevées, la version 2.0 de SeaTable offre des 
 
 L'attrait de SeaTable pour les développeurs réside en partie dans sa prise en charge des scripts Python et JavaScript (JS). (Les produits de nos concurrents ne prennent en charge que les scripts JS.) Alors que les scripts JS s'exécutent dans le navigateur, les scripts Python s'exécutent côté serveur. Associés à la possibilité d'automatiser leur exécution, les scripts Python sont particulièrement adaptés aux scénarios de traitement des données les plus exigeants.
 
-![Environnement d'exécution Python](images/Python_execution_environment.png)
+![Environnement d'exécution Python](Python_execution_environment.png)
 
 Mais cette flexibilité a aussi un prix : l'exécution des scripts Python sur le serveur comporte des risques de sécurité. Afin de les sécuriser au mieux, nous avons largement isolé l'environnement d'exécution des scripts Python du système principal grâce à deux composants supplémentaires. L'équipe composée du SeaTable FAAS Scheduler et du Python Runner n'assure toutefois pas seulement la sécurité, mais aussi une évolutivité optimale. Lorsqu'un script est appelé, un conteneur Docker est lancé et le script est exécuté. Le résultat du script est renvoyé à SeaTable et le conteneur Docker est détruit. L'utilisation de plusieurs Python Runners permet également d'exécuter de nombreux scripts simultanément sans temps d'attente. (Pour plus d'informations, consultez le [manuel d'administration de SeaTable](https://manual.seatable.io/docker/Python-Runner/Deploy%20SeaTable%20Python%20Runner/)).
 

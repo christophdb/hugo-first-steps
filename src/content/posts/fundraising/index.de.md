@@ -14,7 +14,7 @@ seo:
 
 In diesem Artikel werfen wir einen umfassenden Blick auf das Thema Fundraising und beleuchten verschiedene **Methoden**, mit denen Sie Menschen für Ihre Ideen begeistern und die Spendenbereitschaft fördern können. Um konsequent Ihr Spendenziel verfolgen, Spenden sammeln und eine Spendenbescheinigung ausstellen zu können, haben Sie zum Schluss die Chance, eine **kostenlose Software für die Spendenverwaltung** auszuprobieren.
 
-![Das Wort Fundraising steht in einem Heft mit Strichmännchen](images/charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
+![Das Wort Fundraising steht in einem Heft mit Strichmännchen](charity-donations-fundraising-nonprofit-volunteer-concept-711x475.jpg)
 
 Ein gut geplantes Fundraising kann einer Organisation helfen ihre Anliegen zu verwirklichen.
 
@@ -32,7 +32,7 @@ Dabei ist es wichtig, dass Sie detaillierte Informationen bereitstellen, einschl
 
 {{< warning headline="Tipp" text="Ein bewährter Ansatz ist der Versand von **Spendenbriefen**. Diese ermöglichen es Ihnen, Ihre Botschaft klar und effektiv zu kommunizieren und potenzielle Spender auf persönlicher Ebene anzusprechen." />}}
 
-![Glas mit Geldmünzen, aus dem heraus eine kleine Pflanze wächst](images/micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
+![Glas mit Geldmünzen, aus dem heraus eine kleine Pflanze wächst](micheile-henderson-ZVprbBmT8QA-unsplash-711x474.jpg)
 
 Fundraising erfordert Kreativität, um die Aufmerksamkeit der Menschen zu erregen.
 
@@ -44,7 +44,7 @@ Im Gegensatz dazu legt man beim **Crowdfunding** oft einen bestimmten Zeitraum f
 
 Einen kurzen Überblick über die wesentlichen Unterschiede bietet die folgende Grafik.
 
-![Unterschiede zwischen Fundraising und Crowdfunding](images/Crowdfunding-vs.-Fundraising-711x533.png)
+![Unterschiede zwischen Fundraising und Crowdfunding](Crowdfunding-vs.-Fundraising-711x533.png)
 
 Der Unterschied zwischen Fundraising und Crowdfunding
 
@@ -70,7 +70,7 @@ In der digitalen Welt stehen Ihnen zahlreiche Möglichkeiten offen, um Spenden z
 - Aktuelle Angebote
 - Suchmaschinen und Social Media Marketing
 
-![Spendenaufruf auf einem Computer](images/donation-community-service-volunteer-support-711x595.jpg)
+![Spendenaufruf auf einem Computer](donation-community-service-volunteer-support-711x595.jpg)
 
 Soziale Medien spielen eine immer wichtigere Rolle im Fundraising.
 
@@ -100,7 +100,7 @@ Im Gegensatz dazu steht die **Kaltakquise**, bei der Sie potenzielle Spender ans
 
 Zwischen der ersten und zweiten Spende verlieren viele Non-Profit-Organisationen einen Großteil ihrer Spender. Laut einer [Analyse](https://link.springer.com/book/10.1007/978-3-8349-6308-6) von Beat Hunziker tätigt nur etwa die Hälfte aller Spender eine zweite Spende. Der **Spenderloyalitätszyklus** ist ein Modell, das zeigt, wie aus Spenden-Interessierten engagierte Unterstützer werden können.
 
-![Spenderloyalitätszyklus im Fundraising](images/Spendenloyalitaetszyklus-711x533.png)
+![Spenderloyalitätszyklus im Fundraising](Spendenloyalitaetszyklus-711x533.png)
 
 Spenderloyalitätszyklus
 

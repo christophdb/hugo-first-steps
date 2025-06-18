@@ -32,7 +32,7 @@ D'autre part, il existe également d'autres caractéristiques de produits qui ne
 
 Pour créer une meilleure vue d'ensemble au sein du catalogue, nous utilisons la [fonction de regroupement](https://seatable.io/fr/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) multiple de SeaTable. Vous pouvez ainsi classer et structurer vos données à votre guise : Par exemple, par série et gamme de qualité, ou comme dans notre modèle, par série de produits et type de produit.
 
-![Catalogue de produits pour la gestion numérique des produits](images/Catalogue_Overview.png)
+![Catalogue de produits pour la gestion numérique des produits](Catalogue_Overview.png)
 
 Un catalogue de produits pour la présentation à l'extérieur
 
@@ -42,7 +42,7 @@ Vous avez besoin de plus qu'un simple affichage de vos produits ? Pas de problè
 
 Vous connaissez peut-être cette situation - vous cherchez un produit et vous savez à quoi il ressemble, mais vous ne connaissez pas son nom ? Notre plug-in de galerie est alors très utile. Il affiche toutes les images saisies qui se trouvent dans le tableau sélectionné et constitue un pool d'informations compact pour votre gestion des produits. Avec des informations supplémentaires comme le nom du produit, la série et le numéro d'article, vous pouvez ainsi créer une galerie d'images détaillée qui contient en même temps des spécificités importantes du produit.
 
-![Galerie d'images de produits pour la gestion numérique des produits](images/Gallery-Plugin.png)
+![Galerie d'images de produits pour la gestion numérique des produits](Gallery-Plugin.png)
 
 En quelques clics, vous avez créé une galerie informative.
 
@@ -115,4 +115,4 @@ Les statistiques sont une fonctionnalité très puissante, intégrée dans chaqu
 
 Cet exemple d'application montre clairement à quel point SeaTable peut représenter une gestion numérique des produits et ainsi changer positivement votre façon de travailler. En tant que logiciel polyvalent et très flexible, SeaTable peut s'adapter entièrement à vos besoins et réagir à toute circonstance. Les différents types de colonnes et les plug-ins utiles permettent de mettre en œuvre les processus les plus divers : Que vous ayez [besoin]({{< relref "templates/sales/crm-offer-management" >}}) d'un [outil de gestion CRM]({{< relref "templates/sales/crm-offer-management" >}}) sophistiqué ou que vous souhaitiez [enregistrer]({{< relref "templates/human-resources/recording-working-time" >}}) et traiter les [heures de travail de vos collaborateurs]({{< relref "templates/human-resources/recording-working-time" >}}). Avec SeaTable, vous n'avez aucune limite !
 
-[Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) et essayez nos fonctionnalités. Nous avons créé des modèles utiles qui peuvent vous aider à vous lancer dans certains sujets !
+[Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) et essayez nos fonctionnalités. Nous avons créé des modèles utiles qui peuvent vous aider à vous lancer dans certains sujets !

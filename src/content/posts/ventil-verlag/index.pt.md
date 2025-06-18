@@ -36,7 +36,7 @@ No SeaTable, por outro lado, isto é muito simples. Embora toda a informação s
 
 Além disso, todos os livros da editora são registados no SeaTable. Nenhuma outra solução consegue registar de forma tão natural uma grande variedade de informações, como o título, o autor, a categoria, a edição do programa, a gestão do projeto, o estado do manuscrito, a data de publicação, o número de páginas, o preço, o número ISBN e o URL na loja, e ao mesmo tempo ser fácil de editar. Além disso, o pessoal pode facilmente filtrar os títulos que já foram publicados ou ordená-los de acordo com os projectos que ainda estão em curso.
 
-![Processos flexíveis de publicação graças ao SeaTable](images/ventil-verlag.jpg)
+![Processos flexíveis de publicação graças ao SeaTable](ventil-verlag.jpg)
 
 ## O SeaTable oferece a flexibilidade necessária para o editor
 

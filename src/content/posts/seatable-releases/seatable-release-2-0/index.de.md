@@ -72,7 +72,7 @@ Weil das genau so ist, erlaubt SeaTable ab der Version 2.0 bei den drei Spaltent
 
 Mit dem Seitendesign-Plugin lassen sich ein- und mehrseitige PDF-Dokumente erstellen, die sich dynamisch Daten aus einer SeaTable Tabelle holen. Wir bei SeaTable generieren mit dem Plugin Lizenzzertifikate. Die Anwendungsfälle gehen aber deutlich darüber hinaus: Sie können für Ihre Geschäftspartner Urkunden oder für die Mitglieder Ihres Tennisclubs Mitgliedskarten erstellen. Wenn Sie Ihr Produktportfolio in SeaTable verwalten, dann können Sie mit wenigen Klicks für alle Ihre Produkte ansehnliche Produktdatenblätter generieren. Im Personalbereich lassen sich PDF-basierte Jobausschreibungen ohne wiederholten Zusatzaufwand einfach und schnell erstellen.
 
-![New plugin Page Design](images/Plugin_page_design.png)
+![New plugin Page Design](Plugin_page_design.png)
 
 Jedes Dokument basiert auf einer Vorlage. Die Gestaltung einer Vorlage erfolgt in SeaTable selbst. Der WYSIWYG-Editor ist Bestandteil des Plugins, ein externer Editor ist nicht erforderlich. Der Editor stellt eine Auswahl statischer Elemente wie Texte, Tabellen und Bilder zur Verfügung und bietet diverse Bearbeitungsoperationen. So kann ein Bild direkt in der Vorlage gedreht, beschnitten oder ausgerichtet werden. Wenn Ihre Vorlage nicht ansprechend aussieht, dann liegt es nicht am Editor! ;-) Der Editor speichert alle Vorlagen in einem JSON-Format; eine Import- und Exportfunktion garantiert die Portabilität der Vorlagen.
 
@@ -80,7 +80,7 @@ Jedes Dokument basiert auf einer Vorlage. Die Gestaltung einer Vorlage erfolgt i
 
 Ein Kanban-Board ist ein großartiges Tool, um zahlreiche betriebliche Funktionen und Aufgaben zu visualisieren, zu kontrollieren und zu überwachen (z.B. die Vertriebspipeline). Das Kanban-Prinzip hat sich in der Praxis tatsächlich als so erfolgreich herausgestellt, dass in den letzten Jahren eine Vielzahl an Programmen erschienen ist, die unterschiedliche Spielarten von Kanban-Boards implementieren.
 
-![New Kanban plugin](images/Plugin_kanban.png)
+![New Kanban plugin](Plugin_kanban.png)
 
 Mit dem neuen Release verfügt auch SeaTable über ein Kanban-Plugin, mit dem sich die Daten in Tabellen auf einem Kanban-Board darstellen lassen. Die Kategorien eines Kanban-Boards sind entweder die Optionen einer Einfachauswahlspalte oder die Benutzer in einer Mitarbeiterspalte. Dadurch lässt sich die Kanban-Ansicht für so unterschiedliche Anwendungsfälle nutzen wie HR Management, Produktion, Vertrieb, Softwareentwicklung, und Projektmanagement. Neue Kategorien und neue Einträge lassen sich direkt in der Kanban-Ansicht erstellen, ohne dass man das Plugin verlassen muss. Intensiven Nutzern wird die Drag & Drop Unterstützung gut gefallen.
 
@@ -110,7 +110,7 @@ Bei der täglichen Nutzung von SeaTable sammelt sich die eine oder andere Base a
 
 Wenn eine Base vertrauliche Daten enthält, dann ist der Schutz vor irrtümlichem oder bösartigem Abfluss von Daten von größter Bedeutung. Gesetzliche Datenschutzbestimmungen erfordern darüber hinaus geeignete technische Maßnahmen, um personenbezogene Daten zu schützen. Die Vermeidung von Datenabfluss gehört ganz essentiell zu diesen Maßnahmen.
 
-![New security settings](images/Security_settings_.png)
+![New security settings](Security_settings_.png)
 
 Um diesen hohen Anforderungen zu bestehen, bietet SeaTable in der Version 2.0 zusätzliche Berechtigungseinstellungen zur Vermeidung von Data Leakage. In diesen neuen Sicherheitseinstellungen kann der Eigentümer einer Base entscheiden, ob andere Benutzer die Base drucken, duplizieren und/oder exportieren dürfen. Diese Berechtigungseinschränkungen können auf alle Benutzer oder nur auf solche, die eine Freigabeberechtigung haben, angewendet werden. Im Falle einer Base im Besitz einer Gruppe dürfen der Gruppenbesitzer und die Gruppenadministratoren diese Einstellungen ändern.
 
@@ -118,7 +118,7 @@ Um diesen hohen Anforderungen zu bestehen, bietet SeaTable in der Version 2.0 zu
 
 Ein Teil der Attraktivität von SeaTable für Entwickler liegt in der Unterstützung von Python und JavaScript (JS) Skripten. (Produkte unserer Wettbewerber unterstützen nur JS Skripte.) Während JS Skripte im Browser ausgeführt werden, laufen Python Skripte auf Seiten des Servers. In Kombination mit der Möglichkeit, deren Ausführung zu automatisieren, eigenen sich Python Skripte insbesondere für anspruchsvollere Datenverarbeitungsszenarien.
 
-![Python execution environment](images/Python_execution_environment.png)
+![Python execution environment](Python_execution_environment.png)
 
 Diese Flexibilität hat aber auch ihren Preis: Die Ausführung der Python Skripte auf dem Server bringt Sicherheitsrisiken mit sich. Um diese optimal abzusichern, haben wir mit zwei zusätzlichen Komponenten die Ausführungsumgebung der Python Skripte vom Hauptsystem weitgehend isoliert. Das Team bestehend aus SeaTable FAAS Scheduler und Python Runner sorgt aber nicht nur für Sicherheit, sondern auch für optimale Skalierbarkeit. Beim Aufruf eines Skripts wird ein Docker Container gestartet und das Skript ausgeführt. Das Ergebnis des Skripts wird an SeaTable zurück gegeben und der Docker Container zerstört. Durch den Einsatz mehrerer Python Runner können auch zahlreiche Skripte gleichzeitig ohne Wartezeit ausgeführt werden. (Mehr Informationen finden Sie im [SeaTable Admin Manual](https://manual.seatable.io/docker/Python-Runner/Deploy%20SeaTable%20Python%20Runner/).)
 

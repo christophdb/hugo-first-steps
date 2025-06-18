@@ -19,19 +19,18 @@ L'article suivant traite de la **planification budgétaire dans les entreprises*
 
 ## Qu'est-ce que la budgétisation ?
 
-La budgétisation - également connue sous le nom de planification budgétaire ou d'allocation budgétaire - est, comme son nom l'indique, l'allocation des budgets et la planification des ressources**. Par définition, la planification budgétaire est effectuée pour l'avenir, généralement pour l'année financière suivante. Vous pouvez d'une part déterminer le budget pour l'ensemble de l'entreprise et d'autre part effectuer une **budgétisation détaillée pour des départements spécifiques ou des projets individuels**. Le budget prévisionnel qui en résulte détermine où l'argent disponible dans l'entreprise doit aller et quels objectifs vous souhaitez atteindre avec lui et sur quelle période de temps.
+La budgétisation - également connue sous le nom de planification budgétaire ou d'allocation budgétaire - est, comme son nom l'indique, l'allocation des budgets et la planification des ressources**. Par définition, la planification budgétaire est effectuée pour l'avenir, généralement pour l'année financière suivante. Vous pouvez d'une part déterminer le budget pour l'ensemble de l'entreprise et d'autre part effectuer une **budgétisation détaillée pour des départements spécifiques ou des projets individuels\*\*. Le budget prévisionnel qui en résulte détermine où l'argent disponible dans l'entreprise doit aller et quels objectifs vous souhaitez atteindre avec lui et sur quelle période de temps.
 
-![Employee implements budget planning on laptop](images/Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg)
+![Employee implements budget planning on laptop](Budgetplanung-Vorlage_AdobeStock_109609907_bearbeitet.jpg)
 
 ## Avantages de la planification budgétaire prospective
 
 **Sensible budget allocation** : La planification budgétaire vous aide à allouer de manière sensible l'argent et les ressources aux départements et aux projets et à les utiliser spécifiquement là où ils apporteront le plus grand bénéfice possible.
-    
-* **Binding targets** : Avec un plan budgétaire contraignant, vous pouvez vous assurer que vos managers formulent des objectifs clairs et prennent des mesures efficaces pour les atteindre.  
-    
-* **Transparence financière** : L'établissement d'un budget permet de savoir clairement sur quoi vous dépensez votre argent. Vous pouvez garder un œil sur les coûts et les objectifs, mesurer le succès et anticiper les évolutions indésirables.
-    
-* **Prioritized investments** : La liste des souhaits dans les départements est souvent longue. Un budget fixe vous aide à prioriser les investissements essentiels et à éviter les dépenses inutiles.
+
+- **Binding targets** : Avec un plan budgétaire contraignant, vous pouvez vous assurer que vos managers formulent des objectifs clairs et prennent des mesures efficaces pour les atteindre.  
+
+- **Transparence financière** : L'établissement d'un budget permet de savoir clairement sur quoi vous dépensez votre argent. Vous pouvez garder un œil sur les coûts et les objectifs, mesurer le succès et anticiper les évolutions indésirables.
+- **Prioritized investments** : La liste des souhaits dans les départements est souvent longue. Un budget fixe vous aide à prioriser les investissements essentiels et à éviter les dépenses inutiles.
 
 ## La budgétisation va de pair avec la planification financière
 
@@ -39,7 +38,7 @@ La budgétisation - également connue sous le nom de planification budgétaire o
 
 **La planification budgétaire stratégique** pour les deux à cinq prochaines années est également très courante. Cela vous aide à prendre des décisions commerciales à long terme qui permettront à votre entreprise d'aller de l'avant et d'assurer son succès, comme par exemple l'ouverture de nouveaux sites. Cependant, plus l'horizon de planification est lointain, plus il est difficile et incertain de faire des prévisions précises.
 
-![Budget plan template](images/goodnotes-5-1s5TOXcMZQ8-unsplash.jpg)
+![Budget plan template](goodnotes-5-1s5TOXcMZQ8-unsplash.jpg)
 
 {{< warning headline="Astuce" text="Comme vous avez besoin d'un budget prévisionnel pour chaque année financière, il est préférable de créer un modèle que vous pourrez utiliser à plusieurs reprises. Initialement, un simple tableau peut être suffisant pour une vue d'ensemble, mais à long terme, il est judicieux d'utiliser une base de données avec plus de fonctionnalités pour votre budgétisation. Vous pouvez en savoir plus à ce sujet [ci-dessous](#un-exemple-de-la-façon-dont-vous-pouvez-mettre-en-œuvre-la-planification-budgétaire)." />}}
 
@@ -47,39 +46,35 @@ La budgétisation - également connue sous le nom de planification budgétaire o
 
 Quelle est la meilleure façon d'aborder la budgétisation ? Bien qu'il n'y ait pas de solution unique, vous pouvez suivre quelques étapes et procédures de budgétisation qui sont devenues courantes dans de nombreuses entreprises. Toutefois, les points suivants supposent qu'un budget initial a déjà été établi ou qu'il est possible de comparer les chiffres des années précédentes.
 
-* Examinez s'il y a des changements significatifs dans vos chiffres financiers clés (par exemple, le chiffre d'affaires, le bénéfice, les coûts) par rapport à la période de référence précédente.  
-* Sur cette base, prévoyez l'évolution future du budget disponible pour l'ensemble de l'entreprise.
-* Il est maintenant temps d'allouer le budget : coordonnez les sous-budgets avec les différents départements en utilisant les procédures suivantes.
+- Examinez s'il y a des changements significatifs dans vos chiffres financiers clés (par exemple, le chiffre d'affaires, le bénéfice, les coûts) par rapport à la période de référence précédente.
+- Sur cette base, prévoyez l'évolution future du budget disponible pour l'ensemble de l'entreprise.
+- Il est maintenant temps d'allouer le budget : coordonnez les sous-budgets avec les différents départements en utilisant les procédures suivantes.
 
 ### Quelles sont les méthodes de budgétisation ?
 
 Il existe trois procédures ou méthodes de budgétisation qui se sont avérées particulièrement efficaces :
 
 **De haut en bas** : La direction détermine le budget global ainsi que la répartition du budget et les chefs de service/projets planifient ensuite les mesures qu'ils peuvent mettre en œuvre avec ce budget.
-* **Du bas vers le haut** : Ici, les chefs de service/projet déterminent eux-mêmes le budget dont ils ont besoin pour leurs tâches et transmettent la planification budgétaire aux décideurs. Ils ajoutent les sous-budgets, les comparent au budget total et déterminent ce qui est approuvé.
-**Procédure de counterflow** : Ici, vous combinez l'approche descendante et ascendante. La direction fixe des objectifs, mais n'entre pas dans les détails concernant le budget. Les chefs de service/projet développent ensuite des mesures appropriées et précisent les dépenses prévues. Enfin, le niveau de gestion doit réviser le budget et l'aligner sur le budget global.
 
-![Processus de planification budgétaire : du haut vers le bas, du bas vers le haut ou les deux ?](images/susan-q-yin-BiWM-utpVVc-unsplash.jpg)
+- **Du bas vers le haut** : Ici, les chefs de service/projet déterminent eux-mêmes le budget dont ils ont besoin pour leurs tâches et transmettent la planification budgétaire aux décideurs. Ils ajoutent les sous-budgets, les comparent au budget total et déterminent ce qui est approuvé.
+  **Procédure de counterflow** : Ici, vous combinez l'approche descendante et ascendante. La direction fixe des objectifs, mais n'entre pas dans les détails concernant le budget. Les chefs de service/projet développent ensuite des mesures appropriées et précisent les dépenses prévues. Enfin, le niveau de gestion doit réviser le budget et l'aligner sur le budget global.
+
+![Processus de planification budgétaire : du haut vers le bas, du bas vers le haut ou les deux ?](susan-q-yin-BiWM-utpVVc-unsplash.jpg)
 
 ## Problèmes possibles avec la planification budgétaire
 
-Comme tous les processus d'entreprise, la budgétisation peut se dérouler plus ou moins souplement. Vous devez être conscient de quelques blocages, même s'il est impossible de se préparer à toutes les éventualités.  
-  
+Comme tous les processus d'entreprise, la budgétisation peut se dérouler plus ou moins souplement. Vous devez être conscient de quelques blocages, même s'il est impossible de se préparer à toutes les éventualités.
+
 Les problèmes suivants peuvent survenir :
 
-* En fonction de la **complexité de la structure de l'entreprise** (par exemple, les filiales, les sites, les niveaux organisationnels), la budgétisation détaillée peut rapidement devenir confuse.
-    
-* La budgétisation requiert généralement un **dépense de temps** et mobilise des capacités de personnel qui ne sont pas disponibles pour le travail productif.
-    
-* Aujourd'hui, les **évolutions économiques** sont si rapides et difficiles à prévoir qu'un budget bien planifié à l'avance ne tient que rarement compte des circonstances réelles.
-    
-* Les objectifs budgétaires stricts** limitent la marge de manœuvre des départements en cas de hausse des coûts (par exemple en cas d'augmentation inattendue des prix).
-    
-* Il peut également conduire à la stagnation de l'entreprise si vous vous orientez trop étroitement vers le **budget des années précédentes** sans repenser et optimiser les processus.
-    
-* Last but not least, **des rivalités entre les managers ou des départements entiers** peuvent rendre une planification budgétaire efficace plus difficile et encourager des dépenses inutiles.
-    
-![L'état d'esprit des managers peut nuire à l'utilisation efficace des ressources et donc à la stratégie de l'entreprise](images/felix-mittermeier-nAjil1z3eLk-unsplash.jpg)
+- En fonction de la **complexité de la structure de l'entreprise** (par exemple, les filiales, les sites, les niveaux organisationnels), la budgétisation détaillée peut rapidement devenir confuse.
+- La budgétisation requiert généralement un **dépense de temps** et mobilise des capacités de personnel qui ne sont pas disponibles pour le travail productif.
+- Aujourd'hui, les **évolutions économiques** sont si rapides et difficiles à prévoir qu'un budget bien planifié à l'avance ne tient que rarement compte des circonstances réelles.
+- Les objectifs budgétaires stricts\*\* limitent la marge de manœuvre des départements en cas de hausse des coûts (par exemple en cas d'augmentation inattendue des prix).
+- Il peut également conduire à la stagnation de l'entreprise si vous vous orientez trop étroitement vers le **budget des années précédentes** sans repenser et optimiser les processus.
+- Last but not least, **des rivalités entre les managers ou des départements entiers** peuvent rendre une planification budgétaire efficace plus difficile et encourager des dépenses inutiles.
+
+![L'état d'esprit des managers peut nuire à l'utilisation efficace des ressources et donc à la stratégie de l'entreprise](felix-mittermeier-nAjil1z3eLk-unsplash.jpg)
 
 ## 7 conseils pour une budgétisation réussie
 
@@ -129,15 +124,13 @@ Le bon fonctionnement des systèmes informatiques, les processus automatisés et
 
 **Dépenses en capital (investissements à fonds perdus)** : Il s'agit d'actifs fixes tels que le matériel et l'infrastructure que vous achetez pour une longue période de temps, par exemple les terminaux, les serveurs, la technologie réseau, les moniteurs, les casques, etc.
 
-* **Dépenses d'exploitation (coûts d'exploitation courants)** : Cela inclut les frais de licence pour toutes les applications logicielles, les systèmes d'exploitation et les outils utilisés (SaaS), mais aussi l'infrastructure louée telle que les serveurs externes et les services en nuage (IaaS), ainsi que les coûts d'Internet et de téléphonie. A cela s'ajoutent des services tels que le conseil informatique, la maintenance et les contrats de support. Si nécessaire, vous pouvez également inclure les coûts de votre propre personnel informatique dans la planification du budget informatique et les retirer de la planification du budget du personnel.
-  
-* De plus, tous les **projets** que vous souhaitez mener à bien avec un résultat concret au cours d'une année financière, par exemple l'automatisation d'un processus de gestion, l'introduction d'un nouvel outil ou un test de pénétration, doivent être pris en compte dans le budget informatique.
-  
-* Vous devez également inclure les **tâches en cours telles que la formation informatique des nouveaux employés** dans votre budget informatique - parce que le temps c'est de l'argent.
-  
+- **Dépenses d'exploitation (coûts d'exploitation courants)** : Cela inclut les frais de licence pour toutes les applications logicielles, les systèmes d'exploitation et les outils utilisés (SaaS), mais aussi l'infrastructure louée telle que les serveurs externes et les services en nuage (IaaS), ainsi que les coûts d'Internet et de téléphonie. A cela s'ajoutent des services tels que le conseil informatique, la maintenance et les contrats de support. Si nécessaire, vous pouvez également inclure les coûts de votre propre personnel informatique dans la planification du budget informatique et les retirer de la planification du budget du personnel.
+- De plus, tous les **projets** que vous souhaitez mener à bien avec un résultat concret au cours d'une année financière, par exemple l'automatisation d'un processus de gestion, l'introduction d'un nouvel outil ou un test de pénétration, doivent être pris en compte dans le budget informatique.
+- Vous devez également inclure les **tâches en cours telles que la formation informatique des nouveaux employés** dans votre budget informatique - parce que le temps c'est de l'argent.
+
 Grâce à la budgétisation informatique, il devient rapidement clair si vous pouvez financer uniquement les éléments essentiels ou des solutions haut de gamme avec votre argent et à quelle vitesse les projets de numérisation et d'automatisation peuvent être mis en œuvre. Incluez une marge dans le budget pour les dépenses imprévues (par exemple, les augmentations de prix, la réparation ou le remplacement d'équipements cassés).
 
-![Commencez à planifier votre budget le plus tôt possible](images/sincerely-media-XihOO7UOvy4-unsplash.jpg)
+![Commencez à planifier votre budget le plus tôt possible](sincerely-media-XihOO7UOvy4-unsplash.jpg)
 
 ### Planification du budget dans la gestion de projet
 

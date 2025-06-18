@@ -167,6 +167,6 @@ Un traslado por motivos médicos cuenta como carga extraordinaria. También pued
 
 Para que su próxima mudanza sea lo menos estresante posible, el equipo de SeaTable ha creado una plantilla para su plan de mudanza. Puede adaptarla a sus necesidades como desee.
 
-![Plan de reubicación](images/Umzugsplan.png)
+![Plan de reubicación](Umzugsplan.png)
 
 Si desea utilizar SeaTable para planificar su traslado, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/real-estate/moving-plan" >}}) encontrará la plantilla correspondiente.

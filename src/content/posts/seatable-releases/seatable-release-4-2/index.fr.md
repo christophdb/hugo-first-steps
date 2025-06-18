@@ -20,7 +20,7 @@ Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.2. Tous les auto
 
 La [fonctionnalité Snapshot](https://seatable.io/fr/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) fait partie de l'ADN de SeaTable. La version 1.0 permettait déjà de créer des instantanés de l'état d'une base et de les restaurer ultérieurement. Il était donc logique d'intégrer une telle fonction dans l'Universal App Builder.
 
-![Gestion des versions dans les applications universelles](images/Version-management-in-Universal-Apps.gif)
+![Gestion des versions dans les applications universelles](Version-management-in-Universal-Apps.gif)
 
 La nouvelle **gestion des versions** se trouve derrière l'icône {{< seatable-icon icon="dtable-icon-history" >}} dans la barre des paramètres à gauche. Vous pouvez y créer, afficher, restaurer et supprimer des snapshots. Pour chaque snapshot, il est également possible de saisir une petite note qui vous permet de retrouver rapidement la bonne version.
 
@@ -34,17 +34,17 @@ Lorsque vous restaurez un snapshot enregistré, l'application est restaurée à 
 
 C'est justement dans les applications universelles, par le biais desquelles de nombreux utilisateurs peuvent effectuer de nouvelles entrées dans une base, qu'il est vite arrivé que **des lignes identiques** soient créées. Vous pouvez empêcher cela à l'avenir en activant la fonction empêchant l'ajout de doublons sur les [pages de tableaux et de formulaires](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/). Vous définissez ainsi les colonnes dans lesquelles les valeurs doivent correspondre pour qu'une ligne soit considérée comme **un doublon**. Si l'ajout d'une ligne est bloqué, un message d'erreur apparaît.
 
-![Empêcher l'ajout de doublons dans les applications universelles](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
+![Empêcher l'ajout de doublons dans les applications universelles](Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
 ## Dupliquer des pages et désactiver des apps
 
 La création et la configuration de pages dans l'Universal App Builder peuvent - en particulier pour les pages personnalisées comme les tableaux de bord - prendre beaucoup de temps. Si vous avez déjà construit des pages que vous ne souhaitez que légèrement modifier, SeaTable 4.2 propose désormais une fonction permettant de **dupliquer des pages** et de gagner ainsi du temps et des efforts. La copie reprend un à un tous les contenus, paramètres et autorisations de la page d'origine.
 
-![Dupliquer des pages dans les apps universelles](images/Duplicate-page-in-Universal-Apps.png)
+![Dupliquer des pages dans les apps universelles](Duplicate-page-in-Universal-Apps.png)
 
 Si vous avez créé une application dont vous souhaitez interdire temporairement l'utilisation, vous pouvez désormais la **suspendre** en quelques clics afin d'en interdire l'accès à tous les groupes d'utilisateurs. L'application peut être **réactivée** ultérieurement de la même manière.
 
-![Suspendre temporairement les apps et les réactiver](images/Suspend-and-activate-apps.gif)
+![Suspendre temporairement les apps et les réactiver](Suspend-and-activate-apps.gif)
 
 ## Autres options de customisation
 
@@ -56,7 +56,7 @@ Le développement de l'Universal App Builder se poursuivra sans relâche dans le
 
 Jusqu'à présent, vous ne pouviez déclencher l'[action automatisée "Modifier l'entrée"](https://seatable.io/fr/docs/automationen/automations-aktionen/#6-toc-title) que par l'ajout de nouvelles lignes ou la modification d'entrées. Désormais, vous pouvez également **faire exécuter** cette automatisation **périodiquement pour les entrées qui remplissent certaines conditions**. Les entrées du tableau sont alors toujours adaptées à un moment précis, conformément aux paramètres définis au préalable.
 
-![Exécuter périodiquement l'action automatisée "Modifier l'entrée".](images/Run-automated-action-Modify-record-periodically-.png)
+![Exécuter périodiquement l'action automatisée "Modifier l'entrée".](Run-automated-action-Modify-record-periodically-.png)
 
 ## Nouvelle fonction dans la colonne des formules : iserror()
 
@@ -68,7 +68,7 @@ Pour les [amateurs de formules](https://seatable.io/fr/docs/formeln/grundlagen-v
 
 Dans SeaTable 4.2, nous avons affiné la fonction de recherche sur la page d'accueil pour que vous puissiez avoir un meilleur aperçu de vos bases et de vos apps. Il vous suffit de saisir une partie du nom dans le champ de recherche et SeaTable vous affichera une liste de tous les résultats par autocomplétion. De plus, vous verrez l'**historique des résultats de recherche récemment utilisés** dans une sorte d'historique de navigation qui vous permettra d'accéder rapidement aux bases et apps récemment utilisées.
 
-![Amélioration de la fonction de recherche sur la page d'accueil](images/Screenshot-2023-11-20-133326.png)
+![Amélioration de la fonction de recherche sur la page d'accueil](Screenshot-2023-11-20-133326.png)
 
 ### Convertir les vues privées en vues normales
 

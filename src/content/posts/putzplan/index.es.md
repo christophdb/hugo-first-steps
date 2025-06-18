@@ -75,6 +75,6 @@ Pero asegúrate de no distraerte demasiado: la limpieza debe seguir siendo tu pr
 
 Hay mucho que planificar cuando se trata de las tareas domésticas, sobre todo si quieres implicar a varias personas en las tareas. Para que no pierdas la visión de conjunto, el equipo de SeaTable ha creado para ti una plantilla de calendario de limpieza. Puede adaptarla a sus necesidades como desee. Por ejemplo, asignando claramente las tareas a una persona responsable, podrás ver de un vistazo qué tareas tenéis que hacer tú y tus compañeros de piso y si están repartidas equitativamente.
 
-![Cree un plan de limpieza individual en SeaTable.](images/Putzplan.png)
+![Cree un plan de limpieza individual en SeaTable.](Putzplan.png)
 
 Si desea utilizar SeaTable para crear su plan de limpieza individual, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/everyday-life/cleaning-plan" >}}) encontrará la plantilla correspondiente.

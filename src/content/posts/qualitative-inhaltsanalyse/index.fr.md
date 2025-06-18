@@ -169,4 +169,4 @@ Une analyse de contenu peut rassembler de nombreux matériaux et informations. C
 
 Une **plate-forme de collaboration** comme SeaTable présente des avantages imbattables, surtout si vous travaillez avec plusieurs codeurs. Vous pouvez y centraliser tous les matériaux dans une base de données et les faire coder en donnant à chaque codeur une vue filtrée individuellement. De plus, vous pouvez facilement évaluer les données codées et les visualiser sous forme de statistiques claires.
 
-Si vous souhaitez utiliser SeaTable pour votre analyse de contenu, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement. Vous trouverez le modèle [ici]({{< relref "templates/marketing/media-content-analysis" >}}).
+Si vous souhaitez utiliser SeaTable pour votre analyse de contenu, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement. Vous trouverez le modèle [ici]({{< relref "templates/marketing/media-content-analysis" >}}).

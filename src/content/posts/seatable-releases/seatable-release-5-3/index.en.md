@@ -24,7 +24,7 @@ Different countries, different customs: depending on the region, Saturday, Sunda
 
 Following usage habits in Europe, Australia, large parts of Africa and Asia, and the ISO 8601 standard, SeaTable uses Monday as the first day of the week. (Previously, Sunday was always the first day.) Adjusting this in the date settings moves the selected day to the first column in the calendar control. This applies to the base and all apps built on it. In the calendar plugin and the calendar page in the app, the weekday can still be set individually and independently from the base setting.
 
-![Selection option for the first day of the week](images/Date_Settings_EN.png)
+![Selection option for the first day of the week](Date_Settings_EN.png)
 
 ## More flexibility in the App Builder
 
@@ -40,7 +40,7 @@ With SeaTable 5.3, we fulfill a frequently requested feature for this page type:
 
 At first glance, changes in page settings are also visible. Many settings have been moved to a new "More settings" section, which is collapsed by default. With page permissions also minimized by default, settings appear tidier and clearer.
 
-![More settings in the SeaTable App](images/Link_Column_Settings_EN.png)
+![More settings in the SeaTable App](Link_Column_Settings_EN.png)
 
 Upon closer inspection, there are also functional changes in the page settings. The "Link column settings" have been revised to make room for the new "Edit linked entries" permission. If granted, app users have write access to entries in the linked table. Which columns of the linked entries are editable can be configured in the newly designed field settings. If the permission is not enabled, users can only view existing links and add or remove links, but not modify the linked records.
 
@@ -62,7 +62,7 @@ In SeaTable 5.2, results on the query page became editable. In SeaTable 5.3, thi
 
 ### Public apps
 
-Enabling unrestricted access makes a SeaTable app a public application. Anyone can access the app via the app URL (read-only); no user login is required and there is no further access protection. At least, not until now. SeaTable 5.3 adds optional password protection to unrestricted access. When enabled, the app can only be used after entering the app password. Unrestricted, password-protected access is an interesting option for clubs or working groups that want to share low-sensitivity data with a large number of people but avoid unrestricted public access.... ![Password protection in the SeaTable App](images/App_Password_Protection_EN.png)
+Enabling unrestricted access makes a SeaTable app a public application. Anyone can access the app via the app URL (read-only); no user login is required and there is no further access protection. At least, not until now. SeaTable 5.3 adds optional password protection to unrestricted access. When enabled, the app can only be used after entering the app password. Unrestricted, password-protected access is an interesting option for clubs or working groups that want to share low-sensitivity data with a large number of people but avoid unrestricted public access.... ![Password protection in the SeaTable App](App_Password_Protection_EN.png)
 
 ## New report design plugin (beta)
 
@@ -72,7 +72,7 @@ The new report design plugin and the existing page design plugin are similar in 
 
 With the page design plugin, elements are positioned pixel-perfectly on the template, their dimensions defined, and assigned to a layer. Essentially, you use it like a graphics program: the template design precisely defines the appearance of the generated document. The report design plugin is reminiscent of Word or Google Docs. Text and other elements are placed continuously one after another. The plugin handles the page layout, including line and page breaks, during document creation. Elements with variable length, such as tables, are easily accommodated.
 
-![The new report design plugin](images/Report_Design_Plugin_EN.png)
+![The new report design plugin](Report_Design_Plugin_EN.png)
 
 The report design plugin supports a wide range of dynamic elements: individual record values, entire records, tables, and various types of charts can be used in a document template. For text formatting, you have options known from word processors, such as bullet points, text alignment, and multi-column layouts. Document outline styles are also available. However, for designing individual elements, the page design plugin offers more options. For each element, you can set text and background color, borders, and other formatting options. Using layers, elements can be stacked and overlapping effects created.
 

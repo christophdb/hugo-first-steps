@@ -23,7 +23,7 @@ What it can mean to have to fall back on emergency supplies is something we have
 
 Even with daily food, it is usually difficult to please everyone. The same applies to the choice of food for emergencies. Especially if you are stocking up on emergency food for several people, you should consider the eating habits of each individual. Likewise, you need to plan for **allergies** and **intolerances**, as well as special food for small children or pets. Don't try to buy unfamiliar foods, which may not taste good to anyone in an emergency. Rely on food you like to eat, which you can turn into varied dishes.
 
-![Shopping with the family so that everyone is happy with the emergency supply lineup.](images/pexels-gustavo-fring-3985062-min-1-min-711x474.jpg)
+![Shopping with the family so that everyone is happy with the emergency supply lineup.](pexels-gustavo-fring-3985062-min-1-min-711x474.jpg)
 
 Shopping together helps to bring only food that will be eaten.
 
@@ -31,7 +31,7 @@ Shopping together helps to bring only food that will be eaten.
 
 Make sure that the diet does not become too one-sided and pay attention to a sufficient **nutrient intake**. This consists of carbohydrates, fats, proteins, vitamins and minerals, which provide the body with energy. In addition, the calorie requirement should be covered. Since this is different for each person, whether due to age or sporting activity, you should determine this beforehand. [Online calorie calculators](https://www.esn.com/pages/kalorienrechner) are available for this purpose.
 
-![The most important foods in your emergency supply at a glance.](images/Notvorratsliste-1-e1695036643833-711x1101.png)
+![The most important foods in your emergency supply at a glance.](Notvorratsliste-1-e1695036643833-711x1101.png)
 
 The most important foods at a glance
 
@@ -47,7 +47,7 @@ By the way, you need not only drinking water, but also **utility water** for coo
 
 So that you do not have to compile your stock again and again from scratch, you should primarily focus on **long-lasting foods** when buying. However, there is also the possibility of using a few simple tricks to make your favorite home-cooked dishes last longer. You can either **freeze** them (in case of a blackout, you will have to eat them first) or you can boil down your food. But beware: there is a lot to consider when **canning**. With the help of [instructions](https://www.oma-kocht.de/wie-einkochen-anleitung-einsteiger-einwecken/), you'll succeed on your first try. By storing food in airtight packaging in a cool, dry and dark place, you increase the shelf life.
 
-![In addition to canned and preserved food, pickled food also belongs in your emergency stockpile](images/cans-881098_640.jpg)
+![In addition to canned and preserved food, pickled food also belongs in your emergency stockpile](cans-881098_640.jpg)
 
 Another way to preserve food is to pickle it.
 
@@ -61,7 +61,7 @@ To prevent stored food from exceeding its best-before date and becoming inedible
 
 Continue to build your stock piece by piece. It is not necessary to buy everything at once. When shopping, get in the habit of taking one more package of shelf-stable food than you would otherwise. Of course, during **discount promotions**, you can also strike and buy larger quantities. This way, you'll save money while being optimally prepared for anything. Nevertheless, make sure that you only buy what is eaten in your family.
 
-![In addition to food, hygiene products can also be purchased in discount promotions in larger quantities](images/eduardo-soares-RTPrTSooj0c-unsplash-min-scaled-e1695208799536-711x634.jpg)
+![In addition to food, hygiene products can also be purchased in discount promotions in larger quantities](eduardo-soares-RTPrTSooj0c-unsplash-min-scaled-e1695208799536-711x634.jpg)
 
 Take advantage of discount promotions on food, hygiene items and other useful goods.
 
@@ -100,6 +100,6 @@ Of course, water for washing should not be missing. To make this last longer, yo
 
 So that you are ideally prepared for the next emergency situation, the SeaTable team has created a template for your emergency supply. You can adapt this to your needs as you wish.
 
-![Your Emergency Stock Template](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
+![Your Emergency Stock Template](Vorlage-fuer-Ihren-Notvorrat-1.png)
 
 If you want to use SeaTable for stockpiling, just [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here]({{< relref "templates/everyday-life/shopping-list" >}}).

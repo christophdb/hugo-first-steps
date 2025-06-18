@@ -84,7 +84,7 @@ Muitas ideias podem ser concretizadas em **listas**. O importante é fazer uma l
 
 **Os marcadores** são provavelmente o complemento mais conhecido do bullet journal. Ajudam a documentar tarefas regulares. Existem diferentes tipos de marcadores:
 
-- **Localizador de hábitos**: Estabeleça novos hábitos e livre-se dos maus hábitos. Pode encontrar um artigo pormenorizado sobre este assunto [aqui](https://seatable.io/pt/habit-tracker-gewohnheiten-aendern/).
+- **Localizador de hábitos**: Estabeleça novos hábitos e livre-se dos maus hábitos. Pode encontrar um artigo pormenorizado sobre este assunto [aqui]({{< relref "posts/habit-tracker" >}}).
 - **Monitor de humor**: Registe as alterações de humor durante um longo período de tempo.
 - **Monitorizador do sono**: Monitorize as suas horas de sono e a qualidade do seu sono.
 - **Monitorização da água**: Certifique-se de que bebe água suficiente todos os dias para se manter saudável.

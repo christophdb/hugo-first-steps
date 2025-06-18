@@ -120,7 +120,7 @@ Verlassen Sie sich nicht darauf, dass die Quellenangaben in Literaturprogrammen 
 
 Kontrollieren Sie also direkt, ob die Literaturangaben korrekt sind, und ergänzen Sie diese gegebenenfalls. Möchten Sie sich diese Aufgabe bis zum Schluss aufheben, ist es hilfreich, sie in einer [To-do-Liste]({{< relref "templates/projects/to-do-list" >}}) einzutragen, um es nicht zu vergessen.
 
-![Literaturverwaltung in Bibliothek mit Tablet.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Literaturverwaltung in Bibliothek mit Tablet.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 
 Einige Literaturverwaltungsprogramme können Quellen per DOI erfassen. © ake1150 / Adobe Stock
 

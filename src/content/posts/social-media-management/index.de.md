@@ -39,7 +39,7 @@ Um als Unternehmen auf Social Media langfristig erfolgreich zu sein, sollten Sie
 
 Im Jahr 2023 ergab eine [Online-Umfrage](https://de.statista.com/statistik/daten/studie/463928/umfrage/wichtigste-social-media-plattformen-fuer-marketingverantwortliche/), welche **Plattform** für Verantwortliche im Social-Media-Management am wichtigsten ist. In Führung liegt demnach Facebook, mit einigem Abstand folgen Instagram und LinkedIn.
 
-![Statistik zu den wichtigsten Unternehmen im Social-Media-Management.](images/Statistik-711x533.png)
+![Statistik zu den wichtigsten Unternehmen im Social-Media-Management.](Statistik-711x533.png)
 
 Facebook liegt im Vergleich zu anderen Plattformen weit vorne.
 
@@ -87,7 +87,7 @@ Wenn Sie eine erfolgreiche digitale Präsenz aufbauen möchten, spielt die **Ana
 
 Falls Sie sich bisher noch nicht intensiv mit diesem Thema im Social-Media-Management auseinandergesetzt haben, ist es ratsam, mit einem **Social-Media-Audit** zu starten. Diese umfassende Überprüfung Ihrer Social-Media-Präsenz beinhaltet die Analyse bisheriger Aktivitäten, Inhalte, Interaktionen sowie der **Performance** Ihrer Kanäle. Legen Sie dabei besonderen Wert auf **wichtige Kennzahlen (KPIs)**.
 
-![Key Performance Indicators im Social-Media-Marketing.](images/KPIs-711x533.png)
+![Key Performance Indicators im Social-Media-Marketing.](KPIs-711x533.png)
 
 Zusätzlich haben Sie die Möglichkeit, eine **Benchmark-Analyse** Ihrer Konkurrenz durchzuführen. Durch den direkten Vergleich der branchenspezifischen Zahlen können Sie besser einschätzen, wie gut Ihre Performance im Vergleich zum Wettbewerb abschneidet. Neben der Identifikation Ihrer eigenen Stärken und Schwächen können Sie so auch **Best Practices** aus der Branche ableiten.
 

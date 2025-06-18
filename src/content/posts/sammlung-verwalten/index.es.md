@@ -26,11 +26,11 @@ Una posibilidad, por ejemplo, es clasificar elementos, como ocurre en una colecc
 
 ### Comparaciones, investigaciones y más
 
-También puede gestionar colecciones para analizarlas. Puede utilizar programas y aplicaciones para hacer comparaciones, ya sea dentro de su propia colección o con la de un tercero. Por ejemplo, puede averiguar qué sellos o monedas tiene otra persona que usted no posea. La información de una [colección de arte](https://seatable.io/es/ausstellungs-und-kunstmanagement-museum-galerie/) también puede utilizarse para investigar. Usted sabe exactamente qué otros objetos podrían encajar en la colección y puede investigar en consecuencia.
+También puede gestionar colecciones para analizarlas. Puede utilizar programas y aplicaciones para hacer comparaciones, ya sea dentro de su propia colección o con la de un tercero. Por ejemplo, puede averiguar qué sellos o monedas tiene otra persona que usted no posea. La información de una [colección de arte]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}) también puede utilizarse para investigar. Usted sabe exactamente qué otros objetos podrían encajar en la colección y puede investigar en consecuencia.
 
 ### Gestionar las colecciones en caso de daños
 
-Un software de cobros también es útil en caso de siniestro. Un ejemplo: usted gestiona una colección y desea asegurarla. En el programa de gestión anota los objetos que posee. Sirve como una especie de [lista de inventario](https://seatable.io/es/inventarliste-vorlagen/). A partir de ahí, sabe el valor por el que debe asegurar la colección.
+Un software de cobros también es útil en caso de siniestro. Un ejemplo: usted gestiona una colección y desea asegurarla. En el programa de gestión anota los objetos que posee. Sirve como una especie de [lista de inventario]({{< relref "posts/inventarliste-erstellen" >}}). A partir de ahí, sabe el valor por el que debe asegurar la colección.
 
 ### Controlar las ubicaciones de almacenamiento con el software de recogida
 

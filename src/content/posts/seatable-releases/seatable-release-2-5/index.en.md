@@ -19,7 +19,7 @@ Introduced in [SeaTable 2.3]({{< relref "posts/seatable-releases/seatable-releas
 
 The archive function now supports all 24 columns, including the three column types formula, link and formula for link. The lack of write access to the archive data remains a limitation in SeaTable 2.5, but these three columns are special cases: Values in the two formula columns are calculated dynamically, depending on the specification of the formula. If a formula is changed, then the values in the archived rows are recalculated. If the user changes the look-up column in a formula for links, the archive data reflects this change. The same applies to the link column. A change in the display column is made equally in the entire dataset, archive included. In this way, the archived data remains comparable with the non-archived data.
 
-![The revised archive view of SeaTable](images/archive-view.jpg)
+![The revised archive view of SeaTable](archive-view.jpg)
 
 SeaTable 2.5 also adds a print function for archive views and supports hiding columns. A search function as well as an export to Excel function were already implemented in [SeaTable 2.4]({{< relref "posts/seatable-releases/seatable-release-2-4" >}}).
 
@@ -38,7 +38,7 @@ The Calculate Cumulative Values operation calculates totals across rows for colu
 
 With all the attention on external [integrations]({{< relref "pages/integrations" >}}), we have not lost sight of SeaTable's own automations. The central innovation is the Run Python Script action. It can be triggered by the triggers "New row", "Entries meet a certain condition after change" and "Execute periodically". The automated execution of Python scripts for a single row or a whole dataset using a clear set of rules is almost a superpower!
 
-![Python scripts can now be started via automation.](images/python-script-durch-automation-511x448.jpg)
+![Python scripts can now be started via automation.](python-script-durch-automation-511x448.jpg)
 
 The existing action "row lock " gets the new trigger event "Periodically execute for rows, which fulfill a certain condition". In combination with the two other triggers "New row" and "Entries meet certain conditions after change", the user now has optimal control over the automatic locking of rows.
 
@@ -48,7 +48,7 @@ Finally, the two scheduled events "Execute periodically" and "Execute periodical
 
 We all love a wide selection! The new Rating column fulfills exactly this longing for "more". In SeaTable the rating column now offers four styles. Besides the star as the default icon, you can now also choose the heart, the thumbs-up or the flag as the icon. Also, the icon no longer has to be orange.
 
-![The new rating column in SeaTable 2.5](images/Bewertungsspalte.jpg)
+![The new rating column in SeaTable 2.5](Bewertungsspalte.jpg)
 
 But the improved rating column is not only about choice, it's also about convenience: SeaTable now automatically calculates summary values at the bottom of the table - min, max, average, and sum. In grouped views, SeaTable computes the summary for each group too.
 
