@@ -13,7 +13,7 @@ tags:
 date: 2025-06-12
 lastmod: '2025-06-12'
 url: '/pt/gestao-incidentes'
-color: '#352367'
+color: '#5bb7dd'
 ---
 
 Um servidor central falha, as encomendas na loja online são canceladas ou a produção é interrompida - situações como estas mostram a importância de uma gestão de incidentes fiável. Afinal de contas, cada minuto que um sistema está em baixo custa não só tempo e dinheiro, mas também a confiança dos seus clientes.

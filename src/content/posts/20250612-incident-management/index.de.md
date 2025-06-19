@@ -13,7 +13,7 @@ tags:
 date: 2025-06-12
 lastmod: '2025-06-12'
 url: '/de/incident-management'
-color: '#352367'
+color: '#5bb7dd'
 ---
 
 Ein zentraler Server fällt aus, Bestellungen im Onlineshop bleiben liegen oder die Produktion steht still – Situationen wie diese zeigen, wie wichtig ein zuverlässiges Incident Management ist. Denn jede Minute, in der ein System nicht funktioniert, kostet nicht nur Zeit und Geld, sondern auch das Vertrauen Ihrer Kunden.

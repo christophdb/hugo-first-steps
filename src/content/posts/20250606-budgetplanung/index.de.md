@@ -13,6 +13,7 @@ categories:
 tags:
     - 'Finanzen'
     - 'Projektmanagement'
+color: '#f4a64b'
 ---
 
 **Haben Sie schon Ihre Budgetierung für nächstes Jahr aufgestellt?** Wenn nicht, wird es Zeit: Je früher Sie wissen, wie viel Geld Sie zur Verfügung haben, desto präziser können Sie Maßnahmen einleiten, um Ihre Ziele zu erreichen: Wollen Sie mehr Mitarbeiter einstellen oder planen Sie eine größere Werbekampagne? Egal, was Sie vorhaben – dieser Artikel gibt Ihnen wertvolle Tipps für die Budgetplanung an die Hand.

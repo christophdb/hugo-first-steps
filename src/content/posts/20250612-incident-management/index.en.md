@@ -13,7 +13,7 @@ tags:
 date: 2025-06-12
 lastmod: '2025-06-12'
 url: '/incident-management/'
-color: '#352367'
+color: '#5bb7dd'
 ---
 
 A central server fails, orders in the online store come to a standstill or production comes to a halt – situations like these show how important reliable incident management is. After all, every minute a system is down costs not only time and money, but also the trust of your customers.

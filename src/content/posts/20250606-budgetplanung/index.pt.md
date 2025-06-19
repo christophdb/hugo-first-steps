@@ -11,6 +11,7 @@ categories:
 tags:
     - 'Finanças'
     - 'Gestão de projectos'
+color: '#f4a64b'
 ---
 
 **Já elaborou o seu orçamento para o próximo ano?** Se não, está na hora: quanto mais cedo souber quanto dinheiro tem disponível, mais precisamente poderá iniciar medidas para atingir os seus objectivos: Quer contratar mais empregados ou está a planear uma grande campanha publicitária? Independentemente do que tem em mente, este artigo dar-lhe-á dicas valiosas para o planeamento do orçamento.
