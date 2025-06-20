@@ -60,7 +60,7 @@ While **purchasing** focuses on the immediate **purchase of goods and services**
 
 ### Strategic purchasing
 
-Strategic purchasing or strategic procurement refers to the entire procurement management process. As already mentioned, the **focus here is on long-term corporate goals**. Employees in this area always keep an eye on the entire value chain in order to generate competitive advantages and minimize business risks. Procurement managers must be able to carry out market and competitive analyses, create supplier evaluations, develop and evaluate procurement strategies, maintain supplier relationships and decide which software is required, among other things. The supply chain is also an important aspect of strategic purchasing. You can find out more about this in our blog post on [Supply Chain Management]({{< relref "posts/supply-chain-management" >}}).
+Strategic purchasing or strategic procurement refers to the entire procurement management process. As already mentioned, the **focus here is on long-term corporate goals**. Employees in this area always keep an eye on the entire value chain in order to generate competitive advantages and minimize business risks. Procurement managers must be able to carry out market and competitive analyses, create supplier evaluations, develop and evaluate procurement strategies, maintain supplier relationships and decide which software is required, among other things. The supply chain is also an important aspect of strategic purchasing. You can find out more about this in our blog post on [Supply Chain Management]({{< relref "posts/20250620-supply-chain-management" >}}).
 
 ### Operational purchasing
 
