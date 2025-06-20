@@ -1,6 +1,9 @@
 ---
 title: 'Workflow management: automate processes efficiently'
 description: 'Optimize your workflows with SeaTable, operate modern workflow management and automate your processes.'
+seo:
+    title: "Workflow management: automate processes efficiently"
+    description: "Optimize your workflows, operate modern workflow management and automate your processes with SeaTable"
 date: '2025-04-03'
 url: '/workflow-management'
 

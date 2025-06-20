@@ -2,8 +2,8 @@
 title: 'Alternativa número 1 de Airtable (en la nube y local)'
 description: 'SeaTable es, con diferencia, la mejor alternativa a Airtable, especialmente si busca una solución autoalojada.'
 seo:
-    title: ''
-    description: ''
+    title: 'La mejor alternativa Airtable para su empresa'
+    description: 'SeaTable es la potente alternativa a Airtable para equipos de todos los tamaños. Descubra bases de datos flexibles, flujos de trabajo inteligentes y mucho más.'
 date: '2025-05-02'
 url: '/es/airtable-alternative'
 

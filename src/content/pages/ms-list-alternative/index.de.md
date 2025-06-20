@@ -2,8 +2,8 @@
 title: '#1 Microsoft Lists Alternative (cloud und on-premise)'
 description: 'SeaTable ist die perfekte Alternative zu Microsoft Lists, besonders für Unternehmen, die Ihre Daten nicht in der Microsoft Cloud ablegen sondern die volle Kontrolle mit einem selbst gehosteten Server behalten wollen. SeaTable ist die einzige einzige echte on-premise Alternative.'
 seo:
-    title: ''
-    description: ''
+    title: 'Microsoft Lists Alternative? Setzen Sie auf SeaTable!'
+    description: 'SeaTable ist Ihre flexible Microsoft Lists Alternative. Mit voller Datenhoheit, anpassbarer Oberfläche und leistungsstarker API sicher arbeiten'
 date: '2025-04-30'
 url: '/de/microsoft-lists-alternative'
 

@@ -1,6 +1,9 @@
 ---
 title: 'Digitalice y automatice los procesos de RRHH con SeaTable'
 description: 'Revolucione sus procesos de RRHH con SeaTable. Desde la incorporación hasta el registro de tiempos: aumente la eficiencia de su departamento de RRHH.'
+seo:
+    title: "Digitalizar y automatizar los procesos de RRHH | SeaTable"
+    description: "Revolucione sus procesos de RRHH con SeaTable. Desde la incorporación hasta el registro de tiempos: aumente la eficiencia de su departamento de RR.HH."
 date: '2025-04-03'
 url: '/es/hr-processes'
 
