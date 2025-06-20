@@ -14,7 +14,7 @@ tags:
 date: 2025-06-12
 lastmod: '2025-06-12'
 url: '/es/gestion-incidentes/'
-color: '#352367'
+color: '#5bb7dd'
 ---
 
 Un servidor central falla, los pedidos de la tienda en línea se paralizan o la producción se detiene: situaciones como éstas demuestran lo importante que es una gestión fiable de las incidencias. Al fin y al cabo, cada minuto de inactividad de un sistema no sólo cuesta tiempo y dinero, sino también la confianza de sus clientes.

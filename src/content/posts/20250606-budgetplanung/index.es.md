@@ -11,6 +11,7 @@ categories:
 tags:
     - 'Finanzas'
     - 'Gestión de proyectos'
+color: '#f4a64b'
 ---
 
 **¿Ha elaborado ya su presupuesto para el próximo año?** Si no es así, ha llegado el momento: cuanto antes sepa de cuánto dinero dispone, con mayor precisión podrá iniciar las medidas para alcanzar sus objetivos: ¿Quiere contratar a más empleados o está planeando una gran campaña publicitaria? No importa lo que tenga en mente, este artículo le proporcionará valiosos consejos para planificar su presupuesto.

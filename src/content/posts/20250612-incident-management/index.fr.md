@@ -13,7 +13,7 @@ tags:
 date: 2025-06-12
 lastmod: '2025-06-12'
 url: '/fr/gestion-incidents'
-color: '#352367'
+color: '#5bb7dd'
 ---
 
 Un serveur central tombe en panne, des commandes dans la boutique en ligne restent en suspens ou la production s'arrête - des situations comme celles-ci montrent l'importance d'une gestion fiable des incidents. En effet, chaque minute pendant laquelle un système ne fonctionne pas coûte non seulement du temps et de l'argent, mais aussi la confiance de vos clients.

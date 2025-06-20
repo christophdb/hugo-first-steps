@@ -11,6 +11,7 @@ categories:
 tags:
     - 'Finance'
     - 'Project management'
+color: '#f4a64b'
 ---
 
 **Have you already drawn up your budget for next year?** If not, it's time: the sooner you know how much money you have available, the more precisely you can initiate measures to achieve your goals: Do you want to hire more employees or are you planning a major advertising campaign? No matter what you have in mind, this article will provide you with valuable tips for budget planning.

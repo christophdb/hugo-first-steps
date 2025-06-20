@@ -11,6 +11,7 @@ categories:
 tags:
     - 'Finances'
     - 'Gestion de projet'
+color: '#f4a64b'
 ---
 
 **Avez-vous déjà établi votre budget pour l'année prochaine ?** Si ce n'est pas le cas, il est temps : plus vite vous connaîtrez le montant dont vous disposez, plus vous pourrez prendre des mesures précises pour atteindre vos objectifs : Souhaitez-vous embaucher davantage de salariés ou envisagez-vous une campagne publicitaire importante ? Peu importe ce que vous avez en tête, cet article vous fournira des conseils précieux pour la planification budgétaire.
