@@ -311,6 +311,9 @@
                 // Find the first supported language (fallback to default language)
                 const preferredLanguage = languageCodes.filter((code) => SUPPORTED_LANGUAGES.includes(code))[0] || DEFAULT_LANGUAGE;
 
+                // Update local storage
+                localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(preferredLanguage));
+
                 const target = URL_BY_LANGUAGE[preferredLanguage] || URL_BY_LANGUAGE[DEFAULT_LANGUAGE];
 
                 if (!target) {
