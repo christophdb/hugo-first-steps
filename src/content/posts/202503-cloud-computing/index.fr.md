@@ -5,7 +5,7 @@ seo:
     title: 'Cloud Computing | Faites évoluer votre informatique à moindre coût'
     description: 'Que signifie le cloud computing et comment fait-il progresser votre entreprise ? Découvrez tout ce que vous devez savoir sur la technologie cloud'
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Transformation digitale'
     - 'Sécurité informatique'

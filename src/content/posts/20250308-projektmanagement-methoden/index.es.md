@@ -6,7 +6,7 @@ seo:
     description: '¿Qué método de gestión de proyectos le conviene más? Nuestra completa guía compara Scrum, Kanban, PRINCE2 y co.'
 date: 2025-03-08
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
 color: '#fca86c'
 url: '/es/projektmanagement-methoden/'

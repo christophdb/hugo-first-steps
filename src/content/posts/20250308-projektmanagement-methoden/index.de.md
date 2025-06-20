@@ -6,7 +6,7 @@ seo:
     description: 'Welche Projektmanagement-Methode passt zu am besten zu Ihnen? Unser umfassender Guide vergleicht Scrum, Kanban, PRINCE2 und Co.'
 date: 2025-03-08
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Projektmanagement'
 color: '#fca86c'

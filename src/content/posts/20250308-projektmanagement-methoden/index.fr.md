@@ -6,7 +6,7 @@ seo:
     description: 'Quelle est la méthode de gestion de projet qui vous convient le mieux ? Notre guide complet compare Scrum, Kanban, PRINCE2 et autres.'
 date: 2025-03-08
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
 color: '#fca86c'
 url: '/fr/projektmanagement-methoden/'

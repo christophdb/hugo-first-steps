@@ -13,7 +13,7 @@ tags:
     - 'Ferramentas e plugins'
     - 'Gestão de frotas'
 categories:
-    - 'general'
+    - 'best-practice'
 color: '#f34b4c'
 text: 'white'
 ---

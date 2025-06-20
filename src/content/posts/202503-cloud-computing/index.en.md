@@ -5,7 +5,7 @@ seo:
     title: 'Cloud computing | Scale your IT cost-effectively'
     description: 'What is cloud computing and how does it help your company? Find out everything you need to know about cloud technology'
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Digital Transformation'
     - 'IT Security & Data Privacy'

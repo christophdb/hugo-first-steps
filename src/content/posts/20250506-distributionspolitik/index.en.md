@@ -6,7 +6,7 @@ seo:
     description: 'Read this article to find out how to use distribution policy as a lever for your sales activities'
 date: 2025-05-06
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Distribution'
 url: '/distribution-policy'
