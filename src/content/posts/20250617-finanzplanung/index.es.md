@@ -93,7 +93,7 @@ Al principio, la atención se centra principalmente en estas cuestiones:
 
 El umbral de rentabilidad también es especialmente interesante para la planificación financiera en una empresa de nueva creación: ¿En qué año le gustaría alcanzar el punto de equilibrio? En cuanto registre excedentes anuales, deberá reducir su dependencia de los financiadores (por ejemplo, bancos, inversores) y acumular reservas para tiempos de crisis. La planificación de la sucesión o las ventas también son relevantes para las empresas de nueva creación: ¿Qué ocurrirá cuando los fundadores se marchen?
 
-![Planificación financiera al fundar una empresa](Finanzplanung-bei-der-Unternehmensgründung.jpg)
+![Planificación financiera al fundar una empresa](Finanzplanung-bei-der-Unternehmensgruendung.jpg)
 
 ## Escollos en la planificación financiera
 - Especialmente si desea crear una empresa y busca inversores, su planificación financiera debe ser sólida y coherente. Una falta de plausibilidad y unas cifras incomprensibles harán que los bancos y los inversores estén menos dispuestos a aportar capital para su proyecto.

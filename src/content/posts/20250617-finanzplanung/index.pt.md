@@ -93,7 +93,7 @@ No início, o foco está principalmente nestas questões:
 
 O ponto de equilíbrio é também particularmente interessante para o planeamento financeiro de uma empresa em fase de arranque: Em que ano gostaria de atingir o ponto de equilíbrio? Logo que registe excedentes anuais, deve reduzir a sua dependência de financiadores (por exemplo, bancos, investidores) e constituir reservas para tempos de crise. O planeamento da sucessão ou das vendas também é relevante para as empresas em fase de arranque: O que é que acontece quando os fundadores deixam a empresa?
 
-![Planeamento financeiro na fundação de uma empresa](Finanzplanung-bei-der-Unternehmensgründung.jpg)
+![Planeamento financeiro na fundação de uma empresa](Finanzplanung-bei-der-Unternehmensgruendung.jpg)
 
 ## Armadilhas no planeamento financeiro
 - Especialmente se pretende criar uma empresa e procura investidores, o seu planeamento financeiro deve ser sólido e coerente. Uma falta de plausibilidade e números incompreensíveis farão com que os bancos e os investidores estejam menos dispostos a fornecer capital para o seu projeto.

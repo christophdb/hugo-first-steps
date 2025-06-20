@@ -93,7 +93,7 @@ Am Anfang stehen vor allem diese Fragen im Fokus:
 
 Gerade für die Finanzplanung in einem Startup ist auch der Break-even-Point interessant: In welchem Jahr möchten Sie die Gewinnschwelle überschreiten? Sobald Sie jährliche Überschüsse verzeichnen, sollten Sie Ihre Abhängigkeiten von Geldgebern (z. B. Banken, Investoren) reduzieren und Rücklagen für Krisenzeiten bilden. Ebenso ist für Startups die Nachfolgeplanung oder der Verkauf relevant: Was passiert, wenn die Gründer aussteigen?
 
-![Finanzplanung bei der Unternehmensgründung](Finanzplanung-bei-der-Unternehmensgründung.jpg)
+![Finanzplanung bei der Unternehmensgründung](Finanzplanung-bei-der-Unternehmensgruendung.jpg)
 
 ## Fallstricke bei der Finanzplanung
 - Vor allem, wenn Sie ein Unternehmen gründen möchten und dafür Geldgeber suchen, muss Ihre Finanzplanung stichhaltig und in sich schlüssig sein. Fehlende Plausibilität und nicht nachvollziehbare Zahlen senken die Bereitschaft von Banken und Investoren, Kapital für Ihr Projekt zur Verfügung zu stellen.

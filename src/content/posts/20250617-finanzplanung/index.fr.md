@@ -93,7 +93,7 @@ Au début, ce sont surtout ces questions qui sont au centre de l'attention :
 
 Le seuil de rentabilité est également intéressant pour la planification financière d'une start-up : En quelle année souhaitez-vous dépasser le seuil de rentabilité ? Dès que vous enregistrez des excédents annuels, vous devez réduire votre dépendance vis-à-vis des bailleurs de fonds (par exemple, banques, investisseurs) et constituer des réserves pour les périodes de crise. De même, la planification de la succession ou la vente est pertinente pour les startups : Que se passe-t-il si les fondateurs quittent l'entreprise ?
 
-![Planification financière lors de la création d'une entreprise](Finanzplanung-bei-der-Unternehmensgründung.jpg)
+![Planification financière lors de la création d'une entreprise](Finanzplanung-bei-der-Unternehmensgruendung.jpg)
 
 ## Les pièges de la planification financière
 - Si vous souhaitez créer une entreprise et rechercher des financements, votre planification financière doit être solide et cohérente. Un manque de plausibilité et des chiffres peu compréhensibles réduisent la volonté des banques et des investisseurs de fournir des capitaux pour votre projet.

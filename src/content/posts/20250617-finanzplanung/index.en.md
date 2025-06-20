@@ -93,7 +93,7 @@ At the beginning, the focus is primarily on these questions:
 
 The break-even point is also particularly interesting for financial planning in a start-up: In which year would you like to break even? As soon as you record annual surpluses, you should reduce your dependency on financial backers (e.g. banks, investors) and build up reserves for times of crisis. Succession planning or sales are also relevant for start-ups: What happens when the founders leave?
 
-![Financial planning when founding a company](Finanzplanung-bei-der-Unternehmensgründung.jpg)
+![Financial planning when founding a company](Finanzplanung-bei-der-Unternehmensgruendung.jpg)
 
 ## Pitfalls in financial planning
 - Especially if you want to start a company and are looking for investors, your financial planning must be sound and coherent. A lack of plausibility and incomprehensible figures will make banks and investors less willing to provide capital for your project.
