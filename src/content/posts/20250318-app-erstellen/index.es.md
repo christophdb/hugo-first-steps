@@ -6,7 +6,7 @@ seo:
     description: '¡Crear tus propias apps de forma sencilla! Descubre formas sencillas de desarrollar aplicaciones personalizadas sin conocimientos de programación'
 date: 2025-03-18
 categories:
-    - 'general'
+    - 'best-practice'
     - 'No Code & Low Code'
 tags:
     - 'Herramientas y plugins'

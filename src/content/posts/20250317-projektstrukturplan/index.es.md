@@ -6,7 +6,7 @@ seo:
     description: '¡No vuelvas a quedarte atascado en el caos de un proyecto! Descubra los beneficios de una estructura de desglose del trabajo bien pensada y cómo crear una.'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
     - 'best-practice'
 tags:
     - 'Gestión de proyectos'

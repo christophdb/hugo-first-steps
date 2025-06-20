@@ -6,7 +6,7 @@ seo:
     description: 'Saiba como a SeaTable reorganizou a gestão de encomendas e iniciou a transformação digital numa empresa de instalações de construção'
 date: 2025-03-21
 categories:
-    - 'general'
+    - 'best-practice'
     - 'customer-story'
 tags:
     - 'Transformação digital'

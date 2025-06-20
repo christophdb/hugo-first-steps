@@ -6,7 +6,7 @@ seo:
     description: 'Unos procesos de compra eficientes son la clave del éxito empresarial. Descubra estrategias para los procesos de compra y la gestión de proveedores'
 date: 2025-03-27
 categorías:
-    - 'general'
+    - 'best-practice'
     - 'best-practice'
 tags:
 color: '#a57956'

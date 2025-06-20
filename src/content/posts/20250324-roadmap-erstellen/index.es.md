@@ -6,7 +6,7 @@ seo:
     description: 'En este artículo, aprenderá a crear una hoja de ruta y ahorrar tiempo y recursos con la plantilla adecuada'
 date: 2025-03-24
 categories:
-    - 'general'
+    - 'best-practice'
     - 'best-practice'
 tags:
     - 'Procesos de TI'

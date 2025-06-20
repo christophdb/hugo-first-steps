@@ -6,7 +6,7 @@ seo:
     description: 'Aprenda cómo las pruebas de software hacen que su aplicación sea más estable y por qué son esenciales para el éxito de los proyectos'
 date: 2025-03-18
 categories:
-    - 'general'
+    - 'best-practice'
     - 'best-practice'
 tags:
     - 'Procesos informáticos'
