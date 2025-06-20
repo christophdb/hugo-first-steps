@@ -16,13 +16,13 @@ Uno de los días más bonitos e importantes de la vida está a la vuelta de la e
 
 Normalmente, la planificación de una boda comienza unos 13 meses antes del gran día. Si quieres tener un lugar popular para la boda, a veces incluso antes. Es importante no perder de vista el gran número de tareas. Por eso, en el centro de nuestra plantilla Wedding [Planner]({{< relref "templates/events/wedding-planner" >}}) se encuentra la _lista de comprobación_, que ya cuenta con más de 200 tareas predefinidas. Además, esta tabla registra cuándo debe completarse la tarea correspondiente. Siempre hay una tarea superior, que contiene varios subapartados individuales para guiarle a través de todo el proceso. La columna _"Check"_ es una [casilla de verificación](https://seatable.io/es/docs/handbuch/datenmanagement/feld-typen/?lang=auto#checkbox) que se utiliza para marcar las tareas pendientes completadas.
 
-![Lista de control para la planificación de la boda](https://seatable.de/wp-content/uploads/2021/07/wedding-more-than-200-todos.png)
+![Lista de control para la planificación de la boda](wedding-more-than-200-todos.png)
 
 Nuestra lista de control para la planificación de la boda ya contiene más de 200 tareas para que no se le olvide nada.
 
 ### Cree sus propias tareas pendientes
 
-Para empezar a planificar su propia boda, debe [registrarse en una cuenta gratuita de SeaTable](https://seatable.io/es/registrierung/?lang=auto). A continuación, puede empezar a planificar su boda utilizando nuestra plantilla de _planificador de_ bodas.
+Para empezar a planificar su propia boda, debe [registrarse en una cuenta gratuita de SeaTable]({{< relref "pages/registration" >}}). A continuación, puede empezar a planificar su boda utilizando nuestra plantilla de _planificador de_ bodas.
 
 Puede insertar tareas adicionales en cualquier punto de la plantilla. Cuando se asigna una nueva _tarea principal_, se crea automáticamente un nuevo grupo de tareas. La clasificación de los grupos de tareas se realiza automáticamente en función del tiempo de espera hasta la boda. ¿Quiere dar a las tareas una fecha concreta? Basta con añadir una nueva [columna de fechas](https://seatable.io/es/docs/handbuch/datenmanagement/feld-typen/?lang=auto#datum) y asignar una fecha a cada tarea.
 
@@ -47,7 +47,7 @@ Hemos preparado 5 puntos de vista diferentes para ayudarte a tomar 5 decisiones 
 4. Para el entretenimiento está la vista _Entertainment_
 5. Para la comida está la vista de los posibles _servicios de catering_
 
-![Planificación de la boda](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
+![Planificación de la boda](Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
 
 ### La planificación de la boda es una cuestión de decisiones
 
@@ -74,7 +74,7 @@ En las notas hay espacio para todo lo posible, tal vez haya preferencias persona
 
 Para evitar un caos adicional de notas en la mesa del comedor, además de la caótica planificación de la boda, pensamos en resolver el problema del plan de asientos de forma digital. Al vincular las dos tablas _Lista_ de invitados y Tabla _de_ _asientos_, puede asignar cada invitado de la tabla _Lista de invitados_ a una tabla que haya definido previamente en la tabla _Tabla de asientos_. Si le resulta más claro, también puede asignar los invitados individuales a sus mesas en la tabla _de asientos_ al revés. Si hace clic en una mesa de la _lista de invitados_, podrá ver directamente quién está sentado en ella.
 
-![](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-14.29.48.png)
+![](Bildschirmfoto-2021-07-13-um-14.29.48.png)
 
 Una vez más, hay diferentes vistas para la lista de invitados para ayudarte aún más. Hemos creado una vista que muestra las [invitaciones](https://www.pinterest.de/mhochzeitsdeko/einladungenskarten-hochzeit/) que aún no se han enviado. Una vista le muestra las diferentes solicitudes de menú. Quizás también sería una opción que [compartierais](https://seatable.io/es/docs/handbuch/zusammenarbeit/externe-links/?lang=auto) esta visión directamente con el proveedor, para que pueda planificar el menú más fácilmente. Por último, pero no menos importante, hay tres vistas individuales para cada celebración, porque como sabemos, no todos los invitados acuden a todas las partes de la celebración. Así, con un solo clic tendrá una visión directa de las personas que estarán presentes en cada caso.
 
@@ -92,7 +92,7 @@ Con nuestra _lista de control_ de más de 200 puntos, nada puede fallar a la hor
 
 Incluso si su boda es un poco más específica o tiene otros requisitos, SeaTable se puede personalizar a su gusto. Añada tablas, cree [diferentes vistas](https://seatable.io/es/docs/handbuch/datenmanagement/ansichten/?lang=auto), [agrupe y filtre](https://seatable.io/es/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) sus datos y vistas o pruebe los [complementos](https://seatable.io/es/docs/handbuch/schnelleinstieg/erweiterungen/?lang=auto) que más le convengan. Por ejemplo, sería concebible integrar una lista de deseos en el planificador de bodas y que los invitados puedan introducir por adelantado el regalo que van a elegir a través de un formulario web. Con SeaTable, el formulario web podría diseñarse de forma que los invitados sólo vieran los regalos que ningún otro invitado ha elegido todavía. Realmente no hay límites para la imaginación.
 
-[Regístrese ahora](https://seatable.io/es/registrierung/?lang=auto) y empiece a planificar su boda. Todo el equipo de SeaTable te desea mucha diversión y una gran boda.
+[Regístrese ahora]({{< relref "pages/registration" >}}) y empiece a planificar su boda. Todo el equipo de SeaTable te desea mucha diversión y una gran boda.
 
 ### Instrucciones en vídeo en alemán en YouTube
 

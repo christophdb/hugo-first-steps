@@ -53,7 +53,7 @@ Concebemos o nosso modelo para ser simples e direto. Numa tabela, encontrará to
 
 No passo seguinte, pode utilizar a coluna da data para determinar em que dia e a que horas a reunião deve começar e quando deve terminar. A coluna de fórmula seguinte calcula automaticamente a duração da reunião para que todos saibam rapidamente quanto tempo têm para planear. Na coluna "Colaboradores", indica todos os colaboradores que devem participar na reunião. Todos os empregados receberão então uma notificação automática, que explicamos em mais pormenor abaixo.
 
-![Gerir reuniões de equipa com SeaTable](https://seatable.de/wp-content/uploads/2021/10/Overview-Teammeeting.png)
+![Gerir reuniões de equipa com SeaTable](Overview-Teammeeting.png)
 
 O passo seguinte é determinar a sala em que se realizará a reunião. As salas estão claramente separadas por cores, para que seja fácil ver onde se está a encontrar. A coluna seguinte mostra uma parte particularmente importante da preparação e acompanhamento: A agenda. Uma vez que SeaTable é também uma base de dados, todos os tópicos, ficheiros e minutos podem ser armazenados directamente no local e editados de forma síncrona. Cada utilizador autorizado pode trabalhar na Base com outros utilizadores ao mesmo tempo e, por exemplo, introduzir tópicos importantes.
 
@@ -63,7 +63,7 @@ A ordem de trabalhos também ajuda a preparar a reunião em conformidade. Basta 
 
 ### A função de chat facilita a comunicação
 
-![A função de chat torna os e-mails supérfluos ](https://seatable.io/wp-content/uploads/2021/10/Chat-Funktion.png)
+![A função de chat torna os e-mails supérfluos ](Chat-Funktion.png)
 
 A [função de chat](https://seatable.io/pt/docs/handbuch/zusammenarbeit/kommentare/) em cada linha, ou seja, em cada reunião de equipa individual, permite uma comunicação descomplicada e simplificada que torna supérfluos quaisquer e-mails. Quando se abre uma linha (clique nas pequenas setas azuis à esquerda da linha), abre-se uma visão global da reunião. À direita encontra-se o chat, onde pode facilmente adicionar membros do pessoal e escrever mensagens importantes, tais como o membro do pessoal Müller deve carregar a apresentação intercalar com a revisão anual.
 
@@ -75,7 +75,7 @@ Com SeaTable, pode mapear todas as reuniões da sua equipa num único local cent
 
 Criar pontos de vista diferentes é uma das vantagens práticas da SeaTable em relação a outras folhas de cálculo.
 
-![Opiniões próprias permitem mais ordem](https://seatable.io/wp-content/uploads/2021/10/Ansichten.png)
+![Opiniões próprias permitem mais ordem](Ansichten.png)
 
 Crie quantos pontos de vista quiser e desenhe-os exactamente como precisa dos dados neste momento. As definições na vista original não mudam. Um conjunto de dados, mas centenas de opções de visualização: Isso é possível com o SeaTable.
 
@@ -87,11 +87,11 @@ As opiniões ainda são importantes para o plug-in do calendário e são necess�
 
 O SeaTable está também equipado com um plug-in de calendário. Aqui, as nomeações de qualquer tipo podem ser integradas para manter uma boa visão geral. Para a visão da assembleia geral, pode simplesmente seleccionar esta visão no plugin do calendário e definir todos os parâmetros de acordo com as suas necessidades.
 
-![No calendário pode ver todas as reuniões](https://seatable.de/wp-content/uploads/2021/10/Calendar.png)
+![No calendário pode ver todas as reuniões](Calendar.png)
 
 Por conseguinte, categorizámos as salas em colunas de seleção única, uma vez que podemos definir cores diferentes por sala. No plug-in do calendário, isto tem a vantagem de as diferentes reuniões de equipa poderem ser apresentadas exatamente com a mesma cor que o esquema de cores da sala. Por exemplo, se pretender criar outra reunião à mesma hora no dia 20.10, verá diretamente que esta não pode ter lugar na sala de reuniões azul.
 
-![Vistas do calendário](https://seatable.io/wp-content/uploads/2021/10/Calendar-1.png)
+![Vistas do calendário](Calendar-1.png)
 
 As vistas criadas são agora utilizadas no plug-in. Para o fazer, basta seleccionar a vista do membro do pessoal ou a sala que deve ser exibida no calendário. Desta forma, cada membro do pessoal obtém também a sua própria visão de calendário, na qual todas as suas reuniões são inscritas. O mesmo se aplica à vista geral da sala: Com um filtro, a vista da sala EG R002 mostra apenas as reuniões que têm lugar nesta sala. Para encontrar uma sala livre ao planear uma reunião, pode ser criada uma marcação e reservada directamente através da vista.
 

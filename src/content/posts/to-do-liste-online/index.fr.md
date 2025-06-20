@@ -41,7 +41,7 @@ Un modèle de liste de choses à faire vous aide en outre à **visualiser** vos 
 
 Cette structure et la certitude qu'aucune pensée ou tâche à faire ne se perd en ligne vous aident à retrouver votre **calme intérieur**. Vous savez toujours ce que vous avez à faire. Vous pouvez donc vous **concentrer** pleinement sur les tâches à accomplir et faire abstraction de tout le reste.
 
-![Activités quotidiennes sur un tableau](https://seatable.io/wp-content/uploads/2024/04/sign-870246_640.jpg)
+![Activités quotidiennes sur un tableau](sign-870246_640.jpg)
 
 ### Gérer plus facilement la communication au sein de l'équipe
 
@@ -65,13 +65,13 @@ Un lien avec votre calendrier, un assistant vocal sur votre smartphone et d'autr
 
 ### Microsoft To Do : l'application polyvalente pour votre liste de choses à faire
 
-Avec [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), vous disposez à la fois d'un planificateur journalier et d'un outil pour les [listes](https://seatable.io/fr/einkaufsliste/) de tâches et [d'achats](https://seatable.io/fr/einkaufsliste/). Vous pouvez intégrer des tâches depuis Outlook et travailler sur une liste de manière synchrone depuis tous les terminaux.
+Avec [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), vous disposez à la fois d'un planificateur journalier et d'un outil pour les [listes]({{< relref "posts/einkaufsliste" >}}) de tâches et [d'achats]({{< relref "posts/einkaufsliste" >}}). Vous pouvez intégrer des tâches depuis Outlook et travailler sur une liste de manière synchrone depuis tous les terminaux.
 
 Il est possible de trier les différentes tâches à faire, de leur attribuer un délai et de les cocher. Des rappels et des tâches répétitives sont également possibles. Au-delà du mode liste, il n'y a cependant pas d'options avancées pour la visualisation, vous avez alors besoin du Planner.
 
 {{< warning headline="Utilisation gratuite" text="Microsoft To Do est disponible gratuitement. Tout ce dont vous avez besoin, c'est d'un compte Microsoft." />}}
 
-![Application Microsoft To do List sur smartphone.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Application Microsoft To do List sur smartphone.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
 © sdx15 / Adobe Stock
 
@@ -87,7 +87,7 @@ Avec Projoodle, vous disposez d'une application gratuite pour les listes de chos
 
 En tant qu'utilisateur Apple, vous connaissez probablement déjà l'application Rappels. Vous pouvez y créer de nouvelles listes avec autant d'entrées que vous le souhaitez, que vous pouvez cocher sans effort - par exemple lorsque vous faites vos courses. En outre, vous pouvez ajouter de nombreux détails à chaque tâche à faire, comme une date, un lieu, une priorité, des images et des sous-tâches.
 
-![Rappels de la journée : Application de liste de choses à faire pour iOS](https://seatable.io/wp-content/uploads/2022/06/Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
+![Rappels de la journée : Application de liste de choses à faire pour iOS](Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
 
 Les rappels peuvent être triés de manière claire dans chaque liste et divisés en sections. De plus, certaines catégories comme _aujourd'hui_, _planifié_ ou _terminé_ sont disponibles sur la page d'accueil, dans lesquelles atterrissent toutes les entrées qui s'appliquent à toutes les listes. Vous pouvez utiliser gratuitement l'application Rappels pour vos listes de choses à faire et les synchroniser sur tous les appareils Apple.
 
@@ -99,9 +99,13 @@ Il est également intéressant de noter que vous pouvez télécharger [des fichi
 
 Dans la comparaison de toutes les apps considérées, SeaTable a de loin **le plus grand nombre de fonctions** et convainc par sa grande **flexibilité**. Ainsi, vous obtenez en une seule application tout ce dont vous avez besoin pour votre liste de choses à faire. Grâce aux nombreuses **fonctions collaboratives** (commentaires, ensembles de données partagés, travail synchrone en temps réel, etc.), vous pouvez non seulement travailler sur vos propres listes, mais aussi collaborer avec succès en équipe.
 
-Avec SeaTable, vous pouvez commencer immédiatement avec la [version gratuite](https://seatable.io/fr/enregistrement/) et le [modèle interactif]({{< relref "templates/projects/to-do-list" >}}). D'autres fonctionnalités sont disponibles dans la version Plus pour 7 € par utilisateur et par mois, la version Enterprise pour 14 € par utilisateur et par mois ou une solution cloud dédiée.
+Avec SeaTable, vous pouvez commencer immédiatement avec la [version gratuite]({{< relref "pages/registration" >}}) et le [modèle interactif]({{< relref "templates/projects/to-do-list" >}}). D'autres fonctionnalités sont disponibles dans la version Plus pour 7 € par utilisateur et par mois, la version Enterprise pour 14 € par utilisateur et par mois ou une solution cloud dédiée.
 
-{{< warning headline="RGPD et souveraineté des données" text="Les serveurs de SeaTable Cloud sont situés en Allemagne, ce qui fait que la plateforme est également adaptée au travail avec des données sensibles et personnelles, conformément au RGPD. Vous avez en outre la possibilité d'installer [SeaTable On-Premises](https://seatable.io/fr/on-premises/) sur vos propres serveurs." />}}
+{{< warning headline="RGPD et souveraineté des données" >}}
+
+Les serveurs de SeaTable Cloud sont situés en Allemagne, ce qui fait que la plateforme est également adaptée au travail avec des données sensibles et personnelles, conformément au RGPD. Vous avez en outre la possibilité d'installer [SeaTable On-Premises]({{< relref "pages/product/seatable-server" >}}) sur vos propres serveurs.
+
+{{< /warning >}}
 
 ## Conseils pour réussir votre liste de choses à faire
 
@@ -112,7 +116,7 @@ Une fois le choix de l'outil arrêté, il s'agit d'établir votre première list
 - Célébrez vos réussites. Choisissez un outil qui vous permet de **cocher** les tâches **ou de les marquer comme terminées**. Vous vous sentirez ainsi plus à l'aise.
 - Au quotidien, ne tenez pas seulement une, mais **au moins trois listes de choses à faire** dans l'application. Vous pouvez les classer par thème, par exemple en fonction des loisirs, des activités ménagères et des achats. Ou bien vous inscrivez toutes les tâches dans un backlog avec la date correspondante, afin de présenter les tâches dans une liste mensuelle, hebdomadaire et quotidienne grâce à différentes vues.
 
-![L'employé établit une liste de choses à faire en ligne](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
+![L'employé établit une liste de choses à faire en ligne](To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
 
 Commencez par établir votre propre liste de choses à faire © Tarokmew / Adobe Stock
 

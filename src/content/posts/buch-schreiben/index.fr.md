@@ -12,7 +12,7 @@ seo:
 
 L'écriture d'un livre est pour beaucoup un processus fascinant, mais aussi un défi. De la première idée au **manuscrit** final, il y a de nombreux obstacles à surmonter et de nombreux jalons à poser. À une époque où les outils numériques et les solutions logicielles jouent un rôle de plus en plus important dans le **processus de création**, il est essentiel pour les auteurs de trouver le bon logiciel pour donner vie à leur vision. Cet article se penche de plus près sur **7 outils** qui vous permettront d'écrire votre livre.
 
-![Un petit auteur se tient devant une machine à écrire et réfléchit.](images/Tiny-male-author-or-screenwriter-writing-story-or-movie-script-711x444.jpg)
+![Un petit auteur se tient devant une machine à écrire et réfléchit.](Tiny-male-author-or-screenwriter-writing-story-or-movie-script-711x444.jpg)
 
 Écrire un livre demande du temps et du dévouement.
 
@@ -26,7 +26,7 @@ Un [processus d'écriture](https://de.wikipedia.org/wiki/Schreibprozess#Das_Schr
 - Avec la structure comme fil conducteur, l'**écriture** proprement dite commence. Au cours de cette phase, vous mettez vos idées en mots et développez le livre.
 - La dernière étape est la **révision**. C'est à ce moment que le livre est soigneusement relu afin de corriger les erreurs, d'améliorer le style d'écriture et de s'assurer que le texte atteint le niveau souhaité.
 
-![Écriture de livre graphique : le processus d’écriture en 5 étapes](images/Schreibprozess-in-5-Schritten-4-711x400.png)
+![Écriture de livre graphique : le processus d’écriture en 5 étapes](Schreibprozess-in-5-Schritten-4-711x400.png)
 
 Processus d'écriture en 5 étapes
 
@@ -36,7 +36,7 @@ L’importance d’une planification minutieuse ne doit pas être sous-estimée 
 
 La planification n’est pas seulement avantageuse en termes de contenu, mais aussi en termes d’organisation. L’écriture d’un livre est un projet intimidant qui est plus facile à accomplir si vous le décomposez en **morceaux gérables** . Non seulement cette répartition vous facilite le **processus d’écriture** , mais elle vous aide également à suivre l’ensemble du projet et à mieux suivre **l’avancement** .
 
-![L’auteur réfléchit et crée un fil conducteur.](images/8753615-711x506.jpg)
+![L’auteur réfléchit et crée un fil conducteur.](8753615-711x506.jpg)
 
 Même les histoires fictives nécessitent souvent des recherches approfondies pour fournir des détails réalistes.
 
@@ -63,7 +63,7 @@ Se familiariser avec Papyrus nécessite du temps pour saisir toute la gamme des 
 **Capacité de personnalisation : Élevée**  
 **Coût :** 199 Euro
 
-![Écrire un livre : la base de données des éléments dans Papyrus](images/papyrus-711x610.png)
+![Écrire un livre : la base de données des éléments dans Papyrus](papyrus-711x610.png)
 
 Dans Papyrus, vous pouvez créer des bases de données détaillées.
 
@@ -76,7 +76,7 @@ Si vous voulez écrire un livre avec Scrivener, vous pouvez choisir entre la non
 **Capacité de personnalisation :** très élevée  
 **Coût :** 69.99 Euro
 
-![Écrire un livre : Aperçus de Scrivener](images/scrivener-711x381.png)
+![Écrire un livre : Aperçus de Scrivener](scrivener-711x381.png)
 
 Scrivener permet d’obtenir des feuilles de personnage claires.
 
@@ -89,7 +89,7 @@ La fonction principale de Plottr est un **calendrier** qui permet aux auteurs de
 **Capacité de personnalisation :** très élevée  
 **Coût :** 149 $ – 299 $
 
-![Écrire un livre avec Plottr : un aperçu](images/plottr-711x388.png)
+![Écrire un livre avec Plottr : un aperçu](plottr-711x388.png)
 
 Plottr facilite la visualisation des scénarios.
 
@@ -102,7 +102,7 @@ Bien que le logiciel DramaQueen soit principalement conçu pour les **scénarios
 **Personnalisation :** bonne  
 **Coût :** fonction de base gratuite
 
-![Écrire un livre : Construire un exemple d’intrigue avec Dramaqueen](images/Dramaqueen-711x343.png)
+![Écrire un livre : Construire un exemple d’intrigue avec Dramaqueen](Dramaqueen-711x343.png)
 
 Avec DramaQueen, vous pouvez découvrir les faiblesses de votre dramaturgie.
 
@@ -115,7 +115,7 @@ Patchwork fournit un soutien étendu aux auteurs à travers de nombreux **exempl
 **Capacité de personnalisation : Élevée**  
 **Coûts :** 154 – 189 Euro
 
-![Écrire un livre : Aperçu du logiciel Patchwork](images/patchwork-711x389.png)
+![Écrire un livre : Aperçu du logiciel Patchwork](patchwork-711x389.png)
 
 ### Feu de camp Pro
 
@@ -126,7 +126,7 @@ Campfire Pro se caractérise par un design simple avec des **panneaux** qui se t
 **Capacité de personnalisation :** très élevée  
 **Coûts :** en partie gratuits
 
-![Écriture de livres : un regard de l’intérieur sur Campfire Pro](images/campfire-711x437.png)
+![Écriture de livres : un regard de l’intérieur sur Campfire Pro](campfire-711x437.png)
 
 ### SeaTable
 
@@ -141,4 +141,4 @@ Le [calendrier d’écriture]({{< relref "templates/projects/writing-plan" >}}) 
 
 Les outils logiciels de création présentés ici offrent une variété de fonctionnalités et de capacités pour vous aider à chaque étape du processus de rédaction. En fin de compte, le choix du bon logiciel dépend de vos besoins et préférences individuels lors de l’écriture de livres. Avec le bon programme, vous pouvez rationaliser votre processus d’écriture et réaliser avec succès vos visions créatives.
 
-Si vous souhaitez utiliser le modèle de SeaTable pour votre projet de livre, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement avec votre adresse e-mail. Ainsi, vous pouvez commencer avec votre [plan d’écriture]({{< relref "templates/projects/writing-plan" >}}) personnel en quelques minutes seulement.
+Si vous souhaitez utiliser le modèle de SeaTable pour votre projet de livre, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement avec votre adresse e-mail. Ainsi, vous pouvez commencer avec votre [plan d’écriture]({{< relref "templates/projects/writing-plan" >}}) personnel en quelques minutes seulement.

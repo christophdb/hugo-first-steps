@@ -13,7 +13,7 @@ seo:
 
 Most companies take measures to enable working from home and organize online seminars or other events for their employees in addition to home office options. However: you start to miss even the most annoying colleague and the chat at the coffee machine is also missing. With a team that works almost exclusively remotely, it's sometimes difficult to stay up-to-date, and [productivity often suffers](https://seatable.io/en/homeoffice-tipps/) as a result. Luckily, there's a method that could help you reclaim your productivity remotely. With daily stand-ups, you'll improve your team's productivity in no time.
 
-![Productivity suffers from failure to maintain informal communication](images/Bildschirmfoto-2021-04-21-um-14.59.01.png)
+![Productivity suffers from failure to maintain informal communication](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 
 [Image source](https://www.odgersberndtson.com/media/9459/sonderausgabe-managerbarometer-corona.pdf)
 
@@ -57,7 +57,7 @@ Care should be taken with the third question. This is where there is the greates
 
 This is where online meetings finally have an advantage. When it comes to being on time, you have fewer reasons to be late at home because you don't have to physically move to a meeting room. In general, you should still establish a corporate culture in which it becomes standard to arrive on time (if not rather a little early) for the meeting.
 
-![Keeping an eye on time](images/sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
+![Keeping an eye on time](sonja-langford-eIkbSc3SDtI-unsplash-711x474.jpg)
 
 Starting meetings late is actually a very common complaint from staff in general. There are equally complaints about the wrong timing of a meeting. Either it takes far too long or it is scheduled too short. Start on time and finish on time - even if someone shows up late.
 

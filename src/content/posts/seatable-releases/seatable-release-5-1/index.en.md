@@ -38,7 +38,7 @@ In SeaTable 5.1, this page type - just like table and query pages - supports the
 
 The toolbar offers a new **QR code generator**. The QR code contains the link to the currently displayed entry. Attached to an object or device, all data can be called up in the app via a tablet or smartphone without any keyboard input. This makes inventory management, for example, even easier.
 
-![More design options on single record page in SeaTable 5.1](images/SingleRecordPage.png)
+![More design options on single record page in SeaTable 5.1](SingleRecordPage.png)
 
 This page type also offers more visual design options in SeaTable 5.1. If you have embedded table fields in the page, you were previously only able to configure the formatting of the field name. For all text and number-based column types, you now also have the option of setting the **font size, font weight, font color and alignment of the field values**.
 
@@ -62,7 +62,7 @@ The most striking new feature is probably **the extended column context menus** 
 
 Almost as noticeable is the **yellow warning** that appears in normal views in link columns if the linked table contains rows in the big data store. The notice makes it clear that linked entries in the big data store are not visible in the cell of the link column. If you would like to display these, click on the icon to open the list of linked entries.
 
-![Linked archived records dialog in SeaTable 5.1](images/LinkedArchivedRows.png)
+![Linked archived records dialog in SeaTable 5.1](LinkedArchivedRows.png)
 
 In response to many user requests, the **data processing operation** [Compare and join](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) is now also available in big data views. This operation can link entries in the big data store with rows in any other table, regardless of whether the rows of the linked table are stored in the base or in the big data store.
 
@@ -74,7 +74,7 @@ To increase the traceability of changes to rows in the big data memory, SeaTable
 
 Although apps can access data in the big data storage, entries created in apps could not be saved there directly. New entries were always saved in the base. We have closed this functional gap with SeaTable 5.1. The base remains the **default storage location for new entries**; however, this setting can be changed in the [app settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). As the screenshot shows, you can specify for each table whether new rows should be written to the base or to the big data memory.
 
-![New big data management in SeaTable's App Builder](images/BigDataManagement_AppBuilder.png)
+![New big data management in SeaTable's App Builder](BigDataManagement_AppBuilder.png)
 
 However, we have not only improved the integration with the apps, the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) also offers new possibilities. The plugin now has access to the big data storage and can **create documents for rows in the big data storage**.
 
@@ -82,7 +82,7 @@ However, we have not only improved the integration with the apps, the [page desi
 
 After three new plugins in [version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), version 5.1 also expands the list of available SeaTable plugins: The new Tree plugin enables the compact tabular display of relationally linked data records. Regardless of whether you are evaluating financial data (as in the screenshot below), project data, usage data or other data, the new plugin provides an overview that did not previously exist in this form.
 
-![Tree Plugin](images/TreePlugin.png)
+![Tree Plugin](TreePlugin.png)
 
 Hierarchies across up to three levels, i.e. data from three tables, can currently be displayed in the plugin. You define the dependencies using links. You can call up the details for each individual data record directly in the plugin and also add new data records.
 
@@ -92,7 +92,7 @@ Once again, there is more news in this version than we can present in a manageab
 
 A new function has been added to the **formula editor**: **rowid()** returns the ID of row . This can then be used for button actions or automations, for example. There are new features not only in the [formula column](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/), but also in the formula column type for links: [Lookups](https://seatable.io/en/docs/verknuepfungen/die-lookup-funktion/) now offer a duplicate check. If the **Do not show duplicates** option is activated, only unique values are displayed in each cell of the column.
 
-![Color Picker introduced SeaTable 5.1](images/ColorPicker.png)
+![Color Picker introduced SeaTable 5.1](ColorPicker.png)
 
 In SeaTable 5.1, we have improved syntax highlighting in the integrated **Python editor** to make it even easier for you to keep track of [scripts](https://seatable.io/en/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/). We have also fixed a bug with automatic indentation.
 

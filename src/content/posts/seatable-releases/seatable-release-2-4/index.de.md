@@ -16,7 +16,7 @@ SeaTable 2.4 hat das Licht der Welt erblickt! Die jüngste Inkarnation des SeaTa
 
 Ansichten bieten einzigartige Perspektiven auf die Daten in einer SeaTable Tabelle und sind fantastische Tools für die Datenanalyse. Aber, so das Feedback von Nutzerseite, der Wechsel zwischen den Ansichten ist unnötig kompliziert.
 
-![Pinnable view navigation](images/Pinnable_View_Navigation_1448x787.png)
+![Pinnable view navigation](Pinnable_View_Navigation_1448x787.png)
 
 Mit SeaTable 2.4 führen wir die andockbare Ansichtsnavigation ein, die die Auswahl und den Wechsel zwischen Ansichten so einfach macht wie die Navigation in Ordnern in einem Dateimanager à la Windows Explorer oder dem Finder auf dem Mac. Bei angedockter Navigation wird die Liste der Ansichten über die vollständige linke Seite des Tabelleneditors aufgezogen, so dass die Ansichten direkt zur Auswahl zur Verfügung stehen. Um unterschiedliche Bedürfnisse berücksichtigen zu können, ist die Weite der angedockten Navigation individuell je nach Bedarf einstellbar. Wenn Sie häufig zwischen Ansichten wechseln müssen, dann wird Ihnen diese Neuerung viel Klick- und Mausarbeit ersparen.
 
@@ -24,7 +24,7 @@ Mit SeaTable 2.4 führen wir die andockbare Ansichtsnavigation ein, die die Ausw
 
 Der Spaltentyp Verknüpfung zu anderen Einträgen ist vermutlich SeaTables wichtigster. SeaTable ist eben nicht einfach ein weiteres Online-Spreadsheet! Wie kein anderer Spaltentypen steht dieser Spaltentyp dafür. Und in SeaTable 2.4 haben wir diesen Spaltentyp nun noch besser gemacht.
 
-![More display options for link column](images/More_Flexible_Link_Column_raw_1448x554.png)
+![More display options for link column](More_Flexible_Link_Column_raw_1448x554.png)
 
 In früheren SeaTable Versionen hat die Verknüpfung immer den Wert der ersten Spalte des verlinkten Eintrags gezeigt. Von nun ab können Sie auswählen, welcher Spaltenwert der verknüpften Zeile angezeigt werden soll. Diese Auswahl erfolgt einfach über ein Dropdown-Menü in der Konfiguration der Verknüpfungsspalte. Was klein klingt, ist von großer Bedeutung! Stellen Sie sich vor, die erste Spalte in der verknüpften Tabelle ist eine Autonummernspalte. Diese Werte sind für Sie ohne relevante Information, die Anzeige ohne nennenswerte Bedeutung. In der neuen Version wählen Sie nun eine Spalte die aussagekräftigere Informationen enthält. So wird die Erstellung von Verknüpfung vereinfacht und die Tabelle wird mit weniger Lookup-Spalten kompakter. Schließlich macht die überarbeitete Verknüpfungsspalte auch Webformulare leistungsfähiger für Umfragen und Erhebungen. Die ausgewählte Anzeigespalte ist auch die, die ein Besucher im Webformular sieht und aus denen er auswählen kann. Wir sind überzeugt, dass Sie von der neuen Funktion genauso angetan sein werden wie wir.
 
@@ -32,7 +32,7 @@ In früheren SeaTable Versionen hat die Verknüpfung immer den Wert der ersten S
 
 Sie wollen alle Duplikate in Ihrer Tabelle ermitteln? Mit SeaTable 2.4 haben Sie ab sofort nicht eine, sondern zwei Möglichkeiten, dies zu tun: Sie können das Plugin für Datendeduplizierung verwenden oder die neue bedingte Formatierungsoption “Duplikate hervorheben”. Diese Formatierungsoption markiert alle Duplikatzeilen in der aktiven Tabelle. Durch die Auswahl der Vergleichsspalten können Sie exakt definieren, was ein Duplikat ausmacht.
 
-![New conditional formatting option "Highlight duplicates"](images/Highlight_duplicates_1448x554.png)
+![New conditional formatting option "Highlight duplicates"](Highlight_duplicates_1448x554.png)
 
 Der große Vorteil der bedingten Formatierung im Vergleich zum Plugin ist die Tatsache, dass Sie den Tabelleneditor nicht verlassen. Die Anzeige der Duplikate erfolgt dort, wo Sie Zeilen bearbeiten, Zeilen löschen als auch Filter und Sortierungen verwenden können. (Das Plugin bleibt weiterhin Mittel der Wahl wenn Sie automatisch alle Duplikate löschen wollen.)
 

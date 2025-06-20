@@ -16,13 +16,13 @@ Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.4. Tous les auto
 
 ## Un App Builder plus flexible et plus puissant
 
-Dans SeaTable 4.4, nous avons à nouveau apporté un grand nombre d'améliorations et de corrections de bugs à l'[application universelle](https://seatable.io/fr/docs/apps/universelle-app/), dont bénéficient presque tous les [types de pages](https://seatable.io/fr/docs/universelle-apps/seitentypen-in-der-universellen-app/). La fin de la phase bêta approche donc à grands pas.
+Dans SeaTable 4.4, nous avons à nouveau apporté un grand nombre d'améliorations et de corrections de bugs à l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), dont bénéficient presque tous les [types de pages](https://seatable.io/fr/docs/universelle-apps/seitentypen-in-der-universellen-app/). La fin de la phase bêta approche donc à grands pas.
 
 ### Boutons sur les pages d'interrogation
 
 [Les pages de requête](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) prennent désormais en charge l'exécution d'actions à l'aide de boutons : Après une requête de données réussie, il est possible d'actionner [des boutons](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) dans la liste de résultats affichée afin d'effectuer des actions. Il s'agit d'une nouveauté particulière, car jusqu'à présent, SeaTable ne permettait nulle part d'interagir avec les lignes interrogées.
 
-![Exécuter des boutons sur des pages de requête](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
+![Exécuter des boutons sur des pages de requête](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
 Un exemple d'application est une bourse d'emploi interne : la page de requête permet de rechercher rapidement les postes pertinents. Si un poste intéressant y figure, il suffit alors de cliquer sur le bouton dans les résultats de recherche pour postuler directement à l'emploi.
 
@@ -34,11 +34,11 @@ Jusqu'à présent, il n'était pas possible de modifier les rendez-vous sur la [
 
 Comme dans la base, vous pouvez désormais [sélectionner toutes les entrées d'une colonne](https://seatable.io/fr/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/) sur les [pages de tableau](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) de vos apps en un seul clic sur l'en-tête de la colonne. La [poignée de remplissage](https://seatable.io/fr/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) pratique est également désormais possible : faites glisser le petit carré dans le coin inférieur droit d'une cellule vers le bas pour transférer la valeur dans toutes les lignes situées en dessous.
 
-![Marquer les entrées de colonne](images/Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
+![Marquer les entrées de colonne](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
 ### Colonne des employés disponible sur les pages de formulaires
 
-Si vous utilisez une [colonne d'employés](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) dans votre tableau, elle n'est **pas** disponible dans [les formulaires web](https://seatable.io/fr/docs/webformulare/webformulare/). Cependant, à partir de SeaTable 4.4, vous pouvez ajouter des colonnes d'employés sur les [pages de formulaires](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) de l'application universelle. Ainsi, les membres de votre équipe peuvent par exemple se sélectionner eux-mêmes lors d'une demande de congé et ne doivent plus saisir leur nom manuellement. Auparavant, vous devez activer dans les [paramètres de l'application](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) l'option permettant d'afficher la liste des collaborateurs.
+Si vous utilisez une [colonne d'employés](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) dans votre tableau, elle n'est **pas** disponible dans [les formulaires web]({{< relref "help/base-editor/webformulare" >}}). Cependant, à partir de SeaTable 4.4, vous pouvez ajouter des colonnes d'employés sur les [pages de formulaires](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) de l'application universelle. Ainsi, les membres de votre équipe peuvent par exemple se sélectionner eux-mêmes lors d'une demande de congé et ne doivent plus saisir leur nom manuellement. Auparavant, vous devez activer dans les [paramètres de l'application](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) l'option permettant d'afficher la liste des collaborateurs.
 
 ### Plus d'options de customisation pour des pages personnalisées
 
@@ -50,7 +50,7 @@ Comme nous l'avons annoncé dans les dernières notes de version, nous avons **s
 
 {{< warning headline="Bon à savoir" text="**Les applications de galerie existantes continuent de fonctionner**. Nous recommandons toutefois de passer les applications de galerie existantes aux applications universelles afin de profiter des développements et des améliorations." />}}
 
-![Créer un dialogue d'application](images/Create-app-dialog-.png)
+![Créer un dialogue d'application](Create-app-dialog-.png)
 
 L'[application de consultation des données](https://seatable.io/fr/docs/apps/datenabfrage-app/) a également connu quelques changements. L'ancien App Builder pour la consultation des données a été supprimé et remplacé par un nouveau basé sur l'Universal App Builder. Cela signifie que vous pouvez bien sûr continuer à créer des applications publiques pour la consultation de vos bases, mais l'interface ressemble désormais à celle de l'Universal App Builder. Pour les apps de requête existantes, la situation est la même que pour les apps de galerie : vous ne devez rien faire et vous pouvez continuer à les utiliser.
 
@@ -58,9 +58,9 @@ L'[application de consultation des données](https://seatable.io/fr/docs/apps/da
 
 ## Une expérience utilisateur plus agréable lors de l'importation d'Excel
 
-Avec SeaTable 4.4, l'[importation de tableaux Excel](https://seatable.io/fr/docs/import-von-daten/import-von-excel-dateien-in-seatable/) est plus rapide, plus flexible et plus stable : Des tableaux de plusieurs milliers de lignes sont désormais disponibles dans SeaTable en quelques instants. Dans la fenêtre d'aperçu nettement élargie, vous pouvez désormais choisir quels tableaux d'un classeur - tous ou seulement certains - vous souhaitez importer depuis le fichier XLSX. Alors que les caractères spéciaux dans les noms de colonnes et autres cas spéciaux donnaient des résultats indésirables dans le passé, ils sont désormais pris en compte de manière fiable. Des messages d'erreur améliorés donnent des indications claires sur les conflits, notamment lors de l'[importation dans le stockage de données volumineuses](https://seatable.io/fr/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/).
+Avec SeaTable 4.4, l'[importation de tableaux Excel]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) est plus rapide, plus flexible et plus stable : Des tableaux de plusieurs milliers de lignes sont désormais disponibles dans SeaTable en quelques instants. Dans la fenêtre d'aperçu nettement élargie, vous pouvez désormais choisir quels tableaux d'un classeur - tous ou seulement certains - vous souhaitez importer depuis le fichier XLSX. Alors que les caractères spéciaux dans les noms de colonnes et autres cas spéciaux donnaient des résultats indésirables dans le passé, ils sont désormais pris en compte de manière fiable. Des messages d'erreur améliorés donnent des indications claires sur les conflits, notamment lors de l'[importation dans le stockage de données volumineuses](https://seatable.io/fr/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/).
 
-![Importation Excel](images/Excel-Import.png)
+![Importation Excel](Excel-Import.png)
 
 {{< warning headline="Petit avant-goût" text="Avec SeaTable 5.0, nous rendons l'importation encore plus flexible ! Il est désormais possible de sélectionner des colonnes individuelles d'un tableau et de les exclure de l'importation." />}}
 
@@ -70,23 +70,23 @@ Avec SeaTable 4.4, l'[importation de tableaux Excel](https://seatable.io/fr/docs
 
 1. Si vous avez une [Copier la base](https://seatable.io/fr/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)Si vous utilisez des bases de données qui contiennent des enregistrements partagés, vous pouvez décider de conserver ou non le lien avec ces enregistrements. Le groupe dans lequel vous copiez la base doit bien sûr avoir accès aux enregistrements communs.
 
-    ![Retenir le lien vers le dataset commun lors de la copie d'une base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
+    ![Retenir le lien vers le dataset commun lors de la copie d'une base](Retain-link-to-common-dataset-when-copying-a-base.gif)
 
 2. Après la [Restauration de bases à partir de snapshots](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) ou le [Création d'une base à partir d'un modèle](https://seatable.io/fr/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) permet de lier des tables existantes à un enregistrement commun et de permettre ainsi la synchronisation avec les données qui s'y trouvent. Jusqu'à présent, il n'était pas possible de réimporter des enregistrements communs, mais seulement de les intégrer dans de nouvelles tables.
 
-    ![Réimportation common dataset](images/Reimport-common-dataset.gif)
+    ![Réimportation common dataset](Reimport-common-dataset.gif)
 
 3. Depuis peu, le créateur d'un ensemble de données communes peut [Synchronisation](https://seatable.io/fr/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) de toutes les tables dépendantes avec l'ensemble de données, garantissant ainsi que les autres utilisateurs utilisent l'état actuel des données dans leurs bases. Par le passé, vous deviez compter sur les utilisateurs pour configurer la synchronisation automatique ou pour la déclencher manuellement.
 
-    ![Synchronisation forcée du jeu de données commun](images/Force-sync-of-common-dataset.png)
+    ![Synchronisation forcée du jeu de données commun](Force-sync-of-common-dataset.png)
 
 ## Les valeurs par défaut s'appliquent partout
 
-Avec la version 4.4, SeaTable généralise l'application des [valeurs par défaut](https://seatable.io/fr/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Lorsque vous créez une nouvelle ligne, que ce soit dans le tableau d'une base ou d'une app, via une [colonne de liens](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), un [formulaire web](https://seatable.io/fr/docs/webformulare/webformulare/), un [bouton](https://seatable.io/fr/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) ou [une automatisation](https://seatable.io/fr/docs/automationen/automations-aktionen/), les valeurs par défaut s'appliquent partout lors de la création de la ligne. Jusqu'à présent, les valeurs par défaut ne s'appliquaient que lorsqu'une nouvelle ligne était créée manuellement dans un tableau.
+Avec la version 4.4, SeaTable généralise l'application des [valeurs par défaut](https://seatable.io/fr/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Lorsque vous créez une nouvelle ligne, que ce soit dans le tableau d'une base ou d'une app, via une [colonne de liens](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), un [formulaire web]({{< relref "help/base-editor/webformulare" >}}), un [bouton](https://seatable.io/fr/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) ou [une automatisation](https://seatable.io/fr/docs/automationen/automations-aktionen/), les valeurs par défaut s'appliquent partout lors de la création de la ligne. Jusqu'à présent, les valeurs par défaut ne s'appliquaient que lorsqu'une nouvelle ligne était créée manuellement dans un tableau.
 
 Comme le champ d'action des valeurs par défaut s'est considérablement élargi, nous avons également créé un point de menu bien en vue dans les options de colonne, qui vous permet de régler facilement les valeurs par défaut.
 
-![La valeur par défaut s'applique à toutes les nouvelles lignes](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
+![La valeur par défaut s'applique à toutes les nouvelles lignes](Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
 {{< warning headline="Remarque" text="Si une valeur par défaut est définie à la fois dans le tableau et dans le formulaire web, la valeur du formulaire s'applique à toutes les lignes créées via le formulaire." />}}
 

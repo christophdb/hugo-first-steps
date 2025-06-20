@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/formularseiten-in-universellen-apps'
 ---
 
-Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, welche die Benutzer im Anschluss einreichen können. Formularseiten in Universellen Apps eignen sich hervorragend, um Daten von vielen verschiedenen Nutzern erfassen zu lassen. Ein möglicher Anwendungsfall ist die [Arbeitszeiterfassung Ihrer Mitarbeiter](https://seatable.io/arbeitszeiterfassung/).
+Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, welche die Benutzer im Anschluss einreichen können. Formularseiten in Universellen Apps eignen sich hervorragend, um Daten von vielen verschiedenen Nutzern erfassen zu lassen. Ein möglicher Anwendungsfall ist die [Arbeitszeiterfassung Ihrer Mitarbeiter]({{< relref "posts/arbeitszeiterfassung" >}}).
 
 ![Webformular zur Erfassung der Arbeitszeit Ihrer Mitarbeiter](images/webformular-working-time.png)
 

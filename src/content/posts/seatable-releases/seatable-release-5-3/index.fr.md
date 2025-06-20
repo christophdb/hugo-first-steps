@@ -24,7 +24,7 @@ Autres pays, autres coutumes : selon la région, le samedi, le dimanche ou le lu
 
 Conformément aux habitudes d’utilisation en Europe, Australie, dans une grande partie de l’Afrique et de l’Asie, et selon la norme ISO 8601, SeaTable utilise le lundi comme premier jour de la semaine. (Auparavant, le dimanche était toujours le premier jour.) En modifiant ce paramètre, le jour sélectionné apparaît dans la première colonne du contrôle de calendrier. Cela s’applique à la base et à toutes les applications qui en dépendent. Dans le plugin calendrier et la page calendrier de l’application, le jour de la semaine peut toujours être défini individuellement et indépendamment du paramètre de la base.
 
-![Option de sélection du premier jour de la semaine](images/Date_Settings_FR.png)
+![Option de sélection du premier jour de la semaine](Date_Settings_FR.png)
 
 ## Plus de flexibilité dans l’App Builder
 
@@ -40,7 +40,7 @@ Avec SeaTable 5.3, nous répondons à une demande fréquente : la hauteur des li
 
 Des changements sont également visibles dans les paramètres de la page. De nombreux réglages ont été déplacés dans une nouvelle section « Plus de paramètres », qui est repliée par défaut. Avec les permissions de page également minimisées par défaut, les paramètres sont plus clairs et ordonnés.
 
-![Plus de paramètres dans SeaTable App](images/Link_Column_Settings_FR.png)
+![Plus de paramètres dans SeaTable App](Link_Column_Settings_FR.png)
 
 En y regardant de plus près, il y a aussi des changements fonctionnels dans les paramètres de page. Les « Paramètres de la colonne de lien » ont été révisés pour faire place à la nouvelle permission « Modifier les entrées liées ». Si cette permission est accordée, les utilisateurs de l’application ont des droits d’écriture sur les entrées de la table liée. Les colonnes éditables peuvent être configurées dans les nouveaux paramètres de champ. Si la permission n’est pas activée, l’utilisateur peut seulement voir les liens existants, en ajouter ou en supprimer, mais pas modifier les enregistrements liés.
 
@@ -64,7 +64,7 @@ Dans SeaTable 5.2, les résultats sur la page de requête sont devenus éditable
 
 L’activation de l’accès illimité fait d’une application SeaTable une application publique. Tout le monde peut accéder à l’application via l’URL (en lecture seule) ; aucune connexion utilisateur n’est requise et il n’y a pas d’autre protection d’accès. Du moins, jusqu’à aujourd’hui. SeaTable 5.3 ajoute une protection par mot de passe optionnelle à l’accès illimité. Si elle est activée, l’application ne peut être utilisée qu’après saisie du mot de passe. Cet accès illimité protégé par mot de passe est une option intéressante pour les associations ou groupes de travail qui souhaitent partager des données peu sensibles avec un grand nombre de personnes tout en évitant un accès public illimité.
 
-![Protection par mot de passe dans SeaTable App](images/App_Password_Protection_FR.png)
+![Protection par mot de passe dans SeaTable App](App_Password_Protection_FR.png)
 
 ## Nouveau plugin de conception de rapports (bêta)
 
@@ -74,7 +74,7 @@ Le nouveau plugin de conception de rapports et le plugin de conception de pages 
 
 Avec le plugin de conception de pages, les éléments sont positionnés au pixel près sur le modèle, leurs dimensions sont définies et attribuées à un calque. En résumé, on l’utilise comme un logiciel graphique : le design du modèle définit précisément l’apparence du document généré. Le plugin de conception de rapports rappelle Word ou Google Docs. Le texte et les autres éléments sont placés de manière continue les uns sous les autres. Le plugin gère la mise en page, y compris les sauts de ligne et de page, lors de la création du document. Les éléments de longueur variable, comme les tableaux, sont facilement pris en charge.
 
-![Le nouveau plugin de conception de rapports](images/Report_Design_Plugin_FR.png)
+![Le nouveau plugin de conception de rapports](Report_Design_Plugin_FR.png)
 
 Le plugin de conception de rapports prend en charge un large éventail d’éléments dynamiques : valeurs individuelles d’un enregistrement, enregistrements entiers, tableaux et divers types de graphiques peuvent être utilisés dans un modèle de document. Pour la mise en forme du texte, vous disposez d’options connues des traitements de texte, telles que les listes à puces, l’alignement du texte et la disposition en colonnes multiples. Des styles de plan pour la structuration du document sont également disponibles. Cependant, pour la conception d’éléments individuels, le plugin de conception de pages offre plus d’options. Pour chaque élément, vous pouvez définir la couleur du texte et de l’arrière-plan, les bordures et d’autres options de formatage. Grâce aux calques, les éléments peuvent être superposés et des effets de recouvrement peuvent être créés.
 

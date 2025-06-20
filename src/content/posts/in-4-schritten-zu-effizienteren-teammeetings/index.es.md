@@ -53,7 +53,7 @@ Hemos diseñado nuestra plantilla para que sea sencilla y directa. En una tabla 
 
 En el siguiente paso, puede utilizar la columna de fecha para determinar qué día y a qué hora debe comenzar la reunión y cuándo debe terminar. La siguiente columna de fórmulas calcula automáticamente la duración de la reunión para que todos sepan de un vistazo cuánto tiempo tienen para planificar. En la columna "Empleados", especifique todos los empleados que deben participar en la reunión. Todos los empleados recibirán entonces una notificación automática, que explicamos con más detalle a continuación.
 
-![Gestionar las reuniones de equipo con SeaTable](https://seatable.de/wp-content/uploads/2021/10/Overview-Teammeeting.png)
+![Gestionar las reuniones de equipo con SeaTable](Overview-Teammeeting.png)
 
 El siguiente paso es determinar la sala en la que tendrá lugar la reunión. Las salas están claramente separadas por colores para que sea fácil ver dónde se reúnen. La siguiente columna muestra una parte especialmente importante de la preparación y el seguimiento: El orden del día. Dado que SeaTable es también una base de datos, todos los temas, archivos y actas pueden almacenarse directamente en el lugar y editarse de forma sincronizada. Todos los usuarios autorizados pueden trabajar en Base con otros usuarios al mismo tiempo y, por ejemplo, introducir temas importantes.
 
@@ -63,7 +63,7 @@ El orden del día también ayuda a preparar la reunión como corresponde. Un vis
 
 ### La función de chat facilita la comunicación
 
-![La función de chat hace superfluos los correos electrónicos ](https://seatable.io/wp-content/uploads/2021/10/Chat-Funktion.png)
+![La función de chat hace superfluos los correos electrónicos ](Chat-Funktion.png)
 
 La [función de chat](https://seatable.io/es/docs/handbuch/zusammenarbeit/kommentare/) en cada fila, es decir, en cada reunión individual del equipo, permite una comunicación sencilla y ágil que hace superfluos los correos electrónicos. Cuando se abre una línea (haciendo clic en las pequeñas flechas azules a la izquierda de la línea), se abre una vista general de la reunión. A la derecha está el chat, en el que puede añadir fácilmente a los miembros del personal y escribir mensajes importantes, como que el miembro del personal Müller debería subir la presentación provisional con la revisión anual.
 
@@ -75,7 +75,7 @@ Con SeaTable, puedes organizar todas las reuniones de tu equipo en una ubicació
 
 La creación de diferentes vistas es una de las ventajas prácticas de SeaTable sobre otras hojas de cálculo.
 
-![Las vistas propias permiten un mayor orden](https://seatable.io/wp-content/uploads/2021/10/Ansichten.png)
+![Las vistas propias permiten un mayor orden](Ansichten.png)
 
 Cree tantas vistas como quiera y diséñelas exactamente como necesite los datos en ese momento. Los ajustes de la vista original no cambian. Un conjunto de datos, pero cientos de opciones de visualización: Eso es posible con SeaTable.
 
@@ -87,11 +87,11 @@ Las vistas siguen siendo importantes para el complemento del calendario y se nec
 
 SeaTable también está equipado con un complemento de calendario. Aquí se pueden integrar citas de cualquier tipo para mantener una buena visión de conjunto. Para la vista general de la reunión, sólo tiene que seleccionar esta vista en el plugin de calendario y configurar todos los parámetros para que se adapten a sus necesidades.
 
-![En el calendario puedes ver todas las reuniones](https://seatable.de/wp-content/uploads/2021/10/Calendar.png)
+![En el calendario puedes ver todas las reuniones](Calendar.png)
 
 Por ello, hemos clasificado las salas en columnas de selección única, ya que aquí podemos establecer diferentes colores por sala. En el complemento de calendario, esto tiene la ventaja de que las diferentes reuniones de equipo pueden mostrarse exactamente en el mismo color que el esquema de colores de la sala. Por ejemplo, si desea crear otra reunión a la misma hora el 20.10., verá directamente que no puede tener lugar en la sala de reuniones azul.
 
-![Vistas del calendario](https://seatable.io/wp-content/uploads/2021/10/Calendar-1.png)
+![Vistas del calendario](Calendar-1.png)
 
 Las vistas creadas se utilizan ahora en el complemento. Para ello, basta con seleccionar la vista del miembro del personal o de la sala que se va a mostrar en el calendario. De este modo, cada miembro del personal tiene también su propia vista de calendario en la que se introducen todas sus reuniones. Lo mismo ocurre con la vista de la sala: con un filtro, la vista de la sala EG R002 sólo muestra las reuniones que tienen lugar en esta sala. Para encontrar una sala libre cuando se planifica una reunión, se puede crear una cita y reservarla directamente a través de la vista.
 

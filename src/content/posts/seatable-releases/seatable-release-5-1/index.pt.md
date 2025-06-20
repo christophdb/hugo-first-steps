@@ -38,7 +38,7 @@ No SeaTable 5.1, este tipo de página - tal como as páginas de tabelas e consul
 
 A barra de ferramentas oferece um novo **gerador de código QR**. O código QR contém a ligação para a entrada atualmente apresentada. Anexado a um objeto ou dispositivo, todos os dados podem ser chamados na aplicação através de um tablet ou smartphone sem qualquer introdução de teclado. Isto torna a gestão do inventário, por exemplo, ainda mais fácil.
 
-![Mais opções de design na página de registo único no SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/SingleRecordPage.png)
+![Mais opções de design na página de registo único no SeaTable 5.1](SingleRecordPage.png)
 
 Este tipo de página também oferece mais opções de design visual no SeaTable 5.1. Se tiver incorporado campos de tabela na página, anteriormente só era possível configurar a formatação do nome do campo. Para todos os tipos de colunas baseadas em texto e números, tem agora também a opção de definir o **tamanho e a espessura do tipo de letra, a cor do tipo de letra e o alinhamento dos valores do campo**.
 
@@ -62,7 +62,7 @@ A nova funcionalidade mais surpreendente é provavelmente **os menus de contexto
 
 Quase tão percetível é o **aviso amarelo** que aparece em visualizações normais em colunas de ligação se a tabela ligada contiver linhas no grande armazenamento de dados. O aviso deixa claro que as entradas ligadas no big data store não são visíveis na célula da coluna de ligação. Se pretender exibi-las, clique no ícone para abrir a lista de entradas ligadas.
 
-![Diálogo de registos arquivados ligados no SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/LinkedArchivedRows.png)
+![Diálogo de registos arquivados ligados no SeaTable 5.1](LinkedArchivedRows.png)
 
 Em resposta a muitos pedidos dos utilizadores, a **operação de processamento de dados** [comparar e juntar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) está agora também disponível nas visualizações de grandes volumes de dados. Esta operação pode ligar entradas no big data store com linhas em qualquer outra tabela, independentemente de as linhas da tabela ligada estarem armazenadas na base ou no big data store.
 
@@ -74,7 +74,7 @@ Para aumentar a rastreabilidade das alterações às linhas na memória de grand
 
 Apesar de as aplicações poderem aceder aos dados no armazenamento de grandes volumes de dados, as entradas criadas nas aplicações não podiam ser guardadas diretamente aí. As novas entradas eram sempre guardadas na base. Colmatámos esta lacuna funcional com o SeaTable 5.1. A base continua a ser o **local de armazenamento predefinido para novas entradas**; no entanto, esta definição pode ser alterada nas [definições da aplicação](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). Como mostra a captura de ecrã, é possível especificar para cada tabela se as novas linhas devem ser escritas na base ou na memória de grandes volumes de dados.
 
-![Nova gestão de grandes volumes de dados no App Builder do SeaTable](https://seatable.io/wp-content/uploads/2024/11/BigDataManagement_AppBuilder.png)
+![Nova gestão de grandes volumes de dados no App Builder do SeaTable](BigDataManagement_AppBuilder.png)
 
 No entanto, não só melhorámos a integração com as aplicações, como também o [plugin de design de páginas](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) oferece novas possibilidades. O plugin tem agora acesso ao armazenamento de grandes volumes de dados e pode **criar documentos para linhas no armazenamento de grandes volumes de dados**.
 
@@ -82,7 +82,7 @@ No entanto, não só melhorámos a integração com as aplicações, como també
 
 Depois de três novos plugins na [versão 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), a versão 5.1 também expande a lista de plugins SeaTable disponíveis: O novo plugin Árvore permite a visualização tabular compacta de registos de dados ligados por relações. Independentemente de estar a analisar dados financeiros (como na imagem abaixo), dados de projectos, dados de utilização ou outros dados, o novo plugin fornece uma visão geral que não existia anteriormente.
 
-![Plugin de árvore](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
+![Plugin de árvore](TreePlugin.png)
 
 Atualmente, podem ser apresentadas no plugin hierarquias até três níveis, ou seja, dados de três tabelas. As dependências são definidas através de ligações. É possível chamar os detalhes de cada registo de dados individual diretamente no plugin e também adicionar novos registos de dados.
 
@@ -92,7 +92,7 @@ Mais uma vez, há mais novidades nesta versão do que podemos apresentar numa qu
 
 Foi adicionada uma nova função ao **editor de fórmulas**: **rowid()** devolve o ID da linha. Esta função pode ser utilizada, por exemplo, para acções de botões ou automatizações. No entanto, existem novas funcionalidades não só na [coluna de fórmulas](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/), mas também no tipo de coluna de fórmulas para ligações: [As pesquisas](https://seatable.io/pt/docs/verknuepfungen/die-lookup-funktion/) oferecem agora uma verificação de duplicados. Se a opção **Não mostrar duplicados** estiver activada, apenas são apresentados valores únicos em cada célula da coluna.
 
-![O Colour Picker introduziu o SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/ColorPicker.png)
+![O Colour Picker introduziu o SeaTable 5.1](ColorPicker.png)
 
 No SeaTable 5.1, melhorámos o realce da sintaxe no **editor Python** integrado para facilitar ainda mais o acompanhamento dos [scripts](https://seatable.io/pt/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/). Também corrigimos um erro na indentação automática.
 

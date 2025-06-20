@@ -15,7 +15,7 @@ Com um programa estruturado de gestão da bibliografia, é possível evitar erro
 
 Em seguida, encontrará uma comparação de várias soluções de software e dicas adicionais para uma gestão de literatura bem sucedida.
 
-![Uma pilha de livros, pré-classificados para a gestão da literatura.](https://seatable.io/wp-content/uploads/2022/05/Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
+![Uma pilha de livros, pré-classificados para a gestão da literatura.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
 
 Ponha ordem na sua literatura científica! © caftor / Adobe Stock
 
@@ -39,7 +39,7 @@ Em suma, a estrutura de base de dados dos programas de gestão de referências p
 
 Decidiu utilizar software de literatura para trabalhar de forma mais eficiente? Ótimo! Mas agora, naturalmente, coloca-se a questão de saber qual o programa mais adequado para si. Isso depende principalmente da dimensão do seu projeto e das ferramentas que pretende utilizar. Apresentamos de seguida os seis programas mais conhecidos.
 
-![Uma comparação dos seis programas com base nas suas características pode ajudá-lo a encontrar o mais adequado para si.](https://seatable.io/wp-content/uploads/2024/04/Green-and-Black-Corporate-Comparison-Chart-1-e1714394827171-711x528.png)
+![Uma comparação dos seis programas com base nas suas características pode ajudá-lo a encontrar o mais adequado para si.](Green-and-Black-Corporate-Comparison-Chart-1-e1714394827171-711x528.png)
 
 Em primeiro lugar, obter uma visão geral das características.
 
@@ -47,7 +47,7 @@ Em primeiro lugar, obter uma visão geral das características.
 
 O Citavi é o programa de gestão de referências preferido em muitas universidades. As principais vantagens da utilização do Citavi neste domínio são o facto de poder ser utilizado em **alemão**, de **ser possível trabalhar em grupo sem restrições** e de existir **um bom apoio** em caso de dúvidas.
 
-![O programa de gestão de referências Citavi é adequado para o trabalho em grupo, uma vez que os dados podem ser facilmente partilhados.](https://seatable.io/wp-content/uploads/2024/04/annie-spratt-QckxruozjRg-unsplash-e1714397904602.jpg)
+![O programa de gestão de referências Citavi é adequado para o trabalho em grupo, uma vez que os dados podem ser facilmente partilhados.](annie-spratt-QckxruozjRg-unsplash-e1714397904602.jpg)
 
 O trabalho de grupo é uma brincadeira de crianças com o Citavi.
 
@@ -83,7 +83,7 @@ Apesar destas vantagens, o programa apresenta pontos fracos em termos de conteú
 
 Com o EndNote obtém um **pacote completo com muitas funções úteis**, mas deve estar preparado para pagar um **preço elevado** por ele. O programa comercial de gestão de referências do fornecedor de serviços de informação Thomson-Reuters também oferece uma versão gratuita que pode ser testada durante **30 dias**. No entanto, as funções são muito limitadas.
 
-![O programa de gestão de referências EndNote tem muitas funções úteis.](https://seatable.io/wp-content/uploads/2024/05/ai-generated-8554676_640-e1715591833397.png)
+![O programa de gestão de referências EndNote tem muitas funções úteis.](ai-generated-8554676_640-e1715591833397.png)
 
 A versão completa inclui muitas ferramentas úteis.
 
@@ -95,7 +95,7 @@ O programa é especializado em cientistas que trabalham em grandes projectos de 
 
 O JabRef é um **sistema de gestão bibliográfica gratuito** e de código aberto. Os criadores da plataforma colocam o código fonte à disposição de todos para que muitos criadores possam contribuir para a otimização do software. Isto é particularmente evidente no facto de o programa estar disponível **em várias línguas**.
 
-![Muitos programadores estão a trabalhar num código comum.](https://seatable.io/wp-content/uploads/2024/05/program-6944163_640-e1715591934559.jpg)
+![Muitos programadores estão a trabalhar num código comum.](program-6944163_640-e1715591934559.jpg)
 
 Qualquer pessoa que saiba orientar-se pode ajudar a melhorar o JabRef.
 
@@ -119,7 +119,7 @@ Não confie que as fontes dos programas de literatura ou de outros trabalhos cie
 
 Por isso, verifique diretamente se as referências estão correctas e, se necessário, acrescente-as. Se quiser deixar esta tarefa para o fim, é útil inscrevê-la numa [lista de tarefas]({{< relref "templates/projects/to-do-list" >}}) para não se esquecer dela.
 
-![Gestão de literatura em biblioteca com pastilha.](images/Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Gestão de literatura em biblioteca com pastilha.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 
 Alguns programas de gestão de referências podem registar as fontes por DOI. © ake1150 / Adobe Stock
 
@@ -158,7 +158,7 @@ Deve anotar estas informações com a maior exatidão possível. Contar os núme
 
 Alguns programas de gestão de referências facilitam a pesquisa de nova literatura. Com o Citavi, por exemplo, tem a possibilidade de receber **alertas de pesquisa**. Este permite-lhe saber quando estão disponíveis em linha novos artigos sobre um dos seus temas. O Mendeley oferece um serviço de recomendação que lhe permite visualizar artigos semelhantes.
 
-![A estudante faz uma verificação final da sua bibliografia antes de a entregar.](https://seatable.io/wp-content/uploads/2022/05/Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
+![A estudante faz uma verificação final da sua bibliografia antes de a entregar.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
 
 As bibliotecas também são um bom sítio para pesquisar fontes. Jacob Lund / Adobe Stock
 
@@ -178,7 +178,7 @@ Nem todas as fontes são citadas da mesma forma. Logo no início do seu projeto,
 
 Alguns programas têm ferramentas para **tomar notas**. Utilize-as para anotar afirmações importantes durante a leitura e adicione números de página para facilitar a sua localização mais tarde.
 
-![Também pode tomar notas em papel.](https://seatable.io/wp-content/uploads/2024/05/david-travis-5bYxXawHOQg-unsplash-e1715851598784.jpg)
+![Também pode tomar notas em papel.](david-travis-5bYxXawHOQg-unsplash-e1715851598784.jpg)
 
 Também pode utilizar o bloco de notas clássico.
 

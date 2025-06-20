@@ -20,7 +20,7 @@ Bevor Sie aktiv nach Wohnungen suchen, sollten Sie zunächst darüber nachdenken
 
 Ein ausschlaggebendes Kriterium ist für viele der **Mietpreis**. Die 30%-Regel besagt, dass die Miete im besten Fall nicht teurer als 30 Prozent Ihres Nettoeinkommens sein sollte. Allerdings sollten Sie realistisch bleiben und nicht zu viele Ausschlusskriterien festlegen. Denn das Wohnungsangebot ist begrenzt und die Suche nach der perfekten Wohnung gleicht in den allermeisten Fällen der Suche nach der Nadel im Heuhaufen.
 
-![Was Mieter vor der Wohnungssuche festlegen sollten](https://seatable.io/wp-content/uploads/2023/12/Wohnungssuche-Kriterien-711x889.png)
+![Was Mieter vor der Wohnungssuche festlegen sollten](Wohnungssuche-Kriterien-711x889.png)
 
 Checkliste für die perfekte Wohnungssuche.
 
@@ -37,7 +37,7 @@ Der Mietspiegel steigt immer weiter an, sodass viele Menschen nur schwer bezahlb
 - Der **Wohnberechtigungsschein** bestätigt, dass der Mieter berechtigt ist, eine mit öffentlichen Mitteln geförderte Wohnung zu beziehen. Um den Schein zu bekommen, muss der Mieter jedoch einige Kriterien erfüllen. Er darf zum Beispiel eine festgelegte Einkommensgrenze nicht überschreiten. Ob Sie Anspruch darauf haben, klärt Ihre örtlich zuständige Behörde.
 - Das **Wohngeld** ist ein Mietzuschuss für Haushalte, die nur ein geringes Einkommen vorweisen können. Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen bietet online einen [Wohngeldrechner](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/wohnen/wohnraumfoerderung/wohngeld/wohngeldrechner-2023-artikel.html;jsessionid=6DD0480874498C458F1FA626537143D2.live861) an, mit dessen Hilfe Sie prüfen können, ob ein Anspruch besteht. Den Wohngeldantrag selbst stellen Sie ebenfalls bei Ihrer zuständigen Behörde.
 
-![Sonnenaufgang über Hochhäusern](https://seatable.io/wp-content/uploads/2023/12/Bild-von-Freepik_9328139-711x711.jpg)
+![Sonnenaufgang über Hochhäusern](Bild-von-Freepik_9328139-711x711.jpg)
 
 Menschen, die sich die Mieten in ihrer Stadt gar nicht mehr leisten können, haben ein Anrecht auf Sozialwohnungen.
 
@@ -45,7 +45,7 @@ Menschen, die sich die Mieten in ihrer Stadt gar nicht mehr leisten können, hab
 
 Im Alltag gibt es einige Methoden, um Wohnungen zu finden. Manche Vermieter inserieren zum Beispiel in **lokalen Zeitungen** oder verteilen **Aushänge** in der Stadt. Es lohnt sich also die Augen offen zu halten. Vielleicht wissen auch **Freunde** oder **Bekannte**, wer gerade nach Mietern sucht oder wo gerade eine Wohnung frei wird.
 
-Wem das zu aufwändig ist, kann sich auch an offiziellere Stellen wenden. Auch Mieter können **Immobilienmakler** zur Wohnungssuche beauftragen, die allerdings eine Provision verlangen. Laut Gesetz darf die Maklercourtage maximal zwei Nettokaltmieten zuzüglich der Mehrwertsteuer betragen. Eine weitere Option bietet der direkte Kontakt zu **Hausverwaltungen**. Diese haben oft den [Überblick](https://seatable.io/hausverwaltung/) und können Wohnungen vermitteln, die bald frei werden.
+Wem das zu aufwändig ist, kann sich auch an offiziellere Stellen wenden. Auch Mieter können **Immobilienmakler** zur Wohnungssuche beauftragen, die allerdings eine Provision verlangen. Laut Gesetz darf die Maklercourtage maximal zwei Nettokaltmieten zuzüglich der Mehrwertsteuer betragen. Eine weitere Option bietet der direkte Kontakt zu **Hausverwaltungen**. Diese haben oft den [Überblick]({{< relref "posts/hausverwaltung" >}}) und können Wohnungen vermitteln, die bald frei werden.
 
 {{< warning headline="Tipp" text="Bei einer Absage lohnt sich die Nachfrage beim Vermieter, ob eine **Interessentenliste** besteht. Vor allem wenn dieser mehrere Mieteinheiten besitzt, kann er Sie kontaktieren, sobald eine andere Wohnung frei wird." />}}
 
@@ -55,7 +55,7 @@ Im digitalen Zeitalter ist der erste Impuls bei der Wohnungssuche das Durchforst
 
 Vielleicht verbringen Sie ohnehin viel Zeit mit **Social Media** – warum also nicht die Schwarmintelligenz auf Facebook, Instagram und Co. nutzen? Sie können die Suche nach einer Wohnung in Ihrem Status verkünden, zum Teilen auffordern und anschließend in Gruppen, die eigens zur Wohnungssuche erstellt wurden, stöbern.
 
-![Lupe über Wohnungsanzeigen](https://seatable.io/wp-content/uploads/2023/12/Bild-von-Freepik_4344249-711x474.jpg)
+![Lupe über Wohnungsanzeigen](Bild-von-Freepik_4344249-711x474.jpg)
 
 Die Suche nach einer Wohnung gestaltet sich oft schwierig.
 
@@ -75,7 +75,7 @@ Zu diesem Zweck gibt es auf Immobilien spezialisierte **Tauschagenturen**, doch 
 
 Wenn es endlich zur Wohnungsbesichtigung kommt, gibt es einige Punkte zu beachten, um festzustellen, ob die Wohnung wirklich in Frage kommt. Legen Sie den Besichtigungstermin bestenfalls auf eine Uhrzeit, zu der noch ausreichend **Tageslicht** in die Wohnung fällt, um diese auf Herz und Nieren prüfen zu können. Das wichtigste Kriterium ist jedoch, ob Sie sich in der **Nachbarschaft** und in der Wohnung wohlfühlen.
 
-![Tipps für Wohnungsbesichtigungen](https://seatable.io/wp-content/uploads/2023/12/Wohnungssuche-Besichtigungen-1-711x889.png)
+![Tipps für Wohnungsbesichtigungen](Wohnungssuche-Besichtigungen-1-711x889.png)
 
 Hilfreiche Tipps für Wohnungsbesichtigungen.
 

@@ -24,7 +24,7 @@ Cuanto más grande es una empresa, más difícil es la planificación del person
 
 En general, la planificación de recursos humanos con plantillas de Excel (versión gratuita o de pago) no es exclusivamente mala. La ventaja es que se pueden utilizar plantillas de Excel gratuitas de Internet sin mucho esfuerzo. Todo lo que un usuario necesita es Microsoft Office, Open Office o una cuenta de Google para acceder a Google Sheets. Tanto si se trata de una lista de turnos como de una planificación de empleados, basta con introducir el término de búsqueda correspondiente en Google y se abrirá el mundo de las plantillas de Excel gratuitas.
 
-![Los empleados utilizan la plantilla gratuita de Excel para la planificación del personal.](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_343110940_bearbeitet-711x474.jpg)
+![Los empleados utilizan la plantilla gratuita de Excel para la planificación del personal.](Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_343110940_bearbeitet-711x474.jpg)
 
 Plantilla de planificación de personal en Excel gratis © monticellllo / adobe stock
 
@@ -52,7 +52,7 @@ Otra ventaja clave de la planificación de RRHH sin plantilla de Excel gratuita 
 
 De este modo, no sólo todo el mundo está siempre al mismo nivel de información, sino que el esfuerzo organizativo se reduce considerablemente. Y da igual que dirija una pequeña, mediana o gran empresa, una cafetería o un concesionario de coches. Con la herramienta en línea adecuada, existe un [plan de turnos]({{< relref "templates/human-resources/shift-schedule" >}}) adecuado o un [registro del tiempo de trabajo]({{< relref "templates/human-resources/recording-working-time" >}}) óptimo [para]({{< relref "templates/human-resources/recording-working-time" >}}) cada necesidad.
 
-![](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
+![](Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
 
 Plantilla de planificación de personal en Excel gratis © SeaTable
 

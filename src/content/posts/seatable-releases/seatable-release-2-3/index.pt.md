@@ -18,7 +18,7 @@ Tabelas muito grandes levam a longos tempos de carregamento e afectam a experiê
 
 A nova função de arquivo elimina esta restrição! Para além das 150.000 linhas no conjunto de dados activos, podem ser armazenados milhões de linhas no arquivo. A função de arquivo oferece assim uma solução para todas as aplicações para as quais os limites anteriores do SeaTable não eram suficientes.
 
-![Função de arquivo](https://seatable.io/wp-content/uploads/2021/09/Archive-function-1088x631.png)
+![Função de arquivo](Archive-function-1088x631.png)
 
 Em termos de opções de avaliação e análise, as diferenças entre linhas activas e arquivadas são controláveis: o arquivo suporta todos os tipos de colunas. Os filtros e a classificação permitem uma rápida avaliação dos dados no arquivo. E o acesso via API e através de [aplicações externas](https://seatable.io/pt/seatable-release-2-2#Externe_Apps_nur_fuer_Enterprise_Abos/?lang=auto) também é possível. Está em desenvolvimento uma função de pesquisa e apoio total a plug-ins.
 
@@ -55,7 +55,7 @@ As linhas arquivadas não podem actualmente ser movidas de volta para o conjunto
 
 O acesso aos dados do arquivo é feito através do novo tipo de vista Vista de Arquivo. Uma vez arquivadas as filas, tal vista de arquivo - como outras vistas - pode ser criada através do menu view. As vistas de arquivo são facilmente reconhecidas pelo seu próprio ícone na navegação da vista.
 
-![Vista de arquivo](https://seatable.io/wp-content/uploads/2021/09/Archive-view-creation-1088x518.png)
+![Vista de arquivo](Archive-view-creation-1088x518.png)
 
 A vista do arquivo mostra linhas arquivadas e não arquivadas e permite avaliações de todo o stock de dados - arquivados e activos - da tabela. As ferramentas de análise familiares estão disponíveis para este fim. Com um plug-in para estatísticas avançadas, em breve estará disponível uma ferramenta que poderá ser utilizada para avaliar de forma abrangente quantidades muito grandes de dados. Para as possibilidades de avaliação, é portanto quase irrelevante se as filas estão ou não arquivadas.
 
@@ -69,7 +69,7 @@ O histórico da tabela e os comentários não fazem parte da informação que no
 
 Após os [valores por defeito para as colunas]({{< relref "posts/seatable-releases/seatable-release-2-0" >}}), existem agora também valores por defeito para os campos de formulário na versão 2.3. E não só são suportados valores por defeito estáticos: As variáveis _creator.id_ e _creator.name_ inserem automaticamente o ID de utilizador ou nome de utilizador no campo do formulário para utilizadores com sessão iniciada.
 
-![Valores por defeito em formas](https://seatable.io/wp-content/uploads/2021/09/Default-values-forms-1088x974.png)
+![Valores por defeito em formas](Default-values-forms-1088x974.png)
 
 ### Pré-visualização para o texto formatado por tipo de coluna
 

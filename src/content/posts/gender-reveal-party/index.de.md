@@ -18,7 +18,7 @@ Hier erfahren Sie, worauf Sie bei der Organisation achten sollten, damit Ihre Ge
 
 Im Mittelpunkt der Gender Reveal Party steht die **Enthüllung des Geschlechts** des Babys. Die werdenden Eltern feiern gemeinsam mit Freunden und Verwandten die baldige Geburt des Kindes – und zwar mit viel Tamtam. Denn Deko, Speisen und Spiele sind bis ins kleinste Detail durchgeplant, um die Vorfreude auf die Bekanntgabe des Geschlechts zu steigern.
 
-![Bringen Sie Ihre Gäste mit einer Tafel mit der Frage 'he or she?' in Stimmung.](https://seatable.io/wp-content/uploads/2024/02/frederick-medina-hGLVkyNoYpQ-unsplash-e1707224889549-711x924.jpg)
+![Bringen Sie Ihre Gäste mit einer Tafel mit der Frage 'he or she?' in Stimmung.](frederick-medina-hGLVkyNoYpQ-unsplash-e1707224889549-711x924.jpg)
 
 Um diese Frage dreht sich die ganze Feier.
 
@@ -42,7 +42,7 @@ Möchten die Eltern das Geschlecht ihres Kindes in Ruhe erfahren, können sie di
 
 Sie möchten eine Gender Reveal Party für sich oder Ihre Freunde schmeißen, wissen aber nicht, was alles organisiert werden muss? Hier finden Sie einen Überblick, welche Aufgaben Sie auf dem Weg zu einem erfolgreichen Event erwarten.
 
-![Hier erfahren Sie, wie Sie in 7 Schritten Ihre Gender Reveal Party organisieren.](https://seatable.io/wp-content/uploads/2024/02/Gender-Reveal-Party-organisieren-e1706793584661-711x939.jpg)
+![Hier erfahren Sie, wie Sie in 7 Schritten Ihre Gender Reveal Party organisieren.](Gender-Reveal-Party-organisieren-e1706793584661-711x939.jpg)
 
 Mit der richtigen Organisation wird Ihre Feier ein unvergessliches Ereignis.
 
@@ -54,7 +54,7 @@ Es ist aber auch möglich, die Enthüllung des Geschlechts mit dem **Babyshower*
 
 Beachten Sie auch die Verfügbarkeit Ihrer Gäste. Damit möglichst viele kommen können, bietet sich die Feier an einem **Wochenende** an.
 
-![Die Gender Reveal Party kann stattfinden, sobald der Arzt das Geschlecht des Kindes mit einem Ultraschallbild bestätigt hat.](https://seatable.io/wp-content/uploads/2024/02/pexels-amina-filkins-5427991-e1707224569403-711x1044.jpg)
+![Die Gender Reveal Party kann stattfinden, sobald der Arzt das Geschlecht des Kindes mit einem Ultraschallbild bestätigt hat.](pexels-amina-filkins-5427991-e1707224569403-711x1044.jpg)
 
 Achten Sie darauf, dass Sie die Feier nicht zu kurzfristig vor der Geburt planen.
 
@@ -76,7 +76,7 @@ Schicken Sie die Einladungen frühzeitig raus und legen Sie eine **Deadline für
 
 Die Dekoration ist das A und O der Feier. Denn der entscheidende Hinweis auf das Geschlecht des Babys versteckt sich traditionsgemäß in einem der Deko-Stücke. Die ganze Dekoration bedient sich an einem von Ihnen ausgewählten **Farbschema**. Das können entweder klassisch **Rosa** für ein Mädchen und **Hellblau** für einen Jungen sein oder andere Farben, die mit dem Klischee brechen. Wichtig ist nur, dass vor der Enthüllung allen klar ist, welche Farbe für welches Geschlecht steht.
 
-![Der Ballonbogen ist in schlichten Farben gehalten.](https://seatable.io/wp-content/uploads/2024/02/tony-luginsland-nqk6s5Zkip8-unsplash-scaled-e1707225176373-711x918.jpg)
+![Der Ballonbogen ist in schlichten Farben gehalten.](tony-luginsland-nqk6s5Zkip8-unsplash-scaled-e1707225176373-711x918.jpg)
 
 Entscheiden Sie sich für eine passende Farbkombination.
 
@@ -86,7 +86,7 @@ Gern genutzte Deko-Elemente sind **Luftballons**, **Girlanden** oder **Pompons**
 
 Natürlich darf auch zur Dekoration passendes Essen nicht fehlen. Sollten Sie sich dafür entscheiden, zu Kaffee und Kuchen einzuladen, ist ein gut gefüllter **Sweet Table** ein Muss. Dabei spiegelt sich das von Ihnen ausgewählte Farbschema in den Süßspeisen wider. Kuchen, Cookies oder Cupcakes mit farbiger Glasur laden zum Naschen ein.
 
-![Drappieren Sie die Speisen bei Ihrer Gender Reveal Party ansprechend.](https://seatable.io/wp-content/uploads/2024/02/pexels-fu-zhichao-587741-e1707223367993-711x597.jpg)
+![Drappieren Sie die Speisen bei Ihrer Gender Reveal Party ansprechend.](pexels-fu-zhichao-587741-e1707223367993-711x597.jpg)
 
 Bieten Sie eine leckere Auswahl an Speisen an.
 
@@ -112,7 +112,7 @@ Der Moment, auf den alle gewartet haben, ist endlich gekommen. Wird es ein Junge
 
 Sehr beliebt sind Ballons. Eine Möglichkeit ist es, einen schwarzen Ballon mit Glitter in der für das Geschlecht ausgewählten Farbe zu füllen und ihn dann aufzupusten. Mit einer Nadel oder einem Dartpfeil können die werdenden Eltern die Überraschung platzen lassen.
 
-![Nutzen Sie einen großen schwarzen Ballon, um das Geschlecht des Babys bis zum letzten Moment geheim zu halten.](https://seatable.io/wp-content/uploads/2024/02/pexels-tima-miroshnichenko-6461822-e1707224120257-711x504.jpg)
+![Nutzen Sie einen großen schwarzen Ballon, um das Geschlecht des Babys bis zum letzten Moment geheim zu halten.](pexels-tima-miroshnichenko-6461822-e1707224120257-711x504.jpg)
 
 Das Geschlecht des Babys wird mit einem Knall enthüllt.
 
@@ -128,7 +128,7 @@ Besonders schön ist es für die Gäste, wenn sie in die Bekanntgabe des Geschle
 
 Der Klassiker unter den Gender Reveals ist die **Torte**. Bestellen oder backen Sie eine mehrstöckige Torte, die je nach Geschlecht eine farbige Creme-Füllung oder farbige Schokodrops enthält. Von außen passt sich die Torte dem Farbschema der Dekoration an. So wird erst mit dem Anschneiden das Geschlecht des Kindes enthüllt.
 
-![Eine Gender Reveal Torte enthüllt das Geschlecht des Babys.](https://seatable.io/wp-content/uploads/2024/02/pexels-tima-miroshnichenko-6461826-711x474.jpg)
+![Eine Gender Reveal Torte enthüllt das Geschlecht des Babys.](pexels-tima-miroshnichenko-6461826-711x474.jpg)
 
 Genießen Sie eine leckere Überraschung.
 
@@ -136,7 +136,7 @@ Genießen Sie eine leckere Überraschung.
 
 Eine Gender Reveal Party ist nicht nur für die werdenden Eltern ein einzigartiges Ereignis. Halten Sie den Tag mit Fotoaufnahmen fest, damit er für immer in Erinnerung bleibt. Dafür bietet es sich an, einen **Fotografen** zu buchen, welcher die vielen glücklichen Momente ablichtet. Alternativ können die Gäste selbst aktiv werden. Verteilen Sie **Einmal- oder Sofortbildkameras** an die Anwesenden, womit diese nach Lust und Laune den Tag in all seinen Facetten festhalten können.
 
-![Beauftragen Sie Jemanden, der während der Gender Reveal Party Fotos macht.](https://seatable.io/wp-content/uploads/2024/02/pexels-nicole-michalou-5775047-e1707226227633-711x671.jpg)
+![Beauftragen Sie Jemanden, der während der Gender Reveal Party Fotos macht.](pexels-nicole-michalou-5775047-e1707226227633-711x671.jpg)
 
 Halten Sie die Feier in Bildern fest.
 
@@ -150,7 +150,7 @@ Möchten Sie mit Freunden und Verwandten die Schwangerschaft feiern, aber eine G
 
 Lassen Sie es Geschenke regnen! Traditionell wird diese **Babyparty** von Freundinnen der werdenden Mutter organisiert und findet mit weiblichen Bekannten und Verwandten statt. Die Gäste bringen **Geschenke** für die werdenden Eltern und das Baby mit.
 
-![Stofftiere, Bürste oder Waschlappen sind nützliche Geschenke für die werdenden Eltern.](https://seatable.io/wp-content/uploads/2024/02/elliot-verhaeren-sMjqcAOretU-unsplash-e1707226580159-711x575.jpg)
+![Stofftiere, Bürste oder Waschlappen sind nützliche Geschenke für die werdenden Eltern.](elliot-verhaeren-sMjqcAOretU-unsplash-e1707226580159-711x575.jpg)
 
 Schenken Sie Dinge, die nützlich für die erste Zeit mit dem Kind sind.
 

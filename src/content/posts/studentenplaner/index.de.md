@@ -35,7 +35,7 @@ Wusstest du, dass es mittlerweile viele Plattformen für gebrauchte Lehrbücher 
 
 Um die volle Power deines Studentenplaners auszuschöpfen, kannst Du die [Kalenderansicht](https://seatable.io/docs/handbuch/seatable-nutzen/ansichten/) benutzen. Hierzu fügst du ganz einfach das Kalender Plugin hinzu und siehst anschließend alle deine Abgabefristen übersichtlich in deinem persönlichen Kalender.
 
-![Studentenplaner](https://seatable.de/wp-content/uploads/2020/09/Bildschirmfoto-2020-09-02-um-11.57.21.png)
+![Studentenplaner](Bildschirmfoto-2020-09-02-um-11.57.21.png)
 
 ### Unterschiedliche Ansichten
 

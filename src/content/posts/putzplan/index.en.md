@@ -15,7 +15,7 @@ Anyone who lives with several people under one roof knows the situation: dirty d
 
 When many people live in a household, disagreements inevitably arise. This is also true when it comes to **cleanliness**. Not everyone thinks that they have to wash their dishes immediately or that regular cleaning in the bathroom is necessary.
 
-![Dirty dishes accumulate quickly when there is no cleaning schedule and no one feels responsible.](images/nathan-dumlao-m0ucB-06v7k-unsplash-1-e1693817126757-711x533.jpg)
+![Dirty dishes accumulate quickly when there is no cleaning schedule and no one feels responsible.](nathan-dumlao-m0ucB-06v7k-unsplash-1-e1693817126757-711x533.jpg)
 
 Dirty dishes accumulate quickly when there is disagreement about cleanliness.
 
@@ -25,7 +25,7 @@ Therefore, it helps to sit down together and create a joint plan, with which eve
 
 Now it's down to the nitty-gritty: you and your housemates want to create a cleaning plan, but you don't know where to start? First of all, any plan should be **individual** to the household. Therefore, first ask yourself the following questions:
 
-![An initial overview of upcoming tasks](images/Putzplan-1-711x711.png)
+![An initial overview of upcoming tasks](Putzplan-1-711x711.png)
 
 An initial overview of upcoming tasks
 
@@ -45,7 +45,7 @@ To get a rough overview of the tasks that need to be done, it is helpful to divi
 
 The time intervals at which certain tasks are to be completed depend on how thoroughly they are worked on. If someone does not put any effort into a task in the cleaning schedule, it will have to be done more often to achieve the same result. Nevertheless, we have a guideline for you, which tasks are due how often if they are worked on thoroughly:
 
-![These tasks come to you at regular intervals in their cleaning schedule.](images/Haeufigkeit-der-Taetigkeiten-fuer-den-Putzplan-711x711.png)
+![These tasks come to you at regular intervals in their cleaning schedule.](Haeufigkeit-der-Taetigkeiten-fuer-den-Putzplan-711x711.png)
 
 These tasks will come your way at regular intervals.
 
@@ -55,7 +55,7 @@ Decide together who will take on which tasks. Take into account the daily routin
 
 If this is not the case, another option is to **rotate** the tasks. In this case, the responsibility is changed on a weekly basis. This is usually particularly effective, since the workload is roughly the same for everyone after a run-through and everyone has already taken responsibility for everything once. However, it takes longer until a certain routine is established in the daily routine.
 
-![Teamwork is the key to a successful cleaning schedule.](images/pexels-pavel-danilyuk-8763139-1-scaled-e1693817422843-711x498.jpg)
+![Teamwork is the key to a successful cleaning schedule.](pexels-pavel-danilyuk-8763139-1-scaled-e1693817422843-711x498.jpg)
 
 Teamwork is the key to a successful cleaning schedule.
 
@@ -65,7 +65,7 @@ In order to convince even [cleaning grouches](https://www.stuttgarter-zeitung.de
 
 The tasks are distributed, but no one does what they should? Then perhaps it's due to a **lack of motivation**. No wonder, because cleaning is not exactly one of many people's favorite activities. To keep the cleaning schedule going anyway, it can help to find the right incentive. Combine the tedious cleaning with listening to music or watching series.
 
-![Having a little fun while cleaning makes it much easier to get the tasks done.](images/pexels-rdne-stock-project-5591970-1-711x474.jpg)
+![Having a little fun while cleaning makes it much easier to get the tasks done.](pexels-rdne-stock-project-5591970-1-711x474.jpg)
 
 With a little fun cleaning everything goes directly much easier.
 
@@ -75,6 +75,6 @@ But make sure you don't get too distracted - cleaning should still be your main 
 
 There is a lot to plan when it comes to housework, especially if you want to involve several people in the tasks. In order not to lose track of everything, the SeaTable team has created a cleaning schedule template for you. You can customize this to your liking. For example, by clearly assigning tasks to a responsible person, you can see at a glance which tasks you and your roommates have to do and whether they are distributed fairly.
 
-![Create a custom cleaning schedule in SeaTable.](images/Putzplan.png)
+![Create a custom cleaning schedule in SeaTable.](Putzplan.png)
 
 If you want to use SeaTable to create your individual cleaning plan, just [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here]({{< relref "templates/everyday-life/cleaning-plan" >}}).

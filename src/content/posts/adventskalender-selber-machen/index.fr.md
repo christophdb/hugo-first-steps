@@ -30,7 +30,7 @@ Si vous voulez savoir d'où vient la tradition du calendrier de l'Avent, cliquez
 
 Le calendrier de l'Avent doit être prêt au plus tard le 30 novembre. Pour que rien ne s'y oppose, la planification suivante vous aidera :
 
-![Comment planifier votre calendrier de l'Avent en 5 étapes.](https://seatable.io/wp-content/uploads/2024/06/Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
+![Comment planifier votre calendrier de l'Avent en 5 étapes.](Red-Simple-Christmas-Border-A4-2-e1718895318315-711x954.png)
 
 Ces étapes mènent au succès.
 
@@ -40,7 +40,7 @@ Que l'on soit jeune ou moins jeune, tous se réjouissent d'ouvrir une nouvelle p
 
 Lors de la planification, pensez à la **personne pour laquelle** vous remplissez le calendrier de l'Avent. En effet, tout le monde ne se réjouit pas des mêmes choses.
 
-![Les enfants apprécient particulièrement d'ouvrir une porte chaque jour.](https://seatable.io/wp-content/uploads/2024/06/pexels-cottonbro-6139608-e1718886096417.jpg)
+![Les enfants apprécient particulièrement d'ouvrir une porte chaque jour.](pexels-cottonbro-6139608-e1718886096417.jpg)
 
 Lorsqu'une porte s'ouvre, la joie est souvent grande.
 
@@ -62,7 +62,7 @@ Passons aux choses sérieuses. La manière dont vous remplissez vous-même le ca
 
 Le **calendrier de l'Avent au chocolat** est sans aucun doute le classique parmi les calendriers de l'Avent. Qu'il s'agisse d'une simple tablette, d'un moule de Noël ou d'une praline raffinée, le goût est convaincant ! Si vous souhaitez faire plaisir à quelqu'un qui ne peut pas se passer de sucreries pendant la période de l'Avent, vous pouvez lui proposer des friandises que vous aurez composées vous-même et qui répondront à ses goûts et lui permettront de réaliser lui-même un calendrier de l'Avent de manière variée.
 
-![Remplir un calendrier de l'Avent de chocolat est un grand classique.](https://seatable.io/wp-content/uploads/2024/06/markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
+![Remplir un calendrier de l'Avent de chocolat est un grand classique.](markus-spiske-MxjnYEqAfVA-unsplash-e1718624114423.jpg)
 
 Décorer soi-même le chocolat rend le calendrier de l'Avent unique.
 
@@ -80,7 +80,7 @@ L'achat de 24 épices différentes est toutefois coûteux. Regardez d'abord chez
 
 Pour les personnes qui ont une activité artistique, un **kit de bricolage ou de peinture** à composer soi-même est une bonne idée. Laissez libre cours à la créativité de vos proches ou ajoutez des instructions de bricolage qui leur permettront d'avancer chaque jour un peu plus dans leur projet.
 
-![Faites plaisir aux enfants en leur offrant des objets de bricolage.](https://seatable.io/wp-content/uploads/2024/06/rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
+![Faites plaisir aux enfants en leur offrant des objets de bricolage.](rivage-OV44gxH71DU-unsplash-e1718624587244.jpg)
 
 Il suffit de peu pour être créatif.
 
@@ -97,7 +97,7 @@ Astrid Lindgren
 
 **Les enfants** sont particulièrement concernés par le remplissage du calendrier de l'Avent : Plus c'est excitant, mieux c'est. Préparez pour votre enfant quelque chose qui lui fera plaisir plus longtemps. Par exemple, un puzzle ou un set de Lego, dont une partie sera reconstituée chaque jour.
 
-![Les sets Lego existent aussi sous forme de calendrier de l'Avent.](https://seatable.io/wp-content/uploads/2024/06/handcraft-8226964_640-e1718624762925.jpg)
+![Les sets Lego existent aussi sous forme de calendrier de l'Avent.](handcraft-8226964_640-e1718624762925.jpg)
 
 Offrez à votre enfant quelque chose qui lui fera plaisir.
 
@@ -115,7 +115,7 @@ Votre cadeau sera particulièrement unique si vous l'associez à un objet symbol
 
 Un mélange de différents produits garantit le suspense jusqu'à la dernière seconde.
 
-![24 idées pour remplir votre calendrier de l'Avent.](https://seatable.io/wp-content/uploads/2024/06/Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
+![24 idées pour remplir votre calendrier de l'Avent.](Red-and-Green-Festive-Fun-Christmas-Advent-Calendar-2-711x1006.png)
 
 C'est le mélange qui fait la différence.
 
@@ -136,7 +136,7 @@ Alors, comment emballer les cadeaux ? Cela dépend d'abord de votre préférence
 
 Si vous fabriquez vous-même un calendrier de l'Avent et que tous les contenus (par exemple les barres de chocolat) ont à peu près la même taille, vous pouvez peindre des rouleaux de papier toilette et les utiliser comme emballage.
 
-![Le classique des emballages est le sac en papier.](https://seatable.io/wp-content/uploads/2024/06/pexels-nati-87264186-19312001-e1718886187213.jpg)
+![Le classique des emballages est le sac en papier.](pexels-nati-87264186-19312001-e1718886187213.jpg)
 
 Le plus simple est d'utiliser des sacs en papier pour l'emballage.
 
@@ -158,7 +158,7 @@ Si les paquets sont légers, vous pouvez par exemple les suspendre à un mur à 
 
 ## 5\. acheter tout ce dont vous avez besoin
 
-Il y a beaucoup de choses à acheter et peu de temps. Pour obtenir tout ce dont vous avez besoin, il est judicieux d'établir une [liste de courses](https://seatable.io/fr/einkaufsliste/). Faites des recherches suffisamment tôt pour savoir où vous pouvez vous procurer quoi. Surtout si vous bricolez beaucoup vous-même, vous devriez penser non seulement au matériel, mais aussi aux outils.
+Il y a beaucoup de choses à acheter et peu de temps. Pour obtenir tout ce dont vous avez besoin, il est judicieux d'établir une [liste de courses]({{< relref "posts/einkaufsliste" >}}). Faites des recherches suffisamment tôt pour savoir où vous pouvez vous procurer quoi. Surtout si vous bricolez beaucoup vous-même, vous devriez penser non seulement au matériel, mais aussi aux outils.
 
 ### Planifier en ligne avec quoi vous remplissez vos calendriers de l'Avent
 
@@ -172,6 +172,6 @@ Un **calendrier de l'Avent numérique** est à la fois durable et créatif. Si v
 
 Pour créer votre calendrier de l'Avent virtuel, vous pouvez utiliser SeaTable. Créez une porte pour chaque jour, créez une galerie à l'aide d'une application et partagez facilement le contenu que vous avez sélectionné avec soin via un lien.
 
-![Calendrier de l'Avent privé](images/Private-Advent-Calendar.png)
+![Calendrier de l'Avent privé](Private-Advent-Calendar.png)
 
-Si vous souhaitez utiliser SeaTable pour créer des calendriers de l'Avent analogiques et/ou numériques, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement avec votre adresse e-mail. Vous trouverez le modèle, également gratuit, [ici]({{< relref "templates/events/advent-calendar" >}}).
+Si vous souhaitez utiliser SeaTable pour créer des calendriers de l'Avent analogiques et/ou numériques, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement avec votre adresse e-mail. Vous trouverez le modèle, également gratuit, [ici]({{< relref "templates/events/advent-calendar" >}}).

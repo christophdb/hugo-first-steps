@@ -13,7 +13,7 @@ seo:
 
 One thing is crucial for successful sales work: **offer management**. But what is important here? What mistakes should not be made under any circumstances? And what is behind the term "offer management" anyway?
 
-Find out the answers to these questions and why useful software and [online tools](https://seatable.io/en/agiles-projektmanagement-tools/) can help you decisively with your offer management in this article.
+Find out the answers to these questions and why useful software and [online tools]({{< relref "posts/20250308-projektmanagement-methoden" >}}) can help you decisively with your offer management in this article.
 
 ## Offer management - definition and key facts
 
@@ -43,11 +43,11 @@ Proposal preparation lays the foundation for your optimal proposal management an
 After the initial discussions with the potential new customer, you know their "needs" and what solutions will help them. Now it's time for the second step of offer management, the preparation of the offer. But what should be in the offer? You'll be on the safe side if you consider these four aspects:
 
 - Specification of the solution
-- [Price calculation](https://seatable.io/en/budgetplanung-vorlage/)
+- [Price calculation]({{< relref "templates/finance/budget-book" >}})
 - Preparation of a written offer
 - Sending the written offer to the customer
 
-![Employee calculates price within the framework of offer management](images/Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![Employee calculates price within the framework of offer management](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
 
 Offer management © Antonioguillem / adobe stock
 
@@ -88,7 +88,7 @@ Another common mistake in offer management is that the salesperson has not prepa
 
 Perfect offer management also means that you follow up after some time if the customer does not get back to you on their own. In this way, you not only show that the customer is important to you (customer loyalty), but you can also clear up any ambiguities or questions directly and adjust the offer again if necessary.
 
-![Sales representative makes a phone call to the potential customer as part of his offer management.](images/Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![Sales representative makes a phone call to the potential customer as part of his offer management.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
 
 Offer management © Patrick Daxenbichler / adobe stock
 
@@ -96,7 +96,7 @@ Offer management © Patrick Daxenbichler / adobe stock
 
 Precisely tailored supply management does not happen on its own. There are too many aspects to consider. In order to maintain an overview and organize all processes as efficiently and effectively as possible, it has great advantages to manage the complete offer processing using software.
 
-The market already offers a number of software solutions that are versatile and can be flexibly adapted to the requirements of sales. Whether [classic CRM](https://seatable.io/en/crm-angebotsmanagement/), customer service or other [sales areas](https://seatable.io/en/vertrieb/) - with the right tools, you can combine your entire sales business in one system and reduce the complexity of offer management to a minimum. The best-known tools for digital offer management include HubSpot, SAP CRM and ActiveCampaign.
+The market already offers a number of software solutions that are versatile and can be flexibly adapted to the requirements of sales. Whether [classic CRM]({{< relref "posts/crm-angebotsmanagement" >}}), customer service or other [sales areas](https://seatable.io/en/vertrieb/) - with the right tools, you can combine your entire sales business in one system and reduce the complexity of offer management to a minimum. The best-known tools for digital offer management include HubSpot, SAP CRM and ActiveCampaign.
 
 If you are looking for the all-round carefree package for your offer management, [SeaTable](https://seatable.io/en/) is an optimal, cost-effective alternative. With the functions of this tool, you can automate all sales processes and easily collect all data using an integrated web form. For solving customer problems, answering inquiries and sorting feedback, this is a big plus.
 

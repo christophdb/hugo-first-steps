@@ -16,7 +16,7 @@ SeaTable 2.4 ha visto la luz. La última encarnación del servidor SeaTable se s
 
 Las vistas proporcionan perspectivas únicas sobre los datos de una tabla SeaTable y son herramientas fantásticas para el análisis de datos. Pero, según los comentarios de los usuarios, cambiar de vista es innecesariamente complicado.
 
-![Navegación de la vista con pinnacle](images/Pinnable_View_Navigation_1448x787.png)
+![Navegación de la vista con pinnacle](Pinnable_View_Navigation_1448x787.png)
 
 Con SeaTable 2.4 introducimos la navegación por las vistas acoplables, que hace que seleccionar y cambiar entre las vistas sea tan fácil como navegar por las carpetas en un gestor de archivos a la manera del Explorador de Windows o el Finder en el Mac. Con la navegación anclada, la lista de vistas se expande por todo el lado izquierdo del editor de tablas, haciendo que las vistas estén directamente disponibles para su selección. Para adaptarse a las diferentes necesidades, la anchura de la navegación acoplada puede ajustarse individualmente según las necesidades. Si tienes que cambiar de vista con frecuencia, esta innovación te ahorrará muchos clics y trabajo de ratón.
 
@@ -24,7 +24,7 @@ Con SeaTable 2.4 introducimos la navegación por las vistas acoplables, que hace
 
 El tipo de columna Enlace a otras entradas es probablemente el más importante de SeaTable. SeaTable no es una hoja de cálculo más. Como ningún otro tipo de columna, este tipo de columna representa eso. Y en SeaTable 2.4 hemos mejorado aún más este tipo de columna.
 
-![Más opciones de visualización para la columna de enlaces](images/More_Flexible_Link_Column_raw_1448x554.png)
+![Más opciones de visualización para la columna de enlaces](More_Flexible_Link_Column_raw_1448x554.png)
 
 En versiones anteriores de SeaTable, el enlace siempre mostraba el valor de la primera columna de la entrada enlazada. A partir de ahora, puede seleccionar qué valor de columna de la fila vinculada debe mostrarse. Esta selección se realiza fácilmente mediante un menú desplegable en la configuración de la columna de enlaces. ¡Lo que parece pequeño es de gran importancia! Imagine que la primera columna de la tabla vinculada es una columna autonumérica. Estos valores carecen de información relevante para usted, la pantalla sin significado significativo. En la nueva versión, ahora se selecciona una columna que contiene información más significativa. Esto simplifica la creación de enlaces y hace que la tabla sea más compacta con menos columnas de búsqueda. Por último, la columna de enlaces revisada también hace que los formularios web sean más potentes para las encuestas y los sondeos. La columna de búsqueda seleccionada es también la que el visitante ve y puede elegir en el formulario web. Estamos convencidos de que la nueva función le gustará tanto como a nosotros.
 
@@ -32,7 +32,7 @@ En versiones anteriores de SeaTable, el enlace siempre mostraba el valor de la p
 
 ¿Quiere identificar todos los duplicados de su tabla? Con SeaTable 2.4 ahora tiene no una sino dos maneras de hacerlo: puede utilizar el plugin de deduplicación de datos o la nueva opción de formato condicional "Resaltar duplicados". Esta opción de formato resalta todas las filas duplicadas de la tabla activa. Seleccionando las columnas de comparación, puede definir exactamente qué constituye un duplicado.
 
-![Nueva opción de formato condicional "Resaltar duplicados](images/Highlight_duplicates_1448x554.png)
+![Nueva opción de formato condicional "Resaltar duplicados](Highlight_duplicates_1448x554.png)
 
 La gran ventaja del formato condicional frente al plugin es el hecho de que no se sale del editor de tablas. Los duplicados se muestran donde se pueden editar las filas, eliminarlas y utilizar filtros y clasificaciones. (El plugin sigue siendo la herramienta de elección si desea eliminar automáticamente todos los duplicados).
 

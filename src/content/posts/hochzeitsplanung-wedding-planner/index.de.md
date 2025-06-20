@@ -17,13 +17,13 @@ Einer der schönsten und wichtigsten Tage im Leben steht vor der Tür: die eigen
 
 Normalerweise startet die Planung einer Hochzeit ungefähr 13 Monate vor dem großen Tag. Wenn man eine beliebte Hochzeitslocation haben möchte, teilweise sogar noch früher. Wichtig ist, dass man bei der schieren Menge an Aufgaben nicht den Überblick verliert. Deshalb steht in Zentrum unseres Templates [Wedding Planner]({{< relref "templates/events/wedding-planner" >}}) die _Checkliste_ mit bereits über 200 vordefinierten Aufgaben. Zusätzlich wird in dieser Tabelle erfasst, wann das entsprechende To-do erledigt werden muss. Es gibt immer ein übergeordnetes To-do, welches mehrere einzelne Unterpunkte beinhaltet, um Sie durch den ganzen Prozess zu leiten. Die Spalte _Check_ ist eine [Checkbox-Spalte](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/?lang=auto#checkbox), die dazu dient, erledigte To-dos abzuhaken.
 
-![Hochzeitplanung Checkliste](https://seatable.de/wp-content/uploads/2021/07/wedding-more-than-200-todos.png)
+![Hochzeitplanung Checkliste](wedding-more-than-200-todos.png)
 
 Unsere Checkliste für die Hochzeitplanung enthält bereits über 200 ToDos, damit Sie nichts vergessen.
 
 ### Eigene To-dos erstellen
 
-Um mit der Planung Ihrer eigenen Hochzeit zu beginnen, müssen Sie sich für einen [Free-Account von SeaTable registrieren](https://seatable.io/registrierung/?lang=auto). Anschließend können Sie mithilfe unseres Templates _Wedding Planner_ mit der Planung Ihrer Hochzeit beginnen.
+Um mit der Planung Ihrer eigenen Hochzeit zu beginnen, müssen Sie sich für einen [Free-Account von SeaTable registrieren]({{< relref "pages/registration" >}}). Anschließend können Sie mithilfe unseres Templates _Wedding Planner_ mit der Planung Ihrer Hochzeit beginnen.
 
 Zusätzliche oder weitere To-dos können Sie an beliebiger Stelle in das Template einfügen. Wenn Sie ein neues _Parent To-do_ vergeben, wird automatisch eine neue Gruppe von Aufgaben angelegt. Die Sortierung der Aufgabengruppen erfolgt automatisch anhand der Vorlaufzeit zu Ihrer Hochzeit. Sie möchten die Aufgaben mit einem konkreten Datum versehen? Fügen Sie einfach eine neue [Datumsspalte](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/?lang=auto#datum) hinzu und versehen Sie jedes To-do mit einem Datum.
 
@@ -48,7 +48,7 @@ Wir haben Ihnen gleich 5 verschiedene Ansichten vorbereitet, die bei 5 wichtigen
 4. Für die Unterhaltung gibt es die Ansicht _Entertainment_
 5. Für das Essen gibt es die Ansicht möglicher _Caterer_
 
-![Hochzeitsplanung](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
+![Hochzeitsplanung](Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
 
 ### Bei der Hochzeitsplanung geht es um Entscheidungen
 
@@ -75,7 +75,7 @@ In den Notizen ist Platz für alles möglich, vielleicht gibt es persönliche Pr
 
 Damit neben der chaotischen Hochzeitsplanung kein zusätzliches Zettelchaos auf dem Esstisch entsteht, haben wir uns gedacht, die Sitzplanproblematik digital zu lösen. Durch die Verknüpfung der beiden Tabellen _Guestlist_ und _Seating Chart_ können Sie jedem Gast in der Tabelle _Guestlist_ einen von Ihnen zuvor festgelegten Tisch der Tabelle _Seating Chart_ zuweisen. Falls es für Sie übersichtlicher ist, können Sie auch andersherum in der Tabelle _Seating Chart_ die einzelnen Gäste Ihren Tischen zuweisen. Wenn Sie in der _Guestlist_ auf einen Tisch klicken, so sehen Sie direkt, wer bereits am Tisch sitzt.
 
-![](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-14.29.48.png)
+![](Bildschirmfoto-2021-07-13-um-14.29.48.png)
 
 Auch bei der Gästeliste gibt es wieder verschiedene Ansichten, um Ihnen noch mehr unter die Arme zu greifen. Wir haben eine Ansicht erstellt, die Ihnen zeigt, welche [Einladungen](https://www.pinterest.de/mhochzeitsdeko/einladungenskarten-hochzeit/) noch nicht verschickt wurden. Eine Ansicht zeigt Ihnen die verschiedenen Menüwünsche. Vielleicht wäre es für Sie auch eine Option, diese Ansicht direkt mit dem Caterer zu [teilen](https://seatable.io/docs/handbuch/zusammenarbeit/externe-links/?lang=auto), so kann dieser das Menü einfacher planen. Zu guter Letzt gibt es noch drei Einzelansichten für jede einzelne Feierlichkeit, denn wie wir wissen, kommt nicht jeder Gast zu jedem Teil der Feier. Mit einem Klick haben Sie also direkt eine Übersicht über die Personen, die jeweils anwesend sein werden.
 
@@ -93,7 +93,7 @@ Mit unserer über 200 Punkte umfassenden _Checkliste_ kann bei der Planung Ihrer
 
 Selbst wenn Ihre Hochzeit etwas spezieller ist oder Sie andere Anforderungen haben, SeaTable lässt sich ganz nach Ihren Wünschen anpassen. Fügen Sie Tabellen hinzu, erstellen Sie [unterschiedliche Ansichten](https://seatable.io/docs/handbuch/datenmanagement/ansichten/?lang=auto), [gruppieren und filtern](https://seatable.io/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) Sie Ihre Daten und Ansichten oder probieren Sie die für Sie passende [PlugIns](https://seatable.io/docs/handbuch/schnelleinstieg/erweiterungen/?lang=auto) aus. So wäre es z.B. vorstellbar eine Wunschliste in den Wedding Planner zu integrieren und die Gäste können per Webformular im Vorfeld eintragen, welches Geschenk Sie aussuchen werden. Mit SeaTable könnte das Webformular so gestaltet sein, dass die Gäste nur Geschenke sehen, die noch kein anderer Gast ausgesucht hat. Der Fantasie sind wirklich keine Grenzen gesetzt.
 
-[Melden Sie sich jetzt an](https://seatable.io/registrierung/?lang=auto) und starten Sie mit der Planung Ihrer Hochzeit. Das ganze SeaTable Team wünscht Ihnen viel Spaß und eine tolle Hochzeit!
+[Melden Sie sich jetzt an]({{< relref "pages/registration" >}}) und starten Sie mit der Planung Ihrer Hochzeit. Das ganze SeaTable Team wünscht Ihnen viel Spaß und eine tolle Hochzeit!
 
 ### Deutsche Videoanleitungen auf YouTube
 

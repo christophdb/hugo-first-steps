@@ -18,7 +18,7 @@ Hier erfahren Sie, wie Sie eine artgerechte Tierhaltung organisieren und welche 
 
 Zunächst stellt sich die Frage, ob ein Tier in Ihrem Alltag Platz findet. Für ein Haustier müssen Sie auf unbestimmte Zeit **Verantwortung** übernehmen. Dabei sollten Sie sich fragen, ob Sie die individuellen Anforderungen, die Ihr Tier an Sie stellt, erfüllen können.
 
-![Hier sind Fragen aufgelistet, welche man sich vor dem Kauf eines Haustiers stellen sollte.](https://seatable.io/wp-content/uploads/2024/01/Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
+![Hier sind Fragen aufgelistet, welche man sich vor dem Kauf eines Haustiers stellen sollte.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1706187769265-711x919.jpg)
 
 Darauf sollten Sie achten, bevor Sie sich ein Haustier zulegen.
 
@@ -32,7 +32,7 @@ In Deutschland ist der Begriff **Haustier** vor allem von typischen Vertretern w
 
 Ob Clownfisch _Nemo_ oder Schnee-Eule _Hedwig_: Beliebte Tiere, die normalerweise in Zoos oder in freier Wildbahn leben, können Sie immer häufiger auch in Privathaushalten antreffen. Bis auf wenige Ausnahmen dürfen Sie in Deutschland exotische Tiere aller Art als Haustiere halten.
 
-![Die Tierhaltung von Schlangen ist erlaubt. Ausnahmen sind gefährliche Schlangen, diese müssen gemeldet werden.](https://seatable.io/wp-content/uploads/2024/01/pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
+![Die Tierhaltung von Schlangen ist erlaubt. Ausnahmen sind gefährliche Schlangen, diese müssen gemeldet werden.](pexels-pixabay-34426-scaled-e1705570504184-711x738.jpg)
 
 Schlangen dürfen Sie unter gesetzlichen Auflagen halten, müssen gefährliche Exemplare aber melden.
 
@@ -85,7 +85,7 @@ Welche Umgebung und Pflege Ihr Haustier benötigt, hängt von der Größe, Art u
 - **Schlafplatz:** Tiere, die sich in Ihrer Wohnung frei bewegen, müssen sich erst an die neue Umgebung gewöhnen. Bieten Sie Ihrem Liebling einen Rückzugsort, der auch als Schlafplatz dienen kann.
 - **Futterstationen:** Damit Ihr Tier ständigen Zugang zu Essen und Trinken hat, sollten Sie eine feste Futterstation einrichten. Damit fällt es Ihnen leichter, das Essverhalten Ihres Tierss zu überwachen.
 
-![Tierbedarf, Tierfutter und alles für die Tierhaltung finden Sie in Zoohandlungen.](https://seatable.io/wp-content/uploads/2024/01/random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
+![Tierbedarf, Tierfutter und alles für die Tierhaltung finden Sie in Zoohandlungen.](random-institute-wn2BLotE8oY-unsplash-min-scaled-e1706097188615.jpg)
 
 In Zoohandlungen finden Sie alles, was Ihr Tier benötigt.
 
@@ -107,7 +107,7 @@ Ihr Tier sollte immer Zugang zu frischem **Trinkwasser** haben. Das ist besonder
 
 Ob es Ihrem Tier gutgeht, können Sie am **Verhalten** und **Aussehen** erkennen. Typische Anzeichen für Krankheit sind zum Beispiel Appetitlosigkeit, Gewichtsverlust, Erbrechen, Teilnahmslosigkeit oder Fellveränderung. In diesen Fällen sollten Sie den Tierarzt aufsuchen.
 
-![Hunde brauchen Auslauf](https://seatable.io/wp-content/uploads/2024/01/cristian-castillo-73pyV0JJOmE-unsplash.jpg)
+![Hunde brauchen Auslauf](cristian-castillo-73pyV0JJOmE-unsplash.jpg)
 
 Hunde brauchen jeden Tag genügend Auslauf.
 
@@ -149,7 +149,7 @@ Auch Tiere werden wie wir Menschen manchmal krank, nur verstecken sie es oft vor
 
 Wenn Sie ein Tier bei sich aufnehmen, sollten Sie für einen ersten **Gesundheitscheck** zum Arzt gehen. Außerdem sind regelmäßige **Impfungen** und **Entwurmungen** nötig.
 
-![Ein Hund wird beim Tierarzt untersucht, um Krankheiten frühzeitig zu erkennen.](https://seatable.io/wp-content/uploads/2024/01/pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
+![Ein Hund wird beim Tierarzt untersucht, um Krankheiten frühzeitig zu erkennen.](pexels-tima-miroshnichenko-6235241-e1706097066673.jpg)
 
 Vorsorge ist das A und O, um Ihrem Tier ein langes Leben zu ermöglichen.
 
@@ -185,7 +185,7 @@ Für Kinder ist die Frage, ob sie ein Haustier haben möchten oder nicht, leicht
 
 Geht der Haustierwunsch primär von den Kindern aus, fällt die Entscheidung der Eltern oft auf ein **pflegeleichtes Kleintier**. Doch Kaninchen, Meerschweinchen oder Hamster erfüllen den kindlichen Drang nach Nähe und Kuscheleinheiten kaum. Ganz im Gegenteil: Sie sind meist scheu und das Ausmisten erfordert viel Arbeit. Deswegen sind Nager vor allem für Kinder geeignet, die gerne Tiere beobachten, pflegen und ihnen auch ihren Freiraum lassen können.
 
-![Kinder kuscheln Kaninchen.](https://seatable.io/wp-content/uploads/2024/01/pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
+![Kinder kuscheln Kaninchen.](pexels-anastasia-shuraeva-5124511-e1705571929716-711x841.jpg)
 
 Für Kinder ist es wichtig zu lernen, die Grenzen des Tiers zu achten.
 

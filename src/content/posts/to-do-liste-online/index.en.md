@@ -42,7 +42,7 @@ A template for your to-do list also helps you to **visualize** your tasks. You c
 
 This structure and the certainty that no thoughts or to-dos are lost online helps you to achieve **inner peace**. You always know what you have to do at any given time. You can therefore **concentrate** fully on the tasks at hand and block out everything else.
 
-![Daily activities on a board](images/sign-870246_640.jpg)
+![Daily activities on a board](sign-870246_640.jpg)
 
 ### Managing communication in a team more easily
 
@@ -66,13 +66,13 @@ It can also be linked to your calendar, a voice assistant on your smartphone and
 
 ### Microsoft To Do: The versatile app for your to-do list
 
-With [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), you get both a daily planner and a tool for task and [shopping lists](https://seatable.io/en/einkaufsliste/). You can integrate tasks from Outlook and work on a list synchronously from all end devices.
+With [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), you get both a daily planner and a tool for task and [shopping lists]({{< relref "posts/einkaufsliste" >}}). You can integrate tasks from Outlook and work on a list synchronously from all end devices.
 
 You can sort the individual to-dos, set a deadline and tick them off. Reminders and recurring tasks are also possible. However, there are no advanced visualization options beyond the list mode, for which you will need the Planner.
 
 {{< warning headline="Free use" text="Microsoft To Do is available free of charge. All you need is a Microsoft account." />}}
 
-![Microsoft To do list app on smartphone.](images/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Microsoft To do list app on smartphone.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
 © sdx15 / Adobe Stock
 
@@ -88,7 +88,7 @@ With Projoodle, you get a free app for to-do lists that are easy to create, shar
 
 As an Apple user, you are probably already familiar with the Reminders app. Here you can create new lists with as many entries as you like, which you can tick off effortlessly - for example when shopping. You can also add numerous details to each to-do, such as a date, location, priority, images and subtasks.
 
-![Reminders: To do list app for iOS](images/Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
+![Reminders: To do list app for iOS](Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
 
 The reminders can be clearly sorted in each list and divided into sections. There are also several categories available on the start page, such as _Today_, _Planned_ or _Done_, in which all applicable entries can be found across all lists. You can use the Reminders app free of charge for your to-do lists and synchronize it on all Apple devices.
 
@@ -102,7 +102,11 @@ SeaTable has by far the **widest range of functions** of all the apps we looked 
 
 With SeaTable, you can get started right away with the [free version]({{< relref "pages/registration" >}}) and the [interactive template]({{< relref "templates/projects/to-do-list" >}}). Additional features are available in the Plus version for €7 per user per month, the Enterprise version for €14 per user per month or a dedicated cloud solution.
 
-{{< warning headline="GDPR and data sovereignty" text="The SeaTable Cloud servers are located in Germany, making the platform suitable for GDPR-compliant work with sensitive personal data. You also have the option of installing [SeaTable on-premises](https://seatable.io/en/on-premises/) on your own servers." />}}
+{{< warning headline="GDPR and data sovereignty" >}}
+
+The SeaTable Cloud servers are located in Germany, making the platform suitable for GDPR-compliant work with sensitive personal data. You also have the option of installing [SeaTable on-premises]({{< relref "pages/product/seatable-server" >}}) on your own servers.
+
+{{< /warning >}}
 
 ## Tips for successfully implementing your to-do list
 
@@ -113,7 +117,7 @@ Once you have decided on the tool, it's time to create your first to-do list in 
 - Celebrate your successes. Choose a tool that allows you to **tick off** tasks **or mark them as completed**. This will give you a good feeling.
 - Keep not just one, but **at least three to-do lists** in the app in your everyday life. You can differentiate them thematically, for example, according to hobbies, household chores and shopping. Or you can enter all tasks in a backlog with the corresponding date in order to display the tasks in a monthly, weekly and daily list with different views.
 
-![Employee creates a to-do list online.](images/To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
+![Employee creates a to-do list online.](To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
 
 Start with your own to-do list © Tarokmew / Adobe Stock
 

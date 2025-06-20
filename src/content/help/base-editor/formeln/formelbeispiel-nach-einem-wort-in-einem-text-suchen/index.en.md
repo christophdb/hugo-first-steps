@@ -38,7 +38,7 @@ The next part of the formula is the **name of the column** that should be checke
 
 ![Adding the column name to be checked for the presence of the searched word](images/add-reference-column.jpg)
 
-Hinter dem Spaltennamen fügen Sie die mathematische Gleichung “**1 > 0**” ein. Diese ist für die Formel von Bedeutung, da Sie angibt, dass ein spezifischer **Wert** zurückgegeben wird, sobald das gesuchte Wort **mindestens einmal** in der Text-Spalte gefunden wird. Achten Sie in der Formel darauf, die Klammer **nach** der ersten Zahl zu **schließen**. Die **Vergleichszeichen** ( > , < , = , etc.) finden Sie im Formeleditor unter **Operatoren**.
+Insert the mathematical equation `1 > 0` after the column name. This is important for the formula, as it indicates that a specific **value** is returned as soon as the searched word is found **at least once** in the text column. In the formula, make sure to **close** the bracket **after** the first number. The **comparison characters** ( > , < , = , etc.) can be found in the formula editor under **operators**.
 
 ![Adding the mathematical equation to complete the condition](images/add-.jpg)
 

@@ -12,7 +12,7 @@ seo:
 
 Hay que comprobar los pagos recibidos, recordar a los clientes los pagos y, a veces, incluso está la parte que toda empresa quiere evitar: el proceso de reclamación. Esto puede convertirse en un verdadero reto para muchas empresas. Rápidamente te pierdes en tu propio caos y nadie en tu empresa sabe aún cuándo y si una factura fue pagada. Al final, la liquidez de su propia empresa se resiente. Sin embargo, ¡no hay que dejar que llegue tan lejos!
 
-Con [SeaTable](https://seatable.io/es/registrierung/?lang=auto) tendrá por fin todas las facturas o cuentas por cobrar de sus clientes de un vistazo y sabrá exactamente el estado de cada una de ellas. SeaTable permite a su departamento de cuentas por cobrar gestionar las cuentas por cobrar de forma óptima y eficiente. Además, la información puede intercambiarse fácilmente entre los distintos departamentos de su empresa. Para que todos puedan trabajar con la misma y correcta información y usted como empresario pueda volver a dormir más tranquilo.
+Con [SeaTable]({{< relref "pages/registration" >}}) tendrá por fin todas las facturas o cuentas por cobrar de sus clientes de un vistazo y sabrá exactamente el estado de cada una de ellas. SeaTable permite a su departamento de cuentas por cobrar gestionar las cuentas por cobrar de forma óptima y eficiente. Además, la información puede intercambiarse fácilmente entre los distintos departamentos de su empresa. Para que todos puedan trabajar con la misma y correcta información y usted como empresario pueda volver a dormir más tranquilo.
 
 [Haga clic aquí para ir directamente a nuestra plantilla "CRM Cuentas por cobrar".]({{< relref "templates/sales/crm-accounts-receivable" >}})
 
@@ -54,13 +54,13 @@ La puntuación es un examen detallado del cliente. Los pagos anteriores se detal
 
 ## Cómo gestionar eficazmente sus cuentas por cobrar en SeaTable
 
-En nuestro último artículo,["CRM: de la entrada de clientes a la cotización](https://seatable.io/es/crm-angebotsmanagement/)", le mostramos cómo puede crear su propio sistema CRM en SeaTable en muy poco tiempo. En este artículo o plantilla, seguimos con el artículo que acabamos de mencionar y le mostramos cómo puede asignar eficazmente sus cuentas por cobrar en SeaTable. Hasta ahora, todo ha girado en torno a la base de clientes, la cartera de productos y la creación de presupuestos. Ahora pasamos del presupuesto a la facturación. Así, además de las hojas de cálculo "Datos del cliente", "Equipo de ventas", "Ofertas" y "Catálogo de productos", también encontrará la nueva hoja de cálculo "Facturas" en la plantilla actual.
+En nuestro último artículo,["CRM: de la entrada de clientes a la cotización]({{< relref "posts/crm-angebotsmanagement" >}})", le mostramos cómo puede crear su propio sistema CRM en SeaTable en muy poco tiempo. En este artículo o plantilla, seguimos con el artículo que acabamos de mencionar y le mostramos cómo puede asignar eficazmente sus cuentas por cobrar en SeaTable. Hasta ahora, todo ha girado en torno a la base de clientes, la cartera de productos y la creación de presupuestos. Ahora pasamos del presupuesto a la facturación. Así, además de las hojas de cálculo "Datos del cliente", "Equipo de ventas", "Ofertas" y "Catálogo de productos", también encontrará la nueva hoja de cálculo "Facturas" en la plantilla actual.
 
 ### **De la oferta a la orden de facturación**
 
 La hoja de cálculo "Ofertas" se ha ampliado con las tres nuevas [columnas](https://seatable.io/es/docs/handbuch/datenmanagement/feld-typen/?lang=auto) "Departamento de contabilidad", "Estado de pago" y "Facturas". Si su cliente ha aceptado su oferta y desea adquirir los bienes o servicios, ahora tiene la opción de informar al departamento de contabilidad para que facture al cliente con un solo clic en el botón "Crear factura". Todos los datos importantes de la oferta aceptada se trasladan directamente como una nueva línea a la hoja de cálculo "Facturas". Para ello, se ejecuta un script en segundo plano que escribe los datos directamente en la tabla "Facturas" y garantiza un enlace con las hojas de tabla "Facturas", "Ofertas" y "Datos del cliente".
 
-![Cuentas por cobrar - Oferta](images/Ansicht_Offers.png)
+![Cuentas por cobrar - Oferta](Ansicht_Offers.png)
 
 Resumen de la página de ofertas en SeaTable
 
@@ -70,13 +70,13 @@ A continuación, podrá ver cómodamente el estado real del pago en la [columna]
 
 Como ya se ha mencionado, toda la información importante sobre la oferta aceptada por el cliente se transfiere directamente a la hoja de cálculo "Facturas". Así, todos los datos como el número de oferta, el nombre del cliente, el número de cliente, la persona de contacto, la calle y el número de casa, el código postal, la ciudad, el país y toda la información del producto con el nombre del producto, el precio unitario, la cantidad y el importe total se transfieren automáticamente. Lo único que tiene que hacer su departamento de contabilidad es pulsar el botón "Crear factura" en la columna "Factura".
 
-![Cuentas por cobrar - Facturas](images/Ansicht_Invoices.png)
+![Cuentas por cobrar - Facturas](Ansicht_Invoices.png)
 
 Todas las exigencias de un vistazo
 
 El complemento "Diseño de página" se abre automáticamente y rellena toda la información importante. A continuación, puede guardar fácilmente la factura como archivo PDF y almacenarla en la columna "Archivos" o imprimirla y enviarla a su cliente por correo electrónico o carta. Por supuesto, puede adaptar o añadir a la plantilla de diseño de página predefinida según sus deseos en sólo unos minutos.
 
-![Cuentas por cobrar - Factura](images/PageDesign_Invoice.png)
+![Cuentas por cobrar - Factura](PageDesign_Invoice.png)
 
 Su factura terminada en el plugin de diseño de páginas
 
@@ -84,19 +84,19 @@ Su factura terminada en el plugin de diseño de páginas
 
 Para garantizar que todas las personas relevantes de su empresa, además del departamento de cuentas por cobrar propiamente dicho, sepan si un cliente paga o no sus facturas, dispone de la columna "Estado de pago". Si el cliente acepta una oferta y se genera una factura, el estado de pago cambia automáticamente a "Pendiente". En cuanto se produce un pago, su departamento de contabilidad puede cambiar la columna de selección única "Estado de pago" a "Pagado" e introducir la fecha del pago recibido en "Fecha de pago". Con la [función de agrupación](https://seatable.io/es/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) y las diferentes [vistas](https://seatable.io/es/docs/handbuch/datenmanagement/ansichten/?lang=auto) por "Estado de pago" obtendrá la mejor vista posible de todos los estados de pago actuales. Además, ahora también encontrará el "Estado de la factura" en el complemento Kanban, para que realmente no pueda perder de vista ningún estado de pago.
 
-![Cuentas por cobrar - Pagos](images/Ansicht_Invoices_Status.png)
+![Cuentas por cobrar - Pagos](Ansicht_Invoices_Status.png)
 
 Los diferentes estados de pago
 
 Lo mejor del estado de los pagos es que cada estado afecta también a su maestro de clientes real en la hoja de trabajo "Datos del cliente". Esto significa: Si un cliente paga todas sus facturas o está "Pendiente", la fila actual se marca en verde. Si el cliente no ha pagado su factura por cualquier motivo, el color de la línea cambia a rojo y todos los empleados saben que ese cliente está en proceso de reclamación y que no se le deben suministrar productos o servicios hasta nuevo aviso.
 
-![](images/Customer-data.jpg)
+![](Customer-data.jpg)
 
 ### **Comunique el estado del pago a sus clientes con un solo clic**
 
 Para que su departamento de cuentas por cobrar también pueda informar a sus clientes sobre la recepción de un pago o un retraso en el mismo, en SeaTable están disponibles los dos botones "Recepción del pago" e "Información de la reclamación". Con un solo clic en el botón correspondiente, se envía automáticamente un correo electrónico a la dirección de correo electrónico de contacto de la columna "Dirección de correo electrónico". En este correo electrónico se añade automáticamente información como el número de factura o el importe. Por supuesto, puede personalizar fácilmente el mensaje a sus clientes sobre los respectivos estados de pago como desee.
 
-![Cuentas por cobrar - Información del cliente](images/Email.png)
+![Cuentas por cobrar - Información del cliente](Email.png)
 
 Envíe la información de pago a sus clientes directamente desde SeaTable
 

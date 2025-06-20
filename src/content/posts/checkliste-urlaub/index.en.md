@@ -15,7 +15,7 @@ The summer vacations are just around the corner and for many vacationers that me
 
 This article gives you a comprehensive insight into what you need for your next vacation trip and how best to organize it without forgetting essentials. Whether you are a last-minute booker or a forward planner, here you will find a detailed checklist for your vacation and valuable tips to prepare your trip efficiently and stress-free.
 
-![Vacation checklist: A bird's eye view of a beach with palm trees](images/nattu-adnan-atSUvc1hMwk-unsplash-711x491.jpg)
+![Vacation checklist: A bird's eye view of a beach with palm trees](nattu-adnan-atSUvc1hMwk-unsplash-711x491.jpg)
 
 Find out about the climate of your destination so that you can prepare accordingly.
 
@@ -27,7 +27,7 @@ A travel checklist like this allows you to plan and add everything you need at y
 
 Ideally, you should only pack your suitcase **two to three days** before departure. This way, you can take the current weather forecast into account and adjust your clothing accordingly. On **the day of departure**, all that's left to do is pack the things you'll need until the end, such as your cell phone charging cable or toothbrush.
 
-![Two women pack a suitcase for a trip](images/pexels-gabby-k-5330979-711x474.jpg)
+![Two women pack a suitcase for a trip](pexels-gabby-k-5330979-711x474.jpg)
 
 A packing list provides a structured approach to packing.
 
@@ -39,7 +39,7 @@ A well-organized vacation checklist not only helps you to avoid unnecessary stre
 
 Even for those who like to plan in advance and already use a travel checklist, there is always room for improvement. Careful travel preparation is essential for a stress-free and relaxing vacation. By regularly updating and **optimizing** your travel checklist, you can ensure that you think of everything and can enjoy your trip carefree.
 
-![Vacation checklist: A woman enjoys the sea view in a pool](images/alex-bertha-Jyg7xHRmXiU-unsplash-711x474.jpg)
+![Vacation checklist: A woman enjoys the sea view in a pool](alex-bertha-Jyg7xHRmXiU-unsplash-711x474.jpg)
 
 Vacations should be a relaxing and enjoyable experience, and good preparation helps to minimize stress.
 
@@ -51,7 +51,7 @@ Thorough preparation for your vacation involves more than just the vacation chec
 - **Vaccinations and health:** If you are planning an adventure vacation in exotic regions, you should check your vaccination record in good time and have any necessary vaccinations against diseases that are rare in Europe updated. Find out about recommended or mandatory vaccinations for your destination.
 - **Foreign travel insurance:** Travel insurance is essential to be covered in the event of illness or other emergencies. Compare different offers and choose an insurance policy that meets your needs.
 
-![Vacation checklist: A woman enjoys the view from her hotel room](images/pexels-elina-sazonova-1838554-711x474.jpg)
+![Vacation checklist: A woman enjoys the view from her hotel room](pexels-elina-sazonova-1838554-711x474.jpg)
 
 Travel insurance that covers medical care abroad and trip interruption for health reasons is important.
 
@@ -62,7 +62,7 @@ Travel insurance that covers medical care abroad and trip interruption for healt
 - **Local laws and driving license:** Check whether you need an international driving license in your destination country and familiarize yourself with the local laws. Some countries have stricter regulations (e.g. rules of conduct in public places) that you must observe.
 - **Travel preparations on site:** Little things like booking a parking space at the airport or ensuring mobile accessibility abroad can have a significant impact on your vacation mood. Make sure that everything is well organized.
 
-![Glasses on a map](images/eyeglasses-8227429_1280-711x533.jpg)
+![Glasses on a map](eyeglasses-8227429_1280-711x533.jpg)
 
 Decide how you will get around (rental car, public transport, etc.) and book in advance if necessary.
 
@@ -98,7 +98,7 @@ Spacer
 - Flight tickets
 - Hotel/rental car documents
 
-![Vacation checklist: passport, flight tickets and other documents](images/convertkit-QMU1z6ReS5A-unsplash-711x474.jpg)
+![Vacation checklist: passport, flight tickets and other documents](convertkit-QMU1z6ReS5A-unsplash-711x474.jpg)
 
 You can copy important documents before your vacation so that you are covered in case something gets lost.
 
@@ -120,7 +120,7 @@ Spacer
 - Shoes
 - Dresses/skirts
 
-![Clothes that have been laid out for a vacation](images/pexels-taryn-elliott-4374510-711x484.jpg)
+![Clothes that have been laid out for a vacation](pexels-taryn-elliott-4374510-711x484.jpg)
 
 Check what the weather will be like at your destination before you travel.
 
@@ -142,7 +142,7 @@ Spacer
 - Disinfectant
 - Towels
 
-![Hygiene articles: Soap and towels for the vacation checklist](images/pexels-karolina-grabowska-4210373-711x474.jpg)
+![Hygiene articles: Soap and towels for the vacation checklist](pexels-karolina-grabowska-4210373-711x474.jpg)
 
 Find out in advance whether towels and other toiletries are included to save space.
 
@@ -163,7 +163,7 @@ Spacer
 - Tick card
 - Personal medication
 
-![Medication and fruit for your health](images/pexels-darina-belonogova-7208650-711x517.jpg)
+![Medication and fruit for your health](pexels-darina-belonogova-7208650-711x517.jpg)
 
 To be prepared for anything on vacation, you should think about a small first-aid kit.
 
@@ -180,7 +180,7 @@ Spacer
 - Charging cable
 - Camera
 
-![Vacation checklist: A camera that has been aesthetically draped in individual parts](images/pexels-alex-andrews-271121-821652-711x431.jpg)
+![Vacation checklist: A camera that has been aesthetically draped in individual parts](pexels-alex-andrews-271121-821652-711x431.jpg)
 
 Make sure you store electronic devices safely so that nothing can break.
 
@@ -198,7 +198,7 @@ Spacer
 - Travel provisions
 - Book
 
-![Vacation checklist: A woman sleeps with a sleep mask](images/pexels-cottonbro-6863349-711x512.jpg)
+![Vacation checklist: A woman sleeps with a sleep mask](pexels-cottonbro-6863349-711x512.jpg)
 
 You can make long flights more comfortable with sleep masks and earplugs.
 
@@ -210,7 +210,7 @@ The type of vacation also plays a decisive role. For a **city break**, comfortab
 
 A flexible checklist for your vacation also allows you to react to last-minute changes. Unpredictable changes in the weather or spontaneous changes in plans are easier to deal with if you are well organized in advance and don't become unnecessarily stressed.
 
-![Vacation checklist: View of a sunset from an airplane](images/pexels-stefanstefancik-127905-711x513.jpg)
+![Vacation checklist: View of a sunset from an airplane](pexels-stefanstefancik-127905-711x513.jpg)
 
 Whether beach utensils or winter sports equipment - you need different things depending on your vacation.
 
@@ -224,7 +224,7 @@ If your checklist for your vacation is extensive, it can be a challenge to fit e
 - **Prepare for the way back:** Also think about the way back and leave some space for souvenirs and other things you buy during your vacation.
 - **Keep essentials to hand:** Keep important documents, charging cables and a small first aid kit in an easily accessible compartment. This means you have everything you need to hand immediately.
 
-![A suitcase lies on a hotel bed](images/pexels-ketut-subiyanto-4246101-711x522.jpg)
+![A suitcase lies on a hotel bed](pexels-ketut-subiyanto-4246101-711x522.jpg)
 
 Use travel sizes for toiletries to save space and comply with fluid restrictions on flights.
 
@@ -236,6 +236,6 @@ In the template you will not only find a flexibly customizable vacation checklis
 
 An app is also available to simplify travel planning. You can use it to enter ideas, costs and to-dos via form pages, the information for which is then automatically saved in the corresponding tables. Your entire vacation planning can be called up in clear tables, which you can group and sort as you wish. Clear statistics, such as in the budget dashboard, also make it easier for you to keep track:
 
-![Budget Dashboard in SeaTable's Travel App](images/Travel-App.png)
+![Budget Dashboard in SeaTable's Travel App](Travel-App.png)
 
 [Register]({{< relref "pages/registration" >}}) for free today to benefit from these practical functions and organize your next trip stress-free. You can then use the [template]({{< relref "templates/events/travel-planner" >}}) in your personal SeaTable workspace, fill it with your own data and share it with your fellow travelers via the app.

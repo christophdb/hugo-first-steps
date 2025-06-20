@@ -156,7 +156,7 @@ Para tornar o seu programa social mais interessante e garantir que os seus convi
 
 Ao gerir eventos, os convites desempenham um papel crucial no seu sucesso. Ao utilizar convites personalizados, pode aumentar efetivamente o número de participantes. Além disso, o envio de notificações "Save the Date" durante a fase de planeamento pode ajudar a gerar interesse antecipadamente e garantir que os seus convidados mantêm a data livre.
 
-Não se esqueça de incluir nos convites informações importantes, como a data, a hora, o local e o programa. Para tornar o processo de reserva mais fácil para os seus convidados, é uma boa ideia integrar um sistema de reserva de bilhetes. Com um [formulário Web](https://seatable.io/pt/docs/webformulare/webformulare/) no [modelo]({{< relref "templates/events/event-management" >}}) pronto a usar da SeaTable, pode implementar facilmente este passo e criar automaticamente uma lista de participantes.
+Não se esqueça de incluir nos convites informações importantes, como a data, a hora, o local e o programa. Para tornar o processo de reserva mais fácil para os seus convidados, é uma boa ideia integrar um sistema de reserva de bilhetes. Com um [formulário Web]({{< relref "help/base-editor/webformulare" >}}) no [modelo]({{< relref "templates/events/event-management" >}}) pronto a usar da SeaTable, pode implementar facilmente este passo e criar automaticamente uma lista de participantes.
 
 ![Enviar convites com o SeaTable através de formulário Web](Einladungskommunikation.jpg)
 
@@ -166,7 +166,7 @@ Para garantir que o seu evento seja bem participado no final e que o planeamento
 
 Para os eventos internos dos empregados, por exemplo, pode utilizar avisos na empresa, anúncios através do boletim informativo ou convites por correio eletrónico. Pode também pedir aos gestores que mencionem o evento nas reuniões de equipa, para que este se espalhe.
 
-Para eventos comerciais, como festivais, é boa ideia fazer publicidade direcionada através de plataformas de redes sociais, anúncios em revistas relevantes e uma referência no seu próprio sítio Web. Se estiver a planear uma [exposição de arte](https://seatable.io/pt/ausstellungs-und-kunstmanagement-museum-galerie/), pode contar com cartazes, folhetos, comunicados de imprensa e o envolvimento de revistas de arte e cultura.
+Para eventos comerciais, como festivais, é boa ideia fazer publicidade direcionada através de plataformas de redes sociais, anúncios em revistas relevantes e uma referência no seu próprio sítio Web. Se estiver a planear uma [exposição de arte]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}), pode contar com cartazes, folhetos, comunicados de imprensa e o envolvimento de revistas de arte e cultura.
 
 É importante iniciar as acções de publicidade atempadamente e apresentar as mensagens de forma apelativa e informativa, a fim de despertar o interesse do seu grupo-alvo e conseguir um elevado número de visitantes.
 

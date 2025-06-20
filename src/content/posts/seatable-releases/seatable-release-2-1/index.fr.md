@@ -16,7 +16,7 @@ Aujourd'hui, 6 juillet 2021, nous avons mis à jour [SeaTable Cloud](https://clo
 
 Les autorisations avancées de SeaTable (par exemple, les autorisations de partage personnalisé, les autorisations de colonne, le verrouillage de ligne) donnent aux administrateurs de la base un contrôle étendu sur les personnes qui peuvent voir, modifier et travailler avec les données de la table. Avec les nouvelles autorisations pour les tables, les administrateurs disposent d'une option supplémentaire pour affiner l'accès aux tables.
 
-![SeaTable 2.1 : Permissions de table](images/TablePermissions.png)
+![SeaTable 2.1 : Permissions de table](TablePermissions.png)
 
 Les autorisations de tableau contrôlent les droits d'accès des utilisateurs à un seul tableau dans une base. Par défaut, elles ne limitent pas les droits d'édition des utilisateurs, c'est-à-dire que tout utilisateur ayant au moins des droits d'écriture peut ajouter des lignes, modifier et supprimer des lignes existantes. Si le propriétaire d'une base ou un administrateur souhaite limiter ces droits pour certains utilisateurs ou groupes, il peut désormais le faire avec SeaTable 2.1. Les droits d'ajouter des fichiers ou d'en supprimer peuvent être retirés à tous les utilisateurs ou à tous les utilisateurs non administrateurs. Ou elles peuvent être attribuées exclusivement à une sélection d'utilisateurs. Les autorisations d'ajout et de suppression peuvent être gérées individuellement et indépendamment les unes des autres.
 
@@ -36,7 +36,7 @@ D'autres actions de traitement des données, telles que le calcul de l'ordre ou 
 
 ## Permissions étendues pour les colonnes de sélection simple et multiple
 
-![SeaTable 2.1 : Permissions avancées pour les colonnes à sélection unique et multiple](images/Advanced-column-permissions.png)
+![SeaTable 2.1 : Permissions avancées pour les colonnes à sélection unique et multiple](Advanced-column-permissions.png)
 
 Les autorisations de colonnes introduites dans [SeaTable 1.2](https://seatable.io/fr/seatable-release-1-2/) permettent d'attribuer et de contrôler des droits d'édition individuels pour des colonnes individuelles. Avec SeaTable 2.1, le menu d'autorisation des deux types de colonnes, sélection unique et sélection multiple, a été étendu par un second bouton. Cela vous permet de contrôler quels utilisateurs peuvent créer et modifier les options d'une colonne de sélection.
 
@@ -46,7 +46,7 @@ Fondamentalement, tous les utilisateurs ayant des droits d'écriture peuvent mod
 
 Le type de colonne "case à cocher" était quelque peu difficile à manier au quotidien. L'inconvénient le plus évident était la nécessité de cliquer deux fois pour cocher ou décocher une case - un clic pour sélectionner la cellule, un autre pour cocher ou décocher la case. La nouvelle colonne de cases à cocher constitue un énorme progrès en termes de convivialité et d'apparence.
 
-![SeaTable 2.1 : Amélioration de la colonne des cases à cocher](https://seatable.io/wp-content/uploads/2021/07/cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
+![SeaTable 2.1 : Amélioration de la colonne des cases à cocher](cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
 
 ## Nombreuses améliorations des détails
 

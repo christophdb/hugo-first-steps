@@ -120,7 +120,7 @@ Una tendencia que se observa es el uso creciente de soluciones de gestión de da
 
 En la [base de datos sin código SeaTable basada en tablas]({{< relref path="/" lang="es" >}}) puede almacenar, recuperar y analizar sus datos de forma eficaz sin necesidad de tener conocimientos de SQL u otra experiencia técnica previa. No sólo puede estructurar y vincular datos fácilmente, sino que también puede almacenar archivos, imágenes y documentos.
 
-A diferencia de otras bases de datos relacionales, puede realizar análisis directamente en la **interfaz gráfica de usuario** de SeaTable. Dispone de numerosas estadísticas para realizar otros análisis. Si esto no es suficiente, puede utilizar [plugins](https://seatable.io/es/docs/plugins/alle-plugins-in-der-uebersicht/) para visualizar sus datos en galerías, calendarios, organigramas, etc.
+A diferencia de otras bases de datos relacionales, puede realizar análisis directamente en la **interfaz gráfica de usuario** de SeaTable. Dispone de numerosas estadísticas para realizar otros análisis. Si esto no es suficiente, puede utilizar [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) para visualizar sus datos en galerías, calendarios, organigramas, etc.
 
 Con el **constructor de aplicaciones sin código** de SeaTable, puede crear sus propias aplicaciones sin conocimientos de programación y controlar así con precisión el acceso a los datos de su base de datos. Para el diseño de la aplicación, existen tipos de páginas ya preparadas con elementos visuales que sólo tiene que arrastrar y soltar.
 

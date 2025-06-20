@@ -34,11 +34,11 @@ Necesita dos bases para su sistema de reserva de citas online. Puede insertar es
 
 En la **primera base** (Disponibilidad para Reuniones), se introducen todas las citas en las que está disponible libremente. La **segunda base** (Calendario de reuniones) contiene todas las reuniones o citas que ya han sido reservadas por sus clientes a través de los formularios. Aparecen automáticamente en la tabla después de enviar el formulario.
 
-![Para un sistema de reserva de citas con SeaTable necesita dos tablas](https://seatable.de/wp-content/uploads/2021/04/Overview-1.jpg)
+![Para un sistema de reserva de citas con SeaTable necesita dos tablas](Overview-1.jpg)
 
 ### Primera mesa: Establecer las franjas horarias
 
-![Para introducir una hora exacta en las franjas horarias de su sistema de reserva de citas.](https://seatable.io/wp-content/uploads/2021/04/Uhrzeit_Rahmen.jpg)
+![Para introducir una hora exacta en las franjas horarias de su sistema de reserva de citas.](Uhrzeit_Rahmen.jpg)
 
 La primera tabla "Disponibilidad de reuniones" consta de **4 columnas**. En la **primera** columna introduzca todas las reuniones disponibles que puede ofrecer. Seleccione el formato de la fecha con la hora (mueva el control deslizante a "exacta al minuto"). También puede establecer manualmente las horas que no se muestran en la ventana de fecha; para ello, introduzca usted mismo la hora en la barra de la parte superior.
 
@@ -54,23 +54,23 @@ Por cierto, con la función de color puede utilizar reglas automatizadas para co
 
 La segunda tabla constituye la base de su sistema de reserva de citas con formulario web. En la siguiente imagen puede ver diferentes columnas que contienen la información de los participantes. Cada columna que cree aquí podrá ser utilizada posteriormente en el formulario web. Puede utilizar los tipos de columna para influir directamente en la introducción de datos en el formulario. Por ejemplo, si desea tener un campo de texto libre, seleccione columnas con función de texto. Si desea tener una especie de menú desplegable, la selección simple o múltiple es adecuada para esto. Puede ver la columna vinculada "Disponibilidad de reunión" - por lo tanto, el vínculo se muestra en ambas tablas con la información correspondiente de la 1ª columna.
 
-![Esta tabla es especialmente relevante para su sistema de reservas de citas, ya que el sistema de reservas está diseñado con estas columnas](https://seatable.de/wp-content/uploads/2021/04/Teilnehmer-1.jpg)
+![Esta tabla es especialmente relevante para su sistema de reservas de citas, ya que el sistema de reservas está diseñado con estas columnas](Teilnehmer-1.jpg)
 
 Con estas columnas formadas, pasamos ahora al formulario web. Para ello, seleccione "Formularios" en la parte superior y, a continuación, cree un nuevo formulario web con la configuración "Formulario tradicional". Aquí, los participantes no pueden acceder a la tabla ni a los datos por sí mismos. Se abrirá una máscara de formulario en la que podrá etiquetar todas las columnas que desee mostrar.
 
 Seleccione la tabla en la que ha creado las columnas para la solicitud de información (aquí: "Calendario de reuniones"). Puede elegir qué columnas se mostrarán en el formulario. Es aconsejable incluir todas las columnas en el formulario. Ahora puede declarar cada campo de entrada como obligatorio o añadir un texto descriptivo, así como insertar el **logotipo** personal de **su empresa como encabezado**. Así tendrá su propio sistema personal de reserva de citas.
 
-![En el formulario web puede configurar su sistema de reserva de citas según sus deseos.](https://seatable.de/wp-content/uploads/2021/04/1st-form.jpg)
+![En el formulario web puede configurar su sistema de reserva de citas según sus deseos.](1st-form.jpg)
 
 Puede etiquetar su formulario como desee. La información en forma de **notas de formulario** ofrece a los participantes consejos útiles sobre lo que deben tener en cuenta en su sistema de reserva de citas.
 
 También puede adjuntar condiciones a las opciones. En nuestro ejemplo, hay tres formas de celebrar la cita: En persona, por videollamada o por teléfono. En el caso de una llamada telefónica, el número del participante es obligatorio, por lo que se ha condicionado la columna "Número de teléfono" para que sólo aparezca cuando se haya seleccionado la opción "Llamada telefónica".
 
-![Las columnas pueden vincularse con condiciones. Sólo aparecen cuando se produce una determinada entrada.](https://seatable.de/wp-content/uploads/2021/04/2nd-form.jpg)
+![Las columnas pueden vincularse con condiciones. Sólo aparecen cuando se produce una determinada entrada.](2nd-form.jpg)
 
 ## Limitar las citas, para que no se produzcan más errores en las reservas
 
-![Con estos filtros, sólo se muestran las fechas libres y las futuras](https://seatable.de/wp-content/uploads/2021/06/frei-zukunft.jpg)
+![Con estos filtros, sólo se muestran las fechas libres y las futuras](frei-zukunft.jpg)
 
 Por supuesto, las citas asignadas no deben seguir ofreciéndose a otros participantes, ni tampoco las citas que están en el pasado. Esto puede hacerse vinculando Calendly y SeaTable si ya utiliza este sistema.
 
@@ -78,7 +78,7 @@ Con SeaTable, en cambio, sólo son necesarios unos pequeños pasos para configur
 
 Para que sólo se muestren las citas del futuro y no las de la semana pasada, hay que establecer un segundo filtro: Con la condición "Y" y el filtro "Franjas horarias después de hoy", sólo se muestran las citas del día actual. De este modo, en esta vista sólo se muestran las franjas horarias libres y reservables.
 
-![La función de columna limita las selecciones múltiples](https://seatable.de/wp-content/uploads/2021/06/Allow-1-row.jpg)Para que esto también se adopte en el sistema de reservas de citas, también debe ajustarse la columna de la tabla "Agenda de reuniones". Para ello, basta con abrir la configuración de la columna y restringir las filas a una sola vista. Para ello, se selecciona la vista que se acaba de crear con los dos filtros y, al mismo tiempo, se desactiva la función que permite a los participantes seleccionar varias fechas. Esto significa: sólo se puede reservar una cita a la vez y sólo se accede a las fechas libres y futuras de la 2ª vista.
+![La función de columna limita las selecciones múltiples](Allow-1-row.jpg)Para que esto también se adopte en el sistema de reservas de citas, también debe ajustarse la columna de la tabla "Agenda de reuniones". Para ello, basta con abrir la configuración de la columna y restringir las filas a una sola vista. Para ello, se selecciona la vista que se acaba de crear con los dos filtros y, al mismo tiempo, se desactiva la función que permite a los participantes seleccionar varias fechas. Esto significa: sólo se puede reservar una cita a la vez y sólo se accede a las fechas libres y futuras de la 2ª vista.
 
 En los ajustes de notificación (tres puntos en la parte superior derecha) puede configurar su propio mecanismo de notificación automática, que le recordará, por ejemplo, las próximas citas o le informará de que se acaba de reservar una cita a través del sistema de reserva de citas.
 

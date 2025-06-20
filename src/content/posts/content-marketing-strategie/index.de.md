@@ -97,7 +97,7 @@ Angenommen Ihre Firma hat die folgenden drei Kundensegmente:
 
 Dann wäre Ihre erste Aufgabe, alles über diese Kundensegmente und damit über Ihre Personas herauszufinden. Überlegen Sie es sich nicht nur, sondern dokumentieren Sie Ihre Ergebnisse.
 
-![Beschreibung der Buying-Personas in SeaTable](https://seatable.de/wp-content/uploads/2021/02/buyer-personas-in-seatable.png)
+![Beschreibung der Buying-Personas in SeaTable](buyer-personas-in-seatable.png)
 
 Beispielhafte Beschreibung der Personas in SeaTable
 
@@ -129,7 +129,7 @@ In der folgenden Tabelle sehen Sie eine Grundstruktur, die Sie beliebig an Ihre 
 - Persona (für wen der Artikel relevant ist)
 - Content-Idee (woher die Idee kam)
 
-![Content Marketing Strategie](images/content-marketing-strategie-seatable.png)
+![Content Marketing Strategie](content-marketing-strategie-seatable.png)
 
 Diese Tabelle unseres [Content Marketing Strategy Templates]({{< relref "templates/marketing/content-marketing-strategy" >}}) wirkt zwar auf den ersten Blick ziemlich umfangreich, ist aber für eine durchschnittliche Content Pipeline das Minimum, um die notwendige Übersicht zu behalten. Gewöhnen Sie sich vom ersten Tag an diese Daten zu erfassen und Sie werden keine Probleme haben, zu jedem Zeitpunkt den Überblick zu behalten.
 
@@ -139,19 +139,19 @@ Ein weiteres Highlight dieses Templates sind die verschiedenen Ansichten mit vor
 
 Grafiker werden sich nur für die Artikel interessieren, die überhaupt eine Grafik erfordern und die bereits fertig geschrieben sind, während die Autoren nur nach den noch offenen Arbeiten Ausschau halten werden. Für jeden dieser Mitarbeiter gibt es eine eigene Ansicht, um nur die Daten angezeigt zu bekommen, die man gerade benötigt.
 
-![Individuelle Ansichten für jeden Mitarbeiter](https://seatable.de/wp-content/uploads/2021/02/seatable-views.png)
+![Individuelle Ansichten für jeden Mitarbeiter](seatable-views.png)
 
 Individuelle Ansichten für jeden Mitarbeiter
 
 Jeder Mitarbeiter weiß genau, bei wem die Aufgabe gerade liegt und wer als nächstes daran arbeiten muss. So vermeiden Sie Wartezeiten und Verwirrung. Sobald ein Autor seinen Draft geschrieben hat, ändert er den Status des Artikels und übergibt diesen zur Qualitätskontrolle an den nächsten Mitarbeiter. Sollte eine Abstimmung zwischen den Mitarbeitern notwendig sein, kann dies ganz einfach über die [Kommentarfunktion](https://seatable.io/docs/handbuch/zusammenarbeit/kommentare/) innerhalb von SeaTable erledigt werden.
 
-![Teamkommunikation in SeaTable](https://seatable.de/wp-content/uploads/2021/02/seatable-comments.png)
+![Teamkommunikation in SeaTable](seatable-comments.png)
 
 So muss niemand per E-Mail oder Slack nach einem Update fragen. Man fügt einfach den entsprechenden Kollegen in den Kommentaren hinzu oder verändert den Status des Artikels. Auf Wunsch verschickt SeaTable auch eine E-Mail-Benachrichtigung.
 
 Als Autor oder Redakteur möchten Sie vielleicht die geplanten Veröffentlichungsdaten in einer Kalenderansicht angezeigt bekommen. Dort können Sie die Artikel bequem per Drag & Drop verschieben, um die Fristen neu zu ordnen und sicherzustellen, dass konstant guter Content veröffentlicht wird.
 
-![Redaktionsplanung per Drag&Drop in SeaTable](https://seatable.de/wp-content/uploads/2021/02/redaktionsplanung-seatable-kalender.png)
+![Redaktionsplanung per Drag&Drop in SeaTable](redaktionsplanung-seatable-kalender.png)
 
 Redaktionsplanung per Drag & Drop in SeaTable
 
@@ -161,7 +161,7 @@ Jede dieser unterschiedlichen Ansichten hebt bestimmte Aspekte der Content Pipel
 
 Sorgen Sie auch dafür, dass Ihnen nicht vorzeitig die Ideen ausgehen. Fragen Sie Ihre Mitarbeiter und Ihre Kunden nach Ideen oder nach Themen, die Sie interessieren. Mit SeaTable erzeugen Sie einen entsprechenden Fragebogen in wenigen Minuten und können diesen dann verteilen.
 
-![Brainstorming als Vorbereitung für das Content Marketing](https://seatable.de/wp-content/uploads/2021/02/seatable-content-brainstorming-1.png)
+![Brainstorming als Vorbereitung für das Content Marketing](seatable-content-brainstorming-1.png)
 
 Ihr Ziel sollte es sein, beständig im Austausch mit Ihren Kunden zu stehen und die Hürden zum Melden solcher Ideen so gering wie möglich zu halten. Sie werden sehen: Der beste Weg, um in regelmäßigen Abständen guten Content zu veröffentlichen, besteht darin, einen konstanten Strom hochwertiger Ideen zu erhalten.
 
@@ -189,7 +189,7 @@ Sie werden schnell feststellen, dass Sie bei guten Artikeln schon nach wenigen W
 
 Sie werden sehen, dass es sich lohnt, diese Auswertungen in SeaTable zu erfassen, um sich die Zahlen anschließend als Statistik in einem Balken-, Linien- oder Kuchendiagramm anzeigen zu lassen.
 
-![Statistische Auswertungen mit SeaTable](https://seatable.de/wp-content/uploads/2021/02/seatable-statistics.png)
+![Statistische Auswertungen mit SeaTable](seatable-statistics.png)
 
 Statistische Auswertungen der Zugriffszahlen und der geplanten Postings mit SeaTable
 

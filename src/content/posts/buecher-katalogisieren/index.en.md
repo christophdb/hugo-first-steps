@@ -25,7 +25,7 @@ The more books you own, the more difficult it is to keep track of them all. It c
 
 You have more than one bookshelf and the locations of your books are spread over several rooms? Then it is also very helpful to catalog the books. With the right book app, you know exactly which book is where and don't have to search for it when you need it quickly.
 
-![Woman catalogs her books with book app.](images/buecher-katalogisieren-frau.jpg)
+![Woman catalogs her books with book app.](buecher-katalogisieren-frau.jpg)
 
 Cataloging books © Viktoriia / Adobe Stock
 
@@ -52,7 +52,7 @@ or Google Sheets. Here you also have to enter each individual title and the asso
 
 If you want to catalog, organize and manage your books in a meaningful way, you should work with a book app or library apps. It's quick, uncomplicated and doesn't require a pen or piece of paper.
 
-![Man catalogs his books in book app.](images/buecher-katalogisieren-mann.jpg)
+![Man catalogs his books in book app.](buecher-katalogisieren-mann.jpg)
 
 Cataloging books © NDABCREATIVITY / Adobe Stock
 
@@ -78,9 +78,9 @@ This free book app uses numerous online databases such as Amazon, Google, Open L
 
 ### SeaTable
 
-If you want to [create](https://seatable.io/en/inventarliste-vorlagen/) an [inventory list](https://seatable.io/en/inventarliste-vorlagen/) for your books using simple tables, SeaTable is the right tool for you. Simply enter the relevant title in a list, add further information on the author and publisher if required and organize it clearly (e.g. by genre, reading status or rating). Would you like to make your book catalog available to others? You can easily do this by sharing your lists.
+If you want to [create]({{< relref "posts/inventarliste-erstellen" >}}) an [inventory list]({{< relref "posts/inventarliste-erstellen" >}}) for your books using simple tables, SeaTable is the right tool for you. Simply enter the relevant title in a list, add further information on the author and publisher if required and organize it clearly (e.g. by genre, reading status or rating). Would you like to make your book catalog available to others? You can easily do this by sharing your lists.
 
-You can open the free cloud version of SeaTable directly in your browser. [Register]({{< relref "pages/registration" >}}) today and get started with our [free template]({{< relref "templates/everyday-life/book-list-library" >}}) for your book list or library. By the way: The tool is also suitable for academic [literature management](https://seatable.io/en/literaturverwaltung/).
+You can open the free cloud version of SeaTable directly in your browser. [Register]({{< relref "pages/registration" >}}) today and get started with our [free template]({{< relref "templates/everyday-life/book-list-library" >}}) for your book list or library. By the way: The tool is also suitable for academic [literature management]({{< relref "posts/literaturverwaltung" >}}).
 
 ## Three tips for optimal book cataloging
 
@@ -90,7 +90,7 @@ No matter what medium you end up using, there are three factors that will determ
 2. **Intelligent information**: When choosing the right app, it is also important to know what information you want to record. Is the title and author enough or should further aspects such as genre, reading status etc. also be included?
 3. **Time management**: The more books you have, the longer it takes to catalog them. To avoid losing motivation, plan more time. In the end, you will be rewarded with a comprehensive private library.
 
-![Stack of books to be cataloged in a book app.](images/buecher-stapel.jpg)
+![Stack of books to be cataloged in a book app.](buecher-stapel.jpg)
 
 Cataloging books © Kara / Adobe Stock
 

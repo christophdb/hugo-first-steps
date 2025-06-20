@@ -35,7 +35,7 @@ Una carta de presentación le da la oportunidad de presentarse con confianza y d
 
 Antes de empezar a escribir, debería crear una **hoja informativa**. Al fin y al cabo, necesitas información sobre la empresa, los requisitos y, por supuesto, un resumen de tus propias cualificaciones para poder adaptar tu carta de solicitud al anuncio de empleo.
 
-![Utiliza tu ordenador para buscar en Internet información sobre la empresa.](https://seatable.io/wp-content/uploads/2024/04/pexels-pixabay-39284-1-e1713177205489.jpg)
+![Utiliza tu ordenador para buscar en Internet información sobre la empresa.](pexels-pixabay-39284-1-e1713177205489.jpg)
 
 Utiliza diversas fuentes para tu investigación.
 
@@ -52,7 +52,7 @@ Un enfoque estructurado le ayudará a elaborar la información pertinente y a no
 
 Estas preguntas deberían revelar lo que **caracteriza su personalidad** y lo **que** le diferencia de los demás. Para comprobar la pertinencia de las conclusiones anteriores, es útil presentarlas en un cuadro.
 
-![En una carta de solicitud de empleo se deben tener en cuenta diversas competencias duras y blandas.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_01-e1713776827650-711x549.png)
+![En una carta de solicitud de empleo se deben tener en cuenta diversas competencias duras y blandas.](Bewerbungsschreiben_01-e1713776827650-711x549.png)
 
 Combina las habilidades blandas que has aprendido con las habilidades duras correspondientes.
 
@@ -74,7 +74,7 @@ Si desea utilizar SeaTable para su planificador de solicitudes, sólo tiene que 
 
 Antes de empezar a formular su solicitud, es importante tener una **Diseño normalizado** para todos sus documentos de solicitud. Esto no sólo hace que su solicitud parezca más coherente a primera vista, sino que también transmite que usted **aseado** y **limpiar** trabajo.
 
-![Elija un tipo, interlineado y tamaño de letra adecuados.](https://seatable.io/wp-content/uploads/2024/04/markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
+![Elija un tipo, interlineado y tamaño de letra adecuados.](markus-spiske-cZ-s645ZBHo-unsplash-e1713177473952.jpg)
 
 Busca un tipo de letra adecuado y presta atención al tamaño de la letra, el interlineado y los márgenes.
 
@@ -92,7 +92,7 @@ Por supuesto, también puede aplicar estas formalidades a otros documentos de so
 
 La estructura de una carta de solicitud siempre es la misma y puede dividirse en seis secciones.
 
-![La estructura perfecta para su carta de presentación consta de seis pasos.](https://seatable.io/wp-content/uploads/2024/03/Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
+![La estructura perfecta para su carta de presentación consta de seis pasos.](Weiss-Grau-Minimalistisch-Modern-Einfach-Gerahmt-Bewerbungsschreiben-Karriere-Anschreiben-Brief-711x1006.png)
 
 Siga la estructura y llénela de contenido.
 
@@ -116,7 +116,7 @@ A continuación aparece el **asunto**, con dos o tres líneas en blanco. Puede r
 
 Antes de tener la oportunidad de brillar con sus cualificaciones, tiene que atraer la atención de su interlocutor. Diríjase a ellos **personalmente** por su nombre y sólo utilice los términos impersonales _señoras y señores_ en caso de emergencia si no conoce a nadie por su nombre. Para las empresas más conservadoras, elija una **forma** clásica **de dirigirse** como _Estimada Sra. XY_ para presentar su solicitud educadamente. En el caso de las empresas de nueva creación, también puede utilizar una forma informal de dirigirse a ellas, como " _Hola, estimado equipo de marketing, estimada_ Sra. XY".
 
-![Escribe con educación, porque quieres venderte bien a ti mismo y tus habilidades en tu carta de presentación.](https://seatable.io/wp-content/uploads/2024/04/monitor-376211_640-e1713177612297.jpg)
+![Escribe con educación, porque quieres venderte bien a ti mismo y tus habilidades en tu carta de presentación.](monitor-376211_640-e1713177612297.jpg)
 
 Escriba con educación para crear una buena primera impresión en su interlocutor.
 
@@ -142,7 +142,7 @@ Hemos dejado lo mejor para el final. Aquí puedes introducir tus **expectativas 
 
 La **frase final** es especialmente importante, ya que es la que más recuerda el responsable de la contratación. Por lo tanto, es importante que irradie **confianza en sí mismo** y que haga hincapié una vez más en que espera una respuesta positiva. Para ello, evite el **subjuntivo**. Una conclusión como _"Estaría encantado de que me invitaran a una entrevista_ " da la impresión de reserva, como si no estuvieras seguro de tus aptitudes para el puesto.
 
-![El objetivo de la carta de solicitud es ser invitado a una entrevista.](https://seatable.io/wp-content/uploads/2024/04/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash-e1713178160395.jpg)
+![El objetivo de la carta de solicitud es ser invitado a una entrevista.](christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash-e1713178160395.jpg)
 
 Ten presente tu objetivo: acude a la entrevista con confianza en ti mismo.
 
@@ -168,7 +168,7 @@ La carta de solicitud clásica, como ya se ha explicado, puede variar en algunos
 
 Si quieres presentar tu candidatura en el marco de unas prácticas escolares o universitarias, los reclutadores **no** exigen **ninguna o pocas cualificaciones profesionales**. En su lugar, ganarás puntos con las **aptitudes interpersonales** adecuadas **y los intereses** que persigas en determinadas asignaturas, trabajos de vacaciones, en tu tiempo libre o como parte de tus propios proyectos y trabajo voluntario.
 
-![Las competencias interpersonales pueden demostrarse a través del voluntariado.](https://seatable.io/wp-content/uploads/2024/04/ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
+![Las competencias interpersonales pueden demostrarse a través del voluntariado.](ray-sangga-kusuma-7uSrOyY1U0I-unsplash-e1713178015527.jpg)
 
 Demuestre su compromiso social con el voluntariado.
 
@@ -190,7 +190,7 @@ Actualmente, la mayoría de las solicitudes se envían **por Internet**. Si env�
 
 Presta atención a tu estilo de escritura y a la redacción que utilizas.
 
-![Puedes mejorar tu carta de presentación prestando atención a lo que debes y no debes hacer.](https://seatable.io/wp-content/uploads/2024/04/Bewerbungsschreiben_02-e1713776597515-711x575.png)
+![Puedes mejorar tu carta de presentación prestando atención a lo que debes y no debes hacer.](Bewerbungsschreiben_02-e1713776597515-711x575.png)
 
 Asegúrese de utilizar una redacción adecuada.
 

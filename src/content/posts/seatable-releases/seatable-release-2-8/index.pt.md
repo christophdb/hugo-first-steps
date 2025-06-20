@@ -18,7 +18,7 @@ A cor e a forma dos ícones de base na página inicial já podem ser adaptadas a
 
 Na nova versão, eliminámos esta lacuna funcional. A cor da banda de título baseia-se agora na cor do ícone de base. Acha que o azul brilhante da imagem do ecrã é chique? Bem, avance!
 
-![Fita base em cor personalizada](https://seatable.io/wp-content/uploads/2022/04/Colorful_ribbon.png)
+![Fita base em cor personalizada](Colorful_ribbon.png)
 
 ## Colaboração transparente
 
@@ -26,13 +26,13 @@ Cada alteração que fizer numa Base SeaTable é imediatamente transmitida a tod
 
 Mas quem são os outros utilizadores que estão activos na Base? SeaTable 2.8 fornece uma resposta clara a esta pergunta. Um clique no ícone do utilizador no canto superior direito do editor de tabelas abre a lista de utilizadores actuais. Quando um utilizador é adicionado a uma tabela ou um colega deixa de trabalhar, a lista é imediatamente actualizada. Colaboração em tempo real!
 
-![Co-editores activos na tabela](https://seatable.io/wp-content/uploads/2022/04/Active_editors.png)
+![Co-editores activos na tabela](Active_editors.png)
 
 ## Descrição simples das colunas
 
 Se trabalharem juntos em tabelas numa equipa, então as instruções de preenchimento previnem a introdução incorrecta de dados: O que deve ser introduzido numa coluna? Em que unidade devem ser registados os dados? Como devem ser interpretadas as categorias? Quem pode responder às perguntas?
 
-![Descrições das colunas disponíveis a partir da SeaTable 2.8](https://seatable.io/wp-content/uploads/2022/04/Column_descriptions.png)
+![Descrições das colunas disponíveis a partir da SeaTable 2.8](Column_descriptions.png)
 
 As descrições das colunas introduzidas no SeaTable 2.8 destinam-se exactamente a este tipo de informação. Nas descrições do quadro, podem ser introduzidas informações adicionais que não cabem no título da coluna ou que aí devem ser contidas. Se for introduzida uma descrição para uma coluna, é exibido um ícone de informação no cabeçalho da coluna. Movendo o rato sobre ele mostra a descrição em todo o seu comprimento.
 
@@ -47,7 +47,7 @@ Novidade no SeaTable 2.8 é a possibilidade de formatar os textos de ajuda e de 
 O editor de texto formatado não é utilizado apenas em formulários web. É também utilizado em colunas com texto formatado e em descrições de bases. Com a mudança de versão, o editor sofreu três melhorias:
 
 As tabelas podem ser inseridas nas dimensões desejadas num instante, graças a um novo assistente. Este abre-se com um clique no botão "Inserir tabela". Agora, arraste a tabela para a dimensão pretendida e clique novamente. A tabela com as proporções seleccionadas é então inserida na posição do cursor. Até agora, o SeaTable inseria sempre novas tabelas como tabelas 2×2, o que exigia cliques e a adição manual de mais linhas e colunas.  
-![Novo assistente para novas tabelas de dimensões personalizadas](https://seatable.io/wp-content/uploads/2022/04/New_table_wizard.png)
+![Novo assistente para novas tabelas de dimensões personalizadas](New_table_wizard.png)
 
 A navegação em tabelas é também mais fácil a partir de agora. A partir da SeaTable 2.8, o editor apoia a navegação com TAB e SHIFT + TAB. De acordo com a convenção geral, o cursor salta para a célula seguinte com TAB; SHIFT + TAB permite ao editor saltar para a célula anterior.
 
@@ -57,7 +57,7 @@ Finalmente, o editor em SeaTable 2.8 também oferece uma melhor pré-visualizaç
 
 Um registo partilhado é uma visão de uma tabela que é divulgada para um ou mais grupos com direitos de leitura. Os grupos autorizados podem importar o conjunto de dados para as suas próprias bases. Isto dá-lhes acesso aos dados do conjunto de dados sem que o grupo de partilha perca a soberania sobre os seus dados.
 
-![Sincronização automática de conjuntos de dados comuns](https://seatable.io/wp-content/uploads/2022/04/Automatic_sync.png)
+![Sincronização automática de conjuntos de dados comuns](Automatic_sync.png)
 
 Até agora, os dados de um conjunto de dados comuns importados só podiam ser actualizados manualmente. Na versão actual, a sincronização dos dados também pode, opcionalmente, ter lugar automaticamente. Se a sincronização automática estiver activa, o conjunto de dados é actualizado de 24 em 24 horas após a última execução de sincronização. Se os dados na tabela de origem tiverem sido alterados, então estas alterações são transferidas para a tabela importada através da sincronização.
 
@@ -72,4 +72,4 @@ Para colunas e agrupamentos, a mediana pode agora ser calculada para além da so
 No plug-in do desenho da página, o tamanho da fonte nas tabelas para linhas ligadas pode ser ajustado. A quebra de linha em tais tabelas também foi melhorada.
 
 Para além das casas decimais e do símbolo da moeda, a posição desta última pode agora ser livremente determinada numa coluna de moeda definida pelo utilizador.  
-![Símbolo e posição da moeda personalizada](https://seatable.io/wp-content/uploads/2022/04/Custom_currency_symbol.png)
+![Símbolo e posição da moeda personalizada](Custom_currency_symbol.png)

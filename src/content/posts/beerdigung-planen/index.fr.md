@@ -41,7 +41,7 @@ En cas de décès d'un être cher, vous devez en informer le plus rapidement pos
 
 Le décès d'un proche est associé à une grande **tristesse** pour les proches. Dans cette période émotionnellement chargée, il n'est pas facile pour beaucoup de s'occuper des funérailles. En cas de décès soudain, les proches ne savent souvent même pas comment le ou la défunte aurait imaginé ses propres funérailles.
 
-![Un enterrement dans un cimetière](https://seatable.io/wp-content/uploads/2023/08/rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
+![Un enterrement dans un cimetière](rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
 
 Un enterrement classique dans un cimetière reste pour beaucoup le premier choix.
 
@@ -53,7 +53,7 @@ Afin d'éviter le chaos en cas de décès, il est préférable de déterminer au
 
 {{< warning headline="Remarque importante" text="N'oubliez pas de donner à vos personnes de confiance une [procuration](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) qui leur permettra, entre autres, d'accéder à vos comptes après votre décès. Sinon, les personnes responsables risquent de ne pas pouvoir agir, car elles devront attendre des semaines, voire des mois, l'ouverture du testament ou la délivrance d'un certificat d'héritier." />}}
 
-![Planifier des funérailles - en cas d'urgence, les personnes concernées ne savent souvent pas par quoi commencer.](https://seatable.io/wp-content/uploads/2023/08/the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
+![Planifier des funérailles - en cas d'urgence, les personnes concernées ne savent souvent pas par quoi commencer.](the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
 
 Planifier des funérailles - en cas d'urgence, les personnes concernées ne savent souvent pas par quoi commencer.
 
@@ -71,7 +71,7 @@ Le choix d'un mode de sépulture est directement lié à l'endroit où vous ou l
 
 Peut-être y a-t-il des parents ou des amis à côté desquels vous aimeriez reposer ? Dans ce cas, une tombe commune pourrait également convenir. En dehors des cimetières, les lieux de repos alternatifs dans la nature sont de plus en plus populaires.
 
-![Chemin forestier](https://seatable.io/wp-content/uploads/2023/08/maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
+![Chemin forestier](maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
 
 Un dernier repos paisible dans la nature est de plus en plus apprécié.
 
@@ -87,7 +87,7 @@ Les coûts d'un enterrement peuvent être très différents. En effet, ils dépe
 
 L'enterrement classique dans un cimetière est le plus cher. Une grande partie des frais d'obsèques est liée au **cercueil**, à la **pierre tombale** et aux frais d'utilisation d'une **tombe**. Chacun de ces trois postes de dépenses peut s'élever à plusieurs milliers d'euros. Vous pouvez économiser ces coûts - ainsi que l'entretien ultérieur de la tombe - en optant pour une crémation avec inhumation naturelle.
 
-![Tombes dans un cimetière](https://seatable.io/wp-content/uploads/2023/08/michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
+![Tombes dans un cimetière](michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
 
 Urne ou cercueil ? Le type d'enterrement joue un rôle important dans le coût de la tombe.
 
@@ -113,7 +113,7 @@ Vous ne pouvez pas épargner cette procédure à vos proches, mais vous pouvez d
 
 En Allemagne, il n'est pas possible d'enterrer un défunt sans faire appel à un entrepreneur de pompes funèbres. Par exemple, dans la plupart des Länder, la loi prévoit que le corps doit être transporté du lieu de décès à une entreprise de pompes funèbres - et de là à la dernière demeure.
 
-![](https://seatable.io/wp-content/uploads/2023/08/adrianna-geo-JWlZS708L1Y-unsplash-min.jpg)
+![](adrianna-geo-JWlZS708L1Y-unsplash-min.jpg)
 
 **Les autres services funéraires sont**
 
@@ -132,7 +132,7 @@ Si la personne décédée a exprimé ses souhaits ou les a consignés par écrit
 
 Les cérémonies funéraires sont généralement accompagnées d'un orateur indépendant ou d'un ecclésiastique de la paroisse concernée. Contactez suffisamment tôt un orateur funéraire approprié et discutez avec lui du déroulement de la cérémonie. En règle générale, il abordera dans son **discours** la vie de la personne décédée et aura besoin pour cela d'informations détaillées et de suffisamment de temps de préparation.
 
-![Orateur pour les funérailles](https://seatable.io/wp-content/uploads/2023/08/the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
+![Orateur pour les funérailles](the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
 
 Prêtre, pasteur ou orateur indépendant : qu'est-ce qui convient à vos funérailles prévues ?
 
@@ -144,7 +144,7 @@ Dans la plupart des cas, les obsèques sont précédées d'une cérémonie à pr
 
 Demandez à temps aux proches s'ils souhaitent contribuer **activement** à la cérémonie funéraire. Ils pourraient par exemple adresser quelques mots à la personne décédée ou lire un poème. Lors de cérémonies religieuses, des **prières** peuvent également être prononcées. Faites jouer **de la musique** que la personne décédée aimait lors de la cérémonie. De nombreuses salles de cérémonie disposent d'une bonne chaîne stéréo ou même d'un piano. Si certains membres de la famille sont musicalement et émotionnellement capables de le faire, vous pouvez également jouer des instruments et chanter ensemble.
 
-![Cahier de chants pour les funérailles](https://seatable.io/wp-content/uploads/2023/08/david-beale-gOsGgt4olNs-unsplash-min.jpg)
+![Cahier de chants pour les funérailles](david-beale-gOsGgt4olNs-unsplash-min.jpg)
 
 La musique et le chant peuvent apporter du réconfort lors d'une cérémonie funéraire.
 
@@ -154,7 +154,7 @@ Souvent, l'assemblée se réunit encore une fois après les funérailles **dans 
 
 Lors d'une cérémonie funéraire suivie de l'inhumation, l'urne ou le cercueil du défunt est généralement bien visible dans la pièce. À côté, vous pouvez placer une belle **photo encadrée** de la personne décédée. Pour que le reste de la pièce ne paraisse pas austère et vide, **des couronnes de deuil et des décorations florales** s'imposent. Pour la décoration, vous pouvez faire appel à un fleuriste, ce qui peut toutefois s'avérer coûteux en fonction de vos idées.
 
-![Décoration florale pour les funérailles](https://seatable.io/wp-content/uploads/2023/08/strauss-western-5a3eFHcGl9U-unsplash-min.jpg)
+![Décoration florale pour les funérailles](strauss-western-5a3eFHcGl9U-unsplash-min.jpg)
 
 Souvent, les autres membres de la famille participent très volontiers à l'achat de couronnes funéraires ou de compositions florales, ce qui permet d'obtenir un ensemble floral appréciable. Si vous souhaitez par la suite fleurir une tombe, les **bacs à fleurs** avec des plants sont une bonne idée. En règle générale, l'entreprise de pompes funèbres s'occupe de déposer les couronnes mortuaires et les décorations florales sur la tombe après la cérémonie.
 
@@ -162,7 +162,7 @@ Souvent, les autres membres de la famille participent très volontiers à l'acha
 
 Les vêtements de deuil traditionnels diffèrent d'une culture à l'autre : en Europe et dans le monde occidental, le **noir** est la couleur du deuil, en Asie, c'est surtout le **blanc** - et ailleurs, on peut même se permettre d'être coloré. En Allemagne, les vêtements portés lors d'un enterrement ne doivent plus être noirs aujourd'hui, mais on attend souvent **des vêtements discrets** aux couleurs sobres et aux coupes amples - par exemple un costume bleu foncé avec une chemise blanche, un pull uni avec un pantalon noir ou une robe qui ne soit pas trop moulante et ne laisse pas apparaître trop de peau.
 
-![Vêtements de deuil pour l'enterrement](images/the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
+![Vêtements de deuil pour l'enterrement](the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
 
 Les vêtements de deuil ne sont toutefois pas obligatoires. Les cérémonies funéraires non conventionnelles ou joyeuses sont également autorisées si le défunt a souhaité que l'on célèbre sa vie et sa personne plutôt que **l'ambiance funèbre**. Planifiez donc la cérémonie funéraire en vous détachant des traditions et en respectant entièrement les souhaits du défunt.
 
@@ -176,7 +176,7 @@ Pour **informer les personnes endeuillées**, vous avez, dans le meilleur des ca
 
 Une fois que vous avez planifié la date et le lieu de la cérémonie, vous pouvez également faire paraître un **avis de décès** dans un quotidien local et inviter à la cérémonie. Si celle-ci a lieu dans un lieu public tel qu'un cimetière, toute personne ayant reçu l'information peut assister à la cérémonie. Vous pouvez toutefois demander aux personnes présentes aux obsèques de s'abstenir de présenter leurs condoléances sur place.
 
-![Avis de décès dans les journaux](https://seatable.io/wp-content/uploads/2023/08/pexels-guel-isik-3837464.jpg)
+![Avis de décès dans les journaux](pexels-guel-isik-3837464.jpg)
 
 Les personnes âgées, en particulier, lisent encore souvent les avis de décès dans les journaux locaux.
 
@@ -186,8 +186,8 @@ Si la cérémonie funéraire ne doit avoir lieu que dans un cercle restreint, n'
 
 Avec tout ce qu'il faut prévoir pour un enterrement, il est facile de se perdre. SeaTable a donc réuni les principales choses à faire dans une liste de contrôle. Vous pouvez également utiliser le planificateur en ligne pour coordonner l'invitation des personnes à enterrer ou calculer le coût des funérailles.
 
-![Planificateur en ligne avec aperçu des coûts pour les funérailles](images/Funeral-planner.png)
+![Planificateur en ligne avec aperçu des coûts pour les funérailles](Funeral-planner.png)
 
 Modèle SeaTable avec aperçu des coûts pour les funérailles
 
-Si vous souhaitez utiliser SeaTable pour organiser des funérailles, [il vous suffit de vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) et de créer un aperçu avec vos propres données. Vous trouverez le modèle correspondant [ici]({{< relref "templates/events/funeral-planner" >}}).
+Si vous souhaitez utiliser SeaTable pour organiser des funérailles, [il vous suffit de vous inscrire gratuitement]({{< relref "pages/registration" >}}) et de créer un aperçu avec vos propres données. Vous trouverez le modèle correspondant [ici]({{< relref "templates/events/funeral-planner" >}}).

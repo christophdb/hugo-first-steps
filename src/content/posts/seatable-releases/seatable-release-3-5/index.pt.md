@@ -18,11 +18,11 @@ Esta manhã actualizámos a SeaTable Cloud para a versão 3.5. Todos os auto-ges
 
 ## Fórmulas na primeira coluna
 
-A SeaTable 3.5 proporciona mais flexibilidade na primeira coluna da tabela: Até agora, apenas os [tipos de coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/uebersicht-alle-spaltentypen/) texto, número, data, selecção única e número automático eram aí permitidos. O [tipo de coluna de fórmula](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/), que agora também é suportado, torna possível "calcular" a sua própria referência de linha. Uma vez que a [primeira coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) de uma tabela não pode ser escondida e é também sempre exibida no diálogo da ligação, é particularmente adequada para este fim.
+A SeaTable 3.5 proporciona mais flexibilidade na primeira coluna da tabela: Até agora, apenas os [tipos de coluna]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) texto, número, data, selecção única e número automático eram aí permitidos. O [tipo de coluna de fórmula](https://seatable.io/pt/docs/formeln/grundlagen-von-seatable-formeln/), que agora também é suportado, torna possível "calcular" a sua própria referência de linha. Uma vez que a [primeira coluna](https://seatable.io/pt/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) de uma tabela não pode ser escondida e é também sempre exibida no diálogo da ligação, é particularmente adequada para este fim.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
-![SeaTable 3.5 - Fórmulas de suporte da primeira coluna](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-FirstColumn.png)
+![SeaTable 3.5 - Fórmulas de suporte da primeira coluna](SeaTable-3.5-FirstColumn.png)
 
 ## Duas acções adicionais para automatizações periódicas
 
@@ -36,7 +36,7 @@ Veja por si próprio o que é possível com [operações de processamento de dad
 
 Com um [botão](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) pode executar uma ou mais acções com um clique, por exemplo, [enviar um e-mail](https://seatable.io/pt/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/) e depois editar a linha. Não foi possível ligar a execução de uma acção a uma condição. Fechámos esta lacuna funcional com o SeaTable 3.5.
 
-![SeaTable 3.5 - As acções dos botões podem ser ligadas a regras](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-ConditionalExecution.png)
+![SeaTable 3.5 - As acções dos botões podem ser ligadas a regras](SeaTable-3.5-ConditionalExecution.png)
 
 A nova execução condicional permite definir uma regra para cada acção de botão. Uma regra pode consistir em uma ou mais condições. Apenas se a regra for cumprida, a acção será executada quando o botão for clicado. Se uma condição não se aplicar, o SeaTable salta para a acção seguinte e exibe a acção não executada numa mensagem.
 
@@ -48,7 +48,7 @@ A partir da versão 3.5, SeaTable executa todas as acções definidas de forma e
 
 O tipo de coluna Fórmula para ligações permite a avaliação de entradas ligadas. Estão disponíveis um total de cinco métodos de avaliação: [Findmin](https://seatable.io/pt/docs/verknuepfungen/die-findmin-formel/), [Findmax](https://seatable.io/pt/docs/verknuepfungen/die-findmax-formel/), [Rollup](https://seatable.io/pt/docs/verknuepfungen/die-rollup-formel/), [Countlinks](https://seatable.io/pt/docs/verknuepfungen/die-countlinks-formel/) e [Lookup](https://seatable.io/pt/docs/verknuepfungen/die-lookup-funktion/). A fórmula de Lookup permite exibir valores adicionais de linhas já ligadas na sua tabela actual. Desta forma, pode ler e exibir tanta informação quanto desejar a partir da tabela ligada.
 
-![SeaTable 3.5 - Colunas de fórmula de ligação suportam pesquisas condicionais](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-ConditionalLookup.png)
+![SeaTable 3.5 - Colunas de fórmula de ligação suportam pesquisas condicionais](SeaTable-3.5-ConditionalLookup.png)
 
 No SeaTable 3.5 melhorámos a fórmula de pesquisa e implementámos uma função que já existe há algum tempo nas outras fórmulas: uma avaliação condicional. Se a avaliação condicional for activada para pesquisas, apenas são exibidos os valores que preenchem a(s) condição(ões) definida(s). Desta forma, obtém-se a informação exacta de que necessita a partir da tabela ligada.
 
@@ -66,7 +66,7 @@ Para simplificar a transferência de dados de uma base para outra, o SeaTable 3.
 
 SeaTable fornece 24 cores para opções de selecção, botões e formatação condicional. Para satisfazer desejos individuais ou requisitos de IC, SeaTable 3.5 permite definir qualquer número de cores adicionais em cada base. Os auto-gerentes também têm a opção de definir cores individuais no SeaTable globalmente através do ficheiro de configuração.
 
-![SeaTable 3.5 - Novo layout para detalhes da linha](https://seatable.io/wp-content/uploads/2023/04/SeaTable-3.5-RowDetails.png)
+![SeaTable 3.5 - Novo layout para detalhes da linha](SeaTable-3.5-RowDetails.png)
 
 A disposição de uma coluna dos detalhes da linha é substituída por um desenho de duas colunas na nova versão. Isto torna o visor mais curto e claro, especialmente para tabelas com muitas colunas. O registo de base, no qual se pode acompanhar todas as alterações dentro de uma base, também recebe um novo visual. Se clicar em Logs no histórico da base {{< seatable-icon icon="dtable-icon-history" >}}, abre-se uma janela separada com entradas de log claras.
 

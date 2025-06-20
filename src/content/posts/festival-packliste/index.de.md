@@ -15,7 +15,7 @@ Wenn die Festivalsaison beginnt und die Vorfreude auf gute Musik und gemeinsame 
 
 Egal, ob Sie sich für das legendäre [Wacken](https://www.wacken.com/de/), das mitreißende [Rock am Ring](https://www.rock-am-ring.com) oder das energiegeladene [Hurricane](https://hurricane.de/de/) Festival rüsten – einige Must-haves sind auf jeder Festival Packliste Pflicht.
 
-![Festival Packliste: Mann trägt Frau auf Festival Huckepack](images/group-friends-having-fun-together-711x475.jpg)
+![Festival Packliste: Mann trägt Frau auf Festival Huckepack](group-friends-having-fun-together-711x475.jpg)
 
 Festivals bringen Menschen zusammen und fördern das Gemeinschaftsgefühl.
 
@@ -25,7 +25,7 @@ Damit Sie alles auf einen Blick finden, ist die Festival Packliste in sechs übe
 
 ### Essentials
 
-![Festival Packlist: Eine Menschenmenge vor einer Bühne](images/colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
+![Festival Packlist: Eine Menschenmenge vor einer Bühne](colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
 
 Festivals ermöglichen den Zugang zu einem vielfältigen Musikprogramm.
 
@@ -47,7 +47,7 @@ Dinge, auf die Sie verzichten können oder die besonders teuer sind, sollten Sie
 
 ### Camping
 
-![Frau steht im Schlafsack vor ihrem Zelt](images/female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
+![Frau steht im Schlafsack vor ihrem Zelt](female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
 
 Inmitten der lauten Umgebung sind die Nächte oft kurz.
 
@@ -69,7 +69,7 @@ Ein weiterer wichtiger Punkt auf Ihrer Festival Packliste ist ein **Pavillon**, 
 
 ### Verpflegung
 
-![Schale mit Müsli und Tasse stehen auf einem Stein](images/camping-lifestyle-with-food-711x637.jpg)
+![Schale mit Müsli und Tasse stehen auf einem Stein](camping-lifestyle-with-food-711x637.jpg)
 
 Auf einem Festival benötigt man besonders viel Energie.
 
@@ -91,7 +91,7 @@ Ansonsten ist der Klassiker auf jeder Festival Packliste wohl Essen in **Konserv
 
 ### Kleidung
 
-![Eine Frau zeigt ihrem Partner etwas auf einem Festival](images/couple-standing-crowd-music-festival-711x481.jpg)
+![Eine Frau zeigt ihrem Partner etwas auf einem Festival](couple-standing-crowd-music-festival-711x481.jpg)
 
 Die richtige Kleidung ist die, in der Sie sich wohlfühlen.
 
@@ -113,7 +113,7 @@ Auf dem Festivalgelände kann es schnell **matschig** oder **staubig** werden, w
 
 ### Hygiene & Arznei
 
-![Bunte Dixi-Toiletten auf staubigem Boden](images/amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
+![Bunte Dixi-Toiletten auf staubigem Boden](amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
 
 Die Hygienesituation auf Festivals ist häufig nicht besonders komfortabel.
 
@@ -139,7 +139,7 @@ Generell sind die Wege auf einem Festival vom Zelt bis zur Stage oft lang. Desha
 
 ### Sonstiges
 
-![Freunde spielen zusammen Bierpong](images/front-view-women-playing-beer-pong-711x474.jpg)
+![Freunde spielen zusammen Bierpong](front-view-women-playing-beer-pong-711x474.jpg)
 
 Zum Zeitvertreib werden auf dem Zeltplatz Spiele gespielt.
 

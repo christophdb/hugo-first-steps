@@ -12,7 +12,7 @@ seo:
 
 Sus **colecciones** pueden **gestionarse** de forma óptima mediante programas y aplicaciones digitales. No importa si la colección consiste en objetos físicos o digitales. Entre los coleccionables más populares se encuentran monedas, sellos, zapatos, obras de arte, juguetes, cromos, fichas no fungibles (NFT), [libros](https://seatable.io/es/buecher-katalogisieren/), películas, música (en CD, discos) y mucho más. Cuando la pasión de coleccionista se apodera de uno, el mayor reto suele ser llevar la cuenta de todo. Aquí es donde entran en juego los programas que le permiten gestionar su colección, en su PC o con una aplicación.
 
-![Gestionar la recogida de todos los sellos a través de una herramienta digital.](https://seatable.io/wp-content/uploads/2022/07/Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
+![Gestionar la recogida de todos los sellos a través de una herramienta digital.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
 
 ¿Qué colecciona? © VRD / Adobe Stock
 
@@ -26,11 +26,11 @@ Una posibilidad, por ejemplo, es clasificar elementos, como ocurre en una colecc
 
 ### Comparaciones, investigaciones y más
 
-También puede gestionar colecciones para analizarlas. Puede utilizar programas y aplicaciones para hacer comparaciones, ya sea dentro de su propia colección o con la de un tercero. Por ejemplo, puede averiguar qué sellos o monedas tiene otra persona que usted no posea. La información de una [colección de arte](https://seatable.io/es/ausstellungs-und-kunstmanagement-museum-galerie/) también puede utilizarse para investigar. Usted sabe exactamente qué otros objetos podrían encajar en la colección y puede investigar en consecuencia.
+También puede gestionar colecciones para analizarlas. Puede utilizar programas y aplicaciones para hacer comparaciones, ya sea dentro de su propia colección o con la de un tercero. Por ejemplo, puede averiguar qué sellos o monedas tiene otra persona que usted no posea. La información de una [colección de arte]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}) también puede utilizarse para investigar. Usted sabe exactamente qué otros objetos podrían encajar en la colección y puede investigar en consecuencia.
 
 ### Gestionar las colecciones en caso de daños
 
-Un software de cobros también es útil en caso de siniestro. Un ejemplo: usted gestiona una colección y desea asegurarla. En el programa de gestión anota los objetos que posee. Sirve como una especie de [lista de inventario](https://seatable.io/es/inventarliste-vorlagen/). A partir de ahí, sabe el valor por el que debe asegurar la colección.
+Un software de cobros también es útil en caso de siniestro. Un ejemplo: usted gestiona una colección y desea asegurarla. En el programa de gestión anota los objetos que posee. Sirve como una especie de [lista de inventario]({{< relref "posts/inventarliste-erstellen" >}}). A partir de ahí, sabe el valor por el que debe asegurar la colección.
 
 ### Controlar las ubicaciones de almacenamiento con el software de recogida
 
@@ -48,7 +48,7 @@ Tienes varias opciones para gestionar tu colección. Existen aplicaciones y prog
 
 Una opción para gestionar las colecciones es [Evernote](https://evernote.com/intl/de). Aquí puedes escribir notas y adjuntar fotos o documentos como recibos de compra de los artículos. También es posible establecer etiquetas para distinguir diferentes colecciones entre sí. Una función de búsqueda ayuda a encontrar elementos de la colección dentro de las notas. Se empieza con una versión gratuita. La versión Personal cuesta 6,99 euros al mes por usuario y la versión Profesional cuesta 8,99 euros.
 
-![Alguien mira la herramienta Evernote para gestionar su colección.](https://seatable.io/wp-content/uploads/2022/06/Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
+![Alguien mira la herramienta Evernote para gestionar su colección.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
 Gestionar colección © monticellllo / Adobe Stock
 

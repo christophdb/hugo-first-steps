@@ -14,7 +14,7 @@ The summer vacations are coming to an end and we hope you enjoyed the vacation t
 
 Do you already use automated processes in your bases to save time and clicks? If so, you'll be pleased to know that we've refined the options and improved the performance of the [automations](https://seatable.io/en/docs/automationen/uebersicht-ueber-automationen/). Intensive users of SeaTable will be especially pleased with the higher execution limit. The [file management](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) introduced in version 4.0 now offers you two more features that simplify working with files.
 
-The development of the [Universal App Builder](https://seatable.io/en/docs/apps/universelle-app/) is progressing in seven-league boots: SeaTable 4.1 has new features for you to differentiate user permissions and data visualization in apps more precisely. In addition, we have improved or added many smaller features in SeaTable 4.1. See for yourself - the list is long and very gratifying!
+The development of the [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) is progressing in seven-league boots: SeaTable 4.1 has new features for you to differentiate user permissions and data visualization in apps more precisely. In addition, we have improved or added many smaller features in SeaTable 4.1. See for yourself - the list is long and very gratifying!
 
 This morning we updated SeaTable Cloud to version 4.1. All self-hosters can do the same: The SeaTable 4.1 image is available for download from the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, see the [changelog](https://seatable.io/en/docs/changelog/version-4/) for the full list of changes.
 
@@ -24,7 +24,7 @@ For automations with the [trigger](https://seatable.io/en/docs/automationen/auto
 
 In addition, we have improved the performance of some [actions](https://seatable.io/en/docs/automationen/automations-aktionen/) and extended their functions. For example, the "Modify record" action now also offers the option to set the value in a date column to "**Empty**".
 
-![New options for automations](images/New-options-for-automation.png)
+![New options for automations](New-options-for-automation.png)
 
 {{< warning headline="Higher execution limit for automations" >}}
 
@@ -38,7 +38,7 @@ The [file management](https://seatable.io/en/docs/dateien-und-bilder/das-dateima
 
 Thanks to the trash bin, files deleted by mistake are not permanently lost, but can be restored. Deleted files remain in the trash for **60 days** before they are permanently removed from the system. If files are to disappear more quickly, then the trash bin can also be emptied manually.
 
-![Recycle bin and search field in file management](images/New-trash-and-search-in-the-file-management.png)
+![Recycle bin and search field in file management](New-trash-and-search-in-the-file-management.png)
 
 Also new is the search function that allows you to search your custom folders in the file manager. Simply enter a search term in the search field. SeaTable will then display all files that contain the search term in the file name. If a file is not where you expect it to be, you can quickly find it.
 
@@ -54,7 +54,7 @@ The **default settings** for views are another new feature on table pages. A def
 
 This is not the end of the improvements on the table side: with one click you can display the conditional cell formatting from the underlying table and thus [color the cells](https://seatable.io/en/docs/ansichtsoptionen/einfaerben-von-zellen/).
 
-![New features in Universal App Builder](images/New-functions-in-the-Universal-App-Builder.png)
+![New features in Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
 And the other page types do not go empty-handed either: The Query and Web Form [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) now offer page permissions. On the individual page, elements can now be moved and positioned more easily.
 
@@ -66,12 +66,12 @@ On the Home page, you could previously create [folders](https://seatable.io/en/d
 
 Often it is not obvious for other users what you have thought about the structure of a base or table. You may also want to record **notes** about a column, table or base. So far you can do this in a [column description](https://seatable.io/en/docs/arbeiten-mit-spalten/hinzufuegen-einer-spaltenbeschreibung/) or in a [base description](https://seatable.io/en/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/). What was still missing was the option to use a concise text to explain the contents, structures and processes in a table. In the future, you will therefore be able to provide each table with a [table description](https://seatable.io/en/docs/arbeiten-in-tabellen/eine-tabellenbeschreibung-hinzufuegen/).
 
-![New table description function](images/Table-description.png)
+![New table description function](Table-description.png)
 
 Another, purely visual improvement concerns the **row details**, where you can view records and edit them depending on your permissions: We have aligned the design of the row details in Universal Apps and bases to create a uniform look. So that you can recognize locked fields directly, they are now uniformly highlighted in gray in the row details.
 
 For all those who like to start processes with a mouse click, there is reason to rejoice: The new [button action](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) "Send notification" is available as of SeaTable 4.1. This supplements the already previously available action "Send email". Since SeaTable now offers **nine** button actions, we have also made the selection window clearer:
 
-![New "Send notification" button action](images/New-button-action-send-notification.png)
+![New "Send notification" button action](New-button-action-send-notification.png)
 
 Last but not least, we fixed some **bugs** again in SeaTable 4.1 - among others that values with following % sign in text and single selection columns were not interpreted as percentages but as numbers. This could lead to unwanted results in some [formulas](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/). Please check if this bugfix affects your formulas.

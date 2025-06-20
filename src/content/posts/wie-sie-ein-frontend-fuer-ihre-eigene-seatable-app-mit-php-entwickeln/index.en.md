@@ -298,7 +298,7 @@ Since this is not meant to be a design tutorial, I'll limit myself to comparativ
 Create a new directory for your project and copy these HTML files.  
 When you open the HTML files with your browser, the start page should look like this, for example.
 
-![Appearance of your HTML pages for your SeaTable app with custom frontend](images/html-struktur-eigenes-frontend-seatable-entwickeln.png)
+![Appearance of your HTML pages for your SeaTable app with custom frontend](html-struktur-eigenes-frontend-seatable-entwickeln.png)
 
 ## Step 2: Connecting SeaTable via SeaTable PHP API
 

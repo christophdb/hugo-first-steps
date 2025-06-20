@@ -24,7 +24,7 @@ Plus l'entreprise est grande, plus la planification du personnel est compliquée
 
 En général, la planification du personnel avec des modèles Excel (gratuits ou payants) n'est pas exclusivement mauvaise. L'avantage est que les modèles Excel gratuits disponibles sur Internet peuvent être utilisés sans grand effort. Tout ce dont un utilisateur a besoin, c'est de Microsoft Office, Open Office ou d'un compte Google pour pouvoir accéder à Google Sheets. Qu'il s'agisse d'un tableau de service, d'un plan d'équipe ou d'une planification des collaborateurs, il suffit de saisir le mot-clé correspondant sur Google pour que le monde des modèles Excel gratuits s'ouvre à vous.
 
-![Le collaborateur utilise pour la planification du personnel le modèle Excel gratuit.](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_343110940_bearbeitet-711x474.jpg)
+![Le collaborateur utilise pour la planification du personnel le modèle Excel gratuit.](Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_343110940_bearbeitet-711x474.jpg)
 
 Planification du personnel modèle Excel gratuit © monticellllo / adobe stock
 
@@ -52,7 +52,7 @@ Un autre avantage décisif de la planification du personnel sans modèle Excel g
 
 Non seulement tout le monde est toujours au même niveau d'information, mais l'effort d'organisation est réduit de manière significative. Et cela ne fait aucune différence si vous dirigez une petite, moyenne ou grande entreprise, un café ou un commerce automobile. Avec l'outil en ligne approprié, il existe un [plan d'équipe]({{< relref "templates/human-resources/shift-schedule" >}}) ou une [saisie du temps de travail]({{< relref "templates/human-resources/recording-working-time" >}}) optimale pour chaque exigence.
 
-![](https://seatable.io/wp-content/uploads/2022/06/Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
+![](Personalplanung-Excel-Vorlage-kostenlos-1088x428.png)
 
 Modèle Excel de planification du personnel gratuit © SeaTable
 

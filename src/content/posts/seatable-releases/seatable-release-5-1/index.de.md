@@ -38,7 +38,7 @@ Dieser Seitentyp unterstützt in SeaTable 5.1 – genauso wie Tabellen- und Abfr
 
 Die Toolbar bietet einen neuen **QR-Code-Generator**. Der QR-Code enthält den Link auf den aktuell angezeigten Eintrag. Auf einem Gegenstand oder Gerät angebracht, lassen sich über ein Tablet oder Smartphone ohne jede Tastatureingabe alle Daten in der App abrufen. Dadurch wird beispielsweise die Inventarverwaltung noch einfacher.
 
-![More design options on single record page in SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/SingleRecordPage.png)
+![More design options on single record page in SeaTable 5.1](SingleRecordPage.png)
 
 Zudem bietet dieser Seitentyp in SeaTable 5.1 mehr optische Gestaltungsoptionen. Wenn Sie Tabellenfelder in die Seite eingebettet haben, konnten Sie bisher nur die Formatierung des Feldnamens konfigurieren. Bei allen text- und zahlenbasierten Spaltentypen haben Sie nun auch die Möglichkeit, die **Schriftgröße, Schriftstärke, Schriftfarbe und Ausrichtung der Feldwerte** einzustellen.
 
@@ -62,7 +62,7 @@ Die wohl auffälligste Neuerung sind **die erweiterten Spalten-Kontextmenüs** i
 
 Fast ebenso auffällig ist der **gelbe Warnhinweis**, der in normalen Ansichten in Verknüpfungsspalten auftaucht, wenn die verknüpfte Tabelle Zeilen im Big-Data-Speicher enthält. Der Hinweis macht deutlich, dass verknüpfte Einträge im Big-Data-Speicher nicht in der Zelle der Verknüpfungsspalte zu sehen sind. Möchten Sie diese anzeigen, dann öffnet ein Klick auf das Icon die Liste der verknüpften Einträge.
 
-![Linked archived records dialog in SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/LinkedArchivedRows.png)
+![Linked archived records dialog in SeaTable 5.1](LinkedArchivedRows.png)
 
 Auf vielfachen Nutzerwunsch steht die **Datenverarbeitungsoperation** [Vergleichen und verknüpfen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) nun auch in Big-Data-Ansichten zur Verfügung. Diese Operation kann Einträge im Big-Data-Speicher mit Zeilen in jeder anderen Tabelle verknüpfen, egal ob die Zeilen der verknüpften Tabelle in der Base oder im Big-Data-Speicher gespeichert sind.
 
@@ -74,7 +74,7 @@ Um die Nachvollziehbarkeit von Änderungen an Zeilen im Big-Data-Speicher zu erh
 
 Apps können zwar auf Daten im Big-Data-Speicher zugreifen, in Apps erstellte Einträge konnten aber nicht direkt dort gespeichert werden. Neue Einträge wurden grundsätzlich immer in der Base gespeichert. Diese funktionale Lücke haben wir mit SeaTable 5.1 geschlossen. Die Base bleibt der **Standard-Speicherort für neue Einträge**; diese Einstellung lässt sich aber in den [App-Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) ändern. Wie der Screenshot zeigt, können Sie tabellengenau festlegen, ob neue Zeilen in die Base oder in den Big-Data-Speicher geschrieben werden sollen.
 
-![New big data management in SeaTable's App Builder](https://seatable.io/wp-content/uploads/2024/11/BigDataManagement_AppBuilder.png)
+![New big data management in SeaTable's App Builder](BigDataManagement_AppBuilder.png)
 
 Doch nicht nur die Integration mit den Apps haben wir verbessert, auch das [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) bietet neue Möglichkeiten. Das Plugin hat nun auf Zugriff auf den Big-Data-Speicher und kann **Dokumente für Zeilen im Big-Data-Speicher erstellen**.
 
@@ -82,7 +82,7 @@ Doch nicht nur die Integration mit den Apps haben wir verbessert, auch das [Seit
 
 Nach drei neuen Plugins in [Version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}) vergrößert auch die Version 5.1 die Liste der verfügbaren SeaTable Plugins: Das neue Baum-Plugin ermöglicht die kompakte tabellarische Darstellung relational verknüpfter Datensätze. Egal, ob Sie Finanzdaten (wie im Screenshot unten), Projektdaten, Nutzungsdaten oder andere Daten auswerten, das neue Plugin schafft einen Überblick, der bisher so nicht existierte.
 
-![Tree Plugin](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
+![Tree Plugin](TreePlugin.png)
 
 Hierarchien über bis zu drei Ebenen, das heißt Daten aus drei Tabellen, lassen sich aktuell im Plugin darstellen. Die Abhängigkeiten definieren Sie durch Verknüpfungen. Direkt im Plugin können Sie für jeden einzelnen Datensatz die Details aufrufen und auch neue Datensätze hinzufügen.
 
@@ -92,7 +92,7 @@ Auch in dieser Version gibt es wieder mehr Neuigkeiten, als wir in überschaubar
 
 Der **Formel-Editor** erhält eine neue Funktion: **rowid()** gibt die ID der Zeile zurück. Diese lässt sich dann z. B. bei Schaltflächen-Aktionen oder Automationen verwenden. Aber nicht nur in der [Formel-Spalte](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/), sondern auch beim Spaltentyp Formel für Verknüpfungen gibt es Neuigkeiten: [Lookups](https://seatable.io/docs/verknuepfungen/die-lookup-funktion/) bieten nun eine Duplikatsprüfung. Wenn die Option **Duplikate nicht anzeigen** aktiviert ist, dann werden in jeder Zelle der Spalte nur einzigartige Werte angezeigt.
 
-![Color Picker introduced SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/ColorPicker.png)
+![Color Picker introduced SeaTable 5.1](ColorPicker.png)
 
 In SeaTable 5.1 haben wir die Syntax-Hervorhebung im integrierten **Python Editor** verbessert, damit Sie bei [Skripten](https://seatable.io/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) noch leichter den Überblick behalten. Auch haben wir einen Bug bei der automatischen Einrückung beseitigt.
 

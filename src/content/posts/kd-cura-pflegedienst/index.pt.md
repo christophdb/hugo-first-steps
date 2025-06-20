@@ -24,7 +24,7 @@ Com SeaTable, Norman Kolwitz, fundador da KD-Cura, quer ser pioneiro na sua ind�
 
 A importância dos cuidados de saúde continuará a aumentar de forma constante nos próximos anos. O tema da digitalização ainda não chegou totalmente ao sector dos cuidados de saúde. Norman Kolwitz afirma que, atualmente, ainda é necessário emitir uma fatura analógica para as empresas de cuidados e de seguros de saúde, o que não está de acordo com os tempos actuais. A digitalização é um passo importante e necessário e tem de chegar finalmente ao sector dos cuidados de saúde. Norman Kolwitz quer fazer um trabalho pioneiro com o SeaTable e finalmente digitalizar os processos.
 
-![Digitalização de processos no atendimento ambulatorial com o SeaTable](images/KD-Cura-pionarbeit-in-der-pflege.jpg)
+![Digitalização de processos no atendimento ambulatorial com o SeaTable](KD-Cura-pionarbeit-in-der-pflege.jpg)
 
 ## O crescimento dos empregados e o desejo de expansão requerem estruturas e processos claros
 

@@ -35,7 +35,7 @@ You can use this page type to add any **table** from your base as a page to your
 
 ## Page type: Form
 
-You can use this page type to build different **forms** that users can then submit. [Web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) are not only available in the universal app, but also as a separate feature. Form pages in the universal app are ideal for collecting **data from many different users**. One possible use case is [recording your employees' working hours](https://seatable.io/en/arbeitszeiterfassung/).
+You can use this page type to build different **forms** that users can then submit. [Web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) are not only available in the universal app, but also as a separate feature. Form pages in the universal app are ideal for collecting **data from many different users**. One possible use case is [recording your employees' working hours]({{< relref "posts/arbeitszeiterfassung" >}}).
 
 ![Web form for recording the working time of your employees](images/webformular-working-time.png)
 

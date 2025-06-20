@@ -16,7 +16,7 @@ Hoy, 6 de julio de 2021, hemos actualizado [SeaTable Cloud](https://cloud.seatab
 
 Los permisos avanzados de SeaTable (por ejemplo, permisos de uso compartido personalizados, permisos de columna, bloqueo de filas) dan a los administradores de la base un amplio control sobre quién puede ver, editar y trabajar de otra manera con los datos de la tabla. Con los nuevos permisos para las tablas, los administradores tienen una opción adicional para afinar el acceso a las tablas.
 
-![SeaTable 2.1: Permisos de la tabla](images/TablePermissions.png)
+![SeaTable 2.1: Permisos de la tabla](TablePermissions.png)
 
 Los permisos de tabla controlan los derechos de acceso de los usuarios a una única tabla de una base. En la configuración por defecto, no limitan los derechos de edición de los usuarios, es decir, cualquier usuario con al menos derechos de escritura puede añadir filas, así como editar y eliminar las existentes. Si el propietario de una base o un administrador quiere limitar estos derechos para usuarios individuales o grupos, ahora puede hacerlo con SeaTable 2.1. Los permisos para añadir archivos o eliminar archivos pueden ser revocados a todos o a cualquier usuario no administrador. O pueden asignarse exclusivamente a una selección de usuarios. Los permisos para añadir y eliminar pueden gestionarse de forma individual e independiente.
 
@@ -36,7 +36,7 @@ En futuras versiones se añadirán otras acciones de procesamiento de datos, com
 
 ## Permisos ampliados para columnas de selección única y múltiple
 
-![SeaTable 2.1: Permisos avanzados para columnas de selección simple y múltiple](images/Advanced-column-permissions.png)
+![SeaTable 2.1: Permisos avanzados para columnas de selección simple y múltiple](Advanced-column-permissions.png)
 
 Los permisos de columna introducidos en [SeaTable 1.2](https://seatable.io/es/seatable-release-1-2/) permiten la asignación y el control de los derechos de edición individuales para cada columna. Con SeaTable 2.1, el menú de permisos de columna de los dos tipos de columna selección simple y selección múltiple se amplió con un segundo botón. Esto le permite controlar qué usuarios pueden crear y editar opciones en una columna de selección.
 
@@ -46,7 +46,7 @@ Básicamente, todos los usuarios con permisos de escritura pueden editar las opc
 
 El tipo de columna de casillas de verificación era algo poco manejable en el uso diario. Probablemente, el factor más obvio de comodidad era la necesidad de hacer dos clics para marcar o desmarcar una casilla: uno para seleccionar la celda y otro para marcar o desmarcar la casilla. La nueva columna de casillas de verificación es un gran paso adelante en cuanto a usabilidad y apariencia.
 
-![SeaTable 2.1: Mejora de la columna de casillas de verificación](https://seatable.io/wp-content/uploads/2021/07/cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
+![SeaTable 2.1: Mejora de la columna de casillas de verificación](cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
 
 ## Numerosas mejoras en los detalles
 

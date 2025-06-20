@@ -15,7 +15,7 @@ Finally, the time has come! You've found the perfect apartment for you and can't
 
 Start your move planning by brainstorming. What tasks do I need to complete? Who can help me with them? How much budget can I spend? After that, draw up a cost overview to estimate your expenses. You can define and work through initial tasks in a checklist.
 
-![Checklist with the most important tasks for your move.](images/Green-And-Yellow-Simple-Checklist--711x1006.jpg)
+![Checklist with the most important tasks for your move.](Green-And-Yellow-Simple-Checklist--711x1006.jpg)
 
 A checklist can help keep track of all the tasks.
 
@@ -27,7 +27,7 @@ The new lease is signed and the move out of your old apartment is sealed. Now it
 
 Shortly after your move, you should schedule the appointment to **hand over the apartment and keys**. For this, you must leave the apartment as agreed in the lease. This usually includes cosmetic repairs and cleaning the apartment broom clean.
 
-![When you hand over the keys to your old apartment, your relocation plan is set in motion.](images/pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
+![When you hand over the keys to your old apartment, your relocation plan is set in motion.](pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
 
 With the handover of the keys you conclude with your old apartment.
 
@@ -74,13 +74,13 @@ Once the day of the move is set, the next step is planning. There are basically 
 
 With a **moving company** you save yourself a lot of time and nerves. Because everything that you would otherwise have to organize yourself, is taken over here. Especially if you are moving with several people or are under time pressure, the move is done quickly and comfortably. However, it is also clear that if you want to keep your own costs as low as possible, you will have to dig deep into your pockets. How much exactly you have to calculate is individual and should be discussed in detail with the moving company. Roughly, however, it can be said that the costs are related to the distance of the move and the size of the apartment. This average calculation serves as an orientation for you:
 
-![This is how much your move will cost, depending on how large your household is.](images/Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
+![This is how much your move will cost, depending on how large your household is.](Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
 
 The cost of your move depends on the household size and distance of the apartments.
 
 But for your money you then get a **Complete service**. This also includes that the company is liable for any damage to your property, the apartment or the staircase during your move. The law stipulates that 620 euros per cubic meter of transported goods will be assessed for the case of damage. If you want to have particularly valuable goods transported, you can agree on a higher liability sum with the moving company. But be careful: if you pack your furniture and possessions yourself, the professionals will not assume any liability for damage caused during transport.
 
-![Hiring a moving company will save you a lot of work.](images/handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
+![Hiring a moving company will save you a lot of work.](handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
 Moving companies take much of the work out of your hands.
 
@@ -96,7 +96,7 @@ How much support you want from a company is up to you. Usually, you have several
 
 If you want to save costs, **moving on your own** is exactly the right thing to do. However, the organizational effort will also be higher. Because everything that is included with the moving company now falls into your own hands. But with good planning, nothing stands in the way of this project. A [moving plan](https://seatable.io/en/umzug/#Online-Planer_fuer_Ihren_Umzug) will help you with all the steps on your way.
 
-![Costs that you will incur during your move.](images/Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
+![Costs that you will incur during your move.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 
 These are the expenses you will incur if you move on your own.
 
@@ -110,7 +110,7 @@ Organize everything yourself? No problem! The following tasks will come your way
 - **Find moving helpers**: The first point of contact should be your relatives and friends, as they will certainly be happy to help you without payment. If too few of your acquaintances have time, you can look for additional helpers, but you will have to pay them. To do this, you can ask in your neighborhood or start a call in your social media. Also remember to provide enough food and drink for your helpers on moving day.
 - **Tools**: To make the work easier for your helpers and yourself, we recommend tools such as work gloves, tension straps and a hand truck to transport heavy objects. If there are no professionals at work, injuries can occur more frequently. So prepare for the worst and have a first aid kit on site.
 
-![Pack your belongings securely so they don't get broken during the move.](images/pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
+![Pack your belongings securely so they don't get broken during the move.](pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
 
 Organize sturdy packing materials so your belongings don't get broken.
 
@@ -141,7 +141,7 @@ You can deduct part of your moving costs from your taxes in Germany as **income-
 
 There are some **general costs**which you can declare in full in your tax return. **Very important**: Keep invoices and receipts to substantiate your expenses. General expenses include, for example, transportation costs for household goods, double rent during the moving period or the broker's commission.
 
-![Always keep track of your expenses by keeping receipts.](images/finance-8206242_1280-711x474.jpg)
+![Always keep track of your expenses by keeping receipts.](finance-8206242_1280-711x474.jpg)
 
 Keep all invoices and receipts to claim your expenses for tax purposes.
 
@@ -153,7 +153,7 @@ The flat rate has been 886 euros since April 1, 2023; you can declare an additio
 
 Of course, it is not a must to use the flat rate. If the expenses exceed the costs covered by the lump sum, you can use receipts to make the tax claim, just as with general expenses.
 
-![Renovating your old home will also be partially covered during your move and should be considered in your moving plan if expenses are involved.](images/pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
+![Renovating your old home will also be partially covered during your move and should be considered in your moving plan if expenses are involved.](pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
 
 Renovation of the old apartment, e.g. contractually agreed cosmetic repairs, is also covered.
 
@@ -167,6 +167,6 @@ A move for medical reasons counts as an extraordinary burden. You can also claim
 
 To make your next move as stress-free as possible, the SeaTable team has created a template for your moving plan. You can adapt this to your needs as you wish.
 
-![Relocation plan](images/Umzugsplan.png)
+![Relocation plan](Umzugsplan.png)
 
 If you want to use SeaTable for your relocation planning, just [register]({{< relref "pages/registration" >}}) for free. You can find the corresponding template [here]({{< relref "templates/real-estate/moving-plan" >}}).

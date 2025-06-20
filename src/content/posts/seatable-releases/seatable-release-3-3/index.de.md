@@ -18,7 +18,7 @@ SeaTable Server 3.3 ist seit heute Morgen auf SeaTable Cloud verfügbar. Selbsth
 
 Im überarbeiteten Editor für Webformulare ersetzen “Blöcke” die Schieberegler in der Einstellungen-Seitenleiste. Wird ein solcher Block in das Formular gezogen und “fallen gelassen”, dann wird das zugehörige Element dem Formular an der aktuellen Position hinzugefügt. Alle Einstellungen für den Block lassen sich in der Seitenleiste modifizieren. Das kommt Ihnen bekannt vor? Richtig! Der Formulareditor übernimmt damit das User Interface Design des Seitendesign-Plugins.
 
-![Block-based form editor in SeaTable 3.3](https://seatable.io/wp-content/uploads/2022/12/Form_Editor_Blockdesign.png)
+![Block-based form editor in SeaTable 3.3](Form_Editor_Blockdesign.png)
 
 Die zahlreichen Vorteile des Block-Designs überzeugen: Die Felder im Formular können in beliebiger Reihenfolge stehen. Die Reihenfolge der Formularfelder muss nicht der Reihenfolge der Spalten in der Tabelle entsprechen. Jedes Formular kann eine individuelle Feldersequenz haben. Natürlich lassen sich alle Blöcke im Formular auch nachträglich verschieben. Um die Reihenfolge zweier Felder zu tauschen, ziehen Sie einfach das untere Feld über das obere (oder umgekehrt) und schon haben Sie die Sequenz optimiert. Welche Felder Sie in Formularen verwenden und in welcher Reihenfolge ist mit dem neuen Editor nun ganz Ihre Sache.
 
@@ -32,7 +32,7 @@ Einige weitere Verbesserungen für den Formulareditor sind aktuell noch in Arbei
 
 ## Schickere E-Mails mit HTML
 
-![SeaTable 3.3 supports HTML emails](https://seatable.io/wp-content/uploads/2022/12/HTML_Email_Support.png)
+![SeaTable 3.3 supports HTML emails](HTML_Email_Support.png)
 
 Für viele Geschäftsprozesse ist der Versand von E-Mails essentiell. SeaTable bietet diese Fähigkeit bereits seit der Version 2. Mit diesem Dezember-Update wird die E-Mail Funktion substantiell aufgewertet: SeaTable unterstützt nun HTML-E-Mails. In diesen können Sie – anders als in Nur-Text-E-Mails – Bilder, Tabellen, Kommentare und weitere Formatierungen einfügen, wie Sie das z.B. aus E-Mail-Clients wie Outlook, Thunderbird oder Apple Mail kennen.
 
@@ -46,7 +46,7 @@ Dank der in [Version 3.1]({{< relref "posts/seatable-releases/seatable-release-3
 
 Der Massenimport erfolgt direkt in den Big Data Speicher (bzw. SeaTables Komponente dtable-db). Sie können die Daten mit alle Funktionen, die in einer Big Data Ansicht zur Verfügung stehen, bearbeiten und auswerten. Bis zum Limit von 100.000 Zeilen können Sie importiere Zeilen auch in den normalen Speicher verschieben, um an diesen in Echtzeit zusammen zu arbeiten.
 
-![Mass-import into and export form SeaTable's big data storage](https://seatable.io/wp-content/uploads/2022/12/Massimport_BigDataStorage.png)
+![Mass-import into and export form SeaTable's big data storage](Massimport_BigDataStorage.png)
 
 Die neue Import-, Aktualisierung- und Exportfunktion erreichen Sie über die erweiterten Funktionen einer Big Data Ansicht.
 
@@ -62,7 +62,7 @@ Ein paar weitere Verbesserungen gibt es noch, die hier individuell, aber in alle
 
 Die bedingte Formatierung in Spalten kann nun auch Duplikate hervorheben. Wenn aktiviert, dann werden alle Zellen hervorgehoben, deren Inhalt in identischer Form zwei- oder mehrfach in einer Spalte vorkommt. Zusammen mit der werte- und regelbasierten Formatierung bietet SeaTable nun drei Typen der bedingten Formatierung.
 
-![New table and view settings in SeaTable 3.3](https://seatable.io/wp-content/uploads/2022/12/Table_View_Settings.png)
+![New table and view settings in SeaTable 3.3](Table_View_Settings.png)
 
 Eine dritte Option wurde auch in den Tabellen- und Ansichtseinstellungen ergänzt. Neu kann die Erstellung und Löschung von Ansichten zu einem ausschließlichen Recht des Base-Eigentümers bzw. des/der Base-Administratoren gemacht werden.
 

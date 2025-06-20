@@ -16,13 +16,13 @@ Um dos dias mais bonitos e importantes da vida está mesmo ao virar da esquina: 
 
 Normalmente, o planeamento de um casamento começa cerca de 13 meses antes do grande dia. Se quiser ter um local de casamento popular, por vezes até mais cedo. É importante não perder de vista o grande número de tarefas. É por isso que no centro do nosso modelo de Wedding [Planner]({{< relref "templates/events/wedding-planner" >}}) está a _lista de verificação_ com mais de 200 tarefas pré-definidas. Além disso, esta tabela regista quando a tarefa correspondente deve ser completada. Há sempre uma tarefa superordenada, que contém vários subitens individuais para o guiar ao longo de todo o processo. A coluna de _verificação_ é uma [coluna de caixa de verificação](https://seatable.io/pt/docs/handbuch/datenmanagement/feld-typen/?lang=auto#checkbox) que é utilizada para marcar as doses completadas.
 
-![Lista de controlo de planeamento de casamentos](https://seatable.de/wp-content/uploads/2021/07/wedding-more-than-200-todos.png)
+![Lista de controlo de planeamento de casamentos](wedding-more-than-200-todos.png)
 
 A nossa lista de controlo de planeamento de casamento já contém mais de 200 doses para que não se esqueça de nada.
 
 ### Crie as suas próprias doses
 
-Para começar a planear o seu próprio casamento, precisa de [se registar para uma conta SeaTable Free](https://seatable.io/pt/registrierung/?lang=auto). Pode então começar a planear o seu casamento usando o nosso modelo de Wedding _Planner_.
+Para começar a planear o seu próprio casamento, precisa de [se registar para uma conta SeaTable Free]({{< relref "pages/registration" >}}). Pode então começar a planear o seu casamento usando o nosso modelo de Wedding _Planner_.
 
 Pode inserir doses adicionais ou posteriores em qualquer ponto do modelo. Quando se atribui um novo _Parent To-do_, é automaticamente criado um novo grupo de tarefas. A ordenação dos grupos de tarefas é feita automaticamente com base no tempo de espera para o seu casamento. Deseja acrescentar uma data específica às tarefas? Basta adicionar uma nova [coluna de datas](https://seatable.io/pt/docs/handbuch/datenmanagement/feld-typen/?lang=auto#datum) e atribuir uma data a cada um dos afazeres.
 
@@ -47,7 +47,7 @@ Preparámos 5 pontos de vista diferentes para o ajudar a tomar 5 decisões impor
 4. Para entretenimento há a vista de _Entretenimento_
 5. Para os alimentos há a vista de possíveis _fornecedores de refeições_
 
-![Planeamento do casamento](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
+![Planeamento do casamento](Bildschirmfoto-2021-07-13-um-13.46.17-1.png)
 
 ### O planeamento do casamento é uma questão de decisões
 
@@ -74,7 +74,7 @@ Há espaço para tudo o que é possível nas notas, talvez haja preferências pe
 
 A fim de evitar um caos adicional de notas na mesa de jantar, para além do caótico planeamento do casamento, pensámos em resolver digitalmente o problema dos lugares sentados. Ligando as duas tabelas _Guestlist_ e _Seating Chart_, pode atribuir cada convidado da tabela _Guestlist_ a uma tabela que tenha previamente definido na tabela _Seating Chart_. Se for mais claro para si, pode também atribuir os convidados individuais às suas mesas na tabela _de Lugares_ ao contrário. Se clicar numa mesa da _lista de convidados_, poderá ver directamente quem já está sentado à mesa.
 
-![](https://seatable.de/wp-content/uploads/2021/07/Bildschirmfoto-2021-07-13-um-14.29.48.png)
+![](Bildschirmfoto-2021-07-13-um-14.29.48.png)
 
 Mais uma vez, existem diferentes pontos de vista para a lista de convidados para o ajudar ainda mais. Criámos uma visão que mostra quais os [convites](https://www.pinterest.de/mhochzeitsdeko/einladungenskarten-hochzeit/) que ainda não foram enviados. Uma vista mostra-lhe os diferentes pedidos do menu. Talvez fosse também uma opção para si [partilhar](https://seatable.io/pt/docs/handbuch/zusammenarbeit/externe-links/?lang=auto) esta visão directamente com o fornecedor, para que este possa planear o menu mais facilmente. Por último, mas não menos importante, existem três pontos de vista individuais para cada celebração, porque, como sabemos, nem todos os convidados vêm a cada parte da celebração. Assim, com um clique tem uma visão directa das pessoas que estarão presentes em cada caso.
 
@@ -92,7 +92,7 @@ Com a nossa _lista de verificação de_ mais de 200 pontos, nada pode correr mal
 
 Mesmo que o seu casamento seja um pouco mais específico ou que tenha outros requisitos, o SeaTable pode ser personalizado ao seu gosto. Adicione tabelas, crie [diferentes vistas](https://seatable.io/pt/docs/handbuch/datenmanagement/ansichten/?lang=auto), [agrupe e filtre](https://seatable.io/pt/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) os seus dados e vistas ou experimente os [plug-ins](https://seatable.io/pt/docs/handbuch/schnelleinstieg/erweiterungen/?lang=auto) que mais lhe convêm. Por exemplo, seria concebível integrar uma lista de desejos no Planeador de Casamentos e os convidados podem entrar no presente que escolherão antecipadamente através de um formulário web. Com SeaTable, o formulário da web poderia ser concebido de tal forma que os convidados só vissem presentes que nenhum outro convidado tivesse ainda escolhido. Não há realmente limites para a imaginação.
 
-[Registe-se agora](https://seatable.io/pt/registrierung/?lang=auto) e comece a planear o seu casamento. Toda a equipa SeaTable deseja-lhe muita diversão e um grande casamento!
+[Registe-se agora]({{< relref "pages/registration" >}}) e comece a planear o seu casamento. Toda a equipa SeaTable deseja-lhe muita diversão e um grande casamento!
 
 ### Instruções em vídeo em alemão no YouTube
 

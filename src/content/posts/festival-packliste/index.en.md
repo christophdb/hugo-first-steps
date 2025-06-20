@@ -15,7 +15,7 @@ When the festival season begins and the anticipation of good music and shared ex
 
 Whether you're getting ready for the legendary [Wacken](https://www.wacken.com/de/), the thrilling [Rock am Ring](https://www.rock-am-ring.com) or the energetic [Hurricane](https://hurricane.de/de/) Festival - there are a few must-haves on every festival packing list.
 
-![Festival packing list: Man carries woman piggyback at festival](images/group-friends-having-fun-together-711x475.jpg)
+![Festival packing list: Man carries woman piggyback at festival](group-friends-having-fun-together-711x475.jpg)
 
 Festivals bring people together and promote a sense of community.
 
@@ -25,7 +25,7 @@ So that you can find everything at a glance, the festival packing list is divide
 
 ### Essentials
 
-![Festival Packlist: A crowd in front of a stage](images/colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
+![Festival Packlist: A crowd in front of a stage](colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
 
 Festivals provide access to a diverse music program.
 
@@ -51,7 +51,7 @@ Spacer
 
 ### Camping
 
-![Woman standing in a sleeping bag in front of her tent](images/female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
+![Woman standing in a sleeping bag in front of her tent](female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
 
 The nights are often short amidst the noisy surroundings.
 
@@ -77,7 +77,7 @@ Spacer
 
 ### Catering
 
-![Bowl with muesli and cup stand on a stone](images/camping-lifestyle-with-food-711x637.jpg)
+![Bowl with muesli and cup stand on a stone](camping-lifestyle-with-food-711x637.jpg)
 
 You need a lot of energy at a festival.
 
@@ -103,7 +103,7 @@ Spacer
 
 ### Clothing
 
-![A woman shows her partner something at a festival](images/couple-standing-crowd-music-festival-711x481.jpg)
+![A woman shows her partner something at a festival](couple-standing-crowd-music-festival-711x481.jpg)
 
 The right clothes are those in which you feel comfortable.
 
@@ -129,7 +129,7 @@ Spacer
 
 ### Hygiene & medicine
 
-![Colorful porta-potties on a dusty floor](images/amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
+![Colorful porta-potties on a dusty floor](amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
 
 The hygiene situation at festivals is often not particularly comfortable.
 
@@ -159,7 +159,7 @@ Spacer
 
 ### Miscellaneous
 
-![Friends play beer pong together](images/front-view-women-playing-beer-pong-711x474.jpg)
+![Friends play beer pong together](front-view-women-playing-beer-pong-711x474.jpg)
 
 Games are played on the campsite to pass the time.
 

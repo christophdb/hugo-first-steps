@@ -20,11 +20,11 @@ Darüber hinaus haben wir ein Upgrade der Plugins auf Webpack 5 durchgeführt so
 
 ## Neuer Dialog und benutzerdefinierte Links für Webformulare
 
-Um Ihre [Webformulare](https://seatable.io/docs/webformulare/webformulare/) an andere Nutzer freizugeben, gab es bislang zwei verschiedene Dialogfenster: eines, in dem Sie einen **automatisch generierten Link** kopieren konnten; und eines, in dem Sie diesen Link mit [vorbefüllten Werten](https://seatable.io/docs/webformulare/formularfelder-per-url-vorbefuellen/) erweitern konnten. Diese Möglichkeiten haben wir nun in einem einzigen Dialog zusammengeführt, um die Usability zu erhöhen.
+Um Ihre [Webformulare]({{< relref "help/base-editor/webformulare" >}}) an andere Nutzer freizugeben, gab es bislang zwei verschiedene Dialogfenster: eines, in dem Sie einen **automatisch generierten Link** kopieren konnten; und eines, in dem Sie diesen Link mit [vorbefüllten Werten](https://seatable.io/docs/webformulare/formularfelder-per-url-vorbefuellen/) erweitern konnten. Diese Möglichkeiten haben wir nun in einem einzigen Dialog zusammengeführt, um die Usability zu erhöhen.
 
 Zudem haben wir die brandneue Option ergänzt, **benutzerdefinierte URLs** für Webformulare zu erstellen. Anschließend können Sie diese bearbeiten, als QR-Code speichern, kopieren oder löschen.
 
-![Neuer Formularlink-Dialog in SeaTable 4.3](images/Formularlink-Dialog.gif)
+![Neuer Formularlink-Dialog in SeaTable 4.3](Formularlink-Dialog.gif)
 
 {{< warning headline="Hinweis" text="Der benutzerdefinierte Teil, der an den Link angehängt wird, muss **zwischen 5 und 30 Zeichen** lang sein und darf nur **Buchstaben**, **Zahlen** und **Bindestriche** enthalten. Noch dazu muss jede URL eindeutig sein: Falls eine benutzerdefinierte URL bereits belegt ist, erscheint eine Fehlermeldung." />}}
 
@@ -39,7 +39,7 @@ Zuvor konnten Sie in SeaTable nur manuell [PDF-Dokumente per Schaltfläche erzeu
 
 Durch die **App-Benachrichtigungen** können Sie die Nutzer einer App beispielsweise über Änderungen an relevanten Datensätzen informieren. Diese Aktion kann von allen vier [Trigger-Ereignissen](https://seatable.io/docs/automationen/automations-trigger/) ausgelöst werden.
 
-![App-Benachrichtigung senden](images/App-Benachrichtigung-senden.png)
+![App-Benachrichtigung senden](App-Benachrichtigung-senden.png)
 
 Die Nutzer der jeweiligen App können ihre Benachrichtigungen über das {{< seatable-icon icon="dtable-icon-notice" >}} Glocken-Symbol neben ihrem Avatar in der rechten oberen Ecke abrufen.
 
@@ -49,7 +49,7 @@ In der [Mitarbeiter-Spalte](https://seatable.io/docs/datum-dauer-und-personen/di
 
 Diese Funktionalität ist vor allem in der Universellen App von Vorteil. Sie können die Option, dass die Teammitglieder in der Drop-down-Liste für alle Nutzer zu sehen sind, in den [Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) der Universellen App aktivieren. Wenn Sie nicht möchten, dass die Nutzer die Datensätze der anderen sehen können, legen Sie **voreingestellte Filter** fest: Wird eine Seite per Mitarbeiter-Spalte mit der Bedingung „inkludiert aktuellen Benutzer“ gefiltert, sieht jeder Nutzer der Universellen App nur die Einträge, die ihm in der Tabelle zugeordnet sind.
 
-![Mitarbeiter-Spalte in der Universellen App](images/Mitarbeiter-Spalte-in-der-Universellen-App.gif)
+![Mitarbeiter-Spalte in der Universellen App](Mitarbeiter-Spalte-in-der-Universellen-App.gif)
 
 ## Weitere Verbesserungen der Universellen App
 
@@ -59,11 +59,11 @@ Ganz neu in der Universellen App ist die [Kommentarfunktion](https://seatable.io
 
 Auf der [individuellen Seite](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) können Sie sich auf zwei neue Elemente freuen: den **Container** und die **Karte**. Der Container gibt ein Raster vor, mit dem Sie andere Elemente (Texte, Bilder, Statistiken) leichter anordnen und in Gruppen zusammenfassen können.
 
-![Container element on custom page in SeaTable 4.3](images/Container-element-on-custom-page.png)
+![Container element on custom page in SeaTable 4.3](Container-element-on-custom-page.png)
 
 Für ein schönes Seitenlayout sorgt auch die Karte, die ein Bild, eine Überschrift und einen Text zu einer Design-Vorlage vereint.
 
-![Card element on custom page in SeaTable 4.3](images/Card-element-on-custom-page.png)
+![Card element on custom page in SeaTable 4.3](Card-element-on-custom-page.png)
 
 Außerdem lässt sich die **Hintergrundfarbe** von individuellen Seiten ab SeaTable 4.3 beliebig einstellen und die unerwünschte Überlappung von Elementen wurde behoben. Auch das übergreifende Design der Universellen App präsentiert sich nun über alle Seiten hinweg in einer einheitlichen Farbe, die Sie in den [globalen Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) auswählen können.
 
@@ -85,7 +85,7 @@ Wenn Sie die beiden ablaufenden Apps nutzen, empfehlen wir Ihnen, Ihre Anwendung
 
 Wenn Sie [E-Mails per Automation versenden](https://seatable.io/docs/beispiel-automationen/e-mail-versand-per-automation/), konnten Sie Ihre Nachricht bisher nur als **Klartext** in das Textfeld eingeben. Ab SeaTable 4.3 ist es wie beim E-Mail-Versand über Schaltflächen möglich, die Nachrichten im **Rich-Text- bzw. HTML-Format** zu verfassen. Aktivieren Sie dazu einfach den Regler rechts über dem Textfeld.
 
-![Rich text in automated e-mail messages](images/Rich-text-in-automated-e-mail-messages.png)
+![Rich text in automated e-mail messages](Rich-text-in-automated-e-mail-messages.png)
 
 Wenn Sie gerne **Spaltenberechtigungen** nutzen, um Werte vor unerwünschten Änderungen zu schützen, können Sie dies künftig noch genauer definieren. Neben _bestimmten Benutzern_, _Administratoren_ und _Niemandem_ stehen nun auch **bestimmte Gruppen** als Option zur Auswahl.
 

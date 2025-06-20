@@ -25,7 +25,7 @@ With SeaTable, Norman Kolwitz, founder of KD-Cura, wants to pioneer in his indus
 
 The importance of nursing will continue to rise steadily in the coming years. The topic of digitization has not yet fully arrived in the care industry. Norman Kolwitz says that at the moment, care and health insurance companies still have to bill in analog form, which is not in keeping with the times. Digitization is an important and necessary step and must now finally arrive in the care sector. Norman Kolwitz wants to do pioneering work with SeaTable and finally digitize processes.
 
-![Digitalization of processes in outpatient care with SeaTable](images/KD-Cura-pionarbeit-in-der-pflege.jpg)
+![Digitalization of processes in outpatient care with SeaTable](KD-Cura-pionarbeit-in-der-pflege.jpg)
 
 ## Employee growth and desire for expansion requires clear structures and processes
 

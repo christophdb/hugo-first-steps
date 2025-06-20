@@ -20,7 +20,7 @@ En este artículo le mostramos cómo un equipo de ventas remoto puede gestionar 
 
 Con cada vez menos contactos cara a cara, es fundamental que el equipo de ventas se mantenga conectado y productivo en un entorno de trabajo a distancia. A continuación te presentamos algunas de las mejores estrategias y prácticas que puedes adoptar para aumentar el rendimiento y la eficiencia de tu equipo de ventas remoto.
 
-![Equipos de trabajo a distancia](https://seatable.io/wp-content/uploads/2023/06/sigmund-eTgMFFzroGc-unsplash-scaled-e1686045067675.jpg)
+![Equipos de trabajo a distancia](sigmund-eTgMFFzroGc-unsplash-scaled-e1686045067675.jpg)
 
 Trabajar en equipos remotos requiere estrategias y prácticas diferentes para aumentar el rendimiento y la eficacia.
 
@@ -44,7 +44,7 @@ Colaborar a través de diferentes regiones geográficas y zonas horarias no es f
 
 [SeaTable](https://seatable.io/es/) es otra de las mejores aplicaciones de gestión colaborativa de la información. Esta aplicación sin código tiene soluciones para [marketing](https://seatable.io/es/marketing/), [ventas](https://seatable.io/es/vertrieb/) y [gestión de proyectos](https://seatable.io/es/projektmanagement/) que ayudan a los equipos de ventas remotos a capturar, estructurar y evaluar distintos tipos de información.
 
-![SeaTable ofrece varias soluciones para equipos de ventas remotos que permiten recopilar, estructurar y evaluar distintos tipos de información](https://seatable.io/wp-content/uploads/2021/08/Ansicht_Offers.png)
+![SeaTable ofrece varias soluciones para equipos de ventas remotos que permiten recopilar, estructurar y evaluar distintos tipos de información](Ansicht_Offers.png)
 
 SeaTable ofrece varias soluciones para equipos de ventas remotos que ayudan a recopilar, estructurar y evaluar distintos tipos de información.
 
@@ -64,7 +64,7 @@ Según [estadísticas de ventas recientes](https://www.heinzmarketing.com/2015/0
 
 La automatización de los procesos de ventas ayuda al equipo de ventas remoto a rendir mejor manteniéndolo en el flujo de trabajo y ahorrando su valioso tiempo y energía. Los gestores pueden escalar eficazmente su equipo de ventas y decidir dónde dirigir el esfuerzo para obtener resultados óptimos.
 
-![SeaTable ya ofrece muchas plantillas preparadas para equipos de ventas remotos.](https://seatable.io/wp-content/uploads/2023/06/templates-crm-remote.png)
+![SeaTable ya ofrece muchas plantillas preparadas para equipos de ventas remotos.](templates-crm-remote.png)
 
 SeaTable ya ofrece muchas plantillas preparadas para equipos de ventas remotos.
 
@@ -84,7 +84,7 @@ Se dice que los empleados comprometidos son más productivos que los que tienen 
 
 Para ello, es importante tomar medidas preventivas para animar a los trabajadores y reducir los factores que les frustran. Además, debe compartir los éxitos comunes con los miembros del equipo y ofrecerles apoyo para que ellos mismos puedan lograr grandes éxitos.
 
-![Las interacciones sociales en equipos remotos mejoran la capacidad de comunicación, hacen que las reuniones sean más productivas y crean buenas relaciones de equipo.](https://seatable.io/wp-content/uploads/2023/06/antenna-ZDN-G1xBWHY-unsplash-scaled-e1686045663343-711x474.jpg)
+![Las interacciones sociales en equipos remotos mejoran la capacidad de comunicación, hacen que las reuniones sean más productivas y crean buenas relaciones de equipo.](antenna-ZDN-G1xBWHY-unsplash-scaled-e1686045663343-711x474.jpg)
 
 Las interacciones sociales en equipos remotos mejoran las habilidades de comunicación, hacen que las reuniones sean más productivas y crean buenas relaciones de equipo.
 

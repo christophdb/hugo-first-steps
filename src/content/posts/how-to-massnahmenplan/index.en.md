@@ -60,13 +60,13 @@ With our [SeaTable template for an activity plan]({{< relref "templates/projects
 
 Our template essentially consists of a 365-day calendar with marked weekends and holidays, in which you can easily enter everything related to your planning. This has the advantage that you can look at the days of the week and months in a holistic view. This gives a better overview of when and at what intervals a particular appointment or activity is to take place and makes annual planning easier. For detailed project planning, time, place, responsible persons and departments as well as important to-do's are integrated in the columns. In this way, the course of individual measures can be planned very precisely and important dates are always within reach with just a few clicks. You will see: With SeaTable, planning for the whole year is perfectly structured and organised.
 
-![With an action plan in calendar format, you have an overview of your measures at all times](images/Overview.jpg)
+![With an action plan in calendar format, you have an overview of your measures at all times](Overview.jpg)
 
 The overview in the action plan
 
 Not only does your schedule find space here, but also your planned projects and goals at the same time. You can create these in another spreadsheet and continuously document progress. The practical thing: The staff column allows you to hand over tasks and projects directly to the responsible persons in order to avoid chaos. This way you ensure that everything is done on time and all employees know what their tasks are. This way you ensure an ideal workflow where nothing gets lost.
 
-![You can record your goals in your action plan in order to work on them continuously](images/Annual-Goals.jpg)
+![You can record your goals in your action plan in order to work on them continuously](Annual-Goals.jpg)
 
 Visualise and advance goals in your action plan
 

@@ -37,7 +37,7 @@ In SeaTable, on the other hand, this is very simple. While all information about
 
 In addition, all of the publisher's books are recorded in SeaTable. No other solution can so naturally capture a wide variety of information such as title, author, category, program edition, project management, status of the manuscript, date of publication, number of pages, price, ISBN number, and the URL in the store, all of which can be easily edited at the same time. In addition, employees can easily filter out the titles that have already been published or sort them by projects that are still in progress.
 
-![Flexible processes in publishing thanks to SeaTable](images/ventil-verlag.jpg)
+![Flexible processes in publishing thanks to SeaTable](ventil-verlag.jpg)
 
 ## SeaTable offers the necessary flexibility for the publisher
 

@@ -49,7 +49,7 @@ La méthode Scrum est utilisée pour les projets particulièrement complexes, da
 **3\. le Kanban**  
 Vous en avez certainement déjà entendu parler. Cette méthode travaille particulièrement avec la visualisation des tâches et jouit ainsi d'une grande popularité dans la gestion des tâches. Dans ce type de gestion des tâches, les tâches sous forme de cartes Kanban sont déplacées d'une colonne à l'autre sur un tableau Kanban visuel - généralement de "Open" à "Doing" à "Done".
 
-Vous pouvez constater que les méthodes diffèrent dans leur approche et que certaines peuvent être plus adaptées à votre projet que d'autres. Mais dans tous les cas, vous avez besoin d'un outil de gestion des tâches qui vous aide à mener à bien votre projet dans tous les domaines de tâches. Il existe pour cela de nombreux fournisseurs différents, qui ont tous leurs avantages et leurs inconvénients. SeaTable présente l'avantage décisif d'être un logiciel flexible, capable de gérer non seulement l'ensemble du projet, mais aussi tous les autres processus tels que [la saisie du temps de travail](https://seatable.io/fr/zeiterfassung-im-unternehmen/), [la gestion de la relation client](https://seatable.io/fr/crm-angebotsmanagement/) ou la création d'un plan éditorial.
+Vous pouvez constater que les méthodes diffèrent dans leur approche et que certaines peuvent être plus adaptées à votre projet que d'autres. Mais dans tous les cas, vous avez besoin d'un outil de gestion des tâches qui vous aide à mener à bien votre projet dans tous les domaines de tâches. Il existe pour cela de nombreux fournisseurs différents, qui ont tous leurs avantages et leurs inconvénients. SeaTable présente l'avantage décisif d'être un logiciel flexible, capable de gérer non seulement l'ensemble du projet, mais aussi tous les autres processus tels que [la saisie du temps de travail]({{< relref "posts/arbeitszeiterfassung" >}}), [la gestion de la relation client]({{< relref "posts/crm-angebotsmanagement" >}}) ou la création d'un plan éditorial.
 
 SeaTable est un outil de gestion de projet très flexible qui s'adapte parfaitement **à tous vos besoins**. SeaTable vous permet d'impliquer vos collaborateurs dans le projet, de simplifier les processus de travail et de communication et de **structurer votre projet du début à la fin** à l'aide d'une attribution et d'une description claires des tâches.
 
@@ -57,7 +57,7 @@ SeaTable est un outil de gestion de projet très flexible qui s'adapte parfaitem
 
 SeaTable est une **solution de feuille de calcul flexible** qui vous permet de personnaliser votre gestion des tâches. Nous avons construit notre base avec toutes les informations importantes nécessaires pour un projet, comme les choses à faire, la personne responsable, l'échéance, la date de début et les documents importants. Différents types de colonnes peuvent être utilisés, ce qui permet de personnaliser et de préciser les données. Ainsi, il est possible de créer une nouvelle ligne pour chaque tâche à effectuer et de la saisir de manière détaillée. Ce processus est comparable à la création d'un ticket, comme il en existe dans certains systèmes.
 
-![Créez des gestions de tâches pour vos projets](https://seatable.io/wp-content/uploads/2021/09/Uebersichtn.gif)
+![Créez des gestions de tâches pour vos projets](Uebersichtn.gif)
 
 Presque chaque type de colonne peut être utilisé pour des structurations et des évaluations plus poussées. Pour une meilleure vue d'ensemble et un meilleur classement des tâches, un double regroupement par catégorie et par domaine d'activité a été effectué pour le tableau "TV Ad Campaign" et un regroupement par domaine d'activité et priorité pour le projet annexe "Brand Magazine". Mais les gestions de tâches pourraient aussi être regroupées par collaborateur ou par échéance - tout comme vous avez besoin des données sur le moment.
 
@@ -73,7 +73,7 @@ SeaTable permet une communication directe au sein des tableaux, ce qui rend inut
 
 Pour une meilleure visualisation et une manipulation plus simple de la gestion des tâches, le plugin Kanban est exactement ce qu'il vous faut. Le plugin intégré fonctionne comme tous les outils de gestion des tâches Kanban courants et permet de déplacer les tâches sous forme de cartes en fonction de différentes catégories de classement, comme le statut. Lorsqu'une tâche est terminée, la personne responsable peut simplement faire glisser la carte de "doing" à "done" et la tâche est marquée comme terminée.
 
-![Le tableau Kanban facilite la gestion de vos tâches](https://seatable.io/wp-content/uploads/2021/09/Kanban-board-711x457.jpg)
+![Le tableau Kanban facilite la gestion de vos tâches](Kanban-board-711x457.jpg)
 
 D'autres catégorisations sont également envisageables, par exemple en fonction de paquets de tâches supérieurs, par exemple la conception d'un site web. Cette méthode de travail est nettement plus simple pour beaucoup, car les tâches sont clairement structurées et visualisées. Cela aide également à évaluer réellement un projet et l'effort à fournir. Ces outils sont donc très appréciés des petites équipes ou des entreprises.
 
@@ -91,16 +91,16 @@ Le plug-in Timeline est d'une grande aide pour la visualisation temporelle de to
 
 Pour les vues individuelles des collaborateurs, vous pouvez créer au préalable des vues pour chaque collaborateur. Ainsi, chacun voit ses propres tâches dans sa propre ligne de temps et sait combien de temps il reste pour chaque tâche. Vous voyez également quelle est la charge de travail de vos collaborateurs lors de la planification des tâches et vous pouvez modifier la planification si la charge de travail est inégalement répartie.
 
-![Planifiez votre liste de tâches pour un timing parfait](https://seatable.io/wp-content/uploads/2021/09/Timeline.gif)
+![Planifiez votre liste de tâches pour un timing parfait](Timeline.gif)
 
 Le plug-in Calendrier offre, comme le plug-in Ligne de temps, une vue d'ensemble temporelle de l'ensemble du projet et de toutes les étapes de planification de la gestion des tâches, mais dans un style tout à fait calendaire. L'affichage par jour, semaine, mois, année ou entièrement dans l'aperçu de l'agenda permet de voir les étapes du projet au jour près et indique quel jour et combien il reste à faire. Ici aussi, la création de tableaux personnels pour les collaborateurs est possible sans problème sur la base des vues créées.
 
-![Visualisez la gestion de vos tâches avec le plugin calendrier](https://seatable.io/wp-content/uploads/2021/09/Cal.gif)
+![Visualisez la gestion de vos tâches avec le plugin calendrier](Cal.gif)
 
 ## Recevoir automatiquement toutes les avancées du projet
 
 Pour que tous les collaborateurs soient toujours à jour en ce qui concerne leurs tâches et la gestion des tâches, les notifications automatiques sont très importantes. Il n'est donc plus nécessaire de vérifier obligatoirement dans la base s'il y a des nouveautés. Dans notre modèle, nous avons défini une règle de notification qui se déclenche en cas de modification dans la colonne "Responsable". Lorsqu'une tâche est attribuée à un collaborateur, celui-ci reçoit directement et automatiquement une notification.  
-![Tâches terminées dans la gestion des tâches](https://seatable.io/wp-content/uploads/2021/09/task-done.jpg)
+![Tâches terminées dans la gestion des tâches](task-done.jpg)
 
 S'il est nécessaire de demander un feedback à un collègue ou à un supérieur, il suffit d'attribuer la tâche à cette personne - là encore, la règle se déclenche automatiquement et la personne responsable est informée. Il n'est donc plus nécessaire d'envoyer des e-mails avec des questions, des commentaires ou des instructions de travail. Une fois la tâche traitée, elle est renvoyée à la personne concernée afin de poursuivre le flux de travail.
 
@@ -108,4 +108,4 @@ Les commentaires à l'intérieur d'une ligne à l'aide de la fonction commentair
 
 ## La gestion des tâches n'a jamais été aussi simple
 
-Avec SeaTable, votre gestion des tâches devient un gamechanger efficace et qui fait gagner du temps dans vos projets. Pour utiliser notre modèle, vous devez [vous inscrire](https://seatable.io/fr/enregistrement/) chez nous. En tant que logiciel de tableur et base de données, SeaTable va bien au-delà de l'enregistrement de données : structurer, trier, déléguer, discuter, organiser, planifier, mettre en œuvre et terminer - tout cela et plus encore est possible avec SeaTable.
+Avec SeaTable, votre gestion des tâches devient un gamechanger efficace et qui fait gagner du temps dans vos projets. Pour utiliser notre modèle, vous devez [vous inscrire]({{< relref "pages/registration" >}}) chez nous. En tant que logiciel de tableur et base de données, SeaTable va bien au-delà de l'enregistrement de données : structurer, trier, déléguer, discuter, organiser, planifier, mettre en œuvre et terminer - tout cela et plus encore est possible avec SeaTable.

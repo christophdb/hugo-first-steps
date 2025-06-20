@@ -18,11 +18,11 @@ Sie halten die Motivation hoch und sorgen darüber hinaus für Ehrgeiz, gute Ver
 
 Neue Gewohnheiten aufbauen und schlechte ändern – dabei hilft Ihnen ein Habit Tracker. Dieser ist in seiner grundlegendsten Ausführung eine **Liste mit Checkboxen**, in der Sie über den Zeitraum von einem Monat jeden Tag dokumentieren, ob Sie eine Handlung ausgeführt haben oder nicht. Haben Sie sich vorgenommen, jeden Tag zu meditieren? Dann setzen Sie immer ein Häkchen in die Box, wenn Sie tatsächlich an diesem Tag Ihren Vorsatz eingehalten haben. Wenn Sie Ihren Habit Tracker regelmäßig pflegen, ergibt sich daraus ein Bild, das Ihren **Fortschritt** zeigt.
 
-![Dieser Habit Tracker ist simpel und zeigt die Gewohnheit, den Tag und mit einem farbigen Strich, ob das Verhalten ausgeführt wurde.](https://seatable.io/wp-content/uploads/2023/11/prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
+![Dieser Habit Tracker ist simpel und zeigt die Gewohnheit, den Tag und mit einem farbigen Strich, ob das Verhalten ausgeführt wurde.](prophsee-journals-WI30grRfBnE-unsplash-scaled-e1701700190366-711x473.jpg)
 
 So könnte Ihr Habit Tracker aussehen.
 
-Bei der **Gestaltung** Ihres Habit Trackers sind Ihrer Fantasie keine Grenzen gesetzt. Arbeiten Sie zum Beispiel mit verschiedenen **Farben** und Schriftarten oder setzen Sie Ihre Ideen mit dem [Habit Tracker von SeaTable](https://seatable.io/habit-tracker-gewohnheiten-aendern/#Vorlage_fuer_Ihren_digitalen_Habit_Tracker) einfach online um. Dabei sollten Sie nicht nur Ihre angestrebten, sondern auch Ihre bisherigen Gewohnheiten aufschreiben. Das Nachverfolgen hilft Ihnen, sich der Gewohnheiten bewusst zu werden, die Sie bis dahin als selbstverständlich wahrgenommen haben.
+Bei der **Gestaltung** Ihres Habit Trackers sind Ihrer Fantasie keine Grenzen gesetzt. Arbeiten Sie zum Beispiel mit verschiedenen **Farben** und Schriftarten oder setzen Sie Ihre Ideen mit dem [Habit Tracker von SeaTable]({{< relref "posts/habit-tracker" >}}#Vorlage_fuer_Ihren_digitalen_Habit_Tracker) einfach online um. Dabei sollten Sie nicht nur Ihre angestrebten, sondern auch Ihre bisherigen Gewohnheiten aufschreiben. Das Nachverfolgen hilft Ihnen, sich der Gewohnheiten bewusst zu werden, die Sie bis dahin als selbstverständlich wahrgenommen haben.
 
 {{< warning headline="Warum wir Gewohnheiten brauchen" text="Gewohnheiten machen unser Leben leichter. Haben Sie eine Verhaltensweise erst einmal verinnerlicht, wird sie meist automatisch von Ihnen ausgeführt. Die Aktivität passiert unterbewusst, wie zum Beispiel das tägliche Zähneputzen, das wir aus Gewohnheit tun, ohne jedes Mal den Zweck zu hinterfragen. Damit nehmen wir dem Gehirn Denkarbeit ab und schaffen gleichzeitig Kapazitäten für wichtigere Abläufe." />}}
 
@@ -46,7 +46,7 @@ Ob Kleinigkeiten im Alltag oder das ganze Leben umkrempeln – grundsätzlich is
 
 Überlegen Sie sich Gewohnheiten, die **Ihren Alltag verbessern** und sich auch in diesen integrieren lassen. Werden Sie sich außerdem bewusst, welche Gewohnheiten Sie bereits haben und ob diese eine Veränderung benötigen. Ob schlechte Gewohnheiten ablegen oder neue erlernen, hier finden Sie Inspiration:
 
-![Viele schlechte Gewohnheiten kann man sich abgewöhnen und in neue gute Gewohnheiten umwandeln.](https://seatable.io/wp-content/uploads/2023/11/Design-ohne-Titel-e1701347470819-711x946.jpg)
+![Viele schlechte Gewohnheiten kann man sich abgewöhnen und in neue gute Gewohnheiten umwandeln.](Design-ohne-Titel-e1701347470819-711x946.jpg)
 
 Sie können schlechte Gewohnheiten gegen gute austauschen.
 
@@ -62,7 +62,7 @@ Sie können schlechte Gewohnheiten gegen gute austauschen.
 
 Viele **unliebsame Verhaltensmuster** haben sich in unserem Alltag etabliert und sind still und heimlich zur Gewohnheit geworden. Diese wieder loszuwerden oder im besten Fall in eine gute Gewohnheit zu verwandeln kostet Sie viel Zeit und Energie. Doch mit einem **Plan** gelingt Ihnen dieses Vorhaben.
 
-![6 Schritte führen zum Erfolg, seine Gewohnheiten zu ändern.](https://seatable.io/wp-content/uploads/2023/12/Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
+![6 Schritte führen zum Erfolg, seine Gewohnheiten zu ändern.](Purple-Colorful-Modern-Roadmap-Timeline-Infographic-1-e1706188296694-711x1538.jpg)
 
 Dieser Plan hilft Ihnen, Ihre Ziele zu erreichen.
 
@@ -80,7 +80,7 @@ Behalten Sie Ihre Pläne nicht für sich. Indem Sie Ihren Freunden oder Verwandt
 
 Ihre Verhaltensweisen regelmäßig auszuführen erfordert eine starke **Selbstdisziplin**. Es gibt jedoch Tipps, welche Ihnen helfen, schneller Gewohnheiten in Ihren Alltag zu integrieren.
 
-![Das Buch Atomic Habits enthält die unten stehenden Tipps, welche Sie in Ihren Gewohnheitstracker integrieren können.](https://seatable.io/wp-content/uploads/2023/11/jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
+![Das Buch Atomic Habits enthält die unten stehenden Tipps, welche Sie in Ihren Gewohnheitstracker integrieren können.](jose-mizrahi-YaM1l94EJwc-unsplash-min-scaled-e1701350426432-711x682.jpg)
 
 James Clears Bestseller enthält nützliche Tipps.
 
@@ -127,7 +127,7 @@ Und schon sind Sie am Ziel! Sie haben Ihren Habit Tracker stets gepflegt und die
 
 Wie bereits erwähnt, sind Ihnen bei der Gestaltung Ihres Habit Trackers keine Grenzen gesetzt. Die individuelle Anfertigung von Hand kann helfen, durch die Personalisierung eine zusätzliche Verbindlichkeit zu schaffen und sich mit der bereits investierten Arbeit noch zusätzlich zu motivieren.
 
-![Die Vorlage zeigt einen kreativeren Ansatz, bei dem mit Farben und einer besonderen Form gearbeitet wurde.](https://seatable.io/wp-content/uploads/2023/12/Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
+![Die Vorlage zeigt einen kreativeren Ansatz, bei dem mit Farben und einer besonderen Form gearbeitet wurde.](Ivory-Colorful-Bullet-Journal-Habit-Tracker-Page-A5-Document-1-e1706188603736-711x944.jpg)
 
 Sie können Ihren Habit Tracker von Hand oder mit Vorlagen designen.
 

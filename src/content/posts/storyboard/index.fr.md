@@ -11,7 +11,7 @@ seo:
 
 Que vous soyez en train de concevoir une vidéo d'entreprise, un court-métrage pour un festival de cinéma ou la prochaine superproduction hollywoodienne, la création d'un **storyboard** peut faire toute la différence. Un storyboard n'est pas seulement un outil pour structurer vos **idées créatives**, mais aussi pour garantir le **bon déroulement de la production**. Cet article explique l'importance et l'utilité des storyboards pour les projets de films en tout genre et présente un modèle de storyboard gratuit qui vous permettra de donner vie à vos visions.
 
-![Le réalisateur pointe son doigt sur le story-board](images/dix-sept-xEKgWKmUk5A-unsplash-711x463.jpg)
+![Le réalisateur pointe son doigt sur le story-board](dix-sept-xEKgWKmUk5A-unsplash-711x463.jpg)
 
 Avant de tourner un film, il faut d'abord bien le planifier.
 
@@ -21,7 +21,7 @@ Le storyboard est la **représentation graphique** ou l'**esquisse** d'une histo
 
 Les styles de dessin peuvent varier considérablement. Certains artistes de story-board créent des illustrations extrêmement élaborées, tandis que d'autres préfèrent se limiter à de simples dessins de bonshommes au trait.
 
-![Storyboard dessiné à la main](images/dix-sept-idiRDLFPH6A-unsplash-711x936.jpg)
+![Storyboard dessiné à la main](dix-sept-idiRDLFPH6A-unsplash-711x936.jpg)
 
 Un exemple de représentation visuelle d'un story-board
 
@@ -40,7 +40,7 @@ Un storyboard présente l'avantage important de visualiser **des séquences d'ac
 
 Pendant que vous affinez votre histoire et ajoutez des détails au cours du processus de planification, le storyboard vous permet de **détecter les erreurs à un stade précoce**. Vous économiserez ainsi beaucoup d'efforts pendant le **tournage** et le **montage vidéo**. Déterminez à l'avance le plus de détails possible, comme le rythme de la narration, afin d'avoir l'esprit libre pour l'essentiel pendant les journées de tournage éprouvantes.
 
-![Planification visuelle pour un film](images/matt-popovich-pJwWrP-OIfk-unsplash-711x457.jpg)
+![Planification visuelle pour un film](matt-popovich-pJwWrP-OIfk-unsplash-711x457.jpg)
 
 ## Le processus de réalisation d'un film
 
@@ -56,7 +56,7 @@ Ce n'est que lorsque le scénario et le storyboard sont finalisés que le **tour
 
 Une fois le tournage terminé, l'étape suivante consiste à passer au **montage vidéo**. Après avoir visionné, sélectionné et édité le matériel, vous pouvez demander un premier **feedback** à votre entourage. Vérifiez ainsi si votre film est compréhensible et tangible pour les personnes extérieures. Vous pourrez ensuite **finaliser** votre **film** grâce aux commentaires reçus.
 
-![Tourner un film en 8 étapes](images/Film-drehen-in-8-Schritten-711x1264.png)
+![Tourner un film en 8 étapes](Film-drehen-in-8-Schritten-711x1264.png)
 
 Le storyboard fait partie de la phase de planification - ce n'est qu'ensuite que le tournage a lieu.
 
@@ -68,7 +68,7 @@ Lors de la création de votre story-board, veillez également à **numéroter** 
 
 Les points les plus importants sont ainsi couverts. Selon les besoins, vous pouvez toutefois ajouter d'autres informations, comme par exemple **les rôles** impliqués, **les accessoires** ou **les instructions** pour le montage.
 
-![Dessins d'hommes au trait dans le style BD](images/nasim-keshmiri-bNjYwZrkJ3A-unsplash-711x474.jpg)
+![Dessins d'hommes au trait dans le style BD](nasim-keshmiri-bNjYwZrkJ3A-unsplash-711x474.jpg)
 
 Vous n'avez pas besoin d'être un grand artiste pour créer un bon story-board.
 
@@ -88,4 +88,4 @@ Le [modèle gratuit]({{< relref "templates/marketing/storyboard" >}}) de SeaTabl
 
 Le modèle de storyboard vous permet de planifier clairement **l'intrigue**, le **décor**, les **dialogues** et **les plans de caméra**. En outre, vous pouvez facilement ajouter **des personnages**, **des accessoires** et **des instructions de mise en scène** pour penser et fixer votre histoire dans les moindres détails.
 
-Si vous souhaitez utiliser [ce modèle]({{< relref "templates/marketing/storyboard" >}}) de SeaTable pour votre projet de film, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement avec votre adresse e-mail. Vous pourrez ainsi commencer à créer votre storyboard personnalisé en un rien de temps et faire avancer efficacement vos projets de film.
+Si vous souhaitez utiliser [ce modèle]({{< relref "templates/marketing/storyboard" >}}) de SeaTable pour votre projet de film, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement avec votre adresse e-mail. Vous pourrez ainsi commencer à créer votre storyboard personnalisé en un rien de temps et faire avancer efficacement vos projets de film.

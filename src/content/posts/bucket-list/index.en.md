@@ -15,7 +15,7 @@ Have you always wanted to try a parachute jump from an airplane? Have you dreame
 
 Our dreams and aspirations are what drive us and inspire us to embark on unforgettable adventures. But all too often they are postponed or neglected as we get caught up in the daily grind. A bucket list can help you capture your dreams and remind you to make them a reality. After all, it is experiences that enrich our lives and fill us with memories that will last a lifetime.
 
-![Bucket List: Woman looking into the distance in front of a lake.](images/frau-mit-einem-rucksack-mit-blick-auf-den-schwarzen-see-im-nationalpark-durmitor-montenegro-711x474.jpg)
+![Bucket List: Woman looking into the distance in front of a lake.](frau-mit-einem-rucksack-mit-blick-auf-den-schwarzen-see-im-nationalpark-durmitor-montenegro-711x474.jpg)
 
 Whether adventurous thrills or breathtaking nature: our dreams are different.
 
@@ -31,7 +31,7 @@ If you have not yet thought about what you want from life, a bucket list could b
 
 Not only will you become more satisfied the more you tick off your list - with each completed goal, you will also get a **motivational boost** that will make it easier for you to achieve your next goal. Reading through your list regularly and reminiscing will also make you **feel good**.
 
-![Bucket list: photos from a trip](images/pexels-taryn-elliott-4340790-711x474.jpg)
+![Bucket list: photos from a trip](pexels-taryn-elliott-4340790-711x474.jpg)
 
 Keep a record of your experiences so that you can remember them again and again.
 
@@ -43,7 +43,7 @@ If you make the effort to create a bucket list, you should also take a look at i
 
 For some, the thought of unfinished items can cause stress and pressure - but that is not the aim of the list. A bucket list should be **fun** and **motivate** you, not weigh you down. It's important to remember that a bucket list is not a race to be won. Life is a long journey and the list should accompany you for many years. Even if you end up with a few items left to complete, the point is to celebrate all the wonderful experiences you've had along the way.
 
-![Woman enjoying the view on a mountain](images/pexels-nina-uhlikova-725255-711x533.jpg)
+![Woman enjoying the view on a mountain](pexels-nina-uhlikova-725255-711x533.jpg)
 
 The most important thing in life is to fully enjoy the beautiful moments.
 
@@ -69,7 +69,7 @@ If you are short of ideas, you can also find inspiration here: from **places** y
 - Take a selfie with the Leaning Tower of Pisa
 - Admire the northern lights in Iceland
 
-![Bucket list: Northern Lights in the sky](images/aurora-1185464_1280-711x474.jpg)
+![Bucket list: Northern Lights in the sky](aurora-1185464_1280-711x474.jpg)
 
 Northern lights are an impressive play of colors in the sky.
 
@@ -84,7 +84,7 @@ Northern lights are an impressive play of colors in the sky.
 - Surviving a whitewater rafting tour
 - Working abroad
 
-![Bucket list: Climber hangs from a ledge](images/rock-climbing-2264698_1280-711x474.jpg)
+![Bucket list: Climber hangs from a ledge](rock-climbing-2264698_1280-711x474.jpg)
 
 Some people are looking for adrenaline and thrills.
 
@@ -98,7 +98,7 @@ Some people are looking for adrenaline and thrills.
 - Book a relaxing vacation
 - Complete a marathon
 
-![Marathon runner](images/marathon-3753907_1280-711x474.jpg)
+![Marathon runner](marathon-3753907_1280-711x474.jpg)
 
 If you are looking for a sporting challenge, you can choose a marathon as your goal.
 
@@ -113,7 +113,7 @@ If you are looking for a sporting challenge, you can choose a marathon as your g
 - Take part in a photography course
 - Learn to program
 
-![Bucket List: Book about programming language Python](images/pexels-christina-morillo-1181671-711x475.jpg)
+![Bucket List: Book about programming language Python](pexels-christina-morillo-1181671-711x475.jpg)
 
 Python is a programming language.
 
@@ -127,7 +127,7 @@ Python is a programming language.
 - Watch all "The Lord of the Rings" films in one go
 - Celebrate Carnival in Rio de Janeiro
 
-![Art Museum ](images/pexels-suzy-hazelwood-3004909-711x400.jpg)
+![Art Museum ](pexels-suzy-hazelwood-3004909-711x400.jpg)
 
 Whether art, music, literature or traditions - culture is diverse.
 
@@ -142,7 +142,7 @@ Whether art, music, literature or traditions - culture is diverse.
 - Picking mushrooms in the forest
 - Drink champagne
 
-![Bucket list: plate with beautifully decorated appetizers.](images/pexels-jer-chung-2792186-711x533.jpg)
+![Bucket list: plate with beautifully decorated appetizers.](pexels-jer-chung-2792186-711x533.jpg)
 
 Eating can also be an experience.
 
@@ -157,7 +157,7 @@ Eating can also be an experience.
 - Adopt a dog from an animal shelter
 - Collecting garbage in nature
 
-![People collecting garbage](images/pexels-anna-shvets-5029859-711x474.jpg)
+![People collecting garbage](pexels-anna-shvets-5029859-711x474.jpg)
 
 Doing good is a goal that not only enriches the lives of those around you.
 
@@ -172,7 +172,7 @@ Doing good is a goal that not only enriches the lives of those around you.
 - Get married on the beach
 - Get children
 
-![Bucket list: A couple in the sunset.](images/pexels-pavel-danilyuk-9143809-711x475.jpg)
+![Bucket list: A couple in the sunset.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 
 Your goals can also focus on interpersonal relationships.
 

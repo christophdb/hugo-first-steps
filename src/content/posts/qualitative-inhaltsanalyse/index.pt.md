@@ -23,7 +23,7 @@ A forma exacta como deve conceber a análise de conteúdo depende dos resultados
 
 Basicamente, existe uma **abordagem** **qualitativa** e uma **abordagem quantitativa** para a análise de conteúdo. Pode decidir qual dos dois métodos deve utilizar para o seu projeto com base nos seguintes critérios:
 
-![São apresentados os pontos em que a análise de conteúdo qualitativa e quantitativa diferem.](https://seatable.io/wp-content/uploads/2024/02/Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
+![São apresentados os pontos em que a análise de conteúdo qualitativa e quantitativa diferem.](Blue-and-White-Minimalist-Introvert-vs-Extrovert-Comparison-Instagram-Post-e1709122018411-711x517.png)
 
 Na análise de conteúdo qualitativa, o utilizador concentra-se numa **pequena quantidade** de conteúdo que analisa em profundidade. Aqui também depende do que se ouve nas entrelinhas das entrevistas, por exemplo. Por conseguinte, trabalha-se **de forma indutiva**, ou seja, efectua-se as próprias observações e deduz-se uma nova hipótese a partir delas. O objetivo é compreender e **interpretar** os resultados e desenvolver novas abordagens teóricas nesta base.
 
@@ -39,7 +39,7 @@ Também pode utilizar a análise de conteúdo para recolher dados importantes no
 
 À primeira vista, a análise de conteúdo qualitativo pode parecer muito complexa. No entanto, se a analisarmos nas suas etapas individuais, é mais fácil de compreender. De seguida, o procedimento básico de uma análise de conteúdo qualitativa é explicado em oito passos e com a ajuda de exemplos.
 
-![Pode descobrir como efetuar uma análise de conteúdo qualitativa em oito passos aqui.](https://seatable.io/wp-content/uploads/2024/02/Blue-Modern-Data-Analysis-Your-Story-e1709037008610-711x1085.png)
+![Pode descobrir como efetuar uma análise de conteúdo qualitativa em oito passos aqui.](Blue-Modern-Data-Analysis-Your-Story-e1709037008610-711x1085.png)
 
 Estas instruções ajudá-lo-ão a fazê-lo.
 
@@ -73,7 +73,7 @@ A direção que a sua análise deve tomar depende da sua pergunta de investigaç
 
 Se o seu projeto for um artigo científico, deve ser capaz de **explicar** a sua **questão de investigação de forma bem fundamentada**. Para isso, deve relacioná-la com as teorias existentes e com o estado atual da investigação.
 
-![Uma biblioteca é um bom local para encontrar literatura.](https://seatable.io/wp-content/uploads/2024/03/susan-q-yin-2JIvboGLeho-unsplash-e1709908437533-711x502.jpg)
+![Uma biblioteca é um bom local para encontrar literatura.](susan-q-yin-2JIvboGLeho-unsplash-e1709908437533-711x502.jpg)
 
 Procure literatura adequada para fundamentar a sua abordagem.
 
@@ -106,7 +106,7 @@ Registar as categorias que pretende utilizar para categorizar o seu material num
 
 Antes de efetuar uma análise de conteúdo qualitativa, é necessário definir as unidades de análise. Estas determinam o que será posteriormente codificado, ou seja, categorizado.
 
-![Os artigos em linha estão estruturados, o que facilita a sua divisão em unidades.](https://seatable.io/wp-content/uploads/2024/03/emiliano-vittoriosi-bmFIX77cXA-unsplash-e1709908751710-711x682.jpg)
+![Os artigos em linha estão estruturados, o que facilita a sua divisão em unidades.](emiliano-vittoriosi-bmFIX77cXA-unsplash-e1709908751710-711x682.jpg)
 
 Os artigos podem ser facilmente divididos em unidades graças à sua estrutura.
 
@@ -159,7 +159,7 @@ Qual o grau de fiabilidade da codificação? O mesmo conteúdo é classificado d
 
 Para garantir que a sua análise de conteúdos decorre sem problemas, eis as perguntas mais importantes que deve fazer a si próprio.
 
-![Ao efetuar uma análise de conteúdo qualitativa, deve colocar a si próprio estas cinco questões.](https://seatable.io/wp-content/uploads/2024/03/Green-And-Yellow-Simple-Checklist--e1709905721190-711x513.png)
+![Ao efetuar uma análise de conteúdo qualitativa, deve colocar a si próprio estas cinco questões.](Green-And-Yellow-Simple-Checklist--e1709905721190-711x513.png)
 
 A lista de controlo ajuda-o a manter-se atento aos pontos mais importantes da sua análise.
 

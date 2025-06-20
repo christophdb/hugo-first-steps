@@ -41,7 +41,7 @@ Um modelo para a sua lista de tarefas também o ajuda a **visualizar** as suas t
 
 Esta estrutura e a certeza de que nenhum pensamento ou tarefa se perde online ajuda-o a alcançar **a paz interior**. Sabe sempre o que tem de fazer em qualquer altura. Assim, pode **concentrar-se** totalmente nas tarefas que tem em mãos e bloquear tudo o resto.
 
-![Actividades diárias num quadro](https://seatable.io/wp-content/uploads/2024/04/sign-870246_640.jpg)
+![Actividades diárias num quadro](sign-870246_640.jpg)
 
 ### Gerir mais facilmente a comunicação numa equipa
 
@@ -65,13 +65,13 @@ Também pode ser ligado ao seu calendário, a um assistente de voz no seu smartp
 
 ### Microsoft To Do: A aplicação versátil para a sua lista de tarefas
 
-Com o [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), obtém um planeador diário e uma ferramenta para [listas de](https://seatable.io/pt/einkaufsliste/) tarefas e [de compras](https://seatable.io/pt/einkaufsliste/). Pode integrar tarefas do Outlook e trabalhar numa lista sincronizada a partir de todos os dispositivos finais.
+Com o [Microsoft To Do](https://todo.microsoft.com/tasks/de-de/), obtém um planeador diário e uma ferramenta para [listas de]({{< relref "posts/einkaufsliste" >}}) tarefas e [de compras]({{< relref "posts/einkaufsliste" >}}). Pode integrar tarefas do Outlook e trabalhar numa lista sincronizada a partir de todos os dispositivos finais.
 
 Pode ordenar as tarefas individuais, definir um prazo e assinalá-las. Também são possíveis lembretes e tarefas recorrentes. No entanto, não existem opções de visualização avançadas para além do modo de lista; para tal, é necessário o Planner.
 
 {{< warning headline="Utilização gratuita" text="O Microsoft To Do está disponível gratuitamente. Tudo o que precisa é de uma conta Microsoft." />}}
 
-![Aplicação de lista de tarefas da Microsoft no smartphone.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
+![Aplicação de lista de tarefas da Microsoft no smartphone.](To-do-Liste-online_AdobeStock_468885805_bearbeitet-711x474.jpg)
 
 © sdx15 / Adobe Stock
 
@@ -87,7 +87,7 @@ Com o Projoodle, obtém uma aplicação gratuita para listas de tarefas que são
 
 Como utilizador da Apple, provavelmente já está familiarizado com a aplicação Lembretes. Aqui pode criar novas listas com tantas entradas quantas quiser, que pode assinalar sem esforço - por exemplo, ao fazer compras. Também pode adicionar vários detalhes a cada tarefa, como uma data, local, prioridade, imagens e subtarefas.
 
-![Lembretes: Aplicação de lista de tarefas para iOS](https://seatable.io/wp-content/uploads/2022/06/Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
+![Lembretes: Aplicação de lista de tarefas para iOS](Erinnerungen-To-do-Liste-App-fuer-iOS-511x1025.png)
 
 Os lembretes podem ser claramente ordenados em cada lista e divididos em secções. Existem também várias categorias disponíveis na página inicial, como _Hoje_, _Planeado_ ou _Concluído_, nas quais podem ser encontradas todas as entradas aplicáveis em todas as listas. Pode utilizar a aplicação Lembretes gratuitamente para as suas listas de afazeres e sincronizá-la em todos os dispositivos Apple.
 
@@ -101,7 +101,11 @@ O SeaTable tem, de longe, a **gama mais vasta de funções** de todas as aplica�
 
 Com o SeaTable, pode começar imediatamente com a [versão gratuita]({{< relref "pages/registration" >}}) e o [modelo interativo]({{< relref "templates/projects/to-do-list" >}}). Estão disponíveis funcionalidades adicionais na versão Plus por 7 euros por utilizador e por mês, na versão Enterprise por 14 euros por utilizador e por mês ou numa solução dedicada na nuvem.
 
-{{< warning headline="RGPD e soberania dos dados" text="Os servidores SeaTable Cloud estão localizados na Alemanha, o que torna a plataforma adequada para o trabalho em conformidade com o RGPD com dados pessoais sensíveis. Também tem a opção de instalar [o SeaTable on-premises](https://seatable.io/pt/on-premises/) nos seus próprios servidores." />}}
+{{< warning headline="RGPD e soberania dos dados" >}}
+
+Os servidores SeaTable Cloud estão localizados na Alemanha, o que torna a plataforma adequada para o trabalho em conformidade com o RGPD com dados pessoais sensíveis. Também tem a opção de instalar [o SeaTable on-premises]({{< relref "pages/product/seatable-server" >}}) nos seus próprios servidores.
+
+{{< /warning >}}
 
 ## Dicas para implementar com sucesso a sua lista de tarefas
 
@@ -112,7 +116,7 @@ Depois de escolher a ferramenta, está na altura de criar a sua primeira lista d
 - Celebre os seus êxitos. Escolha uma ferramenta que lhe permita **assinalar** as tarefas **ou marcá-las como concluídas**. Isto dar-lhe-á uma boa sensação.
 - Mantenha não apenas uma, mas **pelo menos três listas de tarefas** na aplicação no seu dia a dia. Pode categorizá-las por temas, por exemplo, de acordo com passatempos, tarefas domésticas e compras. Ou pode introduzir todas as tarefas numa lista de pendências com a data correspondente, de modo a apresentar as tarefas numa lista mensal, semanal e diária com diferentes vistas.
 
-![O empregado cria uma lista para fazer online.](https://seatable.io/wp-content/uploads/2022/05/To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
+![O empregado cria uma lista para fazer online.](To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg)
 
 Comece com a sua própria lista de tarefas © Tarokmew / Adobe Stock
 

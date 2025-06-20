@@ -39,9 +39,10 @@ sections:
       subtitle: Detalhes da versão
       anchor: release-5
       items:
-        - text: 'Versão **5.0.7** em 15 de julho de 2024: [Notas da versão 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}})'
-        - text: 'Versão **5.1.9** em 8 de novembro de 2024: [Notas da versão 5.1]({{< relref "posts/seatable-releases/seatable-release-5-1" >}})'
+        - text: 'Versão **5.3.10** em 16 de junho de 2025: [Notas da versão 5.3]({{< relref "posts/seatable-releases/seatable-release-5-3" >}})'
         - text: 'Versão **5.2.7** em 25 de fevereiro de 2025: [Notas da versão 5.2]({{< relref "posts/seatable-releases/seatable-release-5-2" >}})'
+        - text: 'Versão **5.1.9** em 8 de novembro de 2024: [Notas da versão 5.1]({{< relref "posts/seatable-releases/seatable-release-5-1" >}})'
+        - text: 'Versão **5.0.7** em 15 de julho de 2024: [Notas da versão 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}})'
       template: "5964c9e4b6534372b1d8"
 
     - name: "content-26"

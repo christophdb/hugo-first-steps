@@ -16,13 +16,13 @@ seo:
 
 ## Более гибкий, более мощный конструктор приложений
 
-В SeaTable 4.4 мы снова внесли множество улучшений и исправлений ошибок в [универсальное приложение](https://seatable.io/ru/docs/apps/universelle-app/), которые будут полезны практически для всех [типов страниц](https://seatable.io/ru/docs/universelle-apps/seitentypen-in-der-universellen-app/). Завершение фазы бета-тестирования уже близко.
+В SeaTable 4.4 мы снова внесли множество улучшений и исправлений ошибок в [универсальное приложение]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), которые будут полезны практически для всех [типов страниц](https://seatable.io/ru/docs/universelle-apps/seitentypen-in-der-universellen-app/). Завершение фазы бета-тестирования уже близко.
 
 ### Кнопки на страницах запросов
 
 [Страницы запросов](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) теперь поддерживают выполнение действий с помощью кнопок: После успешного запроса данных вы можете нажимать [кнопки](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/) в отображаемом списке хитов для выполнения действий. Это особенная новая функция, поскольку ранее не было возможности взаимодействовать с запрашиваемыми строками в любом месте SeaTable.
 
-![Кнопки выполнения на страницах запросов](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
+![Кнопки выполнения на страницах запросов](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
 Один из примеров применения - внутренняя доска объявлений: страница запросов позволяет быстро искать подходящие вакансии. Если интересная вакансия найдена, достаточно нажать на кнопку в результатах поиска, чтобы сразу подать заявку на вакансию.
 
@@ -34,11 +34,11 @@ seo:
 
 Как и в Base, теперь вы можете [выбрать все записи в столбце](https://seatable.io/ru/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/) на [страницах таблиц](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) ваших приложений одним щелчком мыши на заголовке столбца. Также появилась возможность использовать практичную [ручку заполнения](https://seatable.io/ru/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/): перетащите маленький квадратик в правом нижнем углу ячейки вниз, чтобы перенести значение на все строки ниже.
 
-![Пометить записи в столбце](images/Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
+![Пометить записи в столбце](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
 ### Колонка сотрудника доступна на страницах форм
 
-Если вы используете [столбец сотрудников](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) в таблице, он **недоступен** в [веб-формах](https://seatable.io/ru/docs/webformulare/webformulare/). Однако, начиная с версии SeaTable 4.4, вы можете добавлять колонки сотрудников на [страницы форм](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) в универсальном приложении. Например, члены вашей команды могут выбрать себя для запроса на отпуск, и больше не придется вводить их имена вручную. Сначала необходимо активировать опцию отображения списка сотрудников в [настройках приложения](https://seatable.io/ru/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+Если вы используете [столбец сотрудников](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) в таблице, он **недоступен** в [веб-формах]({{< relref "help/base-editor/webformulare" >}}). Однако, начиная с версии SeaTable 4.4, вы можете добавлять колонки сотрудников на [страницы форм](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) в универсальном приложении. Например, члены вашей команды могут выбрать себя для запроса на отпуск, и больше не придется вводить их имена вручную. Сначала необходимо активировать опцию отображения списка сотрудников в [настройках приложения](https://seatable.io/ru/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
 
 ### Больше возможностей для настройки отдельных страниц
 
@@ -50,7 +50,7 @@ seo:
 
 {{< warning headline="Хорошо знать" text="**Существующие приложения галереи продолжат работать**. Однако мы рекомендуем переключить существующие приложения галереи на универсальные приложения, чтобы воспользоваться преимуществами дальнейших разработок и улучшений." />}}
 
-![Создайте диалог приложений](images/Create-app-dialog-.png)
+![Создайте диалог приложений](Create-app-dialog-.png)
 
 В [приложении для запросов данных](https://seatable.io/ru/docs/apps/datenabfrage-app/) также произошли некоторые изменения. Старый конструктор приложений для запросов данных был удален и заменен новым, основанным на Universal App Builder. Это означает, что вы, конечно, по-прежнему можете создавать публичные приложения для запросов к вашим базам, но интерфейс теперь похож на Universal App Builder. К существующим приложениям запросов относится то же самое, что и к приложениям галереи: вам ничего не нужно делать и вы можете продолжать их использовать.
 
@@ -58,9 +58,9 @@ seo:
 
 ## Более приятный пользовательский опыт при импорте Excel
 
-SeaTable 4.4 делает [импорт таблиц Excel](https://seatable.io/ru/docs/import-von-daten/import-von-excel-dateien-in-seatable/) более быстрым, гибким и стабильным: Таблицы со многими тысячами строк теперь доступны в SeaTable всего за несколько мгновений. В значительно увеличенном окне предварительного просмотра теперь можно выбрать, какие таблицы рабочей книги - все или только отдельные - вы хотите импортировать из XLSX-файла. Если раньше специальные символы в названиях столбцов и другие особые случаи приводили к нежелательным результатам, то теперь они надежно учитываются. Улучшенные сообщения об ошибках четко указывают на конфликты, особенно при [импорте в хранилище Big Data](https://seatable.io/ru/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/).
+SeaTable 4.4 делает [импорт таблиц Excel]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) более быстрым, гибким и стабильным: Таблицы со многими тысячами строк теперь доступны в SeaTable всего за несколько мгновений. В значительно увеличенном окне предварительного просмотра теперь можно выбрать, какие таблицы рабочей книги - все или только отдельные - вы хотите импортировать из XLSX-файла. Если раньше специальные символы в названиях столбцов и другие особые случаи приводили к нежелательным результатам, то теперь они надежно учитываются. Улучшенные сообщения об ошибках четко указывают на конфликты, особенно при [импорте в хранилище Big Data](https://seatable.io/ru/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/).
 
-![Импорт в Excel](images/Excel-Import.png)
+![Импорт в Excel](Excel-Import.png)
 
 {{< warning headline="Небольшое предвкушение" text="В SeaTable 5.0 мы сделали импорт еще более гибким! Отдельные столбцы таблицы можно выбирать и исключать из импорта." />}}
 
@@ -70,23 +70,23 @@ SeaTable 4.4 делает [импорт таблиц Excel](https://seatable.io/
 
 1. Если у вас есть [Копировальная база](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)Если вы копируете базу в группу, в которую включены общие записи данных, вы можете решить, сохранять ли связь с этими записями данных. Группа, в которую вы копируете базу, конечно же, должна иметь доступ к общим записям данных.
 
-    ![Сохранение ссылки на общий набор данных при копировании базы](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
+    ![Сохранение ссылки на общий набор данных при копировании базы](Retain-link-to-common-dataset-when-copying-a-base.gif)
 
 2. После [Восстановление баз из моментальных снимков](https://seatable.io/ru/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) или [Создание базы из шаблона](https://seatable.io/ru/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) вы можете связать существующие таблицы с общей записью данных и тем самым обеспечить синхронизацию с данными в ней. Ранее записи с общими данными нельзя было повторно импортировать, а только интегрировать в новые таблицы.
 
-    ![Повторный импорт общего набора данных](images/Reimport-common-dataset.gif)
+    ![Повторный импорт общего набора данных](Reimport-common-dataset.gif)
 
 3. Создатель записи общих данных теперь может выбрать [Синхронизация](https://seatable.io/ru/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) всех зависимых таблиц с набором данных и, таким образом, гарантировать, что другие пользователи используют текущее состояние данных в своих базах. Раньше приходилось полагаться на пользователей, настраивающих автоматическую синхронизацию или запускающих ее вручную.
 
-    ![Принудительная синхронизация общего набора данных](images/Force-sync-of-common-dataset.png)
+    ![Принудительная синхронизация общего набора данных](Force-sync-of-common-dataset.png)
 
 ## Значения по умолчанию применяются везде
 
-В версии 4.4 SeaTable обобщает использование [значений по умолчанию](https://seatable.io/ru/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Когда вы создаете новую строку, будь то в таблице базы или приложения, через [колонку ссылок](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [веб-форму](https://seatable.io/ru/docs/webformulare/webformulare/), [кнопку](https://seatable.io/ru/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) или [автоматизацию](https://seatable.io/ru/docs/automationen/automations-aktionen/), значения по умолчанию применяются везде при создании строки. Ранее значения по умолчанию применялись только при создании новой строки в таблице вручную.
+В версии 4.4 SeaTable обобщает использование [значений по умолчанию](https://seatable.io/ru/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Когда вы создаете новую строку, будь то в таблице базы или приложения, через [колонку ссылок](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [веб-форму]({{< relref "help/base-editor/webformulare" >}}), [кнопку](https://seatable.io/ru/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) или [автоматизацию](https://seatable.io/ru/docs/automationen/automations-aktionen/), значения по умолчанию применяются везде при создании строки. Ранее значения по умолчанию применялись только при создании новой строки в таблице вручную.
 
 Поскольку область значений по умолчанию значительно расширилась, мы также создали заметный пункт меню в опциях столбца, с помощью которого вы можете удобно устанавливать значения по умолчанию.
 
-![Значение по умолчанию применяется везде для новых строк](images/Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
+![Значение по умолчанию применяется везде для новых строк](Standardwert-greift-ueberall-bei-neuen-Zeilen.gif)
 
 {{< warning headline="Примечание" text="Если значение по умолчанию определено и в таблице, и в веб-форме, значение из формы применяется ко всем строкам, созданным с помощью формы." />}}
 

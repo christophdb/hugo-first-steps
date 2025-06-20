@@ -24,7 +24,7 @@ Por tanto, la tarea de los museos, exposiciones y galerías públicas es ser un 
 
 La gestión del arte consiste, por tanto, en asumir precisamente este difícil reto y encontrar formas y medios de cumplir en el espacio público las tareas fundamentales antes mencionadas.
 
-![La gestión de exposiciones de arte, museos y muestras requiere flexibilidad de las personas y del software.](images/ausstellungsmanagement-seatable.jpg)
+![La gestión de exposiciones de arte, museos y muestras requiere flexibilidad de las personas y del software.](ausstellungsmanagement-seatable.jpg)
 
 ## Las diferencias entre la gestión artística y la gestión de una empresa
 
@@ -34,7 +34,7 @@ Además, los museos, galerías y exposiciones no sólo tienen que hacer un buen 
 
 Una pequeña muestra del problema la dio la [dimisión de Udo Kittelmann en 2019](https://www.tagesspiegel.de/kultur/staatliche-museen-in-der-krise-udo-kittelmanns-ruecktritt-wirft-ein-schlaglicht-auf-gravierende-probleme/24944096.html). Kittelmann renunció a su puesto al frente de la Galería Nacional Alemana, probablemente la exposición más renombrada de Alemania. Demasiado poco presupuesto y poca libertad en combinación con la permanente necesidad de representación en la política le habían hecho tirar la toalla.
 
-![La gestión del arte difiere de la gestión de una empresa](images/art-management-seatable.jpg)
+![La gestión del arte difiere de la gestión de una empresa](art-management-seatable.jpg)
 
 Pocos museos tienen el mismo atractivo que el Louvre de París. La imagen muestra a visitantes frente a la Mona Lisa.
 
@@ -50,7 +50,7 @@ Además, los objetos de arte a menudo no pertenecen a los museos, sino que se pr
 
 Es tarea de la gestión artística hacer frente a esta complejidad con soluciones digitales. Estas soluciones deben poder hacer frente a cada uno de estos retos y no deben costar demasiado.
 
-![SeaTable como software flexible para museos](images/museumssoftware-seatable.jpg)
+![SeaTable como software flexible para museos](museumssoftware-seatable.jpg)
 
 El software de gestión artística debe ser flexible y sencillo al mismo tiempo. Un reto insoluble para las soluciones habituales del sector
 
@@ -76,7 +76,7 @@ El punto fuerte de SeaTable reside en que usted mismo determina qué informació
 
 Nuestra plantilla [Art Gallery Management]({{< relref "templates/operations/art-gallery-management" >}}) tiene algunas entradas de muestra para mostrarle las posibilidades. Los objetos de arte individuales son el centro de la gestión de la colección y están vinculados a los artistas. Al mismo tiempo, se registra dónde se encuentra actualmente la obra de arte y hay enlaces a las restauraciones y préstamos previstos. En cualquier momento puede añadirse una ampliación para incluir referencias públicas, periodos creativos o categorías artísticas.
 
-![Resumen de objetos de la plantilla de la galería de arte](images/art-gallery-management-objects.png)
+![Resumen de objetos de la plantilla de la galería de arte](art-gallery-management-objects.png)
 
 Resumen de objetos de la plantilla de la galería de arte
 
@@ -84,7 +84,7 @@ Resumen de objetos de la plantilla de la galería de arte
 
 La vista de tabla de SeaTable puede adaptarse de forma flexible a las necesidades de cada uno de sus empleados con vistas individuales. Además, SeaTable tiene otras opciones de visualización aparte de la vista tabular. Para las entradas con imágenes, por ejemplo, puede tener sentido utilizar el [plugin de galería](https://seatable.io/es/docs/handbuch/seatable-nutzen/ansichten/) para obtener una visión clara y encontrar rápidamente la entrada deseada. Un clic en la entrada es suficiente para cambiar a la vista detallada y realizar ajustes en los datos.
 
-![Los artistas se presentan como una galería](images/art-gallery-management-gallery-view.png)
+![Los artistas se presentan como una galería](art-gallery-management-gallery-view.png)
 
 Los artistas, representados en una galería
 
@@ -94,7 +94,7 @@ La organización de una exposición es compleja y requiere una cuidadosa planifi
 
 Todo museo tiene que gestionar multitud de contratos, acuerdos y seguros relacionados con las exposiciones, los préstamos y los objetos. En SeaTable, puede registrar todo tipo de información de forma estructurada y archivar así la documentación completa. Gestione sus documentos en columnas de archivo específicas, reciba recordatorios automáticos por correo electrónico antes de que venza un plazo o controle los costes mensuales mediante las evaluaciones estadísticas.
 
-![Evaluación de los costes mensuales por categoría de gasto](images/art-gallery-management-statistics.png)
+![Evaluación de los costes mensuales por categoría de gasto](art-gallery-management-statistics.png)
 
 Evaluación de los costes mensuales por categoría de gasto
 
@@ -104,7 +104,7 @@ La gestión de contactos y contratos consiste en gestionar todas las personas y 
 
 ¿Quiere guardar la fecha de nacimiento de sus padrinos además de la dirección? Con unos pocos clics, puede añadir otra columna de fecha a su entrada de datos y guardar también esta información. Las posibilidades son casi ilimitadas; por ejemplo, además de datos maestros como el saludo, el nombre, la dirección, el número de teléfono y el correo electrónico, también puede mantener grupos de direcciones y listas de distribución, así como un completo historial de contactos.
 
-![Agrupa y filtra tus contactos](images/art-gallery-contacts.png)
+![Agrupa y filtra tus contactos](art-gallery-contacts.png)
 
 Agrupa y filtra tus contactos
 

@@ -24,7 +24,7 @@ Con SeaTable, Norman Kolwitz, fundador de KD-Cura, quiere ser pionero en su sect
 
 La importancia de la asistencia seguirá aumentando constantemente en los próximos años. El tema de la digitalización aún no ha llegado del todo al sector de la asistencia. Según Norman Kolwitz, en la actualidad todavía hay que emitir una factura analógica para las empresas de asistencia y los seguros de enfermedad, lo que no está a la altura de los tiempos. La digitalización es un paso importante y necesario que debe llegar por fin al sector asistencial. Norman Kolwitz quiere hacer un trabajo pionero con SeaTable y digitalizar por fin los procesos.
 
-![Digitalización de procesos en la atención ambulatoria con SeaTable](images/KD-Cura-pionarbeit-in-der-pflege.jpg)
+![Digitalización de procesos en la atención ambulatoria con SeaTable](KD-Cura-pionarbeit-in-der-pflege.jpg)
 
 ## El crecimiento de los empleados y el deseo de expansión requieren estructuras y procesos claros
 

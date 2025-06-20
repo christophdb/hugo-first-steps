@@ -18,7 +18,7 @@ Pronto llegará de nuevo esa época. Mientras algunos todavía están de luto po
 
 Sus empleados ya ven la oficina y el edificio de la empresa cada semana. ¿Qué le parece un lugar que sus colegas aún no conozcan? Una fiesta de Navidad fuera de la empresa siempre aporta un toque especial y ofrece la oportunidad perfecta para dejar atrás la rutina diaria del trabajo. Dependiendo del presupuesto de que disponga para su fiesta, existen numerosas posibilidades, pero debe planificarlas con suficiente antelación.
 
-![Ideas para una fiesta de Navidad fuera de la empresa](https://seatable.io/wp-content/uploads/2023/07/Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
+![Ideas para una fiesta de Navidad fuera de la empresa](Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
 
 ### Thriller navideño
 
@@ -32,7 +32,7 @@ Aquellos que no quieran perderse los complicados rompecabezas ni siquiera en la 
 
 Termine la fiesta de Navidad con una acogedora reunión con deliciosa comida y bebida. Hoy en día se pueden encontrar salas de escape en todas las grandes ciudades. Sin embargo, esta idea también se puede poner en práctica con Juegos de Escape móviles que puedes distribuir en las mesas de tu fiesta de Navidad. Sólo tienes que pedir que te lleven los utensilios para los rompecabezas al lugar del evento e instruir a los propios invitados en la aventura lúdica.
 
-![Escape Room de Navidad](https://seatable.io/wp-content/uploads/2023/08/theo-crazzolara-HYBL_FAunt0-unsplash.jpg)
+![Escape Room de Navidad](theo-crazzolara-HYBL_FAunt0-unsplash.jpg)
 
 Una elegante cena de misterio o las salas de escape navideñas pueden convertirse en un emocionante evento corporativo.
 
@@ -46,7 +46,7 @@ Tras completar con éxito la excursión, podrá redondear la celebración con un
 
 Fondue de queso y Kaiserschmarrn, además de aguardiente de frutas y otros clásicos, todo ello en un acogedor ambiente de cabaña. ¿Le parece único? Pues sí. Una fiesta en una cabaña es sin duda una de nuestras favoritas cuando se trata de una fiesta de Navidad de empresa. Alquile un lugar en los Alpes u otras montañas pintorescas para su equipo e implemente el Hüttengaudi con decoración y música a juego.
 
-![Una acogedora cabaña rodeada de un paisaje nevado: el lugar perfecto para una fiesta de Navidad en una cabaña](https://seatable.io/wp-content/uploads/2023/07/pexels-mikhail-nilov-6530841-min-711x400.jpg)
+![Una acogedora cabaña rodeada de un paisaje nevado: el lugar perfecto para una fiesta de Navidad en una cabaña](pexels-mikhail-nilov-6530841-min-711x400.jpg)
 
 Una acogedora cabaña rodeada de un paisaje nevado: el lugar perfecto para una fiesta en una cabaña como celebración navideña.
 
@@ -66,7 +66,7 @@ Una vez finalizadas todas las disciplinas y elegidos los ganadores, el evento de
 - **Velada en el castillo:** Invite a sus empleados a una fiesta en un castillo o una casa solariega cercana. El año no puede acabar con una nota más noble.
 - **Mesa redonda caballeresca:** puede celebrar una fiesta de Navidad con comida y bebida como en la Edad Media en castillos, bodegas abovedadas o posadas rústicas.
 
-![Extraordinaria ubicación para la fiesta de Navidad](https://seatable.io/wp-content/uploads/2023/08/nico-benedickt-CpQBg5qyW5M-unsplash-min.jpg)
+![Extraordinaria ubicación para la fiesta de Navidad](nico-benedickt-CpQBg5qyW5M-unsplash-min.jpg)
 
 ¿Qué te parece un castillo de cuento de hadas o un castillo medieval para tu fiesta de Navidad?
 
@@ -74,7 +74,7 @@ Una vez finalizadas todas las disciplinas y elegidos los ganadores, el evento de
 
 Si no desea celebrar su fiesta de Navidad en un lugar externo, sino que prefiere utilizar cómodamente las instalaciones de su empresa, esto no significa en absoluto que su fiesta no pueda ser también extraordinaria. También hay muchas ideas para hacer de su fiesta de Navidad in situ un evento corporativo especial.
 
-![Ideas para la fiesta de Navidad en la empresa](https://seatable.io/wp-content/uploads/2023/07/Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
+![Ideas para la fiesta de Navidad en la empresa](Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
 
 ### Fiesta del lema
 
@@ -84,7 +84,7 @@ Una fiesta temática es un acontecimiento popular que requiere relativamente poc
 
 Convertir su local en un casino es una idea extraordinaria y divertida para su fiesta de Navidad. Lleve la glamurosa sensación de Las Vegas directamente a su empresa. Croupiers profesionales esperan a sus invitados con juegos como el blackjack, el póquer o la ruleta. ¿No suena nada navideño? Pues sí. Con un menú navideño y la decoración adecuada, puede conseguir fácilmente un ambiente navideño.
 
-![Fiesta de Navidad como en el casino](https://seatable.io/wp-content/uploads/2023/08/dusan-kipic-qtD-aRQtMuc-unsplash-min.jpg)
+![Fiesta de Navidad como en el casino](dusan-kipic-qtD-aRQtMuc-unsplash-min.jpg)
 
 Por supuesto, el objetivo de una fiesta de Navidad no es apostar dinero real, sino el humor y la diversión de sus empleados. No obstante, puede ofrecer premios a los empleados que reúnan más fichas a lo largo de la velada. Los proveedores externos le ayudan a organizar la velada, se encargan de los crupieres y le entregan el material de casino.
 
@@ -92,7 +92,7 @@ Por supuesto, el objetivo de una fiesta de Navidad no es apostar dinero real, si
 
 Una idea para la fiesta de Navidad de su empresa que puede llevarse a cabo rápidamente y sin demasiados preparativos es la elaboración conjunta de pasteles de Navidad. Los requisitos para ello son que disponga de una cocina de empresa bien equipada con horno y que su equipo o departamento esté formado por un número manejable de compañeros. Reviva los recuerdos de la infancia y pasen juntos horas acogedoras preparando una gran variedad de galletas navideñas. Las creaciones horneadas resultantes, como medias lunas de vainilla, estrellas de canela y similares, pueden envasarse juntas y, por supuesto, comerse.
 
-![Hornear en Navidad con los compañeros: una idea sencilla para que la fiesta de Navidad de la empresa sea un éxito ](https://seatable.io/wp-content/uploads/2023/07/pexels-nicole-michalou-6061743-min-711x474.jpg)
+![Hornear en Navidad con los compañeros: una idea sencilla para que la fiesta de Navidad de la empresa sea un éxito ](pexels-nicole-michalou-6061743-min-711x474.jpg)
 
 Hornear Navidad con los compañeros: una idea sencilla para que la fiesta de Navidad de la empresa sea un éxito.
 
@@ -126,7 +126,7 @@ Una vez que sepas cuándo, dónde y cómo vas a celebrarlo con tus empleados, de
 
 Probablemente el aspecto más importante de su fiesta de Navidad sea el catering para sus invitados. Unas bebidas selectas y un menú delicioso suelen ser la mitad de la batalla y garantizan el buen humor y la satisfacción de sus invitados. Incluso con un presupuesto relativamente pequeño, tiene varias opciones a su alcance. Visiten juntos un restaurante, contraten un servicio de catering para un bufé o reserven un food truck para ofrecer a sus colegas deliciosa comida in situ. Dependiendo del tamaño de tu equipo y del equipamiento de tu local, también puede ser una buena idea preparar tú mismo una comida de Navidad conjunta.
 
-![Ya sea una visita a un restaurante, un servicio de catering o cocinar juntos: El catering para tus invitados sienta las bases de una fiesta de Navidad de éxito.](https://seatable.io/wp-content/uploads/2023/07/pexels-naim-benjelloun-2291367-min-711x474.jpg)
+![Ya sea una visita a un restaurante, un servicio de catering o cocinar juntos: El catering para tus invitados sienta las bases de una fiesta de Navidad de éxito.](pexels-naim-benjelloun-2291367-min-711x474.jpg)
 
 Ya sea una visita a un restaurante, un servicio de catering o cocinar juntos: El catering para tus invitados sienta las bases de una fiesta de Navidad de éxito.
 
@@ -145,7 +145,7 @@ Si se ha decidido por una de las ideas anteriores, gran parte del programa de su
 2. ¿O prefieres reírte mucho juntos? Por ejemplo, invita a un cómico que dé una charla divertida e interactúe con tus invitados.
 3. Adivinar juntos también aligera el ambiente y, sin duda, proporciona alguna que otra carcajada. Un concurso navideño con un moderador profesional sería perfecto para ello.
 
-![Música para su evento corporativo](https://seatable.io/wp-content/uploads/2023/08/marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg)
+![Música para su evento corporativo](marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg)
 
 ¿Tiene un presupuesto limitado, pero quiere pasar una velada divertida con sus empleados? No hay problema. Incluso así podrá ofrecer a sus colegas un evento de empresa que recordarán durante mucho tiempo. Puedes encargarte tú mismo de algunos puntos del programa: Por ejemplo, crea una lista de reproducción con la música adecuada para tu fiesta de Navidad o prepara tú mismo varios juegos de preguntas y respuestas.
 
@@ -155,6 +155,6 @@ La fiesta anual de Navidad es el mayor acontecimiento de fin de año para muchas
 
 ### Consejos de software para organizar su fiesta de Navidad
 
-Para tenerlo todo controlado a la hora de planificar y organizar su fiesta de Navidad, puede organizar todas las cosas importantes con la solución gratuita de tablas y bases de datos [SeaTable](https://seatable.io/es/event-planen/). Por ejemplo, puede utilizar un [formulario web](https://seatable.io/es/docs/webformulare/webformulare/) para inscribir a sus invitados. Compare fácilmente los precios y ofertas de diferentes lugares y organizadores de eventos o calcule los costes de la comida y la bebida. Varias funciones para visualizar sus datos (por ejemplo, línea de tiempo, calendario, mapa, tablero Kanban o estadísticas) le ofrecen la oportunidad de preparar a la perfección la próxima fiesta de Navidad de su empresa.
+Para tenerlo todo controlado a la hora de planificar y organizar su fiesta de Navidad, puede organizar todas las cosas importantes con la solución gratuita de tablas y bases de datos [SeaTable](https://seatable.io/es/event-planen/). Por ejemplo, puede utilizar un [formulario web]({{< relref "help/base-editor/webformulare" >}}) para inscribir a sus invitados. Compare fácilmente los precios y ofertas de diferentes lugares y organizadores de eventos o calcule los costes de la comida y la bebida. Varias funciones para visualizar sus datos (por ejemplo, línea de tiempo, calendario, mapa, tablero Kanban o estadísticas) le ofrecen la oportunidad de preparar a la perfección la próxima fiesta de Navidad de su empresa.
 
 Pruebe la [plantilla]({{< relref "templates/events/event-management" >}}) SeaTable registrándose [aquí]({{< relref "pages/registration" >}}) de forma gratuita. Por supuesto, puede rellenar las tablas con sus propios datos y personalizarlas para adaptarlas a sus necesidades.

@@ -21,7 +21,7 @@ In this article, we will show you how a remote sales team can optimally manage a
 
 With fewer and fewer face-to-face contacts, it's critical for the sales team to stay connected and productive in a remote work environment. Below are some best strategies and practices you can implement to increase the performance and efficiency of your remote sales team.
 
-![Remote teams at work](images/sigmund-eTgMFFzroGc-unsplash-scaled-e1686045067675.jpg)
+![Remote teams at work](sigmund-eTgMFFzroGc-unsplash-scaled-e1686045067675.jpg)
 
 Working in remote teams requires different strategies and practices to increase performance and efficiency.
 
@@ -45,7 +45,7 @@ Collaborating across different geographic regions and time zones is not easy. Go
 
 [SeaTable](https://seatable.io/en/) is another best-in-class collaborative information management application. The no-code application has solutions for [marketing](https://seatable.io/en/marketing/), [sales](https://seatable.io/en/vertrieb/) and [project management](https://seatable.io/en/projektmanagement/) that help remote sales teams capture, structure and evaluate different types of information.
 
-![SeaTable offers several solutions for remote sales teams that assist in collecting, structuring and analyzing different types of information](images/Ansicht_Offers.png)
+![SeaTable offers several solutions for remote sales teams that assist in collecting, structuring and analyzing different types of information](Ansicht_Offers.png)
 
 SeaTable offers various solutions for remote sales teams that assist in collecting, structuring and evaluating different types of information.
 
@@ -65,7 +65,7 @@ According to [recent sales statistics](https://www.heinzmarketing.com/2015/02/15
 
 Sales process automation helps the remote sales team perform better by keeping them in the workflow and saving their valuable time and energy. Managers can effectively scale their sales team and decide where to direct effort for optimal results.
 
-![SeaTable already offers many pre-built templates for remote sales teams.](images/templates-crm-remote.png)
+![SeaTable already offers many pre-built templates for remote sales teams.](templates-crm-remote.png)
 
 SeaTable already offers many pre-built templates for remote sales teams.
 
@@ -85,7 +85,7 @@ It is said that engaged employees are more productive than those with little con
 
 To this end, it is important to take preventive measures to encourage workers and reduce factors that frustrate them. In addition, you should share common successes with team members and offer them support so that they can achieve great successes themselves.
 
-![Social interactions in remote teams boost communication skills, make meetings more productive and create good team relationships](images/antenna-ZDN-G1xBWHY-unsplash-scaled-e1686045663343-711x474.jpg)
+![Social interactions in remote teams boost communication skills, make meetings more productive and create good team relationships](antenna-ZDN-G1xBWHY-unsplash-scaled-e1686045663343-711x474.jpg)
 
 Social interactions in remote teams enhance communication skills, make meetings more productive, and create good team relationships.
 

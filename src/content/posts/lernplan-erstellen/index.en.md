@@ -19,7 +19,7 @@ Whether it's your **A-level exams** or your **university exams**, a well-thought
 
 If you want to create a learning plan, you should first define a clear learning objective. Determine exactly what **content** you need to master and by what **deadline**. Make sure that your goals are **realistic** and the content is **relevant** so that you don't become stressed during the learning phase.
 
-![Darts stuck in the middle of a dartboard](images/darts-board-711x474.jpg)
+![Darts stuck in the middle of a dartboard](darts-board-711x474.jpg)
 
 A clearly defined learning objective is the starting point for a successful learning plan.
 
@@ -29,7 +29,7 @@ In order to track your progress during the learning process, your goals should b
 
 Before you create a learning plan, it is essential to collect and structure all the learning material. Start by gaining a **comprehensive overview** of all relevant topics and **sorting out unimportant information**. Make a note of the sources for the important content, for example **textbooks**, **lecture slides**, **specialist articles** or your own **notes** from lessons.
 
-![Create a learning plan: Fanned out books from above](images/top-view-books-arrangement-711x400.jpg)
+![Create a learning plan: Fanned out books from above](top-view-books-arrangement-711x400.jpg)
 
 When collecting learning materials, also consider their quality.
 
@@ -39,7 +39,7 @@ It is then important to systematically structure all the collected materials in 
 
 Now that you have identified all the relevant topics for the exam, it is time to break them down into **smaller learning packages**. This will allow you to grasp and process the learning material more efficiently. By breaking it down into manageable units, you prevent yourself from feeling overwhelmed by the wealth of material and losing focus.
 
-![Create a learning plan: Electronic parts are scattered around](images/unnamed-file-711x533.jpg)
+![Create a learning plan: Electronic parts are scattered around](unnamed-file-711x533.jpg)
 
 Smaller units make it easier to process and understand.
 
@@ -49,7 +49,7 @@ In addition, it is advisable to assess the **level of difficulty** of the indivi
 
 While you are creating your learning plan, it is also worth taking a look at different learning methods and identifying the one that **suits** you best. Learning methods are strategies that aim to maximize learning success by promoting the consolidation of knowledge. Given the variety of methods available, it is important to choose those that best suit your **individual needs** and possibly combine different methods.
 
-![A hand turns the page of a book](images/book-6957870_1280-711x474.jpg)
+![A hand turns the page of a book](book-6957870_1280-711x474.jpg)
 
 It is helpful to try out different learning methods.
 
@@ -81,7 +81,7 @@ The [Pomodoro technique](https://de.wikipedia.org/wiki/Pomodoro-Technik) consist
 
 Now that you have structured your learning content, it is time to create a detailed schedule for your learning sessions. This plan will help you to achieve your learning goals efficiently and maintain a healthy balance between **learning**, **everyday life** and **free time**.
 
-![Create a learning plan: An alarm clock on a desk](images/time-2980690_1280-711x474.jpg)
+![Create a learning plan: An alarm clock on a desk](time-2980690_1280-711x474.jpg)
 
 A detailed schedule helps to organize the learning process and meet deadlines.
 
@@ -99,7 +99,7 @@ An important aspect of motivation is the **personal relevance** of the learning 
 
 It is also beneficial to **link** the information with existing knowledge. Therefore, try to establish a connection between the learning material and your previous knowledge. Practice makes perfect: by **applying** abstract learning content using concrete examples, you can consolidate your knowledge.
 
-![Create a learning plan: Sign on the desk with the inscription "You got this"](images/pexels-prateekkatyal-2740956-711x474.jpg)
+![Create a learning plan: Sign on the desk with the inscription "You got this"](pexels-prateekkatyal-2740956-711x474.jpg)
 
 Motivation can be influenced by various factors.
 
@@ -109,7 +109,7 @@ If you keep your learning goals in mind, you can be sure that you are on the rig
 
 Reflection is a crucial step in the learning process as it allows you to assess your progress, rethink your learning plan and make **adjustments** where necessary. Record your progress by regularly reviewing your level of knowledge. Consider whether you can still achieve the goals you have set yourself or whether a course correction is necessary. Perhaps your learning methods or goals have changed during the learning process - and it is important to acknowledge reality and adjust your learning plan accordingly.
 
-![Create a learning plan: Face reflected in a piece of glass](images/vince-fleming-Vmr8bGURExo-unsplash-711x474.jpg)
+![Create a learning plan: Face reflected in a piece of glass](vince-fleming-Vmr8bGURExo-unsplash-711x474.jpg)
 
 Reflection on the learning plan enables continuous improvement of learning.
 

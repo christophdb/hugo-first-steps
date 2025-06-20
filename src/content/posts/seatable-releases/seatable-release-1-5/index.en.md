@@ -23,7 +23,7 @@ Given that most users spend most of their time in SeaTable in the table editor, 
 
 Modals were more common in earlier versions of SeaTable. For example, the dialogs for 'Insert Column' and 'Adjust Column Type' were such [modals](https://en.wikipedia.org/wiki/Modal_window), where the controls appear in the foreground and the background is hidden. Although they have served us well so far, modals offer room for improvement in terms of ease and work efficiency: when the modal opens in the middle of the screen, it causes the user to move there with the mouse. More seriously, disabling scrollbars means that relevant information cannot be brought out from behind a modal when a modal covers it. So what did we do? We replaced the modals with non-modal menus that provide all the functionality of their predecessors without their drawbacks.
 
-![Modals were replaced with nonmodal menus](images/Nonmodal_Menus.png)
+![Modals were replaced with nonmodal menus](Nonmodal_Menus.png)
 
 ### Simplified menus
 
@@ -35,7 +35,7 @@ The options menu in single and multiple select columns is another menu that we c
 
 SeaTable 1.5 now makes the wizard even more powerful by adding an edit to the existing display function! A click on a linked record opens the record's row details. Any edits made there are written to the linked table. If the linked table needs to be accessed, a link atop the record's details provides one-click access.
 
-![Linked records can now be edited right from the link other records column](images/Editing_Linked_Records_With_Wizard.png)
+![Linked records can now be edited right from the link other records column](Editing_Linked_Records_With_Wizard.png)
 
 ### Let's get precise
 
@@ -57,7 +57,7 @@ The map and the timeline plugin have also seen their fair share of improvements.
 
 Imagine you want to share a base with your team members with different access rights: All colleagues should have at least read access, but some colleagues should have read-write access to a few tables, and a few hand-picked colleagues should have full access to all tables. Sounds complicated to implement and in fact it was. One base had to be split into several bases and then shared with the different groups with different rights. Until now!
 
-![SeaTable 1.5 now supports custom sharing permissions](images/Custom_Sharing_Permission.png)
+![SeaTable 1.5 now supports custom sharing permissions](Custom_Sharing_Permission.png)
 
 In the new version we introduce user-defined release permissions. Thanks to them, the scenario just mentioned is possible without much headache. A custom share permission consists of individual access rights for all tables and views in a base. With a custom share permission, you can, for example, grant read access to one table but extended read-write access to another table in the base. But that's not all: custom shares can also be specified at the view level. You can therefore grant read-write access to a specific view of a table, but read-only access to the default view. If you do not want to grant access to a table or view at all, that is also possible. Simply grant neither read nor read-write access. And best of all, you can define as many custom [share permissions](https://seatable.io/en/docs/handbuch/zusammenarbeit/freigaben/) as you want for each base. Have you been longing for more granular permission management in SeaTable? Now you have it!
 
@@ -67,7 +67,7 @@ SeaTable's powerful web forms have proven to be a very sought after feature in r
 
 Based on customer feedback and in hopes of helping this suffering industry, we have added three options to customize the web forms: First, custom "Thank you for your participation" messages can now be created. You want to send a special thank you to your guests or provide further information after they have answered the questions, SeaTable 1.5 allows you to do just that. Secondly, automatic forwarding has been a much requested feature. It is our pleasure to implement it in this new version as well. If a forwarding address is specified, SeaTable will automatically forward to that address. Thirdly, we have also made the hint functions more flexible. In addition to the form hint at the bottom of the form, there is now also the possibility to display a hint in front of the form fields.
 
-![SeaTable's webforms now offer more customisation options](images/Extra_Customization_Options_Webforms.png)
+![SeaTable's webforms now offer more customisation options](Extra_Customization_Options_Webforms.png)
 
 We are crossing our fingers that the Corona pandemic will be something for the history books very soon. Yet, if the pandemic is with us for longer, we hope that these improvements will help SeaTable users in the hard-hit restaurant industry.
 

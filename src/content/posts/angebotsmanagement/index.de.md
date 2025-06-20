@@ -13,7 +13,7 @@ seo:
 
 Eine Sache ist entscheidend für eine erfolgreiche Vertriebsarbeit: das **Angebotsmanagement**. Doch worauf kommt es dabei an? Welche Fehler sollten auf keinen Fall auftauchen? Und was steckt überhaupt hinter dem Begriff „Angebotsmanagement“?
 
-Die Antworten auf diese Fragen und warum sinnvolle Software und [Online-Tools](https://seatable.io/agiles-projektmanagement-tools/) Ihnen entscheidend bei Ihrem Angebotsmanagement helfen können, erfahren Sie in diesem Artikel.
+Die Antworten auf diese Fragen und warum sinnvolle Software und [Online-Tools]({{< relref "posts/20250308-projektmanagement-methoden" >}}) Ihnen entscheidend bei Ihrem Angebotsmanagement helfen können, erfahren Sie in diesem Artikel.
 
 ## Angebotsmanagement – Definition und Keyfacts
 
@@ -43,11 +43,11 @@ Die Angebotsvorbereitung legt den Grundstein für Ihr optimales Angebotsmanageme
 Nach den ersten Gesprächen mit dem potenziellen neuen Kunden, kennen Sie seine „Needs“ und wissen, welche Lösungen ihm helfen. Nun geht es um den zweiten Schritt des Angebotsmanagements, die Angebotserstellung. Doch was muss im Angebot stehen? Auf der sicheren Seite sind Sie, wenn Sie diese vier Aspekte berücksichtigen:
 
 - Spezifizierung der Lösung
-- [Preiskalkulation](https://seatable.io/budgetplanung-vorlage/)
+- [Preiskalkulation]({{< relref "templates/finance/budget-book" >}})
 - Erstellung eines schriftlichen Angebots
 - Versenden des schriftlichen Angebots an den Kunden
 
-![Mitarbeiterin kalkulliert Preis im Rahmen des Angebotsmanagement](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![Mitarbeiterin kalkulliert Preis im Rahmen des Angebotsmanagement](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
 
 Angebotsmanagement © Antonioguillem / adobe stock
 
@@ -88,7 +88,7 @@ Ein weiterer häufiger Fehler im Angebotsmanagement ist, dass der Verkäufer sic
 
 Zum perfekten Angebotsmanagement gehört auch, dass Sie nach geraumer Zeit nachhaken, sollte der Kunde sich nicht von selbst zurückmelden. So zeigen Sie nicht nur, dass er Ihnen wichtig ist (Thema Kundenbindung), sondern können mögliche Unklarheiten oder Fragen direkt aus dem Weg räumen und das Angebot ggf. nochmals anpassen.
 
-![Vertriebsmitarbeiter telefoniert mit dem potentiellen Kunden im Rahmen seines Angebotsmanagements.](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![Vertriebsmitarbeiter telefoniert mit dem potentiellen Kunden im Rahmen seines Angebotsmanagements.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
 
 Angebotsmanagement © Patrick Daxenbichler / adobe stock
 
@@ -96,7 +96,7 @@ Angebotsmanagement © Patrick Daxenbichler / adobe stock
 
 Ein passgenaues Angebotsmanagement realisiert sich nicht von allein. Dafür sind zu viele Aspekte zu berücksichtigen. Um den Überblick zu behalten und sämtliche Prozesse so effizient und effektiv wie möglich organisieren, hat es große Vorteile, die komplette Angebotsbearbeitung mittels Software zu managen.
 
-Dafür bietet der Markt heute schon einige Softwarelösungen, die vielseitig sind und sich flexibel auf die Anforderung des Vertriebs anpassen lassen. Ob [klassisches CRM](https://seatable.io/crm-angebotsmanagement/), Customer Service oder andere [Sales-Bereiche](https://seatable.io/vertrieb/) – mit den passenden Tools vereinen Sie Ihr komplettes Vertriebsgeschäft in einem System und reduzieren die Komplexität des Angebotsmanagements auf ein Minimum. Zu den bekanntesten Tools für ein digitales Angebotsmanagement gehören HubSpot, SAP CRM oder ActiveCampaign.
+Dafür bietet der Markt heute schon einige Softwarelösungen, die vielseitig sind und sich flexibel auf die Anforderung des Vertriebs anpassen lassen. Ob [klassisches CRM]({{< relref "posts/crm-angebotsmanagement" >}}), Customer Service oder andere [Sales-Bereiche](https://seatable.io/vertrieb/) – mit den passenden Tools vereinen Sie Ihr komplettes Vertriebsgeschäft in einem System und reduzieren die Komplexität des Angebotsmanagements auf ein Minimum. Zu den bekanntesten Tools für ein digitales Angebotsmanagement gehören HubSpot, SAP CRM oder ActiveCampaign.
 
 Wer das Rund-um-Sorglos-Paket für sein Angebotsmanagement sucht, findet mit [SeaTable](https://seatable.io/) eine optimale, kostengünstige Alternative. Mit den Funktionen dieses Tools können Sie sämtliche Vertriebsprozesse automatisieren und alle Daten mittels integriertem Webformular unkompliziert sammeln. Für das Lösen von Kundenproblemen, die Beantwortung von Anfragen und das Sortieren von Feedback ist das ein großes Plus.
 

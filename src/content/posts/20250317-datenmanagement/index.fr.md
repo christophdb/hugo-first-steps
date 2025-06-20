@@ -121,7 +121,7 @@ La tendance observée est l'utilisation croissante de solutions de gestion des d
 
 La [base de données No-Code SeaTable]({{< relref "/" >}}) vous permet de stocker, de consulter et d'analyser efficacement vos données sans avoir besoin de connaissances SQL ou d'autres expériences techniques préalables. Vous pouvez non seulement structurer et relier facilement des données, mais aussi stocker des fichiers, des images et des documents.
 
-Contrairement à d'autres bases de données relationnelles, l'interface utilisateur **graphique** de SeaTable vous permet d'effectuer directement des analyses. De nombreuses statistiques sont à votre disposition pour des analyses plus approfondies. Si cela ne vous suffit pas, vous pouvez visualiser vos données à l'aide de [plugins](https://seatable.io/docs/plugins/alle-plugins-in-der-uebersicht/) dans des galeries, des calendriers, des organigrammes, etc.
+Contrairement à d'autres bases de données relationnelles, l'interface utilisateur **graphique** de SeaTable vous permet d'effectuer directement des analyses. De nombreuses statistiques sont à votre disposition pour des analyses plus approfondies. Si cela ne vous suffit pas, vous pouvez visualiser vos données à l'aide de [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) dans des galeries, des calendriers, des organigrammes, etc.
 
 Le **No-Code-App-Builder** de SeaTable vous permet de construire vos propres applications sans connaissances en programmation et de contrôler ainsi de manière ciblée l'accès aux données de votre base de données. Pour la conception de l'application, il existe des types de pages prédéfinies avec des éléments visuels que vous pouvez facilement assembler par glisser-déposer.
 

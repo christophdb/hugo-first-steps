@@ -297,7 +297,7 @@ Uma vez que isto não pretende ser um tutorial de desenho, limitar-me-ei a estru
 Crie um novo directório para o seu projecto e copie estes ficheiros HTML.  
 Quando abre os ficheiros HTML com o seu navegador, a página inicial, por exemplo, deve ter este aspecto.
 
-![Aspecto das suas páginas HTML para a sua aplicação SeaTable com frontend próprio](images/html-struktur-eigenes-frontend-seatable-entwickeln.png)
+![Aspecto das suas páginas HTML para a sua aplicação SeaTable com frontend próprio](html-struktur-eigenes-frontend-seatable-entwickeln.png)
 
 ## Passo 2: Ligação da SeaTable via SeaTable PHP API
 

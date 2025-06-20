@@ -35,11 +35,11 @@ Für Ihr Online-Terminbuchungssystem benötigen Sie zwei Bases. Sie können dies
 
 In der **ersten Base** (Meeting Availability) werden alle Termine eingepflegt, an denen Sie frei verfügbar sind. Die **zweite Base** (Meeting Schedule) enthält alle Meetings oder Termine, die bereits von Ihren Kunden über die Formulare gebucht wurden. Sie erscheinen nach dem Abschicken des Formulars automatisch in der Tabelle.
 
-![Für ein Terminbuchungssystem mit SeaTable benötigen Sie zwei Tabellen](https://seatable.de/wp-content/uploads/2021/04/Overview-1.jpg)
+![Für ein Terminbuchungssystem mit SeaTable benötigen Sie zwei Tabellen](Overview-1.jpg)
 
 ### Erste Tabelle: Legen Sie Ihre Zeitslots fest
 
-![So geben Sie eine exakte Uhrzeit bei Ihren Zeitslots für Ihr Terminbuchungssystem ein.](https://seatable.io/wp-content/uploads/2021/04/Uhrzeit_Rahmen.jpg)
+![So geben Sie eine exakte Uhrzeit bei Ihren Zeitslots für Ihr Terminbuchungssystem ein.](Uhrzeit_Rahmen.jpg)
 
 Die erste Tabelle “Meeting Availability” besteht aus **4 Spalten**. In der **ersten Spalte** tragen Sie alle verfügbaren Termine ein, die Sie anbieten können. Wählen Sie hierzu das Datumsformat mit Uhrzeit aus (hierbei den Regler auf “accurate to minute” schieben). Sie können auch manuelle Uhrzeiten einstellen, die nicht im Datumsfenster angezeigt werden; dazu geben Sie die Uhrzeit in der Leiste oben selbst ein.
 
@@ -55,23 +55,23 @@ Mit der Farbfunktion können Sie übrigens mit automatisierten Regeln die Zeilen
 
 Die zweite Tabelle bildet die Basis für Ihr Terminbuchungssystem mit Webformular. Sie sehen im folgenden Bild verschiedene Spalten, die die Informationen der Teilnehmer beinhaltet. Jede Spalte, die Sie hier erstellen, kann nachher im Webformular genutzt werden. Sie können mit den Spaltentypen direkten Einfluss auf die Eingabe von Daten im Formular nehmen. Wenn Sie etwa ein Freitext-Feld haben möchten, so wählen Sie Spalten mit Textfunktion. Soll es eine Art Dropdown-Menü geben, so eignet sich hierfür die Einfach- oder Mehrfachauswahl. Sie sehen die verknüpfte Spalte “Meeting Availability” – die Verknüpfung wird also in beiden Tabellen mit den entsprechenden Informationen aus der 1. Spalte angezeigt.
 
-![Für Ihr Terminbuchungssystem ist diese Tabelle besonders relevant, da mit diesen Spalten das Buchungssystem gestaltet wird](https://seatable.de/wp-content/uploads/2021/04/Teilnehmer-1.jpg)
+![Für Ihr Terminbuchungssystem ist diese Tabelle besonders relevant, da mit diesen Spalten das Buchungssystem gestaltet wird](Teilnehmer-1.jpg)
 
 Mit der Bildung dieser Spalten geht es jetzt an das Webformular. Dafür wählen Sie oben “Forms”, und erstellen dann ein neues Webformular mit der Einstellung “Traditional Form”. Hier können die Teilnehmer nicht selbst auf die Tabelle und die Daten zugreifen. Es öffnet sich eine Formularmaske, bei der Sie nun alle anzuzeigenden Spalten beschriften können.
 
 Wählen Sie dabei die Tabelle aus, in der Sie die Spalten für die Informationsabfrage erstellt haben (hier: “Meeting Schedule”). Sie können selbst auswählen, welche Spalten im Formular angezeigt werden sollen. Hier ist es sinnvoll, alle Spalten mit in das Formular aufzunehmen. Sie können nun jedes Eingabefeld als Pflichtfeld deklarieren oder einen Beschreibungstext hinzufügen, ebenso wie Ihr persönliches **Firmenlogo als Header** einfügen. Damit erhalten Sie Ihr ganz persönliches Terminbuchungssystem.
 
-![Im Webformular können Sie Ihr Terminbuchungssystem nach Ihren Wünschen einrichten.](https://seatable.de/wp-content/uploads/2021/04/1st-form.jpg)
+![Im Webformular können Sie Ihr Terminbuchungssystem nach Ihren Wünschen einrichten.](1st-form.jpg)
 
 Sie können Ihr Formular ganz nach Ihren Wünschen beschriften. Informationen in Form von **form notes** geben den Teilnehmern hilfreiche Hinweise, was es in Ihrem Terminbuchungssystem zu beachten gibt.
 
 Sie können Auswahlmöglichkeiten auch an Bedingungen knüpfen. In unserem Beispiel gibt es drei Möglichkeiten, den Termin abzuhalten: Persönlich, per Videocall oder per Telefon. Im Falle eines Telefonats ist die Nummer des Teilnehmers zwingend notwendig, daher wurde die Spalte “Phone Number” an die Bedingung geknüpft, erst zu erscheinen, wenn die Option “Phone call” ausgewählt wurde.
 
-![Spalten können mit Bedingungen verknüpft werden. Sie erscheinen erst, wenn eine bestimmte Eingabe eingetreten ist.](https://seatable.de/wp-content/uploads/2021/04/2nd-form.jpg)
+![Spalten können mit Bedingungen verknüpft werden. Sie erscheinen erst, wenn eine bestimmte Eingabe eingetreten ist.](2nd-form.jpg)
 
 ## Termine begrenzen – so geht keine Buchung mehr schief
 
-![Mit diesen Filtern werden nur freie Termine und solche in der Zukunft angezeigt](https://seatable.de/wp-content/uploads/2021/06/frei-zukunft.jpg)
+![Mit diesen Filtern werden nur freie Termine und solche in der Zukunft angezeigt](frei-zukunft.jpg)
 
 Vergebene Termine sollten anderen Teilnehmern natürlich nicht mehr angeboten werden, ebenso wenig wie Termine, die in der Vergangenheit liegen. Das kann zum einen mit der Verknüpfung von Calendly und SeaTable erfolgen, wenn Sie dieses System bereits nutzen.
 
@@ -79,7 +79,7 @@ Mit SeaTable sind zum anderen aber nur ein paar kleine Handgriffe nötig, um Ihr
 
 Damit auch nur Termine in der Zukunft angezeigt werden, und nicht die von letzter Woche, muss ein zweiter Filter eingestellt werden: Mit der Bedingung “And” und dem Filter “Time Slots after today” werden nur noch Termine ab dem aktuellen Tag angezeigt. Auf diese Weise haben Sie nur noch freie und buchbare Zeitslots in dieser Ansicht.
 
-![Die Spaltenfunktion beschränkt mehrfaches Auswählen](https://seatable.de/wp-content/uploads/2021/06/Allow-1-row.jpg)Damit dies auch im Terminbuchungssystem so übernommen wird, muss die Spalte in der Tabelle “Meeting Schedule” auch angepasst werden. Dafür müssen lediglich die Spalteneinstellungen geöffnet und die Zeilen auf eine Ansicht beschränkt werden. Hierzu wird die eben erstelle Ansicht mit den zwei Filtern ausgewählt und gleichzeitig die Funktion deaktiviert, bei der Teilnehmer mehrere Daten auswählen können. Das heißt: Es kann nur je ein Termin gebucht werden und es wird nur auf die freien und zukünftigen Daten aus der 2. Ansicht zugegriffen.
+![Die Spaltenfunktion beschränkt mehrfaches Auswählen](Allow-1-row.jpg)Damit dies auch im Terminbuchungssystem so übernommen wird, muss die Spalte in der Tabelle “Meeting Schedule” auch angepasst werden. Dafür müssen lediglich die Spalteneinstellungen geöffnet und die Zeilen auf eine Ansicht beschränkt werden. Hierzu wird die eben erstelle Ansicht mit den zwei Filtern ausgewählt und gleichzeitig die Funktion deaktiviert, bei der Teilnehmer mehrere Daten auswählen können. Das heißt: Es kann nur je ein Termin gebucht werden und es wird nur auf die freien und zukünftigen Daten aus der 2. Ansicht zugegriffen.
 
 Sie können sich selbst unter den Benachrichtigungseinstellungen (drei Punkte rechts oben) einen automatisierten Benachrichtigungsmechanismus einbauen, der Sie etwa an bevorstehende Termine erinnert oder Sie darüber informiert, dass soeben ein Termin über das Terminbuchungssystem gebucht wurde.
 

@@ -38,7 +38,7 @@ En SeaTable 5.1, este tipo de página - al igual que las páginas de tabla y de 
 
 La barra de herramientas ofrece un nuevo **generador de códigos QR**. El código QR contiene el enlace a la entrada mostrada en ese momento. Si se adjunta a un objeto o dispositivo, todos los datos pueden consultarse en la aplicación a través de una tableta o un smartphone sin necesidad de introducir el teclado. Esto facilita aún más, por ejemplo, la gestión de inventarios.
 
-![Más opciones de diseño en la página de registro único en SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/SingleRecordPage.png)
+![Más opciones de diseño en la página de registro único en SeaTable 5.1](SingleRecordPage.png)
 
 Este tipo de página también ofrece más opciones de diseño visual en SeaTable 5.1. Si ha incrustado campos de tabla en la página, antes sólo podía configurar el formato del nombre del campo. Para todos los tipos de columnas basadas en texto y números, ahora también tiene la opción de configurar el **tamaño de la fuente, el peso de la fuente, el color de la fuente y la alineación de los valores del campo**.
 
@@ -62,7 +62,7 @@ La novedad más llamativa es probablemente **la ampliación de los menús contex
 
 Casi igual de notable es el **aviso amarillo** que aparece en las vistas normales en las columnas de enlace si la tabla enlazada contiene filas en el almacén de big data. El aviso aclara que las entradas enlazadas en el almacén de big data no son visibles en la celda de la columna de enlace. Si desea visualizarlas, haga clic en el icono para abrir la lista de entradas enlazadas.
 
-![Diálogo de registros archivados vinculados en SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/LinkedArchivedRows.png)
+![Diálogo de registros archivados vinculados en SeaTable 5.1](LinkedArchivedRows.png)
 
 En respuesta a muchas peticiones de los usuarios, la **operación de procesamiento de datos** [comparar y unir](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) ahora también está disponible en las vistas de big data. Esta operación puede enlazar entradas del almacén de big data con filas de cualquier otra tabla, independientemente de si las filas de la tabla enlazada están almacenadas en la base o en el almacén de big data.
 
@@ -74,7 +74,7 @@ Para aumentar la trazabilidad de los cambios en las filas de la memoria de big d
 
 Aunque las apps pueden acceder a los datos del almacén de big data, las entradas creadas en las apps no podían guardarse allí directamente. Las nuevas entradas siempre se guardaban en la base. Hemos cerrado esta brecha funcional con SeaTable 5.1. La base sigue siendo la **ubicación de almacenamiento predeterminada para las nuevas entradas**; sin embargo, esta configuración se puede cambiar en la [configuración de la aplicación](https://seatable.io/es/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). Como muestra la captura de pantalla, puede especificar para cada tabla si las nuevas filas deben escribirse en la base o en la memoria de big data.
 
-![Nueva gestión de big data en el App Builder de SeaTable](https://seatable.io/wp-content/uploads/2024/11/BigDataManagement_AppBuilder.png)
+![Nueva gestión de big data en el App Builder de SeaTable](BigDataManagement_AppBuilder.png)
 
 Sin embargo, no sólo hemos mejorado la integración con las aplicaciones, el [plugin de diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) también ofrece nuevas posibilidades. El plugin ahora tiene acceso al almacenamiento de big data y puede **crear documentos para filas en el almacenamiento de big data**.
 
@@ -82,7 +82,7 @@ Sin embargo, no sólo hemos mejorado la integración con las aplicaciones, el [p
 
 Después de tres nuevos plugins en [la versión 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), la versión 5.1 también amplía la lista de plugins SeaTable disponibles: el nuevo plugin Árbol permite la visualización tabular compacta de registros de datos vinculados relacionalmente. Independientemente de si se analizan datos financieros (como en la captura de pantalla siguiente), datos de proyectos, datos de uso u otros datos, el nuevo plugin proporciona una visión general que antes no existía.
 
-![Plugin del árbol](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
+![Plugin del árbol](TreePlugin.png)
 
 Actualmente, en el complemento pueden mostrarse jerarquías de hasta tres niveles, es decir, datos de tres tablas. Las relaciones se definen mediante enlaces. Puede consultar los detalles de cada registro de datos directamente en el complemento y también añadir nuevos registros de datos.
 
@@ -92,7 +92,7 @@ Una vez más, hay más novedades en esta versión de las que podemos presentar e
 
 Se ha añadido una nueva función al **editor de fórmulas**: **rowid()** devuelve el ID de la fila. Esto puede utilizarse, por ejemplo, para acciones de botón o automatizaciones. Sin embargo, hay nuevas funciones no sólo en la [columna](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/) de fórmulas, sino también en el tipo de columna de fórmulas para enlaces: [Las búsquedas](https://seatable.io/es/docs/verknuepfungen/die-lookup-funktion/) ofrecen ahora una comprobación de duplicados. Si la opción **No mostrar duplicados** está activada, sólo se muestran valores únicos en cada celda de la columna.
 
-![Selector de color introducido SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/ColorPicker.png)
+![Selector de color introducido SeaTable 5.1](ColorPicker.png)
 
 En SeaTable 5.1, hemos mejorado el resaltado de sintaxis en el **editor Python** integrado para que le resulte aún más fácil hacer un seguimiento de [los scripts](https://seatable.io/es/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/). También hemos corregido un error con la sangría automática.
 

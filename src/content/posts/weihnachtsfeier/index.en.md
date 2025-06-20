@@ -18,7 +18,7 @@ Do you drink mulled wine with your colleagues at the Christmas market every year
 
 Your employees already see the office and the company building every week. So how about somewhere your colleagues don't know yet? A Christmas party outside the company always brings a special flair and offers the perfect opportunity to leave the daily work routine behind. Depending on the budget you have available for your party, there are plenty of options, but you should plan far enough in advance.
 
-![Ideas for a Christmas party outside the company premises](images/Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
+![Ideas for a Christmas party outside the company premises](Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
 
 ### Christmas Thriller
 
@@ -32,7 +32,7 @@ If you don't want to miss out on tricky puzzles even at your Christmas party, yo
 
 Let the Christmas party end with a cozy get-together with delicious food and drinks. Escape rooms are now available in every major city. However, this idea can also be implemented with mobile Escape Games, which you can distribute on the tables at your Christmas party. Simply have the utensils for the puzzles delivered to your event location and instruct the guests themselves in the playful adventure.
 
-![Christmas Escape Room](images/theo-crazzolara-HYBL_FAunt0-unsplash.jpg)
+![Christmas Escape Room](theo-crazzolara-HYBL_FAunt0-unsplash.jpg)
 
 A stylish mystery dinner or Christmas Escape Rooms can make for an exciting corporate event.
 
@@ -46,7 +46,7 @@ After successfully completed hike, you can still end the celebration with a deli
 
 Cheese fondue and Kaiserschmarrn, plus fruit brandy and other classics - all in a cozy hut flair. Sounds unique? It is! A Hüttengaudi is definitely one of our favorites when it comes to a company Christmas party. Rent a location in the Alps or other picturesque mountains for your team and implement the Hüttengaudi with matching decorations and music.
 
-![A cozy hut surrounded by a snowy landscape: the perfect locationfor a hut party as a Christmas party](images/pexels-mikhail-nilov-6530841-min-711x400.jpg)
+![A cozy hut surrounded by a snowy landscape: the perfect locationfor a hut party as a Christmas party](pexels-mikhail-nilov-6530841-min-711x400.jpg)
 
 A cozy hut surrounded by a snowy landscape: the perfect location for a hut party as a Christmas party.
 
@@ -66,7 +66,7 @@ Want to party away, but our top 5 haven't convinced you yet? Here are some more 
 - **Soirée in the castle:** Invite your employees to a feast in a nearby castle or manor house. The year can hardly end on a more noble note!
 - **Chivalrous round table:** You can celebrate a Christmas party with food and drink like in the Middle Ages at castles, in vaulted cellars or rustic inns.
 
-![Extraordinary location for the Christmas party](images/nico-benedickt-CpQBg5qyW5M-unsplash-min.jpg)
+![Extraordinary location for the Christmas party](nico-benedickt-CpQBg5qyW5M-unsplash-min.jpg)
 
 How about a fairytale castle or a medieval castle for your Christmas party?
 
@@ -74,7 +74,7 @@ How about a fairytale castle or a medieval castle for your Christmas party?
 
 If you don't want to hold your Christmas party in an external location, but prefer to comfortably use your company premises, this by no means means means that your party can't be extraordinary. There are also plenty of ideas for this, which will make your on-site Christmas party a special corporate event.
 
-![Ideas for Christmas party at the company premises](images/Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
+![Ideas for Christmas party at the company premises](Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
 
 ### Theme party
 
@@ -84,7 +84,7 @@ A popular event that requires comparatively little effort is a theme party. Deci
 
 Turning your location into a casino is an extraordinary as well as amusing idea for your Christmas party. Get the glamorous feeling from Las Vegas directly into your company! Professional croupiers are waiting for your guests to play games like blackjack, poker or roulette. Doesn't sound at all Christmassy? Oh yes it does! With a Christmas menu and the right decorations, you can easily achieve a Christmas atmosphere.
 
-![Christmas party like casino](images/dusan-kipic-qtD-aRQtMuc-unsplash-min.jpg)
+![Christmas party like casino](dusan-kipic-qtD-aRQtMuc-unsplash-min.jpg)
 
 Of course, the focus of a Christmas party is not on gambling for real money, but on the mood and fun of your employees. Nevertheless, you can offer prizes for the employees who collect the most chips over the course of the evening. External providers support you in organizing the evening, arrange croupiers and deliver the casino equipment to your location.
 
@@ -92,7 +92,7 @@ Of course, the focus of a Christmas party is not on gambling for real money, but
 
 One idea for your company Christmas party that can be implemented quickly and without much preparation is a joint Christmas baking event. The prerequisites for this are that you have a well-equipped company kitchen with an oven and that your team or department consists of a manageable number of colleagues. Relive childhood memories and spend cozy hours together preparing a wide variety of Christmas cookies. The resulting baking creations such as vanilla crescents, cinnamon stars and the like can then be packaged together and, of course, eaten.
 
-![A joint Christmas baking with your colleagues: a simple idea for a successful company Christmas party ](images/pexels-nicole-michalou-6061743-min-711x474.jpg)
+![A joint Christmas baking with your colleagues: a simple idea for a successful company Christmas party ](pexels-nicole-michalou-6061743-min-711x474.jpg)
 
 A joint Christmas baking with your colleagues: a simple idea for a successful company Christmas party.
 
@@ -126,7 +126,7 @@ Once you know when, where and how you'll be celebrating with your employees, you
 
 Probably the most important point of your Christmas party is the catering of your guests. Selected drinks and a delicious menu are often already half the battle and ensure a good mood and satisfaction for your guests. Even for a relatively low budget, there are a few options available to you here. Visit a restaurant together, hire a caterer for a buffet or book a food truck to provide your colleagues with delicious food on site. Depending on the size of your team and the equipment of your location, it may also be a good idea to prepare a joint Christmas dinner yourself.
 
-![Whether it's a restaurant visit, catering service or cooking together: Catering for your guests lays the foundation for a successful Christmas party](images/pexels-naim-benjelloun-2291367-min-711x474.jpg)
+![Whether it's a restaurant visit, catering service or cooking together: Catering for your guests lays the foundation for a successful Christmas party](pexels-naim-benjelloun-2291367-min-711x474.jpg)
 
 Whether it's a visit to a restaurant, a catering service or cooking together: Catering for your guests lays the foundation for a successful Christmas party.
 
@@ -145,7 +145,7 @@ If you have decided on one of the above ideas, a large part of the program for y
 2. Or would you rather laugh a lot together? For example, invite a stand-up comedian who will give a funny talk and interact with your guests.
 3. Guessing together also lightens the mood and certainly provides a laugh or two. A Christmas quiz with a professional moderator would be just right for this.
 
-![Music for your corporate event](images/marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg)
+![Music for your corporate event](marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg)
 
 You have only a limited budget, but still want to spend a fun evening with your employees? No problem! Even then you can give your colleagues a company event that they will remember for a long time. After all, you can take over certain program points completely yourself: For example, create a playlist with suitable music for your Christmas party or prepare various quiz games yourself.
 
@@ -155,6 +155,6 @@ The annual Christmas party is the biggest highlight for many companies at the en
 
 ### Software tip for organizing your Christmas party
 
-To keep track of everything when planning and implementing your Christmas party, you can organize all the important things with the free table and database solution [SeaTable](https://seatable.io/en/event-planen/). For example, you can use a [web form](https://seatable.io/en/docs/webformulare/webformulare/) to register your guests. Easily compare the prices and offers of different event locations and organizers or calculate the costs for food and drinks. Various functions for visualizing your data (e.g. timeline, calendar, map, Kanban board or statistics) offer you the opportunity to prepare your upcoming company Christmas party perfectly.
+To keep track of everything when planning and implementing your Christmas party, you can organize all the important things with the free table and database solution [SeaTable](https://seatable.io/en/event-planen/). For example, you can use a [web form]({{< relref "help/base-editor/webformulare" >}}) to register your guests. Easily compare the prices and offers of different event locations and organizers or calculate the costs for food and drinks. Various functions for visualizing your data (e.g. timeline, calendar, map, Kanban board or statistics) offer you the opportunity to prepare your upcoming company Christmas party perfectly.
 
 Simply try out the SeaTable [template]({{< relref "templates/events/event-management" >}}) by registering [here]({{< relref "pages/registration" >}}) free of charge. Of course you can fill the tables with your own data and adapt them to your needs.

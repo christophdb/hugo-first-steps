@@ -151,7 +151,7 @@ Au-delà de l'infrastructure de la **base de données**, SeaTable offre une **pl
 
 ## Conclusion : le cloud computing est l'avenir
 
-Le cloud computing vous offre un moyen économique, pratique et sûr de faire évoluer les ressources informatiques de votre entreprise à la demande, de manière rapide et flexible. Vos collaborateurs peuvent accéder à tout moment et de partout aux données et aux applications dans le cloud. Cela favorise une gestion des données et une [collaboration](https://seatable.io/docs/seatable-nutzen/zusammenarbeit/) efficaces, surtout compte tenu de la culture croissante du travail à distance. Vous aussi, profitez des avantages du cloud pour préparer votre entreprise à l'avenir numérique !
+Le cloud computing vous offre un moyen économique, pratique et sûr de faire évoluer les ressources informatiques de votre entreprise à la demande, de manière rapide et flexible. Vos collaborateurs peuvent accéder à tout moment et de partout aux données et aux applications dans le cloud. Cela favorise une gestion des données et une [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) efficaces, surtout compte tenu de la culture croissante du travail à distance. Vous aussi, profitez des avantages du cloud pour préparer votre entreprise à l'avenir numérique !
 
 ![Cloud Computing sans frontières](Cloud-Computing-ohne-Grenzen.jpg)
 

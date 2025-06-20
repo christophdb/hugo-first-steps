@@ -24,7 +24,7 @@ Les musées publics, les expositions et les galeries ont donc pour mission d'êt
 
 La gestion de l'art consiste donc précisément à relever ce défi difficile et à trouver les moyens d'accomplir les tâches essentielles mentionnées dans l'espace public.
 
-![La gestion des expositions d'art, des musées et des expositions exige de la souplesse de la part des personnes et des logiciels.](images/ausstellungsmanagement-seatable.jpg)
+![La gestion des expositions d'art, des musées et des expositions exige de la souplesse de la part des personnes et des logiciels.](ausstellungsmanagement-seatable.jpg)
 
 ## Les différences entre la gestion artistique et la gestion d'une entreprise
 
@@ -34,7 +34,7 @@ En outre, les musées, les galeries et les expositions doivent non seulement fou
 
 On a eu un petit aperçu du problème avec la [démission d'Udo Kittelmann en 2019](https://www.tagesspiegel.de/kultur/staatliche-museen-in-der-krise-udo-kittelmanns-ruecktritt-wirft-ein-schlaglicht-auf-gravierende-probleme/24944096.html). Kittelmann a renoncé à son poste de chef de la Nationalgalerie allemande, sans doute l'exposition la plus prestigieuse d'Allemagne. Trop peu de budget et trop peu de liberté, combinés au besoin permanent de représentation du monde politique, l'avaient poussé à jeter l'éponge.
 
-![La gestion artistique diffère de la gestion d'une entreprise](images/art-management-seatable.jpg)
+![La gestion artistique diffère de la gestion d'une entreprise](art-management-seatable.jpg)
 
 Peu de musées ont un pouvoir d'attraction comme le Louvre à Paris. La photo montre des visiteurs devant la Joconde.
 
@@ -50,7 +50,7 @@ En outre, les objets d'art n'appartiennent souvent pas aux musées, mais sont pr
 
 C'est la tâche de la gestion artistique de maîtriser cette complexité avec des solutions numériques. Ces solutions doivent pouvoir faire face à chacun de ces défis et ne doivent pas être trop coûteuses.
 
-![SeaTable, un logiciel flexible pour les musées](images/museumssoftware-seatable.jpg)
+![SeaTable, un logiciel flexible pour les musées](museumssoftware-seatable.jpg)
 
 Les logiciels de gestion de l'art doivent être à la fois flexibles et simples. Un défi insurmontable pour les solutions sectorielles habituelles
 
@@ -76,7 +76,7 @@ La force de SeaTable réside dans le fait que vous définissez vous-même les in
 
 Notre modèle [Art Gallery Management]({{< relref "templates/operations/art-gallery-management" >}}) dispose de quelques exemples d'entrées pour vous présenter les possibilités. Les différents objets d'art sont au centre de la gestion de la collection et sont liés aux artistes. En même temps, l'endroit où se trouve l'œuvre d'art à un moment donné est enregistré et il existe des liens vers les restaurations prévues et les prêts. Une extension avec des références publiques, des périodes de création ou des catégories d'art peut être ajoutée à tout moment.
 
-![Aperçu des objets du modèle de galerie d'art](images/art-gallery-management-objects.png)
+![Aperçu des objets du modèle de galerie d'art](art-gallery-management-objects.png)
 
 Aperçu des objets du modèle de galerie d'art
 
@@ -84,7 +84,7 @@ Aperçu des objets du modèle de galerie d'art
 
 L'affichage sous forme de tableau de SeaTable peut être adapté de manière flexible aux besoins de chacun de vos collaborateurs grâce à des vues individuelles. En plus de la présentation sous forme de tableau, SeaTable dispose d'autres possibilités d'affichage. Ainsi, pour les entrées contenant des images, il peut être judicieux d'utiliser le [plug-in Galerie](https://seatable.io/fr/docs/handbuch/seatable-nutzen/ansichten/) pour obtenir une vue d'ensemble claire et trouver rapidement l'entrée souhaitée. Il suffit de cliquer sur l'entrée pour passer à l'affichage détaillé et procéder à des adaptations des données.
 
-![Les artistes présentés comme une galerie](images/art-gallery-management-gallery-view.png)
+![Les artistes présentés comme une galerie](art-gallery-management-gallery-view.png)
 
 Les artistes, présentés dans une galerie
 
@@ -94,7 +94,7 @@ L'organisation d'une exposition est complexe et nécessite une planification, un
 
 Chaque musée doit gérer une multitude de contrats, d'accords et d'assurances concernant les expositions, les prêts et les objets. Dans SeaTable, vous pouvez saisir tout type d'information de manière structurée et ainsi classer une documentation complète. Gérez vos écrits dans des colonnes de fichiers spécifiques, recevez des rappels automatiques par e-mail avant l'expiration d'un délai ou surveillez les coûts mensuels à l'aide des rapports statistiques.
 
-![Évaluation des coûts mensuels par catégorie de dépenses](images/art-gallery-management-statistics.png)
+![Évaluation des coûts mensuels par catégorie de dépenses](art-gallery-management-statistics.png)
 
 Évaluation des coûts mensuels par catégorie de dépenses
 
@@ -104,7 +104,7 @@ La gestion des contacts et des contrats concerne la gestion de toutes les person
 
 Vous souhaitez enregistrer la date de naissance de vos sponsors en plus de leur adresse ? En quelques clics, vous ajoutez une nouvelle colonne de date à votre saisie de données et pouvez dès à présent enregistrer cette information. Les possibilités sont presque illimitées ; par exemple, en plus des données de base telles que la civilité, le nom, l'adresse, le numéro de téléphone et l'e-mail, vous pourriez également gérer des groupes d'adresses et des listes de distribution ainsi qu'un historique complet des contacts.
 
-![Regroupez et filtrez vos contacts](images/art-gallery-contacts.png)
+![Regroupez et filtrez vos contacts](art-gallery-contacts.png)
 
 Regroupez et filtrez vos contacts
 

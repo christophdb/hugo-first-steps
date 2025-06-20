@@ -14,7 +14,7 @@ Las vacaciones de verano están a la vuelta de la esquina y, para muchos veranea
 
 Este artículo le ofrece una visión completa de lo que necesita para su próximo viaje de vacaciones y la mejor manera de organizarlo sin olvidar lo esencial. Tanto si es de los que reservan en el último minuto como de los que planifican con antelación, aquí encontrará una lista de comprobación detallada para sus vacaciones y valiosos consejos para preparar su viaje de forma eficaz y sin estrés.
 
-![Lista de vacaciones: una playa con palmeras a vista de pájaro](images/nattu-adnan-atSUvc1hMwk-unsplash-711x491.jpg)
+![Lista de vacaciones: una playa con palmeras a vista de pájaro](nattu-adnan-atSUvc1hMwk-unsplash-711x491.jpg)
 
 Infórmese sobre el clima de su destino para prepararse en consecuencia.
 
@@ -26,7 +26,7 @@ Una lista de viaje como ésta le permite planificar y añadir todo lo que necesi
 
 Lo ideal es hacer la maleta sólo **dos o tres días** antes del viaje. Así podrá tener en cuenta las previsiones meteorológicas del momento y ajustar su ropa en consecuencia. El día **de la salida**, sólo queda meter en la maleta las cosas que necesitará hasta el final, como el cable de carga del móvil o el cepillo de dientes.
 
-![Dos mujeres preparan una maleta para un viaje](images/pexels-gabby-k-5330979-711x474.jpg)
+![Dos mujeres preparan una maleta para un viaje](pexels-gabby-k-5330979-711x474.jpg)
 
 Una lista de equipaje proporciona un enfoque estructurado del mismo.
 
@@ -38,7 +38,7 @@ Una lista de comprobación de las vacaciones bien organizada no sólo le ayuda a
 
 Incluso para aquellos a los que les gusta planificar con antelación y ya utilizan una lista de viaje, siempre hay margen de mejora. Una preparación cuidadosa del viaje es esencial para disfrutar de unas vacaciones relajadas y sin estrés. Si actualiza y **optimiza** periódicamente su lista de viaje, se asegurará de tenerlo todo en cuenta y podrá disfrutar de su viaje sin preocupaciones.
 
-![Lista de vacaciones: una mujer disfruta de las vistas al mar en una piscina](images/alex-bertha-Jyg7xHRmXiU-unsplash-711x474.jpg)
+![Lista de vacaciones: una mujer disfruta de las vistas al mar en una piscina](alex-bertha-Jyg7xHRmXiU-unsplash-711x474.jpg)
 
 Las vacaciones deben ser una experiencia relajante y agradable, y una buena preparación ayuda a minimizar el estrés.
 
@@ -50,7 +50,7 @@ Preparar las vacaciones a conciencia implica algo más que una lista de comproba
 - **Vacunas y salud:** Si está planeando unas vacaciones de aventura en regiones exóticas, debe comprobar con tiempo su cartilla de vacunación y tener al día las vacunas necesarias contra enfermedades poco frecuentes en Europa. Infórmese sobre las vacunas recomendadas u obligatorias en su destino.
 - **Seguro de viaje internacional:** El seguro de viaje es esencial para estar cubierto en caso de enfermedad u otras emergencias. Compara distintas ofertas y elige un seguro que se adapte a tus necesidades.
 
-![Lista de vacaciones: una mujer disfruta de las vistas desde su habitación de hotel](images/pexels-elina-sazonova-1838554-711x474.jpg)
+![Lista de vacaciones: una mujer disfruta de las vistas desde su habitación de hotel](pexels-elina-sazonova-1838554-711x474.jpg)
 
 Es importante tener un seguro de viaje que cubra la asistencia médica en el extranjero y las cancelaciones de viaje por motivos de salud.
 
@@ -61,7 +61,7 @@ Es importante tener un seguro de viaje que cubra la asistencia médica en el ext
 - **Legislación local y permiso de conducir:** Comprueba si necesitas un permiso de conducir internacional en el país de destino y familiarízate con la legislación local. Algunos países tienen normativas más estrictas (por ejemplo, normas de comportamiento en lugares públicos) que debes respetar.
 - **Preparativos de viaje in situ:** Pequeños detalles, como reservar una plaza de aparcamiento en el aeropuerto o garantizar la accesibilidad del móvil en el extranjero, pueden influir mucho en el estado de ánimo durante las vacaciones. Asegúrate de que todo está bien organizado.
 
-![Gafas en un mapa](images/eyeglasses-8227429_1280-711x533.jpg)
+![Gafas en un mapa](eyeglasses-8227429_1280-711x533.jpg)
 
 Decida cómo va a desplazarse (coche de alquiler, transporte público, etc.) y reserve con antelación si es necesario.
 
@@ -97,7 +97,7 @@ Espaciador
 - Billetes de avión
 - Documentos de hotel/alquiler de coches
 
-![Lista de control para las vacaciones: pasaporte, billetes de avión y otros documentos](images/convertkit-QMU1z6ReS5A-unsplash-711x474.jpg)
+![Lista de control para las vacaciones: pasaporte, billetes de avión y otros documentos](convertkit-QMU1z6ReS5A-unsplash-711x474.jpg)
 
 Puede copiar los documentos importantes antes de sus vacaciones para estar cubierto en caso de que se pierda algo.
 
@@ -119,7 +119,7 @@ Espaciador
 - Zapatos
 - Vestidos/faldas
 
-![Ropa tendida para las vacaciones](images/pexels-taryn-elliott-4374510-711x484.jpg)
+![Ropa tendida para las vacaciones](pexels-taryn-elliott-4374510-711x484.jpg)
 
 Compruebe el tiempo que hará en su destino antes de viajar.
 
@@ -141,7 +141,7 @@ Espaciador
 - Desinfectante
 - Toallas
 
-![Artículos de higiene: Jabón y toallas para sus vacaciones](images/pexels-karolina-grabowska-4210373-711x474.jpg)
+![Artículos de higiene: Jabón y toallas para sus vacaciones](pexels-karolina-grabowska-4210373-711x474.jpg)
 
 Averigua con antelación si se incluyen toallas y otros artículos de aseo para ahorrar espacio.
 
@@ -162,7 +162,7 @@ Espaciador
 - Tarjeta Tick
 - Medicación personal
 
-![Medicamentos y fruta para su salud](images/pexels-darina-belonogova-7208650-711x517.jpg)
+![Medicamentos y fruta para su salud](pexels-darina-belonogova-7208650-711x517.jpg)
 
 Para estar preparado para cualquier cosa en vacaciones, deberías pensar en un pequeño botiquín de primeros auxilios.
 
@@ -179,7 +179,7 @@ Espaciador
 - Cable de carga
 - Cámara
 
-![Lista de comprobación de vacaciones: una cámara que ha sido estéticamente drapeada en partes individuales](images/pexels-alex-andrews-271121-821652-711x431.jpg)
+![Lista de comprobación de vacaciones: una cámara que ha sido estéticamente drapeada en partes individuales](pexels-alex-andrews-271121-821652-711x431.jpg)
 
 Asegúrate de guardar los dispositivos electrónicos de forma segura para que no se rompa nada.
 
@@ -197,7 +197,7 @@ Espaciador
 - Disposiciones de viaje
 - Reserve
 
-![Lista de vacaciones: una mujer duerme con un antifaz](images/pexels-cottonbro-6863349-711x512.jpg)
+![Lista de vacaciones: una mujer duerme con un antifaz](pexels-cottonbro-6863349-711x512.jpg)
 
 Puede hacer más cómodos los vuelos largos con antifaces y tapones para los oídos.
 
@@ -209,7 +209,7 @@ El tipo de vacaciones también juega un papel decisivo. Un calzado cómodo y una
 
 Una lista flexible para sus vacaciones también le permite reaccionar ante cambios de última hora. Los cambios imprevisibles del tiempo o los cambios espontáneos de planes son más fáciles de afrontar si se organiza bien de antemano y no se estresa innecesariamente.
 
-![Lista de vacaciones: Vista de una puesta de sol desde un avión](images/pexels-stefanstefancik-127905-711x513.jpg)
+![Lista de vacaciones: Vista de una puesta de sol desde un avión](pexels-stefanstefancik-127905-711x513.jpg)
 
 Ya sean utensilios de playa o equipamiento para deportes de invierno, según las vacaciones necesitarás cosas distintas.
 
@@ -223,7 +223,7 @@ Si su lista de vacaciones es extensa, puede ser un reto meterlo todo, sobre todo
 - **Prepara el viaje de vuelta:** Piensa también en el camino de vuelta y deja algo de espacio para los recuerdos y otras cosas que compres durante las vacaciones.
 - **Tenga lo esencial a mano:** Guarda documentos importantes, cables de carga y un pequeño botiquín de primeros auxilios en un compartimento de fácil acceso. Así tendrás todo lo que necesitas a mano de inmediato.
 
-![Una maleta sobre la cama de un hotel](images/pexels-ketut-subiyanto-4246101-711x522.jpg)
+![Una maleta sobre la cama de un hotel](pexels-ketut-subiyanto-4246101-711x522.jpg)
 
 Utilice tamaños de viaje para los artículos de aseo, para ahorrar espacio y cumplir con las restricciones de líquidos en los vuelos.
 
@@ -235,6 +235,6 @@ En la plantilla no sólo encontrará una lista de comprobación de vacaciones pe
 
 También hay disponible una aplicación para simplificar la planificación del viaje. Con ella puedes introducir ideas, costes y tareas pendientes a través de páginas de formularios, cuya información se guarda automáticamente en las tablas correspondientes. Toda la planificación de sus vacaciones puede consultarse en tablas claras, que puede agrupar y ordenar como desee. Las estadísticas claras, como las del panel de presupuesto, también te facilitan la visión de conjunto:
 
-![Presupuesto en la aplicación de viajes SeaTable](images/Travel-App.png)
+![Presupuesto en la aplicación de viajes SeaTable](Travel-App.png)
 
 [Regístrese]({{< relref "pages/registration" >}}) gratis hoy mismo para beneficiarse de estas prácticas funciones y organizar su próximo viaje sin estrés. Después podrás utilizar la [plantilla]({{< relref "templates/events/travel-planner" >}}) en tu espacio de trabajo personal de SeaTable, rellenarla con tus propios datos y compartirla con tus compañeros de viaje a través de la app.

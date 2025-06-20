@@ -38,7 +38,7 @@ Dans SeaTable 5.1, ce type de page, tout comme les pages de tableaux et de requ�
 
 La barre d'outils propose un nouveau **générateur de code QR**. Le code QR contient le lien vers l'entrée actuellement affichée. Apposé sur un objet ou un appareil, il permet de consulter toutes les données dans l'application via une tablette ou un smartphone, sans aucune saisie au clavier. La gestion de l'inventaire, par exemple, est ainsi encore plus simple.
 
-![Plus d'options de conception sur la page d'un seul enregistrement dans SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/SingleRecordPage.png)
+![Plus d'options de conception sur la page d'un seul enregistrement dans SeaTable 5.1](SingleRecordPage.png)
 
 De plus, ce type de page offre davantage d'options de conception visuelle dans SeaTable 5.1. Si vous avez intégré des champs de tableau dans la page, vous ne pouviez auparavant que configurer le formatage du nom du champ. Désormais, pour tous les types de colonnes basées sur le texte et les chiffres, vous avez également la possibilité de configurer la **taille et l'épaisseur de la police, la couleur de la police et l'alignement des valeurs des champs**.
 
@@ -62,7 +62,7 @@ La nouveauté la plus frappante est sans doute **l'extension des menus contextue
 
 Presque aussi frappant est le **message d'avertissement jaune** qui apparaît dans les vues normales dans les colonnes de liaison lorsque le tableau lié contient des lignes dans le stockage de données volumineuses. L'avertissement indique clairement que les entrées liées dans la mémoire Big Data ne sont pas visibles dans la cellule de la colonne de liaison. Si vous souhaitez les afficher, un clic sur l'icône ouvre la liste des entrées liées.
 
-![Dialogue des enregistrements archivés liés dans SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/LinkedArchivedRows.png)
+![Dialogue des enregistrements archivés liés dans SeaTable 5.1](LinkedArchivedRows.png)
 
 À la demande de nombreux utilisateurs, l'**opération de traitement des données** [Comparer et relier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) est désormais disponible dans les vues Big Data. Cette opération peut relier des entrées dans la mémoire Big Data à des lignes dans n'importe quelle autre table, que les lignes de la table reliée soient stockées dans la base ou dans la mémoire Big Data.
 
@@ -74,7 +74,7 @@ Afin d'améliorer la traçabilité des modifications apportées aux lignes dans 
 
 Les apps peuvent certes accéder aux données dans la mémoire Big Data, mais les entrées créées dans les apps ne pouvaient pas y être enregistrées directement. Les nouvelles entrées étaient toujours enregistrées dans la base. Nous avons comblé cette lacune fonctionnelle avec SeaTable 5.1. La base reste l'**emplacement par défaut des nouvelles entrées**, mais ce paramètre peut être modifié dans les [paramètres de l'application](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). Comme le montre la capture d'écran, vous pouvez déterminer, tableau par tableau, si les nouvelles lignes doivent être écrites dans la base ou dans la mémoire Big Data.
 
-![Nouvelle gestion des données de masse dans l'App Builder de SeaTable](https://seatable.io/wp-content/uploads/2024/11/BigDataManagement_AppBuilder.png)
+![Nouvelle gestion des données de masse dans l'App Builder de SeaTable](BigDataManagement_AppBuilder.png)
 
 Mais nous n'avons pas seulement amélioré l'intégration avec les apps, le [plugin de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) offre également de nouvelles possibilités. Le plugin a désormais accès à la mémoire Big Data et peut **créer des documents pour les lignes de la mémoire Big Data**.
 
@@ -82,7 +82,7 @@ Mais nous n'avons pas seulement amélioré l'intégration avec les apps, le [plu
 
 Après trois nouveaux plug-ins dans la [version 5.0]({{< relref "posts/seatable-releases/seatable-release-5-0" >}}), la version 5.1 élargit également la liste des plug-ins SeaTable disponibles : le nouveau plug-in Arbre permet une représentation compacte sous forme de tableau d'ensembles de données liés de manière relationnelle. Que vous analysiez des données financières (comme dans la capture d'écran ci-dessous), des données de projet, des données d'utilisation ou d'autres données, le nouveau plugin crée une vue d'ensemble qui n'existait pas auparavant.
 
-![Plugin d'arbre](https://seatable.io/wp-content/uploads/2024/11/TreePlugin.png)
+![Plugin d'arbre](TreePlugin.png)
 
 Les hiérarchies sur trois niveaux maximum, c'est-à-dire les données de trois tableaux, peuvent actuellement être représentées dans le plug-in. Les dépendances sont définies par des liens. Vous pouvez consulter les détails de chaque enregistrement directement dans le plugin et ajouter de nouveaux enregistrements.
 
@@ -92,7 +92,7 @@ Cette version contient à nouveau plus de nouveautés que nous ne pouvons en pr�
 
 L'**éditeur de formules** reçoit une nouvelle fonction : **rowid()** renvoie l'ID de la ligne. Celui-ci peut ensuite être utilisé par exemple pour des actions de boutons ou des automatisations. Il n'y a pas seulement des nouveautés dans la [colonne des formules](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/), mais aussi dans le type de colonne Formule pour les liens : [Les lookups](https://seatable.io/fr/docs/verknuepfungen/die-lookup-funktion/) offrent désormais un contrôle des doublons. Si l'option **Ne pas afficher les doublons** est activée, seules les valeurs uniques sont affichées dans chaque cellule de la colonne.
 
-![Color Picker introduit SeaTable 5.1](https://seatable.io/wp-content/uploads/2024/11/ColorPicker.png)
+![Color Picker introduit SeaTable 5.1](ColorPicker.png)
 
 Dans SeaTable 5.1, nous avons amélioré la mise en évidence de la syntaxe dans l'**éditeur Python** intégré afin de faciliter la lecture des [scripts](https://seatable.io/fr/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/). Nous avons également corrigé un bug dans l'indentation automatique.
 

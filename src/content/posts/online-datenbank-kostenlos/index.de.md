@@ -21,11 +21,11 @@ Des Weiteren existieren Kundendatenbanken für das Speichern der Interessen, Kon
 
 ## Was sind die Vorteile von Online-Datenbanken gegenüber herkömmlichen?
 
-Online-Datenbanken sind entweder kostenlos verfügbar oder werden monatlich bezahlt. Sie zahlen nur das, was Sie an Speicherkapazität auch belegt haben. Zusätzlich müssen Sie keine eigene Hardware anschaffen und [sparen Kosten](https://seatable.io/budgetplanung-vorlage/) bei der Installation.
+Online-Datenbanken sind entweder kostenlos verfügbar oder werden monatlich bezahlt. Sie zahlen nur das, was Sie an Speicherkapazität auch belegt haben. Zusätzlich müssen Sie keine eigene Hardware anschaffen und [sparen Kosten]({{< relref "templates/finance/budget-book" >}}) bei der Installation.
 
 Ein weiterer Vorteil ist, dass Sie einen Service erwerben. Die Anbieter haben meist ihre eigene IT-Abteilung. Dadurch entlasten Sie Ihre eigenen Mitarbeiter. Niemand, der die Datenbank erstellen und bedienen soll, benötigt tief gehende Programmierkenntnisse. Auch die Eingabe von Daten kann per Import oder Webformular geschehen.
 
-![It-Mitarbeiterin arbeitet mit einer kostenlosen Online Datenbank.](https://seatable.io/wp-content/uploads/2022/06/Online-Datenbank-kostenlos_AdobeStock_163119186_bearbeitet-711x474.jpg)
+![It-Mitarbeiterin arbeitet mit einer kostenlosen Online Datenbank.](Online-Datenbank-kostenlos_AdobeStock_163119186_bearbeitet-711x474.jpg)
 
 Online Datenbank kostenlos © Gorodenkoff / adobe stock
 
@@ -71,7 +71,7 @@ Wenn von Amazon und Google die Rede ist, darf Microsoft ebenfalls nicht fehlen. 
 - **Microsoft SQL Server Edge**: Mit dieser relationalen Datenbank lässt sich das Konzept des Edge Computings für IoT-Anwendungen umsetzen.
 - **Microsoft dedizierter SQL Server**: Hier wissen Sie, wo Ihre Daten gespeichert werden und können auf eine hybride Datenplattform zurückgreifen.
 
-![Jemand schaut sich die kostenlose Online Datenbank von Microsoft an.](https://seatable.io/wp-content/uploads/2022/06/Online-Datenbank-kostenlos_AdobeStock_418493344_bearbeitet-711x474.jpg)
+![Jemand schaut sich die kostenlose Online Datenbank von Microsoft an.](Online-Datenbank-kostenlos_AdobeStock_418493344_bearbeitet-711x474.jpg)
 
 Online Datenbank kostenlos © monticellllo / adobe stock
 

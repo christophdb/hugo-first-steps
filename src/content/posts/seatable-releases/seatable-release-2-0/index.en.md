@@ -21,7 +21,7 @@ And there is more good news! Thanks to a fantastic community effort, we could ad
 
 ## Column type #22: Formula for links
 
-![New column type Link Formula](images/Column_type_link_formula.png)
+![New column type Link Formula](Column_type_link_formula.png)
 
 The ability to map relationships between entries in different tables is one of SeaTable's key differentiators from classic spreadsheets like Excel and Google Sheets. While the latter only know cell references (e.g. for formulas), SeaTable lets you create 1:1, 1:n and n:m links between tables in a base.
 
@@ -31,7 +31,7 @@ The link formula column is a special column to evaluate existing links and to pe
 
 By default, SeaTable does not limit the kind of relationship between records in columns of type 'link other records'. In some use cases, however, a 1:1 or a 1:n relationship should or must be enforced. An asset management system is just one example: A projector can only be in one room at any time. Similarly, a test machine can only be used for one test at a time.
 
-![New controls for link to other records columns](images/More_Controls_over_linked_records.png)
+![New controls for link to other records columns](More_Controls_over_linked_records.png)
 
 With SeaTable 2.0, link columns now offer the configuration option "Allow linking to multiple rows ". Enabled by default, disabling the switch will result in an entry in the current table being able to link to only a single entry in the linked table. For the two examples above, this means: SeaTable ensures that you don't have to search for the beamer with multiple people or in multiple rooms, and it prevents the test machine from not being scheduled for two simultaneous tests.
 
@@ -41,7 +41,7 @@ In addition to the configuration option to restrict the _number of linked entrie
 
 SeaTable's web forms are incredibly handy for simple surveys. In just a few moments, a questionnaire is created and ready to be sent out. The answers of the survey participants end up in the underlying base and can be analyzed there quickly and easily with SeaTable's various analysis tools.
 
-![New column type Rating](images/Column_type_rating.png)
+![New column type Rating](Column_type_rating.png)
 
 The new ratings column is an ideal addition for such surveys: "Were you satisfied with our performance?" or "Would you recommend us to your friends?" Five stars leave no room for doubt; two stars, on the other hand, offer plenty of room for improvement. However, the new column type is not only suitable for customer satisfaction surveys. Do you want your team to vote on a new product name? New leads require a quick assessment for prioritization? The rating column helps in all these cases!
 
@@ -65,7 +65,7 @@ A geolocation column stores latitude and longitude coordinates as comma-separate
 
 There are these columns where quasi always the same value has to be entered when a new entry is created, e.g. a status column in project management or a text column with a uniform leading string. Wouldn't it save a lot of time if these values could be set automatically for new entries?
 
-![Default values for columns](images/Default_values.png)
+![Default values for columns](Default_values.png)
 
 We think so, and this is why, beginning with SeaTable 2.0, text, number, and single-select columns support default values. If a default value is defined, a new cell is automatically filled when a new record is created. If the new record is the odd one out and the default value is not the right one, the default value can be manually overridden at any time.
 
@@ -73,7 +73,7 @@ We think so, and this is why, beginning with SeaTable 2.0, text, number, and sin
 
 The new page design plugin generates single and multi-page PDF documents using data saved in a SeaTable base. We at SeaTable generate license certificates with the new plugin. Yet, the use cases go way beyond that: You can just as well create partner certificates for your business associates or membership cards for your tennis club. If you manage your product portfolio in SeaTable, datasheets for all your products are just a few clicks away. If you use SeaTable for recruiting purposes, a PDF job posting does not cost you any extra time.
 
-![New plugin Page Design](images/Plugin_page_design.png)
+![New plugin Page Design](Plugin_page_design.png)
 
 Every document created by the page design plugin is based on a template. The design of a template takes place in a WYSIWYG editor which the plugin ships with - no external editor required. The page design editor offers a variety of static elements such as texts, tables, and images and supports many editing functions (e.g. crop, rotate, align). If your template does not look nice, it's not the editor's fault! ;-) The editor saves the templates as JSON-files; a straightforward import and export function guarantees template portability.
 
@@ -81,7 +81,7 @@ Every document created by the page design plugin is based on a template. The des
 
 A Kanban board is a great tool for visualizing, managing, and supervising projects, lead pipelines and many other business challenges. In fact, Kanban has proven to be so successful in many real-world applications that a great number of programs have been developed with a Kanban board at its core.
 
-![New Kanban plugin](images/Plugin_kanban.png)
+![New Kanban plugin](Plugin_kanban.png)
 
 With the new release, SeaTable also has a Kanban plugin that can be used to display data in tables on a Kanban board. The categories of a Kanban board are either the options in a single selection column or the users in an employee column. This allows the Kanban view to be used for use cases as diverse as HR management, production, sales, software development, and project management. New categories and new entries can be created directly in the Kanban view without leaving the plugin. Intensive users will like the drag and drop support.
 
@@ -111,7 +111,7 @@ As you use SeaTable every day for more and more tasks, the number of bases in yo
 
 When a base contains confidential data, it is imperative to prevent the accidental or malicious leakage of data. Similarly, privacy regulations mandate sensible technical measures to protect personal information. Data leakage prevention is certainly one of those measures.
 
-![New security settings](images/Security_settings_.png)
+![New security settings](Security_settings_.png)
 
 In order to meet these high standards, SeaTable 2.0 offers additional security settings to safeguard data in bases. In the new security settings, the base owner can decide whether or not a base can be printed, duplicated, and/or exported. The owner can set these permissions independently for all users and users that have a sharing permission to the base. If a base is group-owned, the group owner and the group administrators have the right to set these settings.
 
@@ -119,7 +119,7 @@ In order to meet these high standards, SeaTable 2.0 offers additional security s
 
 Some part of the appeal of SeaTable for developers is its support for Python in addition to JavaScript (JS) scripts. (Competitive products only support JS scripts.) While JS scripts are executed in the browser, Python scripts run server side. In combination with the ability to execute automatically, Python scripts lend themselves to more complex data processing scenarios.
 
-![Python execution environment](images/Python_execution_environment.png)
+![Python execution environment](Python_execution_environment.png)
 
 However, this flexibility also comes at a price: executing the Python scripts on the server entails security risks. In order to secure these optimally, we have largely isolated the execution environment of the Python scripts from the main system with two additional components. However, the team consisting of SeaTable FAAS Scheduler and Python Runner not only ensures security, but also optimal scalability. When a script is called, a Docker container is started and the script is executed. The result of the script is returned to SeaTable and the Docker container is destroyed. By using multiple Python runners, it is also possible to run numerous scripts simultaneously without waiting. (More information can be found in the [SeaTable Admin Manual](https://manual.seatable.io/docker/Python-Runner/Deploy%20SeaTable%20Python%20Runner/)).
 

@@ -16,7 +16,7 @@ Hoje disponibilizámos o SeaTable 1.8 no [SeaTable Cloud](https://cloud.seatable
 
 As filas ajustáveis em altura são literalmente a novidade mais marcante no SeaTable 1.8. Há apenas quatro alturas de fila por onde escolher: Simples, Duplo, Triplo, Quádruplo. As linhas ampliadas dão espaço para miniaturas de ficheiros maiores e criam mais espaço para a exibição de conteúdos em colunas de texto formatado. Uma linha de altura dupla mostra duas linhas de texto, uma linha de altura tripla mostra quatro linhas de texto e uma linha de altura quádrupla mostra seis linhas de texto.
 
-![A altura da fila é ajustável em SeaTable 1.8](images/SeaTable1.8_CustomizableRowHeight_1498x646.png)
+![A altura da fila é ajustável em SeaTable 1.8](SeaTable1.8_CustomizableRowHeight_1498x646.png)
 
 A antiga (única) altura da linha é a nova altura padrão da linha. Quando se abre uma nova base ou se cria uma nova mesa, esta é aplicada. A configuração da altura da linha está escondida atrás do novo ícone na barra de ferramentas de visualização, à direita das opções de formatação. Teste-o e descubra qual a altura da fila que melhor se adequa à sua aplicação!
 
@@ -24,7 +24,7 @@ A antiga (única) altura da linha é a nova altura padrão da linha. Quando se a
 
 O novo tipo de coluna "Botão" é o mais estranho entre as quase duas dúzias de tipos de colunas no SeaTable. (Spoiler: Iremos preencher as duas dúzias de tipos de colunas muito em breve. Seja curioso!) Não se armazena qualquer informação numa coluna do tipo Área de Troca; utiliza-se a coluna Botão para automatizar acções. Com a introdução do novo tipo de coluna nesta versão, pode executar um script através de um botão. Muito em breve, também poderá enviar e-mails (mais abaixo) e mensagens de chat com um clique. Ao longo de 2021, adicionaremos gradualmente mais acções que podem ser desencadeadas com um botão.
 
-![Novo tipo de coluna: Botão](images/SeaTable1.8_ColumnType_Button_1500x708.png)
+![Novo tipo de coluna: Botão](SeaTable1.8_ColumnType_Button_1500x708.png)
 
 Ao criar uma coluna de botão, define-se o aspecto e a função do botão. Isto inclui a acção a realizar, o rótulo do botão e a sua cor. Consulte o [SeaTable Script Manual](https://seatable.github.io/seatable-scripts/) se quiser escrever os seus próprios guiões e integrá-los na sua mesa através de botões.
 
@@ -32,7 +32,7 @@ Ao criar uma coluna de botão, define-se o aspecto e a função do botão. Isto 
 
 Imagine que é um gestor de vendas e que pretende que os seus gestores de produtos actualizem as informações do catálogo de produtos. Até agora, isto exigia que todos os gestores fossem informados sobre a base (ou visão) do catálogo de produtos e depois solicitar-lhes que verificassem se os dados estão actualizados. De facto, isto pode significar muito trabalho se se criar vistas personalizadas e se as enviar uma de cada vez. Com SeaTable 1.8 há agora uma maneira melhor e mais fácil! Apresentando: O formulário de recolha.
 
-![Guardar credenciais de contas de correio no SeaTable](images/SeaTable1.8_MailAccount_1500x495.png)
+![Guardar credenciais de contas de correio no SeaTable](SeaTable1.8_MailAccount_1500x495.png)
 
 O formulário de colecção é uma vista de tabela de uma base que mostra ao utilizador apenas as filas que ele próprio criou. Se o utilizador não for inscrito como criador em qualquer linha, o formulário de recolha apresenta-se como uma tabela vazia. O utilizador só pode, portanto, criar novas entradas, mas não editar as já existentes. A forma colectiva é, portanto, o instrumento de eleição para tarefas de actualização de dados em grande escala que envolvem numerosas pessoas. É mais fácil de manusear do que as libertações, uma vez que não é necessária qualquer libertação para aceder à forma colectiva. O utilizador só precisa de uma conta de utilizador.
 
@@ -48,7 +48,7 @@ Cria-se uma ligação externa para uma vista através do menu de contexto de uma
 
 Na versão 1.8 não só alargámos as funcionalidades de partilha existentes; o SeaTable também recebeu uma funcionalidade de partilha completamente nova: A SeaTable pode agora enviar emails! Os utilizadores podem armazenar as credenciais para um ou mais servidores SMTP numa base e depois utilizá-las em scripts Python e JS. O método base.sendMail() está disponível para este fim.
 
-![SeaTable 1.8 apresenta: Formulário de recolha de dados](images/SeaTable1.8_DataCollectionTable_1500x495.png)
+![SeaTable 1.8 apresenta: Formulário de recolha de dados](SeaTable1.8_DataCollectionTable_1500x495.png)
 
 Os dados de acesso são encriptados com fichas simétricas e armazenados na base de dados back end. Numa das próximas versões iremos adicionar uma função de teste de ligação. Estamos também a planear tornar as contas de e-mail directamente utilizáveis através dos novos botões.
 

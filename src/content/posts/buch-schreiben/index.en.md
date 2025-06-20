@@ -13,7 +13,7 @@ seo:
 
 For many, writing a book is a fascinating but also challenging process. From the initial idea to the finished **manuscript**, there are numerous hurdles to overcome and steps to take. At a time when digital tools and software solutions are playing an ever-increasing role in **the creative process**, it is crucial for authors to find the right software to bring their visions to life. This article takes a closer look at **7 tools** to help you write your book.
 
-![Little author stands in front of a typewriter and thinks.](images/Tiny-male-author-or-screenwriter-writing-story-or-movie-script-711x444.jpg)
+![Little author stands in front of a typewriter and thinks.](Tiny-male-author-or-screenwriter-writing-story-or-movie-script-711x444.jpg)
 
 Writing a book takes time and dedication.
 
@@ -27,7 +27,7 @@ A [writing process](https://de.wikipedia.org/wiki/Schreibprozess#Das_Schreibproz
 - With the structure as a guide, the actual **writing** begins. In this phase, you put your ideas into words and develop the book further.
 - The final step is **revision**. This is where the book is carefully checked to correct errors, improve the writing style and ensure that the text reaches the desired standard.
 
-![Graphic Book Writing: The Writing Process in 5 Steps](images/Schreibprozess-in-5-Schritten-4-711x400.png)
+![Graphic Book Writing: The Writing Process in 5 Steps](Schreibprozess-in-5-Schritten-4-711x400.png)
 
 Writing process in 5 steps
 
@@ -37,7 +37,7 @@ The importance of thorough planning should not be underestimated when writing a 
 
 Planning is not only advantageous in terms of content, but also in terms of organization. Writing a book is a daunting project that is easier to accomplish if you break it down into **manageable chunks** . Not only does this breakdown make the writing process easier for you, but it also helps you keep **track** of the overall project and better track **progress** .
 
-![Author thinks and creates a common thread.](images/8753615-711x506.jpg)
+![Author thinks and creates a common thread.](8753615-711x506.jpg)
 
 Even fictional stories often require thorough research to provide realistic details.
 
@@ -64,7 +64,7 @@ Getting up to speed with Papyrus requires time to grasp the full range of functi
 **Customization Ability:** High  
 **Cost:** 199 Euro
 
-![Writing a Book: The Database of Items in Papyrus](images/papyrus-711x610.png)
+![Writing a Book: The Database of Items in Papyrus](papyrus-711x610.png)
 
 In Papyrus you can create detailed databases.
 
@@ -77,7 +77,7 @@ If you want to write a book with Scrivener, you can choose between non-fiction, 
 **Customization capability:** very high  
 **Cost:** 69.99 Euro
 
-![Writing a Book: Insights into Scrivener](images/scrivener-711x381.png)
+![Writing a Book: Insights into Scrivener](scrivener-711x381.png)
 
 Scrivener allows for clear character sheets.
 
@@ -90,7 +90,7 @@ The core function of Plottr is a **schedule** that allows authors to plan the ti
 **Customization capability:** very high  
 **Cost:** $149 – $299
 
-![Writing a book with Plottr: an insight](images/plottr-711x388.png)
+![Writing a book with Plottr: an insight](plottr-711x388.png)
 
 Plottr makes it easy to visualize storylines.
 
@@ -103,7 +103,7 @@ Although the DramaQueen software is primarily designed for **screenplays** and *
 **Customization:** good  
 **Cost:** free basic function
 
-![Writing a book: Constructing an example plot with Dramaqueen](images/Dramaqueen-711x343.png)
+![Writing a book: Constructing an example plot with Dramaqueen](Dramaqueen-711x343.png)
 
 With DramaQueen, you can find out the weaknesses of your dramaturgy.
 
@@ -116,7 +116,7 @@ Patchwork provides extensive support for authors through numerous **examples** a
 **Customization Ability:** High  
 **Costs:** 154 – 189 Euro
 
-![Writing a book: Insight into the software Patchwork](images/patchwork-711x389.png)
+![Writing a book: Insight into the software Patchwork](patchwork-711x389.png)
 
 ### Campfire Pro
 
@@ -127,7 +127,7 @@ Campfire Pro is characterized by a simple design with **panels** that result in 
 **Customization capability:** very high  
 **Costs:** partly free of charge
 
-![Book Writing: An Inside Look at Campfire Pro](images/campfire-711x437.png)
+![Book Writing: An Inside Look at Campfire Pro](campfire-711x437.png)
 
 ### SeaTable
 

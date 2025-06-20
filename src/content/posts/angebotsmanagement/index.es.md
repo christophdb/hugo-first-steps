@@ -12,7 +12,7 @@ seo:
 
 Una cosa es crucial para el éxito de la labor de ventas: la **gestión de la oferta**. ¿Pero qué es lo importante aquí? ¿Qué errores no deben cometerse bajo ninguna circunstancia? ¿Y qué hay detrás del término "gestión de ofertas"?
 
-Descubra en este artículo las respuestas a estas preguntas y los motivos por los que un software y unas [herramientas online](https://seatable.io/es/agiles-projektmanagement-tools/) útiles pueden ayudarle de forma decisiva en la gestión de sus ofertas.
+Descubra en este artículo las respuestas a estas preguntas y los motivos por los que un software y unas [herramientas online]({{< relref "posts/20250308-projektmanagement-methoden" >}}) útiles pueden ayudarle de forma decisiva en la gestión de sus ofertas.
 
 ## Gestión de la oferta: definición y datos clave
 
@@ -42,11 +42,11 @@ La preparación de la oferta sienta las bases para una gestión óptima de la mi
 Tras las conversaciones iniciales con el nuevo cliente potencial, usted conoce sus "necesidades" y qué soluciones le ayudarán. Ahora es el momento de la segunda etapa de la gestión de la oferta, la preparación de la misma. Pero, ¿qué debe contener la oferta? Si tiene en cuenta estos cuatro aspectos, estará en el lado seguro:
 
 - Especificación de la solución
-- [Cálculo del precio](https://seatable.io/es/budgetplanung-vorlage/)
+- [Cálculo del precio]({{< relref "templates/finance/budget-book" >}})
 - Preparación de una oferta escrita
 - Envío de la oferta escrita al cliente
 
-![El empleado calcula el precio en el marco de la gestión de la oferta](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
+![El empleado calcula el precio en el marco de la gestión de la oferta](Angebotsmanagement_AdobeStock_200001435-711x474.jpg)
 
 Gestión de ofertas © Antonioguillem / adobe stock
 
@@ -87,7 +87,7 @@ Otro error común en la gestión de ofertas es que el vendedor no se haya prepar
 
 La gestión perfecta de la oferta también significa que se hace un seguimiento después de un tiempo si el cliente no se pone en contacto con usted por su cuenta. De este modo, no sólo demuestra que el cliente es importante para usted (fidelización de clientes), sino que también puede aclarar directamente posibles ambigüedades o preguntas y volver a ajustar la oferta si es necesario.
 
-![El representante de ventas realiza una llamada telefónica al cliente potencial como parte de su gestión de la oferta.](https://seatable.io/wp-content/uploads/2022/07/Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
+![El representante de ventas realiza una llamada telefónica al cliente potencial como parte de su gestión de la oferta.](Angebotsmanagement_AdobeStock_171176926-711x474.jpg)
 
 Gestión de ofertas © Patrick Daxenbichler / adobe stock
 
@@ -95,7 +95,7 @@ Gestión de ofertas © Patrick Daxenbichler / adobe stock
 
 Una gestión de suministros a medida no se produce por sí sola. Hay demasiados aspectos que considerar. Para mantener una visión de conjunto y organizar todos los procesos de la forma más eficiente y eficaz posible, tiene grandes ventajas gestionar toda la tramitación de la oferta con un software.
 
-El mercado ya ofrece una serie de soluciones de software que son versátiles y pueden adaptarse con flexibilidad a los requisitos de las ventas. Ya sea [el clásico CRM](https://seatable.io/es/crm-angebotsmanagement/), el servicio de atención al cliente u otras [áreas de ventas](https://seatable.io/es/vertrieb/), con las herramientas adecuadas puede combinar todo su negocio de ventas en un solo sistema y reducir la complejidad de la gestión de ofertas al mínimo. Las herramientas más conocidas para la gestión de ofertas digitales son HubSpot, SAP CRM y ActiveCampaign.
+El mercado ya ofrece una serie de soluciones de software que son versátiles y pueden adaptarse con flexibilidad a los requisitos de las ventas. Ya sea [el clásico CRM]({{< relref "posts/crm-angebotsmanagement" >}}), el servicio de atención al cliente u otras [áreas de ventas](https://seatable.io/es/vertrieb/), con las herramientas adecuadas puede combinar todo su negocio de ventas en un solo sistema y reducir la complejidad de la gestión de ofertas al mínimo. Las herramientas más conocidas para la gestión de ofertas digitales son HubSpot, SAP CRM y ActiveCampaign.
 
 Si busca un paquete completo para la gestión de su oferta, [SeaTable](https://seatable.io/es/) es una alternativa óptima y rentable. Con las funciones de esta herramienta, puede automatizar todos los procesos de venta y recopilar todos los datos de forma sencilla mediante el formulario web integrado. Para resolver los problemas de los clientes, responder a las consultas y clasificar los comentarios, es una gran ventaja.
 

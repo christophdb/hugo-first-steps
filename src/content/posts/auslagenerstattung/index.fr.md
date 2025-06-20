@@ -13,7 +13,7 @@ Qu'il s'agisse d'un repas d'affaires, d'un billet de train ou d'un téléphone p
 
 Cet article ne vous donne pas seulement tout ce qu'il faut savoir sur le remboursement des frais, il vous propose également un [modèle]({{< relref "templates/human-resources/expenses-reimbursement" >}}) gratuit qui peut faciliter votre travail au quotidien.
 
-![Finances et bureaucratie](https://seatable.io/wp-content/uploads/2023/12/3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
+![Finances et bureaucratie](3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
 
 En tant qu'entrepreneur, il est important de garder une vue d'ensemble de toutes les dépenses.
 
@@ -25,7 +25,7 @@ La [loi sur l'impôt sur le revenu](https://www.gesetze-im-internet.de/estg/) d�
 
 Les paragraphes 4 et 5 de la loi allemande relative à l'impôt sur le revenu contiennent les dispositions pertinentes concernant les frais professionnels. Par exemple, les frais liés aux **déplacements professionnels** peuvent être remboursés en tant que dépenses. Il en va de même pour les dépenses résultant de l'exécution de commandes ou de la fourniture de services, comme par exemple un **déjeuner d'affaires** avec vos clients. De même, **les achats** ou commandes tels que les fournitures de bureau ou les fruits pour la cuisine du bureau peuvent être considérés comme des dépenses remboursables.
 
-![Types de remboursements de frais](https://seatable.io/wp-content/uploads/2024/01/Pastel-Aesthetic-Minimalist-Lifestyle-Tips-List-Instagram-Post-2-711x711.png)
+![Types de remboursements de frais](Pastel-Aesthetic-Minimalist-Lifestyle-Tips-List-Instagram-Post-2-711x711.png)
 
 Il existe différents frais que vous pouvez vous faire rembourser en tant que dépenses.
 
@@ -44,7 +44,7 @@ Les fonds de roulement sont généralement utilisés pour **des dépenses prévi
 
 Les entreprises peuvent également compenser le remboursement des frais par un **montant forfaitaire**. Ces forfaits peuvent inclure, par exemple, **les frais de déplacement, de repas et d'hébergement**. Dans ce cas, vous devez toutefois tenir compte du fait que c'est l'administration fiscale qui fixe les taux maximaux. Le plafond annuel pour l'hébergement et les repas est de 1.000 euros. Si vous le dépassez, il est plus judicieux de demander un remboursement précis des frais plutôt qu'un remboursement forfaitaire des frais.
 
-![Des gens avec des mallettes et des valises](https://seatable.io/wp-content/uploads/2024/01/19320-711x284.jpg)
+![Des gens avec des mallettes et des valises](19320-711x284.jpg)
 
 Si vous voyagez beaucoup dans le cadre de votre travail, vous ne devriez pas avoir recours au remboursement forfaitaire des frais.
 
@@ -58,7 +58,7 @@ Les dépenses sont considérées comme **exonérées d'impôt et de charges soci
 - **Facturation correcte**: la facturation des dépenses doit être effectuée correctement, chaque poste devant être indiqué séparément sur le justificatif ou la facture.
 - **Remboursement forfaitaire des dépenses**: vous devez enregistrer les dépenses régulières de manière compréhensible, car l'administration fiscale n'accorde un montant forfaitaire que si la documentation est donnée sur une période déterminée.
 
-![Une femme se retrouve face à un dossier et n'arrive pas à se faire rembourser ses dépenses](https://seatable.io/wp-content/uploads/2023/12/9276421-e1704291543704.jpg)
+![Une femme se retrouve face à un dossier et n'arrive pas à se faire rembourser ses dépenses](9276421-e1704291543704.jpg)
 
 Sans une bonne structure, le remboursement des frais peut rapidement vous submerger.
 
@@ -84,4 +84,4 @@ Si vous souhaitez passer d'un remboursement analogique à un remboursement numé
 
 Vous pouvez inscrire vos dépenses dans le tableau et les classer d'un simple clic dans des **catégories spécialement définies**, comme le matériel de bureau, les frais de déplacement ou les repas d'affaires. Les collaborateurs peuvent classer **les justificatifs numériques et les factures** directement dans le tableau et s'assurer ainsi qu'aucun justificatif ne se perde. En outre, vous pouvez voir d'un coup d'œil les dépenses que vous avez déjà remboursées et celles qui restent à payer. Une fois le remboursement effectué, vous pouvez facilement créer des documents confirmant le remboursement. Les **statistiques** vous permettent de voir d'un coup d'œil quels sont les frais les plus fréquents et ceux que vous pouvez peut-être même réduire.
 
-[Inscrivez-vous gratuitement](https://seatable.io/fr/enregistrement/) sur SeaTable et utilisez le modèle selon vos souhaits et vos besoins. Gardez une vue d'ensemble de vos remboursements de frais et minimisez avec succès vos dépenses au quotidien. [Cliquez ici pour accéder au modèle.]({{< relref "templates/human-resources/expenses-reimbursement" >}})
+[Inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) sur SeaTable et utilisez le modèle selon vos souhaits et vos besoins. Gardez une vue d'ensemble de vos remboursements de frais et minimisez avec succès vos dépenses au quotidien. [Cliquez ici pour accéder au modèle.]({{< relref "templates/human-resources/expenses-reimbursement" >}})

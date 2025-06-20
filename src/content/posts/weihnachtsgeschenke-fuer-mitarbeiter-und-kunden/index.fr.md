@@ -15,7 +15,7 @@ Noël approche et vous souhaitez offrir à vos collaborateurs, partenaires comme
 
 Qu'il s'agisse de grands gestes ou de petites attentions, tout le monde est heureux de recevoir un cadeau. Mais il ne doit pas toujours s'agir d'un cadeau sous forme d'objet matériel ou de bon d'achat. Offrir quelque chose va au-delà du matériel et peut se manifester de nombreuses manières.
 
-![Nous vous présentons ici cinq idées de cadeaux que vous pourriez offrir à vos clients et collaborateurs pendant la période de Noël.](https://seatable.io/wp-content/uploads/2024/08/Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
+![Nous vous présentons ici cinq idées de cadeaux que vous pourriez offrir à vos clients et collaborateurs pendant la période de Noël.](Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731-711x880.png)
 
 Quelle idée allez-vous mettre en œuvre ce Noël ?
 
@@ -33,7 +33,7 @@ De nombreuses organisations caritatives et institutions sociales se réjouissent
 
 Du chocolat, mais avec du peps ? Pas de problème ! Créez un calendrier de l'Avent pour vos collaborateurs et clients avec le logo de votre entreprise ou ajoutez des messages personnalisés.
 
-![Des chocolats numérotés pour un délicieux calendrier de l'Avent fait maison.](https://seatable.io/wp-content/uploads/2024/08/markus-spiske-MxjnYEqAfVA-unsplash-1-scaled-e1722848744903-711x620.jpg)
+![Des chocolats numérotés pour un délicieux calendrier de l'Avent fait maison.](markus-spiske-MxjnYEqAfVA-unsplash-1-scaled-e1722848744903-711x620.jpg)
 
 Quelle que soit sa forme, le chocolat est toujours bon !
 
@@ -47,17 +47,17 @@ Si vous souhaitez composer un calendrier de l'Avent uniquement pour des personne
 
 Une belle alternative au calendrier de l'Avent analogique classique est une variante numérique. Vous pouvez remplir le calendrier de l'Avent en ligne de votre entreprise avec des images, des vidéos ou des citations de Noël, puis l'envoyer simplement par lien aux collaborateurs et aux clients comme cadeau de Noël.
 
-![Calendrier de l'Avent Enterprise](images/Enterprise-Advent-Calendar.png)
+![Calendrier de l'Avent Enterprise](Enterprise-Advent-Calendar.png)
 
 L'équipe de SeaTable a créé pour vous [un modèle]({{< relref "templates/events/advent-calendar" >}}) que vous pouvez adapter à vos besoins. Donnez une touche personnelle au calendrier et réjouissez-vous de voir les visages étonnés de vos collaborateurs lorsqu'ils découvrent chaque jour une nouvelle surprise derrière l'une des portes.
 
-Si vous souhaitez utiliser SeaTable pour créer un calendrier de l'Avent en ligne, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement et de personnaliser le modèle à votre guise. Dans le modèle, vous trouverez également 24 idées de cadeaux de Noël pour les employés et les clients.
+Si vous souhaitez utiliser SeaTable pour créer un calendrier de l'Avent en ligne, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement et de personnaliser le modèle à votre guise. Dans le modèle, vous trouverez également 24 idées de cadeaux de Noël pour les employés et les clients.
 
 ## 3\. cadeau en rapport avec l'entreprise
 
 Faire le lien entre l'esprit de Noël et le travail est un défi. Après tout, une visite au marché de Noël ou une partie de patin à glace sont bien plus tentantes que de passer toute la journée au bureau. Il ne tient qu'à vous de faire entrer l'**esprit de Noël** dans votre entreprise !
 
-![Différents carnets de notes avec un design de logo individuel de Leuchtturm1917.](images/header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
+![Différents carnets de notes avec un design de logo individuel de Leuchtturm1917.](header_notizbcher_sind_markenbotschafter_final_ohne_schrift-711x356.jpg)
 
 Carnets de notes individuels avec logo en relief de LEUCHTTURM1917.
 
@@ -72,7 +72,7 @@ Un **cadeau fait maison** procure une grande joie, car il montre que vous avez i
 
 - **Carte de vœux**: le classique de Noël. Créez la carte de Noël de votre entreprise avec un motif captivant et un message personnel. Ou que diriez-vous d'un poème que vous avez écrit vous-même ou d'une dédicace personnelle ? Faites de votre carte de vœux la plus belle sur le bureau de vos clients et collaborateurs !
 
-![On met beaucoup d'amour dans les cartes de Noël que l'on fait soi-même.](https://seatable.io/wp-content/uploads/2024/08/pexels-jonathanborba-3358727-e1722852690526-711x536.jpg)
+![On met beaucoup d'amour dans les cartes de Noël que l'on fait soi-même.](pexels-jonathanborba-3358727-e1722852690526-711x536.jpg)
 
 L'imagination n'a pas de limites.
 
@@ -85,7 +85,7 @@ L'imagination n'a pas de limites.
 
 Une visite commune du marché de Noël ou la confection de biscuits en soirée permettent de mieux se connaître et de renforcer durablement l'esprit d'équipe. Et bien sûr, une fête de Noël ne doit pas manquer ! Pour savoir comment l'organiser avec succès, [cliquez ici](https://seatable.io/fr/weihnachtsfeier/).
 
-![Une visite au marché de Noël est une invitation à bavarder et à fouiner.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-22-1-e1722859187769-711x730.png)
+![Une visite au marché de Noël est une invitation à bavarder et à fouiner.](Design-ohne-Titel-22-1-e1722859187769-711x730.png)
 
 La meilleure ambiance de Noël est ici.
 
@@ -102,7 +102,7 @@ Vous souhaitez faire plaisir à vos collaborateurs à Noël, mais en limitant le
 - **Chèques-cadeaux :** les chèques-cadeaux sont un cadeau de Noël très apprécié des employés et des clients. Toutefois, ils ne sont soumis à l'exonération fiscale que si, outre la valeur maximale de 50 euros, ils remplissent trois autres critères. Les cartes cadeaux doivent exclusivement donner droit à l'achat de biens et de services et ne peuvent être utilisées que dans un nombre restreint de magasins. En outre, il convient de noter que l'émission des chèques-cadeaux doit _s'ajouter à la rémunération du travail qui est de toute façon due_.
 - **Les événements personnels :** Si l'un de vos collaborateurs fête son anniversaire ou un anniversaire rond de l'entreprise, le montant exonéré peut atteindre 60 euros. Cela ne s'applique toutefois pas à Noël, qui n'est **pas** considéré comme un événement personnel.
 
-![Les collaborateurs et les supérieurs sont heureux d'organiser une fête de Noël au sein de l'entreprise.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-25-e1722846043336-711x493.png)
+![Les collaborateurs et les supérieurs sont heureux d'organiser une fête de Noël au sein de l'entreprise.](Design-ohne-Titel-25-e1722846043336-711x493.png)
 
 Lors des fêtes de Noël, il y a encore des choses à prendre en compte
 
@@ -123,4 +123,4 @@ La période de Noël est stressante, c'est pourquoi une préparation réfléchie
 
 Vous cherchez d'autres idées de cadeaux de Noël pour vos collaborateurs et clients ? Vous trouverez de nombreuses idées intéressantes dans notre modèle de calendrier de l'Avent pour entreprises !
 
-Si vous souhaitez utiliser SeaTable pour planifier votre fête de Noël ou vos cadeaux de Noël pour vos employés et clients, il vous suffit de [vous inscrire](https://seatable.io/fr/enregistrement/) gratuitement et de personnaliser les modèles liés ci-dessus à votre guise.
+Si vous souhaitez utiliser SeaTable pour planifier votre fête de Noël ou vos cadeaux de Noël pour vos employés et clients, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement et de personnaliser les modèles liés ci-dessus à votre guise.

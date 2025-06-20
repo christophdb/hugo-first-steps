@@ -26,7 +26,7 @@ The development of the App Builder continues unabated: With the **single data re
 
 Users of the app can view, search, browse, and edit each single record on this page - with the relevant [permission](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/). This page type is suitable, for example, for displaying the data in an employee database as personal profiles.
 
-![Single Record Page](images/Single-Record-Page-min.gif)
+![Single Record Page](Single-Record-Page-min.gif)
 
 ### New functions of existing page types
 
@@ -36,25 +36,25 @@ We have added the **settings for link columns** on [gallery pages](https://seata
 
 ## Three plugins for complex visualizations
 
-Another highlight of SeaTable 5.0 are the new [plugins](https://seatable.io/en/docs/plugins/alle-plugins-in-der-uebersicht/) that allow you to visualize the dependencies, structures and processes in a base.
+Another highlight of SeaTable 5.0 are the new [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) that allow you to visualize the dependencies, structures and processes in a base.
 
 ### Organizational Chart
 
 The Org Chart plugin can be used to display hierarchies between the data records in a table, e.g. positions in a company or [superior and subordinate tasks in a project](https://seatable.io/en/projektstrukturplan-vorlage/). To visualize the dependencies of the data records, you need a [link column](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) that refers to the same table. The entry to which you link another row of the same table is displayed as a superordinate data record.
 
-![Organizational chart plugin](images/Organigramm-Plugin.png)
+![Organizational chart plugin](Organigramm-Plugin.png)
 
 ### Table Relationships
 
 Especially when there are many tables with thousands of rows in a base, it is easy to lose track of how they relate to each other. With the new Table Relationships plugin, you can visualize which tables are linked to each other via which columns. Not only direct links via [link columns](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) are displayed, but also indirect links via link formula columns.
 
-![Table relations plugin](images/Table-Relationships-Plugin.png)
+![Table relations plugin](Table-Relationships-Plugin.png)
 
 ### Whiteboard
 
 The Whiteboard is the first plugin that works independently of the data in a base. It gives you the freedom to graphically visualize processes and structures that you cannot display with the other plugins. You can also freely outline layouts and mockups. For the design, you have various **elements** such as squares, ellipses, and arrows as well as **tools** such as pen and eraser to choose from.
 
-![Whiteboard plugin](images/Whiteboard-Plugin.png)
+![Whiteboard plugin](Whiteboard-Plugin.png)
 
 {{< warning headline="SeaTable ♥ Excalidraw" text="The Whiteboard plugin is based on the popular [Excalidraw](https://plus.excalidraw.com/) software, which many users will already be familiar with. One important limitation should not go unmentioned: At the launch of SeaTable 5.0, the Whiteboard will not support live collaboration. We will deliver this shortly." />}}
 
@@ -68,7 +68,7 @@ With version 5.0, we are aiming to achieve a Lighthouse Accessibility Score of 9
 
 The import of XLSX files was already faster, more flexible and more stable in version 4.4. With SeaTable 5.0, the import wizard is even more powerful: In the significantly enhanced preview window, you can now select in detail which tables - and even **which columns of an XLSX workbook** - SeaTable should import. Simply deselect unwanted tables and columns to precisely control the data import.
 
-![Excel import](images/Excel-Import.gif)
+![Excel import](Excel-Import.gif)
 
 ## Optimization of the SeaTable Cloud API
 
@@ -84,9 +84,9 @@ If you want to find out more, you can find all the details about the changes in 
 
 ## And much more
 
-You will encounter the **editor for long texts** in many places. If you fill in formatted text fields in the **row details** or in [web forms](https://seatable.io/en/docs/webformulare/webformulare/), you will notice that usability has now been improved: The editor for long texts no longer opens in another pop-up window, but inline, so you can start writing straight away.
+You will encounter the **editor for long texts** in many places. If you fill in formatted text fields in the **row details** or in [web forms]({{< relref "help/base-editor/webformulare" >}}), you will notice that usability has now been improved: The editor for long texts no longer opens in another pop-up window, but inline, so you can start writing straight away.
 
-![Editor for long texts in web forms](images/Long-text-editor-in-web-forms.png)
+![Editor for long texts in web forms](Long-text-editor-in-web-forms.png)
 
 You are also familiar with the **statistics** from several places in SeaTable: from the [statistics module](https://seatable.io/en/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/) in the base and from [custom pages in universal apps](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). We have now significantly upgraded and standardized the statistics with a revised diagram library.
 

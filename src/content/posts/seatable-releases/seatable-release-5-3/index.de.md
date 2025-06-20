@@ -24,7 +24,7 @@ Andre Länder, andere Sitten: Je nach Weltregion wird Samstag, Sonntag oder Mont
 
 Den Nutzungsgewohnheiten in Europa, Australien und großen Teilen von Afrika und Asien sowie dem ISO Standard 8601 folgend, nutzt SeaTable Montag als ersten Tag der Woche. (Bisher war Sonntag einheitlich der 1. Tag der Woche.) Eine Anpassung in den Datumseinstellungen führt dazu, dass im Kalendersteuerelement der gewählte Tag in die erste Spalte rückt. Dies gilt für die Base wie für alle darauf basierenden Apps. Im Kalender Plugin sowie auf der Kalender Seite in der App kann der Wochentag weiterhin individuell und unabhängig von der Einstellung in der Base konfiguriert werden.
 
-![Auswahlmöglichkeit des ersten Tages in der Woche](images/Date_Settings_DE.png)
+![Auswahlmöglichkeit des ersten Tages in der Woche](Date_Settings_DE.png)
 
 ## Mehr Flexibilität beim App Builder
 
@@ -40,7 +40,7 @@ Mit SeaTable 5.3 setzen wir einen vielfach geäußerten Wunsch für diesen Seite
 
 Auf den ersten Blick werden auch Änderungen in den Seiteneinstellungen sichtbar. Zahlreiche Einstellungen wurden in einen neuen Abschnitt "Weitere Einstellungen" verschoben, der standardmässig zusammengeklappt ist. Mit den ebenfalls von nun ab standardmässig minimierten Seitenberechtigungen wirken die Einstellungen aufgeräumter und übersichtlicher.
 
-![Weitere Einstellungen in der SeaTable App](images/Link_Column_Settings_DE.png)
+![Weitere Einstellungen in der SeaTable App](Link_Column_Settings_DE.png)
 
 Bei genauerer Betrachtung zeigen sich in den Seiteneinstellungen neben den optischen, auch funktionale Änderungen. Die "Einstellungen der Verknüpfungsspalte" wurden überarbeitet, um Platz zu machen für die neue Berechtigung "Verknüpfte Einträge bearbeiten". Ist die Berechtigung erteilt, haben die App-Benutzer Schreibrechte für die Einträge in der verknüpften Tabelle. Welche Spalten der verknüpften Einträge bearbeitbar sind, lässt sich in den ebenfalls neu gestalteten Feldeinstellungen konfigurieren. Ist die Berechtigung nicht aktiviert, kann der Benutzer nur die bestehendenden Verknüpfungen ansehen sowie neue Verknüfungen hinzufügen und bestehende entfernen, nicht aber die verknüpften Datensätze ändern.
 
@@ -64,7 +64,7 @@ In SeaTable 5.2 wurden die Ergebnisse auf der Abfrageseite bearbeitbar gemacht. 
 
 Die Aktivierung des unbeschränkten Zugriffs macht eine SeaTable App zu einer öffentlichen Anwendung. Jeder kann über die App-URL (lesend) auf die App zugreifen; eine Benutzeranmeldung ist nicht nötig und einen weiteren Zugriffsschutz gibt es nicht. Zumindest nicht bis heute. SeaTable 5.3 erweitert den unbeschränkten Zugriff um einen optionalen Passwortschutz. Wenn aktiviert, dann kann die App erst nach Eingabe des App-Passworts genutzt werden. Der unbeschränkte, passwortgeschützte Zugriff ist damit eine interessante Option für Vereine oder Arbeitsgruppen, die Daten mit geringem Schutzniveau mit einer großen Personenanzahl teilen, aber einen uneingeschränkten, öffentlichen Zugriff vermeiden wollen.
 
-![Passwortschutz in der SeaTable App](images/App_Password_Protection_DE.png)
+![Passwortschutz in der SeaTable App](App_Password_Protection_DE.png)
 
 ## Neues Plugin Berichtsdesign (beta)
 
@@ -74,7 +74,7 @@ Das neue Berichtsdesign Plugin und das bestehende Seitendesign Plugin ähneln si
 
 Beim Seitendesign Plugin werden Elemente pixelgenau auf der Vorlage positioniert, ihre Maße definiert und einer Ebene zugeordnet. Im Grund genommen nutzt man es wie ein Grafikprogramm: Mit dem Design der Vorlage wird präzise das Aussehen des erzeugten Dokuments definiert. Das Berichtsdesign Plugin erinnert in der Nutzung an Word oder Google Docs. Text und andere Elemente werden fortlaufend undereinander gesetzt. Das Plugin kümmert sich bei der Dokumentenerzeugung um das Layout der Seite inkl. Zeilen- und Seitenumbrüchen. Elemente mit variabler Länge wie z.B. Tabellen können dabei leicht berücksichtigt werden.
 
-![Das neue Report Design Plugin](images/Report_Design_Plugin_DE.png)
+![Das neue Report Design Plugin](Report_Design_Plugin_DE.png)
 
 Das Berichtsdesign Plugin unterstützt eine große Anzahl dynamischer Elemente: Einzelne Werte eines Datensatzes, ganze Datensätze, Tabellen und auch diverse Diagrammtypen können in einer Dokumentenvorlage verwendet werden. Bei der Gestaltung von Text gibt es die von Textverarbeitungsprogrammen bekannten Formatatierungsoptionen wie Aufzählungen, Textausrichtung und Mehrspaltigkeit. Und auch Formatvorlagen für die Gliederung des Dokuments sind verfügbar. Bei den Gestaltung einzelner Elemente ist jedoch das Seitendesign Plugin mit mehr Optionen ausgestattet. Für jedes einzelne Element lassen sich Text- und Hintergrundfarbe, Rahmen und andere Formatierungsoptionen festlegen. Durch die Verwendung von Ebenen können Elemente gestapelte und Überlagerungseffekte erzeugt werden.
 

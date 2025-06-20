@@ -18,13 +18,13 @@ As novas funções estão agora disponíveis no [SeaTable Cloud](https://cloud.s
 
 Poder-se-ia dedicar uma publicação separada ao plugin de desenho de página revisto, tão repleto de novas funções que se apresenta no SeaTable 3.1. Há a função de impressão de lista, os campos dinâmicos incl. cabeçalho e rodapé, bem como a função de versionamento. A barra lateral em modo de edição foi significativamente preenchida (ver imagem abaixo). Ah, e os modelos no plug-in podem agora também ser movidos e classificados na visão geral. Mas agora tudo em ordem.
 
-![Função de impressão de lista no plugin de desenho de página do SeaTable](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-List-Print.gif)
+![Função de impressão de lista no plugin de desenho de página do SeaTable](SeaTable-3.1-List-Print.gif)
 
 A nova função de impressão de listas coloca o conteúdo de uma vista em papel ou num documento PDF num instante, com um design atrativo. Basta arrastar o elemento "Todas as entradas da vista" para o modelo, ajustar o tamanho do marcador de posição, formatar a tabela de acordo com as suas preferências e adicionar os restantes elementos da página, como o título do documento, o logótipo e a data. O SeaTable trata automaticamente da disposição da tabela e da paginação durante a impressão, se as linhas da vista selecionada não couberem no espaço reservado. O SeaTable adiciona tantas páginas quantas as necessárias para o efeito.
 
 Com os campos dinâmicos, a informação contextual pode agora ser facilmente inserida numa página. Especificamente, estes são a data actual, o modelo utilizado, o utilizador actual e o número de página. Em termos de utilização, os campos dinâmicos não diferem dos campos de texto estáticos. As opções de formatação são também idênticas. Basta arrastar o campo para os modelos, posicioná-lo correctamente e formatá-lo - SeaTable encarrega-se do resto.
 
-![Cabeçalho de página no plugin de design de página do SeaTable](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-Page-Header.png)
+![Cabeçalho de página no plugin de design de página do SeaTable](SeaTable-3.1-Page-Header.png)
 
 Um complemento ideal para os elementos dinâmicos são os novos cabeçalhos e rodapés. Os elementos aí colocados são repetidos em cada página, incluindo, claro, nas páginas que o plugin adiciona automaticamente ao imprimir listas. E não só os elementos dinâmicos podem ser utilizados no cabeçalho e no rodapé. Os dois campos texto e imagem estática também podem ser incorporados para fornecer documentos com meta-informação significativa.
 
@@ -36,13 +36,13 @@ Quer experimentar o novo plugin de desenho de página? Força nisso! As melhoria
 
 Se estava preocupado que o limite de 100.000 filas por base do SeaTable lhe pudesse causar problemas num futuro previsível, tem agora menos uma coisa com que se preocupar. Com o novo Big Data Backend, pode armazenar milhões de filas numa base SeaTable. Isto significa que o SeaTable não só oferece um limite de fila muito mais elevado do que os seus concorrentes imediatos, mas também empurra para regiões que anteriormente estavam reservadas para bases de dados SQL clássicas. Se procura uma base de dados com REST API, suporte de script integrado, automatizações e/ou frontend gráfico com colaboração em tempo real, então não procure mais.
 
-![Grande backend de dados em acção](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-Base-Stats-with-Big-Data.png)
+![Grande backend de dados em acção](SeaTable-3.1-Base-Stats-with-Big-Data.png)
 
 A limitação de tamanho anterior era necessária porque o SeaTable tem de carregar uma base completamente na memória de trabalho a fim de trabalhar simultaneamente, juntos numa única base. Com a activação da função Big Data, este já não é o caso. A função Big Data divide os dados numa base: Conjuntos de dados que são automaticamente carregados quando uma base é aberta e conjuntos de dados que só são carregados quando explicitamente consultados, por exemplo, ao filtrar ou realizar uma análise estatística de todos os conjuntos de dados. Se apenas os dados carregados automaticamente forem utilizados, então mesmo milhões de registos de dados no armazenamento de Grandes Dados não influenciam os tempos de carregamento de uma base ou os seus requisitos de armazenamento.
 
 Com esta bifurcação de dados, o utilizador, enquanto utilizador, ganha uma enorme flexibilidade adicional. Projectos colaborativos em que os membros da equipa trabalham na interface web podem ser implementados, bem como aplicações intensivas de dados com recolha automatizada de dados. Uma vez que os conjuntos de dados na loja Big Data não suportam a colaboração online, ou seja, as alterações aos dados não são empurradas para outros utilizadores mas apenas são visíveis após uma nova recuperação, esta loja é particularmente adequada para conjuntos de dados nos quais não está a decorrer qualquer trabalho activo. Isto também explica porque é que o beta da função Big Data em SeaTable 2.3 ainda aparecia sob o [nome Arquivo]({{< relref "posts/seatable-releases/seatable-release-2-3" >}}).
 
-![Grande vista de dados em SeaTable 3.1](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-Filter-with-Big-Data.png)
+![Grande vista de dados em SeaTable 3.1](SeaTable-3.1-Filter-with-Big-Data.png)
 
 Os conjuntos de dados no backend Big Data suportam todos os tipos de colunas e podem ser modificados e apagados, filtrados e agrupados. Os conjuntos de dados também podem ser movidos para trás e para a frente entre o armazenamento de dados normais e grandes. Por outro lado, as opções de edição dos conjuntos de dados Big Data são tecnicamente inferiores às do armazenamento normal. Existem restrições, especialmente no que diz respeito à partilha, automatizações e plug-ins: as opiniões que incluem dados do backend de Grandes Dados não podem ser partilhadas. Além disso, apenas o plugin de estatísticas pode tratar conjuntos de dados no grande armazém de dados. Todos os outros plugins e automatizações só podem utilizar vistas normais. Os grandes conjuntos de dados também não podem ser ligados. Se isto for necessário, devem ser primeiro movidos para a memória normal.
 
@@ -70,7 +70,7 @@ O armazenamento de Big Data deve ser ativado numa Base através das definições
 
 Em grandes equipas com muitos utilizadores, pode tornar-se um pouco confuso. Nas bases, um grande número de pontos de vista competem por atenção e na homepage dezenas de grupos com o mesmo número de bases se reúnem, de modo que se perde o foco sobre o essencial.
 
-![Ver pasta recentemente introduzida no SeaTable 3.1](https://seatable.io/wp-content/uploads/2022/08/SeaTable-3.1-View-folders.png)
+![Ver pasta recentemente introduzida no SeaTable 3.1](SeaTable-3.1-View-folders.png)
 
 Na nova versão do Bases, as vistas podem agora ser agrupadas em pastas para recuperar a clareza. Cria-se uma pasta da mesma forma que se cria uma vista. Pode então mover as vistas para a nova pasta utilizando a função arrastar e largar. Quando a primeira pasta é criada, é criada outra pasta "Mais vistas" na qual todas as vistas existentes são ordenadas.
 

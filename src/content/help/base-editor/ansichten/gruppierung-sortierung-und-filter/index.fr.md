@@ -81,8 +81,8 @@ La fonction de filtrage de SeaTables permet de filtrer certaines entrées d'un t
 
 Dans le cas des règles de filtrage, contrairement aux règles de regroupement et de tri, l'instruction se compose généralement de deux éléments :
 
-- Critère de filtre : rapport entre la colonne filtrée et la valeur du filtre (par ex. "est", "contient", "est vide")
-- Valeur du filtre : la valeur selon laquelle le filtrage est effectué (p. ex. "123", "terminé")
+- Critère de filtre : rapport entre la colonne filtrée et la valeur du filtre (par ex. `est`, `contient`, `est vide`)
+- Valeur du filtre : la valeur selon laquelle le filtrage est effectué (p. ex. `123`, `terminé`)
 
 Les règles de filtrage peuvent en outre être combinées avec les deux opérateurs booléens ET et OU. Avec une combinaison ET, seules les entrées qui remplissent toutes les conditions liées sont filtrées. La combinaison OU permet de filtrer les entrées qui remplissent au moins une des conditions définies. En présence de trois règles de filtrage ou plus, les opérateurs ET et OU peuvent également être utilisés ensemble.
 
@@ -90,7 +90,7 @@ Les règles de filtrage peuvent en outre être combinées avec les deux opérate
 
 L'assistant de filtrage permet de configurer facilement des filtres performants pour vos données. Il suffit de cliquer sur _Filtrer_ dans les paramètres d'affichage, au-dessus des en-têtes de colonnes, pour l'ouvrir.
 
-Définissez d'abord la colonne sur laquelle vous souhaitez filtrer. Ensuite, vous spécifiez le critère de filtrage. Selon le critère de filtre choisi, vous devez également saisir la valeur du filtre. Pour certains critères de filtre, comme par exemple "est vide", cela n'est pas nécessaire pour des raisons logiques.
+Définissez d'abord la colonne sur laquelle vous souhaitez filtrer. Ensuite, vous spécifiez le critère de filtrage. Selon le critère de filtre choisi, vous devez également saisir la valeur du filtre. Pour certains critères de filtre, comme par exemple `est vide`, cela n'est pas nécessaire pour des raisons logiques.
 
 Pour ajouter une autre règle de filtrage, cliquez sur _Ajouter un filtre_ dans l'assistant. Vous pouvez maintenant définir la deuxième règle de filtrage comme la première. En complément, vous devez encore définir si les deux règles de filtrage présentent un lien ET ou OU. Pour ajouter d'autres règles de filtrage, répétez la procédure.
 
@@ -104,19 +104,19 @@ SeaTable prend en charge les filtrages sur tous les [types de colonnes]({{< relr
 
 Selon le type de colonne, l'assistant de filtrage affiche différents critères de filtrage. Pour les différents types de colonnes, il s'agit de
 
-- Texte : "contient", "ne contient pas", "est égal à", "est différent de", "est vide", "n'est pas vide" et "est l'ID de l'utilisateur connecté".
-- Zahl: ”=”, ”≠”, ”<'', ''>”, ”≤”, ”≥”, ”ist leer” und ”ist nicht leer”
-- Case à cocher : "est égal à"
-- Date : "est égal", "est dans", "est avant", "est après", est le ou avant", "'est le ou après", "est différent", "est vide" et "n'est pas vide".
-- Dauer: ”=”, ”≠”, ”<'', ''>”, ”≤”, ”≥”, ”ist leer” und ”ist nicht leer”
-- Choix simple : "est égal", "n'est pas égal", "est un de", "n'est pas", "est vide" et "n'est pas vide".
-- Choix multiple : "contient un de", "contient tous", "ne contient pas", "est exact", "est vide" et "n'est pas vide".
-- Collaborateurs : "contient un de", "contient tous", "ne contient pas", "est exact", "est vide", "n'est pas vide" et "inclure l'utilisateur actuel".
-- e-mail : "contient", "ne contient pas", "est égal à", "est différent de", "est vide" et "n'est pas vide".
-- lien : "contient", "ne contient pas", "est vide" et "n'est pas vide".
-- Création et dernière modification : "est égal", "est dans", "est avant", "est après", est le ou avant", "'est le ou après", "est différent", "est vide" et "n'est pas vide" (identique à la date)
+- Texte : `contient`, `ne contient pas`, `est égal à`, `est différent de`, `est vide`, `n'est pas vide` et `est l'ID de l'utilisateur connecté`.
+- Nombre: `=`, `≠`, `<'', ''>`, `≤`, `≥`, `est vide` et `n'est pas vide`
+- Case à cocher : `est égal à`
+- Date : `est égal`, `est dans`, `est avant`, `est après`, est le ou avant`, `'est le ou après`, `est différent`, `est vide`et`n'est pas vide`.
+- Durée: `=`, `≠`, `<'', ''>`, `≤`, `≥`, `est vide` et `n'est pas vide`
+- Choix simple : `est égal`, `n'est pas égal`, `est un de`, `n'est pas`, `est vide` et `n'est pas vide`.
+- Choix multiple : `contient un de`, `contient tous`, `ne contient pas`, `est exact`, `est vide` et `n'est pas vide`.
+- Collaborateurs : `contient un de`, `contient tous`, `ne contient pas`, `est exact`, `est vide`, `n'est pas vide` et `inclure l'utilisateur actuel`.
+- e-mail : `contient`, `ne contient pas`, `est égal à`, `est différent de`, `est vide` et `n'est pas vide`.
+- lien : `contient`, `ne contient pas`, `est vide` et `n'est pas vide`.
+- Création et dernière modification : `est égal`, `est dans`, `est avant`, `est après`, `est le ou avant`, `est le ou après`, `est différent`, `est vide` et `n'est pas vide` (identique à la date)
 
-Les lignes contenant des cellules vides sont en principe filtrées et ne sont donc pas affichées, sauf si l'on recherche explicitement "est vide".
+Les lignes contenant des cellules vides sont en principe filtrées et ne sont donc pas affichées, sauf si l'on recherche explicitement `est vide`.
 
 ## Enregistrement des paramètres de filtrage, de tri et de regroupement
 

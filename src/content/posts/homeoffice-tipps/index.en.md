@@ -23,7 +23,7 @@ To avoid decision fatigue in the morning, establish a fixed morning routine. Alw
 
 Creating a workspace is very important for working from home. If you don't have a study, use [room dividers](https://diy-family.com/diy-raumteiler-6-praktische-ideen/). This can be bookshelves, plants, curtains or just a different wall colour. Visual separation is important, it makes it easier to get into work mode and to switch off after work.
 
-![Home office](images/Bildschirmfoto-2020-09-08-um-11.37.16.png)
+![Home office](Bildschirmfoto-2020-09-08-um-11.37.16.png)
 
 ## 3\. fresh air and exercise
 

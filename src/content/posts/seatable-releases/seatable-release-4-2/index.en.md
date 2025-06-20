@@ -20,7 +20,7 @@ This morning we updated SeaTable Cloud to version 4.2. All self-hosters can do t
 
 The [snapshot functionality](https://seatable.io/en/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) is part of SeaTable's DNA. Even in version 1.0, snapshots of the status of a base could be created and restored at a later point in time. It is therefore only logical to integrate such a function into the Universal App Builder.
 
-![Version management in universal apps](images/Version-management-in-Universal-Apps.gif)
+![Version management in universal apps](Version-management-in-Universal-Apps.gif)
 
 The new **version management** is located behind the {{< seatable-icon icon="dtable-icon-history" >}} icon in the left-hand settings bar. There you can create, view, restore, and delete snapshots. A small note can also be entered for each snapshot, which allows you to quickly find the correct version again.
 
@@ -34,17 +34,17 @@ If you restore a saved snapshot, the app is reset to the previous status. All ch
 
 With universal apps in particular, which allow many users to add new records to a base, it is easy for **identical rows** to be created. You can prevent this by activating the function to prevent the addition of duplicates on [table and form pages](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/). In doing so, you define the columns in which the values must match for an row to count as a **duplicate**. If the addition of an row is blocked, a corresponding error message appears.
 
-![Prevent the addition of duplicates in universal apps](images/Prevent-adding-duplicate-records-in-Universal-Apps.gif)
+![Prevent the addition of duplicates in universal apps](Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
 ## Duplicate pages and deactivate apps
 
 Creating and configuring pages in the Universal App Builder can take a lot of time - especially for custom pages such as dashboards. In the event that you have already built pages that you only want to modify slightly, SeaTable 4.2 now offers the function to **duplicate pages** and thus save time and effort. The copy takes over all content, settings and authorizations one-to-one from the original page.
 
-![Duplicate pages in universal apps](images/Duplicate-page-in-Universal-Apps.png)
+![Duplicate pages in universal apps](Duplicate-page-in-Universal-Apps.png)
 
 If you have built an app that you want to temporarily prevent from being used, you can now **suspend** it with just a few clicks to revoke access for all user groups. The app can be **reactivated** later in the same way.
 
-![Temporarily suspend and reactivate apps](images/Suspend-and-activate-apps.gif)
+![Temporarily suspend and reactivate apps](Suspend-and-activate-apps.gif)
 
 ## Further customizing options
 
@@ -56,7 +56,7 @@ The development of the Universal App Builder will continue unabated in the comin
 
 Previously, you could only trigger the [automated "Edit entry" action](https://seatable.io/en/docs/automationen/automations-aktionen/#6-toc-title) by adding new rows or changing entries. Now you can also **run** this automation **periodically for entries that meet certain conditions**. The entries in the table are then always adjusted at a specific time according to the settings defined in advance.
 
-![Execute automated action "Edit entry" periodically](images/Run-automated-action-Modify-record-periodically-.png)
+![Execute automated action "Edit entry" periodically](Run-automated-action-Modify-record-periodically-.png)
 
 ## New function in the formula column: iserror()
 
@@ -68,7 +68,7 @@ The new **iserror()** function is a treat for [formula fans](https://seatable.io
 
 In SeaTable 4.2, we have refined the search function on the home page to give you an even better overview of your bases and apps. Simply enter part of the name in the search field and SeaTable will show you a list of all hits via auto-complete. You can also see the **history of recently used search results** in a kind of browser history, which you can use to quickly access the most recently used bases and apps.
 
-![Improved search function on the home page](images/Screenshot-2023-11-20-133326.png)
+![Improved search function on the home page](Screenshot-2023-11-20-133326.png)
 
 ### Convert private to normal views
 

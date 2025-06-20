@@ -22,7 +22,7 @@ Pour éviter d'être fatigué de prendre des décisions le matin, établissez un
 
 Pour travailler à la maison, il est très important de créer un espace de travail. Si tu ne disposes pas d'un bureau, utilise [des séparateurs d'espace](https://diy-family.com/diy-raumteiler-6-praktische-ideen/). Il peut s'agir de bibliothèques, de plantes, de rideaux ou simplement d'une autre couleur de mur. La séparation visuelle est importante, car elle te permet de te mettre plus facilement en mode travail et de te déconnecter plus facilement après le travail.
 
-![Bureau à domicile](https://seatable.de/wp-content/uploads/2020/09/Bildschirmfoto-2020-09-08-um-11.37.16.png)
+![Bureau à domicile](Bildschirmfoto-2020-09-08-um-11.37.16.png)
 
 ## 3\. l'air frais et l'exercice
 

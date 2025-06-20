@@ -35,7 +35,7 @@ En revanche, **les connaissances implicites** sont tout le savoir-faire de vos p
 
 Il est donc essentiel pour la gestion des connaissances dans votre entreprise de consigner les solutions individuelles développées par vos collaborateurs dans un système de gestion des connaissances.
 
-![Un bon climat de travail dans votre entreprise pose une pierre angulaire importante pour une gestion des connaissances qui fonctionne.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-29-e1722945539973-711x555.png)
+![Un bon climat de travail dans votre entreprise pose une pierre angulaire importante pour une gestion des connaissances qui fonctionne.](Design-ohne-Titel-29-e1722945539973-711x555.png)
 
 Une ambiance de travail agréable vous aide à rassembler et à partager les connaissances.
 
@@ -53,7 +53,7 @@ Dans cette variante, vous regroupez les connaissances de personnes individuelles
 
 Cette variante est utilisée lorsque les connaissances sont trop complexes pour être formulées de manière compréhensible pour tous. Il faut alors **des experts** qui transmettent personnellement leur savoir à certains collègues et qui sont également disponibles en cas de questions.
 
-![Un expert devrait toujours être disponible aux heures de travail, même si la personne se trouve dans son bureau à domicile.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-28-e1722945260552-711x505.png)
+![Un expert devrait toujours être disponible aux heures de travail, même si la personne se trouve dans son bureau à domicile.](Design-ohne-Titel-28-e1722945260552-711x505.png)
 
 Si vous avez des experts dans votre entreprise, ils doivent pouvoir être contactés rapidement et facilement en cas de problème.
 
@@ -63,7 +63,7 @@ Vous pouvez également combiner les deux stratégies, par exemple en partageant 
 
 Pour pouvoir utiliser efficacement les connaissances accumulées par votre entreprise, vous devez être conscient des **huit éléments qui** composent la gestion des connaissances.
 
-![Les huit éléments de la gestion des connaissances s'appuient les uns sur les autres et vous permettent d'améliorer l'efficacité globale de votre entreprise.](https://seatable.io/wp-content/uploads/2024/08/Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
+![Les huit éléments de la gestion des connaissances s'appuient les uns sur les autres et vous permettent d'améliorer l'efficacité globale de votre entreprise.](Die-8-Bausteine-von-Wissensmanagement-e1722935579993-711x947.png)
 
 Systématique selon Probst, Raub et Romhardt
 
@@ -76,7 +76,7 @@ Il en résulte une sorte de guide dont vous pouvez vous inspirer pour élaborer 
 
 Un grand nombre de méthodes connues entrent en ligne de compte pour la diffusion des connaissances, par exemple [les ateliers](https://seatable.io/fr/workshop-planen/), les leçons apprises, les [réunions d'équipe](https://seatable.io/fr/in-4-schritten-zu-effizienteren-teammeetings/), le mentoring, [l](https://seatable.io/fr/onboarding/) '[onboarding](https://seatable.io/fr/onboarding/) ou les newsletters internes.
 
-![Pour gérer les connaissances, il est important que tous les collaborateurs soient au même niveau et qu'ils échangent activement des informations.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-27-e1722944969749-711x544.png)
+![Pour gérer les connaissances, il est important que tous les collaborateurs soient au même niveau et qu'ils échangent activement des informations.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 
 Pour une bonne gestion des connaissances, il est important d'avoir un échange actif.
 
@@ -95,11 +95,11 @@ La gestion des connaissances peut apporter beaucoup et peut donc être utilisée
 
 Dans le domaine du **support client**, par exemple, un système de gestion des connaissances sophistiqué peut vous décharger de nombreuses tâches. Pour des questions telles que "Comment modifier mes données d'adresse ?" ou "Où puis-je désactiver les notifications ?", les clients ont rarement besoin d'un interlocuteur personnel par téléphone ou par e-mail. Au lieu de cela, un **portail en libre-service** est mis en place, dans lequel les questions les plus fréquentes des clients peuvent être consultées avec une solution immédiatement mise à disposition.
 
-![Le support client se compose de plusieurs éléments.](https://seatable.io/wp-content/uploads/2024/08/Design-ohne-Titel-26-e1722944554743-711x485.png)
+![Le support client se compose de plusieurs éléments.](Design-ohne-Titel-26-e1722944554743-711x485.png)
 
 Épargnez beaucoup de travail à vos collaborateurs en proposant à vos clients de les aider à s'aider eux-mêmes.
 
-[Cette rubrique d'aide](https://seatable.io/fr/docs/) est un exemple de système de gestion des connaissances bien géré. Cela vous permet d'une part de réduire les efforts d'assistance de vos collaborateurs et d'autre part d'épargner à vos clients un long temps d'attente.
+[Cette rubrique d'aide]({{< relref "help" >}}) est un exemple de système de gestion des connaissances bien géré. Cela vous permet d'une part de réduire les efforts d'assistance de vos collaborateurs et d'autre part d'épargner à vos clients un long temps d'attente.
 
 ### Utilisation interne
 
@@ -111,7 +111,7 @@ Une **culture d'entreprise** basée sur le partage des connaissances aide chaque
 
 Si vous vous demandez si un système de gestion des connaissances est rentable pour votre entreprise, ne vous inquiétez pas : à long terme, la gestion des connaissances est toujours rentable ! Il y a toutefois quelques **défis à relever**.
 
-![La gestion des connaissances présente de nombreux avantages, mais elle est confrontée à certains défis, en particulier au début du processus.](images/Vor-und-Nachteile-von-Wissensmanagement.png)
+![La gestion des connaissances présente de nombreux avantages, mais elle est confrontée à certains défis, en particulier au début du processus.](Vor-und-Nachteile-von-Wissensmanagement.png)
 
 Pesez le pour et le contre.
 
@@ -188,14 +188,14 @@ Pour trouver le logiciel le mieux adapté à votre entreprise, vous devriez test
 
 La base de connaissances **SeaTable**, intuitive et simple d'utilisation **,** est une bonne réponse à toutes ces questions. À différents niveaux (bases, tableaux, vues, lignes), elle vous permet, à vous et à vos collaborateurs, de saisir des informations de manière structurée, de les trouver rapidement, de les partager facilement avec d'autres ou de les filtrer en fonction de leur pertinence pour un groupe de personnes donné. Ainsi, vous et vos collaborateurs gardez toujours une vue d'ensemble.
 
-![Documenter les connaissances est une tâche simple avec SeaTable](images/knowledge-management.jpg)
+![Documenter les connaissances est une tâche simple avec SeaTable](knowledge-management.jpg)
 
-En choisissant SeaTable, vous offrez à vos collaborateurs une boîte à outils complète qui leur permet de créer une base de connaissances flexible. SeaTable permet une [collaboration](https://seatable.io/fr/docs/seatable-nutzen/zusammenarbeit/) en temps réel, avec [des commentaires](https://seatable.io/fr/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) et [un historique](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/) complet [des modifications](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/). Vous et vos collaborateurs pouvez ainsi transformer vos connaissances personnelles implicites en connaissances explicites et les mettre à la disposition des autres. SeaTable vous permet également de visualiser graphiquement les données à l'aide de différents [plug-ins](https://seatable.io/fr/docs/plugins/alle-plugins-in-der-uebersicht/) et [applications](https://seatable.io/fr/docs/apps/universelle-app/).
+En choisissant SeaTable, vous offrez à vos collaborateurs une boîte à outils complète qui leur permet de créer une base de connaissances flexible. SeaTable permet une [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) en temps réel, avec [des commentaires](https://seatable.io/fr/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) et [un historique](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/) complet [des modifications](https://seatable.io/fr/docs/historie-und-versionen/historie-und-logs/). Vous et vos collaborateurs pouvez ainsi transformer vos connaissances personnelles implicites en connaissances explicites et les mettre à la disposition des autres. SeaTable vous permet également de visualiser graphiquement les données à l'aide de différents [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) et [applications]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
-Vous pouvez utiliser SeaTable dans le cloud, qui est hébergé dans des centres de données allemands conformément au RGPD, ou l'installer [sur site](https://seatable.io/fr/on-premises/) sur vos propres serveurs. Vos données sont ainsi sécurisées dans tous les cas ! Les autorisations vous permettent en outre de contrôler précisément qui peut voir et traiter quelles données à de nombreux endroits de SeaTable.
+Vous pouvez utiliser SeaTable dans le cloud, qui est hébergé dans des centres de données allemands conformément au RGPD, ou l'installer [sur site]({{< relref "pages/product/seatable-server" >}}) sur vos propres serveurs. Vos données sont ainsi sécurisées dans tous les cas ! Les autorisations vous permettent en outre de contrôler précisément qui peut voir et traiter quelles données à de nombreux endroits de SeaTable.
 
 ## Conclusion : construisez votre propre gestion des connaissances
 
 Tout début est difficile, mais cela en vaut la peine ! Investissez du temps et des efforts dans la gestion des connaissances afin de rendre utilisables les connaissances cachées dans votre entreprise.
 
-Vous souhaitez utiliser SeaTable pour la gestion de vos connaissances ? Alors [inscrivez-vous](https://seatable.io/fr/enregistrement/) gratuitement.
+Vous souhaitez utiliser SeaTable pour la gestion de vos connaissances ? Alors [inscrivez-vous]({{< relref "pages/registration" >}}) gratuitement.

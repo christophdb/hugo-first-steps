@@ -25,7 +25,7 @@ It is thus the task of public museums, exhibitions and galleries to be a haven o
 
 Art management is therefore about taking on precisely this difficult challenge and finding ways and means to fulfill the aforementioned core tasks in the public sphere.
 
-![The management of art exhibitions, museums and exhibitions requires flexibility from people and software.](images/ausstellungsmanagement-seatable.jpg)
+![The management of art exhibitions, museums and exhibitions requires flexibility from people and software.](ausstellungsmanagement-seatable.jpg)
 
 ## The differences between arts management and the management of a company
 
@@ -35,7 +35,7 @@ In addition, museums, galleries and exhibitions not only have to do a consistent
 
 A small insight into the problem was given by the [resignation of Udo Kittelmann in 2019](https://www.tagesspiegel.de/kultur/staatliche-museen-in-der-krise-udo-kittelmanns-ruecktritt-wirft-ein-schlaglicht-auf-gravierende-probleme/24944096.html). Kittelmann renounced the chief post of the German National Gallery, probably the most renowned exhibition in Germany. Too little budget and too little freedom in combination with the permanent need for representation by politics had made him throw in the towel.
 
-![Art management differs from the management of a company](images/art-management-seatable.jpg)
+![Art management differs from the management of a company](art-management-seatable.jpg)
 
 Few museums have the same appeal as the Louvre in Paris. The picture shows visitors in front of the Mona Lisa.
 
@@ -51,7 +51,7 @@ In addition, art objects often do not belong to museums, but are on loan for a c
 
 It is the task of art management to master this complexity with digital solutions. These solutions must be able to cope with each of these challenges and must not cost too much.
 
-![SeaTable as flexible museum software](images/museumssoftware-seatable.jpg)
+![SeaTable as flexible museum software](museumssoftware-seatable.jpg)
 
 Art management software must be flexible and simple at the same time. An unsolvable challenge for usual industry solutions
 
@@ -77,7 +77,7 @@ The strength of SeaTable lies in the fact that you determine yourself what infor
 
 Our template [Art Gallery Management]({{< relref "templates/operations/art-gallery-management" >}}) has some sample entries to show you the possibilities. The individual art objects are at the center of the collection management and are linked to the artists. At the same time, where the artwork is currently located is recorded and there are links to planned restorations and loans. An extension to include public references, creative periods or art categories can be added at any time.
 
-![Object overview of the Art Gallery Template](images/art-gallery-management-objects.png)
+![Object overview of the Art Gallery Template](art-gallery-management-objects.png)
 
 Object overview of the Art Gallery Template
 
@@ -85,7 +85,7 @@ Object overview of the Art Gallery Template
 
 The table view of SeaTable can be flexibly adapted to the needs of your individual employees with individual views. In addition, SeaTable has other display options besides the tabular view. For entries with pictures, for example, it can make sense to use the [gallery plugin](https://seatable.io/en/docs/handbuch/seatable-nutzen/ansichten/) to get a clear overview and quickly find the desired entry. A click on the entry is sufficient to switch to the detailed view and make adjustments to the data.
 
-![The artists presented as a gallery](images/art-gallery-management-gallery-view.png)
+![The artists presented as a gallery](art-gallery-management-gallery-view.png)
 
 The artists represented in a gallery
 
@@ -95,7 +95,7 @@ The organization of an exhibition is complex and requires careful planning, mana
 
 Every museum has to manage a large number of contracts, agreements and insurances related to the exhibitions, loans and objects. In SeaTable you'll be able to record any type of information in a structured way to file a complete documentation. Manage your documents in specific file columns, get automatic email reminders before the expiration of a deadline or monitor the monthly costs using the statistical evaluations.
 
-![Evaluation of monthly costs by expenditure category](images/art-gallery-management-statistics.png)
+![Evaluation of monthly costs by expenditure category](art-gallery-management-statistics.png)
 
 Evaluation of monthly costs by expenditure category
 
@@ -105,7 +105,7 @@ Contact and contract management is about managing all the people and companies y
 
 Do you want to save the date of birth of your sponsors in addition to the address? With just a few clicks, you can add another date column to your data entry and save this information as well from now on. The possibilities are almost limitless; for example, in addition to master data such as salutation, name, address, telephone number and e-mail, you could also maintain address groups and distribution lists as well as a complete contact history.
 
-![Group and filter your contacts](images/art-gallery-contacts.png)
+![Group and filter your contacts](art-gallery-contacts.png)
 
 Group and filter your contacts
 

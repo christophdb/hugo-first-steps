@@ -93,7 +93,7 @@ proxy_pass http://127.0.0.1:880;
 
 Если вы относитесь к большинству и хотите управлять своим сертификатом HTTPS с помощью Let's Encrypt, просто следуйте инструкциям на [сайте Certbot Фонда электронных рубежей](https://certbot.eff.org/).
 
-![генератор инструкций certbot](images/certbot_instructions_generator.png)
+![генератор инструкций certbot](certbot_instructions_generator.png)
 
 В случае с nginx на Ubuntu 20.04 для запроса и включения SSL-сертификата Let's Encrypt необходимо выполнить всего четыре команды:  
 `sudo snap install core; sudo snap refresh core   sudo snap install --classic certbot   sudo ln -s /snap/bin/certbot /usr/bin/certbot   sudo certbot --nginx`

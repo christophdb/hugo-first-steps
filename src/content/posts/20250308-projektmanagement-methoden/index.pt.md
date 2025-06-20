@@ -120,13 +120,13 @@ A gestão de projectos Lean distingue três males que têm de ser analisados e e
 - Mura **(desequilíbrio)** centra-se em processos desequilibrados com etapas de processo descoordenadas e interrupções que causam filas de espera ou tempos de inatividade.
 - Muri **(sobrecarga)** refere-se à utilização e ao alívio dos membros da equipa e das máquinas. Não devem existir estrangulamentos que provoquem níveis elevados de desgaste ou baixas por doença devido a sobrecarga.
 
-É também importante para este método encontrar o rácio ótimo entre [custos e benefícios](https://seatable.io/pt/kosten-nutzen-analyse-vorlage/) de um projeto.
+É também importante para este método encontrar o rácio ótimo entre [custos e benefícios]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) de um projeto.
 
 Seguem-se dois métodos de gestão de projectos que se centram na ilustração gráfica: A estrutura de decomposição do trabalho e a técnica de rede.
 
 ### 9\. Estrutura analítica do trabalho
 
-No [plano de estrutura do projeto](https://seatable.com/pt/projektstrukturplan/), registam-se todas as tarefas do projeto num único gráfico. Pode então criar pacotes de trabalho, atribuir responsabilidades e estabelecer prazos.
+No [plano de estrutura do projeto]({{< relref "posts/20250317-projektstrukturplan" >}}), registam-se todas as tarefas do projeto num único gráfico. Pode então criar pacotes de trabalho, atribuir responsabilidades e estabelecer prazos.
 
 O plano de estruturação do trabalho é adequado para acompanhar grandes projectos. Tem origem na gestão clássica de projectos e é por vezes difícil de adaptar aos métodos ágeis. No entanto, nos projectos em que é necessária uma visão global, é possível racionalizar e simplificar o plano para que este permaneça claro e seja fácil fazer alterações.
 

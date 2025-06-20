@@ -94,7 +94,7 @@ Avec l'autorisation correspondante, les utilisateurs de l'application peuvent mo
 
 ## Générer un code QR pour des entrées individuelles
 
-Dans la barre d'outils, vous trouverez également un **générateur de code QR**. Le code QR contient le lien vers l'entrée actuellement affichée. Placé sur un objet ou un appareil, vous pouvez scanner le code QR à l'aide d'une tablette ou d'un smartphone et consulter toutes les données dans l'application sans aucune saisie au clavier. Cela facilite encore plus la [gestion de l'inventaire](https://seatable.io/fr/inventarliste-vorlagen/), par exemple.
+Dans la barre d'outils, vous trouverez également un **générateur de code QR**. Le code QR contient le lien vers l'entrée actuellement affichée. Placé sur un objet ou un appareil, vous pouvez scanner le code QR à l'aide d'une tablette ou d'un smartphone et consulter toutes les données dans l'application sans aucune saisie au clavier. Cela facilite encore plus la [gestion de l'inventaire]({{< relref "templates/operations/inventory-list" >}})), par exemple.
 
 ![Plus d'options de conception sur la page d'un seul enregistrement dans SeaTable 5.1](images/SingleRecordPage.png)
 

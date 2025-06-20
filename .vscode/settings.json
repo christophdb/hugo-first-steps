@@ -10,5 +10,3 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "deepl.formality": "more",
-}

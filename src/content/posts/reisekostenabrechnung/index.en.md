@@ -13,7 +13,7 @@ seo:
 
 The Income Tax Act describes three categories of **expenses** that employees can have **reimbursed** by their companies. In addition to orders placed on behalf of the company and expenses incurred to fulfill an order, this also applies to **business trips**. Whether it's a business trip lasting several days, a meeting with a distant customer or a trip to a trade fair - business trips are part of everyday life for many employees. In the following article, you will not only learn what a **travel expense report** is, but also receive valuable tips on how to create one.
 
-![Business trip: Hand on the suitcase](images/guests-with-suitcases-hotel-reception-711x474.jpg)
+![Business trip: Hand on the suitcase](guests-with-suitcases-hotel-reception-711x474.jpg)
 
 Companies often carry out a [cost-benefit analysis]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) of business trips to ensure that the expenditure is justified.
 
@@ -31,7 +31,7 @@ For **employers** accurate travel expense reporting is not only important to **c
 
 Also for **employees** there are advantages to preparing a travel expense report. Although you can claim the costs of a business trip as income-related expenses in your **income tax return**, this only reduces your gross annual salary. Reimbursement of expenses by the employer is therefore often the more economically sensible option.
 
-![Travel expense report: A woman is doing paperwork and typing into a calculator.](images/entrepreneur-working-with-bills-711x474.jpg)
+![Travel expense report: A woman is doing paperwork and typing into a calculator.](entrepreneur-working-with-bills-711x474.jpg)
 
 Employees record their expenses in the expense report and submit them for reimbursement.
 
@@ -51,7 +51,7 @@ Accommodation costs include expenses such as **hotel stays** or the **rent for a
 
 An important special feature in the billing of accommodation costs is the **personal contribution** for breakfast and other meals. A fixed amount is often set for this, usually EUR 5.60 for breakfast and EUR 11.20 for an evening meal. These amounts are borne by the employee and must be taken into account accordingly in the travel expense report.
 
-![Travel expense report: A hotel room in earthy tones.](images/pexels-pixabay-164595-711x474.jpg)
+![Travel expense report: A hotel room in earthy tones.](pexels-pixabay-164595-711x474.jpg)
 
 The hotel is often selected according to the company's budget and the applicable guidelines for business trips.
 
@@ -81,7 +81,7 @@ Spacer
 - Tickets for professional events
 - Theft of professional property
 
-![Travel expense report: a toll road.](images/pexels-nandhukumar-16967276-711x443.jpg)
+![Travel expense report: a toll road.](pexels-nandhukumar-16967276-711x443.jpg)
 
 Incidental travel expenses also include charges for the use of highways or other toll roads.
 

@@ -147,7 +147,7 @@ Además de la **infraestructura de base de datos**, SeaTable ofrece una **plataf
 
 ## Conclusión: La computación en nube es el futuro
 
-La computación en nube le ofrece una forma rentable, cómoda y segura de ampliar los recursos informáticos de su empresa de forma rápida y flexible en función de la demanda. Sus empleados pueden acceder a los datos y aplicaciones en la nube en cualquier momento y desde cualquier lugar. Esto favorece un almacenamiento de datos y una [colaboración eficientes](https://seatable.io/docs/seatable-nutzen/zusammenarbeit/), sobre todo teniendo en cuenta la creciente cultura del trabajo a distancia. Aproveche las ventajas de la nube para que su empresa esté preparada para el futuro digital.
+La computación en nube le ofrece una forma rentable, cómoda y segura de ampliar los recursos informáticos de su empresa de forma rápida y flexible en función de la demanda. Sus empleados pueden acceder a los datos y aplicaciones en la nube en cualquier momento y desde cualquier lugar. Esto favorece un almacenamiento de datos y una [colaboración eficientes]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}), sobre todo teniendo en cuenta la creciente cultura del trabajo a distancia. Aproveche las ventajas de la nube para que su empresa esté preparada para el futuro digital.
 
 ![computación en la nube sin fronteras](Cloud-Computing-ohne-Grenzen.jpg)
 

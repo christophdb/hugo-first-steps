@@ -14,7 +14,7 @@ seo:
 
 Готовитесь ли вы к легендарному [Wacken](https://www.wacken.com/de/), захватывающему [Rock am Ring](https://www.rock-am-ring.com) или энергичному [Hurricane](https://hurricane.de/de/) Festival - в списке необходимых вещей для любого фестиваля есть несколько обязательных пунктов.
 
-![Список вещей для фестиваля: Мужчина перевозит женщину на свинье на фестивале](images/group-friends-having-fun-together-711x475.jpg)
+![Список вещей для фестиваля: Мужчина перевозит женщину на свинье на фестивале](group-friends-having-fun-together-711x475.jpg)
 
 Фестивали объединяют людей и способствуют развитию чувства общности.
 
@@ -24,7 +24,7 @@ seo:
 
 ### Essentials
 
-![Список фестивалей: Толпа перед сценой](images/colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
+![Список фестивалей: Толпа перед сценой](colin-lloyd-eiQqGBAMgIE-unsplash-711x474.jpg)
 
 Фестивали обеспечивают доступ к разнообразной музыкальной программе.
 
@@ -50,7 +50,7 @@ seo:
 
 ### Кемпинг
 
-![Женщина стоит в спальном мешке перед своей палаткой](images/female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
+![Женщина стоит в спальном мешке перед своей палаткой](female-blonde-resting-tent-wrapped-sleeping-bag-outdoors-711x640.jpg)
 
 В шумной обстановке ночи часто бывают короткими.
 
@@ -76,7 +76,7 @@ seo:
 
 ### Кейтеринг
 
-![Миска с мюсли и чашка стоят на камне](images/camping-lifestyle-with-food-711x637.jpg)
+![Миска с мюсли и чашка стоят на камне](camping-lifestyle-with-food-711x637.jpg)
 
 На фестивале нужно много энергии.
 
@@ -102,7 +102,7 @@ seo:
 
 ### Одежда
 
-![Женщина показывает своему партнеру что-то на фестивале](images/couple-standing-crowd-music-festival-711x481.jpg)
+![Женщина показывает своему партнеру что-то на фестивале](couple-standing-crowd-music-festival-711x481.jpg)
 
 Правильная одежда - это та, в которой вы чувствуете себя комфортно.
 
@@ -128,7 +128,7 @@ seo:
 
 ### Гигиена и медицина
 
-![Разноцветные туалеты на пыльном полу](images/amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
+![Разноцветные туалеты на пыльном полу](amit-lahav-wNfIM3Cmhqk-unsplash-711x474.jpg)
 
 Гигиеническая обстановка на фестивалях часто бывает не слишком комфортной.
 
@@ -158,7 +158,7 @@ seo:
 
 ### Разное
 
-![Друзья играют вместе в пивной понг](images/front-view-women-playing-beer-pong-711x474.jpg)
+![Друзья играют вместе в пивной понг](front-view-women-playing-beer-pong-711x474.jpg)
 
 Чтобы скоротать время, в кемпинге проводятся игры.
 

@@ -18,7 +18,7 @@ Vous buvez chaque année du vin chaud sur le marché de Noël avec vos collègue
 
 Vos collaborateurs voient déjà le bureau et le bâtiment de l'entreprise chaque semaine. Que diriez-vous donc d'un endroit que vos collègues ne connaissent pas encore ? Une fête de Noël en dehors de l'entreprise apporte toujours une ambiance particulière et offre l'occasion idéale de laisser derrière soi le quotidien du travail. En fonction du budget dont vous disposez pour votre fête, de nombreuses possibilités s'offrent à vous, mais vous devez les planifier suffisamment à l'avance.
 
-![Idées pour une fête de Noël en dehors des locaux de l'entreprise](https://seatable.io/wp-content/uploads/2023/07/Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
+![Idées pour une fête de Noël en dehors des locaux de l'entreprise](Weihnachtsfeier-Ideen-ausserhalb-der-Firmenraeumlichkeiten-1-711x596.png)
 
 ### Polar de Noël
 
@@ -32,7 +32,7 @@ Ceux qui ne veulent pas renoncer aux énigmes difficiles, même lors de la fête
 
 Terminez la fête de Noël par un moment de convivialité autour de délicieux plats et boissons. Les escape rooms sont désormais présentes dans toutes les grandes villes. Mais cette idée peut également être mise en œuvre avec des escape games mobiles que vous pouvez répartir sur les tables lors de votre fête de Noël. Pour ce faire, il vous suffit de faire livrer les ustensiles nécessaires aux énigmes sur le lieu de votre événement et d'initier vous-même vos invités à l'aventure ludique.
 
-![Escape Room de Noël](https://seatable.io/wp-content/uploads/2023/08/theo-crazzolara-HYBL_FAunt0-unsplash.jpg)
+![Escape Room de Noël](theo-crazzolara-HYBL_FAunt0-unsplash.jpg)
 
 Un dîner polar élégant ou des escape rooms de Noël peuvent être l'occasion d'un événement d'entreprise passionnant.
 
@@ -46,7 +46,7 @@ Une fois la randonnée réussie, vous pouvez encore terminer la fête par un dé
 
 Fondue au fromage et Kaiserschmarrn, accompagnés d'eau-de-vie de fruits et d'autres classiques - le tout dans une ambiance douillette de chalet. Cela semble unique ? C'est vrai ! Une fête de Noël dans un chalet fait définitivement partie de nos préférées. Louez pour votre équipe un lieu dans les Alpes ou dans d'autres montagnes pittoresques et mettez en place la Hüttengaudi avec une décoration et une musique adaptées.
 
-![Un chalet douillet entouré d'un paysage enneigé : l'endroit idéal pour une fête de Noël dans un chalet.](https://seatable.io/wp-content/uploads/2023/07/pexels-mikhail-nilov-6530841-min-711x400.jpg)
+![Un chalet douillet entouré d'un paysage enneigé : l'endroit idéal pour une fête de Noël dans un chalet.](pexels-mikhail-nilov-6530841-min-711x400.jpg)
 
 Un chalet douillet entouré d'un paysage enneigé : l'endroit idéal pour une fête de Noël en chalet.
 
@@ -66,7 +66,7 @@ Vous voulez faire la fête à l'extérieur, mais notre top 5 ne vous a pas encor
 - **Soirée au château :** invitez vos collaborateurs à un repas de fête dans un château ou un manoir des environs. Difficile de terminer l'année de manière plus noble !
 - Une **table ronde chevaleresque :** vous pouvez organiser une fête de Noël avec mets et boissons comme au Moyen Âge dans des châteaux forts, des caves voûtées ou des auberges rustiques.
 
-![Un lieu exceptionnel pour la fête de Noël](https://seatable.io/wp-content/uploads/2023/08/nico-benedickt-CpQBg5qyW5M-unsplash-min.jpg)
+![Un lieu exceptionnel pour la fête de Noël](nico-benedickt-CpQBg5qyW5M-unsplash-min.jpg)
 
 Que diriez-vous d'un château de conte de fées ou d'un château médiéval pour votre fête de Noël ?
 
@@ -74,7 +74,7 @@ Que diriez-vous d'un château de conte de fées ou d'un château médiéval pour
 
 Si vous ne souhaitez pas organiser votre fête de Noël dans un lieu externe, mais plutôt dans les locaux de votre entreprise, cela ne signifie pas pour autant que votre fête ne peut pas être exceptionnelle. Il existe également suffisamment d'idées pour faire de votre fête de Noël sur place un événement d'entreprise particulier.
 
-![Idées pour la fête de Noël dans les locaux de l'entreprise](https://seatable.io/wp-content/uploads/2023/07/Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
+![Idées pour la fête de Noël dans les locaux de l'entreprise](Weihnachtsfeier-Ideen-innerhalb-der-Firmenraeumlichkeiten-2-711x596.png)
 
 ### Fête à thème
 
@@ -84,7 +84,7 @@ Une fête à thème est un événement populaire et relativement peu coûteux. O
 
 Transformer votre lieu en casino est une idée aussi extraordinaire qu'amusante pour votre fête de Noël. Faites entrer l'ambiance prestigieuse de Las Vegas directement dans votre entreprise ! Des croupiers professionnels attendent vos invités pour des jeux comme le black jack, le poker ou la roulette. Cela ne ressemble pas du tout à Noël ? Mais si ! Avec un menu de Noël et une décoration adéquate, vous obtiendrez sans problème une atmosphère de Noël.
 
-![Une fête de Noël comme au casino](https://seatable.io/wp-content/uploads/2023/08/dusan-kipic-qtD-aRQtMuc-unsplash-min.jpg)
+![Une fête de Noël comme au casino](dusan-kipic-qtD-aRQtMuc-unsplash-min.jpg)
 
 Bien entendu, l'objectif principal d'une fête de Noël n'est pas de jouer de l'argent réel, mais de créer une bonne ambiance et de permettre à vos collaborateurs de s'amuser. Néanmoins, vous pouvez offrir des prix aux collaborateurs qui auront récolté le plus de jetons au cours de la soirée. Des prestataires externes vous aident à organiser la soirée, mettent à disposition des croupiers et livrent les accessoires de casino sur votre lieu.
 
@@ -92,7 +92,7 @@ Bien entendu, l'objectif principal d'une fête de Noël n'est pas de jouer de l'
 
 Une idée rapide et facile à mettre en œuvre pour votre fête de Noël d'entreprise est de préparer ensemble une pâtisserie de Noël. Pour cela, il faut que vous disposiez d'une cuisine d'entreprise bien équipée avec un four et que votre équipe ou votre département soit composé d'un nombre raisonnable de collègues. Faites revivre des souvenirs d'enfance et passez des heures agréables ensemble à préparer les biscuits de Noël les plus divers. Vous pourrez ensuite emballer et bien sûr déguster ensemble les créations pâtissières ainsi obtenues, comme les croissants à la vanille, les étoiles à la cannelle et autres.
 
-![Une pâtisserie de Noël commune avec vos collègues : une idée simple pour une fête de Noël d'entreprise réussie ](https://seatable.io/wp-content/uploads/2023/07/pexels-nicole-michalou-6061743-min-711x474.jpg)
+![Une pâtisserie de Noël commune avec vos collègues : une idée simple pour une fête de Noël d'entreprise réussie ](pexels-nicole-michalou-6061743-min-711x474.jpg)
 
 Une pâtisserie de Noël commune avec vos collègues : une idée simple pour une fête de Noël d'entreprise réussie.
 
@@ -126,7 +126,7 @@ Une fois que vous savez quand, où et comment vous allez faire la fête avec vos
 
 Le point probablement le plus important de votre fête de Noël est la restauration de vos invités. Des boissons choisies et un menu délicieux font souvent la moitié du travail et garantissent la bonne humeur et la satisfaction de vos invités. Même pour un budget relativement modeste, vous disposez ici de quelques possibilités. Rendez-vous ensemble dans un restaurant, faites appel à un traiteur pour un buffet ou réservez un food truck qui servira de délicieux plats à vos collègues sur place. En fonction de la taille de votre équipe et de l'équipement de votre lieu, il peut également être intéressant que vous prépariez vous-même un repas de Noël commun.
 
-![Qu'il s'agisse d'aller au restaurant, de faire appel à un traiteur ou de cuisiner ensemble : La restauration de vos invités constitue la base d'une fête de Noël réussie.](https://seatable.io/wp-content/uploads/2023/07/pexels-naim-benjelloun-2291367-min-711x474.jpg)
+![Qu'il s'agisse d'aller au restaurant, de faire appel à un traiteur ou de cuisiner ensemble : La restauration de vos invités constitue la base d'une fête de Noël réussie.](pexels-naim-benjelloun-2291367-min-711x474.jpg)
 
 Qu'il s'agisse d'aller au restaurant, de faire appel à un service de restauration ou de cuisiner ensemble : La restauration de vos invités pose la première pierre d'une fête de Noël réussie.
 
@@ -145,7 +145,7 @@ Si vous avez opté pour l'une des idées ci-dessus, une grande partie du program
 2. Ou préférez-vous rire beaucoup ensemble ? Pour cela, invitez par exemple un comédien de stand-up qui fera un exposé drôle et interagira avec vos invités.
 3. Deviner ensemble permet également de détendre l'atmosphère et de provoquer quelques rires. Un quiz de Noël avec un animateur professionnel serait parfait pour cela.
 
-![De la musique pour votre événement d'entreprise](https://seatable.io/wp-content/uploads/2023/08/marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg)
+![De la musique pour votre événement d'entreprise](marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg)
 
 Vous ne disposez que d'un budget limité, mais vous souhaitez tout de même passer une soirée amusante avec vos collaborateurs ? Pas de problème ! Même dans ce cas, vous pouvez offrir à vos collègues un événement d'entreprise dont ils se souviendront longtemps. Vous pouvez en effet vous charger vous-même de certains points du programme : Créez par exemple une playlist avec la musique appropriée pour votre fête de Noël ou préparez vous-même différents jeux-questionnaires.
 
@@ -155,6 +155,6 @@ Pour de nombreuses entreprises, la fête de Noël annuelle est le plus grand év
 
 ### Astuce logicielle pour organiser votre fête de Noël
 
-Pour garder une vue d'ensemble lors de la planification et de la réalisation de votre fête de Noël, vous pouvez organiser toutes les choses importantes avec la solution gratuite de tableur et de base de données [SeaTable](https://seatable.io/fr/event-planen/). Utilisez par exemple un [formulaire web](https://seatable.io/fr/docs/webformulare/webformulare/) pour que vos invités puissent s'inscrire. Comparez facilement les prix et les offres de différents lieux et organisateurs d'événements ou calculez les coûts des repas et des boissons. Diverses fonctions de visualisation de vos données (par ex. chronologie, calendrier, carte, tableau Kanban ou statistiques) vous permettent de préparer parfaitement votre prochaine fête de Noël d'entreprise.
+Pour garder une vue d'ensemble lors de la planification et de la réalisation de votre fête de Noël, vous pouvez organiser toutes les choses importantes avec la solution gratuite de tableur et de base de données [SeaTable](https://seatable.io/fr/event-planen/). Utilisez par exemple un [formulaire web]({{< relref "help/base-editor/webformulare" >}}) pour que vos invités puissent s'inscrire. Comparez facilement les prix et les offres de différents lieux et organisateurs d'événements ou calculez les coûts des repas et des boissons. Diverses fonctions de visualisation de vos données (par ex. chronologie, calendrier, carte, tableau Kanban ou statistiques) vous permettent de préparer parfaitement votre prochaine fête de Noël d'entreprise.
 
-Essayez simplement le [modèle]({{< relref "templates/events/event-management" >}}) de SeaTable en vous inscrivant gratuitement [ici](https://seatable.io/fr/enregistrement/). Vous pouvez bien sûr remplir les tableaux avec vos propres données et les adapter à vos besoins à volonté.
+Essayez simplement le [modèle]({{< relref "templates/events/event-management" >}}) de SeaTable en vous inscrivant gratuitement [ici]({{< relref "pages/registration" >}}). Vous pouvez bien sûr remplir les tableaux avec vos propres données et les adapter à vos besoins à volonté.

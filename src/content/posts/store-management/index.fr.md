@@ -52,7 +52,7 @@ Avec une colonne pour votre potentiel de chiffre d'affaires et le chiffre d'affa
 
 Notre plugin Advanced Statistic permet de réaliser très facilement des analyses sur vos ventes. Nous avons déjà créé trois [statistiques](https://seatable.io/fr/docs/handbuch/seatable-nutzen/statistiken/) utiles pour notre modèle d'exemple. En cliquant sur le plug-in au-dessus de votre tableau, vous accédez directement à la zone des statistiques. Ici, vous pouvez créer de nouveaux tableaux de bord à l'aide du signe +, dans lesquels vous pouvez ensuite insérer plusieurs statistiques.
 
-![Gestion des magasins ](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-14.11.06.png)
+![Gestion des magasins ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
 Dans notre exemple ici, la première statistique vous montre les différences entre le chiffre d'affaires potentiel et le chiffre d'affaires réel. La deuxième statistique vous indique le potentiel de chiffre d'affaires par magasin. De cette façon, vous pouvez voir directement quels magasins peuvent s'attendre à un chiffre d'affaires particulièrement élevé au cours de ce trimestre et vous concentrer sur eux. La dernière statistique compare le chiffre d'affaires du T1 avec celui du T2, ce qui vous permet d'identifier les fortes différences et les éventuelles sources d'erreur.
 
@@ -62,7 +62,7 @@ Pour ajouter d'autres statistiques, il suffit de cliquer sur "+new chart" dans l
 
 Pour obtenir un aperçu géographique de vos ventes, peut-être pour voir dans quelles régions votre produit ou service est particulièrement bien accueilli, il existe le plug-in Carte. En cliquant sur la carte, toutes les branches sont affichées dans la couleur de la grappe de chiffre d'affaires correspondante. De cette façon, les régions à forte et faible rotation peuvent être reconnues immédiatement. Vous disposez ainsi de critères de décision importants pour la planification stratégique d'un emplacement.
 
-![Gestion des branches via le plug-in de la carte](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-11.55.12.png)
+![Gestion des branches via le plug-in de la carte](Bildschirmfoto-2021-10-06-um-11.55.12.png)
 
 Plug-in de cartes avec les chiffres d'affaires des différents points de vente
 
@@ -86,7 +86,7 @@ Notre modèle de gestion de magasin offre une solution pour toutes ces tâches.
 
 Le plug-in Timeline permet à vos vendeurs de voir quand sont prévus les prochains rendez-vous pour une visite personnelle dans les magasins qui leur sont assignés. Comme nous avons créé une vue séparée pour chaque employé dans cette base, ce que nous expliquerons à nouveau ci-dessous, il y a également une ligne de temps séparée pour chaque employé individuel dans le plug-in de ligne de temps. Si vous voulez ajouter de nouvelles lignes de temps pour les nouveaux employés ici, vous devez également créer une nouvelle vue dans le plug-in ligne de temps après que la nouvelle vue ait été créée dans la base. Dans les paramètres, vous pouvez alors spécifier la vue correspondante comme base de la source de données.
 
-![Gestion des magasins ](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.44.53.png)
+![Gestion des magasins ](Bildschirmfoto-2021-10-06-um-13.44.53.png)
 
 Plug-in ligne de temps
 
@@ -94,7 +94,7 @@ Plug-in ligne de temps
 
 Lors de chaque visite personnelle dans un magasin, vos collaborateurs de vente ont pour mission de vérifier l'exactitude de différents aspects selon le type d'entreprise. Pour cela, nous avons mis en place un [formulaire web](https://seatable.io/fr/docs/handbuch/seatable-nutzen/webformulare/) qui peut être rempli très facilement par vos collaborateurs de vente pendant ou après leur visite dans le magasin. Vous trouverez les formulaires web en haut à droite sous "Forms". Si votre manager des ventes clique sur le formulaire web, il peut directement commencer à le remplir.
 
-![Gestion des magasins Vérification des magasins](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.12.55.png)
+![Gestion des magasins Vérification des magasins](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
 Formulaire web pour le contrôle du magasin
 
@@ -106,7 +106,7 @@ Chaque collaborateur de vente a une [vue personnalisée](https://seatable.io/fr/
 
 Afin de réduire les risques d'erreur lors du remplissage du formulaire web, nous avons défini chaque champ à remplir comme "required". Ainsi, il n'est pas possible d'envoyer le formulaire sans avoir rempli le champ. Ces réglages et bien d'autres, comme par exemple des textes d'aide pour remplir le formulaire web ou différentes possibilités de formatage, peuvent être effectués très facilement en cliquant sur le petit crayon à côté du formulaire web.
 
-![Vues personnalisées de la gestion des magasins](https://seatable.de/wp-content/uploads/2021/10/Bildschirmfoto-2021-10-06-um-13.16.42.png)
+![Vues personnalisées de la gestion des magasins](Bildschirmfoto-2021-10-06-um-13.16.42.png)
 
 ## Commande facile de matériel de PLV
 

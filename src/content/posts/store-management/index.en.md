@@ -53,7 +53,7 @@ With a column for your turnover potential and the actual turnover, deficits and 
 
 With our Advanced Statistic Plugin you can easily carry out analyses of your sales. We have already created three useful [statistics](https://seatable.io/en/docs/handbuch/seatable-nutzen/statistiken/) for our example template. Clicking on the plug-in above your table takes you directly to the statistics area. Here you can use the + sign to create new dashboards in which you can then insert several statistics.
 
-![Store Management ](images/Bildschirmfoto-2021-10-06-um-14.11.06.png)
+![Store Management ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
 In our example here, the first statistic shows you the differences between turnover potential and actual turnover. The second statistic shows you the turnover potential per store. This way you can see directly which shops can expect a particularly high turnover in this quarter and focus on them. The last statistic compares the Q1 turnover with the Q2 turnover, so you can identify strong differences and possible sources of error.
 
@@ -63,7 +63,7 @@ To add more statistics, simply click "+new chart" in the plug-in menu. In the st
 
 To get a geographical overview of your sales, perhaps to see in which regions your product or service is particularly well received, there is the Map plug-in. With a click on Map, all branches are displayed in the colour of the corresponding turnover cluster. In this way, regions with high and low turnover can be recognised immediately. This provides you with important decision-making criteria when it comes to strategic location planning.
 
-![Branch management via the card plug-in](images/Bildschirmfoto-2021-10-06-um-11.55.12.png)
+![Branch management via the card plug-in](Bildschirmfoto-2021-10-06-um-11.55.12.png)
 
 Card plug-in with turnover of the individual branches
 
@@ -87,7 +87,7 @@ Our Store Management Template offers a solution for all these tasks.
 
 The Timeline plug-in allows your sales staff to see when the next appointments for a personal visit to the stores assigned to them are scheduled. As we have created a separate view for each employee in this base, which we will explain again below, there is also a separate timeline for each individual employee in the timeline plug-in. If you want to add new timelines for new employees here, you must also create a new view in the timeline plug-in after the new view has been created in the base. In the settings, you can then specify the corresponding view as the basis for the data source.
 
-![Store Management ](images/Bildschirmfoto-2021-10-06-um-13.44.53.png)
+![Store Management ](Bildschirmfoto-2021-10-06-um-13.44.53.png)
 
 Timeline plug-in
 
@@ -95,7 +95,7 @@ Timeline plug-in
 
 During each personal store visit, your sales staff have the task of checking various aspects for accuracy, depending on the type of company. For this purpose, we have set up a [web form](https://seatable.io/en/docs/handbuch/seatable-nutzen/webformulare/) that can be easily filled out by your sales staff during or after their visit to the store. You can find the web forms in the upper right corner under "Forms". If your sales manager clicks on the web form, he can start filling it out directly.
 
-![Store Management Store Check](images/Bildschirmfoto-2021-10-06-um-13.12.55.png)
+![Store Management Store Check](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
 Web form for the Store Check
 
@@ -107,7 +107,7 @@ Each sales employee has a [personalized view](https://seatable.io/en/docs/handbu
 
 To make filling out the web form less error prone, we have set each field to be filled out to "required". This makes it impossible to submit without filling in the field. These and many other settings, such as help texts for filling out the web form or different formatting options, can be easily set by clicking on the small pencil next to the web form.
 
-![Store Management personalised views](images/Bildschirmfoto-2021-10-06-um-13.16.42.png)
+![Store Management personalised views](Bildschirmfoto-2021-10-06-um-13.16.42.png)
 
 ## Easy ordering of POS materials
 

@@ -165,7 +165,7 @@ Whether you are a private owner, a company or a municipal housing association: i
 
 [Learn how to use SeaTable's real estate portfolio template to your advantage here]({{< relref "templates/real-estate/property-management" >}})
 
-Further information can be found either in the article [Property management](https://seatable.io/hausverwaltung/) for private owners or in the article [Property management](https://seatable.com/liegenschaftsverwaltung/) for companies and municipal bodies.
+Further information can be found either in the article [Property management]({{< relref "posts/hausverwaltung" >}}) for private owners or in the article [Property management]({{< relref "posts/20250318-liegenschaftsverwaltung" >}}) for companies and municipal bodies.
 
 ## Clear portfolio management with SeaTable
 

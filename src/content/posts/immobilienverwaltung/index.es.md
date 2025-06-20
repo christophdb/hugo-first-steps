@@ -25,7 +25,7 @@ Copie las plantillas, personalícelas según sus necesidades o utilice las estru
 
 ## Gestione todas sus propiedades con claridad en un solo software
 
-![Gestión de la propiedad con SeaTable](https://seatable.io/wp-content/uploads/2022/04/seatable-property-management.png)
+![Gestión de la propiedad con SeaTable](seatable-property-management.png)
 
 Gestión de la propiedad con SeaTable
 
@@ -35,7 +35,7 @@ En nuestra [plantilla para la gestión de sus]({{< relref "templates/real-estate
 
 ## Mantenga sus propiedades en orden y coordine los servicios de conserjería
 
-![Coordinar los servicios de conserjería para mantener las propiedades](https://seatable.io/wp-content/uploads/2022/04/hausmeisterdienste-seatable.png)
+![Coordinar los servicios de conserjería para mantener las propiedades](hausmeisterdienste-seatable.png)
 
 Coordinar los servicios de conserjería con SeaTable
 
@@ -47,7 +47,7 @@ Si lo desea, puede incluso enviar un correo electrónico a la persona que notifi
 
 ## No deje nada al azar en su próxima búsqueda de piso
 
-![Búsqueda plana con SeaTable](https://seatable.io/wp-content/uploads/2022/04/wohnungssuche-seatable-vorlage-immobilien.png)
+![Búsqueda plana con SeaTable](wohnungssuche-seatable-vorlage-immobilien.png)
 
 Caza plana con SeaTable - No deje nada al azar.
 
@@ -57,7 +57,7 @@ Con nuestra [plantilla de búsqueda de pisos]({{< relref "templates/real-estate/
 
 ## Empiece a planificar su próximo traslado
 
-![Su próxima mudanza será muy fácil con SeaTable](https://seatable.io/wp-content/uploads/2022/04/umzugsliste-seatable-immobilien.png)
+![Su próxima mudanza será muy fácil con SeaTable](umzugsliste-seatable-immobilien.png)
 
 Planificar su próximo movimiento es un juego de niños con SeaTable.
 

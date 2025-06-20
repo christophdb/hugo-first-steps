@@ -150,7 +150,7 @@ In addition to the **database infrastructure**, SeaTable offers an **intuitive d
 
 ## Conclusion: Cloud computing is the future
 
-Cloud computing offers you a cost-effective, convenient and secure way to scale your company's IT resources quickly and flexibly on demand. Your employees can access the data and applications in the cloud at any time and from anywhere. This promotes efficient data storage and [collaboration](https://seatable.io/docs/seatable-nutzen/zusammenarbeit/), especially in view of the increasing remote working culture. Take advantage of the cloud to make your company fit for the digital future!
+Cloud computing offers you a cost-effective, convenient and secure way to scale your company's IT resources quickly and flexibly on demand. Your employees can access the data and applications in the cloud at any time and from anywhere. This promotes efficient data storage and [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}), especially in view of the increasing remote working culture. Take advantage of the cloud to make your company fit for the digital future!
 
 ![cloud computing without borders](Cloud-Computing-ohne-Grenzen.jpg)
 

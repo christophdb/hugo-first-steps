@@ -30,11 +30,11 @@ Nous avons déjà appris qu'il existe [plusieurs méthodes](https://www.userlike
 
 "Quelle est la probabilité que vous recommandiez notre produit à un ami ?" Nous connaissons tous cette phrase et nous y avons probablement déjà répondu une ou deux fois. C'est le _Net-Promoter-Score (NPS)_. L'objectif est de déterminer la probabilité qu'un acheteur, un client ou une personne intéressée recommande le produit acheté ou préféré à un ami ou à une connaissance. Une échelle de 0 (très peu probable) à 10 (très probable) est disponible pour la réponse.
 
-![Net Promoter Score (NPS)](https://seatable.de/wp-content/uploads/2021/03/NPS-Score-SeaTable.png)
+![Net Promoter Score (NPS)](NPS-Score-SeaTable.png)
 
 Habituellement, on demande en plus pourquoi la valeur en question a été choisie. L'avantage est que la question ne porte pas seulement sur un sentiment ("Comment avez-vous trouvé notre produit ?"), mais sur une intention comportementale. Pour beaucoup, il est beaucoup plus facile de répondre à cette question. Le NPS est également très populaire parce que la réponse est généralement plus précise et plus honnête qu'une simple question sur les sentiments. En recommandant un mauvais produit à un ami, l'acheteur mettrait en effet sa propre réputation en jeu - et qui voudrait cela ? En outre, la question du "pourquoi" permet de mieux comprendre pourquoi le feedback du client est positif ou négatif.
 
-![Un questionnaire NPS avec SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-form-seatable.png)
+![Un questionnaire NPS avec SeaTable](nps-form-seatable.png)
 
 Un questionnaire NPS créé avec SeaTable. Essayez simplement notre [modèle NPS]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}).
 
@@ -93,7 +93,7 @@ Il existe des différences culturelles en matière d'évaluation. Cela devient i
 
 Quelle que soit la méthode que vous choisissez, veillez à utiliser un outil qui vous permette d'enregistrer et de gérer tous vos feedbacks. SeaTable peut par exemple vous aider à obtenir le feedback souhaité de la part de vos clients. Il vous suffit de créer l'enquête de votre choix à l'aide de notre formulaire web. Dans [cet article](https://seatable.io/fr/kundenfeedback-mit-seatable/), nous vous expliquons plus en détail tout le processus de création d'un tel formulaire et l'évaluation qui s'ensuit. Si vous souhaitez vous lancer directement, n'hésitez pas à y faire un tour.
 
-![Création d'un formulaire web de feedback client](https://seatable.io/wp-content/uploads/2020/08/Kundenfeedback-Formularerstellung-langsamer-1.gif)
+![Création d'un formulaire web de feedback client](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 
 La création d'un formulaire est un jeu d'enfant dans SeaTable
 
@@ -105,9 +105,9 @@ Après avoir obtenu le feed-back souhaité de vos clients, vous devez filtrer le
 
 ### Analyser les faiblesses et les potentiels
 
-Supposons que vous souhaitiez apporter des améliorations à votre produit, identifier les points faibles actuels et comprendre pourquoi vos clients ne recommandent pas votre produit. Pour cela, vous pouvez créer une nouvelle [vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) pour [filtrer](https://seatable.io/fr/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/), [trier](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) et [regrouper](https://seatable.io/fr/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) les résultats de l'enquête. Recherchez les réponses avec une faible valeur NPS et classez les feedbacks par catégories pertinentes. Vous pouvez créer une vue distincte pour chaque analyse souhaitée et y accéder ainsi à tout moment en quelques secondes.
+Supposons que vous souhaitiez apporter des améliorations à votre produit, identifier les points faibles actuels et comprendre pourquoi vos clients ne recommandent pas votre produit. Pour cela, vous pouvez créer une nouvelle [vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) pour [filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [trier](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) et [regrouper](https://seatable.io/fr/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) les résultats de l'enquête. Recherchez les réponses avec une faible valeur NPS et classez les feedbacks par catégories pertinentes. Vous pouvez créer une vue distincte pour chaque analyse souhaitée et y accéder ainsi à tout moment en quelques secondes.
 
-![Possibilités de filtrage de SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-form-filter.png)
+![Possibilités de filtrage de SeaTable](nps-form-filter.png)
 
 N'affichez que les entrées que vous souhaitez voir. Un jeu d'enfant grâce aux filtres et aux vues de SeaTable.
 
@@ -115,7 +115,7 @@ N'affichez que les entrées que vous souhaitez voir. Un jeu d'enfant grâce aux 
 
 Outre la possibilité de consulter les réponses à l'enquête de satisfaction des clients dans le tableau, vous pouvez utiliser la fonction statistique de SeaTable pour visualiser les distributions de fréquence, par exemple. Il est ainsi facile de se faire rapidement une idée des chiffres les plus récents.
 
-![Analyse statistique de l'enquête NPS dans SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-statistics-seatable.png)
+![Analyse statistique de l'enquête NPS dans SeaTable](nps-statistics-seatable.png)
 
 Analyse statistique de l'enquête NPS dans SeaTable
 
@@ -132,7 +132,7 @@ Si vous souhaitez définir une priorité, vous devez considérer plusieurs dimen
 
 Pour identifier les points les plus importants ayant le plus d'impact, vous devez vous focaliser sur les catégories qui sont le plus souvent citées et qui ont tendance à avoir un mauvais score NPS.
 
-![Évaluation NPS dans SeaTable](https://seatable.de/wp-content/uploads/2021/03/nps-form-overview.png)
+![Évaluation NPS dans SeaTable](nps-form-overview.png)
 
 Évaluation NPS dans SeaTable
 

@@ -14,7 +14,7 @@ Vous avez toujours voulu faire un saut en parachute depuis un avion ? Vous rêve
 
 Ce sont nos rêves et nos envies qui nous poussent et nous inspirent des aventures inoubliables. Mais trop souvent, ils sont remis à plus tard ou négligés alors que nous nous laissons aller au train-train quotidien. Une bucket list peut vous aider à garder une trace de vos rêves et à vous rappeler de les réaliser. Car en fin de compte, ce sont les expériences qui enrichissent notre vie et nous remplissent de souvenirs qui durent toute une vie.
 
-![Bucket List : Femme regardant au loin devant un lac.](images/frau-mit-einem-rucksack-mit-blick-auf-den-schwarzen-see-im-nationalpark-durmitor-montenegro-711x474.jpg)
+![Bucket List : Femme regardant au loin devant un lac.](frau-mit-einem-rucksack-mit-blick-auf-den-schwarzen-see-im-nationalpark-durmitor-montenegro-711x474.jpg)
 
 Qu'il s'agisse de sensations fortes ou de nature à couper le souffle, nos rêves sont différents.
 
@@ -30,7 +30,7 @@ Si vous n'avez pas encore réfléchi à ce que vous attendez de la vie, une buck
 
 Non seulement vous serez plus satisfait(e) à mesure que vous cocherez les cases de votre liste, mais chaque objectif terminé vous donnera également un **coup de pouce pour vous motiver** à atteindre votre prochain objectif. En outre, le fait de relire régulièrement votre liste et de vous remémorer vos souvenirs vous procurera un **sentiment de bien-être**.
 
-![Bucket List : photos d'un voyage](images/pexels-taryn-elliott-4340790-711x474.jpg)
+![Bucket List : photos d'un voyage](pexels-taryn-elliott-4340790-711x474.jpg)
 
 Consignez vos expériences afin de pouvoir vous en souvenir à tout moment.
 
@@ -42,7 +42,7 @@ Si vous vous donnez la peine d'établir une bucket list, vous devriez aussi y je
 
 Pour certains, la pensée de points inachevés peut être source de stress et de pression - mais ce n'est pas le but de la liste. Une bucket list doit être **amusante** et vous **motiver**, pas vous peser. Il est important de se rappeler qu'une bucket list n'est pas une course à gagner. La vie est un long chemin et la liste doit vous accompagner pendant de nombreuses années. Même s'il reste quelques points en suspens à la fin, il s'agit de célébrer toutes les merveilleuses expériences que vous avez vécues en cours de route.
 
-![Une femme apprécie la vue sur une montagne](images/pexels-nina-uhlikova-725255-711x533.jpg)
+![Une femme apprécie la vue sur une montagne](pexels-nina-uhlikova-725255-711x533.jpg)
 
 Le plus important dans la vie, c'est de profiter pleinement des bons moments.
 
@@ -68,7 +68,7 @@ Si vous n'avez guère d'idées, vous pouvez également vous inspirer ici : des *
 - Prendre un selfie avec la tour penchée de Pise
 - Admirer les aurores boréales en Islande
 
-![Bucket List : Aurores boréales dans le ciel](images/aurora-1185464_1280-711x474.jpg)
+![Bucket List : Aurores boréales dans le ciel](aurora-1185464_1280-711x474.jpg)
 
 Les aurores boréales sont un jeu de couleurs impressionnant dans le ciel.
 
@@ -83,7 +83,7 @@ Les aurores boréales sont un jeu de couleurs impressionnant dans le ciel.
 - Survivre à une descente de rafting en eaux vives
 - Travailler à l'étranger
 
-![Bucket List : un grimpeur accroché à une corniche](images/rock-climbing-2264698_1280-711x474.jpg)
+![Bucket List : un grimpeur accroché à une corniche](rock-climbing-2264698_1280-711x474.jpg)
 
 Certaines personnes sont à la recherche d'adrénaline et de sensations fortes.
 
@@ -97,7 +97,7 @@ Certaines personnes sont à la recherche d'adrénaline et de sensations fortes.
 - Réserver un séjour de détente
 - Faire un marathon
 
-![Marathonien](images/marathon-3753907_1280-711x474.jpg)
+![Marathonien](marathon-3753907_1280-711x474.jpg)
 
 Ceux qui recherchent un défi sportif peuvent choisir un marathon comme objectif.
 
@@ -112,7 +112,7 @@ Ceux qui recherchent un défi sportif peuvent choisir un marathon comme objectif
 - Participer à un cours de photographie
 - Apprendre à programmer
 
-![Bucket List : Livre sur le langage de programmation Python](images/pexels-christina-morillo-1181671-711x475.jpg)
+![Bucket List : Livre sur le langage de programmation Python](pexels-christina-morillo-1181671-711x475.jpg)
 
 Python est un langage de programmation.
 
@@ -126,7 +126,7 @@ Python est un langage de programmation.
 - Voir tous les films "Le Seigneur des Anneaux" en une seule fois
 - Fêter le carnaval à Rio de Janeiro
 
-![Musée d'art ](images/pexels-suzy-hazelwood-3004909-711x400.jpg)
+![Musée d'art ](pexels-suzy-hazelwood-3004909-711x400.jpg)
 
 Qu'il s'agisse d'art, de musique, de littérature ou de traditions, la culture est multiple.
 
@@ -141,7 +141,7 @@ Qu'il s'agisse d'art, de musique, de littérature ou de traditions, la culture e
 - Cueillir des champignons dans la forêt
 - Boire du champagne
 
-![Bucket List : Assiette de bouchées joliment décorées.](images/pexels-jer-chung-2792186-711x533.jpg)
+![Bucket List : Assiette de bouchées joliment décorées.](pexels-jer-chung-2792186-711x533.jpg)
 
 Manger peut aussi être une expérience.
 
@@ -156,7 +156,7 @@ Manger peut aussi être une expérience.
 - Adopter un chien dans un refuge
 - Ramasser les déchets dans la nature
 
-![Des personnes ramassant des déchets](images/pexels-anna-shvets-5029859-711x474.jpg)
+![Des personnes ramassant des déchets](pexels-anna-shvets-5029859-711x474.jpg)
 
 Faire le bien est un objectif qui n'enrichit pas seulement la vie de votre entourage.
 
@@ -171,7 +171,7 @@ Faire le bien est un objectif qui n'enrichit pas seulement la vie de votre entou
 - Se marier sur la plage
 - Avoir des enfants
 
-![Bucket List : Un couple au coucher du soleil.](images/pexels-pavel-danilyuk-9143809-711x475.jpg)
+![Bucket List : Un couple au coucher du soleil.](pexels-pavel-danilyuk-9143809-711x475.jpg)
 
 Vos objectifs peuvent également se concentrer sur les relations interpersonnelles.
 
@@ -181,4 +181,4 @@ Pour être sûr de ne pas perdre de vue les objectifs de votre bucket list, il e
 
 En outre, vous pouvez noter quels amis et membres de la famille partagent certains intérêts et seraient prêts à vous accompagner dans vos aventures. Vous pouvez également enregistrer des informations supplémentaires telles que des images, des liens ou des adresses directement dans votre bucket list afin de rassembler tous les détails pertinents en un seul endroit.
 
-Cochez objectif par objectif de votre bucket list, ajoutez de nouvelles idées en toute flexibilité ou supprimez les souhaits qui ne sont plus importants pour vous. Sur SeaTable, vous pouvez [vous inscrire gratuitement](https://seatable.io/fr/enregistrement/) et adapter le [modèle en ligne]({{< relref "templates/everyday-life/bucket-list" >}}) à vos besoins.
+Cochez objectif par objectif de votre bucket list, ajoutez de nouvelles idées en toute flexibilité ou supprimez les souhaits qui ne sont plus importants pour vous. Sur SeaTable, vous pouvez [vous inscrire gratuitement]({{< relref "pages/registration" >}}) et adapter le [modèle en ligne]({{< relref "templates/everyday-life/bucket-list" >}}) à vos besoins.

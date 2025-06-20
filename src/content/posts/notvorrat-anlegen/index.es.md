@@ -23,7 +23,7 @@ Lo que puede significar tener que recurrir al acopio de emergencia es algo que c
 
 Incluso con la comida diaria, suele ser difícil contentar a todo el mundo. Lo mismo ocurre con la elección de alimentos de emergencia. Especialmente si va a almacenar alimentos de emergencia para varias personas, debe tener en cuenta los hábitos alimentarios de cada uno. Del mismo modo, hay que prever **alergias** e **intolerancias**, así como alimentos especiales para niños pequeños o mascotas. No intente comprar alimentos desconocidos que pueden no ser del gusto de nadie en caso de emergencia. Confíe en alimentos que le gusten y que pueda convertir en platos variados.
 
-![Ir de compras con la familia para que todos estén contentos con la reserva de emergencia.](https://seatable.io/wp-content/uploads/2023/09/pexels-gustavo-fring-3985062-min-1-min-711x474.jpg)
+![Ir de compras con la familia para que todos estén contentos con la reserva de emergencia.](pexels-gustavo-fring-3985062-min-1-min-711x474.jpg)
 
 Hacer la compra juntos ayuda a llevarse sólo los alimentos que se van a consumir.
 
@@ -31,7 +31,7 @@ Hacer la compra juntos ayuda a llevarse sólo los alimentos que se van a consumi
 
 Procure que la dieta no sea demasiado unilateral y asegúrese de **ingerir** una cantidad suficiente **de nutrientes**. Se trata de hidratos de carbono, grasas, proteínas, vitaminas y minerales, que aportan energía al organismo. Además, hay que cubrir las necesidades calóricas. Como esto varía de una persona a otra, ya sea por la edad o por la actividad deportiva, hay que determinarlo de antemano. Para ello existen [calculadoras de calorías en línea](https://www.esn.com/pages/kalorienrechner).
 
-![Los alimentos más importantes de su reserva de emergencia de un vistazo.](https://seatable.io/wp-content/uploads/2023/09/Notvorratsliste-1-e1695036643833-711x1101.png)
+![Los alimentos más importantes de su reserva de emergencia de un vistazo.](Notvorratsliste-1-e1695036643833-711x1101.png)
 
 Los alimentos más importantes de un vistazo
 
@@ -47,7 +47,7 @@ Por cierto, no sólo se necesita agua potable, sino también **agua de servicio*
 
 Para no tener que hacer acopio de existencias desde cero una y otra vez, a la hora de comprar hay que centrarse sobre todo en **los alimentos de larga duración**. Sin embargo, también existe la posibilidad de hacer que tus platos caseros favoritos duren más tiempo con unos sencillos trucos. Puedes **congelarlos** (en caso de apagón, entonces tendrás que comértelos antes) o puedes hervir los alimentos. Pero cuidado: hay mucho que tener en cuenta a la hora de **conservar**. Con la ayuda de una [guía](https://www.oma-kocht.de/wie-einkochen-anleitung-einsteiger-einwecken/), podrás hacerlo bien a la primera. Si guardas los alimentos en envases herméticos y en un lugar fresco, seco y oscuro, aumentarás su vida útil.
 
-![Además de los alimentos enlatados y en conserva, los encurtidos también deben formar parte de su reserva de emergencia.](https://seatable.io/wp-content/uploads/2023/09/cans-881098_640.jpg)
+![Además de los alimentos enlatados y en conserva, los encurtidos también deben formar parte de su reserva de emergencia.](cans-881098_640.jpg)
 
 Otra forma de conservar los alimentos es encurtirlos.
 
@@ -61,7 +61,7 @@ Para evitar que los alimentos almacenados superen su fecha de consumo preferente
 
 Siga acumulando existencias pieza a pieza. No es necesario comprarlo todo de una vez. Cuando hagas la compra, acostúmbrate a coger un paquete más de alimentos no perecederos de lo que lo harías de otro modo. Por supuesto, durante las **campañas de descuento** también puedes hacer huelga y comprar cantidades mayores. Así ahorrarás dinero y estarás óptimamente preparado para todo al mismo tiempo. No obstante, asegúrate de comprar sólo lo que come tu familia.
 
-![Además de alimentos, los productos de higiene también pueden adquirirse en grandes cantidades durante las campañas de descuento.](https://seatable.io/wp-content/uploads/2023/09/eduardo-soares-RTPrTSooj0c-unsplash-min-scaled-e1695208799536-711x634.jpg)
+![Además de alimentos, los productos de higiene también pueden adquirirse en grandes cantidades durante las campañas de descuento.](eduardo-soares-RTPrTSooj0c-unsplash-min-scaled-e1695208799536-711x634.jpg)
 
 Aproveche las ofertas de descuento en alimentos, productos de higiene y otros artículos útiles.
 
@@ -100,6 +100,6 @@ Por supuesto, no debe faltar agua para el lavado. Para que dure más, puedes uti
 
 Para que estés perfectamente preparado para la próxima situación de emergencia, el equipo de SeaTable ha creado una plantilla para tu suministro de emergencia. Puedes adaptarla a tus necesidades como desees.
 
-![Plantilla para su reserva de emergencia](images/Vorlage-fuer-Ihren-Notvorrat-1.png)
+![Plantilla para su reserva de emergencia](Vorlage-fuer-Ihren-Notvorrat-1.png)
 
 Si desea utilizar SeaTable para el almacenamiento, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) gratuitamente. [Aquí]({{< relref "templates/everyday-life/shopping-list" >}}) encontrará la plantilla correspondiente.

@@ -16,7 +16,7 @@ Heute, den 6. Juli 2021, haben wir [SeaTable Cloud](https://cloud.seatable.io) a
 
 SeaTables erweiterte Freigaben (z.B. benutzerdefinierte Freigabeberechtigungen, Spaltenberechtigungen, Zeilensperrung) geben den Administratoren von Bases weitreichende Kontrollmöglichkeiten darüber, wer Tabellendaten betrachten, editieren und auf andere Weise mit den Daten arbeiten darf. Mit den neuen Tabellenberechtigungen haben Administratoren eine zusätzliche Option, um den Zugriff auf Tabellen feinzusteuern.
 
-![SeaTable 2.1: Table permissions](images/TablePermissions.png)
+![SeaTable 2.1: Table permissions](TablePermissions.png)
 
 Tabellenberechtigungen steuern die Zugriffsrechte der Benutzer auf eine einzelne Tabelle in einer Base. In den Standardeinstellungen begrenzen sie die Bearbeitungsrechte der Benutzer nicht, d.h. jeder Benutzer mit mindestens Schreibrechten kann Zeilen hinzufügen sowie bestehende Zeilen bearbeiten und löschen. Will der Eigentümer einer Base oder ein Administrator diese Rechte für einzelne Benutzer oder Gruppen einschränken, dann kann er dies nun mit SeaTable 2.1 tun. Die Berechtigung, Dateien hinzuzufügen oder Dateien zu löschen, kann allen oder allen Nicht-Admin-Benutzern entzogen werden. Oder sie können exklusiv einer Auswahl von Benutzern zugewiesen werden. Die Berechtigung zum Hinzufügen und zum Löschen lassen sich individuell und unabhängig voneinander verwalten.
 
@@ -36,7 +36,7 @@ Weitere Datenverarbeitungsaktionen wie z.B. die Berechnung der Reihenfolge oder 
 
 ## Erweiterte Berechtigungen für Einfach- und Mehrfachauswahlspalten
 
-![SeaTable 2.1: Advanced permissions for single and multiple select columns](images/Advanced-column-permissions.png)
+![SeaTable 2.1: Advanced permissions for single and multiple select columns](Advanced-column-permissions.png)
 
 Die Spaltenberechtigungen, die in [SeaTable 1.2](https://seatable.io/en/seatable-release-1-2/) eingeführt wurden, erlauben die Vergabe und Steuerung individueller Bearbeitungsrechte für einzelne Spalten. Mit SeaTable 2.1 wurde das Spaltenberechtigungsmenü der beiden Spaltentypen Einfachauswahl und Mehrfachauswahl um einen zweiten Schalter erweitert. Mit diesem lässt sich steuern, welche Benutzer Optionen in einer Auswahlspalte anlegen und bearbeiten dürfen.
 
@@ -46,7 +46,7 @@ Grundsätzlich können alle Benutzer mit Schreibrechten Optionen editieren. Eige
 
 Der Spaltentyp Checkbox war in der täglichen Nutzung etwas unhandlich. Der wohl offensichtlichste Komfortkiller war die Notwendigkeit zweier Klicks für das Setzen bzw. Entfernen eines Häkchens – einer um die Zelle zu markieren, ein weiterer um die Box zu aktivieren bzw. deaktivieren. Die neue Checkbox Spalte ist ein riesiger Schritt in Sachen Benutzerfreundlichkeit und Aussehen.
 
-![SeaTable 2.1: Improved checkbox column](https://seatable.io/wp-content/uploads/2021/07/cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
+![SeaTable 2.1: Improved checkbox column](cf832ed6ec4f5a75c69d663818552e94ec9b7cb1.gif)
 
 ## Zahlreiche Detailverbesserungen
 

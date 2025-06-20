@@ -16,9 +16,9 @@ Esta mañana a las 6am hora central europea, SeaTable Cloud fue actualizado a la
 
 ## Reglas de filtrado complejas con grupos de filtros
 
-La versión 5.2 hace aún más potentes las [funciones de filtro](https://seatable.io/es/docs/ansichtsoptionen/filtern-von-eintraegen-in-einer-ansicht/) de SeaTable. Los nuevos grupos de filtros permiten **combinar reglas de filtrado con los operadores lógicos Y y O**. Ejemplo: Buscar hombres nacidos después de 1979 (grupo de filtrado 1) o mujeres nacidas después de 1984 (grupo de filtrado 2). Este tipo de filtrado no era posible anteriormente en SeaTable. En versiones anteriores, todas las reglas de filtrado se vinculaban con los operadores lógicos Y u O.
+La versión 5.2 hace aún más potentes las [funciones de filtro]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) de SeaTable. Los nuevos grupos de filtros permiten **combinar reglas de filtrado con los operadores lógicos Y y O**. Ejemplo: Buscar hombres nacidos después de 1979 (grupo de filtrado 1) o mujeres nacidas después de 1984 (grupo de filtrado 2). Este tipo de filtrado no era posible anteriormente en SeaTable. En versiones anteriores, todas las reglas de filtrado se vinculaban con los operadores lógicos Y u O.
 
-![Grupos de filtros en SeaTable 5.2](https://seatable.io/wp-content/uploads/2025/02/Fitlergroups.png)
+![Grupos de filtros en SeaTable 5.2](Fitlergroups.png)
 
 En futuras versiones, también introduciremos grupos de filtros en aplicaciones, formularios y automatizaciones.
 
@@ -26,7 +26,7 @@ En futuras versiones, también introduciremos grupos de filtros en aplicaciones,
 
 La versión 5.2 también ofrece opciones de filtro ampliadas en el [formato](https://seatable.io/es/docs/ansichtsoptionen/einfaerben-von-zellen/) condicional de [filas](https://seatable.io/es/docs/ansichtsoptionen/farbliche-markierung-von-zeilen/) y [celdas](https://seatable.io/es/docs/ansichtsoptionen/einfaerben-von-zellen/). ¿Desea colorear de rojo una celda en función de los valores de otras columnas para llamar la atención sobre ella? Con SeaTable 5.2 puede hacerlo. El código de colores de una fila o celda puede formatearse ahora en función del valor de cada columna individual de un conjunto de datos. Y eso no es todo: el formato condicional también puede tener en cuenta los valores de varias columnas, independientemente del tipo de columna.
 
-![Formato condicional mejorado en SeaTable 5.2](https://seatable.io/wp-content/uploads/2025/02/ConditionalFormatting.png)
+![Formato condicional mejorado en SeaTable 5.2](ConditionalFormatting.png)
 
 ## Mejoras funcionales en el App Builder
 
@@ -36,7 +36,7 @@ El tipo de página de [registro único de datos](https://seatable.io/es/docs/sei
 
 A partir de SeaTable 5.2, la configuración de página para este tipo de página incluye la función **Predeterminar columnas de sólo lectura**, que ya es familiar de otros tipos de página. En combinación con la [autorización de página](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) "¿Quién puede editar filas?", el administrador de la aplicación puede definir con precisión qué valores de columna de un registro de datos pueden ser introducidos o modificados por los usuarios y cuáles no.
 
-![Nueva configuración de columnas de sólo lectura en la página de registro único](https://seatable.io/wp-content/uploads/2025/02/ROcolumns-SingleRecordPage.png)
+![Nueva configuración de columnas de sólo lectura en la página de registro único](ROcolumns-SingleRecordPage.png)
 
 En el caso de los [registros de datos bloqueados](https://seatable.io/es/docs/arbeiten-mit-zeilen/sperren-einer-zeile/), ahora el usuario también recibe un aviso de que no es posible editarlos. Aparecerá el mensaje correspondiente al situar el puntero del ratón sobre "Editar entrada" en la barra de herramientas.
 
@@ -44,7 +44,7 @@ Además del control de autorizaciones, la nueva versión contiene dos mejoras pa
 
 ### Tipo de página Formulario
 
-Los [formularios web](https://seatable.io/es/docs/webformulare/webformulare/) sencillos que pueden crearse en Base ofrecen una **opción de redirección**. Los usuarios son redirigidos automáticamente a un sitio web tras el envío. Ahora también hemos añadido esta función a las [páginas de formularios](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/), teniendo en cuenta las características especiales de la app. Los usuarios pueden ser redirigidos a otra página de la aplicación o a una URL externa. Las otras páginas de la aplicación pueden seleccionarse cómodamente en un menú desplegable. También se puede establecer si la redirección tiene lugar en una nueva pestaña o en la misma pestaña.
+Los [formularios web]({{< relref "help/base-editor/webformulare" >}}) sencillos que pueden crearse en Base ofrecen una **opción de redirección**. Los usuarios son redirigidos automáticamente a un sitio web tras el envío. Ahora también hemos añadido esta función a las [páginas de formularios](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/), teniendo en cuenta las características especiales de la app. Los usuarios pueden ser redirigidos a otra página de la aplicación o a una URL externa. Las otras páginas de la aplicación pueden seleccionarse cómodamente en un menú desplegable. También se puede establecer si la redirección tiene lugar en una nueva pestaña o en la misma pestaña.
 
 ### Tipo de página Tabla
 
@@ -54,7 +54,7 @@ Los **filtros preestablecidos** de la configuración de datos permiten ahora sel
 
 La [página individual](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) ha recibido un nuevo tipo de estadística: similar a la [página de tabla](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), la **tabla simple** permite la visualización tabular de un conjunto de datos que han sido prefiltrados y preclasificados por el administrador de la aplicación. A diferencia de la página de tabla, el nuevo tipo de estadística permite combinar dos o más tablas en una página. En la versión 5.2, los usuarios de la aplicación no pueden establecer sus propias reglas de filtrado y ordenación. Añadiremos esta función en el futuro.
 
-![Nuevo tipo de gráfico "Cuadro básico"](https://seatable.io/wp-content/uploads/2025/02/BasicTable.png)
+![Nuevo tipo de gráfico "Cuadro básico"](BasicTable.png)
 
 ### Tipo de página Calendario
 
@@ -76,7 +76,7 @@ Puedes instalar el nuevo plugin de pizarra además o como alternativa al plugin 
 
 La sustitución del plugin se había hecho necesaria porque el "antiguo" plugin de pizarra, que se basa en el proyecto de código abierto [excalidraw](https://github.com/excalidraw/excalidraw), resultó ser propenso a fallos de funcionamiento cuando era utilizado por varios usuarios al mismo tiempo. Con la versión 6.0 en verano de 2025, eliminaremos el antiguo plugin de SeaTable Cloud. Todas las pizarras del antiguo plugin dejarán de estar disponibles.
 
-![](https://seatable.io/wp-content/uploads/2025/02/tldraw-collaboration.png)
+![](tldraw-collaboration.png)
 
 ## Cambios importantes en la API de SeaTable
 
@@ -96,7 +96,7 @@ SeaTable 5.2 tiene otras novedades que merecen algo más que una mención explí
 
 La capacidad de **gestionar datos jerárquicos en una tabla** alcanza un nuevo nivel en SeaTable 5.2: las relaciones padre e hijo se registran y muestran en columnas separadas. SeaTable garantiza que cada relación padre tenga también una relación hijo. Esto facilita el análisis de las relaciones en ambas direcciones. La ilustración muestra la diferencia entre SeaTable 5.2 (izquierda) y SeaTable 5.1 (derecha) para la alta dirección de una organización ficticia.
 
-![Enlaces internos por yuxtaposición en SeaTable 5.1 y 5.2](https://seatable.io/wp-content/uploads/2025/02/InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
+![Enlaces internos por yuxtaposición en SeaTable 5.1 y 5.2](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
 
 Para los usuarios, esto sólo aporta ventajas sin complejidad adicional. Si un usuario crea una nueva **columna de** enlace que vincule entradas de una misma tabla, SeaTable crea automáticamente la segunda columna de enlace. Los plugins de [organigrama](https://seatable.io/es/docs/plugins/anleitung-zum-organigramm-plugin/) y [árbol](https://seatable.io/es/docs/plugins/anleitung-zum-tree-plugin/) también pueden manejar la estructura de datos mejorada.
 
