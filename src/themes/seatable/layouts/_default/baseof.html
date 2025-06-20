@@ -162,7 +162,9 @@
                         const url = '{{ getenv "HUGO_BACKEND_URL" }}';
                         const data = {
                             email: this.email,
+                            language: JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY)) || DEFAULT_LANGUAGE,
                         };
+
                         const headers = {
                             'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
                         };
@@ -225,8 +227,7 @@
                         const url = '{{ getenv "HUGO_BACKEND_URL" }}';
                         const data = {
                             email: this.email,
-                            // TODO: Get current language
-                            language: 'en',
+                            language: JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY)) || DEFAULT_LANGUAGE,
                         };
 
                         const headers = {
@@ -310,6 +311,9 @@
 
                 // Find the first supported language (fallback to default language)
                 const preferredLanguage = languageCodes.filter((code) => SUPPORTED_LANGUAGES.includes(code))[0] || DEFAULT_LANGUAGE;
+
+                // Update local storage
+                localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(preferredLanguage));
 
                 const target = URL_BY_LANGUAGE[preferredLanguage] || URL_BY_LANGUAGE[DEFAULT_LANGUAGE];
 
