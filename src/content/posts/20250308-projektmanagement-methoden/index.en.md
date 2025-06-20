@@ -6,7 +6,7 @@ seo:
     description: 'Which project management method suits you best? Our comprehensive guide compares Scrum, Kanban, PRINCE2 and co.'
 date: 2025-03-08
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Project Management'
 color: '#fca86c'

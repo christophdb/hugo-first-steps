@@ -6,7 +6,7 @@ seo:
     description: 'Прочитайте эту статью, чтобы узнать, как использовать политику дистрибуции в качестве рычага для организации продаж.'
 date: 2025-05-06
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Distribution'
 url: '/ru/distributionspolitik'

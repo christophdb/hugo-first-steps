@@ -6,7 +6,7 @@ seo:
     description: 'Conozca cómo SeaTable reorganizó la gestión de pedidos e inició la transformación digital en una empresa de instalaciones de construcción'
 date: 2025-03-21
 categorías:
-    - 'general'
+    - 'best-practice'
     - 'customer-story'
 tags:
     - 'Transformación Digital'

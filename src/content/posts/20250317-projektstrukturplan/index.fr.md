@@ -6,7 +6,7 @@ seo:
     description: "Ne plus jamais sombrer dans le chaos des projets ! Découvrez les avantages d'un organigramme technique de projet bien conçu et comment le créer."
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
     - 'best-practice'
 tags:
     - 'Gestion de projet'

@@ -6,7 +6,7 @@ seo:
     description: 'Record your business inventory accurately! Gain full control over your assets and optimise business processes'
 date: 2024-02-23
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Distribution'
 url: '/inventory-list'

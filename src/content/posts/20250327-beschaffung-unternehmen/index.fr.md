@@ -6,7 +6,7 @@ seo:
     description: "Des processus d'achat efficaces sont essentiels à la réussite d'une entreprise. Découvre les stratégies pour les processus d'achat et la gestion des fournisseurs"
 date: 2025-03-27
 categories:
-    - 'general'
+    - 'best-practice'
     - 'best-practice'
 tags:
 color: '#a57956'
@@ -59,7 +59,7 @@ Alors que les **achats** se concentrent sur l'**achat immédiat de biens et de s
 
 ### Achats stratégiques
 
-L'achat stratégique ou l'achat stratégique désigne l'ensemble de la gestion de l'approvisionnement. Comme nous l'avons déjà mentionné, **l'accent est mis sur les objectifs à long terme de l'entreprise**. Les collaborateurs de ce secteur gardent toujours à l'esprit la création de valeur globale afin de générer des avantages concurrentiels et de minimiser les risques pour l'entreprise. Les responsables de l'approvisionnement doivent être en mesure, entre autres, d'effectuer des analyses de marché et de la concurrence, de réaliser des évaluations de fournisseurs, de développer et d'évaluer des stratégies d'approvisionnement, de gérer les relations avec les fournisseurs et de décider des logiciels nécessaires. La chaîne d'approvisionnement est également un aspect important de l'achat stratégique. Pour en savoir plus, consultez notre article de blog sur la [gestion de la chaîne d'approvisionnement]({{< relref "posts/supply-chain-management" >}}).
+L'achat stratégique ou l'achat stratégique désigne l'ensemble de la gestion de l'approvisionnement. Comme nous l'avons déjà mentionné, **l'accent est mis sur les objectifs à long terme de l'entreprise**. Les collaborateurs de ce secteur gardent toujours à l'esprit la création de valeur globale afin de générer des avantages concurrentiels et de minimiser les risques pour l'entreprise. Les responsables de l'approvisionnement doivent être en mesure, entre autres, d'effectuer des analyses de marché et de la concurrence, de réaliser des évaluations de fournisseurs, de développer et d'évaluer des stratégies d'approvisionnement, de gérer les relations avec les fournisseurs et de décider des logiciels nécessaires. La chaîne d'approvisionnement est également un aspect important de l'achat stratégique. Pour en savoir plus, consultez notre article de blog sur la [gestion de la chaîne d'approvisionnement]({{< relref "posts/20250620-supply-chain-management" >}}).
 
 ### Achats opérationnels
 

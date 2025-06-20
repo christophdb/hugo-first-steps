@@ -13,7 +13,7 @@ tags:
     - 'Инструменты и плагины'
     - 'Управление автопарком'
 categories:
-    - 'general'
+    - 'best-practice'
 color: '#f34b4c'
 text: 'white'
 ---

@@ -11,7 +11,7 @@ tags:
     - 'Finanzen'
     - 'Fuhrparkmanagement'
 categories:
-    - 'general'
+    - 'best-practice'
 color: '#f34b4c'
 ---
 

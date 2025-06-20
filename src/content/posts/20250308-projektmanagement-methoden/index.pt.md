@@ -6,7 +6,7 @@ seo:
     description: 'Qual o método de gestão de projectos mais adequado para si? O nosso guia completo compara Scrum, Kanban, PRINCE2 e outros.'
 date: 2025-03-08
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Gestão de projectos'
 color: '#fca86c'

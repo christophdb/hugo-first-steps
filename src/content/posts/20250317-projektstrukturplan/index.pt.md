@@ -6,7 +6,7 @@ seo:
     description: 'Não volte a ficar atolado no caos dos projectos! Descubra as vantagens de uma estrutura analítica do trabalho bem pensada e como criar uma'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
     - 'best-practice'
 tags:
     - 'Gestão de projectos'

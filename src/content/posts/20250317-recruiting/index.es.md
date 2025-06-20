@@ -6,7 +6,7 @@ seo:
     description: 'El futuro de la contratación: conozca las nuevas tecnologías y las formas innovadoras de encontrar y retener a los mejores candidatos'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Candidatos y gestión del talento'
 color: '#d4a2ee'

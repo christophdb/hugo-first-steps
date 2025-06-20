@@ -6,7 +6,7 @@ seo:
     description: 'Unos procesos de compra eficientes son la clave del éxito empresarial. Descubra estrategias para los procesos de compra y la gestión de proveedores'
 date: 2025-03-27
 categorías:
-    - 'general'
+    - 'best-practice'
     - 'best-practice'
 tags:
 color: '#a57956'
@@ -59,7 +59,7 @@ Mientras que **la compra** se centra en la **adquisición inmediata de bienes y 
 
 ### Compras estratégicas
 
-Las compras estratégicas o aprovisionamiento estratégico hacen referencia a todo el proceso de gestión de aprovisionamiento. Como ya se ha mencionado, el **centro de atención aquí son los objetivos corporativos a largo plazo**. Los empleados de esta área vigilan siempre toda la cadena de valor para generar ventajas competitivas y minimizar los riesgos empresariales. Los responsables de compras deben ser capaces de realizar análisis de mercado y de la competencia, crear evaluaciones de proveedores, desarrollar y evaluar estrategias de compras, mantener relaciones con los proveedores y decidir qué software se necesita, entre otras cosas. La cadena de suministro es también un aspecto importante de las compras estratégicas. Encontrará más información al respecto en nuestra entrada del blog sobre [Gestión de la cadena de suministro]({{< relref "posts/supply-chain-management" >}}).
+Las compras estratégicas o aprovisionamiento estratégico hacen referencia a todo el proceso de gestión de aprovisionamiento. Como ya se ha mencionado, el **centro de atención aquí son los objetivos corporativos a largo plazo**. Los empleados de esta área vigilan siempre toda la cadena de valor para generar ventajas competitivas y minimizar los riesgos empresariales. Los responsables de compras deben ser capaces de realizar análisis de mercado y de la competencia, crear evaluaciones de proveedores, desarrollar y evaluar estrategias de compras, mantener relaciones con los proveedores y decidir qué software se necesita, entre otras cosas. La cadena de suministro es también un aspecto importante de las compras estratégicas. Encontrará más información al respecto en nuestra entrada del blog sobre [Gestión de la cadena de suministro]({{< relref "posts/20250620-supply-chain-management" >}}).
 
 ### Compras operativas
 

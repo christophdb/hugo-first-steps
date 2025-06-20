@@ -6,7 +6,7 @@ seo:
     description: 'O futuro do recrutamento: conheça as novas tecnologias e as formas inovadoras de encontrar e reter os melhores candidatos'
 date: 2025-03-17
 categories:
-    - 'general'
+    - 'best-practice'
 tags:
     - 'Gestão de candidatos e talentos'
 color: '#d4a2ee'
