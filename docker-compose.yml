@@ -4,7 +4,7 @@ services:
         # TODO: Replace with image hosted on DockerHub/GCR
         build: .
         environment:
-            - HUGO_BACKEND_URL=http://127.0.0.1:3000
+            - HUGO_BACKEND_URL=http://localhost
             - ENABLE_PAGEFIND=${ENABLE_PAGEFIND:-0}
             - ENABLE_TAILWIND=${ENABLE_TAILWIND:-1}
             # by default pagefind and tailwind is not activated (=0). To activate, you can create .env file with these environment variables.
