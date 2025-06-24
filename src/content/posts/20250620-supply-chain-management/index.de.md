@@ -8,7 +8,7 @@ category:
     - 'Best Practice'
 tags:
     - 'Beschaffung & Logistik'
-color: '#eeeeee'
+color: '#ed5b76'
 seo:
     title:
     description:

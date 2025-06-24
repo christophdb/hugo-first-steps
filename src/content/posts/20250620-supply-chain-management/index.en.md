@@ -8,7 +8,7 @@ category:
     - 'Best Practice'
 tags:
     - 'Procurement & Logistics'
-color: '#eeeeee'
+color: '#ed5b76'
 seo:
     title:
     description:

@@ -8,7 +8,7 @@ category:
     - 'best-practice'
 tags:
     - 'Aprovisionamento e logística'
-color: '#eeeeee'
+color: '#ed5b76'
 seo:
     title:
     description:
