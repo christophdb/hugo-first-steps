@@ -6,7 +6,7 @@ seo:
     description: 'Lerne, wie du einen einzigartigen Adventskalender erstellen kannst. Entdecke inspirierende Vorschläge und detaillierte Beschreibungen für eine festliche Zeit'
 color: 
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Alltag & Freizeit'
 date: 2024-10-28
