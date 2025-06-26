@@ -4,6 +4,11 @@ description: 'In this article you will find out what you need to consider when p
 seo:
     title: 'Make your own advent calendar: Creative ideas & instructions'
     description: 'Learn how to create a unique Advent calendar. Discover inspiring suggestions and detailed descriptions for a festive season'
+color: 
+categories:
+    - 'Best Practice'
+tags:
+    - 'Everyday Life & Leisure'
 date: 2024-10-28
 lastmod: '2024-10-28'
 coverImage: 'Red-Simple-Christmas-Border-A4-2-e1718895318315.png'

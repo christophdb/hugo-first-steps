@@ -5,7 +5,11 @@ date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
 url: '/de/redaktionsplan-contentplan'
-color: '#eeeeee'
+color: '#8ddb8c'
+categories:
+    - 'Best Practice'
+tags:
+    - 'Contentplanung'
 seo:
     title: 'Redaktionsplan | Contentplan erstellen: Tipps & Tricks mit Vorlage'
     description: 'Steigern Sie die Effizienz Ihrer Inhaltsproduktion mit einem Contentplan. Erfahren Sie, wie Sie Ihren Redaktionsplan optimal nutzen können.'

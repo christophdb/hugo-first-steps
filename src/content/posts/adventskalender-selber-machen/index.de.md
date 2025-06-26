@@ -4,6 +4,11 @@ description: 'Was es bei der Planung Ihres Vorhabens zu beachten gilt, womit Sie
 seo:
     title: 'Adventskalender selber machen: Kreative Ideen & Anleitungen'
     description: 'Lerne, wie du einen einzigartigen Adventskalender erstellen kannst. Entdecke inspirierende Vorschläge und detaillierte Beschreibungen für eine festliche Zeit'
+color: 
+categories:
+    - 'Best Practice'
+tags:
+    - 'Alltag & Freizeit'
 date: 2024-10-28
 lastmod: '2024-10-28'
 author: 'lsc'

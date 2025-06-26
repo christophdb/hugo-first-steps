@@ -4,7 +4,11 @@ date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
 url: '/es/redaktionsplan-contentplan'
-color: '#eeeeee'
+color: '#8ddb8c'
+categories:
+    - 'Mejores prácticas'
+tags:
+    - 'Planificación de contenidos'
 seo:
     title:
     description:
