@@ -32,7 +32,7 @@ As tarefas de gestão do produto incluem todas as fases pelas quais um produto p
 - **Conceito**: desenvolvimento de estratégia para o mercado, preço, distribuição, comunicação; protótipo, visão geral dos custos
 - **Implementação**: implementação técnica, implementação de estratégias, lançamento de produtos
 
-Além disso, há algumas tarefas de organização que um gestor de produto assume. Actua como uma **interface** entre [marketing](https://seatable.io/pt/marketing/), [vendas](https://seatable.io/pt/vertrieb/) e desenvolvimento de produtos, bem como produção. Para as etapas individuais do processo de desenvolvimento do produto, o gestor do produto também coordena o **[Gestão de projectos](https://seatable.io/pt/projektmanagement/)**. A gestão do produto está, portanto, também muito ocupada com a formação e análises estratégicas, que ocorrem para além da concepção e desenvolvimento do próprio produto.
+Além disso, há algumas tarefas de organização que um gestor de produto assume. Actua como uma **interface** entre [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [vendas](https://seatable.io/pt/vertrieb/) e desenvolvimento de produtos, bem como produção. Para as etapas individuais do processo de desenvolvimento do produto, o gestor do produto também coordena o **[Gestão de projectos](https://seatable.io/pt/projektmanagement/)**. A gestão do produto está, portanto, também muito ocupada com a formação e análises estratégicas, que ocorrem para além da concepção e desenvolvimento do próprio produto.
 
 ### Desafios na gestão de produtos
 
@@ -66,7 +66,7 @@ Na ficha do produto encontrará toda a informação importante sobre o produto
 
 ### 3\. todos os contactos num relance
 
-No processo de desenvolvimento do produto, o produto passa por uma série de departamentos diferentes. [Marketing](https://seatable.io/pt/marketing/), vendas, fábrica de produção, fotografia e também retalho são importantes pontos de contacto diários no trabalho de um gestor de produto. É então prático se todos os dados de contacto forem recolhidos num único local e assim acessíveis a todos. Isto é tão útil para o substituto de férias como para o novo estagiário! Além disso, também podem ser acrescentadas informações, tais como actas de reuniões, documentos importantes ou marcações telefónicas futuras. Com SeaTable, criar um livro de endereços dentro de uma mesa não é absolutamente nenhum problema.
+No processo de desenvolvimento do produto, o produto passa por uma série de departamentos diferentes. [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), vendas, fábrica de produção, fotografia e também retalho são importantes pontos de contacto diários no trabalho de um gestor de produto. É então prático se todos os dados de contacto forem recolhidos num único local e assim acessíveis a todos. Isto é tão útil para o substituto de férias como para o novo estagiário! Além disso, também podem ser acrescentadas informações, tais como actas de reuniões, documentos importantes ou marcações telefónicas futuras. Com SeaTable, criar um livro de endereços dentro de uma mesa não é absolutamente nenhum problema.
 
 ![Os dados de contacto de fornecedores e clientes são muito importantes para uma boa gestão do produto](Suppliers-and-Contacts.jpg)
 

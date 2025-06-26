@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Pour faire avancer son entreprise et se démarquer de la concurrence, il faut avant tout un [marketing](https://seatable.io/fr/marketing/) extrêmement efficace. La qualité de celui-ci dépend de la campagne de marketing et de sa planification. Plusieurs questions se posent donc directement : qu'est-ce qu'une campagne de marketing ? Quand est-elle bonne et quand ne l'est-elle pas ? Et comment combiner de manière optimale la mise en œuvre et la planification de la campagne de marketing ?
+Pour faire avancer son entreprise et se démarquer de la concurrence, il faut avant tout un [marketing]({{< relref "pages/industry-solutions/marketing" >}}) extrêmement efficace. La qualité de celui-ci dépend de la campagne de marketing et de sa planification. Plusieurs questions se posent donc directement : qu'est-ce qu'une campagne de marketing ? Quand est-elle bonne et quand ne l'est-elle pas ? Et comment combiner de manière optimale la mise en œuvre et la planification de la campagne de marketing ?
 
 Les réponses ainsi qu'un aperçu des six meilleurs conseils pratiques pour la planification de votre campagne de marketing sont disponibles dans cet article.
 
