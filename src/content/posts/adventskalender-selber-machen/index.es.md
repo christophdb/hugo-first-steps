@@ -6,7 +6,7 @@ seo:
     description: 'Aprenda a crear un calendario de Adviento único. Descubra sugerencias inspiradoras y descripciones detalladas para una temporada festiva.'
 color: 
 categories:
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Vida cotidiana y ocio'
 date: 2024-10-28
