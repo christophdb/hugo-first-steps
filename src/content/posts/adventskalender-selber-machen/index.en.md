@@ -6,7 +6,7 @@ seo:
     description: 'Learn how to create a unique Advent calendar. Discover inspiring suggestions and detailed descriptions for a festive season'
 color: 
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Everyday Life & Leisure'
 date: 2024-10-28
