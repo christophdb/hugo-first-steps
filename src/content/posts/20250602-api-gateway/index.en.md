@@ -5,7 +5,7 @@ url: /api-gateway-version-5-3
 date: 2025-06-02
 color: '#c5e8bc'
 category:
-    - 'Product & Features'
+    - 'product-features'
 tags:
     - 'Integrations & Automations'
 ---
