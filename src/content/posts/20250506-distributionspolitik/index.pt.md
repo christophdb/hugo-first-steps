@@ -33,33 +33,31 @@ Para poder oferecer os seus produtos ou serviços ao menor custo possível, uma 
 
 Os objectivos podem, por conseguinte, ser resumidos da seguinte forma:
 
-{{< faq >}}
-
-Presença no mercado |||
+{{< faq "Presença no mercado" >}}
 
 Aumente a disponibilidade dos seus produtos em todos os pontos de venda relevantes, por exemplo, em lojas online ou pontos de venda fixos.
 
----
+{{< /faq >}}
 
-Satisfação do cliente |||
+{{< faq "Satisfação do cliente" >}}
 
 Assegurar cadeias de abastecimento e embalagens estáveis para que os seus produtos cheguem ao cliente a tempo e sem danos.
 
----
+{{< /faq >}}
 
-Eficiência de custos |||
+{{< faq "Eficiência de custos" >}}
 
 Optimize a sua logística de distribuição para evitar a sobreprodução, os estrangulamentos nas entregas, as perdas e as reclamações, e poupe custos.
 
----
+{{< /faq >}}
 
-Aumento das vendas |||
+{{< faq "Aumento das vendas" >}}
 
 O objetivo é influenciar positivamente o comportamento de compra dos clientes através da colocação estratégica nos pontos de venda certos.
 
----
+{{< /faq >}}
 
-Vantagens competitivas |||
+{{< faq "Vantagens competitivas" >}}
 
 Garantir canais de distribuição exclusivos e estar um passo à frente da concorrência graças a uma política de distribuição bem pensada.
 
@@ -119,7 +117,7 @@ Um revendedor é um comerciante que compra produtos ou serviços a uma empresa e
 
 ### Comércio grossista
 
-Dentro da cadeia de abastecimento, os grossistas são muitas vezes a **ligação entre os produtores e as empresas clientes**. Os grossistas compram bens em grande escala a vários produtores e vendem-nos a clientes comerciais, tais como retalhistas, o sector da restauração ou a indústria transformadora. Para colmatar a lacuna entre a produção e o consumo de bens, os grossistas desempenham a importante função de **armazenagem**, que está associada a elevados custos de armazenamento. Quanto maior for a quantidade de mercadorias que se pretende distribuir aos diferentes pontos de venda, maior será a vantagem deste canal de distribuição para a sua logística de distribuição. Para os **fabricantes de bens de consumo**, em particular, o comércio grossista e retalhista são indispensáveis para colocar as mercadorias em circulação de forma rentável.
+Dentro da [cadeia de abastecimento]({{< relref "posts/20250620-supply-chain-management" >}}), os grossistas são muitas vezes a **ligação entre os produtores e as empresas clientes**. Os grossistas compram bens em grande escala a vários produtores e vendem-nos a clientes comerciais, tais como retalhistas, o sector da restauração ou a indústria transformadora. Para colmatar a lacuna entre a produção e o consumo de bens, os grossistas desempenham a importante função de **armazenagem**, que está associada a elevados custos de armazenamento. Quanto maior for a quantidade de mercadorias que se pretende distribuir aos diferentes pontos de venda, maior será a vantagem deste canal de distribuição para a sua logística de distribuição. Para os **fabricantes de bens de consumo**, em particular, o comércio grossista e retalhista são indispensáveis para colocar as mercadorias em circulação de forma rentável.
 
 ![Os grossistas armazenam grandes quantidades de mercadorias para distribuição](Grosshandel.jpg)
 
@@ -177,21 +175,19 @@ Mesmo o melhor e mais barato produto é inútil se não estiver disponível em p
 
 ## Perguntas frequentes sobre a política de distribuição
 
-{{< faq >}}
-
-O que é a distribuição? |||
+{{< faq "O que é a distribuição?" >}}
 
 Basicamente, a distribuição é a distribuição de dinheiro, produtos ou outros objectos. No mundo dos negócios, distribuição significa o fluxo de bens desde os fabricantes, passando pelos retalhistas, até aos consumidores. Nesta definição, a distribuição é também utilizada como sinónimo de vendas.
 
----
+{{< /faq >}}
 
-O que significa política de distribuição? |||
+{{< faq "O que significa política de distribuição?" >}}
 
-Poderá estar a perguntar-se: o que é a política de distribuição? Basicamente, a sua política de distribuição responde à questão de saber como é que os seus produtos ou serviços chegam aos seus clientes. No marketing mix, a política de distribuição é um dos quatro aspectos centrais, juntamente com a política de produtos, preços e comunicação.
+Poderá estar a perguntar-se: o que é a política de distribuição? Basicamente, a sua política de distribuição responde à questão de saber como é que os seus produtos ou serviços chegam aos seus clientes. No [marketing mix](https://pt.wikipedia.org/wiki/Composto_mercadol%C3%B3gico), a política de distribuição é um dos quatro aspectos centrais, juntamente com a política de produtos, preços e comunicação.
 
----
+{{< /faq >}}
 
-O que é a logística de distribuição? |||
+{{< faq "O que é a logística de distribuição?" >}}
 
 A logística é crucial para a distribuição física. Por conseguinte, uma das tarefas da política de distribuição consiste em analisar a forma como a embalagem, a armazenagem e o transporte devem ser organizados para que os produtos cheguem ao ponto de venda e ao consumidor rapidamente e sem danos. No entanto, a distribuição indireta permite que uma grande parte da logística de distribuição seja subcontratada a intermediários.
 

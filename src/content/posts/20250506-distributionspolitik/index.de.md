@@ -8,7 +8,8 @@ date: 2025-05-06
 categories:
     - 'best-practice'
 tags:
-    - 'Distribution'
+    - 'Vertriebsplanung'
+    - 'Beschaffung & Logistik'
 url: '/de/distributionspolitik'
 color: '#e9d3b4'
 ---
@@ -17,7 +18,7 @@ color: '#e9d3b4'
 
 Die Distributionspolitik, auch Vertriebspolitik genannt, ist ein zentraler Baustein jedes erfolgreichen Geschäftsmodells. Aber was bedeutet Distribution eigentlich? Im ökonomischen Sinne ist damit die **Verteilung von Wirtschaftsgütern** gemeint – und zwar von den Herstellern über den Handel zu den Verbrauchern.
 
-Mit Ihrer Distributionspolitik legen Sie demnach fest, **wie Ihre Produkte oder Dienstleistungen zu Ihren Kunden gelangen**. Zu den Aufgaben der Distributionspolitik zählen unter anderem die Auswahl der Vertriebskanäle, die Lagerhaltung, der Transport und die Produktplatzierung am Verkaufsort.
+Mit Ihrer Distributionspolitik legen Sie demnach fest, **wie Ihre Produkte oder Dienstleistungen zu Ihren Kunden gelangen**. Zu den Aufgaben der Distributionspolitik zählen unter anderem die Auswahl der Vertriebskanäle, die Lagerverwaltung, der Transport und die Produktplatzierung am Verkaufsort.
 
 ![Der Einzelhandel ist ein wichtiger Absatzweg in der Distributionspolitik](Einzelhandel.jpg)
 
@@ -33,33 +34,31 @@ Um Ihre Produkte oder Dienstleistungen zu möglichst geringen Kosten anbieten zu
 
 Die Ziele lassen sich daher wie folgt zusammenfassen:
 
-{{< faq >}}
-
-Marktpräsenz |||
+{{< faq "Marktpräsenz" >}}
 
 Erhöhen Sie die Verfügbarkeit Ihrer Produkte an allen relevanten Verkaufsorten, zum Beispiel in Online-Shops oder im stationären Einzelhandel.
 
----
+{{< /faq >}}
 
-Kundenzufriedenheit |||
+{{< faq "Kundenzufriedenheit" >}}
 
 Sorgen Sie für stabile Lieferketten und Verpackungen, damit Ihre Produkte termingerecht und unversehrt beim Kunden ankommen.
 
----
+{{< /faq >}}
 
-Kosteneffizienz |||
+{{< faq "Kosteneffizienz" >}}
 
 Optimieren Sie Ihre Distributionslogistik, um Überproduktion, Lieferengpässe, Verluste und Reklamationen zu vermeiden und so Kosten zu sparen.
 
----
+{{< /faq >}}
 
-Umsatzsteigerung |||
+{{< faq "Umsatzsteigerung" >}}
 
 Versuchen Sie durch strategische Platzierung an den richtigen Verkaufsstellen das Kaufverhalten der Kunden positiv zu beeinflussen.
 
----
+{{< /faq >}}
 
-Wettbewerbsvorteile |||
+{{< faq "Wettbewerbsvorteile" >}}
 
 Sichern Sie sich exklusive Vertriebskanäle und seien Sie der Konkurrenz dank einer durchdachten Distributionspolitik immer einen Schritt voraus.
 
@@ -67,7 +66,7 @@ Sichern Sie sich exklusive Vertriebskanäle und seien Sie der Konkurrenz dank ei
 
 ## Die Rolle der Distributionspolitik im Marketing-Mix
 
-Neben der Produkt-, Preis- und Kommunikationspolitik gehört die Distributionspolitik zu den vier elementaren Instrumenten des Marketing-Mix, die E. Jerome McCarthy bereits in den 1960er Jahren beschrieben hat. **Dabei unterscheidet man zwischen dem physischen und dem akquisitorischen Vertrieb**, also der logistischen Distribution und der Kundengewinnung, bei der es um die Gestaltung der Vertriebsstrategie und des Vertriebsprozesses geht.
+Neben der Produkt-, Preis- und Kommunikationspolitik gehört die Distributionspolitik zu den vier elementaren Instrumenten des Marketing-Mix, die E. Jerome McCarthy bereits in den 1960er Jahren beschrieben hat. **Dabei unterscheidet man zwischen dem physischen und dem akquisitorischen Vertrieb**, also der logistischen Distribution und dem Kundenmanagement, bei dem es auch um die Gestaltung der Vertriebsstrategie und des Vertriebsprozesses geht.
 
 ![Die Distributionslogistik beschäftigt sich mit der physischen Distribution](Distribution.jpg)
 
@@ -119,7 +118,7 @@ Ein Reseller ist ein Händler, der Produkte oder Dienstleistungen eines Unterneh
 
 ### Großhandel
 
-Innerhalb der Lieferkette bildet der Großhandel häufig das **Bindeglied zwischen Erzeugern und Unternehmenskunden**. Großhändler beschaffen im großen Stil Waren von verschiedenen Produzenten und verkaufen diese an gewerbliche Kunden wie den Einzelhandel, die Gastronomie oder die verarbeitende Industrie weiter. Um die Zeit zwischen der Produktion und dem Konsum von Gütern zu überbrücken, übernimmt der Großhandel die wichtige Funktion der **Vorratshaltung**, die mit hohen Lagerkosten verbunden ist. Je größer die Menge an Waren ist, die Sie an einzelne Verkaufsstellen verteilen möchten, desto größer ist auch der Nutzen dieses Vertriebswegs für Ihre Distributionslogistik. Insbesondere für **Konsumgüterhersteller** sind Groß- und Einzelhandel unabdingbar, um Waren kostengünstig in Umlauf zu bringen.
+Innerhalb der [Lieferkette]({{< relref "posts/20250620-supply-chain-management" >}}) bildet der Großhandel häufig das **Bindeglied zwischen Erzeugern und Unternehmenskunden**. Großhändler beschaffen im großen Stil Waren von verschiedenen Produzenten und verkaufen diese an gewerbliche Kunden wie den Einzelhandel, die Gastronomie oder die verarbeitende Industrie weiter. Um die Zeit zwischen der Produktion und dem Konsum von Gütern zu überbrücken, übernimmt der Großhandel die wichtige Funktion der **Vorratshaltung**, die mit hohen Lagerkosten verbunden ist. Je größer die Menge an Waren ist, die Sie an einzelne Verkaufsstellen verteilen möchten, desto größer ist auch der Nutzen dieses Vertriebswegs für Ihre Distributionslogistik. Insbesondere für **Konsumgüterhersteller** sind Groß- und Einzelhandel unabdingbar, um Waren kostengünstig in Umlauf zu bringen.
 
 ![Der Großhandel lagert enorme Mengen an Gütern für die Distribution](Grosshandel.jpg)
 
@@ -177,21 +176,19 @@ Selbst das beste und preiswerteste Produkt bringt nichts, wenn es nicht an genü
 
 ## Häufige Fragen zur Distributionspolitik
 
-{{< faq >}}
-
-Was ist Distribution? |||
+{{< faq "Was ist Distribution?" >}}
 
 Grundsätzlich versteht man unter Distribution die Verteilung von Geld, Produkten oder anderen Dingen. In der Wirtschaft hat Distribution die Bedeutung, dass Warenströme von den Herstellern über den Handel zu den Verbrauchern fließen. Ferner wird Distribution in dieser Definition synonym zu Vertrieb verwendet.
 
----
+{{< /faq >}}
 
-Was bedeutet Distributionspolitik? |||
+{{< faq "Was bedeutet Distributionspolitik?" >}}
 
-Sie fragen sich nun vielleicht: Was ist Distributionspolitik? Im Grunde beantwortet Ihre Distributionspolitik (einfach erklärt) die Frage, auf welchen Wegen Ihre Produkte oder Dienstleistungen zu Ihren Kunden gelangen. Im Marketing-Mix zählt die Distributionspolitik gemeinsam mit der Produkt-, Preis- und Kommunikationspolitik zu den vier zentralen Aspekten.
+Sie fragen sich nun vielleicht: Was ist Distributionspolitik? Im Grunde beantwortet Ihre Distributionspolitik (einfach erklärt) die Frage, auf welchen Wegen Ihre Produkte oder Dienstleistungen zu Ihren Kunden gelangen. Im [Marketing-Mix](https://de.wikipedia.org/wiki/Marketing-Mix) zählt die Distributionspolitik gemeinsam mit der Produkt-, Preis- und Kommunikationspolitik zu den vier zentralen Aspekten.
 
----
+{{< /faq >}}
 
-Was versteht man unter Distributionslogistik? |||
+{{< faq "Was versteht man unter Distributionslogistik?" >}}
 
 Für die physische Distribution ist die Logistik entscheidend. Zu den Aufgaben der Distributionspolitik gehört es demzufolge auch zu überlegen, wie Verpackung, Lagerung und Transport erfolgen müssen, damit Produkte schnell und unbeschadet an den Verkaufsorten und bei den Verbrauchern ankommen. Durch indirekten Vertrieb können Sie jedoch weite Teile der Distributionslogistik an Zwischenhändler auslagern.
 

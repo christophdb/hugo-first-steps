@@ -26,11 +26,12 @@ A orçamentação - também conhecida como planeamento orçamental ou atribuiç�
 
 ## Vantagens do planeamento orçamental prospetivo
 
-**Atribuição sensível do orçamento**: O planeamento orçamental ajuda-o a atribuir dinheiro e recursos de forma sensata a departamentos e projectos e a utilizá-los especificamente onde trarão o maior benefício possível.
+- **Atribuição sensível do orçamento**: O planeamento orçamental ajuda-o a atribuir dinheiro e recursos de forma sensata a departamentos e projectos e a utilizá-los especificamente onde trarão o maior benefício possível.
 
 - **Objectivos vinculativos**: Com um plano orçamental vinculativo, pode garantir que os seus gestores formulam objectivos claros e tomam medidas eficazes para os alcançar.  
 
 - **Transparência financeira**: A orçamentação permite-lhe saber claramente em que é que está a gastar o seu dinheiro. Pode controlar os custos e os objectivos, medir o sucesso e antecipar desenvolvimentos indesejáveis.
+
 - **Investimentos prioritários**: A lista de desejos dos departamentos é muitas vezes longa. Um orçamento fixo ajuda-o a estabelecer prioridades para os investimentos cruciais e a evitar despesas desnecessárias.
 
 ## O orçamento anda de mãos dadas com o planeamento financeiro
@@ -57,7 +58,7 @@ Existem três procedimentos ou métodos de orçamentação que se revelaram part
 
 - **Descendente**: A administração determina o orçamento global, bem como a distribuição do orçamento e os gestores de departamento/projeto planeiam então as medidas que podem implementar com ele.
 - **Ascendente**: Aqui, os próprios gestores de departamento/projeto determinam o orçamento de que necessitam para as suas tarefas e transmitem o planeamento orçamental aos decisores. Estes somam os sub-orçamentos, comparam-nos com o orçamento global e determinam o que é aprovado.
-  **Procedimento de contra-fluxo**: Neste caso, combina a abordagem descendente com a abordagem ascendente. A direção fixa os objectivos, mas não entra em pormenores sobre a orçamentação. Os gestores de departamento/projeto desenvolvem então medidas adequadas e especificam as despesas previstas. Finalmente, o nível de gestão deve rever a orçamentação e alinhá-la com o orçamento global.
+- **Procedimento de contra-fluxo**: Neste caso, combina a abordagem descendente com a abordagem ascendente. A direção fixa os objectivos, mas não entra em pormenores sobre a orçamentação. Os gestores de departamento/projeto desenvolvem então medidas adequadas e especificam as despesas previstas. Finalmente, o nível de gestão deve rever a orçamentação e alinhá-la com o orçamento global.
 
 ![processo de planeamento orçamental: descendente, ascendente ou ambos?](susan-q-yin-BiWM-utpVVc-unsplash.jpg)
 
@@ -120,7 +121,7 @@ A seguir, analisamos mais de perto o planeamento orçamental em [TI]({{< relref 
 
 ### Planeamento do orçamento de TI
 
-Sistemas de TI funcionais, processos automatizados e [gestão de dados] eficiente({{< relref "posts/20250317-datenmanagement" >}}) são de importância fulcral para todas as áreas da empresa. Além disso, quase todos os funcionários precisam de hardware de alto desempenho (por exemplo, computadores portáteis, telemóveis da empresa) para poderem trabalhar de forma produtiva. O planeamento do orçamento de TI desempenha, portanto, um papel cada vez mais importante. Basicamente, pode distinguir entre estes tipos de despesas na orçamentação de TI:
+Sistemas de TI funcionais, processos automatizados e [gestão de dados]({{< relref "posts/20250317-datenmanagement" >}}) eficiente são de importância fulcral para todas as áreas da empresa. Além disso, quase todos os funcionários precisam de hardware de alto desempenho (por exemplo, computadores portáteis, telemóveis da empresa) para poderem trabalhar de forma produtiva. O planeamento do orçamento de TI desempenha, portanto, um papel cada vez mais importante. Basicamente, pode distinguir entre estes tipos de despesas na orçamentação de TI:
 
 - **Despesas de capital (investimentos pontuais)**: Trata-se de activos fixos, como hardware e infra-estruturas, que adquire para um período de tempo mais longo, por exemplo, dispositivos finais, servidores, tecnologia de rede, monitores, auscultadores, etc.
 
@@ -154,8 +155,8 @@ Com base nestas análises e objectivos, os gestores comunicam quanto dinheiro pr
 
 ## Crie os seus planos orçamentais com o SeaTable
 
-Muitas pessoas utilizam [folhas de cálculo Excel] ({{< relref "pages/excel-alternative" >}}) para o seu planeamento orçamental, mas estas apenas oferecem funções e opções de visualização limitadas. No **SeaTable** pode [registar-se gratuitamente]({{< relref "pages/registration" >}}) e começar diretamente com o modelo apresentado acima. Pode agrupar e avaliar todos os centros de custos, objectivos, orçamentos e despesas numa base de dados central.
+Muitas pessoas utilizam [folhas de cálculo Excel]({{< relref "pages/excel-alternative" >}}) para o seu planeamento orçamental, mas estas apenas oferecem funções e opções de visualização limitadas. No **SeaTable** pode [registar-se gratuitamente]({{< relref "pages/registration" >}}) e começar diretamente com o modelo apresentado acima. Pode agrupar e avaliar todos os centros de custos, objectivos, orçamentos e despesas numa base de dados central.
 
 Atribua responsabilidades orçamentais aos seus gestores e utilize o **SeaTable como ferramenta de colaboração** para trabalhar na orçamentação com vários departamentos ao mesmo tempo. Isto permite-lhe ajustar o plano orçamental ao longo do ano, acompanhar o **registo de despesas em tempo real** e ter sempre uma visão geral do orçamento atual.
 
-Experimente o nosso [modelo de planeamento orçamental gratuito] ({{< relref "templates/finance/budget-plan" >}}) e descubra outros casos de utilização interessantes que pode implementar com o SeaTable.
+Experimente o nosso [modelo de planeamento orçamental gratuito]({{< relref "templates/finance/budget-plan" >}}) e descubra outros casos de utilização interessantes que pode implementar com o SeaTable.

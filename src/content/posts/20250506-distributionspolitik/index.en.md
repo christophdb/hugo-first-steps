@@ -33,33 +33,31 @@ In order to be able to offer your products or services at the lowest possible co
 
 The objectives can therefore be summarized as follows:
 
-{{< faq >}}
-
-Market presence |||
+{{< faq "Market presence" >}}
 
 Increase the availability of your products at all relevant points of sale, for example in online stores or stationary retail outlets.
 
----
+{{< /faq >}}
 
-Customer satisfaction |||
+{{< faq "Customer satisfaction" >}}
 
 Ensure stable supply chains and packaging so that your products reach the customer on time and undamaged.
 
----
+{{< /faq >}}
 
-Cost efficiency |||
+{{< faq "Cost efficiency" >}}
 
 Optimize your distribution logistics to avoid overproduction, delivery bottlenecks, losses and complaints, and thus save costs.
 
----
+{{< /faq >}}
 
-Increase sales |||
+{{< faq "Increase sales" >}}
 
 Try to positively influence customer buying behavior through strategic placement at the right points of sale.
 
----
+{{< /faq >}}
 
-Competitive advantages |||
+{{< faq "Competitive advantages" >}}
 
 Secure exclusive distribution channels and stay one step ahead of the competition thanks to a well thought-out distribution policy.
 
@@ -119,7 +117,7 @@ A reseller is a dealer who procures a company's products or services and resells
 
 ### Wholesale
 
-Within the supply chain, wholesalers are often the **link between producers and corporate customers**. Wholesalers procure goods on a **large scale** from various producers and sell them on to commercial customers such as retailers, restaurants or the processing industry. In order to bridge the gap between the production and consumption of goods, wholesalers take on the important function of **stockpiling**, which is associated with high storage costs. The larger the quantity of goods you wish to distribute to individual points of sale, the greater the benefit of this distribution channel for your distribution logistics. For **consumer goods manufacturers** in particular, wholesale and retail are indispensable for getting goods into circulation cost-effectively.
+Within the [supply chain]({{< relref "posts/20250620-supply-chain-management" >}}), wholesalers are often the **link between producers and corporate customers**. Wholesalers procure goods on a **large scale** from various producers and sell them on to commercial customers such as retailers, restaurants or the processing industry. In order to bridge the gap between the production and consumption of goods, wholesalers take on the important function of **stockpiling**, which is associated with high storage costs. The larger the quantity of goods you wish to distribute to individual points of sale, the greater the benefit of this distribution channel for your distribution logistics. For **consumer goods manufacturers** in particular, wholesale and retail are indispensable for getting goods into circulation cost-effectively.
 
 ![Wholesalers store enormous quantities of goods for distribution](Grosshandel.jpg)
 
@@ -177,21 +175,18 @@ Even the best and most reasonably priced product is useless if it is not availab
 
 ## Frequently asked questions about distribution policy
 
-{{< faq >}}
-
-What is distribution? |||
+{{< faq "What is distribution?" >}}
 
 Basically, distribution is the distribution of money, products or other things. In business, distribution means the flow of goods from manufacturers via retailers to consumers. Furthermore, distribution is used synonymously with sales in this definition.
 
----
+{{< /faq >}}
 
-What does distribution policy mean? |||
+{{< faq "What does distribution policy mean?" >}}
 
-You may be asking yourself: What is distribution policy? Basically, your distribution policy (simply explained) answers the question of how your products or services reach your customers. In the marketing mix, distribution policy is one of the four central aspects together with product, price and promotion policy.
+You may be asking yourself: What is distribution policy? Basically, your distribution policy (simply explained) answers the question of how your products or services reach your customers. In the [marketing mix](https://en.wikipedia.org/wiki/Marketing_mix), distribution policy is one of the four central aspects together with product, price and promotion policy.
+{{< /faq >}}
 
----
-
-What is distribution logistics? |||
+{{< faq "What is distribution logistics?" >}}
 
 Logistics is crucial for physical distribution. One of the tasks of distribution policy is therefore to consider how packaging, storage and transportation should be carried out so that products arrive quickly and undamaged at the point of sale and to the consumer. However, indirect distribution allows you to outsource large parts of distribution logistics to intermediaries.
 

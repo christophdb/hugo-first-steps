@@ -33,33 +33,31 @@ Pour pouvoir proposer vos produits ou services au coût le plus bas possible, un
 
 Les objectifs peuvent donc être résumés comme suit :
 
-{{< faq >}}
-
-Présence sur le marché |||
+{{< faq "Présence sur le marché" >}}
 
 Augmentez la disponibilité de vos produits dans tous les points de vente pertinents, par exemple dans les boutiques en ligne ou dans le commerce de détail stationnaire.
 
----
+{{< /faq >}}
 
-Satisfaction des clients |||
+{{< faq "Satisfaction des clients" >}}
 
 Assurez la stabilité des chaînes d'approvisionnement et des emballages pour que vos produits arrivent intacts et dans les délais chez vos clients.
 
----
+{{< /faq >}}
 
-Efficacité des coûts |||
+{{< faq "Efficacité des coûts" >}}
 
 Optimisez votre logistique de distribution pour éviter la surproduction, les ruptures de stock, les pertes et les réclamations, et ainsi réduire les coûts.
 
----
+{{< /faq >}}
 
-Augmentation du chiffre d'affaires |||
+{{< faq "Augmentation du chiffre d'affaires" >}}
 
 Essayez d'influencer positivement le comportement d'achat des clients en les plaçant stratégiquement aux bons points de vente.
 
----
+{{< /faq >}}
 
-Avantages concurrentiels |||
+{{< faq "Avantages concurrentiels" >}}
 
 Assurez-vous des canaux de distribution exclusifs et ayez toujours une longueur d'avance sur vos concurrents grâce à une politique de distribution bien pensée.
 
@@ -119,7 +117,7 @@ Un revendeur est un commerçant qui achète les produits ou les services d'une e
 
 ### Commerce de gros
 
-Dans la chaîne d'approvisionnement, le commerce de gros constitue souvent le **lien entre les producteurs et les clients de l'entreprise**. Les grossistes achètent des marchandises à grande échelle auprès de différents producteurs et les revendent à des clients professionnels tels que le commerce de détail, la restauration ou l'industrie de transformation. Pour combler le temps entre la production et la consommation de biens, le commerce de gros assume la fonction importante de **stockage**, qui implique des coûts de stockage élevés. Plus la quantité de marchandises que vous souhaitez distribuer à des points de vente individuels est importante, plus l'utilité de ce canal de distribution pour votre logistique de distribution est grande. Pour les **producteurs de biens de consommation** en particulier, le commerce de gros et de détail est indispensable pour faire circuler les marchandises à moindre coût.
+Dans la [chaîne d'approvisionnement]({{< relref "posts/20250620-supply-chain-management" >}}), le commerce de gros constitue souvent le **lien entre les producteurs et les clients de l'entreprise**. Les grossistes achètent des marchandises à grande échelle auprès de différents producteurs et les revendent à des clients professionnels tels que le commerce de détail, la restauration ou l'industrie de transformation. Pour combler le temps entre la production et la consommation de biens, le commerce de gros assume la fonction importante de **stockage**, qui implique des coûts de stockage élevés. Plus la quantité de marchandises que vous souhaitez distribuer à des points de vente individuels est importante, plus l'utilité de ce canal de distribution pour votre logistique de distribution est grande. Pour les **producteurs de biens de consommation** en particulier, le commerce de gros et de détail est indispensable pour faire circuler les marchandises à moindre coût.
 
 ![Le commerce de gros stocke d'énormes quantités de marchandises pour la distribution](Grosshandel.jpg)
 
@@ -177,21 +175,19 @@ Même le produit le meilleur et le moins cher ne sert à rien s'il n'est pas dis
 
 ## Questions fréquentes sur la politique de distribution
 
-{{< faq >}}
-
-Qu'est-ce que la distribution ? |||
+{{< faq "Qu'est-ce que la distribution ?" >}}
 
 En principe, on entend par distribution la répartition d'argent, de produits ou d'autres choses. Dans l'économie, la distribution signifie que les flux de marchandises vont des producteurs aux consommateurs via le commerce. En outre, dans cette définition, la distribution est utilisée comme synonyme de vente.
 
----
+{{< /faq >}}
 
-Qu'est-ce que la politique de distribution ? |||
+{{< faq "Qu'est-ce que la politique de distribution ?" >}}
 
-Vous vous demandez peut-être : qu'est-ce que la politique de distribution ? En fait, votre politique de distribution (expliquée simplement) répond à la question de savoir par quels moyens vos produits ou services parviennent à vos clients. Dans le marketing mix, la politique de distribution fait partie des quatre aspects centraux, avec la politique de produit, la politique de prix et la politique de communication.
+Vous vous demandez peut-être : qu'est-ce que la politique de distribution ? En fait, votre politique de distribution (expliquée simplement) répond à la question de savoir par quels moyens vos produits ou services parviennent à vos clients. Dans le [marketing mix](https://fr.wikipedia.org/wiki/Marketing_mix), la politique de distribution fait partie des quatre aspects centraux, avec la politique de produit, la politique de prix et la politique de communication.
 
----
+{{< /faq >}}
 
-Qu'entend-on par logistique de distribution ? |||
+{{< faq "Qu'entend-on par logistique de distribution ?" >}}
 
 La logistique est essentielle à la distribution physique. L'une des tâches de la politique de distribution consiste donc à réfléchir à la manière dont l'emballage, le stockage et le transport doivent être effectués pour que les produits arrivent rapidement et sans dommage sur les lieux de vente et chez les consommateurs. La distribution indirecte permet toutefois d'externaliser une grande partie de la logistique de distribution à des intermédiaires.
 
