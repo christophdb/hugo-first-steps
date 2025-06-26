@@ -6,7 +6,7 @@ seo:
     description: 'Saiba como criar um calendário do Advento único. Descubra sugestões inspiradoras e descrições pormenorizadas para uma época festiva encher'
 color: 
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 tags:
     - 'Vida cotidiana e lazer'
 date: 2024-10-28
