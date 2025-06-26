@@ -6,7 +6,7 @@ author: 'rdb'
 url: '/fr/redaktionsplan-contentplan'
 color: '#8ddb8c'
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Planification de contenu'
 seo:
