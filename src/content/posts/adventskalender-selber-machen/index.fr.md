@@ -6,7 +6,7 @@ seo:
     description: "Apprends à créer un calendrier de l'Avent unique en son genre. Découvre des propositions inspirantes et des descriptions détaillées pour une période festive"
 color: 
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Vie Quotidienne'
 date: 2024-10-28
