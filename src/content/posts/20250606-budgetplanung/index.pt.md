@@ -7,7 +7,7 @@ seo:
     title: 'Orçamentação: vantagens, métodos, conselhos'
     description: 'Como funciona a orçamentação numa empresa e o que deve ter em conta? Leia aqui as nossas dicas, incluindo um exemplo.'
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 tags:
     - 'Finanças'
     - 'Gestão de projectos'

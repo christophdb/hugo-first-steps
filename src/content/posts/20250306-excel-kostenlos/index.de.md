@@ -6,7 +6,7 @@ seo:
     description: 'Möchten Sie Excel kostenlos nutzen? Entdecken Sie in unserem Blogbeitrag clevere Excel Alternativen. Effiziente Tabellenkalkulation'
 date: 2025-03-06
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Wenn Excel nicht mehr reicht'
     - 'Toolings & Plugins'

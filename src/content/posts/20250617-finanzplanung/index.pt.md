@@ -8,7 +8,7 @@ seo:
     title: 'Planeamento financeiro na empresa - a base para o seu sucesso'
     description: 'Um planeamento financeiro sólido constitui a base de um crescimento sustentável, da estabilidade económica e da margem de manobra de uma empresa.'
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 tags:
     - 'Finanças'
     - 'Criar a sua empresa'

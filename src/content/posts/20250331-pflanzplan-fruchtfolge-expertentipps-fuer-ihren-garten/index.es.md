@@ -6,7 +6,7 @@ seo:
     description: 'Este artículo le muestra cómo crear un plan de plantación de hortalizas, camas elevadas y camas perennes para obtener una buena cosecha a largo plazo'
 fecha: 2025-03-31
 categorías:
-    - 'Best Practice'
+    - 'best-practice'
 etiquetas:
 color: '#c4d69f'
 url: '/es/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'

@@ -7,7 +7,7 @@ seo:
     title: 'Budgeting : advantages, methods, tips'
     description: 'Comment la budgétisation fonctionne-t-elle dans une entreprise et quels sont les éléments à prendre en compte ? Lisez nos conseils ici, y compris un exemple.'
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Finances'
     - 'Gestion de projet'

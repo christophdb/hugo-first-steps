@@ -6,7 +6,7 @@ seo:
     title: Incident Management – So reagieren Sie richtig auf IT-Störungen
     description: Alles, was Sie über Incident Management wissen müssen, um Ausfälle zu minimieren und die Betriebskontinuität sicherzustellen.
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'IT Prozesse'
 

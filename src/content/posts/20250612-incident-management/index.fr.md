@@ -6,7 +6,7 @@ seo:
     title: 'Gestion des incidents - Comment réagir correctement aux incidents informatiques'
     description: 'Tout ce que vous devez savoir sur la gestion des incidents pour minimiser les pannes et assurer la continuité des opérations.'
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Processus informatiques'
 

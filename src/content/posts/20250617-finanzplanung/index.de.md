@@ -8,7 +8,7 @@ seo:
     title: 'Finanzplanung im Unternehmen – das Fundament für Ihren Erfolg'
     description: 'Eine solide Finanzplanung bildet das Fundament für nachhaltiges Wachstum, wirtschaftliche Stabilität und gestalterische Spielräume eines Unternehmens.'
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Finanzen'
     - 'Build your Business'
