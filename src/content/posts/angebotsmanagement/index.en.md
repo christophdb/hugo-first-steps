@@ -1,5 +1,9 @@
 ---
 title: 'Good offer management for better sales performance'
+escription: 'One thing is crucial for successful sales work: offer management. But what is important here? What mistakes should not be made under any circumstances? And what does the term "quotation management" actually mean? The answers to these questions and why useful software and online tools can help you significantly with your quotation management can be found in this article.'
+seo:
+    title: 'Optimize quotation management - the software solution'
+    description: 'Optimize your quotation management! Automate sales processes, manage data centrally and maintain an overview at all times'
 date: 2022-07-22
 lastmod: '2022-07-27'
 coverImage: 'Angebotsmanagement_AdobeStock_62533714.jpg'
@@ -17,7 +21,7 @@ Find out the answers to these questions and why useful software and [online tool
 
 ## Offer management - definition and key facts
 
-As a central component in [sales](https://seatable.io/en/vertrieb/), quotation management is the important link between external requirements and internal measures. This means that quotation management includes all tasks and processes that are in some way related to inquiries, (potential) orders, and the associated work steps and services.
+As a central component in sales, quotation management is the important link between external requirements and internal measures. This means that quotation management includes all tasks and processes that are in some way related to inquiries, (potential) orders, and the associated work steps and services.
 
 In general, supply management can be divided into two areas:
 
@@ -96,9 +100,9 @@ Offer management © Patrick Daxenbichler / adobe stock
 
 Precisely tailored supply management does not happen on its own. There are too many aspects to consider. In order to maintain an overview and organize all processes as efficiently and effectively as possible, it has great advantages to manage the complete offer processing using software.
 
-The market already offers a number of software solutions that are versatile and can be flexibly adapted to the requirements of sales. Whether [classic CRM]({{< relref "posts/crm-angebotsmanagement" >}}), customer service or other [sales areas](https://seatable.io/en/vertrieb/) - with the right tools, you can combine your entire sales business in one system and reduce the complexity of offer management to a minimum. The best-known tools for digital offer management include HubSpot, SAP CRM and ActiveCampaign.
+The market already offers a number of software solutions that are versatile and can be flexibly adapted to the requirements of sales. Whether [classic CRM]({{< relref "posts/crm-angebotsmanagement" >}}), customer service or other sales areas - with the right tools, you can combine your entire sales business in one system and reduce the complexity of offer management to a minimum. The best-known tools for digital offer management include HubSpot, SAP CRM and ActiveCampaign.
 
-If you are looking for the all-round carefree package for your offer management, [SeaTable](https://seatable.io/en/) is an optimal, cost-effective alternative. With the functions of this tool, you can automate all sales processes and easily collect all data using an integrated web form. For solving customer problems, answering inquiries and sorting feedback, this is a big plus.
+If you are looking for the all-round carefree package for your offer management, SeaTable is an optimal, cost-effective alternative. With the functions of this tool, you can automate all sales processes and easily collect all data using an integrated web form. For solving customer problems, answering inquiries and sorting feedback, this is a big plus.
 
 With SeaTable, you can manage CRM and customer support as well as supply chain management centrally in one place and make them available to all employees without any additional effort. This way, everyone always knows the current status of each offer. And: using a timeline and Kanban board, you can [easily visualize and meet deadlines]({{< relref "templates/projects/project-plan" >}}). This is how you lay the foundation for truly successful sales work.
 

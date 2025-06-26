@@ -42,7 +42,7 @@ Les outils de gestion de projet permettent à vos collaborateurs de garder un œ
 
 Collaborer à travers différentes régions géographiques et fuseaux horaires n'est pas chose aisée. Google Workspace, Miro et Podio sont quelques-uns des meilleurs outils de collaboration pour les commerciaux.
 
-[SeaTable](https://seatable.io/fr/) est une autre application collaborative de premier ordre pour la gestion de l'information. Cette application sans code dispose de solutions pour le [marketing](https://seatable.io/fr/marketing/), les [ventes](https://seatable.io/fr/distribution/) et [la gestion de projet](https://seatable.io/fr/gestion-de-projet/) qui aident les équipes de vente à distance à collecter, structurer et évaluer différents types d'informations.
+[SeaTable](https://seatable.io/fr/) est une autre application collaborative de premier ordre pour la gestion de l'information. Cette application sans code dispose de solutions pour le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), les [ventes](https://seatable.io/fr/distribution/) et [la gestion de projet](https://seatable.io/fr/gestion-de-projet/) qui aident les équipes de vente à distance à collecter, structurer et évaluer différents types d'informations.
 
 ![SeaTable propose plusieurs solutions pour les équipes de vente à distance, qui les aident à collecter, structurer et analyser différents types d'informations](Ansicht_Offers.png)
 
