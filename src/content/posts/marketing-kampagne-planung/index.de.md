@@ -11,7 +11,7 @@ seo:
     description: 'Eine Marketingkampagne ist nur so gut wie ihre Planung – hier finden Sie 6 Tipps für die perfekte Vorbereitung!'
 ---
 
-Wer sein Unternehmen richtig nach vorne bringen und sich deutlich vom Wettbewerb absetzen will, braucht vor allem eines: ein extrem gutes [Marketing](https://seatable.io/marketing/). Wie gut dieses tatsächlich ist, hängt von der jeweiligen Marketingkampagne und deren Planung ab. Und damit stellen sich direkt mehrere Fragen: Was ist überhaupt eine Marketingkampagne? Wann ist sie gut und wann nicht? Und wie lassen sich Umsetzung und Planung der Marketingkampagne optimal vereinen?
+Wer sein Unternehmen richtig nach vorne bringen und sich deutlich vom Wettbewerb absetzen will, braucht vor allem eines: ein extrem gutes [Marketing]({{< relref "pages/industry-solutions/marketing" >}}). Wie gut dieses tatsächlich ist, hängt von der jeweiligen Marketingkampagne und deren Planung ab. Und damit stellen sich direkt mehrere Fragen: Was ist überhaupt eine Marketingkampagne? Wann ist sie gut und wann nicht? Und wie lassen sich Umsetzung und Planung der Marketingkampagne optimal vereinen?
 
 Die Antworten sowie einen Überblick über die sechs besten Praxistipps für die Planung Ihrer Marketingkampagne gibt es in diesem Artikel.
 

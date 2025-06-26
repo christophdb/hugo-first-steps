@@ -66,7 +66,7 @@ Für die Erstellung Ihres Projektplans [registrieren Sie sich kostenfrei auf Sea
 
 Folgend sehen Sie fünf Projektplan-Beispiele aus der Vorlagen-Bibliothek.
 
-**Projektplan-Vorlage für das [Marketing](https://seatable.io/marketing/)**  
+**Projektplan-Vorlage für das [Marketing]({{< relref "pages/industry-solutions/marketing" >}})**  
 Mithilfe dieser Vorlage haben Sie die Möglichkeit, Ihre [Maßnahmen für ein Projekt im Voraus zu planen](https://seatable.io/vorlage/hntk-vocrksmyj-9746vka/). Sie tragen hier verantwortliche Abteilungen und Personen ein, eine Priorität, das Fälligkeitsdatum, To-Dos und mehr.
 
 In der Beispiel-Vorlage geht es um die [Planung der Marketing- und Kommunikationsaktivitäten](https://seatable.io/marketingplan-vorlage/) eines fiktiven, großen Unternehmens. Die Projektplanung findet ein Jahr im Voraus statt.

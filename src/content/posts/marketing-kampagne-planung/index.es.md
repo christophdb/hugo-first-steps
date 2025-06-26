@@ -12,7 +12,7 @@ seo:
     description:
 ---
 
-Si quiere que su empresa avance de verdad y destaque entre la competencia, necesita una cosa por encima de todo: un [marketing extremadamente bueno](https://seatable.io/marketing/). El grado de calidad depende de cada campaña de marketing y de su planificación. Y esto plantea directamente varias preguntas: ¿Qué es una campaña de marketing? ¿Cuándo es buena y cuándo no? ¿Y cómo pueden combinarse de forma óptima la ejecución y la planificación de la campaña de marketing?
+Si quiere que su empresa avance de verdad y destaque entre la competencia, necesita una cosa por encima de todo: un [marketing extremadamente bueno]({{< relref "pages/industry-solutions/marketing" >}}). El grado de calidad depende de cada campaña de marketing y de su planificación. Y esto plantea directamente varias preguntas: ¿Qué es una campaña de marketing? ¿Cuándo es buena y cuándo no? ¿Y cómo pueden combinarse de forma óptima la ejecución y la planificación de la campaña de marketing?
 
 En este artículo encontrará las respuestas y un resumen de los seis mejores consejos prácticos para planificar su campaña de marketing.
 

@@ -176,23 +176,12 @@ Es folgen drei fiktive Beispiele für eine ausgewogene Mischung aus direktem und
 Selbst das beste und preiswerteste Produkt bringt nichts, wenn es nicht an genügend Verkaufsorten erhältlich und dadurch für potenzielle Kunden schwer zu finden ist. Also überprüfen und hinterfragen Sie regelmäßig, auf welchen Wegen Ihre Produkte zu Ihren Kunden gelangen können. Eine raffinierte Mischung verschiedener Vertriebskanäle stellt Ihre Distributionspolitik breit auf und führt langfristig zum Erfolg.
 
 ## Häufige Fragen zur Distributionspolitik
-
-{{< faq >}}
-
-Was ist Distribution? |||
-
+{{< faq "Was ist Distribution?" >}}
 Grundsätzlich versteht man unter Distribution die Verteilung von Geld, Produkten oder anderen Dingen. In der Wirtschaft hat Distribution die Bedeutung, dass Warenströme von den Herstellern über den Handel zu den Verbrauchern fließen. Ferner wird Distribution in dieser Definition synonym zu Vertrieb verwendet.
+{{< /faq >}}
 
----
+{{< faq "Was bedeutet Distributionspolitik?" >}} Sie fragen sich nun vielleicht: Was ist Distributionspolitik? Im Grunde beantwortet Ihre Distributionspolitik (einfach erklärt) die Frage, auf welchen Wegen Ihre Produkte oder Dienstleistungen zu Ihren Kunden gelangen. Im Marketing-Mix zählt die Distributionspolitik gemeinsam mit der Produkt-, Preis- und Kommunikationspolitik zu den vier zentralen Aspekten.
+{{< /faq >}}
 
-Was bedeutet Distributionspolitik? |||
-
-Sie fragen sich nun vielleicht: Was ist Distributionspolitik? Im Grunde beantwortet Ihre Distributionspolitik (einfach erklärt) die Frage, auf welchen Wegen Ihre Produkte oder Dienstleistungen zu Ihren Kunden gelangen. Im Marketing-Mix zählt die Distributionspolitik gemeinsam mit der Produkt-, Preis- und Kommunikationspolitik zu den vier zentralen Aspekten.
-
----
-
-Was versteht man unter Distributionslogistik? |||
-
-Für die physische Distribution ist die Logistik entscheidend. Zu den Aufgaben der Distributionspolitik gehört es demzufolge auch zu überlegen, wie Verpackung, Lagerung und Transport erfolgen müssen, damit Produkte schnell und unbeschadet an den Verkaufsorten und bei den Verbrauchern ankommen. Durch indirekten Vertrieb können Sie jedoch weite Teile der Distributionslogistik an Zwischenhändler auslagern.
-
+{{< faq "Was versteht man unter Distributionslogistik?" >}} Für die physische Distribution ist die Logistik entscheidend. Zu den Aufgaben der Distributionspolitik gehört es demzufolge auch zu überlegen, wie Verpackung, Lagerung und Transport erfolgen müssen, damit Produkte schnell und unbeschadet an den Verkaufsorten und bei den Verbrauchern ankommen. Durch indirekten Vertrieb können Sie jedoch weite Teile der Distributionslogistik an Zwischenhändler auslagern.
 {{< /faq >}}

@@ -3,7 +3,6 @@ title: 'Finanzplanung im Unternehmen – das Fundament für Ihren Erfolg'
 description: 'Eine solide Finanzplanung ist – insbesondere für Unternehmer in der Gründungsphase – notwendig, um die künftigen Einnahmen und Ausgaben abschätzen zu können. Sie bildet das Fundament für nachhaltiges Wachstum, wirtschaftliche Stabilität und gestalterische Spielräume. Doch was gehört zur Finanzplanung im Unternehmen und worauf kommt es besonders an? In diesem Artikel finden Sie die Antworten.'
 date: 2025-06-16
 url: '/de/finanzplanung'
-alias:
 seo:
     title: 'Finanzplanung im Unternehmen – das Fundament für Ihren Erfolg'
     description: 'Eine solide Finanzplanung bildet das Fundament für nachhaltiges Wachstum, wirtschaftliche Stabilität und gestalterische Spielräume eines Unternehmens.'
