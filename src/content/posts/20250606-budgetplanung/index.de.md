@@ -4,7 +4,7 @@ description: 'Die Budgetierung definiert, wie viel Geld Sie und Ihre Führungskr
 date: 2025-06-06
 url: '/de/budgetierung'
 aliases:
-    - '/de/bugetplanung-vorlage'
+    - '/de/budgetplanung-vorlage'
 seo:
     title: 'Budgetierung: Vorteile, Methoden, Tipps'
     description: 'Wie funktioniert die Budgetierung in einem Unternehmen und was gilt es zu beachten? Lesen Sie hier unsere Tipps inklusive Beispiel.'
