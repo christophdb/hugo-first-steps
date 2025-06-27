@@ -42,6 +42,8 @@ sections:
                 values: ['∞', '∞', '∞', '∞']
               - key: 'Zeilen'
                 values: ['10.000', '50.000', '∞', '∞']
+              - key: 'Maximale Zeilen in einer Base'
+                values: ['10.000', '50.000', '100.000', '200.000']
               - key: 'Speicherplatz'
                 values: ['2 GB', '50 GB', ' 100 GB', '∞']
               - key: 'Aufbewahrungszeit Snapshots'
@@ -50,6 +52,8 @@ sections:
                 values: ['∞', '∞', '∞', '∞']
               - key: 'Python Läufe (pro Monat)'
                 values: ['100', '5.000', '∞', '∞']
+              - key: 'API-Aufrufe (pro Monat und Benutzer)'
+                values: ['3.000 (fix)', '10.000', '50.000', '∞']
               - key: 'Maximale Teamgröße'
                 values: ['25', '∞', '∞', '∞']
               - type: section

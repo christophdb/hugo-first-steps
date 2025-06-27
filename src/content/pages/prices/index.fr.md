@@ -43,6 +43,8 @@ sections:
             values: ['∞', '∞', '∞', '∞']
           - key: 'Lignes'
             values: ['10 000', '50 000', '∞', '∞']
+          - key: 'Nombre maximum de lignes dans une base'
+            values: ['10.000', '50.000', '100.000', '200.000']
           - key: 'Espace de stockage'
             values: ['2 Go', '50 Go', '100 Go', '∞']
           - key: 'Durée de rétention des snapshots'
@@ -51,6 +53,8 @@ sections:
             values: ['∞', '∞', '∞', '∞']
           - key: 'Exécutions Python (par mois)'
             values: ['100', '5 000', '∞', '∞']
+          - key: 'Appels API (par mois et utilisateur)'
+            values: ['3.000 (fixer)', '10.000', '50.000', '∞']
           - key: 'Taille maximale de l’équipe'
             values: ['25', '∞', '∞', '∞']
           - type: section
