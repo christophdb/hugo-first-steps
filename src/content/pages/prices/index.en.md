@@ -50,6 +50,8 @@ sections:
             values: ['∞', '∞', '∞', '∞']
           - key: 'Python runs (per month)'
             values: ['100', '5,000', '∞', '∞']
+          - key: 'API calls (per month and user)'
+            values: ['3.000 (fix)', '10.000', '50.000', '∞']
           - key: 'Maximum team size'
             values: ['25', '∞', '∞', '∞']
           - type: section

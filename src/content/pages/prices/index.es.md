@@ -51,6 +51,8 @@ sections:
             values: ['∞', '∞', '∞', '∞']
           - key: 'Ejecuciones de Python (por mes)'
             values: ['100', '5.000', '∞', '∞']
+          - key: 'Llamadas API (por mes et usuario)'
+            values: ['3.000 (firme)', '10.000', '50.000', '∞']
           - key: 'Tamaño máximo del equipo'
             values: ['25', '∞', '∞', '∞']
           - type: section
