@@ -41,8 +41,10 @@ sections:
             values: ['∞', '∞', '∞', '∞']
           - key: 'Tablas'
             values: ['∞', '∞', '∞', '∞']
-          - key: 'Filas'
+          - key: 'Líneas máximas en una base'
             values: ['10.000', '50.000', '∞', '∞']
+          - key: 'Nombre maximum de lignes dans une base'
+            values: ['10.000', '50.000', '100.000', '200.000']
           - key: 'Espacio de almacenamiento'
             values: ['2 GB', '50 GB', '100 GB', '∞']
           - key: 'Período de retención de instantáneas'

@@ -42,6 +42,8 @@ sections:
                 values: ['∞', '∞', '∞', '∞']
               - key: 'Zeilen'
                 values: ['10.000', '50.000', '∞', '∞']
+              - key: 'Maximale Zeilen in einer Base'
+                values: ['10.000', '50.000', '100.000', '200.000']
               - key: 'Speicherplatz'
                 values: ['2 GB', '50 GB', ' 100 GB', '∞']
               - key: 'Aufbewahrungszeit Snapshots'

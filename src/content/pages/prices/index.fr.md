@@ -43,6 +43,8 @@ sections:
             values: ['∞', '∞', '∞', '∞']
           - key: 'Lignes'
             values: ['10 000', '50 000', '∞', '∞']
+          - key: 'Nombre maximum de lignes dans une base'
+            values: ['10.000', '50.000', '100.000', '200.000']
           - key: 'Espace de stockage'
             values: ['2 Go', '50 Go', '100 Go', '∞']
           - key: 'Durée de rétention des snapshots'
