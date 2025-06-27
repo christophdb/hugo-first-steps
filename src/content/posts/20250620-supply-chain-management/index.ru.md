@@ -8,7 +8,7 @@ category:
     - 'best-practice'
 tags:
     - 'Закупки и логистика'
-color: '#eeeeee'
+color: '#ed5b76'
 seo:
     title:
     description:
