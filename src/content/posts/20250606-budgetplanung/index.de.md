@@ -9,7 +9,7 @@ seo:
     title: 'Budgetierung: Vorteile, Methoden, Tipps'
     description: 'Wie funktioniert die Budgetierung in einem Unternehmen und was gilt es zu beachten? Lesen Sie hier unsere Tipps inklusive Beispiel.'
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Finanzen'
     - 'Projektmanagement'

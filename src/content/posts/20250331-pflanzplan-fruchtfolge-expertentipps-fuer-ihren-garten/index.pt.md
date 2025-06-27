@@ -6,7 +6,7 @@ seo:
     description: 'Este artigo mostra-lhe como criar um plano de plantação de legumes, canteiros elevados e canteiros de plantas perenes para uma boa colheita a longo prazo'
 date: 2025-03-31
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
 color: '#c4d69f'
 url: '/pt/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'

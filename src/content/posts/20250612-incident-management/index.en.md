@@ -7,7 +7,7 @@ seo:
     description: Everything you need to know about incident management to minimize downtime and ensure business continuity.
 
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'IT Processes'
 date: 2025-06-12

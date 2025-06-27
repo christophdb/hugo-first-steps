@@ -6,7 +6,7 @@ seo:
     description: 'Vous voulez utiliser Excel gratuitement ? Découvrez des alternatives Excel intelligentes dans notre article de blog. Un tableur efficace'
 date: 2025-03-06
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Outils & plugins'
 url: '/fr/excel-kostenlos'

@@ -8,7 +8,7 @@ seo:
     title: "Planification financière dans l'entreprise - la base de votre succès"
     description: "Une planification financière solide constitue le fondement d'une croissance durable, de la stabilité économique et de la marge de manœuvre créative d'une entreprise."
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Finances'
     - 'Créez votre entreprise'

@@ -7,7 +7,7 @@ seo:
     title: 'Presupuestación: ventajas, métodos, consejos'
     description: '¿Cómo funciona la presupuestación en una empresa y qué hay que tener en cuenta? Lea aquí nuestros consejos, incluido un ejemplo.'
 categories:
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Finanzas'
     - 'Gestión de proyectos'

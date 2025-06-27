@@ -5,7 +5,7 @@ date: 2021-10-07
 lastmod: '2025-06-20'
 url: '/supply-chain-management'
 category:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Procurement & Logistics'
 color: '#ed5b76'

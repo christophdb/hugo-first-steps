@@ -6,7 +6,7 @@ seo:
     description: 'Gostaria de utilizar o Excel gratuitamente? Descubra alternativas inteligentes ao Excel na nossa publicação do blogue. Folhas de cálculo eficientes'
 date: 2025-03-06
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 tags:
     - 'Ferramentas e plugins'
 url: '/pt/excel-sem-custos'

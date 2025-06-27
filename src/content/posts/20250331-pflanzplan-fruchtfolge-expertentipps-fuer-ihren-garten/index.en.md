@@ -6,7 +6,7 @@ seo:
     description: 'This article shows you how to create a planting plan for vegetables, raised beds and perennial beds for a good long-term harvest'
 date: 2025-03-31
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
 color: '#c4d69f'
 url: '/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'

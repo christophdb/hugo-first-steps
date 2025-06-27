@@ -6,7 +6,7 @@ seo:
     title: 'Gestão de incidentes - como reagir corretamente a falhas informáticas'
     description: 'Tudo o que precisa de saber sobre gestão de incidentes para minimizar o tempo de inatividade e garantir a continuidade do negócio.'
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 tags:
     - 'Processos informáticos'
 

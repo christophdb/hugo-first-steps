@@ -8,7 +8,7 @@ seo:
     title: 'Planificación financiera en la empresa: la base de su éxito'
     description: 'Una planificación financiera sólida constituye la base del crecimiento sostenible, la estabilidad económica y el margen de maniobra de una empresa.'
 categories:
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Finanzas'
     - 'Construya su empresa'

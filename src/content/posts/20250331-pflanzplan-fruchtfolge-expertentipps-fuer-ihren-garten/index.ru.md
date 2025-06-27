@@ -6,7 +6,7 @@ seo:
     description: 'В этой статье мы расскажем вам, как составить план посадки овощей, приподнятых грядок и многолетних клумб для получения хорошего урожая в течение длительного времени'
 date: 2025-03-31
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
 color: '#c4d69f'
 url: '/ru/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'

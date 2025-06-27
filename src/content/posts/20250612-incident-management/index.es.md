@@ -7,7 +7,7 @@ seo:
     description: Todo lo que necesita saber sobre la gestión de incidencias para minimizar el tiempo de inactividad y garantizar la continuidad del negocio.
 
 categories:
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Procesos Informáticos'
 

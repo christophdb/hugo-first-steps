@@ -7,7 +7,7 @@ seo:
     title: 'Budgeting: advantages, methods, tips'
     description: 'How does budgeting work in a company and what needs to be considered? Read our tips here, including an example.'
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Finance'
     - 'Project management'

@@ -6,7 +6,7 @@ seo:
     description: "Cet article montre comment établir un plan de plantation pour les légumes, les plates-bandes surélevées et les massifs d'arbustes pour une bonne récolte à long terme"
 date: 2025-03-31
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
 color: '#c4d69f'
 url: '/fr/plan-de-plante-expert-en-rotation-de-cultures-pour-votre-jardin'

@@ -6,7 +6,7 @@ seo:
     description: 'Apprenez les bases de la gestion de projet agile. Conseils pratiques et stratégies éprouvées pour une gestion de projet flexible'
 date: 2025-03-18
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Outils & plugins'
 color: '#1eb0e5'

@@ -8,7 +8,7 @@ seo:
     title: 'Financial planning in the company - the foundation for your success'
     description: 'Solid financial planning forms the foundation for sustainable growth, economic stability and a company s creative freedom.'
 categories:
-    - 'Best Practice'
+    - 'best-practice'
 tags:
     - 'Finances'
     - 'Build your Business'
