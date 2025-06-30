@@ -143,7 +143,7 @@ Graphic designers will only be interested in the articles that require graphics 
 
 Individual views for each employee
 
-Every employee knows exactly who has the task at hand and who has to work on it next. This helps you avoid waiting times and confusion. As soon as an author has written his draft, he changes the status of the article and passes it on to the next employee for quality control. If coordination between collaborators is necessary, this can easily be done via the [comment function](https://seatable.io/en/docs/handbuch/zusammenarbeit/kommentare/) within SeaTable.
+Every employee knows exactly who has the task at hand and who has to work on it next. This helps you avoid waiting times and confusion. As soon as an author has written his draft, he changes the status of the article and passes it on to the next employee for quality control. If coordination between collaborators is necessary, this can easily be done via the [comment function]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) within SeaTable.
 
 ![Team communication in SeaTable](seatable-comments.png)
 

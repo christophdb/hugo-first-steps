@@ -10,7 +10,7 @@ url: '/fr/aide/hinzufuegen-einer-spalte'
 
 Dans SeaTable, les tableaux sont composés de colonnes et de lignes. Dans une base, vous pouvez ajouter jusqu'à 500 colonnes à un tableau. Pour chaque colonne, vous avez la possibilité de choisir individuellement un **type de colonne** approprié en fonction du type de données.
 
-Vous trouverez [ici](https://seatable.io/fr/docs/spalten/uebersicht-alle-spaltentypen/) un aperçu détaillé de tous les types de colonnes actuellement disponibles dans SeaTable.
+Vous trouverez [ici]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) un aperçu détaillé de tous les types de colonnes actuellement disponibles dans SeaTable.
 
 ## Ajouter une colonne
 

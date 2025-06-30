@@ -27,7 +27,7 @@ Im Folgenden lernen Sie die Kollaborationsfunktionen von SeaTable kennen. Sie we
 
 ## Gruppenbases
 
-Auf eine Gruppenbase haben alle Mitglieder einer [Gruppe]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) Zugriff. Als Gruppeneigentümer verwalten Sie die Gruppe und deren Mitglieder. Über unterschiedliche Rollen weisen Sie den [Mitgliedern](https://seatable.io/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) ihre Zugriffsrechte zu – und entziehen sie ihnen auch genauso schnell wieder. Eine neue Gruppe erstellen Sie über die Schaltfläche **Neue Gruppe** unter Ihren Bases auf der Startseite.
+Auf eine Gruppenbase haben alle Mitglieder einer [Gruppe]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) Zugriff. Als Gruppeneigentümer verwalten Sie die Gruppe und deren Mitglieder. Über unterschiedliche Rollen weisen Sie den [Mitgliedern]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) ihre Zugriffsrechte zu – und entziehen sie ihnen auch genauso schnell wieder. Eine neue Gruppe erstellen Sie über die Schaltfläche **Neue Gruppe** unter Ihren Bases auf der Startseite.
 
 ## Historie
 
@@ -35,7 +35,7 @@ Damit Sie jederzeit nachvollziehen können, wer wann welche Änderungen an den D
 
 ## Gemeinsame Datensätze
 
-Datensätze, die verschiedene Gruppen und Benutzer in Ihrem Team benötigen, können Sie ihnen über [gemeinsame Datensätze]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) als Vorlage für neue Tabellen zur Verfügung stellen. Jede Tabelle, die Ihre Teammitglieder mit einem gemeinsamen Datensatz anlegen, können sie [synchronisieren](https://seatable.io/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). Dabei überschreibt SeaTable die Daten in der Tabelle mit denen des aktuellen gemeinsamen Datensatzes, sodass alle auf dem gleichen Stand sind.
+Datensätze, die verschiedene Gruppen und Benutzer in Ihrem Team benötigen, können Sie ihnen über [gemeinsame Datensätze]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) als Vorlage für neue Tabellen zur Verfügung stellen. Jede Tabelle, die Ihre Teammitglieder mit einem gemeinsamen Datensatz anlegen, können sie [synchronisieren]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}). Dabei überschreibt SeaTable die Daten in der Tabelle mit denen des aktuellen gemeinsamen Datensatzes, sodass alle auf dem gleichen Stand sind.
 
 ## Interne Freigaben
 

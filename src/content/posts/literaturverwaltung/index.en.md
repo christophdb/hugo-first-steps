@@ -165,7 +165,7 @@ Libraries are also a good place to research sources. Jacob Lund / Adobe Stock
 
 ### 4\. create an outline in the reference management program
 
-In order to be able to work in a structured way, you need a **clear organization of** your literature. You can divide your sources into categories or assign them to different projects such as theses, [content analyses](https://seatable.io/en/qualitative-inhaltsanalyse/) or research projects.
+In order to be able to work in a structured way, you need a **clear organization of** your literature. You can divide your sources into categories or assign them to different projects such as theses, [content analyses]({{< relref "posts/qualitative-inhaltsanalyse" >}}) or research projects.
 
 Zotero offers you the option of assigning markers to sources according to which you can make selections. In SeaTable, you can sort and group the sources according to your requirements, for example by author, topic, type of source or editing status. This allows you to quickly find what you are looking for, even in larger projects.
 

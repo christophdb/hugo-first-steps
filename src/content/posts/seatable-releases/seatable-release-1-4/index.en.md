@@ -13,11 +13,11 @@ seo:
 
 We are pleased to announce the release of SeaTable 1.4! We've packed a new column type, improved database features, realtime chat and many more improvements into this new release. Organising data and collaborating in a team has never been so easy and convenient! And best of all, every user benefits from the new features, including the free subscription.
 
-For a full list of changes, visit the [SeaTable Changelog](https://seatable.io/en/docs/changelog/version-1-4/). This release note summarizes the biggest and most exciting updates of SeaTable 1.4. So let’s get going!
+For a full list of changes, visit the [SeaTable Changelog]({{< relref "pages/changelog" >}}). This release note summarizes the biggest and most exciting updates of SeaTable 1.4. So let’s get going!
 
 ## Introducing column type #18
 
-SeaTable 1.4 adds one more column type: The URL column. It is similar to the text column, but its contents are interpreted as links to network resources: https://seatable.io, www.seafile.com, 192.168.178.1 and localhost:8000 are all meaningful entries.
+SeaTable 1.4 adds one more column type: The URL column. It is similar to the text column, but its contents are interpreted as links to network resources: https://seatable.com, www.seafile.com, 192.168.178.1 and localhost:8000 are all meaningful entries.
 
 When saved in a URL column, a network resource is just two clicks away: Click on a cell and a link-icon appears on the right in the cell. Make another click on this icon and the resource is called in a new browser tab. http(s) gets automatically added as a prefix. If you are asking yourself why one click does not do the trick, here is the reason: Two clicks prevent accidental visits of the links’ target when navigating in a table, which might happen often especially on mobile devices.
 
@@ -47,7 +47,7 @@ Good communication within the team is key for efficient online collaboration. Wi
 
 ![Real-time chat in comments](comment-chat.png)
 
-If you are not yet familiar with the comment function, select a row and press the space bar to call up the line details. In the upper right corner you will find the comment column. SeaTable's improved backend notifies users of new comments without delay. If the users are online, then the group chat can start. Otherwise, users are informed by [notification](https://seatable.io/en/docs/handbuch/zusammenarbeit/benachrichtigungen/). Share your ideas and impressions with colleagues when they are fresh.
+If you are not yet familiar with the comment function, select a row and press the space bar to call up the line details. In the upper right corner you will find the comment column. SeaTable's improved backend notifies users of new comments without delay. If the users are online, then the group chat can start. Otherwise, users are informed by [notification]({{< relref "help/startseite/benachrichtigungen" >}}). Share your ideas and impressions with colleagues when they are fresh.
 
 ## More automation with webhooks
 

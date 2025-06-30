@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Hoy, 6 de julio de 2021, hemos actualizado [SeaTable Cloud](https://cloud.seatable.io) a SeaTable 2.1 y hemos subido la nueva imagen Docker a Docker Hub. Lo más destacado de la versión son los nuevos permisos para las tablas y una nueva función llamada Procesamiento de Datos. Además, hemos mejorado los tipos de columna de selección simple y múltiple y la columna de casilla de verificación. En estas notas de la versión presentamos, como siempre, las principales novedades y remitimos al [registro de cambios de SeaTable](https://seatable.io/es/docs/changelog/version-2-1/) para ver la lista completa de cambios.
+Hoy, 6 de julio de 2021, hemos actualizado [SeaTable Cloud](https://cloud.seatable.io) a SeaTable 2.1 y hemos subido la nueva imagen Docker a Docker Hub. Lo más destacado de la versión son los nuevos permisos para las tablas y una nueva función llamada Procesamiento de Datos. Además, hemos mejorado los tipos de columna de selección simple y múltiple y la columna de casilla de verificación. En estas notas de la versión presentamos, como siempre, las principales novedades y remitimos al [registro de cambios de SeaTable]({{< relref "pages/changelog" >}}) para ver la lista completa de cambios.
 
 ## Autorizaciones de mesa
 
@@ -38,7 +38,7 @@ En futuras versiones se añadirán otras acciones de procesamiento de datos, com
 
 ![SeaTable 2.1: Permisos avanzados para columnas de selección simple y múltiple](Advanced-column-permissions.png)
 
-Los permisos de columna introducidos en [SeaTable 1.2](https://seatable.io/es/seatable-release-1-2/) permiten la asignación y el control de los derechos de edición individuales para cada columna. Con SeaTable 2.1, el menú de permisos de columna de los dos tipos de columna selección simple y selección múltiple se amplió con un segundo botón. Esto le permite controlar qué usuarios pueden crear y editar opciones en una columna de selección.
+Los permisos de columna introducidos en [SeaTable 1.2]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}) permiten la asignación y el control de los derechos de edición individuales para cada columna. Con SeaTable 2.1, el menú de permisos de columna de los dos tipos de columna selección simple y selección múltiple se amplió con un segundo botón. Esto le permite controlar qué usuarios pueden crear y editar opciones en una columna de selección.
 
 Básicamente, todos los usuarios con permisos de escritura pueden editar las opciones. Los propietarios y administradores de las bases pueden ahora restringir este permiso. El derecho de edición puede restringirse a _nadie_, a _los administradores_ o a _determinados usuarios_. En la configuración _Nadie_, ni siquiera los administradores y propietarios pueden crear y cambiar nuevas opciones (pero sí pueden cambiar el permiso).
 

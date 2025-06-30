@@ -20,7 +20,7 @@ Puede eliminar sus **propias bases** en SeaTable en cualquier momento. Las bases
 4. Haga clic en **Eliminar.**
 5. Confirme el proceso de nuevo con **Borrar.**
 
-Las bases borradas acaban en la **papelera de reciclaje**. A partir de ahí, primero puedes **restaurarlos**. [Aquí](https://seatable.io/es/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) encontrará información sobre cómo hacerlo.
+Las bases borradas acaban en la **papelera de reciclaje**. A partir de ahí, primero puedes **restaurarlos**. [Aquí]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) encontrará información sobre cómo hacerlo.
 
 {{< warning  headline="Atención"  text="Transcurridos **30 días**, las bases borradas se eliminan **automáticamente** del sistema y ya **no** pueden restaurarse." />}}
 

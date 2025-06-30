@@ -21,14 +21,14 @@ url: '/ru/pomoshch/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
 
 ## Переход на более обширный пакет подписки
 
-Чтобы снова иметь возможность полноценно работать со своими данными, вам необходимо [обновить](https://seatable.io/ru/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) подписку на [более полный пакет подписки](https://seatable.io/ru/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Чтобы снова иметь возможность полноценно работать со своими данными, вам необходимо [обновить]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) подписку на [более полный пакет подписки]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Удалить часть своих данных
 
 Если вы не хотите переходить на более обширный пакет подписки, у вас есть возможность **удалять** только части ваших данных, пока вы не **исчерпаете** лимиты текущей подписки. В этом вам помогут следующие справочные статьи:
 
 - [Удаление базы]({{< relref "help/startseite/bases/loeschen-einer-base" >}})
-- [Очистка корзины в командной администрации](https://seatable.io/ru/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/)
-- [Удаление таблицы из базы](https://seatable.io/ru/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/)
+- [Очистка корзины в командной администрации]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
+- [Удаление таблицы из базы]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
 - [Удалить строку]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Импорт и экспорт данных]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

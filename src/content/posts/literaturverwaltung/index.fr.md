@@ -164,7 +164,7 @@ Pour la recherche de sources, les bibliothèques sont également une bonne solut
 
 ### 4\. créer un plan dans le programme de gestion de la littérature
 
-Pour pouvoir travailler de manière structurée, il est nécessaire de **structurer** votre littérature de **manière claire**. Vous pouvez répartir vos sources en catégories ou les attribuer à différents projets tels que des travaux de fin d'études, [des analyses de contenu](https://seatable.io/fr/qualitative-inhaltsanalyse/) ou des projets de recherche.
+Pour pouvoir travailler de manière structurée, il est nécessaire de **structurer** votre littérature de **manière claire**. Vous pouvez répartir vos sources en catégories ou les attribuer à différents projets tels que des travaux de fin d'études, [des analyses de contenu]({{< relref "posts/qualitative-inhaltsanalyse" >}}) ou des projets de recherche.
 
 Zotero vous offre la possibilité d'attribuer des marqueurs aux sources, en fonction desquels vous pouvez effectuer une sélection. Dans SeaTable, vous pouvez trier et regrouper les sources selon vos souhaits, par exemple par auteur, par thème, par type de source ou par état d'avancement. Vous trouverez ainsi rapidement ce que vous cherchez, même dans les projets de grande envergure.
 

@@ -27,13 +27,13 @@ O artigo seguinte dá-lhe uma visão geral de quando a opção de recuperação 
 
 ## 1\. recuperação de bases apagadas
 
-Se tiver eliminado uma base inteira, pode restaurá-la através de um contentor de reciclagem na página inicial da SeaTable. Pode descobrir como isto funciona no artigo [Restaurando uma base eliminada](https://seatable.io/pt/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Se tiver eliminado uma base inteira, pode restaurá-la através de um contentor de reciclagem na página inicial da SeaTable. Pode descobrir como isto funciona no artigo [Restaurando uma base eliminada]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. recuperação de linhas, colunas ou tabelas eliminadas
 
 A recuperação de linhas, colunas ou tabelas eliminadas individualmente é provavelmente o pedido de recuperação mais frequente. Felizmente, isto pode ser feito muito rapidamente através do caixote da reciclagem de uma base.
 
-Pode ler mais sobre isto no artigo [Retrieving Tables, Rows and Columns from the Recycle Bin](https://seatable.io/pt/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/).
+Pode ler mais sobre isto no artigo [Retrieving Tables, Rows and Columns from the Recycle Bin]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}).
 
 Pode aceder à Lixeira Base clicando no ícone das versões no canto superior direito. Neste menu suspenso encontrará também outras opções de restauração, que são explicadas abaixo.
 
@@ -43,7 +43,7 @@ Pode aceder à Lixeira Base clicando no ícone das versões no canto superior di
 
 Provavelmente conhece a combinação chave {{< key "CTRL" >}} + {{< key "Z" >}}para desfazer a última acção. O SeaTable também oferece exactamente esta função. Além disso, pode ser executado com um clique do rato no menu pendente mostrado acima.
 
-Os detalhes podem ser encontrados no artigo de ajuda correspondente [Acções de Desfazer](https://seatable.io/pt/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
+Os detalhes podem ser encontrados no artigo de ajuda correspondente [Acções de Desfazer]({{< relref "help/base-editor/historie-und-versionen/aktionen-rueckgaengig-machen" >}}).
 
 ## 4\. Desfazer alterações através dos registos
 
@@ -61,6 +61,6 @@ Para mais informações, ver os artigos [Salvar a base actual como um instantân
 
 ## Importação de uma Base Guardada como ficheiro DTABLE
 
-Pode exportar uma base como um ficheiro DTABLE em qualquer altura e assim guardar uma cópia de segurança abrangente no seu dispositivo. Leia o artigo [Salvando uma Base como um Arquivo DTABLE](https://seatable.io/pt/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) para saber como fazer isto e o que deve ter em mente.
+Pode exportar uma base como um ficheiro DTABLE em qualquer altura e assim guardar uma cópia de segurança abrangente no seu dispositivo. Leia o artigo [Salvando uma Base como um Arquivo DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) para saber como fazer isto e o que deve ter em mente.
 
 Como importar tal ficheiro de volta para o SeaTable é explicado no artigo [Criar uma Base a partir de um ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

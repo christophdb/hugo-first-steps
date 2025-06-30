@@ -45,7 +45,7 @@ Uma vez que são considerados tanto os factores ambientais como os factores inte
 
 ### Para realizar uma análise SWOT
 
-A melhor maneira de o fazer é [planear](https://seatable.io/pt/workshop-planen/) um [workshop](https://seatable.io/pt/workshop-planen/) em que as suas equipas façam um brainstorming em conjunto sobre as quatro categorias. **Deve reunir** todas as **ideias numa matriz**. Um mapa mental num quadro branco ou um modelo de análise SWOT em Excel ou Word que explique a análise SWOT de forma simples pode ajudar no início.
+A melhor maneira de o fazer é [planear]({{< relref "posts/workshop-planen" >}}) um [workshop]({{< relref "posts/workshop-planen" >}}) em que as suas equipas façam um brainstorming em conjunto sobre as quatro categorias. **Deve reunir** todas as **ideias numa matriz**. Um mapa mental num quadro branco ou um modelo de análise SWOT em Excel ou Word que explique a análise SWOT de forma simples pode ajudar no início.
 
 Mas o que pertence às quatro categorias?
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/erstellen-einer-base-aus-einer-dtable-datei'
 ---
 
-Pode criar novas bases em SeaTable não só vazias ou a partir de um modelo, mas também a partir de um ficheiro DTABLE. DTABLE é o [formato de ficheiro](https://seatable.io/pt/docs/expertenwissen/dtable-dateiformat/) interno utilizado para exportar e guardar bases do SeaTable. Aqui pode aprender como criar uma base com um ficheiro DTABLE:
+Pode criar novas bases em SeaTable não só vazias ou a partir de um modelo, mas também a partir de um ficheiro DTABLE. DTABLE é o [formato de ficheiro]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) interno utilizado para exportar e guardar bases do SeaTable. Aqui pode aprender como criar uma base com um ficheiro DTABLE:
 
 ## Criação de uma Base a partir de um ficheiro DTABLE
 

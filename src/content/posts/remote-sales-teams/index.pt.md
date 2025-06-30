@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-A maioria das empresas toma medidas para permitir o trabalho a partir de casa e organiza seminários em linha ou outros eventos para os seus empregados, para além das opções de escritório em casa. Mas: começa-se a sentir a falta até do colega mais chato e a conversa na máquina de café também desaparece. Com uma equipa que trabalha quase exclusivamente à distância, é por vezes difícil manter-se atualizado e, consequentemente, [a produtividade](https://seatable.io/pt/homeoffice-tipps/) é muitas vezes [prejudicada](https://seatable.io/pt/homeoffice-tipps/). Felizmente, existe um método que o pode ajudar a recuperar a sua produtividade à distância. Com stand-ups diários, pode melhorar a produtividade da sua equipa num instante.
+A maioria das empresas toma medidas para permitir o trabalho a partir de casa e organiza seminários em linha ou outros eventos para os seus empregados, para além das opções de escritório em casa. Mas: começa-se a sentir a falta até do colega mais chato e a conversa na máquina de café também desaparece. Com uma equipa que trabalha quase exclusivamente à distância, é por vezes difícil manter-se atualizado e, consequentemente, [a produtividade]({{< relref "posts/homeoffice-tipps" >}}) é muitas vezes [prejudicada]({{< relref "posts/homeoffice-tipps" >}}). Felizmente, existe um método que o pode ajudar a recuperar a sua produtividade à distância. Com stand-ups diários, pode melhorar a produtividade da sua equipa num instante.
 
 ![A produtividade sofre com a incapacidade de manter a comunicação informal](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 
@@ -106,7 +106,7 @@ Pode também descobrir que os stand-ups são especialmente bons na fase de desen
 
 ### Stand-ups de documentos
 
-Especialmente em reuniões diárias, pode acontecer que um ou outro colega esteja ausente devido a outro compromisso. Deixá-los saber como comunicar a sua ausência e manter informações importantes num único local. Desta forma, o participante desaparecido pode procurar depois se algo de relevante para ele aconteceu. Para o planeamento e notas das suas reuniões à distância, já fornecemos [aqui]({{< relref "templates/projects/team-meetings" >}}) um modelo e também explicamos em pormenor [neste post](https://seatable.io/pt/team-meetings-remote-organisieren/) como pode criar um e adaptá-lo às suas necessidades.
+Especialmente em reuniões diárias, pode acontecer que um ou outro colega esteja ausente devido a outro compromisso. Deixá-los saber como comunicar a sua ausência e manter informações importantes num único local. Desta forma, o participante desaparecido pode procurar depois se algo de relevante para ele aconteceu. Para o planeamento e notas das suas reuniões à distância, já fornecemos [aqui]({{< relref "templates/projects/team-meetings" >}}) um modelo e também explicamos em pormenor [neste post]({{< relref "templates/projects/team-meetings" >}}) como pode criar um e adaptá-lo às suas necessidades.
 
 Organizar uma equipa inteira à distância, mantendo ao mesmo tempo uma alta produtividade, é um desafio. Apesar de todas as possibilidades tecnológicas à nossa disposição, ainda pode ser difícil criar um ambiente de colaboração. Os stand-ups diários são uma óptima forma de se actualizarem uns aos outros e de se sentirem parte de um quadro mais amplo. Os problemas são identificados precocemente e o sentimento de pertença é aumentado.
 

@@ -8,15 +8,15 @@ author: 'kgr'
 url: '/help/anleitung-zum-organigramm-plugin'
 ---
 
-You can use the organization chart plugin to display **hierarchies** between the data records in a table. This is useful, for example, to visualize the positions in a company or [superordinate and subordinate tasks in a project](https://seatable.io/en/projektstrukturplan-vorlage/).
+You can use the organization chart plugin to display **hierarchies** between the data records in a table. This is useful, for example, to visualize the positions in a company or [superordinate and subordinate tasks in a project]({{< relref "templates/projects/work-breakdown-structure" >}}).
 
-You can find out how to activate the plugin in a base [here](https://seatable.io/en/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+You can find out how to activate the plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Organizational chart plugin](images/Organigramm-Plugin.png)
 
 ## Requirements and functionality of the organization chart plugin
 
-To define which data records are dependent on each other, you need a [link that refers to one and the same table](https://seatable.io/en/docs/verknuepfungen/verknuepfungen-innerhalb-einer-tabelle/). The entry that you link in this column to another row in the same table is displayed as a **superordinate data record**.
+To define which data records are dependent on each other, you need a [link that refers to one and the same table]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}). The entry that you link in this column to another row in the same table is displayed as a **superordinate data record**.
 
 ![Link column for an organization chart](images/Verknuepfungsspalte-fuer-ein-Organigramm.png)
 

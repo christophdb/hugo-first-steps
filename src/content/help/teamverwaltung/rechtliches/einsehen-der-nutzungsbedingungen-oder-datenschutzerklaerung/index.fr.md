@@ -18,6 +18,6 @@ En tant qu'**administrateur d'équipe**, vous pouvez consulter plusieurs **docum
 
 ## Consulter publiquement les conditions d'utilisation et la déclaration de confidentialité
 
-Les conditions d'utilisation et la déclaration de confidentialité sont également accessibles **au public** sur notre site web SeaTable.io. Faites défiler la page jusqu'au bas du site et cliquez sur [Protection des données](https://seatable.io/fr/datenschutz/) ou [Conditions d'utilisation](https://seatable.io/fr/nutzungsbedingungen/) à droite des mentions légales.
+Les conditions d'utilisation et la déclaration de confidentialité sont également accessibles **au public** sur notre site web SeaTable.io. Faites défiler la page jusqu'au bas du site et cliquez sur [Protection des données]({{< relref "pages/legal/data-privacy" >}}) ou [Conditions d'utilisation]({{< relref "pages/legal/terms-of-service" >}}) à droite des mentions légales.
 
 ![Protection des données et conditions d'utilisation dans le pied de page](images/Datenschutz-und-Nutzungsbedingungen-im-Footer.png)

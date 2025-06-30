@@ -47,7 +47,7 @@ Uma solução para respeitar os limites neste caso é externalizar os seus fiche
 
 ## Aceder a ficheiros no Seafile
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base.
+Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base.
 
 ![Biblioteca Seafile integrada na gestão de ficheiros da base](images/library-in-file-management.png)
 
@@ -55,4 +55,4 @@ Esta integração permite-lhe utilizar os ficheiros armazenados no Seafile diret
 
 ## Possibilidades de integração
 
-Em princípio, é possível ligar servidores Seafile auto-hospedados e hospedados ao SeaTable. Não [hesite em contactar a nossa equipa de vendas](https://seatable.io/pt/kontakt/) se quiser auto-hospedar um servidor Seafile. Para os clientes SeaTable Dedicated, oferecemos o co-hosting do Seafile.
+Em princípio, é possível ligar servidores Seafile auto-hospedados e hospedados ao SeaTable. Não [hesite em contactar a nossa equipa de vendas]({{< relref "pages/contact" >}}) se quiser auto-hospedar um servidor Seafile. Para os clientes SeaTable Dedicated, oferecemos o co-hosting do Seafile.

@@ -18,4 +18,4 @@ Gostaria de cancelar a sua subscrição SeaTable? Para o fazer, utilizar o separ
 
 ## Eliminar completamente a equipa
 
-Se quiser não só cancelar a sua subscrição actual, mas também apagar toda a sua equipa, leia o artigo de ajuda [Apagar toda a equipa](https://seatable.io/pt/docs/teamverwaltung/das-komplette-team-loeschen/).
+Se quiser não só cancelar a sua subscrição actual, mas também apagar toda a sua equipa, leia o artigo de ajuda [Apagar toda a equipa]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).

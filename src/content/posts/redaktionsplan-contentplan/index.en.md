@@ -106,7 +106,7 @@ As a minimum, your content plan should contain **columns for a working title or 
 
 ### 5\. define general guidelines for your content
 
-Once you have planned the content, you should develop and document content guidelines with your team in a [workshop](https://seatable.io/en/workshop-planen/). In this way, you can ensure that the content achieves consistent quality even over a longer period of time with several participants.
+Once you have planned the content, you should develop and document content guidelines with your team in a [workshop]({{< relref "posts/workshop-planen" >}}). In this way, you can ensure that the content achieves consistent quality even over a longer period of time with several participants.
 
 These include, for example, **how to address readers, the tonality of texts, the use of emojis and hashtags, the resolution and size of images, links, formatting and more**. The guidelines round off the editorial plan and make it ready for use. If you are working with freelancers or an agency, guidelines help you to create content exactly as you want it.
 
@@ -116,7 +116,7 @@ With SeaTable's free [content plan template]({{< relref "templates/marketing/edi
 
 ### 1\. meaningful structuring with categories
 
-You can create any number of categories with the single selection columns. The advantage of this is that you can later **group, filter or carry out statistical evaluations**. For example, you can display all unpublished blog articles or just your [social media content plan](https://seatable.io/en/social-media-plan-vorlage/).
+You can create any number of categories with the single selection columns. The advantage of this is that you can later **group, filter or carry out statistical evaluations**. For example, you can display all unpublished blog articles or just your [social media content plan]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ### 2\. save images and documents in the content plan
 
@@ -128,7 +128,7 @@ In order to keep track of time, you can **switch from the table to the calendar 
 
 ### 4\. easy communication in the editorial plan
 
-The communication for planning contributions sometimes extends across various e-mails, internal chats or documents. This can quickly become confusing. With SeaTable, all messages are bundled in one place: **Communicate your feedback directly in the editorial plan**. This works very efficiently via the [comment function](https://seatable.io/en/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) in the individual rows. You can **track all changes** in the [log](https://seatable.io/en/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) - so it is always clear who has made which changes in the editorial plan.
+The communication for planning contributions sometimes extends across various e-mails, internal chats or documents. This can quickly become confusing. With SeaTable, all messages are bundled in one place: **Communicate your feedback directly in the editorial plan**. This works very efficiently via the [comment function]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) in the individual rows. You can **track all changes** in the [log]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) - so it is always clear who has made which changes in the editorial plan.
 
 ![Communication made easy - you can make comments directly in the content plan](Team-communication.jpg)
 
@@ -136,7 +136,7 @@ Simple and direct communication in the editorial plan
 
 ### 5 Create clarity with statistics
 
-Would you like to experiment with different data and analyze your content according to your wishes? Then **create meaningful [statistics](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/) with SeaTable**. For example, analyze in which months you have published a particularly large number of posts, which employee has written the most posts or on which channel the content was most successful. This provides many valuable insights into where things are going well - and where there may still be room for improvement.
+Would you like to experiment with different data and analyze your content according to your wishes? Then **create meaningful [statistics]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) with SeaTable**. For example, analyze in which months you have published a particularly large number of posts, which employee has written the most posts or on which channel the content was most successful. This provides many valuable insights into where things are going well - and where there may still be room for improvement.
 
 ![Statistics provide valuable insights into how well the content performs](Statistics.jpg)
 
@@ -150,6 +150,6 @@ All in all, you should make sure that ...
 
 ## Conclusion on the content plan
 
-When you create a [marketing plan](https://seatable.io/en/marketingplan-vorlage/), you need a clear content plan to keep track of the planned content, deadlines, tasks and their status. This allows you to successfully plan and implement contributions as a team.
+When you create a [marketing plan]({{< relref "templates/marketing/content-calendar" >}}), you need a clear content plan to keep track of the planned content, deadlines, tasks and their status. This allows you to successfully plan and implement contributions as a team.
 
 If we have piqued your interest in SeaTable, [register for free]({{< relref "pages/registration" >}}) in our cloud and start working directly with the content plan template.

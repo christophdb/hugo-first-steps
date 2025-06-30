@@ -25,13 +25,13 @@ Dans l'aperçu suivant, vous trouverez également les liens vers les différents
 
 Publiez d'abord n'importe quelle vue de tableau, avec ses conditions de filtrage et de tri spécifiques, en tant qu'ensemble de données commun.
 
-[En savoir plus sur la création d'un ensemble de données communes.](https://seatable.io/fr/docs/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes/)
+[En savoir plus sur la création d'un ensemble de données communes.]({{< relref "help/startseite/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes" >}})
 
 ## Gestion d'un ensemble de données communes
 
 Vous souhaitez modifier le nom d'un enregistrement commun ou savoir quelles bases sont liées à l'enregistrement ?
 
-[En savoir plus sur la gestion d'un ensemble de données communes.](https://seatable.io/fr/docs/gemeinsame-datensaetze/verwaltung-eines-gemeinsamen-datensatzes/)
+[En savoir plus sur la gestion d'un ensemble de données communes.]({{< relref "help/startseite/gemeinsame-datensaetze/verwaltung-eines-gemeinsamen-datensatzes" >}})
 
 ## Partage d'un ensemble de données commun avec un autre groupe
 
@@ -43,32 +43,32 @@ Pour pouvoir utiliser un ensemble de données commun dans d'autres groupes, vous
 
 Vous pouvez synchroniser chaque table que vous avez créée avec un enregistrement commun. SeaTable compare alors les données de la table avec celles de l'enregistrement partagé. Celles-ci sont écrasées si vous ou les membres de votre groupe avez apporté des modifications à l'enregistrement partagé depuis la dernière synchronisation.
 
-[En savoir plus sur la synchronisation d'un ensemble de données commun.](https://seatable.io/fr/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/)
+[En savoir plus sur la synchronisation d'un ensemble de données commun.]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}})
 
 ## Créer une nouvelle table avec un enregistrement commun
 
 Si vous ou les membres de votre équipe souhaitez utiliser un ensemble de données commun, vous pouvez l'importer dans une base. Pour ce faire, créez une nouvelle table avec l'enregistrement partagé.
 
-[En savoir plus sur la création d'une nouvelle table avec un enregistrement commun.](https://seatable.io/fr/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/)
+[En savoir plus sur la création d'une nouvelle table avec un enregistrement commun.]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}})
 
 ## Ajouter des colonnes à une table créée avec un enregistrement commun
 
 Après avoir importé un ensemble de données commun en tant que nouvelle table dans une base souhaitée, vous pouvez ajouter vos propres colonnes à la table comme vous le souhaitez.
 
-[Apprenez à ajouter des colonnes à un tableau créé avec un enregistrement commun.](https://seatable.io/fr/docs/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern/)
+[Apprenez à ajouter des colonnes à un tableau créé avec un enregistrement commun.]({{< relref "help/startseite/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern" >}})
 
 ## Réimportation d'ensembles de données communs
 
 Si vous copiez ou restaurez à partir de snapshots des bases contenant des enregistrements partagés, vous perdez le lien avec les enregistrements partagés. Les données sont alors disponibles dans un tableau normal, mais ne peuvent plus être synchronisées.
 
-[Vous apprendrez ici comment réimporter des enregistrements communs dans des tables existantes.](https://seatable.io/fr/docs/gemeinsame-datensaetze/reimport-von-gemeinsamen-datensaetzen/)
+[Vous apprendrez ici comment réimporter des enregistrements communs dans des tables existantes.]({{< relref "help/startseite/gemeinsame-datensaetze/reimport-von-gemeinsamen-datensaetzen" >}})
 
 ## Suppression d'un enregistrement commun
 
 Les enregistrements partagés peuvent bien entendu être supprimés. Notez toutefois l'impact de la suppression sur les données de l'ensemble de données commun et sur les tables que vous et les membres de votre groupe avez créées avec l'ensemble de données commun.
 
-[En savoir plus sur la suppression d'un enregistrement partagé.](https://seatable.io/fr/docs/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes/)
+[En savoir plus sur la suppression d'un enregistrement partagé.]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}})
 
 ### Autres articles utiles dans la rubrique Jeux de données partagées
 
-- [Pourquoi les enregistrements communs ne fonctionnent-ils que dans les groupes ?](https://seatable.io/fr/docs/gemeinsame-datensaetze/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen/)
+- [Pourquoi les enregistrements communs ne fonctionnent-ils que dans les groupes ?]({{< relref "help/startseite/gemeinsame-datensaetze/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen" >}})

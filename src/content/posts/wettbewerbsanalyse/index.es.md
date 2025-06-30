@@ -130,7 +130,7 @@ Reúna información exhaustiva sobre sus competidores. Utilice fuentes públicas
 
 Tómese su tiempo para crear perfiles detallados de sus principales competidores.
 
-Compare y evalúe los datos recopilados. Para ello, utilice los **métodos de análisis de la competencia** mencionados anteriormente o elija otros métodos de análisis de eficacia probada, como el [análisis DAFO](https://seatable.io/es/swot-analyse-template/). Puede utilizarlo para identificar los puntos fuertes y débiles de sus competidores, así como las oportunidades y los riesgos del mercado. Además del **análisis VRIO**, el **análisis comparativo** también puede ayudarle a evaluar el rendimiento de su empresa en comparación con sus competidores.
+Compare y evalúe los datos recopilados. Para ello, utilice los **métodos de análisis de la competencia** mencionados anteriormente o elija otros métodos de análisis de eficacia probada, como el [análisis DAFO]({{< relref "templates/operations/swot-analysis" >}}). Puede utilizarlo para identificar los puntos fuertes y débiles de sus competidores, así como las oportunidades y los riesgos del mercado. Además del **análisis VRIO**, el **análisis comparativo** también puede ayudarle a evaluar el rendimiento de su empresa en comparación con sus competidores.
 
 ### 5\. derivar estrategias
 

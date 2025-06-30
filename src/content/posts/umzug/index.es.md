@@ -19,7 +19,7 @@ Empiece a planificar su mudanza con una sesión de brainstorming. ¿Qué tareas 
 
 Una lista de control puede ayudar a controlar todas las tareas.
 
-También puede encontrar una lista de comprobación para su mudanza en nuestra [plantilla](https://seatable.io/es/umzug/#Online-Planer_fuer_Ihren_Umzug).
+También puede encontrar una lista de comprobación para su mudanza en nuestra [plantilla]({{< relref "posts/umzug" >}}).
 
 ## Antes de la mudanza
 
@@ -94,7 +94,7 @@ El grado de apoyo que quieras recibir de una empresa depende de ti. Normalmente,
 
 ### Para los que quieren ahorrar: organice usted mismo la mudanza
 
-Si quiere ahorrar costes, **mudarse** por su cuenta es exactamente lo que debe hacer. Sin embargo, el esfuerzo organizativo también será mayor. Porque todo lo que incluye la empresa de mudanzas recae ahora en sus propias manos. Pero con una buena planificación, nada puede interponerse en este plan. Un [plan de mudanzas](https://seatable.io/es/umzug/#Online-Planer_fuer_Ihren_Umzug) le ayudará con todos los pasos del camino.
+Si quiere ahorrar costes, **mudarse** por su cuenta es exactamente lo que debe hacer. Sin embargo, el esfuerzo organizativo también será mayor. Porque todo lo que incluye la empresa de mudanzas recae ahora en sus propias manos. Pero con una buena planificación, nada puede interponerse en este plan. Un [plan de mudanzas]({{< relref "posts/umzug" >}}) le ayudará con todos los pasos del camino.
 
 ![Costes de la mudanza.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 

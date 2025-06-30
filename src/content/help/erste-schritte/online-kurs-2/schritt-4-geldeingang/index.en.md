@@ -36,8 +36,8 @@ With your newly acquired knowledge, this should not be a problem. You can use th
 
 ## Help article with further information
 
-- [Setting up an e-mail account in a base](https://seatable.io/en/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/)
-- [Set up Gmail to send e-mails via SMTP](https://seatable.io/en/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
+- [Setting up an e-mail account in a base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
+- [Set up Gmail to send e-mails via SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 - [The button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
 - [Sending an e-mail with a button]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [E-mail via automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

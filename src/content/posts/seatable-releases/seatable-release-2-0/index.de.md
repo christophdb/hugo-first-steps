@@ -14,7 +14,7 @@ Am 1. Juli 2020 hat SeaTable in der Version 1.0 das Licht der Welt erblickt. Meh
 
 Optisch unterscheidet sich SeaTable 2.0 kaum von seinem Vorgänger. In Sachen Funktionsumfang, Nutzererfahrung, Stabilität und Integrationsoptionen hat SeaTable seit Juli vergangenen Jahres einen gewaltigen Sprung gemacht. Sie fanden schon die Version 1.x interessant? Dann wird Sie die Version 2.0 begeistern!
 
-SeaTable 2.0 beinhaltet eine enorme Anzahl an Verbesserungen und Neuerungen – die vollständige Dokumentation aller Änderungen finden Sie im [SeaTable Changelog](https://seatable.io/docs/changelog/version-2-0/). Die Highlights der Version 2.0 sind drei neue Spaltentypen, mehrere neuentwickelte Customizing Optionen für bestehende Spaltentypen, zwei völlig neue Plugins sowie viele Detailverbesserungen an SeaTables bestehenden Plugins. Wir haben auch nicht an Verbesserungen in SeaTables Maschinenraum gespart: SeaTable 2.0 verfügt nun über eine neue Ausführungsumgebung für Python Skripte und System Administratoren werden die Überwachungsmöglichkeiten schätzen, die die neue Übersichtsseite für externe Links bietet.
+SeaTable 2.0 beinhaltet eine enorme Anzahl an Verbesserungen und Neuerungen – die vollständige Dokumentation aller Änderungen finden Sie im [SeaTable Changelog]({{< relref "pages/changelog" >}}). Die Highlights der Version 2.0 sind drei neue Spaltentypen, mehrere neuentwickelte Customizing Optionen für bestehende Spaltentypen, zwei völlig neue Plugins sowie viele Detailverbesserungen an SeaTables bestehenden Plugins. Wir haben auch nicht an Verbesserungen in SeaTables Maschinenraum gespart: SeaTable 2.0 verfügt nun über eine neue Ausführungsumgebung für Python Skripte und System Administratoren werden die Überwachungsmöglichkeiten schätzen, die die neue Übersichtsseite für externe Links bietet.
 
 Und das ist noch nicht alles! Dank eines großartigen Beitrags aus der Community können wir nun Russisch als fünfte Benutzersprache neben Englisch, Deutsch, Französisch und Chinesisch anbieten.
 
@@ -98,7 +98,7 @@ Um mit der Entwicklung im Bereich Spaltentypen Schritt zu halten, kann das Karte
 
 ## Manuelle Snapshots
 
-[Snapshots](https://seatable.io/docs/handbuch/seatable-nutzen/versionierung-snapshots/) sind eine Momentaufnahme einer Base. Sie stellen ihren Wert unter Beweis, wenn eine Base nach umfangreichen Änderungen auf einen früheren Zustand zurückgesetzt werden soll.
+[Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) sind eine Momentaufnahme einer Base. Sie stellen ihren Wert unter Beweis, wenn eine Base nach umfangreichen Änderungen auf einen früheren Zustand zurückgesetzt werden soll.
 
 In der Vergangenheit kannte SeaTable nur automatische Snapshots. Ein solcher wurde täglich vom SeaTable Server angelegt, wenn innerhalb der letzten 24h Änderungen in der Base ausgeführt wurden. In Version 2.0 hat SeaTable dazu gelernt und kennt nun auch manuelle Snapshots: Ein Klick und ein Abbild der Base ist gemacht. Als Versicherung gegen ungewollten Datenverlust ist dieser Klick höchst empfehlenswert, wann immer an der Struktur einer Base gearbeitet wird (insbesondere bei Löschungen von Spalten und Tabellen).
 

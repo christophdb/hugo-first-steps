@@ -164,7 +164,7 @@ As bibliotecas também são um bom sítio para pesquisar fontes. Jacob Lund / Ad
 
 ### 4\. criar um esquema no programa de gestão de referências
 
-Para poder trabalhar de forma estruturada, é necessário **organizar claramente** a sua literatura. Pode dividir as suas fontes em categorias ou atribuí-las a diferentes projectos, como teses, [análises de conteúdo](https://seatable.io/pt/qualitative-inhaltsanalyse/) ou projectos de investigação.
+Para poder trabalhar de forma estruturada, é necessário **organizar claramente** a sua literatura. Pode dividir as suas fontes em categorias ou atribuí-las a diferentes projectos, como teses, [análises de conteúdo]({{< relref "posts/qualitative-inhaltsanalyse" >}}) ou projectos de investigação.
 
 O Zotero oferece-lhe a opção de etiquetar as fontes para que as possa selecionar. No SeaTable, pode ordenar e agrupar as fontes como desejar, por exemplo, por autor, tópico, tipo de fonte ou estado de edição. Isto permite-lhe encontrar rapidamente o que procura, mesmo em projectos maiores.
 

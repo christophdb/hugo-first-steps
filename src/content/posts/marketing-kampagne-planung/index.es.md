@@ -48,7 +48,7 @@ Prácticamente no existen ideas en las que no se haya pensado antes. En otras pa
 
 ### 4\. Defina responsabilidades y plazos claros
 
-Una campaña de marketing y su planificación funcionan mejor cuando todo el mundo sabe lo que tiene que hacer y cuándo. Una vez establecidos los [objetivos del proyecto]({{< relref "templates/projects/project-plan" >}}), el grupo destinatario y el análisis del mercado y la competencia, es hora de formar un equipo, [asignar responsabilidades y tareas](https://seatable.io/projektstrukturplan-vorlage/), fijar plazos e hitos y, lo que es más importante, asignar el [presupuesto]({{< relref "templates/finance/budget-book" >}}).
+Una campaña de marketing y su planificación funcionan mejor cuando todo el mundo sabe lo que tiene que hacer y cuándo. Una vez establecidos los [objetivos del proyecto]({{< relref "templates/projects/project-plan" >}}), el grupo destinatario y el análisis del mercado y la competencia, es hora de formar un equipo, [asignar responsabilidades y tareas]({{< relref "templates/projects/work-breakdown-structure" >}}), fijar plazos e hitos y, lo que es más importante, asignar el [presupuesto]({{< relref "templates/finance/budget-book" >}}).
 
 ![El equipo de marketing debate el enfoque de la planificación de la campaña](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
@@ -56,7 +56,7 @@ Planificación de una campaña de marketing © REDPIXEL / adobe stock
 
 ### 5\. Aunar medidas y contenidos al planificar la campaña de marketing
 
-Una vez abordados todos los aspectos organizativos, es hora de planificar el contenido de la campaña de marketing. Este paso implica decidir junto con el equipo [qué contenido debe reproducirse en qué formato y en qué canales](https://seatable.io/social-media-plan-vorlage/), siempre teniendo en cuenta el grupo objetivo, la competencia y el mercado. Los aspectos legales también son importantes en este contexto. Para cada medida de la campaña, hay que tener en cuenta qué derechos de autor se aplican a las fotos utilizadas, cuándo hay que respetar las directrices publicitarias y qué especificaciones hacen las distintas plataformas utilizadas.
+Una vez abordados todos los aspectos organizativos, es hora de planificar el contenido de la campaña de marketing. Este paso implica decidir junto con el equipo [qué contenido debe reproducirse en qué formato y en qué canales]({{< relref "templates/marketing/social-media-plan" >}}), siempre teniendo en cuenta el grupo objetivo, la competencia y el mercado. Los aspectos legales también son importantes en este contexto. Para cada medida de la campaña, hay que tener en cuenta qué derechos de autor se aplican a las fotos utilizadas, cuándo hay que respetar las directrices publicitarias y qué especificaciones hacen las distintas plataformas utilizadas.
 
 ### 6\. Ejecución, seguimiento y control del éxito
 

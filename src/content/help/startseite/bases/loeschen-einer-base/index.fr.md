@@ -20,7 +20,7 @@ Vous pouvez supprimer vos **propres bases** à tout moment dans SeaTable. Les ba
 4. Cliquez sur **Supprimer**.
 5. Confirmez à nouveau l'opération en cliquant sur **Supprimer**.
 
-Les bases supprimées atterrissent dans une **corbeille**. De là, vous pouvez d'abord les **restaurer**. Pour savoir comment faire, [cliquez ici](https://seatable.io/fr/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Les bases supprimées atterrissent dans une **corbeille**. De là, vous pouvez d'abord les **restaurer**. Pour savoir comment faire, [cliquez ici]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 {{< warning  headline="Attention"  text="Après **30 jours**, les bases supprimées sont **automatiquement** retirées du système et ne peuvent **plus** être restaurées." />}}
 

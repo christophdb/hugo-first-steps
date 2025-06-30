@@ -45,13 +45,13 @@ If your human resource management is becoming more complex and the number of tra
 
 In store management, it is crucial to keep an eye on the turnover of your individual branches. This is not only crucial for an as-is analysis, but also for future strategic location planning. In your Revenue Base you can view and analyse turnover figures.
 
-We have grouped the entire base by quarter. In your grouping rules you can easily set by which column the entire base should be sorted. If you prefer to sort by year or by branch, you can of course easily make this adjustment by [changing the grouping rules](https://seatable.io/en/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/).
+We have grouped the entire base by quarter. In your grouping rules you can easily set by which column the entire base should be sorted. If you prefer to sort by year or by branch, you can of course easily make this adjustment by [changing the grouping rules]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 
 With a column for your turnover potential and the actual turnover, deficits and potentials can be easily identified. In addition, we have added a turnover cluster to categorise your branches according to turnover and colour the row again accordingly. Our chosen cluster can of course be easily adapted to your needs. Simply change the single-select options in the last column to your preferred cluster.
 
 ### Analyse your turnover with the Advanced Statistics Plugin
 
-With our Advanced Statistic Plugin you can easily carry out analyses of your sales. We have already created three useful [statistics](https://seatable.io/en/docs/handbuch/seatable-nutzen/statistiken/) for our example template. Clicking on the plug-in above your table takes you directly to the statistics area. Here you can use the + sign to create new dashboards in which you can then insert several statistics.
+With our Advanced Statistic Plugin you can easily carry out analyses of your sales. We have already created three useful [statistics]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) for our example template. Clicking on the plug-in above your table takes you directly to the statistics area. Here you can use the + sign to create new dashboards in which you can then insert several statistics.
 
 ![Store Management ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
@@ -93,7 +93,7 @@ Timeline plug-in
 
 ### Carry out store checks easily via web forms
 
-During each personal store visit, your sales staff have the task of checking various aspects for accuracy, depending on the type of company. For this purpose, we have set up a [web form](https://seatable.io/en/docs/handbuch/seatable-nutzen/webformulare/) that can be easily filled out by your sales staff during or after their visit to the store. You can find the web forms in the upper right corner under "Forms". If your sales manager clicks on the web form, he can start filling it out directly.
+During each personal store visit, your sales staff have the task of checking various aspects for accuracy, depending on the type of company. For this purpose, we have set up a [web form]({{< relref "help/base-editor/webformulare/webformulare" >}}) that can be easily filled out by your sales staff during or after their visit to the store. You can find the web forms in the upper right corner under "Forms". If your sales manager clicks on the web form, he can start filling it out directly.
 
 ![Store Management Store Check](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
@@ -103,7 +103,7 @@ The underlying table remains the "Store Check" table. Each entry via a web form 
 
 ### Personalised views for your sales staff
 
-Each sales employee has a [personalized view](https://seatable.io/en/docs/handbuch/datenmanagement/ansichten/) in this template so that they only see the stores they are responsible for. The view was created with the filter rule using the "Responsible" column with the respective name. If your sales employees then select their name in the web form, the store checks will also appear in the corresponding base.
+Each sales employee has a [personalized view]({{< relref "help/base-editor/ansichten" >}}) in this template so that they only see the stores they are responsible for. The view was created with the filter rule using the "Responsible" column with the respective name. If your sales employees then select their name in the web form, the store checks will also appear in the corresponding base.
 
 To make filling out the web form less error prone, we have set each field to be filled out to "required". This makes it impossible to submit without filling in the field. These and many other settings, such as help texts for filling out the web form or different formatting options, can be easily set by clicking on the small pencil next to the web form.
 

@@ -25,9 +25,9 @@ In SeaTable brauchen Sie keine Angst vor dem Verlust Ihrer Daten zu haben. Selbs
 Wenn Sie eine Tabelle aus dem Papierkorb holen, wird diese genauso wiederhergestellt, wie sie zum Zeitpunkt des Löschens aussah. Dies beinhaltet folgende Bestandteile:
 
 - Tabellendaten
-- [Tabellenansichten](https://seatable.io/docs/seatable-nutzen/ansichten/)
-- [Kommentare](https://seatable.io/docs/zusammenarbeit/kommentare/)
-- [Webformulare](https://seatable.io/docs/seatable-nutzen/webformulare/)
+- [Tabellenansichten]({{< relref "help/base-editor/ansichten" >}})
+- [Kommentare]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Webformulare]({{< relref "help/base-editor/webformulare" >}})
 - Automationen
 - Darstellungen und Auswertungen in den Plugins von SeaTable
 
@@ -37,4 +37,4 @@ Wenn Sie eine Tabelle aus dem Papierkorb holen, wird diese genauso wiederhergest
 
 ## Weitere hilfreiche Artikel rund um die Wiederherstellung von Daten
 
-SeaTable bietet verschiedene Möglichkeiten, um gelöschte Inhalte wiederherzustellen. So lassen sich nicht nur gelöschte Tabellen, sondern auch Ihre letzten Änderungen, alte Versionsstände oder ganze Bases wiederherstellen. Der [Übersichtsartikel zur Datenwiederherstellung in SeaTable](https://seatable.io/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) hilft Ihnen bestimmt weiter.
+SeaTable bietet verschiedene Möglichkeiten, um gelöschte Inhalte wiederherzustellen. So lassen sich nicht nur gelöschte Tabellen, sondern auch Ihre letzten Änderungen, alte Versionsstände oder ganze Bases wiederherstellen. Der [Übersichtsartikel zur Datenwiederherstellung in SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}}) hilft Ihnen bestimmt weiter.

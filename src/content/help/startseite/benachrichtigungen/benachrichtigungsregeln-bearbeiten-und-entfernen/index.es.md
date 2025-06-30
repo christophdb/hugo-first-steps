@@ -54,4 +54,4 @@ Básicamente, el evento desencadenante definido para una regla de notificación 
 
 ### Más artículos útiles en la sección Normas de notificación:
 
-- [Crear regla de notificación](https://seatable.io/es/docs/benachrichtigungen/benachrichtigungsregel-erstellen/)
+- [Crear regla de notificación]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregel-erstellen" >}})

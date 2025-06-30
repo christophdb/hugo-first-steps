@@ -10,7 +10,7 @@ url: '/es/ayuda/anleitung-zum-whiteboard-plugin-tldraw'
 
 El **plugin de pizarra blanca** te da la libertad de visualizar gráficamente procesos y estructuras que no puedes mostrar con los plugins anteriores. También puedes esbozar libremente diseños y maquetas. Para el diseño, dispones de varios **elementos** como cuadrados, elipses y flechas, así como de **herramientas** como el bolígrafo, el borrador y la herramienta de texto.
 
-Puede encontrar información sobre cómo activar el plugin en una base [aquí](https://seatable.io/es/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Puede encontrar información sobre cómo activar el plugin en una base [aquí]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 {{< warning  headline="No confundir con el antiguo plugin de pizarra blanca"  text="Hay otro **plugin** de **pizarra blanca** en SeaTable **(obsoleto)** que se basa en el proyecto de código abierto Excalidraw. La sustitución del plugin se ha hecho necesaria porque el antiguo plugin de pizarra no soportaba la colaboración y resultó ser propenso a errores cuando era utilizado por varios usuarios al mismo tiempo. Como parte del lanzamiento de la versión 6.0 en verano de 2025, eliminaremos el antiguo plugin de SeaTable Cloud." />}}
 

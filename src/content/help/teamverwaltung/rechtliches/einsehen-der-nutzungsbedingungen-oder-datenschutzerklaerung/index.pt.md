@@ -18,6 +18,6 @@ Como **administrador da equipa**, pode visualizar vários **documentos legais** 
 
 ## Ver publicamente os termos de utilização e política de privacidade
 
-Os Termos de Utilização e a Política de Privacidade estão também disponíveis **publicamente** no nosso website SeaTable.io. Percorra até ao fundo da página web e clique em Política de [Privacidade](https://seatable.io/pt/datenschutz/) ou [Termos de Utilização](https://seatable.io/pt/nutzungsbedingungen/) à direita do Aviso Legal.
+Os Termos de Utilização e a Política de Privacidade estão também disponíveis **publicamente** no nosso website SeaTable.io. Percorra até ao fundo da página web e clique em Política de [Privacidade]({{< relref "pages/legal/data-privacy" >}}) ou [Termos de Utilização]({{< relref "pages/legal/terms-of-service" >}}) à direita do Aviso Legal.
 
 ![Política de privacidade e termos de utilização no rodapé](images/Datenschutz-und-Nutzungsbedingungen-im-Footer.png)

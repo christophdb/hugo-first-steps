@@ -82,7 +82,7 @@ In this, SeaTable records the following information for each automation run: exe
 
 ![Structure of a stirring log](images/structure-of-an-automation-log-newest.png)
 
-More information about the execution log of an automation can be found [here](https://seatable.io/en/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/).
+More information about the execution log of an automation can be found [here]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}}).
 
 ## Execution log of scripts
 
@@ -94,4 +94,4 @@ In the execution log you can find various useful information such as start time,
 
 ![Information to be found in the execution log of a script](images/information-in-a-script-log.png)
 
-If you need more information about the execution log of scripts, feel free to take a look at this [help article](https://seatable.io/en/docs/javascript-python/das-ausfuehrungslog-von-skripten/).
+If you need more information about the execution log of scripts, feel free to take a look at this [help article]({{< relref "help/skripte/allgemein/das-ausfuehrungslog-von-skripten" >}}).

@@ -41,7 +41,7 @@ En [determinadas tiendas en línea](https://www.weihnachtsplaner.de/adventskalen
 
 ### Calendario de Adviento casero
 
-Si sólo quieres confeccionar un calendario de Adviento para determinadas personas, también puedes hacerlo tú mismo. La ventaja es que puedes personalizarlo a tu gusto. [En este artículo descubrirás cómo hacer tu propio calendario de Adviento y con qué puedes rellenarlo](https://seatable.io/es/adventskalender-selber-machen/).
+Si sólo quieres confeccionar un calendario de Adviento para determinadas personas, también puedes hacerlo tú mismo. La ventaja es que puedes personalizarlo a tu gusto. [En este artículo descubrirás cómo hacer tu propio calendario de Adviento y con qué puedes rellenarlo]({{< relref "posts/adventskalender-selber-machen" >}}).
 
 ### Calendario de Adviento en línea
 
@@ -76,14 +76,14 @@ Un **regalo hecho en casa** da mucha alegría porque demuestra que se ha inverti
 
 Su imaginación no tiene límites.
 
-- **Vídeo corporativo**: ¡filme, y con humor! Aunque un [vídeo corporativo](https://seatable.io/es/storyboard/) profesional ofrece una visión clara de lo que haces como empresa, no es muy adecuado como regalo de Navidad para empleados o clientes. Una película creativa sobre ti y tus empleados permite que tus clientes y otros empleados te conozcan mejor a nivel personal.
+- **Vídeo corporativo**: ¡filme, y con humor! Aunque un [vídeo corporativo]({{< relref "posts/storyboard" >}}) profesional ofrece una visión clara de lo que haces como empresa, no es muy adecuado como regalo de Navidad para empleados o clientes. Una película creativa sobre ti y tus empleados permite que tus clientes y otros empleados te conozcan mejor a nivel personal.
 - **Selección personalizada**: Otro regalo clásico de Navidad para los empleados es una cesta de regalo bien llena. Para darle un toque más personal, piense en lo que le gusta a usted y a sus empleados. También es concebible un vínculo con tu sede, por ejemplo productos regionales de empresas cercanas. Añada un mensaje a la cesta de regalo y escriba en ella por qué ha elegido el contenido. Esto demuestra que ha pensado en el regalo y en su impacto.
 
 ## 5\. experiencias compartidas
 
 El **tiempo juntos** es el mejor regalo para muchos, sobre todo en la a menudo estresante vida cotidiana. Organice actividades conjuntas fuera del trabajo como regalo de Navidad para sus empleados y cree recuerdos inolvidables.
 
-Visitar juntos el mercado navideño o hacer galletas por la noche ayuda a conocerse mejor y refuerza el espíritu de equipo a largo plazo. Y, por supuesto, no puede faltar una fiesta de Navidad. [Aquí](https://seatable.io/es/weihnachtsfeier/) encontrará información sobre cómo organizarla con éxito.
+Visitar juntos el mercado navideño o hacer galletas por la noche ayuda a conocerse mejor y refuerza el espíritu de equipo a largo plazo. Y, por supuesto, no puede faltar una fiesta de Navidad. [Aquí]({{< relref "posts/weihnachtsfeier" >}}) encontrará información sobre cómo organizarla con éxito.
 
 ![Una visita al mercado navideño invita a charlar y curiosear.](Design-ohne-Titel-22-1-e1722859187769-711x730.png)
 
@@ -106,7 +106,7 @@ El tiempo, el dinero y el trabajo que quiera dedicar a planificar los regalos de
 
 Todavía hay que tener en cuenta algunas cosas en las fiestas de Navidad...
 
-- **Fiesta de Navidad:** ¿Está planeando una [fiesta de Navidad](https://seatable.io/es/weihnachtsfeier/) para todos sus empleados? Entonces preste atención al presupuesto de 150 euros por participante. Si no se supera esta cantidad, sus gastos están exentos de impuestos. Sin embargo, los regalos de Navidad para empleados o clientes, que se entregan en la fiesta de Navidad, están incluidos en el presupuesto mencionado. Esto significa que no puede sumar los 50 euros de regalos a los 150 euros de la fiesta.
+- **Fiesta de Navidad:** ¿Está planeando una [fiesta de Navidad]({{< relref "posts/weihnachtsfeier" >}}) para todos sus empleados? Entonces preste atención al presupuesto de 150 euros por participante. Si no se supera esta cantidad, sus gastos están exentos de impuestos. Sin embargo, los regalos de Navidad para empleados o clientes, que se entregan en la fiesta de Navidad, están incluidos en el presupuesto mencionado. Esto significa que no puede sumar los 50 euros de regalos a los 150 euros de la fiesta.
 - **Paga extra de Navidad:** El pago de la paga extra de Navidad, en cambio, siempre tributa y debe declararse como _pago diverso_ en la nómina.
 
 ### Regalos de Navidad para los clientes
@@ -119,7 +119,7 @@ Tenga en cuenta también que debe registrar en la contabilidad el beneficiario o
 
 ## Planificar la Navidad en línea
 
-La época navideña es estresante, por eso es tan importante prepararla bien. Con SeaTable, puede planificar su [fiesta de Navidad](https://seatable.io/es/weihnachtsfeier/) o crear un [calendario de Adviento digital gratuito](https://seatable.io/es/adventskalender-selber-machen/) como regalo de Navidad para sus empleados y clientes, y personalizarlo fácilmente.
+La época navideña es estresante, por eso es tan importante prepararla bien. Con SeaTable, puede planificar su [fiesta de Navidad]({{< relref "posts/weihnachtsfeier" >}}) o crear un [calendario de Adviento digital gratuito]({{< relref "posts/adventskalender-selber-machen" >}}) como regalo de Navidad para sus empleados y clientes, y personalizarlo fácilmente.
 
 ¿Busca más ideas de regalos de Navidad adecuados para empleados y clientes? Encontrará muchas ideas interesantes en nuestra plantilla de calendario de Adviento para empresas.
 

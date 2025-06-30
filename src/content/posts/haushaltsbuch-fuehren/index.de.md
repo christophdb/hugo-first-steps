@@ -53,7 +53,7 @@ In Ihrem digitalen Haushaltsbuch können Sie alle Ausgaben ganz simpel eintragen
 - Höhe der Ausgabe und Upload der Rechnung
 - Datum, Monat und Kostenträger der Ausgabe
 
-Ob Einkäufe, Miete und Nebenkosten, die Autoversicherung oder die Nachhilfe für den Sohn – mit SeaTable behalten Sie den Überblick über all Ihre Kosten. Mithilfe von [Einfachauswahl-Spalten](https://seatable.io/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) können Sie Ihre Ausgaben individuell **kategorisieren**, **filtern** und **gruppieren**. Für eine chronologische Ordnung in Ihrem Haushaltsbuch **sortieren** Sie Ihre Ausgaben einfach nach [Datum](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/). In zwei weiteren Tabellen können Sie Ihre monatlichen **Einnahmen** auflisten sowie Ihr überschüssiges **Budget** errechnen.
+Ob Einkäufe, Miete und Nebenkosten, die Autoversicherung oder die Nachhilfe für den Sohn – mit SeaTable behalten Sie den Überblick über all Ihre Kosten. Mithilfe von [Einfachauswahl-Spalten]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) können Sie Ihre Ausgaben individuell **kategorisieren**, **filtern** und **gruppieren**. Für eine chronologische Ordnung in Ihrem Haushaltsbuch **sortieren** Sie Ihre Ausgaben einfach nach [Datum]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). In zwei weiteren Tabellen können Sie Ihre monatlichen **Einnahmen** auflisten sowie Ihr überschüssiges **Budget** errechnen.
 
 Wenn Sie die Vorlage für Ihr Haushaltsbuch verwenden möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) in SeaTable. Danach können Sie die [Vorlage]({{< relref "templates/finance/budget-book" >}}) in Ihren Arbeitsbereich importieren und flexibel an Ihre Bedürfnisse anpassen.
 
@@ -129,7 +129,7 @@ Fertiggerichte für jede Mittagspause können kostspielig sein. Hier können Sie
 
 Wenn Sie in jeder Mittagspause teure Fertiggerichte im Supermarkt kaufen, Essen ins Büro bestellen oder beim Imbiss um die Ecke speisen, gehen circa 5 bis 10 Euro pro Werktag flöten. So können schnell 150 Euro im Monat zusammenkommen. Kochen Sie stattdessen lieber größere Mengen an Essen vor und wärmen Sie sich Ihre Leibgerichte in der Mittagspause auf. Dadurch haben Sie im Haushaltsbuch mehr Budget für andere Dinge.
 
-[In diesem Artikel erfahren Sie, wie Sie mit Meal Prep nicht nur günstiger, sondern auch gesünder durch die Woche kommen.](https://seatable.io/meal-prep-gesund-und-guenstig-essen-vorkochen/)
+[In diesem Artikel erfahren Sie, wie Sie mit Meal Prep nicht nur günstiger, sondern auch gesünder durch die Woche kommen.]({{< relref "posts/meal-prep" >}})
 
 ### 11\. Verzichten Sie auf Nahrungsergänzungsmittel
 

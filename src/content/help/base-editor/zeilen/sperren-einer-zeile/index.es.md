@@ -10,7 +10,7 @@ url: '/es/ayuda/sperren-einer-zeile'
 
 {{< required-version "Más" "Empresa" >}}
 
-Para evitar cambios no deseados en las filas, puede **bloquearlas**. Esto puede ser útil, por ejemplo, si hay más de una persona trabajando en una mesa. El bloqueo puede ser **manual** o [automático](https://seatable.io/es/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
+Para evitar cambios no deseados en las filas, puede **bloquearlas**. Esto puede ser útil, por ejemplo, si hay más de una persona trabajando en una mesa. El bloqueo puede ser **manual** o [automático]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ## Para bloquear una fila
 
@@ -36,7 +36,7 @@ En SeaTable puede crear **reglas de automatización** para **bloquear automátic
 
 Esto es muy útil si desea bloquear muchas filas a la vez o si siempre desea evitar que una fila se siga editando a partir de un momento determinado (por ejemplo, cuando finaliza un proceso).
 
-**Encontrará más información al respecto en el artículo** [Bloqueo de filas mediante automatización](https://seatable.io/es/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
+**Encontrará más información al respecto en el artículo** [Bloqueo de filas mediante automatización]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ![Bloquear una línea con un automatismo](images/lock-row-with-an-automation.png)
 

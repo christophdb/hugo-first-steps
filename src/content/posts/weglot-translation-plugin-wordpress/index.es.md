@@ -55,9 +55,9 @@ Seleccione el idioma que utiliza actualmente en su sitio web y elija el idioma q
 
 Lo que sigue ahora parece casi mágico. A partir de ahora, todas las páginas de su sitio web estarán disponibles para los visitantes en dos idiomas. Además de la página web original, ahora hay una nueva URL para cada nueva lengua en la que se ha insertado la abreviatura del idioma.
 
-> **https://seatable.io/blog/** - nuestro idioma original alemán  
-> **https://seatable.io/en/blog/** - Sitio web en inglés traducido por Weglot  
-> **https://seatable.io/fr/blog/** - Sitio web en francés traducido por Weglot
+> **https://seatable.com/blog/** - nuestro idioma original alemán  
+> **https://seatable.com/en/blog/** - Sitio web en inglés traducido por Weglot  
+> **https://seatable.com/fr/blog/** - Sitio web en francés traducido por Weglot
 
 Cada vez que un usuario llama a una página, Weglot comprueba si esa página ya ha sido traducida o si ha cambiado algo y realiza la traducción correspondiente. Weglot combina varias técnicas de traducción, como [Google Translate](https://translate.google.com/) y [Deepl](https://www.deepl.com/translator), y genera una traducción muy adecuada a partir de las distintas traducciones en la mayoría de los casos. Si una página tiene que ser traducida primero, puede tardar un momento antes de que la página se cargue realmente. Sin embargo, este retraso sólo se produce la primera vez que se llama a la página. Todos los visitantes posteriores verán la página inmediatamente.
 
@@ -111,7 +111,7 @@ El plugin más conocido para un WordPress multilingüe es, con párrafo, el plug
 WPML es, con mucho, el plugin de traducción más popular para WordPress.
 
 Sin duda, todos estos son buenos plugins, pero realmente queríamos una traducción automática del contenido de nuestro sitio web para ahorrarnos esta tediosa tarea.  
-Para que te hagas una idea: en el sitio web seatable.io puedes encontrar actualmente más de [90 artículos de blog](https://seatable.io/es/blog/) y más de 50 páginas. En total, el sitio web tiene algo menos de un millón de palabras. Desde luego, no es exagerado suponer que la traducción de una página o un artículo a otras cuatro lenguas lleva al menos una hora cada una. Eso supondría al menos 140 horas o casi 18 días laborables. Weglot nos ha salvado todo este tiempo. 
+Para que te hagas una idea: en el sitio web seatable.io puedes encontrar actualmente más de [90 artículos de blog]({{< relref "posts" >}}) y más de 50 páginas. En total, el sitio web tiene algo menos de un millón de palabras. Desde luego, no es exagerado suponer que la traducción de una página o un artículo a otras cuatro lenguas lleva al menos una hora cada una. Eso supondría al menos 140 horas o casi 18 días laborables. Weglot nos ha salvado todo este tiempo. 
 
 ### Hay otro plugin de WordPress que ofrece traducciones automáticas
 

@@ -59,4 +59,4 @@ Vous devez maintenant ajouter votre compte Microsoft 365 dans votre base SeaTabl
 
 Ensuite, vous pouvez utiliser le compte e-mail créé dans votre SeaTable Base pour envoyer des e-mails par [automatisation]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}).
 
-Si vous souhaitez en savoir plus sur cette fonction utile, lisez l'article [Configuration d'un compte e-mail dans une base](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+Si vous souhaitez en savoir plus sur cette fonction utile, lisez l'article [Configuration d'un compte e-mail dans une base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).

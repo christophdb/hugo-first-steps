@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren'
 ---
 
-As a team administrator, you can enable two-factor authentication for the entire team as well as for a single account. For full details on two-factor authentication, see the article [Enforce two-factor authentication for the entire team](https://seatable.io/en/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/).
+As a team administrator, you can enable two-factor authentication for the entire team as well as for a single account. For full details on two-factor authentication, see the article [Enforce two-factor authentication for the entire team]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}).
 
 The following describes only how to enable this additional protection on an individual team member.
 

@@ -25,4 +25,4 @@ No podemos darte consejos generales porque los problemas son demasiado variados 
 
 Básicamente, sin embargo, podemos decir que la comprobación 3D Secure es necesaria para concluir una suscripción de pago. Por lo tanto, si el pago o la autenticación no funcionan, simplemente vuelva a cargar la página e inténtelo de nuevo.
 
-Si sigue atascado, utilice las [opciones de contacto](https://seatable.io/es/kontakt/) y póngase en contacto con nosotros. Intentaremos ayudarle.
+Si sigue atascado, utilice las [opciones de contacto]({{< relref "pages/contact" >}}) y póngase en contacto con nosotros. Intentaremos ayudarle.

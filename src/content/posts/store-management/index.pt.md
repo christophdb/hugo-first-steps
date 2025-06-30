@@ -44,13 +44,13 @@ Se a sua gestão de recursos humanos estiver a tornar-se mais complexa e o núme
 
 Na gestão de lojas, é crucial estar atento ao volume de negócios das suas sucursais individuais. Isto é crucial não só para uma análise tal como está, mas também para um futuro planeamento estratégico da localização. Na sua Base de Receitas pode visualizar e analisar os números do volume de negócios.
 
-Agrupámos a base inteira por trimestre. Nas suas regras de agrupamento pode facilmente definir por qual coluna toda a base deve ser classificada. Se preferir ordenar por ano ou por ramo, pode naturalmente fazer este ajustamento facilmente, [alterando as regras de agrupamento](https://seatable.io/pt/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/).
+Agrupámos a base inteira por trimestre. Nas suas regras de agrupamento pode facilmente definir por qual coluna toda a base deve ser classificada. Se preferir ordenar por ano ou por ramo, pode naturalmente fazer este ajustamento facilmente, [alterando as regras de agrupamento]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 
 Com uma coluna para o seu potencial de rotatividade e a rotatividade real, os défices e potenciais podem ser facilmente identificados. Além disso, adicionámos um grupo de volume de negócios para classificar os seus ramos de acordo com o volume de negócios e colorir a fila em conformidade novamente. O nosso grupo escolhido pode, evidentemente, ser facilmente adaptado às suas necessidades. Para o fazer, basta alterar as opções de selecção única na última coluna para o agrupamento que preferir.
 
 ### Analise o seu volume de negócios com o Plugin de Estatísticas Avançadas
 
-Com o nosso Plugin Estatístico Avançado pode facilmente realizar análises das suas vendas. Já criámos três [estatísticas](https://seatable.io/pt/docs/handbuch/seatable-nutzen/statistiken/) úteis para o nosso modelo de exemplo. Clicando no plug-in acima da sua mesa leva-o directamente para a área de estatísticas. Aqui pode usar o sinal + para criar novos painéis de bordo nos quais pode então inserir várias estatísticas.
+Com o nosso Plugin Estatístico Avançado pode facilmente realizar análises das suas vendas. Já criámos três [estatísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) úteis para o nosso modelo de exemplo. Clicando no plug-in acima da sua mesa leva-o directamente para a área de estatísticas. Aqui pode usar o sinal + para criar novos painéis de bordo nos quais pode então inserir várias estatísticas.
 
 ![Gestão de lojas ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
@@ -92,7 +92,7 @@ Plug-in na linha do tempo
 
 ### Efectuar verificações de loja facilmente através de formulários web
 
-Durante cada visita pessoal à loja, o seu pessoal de vendas tem a tarefa de verificar a exatidão de vários aspectos, consoante o tipo de empresa. Para esse efeito, criámos um [formulário Web](https://seatable.io/pt/docs/handbuch/seatable-nutzen/webformulare/) que pode ser facilmente preenchido pelo seu pessoal de vendas durante ou após a visita à loja. Encontrará os formulários Web no canto superior direito, em "Formulários". Quando o seu gestor de vendas clica no formulário Web, pode começar a preenchê-lo imediatamente.
+Durante cada visita pessoal à loja, o seu pessoal de vendas tem a tarefa de verificar a exatidão de vários aspectos, consoante o tipo de empresa. Para esse efeito, criámos um [formulário Web]({{< relref "help/base-editor/webformulare/webformulare" >}}) que pode ser facilmente preenchido pelo seu pessoal de vendas durante ou após a visita à loja. Encontrará os formulários Web no canto superior direito, em "Formulários". Quando o seu gestor de vendas clica no formulário Web, pode começar a preenchê-lo imediatamente.
 
 ![Verificação da loja de gestão da loja](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
@@ -102,7 +102,7 @@ A tabela subjacente continua a ser a tabela "Store Check". Cada entrada através
 
 ### Vistas personalizadas para o seu pessoal de vendas
 
-Cada vendedor tem uma [vista personalizada](https://seatable.io/pt/docs/handbuch/datenmanagement/ansichten/) neste modelo, de modo a ver apenas os balcões pelos quais é responsável. A vista foi criada com a regra de filtragem através da coluna "Responsável" com o respetivo nome. Se os vendedores seleccionarem o seu nome no formulário Web, os controlos de loja também aparecem na base correspondente.
+Cada vendedor tem uma [vista personalizada]({{< relref "help/base-editor/ansichten" >}}) neste modelo, de modo a ver apenas os balcões pelos quais é responsável. A vista foi criada com a regra de filtragem através da coluna "Responsável" com o respetivo nome. Se os vendedores seleccionarem o seu nome no formulário Web, os controlos de loja também aparecem na base correspondente.
 
 Para tornar o preenchimento do formulário Web menos propenso a erros, definimos cada campo a ser preenchido como "obrigatório". Desta forma, é impossível submeter o formulário sem preencher o campo. Estas e muitas outras definições, tais como textos de ajuda para preencher o formulário Web ou várias opções de formatação, podem ser facilmente efectuadas clicando no pequeno lápis junto ao formulário Web.
 

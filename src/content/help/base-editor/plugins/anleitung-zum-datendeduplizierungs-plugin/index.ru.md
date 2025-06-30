@@ -52,4 +52,4 @@ url: '/ru/pomoshch/anleitung-zum-datendeduplizierungs-plugin'
 
 Обратите внимание, что из таблицы удаляются **не только** **значения**, идентифицированные как дубликаты, но и **целые строки**, содержащие одно из дублирующих значений.
 
-Если вы удалили записи или строки по ошибке или впоследствии они вам снова понадобятся, вы можете [восстановить](https://seatable.io/ru/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/) их [из корзины базы](https://seatable.io/ru/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/) за определенное время.
+Если вы удалили записи или строки по ошибке или впоследствии они вам снова понадобятся, вы можете [восстановить]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}) их [из корзины базы]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}) за определенное время.

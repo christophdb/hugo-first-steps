@@ -29,4 +29,8 @@ Dentro de um grupo SeaTable, pode atribuir permissões, atribuindo um papel espe
 
 ![Seleção e confirmação de funções](images/change-authorization-and-close.jpg)
 
-{{< warning  headline="Nota importante"  text="Se já não tiver a certeza de qual dos três papéis tem quais as permissões, este [quadro sobre as permissões dos papéis](https://seatable.io/pt/docs/gruppen/gruppenmitglieder-und-ihre-berechtigungen/) ajudá-lo-á." />}}
+{{< warning  headline="Nota importante" >}}
+
+Se já não tiver a certeza de qual dos três papéis tem quais as permissões, este [quadro sobre as permissões dos papéis]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) ajudá-lo-á.
+
+{{< /warning >}}

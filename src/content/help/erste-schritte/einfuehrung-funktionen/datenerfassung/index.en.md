@@ -16,11 +16,11 @@ If you have just opened a table, you can simply click with the mouse in a cell a
 
 ## Copy-and-Paste
 
-For quick transfer of small amounts of data, you can also use your computer's **clipboard**. To do this, copy the data in an existing table and paste it into SeaTable using [copy-and-paste](https://seatable.io/en/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/).
+For quick transfer of small amounts of data, you can also use your computer's **clipboard**. To do this, copy the data in an existing table and paste it into SeaTable using [copy-and-paste]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}).
 
 ## Data import
 
-SeaTable has a powerful data import that allows you to capture data from **Excel** and **CSV files** in different ways. If you wonder [which import formats SeaTable supports](https://seatable.io/en/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}), read the corresponding help articles.
+SeaTable has a powerful data import that allows you to capture data from **Excel** and **CSV files** in different ways. If you wonder [which import formats SeaTable supports]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}), read the corresponding help articles.
 
 ## Forms
 

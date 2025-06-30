@@ -60,7 +60,7 @@ Além disso, a possibilidade de enviar mensagens e e-mails condicionalmente, num
 
 ## E muito mais
 
-Naturalmente, não podemos apresentar todas as novas funções em detalhe nestas notas de lançamento sem entrarmos em detalhes excessivos. A lista completa de alterações pode ser encontrada no [changelog](https://seatable.io/pt/docs/changelog/version-3-2/). Nesta última secção, apresentamos brevemente outras inovações:
+Naturalmente, não podemos apresentar todas as novas funções em detalhe nestas notas de lançamento sem entrarmos em detalhes excessivos. A lista completa de alterações pode ser encontrada no [changelog]({{< relref "pages/changelog" >}}). Nesta última secção, apresentamos brevemente outras inovações:
 
 Esta versão compensa a ordenação e o agrupamento dos filtros que têm permitido durante algum tempo: alterar a sua ordem. As regras de filtragem, classificação e agrupamento mais extensas podem assim ser facilmente adaptadas posteriormente às novas exigências.
 

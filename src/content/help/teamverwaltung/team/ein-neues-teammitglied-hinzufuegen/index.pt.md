@@ -24,7 +24,11 @@ Como **administrador da equipa**, pode criar novos membros da equipa através da
 8. Seleccionar a **língua** em que o e-mail deve ser escrito.
 9. Clique em **Add Team Member (Adicionar membro da equipa**).
 
-{{< warning  headline="Atenção"  text="**Não é possível** adicionar um **membro da equipa** que já tenha criado outra conta SeaTable **com o mesmo endereço de** correio eletrónico. Para criar uma conta com este endereço de e-mail, este utilizador deve fazer uma cópia de segurança de todos os seus dados (por exemplo, [exportar](https://seatable.io/pt/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) como um [ficheiro DTABLE](https://seatable.io/pt/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/)) e eliminar a sua conta anterior. Pode obter mais informações sobre este assunto no artigo [É possível fundir duas contas SeaTable?](https://seatable.io/pt/docs/haeufig-gestellte-fragen/kann-man-zwei-seatable-konten-zusammenfuehren/)" />}}
+{{< warning  headline="Atenção" >}}
+
+**Não é possível** adicionar um **membro da equipa** que já tenha criado outra conta SeaTable **com o mesmo endereço de** correio eletrónico. Para criar uma conta com este endereço de e-mail, este utilizador deve fazer uma cópia de segurança de todos os seus dados (por exemplo, [exportar]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) como um [ficheiro DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) e eliminar a sua conta anterior. Pode obter mais informações sobre este assunto no artigo [É possível fundir duas contas SeaTable?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}})
+
+{{< /warning >}}
 
 ## Outras opções ao criar um membro da equipa
 

@@ -58,8 +58,8 @@ Die erstellte Freigabeberechtigung steht Ihnen nun unter **Freigabe für Benutze
 
 Ausführliche Erläuterungen, was Sie bei Freigaben an Benutzer oder Gruppen beachten sollten, erhalten Sie in den folgenden Artikeln:
 
-- [Eine Base an einen Benutzer freigeben](https://seatable.io/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Eine Base an eine Gruppe freigeben](https://seatable.io/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Eine Base an einen Benutzer freigeben]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Eine Base an eine Gruppe freigeben]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 
 ## Folgen der Freigabe
 

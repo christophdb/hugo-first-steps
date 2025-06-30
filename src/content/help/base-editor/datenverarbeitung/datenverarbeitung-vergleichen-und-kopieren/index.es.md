@@ -43,7 +43,7 @@ Para realizar esta operación de tratamiento de datos, se necesitan **dos tablas
 
 ![Ejemplo de tabla para el mantenimiento de los datos personales de los empleados](images/example-table-employees-and-personal-data-1.png)
 
-En la segunda tabla se introducen las **tareas pendientes**, para las que se introduce el empleado responsable correspondiente en otra columna. Además, se crea una nueva columna del tipo [correo electrónico](https://seatable.io/es/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/), en la que se copiarán posteriormente las direcciones de correo electrónico.
+En la segunda tabla se introducen las **tareas pendientes**, para las que se introduce el empleado responsable correspondiente en otra columna. Además, se crea una nueva columna del tipo [correo electrónico]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}), en la que se copiarán posteriormente las direcciones de correo electrónico.
 
 ![Tabla de destino que incluye la columna de resultados antes de la ejecución de la acción de tratamiento de datos](images/table-open-tasks-before-data-processing-operation-1.png)
 
@@ -59,7 +59,7 @@ En el siguiente paso, puede seleccionar cualquier número de columnas de origen 
 
 {{< warning  headline="Cuidado con la pérdida de datos" >}}
 
-Las columnas de origen y de resultado deben tener **el mismo tipo de columna** para que no se pierdan datos al copiar. Por ejemplo, puede copiar datos de una [columna de fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) en [una columna de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), pero entonces ya no servirán para [calendarios](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/). Por lo tanto, antes de realizar la operación, cree una columna de **resultado** del mismo tipo en la tabla de destino para cada columna de **origen** que desee copiar.
+Las columnas de origen y de resultado deben tener **el mismo tipo de columna** para que no se pierdan datos al copiar. Por ejemplo, puede copiar datos de una [columna de fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) en [una columna de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), pero entonces ya no servirán para [calendarios]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Por lo tanto, antes de realizar la operación, cree una columna de **resultado** del mismo tipo en la tabla de destino para cada columna de **origen** que desee copiar.
 
 {{< /warning >}}
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/eine-base-an-eine-gruppe-freigeben'
 ---
 
-Dans SeaTable, les bases appartiennent toujours à un **utilisateur** ou à un **groupe**. Vous pouvez donc [partager](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/) des bases soit avec des groupes, soit [avec des utilisateurs individuels](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/). Cet article explique comment partager une base avec un groupe entier.
+Dans SeaTable, les bases appartiennent toujours à un **utilisateur** ou à un **groupe**. Vous pouvez donc [partager]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) des bases soit avec des groupes, soit [avec des utilisateurs individuels]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Cet article explique comment partager une base avec un groupe entier.
 
 Dans ce cas, vous pouvez décider individuellement pour chaque base s'il s'agit d'une **Autorisation de lecture** ou pour obtenir une **Partage en lecture et en écriture** doit agir.
 
@@ -40,4 +40,4 @@ Si vous vous trouvez actuellement **dans une base**, vous pouvez également cré
 - Les bases que vous avez **créées vous-même** peuvent être partagées à tout moment, tandis que les bases qui appartiennent à un groupe ne peuvent être partagées avec d'autres groupes que par les **propriétaires** et **les administrateurs**.
 - Un groupe auquel vous avez partagé une base ne possède **pas de droits de propriété** et ne peut donc **pas**, par exemple, modifier le nom de la base.
 
-Pour savoir comment partager **des tables et des vues individuelles** d'une base avec un groupe, consultez l'article [Créer un partage personnalisé](https://seatable.io/fr/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+Pour savoir comment partager **des tables et des vues individuelles** d'une base avec un groupe, consultez l'article [Créer un partage personnalisé]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

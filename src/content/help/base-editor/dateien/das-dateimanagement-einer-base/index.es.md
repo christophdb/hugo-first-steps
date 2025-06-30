@@ -24,7 +24,7 @@ El gestor de archivos contiene varias carpetas, que a su vez contienen varios ar
 
 ![Carpetas del sistema creadas y organizadas por el sistema SeaTable en la gestión de archivos](images/system-folders.png)
 
-- Una carpeta **Seafile** contiene todos los archivos que has subido previamente al almacenamiento externo en la nube del mismo nombre. [Aquí](https://seatable.io/es/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) puedes descubrir cómo funciona exactamente la integración de las bibliotecas Seafile y qué ventajas aporta.
+- Una carpeta **Seafile** contiene todos los archivos que has subido previamente al almacenamiento externo en la nube del mismo nombre. [Aquí]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) puedes descubrir cómo funciona exactamente la integración de las bibliotecas Seafile y qué ventajas aporta.
 
 ![Carpeta Seafile en Gestión de archivos](images/seafile-library.png)
 
@@ -56,7 +56,7 @@ Si quieres volver a **quitar** el gestor de archivos de la barra de herramientas
 
 ## Ajuste el tamaño y la posición de la ventana del gestor de archivos
 
-Tienes la opción de ajustar el tamaño de la ventana del gestor de archivos para que puedas mantener un ojo en tus tablas y datos mientras gestionas tus archivos y [arrastras archivos desde el gestor de archivos directamente a las columnas apropiadas de tus tablas](https://seatable.io/es/?post_type=docs&p=26594#8-toc-title).
+Tienes la opción de ajustar el tamaño de la ventana del gestor de archivos para que puedas mantener un ojo en tus tablas y datos mientras gestionas tus archivos y arrastras archivos desde el gestor de archivos directamente a las columnas apropiadas de tus tablas.
 
 Para ello, basta con abrir el gestor de archivos y mover el puntero del ratón sobre las **dos líneas de** la parte superior de la ventana hasta que aparezca una **flecha doble**. A continuación, mantenga pulsado el botón del ratón y arrastre la ventana hasta la posición deseada y suéltelo en cuanto la alcance.
 

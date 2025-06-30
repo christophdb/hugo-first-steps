@@ -30,4 +30,8 @@ SeaTable permet de **supprimer** des **fichiers** et **des images** de différen
 
 ![Suppression de pièces jointes.](images/Loeschen-von-Anhaengen.gif)
 
-{{< warning  headline="Attention"  text="Les images et les fichiers supprimés font toujours partie de la base et ne sont donc **pas** définitivement supprimés. Lisez à ce sujet les articles [Accès aux fichiers et images supprimés](https://seatable.io/fr/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) et [Comment supprimer définitivement des fichiers](https://seatable.io/fr/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  headline="Attention" >}}
+
+Les images et les fichiers supprimés font toujours partie de la base et ne sont donc **pas** définitivement supprimés. Lisez à ce sujet les articles [Accès aux fichiers et images supprimés]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) et [Comment supprimer définitivement des fichiers]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}

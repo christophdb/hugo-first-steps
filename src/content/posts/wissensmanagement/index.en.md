@@ -74,7 +74,7 @@ This results in a kind of guideline that you can use to develop an effective kno
 - **Knowledge acquisition:** Buying in knowledge from external experts to close knowledge gaps.
 - **Knowledge sharing:** Open access to and active sharing of existing knowledge.
 
-A variety of well-known methods can be used to distribute knowledge, for example [workshops](https://seatable.io/en/workshop-planen/), lessons learned, [team meetings](https://seatable.io/en/in-4-schritten-zu-effizienteren-teammeetings/), mentoring, [onboarding](https://seatable.io/en/onboarding/) or internal newsletters.
+A variety of well-known methods can be used to distribute knowledge, for example [workshops]({{< relref "posts/workshop-planen" >}}), lessons learned, [team meetings]({{< relref "posts/in-4-schritten-zu-effizienteren-teammeetings" >}}), mentoring, [onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}) or internal newsletters.
 
 ![In order to operate knowledge management, it is important that all employees are up to date and actively exchange information.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 
@@ -190,7 +190,7 @@ A good answer to all these questions is the intuitive and easy-to-use **SeaTable
 
 ![Documenting knowledge is a simple task with SeaTable](knowledge-management.jpg)
 
-When you choose SeaTable, you give your employees a whole toolbox with which they can build a flexible knowledge database. SeaTable supports real-time [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}), including [comments](https://seatable.io/en/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) and [a](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/) complete [change history](https://seatable.io/en/docs/historie-und-versionen/historie-und-logs/). This allows you and your employees to convert your personal, implicit knowledge into explicit knowledge and make it available to others. SeaTable also allows you to visualize data graphically using various [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) and [apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
+When you choose SeaTable, you give your employees a whole toolbox with which they can build a flexible knowledge database. SeaTable supports real-time [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}), including [comments]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) and [a]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) complete [change history]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). This allows you and your employees to convert your personal, implicit knowledge into explicit knowledge and make it available to others. SeaTable also allows you to visualize data graphically using various [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) and [apps]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
 You can use SeaTable in the cloud, which is hosted in GDPR-compliant German data centers, or install it [on-premises]({{< relref "pages/product/seatable-server" >}}) on your own servers. So your data is safe in any case! You can also use authorizations in many places in SeaTable to control exactly who can see and edit which data.
 

@@ -47,7 +47,7 @@ There are virtually no ideas that haven't been thought of before. In other words
 
 ### 4\. define clear responsibilities and timelines
 
-A marketing campaign and its planning work best when everyone knows what they have to do and when. Once the [project goals]({{< relref "templates/projects/project-plan" >}}), target group and market/competitor analysis are in place, the next step is to put together a team, assign [responsibilities and tasks](https://seatable.io/en/projektstrukturplan-vorlage/), set deadlines and milestones and - very importantly - allocate the [budget]({{< relref "templates/finance/budget-book" >}}).
+A marketing campaign and its planning work best when everyone knows what they have to do and when. Once the [project goals]({{< relref "templates/projects/project-plan" >}}), target group and market/competitor analysis are in place, the next step is to put together a team, assign [responsibilities and tasks]({{< relref "templates/projects/work-breakdown-structure" >}}), set deadlines and milestones and - very importantly - allocate the [budget]({{< relref "templates/finance/budget-book" >}}).
 
 ![Marketing team discusses approach to campaign planning.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
@@ -55,7 +55,7 @@ Marketing campaign planning © REDPIXEL / adobe stock
 
 ### 5\. bring together measures and content when planning the marketing campaign.
 
-Once all the organizational aspects have been taken care of, it's time to plan the content of your marketing campaign. This step includes deciding together with the team which [content](https://seatable.io/en/social-media-plan-vorlage/) should be played in [which format on which channels](https://seatable.io/en/social-media-plan-vorlage/) - always with the target group, competition and market in mind. Legal aspects are also important in this context. For example, for each campaign measure, you should consider which copyrights apply to photos used, when advertising guidelines must be observed, and which specifications apply to the various platforms used.
+Once all the organizational aspects have been taken care of, it's time to plan the content of your marketing campaign. This step includes deciding together with the team which [content]({{< relref "templates/marketing/social-media-plan" >}}) should be played in [which format on which channels]({{< relref "templates/marketing/social-media-plan" >}}) - always with the target group, competition and market in mind. Legal aspects are also important in this context. For example, for each campaign measure, you should consider which copyrights apply to photos used, when advertising guidelines must be observed, and which specifications apply to the various platforms used.
 
 ### 6\. implementation, monitoring and success control
 

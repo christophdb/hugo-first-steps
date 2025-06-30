@@ -18,4 +18,4 @@ You will learn all other peculiarities of the first column in the article [The p
 
 ## What if I want to use a different first column?
 
-If you want to use another column as the first column, you can [adjust]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) and simply [copy-and-paste](https://seatable.io/en/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste") the data from the previous first column into the new column.
+If you want to use another column as the first column, you can [adjust]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) and simply [copy-and-paste]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) the data from the previous first column into the new column.

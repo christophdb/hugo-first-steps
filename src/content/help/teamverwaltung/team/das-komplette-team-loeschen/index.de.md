@@ -33,4 +33,4 @@ Mit der Bestätigung der Löschung lösen Sie unmittelbar die folgenden Aktionen
 
 ## Abo kündigen und das Team beibehalten
 
-Sollten Sie Ihr Abo kündigen, jedoch das erstellte Team gerne behalten wollen, können Sie zu einem Free Account zurückkehren. Lesen Sie in dem Artikel [Das Abo kündigen](https://seatable.io/docs/abo-abrechnung/das-abo-kuendigen/), wie dies genau funktioniert.
+Sollten Sie Ihr Abo kündigen, jedoch das erstellte Team gerne behalten wollen, können Sie zu einem Free Account zurückkehren. Lesen Sie in dem Artikel [Das Abo kündigen]({{< relref "help/teamverwaltung/abonnement/das-abo-kuendigen" >}}), wie dies genau funktioniert.

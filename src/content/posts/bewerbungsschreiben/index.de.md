@@ -229,6 +229,6 @@ Bevor Sie Ihre Bewerbung abschicken, sollten Sie diese final **Korrektur lesen**
 
 ## Fazit
 
-Dem Schreiben Ihrer nächsten erfolgreichen Bewerbung steht nun nichts mehr im Wege. Damit Sie auch bei mehreren Bewerbungen nicht den Überblick über Ihre Unterlagen verlieren, hat SeaTable einen [Online-Bewerbungsplaner](https://seatable.io/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen) für Sie erstellt. Dieser hilft Ihnen Ihre nächsten Schritte zu planen, Dokumente zu ordnen und immer auf dem neuesten Stand im Bewerbungsprozess zu bleiben.
+Dem Schreiben Ihrer nächsten erfolgreichen Bewerbung steht nun nichts mehr im Wege. Damit Sie auch bei mehreren Bewerbungen nicht den Überblick über Ihre Unterlagen verlieren, hat SeaTable einen [Online-Bewerbungsplaner]({{< relref "posts/bewerbungsschreiben" >}}) für Sie erstellt. Dieser hilft Ihnen Ihre nächsten Schritte zu planen, Dokumente zu ordnen und immer auf dem neuesten Stand im Bewerbungsprozess zu bleiben.
 
 Wenn Sie SeaTable für Ihre Bewerbungsübersicht nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die Vorlage finden Sie [hier]({{< relref "templates/everyday-life/application-cover-letter" >}}).

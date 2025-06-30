@@ -42,7 +42,7 @@ Hausmeisterdienste koordinieren mit SeaTable
 
 In jedem Gebäude geht mal etwas kaputt. Das können Sie nicht ändern. Was Sie aber ändern können, ist, dass Sie den Reparaturvorgang effizient abwickeln – mit unserer [Vorlage für Hausmeisterdienste]({{< relref "templates/real-estate/janitorial-services" >}}).
 
-Mit SeaTable lassen Sie die Hausbewohner Reparaturaufträge bequem per [Webformular](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/) einreichen. Sie werden automatisch per E-Mail über neue gemeldete Schäden und Probleme informiert und können die Reparatur dem richtigen Hausmeister, Handwerker oder Mitarbeiter zuweisen. Dieser erhält alle notwendigen Informationen und kann die Reparatur direkt vor Ort in seiner SeaTable App dokumentieren. Arbeitsstunden und benötigte Verbrauchsmaterialien können einfach dokumentiert werden.
+Mit SeaTable lassen Sie die Hausbewohner Reparaturaufträge bequem per [Webformular]({{< relref "help/base-editor/webformulare/webformulare" >}}) einreichen. Sie werden automatisch per E-Mail über neue gemeldete Schäden und Probleme informiert und können die Reparatur dem richtigen Hausmeister, Handwerker oder Mitarbeiter zuweisen. Dieser erhält alle notwendigen Informationen und kann die Reparatur direkt vor Ort in seiner SeaTable App dokumentieren. Arbeitsstunden und benötigte Verbrauchsmaterialien können einfach dokumentiert werden.
 
 Wenn Sie wollen, können Sie sogar die Person, die den Reparaturbedarf gemeldet hat, per E-Mail über den Abschluss der Reparatur informieren. Sie behalten von Anfang bis Ende die volle Kontrolle über sämtliche Tätigkeiten und können die Vorlage beliebig an Ihre Bedürfnisse und Immobilien anpassen.
 

@@ -47,7 +47,7 @@ One solution to comply with the limits in this case is to outsource your files t
 
 ## Access files in Seafile
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base.
+Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base.
 
 ![Included Seafile library in Base file management](images/library-in-file-management.png)
 
@@ -55,4 +55,4 @@ Through this integration, you can use the files stored in Seafile directly in Se
 
 ## Integration possibilities
 
-Basically, you can connect both self-hosted and hosted Seafile servers to SeaTable. [Feel free to contact our sales team](https://seatable.io/en/kontakt/) if you want to self-host a Seafile server. For SeaTable Dedicated customers we offer Seafile co-hosting.
+Basically, you can connect both self-hosted and hosted Seafile servers to SeaTable. [Feel free to contact our sales team]({{< relref "pages/contact" >}}) if you want to self-host a Seafile server. For SeaTable Dedicated customers we offer Seafile co-hosting.

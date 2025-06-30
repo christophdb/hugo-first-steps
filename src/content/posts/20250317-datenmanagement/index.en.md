@@ -111,7 +111,7 @@ There is a wide range of tools and software that you can use for your data manag
 
 ### What is the best data management system?
 
-Choosing the right data management software depends on the specific requirements you have for data access, storage, security, integration and analysis. You can decide whether you want to store and analyze your data on your own servers ([On-Premises]({{< relref "pages/product/seatable-server" >}})), in a cloud or in a hybrid mix.
+Choosing the right data management software depends on the specific requirements you have for data access, storage, security, integration and analysis. You can decide whether you want to store and analyze your data on your own servers ([On-Premises]({{< relref "pages/product/seatable-server" >}}), in a cloud or in a hybrid mix.
 
 One trend that can be observed is the increasing use of cloud-based data management solutions. A cloud-based data management platform allows you to store data securely and process it efficiently without having to invest in expensive infrastructure.
 

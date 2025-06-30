@@ -74,7 +74,7 @@ Wie Sie vermutlich wissen, müssen Sie die **Datenschutz-Grundverordnung (DSGVO)
 
 {{< warning headline="Hinweis" text="Moderne Systeme können Fahrzeuge zum Beispiel zur Routenplanung orten und genaue **Bewegungsprofile** erstellen. Ebenso lassen sich über die **Tankkartennutzung** Rückschlüsse auf Strecken, Verbrauch und Fahrweise ziehen." />}}
 
-Vor allem aus steuerrechtlichen Gründen ist es notwendig, dass Sie die konkrete **Fahrzeugnutzung** nachvollziehen können. Wann haben welche Mitarbeiter welche Firmenwagen genutzt? Und ganz wichtig: Waren die Fahrten dienstlicher oder privater Natur? Um diese Informationen sorgfältig und DSGVO-konform zu dokumentieren, bietet sich ein [digitales Fahrtenbuch](https://seatable.io/digitales-fahrtenbuch-fuehren/) an.
+Vor allem aus steuerrechtlichen Gründen ist es notwendig, dass Sie die konkrete **Fahrzeugnutzung** nachvollziehen können. Wann haben welche Mitarbeiter welche Firmenwagen genutzt? Und ganz wichtig: Waren die Fahrten dienstlicher oder privater Natur? Um diese Informationen sorgfältig und DSGVO-konform zu dokumentieren, bietet sich ein [digitales Fahrtenbuch]({{< relref "posts/202503-fahrtenbuch" >}}) an.
 
 Des Weiteren müssen Sie zweimal jährlich die Führerscheine der Fahrer kontrollieren, um eine **gültige Fahrerlaubnis** sicherzustellen. Hierbei dürfen Sie die Führerscheine nicht nur sichten, sondern auch einscannen oder fotokopieren. Auch hier zeigt sich, wie viele sensible Daten beim Fuhrparkmanagement anfallen, die Sie verantwortungsvoll aufbewahren müssen.
 

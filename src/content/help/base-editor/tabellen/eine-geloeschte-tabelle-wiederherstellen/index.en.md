@@ -25,9 +25,9 @@ In SeaTable you don't need to be afraid of losing your data. Even accidentally d
 When you retrieve a table from the Trash, it is restored exactly as it looked when you deleted it. This includes the following components:
 
 - Table data
-- [Table views](https://seatable.io/en/docs/seatable-nutzen/ansichten/)
-- [Comments](https://seatable.io/en/docs/zusammenarbeit/kommentare/)
-- [Forms](https://seatable.io/en/docs/seatable-nutzen/webformulare/)
+- [Table views]({{< relref "help/base-editor/ansichten" >}})
+- [Comments]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Forms]({{< relref "help/base-editor/webformulare" >}})
 - Automations
 - Representations and evaluations in the plugins of SeaTable
 
@@ -37,4 +37,4 @@ When you retrieve a table from the Trash, it is restored exactly as it looked wh
 
 ## More helpful articles around data recovery
 
-SeaTable offers several ways to recover deleted content. So not only deleted tables can be recovered, but also your last changes, old versions or whole bases. The [overview article on data recovery in SeaTable](https://seatable.io/en/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) will certainly help you.
+SeaTable offers several ways to recover deleted content. So not only deleted tables can be recovered, but also your last changes, old versions or whole bases. The [overview article on data recovery in SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}}) will certainly help you.

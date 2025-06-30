@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/pt/ajuda/ein-teammitglied-entsperren'
 ---
 
-[Os membros da equipa bloqueados](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) já não podem entrar no sistema e trabalhar consigo. Como **administrador de equipa**, no entanto, pode desbloqueá-los.
+[Os membros da equipa bloqueados]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) já não podem entrar no sistema e trabalhar consigo. Como **administrador de equipa**, no entanto, pode desbloqueá-los.
 
 ## Sem login para membros de equipa desactivados
 

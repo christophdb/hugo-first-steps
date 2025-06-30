@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/help/zapier-api-tokens-sign-in'
 ---
 
-Once you start using the SeaTable app in Zapier, you need to allow Zapier to access one of your bases. To do this, you create an [API token](https://seatable.io/en/docs/seatable-api/erzeugen-eines-api-tokens/) in SeaTable and use it in Zapier. This help article shows you what to look out for.
+Once you start using the SeaTable app in Zapier, you need to allow Zapier to access one of your bases. To do this, you create an [API token]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}) in SeaTable and use it in Zapier. This help article shows you what to look out for.
 
 ## Zapier requires registration
 
@@ -18,7 +18,7 @@ Once you use SeaTable as a trigger or as an action in one of your zaps, you need
 
 Once you click **Sign in**, a new window will open where you need to enter both the URL of the SeaTable system and an API token for one of your bases.
 
-Create an API token for one of your bases and enter it in this form. To [learn](https://seatable.io/en/docs/seatable-api/erzeugen-eines-api-tokens/) how this works, [see this help article](https://seatable.io/en/docs/seatable-api/erzeugen-eines-api-tokens/).
+Create an API token for one of your bases and enter it in this form. To [learn]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}) how this works, [see this help article]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}).
 
 ![Enter your API token and confirm.](images/zapier-authenticate-app.png)
 

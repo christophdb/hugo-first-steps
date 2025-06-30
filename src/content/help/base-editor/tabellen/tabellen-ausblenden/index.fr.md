@@ -18,4 +18,8 @@ L'en-tête de la base peut devenir confus, en particulier dans le cas de bases c
 
 Dans un tableau masqué, vous pouvez **travailler sans restriction** comme dans un tableau visible. Si vous souhaitez **faire réapparaître** un tableau dans l'en-tête de base, procédez exactement comme décrit dans les instructions ci-dessus.
 
-{{< warning  headline="Conseil"  text="D'ailleurs, vous pouvez aussi [déplacer](https://seatable.io/fr/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) les tableaux [par glisser-déposer](https://seatable.io/fr/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) pour que vos tableaux les plus utilisés soient toujours à portée de main à gauche dans l'en-tête de la base." />}}
+{{< warning  headline="Conseil" >}}
+
+D'ailleurs, vous pouvez aussi [déplacer]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) les tableaux [par glisser-déposer]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) pour que vos tableaux les plus utilisés soient toujours à portée de main à gauche dans l'en-tête de la base.
+
+{{< /warning >}}

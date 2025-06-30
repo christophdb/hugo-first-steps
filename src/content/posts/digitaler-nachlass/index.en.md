@@ -70,7 +70,7 @@ Using the same principle, you can also save your accounts and passwords **electr
 
 Also many browsers offer the possibility to conveniently save login data.
 
-With a digital [password manager](https://seatable.io/en/digitaler-nachlass/#Mit_welchen_Tools_ein_digitaler_Nachlass_verwaltet_werden_kann), you can manage your access data clearly and flexibly: These tools allow you to store accounts and passwords securely and pass them on to trusted people in case of death. Therefore, this is one of the best ways to organize your digital estate.
+With a digital [password manager]({{< relref "posts/digitaler-nachlass" >}}), you can manage your access data clearly and flexibly: These tools allow you to store accounts and passwords securely and pass them on to trusted people in case of death. Therefore, this is one of the best ways to organize your digital estate.
 
 ### 2\. create an overview of your digital estate
 

@@ -74,7 +74,7 @@ seo:
 - **Приобретение знаний:** покупка знаний у внешних экспертов для устранения пробелов в знаниях.
 - **Обмен знаниями:** открытый доступ к существующим знаниям и активный обмен ими.
 
-Для обмена знаниями можно использовать различные известные методы, например, [семинары](https://seatable.io/ru/workshop-planen/), извлечение уроков, [командные встречи](https://seatable.io/ru/in-4-schritten-zu-effizienteren-teammeetings/), наставничество, [введение в должность](https://seatable.io/ru/onboarding/) или внутренние информационные бюллетени.
+Для обмена знаниями можно использовать различные известные методы, например, [семинары]({{< relref "posts/workshop-planen" >}}), извлечение уроков, [командные встречи]({{< relref "posts/in-4-schritten-zu-effizienteren-teammeetings" >}}), наставничество, [введение в должность]({{< relref "posts/20250324-onboarding-prozess" >}}) или внутренние информационные бюллетени.
 
 ![Для управления знаниями важно, чтобы все сотрудники были в курсе событий и активно обменивались информацией.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 
@@ -190,7 +190,7 @@ seo:
 
 ![Документирование знаний - простая задача с SeaTable](knowledge-management.jpg)
 
-Выбирая SeaTable, вы даете своим сотрудникам целый набор инструментов, с помощью которых они могут создать гибкую базу знаний. SeaTable поддерживает [совместную работу]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) в режиме реального времени, включая [комментарии](https://seatable.io/ru/docs/arbeiten-mit-zeilen/die-kommentarfunktion-in-seatable/) и полную [историю изменений](https://seatable.io/ru/docs/historie-und-versionen/historie-und-logs/). Это позволяет вам и вашим сотрудникам преобразовывать свои личные, неявные знания в явные и делать их доступными для других. SeaTable также позволяет визуализировать данные в графическом виде с помощью различных [плагинов]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) и [приложений]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
+Выбирая SeaTable, вы даете своим сотрудникам целый набор инструментов, с помощью которых они могут создать гибкую базу знаний. SeaTable поддерживает [совместную работу]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) в режиме реального времени, включая [комментарии]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) и полную [историю изменений]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). Это позволяет вам и вашим сотрудникам преобразовывать свои личные, неявные знания в явные и делать их доступными для других. SeaTable также позволяет визуализировать данные в графическом виде с помощью различных [плагинов]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) и [приложений]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
 Вы можете использовать SeaTable в облаке, которое размещается в немецких центрах обработки данных в соответствии с GDPR, или установить его [на]({{< relref "pages/product/seatable-server" >}}) своих [собственных]({{< relref "pages/product/seatable-server" >}}) серверах. В любом случае ваши данные будут в безопасности! Вы также можете использовать авторизации во многих местах SeaTable, чтобы контролировать, кто именно может видеть и редактировать данные.
 

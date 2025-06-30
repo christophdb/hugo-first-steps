@@ -18,7 +18,7 @@ In addition, SeaTable offers other columns that sometimes better match your spec
 
 - Duration and periods = duration [column]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}})
 - Date and times = [date column]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- Geo information = [geo position column](https://seatable.io/en/docs/andere-spalten/die-geopositions-spalte/)
+- Geo information = [geo position column]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}})
 
 ## Adding a number column
 

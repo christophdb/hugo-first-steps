@@ -17,7 +17,11 @@ Sie benötigen eine Tabelle in Ihrer Base mehrmals in leicht abgewandelter Form?
 
 ![Dialog: Einträge duplizieren, wenn Tabelle dupliziert wird](images/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png) 7. Bestätigen Sie mit **Abschicken**.
 
-{{< warning  headline="Hinweis"  text="Alle Ansichten werden mit allen [Ansichtseinstellungen](https://seatable.io/docs/ansichtsoptionen/) ebenfalls dupliziert, sodass die kopierte Tabelle ein genaues Abbild der ursprünglichen Tabelle ist." />}}
+{{< warning  headline="Hinweis" >}}
+
+Alle Ansichten werden mit allen [Ansichtseinstellungen]({{< relref "help/base-editor/ansichten" >}}) ebenfalls dupliziert, sodass die kopierte Tabelle ein genaues Abbild der ursprünglichen Tabelle ist.
+
+{{< /warning >}}
 
 **So sieht das Ergebnis mit duplizierten Einträgen aus**
 
@@ -29,4 +33,4 @@ Diese Option ist sinnvoll, wenn Sie zumindest einen Teil der Zeilen aus der ursp
 
 ![Leere duplizierte Tabellen](images/Leere-duplizierte-Tabellen.png)
 
-Diese Option ist sinnvoll, wenn Sie nur die **Struktur** der ursprünglichen Tabelle übernehmen, sie aber mit anderen Einträgen füllen wollen. Das kann zum Beispiel vorkommen, wenn Sie für Ihre [Budgetplanung](https://seatable.io/budgetplanung-vorlage/) eine Tabelle pro Jahr anlegen.
+Diese Option ist sinnvoll, wenn Sie nur die **Struktur** der ursprünglichen Tabelle übernehmen, sie aber mit anderen Einträgen füllen wollen. Das kann zum Beispiel vorkommen, wenn Sie für Ihre [Budgetplanung]({{< relref "templates/finance/budget-plan" >}}) eine Tabelle pro Jahr anlegen.

@@ -39,7 +39,7 @@ In dieser Tabelle kommen damit viele Informationen zusammen: Die Spalten “Prod
 
 ## Waren bestellen mit dem integrierten Webformular
 
-Die Tabelle bietet mit ihren Spalten gleichzeitig die Basis für das integrierte [Webformular](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/) für Ihre Büroorganisation. Für eine Bestellung von internem Material wählen die Mitarbeiter ein Produkt aus der Liste aus – das ist die verknüpfte Spalte “Products” aus dem Produktkatalog (Tabelle 2). Danach geben sie nur noch die Menge an und in welcher Abteilung sie tätig sind, damit die Bestellungen übersichtlich bleiben.
+Die Tabelle bietet mit ihren Spalten gleichzeitig die Basis für das integrierte [Webformular]({{< relref "help/base-editor/webformulare/webformulare" >}}) für Ihre Büroorganisation. Für eine Bestellung von internem Material wählen die Mitarbeiter ein Produkt aus der Liste aus – das ist die verknüpfte Spalte “Products” aus dem Produktkatalog (Tabelle 2). Danach geben sie nur noch die Menge an und in welcher Abteilung sie tätig sind, damit die Bestellungen übersichtlich bleiben.
 
 ![Bestellformular indirektes Material](bestellformular-indirektes-material.png)
 
@@ -81,7 +81,7 @@ Das geht folgendermaßen:
 
 ## Individuelle Ansichten und Kanban sorgen für mehr Überblick
 
-SeaTable wäre keine optimale Lösung für die Büroorganisation, wenn es nicht auch für die Aufgabenverwaltung eine übersichtliche und praktische Funktion parat hätte. Zum einen erstellen wir verschiedene [Ansichten](https://seatable.io/docs/handbuch/seatable-nutzen/ansichten/) für jeden Bearbeiter, damit nur die für ihn jeweiligen Bestellungen sichtbar sind. Denn ein Bearbeiter für Büroequipment muss die Bestellungen für Lebensmittel nicht sehen. Das geht über einen Klick auf den kleinen Pfeil links oben, in unserem Beispiel mit “View all” betitelt.
+SeaTable wäre keine optimale Lösung für die Büroorganisation, wenn es nicht auch für die Aufgabenverwaltung eine übersichtliche und praktische Funktion parat hätte. Zum einen erstellen wir verschiedene [Ansichten]({{< relref "help/base-editor/ansichten" >}}) für jeden Bearbeiter, damit nur die für ihn jeweiligen Bestellungen sichtbar sind. Denn ein Bearbeiter für Büroequipment muss die Bestellungen für Lebensmittel nicht sehen. Das geht über einen Klick auf den kleinen Pfeil links oben, in unserem Beispiel mit “View all” betitelt.
 
 ![Kanban-Ansicht sämtlicher Bestellungen im indirekten Einkauf](kanban-view-indirekte-beschaffung.png)
 
@@ -105,6 +105,6 @@ Auch in dieser Tabelle werden Informationen aus anderen genutzt. Die Bestellnumm
 
 Die Büroorganisation und gerade die Bestellung von internen Waren kann schnell zur Nebensächlichkeit werden, dabei ist sie wichtig und hält den Betrieb aufrecht. Die Vorlage in diesem gezeigten Blogbeitrag finden Sie direkt in SeaTable. Wählen Sie beim anlegen einer neuen Base einfach die Option: _Mit Vorlage starten_ und Sie finden diese Vorlage im Bereich **Operations**.
 
-Mit SeaTable haben Sie ein starkes Tool an Ihrer Seite, das Sie in diesem und vielen anderen Prozessen exzellent unterstützen kann. Sie können Beispielsweise Ihr [CRM-Angebotsmanagement]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto) damit organisieren, Ihr [Produktmanagement digital aufbauen](https://seatable.io/digitales-produktmanagement/?lang=auto) oder [interne Workshops damit planen](https://seatable.io/mit-internen-workshops-den-unternehmenswert-steigern/?lang=auto).
+Mit SeaTable haben Sie ein starkes Tool an Ihrer Seite, das Sie in diesem und vielen anderen Prozessen exzellent unterstützen kann. Sie können Beispielsweise Ihr [CRM-Angebotsmanagement]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto) damit organisieren, Ihr [Produktmanagement digital aufbauen]({{< relref "posts/digitales-produktmanagement" >}}) oder [interne Workshops damit planen]({{< relref "posts/workshop-planen" >}}).
 
 Probieren Sie unser Template aus und [registrieren Sie sich]({{< relref "pages/registration" >}})! SeaTable ist in der Basis-Version kostenlos.

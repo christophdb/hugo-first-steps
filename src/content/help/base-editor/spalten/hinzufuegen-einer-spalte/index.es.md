@@ -10,7 +10,7 @@ url: '/es/ayuda/hinzufuegen-einer-spalte'
 
 Las tablas de SeaTable constan de columnas y filas. Dentro de una base, puede añadir hasta 500 columnas a una tabla. Para cada columna, tiene la opción individual de seleccionar un tipo de **columna** adecuado en función del tipo de datos.
 
-[Aquí](https://seatable.io/es/docs/spalten/uebersicht-alle-spaltentypen/) encontrará un resumen detallado de todos los tipos de columnas disponibles actualmente en SeaTable.
+[Aquí]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) encontrará un resumen detallado de todos los tipos de columnas disponibles actualmente en SeaTable.
 
 ## Añadir columna
 

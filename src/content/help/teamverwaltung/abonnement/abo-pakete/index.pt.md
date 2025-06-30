@@ -28,9 +28,9 @@ Com SeaTable Enterprise, por 14 euros por mês por utilizador, obtém-se tabelas
 
 ### Nuvem Dedicada
 
-Com a Nuvem Dedicada obtém a sua própria oferta pessoal: Se não quiser armazenar os seus dados numa nuvem pública, pode utilizar o SeaTable a partir de 100 utilizadores através do seu próprio servidor, que nós cuidamos e mantemos. Isto dá-lhe controlo absoluto sobre o seu servidor em termos de URL, logótipo, esquema de cores e modelos. Na Nuvem Dedicada, obtém também um Painel de Administração Empresarial, Single Sign-On via SAML2 e OAuth, bem como Suporte Empresarial opcional. Pode [saber mais](https://seatable.io/pt/dedicated/) aqui.
+Com a Nuvem Dedicada obtém a sua própria oferta pessoal: Se não quiser armazenar os seus dados numa nuvem pública, pode utilizar o SeaTable a partir de 100 utilizadores através do seu próprio servidor, que nós cuidamos e mantemos. Isto dá-lhe controlo absoluto sobre o seu servidor em termos de URL, logótipo, esquema de cores e modelos. Na Nuvem Dedicada, obtém também um Painel de Administração Empresarial, Single Sign-On via SAML2 e OAuth, bem como Suporte Empresarial opcional. Pode [saber mais]({{< relref "pages/product/seatable-dedicated" >}}) aqui.
 
 ### Licença SeaTable Enterprise
 
 Naturalmente, pode adquirir-nos uma licença SeaTable Enterprise. Com isto pode facilmente configurar e operar o seu próprio servidor SeaTable.  
-[Pode encontrar](https://seatable.io/pt/on-premises/) mais informações sobre a licença SeaTable [aqui](https://seatable.io/pt/on-premises/).
+[Pode encontrar]({{< relref "pages/product/seatable-server" >}}) mais informações sobre a licença SeaTable [aqui]({{< relref "pages/product/seatable-server" >}}).

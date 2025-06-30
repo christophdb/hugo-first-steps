@@ -18,4 +18,4 @@ Puede conocer todas las demás características especiales de la primera columna
 
 ## ¿Y si quiero utilizar una primera columna distinta?
 
-Si desea utilizar otra columna como primera columna, puede [ajustar]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) columna y simplemente [copiar y pegar](https://seatable.io/es/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste") los datos de la primera columna anterior en la nueva columna.
+Si desea utilizar otra columna como primera columna, puede [ajustar]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) columna y simplemente [copiar y pegar]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) los datos de la primera columna anterior en la nueva columna.

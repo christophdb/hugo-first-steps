@@ -21,14 +21,14 @@ An overview with all available packages and the limits, functions and possibilit
 
 ## Switch to a more comprehensive subscription package
 
-To get back to working fully with your data, you will need to [upgrade your subscription](https://seatable.io/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) to a more comprehensive subscription package.
+To get back to working fully with your data, you will need to [upgrade your subscription]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) to a more comprehensive subscription package.
 
 ## Delete part of your data
 
 If you don't want to switch to a more extensive subscription package, your only option is to **delete** parts of your data until you **no** longer reach the limits of your current subscription. The following help articles can help you with this:
 
 - [Delete a Base]({{< relref "help/startseite/bases/loeschen-einer-base" >}})
-- [Empty the recycle bin in the team administration](https://seatable.io/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/)
-- [Delete a table from a base](https://seatable.io/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/)
+- [Empty the recycle bin in the team administration]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
+- [Delete a table from a base]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
 - [Delete a row]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Data import and export]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

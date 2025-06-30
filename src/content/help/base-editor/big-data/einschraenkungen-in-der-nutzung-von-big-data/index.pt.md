@@ -15,7 +15,7 @@ Uma vista normal no SeaTable permite o trabalho **colaborativo** **em tempo real
 O armazenamento de grandes volumes de dados oferece-lhe um **armazenamento** amplamente **ilimitado de linhas**, mas também tem algumas limitações. Pode encontrar uma visão geral das **restrições** abaixo:
 
 - As alterações a uma entrada de Big Data **não** são **sincronizadas** em **tempo real** no browser de outro utilizador. As alterações só são visíveis para outros utilizadores após um **recarregamento** da página.
-- **Não é possível partilhar** visualizações de Big Data - nem individualmente nem com [autorizações de partilha definidas pelo utilizador](https://seatable.io/pt/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+- **Não é possível partilhar** visualizações de Big Data - nem individualmente nem com [autorizações de partilha definidas pelo utilizador]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).
 - **Não é possível** criar **novas linhas** numa vista de megadados. Isto deve ser sempre feito numa [vista normal]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
 - Numa vista de grandes volumes de dados, não é possível [ajustar]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}).
 - **Não é possível modificar**[entradas ligadas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) em entradas de grandes volumes de dados. As ligações a linhas na memória de grandes volumes de dados **não** são apresentadas em vistas normais - mas são apresentadas numa vista de grandes volumes de dados.

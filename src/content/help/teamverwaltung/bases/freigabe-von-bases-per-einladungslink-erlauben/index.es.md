@@ -12,7 +12,7 @@ Con un [enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-
 
 [Aquí]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) Dado que el enlace puede copiarse y reenviarse tantas veces como quieras, tiene sentido establecer una contraseña y una fecha de caducidad como **medidas de protección**.
 
-En la **administración del equipo**, puede [ver](https://seatable.io/es/docs/teamverwaltung/bases-in-der-teamverwaltung/) una [lista de todos los enlaces de invitación de una base](https://seatable.io/es/docs/teamverwaltung/bases-in-der-teamverwaltung/). Además, como **administrador del equipo** puedes (des)activar la función del enlace de invitación para otros miembros del equipo. De este modo, evita o permite que los propios miembros del equipo divulguen bases a terceros externos.
+En la **administración del equipo**, puede [ver]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}) una [lista de todos los enlaces de invitación de una base]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}). Además, como **administrador del equipo** puedes (des)activar la función del enlace de invitación para otros miembros del equipo. De este modo, evita o permite que los propios miembros del equipo divulguen bases a terceros externos.
 
 ## Permitir compartir bases mediante enlace de invitación
 

@@ -94,7 +94,7 @@ Mit der entsprechenden Berechtigung können App-Nutzer auf dieser Seite die einz
 
 ## QR-Code für einzelne Einträge generieren
 
-In der Toolbar finden Sie außerdem einen **QR-Code-Generator**. Der QR-Code enthält den Link auf den aktuell angezeigten Eintrag. Auf einem Gegenstand oder Gerät angebracht, können Sie den QR-Code über ein Tablet oder Smartphone scannen und ohne jede Tastatureingabe alle Daten in der App abrufen. Dadurch wird beispielsweise die [Inventarverwaltung]({{< relref "templates/operations/inventory-list" >}})) noch einfacher.
+In der Toolbar finden Sie außerdem einen **QR-Code-Generator**. Der QR-Code enthält den Link auf den aktuell angezeigten Eintrag. Auf einem Gegenstand oder Gerät angebracht, können Sie den QR-Code über ein Tablet oder Smartphone scannen und ohne jede Tastatureingabe alle Daten in der App abrufen. Dadurch wird beispielsweise die [Inventarverwaltung]({{< relref "templates/operations/inventory-list" >}}) noch einfacher.
 
 ![More design options on single record page in SeaTable 5.1](images/SingleRecordPage.png)
 

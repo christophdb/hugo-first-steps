@@ -32,4 +32,4 @@ To get a better overview of your Bases, you have the possibility to move individ
 
 ## Restriction
 
-A Base can only be moved to a folder that belongs to the same **group** as the Base itself. If you want to move a Base to a folder of another group, you must first [copy](https://seatable.io/en/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/) the corresponding Base to [the desired group](https://seatable.io/en/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/).
+A Base can only be moved to a folder that belongs to the same **group** as the Base itself. If you want to move a Base to a folder of another group, you must first [copy]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) the corresponding Base to [the desired group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).

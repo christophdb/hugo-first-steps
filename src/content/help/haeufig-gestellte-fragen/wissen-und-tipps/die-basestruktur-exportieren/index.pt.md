@@ -45,7 +45,7 @@ for table in metadata['tables']:
 
 ## O resultado do guião Python
 
-A saída do guião fornece, por exemplo, o seguinte resultado, que depois se copia e utiliza para um **Entrada no fórum** ou para um [Bilhete de apoio](https://seatable.io/pt/docs/teamverwaltung/ein-support-ticket-eroeffnen/) pode usar.
+A saída do guião fornece, por exemplo, o seguinte resultado, que depois se copia e utiliza para um **Entrada no fórum** ou para um [Bilhete de apoio]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}}) pode usar.
 
 ```
 --- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS ---

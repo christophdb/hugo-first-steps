@@ -34,7 +34,7 @@ Inicie sesión en su [cuenta Zapier](https://zapier.com/app/login) y cree un nue
 
 ![Elija el evento Zapier que más le convenga](images/zapier-example-1.png)
 
-El siguiente paso es conectar su cuenta SeaTable a Zapier (o seleccionar una cuenta SeaTable ya conectada). Si aún no tiene un token de API, tendrá que [generar](https://seatable.io/es/docs/integrationen/zapier-api-tokens-sign-in/) una [clave de API para](https://seatable.io/es/docs/integrationen/zapier-api-tokens-sign-in/) introducirla en Zapier.
+El siguiente paso es conectar su cuenta SeaTable a Zapier (o seleccionar una cuenta SeaTable ya conectada). Si aún no tiene un token de API, tendrá que [generar]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) una [clave de API para]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) introducirla en Zapier.
 
 Tras seleccionar la cuenta adecuada, se le pedirá que configure las opciones de configuración específicas del disparador. Con SeaTable como disparador, tenemos que especificar la tabla y la vista haciendo clic en el menú desplegable y seleccionando las opciones adecuadas (en este caso queremos la tabla "Oportunidades" y la vista "Todas las oportunidades").
 
@@ -86,7 +86,7 @@ A continuación, creamos un nuevo Zap y seleccionamos _Zapier Chrome Extension_ 
 
 ![Trigger: nuevo push en zapier chrome extension](images/zapier-example-10.png)
 
-Configurar la _acción_ tampoco es difícil. Cree un [token de API](https://seatable.io/es/docs/zapier-integration/zapier-api-tokens-sign-in/) para la base que acaba de crear y configure el título y la URL para que se almacenen en las columnas correspondientes de SeaTable. Por último, prueba el Zap y publícalo.
+Configurar la _acción_ tampoco es difícil. Cree un [token de API]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) para la base que acaba de crear y configure el título y la URL para que se almacenen en las columnas correspondientes de SeaTable. Por último, prueba el Zap y publícalo.
 
 ![Trigger: Crear Fila en SeaTable](images/zapier-example-12.png)
 

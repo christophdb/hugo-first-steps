@@ -18,7 +18,7 @@ For a detailed overview of all available **subscription packages** and the featu
 
 ## How can I edit my data again?
 
-In order to continue to fully edit your data, you will need to **switch to** a **subscription package** that grants you **more extensive limits** than your current subscription. The steps required for this can be found in detail in this [help article on upgrading your account](https://seatable.io/en/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+In order to continue to fully edit your data, you will need to **switch to** a **subscription package** that grants you **more extensive limits** than your current subscription. The steps required for this can be found in detail in this [help article on upgrading your account]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 Alternatively, you can delete part of your data until you fall below your current limits again.
 

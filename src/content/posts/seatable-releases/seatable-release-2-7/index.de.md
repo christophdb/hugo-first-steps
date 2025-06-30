@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Heute Morgen wurde [SeaTable Cloud](https://cloud.seatable.io) auf die Version 2.7 aktualisiert. Damit kommen nun auch alle Cloud-Benutzer in den Genuss der neuen Funktionen und Verbesserungen der neuen Version, die bereits seit einigen Tagen für Selbsthoster auf Docker Hub zum Download bereitsteht. Der Tabelleneditor profitierte am meisten von dem Versionswechsel: Die bedingte Zellformatierung, die neue Datenverarbeitungsoperation „Rangliste berechnen“, die erweiterte Spaltenfixierung und die Standardwertfunktion für Datumsspalten bieten eine Menge neuer Funktionalität. Außerhalb des Tabelleneditors sind die passwortgeschützten Bases eine wichtige Verbesserung. Sämtliche Änderungen gibt es – wie immer – im [SeaTable Changelog](https://seatable.io/docs/changelog/version-2-7/).
+Heute Morgen wurde [SeaTable Cloud](https://cloud.seatable.io) auf die Version 2.7 aktualisiert. Damit kommen nun auch alle Cloud-Benutzer in den Genuss der neuen Funktionen und Verbesserungen der neuen Version, die bereits seit einigen Tagen für Selbsthoster auf Docker Hub zum Download bereitsteht. Der Tabelleneditor profitierte am meisten von dem Versionswechsel: Die bedingte Zellformatierung, die neue Datenverarbeitungsoperation „Rangliste berechnen“, die erweiterte Spaltenfixierung und die Standardwertfunktion für Datumsspalten bieten eine Menge neuer Funktionalität. Außerhalb des Tabelleneditors sind die passwortgeschützten Bases eine wichtige Verbesserung. Sämtliche Änderungen gibt es – wie immer – im [SeaTable Changelog]({{< relref "pages/changelog" >}}).
 
 ## Bedingte Formatierung für Spalten
 

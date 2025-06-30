@@ -70,7 +70,7 @@ Selon le même principe, vous pouvez également enregistrer vos comptes et mots 
 
 De nombreux navigateurs offrent également la possibilité d'enregistrer facilement les données de connexion.
 
-Un [gestionnaire de mots de passe](https://seatable.io/fr/digitaler-nachlass/#Mit_welchen_Tools_ein_digitaler_Nachlass_verwaltet_werden_kann) numérique vous permet de gérer vos données d'accès de manière claire et flexible : Ces outils permettent de sauvegarder les comptes et les mots de passe en toute sécurité et de les transmettre à des personnes de confiance en cas de décès. C'est donc l'un des meilleurs moyens d'organiser votre succession numérique.
+Un [gestionnaire de mots de passe]({{< relref "posts/digitaler-nachlass" >}}) numérique vous permet de gérer vos données d'accès de manière claire et flexible : Ces outils permettent de sauvegarder les comptes et les mots de passe en toute sécurité et de les transmettre à des personnes de confiance en cas de décès. C'est donc l'un des meilleurs moyens d'organiser votre succession numérique.
 
 ### 2\. créer un aperçu de votre patrimoine numérique
 

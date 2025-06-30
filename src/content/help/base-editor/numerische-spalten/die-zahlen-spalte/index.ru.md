@@ -18,7 +18,7 @@ url: '/ru/pomoshch/die-zahlen-spalte'
 
 - Продолжительность и периоды = [колонка]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}}) продолжительности
 - Дата и время = [колонка даты]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- Геоинформация = [колонка геопозиции](https://seatable.io/ru/docs/andere-spalten/die-geopositions-spalte/)
+- Геоинформация = [колонка геопозиции]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}})
 
 ## Добавление числового столбца
 

@@ -19,7 +19,7 @@ Beginnen Sie Ihre Umzugsplanung mit einem Brainstorming. Welche Aufgaben muss ic
 
 Eine Checkliste kann helfen, alle Aufgaben im Blick zu behalten.
 
-Eine Checkliste für Ihren Umzug finden Sie auch in unserer [Vorlage](https://seatable.io/umzug/#Online-Planer_fuer_Ihren_Umzug).
+Eine Checkliste für Ihren Umzug finden Sie auch in unserer [Vorlage]({{< relref "posts/umzug" >}}).
 
 ## Vor dem Umzug
 
@@ -94,7 +94,7 @@ Wie viel Unterstützung Sie von einer Firma in Anspruch nehmen wollen, bleibt Ih
 
 ### Für Sparfüchse: Umzug selbst organisieren
 
-Möchten Sie Kosten sparen, ist der **Umzug in Eigenregie** genau das Richtige. Dafür wird aber auch der Organisationsaufwand höher. Denn alles, was bei der Umzugsfirma inklusive ist, fällt nun in Ihre eigenen Hände. Doch mit einer guten Planung steht auch diesem Vorhaben nichts im Weg. Dabei hilft Ihnen ein [Umzugsplan](https://seatable.io/umzug/#Online-Planer_fuer_Ihren_Umzug), welcher Sie bei allen Schritten auf Ihrem Weg unterstützt.
+Möchten Sie Kosten sparen, ist der **Umzug in Eigenregie** genau das Richtige. Dafür wird aber auch der Organisationsaufwand höher. Denn alles, was bei der Umzugsfirma inklusive ist, fällt nun in Ihre eigenen Hände. Doch mit einer guten Planung steht auch diesem Vorhaben nichts im Weg. Dabei hilft Ihnen ein [Umzugsplan]({{< relref "posts/umzug" >}}), welcher Sie bei allen Schritten auf Ihrem Weg unterstützt.
 
 ![Kosten, welche während Ihres Umzugs auf Sie zu kommen.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 

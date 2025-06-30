@@ -27,13 +27,13 @@ El siguiente artículo le ofrece una visión general de cuándo es la opción de
 
 ## 1\. recuperación de bases borradas
 
-Si ha borrado una base entera, puede restaurarla mediante una papelera de reciclaje en la página de inicio de SeaTable. Puedes ver cómo funciona en el artículo [Restaurar una base eliminada](https://seatable.io/es/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Si ha borrado una base entera, puede restaurarla mediante una papelera de reciclaje en la página de inicio de SeaTable. Puedes ver cómo funciona en el artículo [Restaurar una base eliminada]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. recuperación de filas, columnas o tablas borradas
 
 Recuperar filas, columnas o tablas individuales eliminadas es probablemente la solicitud de recuperación más frecuente. Afortunadamente, esto se puede hacer muy rápidamente a través de la papelera de reciclaje de una base.
 
-Encontrará más información al respecto en el artículo [Recuperar tablas, filas y columnas de la papelera de reciclaje](https://seatable.io/es/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/).
+Encontrará más información al respecto en el artículo [Recuperar tablas, filas y columnas de la papelera de reciclaje]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}).
 
 Puede acceder a la Papelera de reciclaje de la base haciendo clic en el icono de versiones de la esquina superior derecha. En este menú desplegable también encontrará otras opciones de restauración, que se explican a continuación.
 
@@ -43,7 +43,7 @@ Puede acceder a la Papelera de reciclaje de la base haciendo clic en el icono de
 
 Probablemente conozcas la combinación de teclas {{< key "CTRL" >}} + {{< key "Z" >}}para deshacer la última acción. SeaTable también ofrece exactamente esta función. Además, puede ejecutarse con un clic del ratón en el menú desplegable que se muestra arriba.
 
-Encontrará más detalles en el artículo de ayuda correspondiente [Deshacer acciones](https://seatable.io/es/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
+Encontrará más detalles en el artículo de ayuda correspondiente [Deshacer acciones]({{< relref "help/base-editor/historie-und-versionen/aktionen-rueckgaengig-machen" >}}).
 
 ## 4\. deshacer cambios a través de los registros
 
@@ -61,6 +61,6 @@ Para más información, consulta los artículos [Guardar la base actual como ins
 
 ## Importar una base guardada como archivo DTABLE
 
-Puedes exportar una base como archivo DTABLE en cualquier momento y guardar así una copia de seguridad completa en tu dispositivo. Lea el artículo [Guardar una base como archivo DTABLE](https://seatable.io/es/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) para saber cómo hacerlo y qué debe tener en cuenta.
+Puedes exportar una base como archivo DTABLE en cualquier momento y guardar así una copia de seguridad completa en tu dispositivo. Lea el artículo [Guardar una base como archivo DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) para saber cómo hacerlo y qué debe tener en cuenta.
 
 En el artículo [Creación de una base a partir de un archivo DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) se explica cómo volver a importar un archivo de este tipo a SeaTable.

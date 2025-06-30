@@ -30,4 +30,8 @@ O SeaTable permite-lhe **eliminar** **ficheiros** e **imagens de** diferentes fo
 
 ![Eliminar anexos.](images/Loeschen-von-Anhaengen.gif)
 
-{{< warning  headline="Atenção"  text="As imagens e os ficheiros eliminados continuam a fazer parte da base e, por isso, **não são** permanentemente eliminados. Leia os artigos [Aceder a ficheiros e imagens eliminados](https://seatable.io/pt/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) e [Como remover ficheiros permanentemente](https://seatable.io/pt/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  headline="Atenção" >}}
+
+As imagens e os ficheiros eliminados continuam a fazer parte da base e, por isso, **não são** permanentemente eliminados. Leia os artigos [Aceder a ficheiros e imagens eliminados]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) e [Como remover ficheiros permanentemente]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}

@@ -61,4 +61,4 @@ Après le déclenchement du trigger, la notification définie est automatiquemen
 
 ### D'autres articles utiles dans la rubrique Notifications :
 
-- [Modifier et supprimer les règles de notification](https://seatable.io/fr/docs/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen/)
+- [Modifier et supprimer les règles de notification]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen" >}})

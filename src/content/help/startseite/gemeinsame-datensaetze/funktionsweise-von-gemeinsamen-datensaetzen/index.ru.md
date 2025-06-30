@@ -25,13 +25,13 @@ url: '/ru/pomoshch/funktionsweise-von-gemeinsamen-datensaetzen'
 
 Сначала опубликуйте любое табличное представление вместе с его специфическими условиями фильтрации и сортировки как общий набор данных.
 
-[Узнайте больше о создании общей записи.](https://seatable.io/ru/docs/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes/)
+[Узнайте больше о создании общей записи.]({{< relref "help/startseite/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes" >}})
 
 ## Управление общим набором данных
 
 Вы хотите изменить название общей записи данных или узнать, какие базы связаны с этой записью данных?
 
-[Узнайте больше об управлении общим набором данных.](https://seatable.io/ru/docs/gemeinsame-datensaetze/verwaltung-eines-gemeinsamen-datensatzes/)
+[Узнайте больше об управлении общим набором данных.]({{< relref "help/startseite/gemeinsame-datensaetze/verwaltung-eines-gemeinsamen-datensatzes" >}})
 
 ## Совместное использование общей записи с другой группой
 
@@ -43,32 +43,32 @@ url: '/ru/pomoshch/funktionsweise-von-gemeinsamen-datensaetzen'
 
 Вы можете синхронизировать каждую созданную вами таблицу с общим набором данных. SeaTable сравнивает данные в таблице с данными в общем наборе данных. Они перезаписываются, если вы или члены вашей группы внесли изменения в общий набор данных после последней синхронизации.
 
-[Узнайте больше о синхронизации общего набора данных.](https://seatable.io/ru/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/)
+[Узнайте больше о синхронизации общего набора данных.]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}})
 
 ## Создайте новую таблицу с общей записью
 
 Если вы или члены вашей команды хотите использовать общий набор данных, вы можете импортировать его в базу. Для этого создайте новую таблицу с общим набором данных.
 
-[Узнайте больше о создании новой таблицы с общей записью.](https://seatable.io/ru/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/)
+[Узнайте больше о создании новой таблицы с общей записью.]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}})
 
 ## Добавление столбцов в таблицу, созданную с помощью общей записи
 
 После того, как вы импортировали общий набор данных в виде новой таблицы в нужную базу, вы можете расширить таблицу собственными столбцами по своему усмотрению.
 
-[Узнайте, как добавить столбцы в таблицу, созданную на основе общего набора данных.](https://seatable.io/ru/docs/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern/)
+[Узнайте, как добавить столбцы в таблицу, созданную на основе общего набора данных.]({{< relref "help/startseite/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern" >}})
 
 ## Повторный импорт записей общих данных
 
 Если вы копируете базы, в которые интегрированы записи общих данных, или восстанавливаете их из моментальных снимков, связь с записями общих данных теряется. Хотя данные затем доступны в обычной таблице, их больше нельзя синхронизировать.
 
-[Здесь вы узнаете, как повторно импортировать записи общих данных в существующие таблицы.](https://seatable.io/ru/docs/gemeinsame-datensaetze/reimport-von-gemeinsamen-datensaetzen/)
+[Здесь вы узнаете, как повторно импортировать записи общих данных в существующие таблицы.]({{< relref "help/startseite/gemeinsame-datensaetze/reimport-von-gemeinsamen-datensaetzen" >}})
 
 ## Удаление общей записи
 
 Общие наборы данных, конечно, также можно удалить. Однако обратите внимание, что удаление влияет как на данные общего набора данных, так и на таблицы, которые вы и члены вашей группы создали с помощью общего набора данных.
 
-[Узнайте больше об удалении общей записи.](https://seatable.io/ru/docs/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes/)
+[Узнайте больше об удалении общей записи.]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}})
 
 ### Больше полезных статей в разделе Общие наборы данных
 
-- [Почему общие записи работают только в группах?](https://seatable.io/ru/docs/gemeinsame-datensaetze/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen/)
+- [Почему общие записи работают только в группах?]({{< relref "help/startseite/gemeinsame-datensaetze/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen" >}})

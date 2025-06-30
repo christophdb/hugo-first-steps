@@ -143,7 +143,7 @@ Grafiker werden sich nur für die Artikel interessieren, die überhaupt eine Gra
 
 Individuelle Ansichten für jeden Mitarbeiter
 
-Jeder Mitarbeiter weiß genau, bei wem die Aufgabe gerade liegt und wer als nächstes daran arbeiten muss. So vermeiden Sie Wartezeiten und Verwirrung. Sobald ein Autor seinen Draft geschrieben hat, ändert er den Status des Artikels und übergibt diesen zur Qualitätskontrolle an den nächsten Mitarbeiter. Sollte eine Abstimmung zwischen den Mitarbeitern notwendig sein, kann dies ganz einfach über die [Kommentarfunktion](https://seatable.io/docs/handbuch/zusammenarbeit/kommentare/) innerhalb von SeaTable erledigt werden.
+Jeder Mitarbeiter weiß genau, bei wem die Aufgabe gerade liegt und wer als nächstes daran arbeiten muss. So vermeiden Sie Wartezeiten und Verwirrung. Sobald ein Autor seinen Draft geschrieben hat, ändert er den Status des Artikels und übergibt diesen zur Qualitätskontrolle an den nächsten Mitarbeiter. Sollte eine Abstimmung zwischen den Mitarbeitern notwendig sein, kann dies ganz einfach über die [Kommentarfunktion]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) innerhalb von SeaTable erledigt werden.
 
 ![Teamkommunikation in SeaTable](seatable-comments.png)
 

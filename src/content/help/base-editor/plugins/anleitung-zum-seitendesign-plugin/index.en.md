@@ -21,10 +21,10 @@ Read the article [Activating a plugin in a base]({{< relref "help/base-editor/pl
 3. Select the option **Create blank page**.
    ![Select the option Create blank page](images/create-blank-page.png)
 4. Here you can make the following **settings**:
-   - Select the **table** from which you want to use data.
-   - Decide on a **paper size**.
-   - Specify **portrait format** or **landscape format** for the page layout.
-   ![Settings of a page in the page design plugin](images/settings-page-design-plugin.png)
+    - Select the **table** from which you want to use data.
+    - Decide on a **paper size**.
+    - Specify **portrait format** or **landscape format** for the page layout.
+      ![Settings of a page in the page design plugin](images/settings-page-design-plugin.png)
 
 {{< warning headline="Second option" text="The second option is **Import from file**. However, you must first have exported an existing page design as a JSON file." />}}
 
@@ -142,7 +142,7 @@ You can use the **frame radius** to **round off** the **corners** of the frame u
 
 ## Static image
 
-A **static image** offers you the option of integrating **image files** such as logos, graphics or background images into a page to create a basic page layout. In contrast to images that originate from [image columns](({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) of your table, a static image does not change and remains the same regardless of the entries in the table. However, you must upload the corresponding image file **manually**.
+A **static image** offers you the option of integrating **image files** such as logos, graphics or background images into a page to create a basic page layout. In contrast to images that originate from [image columns]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) of your table, a static image does not change and remains the same regardless of the entries in the table. However, you must upload the corresponding image file **manually**.
 
 ### Change the position and size of the image
 
@@ -281,10 +281,12 @@ Alternatively, you can also change the height directly on the page by clicking o
 You can insert six different elements in headers and footers.
 
 **Static elements**:
+
 - Static text
 - Static image
 
 **Dynamic elements**:
+
 - Current date
 - Page number
 - Template name

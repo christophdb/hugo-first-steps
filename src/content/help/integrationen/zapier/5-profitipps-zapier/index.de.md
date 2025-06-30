@@ -12,11 +12,11 @@ Mithilfe von Zapier erstellen Sie in wenigen Minuten eine Schnittstelle zwischen
 
 ## 1\. Greifen Sie auf verlinkte Tabelleninhalte mit Lookup-Spalten zu
 
-SeaTable erlaubt es, Datensätze über zwei Tabellen hinweg miteinander zu verknüpfen. Weitere Details finden Sie in [diesem Hilfeartikel](https://seatable.io/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
+SeaTable erlaubt es, Datensätze über zwei Tabellen hinweg miteinander zu verknüpfen. Weitere Details finden Sie in [diesem Hilfeartikel]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}).
 
 ![Verlinkung in SeaTable](images/zapier-linked-columns.png)
 
-Nun gibt es eine Besonderheit: anstatt wie in SeaTable den gewünschten Wert (in diesem Fall Marion) anzuzeigen, liefert Zapier bei einer Link-Spalte immer die Zeilen-ID des verlinkten Eintrags. Wenn Sie wie hier dargestellt auf den Wert _Marion_ oder andere Spalten des verlinkten Eintrags zugreifen wollen, müssen Sie [Lookup-Spalten](https://seatable.io/docs/verknuepfungen/die-lookup-funktion/) anlegen, über die Sie dann auf die gewünschten Werte zugreifen können. In diesem Beispiel müsste man somit eine weitere Lookup-Spalte mit dem Namen anlegen.
+Nun gibt es eine Besonderheit: anstatt wie in SeaTable den gewünschten Wert (in diesem Fall Marion) anzuzeigen, liefert Zapier bei einer Link-Spalte immer die Zeilen-ID des verlinkten Eintrags. Wenn Sie wie hier dargestellt auf den Wert _Marion_ oder andere Spalten des verlinkten Eintrags zugreifen wollen, müssen Sie [Lookup-Spalten]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) anlegen, über die Sie dann auf die gewünschten Werte zugreifen können. In diesem Beispiel müsste man somit eine weitere Lookup-Spalte mit dem Namen anlegen.
 
 ![linked columns in zapier](images/zapier-linked-columns2.png)
 

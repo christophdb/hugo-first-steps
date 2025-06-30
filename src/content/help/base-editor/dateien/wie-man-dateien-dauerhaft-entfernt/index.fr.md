@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/wie-man-dateien-dauerhaft-entfernt'
 ---
 
-**Les fichiers**, **images** et **signatures** que vous **supprimez** dans un tableau continuent à être présents dans le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de la base. Pour les supprimer définitivement, vous devez également supprimer les fichiers de la gestion des fichiers.
+**Les fichiers**, **images** et **signatures** que vous **supprimez** dans un tableau continuent à être présents dans le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la base. Pour les supprimer définitivement, vous devez également supprimer les fichiers de la gestion des fichiers.
 
 ## Supprimer des fichiers du gestionnaire de fichiers
 

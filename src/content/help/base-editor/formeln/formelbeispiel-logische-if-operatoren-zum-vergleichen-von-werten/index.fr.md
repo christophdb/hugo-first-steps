@@ -39,7 +39,7 @@ Après l'opérateur, vous définissez les **conditions** concrètes qui doivent 
 
 ![Ajouter une condition à la formule](images/Eine-Bedingung-zur-Formel-hinzufuegen.png)
 
-Pour remplir la formule de politesse avec les **noms** respectifs, faites référence aux colonnes "Prénom" et/ou "Nom" à l'aide d'accolades. En savoir plus sur la [fusion de colonnes de texte à l'aide d'une formule](https://seatable.io/fr/docs/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel/).
+Pour remplir la formule de politesse avec les **noms** respectifs, faites référence aux colonnes "Prénom" et/ou "Nom" à l'aide d'accolades. En savoir plus sur la [fusion de colonnes de texte à l'aide d'une formule]({{< relref "help/base-editor/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel" >}}).
 
 Vous pouvez ensuite répéter les étapes décrites pour définir une condition pour **chaque valeur** de la colonne "sexe". Vous devez toujours séparer les différentes conditions par une **virgule**. Avant de confirmer, il faut absolument **fermer toutes les parenthèses** pour que la formule soit acceptée comme valable.
 

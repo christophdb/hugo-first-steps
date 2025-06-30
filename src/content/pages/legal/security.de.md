@@ -70,7 +70,7 @@ Wir aktualisieren alle Software-Komponenten von SeaTable Cloud regelmäßig. Die
 
 Alle Benutzerdaten werden regelmäßig in einem örtlich getrennten Rechenzentrum gesichert (siehe Datenspeicherung). Im Katastrophenfall kann damit der Dienst innerhalb kurzer Zeit wiederhergestellt werden. Der Datenverlust beschränkt sich auf die seit der letzten Sicherung vorgenommenen Änderungen.
 
-Für den Fall unbeabsichtigter Datenlöschungen und -änderungen durch Benutzer bietet SeaTable unterschiedliche Wiederherstellungsfunktionen: Gelöschte Bases liegen 30 Tagen im Papierkorb, bevor Sie dauerhaft gelöscht werden. Frühere Versionsstände von Bases können über die integrierte Snapshot-Funktion wiederhergestellt werden. Einzelne Änderungen lassen sich über das Protokoll nachvollziehen und rückgängig machen. Die Dauer, für die Snapshots und das Protokoll gespeichert werden, ist vom [Abonnement]({{< relref "pages/prices" >}}) abhängig, beträgt aber mindestens 1 Monat. Mehr Informationen über SeaTables Funktionen zur Wiederherstellung früherer Datenstände finden Sie im SeaTable Handbuch im Abschnitt [Möglichkeiten der Datenwiederherstellung mit SeaTable](https://seatable.io/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/).
+Für den Fall unbeabsichtigter Datenlöschungen und -änderungen durch Benutzer bietet SeaTable unterschiedliche Wiederherstellungsfunktionen: Gelöschte Bases liegen 30 Tagen im Papierkorb, bevor Sie dauerhaft gelöscht werden. Frühere Versionsstände von Bases können über die integrierte Snapshot-Funktion wiederhergestellt werden. Einzelne Änderungen lassen sich über das Protokoll nachvollziehen und rückgängig machen. Die Dauer, für die Snapshots und das Protokoll gespeichert werden, ist vom [Abonnement]({{< relref "pages/prices" >}}) abhängig, beträgt aber mindestens 1 Monat. Mehr Informationen über SeaTables Funktionen zur Wiederherstellung früherer Datenstände finden Sie im SeaTable Handbuch im Abschnitt [Möglichkeiten der Datenwiederherstellung mit SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}}).
 
 Sie können Ihre Daten jederzeit aus SeaTable heraus exportieren. SeaTable bietet dafür drei Optionen:
 
@@ -78,7 +78,7 @@ Sie können Ihre Daten jederzeit aus SeaTable heraus exportieren. SeaTable biete
 - Export über das Webinterface in eine DTABLE-Datei
 - Export über die API
 
-Mehr Informationen über das [DTABLE-Dateiformat](https://seatable.io/docs/handbuch/expertenwissen/dtable-dateiformat/) finden Sie im SeaTable Handbuch. Die SeaTable API ist vollständig in der [API-Dokumentation](https://api.seatable.com/) beschrieben.
+Mehr Informationen über das [DTABLE-Dateiformat]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) finden Sie im SeaTable Handbuch. Die SeaTable API ist vollständig in der [API-Dokumentation](https://api.seatable.com/) beschrieben.
 
 ## Audits und Zertifizierung
 

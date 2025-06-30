@@ -33,4 +33,4 @@ En confirmant la suppression, vous déclenchez immédiatement les actions suivan
 
 ## Résilier l'abonnement et conserver l'équipe
 
-Si vous annulez votre abonnement, mais que vous souhaitez conserver l'équipe créée, vous pouvez revenir à un compte gratuit. Lisez l'article [Résilier l'abonnement](https://seatable.io/fr/docs/abo-abrechnung/das-abo-kuendigen/) pour savoir comment procéder.
+Si vous annulez votre abonnement, mais que vous souhaitez conserver l'équipe créée, vous pouvez revenir à un compte gratuit. Lisez l'article [Résilier l'abonnement]({{< relref "help/teamverwaltung/abonnement/das-abo-kuendigen" >}}) pour savoir comment procéder.

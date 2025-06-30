@@ -13,7 +13,7 @@ url: '/ru/pomoshch/externe-links-und-einladungs-links-loeschen'
 ## Способы удаления внешних ссылок и пригласительных ссылок
 
 - Удаление через значок поделиться {{< seatable-icon icon="dtable-icon-share" >}} для баз или просмотров
-- Удаление через [администрацию команды](https://seatable.io/ru/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+- Удаление через [администрацию команды]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Примечание"  text="Внешние ссылки доступны для баз и видов, пригласительные ссылки - только для баз." />}}
 
@@ -43,7 +43,11 @@ url: '/ru/pomoshch/externe-links-und-einladungs-links-loeschen'
 7. Подтвердите удаление, активировав кнопку **Контроллер** и нажмите на **Удалить ссылку на приглашение** (для пригласительных ссылок) или **Удалить релиз** (для внешних ссылок).  
    ![Подтвердите удаление](images/confirm-delete-invitation-and-external-links-way2.jpg)
 
-{{< warning  headline="Работает только с базовыми ссылками"  text="Вы не можете удалить [внешнюю ссылку для представления](https://seatable.io/ru/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/) через администрацию команды, но только через значок общего доступа для представлений." />}}
+{{< warning  headline="Работает только с базовыми ссылками" >}}
+
+Вы не можете удалить [внешнюю ссылку для представления]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) через администрацию команды, но только через значок общего доступа для представлений.
+
+{{< /warning >}}
 
 ## Последствия удаления
 
@@ -57,7 +61,11 @@ url: '/ru/pomoshch/externe-links-und-einladungs-links-loeschen'
 
 После удаления пригласительной ссылки **больше никто из пользователей не** сможет получить доступ к общей базе.
 
-{{< warning  headline="Приглашенные пользователи сохраняют доступ"  text="Пользователи, принявшие ваше приглашение до того, как ссылка была удалена, по-прежнему могут получить доступ к общей базе и числятся в списке [общих ресурсов пользователей](https://seatable.io/ru/docs/freigaben/anlegen-einer-benutzerfreigabe/). Однако вы, конечно, можете удалить общий ресурс там." />}}
+{{< warning  headline="Приглашенные пользователи сохраняют доступ" >}}
+
+Пользователи, принявшие ваше приглашение до того, как ссылка была удалена, по-прежнему могут получить доступ к общей базе и числятся в списке [общих ресурсов пользователей]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Однако вы, конечно, можете удалить общий ресурс там.
+
+{{< /warning >}}
 
 ### Удаление внешней ссылки
 

@@ -106,7 +106,7 @@ In Ihrem Content Plan sollten mindestens **Spalten für einen Arbeitstitel oder 
 
 ### 5\. Allgemeine Richtlinien für Ihren Content festlegen
 
-Steht die Planung des Contents, sollten Sie in einem [Workshop](https://seatable.io/workshop-planen/) Content-Guidelines mit Ihrem Team erarbeiten und dokumentieren. So erreichen Sie, dass die Inhalte auch über einen längeren Zeitraum bei mehreren Beteiligten gleichbleibende Qualität erreichen.
+Steht die Planung des Contents, sollten Sie in einem [Workshop]({{< relref "posts/workshop-planen" >}}) Content-Guidelines mit Ihrem Team erarbeiten und dokumentieren. So erreichen Sie, dass die Inhalte auch über einen längeren Zeitraum bei mehreren Beteiligten gleichbleibende Qualität erreichen.
 
 Hier geht es zum Beispiel um die **Anrede der Leser, Tonalität der Texte, Verwendung von Emojis und Hashtags, Auflösung und Größe der Bilder, Links, Formatierungen und mehr**. Die Richtlinien runden den Redaktionsplan ab und machen ihn einsatzbereit. Wenn Sie mit Freelancern oder einer Agentur zusammenarbeiten, helfen Guidelines, den Content genau in Ihrem Sinne zu erstellen.
 
@@ -116,7 +116,7 @@ Mit der kostenlosen [Contentplan Vorlage]({{< relref "templates/marketing/editor
 
 ### 1\. Sinnvolle Strukturierung mit Kategorien
 
-Mit den Einfachauswahl-Spalten können Sie beliebig viele Kategorien erstellen. Der Vorteil daran ist, dass Sie später **gruppieren, filtern oder statistische Auswertungen vornehmen** können. Lassen Sie sich zum Beispiel alle unveröffentlichten Blogartikel oder nur Ihren [Content Plan Social Media](https://seatable.io/social-media-plan-vorlage/) anzeigen.
+Mit den Einfachauswahl-Spalten können Sie beliebig viele Kategorien erstellen. Der Vorteil daran ist, dass Sie später **gruppieren, filtern oder statistische Auswertungen vornehmen** können. Lassen Sie sich zum Beispiel alle unveröffentlichten Blogartikel oder nur Ihren [Content Plan Social Media]({{< relref "templates/marketing/social-media-plan" >}}) anzeigen.
 
 ### 2\. Bilder und Dokumente im Contentplan speichern
 
@@ -128,7 +128,7 @@ Um den zeitlichen Überblick zu behalten, können Sie **mit einem Klick von der 
 
 ### 4\. Spielend leichte Kommunikation im Redaktionsplan
 
-Die Kommunikation zur Planung von Beiträgen erstreckt sich manchmal über diverse E-Mails, interne Chats oder Dokumente. Das kann schnell unübersichtlich werden. Mit SeaTable sind alle Nachrichten an einem Ort gebündelt: **Kommunizieren Sie direkt im Redaktionsplan Ihr Feedback**. Das funktioniert sehr effizient über die [Kommentarfunktion](https://seatable.io/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) in den einzelnen Zeilen. Im [Log](https://seatable.io/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) können Sie **alle Änderungen nachverfolgen** – so ist immer klar, wer im Redaktionsplan welche Änderungen vorgenommen hat.
+Die Kommunikation zur Planung von Beiträgen erstreckt sich manchmal über diverse E-Mails, interne Chats oder Dokumente. Das kann schnell unübersichtlich werden. Mit SeaTable sind alle Nachrichten an einem Ort gebündelt: **Kommunizieren Sie direkt im Redaktionsplan Ihr Feedback**. Das funktioniert sehr effizient über die [Kommentarfunktion]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) in den einzelnen Zeilen. Im [Log]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) können Sie **alle Änderungen nachverfolgen** – so ist immer klar, wer im Redaktionsplan welche Änderungen vorgenommen hat.
 
 ![Kommunikation leicht gemacht - Anmerkungen können Sie direkt im Contentplan machen](Team-communication.jpg)
 
@@ -136,7 +136,7 @@ Einfache und direkte Kommunikation im Redaktionsplanplan
 
 ### 5\. Mit Statistiken Klarheit schaffen
 
-Sie möchten mit verschiedenen Daten experimentieren und Ihren Content nach Ihren Wünschen auswerten? Dann **erstellen Sie mit SeaTable aussagekräftige [Statistiken](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/)**. Analysieren Sie zum Beispiel, in welchen Monaten Sie besonders viele Beiträge veröffentlicht haben, welcher Mitarbeiter die meisten Beiträge geschrieben hat oder auf welchem Kanal der Content am erfolgreichsten war. Das bietet viele wertvolle Einblicke, wo es gut läuft – und an welchen Stellen es vielleicht noch Verbesserungsbedarf gibt.
+Sie möchten mit verschiedenen Daten experimentieren und Ihren Content nach Ihren Wünschen auswerten? Dann **erstellen Sie mit SeaTable aussagekräftige [Statistiken]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})**. Analysieren Sie zum Beispiel, in welchen Monaten Sie besonders viele Beiträge veröffentlicht haben, welcher Mitarbeiter die meisten Beiträge geschrieben hat oder auf welchem Kanal der Content am erfolgreichsten war. Das bietet viele wertvolle Einblicke, wo es gut läuft – und an welchen Stellen es vielleicht noch Verbesserungsbedarf gibt.
 
 ![Statistiken geben wertvolle Einblicke, wie gut der Content performt](Statistics.jpg)
 
@@ -150,6 +150,6 @@ Alles in allem sollten Sie darauf achten, dass …
 
 ## Fazit zum Contentplan
 
-Wenn Sie einen [Marketingplan](https://seatable.io/marketingplan-vorlage/) erstellen gehört ein übersichtlicher Contentplan dazu, um den Überblick über die geplanten Inhalte, Termine, Aufgaben sowie deren Status zu behalten. So lassen sich Beiträge im Team erfolgreich planen und verwirklichen.
+Wenn Sie einen [Marketingplan]({{< relref "templates/marketing/content-calendar" >}}) erstellen gehört ein übersichtlicher Contentplan dazu, um den Überblick über die geplanten Inhalte, Termine, Aufgaben sowie deren Status zu behalten. So lassen sich Beiträge im Team erfolgreich planen und verwirklichen.
 
 Wenn wir Ihr Interesse an SeaTable geweckt haben, [registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) in unserer Cloud und beginnen Sie direkt mit der Contentplan Vorlage zu arbeiten.

@@ -32,7 +32,7 @@ Wenn Sie Ihre To do Liste in einer App notieren, dient dies als eine Art **Ablag
 
 ### Struktur in die Arbeit bringen
 
-Auf der Arbeit können Sie mit einer To-do-Liste **Ihren Tag planen**. Verschieben Sie neue Aufgaben in entsprechende Kategorien, vergeben Sie Fristen, Prioritäten und Verantwortliche. Egal, wann und wo Ihnen eine Aufgabe einfällt, Sie können diese schnell dokumentieren. Das gilt für Ihre eigenen Aufgaben genauso wie für die [Arbeit in Teamprojekten](https://seatable.io/perfekte-aufgabenverwaltung-im-projektmanagement/).
+Auf der Arbeit können Sie mit einer To-do-Liste **Ihren Tag planen**. Verschieben Sie neue Aufgaben in entsprechende Kategorien, vergeben Sie Fristen, Prioritäten und Verantwortliche. Egal, wann und wo Ihnen eine Aufgabe einfällt, Sie können diese schnell dokumentieren. Das gilt für Ihre eigenen Aufgaben genauso wie für die [Arbeit in Teamprojekten]({{< relref "posts/aufgabenverwaltung" >}}).
 
 ### Zusammenhänge erkennen
 
@@ -78,7 +78,7 @@ Die einzelnen To-dos können Sie sortieren, mit einer Frist versehen und abhaken
 
 ### Projoodle: Eine an Doodle angelehnte To-do-Liste
 
-[Projoodle](https://www.projoodle.com/de) möchte vor allem die Zusammenarbeit mit Freunden erleichtern. Ähnlich wie beim Versenden eines [Doodle](https://seatable.io/umfrage-erstellen/)\-Links für Termine soll auch die Aufgabenverwaltung ohne Log-in funktionieren. Mit diesem Ziel im Blick entstand das Projekt Projoodle.
+[Projoodle](https://www.projoodle.com/de) möchte vor allem die Zusammenarbeit mit Freunden erleichtern. Ähnlich wie beim Versenden eines [Doodle]({{< relref "posts/umfrage-erstellen" >}})\-Links für Termine soll auch die Aufgabenverwaltung ohne Log-in funktionieren. Mit diesem Ziel im Blick entstand das Projekt Projoodle.
 
 Mit Projoodle erhalten Sie eine kostenlose App für To do Listen, die einfach zu erstellen, zu teilen und zu verwalten sind. Als weiteres Feature gibt es eine Kanban-Board-Ansicht, mit der Sie die Aufgaben übersichtlich nach Status gruppieren können. Die Möglichkeiten zum Sortieren und Terminieren der Aufgaben fallen allerdings spärlich aus.
 
@@ -94,9 +94,9 @@ Die Erinnerungen lassen sich in jeder Liste übersichtlich sortieren und in Absc
 
 ## SeaTable: Der Allrounder für alle Arten von Listen
 
-SeaTable ist eine Online-Datenbank, mit der Sie Aufgaben, Informationen, Prozesse und Ideen einfach und übersichtlich organisieren können. Sie profitieren von einer klassischen Listenansicht oder können alternative Darstellungsformen wie das [Kanban-Board](https://seatable.io/docs/plugins/anleitung-zum-kanban-plugin/), den [Kalender](https://seatable.io/docs/plugins/anleitung-zum-kalender-plugin/) oder ein [Gantt-Diagramm](https://seatable.io/docs/plugins/anleitung-zum-timeline-plugin/) verwenden.
+SeaTable ist eine Online-Datenbank, mit der Sie Aufgaben, Informationen, Prozesse und Ideen einfach und übersichtlich organisieren können. Sie profitieren von einer klassischen Listenansicht oder können alternative Darstellungsformen wie das [Kanban-Board]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), den [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) oder ein [Gantt-Diagramm]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) verwenden.
 
-Interessant ist außerdem, dass Sie [Dateien](https://seatable.io/docs/dateien-und-bilder/die-datei-spalte/) und [Bilder](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/) hochladen und an Aufgaben anhängen können. Ebenso können Sie beliebig viele Informationen wie ein Datum, eine Priorität und Unteraufgaben in weiteren Spalten hinzufügen.
+Interessant ist außerdem, dass Sie [Dateien]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) und [Bilder]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) hochladen und an Aufgaben anhängen können. Ebenso können Sie beliebig viele Informationen wie ein Datum, eine Priorität und Unteraufgaben in weiteren Spalten hinzufügen.
 
 Im Vergleich aller betrachteten Apps hat SeaTable den mit Abstand **größten Funktionsumfang** und überzeugt mit jeder Menge **Flexibilität**. So erhalten Sie in einer App alles, was Sie für Ihre To do Liste brauchen. Dank der vielen **kollaborativen Funktionen** (Kommentare, gemeinsame Datensätze, synchrones Arbeiten in Echtzeit etc.) können Sie nicht nur an eigenen Listen, sondern auch erfolgreich im Team zusammenarbeiten.
 

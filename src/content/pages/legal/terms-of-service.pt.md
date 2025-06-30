@@ -20,7 +20,7 @@ SeaTable GmbH (“we” or “us”) provides the cloud service SeaTable Cloud, 
 
 If you use SeaTable on behalf of organization (i.e., a public entity or an enterprise), you agree to these Terms on behalf of that organization, and warrant that you have the authority to agree to these Terms on the organization’s behalf. In that case, “you” and “your” refers to this organization.
 
-The Terms may be updated by us without prior notice. The current version of the Terms is always available at https://seatable.io/terms-of-service/. We recommend you come back to this site regularly to review the Terms. We will inform you about material changes of the Terms at our own discretion by e-mail or notification. If you do not agree to the updated Terms, discontinue using SeaTable immediately. By continuing to use SeaTable without objection for more than 6 weeks after receipt of the updated Terms, you agree to the updated Terms. The right of both parties to terminate without notice for good cause remains unaffected.
+The Terms may be updated by us without prior notice. The current version of the Terms is always available at https://seatable.com/terms-of-service/. We recommend you come back to this site regularly to review the Terms. We will inform you about material changes of the Terms at our own discretion by e-mail or notification. If you do not agree to the updated Terms, discontinue using SeaTable immediately. By continuing to use SeaTable without objection for more than 6 weeks after receipt of the updated Terms, you agree to the updated Terms. The right of both parties to terminate without notice for good cause remains unaffected.
 
 ## Operation and Hosting
 
@@ -34,7 +34,7 @@ SeaTable is protected by copyright, trademark, patent, trade secret and other in
 
 ## Registration
 
-Using SeaTable requires registration. (An unregistered person can only obtain read-only access to data shared by a registered user.) Registration is generally done through the website at https://seatable.io.
+Using SeaTable requires registration. (An unregistered person can only obtain read-only access to data shared by a registered user.) Registration is generally done through the website at https://seatable.com.
 
 When registering, you must enter the required registration information. This includes first and last name, e-mail address and a password.
 
@@ -64,7 +64,7 @@ With the registration, you conclude a free subscription with us. With a free sub
 
 For productive use, we recommend our paid subscription with an extended feature set and resources. We accept credit cards such as VISA and MasterCard as means of payment for Paid Subscriptions.
 
-A comparison of the available subscriptions and their costs can be found at https://seatable.io/en/preise.
+A comparison of the available subscriptions and their costs can be found at https://seatable.com/prices/.
 
 The subscription period is the agreed contractual term of the subscription. For free subscriptions, the subscription period is always one month. For paid subscriptions, monthly and an annual subscription periods are available. You can check the end of the current subscription period in account management.
 
@@ -99,7 +99,7 @@ In particular, you may not
 - Misrepresent your own person/organization (e.g. by using e-mail addresses to which you do not have access)
 - Invade privacy of third parties
 
-We will inform you about important events and changes to the services (“system messages”) by means of system notifications, the website https://seatable.io and/or e-mail (e.g. planned maintenance work, system updates and security incidents). We will inform you about critical events and changes by e-mail. The messages will be sent to the e-mail address linked to your user account. It is not possible to unsubscribe from system messages.
+We will inform you about important events and changes to the services (“system messages”) by means of system notifications, the website https://seatable.com and/or e-mail (e.g. planned maintenance work, system updates and security incidents). We will inform you about critical events and changes by e-mail. The messages will be sent to the e-mail address linked to your user account. It is not possible to unsubscribe from system messages.
 
 ## Your Content
 

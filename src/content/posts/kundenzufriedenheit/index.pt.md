@@ -20,7 +20,7 @@ Para aumentar a satisfação do cliente, é necessário conhecer a satisfação 
 
 Independentemente do método escolhido, é sempre necessária uma ferramenta para recolher, medir e, posteriormente, avaliar o feedback dos clientes. Este processo deve ser simples e fácil de repetir em qualquer altura. Ao mesmo tempo, a avaliação deve permanecer clara, mesmo com grandes quantidades de dados. Esta avaliação também é frequentemente designada por _User Experience Research_ ou _UX Research_.
 
-Com o SeaTable, oferecemos-lhe a ferramenta perfeita. O SeaTable ajuda-o a recolher [formulários Web](https://seatable.io/pt/docs/handbuch/datenmanagement/webformulare/) fáceis de partilhar e a avaliar e dar prioridade aos comentários dos clientes com [funções estatísticas](https://seatable.io/pt/docs/handbuch/datenmanagement/statistiken/). Até preparámos um [modelo]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para lhe dar alguma inspiração inicial, que pode utilizar para completar os três passos seguintes. Basta dar uma vista de olhos.
+Com o SeaTable, oferecemos-lhe a ferramenta perfeita. O SeaTable ajuda-o a recolher [formulários Web]({{< relref "help/base-editor/webformulare" >}}) fáceis de partilhar e a avaliar e dar prioridade aos comentários dos clientes com [funções estatísticas]({{< relref "help/base-editor/statistiken" >}}). Até preparámos um [modelo]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para lhe dar alguma inspiração inicial, que pode utilizar para completar os três passos seguintes. Basta dar uma vista de olhos.
 
 ## Etapa 1: Recolher dados sobre a satisfação do cliente
 
@@ -91,7 +91,7 @@ Existem diferenças culturais na avaliação. Este facto torna-se importante qua
 
 ### Ferramenta adequada para o inquérito à satisfação do cliente
 
-Seja qual for o método escolhido, certifique-se de que utiliza uma ferramenta que lhe permite armazenar e gerir todas as suas opiniões. Por exemplo, o SeaTable pode ajudá-lo a recolher o feedback dos clientes que pretende. Basta criar o inquérito pretendido utilizando o nosso formulário Web. Neste [artigo](https://seatable.io/pt/kundenfeedback-mit-seatable/), todo o processo de criação desse formulário e a avaliação subsequente ser-lhe-ão explicados com mais pormenor. Se quiser começar de imediato, dê uma vista de olhos aqui.
+Seja qual for o método escolhido, certifique-se de que utiliza uma ferramenta que lhe permite armazenar e gerir todas as suas opiniões. Por exemplo, o SeaTable pode ajudá-lo a recolher o feedback dos clientes que pretende. Basta criar o inquérito pretendido utilizando o nosso formulário Web. Neste [artigo]({{< relref "templates/marketing/customer-feedback" >}}), todo o processo de criação desse formulário e a avaliação subsequente ser-lhe-ão explicados com mais pormenor. Se quiser começar de imediato, dê uma vista de olhos aqui.
 
 ![Formulário web de criação de feedback do cliente](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 
@@ -105,7 +105,7 @@ Depois de obter o feedback que pretende dos seus clientes, precisa de filtrar a 
 
 ### Analisar os pontos fracos e as potencialidades
 
-Digamos que pretende melhorar o seu produto, identificar os pontos fracos actuais e descobrir porque é que os seus clientes não recomendam o seu produto. Para tal, pode criar uma nova [vista](https://seatable.io/pt/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) para [filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [ordenar](https://seatable.io/pt/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) e [agrupar](https://seatable.io/pt/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) os resultados do inquérito. Procure as respostas com uma pontuação NPS baixa e classifique o feedback por categorias relevantes. Pode criar uma vista separada para cada análise pretendida e, assim, aceder-lhe em segundos e em qualquer altura.
+Digamos que pretende melhorar o seu produto, identificar os pontos fracos actuais e descobrir porque é que os seus clientes não recomendam o seu produto. Para tal, pode criar uma nova [vista]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) para [filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [ordenar]({{< relref "help/base-editor/ansichten" >}}sortieren-von-eintraegen-in-einer-ansicht/) e [agrupar]({{< relref "help/base-editor/ansichten" >}}gruppieren-von-eintraegen-in-einer-ansicht/) os resultados do inquérito. Procure as respostas com uma pontuação NPS baixa e classifique o feedback por categorias relevantes. Pode criar uma vista separada para cada análise pretendida e, assim, aceder-lhe em segundos e em qualquer altura.
 
 ![Opções de filtragem de SeaTable](nps-form-filter.png)
 
@@ -142,6 +142,6 @@ Nesta captura de ecrã, pode ver claramente que as categorias _Feature_ e _Price
 
 Só uma empresa que leva a sério os desejos dos seus clientes pode ter sucesso a longo prazo. No entanto, para que isso aconteça, é essencial que compreenda o que move os seus clientes. Utilize inquéritos qualitativos e estabeleça processos para garantir um fluxo constante de feedback dos clientes. O NPS e os questionários qualitativos podem ajudá-lo a recolher esta informação.
 
-Tenha cuidado para não perder de vista as questões importantes devido a toda a informação. Por conseguinte, dê prioridade às suas informações e tire delas opções de ação. Reserve algum tempo para lidar com o [feedback negativo](https://seatable.io/pt/negatives-kundenfeedback/).
+Tenha cuidado para não perder de vista as questões importantes devido a toda a informação. Por conseguinte, dê prioridade às suas informações e tire delas opções de ação. Reserve algum tempo para lidar com o feedback negativo.
 
 Se pretende melhorar permanentemente a experiência de utilização dos seus clientes, experimente o SeaTable. O SeaTable fornece-lhe as [ferramentas necessárias]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para aumentar a satisfação dos seus clientes. Não espere por amanhã, mas estabeleça hoje um processo fixo para avaliar a satisfação dos seus clientes!

@@ -18,7 +18,7 @@ Con la plantilla adecuada, puede crear rápidamente un análisis de este tipo pa
 
 Un análisis coste-beneficio, o ACB para abreviar, es un **análisis de rentabilidad**. Compara la relación entre costes y beneficios con el fin de crear una **base de evaluación para las decisiones empresariales**. Un ACB sirve para examinar las **ventajas e inconvenientes de las inversiones** y evaluar los riesgos financieros, valorar las medidas y analizar la sostenibilidad de las inversiones. Para obtener una visión de conjunto óptima, es aconsejable realizar el análisis coste-beneficio utilizando una plantilla.
 
-La ventaja es que se pueden agrupar todos los **factores y efectos asociados a una inversión** en una sola base de datos, con lo que no se pierde la visión de conjunto. Especialmente en los [grandes proyectos](https://seatable.io/es/projektstrukturplan-vorlage/), hay un gran número de criterios objetivos y subjetivos que afectan al ACB de formas muy distintas. Una plantilla le ayuda a no perder de vista todos estos aspectos.
+La ventaja es que se pueden agrupar todos los **factores y efectos asociados a una inversión** en una sola base de datos, con lo que no se pierde la visión de conjunto. Especialmente en los [grandes proyectos]({{< relref "templates/projects/work-breakdown-structure" >}}), hay un gran número de criterios objetivos y subjetivos que afectan al ACB de formas muy distintas. Una plantilla le ayuda a no perder de vista todos estos aspectos.
 
 ![Plantilla impresa para un análisis coste-beneficio.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 
@@ -36,10 +36,10 @@ Básicamente, un análisis coste-beneficio siempre es apropiado cuando se planif
 
 - desea modernizar sus equipos informáticos
 - Planificación de medidas de conversión para su empresa
-- Ofrezca [programas de formación y perfeccionamiento](https://seatable.io/es/workshop-planen/) a sus empleados
+- Ofrezca [programas de formación y perfeccionamiento]({{< relref "posts/workshop-planen" >}}) a sus empleados
 - quieren implantar nuevos procesos de fabricación
 - Introducir nuevos procesos empresariales
-- desea ampliar su [flota de vehículos](https://seatable.io/es/fuhrparkmanagement/)
+- desea ampliar su [flota de vehículos]({{< relref "posts/fuhrparkmanagement" >}})
 
 ![El empleado crea una plantilla para un análisis coste-beneficio.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 

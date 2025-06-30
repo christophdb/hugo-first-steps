@@ -59,7 +59,7 @@ Before you start with the concept for your social media editorial plan, you shou
 
 Which social media channels do you use?
 
-Then it's time to choose the tool that best supports your project. Below you can read more about possible [**tools and templates for your social media plan**](https://seatable.io/en/social-media-plan-vorlage/#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
+Then it's time to choose the tool that best supports your project. Below you can read more about possible [**tools and templates for your social media plan**]({{< relref "templates/marketing/social-media-plan" >}}#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
 
 ## What a social media editorial plan should cover
 
@@ -109,7 +109,7 @@ You can find**numerous social media plan templates for the two best-known tools*
 
 ### Editorial plan with social media management tool
 
-Another option are **social media tools such as Hootsuite, CoSchedule or ContentPepper**. These come directly from [social media management](https://seatable.io/en/social-media-management/) and are therefore specialized in content planning. The big advantage of social media management tools is that you can use them to plan and create posts as well as post them directly on social media. This saves you the effort of publishing on the individual platforms.
+Another option are **social media tools such as Hootsuite, CoSchedule or ContentPepper**. These come directly from [social media management]({{< relref "posts/social-media-management" >}}) and are therefore specialized in content planning. The big advantage of social media management tools is that you can use them to plan and create posts as well as post them directly on social media. This saves you the effort of publishing on the individual platforms.
 
 ### Social media plan in SeaTable
 
@@ -119,4 +119,4 @@ You can **structure and display** the data in your SeaTable social media plan **
 
 ## Conclusion
 
-With a social media editorial plan, you can exploit the full potential of your channels. You will be able to plan ahead and address your audience with targeted content. As a result, the initial creation of a content plan helps you to implement your social media strategy. **Automate your processes**, inspire your followers and work better together as a team with SeaTable's [no-code solution](https://seatable.io/en/).
+With a social media editorial plan, you can exploit the full potential of your channels. You will be able to plan ahead and address your audience with targeted content. As a result, the initial creation of a content plan helps you to implement your social media strategy. **Automate your processes**, inspire your followers and work better together as a team with SeaTable's [no-code solution]({{< relref "/" >}}).

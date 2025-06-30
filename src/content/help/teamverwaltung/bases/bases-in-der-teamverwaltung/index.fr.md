@@ -55,7 +55,7 @@ Sous **Supprimer**, vous avez la possibilité de supprimer la base sélectionné
 
 ## La corbeille à papier
 
-Toutes les **bases supprimées** sont listées dans la corbeille. Après **30 jours**, les bases sont automatiquement supprimées du système. Mais vous avez aussi la possibilité de supprimer manuellement et **définitivement toutes les bases de la corbeille**. Pour savoir comment procéder, [cliquez ici](https://seatable.io/fr/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/).
+Toutes les **bases supprimées** sont listées dans la corbeille. Après **30 jours**, les bases sont automatiquement supprimées du système. Mais vous avez aussi la possibilité de supprimer manuellement et **définitivement toutes les bases de la corbeille**. Pour savoir comment procéder, [cliquez ici]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 Pour restaurer une base, cliquez sur la base en question et actionnez le curseur avant de cliquer sur le bouton **Restaurer la base**.
 
@@ -67,9 +67,9 @@ Voici les **Partage d'utilisateurs et de groupes** pour toutes les bases. Vous p
 
 Apprenez-en plus sur les types de partage dans les articles suivants :
 
-- [Partage d'une base avec un groupe](https://seatable.io/fr/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Créer un partage d'utilisateurs](https://seatable.io/fr/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Créer un partage personnalisé](https://seatable.io/fr/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
+- [Partage d'une base avec un groupe]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Créer un partage d'utilisateurs]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Créer un partage personnalisé]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}})
 
 ## Liens externes et liens d'invitation
 
@@ -78,5 +78,5 @@ Dans ces deux aperçus, vous pouvez voir non seulement tous les liens externes e
 Vous trouverez plus d'informations sur les liens de partage dans les articles suivants :
 
 - [Créer un lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Création d’un lien externe pour une base](https://seatable.io/fr/docs/freigabelinks/externer-link-erklaert/)
-- [Différences entre les liens d’invitation et les liens externes](https://seatable.io/fr/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)
+- [Création d’un lien externe pour une base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
+- [Différences entre les liens d’invitation et les liens externes]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}})

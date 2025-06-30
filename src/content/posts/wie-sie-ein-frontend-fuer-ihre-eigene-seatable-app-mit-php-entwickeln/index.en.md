@@ -134,7 +134,7 @@ Since this is not meant to be a design tutorial, I'll limit myself to comparativ
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -217,7 +217,7 @@ Since this is not meant to be a design tutorial, I'll limit myself to comparativ
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -286,7 +286,7 @@ Since this is not meant to be a design tutorial, I'll limit myself to comparativ
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -519,7 +519,7 @@ Now we can access and display all entries from SeaTable in the _index.html_. Add
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -695,7 +695,7 @@ $app->run();
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>

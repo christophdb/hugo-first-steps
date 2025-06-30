@@ -22,7 +22,11 @@ Vous avez besoin d'un tableau dans votre base plusieurs fois sous une forme lég
 
 7. Confirmez en cliquant sur **Envoyer**.
 
-{{< warning  headline="Remarque"  text="Toutes les vues sont également dupliquées avec tous les [paramètres de vue](https://seatable.io/fr/docs/ansichtsoptionen/), de sorte que le tableau copié soit une copie exacte du tableau original." />}}
+{{< warning  headline="Remarque" >}}
+
+Toutes les vues sont également dupliquées avec tous les [paramètres de vue]({{< relref "help/base-editor/ansichten" >}}), de sorte que le tableau copié soit une copie exacte du tableau original.
+
+{{< /warning >}}
 
 **Voici à quoi ressemble le résultat avec des entrées dupliquées**
 
@@ -34,4 +38,4 @@ Cette option est utile si vous souhaitez reprendre au moins une partie des ligne
 
 ![Tableaux vides dupliqués](images/Leere-duplizierte-Tabellen.png)
 
-Cette option est utile si vous ne reprenez que la **structure** du tableau initial, mais que vous souhaitez le remplir avec d'autres entrées. Cela peut par exemple se produire si vous créez un tableau par année pour votre [planification budgétaire](https://seatable.io/fr/budgetplanung-vorlage/).
+Cette option est utile si vous ne reprenez que la **structure** du tableau initial, mais que vous souhaitez le remplir avec d'autres entrées. Cela peut par exemple se produire si vous créez un tableau par année pour votre [planification budgétaire]({{< relref "templates/finance/budget-plan" >}}).

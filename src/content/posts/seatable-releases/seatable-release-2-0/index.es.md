@@ -14,7 +14,7 @@ La versión 1.0 de SeaTable vio la luz el 1 de julio de 2020. Desde entonces se 
 
 Visualmente, SeaTable 2.0 apenas difiere de su predecesor. En términos de funcionalidad, experiencia de usuario, estabilidad y opciones de integración, SeaTable ha dado un gran salto desde julio del año pasado. ¿Ya le pareció interesante la versión 1.x? Entonces, la versión 2.0 le inspirará.
 
-SeaTable 2.0 contiene un enorme número de mejoras e innovaciones - la documentación completa de todos los cambios se puede encontrar en el [Changelog de SeaTable](https://seatable.io/es/docs/changelog/version-2-0/). Los aspectos más destacados de la versión 2.0 son tres nuevos tipos de columnas, varias opciones de personalización recién desarrolladas para los tipos de columnas existentes, dos plugins completamente nuevos, así como muchas mejoras de detalle en los plugins existentes de SeaTable. Tampoco hemos escatimado en mejoras en la sala de máquinas de SeaTable: SeaTable 2.0 cuenta ahora con un nuevo entorno de ejecución para los scripts de Python y los administradores de sistemas apreciarán las capacidades de supervisión que ofrece la nueva página general de enlaces externos.
+SeaTable 2.0 contiene un enorme número de mejoras e innovaciones - la documentación completa de todos los cambios se puede encontrar en el [Changelog de SeaTable]({{< relref "pages/changelog" >}}). Los aspectos más destacados de la versión 2.0 son tres nuevos tipos de columnas, varias opciones de personalización recién desarrolladas para los tipos de columnas existentes, dos plugins completamente nuevos, así como muchas mejoras de detalle en los plugins existentes de SeaTable. Tampoco hemos escatimado en mejoras en la sala de máquinas de SeaTable: SeaTable 2.0 cuenta ahora con un nuevo entorno de ejecución para los scripts de Python y los administradores de sistemas apreciarán las capacidades de supervisión que ofrece la nueva página general de enlaces externos.
 
 Y eso no es todo. Gracias a una gran contribución de la comunidad, ahora podemos ofrecer el ruso como quinta lengua de usuario junto al inglés, el alemán, el francés y el chino.
 
@@ -98,7 +98,7 @@ Para seguir el desarrollo en el campo de los tipos de columnas, el plugin de map
 
 ## Instantáneas manuales
 
-Las[instantáneas](https://seatable.io/es/docs/handbuch/seatable-nutzen/versionierung-snapshots/) son una muestra de una base. Demuestran su valor cuando hay que restablecer una base a un estado anterior después de grandes cambios.
+Las[instantáneas]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) son una muestra de una base. Demuestran su valor cuando hay que restablecer una base a un estado anterior después de grandes cambios.
 
 En el pasado, SeaTable sólo conocía las instantáneas automáticas. El servidor de SeaTable creaba diariamente una instantánea de este tipo si se realizaban cambios en la base en las últimas 24 horas. En la versión 2.0 SeaTable ha aprendido y ahora también conoce las instantáneas manuales: Un clic y se hace una imagen de la base. Como seguro contra la pérdida involuntaria de datos, se recomienda encarecidamente hacer este clic siempre que se trabaje en la estructura de una base (especialmente cuando se borran columnas y tablas).
 

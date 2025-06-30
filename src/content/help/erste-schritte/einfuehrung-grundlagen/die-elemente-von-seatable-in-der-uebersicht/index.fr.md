@@ -28,7 +28,7 @@ Après vous être connecté, vous démarrez sur la page d'accueil de SeaTable. C
 
 Chaque base se compose d'un ou de plusieurs tableaux. Les tableaux vous aident à structurer vos informations et à les mettre en relation.
 
-[En savoir plus sur les tableaux →](https://seatable.io/fr/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/)
+[En savoir plus sur les tableaux →]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}})
 
 ### Lignes
 
@@ -54,7 +54,7 @@ Les vues vous permettent de visualiser les mêmes informations sous différents 
 
 Outre les vues, les plugins offrent d'autres possibilités d'afficher les données d'une base de manière optimale. La galerie est idéale pour une base avec beaucoup d'images, la ligne de temps a ses points forts pour les entrées avec date de début et de fin et le tableau Kanban vous permet de modifier facilement le statut des entrées. Les plugins vous aident à travailler de manière efficace et efficiente avec vos données.
 
-[En savoir plus sur les plugins →](https://seatable.io/fr/docs/plugins/was-ist-ein-plugin/)
+[En savoir plus sur les plugins →]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}})
 
 ## Travailler en équipe
 
@@ -62,26 +62,26 @@ Outre les vues, les plugins offrent d'autres possibilités d'afficher les donné
 
 Les groupes permettent de déterminer quels membres de l'équipe ont accès à une ou plusieurs bases. Chaque membre de l'équipe ne devrait avoir accès qu'aux bases pertinentes pour son travail. La plupart des équipes de SeaTable créent des groupes pour des domaines de travail spécifiques tels que les ressources humaines, le marketing, la direction ou le développement de produits. Vous pouvez ainsi contrôler l'accès de manière simple et efficace.
 
-[En savoir plus sur les groupes →](https://seatable.io/fr/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/)
+[En savoir plus sur les groupes →]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen" >}})
 
 ### Autorisations
 
-[En savoir plus sur les autorisations dans un groupe →](https://seatable.io/fr/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
+[En savoir plus sur les autorisations dans un groupe →]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}})
 
 ### Coopération
 
 SeaTable est une solution qui permet aux gens de travailler ensemble sur des processus, des structures et des données. Ce n'est qu'en travaillant en équipe que vous révélerez le véritable potentiel de SeaTable.
 
-[En savoir plus sur la collaboration dans SeaTable →](https://seatable.io/fr/docs/seatable-nutzen/zusammenarbeit/)
+[En savoir plus sur la collaboration dans SeaTable →]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}})
 
 ### Gestion de l'équipe
 
 La gestion d'équipe met diverses fonctions à la disposition des administrateurs de votre équipe. Vous pouvez entre autres gérer les membres de votre équipe et votre abonnement, consulter les factures ou créer des tickets d'assistance.
 
-[En savoir plus sur la gestion d'équipe →](https://seatable.io/fr/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+[En savoir plus sur la gestion d'équipe →]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 ### Abonnement et facturation
 
 Chaque équipe dispose d'un abonnement Free, Plus ou Enterprise. Cet abonnement détermine la quantité de données que l'équipe peut stocker ensemble et les fonctions dont elle dispose.
 
-[En savoir plus sur l'abonnement et la facturation →](https://seatable.io/fr/docs/teamverwaltung-abonnement/abonnement-und-abrechnung-im-ueberblick/)
+[En savoir plus sur l'abonnement et la facturation →]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}})

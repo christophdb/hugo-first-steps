@@ -12,7 +12,7 @@ seo:
 
 Hoje actualizámos cloud.seatable.io para a versão 1.5 de SeaTable. Com o próximo login, todos os utilizadores beneficiarão de novas e excitantes funcionalidades e de uma série de melhorias na interface e nas funções existentes. À primeira vista, notará as numerosas alterações menores e maiores no editor de tabelas, resultando numa maior eficiência do fluxo de trabalho e numa melhor experiência do utilizador. As novas permissões de partilha personalizadas proporcionam mais controlo e flexibilidade quando se trabalha em colaboração sobre bases. Opções de personalização melhoradas fazem dos formulários da SeaTable uma ferramenta ainda mais versátil para a recolha de dados.
 
-A lista completa das alterações pode ser encontrada, como sempre, no [changelog do SeaTable](https://seatable.io/docs/changelog/version-1-5/?lang=auto). Esta nota de lançamento apresenta as mudanças mais importantes e excitantes desta nova versão.
+A lista completa das alterações pode ser encontrada, como sempre, no [changelog do SeaTable]({{< relref "pages/changelog" >}}?lang=auto). Esta nota de lançamento apresenta as mudanças mais importantes e excitantes desta nova versão.
 
 ## Editor de mesa melhorado
 
@@ -58,7 +58,7 @@ Imagine que quer partilhar uma base com os membros da sua equipa com diferentes 
 
 ![SeaTable 1.5 suporta agora permissões de partilha personalizadas](Custom_Sharing_Permission.png)
 
-Na nova versão, introduzimos permissões de lançamento definidas pelo utilizador. Graças a eles, o cenário agora mencionado é possível sem muita dor de cabeça. Uma permissão de partilha personalizada consiste em direitos de acesso individuais para todas as tabelas e vistas numa base. Com uma permissão de partilha personalizada, pode, por exemplo, conceder acesso de leitura a uma tabela mas acesso de leitura-escrita alargado a outra tabela na base. Mas isso não é tudo: as acções personalizadas também podem ser especificadas ao nível da vista. Pode, portanto, conceder acesso de leitura-escrita a uma visão específica de uma tabela, mas apenas acesso de leitura à visão por defeito. Se não quiser conceder acesso a uma mesa ou vista, isso também é possível. Simplesmente não conceder acesso de leitura nem de leitura-escrita. E o melhor de tudo, pode definir tantas [permissões de partilha](https://seatable.io/pt/docs/handbuch/zusammenarbeit/freigaben/) personalizadas quantas quiser para cada base. Tem ansiado por uma gestão de permissões mais granular em SeaTable? Agora já o tem!
+Na nova versão, introduzimos permissões de lançamento definidas pelo utilizador. Graças a eles, o cenário agora mencionado é possível sem muita dor de cabeça. Uma permissão de partilha personalizada consiste em direitos de acesso individuais para todas as tabelas e vistas numa base. Com uma permissão de partilha personalizada, pode, por exemplo, conceder acesso de leitura a uma tabela mas acesso de leitura-escrita alargado a outra tabela na base. Mas isso não é tudo: as acções personalizadas também podem ser especificadas ao nível da vista. Pode, portanto, conceder acesso de leitura-escrita a uma visão específica de uma tabela, mas apenas acesso de leitura à visão por defeito. Se não quiser conceder acesso a uma mesa ou vista, isso também é possível. Simplesmente não conceder acesso de leitura nem de leitura-escrita. E o melhor de tudo, pode definir tantas [permissões de partilha]({{< relref "help/startseite/freigaben" >}}) personalizadas quantas quiser para cada base. Tem ansiado por uma gestão de permissões mais granular em SeaTable? Agora já o tem!
 
 ## Formulários web mais flexíveis
 
@@ -72,6 +72,6 @@ Estamos a fazer figas que a Pandemia de Corona será em breve algo para os livro
 
 ## Outras melhorias
 
-Esta nota de lançamento discute apenas em pormenor as alterações mais importantes. O changelog contém o histórico completo das mudanças. Dê uma olhadela lá! Entre as pequenas melhorias que vale a pena mencionar estão o tempo de activação dos scripts Python (ver [nota de lançamento do SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})) e a eliminação de problemas de desempenho ao gerir conjuntos maiores de filas no editor de tabelas.
+Esta nota de lançamento discute apenas em pormenor as alterações mais importantes. O changelog contém o histórico completo das mudanças. Dê uma olhadela lá! Entre as pequenas melhorias que vale a pena mencionar estão o tempo de activação dos scripts Python (ver [nota de lançamento do SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) e a eliminação de problemas de desempenho ao gerir conjuntos maiores de filas no editor de tabelas.
 
 Obtenha uma conta SeaTable para a sua equipa e use o SeaTable permanentemente sem custos! Agradecemos o vosso feedback e comentários no [fórum](https://forum.seatable.com/).

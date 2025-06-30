@@ -42,11 +42,15 @@ Si no está satisfecho con su firma y desea firmar de nuevo, simplemente haga cl
 
 ![Firmar de nuevo en el panel de firma](images/resign.jpg)
 
-{{< warning  headline="Fichero no eliminado"  text="Sin embargo, la firma original sigue estando disponible como archivo PNG en el [gestor de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base si ya la ha guardado." />}}
+{{< warning  headline="Fichero no eliminado" >}}
+
+Sin embargo, la firma original sigue estando disponible como archivo PNG en el [gestor de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base si ya la ha guardado.
+
+{{< /warning >}}
 
 ## Firmas digitales en el gestor de archivos
 
-Cada firma almacenada también se guarda en la [gestión de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de su Base como un archivo PNG en una **carpeta del sistema**.
+Cada firma almacenada también se guarda en la [gestión de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de su Base como un archivo PNG en una **carpeta del sistema**.
 
 ![Carpeta en la gestión de archivos de su Base donde se almacenan sus firmas ](images/stored-signatures-in-filemanagement.jpg)
 

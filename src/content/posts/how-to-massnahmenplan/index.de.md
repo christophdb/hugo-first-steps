@@ -15,7 +15,7 @@ Damit Unternehmen wachsen und sich weiterentwickeln, setzen sie sich stetig neue
 
 ## Was ist ein Maßnahmenplan?
 
-Für das Erreichen von Zielen innerhalb von Unternehmen ist ein Maßnahmenplan ein sehr mächtiges Werkzeug. Die Übersicht im Plan dient zur Strukturierung von Aktivitäten und hält fest, wann diese von wem unter welchen Bedingungen und wo genau stattfinden sollen. Es kann also quasi als eine Art [To-Do-Liste](https://seatable.io/to-do-liste-online/) und Kommunikationsmittel für das gesamte Unternehmen verstanden werden. Für verschiedene Ziele können so unterschiedliche Maßnahmen festgelegt werden, an denen sich die Mitarbeiter im Unternehmen orientieren können und mit denen konkret gearbeitet wird. So bleiben Ziele nicht nur Visionen, sondern werden mit den richtigen Anstrengungen und einem effizienten Maßnahmenplan im Nu zur Realität.
+Für das Erreichen von Zielen innerhalb von Unternehmen ist ein Maßnahmenplan ein sehr mächtiges Werkzeug. Die Übersicht im Plan dient zur Strukturierung von Aktivitäten und hält fest, wann diese von wem unter welchen Bedingungen und wo genau stattfinden sollen. Es kann also quasi als eine Art [To-Do-Liste]({{< relref "posts/to-do-liste-online" >}}) und Kommunikationsmittel für das gesamte Unternehmen verstanden werden. Für verschiedene Ziele können so unterschiedliche Maßnahmen festgelegt werden, an denen sich die Mitarbeiter im Unternehmen orientieren können und mit denen konkret gearbeitet wird. So bleiben Ziele nicht nur Visionen, sondern werden mit den richtigen Anstrengungen und einem effizienten Maßnahmenplan im Nu zur Realität.
 
 ### Und warum ist ein Maßnahmenplan wichtig für Unternehmen?
 

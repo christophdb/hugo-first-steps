@@ -31,7 +31,7 @@ url: '/ru/pomoshch/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
 
 ## Назначение групп непосредственно новому члену команды
 
-Уже при [создании нового члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/) вы можете напрямую добавлять человека в различные группы и назначать ему роли.
+Уже при [создании нового члена команды]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}) вы можете напрямую добавлять человека в различные группы и назначать ему роли.
 
 1. Переключитесь на **управление командой**.
 2. Нажмите на пункт меню **Команда**.

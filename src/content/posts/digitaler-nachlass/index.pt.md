@@ -70,7 +70,7 @@ Utilizando o mesmo princípio, também pode guardar as suas contas e palavras-pa
 
 Muitos navegadores também oferecem a opção de guardar convenientemente os dados de início de sessão.
 
-Com um [gestor de senhas](https://seatable.io/pt/digitaler-nachlass/#Mit_welchen_Tools_ein_digitaler_Nachlass_verwaltet_werden_kann) digitais, pode gerir os seus dados de acesso de forma clara e flexível: Estas ferramentas permitem armazenar contas e palavras-passe de forma segura e transmiti-las a pessoas de confiança em caso de morte. Por conseguinte, esta é uma das melhores formas de organizar o seu património digital.
+Com um [gestor de senhas]({{< relref "posts/digitaler-nachlass" >}}) digitais, pode gerir os seus dados de acesso de forma clara e flexível: Estas ferramentas permitem armazenar contas e palavras-passe de forma segura e transmiti-las a pessoas de confiança em caso de morte. Por conseguinte, esta é uma das melhores formas de organizar o seu património digital.
 
 ### 2\. criar uma visão geral do seu património digital
 

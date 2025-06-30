@@ -12,7 +12,7 @@ Using a **button** you can save PDF documents in file columns. This requires the
 
 ## Save PDF documents via button in a column
 
-Buttons allow you to save PDF documents in the [file columns of](https://seatable.io/en/docs/datei-und-bildanhaenge/die-datei-spalte/) your tables. The action is available when you create a button once you have set up the [page design plugin](https://seatable.io/en/?post_type=docs&p=19223) in the corresponding table.
+Buttons allow you to save PDF documents in the [file columns of]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) your tables. The action is available when you create a button once you have set up the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) in the corresponding table.
 
 In the first step you name the **column** and set the **label** and **color of** the button you want to add to your rows .
 
@@ -22,7 +22,7 @@ As action you set **"Save PDF file in column"** afterwards.
 
 ![Action selection: Save PDF file to column](images/create-pdf-design-and-save-to-column.png)
 
-Next, select a **page** from the page design plugin to be saved as a PDF file. You can choose from existing pages or [add](https://seatable.io/en/?post_type=docs&p=19223) a new page first.
+Next, select a **page** from the page design plugin to be saved as a PDF file. You can choose from existing pages or [add]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) a new page first.
 
 ![Selection of the page from the page design plugin to be saved in the column as PDF](images/select-file-to-create-PDF-with.png)
 

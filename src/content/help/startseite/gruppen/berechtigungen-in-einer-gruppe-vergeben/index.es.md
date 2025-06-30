@@ -29,4 +29,8 @@ Es importante tener en cuenta que sólo como **propietario** o **administrador d
 
 ![Selección y confirmación de funciones](images/change-authorization-and-close.jpg)
 
-{{< warning  headline="Nota importante"  text="Si ya no está seguro de cuál de los tres roles tiene qué permisos, esta [tabla sobre los permisos de los roles](https://seatable.io/es/docs/gruppen/gruppenmitglieder-und-ihre-berechtigungen/) le ayudará." />}}
+{{< warning  headline="Nota importante" >}}
+
+Si ya no está seguro de cuál de los tres roles tiene qué permisos, esta [tabla sobre los permisos de los roles]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) le ayudará.
+
+{{< /warning >}}

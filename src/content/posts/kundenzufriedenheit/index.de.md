@@ -21,7 +21,7 @@ Um die Kundenzufriedenheit steigern zu können, müssen Sie über die aktuelle K
 
 Egal für welche Methode Sie sich entscheiden, Sie benötigen immer ein Tool, um das Kundenfeedback einzuholen, zu messen und im Anschluss auszuwerten. Dieser Vorgang sollte unkompliziert und ohne großen Aufwand jederzeit wiederholt werden können. Gleichzeitig muss die Auswertung auch bei großen Datenmengen übersichtlich bleiben. Diese Auswertung nennt man häufig auch _User Experience Research_ oder _UX Research_.
 
-Mit SeaTable geben wir Ihnen das perfekte Tool an die Hand. SeaTable hilft Ihnen mit einfach zu teilenden [Webformularen](https://seatable.io/docs/handbuch/datenmanagement/webformulare/) bei der Erhebung und mit [Statistikfunktionen](https://seatable.io/docs/handbuch/datenmanagement/statistiken/) beim Auswerten und Priorisieren des Kundenfeedbacks. Wir haben sogar ein [Template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) vorbereitet, das Ihnen erste Inspiration geben soll und mit dem Sie die folgenden drei Schritte durchführen können. Schauen Sie doch einfach mal rein.
+Mit SeaTable geben wir Ihnen das perfekte Tool an die Hand. SeaTable hilft Ihnen mit einfach zu teilenden [Webformularen]({{< relref "help/base-editor/webformulare" >}}) bei der Erhebung und mit [Statistikfunktionen]({{< relref "help/base-editor/statistiken" >}}) beim Auswerten und Priorisieren des Kundenfeedbacks. Wir haben sogar ein [Template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) vorbereitet, das Ihnen erste Inspiration geben soll und mit dem Sie die folgenden drei Schritte durchführen können. Schauen Sie doch einfach mal rein.
 
 ## Schritt 1: Daten zur Kundenzufriedenheit erheben
 
@@ -92,7 +92,7 @@ Es gibt kulturelle Unterschiede bei der Bewertung. Dies wird wichtig, wenn Sie i
 
 ### Passendes Tool zur Erhebung der Kundenzufriedenheit
 
-Egal für welche Methode Sie sich entscheiden, sorgen Sie dafür, dass Sie ein Tool verwenden, mit dem Sie alle Ihre Feedbacks speichern und verwalten können. SeaTable kann Ihnen z. B. dabei helfen, das gewünschte Kundenfeedback einzuholen. Erstellen Sie einfach Ihre Wunschumfrage mit unserem Webformular. In [diesem Artikel](https://seatable.io/kundenfeedback-mit-seatable/) wird Ihnen der gesamte Prozess der Erstellung eines solchen Formulars und die anschließende Auswertung noch einmal genauer erklärt. Wenn Sie direkt loslegen wollen, schauen Sie dort vorbei.
+Egal für welche Methode Sie sich entscheiden, sorgen Sie dafür, dass Sie ein Tool verwenden, mit dem Sie alle Ihre Feedbacks speichern und verwalten können. SeaTable kann Ihnen z. B. dabei helfen, das gewünschte Kundenfeedback einzuholen. Erstellen Sie einfach Ihre Wunschumfrage mit unserem Webformular. In [diesem Artikel]({{< relref "templates/marketing/customer-feedback" >}}) wird Ihnen der gesamte Prozess der Erstellung eines solchen Formulars und die anschließende Auswertung noch einmal genauer erklärt. Wenn Sie direkt loslegen wollen, schauen Sie dort vorbei.
 
 ![Kundenfeedback Erstellung Webformular](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 
@@ -106,7 +106,7 @@ Nachdem Sie von Ihren Kunden das gewünschte Feedback bekommen haben, müssen Si
 
 ### Analysieren Sie Schwächen und Potenziale
 
-Angenommen, Sie möchten Verbesserungen an Ihrem Produkt vornehmen, die aktuellen Schwachstellen ermitteln und herausbekommen, warum Ihre Kunden Ihr Produkt nicht weiterempfehlen. Dafür können Sie eine neue [Ansicht](https://seatable.io/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) anlegen, um die Umfrageergebnisse zu [filtern]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), zu [sortieren](https://seatable.io/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) und zu [gruppieren](https://seatable.io/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/). Suchen Sie nach den Antworten mit einem niedrigen NPS-Wert und ordnen Sie das Feedback nach relevanten Kategorien. Für jede gewünschte Analyse können Sie eine eigene Ansicht anlegen und so jederzeit in Sekunden darauf zurückgreifen.
+Angenommen, Sie möchten Verbesserungen an Ihrem Produkt vornehmen, die aktuellen Schwachstellen ermitteln und herausbekommen, warum Ihre Kunden Ihr Produkt nicht weiterempfehlen. Dafür können Sie eine neue [Ansicht]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) anlegen, um die Umfrageergebnisse zu [filtern]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), zu [sortieren]({{< relref "help/base-editor/ansichten" >}}sortieren-von-eintraegen-in-einer-ansicht/) und zu [gruppieren]({{< relref "help/base-editor/ansichten" >}}gruppieren-von-eintraegen-in-einer-ansicht/). Suchen Sie nach den Antworten mit einem niedrigen NPS-Wert und ordnen Sie das Feedback nach relevanten Kategorien. Für jede gewünschte Analyse können Sie eine eigene Ansicht anlegen und so jederzeit in Sekunden darauf zurückgreifen.
 
 ![Filtermöglichkeiten von SeaTable](nps-form-filter.png)
 
@@ -143,6 +143,6 @@ Auf diesem Screenshot kann man gut erkennen, dass die Kategorien _Feature_ und _
 
 Nur ein Unternehmen, welches die Wünsche seiner Kunden ernst nimmt, kann auf lange Sicht erfolgreich sein. Dafür ist es jedoch von zentraler Bedeutung, dass Sie verstehen, was Ihre Kunden bewegt. Nutzen Sie qualitative Befragungen und etablieren Sie Prozesse, um für einen konstanten Strom von Kundenfeedbacks zu sorgen. Mithilfe von NPS und qualitativen Fragebögen können Sie diese Informationen ermitteln.
 
-Passen Sie auf, dass Sie vor lauter Informationen nicht die wichtigen Themen aus den Augen verlieren. Priorisieren Sie deshalb Ihre Informationen und leiten Sie daraus Handlungsoptionen ab. Nehmen Sie sich Zeit, mit [negativem Feedback](https://seatable.io/negatives-kundenfeedback/) umzugehen.
+Passen Sie auf, dass Sie vor lauter Informationen nicht die wichtigen Themen aus den Augen verlieren. Priorisieren Sie deshalb Ihre Informationen und leiten Sie daraus Handlungsoptionen ab. Nehmen Sie sich Zeit, mit negativem Feedback umzugehen.
 
 Wenn Sie vorhaben, die User Experience Ihrer Kunden dauerhaft zu verbessern, dann probieren Sie SeaTable aus. SeaTable gibt Ihnen das [notwendige Rüstzeug]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) an die Hand, um die Zufriedenheit Ihrer Kunden zu steigern. Warten Sie nicht auf morgen, sondern etablieren Sie schon heute einen festen Prozess zur Erhebung Ihrer Kundenzufriedenheit!

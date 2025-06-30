@@ -14,7 +14,7 @@ Für einen erfolgreichen Auftritt in den sozialen Medien ist besonders eines wic
 
 Dafür braucht es manchmal keine tiefgründigen Themen oder aufwändige Texte. Manchmal reicht es auch, wenn Sie Ihre Follower mit einer kleinen Information oder Ähnlichem up to date halten. Mit regelmäßigen Posts können Sie das **Markenbewusstsein** Ihrer Follower gegenüber Ihrem Unternehmen stärken und den **Traffic** von Social Media auf Ihre eigene Website erhöhen.
 
-Damit trotz eines gut durchdachten [Social-Media-Plans](https://seatable.io/content-ideen/#Nutzen_Sie_SeaTable_um_Ihre_Content-Ideen_zu_planen) nicht der Stoff für Posts ausgeht, haben wir einige Content-Ideen, die Sie auf Social Media schnell und ohne großen Aufwand umsetzen können. So gelingt Ihnen auch an stressigen Tagen das Pflegen der Social-Media-Kanäle.
+Damit trotz eines gut durchdachten [Social-Media-Plans]({{< relref "templates/marketing/social-media-plan" >}}) nicht der Stoff für Posts ausgeht, haben wir einige Content-Ideen, die Sie auf Social Media schnell und ohne großen Aufwand umsetzen können. So gelingt Ihnen auch an stressigen Tagen das Pflegen der Social-Media-Kanäle.
 
 ## 1\. Behind the Scenes
 

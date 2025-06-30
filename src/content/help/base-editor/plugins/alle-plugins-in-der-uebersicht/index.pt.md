@@ -16,7 +16,7 @@ url: '/pt/ajuda/alle-plugins-in-der-uebersicht'
 
 No SeaTable pode criar diferentes **vistas** para as suas tabelas nas quais pode [filtrar]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) dados como desejar.
 
-Um **plugin** é um componente de software opcional do SeaTable que oferece opções de visualização adicionais. Podem ser activados vários plugins em cada base, que apresentam os dados das respectivas tabelas e vistas em **calendários**, **documentos** ou **galerias**, por exemplo. Para mais informações sobre [como ativar um plugin](https://seatable.io/pt/docs/plugins/aktivieren-eines-plugins-in-einer-base/), consulte o artigo de ajuda.
+Um **plugin** é um componente de software opcional do SeaTable que oferece opções de visualização adicionais. Podem ser activados vários plugins em cada base, que apresentam os dados das respectivas tabelas e vistas em **calendários**, **documentos** ou **galerias**, por exemplo. Para mais informações sobre [como ativar um plugin]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}), consulte o artigo de ajuda.
 
 ## Plugin de calendário
 
@@ -24,7 +24,7 @@ No plug-in de calendário, é possível apresentar dados de uma [coluna de data]
 
 ![](images/Calendar.png)
 
-[Mais informações sobre o plugin de calendário](https://seatable.io/pt/docs/plugins/anleitung-zum-kalender-plugin/)
+[Mais informações sobre o plugin de calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
 
 Estes artigos também podem ser interessantes para si:
 
@@ -74,15 +74,6 @@ Com a ajuda do plug-in de design de páginas, pode criar o layout de **documento
 ![](images/Pagedesign.png)
 
 [Mais informações sobre o plugin de design de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
-
-Estes artigos também podem ser interessantes para si:
-
-- [Imagem estática](https://seatable.io/pt/docs/seitendesign-plugin/statisches-bild/)
-- [Texto estático](https://seatable.io/pt/docs/seitendesign-plugin/statischer-text/)
-- [Elementos dinâmicos](https://seatable.io/pt/docs/seitendesign-plugin/dynamische-elemente/)
-- [Cabeçalho e rodapé](https://seatable.io/pt/docs/seitendesign-plugin/kopf-und-fusszeile/)
-- [Entradas e páginas](https://seatable.io/pt/docs/seitendesign-plugin/eintraege-und-seiten/)
-- [Campos da tabela](https://seatable.io/pt/docs/seitendesign-plugin/tabellenfelder/)
 
 ## Plug-in Kanban
 

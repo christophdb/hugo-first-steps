@@ -20,5 +20,5 @@ También se hace referencia a esta circunstancia mediante un breve **texto infor
 
 Para poder crear un registro común a partir de una vista de tabla de una base que **no** pertenezca a un grupo, existe una forma sencilla de sortear la limitación técnica descrita anteriormente:
 
-1. [Copia la base correspondiente en cualquier grupo.](https://seatable.io/es/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/)
-2. [Crear un registro común a partir de la vista deseada.](https://seatable.io/es/docs/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes/)
+1. [Copia la base correspondiente en cualquier grupo.]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
+2. [Crear un registro común a partir de la vista deseada.]({{< relref "help/startseite/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes" >}})

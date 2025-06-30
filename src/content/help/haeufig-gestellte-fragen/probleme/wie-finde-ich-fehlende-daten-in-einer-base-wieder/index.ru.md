@@ -20,13 +20,13 @@ url: '/ru/pomoshch/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
 
 Вы можете в любое время восстановить целые таблицы или отдельные столбцы и строки через корзину в базе.
 
-Подробнее о восстановлении таблиц, столбцов и строк можно узнать [здесь](https://seatable.io/ru/docs/arbeiten-in-tabellen/eine-geloeschte-tabelle-wiederherstellen/).
+Подробнее о восстановлении таблиц, столбцов и строк можно узнать [здесь]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabelle-wiederherstellen" >}}).
 
 ## Восстановление удаленных баз из корзины
 
 Удаленные базы можно восстановить через корзину на стартовой странице. Обратите внимание, что это возможно только до 30-го дня после удаления.
 
-Узнайте больше о восстановлении базы [здесь](https://seatable.io/ru/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Узнайте больше о восстановлении базы [здесь]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## Восстановление данных через базовый журнал
 

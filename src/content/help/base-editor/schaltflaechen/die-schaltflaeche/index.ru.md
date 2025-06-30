@@ -26,7 +26,7 @@ url: '/ru/pomoshch/die-schaltflaeche'
 - Линия редактирования
 - Копирование строки в другую таблицу
 - Открытый URL
-- Открыть плагин (возможно только в том случае, если у вас активирован хотя бы один [плагин](https://seatable.io/ru/docs/arbeiten-mit-plugins/was-ist-ein-plugin/) )
+- Открыть плагин (возможно только в том случае, если у вас активирован хотя бы один [плагин]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) )
 - Сохранить PDF-файл в столбце (возможно только при активированном [плагине оформления страниц]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) )
 - Отправить уведомление
 - Отправить электронное письмо

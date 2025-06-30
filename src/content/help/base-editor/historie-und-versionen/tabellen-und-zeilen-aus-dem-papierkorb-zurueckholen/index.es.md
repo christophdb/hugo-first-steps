@@ -22,10 +22,10 @@ La Papelera de reciclaje base muestra una lista en orden **anticronológico**, e
 
 ## Preguntas frecuentes
 
-{{< faq "¿Es posible también deshacer las últimas entradas?" >}}Por supuesto, tienes la opción de deshacer los últimos cambios. Más información en [Deshacer acciones](https://seatable.io/es/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
+{{< faq "¿Es posible también deshacer las últimas entradas?" >}}Por supuesto, tienes la opción de deshacer los últimos cambios. Más información en [Deshacer acciones]({{< relref "help/base-editor/historie-und-versionen/aktionen-rueckgaengig-machen" >}}).
 {{< /faq >}}
 {{< faq "¿Se hacen copias de seguridad automáticas de mi base?" >}}Sí, cuando se realizan cambios en una base, se crea diariamente una llamada **instantánea de** la base, que luego puedes restaurar. Para obtener información más detallada, consulte [Guardar la base actual como instantánea]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) y [Restaurar una instantánea]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 {{< /faq >}}
-{{< faq "¿Es posible también hacer una copia de seguridad completa de una base?" >}}Sí, esto también es posible en SeaTable con la ayuda de la función de exportación. Más información en [Importación y exportación de datos](https://seatable.io/es/docs/seatable-nutzen/datenimport-und-export/).
+{{< faq "¿Es posible también hacer una copia de seguridad completa de una base?" >}}Sí, esto también es posible en SeaTable con la ayuda de la función de exportación. Más información en [Importación y exportación de datos]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 {{< /faq >}}

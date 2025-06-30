@@ -61,4 +61,4 @@ url: '/ru/pomoshch/benachrichtigungsregel-erstellen'
 
 ### Больше полезных статей в разделе "Уведомления":
 
-- [Редактирование и удаление правил уведомлений](https://seatable.io/ru/docs/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen/)
+- [Редактирование и удаление правил уведомлений]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen" >}})

@@ -31,7 +31,7 @@ Aprende todo sobre los posibles roles en un grupo en el artículo [Miembros del 
 
 ## Asignar grupos directamente a un nuevo miembro del equipo
 
-Ya al [crear un nuevo miembro del equipo](https://seatable.io/es/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/), puede añadir directamente a una persona a diferentes grupos y asignarle funciones.
+Ya al [crear un nuevo miembro del equipo]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}), puede añadir directamente a una persona a diferentes grupos y asignarle funciones.
 
 1. Cambia a la **administración del equipo**.
 2. Haga clic en la opción de menú **Equipo**.

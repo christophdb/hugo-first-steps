@@ -53,7 +53,11 @@ Bien entendu, vous ne payez que le **montant proportionnel** à chaque modificat
 
 Vous pouvez revenir à l'abonnement gratuit à la fin de la période déjà payée. Pour cela, vous devez résilier votre abonnement payant.
 
-{{< warning  headline="La résiliation n'est pas une suppression"  text="La résiliation de votre abonnement payant n'entraîne pas la suppression de votre équipe ou de vos données. Votre équipe sera simplement rétrogradée à l'équipe gratuite SeaTable Free à la fin de votre abonnement. Pour savoir comment supprimer complètement votre équipe, [cliquez ici](https://seatable.io/fr/docs/teamverwaltung/das-komplette-team-loeschen/)." />}}
+{{< warning  headline="La résiliation n'est pas une suppression" >}}
+
+La résiliation de votre abonnement payant n'entraîne pas la suppression de votre équipe ou de vos données. Votre équipe sera simplement rétrogradée à l'équipe gratuite SeaTable Free à la fin de votre abonnement. Pour savoir comment supprimer complètement votre équipe, [cliquez ici]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+
+{{< /warning >}}
 
 1. Ouvrez la **gestion d'équipe**.
 2. Cliquez sur **Abonnement**.

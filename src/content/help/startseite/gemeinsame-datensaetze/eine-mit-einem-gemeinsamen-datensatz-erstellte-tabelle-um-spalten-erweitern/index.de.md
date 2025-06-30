@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
 ---
 
-Tabellen, die Sie mit einem gemeinsamen Datensatz angelegt haben, enthalten zu Beginn alle Spalten und Zeilen, die auch in der Tabellenansicht des gemeinsamen Datensatzes zu finden sind. Darüber hinaus haben Sie selbstverständlich die Möglichkeit, diese Tabellen um **neue Spalten** zu erweitern und zusätzlich mit eigenen Daten zu befüllen. Der Vorteil: Daten in Spalten, die nicht mit dem gemeinsamen Datensatz verknüpft sind, werden bei der [Synchronisation](https://seatable.io/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) **nicht überschrieben**.
+Tabellen, die Sie mit einem gemeinsamen Datensatz angelegt haben, enthalten zu Beginn alle Spalten und Zeilen, die auch in der Tabellenansicht des gemeinsamen Datensatzes zu finden sind. Darüber hinaus haben Sie selbstverständlich die Möglichkeit, diese Tabellen um **neue Spalten** zu erweitern und zusätzlich mit eigenen Daten zu befüllen. Der Vorteil: Daten in Spalten, die nicht mit dem gemeinsamen Datensatz verknüpft sind, werden bei der [Synchronisation]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) **nicht überschrieben**.
 
 Diese Funktion macht es möglich, dass gemeinsame Datensätze beispielsweise von mehreren Abteilungen und Mitarbeitergruppen eines Unternehmens in verschiedensten Kontexten genutzt werden können.
 
@@ -20,7 +20,7 @@ Das Hinzufügen von Spalten funktioniert **genauso wie bei üblichen Tabellen**.
 
 ## Sperren von Spalten des gemeinsamen Datensatzes
 
-Bei der Bearbeitung von Spalten eines gemeinsamen Datensatzes ist **Vorsicht geboten**. Wenn Sie in Spalten, die Daten eines gemeinsamen Datensatzes enthalten, Änderungen vornehmen, werden diese bei der nächsten [Synchronisation des Datensatzes](https://seatable.io/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) wieder **überschrieben** und gehen somit **verloren**.
+Bei der Bearbeitung von Spalten eines gemeinsamen Datensatzes ist **Vorsicht geboten**. Wenn Sie in Spalten, die Daten eines gemeinsamen Datensatzes enthalten, Änderungen vornehmen, werden diese bei der nächsten [Synchronisation des Datensatzes]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) wieder **überschrieben** und gehen somit **verloren**.
 
 Um einen optimalen Workflow zu gewährleisten und sowohl einen Datenverlust als auch Missverständnisse bei der Zusammenarbeit zu vermeiden, empfiehlt es sich, alle **Spalten**, die Daten eines **gemeinsamen Datensatzes** enthalten, für die Bearbeitung zu **sperren**. Die **individuell** hinzugefügten zusätzlichen Spalten können Sie hingegen beliebig bearbeiten.
 

@@ -24,7 +24,7 @@ The file manager contains various folders, which in turn contain various files. 
 
 ![System folders created and organized by the SeaTable system in the file management system.](images/system-folders.png)
 
-- A **Seafile folder** contains all the files that you have previously uploaded to the external cloud storage of the same name. How exactly the integration of Seafile libraries works and what advantages it brings, you can learn [here](https://seatable.io/en/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+- A **Seafile folder** contains all the files that you have previously uploaded to the external cloud storage of the same name. How exactly the integration of Seafile libraries works and what advantages it brings, you can learn [here]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ![Seafile folder in file management](images/seafile-library.png)
 
@@ -56,7 +56,7 @@ If you want to **remove** the file manager from your toolbar, simply click on th
 
 ## Adjust window size and position of the file manager
 
-You can adjust the window size of the file manager so that you can keep an eye on your tables and data while managing your files and [drag files from the file manager directly into the appropriate columns of your tables](https://seatable.io/en/?post_type=docs&p=26594#8-toc-title).
+You can adjust the window size of the file manager so that you can keep an eye on your tables and data while managing your files and drag files from the file manager directly into the appropriate columns of your tables.
 
 To do this, simply open the file manager and move the mouse pointer over the **two lines** at the top of the window until a **double arrow** appears. Then hold down the mouse button and drag the window to the desired position and release as soon as this is reached.
 

@@ -33,7 +33,7 @@ The tasks of product management include all stages that a product goes through. 
 - **Concept**: strategy development for market, price, distribution, communication; prototype, cost overview
 - **Implementation**: technical implementation, strategy implementation, product launch
 
-In addition, there are some organisational tasks that a product manager takes on. He acts as an **interface** between [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [sales](https://seatable.io/en/vertrieb/) and product development as well as production. For the individual steps in the product development process, the product manager also coordinates the **[Project management](https://seatable.io/en/projektmanagement/)**. Product management is therefore also very busy with strategy formation and analyses, which occur in addition to the conception and development of the product itself.
+In addition, there are some organisational tasks that a product manager takes on. He acts as an **interface** between [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [sales]({{< relref "templates/sales/sales-pipeline" >}}) and product development as well as production. For the individual steps in the product development process, the product manager also coordinates the **[Project management]({{< relref "pages/industry-solutions/project-management" >}})**. Product management is therefore also very busy with strategy formation and analyses, which occur in addition to the conception and development of the product itself.
 
 ### Challenges in product management
 
@@ -51,7 +51,7 @@ Easily collect all your data in one place: with SeaTable. [Our template for prod
 
 ### 1\. general product overview
 
-To give every employee a comprehensive view of the product, a standard overview sheet is useful. This lists the most important product information, such as product series, product type, the official product name for the trade, item number, prices and associated product images. A brief overview is particularly valuable for people unfamiliar with the subject. With the various views in SeaTable, the data can be [filtered and saved with](https://seatable.io/en/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) just a few clicks, for example by product series or product type, and tedious manual sorting is no longer necessary.
+To give every employee a comprehensive view of the product, a standard overview sheet is useful. This lists the most important product information, such as product series, product type, the official product name for the trade, item number, prices and associated product images. A brief overview is particularly valuable for people unfamiliar with the subject. With the various views in SeaTable, the data can be [filtered and saved with]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) just a few clicks, for example by product series or product type, and tedious manual sorting is no longer necessary.
 
 ![In this view you have all products immediately in view - perfect for product management](Range-View_2.jpg)
 

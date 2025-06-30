@@ -29,4 +29,8 @@ It is important to note that only as the **owner** or **administrator of** a gro
 
 ![Role selection and confirmation](images/change-authorization-and-close.jpg)
 
-{{< warning  headline="Important note"  text="If you are no longer quite sure which of the three roles has which permissions, this [table on role permissions](https://seatable.io/en/docs/gruppen/gruppenmitglieder-und-ihre-berechtigungen/) will help you." />}}
+{{< warning  headline="Important note" >}}
+
+If you are no longer quite sure which of the three roles has which permissions, this [table on role permissions]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) will help you.
+
+{{< /warning >}}

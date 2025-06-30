@@ -11,7 +11,7 @@ seo:
     description:
 ---
 
-Today, 6 July 2021, we updated [SeaTable Cloud](https://cloud.seatable.io) to SeaTable 2.1 and uploaded the new Docker image to Docker Hub. The highlights of the release are the new table permissions and a new feature called Data Processing. In addition, we have improved the single and multiple selection column types and the checkbox column. In these release notes we present - as always - the key developments and refer to the [SeaTable Changelog](https://seatable.io/en/docs/changelog/version-2-1/) for the full list of changes.
+Today, 6 July 2021, we updated [SeaTable Cloud](https://cloud.seatable.io) to SeaTable 2.1 and uploaded the new Docker image to Docker Hub. The highlights of the release are the new table permissions and a new feature called Data Processing. In addition, we have improved the single and multiple selection column types and the checkbox column. In these release notes we present - as always - the key developments and refer to the [SeaTable Changelog]({{< relref "pages/changelog" >}}) for the full list of changes.
 
 ## Table permissions
 
@@ -39,7 +39,7 @@ Other data processing actions, such as calculating the order or automatically li
 
 ![SeaTable 2.1: Advanced permissions for single and multiple select columns](Advanced-column-permissions.png)
 
-The column permissions, which were introduced in [SeaTable 1.2](https://seatable.io/en/seatable-release-1-2/), allow the assignment and control of individual editing rights for individual columns. With SeaTable 2.1, the column authorisation menu of the two column types single selection and multiple selection was extended by a second button. This allows you to control which users may create and edit options in a selection column.
+The column permissions, which were introduced in [SeaTable 1.2]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}), allow the assignment and control of individual editing rights for individual columns. With SeaTable 2.1, the column authorisation menu of the two column types single selection and multiple selection was extended by a second button. This allows you to control which users may create and edit options in a selection column.
 
 Basically, all users with write permissions can edit options. Owners and admins of bases can now restrict this permission. The editing right can be restricted to _nobody_, _administrators_ or _certain users_. In the setting _Nobody_, not even administrators and owners themselves can create and change new options (but they can change the permission).
 

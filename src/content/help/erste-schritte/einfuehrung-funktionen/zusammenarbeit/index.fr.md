@@ -27,7 +27,7 @@ Dans ce qui suit, vous découvrirez les fonctions de collaboration de SeaTable. 
 
 ## Bases de groupe
 
-Une base de groupe est accessible à tous les membres d'un [groupe]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}). En tant que propriétaire du groupe, vous gérez le groupe et ses membres. Vous attribuez et retirez rapidement les droits d'accès aux [membres](https://seatable.io/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) via différents rôles. Vous pouvez créer un nouveau groupe en cliquant sur le bouton **Nouveau groupe** sous vos bases sur la page d'accueil.
+Une base de groupe est accessible à tous les membres d'un [groupe]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}). En tant que propriétaire du groupe, vous gérez le groupe et ses membres. Vous attribuez et retirez rapidement les droits d'accès aux [membres]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) via différents rôles. Vous pouvez créer un nouveau groupe en cliquant sur le bouton **Nouveau groupe** sous vos bases sur la page d'accueil.
 
 ## Historique
 
@@ -35,7 +35,7 @@ Pour que vous puissiez à tout moment savoir qui a apporté quelles modification
 
 ## Ensembles de données communs
 
-Vous pouvez mettre à disposition des différents groupes et utilisateurs de votre équipe les enregistrements dont ils ont besoin en utilisant les [enregistrements partagés]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) comme modèle pour les nouvelles tables. Chaque table que les membres de votre équipe créent avec un enregistrement commun peut être [synchronisée](https://seatable.io/fr/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). SeaTable remplace alors les données de la table par celles de l'enregistrement partagé actuel, de sorte que tout le monde soit au même niveau.
+Vous pouvez mettre à disposition des différents groupes et utilisateurs de votre équipe les enregistrements dont ils ont besoin en utilisant les [enregistrements partagés]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) comme modèle pour les nouvelles tables. Chaque table que les membres de votre équipe créent avec un enregistrement commun peut être [synchronisée]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}). SeaTable remplace alors les données de la table par celles de l'enregistrement partagé actuel, de sorte que tout le monde soit au même niveau.
 
 ## Partages internes
 

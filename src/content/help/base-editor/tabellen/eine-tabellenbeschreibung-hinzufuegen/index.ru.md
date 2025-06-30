@@ -10,7 +10,11 @@ url: '/ru/pomoshch/eine-tabellenbeschreibung-hinzufuegen'
 
 Вы можете добавить описание к каждой таблице в вашей базе. Этот краткий текст можно использовать, например, для пояснения содержимого таблицы.
 
-{{< warning  headline="Важное замечание"  text="Независимо от [роли и полномочий](https://seatable.io/ru/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/), вы также можете редактировать описания таблиц в базах, принадлежащих **группе**. Однако редактировать можно только описание таблиц, которые были [предоставлены](https://seatable.io/ru/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/) вам с **правами на запись**." />}}
+{{< warning  headline="Важное замечание" >}}
+
+Независимо от [роли и полномочий]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}), вы также можете редактировать описания таблиц в базах, принадлежащих **группе**. Однако редактировать можно только описание таблиц, которые были [предоставлены]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) вам с **правами на запись**.
+
+{{< /warning >}}
 
 ## Как добавить описание к таблице
 

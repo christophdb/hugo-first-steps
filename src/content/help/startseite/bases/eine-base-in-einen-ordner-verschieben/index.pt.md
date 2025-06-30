@@ -32,4 +32,4 @@ Para obter uma melhor visão geral das suas bases, tem a opção de mover as bas
 
 ## Restrição
 
-Uma base só pode ser movida para uma pasta que pertença ao mesmo **grupo** que a própria base. Se quiser mover uma base para uma pasta de outro grupo, deve primeiro [copiar](https://seatable.io/pt/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/) a base correspondente para o [grupo desejado](https://seatable.io/pt/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/).
+Uma base só pode ser movida para uma pasta que pertença ao mesmo **grupo** que a própria base. Se quiser mover uma base para uma pasta de outro grupo, deve primeiro [copiar]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) a base correspondente para o [grupo desejado]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).

@@ -47,7 +47,7 @@ Una solución para cumplir con los límites en este caso es externalizar sus arc
 
 ## Acceso a archivos en Seafile
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base.
+Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base.
 
 ![Biblioteca Seafile integrada en la gestión de archivos de la base](images/library-in-file-management.png)
 
@@ -55,4 +55,4 @@ Esta integración le permite utilizar los archivos almacenados en Seafile direct
 
 ## Posibilidades de integración
 
-En principio, puede conectar a SeaTable tanto servidores Seafile autoalojados como alojados. [No dude en ponerse en contacto con nuestro equipo de ventas](https://seatable.io/es/kontakt/) si desea autoalojar un servidor Seafile. Para los clientes de SeaTable Dedicated ofrecemos el coalojamiento de Seafile.
+En principio, puede conectar a SeaTable tanto servidores Seafile autoalojados como alojados. [No dude en ponerse en contacto con nuestro equipo de ventas]({{< relref "pages/contact" >}}) si desea autoalojar un servidor Seafile. Para los clientes de SeaTable Dedicated ofrecemos el coalojamiento de Seafile.

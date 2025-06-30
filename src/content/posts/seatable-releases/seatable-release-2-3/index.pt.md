@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-O SeaTable versão 2.3, disponível desde hoje, está a preparar-se para conquistar novos campos de aplicação. Com a função de arquivo, que é apresentada como um beta nesta versão, o SeaTable é agora também recomendado para casos de utilização intensiva de dados: As tabelas com milhões de registos de dados podem ser armazenadas e avaliadas em SeaTable. É o foco destas notas de lançamento. Outras inovações e melhorias são apresentadas numa visão geral. A lista completa de alterações pode ser encontrada - como sempre - no [SeaTable Changelog](https://seatable.io/pt/docs/changelog/version-2-3/).
+O SeaTable versão 2.3, disponível desde hoje, está a preparar-se para conquistar novos campos de aplicação. Com a função de arquivo, que é apresentada como um beta nesta versão, o SeaTable é agora também recomendado para casos de utilização intensiva de dados: As tabelas com milhões de registos de dados podem ser armazenadas e avaliadas em SeaTable. É o foco destas notas de lançamento. Outras inovações e melhorias são apresentadas numa visão geral. A lista completa de alterações pode ser encontrada - como sempre - no [SeaTable Changelog]({{< relref "pages/changelog" >}}).
 
 ## Função de arquivo (beta)
 
@@ -20,7 +20,7 @@ A nova função de arquivo elimina esta restrição! Para além das 150.000 linh
 
 ![Função de arquivo](Archive-function-1088x631.png)
 
-Em termos de opções de avaliação e análise, as diferenças entre linhas activas e arquivadas são controláveis: o arquivo suporta todos os tipos de colunas. Os filtros e a classificação permitem uma rápida avaliação dos dados no arquivo. E o acesso via API e através de [aplicações externas](https://seatable.io/pt/seatable-release-2-2#Externe_Apps_nur_fuer_Enterprise_Abos/?lang=auto) também é possível. Está em desenvolvimento uma função de pesquisa e apoio total a plug-ins.
+Em termos de opções de avaliação e análise, as diferenças entre linhas activas e arquivadas são controláveis: o arquivo suporta todos os tipos de colunas. Os filtros e a classificação permitem uma rápida avaliação dos dados no arquivo. E o acesso via API e através de [aplicações externas]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}) também é possível. Está em desenvolvimento uma função de pesquisa e apoio total a plug-ins.
 
 A diferença central é o apoio da colaboração online em tempo real: as linhas activas são completamente carregadas na memória de trabalho quando a mesa é chamada. Cada alteração numa tabela pode assim ser transmitida imediatamente a outros utilizadores. Os dados arquivados são diferentes: Quando uma mesa é aberta, apenas as primeiras 1.000 filas são carregadas do arquivo. Os dados adicionais podem ser recuperados página a página. Esta renúncia ao carregamento completo permite uma visualização rápida na interface web, mesmo de tabelas com muitas centenas de milhares de linhas, mas também significa renunciar à colaboração em tempo real.
 
@@ -63,7 +63,7 @@ A vista do arquivo mostra linhas arquivadas e não arquivadas e permite avaliaç
 
 ### Ligações externas sem registos e comentários
 
-O histórico da tabela e os comentários não fazem parte da informação que normalmente se desejaria tornar quase pública através de uma [ligação externa](https://seatable.io/pt/docs/handbuch/zusammenarbeit/externe-links/?lang=auto). Portanto, os registos e comentários já não são exibidos na linha de detalhes de ligações externas no SeaTable a partir da versão 2.3.
+O histórico da tabela e os comentários não fazem parte da informação que normalmente se desejaria tornar quase pública através de uma [ligação externa]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}). Portanto, os registos e comentários já não são exibidos na linha de detalhes de ligações externas no SeaTable a partir da versão 2.3.
 
 ### Valores por defeito para formulários
 
@@ -85,7 +85,7 @@ As tabelas podem ser duplicadas, as vistas podem ser duplicadas e as filas tamb�
 
 ### Automatização adicional: Enviar e-mail
 
-A nova versão ampliou as opções de automatização do SeaTable: A automatização Enviar e-mail complementa as quatro [automatizações introduzidas na versão 2.2](https://seatable.io/pt/seatable-release-2-2#Automationen_nur_fuer_Enterprise_Abos/?lang=auto): _Enviar notificação_, _Bloquear linha_, _Adicionar linha_ e _Editar_ linha. Os e-mails são enviados através de uma conta de e-mail configurada na Base.
+A nova versão ampliou as opções de automatização do SeaTable: A automatização Enviar e-mail complementa as quatro [automatizações introduzidas na versão 2.2]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}): _Enviar notificação_, _Bloquear linha_, _Adicionar linha_ e _Editar_ linha. Os e-mails são enviados através de uma conta de e-mail configurada na Base.
 
 ### A primeira coluna suporta selecções individuais
 

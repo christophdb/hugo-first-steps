@@ -52,4 +52,4 @@ Tras confirmar la eliminación, se **borran** **todas las entradas duplicadas** 
 
 Tenga en cuenta que **no sólo** se eliminan de la tabla los **valores** identificados como duplicados, sino también las **filas completas** que contengan con ellos uno de los valores duplicados.
 
-Si has borrado las entradas o líneas por error o las necesitas de nuevo después, puedes [restaurarlas desde la papelera de reciclaje de la Base](https://seatable.io/es/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/) durante un tiempo determinado.
+Si has borrado las entradas o líneas por error o las necesitas de nuevo después, puedes [restaurarlas desde la papelera de reciclaje de la Base]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}) durante un tiempo determinado.

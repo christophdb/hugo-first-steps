@@ -26,9 +26,9 @@ This article explains the steps required to add an email account to a base and h
 
 To make account setup easier, we offer step-by-step instructions for the most popular email providers:
 
-- [Gmail](https://seatable.io/en/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
-- [GMX and WEB.DE](https://seatable.io/en/docs/integrationen-innerhalb-von-seatable/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
-- [Outlook and Microsoft 365](https://seatable.io/en/docs/integrationen-innerhalb-von-seatable/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
+- [Gmail]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [GMX and WEB.DE]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [Outlook and Microsoft 365]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 
 ## Testing the email configuration
 

@@ -19,7 +19,7 @@ Comece o planeamento da sua mudança com uma sessão de brainstorming. Que taref
 
 Uma lista de controlo pode ajudar a manter um registo de todas as tarefas.
 
-Pode também encontrar uma lista de verificação para a sua mudança no nosso [modelo](https://seatable.io/pt/umzug/#Online-Planer_fuer_Ihren_Umzug).
+Pode também encontrar uma lista de verificação para a sua mudança no nosso [modelo]({{< relref "posts/umzug" >}}).
 
 ## Antes da mudança
 
@@ -94,7 +94,7 @@ A quantidade de apoio que pretende obter de uma empresa depende de si. Normalmen
 
 ### Para quem quer poupar dinheiro: organizar a mudança sozinho
 
-Se quiser poupar custos, **mudar-se por conta** própria é exatamente a coisa certa a fazer. No entanto, o esforço de organização também será maior. Porque tudo o que está incluído na empresa de mudanças passa a estar nas suas mãos. Mas, com um bom planeamento, nada pode impedir este plano. Um [plano](https://seatable.io/pt/umzug/#Online-Planer_fuer_Ihren_Umzug) de mudanças ajudá-lo-á em todas as etapas do processo.
+Se quiser poupar custos, **mudar-se por conta** própria é exatamente a coisa certa a fazer. No entanto, o esforço de organização também será maior. Porque tudo o que está incluído na empresa de mudanças passa a estar nas suas mãos. Mas, com um bom planeamento, nada pode impedir este plano. Um [plano]({{< relref "posts/umzug" >}}) de mudanças ajudá-lo-á em todas as etapas do processo.
 
 ![Custos que terá de suportar durante a mudança.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 

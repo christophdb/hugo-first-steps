@@ -22,7 +22,7 @@ Si vous hésitez encore sur la conception de votre base ou si vous êtes simplem
 
 ## Utiliser un modèle directement depuis le site web de SeaTable
 
-Sur le [site web de SeaTable, dans la section Modèles](https://seatable.io/fr/modeles/), vous trouverez un grand nombre de modèles pour les applications les plus diverses. Chaque modèle vous offre un aperçu de la structure du tableau sur le site web, ce qui vous permet de vous faire rapidement une idée de la structure de la base.
+Sur le [site web de SeaTable, dans la section Modèles]({{< relref "templates" >}}), vous trouverez un grand nombre de modèles pour les applications les plus diverses. Chaque modèle vous offre un aperçu de la structure du tableau sur le site web, ce qui vous permet de vous faire rapidement une idée de la structure de la base.
 
 Si un modèle vous plaît et que vous voulez l'essayer, vous pouvez cliquer sur **Utiliser** le modèle pour le copier directement dans votre nuage SeaTable, dans la section **Mes bases**. Vous pouvez également sauter directement dans la base et commencer à l'explorer immédiatement.
 

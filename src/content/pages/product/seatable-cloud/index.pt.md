@@ -75,6 +75,6 @@ sections:
           - text: O SeaTable Cloud opera nos data centers alemães certificados do provedor suíço Exoscale. Viramos as costas para provedores de serviços americanos.
       buttons:
           - label: Ler o artigo do blog
-            link: https://seatable.io/die-seatable-cloud-wird-europaeischer/
+            link: 'posts/die-seatable-cloud-wird-europaeischer'
       image: '/images/seatable-1-1024x560-1.png'
 ---

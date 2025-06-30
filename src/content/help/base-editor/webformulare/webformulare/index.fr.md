@@ -66,7 +66,7 @@ Pour vérifier à quoi ressemble le formulaire pour le destinataire, cliquez en 
 
 ### Partager le formulaire
 
-Pour rendre le formulaire accessible à d'autres, vous avez besoin d'un **lien**. Vous obtenez le lien pour le formulaire dans l'éditeur de formulaire web en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-share" >}} **Partager**. Vous pouvez utiliser le **lien généré automatiquement** ou créer **votre propre lien** et l'enrichir avec [des valeurs pré-remplies](https://seatable.io/fr/docs/webformulare/formularfelder-per-url-vorbefuellen/).
+Pour rendre le formulaire accessible à d'autres, vous avez besoin d'un **lien**. Vous obtenez le lien pour le formulaire dans l'éditeur de formulaire web en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-share" >}} **Partager**. Vous pouvez utiliser le **lien généré automatiquement** ou créer **votre propre lien** et l'enrichir avec [des valeurs pré-remplies]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}).
 
 ![Nouvelle boîte de dialogue de lien de formulaire dans SeaTable 4.3](images/Formularlink-Dialog.gif)
 

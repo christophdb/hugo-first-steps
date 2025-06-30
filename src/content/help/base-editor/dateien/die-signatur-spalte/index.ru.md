@@ -42,11 +42,15 @@ url: '/ru/pomoshch/die-signatur-spalte'
 
 ![Повторите подпись в панели подписи](images/resign.jpg)
 
-{{< warning  headline="Файл не удален"  text="Однако оригинальная подпись остается доступной в виде PNG-файла в [файловом менеджере](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base, если вы уже сохранили ее." />}}
+{{< warning  headline="Файл не удален" >}}
+
+Однако оригинальная подпись остается доступной в виде PNG-файла в [файловом менеджере]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base, если вы уже сохранили ее.
+
+{{< /warning >}}
 
 ## Цифровые подписи в файловом менеджере
 
-Каждая сохраненная подпись также сохраняется в [файловом управлении](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) вашей базы в виде PNG-файла в **системной папке**.
+Каждая сохраненная подпись также сохраняется в [файловом управлении]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) вашей базы в виде PNG-файла в **системной папке**.
 
 ![Папка в файловом управлении вашей Базы, где хранятся ваши подписи ](images/stored-signatures-in-filemanagement.jpg)
 

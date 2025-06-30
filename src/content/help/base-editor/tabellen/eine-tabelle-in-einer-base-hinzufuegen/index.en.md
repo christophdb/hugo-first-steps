@@ -32,7 +32,7 @@ In SeaTable, [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}
 
 ![Importing a table from another base](images/import-table-from-other-base.gif)
 
-[Shared records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) also allow you to share a master table in a group and use and synchronize the table offshoots in different bases. You can learn more about this [here](https://seatable.io/en/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+[Shared records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) also allow you to share a master table in a group and use and synchronize the table offshoots in different bases. You can learn more about this [here]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}).
 
 ## Keep the overview
 
@@ -40,4 +40,4 @@ Sometimes a picture is worth a thousand words. SeaTable also allows you to use e
 
 ![Emojis in table name](images/emojis-seatable-table-name.png)
 
-You can find detailed instructions in the article [Using emojis in table names](https://seatable.io/en/docs/arbeiten-in-tabellen/verwendung-von-emojis-im-tabellennamen/).
+You can find detailed instructions in the article [Using emojis in table names]({{< relref "help/base-editor/tabellen/verwendung-von-emojis-im-tabellennamen" >}}).

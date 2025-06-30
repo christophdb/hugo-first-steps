@@ -14,13 +14,17 @@ Unfortunately, it is **not possible** in the system to merge individual SeaTable
 
 Of course, you can delete an account (team or team member) at any time and then create a new one in another team. The following procedure is recommended for this:
 
-1. [Export all bases](https://seatable.io/en/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) that you want to transfer to the new team.
-2. [Delete the team member](https://seatable.io/en/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) or [the entire team](https://seatable.io/en/docs/teamverwaltung/das-komplette-team-loeschen/) via the team administration.
-3. Create a [new team member](https://seatable.io/en/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/) in the other team.
+1. [Export all bases]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) that you want to transfer to the new team.
+2. [Delete the team member]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) or [the entire team]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}) via the team administration.
+3. Create a [new team member]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}) in the other team.
 4. [Import]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}) your previously exported bases.
 
 ## Deactivate is not enough
 
 Deactivating the team member in the original team is not sufficient. For SeaTable to use the email address again, you must delete the team member completely.
 
-{{< warning headline="Attention" text="If you [delete the entire team](https://seatable.io/en/docs/teamverwaltung/das-komplette-team-loeschen/), all other team members will be deleted as well." />}}
+{{< warning headline="Attention" >}}
+
+If you [delete the entire team]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}), all other team members will be deleted as well.
+
+{{< /warning >}}

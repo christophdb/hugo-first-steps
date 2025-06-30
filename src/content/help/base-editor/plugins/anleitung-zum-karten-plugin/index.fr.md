@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/anleitung-zum-karten-plugin'
 ---
 
-Si vous avez créé une colonne de texte dans votre tableau avec des adresses ou des noms de lieux ou si vous avez utilisé le type de colonne [Géoposition](https://seatable.io/fr/docs/andere-spalten/die-geopositions-spalte/), vous pouvez utiliser le **plugin de carte** pour représenter les lieux saisis dans la colonne.
+Si vous avez créé une colonne de texte dans votre tableau avec des adresses ou des noms de lieux ou si vous avez utilisé le type de colonne [Géoposition]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}), vous pouvez utiliser le **plugin de carte** pour représenter les lieux saisis dans la colonne.
 
 Pour activer le plugin, suivez les instructions de l'article [Activer un plugin dans une base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
@@ -70,7 +70,7 @@ Si vous avez créé plusieurs tableaux dans votre base, vous pouvez choisir à c
 
 ### Ligne d'adresse
 
-Définissez ici une colonne de texte dans laquelle vous avez saisi des adresses ou des noms de lieux, ou une [colonne de géoposition](https://seatable.io/fr/docs/andere-spalten/die-geopositions-spalte/) à partir de laquelle les lieux doivent être affichés sur la carte. Notez que le plugin de carte ne fonctionne que si vous avez utilisé une colonne de ce type dans votre tableau.
+Définissez ici une colonne de texte dans laquelle vous avez saisi des adresses ou des noms de lieux, ou une [colonne de géoposition]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}) à partir de laquelle les lieux doivent être affichés sur la carte. Notez que le plugin de carte ne fonctionne que si vous avez utilisé une colonne de ce type dans votre tableau.
 
 ### Couleur du marqueur
 

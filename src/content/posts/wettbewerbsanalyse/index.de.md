@@ -131,7 +131,7 @@ Sammeln Sie umfassende Informationen über Ihre Wettbewerber. Nutzen Sie dabei s
 
 Nehmen Sie sich die Zeit, detaillierte Profile Ihrer Hauptkonkurrenten zu erstellen.
 
-Vergleichen und bewerten Sie die gesammelten Daten. Greifen Sie dazu auf die oben genannten **Wettbewerbsanalyse Methoden** zurück oder wählen Sie andere bewährte Analysemethoden wie die [SWOT-Analyse](https://seatable.io/swot-analyse-template/). Mit dieser identifizieren Sie die Stärken und Schwächen Ihrer Wettbewerber sowie Chancen und Risiken im Markt. Neben der **VRIO-Analyse** kann Ihnen auch die **Benchmark-Analyse** helfen, die Leistungsfähigkeit Ihres Unternehmens im Vergleich zu Ihren Wettbewerbern zu bewerten.
+Vergleichen und bewerten Sie die gesammelten Daten. Greifen Sie dazu auf die oben genannten **Wettbewerbsanalyse Methoden** zurück oder wählen Sie andere bewährte Analysemethoden wie die [SWOT-Analyse]({{< relref "templates/operations/swot-analysis" >}}). Mit dieser identifizieren Sie die Stärken und Schwächen Ihrer Wettbewerber sowie Chancen und Risiken im Markt. Neben der **VRIO-Analyse** kann Ihnen auch die **Benchmark-Analyse** helfen, die Leistungsfähigkeit Ihres Unternehmens im Vergleich zu Ihren Wettbewerbern zu bewerten.
 
 ### 5\. Strategien ableiten
 

@@ -11,7 +11,7 @@ seo:
     description:
 ---
 
-The September release, uploaded on September 14, brings plenty of new features, functionalities and user experience improvements to ALL users. The hottest new addition is SeaTable’s scripting engine. Other great new features are the seamless integration of templates, conditional row formatting, a new print function and the new column type auto number. And this is by far not all. For the full list of changes, check our [Changelog](https://seatable.io/en/docs/changelog/version-1-3/). Living up to its name, SeaTable offers an ocean of possibilities. [Register now]({{< relref "pages/registration" >}}) and hit the waves.
+The September release, uploaded on September 14, brings plenty of new features, functionalities and user experience improvements to ALL users. The hottest new addition is SeaTable’s scripting engine. Other great new features are the seamless integration of templates, conditional row formatting, a new print function and the new column type auto number. And this is by far not all. For the full list of changes, check our [Changelog]({{< relref "pages/changelog" >}}). Living up to its name, SeaTable offers an ocean of possibilities. [Register now]({{< relref "pages/registration" >}}) and hit the waves.
 
 ## Automate data processing with scripts
 
@@ -21,7 +21,7 @@ SeaTable’s scripts are related to the well-known SeaTable plugins such as the 
 
 ## Get work done faster with templates
 
-Many users already know our [carefully created templates](https://seatable.io/en/docs/templates/). With the new release, it is now even easier to create new bases directly based on these templates, without the hassle of manual copy and export procedures. Using a template is now as easy as it gets! Create a new base, select your preferred template and off you go.
+Many users already know our [carefully created templates]({{< relref "templates" >}}). With the new release, it is now even easier to create new bases directly based on these templates, without the hassle of manual copy and export procedures. Using a template is now as easy as it gets! Create a new base, select your preferred template and off you go.
 
 ![](create-from-template.png)
 

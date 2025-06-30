@@ -13,7 +13,7 @@ seo:
 
 Today we have updated cloud.seatable.io to version 1.5 of SeaTable. With the next login, all users will benefit from exciting new features and a number of interface and existing functionality improvements. At first glance, you will notice the numerous minor and major changes to the table editor, resulting in increased workflow efficiency and improved user experience. The new custom sharing permissions provide more control and flexibility when working collaboratively on bases. Enhanced customization options make SeaTable's web forms an even more versatile tool for data collection.
 
-The full list of changes is, as always, available in [SeaTable's Changelog](https://seatable.io/docs/changelog/version-1-5/?lang=auto). This release note presents the new version's biggest and most exciting changes.
+The full list of changes is, as always, available in [SeaTable's Changelog]({{< relref "pages/changelog" >}}?lang=auto). This release note presents the new version's biggest and most exciting changes.
 
 ## Sleeker table editor
 
@@ -59,7 +59,7 @@ Imagine you want to share a base with your team members with different access ri
 
 ![SeaTable 1.5 now supports custom sharing permissions](Custom_Sharing_Permission.png)
 
-In the new version we introduce user-defined release permissions. Thanks to them, the scenario just mentioned is possible without much headache. A custom share permission consists of individual access rights for all tables and views in a base. With a custom share permission, you can, for example, grant read access to one table but extended read-write access to another table in the base. But that's not all: custom shares can also be specified at the view level. You can therefore grant read-write access to a specific view of a table, but read-only access to the default view. If you do not want to grant access to a table or view at all, that is also possible. Simply grant neither read nor read-write access. And best of all, you can define as many custom [share permissions](https://seatable.io/en/docs/handbuch/zusammenarbeit/freigaben/) as you want for each base. Have you been longing for more granular permission management in SeaTable? Now you have it!
+In the new version we introduce user-defined release permissions. Thanks to them, the scenario just mentioned is possible without much headache. A custom share permission consists of individual access rights for all tables and views in a base. With a custom share permission, you can, for example, grant read access to one table but extended read-write access to another table in the base. But that's not all: custom shares can also be specified at the view level. You can therefore grant read-write access to a specific view of a table, but read-only access to the default view. If you do not want to grant access to a table or view at all, that is also possible. Simply grant neither read nor read-write access. And best of all, you can define as many custom [share permissions]({{< relref "help/startseite/freigaben" >}}) as you want for each base. Have you been longing for more granular permission management in SeaTable? Now you have it!
 
 ## More flexible forms
 
@@ -73,6 +73,6 @@ We are crossing our fingers that the Corona pandemic will be something for the h
 
 ## More improvements
 
-This release note only covers the most important improvements in greater detail. The Changelog contains the complete list of modifications. Check it out! Among the noteworthy smaller improvements are time triggers for Python scripts (see the [release note of SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})) and the removal of performance issues when handling a larger number of rows in the table editor.
+This release note only covers the most important improvements in greater detail. The Changelog contains the complete list of modifications. Check it out! Among the noteworthy smaller improvements are time triggers for Python scripts (see the [release note of SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) and the removal of performance issues when handling a larger number of rows in the table editor.
 
 Register your team account now and use SeaTable permanently free-of-charge! For feedback and comments, we are looking forward to hearing from you in the  [SeaTable Forum](https://forum.seatable.com/).

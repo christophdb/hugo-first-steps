@@ -32,4 +32,4 @@ url: '/ru/pomoshch/eine-base-in-einen-ordner-verschieben'
 
 ## Ограничение
 
-Базу можно переместить только в папку, принадлежащую к той же **группе**, что и сама база. Если вы хотите переместить базу в папку другой группы, сначала необходимо [скопировать](https://seatable.io/ru/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/) соответствующую базу в [нужную группу](https://seatable.io/ru/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/).
+Базу можно переместить только в папку, принадлежащую к той же **группе**, что и сама база. Если вы хотите переместить базу в папку другой группы, сначала необходимо [скопировать]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) соответствующую базу в [нужную группу]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).

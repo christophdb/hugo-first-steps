@@ -60,7 +60,7 @@ Certains utilisateurs attendaient en outre avec impatience la possibilité d'env
 
 ## Et bien plus encore
 
-Bien entendu, nous ne pouvons pas, sans être excessivement prolixe, présenter en détail toutes les nouvelles fonctionnalités dans ces notes de version. La liste complète des changements se trouve dans le [changelog](https://seatable.io/fr/docs/changelog/version-3-2/). Dans cette dernière section, nous présentons brièvement d'autres nouveautés :
+Bien entendu, nous ne pouvons pas, sans être excessivement prolixe, présenter en détail toutes les nouvelles fonctionnalités dans ces notes de version. La liste complète des changements se trouve dans le [changelog]({{< relref "pages/changelog" >}}). Dans cette dernière section, nous présentons brièvement d'autres nouveautés :
 
 Avec cette version, les tris et les regroupements bénéficient de ce que les filtres permettent déjà depuis un certain temps : la modification de leur ordre. Des règles de filtrage, de tri et de regroupement plus étendues peuvent donc être facilement adaptées a posteriori à des exigences changeantes.
 

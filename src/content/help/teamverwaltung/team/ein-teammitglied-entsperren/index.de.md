@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/de/hilfe/ein-teammitglied-entsperren'
 ---
 
-[Gesperrte Teammitglieder](https://seatable.io/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) können sich nicht mehr einloggen und nicht mehr mit Ihnen arbeiten. Als **Team-Administrator** können Sie diese Sperre aber wieder aufheben.
+[Gesperrte Teammitglieder]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) können sich nicht mehr einloggen und nicht mehr mit Ihnen arbeiten. Als **Team-Administrator** können Sie diese Sperre aber wieder aufheben.
 
 ## Kein Login für deaktivierte Teammitglieder
 

@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/nach-einer-tabelle-suchen'
 ---
 
-Para bases com um grande número de tabelas, nem todos os **separadores** podem ser apresentados **no cabeçalho da base**. Mesmo [as tabelas ocultas](https://seatable.io/pt/docs/arbeiten-in-tabellen/tabellen-ausblenden/) já não podem ser encontradas no cabeçalho da base. Por isso, o SeaTable oferece a opção de procurar uma **tabela**.
+Para bases com um grande número de tabelas, nem todos os **separadores** podem ser apresentados **no cabeçalho da base**. Mesmo [as tabelas ocultas]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) já não podem ser encontradas no cabeçalho da base. Por isso, o SeaTable oferece a opção de procurar uma **tabela**.
 
 ![Procurar uma tabela](images/Search-for-a-table.png)
 
@@ -20,4 +20,8 @@ Também é possível encontrar tabelas no cabeçalho da base utilizando os **bot
 
 ![Procurar tabela no cabeçalho da base com as teclas de setas](images/Tabelle-im-Base-Header-mit-Pfeiltasten-finden.gif)
 
-{{< warning  headline="Dica"  text="Também pode [mover](https://seatable.io/pt/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) as tabelas [utilizando a função arrastar e largar](https://seatable.io/pt/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/), para que as tabelas utilizadas com mais frequência estejam sempre à mão, à esquerda, no cabeçalho da base." />}}
+{{< warning  headline="Dica" >}}
+
+Também pode [mover]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) as tabelas [utilizando a função arrastar e largar]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}), para que as tabelas utilizadas com mais frequência estejam sempre à mão, à esquerda, no cabeçalho da base.
+
+{{< /warning >}}

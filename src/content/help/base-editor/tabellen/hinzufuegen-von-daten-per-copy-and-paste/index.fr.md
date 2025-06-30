@@ -23,7 +23,7 @@ SeaTable vous assiste même en ajoutant des colonnes supplémentaires si nécess
 Il est parfois plus rapide de dupliquer une ligne ou une colonne entière. Vous apprendrez ici comment procéder :
 
 - [Dupliquer une ligne]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}})
-- [Dupliquer une colonne](https://seatable.io/fr/docs/spalten/duplizieren-einer-spalte/)
+- [Dupliquer une colonne]({{< relref "help/base-editor/spalten/duplizieren-einer-spalte" >}})
 
 ## Conseil de pro
 

@@ -27,7 +27,7 @@ Em seguida, aprenderá sobre as características de colaboração do SeaTable. A
 
 ## Bases de grupo
 
-Todos os membros de um [grupo]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) têm acesso a uma base de grupo. Como proprietário do grupo, pode gerir o grupo e os seus membros. Utiliza diferentes funções para atribuir direitos de acesso aos [membros](https://seatable.io/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) - e revogá-los com a mesma rapidez. Pode criar um novo grupo utilizando o botão **Novo grupo** nas suas bases na página inicial.
+Todos os membros de um [grupo]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) têm acesso a uma base de grupo. Como proprietário do grupo, pode gerir o grupo e os seus membros. Utiliza diferentes funções para atribuir direitos de acesso aos [membros]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) - e revogá-los com a mesma rapidez. Pode criar um novo grupo utilizando o botão **Novo grupo** nas suas bases na página inicial.
 
 ## História
 
@@ -35,7 +35,7 @@ Para lhe permitir seguir quem fez as alterações aos dados nas suas bases e qua
 
 ## Conjuntos de dados comuns
 
-Registos que diferentes grupos e utilizadores da sua equipa necessitam podem ser-lhes disponibilizados através de [registos partilhados]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) como modelos para novas tabelas. Qualquer tabela que os membros da sua equipa criem com um registo partilhado, eles podem [sincronizar-se](https://seatable.io/pt/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). SeaTable sobrepõe os dados da tabela com os do actual registo partilhado, para que todos estejam ao mesmo nível.
+Registos que diferentes grupos e utilizadores da sua equipa necessitam podem ser-lhes disponibilizados através de [registos partilhados]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) como modelos para novas tabelas. Qualquer tabela que os membros da sua equipa criem com um registo partilhado, eles podem [sincronizar-se]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}). SeaTable sobrepõe os dados da tabela com os do actual registo partilhado, para que todos estejam ao mesmo nível.
 
 ## Lançamentos internos
 

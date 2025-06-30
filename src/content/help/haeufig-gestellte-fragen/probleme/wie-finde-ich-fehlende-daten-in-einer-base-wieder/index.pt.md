@@ -20,13 +20,13 @@ Se você ou os membros da sua equipa tiverem apagado acidentalmente certos artig
 
 Pode restaurar mesas inteiras ou colunas e filas individuais em qualquer altura através do caixote da reciclagem numa base.
 
-Saiba mais sobre como restaurar tabelas, colunas e filas [aqui](https://seatable.io/pt/docs/arbeiten-in-tabellen/eine-geloeschte-tabelle-wiederherstellen/).
+Saiba mais sobre como restaurar tabelas, colunas e filas [aqui]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabelle-wiederherstellen" >}}).
 
 ## Restaurar Bases Eliminadas do Lixo de Reciclagem
 
 As bases apagadas podem ser restauradas através do caixote da reciclagem na página inicial. Note-se que isto só é possível até ao 30º dia após a eliminação.
 
-Saiba mais sobre restauração de bases [aqui](https://seatable.io/pt/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Saiba mais sobre restauração de bases [aqui]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## Restauração de dados através do registo de base
 

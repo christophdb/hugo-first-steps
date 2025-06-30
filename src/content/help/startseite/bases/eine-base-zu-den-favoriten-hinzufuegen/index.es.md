@@ -36,4 +36,4 @@ Las bases que has añadido a tus **favoritos** siempre aparecen en la **parte su
 - Liberado para mí
 - Grupo 1
 - Grupo 2
-- ... (todos sus grupos siguen en cualquier [orden que pueda cambiar](https://seatable.io/es/docs/arbeiten-mit-gruppen/die-reihenfolge-der-gruppen-aendern/))
+- ... (todos sus grupos siguen en cualquier [orden que pueda cambiar]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}})

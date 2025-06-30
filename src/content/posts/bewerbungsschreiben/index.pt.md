@@ -220,6 +220,6 @@ Antes de enviar a sua candidatura, deve fazer **uma revisão da** mesma. Para al
 
 ## Conclusão
 
-Agora nada o impede de redigir a sua próxima candidatura com êxito. A SeaTable criou um [planeador de candidaturas em linha](https://seatable.io/pt/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen) para que não perca o rasto dos seus documentos, mesmo que tenha várias candidaturas. Isto ajudá-lo-á a planear os seus próximos passos, a organizar os seus documentos e a manter-se sempre atualizado sobre o processo de candidatura.
+Agora nada o impede de redigir a sua próxima candidatura com êxito. A SeaTable criou um [planeador de candidaturas em linha]({{< relref "posts/bewerbungsschreiben" >}}) para que não perca o rasto dos seus documentos, mesmo que tenha várias candidaturas. Isto ajudá-lo-á a planear os seus próximos passos, a organizar os seus documentos e a manter-se sempre atualizado sobre o processo de candidatura.
 
 Se pretender utilizar o SeaTable para a síntese da sua candidatura, basta [registar-se]({{< relref "pages/registration" >}}) gratuitamente. Pode encontrar o modelo [aqui]({{< relref "templates/everyday-life/application-cover-letter" >}}).

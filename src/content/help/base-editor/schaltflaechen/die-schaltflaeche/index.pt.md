@@ -26,7 +26,7 @@ Pode escolher entre um total de **nove** acções diferentes:
 - Linha de edição
 - Fila de cópia para outra tabela
 - Abrir URL
-- Abrir o plugin (só é possível se tiver ativado pelo menos um [plugin](https://seatable.io/pt/docs/arbeiten-mit-plugins/was-ist-ein-plugin/) )
+- Abrir o plugin (só é possível se tiver ativado pelo menos um [plugin]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) )
 - Guardar o ficheiro PDF em coluna (só é possível se o [plug-in de design de página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) estiver ativado)
 - Enviar notificação
 - Enviar e-mail

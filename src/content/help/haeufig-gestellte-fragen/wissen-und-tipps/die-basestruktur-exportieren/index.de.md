@@ -23,7 +23,7 @@ Im folgenden Artikel finden Sie ein Python-Skript, das es Ihnen erlaubt, die ges
 
 ## Das Ergebnis des Python-Skripts
 
-Die Ausgabe des Skripts liefert zum Beispiel das folgende Ergebnis, welches Sie dann kopieren und für einen **Eintrag im Forum** oder für ein [Support-Ticket](https://seatable.io/docs/teamverwaltung/ein-support-ticket-eroeffnen/) verwenden können.` ``` --- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS --- . Table: inventory (ID: 0000) --> Name (text) --> Link to other table (link --> 5H74) --> Status (single-select) --> Collaborator (collaborator) --> URL of the customer (url) . Table: price range (ID: 5H74) --> Name (text) --> Min Price (number) --> Max Price (number) --> inventory (link --> 0000)  ``` `
+Die Ausgabe des Skripts liefert zum Beispiel das folgende Ergebnis, welches Sie dann kopieren und für einen **Eintrag im Forum** oder für ein [Support-Ticket]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}}) verwenden können.` ``` --- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS --- . Table: inventory (ID: 0000) --> Name (text) --> Link to other table (link --> 5H74) --> Status (single-select) --> Collaborator (collaborator) --> URL of the customer (url) . Table: price range (ID: 5H74) --> Name (text) --> Min Price (number) --> Max Price (number) --> inventory (link --> 0000)  ``` `
 
 ## Die Base-Struktur für einen Eintrag im Community-Forum verwenden
 

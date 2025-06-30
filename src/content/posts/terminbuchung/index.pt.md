@@ -26,7 +26,7 @@ O SeaTable pode oferecer uma substituição inteligente e adequada neste caso e 
 
 ## Com a função de formulário para o sistema de marcação de consultas
 
-Para criar um sistema de marcação de consultas no SeaTable, utilizaremos a [função de formulário](https://seatable.io/pt/docs/handbuch/datenmanagement/webformulare/). Isto permitir-lhe-á recolher informações de qualquer pessoa através de uma simples ligação e armazená-las automaticamente na sua base SeaTable.
+Para criar um sistema de marcação de consultas no SeaTable, utilizaremos a [função de formulário]({{< relref "help/base-editor/webformulare" >}}). Isto permitir-lhe-á recolher informações de qualquer pessoa através de uma simples ligação e armazená-las automaticamente na sua base SeaTable.
 
 ## Criar as suas duas tabelas necessárias
 

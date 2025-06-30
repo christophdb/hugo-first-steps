@@ -131,7 +131,7 @@ Gather comprehensive information about your competitors. Use public sources such
 
 Take the time to create detailed profiles of your main competitors.
 
-Compare and evaluate the collected data. To do this, use the **competitive analysis methods** mentioned above or choose other proven analysis methods such as the [SWOT analysis](https://seatable.io/en/swot-analyse-template/). This allows you to identify the strengths and weaknesses of your competitors as well as opportunities and risks in the market. In addition to the **VRIO analysis**, the **benchmark analysis** can also help you to evaluate the performance of your company in comparison to your competitors.
+Compare and evaluate the collected data. To do this, use the **competitive analysis methods** mentioned above or choose other proven analysis methods such as the [SWOT analysis]({{< relref "templates/operations/swot-analysis" >}}). This allows you to identify the strengths and weaknesses of your competitors as well as opportunities and risks in the market. In addition to the **VRIO analysis**, the **benchmark analysis** can also help you to evaluate the performance of your company in comparison to your competitors.
 
 ### 5\. derive strategies
 

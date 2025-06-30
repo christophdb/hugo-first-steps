@@ -31,6 +31,6 @@ La reserva se realiza directamente y las nuevas funciones y límites están inme
 
 ## Información importante sobre la reserva
 
-- La **forma de pago estándar** es mediante tarjeta de crédito. El [pago mediante factura](https://seatable.io/es/docs/abo-abrechnung/bezahlung-per-rechnung/) solo es posible en determinadas condiciones.
+- La **forma de pago estándar** es mediante tarjeta de crédito. El [pago mediante factura]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}) solo es posible en determinadas condiciones.
 - El importe que figura en el formulario de reserva se **le cobrará directamente** una vez que haya completado la suscripción.
 - En cuanto haya efectuado el pago, su cuenta pasará **automáticamente** a la suscripción reservada.

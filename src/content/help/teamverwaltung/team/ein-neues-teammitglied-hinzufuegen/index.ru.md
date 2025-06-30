@@ -24,7 +24,11 @@ url: '/ru/pomoshch/ein-neues-teammitglied-hinzufuegen'
 8. Выберите **язык**, на котором будет написано письмо.
 9. Нажмите кнопку **Добавить члена команды**.
 
-{{< warning  headline="Внимание"  text="Вы **не можете** добавить **члена команды**, который уже создал другую учетную запись SeaTable с тем **же адресом электронной почты**. Чтобы создать учетную запись с таким адресом электронной почты, этот пользователь должен создать резервную копию всех своих данных (например, [экспортировать](https://seatable.io/ru/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) их в [файл DTABLE](https://seatable.io/ru/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/)) и удалить свою предыдущую учетную запись. Подробнее об этом можно прочитать в статье [Можно ли объединить две учетные записи SeaTable?](https://seatable.io/ru/docs/haeufig-gestellte-fragen/kann-man-zwei-seatable-konten-zusammenfuehren/)" />}}
+{{< warning  headline="Внимание" >}}
+
+Вы **не можете** добавить **члена команды**, который уже создал другую учетную запись SeaTable с тем **же адресом электронной почты**. Чтобы создать учетную запись с таким адресом электронной почты, этот пользователь должен создать резервную копию всех своих данных (например, [экспортировать]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) их в [файл DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) и удалить свою предыдущую учетную запись. Подробнее об этом можно прочитать в статье [Можно ли объединить две учетные записи SeaTable?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}})
+
+{{< /warning >}}
 
 ## Дополнительные опции при создании члена команды
 

@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-La version de septembre, que nous avons mise en ligne le 14 septembre, offre un éventail impressionnant de nouvelles caractéristiques, fonctionnalités et améliorations pour TOUS les utilisateurs. L'addition la plus chaude est le moteur de script de SeaTable. Parmi les autres nouvelles fonctionnalités, citons l'intégration transparente de nos modèles, le formatage conditionnel des lignes, une nouvelle fonction d'impression et le nouveau type de colonne à numérotation automatique. Et ce n'est pas tout, loin de là ! La liste complète des modifications est disponible dans le [journal des modifications](https://seatable.io/fr/docs/changelog/version-1-3/). SeaTable reste fidèle à son nom et offre une mer de possibilités. [Commencez maintenant]({{< relref "pages/registration" >}}) et jouez avec les vagues.
+La version de septembre, que nous avons mise en ligne le 14 septembre, offre un éventail impressionnant de nouvelles caractéristiques, fonctionnalités et améliorations pour TOUS les utilisateurs. L'addition la plus chaude est le moteur de script de SeaTable. Parmi les autres nouvelles fonctionnalités, citons l'intégration transparente de nos modèles, le formatage conditionnel des lignes, une nouvelle fonction d'impression et le nouveau type de colonne à numérotation automatique. Et ce n'est pas tout, loin de là ! La liste complète des modifications est disponible dans le [journal des modifications]({{< relref "pages/changelog" >}}). SeaTable reste fidèle à son nom et offre une mer de possibilités. [Commencez maintenant]({{< relref "pages/registration" >}}) et jouez avec les vagues.
 
 ## Traitement automatisé des données avec des scripts
 
@@ -20,7 +20,7 @@ Les scripts de SeaTable sont similaires aux plugins bien connus de SeaTable (par
 
 ## Travailler plus rapidement avec des modèles
 
-De nombreux utilisateurs connaissent déjà nos [modèles soigneusement créés](https://seatable.io/fr/docs/templates/). Avec la nouvelle version, il est désormais encore plus facile de créer de nouvelles bases directement sur la base de ces templates, sans aucune procédure manuelle fastidieuse de copie et d'exportation. L'utilisation d'un modèle est désormais aussi simple qu'elle puisse l'être ! Créez une nouvelle base, choisissez votre modèle préféré et c'est parti.
+De nombreux utilisateurs connaissent déjà nos [modèles soigneusement créés]({{< relref "templates" >}}). Avec la nouvelle version, il est désormais encore plus facile de créer de nouvelles bases directement sur la base de ces templates, sans aucune procédure manuelle fastidieuse de copie et d'exportation. L'utilisation d'un modèle est désormais aussi simple qu'elle puisse l'être ! Créez une nouvelle base, choisissez votre modèle préféré et c'est parti.
 
 ![](create-from-template.png)
 

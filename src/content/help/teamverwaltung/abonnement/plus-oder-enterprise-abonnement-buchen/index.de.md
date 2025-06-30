@@ -29,6 +29,6 @@ Die Buchung erfolgt direkt und Ihrem Team stehen unmittelbar die neuen Funktione
 
 ## Wichtige Informationen zur Buchung
 
-- Die **Standard-Zahlmethode** ist die Zahlung per Kreditkarte. Eine [Zahlung auf Rechnung](https://seatable.io/docs/abo-abrechnung/bezahlung-per-rechnung/) ist nur unter bestimmten Voraussetzungen möglich.
+- Die **Standard-Zahlmethode** ist die Zahlung per Kreditkarte. Eine [Zahlung auf Rechnung]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}) ist nur unter bestimmten Voraussetzungen möglich.
 - Der im Buchungsformular unten angezeigte Betrag wird Ihnen nach Abschluss des Abonnements **direkt berechnet**.
 - Sobald die Zahlung getätigt wurde, wird Ihr Account **automatisch** auf das gebuchte Abonnement hochgestuft.

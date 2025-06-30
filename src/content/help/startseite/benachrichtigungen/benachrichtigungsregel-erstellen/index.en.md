@@ -61,4 +61,4 @@ After the trigger is released, the defined notification is automatically sent to
 
 ### More helpful articles in the notifications section:
 
-- [Edit and remove notification rules](https://seatable.io/en/docs/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen/)
+- [Edit and remove notification rules]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen" >}})

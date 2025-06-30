@@ -23,4 +23,9 @@ Wichtig ist, dass Sie lediglich als **Eigentümer** oder **Administrator** einer
 ![Klick auf das Stift-Symbol neben einem beliebigen Gruppenmitglied](images/click-edit-symbol.jpg) 7. Wählen Sie mit einem Klick auf das Auswahlfeld die **Rolle** aus, die Sie dem jeweiligen Nutzer geben möchten. 8. Bestätigen Sie Ihre Auswahl mit einem Klick auf das Feld **Schließen**.
 
 ![Auswahl der Rolle und Bestätigung](images/change-authorization-and-close.jpg)
-{{< warning  headline="Wichtiger Hinweis"  text="Wenn Sie sich nicht mehr ganz sicher sind, welche der drei Rollen über welche Berechtigungen verfügt, hilft Ihnen diese [Tabelle zu den Rollenberechtigungen](https://seatable.io/docs/gruppen/gruppenmitglieder-und-ihre-berechtigungen/) weiter." />}}
+
+{{< warning  headline="Wichtiger Hinweis" >}}
+
+Wenn Sie sich nicht mehr ganz sicher sind, welche der drei Rollen über welche Berechtigungen verfügt, hilft Ihnen diese [Tabelle zu den Rollenberechtigungen]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) weiter.
+
+{{< /warning >}}

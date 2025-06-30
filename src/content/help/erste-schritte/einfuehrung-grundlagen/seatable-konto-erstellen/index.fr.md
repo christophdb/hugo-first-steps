@@ -13,7 +13,7 @@ Nous sommes heureux que vous vous intéressiez à SeaTable ! L'inscription à un
 
 ## L'enregistrement
 
-1. Ouvrez le [site web de SeaTable](https://seatable.io/fr/).
+1. Ouvrez le [site web de SeaTable]({{< relref "/" >}}).
 2. Cliquez en haut à droite sur **Enregistrer**.
 3. Saisissez votre **adresse e-mail** et confirmez.
 
@@ -21,7 +21,7 @@ C'est à peu près tout. Vous recevrez sous peu un e-mail contenant un lien de c
 
 {{< warning headline="Aucune information de paiement n'est requise" >}}
 
-Chez SeaTable Cloud, chaque équipe commence toujours par un abonnement gratuit. C'est pourquoi vous ne devez fournir aucune information de paiement. Bien entendu, vous pouvez [mettre à niveau](https://seatable.io/fr/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) votre équipe vers un [abonnement Plus ou Enterprise](https://seatable.io/fr/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) immédiatement après la première connexion.
+Chez SeaTable Cloud, chaque équipe commence toujours par un abonnement gratuit. C'est pourquoi vous ne devez fournir aucune information de paiement. Bien entendu, vous pouvez [mettre à niveau]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) votre équipe vers un [abonnement Plus ou Enterprise]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) immédiatement après la première connexion.
 
 {{</ warning >}}
 

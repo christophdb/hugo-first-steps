@@ -18,4 +18,4 @@ Vous découvrirez toutes les autres particularités de la première colonne dans
 
 ## Que faire si je veux utiliser une autre première colonne ?
 
-Si vous souhaitez utiliser une autre colonne comme première colonne, vous pouvez [adapter]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) et simplement [copier-coller](https://seatable.io/fr/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste") les données de la première colonne actuelle dans la nouvelle colonne.
+Si vous souhaitez utiliser une autre colonne comme première colonne, vous pouvez [adapter]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) et simplement [copier-coller]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) les données de la première colonne actuelle dans la nouvelle colonne.

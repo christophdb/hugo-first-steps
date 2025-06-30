@@ -13,7 +13,7 @@ seo:
 
 Spring awakening at SeaTable! While the first blossoms are sprouting outside, we are coming out of the winter break with SeaTable 3.4. Warm up for an improved user experience and even more design freedom! The page design plugin now unfolds its full potential, just like the editor for web forms - with enhanced functions for dynamic positioning of elements and other useful options. Discover the new search function when filtering, sorting and grouping in the view settings as well as when creating options in selection columns. Notable new features include the Data Query app, which now allows refined searching across multiple fields. The rows context menu has also been given more options and the entries in the rows log have a new look.
 
-You want to know more? Then let's get started! This morning we updated SeaTable Cloud to version 3.4. All self-hosters can do the same - and even unleash the row limit per base. The image of SeaTable 3.4 is available for download from the [the well-known Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, see the [Changelog](https://seatable.io/en/seatable-release-3-4/) for the complete list of changes.
+You want to know more? Then let's get started! This morning we updated SeaTable Cloud to version 3.4. All self-hosters can do the same - and even unleash the row limit per base. The image of SeaTable 3.4 is available for download from the [the well-known Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, see the [Changelog]({{< relref "posts/seatable-releases/seatable-release-3-4" >}}) for the complete list of changes.
 
 ## Dynamic positioning of elements in page design
 

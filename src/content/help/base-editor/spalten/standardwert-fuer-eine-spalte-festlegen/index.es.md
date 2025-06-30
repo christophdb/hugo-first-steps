@@ -26,7 +26,7 @@ También puede definir un valor por defecto directamente al [crear una nueva col
 
 ## Para qué tipos de columnas puede definir valores por defecto
 
-Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de columnas en]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) SeaTable. Las columnas cuyo contenido es generado automáticamente por SeaTable[(fórmulas]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), [archivo]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) y [firma](https://seatable.io/es/docs/dateien-und-bilder/die-signatur-spalte/).
+Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de columnas en]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) SeaTable. Las columnas cuyo contenido es generado automáticamente por SeaTable[(fórmulas]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), [archivo]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) y [firma]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}}).
 
 **A continuación encontrará un resumen de los tipos de columna para los que puede definir valores por defecto:**
 
@@ -69,7 +69,7 @@ Los valores por defecto se aplican **siempre que** se puedan crear nuevas línea
 
 - en una [tabla]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - en una [columna de enlaces]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
-- mediante [un botón](https://seatable.io/es/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (acción: "Copiar fila a otra tabla")
+- mediante [un botón]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (acción: "Copiar fila a otra tabla")
 - mediante [automatización]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (acciones: "Añadir fila" y "Añadir nueva entrada en otra tabla")
 - en el [calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - mediante [formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}})

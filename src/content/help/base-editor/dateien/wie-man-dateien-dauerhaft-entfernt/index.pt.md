@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/wie-man-dateien-dauerhaft-entfernt'
 ---
 
-**Os ficheiros**, **imagens** e **assinaturas** que **eliminar** numa tabela podem ainda ser encontrados no gestor de [ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base. Para removê-los permanentemente, também é necessário excluir os arquivos do gerenciador de arquivos.
+**Os ficheiros**, **imagens** e **assinaturas** que **eliminar** numa tabela podem ainda ser encontrados no gestor de [ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base. Para removê-los permanentemente, também é necessário excluir os arquivos do gerenciador de arquivos.
 
 ## Eliminar ficheiros do gestor de ficheiros
 

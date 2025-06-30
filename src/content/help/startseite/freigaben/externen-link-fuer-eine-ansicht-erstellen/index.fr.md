@@ -19,7 +19,7 @@ Vous disposez en outre de différentes options pour sécuriser un lien externe :
 - Vous avez la possibilité de définir une **date d'expiration automatique** pour un lien externe. Après le nombre de jours choisi, le lien externe perd sa validité.
 - En outre, vous pouvez également définir un **mot de passe** de votre choix pour un lien externe. Celui-ci doit être saisi correctement par un autre utilisateur pour avoir accès à la vue.
 
-Pour tout ce que vous devez savoir sur les liens externes, consultez l'article [Créer un lien externe pour une base](https://seatable.io/fr/docs/freigabelinks/externer-link-erklaert/).
+Pour tout ce que vous devez savoir sur les liens externes, consultez l'article [Créer un lien externe pour une base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}).
 
 ## Créer un lien externe pour une vue
 

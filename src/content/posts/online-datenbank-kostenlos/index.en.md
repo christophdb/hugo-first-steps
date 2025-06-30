@@ -82,7 +82,7 @@ To operate the online database free of charge, you need the Developer version of
 Another popular relational database is [Oracle Database](https://www.oracle.com/de/database/). Its main functions include application development and data warehousing. If you are looking for a free online database, you have two options:
 
 - **Oracle Autonomous Transaction Processing**: The way the data is stored makes everyday tasks with the online database easier.
-- **Oracle Autonomous Data Warehouse**: This type of storage facilitates [analyses](https://seatable.io/en/swot-analyse-template/).
+- **Oracle Autonomous Data Warehouse**: This type of storage facilitates [analyses]({{< relref "templates/operations/swot-analysis" >}}).
 
 With both, the database storage space is limited to 20 GB.
 
@@ -104,7 +104,7 @@ You can also use [ZenBase](https://getzenbase.com/) to create and manage online 
 
 ### SeaTable
 
-Lastly, you have the option of using the [SeaTable](https://seatable.io/en/) online database free of charge. Included are 2 GB of storage for files, 10,000 rows and unlimited tables. For a wider range of functions, the Plus version starts at €7 per user per month. The tool allows different views on the data, such as a calendar or a chart. It is easy to use and is operated in German data centres.
+Lastly, you have the option of using the [SeaTable]({{< relref "/" >}}) online database free of charge. Included are 2 GB of storage for files, 10,000 rows and unlimited tables. For a wider range of functions, the Plus version starts at €7 per user per month. The tool allows different views on the data, such as a calendar or a chart. It is easy to use and is operated in German data centres.
 
 ## Conclusion: There are many online databases - some free of charge, some with test version
 

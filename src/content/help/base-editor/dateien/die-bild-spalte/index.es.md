@@ -27,7 +27,7 @@ En una columna de imágenes, tiene varias opciones para **añadir** imágenes. A
 
 1. Haga clic en la **celda de** una columna de imágenes.
 2. Haz clic en el **símbolo más** que aparece.
-3. Se abre una nueva ventana. Aquí puedes subir **imágenes desde tu dispositivo**, incrustarlas mediante **URL** o añadirlas desde el [gestor de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
+3. Se abre una nueva ventana. Aquí puedes subir **imágenes desde tu dispositivo**, incrustarlas mediante **URL** o añadirlas desde el [gestor de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
 
 ### Imágenes locales
 
@@ -47,7 +47,7 @@ En el área **Enlace de** imagen, puede añadir imágenes a la columna de imáge
 
 ### Última carga
 
-En la sección **Subidas** recientes, tiene acceso a la [gestión de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de la base. Allí se guardan las imágenes que ya ha subido a las columnas de **imágenes** o **archivos** o a **sus propias carpetas**. Seleccione una imagen e insértela en la columna de imágenes haciendo clic en **Enviar**.
+En la sección **Subidas** recientes, tiene acceso a la [gestión de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la base. Allí se guardan las imágenes que ya ha subido a las columnas de **imágenes** o **archivos** o a **sus propias carpetas**. Seleccione una imagen e insértela en la columna de imágenes haciendo clic en **Enviar**.
 
 ![El área "Última carga" de una columna de imágenes](images/recently-uploaded-images-image-column.png)
 
@@ -85,7 +85,7 @@ A continuación, puede especificar **su propio nombre de archivo** y se mostrar�
 
 ![Ventana de diálogo para descargar todos los archivos](images/Download-all-files-dialog.png)
 
-Si pulsa sobre los **tres puntos**, tiene dos opciones para guardar el archivo: Al **descargarlo**, se guarda en tu dispositivo un archivo zip del que puedes extraer todas las imágenes. También puedes guardar las imágenes **en Seafile**. Para ello, primero debe [conectar una biblioteca Seafile a su Base](https://seatable.io/es/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+Si pulsa sobre los **tres puntos**, tiene dos opciones para guardar el archivo: Al **descargarlo**, se guarda en tu dispositivo un archivo zip del que puedes extraer todas las imágenes. También puedes guardar las imágenes **en Seafile**. Para ello, primero debe [conectar una biblioteca Seafile a su Base]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ### Borrar imágenes
 
@@ -95,4 +95,8 @@ A continuación, seleccione la **imagen** deseada y haga clic en el **símbolo**
 
 ![Confirmación de la supresión](images/confirm-delete.jpg)
 
-{{< warning  headline="Atención"  text="Las imágenes eliminadas de una columna de imágenes siguen formando parte de Base y, por tanto, **no** se eliminan de forma permanente. Lea los artículos [Acceso a archivos e imágenes eliminados](https://seatable.io/es/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) y [Cómo eliminar archivos](https://seatable.io/es/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/) de forma permanente." />}}
+{{< warning  headline="Atención" >}}
+
+Las imágenes eliminadas de una columna de imágenes siguen formando parte de Base y, por tanto, **no** se eliminan de forma permanente. Lea los artículos [Acceso a archivos e imágenes eliminados]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) y [Cómo eliminar archivos]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}) de forma permanente.
+
+{{< /warning >}}
