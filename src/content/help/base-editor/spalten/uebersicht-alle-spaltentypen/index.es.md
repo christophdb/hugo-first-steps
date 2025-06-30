@@ -98,7 +98,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-email" >}} **Correo electrónico**
 
 Las columnas de correo electrónico son columnas de texto especializadas para capturar y almacenar **direcciones de correo electrónico** y permiten su uso directo con un clic del ratón. La columna de correo electrónico es especialmente útil para los formularios web. El uso de un campo de correo electrónico en lugar de una columna de texto garantiza que la entrada tiene la sintaxis de una dirección de correo electrónico válida. Además, las columnas de correo electrónico pueden utilizarse para enviar correos electrónicos a través de [botones]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) y [automatizaciones]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
-Si necesitas información más detallada sobre la columna de correo electrónico, echa un vistazo a este [artículo](https://seatable.io/es/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
+Si necesitas información más detallada sobre la columna de correo electrónico, echa un vistazo a este [artículo]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}).
 
 ### URL
 
@@ -106,7 +106,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
 Las columnas URL interpretan la información introducida como un **recurso** en la red local o en Internet y permiten el acceso directo mediante un clic. Dado que las entradas en este tipo de columna no se validan, en una celda puede almacenarse una dirección de Internet (por ejemplo, https://seatable.io) o una dirección IP (por ejemplo, 192.168.178.1).
 
-[Más información sobre la columna URL](https://seatable.io/es/docs/text-und-zahlen/die-url-spalte/)
+[Más información sobre la columna URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 
 ### Casilla de verificación
 
@@ -176,7 +176,7 @@ Puede almacenar **firmas digitales** en una columna de firmas, que se guardan au
 
 Símbolo: {{< seatable-icon icon="dtable-icon-rename" >}} **Firma digital**
 
-[Más información sobre la columna de firmas](https://seatable.io/es/docs/dateien-und-bilder/die-signatur-spalte/)
+[Más información sobre la columna de firmas]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}})
 
 ## Tipos de columnas con recogida automática de datos
 

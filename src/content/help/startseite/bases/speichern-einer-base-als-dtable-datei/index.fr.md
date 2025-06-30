@@ -22,7 +22,11 @@ Selon les paramètres du navigateur, soit le **téléchargement** démarre autom
 
 Dès que votre fichier avec l'extension **.dtable** apparaît à l'emplacement indiqué, l'exportation de la base est terminée.
 
-{{< warning  headline="Remarque"  text="Soyez prêt à ce que le **fichier DTABLE** soit très **volumineux** si vous avez fait un usage intensif des colonnes de fichiers et d'images dans la base exportée. Le nuage SeaTable permet d'exporter des bases d'une **taille maximale de 100 Mo**. Grâce au [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/), vous pouvez **supprimer les pièces jointes** des bases qui dépassent cette limite de taille afin de permettre l'exportation." />}}
+{{< warning  headline="Remarque" >}}
+
+Soyez prêt à ce que le **fichier DTABLE** soit très **volumineux** si vous avez fait un usage intensif des colonnes de fichiers et d'images dans la base exportée. Le nuage SeaTable permet d'exporter des bases d'une **taille maximale de 100 Mo**. Grâce au [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}), vous pouvez **supprimer les pièces jointes** des bases qui dépassent cette limite de taille afin de permettre l'exportation.
+
+{{< /warning >}}
 
 ## Que stocke un fichier DTABLE ?
 

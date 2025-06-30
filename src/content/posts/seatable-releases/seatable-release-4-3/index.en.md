@@ -83,7 +83,7 @@ If you use the two expiring apps, we recommend that you rebuild your use cases w
 
 ## And much more
 
-If you [send emails via automation](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/), you could previously only enter your message as **plain text** in the text field. As of SeaTable 4.3, it is possible to compose the messages in **rich text or HTML format** via buttons, just like when sending e-mails. To do this, simply activate the slider on the right above the text field.
+If you [send emails via automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}), you could previously only enter your message as **plain text** in the text field. As of SeaTable 4.3, it is possible to compose the messages in **rich text or HTML format** via buttons, just like when sending e-mails. To do this, simply activate the slider on the right above the text field.
 
 ![Rich text in automated e-mail messages](Rich-text-in-automated-e-mail-messages.png)
 

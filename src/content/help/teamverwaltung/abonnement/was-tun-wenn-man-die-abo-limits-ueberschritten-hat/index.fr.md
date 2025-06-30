@@ -21,7 +21,7 @@ Vous trouverez un aperçu de tous les forfaits disponibles et des limites, fonct
 
 ## Passer à une formule d'abonnement plus complète
 
-Pour pouvoir à nouveau travailler pleinement avec vos données, vous devez [mettre à niveau](https://seatable.io/fr/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) votre abonnement vers une [formule d'abonnement plus complète](https://seatable.io/fr/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Pour pouvoir à nouveau travailler pleinement avec vos données, vous devez [mettre à niveau]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) votre abonnement vers une [formule d'abonnement plus complète]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Supprimer une partie de vos données
 

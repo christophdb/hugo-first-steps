@@ -12,7 +12,7 @@ seo:
 
 Die Sommerferien neigen sich dem Ende zu und wir hoffen, Sie haben die Urlaubszeit genossen. Während andere in den Pool sprangen oder die Füße hochlegten, haben sich unsere Entwickler mächtig ins Zeug gelegt und **SeaTable Version 4.1** hervorgezaubert.
 
-Nutzen Sie in Ihren Bases bereits automatisierte Prozesse, um Zeit und Klicks zu sparen? Dann wird Ihnen gefallen, dass wir bei den [Automationen](https://seatable.io/docs/automationen/uebersicht-ueber-automationen/) ebenso die Optionen verfeinert, wie die Leistung verbessert haben. Über das höhere Ausführungslimit können sich die Intensivnutzer von SeaTable besonders freuen. Die in Version 4.0 eingeführte [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) bietet Ihnen nun zwei weitere Features, welche die Arbeit mit Dateien vereinfachen.
+Nutzen Sie in Ihren Bases bereits automatisierte Prozesse, um Zeit und Klicks zu sparen? Dann wird Ihnen gefallen, dass wir bei den [Automationen](https://seatable.io/docs/automationen/uebersicht-ueber-automationen/) ebenso die Optionen verfeinert, wie die Leistung verbessert haben. Über das höhere Ausführungslimit können sich die Intensivnutzer von SeaTable besonders freuen. Die in Version 4.0 eingeführte [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) bietet Ihnen nun zwei weitere Features, welche die Arbeit mit Dateien vereinfachen.
 
 Die Entwicklung des [Universal App Builders]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) schreitet in Siebenmeilenstiefeln voran: SeaTable 4.1 hält neue Funktionen für Sie bereit, um Benutzerberechtigungen und die Datenvisualisierung in Apps genauer auszudifferenzieren. Daneben haben wir in SeaTable 4.1 viele kleinere Funktionen verbessert oder neu hinzugefügt. Überzeugen Sie sich selbst – die Liste ist lang und sehr erfreulich!
 
@@ -34,7 +34,7 @@ Jede Automation unterliegt einem [Ausführungslimit](https://seatable.io/docs/au
 
 ## Papierkorb und Suchfunktion in der Dateiverwaltung
 
-Die in SeaTable 4.0 eingeführte [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) hat den Umgang mit Dateien in SeaTable revolutioniert. In der Version 4.1 wurden zwei weitere Funktionen ergänzt: ein **Papierkorb** und eine **Suche**.
+Die in SeaTable 4.0 eingeführte [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) hat den Umgang mit Dateien in SeaTable revolutioniert. In der Version 4.1 wurden zwei weitere Funktionen ergänzt: ein **Papierkorb** und eine **Suche**.
 
 Dank des Papierkorbs gehen aus Versehen gelöschte Dateien nicht endgültig verloren, sondern können wiederhergestellt werden. Gelöschte Dateien verbleiben **60 Tage** im Papierkorb, bevor sie dauerhaft aus dem System entfernt werden. Sollen Dateien schneller aus dem Papierkorb verschwinden, dann lässt sich der Papierkorb auch manuell leeren.
 

@@ -83,7 +83,7 @@ Si utiliza las dos aplicaciones que expiran, le recomendamos que reconstruya sus
 
 ## Y mucho más
 
-Si [envía correos electrónicos mediante automatización](https://seatable.io/es/docs/beispiel-automationen/e-mail-versand-per-automation/), antes sólo podía introducir el mensaje como **texto sin formato** en el campo de texto. A partir de SeaTable 4.3, es posible redactar los mensajes en **formato de texto enriquecido o HTML** mediante botones, igual que al enviar correos electrónicos. Para ello, basta con activar el control deslizante situado a la derecha, encima del campo de texto.
+Si [envía correos electrónicos mediante automatización]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}), antes sólo podía introducir el mensaje como **texto sin formato** en el campo de texto. A partir de SeaTable 4.3, es posible redactar los mensajes en **formato de texto enriquecido o HTML** mediante botones, igual que al enviar correos electrónicos. Para ello, basta con activar el control deslizante situado a la derecha, encima del campo de texto.
 
 ![Texto enriquecido en mensajes de correo electrónico automatizados](Rich-text-in-automated-e-mail-messages.png)
 

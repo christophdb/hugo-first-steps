@@ -29,7 +29,7 @@ Aktuell stehen Ihnen 24 Farben zur Verfügung, um die jeweiligen Optionen visuel
 
 ![Farben der Einfachauswahl-Spalte](images/farben-einfachauswahl.png)
 
-Mit einem [Enterprise-Abo](https://seatable.io/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title) haben Sie zudem die Möglichkeit, [eigene Farben](https://seatable.io/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) für Ihre Mehrfachauswahl-Optionen anzulegen.
+Mit einem [Enterprise-Abo]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}) haben Sie zudem die Möglichkeit, [eigene Farben]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) für Ihre Mehrfachauswahl-Optionen anzulegen.
 
 ## Standardwert festlegen
 
@@ -41,8 +41,8 @@ Wenn Sie sich wünschen, **zusätzliche Informationen** zu jeder Auswahloption s
 
 ## Ändern der Reihenfolge von Mehrfachauswahl-Optionen
 
-Die Reihenfolge der Mehrfachauswahl-Optionen lässt sich auf dem **gleichen Weg** anpassen wie bei einer Einfachauswahl-Spalte. Eine detaillierte Anleitung finden Sie [hier](https://seatable.io/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/).
+Die Reihenfolge der Mehrfachauswahl-Optionen lässt sich auf dem **gleichen Weg** anpassen wie bei einer Einfachauswahl-Spalte. Eine detaillierte Anleitung finden Sie [hier]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}}).
 
 ## Mehrfachauswahl-Optionen exportieren und importieren
 
-Sie können die **Optionen** einer Mehrfachauswahl-Spalte wie bei einer Einfachauswahl-Spalte **exportieren** und **importieren**. Nähere Informationen dazu finden Sie [in diesem Artikel](https://seatable.io/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/).
+Sie können die **Optionen** einer Mehrfachauswahl-Spalte wie bei einer Einfachauswahl-Spalte **exportieren** und **importieren**. Nähere Informationen dazu finden Sie [in diesem Artikel]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).

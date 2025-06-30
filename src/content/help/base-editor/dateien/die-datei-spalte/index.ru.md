@@ -35,15 +35,19 @@ url: '/ru/pomoshch/die-datei-spalte'
 3. Откроется новое окно. Здесь вы можете загружать файлы с вашего устройства с помощью **перетаскивания** или **щелчка мыши**.
 4. Выберите сразу несколько файлов, выделив все документы, которые вы хотите загрузить, и загрузив их вместе.
 
-{{< warning  headline="Подключение к управлению файлами"  text="Файлы, которые вы загружаете локально в файловый столбец, сохраняются в **системной папке**, доступ к которой можно получить через [управление файлами](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) вашей базы." />}}
+{{< warning  headline="Подключение к управлению файлами" >}}
+
+Файлы, которые вы загружаете локально в файловый столбец, сохраняются в **системной папке**, доступ к которой можно получить через [управление файлами]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) вашей базы.
+
+{{< /warning >}}
 
 ## Добавление существующих файлов
 
 Помимо новых файлов, которые вы загружаете локально в ячейку столбца файлов, вы также можете добавлять существующие файлы, которые могут поступать из **трех источников**:
 
-- **Последние загрузки**: Здесь вы найдете последние загруженные файлы, сохраненные в [файловом менеджере](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base.
-- **Мои папки**: здесь вы получаете доступ к файлам в своих собственных папках, которые вы можете создавать и заполнять в [файловом менеджере](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
-- **Seafile**: Здесь вы можете выбрать файлы из [библиотек Seafile](https://seatable.io/ru/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/), которые подключены к вашей базе.
+- **Последние загрузки**: Здесь вы найдете последние загруженные файлы, сохраненные в [файловом менеджере]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base.
+- **Мои папки**: здесь вы получаете доступ к файлам в своих собственных папках, которые вы можете создавать и заполнять в [файловом менеджере]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
+- **Seafile**: Здесь вы можете выбрать файлы из [библиотек Seafile]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}), которые подключены к вашей базе.
 
 ![Добавить существующие файлы в колонку файлов](images/Add-existing-files-to-a-file-column.png)
 
@@ -73,7 +77,7 @@ url: '/ru/pomoshch/die-datei-spalte'
 
 ![Диалоговое окно для загрузки всех файлов](images/Download-all-files-dialog.png)
 
-Если вы нажмете на **три точки**, у вас будет два варианта сохранения файла: При **загрузке** на вашем устройстве сохраняется zip-файл, из которого вы можете извлечь все файлы. Вы также можете **сохранить** файлы **в Seafile**. Для этого необходимо сначала [подключить библиотеку Seafile к вашей базе](https://seatable.io/ru/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+Если вы нажмете на **три точки**, у вас будет два варианта сохранения файла: При **загрузке** на вашем устройстве сохраняется zip-файл, из которого вы можете извлечь все файлы. Вы также можете **сохранить** файлы **в Seafile**. Для этого необходимо сначала [подключить библиотеку Seafile к вашей базе]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ## Переименовать файлы
 
@@ -96,7 +100,11 @@ url: '/ru/pomoshch/die-datei-spalte'
     - Выберите опцию **Выбрать все** или поставьте **галочки** в полях напротив файлов.
     - Нажмите **Удалить**.
 
-{{< warning  headline="Примечание"  text="При этом файлы **не** удаляются окончательно. Только при удалении файлов в [файловом менеджере](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base они [удаляются навсегда](https://seatable.io/ru/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  headline="Примечание" >}}
+
+При этом файлы **не** удаляются окончательно. Только при удалении файлов в [файловом менеджере]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base они [удаляются навсегда]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}
 
 ## Часто задаваемые вопросы
 

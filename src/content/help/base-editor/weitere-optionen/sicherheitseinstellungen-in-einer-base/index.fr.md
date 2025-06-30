@@ -62,7 +62,7 @@ Lorsque ce paramètre **est activé**, les icônes correspondantes permettant d'
 
 ## Paramètres de sécurité : Utilisateurs autorisés
 
-La deuxième partie des paramètres de sécurité concerne les autorisations des **utilisateurs** avec lesquels la [base](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondante est [partagée](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/). Dans cette partie, vous pouvez effectuer **les mêmes** réglages que ceux qui sont déjà disponibles pour tous les utilisateurs dans la première partie :
+La deuxième partie des paramètres de sécurité concerne les autorisations des **utilisateurs** avec lesquels la [base]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) correspondante est [partagée]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Dans cette partie, vous pouvez effectuer **les mêmes** réglages que ceux qui sont déjà disponibles pour tous les utilisateurs dans la première partie :
 
 ![Paramètres de sécurité pour les utilisateurs partagés](images/Security-settings-for-shared-users.png)
 

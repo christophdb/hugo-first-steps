@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/nach-einer-tabelle-suchen'
 ---
 
-Bei Bases mit einer großen Anzahl an Tabellen können nicht mehr alle **Tabs im Base-Header** angezeigt werden. Auch [ausgeblendete Tabellen](https://seatable.io/docs/arbeiten-in-tabellen/tabellen-ausblenden/) sind nicht mehr im Base-Header zu finden. Deshalb bietet SeaTable die Möglichkeit, nach einer **Tabelle zu suchen**.
+Bei Bases mit einer großen Anzahl an Tabellen können nicht mehr alle **Tabs im Base-Header** angezeigt werden. Auch [ausgeblendete Tabellen]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) sind nicht mehr im Base-Header zu finden. Deshalb bietet SeaTable die Möglichkeit, nach einer **Tabelle zu suchen**.
 
 ![Search for a table](images/Search-for-a-table.png)
 
@@ -20,4 +20,8 @@ Des Weiteren können Sie Tabellen im Base-Header mithilfe der **Pfeiltasten** {{
 
 ![Tabelle im Base-Header mit Pfeiltasten finden](images/Tabelle-im-Base-Header-mit-Pfeiltasten-finden.gif)
 
-{{< warning  type="warning" headline="Tipp"  text="Sie können Tabellen auch [per Drag-and-Drop verschieben](https://seatable.io/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/), um Ihre meistgenutzten Tabellen immer griffbereit links im Base-Header zu sehen." />}}
+{{< warning  type="warning" headline="Tipp" >}}
+
+Sie können Tabellen auch [per Drag-and-Drop verschieben]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}), um Ihre meistgenutzten Tabellen immer griffbereit links im Base-Header zu sehen.
+
+{{< /warning >}}

@@ -12,7 +12,7 @@ seo:
 
 As férias de verão estão a chegar ao fim e esperamos que tenha aproveitado o tempo livre. Enquanto outros saltavam para a piscina ou punham os pés no chão, os nossos programadores trabalhavam arduamente e criaram **a versão 4.1 do SeaTable**.
 
-Já utiliza processos automatizados nas suas bases para poupar tempo e cliques? Então vai gostar do facto de termos aperfeiçoado as opções e melhorado o desempenho das [automatizações](https://seatable.io/pt/docs/automationen/uebersicht-ueber-automationen/). Os utilizadores intensivos do SeaTable ficarão particularmente satisfeitos com o aumento do limite de execução. A [gestão de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) introduzida na versão 4.0 oferece-lhe agora mais duas funcionalidades que simplificam o trabalho com ficheiros.
+Já utiliza processos automatizados nas suas bases para poupar tempo e cliques? Então vai gostar do facto de termos aperfeiçoado as opções e melhorado o desempenho das [automatizações](https://seatable.io/pt/docs/automationen/uebersicht-ueber-automationen/). Os utilizadores intensivos do SeaTable ficarão particularmente satisfeitos com o aumento do limite de execução. A [gestão de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) introduzida na versão 4.0 oferece-lhe agora mais duas funcionalidades que simplificam o trabalho com ficheiros.
 
 O desenvolvimento do [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) está a progredir a passos largos: o SeaTable 4.1 tem novas funções que lhe permitem diferenciar com maior precisão as permissões de utilizador e a visualização de dados nas aplicações. Além disso, melhorámos ou adicionámos muitas funções mais pequenas no SeaTable 4.1. Veja por si próprio - a lista é longa e muito agradável!
 
@@ -34,7 +34,7 @@ Cada automatização está sujeita a um [limite de execução](https://seatable.
 
 ## Lixeira e função de pesquisa no gestor de ficheiros
 
-A [gestão de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) introduzida no SeaTable 4.0 revolucionou o tratamento dos ficheiros no SeaTable. Na versão 4.1, foram adicionadas mais duas funções: um **cesto de reciclagem** e uma **pesquisa**.
+A [gestão de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) introduzida no SeaTable 4.0 revolucionou o tratamento dos ficheiros no SeaTable. Na versão 4.1, foram adicionadas mais duas funções: um **cesto de reciclagem** e uma **pesquisa**.
 
 Graças à Reciclagem, os ficheiros eliminados por engano não são perdidos permanentemente, mas podem ser recuperados. Os ficheiros eliminados permanecem na reciclagem durante **60 dias** antes de serem removidos permanentemente do sistema. Se os ficheiros tiverem de desaparecer da reciclagem mais rapidamente, esta também pode ser esvaziada manualmente.
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/eine-base-an-eine-gruppe-freigeben'
 ---
 
-Bases in SeaTable always belong to a **user** or a **group**. Therefore, you can [share bases either with groups or with individual users](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/). This article highlights the release of a base to an entire group.
+Bases in SeaTable always belong to a **user** or a **group**. Therefore, you can [share bases either with groups or with individual users]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). This article highlights the release of a base to an entire group.
 
 Here you can decide individually for each base whether it is a sharing with **read** or **read-write** sharing permission..
 
@@ -38,4 +38,4 @@ If you are currently **in a Base**, you can also create a share without having t
 - Bases that you have **created yourself** can be shared at any time, while bases that belong to a group can only be shared with other groups by **owners** and **administrators**.
 - A group that has been released a base by you has **no owner rights** and thus **cannot** change the name of the base, for example.
 
-To learn how to share **individual tables and views of** a Base to a group, see the article [Creating Custom Sharing](https://seatable.io/en/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+To learn how to share **individual tables and views of** a Base to a group, see the article [Creating Custom Sharing]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

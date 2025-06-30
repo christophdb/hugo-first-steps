@@ -98,7 +98,7 @@ le symbole : {{< seatable-icon icon="dtable-icon-email" >}} **E-mail**
 
 Les colonnes d'e-mails sont des colonnes de texte spécialisées pour la saisie et l'enregistrement d'**adresses e-mail** et permettent une utilisation directe par un simple clic de souris. La colonne e-mail est particulièrement pratique pour les formulaires web. L'utilisation d'un champ e-mail à la place d'une colonne de texte garantit que la saisie a la syntaxe d'une adresse e-mail valide. En outre, les colonnes d'e-mails peuvent être utilisées pour envoyer des e-mails via des [boutons]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) et [des automatisations]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
-Si vous avez besoin d'informations plus détaillées sur la colonne des e-mails, jetez un coup d'œil à cet [article](https://seatable.io/fr/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
+Si vous avez besoin d'informations plus détaillées sur la colonne des e-mails, jetez un coup d'œil à cet [article]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}).
 
 ### URL
 
@@ -106,7 +106,7 @@ symbole : {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
 Les colonnes URL interprètent les informations saisies comme une **ressource** du réseau local ou d'Internet et permettent un appel direct par un clic. Comme les entrées dans ce type de colonne ne sont pas validées, il est possible d'enregistrer dans une cellule une adresse Internet (par ex. https://seatable.io) ou une adresse IP (par ex. 192.168.178.1).
 
-[En savoir plus sur la colonne URL](https://seatable.io/fr/docs/text-und-zahlen/die-url-spalte/)
+[En savoir plus sur la colonne URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 
 ### Case à cocher
 
@@ -176,7 +176,7 @@ Dans une colonne "Signature", vous pouvez déposer **des signatures numériques*
 
 le symbole : {{< seatable-icon icon="dtable-icon-rename" >}} **Signature numérique**
 
-[En savoir plus sur la colonne "Signature".](https://seatable.io/fr/docs/dateien-und-bilder/die-signatur-spalte/)
+[En savoir plus sur la colonne "Signature".]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}})
 
 ## Types de colonnes avec saisie automatique des données
 

@@ -24,7 +24,7 @@ O gestor de ficheiros contém várias pastas, que por sua vez contêm vários fi
 
 ![Pastas do sistema criadas e organizadas pelo sistema SeaTable na gestão de ficheiros](images/system-folders.png)
 
-- Uma **pasta Seafile** contém todos os ficheiros que carregou anteriormente para o armazenamento externo na nuvem com o mesmo nome. Pode descobrir [aqui](https://seatable.io/pt/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) como funciona exatamente a integração das bibliotecas Seafile e quais as vantagens que traz.
+- Uma **pasta Seafile** contém todos os ficheiros que carregou anteriormente para o armazenamento externo na nuvem com o mesmo nome. Pode descobrir [aqui]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) como funciona exatamente a integração das bibliotecas Seafile e quais as vantagens que traz.
 
 ![Pasta Seafile em Gestão de ficheiros](images/seafile-library.png)
 

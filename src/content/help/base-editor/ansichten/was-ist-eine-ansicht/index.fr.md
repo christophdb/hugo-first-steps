@@ -30,7 +30,7 @@ L'**affichage sous forme de tableau** est le mode d'affichage standard dans une 
 
 ![Vue du tableau](images/Tabelle.png)
 
-D'autres représentations comme le calendrier, la galerie ou le Kanban peuvent être utilisées sous forme de [plugins](https://seatable.io/fr/docs/arbeiten-mit-plugins/was-ist-ein-plugin/).
+D'autres représentations comme le calendrier, la galerie ou le Kanban peuvent être utilisées sous forme de [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
 
 ## Autres articles sur le thème des vues
 

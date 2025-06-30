@@ -33,4 +33,4 @@ Al confirmar la eliminación, se desencadenan inmediatamente las siguientes acci
 
 ## Cancelar la suscripción y conservar el equipo
 
-Si cancela su suscripción pero desea conservar el equipo que ha creado, puede volver a una cuenta gratuita. Lee el artículo Cancelar [tu](https://seatable.io/es/docs/abo-abrechnung/das-abo-kuendigen/) suscripción para saber cómo funciona exactamente.
+Si cancela su suscripción pero desea conservar el equipo que ha creado, puede volver a una cuenta gratuita. Lee el artículo Cancelar [tu]({{< relref "help/teamverwaltung/abonnement/das-abo-kuendigen" >}}) suscripción para saber cómo funciona exactamente.

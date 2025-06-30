@@ -28,4 +28,4 @@ Si te encuentras **en una** base, también puedes crear una acción sin tener qu
 
 ## Crear una acción personalizada
 
-Para una explicación detallada de los pasos necesarios, consulte el artículo [Crear una acción personalizada](https://seatable.io/es/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+Para una explicación detallada de los pasos necesarios, consulte el artículo [Crear una acción personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

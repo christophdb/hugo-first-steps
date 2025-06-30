@@ -34,7 +34,7 @@ Select the **recipient** (s) of the email. Optionally, you can also select recip
 
 ![Specify the recipient(s) of the email. Optionally, you can also select recipients who should receive a copy of the email or to whom you want to reply with the email.](images/send-to-copy-to-reply-to.png)
 
-Optionally, you can add an **attachment to** the email. Note, however, that you _cannot_ simply upload files, but must first save them in a [file column of](https://seatable.io/en/docs/datei-und-bildanhaenge/die-datei-spalte/) the table. In the **Attachments** field, you can then select one or more **file columns** from which you want to attach the files to the email.
+Optionally, you can add an **attachment to** the email. Note, however, that you _cannot_ simply upload files, but must first save them in a [file column of]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) the table. In the **Attachments** field, you can then select one or more **file columns** from which you want to attach the files to the email.
 
 ![Files that you have added to a file column of your spreadsheet can be used as attachments to the e-mail](images/file-001.png)
 

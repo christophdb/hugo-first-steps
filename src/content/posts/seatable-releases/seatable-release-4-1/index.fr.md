@@ -12,7 +12,7 @@ seo:
 
 Les vacances d'été touchent à leur fin et nous espérons que vous en avez profité. Pendant que d'autres sautaient dans la piscine ou se reposaient, nos développeurs ont travaillé d'arrache-pied pour sortir **la version 4.1 de SeaTable**.
 
-Vous utilisez déjà des processus automatisés dans vos bases afin d'économiser du temps et des clics ? Dans ce cas, vous apprécierez le fait que nous ayons affiné les options et amélioré les performances des [automatisations](https://seatable.io/fr/docs/automationen/uebersicht-ueber-automationen/). Les utilisateurs intensifs de SeaTable seront particulièrement satisfaits de la limite d'exécution plus élevée. La [gestion des fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/), introduite dans la version 4.0, offre désormais deux fonctions supplémentaires qui simplifient le travail avec les fichiers.
+Vous utilisez déjà des processus automatisés dans vos bases afin d'économiser du temps et des clics ? Dans ce cas, vous apprécierez le fait que nous ayons affiné les options et amélioré les performances des [automatisations](https://seatable.io/fr/docs/automationen/uebersicht-ueber-automationen/). Les utilisateurs intensifs de SeaTable seront particulièrement satisfaits de la limite d'exécution plus élevée. La [gestion des fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}), introduite dans la version 4.0, offre désormais deux fonctions supplémentaires qui simplifient le travail avec les fichiers.
 
 Le développement de l'[Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) avance à grands pas : SeaTable 4.1 vous propose de nouvelles fonctions pour différencier plus précisément les autorisations des utilisateurs et la visualisation des données dans les applications. En outre, nous avons amélioré ou ajouté de nombreuses petites fonctions à SeaTable 4.1. Jugez-en par vous-même - la liste est longue et très réjouissante !
 
@@ -34,7 +34,7 @@ Chaque automation est soumise à une [limite d'exécution](https://seatable.io/f
 
 ## Corbeille et fonction de recherche dans la gestion des fichiers
 
-Le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) introduit dans SeaTable 4.0 a révolutionné la manière de gérer les fichiers dans SeaTable. Dans la version 4.1, deux fonctions supplémentaires ont été ajoutées : une **corbeille** et une **recherche**.
+Le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) introduit dans SeaTable 4.0 a révolutionné la manière de gérer les fichiers dans SeaTable. Dans la version 4.1, deux fonctions supplémentaires ont été ajoutées : une **corbeille** et une **recherche**.
 
 Grâce à la corbeille, les fichiers supprimés par erreur ne sont pas définitivement perdus, mais peuvent être restaurés. Les fichiers supprimés restent dans la corbeille **pendant 60 jours** avant d'être définitivement supprimés du système. Si les fichiers doivent disparaître plus rapidement de la corbeille, celle-ci peut également être vidée manuellement.
 

@@ -29,7 +29,7 @@ Actualmente, estão disponíveis 24 cores para destacar visualmente as respectiv
 
 ![Cores da coluna de selecção única](images/farben-einfachauswahl.png)
 
-Com uma [subscrição Enterprise](https://seatable.io/pt/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), também tem a opção de criar as suas [próprias cores](https://seatable.io/pt/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) para as suas múltiplas opções de selecção.
+Com uma [subscrição Enterprise]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}), também tem a opção de criar as suas [próprias cores]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) para as suas múltiplas opções de selecção.
 
 ## Definir valor por defeito
 
@@ -41,8 +41,8 @@ Se desejar poder armazenar **informação adicional** para cada opção de selec
 
 ## Alterar a ordem das múltiplas opções de selecção
 
-A ordem das opções de selecção múltipla pode ser ajustada da **mesma** forma que para uma coluna de selecção única. Pode encontrar instruções detalhadas [aqui](https://seatable.io/pt/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/).
+A ordem das opções de selecção múltipla pode ser ajustada da **mesma** forma que para uma coluna de selecção única. Pode encontrar instruções detalhadas [aqui]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}}).
 
 ## Exportar e importar múltiplas opções de selecção
 
-Pode **exportar** e **importar** as **opções de** uma coluna de multi-selecção da mesma forma que uma coluna de selecção única. Pode encontrar mais informações sobre isto [neste artigo](https://seatable.io/pt/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/).
+Pode **exportar** e **importar** as **opções de** uma coluna de multi-selecção da mesma forma que uma coluna de selecção única. Pode encontrar mais informações sobre isto [neste artigo]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).

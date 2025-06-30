@@ -34,7 +34,7 @@ Seleccione el **destinatario** o **destinatarios** del correo electrónico. Opci
 
 ![Especifique el destinatario o destinatarios del correo electrónico. Opcionalmente, también puede seleccionar destinatarios que deban recibir una copia del correo electrónico o a los que desee responder con el mismo.](images/send-to-copy-to-reply-to.png)
 
-Opcionalmente, puede añadir un **archivo adjunto** al correo electrónico. Tenga en cuenta, sin embargo, que _no puede_ simplemente cargar archivos, sino que primero debe guardarlos en una columna de archivos [de](https://seatable.io/es/docs/datei-und-bildanhaenge/die-datei-spalte/) la tabla. A continuación, en el campo **Archivos adjuntos**, puede seleccionar una o varias **columnas** de archivos desde las que desee adjuntar los archivos al correo electrónico.
+Opcionalmente, puede añadir un **archivo adjunto** al correo electrónico. Tenga en cuenta, sin embargo, que _no puede_ simplemente cargar archivos, sino que primero debe guardarlos en una columna de archivos [de]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) la tabla. A continuación, en el campo **Archivos adjuntos**, puede seleccionar una o varias **columnas** de archivos desde las que desee adjuntar los archivos al correo electrónico.
 
 ![Los archivos que haya añadido a una columna de archivos de su tabla pueden utilizarse como archivos adjuntos en el correo electrónico](images/file-001.png)
 

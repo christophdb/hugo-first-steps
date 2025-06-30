@@ -10,7 +10,7 @@ url: '/fr/aide/datenverarbeitungsoperationen-ausfuehren'
 
 La fonction de traitement des données vous permet d'**effectuer** diverses **opérations**. Vous pouvez effectuer des calculs mathématiques sur toutes les valeurs d'une colonne ou établir une relation entre les valeurs si les entrées de deux tableaux différents sont identiques.
 
-Les opérations de traitement des données s'effectuent soit **manuellement**, soit **par automatisation**. Vous apprendrez dans cet article comment fonctionne exactement l'exécution manuelle. Vous trouverez [ici](https://seatable.io/fr/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) des informations détaillées sur l'exécution par automation.
+Les opérations de traitement des données s'effectuent soit **manuellement**, soit **par automatisation**. Vous apprendrez dans cet article comment fonctionne exactement l'exécution manuelle. Vous trouverez [ici]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}) des informations détaillées sur l'exécution par automation.
 
 ## Exécution d'une opération de traitement de données
 
@@ -28,13 +28,17 @@ Les opérations de traitement des données s'effectuent soit **manuellement**, s
 
 ![Coche verte confirmant qu'une action de traitement des données a été effectuée](images/conformation-for-the-runof-a-data-processing-action.jpg)
 
-{{< warning  headline="Remarque importante"  text="Vous pouvez effectuer des opérations de traitement des données non seulement **manuellement**, mais aussi [par automatisation](https://seatable.io/fr/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). Si cela vous intéresse, lisez l'article lié à ce sujet." />}}
+{{< warning  headline="Remarque importante" >}}
+
+"Vous pouvez effectuer des opérations de traitement des données non seulement **manuellement**, mais aussi [par automatisation]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}). Si cela vous intéresse, lisez l'article lié à ce sujet.
+
+{{< /warning >}}
 
 ## Conséquences de l'exécution
 
 Chaque fois que l'opération de traitement des données est exécutée, les **résultats** sont écrits dans la **colonne des résultats** sans tenir compte des pertes. Si vous ne voulez pas écraser de données, vous devez [créer]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) pour les résultats.
 
-Contrairement aux **colonnes de formules** qui surveillent en permanence les colonnes impliquées, les **colonnes de résultats** ne s'actualisent pas d'elles-mêmes. Les modifications des valeurs dans la colonne source n'ont pas d'effet sur les valeurs dans la colonne de résultats sans [automatisation](https://seatable.io/fr/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ou nouvelle exécution.
+Contrairement aux **colonnes de formules** qui surveillent en permanence les colonnes impliquées, les **colonnes de résultats** ne s'actualisent pas d'elles-mêmes. Les modifications des valeurs dans la colonne source n'ont pas d'effet sur les valeurs dans la colonne de résultats sans [automatisation]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}) ou nouvelle exécution.
 
 Pour éviter tout malentendu, nous recommandons donc de ne **pas** apporter de modifications manuelles aux colonnes impliquées et de les [bloquer]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) après l'exécution, par mesure de sécurité (nécessite un abonnement Plus ou Enterprise).
 

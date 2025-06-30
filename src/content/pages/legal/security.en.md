@@ -76,7 +76,7 @@ We regularly update all software components of SeaTable Cloud. The updates are c
 
 All user data is regularly backed up in a remote data center (see Data Storage). In the event of a disaster, this allows the disaster recovery within a short time. Data loss is limited to the changes made since the last backup.
 
-SeaTable offers various recovery functions to undo unintentional data deletion and modification by users. Deleted Bases are kept in the recycle bin for 30 days before they are permanently deleted. Earlier versions of bases can be restored using the integrated snapshot function. Individual changes can be tracked and undone via the log. The duration for which snapshots and the log are retained depends on the [subscription]({{< relref "pages/prices" >}}), but is at least 1 month. More information about SeaTable’s features for restoring previous data states can be found in the SeaTable Manual in [Versioning & Snapshots](https://seatable.io/en/docs/handbuch/seatable-nutzen/versionierung-snapshots/).
+SeaTable offers various recovery functions to undo unintentional data deletion and modification by users. Deleted Bases are kept in the recycle bin for 30 days before they are permanently deleted. Earlier versions of bases can be restored using the integrated snapshot function. Individual changes can be tracked and undone via the log. The duration for which snapshots and the log are retained depends on the [subscription]({{< relref "pages/prices" >}}), but is at least 1 month. More information about SeaTable’s features for restoring previous data states can be found in the SeaTable Manual in [Versioning & Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 
 You can export your data stored in SeaTable at any time. SeaTable offers three export options:
 
@@ -84,7 +84,7 @@ You can export your data stored in SeaTable at any time. SeaTable offers three e
 - Export via the web interface to a DTABLE file
 - Export via the API
 
-More information about the DTABLE file format can be found in the [SeaTable Manual](https://seatable.io/en/docs/handbuch/expertenwissen/dtable-dateiformat/). The SeaTable API is fully documented in the [SeaTable API Reference](https://api.seatable.com).
+More information about the DTABLE file format can be found in the [SeaTable Manual]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). The SeaTable API is fully documented in the [SeaTable API Reference](https://api.seatable.com).
 
 ## Audit and Certification
 

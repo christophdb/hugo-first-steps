@@ -135,7 +135,7 @@ seo:
 3. Прочитайте [описание базы](https://seatable.io/ru/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) и получите общее представление.
 4. [Удалите данные образца](https://seatable.io/ru/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) и заполните таблицы собственным инвентарем.
 
-Если вы хотите создать свой собственный инвентарный список, вы можете **добавить или удалить любое количество столбцов в таблицах** или [начать с совершенно новой базы](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). Затем вы можете [поделиться](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) своим инвентарным списком со всеми членами команды. Вот и все. Ничто не мешает вам провести инвентаризацию.
+Если вы хотите создать свой собственный инвентарный список, вы можете **добавить или удалить любое количество столбцов в таблицах** или [начать с совершенно новой базы](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). Затем вы можете [поделиться]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) своим инвентарным списком со всеми членами команды. Вот и все. Ничто не мешает вам провести инвентаризацию.
 
 ## В чем преимущества SeaTable?
 

@@ -16,7 +16,7 @@ Para poder seguir editando sus bases y añadir datos, existen básicamente dos o
 
 1. **Borrar** parte de sus datos (bases, tablas, grupos, etc.) para liberar espacio de almacenamiento hasta que ya no se superen sus límites. A **Visión general** en el menú desplegable de la página de inicio.  
    ![Resumen de los límites alcanzados actualmente](images/show-current-limits.gif)
-2. [Cámbiate a un abono](https://seatable.io/es/docs/abo-abrechnung/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen/#aktuelles_abo_anpassen) que te ofrezca límites más altos.
+2. [Cámbiate a un abono]({{< relref "help/teamverwaltung/abonnement/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen" >}}) que te ofrezca límites más altos.
 
 {{< warning headline="Suscripciones" >}}
 

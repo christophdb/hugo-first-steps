@@ -83,7 +83,7 @@ Wenn Sie die beiden ablaufenden Apps nutzen, empfehlen wir Ihnen, Ihre Anwendung
 
 ## Und vieles mehr
 
-Wenn Sie [E-Mails per Automation versenden](https://seatable.io/docs/beispiel-automationen/e-mail-versand-per-automation/), konnten Sie Ihre Nachricht bisher nur als **Klartext** in das Textfeld eingeben. Ab SeaTable 4.3 ist es wie beim E-Mail-Versand über Schaltflächen möglich, die Nachrichten im **Rich-Text- bzw. HTML-Format** zu verfassen. Aktivieren Sie dazu einfach den Regler rechts über dem Textfeld.
+Wenn Sie [E-Mails per Automation versenden]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}), konnten Sie Ihre Nachricht bisher nur als **Klartext** in das Textfeld eingeben. Ab SeaTable 4.3 ist es wie beim E-Mail-Versand über Schaltflächen möglich, die Nachrichten im **Rich-Text- bzw. HTML-Format** zu verfassen. Aktivieren Sie dazu einfach den Regler rechts über dem Textfeld.
 
 ![Rich text in automated e-mail messages](Rich-text-in-automated-e-mail-messages.png)
 

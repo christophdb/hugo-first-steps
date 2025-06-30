@@ -27,7 +27,7 @@ In an image column, you have several options for **adding** images. Here's how:
 
 1. Click in the **cell of** an image column.
 2. Click on the **plus icon** that appears.
-3. A new window will open. Here you can upload **images from your device**, embed them via **URL** or add them from the [file manager](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
+3. A new window will open. Here you can upload **images from your device**, embed them via **URL** or add them from the [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
 
 ### Local images
 
@@ -47,7 +47,7 @@ In the **Image Link** section you can add images to the image column by entering
 
 ### Last uploaded
 
-In the **Recently uploaded** section, you have access to the [file management](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) of the base. Images that you have already uploaded to **image** or **file columns** or to **your own folders** are saved there. Select an image and insert it into the image column by clicking **Submit**.
+In the **Recently uploaded** section, you have access to the [file management]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) of the base. Images that you have already uploaded to **image** or **file columns** or to **your own folders** are saved there. Select an image and insert it into the image column by clicking **Submit**.
 
 ![The "Last Uploaded" area of an image column](images/recently-uploaded-images-image-column.png)
 
@@ -85,7 +85,7 @@ You can then specify **your own file name** and the **number of files** containe
 
 ![Dialog box to download all files](images/Download-all-files-dialog.png)
 
-If you click on the **three dots**, you have two options for saving the file: A **download** will save a zip file on your device from which you can extract all the images. You can also save the images **in Seafile**. To do this, you must first [connect a Seafile library to your Base](https://seatable.io/en/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+If you click on the **three dots**, you have two options for saving the file: A **download** will save a zip file on your device from which you can extract all the images. You can also save the images **in Seafile**. To do this, you must first [connect a Seafile library to your Base]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ### Delete images
 
@@ -95,4 +95,8 @@ Then select the desired **image** and click on the {{< seatable-icon icon="dtabl
 
 ![Confirmation of deletion](images/confirm-delete.jpg)
 
-{{< warning  headline="Attention"  text="Images deleted from an image column are still part of Base and thus **not** permanently deleted. For more information, read the articles [Accessing deleted files and images](https://seatable.io/en/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) and [How to permanently remove files](https://seatable.io/en/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  headline="Attention" >}}
+
+Images deleted from an image column are still part of Base and thus **not** permanently deleted. For more information, read the articles [Accessing deleted files and images]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) and [How to permanently remove files]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}

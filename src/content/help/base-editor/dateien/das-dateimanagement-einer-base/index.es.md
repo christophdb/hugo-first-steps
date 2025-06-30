@@ -24,7 +24,7 @@ El gestor de archivos contiene varias carpetas, que a su vez contienen varios ar
 
 ![Carpetas del sistema creadas y organizadas por el sistema SeaTable en la gestión de archivos](images/system-folders.png)
 
-- Una carpeta **Seafile** contiene todos los archivos que has subido previamente al almacenamiento externo en la nube del mismo nombre. [Aquí](https://seatable.io/es/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) puedes descubrir cómo funciona exactamente la integración de las bibliotecas Seafile y qué ventajas aporta.
+- Una carpeta **Seafile** contiene todos los archivos que has subido previamente al almacenamiento externo en la nube del mismo nombre. [Aquí]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) puedes descubrir cómo funciona exactamente la integración de las bibliotecas Seafile y qué ventajas aporta.
 
 ![Carpeta Seafile en Gestión de archivos](images/seafile-library.png)
 

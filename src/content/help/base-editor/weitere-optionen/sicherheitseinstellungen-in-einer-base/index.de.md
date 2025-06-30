@@ -66,7 +66,7 @@ Ist diese Einstellung **aktiviert**, werden die entsprechenden Symbole zum Hinzu
 
 ## Sicherheitseinstellungen: Freigegebene Benutzer
 
-Der zweite Teil der Sicherheitseinstellungen bezieht sich auf die Berechtigungen der **Nutzer**, an welche die entsprechende [Base freigegeben](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/) ist. In diesem Teil können Sie **dieselben** Einstellungen vornehmen, die bereits im ersten Teil für alle Benutzer verfügbar sind:
+Der zweite Teil der Sicherheitseinstellungen bezieht sich auf die Berechtigungen der **Nutzer**, an welche die entsprechende [Base freigegeben]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) ist. In diesem Teil können Sie **dieselben** Einstellungen vornehmen, die bereits im ersten Teil für alle Benutzer verfügbar sind:
 
 ![Sicherheitseinstellungen für freigegebene Benutzer](images/Security-settings-for-shared-users.png)
 

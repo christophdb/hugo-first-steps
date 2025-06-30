@@ -18,6 +18,6 @@ Wenn Sie dieses mächtige Feature von SeaTable künftig nutzen möchten, können
 
 ## Upgrade auf SeaTable Enterprise
 
-Automationen sind derzeit ausschließlich für Teams mit einem **[SeaTable Enterprise Abo]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}})** verfügbar. Falls Sie dieses Feature in Ihren Bases nicht finden können, verfügt Ihr Team vermutlich **nicht** über ein derartiges Abonnement. Um Automationen nutzen zu können, müssen Sie das **Abonnement Ihres Teams** auf ein Enterprise Abo [aktualisieren](https://seatable.io/docs/abo-abrechnung/abonnement-verwaltung/#abonnement-anpassen).
+Automationen sind derzeit ausschließlich für Teams mit einem **[SeaTable Enterprise Abo]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}})** verfügbar. Falls Sie dieses Feature in Ihren Bases nicht finden können, verfügt Ihr Team vermutlich **nicht** über ein derartiges Abonnement. Um Automationen nutzen zu können, müssen Sie das **Abonnement Ihres Teams** auf ein Enterprise Abo [aktualisieren]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}).
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Ein Abonnement gilt immer nur für das **gesamte Team**. Es können **keine** einzelnen Bases oder Teammitglieder hochgestuft werden." />}}

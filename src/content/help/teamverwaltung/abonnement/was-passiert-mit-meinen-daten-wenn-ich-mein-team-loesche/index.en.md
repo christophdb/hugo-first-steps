@@ -25,4 +25,4 @@ If you delete your team as a team administrator, your **account**, your **team**
 
 In particular, our billing system is special because once a payment has been recorded by you, we may not delete all of your data at all. In principle, however, we will comply with your request for data deletion and try to remove as much of your data as possible. More details about the system we use can be found in our [privacy policy](https://seatable.io/en/datenschutz/).
 
-**Before** deleting a team, think carefully whether you still need the data located in your team. If you are unsure, it is better to use the [Cancel Subscription](https://seatable.io/en/docs/abo-abrechnung/das-abo-kuendigen/) feature and return to the free version of SeaTable Cloud.
+**Before** deleting a team, think carefully whether you still need the data located in your team. If you are unsure, it is better to use the [Cancel Subscription]({{< relref "help/teamverwaltung/abonnement/das-abo-kuendigen" >}}) feature and return to the free version of SeaTable Cloud.

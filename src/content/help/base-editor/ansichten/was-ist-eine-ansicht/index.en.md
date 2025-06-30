@@ -30,7 +30,7 @@ The **table view** is the default display format in a SeaTable Base. It is very 
 
 ![Table view](images/Tabelle.png)
 
-You can use other representations like calendar, gallery or kanban in the form of [plugins](https://seatable.io/en/docs/arbeiten-mit-plugins/was-ist-ein-plugin/).
+You can use other representations like calendar, gallery or kanban in the form of [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
 
 ## More articles on the subject of views
 

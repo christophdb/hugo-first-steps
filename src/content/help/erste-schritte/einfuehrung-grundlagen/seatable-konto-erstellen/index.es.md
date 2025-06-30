@@ -21,7 +21,7 @@ Eso es todo. En breve recibirá un correo electrónico con un enlace de confirma
 
 {{< warning headline="La información de pago no es necesaria" >}}
 
-Con SeaTable Cloud, todos los equipos comienzan siempre con la suscripción gratuita. Por lo tanto, no tiene que proporcionar ninguna información de pago. Por supuesto, puede [actualizar](https://seatable.io/es/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) su equipo a una suscripción [Plus o Enterprise](https://seatable.io/es/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) inmediatamente después del primer inicio de sesión.
+Con SeaTable Cloud, todos los equipos comienzan siempre con la suscripción gratuita. Por lo tanto, no tiene que proporcionar ninguna información de pago. Por supuesto, puede [actualizar]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) su equipo a una suscripción [Plus o Enterprise]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) inmediatamente después del primer inicio de sesión.
 
 {{</ warning >}}
 

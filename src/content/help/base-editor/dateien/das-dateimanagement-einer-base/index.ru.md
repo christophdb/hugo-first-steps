@@ -24,7 +24,7 @@ url: '/ru/pomoshch/das-dateimanagement-einer-base'
 
 ![Системные папки, созданные и организованные системой SeaTable в управлении файлами](images/system-folders.png)
 
-- **Папка Seafile** содержит все файлы, которые вы ранее загрузили в одноименное внешнее облачное хранилище. [Здесь](https://seatable.io/ru/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) вы можете узнать, как именно работает интеграция библиотек Seafile и какие преимущества она дает.
+- **Папка Seafile** содержит все файлы, которые вы ранее загрузили в одноименное внешнее облачное хранилище. [Здесь]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) вы можете узнать, как именно работает интеграция библиотек Seafile и какие преимущества она дает.
 
 ![Папка Seafile в разделе Управление файлами](images/seafile-library.png)
 

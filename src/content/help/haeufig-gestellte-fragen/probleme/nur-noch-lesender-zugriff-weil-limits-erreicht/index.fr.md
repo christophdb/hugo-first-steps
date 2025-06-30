@@ -18,7 +18,7 @@ Vous trouverez un aperçu détaillé de toutes les **formules d'abonnement** dis
 
 ## Comment puis-je à nouveau modifier mes données ?
 
-Pour pouvoir continuer à traiter vos données dans leur intégralité, vous devez **passer** à une **formule d'abonnement** qui vous accorde des **limites plus étendues** que votre abonnement actuel. Vous trouverez les étapes nécessaires à cet effet en détail dans cet [article d'aide sur la mise à niveau de votre compte](https://seatable.io/fr/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Pour pouvoir continuer à traiter vos données dans leur intégralité, vous devez **passer** à une **formule d'abonnement** qui vous accorde des **limites plus étendues** que votre abonnement actuel. Vous trouverez les étapes nécessaires à cet effet en détail dans cet [article d'aide sur la mise à niveau de votre compte]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 Vous pouvez également supprimer une partie de vos données jusqu'à ce que vous soyez à nouveau en dessous de vos limites actuelles.
 

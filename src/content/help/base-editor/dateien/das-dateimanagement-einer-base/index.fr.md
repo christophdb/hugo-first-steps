@@ -24,7 +24,7 @@ Dans le gestionnaire de fichiers se trouvent différents dossiers qui contiennen
 
 ![Dossiers système créés et organisés par le système SeaTable dans la gestion de fichiers](images/system-folders.png)
 
-- Dans un **dossier Seafile** se trouvent tous les fichiers que vous avez téléchargés auparavant dans le stockage en nuage externe du même nom. Vous apprendrez [ici](https://seatable.io/fr/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) comment fonctionne exactement l'intégration des bibliothèques Seafile et quels sont les avantages qu'elle apporte.
+- Dans un **dossier Seafile** se trouvent tous les fichiers que vous avez téléchargés auparavant dans le stockage en nuage externe du même nom. Vous apprendrez [ici]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) comment fonctionne exactement l'intégration des bibliothèques Seafile et quels sont les avantages qu'elle apporte.
 
 ![Dossiers Seafile dans la gestion de fichiers](images/seafile-library.png)
 

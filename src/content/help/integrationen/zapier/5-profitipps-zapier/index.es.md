@@ -12,7 +12,7 @@ Zapier le permite crear una interfaz entre SeaTable y una de las miles de otras 
 
 ## 1\. acceder al contenido de una tabla vinculada con columnas de búsqueda
 
-SeaTable le permite enlazar registros entre dos tablas. Para más detalles, consulte [este artículo de ayuda](https://seatable.io/es/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
+SeaTable le permite enlazar registros entre dos tablas. Para más detalles, consulte [este artículo de ayuda]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}).
 
 ![Enlaces en SeaTable](images/zapier-linked-columns.png)
 

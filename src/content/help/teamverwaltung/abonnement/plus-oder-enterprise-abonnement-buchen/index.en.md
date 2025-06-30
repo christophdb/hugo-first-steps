@@ -31,6 +31,6 @@ The booking takes place directly and your team has immediate access to the new f
 
 ## Important booking information
 
-- The **standard payment method** is payment by credit card. [Payment by invoice](https://seatable.io/en/docs/abo-abrechnung/bezahlung-per-rechnung/) is only possible under certain conditions.
+- The **standard payment method** is payment by credit card. [Payment by invoice]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}) is only possible under certain conditions.
 - The amount shown in the booking form below will be **charged to** you **directly** after the subscription is completed.
 - Once the payment is made, your account will be **automatically** upgraded to the booked subscription.

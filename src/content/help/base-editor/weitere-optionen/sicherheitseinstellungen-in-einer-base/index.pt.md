@@ -62,7 +62,7 @@ Se esta definição estiver **activada**, os ícones correspondentes para adicio
 
 ## Definições de segurança: Utilizadores partilhados
 
-A segunda parte das definições de segurança refere-se às permissões dos **utilizadores** a quem a [base](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondente é [libertada](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/). Nesta parte, pode fazer as **mesmas** definições que já estão disponíveis na primeira parte para todos os utilizadores:
+A segunda parte das definições de segurança refere-se às permissões dos **utilizadores** a quem a [base]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) correspondente é [libertada]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Nesta parte, pode fazer as **mesmas** definições que já estão disponíveis na primeira parte para todos os utilizadores:
 
 ![Definições de segurança para utilizadores autorizados](images/Security-settings-for-shared-users.png)
 

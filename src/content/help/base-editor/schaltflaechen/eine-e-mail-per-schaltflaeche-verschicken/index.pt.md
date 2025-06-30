@@ -34,7 +34,7 @@ Seleccione o(s) **destinatário** (s) do e-mail. Opcionalmente, pode também sel
 
 ![Especificar o(s) destinatário(s) do e-mail. Opcionalmente, pode também seleccionar destinatários que devem receber uma cópia do e-mail ou a quem gostaria de responder com o e-mail.](images/send-to-copy-to-reply-to.png)
 
-Opcionalmente, pode acrescentar um **anexo à** mensagem de correio electrónico. Note-se, no entanto, que _não pode_ simplesmente carregar ficheiros, mas deve primeiro guardá-los numa [coluna de ficheiros da](https://seatable.io/pt/docs/datei-und-bildanhaenge/die-datei-spalte/) tabela. No campo **Anexos**, pode então seleccionar uma ou mais **colunas de ficheiros** a partir das quais pretende anexar os ficheiros à mensagem de correio electrónico.
+Opcionalmente, pode acrescentar um **anexo à** mensagem de correio electrónico. Note-se, no entanto, que _não pode_ simplesmente carregar ficheiros, mas deve primeiro guardá-los numa [coluna de ficheiros da]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) tabela. No campo **Anexos**, pode então seleccionar uma ou mais **colunas de ficheiros** a partir das quais pretende anexar os ficheiros à mensagem de correio electrónico.
 
 ![Os ficheiros que adicionou a uma coluna de ficheiro da sua tabela podem ser utilizados como anexos ao e-mail](images/file-001.png)
 

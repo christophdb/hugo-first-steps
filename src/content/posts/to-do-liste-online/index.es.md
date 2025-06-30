@@ -95,7 +95,7 @@ Los recordatorios pueden clasificarse claramente en cada lista y dividirse en se
 
 SeaTable es una base de datos en línea que le permite organizar tareas, información, procesos e ideas de forma fácil y clara. Se beneficia de una vista de lista clásica o puede utilizar formatos de visualización alternativos como el [tablero Kanban](https://seatable.io/es/docs/plugins/anleitung-zum-kanban-plugin/), el [calendario](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/) o un [diagrama de Gantt](https://seatable.io/es/docs/plugins/anleitung-zum-timeline-plugin/).
 
-Otra función interesante es que puedes subir [archivos](https://seatable.io/es/docs/dateien-und-bilder/die-datei-spalte/) e [imágenes](https://seatable.io/es/docs/dateien-und-bilder/die-bild-spalte/) y adjuntarlos a las tareas. También puedes añadir toda la información que quieras, como una fecha, una prioridad y subtareas en columnas adicionales.
+Otra función interesante es que puedes subir [archivos]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) e [imágenes]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) y adjuntarlos a las tareas. También puedes añadir toda la información que quieras, como una fecha, una prioridad y subtareas en columnas adicionales.
 
 SeaTable es, con diferencia, la aplicación con más **funciones** de todas las que hemos analizado y destaca por su gran **flexibilidad**. Tienes todo lo que necesitas para tu lista de tareas en una sola aplicación. Gracias a las numerosas **funciones de colaboración** (comentarios, registros de datos compartidos, trabajo sincronizado en tiempo real, etc.), no sólo podrá trabajar en sus propias listas, sino también colaborar con éxito en equipo.
 

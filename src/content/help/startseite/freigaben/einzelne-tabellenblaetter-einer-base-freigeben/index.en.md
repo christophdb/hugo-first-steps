@@ -28,4 +28,4 @@ If you are currently **in a Base**, you can also create a share without having t
 
 ## Create custom share
 
-For a detailed explanation of the necessary steps, see the article [Creating a Custom Share](https://seatable.io/en/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+For a detailed explanation of the necessary steps, see the article [Creating a Custom Share]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

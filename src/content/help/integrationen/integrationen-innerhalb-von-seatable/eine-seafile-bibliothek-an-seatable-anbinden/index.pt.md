@@ -47,7 +47,7 @@ Uma solução para respeitar os limites neste caso é externalizar os seus fiche
 
 ## Aceder a ficheiros no Seafile
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base.
+Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base.
 
 ![Biblioteca Seafile integrada na gestão de ficheiros da base](images/library-in-file-management.png)
 

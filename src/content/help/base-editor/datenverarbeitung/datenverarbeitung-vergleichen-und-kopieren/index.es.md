@@ -43,7 +43,7 @@ Para realizar esta operación de tratamiento de datos, se necesitan **dos tablas
 
 ![Ejemplo de tabla para el mantenimiento de los datos personales de los empleados](images/example-table-employees-and-personal-data-1.png)
 
-En la segunda tabla se introducen las **tareas pendientes**, para las que se introduce el empleado responsable correspondiente en otra columna. Además, se crea una nueva columna del tipo [correo electrónico](https://seatable.io/es/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/), en la que se copiarán posteriormente las direcciones de correo electrónico.
+En la segunda tabla se introducen las **tareas pendientes**, para las que se introduce el empleado responsable correspondiente en otra columna. Además, se crea una nueva columna del tipo [correo electrónico]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}), en la que se copiarán posteriormente las direcciones de correo electrónico.
 
 ![Tabla de destino que incluye la columna de resultados antes de la ejecución de la acción de tratamiento de datos](images/table-open-tasks-before-data-processing-operation-1.png)
 

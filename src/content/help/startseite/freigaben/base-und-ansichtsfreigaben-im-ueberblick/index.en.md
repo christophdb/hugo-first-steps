@@ -16,7 +16,7 @@ In this explanation and overview article, you will learn about the **sharing opt
 
 In SeaTable, you have the ability to give **specific people or groups** access to Bases, Tables, and Views to work collaboratively with the data. While this has many benefits for **teamwork**, there may be **confidential information** that you don't want everyone on the team to have access to.
 
-That's why SeaTable allows you to define tiered permissions on each share. By specifying whether it should be a **read-only** share, a **read-and-write** share, or a [custom share](https://seatable.io/en/docs/freigaben/benutzerdefinierte-freigabe-erstellen/), you retain full control over **who is** **authorized to do what** in your base, table, or view. Of course, this means you also have the ability to **change** and **revoke** permissions.
+That's why SeaTable allows you to define tiered permissions on each share. By specifying whether it should be a **read-only** share, a **read-and-write** share, or a [custom share]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}), you retain full control over **who is** **authorized to do what** in your base, table, or view. Of course, this means you also have the ability to **change** and **revoke** permissions.
 
 ## Functionality and types of releases
 
@@ -29,7 +29,7 @@ Each share - whether for a base, table or view - is assigned a permission level.
 - **Sharing with read** permissions: Read permissions allow users to view tables and data and change view settings such as filters and groupings. However, users cannot make changes to tables and data with this permission.
 - **Share with read and write** permissions: With read and write sharing, users can make changes to tables and data, but they cannot install plugins or share the base or view with other people or groups.
 
-To give you even more options when sharing a Base than you have with the two basic permissions, SeaTable also offers [custom sharing permissions](https://seatable.io/en/docs/freigaben/benutzerdefinierte-freigabe-erstellen/) on Bases. With a custom share permission, you can **share** **multiple tables and views** with different permission levels in a Base in one fell swoop.
+To give you even more options when sharing a Base than you have with the two basic permissions, SeaTable also offers [custom sharing permissions]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) on Bases. With a custom share permission, you can **share** **multiple tables and views** with different permission levels in a Base in one fell swoop.
 
 Each share, regardless of the assigned authorization, can be **terminated** at any time by the owner or an administrator.
 
@@ -56,7 +56,7 @@ An existing share to a user or group can be extended or restricted at any time b
 
 ## Shares for tables
 
-If you don't want to [share](https://seatable.io/en/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/) an entire base, but only [individual tables](https://seatable.io/en/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/), that is of course also possible. [Custom sharing](https://seatable.io/en/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) allows you to share multiple tables and views at once and send them to team members or entire groups.
+If you don't want to [share]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) an entire base, but only [individual tables]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}), that is of course also possible. [Custom sharing](https://seatable.io/en/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) allows you to share multiple tables and views at once and send them to team members or entire groups.
 
 ## Approvals for views
 

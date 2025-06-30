@@ -56,7 +56,7 @@ Eine bestehende Freigabe an einen Benutzer oder eine Gruppe kann jederzeit über
 
 ## Freigaben für Tabellen
 
-Wenn Sie keine ganze Base, sondern nur [einzelne Tabellen freigeben](https://seatable.io/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/) möchten, geht das natürlich auch. Die [benutzerdefinierte Freigabe](https://seatable.io/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) ermöglicht es Ihnen, mehrere Tabellen und Ansichten gleichzeitig freizugeben und an Teammitglieder oder ganze Gruppen zu versenden.
+Wenn Sie keine ganze Base, sondern nur [einzelne Tabellen freigeben]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) möchten, geht das natürlich auch. Die [benutzerdefinierte Freigabe](https://seatable.io/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) ermöglicht es Ihnen, mehrere Tabellen und Ansichten gleichzeitig freizugeben und an Teammitglieder oder ganze Gruppen zu versenden.
 
 ## Freigaben für Ansichten
 

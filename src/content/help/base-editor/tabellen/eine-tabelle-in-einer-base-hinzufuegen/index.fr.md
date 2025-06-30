@@ -40,4 +40,4 @@ Parfois, une image vaut mille mots. SeaTable permet également d'utiliser des em
 
 ![Emojis dans le nom du tableau](images/emojis-seatable-table-name.png)
 
-Vous trouverez des instructions détaillées dans l'article [Utilisation des emojis dans les noms de tableaux](https://seatable.io/fr/docs/arbeiten-in-tabellen/verwendung-von-emojis-im-tabellennamen/).
+Vous trouverez des instructions détaillées dans l'article [Utilisation des emojis dans les noms de tableaux]({{< relref "help/base-editor/tabellen/verwendung-von-emojis-im-tabellennamen" >}}).

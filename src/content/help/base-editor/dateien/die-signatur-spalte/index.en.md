@@ -42,11 +42,15 @@ If you are not satisfied with your deposited signature and want to sign again, s
 
 ![Sign again in the signature panel](images/resign.jpg)
 
-{{< warning  headline="File not deleted"  text="However, the original signature remains available in the Base [file manager](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) as a PNG file if you have already saved it." />}}
+{{< warning  headline="File not deleted" >}}
+
+However, the original signature remains available in the Base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) as a PNG file if you have already saved it.
+
+{{< /warning >}}
 
 ## Digital signatures in the file manager
 
-Each stored signature is also saved in the [file management](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) of your Base as a PNG file in a **system folder**.
+Each stored signature is also saved in the [file management]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) of your Base as a PNG file in a **system folder**.
 
 ![Folder in the file management of your Base where your signatures are stored ](images/stored-signatures-in-filemanagement.jpg)
 

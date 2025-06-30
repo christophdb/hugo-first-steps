@@ -26,7 +26,7 @@ You can choose between **nine** different actions in total:
 - row edit
 - row copy to another table
 - Open URL
-- Open plugin (only possible if you have activated at least one [plugin](https://seatable.io/en/docs/arbeiten-mit-plugins/was-ist-ein-plugin/) )
+- Open plugin (only possible if you have activated at least one [plugin]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) )
 - Save PDF file in column (only possible if [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) is enabled)
 - Send notification
 - Send e-mail

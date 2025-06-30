@@ -12,7 +12,7 @@ The data processing function is a useful feature of SeaTable that allows you to 
 
 ## Sense behind data processing operations
 
-SeaTable often thinks in rows. For example, a [formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) can exclusively relate the values in a row and also [links between tables](https://seatable.io/en/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) are only ever done from rows to rows.
+SeaTable often thinks in rows. For example, a [formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) can exclusively relate the values in a row and also [links between tables]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) are only ever done from rows to rows.
 
 Data processing, in contrast, is a function to perform operations in a column across multiple rows . Basically, a distinction is made between two different types of data processing operations:
 
@@ -47,7 +47,7 @@ Data processing operations can currently be performed [manually]({{< relref "hel
 
 Each time the data processing operation is executed, the **results** are written to the **results column** regardless. If you do not want to overwrite any data, you should [create]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) for the results in advance.
 
-Unlike **formula** columns that permanently monitor the columns involved, **result columns** do _not_ update themselves. Changes to the values in the source column do _not_ affect the values in the result column without [automation](https://seatable.io/en/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) or re-execution. Therefore, you can also manually overwrite the calculated or related values.
+Unlike **formula** columns that permanently monitor the columns involved, **result columns** do _not_ update themselves. Changes to the values in the source column do _not_ affect the values in the result column without [automation]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}) or re-execution. Therefore, you can also manually overwrite the calculated or related values.
 
 ## Protection against changes
 

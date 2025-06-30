@@ -98,7 +98,7 @@ url: '/ru/pomoshch/uebersicht-alle-spaltentypen'
 
 Колонки электронной почты - это специализированные текстовые колонки для захвата и хранения **адресов электронной почты**, позволяющие использовать их непосредственно щелчком мыши. Колонка электронной почты особенно удобна для веб-форм. Использование поля электронной почты вместо текстовой колонки гарантирует, что вводимые данные имеют синтаксис действительного адреса электронной почты. Кроме того, столбцы электронной почты можно использовать для отправки электронных писем с помощью [кнопок]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) и [автоматизаций]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
-Если вам нужна более подробная информация о колонке электронной почты, ознакомьтесь с этой [статьей](https://seatable.io/ru/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
+Если вам нужна более подробная информация о колонке электронной почты, ознакомьтесь с этой [статьей]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}).
 
 ### URL
 
@@ -106,7 +106,7 @@ url: '/ru/pomoshch/uebersicht-alle-spaltentypen'
 
 Колонки URL интерпретируют введенную информацию как **ресурс** в локальной сети или в Интернете и позволяют получить прямой доступ по щелчку мыши. Поскольку записи в столбцах этого типа не проверяются, в ячейке может храниться интернет-адрес (например, https://seatable.io) или IP-адрес (например, 192.168.178.1).
 
-[Подробнее о колонке URL](https://seatable.io/ru/docs/text-und-zahlen/die-url-spalte/)
+[Подробнее о колонке URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 
 ### Флажок
 
@@ -176,7 +176,7 @@ url: '/ru/pomoshch/uebersicht-alle-spaltentypen'
 
 Символ: {{< seatable-icon icon="dtable-icon-rename" >}} **Цифровая подпись**
 
-[Подробнее о колонке с подписями](https://seatable.io/ru/docs/dateien-und-bilder/die-signatur-spalte/)
+[Подробнее о колонке с подписями]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}})
 
 ## Типы колонок с автоматическим сбором данных
 

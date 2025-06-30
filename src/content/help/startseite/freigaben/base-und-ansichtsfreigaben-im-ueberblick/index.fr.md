@@ -16,7 +16,7 @@ Dans cet article d'explication et de présentation, vous apprendrez à connaîtr
 
 Dans SeaTable, vous avez la possibilité d'autoriser **certaines personnes ou certains groupes** à accéder aux bases, aux tableaux et aux vues afin de travailler ensemble sur les données. Si cela présente de nombreux avantages pour le **travail en équipe**, il peut toutefois y avoir des **informations confidentielles** qui ne doivent pas être accessibles à tous les membres de l'équipe.
 
-C'est pourquoi SeaTable vous permet de définir des niveaux d'autorisation pour chaque partage. En déterminant s'il s'agit d'un partage **en lecture** seule, d'un partage **en lecture et écriture** ou d'un [partage personnalisé](https://seatable.io/fr/docs/freigaben/benutzerdefinierte-freigabe-erstellen/), vous gardez le contrôle total de **qui** est **autorisé à faire quoi** dans votre base, table ou vue. Cela signifie bien sûr que vous avez également la possibilité de **modifier** et de **retirer** des autorisations.
+C'est pourquoi SeaTable vous permet de définir des niveaux d'autorisation pour chaque partage. En déterminant s'il s'agit d'un partage **en lecture** seule, d'un partage **en lecture et écriture** ou d'un [partage personnalisé]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}), vous gardez le contrôle total de **qui** est **autorisé à faire quoi** dans votre base, table ou vue. Cela signifie bien sûr que vous avez également la possibilité de **modifier** et de **retirer** des autorisations.
 
 ## Fonctionnement et types de libérations.
 
@@ -29,7 +29,7 @@ Chaque partage - que ce soit pour une base, une table ou une vue - reçoit un ni
 - **Partage avec des droits de lecture**: Les personnes disposant d'un droit de lecture peuvent visualiser les tableaux et les données et modifier les paramètres d'affichage tels que les filtres et les regroupements. Ils ne peuvent toutefois pas apporter de modifications aux tableaux et aux données avec ce droit.
 - **Partage avec droits de lecture et d'écriture**: Dans le cas d'un partage en lecture et en écriture, les personnes autorisées à utiliser la base peuvent apporter des modifications aux tables et aux données, mais ne peuvent pas installer de plugins ni partager la base ou la vue avec d'autres personnes ou groupes.
 
-Pour vous donner encore plus de possibilités lors du partage d'une base que les deux autorisations de base, SeaTable propose également [des autorisations de partage personnalisées](https://seatable.io/fr/docs/freigaben/benutzerdefinierte-freigabe-erstellen/) pour les bases. Avec une autorisation de partage personnalisée, vous pouvez **partager** d'un seul coup **plusieurs tables et vues** dans une base, avec différents niveaux d'autorisation.
+Pour vous donner encore plus de possibilités lors du partage d'une base que les deux autorisations de base, SeaTable propose également [des autorisations de partage personnalisées]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) pour les bases. Avec une autorisation de partage personnalisée, vous pouvez **partager** d'un seul coup **plusieurs tables et vues** dans une base, avec différents niveaux d'autorisation.
 
 Chaque partage, indépendamment de l'autorisation attribuée, peut être **annulé** à tout moment par le propriétaire ou un administrateur.
 
@@ -56,7 +56,7 @@ Un partage existant avec un utilisateur ou un groupe peut être étendu ou limit
 
 ## Partages de tableaux
 
-Si vous ne souhaitez pas [partager](https://seatable.io/fr/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/) une base entière, mais seulement [des tableaux individuels](https://seatable.io/fr/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/), cela est bien sûr également possible. Le [partage personnalisé](https://seatable.io/fr/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) vous permet de partager plusieurs tableaux et vues en même temps et de les envoyer à des membres de l'équipe ou à des groupes entiers.
+Si vous ne souhaitez pas [partager]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) une base entière, mais seulement [des tableaux individuels]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}), cela est bien sûr également possible. Le [partage personnalisé](https://seatable.io/fr/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) vous permet de partager plusieurs tableaux et vues en même temps et de les envoyer à des membres de l'équipe ou à des groupes entiers.
 
 ## Partages de vues
 

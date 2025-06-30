@@ -16,7 +16,7 @@ SeaTable fornece uma **função de comentário para** o intercâmbio com outros 
 
 Em SeaTable pode ter uma discussão separada em cada **fila** individual **da** mesa. As linhas em que uma discussão está em curso são indicadas por um **ícone de bolha de ar** na primeira coluna. O número na bolha indica o número de novos comentários nos últimos 7 dias. É possível visualizar a discussão em curso clicando no ícone.
 
-As discussões e comentários são visíveis a todas as pessoas com acesso à mesa. Isto inclui também as pessoas que acedem a uma mesa através de uma [ligação externa](https://seatable.io/pt/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/).
+As discussões e comentários são visíveis a todas as pessoas com acesso à mesa. Isto inclui também as pessoas que acedem a uma mesa através de uma [ligação externa]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).
 
 Os comentários de uma tabela não são tidos em conta ao [exportar uma base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) ou ao [exportar uma tabela para um ficheiro XLSX]({{ relref "help/startseite/import-von-daten/datenimport-und-export" }}) e são depois perdidos.
 

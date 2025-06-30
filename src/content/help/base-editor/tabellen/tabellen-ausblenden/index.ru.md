@@ -18,4 +18,8 @@ url: '/ru/pomoshch/tabellen-ausblenden'
 
 Вы можете **работать** в скрытой таблице так же, как и в видимой **, без каких-либо ограничений**. Если вы хотите снова **показать** таблицу в заголовке базы, действуйте точно так же, как описано в инструкциях выше.
 
-{{< warning  headline="Совет"  text="Кстати, вы также можете [перемещать](https://seatable.io/ru/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) таблицы [с помощью перетаскивания](https://seatable.io/ru/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/), чтобы наиболее часто используемые таблицы всегда были под рукой слева в заголовке базы." />}}
+{{< warning  headline="Совет" >}}
+
+Кстати, вы также можете [перемещать]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) таблицы [с помощью перетаскивания]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}), чтобы наиболее часто используемые таблицы всегда были под рукой слева в заголовке базы.
+
+{{< /warning >}}

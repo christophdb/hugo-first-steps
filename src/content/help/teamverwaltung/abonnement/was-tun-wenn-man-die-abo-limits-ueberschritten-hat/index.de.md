@@ -21,7 +21,7 @@ Eine Übersicht mit allen verfügbaren Paketen und den darin enthaltenen Limits,
 
 ## Zu einem umfangreicheren Abo-Paket wechseln
 
-Um wieder vollumfänglich mit Ihren Daten arbeiten zu können, müssen Sie Ihr Abonnement zu einem [umfangreicheren Abo-Paket upgraden](https://seatable.io/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Um wieder vollumfänglich mit Ihren Daten arbeiten zu können, müssen Sie Ihr Abonnement zu einem [umfangreicheren Abo-Paket upgraden]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Einen Teil Ihrer Daten löschen
 

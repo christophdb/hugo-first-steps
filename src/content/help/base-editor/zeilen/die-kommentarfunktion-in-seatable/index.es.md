@@ -16,7 +16,7 @@ SeaTable proporciona una **función de comentarios para** el intercambio con otr
 
 En SeaTable puede mantener un debate independiente en cada **fila de** la tabla. Las filas en las que hay un debate en curso se indican mediante el **icono de una burbuja** de diálogo en la primera columna. El número en la burbuja indica el número de nuevos comentarios en los últimos 7 días. Puede ver el debate en curso haciendo clic en el icono.
 
-Los debates y comentarios son visibles para todas las personas con acceso a la mesa. Esto incluye también a las personas que acceden a una mesa a través de un [enlace externo](https://seatable.io/es/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/).
+Los debates y comentarios son visibles para todas las personas con acceso a la mesa. Esto incluye también a las personas que acceden a una mesa a través de un [enlace externo]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).
 
 Los comentarios de una tabla no se tienen en cuenta al [exportar una base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) o al [exportar una tabla a un archivo XLSX]({{ relref "help/startseite/import-von-daten/datenimport-und-export" }}) y se pierden.
 

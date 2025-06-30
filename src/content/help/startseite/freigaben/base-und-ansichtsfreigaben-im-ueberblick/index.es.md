@@ -16,7 +16,7 @@ En este artículo de explicación y visión general, aprenderá sobre las **opci
 
 En SeaTable, tiene la opción de dar acceso a **personas o grupos específicos** a bases, tablas y vistas para trabajar con los datos conjuntamente. Aunque esto tiene muchas ventajas para el **trabajo en equipo**, puede haber **información confidencial** a la que no quiera que todos los miembros del equipo tengan acceso.
 
-Por eso SeaTable le permite definir permisos por niveles en cada recurso compartido. Al especificar si debe ser un recurso compartido **de sólo lectura**, un recurso compartido de **lectura y escritura** o un [recurso compartido personalizado](https://seatable.io/es/docs/freigaben/benutzerdefinierte-freigabe-erstellen/), usted mantiene el control total sobre quién **está** **autorizado a hacer qué en** su base, tabla o vista. Esto significa, por supuesto, que también tienes la posibilidad de **cambiar** y **revocar** permisos.
+Por eso SeaTable le permite definir permisos por niveles en cada recurso compartido. Al especificar si debe ser un recurso compartido **de sólo lectura**, un recurso compartido de **lectura y escritura** o un [recurso compartido personalizado]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}), usted mantiene el control total sobre quién **está** **autorizado a hacer qué en** su base, tabla o vista. Esto significa, por supuesto, que también tienes la posibilidad de **cambiar** y **revocar** permisos.
 
 ## Funcionalidad y tipos de desbloqueo
 
@@ -29,7 +29,7 @@ A cada compartición - ya sea para una base, tabla o vista - se le asigna un niv
 - **Compartir con derechos de** lectura: Los permisos de lectura permiten a los usuarios ver tablas y datos y cambiar la configuración de la vista, como filtros y agrupaciones. Sin embargo, los usuarios no pueden realizar cambios en las tablas y los datos con este permiso.
 - Compartir con derechos **de** lectura y escritura: En el caso de la compartición con derechos de lectura y escritura, los usuarios autorizados pueden realizar cambios en las tablas y los datos, pero no pueden instalar complementos ni compartir la base o la vista con otras personas o grupos.
 
-Para ofrecerle aún más opciones a la hora de compartir una base que en el caso de los dos permisos básicos, SeaTable también ofrece [permisos](https://seatable.io/es/docs/freigaben/benutzerdefinierte-freigabe-erstellen/) de uso compartido personalizados para bases. Con un permiso de uso compartido personalizado, puede **compartir** **varias tablas y vistas** en una base a la vez, incluyendo diferentes niveles de permiso.
+Para ofrecerle aún más opciones a la hora de compartir una base que en el caso de los dos permisos básicos, SeaTable también ofrece [permisos]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) de uso compartido personalizados para bases. Con un permiso de uso compartido personalizado, puede **compartir** **varias tablas y vistas** en una base a la vez, incluyendo diferentes niveles de permiso.
 
 Cada liberación, independientemente de la autorización asignada, puede ser **rescindida** en cualquier momento por el propietario o un administrador.
 
@@ -56,7 +56,7 @@ Una autorización existente para un usuario o grupo puede ampliarse o restringir
 
 ## Liberaciones para mesas
 
-Si no desea [compartir](https://seatable.io/es/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/) una base completa, sino sólo [tablas](https://seatable.io/es/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/) individuales, por supuesto también es posible. La [compartición personalizada](https://seatable.io/es/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) le permite compartir varias tablas y vistas al mismo tiempo y enviarlas a los miembros de un equipo o a grupos enteros.
+Si no desea [compartir]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) una base completa, sino sólo [tablas]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) individuales, por supuesto también es posible. La [compartición personalizada](https://seatable.io/es/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) le permite compartir varias tablas y vistas al mismo tiempo y enviarlas a los miembros de un equipo o a grupos enteros.
 
 ## Aprobación de las vistas
 

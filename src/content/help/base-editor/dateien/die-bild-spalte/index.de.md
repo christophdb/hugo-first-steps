@@ -27,7 +27,7 @@ In einer Bild-Spalte stehen Ihnen verschiedene Möglichkeiten zum **Hinzufügen*
 
 1. Klicken Sie in die **Zelle** einer Bild-Spalte.
 2. Klicken Sie auf das erschienene **Plus-Symbol**.
-3. Ein neues Fenster öffnet sich. Hier können Sie **Bilder von Ihrem Gerät** hochladen, per **URL** einbinden oder aus der [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) hinzufügen.
+3. Ein neues Fenster öffnet sich. Hier können Sie **Bilder von Ihrem Gerät** hochladen, per **URL** einbinden oder aus der [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) hinzufügen.
 
 ### Lokale Bilder
 
@@ -47,7 +47,7 @@ Im Bereich **Bild-Link** können Sie Bilder durch die Eingabe der **Bild-URL** z
 
 ### Zuletzt hochgeladen
 
-Im Bereich **Zuletzt hochgeladen** haben Sie Zugriff auf die [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) der Base. Dort sind Bilder gespeichert, die Sie bereits in **Bild-** oder **Datei-Spalten** oder in **eigene Ordner** hochgeladen haben. Wählen Sie ein Bild aus und fügen Sie es mit **Abschicken** in die Bild-Spalte ein.
+Im Bereich **Zuletzt hochgeladen** haben Sie Zugriff auf die [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) der Base. Dort sind Bilder gespeichert, die Sie bereits in **Bild-** oder **Datei-Spalten** oder in **eigene Ordner** hochgeladen haben. Wählen Sie ein Bild aus und fügen Sie es mit **Abschicken** in die Bild-Spalte ein.
 
 ![Der Bereich "Zuletzt hochgeladen" einer Bildspalte](images/recently-uploaded-images-image-column.png)
 
@@ -85,7 +85,7 @@ Anschließend können Sie noch einen **eigenen Dateinamen** festlegen und bekomm
 
 ![Dialogfenster, um alle Dateien herunterzuladen](images/Download-all-files-dialog.png)
 
-Wenn Sie die **drei Punkte** anklicken, haben Sie zwei Optionen, um die Datei zu speichern: Bei einem **Download** wird eine Zip-Datei auf Ihrem Gerät gespeichert, aus der Sie alle Bilder extrahieren können. Außerdem können Sie die Bilder auch **in Seafile speichern**. Dazu müssen Sie zuvor [eine Seafile-Bibliothek an Ihre Base anbinden](https://seatable.io/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+Wenn Sie die **drei Punkte** anklicken, haben Sie zwei Optionen, um die Datei zu speichern: Bei einem **Download** wird eine Zip-Datei auf Ihrem Gerät gespeichert, aus der Sie alle Bilder extrahieren können. Außerdem können Sie die Bilder auch **in Seafile speichern**. Dazu müssen Sie zuvor [eine Seafile-Bibliothek an Ihre Base anbinden]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ### Bilder löschen
 
@@ -95,4 +95,8 @@ Wählen Sie anschließend das gewünschte **Bild** aus und klicken Sie auf das {
 
 ![Bestätigung der Löschung](images/confirm-delete.jpg)
 
-{{< warning  type="warning" headline="Achtung"  text="Aus einer Bild-Spalte gelöschte Bilder sind weiterhin Teil der Base und somit **nicht** endgültig gelöscht. Lesen Sie hierzu die Artikel [Zugriff auf gelöschte Dateien und Bilder](https://seatable.io/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) und [Wie man Dateien dauerhaft entfernt](https://seatable.io/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  type="warning" headline="Achtung" >}}
+
+Aus einer Bild-Spalte gelöschte Bilder sind weiterhin Teil der Base und somit **nicht** endgültig gelöscht. Lesen Sie hierzu die Artikel [Zugriff auf gelöschte Dateien und Bilder]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) und [Wie man Dateien dauerhaft entfernt]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}

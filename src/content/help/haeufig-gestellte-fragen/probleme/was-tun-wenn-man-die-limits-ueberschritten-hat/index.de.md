@@ -15,7 +15,7 @@ Sie haben nur noch **Lesezugriff** auf Ihre Bases und können keine Daten mehr h
 Um Ihre Bases weiter bearbeiten und Daten hinzufügen zu können, stehen Ihnen grundsätzlich zwei verschiedene Optionen zur Verfügung:
 
 1. **Löschen** Sie einen Teil Ihrer Daten (Bases, Tabellen, Gruppen etc.), um Speicherplatz freizumachen, bis Ihre Limits nicht mehr überschritten werden. Eine **Übersicht** über die derzeit von Ihnen belegten Speicher-Limits finden Sie im Drop-down-Menü auf der Startseite. ![Übersicht über aktuell erreichte Limits](images/show-current-limits.gif)
-2. [Wechseln Sie zu einem Abonnement](https://seatable.io/docs/abo-abrechnung/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen/#aktuelles_abo_anpassen), welches Ihnen höhere Limits gewährt.
+2. [Wechseln Sie zu einem Abonnement]({{< relref "help/teamverwaltung/abonnement/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen" >}}), welches Ihnen höhere Limits gewährt.
 
 {{< warning type="warning" headline="Abonnements" >}}
 

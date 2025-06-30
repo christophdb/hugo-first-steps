@@ -30,7 +30,7 @@ url: '/ru/pomoshch/was-ist-eine-ansicht'
 
 ![Вид таблицы](images/Tabelle.png)
 
-Вы можете использовать другие представления, такие как календарь, галерея или канбан, в виде [плагинов](https://seatable.io/ru/docs/arbeiten-mit-plugins/was-ist-ein-plugin/).
+Вы можете использовать другие представления, такие как календарь, галерея или канбан, в виде [плагинов]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
 
 ## Другие статьи на тему взглядов
 

@@ -43,7 +43,7 @@ Pour mettre en œuvre cette opération de traitement des données, vous avez bes
 
 ![Exemple de tableau pour la gestion des données personnelles des travailleurs](images/example-table-employees-and-personal-data-1.png)
 
-Dans le deuxième tableau, vous saisissez les **tâches ouvertes**, pour lesquelles le collaborateur responsable est saisi dans une autre colonne. En outre, vous créez une nouvelle colonne de type [e-mail](https://seatable.io/fr/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/), dans laquelle les adresses e-mail seront copiées ultérieurement.
+Dans le deuxième tableau, vous saisissez les **tâches ouvertes**, pour lesquelles le collaborateur responsable est saisi dans une autre colonne. En outre, vous créez une nouvelle colonne de type [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}), dans laquelle les adresses e-mail seront copiées ultérieurement.
 
 ![Tableau cible avec colonne de résultats avant l'exécution de l'action de traitement des données](images/table-open-tasks-before-data-processing-operation-1.png)
 

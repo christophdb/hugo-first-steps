@@ -43,7 +43,7 @@ url: '/ru/pomoshch/datenverarbeitung-vergleichen-und-kopieren'
 
 ![Пример таблицы для ведения персональных данных сотрудников](images/example-table-employees-and-personal-data-1.png)
 
-Во второй таблице вводятся **открытые задачи**, для которых в другой колонке вводится соответствующий ответственный сотрудник. Кроме того, создается новый столбец типа [e-mail](https://seatable.io/ru/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/), в который впоследствии будут копироваться адреса электронной почты.
+Во второй таблице вводятся **открытые задачи**, для которых в другой колонке вводится соответствующий ответственный сотрудник. Кроме того, создается новый столбец типа [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}), в который впоследствии будут копироваться адреса электронной почты.
 
 ![Целевая таблица, включающая столбец результатов до выполнения действия по обработке данных](images/table-open-tasks-before-data-processing-operation-1.png)
 

@@ -140,7 +140,7 @@ The no-code database software **SeaTable** already has an [inventory list templa
 3. Read the [base description](https://seatable.io/en/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) and get an overview.
 4. [Delete the sample data](https://seatable.io/en/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) and fill the tables with your own inventory.
 
-If you want to create your own inventory, you can **add or delete any number of columns in the tables** or [start with a completely new base](https://seatable.io/en/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). You can then [share](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) your inventory list with all your team members. That's it. Nothing stands in the way of your inventory.
+If you want to create your own inventory, you can **add or delete any number of columns in the tables** or [start with a completely new base](https://seatable.io/en/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). You can then [share]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) your inventory list with all your team members. That's it. Nothing stands in the way of your inventory.
 
 ## What are the advantages of SeaTable?
 

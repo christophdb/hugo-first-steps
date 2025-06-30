@@ -48,7 +48,7 @@ Eine Lösung, um in diesem Fall die Limits einzuhalten, ist die Auslagerung Ihre
 
 ## Auf Dateien in Seafile zugreifen
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base.
+Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base.
 
 ![Eingebundene Seafile Bibliothek im Dateimanagement der Base](images/library-in-file-management.png)
 

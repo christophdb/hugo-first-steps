@@ -34,7 +34,7 @@ Lors de l'utilisation de la colonne, il est judicieux de garder les entrées **c
 
 {{< warning  headline="Remarque importante"  text="Notez qu'**aucune option de mise en forme** n'est disponible pour les entrées de la colonne de texte régulier." />}}
 
-Il existe dans SeaTable deux autres types de colonnes basées sur le texte pour des applications spécifiques : la [colonne e-mail](https://seatable.io/fr/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/) et la [colonne URL](https://seatable.io/fr/docs/text-und-zahlen/die-url-spalte/).
+Il existe dans SeaTable deux autres types de colonnes basées sur le texte pour des applications spécifiques : la [colonne e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) et la [colonne URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}).
 
 ### Définir la valeur par défaut
 

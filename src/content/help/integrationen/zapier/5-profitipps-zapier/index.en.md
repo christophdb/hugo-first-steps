@@ -12,7 +12,7 @@ Zapier lets you create an interface between SeaTable and any of thousands of oth
 
 ## 1\. access linked table contents with lookup columns
 
-SeaTable allows you to link records across two tables. For more details, see [this help article](https://seatable.io/en/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
+SeaTable allows you to link records across two tables. For more details, see [this help article]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}).
 
 ![Linking in SeaTable](images/zapier-linked-columns.png)
 

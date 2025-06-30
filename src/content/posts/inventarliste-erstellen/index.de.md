@@ -136,7 +136,7 @@ Die No-Code-Datenbank-Software **SeaTable** hält bereits eine [Inventarliste Vo
 3. Lesen Sie die [Base-Beschreibung](https://seatable.io/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) und verschaffen Sie sich einen Überblick.
 4. [Löschen Sie die Beispieldaten](https://seatable.io/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) und füllen Sie die Tabellen mit Ihrem eigenen Inventar.
 
-Möchten Sie Ihre eigenes Inventar erstellen, können Sie **beliebig viele Spalten in den Tabellen hinzufügen oder löschen** oder [mit einer komplett neuen Base starten](https://seatable.io/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). Anschließend können Sie Ihre Inventarliste mit all Ihren Teammitgliedern [teilen](https://seatable.io/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/). Fertig. Ihrer Inventur steht nichts mehr im Weg.
+Möchten Sie Ihre eigenes Inventar erstellen, können Sie **beliebig viele Spalten in den Tabellen hinzufügen oder löschen** oder [mit einer komplett neuen Base starten](https://seatable.io/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). Anschließend können Sie Ihre Inventarliste mit all Ihren Teammitgliedern [teilen]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}). Fertig. Ihrer Inventur steht nichts mehr im Weg.
 
 ## Was sind die Vorteile von SeaTable?
 

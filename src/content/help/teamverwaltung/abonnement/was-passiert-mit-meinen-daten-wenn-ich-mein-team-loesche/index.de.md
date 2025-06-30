@@ -24,4 +24,4 @@ Wenn Sie als Team-Administrator Ihr Team löschen, werden Ihr **Account**, Ihr *
 
 Insbesondere unser Abrechnungssystem stellt eine Besonderheit dar, weil sobald eine Zahlung von Ihnen erfasst wurde, wir gar nicht alle Daten von Ihnen löschen dürfen. Grundsätzlich gilt aber, dass wir Ihrem Wunsch nach Datenlöschung entsprechen und versuchen so viel, wie möglich Ihrer Daten entfernen. Mehr Details zu den von uns verwendeten System finden Sie in unserer [Datenschutzbestimmung](https://seatable.io/datenschutz/).
 
-Überlegen Sie sich **vor** der Löschung eines Teams gut, ob Sie die in Ihrem Team befindlichen Daten noch weiter benötigen. Falls Sie unsicher sind, nutzen Sie lieber die Funktion [Abo kündigen](https://seatable.io/docs/abo-abrechnung/das-abo-kuendigen/) und zur kostenlosen Free-Version von SeaTable Cloud zurückkehren.
+Überlegen Sie sich **vor** der Löschung eines Teams gut, ob Sie die in Ihrem Team befindlichen Daten noch weiter benötigen. Falls Sie unsicher sind, nutzen Sie lieber die Funktion [Abo kündigen]({{< relref "help/teamverwaltung/abonnement/das-abo-kuendigen" >}}) und zur kostenlosen Free-Version von SeaTable Cloud zurückkehren.

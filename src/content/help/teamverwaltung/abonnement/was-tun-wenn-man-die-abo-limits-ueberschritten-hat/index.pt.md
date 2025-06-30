@@ -21,7 +21,7 @@ Pode encontrar uma visão geral de todos os pacotes disponíveis e dos limites, 
 
 ## Mudar para um pacote de subscrição mais alargado
 
-Para poder voltar a trabalhar plenamente com os seus dados, é necessário [actualizar](https://seatable.io/pt/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) a sua subscrição para um [pacote de subscrição mais abrangente](https://seatable.io/pt/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Para poder voltar a trabalhar plenamente com os seus dados, é necessário [actualizar]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) a sua subscrição para um [pacote de subscrição mais abrangente]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Eliminar parte dos seus dados
 

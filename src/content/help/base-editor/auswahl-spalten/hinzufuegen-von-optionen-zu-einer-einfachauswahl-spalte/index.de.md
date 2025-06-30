@@ -39,7 +39,7 @@ Einer Einfachauswahl-Spalte können Sie diverse **Optionen** hinzufügen, aus de
 
 Neben der **manuellen Eingabe** können Sie Optionen auch bequem aus einer bestehenden Einfachauswahl-Spalte exportieren und in eine andere Spalte dieses Typs **importieren**. Das ist sehr nützlich, wenn Sie immer wieder **die gleichen Optionen** über verschiedene Spalten hinweg verwenden möchten.
 
-Mehr dazu erfahren Sie im Artikel [Optionen in Einfach- oder Mehrfach-Auswahlspalten exportieren und importieren](https://seatable.io/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/).
+Mehr dazu erfahren Sie im Artikel [Optionen in Einfach- oder Mehrfach-Auswahlspalten exportieren und importieren]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).
 
 ## Farben der Auswahl-Optionen
 
@@ -47,11 +47,11 @@ Um die Datenansicht innerhalb einer Tabelle übersichtlicher zu gestalten, ordne
 
 ![Farben der Auswahl-Optionen](images/Farben-der-Optionen-einer-Einfachauswahlspalte-anpassen.png)
 
-Mit einem [Enterprise-Abo](https://seatable.io/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title) haben Sie zudem die Möglichkeit, [eigene Farben](https://seatable.io/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) für Ihre Auswahl-Optionen anzulegen.
+Mit einem [Enterprise-Abo]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}) haben Sie zudem die Möglichkeit, [eigene Farben]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) für Ihre Auswahl-Optionen anzulegen.
 
 ## Weitere hilfreiche Artikel zum Thema Einfachauswahl-Spalten
 
 - [Anlegen einer Einfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Ändern der Reihenfolge von Einfachauswahl-Optionen](https://seatable.io/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
-- [Eine Kaskadierung für eine Einfachauswahl-Spalte definieren](https://seatable.io/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
-- [Einfachauswahl-Optionen exportieren und importieren](https://seatable.io/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)
+- [Ändern der Reihenfolge von Einfachauswahl-Optionen]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}})
+- [Eine Kaskadierung für eine Einfachauswahl-Spalte definieren]({{< relref "help/base-editor/auswahl-spalten/kaskadierung-einer-einfachauswahl" >}})
+- [Einfachauswahl-Optionen exportieren und importieren]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}})

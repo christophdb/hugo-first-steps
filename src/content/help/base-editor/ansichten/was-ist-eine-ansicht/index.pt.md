@@ -30,7 +30,7 @@ A **vista de tabela** é o formato de exibição padrão numa base SeaTable. É 
 
 ![Vista de tabela](images/Tabelle.png)
 
-Pode utilizar outras representações tais como calendário, galeria ou kanban sob a forma de [plug-ins](https://seatable.io/pt/docs/arbeiten-mit-plugins/was-ist-ein-plugin/).
+Pode utilizar outras representações tais como calendário, galeria ou kanban sob a forma de [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
 
 ## Mais artigos sobre o tema dos pontos de vista
 

@@ -18,7 +18,7 @@ Einen detaillierten Überblick über alle verfügbaren **Abo-Pakete** und die Fu
 
 ## Wie kann ich meine Daten wieder bearbeiten?
 
-Um Ihre Daten weiter vollumfänglich bearbeiten zu können, müssen Sie zu einem **Abo-Paket wechseln**, das Ihnen **umfangreichere Limits** gewährt als Ihr aktuelles Abo. Die hierfür notwendigen Schritte finden Sie detailliert in diesem [Hilfeartikel zum Upgrades Ihres Accounts](https://seatable.io/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Um Ihre Daten weiter vollumfänglich bearbeiten zu können, müssen Sie zu einem **Abo-Paket wechseln**, das Ihnen **umfangreichere Limits** gewährt als Ihr aktuelles Abo. Die hierfür notwendigen Schritte finden Sie detailliert in diesem [Hilfeartikel zum Upgrades Ihres Accounts]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 Alternativ können Sie auch einen Teil Ihrer Daten löschen, bis Sie wieder Ihre aktuellen Limits unterschreiten.
 

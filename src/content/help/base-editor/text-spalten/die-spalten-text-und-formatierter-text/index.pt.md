@@ -34,7 +34,7 @@ Ao utilizar a coluna, faz sentido manter as entradas **curtas**, uma vez que ape
 
 {{< warning  headline="Nota importante"  text="Tenha em atenção que **não** estão disponíveis **opções de formatação** para as entradas na coluna de texto normal." />}}
 
-Existem dois outros tipos de colunas baseadas em texto no SeaTable para casos de uso especial: a [coluna de correio electrónico](https://seatable.io/pt/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/) e a [coluna URL](https://seatable.io/pt/docs/text-und-zahlen/die-url-spalte/).
+Existem dois outros tipos de colunas baseadas em texto no SeaTable para casos de uso especial: a [coluna de correio electrónico]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) e a [coluna URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}).
 
 ### Definir valor por defeito
 

@@ -20,7 +20,7 @@ Heute Morgen haben wir SeaTable Cloud auf Version 5.1 aktualisiert. Wir empfehle
 
 Die [Einstellungen der App](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) haben unsere Entwickler überarbeitet und übersichtlicher gemacht. Dabei ist unter anderem ein separates Menü für das Branding der App hinzugekommen, in dem sich der Modus, das Farbschema und das App-Icon auswählen lassen. Der ‘Seite hinzufügen’-Assistent zeigt sich ebenfalls in einem neuen, zweiseitigen Layout.
 
-Stichwort Seiten: Alle Seitentypen bieten mit SeaTable 5.1 eine Vorschaufunktion für Bilddateien in [Datei-Spalten](https://seatable.io/docs/dateien-und-bilder/die-datei-spalte/). (Solche Thumbnails boten bisher nur [Bild-Spalten](https://seatable.io/docs/dateien-und-bilder/die-bild-spalte/).) PDF-, Office- und Textdateien werden weiterhin mit einem Datei-Icon dargestellt.
+Stichwort Seiten: Alle Seitentypen bieten mit SeaTable 5.1 eine Vorschaufunktion für Bilddateien in [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Solche Thumbnails boten bisher nur [Bild-Spalten]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}).) PDF-, Office- und Textdateien werden weiterhin mit einem Datei-Icon dargestellt.
 
 Mit Blick auf die einzelnen Seitentypen stechen die [individuelle Seite](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) und die [Seite für einzelne Datensätze](https://seatable.io/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) mit den meisten Verbesserungen heraus. Aber auch andere Seitentypen können sich über inkrementelle Verbesserungen freuen.
 
@@ -58,7 +58,7 @@ In der Ergebnistabelle können Sie ab sofort die **Spaltenbreite** verändern un
 
 Nicht ganz so neu wie der App Builder ist die Big-Data-Funktionalität. Basierend auf Big-Data-Projekterfahrungen und dem wertvollen Feedback unserer Nutzer haben wir in SeaTable 5.1 Verbesserungen rund um die Benutzerfreundlichkeit, die Integration und das Monitoring vorgenommen.
 
-Die wohl auffälligste Neuerung sind **die erweiterten Spalten-Kontextmenüs** in [Big-Data-Ansichten](https://seatable.io/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). Diese bieten nun einen ähnlichen Funktionsumfang wie die Kontextmenüs in normalen Ansichten. Nur Funktionen, die für Big Data irrelevant sind, stehen nicht zur Verfügung.
+Die wohl auffälligste Neuerung sind **die erweiterten Spalten-Kontextmenüs** in [Big-Data-Ansichten]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}). Diese bieten nun einen ähnlichen Funktionsumfang wie die Kontextmenüs in normalen Ansichten. Nur Funktionen, die für Big Data irrelevant sind, stehen nicht zur Verfügung.
 
 Fast ebenso auffällig ist der **gelbe Warnhinweis**, der in normalen Ansichten in Verknüpfungsspalten auftaucht, wenn die verknüpfte Tabelle Zeilen im Big-Data-Speicher enthält. Der Hinweis macht deutlich, dass verknüpfte Einträge im Big-Data-Speicher nicht in der Zelle der Verknüpfungsspalte zu sehen sind. Möchten Sie diese anzeigen, dann öffnet ein Klick auf das Icon die Liste der verknüpften Einträge.
 

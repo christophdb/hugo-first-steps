@@ -30,7 +30,7 @@ La **vista de tabla** es el formato de visualización por defecto en una Base Se
 
 ![Vista de la tabla](images/Tabelle.png)
 
-Puede utilizar otras representaciones como calendario, galería o kanban en forma de [plug-ins](https://seatable.io/es/docs/arbeiten-mit-plugins/was-ist-ein-plugin/).
+Puede utilizar otras representaciones como calendario, galería o kanban en forma de [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}).
 
 ## Más artículos sobre el tema de las vistas
 

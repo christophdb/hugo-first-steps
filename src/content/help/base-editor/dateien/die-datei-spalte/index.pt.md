@@ -35,15 +35,19 @@ Pode **carregar ficheiros** na coluna de ficheiros clicando numa **célula** com
 3. Abre-se uma nova janela. Aqui pode carregar ficheiros a partir do seu dispositivo por **arrastar e largar** ou **clicar**.
 4. Seleccione vários ficheiros ao mesmo tempo, seleccionando todos os documentos que deseja carregar e carregando-os em conjunto.
 
-{{< warning  headline="Ligado à gestão de ficheiros"  text="Os ficheiros que carrega localmente para uma coluna de ficheiros são guardados numa **pasta do sistema** a que pode aceder através da [gestão de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) da sua Base." />}}
+{{< warning  headline="Ligado à gestão de ficheiros" >}}
+
+Os ficheiros que carrega localmente para uma coluna de ficheiros são guardados numa **pasta do sistema** a que pode aceder através da [gestão de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) da sua Base.
+
+{{< /warning >}}
 
 ## Adicionar ficheiros existentes
 
 Para além dos novos ficheiros que carrega localmente para a célula de uma coluna de ficheiros, também pode adicionar ficheiros existentes, que podem ser provenientes de **três fontes**:
 
-- **Últimos carreg**amentos: Aqui encontrará os ficheiros carregados mais recentemente que estão guardados no [gestor de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base.
-- **As minhas pastas**: Aqui tem acesso aos ficheiros das suas próprias pastas, que pode criar e preencher no [gestor de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
-- **Seafile**: Aqui pode selecionar ficheiros das [bibliotecas Seafile](https://seatable.io/pt/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) que estão ligadas à sua base.
+- **Últimos carreg**amentos: Aqui encontrará os ficheiros carregados mais recentemente que estão guardados no [gestor de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base.
+- **As minhas pastas**: Aqui tem acesso aos ficheiros das suas próprias pastas, que pode criar e preencher no [gestor de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
+- **Seafile**: Aqui pode selecionar ficheiros das [bibliotecas Seafile]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) que estão ligadas à sua base.
 
 ![Adicionar ficheiros existentes a uma coluna de ficheiros](images/Add-existing-files-to-a-file-column.png)
 
@@ -73,7 +77,7 @@ Pode então especificar **o seu próprio nome de ficheiro** e será apresentado 
 
 ![Janela de diálogo para descarregar todos os ficheiros](images/Download-all-files-dialog.png)
 
-Se clicar nos **três pontos**, tem duas opções para guardar o ficheiro: Ao **descarregar**, é guardado um ficheiro zip no seu dispositivo, do qual pode extrair todos os ficheiros. Também pode guardar os ficheiros **no Seafile**. Para o fazer, tem de [ligar primeiro uma biblioteca Seafile à sua Base](https://seatable.io/pt/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+Se clicar nos **três pontos**, tem duas opções para guardar o ficheiro: Ao **descarregar**, é guardado um ficheiro zip no seu dispositivo, do qual pode extrair todos os ficheiros. Também pode guardar os ficheiros **no Seafile**. Para o fazer, tem de [ligar primeiro uma biblioteca Seafile à sua Base]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ## Mudar o nome dos ficheiros
 
@@ -96,7 +100,11 @@ Se clicar nos **três pontos**, tem duas opções para guardar o ficheiro: Ao **
     - Seleccionar a opção **Seleccionar tudo** ou colocar **marcas** nas caixas em frente dos ficheiros.
     - Clique em **Eliminar.**
 
-{{< warning  headline="Nota"  text="Os ficheiros **não** são apagados permanentemente desta forma. Só quando os ficheiros são apagados no [gestor de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base é que são permanentemente [removidos](https://seatable.io/pt/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  headline="Nota" >}}
+
+Os ficheiros **não** são apagados permanentemente desta forma. Só quando os ficheiros são apagados no [gestor de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base é que são permanentemente [removidos]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}
 
 ## Perguntas mais frequentes
 

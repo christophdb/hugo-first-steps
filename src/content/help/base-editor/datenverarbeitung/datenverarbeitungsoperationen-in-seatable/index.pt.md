@@ -12,7 +12,7 @@ A função de processamento de dados é uma característica útil do SeaTable qu
 
 ## Sentido por detrás das operações de processamento de dados
 
-O SeaTable pensa frequentemente em filas. Por exemplo, uma [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) só pode relacionar os valores numa fila entre si e as [ligações entre tabelas](https://seatable.io/pt/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) só são feitas de fila em fila.
+O SeaTable pensa frequentemente em filas. Por exemplo, uma [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) só pode relacionar os valores numa fila entre si e as [ligações entre tabelas]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) só são feitas de fila em fila.
 
 O processamento de dados, em contraste, é uma função para realizar operações numa coluna através de várias filas. Basicamente, é feita uma distinção entre dois tipos diferentes de operações de processamento de dados:
 
@@ -47,7 +47,7 @@ Actualmente, as operações de processamento de dados podem ser executadas [manu
 
 Cada vez que a operação de processamento de dados é executada, os **resultados** são escritos na **coluna de resultados** independentemente. Se não quiser sobregravar quaisquer dados, deve [criar]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para os resultados.
 
-Ao contrário das colunas **de fórmulas**, que monitorizam permanentemente as colunas envolvidas, **as colunas de resultados** _não_ se actualizam. As modificações nos valores da coluna de origem _não_ afetam os valores da coluna de resultado sem [automação](https://seatable.io/pt/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ou reexecução. Portanto, também é possível sobregravar manualmente os valores calculados ou relacionados.
+Ao contrário das colunas **de fórmulas**, que monitorizam permanentemente as colunas envolvidas, **as colunas de resultados** _não_ se actualizam. As modificações nos valores da coluna de origem _não_ afetam os valores da coluna de resultado sem [automação]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}) ou reexecução. Portanto, também é possível sobregravar manualmente os valores calculados ou relacionados.
 
 ## Protecção contra alterações
 
