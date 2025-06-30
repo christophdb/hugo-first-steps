@@ -5,7 +5,11 @@ lastmod: '2025-01-17'
 coverImage: 'Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg'
 author: 'rdb'
 url: '/redaktionsplan-contentplan'
-color: '#eeeeee'
+color: '#8ddb8c'
+categories:
+    - 'best-practice'
+tags:
+    - 'Content Planning'
 seo:
     title:
     description:
