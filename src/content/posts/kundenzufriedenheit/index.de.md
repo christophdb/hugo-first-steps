@@ -92,7 +92,7 @@ Es gibt kulturelle Unterschiede bei der Bewertung. Dies wird wichtig, wenn Sie i
 
 ### Passendes Tool zur Erhebung der Kundenzufriedenheit
 
-Egal für welche Methode Sie sich entscheiden, sorgen Sie dafür, dass Sie ein Tool verwenden, mit dem Sie alle Ihre Feedbacks speichern und verwalten können. SeaTable kann Ihnen z. B. dabei helfen, das gewünschte Kundenfeedback einzuholen. Erstellen Sie einfach Ihre Wunschumfrage mit unserem Webformular. In [diesem Artikel](https://seatable.io/kundenfeedback-mit-seatable/) wird Ihnen der gesamte Prozess der Erstellung eines solchen Formulars und die anschließende Auswertung noch einmal genauer erklärt. Wenn Sie direkt loslegen wollen, schauen Sie dort vorbei.
+Egal für welche Methode Sie sich entscheiden, sorgen Sie dafür, dass Sie ein Tool verwenden, mit dem Sie alle Ihre Feedbacks speichern und verwalten können. SeaTable kann Ihnen z. B. dabei helfen, das gewünschte Kundenfeedback einzuholen. Erstellen Sie einfach Ihre Wunschumfrage mit unserem Webformular. In [diesem Artikel]({{< relref "templates/marketing/customer-feedback" >}}) wird Ihnen der gesamte Prozess der Erstellung eines solchen Formulars und die anschließende Auswertung noch einmal genauer erklärt. Wenn Sie direkt loslegen wollen, schauen Sie dort vorbei.
 
 ![Kundenfeedback Erstellung Webformular](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 

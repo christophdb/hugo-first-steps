@@ -12,7 +12,7 @@ Mithilfe einer **Schaltfläche** können Sie PDF-Dokumente in Datei-Spalten spei
 
 ## PDF-Dokumente per Schaltfläche in einer Spalte speichern
 
-Schaltflächen ermöglichen es Ihnen, PDF-Dokumente in den [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) Ihrer Tabellen zu speichern. Die Aktion steht Ihnen beim Erstellen einer Schaltfläche zur Verfügung, sobald Sie in der entsprechenden Tabelle das [Seitendesign-Plugin](https://seatable.io/?post_type=docs&p=19223) eingerichtet haben.
+Schaltflächen ermöglichen es Ihnen, PDF-Dokumente in den [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) Ihrer Tabellen zu speichern. Die Aktion steht Ihnen beim Erstellen einer Schaltfläche zur Verfügung, sobald Sie in der entsprechenden Tabelle das [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) eingerichtet haben.
 
 Im ersten Schritt benennen Sie die **Spalte** und legen die **Beschriftung** und **Farbe** des Buttons fest, den Sie Ihren Zeilen hinzufügen möchten.
 
@@ -22,7 +22,7 @@ Als Aktion legen Sie im Anschluss **"PDF-Datei in Spalte speichern"** fest.
 
 ![Auswahl der Aktion: PDF-Datei in Spalte speichern](images/create-pdf-design-and-save-to-column.png)
 
-Im Anschluss wählen Sie eine **Seite** aus dem Seitendesign-Plugin aus, die als PDF-Datei gespeichert werden soll. Sie können dabei aus bereits bestehenden Seiten wählen oder zunächst noch eine neue Seite [hinzufügen](https://seatable.io/?post_type=docs&p=19223).
+Im Anschluss wählen Sie eine **Seite** aus dem Seitendesign-Plugin aus, die als PDF-Datei gespeichert werden soll. Sie können dabei aus bereits bestehenden Seiten wählen oder zunächst noch eine neue Seite [hinzufügen]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}).
 
 ![Auswahl der Seite aus dem Seitendesign-Plugin, die in der Spalte als PDF gespeichert werden soll](images/select-file-to-create-PDF-with.png)
 

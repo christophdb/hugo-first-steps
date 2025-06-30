@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/es/ayuda/anleitung-zum-organigramm-plugin'
 ---
 
-Puede utilizar el complemento de organigrama para mostrar **jerarquías** entre los registros de datos de una tabla. Esto es útil, por ejemplo, para visualizar los cargos en una empresa o las [tareas superordinadas y subordinadas en un proyecto](https://seatable.io/es/projektstrukturplan-vorlage/).
+Puede utilizar el complemento de organigrama para mostrar **jerarquías** entre los registros de datos de una tabla. Esto es útil, por ejemplo, para visualizar los cargos en una empresa o las [tareas superordinadas y subordinadas en un proyecto]({{< relref "templates/projects/work-breakdown-structure" >}}).
 
 Puede encontrar información sobre cómo activar el plugin en una base [aquí]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 

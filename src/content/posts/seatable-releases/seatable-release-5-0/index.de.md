@@ -40,7 +40,7 @@ Ein weiteres Highlight von SeaTable 5.0 sind die neuen [Plugins]({{< relref "hel
 
 ### Organigramm
 
-Mithilfe des Organigramm-Plugins lassen sich Hierarchien zwischen den Datensätzen in einer Tabelle darstellen, z. B. Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt](https://seatable.io/projektstrukturplan-vorlage/). Um die Abhängigkeiten der Datensätze zu visualisieren, brauchen Sie eine [Link-Spalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), die auf ein und dieselbe Tabelle referiert. Der Eintrag, mit dem Sie eine andere Zeile derselben Tabelle verlinken, wird als übergeordneter Datensatz dargestellt.
+Mithilfe des Organigramm-Plugins lassen sich Hierarchien zwischen den Datensätzen in einer Tabelle darstellen, z. B. Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt]({{< relref "templates/projects/work-breakdown-structure" >}}). Um die Abhängigkeiten der Datensätze zu visualisieren, brauchen Sie eine [Link-Spalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), die auf ein und dieselbe Tabelle referiert. Der Eintrag, mit dem Sie eine andere Zeile derselben Tabelle verlinken, wird als übergeordneter Datensatz dargestellt.
 
 ![Organigramm-Plugin](Organigramm-Plugin.png)
 

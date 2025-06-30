@@ -33,7 +33,7 @@ The tasks of product management include all stages that a product goes through. 
 - **Concept**: strategy development for market, price, distribution, communication; prototype, cost overview
 - **Implementation**: technical implementation, strategy implementation, product launch
 
-In addition, there are some organisational tasks that a product manager takes on. He acts as an **interface** between [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [sales](https://seatable.io/en/vertrieb/) and product development as well as production. For the individual steps in the product development process, the product manager also coordinates the **[Project management](https://seatable.io/en/projektmanagement/)**. Product management is therefore also very busy with strategy formation and analyses, which occur in addition to the conception and development of the product itself.
+In addition, there are some organisational tasks that a product manager takes on. He acts as an **interface** between [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [sales](https://seatable.io/en/vertrieb/) and product development as well as production. For the individual steps in the product development process, the product manager also coordinates the **[Project management]({{< relref "pages/industry-solutions/project-management" >}})**. Product management is therefore also very busy with strategy formation and analyses, which occur in addition to the conception and development of the product itself.
 
 ### Challenges in product management
 

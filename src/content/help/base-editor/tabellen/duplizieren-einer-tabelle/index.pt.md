@@ -38,4 +38,4 @@ Esta opção é útil se pretender copiar pelo menos algumas das linhas da tabel
 
 ![Esvaziar tabelas duplicadas](images/Leere-duplizierte-Tabellen.png)
 
-Essa opção é útil se o usuário deseja apenas adotar a **estrutura** da tabela original, mas deseja preenchê-la com outras entradas. Isso pode ocorrer, por exemplo, se for criada uma tabela por ano para o [planejamento do orçamento](https://seatable.io/pt/budgetplanung-vorlage/).
+Essa opção é útil se o usuário deseja apenas adotar a **estrutura** da tabela original, mas deseja preenchê-la com outras entradas. Isso pode ocorrer, por exemplo, se for criada uma tabela por ano para o [planejamento do orçamento]({{< relref "templates/finance/budget-plan" >}}).

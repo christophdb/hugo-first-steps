@@ -38,4 +38,4 @@ Cette option est utile si vous souhaitez reprendre au moins une partie des ligne
 
 ![Tableaux vides dupliqués](images/Leere-duplizierte-Tabellen.png)
 
-Cette option est utile si vous ne reprenez que la **structure** du tableau initial, mais que vous souhaitez le remplir avec d'autres entrées. Cela peut par exemple se produire si vous créez un tableau par année pour votre [planification budgétaire](https://seatable.io/fr/budgetplanung-vorlage/).
+Cette option est utile si vous ne reprenez que la **structure** du tableau initial, mais que vous souhaitez le remplir avec d'autres entrées. Cela peut par exemple se produire si vous créez un tableau par année pour votre [planification budgétaire]({{< relref "templates/finance/budget-plan" >}}).

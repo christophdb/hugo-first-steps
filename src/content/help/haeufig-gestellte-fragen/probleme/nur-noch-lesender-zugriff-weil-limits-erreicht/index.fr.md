@@ -12,7 +12,7 @@ Vous n'avez plus qu'un accès en lecture à vos données et vous ne pouvez plus 
 
 {{< warning headline="Remarque" >}}
 
-Vous trouverez un aperçu détaillé de toutes les **formules d'abonnement** disponibles et des fonctions, possibilités et limites dont vous disposez avec celles-ci sur notre [page de prix](https://seatable.io/fr/prix/).
+Vous trouverez un aperçu détaillé de toutes les **formules d'abonnement** disponibles et des fonctions, possibilités et limites dont vous disposez avec celles-ci sur notre [page de prix]({{< relref "pages/prices" >}}).
 
 {{< /warning >}}
 

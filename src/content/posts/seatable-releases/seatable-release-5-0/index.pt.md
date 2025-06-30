@@ -40,7 +40,7 @@ Outro destaque do SeaTable 5.0 são os novos [plugins]({{< relref "help/base-edi
 
 ### Organigrama
 
-O plugin do organigrama pode ser utilizado para apresentar hierarquias entre os registos de dados de uma tabela, por exemplo, cargos numa empresa ou [tarefas superiores e subordinadas num projeto](https://seatable.io/pt/projektstrukturplan-vorlage/). Para visualizar as dependências dos registos de dados, é necessária uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) que se refira a uma mesma tabela. A entrada à qual se liga outra linha na mesma tabela é exibida como um registo de dados superordenado.
+O plugin do organigrama pode ser utilizado para apresentar hierarquias entre os registos de dados de uma tabela, por exemplo, cargos numa empresa ou [tarefas superiores e subordinadas num projeto]({{< relref "templates/projects/work-breakdown-structure" >}}). Para visualizar as dependências dos registos de dados, é necessária uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) que se refira a uma mesma tabela. A entrada à qual se liga outra linha na mesma tabela é exibida como um registo de dados superordenado.
 
 ![Plugin de organograma](Organigramm-Plugin.png)
 

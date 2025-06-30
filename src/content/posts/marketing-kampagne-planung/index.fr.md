@@ -46,7 +46,7 @@ Il n'existe pratiquement pas d'idées qui n'aient pas déjà été pensées. En 
 
 ### 4\. définir des responsabilités et des délais clairs
 
-Une campagne de marketing et sa planification fonctionnent mieux lorsque chacun sait ce qu'il doit faire et quand. Une fois que [les objectifs du projet]({{< relref "templates/projects/project-plan" >}}), le groupe cible et l'analyse du marché ou de la concurrence sont définis, il s'agit de constituer une équipe, de [répartir les responsabilités et les tâches](https://seatable.io/fr/projektstrukturplan-vorlage/), de fixer des délais et des étapes et - très important - de répartir le [budget]({{< relref "templates/finance/budget-book" >}}).
+Une campagne de marketing et sa planification fonctionnent mieux lorsque chacun sait ce qu'il doit faire et quand. Une fois que [les objectifs du projet]({{< relref "templates/projects/project-plan" >}}), le groupe cible et l'analyse du marché ou de la concurrence sont définis, il s'agit de constituer une équipe, de [répartir les responsabilités et les tâches]({{< relref "templates/projects/work-breakdown-structure" >}}), de fixer des délais et des étapes et - très important - de répartir le [budget]({{< relref "templates/finance/budget-book" >}}).
 
 ![L'équipe marketing discute de la procédure de planification des campagnes.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 

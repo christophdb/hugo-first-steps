@@ -47,7 +47,7 @@ Es gibt so gut wie keine Ideen, die nicht schon einmal gedacht worden sind. Soll
 
 ### 4\. Klare Zuständigkeiten und Timelines festlegen
 
-Eine Marketingkampagne und ihre Planung funktionieren dann am besten, wenn jeder weiß, was er wann zu tun hat. Stehen [Projektziele]({{< relref "templates/projects/project-plan" >}}), Zielgruppe und Markt- bzw. Wettbewerbsanalyse, geht es darum, ein Team zusammenzustellen, [Zuständigkeiten und Aufgaben zu verteilen](https://seatable.io/projektstrukturplan-vorlage/), Deadlines und Meilensteine festzulegen und – ganz wichtig – das [Budget]({{< relref "templates/finance/budget-book" >}}) einzuteilen.
+Eine Marketingkampagne und ihre Planung funktionieren dann am besten, wenn jeder weiß, was er wann zu tun hat. Stehen [Projektziele]({{< relref "templates/projects/project-plan" >}}), Zielgruppe und Markt- bzw. Wettbewerbsanalyse, geht es darum, ein Team zusammenzustellen, [Zuständigkeiten und Aufgaben zu verteilen]({{< relref "templates/projects/work-breakdown-structure" >}}), Deadlines und Meilensteine festzulegen und – ganz wichtig – das [Budget]({{< relref "templates/finance/budget-book" >}}) einzuteilen.
 
 ![Marketing Team bespricht Vorgehensweise der Kampagnen Planung.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 

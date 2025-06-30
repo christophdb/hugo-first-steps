@@ -148,4 +148,4 @@ En même temps, vous pouvez établir des habitudes positives : Par exemple, il e
 
 Comme vous pouvez le constater : Surveiller vos dépenses et votre train de vie n'a que des avantages. Avec un livre de comptes, vous restez toujours maître de la situation et vous savez exactement où est passé votre argent. SeaTable s'adapte à vos besoins. Si vous utilisiez Excel pour votre livre de comptes, vous pouvez facilement importer vos tableaux dans SeaTable. Vous pouvez [vous inscrire gratuitement]({{< relref "pages/registration" >}}) et essayer SeaTable !
 
-Si vous souhaitez utiliser notre modèle, jetez un coup d'œil à notre section Template [Finance](https://seatable.io/fr/modeles/finanzen/). Il existe encore bien d'autres cas d'application où SeaTable peut vous faciliter la vie au quotidien.
+Si vous souhaitez utiliser notre modèle, jetez un coup d'œil à notre section Template [Finance]({{< relref "templates" >}}finanzen/). Il existe encore bien d'autres cas d'application où SeaTable peut vous faciliter la vie au quotidien.

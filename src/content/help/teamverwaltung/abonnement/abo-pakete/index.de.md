@@ -28,8 +28,8 @@ Mit SeaTable Enterprise erhalten Sie für 14€ pro Monat pro Nutzer unlimitiert
 
 ### Dedicated Cloud
 
-Mit Dedicated Cloud erhalten Sie Ihr ganz persönliches Angebot: Wenn Sie Ihre Daten nicht in einer öffentlichen Cloud speichern wollen, können Sie SeaTable ab 100 Benutzern über Ihren eigenen Server, den wir betreuen und warten, nutzen. Damit erhalten Sie die absolute Kontrolle über Ihren Server im Hinblick auf URL, Logo, Farbgestaltung und Vorlagen. In der Dedicated Cloud erhalten Sie zusätzlich ein Enterprise Admin Panel, Single Sign-On per SAML2 und OAuth sowie optionalen Corporate Support. Sie [erfahren hier mehr](https://seatable.io/dedicated/) dazu.
+Mit Dedicated Cloud erhalten Sie Ihr ganz persönliches Angebot: Wenn Sie Ihre Daten nicht in einer öffentlichen Cloud speichern wollen, können Sie SeaTable ab 100 Benutzern über Ihren eigenen Server, den wir betreuen und warten, nutzen. Damit erhalten Sie die absolute Kontrolle über Ihren Server im Hinblick auf URL, Logo, Farbgestaltung und Vorlagen. In der Dedicated Cloud erhalten Sie zusätzlich ein Enterprise Admin Panel, Single Sign-On per SAML2 und OAuth sowie optionalen Corporate Support. Sie [erfahren hier mehr]({{< relref "pages/product/seatable-dedicated" >}}) dazu.
 
 ### SeaTable Enterprise Lizenz
 
-Selbstverständlich können Sie von uns eine SeaTable Enterprise Lizenz erwerben. Mit dieser können Sie ganz einfach Ihren eigenen SeaTable Server aufbauen und betreiben. Mehr Informationen zur SeaTable Lizenz [finden Sie hier](https://seatable.io/on-premises/).
+Selbstverständlich können Sie von uns eine SeaTable Enterprise Lizenz erwerben. Mit dieser können Sie ganz einfach Ihren eigenen SeaTable Server aufbauen und betreiben. Mehr Informationen zur SeaTable Lizenz [finden Sie hier]({{< relref "pages/product/seatable-server" >}}).

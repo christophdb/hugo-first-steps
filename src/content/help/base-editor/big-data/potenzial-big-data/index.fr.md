@@ -30,4 +30,4 @@ Comme nous l'avons déjà mentionné, la mémoire Big Data doit être activée d
 
 Le stockage de données volumineuses est une fonction unique que vous ne trouverez pas dans d'autres solutions sans code ou à code réduit. Alors que d'autres plates-formes et fournisseurs ont des plafonds et des limites sévères pour le nombre maximal de lignes, SeaTable ne vous limite pas dans votre travail.
 
-Grâce à la fonction Big Data, il est possible de mettre en œuvre des processus et des applications qui ne seraient pas réalisables avec [Airtable](https://seatable.io/fr/alternative-airtable/), par exemple. Faites-en l'expérience. Vous serez enthousiasmé par le potentiel et les possibilités que vous offre le stockage de données volumineuses.
+Grâce à la fonction Big Data, il est possible de mettre en œuvre des processus et des applications qui ne seraient pas réalisables avec [Airtable]({{< relref "pages/airtable-alternative" >}}), par exemple. Faites-en l'expérience. Vous serez enthousiasmé par le potentiel et les possibilités que vous offre le stockage de données volumineuses.

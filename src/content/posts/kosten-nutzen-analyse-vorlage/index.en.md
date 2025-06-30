@@ -19,7 +19,7 @@ With the right template, you can quickly create such an analysis to check and im
 
 A cost-benefit analysis, or CBA for short, is a **profitability analysis**. It compares the relationship between costs and benefits in order to create an **evaluation basis for business decisions**. A CBA is used to examine the **advantages and disadvantages of investments** and assess financial risks, evaluate measures and analyze the sustainability of investments. In order to obtain an optimal overview, it is advisable to carry out the cost-benefit analysis using a template.
 
-The advantage here is that you can bundle all the **factors and effects associated with an investment** in just one database, so you don't lose track. Especially with [large projects](https://seatable.io/en/projektstrukturplan-vorlage/), there are a large number of objective and subjective criteria that affect the CBA in very different ways. A template helps you to keep track of all these aspects.
+The advantage here is that you can bundle all the **factors and effects associated with an investment** in just one database, so you don't lose track. Especially with [large projects]({{< relref "templates/projects/work-breakdown-structure" >}}), there are a large number of objective and subjective criteria that affect the CBA in very different ways. A template helps you to keep track of all these aspects.
 
 ![Printed template for a cost benefit analysis.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 

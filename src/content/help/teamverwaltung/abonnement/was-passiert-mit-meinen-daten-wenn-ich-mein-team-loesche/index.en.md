@@ -23,6 +23,6 @@ What consequences the deletion of a team has for the associated data, you will l
 
 If you delete your team as a team administrator, your **account**, your **team** and **all** **data** contained therein will be **permanently** and **permanently deleted**. As far as possible, **all** data stored about you will also be **deleted** from our other **systems**. This process **CANNOT** be undone and the deleted data **CANNOT** be recovered.
 
-In particular, our billing system is special because once a payment has been recorded by you, we may not delete all of your data at all. In principle, however, we will comply with your request for data deletion and try to remove as much of your data as possible. More details about the system we use can be found in our [privacy policy](https://seatable.io/en/datenschutz/).
+In particular, our billing system is special because once a payment has been recorded by you, we may not delete all of your data at all. In principle, however, we will comply with your request for data deletion and try to remove as much of your data as possible. More details about the system we use can be found in our [privacy policy]({{< relref "pages/legal/data-privacy" >}}).
 
 **Before** deleting a team, think carefully whether you still need the data located in your team. If you are unsure, it is better to use the [Cancel Subscription]({{< relref "help/teamverwaltung/abonnement/das-abo-kuendigen" >}}) feature and return to the free version of SeaTable Cloud.

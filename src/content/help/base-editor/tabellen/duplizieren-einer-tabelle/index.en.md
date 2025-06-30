@@ -38,4 +38,4 @@ This option is useful if you want to transfer at least some of the rows from the
 
 ![Empty duplicated tables](images/Leere-duplizierte-Tabellen.png)
 
-This option is useful if you only want to adopt the **structure** of the original table, but want to fill it with other entries. This can happen, for example, if you create one table per year for your [budget planning](https://seatable.io/en/budgetplanung-vorlage/).
+This option is useful if you only want to adopt the **structure** of the original table, but want to fill it with other entries. This can happen, for example, if you create one table per year for your [budget planning]({{< relref "templates/finance/budget-plan" >}}).

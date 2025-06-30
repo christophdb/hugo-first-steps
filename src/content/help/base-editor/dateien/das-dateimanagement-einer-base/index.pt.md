@@ -56,7 +56,7 @@ Se pretender **remover** o gestor de ficheiros da sua barra de ferramentas, bast
 
 ## Ajustar o tamanho e a posição da janela do gestor de ficheiros
 
-Tem a opção de ajustar o tamanho da janela do gestor de ficheiros para que possa manter um olho nas suas tabelas e dados enquanto gere os seus ficheiros e [arrastar ficheiros do gestor de ficheiros diretamente para as colunas apropriadas das suas tabelas](https://seatable.io/pt/?post_type=docs&p=26594#8-toc-title).
+Tem a opção de ajustar o tamanho da janela do gestor de ficheiros para que possa manter um olho nas suas tabelas e dados enquanto gere os seus ficheiros e arrastar ficheiros do gestor de ficheiros diretamente para as colunas apropriadas das suas tabelas.
 
 Para isso, basta abrir o gestor de ficheiros e mover o ponteiro do rato sobre as **duas linhas** na parte superior da janela até aparecer uma **seta dupla**. Em seguida, mantenha premido o botão do rato e arraste a janela para a posição pretendida e solte-a assim que a alcançar.
 

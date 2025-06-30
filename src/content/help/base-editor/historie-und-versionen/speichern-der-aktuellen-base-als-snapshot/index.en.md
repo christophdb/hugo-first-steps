@@ -33,7 +33,7 @@ With [SeaTable Cloud](https://seatable.io/en/), the storage duration of the snap
 - With the free **subscription**, the snapshots are saved for one month.
 - With the **Plus** or **Enterprise subscription**, snapshots are stored for 6 or 12 months. (The extended storage period applies from the time of the upgrade).
 
-If you operate your own [SeaTable server](https://seatable.io/en/on-premises), you can set the snapshot storage duration individually.
+If you operate your own [SeaTable server]({{< relref "pages/product/seatable-server" >}}), you can set the snapshot storage duration individually.
 
 ## Want to learn more about snapshots?
 

@@ -25,4 +25,4 @@ Nous ne pouvons pas vous donner de conseils généraux, car les problèmes sont 
 
 En principe, nous pouvons toutefois dire que le contrôle 3D Secure est nécessaire pour conclure un abonnement payant. Si le paiement ou l'authentification ne fonctionne pas, il suffit de recharger la page et de réessayer.
 
-Si vous n'y parvenez toujours pas, utilisez les [possibilités de contact](https://seatable.io/fr/contact/) et contactez-nous. Nous essaierons de vous aider.
+Si vous n'y parvenez toujours pas, utilisez les [possibilités de contact]({{< relref "pages/contact" >}}) et contactez-nous. Nous essaierons de vous aider.

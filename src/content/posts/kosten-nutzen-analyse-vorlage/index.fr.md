@@ -18,7 +18,7 @@ Avec le bon modèle, une telle analyse, qui vous permet de vérifier et d'améli
 
 Une analyse coûts-bénéfices, en abrégé CBA (cost benefit analysis), est un **calcul de rentabilité**. Elle compare le rapport entre les coûts et les bénéfices afin de créer une **base d'évaluation pour les décisions de l'entreprise**. Ainsi, une ACB sert à examiner les **avantages et les inconvénients des investissements** et à évaluer les risques financiers, à évaluer les mesures et à analyser la durabilité des investissements. Afin d'obtenir une vue d'ensemble optimale, il est conseillé d'effectuer l'analyse coûts-bénéfices à l'aide d'un modèle.
 
-L'avantage ici est que vous pouvez regrouper tous les **facteurs et effets liés à un investissement** dans une seule base de données et ainsi ne pas perdre la vue d'ensemble. En effet, dans le cas de [grands projets](https://seatable.io/fr/projektstrukturplan-vorlage/), il existe une multitude de critères objectifs, mais aussi subjectifs, qui ont des répercussions très différentes sur le CBA. Un modèle vous aide à garder un œil sur tous ces aspects.
+L'avantage ici est que vous pouvez regrouper tous les **facteurs et effets liés à un investissement** dans une seule base de données et ainsi ne pas perdre la vue d'ensemble. En effet, dans le cas de [grands projets]({{< relref "templates/projects/work-breakdown-structure" >}}), il existe une multitude de critères objectifs, mais aussi subjectifs, qui ont des répercussions très différentes sur le CBA. Un modèle vous aide à garder un œil sur tous ces aspects.
 
 ![Modèle imprimé pour une analyse coûts-bénéfices.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 

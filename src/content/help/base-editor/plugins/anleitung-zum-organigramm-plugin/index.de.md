@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/anleitung-zum-organigramm-plugin'
 ---
 
-Mithilfe des Organigramm-Plugins können Sie **Hierarchien** zwischen den Datensätzen in einer Tabelle darstellen. Das ist zum Beispiel nützlich, um die Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt](https://seatable.io/projektstrukturplan-vorlage/) zu visualisieren.
+Mithilfe des Organigramm-Plugins können Sie **Hierarchien** zwischen den Datensätzen in einer Tabelle darstellen. Das ist zum Beispiel nützlich, um die Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt]({{< relref "templates/projects/work-breakdown-structure" >}}) zu visualisieren.
 
 Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
 ).

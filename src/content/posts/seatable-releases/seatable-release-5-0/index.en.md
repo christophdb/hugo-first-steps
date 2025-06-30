@@ -40,7 +40,7 @@ Another highlight of SeaTable 5.0 are the new [plugins]({{< relref "help/base-ed
 
 ### Organizational Chart
 
-The Org Chart plugin can be used to display hierarchies between the data records in a table, e.g. positions in a company or [superior and subordinate tasks in a project](https://seatable.io/en/projektstrukturplan-vorlage/). To visualize the dependencies of the data records, you need a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) that refers to the same table. The entry to which you link another row of the same table is displayed as a superordinate data record.
+The Org Chart plugin can be used to display hierarchies between the data records in a table, e.g. positions in a company or [superior and subordinate tasks in a project]({{< relref "templates/projects/work-breakdown-structure" >}}). To visualize the dependencies of the data records, you need a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) that refers to the same table. The entry to which you link another row of the same table is displayed as a superordinate data record.
 
 ![Organizational chart plugin](Organigramm-Plugin.png)
 

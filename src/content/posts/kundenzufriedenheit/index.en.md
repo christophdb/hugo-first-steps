@@ -92,7 +92,7 @@ There are cultural differences in valuation. This becomes important when you ope
 
 ### Suitable tool for customer satisfaction survey
 
-Whichever method you choose, make sure you use a tool that lets you store and manage all your feedback. For example, SeaTable can help you collect the customer feedback you want. Simply create your desired survey using our web form. In [this article](https://seatable.io/en/kundenfeedback-mit-seatable/), we will explain you the whole process of creating such a form and then analyzing it in more detail. If you want to get started right away, take a look there.
+Whichever method you choose, make sure you use a tool that lets you store and manage all your feedback. For example, SeaTable can help you collect the customer feedback you want. Simply create your desired survey using our web form. In [this article]({{< relref "templates/marketing/customer-feedback" >}}), we will explain you the whole process of creating such a form and then analyzing it in more detail. If you want to get started right away, take a look there.
 
 ![Customer feedback creation web form](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 

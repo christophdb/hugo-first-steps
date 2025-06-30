@@ -15,7 +15,7 @@ Si vous ne savez pas encore exactement par où commencer, suivez ces étapes :
 
 ## Étape 1 : Apprendre les bases de SeaTable avec notre guide rapide
 
-Les nombreuses fonctionnalités de SeaTable peuvent sembler un peu écrasantes au début, mais ne vous inquiétez pas ! Notre [guide de démarrage rapide](https://seatable.io/fr/guide-rapide/) a été spécialement conçu pour vous guider pas à pas à travers les bases.
+Les nombreuses fonctionnalités de SeaTable peuvent sembler un peu écrasantes au début, mais ne vous inquiétez pas ! Notre [guide de démarrage rapide]({{< relref "pages/quick-guide" >}}) a été spécialement conçu pour vous guider pas à pas à travers les bases.
 
 Si vous préférez regarder des vidéos, les instructions de notre [chaîne YouTube](https://www.youtube.com/seatable) vous aideront certainement.
 
@@ -29,7 +29,7 @@ Quelles données souhaitez-vous saisir ? Quel processus de votre quotidien ne fo
 
 Il n'y a pas qu'une seule "bonne" façon d'utiliser SeaTable de manière rentable. Le meilleur système est celui qui vous convient et qui correspond à votre flux de travail.
 
-Si vous avez besoin d'un peu d'inspiration pour savoir comment utiliser SeaTable de manière optimale, consultez nos [modèles](https://seatable.io/fr/modeles/). Vous y trouverez de nombreuses possibilités d'application intéressantes pour SeaTable.
+Si vous avez besoin d'un peu d'inspiration pour savoir comment utiliser SeaTable de manière optimale, consultez nos [modèles]({{< relref "templates" >}}). Vous y trouverez de nombreuses possibilités d'application intéressantes pour SeaTable.
 
 D'autres sources sont notre [chaîne YouTube](https://www.youtube.com/seatable), sur laquelle nous publions de nombreuses vidéos d'instruction, et notre [blog SeaTable]({{< relref "posts" >}}), sur lequel nous écrivons régulièrement au sujet de nouveaux cas d'utilisation et de solutions.
 

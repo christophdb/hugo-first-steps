@@ -32,7 +32,7 @@ Toutes les étapes par lesquelles passe un produit font partie des tâches de la
 - **Conception**: élaboration d'une stratégie concernant le marché, le prix, la distribution, la communication ; prototype, aperçu des coûts
 - **Mise en œuvre**: réalisation technique, mise en œuvre de la stratégie, lancement du produit
 
-En outre, un chef de produit assume certaines tâches organisationnelles. Il fait office d'**interface** entre le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [les ventes](https://seatable.io/fr/distribution/) et le développement de produits ainsi que la production. Pour les différentes étapes du processus de développement de produits, le chef de produit coordonne également le **[Gestion de projet](https://seatable.io/fr/gestion-de-projet/)**. La gestion de produit s'occupe donc aussi beaucoup de la création de stratégies et d'analyses, qui s'ajoutent à la conception et au développement du produit lui-même.
+En outre, un chef de produit assume certaines tâches organisationnelles. Il fait office d'**interface** entre le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), les ventes et le développement de produits ainsi que la production. Pour les différentes étapes du processus de développement de produits, le chef de produit coordonne également le **[Gestion de projet]({{< relref "pages/industry-solutions/project-management" >}})**. La gestion de produit s'occupe donc aussi beaucoup de la création de stratégies et d'analyses, qui s'ajoutent à la conception et au développement du produit lui-même.
 
 ### Les défis de la gestion de produits
 

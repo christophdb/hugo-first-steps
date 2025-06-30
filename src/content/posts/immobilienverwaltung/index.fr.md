@@ -67,4 +67,4 @@ Notre [modèle pour votre prochain déménagement]({{< relref "templates/real-es
 
 En outre, notre modèle de déménagement propose une liste de choses à faire pour les autres activités qui doivent être effectuées à une date précise. Ainsi, vous n'oublierez pas d'établir la demande de réexpédition du courrier ou de résilier à temps les contrats relatifs à l'ancien bien immobilier. Faites-en l'expérience ! Le prochain déménagement ne manquera pas d'arriver.
 
-Vous souhaitez voir d'autres façons d'utiliser SeaTable ? Découvrez [tous nos modèles](https://seatable.io/fr/modeles/) et travaillez encore plus efficacement avec vos données.
+Vous souhaitez voir d'autres façons d'utiliser SeaTable ? Découvrez [tous nos modèles]({{< relref "templates" >}}) et travaillez encore plus efficacement avec vos données.

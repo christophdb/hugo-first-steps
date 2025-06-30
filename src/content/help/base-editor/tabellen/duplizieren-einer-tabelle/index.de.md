@@ -33,4 +33,4 @@ Diese Option ist sinnvoll, wenn Sie zumindest einen Teil der Zeilen aus der ursp
 
 ![Leere duplizierte Tabellen](images/Leere-duplizierte-Tabellen.png)
 
-Diese Option ist sinnvoll, wenn Sie nur die **Struktur** der ursprünglichen Tabelle übernehmen, sie aber mit anderen Einträgen füllen wollen. Das kann zum Beispiel vorkommen, wenn Sie für Ihre [Budgetplanung](https://seatable.io/budgetplanung-vorlage/) eine Tabelle pro Jahr anlegen.
+Diese Option ist sinnvoll, wenn Sie nur die **Struktur** der ursprünglichen Tabelle übernehmen, sie aber mit anderen Einträgen füllen wollen. Das kann zum Beispiel vorkommen, wenn Sie für Ihre [Budgetplanung]({{< relref "templates/finance/budget-plan" >}}) eine Tabelle pro Jahr anlegen.

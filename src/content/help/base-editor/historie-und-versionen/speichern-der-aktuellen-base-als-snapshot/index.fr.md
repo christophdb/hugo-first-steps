@@ -28,12 +28,12 @@ Bon à savoir : SeaTable crée automatiquement un snapshot par jour de chaque ba
 
 Les snapshots des bases sont conservés pendant une certaine période, puis supprimés.
 
-Avec [SeaTable Cloud](https://seatable.io/fr/), la durée de stockage des instantanés dépend de l'[abonnement de votre équipe](https://seatable.io/fr/prix/):
+Avec [SeaTable Cloud](https://seatable.io/fr/), la durée de stockage des instantanés dépend de l'[abonnement de votre équipe]({{< relref "pages/prices" >}}):
 
 - Avec l **'abonnement gratuit Free**, les snapshots sont stockés pendant un mois.
 - Avec l'**abonnement** **Plus** ou **Enterprise**, les snapshots sont stockés pendant 6 ou 12 mois. (La durée de stockage prolongée s'applique à partir de la date de mise à niveau).
 
-Si vous exploitez votre propre [serveur SeaTable](https://seatable.io/fr/on-premises), vous pouvez personnaliser la durée d'enregistrement des instantanés.
+Si vous exploitez votre propre [serveur SeaTable]({{< relref "pages/product/seatable-server" >}}), vous pouvez personnaliser la durée d'enregistrement des instantanés.
 
 ## Vous voulez en savoir plus sur les snapshots ?
 

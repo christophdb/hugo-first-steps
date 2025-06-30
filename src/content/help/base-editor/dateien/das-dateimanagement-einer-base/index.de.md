@@ -45,7 +45,7 @@ Wenn Sie die Dateiverwaltung wieder aus Ihrer Toolbar **entfernen** möchten, kl
 
 ## Fenstergröße und Position der Dateiverwaltung anpassen
 
-Damit Sie Ihre Tabellen und Daten auch während der Verwaltung Ihrer Dateien im Blick haben und [Dateien aus der Dateiverwaltung direkt in die passenden Spalten Ihrer Tabellen ziehen](https://seatable.io/?post_type=docs&p=26594#8-toc-title) können, haben Sie die Möglichkeit, die Fenstergröße der Dateiverwaltung anzupassen.
+Damit Sie Ihre Tabellen und Daten auch während der Verwaltung Ihrer Dateien im Blick haben und Dateien aus der Dateiverwaltung direkt in die passenden Spalten Ihrer Tabellen ziehen können, haben Sie die Möglichkeit, die Fenstergröße der Dateiverwaltung anzupassen.
 
 Öffnen Sie hierzu einfach die Dateiverwaltung und fahren Sie mit dem Mauszeiger über die **zwei Striche** am oberen Rand des Fensters, bis ein **Doppelpfeil** erscheint. Ziehen Sie das Fenster im Anschluss mit gedrückter Maustaste zur gewünschten Position und lassen Sie los, sobald diese erreicht ist.
 

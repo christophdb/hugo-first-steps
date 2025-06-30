@@ -91,7 +91,7 @@ Existen diferencias culturales en la valoración. Esto adquiere importancia cuan
 
 ### Herramienta adecuada para medir la satisfacción del cliente
 
-Sea cual sea el método que elija, asegúrese de utilizar una herramienta que le permita almacenar y gestionar todas sus opiniones. Por ejemplo, SeaTable puede ayudarle a recopilar las opiniones de los clientes que desee. Sólo tiene que crear la encuesta que desee utilizando nuestro formulario web. En [este](https://seatable.io/es/kundenfeedback-mit-seatable/) artículo, le explicaremos con más detalle todo el proceso de creación de dicho formulario y la evaluación posterior. Si quiere empezar de inmediato, échele un vistazo.
+Sea cual sea el método que elija, asegúrese de utilizar una herramienta que le permita almacenar y gestionar todas sus opiniones. Por ejemplo, SeaTable puede ayudarle a recopilar las opiniones de los clientes que desee. Sólo tiene que crear la encuesta que desee utilizando nuestro formulario web. En [este]({{< relref "templates/marketing/customer-feedback" >}}) artículo, le explicaremos con más detalle todo el proceso de creación de dicho formulario y la evaluación posterior. Si quiere empezar de inmediato, échele un vistazo.
 
 ![Formulario web de creación de comentarios de los clientes](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 

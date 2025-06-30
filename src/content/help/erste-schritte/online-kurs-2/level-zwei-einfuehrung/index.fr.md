@@ -28,7 +28,7 @@ L'ensemble du processus commercial est reproduit dans SeaTable, ce qui vous perm
 
 Pour suivre ce cours avec succès, il vous faut
 
-1. **SeaTable**: utilisez n'importe quel système SeaTable. Le plus simple est d'avoir un [compte SeaTable Cloud gratuit](https://seatable.io/fr/enregistrement/).
+1. **SeaTable**: utilisez n'importe quel système SeaTable. Le plus simple est d'avoir un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
 2. **Un forum**: Un [compte sur notre forum communautaire](https://forum.seatable.com/), si vous souhaitez obtenir un badge à la fin du cours.
 3. **Envoi de courrier**: un [compte chez Mailtrap](https://mailtrap.io/) pour simuler l'envoi de courrier depuis SeaTable.
 4. **Navigateur**: Nous recommandons l'utilisation de Google Chrome.

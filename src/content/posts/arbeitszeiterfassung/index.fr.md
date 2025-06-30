@@ -83,4 +83,4 @@ Enfin, SeaTable vous permet de mettre en place tous les processus nécessaires p
 
 Dans SeaTable, vous et vos employés documentez les feuilles de temps, les demandes de congé et les jours de maladie en un seul endroit, au lieu de gérer de nombreux tableaux d'heures éparpillés (par exemple dans Excel ou Google Sheets). Tout ce dont vous avez besoin, c'est d'un navigateur Internet et d'une adresse e-mail.
 
-Pourtant, la gestion du temps n'est qu'une application parmi les possibilités infinies offertes par SeaTable. Découvrez dans nos [modèles](https://seatable.io/fr/modeles/) les solutions logicielles impressionnantes que vous pouvez construire avec SeaTable et commencez dès maintenant avec un [compte gratuit]({{< relref "pages/registration" >}}).
+Pourtant, la gestion du temps n'est qu'une application parmi les possibilités infinies offertes par SeaTable. Découvrez dans nos [modèles]({{< relref "templates" >}}) les solutions logicielles impressionnantes que vous pouvez construire avec SeaTable et commencez dès maintenant avec un [compte gratuit]({{< relref "pages/registration" >}}).

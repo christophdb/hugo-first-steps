@@ -56,4 +56,4 @@ Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** a
 
 ## Integrationsmöglichkeiten
 
-Grundsätzlich können Sie sowohl selbstgehostete als auch gehostete Seafile Server mit SeaTable verbinden. [Wenden Sie sich gern an unser Sales Team](https://seatable.io/kontakt/), wenn Sie einen Seafile Server selbst hosten wollen. Für SeaTable Dedicated Kunden bieten wir ein Seafile Co-Hosting an.
+Grundsätzlich können Sie sowohl selbstgehostete als auch gehostete Seafile Server mit SeaTable verbinden. [Wenden Sie sich gern an unser Sales Team]({{< relref "pages/contact" >}}), wenn Sie einen Seafile Server selbst hosten wollen. Für SeaTable Dedicated Kunden bieten wir ein Seafile Co-Hosting an.

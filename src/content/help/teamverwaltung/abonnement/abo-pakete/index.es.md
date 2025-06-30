@@ -28,9 +28,9 @@ Con SeaTable Enterprise, por 14 euros al mes por usuario, obtienes tablas y fila
 
 ### Nube dedicada
 
-Con Dedicated Cloud obtendrá su propia oferta personal: Si no desea almacenar sus datos en una nube pública, puede utilizar SeaTable a partir de 100 usuarios a través de su propio servidor, que nosotros cuidamos y mantenemos. Esto le da un control absoluto sobre su servidor en términos de URL, logotipo, esquema de colores y plantillas. En la nube dedicada, también obtendrá un panel de administración empresarial, inicio de sesión único a través de SAML2 y OAuth, así como soporte corporativo opcional. Puede obtener [más información](https://seatable.io/es/dedicated/) aquí.
+Con Dedicated Cloud obtendrá su propia oferta personal: Si no desea almacenar sus datos en una nube pública, puede utilizar SeaTable a partir de 100 usuarios a través de su propio servidor, que nosotros cuidamos y mantenemos. Esto le da un control absoluto sobre su servidor en términos de URL, logotipo, esquema de colores y plantillas. En la nube dedicada, también obtendrá un panel de administración empresarial, inicio de sesión único a través de SAML2 y OAuth, así como soporte corporativo opcional. Puede obtener [más información]({{< relref "pages/product/seatable-dedicated" >}}) aquí.
 
 ### Licencia SeaTable Enterprise
 
 Por supuesto, puede comprarnos una licencia SeaTable Enterprise. Con ella podrá configurar y operar fácilmente su propio servidor SeaTable.  
-[Puede encontrar](https://seatable.io/es/on-premises/) más información sobre la licencia SeaTable [aquí](https://seatable.io/es/on-premises/).
+[Puede encontrar]({{< relref "pages/product/seatable-server" >}}) más información sobre la licencia SeaTable [aquí]({{< relref "pages/product/seatable-server" >}}).

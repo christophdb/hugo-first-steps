@@ -47,7 +47,7 @@ There are virtually no ideas that haven't been thought of before. In other words
 
 ### 4\. define clear responsibilities and timelines
 
-A marketing campaign and its planning work best when everyone knows what they have to do and when. Once the [project goals]({{< relref "templates/projects/project-plan" >}}), target group and market/competitor analysis are in place, the next step is to put together a team, assign [responsibilities and tasks](https://seatable.io/en/projektstrukturplan-vorlage/), set deadlines and milestones and - very importantly - allocate the [budget]({{< relref "templates/finance/budget-book" >}}).
+A marketing campaign and its planning work best when everyone knows what they have to do and when. Once the [project goals]({{< relref "templates/projects/project-plan" >}}), target group and market/competitor analysis are in place, the next step is to put together a team, assign [responsibilities and tasks]({{< relref "templates/projects/work-breakdown-structure" >}}), set deadlines and milestones and - very importantly - allocate the [budget]({{< relref "templates/finance/budget-book" >}}).
 
 ![Marketing team discusses approach to campaign planning.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 

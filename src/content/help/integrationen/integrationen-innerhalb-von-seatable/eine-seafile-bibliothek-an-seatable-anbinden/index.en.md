@@ -55,4 +55,4 @@ Through this integration, you can use the files stored in Seafile directly in Se
 
 ## Integration possibilities
 
-Basically, you can connect both self-hosted and hosted Seafile servers to SeaTable. [Feel free to contact our sales team](https://seatable.io/en/kontakt/) if you want to self-host a Seafile server. For SeaTable Dedicated customers we offer Seafile co-hosting.
+Basically, you can connect both self-hosted and hosted Seafile servers to SeaTable. [Feel free to contact our sales team]({{< relref "pages/contact" >}}) if you want to self-host a Seafile server. For SeaTable Dedicated customers we offer Seafile co-hosting.

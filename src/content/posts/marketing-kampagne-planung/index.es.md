@@ -48,7 +48,7 @@ Prácticamente no existen ideas en las que no se haya pensado antes. En otras pa
 
 ### 4\. Defina responsabilidades y plazos claros
 
-Una campaña de marketing y su planificación funcionan mejor cuando todo el mundo sabe lo que tiene que hacer y cuándo. Una vez establecidos los [objetivos del proyecto]({{< relref "templates/projects/project-plan" >}}), el grupo destinatario y el análisis del mercado y la competencia, es hora de formar un equipo, [asignar responsabilidades y tareas](https://seatable.io/projektstrukturplan-vorlage/), fijar plazos e hitos y, lo que es más importante, asignar el [presupuesto]({{< relref "templates/finance/budget-book" >}}).
+Una campaña de marketing y su planificación funcionan mejor cuando todo el mundo sabe lo que tiene que hacer y cuándo. Una vez establecidos los [objetivos del proyecto]({{< relref "templates/projects/project-plan" >}}), el grupo destinatario y el análisis del mercado y la competencia, es hora de formar un equipo, [asignar responsabilidades y tareas]({{< relref "templates/projects/work-breakdown-structure" >}}), fijar plazos e hitos y, lo que es más importante, asignar el [presupuesto]({{< relref "templates/finance/budget-book" >}}).
 
 ![El equipo de marketing debate el enfoque de la planificación de la campaña](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 

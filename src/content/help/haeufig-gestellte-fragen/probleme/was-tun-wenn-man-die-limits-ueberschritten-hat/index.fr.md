@@ -20,6 +20,6 @@ Pour pouvoir continuer à modifier vos bases et à y ajouter des données, vous 
 
 {{< warning headline="Abonnements" >}}
 
-Vous trouverez un aperçu détaillé de tous les **abonnements** disponibles et des fonctions, possibilités et limites dont vous disposez avec ceux-ci sur notre [page de tarifs](https://seatable.io/fr/prix/).
+Vous trouverez un aperçu détaillé de tous les **abonnements** disponibles et des fonctions, possibilités et limites dont vous disposez avec ceux-ci sur notre [page de tarifs]({{< relref "pages/prices" >}}).
 
 {{< /warning >}}

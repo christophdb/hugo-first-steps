@@ -55,4 +55,4 @@ Esta integração permite-lhe utilizar os ficheiros armazenados no Seafile diret
 
 ## Possibilidades de integração
 
-Em princípio, é possível ligar servidores Seafile auto-hospedados e hospedados ao SeaTable. Não [hesite em contactar a nossa equipa de vendas](https://seatable.io/pt/kontakt/) se quiser auto-hospedar um servidor Seafile. Para os clientes SeaTable Dedicated, oferecemos o co-hosting do Seafile.
+Em princípio, é possível ligar servidores Seafile auto-hospedados e hospedados ao SeaTable. Não [hesite em contactar a nossa equipa de vendas]({{< relref "pages/contact" >}}) se quiser auto-hospedar um servidor Seafile. Para os clientes SeaTable Dedicated, oferecemos o co-hosting do Seafile.

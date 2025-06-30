@@ -47,7 +47,7 @@ You might know this - you are looking for a product and you know what it looks l
 
 With a few clicks you have created an informative gallery.
 
-The plugin perfectly complements the product catalogues and makes image databases on other platforms superfluous. Since SeaTable is not only a powerful project management tool, but also a database that stores images in the original at the same time, this function is optimal for digital [project management](https://seatable.io/en/projektmanagement/).
+The plugin perfectly complements the product catalogues and makes image databases on other platforms superfluous. Since SeaTable is not only a powerful project management tool, but also a database that stores images in the original at the same time, this function is optimal for digital [project management]({{< relref "pages/industry-solutions/project-management" >}}).
 
 ## Simple cataloguing of products
 

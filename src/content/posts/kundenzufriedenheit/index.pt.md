@@ -91,7 +91,7 @@ Existem diferenças culturais na avaliação. Este facto torna-se importante qua
 
 ### Ferramenta adequada para o inquérito à satisfação do cliente
 
-Seja qual for o método escolhido, certifique-se de que utiliza uma ferramenta que lhe permite armazenar e gerir todas as suas opiniões. Por exemplo, o SeaTable pode ajudá-lo a recolher o feedback dos clientes que pretende. Basta criar o inquérito pretendido utilizando o nosso formulário Web. Neste [artigo](https://seatable.io/pt/kundenfeedback-mit-seatable/), todo o processo de criação desse formulário e a avaliação subsequente ser-lhe-ão explicados com mais pormenor. Se quiser começar de imediato, dê uma vista de olhos aqui.
+Seja qual for o método escolhido, certifique-se de que utiliza uma ferramenta que lhe permite armazenar e gerir todas as suas opiniões. Por exemplo, o SeaTable pode ajudá-lo a recolher o feedback dos clientes que pretende. Basta criar o inquérito pretendido utilizando o nosso formulário Web. Neste [artigo]({{< relref "templates/marketing/customer-feedback" >}}), todo o processo de criação desse formulário e a avaliação subsequente ser-lhe-ão explicados com mais pormenor. Se quiser começar de imediato, dê uma vista de olhos aqui.
 
 ![Formulário web de criação de feedback do cliente](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 

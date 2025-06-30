@@ -32,7 +32,7 @@ As tarefas de gestão do produto incluem todas as fases pelas quais um produto p
 - **Conceito**: desenvolvimento de estratégia para o mercado, preço, distribuição, comunicação; protótipo, visão geral dos custos
 - **Implementação**: implementação técnica, implementação de estratégias, lançamento de produtos
 
-Além disso, há algumas tarefas de organização que um gestor de produto assume. Actua como uma **interface** entre [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [vendas](https://seatable.io/pt/vertrieb/) e desenvolvimento de produtos, bem como produção. Para as etapas individuais do processo de desenvolvimento do produto, o gestor do produto também coordena o **[Gestão de projectos](https://seatable.io/pt/projektmanagement/)**. A gestão do produto está, portanto, também muito ocupada com a formação e análises estratégicas, que ocorrem para além da concepção e desenvolvimento do próprio produto.
+Além disso, há algumas tarefas de organização que um gestor de produto assume. Actua como uma **interface** entre [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [vendas](https://seatable.io/pt/vertrieb/) e desenvolvimento de produtos, bem como produção. Para as etapas individuais do processo de desenvolvimento do produto, o gestor do produto também coordena o **[Gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}})**. A gestão do produto está, portanto, também muito ocupada com a formação e análises estratégicas, que ocorrem para além da concepção e desenvolvimento do próprio produto.
 
 ### Desafios na gestão de produtos
 

@@ -91,7 +91,7 @@ Il existe des différences culturelles en matière d'évaluation. Cela devient i
 
 ### Un outil adapté pour évaluer la satisfaction des clients
 
-Quelle que soit la méthode que vous choisissez, veillez à utiliser un outil qui vous permette d'enregistrer et de gérer tous vos feedbacks. SeaTable peut par exemple vous aider à obtenir le feedback souhaité de la part de vos clients. Il vous suffit de créer l'enquête de votre choix à l'aide de notre formulaire web. Dans [cet article](https://seatable.io/fr/kundenfeedback-mit-seatable/), nous vous expliquons plus en détail tout le processus de création d'un tel formulaire et l'évaluation qui s'ensuit. Si vous souhaitez vous lancer directement, n'hésitez pas à y faire un tour.
+Quelle que soit la méthode que vous choisissez, veillez à utiliser un outil qui vous permette d'enregistrer et de gérer tous vos feedbacks. SeaTable peut par exemple vous aider à obtenir le feedback souhaité de la part de vos clients. Il vous suffit de créer l'enquête de votre choix à l'aide de notre formulaire web. Dans [cet article]({{< relref "templates/marketing/customer-feedback" >}}), nous vous expliquons plus en détail tout le processus de création d'un tel formulaire et l'évaluation qui s'ensuit. Si vous souhaitez vous lancer directement, n'hésitez pas à y faire un tour.
 
 ![Création d'un formulaire web de feedback client](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 

@@ -25,4 +25,4 @@ Não podemos dar-lhe conselhos gerais porque os problemas são muito variados e 
 
 Basicamente, porém, podemos dizer que a verificação 3D Secure é necessária para concluir uma subscrição paga. Assim, se o pagamento ou a autenticação não funcionarem, basta recarregar a página e tentar novamente.
 
-Se ainda tiver problemas, utilize as [opções de contacto](https://seatable.io/pt/kontakt/) e entre em contacto connosco. Tentaremos ajudá-lo.
+Se ainda tiver problemas, utilize as [opções de contacto]({{< relref "pages/contact" >}}) e entre em contacto connosco. Tentaremos ajudá-lo.

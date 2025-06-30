@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/anleitung-zum-organigramm-plugin'
 ---
 
-Pode utilizar o plugin do organigrama para apresentar **hierarquias** entre os registos de dados de uma tabela. Isto é útil, por exemplo, para visualizar os cargos numa empresa ou as [tarefas superiores e subordinadas num projeto](https://seatable.io/pt/projektstrukturplan-vorlage/).
+Pode utilizar o plugin do organigrama para apresentar **hierarquias** entre os registos de dados de uma tabela. Isto é útil, por exemplo, para visualizar os cargos numa empresa ou as [tarefas superiores e subordinadas num projeto]({{< relref "templates/projects/work-breakdown-structure" >}}).
 
 Pode descobrir como ativar o plugin numa base [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 

@@ -15,7 +15,7 @@ Si vous avez dépassé les limites dont vous disposez dans votre abonnement actu
 
 {{< warning  headline="Remarque" >}}
 
-Vous trouverez un aperçu de tous les forfaits disponibles et des limites, fonctions et possibilités qu'ils contiennent sur notre [page de prix](https://seatable.io/fr/prix/).
+Vous trouverez un aperçu de tous les forfaits disponibles et des limites, fonctions et possibilités qu'ils contiennent sur notre [page de prix]({{< relref "pages/prices" >}}).
 
 {{< /warning >}}
 

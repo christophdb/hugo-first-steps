@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/anleitung-zum-organigramm-plugin'
 ---
 
-Le plug-in Organigramme permet de représenter **les hiérarchies** entre les enregistrements d'un tableau. C'est utile, par exemple, pour visualiser les postes dans une entreprise ou les [tâches supérieures et inférieures dans un projet](https://seatable.io/fr/projektstrukturplan-vorlage/).
+Le plug-in Organigramme permet de représenter **les hiérarchies** entre les enregistrements d'un tableau. C'est utile, par exemple, pour visualiser les postes dans une entreprise ou les [tâches supérieures et inférieures dans un projet]({{< relref "templates/projects/work-breakdown-structure" >}}).
 
 Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 

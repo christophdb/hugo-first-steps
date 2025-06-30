@@ -33,7 +33,7 @@ Con [SeaTable Cloud](https://seatable.io/es/), la duración del almacenamiento d
 - Con la **suscripción** gratuita, las instantáneas se guardan durante un mes.
 - Con la **suscripción** **Plus** o **Enterprise**, las instantáneas se almacenan durante 6 o 12 meses. (El periodo de almacenamiento ampliado se aplica desde el momento de la actualización).
 
-Si opera su propio [servidor SeaTable](https://seatable.io/es/on-premises), puede establecer individualmente la duración del almacenamiento de instantáneas.
+Si opera su propio [servidor SeaTable]({{< relref "pages/product/seatable-server" >}}), puede establecer individualmente la duración del almacenamiento de instantáneas.
 
 ## ¿Quieres saber más sobre las instantáneas?
 

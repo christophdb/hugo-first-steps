@@ -55,4 +55,4 @@ Esta integración le permite utilizar los archivos almacenados en Seafile direct
 
 ## Posibilidades de integración
 
-En principio, puede conectar a SeaTable tanto servidores Seafile autoalojados como alojados. [No dude en ponerse en contacto con nuestro equipo de ventas](https://seatable.io/es/kontakt/) si desea autoalojar un servidor Seafile. Para los clientes de SeaTable Dedicated ofrecemos el coalojamiento de Seafile.
+En principio, puede conectar a SeaTable tanto servidores Seafile autoalojados como alojados. [No dude en ponerse en contacto con nuestro equipo de ventas]({{< relref "pages/contact" >}}) si desea autoalojar un servidor Seafile. Para los clientes de SeaTable Dedicated ofrecemos el coalojamiento de Seafile.

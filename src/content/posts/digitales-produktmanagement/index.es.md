@@ -46,7 +46,7 @@ Es posible que lo sepa: está buscando un producto y sabe cómo es, pero no cóm
 
 Con unos pocos clics habrás creado una galería informativa.
 
-El plugin complementa perfectamente los catálogos de productos y hace superfluas las bases de datos de imágenes de otras plataformas. Dado que SeaTable no sólo es una potente herramienta de gestión de proyectos, sino también una base de datos que almacena imágenes en el original al mismo tiempo, esta función es óptima para la [gestión de proyectos](https://seatable.io/es/projektmanagement/) digitales.
+El plugin complementa perfectamente los catálogos de productos y hace superfluas las bases de datos de imágenes de otras plataformas. Dado que SeaTable no sólo es una potente herramienta de gestión de proyectos, sino también una base de datos que almacena imágenes en el original al mismo tiempo, esta función es óptima para la [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) digitales.
 
 ## Catalogación sencilla de los productos
 

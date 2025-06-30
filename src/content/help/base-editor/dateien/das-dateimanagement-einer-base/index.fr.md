@@ -56,7 +56,7 @@ Si vous souhaitez **supprimer** le gestionnaire de fichiers de votre barre d'out
 
 ## Adapter la taille de la fenêtre et la position du gestionnaire de fichiers
 
-Pour que vous puissiez garder un œil sur vos tableaux et vos données pendant la gestion de vos fichiers et [faire glisser les fichiers du gestionnaire de fichiers directement dans les colonnes appropriées de vos tableaux](https://seatable.io/fr/?post_type=docs&p=26594#8-toc-title), vous avez la possibilité d'adapter la taille de la fenêtre du gestionnaire de fichiers.
+Pour que vous puissiez garder un œil sur vos tableaux et vos données pendant la gestion de vos fichiers et faire glisser les fichiers du gestionnaire de fichiers directement dans les colonnes appropriées de vos tableaux, vous avez la possibilité d'adapter la taille de la fenêtre du gestionnaire de fichiers.
 
 Pour ce faire, ouvrez simplement le gestionnaire de fichiers et déplacez le curseur de la souris sur les **deux traits** en haut de la fenêtre jusqu'à ce qu'une **double flèche** apparaisse. Faites ensuite glisser la fenêtre vers la position souhaitée en maintenant le bouton de la souris enfoncé et relâchez dès que vous l'avez atteinte.
 

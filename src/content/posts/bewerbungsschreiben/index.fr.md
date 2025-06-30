@@ -232,6 +232,6 @@ Avant d'envoyer votre candidature, vous devez la **relire** définitivement. En 
 
 ## Conclusion
 
-Plus rien ne s'oppose à la rédaction de votre prochaine candidature réussie. Pour vous aider à garder une trace de vos documents, SeaTable a créé un [planificateur de candidatures en ligne](https://seatable.io/fr/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen). Il vous aide à planifier vos prochaines étapes, à classer vos documents et à rester à jour dans le processus de candidature.
+Plus rien ne s'oppose à la rédaction de votre prochaine candidature réussie. Pour vous aider à garder une trace de vos documents, SeaTable a créé un [planificateur de candidatures en ligne]({{< relref "posts/bewerbungsschreiben" >}}). Il vous aide à planifier vos prochaines étapes, à classer vos documents et à rester à jour dans le processus de candidature.
 
 Si vous souhaitez utiliser SeaTable pour votre aperçu de candidature, il vous suffit de [vous inscrire]({{< relref "pages/registration" >}}) gratuitement. Vous trouverez le modèle [ici]({{< relref "templates/everyday-life/application-cover-letter" >}}).

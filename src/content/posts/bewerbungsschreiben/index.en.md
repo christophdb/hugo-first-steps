@@ -225,6 +225,6 @@ Before you send off your application, you should **proofread** it. In addition t
 
 ## Conclusion
 
-Now nothing stands in the way of writing your next successful application. SeaTable has created an [online application planner](https://seatable.io/en/bewerbungsschreiben/#Bewerbungsuebersicht_anlegen) for you so that you don't lose track of your documents even if you have several applications. This will help you to plan your next steps, organize your documents and always stay up to date with the application process.
+Now nothing stands in the way of writing your next successful application. SeaTable has created an [online application planner]({{< relref "posts/bewerbungsschreiben" >}}) for you so that you don't lose track of your documents even if you have several applications. This will help you to plan your next steps, organize your documents and always stay up to date with the application process.
 
 If you would like to use SeaTable for your application overview, simply [register]({{< relref "pages/registration" >}}) free of charge. You can find the template [here]({{< relref "templates/everyday-life/application-cover-letter" >}}).

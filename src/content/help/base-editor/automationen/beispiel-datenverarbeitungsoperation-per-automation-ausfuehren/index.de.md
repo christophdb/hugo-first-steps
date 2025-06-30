@@ -68,7 +68,7 @@ Dann fügen Sie der Tabelle eine **zweite Zahlen-Spalte** hinzu, in welcher nach
 
 ![Hinzufügen einer zweiten Nummern-Spalte](images/Beispiel-Tabelle-automation-data-processing-kumulierte-werte-berechnen-2.png)
 
-Um die Automation anzulegen, befolgen Sie die im Abschnitt [Anlegen der Automation](https://seatable.io/?post_type=docs&p=24813#anlegen_der_automation) beschriebenen Schritte. Wählen Sie zudem die Spalte _Unique Visitors_ als **Quellspalte** und die neu hinzugefügte Spalte _Cumulated Visitors_ als **Ergebnisspalte** aus.
+Um die Automation anzulegen, befolgen Sie die im Abschnitt [Anlegen der Automation]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}) beschriebenen Schritte. Wählen Sie zudem die Spalte _Unique Visitors_ als **Quellspalte** und die neu hinzugefügte Spalte _Cumulated Visitors_ als **Ergebnisspalte** aus.
 
 ![Auswahl der Quell- und Ergebnis-Spalte](images/auswahl-quell-und-ergebnisspalte-im-anwendungsfall.png)
 
