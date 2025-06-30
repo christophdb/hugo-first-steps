@@ -144,4 +144,4 @@ Thanks to integrated formulas, SeaTable automatically calculates your liquidity 
 
 Your financial data remains secure: SeaTable meets the highest data protection standards (GDPR-compliant) and allows granular access control. Whether cloud version or on-premises in your data center – you decide where your data is stored.
 
-With its flexible templates and individual workflows, SeaTable adapts precisely to your processes. So you can always keep your liquidity under control with ease.
+With its flexible [templates]({{< relref "templates/">}}) and individual workflows, SeaTable adapts precisely to your processes. So you can always keep your liquidity under control with ease.
