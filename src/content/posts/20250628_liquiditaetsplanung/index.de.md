@@ -144,6 +144,6 @@ Dank integrierter Formeln berechnet SeaTable automatisch Ihre Liquiditätsgrade.
 
 Ihre Finanzdaten bleiben dabei sicher: SeaTable erfüllt höchste Datenschutzstandards (DSGVO-konform) und erlaubt eine granular gesteuerte Zugriffskontrolle. Ob Cloud-Version oder On-Premises in Ihrem Rechenzentrum – Sie entscheiden selbst, wo Ihre Daten liegen. 
 
-Mit seinen flexiblen [Vorlagen]({{< relref "???">}}) und individuellen Workflows passt sich SeaTable exakt Ihren Prozessen an. So behalten Sie Ihre Liquidität immer mit Leichtigkeit im Griff.
+Mit seinen flexiblen [Vorlagen]({{< relref "templates/">}}) und individuellen Workflows passt sich SeaTable exakt Ihren Prozessen an. So behalten Sie Ihre Liquidität immer mit Leichtigkeit im Griff.
 
 
