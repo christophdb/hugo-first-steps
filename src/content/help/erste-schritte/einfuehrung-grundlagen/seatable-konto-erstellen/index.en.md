@@ -21,7 +21,7 @@ That was it. You will shortly receive an email with a confirmation link, which y
 
 {{< warning headline="Payment information is not required" >}}
 
-At SeaTable Cloud, every team always starts with the free subscription. That's why you don't need to provide any payment information. Of course, you can [upgrade](https://seatable.io/en/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) your team to a [Plus or Enterprise subscription](https://seatable.io/en/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) immediately after the first login.
+At SeaTable Cloud, every team always starts with the free subscription. That's why you don't need to provide any payment information. Of course, you can [upgrade]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) your team to a [Plus or Enterprise subscription]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) immediately after the first login.
 
 {{</ warning >}}
 

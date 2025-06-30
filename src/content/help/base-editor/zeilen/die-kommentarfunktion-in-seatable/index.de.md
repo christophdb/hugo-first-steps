@@ -16,7 +16,7 @@ SeaTable stellt für den Austausch mit anderen Benutzern eine **Kommentarfunktio
 
 In SeaTable können Sie in jeder einzelnen **Zeile** der Tabelle eine separate Diskussion führen. Zeilen, in denen eine Diskussion läuft, sind durch ein **Sprechblasen-Icon** in der ersten Spalte gekennzeichnet. Die Zahl an der Sprechblase gibt die Anzahl der neuen Kommentare in den vergangenen 7 Tagen an. Die laufende Diskussion können Sie sich mit Klick auf das Icon anzeigen lassen.
 
-Die Diskussionen und Kommentare sind für alle Personen mit Zugriff auf die Tabelle sichtbar. Das umfasst auch Personen, die über einen [externen Link](https://seatable.io/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/) auf eine Tabelle zugreifen.
+Die Diskussionen und Kommentare sind für alle Personen mit Zugriff auf die Tabelle sichtbar. Das umfasst auch Personen, die über einen [externen Link]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) auf eine Tabelle zugreifen.
 
 Kommentare in einer Tabelle werden weder beim [Export einer Base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) noch beim [Export einer Tabelle in eine XLSX-Datei]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) berücksichtigt und gehen dann verloren.
 

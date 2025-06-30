@@ -98,7 +98,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-email" >}} **Correio electrónico*
 
 As colunas de e-mail são colunas de texto especializadas para capturar e armazenar **endereços de e-mail** e permitem a utilização directa com um clique do rato. A coluna de correio electrónico é particularmente útil para formulários Web. A utilização de um campo de correio electrónico em vez de uma coluna de texto garante que a entrada tem a sintaxe de um endereço de correio electrónico válido. Além disso, as colunas de correio electrónico podem ser utilizadas para enviar mensagens de correio electrónico através de [botões]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) e [automatizações]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
-Se precisar de informações mais detalhadas sobre a coluna de correio electrónico, dê uma vista de olhos neste [artigo](https://seatable.io/pt/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
+Se precisar de informações mais detalhadas sobre a coluna de correio electrónico, dê uma vista de olhos neste [artigo]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}).
 
 ### URL
 
@@ -106,7 +106,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
 As colunas URL interpretam as informações introduzidas como um **recurso** na rede local ou na Internet e permitem o acesso directo através de um clique. Uma vez que as entradas neste tipo de coluna não são validadas, pode ser armazenado numa célula um endereço Internet (por exemplo, https://seatable.io) ou um endereço IP (por exemplo, 192.168.178.1).
 
-[Mais informações sobre a coluna URL](https://seatable.io/pt/docs/text-und-zahlen/die-url-spalte/)
+[Mais informações sobre a coluna URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 
 ### Caixa de verificação
 
@@ -176,7 +176,7 @@ Pode armazenar **assinaturas digitais** numa coluna de assinaturas, que são aut
 
 Símbolo: {{< seatable-icon icon="dtable-icon-rename" >}} **Assinatura digital**
 
-[Mais informações sobre a coluna de assinaturas](https://seatable.io/pt/docs/dateien-und-bilder/die-signatur-spalte/)
+[Mais informações sobre a coluna de assinaturas]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}})
 
 ## Tipos de colunas com recolha automática de dados
 

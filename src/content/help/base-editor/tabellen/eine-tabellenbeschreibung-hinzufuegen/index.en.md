@@ -10,7 +10,11 @@ url: '/help/eine-tabellenbeschreibung-hinzufuegen'
 
 You can add a description to each table in your Base. With this concise text you can, for example, explain the table contents.
 
-{{< warning  headline="Important note"  text="You can - regardless of your [role and authorization](https://seatable.io/en/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) - also edit the table descriptions in bases that belong to a **group**. However, you can only edit the description of tables that have been [released to](https://seatable.io/en/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/) you with **write perm** issions." />}}
+{{< warning  headline="Important note" >}}
+
+You can - regardless of your [role and authorization](https://seatable.io/en/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) - also edit the table descriptions in bases that belong to a **group**. However, you can only edit the description of tables that have been [released to]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) you with **write perm** issions.
+
+{{< /warning >}}
 
 ## How to add a description to a table
 

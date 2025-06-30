@@ -43,7 +43,11 @@ Vous pouvez **supprimer** à tout moment les **liens externes** et **les liens d
 7. Confirmez la suppression en activant le bouton "Supprimer". **Régulateur** et cliquez sur **Supprimer le lien d'invitation** (pour les liens d'invitation) ou **Supprimer la validation** (pour les liens externes).  
    ![Confirmer la suppression](images/confirm-delete-invitation-and-external-links-way2.jpg)
 
-{{< warning  headline="Ne fonctionne que pour les liens de base"  text="Vous ne pouvez pas supprimer un [lien externe pour une vue](https://seatable.io/fr/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/) via la gestion d'équipe, mais uniquement via l'icône de partage pour les vues." />}}
+{{< warning  headline="Ne fonctionne que pour les liens de base" >}}
+
+Vous ne pouvez pas supprimer un [lien externe pour une vue]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) via la gestion d'équipe, mais uniquement via l'icône de partage pour les vues.
+
+{{< /warning >}}
 
 ## Conséquences de la suppression
 
@@ -57,7 +61,11 @@ Si les utilisateurs tentent d'ouvrir un lien d'invitation **supprimé**, le **me
 
 Par conséquent, une fois le lien d'invitation supprimé, **aucun autre utilisateur** ne peut avoir accès à la base partagée.
 
-{{< warning  headline="Les utilisateurs invités conservent leur accès"  text="Les utilisateurs qui ont accepté votre invitation avant la suppression du lien peuvent toujours accéder à la base partagée et sont répertoriés dans les [partages d'utilisateurs](https://seatable.io/fr/docs/freigaben/anlegen-einer-benutzerfreigabe/). Vous pouvez bien sûr y supprimer le partage." />}}
+{{< warning  headline="Les utilisateurs invités conservent leur accès" >}}
+
+Les utilisateurs qui ont accepté votre invitation avant la suppression du lien peuvent toujours accéder à la base partagée et sont répertoriés dans les [partages d'utilisateurs]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Vous pouvez bien sûr y supprimer le partage.
+
+{{< /warning >}}
 
 ### Suppression d'un lien externe
 

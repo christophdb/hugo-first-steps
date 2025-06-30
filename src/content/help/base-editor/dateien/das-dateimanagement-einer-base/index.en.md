@@ -24,7 +24,7 @@ The file manager contains various folders, which in turn contain various files. 
 
 ![System folders created and organized by the SeaTable system in the file management system.](images/system-folders.png)
 
-- A **Seafile folder** contains all the files that you have previously uploaded to the external cloud storage of the same name. How exactly the integration of Seafile libraries works and what advantages it brings, you can learn [here](https://seatable.io/en/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+- A **Seafile folder** contains all the files that you have previously uploaded to the external cloud storage of the same name. How exactly the integration of Seafile libraries works and what advantages it brings, you can learn [here]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ![Seafile folder in file management](images/seafile-library.png)
 

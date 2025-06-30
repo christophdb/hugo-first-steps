@@ -10,7 +10,7 @@ url: '/fr/aide/potenzial-big-data'
 
 {{< required-version "Entreprise" >}}
 
-SeaTable offre deux possibilités de stockage des enregistrements dans une base : **Par défaut**, une Base peut contenir un **maximum de 100 000 lignes**, ce qui est suffisant pour la plupart des cas d'utilisation. Si vous avez besoin d'une capacité encore plus grande, vous pouvez activer le **stockage de données volumineuses** avec un [abonnement Enterprise](https://seatable.io/fr/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/), qui peut contenir un nombre presque illimité de lignes. Le fait que des millions de lignes soient possibles dans une base fait de SeaTable une alternative aux bases de données SQL classiques.
+SeaTable offre deux possibilités de stockage des enregistrements dans une base : **Par défaut**, une Base peut contenir un **maximum de 100 000 lignes**, ce qui est suffisant pour la plupart des cas d'utilisation. Si vous avez besoin d'une capacité encore plus grande, vous pouvez activer le **stockage de données volumineuses** avec un [abonnement Enterprise]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}), qui peut contenir un nombre presque illimité de lignes. Le fait que des millions de lignes soient possibles dans une base fait de SeaTable une alternative aux bases de données SQL classiques.
 
 Cet article vous donne un premier aperçu de la fonction Big Data de SeaTable, tandis que vous trouverez des articles d'aide séparés pour les différents détails.
 
@@ -20,7 +20,7 @@ Cet article vous donne un premier aperçu de la fonction Big Data de SeaTable, t
 
 En tant qu'utilisateur, vous gagnez en flexibilité grâce à l'utilisation de deux solutions de stockage. La solution standard de SeaTable est idéale pour le travail **collaboratif** sur des projets, tandis que le stockage de données volumineuses convient parfaitement aux applications à forte intensité de données avec collecte automatique de données (par ex. fichiers journaux ou valeurs de mesure statiques).
 
-Une fois que vous [avez activé]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}), les deux solutions sont disponibles et vous pouvez déplacer vos ensembles de données entre la solution standard et le stockage des données volumineuses. L'avantage d'un stockage illimité de lignes présente toutefois l'inconvénient [de capacités collaboratives limitées](https://seatable.io/fr/docs/big-data/einschraenkungen-in-der-nutzung-von-big-data/).
+Une fois que vous [avez activé]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}), les deux solutions sont disponibles et vous pouvez déplacer vos ensembles de données entre la solution standard et le stockage des données volumineuses. L'avantage d'un stockage illimité de lignes présente toutefois l'inconvénient [de capacités collaboratives limitées]({{< relref "help/base-editor/big-data/einschraenkungen-in-der-nutzung-von-big-data" >}}).
 
 ## Vues séparées pour les deux mémoires
 

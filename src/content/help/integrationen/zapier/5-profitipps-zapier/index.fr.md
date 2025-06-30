@@ -12,7 +12,7 @@ Zapier vous permet de créer en quelques minutes une interface entre SeaTable et
 
 ## 1. accéder au contenu des tableaux liés à l'aide de colonnes de consultation
 
-SeaTable permet de relier des enregistrements entre eux sur deux tables. Pour plus de détails, consultez [cet article d'aide](https://seatable.io/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
+SeaTable permet de relier des enregistrements entre eux sur deux tables. Pour plus de détails, consultez [cet article d'aide]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}).
 
 ![Lien dans SeaTable](images/zapier-linked-columns.png)
 

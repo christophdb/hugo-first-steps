@@ -12,7 +12,7 @@ La función de tratamiento de datos es una característica útil de SeaTable que
 
 ## El sentido de las operaciones de tratamiento de datos
 
-SeaTable suele pensar en filas. Por ejemplo, una [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) sólo puede relacionar los valores de una fila entre sí y [los enlaces entre tablas](https://seatable.io/es/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) sólo se hacen de fila a fila.
+SeaTable suele pensar en filas. Por ejemplo, una [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) sólo puede relacionar los valores de una fila entre sí y [los enlaces entre tablas]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) sólo se hacen de fila a fila.
 
 El tratamiento de datos, por el contrario, es una función para realizar operaciones en una columna a través de varias filas. Básicamente, se distingue entre dos tipos diferentes de operaciones de tratamiento de datos:
 
@@ -47,7 +47,7 @@ Actualmente, las operaciones de tratamiento de datos pueden realizarse [manualme
 
 Cada vez que se ejecuta la operación de tratamiento de datos, los **resultados** se escriben en la **columna de resultados** independientemente. Si no desea sobrescribir ningún dato, deberá [crear]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para los resultados.
 
-A diferencia de las columnas de **fórmulas**, que controlan permanentemente las columnas implicadas, **las** columnas de resultados _no_ se actualizan. Los cambios en los valores de la columna de origen _no_ afectan a los valores de la columna de resultado sin [automatización](https://seatable.io/es/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) o reejecución. Por lo tanto, también puede sobrescribir manualmente los valores calculados o relacionados.
+A diferencia de las columnas de **fórmulas**, que controlan permanentemente las columnas implicadas, **las** columnas de resultados _no_ se actualizan. Los cambios en los valores de la columna de origen _no_ afectan a los valores de la columna de resultado sin [automatización]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}) o reejecución. Por lo tanto, también puede sobrescribir manualmente los valores calculados o relacionados.
 
 ## Protección contra cambios
 

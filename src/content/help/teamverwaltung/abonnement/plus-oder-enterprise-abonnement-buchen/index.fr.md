@@ -31,6 +31,6 @@ La réservation se fait directement et votre équipe dispose immédiatement des 
 
 ## Informations importantes sur la réservation
 
-- Le **mode de paiement standard** est le paiement par carte de crédit. Le [paiement sur facture](https://seatable.io/fr/docs/abo-abrechnung/bezahlung-per-rechnung/) n'est possible que sous certaines conditions.
+- Le **mode de paiement standard** est le paiement par carte de crédit. Le [paiement sur facture]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}) n'est possible que sous certaines conditions.
 - Le montant affiché dans le formulaire de réservation ci-dessous vous sera **directement facturé** après la conclusion de l'abonnement.
 - Dès que le paiement a été effectué, votre compte est **automatiquement** mis à niveau vers l'abonnement réservé.

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/eine-base-an-eine-gruppe-freigeben'
 ---
 
-As bases em SeaTable pertencem sempre a um **utilizador** ou a um **grupo**. Portanto, pode [partilhar](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/) bases quer com grupos quer [com utilizadores individuais](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/). Este artigo trata da partilha de uma base com um grupo inteiro.
+As bases em SeaTable pertencem sempre a um **utilizador** ou a um **grupo**. Portanto, pode [partilhar]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) bases quer com grupos quer [com utilizadores individuais]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Este artigo trata da partilha de uma base com um grupo inteiro.
 
 Aqui pode decidir individualmente para cada base se esta é uma **Leia o comunicado** ou em torno de um **Partilha de leitura e escrita** deve agir.
 
@@ -40,4 +40,4 @@ Se estiver actualmente **numa base**, também pode criar uma acção sem ter de 
 - As bases que **você mesmo criou** podem ser libertadas em qualquer altura, enquanto que as bases que pertencem a um grupo só podem ser libertadas para outros grupos por **proprietários** e **administradores**.
 - Um grupo que foi libertado por si **não tem direitos de proprietário** e, portanto, **não pode**, por exemplo, alterar o nome da base.
 
-Para aprender a partilhar **tabelas e pontos de vista individuais de** uma base com um grupo, ver o artigo [Criando a partilha personalizada](https://seatable.io/pt/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+Para aprender a partilhar **tabelas e pontos de vista individuais de** uma base com um grupo, ver o artigo [Criando a partilha personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

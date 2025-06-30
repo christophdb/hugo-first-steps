@@ -30,4 +30,8 @@ SeaTable allows you to **delete** **files** and **images** in several ways. The 
 
 ![Delete attachments.](images/Loeschen-von-Anhaengen.gif)
 
-{{< warning  headline="Attention"  text="Deleted images and files are still part of Base and therefore **not** permanently deleted. For more information, read the articles [Accessing deleted files and images](https://seatable.io/en/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) and [How to permanently remove files](https://seatable.io/en/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  headline="Attention" >}}
+
+Deleted images and files are still part of Base and therefore **not** permanently deleted. For more information, read the articles [Accessing deleted files and images]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) and [How to permanently remove files]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}

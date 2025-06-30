@@ -10,7 +10,7 @@ url: '/es/ayuda/die-erste-base'
 
 En SeaTable usted organiza sus datos en [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Una base es un contenedor para una o varias tablas. Las tablas de una base pueden ser independientes entre sí o, como en una base de datos, estar vinculadas mediante relaciones.
 
-También puedes [compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) con otros miembros del equipo o [invitar a](https://seatable.io/es/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) terceros externos a trabajar en ellas juntos.
+También puedes [compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) con otros miembros del equipo o [invitar a]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}}) terceros externos a trabajar en ellas juntos.
 
 SeaTable mantiene un [historial]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) de cada base en segundo plano, lo que le permite deshacer cambios y restaurar estados anteriores si lo necesita.
 

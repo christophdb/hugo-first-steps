@@ -42,11 +42,15 @@ Se não estiver satisfeito com a sua assinatura e pretender assinar novamente, b
 
 ![Assinar novamente no painel de assinaturas](images/resign.jpg)
 
-{{< warning  headline="Ficheiro não eliminado"  text="No entanto, a assinatura original permanece disponível como um ficheiro PNG no [gestor de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base, caso já a tenha guardado." />}}
+{{< warning  headline="Ficheiro não eliminado" >}}
+
+No entanto, a assinatura original permanece disponível como um ficheiro PNG no [gestor de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base, caso já a tenha guardado.
+
+{{< /warning >}}
 
 ## Assinaturas digitais no gestor de ficheiros
 
-Cada assinatura armazenada é também guardada na [gestão de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) da sua Base como um ficheiro PNG numa **pasta do sistema**.
+Cada assinatura armazenada é também guardada na [gestão de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) da sua Base como um ficheiro PNG numa **pasta do sistema**.
 
 ![Pasta na gestão de ficheiros da sua Base onde são guardadas as suas assinaturas ](images/stored-signatures-in-filemanagement.jpg)
 

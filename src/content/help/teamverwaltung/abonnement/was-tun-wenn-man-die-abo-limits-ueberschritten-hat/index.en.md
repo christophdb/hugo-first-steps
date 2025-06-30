@@ -21,7 +21,7 @@ An overview with all available packages and the limits, functions and possibilit
 
 ## Switch to a more comprehensive subscription package
 
-To get back to working fully with your data, you will need to [upgrade your subscription](https://seatable.io/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) to a more comprehensive subscription package.
+To get back to working fully with your data, you will need to [upgrade your subscription]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) to a more comprehensive subscription package.
 
 ## Delete part of your data
 

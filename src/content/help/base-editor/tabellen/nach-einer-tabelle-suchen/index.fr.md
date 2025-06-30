@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/nach-einer-tabelle-suchen'
 ---
 
-Pour les bases avec un grand nombre de tableaux, tous les **onglets** ne peuvent plus être affichés **dans l'en-tête de la base**. De même, [les tableaux masqués](https://seatable.io/fr/docs/arbeiten-in-tabellen/tabellen-ausblenden/) ne peuvent plus être trouvés dans l'en-tête de la base. C'est pourquoi SeaTable offre la possibilité de rechercher un **tableau**.
+Pour les bases avec un grand nombre de tableaux, tous les **onglets** ne peuvent plus être affichés **dans l'en-tête de la base**. De même, [les tableaux masqués]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) ne peuvent plus être trouvés dans l'en-tête de la base. C'est pourquoi SeaTable offre la possibilité de rechercher un **tableau**.
 
 ![Recherche d'une table](images/Search-for-a-table.png)
 
@@ -20,4 +20,8 @@ Vous pouvez également trouver des tableaux dans l'en-tête de base à l'aide de
 
 ![Trouver le tableau dans l'en-tête de la base avec les touches fléchées](images/Tabelle-im-Base-Header-mit-Pfeiltasten-finden.gif)
 
-{{< warning  headline="Conseil"  text="Vous pouvez également [déplacer](https://seatable.io/fr/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) les tableaux [par glisser-déposer](https://seatable.io/fr/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) pour que vos tableaux les plus utilisés soient toujours à portée de main à gauche de l'en-tête de la base." />}}
+{{< warning  headline="Conseil" >}}
+
+Vous pouvez également [déplacer]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) les tableaux [par glisser-déposer]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) pour que vos tableaux les plus utilisés soient toujours à portée de main à gauche de l'en-tête de la base.
+
+{{< /warning >}}

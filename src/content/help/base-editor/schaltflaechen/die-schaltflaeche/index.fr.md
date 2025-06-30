@@ -26,7 +26,7 @@ Vous pouvez choisir au total entre **neuf** actions différentes :
 - Modifier la ligne
 - Copier une ligne dans un autre tableau
 - Ouvrir l'URL
-- Ouvrir un plugin (possible uniquement si vous avez activé au moins un [plugin](https://seatable.io/fr/docs/arbeiten-mit-plugins/was-ist-ein-plugin/) )
+- Ouvrir un plugin (possible uniquement si vous avez activé au moins un [plugin]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) )
 - Enregistrer le fichier PDF dans la colonne (possible uniquement si le [plug-in de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) est activé)
 - Envoyer une notification
 - Envoyer un e-mail

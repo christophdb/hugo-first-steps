@@ -58,7 +58,7 @@ There have also been some changes to the [data query app](https://seatable.io/en
 
 ## More pleasant user experience when importing Excel files
 
-SeaTable 4.4 makes the [import of Excel tables]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) faster, more flexible and more stable: Tables with many thousands rows are now made available in SeaTable in just a few moments. In the significantly enlarged preview window, you can now choose which tables of a workbook – all or only some – you want to import from the XLSX file. While special characters in column names and other special cases led to undesired results in the past, these are now reliably taken into account. Improved error messages provide clear indications of conflicts, especially when [importing into the Big Data Storage](https://seatable.io/en/docs/big-data/eine-excel-tabelle-ins-big-data-backend-importieren/).
+SeaTable 4.4 makes the [import of Excel tables]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) faster, more flexible and more stable: Tables with many thousands rows are now made available in SeaTable in just a few moments. In the significantly enlarged preview window, you can now choose which tables of a workbook – all or only some – you want to import from the XLSX file. While special characters in column names and other special cases led to undesired results in the past, these are now reliably taken into account. Improved error messages provide clear indications of conflicts, especially when [importing into the Big Data Storage]({{< relref "help/base-editor/big-data/eine-excel-tabelle-ins-big-data-backend-importieren" >}}).
 
 ![Excel import](Excel-Import.png)
 
@@ -66,7 +66,7 @@ SeaTable 4.4 makes the [import of Excel tables]({{< relref "help/startseite/impo
 
 ## More functions for common datasets
 
-[Common datasets](https://seatable.io/en/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/) are very useful if you and your team members need certain tables (e.g. an employee list) across different [groups](https://seatable.io/en/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/) in your bases. SeaTable 4.4 adds three new functions to the existing ones:
+[Common datasets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) are very useful if you and your team members need certain tables (e.g. an employee list) across different [groups](https://seatable.io/en/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/) in your bases. SeaTable 4.4 adds three new functions to the existing ones:
 
 1. If you  
    [Copy a base  
@@ -99,7 +99,7 @@ By the way: You can even activate the default values with the corresponding para
 
 ## And much more
 
-You already know the **editor for formatted text** from various places in SeaTable, e.g. from the [base description](https://seatable.io/en/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/), the [column type for long texts](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) or [e-mail messages](https://seatable.io/en/docs/beispiel-automationen/e-mail-versand-per-automation/). With SeaTable 4.4 we have improved usability and fixed some bugs. Here are just two: Previously, multiple line breaks were removed when closing the editor and existing text was overwritten when typing in the cell. In the new editor, multiple line breaks are retained and can be used to structure the text more clearly. We have also eliminated the risk of unintentional deletions: When typing, the new text is placed in front of the existing text.
+You already know the **editor for formatted text** from various places in SeaTable, e.g. from the [base description](https://seatable.io/en/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/), the [column type for long texts](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) or [e-mail messages]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). With SeaTable 4.4 we have improved usability and fixed some bugs. Here are just two: Previously, multiple line breaks were removed when closing the editor and existing text was overwritten when typing in the cell. In the new editor, multiple line breaks are retained and can be used to structure the text more clearly. We have also eliminated the risk of unintentional deletions: When typing, the new text is placed in front of the existing text.
 
 In the new version, we have also improved the **notification center** {{< seatable-icon icon="dtable-icon-notice" >}} on the start page. Now you can see all [notifications](https://seatable.io/en/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) in the system in one place, track the source of the notification and go to the relevant page with one click.
 

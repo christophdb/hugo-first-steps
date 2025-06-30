@@ -35,15 +35,19 @@ Vous pouvez **télécharger des fichiers** dans la colonne des fichiers en cliqu
 3. Une nouvelle fenêtre s'ouvre. Ici, vous pouvez télécharger des fichiers de votre appareil par **glisser-déposer** ou par **clic**.
 4. Sélectionnez plusieurs fichiers en même temps en marquant tous les documents que vous souhaitez télécharger et en les téléchargeant ensemble.
 
-{{< warning  headline="Connecté au gestionnaire de fichiers"  text="Les fichiers que vous téléchargez localement dans une colonne de fichiers sont enregistrés dans un **dossier système** auquel vous pouvez accéder via le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de votre base." />}}
+{{< warning  headline="Connecté au gestionnaire de fichiers" >}}
+
+Les fichiers que vous téléchargez localement dans une colonne de fichiers sont enregistrés dans un **dossier système** auquel vous pouvez accéder via le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de votre base.
+
+{{< /warning >}}
 
 ## Ajouter des fichiers existants
 
 Outre les nouveaux fichiers que vous téléchargez localement dans la cellule d'une colonne de fichiers, vous pouvez également ajouter des fichiers existants, qui peuvent provenir de **trois sources**:
 
-- **Dernièrement téléchargé**: Vous trouverez ici les derniers fichiers téléchargés qui sont enregistrés dans le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de la base.
-- **Mes dossiers**: vous avez ici accès à des fichiers dans vos propres dossiers, que vous pouvez créer et remplir dans la [gestion des fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
-- **Seafile**: Vous pouvez sélectionner ici les fichiers des [bibliothèques Seafile](https://seatable.io/fr/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) qui sont rattachées à votre base.
+- **Dernièrement téléchargé**: Vous trouverez ici les derniers fichiers téléchargés qui sont enregistrés dans le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la base.
+- **Mes dossiers**: vous avez ici accès à des fichiers dans vos propres dossiers, que vous pouvez créer et remplir dans la [gestion des fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
+- **Seafile**: Vous pouvez sélectionner ici les fichiers des [bibliothèques Seafile]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) qui sont rattachées à votre base.
 
 ![Ajouter des fichiers existants à une colonne de fichiers](images/Add-existing-files-to-a-file-column.png)
 
@@ -73,7 +77,7 @@ Ensuite, vous pouvez encore définir **votre propre nom de fichier** et le syst�
 
 ![Boîte de dialogue pour télécharger tous les fichiers](images/Download-all-files-dialog.png)
 
-En cliquant sur les **trois points**, vous avez deux options pour enregistrer le fichier : En cas de **téléchargement**, un fichier zip est enregistré sur votre appareil, à partir duquel vous pouvez extraire tous les fichiers. En outre, vous pouvez également **enregistrer** les fichiers **dans Seafile**. Pour cela, vous devez au préalable [connecter une bibliothèque Seafile à votre base](https://seatable.io/fr/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+En cliquant sur les **trois points**, vous avez deux options pour enregistrer le fichier : En cas de **téléchargement**, un fichier zip est enregistré sur votre appareil, à partir duquel vous pouvez extraire tous les fichiers. En outre, vous pouvez également **enregistrer** les fichiers **dans Seafile**. Pour cela, vous devez au préalable [connecter une bibliothèque Seafile à votre base]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ## Renommer des fichiers
 
@@ -96,7 +100,11 @@ En cliquant sur les **trois points**, vous avez deux options pour enregistrer le
     - Choisissez l'option **Tout sélectionner** ou **cochez** les cases devant les fichiers.
     - Cliquez sur **Supprimer**.
 
-{{< warning  headline="Remarque"  text="De cette manière, les fichiers ne sont **pas** définitivement supprimés. Ce n'est que lorsque vous supprimez les fichiers dans le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de la base qu'ils sont [définitivement supprimés](https://seatable.io/fr/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  headline="Remarque" >}}
+
+De cette manière, les fichiers ne sont **pas** définitivement supprimés. Ce n'est que lorsque vous supprimez les fichiers dans le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la base qu'ils sont [définitivement supprimés]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}
 
 ## Questions fréquentes
 

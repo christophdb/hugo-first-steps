@@ -40,4 +40,4 @@ url: '/ru/pomoshch/eine-tabelle-in-einer-base-hinzufuegen'
 
 ![Эмодзи в названии таблицы](images/emojis-seatable-table-name.png)
 
-Подробные инструкции вы найдете в статье [Использование emojis в названиях таблиц](https://seatable.io/ru/docs/arbeiten-in-tabellen/verwendung-von-emojis-im-tabellennamen/).
+Подробные инструкции вы найдете в статье [Использование emojis в названиях таблиц]({{< relref "help/base-editor/tabellen/verwendung-von-emojis-im-tabellennamen" >}}).

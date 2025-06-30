@@ -18,7 +18,7 @@ Pode encontrar uma visão geral detalhada de todos os **pacotes de subscrição*
 
 ## Como é que posso voltar a editar os meus dados?
 
-Para continuar a editar totalmente os seus dados, tem de **mudar para um pacote de subscrição** que lhe conceda **limites mais alargados** do que os da sua subscrição actual. Pode encontrar os passos necessários em pormenor neste [artigo de ajuda sobre a actualização da sua conta](https://seatable.io/pt/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Para continuar a editar totalmente os seus dados, tem de **mudar para um pacote de subscrição** que lhe conceda **limites mais alargados** do que os da sua subscrição actual. Pode encontrar os passos necessários em pormenor neste [artigo de ajuda sobre a actualização da sua conta]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 Em alternativa, pode apagar parte dos seus dados até voltar a ficar abaixo dos seus limites actuais.
 

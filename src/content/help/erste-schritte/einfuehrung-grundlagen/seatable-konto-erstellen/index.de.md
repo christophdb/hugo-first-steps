@@ -21,7 +21,7 @@ Das war es auch schon. Sie erhalten in Kürze eine E-Mail mit einem Bestätigung
 
 {{< warning type="warning" headline="Zahlungsinformationen sind keine erforderlich" >}}
 
-Bei SeaTable Cloud startet jedes Team immer mit dem kostenlosen Free-Abo. Deshalb müssen Sie auch keinerlei Zahlungsinformationen angeben. Selbstverständlich können Sie sofort nach dem ersten Login Ihr Team auf ein [Plus- oder Enterprise Abo upgraden](https://seatable.io/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Bei SeaTable Cloud startet jedes Team immer mit dem kostenlosen Free-Abo. Deshalb müssen Sie auch keinerlei Zahlungsinformationen angeben. Selbstverständlich können Sie sofort nach dem ersten Login Ihr Team auf ein [Plus- oder Enterprise Abo upgraden]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 {{</ warning >}}
 

@@ -27,7 +27,7 @@ url: '/ru/pomoshch/die-bild-spalte'
 
 1. Щелкните в **ячейке** столбца изображений.
 2. Нажмите на появившийся **символ плюса**.
-3. Откроется новое окно. Здесь вы можете загрузить **изображения с устройства**, вставить их по **URL** или добавить из [файлового менеджера](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
+3. Откроется новое окно. Здесь вы можете загрузить **изображения с устройства**, вставить их по **URL** или добавить из [файлового менеджера]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
 
 ### Местные изображения
 
@@ -47,7 +47,7 @@ url: '/ru/pomoshch/die-bild-spalte'
 
 ### Последняя загрузка
 
-В разделе " **Недавно загруженные"** вы получаете доступ к [управлению файлами](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) базы. Здесь сохраняются изображения, которые вы уже загрузили в **колонки** **изображений**, **файлов** или в **собственные папки**. Выберите изображение и вставьте его в колонку изображений, нажав кнопку **Отправить**.
+В разделе " **Недавно загруженные"** вы получаете доступ к [управлению файлами]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) базы. Здесь сохраняются изображения, которые вы уже загрузили в **колонки** **изображений**, **файлов** или в **собственные папки**. Выберите изображение и вставьте его в колонку изображений, нажав кнопку **Отправить**.
 
 ![Область "Последняя загрузка" в колонке изображений](images/recently-uploaded-images-image-column.png)
 
@@ -85,7 +85,7 @@ url: '/ru/pomoshch/die-bild-spalte'
 
 ![Диалоговое окно для загрузки всех файлов](images/Download-all-files-dialog.png)
 
-Если вы нажмете на **три точки**, у вас будет два варианта сохранения файла: При **загрузке** на вашем устройстве сохраняется zip-файл, из которого вы можете извлечь все изображения. Вы также можете сохранить изображения **в Seafile**. Для этого необходимо сначала [подключить библиотеку Seafile к вашей базе](https://seatable.io/ru/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+Если вы нажмете на **три точки**, у вас будет два варианта сохранения файла: При **загрузке** на вашем устройстве сохраняется zip-файл, из которого вы можете извлечь все изображения. Вы также можете сохранить изображения **в Seafile**. Для этого необходимо сначала [подключить библиотеку Seafile к вашей базе]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ### Удаление изображений
 
@@ -95,4 +95,8 @@ url: '/ru/pomoshch/die-bild-spalte'
 
 ![Подтверждение удаления](images/confirm-delete.jpg)
 
-{{< warning  headline="Внимание"  text="Изображения, удаленные из колонки изображений, по-прежнему являются частью Base и, следовательно, **не** удалены безвозвратно. Прочтите статьи [Доступ к удаленным файлам и изображениям](https://seatable.io/ru/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) и [Как удалить файлы навсегда](https://seatable.io/ru/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  headline="Внимание" >}}
+
+Изображения, удаленные из колонки изображений, по-прежнему являются частью Base и, следовательно, **не** удалены безвозвратно. Прочтите статьи [Доступ к удаленным файлам и изображениям]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) и [Как удалить файлы навсегда]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}

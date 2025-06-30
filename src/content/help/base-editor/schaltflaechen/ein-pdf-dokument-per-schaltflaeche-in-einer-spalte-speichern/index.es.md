@@ -12,7 +12,7 @@ Con la ayuda de un **botón** puedes guardar documentos PDF en columnas de archi
 
 ## Guardar documentos PDF mediante un botón en una columna
 
-Los botones permiten guardar documentos PDF en las [columnas de archivo de](https://seatable.io/es/docs/datei-und-bildanhaenge/die-datei-spalte/) las mesas. La acción está disponible al crear un botón en cuanto haya configurado el [complemento de diseño de página](https://seatable.io/es/?post_type=docs&p=19223) en la tabla correspondiente.
+Los botones permiten guardar documentos PDF en las [columnas de archivo de]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) las mesas. La acción está disponible al crear un botón en cuanto haya configurado el [complemento de diseño de página](https://seatable.io/es/?post_type=docs&p=19223) en la tabla correspondiente.
 
 En el primer paso, nombra la **columna** y establece la **etiqueta** y el **color** del botón que quieres añadir a tus filas.
 

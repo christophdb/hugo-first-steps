@@ -31,11 +31,11 @@ Actualmente hay 24 colores disponibles para resaltar visualmente las respectivas
 
 ![Colores de la columna de selección única](images/farben-einfachauswahl.png)
 
-Con una [suscripción Enterprise](https://seatable.io/es/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), también tiene la opción de crear [sus propios colores](https://seatable.io/es/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) para sus opciones de selección única.
+Con una [suscripción Enterprise]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}), también tiene la opción de crear [sus propios colores]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) para sus opciones de selección única.
 
 ## Cambiar la clasificación de las opciones
 
-Las opciones **no** están ordenadas **alfabéticamente**, sino según el [orden de las](https://seatable.io/es/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/) opciones, que puede definir como desee.
+Las opciones **no** están ordenadas **alfabéticamente**, sino según el [orden de las]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}}) opciones, que puede definir como desee.
 
 ![Cambiar la clasificación de una columna de selección única](images/Sortierung-einer-Einfachauswahl-Spalte-aendern.gif)
 
@@ -52,6 +52,6 @@ Si desea poder almacenar **información adicional** para cada opción de selecci
 ## Más artículos útiles sobre el tema de las columnas de selección única
 
 - [Añadir opciones a una columna de selección única]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
-- [Cambiar el orden de las opciones de selección única](https://seatable.io/es/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
-- [Definir una cascada para una columna de selección única](https://seatable.io/es/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
-- [Opciones de exportación e importación de selecciones simples](https://seatable.io/es/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)
+- [Cambiar el orden de las opciones de selección única]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}})
+- [Definir una cascada para una columna de selección única]({{< relref "help/base-editor/auswahl-spalten/kaskadierung-einer-einfachauswahl" >}})
+- [Opciones de exportación e importación de selecciones simples]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}})

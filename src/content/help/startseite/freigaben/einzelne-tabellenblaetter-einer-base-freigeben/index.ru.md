@@ -28,4 +28,4 @@ url: '/ru/pomoshch/einzelne-tabellenblaetter-einer-base-freigeben'
 
 ## Создание индивидуального релиза
 
-Подробное объяснение необходимых шагов см. в статье [Создание пользовательского общего ресурса](https://seatable.io/ru/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+Подробное объяснение необходимых шагов см. в статье [Создание пользовательского общего ресурса]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

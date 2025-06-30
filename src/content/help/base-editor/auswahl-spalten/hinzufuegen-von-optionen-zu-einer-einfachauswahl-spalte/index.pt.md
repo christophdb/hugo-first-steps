@@ -39,7 +39,7 @@ Pode adicionar várias **opções** a uma coluna de selecção única, a partir 
 
 Além da **entrada manual**, também pode convenientemente exportar opções a partir de uma coluna de selecção única existente e **importá-las** para outra coluna deste tipo. Isto é muito útil se quiser usar **as mesmas opções** repetidamente através de colunas diferentes.
 
-Pode saber mais sobre isto no artigo [Exportar e importar opções em colunas de selecção simples ou múltiplas](https://seatable.io/pt/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/).
+Pode saber mais sobre isto no artigo [Exportar e importar opções em colunas de selecção simples ou múltiplas]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).
 
 ## Cores da opção de selecção
 
@@ -47,11 +47,11 @@ Para tornar a visualização dos dados dentro de uma tabela mais clara, SeaTable
 
 ![Cores da opção de selecção](images/Farben-der-Optionen-einer-Einfachauswahlspalte-anpassen.png)
 
-Com uma [subscrição Enterprise](https://seatable.io/pt/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), tem também a possibilidade de criar as suas [próprias cores](https://seatable.io/pt/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) para as opções de selecção.
+Com uma [subscrição Enterprise]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}), tem também a possibilidade de criar as suas [próprias cores]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) para as opções de selecção.
 
 ## Artigos mais úteis sobre o tema das colunas de selecção única
 
 - [Criar uma coluna de selecção única]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Alterar a ordem das opções de seleção individuais](https://seatable.io/pt/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
-- [Definir um cascata para uma coluna de selecção única](https://seatable.io/pt/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
-- [Opções de selecção única de exportação e importação](https://seatable.io/pt/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)
+- [Alterar a ordem das opções de seleção individuais]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}})
+- [Definir um cascata para uma coluna de selecção única]({{< relref "help/base-editor/auswahl-spalten/kaskadierung-einer-einfachauswahl" >}})
+- [Opções de selecção única de exportação e importação]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}})

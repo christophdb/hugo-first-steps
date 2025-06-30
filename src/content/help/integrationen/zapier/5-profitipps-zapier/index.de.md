@@ -12,7 +12,7 @@ Mithilfe von Zapier erstellen Sie in wenigen Minuten eine Schnittstelle zwischen
 
 ## 1\. Greifen Sie auf verlinkte Tabelleninhalte mit Lookup-Spalten zu
 
-SeaTable erlaubt es, Datensätze über zwei Tabellen hinweg miteinander zu verknüpfen. Weitere Details finden Sie in [diesem Hilfeartikel](https://seatable.io/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
+SeaTable erlaubt es, Datensätze über zwei Tabellen hinweg miteinander zu verknüpfen. Weitere Details finden Sie in [diesem Hilfeartikel]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}).
 
 ![Verlinkung in SeaTable](images/zapier-linked-columns.png)
 

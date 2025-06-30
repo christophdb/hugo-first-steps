@@ -12,7 +12,7 @@ La fonction de traitement des données est une fonctionnalité utile de SeaTable
 
 ## Le sens derrière les opérations de traitement des données
 
-SeaTable pense souvent en termes de lignes. Par exemple, une [formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) ne peut mettre en relation que les valeurs d'une ligne et [les liens entre les tableaux](https://seatable.io/fr/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) se font toujours de ligne à ligne.
+SeaTable pense souvent en termes de lignes. Par exemple, une [formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) ne peut mettre en relation que les valeurs d'une ligne et [les liens entre les tableaux]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) se font toujours de ligne à ligne.
 
 Par opposition, le traitement des données est une fonction permettant d'effectuer des opérations dans une colonne sur plusieurs lignes. En principe, on distingue deux types d'opérations de traitement des données :
 
@@ -47,7 +47,7 @@ Les opérations de traitement des données peuvent actuellement être exécutée
 
 Chaque fois que l'opération de traitement des données est exécutée, les **résultats** sont écrits dans la **colonne des résultats** sans tenir compte des pertes. Si vous ne voulez pas écraser de données, vous devez [créer]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) pour les résultats.
 
-Contrairement aux **colonnes de formules** qui surveillent en permanence les colonnes impliquées, les **colonnes de résultats** ne s'actualisent _pas_ d'elles-mêmes. Les modifications des valeurs dans la colonne source n'ont _pas_ d'effet sur les valeurs dans la colonne des résultats sans [automatisation](https://seatable.io/fr/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) ou nouvelle exécution. C'est pourquoi vous pouvez également écraser manuellement les valeurs calculées ou mises en relation.
+Contrairement aux **colonnes de formules** qui surveillent en permanence les colonnes impliquées, les **colonnes de résultats** ne s'actualisent _pas_ d'elles-mêmes. Les modifications des valeurs dans la colonne source n'ont _pas_ d'effet sur les valeurs dans la colonne des résultats sans [automatisation]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}) ou nouvelle exécution. C'est pourquoi vous pouvez également écraser manuellement les valeurs calculées ou mises en relation.
 
 ## Protection contre les modifications
 

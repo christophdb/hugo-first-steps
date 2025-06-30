@@ -40,7 +40,7 @@ Dans les paramètres de page de ce type de page, on trouve à partir de SeaTable
 
 Dans le cas d'[enregistrements bloqués](https://seatable.io/fr/docs/arbeiten-mit-zeilen/sperren-einer-zeile/), l'utilisateur reçoit désormais aussi un message lui indiquant que l'édition n'est pas possible. Un message correspondant s'affiche lorsque le curseur de la souris se déplace sur "Modifier l'entrée" dans la barre d'outils.
 
-Outre le contrôle des autorisations, la nouvelle version contient encore deux améliorations pour augmenter la convivialité : les champs de type [URL](https://seatable.io/fr/docs/text-und-zahlen/die-url-spalte/) et [e-mail](https://seatable.io/fr/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/) sont désormais cliquables. L'appel d'une page web ou la rédaction d'un e-mail est ainsi encore plus rapide. (Les fichiers dans les colonnes de fichiers deviennent cliquables dans la version 5.3.) Pour les éléments d'image sur la page, vous pouvez régler le mode de remplissage. Trois modes sont à votre disposition : Ajuster, Remplir et Étirer.
+Outre le contrôle des autorisations, la nouvelle version contient encore deux améliorations pour augmenter la convivialité : les champs de type [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) et [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) sont désormais cliquables. L'appel d'une page web ou la rédaction d'un e-mail est ainsi encore plus rapide. (Les fichiers dans les colonnes de fichiers deviennent cliquables dans la version 5.3.) Pour les éléments d'image sur la page, vous pouvez régler le mode de remplissage. Trois modes sont à votre disposition : Ajuster, Remplir et Étirer.
 
 ### Type de page Formulaire
 

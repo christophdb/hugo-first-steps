@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/ru/pomoshch/verwendung-von-emojis-im-tabellennamen'
 ---
 
-С каждой дополнительной таблицей, которую вы добавляете в базу, [навигация по таблицам](https://seatable.io/ru/docs/arbeiten-in-tabellen/nach-einer-tabelle-suchen/) в заголовке базы становится все более запутанной. Чтобы решить эту проблему, SeaTable поддерживает [скрытие таблиц](https://seatable.io/ru/docs/arbeiten-in-tabellen/tabellen-ausblenden/) и **использование эмодзи в названии таблицы**.
+С каждой дополнительной таблицей, которую вы добавляете в базу, [навигация по таблицам]({{< relref "help/base-editor/tabellen/nach-einer-tabelle-suchen" >}}) в заголовке базы становится все более запутанной. Чтобы решить эту проблему, SeaTable поддерживает [скрытие таблиц]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) и **использование эмодзи в названии таблицы**.
 
 ## Вставка эмодзи в название таблицы
 

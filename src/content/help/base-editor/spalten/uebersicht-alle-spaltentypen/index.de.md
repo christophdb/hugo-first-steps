@@ -98,7 +98,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-email" >}} **E-Mail**
 
 E-Mail-Spalten sind spezialisierte Text-Spalten für die Erfassung und Speicherung von **E-Mail-Adressen** und erlauben die direkte Verwendung per Mausklick. Die E-Mail-Spalte ist insbesondere für Webformulare praktisch. Die Verwendung eines E-Mail-Feldes an Stelle einer Text-Spalte stellt sicher, dass die Eingabe die Syntax einer gültigen E-Mail-Adresse hat. Zudem können E-Mail-Spalten über [Schaltflächen]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) und [Automationen]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}) zum Versand von E-Mails genutzt werden.
 
-Falls Sie detailliertere Informationen zur E-Mail-Spalte benötigen, werfen Sie einen Blick in diesen [Artikel](https://seatable.io/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
+Falls Sie detailliertere Informationen zur E-Mail-Spalte benötigen, werfen Sie einen Blick in diesen [Artikel]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}).
 
 ### URL
 
@@ -106,7 +106,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
 URL-Spalten interpretieren die eingegebene Information als eine **Ressource** im lokalen Netzwerk bzw. im Internet und erlauben den direkten Aufruf per Klick. Da Eingaben in diesem Spaltentyp nicht validiert werden, können in einer Zelle eine Internetadresse (z.B. https://seatable.io) oder eine IP-Adressen (z.B. 192.168.178.1) gespeichert werden.
 
-[Mehr zur URL-Spalte](https://seatable.io/docs/text-und-zahlen/die-url-spalte/)
+[Mehr zur URL-Spalte]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 
 ### Checkbox
 
@@ -176,7 +176,7 @@ In einer Signatur-Spalte können Sie **digitale Unterschriften** hinterlegen, di
 
 Symbol: {{< seatable-icon icon="dtable-icon-rename" >}} **Digitale Signatur**
 
-[Mehr zur Signatur-Spalte](https://seatable.io/docs/dateien-und-bilder/die-signatur-spalte/)
+[Mehr zur Signatur-Spalte]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}})
 
 ## Spaltentypen mit automatischer Datenerfassung
 

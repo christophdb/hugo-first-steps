@@ -10,7 +10,11 @@ url: '/fr/aide/eine-tabellenbeschreibung-hinzufuegen'
 
 Vous pouvez ajouter une description à chaque tableau de votre base. Ce texte concis vous permet par exemple d'expliquer le contenu des tableaux.
 
-{{< warning  headline="Remarque importante"  text="Vous pouvez - indépendamment de votre [rôle et](https://seatable.io/fr/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) de vos [droits](https://seatable.io/fr/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) - également modifier les descriptions de tables dans les bases qui appartiennent à un **groupe**. En revanche, vous ne pouvez modifier la description des tables qui vous ont été [partagées](https://seatable.io/fr/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/) qu'avec des **droits d'écriture**." />}}
+{{< warning  headline="Remarque importante" >}}
+
+Vous pouvez - indépendamment de votre [rôle et](https://seatable.io/fr/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) de vos [droits](https://seatable.io/fr/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) - également modifier les descriptions de tables dans les bases qui appartiennent à un **groupe**. En revanche, vous ne pouvez modifier la description des tables qui vous ont été [partagées]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) qu'avec des **droits d'écriture**.
+
+{{< /warning >}}
 
 ## Comment ajouter une description à un tableau
 

@@ -75,6 +75,6 @@ sections:
           - text: SeaTable Cloud работает в сертифицированных немецких дата-центрах швейцарского провайдера Exoscale. Мы отказались от американских сервис-провайдеров.
       buttons:
           - label: Читать статью в блоге
-            link: https://seatable.io/die-seatable-cloud-wird-europaeischer/
+            link: 'posts/die-seatable-cloud-wird-europaeischer'
       image: '/images/seatable-1-1024x560-1.png'
 ---

@@ -63,4 +63,4 @@ Nehmen Sie sich ein paar Minuten, um sich mit der Dateiverwaltung von SeaTable v
 - [Anleitung zum Seitendesign Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 - [Ein PDF-Dokument per Schaltfläche in einer Spalte speichern](https://seatable.io/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/)
 - [Die Datei-Spalte]({{< relref "help/base-editor/dateien/die-datei-spalte" >}})
-- [Die Dateiverwaltung einer Base](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/)
+- [Die Dateiverwaltung einer Base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}})

@@ -39,7 +39,7 @@ You can add various **options** to a single-selection column, which you can then
 
 In addition to **manual entry**, you can also conveniently export options from an existing single-selection column and **import** them into another column of that type. This is very useful if you want to use **the same options** over and over again across different columns.
 
-You can learn more about this in the article [Exporting and importing options in single or multiple selection columns](https://seatable.io/en/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/).
+You can learn more about this in the article [Exporting and importing options in single or multiple selection columns]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).
 
 ## Selection options colors
 
@@ -47,11 +47,11 @@ To make the data view within a table clearer, SeaTable assigns a different **col
 
 ![Selection options colors](images/Farben-der-Optionen-einer-Einfachauswahlspalte-anpassen.png)
 
-With an [Enterprise subscription](https://seatable.io/en/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), you also have the option to create your [own colors](https://seatable.io/en/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) for your selection options.
+With an [Enterprise subscription]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}), you also have the option to create your [own colors]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) for your selection options.
 
 ## More helpful articles on the topic of single-selection columns
 
 - [Create a single selection column]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Changing the order of single-selection options](https://seatable.io/en/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
-- [Define a cascading for a single-selection column](https://seatable.io/en/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
-- [Export and import single selection options](https://seatable.io/en/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)
+- [Changing the order of single-selection options]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}})
+- [Define a cascading for a single-selection column]({{< relref "help/base-editor/auswahl-spalten/kaskadierung-einer-einfachauswahl" >}})
+- [Export and import single selection options]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}})

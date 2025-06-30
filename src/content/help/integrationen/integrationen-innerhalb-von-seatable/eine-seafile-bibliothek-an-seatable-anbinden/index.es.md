@@ -47,7 +47,7 @@ Una solución para cumplir con los límites en este caso es externalizar sus arc
 
 ## Acceso a archivos en Seafile
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base.
+Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base.
 
 ![Biblioteca Seafile integrada en la gestión de archivos de la base](images/library-in-file-management.png)
 

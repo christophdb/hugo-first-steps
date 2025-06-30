@@ -40,7 +40,7 @@ A partir do SeaTable 5.2, as definições de página para este tipo de página i
 
 Para os [registos de dados bloqueados](https://seatable.io/pt/docs/arbeiten-mit-zeilen/sperren-einer-zeile/), o utilizador recebe agora também um feedback de que a edição não é possível. É apresentada uma mensagem correspondente quando se move o ponteiro do rato sobre "Editar entrada" na barra de ferramentas.
 
-Para além do controlo de autorização, a nova versão contém também duas melhorias para aumentar a facilidade de utilização: os campos do tipo [URL](https://seatable.io/pt/docs/text-und-zahlen/die-url-spalte/) e [e-mail](https://seatable.io/pt/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/) são agora clicáveis. Isto torna ainda mais rápido aceder a um sítio Web ou escrever uma mensagem de correio eletrónico. (Os ficheiros nas colunas de ficheiros tornam-se clicáveis na versão 5.3.) Pode definir o modo de preenchimento dos elementos de imagem na página. Estão disponíveis três modos: Personalizar, Preencher e Esticar.
+Para além do controlo de autorização, a nova versão contém também duas melhorias para aumentar a facilidade de utilização: os campos do tipo [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) e [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) são agora clicáveis. Isto torna ainda mais rápido aceder a um sítio Web ou escrever uma mensagem de correio eletrónico. (Os ficheiros nas colunas de ficheiros tornam-se clicáveis na versão 5.3.) Pode definir o modo de preenchimento dos elementos de imagem na página. Estão disponíveis três modos: Personalizar, Preencher e Esticar.
 
 ### Tipo de página Formulário
 

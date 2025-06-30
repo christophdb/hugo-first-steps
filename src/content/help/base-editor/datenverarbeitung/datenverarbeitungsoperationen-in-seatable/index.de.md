@@ -12,7 +12,7 @@ Die Datenverarbeitungsfunktion ist ein nützliches Feature von SeaTable, mit dem
 
 ## Sinn hinter Datenverarbeitungsoperationen
 
-SeaTable denkt oft in Zeilen. Zum Beispiel kann eine [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) ausschließlich die Werte in einer Zeile miteinander in Beziehung setzen und auch [Verlinkungen zwischen Tabellen](https://seatable.io/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/) erfolgen immer nur von Zeilen zu Zeilen.
+SeaTable denkt oft in Zeilen. Zum Beispiel kann eine [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) ausschließlich die Werte in einer Zeile miteinander in Beziehung setzen und auch [Verlinkungen zwischen Tabellen]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) erfolgen immer nur von Zeilen zu Zeilen.
 
 Die Datenverarbeitung ist im Gegensatz dazu eine Funktion, um Operationen in einer Spalte über mehrere Zeilen hinweg durchzuführen. Grundsätzlich wird dabei zwischen zwei verschiedenen Arten von Datenverarbeitungsoperationen unterschieden:
 
@@ -47,7 +47,7 @@ Datenverarbeitungsoperationen können derzeit [manuell]({{< relref "help/base-ed
 
 Bei jeder Ausführung der Datenverarbeitungsoperation werden die **Ergebnisse** ohne Rücksicht auf Verluste in die **Ergebnisspalte** geschrieben. Wenn Sie keine Daten überschreiben wollen, sollten Sie für die Ergebnisse im Voraus eine [neue leere Spalte anlegen]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
-Im Gegensatz zu **Formel-Spalten**, die permanent die beteiligten Spalten überwachen, aktualisieren sich die **Ergebnisspalten** _nicht_ von selbst. Änderungen der Werte in der Quellspalte wirken sich ohne [Automation](https://seatable.io/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) oder erneute Ausführung _nicht_ auf die Werte in der Ergebnisspalte aus. Deshalb können Sie die errechneten bzw. in Beziehung gesetzten Werte auch manuell überschreiben.
+Im Gegensatz zu **Formel-Spalten**, die permanent die beteiligten Spalten überwachen, aktualisieren sich die **Ergebnisspalten** _nicht_ von selbst. Änderungen der Werte in der Quellspalte wirken sich ohne [Automation]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}) oder erneute Ausführung _nicht_ auf die Werte in der Ergebnisspalte aus. Deshalb können Sie die errechneten bzw. in Beziehung gesetzten Werte auch manuell überschreiben.
 
 ## Schutz vor Änderungen
 

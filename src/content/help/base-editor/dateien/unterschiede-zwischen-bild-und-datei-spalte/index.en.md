@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/unterschiede-zwischen-bild-und-datei-spalte'
 ---
 
-For the acquisition of **files** and **images**, SeaTable provides you with the two column types of the same name. The [image column]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) is a restricted [file column](https://seatable.io/en/docs/datei-und-bildanhaenge/die-datei-spalte/), because it only accepts special image file formats. This restriction can be very handy in certain use cases.
+For the acquisition of **files** and **images**, SeaTable provides you with the two column types of the same name. The [image column]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) is a restricted [file column]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}), because it only accepts special image file formats. This restriction can be very handy in certain use cases.
 
 ## Image column
 

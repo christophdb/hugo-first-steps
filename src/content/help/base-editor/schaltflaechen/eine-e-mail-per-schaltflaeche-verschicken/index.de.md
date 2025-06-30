@@ -34,7 +34,7 @@ Wählen Sie den/die **Empfänger** der E-Mail aus. Sie können optional auch Emp
 
 ![Legen Sie den/die Empfänger der E-Mail fest. Sie können optional auch noch Empfänger auswählen, die eine Kopie der E-Mail erhalten sollen oder denen Sie mit der E-Mail antworten möchten.](images/send-to-copy-to-reply-to.png)
 
-Optional können Sie der E-Mail noch einen **Anhang** hinzufügen. Beachten Sie jedoch, dass Sie Dateien _nicht_ einfach hochladen können, sondern diese zunächst in einer [Datei-Spalte](https://seatable.io/docs/datei-und-bildanhaenge/die-datei-spalte/) der Tabelle speichern müssen. Im Feld **Anhänge** können Sie im Anschluss eine oder mehrere **Datei-Spalten** auswählen, aus der Sie die Dateien an die E-Mail anhängen möchten.
+Optional können Sie der E-Mail noch einen **Anhang** hinzufügen. Beachten Sie jedoch, dass Sie Dateien _nicht_ einfach hochladen können, sondern diese zunächst in einer [Datei-Spalte]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) der Tabelle speichern müssen. Im Feld **Anhänge** können Sie im Anschluss eine oder mehrere **Datei-Spalten** auswählen, aus der Sie die Dateien an die E-Mail anhängen möchten.
 
 ![Dateien, die Sie in einer Dateispalte Ihrer Tabelle hinzugefügt haben, können Sie als Anhang der E-Mail nutzen](images/file-001.png)
 

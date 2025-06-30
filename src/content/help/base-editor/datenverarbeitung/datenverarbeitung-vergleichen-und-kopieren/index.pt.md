@@ -43,7 +43,7 @@ Para implementar esta operação de processamento de dados, são necessárias **
 
 ![Tabela de exemplo para a manutenção dos dados pessoais dos empregados](images/example-table-employees-and-personal-data-1.png)
 
-Na segunda tabela são introduzidas as **tarefas em aberto**, para as quais o respectivo funcionário responsável é introduzido noutra coluna. Além disso, cria-se uma nova coluna do tipo [e-mail](https://seatable.io/pt/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/), para a qual os endereços de e-mail devem ser copiados mais tarde.
+Na segunda tabela são introduzidas as **tarefas em aberto**, para as quais o respectivo funcionário responsável é introduzido noutra coluna. Além disso, cria-se uma nova coluna do tipo [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}), para a qual os endereços de e-mail devem ser copiados mais tarde.
 
 ![Tabela de destino incluindo a coluna de resultados antes da execução da acção de processamento de dados](images/table-open-tasks-before-data-processing-operation-1.png)
 

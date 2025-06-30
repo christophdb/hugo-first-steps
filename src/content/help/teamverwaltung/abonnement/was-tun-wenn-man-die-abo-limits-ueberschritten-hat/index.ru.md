@@ -21,7 +21,7 @@ url: '/ru/pomoshch/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
 
 ## Переход на более обширный пакет подписки
 
-Чтобы снова иметь возможность полноценно работать со своими данными, вам необходимо [обновить](https://seatable.io/ru/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) подписку на [более полный пакет подписки](https://seatable.io/ru/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Чтобы снова иметь возможность полноценно работать со своими данными, вам необходимо [обновить]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) подписку на [более полный пакет подписки]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Удалить часть своих данных
 

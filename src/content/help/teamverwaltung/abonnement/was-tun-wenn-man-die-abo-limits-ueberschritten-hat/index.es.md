@@ -21,7 +21,7 @@ En nuestra [página de precios]({{< relref "pages/prices" >}}) encontrará un re
 
 ## Cambiar a un paquete de suscripción más amplio
 
-Para poder volver a trabajar plenamente con sus datos, necesita [actualizar](https://seatable.io/es/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) su suscripción a un [paquete de suscripción más completo](https://seatable.io/es/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Para poder volver a trabajar plenamente con sus datos, necesita [actualizar]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) su suscripción a un [paquete de suscripción más completo]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Borrar parte de sus datos
 

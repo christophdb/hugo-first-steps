@@ -75,6 +75,6 @@ sections:
           - text: Die SeaTable Cloud läuft in den zertifizierten deutschen Rechenzentren des schweizer Anbieters Exoscale. Amerikanischen Dienstleister haben wir den Rücken gekehrt.
       buttons:
           - label: Zum Blog-Artikel
-            link: https://seatable.io/die-seatable-cloud-wird-europaeischer/
+            link: 'posts/die-seatable-cloud-wird-europaeischer'
       image: '/images/seatable-1-1024x560-1.png'
 ---

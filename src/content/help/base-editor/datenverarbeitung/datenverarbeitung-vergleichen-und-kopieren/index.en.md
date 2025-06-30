@@ -43,7 +43,7 @@ To implement this data processing operation, you need **two tables in the same B
 
 ![Example table for maintenance of personal data of mtployees](images/example-table-employees-and-personal-data-1.png)
 
-In the second table you enter the **open tasks**, for which the respective responsible employee is entered in another column. In addition, you create a new column of the type [e-mail](https://seatable.io/en/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/), into which the e-mail addresses are to be copied later.
+In the second table you enter the **open tasks**, for which the respective responsible employee is entered in another column. In addition, you create a new column of the type [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}), into which the e-mail addresses are to be copied later.
 
 ![Target table including the result column before the data processing action is executed.](images/table-open-tasks-before-data-processing-operation-1.png)
 

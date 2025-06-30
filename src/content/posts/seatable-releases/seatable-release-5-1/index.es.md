@@ -20,7 +20,7 @@ Esta mañana hemos actualizado SeaTable Cloud a la versión 5.1. Recomendamos a 
 
 Nuestros desarrolladores han revisado los [ajustes de la aplicación](https://seatable.io/es/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) y los han hecho más claros. Entre otras cosas, se ha añadido un menú independiente para la marca de la aplicación, en el que se puede seleccionar el modo, la combinación de colores y el icono de la aplicación. El asistente "Añadir página" también tiene un nuevo diseño de dos páginas.
 
-Páginas de palabras clave: Con SeaTable 5.1, todos los tipos de página ofrecen una función de vista previa de los archivos de imagen en las [columnas de archivos](https://seatable.io/es/docs/dateien-und-bilder/die-datei-spalte/). (Los archivos PDF, Office y de texto se siguen mostrando con un icono de archivo.
+Páginas de palabras clave: Con SeaTable 5.1, todos los tipos de página ofrecen una función de vista previa de los archivos de imagen en las [columnas de archivos]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Los archivos PDF, Office y de texto se siguen mostrando con un icono de archivo.
 
 Si nos fijamos en los distintos tipos de página, la [página individual](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) y la [página de registros de datos individuales](https://seatable.io/es/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) son las que presentan más mejoras. Sin embargo, otros tipos de páginas también pueden esperar mejoras incrementales.
 
@@ -58,7 +58,7 @@ Ahora puede modificar la **anchura de las columnas** de la tabla de resultados p
 
 La funcionalidad de big data no es tan nueva como el App Builder. Basándonos en la experiencia en proyectos de big data y en los valiosos comentarios de nuestros usuarios, hemos introducido mejoras en SeaTable 5.1 en términos de facilidad de uso, integración y supervisión.
 
-La novedad más llamativa es probablemente **la ampliación de los menús contextuales de las columnas** en [las vistas de big data](https://seatable.io/es/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). Ahora ofrecen una gama de funciones similar a la de los menús contextuales de las vistas normales. Sólo las funciones irrelevantes para big data no están disponibles.
+La novedad más llamativa es probablemente **la ampliación de los menús contextuales de las columnas** en [las vistas de big data]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}). Ahora ofrecen una gama de funciones similar a la de los menús contextuales de las vistas normales. Sólo las funciones irrelevantes para big data no están disponibles.
 
 Casi igual de notable es el **aviso amarillo** que aparece en las vistas normales en las columnas de enlace si la tabla enlazada contiene filas en el almacén de big data. El aviso aclara que las entradas enlazadas en el almacén de big data no son visibles en la celda de la columna de enlace. Si desea visualizarlas, haga clic en el icono para abrir la lista de entradas enlazadas.
 

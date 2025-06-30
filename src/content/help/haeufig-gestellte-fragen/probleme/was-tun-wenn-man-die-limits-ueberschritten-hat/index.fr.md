@@ -16,7 +16,7 @@ Pour pouvoir continuer à modifier vos bases et à y ajouter des données, vous 
 
 1. **Supprimer** une partie de vos données (bases, tables, groupes, etc.) pour libérer de l'espace de stockage jusqu'à ce que vos limites ne soient plus dépassées. Un **Aperçu** sur les limites de mémoire que vous utilisez actuellement se trouve dans le menu déroulant de la page d'accueil.  
    ![Aperçu des limites actuellement atteintes](images/show-current-limits.gif)
-2. [Passez à un abonnement](https://seatable.io/fr/docs/abo-abrechnung/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen/#aktuelles_abo_anpassen) qui vous accorde des limites plus élevées.
+2. [Passez à un abonnement]({{< relref "help/teamverwaltung/abonnement/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen" >}}) qui vous accorde des limites plus élevées.
 
 {{< warning headline="Abonnements" >}}
 

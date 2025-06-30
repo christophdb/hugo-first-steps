@@ -43,7 +43,11 @@ You can **delete** both **external links** and **invitation links** at any time 
 7. Confirm the deletion by activating the **Controller** and click on **Delete invitation link** (for invitation links) resp. **Delete share** (for external links).  
    ![Confirm the deletion](images/confirm-delete-invitation-and-external-links-way2.jpg)
 
-{{< warning  headline="Works only with base links"  text="You cannot delete an [external link for a view](https://seatable.io/en/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/) via the team management, but only via the share icon for views." />}}
+{{< warning  headline="Works only with base links" >}}
+
+You cannot delete an [external link for a view]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) via the team management, but only via the share icon for views.
+
+{{< /warning >}}
 
 ## Consequences of the deletion
 
@@ -57,7 +61,11 @@ If users try to open a **deleted** invitation link, the following **error messag
 
 Consequently, after deleting the invitation link, **no other users** can get access to the shared base.
 
-{{< warning  headline="Invited users retain access"  text="Users who accepted your invitation before the link was deleted can still access the shared base and are listed in the [user shares](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/). However, you can delete the share there, of course." />}}
+{{< warning headline="Invited users retain access" >}}
+
+Users who accepted your invitation before the link was deleted can still access the shared base and are listed in the [user shares]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). However, you can delete the share there, of course.
+
+{{< /warning >}}
 
 ### Deletion of an external link
 

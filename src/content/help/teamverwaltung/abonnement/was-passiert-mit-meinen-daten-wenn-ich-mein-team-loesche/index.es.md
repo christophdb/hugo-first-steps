@@ -25,4 +25,4 @@ Si elimina su equipo como administrador del mismo, su **cuenta**, su **equipo** 
 
 Nuestro sistema de facturación en particular es especial porque, una vez que usted ha registrado un pago, no podemos borrar todos sus datos. En principio, sin embargo, accederemos a su solicitud de supresión de datos e intentaremos eliminar la mayor cantidad posible de sus datos. Puede encontrar más detalles sobre el sistema que utilizamos en nuestra [política de protección de datos](https://seatable.io/es/datenschutz/).
 
-**Antes de** eliminar un equipo, piense detenidamente si todavía necesita los datos de su equipo. Si no está seguro, es mejor [cancelar la suscripción](https://seatable.io/es/docs/abo-abrechnung/das-abo-kuendigen/) y volver a la versión gratuita de SeaTable Cloud.
+**Antes de** eliminar un equipo, piense detenidamente si todavía necesita los datos de su equipo. Si no está seguro, es mejor [cancelar la suscripción]({{< relref "help/teamverwaltung/abonnement/das-abo-kuendigen" >}}) y volver a la versión gratuita de SeaTable Cloud.

@@ -15,7 +15,7 @@ A normal view in SeaTable allows **collaborative** work **in real time** for **u
 Big data storage offers you largely **unlimited storage of rows**, but also comes with certain restrictions. You can find an overview of the **restrictions** below:
 
 - Changes to a Big Data entry are **not** **synchronized** in **real time** in another user's browser. The changes are only visible to other users after a **reload** of the page.
-- You **cannot share** Big Data views - neither individually nor with [user-defined sharing authorizations](https://seatable.io/en/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+- You **cannot share** Big Data views - neither individually nor with [user-defined sharing authorizations]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).
 - You **cannot create new rows** in a big data view. This must always be done in a [normal view]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) .
 - In a Big Data view, you cannot [customize]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) edit columns.
 - You **cannot change**[linked entries]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) in big data entries. Links to rows in the big data storage are **not displayed** in normal views - but are displayed in a big data view.

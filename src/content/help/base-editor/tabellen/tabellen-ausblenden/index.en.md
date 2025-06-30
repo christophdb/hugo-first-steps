@@ -18,4 +18,8 @@ The base header can become confusing, especially for bases with a large number o
 
 You can **work** in a hidden table in the same way as in a visible table **without any restrictions**. If you want to **show** a table in the base header again, proceed in exactly the same way as described in the instructions above.
 
-{{< warning  headline="Tip"  text="By the way, you can also [move](https://seatable.io/en/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) tables [using drag-and-drop](https://seatable.io/en/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) so that your most frequently used tables are always ready to hand on the left in the base header." />}}
+{{< warning  headline="Tip" >}}
+
+By the way, you can also [move]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) tables [using drag-and-drop]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) so that your most frequently used tables are always ready to hand on the left in the base header.
+
+{{< /warning >}}

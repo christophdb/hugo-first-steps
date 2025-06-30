@@ -18,4 +18,8 @@ La cabecera de la base puede resultar confusa, especialmente para bases con un g
 
 Puede **trabajar** en una tabla oculta del mismo modo que en una tabla visible, **sin ninguna restricción**. Si desea volver a **mostrar** una tabla en la cabecera base, proceda exactamente del mismo modo que se describe en las instrucciones anteriores.
 
-{{< warning  headline="Consejo"  text="Por cierto, también puedes [mover](https://seatable.io/es/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) las tablas [arrastrándolas y soltándolas](https://seatable.io/es/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) para que las que utilices con más frecuencia estén siempre a mano a la izquierda en la cabecera base." />}}
+{{< warning  headline="Consejo" >}}
+
+Por cierto, también puedes [mover]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) las tablas [arrastrándolas y soltándolas]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) para que las que utilices con más frecuencia estén siempre a mano a la izquierda en la cabecera base.
+
+{{< /warning >}}

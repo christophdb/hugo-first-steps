@@ -15,7 +15,7 @@ Una vista normal en SeaTable permite trabajar **en colaboración** **en tiempo r
 El almacenamiento de big data le ofrece **un almacenamiento de filas** en gran medida **ilimitado**, pero también viene con ciertas limitaciones. A continuación encontrará un resumen de las **restricciones**:
 
 - Los cambios realizados en una entrada de Big Data **no** **se sincronizan** en tiempo real en el navegador de otro usuario. Los cambios sólo son visibles para otros usuarios tras una **recarga** de la página.
-- No **se pueden compartir** vistas de Big Data, ni individualmente ni con [autorizaciones de uso compartido definidas por el usuario](https://seatable.io/es/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+- No **se pueden compartir** vistas de Big Data, ni individualmente ni con [autorizaciones de uso compartido definidas por el usuario]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).
 - **No se pueden** crear **nuevas filas** en una vista de big data. Esto debe hacerse siempre en una [vista normal]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) ninguna fila.
 - En una vista de big data, no se puede [ajustar]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}).
 - **No se pueden modificar** las entradas [enlazadas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) en las entradas de big data. Los enlaces a filas de la memoria de big data **no se muestran** en las vistas normales, pero sí en una vista de big data.

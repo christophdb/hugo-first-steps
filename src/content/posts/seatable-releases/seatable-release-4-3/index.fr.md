@@ -83,7 +83,7 @@ Si vous utilisez les deux applications en cours d'exécution, nous vous recomman
 
 ## Et bien plus encore
 
-Lorsque vous [envoyiez des e-mails par automatisation](https://seatable.io/fr/docs/beispiel-automationen/e-mail-versand-per-automation/), vous ne pouviez jusqu'à présent saisir votre message qu'en **texte brut** dans le champ de texte. À partir de SeaTable 4.3, il est possible, comme pour l'envoi d'e-mails via des boutons, de rédiger les messages au **format texte enrichi ou HTML**. Il suffit pour cela d'activer le curseur situé à droite au-dessus du champ de texte.
+Lorsque vous [envoyiez des e-mails par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}), vous ne pouviez jusqu'à présent saisir votre message qu'en **texte brut** dans le champ de texte. À partir de SeaTable 4.3, il est possible, comme pour l'envoi d'e-mails via des boutons, de rédiger les messages au **format texte enrichi ou HTML**. Il suffit pour cela d'activer le curseur situé à droite au-dessus du champ de texte.
 
 ![Texte riche dans les messages électroniques automatisés](Rich-text-in-automated-e-mail-messages.png)
 

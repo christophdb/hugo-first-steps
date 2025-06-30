@@ -21,7 +21,7 @@ If you do not find what you are looking for in the user manual, you can post you
 Customers with a paid Plus or Enterprise subscription also have the option to open a support ticket. More details can be found in the following help articles:
 
 - [Open a support ticket](https://seatable.io/en/docs/teamverwaltung/ein-support-ticket-eroeffnen/).
-- [Plus or Enterprise subscription](https://seatable.io/en/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+- [Plus or Enterprise subscription]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Further sources of help for self-study
 

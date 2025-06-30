@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/ru/pomoshch/nach-einer-tabelle-suchen'
 ---
 
-Для баз с большим количеством таблиц не все **вкладки** могут быть отображены **в заголовке базы**. Даже [скрытые таблицы](https://seatable.io/ru/docs/arbeiten-in-tabellen/tabellen-ausblenden/) больше не могут быть найдены в заголовке базы. Поэтому SeaTable предлагает возможность поиска **таблицы**.
+Для баз с большим количеством таблиц не все **вкладки** могут быть отображены **в заголовке базы**. Даже [скрытые таблицы]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) больше не могут быть найдены в заголовке базы. Поэтому SeaTable предлагает возможность поиска **таблицы**.
 
 ![Поиск таблицы](images/Search-for-a-table.png)
 
@@ -20,4 +20,8 @@ url: '/ru/pomoshch/nach-einer-tabelle-suchen'
 
 ![Найдите таблицу в заголовке базы с помощью клавиш со стрелками](images/Tabelle-im-Base-Header-mit-Pfeiltasten-finden.gif)
 
-{{< warning  headline="Совет"  text="Вы также можете [перемещать](https://seatable.io/ru/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) таблицы [с помощью перетаскивания](https://seatable.io/ru/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/), чтобы наиболее часто используемые таблицы всегда были под рукой слева в заголовке базы." />}}
+{{< warning  headline="Совет" >}}
+
+Вы также можете [перемещать]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) таблицы [с помощью перетаскивания]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}), чтобы наиболее часто используемые таблицы всегда были под рукой слева в заголовке базы.
+
+{{< /warning >}}

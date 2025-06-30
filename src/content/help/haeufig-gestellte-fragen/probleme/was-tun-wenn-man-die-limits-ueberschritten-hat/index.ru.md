@@ -16,7 +16,7 @@ url: '/ru/pomoshch/was-tun-wenn-man-die-limits-ueberschritten-hat'
 
 1. **Удалить** часть данных (базы, таблицы, группы и т.д.), чтобы освободить место для хранения, пока лимиты не будут превышены. A **Обзор** о лимитах памяти, которые вы используете в данный момент, можно найти в выпадающем меню на стартовой странице.  
    ![Обзор достигнутых в настоящее время лимитов](images/show-current-limits.gif)
-2. [Перейдите на подписку](https://seatable.io/ru/docs/abo-abrechnung/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen/#aktuelles_abo_anpassen), которая предоставляет вам более высокие лимиты.
+2. [Перейдите на подписку]({{< relref "help/teamverwaltung/abonnement/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen" >}}), которая предоставляет вам более высокие лимиты.
 
 {{< warning headline="Подписки" >}}
 

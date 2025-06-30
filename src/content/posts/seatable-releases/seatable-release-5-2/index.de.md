@@ -40,7 +40,7 @@ In den Seiteneinstellungen dieses Seitentyps findet sich ab SeaTable 5.2 die Fun
 
 Bei [gesperrten Datensätzen](https://seatable.io/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) erhält der Benutzer nun auch eine Rückmeldung, dass die Bearbeitung nicht möglich ist. Ein entsprechender Hinweis wird eingeblendet, wenn Sie den Mauszeiger in der Toolbar auf “Eintrag bearbeiten” bewegen.
 
-Neben der Berechtigungssteuerung enthält die neue Version auch noch zwei Verbesserungen zur Steigerung der Nutzerfreundlichkeit: Felder vom Typ [URL](https://seatable.io/docs/text-und-zahlen/die-url-spalte/) und [E-Mail](https://seatable.io/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/) sind ab sofort klickbar. Der Aufruf einer Webseite oder das Schreiben einer E-Mail geht so noch schneller. (Dateien in Dateispalten werden in der Version 5.3 klickbar.) Bei Bild-Elementen auf der Seite können Sie den Füllmodus einstellen. Drei Modi stehen Ihnen zur Verfügung: Anpassen, ausfüllen und dehnen.
+Neben der Berechtigungssteuerung enthält die neue Version auch noch zwei Verbesserungen zur Steigerung der Nutzerfreundlichkeit: Felder vom Typ [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) und [E-Mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) sind ab sofort klickbar. Der Aufruf einer Webseite oder das Schreiben einer E-Mail geht so noch schneller. (Dateien in Dateispalten werden in der Version 5.3 klickbar.) Bei Bild-Elementen auf der Seite können Sie den Füllmodus einstellen. Drei Modi stehen Ihnen zur Verfügung: Anpassen, ausfüllen und dehnen.
 
 ### Seitentyp Formular
 

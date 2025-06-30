@@ -12,7 +12,7 @@ url: '/help/zahlungsmethoden-seatable'
 
 SeaTable currently offers two payment methods. Payment by **credit card** is the payment method that is used in the vast majority of cases. Thanks to our payment service provider [Stripe](https://stripe.com), we accept payments by Visa, Mastercard, American Express, China UnionPay, Discover, Diners and Cartes Bancaires.
 
-The second possible payment method is **payment** by invoice, which is only possible under certain conditions. You can find out what these are in the help article [Payment by invoice](https://seatable.io/en/docs/abo-abrechnung/bezahlung-per-rechnung/).
+The second possible payment method is **payment** by invoice, which is only possible under certain conditions. You can find out what these are in the help article [Payment by invoice]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}).
 
 ## How can I see which payment method is currently being used?
 
@@ -27,6 +27,6 @@ The second possible payment method is **payment** by invoice, which is only poss
 1. Open the **team management**.
 2. Click on **Subscription**.
 3. Click on **"Customize payment method"**.
-4. You can now add a **new credit card** as a payment method. You can find out how and under what conditions you can activate **payment by invoice** in this [article](https://seatable.io/en/docs/abo-abrechnung/bezahlung-per-rechnung/).
+4. You can now add a **new credit card** as a payment method. You can find out how and under what conditions you can activate **payment by invoice** in this [article]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}).
 
 ![You can change your payment method at any time in the Subscription tab in the team administration](images/Zahlungsmethode-aendern.jpg)

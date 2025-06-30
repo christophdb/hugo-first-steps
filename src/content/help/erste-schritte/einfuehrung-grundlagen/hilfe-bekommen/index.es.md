@@ -21,7 +21,7 @@ Si no encuentra lo que busca en el manual de usuario, puede publicar su pregunta
 Los clientes con una suscripción de pago Plus o Enterprise también tienen la opción de abrir un ticket de soporte. Encontrará más información en los siguientes artículos de ayuda:
 
 - [Abra un ticket de soporte](https://seatable.io/es/docs/teamverwaltung/ein-support-ticket-eroeffnen/).
-- [Suscripción Plus o Enterprise](https://seatable.io/es/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+- [Suscripción Plus o Enterprise]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Otras fuentes de ayuda para el autoaprendizaje
 

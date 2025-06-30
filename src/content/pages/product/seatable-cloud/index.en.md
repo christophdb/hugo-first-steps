@@ -75,6 +75,6 @@ sections:
           - text: SeaTable Cloud runs in the certified German data centers of the Swiss provider Exoscale. We have turned our backs on American service providers.
       buttons:
           - label: Read the blog article
-            link: https://seatable.io/die-seatable-cloud-wird-europaeischer/
+            link: 'posts/die-seatable-cloud-wird-europaeischer'
       image: '/images/seatable-1-1024x560-1.png'
 ---

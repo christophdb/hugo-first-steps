@@ -34,7 +34,7 @@ Sélectionnez le(s) **destinataire** (s) de l'e-mail. Vous pouvez également sé
 
 ![Définissez le(s) destinataire(s) de l'e-mail. Vous pouvez également choisir les destinataires qui recevront une copie de l'e-mail ou à qui vous souhaitez répondre par e-mail.](images/send-to-copy-to-reply-to.png)
 
-En option, vous pouvez encore ajouter une **pièce jointe** au courriel. Notez toutefois que vous ne pouvez _pas_ simplement télécharger des fichiers, mais que vous devez d'abord les enregistrer dans une [colonne de fichiers](https://seatable.io/fr/docs/datei-und-bildanhaenge/die-datei-spalte/) du tableau. Dans le champ **Pièces jointes**, vous pouvez ensuite sélectionner une ou plusieurs **colonnes de fichiers** à partir desquelles vous souhaitez joindre les fichiers au courriel.
+En option, vous pouvez encore ajouter une **pièce jointe** au courriel. Notez toutefois que vous ne pouvez _pas_ simplement télécharger des fichiers, mais que vous devez d'abord les enregistrer dans une [colonne de fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) du tableau. Dans le champ **Pièces jointes**, vous pouvez ensuite sélectionner une ou plusieurs **colonnes de fichiers** à partir desquelles vous souhaitez joindre les fichiers au courriel.
 
 ![Les fichiers que vous avez ajoutés dans une colonne de fichier de votre tableau peuvent être utilisés comme pièces jointes du courriel.](images/file-001.png)
 

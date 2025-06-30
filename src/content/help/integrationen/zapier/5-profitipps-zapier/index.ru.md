@@ -12,7 +12,7 @@ Zapier позволяет вам создать интерфейс между Se
 
 ## 1\. доступ к содержимому связанной таблицы с помощью столбцов поиска
 
-SeaTable позволяет связывать записи в двух таблицах. Более подробную информацию см. в [этой справочной статье](https://seatable.io/ru/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
+SeaTable позволяет связывать записи в двух таблицах. Более подробную информацию см. в [этой справочной статье]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}).
 
 ![Связи в SeaTable](images/zapier-linked-columns.png)
 

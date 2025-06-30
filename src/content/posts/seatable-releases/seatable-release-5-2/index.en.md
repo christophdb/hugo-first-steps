@@ -40,7 +40,7 @@ As of SeaTable 5.2, the page settings for this page type include the **Preset re
 
 For [locked data records](https://seatable.io/en/docs/arbeiten-mit-zeilen/sperren-einer-zeile/), the user now also receives feedback that editing is not possible. A corresponding message is displayed when you move the mouse pointer over "Edit entry" in the toolbar.
 
-In addition to the authorization control, the new version also contains two improvements to increase user-friendliness: fields of type [URL](https://seatable.io/en/docs/text-und-zahlen/die-url-spalte/) and [e-mail](https://seatable.io/en/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/) are now clickable. This makes calling up a website or writing an e-mail even faster. (Files in file columns become clickable in version 5.3.) You can set the fill mode for image elements on the page. Three modes are available: Fit, Fill and Stretch.
+In addition to the authorization control, the new version also contains two improvements to increase user-friendliness: fields of type [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) and [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) are now clickable. This makes calling up a website or writing an e-mail even faster. (Files in file columns become clickable in version 5.3.) You can set the fill mode for image elements on the page. Three modes are available: Fit, Fill and Stretch.
 
 ### Page type Form
 

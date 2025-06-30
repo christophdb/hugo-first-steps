@@ -40,4 +40,4 @@ Sometimes a picture is worth a thousand words. SeaTable also allows you to use e
 
 ![Emojis in table name](images/emojis-seatable-table-name.png)
 
-You can find detailed instructions in the article [Using emojis in table names](https://seatable.io/en/docs/arbeiten-in-tabellen/verwendung-von-emojis-im-tabellennamen/).
+You can find detailed instructions in the article [Using emojis in table names]({{< relref "help/base-editor/tabellen/verwendung-von-emojis-im-tabellennamen" >}}).

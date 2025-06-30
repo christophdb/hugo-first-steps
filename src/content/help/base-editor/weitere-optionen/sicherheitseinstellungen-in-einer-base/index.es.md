@@ -62,7 +62,7 @@ Si este ajuste está **activado**, los iconos correspondientes para añadir, edi
 
 ## Configuración de seguridad: Usuarios compartidos
 
-La segunda parte de la configuración de seguridad se refiere a los permisos de los **usuarios** a los que se [libera](https://seatable.io/es/docs/freigaben/anlegen-einer-benutzerfreigabe/) la [base](https://seatable.io/es/docs/freigaben/anlegen-einer-benutzerfreigabe/) correspondiente. En esta parte, puede realizar los **mismos** ajustes que ya están disponibles para todos los usuarios en la primera parte:
+La segunda parte de la configuración de seguridad se refiere a los permisos de los **usuarios** a los que se [libera]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) la [base]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) correspondiente. En esta parte, puede realizar los **mismos** ajustes que ya están disponibles para todos los usuarios en la primera parte:
 
 ![Configuración de seguridad para usuarios autorizados](images/Security-settings-for-shared-users.png)
 

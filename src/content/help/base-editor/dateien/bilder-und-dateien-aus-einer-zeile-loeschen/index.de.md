@@ -30,4 +30,8 @@ SeaTable erlaubt das **Löschen** von **Dateien** und **Bildern** auf verschiede
 
 ![Löschen von Anhängen.](images/Loeschen-von-Anhaengen.gif)
 
-{{< warning  type="warning" headline="Achtung"  text="Gelöschte Bilder und Dateien sind weiterhin Teil der Base und somit **nicht** endgültig gelöscht. Lesen Sie hierzu die Artikel [Zugriff auf gelöschte Dateien und Bilder](https://seatable.io/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) und [Wie man Dateien dauerhaft entfernt](https://seatable.io/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  type="warning" headline="Achtung" >}}
+
+Gelöschte Bilder und Dateien sind weiterhin Teil der Base und somit **nicht** endgültig gelöscht. Lesen Sie hierzu die Artikel [Zugriff auf gelöschte Dateien und Bilder]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) und [Wie man Dateien dauerhaft entfernt]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}

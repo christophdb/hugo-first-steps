@@ -135,7 +135,7 @@ O software de base de dados sem código **SeaTable** já tem um [modelo de lista
 3. Leia a [descrição de base](https://seatable.io/pt/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) e obtenha uma visão geral.
 4. [Eliminar os dados de amostra](https://seatable.io/pt/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) e preencher os quadros com o seu próprio inventário.
 
-Se quiser criar o seu próprio inventário, pode **adicionar ou eliminar qualquer número de colunas nas tabelas** ou [começar com uma base completamente nova](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). Pode depois [partilhar](https://seatable.io/pt/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) a sua lista de inventário com todos os membros da sua equipa. E é tudo. Nada impede o seu inventário.
+Se quiser criar o seu próprio inventário, pode **adicionar ou eliminar qualquer número de colunas nas tabelas** ou [começar com uma base completamente nova](https://seatable.io/pt/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). Pode depois [partilhar]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) a sua lista de inventário com todos os membros da sua equipa. E é tudo. Nada impede o seu inventário.
 
 ## Quais são as vantagens do SeaTable?
 

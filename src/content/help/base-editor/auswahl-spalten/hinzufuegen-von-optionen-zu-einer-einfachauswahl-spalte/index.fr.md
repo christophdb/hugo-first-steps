@@ -39,7 +39,7 @@ Vous pouvez ajouter diverses **options** à une colonne de sélection simple, pa
 
 Outre la **saisie manuelle**, vous pouvez également exporter facilement des options à partir d'une colonne de sélection simple existante et **les importer** dans une autre colonne de ce type. Cela s'avère très utile si vous souhaitez toujours utiliser **les mêmes options** à travers différentes colonnes.
 
-Pour en savoir plus, consultez l'article Exporter [et importer des options dans des colonnes de sélection simples ou multiples](https://seatable.io/fr/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/).
+Pour en savoir plus, consultez l'article Exporter [et importer des options dans des colonnes de sélection simples ou multiples]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).
 
 ## Couleurs des options de sélection
 
@@ -47,11 +47,11 @@ Pour rendre l'affichage des données plus clair au sein d'un tableau, SeaTable a
 
 ![Couleurs des options de sélection](images/Farben-der-Optionen-einer-Einfachauswahlspalte-anpassen.png)
 
-Avec un [abonnement Enterprise](https://seatable.io/fr/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), vous avez en outre la possibilité de créer [vos propres couleurs](https://seatable.io/fr/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) pour vos options de sélection.
+Avec un [abonnement Enterprise]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}), vous avez en outre la possibilité de créer [vos propres couleurs]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) pour vos options de sélection.
 
 ## Autres articles utiles sur le thème des colonnes à sélection simple
 
 - [Création d'une colonne de sélection simple]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Modifier l'ordre des options de sélection simple](https://seatable.io/fr/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
-- [Définir un cascadage pour une colonne de sélection simple](https://seatable.io/fr/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
-- [Exporter et importer des options de sélection simple](https://seatable.io/fr/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)
+- [Modifier l'ordre des options de sélection simple]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}})
+- [Définir un cascadage pour une colonne de sélection simple]({{< relref "help/base-editor/auswahl-spalten/kaskadierung-einer-einfachauswahl" >}})
+- [Exporter et importer des options de sélection simple]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}})

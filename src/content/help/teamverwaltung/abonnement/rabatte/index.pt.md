@@ -14,7 +14,7 @@ O SeaTable concede às instituições públicas um desconto de 25%, às organiza
 
 ## Pedir desconto
 
-Se ainda não registou uma equipa em cloud.seatable.io, comece por [se registar]({{< relref "pages/registration" >}}). Crie sempre primeiro uma equipa com a [subscrição](https://seatable.io/pt/docs/abo-abrechnung/abo-pakete/) gratuita. Depois, proceda da seguinte forma:
+Se ainda não registou uma equipa em cloud.seatable.io, comece por [se registar]({{< relref "pages/registration" >}}). Crie sempre primeiro uma equipa com a [subscrição]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}) gratuita. Depois, proceda da seguinte forma:
 
 1. Abrir a [administração da equipa](https://account.seatable.io).
 2. Mudar para a secção **Assinatura**.

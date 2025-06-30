@@ -34,7 +34,7 @@ Bei der Verwendung der Spalte macht es Sinn, die Einträge **kurz** zu halten, d
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Beachten Sie, dass für Einträge in der regulären Text-Spalte **keine Formatierungsoptionen** zur Verfügung stehen." />}}
 
-Es gibt in SeaTable zwei weitere textbasierte Spaltentypen für spezielle Anwendungsfälle: die [E-Mail-Spalte](https://seatable.io/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/) und die [URL-Spalte](https://seatable.io/docs/text-und-zahlen/die-url-spalte/).
+Es gibt in SeaTable zwei weitere textbasierte Spaltentypen für spezielle Anwendungsfälle: die [E-Mail-Spalte]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) und die [URL-Spalte]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}).
 
 ### Standardwert festlegen
 

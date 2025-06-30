@@ -12,7 +12,7 @@ Mithilfe einer **Schaltfläche** können Sie PDF-Dokumente in Datei-Spalten spei
 
 ## PDF-Dokumente per Schaltfläche in einer Spalte speichern
 
-Schaltflächen ermöglichen es Ihnen, PDF-Dokumente in den [Datei-Spalten](https://seatable.io/docs/datei-und-bildanhaenge/die-datei-spalte/) Ihrer Tabellen zu speichern. Die Aktion steht Ihnen beim Erstellen einer Schaltfläche zur Verfügung, sobald Sie in der entsprechenden Tabelle das [Seitendesign-Plugin](https://seatable.io/?post_type=docs&p=19223) eingerichtet haben.
+Schaltflächen ermöglichen es Ihnen, PDF-Dokumente in den [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) Ihrer Tabellen zu speichern. Die Aktion steht Ihnen beim Erstellen einer Schaltfläche zur Verfügung, sobald Sie in der entsprechenden Tabelle das [Seitendesign-Plugin](https://seatable.io/?post_type=docs&p=19223) eingerichtet haben.
 
 Im ersten Schritt benennen Sie die **Spalte** und legen die **Beschriftung** und **Farbe** des Buttons fest, den Sie Ihren Zeilen hinzufügen möchten.
 

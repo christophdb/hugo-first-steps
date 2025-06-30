@@ -135,7 +135,7 @@ El software de base de datos sin código **SeaTable** ya tiene preparada para us
 3. Lea la [descripción básica](https://seatable.io/es/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) y obtenga una visión general.
 4. [Borre los datos de la muestra](https://seatable.io/es/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) y rellene las tablas con su propio inventario.
 
-Si desea crear su propio inventario, puede **añadir o eliminar cualquier número de columnas en las tablas** o [empezar con una base completamente nueva](https://seatable.io/es/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). A continuación, puedes [compartir](https://seatable.io/es/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) tu lista de inventario con todos los miembros de tu equipo. Y ya está. Nada se interpone en el camino de tu inventario.
+Si desea crear su propio inventario, puede **añadir o eliminar cualquier número de columnas en las tablas** o [empezar con una base completamente nueva](https://seatable.io/es/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). A continuación, puedes [compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) tu lista de inventario con todos los miembros de tu equipo. Y ya está. Nada se interpone en el camino de tu inventario.
 
 ## ¿Cuáles son las ventajas de SeaTable?
 

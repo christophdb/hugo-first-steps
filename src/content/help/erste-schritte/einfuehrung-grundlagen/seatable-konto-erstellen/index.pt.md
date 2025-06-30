@@ -21,7 +21,7 @@ Estamos satisfeitos por estar interessado no SeaTable! O registo de uma nova con
 
 {{< warning headline="Não é necessária informação sobre pagamento" >}}
 
-Com o SeaTable Cloud, cada equipa começa sempre com a assinatura gratuita. Por conseguinte, não tem de fornecer qualquer informação de pagamento. Naturalmente, pode [actualizar](https://seatable.io/pt/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) a sua equipa para uma [subscrição Plus ou Enterprise](https://seatable.io/pt/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) imediatamente após o primeiro login.
+Com o SeaTable Cloud, cada equipa começa sempre com a assinatura gratuita. Por conseguinte, não tem de fornecer qualquer informação de pagamento. Naturalmente, pode [actualizar]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) a sua equipa para uma [subscrição Plus ou Enterprise]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) imediatamente após o primeiro login.
 
 {{</ warning >}}
 

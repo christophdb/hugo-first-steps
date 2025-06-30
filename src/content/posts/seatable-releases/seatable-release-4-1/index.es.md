@@ -12,7 +12,7 @@ seo:
 
 Las vacaciones de verano están llegando a su fin y esperamos que haya disfrutado del tiempo libre. Mientras otros se tiraban a la piscina o descansaban, nuestros desarrolladores trabajaban duro para crear **la versión 4.1 de SeaTable**.
 
-¿Utiliza ya procesos automatizados en sus bases para ahorrar tiempo y clics? Entonces le gustará que hayamos refinado las opciones y mejorado el rendimiento de las [automatizaciones](https://seatable.io/es/docs/automationen/uebersicht-ueber-automationen/). Los usuarios intensivos de SeaTable estarán especialmente satisfechos con el mayor límite de ejecución. La [gestión de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) introducida en la versión 4.0 le ofrece ahora dos funciones más que simplifican el trabajo con archivos.
+¿Utiliza ya procesos automatizados en sus bases para ahorrar tiempo y clics? Entonces le gustará que hayamos refinado las opciones y mejorado el rendimiento de las [automatizaciones](https://seatable.io/es/docs/automationen/uebersicht-ueber-automationen/). Los usuarios intensivos de SeaTable estarán especialmente satisfechos con el mayor límite de ejecución. La [gestión de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) introducida en la versión 4.0 le ofrece ahora dos funciones más que simplifican el trabajo con archivos.
 
 El desarrollo del [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) avanza a pasos agigantados: SeaTable 4.1 incorpora nuevas funciones para que pueda diferenciar con mayor precisión los permisos de usuario y la visualización de datos en las aplicaciones. Además, hemos mejorado o añadido muchas funciones menores en SeaTable 4.1. Compruébelo usted mismo: ¡la lista es larga y muy agradable!
 
@@ -34,7 +34,7 @@ Cada automatización está sujeta a un límite [de ejecución](https://seatable.
 
 ## Papelera de reciclaje y función de búsqueda en el gestor de archivos
 
-La [gestión de](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) archivos introducida en SeaTable 4.0 ha revolucionado el manejo de archivos en SeaTable. En la versión 4.1 se añadieron dos funciones más: una **papelera de reciclaje** y una **búsqueda**.
+La [gestión de]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) archivos introducida en SeaTable 4.0 ha revolucionado el manejo de archivos en SeaTable. En la versión 4.1 se añadieron dos funciones más: una **papelera de reciclaje** y una **búsqueda**.
 
 Gracias a la papelera de reciclaje, los archivos borrados por error no se pierden permanentemente, sino que pueden restaurarse. Los archivos borrados permanecen en la papelera de reciclaje durante **60 días** antes de ser eliminados definitivamente del sistema. Si se desea que los archivos desaparezcan de la papelera de reciclaje más rápidamente, ésta también se puede vaciar manualmente.
 

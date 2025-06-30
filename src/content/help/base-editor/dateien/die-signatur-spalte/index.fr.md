@@ -42,11 +42,15 @@ Si vous n'êtes pas satisfait de la signature que vous avez enregistrée et que 
 
 ![Signer à nouveau dans le panneau de signature](images/resign.jpg)
 
-{{< warning  headline="Fichier non supprimé"  text="La signature d'origine reste toutefois accessible dans le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de la base en tant que fichier PNG, si vous l'aviez déjà enregistrée." />}}
+{{< warning  headline="Fichier non supprimé" >}}
+
+La signature d'origine reste toutefois accessible dans le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la base en tant que fichier PNG, si vous l'aviez déjà enregistrée.
+
+{{< /warning >}}
 
 ## Signatures numériques dans le gestionnaire de fichiers
 
-Chaque signature déposée est également enregistrée dans le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de votre base sous forme de fichier PNG dans un **dossier système**.
+Chaque signature déposée est également enregistrée dans le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de votre base sous forme de fichier PNG dans un **dossier système**.
 
 ![Dossier dans la gestion de fichiers de votre base, dans lequel vos signatures sont enregistrées ](images/stored-signatures-in-filemanagement.jpg)
 

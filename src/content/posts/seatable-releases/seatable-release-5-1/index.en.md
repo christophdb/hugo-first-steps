@@ -20,7 +20,7 @@ This morning we updated SeaTable Cloud to version 5.1. We recommend all administ
 
 Our developers have revised the [app settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) and made them clearer. Among other things, a separate menu has been added for the branding of the app, in which the mode, the color scheme and the app icon can be selected. The 'Add page' wizard also has a new, two-page layout.
 
-Keyword pages: With SeaTable 5.1, all page types offer a preview function for image files in [file columns](https://seatable.io/en/docs/dateien-und-bilder/die-datei-spalte/). (Previously, only [image columns](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) offered such thumbnails.) PDF, Office and text files are still displayed with a file icon.
+Keyword pages: With SeaTable 5.1, all page types offer a preview function for image files in [file columns]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Previously, only [image columns]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) offered such thumbnails.) PDF, Office and text files are still displayed with a file icon.
 
 Looking at the individual page types, the [individual page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) and the [page for individual data records](https://seatable.io/en/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) stand out with the most improvements. However, other page types can also look forward to incremental improvements.
 
@@ -58,7 +58,7 @@ You can now change the **column width** in the results table to optimize the dis
 
 The big data functionality is not quite as new as the App Builder. Based on big data project experience and valuable feedback from our users, we have made improvements to SeaTable 5.1 in terms of user-friendliness, integration and monitoring.
 
-The most striking new feature is probably **the extended column context menus** in [big data views](https://seatable.io/en/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). These now offer a similar range of functions to the context menus in normal views. Only functions that are irrelevant for big data are not available.
+The most striking new feature is probably **the extended column context menus** in [big data views]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}). These now offer a similar range of functions to the context menus in normal views. Only functions that are irrelevant for big data are not available.
 
 Almost as noticeable is the **yellow warning** that appears in normal views in link columns if the linked table contains rows in the big data store. The notice makes it clear that linked entries in the big data store are not visible in the cell of the link column. If you would like to display these, click on the icon to open the list of linked entries.
 

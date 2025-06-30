@@ -10,7 +10,7 @@ url: '/ru/pomoshch/die-erste-base'
 
 В SeaTable вы организуете свои данные в [базах]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). База - это контейнер для одной или нескольких таблиц. Таблицы базы могут стоять независимо друг от друга или, как в базе данных, быть связаны друг с другом отношениями.
 
-Вы также можете [поделиться]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) с другими членами команды или [пригласить](https://seatable.io/ru/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) внешних третьих лиц для совместной работы над ними.
+Вы также можете [поделиться]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) с другими членами команды или [пригласить]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}}) внешних третьих лиц для совместной работы над ними.
 
 SeaTable ведет [историю]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) для каждой базы в фоновом режиме, позволяя вам отменить изменения и восстановить предыдущие состояния, если это необходимо.
 

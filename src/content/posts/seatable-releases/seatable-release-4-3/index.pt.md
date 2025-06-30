@@ -83,7 +83,7 @@ Se utilizar as duas aplicações que estão a expirar, recomendamos que reconstr
 
 ## E muito mais
 
-Se [enviar mensagens de correio eletrónico através da automatização](https://seatable.io/pt/docs/beispiel-automationen/e-mail-versand-per-automation/), anteriormente só podia introduzir a sua mensagem como **texto simples** no campo de texto. A partir do SeaTable 4.3, é possível compor as mensagens em **formato rich text ou HTML** utilizando botões, tal como no envio de mensagens de correio eletrónico. Para tal, basta ativar o cursor à direita, por cima do campo de texto.
+Se [enviar mensagens de correio eletrónico através da automatização]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}), anteriormente só podia introduzir a sua mensagem como **texto simples** no campo de texto. A partir do SeaTable 4.3, é possível compor as mensagens em **formato rich text ou HTML** utilizando botões, tal como no envio de mensagens de correio eletrónico. Para tal, basta ativar o cursor à direita, por cima do campo de texto.
 
 ![Rich text em mensagens de correio eletrónico automatizadas](Rich-text-in-automated-e-mail-messages.png)
 

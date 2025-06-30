@@ -12,7 +12,7 @@ seo:
 
 The summer vacations are coming to an end and we hope you enjoyed the vacation time. While others were jumping into the pool or putting their feet up, our developers have been hard at work and created **SeaTable version 4.1**.
 
-Do you already use automated processes in your bases to save time and clicks? If so, you'll be pleased to know that we've refined the options and improved the performance of the [automations](https://seatable.io/en/docs/automationen/uebersicht-ueber-automationen/). Intensive users of SeaTable will be especially pleased with the higher execution limit. The [file management](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) introduced in version 4.0 now offers you two more features that simplify working with files.
+Do you already use automated processes in your bases to save time and clicks? If so, you'll be pleased to know that we've refined the options and improved the performance of the [automations](https://seatable.io/en/docs/automationen/uebersicht-ueber-automationen/). Intensive users of SeaTable will be especially pleased with the higher execution limit. The [file management]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) introduced in version 4.0 now offers you two more features that simplify working with files.
 
 The development of the [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) is progressing in seven-league boots: SeaTable 4.1 has new features for you to differentiate user permissions and data visualization in apps more precisely. In addition, we have improved or added many smaller features in SeaTable 4.1. See for yourself - the list is long and very gratifying!
 
@@ -34,7 +34,7 @@ Each automation is subject to an [execution limit](https://seatable.io/en/docs/a
 
 ## Trash bin and search function in file management
 
-The [file management](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) introduced in SeaTable 4.0 has revolutionized the handling of files in SeaTable. In version 4.1, two more functions have been added: a **recycle bin** and a **search**.
+The [file management]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) introduced in SeaTable 4.0 has revolutionized the handling of files in SeaTable. In version 4.1, two more functions have been added: a **recycle bin** and a **search**.
 
 Thanks to the trash bin, files deleted by mistake are not permanently lost, but can be restored. Deleted files remain in the trash for **60 days** before they are permanently removed from the system. If files are to disappear more quickly, then the trash bin can also be emptied manually.
 

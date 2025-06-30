@@ -20,7 +20,7 @@ Ce matin, nous avons mis à jour SeaTable Cloud à la version 5.1. Nous recomman
 
 Nos développeurs ont revu les [paramètres de l'application](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) et les ont rendus plus clairs. Ils ont notamment ajouté un menu séparé pour le branding de l'application, dans lequel il est possible de choisir le mode, le schéma de couleurs et l'icône de l'application. L'assistant 'Ajouter une page' a également une nouvelle présentation sur deux pages.
 
-Mot-clé : pages : Avec SeaTable 5.1, tous les types de pages offrent une fonction d'aperçu des fichiers image dans [les colonnes de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/die-datei-spalte/). (Les fichiers PDF, Office et texte sont toujours représentés par une icône de fichier.
+Mot-clé : pages : Avec SeaTable 5.1, tous les types de pages offrent une fonction d'aperçu des fichiers image dans [les colonnes de fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Les fichiers PDF, Office et texte sont toujours représentés par une icône de fichier.
 
 En ce qui concerne les différents types de pages, la [page individuelle](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) et la [page des enregistrements individuels](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) se distinguent par le plus grand nombre d'améliorations. Mais d'autres types de pages peuvent également se réjouir d'améliorations incrémentielles.
 
@@ -58,7 +58,7 @@ Dans le tableau des résultats, vous pouvez dès à présent modifier la **large
 
 La fonctionnalité Big Data n'est pas aussi nouvelle que l'App Builder. En nous basant sur l'expérience des projets Big Data et sur les précieux retours de nos utilisateurs, nous avons apporté des améliorations à la convivialité, à l'intégration et à la surveillance dans SeaTable 5.1.
 
-La nouveauté la plus frappante est sans doute **l'extension des menus contextuels des colonnes** dans les [vues Big Data](https://seatable.io/fr/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). Ceux-ci offrent désormais des fonctionnalités similaires à celles des menus contextuels des vues normales. Seules les fonctions qui ne sont pas pertinentes pour le Big Data ne sont pas disponibles.
+La nouveauté la plus frappante est sans doute **l'extension des menus contextuels des colonnes** dans les [vues Big Data]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}). Ceux-ci offrent désormais des fonctionnalités similaires à celles des menus contextuels des vues normales. Seules les fonctions qui ne sont pas pertinentes pour le Big Data ne sont pas disponibles.
 
 Presque aussi frappant est le **message d'avertissement jaune** qui apparaît dans les vues normales dans les colonnes de liaison lorsque le tableau lié contient des lignes dans le stockage de données volumineuses. L'avertissement indique clairement que les entrées liées dans la mémoire Big Data ne sont pas visibles dans la cellule de la colonne de liaison. Si vous souhaitez les afficher, un clic sur l'icône ouvre la liste des entrées liées.
 

@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/nach-einer-tabelle-suchen'
 ---
 
-For bases with a large number of tables, not all **tabs** can be displayed **in the base header**. Even [hidden tables](https://seatable.io/en/docs/arbeiten-in-tabellen/tabellen-ausblenden/) can no longer be found in the base header. SeaTable therefore offers the option of searching for a **table**.
+For bases with a large number of tables, not all **tabs** can be displayed **in the base header**. Even [hidden tables]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) can no longer be found in the base header. SeaTable therefore offers the option of searching for a **table**.
 
 ![Search for a table](images/Search-for-a-table.png)
 
@@ -20,4 +20,8 @@ You can also find tables in the base header using the **arrow buttons** {{< seat
 
 ![Find table in base header with arrow keys](images/Tabelle-im-Base-Header-mit-Pfeiltasten-finden.gif)
 
-{{< warning  headline="Tip"  text="You can also [move](https://seatable.io/en/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) tables [using drag-and-drop](https://seatable.io/en/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) so that your most frequently used tables are always to hand on the left in the base header." />}}
+{{< warning  headline="Tip" >}}
+
+You can also [move]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) tables [using drag-and-drop]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) so that your most frequently used tables are always to hand on the left in the base header.
+
+{{< /warning >}}

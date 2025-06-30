@@ -40,7 +40,7 @@ A partir de SeaTable 5.2, la configuración de página para este tipo de página
 
 En el caso de los [registros de datos bloqueados](https://seatable.io/es/docs/arbeiten-mit-zeilen/sperren-einer-zeile/), ahora el usuario también recibe un aviso de que no es posible editarlos. Aparecerá el mensaje correspondiente al situar el puntero del ratón sobre "Editar entrada" en la barra de herramientas.
 
-Además del control de autorizaciones, la nueva versión contiene dos mejoras para aumentar la facilidad de uso: ahora se puede hacer clic en los campos de tipo [URL](https://seatable.io/es/docs/text-und-zahlen/die-url-spalte/) y [correo electrónico](https://seatable.io/es/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/). De este modo, se puede acceder más rápidamente a un sitio web o escribir un correo electrónico. (A partir de la versión 5.3, también se puede hacer clic en los archivos de las columnas de archivos). Hay tres modos disponibles: Personalizar, Rellenar y Estirar.
+Además del control de autorizaciones, la nueva versión contiene dos mejoras para aumentar la facilidad de uso: ahora se puede hacer clic en los campos de tipo [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) y [correo electrónico]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}). De este modo, se puede acceder más rápidamente a un sitio web o escribir un correo electrónico. (A partir de la versión 5.3, también se puede hacer clic en los archivos de las columnas de archivos). Hay tres modos disponibles: Personalizar, Rellenar y Estirar.
 
 ### Tipo de página Formulario
 

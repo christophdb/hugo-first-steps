@@ -12,7 +12,7 @@ O Zapier permite-lhe criar uma interface entre o SeaTable e uma das milhares de 
 
 ## 1\. aceder ao conteúdo da tabela ligada com colunas de pesquisa
 
-O SeaTable permite-lhe ligar registos entre duas tabelas. Para mais pormenores, consulte [este artigo de ajuda](https://seatable.io/pt/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
+O SeaTable permite-lhe ligar registos entre duas tabelas. Para mais pormenores, consulte [este artigo de ajuda]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}).
 
 ![Ligações no SeaTable](images/zapier-linked-columns.png)
 

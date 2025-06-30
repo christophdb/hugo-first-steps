@@ -20,7 +20,7 @@ Esta manhã, actualizámos o SeaTable Cloud para a versão 5.1. Recomendamos a t
 
 Os nossos programadores reviram as [definições da aplicação](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) e tornaram-nas mais claras. Entre outras coisas, foi adicionado um menu separado para a marca da aplicação, no qual se pode selecionar o modo, o esquema de cores e o ícone da aplicação. O assistente 'Adicionar página' também tem um novo esquema de duas páginas.
 
-Páginas de palavras-chave: Com o SeaTable 5.1, todos os tipos de páginas oferecem uma função de pré-visualização para ficheiros de imagem nas [colunas de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/die-datei-spalte/). (Anteriormente, apenas [as colunas de imagens](https://seatable.io/pt/docs/dateien-und-bilder/die-bild-spalte/) ofereciam essas miniaturas.) Os ficheiros PDF, Office e de texto continuam a ser apresentados com um ícone de ficheiro.
+Páginas de palavras-chave: Com o SeaTable 5.1, todos os tipos de páginas oferecem uma função de pré-visualização para ficheiros de imagem nas [colunas de ficheiros]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Anteriormente, apenas [as colunas de imagens]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) ofereciam essas miniaturas.) Os ficheiros PDF, Office e de texto continuam a ser apresentados com um ícone de ficheiro.
 
 Olhando para os tipos de páginas individuais, a [página individual](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) e a [página para registos de dados individuais](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) destacam-se com o maior número de melhorias. No entanto, outros tipos de páginas também podem esperar melhorias incrementais.
 
@@ -58,7 +58,7 @@ Agora é possível alterar a **largura da coluna** na tabela de resultados para 
 
 A funcionalidade de grandes volumes de dados não é tão nova como o App Builder. Com base na experiência de projectos de grandes volumes de dados e no valioso feedback dos nossos utilizadores, introduzimos melhorias no SeaTable 5.1 em termos de facilidade de utilização, integração e monitorização.
 
-A nova funcionalidade mais surpreendente é provavelmente **os menus de contexto de colunas alargados** nas [visualizações de megadados](https://seatable.io/pt/docs/big-data/so-erstellen-sie-ein-big-data-ansicht/). Estes oferecem agora uma gama de funções semelhante à dos menus de contexto nas visualizações normais. Apenas as funções irrelevantes para os megadados não estão disponíveis.
+A nova funcionalidade mais surpreendente é provavelmente **os menus de contexto de colunas alargados** nas [visualizações de megadados]({{< relref "help/base-editor/big-data/so-erstellen-sie-eine-big-data-ansicht" >}}). Estes oferecem agora uma gama de funções semelhante à dos menus de contexto nas visualizações normais. Apenas as funções irrelevantes para os megadados não estão disponíveis.
 
 Quase tão percetível é o **aviso amarelo** que aparece em visualizações normais em colunas de ligação se a tabela ligada contiver linhas no grande armazenamento de dados. O aviso deixa claro que as entradas ligadas no big data store não são visíveis na célula da coluna de ligação. Se pretender exibi-las, clique no ícone para abrir a lista de entradas ligadas.
 
