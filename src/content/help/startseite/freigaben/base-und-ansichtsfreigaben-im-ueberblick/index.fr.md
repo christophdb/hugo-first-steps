@@ -37,7 +37,7 @@ Chaque partage, indépendamment de l'autorisation attribuée, peut être **annul
 
 Le partage d'une base peut se faire avec différents groupes de personnes :
 
-- [Partage avec les utilisateurs](https://seatable.io/fr/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Partage avec les utilisateurs]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Validation pour le groupe](https://seatable.io/fr/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
 - [Partage via le lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Partage via un lien externe](https://seatable.io/fr/docs/freigabelinks/externer-link-erklaert/)

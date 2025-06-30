@@ -37,7 +37,7 @@ Cada liberación, independientemente de la autorización asignada, puede ser **r
 
 La liberación de una base puede hacerse a distintos grupos de personas:
 
-- [Liberación para los usuarios](https://seatable.io/es/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Liberación para los usuarios]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Liberación para el grupo](https://seatable.io/es/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
 - [Liberación a través de un enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Comunicado a través de un enlace externo](https://seatable.io/es/docs/freigabelinks/externer-link-erklaert/)

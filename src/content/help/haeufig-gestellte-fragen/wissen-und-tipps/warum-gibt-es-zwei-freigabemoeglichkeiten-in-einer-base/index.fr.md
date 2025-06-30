@@ -22,7 +22,7 @@ Les deux partages se font via la boîte de dialogue Partager - une fenêtre à l
 
 Si vous souhaitez partager l'une de vos bases, vous avez le choix entre différentes options, en fonction du cercle de personnes avec lequel vous souhaitez partager les données :
 
-- [Partage avec les utilisateurs](https://seatable.io/fr/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Partage avec les utilisateurs]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Validation pour le groupe](https://seatable.io/fr/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
 - [Partage via le lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Partage via un lien externe](https://seatable.io/fr/docs/freigabelinks/externer-link-erklaert/)

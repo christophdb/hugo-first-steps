@@ -10,7 +10,7 @@ url: '/es/ayuda/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
 
 ¿Le gustaría utilizar SeaTable y es usted una asociación registrada, trabaja en una institución pública o en una organización benéfica sin ánimo de lucro? Entonces disfrutará de ventajas especiales porque queremos apoyar a las personas que trabajan por el bien común, ya sea a través del trabajo social, la ayuda humanitaria, los proyectos ecológicos o la educación y la investigación.
 
-SeaTable concede a las instituciones públicas un descuento del 25%, las organizaciones benéficas sin ánimo de lucro y las instituciones educativas reciben un descuento estándar del 50% y las asociaciones locales, en casos excepcionales, incluso hasta un 75% de descuento en su suscripción a SeaTable Plus o SeaTable Enterprise. Para beneficiarse del descuento, basta con presentar la correspondiente solicitud a través de la [administración del equipo](https://seatable.io/es/docs/teamverwaltung/die-funktionen-der-teamverwaltung-in-der-uebersicht/).
+SeaTable concede a las instituciones públicas un descuento del 25%, las organizaciones benéficas sin ánimo de lucro y las instituciones educativas reciben un descuento estándar del 50% y las asociaciones locales, en casos excepcionales, incluso hasta un 75% de descuento en su suscripción a SeaTable Plus o SeaTable Enterprise. Para beneficiarse del descuento, basta con presentar la correspondiente solicitud a través de la [administración del equipo]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Solicitar descuento
 

@@ -58,7 +58,7 @@ L'autorisation de partage créée est maintenant disponible comme option sous **
 
 Vous trouverez dans les articles suivants des explications détaillées sur les points à prendre en compte lors de partages avec des utilisateurs ou des groupes :
 
-- [Partager une base avec un utilisateur](https://seatable.io/fr/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Partager une base avec un utilisateur]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Partager une base avec un groupe](https://seatable.io/fr/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
 
 ## Conséquences du partage

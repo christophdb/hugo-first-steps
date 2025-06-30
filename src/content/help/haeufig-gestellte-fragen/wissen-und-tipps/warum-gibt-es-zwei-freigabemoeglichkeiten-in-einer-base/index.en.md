@@ -22,7 +22,7 @@ Both sharing is done via the **Share** dialog - a window you reach via the **Sha
 
 If you want to share one of your bases, you have a choice of options depending on the group of people you want to share it with:
 
-- [Release for user](https://seatable.io/en/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Release for user]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Release for group](https://seatable.io/en/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
 - [Release via invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Share via external link](https://seatable.io/en/docs/freigabelinks/externer-link-erklaert/)

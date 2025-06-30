@@ -37,7 +37,7 @@ Jede Freigabe, unabhängig von der vergebenen Berechtigung, lässt sich durch de
 
 Die Freigabe einer Base kann an verschiedene Personenkreise erfolgen:
 
-- [Freigabe für Benutzer](https://seatable.io/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Freigabe für Benutzer]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Freigabe für Gruppe](https://seatable.io/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
 - [Freigabe via Einladungs-Link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Freigabe via externem Link](https://seatable.io/docs/freigabelinks/externer-link-erklaert/)

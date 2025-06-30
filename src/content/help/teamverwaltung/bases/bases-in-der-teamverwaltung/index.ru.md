@@ -68,7 +68,7 @@ url: '/ru/pomoshch/bases-in-der-teamverwaltung'
 Подробнее о типах релизов читайте в следующих статьях:
 
 - [Освобождение базы для группы](https://seatable.io/ru/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Создание общего ресурса пользователя](https://seatable.io/ru/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Создание общего ресурса пользователя]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Создание индивидуального релиза](https://seatable.io/ru/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
 
 ## Внешние ссылки и пригласительные ссылки

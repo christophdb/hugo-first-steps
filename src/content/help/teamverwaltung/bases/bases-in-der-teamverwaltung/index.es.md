@@ -68,7 +68,7 @@ Aquí están los **Compartir usuarios y grupos** enumerados para todas las bases
 Obtenga más información sobre los tipos de desbloqueo en los siguientes artículos:
 
 - [Liberar una base a un grupo](https://seatable.io/es/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Crear un recurso compartido de usuario](https://seatable.io/es/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Crear un recurso compartido de usuario]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Crear una acción personalizada](https://seatable.io/es/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
 
 ## Enlaces externos y enlaces de invitación

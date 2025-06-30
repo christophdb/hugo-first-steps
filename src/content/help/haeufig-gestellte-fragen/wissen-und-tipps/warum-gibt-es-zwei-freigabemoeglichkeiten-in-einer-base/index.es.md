@@ -22,7 +22,7 @@ Ambas acciones se realizan a través del diálogo de **compartir**, una ventana 
 
 Si quieres compartir una de tus bases, tienes varias opciones dependiendo de con quién quieras compartirla:
 
-- [Liberación para los usuarios](https://seatable.io/es/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Liberación para los usuarios]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Liberación para el grupo](https://seatable.io/es/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
 - [Liberación a través de un enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Comunicado a través de un enlace externo](https://seatable.io/es/docs/freigabelinks/externer-link-erklaert/)

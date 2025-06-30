@@ -22,7 +22,7 @@ Beide Freigaben erfolgen über den Freigeben-Dialog – ein Fenster, das Sie üb
 
 Wenn Sie eine Ihrer Bases freigeben wollen, haben Sie die Wahl zwischen verschiedenen Optionen, je nachdem mit welchem Personenkreis Sie die Daten teilen möchten:
 
-- [Freigabe für Benutzer](https://seatable.io/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Freigabe für Benutzer]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Freigabe für Gruppe](https://seatable.io/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
 - [Freigabe via Einladungs-Link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Freigabe via externem Link](https://seatable.io/docs/freigabelinks/externer-link-erklaert/)

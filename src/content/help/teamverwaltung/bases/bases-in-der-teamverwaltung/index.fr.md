@@ -68,7 +68,7 @@ Voici les **Partage d'utilisateurs et de groupes** pour toutes les bases. Vous p
 Apprenez-en plus sur les types de partage dans les articles suivants :
 
 - [Partage d'une base avec un groupe](https://seatable.io/fr/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Créer un partage d'utilisateurs](https://seatable.io/fr/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Créer un partage d'utilisateurs]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Créer un partage personnalisé](https://seatable.io/fr/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
 
 ## Liens externes et liens d'invitation

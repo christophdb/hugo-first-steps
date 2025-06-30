@@ -68,7 +68,7 @@ Here are the **User and group sharing** listed for all bases. You can see **To w
 Learn more about the release types in the following articles:
 
 - [Releasing a Base to a Group](https://seatable.io/en/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Create a user share](https://seatable.io/en/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Create a user share]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Create custom share](https://seatable.io/en/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
 
 ## External links and invitation links

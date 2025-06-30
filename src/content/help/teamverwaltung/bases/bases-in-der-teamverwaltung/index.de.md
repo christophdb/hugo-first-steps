@@ -66,7 +66,7 @@ Hier sind die **Benutzer- und Gruppenfreigaben** für alle Bases aufgelistet. Si
 Erfahren Sie in folgenden Artikeln mehr über die Freigabetypen:
 
 - [Freigabe einer Base an eine Gruppe](https://seatable.io/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Anlegen einer Benutzerfreigabe](https://seatable.io/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Anlegen einer Benutzerfreigabe]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Benutzerdefinierte Freigabe erstellen](https://seatable.io/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
 
 ## Externe Links und Einladungs-Links

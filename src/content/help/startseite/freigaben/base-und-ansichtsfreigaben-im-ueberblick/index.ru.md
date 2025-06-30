@@ -37,7 +37,7 @@ url: '/ru/pomoshch/base-und-ansichtsfreigaben-im-ueberblick'
 
 Освобождение базы может быть осуществлено для различных групп лиц:
 
-- [Выпуск для пользователей](https://seatable.io/ru/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Выпуск для пользователей]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Освобождение для группы](https://seatable.io/ru/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
 - [Выпуск по пригласительной ссылке]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Релиз по внешней ссылке](https://seatable.io/ru/docs/freigabelinks/externer-link-erklaert/)

@@ -68,7 +68,7 @@ Aqui estão os **Partilha de utilizadores e grupos** listadas para todas as base
 Saiba mais sobre os tipos de lançamento nos artigos seguintes:
 
 - [Lançamento de uma Base a um Grupo](https://seatable.io/pt/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Criação de uma partilha do utilizador](https://seatable.io/pt/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
+- [Criação de uma partilha do utilizador]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Criar partilha personalizada](https://seatable.io/pt/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
 
 ## Ligações externas e ligações de convite
