@@ -22,7 +22,7 @@ Die [Einstellungen der App](https://seatable.io/docs/universelle-apps/einstellun
 
 Stichwort Seiten: Alle Seitentypen bieten mit SeaTable 5.1 eine Vorschaufunktion für Bilddateien in [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Solche Thumbnails boten bisher nur [Bild-Spalten]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}).) PDF-, Office- und Textdateien werden weiterhin mit einem Datei-Icon dargestellt.
 
-Mit Blick auf die einzelnen Seitentypen stechen die [individuelle Seite](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) und die [Seite für einzelne Datensätze](https://seatable.io/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) mit den meisten Verbesserungen heraus. Aber auch andere Seitentypen können sich über inkrementelle Verbesserungen freuen.
+Mit Blick auf die einzelnen Seitentypen stechen die [individuelle Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) und die [Seite für einzelne Datensätze](https://seatable.io/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) mit den meisten Verbesserungen heraus. Aber auch andere Seitentypen können sich über inkrementelle Verbesserungen freuen.
 
 ### Seitentyp Individuelle Seite
 
@@ -44,7 +44,7 @@ Zudem bietet dieser Seitentyp in SeaTable 5.1 mehr optische Gestaltungsoptionen.
 
 ### Seitentyp Tabelle
 
-In Version 5.0 war die Exportfunktionalität auf [Tabellenseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) immer aktiviert. Für App-Admins gab es keine Möglichkeit, **den Export einer Tabelle in eine XLSX-Datei zu verhindern**. In SeaTable 5.1 tragen wir dem Wunsch nach mehr Kontrolle Rechnung. In der neuen Version ist die Exportfunktion standardmäßig deaktiviert; über den Regler “Enable export to Excel” kann sie aktiviert werden. Darüber hinaus haben wir einen wichtigen Bug beseitigt, der dazu führte, dass voreingestellte Filter beim Export nicht gegriffen haben.
+In Version 5.0 war die Exportfunktionalität auf [Tabellenseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) immer aktiviert. Für App-Admins gab es keine Möglichkeit, **den Export einer Tabelle in eine XLSX-Datei zu verhindern**. In SeaTable 5.1 tragen wir dem Wunsch nach mehr Kontrolle Rechnung. In der neuen Version ist die Exportfunktion standardmäßig deaktiviert; über den Regler “Enable export to Excel” kann sie aktiviert werden. Darüber hinaus haben wir einen wichtigen Bug beseitigt, der dazu führte, dass voreingestellte Filter beim Export nicht gegriffen haben.
 
 ### Seitentyp Zeitstrahl
 
@@ -64,7 +64,7 @@ Fast ebenso auffällig ist der **gelbe Warnhinweis**, der in normalen Ansichten 
 
 ![Linked archived records dialog in SeaTable 5.1](LinkedArchivedRows.png)
 
-Auf vielfachen Nutzerwunsch steht die **Datenverarbeitungsoperation** [Vergleichen und verknüpfen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) nun auch in Big-Data-Ansichten zur Verfügung. Diese Operation kann Einträge im Big-Data-Speicher mit Zeilen in jeder anderen Tabelle verknüpfen, egal ob die Zeilen der verknüpften Tabelle in der Base oder im Big-Data-Speicher gespeichert sind.
+Auf vielfachen Nutzerwunsch steht die **Datenverarbeitungsoperation** [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) nun auch in Big-Data-Ansichten zur Verfügung. Diese Operation kann Einträge im Big-Data-Speicher mit Zeilen in jeder anderen Tabelle verknüpfen, egal ob die Zeilen der verknüpften Tabelle in der Base oder im Big-Data-Speicher gespeichert sind.
 
 {{< warning headline="Hinweis" text="Die Ausführungsgeschwindigkeit ist deutlich langsamer als die gleiche Operation in einer normalen Ansicht, weil bei der Ausführung in normalen Ansichten bereits alle Zeileninformationen im Arbeitsspeicher liegen." />}}
 

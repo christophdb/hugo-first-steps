@@ -14,7 +14,7 @@ The time has come: Our app builder is officially launched! With this version of 
 
 But that's not the only big bang - SeaTable 5.0 offers you **three new plugins** for complex visualizations: Organizational Chart, Table Relationships and Whiteboard. The **improved accessibility** should make it easier for people with (visual) impairments to use SeaTable. Another highlight is the **column-accurate Excel import**.
 
-This morning we updated SeaTable Cloud to version 5.0. All self-hosters can do the same: The image of SeaTable 5.0 is available for download in the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, you can find the complete list of changes in the [changelog](https://seatable.io/en/docs/changelog/version-5/).
+This morning we updated SeaTable Cloud to version 5.0. All self-hosters can do the same: The image of SeaTable 5.0 is available for download in the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, you can find the complete list of changes in the [changelog]({{< relref "pages/changelog" >}}/).
 
 ## Customized business apps without a single line of code
 
@@ -30,9 +30,9 @@ Users of the app can view, search, browse, and edit each single record on this p
 
 ### New functions of existing page types
 
-You can now **export** all data displayed on [table pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) as an **Excel file**. You can also **download all attachments as a zip file** via the column header of [image]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) and [file columns]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). The new export functions are helpful if you want to make certain files available to other users via the app.
+You can now **export** all data displayed on [table pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) as an **Excel file**. You can also **download all attachments as a zip file** via the column header of [image]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) and [file columns]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). The new export functions are helpful if you want to make certain files available to other users via the app.
 
-We have added the **settings for link columns** on [gallery pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/). For example, you can specify whether users can link existing entries via the gallery page or add entries in another table. On [query pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/), the query results are now updated immediately when you trigger button actions that cause changes to the data.
+We have added the **settings for link columns** on [gallery pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}). For example, you can specify whether users can link existing entries via the gallery page or add entries in another table. On [query pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}), the query results are now updated immediately when you trigger button actions that cause changes to the data.
 
 ## Three plugins for complex visualizations
 
@@ -88,6 +88,6 @@ You will encounter the **editor for long texts** in many places. If you fill in 
 
 ![Editor for long texts in web forms](Long-text-editor-in-web-forms.png)
 
-You are also familiar with the **statistics** from several places in SeaTable: from the [statistics module]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})) in the base and from [custom pages in universal apps](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). We have now significantly upgraded and standardized the statistics with a revised diagram library.
+You are also familiar with the **statistics** from several places in SeaTable: from the [statistics module]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})) in the base and from [custom pages in universal apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). We have now significantly upgraded and standardized the statistics with a revised diagram library.
 
 Previously, you could not restore rows that you had moved to the [Big Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) storage using snapshots. To prevent unwanted data loss, there is now an option to also restore the big data storage of the previous version when [restoring snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).

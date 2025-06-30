@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-La segunda versión menor de la versión 5 de SeaTable contiene numerosas correcciones de errores y mejoras de detalle para que trabajar con SeaTable sea aún más fácil y para que sus casos de uso sean aún más compatibles: En Bases, los **nuevos grupos de filtros** permiten una selección mucho más precisa de los datos (registros). Los filtros de columnas cruzadas en el formato condicional de filas y celdas permiten resaltar los datos de una forma que antes no era posible. En el **App Builder**, cada tipo de página se beneficia de mejoras mayores y menores de diversa índole: autorizaciones ampliadas, mejor usabilidad y más funciones. SeaTable 5.2 también incluye un nuevo **plugin de pizarra** y mejoras en los plugins de diseño de página y calendario. Como siempre, puede encontrar la lista completa de cambios en el [registro de cambios](https://seatable.io/es/docs/changelog/version-5/).
+La segunda versión menor de la versión 5 de SeaTable contiene numerosas correcciones de errores y mejoras de detalle para que trabajar con SeaTable sea aún más fácil y para que sus casos de uso sean aún más compatibles: En Bases, los **nuevos grupos de filtros** permiten una selección mucho más precisa de los datos (registros). Los filtros de columnas cruzadas en el formato condicional de filas y celdas permiten resaltar los datos de una forma que antes no era posible. En el **App Builder**, cada tipo de página se beneficia de mejoras mayores y menores de diversa índole: autorizaciones ampliadas, mejor usabilidad y más funciones. SeaTable 5.2 también incluye un nuevo **plugin de pizarra** y mejoras en los plugins de diseño de página y calendario. Como siempre, puede encontrar la lista completa de cambios en el [registro de cambios]({{< relref "pages/changelog" >}}/).
 
 Esta mañana a las 6am hora central europea, SeaTable Cloud fue actualizado a la versión 5.2 y el nuevo plugin fue puesto a disposición. Esperamos sus comentarios. Los administradores del servidor SeaTable pueden descargar la imagen Docker de SeaTable 5.2 desde el conocido [repositorioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) .
 
@@ -52,7 +52,7 @@ Los **filtros preestablecidos** de la configuración de datos permiten ahora sel
 
 ### Páginas personalizadas
 
-La [página individual](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) ha recibido un nuevo tipo de estadística: similar a la [página de tabla](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), la **tabla simple** permite la visualización tabular de un conjunto de datos que han sido prefiltrados y preclasificados por el administrador de la aplicación. A diferencia de la página de tabla, el nuevo tipo de estadística permite combinar dos o más tablas en una página. En la versión 5.2, los usuarios de la aplicación no pueden establecer sus propias reglas de filtrado y ordenación. Añadiremos esta función en el futuro.
+La [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) ha recibido un nuevo tipo de estadística: similar a la [página de tabla]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), la **tabla simple** permite la visualización tabular de un conjunto de datos que han sido prefiltrados y preclasificados por el administrador de la aplicación. A diferencia de la página de tabla, el nuevo tipo de estadística permite combinar dos o más tablas en una página. En la versión 5.2, los usuarios de la aplicación no pueden establecer sus propias reglas de filtrado y ordenación. Añadiremos esta función en el futuro.
 
 ![Nuevo tipo de gráfico "Cuadro básico"](BasicTable.png)
 
@@ -66,7 +66,7 @@ Este tipo de página también se beneficia de una ampliación de las autorizacio
 
 ### Consulta de tipo de página
 
-Anteriormente, la interacción con los datos mostrados en las [páginas de consulta](https://seatable.io/es/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) sólo era posible mediante botones. Como éstos sólo podían realizar acciones predefinidas, no era posible realizar cambios individuales. Esto cambia ahora con la opción **Hacer editable el resultado de la consulta**. Si está activada, los valores de los registros de datos contenidos en la consulta pueden editarse a través de los detalles de la fila. Sin embargo, la opción no tiene ningún efecto en las aplicaciones públicas a las que se accede sin necesidad de iniciar sesión.
+Anteriormente, la interacción con los datos mostrados en las [páginas de consulta]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) sólo era posible mediante botones. Como éstos sólo podían realizar acciones predefinidas, no era posible realizar cambios individuales. Esto cambia ahora con la opción **Hacer editable el resultado de la consulta**. Si está activada, los valores de los registros de datos contenidos en la consulta pueden editarse a través de los detalles de la fila. Sin embargo, la opción no tiene ningún efecto en las aplicaciones públicas a las que se accede sin necesidad de iniciar sesión.
 
 ## Nuevo plugin de pizarra
 

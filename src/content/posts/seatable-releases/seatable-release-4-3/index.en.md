@@ -14,7 +14,7 @@ The carnival season in Germany is approaching its peak - and the confetti cannon
 
 Look forward to a new dialog for creating **form links** in which you can adapt the URLs to your personal wishes. Use two new **automations** to create documents and send notifications to app users. Or try out the new features in the **universal app**: Among other things, you can expect comments, two additional elements for the custom page and improved customizing of the app theme and colors.
 
-This morning we updated SeaTable Cloud to version 4.3. All self-hosters can do the same: The image of SeaTable 4.3 is available for download in the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, you can find the complete list of changes in the [changelog](https://seatable.io/en/docs/changelog/version-4/).
+This morning we updated SeaTable Cloud to version 4.3. All self-hosters can do the same: The image of SeaTable 4.3 is available for download in the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, you can find the complete list of changes in the [changelog]({{< relref "pages/changelog" >}}).
 
 We have also upgraded the plugins to Webpack 5 and upgraded the framework to React 17.0.2, which will ensure greater security and stability in the future and enable additional functions.
 
@@ -57,7 +57,7 @@ A brand new feature in the Universal app is the [comment function]({{< relref "h
 
 {{< warning headline="Good to know" text="The comments in the app are completely **independent** of the comments in the base. This means that each comment is only visible where it is posted." />}}
 
-On the [custom page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), you can look forward to two new elements: the **container** and the **card**. The container provides a grid with which you can arrange other elements (texts, images, statistics) more easily and group them together.
+On the [custom page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), you can look forward to two new elements: the **container** and the **card**. The container provides a grid with which you can arrange other elements (texts, images, statistics) more easily and group them together.
 
 ![Container element on custom page in SeaTable 4.3](Container-element-on-custom-page.png)
 
@@ -69,15 +69,15 @@ In addition, as of SeaTable 4.3, the **background color** of custom pages can be
 
 ### Authorizations on table pages
 
-The inheritance of [column permissions]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) from the base is abolished with SeaTable 4.3. If you want to lock a column in the Universal App for editing, you can set it to **"read-only"** in the [table page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) settings instead.
+The inheritance of [column permissions]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) from the base is abolished with SeaTable 4.3. If you want to lock a column in the Universal App for editing, you can set it to **"read-only"** in the [table page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) settings instead.
 
 All restrictions for [button actions]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) have also been removed. Every app user can now make predefined changes to the data records, even if the affected columns are otherwise locked for them and the user is not authorized to edit the page.
 
 ## Important announcement: Removal of the gallery and data query app
 
-In version 4.4, the [gallery app](https://seatable.io/en/docs/apps/galerie-app/) and the [data query app](https://seatable.io/en/docs/apps/datenabfrage-app/) will disappear, as their functionality can now be fully mapped with the corresponding **page types** in the universal app. The Universal App Builder will therefore be the only option for creating apps in SeaTable in the future.
+In version 4.4, the [gallery app]({{< relref help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps >}}) and the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) will disappear, as their functionality can now be fully mapped with the corresponding **page types** in the universal app. The Universal App Builder will therefore be the only option for creating apps in SeaTable in the future.
 
-If you use the two expiring apps, we recommend that you rebuild your use cases with [gallery pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) and query [pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) in the App Builder before the next release. Incidentally, you can now add fields to query pages that allow users to search **link columns** for specific values.
+If you use the two expiring apps, we recommend that you rebuild your use cases with [gallery pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) and query [pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) in the App Builder before the next release. Incidentally, you can now add fields to query pages that allow users to search **link columns** for specific values.
 
 {{< warning headline="Attention, danger of confusion!" >}}
 

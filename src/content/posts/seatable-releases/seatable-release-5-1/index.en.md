@@ -22,7 +22,7 @@ Our developers have revised the [app settings](https://seatable.io/en/docs/unive
 
 Keyword pages: With SeaTable 5.1, all page types offer a preview function for image files in [file columns]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Previously, only [image columns]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) offered such thumbnails.) PDF, Office and text files are still displayed with a file icon.
 
-Looking at the individual page types, the [individual page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) and the [page for individual data records](https://seatable.io/en/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) stand out with the most improvements. However, other page types can also look forward to incremental improvements.
+Looking at the individual page types, the [individual page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) and the [page for individual data records](https://seatable.io/en/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) stand out with the most improvements. However, other page types can also look forward to incremental improvements.
 
 ### Page type Individual page
 
@@ -44,7 +44,7 @@ This page type also offers more visual design options in SeaTable 5.1. If you ha
 
 ### Page type Table
 
-In version 5.0, the export functionality on [table pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) was always activated. There was no way for app admins to **prevent the export of a table to an XLSX file**. In SeaTable 5.1, we are taking account of the desire for more control. In the new version, the export function is deactivated by default; it can be activated via the "Enable export to Excel" slider. In addition, we have fixed an important bug that caused preset filters not to take effect during export.
+In version 5.0, the export functionality on [table pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) was always activated. There was no way for app admins to **prevent the export of a table to an XLSX file**. In SeaTable 5.1, we are taking account of the desire for more control. In the new version, the export function is deactivated by default; it can be activated via the "Enable export to Excel" slider. In addition, we have fixed an important bug that caused preset filters not to take effect during export.
 
 ### Page type Timeline
 
@@ -64,7 +64,7 @@ Almost as noticeable is the **yellow warning** that appears in normal views in l
 
 ![Linked archived records dialog in SeaTable 5.1](LinkedArchivedRows.png)
 
-In response to many user requests, the **data processing operation** [Compare and join](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) is now also available in big data views. This operation can link entries in the big data store with rows in any other table, regardless of whether the rows of the linked table are stored in the base or in the big data store.
+In response to many user requests, the **data processing operation** [Compare and join]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) is now also available in big data views. This operation can link entries in the big data store with rows in any other table, regardless of whether the rows of the linked table are stored in the base or in the big data store.
 
 {{< warning headline="Note" text="The execution speed is significantly slower than the same operation in a normal view because all row information is already in the working memory when executed in normal views." />}}
 

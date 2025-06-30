@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Das zweite Minor Release der Version 5 von SeaTable enthält zahlreiche Bugfixes und Detailverbesserungen, um die Arbeit mit SeaTable noch einfacher zu machen und Ihre Anwendungsfälle noch besser zu unterstützen: In Bases ermöglichen die **neuen Filtergruppen** eine deutlich präzisere Selektion von Daten(sätzen). Spaltenübergreifende Filter in der bedingten Zeilen- und Zellformatierung erlauben eine bisher so nicht mögliche handlungsorientierte Hervorhebung von Daten. Im **App Builder** profitiert jeder Seitentyp von größeren und kleineren Verbesserungen unterschiedlicher Art – erweiterte Berechtigungen, bessere Usability und mehr Funktionen. Zu SeaTable 5.2 gehören auch ein neues **Whiteboard-Plugin** und Verbesserungen an den Plugins Seitendesign und Kalender. Im [Changelog](https://seatable.io/docs/changelog/version-5/) finden Sie – wie immer – die vollständige Liste der Änderungen.
+Das zweite Minor Release der Version 5 von SeaTable enthält zahlreiche Bugfixes und Detailverbesserungen, um die Arbeit mit SeaTable noch einfacher zu machen und Ihre Anwendungsfälle noch besser zu unterstützen: In Bases ermöglichen die **neuen Filtergruppen** eine deutlich präzisere Selektion von Daten(sätzen). Spaltenübergreifende Filter in der bedingten Zeilen- und Zellformatierung erlauben eine bisher so nicht mögliche handlungsorientierte Hervorhebung von Daten. Im **App Builder** profitiert jeder Seitentyp von größeren und kleineren Verbesserungen unterschiedlicher Art – erweiterte Berechtigungen, bessere Usability und mehr Funktionen. Zu SeaTable 5.2 gehören auch ein neues **Whiteboard-Plugin** und Verbesserungen an den Plugins Seitendesign und Kalender. Im [Changelog]({{< relref "pages/changelog" >}}/) finden Sie – wie immer – die vollständige Liste der Änderungen.
 
 Heute Morgen um 6 Uhr mitteleuropäischer Zeit wurde SeaTable Cloud auf Version 5.2 aktualisiert und das neue Plugin bereitgestellt. Wir freuen uns über Ihr Feedback. SeaTable Server Admins finden das Docker Image von SeaTable 5.2 im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download.
 
@@ -52,7 +52,7 @@ Die **voreingestellten Filter** in den Dateneinstellungen erlauben nun die Auswa
 
 ### Individuelle Seiten
 
-Die [individuelle Seite](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) erhält einen neuen Statistiktyp: Die **Einfache Tabelle** erlaubt – ähnlich wie die [Tabellenseite](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) – die tabellarische Darstellung eines durch den App-Admin vorgefilterten und vorsortierten Datensatzes. Anders als auf der Tabellenseite ist es mit dem neuen Statistiktyp möglich, zwei oder mehr Tabellen auf einer Seite zu vereinen. In der Version 5.2 können App-Benutzer selbst keine eigenen Filter- und Sortierungregeln setzen. Diese Funktion werden wir in Zukunft ergänzen.
+Die [individuelle Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) erhält einen neuen Statistiktyp: Die **Einfache Tabelle** erlaubt – ähnlich wie die [Tabellenseite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) – die tabellarische Darstellung eines durch den App-Admin vorgefilterten und vorsortierten Datensatzes. Anders als auf der Tabellenseite ist es mit dem neuen Statistiktyp möglich, zwei oder mehr Tabellen auf einer Seite zu vereinen. In der Version 5.2 können App-Benutzer selbst keine eigenen Filter- und Sortierungregeln setzen. Diese Funktion werden wir in Zukunft ergänzen.
 
 ![New chart type "Basic table"](BasicTable.png)
 
@@ -66,7 +66,7 @@ Auch dieser Seitentyp profitiert von einer Erweiterung der Seitenberechtigungen.
 
 ### Seitentyp Abfrage
 
-Bisher war auf [Abfrageseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) eine Interaktion mit den angezeigten Daten nur über Schaltflächen möglich. Da diese nur vordefinierte Aktionen ausführen konnten, waren individuelle Änderungen außen vor. Dies ändert sich nun durch die Option **Abfrageergebnis bearbeitbar machen**. Ist diese aktiviert, dann können die Werte der in der Abfrage enthaltenen Datensätze über die Zeilendetails bearbeitet werden. In öffentlichen Apps, auf die ohne Benutzeranmeldung zugegriffen wird, hat die Option jedoch keine Wirkung.
+Bisher war auf [Abfrageseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) eine Interaktion mit den angezeigten Daten nur über Schaltflächen möglich. Da diese nur vordefinierte Aktionen ausführen konnten, waren individuelle Änderungen außen vor. Dies ändert sich nun durch die Option **Abfrageergebnis bearbeitbar machen**. Ist diese aktiviert, dann können die Werte der in der Abfrage enthaltenen Datensätze über die Zeilendetails bearbeitet werden. In öffentlichen Apps, auf die ohne Benutzeranmeldung zugegriffen wird, hat die Option jedoch keine Wirkung.
 
 ## Neues Whiteboard-Plugin
 

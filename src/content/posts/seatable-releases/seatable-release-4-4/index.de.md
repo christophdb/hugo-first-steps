@@ -12,7 +12,7 @@ seo:
 
 In SeaTable 4.4 setzen wir die Entwicklung des Universal App Builders mit Verve fort. Viele neue Funktionen ermöglichen noch leistungsfähigere und komfortablere Webanwendungen. Darüber hinaus haben wir die Importfunktion und die gemeinsamen Datensätze aufpoliert. Die praktischen Standardwerte greifen nun universell.
 
-Heute Morgen haben wir SeaTable Cloud auf Version 4.4 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 4.4 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog](https://seatable.io/docs/changelog/version-4/) finden Sie wie immer die vollständige Liste der Änderungen.
+Heute Morgen haben wir SeaTable Cloud auf Version 4.4 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 4.4 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog]({{< relref "pages/changelog" >}}) finden Sie wie immer die vollständige Liste der Änderungen.
 
 ## Flexiblerer, leistungsfähigerer App Builder
 
@@ -20,7 +20,7 @@ In SeaTable 4.4 haben wir wieder jede Menge Verbesserungen und Bugfixes an der [
 
 ### Buttons auf Abfrageseiten
 
-[Abfrageseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) unterstützen nun die Ausführung von Schaltflächen-Aktionen: Nach einer erfolgreichen Datenabfrage können Sie in der angezeigten Trefferliste [Schaltflächen]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) betätigen, um Aktionen auszuführen. Dies ist eine besondere Neuerung, denn bisher war in SeaTable nirgends eine Interaktion mit abgefragten Zeilen möglich.
+[Abfrageseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) unterstützen nun die Ausführung von Schaltflächen-Aktionen: Nach einer erfolgreichen Datenabfrage können Sie in der angezeigten Trefferliste [Schaltflächen]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) betätigen, um Aktionen auszuführen. Dies ist eine besondere Neuerung, denn bisher war in SeaTable nirgends eine Interaktion mit abgefragten Zeilen möglich.
 
 ![Schaltflächen auf Abfrageseiten ausführen](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -32,7 +32,7 @@ Bislang war es nicht möglich, Termine auf der [Kalenderseite](https://seatable.
 
 ### Vereinfachtes Datenhandling auf der Tabellenseite
 
-Wie in der Base können Sie nun auch auf den [Tabellenseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) Ihrer Apps mit nur einem Klick auf den Spaltenkopf [alle Einträge in einer Spalte markieren]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}). Auch der praktische [Füllgriff](https://seatable.io/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) ist nun möglich: Ziehen Sie das kleine Quadrat in der unteren rechten Ecke einer Zelle nach unten, um den Wert in alle darunterliegenden Zeilen zu übertragen.
+Wie in der Base können Sie nun auch auf den [Tabellenseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) Ihrer Apps mit nur einem Klick auf den Spaltenkopf [alle Einträge in einer Spalte markieren]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}). Auch der praktische [Füllgriff](https://seatable.io/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) ist nun möglich: Ziehen Sie das kleine Quadrat in der unteren rechten Ecke einer Zelle nach unten, um den Wert in alle darunterliegenden Zeilen zu übertragen.
 
 ![Spalteneinträge markieren](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
@@ -42,17 +42,17 @@ Wenn Sie eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/auswahl-spalten/
 
 ### Mehr Customizing-Optionen für individuelle Seiten
 
-In Version 4.4 können Sie auf der [individuellen Seite](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) die **Titelleiste** ausblenden. So lassen sich optisch ansprechende Landingpages gestalten. Bei den Elementen Bild und Karte erlauben Drop-down-Menüs die schnelle **Verlinkung** von anderen Seiten der App. Bei den **Statistiken** haben wir weitere Diagrammtypen hinzugefügt und zusätzliche Konfigurationsmöglichkeiten ergänzt, welche die Erstellung von Dashboards noch komfortabler machen. Um die vielen Stiloptionen übersichtlich darzustellen, haben wir den Stil des Diagramms und den allgemeinen Stil in zwei verschiedene Reiter aufgeteilt.
+In Version 4.4 können Sie auf der [individuellen Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) die **Titelleiste** ausblenden. So lassen sich optisch ansprechende Landingpages gestalten. Bei den Elementen Bild und Karte erlauben Drop-down-Menüs die schnelle **Verlinkung** von anderen Seiten der App. Bei den **Statistiken** haben wir weitere Diagrammtypen hinzugefügt und zusätzliche Konfigurationsmöglichkeiten ergänzt, welche die Erstellung von Dashboards noch komfortabler machen. Um die vielen Stiloptionen übersichtlich darzustellen, haben wir den Stil des Diagramms und den allgemeinen Stil in zwei verschiedene Reiter aufgeteilt.
 
 ## Galerie- und Datenabfrage-Apps
 
-Wie in den letzten Release Notes angekündigt, haben wir in SeaTable 4.4 den **Galerie App Builder entfernt**. Wenn Sie eine neue App mit einer [Galerie](https://seatable.io/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) anlegen wollen, dann steht Ihnen mit dem Universal App Builder eine funktional höherwertige Alternative zur Verfügung.
+Wie in den letzten Release Notes angekündigt, haben wir in SeaTable 4.4 den **Galerie App Builder entfernt**. Wenn Sie eine neue App mit einer [Galerie]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) anlegen wollen, dann steht Ihnen mit dem Universal App Builder eine funktional höherwertige Alternative zur Verfügung.
 
 {{< warning headline="Gut zu wissen" text="**Bestehende Galerie-Apps funktionieren weiterhin**. Wir empfehlen aber, bestehende Galerie-Apps auf Universelle Apps umzustellen, um von Weiterentwicklungen und Verbesserungen zu profitieren." />}}
 
 ![Create app dialog](Create-app-dialog-.png)
 
-Auch bei der [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/) hat sich einiges getan. Der alte App Builder für Datenabfragen wurde entfernt und durch einen neuen auf Basis des Universal App Builders ersetzt. Das heißt: Sie können natürlich weiterhin öffentliche Apps für die Abfrage Ihrer Bases anlegen, das Interface sieht nun aber aus wie im Universal App Builder. Für bestehende Abfrage-Apps gilt das Gleiche wie für Galerie-Apps: Sie müssen nichts tun und können diese weiter verwenden.
+Auch bei der [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) hat sich einiges getan. Der alte App Builder für Datenabfragen wurde entfernt und durch einen neuen auf Basis des Universal App Builders ersetzt. Das heißt: Sie können natürlich weiterhin öffentliche Apps für die Abfrage Ihrer Bases anlegen, das Interface sieht nun aber aus wie im Universal App Builder. Für bestehende Abfrage-Apps gilt das Gleiche wie für Galerie-Apps: Sie müssen nichts tun und können diese weiter verwenden.
 
 {{< warning headline="Effizienzgewinn" text="Durch die beschriebenen Änderungen können wir uns auf die Weiterentwicklung des Universal App Builders fokussieren und damit eine höhere Entwicklungsgeschwindigkeit für kommende Features erreichen." />}}
 
@@ -94,7 +94,7 @@ Da sich der Wirkungsbereich der Standardwerte erheblich vergrößert hat, haben 
 
 ## Und vieles mehr
 
-Den **Editor für formatierten Text** kennen Sie bereits von verschiedenen Stellen in SeaTable, z. B. von der [Base-Beschreibung]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), dem [Spaltentyp für lange Texte](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) oder [E-Mail-Nachrichten]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). Mit SeaTable 4.4 haben wir die Usability verbessert und einige Bugs behoben. Hier nur zwei: Bisher wurden mehrfache Zeilenumbrüche beim Schließen des Editors entfernt und bestehender Text beim Tippen in der Zelle überschrieben. Im neuen Editor bleiben mehrfache Zeilenumbrüche erhalten und können dazu dienen, den Text übersichtlicher zu strukturieren. Auch die Gefahr von ungewollten Löschungen haben wir beseitigt: Bei der Eingabe wird der neue Text dem bestehenden Text vorangestellt.
+Den **Editor für formatierten Text** kennen Sie bereits von verschiedenen Stellen in SeaTable, z. B. von der [Base-Beschreibung]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), dem [Spaltentyp für lange Texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) oder [E-Mail-Nachrichten]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). Mit SeaTable 4.4 haben wir die Usability verbessert und einige Bugs behoben. Hier nur zwei: Bisher wurden mehrfache Zeilenumbrüche beim Schließen des Editors entfernt und bestehender Text beim Tippen in der Zelle überschrieben. Im neuen Editor bleiben mehrfache Zeilenumbrüche erhalten und können dazu dienen, den Text übersichtlicher zu strukturieren. Auch die Gefahr von ungewollten Löschungen haben wir beseitigt: Bei der Eingabe wird der neue Text dem bestehenden Text vorangestellt.
 
 In der neuen Version haben wir auch die **Benachrichtigungszentrale** {{< seatable-icon icon="dtable-icon-notice" >}} auf der Startseite verbessert. Jetzt können Sie alle [Benachrichtigungen]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) im System an einem Ort sehen, die Quelle der Benachrichtigung nachvollziehen und mit einem Klick zur entsprechenden Seite gelangen.
 

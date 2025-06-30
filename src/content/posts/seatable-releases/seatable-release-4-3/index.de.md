@@ -14,7 +14,7 @@ Die Karnevalszeit in Deutschland nähert sich ihrem Höhepunkt – und auch bei 
 
 Freuen Sie sich auf einen neuen Dialog zur Erstellung von **Formularlinks**, in dem Sie die URLs an Ihre persönlichen Wünsche anpassen können. Nutzen Sie zwei neue **Automationen**, um Dokumente zu erstellen und Benachrichtigungen an App-Nutzer zu senden. Oder probieren Sie die Neuerungen in der **Universellen App** aus: Auf Sie warten unter anderem Kommentare, zwei weitere Elemente für die individuelle Seite und ein verbessertes Customizing der Farbgestaltung.
 
-Heute Morgen haben wir SeaTable Cloud auf Version 4.3 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 4.3 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog](https://seatable.io/docs/changelog/version-4/) finden Sie wie immer die vollständige Liste der Änderungen.
+Heute Morgen haben wir SeaTable Cloud auf Version 4.3 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 4.3 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog]({{< relref "pages/changelog" >}}) finden Sie wie immer die vollständige Liste der Änderungen.
 
 Darüber hinaus haben wir ein Upgrade der Plugins auf Webpack 5 durchgeführt sowie ein Upgrade des Frameworks auf React 17.0.2, das künftig mehr Sicherheit und Stabilität gewährleistet und weitere Funktionen ermöglicht.
 
@@ -57,7 +57,7 @@ Ganz neu in der Universellen App ist die [Kommentarfunktion]({{< relref "help/ba
 
 {{< warning headline="Gut zu wissen" text="Die Kommentare in der App sind komplett **unabhängig** von den Kommentaren in der Base. Das heißt: Jeder Kommentar ist nur dort zu sehen, wo er gepostet wird." />}}
 
-Auf der [individuellen Seite](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) können Sie sich auf zwei neue Elemente freuen: den **Container** und die **Karte**. Der Container gibt ein Raster vor, mit dem Sie andere Elemente (Texte, Bilder, Statistiken) leichter anordnen und in Gruppen zusammenfassen können.
+Auf der [individuellen Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) können Sie sich auf zwei neue Elemente freuen: den **Container** und die **Karte**. Der Container gibt ein Raster vor, mit dem Sie andere Elemente (Texte, Bilder, Statistiken) leichter anordnen und in Gruppen zusammenfassen können.
 
 ![Container element on custom page in SeaTable 4.3](Container-element-on-custom-page.png)
 
@@ -69,15 +69,15 @@ Außerdem lässt sich die **Hintergrundfarbe** von individuellen Seiten ab SeaTa
 
 ### Berechtigungen auf Tabellenseiten
 
-Die Vererbung von [Spaltenberechtigungen]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) aus der Base wird mit SeaTable 4.3 abgeschafft. Wenn Sie eine Spalte in der Universellen App für die Bearbeitung sperren möchten, können Sie sie stattdessen in den Einstellungen der [Tabellenseite](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) auf **„nur lesbar“** setzen.
+Die Vererbung von [Spaltenberechtigungen]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) aus der Base wird mit SeaTable 4.3 abgeschafft. Wenn Sie eine Spalte in der Universellen App für die Bearbeitung sperren möchten, können Sie sie stattdessen in den Einstellungen der [Tabellenseite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) auf **„nur lesbar“** setzen.
 
 Ebenso werden alle Einschränkungen für [Schaltflächen-Aktionen]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) aufgehoben. Jeder App-Nutzer kann nun vordefinierte Änderungen an den Datensätzen ausführen, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind und der Nutzer nicht zur Bearbeitung der Seite berechtigt ist.
 
 ## Wichtige Ankündigung: Entfernung der Galerie- und Datenabfrage-App
 
-In Version 4.4 werden die [Galerie-App](https://seatable.io/docs/apps/galerie-app/) und die [Datenabfrage-App](https://seatable.io/docs/apps/datenabfrage-app/) verschwinden, da man ihre Funktionalität mittlerweile vollständig mit den entsprechenden **Seitentypen** in der Universellen App abbilden kann. Der Universal App Builder wird zukünftig also die einzige Option sein, um Apps in SeaTable zu erstellen.
+In Version 4.4 werden die [Galerie-App]({{< relref help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps >}}) und die [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) verschwinden, da man ihre Funktionalität mittlerweile vollständig mit den entsprechenden **Seitentypen** in der Universellen App abbilden kann. Der Universal App Builder wird zukünftig also die einzige Option sein, um Apps in SeaTable zu erstellen.
 
-Wenn Sie die beiden ablaufenden Apps nutzen, empfehlen wir Ihnen, Ihre Anwendungsfälle vor dem nächsten Release mit [Galerieseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) und [Abfrageseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) im App Builder nachzubauen. Auf Abfrageseiten können Sie mittlerweile übrigens Felder hinzufügen, mit denen die Nutzer auch **Link-Spalten** nach bestimmten Werten durchsuchen können.
+Wenn Sie die beiden ablaufenden Apps nutzen, empfehlen wir Ihnen, Ihre Anwendungsfälle vor dem nächsten Release mit [Galerieseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) und [Abfrageseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) im App Builder nachzubauen. Auf Abfrageseiten können Sie mittlerweile übrigens Felder hinzufügen, mit denen die Nutzer auch **Link-Spalten** nach bestimmten Werten durchsuchen können.
 
 {{< warning headline="Achtung, Verwechslungsgefahr!" >}}
 

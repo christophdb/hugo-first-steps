@@ -14,7 +14,7 @@ O **SeaTable 4.2** leva o desenvolvimento do Universal App Builder para o próxi
 
 No entanto, o SeaTable 4.2 não é apenas um lançamento do construtor de aplicações. Os fãs de fórmulas podem esperar pela nova **função iserror()** e os optimizadores de processos apreciarão a utilização mais versátil da **ação "Editar entrada"**. Descubra o que mais foi alterado no artigo seguinte.
 
-Esta manhã, actualizámos o SeaTable Cloud para a versão 4.2. Todos os auto-hosters podem fazer o mesmo: A imagem do SeaTable 4.2 está disponível para download no conhecido [repositórioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como sempre, pode encontrar a lista completa de alterações no [registo de alterações](https://seatable.io/pt/docs/changelog/version-4/).
+Esta manhã, actualizámos o SeaTable Cloud para a versão 4.2. Todos os auto-hosters podem fazer o mesmo: A imagem do SeaTable 4.2 está disponível para download no conhecido [repositórioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como sempre, pode encontrar a lista completa de alterações no [registo de alterações]({{< relref "pages/changelog" >}}).
 
 ## Gestão de versões em aplicações universais
 
@@ -36,7 +36,7 @@ Se restaurar um instantâneo guardado, a aplicação é reposta no estado anteri
 
 ## Verificação de duplicados em páginas de tabelas e formulários
 
-Especialmente com aplicações universais, que muitos utilizadores podem utilizar para fazer novas entradas numa base, é fácil criar **linhas idênticas**. É possível evitar isso no futuro ativando a função para evitar a adição de duplicatas em [páginas de tabelas e formulários](https://seatable.io/pt/docs/apps/seitentypen-in-der-universellen-app/). Ao fazer isso, define-se as colunas nas quais os valores devem coincidir para que uma linha conte como **duplicada**. Se a adição de uma linha for bloqueada, uma mensagem de erro correspondente será exibida.
+Especialmente com aplicações universais, que muitos utilizadores podem utilizar para fazer novas entradas numa base, é fácil criar **linhas idênticas**. É possível evitar isso no futuro ativando a função para evitar a adição de duplicatas em [páginas de tabelas e formulários]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Ao fazer isso, define-se as colunas nas quais os valores devem coincidir para que uma linha conte como **duplicada**. Se a adição de uma linha for bloqueada, uma mensagem de erro correspondente será exibida.
 
 ![Impedir a adição de duplicados em aplicações universais](Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
@@ -80,7 +80,7 @@ A partir da versão 4.2, é possível converter [as vistas privadas]({{< relref 
 
 ### Funções adicionais para o processamento de dados
 
-Na operação de processamento de dados [Calcular lista ordenada](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/), agora é possível marcar a **ordem** em que os valores devem ser listados. Para isso, especificar se o maior ou o menor valor deve ser listado primeiro.
+Na operação de processamento de dados [Calcular lista ordenada]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}}), agora é possível marcar a **ordem** em que os valores devem ser listados. Para isso, especificar se o maior ou o menor valor deve ser listado primeiro.
 
 {{< warning headline="Nova autorização" >}}
 
@@ -88,4 +88,4 @@ Como proprietário ou administrador de uma base, é possível especificar nas [d
 
 {{< /warning >}}
 
-Além disso, o SeaTable 4.2 agora também suporta o tipo de coluna [Número automático](https://seatable.io/pt/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) para as operações de processamento de dados [Comparar e juntar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/), bem como [Comparar e copiar](https://seatable.io/pt/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/).
+Além disso, o SeaTable 4.2 agora também suporta o tipo de coluna [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) para as operações de processamento de dados [Comparar e juntar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}), bem como [Comparar e copiar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).

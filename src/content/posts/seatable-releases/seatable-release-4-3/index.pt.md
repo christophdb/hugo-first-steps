@@ -14,7 +14,7 @@ A época carnavalesca na Alemanha está a aproximar-se do seu auge - e os canhõ
 
 Aguarde um novo diálogo para criar **ligações de formulários**, no qual pode adaptar os URLs aos seus desejos pessoais. Utilize duas novas **automatizações** para criar documentos e enviar notificações aos utilizadores da aplicação. Ou experimente as novas funcionalidades da **aplicação universal**: Entre outras coisas, pode esperar comentários, dois elementos adicionais para a página individual e uma melhor personalização do esquema de cores.
 
-Esta manhã, actualizámos o SeaTable Cloud para a versão 4.3. Todos os auto-hosters podem fazer o mesmo: A imagem do SeaTable 4.3 está disponível para download no conhecido [repositórioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como sempre, pode encontrar a lista completa de alterações no [registo de alterações](https://seatable.io/pt/docs/changelog/version-4/).
+Esta manhã, actualizámos o SeaTable Cloud para a versão 4.3. Todos os auto-hosters podem fazer o mesmo: A imagem do SeaTable 4.3 está disponível para download no conhecido [repositórioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como sempre, pode encontrar a lista completa de alterações no [registo de alterações]({{< relref "pages/changelog" >}}).
 
 Também actualizámos os plugins para Webpack 5 e actualizámos a estrutura para React 17.0.2, o que garantirá maior segurança e estabilidade no futuro e permitirá funções adicionais.
 
@@ -57,7 +57,7 @@ Uma nova funcionalidade da aplicação Universal é a [função de comentários]
 
 {{< warning headline="É bom saber" text="Os comentários na aplicação são completamente **independentes** dos comentários na base. Isto significa que cada comentário só é visível no local onde é publicado." />}}
 
-Na [página individual](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), pode contar com dois novos elementos: o **contentor** e o **mapa**. O contentor fornece uma grelha com a qual pode organizar mais facilmente outros elementos (textos, imagens, estatísticas) e agrupá-los.
+Na [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), pode contar com dois novos elementos: o **contentor** e o **mapa**. O contentor fornece uma grelha com a qual pode organizar mais facilmente outros elementos (textos, imagens, estatísticas) e agrupá-los.
 
 ![Elemento de contentor na página personalizada no SeaTable 4.3](Container-element-on-custom-page.png)
 
@@ -69,15 +69,15 @@ Além disso, a **cor de fundo** das páginas individuais pode ser definida confo
 
 ### Autorizações nas páginas do quadro
 
-A herança de [autorizações de colunas]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) a partir da base foi abolida com o SeaTable 4.3. Se pretender bloquear uma coluna na aplicação universal para edição, pode defini-la como **"só de leitura"** nas definições da [página da tabela](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/).
+A herança de [autorizações de colunas]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) a partir da base foi abolida com o SeaTable 4.3. Se pretender bloquear uma coluna na aplicação universal para edição, pode defini-la como **"só de leitura"** nas definições da [página da tabela]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}).
 
 Todas as restrições para [acções de botão]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) também foram removidas. Cada utilizador da aplicação pode agora fazer alterações predefinidas aos registos de dados, mesmo que as colunas afectadas estejam bloqueadas e o utilizador não esteja autorizado a editar a página.
 
 ## Anúncio importante: Remoção da galeria e da aplicação de consulta de dados
 
-Na versão 4.4, a [aplicação de galeria](https://seatable.io/pt/docs/apps/galerie-app/) e a [aplicação de consulta de dados](https://seatable.io/pt/docs/apps/datenabfrage-app/) desaparecerão, uma vez que a sua funcionalidade pode agora ser totalmente mapeada com os **tipos de página** correspondentes na aplicação universal. O Universal App Builder será, portanto, a única opção para criar aplicações no SeaTable no futuro.
+Na versão 4.4, a [aplicação de galeria]({{< relref help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps >}}) e a [aplicação de consulta de dados]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) desaparecerão, uma vez que a sua funcionalidade pode agora ser totalmente mapeada com os **tipos de página** correspondentes na aplicação universal. O Universal App Builder será, portanto, a única opção para criar aplicações no SeaTable no futuro.
 
-Se utilizar as duas aplicações que estão a expirar, recomendamos que reconstrua os seus casos de utilização com [páginas de galeria](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) e [páginas](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) de consulta no App Builder antes da próxima versão. A propósito, agora é possível adicionar campos às páginas de consulta que permitem aos utilizadores pesquisar **colunas de ligação** para valores específicos.
+Se utilizar as duas aplicações que estão a expirar, recomendamos que reconstrua os seus casos de utilização com [páginas de galeria]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) e [páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) de consulta no App Builder antes da próxima versão. A propósito, agora é possível adicionar campos às páginas de consulta que permitem aos utilizadores pesquisar **colunas de ligação** para valores específicos.
 
 {{< warning headline="Atenção, perigo de confusão!" >}}
 

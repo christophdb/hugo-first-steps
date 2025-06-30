@@ -16,7 +16,7 @@ Já utiliza processos automatizados nas suas bases para poupar tempo e cliques? 
 
 O desenvolvimento do [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) está a progredir a passos largos: o SeaTable 4.1 tem novas funções que lhe permitem diferenciar com maior precisão as permissões de utilizador e a visualização de dados nas aplicações. Além disso, melhorámos ou adicionámos muitas funções mais pequenas no SeaTable 4.1. Veja por si próprio - a lista é longa e muito agradável!
 
-Esta manhã, actualizámos o SeaTable Cloud para a versão 4.1. Todos os auto-hosters podem fazer o mesmo: A imagem do SeaTable 4.1 está disponível para download no conhecido [repositórioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como sempre, pode encontrar a lista completa de alterações no [registo de alterações](https://seatable.io/pt/docs/changelog/version-4/).
+Esta manhã, actualizámos o SeaTable Cloud para a versão 4.1. Todos os auto-hosters podem fazer o mesmo: A imagem do SeaTable 4.1 está disponível para download no conhecido [repositórioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como sempre, pode encontrar a lista completa de alterações no [registo de alterações]({{< relref "pages/changelog" >}}).
 
 ## Automatizações mais potentes
 
@@ -46,7 +46,7 @@ Também é nova a função de pesquisa com a qual pode pesquisar as suas própri
 
 O desenvolvimento do Universal App Builder está na reta final e a nossa equipa está a trabalhar afincadamente para afinar os detalhes. O SeaTable 4.1 traz principalmente novas funções para controlar as permissões dos utilizadores da aplicação universal de forma mais fina e precisa.
 
-[As permissões de página](https://seatable.io/pt/docs/apps/seitenberechtigungen-in-einer-universellen-app/) permitem a gestão de permissões para uma página inteira de uma aplicação: quem tem permissão para ver linhas numa página, quem tem permissão para criar linhas, quem tem permissão para alterar e eliminar linhas. O SeaTable 4.1 introduz uma lógica de permissão simples para as colunas. As colunas podem agora ser individualmente definidas como**"apenas leitura**" e, assim, removidas da edição pelos utilizadores. As novas permissões de coluna na aplicação universal aplicam-se para além das [permissões de coluna]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) na base e, em combinação, permitem um controlo muito granular das permissões de utilizador numa página de tabela.
+[As permissões de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) permitem a gestão de permissões para uma página inteira de uma aplicação: quem tem permissão para ver linhas numa página, quem tem permissão para criar linhas, quem tem permissão para alterar e eliminar linhas. O SeaTable 4.1 introduz uma lógica de permissão simples para as colunas. As colunas podem agora ser individualmente definidas como**"apenas leitura**" e, assim, removidas da edição pelos utilizadores. As novas permissões de coluna na aplicação universal aplicam-se para além das [permissões de coluna]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) na base e, em combinação, permitem um controlo muito granular das permissões de utilizador numa página de tabela.
 
 {{< warning headline="É bom saber" text="No SeaTable 4.1, **os utilizadores com** permissão **de leitura** têm permissão para executar acções de botão nas páginas da tabela, mesmo que estas causem alterações no registo." />}}
 
@@ -56,7 +56,7 @@ As melhorias no lado da tabela não se ficam por aqui: com um clique, pode apres
 
 ![Novas funções no Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
-E os outros tipos de página também não ficam de mãos a abanar: Os [tipos de página](https://seatable.io/pt/docs/apps/seitentypen-in-der-universellen-app/) consulta e formulário Web também oferecem permissões de página. Na página individual, os elementos podem agora ser movidos e posicionados mais facilmente.
+E os outros tipos de página também não ficam de mãos a abanar: Os [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) consulta e formulário Web também oferecem permissões de página. Na página individual, os elementos podem agora ser movidos e posicionados mais facilmente.
 
 ## E muito mais
 

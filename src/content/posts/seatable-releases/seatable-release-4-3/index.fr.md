@@ -14,7 +14,7 @@ La période du carnaval en Allemagne approche de son apogée - et chez SeaTable 
 
 Profitez d'une nouvelle boîte de dialogue pour créer des **liens vers des formulaires**, dans laquelle vous pouvez adapter les URL à vos souhaits personnels. Utilisez deux nouvelles **automatisations** pour créer des documents et envoyer des notifications aux utilisateurs de l'application. Ou essayez les nouveautés de l'**application universelle**: Des commentaires, deux éléments supplémentaires pour la page individuelle et une meilleure personnalisation des couleurs vous attendent entre autres.
 
-Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.3. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.3 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog](https://seatable.io/fr/docs/changelog/version-4/) la liste complète des modifications.
+Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.3. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.3 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog]({{< relref "pages/changelog" >}}) la liste complète des modifications.
 
 Nous avons également procédé à une mise à niveau des plug-ins vers le Webpack 5, ainsi qu'à une mise à niveau du framework vers React 17.0.2, qui garantira à l'avenir une sécurité et une stabilité accrues et permettra d'ajouter de nouvelles fonctionnalités.
 
@@ -57,7 +57,7 @@ La [fonction de commentaire]({{< relref "help/base-editor/zeilen/zeilen-kommenti
 
 {{< warning headline="Bon à savoir" text="Les commentaires dans l'application sont complètement **indépendants** des commentaires dans la base. Cela signifie que chaque commentaire n'est visible que là où il est posté." />}}
 
-Sur la [page individuelle](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), vous pouvez vous réjouir de deux nouveaux éléments : le **conteneur** et la **carte**. Le conteneur donne une grille qui vous permet de disposer plus facilement d'autres éléments (textes, images, statistiques) et de les regrouper.
+Sur la [page individuelle]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), vous pouvez vous réjouir de deux nouveaux éléments : le **conteneur** et la **carte**. Le conteneur donne une grille qui vous permet de disposer plus facilement d'autres éléments (textes, images, statistiques) et de les regrouper.
 
 ![Élément conteneur sur page personnalisée dans SeaTable 4.3](Container-element-on-custom-page.png)
 
@@ -69,15 +69,15 @@ De plus, à partir de la version 4.3 de SeaTable, la **couleur d'arrière-plan**
 
 ### Autorisations sur les pages de tableaux
 
-L'héritage des [autorisations de colonnes]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) de la Base est supprimé dans SeaTable 4.3. Si vous souhaitez bloquer l'édition d'une colonne dans l'application universelle, vous pouvez à la place la définir **comme "en lecture seule"** dans les paramètres de la [page du tableau](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/).
+L'héritage des [autorisations de colonnes]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) de la Base est supprimé dans SeaTable 4.3. Si vous souhaitez bloquer l'édition d'une colonne dans l'application universelle, vous pouvez à la place la définir **comme "en lecture seule"** dans les paramètres de la [page du tableau]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}).
 
 De même, toutes les restrictions concernant les [actions sur les boutons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) sont levées. Tout utilisateur de l'application peut désormais effectuer des modifications prédéfinies sur les enregistrements, même si les colonnes concernées sont par ailleurs bloquées pour lui et que l'utilisateur n'est pas autorisé à modifier la page.
 
 ## Annonce importante : Suppression de l'application Galerie et de l'application de consultation des données
 
-Dans la version 4.4, l'[application Galerie](https://seatable.io/fr/docs/apps/galerie-app/) et l'[application de consultation de données](https://seatable.io/fr/docs/apps/datenabfrage-app/) disparaîtront, car il est désormais possible de reproduire entièrement leurs fonctionnalités avec les **types de pages** correspondants dans l'application universelle. L'Universal App Builder sera donc à l'avenir la seule option pour créer des applications dans SeaTable.
+Dans la version 4.4, l'[application Galerie]({{< relref help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps >}}) et l'[application de consultation de données]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) disparaîtront, car il est désormais possible de reproduire entièrement leurs fonctionnalités avec les **types de pages** correspondants dans l'application universelle. L'Universal App Builder sera donc à l'avenir la seule option pour créer des applications dans SeaTable.
 
-Si vous utilisez les deux applications en cours d'exécution, nous vous recommandons de recréer vos cas d'utilisation avec des [pages de galerie](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) et [des pages de requête](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) dans l'App Builder avant la prochaine version. Sur les pages de requête, vous pouvez d'ailleurs entre-temps ajouter des champs qui permettent aux utilisateurs de rechercher également **des colonnes de liens** pour certaines valeurs.
+Si vous utilisez les deux applications en cours d'exécution, nous vous recommandons de recréer vos cas d'utilisation avec des [pages de galerie]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) et [des pages de requête]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) dans l'App Builder avant la prochaine version. Sur les pages de requête, vous pouvez d'ailleurs entre-temps ajouter des champs qui permettent aux utilisateurs de rechercher également **des colonnes de liens** pour certaines valeurs.
 
 {{< warning headline="Attention, risque de confusion !" >}}
 

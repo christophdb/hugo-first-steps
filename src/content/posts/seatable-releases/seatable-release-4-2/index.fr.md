@@ -14,7 +14,7 @@ Dans **SeaTable 4.2**, le développement de l'Universal App Builder passe à la 
 
 SeaTable 4.2 n'est cependant pas une simple version App Builder. Les amateurs de formules se réjouiront de la nouvelle **fonction iserror()** et les optimiseurs de processus apprécieront la possibilité d'utiliser l'**action "Modifier l'entrée"** de manière plus polyvalente. Vous découvrirez dans l'article suivant ce qui a encore changé.
 
-Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.2. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.2 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog](https://seatable.io/fr/docs/changelog/version-4/) la liste complète des modifications.
+Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.2. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.2 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog]({{< relref "pages/changelog" >}}) la liste complète des modifications.
 
 ## Gestion des versions dans les applications universelles
 
@@ -36,7 +36,7 @@ Lorsque vous restaurez un snapshot enregistré, l'application est restaurée à 
 
 ## Contrôle des doublons sur les pages de tableaux et de formulaires
 
-C'est justement dans les applications universelles, par le biais desquelles de nombreux utilisateurs peuvent effectuer de nouvelles entrées dans une base, qu'il est vite arrivé que **des lignes identiques** soient créées. Vous pouvez empêcher cela à l'avenir en activant la fonction empêchant l'ajout de doublons sur les [pages de tableaux et de formulaires](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/). Vous définissez ainsi les colonnes dans lesquelles les valeurs doivent correspondre pour qu'une ligne soit considérée comme **un doublon**. Si l'ajout d'une ligne est bloqué, un message d'erreur apparaît.
+C'est justement dans les applications universelles, par le biais desquelles de nombreux utilisateurs peuvent effectuer de nouvelles entrées dans une base, qu'il est vite arrivé que **des lignes identiques** soient créées. Vous pouvez empêcher cela à l'avenir en activant la fonction empêchant l'ajout de doublons sur les [pages de tableaux et de formulaires]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Vous définissez ainsi les colonnes dans lesquelles les valeurs doivent correspondre pour qu'une ligne soit considérée comme **un doublon**. Si l'ajout d'une ligne est bloqué, un message d'erreur apparaît.
 
 ![Empêcher l'ajout de doublons dans les applications universelles](Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
@@ -80,7 +80,7 @@ Dans SeaTable 4.2, nous avons affiné la fonction de recherche sur la page d'acc
 
 ### Fonctions supplémentaires pour le traitement des données
 
-Lors de l'opération de traitement des données [Calculer le classement](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/), vous pouvez maintenant choisir l'**ordre** dans lequel les valeurs doivent être listées. Pour cela, indiquez si la plus grande ou la plus petite valeur doit être placée en premier.
+Lors de l'opération de traitement des données [Calculer le classement]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}}), vous pouvez maintenant choisir l'**ordre** dans lequel les valeurs doivent être listées. Pour cela, indiquez si la plus grande ou la plus petite valeur doit être placée en premier.
 
 {{< warning headline="Nouvelle autorisation" >}}
 
@@ -88,4 +88,4 @@ Dans les [paramètres de sécurité]({{< relref "help/base-editor/weitere-option
 
 {{< /warning >}}
 
-De plus, SeaTable 4.2 prend désormais en charge le type de colonne [Numéro automatique](https://seatable.io/fr/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) pour les opérations de traitement des données [Comparer et relier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) et [Comparer et copier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/).
+De plus, SeaTable 4.2 prend désormais en charge le type de colonne [Numéro automatique]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) pour les opérations de traitement des données [Comparer et relier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) et [Comparer et copier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).

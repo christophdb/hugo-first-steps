@@ -12,7 +12,7 @@ seo:
 
 Dans SeaTable 4.4, nous poursuivons avec verve le développement de l'Universal App Builder. De nombreuses nouvelles fonctions permettent de créer des applications web encore plus puissantes et confortables. En outre, nous avons peaufiné la fonction d'importation et les jeux de données communs. Les valeurs par défaut pratiques s'appliquent désormais de manière universelle.
 
-Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.4. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.4 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog](https://seatable.io/fr/docs/changelog/version-4/) la liste complète des modifications.
+Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.4. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.4 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog]({{< relref "pages/changelog" >}}) la liste complète des modifications.
 
 ## Un App Builder plus flexible et plus puissant
 
@@ -20,7 +20,7 @@ Dans SeaTable 4.4, nous avons à nouveau apporté un grand nombre d'amélioratio
 
 ### Boutons sur les pages d'interrogation
 
-[Les pages de requête](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) prennent désormais en charge l'exécution d'actions à l'aide de boutons : Après une requête de données réussie, il est possible d'actionner [des boutons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) dans la liste de résultats affichée afin d'effectuer des actions. Il s'agit d'une nouveauté particulière, car jusqu'à présent, SeaTable ne permettait nulle part d'interagir avec les lignes interrogées.
+[Les pages de requête]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) prennent désormais en charge l'exécution d'actions à l'aide de boutons : Après une requête de données réussie, il est possible d'actionner [des boutons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) dans la liste de résultats affichée afin d'effectuer des actions. Il s'agit d'une nouveauté particulière, car jusqu'à présent, SeaTable ne permettait nulle part d'interagir avec les lignes interrogées.
 
 ![Exécuter des boutons sur des pages de requête](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -32,7 +32,7 @@ Jusqu'à présent, il n'était pas possible de modifier les rendez-vous sur la [
 
 ### Manipulation simplifiée des données côté tableau
 
-Comme dans la base, vous pouvez désormais [sélectionner toutes les entrées d'une colonne]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) sur les [pages de tableau](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) de vos apps en un seul clic sur l'en-tête de la colonne. La [poignée de remplissage](https://seatable.io/fr/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) pratique est également désormais possible : faites glisser le petit carré dans le coin inférieur droit d'une cellule vers le bas pour transférer la valeur dans toutes les lignes situées en dessous.
+Comme dans la base, vous pouvez désormais [sélectionner toutes les entrées d'une colonne]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) sur les [pages de tableau]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) de vos apps en un seul clic sur l'en-tête de la colonne. La [poignée de remplissage](https://seatable.io/fr/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) pratique est également désormais possible : faites glisser le petit carré dans le coin inférieur droit d'une cellule vers le bas pour transférer la valeur dans toutes les lignes situées en dessous.
 
 ![Marquer les entrées de colonne](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
@@ -42,17 +42,17 @@ Si vous utilisez une [colonne d'employés]({{< relref "help/base-editor/auswahl-
 
 ### Plus d'options de customisation pour des pages personnalisées
 
-Dans la version 4.4, il est possible de masquer la **barre de titre** sur la [page individuelle](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). Cela permet de créer des pages de renvoi visuellement attrayantes. Pour les éléments image et carte, des menus déroulants permettent de **créer** rapidement **des liens** à partir d'autres pages de l'application. Pour les **statistiques**, nous avons ajouté d'autres types de graphiques et ajouté des possibilités de configuration supplémentaires qui rendent la création de tableaux de bord encore plus confortable. Afin de présenter clairement les nombreuses options de style, nous avons divisé le style du graphique et le style général en deux onglets différents.
+Dans la version 4.4, il est possible de masquer la **barre de titre** sur la [page individuelle]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). Cela permet de créer des pages de renvoi visuellement attrayantes. Pour les éléments image et carte, des menus déroulants permettent de **créer** rapidement **des liens** à partir d'autres pages de l'application. Pour les **statistiques**, nous avons ajouté d'autres types de graphiques et ajouté des possibilités de configuration supplémentaires qui rendent la création de tableaux de bord encore plus confortable. Afin de présenter clairement les nombreuses options de style, nous avons divisé le style du graphique et le style général en deux onglets différents.
 
 ## Applications de galerie et de consultation de données
 
-Comme nous l'avons annoncé dans les dernières notes de version, nous avons **supprimé** le **Générateur d'applications de galerie** dans SeaTable 4.4. Si vous souhaitez créer une nouvelle application avec une [galerie](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/), vous disposez d'une alternative plus fonctionnelle avec l'Universal App Builder.
+Comme nous l'avons annoncé dans les dernières notes de version, nous avons **supprimé** le **Générateur d'applications de galerie** dans SeaTable 4.4. Si vous souhaitez créer une nouvelle application avec une [galerie]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}), vous disposez d'une alternative plus fonctionnelle avec l'Universal App Builder.
 
 {{< warning headline="Bon à savoir" text="**Les applications de galerie existantes continuent de fonctionner**. Nous recommandons toutefois de passer les applications de galerie existantes aux applications universelles afin de profiter des développements et des améliorations." />}}
 
 ![Créer un dialogue d'application](Create-app-dialog-.png)
 
-L'[application de consultation des données](https://seatable.io/fr/docs/apps/datenabfrage-app/) a également connu quelques changements. L'ancien App Builder pour la consultation des données a été supprimé et remplacé par un nouveau basé sur l'Universal App Builder. Cela signifie que vous pouvez bien sûr continuer à créer des applications publiques pour la consultation de vos bases, mais l'interface ressemble désormais à celle de l'Universal App Builder. Pour les apps de requête existantes, la situation est la même que pour les apps de galerie : vous ne devez rien faire et vous pouvez continuer à les utiliser.
+L'[application de consultation des données]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) a également connu quelques changements. L'ancien App Builder pour la consultation des données a été supprimé et remplacé par un nouveau basé sur l'Universal App Builder. Cela signifie que vous pouvez bien sûr continuer à créer des applications publiques pour la consultation de vos bases, mais l'interface ressemble désormais à celle de l'Universal App Builder. Pour les apps de requête existantes, la situation est la même que pour les apps de galerie : vous ne devez rien faire et vous pouvez continuer à les utiliser.
 
 {{< warning headline="Gain d'efficacité" text="Les changements décrits ci-dessus nous permettent de nous concentrer sur le développement de l'Universal App Builder et d'atteindre ainsi une vitesse de développement plus élevée pour les fonctionnalités à venir." />}}
 
@@ -94,7 +94,7 @@ D'ailleurs, même lorsque vous créez de nouvelles lignes via l'API, vous pouvez
 
 ## Et bien plus encore
 
-Vous connaissez déjà l'**éditeur de texte formaté** de plusieurs endroits dans SeaTable, comme la [description de la base]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), le [type de colonne pour les textes longs](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) ou [les messages électroniques]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). Avec SeaTable 4.4, nous avons amélioré la convivialité et corrigé quelques bugs. En voici deux : jusqu'à présent, les retours à la ligne multiples étaient supprimés lors de la fermeture de l'éditeur et le texte existant était écrasé lorsque l'utilisateur tapait dans la cellule. Dans le nouvel éditeur, les retours à la ligne multiples sont conservés et peuvent servir à structurer le texte de manière plus claire. Nous avons également éliminé le risque de suppressions involontaires : Lors de la saisie, le nouveau texte précède le texte existant.
+Vous connaissez déjà l'**éditeur de texte formaté** de plusieurs endroits dans SeaTable, comme la [description de la base]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), le [type de colonne pour les textes longs]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) ou [les messages électroniques]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). Avec SeaTable 4.4, nous avons amélioré la convivialité et corrigé quelques bugs. En voici deux : jusqu'à présent, les retours à la ligne multiples étaient supprimés lors de la fermeture de l'éditeur et le texte existant était écrasé lorsque l'utilisateur tapait dans la cellule. Dans le nouvel éditeur, les retours à la ligne multiples sont conservés et peuvent servir à structurer le texte de manière plus claire. Nous avons également éliminé le risque de suppressions involontaires : Lors de la saisie, le nouveau texte précède le texte existant.
 
 Dans la nouvelle version, nous avons également amélioré le **centre de notifications** {{< seatable-icon icon="dtable-icon-notice" >}} sur la page d'accueil. Désormais, vous pouvez voir toutes les [notifications]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) du système au même endroit, suivre la source de la notification et accéder à la page correspondante en un seul clic.
 

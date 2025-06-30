@@ -14,7 +14,7 @@ seo:
 
 However, SeaTable 4.2 is not just an app builder release. Formula fans can look forward to the new **iserror() function** and process optimizers will appreciate the more versatile use of the **"Modify record" action**. Find out what else has changed in the following article.
 
-This morning we updated SeaTable Cloud to version 4.2. All self-hosters can do the same: The image of SeaTable 4.2 is available for download in the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, you can find the complete list of changes in the [changelog](https://seatable.io/en/docs/changelog/version-4/).
+This morning we updated SeaTable Cloud to version 4.2. All self-hosters can do the same: The image of SeaTable 4.2 is available for download in the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, you can find the complete list of changes in the [changelog]({{< relref "pages/changelog" >}}).
 
 ## Version management in universal apps
 
@@ -36,7 +36,7 @@ If you restore a saved snapshot, the app is reset to the previous status. All ch
 
 ## Duplicate check on table and form pages
 
-With universal apps in particular, which allow many users to add new records to a base, it is easy for **identical rows** to be created. You can prevent this by activating the function to prevent the addition of duplicates on [table and form pages](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/). In doing so, you define the columns in which the values must match for an row to count as a **duplicate**. If the addition of an row is blocked, a corresponding error message appears.
+With universal apps in particular, which allow many users to add new records to a base, it is easy for **identical rows** to be created. You can prevent this by activating the function to prevent the addition of duplicates on [table and form pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). In doing so, you define the columns in which the values must match for an row to count as a **duplicate**. If the addition of an row is blocked, a corresponding error message appears.
 
 ![Prevent the addition of duplicates in universal apps](Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
@@ -80,7 +80,7 @@ From version 4.2, you can convert [private views]({{< relref "help/base-editor/a
 
 ### Additional functions for data processing
 
-In the [Calculate rank](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/) data processing operation, you can now select the **order** in which the values are to be listed. To do this, specify whether the largest or the smallest value should come first.
+In the [Calculate rank]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}}) data processing operation, you can now select the **order** in which the values are to be listed. To do this, specify whether the largest or the smallest value should come first.
 
 {{< warning headline="New authorization" >}}
 
@@ -88,4 +88,4 @@ As the owner or administrator of a base, you can specify in the [security settin
 
 {{< /warning >}}
 
-In addition, SeaTable 4.2 now also supports the column type [Automatic number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) for the data processing operations [Auto add link](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) as well as [Lookup and copy](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/).
+In addition, SeaTable 4.2 now also supports the column type [Automatic number]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) for the data processing operations [Auto add link]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) as well as [Lookup and copy]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).

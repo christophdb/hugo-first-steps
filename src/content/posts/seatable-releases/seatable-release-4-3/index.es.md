@@ -14,7 +14,7 @@ La temporada de carnaval en Alemania se acerca a su punto álgido, ¡y los caño
 
 Disfruta de un nuevo diálogo para crear **enlaces de formularios** en el que podrás adaptar las URL a tus deseos personales. Utilice dos nuevas **automatizaciones** para crear documentos y enviar notificaciones a los usuarios de la aplicación. O prueba las nuevas funciones de la **aplicación universal**: Entre otras cosas, puedes esperar comentarios, dos elementos adicionales para la página individual y una mejor personalización del esquema de colores.
 
-Esta mañana hemos actualizado SeaTable Cloud a la versión 4.3. Todos los auto-alojadores pueden hacer lo mismo: La imagen de SeaTable 4.3 está disponible para su descarga en el conocido [repositorioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como siempre, puede encontrar la lista completa de cambios en el [registro de cambios](https://seatable.io/es/docs/changelog/version-4/).
+Esta mañana hemos actualizado SeaTable Cloud a la versión 4.3. Todos los auto-alojadores pueden hacer lo mismo: La imagen de SeaTable 4.3 está disponible para su descarga en el conocido [repositorioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como siempre, puede encontrar la lista completa de cambios en el [registro de cambios]({{< relref "pages/changelog" >}}).
 
 También hemos actualizado los plugins a Webpack 5 y actualizado el framework a React 17.0.2, lo que garantizará una mayor seguridad y estabilidad en el futuro y permitirá funciones adicionales.
 
@@ -57,7 +57,7 @@ Una novedad de la aplicación universal es la [función de comentarios]({{< relr
 
 {{< warning headline="Es bueno saberlo" text="Los comentarios en la aplicación son completamente **independientes** de los comentarios en la base. Esto significa que cada comentario solo es visible donde se publica." />}}
 
-En la [página individual](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), le esperan dos nuevos elementos: el **contenedor** y el **mapa**. El contenedor proporciona una cuadrícula con la que puede organizar otros elementos (textos, imágenes, estadísticas) más fácilmente y agruparlos.
+En la [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), le esperan dos nuevos elementos: el **contenedor** y el **mapa**. El contenedor proporciona una cuadrícula con la que puede organizar otros elementos (textos, imágenes, estadísticas) más fácilmente y agruparlos.
 
 ![Elemento contenedor en página personalizada en SeaTable 4.3](Container-element-on-custom-page.png)
 
@@ -69,15 +69,15 @@ Además, el **color de fondo** de las páginas individuales se puede configurar 
 
 ### Autorizaciones en páginas de tablas
 
-La herencia de [autorizaciones de columna]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) de la base se suprime con SeaTable 4.3. Si desea bloquear la edición de una columna en la aplicación universal, puede establecerla como **"solo lectura"** en la configuración de [la página de la tabla](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/).
+La herencia de [autorizaciones de columna]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) de la base se suprime con SeaTable 4.3. Si desea bloquear la edición de una columna en la aplicación universal, puede establecerla como **"solo lectura"** en la configuración de [la página de la tabla]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}).
 
 También se han eliminado todas las restricciones para [las acciones de los botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Ahora todos los usuarios de la aplicación pueden realizar cambios predefinidos en los registros de datos, aunque las columnas afectadas estén bloqueadas para ellos y el usuario no esté autorizado a editar la página.
 
 ## Anuncio importante: Eliminación de la app de galería y consulta de datos
 
-En la versión 4.4, la [aplicación de galería](https://seatable.io/es/docs/apps/galerie-app/) y la [aplicación de consulta de datos](https://seatable.io/es/docs/apps/datenabfrage-app/) desaparecerán, ya que su funcionalidad ahora se puede asignar completamente con los **tipos de página** correspondientes en la aplicación universal. Por lo tanto, Universal App Builder será la única opción para crear aplicaciones en SeaTable en el futuro.
+En la versión 4.4, la [aplicación de galería]({{< relref help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps >}}) y la [aplicación de consulta de datos]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) desaparecerán, ya que su funcionalidad ahora se puede asignar completamente con los **tipos de página** correspondientes en la aplicación universal. Por lo tanto, Universal App Builder será la única opción para crear aplicaciones en SeaTable en el futuro.
 
-Si utiliza las dos aplicaciones que expiran, le recomendamos que reconstruya sus casos de uso con páginas de [galería](https://seatable.io/es/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) y páginas [de](https://seatable.io/es/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) consulta en el App Builder antes de la próxima versión. Por cierto, ahora puedes añadir campos a las páginas de consulta que permiten a los usuarios buscar valores específicos en **las columnas de enlace**.
+Si utiliza las dos aplicaciones que expiran, le recomendamos que reconstruya sus casos de uso con páginas de [galería]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) y páginas [de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) consulta en el App Builder antes de la próxima versión. Por cierto, ahora puedes añadir campos a las páginas de consulta que permiten a los usuarios buscar valores específicos en **las columnas de enlace**.
 
 {{< warning headline="¡Atención, peligro de confusión!" >}}
 

@@ -16,7 +16,7 @@ Do you already use automated processes in your bases to save time and clicks? If
 
 The development of the [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) is progressing in seven-league boots: SeaTable 4.1 has new features for you to differentiate user permissions and data visualization in apps more precisely. In addition, we have improved or added many smaller features in SeaTable 4.1. See for yourself - the list is long and very gratifying!
 
-This morning we updated SeaTable Cloud to version 4.1. All self-hosters can do the same: The SeaTable 4.1 image is available for download from the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, see the [changelog](https://seatable.io/en/docs/changelog/version-4/) for the full list of changes.
+This morning we updated SeaTable Cloud to version 4.1. All self-hosters can do the same: The SeaTable 4.1 image is available for download from the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, see the [changelog]({{< relref "pages/changelog" >}}) for the full list of changes.
 
 ## More powerful automations
 
@@ -46,7 +46,7 @@ Also new is the search function that allows you to search your custom folders in
 
 The development of the Universal App Builder is on the home stretch and our team is working hard to fine-tune the details. SeaTable 4.1 mainly brings new features to control the permissions of the Universal App users in a finer and more accurate way.
 
-[Page perm](https://seatable.io/en/docs/apps/seitenberechtigungen-in-einer-universellen-app/) issions allow to manage permissions for a whole page of an app: who is allowed to see rows on a page, who is allowed to create rows , who is allowed to modify and delete rows . SeaTable 4.1 introduces a simple permission logic for columns. Columns can now be individually set to "**read only**" and thus removed from user editing. The new column permissions in the Universal App apply in addition to the [column permissions]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) in Base and in combination allow very granular control of user permissions on a table page.
+[Page perm]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) issions allow to manage permissions for a whole page of an app: who is allowed to see rows on a page, who is allowed to create rows , who is allowed to modify and delete rows . SeaTable 4.1 introduces a simple permission logic for columns. Columns can now be individually set to "**read only**" and thus removed from user editing. The new column permissions in the Universal App apply in addition to the [column permissions]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) in Base and in combination allow very granular control of user permissions on a table page.
 
 {{< warning headline="Good to know" text="In SeaTable 4.1, **users with read-only access** are granted permission to perform button actions on table pages, even if they cause changes to the record." />}}
 
@@ -56,7 +56,7 @@ This is not the end of the improvements on the table side: with one click you ca
 
 ![New features in Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
-And the other page types do not go empty-handed either: The Query and Web Form [page types](https://seatable.io/en/docs/apps/seitentypen-in-der-universellen-app/) now offer page permissions. On the individual page, elements can now be moved and positioned more easily.
+And the other page types do not go empty-handed either: The Query and Web Form [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) now offer page permissions. On the individual page, elements can now be moved and positioned more easily.
 
 ## And much more
 

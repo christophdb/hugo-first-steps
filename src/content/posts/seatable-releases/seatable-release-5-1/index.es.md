@@ -22,7 +22,7 @@ Nuestros desarrolladores han revisado los [ajustes de la aplicación](https://se
 
 Páginas de palabras clave: Con SeaTable 5.1, todos los tipos de página ofrecen una función de vista previa de los archivos de imagen en las [columnas de archivos]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Los archivos PDF, Office y de texto se siguen mostrando con un icono de archivo.
 
-Si nos fijamos en los distintos tipos de página, la [página individual](https://seatable.io/es/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) y la [página de registros de datos individuales](https://seatable.io/es/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) son las que presentan más mejoras. Sin embargo, otros tipos de páginas también pueden esperar mejoras incrementales.
+Si nos fijamos en los distintos tipos de página, la [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) y la [página de registros de datos individuales](https://seatable.io/es/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) son las que presentan más mejoras. Sin embargo, otros tipos de páginas también pueden esperar mejoras incrementales.
 
 ### Tipo de página Página personalizada
 
@@ -44,7 +44,7 @@ Este tipo de página también ofrece más opciones de diseño visual en SeaTable
 
 ### Tipo de página Tabla
 
-En la versión 5.0, la función de exportación de [las páginas de tablas](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) estaba siempre activada. No había forma de que los administradores de aplicaciones **impidieran la exportación de una tabla a un archivo XLSX**. En SeaTable 5.1, tenemos en cuenta el deseo de un mayor control. En la nueva versión, la función de exportación está desactivada por defecto; puede activarse mediante el control deslizante "Activar exportación a Excel". Además, hemos corregido un error importante que provocaba que los filtros preestablecidos no surtieran efecto durante la exportación.
+En la versión 5.0, la función de exportación de [las páginas de tablas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) estaba siempre activada. No había forma de que los administradores de aplicaciones **impidieran la exportación de una tabla a un archivo XLSX**. En SeaTable 5.1, tenemos en cuenta el deseo de un mayor control. En la nueva versión, la función de exportación está desactivada por defecto; puede activarse mediante el control deslizante "Activar exportación a Excel". Además, hemos corregido un error importante que provocaba que los filtros preestablecidos no surtieran efecto durante la exportación.
 
 ### Tipo de página Línea de tiempo
 
@@ -64,7 +64,7 @@ Casi igual de notable es el **aviso amarillo** que aparece en las vistas normale
 
 ![Diálogo de registros archivados vinculados en SeaTable 5.1](LinkedArchivedRows.png)
 
-En respuesta a muchas peticiones de los usuarios, la **operación de procesamiento de datos** [comparar y unir](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) ahora también está disponible en las vistas de big data. Esta operación puede enlazar entradas del almacén de big data con filas de cualquier otra tabla, independientemente de si las filas de la tabla enlazada están almacenadas en la base o en el almacén de big data.
+En respuesta a muchas peticiones de los usuarios, la **operación de procesamiento de datos** [comparar y unir]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) ahora también está disponible en las vistas de big data. Esta operación puede enlazar entradas del almacén de big data con filas de cualquier otra tabla, independientemente de si las filas de la tabla enlazada están almacenadas en la base o en el almacén de big data.
 
 {{< warning headline="Nota" text="La velocidad de ejecución es significativamente más lenta que la misma operación en una vista normal porque toda la información de las filas ya está en la memoria de trabajo cuando se ejecuta en vistas normales." />}}
 

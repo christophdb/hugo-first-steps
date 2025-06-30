@@ -14,7 +14,7 @@ Chegou a hora: o nosso criador de aplicações foi oficialmente lançado! Com es
 
 Mas esta não é a única grande novidade - o SeaTable 5.0 fornece-lhe **três novos plugins** para visualizações complexas: Organograma, Relações de tabela e Quadro branco. A **acessibilidade melhorada** deverá facilitar a utilização do SeaTable por pessoas com deficiências (visuais). Outro destaque é a **importação de Excel com precisão de colunas**.
 
-Esta manhã, actualizámos o SeaTable Cloud para a versão 5.0. Todos os auto-hosters podem fazer o mesmo: [Docker A imagem do SeaTable 5.0 está disponível para download no](https://hub.docker.com/r/seatable/seatable-enterprise) [repositório](https://hub.docker.com/r/seatable/seatable-enterprise) conhecido. Como sempre, pode encontrar a lista completa de alterações no [registo de alterações](https://seatable.io/pt/docs/changelog/version-5/).
+Esta manhã, actualizámos o SeaTable Cloud para a versão 5.0. Todos os auto-hosters podem fazer o mesmo: [Docker A imagem do SeaTable 5.0 está disponível para download no](https://hub.docker.com/r/seatable/seatable-enterprise) [repositório](https://hub.docker.com/r/seatable/seatable-enterprise) conhecido. Como sempre, pode encontrar a lista completa de alterações no [registo de alterações]({{< relref "pages/changelog" >}}/).
 
 ## Uma aplicação comercial personalizada sem código
 
@@ -30,9 +30,9 @@ Os utilizadores da aplicação podem ver, pesquisar, navegar e editar os registo
 
 ### Novas funções de tipos de páginas existentes
 
-Agora é possível **exportar** todos os dados apresentados nas [páginas de tabelas](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) como um **ficheiro Excel**. Também pode **descarregar todos os anexos como um ficheiro zip** através do cabeçalho das [colunas]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) de [imagens]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) e [ficheiros]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). As novas funções de exportação são úteis se pretender disponibilizar determinados ficheiros a outros utilizadores através da aplicação.
+Agora é possível **exportar** todos os dados apresentados nas [páginas de tabelas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) como um **ficheiro Excel**. Também pode **descarregar todos os anexos como um ficheiro zip** através do cabeçalho das [colunas]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) de [imagens]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) e [ficheiros]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). As novas funções de exportação são úteis se pretender disponibilizar determinados ficheiros a outros utilizadores através da aplicação.
 
-Adicionámos as **definições para as colunas de ligação** nas [páginas da galeria](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/). Por exemplo, pode especificar se os utilizadores podem ligar entradas existentes através da página da galeria ou adicionar entradas noutra tabela. Nas [páginas de consulta](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/), os resultados da consulta são agora actualizados imediatamente quando são accionadas acções de botão que causam alterações nos dados.
+Adicionámos as **definições para as colunas de ligação** nas [páginas da galeria]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}). Por exemplo, pode especificar se os utilizadores podem ligar entradas existentes através da página da galeria ou adicionar entradas noutra tabela. Nas [páginas de consulta]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}), os resultados da consulta são agora actualizados imediatamente quando são accionadas acções de botão que causam alterações nos dados.
 
 ## Três plugins para visualizações complexas
 
@@ -88,6 +88,6 @@ Encontrará o **editor de textos longos** em muitos sítios. Se preencher campos
 
 ![Editor para textos longos em formulários Web](Long-text-editor-in-web-forms.png)
 
-Também está familiarizado com as **estatísticas** de vários locais no SeaTable: do [módulo de estatísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})) na base e de [páginas individuais em aplicações universais](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). Atualmente, actualizámos e uniformizámos significativamente as estatísticas com uma biblioteca de diagramas revista.
+Também está familiarizado com as **estatísticas** de vários locais no SeaTable: do [módulo de estatísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})) na base e de [páginas individuais em aplicações universais]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). Atualmente, actualizámos e uniformizámos significativamente as estatísticas com uma biblioteca de diagramas revista.
 
 Anteriormente, não era possível restaurar linhas que tinham sido movidas para o armazenamento de Big [Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) utilizando instantâneos. Para evitar a perda indesejada de dados, existe agora uma opção para restaurar também o armazenamento de grandes volumes de dados da versão anterior ao [restaurar instantâneos]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).

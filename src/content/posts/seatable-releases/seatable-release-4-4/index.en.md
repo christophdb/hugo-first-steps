@@ -12,7 +12,7 @@ seo:
 
 In SeaTable 4.4, we continue the development of the Universal App Builder with verve. Many new functions enable even more powerful and convenient web applications. We have also polished up the import function and the common datasets. The practical default values now apply universally.
 
-This morning we updated SeaTable Cloud to version 4.4. All self-hosters can do the same: The image of SeaTable 4.4 is available for download in the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, you can find the complete list of changes in the [changelog](https://seatable.io/en/docs/changelog/version-4/).
+This morning we updated SeaTable Cloud to version 4.4. All self-hosters can do the same: The image of SeaTable 4.4 is available for download in the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, you can find the complete list of changes in the [changelog]({{< relref "pages/changelog" >}}).
 
 ## More flexible, more powerful App Builder
 
@@ -20,7 +20,7 @@ In SeaTable 4.4 we have again made a lot of improvements and bug fixes to the [U
 
 ### Buttons on query pages
 
-[Query pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) now support the execution of button actions: After a successful data query, you can press [buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) in the displayed hit list to execute actions. This is a special new feature, as it was previously not possible to interact with queried rows anywhere in SeaTable.
+[Query pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) now support the execution of button actions: After a successful data query, you can press [buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) in the displayed hit list to execute actions. This is a special new feature, as it was previously not possible to interact with queried rows anywhere in SeaTable.
 
 ![Execute buttons on query pages](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -32,7 +32,7 @@ Until now, it was not possible to change appointments on the [calendar page](htt
 
 ### Simplified data handling on the table page
 
-As in Base, you can now [select all entries in a column]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) on the [table pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) of your apps with just one click on the column header. The practical [fill handle](https://seatable.io/en/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) is now also possible: drag the small square in the bottom right-hand corner of a cell downwards to transfer the value to all the rows below it.
+As in Base, you can now [select all entries in a column]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) on the [table pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) of your apps with just one click on the column header. The practical [fill handle](https://seatable.io/en/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) is now also possible: drag the small square in the bottom right-hand corner of a cell downwards to transfer the value to all the rows below it.
 
 ![Mark column entries](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
@@ -42,17 +42,17 @@ If you use an [employee column]({{< relref "help/base-editor/auswahl-spalten/die
 
 ### More customizing options for custom pages
 
-In version 4.4, you can hide the **title bar** on the [individual page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). This allows you to create visually appealing landing pages. For the image and map elements, drop-down menus allow you to quickly **link** to other pages in the app. For the **statistics**, we have added further chart types and additional configuration options to make the creation of dashboards even more convenient. In order to present the many style options clearly, we have divided the chart style and the general style into two different tabs.
+In version 4.4, you can hide the **title bar** on the [individual page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). This allows you to create visually appealing landing pages. For the image and map elements, drop-down menus allow you to quickly **link** to other pages in the app. For the **statistics**, we have added further chart types and additional configuration options to make the creation of dashboards even more convenient. In order to present the many style options clearly, we have divided the chart style and the general style into two different tabs.
 
 ## Gallery and data query apps
 
-As announced in the last release notes, we have **removed** the **Gallery App Builder** in SeaTable 4.4. If you want to create a new app with a [gallery](https://seatable.io/en/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/), the Universal App Builder offers you an alternative with higher functionality.
+As announced in the last release notes, we have **removed** the **Gallery App Builder** in SeaTable 4.4. If you want to create a new app with a [gallery]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}), the Universal App Builder offers you an alternative with higher functionality.
 
 {{< warning headline="Good to know" text="**Existing gallery apps will continue to work**. However, we recommend switching existing gallery apps to universal apps in order to benefit from further developments and improvements." />}}
 
 ![Create app dialog](Create-app-dialog-.png)
 
-There have also been some changes to the [data query app](https://seatable.io/en/docs/apps/datenabfrage-app/). The old App Builder for data queries has been removed and replaced by a new one based on the Universal App Builder. This means that you can of course still create public apps for querying your bases, but the interface now looks like the Universal App Builder. The same applies to existing query apps as for gallery apps: you don't have to do anything and can continue to use them.
+There have also been some changes to the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}). The old App Builder for data queries has been removed and replaced by a new one based on the Universal App Builder. This means that you can of course still create public apps for querying your bases, but the interface now looks like the Universal App Builder. The same applies to existing query apps as for gallery apps: you don't have to do anything and can continue to use them.
 
 {{< warning headline="Efficiency gain" text="The changes described allow us to focus on the further development of the Universal App Builder and thus achieve a higher development speed for upcoming features." />}}
 
@@ -99,7 +99,7 @@ By the way: You can even activate the default values with the corresponding para
 
 ## And much more
 
-You already know the **editor for formatted text** from various places in SeaTable, e.g. from the [base description]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), the [column type for long texts](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) or [e-mail messages]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). With SeaTable 4.4 we have improved usability and fixed some bugs. Here are just two: Previously, multiple line breaks were removed when closing the editor and existing text was overwritten when typing in the cell. In the new editor, multiple line breaks are retained and can be used to structure the text more clearly. We have also eliminated the risk of unintentional deletions: When typing, the new text is placed in front of the existing text.
+You already know the **editor for formatted text** from various places in SeaTable, e.g. from the [base description]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), the [column type for long texts]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) or [e-mail messages]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). With SeaTable 4.4 we have improved usability and fixed some bugs. Here are just two: Previously, multiple line breaks were removed when closing the editor and existing text was overwritten when typing in the cell. In the new editor, multiple line breaks are retained and can be used to structure the text more clearly. We have also eliminated the risk of unintentional deletions: When typing, the new text is placed in front of the existing text.
 
 In the new version, we have also improved the **notification center** {{< seatable-icon icon="dtable-icon-notice" >}} on the start page. Now you can see all [notifications]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) in the system in one place, track the source of the notification and go to the relevant page with one click.
 

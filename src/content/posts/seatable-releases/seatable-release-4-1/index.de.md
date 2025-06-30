@@ -16,7 +16,7 @@ Nutzen Sie in Ihren Bases bereits automatisierte Prozesse, um Zeit und Klicks zu
 
 Die Entwicklung des [Universal App Builders]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) schreitet in Siebenmeilenstiefeln voran: SeaTable 4.1 hält neue Funktionen für Sie bereit, um Benutzerberechtigungen und die Datenvisualisierung in Apps genauer auszudifferenzieren. Daneben haben wir in SeaTable 4.1 viele kleinere Funktionen verbessert oder neu hinzugefügt. Überzeugen Sie sich selbst – die Liste ist lang und sehr erfreulich!
 
-Heute Morgen haben wir SeaTable Cloud auf Version 4.1 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 4.1 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog](https://seatable.io/docs/changelog/version-4/) finden Sie wie immer die vollständige Liste der Änderungen.
+Heute Morgen haben wir SeaTable Cloud auf Version 4.1 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 4.1 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog]({{< relref "pages/changelog" >}}) finden Sie wie immer die vollständige Liste der Änderungen.
 
 ## Leistungsstärkere Automationen
 
@@ -46,7 +46,7 @@ Ebenfalls neu ist die Suchfunktion, mit der Sie die eigenen Ordner in der Dateiv
 
 Die Entwicklung des Universal App Builders ist auf der Zielgeraden und unser Team arbeitet mit Hochdruck am Feinschliff der Details. SeaTable 4.1 bringt vor allem neue Funktionen mit sich, um die Berechtigungen der Benutzer der Universal App feiner und genauer steuern.
 
-Die [Seitenberechtigungen](https://seatable.io/docs/apps/seitenberechtigungen-in-einer-universellen-app/) erlauben die Berechtigungsverwaltung für eine ganze Seite einer App: Wer darf auf einer Seite Zeilen sehen, wer darf Zeilen anlegen, wer darf Zeilen ändern und löschen. SeaTable 4.1 führt eine einfache Berechtigungslogik für Spalten ein. Spalten können nun individuell auf „**nur lesbar**“ gesetzt und damit der Bearbeitung durch die Nutzer entzogen werden. Die neuen Spaltenberechtigungen in der Universal App gelten zusätzlich zu den [Spaltenberechtigungen]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) in der Base und erlauben in Kombination eine sehr granulare Steuerung der Benutzerrechte auf einer Tabellenseite.
+Die [Seitenberechtigungen]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) erlauben die Berechtigungsverwaltung für eine ganze Seite einer App: Wer darf auf einer Seite Zeilen sehen, wer darf Zeilen anlegen, wer darf Zeilen ändern und löschen. SeaTable 4.1 führt eine einfache Berechtigungslogik für Spalten ein. Spalten können nun individuell auf „**nur lesbar**“ gesetzt und damit der Bearbeitung durch die Nutzer entzogen werden. Die neuen Spaltenberechtigungen in der Universal App gelten zusätzlich zu den [Spaltenberechtigungen]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) in der Base und erlauben in Kombination eine sehr granulare Steuerung der Benutzerrechte auf einer Tabellenseite.
 
 {{< warning headline="Gut zu wissen" text="In SeaTable 4.1 erhalten **Nutzer mit Leseberechtigung** die Erlaubnis, Schaltflächen-Aktionen auf Tabellenseiten auszuführen, auch wenn sie Veränderungen am Datensatz bewirken." />}}
 
@@ -56,7 +56,7 @@ Damit sind die Verbesserungen auf der Tabellenseite noch nicht zu Ende: Mit eine
 
 ![Neue Funktionen im Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
-Und auch die anderen Seitentypen gehen nicht leer aus: Die [Seitentypen](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/) Abfrage und Webformular bieten nun auch Seitenberechtigungen. Auf der individuellen Seite lassen sich Elemente nun leichter verschieben und positionieren.
+Und auch die anderen Seitentypen gehen nicht leer aus: Die [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) Abfrage und Webformular bieten nun auch Seitenberechtigungen. Auf der individuellen Seite lassen sich Elemente nun leichter verschieben und positionieren.
 
 ## Und vieles mehr
 

@@ -22,7 +22,7 @@ Nos développeurs ont revu les [paramètres de l'application](https://seatable.i
 
 Mot-clé : pages : Avec SeaTable 5.1, tous les types de pages offrent une fonction d'aperçu des fichiers image dans [les colonnes de fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Les fichiers PDF, Office et texte sont toujours représentés par une icône de fichier.
 
-En ce qui concerne les différents types de pages, la [page individuelle](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) et la [page des enregistrements individuels](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) se distinguent par le plus grand nombre d'améliorations. Mais d'autres types de pages peuvent également se réjouir d'améliorations incrémentielles.
+En ce qui concerne les différents types de pages, la [page individuelle]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) et la [page des enregistrements individuels](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) se distinguent par le plus grand nombre d'améliorations. Mais d'autres types de pages peuvent également se réjouir d'améliorations incrémentielles.
 
 ### Type de page Page individuelle
 
@@ -44,7 +44,7 @@ De plus, ce type de page offre davantage d'options de conception visuelle dans S
 
 ### Type de page Tableau
 
-Dans la version 5.0, la fonctionnalité d'exportation était toujours activée sur les [pages de tableaux](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/). Les administrateurs de l'application n'avaient aucun moyen d'**empêcher l'exportation d'un tableau vers un fichier XLSX**. Dans SeaTable 5.1, nous prenons en compte le souhait d'un plus grand contrôle. Dans la nouvelle version, la fonction d'exportation est désactivée par défaut ; elle peut être activée via le curseur "Enable export to Excel". En outre, nous avons corrigé un bug important qui faisait que les filtres prédéfinis ne fonctionnaient pas lors de l'exportation.
+Dans la version 5.0, la fonctionnalité d'exportation était toujours activée sur les [pages de tableaux]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}). Les administrateurs de l'application n'avaient aucun moyen d'**empêcher l'exportation d'un tableau vers un fichier XLSX**. Dans SeaTable 5.1, nous prenons en compte le souhait d'un plus grand contrôle. Dans la nouvelle version, la fonction d'exportation est désactivée par défaut ; elle peut être activée via le curseur "Enable export to Excel". En outre, nous avons corrigé un bug important qui faisait que les filtres prédéfinis ne fonctionnaient pas lors de l'exportation.
 
 ### Type de page Ligne du temps
 
@@ -64,7 +64,7 @@ Presque aussi frappant est le **message d'avertissement jaune** qui apparaît da
 
 ![Dialogue des enregistrements archivés liés dans SeaTable 5.1](LinkedArchivedRows.png)
 
-À la demande de nombreux utilisateurs, l'**opération de traitement des données** [Comparer et relier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) est désormais disponible dans les vues Big Data. Cette opération peut relier des entrées dans la mémoire Big Data à des lignes dans n'importe quelle autre table, que les lignes de la table reliée soient stockées dans la base ou dans la mémoire Big Data.
+À la demande de nombreux utilisateurs, l'**opération de traitement des données** [Comparer et relier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) est désormais disponible dans les vues Big Data. Cette opération peut relier des entrées dans la mémoire Big Data à des lignes dans n'importe quelle autre table, que les lignes de la table reliée soient stockées dans la base ou dans la mémoire Big Data.
 
 {{< warning headline="Remarque" text="La vitesse d'exécution est nettement plus lente que la même opération dans une vue normale, car lors de l'exécution dans des vues normales, toutes les informations sur les lignes se trouvent déjà dans la mémoire de travail." />}}
 

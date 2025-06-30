@@ -16,7 +16,7 @@ Vous utilisez déjà des processus automatisés dans vos bases afin d'économise
 
 Le développement de l'[Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) avance à grands pas : SeaTable 4.1 vous propose de nouvelles fonctions pour différencier plus précisément les autorisations des utilisateurs et la visualisation des données dans les applications. En outre, nous avons amélioré ou ajouté de nombreuses petites fonctions à SeaTable 4.1. Jugez-en par vous-même - la liste est longue et très réjouissante !
 
-Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.1. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.1 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog](https://seatable.io/fr/docs/changelog/version-4/) la liste complète des modifications.
+Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.1. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.1 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog]({{< relref "pages/changelog" >}}) la liste complète des modifications.
 
 ## Des automatismes plus performants
 
@@ -46,7 +46,7 @@ Autre nouveauté : la fonction de recherche, qui vous permet de parcourir vos pr
 
 Le développement de l'Universal App Builder est dans sa dernière ligne droite et notre équipe travaille d'arrache-pied pour peaufiner les détails. SeaTable 4.1 apporte surtout de nouvelles fonctionnalités pour gérer plus finement et plus précisément les autorisations des utilisateurs de l'application universelle.
 
-Les [autorisations de page](https://seatable.io/fr/docs/apps/seitenberechtigungen-in-einer-universellen-app/) permettent de gérer les autorisations pour une page entière d'une application : qui peut voir des lignes sur une page, qui peut créer des lignes, qui peut modifier et supprimer des lignes. SeaTable 4.1 introduit une logique d'autorisation simple pour les colonnes. Les colonnes peuvent désormais être définies individuellement comme "**en lecture seule**" et ainsi être soustraites à la modification par les utilisateurs. Les nouvelles autorisations de colonnes dans l'application universelle s'appliquent en plus des [autorisations de colonnes]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) dans la base et, combinées, permettent un contrôle très granulaire des droits des utilisateurs sur une page de tableau.
+Les [autorisations de page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) permettent de gérer les autorisations pour une page entière d'une application : qui peut voir des lignes sur une page, qui peut créer des lignes, qui peut modifier et supprimer des lignes. SeaTable 4.1 introduit une logique d'autorisation simple pour les colonnes. Les colonnes peuvent désormais être définies individuellement comme "**en lecture seule**" et ainsi être soustraites à la modification par les utilisateurs. Les nouvelles autorisations de colonnes dans l'application universelle s'appliquent en plus des [autorisations de colonnes]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) dans la base et, combinées, permettent un contrôle très granulaire des droits des utilisateurs sur une page de tableau.
 
 {{< warning headline="Bon à savoir" text="Dans SeaTable 4.1, **les utilisateurs disposant d'un accès en lecture** sont autorisés à effectuer des actions sur les boutons des pages de tableaux, même si elles entraînent des modifications de l'ensemble de données." />}}
 
@@ -56,7 +56,7 @@ Les améliorations du côté des tableaux ne s'arrêtent pas là : en un clic, v
 
 ![Nouvelles fonctions dans l'Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
-Les autres types de pages ne sont pas en reste : Les [types de pages](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/) Requête et Formulaire web offrent désormais des autorisations de page. Sur la page individuelle, les éléments peuvent désormais être déplacés et positionnés plus facilement.
+Les autres types de pages ne sont pas en reste : Les [types de pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) Requête et Formulaire web offrent désormais des autorisations de page. Sur la page individuelle, les éléments peuvent désormais être déplacés et positionnés plus facilement.
 
 ## Et bien plus encore
 

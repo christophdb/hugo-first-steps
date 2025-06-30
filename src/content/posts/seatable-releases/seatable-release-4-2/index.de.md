@@ -14,7 +14,7 @@ In **SeaTable 4.2** geht die Weiterentwicklung des Universal App Builders in die
 
 SeaTable 4.2 ist aber kein reines App Builder Release. Formelfreunde können sich über die neue **iserror()-Funktion** freuen und Prozessoptimierer werden die vielseitigere Einsatzmöglichkeit der **Aktion „Eintrag bearbeiten“** zu schätzen wissen. Was sich sonst noch getan hat, erfahren Sie im folgenden Artikel.
 
-Heute Morgen haben wir SeaTable Cloud auf Version 4.2 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 4.2 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog](https://seatable.io/docs/changelog/version-4/) finden Sie wie immer die vollständige Liste der Änderungen.
+Heute Morgen haben wir SeaTable Cloud auf Version 4.2 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 4.2 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog]({{< relref "pages/changelog" >}}) finden Sie wie immer die vollständige Liste der Änderungen.
 
 ## Versionsverwaltung in Universellen Apps
 
@@ -36,7 +36,7 @@ Wenn Sie einen gespeicherten Snapshot wiederherstellen, wird die App auf den fr�
 
 ## Duplikatsprüfung auf Tabellen- und Formularseiten
 
-Gerade bei Universellen Apps, über die viele Benutzer neue Einträge in einer Base vornehmen können, ist es schnell passiert, dass **identische Zeilen** angelegt werden. Dies können Sie künftig unterbinden, indem Sie auf [Tabellen- und Formularseiten](https://seatable.io/docs/apps/seitentypen-in-der-universellen-app/) die Funktion aktivieren, das Hinzufügen von Duplikaten zu verhindern. Dabei legen Sie die Spalten fest, in denen die Werte übereinstimmen müssen, damit eine Zeile als **Duplikat** zählt. Wenn das Hinzufügen einer Zeile blockiert wird, erscheint eine entsprechende Fehlermeldung.
+Gerade bei Universellen Apps, über die viele Benutzer neue Einträge in einer Base vornehmen können, ist es schnell passiert, dass **identische Zeilen** angelegt werden. Dies können Sie künftig unterbinden, indem Sie auf [Tabellen- und Formularseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) die Funktion aktivieren, das Hinzufügen von Duplikaten zu verhindern. Dabei legen Sie die Spalten fest, in denen die Werte übereinstimmen müssen, damit eine Zeile als **Duplikat** zählt. Wenn das Hinzufügen einer Zeile blockiert wird, erscheint eine entsprechende Fehlermeldung.
 
 ![Das Hinzufügen von Duplikaten in Universellen Apps verhindern](Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
@@ -80,7 +80,7 @@ Ab Version 4.2 können Sie [private Ansichten]({{< relref "help/base-editor/ansi
 
 ### Zusätzliche Funktionen für die Datenverarbeitung
 
-Bei der Datenverarbeitungsoperation [Rangliste berechnen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/) können Sie nun auswählen, in welcher **Reihenfolge** die Werte aufgelistet werden sollen. Geben Sie dafür an, ob der größte oder der kleinste Wert an erster Stelle stehen soll.
+Bei der Datenverarbeitungsoperation [Rangliste berechnen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}}) können Sie nun auswählen, in welcher **Reihenfolge** die Werte aufgelistet werden sollen. Geben Sie dafür an, ob der größte oder der kleinste Wert an erster Stelle stehen soll.
 
 {{< warning headline="Neue Berechtigung" >}}
 
@@ -88,4 +88,4 @@ In den [Sicherheitseinstellungen]({{< relref "help/base-editor/weitere-optionen/
 
 {{< /warning >}}
 
-Außerdem unterstützt SeaTable 4.2 nun auch den Spaltentyp [Automatische Nummer](https://seatable.io/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) bei den Datenverarbeitungsoperationen [Vergleichen und verknüpfen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) sowie [Vergleichen und kopieren](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/).
+Außerdem unterstützt SeaTable 4.2 nun auch den Spaltentyp [Automatische Nummer]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) bei den Datenverarbeitungsoperationen [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) sowie [Vergleichen und kopieren]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).
