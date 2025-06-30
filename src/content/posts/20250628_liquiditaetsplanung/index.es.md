@@ -22,7 +22,11 @@ Ya sea una joven empresa de nueva creación, una mediana empresa o una gran corp
 
 La planificación de la liquidez es un componente central de la gestión financiera y suele ser decisiva para determinar si una empresa mantiene el rumbo o atraviesa dificultades. La planificación de la liquidez consiste en garantizar la **solvencia** de una empresa. En concreto, significa registrar, comparar y planificar sistemáticamente con antelación todas las entradas y salidas de pagos previstas. Esto permite reconocer los cuellos de botella financieros en una fase temprana e iniciar contramedidas a tiempo.
 
-{{< warning headline="Importancia de la liquidez" text="El término liquidez procede del latín liquidus, que significa "líquido", y éste es precisamente su significado económico. La liquidez describe la capacidad de una empresa (o una persona) para cumplir sus obligaciones financieras a tiempo en todo momento, es decir, para efectuar pagos "con fluidez"." />}}
+{{< warning headline="Importancia de la liquidez" >}}
+
+El término liquidez procede del latín liquidus, que significa **líquido**, y éste es precisamente su significado económico. La liquidez describe la capacidad de una empresa (o una persona) para cumplir sus obligaciones financieras a tiempo en todo momento, es decir, para efectuar pagos **con fluidez**.
+
+{{< /warning >}}
 
 ## Ventajas de la planificación de la liquidez
 
@@ -49,7 +53,7 @@ En la práctica, muchas empresas recurren a la planificación híbrida de la liq
 ## Cómo crear un plan de liquidez en 7 pasos
 
 Un plan de liquidez bien pensado no es ciencia espacial: con un sistema claro, puede vigilar su solvencia en todo momento y crear una base importante para las decisiones empresariales. Porque si sabes exactamente cuándo entra y sale dinero, puedes actuar con previsión en lugar de reaccionar en modo crisis. Así es como se crea paso a paso un plan de liquidez bien fundamentado para su plan financiero:
-                     
+
 1. **Determine el periodo de planificación:** En primer lugar, determine el periodo para el que desea planificar su liquidez. Para empezar, se recomienda una planificación mensual. Para las grandes empresas, también puede ser útil una planificación semanal o trimestral, en función de lo dinámicos que sean sus flujos de tesorería.
 
 2. **Registre el inicial:** Anote el estado actual de sus fondos líquidos, es decir, el importe en sus cuentas bancarias y en la caja. Este valor es el punto de partida de tu planificación.
@@ -74,7 +78,7 @@ Los ratios de liquidez son ratios importantes para su plan de liquidez con el fi
 
 El nivel 1 de liquidez examina hasta qué punto una empresa podría cubrir sus pasivos a corto plazo únicamente con los medios de pago inmediatamente disponibles, es decir, efectivo y saldos bancarios.
 
-Fórmula: *Ratio de liquidez 1 = (efectivo y equivalentes de efectivo / pasivo corriente) × 100*.
+Fórmula: _Ratio de liquidez 1 = (efectivo y equivalentes de efectivo / pasivo corriente) × 100_.
 
 Un valor igual o superior al 100 % significa que la empresa podría liquidar todo el pasivo corriente únicamente con efectivo y saldos bancarios. En la práctica, sin embargo, este valor suele ser inferior porque las empresas no tienen todo su capital en cuenta.
 
@@ -82,31 +86,32 @@ Un valor igual o superior al 100 % significa que la empresa podría liquidar tod
 
 Además de la tesorería y los equivalentes de tesorería, aquí también se tienen en cuenta los créditos a corto plazo, es decir, los pagos pendientes de los clientes. Esto proporciona una visión más realista de la solvencia a corto plazo.
 
-Fórmula: *Ratio de liquidez 2 = (tesorería y equivalentes + créditos corrientes) / pasivo corriente × 100*.
+Fórmula: _Ratio de liquidez 2 = (tesorería y equivalentes + créditos corrientes) / pasivo corriente × 100_.
 
 Un valor superior al 100 % es una buena señal en este caso, ya que muestra que el efectivo y los equivalentes de efectivo y los derechos de cobro pendientes juntos son suficientes para cubrir todos los pasivos corrientes.
 
 ### 3er grado de liquidez (ratio corriente)
+
 Con el coeficiente de liquidez 3, se incluyen todos sus activos corrientes, es decir, no sólo el efectivo y los equivalentes al efectivo y las cuentas por cobrar, sino también las existencias, como las existencias.
 
-Fórmula: *Ratio de liquidez 3 = (activo circulante / pasivo circulante) × 100*.
+Fórmula: _Ratio de liquidez 3 = (activo circulante / pasivo circulante) × 100_.
 
 Este ratio ofrece una imagen más completa. Aunque las existencias no pueden convertirse en efectivo inmediatamente, forman parte de los activos disponibles a corto plazo.
 
 ## Ejemplo práctico de cálculo para su plan de liquidez
 
 Imagine que su empresa dispone de las siguientes reservas de liquidez:
-                     
-* 18.000 € de efectivo y equivalentes (caja, banco)
-* 54.000 € de créditos corrientes (facturas pendientes de clientes)
-* 36.000 € de existencias
-* 60.000 € de pasivo corriente (proveedores, préstamos)
-                 
+
+- 18.000 € de efectivo y equivalentes (caja, banco)
+- 54.000 € de créditos corrientes (facturas pendientes de clientes)
+- 36.000 € de existencias
+- 60.000 € de pasivo corriente (proveedores, préstamos)
+
 Los denominados ratios de liquidez sirven para comprobar en qué medida su empresa es capaz de hacer frente a sus obligaciones a corto plazo con fondos rápidamente disponibles. El cálculo se realiza en tres etapas:
 
-*Nivel de liquidez 1 = (18.000 euros / 60.000 euros) × 100 = 30%*.
-*Nivel de liquidez 2 = (18.000 euros + 54.000 euros) / 60.000 euros × 100 = 120 %*.
-*Nivel de liquidez 3 = (18.000 euros + 54.000 euros + 36.000 euros) / 60.000 euros × 100 = 180 %*
+_Nivel de liquidez 1 = (18.000 euros / 60.000 euros) × 100 = 30%_.
+_Nivel de liquidez 2 = (18.000 euros + 54.000 euros) / 60.000 euros × 100 = 120 %_.
+_Nivel de liquidez 3 = (18.000 euros + 54.000 euros + 36.000 euros) / 60.000 euros × 100 = 180 %_
 
 ### ¿Qué significan estos valores?
 

@@ -22,7 +22,11 @@ Quer se trate de uma jovem empresa em fase de arranque, de uma média empresa ou
 
 O planeamento da liquidez é uma componente central da gestão financeira e é muitas vezes decisivo para determinar se uma empresa se mantém no caminho certo ou se encontra em dificuldades. O planeamento da liquidez consiste em assegurar a **solvência** de uma empresa. Em termos concretos, isto significa registar, comparar e planear sistematicamente todas as entradas e saídas de pagamentos previstas. Isto permite-lhe reconhecer os estrangulamentos financeiros numa fase inicial e iniciar contramedidas em tempo útil.
 
-{{< warning headline="Significado de liquidez" text="O termo liquidez deriva da palavra latina liquidus, que significa *líquido* - e é exatamente isso que significa em termos económicos. A liquidez descreve a capacidade de uma empresa (ou pessoa) para cumprir as suas obrigações financeiras a tempo e horas, ou seja, para efetuar pagamentos *"com liquidez*." />}}
+{{< warning headline="Significado de liquidez" >}}
+
+O termo liquidez deriva da palavra latina liquidus, que significa **líquido** - e é exatamente isso que significa em termos económicos. A liquidez descreve a capacidade de uma empresa (ou pessoa) para cumprir as suas obrigações financeiras a tempo e horas, ou seja, para efetuar pagamentos **com liquidez**.
+
+{{< /warning >}}
 
 ## Vantagens do planeamento da liquidez
 
@@ -38,7 +42,7 @@ Por último, mas não menos importante, o planeamento prospetivo da liquidez con
 
 Dependendo da dimensão, do sector e dos objectivos da empresa, existem diferentes abordagens ao planeamento da liquidez: os métodos **direto, indireto e híbrido**.
 
-Com o planeamento de liquidez direto, regista-se especificamente todas as entradas e saídas de dinheiro planeadas dentro de um determinado período. Este método é muito detalhado e particularmente adequado para o planeamento a curto prazo - para as próximas semanas ou meses, por exemplo. Dá-lhe uma visão geral exacta de quando o dinheiro é recebido e gasto. Isto permite-lhe reconhecer os estrangulamentos numa fase inicial e reagir rapidamente. 
+Com o planeamento de liquidez direto, regista-se especificamente todas as entradas e saídas de dinheiro planeadas dentro de um determinado período. Este método é muito detalhado e particularmente adequado para o planeamento a curto prazo - para as próximas semanas ou meses, por exemplo. Dá-lhe uma visão geral exacta de quando o dinheiro é recebido e gasto. Isto permite-lhe reconhecer os estrangulamentos numa fase inicial e reagir rapidamente.
 
 ![Base para as decisões financeiras](mit-dem-taschenrechner-berechnen.jpg)
 
@@ -49,7 +53,7 @@ Na prática, muitas empresas recorrem a um planeamento de liquidez híbrido, que
 ## Como criar um plano de liquidez em 7 passos
 
 Um plano de liquidez bem concebido não é uma ciência espacial - com um sistema claro, pode manter um olho na sua solvência em todos os momentos e criar uma base importante para as decisões de negócios. Porque se souber exatamente quando é que o dinheiro está a entrar e a sair, pode agir com antecipação em vez de reagir em modo de crise. É assim que se cria, passo a passo, um plano de liquidez bem fundamentado para o seu plano financeiro:
-                     
+
 1. **Determinar o período de planeamento:** Em primeiro lugar, determinar o período para o qual pretende planear a sua liquidez. Para começar, recomenda-se um planeamento mensal. Para as grandes empresas, o planeamento semanal ou trimestral também pode ser útil, dependendo do dinamismo dos fluxos de caixa.
 
 2. **Registar o saldo inicial:** Anotar o estado atual dos seus fundos líquidos - ou seja, o montante nas suas contas bancárias e na caixa registadora. Este valor é o ponto de partida para o seu planeamento.
@@ -74,7 +78,7 @@ Os rácios de liquidez são índices importantes para o seu plano de liquidez, a
 
 O nível de liquidez 1 examina até que ponto uma empresa pode cobrir as suas responsabilidades a curto prazo apenas com os meios de pagamento imediatamente disponíveis - ou seja, caixa e saldos bancários.
 
-Fórmula: *Rácio de liquidez 1 = (caixa e equivalentes de caixa / passivo corrente) × 100*
+Fórmula: _Rácio de liquidez 1 = (caixa e equivalentes de caixa / passivo corrente) × 100_
 
 Um valor igual ou superior a 100 % significa que a empresa poderia cobrir todo o seu passivo corrente apenas com caixa e saldos bancários. Na prática, porém, este valor é muitas vezes inferior, porque as empresas não têm todo o seu capital em conta.
 
@@ -82,31 +86,32 @@ Um valor igual ou superior a 100 % significa que a empresa poderia cobrir todo o
 
 Para além da caixa e equivalentes de caixa, as contas a receber a curto prazo - ou seja, os pagamentos pendentes de clientes - também são tidos em conta aqui. Isto proporciona uma visão mais realista da solvência a curto prazo.
 
-Fórmula: *Rácio de liquidez 2 = (caixa e equivalentes de caixa + contas a receber correntes) / passivo corrente × 100*
+Fórmula: _Rácio de liquidez 2 = (caixa e equivalentes de caixa + contas a receber correntes) / passivo corrente × 100_
 
 Um valor superior a 100 % é um bom sinal, pois mostra que a liquidez e os equivalentes de caixa e as contas a receber pendentes são suficientes para cobrir todo o passivo corrente.
 
 ### Liquidez de 3º grau (rácio de liquidez corrente)
+
 Com o rácio de liquidez 3, são incluídos todos os activos correntes, ou seja, não só o dinheiro e equivalentes de dinheiro e as contas a receber, mas também os inventários, como as existências.
 
-Fórmula: *Rácio de liquidez 3 = (ativo circulante / passivo circulante) × 100*
+Fórmula: _Rácio de liquidez 3 = (ativo circulante / passivo circulante) × 100_
 
 Este rácio fornece uma imagem mais abrangente. Embora as existências não possam ser imediatamente convertidas em dinheiro, fazem parte dos activos disponíveis a curto prazo.
 
 ## Exemplo prático de cálculo para o seu plano de liquidez
 
 Imagine que a sua empresa tem as seguintes reservas de liquidez:
-                     
-* 18.000 € caixa e equivalentes de caixa (caixa, banco)
-* 54 000 euros de créditos correntes (facturas de clientes pendentes)
-* 36 000 euros de existências
-* 60 000 euros de passivo corrente (fornecedores, empréstimos)
-                 
+
+- 18.000 € caixa e equivalentes de caixa (caixa, banco)
+- 54 000 euros de créditos correntes (facturas de clientes pendentes)
+- 36 000 euros de existências
+- 60 000 euros de passivo corrente (fornecedores, empréstimos)
+
 Pode utilizar os chamados rácios de liquidez para verificar em que medida a sua empresa é capaz de liquidar passivos a curto prazo - com fundos que estão rapidamente disponíveis. O cálculo é efectuado em três fases:
 
-*Nível de liquidez 1 = (18 000 euros / 60 000 euros) × 100 = 30%*
-*Nível de liquidez 2 = (18 000 euros + 54 000 euros) / 60 000 euros × 100 = 120 %*
-*Nível de liquidez 3 = (18 000 € + 54 000 € + 36 000 €) / 60 000 € × 100 = 180 %*
+_Nível de liquidez 1 = (18 000 euros / 60 000 euros) × 100 = 30%_
+_Nível de liquidez 2 = (18 000 euros + 54 000 euros) / 60 000 euros × 100 = 120 %_
+_Nível de liquidez 3 = (18 000 € + 54 000 € + 36 000 €) / 60 000 € × 100 = 180 %_
 
 ### O que é que estes valores significam?
 

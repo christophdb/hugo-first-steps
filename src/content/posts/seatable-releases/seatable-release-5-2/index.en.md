@@ -24,7 +24,7 @@ In future versions, we will also introduce filter groups in apps, forms and auto
 
 ## Conditional formatting with cross-column filter
 
-Version 5.2 also offers extended filter options in conditional [rows]({{< relref "help/base-editor/ansichten" >}}farbliche-markierung-von-zeilen/) and [cell formatting]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/). Do you want to color a cell red based on the values in other columns to draw attention to it? With SeaTable 5.2 you can! The color coding of a row or cell can now be formatted depending on each individual column value in a data set. And that's not all: conditional formatting can also take into account values in multiple columns, regardless of the column type.
+Version 5.2 also offers extended filter options in conditional [rows]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) and [cell formatting]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}). Do you want to color a cell red based on the values in other columns to draw attention to it? With SeaTable 5.2 you can! The color coding of a row or cell can now be formatted depending on each individual column value in a data set. And that's not all: conditional formatting can also take into account values in multiple columns, regardless of the column type.
 
 ![Improved conditional formatting in SeaTable 5.2](ConditionalFormatting.png)
 

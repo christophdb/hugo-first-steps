@@ -106,7 +106,7 @@ After getting the feedback you want from your customers, you need to filter out 
 
 ### Analyze weaknesses and potentials
 
-Let's say you want to make improvements to your product, identify the current weak points, and find out why your customers don't recommend your product to others. For this, you can create a new [view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) to [filter]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [sort]({{< relref "help/base-editor/ansichten" >}}sortieren-von-eintraegen-in-einer-ansicht/), and [group]({{< relref "help/base-editor/ansichten" >}}gruppieren-von-eintraegen-in-einer-ansicht/) the survey results. Look for the responses with a low NPS score and sort the feedback by relevant categories. You can create a separate view for each analysis you want, so you can access it in seconds at any time.
+Let's say you want to make improvements to your product, identify the current weak points, and find out why your customers don't recommend your product to others. For this, you can create a new [view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) to [filter]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [sort]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}), and [group]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) the survey results. Look for the responses with a low NPS score and sort the feedback by relevant categories. You can create a separate view for each analysis you want, so you can access it in seconds at any time.
 
 ![Filter options of SeaTable](nps-form-filter.png)
 

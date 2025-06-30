@@ -52,7 +52,7 @@ Los permisos [de página]({{< relref "help/app-builder/einstellungen/seitenberec
 
 La **configuración** por defecto de las vistas es otra de las novedades de las páginas de tablas. Una configuración por defecto determina la visualización de los datos cuando se llama a la página. Proporciona así un determinado ángulo de visión de los datos, pero puede ser modificado por los usuarios de la aplicación y, de este modo, el ángulo de visión puede adaptarse a las necesidades de los usuarios. Su funcionamiento es, por tanto, fundamentalmente diferente del de los ajustes de datos disponibles desde hace algún tiempo. Estos últimos no pueden ser modificados por los usuarios. Los ajustes de datos sirven para restringir los datos que se muestran a los usuarios.
 
-Aquí no acaban las mejoras en el lado de la tabla: con un solo clic puedes mostrar el formato de celda condicional de la tabla subyacente y así [colorear las celdas]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/).
+Aquí no acaban las mejoras en el lado de la tabla: con un solo clic puedes mostrar el formato de celda condicional de la tabla subyacente y así [colorear las celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 
 ![Nuevas funciones en Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
