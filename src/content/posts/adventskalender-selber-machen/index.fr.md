@@ -4,7 +4,7 @@ description: "Dans cet article, vous découvrirez ce qu'il faut prendre en compt
 seo:
     title: "Fabriquer soi-même des calendriers de l'Avent : Idées créatives & instructions"
     description: "Apprends à créer un calendrier de l'Avent unique en son genre. Découvre des propositions inspirantes et des descriptions détaillées pour une période festive"
-color: 
+color: '#264c41'
 categories:
     - 'best-practice'
 tags:

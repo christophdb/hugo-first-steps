@@ -4,7 +4,7 @@ description: 'En este artículo descubrirá qué debe tener en cuenta a la hora 
 seo:
     title: 'Haz tu propio calendario de adviento: Ideas creativas e instrucciones'
     description: 'Aprenda a crear un calendario de Adviento único. Descubra sugerencias inspiradoras y descripciones detalladas para una temporada festiva.'
-color: 
+color: '#264c41'
 categories:
     - 'best-practice'
 tags:

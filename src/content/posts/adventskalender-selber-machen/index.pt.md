@@ -4,7 +4,7 @@ description: 'Neste artigo, pode descobrir o que deve ter em conta ao planear o 
 seo:
     title: 'Faça o seu próprio calendário do advento: Ideias criativas e instruções'
     description: 'Saiba como criar um calendário do Advento único. Descubra sugestões inspiradoras e descrições pormenorizadas para uma época festiva encher'
-color: 
+color: '#264c41'
 categories:
     - 'best-practice'
 tags:
