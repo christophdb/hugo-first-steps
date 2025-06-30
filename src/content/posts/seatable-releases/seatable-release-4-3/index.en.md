@@ -47,7 +47,7 @@ Users of the respective app can access their notifications via the {{< seatable-
 
 In the collaborator [column]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), it was previously only possible to select people who already had access to the respective base. As of SeaTable 4.3, you can enter **all members of your team** in collaborator columns, even if they do not have access to certain bases. This makes it much easier to assign data records to your employees regardless of their access authorization.
 
-This functionality is particularly useful in the universal app. You can activate the option for team members to be visible to all users in the drop-down list in the Universal app [settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). If you do not want users to be able to see the data records of other users, define **preset filters**: If a page is filtered by a collaborator column with the condition "includes current user", each user of the universal app only sees the records that are assigned to them in the table.
+This functionality is particularly useful in the universal app. You can activate the option for team members to be visible to all users in the drop-down list in the Universal app [settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}). If you do not want users to be able to see the data records of other users, define **preset filters**: If a page is filtered by a collaborator column with the condition "includes current user", each user of the universal app only sees the records that are assigned to them in the table.
 
 ![Employee column in the universal app](Mitarbeiter-Spalte-in-der-Universellen-App.gif)
 
@@ -65,7 +65,7 @@ The card, which combines an image, a headline and a text into a design template,
 
 ![Card element on custom page in SeaTable 4.3](Card-element-on-custom-page.png)
 
-In addition, as of SeaTable 4.3, the **background color** of custom pages can be set as desired, and the unwanted overlapping of elements has been fixed. The overall design of the universal app is now also presented in one color theme across all pages, which you can select in the [global settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+In addition, as of SeaTable 4.3, the **background color** of custom pages can be set as desired, and the unwanted overlapping of elements has been fixed. The overall design of the universal app is now also presented in one color theme across all pages, which you can select in the [global settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
 
 ### Authorizations on table pages
 
@@ -75,7 +75,7 @@ All restrictions for [button actions]({{< relref "help/base-editor/schaltflaeche
 
 ## Important announcement: Removal of the gallery and data query app
 
-In version 4.4, the [gallery app]({{< relref help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps >}}) and the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) will disappear, as their functionality can now be fully mapped with the corresponding **page types** in the universal app. The Universal App Builder will therefore be the only option for creating apps in SeaTable in the future.
+In version 4.4, the [gallery app]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) and the [data query app]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) will disappear, as their functionality can now be fully mapped with the corresponding **page types** in the universal app. The Universal App Builder will therefore be the only option for creating apps in SeaTable in the future.
 
 If you use the two expiring apps, we recommend that you rebuild your use cases with [gallery pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) and query [pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) in the App Builder before the next release. Incidentally, you can now add fields to query pages that allow users to search **link columns** for specific values.
 

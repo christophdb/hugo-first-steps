@@ -47,7 +47,7 @@ Os utilizadores da respectiva aplicação podem aceder às suas notificações a
 
 Na [coluna de]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) colaboradores, anteriormente só era possível selecionar pessoas que já tinham acesso à respectiva base. A partir do SeaTable 4.3, é possível introduzir **todos os membros da sua equipa** nas colunas de colaboradores, mesmo que não tenham acesso a determinadas bases. Desta forma, é muito mais fácil atribuir registos de dados aos seus colaboradores, independentemente da sua autorização de acesso.
 
-Esta funcionalidade é particularmente útil na aplicação Universal. Pode ativar a opção para que os membros da equipa sejam visíveis para todos os utilizadores na lista pendente nas [definições](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) da aplicação Universal. Se não quiser que os utilizadores possam ver os registos de dados de outros, defina **filtros predefinidos**: Se uma página for filtrada pela coluna do empregado com a condição "inclui o utilizador atual", cada utilizador da aplicação universal só vê as entradas que lhe estão atribuídas na tabela.
+Esta funcionalidade é particularmente útil na aplicação Universal. Pode ativar a opção para que os membros da equipa sejam visíveis para todos os utilizadores na lista pendente nas [definições]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) da aplicação Universal. Se não quiser que os utilizadores possam ver os registos de dados de outros, defina **filtros predefinidos**: Se uma página for filtrada pela coluna do empregado com a condição "inclui o utilizador atual", cada utilizador da aplicação universal só vê as entradas que lhe estão atribuídas na tabela.
 
 ![Coluna do empregado na aplicação universal](Mitarbeiter-Spalte-in-der-Universellen-App.gif)
 
@@ -65,7 +65,7 @@ O cartão, que combina uma imagem, um título e um texto num modelo de design, t
 
 ![Elemento de cartão na página personalizada no SeaTable 4.3](Card-element-on-custom-page.png)
 
-Além disso, a **cor de fundo** das páginas individuais pode ser definida conforme desejado a partir do SeaTable 4.3 e a sobreposição indesejada de elementos foi corrigida. O design geral da aplicação universal é agora também apresentado numa cor uniforme em todas as páginas, que pode ser selecionada nas [definições globais](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+Além disso, a **cor de fundo** das páginas individuais pode ser definida conforme desejado a partir do SeaTable 4.3 e a sobreposição indesejada de elementos foi corrigida. O design geral da aplicação universal é agora também apresentado numa cor uniforme em todas as páginas, que pode ser selecionada nas [definições globais]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
 
 ### Autorizações nas páginas do quadro
 
@@ -75,7 +75,7 @@ Todas as restrições para [acções de botão]({{< relref "help/base-editor/sch
 
 ## Anúncio importante: Remoção da galeria e da aplicação de consulta de dados
 
-Na versão 4.4, a [aplicação de galeria]({{< relref help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps >}}) e a [aplicação de consulta de dados]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) desaparecerão, uma vez que a sua funcionalidade pode agora ser totalmente mapeada com os **tipos de página** correspondentes na aplicação universal. O Universal App Builder será, portanto, a única opção para criar aplicações no SeaTable no futuro.
+Na versão 4.4, a [aplicação de galeria]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) e a [aplicação de consulta de dados]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) desaparecerão, uma vez que a sua funcionalidade pode agora ser totalmente mapeada com os **tipos de página** correspondentes na aplicação universal. O Universal App Builder será, portanto, a única opção para criar aplicações no SeaTable no futuro.
 
 Se utilizar as duas aplicações que estão a expirar, recomendamos que reconstrua os seus casos de utilização com [páginas de galeria]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) e [páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) de consulta no App Builder antes da próxima versão. A propósito, agora é possível adicionar campos às páginas de consulta que permitem aos utilizadores pesquisar **colunas de ligação** para valores específicos.
 

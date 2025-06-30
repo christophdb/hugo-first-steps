@@ -30,21 +30,21 @@ Erweiterte Filtermöglichkeiten bietet die Version 5.2 auch in der bedingten [Ze
 
 ## Funktionale Verbesserungen im App Builder
 
-Der Seitentyp [Einzelner Datensatz](https://seatable.io/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) profitiert von gleich mehreren Verbesserungen, aber auch die Formular-, Tabellen- und Dashboardseiten erhalten neue Funktionen bzw. Elemente. Bei den Seitentypen Zeitstrahl, Kalender und Abfrage haben wir die Berechtigungssteuerung ausgebaut und in den App-Einstellungen die Versionsverwaltung und die QR-Code-Funktion verbessert.
+Der Seitentyp [Einzelner Datensatz]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}}) profitiert von gleich mehreren Verbesserungen, aber auch die Formular-, Tabellen- und Dashboardseiten erhalten neue Funktionen bzw. Elemente. Bei den Seitentypen Zeitstrahl, Kalender und Abfrage haben wir die Berechtigungssteuerung ausgebaut und in den App-Einstellungen die Versionsverwaltung und die QR-Code-Funktion verbessert.
 
 ### Seitentyp Einzelner Datensatz
 
-In den Seiteneinstellungen dieses Seitentyps findet sich ab SeaTable 5.2 die Funktion **Voreingestellt schreibgeschützte Spalten**, die bereits von anderen Seitentypen bekannt ist. In Kombination mit der [Seitenberechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) “Wer darf Zeilen bearbeiten?” kann der App-Admin präzise festlegen, welche Spaltenwerte eines Datensatzes durch die Benutzer erfasst bzw. geändert werden können und welche nicht.
+In den Seiteneinstellungen dieses Seitentyps findet sich ab SeaTable 5.2 die Funktion **Voreingestellt schreibgeschützte Spalten**, die bereits von anderen Seitentypen bekannt ist. In Kombination mit der [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) “Wer darf Zeilen bearbeiten?” kann der App-Admin präzise festlegen, welche Spaltenwerte eines Datensatzes durch die Benutzer erfasst bzw. geändert werden können und welche nicht.
 
 ![New read-only columns setting on single record page](ROcolumns-SingleRecordPage.png)
 
-Bei [gesperrten Datensätzen](https://seatable.io/docs/arbeiten-mit-zeilen/sperren-einer-zeile/) erhält der Benutzer nun auch eine Rückmeldung, dass die Bearbeitung nicht möglich ist. Ein entsprechender Hinweis wird eingeblendet, wenn Sie den Mauszeiger in der Toolbar auf “Eintrag bearbeiten” bewegen.
+Bei [gesperrten Datensätzen]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) erhält der Benutzer nun auch eine Rückmeldung, dass die Bearbeitung nicht möglich ist. Ein entsprechender Hinweis wird eingeblendet, wenn Sie den Mauszeiger in der Toolbar auf “Eintrag bearbeiten” bewegen.
 
 Neben der Berechtigungssteuerung enthält die neue Version auch noch zwei Verbesserungen zur Steigerung der Nutzerfreundlichkeit: Felder vom Typ [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) und [E-Mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) sind ab sofort klickbar. Der Aufruf einer Webseite oder das Schreiben einer E-Mail geht so noch schneller. (Dateien in Dateispalten werden in der Version 5.3 klickbar.) Bei Bild-Elementen auf der Seite können Sie den Füllmodus einstellen. Drei Modi stehen Ihnen zur Verfügung: Anpassen, ausfüllen und dehnen.
 
 ### Seitentyp Formular
 
-Einfache [Webformulare]({{< relref "help/base-editor/webformulare" >}}), die sich in der Base erstellen lassen, bieten eine **Weiterleitungsoption**. Benutzer werden nach der Einreichung automatisch zu einer Webseite umgeleitet. Diese Funktion haben wir nun auch auf den [Formularseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) ergänzt und dabei die Besonderheiten der App berücksichtigt. Eine Weiterleitung kann entweder zu einer anderen App-Seite oder zu einer externen URL erfolgen. Die anderen App-Seiten lassen sich bequem aus einem Drop-down-Menü auswählen. Ebenfalls einstellen lässt sich, ob die Umleitung in einem neuen oder im gleichen Tab erfolgt.
+Einfache [Webformulare]({{< relref "help/base-editor/webformulare" >}}), die sich in der Base erstellen lassen, bieten eine **Weiterleitungsoption**. Benutzer werden nach der Einreichung automatisch zu einer Webseite umgeleitet. Diese Funktion haben wir nun auch auf den [Formularseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) ergänzt und dabei die Besonderheiten der App berücksichtigt. Eine Weiterleitung kann entweder zu einer anderen App-Seite oder zu einer externen URL erfolgen. Die anderen App-Seiten lassen sich bequem aus einem Drop-down-Menü auswählen. Ebenfalls einstellen lässt sich, ob die Umleitung in einem neuen oder im gleichen Tab erfolgt.
 
 ### Seitentyp Tabelle
 
@@ -58,11 +58,11 @@ Die [individuelle Seite]({{< relref "help/app-builder/seitentypen-in-universelle
 
 ### Seitentyp Kalender
 
-SeaTable 5.2 liefert eine dringend notwendige Funktion für die [Kalenderseite](https://seatable.io/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/) nach: Das **Hinzufügen von neuen Einträgen** direkt auf Seiten dieses Typs. Dafür haben wir die von anderen Seitentypen bekannte Seitenberechtigung “Wer darf Zeilen hinzufügen?” in den Seiteneinstellungen ergänzt. Zusammen mit der schon bestehenden Berechtigung “Wer darf Zeilen bearbeiten?” kann der App-Admin rollengenau festlegen, welche Benutzer bestehende Einträge ändern und neue anlegen dürfen. Bei bestehenden App-Seiten des Typs Kalender ist die neue Berechtigung auf “Niemand” gestellt.
+SeaTable 5.2 liefert eine dringend notwendige Funktion für die [Kalenderseite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}) nach: Das **Hinzufügen von neuen Einträgen** direkt auf Seiten dieses Typs. Dafür haben wir die von anderen Seitentypen bekannte Seitenberechtigung “Wer darf Zeilen hinzufügen?” in den Seiteneinstellungen ergänzt. Zusammen mit der schon bestehenden Berechtigung “Wer darf Zeilen bearbeiten?” kann der App-Admin rollengenau festlegen, welche Benutzer bestehende Einträge ändern und neue anlegen dürfen. Bei bestehenden App-Seiten des Typs Kalender ist die neue Berechtigung auf “Niemand” gestellt.
 
 ### Seitentyp Zeitstrahl
 
-Auch dieser Seitentyp profitiert von einer Erweiterung der Seitenberechtigungen. Dank der neuen Berechtigung “Wer darf Zeilen bearbeiten?” sind nun auch auf [Zeitstrahlseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/) **direkte Änderungen an bestehenden Datensätzen** möglich. Ziehen Sie mit der Maus am Anfang oder Ende eines Balkens, ändert sich automatisch der Datumswert, was das Ereignis verlängert bzw. verkürzt. In existierenden Apps ist die neue Berechtigung an “Niemand” vergeben.
+Auch dieser Seitentyp profitiert von einer Erweiterung der Seitenberechtigungen. Dank der neuen Berechtigung “Wer darf Zeilen bearbeiten?” sind nun auch auf [Zeitstrahlseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}}) **direkte Änderungen an bestehenden Datensätzen** möglich. Ziehen Sie mit der Maus am Anfang oder Ende eines Balkens, ändert sich automatisch der Datumswert, was das Ereignis verlängert bzw. verkürzt. In existierenden Apps ist die neue Berechtigung an “Niemand” vergeben.
 
 ### Seitentyp Abfrage
 

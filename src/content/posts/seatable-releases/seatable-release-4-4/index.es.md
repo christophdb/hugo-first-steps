@@ -16,7 +16,7 @@ Esta mañana hemos actualizado SeaTable Cloud a la versión 4.4. Todos los auto-
 
 ## App Builder más flexible y potente
 
-En SeaTable 4.4, una vez más hemos hecho un montón de mejoras y correcciones de errores en la [aplicación]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) universal, que beneficiará a casi todos los [tipos de página](https://seatable.io/es/docs/universelle-apps/seitentypen-in-der-universellen-app/). El final de la fase beta está ya al alcance de la mano.
+En SeaTable 4.4, una vez más hemos hecho un montón de mejoras y correcciones de errores en la [aplicación]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) universal, que beneficiará a casi todos los [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). El final de la fase beta está ya al alcance de la mano.
 
 ### Botones en las páginas de consulta
 
@@ -28,17 +28,17 @@ Un ejemplo de aplicación es una bolsa de trabajo interna: la página de consult
 
 ### Arrastrar y soltar en el calendario
 
-Hasta ahora, no era posible cambiar las citas en la [página del calendario](https://seatable.io/es/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/). SeaTable 4.4 le ofrece más flexibilidad en este aspecto. Ahora puede mover cómodamente sus citas en el calendario mediante arrastrar y soltar. También puede editar los valores de las [columnas de fechas]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) correspondientes a través de los detalles de la fila, siempre que disponga de la [autorización](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) necesaria.
+Hasta ahora, no era posible cambiar las citas en la [página del calendario]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). SeaTable 4.4 le ofrece más flexibilidad en este aspecto. Ahora puede mover cómodamente sus citas en el calendario mediante arrastrar y soltar. También puede editar los valores de las [columnas de fechas]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) correspondientes a través de los detalles de la fila, siempre que disponga de la [autorización]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) necesaria.
 
 ### Tratamiento simplificado de los datos en la página de tablas
 
-Como en Base, ahora puede [seleccionar todas las entradas de una columna]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) en las [páginas de tablas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) de sus aplicaciones con un solo clic en la cabecera de la columna. Ahora también es posible el práctico [tirador de relleno](https://seatable.io/es/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/): arrastre el pequeño cuadrado de la esquina inferior derecha de una celda hacia abajo para transferir el valor a todas las filas inferiores.
+Como en Base, ahora puede [seleccionar todas las entradas de una columna]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) en las [páginas de tablas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) de sus aplicaciones con un solo clic en la cabecera de la columna. Ahora también es posible el práctico [tirador de relleno]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}}): arrastre el pequeño cuadrado de la esquina inferior derecha de una celda hacia abajo para transferir el valor a todas las filas inferiores.
 
 ![Marcar entradas de columna](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
 ### Columna de empleados disponible en las páginas de formularios
 
-Si utiliza una columna de [empleado]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) en su tabla, **no** estará disponible en los formularios [web]({{< relref "help/base-editor/webformulare" >}}). Sin embargo, a partir de SeaTable 4.4, puede añadir columnas de empleados a las [páginas de formularios](https://seatable.io/es/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) en la Universal App. Por ejemplo, los miembros de su equipo pueden seleccionarse a sí mismos para una solicitud de vacaciones y ya no tienen que introducir sus nombres manualmente. Primero debe activar la opción para mostrar la lista de empleados en la [configuración de](https://seatable.io/es/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) la app.
+Si utiliza una columna de [empleado]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) en su tabla, **no** estará disponible en los formularios [web]({{< relref "help/base-editor/webformulare" >}}). Sin embargo, a partir de SeaTable 4.4, puede añadir columnas de empleados a las [páginas de formularios]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) en la Universal App. Por ejemplo, los miembros de su equipo pueden seleccionarse a sí mismos para una solicitud de vacaciones y ya no tienen que introducir sus nombres manualmente. Primero debe activar la opción para mostrar la lista de empleados en la [configuración de]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) la app.
 
 ### Más opciones de personalización para páginas individuales
 

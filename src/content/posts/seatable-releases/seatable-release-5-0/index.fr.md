@@ -22,9 +22,9 @@ SeaTable 5.0 marque le lancement officiel de notre générateur d'applications s
 
 ### Nouveau type de page : enregistrement unique
 
-Le développement de l'App-Builder se poursuit sans relâche : avec le [type de page](https://seatable.io/fr/docs/universelle-apps/seitentypen-in-der-universellen-app/) **Enregistrement individuel**, vous avez la possibilité de concevoir une page avec des éléments statiques, des champs de tableau, des couleurs, des cadres, etc. afin de présenter visuellement les données enregistrées sur une ligne. Ce type de page est donc similaire au [plug-in de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que vous connaissez déjà dans la Base.
+Le développement de l'App-Builder se poursuit sans relâche : avec le [type de page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Enregistrement individuel**, vous avez la possibilité de concevoir une page avec des éléments statiques, des champs de tableau, des couleurs, des cadres, etc. afin de présenter visuellement les données enregistrées sur une ligne. Ce type de page est donc similaire au [plug-in de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que vous connaissez déjà dans la Base.
 
-Les utilisateurs de l'application peuvent voir, rechercher, parcourir et modifier les différents enregistrements sur cette page - avec l'[autorisation](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) correspondante. Ce type de page convient par exemple pour afficher les données d'une base de données d'employés sous forme de fiches personnelles.
+Les utilisateurs de l'application peuvent voir, rechercher, parcourir et modifier les différents enregistrements sur cette page - avec l'[autorisation]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) correspondante. Ce type de page convient par exemple pour afficher les données d'une base de données d'employés sous forme de fiches personnelles.
 
 ![Page d'enregistrement unique](Single-Record-Page-min.gif)
 

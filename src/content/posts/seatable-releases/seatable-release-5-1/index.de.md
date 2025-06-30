@@ -18,11 +18,11 @@ Heute Morgen haben wir SeaTable Cloud auf Version 5.1 aktualisiert. Wir empfehle
 
 ## Mehr Funktionen im App Builder
 
-Die [Einstellungen der App](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) haben unsere Entwickler überarbeitet und übersichtlicher gemacht. Dabei ist unter anderem ein separates Menü für das Branding der App hinzugekommen, in dem sich der Modus, das Farbschema und das App-Icon auswählen lassen. Der ‘Seite hinzufügen’-Assistent zeigt sich ebenfalls in einem neuen, zweiseitigen Layout.
+Die [Einstellungen der App]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) haben unsere Entwickler überarbeitet und übersichtlicher gemacht. Dabei ist unter anderem ein separates Menü für das Branding der App hinzugekommen, in dem sich der Modus, das Farbschema und das App-Icon auswählen lassen. Der ‘Seite hinzufügen’-Assistent zeigt sich ebenfalls in einem neuen, zweiseitigen Layout.
 
 Stichwort Seiten: Alle Seitentypen bieten mit SeaTable 5.1 eine Vorschaufunktion für Bilddateien in [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Solche Thumbnails boten bisher nur [Bild-Spalten]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}).) PDF-, Office- und Textdateien werden weiterhin mit einem Datei-Icon dargestellt.
 
-Mit Blick auf die einzelnen Seitentypen stechen die [individuelle Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) und die [Seite für einzelne Datensätze](https://seatable.io/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) mit den meisten Verbesserungen heraus. Aber auch andere Seitentypen können sich über inkrementelle Verbesserungen freuen.
+Mit Blick auf die einzelnen Seitentypen stechen die [individuelle Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) und die [Seite für einzelne Datensätze]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}}) mit den meisten Verbesserungen heraus. Aber auch andere Seitentypen können sich über inkrementelle Verbesserungen freuen.
 
 ### Seitentyp Individuelle Seite
 
@@ -34,7 +34,7 @@ Mehr Flexibilität bietet Version 5.1 auch beim **Vergrößern und Verschieben v
 
 ### Seitentyp Einzelner Datensatz
 
-Dieser Seitentyp unterstützt in SeaTable 5.1 – genauso wie Tabellen- und Abfrageseiten – die [Ausführung von Aktionen per Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Ob Erstellung eines PDF-Dokuments, Aufruf einer Webseite, Veränderung eines Datensatzes oder Ausführung eines Skripts – all diese **Schaltflächen-Aktionen** können Sie nun auch hier starten. Eine [Bearbeitungsberechtigung für die Seite](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) ist dafür nicht notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen festlegen.
+Dieser Seitentyp unterstützt in SeaTable 5.1 – genauso wie Tabellen- und Abfrageseiten – die [Ausführung von Aktionen per Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Ob Erstellung eines PDF-Dokuments, Aufruf einer Webseite, Veränderung eines Datensatzes oder Ausführung eines Skripts – all diese **Schaltflächen-Aktionen** können Sie nun auch hier starten. Eine [Bearbeitungsberechtigung für die Seite]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) ist dafür nicht notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen festlegen.
 
 Die Toolbar bietet einen neuen **QR-Code-Generator**. Der QR-Code enthält den Link auf den aktuell angezeigten Eintrag. Auf einem Gegenstand oder Gerät angebracht, lassen sich über ein Tablet oder Smartphone ohne jede Tastatureingabe alle Daten in der App abrufen. Dadurch wird beispielsweise die Inventarverwaltung noch einfacher.
 
@@ -48,7 +48,7 @@ In Version 5.0 war die Exportfunktionalität auf [Tabellenseiten]({{< relref "he
 
 ### Seitentyp Zeitstrahl
 
-Der Seitentyp [Zeitstrahl](https://seatable.io/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/) bietet nun eine **Gruppierungsfunktion**, um mehr Kontrolle über die Darstellung der Daten zu haben. Wenn eine Gruppierung aktiv ist, dann kann die Anzeige der Balken auch in **Swimlanes** erfolgen. Gerade bei nicht überlappenden Aktivitäten führt diese Ansichtsoption zu einer kompakten, übersichtlichen Darstellung.
+Der Seitentyp [Zeitstrahl]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}}) bietet nun eine **Gruppierungsfunktion**, um mehr Kontrolle über die Darstellung der Daten zu haben. Wenn eine Gruppierung aktiv ist, dann kann die Anzeige der Balken auch in **Swimlanes** erfolgen. Gerade bei nicht überlappenden Aktivitäten führt diese Ansichtsoption zu einer kompakten, übersichtlichen Darstellung.
 
 ### Seitentyp Abfrage
 
@@ -72,7 +72,7 @@ Um die Nachvollziehbarkeit von Änderungen an Zeilen im Big-Data-Speicher zu erh
 
 ### Zusammenspiel von Big Data, Apps und Seitendesign-Plugin
 
-Apps können zwar auf Daten im Big-Data-Speicher zugreifen, in Apps erstellte Einträge konnten aber nicht direkt dort gespeichert werden. Neue Einträge wurden grundsätzlich immer in der Base gespeichert. Diese funktionale Lücke haben wir mit SeaTable 5.1 geschlossen. Die Base bleibt der **Standard-Speicherort für neue Einträge**; diese Einstellung lässt sich aber in den [App-Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) ändern. Wie der Screenshot zeigt, können Sie tabellengenau festlegen, ob neue Zeilen in die Base oder in den Big-Data-Speicher geschrieben werden sollen.
+Apps können zwar auf Daten im Big-Data-Speicher zugreifen, in Apps erstellte Einträge konnten aber nicht direkt dort gespeichert werden. Neue Einträge wurden grundsätzlich immer in der Base gespeichert. Diese funktionale Lücke haben wir mit SeaTable 5.1 geschlossen. Die Base bleibt der **Standard-Speicherort für neue Einträge**; diese Einstellung lässt sich aber in den [App-Einstellungen]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) ändern. Wie der Screenshot zeigt, können Sie tabellengenau festlegen, ob neue Zeilen in die Base oder in den Big-Data-Speicher geschrieben werden sollen.
 
 ![New big data management in SeaTable's App Builder](BigDataManagement_AppBuilder.png)
 

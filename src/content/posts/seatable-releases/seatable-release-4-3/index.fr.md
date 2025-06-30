@@ -47,7 +47,7 @@ Les utilisateurs de chaque application peuvent consulter leurs notifications en 
 
 Dans la [colonne des collaborateurs]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), il n'était jusqu'à présent possible de sélectionner que les personnes qui avaient déjà accès à la base en question. À partir de la version 4.3 de SeaTable, vous pouvez ajouter **tous les membres de votre équipe** dans les colonnes des collaborateurs, même s'ils n'ont pas accès à certaines bases. Il est ainsi beaucoup plus pratique d'attribuer des enregistrements à vos collaborateurs, indépendamment de leur droit d'accès.
 
-Cette fonctionnalité est particulièrement utile dans l'application universelle. Vous pouvez activer l'option permettant à tous les utilisateurs de voir les membres de l'équipe dans la liste déroulante dans les [paramètres](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) de l'application universelle. Si vous ne souhaitez pas que les utilisateurs puissent voir les enregistrements des autres, définissez **des filtres prédéfinis**: si une page est filtrée par colonne de collaborateurs avec la condition "inclut l'utilisateur actuel", chaque utilisateur de l'application universelle ne verra que les enregistrements qui lui sont attribués dans le tableau.
+Cette fonctionnalité est particulièrement utile dans l'application universelle. Vous pouvez activer l'option permettant à tous les utilisateurs de voir les membres de l'équipe dans la liste déroulante dans les [paramètres]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) de l'application universelle. Si vous ne souhaitez pas que les utilisateurs puissent voir les enregistrements des autres, définissez **des filtres prédéfinis**: si une page est filtrée par colonne de collaborateurs avec la condition "inclut l'utilisateur actuel", chaque utilisateur de l'application universelle ne verra que les enregistrements qui lui sont attribués dans le tableau.
 
 ![Colonne des employés dans l'application universelle](Mitarbeiter-Spalte-in-der-Universellen-App.gif)
 
@@ -65,7 +65,7 @@ La carte, qui réunit une image, un titre et un texte en un modèle de design, a
 
 ![Élément de carte sur page personnalisée dans SeaTable 4.3](Card-element-on-custom-page.png)
 
-De plus, à partir de la version 4.3 de SeaTable, la **couleur d'arrière-plan** des pages individuelles peut être réglée à volonté et le chevauchement indésirable des éléments a été corrigé. De même, le design général de l'application universelle se présente désormais dans une couleur uniforme sur toutes les pages, que vous pouvez choisir dans les [paramètres globaux](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+De plus, à partir de la version 4.3 de SeaTable, la **couleur d'arrière-plan** des pages individuelles peut être réglée à volonté et le chevauchement indésirable des éléments a été corrigé. De même, le design général de l'application universelle se présente désormais dans une couleur uniforme sur toutes les pages, que vous pouvez choisir dans les [paramètres globaux]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
 
 ### Autorisations sur les pages de tableaux
 
@@ -75,7 +75,7 @@ De même, toutes les restrictions concernant les [actions sur les boutons]({{< r
 
 ## Annonce importante : Suppression de l'application Galerie et de l'application de consultation des données
 
-Dans la version 4.4, l'[application Galerie]({{< relref help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps >}}) et l'[application de consultation de données]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) disparaîtront, car il est désormais possible de reproduire entièrement leurs fonctionnalités avec les **types de pages** correspondants dans l'application universelle. L'Universal App Builder sera donc à l'avenir la seule option pour créer des applications dans SeaTable.
+Dans la version 4.4, l'[application Galerie]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) et l'[application de consultation de données]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) disparaîtront, car il est désormais possible de reproduire entièrement leurs fonctionnalités avec les **types de pages** correspondants dans l'application universelle. L'Universal App Builder sera donc à l'avenir la seule option pour créer des applications dans SeaTable.
 
 Si vous utilisez les deux applications en cours d'exécution, nous vous recommandons de recréer vos cas d'utilisation avec des [pages de galerie]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) et [des pages de requête]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) dans l'App Builder avant la prochaine version. Sur les pages de requête, vous pouvez d'ailleurs entre-temps ajouter des champs qui permettent aux utilisateurs de rechercher également **des colonnes de liens** pour certaines valeurs.
 

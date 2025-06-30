@@ -30,21 +30,21 @@ A versão 5.2 também oferece opções de filtro alargadas na [formatação]({{<
 
 ## Melhorias funcionais no App Builder
 
-O tipo de página de [registo de dados único](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) beneficia de várias melhorias, mas as páginas de formulário, tabela e painel também recebem novas funções e elementos. Expandimos o controlo de autorização para os tipos de página de linha cronológica, calendário e consulta e melhorámos a gestão de versões e a função de código QR nas definições da aplicação.
+O tipo de página de [registo de dados único]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}}) beneficia de várias melhorias, mas as páginas de formulário, tabela e painel também recebem novas funções e elementos. Expandimos o controlo de autorização para os tipos de página de linha cronológica, calendário e consulta e melhorámos a gestão de versões e a função de código QR nas definições da aplicação.
 
 ### Tipo de página Registo de dados único
 
-A partir do SeaTable 5.2, as definições de página para este tipo de página incluem a função **Colunas só de leitura por defeito**, que já é conhecida de outros tipos de página. Em combinação com a [autorização de página](https://seatable.io/pt/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) "Quem pode editar linhas?", o administrador da aplicação pode definir com precisão que valores de coluna de um registo de dados podem ser introduzidos ou alterados pelos utilizadores e quais não podem.
+A partir do SeaTable 5.2, as definições de página para este tipo de página incluem a função **Colunas só de leitura por defeito**, que já é conhecida de outros tipos de página. Em combinação com a [autorização de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) "Quem pode editar linhas?", o administrador da aplicação pode definir com precisão que valores de coluna de um registo de dados podem ser introduzidos ou alterados pelos utilizadores e quais não podem.
 
 ![Nova definição de colunas só de leitura na página de registo único](ROcolumns-SingleRecordPage.png)
 
-Para os [registos de dados bloqueados](https://seatable.io/pt/docs/arbeiten-mit-zeilen/sperren-einer-zeile/), o utilizador recebe agora também um feedback de que a edição não é possível. É apresentada uma mensagem correspondente quando se move o ponteiro do rato sobre "Editar entrada" na barra de ferramentas.
+Para os [registos de dados bloqueados]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}), o utilizador recebe agora também um feedback de que a edição não é possível. É apresentada uma mensagem correspondente quando se move o ponteiro do rato sobre "Editar entrada" na barra de ferramentas.
 
 Para além do controlo de autorização, a nova versão contém também duas melhorias para aumentar a facilidade de utilização: os campos do tipo [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) e [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) são agora clicáveis. Isto torna ainda mais rápido aceder a um sítio Web ou escrever uma mensagem de correio eletrónico. (Os ficheiros nas colunas de ficheiros tornam-se clicáveis na versão 5.3.) Pode definir o modo de preenchimento dos elementos de imagem na página. Estão disponíveis três modos: Personalizar, Preencher e Esticar.
 
 ### Tipo de página Formulário
 
-[Os formulários Web]({{< relref "help/base-editor/webformulare" >}}) simples que podem ser criados no Base oferecem uma **opção de redireccionamento**. Os utilizadores são automaticamente redireccionados para um sítio Web após a submissão. Agora também adicionámos esta função às [páginas de formulários](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/), tendo em conta as caraterísticas especiais da aplicação. Os utilizadores podem ser redireccionados para outra página da aplicação ou para um URL externo. As outras páginas da aplicação podem ser convenientemente selecionadas a partir de um menu pendente. Também é possível definir se o redireccionamento ocorre num novo separador ou no mesmo separador.
+[Os formulários Web]({{< relref "help/base-editor/webformulare" >}}) simples que podem ser criados no Base oferecem uma **opção de redireccionamento**. Os utilizadores são automaticamente redireccionados para um sítio Web após a submissão. Agora também adicionámos esta função às [páginas de formulários]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}), tendo em conta as caraterísticas especiais da aplicação. Os utilizadores podem ser redireccionados para outra página da aplicação ou para um URL externo. As outras páginas da aplicação podem ser convenientemente selecionadas a partir de um menu pendente. Também é possível definir se o redireccionamento ocorre num novo separador ou no mesmo separador.
 
 ### Tipo de página Tabela
 
@@ -58,11 +58,11 @@ A [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-
 
 ### Tipo de página Calendário
 
-O SeaTable 5.2 fornece uma função urgentemente necessária para a [página de calendário](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/): **Adicionar novas entradas** diretamente às páginas deste tipo. Para este efeito, adicionámos a autorização de página "Quem pode adicionar linhas?" nas definições da página, que é familiar de outros tipos de página. Juntamente com a autorização existente "Quem pode editar linhas?", o administrador da aplicação pode definir exatamente quais os utilizadores que podem alterar as entradas existentes e criar novas entradas. Para páginas de aplicações existentes do tipo calendário, a nova autorização é definida como "Ninguém".
+O SeaTable 5.2 fornece uma função urgentemente necessária para a [página de calendário]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}): **Adicionar novas entradas** diretamente às páginas deste tipo. Para este efeito, adicionámos a autorização de página "Quem pode adicionar linhas?" nas definições da página, que é familiar de outros tipos de página. Juntamente com a autorização existente "Quem pode editar linhas?", o administrador da aplicação pode definir exatamente quais os utilizadores que podem alterar as entradas existentes e criar novas entradas. Para páginas de aplicações existentes do tipo calendário, a nova autorização é definida como "Ninguém".
 
 ### Tipo de página Linha de tempo
 
-Este tipo de página também beneficia de uma extensão das autorizações de página. Graças à nova autorização "Quem pode editar linhas?", **as alterações diretas aos registos de dados existentes** são agora também possíveis nas [páginas de cronologia](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/). Se arrastar o rato no início ou no fim de uma barra, o valor da data muda automaticamente, o que prolonga ou encurta o evento. Nas aplicações existentes, a nova autorização é atribuída a "Ninguém".
+Este tipo de página também beneficia de uma extensão das autorizações de página. Graças à nova autorização "Quem pode editar linhas?", **as alterações diretas aos registos de dados existentes** são agora também possíveis nas [páginas de cronologia]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}}). Se arrastar o rato no início ou no fim de uma barra, o valor da data muda automaticamente, o que prolonga ou encurta o evento. Nas aplicações existentes, a nova autorização é atribuída a "Ninguém".
 
 ### Consulta de tipo de página
 

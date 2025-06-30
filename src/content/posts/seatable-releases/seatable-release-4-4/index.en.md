@@ -16,7 +16,7 @@ This morning we updated SeaTable Cloud to version 4.4. All self-hosters can do t
 
 ## More flexible, more powerful App Builder
 
-In SeaTable 4.4 we have again made a lot of improvements and bug fixes to the [Universal App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), which benefit almost all [page types](https://seatable.io/en/docs/universelle-apps/seitentypen-in-der-universellen-app/). The end of the beta phase is now within reach.
+In SeaTable 4.4 we have again made a lot of improvements and bug fixes to the [Universal App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), which benefit almost all [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). The end of the beta phase is now within reach.
 
 ### Buttons on query pages
 
@@ -28,17 +28,17 @@ One application example is an internal job board: the query page allows you to q
 
 ### Drag and drop in the calendar
 
-Until now, it was not possible to change appointments on the [calendar page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/). SeaTable 4.4 gives you more flexibility here. You can now conveniently move your appointments in the calendar using drag and drop. You can also edit the values in the corresponding [date columns]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) via the row details, provided you have the necessary [permission](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/).
+Until now, it was not possible to change appointments on the [calendar page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). SeaTable 4.4 gives you more flexibility here. You can now conveniently move your appointments in the calendar using drag and drop. You can also edit the values in the corresponding [date columns]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) via the row details, provided you have the necessary [permission]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}).
 
 ### Simplified data handling on the table page
 
-As in Base, you can now [select all entries in a column]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) on the [table pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) of your apps with just one click on the column header. The practical [fill handle](https://seatable.io/en/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) is now also possible: drag the small square in the bottom right-hand corner of a cell downwards to transfer the value to all the rows below it.
+As in Base, you can now [select all entries in a column]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) on the [table pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) of your apps with just one click on the column header. The practical [fill handle]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}}) is now also possible: drag the small square in the bottom right-hand corner of a cell downwards to transfer the value to all the rows below it.
 
 ![Mark column entries](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
 ### Collaborator column available on form pages
 
-If you use an [employee column]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) in your table, it is **not** available in [web forms]({{< relref "help/base-editor/webformulare" >}}). However, as of SeaTable 4.4, you can add employee columns to [form pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) in the Universal App. For example, your team members can select themselves for a vacation request and no longer have to enter their names manually. You must first activate the option to display the employee list in the [app settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+If you use an [employee column]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) in your table, it is **not** available in [web forms]({{< relref "help/base-editor/webformulare" >}}). However, as of SeaTable 4.4, you can add employee columns to [form pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) in the Universal App. For example, your team members can select themselves for a vacation request and no longer have to enter their names manually. You must first activate the option to display the employee list in the [app settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
 
 ### More customizing options for custom pages
 

@@ -18,11 +18,11 @@ Esta manhã, actualizámos o SeaTable Cloud para a versão 5.1. Recomendamos a t
 
 ## Mais funções no App Builder
 
-Os nossos programadores reviram as [definições da aplicação](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) e tornaram-nas mais claras. Entre outras coisas, foi adicionado um menu separado para a marca da aplicação, no qual se pode selecionar o modo, o esquema de cores e o ícone da aplicação. O assistente 'Adicionar página' também tem um novo esquema de duas páginas.
+Os nossos programadores reviram as [definições da aplicação]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) e tornaram-nas mais claras. Entre outras coisas, foi adicionado um menu separado para a marca da aplicação, no qual se pode selecionar o modo, o esquema de cores e o ícone da aplicação. O assistente 'Adicionar página' também tem um novo esquema de duas páginas.
 
 Páginas de palavras-chave: Com o SeaTable 5.1, todos os tipos de páginas oferecem uma função de pré-visualização para ficheiros de imagem nas [colunas de ficheiros]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Anteriormente, apenas [as colunas de imagens]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) ofereciam essas miniaturas.) Os ficheiros PDF, Office e de texto continuam a ser apresentados com um ícone de ficheiro.
 
-Olhando para os tipos de páginas individuais, a [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) e a [página para registos de dados individuais](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) destacam-se com o maior número de melhorias. No entanto, outros tipos de páginas também podem esperar melhorias incrementais.
+Olhando para os tipos de páginas individuais, a [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) e a [página para registos de dados individuais]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}}) destacam-se com o maior número de melhorias. No entanto, outros tipos de páginas também podem esperar melhorias incrementais.
 
 ### Tipo de página Página personalizada
 
@@ -34,7 +34,7 @@ A versão 5.1 também oferece mais flexibilidade na **ampliação e deslocação
 
 ### Tipo de página Registo de dados único
 
-No SeaTable 5.1, este tipo de página - tal como as páginas de tabelas e consultas - suporta a [execução de acções através de botões]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Quer se trate da criação de um documento PDF, da chamada de uma página Web, da alteração de um registo de dados ou da execução de um script, agora também pode iniciar todas estas **acções** através de **botões**. Para tal, não é necessária [autorização de edição para a página](https://seatable.io/pt/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/). Desta forma, os administradores de aplicações podem definir as interações do utilizador para este tipo de página para algumas acções predefinidas.
+No SeaTable 5.1, este tipo de página - tal como as páginas de tabelas e consultas - suporta a [execução de acções através de botões]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Quer se trate da criação de um documento PDF, da chamada de uma página Web, da alteração de um registo de dados ou da execução de um script, agora também pode iniciar todas estas **acções** através de **botões**. Para tal, não é necessária [autorização de edição para a página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}). Desta forma, os administradores de aplicações podem definir as interações do utilizador para este tipo de página para algumas acções predefinidas.
 
 A barra de ferramentas oferece um novo **gerador de código QR**. O código QR contém a ligação para a entrada atualmente apresentada. Anexado a um objeto ou dispositivo, todos os dados podem ser chamados na aplicação através de um tablet ou smartphone sem qualquer introdução de teclado. Isto torna a gestão do inventário, por exemplo, ainda mais fácil.
 
@@ -48,7 +48,7 @@ Na versão 5.0, a funcionalidade de exportação nas [páginas de tabelas]({{< r
 
 ### Tipo de página Linha de tempo
 
-O tipo de página [de linha cronológica](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/) oferece agora uma **função de agrupamento** para lhe dar mais controlo sobre a forma como os dados são apresentados. Se o agrupamento estiver ativo, as barras também podem ser apresentadas em **raias**. Esta opção de visualização permite uma apresentação compacta e clara, especialmente para actividades que não se sobrepõem.
+O tipo de página [de linha cronológica]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}}) oferece agora uma **função de agrupamento** para lhe dar mais controlo sobre a forma como os dados são apresentados. Se o agrupamento estiver ativo, as barras também podem ser apresentadas em **raias**. Esta opção de visualização permite uma apresentação compacta e clara, especialmente para actividades que não se sobrepõem.
 
 ### Consulta de tipo de página
 
@@ -72,7 +72,7 @@ Para aumentar a rastreabilidade das alterações às linhas na memória de grand
 
 ### Interação de grandes volumes de dados, aplicações e plug-in de design de páginas
 
-Apesar de as aplicações poderem aceder aos dados no armazenamento de grandes volumes de dados, as entradas criadas nas aplicações não podiam ser guardadas diretamente aí. As novas entradas eram sempre guardadas na base. Colmatámos esta lacuna funcional com o SeaTable 5.1. A base continua a ser o **local de armazenamento predefinido para novas entradas**; no entanto, esta definição pode ser alterada nas [definições da aplicação](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). Como mostra a captura de ecrã, é possível especificar para cada tabela se as novas linhas devem ser escritas na base ou na memória de grandes volumes de dados.
+Apesar de as aplicações poderem aceder aos dados no armazenamento de grandes volumes de dados, as entradas criadas nas aplicações não podiam ser guardadas diretamente aí. As novas entradas eram sempre guardadas na base. Colmatámos esta lacuna funcional com o SeaTable 5.1. A base continua a ser o **local de armazenamento predefinido para novas entradas**; no entanto, esta definição pode ser alterada nas [definições da aplicação]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}). Como mostra a captura de ecrã, é possível especificar para cada tabela se as novas linhas devem ser escritas na base ou na memória de grandes volumes de dados.
 
 ![Nova gestão de grandes volumes de dados no App Builder do SeaTable](BigDataManagement_AppBuilder.png)
 

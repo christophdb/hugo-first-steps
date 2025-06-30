@@ -16,7 +16,7 @@ Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.4. Tous les auto
 
 ## Un App Builder plus flexible et plus puissant
 
-Dans SeaTable 4.4, nous avons à nouveau apporté un grand nombre d'améliorations et de corrections de bugs à l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), dont bénéficient presque tous les [types de pages](https://seatable.io/fr/docs/universelle-apps/seitentypen-in-der-universellen-app/). La fin de la phase bêta approche donc à grands pas.
+Dans SeaTable 4.4, nous avons à nouveau apporté un grand nombre d'améliorations et de corrections de bugs à l'[application universelle]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), dont bénéficient presque tous les [types de pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). La fin de la phase bêta approche donc à grands pas.
 
 ### Boutons sur les pages d'interrogation
 
@@ -28,17 +28,17 @@ Un exemple d'application est une bourse d'emploi interne : la page de requête p
 
 ### Glisser-déposer dans le calendrier
 
-Jusqu'à présent, il n'était pas possible de modifier les rendez-vous sur la [page du calendrier](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/). Avec SeaTable 4.4, vous bénéficiez d'une plus grande flexibilité. Désormais, vous pouvez déplacer facilement vos rendez-vous dans le calendrier par glisser-déposer. De plus, vous pouvez modifier les valeurs dans les [colonnes de dates]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) correspondantes via les détails de la ligne, à condition de disposer des [autorisations](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) nécessaires.
+Jusqu'à présent, il n'était pas possible de modifier les rendez-vous sur la [page du calendrier]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). Avec SeaTable 4.4, vous bénéficiez d'une plus grande flexibilité. Désormais, vous pouvez déplacer facilement vos rendez-vous dans le calendrier par glisser-déposer. De plus, vous pouvez modifier les valeurs dans les [colonnes de dates]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) correspondantes via les détails de la ligne, à condition de disposer des [autorisations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) nécessaires.
 
 ### Manipulation simplifiée des données côté tableau
 
-Comme dans la base, vous pouvez désormais [sélectionner toutes les entrées d'une colonne]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) sur les [pages de tableau]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) de vos apps en un seul clic sur l'en-tête de la colonne. La [poignée de remplissage](https://seatable.io/fr/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) pratique est également désormais possible : faites glisser le petit carré dans le coin inférieur droit d'une cellule vers le bas pour transférer la valeur dans toutes les lignes situées en dessous.
+Comme dans la base, vous pouvez désormais [sélectionner toutes les entrées d'une colonne]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) sur les [pages de tableau]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) de vos apps en un seul clic sur l'en-tête de la colonne. La [poignée de remplissage]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}}) pratique est également désormais possible : faites glisser le petit carré dans le coin inférieur droit d'une cellule vers le bas pour transférer la valeur dans toutes les lignes situées en dessous.
 
 ![Marquer les entrées de colonne](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
 ### Colonne des employés disponible sur les pages de formulaires
 
-Si vous utilisez une [colonne d'employés]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) dans votre tableau, elle n'est **pas** disponible dans [les formulaires web]({{< relref "help/base-editor/webformulare" >}}). Cependant, à partir de SeaTable 4.4, vous pouvez ajouter des colonnes d'employés sur les [pages de formulaires](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) de l'application universelle. Ainsi, les membres de votre équipe peuvent par exemple se sélectionner eux-mêmes lors d'une demande de congé et ne doivent plus saisir leur nom manuellement. Auparavant, vous devez activer dans les [paramètres de l'application](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) l'option permettant d'afficher la liste des collaborateurs.
+Si vous utilisez une [colonne d'employés]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) dans votre tableau, elle n'est **pas** disponible dans [les formulaires web]({{< relref "help/base-editor/webformulare" >}}). Cependant, à partir de SeaTable 4.4, vous pouvez ajouter des colonnes d'employés sur les [pages de formulaires]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) de l'application universelle. Ainsi, les membres de votre équipe peuvent par exemple se sélectionner eux-mêmes lors d'une demande de congé et ne doivent plus saisir leur nom manuellement. Auparavant, vous devez activer dans les [paramètres de l'application]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) l'option permettant d'afficher la liste des collaborateurs.
 
 ### Plus d'options de customisation pour des pages personnalisées
 

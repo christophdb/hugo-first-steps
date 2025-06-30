@@ -47,7 +47,7 @@ Die Nutzer der jeweiligen App können ihre Benachrichtigungen über das {{< seat
 
 In der [Mitarbeiter-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) war es bisher nur möglich Personen auszuwählen, die bereits Zugriff auf die jeweilige Base hatten. Ab SeaTable 4.3 können Sie in Mitarbeiter-Spalten **alle Mitglieder Ihres Teams** eintragen, selbst wenn diese keinen Zugriff auf bestimmte Bases haben. Dadurch wird es wesentlich komfortabler, Ihren Mitarbeitern unabhängig von ihrer Zugriffsberechtigung Datensätze zuzuordnen.
 
-Diese Funktionalität ist vor allem in der Universellen App von Vorteil. Sie können die Option, dass die Teammitglieder in der Drop-down-Liste für alle Nutzer zu sehen sind, in den [Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) der Universellen App aktivieren. Wenn Sie nicht möchten, dass die Nutzer die Datensätze der anderen sehen können, legen Sie **voreingestellte Filter** fest: Wird eine Seite per Mitarbeiter-Spalte mit der Bedingung „inkludiert aktuellen Benutzer“ gefiltert, sieht jeder Nutzer der Universellen App nur die Einträge, die ihm in der Tabelle zugeordnet sind.
+Diese Funktionalität ist vor allem in der Universellen App von Vorteil. Sie können die Option, dass die Teammitglieder in der Drop-down-Liste für alle Nutzer zu sehen sind, in den [Einstellungen]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) der Universellen App aktivieren. Wenn Sie nicht möchten, dass die Nutzer die Datensätze der anderen sehen können, legen Sie **voreingestellte Filter** fest: Wird eine Seite per Mitarbeiter-Spalte mit der Bedingung „inkludiert aktuellen Benutzer“ gefiltert, sieht jeder Nutzer der Universellen App nur die Einträge, die ihm in der Tabelle zugeordnet sind.
 
 ![Mitarbeiter-Spalte in der Universellen App](Mitarbeiter-Spalte-in-der-Universellen-App.gif)
 
@@ -65,7 +65,7 @@ Für ein schönes Seitenlayout sorgt auch die Karte, die ein Bild, eine Übersch
 
 ![Card element on custom page in SeaTable 4.3](Card-element-on-custom-page.png)
 
-Außerdem lässt sich die **Hintergrundfarbe** von individuellen Seiten ab SeaTable 4.3 beliebig einstellen und die unerwünschte Überlappung von Elementen wurde behoben. Auch das übergreifende Design der Universellen App präsentiert sich nun über alle Seiten hinweg in einer einheitlichen Farbe, die Sie in den [globalen Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) auswählen können.
+Außerdem lässt sich die **Hintergrundfarbe** von individuellen Seiten ab SeaTable 4.3 beliebig einstellen und die unerwünschte Überlappung von Elementen wurde behoben. Auch das übergreifende Design der Universellen App präsentiert sich nun über alle Seiten hinweg in einer einheitlichen Farbe, die Sie in den [globalen Einstellungen]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) auswählen können.
 
 ### Berechtigungen auf Tabellenseiten
 
@@ -75,7 +75,7 @@ Ebenso werden alle Einschränkungen für [Schaltflächen-Aktionen]({{< relref "h
 
 ## Wichtige Ankündigung: Entfernung der Galerie- und Datenabfrage-App
 
-In Version 4.4 werden die [Galerie-App]({{< relref help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps >}}) und die [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) verschwinden, da man ihre Funktionalität mittlerweile vollständig mit den entsprechenden **Seitentypen** in der Universellen App abbilden kann. Der Universal App Builder wird zukünftig also die einzige Option sein, um Apps in SeaTable zu erstellen.
+In Version 4.4 werden die [Galerie-App]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) und die [Datenabfrage-App]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) verschwinden, da man ihre Funktionalität mittlerweile vollständig mit den entsprechenden **Seitentypen** in der Universellen App abbilden kann. Der Universal App Builder wird zukünftig also die einzige Option sein, um Apps in SeaTable zu erstellen.
 
 Wenn Sie die beiden ablaufenden Apps nutzen, empfehlen wir Ihnen, Ihre Anwendungsfälle vor dem nächsten Release mit [Galerieseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) und [Abfrageseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) im App Builder nachzubauen. Auf Abfrageseiten können Sie mittlerweile übrigens Felder hinzufügen, mit denen die Nutzer auch **Link-Spalten** nach bestimmten Werten durchsuchen können.
 

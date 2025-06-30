@@ -30,21 +30,21 @@ Version 5.2 also offers extended filter options in conditional [rows]({{< relref
 
 ## Functional improvements in the App Builder
 
-The [single data record](https://seatable.io/en/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) page type benefits from several improvements, but the form, table and dashboard pages also receive new functions and elements. We have expanded the authorization control for the timeline, calendar and query page types and improved version management and the QR code function in the app settings.
+The [single data record]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}}) page type benefits from several improvements, but the form, table and dashboard pages also receive new functions and elements. We have expanded the authorization control for the timeline, calendar and query page types and improved version management and the QR code function in the app settings.
 
 ### Page type Single data record
 
-As of SeaTable 5.2, the page settings for this page type include the **Preset read-only columns** function, which is already familiar from other page types. In combination with the [page authorization](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) "Who can edit rows ?", the app admin can precisely define which column values of a data set can be entered or changed by users and which cannot.
+As of SeaTable 5.2, the page settings for this page type include the **Preset read-only columns** function, which is already familiar from other page types. In combination with the [page authorization]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) "Who can edit rows ?", the app admin can precisely define which column values of a data set can be entered or changed by users and which cannot.
 
 ![New read-only columns setting on single record page](ROcolumns-SingleRecordPage.png)
 
-For [locked data records](https://seatable.io/en/docs/arbeiten-mit-zeilen/sperren-einer-zeile/), the user now also receives feedback that editing is not possible. A corresponding message is displayed when you move the mouse pointer over "Edit entry" in the toolbar.
+For [locked data records]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}), the user now also receives feedback that editing is not possible. A corresponding message is displayed when you move the mouse pointer over "Edit entry" in the toolbar.
 
 In addition to the authorization control, the new version also contains two improvements to increase user-friendliness: fields of type [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) and [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) are now clickable. This makes calling up a website or writing an e-mail even faster. (Files in file columns become clickable in version 5.3.) You can set the fill mode for image elements on the page. Three modes are available: Fit, Fill and Stretch.
 
 ### Page type Form
 
-Simple [web forms]({{< relref "help/base-editor/webformulare" >}}) that can be created in Base offer a **redirect option**. Users are automatically redirected to a website after submission. We have now also added this function to the [form pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/), taking into account the special features of the app. Users can either be redirected to another app page or to an external URL. The other app pages can be conveniently selected from a drop-down menu. You can also set whether the redirection takes place in a new tab or in the same tab.
+Simple [web forms]({{< relref "help/base-editor/webformulare" >}}) that can be created in Base offer a **redirect option**. Users are automatically redirected to a website after submission. We have now also added this function to the [form pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}), taking into account the special features of the app. Users can either be redirected to another app page or to an external URL. The other app pages can be conveniently selected from a drop-down menu. You can also set whether the redirection takes place in a new tab or in the same tab.
 
 ### Page type Table
 
@@ -58,11 +58,11 @@ The [individual page]({{< relref "help/app-builder/seitentypen-in-universellen-a
 
 ### Page type Calendar
 
-SeaTable 5.2 delivers an urgently needed function for the [calendar page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/): **Adding new entries** directly to pages of this type. For this purpose, we have added the page permission "Who can add rows ?" in the page settings, which is known from other page types. Together with the existing "Who can edit rows ?" permission, the app admin can define exactly which users can change existing entries and create new ones. For existing app pages of the calendar type, the new authorization is set to "Nobody".
+SeaTable 5.2 delivers an urgently needed function for the [calendar page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}): **Adding new entries** directly to pages of this type. For this purpose, we have added the page permission "Who can add rows ?" in the page settings, which is known from other page types. Together with the existing "Who can edit rows ?" permission, the app admin can define exactly which users can change existing entries and create new ones. For existing app pages of the calendar type, the new authorization is set to "Nobody".
 
 ### Page type Timeline
 
-This page type also benefits from an extension of the page authorizations. Thanks to the new "Who can edit rows ?" authorization, **direct changes to existing data records** are now also possible on [timeline pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/). If you drag the mouse at the beginning or end of a bar, the date value changes automatically, which extends or shortens the event. In existing apps, the new authorization is assigned to "Nobody".
+This page type also benefits from an extension of the page authorizations. Thanks to the new "Who can edit rows ?" authorization, **direct changes to existing data records** are now also possible on [timeline pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}}). If you drag the mouse at the beginning or end of a bar, the date value changes automatically, which extends or shortens the event. In existing apps, the new authorization is assigned to "Nobody".
 
 ### Page type query
 

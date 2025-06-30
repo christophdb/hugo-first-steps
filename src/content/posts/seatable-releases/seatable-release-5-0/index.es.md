@@ -22,9 +22,9 @@ SeaTable 5.0 marca el lanzamiento oficial de nuestro creador de aplicaciones sin
 
 ### Nuevo tipo de página: Registro único de datos
 
-El desarrollo de App Builder no cesa: con el tipo [de](https://seatable.io/es/docs/universelle-apps/seitentypen-in-der-universellen-app/) página de **registro de datos único**, tiene la posibilidad de diseñar una página con elementos estáticos, campos de tabla, colores, marcos, etc. para preparar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que ya conoces de Base.
+El desarrollo de App Builder no cesa: con el tipo [de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) página de **registro de datos único**, tiene la posibilidad de diseñar una página con elementos estáticos, campos de tabla, colores, marcos, etc. para preparar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que ya conoces de Base.
 
-Los usuarios de la aplicación pueden ver, buscar, explorar y editar los registros de datos individuales en esta página, con la [autorización](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) pertinente. Este tipo de página es adecuada, por ejemplo, para mostrar los datos de una base de datos de empleados como perfiles personales.
+Los usuarios de la aplicación pueden ver, buscar, explorar y editar los registros de datos individuales en esta página, con la [autorización]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) pertinente. Este tipo de página es adecuada, por ejemplo, para mostrar los datos de una base de datos de empleados como perfiles personales.
 
 ![Página de registro único](Single-Record-Page-min.gif)
 

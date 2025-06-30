@@ -22,9 +22,9 @@ Mit SeaTable 5.0 geht unser No-Code-App-Builder offiziell an den Start. Nachdem 
 
 ### Neuer Seitentyp: Einzelner Datensatz
 
-Die Entwicklung des App-Builders geht unvermindert weiter: Mit dem [Seitentyp](https://seatable.io/docs/universelle-apps/seitentypen-in-der-universellen-app/) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), das Sie bereits aus der Base kennen.
+Die Entwicklung des App-Builders geht unvermindert weiter: Mit dem [Seitentyp]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), das Sie bereits aus der Base kennen.
 
-Die Nutzer der App können auf dieser Seite – mit der jeweiligen [Berechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) – die einzelnen Datensätze sehen, suchen, durchblättern und bearbeiten. Dieser Seitentyp eignet sich zum Beispiel, um die Daten in einer Mitarbeiterdatenbank als persönliche Steckbriefe anzuzeigen.
+Die Nutzer der App können auf dieser Seite – mit der jeweiligen [Berechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) – die einzelnen Datensätze sehen, suchen, durchblättern und bearbeiten. Dieser Seitentyp eignet sich zum Beispiel, um die Daten in einer Mitarbeiterdatenbank als persönliche Steckbriefe anzuzeigen.
 
 ![Single Record Page](Single-Record-Page-min.gif)
 

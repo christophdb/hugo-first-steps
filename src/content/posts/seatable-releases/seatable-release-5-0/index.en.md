@@ -22,9 +22,9 @@ SeaTable 5.0 marks the official launch of our no-code app builder. After our dev
 
 ### New page type: Single Record
 
-The development of the App Builder continues unabated: With the **single data record** [page type](https://seatable.io/en/docs/universelle-apps/seitentypen-in-der-universellen-app/), you have the option of designing a page with static elements, table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from Base.
+The development of the App Builder continues unabated: With the **single data record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from Base.
 
-Users of the app can view, search, browse, and edit each single record on this page - with the relevant [permission](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/). This page type is suitable, for example, for displaying the data in an employee database as personal profiles.
+Users of the app can view, search, browse, and edit each single record on this page - with the relevant [permission]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}). This page type is suitable, for example, for displaying the data in an employee database as personal profiles.
 
 ![Single Record Page](Single-Record-Page-min.gif)
 

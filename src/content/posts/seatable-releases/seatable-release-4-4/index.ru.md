@@ -16,7 +16,7 @@ seo:
 
 ## Более гибкий, более мощный конструктор приложений
 
-В SeaTable 4.4 мы снова внесли множество улучшений и исправлений ошибок в [универсальное приложение]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), которые будут полезны практически для всех [типов страниц](https://seatable.io/ru/docs/universelle-apps/seitentypen-in-der-universellen-app/). Завершение фазы бета-тестирования уже близко.
+В SeaTable 4.4 мы снова внесли множество улучшений и исправлений ошибок в [универсальное приложение]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), которые будут полезны практически для всех [типов страниц]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Завершение фазы бета-тестирования уже близко.
 
 ### Кнопки на страницах запросов
 
@@ -28,17 +28,17 @@ seo:
 
 ### Перетаскивание в календарь
 
-До сих пор не было возможности изменять встречи на [странице календаря](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/). SeaTable 4.4 предоставляет вам больше возможностей. Теперь вы можете удобно перемещать встречи в календаре с помощью перетаскивания. Вы также можете редактировать значения в соответствующих [столбцах даты]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) через детали строки, если у вас есть необходимые [полномочия](https://seatable.io/ru/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/).
+До сих пор не было возможности изменять встречи на [странице календаря]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). SeaTable 4.4 предоставляет вам больше возможностей. Теперь вы можете удобно перемещать встречи в календаре с помощью перетаскивания. Вы также можете редактировать значения в соответствующих [столбцах даты]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) через детали строки, если у вас есть необходимые [полномочия]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}).
 
 ### Упрощенная обработка данных на странице таблицы
 
-Как и в Base, теперь вы можете [выбрать все записи в столбце]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) на [страницах таблиц]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) ваших приложений одним щелчком мыши на заголовке столбца. Также появилась возможность использовать практичную [ручку заполнения](https://seatable.io/ru/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/): перетащите маленький квадратик в правом нижнем углу ячейки вниз, чтобы перенести значение на все строки ниже.
+Как и в Base, теперь вы можете [выбрать все записи в столбце]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) на [страницах таблиц]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) ваших приложений одним щелчком мыши на заголовке столбца. Также появилась возможность использовать практичную [ручку заполнения]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}}): перетащите маленький квадратик в правом нижнем углу ячейки вниз, чтобы перенести значение на все строки ниже.
 
 ![Пометить записи в столбце](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
 ### Колонка сотрудника доступна на страницах форм
 
-Если вы используете [столбец сотрудников]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) в таблице, он **недоступен** в [веб-формах]({{< relref "help/base-editor/webformulare" >}}). Однако, начиная с версии SeaTable 4.4, вы можете добавлять колонки сотрудников на [страницы форм](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) в универсальном приложении. Например, члены вашей команды могут выбрать себя для запроса на отпуск, и больше не придется вводить их имена вручную. Сначала необходимо активировать опцию отображения списка сотрудников в [настройках приложения](https://seatable.io/ru/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+Если вы используете [столбец сотрудников]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) в таблице, он **недоступен** в [веб-формах]({{< relref "help/base-editor/webformulare" >}}). Однако, начиная с версии SeaTable 4.4, вы можете добавлять колонки сотрудников на [страницы форм]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) в универсальном приложении. Например, члены вашей команды могут выбрать себя для запроса на отпуск, и больше не придется вводить их имена вручную. Сначала необходимо активировать опцию отображения списка сотрудников в [настройках приложения]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
 
 ### Больше возможностей для настройки отдельных страниц
 

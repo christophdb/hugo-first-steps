@@ -16,7 +16,7 @@ Heute Morgen haben wir SeaTable Cloud auf Version 4.4 aktualisiert. Alle Selbsth
 
 ## Flexiblerer, leistungsfähigerer App Builder
 
-In SeaTable 4.4 haben wir wieder jede Menge Verbesserungen und Bugfixes an der [Universellen App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) vorgenommen, von denen fast alle [Seitentypen](https://seatable.io/docs/universelle-apps/seitentypen-in-der-universellen-app/) profitieren. Das Ende der Beta-Phase rückt damit in greifbare Nähe.
+In SeaTable 4.4 haben wir wieder jede Menge Verbesserungen und Bugfixes an der [Universellen App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) vorgenommen, von denen fast alle [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) profitieren. Das Ende der Beta-Phase rückt damit in greifbare Nähe.
 
 ### Buttons auf Abfrageseiten
 
@@ -28,17 +28,17 @@ Ein Anwendungsbeispiel ist eine interne Stellenbörse: Die Abfrageseite erlaubt 
 
 ### Drag and Drop im Kalender
 
-Bislang war es nicht möglich, Termine auf der [Kalenderseite](https://seatable.io/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/) zu ändern. Mit SeaTable 4.4 bekommen Sie hier mehr Flexibilität. Ab jetzt können Sie Ihre Termine im Kalender komfortabel per Drag and Drop verschieben. Zudem können Sie die Werte in den entsprechenden [Datum-Spalten]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) über die Zeilendetails bearbeiten, sofern Sie die notwendige [Berechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) besitzen.
+Bislang war es nicht möglich, Termine auf der [Kalenderseite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}) zu ändern. Mit SeaTable 4.4 bekommen Sie hier mehr Flexibilität. Ab jetzt können Sie Ihre Termine im Kalender komfortabel per Drag and Drop verschieben. Zudem können Sie die Werte in den entsprechenden [Datum-Spalten]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) über die Zeilendetails bearbeiten, sofern Sie die notwendige [Berechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) besitzen.
 
 ### Vereinfachtes Datenhandling auf der Tabellenseite
 
-Wie in der Base können Sie nun auch auf den [Tabellenseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) Ihrer Apps mit nur einem Klick auf den Spaltenkopf [alle Einträge in einer Spalte markieren]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}). Auch der praktische [Füllgriff](https://seatable.io/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) ist nun möglich: Ziehen Sie das kleine Quadrat in der unteren rechten Ecke einer Zelle nach unten, um den Wert in alle darunterliegenden Zeilen zu übertragen.
+Wie in der Base können Sie nun auch auf den [Tabellenseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) Ihrer Apps mit nur einem Klick auf den Spaltenkopf [alle Einträge in einer Spalte markieren]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}). Auch der praktische [Füllgriff]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}}) ist nun möglich: Ziehen Sie das kleine Quadrat in der unteren rechten Ecke einer Zelle nach unten, um den Wert in alle darunterliegenden Zeilen zu übertragen.
 
 ![Spalteneinträge markieren](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
 ### Mitarbeiter-Spalte auf Formularseiten verfügbar
 
-Wenn Sie eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) in Ihrer Tabelle nutzen, ist diese in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) **nicht** verfügbar. Jedoch können Sie ab SeaTable 4.4 Mitarbeiter-Spalten auf [Formularseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) der Universellen App hinzufügen. So können sich Ihre Teammitglieder beispielsweise bei einem Urlaubsantrag selbst auswählen und müssen ihre Namen nicht mehr manuell eintragen. Zuvor müssen Sie in den [App-Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) die Option aktivieren, dass die Mitarbeiterliste angezeigt werden soll.
+Wenn Sie eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) in Ihrer Tabelle nutzen, ist diese in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) **nicht** verfügbar. Jedoch können Sie ab SeaTable 4.4 Mitarbeiter-Spalten auf [Formularseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) der Universellen App hinzufügen. So können sich Ihre Teammitglieder beispielsweise bei einem Urlaubsantrag selbst auswählen und müssen ihre Namen nicht mehr manuell eintragen. Zuvor müssen Sie in den [App-Einstellungen]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) die Option aktivieren, dass die Mitarbeiterliste angezeigt werden soll.
 
 ### Mehr Customizing-Optionen für individuelle Seiten
 

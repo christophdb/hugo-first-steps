@@ -18,11 +18,11 @@ This morning we updated SeaTable Cloud to version 5.1. We recommend all administ
 
 ## More functions in the App Builder
 
-Our developers have revised the [app settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) and made them clearer. Among other things, a separate menu has been added for the branding of the app, in which the mode, the color scheme and the app icon can be selected. The 'Add page' wizard also has a new, two-page layout.
+Our developers have revised the [app settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) and made them clearer. Among other things, a separate menu has been added for the branding of the app, in which the mode, the color scheme and the app icon can be selected. The 'Add page' wizard also has a new, two-page layout.
 
 Keyword pages: With SeaTable 5.1, all page types offer a preview function for image files in [file columns]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Previously, only [image columns]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) offered such thumbnails.) PDF, Office and text files are still displayed with a file icon.
 
-Looking at the individual page types, the [individual page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) and the [page for individual data records](https://seatable.io/en/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) stand out with the most improvements. However, other page types can also look forward to incremental improvements.
+Looking at the individual page types, the [individual page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) and the [page for individual data records]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}}) stand out with the most improvements. However, other page types can also look forward to incremental improvements.
 
 ### Page type Individual page
 
@@ -34,7 +34,7 @@ Version 5.1 also offers more flexibility when **enlarging and moving elements**.
 
 ### Page type Single data record
 
-In SeaTable 5.1, this page type - just like table and query pages - supports the [execution of actions via buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Whether creating a PDF document, calling up a web page, changing a data record or executing a script - you can now also start all these **button actions** here. [Editing authorization for the page](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) is not required for this. In this way, app admins can set the user interactions for this page type to a few predefined actions.
+In SeaTable 5.1, this page type - just like table and query pages - supports the [execution of actions via buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Whether creating a PDF document, calling up a web page, changing a data record or executing a script - you can now also start all these **button actions** here. [Editing authorization for the page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) is not required for this. In this way, app admins can set the user interactions for this page type to a few predefined actions.
 
 The toolbar offers a new **QR code generator**. The QR code contains the link to the currently displayed entry. Attached to an object or device, all data can be called up in the app via a tablet or smartphone without any keyboard input. This makes inventory management, for example, even easier.
 
@@ -48,7 +48,7 @@ In version 5.0, the export functionality on [table pages]({{< relref "help/app-b
 
 ### Page type Timeline
 
-The [timeline](https://seatable.io/en/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/) page type now offers a **grouping function** to give you more control over how the data is displayed. If grouping is active, the bars can also be displayed in **swimlanes**. This view option leads to a compact, clear display, especially for non-overlapping activities.
+The [timeline]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}}) page type now offers a **grouping function** to give you more control over how the data is displayed. If grouping is active, the bars can also be displayed in **swimlanes**. This view option leads to a compact, clear display, especially for non-overlapping activities.
 
 ### Page type query
 
@@ -72,7 +72,7 @@ To increase the traceability of changes to rows in the big data memory, SeaTable
 
 ### Interaction of big data, apps and page design plugin
 
-Although apps can access data in the big data storage, entries created in apps could not be saved there directly. New entries were always saved in the base. We have closed this functional gap with SeaTable 5.1. The base remains the **default storage location for new entries**; however, this setting can be changed in the [app settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). As the screenshot shows, you can specify for each table whether new rows should be written to the base or to the big data memory.
+Although apps can access data in the big data storage, entries created in apps could not be saved there directly. New entries were always saved in the base. We have closed this functional gap with SeaTable 5.1. The base remains the **default storage location for new entries**; however, this setting can be changed in the [app settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}). As the screenshot shows, you can specify for each table whether new rows should be written to the base or to the big data memory.
 
 ![New big data management in SeaTable's App Builder](BigDataManagement_AppBuilder.png)
 
