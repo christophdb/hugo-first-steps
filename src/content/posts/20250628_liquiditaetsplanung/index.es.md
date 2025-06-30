@@ -3,7 +3,7 @@ title: 'Planificación de la liquidez: consejos para su plan de liquidez'
 description: 'La planificación de la liquidez no es sólo una medida de precaución, sino el requisito previo para una empresa preparada para el futuro.'
 date: 2025-06-28
 lastmod: '2025-06-28'
-url: '/es/planificación-de-la-liquidez'
+url: '/es/planificacion-de-la-liquidez'
 category:
     - 'best-practice'
 tags:
@@ -144,4 +144,4 @@ Gracias a las fórmulas integradas, SeaTable calcula automáticamente sus ratios
 
 Sus datos financieros permanecen seguros: SeaTable cumple las normas más estrictas de protección de datos (conforme a GDPR) y permite un control de acceso granular. Ya sea en versión en la nube o in situ en su centro de datos: usted decide dónde se almacenan sus datos.
 
-Con sus plantillas flexibles y flujos de trabajo personalizados, SeaTable se adapta con precisión a sus procesos. Esto significa que siempre tendrá su liquidez bajo control con facilidad.
+Con sus [plantillas]({{< relref "templates/">}}) flexibles y flujos de trabajo personalizados, SeaTable se adapta con precisión a sus procesos. Esto significa que siempre tendrá su liquidez bajo control con facilidad.
