@@ -27,8 +27,8 @@ Les articles suivants pourraient vous intéresser :
 - [Activer l'authentification à deux facteurs pour un membre de l'équipe]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}))
 - [Authentification à deux facteurs pour toute l'équipe]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}))
 - [Bloquer ou supprimer un membre de l'équipe]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
-- [Changer le nom de l'équipe](https://seatable.io/fr/docs/teamverwaltung/aendern-des-teamnamens/)
-- [Groupes et leurs membres dans la gestion d'équipe](https://seatable.io/fr/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
+- [Changer le nom de l'équipe]({{< relref "help/teamverwaltung/team/aendern-des-teamnamens" >}})
+- [Groupes et leurs membres dans la gestion d'équipe]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
 - [Créer un nouveau groupe]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Bases et partages
@@ -38,11 +38,11 @@ Dans la gestion d'équipe, vous pouvez voir toutes les **bases** des membres de 
 Les articles suivants pourraient vous intéresser :
 
 - [Bases dans la gestion d'équipe]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}))
-- [Consulter tous les droits d'accès d'une base](https://seatable.io/fr/docs/teamverwaltung/alle-zugriffsberechtigungen-einer-base-einsehen/)
-- [Autoriser le partage des bases par lien d'invitation](https://seatable.io/fr/docs/teamverwaltung/freigabe-von-bases-per-einladungslink-erlauben/)
-- [Débloquer un membre de l'équipe](https://seatable.io/fr/docs/teamverwaltung/ein-teammitglied-entsperren/)
+- [Consulter tous les droits d'accès d'une base]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
+- [Autoriser le partage des bases par lien d'invitation]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
+- [Débloquer un membre de l'équipe]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})
 
-En tant qu'administrateur d'équipe, vous avez également la possibilité de [vider la corbeille](https://seatable.io/fr/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/) manuellement, en plus de la suppression automatique au bout de 30 jours.
+En tant qu'administrateur d'équipe, vous avez également la possibilité de [vider la corbeille]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}) manuellement, en plus de la suppression automatique au bout de 30 jours.
 
 ## Abonnement
 
@@ -70,5 +70,5 @@ Dans la gestion d'équipe, vous trouverez l'option de recevoir un **contrat AV**
 
 Les articles suivants pourraient vous intéresser :
 
-- [Consulter les conditions d'utilisation ou les déclarations de confidentialité](https://seatable.io/fr/docs/teamverwaltung/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung/)
-- [Demander un contrat MO](https://seatable.io/fr/docs/teamverwaltung/einen-av-vertrag-beantragen/)
+- [Consulter les conditions d'utilisation ou les déclarations de confidentialité]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
+- [Demander un contrat MO]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

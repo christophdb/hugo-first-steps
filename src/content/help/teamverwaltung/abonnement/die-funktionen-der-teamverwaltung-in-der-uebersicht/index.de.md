@@ -27,8 +27,8 @@ Folgende Artikel könnten für Sie interessant sein:
 - [Zwei-Faktor-Authentifizierung für ein Teammitglied aktivieren]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}))
 - [Zwei-Faktor-Authentifizierung für das gesamte Team]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}))
 - [Ein Teammitglied sperren oder löschen]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
-- [Ändern des Teamnamens](https://seatable.io/docs/teamverwaltung/aendern-des-teamnamens/)
-- [Gruppen und ihre Mitglieder in der Teamverwaltung](https://seatable.io/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
+- [Ändern des Teamnamens]({{< relref "help/teamverwaltung/team/aendern-des-teamnamens" >}})
+- [Gruppen und ihre Mitglieder in der Teamverwaltung]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
 - [Eine neue Gruppe anlegen]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Bases und Freigaben
@@ -38,11 +38,11 @@ Innerhalb der Teamverwaltung können Sie alle **Bases** Ihrer Teammitglieder seh
 Folgende Artikel könnten für Sie interessant sein:
 
 - [Bases in der Teamverwaltung]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}))
-- [Alle Zugriffsberechtigungen einer Base einsehen](https://seatable.io/docs/teamverwaltung/alle-zugriffsberechtigungen-einer-base-einsehen/)
-- [Freigabe von Bases per Einladungs-Link erlauben](https://seatable.io/docs/teamverwaltung/freigabe-von-bases-per-einladungslink-erlauben/)
-- [Ein Teammitglied wieder entsperren](https://seatable.io/docs/teamverwaltung/ein-teammitglied-entsperren/)
+- [Alle Zugriffsberechtigungen einer Base einsehen]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
+- [Freigabe von Bases per Einladungs-Link erlauben]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
+- [Ein Teammitglied wieder entsperren]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})
 
-Als Team-Administrator haben Sie zudem die Möglichkeit, neben der automatischen Löschung nach 30 Tagen auch manuell [den Papierkorb zu leeren](https://seatable.io/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/).
+Als Team-Administrator haben Sie zudem die Möglichkeit, neben der automatischen Löschung nach 30 Tagen auch manuell [den Papierkorb zu leeren]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 ## Abonnement
 
@@ -70,5 +70,5 @@ In der Teamverwaltung finden Sie die Option, sowohl einen personalisierten **AV-
 
 Folgende Artikel könnten für Sie interessant sein:
 
-- [Einsehen der Nutzungsbedingungen oder Datenschutzerklärungen](https://seatable.io/docs/teamverwaltung/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung/)
-- [Einen AV-Vertrag beantragen](https://seatable.io/docs/teamverwaltung/einen-av-vertrag-beantragen/)
+- [Einsehen der Nutzungsbedingungen oder Datenschutzerklärungen]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
+- [Einen AV-Vertrag beantragen]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

@@ -27,8 +27,8 @@ Os artigos seguintes podem ser do seu interesse:
 - [Habilitar a autenticação de dois factores para um membro da equipa]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}))
 - [Autenticação de dois factores para toda a equipa]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}))
 - [Bloquear ou eliminar um membro da equipa]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
-- [Mudar o nome da equipa](https://seatable.io/pt/docs/teamverwaltung/aendern-des-teamnamens/)
-- [Grupos e os seus membros na administração da equipa](https://seatable.io/pt/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
+- [Mudar o nome da equipa]({{< relref "help/teamverwaltung/team/aendern-des-teamnamens" >}})
+- [Grupos e os seus membros na administração da equipa]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
 - [Criar um novo grupo]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Bases e lançamentos
@@ -38,11 +38,11 @@ Dentro da administração da equipa, pode ver todas as **bases dos** membros da 
 Os artigos seguintes podem ser do seu interesse:
 
 - [Bases na gestão da equipa]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}))
-- [Ver todas as permissões de acesso de uma base](https://seatable.io/pt/docs/teamverwaltung/alle-zugriffsberechtigungen-einer-base-einsehen/)
-- [Permitir a partilha de bases através de link de convite](https://seatable.io/pt/docs/teamverwaltung/freigabe-von-bases-per-einladungslink-erlauben/)
-- [Desbloquear novamente um membro da equipa](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-entsperren/)
+- [Ver todas as permissões de acesso de uma base]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
+- [Permitir a partilha de bases através de link de convite]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
+- [Desbloquear novamente um membro da equipa]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})
 
-Como administrador da equipa, também tem a opção de [esvaziar](https://seatable.io/pt/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/) manualmente [o caixote do lixo da reciclagem](https://seatable.io/pt/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/), para além da eliminação automática após 30 dias.
+Como administrador da equipa, também tem a opção de [esvaziar]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}) manualmente [o caixote do lixo da reciclagem]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}), para além da eliminação automática após 30 dias.
 
 ## Assinatura
 
@@ -70,5 +70,5 @@ Na administração da equipa encontrará a opção de receber um **contrato AV**
 
 Os artigos seguintes podem ser do seu interesse:
 
-- [Ver os termos de utilização ou a política de privacidade](https://seatable.io/pt/docs/teamverwaltung/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung/)
-- [Solicitar um contrato AV](https://seatable.io/pt/docs/teamverwaltung/einen-av-vertrag-beantragen/)
+- [Ver os termos de utilização ou a política de privacidade]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
+- [Solicitar um contrato AV]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

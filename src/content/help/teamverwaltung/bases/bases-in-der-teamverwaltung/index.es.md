@@ -55,7 +55,7 @@ En **Borrar** tiene la opción de borrar la base seleccionada.
 
 ## La papelera
 
-Todas las **bases borradas** aparecen en la papelera de reciclaje. Transcurridos **30 días**, las bases se eliminan automáticamente del sistema. Sin embargo, también puede **eliminar** manualmente **todas las** bases de la papelera de reciclaje. [Aquí](https://seatable.io/es/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/) encontrará información sobre cómo hacerlo.
+Todas las **bases borradas** aparecen en la papelera de reciclaje. Transcurridos **30 días**, las bases se eliminan automáticamente del sistema. Sin embargo, también puede **eliminar** manualmente **todas las** bases de la papelera de reciclaje. [Aquí]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}) encontrará información sobre cómo hacerlo.
 
 Para restaurar una base, haga clic en la base correspondiente y accione el control deslizante antes de pulsar el botón **Restaurar base**.
 

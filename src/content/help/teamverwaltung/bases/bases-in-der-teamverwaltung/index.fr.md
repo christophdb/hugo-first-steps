@@ -55,7 +55,7 @@ Sous **Supprimer**, vous avez la possibilité de supprimer la base sélectionné
 
 ## La corbeille à papier
 
-Toutes les **bases supprimées** sont listées dans la corbeille. Après **30 jours**, les bases sont automatiquement supprimées du système. Mais vous avez aussi la possibilité de supprimer manuellement et **définitivement toutes les bases de la corbeille**. Pour savoir comment procéder, [cliquez ici](https://seatable.io/fr/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/).
+Toutes les **bases supprimées** sont listées dans la corbeille. Après **30 jours**, les bases sont automatiquement supprimées du système. Mais vous avez aussi la possibilité de supprimer manuellement et **définitivement toutes les bases de la corbeille**. Pour savoir comment procéder, [cliquez ici]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 Pour restaurer une base, cliquez sur la base en question et actionnez le curseur avant de cliquer sur le bouton **Restaurer la base**.
 

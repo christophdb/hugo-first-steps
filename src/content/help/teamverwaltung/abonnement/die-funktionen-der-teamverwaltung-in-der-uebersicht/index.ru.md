@@ -27,8 +27,8 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 - [Включите двухфакторную аутентификацию для члена команды]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}))
 - [Двухфакторная аутентификация для всей команды]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}))
 - [Блокировка или удаление члена команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
-- [Изменение названия команды](https://seatable.io/ru/docs/teamverwaltung/aendern-des-teamnamens/)
-- [Группы и их члены в командной администрации](https://seatable.io/ru/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
+- [Изменение названия команды]({{< relref "help/teamverwaltung/team/aendern-des-teamnamens" >}})
+- [Группы и их члены в командной администрации]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
 - [Создайте новую группу]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Базы и релизы
@@ -38,11 +38,11 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 Следующие статьи могут представлять для вас интерес:
 
 - [Базы в управлении командой]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}))
-- [Просмотр всех разрешений доступа к базе](https://seatable.io/ru/docs/teamverwaltung/alle-zugriffsberechtigungen-einer-base-einsehen/)
-- [Разрешить обмен базами по пригласительной ссылке](https://seatable.io/ru/docs/teamverwaltung/freigabe-von-bases-per-einladungslink-erlauben/)
-- [Повторная разблокировка члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-entsperren/)
+- [Просмотр всех разрешений доступа к базе]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
+- [Разрешить обмен базами по пригласительной ссылке]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
+- [Повторная разблокировка члена команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})
 
-В качестве администратора команды у вас также есть возможность [очищать корзину](https://seatable.io/ru/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/) вручную в дополнение к автоматическому удалению через 30 дней.
+В качестве администратора команды у вас также есть возможность [очищать корзину]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}) вручную в дополнение к автоматическому удалению через 30 дней.
 
 ## Подписка
 
@@ -70,5 +70,5 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Просмотр условий использования или политики конфиденциальности](https://seatable.io/ru/docs/teamverwaltung/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung/)
-- [Запросить контракт на поставку аудиовизуальных средств](https://seatable.io/ru/docs/teamverwaltung/einen-av-vertrag-beantragen/)
+- [Просмотр условий использования или политики конфиденциальности]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
+- [Запросить контракт на поставку аудиовизуальных средств]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

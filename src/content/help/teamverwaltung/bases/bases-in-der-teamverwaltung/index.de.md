@@ -55,7 +55,7 @@ Unter **Löschen** haben Sie die Möglichkeit, die ausgewählte Base zu löschen
 
 ## Der Papierkorb
 
-Im Papierkorb sind alle **gelöschten Bases** aufgelistet. Nach **30 Tagen** werden die Bases automatisch aus dem System entfernt. Sie haben aber auch die Möglichkeit, manuell **alle Bases im Papierkorb endgültig zu löschen**. Wie das geht, erfahren Sie [hier](https://seatable.io/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/).
+Im Papierkorb sind alle **gelöschten Bases** aufgelistet. Nach **30 Tagen** werden die Bases automatisch aus dem System entfernt. Sie haben aber auch die Möglichkeit, manuell **alle Bases im Papierkorb endgültig zu löschen**. Wie das geht, erfahren Sie [hier]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 Um eine Base wiederherzustellen, klicken Sie auf die jeweilige Base und betätigen den Regler, bevor Sie auf den Button **Base wiederherstellen** klicken.
 

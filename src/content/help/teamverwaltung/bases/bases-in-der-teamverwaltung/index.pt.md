@@ -55,7 +55,7 @@ Em **Eliminar**, tem a opção de eliminar a base seleccionada.
 
 ## O cesto dos papéis
 
-Todas as **bases eliminadas** estão listadas no caixote do lixo da reciclagem. Após **30 dias**, as bases são automaticamente removidas do sistema. No entanto, também pode **apagar** manualmente **todas as** bases do caixote do lixo da reciclagem. Pode descobrir como fazer isto [aqui](https://seatable.io/pt/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/).
+Todas as **bases eliminadas** estão listadas no caixote do lixo da reciclagem. Após **30 dias**, as bases são automaticamente removidas do sistema. No entanto, também pode **apagar** manualmente **todas as** bases do caixote do lixo da reciclagem. Pode descobrir como fazer isto [aqui]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 Para restaurar uma base, clicar na respectiva base e accionar o selector antes de clicar no botão **Restore Base**.
 
