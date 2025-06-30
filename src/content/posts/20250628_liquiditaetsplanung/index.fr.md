@@ -22,7 +22,11 @@ Qu'il s'agisse d'une jeune start-up, d'une entreprise moyenne ou d'un grand grou
 
 La planification des liquidités est un élément central de la gestion financière et joue souvent un rôle décisif dans le maintien du cap de l'entreprise ou dans son essoufflement. La planification des liquidités consiste à garantir la **capacité de paiement d'une entreprise**. Concrètement, cela signifie saisir systématiquement tous les encaissements et décaissements attendus, les comparer et les planifier à l'avance. Vous pouvez ainsi identifier à temps les goulots d'étranglement financiers et prendre des mesures correctives en temps utile.
 
-{{< warning headline="Liquidité Signification" text="Le terme de liquidité vient du latin liquidus, qui signifie "liquide" - et c'est exactement ce que l'on retrouve dans sa signification économique. La liquidité décrit la capacité d'une entreprise (ou d'une personne) à remplir à tout moment ses obligations financières dans les délais impartis, c'est-à-dire à effectuer des paiements "liquides"." />}}
+{{< warning headline="Liquidité Signification" >}}
+
+Le terme de liquidité vient du latin liquidus, qui signifie **liquide** - et c'est exactement ce que l'on retrouve dans sa signification économique. La liquidité décrit la capacité d'une entreprise (ou d'une personne) à remplir à tout moment ses obligations financières dans les délais impartis, c'est-à-dire à effectuer des paiements **liquides**.
+
+{{< /warning >}}
 
 ## Avantages de la planification des liquidités
 
@@ -38,7 +42,7 @@ Enfin, une planification prévisionnelle des liquidités permet souvent de **ré
 
 Selon la taille de l'entreprise, le secteur et les objectifs, il existe différentes approches pour planifier les liquidités : la **méthode directe, la méthode indirecte et la méthode hybride**.
 
-Dans la planification directe des liquidités, vous saisissez concrètement tous les encaissements et décaissements prévus sur une période donnée. Cette méthode est très détaillée et convient particulièrement à la planification à court terme - par exemple pour les semaines ou les mois à venir. Elle vous donne un aperçu précis de l'argent qui sera encaissé et dépensé. Vous pouvez ainsi reconnaître à temps les goulots d'étranglement et réagir rapidement. 
+Dans la planification directe des liquidités, vous saisissez concrètement tous les encaissements et décaissements prévus sur une période donnée. Cette méthode est très détaillée et convient particulièrement à la planification à court terme - par exemple pour les semaines ou les mois à venir. Elle vous donne un aperçu précis de l'argent qui sera encaissé et dépensé. Vous pouvez ainsi reconnaître à temps les goulots d'étranglement et réagir rapidement.
 
 ![Base pour les décisions financières](mit-dem-taschenrechner-berechnen.jpg)
 
@@ -49,7 +53,7 @@ Dans la pratique, de nombreuses entreprises misent sur une planification hybride
 ## Comment établir un plan de trésorerie en 7 étapes
 
 Une structure bien pensée de votre planification des liquidités n'a rien de sorcier - avec un système clair, vous gardez à tout moment un œil sur votre capacité de paiement et créez une base importante pour les décisions de l'entreprise. Car celui qui sait exactement quand l'argent entre et sort peut agir en anticipant au lieu de réagir en mode crise. Vous établissez ainsi, étape par étape, un plan de liquidités solide pour votre plan financier :
-                     
+
 1. **Définir la période de planification:** Déterminez d'abord la période pour laquelle vous souhaitez planifier vos liquidités. Pour commencer, une planification mensuelle est recommandée. Pour les grandes entreprises, une planification hebdomadaire ou trimestrielle peut également s'avérer judicieuse - selon le dynamisme de vos flux de paiement.
 
 2. **Enregistrer le solde initial:** Notez l'état actuel de vos liquidités - c'est-à-dire le montant sur vos comptes bancaires et dans la caisse. Cette valeur est le point de départ de votre planification.
@@ -74,7 +78,7 @@ Les ratios de liquidité sont des indicateurs importants pour votre plan de tré
 
 Le degré de liquidité 1 examine dans quelle mesure une entreprise pourrait couvrir ses dettes à court terme uniquement avec des moyens de paiement immédiatement disponibles, c'est-à-dire des liquidités et des avoirs bancaires.
 
-Formule : *Ratio de liquidité 1 = (liquidités / dettes à court terme) × 100*.
+Formule : _Ratio de liquidité 1 = (liquidités / dettes à court terme) × 100_.
 
 Une valeur de 100 % ou plus signifie que l'entreprise pourrait régler toutes ses dettes à court terme uniquement avec de la trésorerie et des avoirs bancaires. Dans la pratique, cette valeur est toutefois souvent inférieure, car les entreprises ne conservent pas la totalité de leur capital en compte.
 
@@ -82,31 +86,32 @@ Une valeur de 100 % ou plus signifie que l'entreprise pourrait régler toutes se
 
 Ici, les créances à court terme - c'est-à-dire les paiements encore à effectuer par les clients - sont prises en compte en plus des liquidités. Cela permet d'avoir une vision plus réaliste de la solvabilité à court terme.
 
-Formule : *degré de liquidité 2 = (liquidités + créances à court terme) / dettes à court terme × 100*.
+Formule : _degré de liquidité 2 = (liquidités + créances à court terme) / dettes à court terme × 100_.
 
 Une valeur supérieure à 100 % est ici un bon signe, car elle montre que les liquidités et les créances ouvertes réunies suffisent à couvrir tous les engagements à court terme.
 
 ### Liquidités de 3e degré (Current Ratio)
+
 Enfin, pour le degré de liquidité 3, l'ensemble de votre actif circulant est pris en compte, c'est-à-dire non seulement les liquidités et les créances, mais aussi les stocks tels que les stocks de marchandises.
 
-Formule : *Ratio de liquidité 3 = (actif circulant / dettes à court terme) × 100*.
+Formule : _Ratio de liquidité 3 = (actif circulant / dettes à court terme) × 100_.
 
 Ce degré donne une image plus complète. Les stocks ne peuvent certes pas être transformés immédiatement en argent, mais ils font partie des actifs disponibles à court terme.
 
 ## Exemple de calcul pratique pour votre plan de trésorerie
 
 Imaginez que votre entreprise dispose des réserves de liquidités suivantes :
-                     
-* 18.000 € de liquidités (caisse, banque)
-* 54.000 € de créances à court terme (factures clients impayées)
-* 36.000 € de stock de marchandises
-* 60.000 € de dettes à court terme (fournisseurs, crédits)
-                 
+
+- 18.000 € de liquidités (caisse, banque)
+- 54.000 € de créances à court terme (factures clients impayées)
+- 36.000 € de stock de marchandises
+- 60.000 € de dettes à court terme (fournisseurs, crédits)
+
 Avec ce que l'on appelle les degrés de liquidité, vous vérifiez dans quelle mesure votre entreprise est en mesure de régler ses dettes à court terme - et ce avec des moyens qui sont rapidement disponibles. Le calcul se fait en trois étapes :
 
-*degré de liquidité 1 = (18.000 € / 60.000 €) × 100 = 30 %*.
-*degré de liquidité 2 = (18.000 € + 54.000 €) / 60.000 € × 100 = 120 %*.
-*Degré de liquidité 3 = (18.000 € + 54.000 € + 36.000 €) / 60.000 € × 100 = 180 %*.
+_degré de liquidité 1 = (18.000 € / 60.000 €) × 100 = 30 %_.
+_degré de liquidité 2 = (18.000 € + 54.000 €) / 60.000 € × 100 = 120 %_.
+_Degré de liquidité 3 = (18.000 € + 54.000 € + 36.000 €) / 60.000 € × 100 = 180 %_.
 
 ### Que signifient ces valeurs ?
 
