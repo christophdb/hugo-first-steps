@@ -106,12 +106,12 @@ With the new version, SeaTable supports **logging into Google and Microsoft emai
 
 Tables can now be hidden, as is familiar from Microsoft Excel. A **hidden worksheet** is no longer displayed as a tab and can only be accessed via the drop-down menu.
 
-[Checkboxes](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) offer more style options and even more color options in SeaTable 5.2. If you don't like the green tick, you can now choose from 69 other options.
+[Checkboxes]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) offer more style options and even more color options in SeaTable 5.2. If you don't like the green tick, you can now choose from 69 other options.
 
 In the [calendar plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), new entries can now also be created by double-clicking or using the new "+" button.
 
 ## Two functional changes
 
-[Annotated rows](https://seatable.io/en/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) are marked with speech bubble icons in the Base table view. Previously, the display duration for these icons was seven days. With SeaTable 5.2, this duration will be extended to 180 days. So don't be surprised if your tables have more speech bubbles. All rows with a comment in the last 180 days now have a speech bubble icon. Of course, all comments will continue to be saved in the base after the 180 days have expired.
+[Annotated rows]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) are marked with speech bubble icons in the Base table view. Previously, the display duration for these icons was seven days. With SeaTable 5.2, this duration will be extended to 180 days. So don't be surprised if your tables have more speech bubbles. All rows with a comment in the last 180 days now have a speech bubble icon. Of course, all comments will continue to be saved in the base after the 180 days have expired.
 
 Curly brackets in table names can provoke conflicts in formulas. For this reason, SeaTable version 5.2 and higher prevents the use of **{** and **}** in table names. Existing table names are not changed.

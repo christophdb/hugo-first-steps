@@ -106,12 +106,12 @@ SeaTable unterstützt mit der neuen Version die **Anmeldung an Google und Micros
 
 Tabellen lassen sich nun, wie man es aus Microsoft Excel kennt, ausblenden. Ein **ausgeblendetes Tabellenblatt** wird nicht mehr als Tab angezeigt und ist nur noch über das Drop-down-Menü aufrufbar.
 
-[Checkboxen](https://seatable.io/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) bieten in SeaTable 5.2 mehr Stiloptionen und noch mehr Farboptionen. Wer den grünen Haken nicht mag, kann nun aus 69 anderen Optionen wählen.
+[Checkboxen]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) bieten in SeaTable 5.2 mehr Stiloptionen und noch mehr Farboptionen. Wer den grünen Haken nicht mag, kann nun aus 69 anderen Optionen wählen.
 
 Im [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) lassen sich neue Einträge nun auch per Doppelklick oder über die neue Schaltfläche “+” anlegen.
 
 ## Zwei funktionale Änderungen
 
-[Kommentierte Zeilen](https://seatable.io/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) werden in der Tabellenansicht der Base mit Sprechblasen-Icons gekennzeichnet. Bisher betrug die Anzeigedauer für diese Icons sieben Tage. Mit SeaTable 5.2 wird diese Dauer auf 180 Tage verlängert. Wundern Sie sich also nicht, wenn Ihre Tabellen mehr Sprechblasen aufweisen. Alle Zeilen mit einem Kommentar in den letzten 180 Tagen tragen nun ein Sprechblasen-Icon. Natürlich bleiben auch weiterhin alle Kommentare nach Ablauf der 180 Tage in der Base gespeichert.
+[Kommentierte Zeilen]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) werden in der Tabellenansicht der Base mit Sprechblasen-Icons gekennzeichnet. Bisher betrug die Anzeigedauer für diese Icons sieben Tage. Mit SeaTable 5.2 wird diese Dauer auf 180 Tage verlängert. Wundern Sie sich also nicht, wenn Ihre Tabellen mehr Sprechblasen aufweisen. Alle Zeilen mit einem Kommentar in den letzten 180 Tagen tragen nun ein Sprechblasen-Icon. Natürlich bleiben auch weiterhin alle Kommentare nach Ablauf der 180 Tage in der Base gespeichert.
 
 Geschweifte Klammern in Tabellennamen können Konflikte bei Formeln provozieren. Aus diesem Grund verhindert SeaTable ab der Version 5.2 die Verwendung von **{** und **}** in Tabellennamen. Bestehende Tabellennamen werden nicht geändert.

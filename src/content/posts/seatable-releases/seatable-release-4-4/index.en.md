@@ -28,7 +28,7 @@ One application example is an internal job board: the query page allows you to q
 
 ### Drag and drop in the calendar
 
-Until now, it was not possible to change appointments on the [calendar page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/). SeaTable 4.4 gives you more flexibility here. You can now conveniently move your appointments in the calendar using drag and drop. You can also edit the values in the corresponding [date columns](https://seatable.io/en/docs/datum-dauer-und-personen/die-datum-spalte/) via the row details, provided you have the necessary [permission](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/).
+Until now, it was not possible to change appointments on the [calendar page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/). SeaTable 4.4 gives you more flexibility here. You can now conveniently move your appointments in the calendar using drag and drop. You can also edit the values in the corresponding [date columns]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) via the row details, provided you have the necessary [permission](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/).
 
 ### Simplified data handling on the table page
 
@@ -38,7 +38,7 @@ As in Base, you can now [select all entries in a column]({{< relref "help/base-e
 
 ### Collaborator column available on form pages
 
-If you use an [employee column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) in your table, it is **not** available in [web forms]({{< relref "help/base-editor/webformulare" >}}). However, as of SeaTable 4.4, you can add employee columns to [form pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) in the Universal App. For example, your team members can select themselves for a vacation request and no longer have to enter their names manually. You must first activate the option to display the employee list in the [app settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+If you use an [employee column]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) in your table, it is **not** available in [web forms]({{< relref "help/base-editor/webformulare" >}}). However, as of SeaTable 4.4, you can add employee columns to [form pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) in the Universal App. For example, your team members can select themselves for a vacation request and no longer have to enter their names manually. You must first activate the option to display the employee list in the [app settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
 
 ### More customizing options for custom pages
 
@@ -87,7 +87,7 @@ SeaTable 4.4 makes the [import of Excel tables]({{< relref "help/startseite/impo
 
 ## Default values apply everywhere
 
-With version 4.4, SeaTable generalizes the effect of [default values](https://seatable.io/en/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). When you create a new row, whether in the table of a base or app, via a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [web form]({{< relref "help/base-editor/webformulare" >}}), [button]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) or [automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), the default values are applied everywhere when creating the row. Previously, the default values only applied if a new row was created manually in a table.
+With version 4.4, SeaTable generalizes the effect of [default values]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}). When you create a new row, whether in the table of a base or app, via a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [web form]({{< relref "help/base-editor/webformulare" >}}), [button]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) or [automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), the default values are applied everywhere when creating the row. Previously, the default values only applied if a new row was created manually in a table.
 
 As the scope of the default values has increased considerably, we have also created a prominent menu item in the column options, which you can use to conveniently set the default values.
 

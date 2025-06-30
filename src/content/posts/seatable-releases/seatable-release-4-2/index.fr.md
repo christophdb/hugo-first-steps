@@ -76,7 +76,7 @@ Dans SeaTable 4.2, nous avons affiné la fonction de recherche sur la page d'acc
 
 ### Convertir les vues privées en vues normales
 
-À partir de la version 4.2, il est possible de transformer [des vues privées](https://seatable.io/fr/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) en vues non privées (normales) et de les rendre ainsi ultérieurement visibles pour tous les utilisateurs d'une base. Jusqu'à présent, il était uniquement possible de dupliquer une vue normale en tant que vue privée.
+À partir de la version 4.2, il est possible de transformer [des vues privées]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) en vues non privées (normales) et de les rendre ainsi ultérieurement visibles pour tous les utilisateurs d'une base. Jusqu'à présent, il était uniquement possible de dupliquer une vue normale en tant que vue privée.
 
 ### Fonctions supplémentaires pour le traitement des données
 

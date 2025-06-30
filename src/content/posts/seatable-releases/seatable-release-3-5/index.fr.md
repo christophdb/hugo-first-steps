@@ -14,11 +14,11 @@ Avril fait ce qu'il veut - mais SeaTable fait ce que vous voulez ! La version 3.
 
 Avec cette version, nous publions également un nouvel App Builder en version bêta. L'Universal App Builder permet de construire des applications pour les cas d'utilisation et les groupes d'utilisateurs les plus divers sans aucune connaissance en programmation. Actuellement, notre équipe de développement travaille encore sur les finitions, mais l'avant-goût donne déjà envie d'en savoir plus. Nous attendons vos commentaires avec impatience !
 
-Ce matin, nous avons mis à jour le nuage SeaTable à la version 3.5. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 3.5 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog](https://seatable.io/docs/changelog/version-3-5/?lang=auto) la liste complète des modifications.
+Ce matin, nous avons mis à jour le nuage SeaTable à la version 3.5. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 3.5 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog]({{< relref "pages/changelog" >}}?lang=auto) la liste complète des modifications.
 
 ## Formules dans la première colonne
 
-SeaTable 3.5 offre plus de flexibilité dans la première colonne du tableau : Jusqu'à présent, seuls les [types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) Texte, Nombre, Date, Sélection simple et Numéro automatique étaient autorisés. Le [type de colonne Formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), désormais également pris en charge, permet de "calculer" sa propre référence de ligne. Comme [la première colonne](https://seatable.io/fr/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) d'un tableau ne peut pas être masquée et qu'elle est toujours affichée dans la boîte de dialogue des liens, elle se prête particulièrement bien à cet usage.
+SeaTable 3.5 offre plus de flexibilité dans la première colonne du tableau : Jusqu'à présent, seuls les [types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) Texte, Nombre, Date, Sélection simple et Numéro automatique étaient autorisés. Le [type de colonne Formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), désormais également pris en charge, permet de "calculer" sa propre référence de ligne. Comme [la première colonne]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) d'un tableau ne peut pas être masquée et qu'elle est toujours affichée dans la boîte de dialogue des liens, elle se prête particulièrement bien à cet usage.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
@@ -30,7 +30,7 @@ Les [automatismes]({{< relref "help/base-editor/automationen/funktionsweise-von-
 
 Les actions "Ajouter des liens" et "Exécuter une opération de traitement des données" peuvent désormais être sélectionnées pour le déclencheur périodique en plus des actions "Envoyer une notification", "Envoyer un e-mail", "Ajouter une ligne" et "Exécuter un script Python". Ces deux actions permettent d'automatiser toutes les opérations de traitement des données que vous ne pouviez effectuer que manuellement jusqu'à présent.
 
-Voyez par vous-même tout ce qu'il est possible de faire avec les [opérations de traitement des données dans SeaTable](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/).
+Voyez par vous-même tout ce qu'il est possible de faire avec les [opérations de traitement des données dans SeaTable]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
 ## Exécution conditionnelle des actions des boutons
 

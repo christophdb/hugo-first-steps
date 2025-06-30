@@ -14,11 +14,11 @@ Der April macht, was er will – aber SeaTable macht, was Sie wollen! Mit der Ve
 
 Mit diesem Release veröffentlichen wir auch einen neuen App Builder als Beta. Mit dem Universal App Builder lassen sich ganz ohne Programmierkenntnisse Applikationen für die unterschiedlichsten Anwendungsfälle und Benutzergruppen bauen. Derzeit arbeitet unser Entwicklungsteam noch am Feinschliff, aber bereits der Vorgeschmack macht Lust auf mehr. Wir freuen uns auf Ihr Feedback!
 
-Heute Morgen haben wir die SeaTable Cloud auf Version 3.5 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 3.5 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog](https://seatable.io/docs/changelog/version-3-5/) finden Sie wie immer die vollständige Liste der Änderungen.
+Heute Morgen haben wir die SeaTable Cloud auf Version 3.5 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 3.5 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog]({{< relref "pages/changelog" >}}) finden Sie wie immer die vollständige Liste der Änderungen.
 
 ## Formeln in der ersten Spalte
 
-SeaTable 3.5 sorgt für mehr Flexibilität in der ersten Tabellenspalte: Bisher waren dort nur die [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) Text, Zahl, Datum, Einfachauswahl und Automatische Nummer erlaubt. Der nun ebenfalls unterstützte [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}")\-Spaltentyp macht es möglich, eine eigene Zeilenreferenz zu „berechnen“. Da [die erste Spalte](https://seatable.io/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) in einer Tabelle nicht ausgeblendet werden kann und auch im Verknüpfungsdialog immer angezeigt wird, bietet sie sich dafür ganz besonders an.
+SeaTable 3.5 sorgt für mehr Flexibilität in der ersten Tabellenspalte: Bisher waren dort nur die [Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) Text, Zahl, Datum, Einfachauswahl und Automatische Nummer erlaubt. Der nun ebenfalls unterstützte [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}")\-Spaltentyp macht es möglich, eine eigene Zeilenreferenz zu „berechnen“. Da [die erste Spalte]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) in einer Tabelle nicht ausgeblendet werden kann und auch im Verknüpfungsdialog immer angezeigt wird, bietet sie sich dafür ganz besonders an.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
@@ -30,7 +30,7 @@ Die [Automationen]({{< relref "help/base-editor/automationen/funktionsweise-von-
 
 Die Aktionen „Links hinzufügen“ und „Datenverarbeitungsoperation ausführen“ können Sie beim periodischen Trigger nun zusätzlich zu den Aktionen „Benachrichtigung versenden“, „E-Mail versenden“, „Zeile hinzufügen“ und „Python-Skript ausführen“ auswählen. Über diese beiden Aktionen lassen sich alle Datenverarbeitungsoperationen automatisiert durchführen, die Sie bisher nur manuell ausführen konnten.
 
-Überzeugen Sie sich selbst, was mit [Datenverarbeitungsoperationen in SeaTable](https://seatable.io/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/) alles möglich ist.
+Überzeugen Sie sich selbst, was mit [Datenverarbeitungsoperationen in SeaTable]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) alles möglich ist.
 
 ## Bedingte Ausführung von Schaltflächen-Aktionen
 

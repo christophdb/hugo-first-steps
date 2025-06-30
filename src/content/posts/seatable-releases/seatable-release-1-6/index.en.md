@@ -13,7 +13,7 @@ seo:
 
 We begin the New Year with a new release of SeaTable: Version 1.6 has been deployed today on https://cloud.seatable.io and will be made available on Docker Hub shortly. The new version is packed with new features and improvements. At first glance, you will spot two new column types and a redesigned column type selector. Upon closer inspection, you are going to find a host of other user interface improvements that have found their way into this new release. A lot of effort has also gone into improving the formula wizard. New functions, design improvements, and more detailed error messages lift the wizard to a whole new level.
 
-In this release note, we highlight the most relevant and exciting changes in the new version. For the complete list of changes, consult - as always - [SeaTable's Changelog](https://seatable.io/docs/changelog/version-1-6/?lang=auto).
+In this release note, we highlight the most relevant and exciting changes in the new version. For the complete list of changes, consult - as always - [SeaTable's Changelog]({{< relref "pages/changelog" >}}?lang=auto).
 
 ## Column type #19: duration
 

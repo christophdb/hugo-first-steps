@@ -106,12 +106,12 @@ Avec la nouvelle version, SeaTable prend en charge la **connexion aux comptes de
 
 Il est désormais possible de masquer des tableaux, comme on le fait dans Microsoft Excel. Une **feuille de calcul masquée** n'est plus affichée sous forme d'onglet et ne peut être appelée que via le menu déroulant.
 
-[Les cases à cocher](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) offrent plus d'options de style et encore plus d'options de couleur dans SeaTable 5.2. Ceux qui n'aiment pas la coche verte peuvent désormais choisir parmi 69 autres options.
+[Les cases à cocher]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) offrent plus d'options de style et encore plus d'options de couleur dans SeaTable 5.2. Ceux qui n'aiment pas la coche verte peuvent désormais choisir parmi 69 autres options.
 
 Dans le [plug-in calendrier]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), il est désormais possible de créer de nouvelles entrées par double-clic ou via le nouveau bouton "+".
 
 ## Deux changements fonctionnels
 
-[Les lignes commentées](https://seatable.io/fr/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) sont signalées par des icônes en forme de bulle dans la vue tableau de la base. Jusqu'à présent, la durée d'affichage de ces icônes était de sept jours. Avec SeaTable 5.2, cette durée est portée à 180 jours. Ne vous étonnez donc pas si vos tableaux présentent davantage de bulles. Toutes les lignes avec un commentaire au cours des 180 derniers jours portent désormais une icône de bulle. Bien entendu, tous les commentaires restent enregistrés dans la base après l'expiration des 180 jours.
+[Les lignes commentées]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) sont signalées par des icônes en forme de bulle dans la vue tableau de la base. Jusqu'à présent, la durée d'affichage de ces icônes était de sept jours. Avec SeaTable 5.2, cette durée est portée à 180 jours. Ne vous étonnez donc pas si vos tableaux présentent davantage de bulles. Toutes les lignes avec un commentaire au cours des 180 derniers jours portent désormais une icône de bulle. Bien entendu, tous les commentaires restent enregistrés dans la base après l'expiration des 180 jours.
 
 Les accolades dans les noms de table peuvent provoquer des conflits dans les formules. C'est pourquoi, à partir de la version 5.2, SeaTable empêche l'utilisation de **{** et **}** dans les noms de table. Les noms de table existants ne sont pas modifiés.

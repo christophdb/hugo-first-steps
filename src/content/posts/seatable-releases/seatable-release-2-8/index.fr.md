@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Depuis quelques jours déjà, il était possible de télécharger les premières versions de SeaTable 2.8 sur [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub. La version finale est disponible depuis le 1er avril. Avec la mise à jour d'aujourd'hui, nous sommes heureux de mettre à disposition de SeaTable 2.8 de nombreuses nouvelles fonctions et améliorations dans SeaTable Cloud. Parmi les nouveautés, citons le bandeau-titre aux couleurs personnalisables et l'affichage de tous les utilisateurs actifs dans une base, les descriptions de colonnes et l'amélioration de l'éditeur de texte formaté. En outre, il est désormais possible de synchroniser et de renommer automatiquement les enregistrements communs. Et ce ne sont là que les points forts que nous présentons plus en détail dans ces notes de version. La liste complète des modifications se trouve - comme toujours - dans le [changelog](https://seatable.io/docs/changelog/version-2-8/?lang=auto).
+Depuis quelques jours déjà, il était possible de télécharger les premières versions de SeaTable 2.8 sur [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub. La version finale est disponible depuis le 1er avril. Avec la mise à jour d'aujourd'hui, nous sommes heureux de mettre à disposition de SeaTable 2.8 de nombreuses nouvelles fonctions et améliorations dans SeaTable Cloud. Parmi les nouveautés, citons le bandeau-titre aux couleurs personnalisables et l'affichage de tous les utilisateurs actifs dans une base, les descriptions de colonnes et l'amélioration de l'éditeur de texte formaté. En outre, il est désormais possible de synchroniser et de renommer automatiquement les enregistrements communs. Et ce ne sont là que les points forts que nous présentons plus en détail dans ces notes de version. La liste complète des modifications se trouve - comme toujours - dans le [changelog]({{< relref "pages/changelog" >}}?lang=auto).
 
 ## Bandeau-titre en couleur
 
@@ -65,7 +65,7 @@ Jusqu'à présent, les données d'un enregistrement commun importé ne pouvaient
 
 De nombreuses autres améliorations méritent d'être mentionnées. Voici les plus importantes d'entre elles.
 
-La colonne de formules connaît deux nouvelles formules : Small() et Large() trouvent respectivement la valeur x la plus petite et la valeur x la plus grande dans une colonne. (Plus d'informations dans la [référence des formules](https://seatable.io/fr/docs/handbuch/expertenwissen/formelreferenz/)).
+La colonne de formules connaît deux nouvelles formules : Small() et Large() trouvent respectivement la valeur x la plus petite et la valeur x la plus grande dans une colonne. (Plus d'informations dans la [référence des formules]({{< relref "help/base-editor/formeln/formelreferenz" >}})).
 
 Pour les colonnes et les regroupements, il est désormais possible de calculer la médiane en plus de la somme, de la moyenne et des valeurs extrêmes.
 

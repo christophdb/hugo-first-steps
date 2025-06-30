@@ -28,7 +28,7 @@ Ein Anwendungsbeispiel ist eine interne Stellenbörse: Die Abfrageseite erlaubt 
 
 ### Drag and Drop im Kalender
 
-Bislang war es nicht möglich, Termine auf der [Kalenderseite](https://seatable.io/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/) zu ändern. Mit SeaTable 4.4 bekommen Sie hier mehr Flexibilität. Ab jetzt können Sie Ihre Termine im Kalender komfortabel per Drag and Drop verschieben. Zudem können Sie die Werte in den entsprechenden [Datum-Spalten](https://seatable.io/docs/datum-dauer-und-personen/die-datum-spalte/) über die Zeilendetails bearbeiten, sofern Sie die notwendige [Berechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) besitzen.
+Bislang war es nicht möglich, Termine auf der [Kalenderseite](https://seatable.io/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/) zu ändern. Mit SeaTable 4.4 bekommen Sie hier mehr Flexibilität. Ab jetzt können Sie Ihre Termine im Kalender komfortabel per Drag and Drop verschieben. Zudem können Sie die Werte in den entsprechenden [Datum-Spalten]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) über die Zeilendetails bearbeiten, sofern Sie die notwendige [Berechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) besitzen.
 
 ### Vereinfachtes Datenhandling auf der Tabellenseite
 
@@ -38,7 +38,7 @@ Wie in der Base können Sie nun auch auf den [Tabellenseiten](https://seatable.i
 
 ### Mitarbeiter-Spalte auf Formularseiten verfügbar
 
-Wenn Sie eine [Mitarbeiter-Spalte](https://seatable.io/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) in Ihrer Tabelle nutzen, ist diese in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) **nicht** verfügbar. Jedoch können Sie ab SeaTable 4.4 Mitarbeiter-Spalten auf [Formularseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) der Universellen App hinzufügen. So können sich Ihre Teammitglieder beispielsweise bei einem Urlaubsantrag selbst auswählen und müssen ihre Namen nicht mehr manuell eintragen. Zuvor müssen Sie in den [App-Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) die Option aktivieren, dass die Mitarbeiterliste angezeigt werden soll.
+Wenn Sie eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) in Ihrer Tabelle nutzen, ist diese in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) **nicht** verfügbar. Jedoch können Sie ab SeaTable 4.4 Mitarbeiter-Spalten auf [Formularseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) der Universellen App hinzufügen. So können sich Ihre Teammitglieder beispielsweise bei einem Urlaubsantrag selbst auswählen und müssen ihre Namen nicht mehr manuell eintragen. Zuvor müssen Sie in den [App-Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) die Option aktivieren, dass die Mitarbeiterliste angezeigt werden soll.
 
 ### Mehr Customizing-Optionen für individuelle Seiten
 
@@ -82,7 +82,7 @@ Mit SeaTable 4.4 wird der [Import von Excel Tabellen]({{< relref "help/startseit
 
 ## Standardwerte greifen überall
 
-Mit Version 4.4 generalisiert SeaTable die Anwendung von [Standardwerten](https://seatable.io/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Wenn Sie eine neue Zeile anlegen, sei es in der Tabelle einer Base oder App, per [Link-Spalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [Webformular]({{< relref "help/base-editor/webformulare" >}}), [Schaltfläche]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) oder [Automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), kommen die Standardwerte bei der Erstellung der Zeile überall zum Tragen. Bisher griffen die Standardwerte nur, wenn in einer Tabelle manuell eine neue Zeile angelegt wurde.
+Mit Version 4.4 generalisiert SeaTable die Anwendung von [Standardwerten]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}). Wenn Sie eine neue Zeile anlegen, sei es in der Tabelle einer Base oder App, per [Link-Spalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [Webformular]({{< relref "help/base-editor/webformulare" >}}), [Schaltfläche]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) oder [Automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), kommen die Standardwerte bei der Erstellung der Zeile überall zum Tragen. Bisher griffen die Standardwerte nur, wenn in einer Tabelle manuell eine neue Zeile angelegt wurde.
 
 Da sich der Wirkungsbereich der Standardwerte erheblich vergrößert hat, haben wir bei den Spaltenoptionen auch einen prominenten Menüpunkt geschaffen, über den Sie die Standardwerte bequem einstellen können.
 

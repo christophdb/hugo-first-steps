@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-SeaTable Version 2.3, die seit heute verfügbar ist, macht sich bereit, neue Einsatzfelder zu erobern. Mit der Archivfunktion, die in diesem Release als Beta vorgestellt wird, empfiehlt sich SeaTable nun auch für datenintensive Anwendungsfälle: Tabellen mit Millionen Datensätzen lassen sich mit ihr in SeaTable speichern und auswerten. Sie steht in diesen Release Notes im Fokus. Weitere Neuerungen und Verbesserungen stellen wir überblicksartig vor. Die vollständige Liste der Änderungen finden Sie – wie immer – im [SeaTable Changelog](https://seatable.io/docs/changelog/version-2-3/).
+SeaTable Version 2.3, die seit heute verfügbar ist, macht sich bereit, neue Einsatzfelder zu erobern. Mit der Archivfunktion, die in diesem Release als Beta vorgestellt wird, empfiehlt sich SeaTable nun auch für datenintensive Anwendungsfälle: Tabellen mit Millionen Datensätzen lassen sich mit ihr in SeaTable speichern und auswerten. Sie steht in diesen Release Notes im Fokus. Weitere Neuerungen und Verbesserungen stellen wir überblicksartig vor. Die vollständige Liste der Änderungen finden Sie – wie immer – im [SeaTable Changelog]({{< relref "pages/changelog" >}}).
 
 ## Archivfunktion (Beta)
 

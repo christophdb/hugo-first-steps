@@ -134,7 +134,7 @@ Die No-Code-Datenbank-Software **SeaTable** hält bereits eine [Inventarliste Vo
 1. Fügen Sie die Vorlage als **neue Base** auf Ihrer Startseite hinzu. Wie das geht, erfahren Sie [in dieser Anleitung]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 2. Klicken Sie die Base an, um sie zu **öffnen**.
 3. Lesen Sie die [Base-Beschreibung]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) und verschaffen Sie sich einen Überblick.
-4. [Löschen Sie die Beispieldaten](https://seatable.io/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) und füllen Sie die Tabellen mit Ihrem eigenen Inventar.
+4. [Löschen Sie die Beispieldaten]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) und füllen Sie die Tabellen mit Ihrem eigenen Inventar.
 
 Möchten Sie Ihre eigenes Inventar erstellen, können Sie **beliebig viele Spalten in den Tabellen hinzufügen oder löschen** oder [mit einer komplett neuen Base starten]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). Anschließend können Sie Ihre Inventarliste mit all Ihren Teammitgliedern [teilen]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}). Fertig. Ihrer Inventur steht nichts mehr im Weg.
 

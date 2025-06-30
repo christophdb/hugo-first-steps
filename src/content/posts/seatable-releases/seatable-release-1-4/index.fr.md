@@ -12,7 +12,7 @@ seo:
 
 Nous sommes heureux d'annoncer la sortie de SeaTable 1.4 ! Nous avons intégré un nouveau type de colonne, des fonctions de base de données améliorées, un chat en temps réel et de nombreuses autres améliorations dans cette nouvelle version. Organiser des données et collaborer en équipe n'a jamais été aussi facile et pratique ! Et surtout, chaque utilisateur bénéficie des nouvelles fonctionnalités, y compris l'abonnement gratuit.
 
-Pour une liste complète des changements, veuillez consulter le [SeaTable Changelog](https://seatable.io/fr/docs/changelog/version-1-4/). Cette note de version représente les changements les plus importants et les plus passionnants de SeaTable 1.4. Allons-y !
+Pour une liste complète des changements, veuillez consulter le [SeaTable Changelog]({{< relref "pages/changelog" >}}). Cette note de version représente les changements les plus importants et les plus passionnants de SeaTable 1.4. Allons-y !
 
 ## Bienvenue dans l'équipe de type Colonne #18
 

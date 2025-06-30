@@ -12,7 +12,7 @@ seo:
 
 Wir freuen uns, die Veröffentlichung von SeaTable 1.4 bekannt zu geben! Wir haben einen neuen Spaltentyp, verbesserte Datenbankfunktionen, einen Realtime Chat und viele weitere Verbesserungen in dieses neue Release gepackt. Die Organisation von Daten und die Zusammenarbeit im Team war nie so einfach und bequem! Und das beste ist: Jeder Nutzer profitiert von den neuen Features, inklusive des Free Abos.
 
-Eine vollständige Liste der Änderungen finden Sie im [SeaTable Changelog](https://seatable.io/docs/changelog/version-1-4/). Diese Release Note stellt die wichtigsten und aufregendsten Änderungen von SeaTable 1.4 dar. Auf geht’s!
+Eine vollständige Liste der Änderungen finden Sie im [SeaTable Changelog]({{< relref "pages/changelog" >}}). Diese Release Note stellt die wichtigsten und aufregendsten Änderungen von SeaTable 1.4 dar. Auf geht’s!
 
 ## Willkommen im Team Spaltentyp #18
 

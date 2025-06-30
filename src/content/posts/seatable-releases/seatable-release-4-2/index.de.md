@@ -76,7 +76,7 @@ In SeaTable 4.2 haben wir die Suchfunktion auf der Startseite verfeinert, sodass
 
 ### Private in normale Ansichten unwandeln
 
-Ab Version 4.2 können Sie [private Ansichten](https://seatable.io/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) in nicht-private (normale) Ansichten umwandeln und damit nachträglich für alle Benutzer einer Base sichtbar machen. Bisher war es nur möglich, eine normale Ansicht als private Ansicht zu duplizieren.
+Ab Version 4.2 können Sie [private Ansichten]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) in nicht-private (normale) Ansichten umwandeln und damit nachträglich für alle Benutzer einer Base sichtbar machen. Bisher war es nur möglich, eine normale Ansicht als private Ansicht zu duplizieren.
 
 ### Zusätzliche Funktionen für die Datenverarbeitung
 

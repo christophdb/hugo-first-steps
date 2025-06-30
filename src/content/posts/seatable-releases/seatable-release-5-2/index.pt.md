@@ -106,12 +106,12 @@ A nova versão do SeaTable suporta o **início** de **sessão em contas de corre
 
 As tabelas podem agora ser ocultadas, como é familiar no Microsoft Excel. Uma **folha de cálculo oculta** já não é apresentada como um separador e só pode ser acedida através do menu pendente.
 
-[As caixas de verificação](https://seatable.io/pt/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) oferecem mais opções de estilo e ainda mais opções de cor no SeaTable 5.2. Se não gostar da marca verde, pode agora escolher entre 69 outras opções.
+[As caixas de verificação]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) oferecem mais opções de estilo e ainda mais opções de cor no SeaTable 5.2. Se não gostar da marca verde, pode agora escolher entre 69 outras opções.
 
 No [plugin do calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), agora também é possível criar novas entradas fazendo duplo clique ou utilizando o novo botão "+".
 
 ## Duas alterações funcionais
 
-[As linhas anotadas](https://seatable.io/pt/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) são identificadas com ícones de balão de diálogo na vista de tabela Base. Anteriormente, estes ícones eram apresentados durante sete dias. Com o SeaTable 5.2, esta duração será alargada para 180 dias. Por isso, não se surpreenda se as suas tabelas tiverem mais balões de diálogo. Todas as linhas com um comentário nos últimos 180 dias têm agora um ícone de balão de diálogo. Naturalmente, todos os comentários continuarão a ser guardados na base após os 180 dias terem expirado.
+[As linhas anotadas]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) são identificadas com ícones de balão de diálogo na vista de tabela Base. Anteriormente, estes ícones eram apresentados durante sete dias. Com o SeaTable 5.2, esta duração será alargada para 180 dias. Por isso, não se surpreenda se as suas tabelas tiverem mais balões de diálogo. Todas as linhas com um comentário nos últimos 180 dias têm agora um ícone de balão de diálogo. Naturalmente, todos os comentários continuarão a ser guardados na base após os 180 dias terem expirado.
 
 Os parênteses rectos nos nomes das tabelas podem provocar conflitos nas fórmulas. Por este motivo, a versão 5.2 e superior do SeaTable impede a utilização de **{** e **}** nos nomes das tabelas. Os nomes de tabelas existentes não são alterados.

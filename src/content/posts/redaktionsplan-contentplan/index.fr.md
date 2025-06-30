@@ -127,7 +127,7 @@ Pour garder une vue d'ensemble dans le temps, vous pouvez **passer du tableau à
 
 ### 4\. une communication ludique et facile dans le plan éditorial
 
-La communication pour la planification des contributions s'étend parfois sur divers e-mails, chats internes ou documents. Cela peut vite devenir confus. Avec SeaTable, tous les messages sont regroupés au même endroit : **Communiquez vos réactions directement dans le plan éditorial**. Cela fonctionne très efficacement grâce à la [fonction de commentaire](https://seatable.io/fr/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) dans les différentes lignes. Vous pouvez **suivre toutes les modifications** dans le [journal](https://seatable.io/fr/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) - ainsi, il est toujours clair qui a effectué quelles modifications dans le plan de rédaction.
+La communication pour la planification des contributions s'étend parfois sur divers e-mails, chats internes ou documents. Cela peut vite devenir confus. Avec SeaTable, tous les messages sont regroupés au même endroit : **Communiquez vos réactions directement dans le plan éditorial**. Cela fonctionne très efficacement grâce à la [fonction de commentaire]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) dans les différentes lignes. Vous pouvez **suivre toutes les modifications** dans le [journal]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) - ainsi, il est toujours clair qui a effectué quelles modifications dans le plan de rédaction.
 
 ![La communication facilitée - vous pouvez faire des remarques directement dans le plan de contenu](Team-communication.jpg)
 

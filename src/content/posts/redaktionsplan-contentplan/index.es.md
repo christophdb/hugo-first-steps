@@ -127,7 +127,7 @@ Para mantener una visión general del calendario, puede **pasar de la vista de t
 
 ### 4\. facilidad de comunicación en el plan editorial
 
-La comunicación para planificar las contribuciones a veces se extiende por varios correos electrónicos, chats internos o documentos. Esto puede resultar confuso rápidamente. Con SeaTable, todos los mensajes se agrupan en un solo lugar: **Comunique sus comentarios directamente en el plan editorial**. Esto funciona de forma muy eficaz a través de la [función de comentarios](https://seatable.io/es/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) en las líneas individuales. Puede **hacer un seguimiento de todos los cambios** en el [registro](https://seatable.io/es/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/), de modo que siempre quede claro quién ha hecho qué cambios en el plan editorial.
+La comunicación para planificar las contribuciones a veces se extiende por varios correos electrónicos, chats internos o documentos. Esto puede resultar confuso rápidamente. Con SeaTable, todos los mensajes se agrupan en un solo lugar: **Comunique sus comentarios directamente en el plan editorial**. Esto funciona de forma muy eficaz a través de la [función de comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) en las líneas individuales. Puede **hacer un seguimiento de todos los cambios** en el [registro]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}), de modo que siempre quede claro quién ha hecho qué cambios en el plan editorial.
 
 ![Comunicación más fácil: puede hacer comentarios directamente en el plan de contenidos](Team-communication.jpg)
 

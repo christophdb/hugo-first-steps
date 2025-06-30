@@ -133,7 +133,7 @@ El software de base de datos sin código **SeaTable** ya tiene preparada para us
 1. Añade la plantilla como **nueva base** en tu página de inicio. Puedes encontrar cómo hacerlo [en estas instrucciones]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 2. Haz clic en la base para **abrirla**.
 3. Lea la [descripción básica]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) y obtenga una visión general.
-4. [Borre los datos de la muestra](https://seatable.io/es/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) y rellene las tablas con su propio inventario.
+4. [Borre los datos de la muestra]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) y rellene las tablas con su propio inventario.
 
 Si desea crear su propio inventario, puede **añadir o eliminar cualquier número de columnas en las tablas** o [empezar con una base completamente nueva]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). A continuación, puedes [compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) tu lista de inventario con todos los miembros de tu equipo. Y ya está. Nada se interpone en el camino de tu inventario.
 

@@ -12,7 +12,7 @@ seo:
 
 SeaTable es la solución definitiva para la gestión de datos y la colaboración en línea. Con sus múltiples tipos de campos, funciones de organización, grupo, gestión de equipos y colaboración, así como numerosas plantillas y plugins, SeaTable da rienda suelta a toda la productividad de su equipo.
 
-Nos complace anunciar que la versión 1.2 de SeaTable ya está disponible. SeaTable 1.2 contiene algunas actualizaciones importantes en términos de funcionalidad y experiencia de usuario. Puede encontrar la lista completa de cambios en el [registro de cambios](https://seatable.io/es/docs/changelog/version-1-2/). En esta nota de la versión le presentamos algunas de las novedades más interesantes.
+Nos complace anunciar que la versión 1.2 de SeaTable ya está disponible. SeaTable 1.2 contiene algunas actualizaciones importantes en términos de funcionalidad y experiencia de usuario. Puede encontrar la lista completa de cambios en el [registro de cambios]({{< relref "pages/changelog" >}}). En esta nota de la versión le presentamos algunas de las novedades más interesantes.
 
 ## Más colores y símbolos en la página de inicio
 

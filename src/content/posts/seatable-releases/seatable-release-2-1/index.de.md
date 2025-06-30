@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Heute, den 6. Juli 2021, haben wir [SeaTable Cloud](https://cloud.seatable.io) auf SeaTable 2.1 aktualisiert und das neue Docker Image auf Docker Hub hochgeladen. Die Highlights des Releases sind die neuen Tabellenberechtigungen und eine neue Funktion namens Datenverarbeitung. Darüber hinaus haben wir die Spaltentypen Einfach- und Mehrfachauswahl sowie die Checkbox Spalte verbessert. In diesen Release Notes stellen wir – wie immer – die zentralen Entwicklungen vor und verweisen für die vollständige Liste der Änderungen auf das [SeaTable Changelog](https://seatable.io/docs/changelog/version-2-1/) (nur in Englisch verfügbar).
+Heute, den 6. Juli 2021, haben wir [SeaTable Cloud](https://cloud.seatable.io) auf SeaTable 2.1 aktualisiert und das neue Docker Image auf Docker Hub hochgeladen. Die Highlights des Releases sind die neuen Tabellenberechtigungen und eine neue Funktion namens Datenverarbeitung. Darüber hinaus haben wir die Spaltentypen Einfach- und Mehrfachauswahl sowie die Checkbox Spalte verbessert. In diesen Release Notes stellen wir – wie immer – die zentralen Entwicklungen vor und verweisen für die vollständige Liste der Änderungen auf das [SeaTable Changelog]({{< relref "pages/changelog" >}}) (nur in Englisch verfügbar).
 
 ## Tabellenberechtigungen
 

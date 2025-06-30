@@ -138,7 +138,7 @@ The no-code database software **SeaTable** already has an [inventory list templa
 1. Add the template as a **new base** on your start page. You can find out how to do this [in these instructions]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 2. Click on the base to **open** it.
 3. Read the [base description]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) and get an overview.
-4. [Delete the sample data](https://seatable.io/en/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) and fill the tables with your own inventory.
+4. [Delete the sample data]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) and fill the tables with your own inventory.
 
 If you want to create your own inventory, you can **add or delete any number of columns in the tables** or [start with a completely new base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). You can then [share]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) your inventory list with all your team members. That's it. Nothing stands in the way of your inventory.
 

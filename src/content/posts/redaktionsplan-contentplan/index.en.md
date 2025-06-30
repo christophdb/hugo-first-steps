@@ -128,7 +128,7 @@ In order to keep track of time, you can **switch from the table to the calendar 
 
 ### 4\. easy communication in the editorial plan
 
-The communication for planning contributions sometimes extends across various e-mails, internal chats or documents. This can quickly become confusing. With SeaTable, all messages are bundled in one place: **Communicate your feedback directly in the editorial plan**. This works very efficiently via the [comment function](https://seatable.io/en/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) in the individual rows. You can **track all changes** in the [log](https://seatable.io/en/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) - so it is always clear who has made which changes in the editorial plan.
+The communication for planning contributions sometimes extends across various e-mails, internal chats or documents. This can quickly become confusing. With SeaTable, all messages are bundled in one place: **Communicate your feedback directly in the editorial plan**. This works very efficiently via the [comment function]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) in the individual rows. You can **track all changes** in the [log]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) - so it is always clear who has made which changes in the editorial plan.
 
 ![Communication made easy - you can make comments directly in the content plan](Team-communication.jpg)
 

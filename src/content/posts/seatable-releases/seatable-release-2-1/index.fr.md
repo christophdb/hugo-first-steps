@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Aujourd'hui, 6 juillet 2021, nous avons mis à jour [SeaTable Cloud](https://cloud.seatable.io) en SeaTable 2.1 et téléchargé la nouvelle image Docker sur Docker Hub. Les points forts de cette version sont les nouvelles autorisations de table et une nouvelle fonction appelée Traitement des données. En outre, nous avons amélioré les types de colonnes sélection simple et multiple ainsi que la colonne case à cocher. Dans ces notes de mise à jour, nous présentons - comme toujours - les développements centraux et renvoyons au [changelog de SeaTable](https://seatable.io/fr/docs/changelog/version-2-1/) (disponible uniquement en anglais) pour la liste complète des changements.
+Aujourd'hui, 6 juillet 2021, nous avons mis à jour [SeaTable Cloud](https://cloud.seatable.io) en SeaTable 2.1 et téléchargé la nouvelle image Docker sur Docker Hub. Les points forts de cette version sont les nouvelles autorisations de table et une nouvelle fonction appelée Traitement des données. En outre, nous avons amélioré les types de colonnes sélection simple et multiple ainsi que la colonne case à cocher. Dans ces notes de mise à jour, nous présentons - comme toujours - les développements centraux et renvoyons au [changelog de SeaTable]({{< relref "pages/changelog" >}}) (disponible uniquement en anglais) pour la liste complète des changements.
 
 ## Autorisations de table
 

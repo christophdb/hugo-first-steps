@@ -106,12 +106,12 @@ La nueva versión de SeaTable admite el **inicio de sesión con cuentas de corre
 
 Ahora las tablas pueden ocultarse, como es habitual en Microsoft Excel. Una **hoja de cálculo oculta** ya no se muestra como una pestaña y sólo se puede acceder a través del menú desplegable.
 
-[Las casillas de verificación](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) ofrecen más opciones de estilo y aún más opciones de color en SeaTable 5.2. Si no le gusta la marca verde, ahora puede elegir entre otras 69 opciones.
+[Las casillas de verificación]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) ofrecen más opciones de estilo y aún más opciones de color en SeaTable 5.2. Si no le gusta la marca verde, ahora puede elegir entre otras 69 opciones.
 
 En el [plugin de calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), ahora también se pueden crear nuevas entradas haciendo doble clic o utilizando el nuevo botón "+".
 
 ## Dos cambios funcionales
 
-[Las filas anotadas](https://seatable.io/es/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) se etiquetan con iconos de bocadillos en la vista de tabla Base. Anteriormente, estos iconos se mostraban durante siete días. Con SeaTable 5.2, esta duración se ampliará a 180 días. Así que no se sorprenda si sus tablas tienen más bocadillos. Todas las filas con un comentario en los últimos 180 días tienen ahora un icono de bocadillo. Por supuesto, todos los comentarios seguirán guardándose en la base una vez transcurridos los 180 días.
+[Las filas anotadas]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) se etiquetan con iconos de bocadillos en la vista de tabla Base. Anteriormente, estos iconos se mostraban durante siete días. Con SeaTable 5.2, esta duración se ampliará a 180 días. Así que no se sorprenda si sus tablas tienen más bocadillos. Todas las filas con un comentario en los últimos 180 días tienen ahora un icono de bocadillo. Por supuesto, todos los comentarios seguirán guardándose en la base una vez transcurridos los 180 días.
 
 Las llaves en los nombres de tabla pueden provocar conflictos en las fórmulas. Por esta razón, SeaTable versión 5.2 y superiores evitan el uso de **{** y **}** en nombres de tablas. Los nombres de tabla existentes no se modifican.

@@ -128,7 +128,7 @@ Um den zeitlichen Überblick zu behalten, können Sie **mit einem Klick von der 
 
 ### 4\. Spielend leichte Kommunikation im Redaktionsplan
 
-Die Kommunikation zur Planung von Beiträgen erstreckt sich manchmal über diverse E-Mails, interne Chats oder Dokumente. Das kann schnell unübersichtlich werden. Mit SeaTable sind alle Nachrichten an einem Ort gebündelt: **Kommunizieren Sie direkt im Redaktionsplan Ihr Feedback**. Das funktioniert sehr effizient über die [Kommentarfunktion](https://seatable.io/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) in den einzelnen Zeilen. Im [Log](https://seatable.io/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) können Sie **alle Änderungen nachverfolgen** – so ist immer klar, wer im Redaktionsplan welche Änderungen vorgenommen hat.
+Die Kommunikation zur Planung von Beiträgen erstreckt sich manchmal über diverse E-Mails, interne Chats oder Dokumente. Das kann schnell unübersichtlich werden. Mit SeaTable sind alle Nachrichten an einem Ort gebündelt: **Kommunizieren Sie direkt im Redaktionsplan Ihr Feedback**. Das funktioniert sehr effizient über die [Kommentarfunktion]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) in den einzelnen Zeilen. Im [Log]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) können Sie **alle Änderungen nachverfolgen** – so ist immer klar, wer im Redaktionsplan welche Änderungen vorgenommen hat.
 
 ![Kommunikation leicht gemacht - Anmerkungen können Sie direkt im Contentplan machen](Team-communication.jpg)
 

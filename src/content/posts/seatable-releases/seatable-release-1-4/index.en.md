@@ -13,7 +13,7 @@ seo:
 
 We are pleased to announce the release of SeaTable 1.4! We've packed a new column type, improved database features, realtime chat and many more improvements into this new release. Organising data and collaborating in a team has never been so easy and convenient! And best of all, every user benefits from the new features, including the free subscription.
 
-For a full list of changes, visit the [SeaTable Changelog](https://seatable.io/en/docs/changelog/version-1-4/). This release note summarizes the biggest and most exciting updates of SeaTable 1.4. So let’s get going!
+For a full list of changes, visit the [SeaTable Changelog]({{< relref "pages/changelog" >}}). This release note summarizes the biggest and most exciting updates of SeaTable 1.4. So let’s get going!
 
 ## Introducing column type #18
 

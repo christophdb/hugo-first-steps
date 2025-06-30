@@ -133,7 +133,7 @@ O software de base de dados sem código **SeaTable** já tem um [modelo de lista
 1. Adicione o modelo como uma **nova base** na sua página inicial. Para saber como o fazer, consulte [estas instruções]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 2. Clique na base para a **abrir**.
 3. Leia a [descrição de base]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) e obtenha uma visão geral.
-4. [Eliminar os dados de amostra](https://seatable.io/pt/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) e preencher os quadros com o seu próprio inventário.
+4. [Eliminar os dados de amostra]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) e preencher os quadros com o seu próprio inventário.
 
 Se quiser criar o seu próprio inventário, pode **adicionar ou eliminar qualquer número de colunas nas tabelas** ou [começar com uma base completamente nova]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). Pode depois [partilhar]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) a sua lista de inventário com todos os membros da sua equipa. E é tudo. Nada impede o seu inventário.
 

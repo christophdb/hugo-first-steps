@@ -76,7 +76,7 @@ No SeaTable 4.2, aperfeiçoámos a função de pesquisa na página inicial para 
 
 ### Converter vistas privadas em normais
 
-A partir da versão 4.2, é possível converter [as vistas privadas](https://seatable.io/pt/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) em vistas não privadas (normais), tornando-as assim visíveis para todos os utilizadores de uma base. Anteriormente, só era possível duplicar uma vista normal como uma vista privada.
+A partir da versão 4.2, é possível converter [as vistas privadas]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) em vistas não privadas (normais), tornando-as assim visíveis para todos os utilizadores de uma base. Anteriormente, só era possível duplicar uma vista normal como uma vista privada.
 
 ### Funções adicionais para o processamento de dados
 

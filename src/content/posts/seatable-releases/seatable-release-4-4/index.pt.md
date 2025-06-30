@@ -28,7 +28,7 @@ Um exemplo de aplicação é um quadro de empregos interno: a página de consult
 
 ### Arrastar e largar no calendário
 
-Até agora, não era possível alterar os compromissos na [página do calendário](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/). O SeaTable 4.4 dá-lhe mais flexibilidade nesta área. Agora pode mover convenientemente os seus compromissos no calendário utilizando a função arrastar e largar. Também pode editar os valores nas [colunas de datas](https://seatable.io/pt/docs/datum-dauer-und-personen/die-datum-spalte/) correspondentes através dos detalhes da linha, desde que tenha a [autorização](https://seatable.io/pt/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) necessária.
+Até agora, não era possível alterar os compromissos na [página do calendário](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/). O SeaTable 4.4 dá-lhe mais flexibilidade nesta área. Agora pode mover convenientemente os seus compromissos no calendário utilizando a função arrastar e largar. Também pode editar os valores nas [colunas de datas]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) correspondentes através dos detalhes da linha, desde que tenha a [autorização](https://seatable.io/pt/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) necessária.
 
 ### Tratamento simplificado dos dados na página da tabela
 
@@ -38,7 +38,7 @@ Tal como no Base, pode agora [selecionar todas as entradas de uma coluna]({{< re
 
 ### Coluna do empregado disponível nas páginas do formulário
 
-Se utilizar uma [coluna de empregado](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) na sua tabela, esta **não** está disponível em [formulários Web]({{< relref "help/base-editor/webformulare" >}}). No entanto, a partir do SeaTable 4.4, pode adicionar colunas de colaboradores a [páginas de formulários](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) na aplicação universal. Por exemplo, os membros da sua equipa podem selecionar-se a si próprios para um pedido de férias e já não têm de introduzir os seus nomes manualmente. Primeiro, é necessário ativar a opção para apresentar a lista de colaboradores nas [definições da aplicação](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+Se utilizar uma [coluna de empregado]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) na sua tabela, esta **não** está disponível em [formulários Web]({{< relref "help/base-editor/webformulare" >}}). No entanto, a partir do SeaTable 4.4, pode adicionar colunas de colaboradores a [páginas de formulários](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) na aplicação universal. Por exemplo, os membros da sua equipa podem selecionar-se a si próprios para um pedido de férias e já não têm de introduzir os seus nomes manualmente. Primeiro, é necessário ativar a opção para apresentar a lista de colaboradores nas [definições da aplicação](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
 
 ### Mais opções de personalização para páginas individuais
 
@@ -82,7 +82,7 @@ O SeaTable 4.4 torna [a importação de tabelas Excel]({{< relref "help/startsei
 
 ## Os valores por defeito aplicam-se em todo o lado
 
-Com a versão 4.4, o SeaTable generaliza a utilização dos [valores por defeito](https://seatable.io/pt/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Quando cria uma nova linha, seja na tabela de uma base ou aplicação, através de uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [formulário Web]({{< relref "help/base-editor/webformulare" >}}), [botão]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) ou [automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), os valores por defeito são aplicados em todo o lado quando a linha é criada. Anteriormente, os valores por defeito só eram aplicados quando uma nova linha era criada manualmente numa tabela.
+Com a versão 4.4, o SeaTable generaliza a utilização dos [valores por defeito]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}). Quando cria uma nova linha, seja na tabela de uma base ou aplicação, através de uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [formulário Web]({{< relref "help/base-editor/webformulare" >}}), [botão]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) ou [automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), os valores por defeito são aplicados em todo o lado quando a linha é criada. Anteriormente, os valores por defeito só eram aplicados quando uma nova linha era criada manualmente numa tabela.
 
 Como o âmbito dos valores por defeito aumentou consideravelmente, criámos também um item de menu proeminente nas opções de coluna, que pode utilizar para definir convenientemente os valores por defeito.
 

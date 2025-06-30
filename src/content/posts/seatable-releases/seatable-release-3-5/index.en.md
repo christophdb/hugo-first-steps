@@ -15,11 +15,11 @@ April does what it wants - but SeaTable does what you want! With version 3.5, so
 
 With this release, we are also introducing a new App Builder as a beta. With the Universal App Builder, you can build applications for a wide range of use cases and user groups without any programming knowledge. Currently, our development team is still working on the fine-tuning, but already the foretaste makes you want more. We are looking forward to your feedback!
 
-This morning we updated the SeaTable Cloud to version 3.5. All self-hosters can do the same: The SeaTable 3.5 image is available for download from the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, see the [changelog](https://seatable.io/docs/changelog/version-3-5/?lang=auto) for the full list of changes.
+This morning we updated the SeaTable Cloud to version 3.5. All self-hosters can do the same: The SeaTable 3.5 image is available for download from the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, see the [changelog]({{< relref "pages/changelog" >}}?lang=auto) for the full list of changes.
 
 ## Formulas in the first column
 
-SeaTable 3.5 provides more flexibility in the first column of a table: Previously, only the [column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) Text, Number, Date, Single Select and Automatic Number were allowed there. The [Formula column type]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) is now also supported and makes it possible to "calculate" your own row reference. Since [the first column](https://seatable.io/en/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) in a table cannot be hidden and is always displayed in the link dialog, it is particularly suitable for this purpose.
+SeaTable 3.5 provides more flexibility in the first column of a table: Previously, only the [column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) Text, Number, Date, Single Select and Automatic Number were allowed there. The [Formula column type]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) is now also supported and makes it possible to "calculate" your own row reference. Since [the first column]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) in a table cannot be hidden and is always displayed in the link dialog, it is particularly suitable for this purpose.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
@@ -31,7 +31,7 @@ The [automations]({{< relref "help/base-editor/automationen/funktionsweise-von-a
 
 You can now select the actions "Add links" and "Execute data processing operation" for the periodic trigger in addition to the actions "Send notification", "Send e-mail", " Addrow " and "Execute Python script". These two actions allow you to automate all data processing operations that you could previously only perform manually.
 
-See for yourself what is possible with [data processing operations in SeaTable](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/).
+See for yourself what is possible with [data processing operations in SeaTable]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
 ## Conditional execution of button actions
 

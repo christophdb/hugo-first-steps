@@ -12,7 +12,7 @@ seo:
 
 Wir haben heute cloud.seatable.io auf die Version 1.5 von SeaTable aktualisiert. Mit dem nächsten Login profitieren alle Nutzer von spannenden neuen Features und einer Reihe von Verbesserungen an Interface und bestehenden Funktionen. Auf den ersten Blick werden die zahlreichen kleineren und größeren Änderungen am Tabelleneditor auffallen, die zu einer höheren Workfloweffizienz und verbesserten Benutzererfahrung führen. Die neuen benutzerdefinierten Freigabeberechtigungen bieten mehr Kontrolle und Flexibilität bei der gemeinsamen Arbeit an Bases. Erweiterte Individualisierungsoptionen machen SeaTables Webformulare ein noch vielseitigeres Werkzeug für die Datenerfassung.
 
-The vollständige Liste der Änderungen findet sich, wie immer, in [SeaTables Changelog](https://seatable.io/docs/changelog/version-1-5/). Diese Release Note stellt die wichtigsten und spannendsten Änderungen dieser neuen Version vor.
+The vollständige Liste der Änderungen findet sich, wie immer, in [SeaTables Changelog]({{< relref "pages/changelog" >}}). Diese Release Note stellt die wichtigsten und spannendsten Änderungen dieser neuen Version vor.
 
 ## Verbesserter Tabelleneditor
 

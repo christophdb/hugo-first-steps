@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Das September Release, das wir am 14. September hochgeladen haben, bietet eine beeindruckende Reihe neuer Features, Funktionalitäten und Verbesserungen für ALLE Benutzer. Die heißeste Ergänzung ist SeaTables Scripting Engine. Andere großartige, neue Features sind die nahtlose Integration unserer Templates, bedingte Zeilenformatierung, eine neue Druckfunktion und der neuer Spaltentyp automatische Nummer. Und das ist bei weitem noch nicht alles! Die vollständige Liste der Änderungen ist im [Changelog](https://seatable.io/docs/changelog/version-1-3/) verfügbar. SeaTable bleibt seinem Namen treu und bietet ein Meer voller Möglichkeiten. [Starten Sie jetzt]({{< relref "pages/registration" >}}) und spielen Sie mit den Wellen.
+Das September Release, das wir am 14. September hochgeladen haben, bietet eine beeindruckende Reihe neuer Features, Funktionalitäten und Verbesserungen für ALLE Benutzer. Die heißeste Ergänzung ist SeaTables Scripting Engine. Andere großartige, neue Features sind die nahtlose Integration unserer Templates, bedingte Zeilenformatierung, eine neue Druckfunktion und der neuer Spaltentyp automatische Nummer. Und das ist bei weitem noch nicht alles! Die vollständige Liste der Änderungen ist im [Changelog]({{< relref "pages/changelog" >}}) verfügbar. SeaTable bleibt seinem Namen treu und bietet ein Meer voller Möglichkeiten. [Starten Sie jetzt]({{< relref "pages/registration" >}}) und spielen Sie mit den Wellen.
 
 ## Automatisierte Datenverarbeitung mit Skripten
 
@@ -20,7 +20,7 @@ SeaTables Skripte sind den bekannten SeaTable Plugins (z.B. Kalender, Galerie, K
 
 ## Schneller arbeiten mit Templates
 
-Viele Nutzer kennen bereits unsere [sorgfältig erstellen Templates](https://seatable.io/docs/templates/). Mit dem neuen Release ist es nun noch einfacher, neue Bases direkt auf Basis dieser Templates zu erstellen, ganz ohne lästige, manuelle Kopier- und Exportprozeduren. Die Verwendung eines Templates ist jetzt so einfach, wie es nur sein kann! Erstellen Sie eine neue Base, wählen Sie Ihr bevorzugtes Template aus und los geht’s.
+Viele Nutzer kennen bereits unsere [sorgfältig erstellen Templates]({{< relref "templates" >}}). Mit dem neuen Release ist es nun noch einfacher, neue Bases direkt auf Basis dieser Templates zu erstellen, ganz ohne lästige, manuelle Kopier- und Exportprozeduren. Die Verwendung eines Templates ist jetzt so einfach, wie es nur sein kann! Erstellen Sie eine neue Base, wählen Sie Ihr bevorzugtes Template aus und los geht’s.
 
 ![](create-from-template.png)
 

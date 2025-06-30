@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-As primeiras construções da SeaTable 2.8 estão disponíveis para download em [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub há vários dias. A construção final está disponível para download desde 1 de Abril. Com a actualização de hoje do SeaTable 2.8, temos o prazer de disponibilizar as suas numerosas novas funções e melhorias também no SeaTable Cloud. As novas características incluem uma banda de título a cores personalizável e a exibição de todos os utilizadores activos numa base, descrições de colunas e um editor melhorado para texto formatado. Além disso, os registos partilhados podem agora ser automaticamente sincronizados e renomeados. E estes são apenas os destaques que apresentamos com mais detalhe nestas notas de lançamento. A lista completa de alterações pode ser encontrada - como sempre - no [changelog](https://seatable.io/docs/changelog/version-2-8/?lang=auto).
+As primeiras construções da SeaTable 2.8 estão disponíveis para download em [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub há vários dias. A construção final está disponível para download desde 1 de Abril. Com a actualização de hoje do SeaTable 2.8, temos o prazer de disponibilizar as suas numerosas novas funções e melhorias também no SeaTable Cloud. As novas características incluem uma banda de título a cores personalizável e a exibição de todos os utilizadores activos numa base, descrições de colunas e um editor melhorado para texto formatado. Além disso, os registos partilhados podem agora ser automaticamente sincronizados e renomeados. E estes são apenas os destaques que apresentamos com mais detalhe nestas notas de lançamento. A lista completa de alterações pode ser encontrada - como sempre - no [changelog]({{< relref "pages/changelog" >}}?lang=auto).
 
 ## Fita de título colorida
 
@@ -65,7 +65,7 @@ Até agora, os dados de um conjunto de dados comuns importados só podiam ser ac
 
 Há muitas outras melhorias que merecem uma menção. Aqui estão os mais importantes.
 
-A coluna da fórmula conhece duas novas fórmulas: Small() e Large() encontram o valor x-pequeno ou x-grande numa coluna. (Mais na [referência da fórmula](https://seatable.io/pt/docs/handbuch/expertenwissen/formelreferenz/)).
+A coluna da fórmula conhece duas novas fórmulas: Small() e Large() encontram o valor x-pequeno ou x-grande numa coluna. (Mais na [referência da fórmula]({{< relref "help/base-editor/formeln/formelreferenz" >}})).
 
 Para colunas e agrupamentos, a mediana pode agora ser calculada para além da soma, a média e os valores extremos.
 

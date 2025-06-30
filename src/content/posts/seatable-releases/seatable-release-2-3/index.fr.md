@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-La version 2.3 de SeaTable, disponible depuis aujourd'hui, s'apprête à conquérir de nouveaux champs d'application. Avec la fonction d'archivage, qui est présentée en version bêta dans cette version, SeaTable est désormais également recommandé pour les cas d'utilisation intensive des données : Des tableaux contenant des millions d'enregistrements de données peuvent être stockés et analysés dans SeaTable. C'est l'objet de ces notes de mise à jour. D'autres innovations et améliorations sont présentées dans un aperçu. La liste complète des changements peut être trouvée - comme toujours - dans le [Changelog de SeaTable](https://seatable.io/fr/docs/changelog/version-2-3/).
+La version 2.3 de SeaTable, disponible depuis aujourd'hui, s'apprête à conquérir de nouveaux champs d'application. Avec la fonction d'archivage, qui est présentée en version bêta dans cette version, SeaTable est désormais également recommandé pour les cas d'utilisation intensive des données : Des tableaux contenant des millions d'enregistrements de données peuvent être stockés et analysés dans SeaTable. C'est l'objet de ces notes de mise à jour. D'autres innovations et améliorations sont présentées dans un aperçu. La liste complète des changements peut être trouvée - comme toujours - dans le [Changelog de SeaTable]({{< relref "pages/changelog" >}}).
 
 ## Fonction d'archivage (bêta)
 

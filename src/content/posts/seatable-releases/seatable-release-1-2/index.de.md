@@ -12,7 +12,7 @@ seo:
 
 SeaTable ist die ultimative Lösung für Datenmanagement und Online-Zusammenarbeit. Mit seinen vielfältigen Feldtypen, Organisations-, Gruppen-, Teammanagement- und Kollaborationsfunktionen sowie zahlreichen Vorlagen und Plugins entfesselt SeaTable die volle Produktivität Ihres Teams.
 
-Wir freuen uns, SeaTable in der Version 1.2 in den Produktivbetrieb zu übernehmen. SeaTable 1.2 hält einige wichtige Aktualisierungen in Bezug auf Funktionalität und Benutzererfahrung für Sie bereit. Die vollständige Liste der Änderungen finden Sie im [Changelog](https://seatable.io/docs/changelog/version-1-2/). In diesem Release Note stellen wir Ihnen einige der aufregendsten neuen Funktionen vor.
+Wir freuen uns, SeaTable in der Version 1.2 in den Produktivbetrieb zu übernehmen. SeaTable 1.2 hält einige wichtige Aktualisierungen in Bezug auf Funktionalität und Benutzererfahrung für Sie bereit. Die vollständige Liste der Änderungen finden Sie im [Changelog]({{< relref "pages/changelog" >}}). In diesem Release Note stellen wir Ihnen einige der aufregendsten neuen Funktionen vor.
 
 ## Mehr Farben und Symbole auf der Startseite
 

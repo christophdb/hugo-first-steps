@@ -133,7 +133,7 @@ seo:
 1. Добавьте шаблон в качестве **новой базы** на стартовую страницу. О том, как это сделать, вы можете узнать [из этой инструкции]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 2. Нажмите на базу, чтобы **открыть** ее.
 3. Прочитайте [описание базы]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) и получите общее представление.
-4. [Удалите данные образца](https://seatable.io/ru/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) и заполните таблицы собственным инвентарем.
+4. [Удалите данные образца]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) и заполните таблицы собственным инвентарем.
 
 Если вы хотите создать свой собственный инвентарный список, вы можете **добавить или удалить любое количество столбцов в таблицах** или [начать с совершенно новой базы]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). Затем вы можете [поделиться]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) своим инвентарным списком со всеми членами команды. Вот и все. Ничто не мешает вам провести инвентаризацию.
 

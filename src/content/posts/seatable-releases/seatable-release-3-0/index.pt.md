@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-A SeaTable 3.0 está aqui! O terceiro grande lançamento do SeaTable oferece edição online de documentos do Office, validação automática de dados, mais funções para conjuntos de dados partilhados e uma nova componente de servidor para um armazenamento mais eficiente de bases. Como sempre, o [changelog](https://seatable.io/docs/changelog/version-3-0/?lang=auto) fornece informações sobre as muitas outras melhorias detalhadas e correcções de bugs na nova versão. As novas funções estão disponíveis imediatamente para os [utilizadores do SeaTable Cloud](https://cloud.seatable.io/). A imagem para SeaTable 3.0 foi disponibilizada hoje à noite em [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub.  
+A SeaTable 3.0 está aqui! O terceiro grande lançamento do SeaTable oferece edição online de documentos do Office, validação automática de dados, mais funções para conjuntos de dados partilhados e uma nova componente de servidor para um armazenamento mais eficiente de bases. Como sempre, o [changelog]({{< relref "pages/changelog" >}}?lang=auto) fornece informações sobre as muitas outras melhorias detalhadas e correcções de bugs na nova versão. As novas funções estão disponíveis imediatamente para os [utilizadores do SeaTable Cloud](https://cloud.seatable.io/). A imagem para SeaTable 3.0 foi disponibilizada hoje à noite em [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub.  
 Para além das melhorias funcionais na aplicação SeaTable, existe outra nova funcionalidade para os utilizadores do SeaTable Cloud: uma nova gestão de equipas com funções alargadas e design melhorado torna a gestão de equipas pequenas e especialmente maiores muito mais fácil. Pode saber mais sobre a nova gestão de equipas no artigo [A nova gestão de equipas]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Validação automática de dados
@@ -65,6 +65,6 @@ Além disso, existem inúmeras outras melhorias, as três mais importantes das q
 
 A estrutura do menu no cabeçalho da Base foi expandida e revista. A mudança mais óbvia é o avatar, que é agora exibido no canto superior direito, análogo à página inicial. Para dar lugar ao avatar, o botão de três pontos foi movido para baixo de uma linha. O menu por detrás deste botão foi revisto. De acordo com a sua importância, as regras de notificação e automatização, por exemplo, foram retiradas deste menu. Têm agora o seu próprio ícone no canto superior direito.
 
-Os [ficheiros DTABLE](https://seatable.io/pt/docs/handbuch/expertenwissen/dtable-dateiformat/?lang=auto), ficheiros de exportação de bases, contêm agora também regras de automatização. O mesmo se aplica à cópia de uma base para outro grupo. Isto poupa retrabalho manual desnecessário ao transferir bases entre grupos e servidores SeaTable.
+Os [ficheiros DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), ficheiros de exportação de bases, contêm agora também regras de automatização. O mesmo se aplica à cópia de uma base para outro grupo. Isto poupa retrabalho manual desnecessário ao transferir bases entre grupos e servidores SeaTable.
 
 A coluna de título pode agora ser seleccionada no plugin Kanban. O valor das colunas de título está no topo da carta Kanban, independentemente da sequência das colunas na tabela.

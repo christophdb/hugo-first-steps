@@ -45,7 +45,7 @@ Los usuarios de la aplicación correspondiente pueden acceder a sus notificacion
 
 ## Columna de empleados entre equipos
 
-En la [columna](https://seatable.io/es/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) de empleados, antes sólo era posible seleccionar a las personas que ya tenían acceso a la base correspondiente. A partir de SeaTable 4.3, puede introducir a **todos los miembros de su** equipo en las columnas de empleados, aunque no tengan acceso a determinadas bases. Esto facilita enormemente la asignación de registros de datos a sus empleados, independientemente de su autorización de acceso.
+En la [columna]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) de empleados, antes sólo era posible seleccionar a las personas que ya tenían acceso a la base correspondiente. A partir de SeaTable 4.3, puede introducir a **todos los miembros de su** equipo en las columnas de empleados, aunque no tengan acceso a determinadas bases. Esto facilita enormemente la asignación de registros de datos a sus empleados, independientemente de su autorización de acceso.
 
 Esta funcionalidad es especialmente útil en la aplicación universal. Puede activar la opción de que los miembros del equipo sean visibles para todos los usuarios en la lista desplegable de los [ajustes de](https://seatable.io/es/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) la app Universal. Si no quieres que los usuarios puedan ver los registros de datos de otros, establece **filtros preestablecidos**: si una página se filtra por columna de empleado con la condición "incluye al usuario actual", cada usuario de la app universal solo verá las entradas que se le asignen en la tabla.
 
@@ -53,7 +53,7 @@ Esta funcionalidad es especialmente útil en la aplicación universal. Puede act
 
 ## Nuevas mejoras de la aplicación universal
 
-Una novedad de la aplicación universal es la [función de comentarios](https://seatable.io/es/docs/arbeiten-mit-zeilen/zeilen-kommentieren/), que ya reconocerá en la misma forma de Base. Anota tus comentarios o información adicional en los registros de datos de otros usuarios de la aplicación y mantén conversaciones sobre la marcha.
+Una novedad de la aplicación universal es la [función de comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), que ya reconocerá en la misma forma de Base. Anota tus comentarios o información adicional en los registros de datos de otros usuarios de la aplicación y mantén conversaciones sobre la marcha.
 
 {{< warning headline="Es bueno saberlo" text="Los comentarios en la aplicación son completamente **independientes** de los comentarios en la base. Esto significa que cada comentario solo es visible donde se publica." />}}
 
@@ -69,7 +69,7 @@ Además, el **color de fondo** de las páginas individuales se puede configurar 
 
 ### Autorizaciones en páginas de tablas
 
-La herencia de [autorizaciones de columna](https://seatable.io/es/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) de la base se suprime con SeaTable 4.3. Si desea bloquear la edición de una columna en la aplicación universal, puede establecerla como **"solo lectura"** en la configuración de [la página de la tabla](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/).
+La herencia de [autorizaciones de columna]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) de la base se suprime con SeaTable 4.3. Si desea bloquear la edición de una columna en la aplicación universal, puede establecerla como **"solo lectura"** en la configuración de [la página de la tabla](https://seatable.io/es/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/).
 
 También se han eliminado todas las restricciones para [las acciones de los botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Ahora todos los usuarios de la aplicación pueden realizar cambios predefinidos en los registros de datos, aunque las columnas afectadas estén bloqueadas para ellos y el usuario no esté autorizado a editar la página.
 

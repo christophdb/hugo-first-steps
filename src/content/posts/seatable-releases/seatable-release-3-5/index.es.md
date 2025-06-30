@@ -14,11 +14,11 @@ April hace lo que quiere - ¡pero SeaTable hace lo que usted quiere! La versión
 
 Con esta versión, también publicamos un nuevo App Builder en versión beta. Con el Universal App Builder, se pueden crear aplicaciones para una gran variedad de casos de uso y grupos de usuarios sin necesidad de conocimientos de programación. Por el momento, nuestro equipo de desarrollo todavía está afinándolo, pero incluso el anticipo hace que quieras más. Esperamos sus comentarios.
 
-Esta mañana hemos actualizado SeaTable Cloud a la versión 3.5. Todos los auto-alojadores pueden hacer lo mismo: La imagen SeaTable 3.5 está disponible para su descarga en el conocido [repositorioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como siempre, puede encontrar la lista completa de cambios en el [registro de cambios](https://seatable.io/docs/changelog/version-3-5/?lang=auto).
+Esta mañana hemos actualizado SeaTable Cloud a la versión 3.5. Todos los auto-alojadores pueden hacer lo mismo: La imagen SeaTable 3.5 está disponible para su descarga en el conocido [repositorioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como siempre, puede encontrar la lista completa de cambios en el [registro de cambios]({{< relref "pages/changelog" >}}?lang=auto).
 
 ## Fórmulas en la primera columna
 
-SeaTable 3.5 ofrece más flexibilidad en la primera columna de la tabla: Hasta ahora, sólo se permitían en ella los [tipos de]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) columna texto, número, fecha, selección única y número automático. El tipo de columna [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), que ahora también se admite, permite "calcular" su propia referencia de fila. Dado que la [primera](https://seatable.io/es/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) columna de una tabla no se puede ocultar y, además, se muestra siempre en el diálogo de enlace, resulta especialmente adecuada para este fin.
+SeaTable 3.5 ofrece más flexibilidad en la primera columna de la tabla: Hasta ahora, sólo se permitían en ella los [tipos de]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) columna texto, número, fecha, selección única y número automático. El tipo de columna [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), que ahora también se admite, permite "calcular" su propia referencia de fila. Dado que la [primera]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) columna de una tabla no se puede ocultar y, además, se muestra siempre en el diálogo de enlace, resulta especialmente adecuada para este fin.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
@@ -30,7 +30,7 @@ Las [automatizaciones]({{< relref "help/base-editor/automationen/funktionsweise-
 
 Ahora puede seleccionar las acciones "Añadir enlaces" y "Ejecutar operación de tratamiento de datos" para el activador periódico, además de las acciones "Enviar notificación", "Enviar correo electrónico", "Añadir fila" y "Ejecutar script Python". Estas dos acciones pueden utilizarse para realizar automáticamente todas las operaciones de tratamiento de datos que antes sólo podía realizar manualmente.
 
-Compruebe usted mismo lo que permiten las [operaciones de tratamiento de datos en SeaTable](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/).
+Compruebe usted mismo lo que permiten las [operaciones de tratamiento de datos en SeaTable]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
 ## Ejecución condicional de las acciones de los botones
 

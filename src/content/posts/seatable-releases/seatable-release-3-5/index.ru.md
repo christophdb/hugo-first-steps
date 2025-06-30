@@ -14,11 +14,11 @@ seo:
 
 В этом выпуске мы также публикуем новый конструктор приложений в виде бета-версии. С помощью Universal App Builder можно создавать приложения для самых разных случаев использования и групп пользователей без каких-либо знаний программирования. В настоящее время наша команда разработчиков все еще дорабатывает его, но даже предвкушение заставляет желать большего. Мы с нетерпением ждем ваших отзывов!
 
-Сегодня утром мы обновили SeaTable Cloud до версии 3.5. Все самостоятельные хостеры могут сделать то же самое: Образ SeaTable 3.5 доступен для загрузки из известного [репозиторияDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Как всегда, полный список изменений вы можете найти в [журнале изменений](https://seatable.io/docs/changelog/version-3-5/?lang=auto).
+Сегодня утром мы обновили SeaTable Cloud до версии 3.5. Все самостоятельные хостеры могут сделать то же самое: Образ SeaTable 3.5 доступен для загрузки из известного [репозиторияDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Как всегда, полный список изменений вы можете найти в [журнале изменений]({{< relref "pages/changelog" >}}?lang=auto).
 
 ## Формулы в первом столбце
 
-SeaTable 3.5 обеспечивает большую гибкость в первом столбце таблицы: До сих пор там допускались только [типы столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) текст, число, дата, одиночный выбор и автоматический номер. [Тип столбца формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), который теперь также поддерживается, позволяет "вычислить" собственную ссылку на строку. Поскольку [первый столбец](https://seatable.io/ru/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) таблицы не может быть скрыт, а также всегда отображается в диалоге ссылок, он особенно подходит для этой цели.
+SeaTable 3.5 обеспечивает большую гибкость в первом столбце таблицы: До сих пор там допускались только [типы столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) текст, число, дата, одиночный выбор и автоматический номер. [Тип столбца формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), который теперь также поддерживается, позволяет "вычислить" собственную ссылку на строку. Поскольку [первый столбец]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) таблицы не может быть скрыт, а также всегда отображается в диалоге ссылок, он особенно подходит для этой цели.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
@@ -30,7 +30,7 @@ Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften 
 
 Теперь вы можете выбрать действия "Добавить ссылки" и "Выполнить операцию обработки данных" для периодического триггера в дополнение к действиям "Отправить уведомление", "Отправить электронное письмо", "Добавить строку" и "Выполнить сценарий Python". Эти два действия можно использовать для автоматического выполнения всех операций по обработке данных, которые раньше можно было выполнить только вручную.
 
-Убедитесь сами, что возможно при [обработке данных в SeaTable](https://seatable.io/ru/docs/datenverarbeitung/datenverarbeitungsoperationen-in-seatable/).
+Убедитесь сами, что возможно при [обработке данных в SeaTable]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}).
 
 ## Условное выполнение действий кнопки
 

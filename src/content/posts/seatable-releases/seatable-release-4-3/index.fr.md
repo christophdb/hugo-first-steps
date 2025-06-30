@@ -45,7 +45,7 @@ Les utilisateurs de chaque application peuvent consulter leurs notifications en 
 
 ## Colonne des collaborateurs inter-équipes
 
-Dans la [colonne des collaborateurs](https://seatable.io/fr/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), il n'était jusqu'à présent possible de sélectionner que les personnes qui avaient déjà accès à la base en question. À partir de la version 4.3 de SeaTable, vous pouvez ajouter **tous les membres de votre équipe** dans les colonnes des collaborateurs, même s'ils n'ont pas accès à certaines bases. Il est ainsi beaucoup plus pratique d'attribuer des enregistrements à vos collaborateurs, indépendamment de leur droit d'accès.
+Dans la [colonne des collaborateurs]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), il n'était jusqu'à présent possible de sélectionner que les personnes qui avaient déjà accès à la base en question. À partir de la version 4.3 de SeaTable, vous pouvez ajouter **tous les membres de votre équipe** dans les colonnes des collaborateurs, même s'ils n'ont pas accès à certaines bases. Il est ainsi beaucoup plus pratique d'attribuer des enregistrements à vos collaborateurs, indépendamment de leur droit d'accès.
 
 Cette fonctionnalité est particulièrement utile dans l'application universelle. Vous pouvez activer l'option permettant à tous les utilisateurs de voir les membres de l'équipe dans la liste déroulante dans les [paramètres](https://seatable.io/fr/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) de l'application universelle. Si vous ne souhaitez pas que les utilisateurs puissent voir les enregistrements des autres, définissez **des filtres prédéfinis**: si une page est filtrée par colonne de collaborateurs avec la condition "inclut l'utilisateur actuel", chaque utilisateur de l'application universelle ne verra que les enregistrements qui lui sont attribués dans le tableau.
 
@@ -53,7 +53,7 @@ Cette fonctionnalité est particulièrement utile dans l'application universelle
 
 ## Autres améliorations de l'application universelle
 
-La [fonction de commentaire](https://seatable.io/fr/docs/arbeiten-mit-zeilen/zeilen-kommentieren/), que vous connaissez déjà sous la même forme dans la base, est une toute nouvelle fonctionnalité de l'application universelle. Consignez vos commentaires ou des informations supplémentaires sur les jeux de données pour les autres utilisateurs de l'application et menez des discussions sur place.
+La [fonction de commentaire]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), que vous connaissez déjà sous la même forme dans la base, est une toute nouvelle fonctionnalité de l'application universelle. Consignez vos commentaires ou des informations supplémentaires sur les jeux de données pour les autres utilisateurs de l'application et menez des discussions sur place.
 
 {{< warning headline="Bon à savoir" text="Les commentaires dans l'application sont complètement **indépendants** des commentaires dans la base. Cela signifie que chaque commentaire n'est visible que là où il est posté." />}}
 
@@ -69,7 +69,7 @@ De plus, à partir de la version 4.3 de SeaTable, la **couleur d'arrière-plan**
 
 ### Autorisations sur les pages de tableaux
 
-L'héritage des [autorisations de colonnes](https://seatable.io/fr/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) de la Base est supprimé dans SeaTable 4.3. Si vous souhaitez bloquer l'édition d'une colonne dans l'application universelle, vous pouvez à la place la définir **comme "en lecture seule"** dans les paramètres de la [page du tableau](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/).
+L'héritage des [autorisations de colonnes]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) de la Base est supprimé dans SeaTable 4.3. Si vous souhaitez bloquer l'édition d'une colonne dans l'application universelle, vous pouvez à la place la définir **comme "en lecture seule"** dans les paramètres de la [page du tableau](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/).
 
 De même, toutes les restrictions concernant les [actions sur les boutons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) sont levées. Tout utilisateur de l'application peut désormais effectuer des modifications prédéfinies sur les enregistrements, même si les colonnes concernées sont par ailleurs bloquées pour lui et que l'utilisateur n'est pas autorisé à modifier la page.
 

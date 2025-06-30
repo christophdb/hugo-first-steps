@@ -11,7 +11,7 @@ seo:
     description:
 ---
 
-Early builds of SeaTable 2.8 have been available for download from [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub for a few days now. The final build has been available for download since April 1. With today's update to SeaTable 2.8, we are pleased to make its many new features and improvements available in SeaTable Cloud as well. New features include a color-customizable title band and display of all active users in a base, column descriptions, and an improved formatted text editor. In addition, shared records can now be automatically synchronized and renamed. And these are just the highlights, which we present in more detail in these release notes. The complete list of changes can be found - as always - in the [changelog](https://seatable.io/docs/changelog/version-2-8/?lang=auto).
+Early builds of SeaTable 2.8 have been available for download from [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub for a few days now. The final build has been available for download since April 1. With today's update to SeaTable 2.8, we are pleased to make its many new features and improvements available in SeaTable Cloud as well. New features include a color-customizable title band and display of all active users in a base, column descriptions, and an improved formatted text editor. In addition, shared records can now be automatically synchronized and renamed. And these are just the highlights, which we present in more detail in these release notes. The complete list of changes can be found - as always - in the [changelog]({{< relref "pages/changelog" >}}?lang=auto).
 
 ## Coloured title ribbon
 
@@ -66,7 +66,7 @@ Until now, the data in an imported common data set could only be updated manuall
 
 There are numerous other improvements that deserve a mention. Here are the most important of them.
 
-The formula column knows two new formulas: Small() and Large() find the x-smallest or x-largest value in a column. (More in the [formula reference](https://seatable.io/en/docs/handbuch/expertenwissen/formelreferenz/).)
+The formula column knows two new formulas: Small() and Large() find the x-smallest or x-largest value in a column. (More in the [formula reference]({{< relref "help/base-editor/formeln/formelreferenz" >}}).)
 
 For columns and groupings, the median can now be calculated in addition to the sum, the average and the extreme values.
 

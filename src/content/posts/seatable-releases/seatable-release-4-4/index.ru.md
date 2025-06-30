@@ -28,7 +28,7 @@ seo:
 
 ### Перетаскивание в календарь
 
-До сих пор не было возможности изменять встречи на [странице календаря](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/). SeaTable 4.4 предоставляет вам больше возможностей. Теперь вы можете удобно перемещать встречи в календаре с помощью перетаскивания. Вы также можете редактировать значения в соответствующих [столбцах даты](https://seatable.io/ru/docs/datum-dauer-und-personen/die-datum-spalte/) через детали строки, если у вас есть необходимые [полномочия](https://seatable.io/ru/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/).
+До сих пор не было возможности изменять встречи на [странице календаря](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps/). SeaTable 4.4 предоставляет вам больше возможностей. Теперь вы можете удобно перемещать встречи в календаре с помощью перетаскивания. Вы также можете редактировать значения в соответствующих [столбцах даты]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) через детали строки, если у вас есть необходимые [полномочия](https://seatable.io/ru/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/).
 
 ### Упрощенная обработка данных на странице таблицы
 
@@ -38,7 +38,7 @@ seo:
 
 ### Колонка сотрудника доступна на страницах форм
 
-Если вы используете [столбец сотрудников](https://seatable.io/ru/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) в таблице, он **недоступен** в [веб-формах]({{< relref "help/base-editor/webformulare" >}}). Однако, начиная с версии SeaTable 4.4, вы можете добавлять колонки сотрудников на [страницы форм](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) в универсальном приложении. Например, члены вашей команды могут выбрать себя для запроса на отпуск, и больше не придется вводить их имена вручную. Сначала необходимо активировать опцию отображения списка сотрудников в [настройках приложения](https://seatable.io/ru/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+Если вы используете [столбец сотрудников]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) в таблице, он **недоступен** в [веб-формах]({{< relref "help/base-editor/webformulare" >}}). Однако, начиная с версии SeaTable 4.4, вы можете добавлять колонки сотрудников на [страницы форм](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps/) в универсальном приложении. Например, члены вашей команды могут выбрать себя для запроса на отпуск, и больше не придется вводить их имена вручную. Сначала необходимо активировать опцию отображения списка сотрудников в [настройках приложения](https://seatable.io/ru/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
 
 ### Больше возможностей для настройки отдельных страниц
 
@@ -82,7 +82,7 @@ SeaTable 4.4 делает [импорт таблиц Excel]({{< relref "help/sta
 
 ## Значения по умолчанию применяются везде
 
-В версии 4.4 SeaTable обобщает использование [значений по умолчанию](https://seatable.io/ru/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Когда вы создаете новую строку, будь то в таблице базы или приложения, через [колонку ссылок]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [веб-форму]({{< relref "help/base-editor/webformulare" >}}), [кнопку]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) или [автоматизацию]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), значения по умолчанию применяются везде при создании строки. Ранее значения по умолчанию применялись только при создании новой строки в таблице вручную.
+В версии 4.4 SeaTable обобщает использование [значений по умолчанию]({{< relref "help/base-editor/spalten/standardwert-fuer-eine-spalte-festlegen" >}}). Когда вы создаете новую строку, будь то в таблице базы или приложения, через [колонку ссылок]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [веб-форму]({{< relref "help/base-editor/webformulare" >}}), [кнопку]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) или [автоматизацию]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), значения по умолчанию применяются везде при создании строки. Ранее значения по умолчанию применялись только при создании новой строки в таблице вручную.
 
 Поскольку область значений по умолчанию значительно расширилась, мы также создали заметный пункт меню в опциях столбца, с помощью которого вы можете удобно устанавливать значения по умолчанию.
 

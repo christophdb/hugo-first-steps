@@ -45,7 +45,7 @@ Users of the respective app can access their notifications via the {{< seatable-
 
 ## Cross-team collaborator column
 
-In the collaborator [column](https://seatable.io/en/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/), it was previously only possible to select people who already had access to the respective base. As of SeaTable 4.3, you can enter **all members of your team** in collaborator columns, even if they do not have access to certain bases. This makes it much easier to assign data records to your employees regardless of their access authorization.
+In the collaborator [column]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), it was previously only possible to select people who already had access to the respective base. As of SeaTable 4.3, you can enter **all members of your team** in collaborator columns, even if they do not have access to certain bases. This makes it much easier to assign data records to your employees regardless of their access authorization.
 
 This functionality is particularly useful in the universal app. You can activate the option for team members to be visible to all users in the drop-down list in the Universal app [settings](https://seatable.io/en/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/). If you do not want users to be able to see the data records of other users, define **preset filters**: If a page is filtered by a collaborator column with the condition "includes current user", each user of the universal app only sees the records that are assigned to them in the table.
 
@@ -53,7 +53,7 @@ This functionality is particularly useful in the universal app. You can activate
 
 ## Further improvements to the universal app
 
-A brand new feature in the Universal app is the [comment function](https://seatable.io/en/docs/arbeiten-mit-zeilen/zeilen-kommentieren/), which you already know in the same form from your bases. Record your feedback or additional information on the data records for other app users and hold discussions on the spot.
+A brand new feature in the Universal app is the [comment function]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), which you already know in the same form from your bases. Record your feedback or additional information on the data records for other app users and hold discussions on the spot.
 
 {{< warning headline="Good to know" text="The comments in the app are completely **independent** of the comments in the base. This means that each comment is only visible where it is posted." />}}
 
@@ -69,7 +69,7 @@ In addition, as of SeaTable 4.3, the **background color** of custom pages can be
 
 ### Authorizations on table pages
 
-The inheritance of [column permissions](https://seatable.io/en/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) from the base is abolished with SeaTable 4.3. If you want to lock a column in the Universal App for editing, you can set it to **"read-only"** in the [table page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) settings instead.
+The inheritance of [column permissions]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) from the base is abolished with SeaTable 4.3. If you want to lock a column in the Universal App for editing, you can set it to **"read-only"** in the [table page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) settings instead.
 
 All restrictions for [button actions]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) have also been removed. Every app user can now make predefined changes to the data records, even if the affected columns are otherwise locked for them and the user is not authorized to edit the page.
 
