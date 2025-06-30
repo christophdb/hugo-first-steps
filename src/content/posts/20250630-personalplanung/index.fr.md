@@ -26,19 +26,19 @@ La planification du personnel est un élément central de la politique stratégi
 
 La planification du personnel ne consiste donc pas seulement à gérer les collaborateurs, mais aussi à adopter une orientation stratégique qui garantit le succès à long terme. Mais quels sont les tâches et les objectifs de la planification des ressources humaines ? Nous allons d'abord examiner de plus près des exemples issus des différents domaines partiels.
 
-* **Planification des effectifs:** La première étape d'une planification réussie des effectifs est l'inventaire. Vous déterminez ici combien de personnes travaillent actuellement dans votre entreprise, quelles sont leurs qualifications et où se situent les éventuelles lacunes.
-* **Planification des besoins en personnel:** Il s'agit ici de déterminer le nombre de collaborateurs dont vous aurez besoin à l'avenir et leurs qualifications. Les fluctuations saisonnières, les projets et les objectifs à long terme de l'entreprise jouent ici un rôle décisif.
-* **Planification de l'affectation du personnel:** La planification de l'affectation veille à ce que vos collaborateurs soient au bon endroit au bon moment. Un plan de service efficace, qui planifie l'affectation du personnel, est à cet égard essentiel.
-* **Développement du personnel:** Vos collaborateurs sont votre capital le plus important. Grâce à des formations continues et des mesures de développement ciblées, vous encouragez les talents, fidélisez le personnel qualifié et assurez votre compétitivité à long terme.
-* **Recrutement:** Dans le domaine du recrutement, tout tourne autour de l'embauche de nouveaux collaborateurs. Pour cela, il ne suffit plus aujourd'hui de publier une annonce d'emploi. Vous devez vous mettre activement à la recherche de candidats potentiels et les enthousiasmer.
-* **Planification du dégagement du personnel:** Il n'est pas toujours possible d'éviter les surcapacités en personnel. Qu'il s'agisse de fluctuations saisonnières, de restructurations ou de crises économiques, les licenciements sont parfois inévitables. Une planification professionnelle des licenciements permet de garantir que ces processus se déroulent de manière équitable et transparente.
-* **Coûts du personnel:** Aucune planification du personnel ne fonctionne sans garder un œil sur les coûts. Il s'agit ici de trouver un équilibre sain entre les investissements dans le personnel et la rentabilité de l'entreprise.
-  
+- **Planification des effectifs:** La première étape d'une planification réussie des effectifs est l'inventaire. Vous déterminez ici combien de personnes travaillent actuellement dans votre entreprise, quelles sont leurs qualifications et où se situent les éventuelles lacunes.
+- **Planification des besoins en personnel:** Il s'agit ici de déterminer le nombre de collaborateurs dont vous aurez besoin à l'avenir et leurs qualifications. Les fluctuations saisonnières, les projets et les objectifs à long terme de l'entreprise jouent ici un rôle décisif.
+- **Planification de l'affectation du personnel:** La planification de l'affectation veille à ce que vos collaborateurs soient au bon endroit au bon moment. Un plan de service efficace, qui planifie l'affectation du personnel, est à cet égard essentiel.
+- **Développement du personnel:** Vos collaborateurs sont votre capital le plus important. Grâce à des formations continues et des mesures de développement ciblées, vous encouragez les talents, fidélisez le personnel qualifié et assurez votre compétitivité à long terme.
+- **Recrutement:** Dans le domaine du recrutement, tout tourne autour de l'embauche de nouveaux collaborateurs. Pour cela, il ne suffit plus aujourd'hui de publier une annonce d'emploi. Vous devez vous mettre activement à la recherche de candidats potentiels et les enthousiasmer.
+- **Planification du dégagement du personnel:** Il n'est pas toujours possible d'éviter les surcapacités en personnel. Qu'il s'agisse de fluctuations saisonnières, de restructurations ou de crises économiques, les licenciements sont parfois inévitables. Une planification professionnelle des licenciements permet de garantir que ces processus se déroulent de manière équitable et transparente.
+- **Coûts du personnel:** Aucune planification du personnel ne fonctionne sans garder un œil sur les coûts. Il s'agit ici de trouver un équilibre sain entre les investissements dans le personnel et la rentabilité de l'entreprise.
+
 ## Les dimensions de la planification des ressources humaines
 
 En matière de planification du personnel, il existe des modèles qui se distinguent fondamentalement les uns des autres. Qu'il s'agisse d'approches de planification opérationnelle ou stratégique, quantitative ou qualitative, elles permettent aux entreprises de répondre aux exigences et de relever les défis.
 
-![La planification stratégique crée la sécurité](langfristige-ziele.jpg)
+![La planification stratégique crée la sécurité](langfristige-ziele-personal.jpg)
 
 La différence entre la planification opérationnelle et stratégique des ressources humaines réside principalement dans l'horizon temporel et la focalisation. La **planification stratégique du personnel vise des objectifs à long terme**, généralement avec un horizon de planification de 5 à 10 ans. Elle est influencée par des facteurs externes tels que les tendances du marché, les développements technologiques et l'environnement concurrentiel. Sa mission est d'aborder les défis futurs de manière proactive et de prendre des décisions globales qui renforcent durablement l'entreprise.
 
@@ -55,9 +55,10 @@ La planification du personnel n'est pas une affaire d'intuition - elle repose su
 ![Les coûts de personnel toujours sous la loupe](personal-berechnen.jpg)
 
 ### 1. déterminer les besoins d'intervention
+
 La première étape consiste à calculer le besoin d'intervention. Celui-ci indique la charge de travail totale à gérer et le nombre de collaborateurs dont vous avez besoin pour effectuer ce travail. Cela signifie que vous divisez la charge de travail totale en temps par le nombre d'heures de travail qu'un collaborateur peut effectuer en moyenne.
 
-*Besoin d'intervention = charge de travail totale / temps de travail par collaborateur*.
+_Besoin d'intervention = charge de travail totale / temps de travail par collaborateur_.
 
 {{< warning headline="Remarque" text="La saisie des temps et la planification du personnel devraient aller de pair, car une saisie précise des heures de travail constitue la base d'une planification prévoyante et efficace. Ce n'est que lorsque vous disposez de données actualisées sur le temps nécessaire que vous pouvez évaluer correctement la charge de travail totale." />}}
 
@@ -65,31 +66,31 @@ La première étape consiste à calculer le besoin d'intervention. Celui-ci indi
 
 Ensuite, vous devez déterminer le facteur de temps de répartition pour calculer le besoin de réserve. Le facteur de temps de répartition prend en compte toutes les absences telles que les vacances, la maladie ou d'autres retards dans le processus de travail. Ici, vous additionnez toutes les absences (par exemple pour cause de maladie, de vacances ou de jours fériés) et vous les divisez par les jours de travail réels (les jours de travail réels sans les absences). Le résultat indique le pourcentage de temps de travail perdu à cause des absences.
 
-*Facteur de temps de travail distribué (%) = absences / jours de travail réels x 100*.
+_Facteur de temps de travail distribué (%) = absences / jours de travail réels x 100_.
 
 ### 3. calculer les besoins en réserve
 
 Le besoin en réserve garantit que même en cas d'absence, il y a suffisamment de collaborateurs disponibles pour faire face à la charge de travail. Il est calculé en multipliant le besoin en intervention par le facteur de temps de distribution :
 
-*besoin de réserve = besoin d'intervention x facteur de temps de distribution*.
+_besoin de réserve = besoin d'intervention x facteur de temps de distribution_.
 
 ### 4. calculer les besoins bruts en personnel
 
 Vous avez maintenant réuni toutes les valeurs importantes pour les besoins bruts en personnel. Il s'agit de la somme des besoins en intervention et des besoins en réserve. Il montre combien de collaborateurs sont nécessaires au total pour couvrir la charge de travail ainsi que la réserve pour les absences.
 
-*Besoins bruts en personnel = besoins d'intervention + besoins de réserve*.
+_Besoins bruts en personnel = besoins d'intervention + besoins de réserve_.
 
 ### 5. calculer l'effectif mis à jour
 
 L'étape suivante consiste à calculer l'effectif mis à jour, qui montre combien de personnes sont actuellement dans l'entreprise après avoir pris en compte les entrées et les sorties. Pour ce faire, vous devez prendre en compte toutes les nouvelles entrées (par exemple, les embauches ou les retours de congé parental) ainsi que tous les départs (par exemple, les démissions ou les départs à la retraite).
 
-*Effectif mis à jour = effectif actuel + entrées fixes - sorties prévues*.
+_Effectif mis à jour = effectif actuel + entrées fixes - sorties prévues_.
 
 ### 6. calculer les besoins nets en personnel
 
 Enfin, calculez les besoins nets en personnel, qui vous indiquent combien de personnes vous devez encore embaucher ou licencier pour atteindre le niveau de personnel idéal.
 
-*Besoin net en personnel = besoin brut en personnel - effectif mis à jour*.
+_Besoin net en personnel = besoin brut en personnel - effectif mis à jour_.
 
 {{< warning headline="Remarque" text="Un résultat positif signifie que vous devez embaucher du personnel supplémentaire (déficit de personnel). Un résultat négatif signifie que vous pouvez réduire le personnel (excédent de personnel)." />}}
 
@@ -125,15 +126,15 @@ Pour un soutien rapide et flexible, il est en outre possible de faire appel à d
 
 Un taux élevé de rotation du personnel peut être coûteux pour les entreprises et mettre en péril la cohésion de l'équipe, la productivité et le succès à long terme. Cela est particulièrement problématique dans la planification du personnel, car les changements fréquents compliquent la planification à long terme et nécessitent des ressources supplémentaires pour le recrutement et la formation. Il existe toutefois de nombreuses mesures que les entreprises peuvent prendre pour éviter le turnover. Vous trouverez ci-dessous quelques approches précieuses qui aident à renforcer la fidélisation du personnel et à promouvoir une collaboration stable à long terme.
 
-* **Rémunération basée sur la réussite:** Récompensez les bonnes performances de manière ciblée afin d'encourager la reconnaissance et la motivation.
-* **Compétences:** Une répartition claire des rôles apporte sécurité et orientation.
-* **Un environnement de travail agréable:** Un lieu de travail bien aménagé augmente le bien-être et la productivité.
-* **Souplesse de planification:** Des horaires ou des lieux de travail flexibles permettent un meilleur équilibre entre vie professionnelle et vie privée.
-* **Promotion des qualifications:** Offrez des opportunités de développement afin d'encourager le potentiel de vos collaborateurs.
-* **Teambuilding:** Renforcez la cohésion par des activités communes et une culture d'entreprise ouverte.
-* **Responsabilité personnelle:** Donnez des responsabilités et faites confiance à vos collaborateurs pour prendre des décisions de manière autonome.
-* **Rétroaction positive:** Une reconnaissance et des félicitations régulières pour un travail bien fait motivent et renforcent les liens.
-  
+- **Rémunération basée sur la réussite:** Récompensez les bonnes performances de manière ciblée afin d'encourager la reconnaissance et la motivation.
+- **Compétences:** Une répartition claire des rôles apporte sécurité et orientation.
+- **Un environnement de travail agréable:** Un lieu de travail bien aménagé augmente le bien-être et la productivité.
+- **Souplesse de planification:** Des horaires ou des lieux de travail flexibles permettent un meilleur équilibre entre vie professionnelle et vie privée.
+- **Promotion des qualifications:** Offrez des opportunités de développement afin d'encourager le potentiel de vos collaborateurs.
+- **Teambuilding:** Renforcez la cohésion par des activités communes et une culture d'entreprise ouverte.
+- **Responsabilité personnelle:** Donnez des responsabilités et faites confiance à vos collaborateurs pour prendre des décisions de manière autonome.
+- **Rétroaction positive:** Une reconnaissance et des félicitations régulières pour un travail bien fait motivent et renforcent les liens.
+
 ## Conseils pour une planification du personnel réussie dans votre entreprise
 
 ![Les outils numériques facilitent la planification](personal-planen.jpg)
@@ -156,7 +157,7 @@ A première vue, Excel est une solution solide pour calculer les besoins en pers
 
 {{< template id="e3d0d9a9139c46c58bf0" >}}
 
-Si vous souhaitez optimiser la planification de votre personnel, le choix du bon outil est un point très important. Les outils traditionnels de planification du personnel peuvent manquer de flexibilité, surtout lorsqu'il s'agit d'une adaptation dynamique. Dans le domaine de la planification du personnel, un logiciel comme SeaTable est donc un excellent moyen de combiner des calculs de formules complexes avec une gestion intelligente des données. Vous pouvez par exemple utiliser un modèle gratuit pour votre planification du personnel et l'adapter de manière flexible à vos propres besoins. De plus, grâce au No Code App Builder intégré, vous pouvez rendre votre planification du personnel encore plus intuitive et claire dans une application.   
+Si vous souhaitez optimiser la planification de votre personnel, le choix du bon outil est un point très important. Les outils traditionnels de planification du personnel peuvent manquer de flexibilité, surtout lorsqu'il s'agit d'une adaptation dynamique. Dans le domaine de la planification du personnel, un logiciel comme SeaTable est donc un excellent moyen de combiner des calculs de formules complexes avec une gestion intelligente des données. Vous pouvez par exemple utiliser un modèle gratuit pour votre planification du personnel et l'adapter de manière flexible à vos propres besoins. De plus, grâce au No Code App Builder intégré, vous pouvez rendre votre planification du personnel encore plus intuitive et claire dans une application.
 
 La plateforme No-Code SeaTable est personnalisable et offre la possibilité de créer rapidement des solutions sur mesure grâce à son principe modulaire et à son interface conviviale. Des fonctions telles que la saisie du temps de travail, [Embarquement]({{< relref "posts/20250324-onboarding-prozess" >}}) et [demandes de congé]({{< relref "posts/20250324-urlaubsplanung" >}}) vous pouvez facilement les combiner et les étendre pour créer votre propre solution tout-en-un conforme au RGPD. [S'inscrire]({{< relref "pages/registration" >}}) Inscrivez-vous gratuitement et découvrez les nombreuses possibilités qu'offre SeaTable pour la planification de votre personnel.
 
@@ -176,17 +177,15 @@ Le meilleur outil pour la planification du personnel dépend de vos besoins. Exc
 
 Vous avez besoin des 6 formules suivantes pour calculer les besoins en personnel :
 
-* besoin d'intervention = charge de travail totale / temps de travail par employé*.
+- besoin d'intervention = charge de travail totale / temps de travail par employé\*.
 
-* Facteur de temps de travail réparti (%) = absences / jours de travail réels x 100*.
+- Facteur de temps de travail réparti (%) = absences / jours de travail réels x 100\*.
 
-* besoin de réserve = besoin d'intervention x facteur de temps de répartition*.
+- besoin de réserve = besoin d'intervention x facteur de temps de répartition\*.
 
-* besoin en personnel brut = besoin d'intervention + besoin de réserve*.
+- besoin en personnel brut = besoin d'intervention + besoin de réserve\*.
 
-* Effectif mis à jour = effectif actuel + entrées fixes - sorties prévues*.
+- Effectif mis à jour = effectif actuel + entrées fixes - sorties prévues\*.
 
-* besoins nets en personnel = besoins bruts en personnel - effectif mis à jour*.
-{{< /faq >}}
-
-
+- besoins nets en personnel = besoins bruts en personnel - effectif mis à jour\*.
+  {{< /faq >}}

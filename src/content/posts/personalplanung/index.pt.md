@@ -3,11 +3,12 @@ title: 'Planeamento de pessoal sem modelo Excel'
 date: 2022-07-15
 lastmod: '2022-07-27'
 author: 'cdb'
-url: '/pt/personalplanung'
+url: '/pt/personalplanung-draft'
 color: '#eeeeee'
 seo:
     title:
     description:
+draft: true
 ---
 
 Planeamento de pessoal? Utilizo um modelo Excel. Gratuito é o melhor. Basta descarregá-lo da Internet e já está. É assim que muitos departamentos de RH ainda o vêem - o que é tudo menos sensato para um planeamento óptimo do pessoal, dos turnos e das férias. Porque embora o planeamento de pessoal com Excel seja generalizado, é também extremamente pesado e sujeito a erros. Mas como pode o **planeamento de** RH ter sucesso sem um **modelo Excel**, que também é **gratuito**?
