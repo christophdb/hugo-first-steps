@@ -23,20 +23,20 @@ Ambas as acções são feitas através do diálogo de **acções** - uma janela 
 Se quiser partilhar uma das suas bases, tem uma escolha de opções, dependendo de com quem a quer partilhar:
 
 - [Lançamento para utilizadores]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Lançamento para grupo](https://seatable.io/pt/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Lançamento para grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Lançamento através de link de convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Lançamento através de ligação externa](https://seatable.io/pt/docs/freigabelinks/externer-link-erklaert/)
+- [Lançamento através de ligação externa]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
 ### Partilha personalizada
 
-Se não quiser partilhar uma base inteira, mas apenas partes dela, isso também é naturalmente possível. A [partilha personalizada](https://seatable.io/pt/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) permite-lhe partilhar várias tabelas e opiniões ao mesmo tempo e enviá-las agrupadas a membros da equipa ou grupos inteiros.
+Se não quiser partilhar uma base inteira, mas apenas partes dela, isso também é naturalmente possível. A [partilha personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) permite-lhe partilhar várias tabelas e opiniões ao mesmo tempo e enviá-las agrupadas a membros da equipa ou grupos inteiros.
 
 ## Libertação de uma vista
 
 Se quiser partilhar apenas uma visão única, a partilha pode ser feita a três grupos de pessoas:
 
 - [Lançamento a um membro da equipa]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Libertação para um grupo](https://seatable.io/pt/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
+- [Libertação para um grupo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Lançamento através de ligação externa]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Para mais informações, ver também o artigo [Base e ver os comunicados]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) num relance.

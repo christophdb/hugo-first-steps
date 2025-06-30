@@ -28,16 +28,16 @@ CSV - это широко используемый формат обмена д�
 
 Другим источником, из которого можно подавать данные в SeaTable, является Microsoft Access.
 
-[Узнайте, как импортировать данные из Microsoft Access.](https://seatable.io/ru/docs/import-von-daten/daten-import-aus-microsoft-access-in-seatable/)
+[Узнайте, как импортировать данные из Microsoft Access.]({{< relref "help/startseite/import-von-daten/daten-import-aus-microsoft-access-in-seatable" >}})
 
 ## Импорт данных из Google Sheets
 
 Вы также можете импортировать данные из Google Sheets в SeaTable.
 
-[Узнайте, как импортировать данные из Google Sheets.](https://seatable.io/ru/docs/import-von-daten/daten-import-aus-google-sheets-in-seatable/)
+[Узнайте, как импортировать данные из Google Sheets.]({{< relref "help/startseite/import-von-daten/daten-import-aus-google-sheets-in-seatable" >}})
 
 ## Импорт данных с помощью DTABLE
 
-Базы SeaTable могут быть экспортированы в [формат файла DTABLE](https://seatable.io/ru/docs/expertenwissen/dtable-dateiformat/) - и с таким файлом DTABLE вы, конечно, можете снова создать базу в SeaTable.
+Базы SeaTable могут быть экспортированы в [формат файла DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) - и с таким файлом DTABLE вы, конечно, можете снова создать базу в SeaTable.
 
 [Узнайте больше об импорте данных с помощью DTABLE.]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

@@ -38,9 +38,9 @@ Jede Freigabe, unabhängig von der vergebenen Berechtigung, lässt sich durch de
 Die Freigabe einer Base kann an verschiedene Personenkreise erfolgen:
 
 - [Freigabe für Benutzer]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Freigabe für Gruppe](https://seatable.io/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Freigabe für Gruppe]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Freigabe via Einladungs-Link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Freigabe via externem Link](https://seatable.io/docs/freigabelinks/externer-link-erklaert/)
+- [Freigabe via externem Link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
 Mit einer Freigabe an einen Benutzer bzw. an eine Gruppe geben Sie die Base **innerhalb Ihres Teams** frei. Bei der Freigabe per Einladungs-Link können Sie Personen **außerhalb Ihres Teams** (aber innerhalb von SeaTable) Zugriff auf eine Base gewähren. Über den externen Link geben Sie Bases oder Ansichten extern frei, egal ob jemand ein SeaTable Konto besitzt oder nicht.
 
@@ -56,7 +56,7 @@ Eine bestehende Freigabe an einen Benutzer oder eine Gruppe kann jederzeit über
 
 ## Freigaben für Tabellen
 
-Wenn Sie keine ganze Base, sondern nur [einzelne Tabellen freigeben]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) möchten, geht das natürlich auch. Die [benutzerdefinierte Freigabe](https://seatable.io/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) ermöglicht es Ihnen, mehrere Tabellen und Ansichten gleichzeitig freizugeben und an Teammitglieder oder ganze Gruppen zu versenden.
+Wenn Sie keine ganze Base, sondern nur [einzelne Tabellen freigeben]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) möchten, geht das natürlich auch. Die [benutzerdefinierte Freigabe]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) ermöglicht es Ihnen, mehrere Tabellen und Ansichten gleichzeitig freizugeben und an Teammitglieder oder ganze Gruppen zu versenden.
 
 ## Freigaben für Ansichten
 
@@ -67,7 +67,7 @@ Die Freigabe einer Ansicht erstellen Sie in der geöffneten Tabelle. Wenn Sie si
 Anschließend landen Sie im bekannten **Freigeben-Dialog**, indem Sie genauso wie bei den Bases auch Ihre Ansichtsfreigaben anlegen können. Die Freigabe einer Ansicht kann an drei Personenkreise erfolgen:
 
 - [Freigabe an ein Teammitglied]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Freigabe an eine Gruppe](https://seatable.io/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
+- [Freigabe an eine Gruppe]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Freigabe via externem Link]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Sobald Sie bei einer Freigabe-Option auf die Schaltfläche **Abschicken** klicken, kann die ausgewählte Person oder Gruppe mit der erteilten Berechtigung auf die Ansicht zugreifen. Um eine Ansicht an mehrere Benutzer oder Gruppen freizugeben, wiederholen Sie diesen Vorgang.

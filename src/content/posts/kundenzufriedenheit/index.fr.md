@@ -20,7 +20,7 @@ Pour pouvoir améliorer la satisfaction des clients, vous devez connaître leur 
 
 Quelle que soit la méthode que vous choisissez, vous avez toujours besoin d'un outil pour recueillir, mesurer et évaluer le feedback des clients. Ce processus doit être simple et pouvoir être répété à tout moment sans grand effort. En même temps, l'évaluation doit rester claire, même en cas de grandes quantités de données. Cette évaluation est souvent appelée _User Experience Research_ ou _UX Research_.
 
-Avec SeaTable, nous vous fournissons l'outil idéal. SeaTable vous aide à collecter des informations grâce à [des formulaires web](https://seatable.io/fr/docs/handbuch/datenmanagement/webformulare/) faciles à partager et à évaluer et hiérarchiser les commentaires des clients grâce à des [fonctions statistiques](https://seatable.io/fr/docs/handbuch/datenmanagement/statistiken/). Nous avons même préparé un [modèle]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) pour vous donner une première inspiration et vous permettre de réaliser les trois étapes suivantes. N'hésitez pas à y jeter un coup d'œil.
+Avec SeaTable, nous vous fournissons l'outil idéal. SeaTable vous aide à collecter des informations grâce à [des formulaires web]({{< relref "help/base-editor/webformulare" >}}) faciles à partager et à évaluer et hiérarchiser les commentaires des clients grâce à des [fonctions statistiques]({{< relref "help/base-editor/statistiken" >}}). Nous avons même préparé un [modèle]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) pour vous donner une première inspiration et vous permettre de réaliser les trois étapes suivantes. N'hésitez pas à y jeter un coup d'œil.
 
 ## Étape 1 : Collecter des données sur la satisfaction des clients
 

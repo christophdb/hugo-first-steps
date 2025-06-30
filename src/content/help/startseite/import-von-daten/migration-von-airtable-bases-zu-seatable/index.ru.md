@@ -35,8 +35,6 @@ url: '/ru/pomoshch/migration-von-airtable-bases-zu-seatable'
 server_url = 'https://cloud.seatable.io'
 api_token = '...'
 # Add an API token of the SeaTable base
-# See https://seatable.io/docs/en/seatable-api/erzeugen-eines-api-tokens/
-# for more information on how to create a SeaTable API token
 
 # Airtable - Source
 airtable_personal_access_token = '...'
@@ -137,7 +135,7 @@ else:
 
 ### 3\. укажите URL-адрес сервера SeaTable и API-токен базы
 
-Добавьте URL-адрес сервера SeaTable в комментарий **SeaTable - Destination** и введите [API-токен](https://seatable.io/ru/docs/seatable-api/erzeugen-eines-api-tokens/). API-токен должен предоставлять права на чтение и запись. Если вы используете SeaTable Cloud, то правильным будет предварительно заполненный URL "https://cloud.seatable.io". Если вы используете другой сервер SeaTable, введите его URL. (URL всегда должен вводиться с https:// или http://.) URL и маркер должны быть заключены в одинарные инвертированные запятые.
+Добавьте URL-адрес сервера SeaTable в комментарий **SeaTable - Destination** и введите [API-токен]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}). API-токен должен предоставлять права на чтение и запись. Если вы используете SeaTable Cloud, то правильным будет предварительно заполненный URL "https://cloud.seatable.io". Если вы используете другой сервер SeaTable, введите его URL. (URL всегда должен вводиться с https:// или http://.) URL и маркер должны быть заключены в одинарные инвертированные запятые.
 
 Это пример конфигурации для импорта данных в базу в SeaTable Cloud:  
 ![](images/SeaTable_Server_URL_and_API_Token.png)

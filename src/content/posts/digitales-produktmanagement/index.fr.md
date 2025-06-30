@@ -30,7 +30,7 @@ D'autre part, il existe également d'autres caractéristiques de produits qui ne
 
 ### Plus de clarté avec le double regroupement
 
-Pour créer une meilleure vue d'ensemble au sein du catalogue, nous utilisons la [fonction de regroupement](https://seatable.io/fr/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) multiple de SeaTable. Vous pouvez ainsi classer et structurer vos données à votre guise : Par exemple, par série et gamme de qualité, ou comme dans notre modèle, par série de produits et type de produit.
+Pour créer une meilleure vue d'ensemble au sein du catalogue, nous utilisons la [fonction de regroupement]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) multiple de SeaTable. Vous pouvez ainsi classer et structurer vos données à votre guise : Par exemple, par série et gamme de qualité, ou comme dans notre modèle, par série de produits et type de produit.
 
 ![Catalogue de produits pour la gestion numérique des produits](Catalogue_Overview.png)
 
@@ -56,7 +56,7 @@ Il en résulte un catalogue de produits très détaillé qui permet à chaque co
 
 ![](Product-Data_Overview.png)
 
-Dans notre exemple, nous avons directement créé des calculs pour la marge afin d'observer comment les différents produits se comportent dans la production. C'est très facile grâce à la [colonne de formules](https://seatable.io/fr/docs/handbuch/seatable-nutzen/feld-typen/) qui a permis de calculer d'abord la marge, puis la marge en pourcentage. Les chefs de produit et les collaborateurs peuvent ainsi voir d'un coup d'œil où en sont les différents produits.
+Dans notre exemple, nous avons directement créé des calculs pour la marge afin d'observer comment les différents produits se comportent dans la production. C'est très facile grâce à la [colonne de formules]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) qui a permis de calculer d'abord la marge, puis la marge en pourcentage. Les chefs de produit et les collaborateurs peuvent ainsi voir d'un coup d'œil où en sont les différents produits.
 
 Dans la partie droite de l'écran, vous voyez des liens vers les tableaux "Catalogue" et "Projects". Le premier lien sert à transmettre correctement certaines données de la fiche produit au catalogue, car certaines informations sont identiques. Le tableau "Product Data" sert de tableau principal ; chaque fois que des choses, comme le prix d'achat, y sont modifiées, ces valeurs sont automatiquement modifiées dans le catalogue grâce au lien. De cette manière, les prix d'achat ne doivent plus être modifiés manuellement.
 
@@ -95,7 +95,7 @@ Les magasins sont ainsi représentés géographiquement et donnent des informati
 
 ### Des statistiques pour une vision claire des données
 
-Les chiffres de vente constituent le cœur de ce tableau et sont extrêmement importants pour la gestion des produits numériques. Les chiffres transmis chaque mois permettent des analyses approfondies. Pour le premier et le deuxième trimestre, les chiffres corrects ont déjà été calculés à l'aide d'une colonne de formules afin de pouvoir mieux comparer les évolutions des magasins. À l'aide de vos propres statistiques SeaTable, vous pouvez créer [des statistiques](https://seatable.io/fr/docs/handbuch/seatable-nutzen/statistiken/) précieuses et pertinentes qui structurent vos données de manière instructive et visuelle.
+Les chiffres de vente constituent le cœur de ce tableau et sont extrêmement importants pour la gestion des produits numériques. Les chiffres transmis chaque mois permettent des analyses approfondies. Pour le premier et le deuxième trimestre, les chiffres corrects ont déjà été calculés à l'aide d'une colonne de formules afin de pouvoir mieux comparer les évolutions des magasins. À l'aide de vos propres statistiques SeaTable, vous pouvez créer [des statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) précieuses et pertinentes qui structurent vos données de manière instructive et visuelle.
 
 Nous avons déjà créé quelques statistiques qui sont utiles pour l'évaluation des données de ce tableau. Les possibilités de sélection sont quasiment illimitées : En sélectionnant une vue selon le tableau, il est possible de créer des statistiques très personnalisées ; par exemple, si un magasin doit être analysé de manière ciblée, il est possible de créer une vue unique pour ce point de vente et de créer ensuite une statistique uniquement pour celui-ci.
 

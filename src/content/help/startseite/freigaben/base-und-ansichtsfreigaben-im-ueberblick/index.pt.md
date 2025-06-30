@@ -38,9 +38,9 @@ Cada libertação, independentemente da autorização atribuída, pode ser **ter
 A libertação de uma base pode ser feita a diferentes grupos de pessoas:
 
 - [Lançamento para utilizadores]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Lançamento para grupo](https://seatable.io/pt/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Lançamento para grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Lançamento através de link de convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Lançamento através de ligação externa](https://seatable.io/pt/docs/freigabelinks/externer-link-erklaert/)
+- [Lançamento através de ligação externa]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
 Ao partilhar com um utilizador ou grupo, partilha a base **dentro da sua equipa**. O link de partilha por convite permite-lhe dar acesso a uma base a pessoas **fora da sua equipa** (mas dentro da SeaTable). Com a ligação externa, partilha bases ou opiniões externamente, independentemente de alguém ter ou não uma conta SeaTable.
 
@@ -56,7 +56,7 @@ Uma libertação existente para um utilizador ou grupo pode ser prolongada ou re
 
 ## Lançamentos para tabelas
 
-Se não quiser [partilhar]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) uma base inteira, mas apenas [tabelas individuais]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}), isto também é naturalmente possível. A [partilha personalizada](https://seatable.io/pt/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) permite-lhe partilhar várias mesas e opiniões de uma só vez e enviá-las a membros de equipas ou grupos inteiros.
+Se não quiser [partilhar]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) uma base inteira, mas apenas [tabelas individuais]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}), isto também é naturalmente possível. A [partilha personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) permite-lhe partilhar várias mesas e opiniões de uma só vez e enviá-las a membros de equipas ou grupos inteiros.
 
 ## Aprovações para vistas
 
@@ -67,7 +67,7 @@ Cria-se a partilha de um ponto de vista na mesa aberta. Quando estiver na vista 
 Aterra então no **diálogo** familiar de partilha, onde também pode criar as suas partilhas de pontos de vista da mesma forma que para as bases. Um ponto de vista pode ser partilhado com três grupos de pessoas:
 
 - [Lançamento a um membro da equipa]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Libertação para um grupo](https://seatable.io/pt/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
+- [Libertação para um grupo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Lançamento através de ligação externa]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Assim que clicar no botão **Submeter** para uma opção de partilha, a pessoa ou grupo seleccionado pode aceder à vista com a permissão concedida. Para partilhar uma vista com vários utilizadores ou grupos, repita este processo.

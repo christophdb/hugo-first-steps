@@ -67,7 +67,7 @@ La base de gestion des tâches peut être entièrement utilisée comme base de t
 
 ### Communication d'équipe en un seul lieu
 
-SeaTable permet une communication directe au sein des tableaux, ce qui rend inutile la communication par e-mail en dehors de la base. Lorsqu'une ligne est ouverte, des collaborateurs peuvent être ajoutés à la discussion dans le [champ de commentaire](https://seatable.io/fr/docs/handbuch/zusammenarbeit/kommentare/) à droite et des remarques, questions ou feedback peuvent être envoyés. Ainsi, tous savent exactement à quelle tâche se rapporte une question et la communication est transparente, synchrone et compréhensible.
+SeaTable permet une communication directe au sein des tableaux, ce qui rend inutile la communication par e-mail en dehors de la base. Lorsqu'une ligne est ouverte, des collaborateurs peuvent être ajoutés à la discussion dans le [champ de commentaire]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) à droite et des remarques, questions ou feedback peuvent être envoyés. Ainsi, tous savent exactement à quelle tâche se rapporte une question et la communication est transparente, synchrone et compréhensible.
 
 ## Gestion des tâches avec le tableau Kanban
 
@@ -79,7 +79,7 @@ D'autres catégorisations sont également envisageables, par exemple en fonction
 
 ### Des vues individuelles pour chaque employé
 
-Pour les tableaux individuels de vos collaborateurs, il faut créer au préalable des [vues](https://seatable.io/fr/docs/handbuch/seatable-nutzen/ansichten/) spécifiques. Cela fonctionne très facilement en définissant un filtre dans lequel la colonne "Responsible" doit contenir le nom d'un collaborateur spécifique ("Responsible has any of XY"). Ainsi, tous les autres collègues disparaissent de la vue et seules les tâches de ce collaborateur sont affichées. Cette fonction est incluse dans toutes les licences et offre des possibilités de conception infinies. Si vous souhaitez par exemple ne créer une vue qu'avec des tâches ouvertes, la fonction de filtrage est par exemple "Status is not done".
+Pour les tableaux individuels de vos collaborateurs, il faut créer au préalable des [vues]({{< relref "help/base-editor/ansichten" >}}) spécifiques. Cela fonctionne très facilement en définissant un filtre dans lequel la colonne "Responsible" doit contenir le nom d'un collaborateur spécifique ("Responsible has any of XY"). Ainsi, tous les autres collègues disparaissent de la vue et seules les tâches de ce collaborateur sont affichées. Cette fonction est incluse dans toutes les licences et offre des possibilités de conception infinies. Si vous souhaitez par exemple ne créer une vue qu'avec des tâches ouvertes, la fonction de filtrage est par exemple "Status is not done".
 
 Les innombrables possibilités de filtrage offrent des vues hautement personnalisées de votre gestion des tâches et vous pouvez à tout moment adopter une autre perspective. L'avantage : les différentes vues sont toutes complètement indépendantes les unes des autres dans leur représentation. Un filtre dans la vue A n'influence pas la représentation dans la vue B. Cependant, la modification des données se fait toujours de manière synchrone et est immédiatement appliquée dans toutes les vues.
 

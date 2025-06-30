@@ -61,4 +61,4 @@ Nach Auslösung des Triggers wird die definierte Benachrichtigung automatisch an
 
 ### Weitere hilfreiche Artikel in der Rubrik Benachrichtigungen:
 
-- [Benachrichtigungsregeln bearbeiten und entfernen](https://seatable.io/docs/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen/)
+- [Benachrichtigungsregeln bearbeiten und entfernen]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen" >}})

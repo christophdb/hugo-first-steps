@@ -38,7 +38,7 @@ Esta tabela contém muitas informações: As colunas "Produto", "€" para o pre
 
 ## Encomendar bens com o formulário web integrado
 
-Com as suas colunas, a tabela também fornece a base para o [formulário Web](https://seatable.io/pt/docs/handbuch/seatable-nutzen/webformulare/) integrado para a organização do seu escritório. Para uma encomenda de material interno, os empregados seleccionam um produto da lista - esta é a coluna ligada "Produtos" do catálogo de produtos (Tabela 2). Depois disso, apenas introduzem a quantidade e o departamento em que trabalham, para que as encomendas permaneçam claras.
+Com as suas colunas, a tabela também fornece a base para o [formulário Web]({{< relref "help/base-editor/webformulare/webformulare" >}}) integrado para a organização do seu escritório. Para uma encomenda de material interno, os empregados seleccionam um produto da lista - esta é a coluna ligada "Produtos" do catálogo de produtos (Tabela 2). Depois disso, apenas introduzem a quantidade e o departamento em que trabalham, para que as encomendas permaneçam claras.
 
 ![Formulário de encomenda de material indirecto](bestellformular-indirektes-material.png)
 
@@ -80,7 +80,7 @@ Aqui está como funciona:
 
 ## Vistas individuais e Kanban fornecem uma melhor visão geral
 
-O SeaTable não seria uma solução óptima para a organização do escritório se não tivesse também uma função clara e prática para a gestão de tarefas. Por um lado, criamos diferentes [vistas](https://seatable.io/pt/docs/handbuch/seatable-nutzen/ansichten/) para cada agente, de modo a que apenas sejam visíveis as encomendas que são relevantes para ele ou ela. Por exemplo, um agente de equipamento de escritório não precisa de ver as encomendas de alimentos. Para tal, basta clicar na pequena seta no canto superior esquerdo, no nosso exemplo intitulada "Ver tudo".
+O SeaTable não seria uma solução óptima para a organização do escritório se não tivesse também uma função clara e prática para a gestão de tarefas. Por um lado, criamos diferentes [vistas]({{< relref "help/base-editor/ansichten" >}}) para cada agente, de modo a que apenas sejam visíveis as encomendas que são relevantes para ele ou ela. Por exemplo, um agente de equipamento de escritório não precisa de ver as encomendas de alimentos. Para tal, basta clicar na pequena seta no canto superior esquerdo, no nosso exemplo intitulada "Ver tudo".
 
 ![Visão Kanban de todas as encomendas em compras indirectas](kanban-view-indirekte-beschaffung.png)
 

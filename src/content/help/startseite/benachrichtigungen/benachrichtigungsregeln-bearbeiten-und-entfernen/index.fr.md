@@ -54,4 +54,4 @@ En principe, l'événement déclencheur défini pour une règle de notification 
 
 ### D'autres articles utiles dans la rubrique Règles de notification :
 
-- [Créer une règle de notification](https://seatable.io/fr/docs/benachrichtigungen/benachrichtigungsregel-erstellen/)
+- [Créer une règle de notification]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregel-erstellen" >}})

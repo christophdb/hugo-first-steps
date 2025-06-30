@@ -42,7 +42,7 @@ Coordinate caretaker services with SeaTable
 
 Something breaks in every building. You can't change that. What you can change, however, is that you can handle the repair process efficiently - with our [template for janitorial services]({{< relref "templates/real-estate/janitorial-services" >}}).
 
-With SeaTable, you can let residents submit repair orders conveniently via a [web form](https://seatable.io/en/docs/handbuch/seatable-nutzen/webformulare/). You are automatically informed by email about new reported damage and problems and can assign the repair to the right janitor, tradesman or employee. They receive all the necessary information and can document the repair directly on site in their SeaTable app. Working hours and required consumables can be easily documented.
+With SeaTable, you can let residents submit repair orders conveniently via a [web form]({{< relref "help/base-editor/webformulare/webformulare" >}}). You are automatically informed by email about new reported damage and problems and can assign the repair to the right janitor, tradesman or employee. They receive all the necessary information and can document the repair directly on site in their SeaTable app. Working hours and required consumables can be easily documented.
 
 If you want, you can even email the person who reported the repair need to inform them that the repair has been completed. You retain full control over all activities from start to finish and can adapt the template to your needs and properties as you wish.
 

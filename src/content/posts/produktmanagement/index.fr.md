@@ -50,7 +50,7 @@ Rassemblez facilement toutes vos données en un seul endroit : avec SeaTable. [N
 
 ### 1\. aperçu général des produits
 
-Pour permettre à chaque collaborateur d'avoir une vue d'ensemble du produit, une fiche de présentation standard est utile. Les informations les plus importantes sur le produit y sont listées, comme la gamme de produits, le type de produit, le nom officiel du produit pour le commerce, le numéro d'article, les prix et les images correspondantes du produit. Un bref aperçu est particulièrement précieux pour les personnes non spécialisées. Les différentes vues de SeaTable permettent de [filtrer et d'enregistrer](https://seatable.io/fr/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) les données en quelques clics, par exemple par gamme ou type de produit, et d'éviter les tris manuels fastidieux.
+Pour permettre à chaque collaborateur d'avoir une vue d'ensemble du produit, une fiche de présentation standard est utile. Les informations les plus importantes sur le produit y sont listées, comme la gamme de produits, le type de produit, le nom officiel du produit pour le commerce, le numéro d'article, les prix et les images correspondantes du produit. Un bref aperçu est particulièrement précieux pour les personnes non spécialisées. Les différentes vues de SeaTable permettent de [filtrer et d'enregistrer]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) les données en quelques clics, par exemple par gamme ou type de produit, et d'éviter les tris manuels fastidieux.
 
 ![Dans cette vue, vous avez un aperçu immédiat de tous les produits - parfait pour la gestion des produits.](Range-View_2.jpg)
 

@@ -63,7 +63,7 @@ Die Archivansicht zeigt archivierte und nicht-archivierte Zeilen an und erlaubt 
 
 ### Externe Links ohne Logs und Kommentare
 
-Die Tabellenhistorie und Kommentare gehören nicht zu den Informationen, die man normalerweise über einen [externen Link](https://seatable.io/docs/handbuch/zusammenarbeit/externe-links/?lang=auto) quasi öffentlich machen möchte. Daher werden in SeaTable ab Version 2.3 Logs und Kommentare in den Zeilendetails externer Links nicht mehr angezeigt.
+Die Tabellenhistorie und Kommentare gehören nicht zu den Informationen, die man normalerweise über einen [externen Link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) quasi öffentlich machen möchte. Daher werden in SeaTable ab Version 2.3 Logs und Kommentare in den Zeilendetails externer Links nicht mehr angezeigt.
 
 ### Standardwerte für Formulare
 

@@ -59,7 +59,7 @@ A autorização de liberação criada está agora disponível para selecção em
 Explicações detalhadas sobre o que deve considerar ao partilhar com utilizadores ou grupos podem ser encontradas nos artigos seguintes:
 
 - [Lançamento de uma Base a um Utilizador]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Libertar uma Base para um Grupo](https://seatable.io/pt/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Libertar uma Base para um Grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 
 ## Consequências da libertação
 

@@ -93,7 +93,7 @@ Wenn Sie [E-Mails per Automation versenden]({{< relref "help/base-editor/automat
 
 Wenn Sie gerne **Spaltenberechtigungen** nutzen, um Werte vor unerwünschten Änderungen zu schützen, können Sie dies künftig noch genauer definieren. Neben _bestimmten Benutzern_, _Administratoren_ und _Niemandem_ stehen nun auch **bestimmte Gruppen** als Option zur Auswahl.
 
-Es wird künftig die Option geben, Bases ohne die hochgeladenen Anhänge in der Dateiverwaltung zu [exportieren](https://seatable.io/docs/import-von-daten/speichern-einer-base-als-dtable-datei/), sofern diese das Exportlimit von 100 MB pro Base überschreiten.
+Es wird künftig die Option geben, Bases ohne die hochgeladenen Anhänge in der Dateiverwaltung zu [exportieren]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}), sofern diese das Exportlimit von 100 MB pro Base überschreiten.
 
 In Sachen API unterstützt SeaTable 4.3 erstmals [JOIN Queries](https://developer.seatable.io/scripts/sql/reference/), mit denen Sie aus unterschiedlichen Tabellen diejenigen Datensätze abfragen können, die eine gemeinsame Schnittmenge an Attributen teilen. Mehr dazu erfahren Sie im Developer Manual.
 

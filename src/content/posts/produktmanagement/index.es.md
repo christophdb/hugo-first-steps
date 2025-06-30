@@ -50,7 +50,7 @@ Recoge fácilmente todos tus datos en un solo lugar: con SeaTable. [Nuestra plan
 
 ### 1\. descripción general del producto
 
-Para que cada empleado tenga una visión global del producto, es útil una hoja de resumen estándar. En él se recoge la información más importante del producto, como la serie, el tipo de producto, el nombre oficial del producto para el comercio, el número de artículo, los precios y las imágenes del producto asociadas. Un breve resumen es especialmente valioso para las personas que no están familiarizadas con el tema. Con las distintas vistas de SeaTable, los datos pueden [filtrarse y guardarse con](https://seatable.io/es/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) unos pocos clics, por ejemplo, por serie o tipo de producto, y ya no es necesaria la tediosa clasificación manual.
+Para que cada empleado tenga una visión global del producto, es útil una hoja de resumen estándar. En él se recoge la información más importante del producto, como la serie, el tipo de producto, el nombre oficial del producto para el comercio, el número de artículo, los precios y las imágenes del producto asociadas. Un breve resumen es especialmente valioso para las personas que no están familiarizadas con el tema. Con las distintas vistas de SeaTable, los datos pueden [filtrarse y guardarse con]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) unos pocos clics, por ejemplo, por serie o tipo de producto, y ya no es necesaria la tediosa clasificación manual.
 
 ![En esta vista tiene todos los productos inmediatamente a la vista - perfecto para la gestión de productos](Range-View_2.jpg)
 

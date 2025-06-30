@@ -67,9 +67,9 @@ Aquí están los **Compartir usuarios y grupos** enumerados para todas las bases
 
 Obtenga más información sobre los tipos de desbloqueo en los siguientes artículos:
 
-- [Liberar una base a un grupo](https://seatable.io/es/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Liberar una base a un grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Crear un recurso compartido de usuario]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Crear una acción personalizada](https://seatable.io/es/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
+- [Crear una acción personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}})
 
 ## Enlaces externos y enlaces de invitación
 
@@ -78,5 +78,5 @@ En estas dos vistas generales no sólo puede ver todos los enlaces externos y de
 Encontrará más información sobre los enlaces de liberación en los siguientes artículos:
 
 - [Crear enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Crear un enlace externo para una base](https://seatable.io/es/docs/freigabelinks/externer-link-erklaert/)
-- [Diferencias entre enlaces de invitación y enlaces externos](https://seatable.io/es/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)
+- [Crear un enlace externo para una base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
+- [Diferencias entre enlaces de invitación y enlaces externos]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}})

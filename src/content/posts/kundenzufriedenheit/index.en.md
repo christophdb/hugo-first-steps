@@ -21,7 +21,7 @@ To be able to increase customer satisfaction, you need to know about current cus
 
 No matter which method you choose, you always need a tool to collect, measure and subsequently evaluate customer feedback. This process should be uncomplicated and easy to repeat at any time. At the same time, the evaluation must remain clear even with large amounts of data. This evaluation is often also called _User Experience Research_ or _UX Research_.
 
-With SeaTable, we give you the perfect tool. SeaTable helps you collect with easy-to-share [web forms](https://seatable.io/en/docs/handbuch/datenmanagement/webformulare/) and evaluate and prioritize customer feedback with [statistics features](https://seatable.io/en/docs/handbuch/datenmanagement/statistiken/). We've even prepared a [template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) to give you some initial inspiration, which you can use to complete the following three steps. Just take a look.
+With SeaTable, we give you the perfect tool. SeaTable helps you collect with easy-to-share [web forms]({{< relref "help/base-editor/webformulare" >}}) and evaluate and prioritize customer feedback with [statistics features]({{< relref "help/base-editor/statistiken" >}}). We've even prepared a [template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) to give you some initial inspiration, which you can use to complete the following three steps. Just take a look.
 
 ## Step 1: Collect data on customer satisfaction
 

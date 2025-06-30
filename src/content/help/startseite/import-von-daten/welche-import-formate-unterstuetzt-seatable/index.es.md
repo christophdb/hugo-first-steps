@@ -28,16 +28,16 @@ Cuando se trata de trabajar con datos, Excel no puede faltar, por supuesto. SeaT
 
 Otra fuente desde la que puede introducir datos en SeaTable es Microsoft Access.
 
-[Aprenda a importar datos de Microsoft Access.](https://seatable.io/es/docs/import-von-daten/daten-import-aus-microsoft-access-in-seatable/)
+[Aprenda a importar datos de Microsoft Access.]({{< relref "help/startseite/import-von-daten/daten-import-aus-microsoft-access-in-seatable" >}})
 
 ## Importación de datos desde Google Sheets
 
 También puedes importar datos de Google Sheets a SeaTable.
 
-[Aprende a importar datos de Google Sheets.](https://seatable.io/es/docs/import-von-daten/daten-import-aus-google-sheets-in-seatable/)
+[Aprende a importar datos de Google Sheets.]({{< relref "help/startseite/import-von-daten/daten-import-aus-google-sheets-in-seatable" >}})
 
 ## Importación de datos con DTABLE
 
-Las Bases de SeaTable se pueden exportar en [formato de archivo DTABLE](https://seatable.io/es/docs/expertenwissen/dtable-dateiformat/) - y con tal archivo DTABLE usted puede por supuesto crear una Base en SeaTable otra vez.
+Las Bases de SeaTable se pueden exportar en [formato de archivo DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) - y con tal archivo DTABLE usted puede por supuesto crear una Base en SeaTable otra vez.
 
 [Más información sobre la importación de datos con DTABLE.]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

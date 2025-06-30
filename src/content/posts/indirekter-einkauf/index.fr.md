@@ -38,7 +38,7 @@ De nombreuses informations sont ainsi rassemblées dans ce tableau : Les colonne
 
 ## Commander des marchandises avec le formulaire web intégré
 
-Avec ses colonnes, le tableau offre en même temps la base du [formulaire web](https://seatable.io/fr/docs/handbuch/seatable-nutzen/webformulare/) intégré pour l'organisation de votre bureau. Pour une commande de matériel interne, les collaborateurs choisissent un produit dans la liste - c'est la colonne liée "Products" du catalogue de produits (tableau 2). Ensuite, ils n'ont plus qu'à indiquer la quantité et le service dans lequel ils travaillent pour que les commandes restent claires.
+Avec ses colonnes, le tableau offre en même temps la base du [formulaire web]({{< relref "help/base-editor/webformulare/webformulare" >}}) intégré pour l'organisation de votre bureau. Pour une commande de matériel interne, les collaborateurs choisissent un produit dans la liste - c'est la colonne liée "Products" du catalogue de produits (tableau 2). Ensuite, ils n'ont plus qu'à indiquer la quantité et le service dans lequel ils travaillent pour que les commandes restent claires.
 
 ![Formulaire de commande de matériel indirect](bestellformular-indirektes-material.png)
 
@@ -80,7 +80,7 @@ Voici comment procéder :
 
 ## Les vues individuelles et le Kanban donnent une meilleure vue d'ensemble
 
-SeaTable ne serait pas une solution optimale pour l'organisation du bureau si elle n'offrait pas une fonction claire et pratique pour la gestion des tâches. D'une part, nous créons des [vues](https://seatable.io/fr/docs/handbuch/seatable-nutzen/ansichten/) différentes pour chaque agent afin que seules les commandes qui le concernent soient visibles. En effet, un employé chargé de l'équipement de bureau ne doit pas voir les commandes de produits alimentaires. Pour cela, il suffit de cliquer sur la petite flèche en haut à gauche, intitulée dans notre exemple "View all".
+SeaTable ne serait pas une solution optimale pour l'organisation du bureau si elle n'offrait pas une fonction claire et pratique pour la gestion des tâches. D'une part, nous créons des [vues]({{< relref "help/base-editor/ansichten" >}}) différentes pour chaque agent afin que seules les commandes qui le concernent soient visibles. En effet, un employé chargé de l'équipement de bureau ne doit pas voir les commandes de produits alimentaires. Pour cela, il suffit de cliquer sur la petite flèche en haut à gauche, intitulée dans notre exemple "View all".
 
 ![Vue Kanban de toutes les commandes dans l'achat indirect](kanban-view-indirekte-beschaffung.png)
 

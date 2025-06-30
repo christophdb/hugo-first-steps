@@ -63,7 +63,7 @@ A vista do arquivo mostra linhas arquivadas e não arquivadas e permite avaliaç
 
 ### Ligações externas sem registos e comentários
 
-O histórico da tabela e os comentários não fazem parte da informação que normalmente se desejaria tornar quase pública através de uma [ligação externa](https://seatable.io/pt/docs/handbuch/zusammenarbeit/externe-links/?lang=auto). Portanto, os registos e comentários já não são exibidos na linha de detalhes de ligações externas no SeaTable a partir da versão 2.3.
+O histórico da tabela e os comentários não fazem parte da informação que normalmente se desejaria tornar quase pública através de uma [ligação externa]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}). Portanto, os registos e comentários já não são exibidos na linha de detalhes de ligações externas no SeaTable a partir da versão 2.3.
 
 ### Valores por defeito para formulários
 

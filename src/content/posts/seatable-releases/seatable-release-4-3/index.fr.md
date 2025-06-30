@@ -93,7 +93,7 @@ Lorsque vous [envoyiez des e-mails par automatisation]({{< relref "help/base-edi
 
 Si vous souhaitez utiliser **des autorisations de colonnes** pour protéger les valeurs contre des modifications non souhaitées, vous pourrez désormais les définir de manière encore plus précise. En plus des _utilisateurs spécifiques_, des _administrateurs_ et _de personne_, **certains groupes** sont désormais disponibles en option.
 
-Il y aura à l'avenir l'option d'[exporter](https://seatable.io/fr/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) les bases sans les pièces jointes téléchargées dans la gestion des fichiers, si celles-ci dépassent la limite d'exportation de 100 Mo par base.
+Il y aura à l'avenir l'option d'[exporter]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) les bases sans les pièces jointes téléchargées dans la gestion des fichiers, si celles-ci dépassent la limite d'exportation de 100 Mo par base.
 
 En ce qui concerne l'API, SeaTable 4.3 supporte pour la première fois [les requêtes JOIN](https://developer.seatable.io/scripts/sql/reference/), qui permettent d'interroger les enregistrements de différentes tables qui partagent une intersection commune d'attributs. Pour en savoir plus, consultez le manuel du développeur.
 

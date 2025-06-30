@@ -41,7 +41,7 @@ Coordenar os serviços de manutenção com SeaTable
 
 Algo se parte em todos os edifícios. Isso não pode ser alterado. O que pode mudar, no entanto, é o facto de poder tratar do processo de reparação de forma eficiente - com o nosso [modelo para serviços de limpeza]({{< relref "templates/real-estate/janitorial-services" >}}).
 
-Com o SeaTable, pode permitir que os residentes apresentem pedidos de reparação de forma cómoda através de um [formulário Web](https://seatable.io/pt/docs/handbuch/seatable-nutzen/webformulare/). É automaticamente informado por correio eletrónico sobre os novos danos e problemas comunicados e pode atribuir a reparação ao zelador, comerciante ou empregado certo. Estes recebem todas as informações necessárias e podem documentar a reparação diretamente no local, na sua aplicação SeaTable. As horas de trabalho e os consumíveis necessários podem ser facilmente documentados.
+Com o SeaTable, pode permitir que os residentes apresentem pedidos de reparação de forma cómoda através de um [formulário Web]({{< relref "help/base-editor/webformulare/webformulare" >}}). É automaticamente informado por correio eletrónico sobre os novos danos e problemas comunicados e pode atribuir a reparação ao zelador, comerciante ou empregado certo. Estes recebem todas as informações necessárias e podem documentar a reparação diretamente no local, na sua aplicação SeaTable. As horas de trabalho e os consumíveis necessários podem ser facilmente documentados.
 
 Se quiser, pode até enviar um e-mail à pessoa que comunicou a necessidade de reparação para a informar de que a reparação foi concluída. Mantém o controlo total sobre todas as actividades do início ao fim e pode personalizar o modelo de acordo com as suas necessidades e propriedade.
 

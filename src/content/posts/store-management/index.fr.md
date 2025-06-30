@@ -44,13 +44,13 @@ Si votre gestion des ressources humaines devient plus complexe et que le nombre 
 
 Dans la gestion des magasins, il est crucial de garder un œil sur le chiffre d'affaires de vos différentes succursales. Cela est non seulement crucial pour une analyse en l'état, mais aussi pour la planification stratégique future de l'emplacement. Dans votre base de revenus, vous pouvez consulter et analyser les chiffres d'affaires.
 
-Nous avons regroupé l'ensemble de la base par trimestre. Dans vos règles de regroupement, vous pouvez facilement définir par quelle colonne la base entière doit être triée. Si vous préférez trier par année ou par branche, vous pouvez bien sûr facilement procéder à cet ajustement en [modifiant les règles de regroupement](https://seatable.io/fr/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/).
+Nous avons regroupé l'ensemble de la base par trimestre. Dans vos règles de regroupement, vous pouvez facilement définir par quelle colonne la base entière doit être triée. Si vous préférez trier par année ou par branche, vous pouvez bien sûr facilement procéder à cet ajustement en [modifiant les règles de regroupement]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 
 Avec une colonne pour votre potentiel de chiffre d'affaires et le chiffre d'affaires réel, les déficits et les potentiels peuvent être facilement identifiés. En outre, nous avons ajouté un cluster de chiffre d'affaires pour classer vos branches en fonction de leur chiffre d'affaires et colorer à nouveau la ligne en conséquence. Le cluster que nous avons choisi peut bien sûr être facilement adapté à vos besoins. Pour ce faire, il suffit de modifier les options de sélection unique de la dernière colonne en fonction du groupe que vous préférez.
 
 ### Analysez votre chiffre d'affaires avec le plugin Statistiques avancées
 
-Notre plugin Advanced Statistic permet de réaliser très facilement des analyses sur vos ventes. Nous avons déjà créé trois [statistiques](https://seatable.io/fr/docs/handbuch/seatable-nutzen/statistiken/) utiles pour notre modèle d'exemple. En cliquant sur le plug-in au-dessus de votre tableau, vous accédez directement à la zone des statistiques. Ici, vous pouvez créer de nouveaux tableaux de bord à l'aide du signe +, dans lesquels vous pouvez ensuite insérer plusieurs statistiques.
+Notre plugin Advanced Statistic permet de réaliser très facilement des analyses sur vos ventes. Nous avons déjà créé trois [statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) utiles pour notre modèle d'exemple. En cliquant sur le plug-in au-dessus de votre tableau, vous accédez directement à la zone des statistiques. Ici, vous pouvez créer de nouveaux tableaux de bord à l'aide du signe +, dans lesquels vous pouvez ensuite insérer plusieurs statistiques.
 
 ![Gestion des magasins ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
@@ -92,7 +92,7 @@ Plug-in ligne de temps
 
 ### Effectuer facilement des contrôles en magasin via des formulaires web
 
-Lors de chaque visite personnelle dans un magasin, vos collaborateurs de vente ont pour mission de vérifier l'exactitude de différents aspects selon le type d'entreprise. Pour cela, nous avons mis en place un [formulaire web](https://seatable.io/fr/docs/handbuch/seatable-nutzen/webformulare/) qui peut être rempli très facilement par vos collaborateurs de vente pendant ou après leur visite dans le magasin. Vous trouverez les formulaires web en haut à droite sous "Forms". Si votre manager des ventes clique sur le formulaire web, il peut directement commencer à le remplir.
+Lors de chaque visite personnelle dans un magasin, vos collaborateurs de vente ont pour mission de vérifier l'exactitude de différents aspects selon le type d'entreprise. Pour cela, nous avons mis en place un [formulaire web]({{< relref "help/base-editor/webformulare/webformulare" >}}) qui peut être rempli très facilement par vos collaborateurs de vente pendant ou après leur visite dans le magasin. Vous trouverez les formulaires web en haut à droite sous "Forms". Si votre manager des ventes clique sur le formulaire web, il peut directement commencer à le remplir.
 
 ![Gestion des magasins Vérification des magasins](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
@@ -102,7 +102,7 @@ Le tableau sous-jacent reste le tableau "Store Check". Chaque entrée via un for
 
 ### Des vues personnalisées pour votre personnel de vente
 
-Chaque collaborateur de vente a une [vue personnalisée](https://seatable.io/fr/docs/handbuch/datenmanagement/ansichten/) dans ce modèle, afin qu'il ne voie que les filiales dont il est responsable. La vue a été créée à l'aide de la règle de filtrage via la colonne "Responsible" avec le nom correspondant. Si vos collaborateurs de vente sélectionnent ensuite leur nom dans le formulaire web, les store checks apparaissent également dans la base correspondante.
+Chaque collaborateur de vente a une [vue personnalisée]({{< relref "help/base-editor/ansichten" >}}) dans ce modèle, afin qu'il ne voie que les filiales dont il est responsable. La vue a été créée à l'aide de la règle de filtrage via la colonne "Responsible" avec le nom correspondant. Si vos collaborateurs de vente sélectionnent ensuite leur nom dans le formulaire web, les store checks apparaissent également dans la base correspondante.
 
 Afin de réduire les risques d'erreur lors du remplissage du formulaire web, nous avons défini chaque champ à remplir comme "required". Ainsi, il n'est pas possible d'envoyer le formulaire sans avoir rempli le champ. Ces réglages et bien d'autres, comme par exemple des textes d'aide pour remplir le formulaire web ou différentes possibilités de formatage, peuvent être effectués très facilement en cliquant sur le petit crayon à côté du formulaire web.
 

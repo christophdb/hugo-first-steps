@@ -93,7 +93,7 @@ If you [send emails via automation]({{< relref "help/base-editor/automationen/be
 
 If you like **column permissions** to protect values from unwanted changes, you will be able to define this even more precisely in future. In addition to _specific users_, _administrators_ and _nobody_, **specific groups** are now also available as an option.
 
-In future, there will be an option to [export](https://seatable.io/en/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) bases without the uploaded attachments in the file manager if they exceed the export limit of 100 MB per base.
+In future, there will be an option to [export]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) bases without the uploaded attachments in the file manager if they exceed the export limit of 100 MB per base.
 
 In terms of API, SeaTable 4.3 supports [JOIN queries](https://developer.seatable.io/scripts/sql/reference/) for the first time, with which you can query those data records from different tables that share a common intersection of attributes. You can find out more about this in the Developer Manual.
 

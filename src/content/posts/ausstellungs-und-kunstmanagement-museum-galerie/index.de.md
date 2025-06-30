@@ -83,7 +83,7 @@ Objektübersicht des Art Gallery Templates
 
 ### Visuelle Darstellung der Objekte mit dem Galerie-Plugin
 
-Die Tabellenansicht von SeaTable lässt sich mit individuellen Ansichten flexibel an die Bedürfnisse Ihrer einzelnen Mitarbeiter anpassen. Zusätzlich verfügt SeaTable neben der tabellarischen Darstellung über weitere Anzeigemöglichkeiten. So kann es bei Einträgen mit Bildern Sinn ergeben, das [Galerie-Plugin](https://seatable.io/docs/handbuch/seatable-nutzen/ansichten/) zu verwenden, um einen anschaulichen Überblick zu erhalten und schnell den gewünschten Eintrag zu finden. Ein Klick auf den Eintrag genügt, um in die Detailansicht zu wechseln und Anpassungen an den Daten vorzunehmen.
+Die Tabellenansicht von SeaTable lässt sich mit individuellen Ansichten flexibel an die Bedürfnisse Ihrer einzelnen Mitarbeiter anpassen. Zusätzlich verfügt SeaTable neben der tabellarischen Darstellung über weitere Anzeigemöglichkeiten. So kann es bei Einträgen mit Bildern Sinn ergeben, das [Galerie-Plugin]({{< relref "help/base-editor/ansichten" >}}) zu verwenden, um einen anschaulichen Überblick zu erhalten und schnell den gewünschten Eintrag zu finden. Ein Klick auf den Eintrag genügt, um in die Detailansicht zu wechseln und Anpassungen an den Daten vorzunehmen.
 
 ![Die Künstler als Galerie dargestellt](art-gallery-management-gallery-view.png)
 

@@ -35,8 +35,6 @@ Sélectionnez maintenant le bloc de code suivant, copiez-le dans le presse-papie
 server_url = 'https://cloud.seatable.io'
 api_token = '...'
 # Add an API token of the SeaTable base
-# See https://seatable.io/docs/en/seatable-api/erzeugen-eines-api-tokens/
-# for more information on how to create a SeaTable API token
 
 # Airtable - Source
 airtable_personal_access_token = '...'
@@ -137,7 +135,7 @@ Contrairement aux commentaires, les indentations dans le code sont très importa
 
 ### 3\. indiquer l'URL du serveur SeaTable et le jeton API de la base
 
-Sous le commentaire **SeaTable – Destination** , collez l’URL du serveur SeaTable et fournissez le [jeton API](https://seatable.io/fr/docs/seatable-api/erzeugen-eines-api-tokens/) . Le jeton API doit accorder des autorisations de lecture et d'écriture. Si vous utilisez SeaTable Cloud, alors l'URL pré-remplie « https://cloud.seatable.io » est correcte. Si vous utilisez un autre serveur SeaTable, saisissez son URL. (L'URL doit toujours être saisie avec https:// ou http://.) L'URL et le jeton doivent être placés entre guillemets simples.
+Sous le commentaire **SeaTable – Destination** , collez l’URL du serveur SeaTable et fournissez le [jeton API]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}) . Le jeton API doit accorder des autorisations de lecture et d'écriture. Si vous utilisez SeaTable Cloud, alors l'URL pré-remplie « https://cloud.seatable.io » est correcte. Si vous utilisez un autre serveur SeaTable, saisissez son URL. (L'URL doit toujours être saisie avec https:// ou http://.) L'URL et le jeton doivent être placés entre guillemets simples.
 
 Ceci est un exemple de configuration pour importer les données dans une base dans SeaTable Cloud :  
 ![](images/SeaTable_Server_URL_and_API_Token.png)

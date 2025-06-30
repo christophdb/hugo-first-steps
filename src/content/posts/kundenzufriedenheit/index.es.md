@@ -20,7 +20,7 @@ Para aumentar la satisfacción del cliente, hay que conocer su grado de satisfac
 
 Independientemente del método que elija, siempre necesitará una herramienta para recoger, medir y posteriormente evaluar las opiniones de los clientes. Este proceso debe ser sencillo y fácil de repetir en cualquier momento. Al mismo tiempo, la evaluación debe seguir siendo clara incluso con grandes cantidades de datos. Esta evaluación también suele denominarse _User Experience Research_ o _UX Research_.
 
-Con SeaTable, le ofrecemos la herramienta perfecta. SeaTable le ayuda a recopilar con [formularios web](https://seatable.io/es/docs/handbuch/datenmanagement/webformulare/) fáciles de compartir y a evaluar y priorizar las opiniones de los clientes con [funciones estadísticas](https://seatable.io/es/docs/handbuch/datenmanagement/statistiken/). Incluso hemos preparado una [plantilla]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para darle un poco de inspiración inicial, que puede utilizar para completar los tres pasos siguientes. Eche un vistazo.
+Con SeaTable, le ofrecemos la herramienta perfecta. SeaTable le ayuda a recopilar con [formularios web]({{< relref "help/base-editor/webformulare" >}}) fáciles de compartir y a evaluar y priorizar las opiniones de los clientes con [funciones estadísticas]({{< relref "help/base-editor/statistiken" >}}). Incluso hemos preparado una [plantilla]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para darle un poco de inspiración inicial, que puede utilizar para completar los tres pasos siguientes. Eche un vistazo.
 
 ## Paso 1: Recopilar datos sobre la satisfacción del cliente
 

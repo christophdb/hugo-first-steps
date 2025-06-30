@@ -63,7 +63,7 @@ La vista de archivo muestra las filas archivadas y no archivadas y permite evalu
 
 ### Enlaces externos sin registros ni comentarios
 
-El historial de la mesa y los comentarios no forman parte de la información que normalmente se quiere hacer casi pública a través de un [enlace externo](https://seatable.io/es/docs/handbuch/zusammenarbeit/externe-links/?lang=auto). Por lo tanto, los registros y los comentarios ya no se muestran en los detalles de las filas de los enlaces externos en SeaTable a partir de la versión 2.3.
+El historial de la mesa y los comentarios no forman parte de la información que normalmente se quiere hacer casi pública a través de un [enlace externo]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}). Por lo tanto, los registros y los comentarios ya no se muestran en los detalles de las filas de los enlaces externos en SeaTable a partir de la versión 2.3.
 
 ### Valores por defecto de los formularios
 

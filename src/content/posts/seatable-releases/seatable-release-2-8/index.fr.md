@@ -38,7 +38,7 @@ C'est précisément pour ce type d'informations que les descriptions de colonnes
 
 ## Texte d'aide formaté dans les formulaires web
 
-Les textes d'aide dans les [formulaires web](https://seatable.io/fr/docs/handbuch/seatable-nutzen/webformulare/) ont la même motivation que les descriptions de colonnes : Ils permettent un traitement plus précis et moins frustrant des formulaires. En outre, ils permettent de répondre aux obligations d'information (mot-clé : RGPD).
+Les textes d'aide dans les [formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}) ont la même motivation que les descriptions de colonnes : Ils permettent un traitement plus précis et moins frustrant des formulaires. En outre, ils permettent de répondre aux obligations d'information (mot-clé : RGPD).
 
 La nouveauté de SeaTable 2.8 est la possibilité de formater les textes d'aide et d'insérer des images et des tableaux. Cela permet de présenter des textes plus longs de manière plus claire ou de remplacer de nombreux mots par quelques images. L'édition des textes d'aide se fait via le nouvel éditeur de texte formaté de SeaTable.
 

@@ -82,7 +82,7 @@ Aperçu des objets du modèle de galerie d'art
 
 ### Représentation visuelle des objets avec le plug-in galerie
 
-L'affichage sous forme de tableau de SeaTable peut être adapté de manière flexible aux besoins de chacun de vos collaborateurs grâce à des vues individuelles. En plus de la présentation sous forme de tableau, SeaTable dispose d'autres possibilités d'affichage. Ainsi, pour les entrées contenant des images, il peut être judicieux d'utiliser le [plug-in Galerie](https://seatable.io/fr/docs/handbuch/seatable-nutzen/ansichten/) pour obtenir une vue d'ensemble claire et trouver rapidement l'entrée souhaitée. Il suffit de cliquer sur l'entrée pour passer à l'affichage détaillé et procéder à des adaptations des données.
+L'affichage sous forme de tableau de SeaTable peut être adapté de manière flexible aux besoins de chacun de vos collaborateurs grâce à des vues individuelles. En plus de la présentation sous forme de tableau, SeaTable dispose d'autres possibilités d'affichage. Ainsi, pour les entrées contenant des images, il peut être judicieux d'utiliser le [plug-in Galerie]({{< relref "help/base-editor/ansichten" >}}) pour obtenir une vue d'ensemble claire et trouver rapidement l'entrée souhaitée. Il suffit de cliquer sur l'entrée pour passer à l'affichage détaillé et procéder à des adaptations des données.
 
 ![Les artistes présentés comme une galerie](art-gallery-management-gallery-view.png)
 

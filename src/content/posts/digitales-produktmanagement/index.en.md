@@ -31,7 +31,7 @@ On the other hand, there are also other product characteristics that are not int
 
 ### More overview with double grouping
 
-To create a better overview within the catalogue, we use SeaTable's multiple [grouping function](https://seatable.io/en/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/). This allows you to arrange and structure your data as you wish: For example, by series and quality range, or as in our template, by product series and product type.
+To create a better overview within the catalogue, we use SeaTable's multiple [grouping function]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}). This allows you to arrange and structure your data as you wish: For example, by series and quality range, or as in our template, by product series and product type.
 
 ![Product catalogue for digital product management](Catalogue_Overview.png)
 
@@ -57,7 +57,7 @@ This results in a very detailed product catalogue that enables every employee to
 
 ![](Product-Data_Overview.png)
 
-In our example, we directly created calculations for the margin in order to observe how the individual products perform in production. This is very easy with the [formula column](https://seatable.io/en/docs/handbuch/seatable-nutzen/feld-typen/), which first calculates the margin and then the margin as a percentage. This way, product managers and employees can see at a glance how the different products are doing.
+In our example, we directly created calculations for the margin in order to observe how the individual products perform in production. This is very easy with the [formula column]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), which first calculates the margin and then the margin as a percentage. This way, product managers and employees can see at a glance how the different products are doing.
 
 In the right part of the screen you can see links to the "Catalogue" and "Projects" table. The first link is used to correctly pass some data from the product data sheet to the catalog, since some information is the same. The "Product Data" table serves as a master table; whenever things are changed there, such as the purchase price, these values are automatically changed in the catalog as a result of the link. In this way, purchase prices no longer have to be changed manually.
 
@@ -96,7 +96,7 @@ Stores are thus mapped geographically and provide information about a particular
 
 ### Statistics for a clear view of data
 
-The sales figures are the heart of this table and extremely important for digital product management. The monthly figures allow for far-reaching analyses. For the first and second quarters, the correct figures have already been determined with a formula column in order to be able to better compare the developments of the stores. With the help of your own SeaTable statistics, you can create valuable and meaningful [statistics](https://seatable.io/en/docs/handbuch/seatable-nutzen/statistiken/) that structure your data in an informative and visual way.
+The sales figures are the heart of this table and extremely important for digital product management. The monthly figures allow for far-reaching analyses. For the first and second quarters, the correct figures have already been determined with a formula column in order to be able to better compare the developments of the stores. With the help of your own SeaTable statistics, you can create valuable and meaningful [statistics]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) that structure your data in an informative and visual way.
 
 We have already created some statistics that are helpful for the data evaluation of this table. There are hardly any limits to the selection possibilities: By selecting a view depending on the table, highly individualised statistics can be created; for example, if a shop is to be analysed specifically, a single view can be created for this branch and then a statistic created just for it.
 

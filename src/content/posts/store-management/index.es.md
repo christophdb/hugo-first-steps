@@ -44,13 +44,13 @@ Si su gestión de recursos humanos es cada vez más compleja y el número de for
 
 En la gestión de las tiendas, es fundamental vigilar la facturación de cada una de las sucursales. Esto no sólo es crucial para un análisis tal cual, sino también para la futura planificación estratégica de la ubicación. En su Base de Ingresos puede ver y analizar las cifras de facturación.
 
-Hemos agrupado toda la base por trimestres. En sus reglas de agrupación puede establecer fácilmente por qué columna debe ordenarse toda la base. Si prefiere clasificar por año o por rama, puede, por supuesto, hacer este ajuste fácilmente [cambiando las reglas de agrupación](https://seatable.io/es/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/).
+Hemos agrupado toda la base por trimestres. En sus reglas de agrupación puede establecer fácilmente por qué columna debe ordenarse toda la base. Si prefiere clasificar por año o por rama, puede, por supuesto, hacer este ajuste fácilmente [cambiando las reglas de agrupación]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 
 Con una columna para el potencial de facturación y la facturación real, se pueden identificar fácilmente los déficits y los potenciales. Además, hemos añadido un grupo de volumen de negocio para clasificar sus sucursales según el volumen de negocio y colorear de nuevo la fila en consecuencia. Por supuesto, nuestro grupo elegido puede adaptarse fácilmente a sus necesidades. Para ello, basta con cambiar las opciones de selección única de la última columna por el grupo que prefiera.
 
 ### Analice su facturación con el plugin de estadísticas avanzadas
 
-Con nuestro plugin de estadísticas avanzadas podrá realizar fácilmente análisis de sus ventas. Ya hemos creado tres [estadísticas](https://seatable.io/es/docs/handbuch/seatable-nutzen/statistiken/) útiles para nuestra plantilla de ejemplo. Al hacer clic en el complemento que se encuentra encima de la mesa, se accede directamente al área de estadísticas. Aquí puede utilizar el signo + para crear nuevos cuadros de mando en los que podrá insertar varias estadísticas.
+Con nuestro plugin de estadísticas avanzadas podrá realizar fácilmente análisis de sus ventas. Ya hemos creado tres [estadísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) útiles para nuestra plantilla de ejemplo. Al hacer clic en el complemento que se encuentra encima de la mesa, se accede directamente al área de estadísticas. Aquí puede utilizar el signo + para crear nuevos cuadros de mando en los que podrá insertar varias estadísticas.
 
 ![Gestión de la tienda ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
@@ -92,7 +92,7 @@ Complemento de la línea de tiempo
 
 ### Realice fácilmente las comprobaciones de la tienda a través de formularios web
 
-Durante cada visita personal a la tienda, su personal de ventas tiene la tarea de comprobar la exactitud de varios aspectos, dependiendo del tipo de empresa. Para ello, hemos creado un [formulario web](https://seatable.io/es/docs/handbuch/seatable-nutzen/webformulare/) que su personal de ventas puede rellenar fácilmente durante o después de su visita a la tienda. Encontrará los formularios web en la esquina superior derecha, en "Formularios". Cuando su jefe de ventas haga clic en el formulario web, podrá empezar a rellenarlo inmediatamente.
+Durante cada visita personal a la tienda, su personal de ventas tiene la tarea de comprobar la exactitud de varios aspectos, dependiendo del tipo de empresa. Para ello, hemos creado un [formulario web]({{< relref "help/base-editor/webformulare/webformulare" >}}) que su personal de ventas puede rellenar fácilmente durante o después de su visita a la tienda. Encontrará los formularios web en la esquina superior derecha, en "Formularios". Cuando su jefe de ventas haga clic en el formulario web, podrá empezar a rellenarlo inmediatamente.
 
 ![Gestión de la tienda Comprobación de la tienda](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
@@ -102,7 +102,7 @@ La tabla subyacente sigue siendo la tabla "Comprobación de la tienda". Cada ent
 
 ### Vistas personalizadas para sus vendedores
 
-Cada empleado de ventas tiene una [vista personalizada](https://seatable.io/es/docs/handbuch/datenmanagement/ansichten/) en este modelo para que sólo vea las sucursales de las que es responsable. La vista se ha creado con la regla de filtrado a través de la columna "Responsable" con el nombre correspondiente. Si a continuación sus comerciales seleccionan su nombre en el formulario web, las comprobaciones de la tienda también aparecerán en la base correspondiente.
+Cada empleado de ventas tiene una [vista personalizada]({{< relref "help/base-editor/ansichten" >}}) en este modelo para que sólo vea las sucursales de las que es responsable. La vista se ha creado con la regla de filtrado a través de la columna "Responsable" con el nombre correspondiente. Si a continuación sus comerciales seleccionan su nombre en el formulario web, las comprobaciones de la tienda también aparecerán en la base correspondiente.
 
 Para que rellenar el formulario web sea menos propenso a errores, hemos establecido como "obligatorio" cada uno de los campos que hay que rellenar. Esto hace que sea imposible enviar sin rellenar el campo. Estos y muchos otros ajustes, como los textos de ayuda para rellenar el formulario web o diversas opciones de formato, pueden realizarse fácilmente haciendo clic en el pequeño lápiz situado junto al formulario web.
 

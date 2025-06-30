@@ -39,7 +39,7 @@ In dieser Tabelle kommen damit viele Informationen zusammen: Die Spalten “Prod
 
 ## Waren bestellen mit dem integrierten Webformular
 
-Die Tabelle bietet mit ihren Spalten gleichzeitig die Basis für das integrierte [Webformular](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/) für Ihre Büroorganisation. Für eine Bestellung von internem Material wählen die Mitarbeiter ein Produkt aus der Liste aus – das ist die verknüpfte Spalte “Products” aus dem Produktkatalog (Tabelle 2). Danach geben sie nur noch die Menge an und in welcher Abteilung sie tätig sind, damit die Bestellungen übersichtlich bleiben.
+Die Tabelle bietet mit ihren Spalten gleichzeitig die Basis für das integrierte [Webformular]({{< relref "help/base-editor/webformulare/webformulare" >}}) für Ihre Büroorganisation. Für eine Bestellung von internem Material wählen die Mitarbeiter ein Produkt aus der Liste aus – das ist die verknüpfte Spalte “Products” aus dem Produktkatalog (Tabelle 2). Danach geben sie nur noch die Menge an und in welcher Abteilung sie tätig sind, damit die Bestellungen übersichtlich bleiben.
 
 ![Bestellformular indirektes Material](bestellformular-indirektes-material.png)
 
@@ -81,7 +81,7 @@ Das geht folgendermaßen:
 
 ## Individuelle Ansichten und Kanban sorgen für mehr Überblick
 
-SeaTable wäre keine optimale Lösung für die Büroorganisation, wenn es nicht auch für die Aufgabenverwaltung eine übersichtliche und praktische Funktion parat hätte. Zum einen erstellen wir verschiedene [Ansichten](https://seatable.io/docs/handbuch/seatable-nutzen/ansichten/) für jeden Bearbeiter, damit nur die für ihn jeweiligen Bestellungen sichtbar sind. Denn ein Bearbeiter für Büroequipment muss die Bestellungen für Lebensmittel nicht sehen. Das geht über einen Klick auf den kleinen Pfeil links oben, in unserem Beispiel mit “View all” betitelt.
+SeaTable wäre keine optimale Lösung für die Büroorganisation, wenn es nicht auch für die Aufgabenverwaltung eine übersichtliche und praktische Funktion parat hätte. Zum einen erstellen wir verschiedene [Ansichten]({{< relref "help/base-editor/ansichten" >}}) für jeden Bearbeiter, damit nur die für ihn jeweiligen Bestellungen sichtbar sind. Denn ein Bearbeiter für Büroequipment muss die Bestellungen für Lebensmittel nicht sehen. Das geht über einen Klick auf den kleinen Pfeil links oben, in unserem Beispiel mit “View all” betitelt.
 
 ![Kanban-Ansicht sämtlicher Bestellungen im indirekten Einkauf](kanban-view-indirekte-beschaffung.png)
 

@@ -65,9 +65,9 @@ Hier sind die **Benutzer- und Gruppenfreigaben** für alle Bases aufgelistet. Si
 
 Erfahren Sie in folgenden Artikeln mehr über die Freigabetypen:
 
-- [Freigabe einer Base an eine Gruppe](https://seatable.io/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Freigabe einer Base an eine Gruppe]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Anlegen einer Benutzerfreigabe]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Benutzerdefinierte Freigabe erstellen](https://seatable.io/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
+- [Benutzerdefinierte Freigabe erstellen]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}})
 
 ## Externe Links und Einladungs-Links
 
@@ -76,5 +76,5 @@ In diesen beiden Übersichten können Sie nicht nur alle externen und Einladungs
 Mehr Informationen zu den Freigabelinks finden Sie in den folgenden Artikeln:
 
 - [Einladungs-Link erstellen]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Externen Link für eine Base erstellen](https://seatable.io/docs/freigabelinks/externer-link-erklaert/)
-- [Unterschiede zwischen Einladungs-Links und externen Links](https://seatable.io/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)
+- [Externen Link für eine Base erstellen]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
+- [Unterschiede zwischen Einladungs-Links und externen Links]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}})

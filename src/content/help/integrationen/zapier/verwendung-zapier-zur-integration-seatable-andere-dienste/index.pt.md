@@ -34,7 +34,7 @@ Inicie sessão na sua [conta Zapier](https://zapier.com/app/login) e crie um nov
 
 ![Escolha o evento Zapier que lhe convém](images/zapier-example-1.png)
 
-O passo seguinte é ligar a sua conta SeaTable ao Zapier (ou selecionar uma conta SeaTable já ligada). Se ainda não tiver um token de API, precisa de [gerar](https://seatable.io/pt/docs/integrationen/zapier-api-tokens-sign-in/) uma [chave de API](https://seatable.io/pt/docs/integrationen/zapier-api-tokens-sign-in/) que introduz no Zapier.
+O passo seguinte é ligar a sua conta SeaTable ao Zapier (ou selecionar uma conta SeaTable já ligada). Se ainda não tiver um token de API, precisa de [gerar]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) uma [chave de API]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) que introduz no Zapier.
 
 Depois de selecionar a conta adequada, ser-lhe-á pedido que configure as opções de configuração específicas do acionador. Com o SeaTable como acionador, temos de especificar a tabela e a vista clicando no menu pendente e seleccionando as opções adequadas (neste caso, queremos a tabela "Oportunidades" e a vista "Todas as oportunidades").
 
@@ -86,7 +86,7 @@ Em seguida, criamos um novo Zap e seleccionamos _Zapier Chrome Extension_ como o
 
 ![Trigger: novo push na extensão do zapier chrome](images/zapier-example-10.png)
 
-A configuração da _ação_ também não é difícil. Crie um [token de API](https://seatable.io/pt/docs/zapier-integration/zapier-api-tokens-sign-in/) para a base que acabou de criar e configure o título e o URL para serem armazenados nas colunas apropriadas do SeaTable. Por fim, teste o Zap e publique-o.
+A configuração da _ação_ também não é difícil. Crie um [token de API]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) para a base que acabou de criar e configure o título e o URL para serem armazenados nas colunas apropriadas do SeaTable. Por fim, teste o Zap e publique-o.
 
 ![Trigger: Criar linha no SeaTable](images/zapier-example-12.png)
 

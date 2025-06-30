@@ -30,7 +30,7 @@ Por outro lado, existem também outras características do produto que não se d
 
 ### Mais visão geral com agrupamento duplo
 
-Para criar uma melhor visão geral dentro do catálogo, utilizamos a [função de agrupamento](https://seatable.io/pt/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) múltiplo do SeaTable. Isto permite-lhe organizar e estruturar os seus dados como desejar: Por exemplo, por série e gama de qualidade, ou como no nosso modelo, por série de produto e tipo de produto.
+Para criar uma melhor visão geral dentro do catálogo, utilizamos a [função de agrupamento]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) múltiplo do SeaTable. Isto permite-lhe organizar e estruturar os seus dados como desejar: Por exemplo, por série e gama de qualidade, ou como no nosso modelo, por série de produto e tipo de produto.
 
 ![Catálogo de produtos para gestão digital de produtos](Catalogue_Overview.png)
 
@@ -56,7 +56,7 @@ Isto resulta num catálogo de produtos muito detalhado que permite a cada empreg
 
 ![](Product-Data_Overview.png)
 
-No nosso exemplo, criámos directamente cálculos para a margem a fim de observar como os produtos individuais se comportam na produção. Isto é muito fácil com a [coluna da fórmula](https://seatable.io/pt/docs/handbuch/seatable-nutzen/feld-typen/), que primeiro calcula a margem e depois a margem como percentagem. Desta forma, os gestores de produtos e empregados podem ver, num relance, como estão a fazer os diferentes produtos.
+No nosso exemplo, criámos directamente cálculos para a margem a fim de observar como os produtos individuais se comportam na produção. Isto é muito fácil com a [coluna da fórmula]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), que primeiro calcula a margem e depois a margem como percentagem. Desta forma, os gestores de produtos e empregados podem ver, num relance, como estão a fazer os diferentes produtos.
 
 Na parte direita do ecrã, aparecem ligações para a tabela "Catálogo" e "Projectos". A primeira ligação é utilizada para passar corretamente alguns dados da ficha de produto para o catálogo, uma vez que algumas informações são as mesmas. A tabela "Dados do produto" funciona como uma tabela-mestra; sempre que se alteram dados nessa tabela, como o preço de compra, esses valores são automaticamente alterados no catálogo através da ligação. Desta forma, os preços de compra deixam de ter de ser alterados manualmente.
 
@@ -95,7 +95,7 @@ As lojas são assim mapeadas geograficamente e fornecem informação sobre uma d
 
 ### Estatísticas para uma visão clara dos dados
 
-Os números das vendas são o coração desta tabela e extremamente importantes para a gestão digital de produtos. Os números mensais permitem análises de grande alcance. Para o primeiro e segundo trimestres, os números correctos já foram determinados com uma coluna de fórmula a fim de se poder comparar melhor os desenvolvimentos das lojas. Com a ajuda das suas próprias estatísticas SeaTable, pode criar [estatísticas](https://seatable.io/pt/docs/handbuch/seatable-nutzen/statistiken/) valiosas e significativas que estruturam os seus dados de uma forma informativa e visual.
+Os números das vendas são o coração desta tabela e extremamente importantes para a gestão digital de produtos. Os números mensais permitem análises de grande alcance. Para o primeiro e segundo trimestres, os números correctos já foram determinados com uma coluna de fórmula a fim de se poder comparar melhor os desenvolvimentos das lojas. Com a ajuda das suas próprias estatísticas SeaTable, pode criar [estatísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) valiosas e significativas que estruturam os seus dados de uma forma informativa e visual.
 
 Já criámos algumas estatísticas que são úteis para a avaliação dos dados desta tabela. Quase não há limites para as possibilidades de selecção: Ao seleccionar uma vista dependendo da tabela, podem ser criadas estatísticas altamente individualizadas; por exemplo, se uma loja tiver de ser analisada especificamente, pode ser criada uma vista única para este ramo e depois uma estatística criada apenas para ele.
 

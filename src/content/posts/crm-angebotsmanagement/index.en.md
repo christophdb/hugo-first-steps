@@ -33,7 +33,7 @@ Sales teams can optimise your sales pipeline, your marketing team can use the CR
 
 A CRM tool records all important customer data, such as the name of the customer, the address, the direct contact person(s), the e-mail address, the company website, the estimated sales potential and much more. Furthermore, you can have your CRM system automatically enriched or supplemented with further information and data.
 
-For example, it is also possible for you to link the purchase history of each individual customer at product level with your CRM system. Furthermore, you should be able to create an evaluation in the form of [statistics](https://seatable.io/en/docs/handbuch/datenmanagement/statistiken/?lang=auto) about your customers and their turnover within a few clicks.
+For example, it is also possible for you to link the purchase history of each individual customer at product level with your CRM system. Furthermore, you should be able to create an evaluation in the form of [statistics]({{< relref "help/base-editor/statistiken" >}}) about your customers and their turnover within a few clicks.
 
 For this, SeaTable offers you many possibilities to collect all customer data in one place in a cost-effective, lucrative and intuitive way. The departments and employees relevant to you can immediately start working together as a team. For example, assign read and/or write rights to your [sales](https://seatable.io/en/vertrieb/), [marketing]({{< relref "pages/industry-solutions/marketing" >}}), purchasing or customer service departments in no time at all.
 
@@ -43,7 +43,7 @@ The advantage of a CRM in SeaTable: You always have a central collection point w
 
 ## Enter new customer data
 
-To start recording the actual customer data, our [CRM template]({{< relref "templates/sales/crm-offer-management" >}}) provides you with a predefined [web form](https://seatable.io/en/docs/handbuch/datenmanagement/webformulare/?lang=auto) that you can adapt to your design and your wishes. With this, you enter all relevant information that is important for your CRM, such as the customer's name, address, contact person, telephone number, e-mail address, sales potential, important file attachments and much more.
+To start recording the actual customer data, our [CRM template]({{< relref "templates/sales/crm-offer-management" >}}) provides you with a predefined [web form]({{< relref "help/base-editor/webformulare" >}}) that you can adapt to your design and your wishes. With this, you enter all relevant information that is important for your CRM, such as the customer's name, address, contact person, telephone number, e-mail address, sales potential, important file attachments and much more.
 
 This data then moves into your personal CRM system or into the SeaTable table "Customer Data" and is directly colour-coded there according to sales potential.
 
@@ -51,19 +51,19 @@ This data then moves into your personal CRM system or into the SeaTable table "C
 
 Capture new customers via web form in SeaTable
 
-With just one look at row, you know exactly which turnover category the registered customer falls into. This should also help you to quickly and effectively assign the customer to one of your employees based on the turnover potential. The [notification rule that](https://seatable.io/en/docs/handbuch/zusammenarbeit/benachrichtigungen/?lang=auto) has been set is also particularly helpful here. If you subsequently change the turnover potential of the customer manually, the supervisor of the respective sales team is contacted directly and asked to assign the existing customer to one of his employees.
+With just one look at row, you know exactly which turnover category the registered customer falls into. This should also help you to quickly and effectively assign the customer to one of your employees based on the turnover potential. The [notification rule that]({{< relref "help/startseite/benachrichtigungen" >}}) has been set is also particularly helpful here. If you subsequently change the turnover potential of the customer manually, the supervisor of the respective sales team is contacted directly and asked to assign the existing customer to one of his employees.
 
 ![CRM system](CRM_Customer-data-view.jpg)
 
 The CRM system from SeaTable
 
-Furthermore, the [different views](https://seatable.io/en/docs/handbuch/datenmanagement/ansichten/) for the individual employees or departments in your company ensure that everyone can see and edit the information that is relevant to him or her. This is easily done using the [filter function](https://seatable.io/en/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto). For example, your marketing department only sees all contacts who have given a clear opt-in, i.e. consent to be contacted in the form of newsletters, phone calls, etc., and your employees in the sales team only see the customers assigned to him or her. Important: Sharing individual views is reserved for SeaTable's paid cloud subscriptions. With SeaTable Free, only entire bases can be shared with others.
+Furthermore, the [different views]({{< relref "help/base-editor/ansichten" >}}) for the individual employees or departments in your company ensure that everyone can see and edit the information that is relevant to him or her. This is easily done using the [filter function]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}). For example, your marketing department only sees all contacts who have given a clear opt-in, i.e. consent to be contacted in the form of newsletters, phone calls, etc., and your employees in the sales team only see the customers assigned to him or her. Important: Sharing individual views is reserved for SeaTable's paid cloud subscriptions. With SeaTable Free, only entire bases can be shared with others.
 
 ## Assignment of a contact person
 
 In order to be able to assign an employee from your sales team to your customer, you must first have maintained the table "Sales Team". Here you will find the name of your employee, the personnel number, which automatically results in this template, the position of the employee and the responsible sales potential. In addition, you can also see all the customers that have been assigned to each individual employee.
 
-A [grouping function](https://seatable.io/en/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) and colour coding of rows according to the employee's position are intended to show you additional clear customer structures of your employees.
+A [grouping function]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) and colour coding of rows according to the employee's position are intended to show you additional clear customer structures of your employees.
 
 ![CRM_Salesteam](CRM_Salesteam.jpg)
 
@@ -127,13 +127,13 @@ Kanban view in SeaTable
 
 ## Dashboard for 360° view of the customer
 
-In order to be able to make precise statements about your sales success, it is important that all relevant information is available in your CRM system at a glance. SeaTable enables you to create your own individual evaluations in no time at all with the help of [statistics](https://seatable.io/en/docs/handbuch/datenmanagement/statistiken/?lang=auto). This gives you your very own personal and individual dashboard view that gives your SeaTable CRM the finishing touch.
+In order to be able to make precise statements about your sales success, it is important that all relevant information is available in your CRM system at a glance. SeaTable enables you to create your own individual evaluations in no time at all with the help of [statistics]({{< relref "help/base-editor/statistiken" >}}). This gives you your very own personal and individual dashboard view that gives your SeaTable CRM the finishing touch.
 
 ![CRM_SeaTable_Statistics](crm_statistics.jpg)
 
 Statistics in SeaTable
 
-In this way, you always have an overview of the distribution of customers per employee, the turnover potential of the customers, the distribution of customers by federal state, the distribution and the corresponding turnover of your sold products as well as the cumulative turnover on a monthly level. If you need further [statistics](https://seatable.io/en/docs/handbuch/datenmanagement/statistiken/?lang=auto) , you can easily add them in a few minutes.
+In this way, you always have an overview of the distribution of customers per employee, the turnover potential of the customers, the distribution of customers by federal state, the distribution and the corresponding turnover of your sold products as well as the cumulative turnover on a monthly level. If you need further [statistics]({{< relref "help/base-editor/statistiken" >}}) , you can easily add them in a few minutes.
 
 ## A flexible CRM solution does not have to be expensive
 

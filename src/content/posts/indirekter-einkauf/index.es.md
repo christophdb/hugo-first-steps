@@ -38,7 +38,7 @@ En esta tabla se reúne mucha información: Las columnas "Producto", "€" para 
 
 ## Pedir productos con el formulario web integrado
 
-Con sus columnas, la tabla también constituye la base del [formulario web](https://seatable.io/es/docs/handbuch/seatable-nutzen/webformulare/) integrado para la organización de su oficina. Para realizar un pedido de material interno, los empleados seleccionan un producto de la lista - se trata de la columna vinculada "Productos" del catálogo de productos (Tabla 2). Después, sólo tienen que introducir la cantidad y en qué departamento trabajan, para que los pedidos queden claros.
+Con sus columnas, la tabla también constituye la base del [formulario web]({{< relref "help/base-editor/webformulare/webformulare" >}}) integrado para la organización de su oficina. Para realizar un pedido de material interno, los empleados seleccionan un producto de la lista - se trata de la columna vinculada "Productos" del catálogo de productos (Tabla 2). Después, sólo tienen que introducir la cantidad y en qué departamento trabajan, para que los pedidos queden claros.
 
 ![Formulario de pedido de material indirecto](bestellformular-indirektes-material.png)
 
@@ -80,7 +80,7 @@ Así es como funciona:
 
 ## Las vistas individuales y Kanban proporcionan una mejor visión de conjunto
 
-SeaTable no sería una solución óptima para la organización de oficinas si no tuviera también una función clara y práctica para la gestión de tareas. Por un lado, creamos [vistas](https://seatable.io/es/docs/handbuch/seatable-nutzen/ansichten/) diferentes para cada agente, de modo que sólo sean visibles los pedidos que le conciernen. Por ejemplo, un agente de material de oficina no necesita ver los pedidos de comida. Para ello, haga clic en la pequeña flecha de la esquina superior izquierda, en nuestro ejemplo titulada "Ver todo".
+SeaTable no sería una solución óptima para la organización de oficinas si no tuviera también una función clara y práctica para la gestión de tareas. Por un lado, creamos [vistas]({{< relref "help/base-editor/ansichten" >}}) diferentes para cada agente, de modo que sólo sean visibles los pedidos que le conciernen. Por ejemplo, un agente de material de oficina no necesita ver los pedidos de comida. Para ello, haga clic en la pequeña flecha de la esquina superior izquierda, en nuestro ejemplo titulada "Ver todo".
 
 ![Vista de Kanban de todos los pedidos en compras indirectas](kanban-view-indirekte-beschaffung.png)
 

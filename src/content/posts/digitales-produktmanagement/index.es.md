@@ -30,7 +30,7 @@ Por otro lado, también hay otras características del producto que no están de
 
 ### Más visión de conjunto con la doble agrupación
 
-Para crear una mejor visión de conjunto dentro del catálogo, utilizamos la [función de agrupación](https://seatable.io/es/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) múltiple de SeaTable. Esto le permite organizar y estructurar sus datos como desee: Por ejemplo, por serie y gama de calidad, o como en nuestro modelo, por serie y tipo de producto.
+Para crear una mejor visión de conjunto dentro del catálogo, utilizamos la [función de agrupación]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) múltiple de SeaTable. Esto le permite organizar y estructurar sus datos como desee: Por ejemplo, por serie y gama de calidad, o como en nuestro modelo, por serie y tipo de producto.
 
 ![Catálogo de productos para la gestión de productos digitales](Catalogue_Overview.png)
 
@@ -56,7 +56,7 @@ El resultado es un catálogo de productos muy detallado que permite a cada emple
 
 ![](Product-Data_Overview.png)
 
-En nuestro ejemplo, hemos creado directamente cálculos para el margen con el fin de observar cómo se comportan los productos individuales en la producción. Esto es muy fácil con la [columna de fórmulas](https://seatable.io/es/docs/handbuch/seatable-nutzen/feld-typen/), que primero calcula el margen y luego el margen en porcentaje. De este modo, los jefes de producto y los empleados pueden ver de un vistazo cómo van los distintos productos.
+En nuestro ejemplo, hemos creado directamente cálculos para el margen con el fin de observar cómo se comportan los productos individuales en la producción. Esto es muy fácil con la [columna de fórmulas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), que primero calcula el margen y luego el margen en porcentaje. De este modo, los jefes de producto y los empleados pueden ver de un vistazo cómo van los distintos productos.
 
 En la parte derecha de la pantalla aparecen los enlaces a la tabla "Catálogo" y "Proyectos". El primer enlace sirve para pasar correctamente algunos datos de la ficha de producto al catálogo, ya que algunas informaciones son las mismas. La tabla "Datos del producto" sirve de tabla maestra; cada vez que se modifican cosas en ella, como el precio de compra, estos valores se cambian automáticamente en el catálogo a través del enlace. De este modo, ya no es necesario modificar manualmente los precios de compra.
 
@@ -95,7 +95,7 @@ De este modo, se traza un mapa geográfico de las tiendas y se obtiene informaci
 
 ### Estadísticas para una visión clara de los datos
 
-Las cifras de ventas son el corazón de esta tabla y son extremadamente importantes para la gestión de productos digitales. Las cifras mensuales permiten realizar análisis de gran alcance. Para el primer y el segundo trimestre ya se han determinado las cifras correctas con una columna de fórmulas para poder comparar mejor la evolución de las tiendas. Con la ayuda de sus propias estadísticas SeaTable, puede crear [estadísticas](https://seatable.io/es/docs/handbuch/seatable-nutzen/statistiken/) valiosas y significativas que estructuren sus datos de forma informativa y visual.
+Las cifras de ventas son el corazón de esta tabla y son extremadamente importantes para la gestión de productos digitales. Las cifras mensuales permiten realizar análisis de gran alcance. Para el primer y el segundo trimestre ya se han determinado las cifras correctas con una columna de fórmulas para poder comparar mejor la evolución de las tiendas. Con la ayuda de sus propias estadísticas SeaTable, puede crear [estadísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) valiosas y significativas que estructuren sus datos de forma informativa y visual.
 
 Ya hemos creado algunas estadísticas que son útiles para la evaluación de los datos de esta tabla. Las posibilidades de selección apenas tienen límites: Seleccionando una vista en función de la tabla, se pueden crear estadísticas muy individualizadas; por ejemplo, si se quiere analizar específicamente una tienda, se puede crear una única vista para esta sucursal y luego crear una estadística sólo para ella.
 

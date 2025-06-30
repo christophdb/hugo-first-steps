@@ -47,7 +47,7 @@ Good communication within the team is key for efficient online collaboration. Wi
 
 ![Real-time chat in comments](comment-chat.png)
 
-If you are not yet familiar with the comment function, select a row and press the space bar to call up the line details. In the upper right corner you will find the comment column. SeaTable's improved backend notifies users of new comments without delay. If the users are online, then the group chat can start. Otherwise, users are informed by [notification](https://seatable.io/en/docs/handbuch/zusammenarbeit/benachrichtigungen/). Share your ideas and impressions with colleagues when they are fresh.
+If you are not yet familiar with the comment function, select a row and press the space bar to call up the line details. In the upper right corner you will find the comment column. SeaTable's improved backend notifies users of new comments without delay. If the users are online, then the group chat can start. Otherwise, users are informed by [notification]({{< relref "help/startseite/benachrichtigungen" >}}). Share your ideas and impressions with colleagues when they are fresh.
 
 ## More automation with webhooks
 

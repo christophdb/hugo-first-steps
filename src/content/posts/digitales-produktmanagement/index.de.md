@@ -31,7 +31,7 @@ Zum anderen gibt es auch weitere Produktcharakteristika, die nicht für die Öff
 
 ### Mehr Übersicht mit doppelter Gruppierung
 
-Um innerhalb des Katalogs eine bessere Übersicht zu erzeugen, nutzen wir die mehrfache [Gruppierungsfunktion](https://seatable.io/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) von SeaTable. Damit können Sie Ihre Daten nach Belieben ordnen und strukturieren: Zum Beispiel nach Serie und Qualitätsrange, oder wie in unserem Template, nach Produktserie und Produktart.
+Um innerhalb des Katalogs eine bessere Übersicht zu erzeugen, nutzen wir die mehrfache [Gruppierungsfunktion]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) von SeaTable. Damit können Sie Ihre Daten nach Belieben ordnen und strukturieren: Zum Beispiel nach Serie und Qualitätsrange, oder wie in unserem Template, nach Produktserie und Produktart.
 
 ![Produktkatalog für digitales Produktmanagement](Catalogue_Overview.png)
 
@@ -57,7 +57,7 @@ Damit ergibt sich ein sehr ausführlicher Produktkatalog, der es jedem Mitarbeit
 
 ![](Product-Data_Overview.png)
 
-In unserem Beispiel haben wir direkt Berechnungen für die Marge angelegt, um zu beobachten, wie die einzelnen Produkte in der Herstellung performen. Das geht ganz leicht mit der [Formelspalte](https://seatable.io/docs/handbuch/seatable-nutzen/feld-typen/), mit der zuerst die Marge und dann die Marge in Prozent ausgerechnet wurden. So haben Produktmanager und Mitarbeiter auf einen Blick, wie es um die verschiedenen Produkte steht.
+In unserem Beispiel haben wir direkt Berechnungen für die Marge angelegt, um zu beobachten, wie die einzelnen Produkte in der Herstellung performen. Das geht ganz leicht mit der [Formelspalte]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), mit der zuerst die Marge und dann die Marge in Prozent ausgerechnet wurden. So haben Produktmanager und Mitarbeiter auf einen Blick, wie es um die verschiedenen Produkte steht.
 
 Im rechten Teil des Bilds sehen Sie Verknüpfungen zur Tabelle “Catalogue” und “Projects”. Die erste Verknüpfung dient dazu, einige Daten aus dem Produktdatenblatt korrekt an den Katalog weiterzugeben, da einige Informationen gleich sind. Die Tabelle “Product Data” dient dabei als Master-Tabelle; immer, wenn dort Dinge, wie etwa der Einkaufs-Preis, geändert werden, so ändern sich diese Werte durch die Verknüpfung automatisch auch im Katalog. Auf diese Weise müssen EK-Preise nicht mehr manuell geändert werden.
 
@@ -96,7 +96,7 @@ Damit sind Stores geografisch abgebildet und geben so Aufschluss über eine beso
 
 ### Statistiken für einen klaren Blick auf Daten
 
-Die Verkaufszahlen sind das Herzstück dieser Tabelle und extrem wichtig für das digitale Produktmanagement. Die monatlich übermittelten Zahlen lassen weitreichende Analysen zu. Für das erste und zweite Quartal wurden bereits mit einer Formelspalte die korrekten Zahlen ermittelt, um die Entwicklungen der Stores besser vergleichen zu können. Mithilfe der eigenen SeaTable-Statistiken können Sie wertvolle und aussagekräftige [Statistiken](https://seatable.io/docs/handbuch/seatable-nutzen/statistiken/) erstellen, die Ihre Daten aufschlussreich und visuell strukturieren.
+Die Verkaufszahlen sind das Herzstück dieser Tabelle und extrem wichtig für das digitale Produktmanagement. Die monatlich übermittelten Zahlen lassen weitreichende Analysen zu. Für das erste und zweite Quartal wurden bereits mit einer Formelspalte die korrekten Zahlen ermittelt, um die Entwicklungen der Stores besser vergleichen zu können. Mithilfe der eigenen SeaTable-Statistiken können Sie wertvolle und aussagekräftige [Statistiken]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) erstellen, die Ihre Daten aufschlussreich und visuell strukturieren.
 
 Wir haben bereits einige Statistiken erstellt, die hilfreich für die Datenauswertung dieser Tabelle sind. Dabei sind den Auswahlmöglichkeiten kaum Grenzen gesetzt: Indem Sie je nach Tabelle eine Ansicht auswählen, können hochindividuelle Statistiken erstellt werden; wenn zum Beispiel ein Shop gezielt analysiert werden soll, kann eine einzelne Ansicht für diese Filiale erstellt und anschließend eine Statistik nur hierfür erstellt werden.
 

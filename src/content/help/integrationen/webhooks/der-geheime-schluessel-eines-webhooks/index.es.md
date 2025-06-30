@@ -53,7 +53,7 @@ La clave secreta es un [secreto compartido](https://en.wikipedia.org/wiki/Shared
 
 ## Validación de la firma
 
-En cada lenguaje de programación, deberían existir las funciones correspondientes para poder validar dicha firma como corresponde. Puedes averiguar cómo sería esta comprobación en PHP en [este artículo](https://seatable.io/es/docs/webhooks/verarbeitung-eines-webhooks-mit-hilfe-von-php/).
+En cada lenguaje de programación, deberían existir las funciones correspondientes para poder validar dicha firma como corresponde. Puedes averiguar cómo sería esta comprobación en PHP en [este artículo]({{< relref "help/integrationen/webhooks/verarbeitung-eines-webhooks-mit-hilfe-von-php" >}}).
 
 En el caso de Python, un examen podría tener este aspecto:
 

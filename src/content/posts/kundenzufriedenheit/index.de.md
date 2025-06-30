@@ -21,7 +21,7 @@ Um die Kundenzufriedenheit steigern zu können, müssen Sie über die aktuelle K
 
 Egal für welche Methode Sie sich entscheiden, Sie benötigen immer ein Tool, um das Kundenfeedback einzuholen, zu messen und im Anschluss auszuwerten. Dieser Vorgang sollte unkompliziert und ohne großen Aufwand jederzeit wiederholt werden können. Gleichzeitig muss die Auswertung auch bei großen Datenmengen übersichtlich bleiben. Diese Auswertung nennt man häufig auch _User Experience Research_ oder _UX Research_.
 
-Mit SeaTable geben wir Ihnen das perfekte Tool an die Hand. SeaTable hilft Ihnen mit einfach zu teilenden [Webformularen](https://seatable.io/docs/handbuch/datenmanagement/webformulare/) bei der Erhebung und mit [Statistikfunktionen](https://seatable.io/docs/handbuch/datenmanagement/statistiken/) beim Auswerten und Priorisieren des Kundenfeedbacks. Wir haben sogar ein [Template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) vorbereitet, das Ihnen erste Inspiration geben soll und mit dem Sie die folgenden drei Schritte durchführen können. Schauen Sie doch einfach mal rein.
+Mit SeaTable geben wir Ihnen das perfekte Tool an die Hand. SeaTable hilft Ihnen mit einfach zu teilenden [Webformularen]({{< relref "help/base-editor/webformulare" >}}) bei der Erhebung und mit [Statistikfunktionen]({{< relref "help/base-editor/statistiken" >}}) beim Auswerten und Priorisieren des Kundenfeedbacks. Wir haben sogar ein [Template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) vorbereitet, das Ihnen erste Inspiration geben soll und mit dem Sie die folgenden drei Schritte durchführen können. Schauen Sie doch einfach mal rein.
 
 ## Schritt 1: Daten zur Kundenzufriedenheit erheben
 

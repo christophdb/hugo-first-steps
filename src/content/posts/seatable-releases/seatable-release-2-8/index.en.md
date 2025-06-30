@@ -39,7 +39,7 @@ The column descriptions introduced in SeaTable 2.8 are intended for exactly this
 
 ## Formatted help text in web forms
 
-Help texts in [web forms](https://seatable.io/en/docs/handbuch/seatable-nutzen/webformulare/) have the same motivation as column descriptions: They allow a more precise and frustration-free processing of the forms. In addition, information obligations (keyword DSGVO) can be fulfilled in them.
+Help texts in [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) have the same motivation as column descriptions: They allow a more precise and frustration-free processing of the forms. In addition, information obligations (keyword DSGVO) can be fulfilled in them.
 
 New in SeaTable 2.8 is the possibility to format the help texts and to insert pictures and tables. This makes it possible to present longer texts more clearly or to replace many words with a few images. The help texts are edited via SeaTable's revised editor for formatted text.
 

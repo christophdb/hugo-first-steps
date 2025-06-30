@@ -33,7 +33,7 @@ Folgende Artikel könnten für Sie interessant sein:
 
 ## Bases und Freigaben
 
-Innerhalb der Teamverwaltung können Sie alle **Bases** Ihrer Teammitglieder sehen und nachvollziehen, wer zu welchen Bases eine **Zugriffsberechtigung** hat. Zudem können Sie versandte [Einladungs-Links]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) und [externe Links](https://seatable.io/docs/freigabelinks/externer-link-erklaert/) überwachen, einschränken und sehen, ob die Links Lese- oder Schreibrechte gewähren und wie oft sie aufgerufen wurden.
+Innerhalb der Teamverwaltung können Sie alle **Bases** Ihrer Teammitglieder sehen und nachvollziehen, wer zu welchen Bases eine **Zugriffsberechtigung** hat. Zudem können Sie versandte [Einladungs-Links]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) und [externe Links]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) überwachen, einschränken und sehen, ob die Links Lese- oder Schreibrechte gewähren und wie oft sie aufgerufen wurden.
 
 Folgende Artikel könnten für Sie interessant sein:
 

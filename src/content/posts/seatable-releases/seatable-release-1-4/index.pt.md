@@ -16,7 +16,7 @@ Para uma lista completa das alterações, por favor ver o [SeaTable Changelog](h
 
 ## Bem-vindo à Equipa Tipo de Coluna #18
 
-SeaTable 1.4 contém outro tipo de coluna: a [coluna URL](https://seatable.io/pt/docs/handbuch/datenmanagement/feld-typen/#url). Isto comporta-se como uma coluna de texto, mas o conteúdo da célula é interpretado como uma referência a um recurso da rede. Os endereços Internet e IP tais como https://seatable.io, www.seafile.com, 192.168.178.1 e localhost:8000 estão em boas mãos na coluna URL.
+SeaTable 1.4 contém outro tipo de coluna: a [coluna URL]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#url). Isto comporta-se como uma coluna de texto, mas o conteúdo da célula é interpretado como uma referência a um recurso da rede. Os endereços Internet e IP tais como https://seatable.io, www.seafile.com, 192.168.178.1 e localhost:8000 estão em boas mãos na coluna URL.
 
 O endereço de um recurso da rede pode ser chamado a partir de uma coluna URL com dois cliques. Com o primeiro clique, aparece um ícone de ligação na margem direita da célula. Com um segundo clique neste ícone, o endereço é chamado num novo separador do navegador; http(s) é automaticamente adicionado como um prefixo. Se agora se pergunta por que razão são necessários dois cliques, eis a razão: dois cliques protegem contra chamadas erradas de páginas web quando se navega na tabela, o que pode facilmente acontecer especialmente em dispositivos móveis.
 
@@ -46,7 +46,7 @@ Uma colaboração eficiente em linha não é possível sem uma boa comunicação
 
 ![Conversa em tempo real nos comentários](comment-chat.png)
 
-Se ainda não estiver familiarizado com a função de comentário, seleccione uma linha e prima a barra de espaço para chamar os detalhes da linha. No canto superior direito encontrará a coluna de comentários. O backend melhorado do SeaTable notifica os utilizadores de novos comentários sem demora. Se os utilizadores estiverem online, então o chat em grupo pode começar. Caso contrário, os utilizadores são informados através de [notificação](https://seatable.io/pt/docs/handbuch/zusammenarbeit/benachrichtigungen/). Partilhe as suas ideias e impressões com os seus colegas quando estes estão frescos.
+Se ainda não estiver familiarizado com a função de comentário, seleccione uma linha e prima a barra de espaço para chamar os detalhes da linha. No canto superior direito encontrará a coluna de comentários. O backend melhorado do SeaTable notifica os utilizadores de novos comentários sem demora. Se os utilizadores estiverem online, então o chat em grupo pode começar. Caso contrário, os utilizadores são informados através de [notificação]({{< relref "help/startseite/benachrichtigungen" >}}). Partilhe as suas ideias e impressões com os seus colegas quando estes estão frescos.
 
 ## Gancho da Web para melhor automatização
 

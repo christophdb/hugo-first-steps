@@ -39,7 +39,7 @@ In this table a lot of information comes together: The columns "Product", "€" 
 
 ## Order goods with the integrated web form
 
-The table with its columns also provides the basis for the integrated [web form](https://seatable.io/en/docs/handbuch/seatable-nutzen/webformulare/) for your office organization. For an order of internal material, the employees select a product from the list - this is the linked column "Products" from the product catalog (Table 2). After that, they only specify the quantity and in which department they work, so that the orders remain clear.
+The table with its columns also provides the basis for the integrated [web form]({{< relref "help/base-editor/webformulare/webformulare" >}}) for your office organization. For an order of internal material, the employees select a product from the list - this is the linked column "Products" from the product catalog (Table 2). After that, they only specify the quantity and in which department they work, so that the orders remain clear.
 
 ![Order form indirect material](bestellformular-indirektes-material.png)
 
@@ -81,7 +81,7 @@ Here's how it works:
 
 ## Individual views and Kanban provide a better overview
 
-SeaTable would not be an optimal solution for office organization if it did not have a clear and practical function for task management as well. First, we create different [views](https://seatable.io/en/docs/handbuch/seatable-nutzen/ansichten/) for each agent, so that only the orders that are relevant for him are visible. For example, a processor for office equipment does not need to see the orders for food. This can be done by clicking on the small arrow in the upper left corner, in our example titled "View all".
+SeaTable would not be an optimal solution for office organization if it did not have a clear and practical function for task management as well. First, we create different [views]({{< relref "help/base-editor/ansichten" >}}) for each agent, so that only the orders that are relevant for him are visible. For example, a processor for office equipment does not need to see the orders for food. This can be done by clicking on the small arrow in the upper left corner, in our example titled "View all".
 
 ![Kanban view of all orders in indirect procurement](kanban-view-indirekte-beschaffung.png)
 

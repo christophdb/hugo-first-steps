@@ -23,20 +23,20 @@ Ambas acciones se realizan a través del diálogo de **compartir**, una ventana 
 Si quieres compartir una de tus bases, tienes varias opciones dependiendo de con quién quieras compartirla:
 
 - [Liberación para los usuarios]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Liberación para el grupo](https://seatable.io/es/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Liberación para el grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Liberación a través de un enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Comunicado a través de un enlace externo](https://seatable.io/es/docs/freigabelinks/externer-link-erklaert/)
+- [Comunicado a través de un enlace externo]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
 ### Acción personalizada
 
-Si no quieres compartir una base entera, sino sólo partes de ella, por supuesto también es posible. La [compartición personalizada](https://seatable.io/es/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) permite compartir varias tablas y vistas al mismo tiempo y enviarlas agrupadas a los miembros de un equipo o a grupos enteros.
+Si no quieres compartir una base entera, sino sólo partes de ella, por supuesto también es posible. La [compartición personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) permite compartir varias tablas y vistas al mismo tiempo y enviarlas agrupadas a los miembros de un equipo o a grupos enteros.
 
 ## Liberación de una vista
 
 Si sólo quieres compartir una vista, puedes hacerlo con tres grupos de personas:
 
 - [Liberar a un miembro del equipo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Liberar a un grupo](https://seatable.io/es/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
+- [Liberar a un grupo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Comunicado a través de un enlace externo]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Para más información, consulte también el artículo [Base y ver las versiones]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) de un vistazo.

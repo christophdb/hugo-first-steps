@@ -50,7 +50,7 @@ Recolha facilmente todos os seus dados num só local: com SeaTable. [O nosso mod
 
 ### 1\. visão geral do produto
 
-Para dar a cada empregado uma visão abrangente do produto, é útil uma folha de síntese padrão. Esta listagem enumera as informações mais importantes sobre o produto, tais como séries de produtos, tipo de produto, nome oficial do produto para o comércio, número de item, preços e imagens de produtos associados. Uma breve visão geral é particularmente valiosa para pessoas não familiarizadas com o assunto. Com as várias vistas no SeaTable, os dados podem ser [filtrados e guardados com](https://seatable.io/pt/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) apenas alguns cliques, por exemplo por série ou tipo de produto, e a tediosa triagem manual já não é necessária.
+Para dar a cada empregado uma visão abrangente do produto, é útil uma folha de síntese padrão. Esta listagem enumera as informações mais importantes sobre o produto, tais como séries de produtos, tipo de produto, nome oficial do produto para o comércio, número de item, preços e imagens de produtos associados. Uma breve visão geral é particularmente valiosa para pessoas não familiarizadas com o assunto. Com as várias vistas no SeaTable, os dados podem ser [filtrados e guardados com]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) apenas alguns cliques, por exemplo por série ou tipo de produto, e a tediosa triagem manual já não é necessária.
 
 ![Nesta perspectiva tem todos os produtos imediatamente em vista - perfeito para a gestão de produtos](Range-View_2.jpg)
 

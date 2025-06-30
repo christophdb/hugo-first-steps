@@ -38,7 +38,7 @@ Für genau diese Art von Informationen sind die Spaltenbeschreibungen gedacht, d
 
 ## Formatierter Hilfstext in Webformularen
 
-Die Hilfetexte in [Webformularen](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/) haben die gleiche Motivation wie Spaltenbeschreibungen: Sie erlauben eine präzisere und frustfreiere Bearbeitung der Formulare. Außerdem lassen sich in Ihnen Informationspflichten (Stichwort DSGVO) erfüllen.
+Die Hilfetexte in [Webformularen]({{< relref "help/base-editor/webformulare/webformulare" >}}) haben die gleiche Motivation wie Spaltenbeschreibungen: Sie erlauben eine präzisere und frustfreiere Bearbeitung der Formulare. Außerdem lassen sich in Ihnen Informationspflichten (Stichwort DSGVO) erfüllen.
 
 Neu in SeaTable 2.8 ist nun die Möglichkeit, die Hilfetexte zu formatieren sowie Bilder und Tabellen einzufügen. So lassen sich längere Texte anschaulicher präsentieren oder auch viele Worte durch wenige Bilder ersetzen. Die Bearbeitung der Hilfetexte erfolgt über SeaTables überarbeiteten Editor für formatierten Text.
 

@@ -51,7 +51,7 @@ Easily collect all your data in one place: with SeaTable. [Our template for prod
 
 ### 1\. general product overview
 
-To give every employee a comprehensive view of the product, a standard overview sheet is useful. This lists the most important product information, such as product series, product type, the official product name for the trade, item number, prices and associated product images. A brief overview is particularly valuable for people unfamiliar with the subject. With the various views in SeaTable, the data can be [filtered and saved with](https://seatable.io/en/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) just a few clicks, for example by product series or product type, and tedious manual sorting is no longer necessary.
+To give every employee a comprehensive view of the product, a standard overview sheet is useful. This lists the most important product information, such as product series, product type, the official product name for the trade, item number, prices and associated product images. A brief overview is particularly valuable for people unfamiliar with the subject. With the various views in SeaTable, the data can be [filtered and saved with]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) just a few clicks, for example by product series or product type, and tedious manual sorting is no longer necessary.
 
 ![In this view you have all products immediately in view - perfect for product management](Range-View_2.jpg)
 

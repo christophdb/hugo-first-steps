@@ -64,7 +64,7 @@ The archive view shows archived and non-archived rows and allows evaluations of 
 
 ### External links without logs and comments
 
-The table history and comments are not part of the information that one would normally want to make quasi-public via an [external link](https://seatable.io/en/docs/handbuch/zusammenarbeit/externe-links/?lang=auto). Therefore, logs and comments are no longer displayed in the row details of external links in SeaTable from version 2.3.
+The table history and comments are not part of the information that one would normally want to make quasi-public via an [external link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}). Therefore, logs and comments are no longer displayed in the row details of external links in SeaTable from version 2.3.
 
 ### Default values for forms
 

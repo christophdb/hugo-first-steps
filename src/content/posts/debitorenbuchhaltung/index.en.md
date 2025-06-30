@@ -59,13 +59,13 @@ In our last article, "[CRM: From Customer Entry to Quotation]({{< relref "posts/
 
 ### **From the offer to the invoice order**
 
-The spreadsheet "Offers" has now been extended by the three new [columns](https://seatable.io/en/docs/handbuch/datenmanagement/feld-typen/?lang=auto) "Accounting Department", "Payment Status" and "Invoices". If your customer has accepted your offer and wants to purchase the goods or services, you now have the possibility to inform the accounting department to please create an invoice for the customer with just one click on the button "Please create Invoice". All the important data for the accepted offer will go directly into the "Invoices" worksheet as a new row . For this purpose, a script is executed in the background that writes the data directly into the "Invoices" table and ensures a link with the "Invoices", "Offers" and "Customer data" spreadsheets.
+The spreadsheet "Offers" has now been extended by the three new [columns]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) "Accounting Department", "Payment Status" and "Invoices". If your customer has accepted your offer and wants to purchase the goods or services, you now have the possibility to inform the accounting department to please create an invoice for the customer with just one click on the button "Please create Invoice". All the important data for the accepted offer will go directly into the "Invoices" worksheet as a new row . For this purpose, a script is executed in the background that writes the data directly into the "Invoices" table and ensures a link with the "Invoices", "Offers" and "Customer data" spreadsheets.
 
 ![Accounts Receivable - Offer](Ansicht_Offers.png)
 
 Overview of the offer page in SeaTable
 
-You can then conveniently view the actual payment status in the "Payment Status" [column](https://seatable.io/en/docs/handbuch/datenmanagement/feld-typen/?lang=auto). All invoices are also linked to the "Invoices" spreadsheet and can of course also be viewed in the "Invoices" column. In this way, you as an entrepreneur and your sales team always have all the important information at a glance and, if necessary, can also follow up personally with the customer if a payment should not be made on time.
+You can then conveniently view the actual payment status in the "Payment Status" [column]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). All invoices are also linked to the "Invoices" spreadsheet and can of course also be viewed in the "Invoices" column. In this way, you as an entrepreneur and your sales team always have all the important information at a glance and, if necessary, can also follow up personally with the customer if a payment should not be made on time.
 
 ### **Invoice creation in just a few seconds**
 
@@ -83,7 +83,7 @@ Your finished invoice in the page design plug-in
 
 ### **Keeping an eye on the payment status**
 
-To ensure that all relevant persons in your company besides the actual accounts receivable department know whether a customer pays his invoices or not, the "Payment Status" column is available. If a quote is accepted by the customer and an invoice is generated, the payment status is automatically changed to "Pending". Once a payment is received, your Accounts Receivable department can change the Single Select column "Payment Status" to "Paid" and record the date the payment was received under "Date of Payment". With the [grouping feature](https://seatable.io/en/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) and the different [views](https://seatable.io/en/docs/handbuch/datenmanagement/ansichten/?lang=auto) by "Payment Status", you get the best possible view of all current payment statuses. Furthermore, you will now also find the "Invoice Status" in the Kanban plug-in, so that you really cannot lose sight of any payment status.
+To ensure that all relevant persons in your company besides the actual accounts receivable department know whether a customer pays his invoices or not, the "Payment Status" column is available. If a quote is accepted by the customer and an invoice is generated, the payment status is automatically changed to "Pending". Once a payment is received, your Accounts Receivable department can change the Single Select column "Payment Status" to "Paid" and record the date the payment was received under "Date of Payment". With the [grouping feature]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) and the different [views]({{< relref "help/base-editor/ansichten" >}}?lang=auto) by "Payment Status", you get the best possible view of all current payment statuses. Furthermore, you will now also find the "Invoice Status" in the Kanban plug-in, so that you really cannot lose sight of any payment status.
 
 ![Accounts Receivable - Payments](Ansicht_Invoices_Status.png)
 
@@ -103,7 +103,7 @@ Send payment information to your customers directly from SeaTable
 
 ### **Always all figures in view**
 
-To ensure that you always have the most important figures in view, the template has been supplemented with three additional relevant [statistics](https://seatable.io/en/docs/handbuch/datenmanagement/statistiken/?lang=auto). Under "Turnover of all product" you will now find the total turnover that you have generated through services or goods in your company. Under "Invoice status in percentage" you can see exactly how many invoices have been recorded in total and how these are divided up in percent according to the three different payment statuses "Paid", "Pending" and "Dunning". So that you always know exactly what this means in terms of turnover, the statistic "Payment Status (Turnover)" has also been integrated. This accurately reflects the turnover of the different payment statuses of your customers.
+To ensure that you always have the most important figures in view, the template has been supplemented with three additional relevant [statistics]({{< relref "help/base-editor/statistiken" >}}). Under "Turnover of all product" you will now find the total turnover that you have generated through services or goods in your company. Under "Invoice status in percentage" you can see exactly how many invoices have been recorded in total and how these are divided up in percent according to the three different payment statuses "Paid", "Pending" and "Dunning". So that you always know exactly what this means in terms of turnover, the statistic "Payment Status (Turnover)" has also been integrated. This accurately reflects the turnover of the different payment statuses of your customers.
 
 ## With SeaTable you and your accounts receivable department can sleep soundly
 

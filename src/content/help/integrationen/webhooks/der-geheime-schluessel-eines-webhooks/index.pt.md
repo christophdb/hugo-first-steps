@@ -53,7 +53,7 @@ A chave secreta é um [segredo partilhado](https://en.wikipedia.org/wiki/Shared_
 
 ## Validação da assinatura
 
-Em todas as linguagens de programação, deve haver funções correspondentes para poder validar tal assinatura em conformidade. Pode descobrir como seria esta verificação em PHP [neste artigo](https://seatable.io/pt/docs/webhooks/verarbeitung-eines-webhooks-mit-hilfe-von-php/).
+Em todas as linguagens de programação, deve haver funções correspondentes para poder validar tal assinatura em conformidade. Pode descobrir como seria esta verificação em PHP [neste artigo]({{< relref "help/integrationen/webhooks/verarbeitung-eines-webhooks-mit-hilfe-von-php" >}}).
 
 Para Python, um exame pode parecer-se com isto:
 

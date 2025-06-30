@@ -27,7 +27,7 @@ SeaTable can offer an intelligent and adequate replacement here and also has the
 
 ## With the form function to the appointment booking system
 
-To create an appointment booking system in SeaTable, we will use the [form feature](https://seatable.io/en/docs/handbuch/datenmanagement/webformulare/). This way you can collect information from anyone through a simple link and automatically store it in your SeaTable Base.
+To create an appointment booking system in SeaTable, we will use the [form feature]({{< relref "help/base-editor/webformulare" >}}). This way you can collect information from anyone through a simple link and automatically store it in your SeaTable Base.
 
 ## Creating your two required tables
 

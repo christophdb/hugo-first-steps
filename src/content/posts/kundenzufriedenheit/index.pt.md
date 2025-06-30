@@ -20,7 +20,7 @@ Para aumentar a satisfação do cliente, é necessário conhecer a satisfação 
 
 Independentemente do método escolhido, é sempre necessária uma ferramenta para recolher, medir e, posteriormente, avaliar o feedback dos clientes. Este processo deve ser simples e fácil de repetir em qualquer altura. Ao mesmo tempo, a avaliação deve permanecer clara, mesmo com grandes quantidades de dados. Esta avaliação também é frequentemente designada por _User Experience Research_ ou _UX Research_.
 
-Com o SeaTable, oferecemos-lhe a ferramenta perfeita. O SeaTable ajuda-o a recolher [formulários Web](https://seatable.io/pt/docs/handbuch/datenmanagement/webformulare/) fáceis de partilhar e a avaliar e dar prioridade aos comentários dos clientes com [funções estatísticas](https://seatable.io/pt/docs/handbuch/datenmanagement/statistiken/). Até preparámos um [modelo]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para lhe dar alguma inspiração inicial, que pode utilizar para completar os três passos seguintes. Basta dar uma vista de olhos.
+Com o SeaTable, oferecemos-lhe a ferramenta perfeita. O SeaTable ajuda-o a recolher [formulários Web]({{< relref "help/base-editor/webformulare" >}}) fáceis de partilhar e a avaliar e dar prioridade aos comentários dos clientes com [funções estatísticas]({{< relref "help/base-editor/statistiken" >}}). Até preparámos um [modelo]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para lhe dar alguma inspiração inicial, que pode utilizar para completar os três passos seguintes. Basta dar uma vista de olhos.
 
 ## Etapa 1: Recolher dados sobre a satisfação do cliente
 

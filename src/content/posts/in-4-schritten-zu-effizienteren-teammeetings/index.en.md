@@ -66,7 +66,7 @@ The agenda also helps to prepare for the meeting accordingly. A quick glance at 
 
 ![The chat function makes e-mails superfluous ](Chat-Funktion.png)
 
-The [chat function](https://seatable.io/en/docs/handbuch/zusammenarbeit/kommentare/) in each row, i.e. in each individual team meeting, enables uncomplicated and streamlined communication that makes any e-mails superfluous. When you open row (click on the small blue arrows on the left in row), an overall view of the meeting opens. On the right is the chat, where you can easily add employees and write important messages, such as that employee Müller should please upload the interim presentation with the annual review.
+The [chat function]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) in each row, i.e. in each individual team meeting, enables uncomplicated and streamlined communication that makes any e-mails superfluous. When you open row (click on the small blue arrows on the left in row), an overall view of the meeting opens. On the right is the chat, where you can easily add employees and write important messages, such as that employee Müller should please upload the interim presentation with the annual review.
 
 The tagged staff member receives an automatic notification by email about the chat message and can then simply reply to it in the chat itself. In this way, questions can be clarified in advance, materials collected or other important information exchanged. Everything is collected transparently and comprehensibly so that everyone is on board and responsibilities are clearly delineated.
 

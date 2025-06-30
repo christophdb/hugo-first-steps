@@ -33,7 +33,7 @@ Los siguientes artículos pueden ser de su interés:
 
 ## Bases y liberaciones
 
-Dentro de la administración del equipo, puede ver todas las **bases de** los miembros de su equipo y hacer un seguimiento de quién tiene **autorización de acceso** a qué bases. Además, puede supervisar y restringir los enlaces de [invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) enviados y [los enlaces externos](https://seatable.io/es/docs/freigabelinks/externer-link-erklaert/) y ver si los enlaces conceden acceso de lectura o escritura y con qué frecuencia se ha accedido a ellos.
+Dentro de la administración del equipo, puede ver todas las **bases de** los miembros de su equipo y hacer un seguimiento de quién tiene **autorización de acceso** a qué bases. Además, puede supervisar y restringir los enlaces de [invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) enviados y [los enlaces externos]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) y ver si los enlaces conceden acceso de lectura o escritura y con qué frecuencia se ha accedido a ellos.
 
 Los siguientes artículos pueden ser de su interés:
 

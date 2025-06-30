@@ -33,7 +33,7 @@ Vertriebsteams können Ihre Vertriebspipeline optimieren, Ihr Marketingteam kann
 
 Ein CRM-Tool erfasst alle wichtigen Kundendaten, wie den Namen des Kunden, die Anschrift, den oder die direkten Ansprechpartner, die E-Mail-Adresse, die Unternehmenswebseite, das geschätzte Umsatzpotenzial und vieles mehr. Des Weiteren können Sie Ihr CRM-System automatisch mit weiteren Informationen und Daten anreichern bzw. ergänzen lassen.
 
-So ist es Ihnen beispielsweise möglich, auch die Kaufhistorie jedes einzelnen Kunden auf Produktebene mit Ihrem CRM-System zu verknüpfen. Darüber hinaus sollte es Ihnen möglich sein, innerhalb weniger Klicks eine Auswertung in Form von [Statistiken](https://seatable.io/docs/handbuch/datenmanagement/statistiken/?lang=auto) über Ihre Kunden und deren Umsatz erstellen.
+So ist es Ihnen beispielsweise möglich, auch die Kaufhistorie jedes einzelnen Kunden auf Produktebene mit Ihrem CRM-System zu verknüpfen. Darüber hinaus sollte es Ihnen möglich sein, innerhalb weniger Klicks eine Auswertung in Form von [Statistiken]({{< relref "help/base-editor/statistiken" >}}) über Ihre Kunden und deren Umsatz erstellen.
 
 Hierzu bietet Ihnen SeaTable viele Möglichkeiten, um kostengünstig, lukrativ und intuitiv sämtliche Kundendaten an einem Ort zu sammeln. Die für Sie relevanten Abteilungen und Mitarbeiter können sofort loslegen, zusammen im Team zu arbeiten. Teilen Sie beispielsweise Lese- und oder Schreibrechte Ihrem [Vertrieb](https://seatable.io/vertrieb/), Ihrem [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), Ihrem Einkauf oder Kundendienst im Handumdrehen zu.
 
@@ -43,7 +43,7 @@ Der Vorteil eines CRM in SeaTable: Sie haben immer einen zentralen Sammelpunkt, 
 
 ## Neue Kundendaten erfassen
 
-Um mit der Erfassung der eigentlichen Kundendaten zu starten, steht Ihnen bei unserem [CRM-Template]({{< relref "templates/sales/crm-offer-management" >}}) ein vordefiniertes [Webformular](https://seatable.io/docs/handbuch/datenmanagement/webformulare/?lang=auto) zur Verfügung, das Sie nach Belieben an Ihr Design und an Ihre Wünsche anpassen können. Hiermit erfassen Sie alle relevanten Informationen, die für Ihr CRM wichtig sind, wie z. B. den Kundennamen, die Anschrift des Kunden, den Ansprechpartner, die Telefonnummer, die E-Mail-Adresse, das Umsatzpotenzial, wichtige Dateianhänge und vieles mehr.
+Um mit der Erfassung der eigentlichen Kundendaten zu starten, steht Ihnen bei unserem [CRM-Template]({{< relref "templates/sales/crm-offer-management" >}}) ein vordefiniertes [Webformular]({{< relref "help/base-editor/webformulare" >}}) zur Verfügung, das Sie nach Belieben an Ihr Design und an Ihre Wünsche anpassen können. Hiermit erfassen Sie alle relevanten Informationen, die für Ihr CRM wichtig sind, wie z. B. den Kundennamen, die Anschrift des Kunden, den Ansprechpartner, die Telefonnummer, die E-Mail-Adresse, das Umsatzpotenzial, wichtige Dateianhänge und vieles mehr.
 
 Diese Daten wandern im Anschluss in Ihr persönliches CRM-System bzw. in die SeaTable Tabelle „Customer Data“ und werden dort direkt nach Umsatzpotenzial farblich gekennzeichnet.
 
@@ -51,19 +51,19 @@ Diese Daten wandern im Anschluss in Ihr persönliches CRM-System bzw. in die Sea
 
 Erfassung neuer Kunden via Webformular in SeaTable
 
-Mit nur einem Blick auf die Zeile, wissen Sie genau in welche Umsatzkategorie der eingetragene Kunde fällt. Das soll Ihnen zusätzlich dabei helfen, schnell und effektiv den Kunden anhand des Umsatzpotenzials einem Ihrer Mitarbeiter zuzuweisen. Besonders hilfreich ist hierbei auch die [Benachrichtigungsregel](https://seatable.io/docs/handbuch/zusammenarbeit/benachrichtigungen/?lang=auto), die gesetzt wurde. Falls Sie nun nachträglich manuell das Umsatzpotenzial des Kunden ändern, wird der Vorgesetzte des jeweiligen Verkaufsteams direkt kontaktiert und gebeten, den vorhandenen Kunden einem seiner Mitarbeiter zuzuweisen.
+Mit nur einem Blick auf die Zeile, wissen Sie genau in welche Umsatzkategorie der eingetragene Kunde fällt. Das soll Ihnen zusätzlich dabei helfen, schnell und effektiv den Kunden anhand des Umsatzpotenzials einem Ihrer Mitarbeiter zuzuweisen. Besonders hilfreich ist hierbei auch die [Benachrichtigungsregel]({{< relref "help/startseite/benachrichtigungen" >}}), die gesetzt wurde. Falls Sie nun nachträglich manuell das Umsatzpotenzial des Kunden ändern, wird der Vorgesetzte des jeweiligen Verkaufsteams direkt kontaktiert und gebeten, den vorhandenen Kunden einem seiner Mitarbeiter zuzuweisen.
 
 ![CRM-System](CRM_Customer-data-view.jpg)
 
 Das CRM-System von SeaTable
 
-Weiterhin sorgen die [verschiedene Ansichten](https://seatable.io/docs/handbuch/datenmanagement/ansichten/) für die einzelnen Mitarbeiter oder Abteilungen in Ihrem Unternehmen dafür, dass jeder die für ihn oder sie relevanten Informationen sieht und bearbeiten kann. Dies geschieht ganz einfach per [Filterfunktion](https://seatable.io/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto). So sieht Ihre Marketing-Abteilung beispielsweise nur alle Kontakte, die ein eindeutiges Opt-in, also eine Zustimmung zur Kontaktaufnahme in Form von Newslettern, Telefonanrufen usw. gegeben haben und Ihre Mitarbeiter im Verkaufsteam nur die für ihn oder sie zugeordneten Kunden. Wichtig: Die Freigabe von einzelnen Ansichten ist den kostenpflichtigen Cloud-Abos von SeaTable vorbehalten. Mit SeaTable Free können nur ganze Bases an andere Personen freigegeben werden.
+Weiterhin sorgen die [verschiedene Ansichten]({{< relref "help/base-editor/ansichten" >}}) für die einzelnen Mitarbeiter oder Abteilungen in Ihrem Unternehmen dafür, dass jeder die für ihn oder sie relevanten Informationen sieht und bearbeiten kann. Dies geschieht ganz einfach per [Filterfunktion]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}). So sieht Ihre Marketing-Abteilung beispielsweise nur alle Kontakte, die ein eindeutiges Opt-in, also eine Zustimmung zur Kontaktaufnahme in Form von Newslettern, Telefonanrufen usw. gegeben haben und Ihre Mitarbeiter im Verkaufsteam nur die für ihn oder sie zugeordneten Kunden. Wichtig: Die Freigabe von einzelnen Ansichten ist den kostenpflichtigen Cloud-Abos von SeaTable vorbehalten. Mit SeaTable Free können nur ganze Bases an andere Personen freigegeben werden.
 
 ## Zuweisung eines Ansprechpartners
 
 Um Ihrem Kunden einen Mitarbeiter aus Ihrem Sales Team zuweisen zu können, müssen Sie vorab die Tabelle „Sales Team“ gepflegt haben. Hier finden Sie den Namen Ihres Mitarbeiters, die Personalnummer, die sich in diesem Template automatisch ergibt, die Position des Mitarbeiters und das zuständige Umsatzpotenzial. Zudem sehen Sie auch alle Kunden ein, die jedem einzelnen Mitarbeiter zugewiesen wurden.
 
-Eine [Gruppierungsfunktion](https://seatable.io/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) und farbliche Kennzeichnung der Zeilen nach Position des Mitarbeiters sollen Ihnen zusätzliche klare Kundenstrukturen Ihrer Mitarbeiter aufzeigen.
+Eine [Gruppierungsfunktion]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) und farbliche Kennzeichnung der Zeilen nach Position des Mitarbeiters sollen Ihnen zusätzliche klare Kundenstrukturen Ihrer Mitarbeiter aufzeigen.
 
 ![CRM_Salesteam](CRM_Salesteam.jpg)
 
@@ -127,13 +127,13 @@ Kanbanansicht in SeaTable
 
 ## Dashboard für 360° Blick auf den Kunden
 
-Um präzise Aussagen über Ihren Vertriebserfolg treffen zu können, ist es wichtig, dass in Ihrem CRM-System alle relevanten Informationen auf einen Blick zur Verfügung stehen. SeaTable ermöglicht es Ihnen, im Handumdrehen Ihre ganz individuellen Auswertungen Mithilfe von [Statistiken](https://seatable.io/docs/handbuch/datenmanagement/statistiken/?lang=auto) zu erstellen. So erhalten Sie Ihre ganz persönliche und individuelle Dashboard-Ansicht, die Ihrem SeaTable-CRM den letzten Feinschliff verleiht.
+Um präzise Aussagen über Ihren Vertriebserfolg treffen zu können, ist es wichtig, dass in Ihrem CRM-System alle relevanten Informationen auf einen Blick zur Verfügung stehen. SeaTable ermöglicht es Ihnen, im Handumdrehen Ihre ganz individuellen Auswertungen Mithilfe von [Statistiken]({{< relref "help/base-editor/statistiken" >}}) zu erstellen. So erhalten Sie Ihre ganz persönliche und individuelle Dashboard-Ansicht, die Ihrem SeaTable-CRM den letzten Feinschliff verleiht.
 
 ![CRM_SeaTable_Statistiken](crm_statistics.jpg)
 
 Statistiken in SeaTable
 
-Somit haben Sie die Verteilung der Kunden je Mitarbeiter, das Umsatzpotenzial der Kunden, die Verteilung der Kunden nach Bundesländern, die Verteilung und den dazugehörigen Umsatz Ihrer verkauften Produkte sowie den kumulierten Umsatz auf Monatsebene stets im Blick. Wenn Sie weitere [Statistiken](https://seatable.io/docs/handbuch/datenmanagement/statistiken/?lang=auto) benötigen, so können Sie diese in wenigen Minuten ganz einfach ergänzen.
+Somit haben Sie die Verteilung der Kunden je Mitarbeiter, das Umsatzpotenzial der Kunden, die Verteilung der Kunden nach Bundesländern, die Verteilung und den dazugehörigen Umsatz Ihrer verkauften Produkte sowie den kumulierten Umsatz auf Monatsebene stets im Blick. Wenn Sie weitere [Statistiken]({{< relref "help/base-editor/statistiken" >}}) benötigen, so können Sie diese in wenigen Minuten ganz einfach ergänzen.
 
 ## Eine flexible CRM-Lösung muss nicht teuer sein
 

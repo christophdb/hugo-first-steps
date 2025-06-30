@@ -39,8 +39,6 @@ Ahora seleccione el siguiente bloque de código, cópielo en el portapapeles y p
 server_url = 'https://cloud.seatable.io'
 api_token = '...'
 # Add an API token of the SeaTable base
-# See https://seatable.io/docs/en/seatable-api/erzeugen-eines-api-tokens/
-# for more information on how to create a SeaTable API token
 
 # Airtable - Source
 airtable_personal_access_token = '...'
@@ -141,7 +139,7 @@ A diferencia de los comentarios, las indentaciones en el código son muy importa
 
 ### 3\. Indicar la URL del servidor de SeaTable y el API Token de la base
 
-Bajo el comentario **SeaTable – Destination**, introduzca la URL del servidor de SeaTable e indique el [API-Token](https://seatable.io/docs/seatable-api/erzeugen-eines-api-tokens/). El API-Token debe otorgar permisos de lectura y escritura. Si utiliza SeaTable Cloud, la URL pre-rellenada “https://cloud.seatable.io” es la correcta. Si utiliza otro servidor de SeaTable, introduzca su URL. (La URL siempre debe comenzar con https:// o http://). Tanto la URL como el token deben ir entre comillas simples.
+Bajo el comentario **SeaTable – Destination**, introduzca la URL del servidor de SeaTable e indique el [API-Token]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}). El API-Token debe otorgar permisos de lectura y escritura. Si utiliza SeaTable Cloud, la URL pre-rellenada “https://cloud.seatable.io” es la correcta. Si utiliza otro servidor de SeaTable, introduzca su URL. (La URL siempre debe comenzar con https:// o http://). Tanto la URL como el token deben ir entre comillas simples.
 
 Este es un ejemplo de configuración para importar datos a una base en SeaTable Cloud:  
 ![](images/SeaTable_Server_URL_and_API_Token.png)

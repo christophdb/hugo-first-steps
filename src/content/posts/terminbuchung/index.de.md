@@ -27,7 +27,7 @@ SeaTable kann hier einen intelligenten und adäquaten Ersatz bieten und hat zude
 
 ## Mit der Formular-Funktion zum Terminbuchungssystem
 
-Um ein Terminbuchungssystem in SeaTable zu erstellen, werden wir die [Formularfunktion](https://seatable.io/docs/handbuch/datenmanagement/webformulare/) verwenden. Sie können so über einen einfachen Link Informationen von jedem sammeln und automatisch in Ihrer SeaTable Base speichern.
+Um ein Terminbuchungssystem in SeaTable zu erstellen, werden wir die [Formularfunktion]({{< relref "help/base-editor/webformulare" >}}) verwenden. Sie können so über einen einfachen Link Informationen von jedem sammeln und automatisch in Ihrer SeaTable Base speichern.
 
 ## Erstellung Ihrer zwei benötigten Tabellen
 

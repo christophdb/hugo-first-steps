@@ -63,7 +63,7 @@ La vue des archives montre les lignes archivées et non archivées et permet d'�
 
 ### Liens externes sans journaux ni commentaires
 
-L'historique de la table et les commentaires ne font pas partie des informations que l'on souhaite normalement rendre quasi-publiques via un [lien externe](https://seatable.io/fr/docs/handbuch/zusammenarbeit/externe-links/?lang=auto). Par conséquent, les journaux et les commentaires ne sont plus affichés dans les détails des lignes des liens externes dans SeaTable à partir de la version 2.3.
+L'historique de la table et les commentaires ne font pas partie des informations que l'on souhaite normalement rendre quasi-publiques via un [lien externe]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}). Par conséquent, les journaux et les commentaires ne sont plus affichés dans les détails des lignes des liens externes dans SeaTable à partir de la version 2.3.
 
 ### Valeurs par défaut pour les formulaires
 

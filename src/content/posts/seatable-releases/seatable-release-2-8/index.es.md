@@ -38,7 +38,7 @@ Las descripciones de las columnas introducidas en SeaTable 2.8 están pensadas e
 
 ## Texto de ayuda con formato en los formularios web
 
-Los textos de ayuda en [los formularios](https://seatable.io/es/docs/handbuch/seatable-nutzen/webformulare/) web tienen la misma motivación que las descripciones de las columnas: Permiten un tratamiento más preciso y sin frustraciones de los formularios. Además, en ellos se pueden cumplir las obligaciones de información (palabra clave DSGVO).
+Los textos de ayuda en [los formularios]({{< relref "help/base-editor/webformulare/webformulare" >}}) web tienen la misma motivación que las descripciones de las columnas: Permiten un tratamiento más preciso y sin frustraciones de los formularios. Además, en ellos se pueden cumplir las obligaciones de información (palabra clave DSGVO).
 
 La novedad de SeaTable 2.8 es la posibilidad de formatear los textos de ayuda y de insertar imágenes y tablas. Esto permite presentar textos más largos con mayor claridad o sustituir muchas palabras por unas pocas imágenes. Los textos de ayuda se editan a través del editor revisado de SeaTable para texto formateado.
 

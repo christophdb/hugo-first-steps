@@ -26,7 +26,7 @@ SeaTable puede ofrecer un reemplazo inteligente y adecuado aquí y también tien
 
 ## Con la función de formulario para el sistema de reserva de citas
 
-Para crear un sistema de reserva de citas en SeaTable, utilizaremos la [función de formulario](https://seatable.io/es/docs/handbuch/datenmanagement/webformulare/). Esto le permitirá recopilar información de cualquier persona a través de un simple enlace y almacenarla automáticamente en su Base SeaTable.
+Para crear un sistema de reserva de citas en SeaTable, utilizaremos la [función de formulario]({{< relref "help/base-editor/webformulare" >}}). Esto le permitirá recopilar información de cualquier persona a través de un simple enlace y almacenarla automáticamente en su Base SeaTable.
 
 ## Creación de las dos tablas necesarias
 
