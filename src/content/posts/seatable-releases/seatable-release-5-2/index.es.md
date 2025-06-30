@@ -24,7 +24,7 @@ En futuras versiones, también introduciremos grupos de filtros en aplicaciones,
 
 ## Formato condicional con filtro de columnas cruzadas
 
-La versión 5.2 también ofrece opciones de filtro ampliadas en el [formato]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/) condicional de [filas]({{< relref "help/base-editor/ansichten" >}}farbliche-markierung-von-zeilen/) y [celdas]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/). ¿Desea colorear de rojo una celda en función de los valores de otras columnas para llamar la atención sobre ella? Con SeaTable 5.2 puede hacerlo. El código de colores de una fila o celda puede formatearse ahora en función del valor de cada columna individual de un conjunto de datos. Y eso no es todo: el formato condicional también puede tener en cuenta los valores de varias columnas, independientemente del tipo de columna.
+La versión 5.2 también ofrece opciones de filtro ampliadas en el [formato]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) condicional de [filas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) y [celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}). ¿Desea colorear de rojo una celda en función de los valores de otras columnas para llamar la atención sobre ella? Con SeaTable 5.2 puede hacerlo. El código de colores de una fila o celda puede formatearse ahora en función del valor de cada columna individual de un conjunto de datos. Y eso no es todo: el formato condicional también puede tener en cuenta los valores de varias columnas, independientemente del tipo de columna.
 
 ![Formato condicional mejorado en SeaTable 5.2](ConditionalFormatting.png)
 

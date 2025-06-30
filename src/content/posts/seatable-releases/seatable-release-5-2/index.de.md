@@ -24,7 +24,7 @@ In kommenden Versionen führen wir Filtergruppen auch in Apps, Formularen und Au
 
 ## Bedingte Formatierung mit spaltenübergreifendem Filter
 
-Erweiterte Filtermöglichkeiten bietet die Version 5.2 auch in der bedingten [Zeilen-]({{< relref "help/base-editor/ansichten" >}}farbliche-markierung-von-zeilen/) und [Zellformatierung]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/). Sie wollen eine Zelle auf Basis der Werte in anderen Spalten rot einfärben, um Aufmerksamkeit darauf zu lenken? Mit SeaTable 5.2 geht das! Die Farbcodierung einer Zeile oder Zelle lässt sich nun in Abhängigkeit jedes einzelnen Spaltenwerts in einem Datensatz formatieren. Und damit ist noch nicht Schluss: Die bedingte Formatierung kann auch Werte in mehreren Spalten berücksichtigen, unabhängig vom Spaltentyp.
+Erweiterte Filtermöglichkeiten bietet die Version 5.2 auch in der bedingten [Zeilen-]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) und [Zellformatierung]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}). Sie wollen eine Zelle auf Basis der Werte in anderen Spalten rot einfärben, um Aufmerksamkeit darauf zu lenken? Mit SeaTable 5.2 geht das! Die Farbcodierung einer Zeile oder Zelle lässt sich nun in Abhängigkeit jedes einzelnen Spaltenwerts in einem Datensatz formatieren. Und damit ist noch nicht Schluss: Die bedingte Formatierung kann auch Werte in mehreren Spalten berücksichtigen, unabhängig vom Spaltentyp.
 
 ![Improved conditional formatting in SeaTable 5.2](ConditionalFormatting.png)
 

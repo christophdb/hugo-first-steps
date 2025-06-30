@@ -52,7 +52,7 @@ O desenvolvimento do Universal App Builder está na reta final e a nossa equipa 
 
 As **predefinições** das vistas são outra nova funcionalidade das páginas de tabela. Uma predefinição determina a apresentação dos dados quando a página é chamada. Assim, fornece um determinado ângulo de visão dos dados, mas pode ser alterado pelos utilizadores da aplicação e, deste modo, o ângulo de visão pode ser adaptado às necessidades dos utilizadores. A forma como funciona é, portanto, fundamentalmente diferente das definições de dados que estão disponíveis há algum tempo. Estas últimas não podem ser alteradas pelos utilizadores. As definições de dados servem para restringir os dados apresentados aos utilizadores.
 
-As melhorias no lado da tabela não se ficam por aqui: com um clique, pode apresentar a formatação condicional das células da tabela subjacente e, assim, [colorir as células]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/).
+As melhorias no lado da tabela não se ficam por aqui: com um clique, pode apresentar a formatação condicional das células da tabela subjacente e, assim, [colorir as células]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 
 ![Novas funções no Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
