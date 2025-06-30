@@ -28,7 +28,7 @@ La budgétisation - également connue sous le nom de planification budgétaire o
 
 - **Allocation budgétaire sensible** : La planification budgétaire vous aide à allouer de manière sensible l'argent et les ressources aux départements et aux projets et à les utiliser spécifiquement là où ils apporteront le plus grand bénéfice possible.
 
-- **Cibles de liaison** : Avec un plan budgétaire contraignant, vous pouvez vous assurer que vos managers formulent des objectifs clairs et prennent des mesures efficaces pour les atteindre.  
+- **Cibles de liaison** : Avec un plan budgétaire contraignant, vous pouvez vous assurer que vos managers formulent des objectifs clairs et prennent des mesures efficaces pour les atteindre.
 
 - **Transparence financière** : L'établissement d'un budget permet de savoir clairement sur quoi vous dépensez votre argent. Vous pouvez garder un œil sur les coûts et les objectifs, mesurer le succès et anticiper les évolutions indésirables.
 
@@ -119,7 +119,7 @@ La planification budgétaire pour l'ensemble de l'entreprise est faite à partir
 
 Afin de rendre le budget transparent, il est important d'impliquer tous les services dans la planification budgétaire à un stade précoce. Les domaines importants sont la budgétisation du personnel (recrutement, salaires, etc.), la budgétisation du marketing et la budgétisation informatique. Ces services gèrent généralement des budgets importants de leur propre chef et sont indispensables à la planification budgétaire stratégique.
 
-Ci-dessous, nous examinons de plus près la planification budgétaire dans [IT]({{< relref "pages/industry-solutions/software-development" >}}) et [gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}). Si vous êtes intéressé par la [planification du personnel]({{< relref "posts/personalplanung" >}}) ou un [plan marketing]({{< relref "posts/20250318-marketingplan" >}}), cliquez sur les articles liés pour plus d'informations.
+Ci-dessous, nous examinons de plus près la planification budgétaire dans [IT]({{< relref "pages/industry-solutions/software-development" >}}) et [gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}). Si vous êtes intéressé par la [planification du personnel]({{< relref "20250630-personalplanung" >}}) ou un [plan marketing]({{< relref "posts/20250318-marketingplan" >}}), cliquez sur les articles liés pour plus d'informations.
 
 ### Planification du budget informatique
 

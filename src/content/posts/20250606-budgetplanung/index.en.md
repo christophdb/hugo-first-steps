@@ -27,7 +27,7 @@ Budgeting – also known as budget planning or budget allocation – is, as the 
 ## Advantages of forward-looking budget planning
 
 - **Sensible budget allocation**: Budget planning helps you to allocate money and resources sensibly to departments and projects and to use them specifically where they will bring the greatest possible benefit.
-- **Binding targets**: With a binding budget plan, you can ensure that your managers formulate clear goals and take efficient measures to achieve them.  
+- **Binding targets**: With a binding budget plan, you can ensure that your managers formulate clear goals and take efficient measures to achieve them.
 
 - **Financial transparency**: Budgeting provides clarity on what you are spending your money on. You can keep an eye on costs and targets, measure success and anticipate undesirable developments.
 - **Prioritized investments**: The wish list in departments is often long. A fixed budget helps you to prioritize the crucial investments and avoid unnecessary expenditure.
@@ -115,7 +115,7 @@ The budget planning for the entire company is made up of the sub-budgets of all 
 
 In order to make budgeting transparent, it is important to involve all departments in budget planning at an early stage. Important areas are personnel budget planning (recruiting, salaries, etc.), marketing budget planning and IT budget planning. These departments usually manage large budgets of their own and are indispensable for strategic budget planning.
 
-Below we take a closer look at budget planning in [IT]({{< relref "pages/industry-solutions/software-development" >}}) and [project management]({{< relref "pages/industry-solutions/project-management" >}}). If you are interested in [personnel planning]({{< relref "posts/personalplanung" >}}) or a [marketing plan]({{< relref "posts/20250318-marketingplan" >}}), click on the linked articles for further information.
+Below we take a closer look at budget planning in [IT]({{< relref "pages/industry-solutions/software-development" >}}) and [project management]({{< relref "pages/industry-solutions/project-management" >}}). If you are interested in [personnel planning]({{< relref "20250630-personalplanung" >}}) or a [marketing plan]({{< relref "posts/20250318-marketingplan" >}}), click on the linked articles for further information.
 
 ### IT budget planning
 

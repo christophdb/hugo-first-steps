@@ -27,7 +27,7 @@ La presupuestación – también conocida como planificación presupuestaria o a
 ## Ventajas de la planificación presupuestaria prospectiva
 
 - **Distribución razonable del presupuesto**: La planificación presupuestaria le ayuda a distribuir el dinero y los recursos de forma sensata entre los departamentos y proyectos y a utilizarlos específicamente allí donde aportarán el mayor beneficio posible.
-- **Objetivos vinculantes**: Con un plan presupuestario vinculante, puede asegurarse de que sus directivos formulen objetivos claros y tomen medidas eficaces para alcanzarlos.  
+- **Objetivos vinculantes**: Con un plan presupuestario vinculante, puede asegurarse de que sus directivos formulen objetivos claros y tomen medidas eficaces para alcanzarlos.
 
 - **Transparencia financiera**: La elaboración de presupuestos proporciona claridad sobre en qué se gasta el dinero. Puede vigilar los costes y los objetivos, medir el éxito y anticiparse a los acontecimientos indeseables.
 - **Inversiones prioritarias**: La lista de deseos en los departamentos suele ser larga. Un presupuesto fijo le ayuda a priorizar las inversiones cruciales y a evitar gastos innecesarios.
@@ -115,7 +115,7 @@ La planificación presupuestaria de toda la empresa se compone de los subpresupu
 
 Para que la elaboración del presupuesto sea transparente, es importante implicar a todos los departamentos en la planificación presupuestaria en una fase temprana. Las áreas importantes son la planificación del presupuesto de personal (contratación, salarios, etc.), la planificación del presupuesto de marketing y la planificación del presupuesto de TI. Estos departamentos suelen gestionar grandes presupuestos propios y son indispensables para la planificación presupuestaria estratégica.
 
-A continuación examinaremos más de cerca la planificación presupuestaria en [TI]({{< relref "pages/industry-solutions/software-development" >}}) y [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}). Si le interesa la [planificación de personal]({{< relref "posts/personalplanung" >}}) o el [plan de marketing]({{< relref "posts/20250318-marketingplan" >}}), haga clic en los artículos enlazados para obtener más información.
+A continuación examinaremos más de cerca la planificación presupuestaria en [TI]({{< relref "pages/industry-solutions/software-development" >}}) y [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}). Si le interesa la [planificación de personal]({{< relref "20250630-personalplanung" >}}) o el [plan de marketing]({{< relref "posts/20250318-marketingplan" >}}), haga clic en los artículos enlazados para obtener más información.
 
 ### Planificación del presupuesto informático
 
