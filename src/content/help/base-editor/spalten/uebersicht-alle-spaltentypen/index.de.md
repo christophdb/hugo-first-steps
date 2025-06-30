@@ -40,7 +40,7 @@ In diesem Spaltentyp können Sie **längere Texte** mit eingefügten Elementen, 
 
 Symbol: {{< seatable-icon icon="dtable-icon-number" >}} **Zahl**
 
-Zahlen-Spalten speichern **numerische Informationen** und können vielseitig genutzt werden, um mit Zahlen jeder Art zu arbeiten. Eine numerische Information kann dabei eine **Zahl**, ein **Prozentsatz** oder ein **Geldbetrag** sein. Weiterhin ermöglichen Zahlen-Spalten Ihnen die **Berechnung von Werten**, die Sie mit Formeln und [Statistiken](https://seatable.io/docs/seatable-nutzen/statistiken/) visualisieren können. Zum Speichern von beliebig langen Zeichenfolgen eignen sich Zahlen-Spalten jedoch nicht und die Eingabe von Buchstaben wird in diesem Spaltentyp von SeaTable verweigert.
+Zahlen-Spalten speichern **numerische Informationen** und können vielseitig genutzt werden, um mit Zahlen jeder Art zu arbeiten. Eine numerische Information kann dabei eine **Zahl**, ein **Prozentsatz** oder ein **Geldbetrag** sein. Weiterhin ermöglichen Zahlen-Spalten Ihnen die **Berechnung von Werten**, die Sie mit Formeln und [Statistiken]({{< relref "help/base-editor/statistiken" >}}) visualisieren können. Zum Speichern von beliebig langen Zeichenfolgen eignen sich Zahlen-Spalten jedoch nicht und die Eingabe von Buchstaben wird in diesem Spaltentyp von SeaTable verweigert.
 
 [Mehr zur Zahlen-Spalte]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
 
@@ -104,7 +104,7 @@ Falls Sie detailliertere Informationen zur E-Mail-Spalte benötigen, werfen Sie 
 
 Symbol: {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
-URL-Spalten interpretieren die eingegebene Information als eine **Ressource** im lokalen Netzwerk bzw. im Internet und erlauben den direkten Aufruf per Klick. Da Eingaben in diesem Spaltentyp nicht validiert werden, können in einer Zelle eine Internetadresse (z.B. https://seatable.io) oder eine IP-Adressen (z.B. 192.168.178.1) gespeichert werden.
+URL-Spalten interpretieren die eingegebene Information als eine **Ressource** im lokalen Netzwerk bzw. im Internet und erlauben den direkten Aufruf per Klick. Da Eingaben in diesem Spaltentyp nicht validiert werden, können in einer Zelle eine Internetadresse (z.B. https://seatable.com) oder eine IP-Adressen (z.B. 192.168.178.1) gespeichert werden.
 
 [Mehr zur URL-Spalte]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 
@@ -168,7 +168,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-location" >}} **Geoposition**
 
 In dieser Spalte können Sie **Orte** festhalten und später mit dem [Karten-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) visualisieren. Dafür können Sie entweder die Angabe mit Land und Region oder mit Breiten- und Längengrad auswählen. Zusätzlich haben Sie die Möglichkeit, ein Land bzw. eine Region mithilfe der Suchfunktion zu finden und als Eintrag hinzuzufügen.
 
-[Mehr zur Geopositions-Spalte](https://seatable.io/docs/andere-spalten/die-geopositions-spalte/)
+[Mehr zur Geopositions-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}})
 
 ### Digitale Signatur
 

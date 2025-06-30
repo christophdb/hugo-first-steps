@@ -22,7 +22,11 @@ Precisa de uma tabela na sua Base várias vezes com uma forma ligeiramente difer
 
 7. Confirmar com **Submeter**.
 
-{{< warning  headline="Nota"  text="Todas as vistas são também duplicadas com todas as [definições de vista](https://seatable.io/pt/docs/ansichtsoptionen/) para que a tabela copiada seja uma cópia exacta da tabela original." />}}
+{{< warning  headline="Nota" >}}
+
+Todas as vistas são também duplicadas com todas as [definições de vista]({{< relref "help/base-editor/ansichten" >}}) para que a tabela copiada seja uma cópia exacta da tabela original.
+
+{{< /warning >}}
 
 **Este é o aspeto do resultado com entradas duplicadas**
 
@@ -34,4 +38,4 @@ Esta opção é útil se pretender copiar pelo menos algumas das linhas da tabel
 
 ![Esvaziar tabelas duplicadas](images/Leere-duplizierte-Tabellen.png)
 
-Essa opção é útil se o usuário deseja apenas adotar a **estrutura** da tabela original, mas deseja preenchê-la com outras entradas. Isso pode ocorrer, por exemplo, se for criada uma tabela por ano para o [planejamento do orçamento](https://seatable.io/pt/budgetplanung-vorlage/).
+Essa opção é útil se o usuário deseja apenas adotar a **estrutura** da tabela original, mas deseja preenchê-la com outras entradas. Isso pode ocorrer, por exemplo, se for criada uma tabela por ano para o [planejamento do orçamento]({{< relref "templates/finance/budget-plan" >}}).

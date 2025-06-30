@@ -37,10 +37,10 @@ Chaque partage, indépendamment de l'autorisation attribuée, peut être **annul
 
 Le partage d'une base peut se faire avec différents groupes de personnes :
 
-- [Partage avec les utilisateurs](https://seatable.io/fr/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Validation pour le groupe](https://seatable.io/fr/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Partage avec les utilisateurs]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Validation pour le groupe]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Partage via le lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Partage via un lien externe](https://seatable.io/fr/docs/freigabelinks/externer-link-erklaert/)
+- [Partage via un lien externe]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
 En partageant avec un utilisateur ou un groupe, vous partagez la base **au sein de votre équipe**. Le partage par lien d'invitation vous permet de donner accès à une base à des personnes **extérieures à votre équipe** (mais à l'intérieur de SeaTable). Avec le lien externe, vous partagez des bases ou des vues à l'extérieur, que quelqu'un possède un compte SeaTable ou non.
 
@@ -52,11 +52,11 @@ La gestion de vos partages Base s'effectue de la même manière que leur créati
 
 Un partage existant avec un utilisateur ou un groupe peut être étendu ou limité à tout moment en modifiant l'autorisation de partage. Pour ce faire, cliquez sur l'**icône en forme de crayon** {{< seatable-icon icon="dtable-icon-rename" >}}. Un clic sur le **symbole x** permet de mettre fin à un partage ou de supprimer un lien. Toutes les modifications prennent effet immédiatement. Il n'est **pas** possible de modifier la protection par mot de passe, la date d'expiration et l'URL d'un lien existant.
 
-> Vous pouvez également obtenir un aperçu complet de tous les partages et liens vers une base sous [Bases dans la gestion d'équipe](https://seatable.io/fr/docs/teamverwaltung/bases-in-der-teamverwaltung/), si vous êtes administrateur d'équipe.
+> Vous pouvez également obtenir un aperçu complet de tous les partages et liens vers une base sous [Bases dans la gestion d'équipe]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}), si vous êtes administrateur d'équipe.
 
 ## Partages de tableaux
 
-Si vous ne souhaitez pas [partager]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) une base entière, mais seulement [des tableaux individuels]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}), cela est bien sûr également possible. Le [partage personnalisé](https://seatable.io/fr/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) vous permet de partager plusieurs tableaux et vues en même temps et de les envoyer à des membres de l'équipe ou à des groupes entiers.
+Si vous ne souhaitez pas [partager]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) une base entière, mais seulement [des tableaux individuels]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}), cela est bien sûr également possible. Le [partage personnalisé]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) vous permet de partager plusieurs tableaux et vues en même temps et de les envoyer à des membres de l'équipe ou à des groupes entiers.
 
 ## Partages de vues
 
@@ -67,7 +67,7 @@ Vous créez le partage d'une vue dans le tableau ouvert. Lorsque vous vous trouv
 Vous arrivez ensuite dans la **boîte de dialogue de partage** bien connue, dans laquelle vous pouvez également créer vos partages de vues, comme pour les bases. Le partage d'une vue peut être effectué avec trois cercles de personnes :
 
 - [Partage avec un membre de l'équipe]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Partage avec un groupe](https://seatable.io/fr/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
+- [Partage avec un groupe]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Partage via un lien externe]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Dès que vous cliquez sur le bouton **Envoyer** pour une option de partage, la personne ou le groupe sélectionné peut accéder à la vue avec l'autorisation accordée. Pour partager une vue avec plusieurs utilisateurs ou groupes, répétez cette procédure.

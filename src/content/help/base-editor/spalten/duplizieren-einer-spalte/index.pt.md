@@ -16,4 +16,8 @@ url: '/pt/ajuda/duplizieren-einer-spalte'
 2. Seleccionar **Coluna Duplicada**.
 3. A coluna **duplicada** aparece directamente à **direita** da coluna original.
 
-{{< warning  headline="Sem transferência de dados"  text="Os valores existentes da coluna original **não** são retomados. No entanto, pode [copiar e colar](https://seatable.io/pt/docs/arbeiten-in-bases/hinzufuegen-von-daten-per-copy-and-paste/) os dados de uma coluna para a outra." />}}
+{{< warning  headline="Sem transferência de dados" >}}
+
+Os valores existentes da coluna original **não** são retomados. No entanto, pode [copiar e colar]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) os dados de uma coluna para a outra.
+
+{{< /warning >}}

@@ -69,7 +69,7 @@ Les valeurs par défaut s'appliquent **partout** où vous pouvez créer de nouve
 
 - dans un [tableau]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - dans une [colonne de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
-- par [bouton](https://seatable.io/fr/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (action : "Copier une ligne dans un autre tableau")
+- par [bouton]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (action : "Copier une ligne dans un autre tableau")
 - par [automatisation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (actions : "Ajouter une ligne" et "Ajouter une nouvelle entrée dans un autre tableau")
 - dans le [plug-in]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - via [des formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}})

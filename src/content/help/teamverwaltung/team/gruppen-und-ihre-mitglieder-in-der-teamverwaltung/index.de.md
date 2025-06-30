@@ -31,7 +31,7 @@ Erfahren Sie im Artikel [Gruppenmitglieder und ihre Berechtigungen]({{< relref "
 
 ## Einem neuen Teammitglied direkt Gruppen zuweisen
 
-Schon beim [Anlegen eines neuen Teammitglieds](https://seatable.io/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/) können Sie eine Person direkt verschiedenen Gruppen hinzufügen und ihr Rollen zuweisen.
+Schon beim [Anlegen eines neuen Teammitglieds]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}) können Sie eine Person direkt verschiedenen Gruppen hinzufügen und ihr Rollen zuweisen.
 
 1. Wechseln Sie in die **Teamverwaltung**.
 2. Klicken Sie auf den Menüpunkt **Team**.

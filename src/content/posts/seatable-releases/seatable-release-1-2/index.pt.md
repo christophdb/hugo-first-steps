@@ -12,7 +12,7 @@ seo:
 
 SeaTable é a solução final para a gestão de dados e colaboração online. Com os seus múltiplos tipos de campo, organização, grupo, gestão de equipas e características de colaboração, bem como numerosos modelos e plugins, o SeaTable liberta a produtividade total da sua equipa.
 
-Temos o prazer de anunciar que a versão 1.2 do SeaTable entrou em funcionamento. SeaTable 1.2 contém algumas actualizações importantes para si em termos de funcionalidade e experiência do utilizador. Consulte o [changelog](https://seatable.io/pt/docs/changelog/version-1-2/) para obter a lista completa das alterações. Nesta nota de lançamento, apresentamos-lhe algumas das novidades mais excitantes.
+Temos o prazer de anunciar que a versão 1.2 do SeaTable entrou em funcionamento. SeaTable 1.2 contém algumas actualizações importantes para si em termos de funcionalidade e experiência do utilizador. Consulte o [changelog]({{< relref "pages/changelog" >}}) para obter a lista completa das alterações. Nesta nota de lançamento, apresentamos-lhe algumas das novidades mais excitantes.
 
 ## Mais cores e símbolos na página inicial
 
@@ -30,7 +30,7 @@ Nos menus de contexto dos tipos de coluna Ficheiro e Imagem, encontrará a funç
 
 ## Viagem ao passado - Instantâneos
 
-Em SeaTable tem sempre uma visão geral dos processos nas suas bases. O registo lista todas as alterações, adições e eliminações de registos, bem como todos os outros processos numa base. Além disso, o SeaTable cria automaticamente [instantâneos](https://seatable.io/pt/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) a cada 24 horas de bases que estão a ser trabalhadas activamente.
+Em SeaTable tem sempre uma visão geral dos processos nas suas bases. O registo lista todas as alterações, adições e eliminações de registos, bem como todos os outros processos numa base. Além disso, o SeaTable cria automaticamente [instantâneos]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) a cada 24 horas de bases que estão a ser trabalhadas activamente.
 
 Um instantâneo captura o estado de uma base no momento em que foi criada. Por outras palavras, os instantâneos são basicamente máquinas que permitem viajar no tempo. Quer ver como era uma base há três dias? Esqueça o registo, use um instantâneo!
 

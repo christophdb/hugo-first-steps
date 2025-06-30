@@ -13,7 +13,7 @@ seo:
 
 Die Coronakrise zwingt aktuell Millionen Menschen zum Arbeiten im Homeoffice. Die Umstellung auf die neue Situation fällt manchen leicht, viele haben jedoch auch damit zu kämpfen. Auch Sie wissen morgens nicht so richtig, wie sie anfangen sollen? Sie vergessen ständig die Mittagspause und essen stattdessen Ihre schnell geschmierten Brote vor dem PC? Wir geben Ihnen wertvolle Tipps und zeigen Ihnen Vorteile auf die Ihnen die Situation ganz bestimmt erleichtern.
 
-Sie sind Teamleiter und Fragen sich, wie Sie Ihre wöchentlichen Meetings am besten aus dem Homeoffice organisieren? Schauen Sie doch auch mal [hier](https://seatable.io/team-meetings-remote-organisieren/) vorbei, wir haben das passende Template für Sie entwickelt!
+Sie sind Teamleiter und Fragen sich, wie Sie Ihre wöchentlichen Meetings am besten aus dem Homeoffice organisieren? Schauen Sie doch auch mal [hier]({{< relref "templates/projects/team-meetings" >}}) vorbei, wir haben das passende Template für Sie entwickelt!
 
 ## 1\. Eine Routine am Morgen
 

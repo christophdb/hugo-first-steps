@@ -14,7 +14,7 @@ Dans cet article, vous apprendrez où trouver les modèles et comment travailler
 
 ## Bibliothèque de modèles
 
-Vous pouvez accéder à la collection de modèles, qui ne cesse de s'agrandir, de différentes manières : via la [bibliothèque de modèles sur le site SeaTable.io](https://seatable.io/fr/modeles/) - ceci est possible sans login - , via le bouton **Modèles** sur la page d'accueil de SeaTable et lors de la création d'une nouvelle base, en sélectionnant **Créer une base à partir d'un modèle**.
+Vous pouvez accéder à la collection de modèles, qui ne cesse de s'agrandir, de différentes manières : via la [bibliothèque de modèles sur le site SeaTable.io]({{< relref "templates" >}}) - ceci est possible sans login - , via le bouton **Modèles** sur la page d'accueil de SeaTable et lors de la création d'une nouvelle base, en sélectionnant **Créer une base à partir d'un modèle**.
 
 Les modèles de SeaTable sont répartis en différentes catégories. Il s'agit entre autres de la gestion de projet, des ressources humaines, du marketing, des ventes ou de la vie quotidienne. Dans chaque catégorie, vous trouverez plusieurs modèles. Chaque modèle est accompagné d'une brève description et d'une description du cas d'utilisation. Sous la description, vous trouverez une image interactive du modèle avec sa mise en page de tableau, ses vues ainsi que des données factices. Regardez attentivement le modèle, cliquez autour et vérifiez s'il convient à votre cas d'application !
 
@@ -24,9 +24,9 @@ Avec les modèles, vous ne partez pas de 0, mais de 100 lorsque vous travaillez 
 
 ## Créer une nouvelle base à l'aide d'un modèle
 
-Vous avez trouvé un modèle passionnant et souhaitez l'utiliser ? C'est parfait ! Pour pouvoir saisir vos propres données dans ce modèle, il vous suffit de [créer](https://seatable.io/fr/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) une [nouvelle base](https://seatable.io/fr/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) dans le nuage SeaTable à [partir du modèle](https://seatable.io/fr/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+Vous avez trouvé un modèle passionnant et souhaitez l'utiliser ? C'est parfait ! Pour pouvoir saisir vos propres données dans ce modèle, il vous suffit de [créer]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}) une [nouvelle base]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}) dans le nuage SeaTable à [partir du modèle]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 
-Si vous êtes déjà connecté à votre compte d'utilisateur, toutes les conditions sont remplies. Si vous n'êtes pas connecté ou si vous n'avez pas de compte SeaTable, [connectez-vous](https://cloud.seatable.io/) ou [inscrivez-vous gratuitement avec votre adresse e-mail](https://seatable.io/fr/enregistrement/).
+Si vous êtes déjà connecté à votre compte d'utilisateur, toutes les conditions sont remplies. Si vous n'êtes pas connecté ou si vous n'avez pas de compte SeaTable, [connectez-vous](https://cloud.seatable.io/) ou [inscrivez-vous gratuitement avec votre adresse e-mail]({{< relref "pages/registration" >}}).
 
 De retour sur votre page d'accueil, vous trouverez une nouvelle base dans le groupe sélectionné ou dans **Mes bases**. Le nom de la nouvelle base créée est le nom du modèle. Si celui-ci ne vous convient pas, renommez simplement la base.
 

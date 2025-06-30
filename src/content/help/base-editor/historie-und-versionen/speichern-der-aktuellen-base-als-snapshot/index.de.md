@@ -28,19 +28,19 @@ Gut zu wissen: SeaTable legt automatisch einen Snapshot pro Tag von jeder Base a
 
 Die Snapshots von Bases werden für einen gewissen Zeitraum vorgehalten und danach gelöscht.
 
-Bei [SeaTable Cloud](https://seatable.io) ist die Speicherdauer der Snapshots abhängig vom [Abonnement Ihres Teams]({{< relref "pages/prices" >}}):
+Bei [SeaTable Cloud](https://seatable.com) ist die Speicherdauer der Snapshots abhängig vom [Abonnement Ihres Teams]({{< relref "pages/prices" >}}):
 
 - Beim kostenlosen **Free-Abonnement** werden die Snapshots für einen Monat gespeichert.
 - Beim **Plus-** bzw. **Enterprise-Abonnement** werden Snapshots für 6 bzw. 12 Monate gespeichert. (Die verlängerte Speicherdauer gilt vom Zeitpunkt des Upgrades.)
 
-Wenn Sie Ihren eigenen [SeaTable Server](https://seatable.io/on-premises) betreiben, dann können Sie die Snapshot-Speicherdauer individuell einstellen.
+Wenn Sie Ihren eigenen [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) betreiben, dann können Sie die Snapshot-Speicherdauer individuell einstellen.
 
 ## Wollen Sie mehr über Snapshots erfahren?
 
 Folgende Artikel könnten Sie in Bezug auf den Umgang mit Snapshots interessieren:
 
 - [Wiederherstellung eines Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}})
-- [Möglichkeiten der Datenwiederherstellung mit SeaTable](https://seatable.io/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/)
+- [Möglichkeiten der Datenwiederherstellung mit SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}})
 
 ## Häufige Fragen
 

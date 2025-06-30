@@ -48,8 +48,8 @@ url: '/ru/pomoshch/verwaltung-eines-gemeinsamen-datensatzes'
 
 ## Принудительная синхронизация с общим набором данных
 
-Как создатель общей записи данных, вы можете принудительно **синхронизировать** зависимые таблицы. Ознакомиться с последствиями и преимуществами этого можно [здесь](https://seatable.io/ru/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+Как создатель общей записи данных, вы можете принудительно **синхронизировать** зависимые таблицы. Ознакомиться с последствиями и преимуществами этого можно [здесь]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 ## Удаление записи общих данных
 
-Если вы хотите удалить запись общих данных, [здесь](https://seatable.io/ru/docs/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes/) вы найдете всю важную информацию.
+Если вы хотите удалить запись общих данных, [здесь]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}}) вы найдете всю важную информацию.

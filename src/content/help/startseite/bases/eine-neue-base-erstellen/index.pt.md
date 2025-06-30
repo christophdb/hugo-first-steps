@@ -31,7 +31,7 @@ Além disso, é possível criar uma nova base através de uma pasta.
 1. Comece na **página inicial do** SeaTable.
 2. Clique numa **pasta** no espaço de trabalho correspondente (As minhas bases ou um dos seus grupos).
 3. Na janela que se abre, clique em **Novo** no canto superior direito.
-4. Seleccione se pretende **criar** uma **base vazia**, [importar]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_importieren) uma base ou criar uma [base a partir de um modelo](https://seatable.io/pt/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+4. Seleccione se pretende **criar** uma **base vazia**, [importar]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_importieren) uma base ou criar uma [base a partir de um modelo]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 5. Dar um **nome** à base, atribuir-lhe uma cor e um ícone e guardar o processo premindo a **tecla Enter**.
 6. A base recém-criada aparece agora na vista geral da pasta e é guardada na **pasta** correspondente na página inicial.
 

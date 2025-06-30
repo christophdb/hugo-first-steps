@@ -22,7 +22,11 @@ url: '/es/ayuda/duplizieren-einer-tabelle'
 
 7. Confirme con **Enviar**.
 
-{{< warning  headline="Nota"  text="También se duplican todas las vistas con todos los [ajustes de vista](https://seatable.io/es/docs/ansichtsoptionen/) para que la tabla copiada sea una copia exacta de la tabla original." />}}
+{{< warning  headline="Nota" >}}
+
+También se duplican todas las vistas con todos los [ajustes de vista]({{< relref "help/base-editor/ansichten" >}}) para que la tabla copiada sea una copia exacta de la tabla original.
+
+{{< /warning >}}
 
 **Este es el resultado con las entradas duplicadas**
 
@@ -34,4 +38,4 @@ Esta opción es útil si desea copiar al menos algunas de las filas de la tabla 
 
 ![Vaciar tablas duplicadas](images/Leere-duplizierte-Tabellen.png)
 
-Esta opción es útil si sólo desea adoptar la **estructura** de la tabla original, pero quiere rellenarla con otras entradas. Esto puede ocurrir, por ejemplo, si crea una tabla por año para su [planificación presupuestaria](https://seatable.io/es/budgetplanung-vorlage/).
+Esta opción es útil si sólo desea adoptar la **estructura** de la tabla original, pero quiere rellenarla con otras entradas. Esto puede ocurrir, por ejemplo, si crea una tabla por año para su [planificación presupuestaria]({{< relref "templates/finance/budget-plan" >}}).

@@ -28,9 +28,9 @@ With SeaTable Enterprise, for 14€ per month per user, you get unlimited tables
 
 ### Dedicated Cloud
 
-With Dedicated Cloud you get your own personal offer: If you don't want to store your data in a public cloud, you can use SeaTable with 100 users or more through your own server, which we manage and maintain. This gives you absolute control over your server in terms of URL, logo, color scheme and templates. In the Dedicated Cloud, you also get an Enterprise Admin Panel, Single Sign-On via SAML2 and OAuth, and optional Corporate Support. You can [find out more](https://seatable.io/en/dedicated/) here.
+With Dedicated Cloud you get your own personal offer: If you don't want to store your data in a public cloud, you can use SeaTable with 100 users or more through your own server, which we manage and maintain. This gives you absolute control over your server in terms of URL, logo, color scheme and templates. In the Dedicated Cloud, you also get an Enterprise Admin Panel, Single Sign-On via SAML2 and OAuth, and optional Corporate Support. You can [find out more]({{< relref "pages/product/seatable-dedicated" >}}) here.
 
 ### SeaTable Enterprise License
 
 Of course you can purchase a SeaTable Enterprise license from us. With this license you can easily build and run your own SeaTable server.  
-More information about the SeaTable license can be [found here](https://seatable.io/en/on-premises/).
+More information about the SeaTable license can be [found here]({{< relref "pages/product/seatable-server" >}}).

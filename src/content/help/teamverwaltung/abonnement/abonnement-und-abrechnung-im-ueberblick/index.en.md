@@ -123,4 +123,4 @@ Existing subscriptions can be cancelled at any time via the team administration.
 
 If you, as a team administrator, delete your team, your account, your team and all data contained therein will be permanently and permanently deleted. As far as possible, all data stored about you will also be deleted from our systems. This process **cannot** be reversed and the deleted data CANNOT be recovered.
 
-[Learn more about the consequences for your data when you delete your team](https://seatable.io/en/docs/teamverwaltung/das-komplette-team-loeschen/).
+[Learn more about the consequences for your data when you delete your team]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).

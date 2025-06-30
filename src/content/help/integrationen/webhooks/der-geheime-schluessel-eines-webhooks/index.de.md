@@ -1,11 +1,11 @@
 ---
-title: "Der geheime Schlüssel eines Webhooks"
+title: 'Der geheime Schlüssel eines Webhooks'
 date: 2023-02-28
-lastmod: "2023-02-28"
-categories: 
-  - "webhooks"
-author: "cdb"
-url: "/de/hilfe/der-geheime-schluessel-eines-webhooks"
+lastmod: '2023-02-28'
+categories:
+    - 'webhooks'
+author: 'cdb'
+url: '/de/hilfe/der-geheime-schluessel-eines-webhooks'
 ---
 
 Wenn das Ziel eines Webhooks öffentlich erreichbar ist, muss bei den eingehenden Anfragen sichergestellt werden, dass diese vom gewünschten Ursprungssystem kommen. Mit Hilfe eines geheimen Schlüssels kann die Herkunft eines Webhooks sichergestellt werden.
@@ -26,7 +26,7 @@ Der geheime Schlüssel ist ein [gemeinsames Geheimnis](https://en.wikipedia.org/
 
 ## Validierung der Signatur
 
-In jeder Programmiersprache sollte es entsprechende Funktionen geben, um eine solche Signatur entsprechend validieren zu können. Wie diese Prüfung in PHP aussehen würde, erfahren Sie in [diesem Artikel](https://seatable.io/docs/webhooks/verarbeitung-eines-webhooks-mit-hilfe-von-php/).
+In jeder Programmiersprache sollte es entsprechende Funktionen geben, um eine solche Signatur entsprechend validieren zu können. Wie diese Prüfung in PHP aussehen würde, erfahren Sie in [diesem Artikel]({{< relref "help/integrationen/webhooks/verarbeitung-eines-webhooks-mit-hilfe-von-php" >}}).
 
 Für Python könnte eine Prüfung so aussehen:
 

@@ -13,7 +13,7 @@ Puede **eliminar** tanto los **enlaces externos** como **los enlaces de invitaci
 ## Formas de eliminar enlaces externos y enlaces de invitación
 
 - Supresión mediante el icono de compartir {{< seatable-icon icon="dtable-icon-share" >}} para bases o vistas
-- Supresión a través de la [administración del equipo](https://seatable.io/es/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+- Supresión a través de la [administración del equipo]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Nota"  text="Los enlaces externos están disponibles para las bases y las vistas, los enlaces de invitación sólo para las bases." />}}
 

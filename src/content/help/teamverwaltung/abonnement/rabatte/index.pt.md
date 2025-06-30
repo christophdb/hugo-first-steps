@@ -10,7 +10,7 @@ url: '/pt/ajuda/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
 
 Gostaria de utilizar o SeaTable e é uma associação registada, trabalha numa instituição pública ou numa organização de caridade sem fins lucrativos? Nesse caso, beneficiará de vantagens especiais, pois queremos apoiar as pessoas que trabalham para o bem comum - seja através de trabalho social, ajuda humanitária, projectos ecológicos ou educação e investigação.
 
-O SeaTable concede às instituições públicas um desconto de 25%, às organizações de caridade sem fins lucrativos e às instituições de ensino um desconto padrão de 50% e às associações locais, em casos excepcionais, até 75% de desconto na sua subscrição do SeaTable Plus ou do SeaTable Enterprise. Para beneficiar do desconto, basta apresentar um pedido correspondente através da [administração da equipa](https://seatable.io/pt/docs/teamverwaltung/die-funktionen-der-teamverwaltung-in-der-uebersicht/).
+O SeaTable concede às instituições públicas um desconto de 25%, às organizações de caridade sem fins lucrativos e às instituições de ensino um desconto padrão de 50% e às associações locais, em casos excepcionais, até 75% de desconto na sua subscrição do SeaTable Plus ou do SeaTable Enterprise. Para beneficiar do desconto, basta apresentar um pedido correspondente através da [administração da equipa]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Pedir desconto
 

@@ -22,7 +22,11 @@ Do you need a table in your Base several times in a slightly modified form? Then
 
 7. Confirm with **Submit**.
 
-{{< warning  headline="Note"  text="All views are also duplicated with all [view settings](https://seatable.io/en/docs/ansichtsoptionen/) so that the copied table is an exact copy of the original table." />}}
+{{< warning  headline="Note" >}}
+
+All views are also duplicated with all [view settings]({{< relref "help/base-editor/ansichten" >}}) so that the copied table is an exact copy of the original table.
+
+{{< /warning >}}
 
 **This is what the result looks like with duplicated entries**
 
@@ -34,4 +38,4 @@ This option is useful if you want to transfer at least some of the rows from the
 
 ![Empty duplicated tables](images/Leere-duplizierte-Tabellen.png)
 
-This option is useful if you only want to adopt the **structure** of the original table, but want to fill it with other entries. This can happen, for example, if you create one table per year for your [budget planning](https://seatable.io/en/budgetplanung-vorlage/).
+This option is useful if you only want to adopt the **structure** of the original table, but want to fill it with other entries. This can happen, for example, if you create one table per year for your [budget planning]({{< relref "templates/finance/budget-plan" >}}).

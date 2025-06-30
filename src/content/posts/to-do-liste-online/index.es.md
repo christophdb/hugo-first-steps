@@ -13,7 +13,7 @@ Crear y gestionar una lista de tareas pendientes en línea con una aplicación t
 
 ## Para qué necesita una lista de tareas
 
-Tanto en casa como en la [gestión de proyectos](https://seatable.io/es/projektmanagement/) profesionales, es importante llevar un registro de todas las tareas pendientes y trabajar en ellas una por una. El primer paso es anotar las **tareas** específicas en una lista de tareas pendientes. A continuación, define las **subtareas** o **categorías** generales, determina **las responsabilidades** y fija **los plazos**.
+Tanto en casa como en la [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}) profesionales, es importante llevar un registro de todas las tareas pendientes y trabajar en ellas una por una. El primer paso es anotar las **tareas** específicas en una lista de tareas pendientes. A continuación, define las **subtareas** o **categorías** generales, determina **las responsabilidades** y fija **los plazos**.
 
 Puede utilizar un **estado** para indicar si una tarea se está procesando o se ha completado. También se puede indicar un estado pendiente si se está esperando una respuesta o información. También deberías **priorizar** tus tareas pendientes para que siempre te ocupes primero de las más importantes.
 
@@ -31,7 +31,7 @@ Si anotas tu lista de tareas en una aplicación, ésta te servirá como una espe
 
 ### Estructurar el trabajo
 
-En el trabajo, puedes **planificar tu jornada** con una lista de tareas. Mueve las nuevas tareas a las categorías adecuadas, asigna plazos, prioridades y responsables. No importa cuándo y dónde se te ocurra una tarea, puedes documentarla rápidamente. Esto se aplica tanto a tus propias tareas como al [trabajo en proyectos de equipo](https://seatable.io/es/perfekte-aufgabenverwaltung-im-projektmanagement/).
+En el trabajo, puedes **planificar tu jornada** con una lista de tareas. Mueve las nuevas tareas a las categorías adecuadas, asigna plazos, prioridades y responsables. No importa cuándo y dónde se te ocurra una tarea, puedes documentarla rápidamente. Esto se aplica tanto a tus propias tareas como al [trabajo en proyectos de equipo]({{< relref "posts/aufgabenverwaltung" >}}).
 
 ### Reconocer las conexiones
 
@@ -77,7 +77,7 @@ Puedes ordenar las tareas individuales, fijar una fecha límite y marcarlas. Tam
 
 ### Projoodle: Una lista de tareas basada en Doodle
 
-El principal objetivo de [Projoodle](https://www.projoodle.com/de) es facilitar la colaboración con amigos. De forma similar al envío de un [enlace Doodle](https://seatable.io/es/umfrage-erstellen/) para citas, la gestión de tareas también debería funcionar sin necesidad de iniciar sesión. El proyecto Projoodle se creó con este objetivo en mente.
+El principal objetivo de [Projoodle](https://www.projoodle.com/de) es facilitar la colaboración con amigos. De forma similar al envío de un [enlace Doodle]({{< relref "posts/umfrage-erstellen" >}}) para citas, la gestión de tareas también debería funcionar sin necesidad de iniciar sesión. El proyecto Projoodle se creó con este objetivo en mente.
 
 Con Projoodle, dispones de una aplicación gratuita para listas de tareas fáciles de crear, compartir y gestionar. Otra característica es la vista de tablero Kanban, que permite agrupar las tareas claramente por estado. Sin embargo, las opciones para ordenar y programar tareas son escasas.
 
@@ -93,7 +93,7 @@ Los recordatorios pueden clasificarse claramente en cada lista y dividirse en se
 
 ## SeaTable: el todoterreno para todo tipo de listas
 
-SeaTable es una base de datos en línea que le permite organizar tareas, información, procesos e ideas de forma fácil y clara. Se beneficia de una vista de lista clásica o puede utilizar formatos de visualización alternativos como el [tablero Kanban](https://seatable.io/es/docs/plugins/anleitung-zum-kanban-plugin/), el [calendario](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/) o un [diagrama de Gantt](https://seatable.io/es/docs/plugins/anleitung-zum-timeline-plugin/).
+SeaTable es una base de datos en línea que le permite organizar tareas, información, procesos e ideas de forma fácil y clara. Se beneficia de una vista de lista clásica o puede utilizar formatos de visualización alternativos como el [tablero Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), el [calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) o un [diagrama de Gantt]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
 
 Otra función interesante es que puedes subir [archivos]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) e [imágenes]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) y adjuntarlos a las tareas. También puedes añadir toda la información que quieras, como una fecha, una prioridad y subtareas en columnas adicionales.
 

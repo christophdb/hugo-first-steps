@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/anleitung-zum-karten-plugin'
 ---
 
-If you have created a text column with addresses or place names in your table or used the [Geoposition](https://seatable.io/en/docs/andere-spalten/die-geopositions-spalte/) column type, you can use the **Map plugin** to display the locations entered in the column.
+If you have created a text column with addresses or place names in your table or used the [Geoposition]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}) column type, you can use the **Map plugin** to display the locations entered in the column.
 
 To activate the plugin, follow the instructions in the article [Activating a Plugin in a Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
@@ -70,7 +70,7 @@ If you have created multiple tables in your Base, you can select which table to 
 
 ### Address line
 
-Specify here a text column where you have entered addresses or place names, or a [geo-location column](https://seatable.io/en/docs/andere-spalten/die-geopositions-spalte/) from which to display the locations on the map. Note that the map plugin will only work if you have used a column of this type in your table.
+Specify here a text column where you have entered addresses or place names, or a [geo-location column]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}) from which to display the locations on the map. Note that the map plugin will only work if you have used a column of this type in your table.
 
 ### Marker color
 

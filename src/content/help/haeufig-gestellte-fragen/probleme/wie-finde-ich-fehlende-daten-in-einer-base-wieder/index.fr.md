@@ -20,13 +20,13 @@ Si vous ou les membres de votre équipe avez supprimé certains éléments de Se
 
 Vous pouvez à tout moment restaurer des tableaux entiers ou des colonnes et lignes individuelles via la corbeille dans une base.
 
-[En](https://seatable.io/fr/docs/arbeiten-in-tabellen/eine-geloeschte-tabelle-wiederherstellen/) savoir plus sur la restauration des tableaux, des colonnes et des lignes.
+[En]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabelle-wiederherstellen" >}}) savoir plus sur la restauration des tableaux, des colonnes et des lignes.
 
 ## Restaurer les bases supprimées de la corbeille
 
 Vous pouvez restaurer les bases supprimées via la corbeille à papier sur la page d'accueil. Notez que cela n'est possible que jusqu'au 30e jour après la suppression.
 
-Apprenez-en plus sur la restauration des bases [ici](https://seatable.io/fr/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Apprenez-en plus sur la restauration des bases [ici]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## Récupération des données via le journal de base
 

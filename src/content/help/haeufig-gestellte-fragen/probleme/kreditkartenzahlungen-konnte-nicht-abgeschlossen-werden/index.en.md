@@ -25,4 +25,4 @@ We cannot give you general advice, because the problems are too diverse and alwa
 
 Basically, however, we can say that the 3D Secure verification is necessary to complete a paid subscription. So, if it, the payment or authentication does not work, just reload the page and try again.
 
-If you are still stuck, please use the [contact options](https://seatable.io/en/kontakt/) and get in [touch](https://seatable.io/en/kontakt/) with us. We will try to help you further.
+If you are still stuck, please use the [contact options]({{< relref "pages/contact" >}}) and get in [touch]({{< relref "pages/contact" >}}) with us. We will try to help you further.

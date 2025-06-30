@@ -20,13 +20,13 @@ Falls Sie oder Ihre Teammitglieder bestimmte Elemente in SeaTable aus Versehen g
 
 Ganze Tabellen oder einzelne Spalten und Zeilen können Sie jederzeit über den Papierkorb in einer Base wiederherstellen.
 
-Erfahren Sie [hier](https://seatable.io/docs/arbeiten-in-tabellen/eine-geloeschte-tabelle-wiederherstellen/) mehr über die Wiederherstellung von Tabellen, Spalten und Zeilen.
+Erfahren Sie [hier]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabelle-wiederherstellen" >}}) mehr über die Wiederherstellung von Tabellen, Spalten und Zeilen.
 
 ## Gelöschte Bases aus dem Papierkorb wiederherstellen
 
 Gelöschte Bases können Sie über den Papierkorb auf der Startseite wiederherstellen. Beachten Sie dabei, dass dies lediglich bis zum 30. Tag nach der Löschung möglich ist.
 
-Erfahren Sie [hier](https://seatable.io/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) mehr über die Wiederherstellung von Bases.
+Erfahren Sie [hier]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) mehr über die Wiederherstellung von Bases.
 
 ## Wiederherstellung von Daten über das Base-Log
 

@@ -20,13 +20,13 @@ Si usted o los miembros de su equipo han borrado accidentalmente ciertos element
 
 Puedes restaurar tablas enteras o columnas y filas individuales en cualquier momento a través de la papelera de reciclaje de una base.
 
-Más información sobre la restauración de tablas, columnas y filas [aquí](https://seatable.io/es/docs/arbeiten-in-tabellen/eine-geloeschte-tabelle-wiederherstellen/).
+Más información sobre la restauración de tablas, columnas y filas [aquí]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabelle-wiederherstellen" >}}).
 
 ## Restaurar bases borradas de la papelera de reciclaje
 
 Las bases borradas pueden restaurarse a través de la papelera de reciclaje de la página de inicio. Ten en cuenta que esto solo es posible hasta 30 días después de la eliminación.
 
-Más información sobre la restauración de bases [aquí](https://seatable.io/es/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Más información sobre la restauración de bases [aquí]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## Restauración de datos a través del registro base
 

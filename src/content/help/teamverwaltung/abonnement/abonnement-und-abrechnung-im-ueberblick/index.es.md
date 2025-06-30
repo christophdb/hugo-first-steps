@@ -123,4 +123,4 @@ Más información [sobre la cancelación de la suscripción]({{< relref "help/te
 
 Si elimina su equipo como administrador del mismo, su cuenta, su equipo y todos los datos contenidos en él se eliminarán de forma permanente y definitiva. En la medida de lo posible, también se eliminarán de nuestros sistemas todos los datos almacenados sobre usted. Este proceso **no** se puede revertir y los datos eliminados NO se pueden recuperar.
 
-[Más información sobre las consecuencias para tus datos si eliminas tu equipo](https://seatable.io/es/docs/teamverwaltung/das-komplette-team-loeschen/).
+[Más información sobre las consecuencias para tus datos si eliminas tu equipo]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).

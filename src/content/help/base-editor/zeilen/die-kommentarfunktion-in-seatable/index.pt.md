@@ -24,4 +24,4 @@ Os comentários de uma tabela não são tidos em conta ao [exportar uma base]({{
 
 Instruções pormenorizadas sobre como escrever, ler e eliminar comentários podem ser encontradas aqui:
 
-- [Linhas de comentário](https://seatable.io/pt/docs/zeilendetails/zeilen-kommentieren/)
+- [Linhas de comentário]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})

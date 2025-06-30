@@ -52,4 +52,4 @@ Après confirmation de la suppression, **toutes les entrées en double** sont **
 
 Notez que **non seulement** les **valeurs** identifiées comme doubles sont supprimées du tableau, mais aussi, avec elles, **les lignes entières** qui contiennent l'une des valeurs en double.
 
-Si vous avez supprimé les entrées ou les lignes par erreur ou si vous en avez à nouveau besoin par la suite, vous pouvez les [restaurer](https://seatable.io/fr/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/) pendant un certain temps [à partir de la corbeille de Base](https://seatable.io/fr/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/).
+Si vous avez supprimé les entrées ou les lignes par erreur ou si vous en avez à nouveau besoin par la suite, vous pouvez les [restaurer]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}) pendant un certain temps [à partir de la corbeille de Base]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}).

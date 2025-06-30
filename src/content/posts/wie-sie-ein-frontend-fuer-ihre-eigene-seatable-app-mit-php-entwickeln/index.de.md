@@ -134,7 +134,7 @@ Da dies kein Design-Tutorial sein soll, beschränke ich mich auf vergleichsweise
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -217,7 +217,7 @@ Da dies kein Design-Tutorial sein soll, beschränke ich mich auf vergleichsweise
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -286,7 +286,7 @@ Da dies kein Design-Tutorial sein soll, beschränke ich mich auf vergleichsweise
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -519,7 +519,7 @@ Nun können wir in der _index.html_ auf sämtliche Einträge aus SeaTable zugrei
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -695,7 +695,7 @@ $app->run();
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>

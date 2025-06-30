@@ -32,7 +32,7 @@ En SeaTable, [las bases]({{< relref "help/startseite/bases/allgemeines-zu-bases"
 
 ![Importar una tabla de otra base](images/import-table-from-other-base.gif)
 
-Con los [registros compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), también puede compartir una tabla maestra en un grupo y utilizar y sincronizar los vástagos de la tabla en diferentes bases. Para más información [, haz clic aquí](https://seatable.io/es/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+Con los [registros compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), también puede compartir una tabla maestra en un grupo y utilizar y sincronizar los vástagos de la tabla en diferentes bases. Para más información [, haz clic aquí]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}).
 
 ## Mantener la visión de conjunto
 

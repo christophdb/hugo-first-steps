@@ -18,6 +18,6 @@ As a **team administrator**, you can view several **legal documents** in SeaTabl
 
 ## View terms of use and privacy policy publicly
 
-The Terms of Use and Privacy Policy are also **publicly** available on our SeaTable.io website. Scroll to the bottom of the web page and click [Privacy](https://seatable.io/en/datenschutz/) Policy or [Terms of Use to](https://seatable.io/en/nutzungsbedingungen/) the right of the Legal Notice.
+The Terms of Use and Privacy Policy are also **publicly** available on our SeaTable.io website. Scroll to the bottom of the web page and click [Privacy]({{< relref "pages/legal/data-privacy" >}}) Policy or [Terms of Use to]({{< relref "pages/legal/terms-of-service" >}}) the right of the Legal Notice.
 
 ![Privacy policy and terms of use in the footer](images/Datenschutz-und-Nutzungsbedingungen-im-Footer.png)

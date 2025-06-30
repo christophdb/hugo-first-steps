@@ -164,7 +164,7 @@ Für die Quellenrecherche bieten sich auch Bibliotheken an. © Jacob Lund / Adob
 
 ### 4\. Gliederung im Literaturverwaltungsprogramm anlegen
 
-Um strukturiert arbeiten zu können, bedarf es einer **übersichtlichen Gliederung** ihrer Literatur. Sie können Ihre Quellen in Kategorien unterteilen oder sie verschiedenen Projekten wie Abschlussarbeiten, [Inhaltsanalysen](https://seatable.io/qualitative-inhaltsanalyse/) oder Forschungsprojekten zuordnen.
+Um strukturiert arbeiten zu können, bedarf es einer **übersichtlichen Gliederung** ihrer Literatur. Sie können Ihre Quellen in Kategorien unterteilen oder sie verschiedenen Projekten wie Abschlussarbeiten, [Inhaltsanalysen]({{< relref "posts/qualitative-inhaltsanalyse" >}}) oder Forschungsprojekten zuordnen.
 
 Zotero bietet Ihnen die Möglichkeit, Quellen mit Markierungen zu versehen, nach denen Sie selektieren können. In SeaTable können Sie die Quellen ganz nach Ihren Wünschen sortieren und gruppieren, zum Beispiel nach Autoren, Themen, der Art der Quelle oder dem Stand der Bearbeitung. So finden Sie auch in größeren Projekten schnell, wonach Sie suchen.
 

@@ -10,7 +10,7 @@ url: '/help/anleitung-zum-tabellenbeziehungen-plugin'
 
 Especially when there are many tables with dozens of columns in a base, it is easy to lose track of how they relate to each other. Using the table relationships plugin, you can visualize which tables are linked to each other via which columns.
 
-You can find out how to activate the plugin in a base [here](https://seatable.io/en/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+You can find out how to activate the plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Table relations plugin](images/Table-Relationships-Plugin.png)
 
@@ -18,7 +18,7 @@ You can find out how to activate the plugin in a base [here](https://seatable.io
 
 Once you have set up and opened the table relationships plugin, you will first see **all the tables** in the base. **All columns** that are created in the respective tables are listed under the colored table names.
 
-To visualize the table relationships, you will not only see **solid lines** for _direct_ links via [link columns]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), but also **dashed lines** for _indirect_ links via link formula columns (e.g. [lookups](https://seatable.io/en/docs/verknuepfungen/die-lookup-funktion/)).
+To visualize the table relationships, you will not only see **solid lines** for _direct_ links via [link columns]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), but also **dashed lines** for _indirect_ links via link formula columns (e.g. [lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}).
 
 ## Setting options for a table relationships graphic
 

@@ -53,7 +53,7 @@ La clé secrète est un [secret partagé](https://en.wikipedia.org/wiki/Shared_s
 
 ## Validation de la signature
 
-Dans chaque langage de programmation, il devrait y avoir des fonctions correspondantes pour pouvoir valider une telle signature en conséquence. [Cet article](https://seatable.io/fr/docs/webhooks/verarbeitung-eines-webhooks-mit-hilfe-von-php/) vous montre à quoi ressemblerait cette vérification en PHP.
+Dans chaque langage de programmation, il devrait y avoir des fonctions correspondantes pour pouvoir valider une telle signature en conséquence. [Cet article]({{< relref "help/integrationen/webhooks/verarbeitung-eines-webhooks-mit-hilfe-von-php" >}}) vous montre à quoi ressemblerait cette vérification en PHP.
 
 Pour Python, un examen pourrait ressembler à ceci :
 

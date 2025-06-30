@@ -53,7 +53,11 @@ Por supuesto, sólo pagará el **importe pr**orrateado correspondiente a cada ca
 
 Puede volver a la suscripción gratuita al final del periodo que ya ha pagado. Para ello, debe cancelar su suscripción de pago.
 
-{{< warning  headline="Terminación no es cancelación"  text="La cancelación de su suscripción de pago no elimina su equipo ni sus datos. Su equipo sólo será degradado a la versión gratuita SeaTable Free al final del período. Puede averiguar cómo eliminar su equipo por completo [aquí](https://seatable.io/es/docs/teamverwaltung/das-komplette-team-loeschen/)." />}}
+{{< warning  headline="Terminación no es cancelación" >}}
+
+La cancelación de su suscripción de pago no elimina su equipo ni sus datos. Su equipo sólo será degradado a la versión gratuita SeaTable Free al final del período. Puede averiguar cómo eliminar su equipo por completo [aquí]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+
+{{< /warning >}}
 
 1. Abre la **administración del equipo**.
 2. Haga clic en **Suscripción**.

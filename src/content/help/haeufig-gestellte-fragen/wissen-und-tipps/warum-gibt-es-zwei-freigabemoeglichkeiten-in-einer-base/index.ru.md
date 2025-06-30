@@ -22,21 +22,21 @@ url: '/ru/pomoshch/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
 
 Если вы хотите поделиться одной из своих баз, у вас есть выбор вариантов в зависимости от того, с кем вы хотите поделиться ею:
 
-- [Выпуск для пользователей](https://seatable.io/ru/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Освобождение для группы](https://seatable.io/ru/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Выпуск для пользователей]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Освобождение для группы]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Выпуск по пригласительной ссылке]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Релиз по внешней ссылке](https://seatable.io/ru/docs/freigabelinks/externer-link-erklaert/)
+- [Релиз по внешней ссылке]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
 ### Пользовательская доля
 
-Если вы хотите поделиться не всей базой, а только ее частями, это, конечно, тоже возможно. [Пользовательский общий доступ](https://seatable.io/ru/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) позволяет одновременно предоставлять общий доступ к нескольким таблицам и представлениям и отправлять их в пакете членам команды или целым группам.
+Если вы хотите поделиться не всей базой, а только ее частями, это, конечно, тоже возможно. [Пользовательский общий доступ]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) позволяет одновременно предоставлять общий доступ к нескольким таблицам и представлениям и отправлять их в пакете членам команды или целым группам.
 
 ## Освобождение вида
 
 Если вы хотите поделиться только одним видом, обмен может быть осуществлен с тремя группами людей:
 
 - [Освобождение члена команды]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Освобождение для группы](https://seatable.io/ru/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
+- [Освобождение для группы]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Релиз по внешней ссылке]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Для получения дополнительной информации см. также статью [Base and view releases]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) at a glance.

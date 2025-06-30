@@ -15,10 +15,10 @@ url: '/ru/pomoshch/bases'
 - Функции реляционных баз данных и [связывание таблиц]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Более 20 типов столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), охватывающих все распространенные форматы данных
 - Различные [варианты совместного использования для]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) легкого обмена данными
-- [Совместная работа](https://seatable.io/ru/docs/seatable-nutzen/zusammenarbeit/) с другими пользователями и передача всех изменений в режиме реального времени
+- [Совместная работа]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) с другими пользователями и передача всех изменений в режиме реального времени
 - [Функция комментария для]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) каждой записи в ряду
 - Полная [версионность]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) всех изменений
-- Встроенный [редактор веб-форм]({{< relref "help/base-editor/webformulare/webformulare" >}}) и графические [плагины](https://seatable.io/ru/docs/seatable-nutzen/ansichten/)
+- Встроенный [редактор веб-форм]({{< relref "help/base-editor/webformulare/webformulare" >}}) и графические [плагины]({{< relref "help/base-editor/ansichten" >}})
 - Простые возможности интеграции благодаря REST API
 
 Таким образом, базы - это гораздо больше, чем "контейнеры для столов" в Интернете. Вы очень быстро оцените эти преимущества и больше никогда не захотите обходиться без них!
@@ -27,7 +27,7 @@ url: '/ru/pomoshch/bases'
 
 Каждая база имеет одного (и только одного) **владельца**. Однако передача права собственности на базу от одного пользователя к другому возможна.
 
-Владельцем базы является либо **пользователь**, либо **группа**. Если владельцем базы является пользователь, то только этот пользователь имеет полное право распоряжаться ею. Если база принадлежит группе, то все администраторы группы имеют к ней полный доступ. Здесь вы можете узнать больше о [полномочиях отдельных членов группы](https://seatable.io/ru/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/).
+Владельцем базы является либо **пользователь**, либо **группа**. Если владельцем базы является пользователь, то только этот пользователь имеет полное право распоряжаться ею. Если база принадлежит группе, то все администраторы группы имеют к ней полный доступ. Здесь вы можете узнать больше о [полномочиях отдельных членов группы]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
 
 Прямая передача прав собственности от одного пользователя к другому в настоящее время (по состоянию на 20.3.2023) невозможна. Однако вы можете **сменить** владельца косвенно, экспортировав базу и импортировав ее новому владельцу. Более подробную информацию об импорте и экспорте баз можно найти в статье [Импорт и экспорт данных]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
@@ -40,8 +40,8 @@ url: '/ru/pomoshch/bases'
 При создании новой базы у вас есть **три варианта**. Подробнее об этом вы можете прочитать в соответствующих статьях:
 
 - [Создайте пустую базу]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Импорт базы из файла](https://seatable.io/ru/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
-- [Создание базы из шаблона](https://seatable.io/ru/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/)
+- [Импорт базы из файла]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
+- [Создание базы из шаблона]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}})
 
 ## Управление базой
 
@@ -59,7 +59,7 @@ url: '/ru/pomoshch/bases'
 
 ## Добавить описание базы
 
-Вы можете добавить описание к своим базам, чтобы дать другим пользователям "инструкции по использованию" или записать дополнительную информацию о базе. Вы можете узнать, как использовать эту функцию [здесь](https://seatable.io/ru/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/).
+Вы можете добавить описание к своим базам, чтобы дать другим пользователям "инструкции по использованию" или записать дополнительную информацию о базе. Вы можете узнать, как использовать эту функцию [здесь]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}).
 
 ## Основания для выпуска
 
@@ -83,7 +83,7 @@ url: '/ru/pomoshch/bases'
 
 ## Удаление и восстановление баз
 
-При необходимости можно [удалить]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) базы, которыми вы владеете или администрируете, и [восстановить](https://seatable.io/ru/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) их на срок до 30 дней. Следуйте инструкциям в статьях, на которые даны ссылки.
+При необходимости можно [удалить]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) базы, которыми вы владеете или администрируете, и [восстановить]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) их на срок до 30 дней. Следуйте инструкциям в статьях, на которые даны ссылки.
 
 ### Восстановление базы из моментального снимка
 
@@ -94,4 +94,4 @@ url: '/ru/pomoshch/bases'
 
 ## Настройка учетной записи электронной почты в базе
 
-Если вы хотите отправлять электронные письма из базы, вам необходимо подключить учетную запись электронной почты к базе. Мы покажем вам, как использовать эту полезную функцию в SeaTable, в статье [Настройка учетной записи электронной почты в базе](https://seatable.io/ru/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+Если вы хотите отправлять электронные письма из базы, вам необходимо подключить учетную запись электронной почты к базе. Мы покажем вам, как использовать эту полезную функцию в SeaTable, в статье [Настройка учетной записи электронной почты в базе]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).

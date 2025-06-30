@@ -22,10 +22,10 @@ url: '/ru/pomoshch/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
 
 ## Часто задаваемые вопросы
 
-{{< faq "Можно ли также отменить последние записи?" >}}Конечно, у вас есть возможность отменить последние изменения. Подробнее читайте в разделе " [Действия отмены](https://seatable.io/ru/docs/historie-und-versionen/aktionen-rueckgaengig-machen/)".
+{{< faq "Можно ли также отменить последние записи?" >}}Конечно, у вас есть возможность отменить последние изменения. Подробнее читайте в разделе " [Действия отмены]({{< relref "help/base-editor/historie-und-versionen/aktionen-rueckgaengig-machen" >}})".
 {{< /faq >}}
 {{< faq "Создаются ли автоматические резервные копии моей базы?" >}}Да, когда в базу вносятся изменения, ежедневно создается так называемый **снимок** базы, который затем можно восстановить. Для получения более подробной информации см. разделы [Сохранение текущей базы в виде моментального снимка]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) и [Восстановление моментального снимка]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 {{< /faq >}}
-{{< faq "Можно ли также сделать полную резервную копию базы?" >}}Да, это возможно и в SeaTable с помощью функции экспорта. Подробнее об этом читайте в разделе [Импорт и экспорт данных](https://seatable.io/ru/docs/seatable-nutzen/datenimport-und-export/).
+{{< faq "Можно ли также сделать полную резервную копию базы?" >}}Да, это возможно и в SeaTable с помощью функции экспорта. Подробнее об этом читайте в разделе [Импорт и экспорт данных]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 {{< /faq >}}

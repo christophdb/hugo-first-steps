@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/ru/pomoshch/erstellen-einer-base-aus-einer-dtable-datei'
 ---
 
-Вы можете создавать новые базы в SeaTable не только пустые или из шаблона, но и из файла DTABLE. DTABLE - это собственный [формат файлов](https://seatable.io/ru/docs/expertenwissen/dtable-dateiformat/), используемый для экспорта и сохранения баз из SeaTable. Здесь вы можете узнать, как создать базу с помощью файла DTABLE:
+Вы можете создавать новые базы в SeaTable не только пустые или из шаблона, но и из файла DTABLE. DTABLE - это собственный [формат файлов]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), используемый для экспорта и сохранения баз из SeaTable. Здесь вы можете узнать, как создать базу с помощью файла DTABLE:
 
 ## Создание базы из файла DTABLE
 

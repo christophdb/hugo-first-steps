@@ -14,7 +14,7 @@ C'est parti : notre App-Builder est officiellement lancé ! Grâce à cette vers
 
 Mais ce n'est pas le seul coup de théâtre - dans SeaTable 5.0, vous disposez de **trois nouveaux plug-ins** pour des visualisations complexes : Organigramme, Relations entre les tableaux et Tableau blanc. L'**accessibilité améliorée** devrait faciliter l'utilisation de SeaTable pour les personnes souffrant d'un handicap (visuel). L'**importation Excel en colonnes** constitue un autre point fort.
 
-Ce matin, nous avons mis à jour SeaTable Cloud à la version 5.0. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 5.0 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog](https://seatable.io/fr/docs/changelog/version-5/) la liste complète des modifications.
+Ce matin, nous avons mis à jour SeaTable Cloud à la version 5.0. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 5.0 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog]({{< relref "pages/changelog" >}}/) la liste complète des modifications.
 
 ## Sans code pour une application professionnelle personnalisée
 
@@ -22,17 +22,17 @@ SeaTable 5.0 marque le lancement officiel de notre générateur d'applications s
 
 ### Nouveau type de page : enregistrement unique
 
-Le développement de l'App-Builder se poursuit sans relâche : avec le [type de page](https://seatable.io/fr/docs/universelle-apps/seitentypen-in-der-universellen-app/) **Enregistrement individuel**, vous avez la possibilité de concevoir une page avec des éléments statiques, des champs de tableau, des couleurs, des cadres, etc. afin de présenter visuellement les données enregistrées sur une ligne. Ce type de page est donc similaire au [plug-in de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) que vous connaissez déjà dans la Base.
+Le développement de l'App-Builder se poursuit sans relâche : avec le [type de page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Enregistrement individuel**, vous avez la possibilité de concevoir une page avec des éléments statiques, des champs de tableau, des couleurs, des cadres, etc. afin de présenter visuellement les données enregistrées sur une ligne. Ce type de page est donc similaire au [plug-in de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que vous connaissez déjà dans la Base.
 
-Les utilisateurs de l'application peuvent voir, rechercher, parcourir et modifier les différents enregistrements sur cette page - avec l'[autorisation](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) correspondante. Ce type de page convient par exemple pour afficher les données d'une base de données d'employés sous forme de fiches personnelles.
+Les utilisateurs de l'application peuvent voir, rechercher, parcourir et modifier les différents enregistrements sur cette page - avec l'[autorisation]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) correspondante. Ce type de page convient par exemple pour afficher les données d'une base de données d'employés sous forme de fiches personnelles.
 
 ![Page d'enregistrement unique](Single-Record-Page-min.gif)
 
 ### Nouvelles fonctions des types de pages existants
 
-Sur les [pages de tableau](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/), vous pouvez dès à présent **exporter** toutes les données affichées sous forme de **fichier Excel**. En outre, l'en-tête des [colonnes]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) d ['images]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) et [de fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) vous permet de **télécharger toutes les pièces jointes sous forme de fichier zip**. Les nouvelles fonctions d'exportation sont utiles si vous souhaitez mettre certains fichiers à la disposition d'autres utilisateurs via l'application.
+Sur les [pages de tableau]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}), vous pouvez dès à présent **exporter** toutes les données affichées sous forme de **fichier Excel**. En outre, l'en-tête des [colonnes]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) d ['images]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) et [de fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) vous permet de **télécharger toutes les pièces jointes sous forme de fichier zip**. Les nouvelles fonctions d'exportation sont utiles si vous souhaitez mettre certains fichiers à la disposition d'autres utilisateurs via l'application.
 
-Sur les [pages de la galerie](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/), nous avons complété les **paramètres des colonnes de liens**. Vous pouvez par exemple définir si les utilisateurs peuvent lier des entrées existantes ou ajouter des entrées dans une autre table via la page de la galerie. Sur les [pages de requête](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/), les résultats de la requête sont désormais immédiatement mis à jour lorsque vous déclenchez des actions de bouton qui entraînent des modifications des données.
+Sur les [pages de la galerie]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}), nous avons complété les **paramètres des colonnes de liens**. Vous pouvez par exemple définir si les utilisateurs peuvent lier des entrées existantes ou ajouter des entrées dans une autre table via la page de la galerie. Sur les [pages de requête]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}), les résultats de la requête sont désormais immédiatement mis à jour lorsque vous déclenchez des actions de bouton qui entraînent des modifications des données.
 
 ## Trois plug-ins pour des visualisations complexes
 
@@ -40,13 +40,13 @@ Un autre point fort de SeaTable 5.0 sont les nouveaux [plugins]({{< relref "help
 
 ### Organigramme
 
-Le plug-in Organigramme permet de représenter les hiérarchies entre les enregistrements d'un tableau, par exemple les postes dans une entreprise ou les [tâches supérieures et inférieures dans un projet](https://seatable.io/fr/projektstrukturplan-vorlage/). Pour visualiser les dépendances entre les enregistrements, vous avez besoin d'une [colonne de lien](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) qui se réfère à un seul et même tableau. L'entrée avec laquelle vous liez une autre ligne du même tableau est représentée comme enregistrement parent.
+Le plug-in Organigramme permet de représenter les hiérarchies entre les enregistrements d'un tableau, par exemple les postes dans une entreprise ou les [tâches supérieures et inférieures dans un projet]({{< relref "templates/projects/work-breakdown-structure" >}}). Pour visualiser les dépendances entre les enregistrements, vous avez besoin d'une [colonne de lien]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) qui se réfère à un seul et même tableau. L'entrée avec laquelle vous liez une autre ligne du même tableau est représentée comme enregistrement parent.
 
 ![Plugin d'organigramme](Organigramm-Plugin.png)
 
 ### Relations entre les tables
 
-Il est facile de perdre la vue d'ensemble des relations entre les différents tableaux d'une base, surtout lorsque celle-ci contient des milliers de lignes. Le nouveau plug-in Relations entre les tableaux permet de voir quels tableaux sont liés entre eux et par quelles colonnes. Il affiche non seulement les liens directs via les [colonnes de liens](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), mais aussi les liens indirects via les colonnes de formules de liens.
+Il est facile de perdre la vue d'ensemble des relations entre les différents tableaux d'une base, surtout lorsque celle-ci contient des milliers de lignes. Le nouveau plug-in Relations entre les tableaux permet de voir quels tableaux sont liés entre eux et par quelles colonnes. Il affiche non seulement les liens directs via les [colonnes de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mais aussi les liens indirects via les colonnes de formules de liens.
 
 ![Plugin de relations entre les tables](Table-Relationships-Plugin.png)
 
@@ -88,6 +88,6 @@ Vous rencontrez l'**éditeur de texte long** à de nombreux endroits. Lorsque vo
 
 ![Éditeur de textes longs dans les formulaires web](Long-text-editor-in-web-forms.png)
 
-Vous connaissez également les **statistiques** de plusieurs endroits dans SeaTable : du [module Statistiques](https://seatable.io/fr/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/) dans la Base ainsi que des [pages individuelles dans les Apps universelles](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). Nous avons amélioré et unifié les statistiques avec une nouvelle bibliothèque de graphiques.
+Vous connaissez également les **statistiques** de plusieurs endroits dans SeaTable : du [module Statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) dans la Base ainsi que des [pages individuelles dans les Apps universelles]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). Nous avons amélioré et unifié les statistiques avec une nouvelle bibliothèque de graphiques.
 
-Auparavant, vous ne pouviez pas restaurer les lignes que vous aviez déplacées vers l'[espace de stockage Big Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) à l'aide de snapshots. Afin d'éviter toute perte de données indésirable, il existe désormais une option permettant de restaurer également l'espace Big Data de la version de l'époque lors de la [restauration de snapshots](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Auparavant, vous ne pouviez pas restaurer les lignes que vous aviez déplacées vers l'[espace de stockage Big Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) à l'aide de snapshots. Afin d'éviter toute perte de données indésirable, il existe désormais une option permettant de restaurer également l'espace Big Data de la version de l'époque lors de la [restauration de snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).

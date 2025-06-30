@@ -44,8 +44,8 @@ Geben Sie den neuen Namen ein und bestätigen Sie mit **Abschicken**.
 
 ## Synchronisation mit dem gemeinsamen Datensatz erzwingen
 
-Als Ersteller eines gemeinsamen Datensatzes können Sie die **Synchronisation** von abhängigen Tabellen erzwingen. Welche Folgen und Vorteile das hat, erfahren Sie [hier](https://seatable.io/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+Als Ersteller eines gemeinsamen Datensatzes können Sie die **Synchronisation** von abhängigen Tabellen erzwingen. Welche Folgen und Vorteile das hat, erfahren Sie [hier]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 ## Einen gemeinsamen Datensatz löschen
 
-Wenn Sie einen gemeinsamen Datensatz löschen möchten, finden Sie [hier](https://seatable.io/docs/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes/) alle wichtigen Informationen.
+Wenn Sie einen gemeinsamen Datensatz löschen möchten, finden Sie [hier]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}}) alle wichtigen Informationen.

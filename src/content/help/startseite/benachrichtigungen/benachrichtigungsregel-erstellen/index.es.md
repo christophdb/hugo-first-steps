@@ -61,4 +61,4 @@ Tras activar la notificación, la notificación definida se envía automáticame
 
 ### Más artículos útiles en la sección Notificaciones:
 
-- [Editar y eliminar reglas de notificación](https://seatable.io/es/docs/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen/)
+- [Editar y eliminar reglas de notificación]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen" >}})

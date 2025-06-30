@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Heute, den 6. Juli 2021, haben wir [SeaTable Cloud](https://cloud.seatable.io) auf SeaTable 2.1 aktualisiert und das neue Docker Image auf Docker Hub hochgeladen. Die Highlights des Releases sind die neuen Tabellenberechtigungen und eine neue Funktion namens Datenverarbeitung. Darüber hinaus haben wir die Spaltentypen Einfach- und Mehrfachauswahl sowie die Checkbox Spalte verbessert. In diesen Release Notes stellen wir – wie immer – die zentralen Entwicklungen vor und verweisen für die vollständige Liste der Änderungen auf das [SeaTable Changelog](https://seatable.io/docs/changelog/version-2-1/) (nur in Englisch verfügbar).
+Heute, den 6. Juli 2021, haben wir [SeaTable Cloud](https://cloud.seatable.io) auf SeaTable 2.1 aktualisiert und das neue Docker Image auf Docker Hub hochgeladen. Die Highlights des Releases sind die neuen Tabellenberechtigungen und eine neue Funktion namens Datenverarbeitung. Darüber hinaus haben wir die Spaltentypen Einfach- und Mehrfachauswahl sowie die Checkbox Spalte verbessert. In diesen Release Notes stellen wir – wie immer – die zentralen Entwicklungen vor und verweisen für die vollständige Liste der Änderungen auf das [SeaTable Changelog]({{< relref "pages/changelog" >}}) (nur in Englisch verfügbar).
 
 ## Tabellenberechtigungen
 
@@ -38,7 +38,7 @@ Weitere Datenverarbeitungsaktionen wie z.B. die Berechnung der Reihenfolge oder 
 
 ![SeaTable 2.1: Advanced permissions for single and multiple select columns](Advanced-column-permissions.png)
 
-Die Spaltenberechtigungen, die in [SeaTable 1.2](https://seatable.io/en/seatable-release-1-2/) eingeführt wurden, erlauben die Vergabe und Steuerung individueller Bearbeitungsrechte für einzelne Spalten. Mit SeaTable 2.1 wurde das Spaltenberechtigungsmenü der beiden Spaltentypen Einfachauswahl und Mehrfachauswahl um einen zweiten Schalter erweitert. Mit diesem lässt sich steuern, welche Benutzer Optionen in einer Auswahlspalte anlegen und bearbeiten dürfen.
+Die Spaltenberechtigungen, die in [SeaTable 1.2]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}) eingeführt wurden, erlauben die Vergabe und Steuerung individueller Bearbeitungsrechte für einzelne Spalten. Mit SeaTable 2.1 wurde das Spaltenberechtigungsmenü der beiden Spaltentypen Einfachauswahl und Mehrfachauswahl um einen zweiten Schalter erweitert. Mit diesem lässt sich steuern, welche Benutzer Optionen in einer Auswahlspalte anlegen und bearbeiten dürfen.
 
 Grundsätzlich können alle Benutzer mit Schreibrechten Optionen editieren. Eigentümer und Admins von Bases können diese Berechtigung nun einschränken. Das Bearbeitungsrecht kann auf _Niemand_, _Administratoren_ oder _bestimmte Benutzer_ eingeschränkt werden. In der Einstellung _Niemand_ können nicht mal Administratoren und Eigentümer selbst neue Optionen anlegen und ändern (aber sie können die Berechtigung ändern).
 

@@ -10,7 +10,7 @@ url: '/de/hilfe/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
 
 Sie möchten SeaTable nutzen und haben einen eingetragenen Verein, arbeiten in einer öffentlichen Einrichtung oder einer gemeinnützigen Non-Profit-Organisation? Dann genießen Sie besondere Vorteile, weil wir Menschen unterstützen wollen, die sich für das Gemeinwohl einsetzen – sei es durch soziale Arbeit, humanitäre Hilfe, ökologische Projekte oder Bildung und Forschung.
 
-SeaTable gewährt öffentlichen Einrichtungen 25% Rabatt, gemeinnützige Non-Profit-Organisationen und Bildungseinrichtungen erhalten standardmäßig 50% Rabatt und lokale Vereine in Ausnahmefällen sogar bis zu 75% Rabatt auf ihr SeaTable Plus oder SeaTable Enterprise Abonnement. Um den Rabatt zu nutzen, stellen Sie einfach einen entsprechenden Antrag über die [Teamverwaltung](https://seatable.io/docs/teamverwaltung/die-funktionen-der-teamverwaltung-in-der-uebersicht/).
+SeaTable gewährt öffentlichen Einrichtungen 25% Rabatt, gemeinnützige Non-Profit-Organisationen und Bildungseinrichtungen erhalten standardmäßig 50% Rabatt und lokale Vereine in Ausnahmefällen sogar bis zu 75% Rabatt auf ihr SeaTable Plus oder SeaTable Enterprise Abonnement. Um den Rabatt zu nutzen, stellen Sie einfach einen entsprechenden Antrag über die [Teamverwaltung]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Rabatt beantragen
 

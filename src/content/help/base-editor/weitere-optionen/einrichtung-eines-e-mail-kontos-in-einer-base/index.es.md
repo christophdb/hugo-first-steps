@@ -26,9 +26,9 @@ Este artículo explica los pasos necesarios para añadir una cuenta de correo el
 
 Para facilitarle la configuración de su cuenta, le ofrecemos instrucciones paso a paso para los proveedores de correo electrónico más populares:
 
-- [Gmail](https://seatable.io/es/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
-- [GMX y WEB.DE](https://seatable.io/es/docs/integrationen-innerhalb-von-seatable/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
-- [Outlook y Microsoft 365](https://seatable.io/es/docs/integrationen-innerhalb-von-seatable/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
+- [Gmail]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [GMX y WEB.DE]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [Outlook y Microsoft 365]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 
 ## Probar la configuración del correo electrónico
 

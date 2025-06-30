@@ -41,7 +41,7 @@ Coordonner les services de conciergerie avec SeaTable
 
 Dans tout bâtiment, il arrive que quelque chose se casse. Vous ne pouvez pas y remédier. Mais ce que vous pouvez changer, c'est que le processus de réparation se déroule de manière efficace - grâce à notre [modèle de conciergerie]({{< relref "templates/real-estate/janitorial-services" >}}).
 
-Avec SeaTable, vous permettez aux habitants de l'immeuble de soumettre facilement des demandes de réparation via un [formulaire web](https://seatable.io/fr/docs/handbuch/seatable-nutzen/webformulare/). Vous êtes automatiquement informé par e-mail des nouveaux dommages et problèmes signalés et pouvez attribuer la réparation au concierge, à l'artisan ou à l'employé approprié. Celui-ci reçoit toutes les informations nécessaires et peut documenter la réparation directement sur place dans son application SeaTable. Les heures de travail et les consommables nécessaires peuvent être facilement documentés.
+Avec SeaTable, vous permettez aux habitants de l'immeuble de soumettre facilement des demandes de réparation via un [formulaire web]({{< relref "help/base-editor/webformulare/webformulare" >}}). Vous êtes automatiquement informé par e-mail des nouveaux dommages et problèmes signalés et pouvez attribuer la réparation au concierge, à l'artisan ou à l'employé approprié. Celui-ci reçoit toutes les informations nécessaires et peut documenter la réparation directement sur place dans son application SeaTable. Les heures de travail et les consommables nécessaires peuvent être facilement documentés.
 
 Si vous le souhaitez, vous pouvez même informer par e-mail la personne qui a signalé le besoin de réparation de la fin des travaux. Vous gardez le contrôle total de toutes les activités du début à la fin et pouvez adapter le modèle à vos besoins et à vos biens immobiliers à volonté.
 
@@ -67,4 +67,4 @@ Notre [modèle pour votre prochain déménagement]({{< relref "templates/real-es
 
 En outre, notre modèle de déménagement propose une liste de choses à faire pour les autres activités qui doivent être effectuées à une date précise. Ainsi, vous n'oublierez pas d'établir la demande de réexpédition du courrier ou de résilier à temps les contrats relatifs à l'ancien bien immobilier. Faites-en l'expérience ! Le prochain déménagement ne manquera pas d'arriver.
 
-Vous souhaitez voir d'autres façons d'utiliser SeaTable ? Découvrez [tous nos modèles](https://seatable.io/fr/modeles/) et travaillez encore plus efficacement avec vos données.
+Vous souhaitez voir d'autres façons d'utiliser SeaTable ? Découvrez [tous nos modèles]({{< relref "templates" >}}) et travaillez encore plus efficacement avec vos données.

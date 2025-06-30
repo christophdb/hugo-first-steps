@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
 ---
 
-Las tablas que ha creado con un registro de datos compartido contienen inicialmente todas las columnas y filas que también se pueden encontrar en la vista de tabla del registro de datos compartido. Por supuesto, también tiene la opción de añadir **nuevas columnas** a estas tablas y rellenarlas con sus propios datos. La ventaja: los datos de las columnas que no están vinculadas a la base de datos compartida **no se sobrescriben** durante [la sincronización](https://seatable.io/es/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+Las tablas que ha creado con un registro de datos compartido contienen inicialmente todas las columnas y filas que también se pueden encontrar en la vista de tabla del registro de datos compartido. Por supuesto, también tiene la opción de añadir **nuevas columnas** a estas tablas y rellenarlas con sus propios datos. La ventaja: los datos de las columnas que no están vinculadas a la base de datos compartida **no se sobrescriben** durante [la sincronización]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 Esta función hace posible que los conjuntos de datos comunes sean utilizados, por ejemplo, por varios departamentos y grupos de empleados de una empresa en contextos muy diversos.
 
@@ -20,7 +20,7 @@ La adición de columnas funciona del **mismo modo que con las tablas habituales*
 
 ## Bloqueo de columnas del registro común
 
-Hay **que tener cuidado** al editar columnas de un conjunto de datos común. Si realiza cambios en columnas que contienen datos de un conjunto de datos común, estos cambios se **sobrescribirán** de nuevo la próxima vez que [se sincronice](https://seatable.io/es/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) el [conjunto de](https://seatable.io/es/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) datos y, por tanto, se **perderán**.
+Hay **que tener cuidado** al editar columnas de un conjunto de datos común. Si realiza cambios en columnas que contienen datos de un conjunto de datos común, estos cambios se **sobrescribirán** de nuevo la próxima vez que [se sincronice]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) el [conjunto de]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) datos y, por tanto, se **perderán**.
 
 Para garantizar un flujo de trabajo óptimo y evitar tanto la pérdida de datos como los malentendidos durante la colaboración, es aconsejable **bloquear** todas las **columnas** que contengan datos de un **conjunto de datos común para su** edición. No obstante, puede editar como desee las columnas adicionales añadidas **individualmente**.
 

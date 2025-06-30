@@ -25,7 +25,7 @@ Hay varias razones por las que las reuniones de equipo son ineficaces, aparte de
 3. Algunos participantes han olvidado la reunión o llegan tarde.
 4. Se debaten temas que no tienen cabida en la reunión.
 5. Hay una persona que habla demasiado y da monólogos.
-6. En la reunión no se fijan [tareas pendientes](https://seatable.io/es/perfekte-aufgabenverwaltung-im-projektmanagement/) ni se toman decisiones.
+6. En la reunión no se fijan [tareas pendientes]({{< relref "posts/aufgabenverwaltung" >}}) ni se toman decisiones.
 
 Es probable que usted mismo haya experimentado ya alguno de los puntos aquí mencionados. Los puntos 4 a 6 son cosas que puedes regular **con moderación**. Para ello, una persona debe tomar la iniciativa e intervenir en cuanto la conversación deje de centrarse en lo esencial.
 
@@ -65,7 +65,7 @@ El orden del día también ayuda a preparar la reunión como corresponde. Un vis
 
 ![La función de chat hace superfluos los correos electrónicos ](Chat-Funktion.png)
 
-La [función de chat](https://seatable.io/es/docs/handbuch/zusammenarbeit/kommentare/) en cada fila, es decir, en cada reunión individual del equipo, permite una comunicación sencilla y ágil que hace superfluos los correos electrónicos. Cuando se abre una línea (haciendo clic en las pequeñas flechas azules a la izquierda de la línea), se abre una vista general de la reunión. A la derecha está el chat, en el que puede añadir fácilmente a los miembros del personal y escribir mensajes importantes, como que el miembro del personal Müller debería subir la presentación provisional con la revisión anual.
+La [función de chat]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) en cada fila, es decir, en cada reunión individual del equipo, permite una comunicación sencilla y ágil que hace superfluos los correos electrónicos. Cuando se abre una línea (haciendo clic en las pequeñas flechas azules a la izquierda de la línea), se abre una vista general de la reunión. A la derecha está el chat, en el que puede añadir fácilmente a los miembros del personal y escribir mensajes importantes, como que el miembro del personal Müller debería subir la presentación provisional con la revisión anual.
 
 El miembro del personal etiquetado recibe una notificación automática por correo electrónico sobre el mensaje de chat y entonces puede simplemente responder a él en el propio chat. De este modo, se pueden aclarar las preguntas con antelación, recoger materiales o intercambiar otra información importante. Todo se recoge de forma transparente y comprensible para que todo el mundo esté de acuerdo y las responsabilidades estén claramente delimitadas.
 

@@ -14,13 +14,13 @@ A época carnavalesca na Alemanha está a aproximar-se do seu auge - e os canhõ
 
 Aguarde um novo diálogo para criar **ligações de formulários**, no qual pode adaptar os URLs aos seus desejos pessoais. Utilize duas novas **automatizações** para criar documentos e enviar notificações aos utilizadores da aplicação. Ou experimente as novas funcionalidades da **aplicação universal**: Entre outras coisas, pode esperar comentários, dois elementos adicionais para a página individual e uma melhor personalização do esquema de cores.
 
-Esta manhã, actualizámos o SeaTable Cloud para a versão 4.3. Todos os auto-hosters podem fazer o mesmo: A imagem do SeaTable 4.3 está disponível para download no conhecido [repositórioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como sempre, pode encontrar a lista completa de alterações no [registo de alterações](https://seatable.io/pt/docs/changelog/version-4/).
+Esta manhã, actualizámos o SeaTable Cloud para a versão 4.3. Todos os auto-hosters podem fazer o mesmo: A imagem do SeaTable 4.3 está disponível para download no conhecido [repositórioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como sempre, pode encontrar a lista completa de alterações no [registo de alterações]({{< relref "pages/changelog" >}}).
 
 Também actualizámos os plugins para Webpack 5 e actualizámos a estrutura para React 17.0.2, o que garantirá maior segurança e estabilidade no futuro e permitirá funções adicionais.
 
 ## Novo diálogo e ligações definidas pelo utilizador para formulários Web
 
-Para partilhar os seus [formulários Web]({{< relref "help/base-editor/webformulare" >}}) com outros utilizadores, existiam anteriormente duas caixas de diálogo diferentes: uma em que podia copiar uma **hiperligação gerada automaticamente** e outra em que podia ampliar esta hiperligação com [valores pré-preenchidos](https://seatable.io/pt/docs/webformulare/formularfelder-per-url-vorbefuellen/). Agora combinámos estas opções numa única caixa de diálogo para aumentar a facilidade de utilização.
+Para partilhar os seus [formulários Web]({{< relref "help/base-editor/webformulare" >}}) com outros utilizadores, existiam anteriormente duas caixas de diálogo diferentes: uma em que podia copiar uma **hiperligação gerada automaticamente** e outra em que podia ampliar esta hiperligação com [valores pré-preenchidos]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}). Agora combinámos estas opções numa única caixa de diálogo para aumentar a facilidade de utilização.
 
 Adicionámos também a nova opção de criar **URLs personalizados** para formulários Web. Pode depois editá-los, guardá-los como código QR, copiá-los ou apagá-los.
 
@@ -30,14 +30,14 @@ Adicionámos também a nova opção de criar **URLs personalizados** para formul
 
 ## Acções automatizadas: Guardar PDF e enviar notificação da aplicação
 
-Atenção fãs da automatização! O SeaTable 4.3 adiciona duas novas opções às [acções automatizadas](https://seatable.io/pt/docs/automationen/automations-aktionen/):
+Atenção fãs da automatização! O SeaTable 4.3 adiciona duas novas opções às [acções automatizadas]({{< relref "help/base-editor/automationen/automations-aktionen" >}}):
 
 1. Em primeiro lugar, tem a possibilidade de guardar periodicamente PDFs para entradas que preencham determinadas condições.
 2. Em segundo lugar, agora é possível enviar notificações que determinados utilizadores de uma aplicação universal devem receber.
 
-Anteriormente, só era possível [criar documentos PDF](https://seatable.io/pt/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) manualmente no SeaTable [através de um botão](https://seatable.io/pt/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/). A nova opção para criar **automaticamente** documentos a partir de registos de dados específicos num determinado momento poupa-lhe cliques e torna os seus processos ainda mais fáceis.
+Anteriormente, só era possível [criar documentos PDF]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) manualmente no SeaTable [através de um botão]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}). A nova opção para criar **automaticamente** documentos a partir de registos de dados específicos num determinado momento poupa-lhe cliques e torna os seus processos ainda mais fáceis.
 
-É possível utilizar as **notificações da aplicação** para informar os utilizadores de uma aplicação sobre alterações a registos de dados relevantes, por exemplo. Esta ação pode ser accionada por todos os quatro [eventos de acionamento](https://seatable.io/pt/docs/automationen/automations-trigger/).
+É possível utilizar as **notificações da aplicação** para informar os utilizadores de uma aplicação sobre alterações a registos de dados relevantes, por exemplo. Esta ação pode ser accionada por todos os quatro [eventos de acionamento]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ![Enviar notificação de aplicação](App-Benachrichtigung-senden.png)
 
@@ -45,19 +45,19 @@ Os utilizadores da respectiva aplicação podem aceder às suas notificações a
 
 ## Coluna de colaboradores de várias equipas
 
-Na [coluna de](https://seatable.io/pt/docs/datum-dauer-und-personen/die-spalte-mitarbeiter/) colaboradores, anteriormente só era possível selecionar pessoas que já tinham acesso à respectiva base. A partir do SeaTable 4.3, é possível introduzir **todos os membros da sua equipa** nas colunas de colaboradores, mesmo que não tenham acesso a determinadas bases. Desta forma, é muito mais fácil atribuir registos de dados aos seus colaboradores, independentemente da sua autorização de acesso.
+Na [coluna de]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) colaboradores, anteriormente só era possível selecionar pessoas que já tinham acesso à respectiva base. A partir do SeaTable 4.3, é possível introduzir **todos os membros da sua equipa** nas colunas de colaboradores, mesmo que não tenham acesso a determinadas bases. Desta forma, é muito mais fácil atribuir registos de dados aos seus colaboradores, independentemente da sua autorização de acesso.
 
-Esta funcionalidade é particularmente útil na aplicação Universal. Pode ativar a opção para que os membros da equipa sejam visíveis para todos os utilizadores na lista pendente nas [definições](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) da aplicação Universal. Se não quiser que os utilizadores possam ver os registos de dados de outros, defina **filtros predefinidos**: Se uma página for filtrada pela coluna do empregado com a condição "inclui o utilizador atual", cada utilizador da aplicação universal só vê as entradas que lhe estão atribuídas na tabela.
+Esta funcionalidade é particularmente útil na aplicação Universal. Pode ativar a opção para que os membros da equipa sejam visíveis para todos os utilizadores na lista pendente nas [definições]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) da aplicação Universal. Se não quiser que os utilizadores possam ver os registos de dados de outros, defina **filtros predefinidos**: Se uma página for filtrada pela coluna do empregado com a condição "inclui o utilizador atual", cada utilizador da aplicação universal só vê as entradas que lhe estão atribuídas na tabela.
 
 ![Coluna do empregado na aplicação universal](Mitarbeiter-Spalte-in-der-Universellen-App.gif)
 
 ## Mais melhorias na aplicação universal
 
-Uma nova funcionalidade da aplicação Universal é a [função de comentários](https://seatable.io/pt/docs/arbeiten-mit-zeilen/zeilen-kommentieren/), que já reconhece na mesma forma da aplicação Base. Registe os seus comentários ou informações adicionais sobre os registos de dados para outros utilizadores da aplicação e realize debates no local.
+Uma nova funcionalidade da aplicação Universal é a [função de comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), que já reconhece na mesma forma da aplicação Base. Registe os seus comentários ou informações adicionais sobre os registos de dados para outros utilizadores da aplicação e realize debates no local.
 
 {{< warning headline="É bom saber" text="Os comentários na aplicação são completamente **independentes** dos comentários na base. Isto significa que cada comentário só é visível no local onde é publicado." />}}
 
-Na [página individual](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/), pode contar com dois novos elementos: o **contentor** e o **mapa**. O contentor fornece uma grelha com a qual pode organizar mais facilmente outros elementos (textos, imagens, estatísticas) e agrupá-los.
+Na [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), pode contar com dois novos elementos: o **contentor** e o **mapa**. O contentor fornece uma grelha com a qual pode organizar mais facilmente outros elementos (textos, imagens, estatísticas) e agrupá-los.
 
 ![Elemento de contentor na página personalizada no SeaTable 4.3](Container-element-on-custom-page.png)
 
@@ -65,21 +65,25 @@ O cartão, que combina uma imagem, um título e um texto num modelo de design, t
 
 ![Elemento de cartão na página personalizada no SeaTable 4.3](Card-element-on-custom-page.png)
 
-Além disso, a **cor de fundo** das páginas individuais pode ser definida conforme desejado a partir do SeaTable 4.3 e a sobreposição indesejada de elementos foi corrigida. O design geral da aplicação universal é agora também apresentado numa cor uniforme em todas as páginas, que pode ser selecionada nas [definições globais](https://seatable.io/pt/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/).
+Além disso, a **cor de fundo** das páginas individuais pode ser definida conforme desejado a partir do SeaTable 4.3 e a sobreposição indesejada de elementos foi corrigida. O design geral da aplicação universal é agora também apresentado numa cor uniforme em todas as páginas, que pode ser selecionada nas [definições globais]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
 
 ### Autorizações nas páginas do quadro
 
-A herança de [autorizações de colunas](https://seatable.io/pt/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) a partir da base foi abolida com o SeaTable 4.3. Se pretender bloquear uma coluna na aplicação universal para edição, pode defini-la como **"só de leitura"** nas definições da [página da tabela](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/).
+A herança de [autorizações de colunas]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) a partir da base foi abolida com o SeaTable 4.3. Se pretender bloquear uma coluna na aplicação universal para edição, pode defini-la como **"só de leitura"** nas definições da [página da tabela]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}).
 
-Todas as restrições para [acções de botão](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) também foram removidas. Cada utilizador da aplicação pode agora fazer alterações predefinidas aos registos de dados, mesmo que as colunas afectadas estejam bloqueadas e o utilizador não esteja autorizado a editar a página.
+Todas as restrições para [acções de botão]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) também foram removidas. Cada utilizador da aplicação pode agora fazer alterações predefinidas aos registos de dados, mesmo que as colunas afectadas estejam bloqueadas e o utilizador não esteja autorizado a editar a página.
 
 ## Anúncio importante: Remoção da galeria e da aplicação de consulta de dados
 
-Na versão 4.4, a [aplicação de galeria](https://seatable.io/pt/docs/apps/galerie-app/) e a [aplicação de consulta de dados](https://seatable.io/pt/docs/apps/datenabfrage-app/) desaparecerão, uma vez que a sua funcionalidade pode agora ser totalmente mapeada com os **tipos de página** correspondentes na aplicação universal. O Universal App Builder será, portanto, a única opção para criar aplicações no SeaTable no futuro.
+Na versão 4.4, a [aplicação de galeria]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) e a [aplicação de consulta de dados]({{< relref "help/app-builder/app-verwaltung/datenabfrage-app" >}}) desaparecerão, uma vez que a sua funcionalidade pode agora ser totalmente mapeada com os **tipos de página** correspondentes na aplicação universal. O Universal App Builder será, portanto, a única opção para criar aplicações no SeaTable no futuro.
 
-Se utilizar as duas aplicações que estão a expirar, recomendamos que reconstrua os seus casos de utilização com [páginas de galeria](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) e [páginas](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) de consulta no App Builder antes da próxima versão. A propósito, agora é possível adicionar campos às páginas de consulta que permitem aos utilizadores pesquisar **colunas de ligação** para valores específicos.
+Se utilizar as duas aplicações que estão a expirar, recomendamos que reconstrua os seus casos de utilização com [páginas de galeria]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) e [páginas]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) de consulta no App Builder antes da próxima versão. A propósito, agora é possível adicionar campos às páginas de consulta que permitem aos utilizadores pesquisar **colunas de ligação** para valores específicos.
 
-{{< warning headline="Atenção, perigo de confusão!" text="Também conhece a [galeria](https://seatable.io/pt/docs/plugins/anleitung-zum-galerie-plugin/) e a [consulta SQL](https://seatable.io/pt/docs/plugins/anleitung-zum-sql-abfrage-plugin/) como **plugins** que pode adicionar às suas bases. Estes manter-se-ão, naturalmente, em vigor." />}}
+{{< warning headline="Atenção, perigo de confusão!" >}}
+
+Também conhece a [galeria]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) e a [consulta SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) como **plugins** que pode adicionar às suas bases. Estes manter-se-ão, naturalmente, em vigor.
+
+{{< /warning >}}
 
 ## E muito mais
 
@@ -89,7 +93,7 @@ Se [enviar mensagens de correio eletrónico através da automatização]({{< rel
 
 Se gosta de utilizar **autorizações de coluna** para proteger os valores de alterações indesejadas, poderá defini-las de forma ainda mais precisa no futuro. Para além de _utilizadores específicos_, _administradores_ e _ninguém_, **determinados grupos** estão agora também disponíveis como opção.
 
-No futuro, haverá uma opção para [exportar](https://seatable.io/pt/docs/import-von-daten/speichern-einer-base-als-dtable-datei/) bases sem os anexos carregados no gestor de ficheiros se estes excederem o limite de exportação de 100 MB por base.
+No futuro, haverá uma opção para [exportar]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) bases sem os anexos carregados no gestor de ficheiros se estes excederem o limite de exportação de 100 MB por base.
 
 Em termos de API, o SeaTable 4.3 suporta pela primeira vez [consultas JOIN](https://developer.seatable.io/scripts/sql/reference/), com as quais é possível consultar os registos de dados de diferentes tabelas que partilham uma intersecção comum de atributos. Pode obter mais informações sobre este assunto no Manual do Programador.
 

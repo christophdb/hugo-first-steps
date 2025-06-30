@@ -36,7 +36,7 @@ Des **plug-ins** permettent d'ajouter des options de représentation à l'affich
 
 Les plugins vous permettent de visualiser vos données sous différents angles. Le jeu de données reste toujours exactement le même, seule la présentation change.
 
-Vous activez les plugins via le gestionnaire de plugins, que vous ouvrez en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** en haut à droite dans l'en-tête de la base. Pour savoir comment ajouter des plugins à votre base, [cliquez ici](https://seatable.io/fr/docs/plugins/aktivieren-eines-plugins-in-einer-base/). Les plugins sont toujours activés uniquement pour la base ouverte. Le cas échéant, vous devez répéter l'activation des plugins dans d'autres bases.
+Vous activez les plugins via le gestionnaire de plugins, que vous ouvrez en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** en haut à droite dans l'en-tête de la base. Pour savoir comment ajouter des plugins à votre base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}). Les plugins sont toujours activés uniquement pour la base ouverte. Le cas échéant, vous devez répéter l'activation des plugins dans d'autres bases.
 
 ![Aperçu de tous les plugins de SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 

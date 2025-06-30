@@ -69,7 +69,7 @@ The default values apply **wherever** you can create new rows :
 
 - in a [table]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - in a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
-- via [button](https://seatable.io/en/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (action: "Copyrow to another table")
+- via [button]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (action: "Copyrow to another table")
 - via [automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (actions: "Addrow " and "Add new entry in another table")
 - in the [calendar]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - via [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}})

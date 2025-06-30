@@ -45,7 +45,7 @@ Dado que se tienen en cuenta tanto el entorno como los factores internos de la e
 
 ### Realizar un análisis DAFO
 
-La mejor manera de hacerlo es [planificar](https://seatable.io/es/workshop-planen/) un [taller](https://seatable.io/es/workshop-planen/) en el que sus equipos hagan una lluvia de ideas juntos sobre las cuatro categorías. **Deberá recopilar** todas las **ideas en una matriz**. Un mapa mental en una pizarra o una plantilla de análisis DAFO en Excel o Word que explique el análisis DAFO de forma sencilla pueden ayudar al principio.
+La mejor manera de hacerlo es [planificar]({{< relref "posts/workshop-planen" >}}) un [taller]({{< relref "posts/workshop-planen" >}}) en el que sus equipos hagan una lluvia de ideas juntos sobre las cuatro categorías. **Deberá recopilar** todas las **ideas en una matriz**. Un mapa mental en una pizarra o una plantilla de análisis DAFO en Excel o Word que explique el análisis DAFO de forma sencilla pueden ayudar al principio.
 
 Pero, ¿qué pertenece a las cuatro categorías?
 

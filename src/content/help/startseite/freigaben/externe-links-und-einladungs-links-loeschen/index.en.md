@@ -13,7 +13,7 @@ You can **delete** both **external links** and **invitation links** at any time 
 ## Ways to delete external links and invitation links
 
 - Deletion via the share icon {{< seatable-icon icon="dtable-icon-share" >}} for bases or views
-- Deletion via [team management](https://seatable.io/en/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+- Deletion via [team management]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Note"  text="External links are for Bases and Views, Invitation links are for Bases only." />}}
 

@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/fr/aide/zapier-api-tokens-sign-in'
 ---
 
-Dès que vous utilisez l'application SeaTable dans Zapier, vous devez autoriser Zapier à accéder à l'une de vos bases. Pour cela, vous créez un [jeton d'API](https://seatable.io/fr/docs/seatable-api/erzeugen-eines-api-tokens/) dans SeaTable et l'utilisez dans Zapier. Cet article d'aide vous montre ce à quoi vous devez faire attention.
+Dès que vous utilisez l'application SeaTable dans Zapier, vous devez autoriser Zapier à accéder à l'une de vos bases. Pour cela, vous créez un [jeton d'API]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}) dans SeaTable et l'utilisez dans Zapier. Cet article d'aide vous montre ce à quoi vous devez faire attention.
 
 ## Zapier nécessite une inscription
 
@@ -18,7 +18,7 @@ Dès que vous utilisez SeaTable comme déclencheur ou comme action dans l'une de
 
 Dès que vous cliquez sur **Sign in**, une nouvelle fenêtre s'ouvre dans laquelle vous devez saisir à la fois l'URL du système SeaTable et un jeton API pour l'une de vos bases.
 
-Créez un jeton API pour l'une de vos bases et inscrivez-le dans ce formulaire. Pour savoir comment cela fonctionne, [consultez cet article d'aide](https://seatable.io/fr/docs/seatable-api/erzeugen-eines-api-tokens/).
+Créez un jeton API pour l'une de vos bases et inscrivez-le dans ce formulaire. Pour savoir comment cela fonctionne, [consultez cet article d'aide]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}).
 
 ![Saisissez votre jeton API et confirmez.](images/zapier-authenticate-app.png)
 

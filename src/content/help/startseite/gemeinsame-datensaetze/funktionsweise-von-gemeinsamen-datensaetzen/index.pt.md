@@ -25,13 +25,13 @@ Na síntese seguinte encontrará também os links para os vários artigos de aju
 
 Publicar primeiro qualquer vista de tabela juntamente com o seu filtro específico e condições de classificação como um conjunto de dados comum.
 
-[Saiba mais sobre a criação de um registo partilhado.](https://seatable.io/pt/docs/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes/)
+[Saiba mais sobre a criação de um registo partilhado.]({{< relref "help/startseite/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes" >}})
 
 ## Gestão de um conjunto de dados partilhados
 
 Deseja alterar o nome de um registo de dados partilhado ou saber que bases estão ligadas a esse registo de dados?
 
-[Saiba mais sobre a gestão de um conjunto de dados partilhados.](https://seatable.io/pt/docs/gemeinsame-datensaetze/verwaltung-eines-gemeinsamen-datensatzes/)
+[Saiba mais sobre a gestão de um conjunto de dados partilhados.]({{< relref "help/startseite/gemeinsame-datensaetze/verwaltung-eines-gemeinsamen-datensatzes" >}})
 
 ## Partilhar um registo comum com outro grupo
 
@@ -43,32 +43,32 @@ Para poder utilizar um registo partilhado em outros grupos, pode partilhá-lo co
 
 Pode sincronizar cada tabela que tenha criado com um conjunto de dados comum. SeaTable compara os dados da tabela com os dados do conjunto de dados partilhados. Estes são sobrescritos se você ou os membros do seu grupo tiverem feito alterações ao conjunto de dados partilhados desde a última sincronização.
 
-[Saiba mais sobre a sincronização de um conjunto de dados partilhados.](https://seatable.io/pt/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/)
+[Saiba mais sobre a sincronização de um conjunto de dados partilhados.]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}})
 
 ## Criar uma nova mesa com um registo comum
 
 Se você ou os membros da sua equipa quiserem utilizar um conjunto de dados comum, podem importá-lo para uma base. Para o fazer, criar uma nova tabela com o conjunto de dados partilhados.
 
-[Saiba mais sobre a criação de uma nova mesa com um registo comum.](https://seatable.io/pt/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/)
+[Saiba mais sobre a criação de uma nova mesa com um registo comum.]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}})
 
 ## Adicionar colunas a uma tabela criada com um registo comum
 
 Depois de ter importado um conjunto de dados comum como uma nova tabela para uma base desejada, pode alargar a tabela com as suas próprias colunas como desejar.
 
-[Aprenda a adicionar colunas a uma tabela criada com um conjunto de dados comum.](https://seatable.io/pt/docs/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern/)
+[Aprenda a adicionar colunas a uma tabela criada com um conjunto de dados comum.]({{< relref "help/startseite/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern" >}})
 
 ## Reimportação de registos de dados partilhados
 
 Se copiar bases nas quais estão integrados registos de dados partilhados ou se as restaurar a partir de instantâneos, a ligação aos registos de dados partilhados perde-se. Embora os dados estejam então disponíveis numa tabela normal, já não podem ser sincronizados.
 
-[Aqui pode descobrir como reimportar registos de dados partilhados para tabelas existentes.](https://seatable.io/pt/docs/gemeinsame-datensaetze/reimport-von-gemeinsamen-datensaetzen/)
+[Aqui pode descobrir como reimportar registos de dados partilhados para tabelas existentes.]({{< relref "help/startseite/gemeinsame-datensaetze/reimport-von-gemeinsamen-datensaetzen" >}})
 
 ## Eliminação de um registo comum
 
 Os conjuntos de dados partilhados também podem, evidentemente, ser apagados. No entanto, é favor notar os efeitos que uma eliminação tem tanto sobre os dados do conjunto de dados partilhados como sobre as tabelas que você e os membros do seu grupo criaram com o conjunto de dados partilhados.
 
-[Saiba mais sobre como apagar um registo partilhado.](https://seatable.io/pt/docs/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes/)
+[Saiba mais sobre como apagar um registo partilhado.]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}})
 
 ### Artigos mais úteis na secção de Conjuntos de Dados Comuns
 
-- [Porque é que os registos partilhados só funcionam em grupos?](https://seatable.io/pt/docs/gemeinsame-datensaetze/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen/)
+- [Porque é que os registos partilhados só funcionam em grupos?]({{< relref "help/startseite/gemeinsame-datensaetze/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen" >}})

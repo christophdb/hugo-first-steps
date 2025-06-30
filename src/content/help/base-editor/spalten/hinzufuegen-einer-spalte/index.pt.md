@@ -10,7 +10,7 @@ url: '/pt/ajuda/hinzufuegen-einer-spalte'
 
 As mesas em SeaTable consistem em colunas e filas. Dentro de uma base, é possível somar até 500 colunas a uma tabela. Para cada coluna, tem a opção individual de seleccionar um tipo de **coluna** adequado, dependendo do tipo de dados.
 
-Uma visão detalhada de todos os tipos de colunas actualmente disponíveis no SeaTable pode ser encontrada [aqui](https://seatable.io/pt/docs/spalten/uebersicht-alle-spaltentypen/).
+Uma visão detalhada de todos os tipos de colunas actualmente disponíveis no SeaTable pode ser encontrada [aqui]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}).
 
 ## Adicionar coluna
 

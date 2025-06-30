@@ -28,7 +28,7 @@ After logging in, you start on the home page of SeaTable. Each square tile repre
 
 Each Base consists of one or more tables. Tables help you to structure and relate your information.
 
-[Learn more about tables →](https://seatable.io/en/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/)
+[Learn more about tables →]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}})
 
 ### rows
 
@@ -54,7 +54,7 @@ Views allow you to look at the same information from different angles. The under
 
 In addition to the views, plugins offer further possibilities to display the data in a base in the optimal way. The gallery is ideal for a base with many images, the timeline has its strengths for entries with start and end dates and the Kanban board lets you easily change the status of entries. Plugins help you work efficiently and effectively with your data.
 
-[Learn more about plugins →](https://seatable.io/en/docs/plugins/was-ist-ein-plugin/)
+[Learn more about plugins →]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}})
 
 ## Work in a team
 
@@ -62,26 +62,26 @@ In addition to the views, plugins offer further possibilities to display the dat
 
 You use groups to determine which team members have access to individual or multiple bases. Each team member should have access only to the bases relevant to their work. Most teams in SeaTable create groups for individual work areas such as HR, marketing, management, or product development. This allows you to control access easily and effectively.
 
-[Learn more about groups here →](https://seatable.io/en/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/)
+[Learn more about groups here →]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen" >}})
 
 ### Authorisations
 
-[Learn more about the permissions in a group →](https://seatable.io/en/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
+[Learn more about the permissions in a group →]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}})
 
 ### Cooperation
 
 SeaTable is a solution where people should work together on processes, structures and data. Only by working together as a team do you unleash the true potential of SeaTable.
 
-[Learn more about SeaTable collaboration →](https://seatable.io/en/docs/seatable-nutzen/zusammenarbeit/)
+[Learn more about SeaTable collaboration →]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}})
 
 ### Team management
 
 The team management provides various functions for the administrators of your team. Among other things, you can manage your team members and subscription, view invoices or create support tickets.
 
-[Learn more about the team management →](https://seatable.io/en/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+[Learn more about the team management →]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 ### Subscription and billing
 
 Each team has either a Free, Plus or Enterprise subscription. This subscription determines how much data the team is allowed to store together and which features are available to the team.
 
-[Learn more about subscription and billing →](https://seatable.io/en/docs/teamverwaltung-abonnement/abonnement-und-abrechnung-im-ueberblick/)
+[Learn more about subscription and billing →]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}})

@@ -32,7 +32,7 @@ En la tabla "Libros para comprar" puedes anotar la bibliografía que necesitas. 
 
 ### Utilizar la vista de calendario
 
-Para aprovechar toda la potencia de tu agenda de estudiante, puedes utilizar la [vista de calendario](https://seatable.io/es/docs/handbuch/seatable-nutzen/ansichten/). Para ello, sólo tienes que añadir el plugin de calendario y verás todos tus plazos claramente ordenados en tu calendario personal.
+Para aprovechar toda la potencia de tu agenda de estudiante, puedes utilizar la [vista de calendario]({{< relref "help/base-editor/ansichten" >}}). Para ello, sólo tienes que añadir el plugin de calendario y verás todos tus plazos claramente ordenados en tu calendario personal.
 
 ![Planificador de estudiantes](Bildschirmfoto-2020-09-02-um-11.57.21.png)
 

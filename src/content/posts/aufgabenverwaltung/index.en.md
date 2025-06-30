@@ -68,7 +68,7 @@ The base for task management can be used completely as a work base in which file
 
 ### Team communication in one place
 
-SeaTable allows direct communication within the tables, eliminating the need for email communication outside Base. When opening a row , employees can be added to the discussion in the [comment field on](https://seatable.io/en/docs/handbuch/zusammenarbeit/kommentare/) the right and comments, questions or feedback can be sent. This way, everyone knows exactly which task a question refers to and communication is transparent, synchronous and traceable.
+SeaTable allows direct communication within the tables, eliminating the need for email communication outside Base. When opening a row , employees can be added to the discussion in the [comment field on]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) the right and comments, questions or feedback can be sent. This way, everyone knows exactly which task a question refers to and communication is transparent, synchronous and traceable.
 
 ## Task management with the Kanban board
 
@@ -80,7 +80,7 @@ Other categorisations are also conceivable, such as according to superordinate t
 
 ### Individual views for each employee
 
-For individual boards for your employees, separate [views](https://seatable.io/en/docs/handbuch/seatable-nutzen/ansichten/) must be created in advance. This is easily done by setting a filter where the "Responsible" column must contain the name of a specific employee ("Responsible has any of XY"). This way all other colleagues disappear from the view and only the tasks of the one employee are displayed. This feature is included in all licenses and offers endless design possibilities. For example, if you want to create a view with only open tasks, the filter function for this is "Status is not done".
+For individual boards for your employees, separate [views]({{< relref "help/base-editor/ansichten" >}}) must be created in advance. This is easily done by setting a filter where the "Responsible" column must contain the name of a specific employee ("Responsible has any of XY"). This way all other colleagues disappear from the view and only the tasks of the one employee are displayed. This feature is included in all licenses and offers endless design possibilities. For example, if you want to create a view with only open tasks, the filter function for this is "Status is not done".
 
 The countless filter options offer highly individual views of your task management and you can adopt a different perspective at any time. The good thing is that the different views are all completely independent of each other in their presentation. A filter in view A does not influence the display in view B. However, the change of data always runs synchronously and is immediately implemented in all views.
 

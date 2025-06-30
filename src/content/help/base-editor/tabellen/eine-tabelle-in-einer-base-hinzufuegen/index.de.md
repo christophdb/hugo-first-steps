@@ -32,7 +32,7 @@ In SeaTable sind [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases"
 
 ![Import einer Tabelle aus einer anderen Base](images/import-table-from-other-base.gif)
 
-Mit [gemeinsamen Datensätzen]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) können Sie zudem eine Mastertabelle in einer Gruppe teilen und die Tabellen-Ableger in verschiedenen Bases nutzen und synchronisieren. Mehr dazu erfahren Sie [hier](https://seatable.io/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+Mit [gemeinsamen Datensätzen]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) können Sie zudem eine Mastertabelle in einer Gruppe teilen und die Tabellen-Ableger in verschiedenen Bases nutzen und synchronisieren. Mehr dazu erfahren Sie [hier]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}).
 
 ## Behalten Sie den Überblick
 

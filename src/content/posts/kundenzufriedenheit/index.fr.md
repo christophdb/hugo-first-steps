@@ -20,7 +20,7 @@ Pour pouvoir améliorer la satisfaction des clients, vous devez connaître leur 
 
 Quelle que soit la méthode que vous choisissez, vous avez toujours besoin d'un outil pour recueillir, mesurer et évaluer le feedback des clients. Ce processus doit être simple et pouvoir être répété à tout moment sans grand effort. En même temps, l'évaluation doit rester claire, même en cas de grandes quantités de données. Cette évaluation est souvent appelée _User Experience Research_ ou _UX Research_.
 
-Avec SeaTable, nous vous fournissons l'outil idéal. SeaTable vous aide à collecter des informations grâce à [des formulaires web](https://seatable.io/fr/docs/handbuch/datenmanagement/webformulare/) faciles à partager et à évaluer et hiérarchiser les commentaires des clients grâce à des [fonctions statistiques](https://seatable.io/fr/docs/handbuch/datenmanagement/statistiken/). Nous avons même préparé un [modèle]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) pour vous donner une première inspiration et vous permettre de réaliser les trois étapes suivantes. N'hésitez pas à y jeter un coup d'œil.
+Avec SeaTable, nous vous fournissons l'outil idéal. SeaTable vous aide à collecter des informations grâce à [des formulaires web]({{< relref "help/base-editor/webformulare" >}}) faciles à partager et à évaluer et hiérarchiser les commentaires des clients grâce à des [fonctions statistiques]({{< relref "help/base-editor/statistiken" >}}). Nous avons même préparé un [modèle]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) pour vous donner une première inspiration et vous permettre de réaliser les trois étapes suivantes. N'hésitez pas à y jeter un coup d'œil.
 
 ## Étape 1 : Collecter des données sur la satisfaction des clients
 
@@ -91,7 +91,7 @@ Il existe des différences culturelles en matière d'évaluation. Cela devient i
 
 ### Un outil adapté pour évaluer la satisfaction des clients
 
-Quelle que soit la méthode que vous choisissez, veillez à utiliser un outil qui vous permette d'enregistrer et de gérer tous vos feedbacks. SeaTable peut par exemple vous aider à obtenir le feedback souhaité de la part de vos clients. Il vous suffit de créer l'enquête de votre choix à l'aide de notre formulaire web. Dans [cet article](https://seatable.io/fr/kundenfeedback-mit-seatable/), nous vous expliquons plus en détail tout le processus de création d'un tel formulaire et l'évaluation qui s'ensuit. Si vous souhaitez vous lancer directement, n'hésitez pas à y faire un tour.
+Quelle que soit la méthode que vous choisissez, veillez à utiliser un outil qui vous permette d'enregistrer et de gérer tous vos feedbacks. SeaTable peut par exemple vous aider à obtenir le feedback souhaité de la part de vos clients. Il vous suffit de créer l'enquête de votre choix à l'aide de notre formulaire web. Dans [cet article]({{< relref "templates/marketing/customer-feedback" >}}), nous vous expliquons plus en détail tout le processus de création d'un tel formulaire et l'évaluation qui s'ensuit. Si vous souhaitez vous lancer directement, n'hésitez pas à y faire un tour.
 
 ![Création d'un formulaire web de feedback client](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 
@@ -105,7 +105,7 @@ Après avoir obtenu le feed-back souhaité de vos clients, vous devez filtrer le
 
 ### Analyser les faiblesses et les potentiels
 
-Supposons que vous souhaitiez apporter des améliorations à votre produit, identifier les points faibles actuels et comprendre pourquoi vos clients ne recommandent pas votre produit. Pour cela, vous pouvez créer une nouvelle [vue](https://seatable.io/fr/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) pour [filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [trier](https://seatable.io/fr/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) et [regrouper](https://seatable.io/fr/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) les résultats de l'enquête. Recherchez les réponses avec une faible valeur NPS et classez les feedbacks par catégories pertinentes. Vous pouvez créer une vue distincte pour chaque analyse souhaitée et y accéder ainsi à tout moment en quelques secondes.
+Supposons que vous souhaitiez apporter des améliorations à votre produit, identifier les points faibles actuels et comprendre pourquoi vos clients ne recommandent pas votre produit. Pour cela, vous pouvez créer une nouvelle [vue]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) pour [filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [trier]({{< relref "help/base-editor/ansichten" >}}sortieren-von-eintraegen-in-einer-ansicht/) et [regrouper]({{< relref "help/base-editor/ansichten" >}}gruppieren-von-eintraegen-in-einer-ansicht/) les résultats de l'enquête. Recherchez les réponses avec une faible valeur NPS et classez les feedbacks par catégories pertinentes. Vous pouvez créer une vue distincte pour chaque analyse souhaitée et y accéder ainsi à tout moment en quelques secondes.
 
 ![Possibilités de filtrage de SeaTable](nps-form-filter.png)
 
@@ -142,6 +142,6 @@ Sur cette capture d'écran, on voit bien que les catégories _Feature_ et _Price
 
 Seule une entreprise qui prend au sérieux les souhaits de ses clients peut réussir à long terme. Pour cela, il est essentiel que vous compreniez ce qui motive vos clients. Utilisez des enquêtes qualitatives et mettez en place des processus afin de garantir un flux constant de feedbacks de la part des clients. Vous pouvez utiliser le NPS et les questionnaires qualitatifs pour obtenir ces informations.
 
-Veillez à ne pas perdre de vue les sujets importants à cause de la quantité d'informations que vous recevez. Hiérarchisez donc vos informations et déduisez-en des options d'action. Prenez le temps de gérer les [réactions négatives](https://seatable.io/fr/negatives-kundenfeedback/).
+Veillez à ne pas perdre de vue les sujets importants à cause de la quantité d'informations que vous recevez. Hiérarchisez donc vos informations et déduisez-en des options d'action. Prenez le temps de gérer les réactions négatives.
 
 Si vous avez l'intention d'améliorer durablement l'expérience utilisateur de vos clients, essayez SeaTable. SeaTable vous donne les [outils nécessaires]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) pour augmenter la satisfaction de vos clients. N'attendez pas demain, mettez en place dès aujourd'hui un processus permanent d'enquête sur la satisfaction de vos clients !

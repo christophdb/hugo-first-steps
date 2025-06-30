@@ -82,7 +82,7 @@ Vista geral dos objectos do modelo da Galeria de Arte
 
 ### Representação visual dos objectos com o plug-in da galeria
 
-A vista de tabela do SeaTable pode ser adaptada de forma flexível às necessidades de cada colaborador com vistas individuais. Além disso, o SeaTable tem outras opções de visualização para além da vista tabular. Para entradas com imagens, por exemplo, pode fazer sentido utilizar o [plugin da galeria](https://seatable.io/pt/docs/handbuch/seatable-nutzen/ansichten/) para obter uma visão geral clara e encontrar rapidamente a entrada desejada. Um clique na entrada é suficiente para mudar para a vista detalhada e fazer ajustes nos dados.
+A vista de tabela do SeaTable pode ser adaptada de forma flexível às necessidades de cada colaborador com vistas individuais. Além disso, o SeaTable tem outras opções de visualização para além da vista tabular. Para entradas com imagens, por exemplo, pode fazer sentido utilizar o [plugin da galeria]({{< relref "help/base-editor/ansichten" >}}) para obter uma visão geral clara e encontrar rapidamente a entrada desejada. Um clique na entrada é suficiente para mudar para a vista detalhada e fazer ajustes nos dados.
 
 ![Os artistas apresentados como uma galeria](art-gallery-management-gallery-view.png)
 

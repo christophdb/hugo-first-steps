@@ -18,7 +18,7 @@ Además, SeaTable ofrece otras columnas que a veces se ajustan mejor a sus valor
 
 - Duración y periodos = [columna de]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}}) duración
 - Fecha y hora = [columna de fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- Geoinformación = [Columna de geoposición](https://seatable.io/es/docs/andere-spalten/die-geopositions-spalte/)
+- Geoinformación = [Columna de geoposición]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}})
 
 ## Añadir una columna numérica
 

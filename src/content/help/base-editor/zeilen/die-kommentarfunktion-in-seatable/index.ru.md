@@ -24,4 +24,4 @@ SeaTable предоставляет **функцию комментариев д
 
 Подробные инструкции по написанию, чтению и удалению комментариев можно найти здесь:
 
-- [Строки комментариев](https://seatable.io/ru/docs/zeilendetails/zeilen-kommentieren/)
+- [Строки комментариев]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})

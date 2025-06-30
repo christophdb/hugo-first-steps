@@ -53,7 +53,11 @@ Of course, you also only pay the respective **pro-rata amount** for each change.
 
 You can return to the free subscription at the end of the already paid term. For this, you need to cancel your paid subscription.
 
-{{< warning  headline="Termination is not deletion"  text="Canceling your paid subscription will not delete your team or data. Your team will only be downgraded to the free SeaTable Free at the end of the term. To learn how to delete your team completely, [click here](https://seatable.io/en/docs/teamverwaltung/das-komplette-team-loeschen/)." />}}
+{{< warning  headline="Termination is not deletion" >}}
+
+Canceling your paid subscription will not delete your team or data. Your team will only be downgraded to the free SeaTable Free at the end of the term. To learn how to delete your team completely, [click here]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+
+{{< /warning >}}
 
 1. Open the **team management**.
 2. Click on **Subscription**.

@@ -82,7 +82,7 @@ Um die Online-Datenbank kostenlos zu betreiben, benötigen Sie die Developer-Ver
 Eine weitere beliebte relationale Datenbank ist [Oracle Database](https://www.oracle.com/de/database/). Die Hauptfunktionen sind unter anderem die Anwendungsentwicklung und Data Warehousing. Sind Sie auf der Suche nach einer kostenlosen Online-Datenbank, bieten sich Ihnen zwei Optionen:
 
 - **Oracle Autonomous Transaction Processing**: Die Art, wie die Daten gespeichert werden, erleichtert alltägliche Aufgaben mit der Online-Datenbank.
-- **Oracle Autonomous Data Warehouse**: Diese Art der Speicherung erleichtert [Analysen](https://seatable.io/swot-analyse-template/).
+- **Oracle Autonomous Data Warehouse**: Diese Art der Speicherung erleichtert [Analysen]({{< relref "templates/operations/swot-analysis" >}}).
 
 Bei beiden ist der Datenbankspeicherplatz auf 20 GB beschränkt.
 
@@ -104,7 +104,7 @@ Mithilfe von [ZenBase](https://getzenbase.com/) können Sie ebenfalls Online-Dat
 
 ### SeaTable
 
-Zuletzt haben Sie die Möglichkeit, die Online-Datenbank [SeaTable](https://seatable.io/) kostenlos zu verwenden. Inbegriffen sind 2 GB Speicher für Dateien, 10.000 Zeilen und unlimitierte Tabellen. Für einen größeren Funktionsumfang startet die Plus-Version bei 7 € pro User pro Monat. Das Tool ermöglicht verschiedene Ansichten auf die Daten, wie einen Kalender oder ein Diagramm. Es ist einfach zu bedienen und wird in deutschen Rechenzentren betrieben.
+Zuletzt haben Sie die Möglichkeit, die Online-Datenbank [SeaTable]({{< relref "/" >}}) kostenlos zu verwenden. Inbegriffen sind 2 GB Speicher für Dateien, 10.000 Zeilen und unlimitierte Tabellen. Für einen größeren Funktionsumfang startet die Plus-Version bei 7 € pro User pro Monat. Das Tool ermöglicht verschiedene Ansichten auf die Daten, wie einen Kalender oder ein Diagramm. Es ist einfach zu bedienen und wird in deutschen Rechenzentren betrieben.
 
 ## Fazit: Online-Datenbanken gibt es viele – teils kostenlos, teils mit Testversion
 

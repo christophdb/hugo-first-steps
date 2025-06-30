@@ -18,4 +18,4 @@ Alle weiteren Besonderheiten der ersten Spalte lernen Sie im Artikel [Die Besond
 
 ## Was, wenn ich eine andere erste Spalte verwenden möchte?
 
-Wenn Sie eine andere Spalte als erste Spalte verwenden möchten, können Sie die erste Spalte [anpassen]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) und die Daten aus der bisherigen ersten Spalte einfach [per Copy-and-Paste](https://seatable.io/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste") in die neue Spalte kopieren.
+Wenn Sie eine andere Spalte als erste Spalte verwenden möchten, können Sie die erste Spalte [anpassen]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) und die Daten aus der bisherigen ersten Spalte einfach [per Copy-and-Paste]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) in die neue Spalte kopieren.

@@ -25,7 +25,7 @@ Há várias razões pelas quais as reuniões de equipa são ineficientes - para 
 3. Alguns participantes esqueceram-se da reunião ou chegaram atrasados.
 4. São discutidos temas que não têm lugar na reunião.
 5. Há uma pessoa que fala demasiado e faz monólogos.
-6. Durante a reunião não são definidas [tarefas](https://seatable.io/pt/perfekte-aufgabenverwaltung-im-projektmanagement/) nem são tomadas decisões.
+6. Durante a reunião não são definidas [tarefas]({{< relref "posts/aufgabenverwaltung" >}}) nem são tomadas decisões.
 
 Provavelmente já experimentou um dos pontos aqui mencionados. Os pontos 4 a 6 são coisas que se podem regular com **moderação**. Para isso, uma pessoa deve assumir a liderança e intervir assim que a conversa deixar de se centrar no essencial.
 
@@ -65,7 +65,7 @@ A ordem de trabalhos também ajuda a preparar a reunião em conformidade. Basta 
 
 ![A função de chat torna os e-mails supérfluos ](Chat-Funktion.png)
 
-A [função de chat](https://seatable.io/pt/docs/handbuch/zusammenarbeit/kommentare/) em cada linha, ou seja, em cada reunião de equipa individual, permite uma comunicação descomplicada e simplificada que torna supérfluos quaisquer e-mails. Quando se abre uma linha (clique nas pequenas setas azuis à esquerda da linha), abre-se uma visão global da reunião. À direita encontra-se o chat, onde pode facilmente adicionar membros do pessoal e escrever mensagens importantes, tais como o membro do pessoal Müller deve carregar a apresentação intercalar com a revisão anual.
+A [função de chat]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) em cada linha, ou seja, em cada reunião de equipa individual, permite uma comunicação descomplicada e simplificada que torna supérfluos quaisquer e-mails. Quando se abre uma linha (clique nas pequenas setas azuis à esquerda da linha), abre-se uma visão global da reunião. À direita encontra-se o chat, onde pode facilmente adicionar membros do pessoal e escrever mensagens importantes, tais como o membro do pessoal Müller deve carregar a apresentação intercalar com a revisão anual.
 
 O funcionário marcado recebe uma notificação automática por e-mail sobre a mensagem de chat e pode então simplesmente responder à mesma no próprio chat. Desta forma, as questões podem ser esclarecidas antecipadamente, os materiais recolhidos ou outras informações importantes trocadas. Tudo é recolhido de forma transparente e compreensível para que todos estejam a bordo e para que as responsabilidades sejam claramente delineadas.
 

@@ -60,7 +60,7 @@ Von manchen Benutzern sehnlich erwartet wurde darüber hinaus die Möglichkeit, 
 
 ## Und noch viel mehr
 
-Natürlich können wir nicht, ohne exzessiv ausschweifend zu werden, alle neuen Funktionen in diesen Release Notes detailliert vorstellen. Die vollständige Liste der Änderungen findet sich im [Changelog](https://seatable.io/docs/changelog/version-3-2/). In diesem letzten Abschnitt stellen wir weitere Neuerungen in aller Kürze vor:
+Natürlich können wir nicht, ohne exzessiv ausschweifend zu werden, alle neuen Funktionen in diesen Release Notes detailliert vorstellen. Die vollständige Liste der Änderungen findet sich im [Changelog]({{< relref "pages/changelog" >}}). In diesem letzten Abschnitt stellen wir weitere Neuerungen in aller Kürze vor:
 
 Mit dieser Version wird für Sortierungen und Gruppierungen nachgeholt, was Filter schon seit einiger Zeit erlauben: Die Änderung ihrer Reihenfolge. Umfangreichere Filter-, Sortierungs- und Gruppierungsregeln können also mühelos im Nachhinein an sich ändernde Anforderungen angepasst werden.
 

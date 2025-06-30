@@ -54,4 +54,4 @@ Basically, the trigger event defined for a notification rule will not trigger **
 
 ### More helpful articles in the Notification Rules section:
 
-- [Create notification rule](https://seatable.io/en/docs/benachrichtigungen/benachrichtigungsregel-erstellen/)
+- [Create notification rule]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregel-erstellen" >}})

@@ -19,7 +19,7 @@ Die Kopfzeile der Startseite enthält vier Elemente. Diese sind:
 - **SeaTable-Logo** - bei einem Klick wird die Startseite aktualisiert.
 - **Suchfeld** - ermöglicht die Suche nach einer oder mehreren Bases über deren Namen.
 - **Glocke** - zeigt allgemeine [Benachrichtigungen]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) an.
-- **Avatar** - öffnet ein Menü: Hier werden die aktuellen Team-Limits angezeigt sowie Links zu den [persönlichen Einstellungen](https://seatable.io/docs/persoenliche-einstellungen/persoenliche-einstellungen/) und den [Team-Einstellungen](https://seatable.io/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/), wenn Sie ein Team-Administrator sind. Auch der Logout befindet sich hier.
+- **Avatar** - öffnet ein Menü: Hier werden die aktuellen Team-Limits angezeigt sowie Links zu den [persönlichen Einstellungen]({{< relref "help/startseite/persoenliche-einstellungen" >}}) und den [Team-Einstellungen]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}), wenn Sie ein Team-Administrator sind. Auch der Logout befindet sich hier.
 
 ## Seitennavigation
 
@@ -32,4 +32,4 @@ Der Arbeitsbereich enthält alle Bases, auf die Sie Zugriff haben. Der Arbeitsbe
 - **Meine Bases** - Bases, die Sie erstellt haben und auf die nur Sie Zugriff haben (solange Sie keine [Freigaben]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) erteilen).
 - **Favoriten** - Bases, die Sie als [Favoriten]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}}) markiert haben.
 - **Für mich freigegeben** - alle Bases, die Andere mit Ihnen geteilt haben.
-- **Gruppen** - alle [Gruppen](https://seatable.io/docs/arbeiten-mit-gruppen/gruppen/), in denen Sie Mitglied sind.
+- **Gruppen** - alle [Gruppen]({{< relref "help/startseite/gruppen" >}}), in denen Sie Mitglied sind.

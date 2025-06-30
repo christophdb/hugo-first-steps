@@ -32,7 +32,7 @@ url: '/ru/pomoshch/schritt-3-anmeldebestaetigung'
 
 ### Настройка отправки электронной почты в SeaTable
 
-С помощью данных доступа к SMTP из Mailtrap вы теперь можете настроить [отправку электронной почты в SeaTable](https://seatable.io/ru/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+С помощью данных доступа к SMTP из Mailtrap вы теперь можете настроить [отправку электронной почты в SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
 ![](images/lvl2-mailtrap-in-seatable.png)
 
@@ -85,8 +85,8 @@ url: '/ru/pomoshch/schritt-3-anmeldebestaetigung'
 
 ## Справочная статья с дополнительной информацией
 
-- [Настройка учетной записи электронной почты в базе](https://seatable.io/ru/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/)
-- [Настройте Gmail для отправки писем через SMTP](https://seatable.io/ru/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
+- [Настройка учетной записи электронной почты в базе]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
+- [Настройте Gmail для отправки писем через SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 - [Кнопка]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
 - [Отправка сообщения электронной почты с помощью кнопки]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Электронная почта с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

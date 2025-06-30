@@ -16,7 +16,7 @@ Avec les **plugins** de SeaTable, vous avez la possibilité de voir vos données
 
 SeaTable vous permet de créer différentes **vues** pour vos tableaux, dans lesquelles vous pouvez [filtrer]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) les données à votre guise.
 
-Un **plugin** est un composant logiciel optionnel de SeaTable qui vous offre des possibilités d'affichage supplémentaires. Dans chaque base, il est possible d'activer différents plugins qui affichent les données des tableaux et vues correspondants, par exemple dans **des calendriers**, des **documents** ou **des galeries**. Pour en savoir plus sur l'[activation d'un plugin](https://seatable.io/fr/docs/plugins/aktivieren-eines-plugins-in-einer-base/), consultez l'article d'aide en lien.
+Un **plugin** est un composant logiciel optionnel de SeaTable qui vous offre des possibilités d'affichage supplémentaires. Dans chaque base, il est possible d'activer différents plugins qui affichent les données des tableaux et vues correspondants, par exemple dans **des calendriers**, des **documents** ou **des galeries**. Pour en savoir plus sur l'[activation d'un plugin]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}), consultez l'article d'aide en lien.
 
 ## Plugin de calendrier
 
@@ -24,7 +24,7 @@ Le plug-in Calendrier vous permet d'afficher les données d'une [colonne de date
 
 ![](images/Calendar.png)
 
-[En savoir plus sur le plugin calendrier](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/)
+[En savoir plus sur le plugin calendrier]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
 
 Ces articles pourraient également vous intéresser :
 
@@ -57,7 +57,7 @@ Cet article pourrait également vous intéresser :
 
 ![](images/Map.png)
 
-[En savoir plus sur le plug-in de carte](https://seatable.io/fr/docs/plugins/instructions-plugin-de-carte/)
+[En savoir plus sur le plug-in de carte]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}/)
 
 ## Plugin de déduplication de données
 
@@ -74,15 +74,6 @@ Le plug-in de déduplication des données détecte les **entrées en double** da
 ![](images/Pagedesign.png)
 
 [En savoir plus sur le plugin de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
-
-Ces articles pourraient également vous intéresser :
-
-- [Image statique](https://seatable.io/fr/docs/seitendesign-plugin/statisches-bild/)
-- [Texte statique](https://seatable.io/fr/docs/seitendesign-plugin/statischer-text/)
-- [Éléments dynamiques](https://seatable.io/fr/docs/seitendesign-plugin/dynamische-elemente/)
-- [En-tête et pied de page](https://seatable.io/fr/docs/seitendesign-plugin/kopf-und-fusszeile/)
-- [Entrées et pages](https://seatable.io/fr/docs/seitendesign-plugin/eintraege-und-seiten/)
-- [Champs du tableau](https://seatable.io/fr/docs/seitendesign-plugin/tabellenfelder/)
 
 ## Plugin Kanban
 

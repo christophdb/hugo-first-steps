@@ -66,7 +66,7 @@ Mit dem Seitendesign-Plugin ist es außerdem möglich, mit den in der Tabelle en
 
 ## Dauer und Agenda des Workshops festlegen
 
-Ein Workshop, wie Ihre Mitarbeiter [Reisekosten einreichen und Auslagen erstattet bekommen](https://seatable.io/auslagenerstattung/) können, sollte nicht länger als eine Stunde dauern, während ein Führungskräfte-Training mehrere Stunden pro Woche oder ganze Tage in Anspruch nehmen kann. Dem **Pensum** entsprechend sollte der Coach eine **Agenda** festlegen und planen, wie viele Inhalte in der Zeit vermittelt werden können. Die **Termine** der Kurse können Sie mit dem **Kalender** visuell darstellen und Ihren Mitarbeitern in der Monatsübersicht einen klaren Überblick über die Termine verschaffen.
+Ein Workshop, wie Ihre Mitarbeiter [Reisekosten einreichen und Auslagen erstattet bekommen]({{< relref "posts/auslagenerstattung" >}}) können, sollte nicht länger als eine Stunde dauern, während ein Führungskräfte-Training mehrere Stunden pro Woche oder ganze Tage in Anspruch nehmen kann. Dem **Pensum** entsprechend sollte der Coach eine **Agenda** festlegen und planen, wie viele Inhalte in der Zeit vermittelt werden können. Die **Termine** der Kurse können Sie mit dem **Kalender** visuell darstellen und Ihren Mitarbeitern in der Monatsübersicht einen klaren Überblick über die Termine verschaffen.
 
 ## Location und Catering buchen
 
@@ -96,7 +96,7 @@ Je nach Thema des Workshops eignen sich unterschiedliche Methoden und Materialie
 
 ## Zertifikate erstellen
 
-Um die **Teilnahme am Workshop zu bescheinigen**, können Sie jedem Teilnehmer ein Zertifikat ausstellen. Mit dem [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) in SeaTable ersparen Sie sich dabei viel Arbeit. Das Plugin verwendet die bereits eingetragenen Informationen in der Tabelle und kann diese für jeden Teilnehmer individuell in das Layout des Teilnahmezertifikats einfügen. Mithilfe einer Schaltfläche können Sie per Knopfdruck personalisierte Dokumente erstellen und im PDF-Format speichern.
+Um die **Teilnahme am Workshop zu bescheinigen**, können Sie jedem Teilnehmer ein Zertifikat ausstellen. Mit dem [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) in SeaTable ersparen Sie sich dabei viel Arbeit. Das Plugin verwendet die bereits eingetragenen Informationen in der Tabelle und kann diese für jeden Teilnehmer individuell in das Layout des Teilnahmezertifikats einfügen. Mithilfe einer Schaltfläche können Sie per Knopfdruck personalisierte Dokumente erstellen und im PDF-Format speichern.
 
 ![Erstellen Sie Zertifikate ohne Mehraufwand mit dem Page Design Plugin](Zertifikate.jpg)
 
@@ -106,7 +106,7 @@ Was wären Workshops und Weiterbildungsmaßnahmen ohne Feedback? Zur Evaluation 
 
 ![Nutzen Sie das SeaTable Webformular, um Feedback von Ihren Mitarbeitern zu sammeln](Feedback.jpg)
 
-Das gesammelte Feedback können Sie in SeaTable einfach **auswerten**, indem Sie beispielsweise den Median oder Durchschnitt einer [Rating-Spalte](https://seatable.io/docs/auswahlspalten/die-rating-spalte/) in der [Statuszeile](https://seatable.io/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) anzeigen lassen oder die offenen Antworten in den [Text-Spalten](https://seatable.io/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) für die Weiterentwicklung der Workshops nutzen. Wenn es auffällig viel **Kritik** an einem Kurs gibt, kann der Trainer entweder Verbesserungen vornehmen oder ausgetauscht werden. Kommt etwa oft das Feedback, dass wichtige Aspekte gefehlt haben, könnte das ein Hinweis darauf sein, dass Sie diesen mehr Zeit einräumen und den Workshop verlängern sollten. Sie könnten ebenso einen neuen Workshop ins Leben rufen, der sich genau auf diese Aspekte konzentriert und so die Bedürfnisse Ihrer Teilnehmer erfüllt.
+Das gesammelte Feedback können Sie in SeaTable einfach **auswerten**, indem Sie beispielsweise den Median oder Durchschnitt einer [Rating-Spalte]({{< relref "help/base-editor/numerische-spalten/die-rating-spalte" >}}) in der [Statuszeile]({{< relref "help/base-editor/ansichten" >}}die-status-zeile-und-ihre-funktionen/) anzeigen lassen oder die offenen Antworten in den [Text-Spalten]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) für die Weiterentwicklung der Workshops nutzen. Wenn es auffällig viel **Kritik** an einem Kurs gibt, kann der Trainer entweder Verbesserungen vornehmen oder ausgetauscht werden. Kommt etwa oft das Feedback, dass wichtige Aspekte gefehlt haben, könnte das ein Hinweis darauf sein, dass Sie diesen mehr Zeit einräumen und den Workshop verlängern sollten. Sie könnten ebenso einen neuen Workshop ins Leben rufen, der sich genau auf diese Aspekte konzentriert und so die Bedürfnisse Ihrer Teilnehmer erfüllt.
 
 ## Fazit: Workshop planen mit SeaTable
 

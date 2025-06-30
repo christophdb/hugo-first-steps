@@ -25,9 +25,9 @@ En SeaTable, no tienes que preocuparte por perder tus datos. Incluso las tablas 
 Cuando recuperas una tabla de la papelera de reciclaje, se restaura exactamente con el mismo aspecto que tenía cuando se borró. Incluye los siguientes componentes:
 
 - Datos de la tabla
-- [Vistas de la tabla](https://seatable.io/es/docs/seatable-nutzen/ansichten/)
-- [Comentarios](https://seatable.io/es/docs/zusammenarbeit/kommentare/)
-- [Formularios web](https://seatable.io/es/docs/seatable-nutzen/webformulare/)
+- [Vistas de la tabla]({{< relref "help/base-editor/ansichten" >}})
+- [Comentarios]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Formularios web]({{< relref "help/base-editor/webformulare" >}})
 - Automatizaciones
 - Representaciones y evaluaciones en los plug-ins de SeaTable
 
@@ -37,4 +37,4 @@ Cuando recuperas una tabla de la papelera de reciclaje, se restaura exactamente 
 
 ## Más artículos útiles sobre la recuperación de datos
 
-SeaTable ofrece varias opciones para restaurar el contenido eliminado. No sólo se pueden recuperar las tablas borradas, sino también sus últimas modificaciones, versiones antiguas o bases enteras. El [artículo general sobre la recuperación de datos en SeaTable](https://seatable.io/es/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) sin duda le ayudará.
+SeaTable ofrece varias opciones para restaurar el contenido eliminado. No sólo se pueden recuperar las tablas borradas, sino también sus últimas modificaciones, versiones antiguas o bases enteras. El [artículo general sobre la recuperación de datos en SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}}) sin duda le ayudará.

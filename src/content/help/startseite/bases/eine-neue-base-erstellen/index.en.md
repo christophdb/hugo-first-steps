@@ -31,7 +31,7 @@ Additionally, there is the possibility to create a new Base via a folder.
 1. Start from the **home** page of SeaTable.
 2. Click a **folder** in the appropriate workspace (My Bases or one of your groups).
 3. In the window that opens, click **New** in the upper right corner.
-4. Select whether you want to **create** an **empty base**, [import]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_importieren) a base, or create a [base from a template](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+4. Select whether you want to **create** an **empty base**, [import]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_importieren) a base, or create a [base from a template]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 5. Give the base a **name**, assign it a color and an icon and save the operation by pressing the **Enter key**.
 6. The newly created base now appears in the folder overview and is stored in the corresponding **folder** on the start page.
 

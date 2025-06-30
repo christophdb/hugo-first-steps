@@ -24,4 +24,4 @@ Wir können Ihnen keinen allgemeinen Rat geben, da die Probleme zu vielfältig s
 
 Grundsätzlich können wir jedoch sagen, dass die 3D Secure Prüfung notwendig ist, um ein kostenpflichtiges Abonnement abgeschlossen wird. Sollte es also, die Zahlung bzw. die Authentifizierung nicht klappen, laden Sie die Seite einfach neu und probieren Sie es einfach erneut aus.
 
-Sollten Sie auch dann nicht weiterkommen, nutzen Sie die [Möglichkeiten der Kontaktaufnahme](https://seatable.io/kontakt/) und melden Sie sich bei uns. Wir werden versuchen, Ihnen weiterzuhelfen.
+Sollten Sie auch dann nicht weiterkommen, nutzen Sie die [Möglichkeiten der Kontaktaufnahme]({{< relref "pages/contact" >}}) und melden Sie sich bei uns. Wir werden versuchen, Ihnen weiterzuhelfen.

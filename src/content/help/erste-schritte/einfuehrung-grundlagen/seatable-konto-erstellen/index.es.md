@@ -13,7 +13,7 @@ Nos alegramos de que esté interesado en SeaTable. Registrarse para obtener una 
 
 ## El registro
 
-1. Abra el [sitio web SeaTable](https://seatable.io/es/).
+1. Abra el [sitio web SeaTable]({{< relref "/" >}}).
 2. Haga clic en **Registrarse** en la esquina superior derecha.
 3. Introduzca su **dirección de correo electrónico** y confirme.
 

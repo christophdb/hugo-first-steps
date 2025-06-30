@@ -19,7 +19,7 @@ Start your move planning by brainstorming. What tasks do I need to complete? Who
 
 A checklist can help keep track of all the tasks.
 
-You can also find a checklist for your move in our [template](https://seatable.io/en/umzug/#Online-Planer_fuer_Ihren_Umzug).
+You can also find a checklist for your move in our [template]({{< relref "posts/umzug" >}}).
 
 ## Before the move
 
@@ -94,7 +94,7 @@ How much support you want from a company is up to you. Usually, you have several
 
 ### For smart spenders: organize the move yourself
 
-If you want to save costs, **moving on your own** is exactly the right thing to do. However, the organizational effort will also be higher. Because everything that is included with the moving company now falls into your own hands. But with good planning, nothing stands in the way of this project. A [moving plan](https://seatable.io/en/umzug/#Online-Planer_fuer_Ihren_Umzug) will help you with all the steps on your way.
+If you want to save costs, **moving on your own** is exactly the right thing to do. However, the organizational effort will also be higher. Because everything that is included with the moving company now falls into your own hands. But with good planning, nothing stands in the way of this project. A [moving plan]({{< relref "posts/umzug" >}}) will help you with all the steps on your way.
 
 ![Costs that you will incur during your move.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 

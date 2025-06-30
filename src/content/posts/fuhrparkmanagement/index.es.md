@@ -73,7 +73,7 @@ Como probablemente sepa, debe cumplir el **Reglamento General de Protección de 
 
 {{< warning headline="Nota" text="Los sistemas modernos pueden, por ejemplo, localizar vehículos para planificar rutas y crear **perfiles de movimiento** precisos. También es posible extraer conclusiones sobre rutas, consumo y estilo de conducción a partir del **uso de tarjetas de combustible**." />}}
 
-Sobre todo por motivos fiscales, debe poder hacer un seguimiento de la **utilización** concreta de los **vehículos**. ¿Qué empleados utilizaron qué vehículos de empresa? Y lo que es más importante: ¿los desplazamientos eran por motivos profesionales o privados? Un [diario digital](https://seatable.io/es/digitales-fahrtenbuch-fuehren/) es una buena manera de documentar esta información con cuidado y de conformidad con el GDPR.
+Sobre todo por motivos fiscales, debe poder hacer un seguimiento de la **utilización** concreta de los **vehículos**. ¿Qué empleados utilizaron qué vehículos de empresa? Y lo que es más importante: ¿los desplazamientos eran por motivos profesionales o privados? Un [diario digital]({{< relref "posts/202503-fahrtenbuch" >}}) es una buena manera de documentar esta información con cuidado y de conformidad con el GDPR.
 
 También debe comprobar los permisos de los conductores dos veces al año para asegurarse de que tienen un **permiso de conducción válido**. No sólo puede inspeccionar los permisos de conducir, sino también escanearlos o fotocopiarlos. Esto también demuestra la cantidad de datos sensibles que implica la gestión de flotas, que debes almacenar de forma responsable.
 

@@ -22,4 +22,4 @@ Si vous n'avez **pas** reçu d'e-mail, veuillez vérifier les options suivantes 
 
 1. Soyez patient : dans de rares cas, l'envoi de l'e-mail de confirmation peut être **retardé** pendant un certain temps.
 2. Vérifie ton **dossier spam**, éventuellement l'onglet **publicité** et la **corbeille**. Le courriel y a peut-être atterri.
-3. Si **aucune** de ces deux étapes n'a abouti, vous pouvez vous réinscrire [ici](https://seatable.io/fr/enregistrement/) avec votre adresse e-mail et vous recevrez un **nouvel** e-mail de confirmation.
+3. Si **aucune** de ces deux étapes n'a abouti, vous pouvez vous réinscrire [ici]({{< relref "pages/registration" >}}) avec votre adresse e-mail et vous recevrez un **nouvel** e-mail de confirmation.

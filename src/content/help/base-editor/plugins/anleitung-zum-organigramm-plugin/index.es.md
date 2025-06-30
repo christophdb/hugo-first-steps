@@ -8,15 +8,15 @@ author: 'kgr'
 url: '/es/ayuda/anleitung-zum-organigramm-plugin'
 ---
 
-Puede utilizar el complemento de organigrama para mostrar **jerarquías** entre los registros de datos de una tabla. Esto es útil, por ejemplo, para visualizar los cargos en una empresa o las [tareas superordinadas y subordinadas en un proyecto](https://seatable.io/es/projektstrukturplan-vorlage/).
+Puede utilizar el complemento de organigrama para mostrar **jerarquías** entre los registros de datos de una tabla. Esto es útil, por ejemplo, para visualizar los cargos en una empresa o las [tareas superordinadas y subordinadas en un proyecto]({{< relref "templates/projects/work-breakdown-structure" >}}).
 
-Puede encontrar información sobre cómo activar el plugin en una base [aquí](https://seatable.io/es/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Puede encontrar información sobre cómo activar el plugin en una base [aquí]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Plugin de organigrama](images/Organigramm-Plugin.png)
 
 ## Requisitos y funcionalidad del plugin de organigrama
 
-Para definir qué registros de datos dependen unos de otros, necesita un [enlace que haga referencia a una misma tabla](https://seatable.io/es/docs/verknuepfungen/verknuepfungen-innerhalb-einer-tabelle/). La entrada que vincule en esta columna a otra fila de la misma tabla se mostrará como **registro de datos superior**.
+Para definir qué registros de datos dependen unos de otros, necesita un [enlace que haga referencia a una misma tabla]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}). La entrada que vincule en esta columna a otra fila de la misma tabla se mostrará como **registro de datos superior**.
 
 ![Columna de enlace para un organigrama](images/Verknuepfungsspalte-fuer-ein-Organigramm.png)
 

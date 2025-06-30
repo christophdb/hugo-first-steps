@@ -16,11 +16,11 @@ Si acaba de abrir una tabla, puede simplemente hacer clic con el ratón en una c
 
 ## Copiar y pegar
 
-También puede utilizar el **portapapeles** de su ordenador para transferir rápidamente pequeñas cantidades de datos. Para ello, copie los datos de una tabla existente y péguelos en SeaTable mediante [copiar y pegar](https://seatable.io/es/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/).
+También puede utilizar el **portapapeles** de su ordenador para transferir rápidamente pequeñas cantidades de datos. Para ello, copie los datos de una tabla existente y péguelos en SeaTable mediante [copiar y pegar]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}).
 
 ## Importación de datos
 
-SeaTable tiene una potente función de importación de datos que le permite capturar datos de **archivos** **Excel** y **CSV** de diferentes maneras. Si se pregunta [qué formatos de importación admite Sea](https://seatable.io/es/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})Table, lea los artículos de ayuda correspondientes.
+SeaTable tiene una potente función de importación de datos que le permite capturar datos de **archivos** **Excel** y **CSV** de diferentes maneras. Si se pregunta [qué formatos de importación admite Sea]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})Table, lea los artículos de ayuda correspondientes.
 
 ## Formularios web
 

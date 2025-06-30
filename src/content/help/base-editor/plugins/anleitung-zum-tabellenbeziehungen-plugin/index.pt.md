@@ -10,7 +10,7 @@ url: '/pt/ajuda/anleitung-zum-tabellenbeziehungen-plugin'
 
 Especialmente quando existem muitas tabelas com dezenas de colunas numa base, é fácil perder a noção de como estão relacionadas umas com as outras. Pode utilizar o plugin de relações entre tabelas para visualizar as tabelas que estão ligadas entre si através de que colunas.
 
-Pode descobrir como ativar o plugin numa base [aqui](https://seatable.io/pt/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Pode descobrir como ativar o plugin numa base [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Plugin de relações de tabela](images/Table-Relationships-Plugin.png)
 
@@ -18,7 +18,7 @@ Pode descobrir como ativar o plugin numa base [aqui](https://seatable.io/pt/docs
 
 Depois de ter configurado e aberto o plugin de relações de tabela, começa por ver **todas as tabelas** da base. **Todas as colunas** que são criadas nas respectivas tabelas são listadas sob os nomes de tabela coloridos.
 
-Para visualizar as relações de tabela, verá não só **linhas sólidas** para ligações _directas_ através de [colunas de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mas também **linhas tracejadas** para ligações _indirectas_ através de colunas de fórmula de ligação (por exemplo, [pesquisas](https://seatable.io/pt/docs/verknuepfungen/die-lookup-funktion/)).
+Para visualizar as relações de tabela, verá não só **linhas sólidas** para ligações _directas_ através de [colunas de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mas também **linhas tracejadas** para ligações _indirectas_ através de colunas de fórmula de ligação (por exemplo, [pesquisas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}).
 
 ## Definir opções para um gráfico de relações de tabela
 

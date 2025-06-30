@@ -17,7 +17,7 @@ url: '/ru/pomoshch/formatierungen-mithilfe-von-markdown-rich-text'
 В настоящее время существует пять областей, где вы можете использовать синтаксис Markdown в SeaTable. К ним относятся:
 
 - Колонки типа [форматированного текста]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
-- [Базовые описания](https://seatable.io/ru/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/)
+- [Базовые описания]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}})
 - Тексты электронной почты при отправке через [автоматизацию]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}})
 - [Универсальные приложения]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}})

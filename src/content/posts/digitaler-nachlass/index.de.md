@@ -71,7 +71,7 @@ Nach dem gleichen Prinzip können Sie Ihre Konten und Passwörter auch **elektro
 
 Auch viele Browser bieten die Möglichkeit, bequem Login-Daten zu speichern.
 
-Mit einem digitalen [Passwort-Manager](https://seatable.io/digitaler-nachlass/#Mit_welchen_Tools_ein_digitaler_Nachlass_verwaltet_werden_kann) können Sie Ihre Zugangsdaten übersichtlich und flexibel verwalten: Diese Tools ermöglichen es, Konten und Passwörter sicher zu speichern und sie im Todesfall an Vertrauenspersonen weiterzugeben. Daher ist dies eine der besten Möglichkeiten, Ihren digitalen Nachlass zu organisieren.
+Mit einem digitalen [Passwort-Manager]({{< relref "posts/digitaler-nachlass" >}}) können Sie Ihre Zugangsdaten übersichtlich und flexibel verwalten: Diese Tools ermöglichen es, Konten und Passwörter sicher zu speichern und sie im Todesfall an Vertrauenspersonen weiterzugeben. Daher ist dies eine der besten Möglichkeiten, Ihren digitalen Nachlass zu organisieren.
 
 ### 2\. Eine Übersicht über Ihren digitalen Nachlass erstellen
 

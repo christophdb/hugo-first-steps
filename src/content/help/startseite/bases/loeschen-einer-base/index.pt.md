@@ -20,7 +20,7 @@ Pode apagar as suas **próprias bases** em SeaTable em qualquer altura. As bases
 4. Clique em **Eliminar.**
 5. Confirmar o processo de novo com **Delete**.
 
-As bases eliminadas acabam num **caixote do lixo da reciclagem**. A partir daí, pode primeiro **restaurá-los**. Pode descobrir como fazer isto [aqui](https://seatable.io/pt/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+As bases eliminadas acabam num **caixote do lixo da reciclagem**. A partir daí, pode primeiro **restaurá-los**. Pode descobrir como fazer isto [aqui]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 {{< warning  headline="Atenção"  text="Após **30 dias**, as bases apagadas são **automaticamente** removidas do sistema e já **não** podem ser restauradas." />}}
 

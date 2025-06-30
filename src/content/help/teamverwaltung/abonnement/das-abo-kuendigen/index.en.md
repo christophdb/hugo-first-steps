@@ -18,4 +18,4 @@ You want to cancel your SeaTable subscription? To do so, use the Subscription ta
 
 ## Delete team completely
 
-If you want to cancel not only your current subscription, but also your entire team, please read the help article [delete the entire team](https://seatable.io/en/docs/teamverwaltung/das-komplette-team-loeschen/).
+If you want to cancel not only your current subscription, but also your entire team, please read the help article [delete the entire team]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).

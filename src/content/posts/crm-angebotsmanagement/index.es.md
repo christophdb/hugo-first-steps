@@ -32,9 +32,9 @@ Los equipos de ventas pueden optimizar su canal de ventas, su equipo de marketin
 
 Una herramienta de CRM registra todos los datos importantes de los clientes, como el nombre del cliente, la dirección, la persona o personas de contacto directo, la dirección de correo electrónico, el sitio web de la empresa, el potencial de ventas estimado y mucho más. Además, puede hacer que su sistema CRM se enriquezca o complemente automáticamente con más información y datos.
 
-Por ejemplo, también es posible vincular el historial de compras de cada cliente individual a nivel de producto con su sistema CRM. Además, debería poder crear una evaluación en forma de [estadísticas](https://seatable.io/es/docs/handbuch/datenmanagement/statistiken/?lang=auto) sobre sus clientes y su volumen de negocio en unos pocos clics.
+Por ejemplo, también es posible vincular el historial de compras de cada cliente individual a nivel de producto con su sistema CRM. Además, debería poder crear una evaluación en forma de [estadísticas]({{< relref "help/base-editor/statistiken" >}}) sobre sus clientes y su volumen de negocio en unos pocos clics.
 
-Para ello, SeaTable le ofrece muchas posibilidades para recopilar todos los datos de los clientes en un solo lugar de forma rentable, lucrativa e intuitiva. Los departamentos y empleados que le interesan pueden empezar a trabajar inmediatamente en equipo. Por ejemplo, asigne derechos de lectura y/o escritura a sus departamentos de [ventas](https://seatable.io/es/vertrieb/), [marketing]({{< relref "pages/industry-solutions/marketing" >}}), compras o servicio al cliente en un abrir y cerrar de ojos.
+Para ello, SeaTable le ofrece muchas posibilidades para recopilar todos los datos de los clientes en un solo lugar de forma rentable, lucrativa e intuitiva. Los departamentos y empleados que le interesan pueden empezar a trabajar inmediatamente en equipo. Por ejemplo, asigne derechos de lectura y/o escritura a sus departamentos de [ventas]({{< relref "templates/sales/sales-pipeline" >}}), [marketing]({{< relref "pages/industry-solutions/marketing" >}}), compras o servicio al cliente en un abrir y cerrar de ojos.
 
 La ventaja de un CRM en SeaTable: siempre tiene un punto de recogida central donde convergen todas las informaciones de todos los departamentos y, por lo tanto, siempre tiene todos los datos de los clientes, las fases de las ventas y mucho más de un vistazo. Esto significa que ya no tiene que recopilar la información usted mismo a través de los distintos departamentos. Así se ahorra mucho tiempo y, sobre todo, nervios. Además, SeaTable se adapta con flexibilidad a todas sus necesidades.
 
@@ -42,7 +42,7 @@ La ventaja de un CRM en SeaTable: siempre tiene un punto de recogida central don
 
 ## Introducir los datos de los nuevos clientes
 
-Para empezar a registrar los datos reales de los clientes, nuestra [plantilla de CRM]({{< relref "templates/sales/crm-offer-management" >}}) le proporciona un [formulario web](https://seatable.io/es/docs/handbuch/datenmanagement/webformulare/?lang=auto) predefinido que puede adaptar a su diseño y a sus deseos. Con esto, se introduce toda la información relevante que es importante para su CRM, como el nombre del cliente, la dirección, la persona de contacto, el número de teléfono, la dirección de correo electrónico, el potencial de ventas, los archivos adjuntos importantes y mucho más.
+Para empezar a registrar los datos reales de los clientes, nuestra [plantilla de CRM]({{< relref "templates/sales/crm-offer-management" >}}) le proporciona un [formulario web]({{< relref "help/base-editor/webformulare" >}}) predefinido que puede adaptar a su diseño y a sus deseos. Con esto, se introduce toda la información relevante que es importante para su CRM, como el nombre del cliente, la dirección, la persona de contacto, el número de teléfono, la dirección de correo electrónico, el potencial de ventas, los archivos adjuntos importantes y mucho más.
 
 Estos datos se trasladan a su sistema personal de CRM o a la tabla de SeaTable "Datos del cliente" y allí se codifican directamente por colores según el potencial de ventas.
 
@@ -50,19 +50,19 @@ Estos datos se trasladan a su sistema personal de CRM o a la tabla de SeaTable "
 
 Registro de nuevos clientes a través de un formulario web en SeaTable
 
-Con un solo vistazo a la línea, se sabe exactamente a qué categoría de facturación pertenece el cliente introducido. Esto también debería ayudarle a asignar rápida y eficazmente el cliente a uno de sus empleados en función del potencial de facturación. La [norma de notificación](https://seatable.io/es/docs/handbuch/zusammenarbeit/benachrichtigungen/?lang=auto) que se ha establecido también es especialmente útil en este caso. Si posteriormente se modifica manualmente el potencial de facturación del cliente, se contacta directamente con el supervisor del equipo de ventas correspondiente y se le pide que asigne el cliente existente a uno de sus empleados.
+Con un solo vistazo a la línea, se sabe exactamente a qué categoría de facturación pertenece el cliente introducido. Esto también debería ayudarle a asignar rápida y eficazmente el cliente a uno de sus empleados en función del potencial de facturación. La [norma de notificación]({{< relref "help/startseite/benachrichtigungen" >}}) que se ha establecido también es especialmente útil en este caso. Si posteriormente se modifica manualmente el potencial de facturación del cliente, se contacta directamente con el supervisor del equipo de ventas correspondiente y se le pide que asigne el cliente existente a uno de sus empleados.
 
 ![Sistema CRM](CRM_Customer-data-view.jpg)
 
 El sistema CRM de SeaTable
 
-Además, las [diferentes vistas](https://seatable.io/es/docs/handbuch/datenmanagement/ansichten/) para los distintos empleados o departamentos de su empresa garantizan que cada uno pueda ver y editar la información que le concierne. Esto se hace simplemente utilizando la [función de filtro](https://seatable.io/es/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto). Por ejemplo, su departamento de marketing sólo ve todos los contactos que han dado un claro opt-in, es decir, el consentimiento para ser contactados en forma de boletines, llamadas telefónicas, etc., y sus empleados del equipo de ventas sólo ven los clientes que le han sido asignados. Importante: Compartir las vistas individuales está reservado a las suscripciones de pago a la nube de SeaTable. Con SeaTable Free, sólo se pueden compartir bases enteras con otros.
+Además, las [diferentes vistas]({{< relref "help/base-editor/ansichten" >}}) para los distintos empleados o departamentos de su empresa garantizan que cada uno pueda ver y editar la información que le concierne. Esto se hace simplemente utilizando la [función de filtro]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}). Por ejemplo, su departamento de marketing sólo ve todos los contactos que han dado un claro opt-in, es decir, el consentimiento para ser contactados en forma de boletines, llamadas telefónicas, etc., y sus empleados del equipo de ventas sólo ven los clientes que le han sido asignados. Importante: Compartir las vistas individuales está reservado a las suscripciones de pago a la nube de SeaTable. Con SeaTable Free, sólo se pueden compartir bases enteras con otros.
 
 ## Asignación de una persona de contacto
 
 Para poder asignar un empleado de su equipo de ventas a su cliente, primero debe haber actualizado la tabla "Equipo de ventas". Aquí encontrará el nombre de su empleado, el número de personal, que resulta automáticamente en esta plantilla, el cargo del empleado y el potencial de ventas responsable. Además, también puede ver todos los clientes que han sido asignados a cada empleado.
 
-La [función de agrupación](https://seatable.io/es/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/?lang=auto) y la codificación por colores de las filas según el puesto del empleado tienen por objeto mostrarle estructuras de clientes adicionales y claras de sus empleados.
+La [función de agrupación]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) y la codificación por colores de las filas según el puesto del empleado tienen por objeto mostrarle estructuras de clientes adicionales y claras de sus empleados.
 
 ![Equipo_de_ventas_CRM](CRM_Salesteam.jpg)
 
@@ -126,13 +126,13 @@ Vista Kanban en SeaTable
 
 ## Cuadro de mando para una visión de 360º del cliente
 
-Para poder hacer afirmaciones precisas sobre su éxito de ventas, es importante que toda la información relevante esté disponible en su sistema CRM de un vistazo. SeaTable le permite crear sus propias evaluaciones individuales en un abrir y cerrar de ojos con la ayuda de [las estadísticas](https://seatable.io/es/docs/handbuch/datenmanagement/statistiken/?lang=auto). Esto le da su propia vista de tablero personal e individual que le da a su SeaTable CRM el toque final.
+Para poder hacer afirmaciones precisas sobre su éxito de ventas, es importante que toda la información relevante esté disponible en su sistema CRM de un vistazo. SeaTable le permite crear sus propias evaluaciones individuales en un abrir y cerrar de ojos con la ayuda de [las estadísticas]({{< relref "help/base-editor/statistiken" >}}). Esto le da su propia vista de tablero personal e individual que le da a su SeaTable CRM el toque final.
 
 ![CRM_SeaTable_Statistics](crm_statistics.jpg)
 
 Estadísticas en SeaTable
 
-De este modo, siempre tendrá una visión general de la distribución de clientes por empleado, el potencial de facturación de los clientes, la distribución de clientes por estado federado, la distribución y la correspondiente facturación de sus productos vendidos, así como la facturación acumulada a nivel mensual. Si necesita más [estadísticas](https://seatable.io/es/docs/handbuch/datenmanagement/statistiken/?lang=auto) , puede añadirlas fácilmente en unos minutos.
+De este modo, siempre tendrá una visión general de la distribución de clientes por empleado, el potencial de facturación de los clientes, la distribución de clientes por estado federado, la distribución y la correspondiente facturación de sus productos vendidos, así como la facturación acumulada a nivel mensual. Si necesita más [estadísticas]({{< relref "help/base-editor/statistiken" >}}) , puede añadirlas fácilmente en unos minutos.
 
 ## Una solución CRM flexible no tiene por qué ser cara
 

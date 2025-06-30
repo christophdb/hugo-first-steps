@@ -55,7 +55,7 @@ Em **Eliminar**, tem a opção de eliminar a base seleccionada.
 
 ## O cesto dos papéis
 
-Todas as **bases eliminadas** estão listadas no caixote do lixo da reciclagem. Após **30 dias**, as bases são automaticamente removidas do sistema. No entanto, também pode **apagar** manualmente **todas as** bases do caixote do lixo da reciclagem. Pode descobrir como fazer isto [aqui](https://seatable.io/pt/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/).
+Todas as **bases eliminadas** estão listadas no caixote do lixo da reciclagem. Após **30 dias**, as bases são automaticamente removidas do sistema. No entanto, também pode **apagar** manualmente **todas as** bases do caixote do lixo da reciclagem. Pode descobrir como fazer isto [aqui]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 Para restaurar uma base, clicar na respectiva base e accionar o selector antes de clicar no botão **Restore Base**.
 
@@ -67,9 +67,9 @@ Aqui estão os **Partilha de utilizadores e grupos** listadas para todas as base
 
 Saiba mais sobre os tipos de lançamento nos artigos seguintes:
 
-- [Lançamento de uma Base a um Grupo](https://seatable.io/pt/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Criação de uma partilha do utilizador](https://seatable.io/pt/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Criar partilha personalizada](https://seatable.io/pt/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
+- [Lançamento de uma Base a um Grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Criação de uma partilha do utilizador]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Criar partilha personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}})
 
 ## Ligações externas e ligações de convite
 
@@ -78,5 +78,5 @@ Nestas duas visões gerais, pode ver não só todas as ligações externas e de 
 Mais informações sobre as ligações de lançamento podem ser encontradas nos artigos seguintes:
 
 - [Criar link de convite]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Criar uma ligação externa para uma base](https://seatable.io/pt/docs/freigabelinks/externer-link-erklaert/)
-- [Diferenças entre links de convite e links externos](https://seatable.io/pt/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)
+- [Criar uma ligação externa para uma base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
+- [Diferenças entre links de convite e links externos]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}})

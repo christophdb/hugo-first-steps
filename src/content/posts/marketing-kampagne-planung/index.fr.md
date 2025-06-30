@@ -46,7 +46,7 @@ Il n'existe pratiquement pas d'idées qui n'aient pas déjà été pensées. En 
 
 ### 4\. définir des responsabilités et des délais clairs
 
-Une campagne de marketing et sa planification fonctionnent mieux lorsque chacun sait ce qu'il doit faire et quand. Une fois que [les objectifs du projet]({{< relref "templates/projects/project-plan" >}}), le groupe cible et l'analyse du marché ou de la concurrence sont définis, il s'agit de constituer une équipe, de [répartir les responsabilités et les tâches](https://seatable.io/fr/projektstrukturplan-vorlage/), de fixer des délais et des étapes et - très important - de répartir le [budget]({{< relref "templates/finance/budget-book" >}}).
+Une campagne de marketing et sa planification fonctionnent mieux lorsque chacun sait ce qu'il doit faire et quand. Une fois que [les objectifs du projet]({{< relref "templates/projects/project-plan" >}}), le groupe cible et l'analyse du marché ou de la concurrence sont définis, il s'agit de constituer une équipe, de [répartir les responsabilités et les tâches]({{< relref "templates/projects/work-breakdown-structure" >}}), de fixer des délais et des étapes et - très important - de répartir le [budget]({{< relref "templates/finance/budget-book" >}}).
 
 ![L'équipe marketing discute de la procédure de planification des campagnes.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
@@ -54,7 +54,7 @@ Planification de la campagne marketing © REDPIXEL / adobe stock
 
 ### 5\. faire coïncider les mesures et le contenu lors de la planification de la campagne de marketing
 
-Une fois tous les aspects organisationnels réglés, il faut passer à la planification du contenu de votre campagne de marketing. Cette étape implique que vous décidiez avec votre équipe [quels contenus](https://seatable.io/fr/social-media-plan-vorlage/) doivent être [diffusés, dans quel format et sur quels canaux](https://seatable.io/fr/social-media-plan-vorlage/) - en gardant toujours à l'esprit le groupe cible, la concurrence et le marché. Les aspects juridiques sont également importants dans ce contexte. Ainsi, pour chaque mesure de campagne, vous devez tenir compte des droits d'auteur applicables aux photos utilisées, des cas où les directives publicitaires doivent être respectées et des directives imposées par les différentes plateformes utilisées.
+Une fois tous les aspects organisationnels réglés, il faut passer à la planification du contenu de votre campagne de marketing. Cette étape implique que vous décidiez avec votre équipe [quels contenus]({{< relref "templates/marketing/social-media-plan" >}}) doivent être [diffusés, dans quel format et sur quels canaux]({{< relref "templates/marketing/social-media-plan" >}}) - en gardant toujours à l'esprit le groupe cible, la concurrence et le marché. Les aspects juridiques sont également importants dans ce contexte. Ainsi, pour chaque mesure de campagne, vous devez tenir compte des droits d'auteur applicables aux photos utilisées, des cas où les directives publicitaires doivent être respectées et des directives imposées par les différentes plateformes utilisées.
 
 ### 6\. mise en œuvre, suivi et contrôle des résultats
 

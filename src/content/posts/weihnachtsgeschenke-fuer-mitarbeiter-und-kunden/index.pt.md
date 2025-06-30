@@ -41,7 +41,7 @@ Em [lojas online selecionadas](https://www.weihnachtsplaner.de/adventskalender?p
 
 ### Calendário do advento caseiro
 
-Se só quiser fazer um calendário do Advento para determinadas pessoas, também pode fazê-lo você mesmo. A vantagem é que pode personalizar o calendário de acordo com a pessoa. [Pode descobrir como fazer o seu próprio calendário do Advento e com o que o pode preencher neste artigo](https://seatable.io/pt/adventskalender-selber-machen/).
+Se só quiser fazer um calendário do Advento para determinadas pessoas, também pode fazê-lo você mesmo. A vantagem é que pode personalizar o calendário de acordo com a pessoa. [Pode descobrir como fazer o seu próprio calendário do Advento e com o que o pode preencher neste artigo]({{< relref "posts/adventskalender-selber-machen" >}}).
 
 ### Calendário do advento online
 
@@ -76,14 +76,14 @@ Um **presente feito em casa** traz grande alegria porque mostra que investiu tra
 
 Não há limites para a sua imaginação.
 
-- **Filme empresarial**: filmar, e com humor! Embora um [vídeo empresarial](https://seatable.io/pt/storyboard/) profissional forneça uma visão clara do que faz como empresa, dificilmente é adequado como presente de Natal para funcionários ou clientes. Um filme criativo sobre si e os seus empregados permite que os seus clientes e outros empregados o conheçam melhor a um nível pessoal.
+- **Filme empresarial**: filmar, e com humor! Embora um [vídeo empresarial]({{< relref "posts/storyboard" >}}) profissional forneça uma visão clara do que faz como empresa, dificilmente é adequado como presente de Natal para funcionários ou clientes. Um filme criativo sobre si e os seus empregados permite que os seus clientes e outros empregados o conheçam melhor a um nível pessoal.
 - **Seleção personalizada**: Outra prenda de Natal clássica para os empregados é um cesto de oferta bem recheado. Para lhe dar um toque mais pessoal, pense no que você e os seus empregados gostam. Uma ligação à sua sede, por exemplo, produtos regionais de empresas vizinhas, também é concebível. Adicione uma mensagem ao cesto de oferta e escreva nele o motivo da escolha do conteúdo. Isto mostra que pensou no presente e no seu impacto.
 
 ## 5\. experiências partilhadas
 
 **O tempo em conjunto** é a melhor prenda para muitos, especialmente na vida quotidiana frequentemente stressante. Organize actividades conjuntas fora do trabalho como prenda de Natal para os seus empregados e crie memórias inesquecíveis.
 
-Uma visita conjunta ao mercado de Natal ou a confeção de bolachas ao fim do dia ajuda a conhecermo-nos melhor e a reforçar o espírito de equipa a longo prazo. E, claro, uma festa de Natal é obrigatória! Pode descobrir como planear uma com sucesso [aqui](https://seatable.io/pt/weihnachtsfeier/).
+Uma visita conjunta ao mercado de Natal ou a confeção de bolachas ao fim do dia ajuda a conhecermo-nos melhor e a reforçar o espírito de equipa a longo prazo. E, claro, uma festa de Natal é obrigatória! Pode descobrir como planear uma com sucesso [aqui]({{< relref "posts/weihnachtsfeier" >}}).
 
 ![Uma visita ao mercado de Natal convida-o a conversar e a passear.](Design-ohne-Titel-22-1-e1722859187769-711x730.png)
 
@@ -106,7 +106,7 @@ Gostaria de fazer os seus empregados felizes no Natal mas manter os custos o mai
 
 Há ainda algumas coisas a ter em conta nas festas de Natal...
 
-- **Festa de Natal:** Está a planear uma [festa de Natal](https://seatable.io/pt/weihnachtsfeier/) para todos os seus empregados? Então, tenha em atenção o orçamento de 150 euros por participante. Se este montante não for ultrapassado, as suas despesas estão isentas de impostos. No entanto, os presentes de Natal para os empregados ou clientes, que são oferecidos na festa de Natal, estão incluídos no orçamento acima mencionado. Isto significa que não pode adicionar os 50 euros para as prendas aos 150 euros para as festividades.
+- **Festa de Natal:** Está a planear uma [festa de Natal]({{< relref "posts/weihnachtsfeier" >}}) para todos os seus empregados? Então, tenha em atenção o orçamento de 150 euros por participante. Se este montante não for ultrapassado, as suas despesas estão isentas de impostos. No entanto, os presentes de Natal para os empregados ou clientes, que são oferecidos na festa de Natal, estão incluídos no orçamento acima mencionado. Isto significa que não pode adicionar os 50 euros para as prendas aos 150 euros para as festividades.
 - **Subsídio de Natal:** O pagamento de um subsídio de Natal, por outro lado, é sempre tributável e deve ser declarado como _pagamento diverso_ na folha de vencimento.
 
 ### Presentes de Natal para os clientes
@@ -119,7 +119,7 @@ Se quiser fazer os seus clientes ou parceiros de negócios felizes no Natal, há
 
 ## Planear o Natal em linha
 
-A época de Natal é stressante, razão pela qual uma preparação cuidadosa é ainda mais importante. Com o SeaTable, pode planear a sua [festa de Natal](https://seatable.io/pt/weihnachtsfeier/) ou criar um [calendário de Advento digital gratuito](https://seatable.io/pt/adventskalender-selber-machen/) como presente de Natal para os seus empregados e clientes e personalizá-lo facilmente.
+A época de Natal é stressante, razão pela qual uma preparação cuidadosa é ainda mais importante. Com o SeaTable, pode planear a sua [festa de Natal]({{< relref "posts/weihnachtsfeier" >}}) ou criar um [calendário de Advento digital gratuito]({{< relref "posts/adventskalender-selber-machen" >}}) como presente de Natal para os seus empregados e clientes e personalizá-lo facilmente.
 
 Está à procura de mais ideias para prendas de Natal adequadas para funcionários e clientes? Encontrará muitas ideias interessantes no nosso modelo de calendário do Advento para empresas!
 

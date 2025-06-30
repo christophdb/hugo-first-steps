@@ -131,12 +131,12 @@ Für größere Unternehmen mit vielen Gegenständen und komplexeren Anwendungsf�
 
 Die No-Code-Datenbank-Software **SeaTable** hält bereits eine [Inventarliste Vorlage]({{< relref "templates/operations/inventory-list" >}}) für Sie bereit. Um diese **kostenlos zu nutzen**, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach mit Ihrer E-Mail-Adresse und legen einen Account an. Sind Sie eingeloggt, fahren Sie wie folgt fort:
 
-1. Fügen Sie die Vorlage als **neue Base** auf Ihrer Startseite hinzu. Wie das geht, erfahren Sie [in dieser Anleitung](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+1. Fügen Sie die Vorlage als **neue Base** auf Ihrer Startseite hinzu. Wie das geht, erfahren Sie [in dieser Anleitung]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 2. Klicken Sie die Base an, um sie zu **öffnen**.
-3. Lesen Sie die [Base-Beschreibung](https://seatable.io/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) und verschaffen Sie sich einen Überblick.
-4. [Löschen Sie die Beispieldaten](https://seatable.io/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) und füllen Sie die Tabellen mit Ihrem eigenen Inventar.
+3. Lesen Sie die [Base-Beschreibung]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) und verschaffen Sie sich einen Überblick.
+4. [Löschen Sie die Beispieldaten]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) und füllen Sie die Tabellen mit Ihrem eigenen Inventar.
 
-Möchten Sie Ihre eigenes Inventar erstellen, können Sie **beliebig viele Spalten in den Tabellen hinzufügen oder löschen** oder [mit einer komplett neuen Base starten](https://seatable.io/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). Anschließend können Sie Ihre Inventarliste mit all Ihren Teammitgliedern [teilen]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}). Fertig. Ihrer Inventur steht nichts mehr im Weg.
+Möchten Sie Ihre eigenes Inventar erstellen, können Sie **beliebig viele Spalten in den Tabellen hinzufügen oder löschen** oder [mit einer komplett neuen Base starten]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). Anschließend können Sie Ihre Inventarliste mit all Ihren Teammitgliedern [teilen]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}). Fertig. Ihrer Inventur steht nichts mehr im Weg.
 
 ## Was sind die Vorteile von SeaTable?
 
@@ -148,7 +148,7 @@ Ferner können Sie aus Tabellen in SeaTable auch [Webformulare]({{< relref "help
 
 ![Submit an item during inventory](Submit-an-item-during-inventory.gif)
 
-Die **Visualisierung** und **Auswertung** der Daten ist in SeaTable noch flexibler und einfacher als in Excel. Sie können [Statistiken](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/) erstellen, [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) zur Darstellung verwenden oder mithilfe von Ansichten die Daten filtern, sortieren und gruppieren.
+Die **Visualisierung** und **Auswertung** der Daten ist in SeaTable noch flexibler und einfacher als in Excel. Sie können [Statistiken]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) erstellen, [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) zur Darstellung verwenden oder mithilfe von Ansichten die Daten filtern, sortieren und gruppieren.
 
 Nicht zuletzt können Sie **Bilder** und **Dateien** wie PDF-Dokumente in SeaTable speichern. Kaufbelege, Rechnungen oder Fotos vom aktuellen Zustand während der Inventur können Sie so mit in Ihre Bestandsliste aufnehmen.
 

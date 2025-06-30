@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/welche-import-formate-unterstuetzt-seatable'
 ---
 
-SeaTable oferece-lhe uma vasta gama de opções para a recolha de dados: pode introduzir dados manualmente em tabelas e ter dados recolhidos através de [formulário web](https://seatable.io/pt/docs/seatable-nutzen/webformulare/) ou utilizando automatismos.
+SeaTable oferece-lhe uma vasta gama de opções para a recolha de dados: pode introduzir dados manualmente em tabelas e ter dados recolhidos através de [formulário web]({{< relref "help/base-editor/webformulare" >}}) ou utilizando automatismos.
 
 O SeaTable tem também uma poderosa função de importação de dados. Pode manusear praticamente qualquer ficheiro Excel e CSV. Através de um pequeno desvio, é também possível importar dados do Microsoft Access e Google Sheets.
 
@@ -28,16 +28,16 @@ Quando se trata de trabalhar com dados, o Excel não pode estar ausente, claro. 
 
 Outra fonte a partir da qual se pode alimentar o SeaTable com dados é o Microsoft Access.
 
-[Saiba como importar dados do Microsoft Access.](https://seatable.io/pt/docs/import-von-daten/daten-import-aus-microsoft-access-in-seatable/)
+[Saiba como importar dados do Microsoft Access.]({{< relref "help/startseite/import-von-daten/daten-import-aus-microsoft-access-in-seatable" >}})
 
 ## Importação de dados do Google Sheets
 
 Também pode importar dados do Google Sheets para o SeaTable.
 
-[Saiba como importar dados do Google Sheets.](https://seatable.io/pt/docs/import-von-daten/daten-import-aus-google-sheets-in-seatable/)
+[Saiba como importar dados do Google Sheets.]({{< relref "help/startseite/import-von-daten/daten-import-aus-google-sheets-in-seatable" >}})
 
 ## Importação de dados com DTABLE
 
-As bases SeaTable podem ser exportadas em [formato de ficheiro DTABLE](https://seatable.io/pt/docs/expertenwissen/dtable-dateiformat/) - e com tal ficheiro DTABLE pode, naturalmente, criar novamente uma base em SeaTable.
+As bases SeaTable podem ser exportadas em [formato de ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) - e com tal ficheiro DTABLE pode, naturalmente, criar novamente uma base em SeaTable.
 
 [Saiba mais sobre a importação de dados com DTABLE.]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

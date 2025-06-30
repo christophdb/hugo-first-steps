@@ -74,5 +74,5 @@ Mit dieser Funktion können Sie sicherstellen, dass die anderen Nutzer in ihren 
 - Wenn Sie aus dem gemeinsamen Datensatz **Spalten löschen**, bleiben diese in der Tabelle erhalten, die Daten werden aber **nicht mehr synchronisiert**.
 - Wenn Sie im gemeinsamen Datensatz **Spalten ausblenden**, bleiben diese in der Tabelle sichtbar, die Daten werden aber **nicht mehr synchronisiert**.
 - Wenn Sie im gemeinsamen Datensatz **den Spaltentyp ändern**, wird dieser auch in der Tabelle **geändert**.
-- Wenn Sie in der Tabelle [neue Spalten hinzufügen](https://seatable.io/docs/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern/), die nicht im gemeinsamen Datensatz enthalten sind, werden diese **nicht synchronisiert** und bleiben **unverändert**.
+- Wenn Sie in der Tabelle [neue Spalten hinzufügen]({{< relref "help/startseite/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern" >}}), die nicht im gemeinsamen Datensatz enthalten sind, werden diese **nicht synchronisiert** und bleiben **unverändert**.
 - Wenn Sie in der Tabelle **Spalten des gemeinsamen Datensatzes umbenennen**, werden die Spaltennamen **nicht synchronisiert** und bleiben **geändert**.

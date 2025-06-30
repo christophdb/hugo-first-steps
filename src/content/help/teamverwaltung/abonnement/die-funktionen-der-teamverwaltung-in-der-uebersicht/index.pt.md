@@ -22,27 +22,27 @@ Esta secção dá uma visão geral dos membros e grupos da sua equipa. Pode adic
 
 Os artigos seguintes podem ser do seu interesse:
 
-- [Adicionar um novo membro da equipa](https://seatable.io/pt/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
-- [Fazer de um membro da equipa um administrador](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
-- [Habilitar a autenticação de dois factores para um membro da equipa](https://seatable.io/pt/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)
-- [Autenticação de dois factores para toda a equipa](https://seatable.io/pt/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)
-- [Bloquear ou eliminar um membro da equipa](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
-- [Mudar o nome da equipa](https://seatable.io/pt/docs/teamverwaltung/aendern-des-teamnamens/)
-- [Grupos e os seus membros na administração da equipa](https://seatable.io/pt/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
+- [Adicionar um novo membro da equipa]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
+- [Fazer de um membro da equipa um administrador]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}})
+- [Habilitar a autenticação de dois factores para um membro da equipa]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}})
+- [Autenticação de dois factores para toda a equipa]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}})
+- [Bloquear ou eliminar um membro da equipa]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
+- [Mudar o nome da equipa]({{< relref "help/teamverwaltung/team/aendern-des-teamnamens" >}})
+- [Grupos e os seus membros na administração da equipa]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
 - [Criar um novo grupo]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Bases e lançamentos
 
-Dentro da administração da equipa, pode ver todas as **bases dos** membros da sua equipa e localizar quem tem **autorização de acesso a** que bases. Além disso, pode controlar e restringir as ligações de [convites]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) enviados e [ligações externas](https://seatable.io/pt/docs/freigabelinks/externer-link-erklaert/) e ver se as ligações concedem permissões de leitura ou de escrita e com que frequência foram acedidas.
+Dentro da administração da equipa, pode ver todas as **bases dos** membros da sua equipa e localizar quem tem **autorização de acesso a** que bases. Além disso, pode controlar e restringir as ligações de [convites]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) enviados e [ligações externas]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) e ver se as ligações concedem permissões de leitura ou de escrita e com que frequência foram acedidas.
 
 Os artigos seguintes podem ser do seu interesse:
 
-- [Bases na gestão da equipa](https://seatable.io/pt/docs/teamverwaltung/bases-in-der-teamverwaltung/)
-- [Ver todas as permissões de acesso de uma base](https://seatable.io/pt/docs/teamverwaltung/alle-zugriffsberechtigungen-einer-base-einsehen/)
-- [Permitir a partilha de bases através de link de convite](https://seatable.io/pt/docs/teamverwaltung/freigabe-von-bases-per-einladungslink-erlauben/)
-- [Desbloquear novamente um membro da equipa](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-entsperren/)
+- [Bases na gestão da equipa]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})
+- [Ver todas as permissões de acesso de uma base]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
+- [Permitir a partilha de bases através de link de convite]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
+- [Desbloquear novamente um membro da equipa]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})
 
-Como administrador da equipa, também tem a opção de [esvaziar](https://seatable.io/pt/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/) manualmente [o caixote do lixo da reciclagem](https://seatable.io/pt/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/), para além da eliminação automática após 30 dias.
+Como administrador da equipa, também tem a opção de [esvaziar]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}) manualmente [o caixote do lixo da reciclagem]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}), para além da eliminação automática após 30 dias.
 
 ## Assinatura
 
@@ -50,7 +50,7 @@ Ao eliminar toda a sua equipa na gestão da equipa, **termina automaticamente o 
 
 Os artigos seguintes podem ser do seu interesse:
 
-- [Eliminar a equipa completa](https://seatable.io/pt/docs/teamverwaltung/das-komplette-team-loeschen/)
+- [Eliminar a equipa completa]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
 ## API & Integrações
 
@@ -62,7 +62,7 @@ Através da administração da equipa, tem a possibilidade de criar um **bilhete
 
 Os artigos seguintes podem ser do seu interesse:
 
-- [Abrir um bilhete de apoio](https://seatable.io/pt/docs/teamverwaltung/ein-support-ticket-eroeffnen/)
+- [Abrir um bilhete de apoio]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
 
 ## Legal
 
@@ -70,5 +70,5 @@ Na administração da equipa encontrará a opção de receber um **contrato AV**
 
 Os artigos seguintes podem ser do seu interesse:
 
-- [Ver os termos de utilização ou a política de privacidade](https://seatable.io/pt/docs/teamverwaltung/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung/)
-- [Solicitar um contrato AV](https://seatable.io/pt/docs/teamverwaltung/einen-av-vertrag-beantragen/)
+- [Ver os termos de utilização ou a política de privacidade]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
+- [Solicitar um contrato AV]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

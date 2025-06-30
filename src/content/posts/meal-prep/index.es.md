@@ -9,7 +9,7 @@ seo:
     description:
 ---
 
-Comer lo más barato y sano posible con el menor tiempo posible: una tendencia de EE.UU. promete exactamente eso. En el estresante día a día solemos descuidar una **dieta equilibrada**. En lugar de ello, a menudo recurrimos a la comida rápida o a tentempiés poco saludables durante las pausas para comer, por ejemplo, para satisfacer nuestros antojos. En este artículo descubrirá en qué consiste la **preparación** de comidas, qué debe tener en cuenta a la hora de prepararla y cómo crear un [plan semanal](https://seatable.io/es/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) inteligente.
+Comer lo más barato y sano posible con el menor tiempo posible: una tendencia de EE.UU. promete exactamente eso. En el estresante día a día solemos descuidar una **dieta equilibrada**. En lugar de ello, a menudo recurrimos a la comida rápida o a tentempiés poco saludables durante las pausas para comer, por ejemplo, para satisfacer nuestros antojos. En este artículo descubrirá en qué consiste la **preparación** de comidas, qué debe tener en cuenta a la hora de prepararla y cómo crear un [plan semanal]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) inteligente.
 
 ## ¿Qué es exactamente la preparación de comidas?
 
@@ -65,7 +65,7 @@ Sé creativo y procura que tus platos sean lo más variados posible.
 
 ## Paso a paso para preparar la comida perfecta
 
-Para que la misión Meal Prep sea un éxito, primero necesitas un [plan de comidas](https://seatable.io/es/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Los siguientes **cinco pasos** te ayudarán con el proceso.
+Para que la misión Meal Prep sea un éxito, primero necesitas un [plan de comidas]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Los siguientes **cinco pasos** te ayudarán con el proceso.
 
 ![Cómo conseguir que la preparación de comidas sea un éxito en cinco sencillos pasos.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 

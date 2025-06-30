@@ -42,7 +42,7 @@ In [selected online stores](https://www.weihnachtsplaner.de/adventskalender?p=1)
 
 ### Homemade advent calendar
 
-If you only want to put together an Advent calendar for selected people, you can also do it yourself. The advantage here is that you can tailor the calendar to the individual person. [You can find out how to make your own Advent calendar and what you can fill it with in this article](https://seatable.io/en/adventskalender-selber-machen/).
+If you only want to put together an Advent calendar for selected people, you can also do it yourself. The advantage here is that you can tailor the calendar to the individual person. [You can find out how to make your own Advent calendar and what you can fill it with in this article]({{< relref "posts/adventskalender-selber-machen" >}}).
 
 ### Online Advent calendar
 
@@ -77,14 +77,14 @@ A **homemade gift** brings great joy because it shows that you have invested wor
 
 There are no limits to the imagination.
 
-- **Corporate video**: film it, and with humor! Although a professional [corporate video](https://seatable.io/en/storyboard/) provides a clear overview of what you do as a company, it is hardly suitable as a Christmas present for employees or customers. A creative film about you and your employees allows your customers and other employees to get to know you better on a personal level.
+- **Corporate video**: film it, and with humor! Although a professional [corporate video]({{< relref "posts/storyboard" >}}) provides a clear overview of what you do as a company, it is hardly suitable as a Christmas present for employees or customers. A creative film about you and your employees allows your customers and other employees to get to know you better on a personal level.
 - **Personal selection**: Another classic Christmas gift for employees is a well-filled gift basket. To give it a more personal touch, think about what you and your employees like. It is also possible to include a link to your head office, for example regional products from nearby businesses. Add a message to the gift basket and write on it why you have chosen the contents. This shows that you have thought about the gift and its impact.
 
 ## 5\. shared experiences
 
 **Time together** is the best gift for many, especially in the often stressful everyday life. Organize joint activities outside of work as a Christmas gift for your employees and create unforgettable memories.
 
-A visit to the Christmas market together or baking cookies in the evening helps to get to know each other better and strengthen team spirit in the long term. And of course, a Christmas party is a must! Find out how to plan it successfully [here](https://seatable.io/en/weihnachtsfeier/).
+A visit to the Christmas market together or baking cookies in the evening helps to get to know each other better and strengthen team spirit in the long term. And of course, a Christmas party is a must! Find out how to plan it successfully [here]({{< relref "posts/weihnachtsfeier" >}}).
 
 ![A visit to the Christmas market invites you to chat and browse.](Design-ohne-Titel-22-1-e1722859187769-711x730.png)
 
@@ -107,7 +107,7 @@ Would you like to make your employees happy at Christmas, but keep the costs as 
 
 There are still a few things to consider at Christmas parties...
 
-- **Christmas party:** Are you planning a [Christmas party](https://seatable.io/en/weihnachtsfeier/) for all your employees? Then pay attention to the budget of 150 euros per participant. If this amount is not exceeded, your expenses are tax-free. However, Christmas gifts for employees or customers, which are presented at the Christmas party, are included in the above-mentioned budget. This means that you may not add the 50 euros for gifts to the 150 euros for the festivities.
+- **Christmas party:** Are you planning a [Christmas party]({{< relref "posts/weihnachtsfeier" >}}) for all your employees? Then pay attention to the budget of 150 euros per participant. If this amount is not exceeded, your expenses are tax-free. However, Christmas gifts for employees or customers, which are presented at the Christmas party, are included in the above-mentioned budget. This means that you may not add the 50 euros for gifts to the 150 euros for the festivities.
 - **Christmas bonus:** The payment of a Christmas bonus, on the other hand, is always taxable and must be declared as a _miscellaneous payment_ in the payslip.
 
 ### Christmas gifts for customers
@@ -120,7 +120,7 @@ Please also note that you must record the beneficiary or company and the occasio
 
 ## Plan Christmas online
 
-The Christmas season is stressful, which is why thoughtful preparation is all the more important. With SeaTable, you can plan your [Christmas party](https://seatable.io/en/weihnachtsfeier/) or create a [free digital Advent calendar](https://seatable.io/en/adventskalender-selber-machen/) as a Christmas gift for your employees and customers and easily customize it.
+The Christmas season is stressful, which is why thoughtful preparation is all the more important. With SeaTable, you can plan your [Christmas party]({{< relref "posts/weihnachtsfeier" >}}) or create a [free digital Advent calendar]({{< relref "posts/adventskalender-selber-machen" >}}) as a Christmas gift for your employees and customers and easily customize it.
 
 Are you looking for more ideas for suitable Christmas gifts for employees and customers? You'll find lots of exciting ideas in our Advent calendar template for companies!
 

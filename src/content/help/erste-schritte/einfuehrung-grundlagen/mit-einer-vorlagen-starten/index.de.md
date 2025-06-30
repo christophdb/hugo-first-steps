@@ -24,7 +24,7 @@ Mit Vorlagen fangen Sie bei der Arbeit in einer Base nicht bei 0, sondern bei 10
 
 ## Neue Base mithilfe einer Vorlage anlegen
 
-Sie haben eine spannende Vorlage gefunden und wollen diese nun verwenden? Prima! Damit Sie in diesem Template nun Ihre eigenen Daten erfassen können, müssen Sie in der SeaTable Cloud nur noch eine [neue Base aus der Vorlage erstellen](https://seatable.io/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+Sie haben eine spannende Vorlage gefunden und wollen diese nun verwenden? Prima! Damit Sie in diesem Template nun Ihre eigenen Daten erfassen können, müssen Sie in der SeaTable Cloud nur noch eine [neue Base aus der Vorlage erstellen]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 
 Wenn Sie schon in Ihrem Benutzerkonto angemeldet sind, dann sind alle Voraussetzungen erfüllt. Wenn Sie nicht angemeldet sind oder kein SeaTable Konto haben, dann [loggen Sie sich ein](https://cloud.seatable.io/) oder [registrieren Sie sich kostenlos mit Ihrer E-Mail-Adresse]({{< relref "pages/registration" >}}).
 

@@ -27,13 +27,13 @@ The following article gives you an overview of when which recovery option is rig
 
 ## 1\. recovery of deleted bases
 
-If you have deleted an entire Base, you can restore it using a recycle bin on the SeaTable home page. To learn how to do this, see the article [Restore a Deleted Base](https://seatable.io/en/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+If you have deleted an entire Base, you can restore it using a recycle bin on the SeaTable home page. To learn how to do this, see the article [Restore a Deleted Base]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. recovery of deleted rows, columns or tables
 
 Retrieving individual deleted rows, columns or tables is probably the most common recovery request. Fortunately, this can be done very quickly via the recycle bin of a base.
 
-You can learn more about this in the article [Retrieve tables, rows and columns from the trash](https://seatable.io/en/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/).
+You can learn more about this in the article [Retrieve tables, rows and columns from the trash]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}).
 
 You can access the Base Recycle Bin by clicking on the versions icon in the upper right corner. In this drop-down menu you will also find other recovery options, which will be explained below.
 
@@ -43,7 +43,7 @@ You can access the Base Recycle Bin by clicking on the versions icon in the uppe
 
 Surely you know the key combination {{< key "CTRL" >}} + {{< key "Z" >}}to undo the last action. Exactly this function is also offered by SeaTable. Moreover, it is executable by mouse click in the drop-down menu shown above.
 
-For details, see the corresponding help article [Undo Actions](https://seatable.io/en/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
+For details, see the corresponding help article [Undo Actions]({{< relref "help/base-editor/historie-und-versionen/aktionen-rueckgaengig-machen" >}}).
 
 ## 4\. undo changes via the logs
 
@@ -61,6 +61,6 @@ For more information, see the articles [Saving the Current Base as a Snapshot]({
 
 ## 6\. import a base saved as a DTABLE file
 
-You can export a Base as a DTABLE file at any time and thus save a comprehensive backup on your device. Read the article [Saving a Base as a DTABLE File](https://seatable.io/en/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) to learn how to do this and what you should keep in mind.
+You can export a Base as a DTABLE file at any time and thus save a comprehensive backup on your device. Read the article [Saving a Base as a DTABLE File]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) to learn how to do this and what you should keep in mind.
 
 To learn how to import such a file back into SeaTable, see the article [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

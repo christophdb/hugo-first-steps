@@ -12,7 +12,7 @@ You can add a description to each table in your Base. With this concise text you
 
 {{< warning  headline="Important note" >}}
 
-You can - regardless of your [role and authorization](https://seatable.io/en/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) - also edit the table descriptions in bases that belong to a **group**. However, you can only edit the description of tables that have been [released to]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) you with **write perm** issions.
+You can - regardless of your [role and authorization]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) - also edit the table descriptions in bases that belong to a **group**. However, you can only edit the description of tables that have been [released to]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) you with **write perm** issions.
 
 {{< /warning >}}
 

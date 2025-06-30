@@ -56,7 +56,7 @@ Si quieres volver a **quitar** el gestor de archivos de la barra de herramientas
 
 ## Ajuste el tamaño y la posición de la ventana del gestor de archivos
 
-Tienes la opción de ajustar el tamaño de la ventana del gestor de archivos para que puedas mantener un ojo en tus tablas y datos mientras gestionas tus archivos y [arrastras archivos desde el gestor de archivos directamente a las columnas apropiadas de tus tablas](https://seatable.io/es/?post_type=docs&p=26594#8-toc-title).
+Tienes la opción de ajustar el tamaño de la ventana del gestor de archivos para que puedas mantener un ojo en tus tablas y datos mientras gestionas tus archivos y arrastras archivos desde el gestor de archivos directamente a las columnas apropiadas de tus tablas.
 
 Para ello, basta con abrir el gestor de archivos y mover el puntero del ratón sobre las **dos líneas de** la parte superior de la ventana hasta que aparezca una **flecha doble**. A continuación, mantenga pulsado el botón del ratón y arrastre la ventana hasta la posición deseada y suéltelo en cuanto la alcance.
 

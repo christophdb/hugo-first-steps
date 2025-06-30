@@ -70,7 +70,7 @@ Siguiendo el mismo principio, también puedes guardar tus cuentas y contraseñas
 
 Muchos navegadores también ofrecen la posibilidad de guardar cómodamente los datos de acceso.
 
-Con un [gestor de contraseñas](https://seatable.io/es/digitaler-nachlass/#Mit_welchen_Tools_ein_digitaler_Nachlass_verwaltet_werden_kann) digital, podrá gestionar sus datos de acceso de forma clara y flexible: Estas herramientas permiten almacenar cuentas y contraseñas de forma segura y transmitirlas a personas de confianza en caso de fallecimiento. Por tanto, es una de las mejores formas de organizar su patrimonio digital.
+Con un [gestor de contraseñas]({{< relref "posts/digitaler-nachlass" >}}) digital, podrá gestionar sus datos de acceso de forma clara y flexible: Estas herramientas permiten almacenar cuentas y contraseñas de forma segura y transmitirlas a personas de confianza en caso de fallecimiento. Por tanto, es una de las mejores formas de organizar su patrimonio digital.
 
 ### 2\. crear una visión general de su patrimonio digital
 

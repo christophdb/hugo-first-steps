@@ -16,7 +16,7 @@ url: '/es/ayuda/alle-plugins-in-der-uebersicht'
 
 En SeaTable puede crear diferentes **vistas** para sus tablas en las que puede [filtrar]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) datos como desee.
 
-Un **plugin** es un componente de software opcional en SeaTable que le ofrece opciones de visualización adicionales. Se pueden activar varios plugins en cada base, que muestran los datos de las respectivas tablas y vistas en **calendarios**, **documentos** o **galerías**, por ejemplo. Lea más sobre [cómo activar un plugin](https://seatable.io/es/docs/plugins/aktivieren-eines-plugins-in-einer-base/) en el artículo de ayuda enlazado.
+Un **plugin** es un componente de software opcional en SeaTable que le ofrece opciones de visualización adicionales. Se pueden activar varios plugins en cada base, que muestran los datos de las respectivas tablas y vistas en **calendarios**, **documentos** o **galerías**, por ejemplo. Lea más sobre [cómo activar un plugin]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) en el artículo de ayuda enlazado.
 
 ## Plugin de calendario
 
@@ -24,7 +24,7 @@ En el complemento de calendario, puede mostrar los datos de una [columna]({{< re
 
 ![](images/Calendar.png)
 
-[Más información sobre el plugin de calendario](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/)
+[Más información sobre el plugin de calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
 
 Estos artículos también pueden interesarle:
 
@@ -74,15 +74,6 @@ Con ayuda del plug-in de diseño de páginas, puede maquetar **documentos** como
 ![](images/Pagedesign.png)
 
 [Más información sobre el plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
-
-Estos artículos también pueden interesarle:
-
-- [Imagen estática](https://seatable.io/es/docs/seitendesign-plugin/statisches-bild/)
-- [Texto estático](https://seatable.io/es/docs/seitendesign-plugin/statischer-text/)
-- [Elementos dinámicos](https://seatable.io/es/docs/seitendesign-plugin/dynamische-elemente/)
-- [Encabezado y pie de página](https://seatable.io/es/docs/seitendesign-plugin/kopf-und-fusszeile/)
-- [Entradas y páginas](https://seatable.io/es/docs/seitendesign-plugin/eintraege-und-seiten/)
-- [Campos de la tabla](https://seatable.io/es/docs/seitendesign-plugin/tabellenfelder/)
 
 ## Complemento Kanban
 

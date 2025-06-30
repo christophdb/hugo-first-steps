@@ -37,10 +37,10 @@ Cada liberación, independientemente de la autorización asignada, puede ser **r
 
 La liberación de una base puede hacerse a distintos grupos de personas:
 
-- [Liberación para los usuarios](https://seatable.io/es/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Liberación para el grupo](https://seatable.io/es/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Liberación para los usuarios]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Liberación para el grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Liberación a través de un enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Comunicado a través de un enlace externo](https://seatable.io/es/docs/freigabelinks/externer-link-erklaert/)
+- [Comunicado a través de un enlace externo]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
 Al compartir con un usuario o grupo, compartes la base **dentro de tu equipo**. El enlace Compartir por invitación le permite dar acceso a una base a personas **ajenas a su equipo** (pero dentro de SeaTable). Con el enlace externo, usted comparte bases o vistas externamente, independientemente de si alguien tiene una cuenta SeaTable o no.
 
@@ -52,11 +52,11 @@ La administración de sus recursos compartidos básicos se realiza del mismo mod
 
 Una autorización existente para un usuario o grupo puede ampliarse o restringirse en cualquier momento modificando la autorización de autorización. Para ello, haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}. Haga clic en el **símbolo x** para finalizar una acción o eliminar un enlace. Todos los cambios tienen efecto inmediato. La protección por contraseña, la fecha de caducidad y la URL **no pueden** modificarse para un enlace existente.
 
-> También puede obtener una visión general de todas las versiones y enlaces a una base en [Bases en la administración](https://seatable.io/es/docs/teamverwaltung/bases-in-der-teamverwaltung/) del equipo, siempre que sea administrador del equipo.
+> También puede obtener una visión general de todas las versiones y enlaces a una base en [Bases en la administración]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}) del equipo, siempre que sea administrador del equipo.
 
 ## Liberaciones para mesas
 
-Si no desea [compartir]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) una base completa, sino sólo [tablas]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) individuales, por supuesto también es posible. La [compartición personalizada](https://seatable.io/es/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) le permite compartir varias tablas y vistas al mismo tiempo y enviarlas a los miembros de un equipo o a grupos enteros.
+Si no desea [compartir]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) una base completa, sino sólo [tablas]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) individuales, por supuesto también es posible. La [compartición personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) le permite compartir varias tablas y vistas al mismo tiempo y enviarlas a los miembros de un equipo o a grupos enteros.
 
 ## Aprobación de las vistas
 
@@ -67,7 +67,7 @@ La compartición de una vista se crea en la tabla abierta. Cuando esté en la vi
 A continuación, aparecerá el conocido **cuadro de diálogo** para compartir, en el que también podrá crear vistas compartidas del mismo modo que para las bases. Una vista puede compartirse con tres grupos de personas:
 
 - [Liberar a un miembro del equipo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Liberar a un grupo](https://seatable.io/es/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
+- [Liberar a un grupo]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Comunicado a través de un enlace externo]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 En cuanto haga clic en el botón **Enviar** de una opción de uso compartido, la persona o el grupo seleccionados podrán acceder a la vista con el permiso concedido. Para compartir una vista con varios usuarios o grupos, repita este proceso.

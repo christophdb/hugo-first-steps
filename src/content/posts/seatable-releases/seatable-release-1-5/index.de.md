@@ -12,7 +12,7 @@ seo:
 
 Wir haben heute cloud.seatable.io auf die Version 1.5 von SeaTable aktualisiert. Mit dem nächsten Login profitieren alle Nutzer von spannenden neuen Features und einer Reihe von Verbesserungen an Interface und bestehenden Funktionen. Auf den ersten Blick werden die zahlreichen kleineren und größeren Änderungen am Tabelleneditor auffallen, die zu einer höheren Workfloweffizienz und verbesserten Benutzererfahrung führen. Die neuen benutzerdefinierten Freigabeberechtigungen bieten mehr Kontrolle und Flexibilität bei der gemeinsamen Arbeit an Bases. Erweiterte Individualisierungsoptionen machen SeaTables Webformulare ein noch vielseitigeres Werkzeug für die Datenerfassung.
 
-The vollständige Liste der Änderungen findet sich, wie immer, in [SeaTables Changelog](https://seatable.io/docs/changelog/version-1-5/). Diese Release Note stellt die wichtigsten und spannendsten Änderungen dieser neuen Version vor.
+The vollständige Liste der Änderungen findet sich, wie immer, in [SeaTables Changelog]({{< relref "pages/changelog" >}}). Diese Release Note stellt die wichtigsten und spannendsten Änderungen dieser neuen Version vor.
 
 ## Verbesserter Tabelleneditor
 
@@ -58,7 +58,7 @@ Stellen Sie sich vor, Sie wollen eine Base an Ihre Teammitgliedern mit unterschi
 
 ![SeaTable 1.5 now supports custom sharing permissions](Custom_Sharing_Permission.png)
 
-In der neuen Version führen wir benutzerdefinierte Freigabeberechtigungen ein. Dank ihnen ist das gerade erwähnte Szenario ohne großes Kopfzerbrechen möglich. Eine benutzerdefinierte Freigabeberechtigung besteht aus individuellen Zugriffsrechten für alle Tabellen und Ansichten in einer Base. Mit einer benutzerdefinierten Freigabeberechtigung können Sie beispielsweise Lesezugriff auf eine Tabelle, aber erweiterten Lese-Schreibzugriff auf eine andere Tabelle der Base einräumen. Das ist aber nicht alles: Benutzerdefinierte Freigaben können auch auf Ansichtsebene spezifiziert werden. Sie können folglich Lese-Schreibzugriff auf eine spezifische Ansicht einer Tabelle einräumen, aber ausschließlich Lesezugriff auf die Default View. Wenn Sie gar keinen Zugriff auf eine Tabelle oder Ansicht erteilen wollen, dann ist auch das möglich. Erteilen Sie einfach weder Lese- noch Lese-Schreibzugriff. Und das Beste zum Schluss: Sie können für jede Base so viele benutzerdefinierte [Freigabeberechtigungen](https://seatable.io/docs/handbuch/zusammenarbeit/freigaben/) definieren, wie Sie wollen. Sie haben sich nach einer granulareren Berechtigungsverwaltung in SeaTable gesehnt? Jetzt haben Sie sie!
+In der neuen Version führen wir benutzerdefinierte Freigabeberechtigungen ein. Dank ihnen ist das gerade erwähnte Szenario ohne großes Kopfzerbrechen möglich. Eine benutzerdefinierte Freigabeberechtigung besteht aus individuellen Zugriffsrechten für alle Tabellen und Ansichten in einer Base. Mit einer benutzerdefinierten Freigabeberechtigung können Sie beispielsweise Lesezugriff auf eine Tabelle, aber erweiterten Lese-Schreibzugriff auf eine andere Tabelle der Base einräumen. Das ist aber nicht alles: Benutzerdefinierte Freigaben können auch auf Ansichtsebene spezifiziert werden. Sie können folglich Lese-Schreibzugriff auf eine spezifische Ansicht einer Tabelle einräumen, aber ausschließlich Lesezugriff auf die Default View. Wenn Sie gar keinen Zugriff auf eine Tabelle oder Ansicht erteilen wollen, dann ist auch das möglich. Erteilen Sie einfach weder Lese- noch Lese-Schreibzugriff. Und das Beste zum Schluss: Sie können für jede Base so viele benutzerdefinierte [Freigabeberechtigungen]({{< relref "help/startseite/freigaben" >}}) definieren, wie Sie wollen. Sie haben sich nach einer granulareren Berechtigungsverwaltung in SeaTable gesehnt? Jetzt haben Sie sie!
 
 ## Flexiblere Webformulare
 
@@ -72,6 +72,6 @@ Wir drücken die Daumen, dass die Corona Pandemie schon bald etwas für die Gesc
 
 ## Weitere Verbesserungen
 
-Diese Release Note thematisiert nur die wichtigsten Änderung im Detail. Das Changelog enthält die vollständige Änderungshistorie. Schauen Sie dort vorbei! Zu den erwähnenswerten kleineren Verbesserungen zählen die Zeitauslöser für Python Skripte (siehe [Release Note von SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})) und die Beseitigung von Performance Problemen bei der Verwaltung größerer Zeilenmengen im Tabelleneditor.
+Diese Release Note thematisiert nur die wichtigsten Änderung im Detail. Das Changelog enthält die vollständige Änderungshistorie. Schauen Sie dort vorbei! Zu den erwähnenswerten kleineren Verbesserungen zählen die Zeitauslöser für Python Skripte (siehe [Release Note von SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) und die Beseitigung von Performance Problemen bei der Verwaltung größerer Zeilenmengen im Tabelleneditor.
 
 Besorgen Sie sich ein SeaTable Konto für Ihr Team und nutzen Sie SeaTable dauerhaft kostenfrei! Wir freuen uns über Ihr Feedback und Kommentare im [Forum](https://forum.seatable.com/).

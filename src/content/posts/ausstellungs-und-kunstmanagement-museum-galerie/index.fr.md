@@ -64,7 +64,7 @@ Le problème de toutes ces solutions spécialisées est leur structure fixe. Ell
 
 C'est pourquoi vous devriez jeter un coup d'œil à SeaTable. En effet, SeaTable vous offre exactement la flexibilité dont vous avez besoin pour développer vos propres processus et flux de travail. SeaTable vous permet de rassembler toutes vos informations, quelle que soit leur nature, dans votre base de données personnelle et d'organiser ainsi votre travail quotidien de manière plus efficace. SeaTable est aussi simple et intuitif à utiliser qu'un tableau Excel.
 
-Gérez et organisez des expositions, des collections, des contrats, des prêts, des tâches de restauration, des bases de clients et des informations de tout type dans un seul logiciel intuitif. Créez vos applications individuelles sur la base de vos informations. De puissants filtres, tris et regroupements vous donnent la liberté d'organiser votre travail exactement comme vous le souhaitez. Reliez SeaTable à vos autres [applications professionnelles](https://seatable.io/fr/integrations/) et automatisez vos processus de travail.
+Gérez et organisez des expositions, des collections, des contrats, des prêts, des tâches de restauration, des bases de clients et des informations de tout type dans un seul logiciel intuitif. Créez vos applications individuelles sur la base de vos informations. De puissants filtres, tris et regroupements vous donnent la liberté d'organiser votre travail exactement comme vous le souhaitez. Reliez SeaTable à vos autres [applications professionnelles]({{< relref "pages/integrations" >}}) et automatisez vos processus de travail.
 
 SeaTable n'est pas figé, mais s'adapte de manière flexible aux besoins et aux exigences de la gestion des arts. Les sections suivantes décrivent des tâches typiques de la gestion des œuvres d'art et la manière dont vous pouvez les résoudre avec SeaTable. Ils visent à vous donner une idée de la flexibilité que SeaTable peut vous offrir.
 
@@ -82,7 +82,7 @@ Aperçu des objets du modèle de galerie d'art
 
 ### Représentation visuelle des objets avec le plug-in galerie
 
-L'affichage sous forme de tableau de SeaTable peut être adapté de manière flexible aux besoins de chacun de vos collaborateurs grâce à des vues individuelles. En plus de la présentation sous forme de tableau, SeaTable dispose d'autres possibilités d'affichage. Ainsi, pour les entrées contenant des images, il peut être judicieux d'utiliser le [plug-in Galerie](https://seatable.io/fr/docs/handbuch/seatable-nutzen/ansichten/) pour obtenir une vue d'ensemble claire et trouver rapidement l'entrée souhaitée. Il suffit de cliquer sur l'entrée pour passer à l'affichage détaillé et procéder à des adaptations des données.
+L'affichage sous forme de tableau de SeaTable peut être adapté de manière flexible aux besoins de chacun de vos collaborateurs grâce à des vues individuelles. En plus de la présentation sous forme de tableau, SeaTable dispose d'autres possibilités d'affichage. Ainsi, pour les entrées contenant des images, il peut être judicieux d'utiliser le [plug-in Galerie]({{< relref "help/base-editor/ansichten" >}}) pour obtenir une vue d'ensemble claire et trouver rapidement l'entrée souhaitée. Il suffit de cliquer sur l'entrée pour passer à l'affichage détaillé et procéder à des adaptations des données.
 
 ![Les artistes présentés comme une galerie](art-gallery-management-gallery-view.png)
 

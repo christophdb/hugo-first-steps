@@ -13,7 +13,7 @@ Sowohl **externe Links** als auch **Einladungs-Links** können Sie jederzeit auf
 ## Wege zur Löschung von externen Links und Einladungs-Links
 
 - Löschung über das Teilen-Icon {{< seatable-icon icon="dtable-icon-share" >}} für Bases oder Ansichten
-- Löschung über die [Teamverwaltung](https://seatable.io/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+- Löschung über die [Teamverwaltung]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Hinweis"  text="Externe Links gibt es für Bases und Ansichten, Einladungs-Links nur für Bases." />}}
 

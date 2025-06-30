@@ -32,7 +32,7 @@ Dans le menu de gauche, cliquez sur `E-Mail Testing > Inboxes`. Vous y trouverez
 
 ### Configurer l'envoi d'e-mails dans SeaTable
 
-Avec les données d'accès SMTP de Mailtrap, vous pouvez maintenant configurer l'[envoi d'e-mails dans SeaTable](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+Avec les données d'accès SMTP de Mailtrap, vous pouvez maintenant configurer l'[envoi d'e-mails dans SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
 ![](images/lvl2-mailtrap-in-seatable.png)
 
@@ -85,8 +85,8 @@ Félicitations ! Vous venez d'envoyer votre premier e-mail via SeaTable - même 
 
 ## Article d'aide avec plus d'informations
 
-- [Configurer un compte de messagerie dans une base](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/)
-- [Configurer Gmail pour l'envoi d'e-mails via SMTP](https://seatable.io/fr/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
+- [Configurer un compte de messagerie dans une base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
+- [Configurer Gmail pour l'envoi d'e-mails via SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 - [Le bouton]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
 - [Envoyer un e-mail via un bouton]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [E-mail par automatisation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

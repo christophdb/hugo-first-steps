@@ -20,7 +20,7 @@ Para aumentar la satisfacción del cliente, hay que conocer su grado de satisfac
 
 Independientemente del método que elija, siempre necesitará una herramienta para recoger, medir y posteriormente evaluar las opiniones de los clientes. Este proceso debe ser sencillo y fácil de repetir en cualquier momento. Al mismo tiempo, la evaluación debe seguir siendo clara incluso con grandes cantidades de datos. Esta evaluación también suele denominarse _User Experience Research_ o _UX Research_.
 
-Con SeaTable, le ofrecemos la herramienta perfecta. SeaTable le ayuda a recopilar con [formularios web](https://seatable.io/es/docs/handbuch/datenmanagement/webformulare/) fáciles de compartir y a evaluar y priorizar las opiniones de los clientes con [funciones estadísticas](https://seatable.io/es/docs/handbuch/datenmanagement/statistiken/). Incluso hemos preparado una [plantilla]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para darle un poco de inspiración inicial, que puede utilizar para completar los tres pasos siguientes. Eche un vistazo.
+Con SeaTable, le ofrecemos la herramienta perfecta. SeaTable le ayuda a recopilar con [formularios web]({{< relref "help/base-editor/webformulare" >}}) fáciles de compartir y a evaluar y priorizar las opiniones de los clientes con [funciones estadísticas]({{< relref "help/base-editor/statistiken" >}}). Incluso hemos preparado una [plantilla]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para darle un poco de inspiración inicial, que puede utilizar para completar los tres pasos siguientes. Eche un vistazo.
 
 ## Paso 1: Recopilar datos sobre la satisfacción del cliente
 
@@ -91,7 +91,7 @@ Existen diferencias culturales en la valoración. Esto adquiere importancia cuan
 
 ### Herramienta adecuada para medir la satisfacción del cliente
 
-Sea cual sea el método que elija, asegúrese de utilizar una herramienta que le permita almacenar y gestionar todas sus opiniones. Por ejemplo, SeaTable puede ayudarle a recopilar las opiniones de los clientes que desee. Sólo tiene que crear la encuesta que desee utilizando nuestro formulario web. En [este](https://seatable.io/es/kundenfeedback-mit-seatable/) artículo, le explicaremos con más detalle todo el proceso de creación de dicho formulario y la evaluación posterior. Si quiere empezar de inmediato, échele un vistazo.
+Sea cual sea el método que elija, asegúrese de utilizar una herramienta que le permita almacenar y gestionar todas sus opiniones. Por ejemplo, SeaTable puede ayudarle a recopilar las opiniones de los clientes que desee. Sólo tiene que crear la encuesta que desee utilizando nuestro formulario web. En [este]({{< relref "templates/marketing/customer-feedback" >}}) artículo, le explicaremos con más detalle todo el proceso de creación de dicho formulario y la evaluación posterior. Si quiere empezar de inmediato, échele un vistazo.
 
 ![Formulario web de creación de comentarios de los clientes](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 
@@ -105,7 +105,7 @@ Después de obtener la información que desea de sus clientes, necesita filtrar 
 
 ### Analizar puntos débiles y potenciales
 
-Supongamos que desea introducir mejoras en su producto, identificar los puntos débiles actuales y averiguar por qué sus clientes no recomiendan su producto. Para ello, puede crear una nueva [vista](https://seatable.io/es/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) para [filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [ordenar](https://seatable.io/es/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/) y [agrupar](https://seatable.io/es/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) los resultados de la encuesta. Busque las respuestas con una puntuación NPS baja y clasifique los comentarios por categorías relevantes. Puede crear una vista independiente para cada análisis deseado y así acceder a ella en cuestión de segundos y en cualquier momento.
+Supongamos que desea introducir mejoras en su producto, identificar los puntos débiles actuales y averiguar por qué sus clientes no recomiendan su producto. Para ello, puede crear una nueva [vista]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) para [filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [ordenar]({{< relref "help/base-editor/ansichten" >}}sortieren-von-eintraegen-in-einer-ansicht/) y [agrupar]({{< relref "help/base-editor/ansichten" >}}gruppieren-von-eintraegen-in-einer-ansicht/) los resultados de la encuesta. Busque las respuestas con una puntuación NPS baja y clasifique los comentarios por categorías relevantes. Puede crear una vista independiente para cada análisis deseado y así acceder a ella en cuestión de segundos y en cualquier momento.
 
 ![Opciones de filtrado de SeaTable](nps-form-filter.png)
 
@@ -142,6 +142,6 @@ En esta captura de pantalla puede ver claramente que las categorías _Feature_ y
 
 Sólo una empresa que se toma en serio los deseos de sus clientes puede tener éxito a largo plazo. Para ello, sin embargo, es esencial que entienda lo que mueve a sus clientes. Utilice encuestas cualitativas y establezca procesos para garantizar un flujo constante de comentarios de los clientes. El NPS y los cuestionarios cualitativos pueden ayudarle a recopilar esta información.
 
-Tenga cuidado de no perder de vista las cuestiones importantes por culpa de toda la información. Por tanto, priorice la información y deduzca de ella opciones de actuación. Dedica tiempo a tratar los [comentarios negativos](https://seatable.io/es/negatives-kundenfeedback/).
+Tenga cuidado de no perder de vista las cuestiones importantes por culpa de toda la información. Por tanto, priorice la información y deduzca de ella opciones de actuación. Dedica tiempo a tratar los comentarios negativos.
 
 Si desea mejorar permanentemente la experiencia de usuario de sus clientes, pruebe SeaTable. SeaTable le proporciona las [herramientas necesarias]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para aumentar la satisfacción de sus clientes. No espere a mañana, establezca hoy mismo un proceso fijo para medir la satisfacción de sus clientes.

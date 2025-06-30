@@ -21,7 +21,7 @@ To be able to increase customer satisfaction, you need to know about current cus
 
 No matter which method you choose, you always need a tool to collect, measure and subsequently evaluate customer feedback. This process should be uncomplicated and easy to repeat at any time. At the same time, the evaluation must remain clear even with large amounts of data. This evaluation is often also called _User Experience Research_ or _UX Research_.
 
-With SeaTable, we give you the perfect tool. SeaTable helps you collect with easy-to-share [web forms](https://seatable.io/en/docs/handbuch/datenmanagement/webformulare/) and evaluate and prioritize customer feedback with [statistics features](https://seatable.io/en/docs/handbuch/datenmanagement/statistiken/). We've even prepared a [template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) to give you some initial inspiration, which you can use to complete the following three steps. Just take a look.
+With SeaTable, we give you the perfect tool. SeaTable helps you collect with easy-to-share [web forms]({{< relref "help/base-editor/webformulare" >}}) and evaluate and prioritize customer feedback with [statistics features]({{< relref "help/base-editor/statistiken" >}}). We've even prepared a [template]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) to give you some initial inspiration, which you can use to complete the following three steps. Just take a look.
 
 ## Step 1: Collect data on customer satisfaction
 
@@ -92,7 +92,7 @@ There are cultural differences in valuation. This becomes important when you ope
 
 ### Suitable tool for customer satisfaction survey
 
-Whichever method you choose, make sure you use a tool that lets you store and manage all your feedback. For example, SeaTable can help you collect the customer feedback you want. Simply create your desired survey using our web form. In [this article](https://seatable.io/en/kundenfeedback-mit-seatable/), we will explain you the whole process of creating such a form and then analyzing it in more detail. If you want to get started right away, take a look there.
+Whichever method you choose, make sure you use a tool that lets you store and manage all your feedback. For example, SeaTable can help you collect the customer feedback you want. Simply create your desired survey using our web form. In [this article]({{< relref "templates/marketing/customer-feedback" >}}), we will explain you the whole process of creating such a form and then analyzing it in more detail. If you want to get started right away, take a look there.
 
 ![Customer feedback creation web form](Kundenfeedback-Formularerstellung-langsamer-1.gif)
 
@@ -106,7 +106,7 @@ After getting the feedback you want from your customers, you need to filter out 
 
 ### Analyze weaknesses and potentials
 
-Let's say you want to make improvements to your product, identify the current weak points, and find out why your customers don't recommend your product to others. For this, you can create a new [view](https://seatable.io/en/docs/grundlagen-von-ansichten/was-ist-eine-ansicht/) to [filter]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [sort](https://seatable.io/en/docs/ansichtsoptionen/sortieren-von-eintraegen-in-einer-ansicht/), and [group](https://seatable.io/en/docs/ansichtsoptionen/gruppieren-von-eintraegen-in-einer-ansicht/) the survey results. Look for the responses with a low NPS score and sort the feedback by relevant categories. You can create a separate view for each analysis you want, so you can access it in seconds at any time.
+Let's say you want to make improvements to your product, identify the current weak points, and find out why your customers don't recommend your product to others. For this, you can create a new [view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) to [filter]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}), [sort]({{< relref "help/base-editor/ansichten" >}}sortieren-von-eintraegen-in-einer-ansicht/), and [group]({{< relref "help/base-editor/ansichten" >}}gruppieren-von-eintraegen-in-einer-ansicht/) the survey results. Look for the responses with a low NPS score and sort the feedback by relevant categories. You can create a separate view for each analysis you want, so you can access it in seconds at any time.
 
 ![Filter options of SeaTable](nps-form-filter.png)
 
@@ -143,6 +143,6 @@ On this screenshot you can clearly see that the categories _Feature_ and _Price_
 
 Only a company that takes its customers' wishes seriously can be successful in the long term. To do this, however, it is essential that you understand what moves your customers. Use qualitative surveys and establish processes to ensure a constant flow of customer feedback. NPS and qualitative questionnaires can help you gather this information.
 
-Make sure that you don't lose sight of the important issues because of all the information. Therefore, prioritize your information and derive courses of action from it. Take time to deal with [negative feedback](https://seatable.io/en/negatives-kundenfeedback/).
+Make sure that you don't lose sight of the important issues because of all the information. Therefore, prioritize your information and derive courses of action from it. Take time to deal with negative feedback.
 
 If you plan to improve your customers' user experience permanently, try SeaTable. SeaTable gives you the [tools you need to]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) increase your customers' satisfaction. Don't wait for tomorrow, establish a solid process for surveying your customer satisfaction today!

@@ -13,7 +13,7 @@ Criar e gerir uma lista de tarefas online com uma aplicação tem muitas vantage
 
 ## Para que é que precisa de uma lista de tarefas
 
-Tanto em casa como na [gestão de projectos](https://seatable.io/pt/projektmanagement/) profissionais, é importante manter um registo de todas as tarefas futuras e trabalhá-las uma a uma. O primeiro passo é registar as **tarefas** específicas numa lista de afazeres. Em seguida, defina as **subtarefas** ou **as categorias** mais abrangentes, determine **as responsabilidades** e estabeleça **prazos**.
+Tanto em casa como na [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}) profissionais, é importante manter um registo de todas as tarefas futuras e trabalhá-las uma a uma. O primeiro passo é registar as **tarefas** específicas numa lista de afazeres. Em seguida, defina as **subtarefas** ou **as categorias** mais abrangentes, determine **as responsabilidades** e estabeleça **prazos**.
 
 É possível utilizar um **estado** para indicar se uma tarefa está a ser processada ou se foi concluída. Um estado pendente também é concebível se estiver à espera de uma resposta ou de um input. Também deve **estabelecer prioridades** para as suas tarefas, de modo a que as mais importantes sejam sempre as primeiras a ser executadas.
 
@@ -31,7 +31,7 @@ Se escrever a sua lista de tarefas numa aplicação, esta serve como uma espéci
 
 ### Estruturar o seu trabalho
 
-No trabalho, pode **planear o seu dia** com uma lista de tarefas. Mova as novas tarefas para as categorias adequadas, atribua prazos, prioridades e responsáveis. Independentemente de quando e onde se lembrar de uma tarefa, pode documentá-la rapidamente. Isto aplica-se tanto às suas próprias tarefas como ao [trabalho em projectos de equipa](https://seatable.io/pt/perfekte-aufgabenverwaltung-im-projektmanagement/).
+No trabalho, pode **planear o seu dia** com uma lista de tarefas. Mova as novas tarefas para as categorias adequadas, atribua prazos, prioridades e responsáveis. Independentemente de quando e onde se lembrar de uma tarefa, pode documentá-la rapidamente. Isto aplica-se tanto às suas próprias tarefas como ao [trabalho em projectos de equipa]({{< relref "posts/aufgabenverwaltung" >}}).
 
 ### Reconhecer ligações
 
@@ -77,7 +77,7 @@ Pode ordenar as tarefas individuais, definir um prazo e assinalá-las. Também s
 
 ### Projoodle: Uma lista de afazeres baseada no Doodle
 
-O principal objetivo do [Projoodle](https://www.projoodle.com/de) é facilitar a colaboração com os amigos. À semelhança do envio de uma [ligação Doodle](https://seatable.io/pt/umfrage-erstellen/) para compromissos, a gestão de tarefas também deve funcionar sem iniciar sessão. O projeto Projoodle foi criado com este objetivo em mente.
+O principal objetivo do [Projoodle](https://www.projoodle.com/de) é facilitar a colaboração com os amigos. À semelhança do envio de uma [ligação Doodle]({{< relref "posts/umfrage-erstellen" >}}) para compromissos, a gestão de tarefas também deve funcionar sem iniciar sessão. O projeto Projoodle foi criado com este objetivo em mente.
 
 Com o Projoodle, obtém uma aplicação gratuita para listas de tarefas que são fáceis de criar, partilhar e gerir. Outra funcionalidade é a vista de quadro Kanban, que permite agrupar claramente as tarefas por estado. No entanto, as opções para ordenar e agendar tarefas são escassas.
 
@@ -93,7 +93,7 @@ Os lembretes podem ser claramente ordenados em cada lista e divididos em secçõ
 
 ## SeaTable: O polivalente para todos os tipos de listas
 
-O SeaTable é uma base de dados em linha que lhe permite organizar tarefas, informações, processos e ideias de forma fácil e clara. Beneficia de uma vista de lista clássica ou pode utilizar formatos de visualização alternativos, como o [quadro Kanban](https://seatable.io/pt/docs/plugins/anleitung-zum-kanban-plugin/), o [calendário](https://seatable.io/pt/docs/plugins/anleitung-zum-kalender-plugin/) ou um [gráfico de Gantt](https://seatable.io/pt/docs/plugins/anleitung-zum-timeline-plugin/).
+O SeaTable é uma base de dados em linha que lhe permite organizar tarefas, informações, processos e ideias de forma fácil e clara. Beneficia de uma vista de lista clássica ou pode utilizar formatos de visualização alternativos, como o [quadro Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), o [calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) ou um [gráfico de Gantt]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
 
 Outra funcionalidade interessante é a possibilidade de carregar [ficheiros]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) e [imagens]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) e anexá-los às tarefas. Também pode adicionar toda a informação que quiser, como uma data, uma prioridade e subtarefas em colunas adicionais.
 

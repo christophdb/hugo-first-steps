@@ -34,7 +34,7 @@ Loggen Sie sich in Ihr [Zapier-Konto](https://zapier.com/app/login) ein und erst
 
 ![Wählen Sie das passende Zapier Event aus](images/zapier-example-1.png)
 
-Der nächste Schritt ist die Verbindung Ihres SeaTable-Kontos mit Zapier (oder die Auswahl eines bereits verbundenen SeaTable-Kontos). Wenn Sie noch keinen API-Token haben, müssen Sie einen [API-Schlüssel generieren](https://seatable.io/docs/integrationen/zapier-api-tokens-sign-in/), den Sie in Zapier eingeben.
+Der nächste Schritt ist die Verbindung Ihres SeaTable-Kontos mit Zapier (oder die Auswahl eines bereits verbundenen SeaTable-Kontos). Wenn Sie noch keinen API-Token haben, müssen Sie einen [API-Schlüssel generieren]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}), den Sie in Zapier eingeben.
 
 Nachdem Sie das entsprechende Konto ausgewählt haben, werden Sie aufgefordert, die trigger-spezifischen Setup-Optionen zu konfigurieren. Mit SeaTable als Trigger müssen wir die Tabelle und die Ansicht angeben, indem wir auf das Dropdown-Menü klicken und die entsprechenden Optionen auswählen (in diesem Fall wollen wir die Tabelle "Opportunities" und die Ansicht "All opportunities").
 
@@ -86,7 +86,7 @@ Als Nächstes legen wir einen neuen Zap an, und wählen _Zapier Chrome Extension
 
 ![Trigger: new push in zapier chrome extension](images/zapier-example-10.png)
 
-Auch die Konfiguration der _Action_ ist nicht weiter schwierig. Erstellen Sie einen [API-Token](https://seatable.io/docs/zapier-integration/zapier-api-tokens-sign-in/) für die eben angelegte Base und konfigurieren Sie, dass der Titel und die URL in den jeweils passenden Spalten von SeaTable gespeichert werden. Zum Abschluss testen Sie noch den Zap und veröffentlichen diesen.
+Auch die Konfiguration der _Action_ ist nicht weiter schwierig. Erstellen Sie einen [API-Token]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) für die eben angelegte Base und konfigurieren Sie, dass der Titel und die URL in den jeweils passenden Spalten von SeaTable gespeichert werden. Zum Abschluss testen Sie noch den Zap und veröffentlichen diesen.
 
 ![Trigger: Create Row in SeaTable](images/zapier-example-12.png)
 

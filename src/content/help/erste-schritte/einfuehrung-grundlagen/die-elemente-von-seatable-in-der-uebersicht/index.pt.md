@@ -28,7 +28,7 @@ Depois de iniciar a sessão, é apresentada a página inicial do SeaTable. Cada 
 
 Cada base é constituída por um ou mais quadros. As tabelas ajudam-no a estruturar e a relacionar as suas informações.
 
-[Saber mais sobre as tabelas →](https://seatable.io/pt/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/)
+[Saber mais sobre as tabelas →]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}})
 
 ### Linhas
 
@@ -54,7 +54,7 @@ As visualizações permitem-lhe ver a mesma informação de diferentes ângulos.
 
 Para além das visualizações, os plugins oferecem outras opções para apresentar os dados de uma base da melhor forma possível. A galeria é ideal para uma base com muitas imagens, a linha de tempo é óptima para entradas com datas de início e fim e o quadro Kanban permite-lhe alterar facilmente o estado das entradas. Os plugins ajudam-no a trabalhar de forma eficiente e eficaz com os seus dados.
 
-[Saiba mais sobre os plugins →](https://seatable.io/pt/docs/plugins/was-ist-ein-plugin/)
+[Saiba mais sobre os plugins →]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}})
 
 ## Trabalhar em equipa
 
@@ -62,26 +62,26 @@ Para além das visualizações, os plugins oferecem outras opções para apresen
 
 Pode utilizar grupos para definir quais os membros da equipa que têm acesso a bases individuais ou múltiplas. Cada membro da equipa deve ter acesso apenas às bases relevantes para o seu trabalho. A maioria das equipas no SeaTable cria grupos para áreas de trabalho individuais, como o departamento de RH, marketing, gestão ou desenvolvimento de produtos. Isto permite-lhe controlar o acesso de forma fácil e eficaz.
 
-[Saiba mais sobre os grupos → aqui](https://seatable.io/pt/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/)
+[Saiba mais sobre os grupos → aqui]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen" >}})
 
 ### Autorizações
 
-[Saber mais sobre as autorizações num grupo →](https://seatable.io/pt/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
+[Saber mais sobre as autorizações num grupo →]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}})
 
 ### Cooperação
 
 O SeaTable é uma solução que permite às pessoas trabalharem em conjunto em processos, estruturas e dados. Só trabalhando em equipa é possível concretizar o verdadeiro potencial do SeaTable.
 
-[Saiba mais sobre a colaboração no SeaTable →](https://seatable.io/pt/docs/seatable-nutzen/zusammenarbeit/)
+[Saiba mais sobre a colaboração no SeaTable →]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}})
 
 ### Gestão de equipas
 
 A administração da equipa fornece aos administradores da sua equipa várias funções. Entre outras coisas, pode gerir os membros da sua equipa e a sua subscrição, ver facturas ou criar bilhetes de apoio.
 
-[Saiba mais sobre a gestão de equipas →](https://seatable.io/pt/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+[Saiba mais sobre a gestão de equipas →]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 ### Assinatura e facturação
 
 Cada equipa tem uma subscrição Free, Plus ou Enterprise. Esta subscrição determina a quantidade de dados que a equipa pode armazenar em conjunto e as funções que estão disponíveis para a equipa.
 
-[Saiba mais sobre as assinaturas e a faturação →](https://seatable.io/pt/docs/teamverwaltung-abonnement/abonnement-und-abrechnung-im-ueberblick/)
+[Saiba mais sobre as assinaturas e a faturação →]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}})

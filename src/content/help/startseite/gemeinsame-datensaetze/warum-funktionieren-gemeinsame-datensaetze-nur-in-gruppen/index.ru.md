@@ -20,5 +20,5 @@ url: '/ru/pomoshch/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen'
 
 Чтобы иметь возможность создать общую запись из табличного представления базы, которая **не** принадлежит к группе, существует простой способ обойти техническое ограничение, описанное выше:
 
-1. [Скопируйте соответствующую базу в любую группу.](https://seatable.io/ru/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/)
-2. [Создайте общую запись из нужного представления.](https://seatable.io/ru/docs/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes/)
+1. [Скопируйте соответствующую базу в любую группу.]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
+2. [Создайте общую запись из нужного представления.]({{< relref "help/startseite/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes" >}})

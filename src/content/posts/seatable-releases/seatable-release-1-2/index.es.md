@@ -12,7 +12,7 @@ seo:
 
 SeaTable es la solución definitiva para la gestión de datos y la colaboración en línea. Con sus múltiples tipos de campos, funciones de organización, grupo, gestión de equipos y colaboración, así como numerosas plantillas y plugins, SeaTable da rienda suelta a toda la productividad de su equipo.
 
-Nos complace anunciar que la versión 1.2 de SeaTable ya está disponible. SeaTable 1.2 contiene algunas actualizaciones importantes en términos de funcionalidad y experiencia de usuario. Puede encontrar la lista completa de cambios en el [registro de cambios](https://seatable.io/es/docs/changelog/version-1-2/). En esta nota de la versión le presentamos algunas de las novedades más interesantes.
+Nos complace anunciar que la versión 1.2 de SeaTable ya está disponible. SeaTable 1.2 contiene algunas actualizaciones importantes en términos de funcionalidad y experiencia de usuario. Puede encontrar la lista completa de cambios en el [registro de cambios]({{< relref "pages/changelog" >}}). En esta nota de la versión le presentamos algunas de las novedades más interesantes.
 
 ## Más colores y símbolos en la página de inicio
 
@@ -30,7 +30,7 @@ En los menús contextuales de los tipos de columna Archivo e Imagen encontrará 
 
 ## Viaje al pasado - Instantáneas
 
-En SeaTable siempre tendrá una visión general de los procesos en sus bases. El registro enumera todos los cambios, adiciones y eliminaciones de registros, así como todos los demás procesos de una base. Además, SeaTable crea automáticamente [instantáneas](https://seatable.io/es/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) cada 24 horas de las bases en las que se está trabajando activamente.
+En SeaTable siempre tendrá una visión general de los procesos en sus bases. El registro enumera todos los cambios, adiciones y eliminaciones de registros, así como todos los demás procesos de una base. Además, SeaTable crea automáticamente [instantáneas]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) cada 24 horas de las bases en las que se está trabajando activamente.
 
 Una instantánea captura el estado de una base en el momento en que se creó. En otras palabras, las instantáneas son básicamente máquinas para viajar atrás en el tiempo. ¿Quieres ver cómo era una base hace tres días? Olvídate del registro, ¡usa una instantánea!
 

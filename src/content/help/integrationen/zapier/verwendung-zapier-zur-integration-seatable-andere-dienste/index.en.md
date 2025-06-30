@@ -34,7 +34,7 @@ Log in to your [Zapier account](https://zapier.com/app/login) and create a new Z
 
 ![Choose the Zapier event that suits you](images/zapier-example-1.png)
 
-The next step is to connect your SeaTable account to Zapier (or select an already connected SeaTable account). If you don't have an API token yet, you need to [generate](https://seatable.io/en/docs/integrationen/zapier-api-tokens-sign-in/) an [API key](https://seatable.io/en/docs/integrationen/zapier-api-tokens-sign-in/) that you enter into Zapier.
+The next step is to connect your SeaTable account to Zapier (or select an already connected SeaTable account). If you don't have an API token yet, you need to [generate]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) an [API key]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) that you enter into Zapier.
 
 After selecting the appropriate account, you will be prompted to configure the trigger-specific setup options. With SeaTable as the trigger, we need to specify the table and the view by clicking on the drop-down menu and selecting the appropriate options (in this case, we want the "Opportunities" table and the "All opportunities" view).
 
@@ -86,7 +86,7 @@ Next, we create a new Zap, and select _Zapier Chrome Extension_ as the Trigger a
 
 ![Trigger: new push in zapier chrome extension](images/zapier-example-10.png)
 
-Configuring the _action_ is not difficult either. Create an [API token](https://seatable.io/en/docs/zapier-integration/zapier-api-tokens-sign-in/) for the base you just created and configure the title and URL to be stored in the appropriate columns of SeaTable. Finally, test the Zap and publish it.
+Configuring the _action_ is not difficult either. Create an [API token]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) for the base you just created and configure the title and URL to be stored in the appropriate columns of SeaTable. Finally, test the Zap and publish it.
 
 ![Trigger: Create Row in SeaTable](images/zapier-example-12.png)
 

@@ -13,7 +13,7 @@ seo:
 
 The corona crisis is currently forcing millions of people to work from home. Some find it easy to adjust to the new situation, but many also struggle with it. Do you also not really know how to start in the morning? Do you keep forgetting your lunch break and instead eat your quickly made sandwiches in front of your PC? We will give you valuable tips and show you advantages that will definitely make the situation easier for you.
 
-Are you a team leader and wondering how best to organise your weekly meetings from your home office? Take a look [here,](https://seatable.io/en/team-meetings-remote-organisieren/) we have developed the right template for you!
+Are you a team leader and wondering how best to organise your weekly meetings from your home office? Take a look [here,]({{< relref "templates/projects/team-meetings" >}}) we have developed the right template for you!
 
 ## 1\. a routine in the morning
 

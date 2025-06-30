@@ -12,7 +12,7 @@ Pode fornecer uma descrição a cada tabela da sua base. Pode utilizar este text
 
 {{< warning  headline="Nota importante" >}}
 
-Independentemente da sua [função e autorização](https://seatable.io/pt/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/), também pode editar as descrições das tabelas nas bases que pertencem a um **grupo**. No entanto, só pode editar a descrição das tabelas que lhe foram [atribuídas]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) com **permissões de escrita**.
+Independentemente da sua [função e autorização]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}), também pode editar as descrições das tabelas nas bases que pertencem a um **grupo**. No entanto, só pode editar a descrição das tabelas que lhe foram [atribuídas]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) com **permissões de escrita**.
 
 {{< /warning >}}
 

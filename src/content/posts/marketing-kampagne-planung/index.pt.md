@@ -46,7 +46,7 @@ Não há praticamente ideias que não tenham sido pensadas antes. Por outras pal
 
 ### 4\. Definir responsabilidades e prazos claros
 
-Uma campanha de marketing e o seu planeamento funcionam melhor quando todos sabem o que têm de fazer e quando têm de o fazer. Uma vez estabelecidos os [objectivos do projecto]({{< relref "templates/projects/project-plan" >}}), o grupo-alvo e a análise do mercado/competitor, é uma questão de reunir uma equipa, atribuir [responsabilidades e tarefas](https://seatable.io/pt/projektstrukturplan-vorlage/), estabelecer prazos e marcos e - muito importante - atribuir o [orçamento]({{< relref "templates/finance/budget-book" >}}).
+Uma campanha de marketing e o seu planeamento funcionam melhor quando todos sabem o que têm de fazer e quando têm de o fazer. Uma vez estabelecidos os [objectivos do projecto]({{< relref "templates/projects/project-plan" >}}), o grupo-alvo e a análise do mercado/competitor, é uma questão de reunir uma equipa, atribuir [responsabilidades e tarefas]({{< relref "templates/projects/work-breakdown-structure" >}}), estabelecer prazos e marcos e - muito importante - atribuir o [orçamento]({{< relref "templates/finance/budget-book" >}}).
 
 ![A equipa de marketing discute o procedimento de planeamento de campanhas.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
@@ -54,7 +54,7 @@ Planeamento da campanha de marketing © REDPIXEL / stock de adobe
 
 ### 5\. Reunir acções e conteúdos ao planear a campanha de marketing.
 
-Uma vez tratados todos os aspectos organizacionais, é tempo de planear o conteúdo da sua campanha de marketing. Este passo inclui decidir juntamente com a equipa que [conteúdo](https://seatable.io/pt/social-media-plan-vorlage/) deve ser jogado em [que formato em que canais](https://seatable.io/pt/social-media-plan-vorlage/) - sempre com o grupo-alvo, concorrência e mercado em mente. Os aspectos jurídicos são também importantes neste contexto. Para cada campanha, deverá considerar quais os direitos de autor aplicáveis às fotografias utilizadas, quando as directrizes publicitárias devem ser observadas e quais as especificações aplicáveis às várias plataformas utilizadas.
+Uma vez tratados todos os aspectos organizacionais, é tempo de planear o conteúdo da sua campanha de marketing. Este passo inclui decidir juntamente com a equipa que [conteúdo]({{< relref "templates/marketing/social-media-plan" >}}) deve ser jogado em [que formato em que canais]({{< relref "templates/marketing/social-media-plan" >}}) - sempre com o grupo-alvo, concorrência e mercado em mente. Os aspectos jurídicos são também importantes neste contexto. Para cada campanha, deverá considerar quais os direitos de autor aplicáveis às fotografias utilizadas, quando as directrizes publicitárias devem ser observadas e quais as especificações aplicáveis às várias plataformas utilizadas.
 
 ### 6 Implementação, monitorização e controlo do sucesso
 

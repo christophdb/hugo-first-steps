@@ -16,11 +16,11 @@ Si vous venez d'ouvrir un tableau, vous pouvez simplement cliquer avec la souris
 
 ## Copier-coller
 
-Pour transférer rapidement de petites quantités de données, vous pouvez également utiliser le **presse-papiers** de votre ordinateur. Pour cela, copiez les données dans un tableau existant et collez-les dans SeaTable par [copier-coller](https://seatable.io/fr/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/).
+Pour transférer rapidement de petites quantités de données, vous pouvez également utiliser le **presse-papiers** de votre ordinateur. Pour cela, copiez les données dans un tableau existant et collez-les dans SeaTable par [copier-coller]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}).
 
 ## Importation de données
 
-SeaTable dispose d'un puissant système d'importation de données qui vous permet de saisir des données de différentes manières à partir de **fichiers** **Excel** et **CSV**. Si vous vous demandez [quels formats d'importation SeaTable prend en charge](https://seatable.io/fr/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}), consultez les articles d'aide correspondants.
+SeaTable dispose d'un puissant système d'importation de données qui vous permet de saisir des données de différentes manières à partir de **fichiers** **Excel** et **CSV**. Si vous vous demandez [quels formats d'importation SeaTable prend en charge]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}), consultez les articles d'aide correspondants.
 
 ## Formulaires web
 

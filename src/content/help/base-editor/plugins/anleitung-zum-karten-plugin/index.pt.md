@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/anleitung-zum-karten-plugin'
 ---
 
-Se criou uma coluna de texto com endereços ou nomes de locais na sua tabela ou utilizou o tipo de coluna [Geoposition](https://seatable.io/pt/docs/andere-spalten/die-geopositions-spalte/), pode utilizar o **Plugin do Mapa** para exibir os locais introduzidos na coluna.
+Se criou uma coluna de texto com endereços ou nomes de locais na sua tabela ou utilizou o tipo de coluna [Geoposition]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}), pode utilizar o **Plugin do Mapa** para exibir os locais introduzidos na coluna.
 
 Para activar o plugin, seguir as instruções do artigo [Activando um Plugin numa Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
@@ -70,7 +70,7 @@ Se tiver criado várias tabelas na sua base, pode seleccionar neste momento qual
 
 ### Linha de endereço
 
-Defina aqui uma coluna de texto na qual tenha introduzido endereços ou nomes de locais, ou uma [coluna de geoposição](https://seatable.io/pt/docs/andere-spalten/die-geopositions-spalte/) a partir da qual os locais devem ser exibidos no mapa. Note que o plug-in do mapa só funciona se tiver utilizado uma coluna deste tipo na sua tabela.
+Defina aqui uma coluna de texto na qual tenha introduzido endereços ou nomes de locais, ou uma [coluna de geoposição]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}) a partir da qual os locais devem ser exibidos no mapa. Note que o plug-in do mapa só funciona se tiver utilizado uma coluna deste tipo na sua tabela.
 
 ### Cor do marcador
 

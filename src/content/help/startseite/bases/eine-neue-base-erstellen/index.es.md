@@ -31,7 +31,7 @@ Además, es posible crear una nueva base a través de una carpeta.
 1. Comience en la **página de inicio** de SeaTable.
 2. Haga clic en una **carpeta** del espacio de trabajo correspondiente (Mis bases o uno de sus grupos).
 3. En la ventana que se abre, haga clic en **Nuevo** en la esquina superior derecha.
-4. Seleccione si desea **crear** una **base vacía**, [importar]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_importieren) una base o crear una [base a partir de una plantilla](https://seatable.io/es/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+4. Seleccione si desea **crear** una **base vacía**, [importar]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#base_importieren) una base o crear una [base a partir de una plantilla]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 5. Dale un **nombre** a la base, asígnale un color y un icono y guarda el proceso pulsando la **tecla Intro**.
 6. La base recién creada aparece ahora en la vista general de carpetas y se guarda en la **carpeta** correspondiente de la página de inicio.
 

@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-La versión de septiembre, que subimos el 14 de septiembre, ofrece una impresionante serie de nuevas características, funcionalidades y mejoras para TODOS los usuarios. La adición más interesante es el motor de scripting de SeaTable. Otras grandes novedades son la perfecta integración de nuestras plantillas, el formato condicional de las filas, una nueva función de impresión y el nuevo tipo de columna numérica automática. Y eso no es todo, ni mucho menos. La lista completa de cambios está disponible en el [registro de cambios](https://seatable.io/es/docs/changelog/version-1-3/). SeaTable hace honor a su nombre y ofrece un mar de posibilidades. [Empieza ahora]({{< relref "pages/registration" >}}) y juega con las olas.
+La versión de septiembre, que subimos el 14 de septiembre, ofrece una impresionante serie de nuevas características, funcionalidades y mejoras para TODOS los usuarios. La adición más interesante es el motor de scripting de SeaTable. Otras grandes novedades son la perfecta integración de nuestras plantillas, el formato condicional de las filas, una nueva función de impresión y el nuevo tipo de columna numérica automática. Y eso no es todo, ni mucho menos. La lista completa de cambios está disponible en el [registro de cambios]({{< relref "pages/changelog" >}}). SeaTable hace honor a su nombre y ofrece un mar de posibilidades. [Empieza ahora]({{< relref "pages/registration" >}}) y juega con las olas.
 
 ## Procesamiento de datos automatizado con scripts
 
@@ -20,7 +20,7 @@ Los scripts de SeaTable son similares a los conocidos plugins de SeaTable (por e
 
 ## Trabaje más rápido con las plantillas
 
-Muchos usuarios ya conocen nuestras [cuidadas plantillas](https://seatable.io/es/docs/templates/). Con la nueva versión, ahora es aún más fácil crear nuevas bases directamente basadas en estas plantillas, sin la molestia de los procedimientos manuales de copia y exportación. Utilizar una plantilla no puede ser más fácil. Cree una nueva base, seleccione su plantilla preferida y ya está.
+Muchos usuarios ya conocen nuestras [cuidadas plantillas]({{< relref "templates" >}}). Con la nueva versión, ahora es aún más fácil crear nuevas bases directamente basadas en estas plantillas, sin la molestia de los procedimientos manuales de copia y exportación. Utilizar una plantilla no puede ser más fácil. Cree una nueva base, seleccione su plantilla preferida y ya está.
 
 ![](create-from-template.png)
 

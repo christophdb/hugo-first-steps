@@ -105,7 +105,7 @@ Votre plan de contenu doit au moins **contenir des colonnes pour un titre de tra
 
 ### 5\. définir des directives générales pour votre contenu
 
-Une fois la planification du contenu établie, vous devriez élaborer et documenter des directives de contenu avec votre équipe dans le cadre d'un [atelier](https://seatable.io/fr/workshop-planen/). Vous obtiendrez ainsi des contenus de qualité constante, même sur une longue période, auprès de plusieurs participants.
+Une fois la planification du contenu établie, vous devriez élaborer et documenter des directives de contenu avec votre équipe dans le cadre d'un [atelier]({{< relref "posts/workshop-planen" >}}). Vous obtiendrez ainsi des contenus de qualité constante, même sur une longue période, auprès de plusieurs participants.
 
 Il s'agit par exemple de la **manière de s'adresser aux lecteurs, du ton des textes, de l'utilisation d'emojis et de hashtags, de la résolution et de la taille des images, des liens, de la mise en forme et bien plus encore**. Ces directives complètent le plan éditorial et le rendent prêt à l'emploi. Si vous travaillez avec des freelances ou une agence, les guidelines vous aident à créer le contenu exactement comme vous le souhaitez.
 
@@ -115,7 +115,7 @@ Le [modèle de plan de contenu]({{< relref "templates/marketing/editorial-plan" 
 
 ### 1\. une structuration judicieuse avec des catégories
 
-Avec les colonnes de sélection simple, vous pouvez créer autant de catégories que vous le souhaitez. L'avantage est que vous pouvez ensuite **regrouper, filtrer ou effectuer des analyses statistiques**. Vous pouvez par exemple afficher tous les articles de blog non publiés ou uniquement votre [contenu Plan Social Media](https://seatable.io/fr/social-media-plan-vorlage/).
+Avec les colonnes de sélection simple, vous pouvez créer autant de catégories que vous le souhaitez. L'avantage est que vous pouvez ensuite **regrouper, filtrer ou effectuer des analyses statistiques**. Vous pouvez par exemple afficher tous les articles de blog non publiés ou uniquement votre [contenu Plan Social Media]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ### 2\. enregistrer les images et les documents dans le plan de contenu
 
@@ -127,7 +127,7 @@ Pour garder une vue d'ensemble dans le temps, vous pouvez **passer du tableau à
 
 ### 4\. une communication ludique et facile dans le plan éditorial
 
-La communication pour la planification des contributions s'étend parfois sur divers e-mails, chats internes ou documents. Cela peut vite devenir confus. Avec SeaTable, tous les messages sont regroupés au même endroit : **Communiquez vos réactions directement dans le plan éditorial**. Cela fonctionne très efficacement grâce à la [fonction de commentaire](https://seatable.io/fr/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) dans les différentes lignes. Vous pouvez **suivre toutes les modifications** dans le [journal](https://seatable.io/fr/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/) - ainsi, il est toujours clair qui a effectué quelles modifications dans le plan de rédaction.
+La communication pour la planification des contributions s'étend parfois sur divers e-mails, chats internes ou documents. Cela peut vite devenir confus. Avec SeaTable, tous les messages sont regroupés au même endroit : **Communiquez vos réactions directement dans le plan éditorial**. Cela fonctionne très efficacement grâce à la [fonction de commentaire]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) dans les différentes lignes. Vous pouvez **suivre toutes les modifications** dans le [journal]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}) - ainsi, il est toujours clair qui a effectué quelles modifications dans le plan de rédaction.
 
 ![La communication facilitée - vous pouvez faire des remarques directement dans le plan de contenu](Team-communication.jpg)
 
@@ -135,7 +135,7 @@ Communication simple et directe dans le plan éditorial
 
 ### 5\. clarifier les choses grâce aux statistiques
 
-Vous souhaitez expérimenter avec différentes données et évaluer votre contenu comme vous le souhaitez ? Alors **créez [des statistiques](https://seatable.io/fr/docs/plugins/anleitung-zum-statistik-plugin/) pertinentes avec SeaTable**. Analysez par exemple les mois au cours desquels vous avez publié un nombre particulièrement élevé de contributions, quel collaborateur a écrit le plus de contributions ou sur quel canal le contenu a eu le plus de succès. Cela offre de nombreux aperçus précieux sur les domaines où les choses fonctionnent bien - et sur ceux où il y a peut-être encore des améliorations à apporter.
+Vous souhaitez expérimenter avec différentes données et évaluer votre contenu comme vous le souhaitez ? Alors **créez [des statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) pertinentes avec SeaTable**. Analysez par exemple les mois au cours desquels vous avez publié un nombre particulièrement élevé de contributions, quel collaborateur a écrit le plus de contributions ou sur quel canal le contenu a eu le plus de succès. Cela offre de nombreux aperçus précieux sur les domaines où les choses fonctionnent bien - et sur ceux où il y a peut-être encore des améliorations à apporter.
 
 ![Les statistiques donnent un aperçu précieux de la performance du contenu](Statistics.jpg)
 
@@ -149,6 +149,6 @@ Tout bien considéré, vous devez veiller à ce que ...
 
 ## Conclusion sur le plan de contenu
 
-Lors de l'élaboration d'un [plan marketing](https://seatable.io/fr/marketingplan-vorlage/), un plan de contenu clair est nécessaire pour garder une vue d'ensemble sur les contenus prévus, les délais, les tâches et leur statut. Ainsi, les contributions peuvent être planifiées et réalisées avec succès en équipe.
+Lors de l'élaboration d'un [plan marketing]({{< relref "templates/marketing/content-calendar" >}}), un plan de contenu clair est nécessaire pour garder une vue d'ensemble sur les contenus prévus, les délais, les tâches et leur statut. Ainsi, les contributions peuvent être planifiées et réalisées avec succès en équipe.
 
 Si nous avons éveillé votre intérêt pour SeaTable, [inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) dans notre nuage et commencez à travailler directement avec le modèle de plan de contenu.

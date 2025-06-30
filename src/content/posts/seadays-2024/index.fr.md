@@ -42,7 +42,7 @@ Les participants écoutent avec attention les nouvelles.
 
 Les SeaDays ont offert un savant mélange de profondeur technique, de présentations pratiques et d'une bonne dose d'humour. Les présentations sur les options avancées de déploiement de conteneurs pour Seafile ont été particulièrement intéressantes pour les administrateurs et les développeurs. **Docker** et **Kubernetes** étaient au centre de l'attention. La présentation de l'**automatisation des flux de travail** avec Seafile et n8n a montré comment les entreprises peuvent rendre les tâches répétitives plus efficaces grâce à l'automatisation.
 
-Un autre moment fort a été la démonstration de la manière de **générer automatiquement [des scripts Python](https://seatable.io/fr/docs/javascript-python/unterstuetzte-python-bibliotheken/)** à l'aide de l'IA pour créer des automatisations dans SeaTable. Le tout a été complété par des contributions divertissantes comme "**How to mess up every IT project**", qui a montré avec un clin d'œil ce qu'il vaut mieux éviter.
+Un autre moment fort a été la démonstration de la manière de **générer automatiquement [des scripts Python]({{< relref "help/skripte/python/unterstuetzte-python-bibliotheken" >}})** à l'aide de l'IA pour créer des automatisations dans SeaTable. Le tout a été complété par des contributions divertissantes comme "**How to mess up every IT project**", qui a montré avec un clin d'œil ce qu'il vaut mieux éviter.
 
 ### Un aperçu des prochaines versions de SeaTable
 

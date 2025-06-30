@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Temos o prazer de apresentar nestas notas de lançamento a versão 2.6 do SeaTable, o último novo lançamento em 2021. Se estiver cansado de comer bolachas nos próximos dias e precisar de um pouco de distância da querida família, então dê uma olhadela. Há coisas novas mais do que suficientes para descobrir! Os destaques da nova versão são as vistas privadas, a função de actualização de dados para ficheiros CSV e XLSX, valores por defeito para três tipos de colunas adicionais e um plug-in de concepção de página alargada. E isso não é tudo. A SeaTable 2.6 está cheia até rebentar com pequenas melhorias das características existentes. Pode encontrar a lista completa de alterações - como sempre - no [SeaTable Changelog](https://seatable.io/pt/docs/changelog/version-2-6/).
+Temos o prazer de apresentar nestas notas de lançamento a versão 2.6 do SeaTable, o último novo lançamento em 2021. Se estiver cansado de comer bolachas nos próximos dias e precisar de um pouco de distância da querida família, então dê uma olhadela. Há coisas novas mais do que suficientes para descobrir! Os destaques da nova versão são as vistas privadas, a função de actualização de dados para ficheiros CSV e XLSX, valores por defeito para três tipos de colunas adicionais e um plug-in de concepção de página alargada. E isso não é tudo. A SeaTable 2.6 está cheia até rebentar com pequenas melhorias das características existentes. Pode encontrar a lista completa de alterações - como sempre - no [SeaTable Changelog]({{< relref "pages/changelog" >}}).
 
 ## Vistas privadas (apenas para subscritores empresariais)
 

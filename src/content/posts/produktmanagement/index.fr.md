@@ -32,7 +32,7 @@ Toutes les étapes par lesquelles passe un produit font partie des tâches de la
 - **Conception**: élaboration d'une stratégie concernant le marché, le prix, la distribution, la communication ; prototype, aperçu des coûts
 - **Mise en œuvre**: réalisation technique, mise en œuvre de la stratégie, lancement du produit
 
-En outre, un chef de produit assume certaines tâches organisationnelles. Il fait office d'**interface** entre le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), [les ventes](https://seatable.io/fr/distribution/) et le développement de produits ainsi que la production. Pour les différentes étapes du processus de développement de produits, le chef de produit coordonne également le **[Gestion de projet](https://seatable.io/fr/gestion-de-projet/)**. La gestion de produit s'occupe donc aussi beaucoup de la création de stratégies et d'analyses, qui s'ajoutent à la conception et au développement du produit lui-même.
+En outre, un chef de produit assume certaines tâches organisationnelles. Il fait office d'**interface** entre le [marketing]({{< relref "pages/industry-solutions/marketing" >}}), les ventes et le développement de produits ainsi que la production. Pour les différentes étapes du processus de développement de produits, le chef de produit coordonne également le **[Gestion de projet]({{< relref "pages/industry-solutions/project-management" >}})**. La gestion de produit s'occupe donc aussi beaucoup de la création de stratégies et d'analyses, qui s'ajoutent à la conception et au développement du produit lui-même.
 
 ### Les défis de la gestion de produits
 
@@ -50,7 +50,7 @@ Rassemblez facilement toutes vos données en un seul endroit : avec SeaTable. [N
 
 ### 1\. aperçu général des produits
 
-Pour permettre à chaque collaborateur d'avoir une vue d'ensemble du produit, une fiche de présentation standard est utile. Les informations les plus importantes sur le produit y sont listées, comme la gamme de produits, le type de produit, le nom officiel du produit pour le commerce, le numéro d'article, les prix et les images correspondantes du produit. Un bref aperçu est particulièrement précieux pour les personnes non spécialisées. Les différentes vues de SeaTable permettent de [filtrer et d'enregistrer](https://seatable.io/fr/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) les données en quelques clics, par exemple par gamme ou type de produit, et d'éviter les tris manuels fastidieux.
+Pour permettre à chaque collaborateur d'avoir une vue d'ensemble du produit, une fiche de présentation standard est utile. Les informations les plus importantes sur le produit y sont listées, comme la gamme de produits, le type de produit, le nom officiel du produit pour le commerce, le numéro d'article, les prix et les images correspondantes du produit. Un bref aperçu est particulièrement précieux pour les personnes non spécialisées. Les différentes vues de SeaTable permettent de [filtrer et d'enregistrer]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) les données en quelques clics, par exemple par gamme ou type de produit, et d'éviter les tris manuels fastidieux.
 
 ![Dans cette vue, vous avez un aperçu immédiat de tous les produits - parfait pour la gestion des produits.](Range-View_2.jpg)
 

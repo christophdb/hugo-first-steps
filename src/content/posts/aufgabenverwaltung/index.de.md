@@ -68,7 +68,7 @@ Die Base zur Aufgabenverwaltung kann dabei komplett als Arbeitsbasis benutzt wer
 
 ### Team-Kommunikation an einem Ort
 
-SeaTable ermöglicht eine direkte Kommunikation innerhalb der Tabellen, die die E-Mail Kommunikation außerhalb der Base erübrigt. Beim Öffnen einer Zeile können rechts im [Kommentarfeld](https://seatable.io/docs/handbuch/zusammenarbeit/kommentare/) Mitarbeiter zur Diskussion hinzugefügt und Anmerkungen, Fragen oder Feedback abgeschickt werden. So wissen alle ganz genau, auf welche Aufgabe sich eine Frage bezieht und die Kommunikation erfolgt transparent, synchron und nachvollziehbar.
+SeaTable ermöglicht eine direkte Kommunikation innerhalb der Tabellen, die die E-Mail Kommunikation außerhalb der Base erübrigt. Beim Öffnen einer Zeile können rechts im [Kommentarfeld]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) Mitarbeiter zur Diskussion hinzugefügt und Anmerkungen, Fragen oder Feedback abgeschickt werden. So wissen alle ganz genau, auf welche Aufgabe sich eine Frage bezieht und die Kommunikation erfolgt transparent, synchron und nachvollziehbar.
 
 ## Aufgabenverwaltung mit dem Kanban-Board
 
@@ -80,7 +80,7 @@ Auch andere Kategorisierungen sind denkbar, wie etwa nach übergeordneten Aufgab
 
 ### Individuelle Ansichten für jeden Mitarbeiter
 
-Für individuelle Boards für Ihre Mitarbeiter müssen im Vorhinein eigene [Ansichten](https://seatable.io/docs/handbuch/seatable-nutzen/ansichten/) erstellt werden. Das funktioniert ganz leicht, in dem ein Filter gesetzt wird, bei dem die Spalte “Responsible” den Namen eines bestimmten Mitarbeiters beinhalten muss (“Responsible has any of XY”). Damit verschwinden alle anderen Kollegen aus der Ansicht und nur noch die Aufgaben des einen Mitarbeiters werden angezeigt. Diese Funktion ist in allen Lizenzen beinhaltet und bietet endlose Gestaltungsmöglichkeiten. Wenn Sie etwa eine Ansicht nur mit offenen Aufgaben erstellen möchten, dann ist hierfür die Filterfunktion etwa “Status is not done”.
+Für individuelle Boards für Ihre Mitarbeiter müssen im Vorhinein eigene [Ansichten]({{< relref "help/base-editor/ansichten" >}}) erstellt werden. Das funktioniert ganz leicht, in dem ein Filter gesetzt wird, bei dem die Spalte “Responsible” den Namen eines bestimmten Mitarbeiters beinhalten muss (“Responsible has any of XY”). Damit verschwinden alle anderen Kollegen aus der Ansicht und nur noch die Aufgaben des einen Mitarbeiters werden angezeigt. Diese Funktion ist in allen Lizenzen beinhaltet und bietet endlose Gestaltungsmöglichkeiten. Wenn Sie etwa eine Ansicht nur mit offenen Aufgaben erstellen möchten, dann ist hierfür die Filterfunktion etwa “Status is not done”.
 
 Die unzähligen Filtermöglichkeiten bieten hochindividuelle Ansichten Ihrer Aufgabenverwaltung und Sie können jederzeit eine andere Perspektive einnehmen. Das Gute: Die verschiedenen Ansichten sind in ihrer Darstellung alle komplett unabhängig voneinander. Ein Filter in Ansicht A beeinflusst nicht die Darstellung in Ansicht B. Die Änderung der Daten jedoch läuft immer synchron und wird in allen Ansichten sofort umgesetzt.
 

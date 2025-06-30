@@ -32,7 +32,7 @@ url: '/ru/pomoshch/eine-tabelle-in-einer-base-hinzufuegen'
 
 ![Импорт таблицы из другой базы](images/import-table-from-other-base.gif)
 
-С помощью [общих записей]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) вы также можете совместно использовать главную таблицу в группе и использовать и синхронизировать ответвления таблицы в разных базах. Подробнее об этом можно узнать [здесь](https://seatable.io/ru/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+С помощью [общих записей]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) вы также можете совместно использовать главную таблицу в группе и использовать и синхронизировать ответвления таблицы в разных базах. Подробнее об этом можно узнать [здесь]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}).
 
 ## Сохраняйте обзор
 

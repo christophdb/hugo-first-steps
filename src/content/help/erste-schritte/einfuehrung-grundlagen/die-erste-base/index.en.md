@@ -18,7 +18,7 @@ SeaTable maintains a [history]({{< relref "help/base-editor/historie-und-version
 
 After logging in, you will find yourself on the **start** page. Here you manage your bases. If you have selected [templates]({{< relref "templates" >}}) during registration, they will be displayed here.
 
-By clicking on the **avatar image** in the upper right corner, you can switch to the [personal settings](https://seatable.io/en/docs/persoenliche-einstellungen/persoenliche-einstellungen/) to adjust the system language, for example.
+By clicking on the **avatar image** in the upper right corner, you can switch to the [personal settings]({{< relref "help/startseite/persoenliche-einstellungen" >}}) to adjust the system language, for example.
 
 Click on **Add Base** to create your first base. Give it a **name**, press **Enter** and the base will be placed on the start page. When you move the mouse pointer over the base name, a **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}} and the three-dot icon {{< seatable-icon icon="dtable-icon-more-vertical" >}} for the advanced functions appear on the right.
 
@@ -26,7 +26,7 @@ Using the pencil icon, you can rename the base and assign a different icon and c
 
 ## Table view
 
-The new Base contains a [table](https://seatable.io/en/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) from the beginning. The Table view is the central, but not the only view of SeaTable. In the Table view you manage the tables of the Base, define their column structure and enter or analyze your data.
+The new Base contains a [table]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) from the beginning. The Table view is the central, but not the only view of SeaTable. In the Table view you manage the tables of the Base, define their column structure and enter or analyze your data.
 
 Before you [enter data]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 

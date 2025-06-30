@@ -25,9 +25,9 @@ url: '/ru/pomoshch/eine-geloeschte-tabelle-wiederherstellen'
 Когда вы извлекаете таблицу из корзины, она восстанавливается в том виде, в котором она выглядела при удалении. Сюда входят следующие компоненты:
 
 - Данные таблицы
-- [Виды таблиц](https://seatable.io/ru/docs/seatable-nutzen/ansichten/)
-- [Комментарии](https://seatable.io/ru/docs/zusammenarbeit/kommentare/)
-- [Веб-формы](https://seatable.io/ru/docs/seatable-nutzen/webformulare/)
+- [Виды таблиц]({{< relref "help/base-editor/ansichten" >}})
+- [Комментарии]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Веб-формы]({{< relref "help/base-editor/webformulare" >}})
 - Автоматизация
 - Представления и оценки в плагинах SeaTable
 
@@ -37,4 +37,4 @@ url: '/ru/pomoshch/eine-geloeschte-tabelle-wiederherstellen'
 
 ## Больше полезных статей о восстановлении данных
 
-SeaTable предлагает различные варианты восстановления удаленного содержимого. Можно восстановить не только удаленные таблицы, но и последние изменения, старые версии или целые базы. [Обзорная статья о восстановлении данных в SeaTable](https://seatable.io/ru/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) обязательно поможет вам.
+SeaTable предлагает различные варианты восстановления удаленного содержимого. Можно восстановить не только удаленные таблицы, но и последние изменения, старые версии или целые базы. [Обзорная статья о восстановлении данных в SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}}) обязательно поможет вам.

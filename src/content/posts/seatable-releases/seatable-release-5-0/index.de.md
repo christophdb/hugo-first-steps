@@ -14,7 +14,7 @@ Es ist so weit: Unser App-Builder geht offiziell an den Start! Mit dieser Versio
 
 Doch das ist nicht der einzige Paukenschlag – in SeaTable 5.0 stehen Ihnen **drei neue Plugins** für komplexe Visualisierungen zur Verfügung: Organigramm, Tabellenbeziehungen und Whiteboard. Die **verbesserte Barrierefreiheit** soll Menschen mit (Seh-)Beeinträchtigung die Nutzung von SeaTable erleichtern. Ein weiteres Glanzlicht setzt der **spaltengenaue Excel-Import**.
 
-Heute Morgen haben wir SeaTable Cloud auf Version 5.0 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 5.0 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog](https://seatable.io/docs/changelog/version-5/) finden Sie wie immer die vollständige Liste der Änderungen.
+Heute Morgen haben wir SeaTable Cloud auf Version 5.0 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 5.0 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog]({{< relref "pages/changelog" >}}/) finden Sie wie immer die vollständige Liste der Änderungen.
 
 ## Ohne Code zur individuellen Business-App
 
@@ -22,17 +22,17 @@ Mit SeaTable 5.0 geht unser No-Code-App-Builder offiziell an den Start. Nachdem 
 
 ### Neuer Seitentyp: Einzelner Datensatz
 
-Die Entwicklung des App-Builders geht unvermindert weiter: Mit dem [Seitentyp](https://seatable.io/docs/universelle-apps/seitentypen-in-der-universellen-app/) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), das Sie bereits aus der Base kennen.
+Die Entwicklung des App-Builders geht unvermindert weiter: Mit dem [Seitentyp]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), das Sie bereits aus der Base kennen.
 
-Die Nutzer der App können auf dieser Seite – mit der jeweiligen [Berechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) – die einzelnen Datensätze sehen, suchen, durchblättern und bearbeiten. Dieser Seitentyp eignet sich zum Beispiel, um die Daten in einer Mitarbeiterdatenbank als persönliche Steckbriefe anzuzeigen.
+Die Nutzer der App können auf dieser Seite – mit der jeweiligen [Berechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) – die einzelnen Datensätze sehen, suchen, durchblättern und bearbeiten. Dieser Seitentyp eignet sich zum Beispiel, um die Daten in einer Mitarbeiterdatenbank als persönliche Steckbriefe anzuzeigen.
 
 ![Single Record Page](Single-Record-Page-min.gif)
 
 ### Neue Funktionen bestehender Seitentypen
 
-Auf [Tabellenseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) können Sie ab sofort alle angezeigten Daten als **Excel-Datei exportieren**. Zudem können Sie über den Spaltenkopf von [Bild-]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) und [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) **alle Anhänge als Zip-Datei herunterladen**. Die neuen Export-Funktionen sind hilfreich, wenn Sie anderen Nutzern bestimmte Dateien über die App zur Verfügung stellen möchten.
+Auf [Tabellenseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) können Sie ab sofort alle angezeigten Daten als **Excel-Datei exportieren**. Zudem können Sie über den Spaltenkopf von [Bild-]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) und [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) **alle Anhänge als Zip-Datei herunterladen**. Die neuen Export-Funktionen sind hilfreich, wenn Sie anderen Nutzern bestimmte Dateien über die App zur Verfügung stellen möchten.
 
-Auf [Galerieseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) haben wir die **Einstellungen von Verknüpfungsspalten** ergänzt. So können Sie zum Beispiel festlegen, ob die Nutzer über die Galerieseite bestehende Einträge verknüpfen oder Einträge in einer anderen Tabelle hinzufügen dürfen. Auf [Abfrageseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) aktualisieren sich die Abfrage-Ergebnisse nun sofort, wenn Sie Schaltflächen-Aktionen auslösen, die Veränderungen an den Daten bewirken.
+Auf [Galerieseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}) haben wir die **Einstellungen von Verknüpfungsspalten** ergänzt. So können Sie zum Beispiel festlegen, ob die Nutzer über die Galerieseite bestehende Einträge verknüpfen oder Einträge in einer anderen Tabelle hinzufügen dürfen. Auf [Abfrageseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) aktualisieren sich die Abfrage-Ergebnisse nun sofort, wenn Sie Schaltflächen-Aktionen auslösen, die Veränderungen an den Daten bewirken.
 
 ## Drei Plugins für komplexe Visualisierungen
 
@@ -40,13 +40,13 @@ Ein weiteres Highlight von SeaTable 5.0 sind die neuen [Plugins]({{< relref "hel
 
 ### Organigramm
 
-Mithilfe des Organigramm-Plugins lassen sich Hierarchien zwischen den Datensätzen in einer Tabelle darstellen, z. B. Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt](https://seatable.io/projektstrukturplan-vorlage/). Um die Abhängigkeiten der Datensätze zu visualisieren, brauchen Sie eine [Link-Spalte](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), die auf ein und dieselbe Tabelle referiert. Der Eintrag, mit dem Sie eine andere Zeile derselben Tabelle verlinken, wird als übergeordneter Datensatz dargestellt.
+Mithilfe des Organigramm-Plugins lassen sich Hierarchien zwischen den Datensätzen in einer Tabelle darstellen, z. B. Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt]({{< relref "templates/projects/work-breakdown-structure" >}}). Um die Abhängigkeiten der Datensätze zu visualisieren, brauchen Sie eine [Link-Spalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), die auf ein und dieselbe Tabelle referiert. Der Eintrag, mit dem Sie eine andere Zeile derselben Tabelle verlinken, wird als übergeordneter Datensatz dargestellt.
 
 ![Organigramm-Plugin](Organigramm-Plugin.png)
 
 ### Tabellenbeziehungen
 
-Besonders wenn sich viele Tabellen mit Tausenden Zeilen in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des neuen Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind. Dabei werden nicht nur direkte Verbindungen über [Link-Spalten](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), sondern auch indirekte Verbindungen über Linkformel-Spalten angezeigt.
+Besonders wenn sich viele Tabellen mit Tausenden Zeilen in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des neuen Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind. Dabei werden nicht nur direkte Verbindungen über [Link-Spalten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), sondern auch indirekte Verbindungen über Linkformel-Spalten angezeigt.
 
 ![Tabellenbeziehungen-Plugin](Table-Relationships-Plugin.png)
 
@@ -88,6 +88,6 @@ Dem **Editor für lange Texte** begegnen Sie an vielen Stellen. Wenn Sie formati
 
 ![Editor für lange Texte in Webformularen](Long-text-editor-in-web-forms.png)
 
-Auch die **Statistiken** kennen Sie von mehreren Stellen in SeaTable: vom [Statistik-Modul](https://seatable.io/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/) in der Base sowie von [individuellen Seiten in Universellen Apps](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). Mit einer überarbeiteten Diagramm-Bibliothek haben wir die Statistiken nun deutlich aufgewertet und vereinheitlicht.
+Auch die **Statistiken** kennen Sie von mehreren Stellen in SeaTable: vom [Statistik-Modul]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) in der Base sowie von [individuellen Seiten in Universellen Apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). Mit einer überarbeiteten Diagramm-Bibliothek haben wir die Statistiken nun deutlich aufgewertet und vereinheitlicht.
 
-Früher konnten Sie Zeilen, die Sie in den [Big-Data-Speicher]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) verschoben hatten, nicht über Snapshots wiederherstellen. Um unerwünschtem Datenverlust vorzubeugen, gibt es nun die Option, bei der [Wiederherstellung von Snapshots](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) auch den Big-Data-Speicher der damaligen Version wiederherzustellen.
+Früher konnten Sie Zeilen, die Sie in den [Big-Data-Speicher]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) verschoben hatten, nicht über Snapshots wiederherstellen. Um unerwünschtem Datenverlust vorzubeugen, gibt es nun die Option, bei der [Wiederherstellung von Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) auch den Big-Data-Speicher der damaligen Version wiederherzustellen.

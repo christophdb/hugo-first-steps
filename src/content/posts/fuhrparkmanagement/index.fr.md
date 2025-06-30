@@ -73,7 +73,7 @@ Comme vous le savez probablement, vous devez respecter le **règlement général
 
 {{< warning headline="Remarque" text="Les systèmes modernes peuvent par exemple localiser les véhicules pour planifier les itinéraires et établir **des profils de déplacement** précis. De même, l'**utilisation des cartes de carburant** permet de tirer des conclusions sur les trajets, la consommation et le mode de conduite." />}}
 
-Il est nécessaire, surtout pour des raisons fiscales, que vous puissiez suivre l'**utilisation** concrète **des véhicules**. Quand quels collaborateurs ont-ils utilisé quelles voitures de société ? Et très important : les trajets étaient-ils de nature professionnelle ou privée ? Pour documenter ces informations avec soin et conformément au RGPD, un [carnet de route numérique](https://seatable.io/fr/digitales-fahrtenbuch-fuehren/) s'impose.
+Il est nécessaire, surtout pour des raisons fiscales, que vous puissiez suivre l'**utilisation** concrète **des véhicules**. Quand quels collaborateurs ont-ils utilisé quelles voitures de société ? Et très important : les trajets étaient-ils de nature professionnelle ou privée ? Pour documenter ces informations avec soin et conformément au RGPD, un [carnet de route numérique]({{< relref "posts/202503-fahrtenbuch" >}}) s'impose.
 
 En outre, vous devez contrôler deux fois par an les permis de conduire des conducteurs afin de vous assurer qu'ils **sont valables**. Pour ce faire, vous pouvez non seulement examiner les permis de conduire, mais aussi les scanner ou les photocopier. Là encore, la gestion de la flotte de véhicules génère de nombreuses données sensibles que vous devez conserver de manière responsable.
 

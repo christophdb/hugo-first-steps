@@ -12,7 +12,7 @@ seo:
 
 SeaTable ist die ultimative Lösung für Datenmanagement und Online-Zusammenarbeit. Mit seinen vielfältigen Feldtypen, Organisations-, Gruppen-, Teammanagement- und Kollaborationsfunktionen sowie zahlreichen Vorlagen und Plugins entfesselt SeaTable die volle Produktivität Ihres Teams.
 
-Wir freuen uns, SeaTable in der Version 1.2 in den Produktivbetrieb zu übernehmen. SeaTable 1.2 hält einige wichtige Aktualisierungen in Bezug auf Funktionalität und Benutzererfahrung für Sie bereit. Die vollständige Liste der Änderungen finden Sie im [Changelog](https://seatable.io/docs/changelog/version-1-2/). In diesem Release Note stellen wir Ihnen einige der aufregendsten neuen Funktionen vor.
+Wir freuen uns, SeaTable in der Version 1.2 in den Produktivbetrieb zu übernehmen. SeaTable 1.2 hält einige wichtige Aktualisierungen in Bezug auf Funktionalität und Benutzererfahrung für Sie bereit. Die vollständige Liste der Änderungen finden Sie im [Changelog]({{< relref "pages/changelog" >}}). In diesem Release Note stellen wir Ihnen einige der aufregendsten neuen Funktionen vor.
 
 ## Mehr Farben und Symbole auf der Startseite
 
@@ -30,7 +30,7 @@ In den Kontextmenüs der Spaltentypen Datei und Bild finden Sie die Funktion “
 
 ## Reise in die Vergangenheit – Snapshots
 
-In SeaTable haben Sie immer den Überblick über die Vorgänge in Ihren Bases. Das Log listet alle Änderungen, Ergänzungen und Löschungen von Datensätzen sowie alle anderen Vorgänge in einer Base auf. Darüber hinaus erstellt SeaTable automatisch alle 24 Stunden [Snapshots von Bases](https://seatable.io/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/), in denen aktiv gearbeitet wird.
+In SeaTable haben Sie immer den Überblick über die Vorgänge in Ihren Bases. Das Log listet alle Änderungen, Ergänzungen und Löschungen von Datensätzen sowie alle anderen Vorgänge in einer Base auf. Darüber hinaus erstellt SeaTable automatisch alle 24 Stunden [Snapshots von Bases]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}), in denen aktiv gearbeitet wird.
 
 Ein Snapshot erfasst den Zustand einer Base zum Zeitpunkt seiner Erstellung. Mit anderen Worten: Snapshots sind im Grunde Maschinen, um in die Vergangenheit zu reisen. Sie möchten sehen, wie eine Base vor drei Tagen aussah? Vergessen Sie das Log, benutzen Sie einen Snapshot!
 

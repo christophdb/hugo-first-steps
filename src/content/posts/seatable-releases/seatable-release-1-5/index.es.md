@@ -12,7 +12,7 @@ seo:
 
 Hoy hemos actualizado cloud.seatable.io a la versión 1.5 de SeaTable. Con el próximo inicio de sesión, todos los usuarios se beneficiarán de nuevas e interesantes características y de una serie de mejoras en la interfaz y en las funciones existentes. A primera vista, notará los numerosos cambios menores y mayores en el editor de tablas, lo que se traduce en una mayor eficiencia del flujo de trabajo y una mejor experiencia del usuario. Los nuevos permisos de uso compartido personalizados proporcionan más control y flexibilidad a la hora de trabajar en colaboración en las bases. Las opciones de personalización mejoradas hacen de los formularios web de SeaTable una herramienta aún más versátil para la recogida de datos.
 
-La lista completa de cambios se puede encontrar, como siempre, en [el registro de cambios de SeaTable](https://seatable.io/docs/changelog/version-1-5/?lang=auto). Esta nota de lanzamiento presenta los cambios más importantes y emocionantes de esta nueva versión.
+La lista completa de cambios se puede encontrar, como siempre, en [el registro de cambios de SeaTable]({{< relref "pages/changelog" >}}?lang=auto). Esta nota de lanzamiento presenta los cambios más importantes y emocionantes de esta nueva versión.
 
 ## Editor de tablas mejorado
 
@@ -58,7 +58,7 @@ Imagina que quieres compartir una base con los miembros de tu equipo con diferen
 
 ![SeaTable 1.5 ahora es compatible con los permisos de uso compartido personalizados](Custom_Sharing_Permission.png)
 
-En la nueva versión introducimos permisos de liberación definidos por el usuario. Gracias a ellos, el escenario que acabamos de mencionar es posible sin muchos dolores de cabeza. Un permiso de uso compartido personalizado consiste en derechos de acceso individuales para todas las tablas y vistas de una base. Con un permiso de uso compartido personalizado, puede, por ejemplo, conceder acceso de lectura a una tabla pero ampliar el acceso de lectura y escritura a otra tabla de la base. Pero eso no es todo: las acciones personalizadas también pueden especificarse a nivel de vista. Por lo tanto, puede conceder acceso de lectura y escritura a una vista específica de una tabla, pero de sólo lectura a la vista por defecto. Si no quiere conceder acceso a una tabla o vista, también es posible. Simplemente no conceda acceso de lectura ni de escritura. Y lo mejor de todo es que puedes definir tantos [permisos de uso compartido](https://seatable.io/es/docs/handbuch/zusammenarbeit/freigaben/) personalizados como quieras para cada base. ¿Ha estado anhelando una gestión de permisos más granular en SeaTable? ¡Ahora lo tienes!
+En la nueva versión introducimos permisos de liberación definidos por el usuario. Gracias a ellos, el escenario que acabamos de mencionar es posible sin muchos dolores de cabeza. Un permiso de uso compartido personalizado consiste en derechos de acceso individuales para todas las tablas y vistas de una base. Con un permiso de uso compartido personalizado, puede, por ejemplo, conceder acceso de lectura a una tabla pero ampliar el acceso de lectura y escritura a otra tabla de la base. Pero eso no es todo: las acciones personalizadas también pueden especificarse a nivel de vista. Por lo tanto, puede conceder acceso de lectura y escritura a una vista específica de una tabla, pero de sólo lectura a la vista por defecto. Si no quiere conceder acceso a una tabla o vista, también es posible. Simplemente no conceda acceso de lectura ni de escritura. Y lo mejor de todo es que puedes definir tantos [permisos de uso compartido]({{< relref "help/startseite/freigaben" >}}) personalizados como quieras para cada base. ¿Ha estado anhelando una gestión de permisos más granular en SeaTable? ¡Ahora lo tienes!
 
 ## Formularios web más flexibles
 
@@ -72,6 +72,6 @@ Cruzamos los dedos para que la pandemia de Corona sea pronto algo para los libro
 
 ## Otras mejoras
 
-En esta nota de la versión sólo se comentan en detalle los cambios más importantes. El registro de cambios contiene el historial completo de cambios. Echa un vistazo allí! Entre las mejoras menores que vale la pena mencionar están los disparadores de tiempo para los scripts de Python (véase [la nota de lanzamiento de SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})) y la eliminación de los problemas de rendimiento cuando se manejan conjuntos más grandes de filas en el editor de tablas.
+En esta nota de la versión sólo se comentan en detalle los cambios más importantes. El registro de cambios contiene el historial completo de cambios. Echa un vistazo allí! Entre las mejoras menores que vale la pena mencionar están los disparadores de tiempo para los scripts de Python (véase [la nota de lanzamiento de SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) y la eliminación de los problemas de rendimiento cuando se manejan conjuntos más grandes de filas en el editor de tablas.
 
 Obtenga una cuenta SeaTable para su equipo y utilice SeaTable de forma permanente y gratuita. Agradecemos sus opiniones y comentarios en el [foro](https://forum.seatable.com/).

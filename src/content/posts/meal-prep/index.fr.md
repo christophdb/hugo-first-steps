@@ -9,7 +9,7 @@ seo:
     description:
 ---
 
-Manger le moins cher et le plus sain possible en peu de temps - c'est exactement ce que promet une tendance venue des États-Unis. En effet, dans notre quotidien stressant, une **alimentation équilibrée** est souvent négligée. Au lieu de cela, nous avons souvent recours à la restauration rapide ou à des snacks malsains, par exemple pendant les pauses déjeuner, afin d'apaiser nos fringales. Dans cet article, vous découvrirez ce qu'est le Meal **Prep**, ce à quoi vous devez faire attention en faisant du Meal Prepping et comment vous pouvez établir un [plan hebdomadaire Meal Prep](https://seatable.io/fr/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) intelligent.
+Manger le moins cher et le plus sain possible en peu de temps - c'est exactement ce que promet une tendance venue des États-Unis. En effet, dans notre quotidien stressant, une **alimentation équilibrée** est souvent négligée. Au lieu de cela, nous avons souvent recours à la restauration rapide ou à des snacks malsains, par exemple pendant les pauses déjeuner, afin d'apaiser nos fringales. Dans cet article, vous découvrirez ce qu'est le Meal **Prep**, ce à quoi vous devez faire attention en faisant du Meal Prepping et comment vous pouvez établir un [plan hebdomadaire Meal Prep]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) intelligent.
 
 ## Qu'est-ce que Meal Prep exactement ?
 
@@ -65,7 +65,7 @@ Faites preuve de créativité et veillez à ce que les plats soient aussi varié
 
 ## Étape par étape pour une préparation parfaite des repas
 
-Pour que la mission Meal Prep soit un succès, vous avez d'abord besoin d'un [plan alimentaire](https://seatable.io/fr/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Les **cinq étapes** suivantes vous aideront à le faire.
+Pour que la mission Meal Prep soit un succès, vous avez d'abord besoin d'un [plan alimentaire]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Les **cinq étapes** suivantes vous aideront à le faire.
 
 ![Voici comment réussir votre Meal Prep en cinq étapes simples.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 

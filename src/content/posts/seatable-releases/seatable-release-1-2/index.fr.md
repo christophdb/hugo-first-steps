@@ -12,7 +12,7 @@ seo:
 
 SeaTable est la solution ultime pour la gestion des données et la collaboration en ligne. Avec ses multiples types de champs, ses fonctions d'organisation, de groupe, de gestion d'équipe et de collaboration, ainsi que ses nombreux modèles et plug-ins, SeaTable libère la pleine productivité de votre équipe.
 
-Nous sommes heureux d'annoncer la mise en production de la version 1.2 de SeaTable. SeaTable 1.2 contient plusieurs mises à jour importantes en termes de fonctionnalités et d'expérience utilisateur. Vous trouverez la liste complète des changements dans le [changelog](https://seatable.io/fr/docs/changelog/version-1-2/). Dans cette note de mise à jour, nous vous présentons quelques-unes des nouvelles fonctionnalités les plus passionnantes.
+Nous sommes heureux d'annoncer la mise en production de la version 1.2 de SeaTable. SeaTable 1.2 contient plusieurs mises à jour importantes en termes de fonctionnalités et d'expérience utilisateur. Vous trouverez la liste complète des changements dans le [changelog]({{< relref "pages/changelog" >}}). Dans cette note de mise à jour, nous vous présentons quelques-unes des nouvelles fonctionnalités les plus passionnantes.
 
 ## Plus de couleurs et d'icônes sur la page d'accueil
 
@@ -30,7 +30,7 @@ Dans les menus contextuels des types de colonnes Fichier et Image, vous trouvere
 
 ## Voyage dans le passé - Instantanés
 
-Dans SeaTable, vous avez toujours une vue d'ensemble de ce qui se passe dans vos bases. Le journal répertorie toutes les modifications, ajouts et suppressions d'enregistrements ainsi que toutes les autres opérations effectuées dans une base. En outre, SeaTable crée automatiquement toutes les 24 heures [des instantanés des bases](https://seatable.io/fr/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) dans lesquelles un travail actif est effectué.
+Dans SeaTable, vous avez toujours une vue d'ensemble de ce qui se passe dans vos bases. Le journal répertorie toutes les modifications, ajouts et suppressions d'enregistrements ainsi que toutes les autres opérations effectuées dans une base. En outre, SeaTable crée automatiquement toutes les 24 heures [des instantanés des bases]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) dans lesquelles un travail actif est effectué.
 
 Un snapshot capture l'état d'une base au moment de sa création. En d'autres termes, les snapshots sont en fait des machines permettant de remonter le temps. Vous voulez voir à quoi ressemblait une base il y a trois jours ? Oubliez le log, utilisez un snapshot !
 

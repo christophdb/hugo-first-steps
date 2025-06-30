@@ -10,19 +10,19 @@ seo:
     description:
 ---
 
-Der Schwerpunkt von SeaTable 5.1 liegt auf der Verbesserung bestehender Funktionen und ihrer Optimierung für praktische Anwendungsfälle. Insbesondere der **App Builder**, der mit der Version 5.0 offiziell an den Start ging, hat besondere Aufmerksamkeit erhalten und ermöglicht nun noch leistungsfähigere Web-Anwendungen. Aber auch Benutzer des **Big-Data-Speichers** profitieren von umfangreichen Verbesserungen. Das neue **Baum-Plugin** bietet eine weitere Visualisierungsmöglichkeit für hierarchische Daten. Über alle wichtigen Neuerungen berichten wir in diesen Release Notes. Im [Changelog](https://seatable.io/docs/changelog/version-5-1/) finden Sie – wie immer – die vollständige Liste der Änderungen.
+Der Schwerpunkt von SeaTable 5.1 liegt auf der Verbesserung bestehender Funktionen und ihrer Optimierung für praktische Anwendungsfälle. Insbesondere der **App Builder**, der mit der Version 5.0 offiziell an den Start ging, hat besondere Aufmerksamkeit erhalten und ermöglicht nun noch leistungsfähigere Web-Anwendungen. Aber auch Benutzer des **Big-Data-Speichers** profitieren von umfangreichen Verbesserungen. Das neue **Baum-Plugin** bietet eine weitere Visualisierungsmöglichkeit für hierarchische Daten. Über alle wichtigen Neuerungen berichten wir in diesen Release Notes. Im [Changelog]({{< relref "pages/changelog" >}}) finden Sie – wie immer – die vollständige Liste der Änderungen.
 
-Ebenfalls zu SeaTable 5.1 gehört eine aktualisierte Python Pipeline. Zwei [Python Pakete](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) für die Bearbeitung von PDF-Dateien schaffen neue Möglichkeiten für die Dokumentenverwaltung. Ein erweitertes Airtable-Converter-Modul macht die Migration von [Airtable Bases zu SeaTable](https://seatable.io/en/docs/import-von-daten/migration-von-airtable-bases-zu-seatable/) zukünftig noch einfacher.
+Ebenfalls zu SeaTable 5.1 gehört eine aktualisierte Python Pipeline. Zwei [Python Pakete](https://developer.seatable.io/scripts/python/common_questions/#list-of-libraries-supported-in-the-cloud-environment) für die Bearbeitung von PDF-Dateien schaffen neue Möglichkeiten für die Dokumentenverwaltung. Ein erweitertes Airtable-Converter-Modul macht die Migration von [Airtable Bases zu SeaTable]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}) zukünftig noch einfacher.
 
 Heute Morgen haben wir SeaTable Cloud auf Version 5.1 aktualisiert. Wir empfehlen allen Administratoren von selbstgehosteten Systemen, uns dies gleichzutun, um in den Genuss der neuen Funktionen und Verbesserungen zu kommen. Das Image von SeaTable 5.1 steht im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download bereit.
 
 ## Mehr Funktionen im App Builder
 
-Die [Einstellungen der App](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) haben unsere Entwickler überarbeitet und übersichtlicher gemacht. Dabei ist unter anderem ein separates Menü für das Branding der App hinzugekommen, in dem sich der Modus, das Farbschema und das App-Icon auswählen lassen. Der ‘Seite hinzufügen’-Assistent zeigt sich ebenfalls in einem neuen, zweiseitigen Layout.
+Die [Einstellungen der App]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) haben unsere Entwickler überarbeitet und übersichtlicher gemacht. Dabei ist unter anderem ein separates Menü für das Branding der App hinzugekommen, in dem sich der Modus, das Farbschema und das App-Icon auswählen lassen. Der ‘Seite hinzufügen’-Assistent zeigt sich ebenfalls in einem neuen, zweiseitigen Layout.
 
 Stichwort Seiten: Alle Seitentypen bieten mit SeaTable 5.1 eine Vorschaufunktion für Bilddateien in [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Solche Thumbnails boten bisher nur [Bild-Spalten]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}).) PDF-, Office- und Textdateien werden weiterhin mit einem Datei-Icon dargestellt.
 
-Mit Blick auf die einzelnen Seitentypen stechen die [individuelle Seite](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/) und die [Seite für einzelne Datensätze](https://seatable.io/docs/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps/) mit den meisten Verbesserungen heraus. Aber auch andere Seitentypen können sich über inkrementelle Verbesserungen freuen.
+Mit Blick auf die einzelnen Seitentypen stechen die [individuelle Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) und die [Seite für einzelne Datensätze]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}}) mit den meisten Verbesserungen heraus. Aber auch andere Seitentypen können sich über inkrementelle Verbesserungen freuen.
 
 ### Seitentyp Individuelle Seite
 
@@ -34,7 +34,7 @@ Mehr Flexibilität bietet Version 5.1 auch beim **Vergrößern und Verschieben v
 
 ### Seitentyp Einzelner Datensatz
 
-Dieser Seitentyp unterstützt in SeaTable 5.1 – genauso wie Tabellen- und Abfrageseiten – die [Ausführung von Aktionen per Schaltfläche](https://seatable.io/docs/andere-spalten/die-schaltflaeche/). Ob Erstellung eines PDF-Dokuments, Aufruf einer Webseite, Veränderung eines Datensatzes oder Ausführung eines Skripts – all diese **Schaltflächen-Aktionen** können Sie nun auch hier starten. Eine [Bearbeitungsberechtigung für die Seite](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) ist dafür nicht notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen festlegen.
+Dieser Seitentyp unterstützt in SeaTable 5.1 – genauso wie Tabellen- und Abfrageseiten – die [Ausführung von Aktionen per Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Ob Erstellung eines PDF-Dokuments, Aufruf einer Webseite, Veränderung eines Datensatzes oder Ausführung eines Skripts – all diese **Schaltflächen-Aktionen** können Sie nun auch hier starten. Eine [Bearbeitungsberechtigung für die Seite]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) ist dafür nicht notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen festlegen.
 
 Die Toolbar bietet einen neuen **QR-Code-Generator**. Der QR-Code enthält den Link auf den aktuell angezeigten Eintrag. Auf einem Gegenstand oder Gerät angebracht, lassen sich über ein Tablet oder Smartphone ohne jede Tastatureingabe alle Daten in der App abrufen. Dadurch wird beispielsweise die Inventarverwaltung noch einfacher.
 
@@ -44,11 +44,11 @@ Zudem bietet dieser Seitentyp in SeaTable 5.1 mehr optische Gestaltungsoptionen.
 
 ### Seitentyp Tabelle
 
-In Version 5.0 war die Exportfunktionalität auf [Tabellenseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) immer aktiviert. Für App-Admins gab es keine Möglichkeit, **den Export einer Tabelle in eine XLSX-Datei zu verhindern**. In SeaTable 5.1 tragen wir dem Wunsch nach mehr Kontrolle Rechnung. In der neuen Version ist die Exportfunktion standardmäßig deaktiviert; über den Regler “Enable export to Excel” kann sie aktiviert werden. Darüber hinaus haben wir einen wichtigen Bug beseitigt, der dazu führte, dass voreingestellte Filter beim Export nicht gegriffen haben.
+In Version 5.0 war die Exportfunktionalität auf [Tabellenseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) immer aktiviert. Für App-Admins gab es keine Möglichkeit, **den Export einer Tabelle in eine XLSX-Datei zu verhindern**. In SeaTable 5.1 tragen wir dem Wunsch nach mehr Kontrolle Rechnung. In der neuen Version ist die Exportfunktion standardmäßig deaktiviert; über den Regler “Enable export to Excel” kann sie aktiviert werden. Darüber hinaus haben wir einen wichtigen Bug beseitigt, der dazu führte, dass voreingestellte Filter beim Export nicht gegriffen haben.
 
 ### Seitentyp Zeitstrahl
 
-Der Seitentyp [Zeitstrahl](https://seatable.io/docs/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps/) bietet nun eine **Gruppierungsfunktion**, um mehr Kontrolle über die Darstellung der Daten zu haben. Wenn eine Gruppierung aktiv ist, dann kann die Anzeige der Balken auch in **Swimlanes** erfolgen. Gerade bei nicht überlappenden Aktivitäten führt diese Ansichtsoption zu einer kompakten, übersichtlichen Darstellung.
+Der Seitentyp [Zeitstrahl]({{< relref "help/app-builder/seitentypen-in-universellen-apps/zeitstrahlseiten-in-universellen-apps" >}}) bietet nun eine **Gruppierungsfunktion**, um mehr Kontrolle über die Darstellung der Daten zu haben. Wenn eine Gruppierung aktiv ist, dann kann die Anzeige der Balken auch in **Swimlanes** erfolgen. Gerade bei nicht überlappenden Aktivitäten führt diese Ansichtsoption zu einer kompakten, übersichtlichen Darstellung.
 
 ### Seitentyp Abfrage
 
@@ -64,7 +64,7 @@ Fast ebenso auffällig ist der **gelbe Warnhinweis**, der in normalen Ansichten 
 
 ![Linked archived records dialog in SeaTable 5.1](LinkedArchivedRows.png)
 
-Auf vielfachen Nutzerwunsch steht die **Datenverarbeitungsoperation** [Vergleichen und verknüpfen](https://seatable.io/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) nun auch in Big-Data-Ansichten zur Verfügung. Diese Operation kann Einträge im Big-Data-Speicher mit Zeilen in jeder anderen Tabelle verknüpfen, egal ob die Zeilen der verknüpften Tabelle in der Base oder im Big-Data-Speicher gespeichert sind.
+Auf vielfachen Nutzerwunsch steht die **Datenverarbeitungsoperation** [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) nun auch in Big-Data-Ansichten zur Verfügung. Diese Operation kann Einträge im Big-Data-Speicher mit Zeilen in jeder anderen Tabelle verknüpfen, egal ob die Zeilen der verknüpften Tabelle in der Base oder im Big-Data-Speicher gespeichert sind.
 
 {{< warning headline="Hinweis" text="Die Ausführungsgeschwindigkeit ist deutlich langsamer als die gleiche Operation in einer normalen Ansicht, weil bei der Ausführung in normalen Ansichten bereits alle Zeileninformationen im Arbeitsspeicher liegen." />}}
 
@@ -72,11 +72,11 @@ Um die Nachvollziehbarkeit von Änderungen an Zeilen im Big-Data-Speicher zu erh
 
 ### Zusammenspiel von Big Data, Apps und Seitendesign-Plugin
 
-Apps können zwar auf Daten im Big-Data-Speicher zugreifen, in Apps erstellte Einträge konnten aber nicht direkt dort gespeichert werden. Neue Einträge wurden grundsätzlich immer in der Base gespeichert. Diese funktionale Lücke haben wir mit SeaTable 5.1 geschlossen. Die Base bleibt der **Standard-Speicherort für neue Einträge**; diese Einstellung lässt sich aber in den [App-Einstellungen](https://seatable.io/docs/universelle-apps/einstellungen-einer-universellen-app-aendern/) ändern. Wie der Screenshot zeigt, können Sie tabellengenau festlegen, ob neue Zeilen in die Base oder in den Big-Data-Speicher geschrieben werden sollen.
+Apps können zwar auf Daten im Big-Data-Speicher zugreifen, in Apps erstellte Einträge konnten aber nicht direkt dort gespeichert werden. Neue Einträge wurden grundsätzlich immer in der Base gespeichert. Diese funktionale Lücke haben wir mit SeaTable 5.1 geschlossen. Die Base bleibt der **Standard-Speicherort für neue Einträge**; diese Einstellung lässt sich aber in den [App-Einstellungen]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) ändern. Wie der Screenshot zeigt, können Sie tabellengenau festlegen, ob neue Zeilen in die Base oder in den Big-Data-Speicher geschrieben werden sollen.
 
 ![New big data management in SeaTable's App Builder](BigDataManagement_AppBuilder.png)
 
-Doch nicht nur die Integration mit den Apps haben wir verbessert, auch das [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) bietet neue Möglichkeiten. Das Plugin hat nun auf Zugriff auf den Big-Data-Speicher und kann **Dokumente für Zeilen im Big-Data-Speicher erstellen**.
+Doch nicht nur die Integration mit den Apps haben wir verbessert, auch das [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) bietet neue Möglichkeiten. Das Plugin hat nun auf Zugriff auf den Big-Data-Speicher und kann **Dokumente für Zeilen im Big-Data-Speicher erstellen**.
 
 ## Das neue Baum-Plugin
 
@@ -90,11 +90,11 @@ Hierarchien über bis zu drei Ebenen, das heißt Daten aus drei Tabellen, lassen
 
 Auch in dieser Version gibt es wieder mehr Neuigkeiten, als wir in überschaubarem Umfang in diesen Release Notes darstellen können. Daher folgen in aller Kürze noch ein paar weitere Features, die aus unserer Sicht eine Erwähnung verdienen.
 
-Der **Formel-Editor** erhält eine neue Funktion: **rowid()** gibt die ID der Zeile zurück. Diese lässt sich dann z. B. bei Schaltflächen-Aktionen oder Automationen verwenden. Aber nicht nur in der [Formel-Spalte](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/), sondern auch beim Spaltentyp Formel für Verknüpfungen gibt es Neuigkeiten: [Lookups](https://seatable.io/docs/verknuepfungen/die-lookup-funktion/) bieten nun eine Duplikatsprüfung. Wenn die Option **Duplikate nicht anzeigen** aktiviert ist, dann werden in jeder Zelle der Spalte nur einzigartige Werte angezeigt.
+Der **Formel-Editor** erhält eine neue Funktion: **rowid()** gibt die ID der Zeile zurück. Diese lässt sich dann z. B. bei Schaltflächen-Aktionen oder Automationen verwenden. Aber nicht nur in der [Formel-Spalte]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), sondern auch beim Spaltentyp Formel für Verknüpfungen gibt es Neuigkeiten: [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) bieten nun eine Duplikatsprüfung. Wenn die Option **Duplikate nicht anzeigen** aktiviert ist, dann werden in jeder Zelle der Spalte nur einzigartige Werte angezeigt.
 
 ![Color Picker introduced SeaTable 5.1](ColorPicker.png)
 
-In SeaTable 5.1 haben wir die Syntax-Hervorhebung im integrierten **Python Editor** verbessert, damit Sie bei [Skripten](https://seatable.io/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) noch leichter den Überblick behalten. Auch haben wir einen Bug bei der automatischen Einrückung beseitigt.
+In SeaTable 5.1 haben wir die Syntax-Hervorhebung im integrierten **Python Editor** verbessert, damit Sie bei [Skripten]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) noch leichter den Überblick behalten. Auch haben wir einen Bug bei der automatischen Einrückung beseitigt.
 
 Ein neuer Color Picker, über den sich in Statistiken sowie auf manchen Seitentypen im App Builder Farben auswählen lassen, führt schneller zur Wunschfarbe. Der Picker ist jetzt übersichtlicher und zeigt die zuletzt verwendeten Farben an.
 

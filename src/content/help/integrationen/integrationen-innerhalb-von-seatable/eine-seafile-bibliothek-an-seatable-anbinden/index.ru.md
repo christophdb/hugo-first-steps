@@ -55,4 +55,4 @@ Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** a
 
 ## Возможности интеграции
 
-В принципе, вы можете подключить к SeaTable как самостоятельно размещенные, так и размещенные серверы Seafile. Если вы хотите самостоятельно разместить сервер Seafile, [обращайтесь в наш отдел продаж](https://seatable.io/ru/kontakt/). Для клиентов SeaTable Dedicated мы предлагаем совместный хостинг Seafile.
+В принципе, вы можете подключить к SeaTable как самостоятельно размещенные, так и размещенные серверы Seafile. Если вы хотите самостоятельно разместить сервер Seafile, [обращайтесь в наш отдел продаж]({{< relref "pages/contact" >}}). Для клиентов SeaTable Dedicated мы предлагаем совместный хостинг Seafile.

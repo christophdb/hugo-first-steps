@@ -18,4 +18,4 @@ url: '/ru/pomoshch/warum-kann-ich-die-erste-spalte-meiner-tabelle-nicht-loeschen
 
 ## Что если я хочу использовать другую первую колонку?
 
-Если вы хотите использовать другой столбец в качестве первого столбца, вы можете [настроить]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) столбец и просто [скопировать и вставить](https://seatable.io/ru/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste") данные из предыдущего первого столбца в новый столбец.
+Если вы хотите использовать другой столбец в качестве первого столбца, вы можете [настроить]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) столбец и просто [скопировать и вставить]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) данные из предыдущего первого столбца в новый столбец.

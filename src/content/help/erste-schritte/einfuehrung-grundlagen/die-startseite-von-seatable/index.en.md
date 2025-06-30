@@ -19,7 +19,7 @@ The header of the home page contains four elements. These are:
 - **SeaTable logo** - click to refresh the home page.
 - **Search field** - allows searching for one or more Bases by their names.
 - **Bell** - displays general [notifications]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}).
-- **Avatar** - opens a menu: The current team limits are displayed here, as well as links to the [personal settings](https://seatable.io/en/docs/persoenliche-einstellungen/persoenliche-einstellungen/) and the [team settings](https://seatable.io/en/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/) if you are a team administrator. The logout is also located here.
+- **Avatar** - opens a menu: The current team limits are displayed here, as well as links to the [personal settings]({{< relref "help/startseite/persoenliche-einstellungen" >}}) and the [team settings]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}) if you are a team administrator. The logout is also located here.
 
 ## Page navigation
 
@@ -32,4 +32,4 @@ The workspace contains all the bases you have access to. The workspace is divide
 - **My Bases** - Bases that you have created and to which only you have access (as long as you do not give any [shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) ).
 - **Favorites** - Bases that you have marked as [favorites]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}}).
 - **Released for me** - all the bases that others have shared with you.
-- **Groups** - all the [groups](https://seatable.io/en/docs/arbeiten-mit-gruppen/gruppen/) you are a member of.
+- **Groups** - all the [groups]({{< relref "help/startseite/gruppen" >}}) you are a member of.

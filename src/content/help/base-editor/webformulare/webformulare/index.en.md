@@ -73,7 +73,7 @@ To check how the form looks to the recipient, click the **Web Form Page** button
 
 ### Release form
 
-To make the form accessible to others, you need a **link**. You can obtain the link for the form in the web form editor via the {{< seatable-icon icon="dtable-icon-share" >}} **Share** button. You can use the **automatically generated link** or create **your own links** and extend them with [pre-filled values](https://seatable.io/en/docs/webformulare/formularfelder-per-url-vorbefuellen/).
+To make the form accessible to others, you need a **link**. You can obtain the link for the form in the web form editor via the {{< seatable-icon icon="dtable-icon-share" >}} **Share** button. You can use the **automatically generated link** or create **your own links** and extend them with [pre-filled values]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}).
 
 ![New form link dialog in SeaTable 4.3](images/Formularlink-Dialog.gif)
 

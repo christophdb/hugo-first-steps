@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-SeaTable 3.0 ist da! Das dritte Major Release von SeaTable bietet die Online-Bearbeitung von Office Dokumenten, eine automatische Datenvalidierung, mehr Funktionen für gemeinsame Datensätzen und eine neue Serverkomponente für die effizientere Speicherung von Bases. Über die vielen weiteren Detailverbesserungen und Bugfixes in der neuen Version gibt – wie immer – das [Changelog](https://seatable.io/docs/changelog/version-3-0/) Auskunft. [SeaTable Cloud Benutzern](https://cloud.seatable.io/) stehen die neuen Funktionen ab sofort zur Verfügung. Das Image für SeaTable 3.0 wurde heute Nacht auf [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise/tags) bereitgestellt.  
+SeaTable 3.0 ist da! Das dritte Major Release von SeaTable bietet die Online-Bearbeitung von Office Dokumenten, eine automatische Datenvalidierung, mehr Funktionen für gemeinsame Datensätzen und eine neue Serverkomponente für die effizientere Speicherung von Bases. Über die vielen weiteren Detailverbesserungen und Bugfixes in der neuen Version gibt – wie immer – das [Changelog]({{< relref "pages/changelog" >}}) Auskunft. [SeaTable Cloud Benutzern](https://cloud.seatable.io/) stehen die neuen Funktionen ab sofort zur Verfügung. Das Image für SeaTable 3.0 wurde heute Nacht auf [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise/tags) bereitgestellt.  
 Neben den funktionalen Verbesserungen in der SeaTable App gibt es SeaTable Cloud Benutzer eine weitere Neuigkeit: Eine neue Teamverwaltung mit erweiterten Funktionen und verbessertem Design macht die Verwaltung von kleinen und insbesondere größeren Teams deutlich einfacher. Mehr zur neuen Teamverwaltung finden Sie im Artikel [Die neue Teamverwaltung]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Automatische Datenvalidierung
@@ -65,6 +65,6 @@ Darüber hinaus gibt es zahlreiche weitere Verbesserungen, von denen wir hier di
 
 Die Menüstruktur im Kopf der Base wurde erweitert und überarbeitet. Die offensichtlichste Änderung ist der Avatar, der nun analog zur Homepage oben rechts angezeigt wird. Um für den Avatar Platz zu machen, ist die Drei-Punkte-Schaltfläche eine Zeile nach unten gewandert. Das Menü, dass sich hinter dieser Schaltfläche befindet, wurde überarbeitet. Ihrer Wichtigkeit entsprechend wurden beispielsweise die Benachrichtigungs- und Automationsregeln aus diesem Menü heraus gelöst. Sie verfügen nun über Ihr eigenes Icon in der oberen rechten Ecke.
 
-[DTABLE-Dateien](https://seatable.io/docs/handbuch/expertenwissen/dtable-dateiformat/?lang=auto), Exportdateien von Bases, enthalten nun auch Automationsregeln. Das gleiche gilt für die Kopie einer Base in eine andere Gruppe. Dies erspart unnötige manuelle Nacharbeit bei der Übertragung von Bases zwischen Gruppen und SeaTable Servern.
+[DTABLE-Dateien]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), Exportdateien von Bases, enthalten nun auch Automationsregeln. Das gleiche gilt für die Kopie einer Base in eine andere Gruppe. Dies erspart unnötige manuelle Nacharbeit bei der Übertragung von Bases zwischen Gruppen und SeaTable Servern.
 
 Im Kanban Plugin lässt sich nun die Titelspalte auswählen. Der Wert der Titelspalten steht, unabhängig von der Sequenz der Spalten in der Tabelle, ganz oben auf der Kanban Karte.

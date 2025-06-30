@@ -55,7 +55,7 @@ url: '/ru/pomoshch/bases-in-der-teamverwaltung'
 
 ## Корзина для мусора
 
-Все **удаленные базы** попадают в корзину. По истечении **30 дней** базы автоматически удаляются из системы. Однако вы также можете **удалить все** базы в корзине вручную. Как это сделать, вы можете узнать [здесь](https://seatable.io/ru/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/).
+Все **удаленные базы** попадают в корзину. По истечении **30 дней** базы автоматически удаляются из системы. Однако вы также можете **удалить все** базы в корзине вручную. Как это сделать, вы можете узнать [здесь]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 Чтобы восстановить базу, нажмите на соответствующую базу и управляйте ползунком, прежде чем нажать кнопку **Restore Base**.
 
@@ -67,9 +67,9 @@ url: '/ru/pomoshch/bases-in-der-teamverwaltung'
 
 Подробнее о типах релизов читайте в следующих статьях:
 
-- [Освобождение базы для группы](https://seatable.io/ru/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Создание общего ресурса пользователя](https://seatable.io/ru/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Создание индивидуального релиза](https://seatable.io/ru/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
+- [Освобождение базы для группы]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Создание общего ресурса пользователя]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Создание индивидуального релиза]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}})
 
 ## Внешние ссылки и пригласительные ссылки
 
@@ -78,5 +78,5 @@ url: '/ru/pomoshch/bases-in-der-teamverwaltung'
 Более подробную информацию о ссылках на релиз можно найти в следующих статьях:
 
 - [Создать пригласительную ссылку]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Создание внешней ссылки для базы](https://seatable.io/ru/docs/freigabelinks/externer-link-erklaert/)
-- [Различия между пригласительными и внешними ссылками](https://seatable.io/ru/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)
+- [Создание внешней ссылки для базы]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
+- [Различия между пригласительными и внешними ссылками]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}})

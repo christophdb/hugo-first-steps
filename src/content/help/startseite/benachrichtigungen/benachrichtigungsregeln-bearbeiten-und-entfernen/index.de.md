@@ -54,4 +54,4 @@ Grundsätzlich gilt, dass das für eine Benachrichtigungsregel definierte Trigge
 
 ### Weitere hilfreiche Artikel in der Rubrik Benachrichtigungsregeln:
 
-- [Benachrichtigungsregel erstellen](https://seatable.io/docs/benachrichtigungen/benachrichtigungsregel-erstellen/)
+- [Benachrichtigungsregel erstellen]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregel-erstellen" >}})

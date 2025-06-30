@@ -36,7 +36,7 @@ Com a ajuda de **plug-ins**, a visualização da tabela pode ser complementada c
 
 Os plugins permitem-lhe ver os seus dados de diferentes ângulos. O conjunto de dados permanece sempre exactamente o mesmo, apenas a apresentação muda.
 
-Activa-se os plugins através do gestor de plugins, que se abre através do botão {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** no canto superior direito do cabeçalho da base. Pode descobrir [aqui](https://seatable.io/pt/docs/plugins/aktivieren-eines-plugins-in-einer-base/) como adicionar plugins à sua base. Os plugins só são activados para a base aberta. Poderá ter de activar os plugins de novo noutras bases.
+Activa-se os plugins através do gestor de plugins, que se abre através do botão {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** no canto superior direito do cabeçalho da base. Pode descobrir [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) como adicionar plugins à sua base. Os plugins só são activados para a base aberta. Poderá ter de activar os plugins de novo noutras bases.
 
 ![Visão geral de todos os plugins no SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 

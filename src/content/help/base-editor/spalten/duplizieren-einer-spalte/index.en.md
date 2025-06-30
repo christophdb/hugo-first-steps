@@ -16,4 +16,8 @@ Of course, you can duplicate columns in SeaTable. Here you can learn how to do t
 2. Select **Duplicate Column**.
 3. The **duplicated** column appears directly **to the right of the** original column.
 
-{{< warning  headline="No data transfer"  text="Existing values from the original column are **not** copied. However, you can [copy and paste](https://seatable.io/en/docs/arbeiten-in-bases/hinzufuegen-von-daten-per-copy-and-paste/) the data from one column to the other." />}}
+{{< warning  headline="No data transfer" >}}
+
+Existing values from the original column are **not** copied. However, you can [copy and paste]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) the data from one column to the other.
+
+{{< /warning >}}

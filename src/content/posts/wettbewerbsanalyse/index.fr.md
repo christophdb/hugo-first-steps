@@ -130,7 +130,7 @@ Rassemblez des informations complètes sur vos concurrents. Pour ce faire, utili
 
 Prenez le temps d'établir des profils détaillés de vos principaux concurrents.
 
-Comparez et évaluez les données collectées. Pour ce faire, recourez aux **méthodes d'analyse de la concurrence** mentionnées ci-dessus ou choisissez d'autres méthodes d'analyse éprouvées comme l'[analyse SWOT](https://seatable.io/fr/swot-analyse-template/). Celle-ci vous permet d'identifier les forces et les faiblesses de vos concurrents ainsi que les opportunités et les risques sur le marché. Outre l'**analyse VRIO**, l'**analyse comparative** peut également vous aider à évaluer les performances de votre entreprise par rapport à vos concurrents.
+Comparez et évaluez les données collectées. Pour ce faire, recourez aux **méthodes d'analyse de la concurrence** mentionnées ci-dessus ou choisissez d'autres méthodes d'analyse éprouvées comme l'[analyse SWOT]({{< relref "templates/operations/swot-analysis" >}}). Celle-ci vous permet d'identifier les forces et les faiblesses de vos concurrents ainsi que les opportunités et les risques sur le marché. Outre l'**analyse VRIO**, l'**analyse comparative** peut également vous aider à évaluer les performances de votre entreprise par rapport à vos concurrents.
 
 ### 5\. déduire des stratégies
 

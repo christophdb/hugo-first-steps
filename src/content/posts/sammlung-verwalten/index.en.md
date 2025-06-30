@@ -11,7 +11,7 @@ seo:
     description:
 ---
 
-Your **collections** can be ideally **managed** via digital programs and apps. It doesn't matter whether the collection consists of physical items or digital media. The most popular collectibles include coins, stamps, shoes, artwork, toys, trading cards, non-fungible tokens (NFTs), [books](https://seatable.io/en/buecher-katalogisieren/), movies, music (on CD, records) and more. When a collector's passion takes hold, the biggest challenge is often keeping track of everything. This is where the programs that allow you to manage your collection come into play - on your PC or with an app.
+Your **collections** can be ideally **managed** via digital programs and apps. It doesn't matter whether the collection consists of physical items or digital media. The most popular collectibles include coins, stamps, shoes, artwork, toys, trading cards, non-fungible tokens (NFTs), [books]({{< relref "posts/buecher-katalogisieren" >}}), movies, music (on CD, records) and more. When a collector's passion takes hold, the biggest challenge is often keeping track of everything. This is where the programs that allow you to manage your collection come into play - on your PC or with an app.
 
 ![Manage collection of all stamps via a digital tool.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
 
@@ -55,7 +55,7 @@ Manage collection © monticellllo / Adobe Stock
 
 ### Data Crow - Freeware for media management
 
-The [Data Crow](https://www.datacrow.net/) software is particularly suitable for managing collections consisting of media such as [books](https://seatable.io/en/buecher-katalogisieren/), music and images. Here you can create various collections and upload data in AVI, DIVX, XVID, MP3, MP4, OGG, JPG, SVG and PNG format. Data Crow can find further information about the items in your collection online, for example for films via the IMDb rating website. You have the option to share the collection with friends and family and record loans. Data Crow is open source software and is therefore available free of charge for Windows and OS.
+The [Data Crow](https://www.datacrow.net/) software is particularly suitable for managing collections consisting of media such as [books]({{< relref "posts/buecher-katalogisieren" >}}), music and images. Here you can create various collections and upload data in AVI, DIVX, XVID, MP3, MP4, OGG, JPG, SVG and PNG format. Data Crow can find further information about the items in your collection online, for example for films via the IMDb rating website. You have the option to share the collection with friends and family and record loans. Data Crow is open source software and is therefore available free of charge for Windows and OS.
 
 ### GCstar - free collection software
 

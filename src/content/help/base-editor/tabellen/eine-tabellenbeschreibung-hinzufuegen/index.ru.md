@@ -12,7 +12,7 @@ url: '/ru/pomoshch/eine-tabellenbeschreibung-hinzufuegen'
 
 {{< warning  headline="Важное замечание" >}}
 
-Независимо от [роли и полномочий](https://seatable.io/ru/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/), вы также можете редактировать описания таблиц в базах, принадлежащих **группе**. Однако редактировать можно только описание таблиц, которые были [предоставлены]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) вам с **правами на запись**.
+Независимо от [роли и полномочий]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}), вы также можете редактировать описания таблиц в базах, принадлежащих **группе**. Однако редактировать можно только описание таблиц, которые были [предоставлены]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) вам с **правами на запись**.
 
 {{< /warning >}}
 

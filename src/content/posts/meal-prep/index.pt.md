@@ -9,7 +9,7 @@ seo:
     description:
 ---
 
-Mit wenig Zeit möglichst günstig und gesund essen – ein Trend aus den USA verspricht genau das. Denn im stressigen Alltag kommt eine **ausgewogene Ernährung** oft zu kurz. Stattdessen greifen wir zum Beispiel in den Mittagspausen häufig zu Fastfood oder ungesunden Snacks, um unseren Heißhunger zu stillen. In diesem Artikel erfahren Sie, was es mit **Meal Prep** auf sich hat, worauf Sie beim Meal Prepping achten sollten und wie Sie einen smarten [Meal Prep Wochenplan](https://seatable.io/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) erstellen können.
+Mit wenig Zeit möglichst günstig und gesund essen – ein Trend aus den USA verspricht genau das. Denn im stressigen Alltag kommt eine **ausgewogene Ernährung** oft zu kurz. Stattdessen greifen wir zum Beispiel in den Mittagspausen häufig zu Fastfood oder ungesunden Snacks, um unseren Heißhunger zu stillen. In diesem Artikel erfahren Sie, was es mit **Meal Prep** auf sich hat, worauf Sie beim Meal Prepping achten sollten und wie Sie einen smarten [Meal Prep Wochenplan]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) erstellen können.
 
 ## Was genau ist Meal Prep?
 
@@ -65,7 +65,7 @@ Seien Sie kreativ und sorgen Sie für möglichst abwechslungsreiche Gerichte.
 
 ## Schritt für Schritt zum perfekten Meal Prep
 
-Damit die Mission Meal Prep ein Erfolg wird, benötigen Sie zunächst einen [Essensplan](https://seatable.io/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Die folgenden **fünf Schritte** helfen Ihnen beim Ablauf.
+Damit die Mission Meal Prep ein Erfolg wird, benötigen Sie zunächst einen [Essensplan]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Die folgenden **fünf Schritte** helfen Ihnen beim Ablauf.
 
 ![So gelingt Ihr Meal Prep in fünf einfachen Schritten.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 

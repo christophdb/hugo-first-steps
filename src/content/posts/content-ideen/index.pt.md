@@ -14,7 +14,7 @@ Uma coisa é particularmente importante para uma presença bem sucedida nas rede
 
 Por vezes, isto não requer tópicos aprofundados ou textos elaborados. Por vezes, é suficiente manter os seus seguidores actualizados com uma pequena informação ou algo semelhante. Com publicações regulares, pode reforçar o **conhecimento da marca** da sua empresa por parte dos seus seguidores e aumentar **o tráfego** das redes sociais para o seu próprio sítio Web.
 
-Para garantir que não fica sem material para publicações, apesar de ter um [plano](https://seatable.io/pt/content-ideen/#Nutzen_Sie_SeaTable_um_Ihre_Content-Ideen_zu_planen) bem pensado para as redes sociais, temos algumas ideias de conteúdos que pode implementar rápida e facilmente nas redes sociais. Isto ajudá-lo-á a manter os seus canais nas redes sociais mesmo em dias de stress.
+Para garantir que não fica sem material para publicações, apesar de ter um [plano]({{< relref "templates/marketing/social-media-plan" >}}) bem pensado para as redes sociais, temos algumas ideias de conteúdos que pode implementar rápida e facilmente nas redes sociais. Isto ajudá-lo-á a manter os seus canais nas redes sociais mesmo em dias de stress.
 
 ## 1\. nos bastidores
 

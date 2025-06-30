@@ -19,7 +19,7 @@ Zusätzlich stehen Ihnen verschiedene Optionen zur Verfügung, mit denen Sie ein
 - Sie haben die Möglichkeit, für einen externen Link ein **automatisches Ablaufdatum** festzulegen. Nach der ausgewählten Anzahl an Tagen verliert der externe Link seine Gültigkeit.
 - Darüber hinaus können Sie auch ein beliebiges **Passwort** für einen externen Link festlegen. Dieses muss von einem anderen Nutzer korrekt eingegeben werden, um Zugriff auf die Ansicht zu erhalten.
 
-Alles, was Sie sonst noch über externe Links wissen sollten, erfahren Sie im Artikel [Externen Link für eine Base erstellen](https://seatable.io/docs/freigabelinks/externer-link-erklaert/).
+Alles, was Sie sonst noch über externe Links wissen sollten, erfahren Sie im Artikel [Externen Link für eine Base erstellen]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}).
 
 ## Externen Link für eine Ansicht erstellen
 

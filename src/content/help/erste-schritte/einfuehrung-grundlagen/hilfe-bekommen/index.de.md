@@ -20,7 +20,7 @@ Sollten Sie im Benutzerhandbuch nicht fündig werden, können Sie Ihre Frage im 
 
 Kunden mit einem kostenpflichtigen Plus oder Enterprise Abonnement haben zusätzlich noch die Möglichkeit, ein Support-Ticket zu eröffnen. Weitere Details finden Sie in den folgenden Hilfeartikeln:
 
-- [Ein Support-Ticket eröffnen](https://seatable.io/docs/teamverwaltung/ein-support-ticket-eroeffnen/).
+- [Ein Support-Ticket eröffnen]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}}).
 - [Plus oder Enterprise Abonnement buchen]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Weitere Hilfequellen zum Selbststudium

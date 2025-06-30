@@ -10,7 +10,11 @@ url: '/ru/pomoshch/2-faktor-authentifizierung-aktivieren'
 
 Каждый пользователь SeaTable может активировать **двухфакторную аутентификацию (2FA)** для своей учетной записи. Как это сделать, вы можете узнать в этой статье.
 
-{{< warning  headline="Администраторы групп и двухфакторная аутентификация"  text="Администраторы команд могут сделать двухфакторную аутентификацию обязательной для всей команды или для одного члена команды. Узнайте, как это сделать в этих статьях: [Включить 2FA для одного члена команды](https://seatable.io/ru/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/) и [Принудительная 2FA для всей команды](https://seatable.io/ru/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)." />}}
+{{< warning  headline="Администраторы групп и двухфакторная аутентификация" >}}
+
+Администраторы команд могут сделать двухфакторную аутентификацию обязательной для всей команды или для одного члена команды. Узнайте, как это сделать в этих статьях: [Включить 2FA для одного члена команды]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}) и [Принудительная 2FA для всей команды]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}).
+
+{{< /warning >}}
 
 ## Что такое двухфакторная аутентификация?
 

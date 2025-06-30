@@ -13,7 +13,7 @@ seo:
 
 SeaTable is the ultimate solution for data management and online collaboration. With its rich field types, organization / group / team management and collaboration functions as well as various templates and plugins, SeaTable unleashes your team's full productive power with its automated data processing and workflow.
 
-We are thrilled to announce the official release of SeaTable Version 1.2. SeaTable 1.2 has some major updates in functionality and user experience in store for you. For the full list of changes, check the [changelog](https://seatable.io/en/docs/changelog/version-1-2/). In this release note, we present some of the most exciting new features to you.
+We are thrilled to announce the official release of SeaTable Version 1.2. SeaTable 1.2 has some major updates in functionality and user experience in store for you. For the full list of changes, check the [changelog]({{< relref "pages/changelog" >}}). In this release note, we present some of the most exciting new features to you.
 
 ## More colors and icons on the home page
 
@@ -31,7 +31,7 @@ In the context menus of the File and Image column types you will find the "Downl
 
 ## Journey into the past - Snapshots
 
-In SeaTable you always have an overview of the processes in your bases. The log lists all changes, additions and deletions of records as well as all other processes in a base. In addition, SeaTable automatically creates [snapshots](https://seatable.io/en/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) every 24 hours of bases that are actively being worked on.
+In SeaTable you always have an overview of the processes in your bases. The log lists all changes, additions and deletions of records as well as all other processes in a base. In addition, SeaTable automatically creates [snapshots]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) every 24 hours of bases that are actively being worked on.
 
 A snapshot captures the state of a base at the time it was created. In other words, snapshots are basically machines for traveling back in time. You want to see what a base looked like three days ago? Forget the log, use a snapshot!
 

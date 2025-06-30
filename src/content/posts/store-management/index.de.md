@@ -45,13 +45,13 @@ Wenn Ihr Personalmanagement komplexer wird und die Zahl der Weiterbildungen wäc
 
 Im Store Management ist es entscheidend, die Umsätze Ihrer einzelnen Filialen im Blick zu behalten. Das ist nicht nur für eine Ist-Analyse entscheiden, sondern auch für die zukünftige strategische Standortplanung. In Ihrer Revenue Base können Sie Umsatzzahlen einsehen und analysieren.
 
-Wir haben die gesamte Base nach Quartal gruppiert. In Ihren Gruppierungsregeln können sie ganz einfach einstellen, nach welcher Spalte die gesamte Base geordnet werden soll. Sortieren Sie lieber nach Jahren oder nach Filiale, können Sie diese Anpassung selbstverständlich ganz einfach vornehmen, indem Sie die [Gruppierungsregeln ändern](https://seatable.io/docs/handbuch/datenmanagement/gruppierung-sortierung-filter/).
+Wir haben die gesamte Base nach Quartal gruppiert. In Ihren Gruppierungsregeln können sie ganz einfach einstellen, nach welcher Spalte die gesamte Base geordnet werden soll. Sortieren Sie lieber nach Jahren oder nach Filiale, können Sie diese Anpassung selbstverständlich ganz einfach vornehmen, indem Sie die [Gruppierungsregeln ändern]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}).
 
 Mit einer Spalte für Ihr Umsatzpotenzial und dem tatsächlichen Umsatz lassen sich Defizite und Potenziale ganz einfach erkennen. Zudem haben wir einen Umsatzcluster eingefügt, der Ihre Filialen nach Umsatz kategorisieren und die Zeile wieder entsprechend einfärben soll. Unser gewähltes Cluster ist natürlich ganz einfach auf Ihre Bedürfnisse anpassbar. Ändern sie hierfür ganz einfach in der letzten Spalte die Single-Select Optionen in das von Ihnen präferierte Cluster.
 
 ### Analysieren Sie Ihren Umsatz mithilfe des Advanced Statistik Plugins
 
-Mit unserem Advanced Statistic Plugin lassen sich ganz einfach Analysen über Ihre Umsätze durchführen. Wir haben bereits drei nützliche [Statistiken](https://seatable.io/docs/handbuch/seatable-nutzen/statistiken/) für unser Beispiel-Template erstellt. Sie gelangen über einen Klick auf das Plug-in oberhalb Ihrer Tabelle direkt in den Statistikbereich. Hier können Sie sich mithilfe des + Zeichens neue Dashboards erstellen, in welche Sie dann mehrere Statistiken einfügen können.
+Mit unserem Advanced Statistic Plugin lassen sich ganz einfach Analysen über Ihre Umsätze durchführen. Wir haben bereits drei nützliche [Statistiken]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) für unser Beispiel-Template erstellt. Sie gelangen über einen Klick auf das Plug-in oberhalb Ihrer Tabelle direkt in den Statistikbereich. Hier können Sie sich mithilfe des + Zeichens neue Dashboards erstellen, in welche Sie dann mehrere Statistiken einfügen können.
 
 ![Store Management ](Bildschirmfoto-2021-10-06-um-14.11.06.png)
 
@@ -93,7 +93,7 @@ Timeline-Plug-in
 
 ### Store Checks ganz einfach über Webformulare durchführen
 
-Ihre Sales Mitarbeiter haben bei jedem persönlichen Filialbesuch die Aufgabe, je nach Unternehmensart verschiedene Aspekte auf Ihre Richtigkeit hin zu überprüfen. Hierfür haben wir ein [Webformular](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/) eingerichtet, welches ganz einfach während oder nach dem Besuchen des Stores von Ihren Sales Mitarbeitern ausgefüllt werden kann. Sie finden die Webformulare oben rechts unter “Forms”. Klickt Ihr Sales Manager auf das Webformular, so kann er direkt mit dem Ausfüllen beginnen.
+Ihre Sales Mitarbeiter haben bei jedem persönlichen Filialbesuch die Aufgabe, je nach Unternehmensart verschiedene Aspekte auf Ihre Richtigkeit hin zu überprüfen. Hierfür haben wir ein [Webformular]({{< relref "help/base-editor/webformulare/webformulare" >}}) eingerichtet, welches ganz einfach während oder nach dem Besuchen des Stores von Ihren Sales Mitarbeitern ausgefüllt werden kann. Sie finden die Webformulare oben rechts unter “Forms”. Klickt Ihr Sales Manager auf das Webformular, so kann er direkt mit dem Ausfüllen beginnen.
 
 ![Storemanagement Store Check](Bildschirmfoto-2021-10-06-um-13.12.55.png)
 
@@ -103,7 +103,7 @@ Die zugrunde liegende Tabelle bleibt die Tabelle “Store Check”. Jeder Eintra
 
 ### Personalisierte Ansichten für Ihre Sales Mitarbeiter
 
-Jeder Salesmitarbeiter hat in diesem Template eine [personalisierte Ansicht](https://seatable.io/docs/handbuch/datenmanagement/ansichten/), damit er nur die Filialen sieht, für die er zuständig ist. Die Ansicht wurde mit der Filterregel über die Spalte “Responsible” mit dem jeweiligen Namen erstellt. Wählen Ihre Salesmitarbeiter im Webformular dann ihren Namen aus, so erscheinen die Store Checks auch in der entsprechenden Base.
+Jeder Salesmitarbeiter hat in diesem Template eine [personalisierte Ansicht]({{< relref "help/base-editor/ansichten" >}}), damit er nur die Filialen sieht, für die er zuständig ist. Die Ansicht wurde mit der Filterregel über die Spalte “Responsible” mit dem jeweiligen Namen erstellt. Wählen Ihre Salesmitarbeiter im Webformular dann ihren Namen aus, so erscheinen die Store Checks auch in der entsprechenden Base.
 
 Um das Ausfüllen des Webformulars weniger fehleranfällig zu machen, haben wir jedes auszufüllende Feld auf “required” gestellt. Das macht ein Absenden ohne das Ausfüllen des Feldes nicht möglich. Diese und viele weitere Einstellungen, wie zum Beispiel Hilfstexte zum Ausfüllen des Webformulars oder verschiedenen Formatierungsmöglichkeiten, können Sie ganz einfach vornehmen, indem Sie neben dem Webformular auf den kleinen Stift klicken.
 

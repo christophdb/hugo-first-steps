@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/ru/pomoshch/ein-teammitglied-entsperren'
 ---
 
-[Заблокированные члены команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) больше не смогут войти в систему и работать с вами. Однако, будучи **администратором команды**, вы можете разблокировать их.
+[Заблокированные члены команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) больше не смогут войти в систему и работать с вами. Однако, будучи **администратором команды**, вы можете разблокировать их.
 
 ## Отсутствие входа для деактивированных членов команды
 

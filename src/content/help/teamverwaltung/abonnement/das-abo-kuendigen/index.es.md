@@ -18,4 +18,4 @@ url: '/es/ayuda/das-abo-kuendigen'
 
 ## Eliminar el equipo por completo
 
-Si no sólo desea cancelar su suscripción actual, sino también eliminar todo su equipo, lea el artículo de ayuda [Eliminar todo el equipo](https://seatable.io/es/docs/teamverwaltung/das-komplette-team-loeschen/).
+Si no sólo desea cancelar su suscripción actual, sino también eliminar todo su equipo, lea el artículo de ayuda [Eliminar todo el equipo]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).

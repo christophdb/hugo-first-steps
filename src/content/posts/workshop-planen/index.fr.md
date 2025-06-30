@@ -65,7 +65,7 @@ Grâce au plugin de conception de pages, il est également possible de créer un
 
 ## Définir la durée et l'ordre du jour de l'atelier
 
-Un atelier sur la façon dont vos employés peuvent [soumettre leurs frais de déplacement et se faire rembourser](https://seatable.io/fr/auslagenerstattung/) ne devrait pas durer plus d’une heure, tandis qu’une séance de formation au leadership peut prendre plusieurs heures par semaine ou des journées complètes. En fonction de la **charge de travail**, le coach doit établir un **ordre du jour** et planifier la quantité de contenu qui peut être enseignée dans le temps. Vous pouvez afficher visuellement les dates des cours avec le **calendrier** et donner à vos employés un aperçu clair des **dates** dans l’aperçu mensuel.
+Un atelier sur la façon dont vos employés peuvent [soumettre leurs frais de déplacement et se faire rembourser]({{< relref "posts/auslagenerstattung" >}}) ne devrait pas durer plus d’une heure, tandis qu’une séance de formation au leadership peut prendre plusieurs heures par semaine ou des journées complètes. En fonction de la **charge de travail**, le coach doit établir un **ordre du jour** et planifier la quantité de contenu qui peut être enseignée dans le temps. Vous pouvez afficher visuellement les dates des cours avec le **calendrier** et donner à vos employés un aperçu clair des **dates** dans l’aperçu mensuel.
 
 ## Réserver un lieu et un traiteur
 
@@ -95,7 +95,7 @@ Selon le thème de l'atelier, différentes méthodes et différents matériaux c
 
 ## Créer des certificats
 
-Pour **certifier la participation à l’atelier**, vous pouvez délivrer un certificat à chaque participant. Avec le [plugin de conception de page](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) de SeaTable, vous pouvez vous épargner beaucoup de travail. Le plugin utilise les informations déjà saisies dans le tableau et peut les insérer individuellement dans la mise en page du certificat de participation pour chaque participant. À l’aide d’un bouton, vous pouvez créer des documents personnalisés d’une simple pression sur un bouton et les enregistrer au format PDF.
+Pour **certifier la participation à l’atelier**, vous pouvez délivrer un certificat à chaque participant. Avec le [plugin de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) de SeaTable, vous pouvez vous épargner beaucoup de travail. Le plugin utilise les informations déjà saisies dans le tableau et peut les insérer individuellement dans la mise en page du certificat de participation pour chaque participant. À l’aide d’un bouton, vous pouvez créer des documents personnalisés d’une simple pression sur un bouton et les enregistrer au format PDF.
 
 ![Créez des certificats sans effort supplémentaire grâce au plugin Page Design](Zertifikate.jpg)
 
@@ -105,7 +105,7 @@ Que seraient les ateliers et les formations continues sans feedback ? Pour l'év
 
 ![Utilisez le formulaire web de SeaTable pour recueillir les commentaires de vos employés](Feedback.jpg)
 
-Vous pouvez facilement **évaluer** les commentaires recueillis dans SeaTable, par exemple en affichant la médiane ou la moyenne d’une [colonne d’évaluation](https://seatable.io/fr/docs/auswahlspalten/die-rating-spalte/) dans la [barre d’état](https://seatable.io/fr/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) ou en utilisant les réponses ouvertes dans les [colonnes de texte](https://seatable.io/fr/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) pour le développement ultérieur des ateliers. S’il y a une quantité notable de **critiques** à l’égard d’un cours, le formateur peut soit apporter des améliorations, soit être remplacé. Si, par exemple, il y a souvent des commentaires indiquant que des aspects importants ont été manqués, cela pourrait indiquer que vous devriez leur donner plus de temps et prolonger l’atelier. Vous pouvez également créer un nouvel atelier qui se concentre sur ces aspects pour répondre aux besoins de vos participants.
+Vous pouvez facilement **évaluer** les commentaires recueillis dans SeaTable, par exemple en affichant la médiane ou la moyenne d’une [colonne d’évaluation]({{< relref "help/base-editor/numerische-spalten/die-rating-spalte" >}}) dans la [barre d’état]({{< relref "help/base-editor/ansichten" >}}die-status-zeile-und-ihre-funktionen/) ou en utilisant les réponses ouvertes dans les [colonnes de texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) pour le développement ultérieur des ateliers. S’il y a une quantité notable de **critiques** à l’égard d’un cours, le formateur peut soit apporter des améliorations, soit être remplacé. Si, par exemple, il y a souvent des commentaires indiquant que des aspects importants ont été manqués, cela pourrait indiquer que vous devriez leur donner plus de temps et prolonger l’atelier. Vous pouvez également créer un nouvel atelier qui se concentre sur ces aspects pour répondre aux besoins de vos participants.
 
 ## Conclusion : Planifier un atelier avec SeaTable
 

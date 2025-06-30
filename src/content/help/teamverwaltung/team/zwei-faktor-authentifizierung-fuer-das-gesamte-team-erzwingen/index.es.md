@@ -38,4 +38,8 @@ Básicamente, todas las aplicaciones deberían funcionar para la autenticación 
 
 Nuestro favorito es [2FA Authenticator](https://2fas.com/).
 
-{{< warning  headline="Nota"  text="Si sólo desea añadir la [autenticación de doble factor](https://seatable.io/es/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/) para un **único miembro del** equipo, consulte el artículo [Activación de la autenticación de doble factor para un miembro del](https://seatable.io/es/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/) equipo." />}}
+{{< warning  headline="Nota" >}}
+
+Si sólo desea añadir la [autenticación de doble factor]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}) para un **único miembro del** equipo, consulte el artículo [Activación de la autenticación de doble factor para un miembro del]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}) equipo.
+
+{{< /warning >}}

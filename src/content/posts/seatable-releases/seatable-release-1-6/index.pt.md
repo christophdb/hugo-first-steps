@@ -12,7 +12,7 @@ seo:
 
 Começamos o novo ano com um novo lançamento SeaTable: a versão 1.6 foi lançada hoje em [https://cloud.seatable.io](https://cloud.seatable.io). O lançamento em Docker Hub seguir-se-á em breve. A nova versão está mais uma vez cheia de novas funcionalidades e melhorias. À primeira vista, notará os dois novos tipos de colunas e o menu de configuração de colunas revisto. Numa inspecção mais atenta, encontrará uma série de outras melhorias na interface do utilizador. Nesta versão, também investimos muito esforço no mago da fórmula. Novas funções, melhorias no design e mensagens de erro alargadas levam o assistente a um nível totalmente novo.
 
-Nesta nota de lançamento, apresentamos as alterações mais significativas e relevantes da nova versão. Como sempre, é possível encontrar uma lista completa de alterações no [SeaTable Changelog](https://seatable.io/docs/changelog/version-1-6/?lang=auto).
+Nesta nota de lançamento, apresentamos as alterações mais significativas e relevantes da nova versão. Como sempre, é possível encontrar uma lista completa de alterações no [SeaTable Changelog]({{< relref "pages/changelog" >}}?lang=auto).
 
 ## Tipo de coluna #19: Duração
 

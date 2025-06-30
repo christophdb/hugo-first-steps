@@ -38,7 +38,7 @@ Nach dem Operator definieren Sie die konkreten **Bedingungen**, die in der Spalt
 
 ![Eine Bedingung zur Formel hinzufügen](images/Eine-Bedingung-zur-Formel-hinzufuegen.png)
 
-Um die Anrede mit den jeweiligen **Namen** zu befüllen, referenzieren Sie mit geschweiften Klammern auf die Spalten "Vorname" und/oder "Nachname". Erfahren Sie mehr zum [Zusammenführen von Text-Spalten mithilfe einer Formel](https://seatable.io/docs/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel/).
+Um die Anrede mit den jeweiligen **Namen** zu befüllen, referenzieren Sie mit geschweiften Klammern auf die Spalten "Vorname" und/oder "Nachname". Erfahren Sie mehr zum [Zusammenführen von Text-Spalten mithilfe einer Formel]({{< relref "help/base-editor/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel" >}}).
 
 Die beschriebenen Schritte zur Definition einer Bedingung können Sie im Anschluss für **jeden Wert** der Spalte "Geschlecht" wiederholen. Die verschiedenen Bedingungen müssen Sie dabei stets durch ein **Komma** voneinander trennen. Vor der Bestätigung gilt es noch zu beachten, dass Sie unbedingt **alle Klammern schließen** müssen, damit die Formel als gültig akzeptiert wird.
 

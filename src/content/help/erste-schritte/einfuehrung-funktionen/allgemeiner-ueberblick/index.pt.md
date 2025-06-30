@@ -20,20 +20,20 @@ Por conseguinte, neste capítulo obterá uma primeira visão das possibilidades 
 
 ## Bases e tabelas
 
-As bases e tabelas são as unidades organizacionais centrais da SeaTable. Aprenda o básico do [trabalho com bases e tabelas](https://seatable.io/pt/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) e como elas são superiores às folhas de cálculo clássicas.
+As bases e tabelas são as unidades organizacionais centrais da SeaTable. Aprenda o básico do [trabalho com bases e tabelas]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) e como elas são superiores às folhas de cálculo clássicas.
 
 ## Recolha de dados
 
-Para os autores, nada é pior do que uma folha de papel em branco - e no SeaTable, nada é pior do que bases e tabelas vazias. Por isso, comece imediatamente criando novas colunas e linhas, introduzindo dados manualmente, copiando e colando ou importando. Aqui encontrará tudo o que precisa de saber sobre a [introdução de dados](https://seatable.io/pt/docs/seatable-nutzen/datenerfassung/).
+Para os autores, nada é pior do que uma folha de papel em branco - e no SeaTable, nada é pior do que bases e tabelas vazias. Por isso, comece imediatamente criando novas colunas e linhas, introduzindo dados manualmente, copiando e colando ou importando. Aqui encontrará tudo o que precisa de saber sobre a [introdução de dados]({{< relref "help/erste-schritte/einfuehrung-funktionen/datenerfassung" >}}).
 
 ## Cooperação
 
-Como plataforma de colaboração, a SeaTable oferece uma vasta gama de funções para uma [colaboração](https://seatable.io/pt/docs/seatable-nutzen/zusammenarbeit/) eficiente - por exemplo, bases de grupo, partilha e conjuntos de dados comuns, para citar apenas alguns.
+Como plataforma de colaboração, a SeaTable oferece uma vasta gama de funções para uma [colaboração]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) eficiente - por exemplo, bases de grupo, partilha e conjuntos de dados comuns, para citar apenas alguns.
 
 ## Estatísticas e análise de dados
 
-Quer se trate de análises simples, cálculos matemáticos ou estatísticas detalhadas - SeaTable dá-lhe todas as ferramentas de avaliação necessárias para tirar o melhor partido dos seus dados. Junte-se a nós numa excitante excursão em [estatísticas e análise de dados](https://seatable.io/pt/docs/seatable-nutzen/statistiken/).
+Quer se trate de análises simples, cálculos matemáticos ou estatísticas detalhadas - SeaTable dá-lhe todas as ferramentas de avaliação necessárias para tirar o melhor partido dos seus dados. Junte-se a nós numa excitante excursão em [estatísticas e análise de dados]({{< relref "help/base-editor/statistiken" >}}).
 
 ## Vistas e plugins
 
-Ao contrário de uma folha de cálculo convencional, as suas tabelas não se apresentam apenas como grelhas planas. Graças às vistas flexíveis das tabelas SeaTable, tem sempre os seus dados na estrutura que deseja. Além disso, descubra os plug-ins que abrem muitas opções de visualização úteis. Pode utilizar [vistas e plugins](https://seatable.io/pt/docs/seatable-nutzen/ansichten/) para exibir apenas parte dos dados e apresentar a informação como um calendário, galeria, quadro kanban ou gráfico.
+Ao contrário de uma folha de cálculo convencional, as suas tabelas não se apresentam apenas como grelhas planas. Graças às vistas flexíveis das tabelas SeaTable, tem sempre os seus dados na estrutura que deseja. Além disso, descubra os plug-ins que abrem muitas opções de visualização úteis. Pode utilizar [vistas e plugins]({{< relref "help/base-editor/ansichten" >}}) para exibir apenas parte dos dados e apresentar a informação como um calendário, galeria, quadro kanban ou gráfico.

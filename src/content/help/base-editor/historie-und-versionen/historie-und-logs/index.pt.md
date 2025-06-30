@@ -82,7 +82,7 @@ SeaTable regista as seguintes informações para cada execução de automatizaç
 
 ![Estrutura de um Auführungslog](images/structure-of-an-automation-log-newest.png)
 
-Mais informações sobre o registo de execução de uma automatização podem ser encontradas [aqui](https://seatable.io/pt/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/).
+Mais informações sobre o registo de execução de uma automatização podem ser encontradas [aqui]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}}).
 
 ## Registo de execução de guiões
 
@@ -94,4 +94,4 @@ No registo de execução encontrará várias informações úteis tais como a ho
 
 ![Informações que podem ser encontradas no registo de execução de um guião](images/information-in-a-script-log.png)
 
-Se precisar de mais informações sobre o registo de execução de scripts, sinta-se à vontade para dar uma vista de olhos a este [artigo de ajuda](https://seatable.io/pt/docs/javascript-python/das-ausfuehrungslog-von-skripten/).
+Se precisar de mais informações sobre o registo de execução de scripts, sinta-se à vontade para dar uma vista de olhos a este [artigo de ajuda]({{< relref "help/skripte/allgemein/das-ausfuehrungslog-von-skripten" >}}).

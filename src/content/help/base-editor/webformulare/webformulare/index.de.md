@@ -73,7 +73,7 @@ Um zu prüfen, wie das Formular für den Empfänger aussieht, klicken Sie oben r
 
 ### Formular freigeben
 
-Um das Formular anderen zugänglich zu machen, benötigen Sie einen **Link**. Den Link für das Formular erhalten Sie im Webformular-Editor über die Schaltfläche {{< seatable-icon icon="dtable-icon-share" >}} **Freigeben**. Sie können den **automatisch generierten Link** nutzen oder **eigene Links** erstellen und diese mit [vorbefüllten Werten](https://seatable.io/docs/webformulare/formularfelder-per-url-vorbefuellen/) erweitern.
+Um das Formular anderen zugänglich zu machen, benötigen Sie einen **Link**. Den Link für das Formular erhalten Sie im Webformular-Editor über die Schaltfläche {{< seatable-icon icon="dtable-icon-share" >}} **Freigeben**. Sie können den **automatisch generierten Link** nutzen oder **eigene Links** erstellen und diese mit [vorbefüllten Werten]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}) erweitern.
 
 ![Neuer Formularlink-Dialog in SeaTable 4.3](images/Formularlink-Dialog.gif)
 

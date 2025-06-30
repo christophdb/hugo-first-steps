@@ -24,7 +24,7 @@ Com os modelos, não se começa do 0 quando se trabalha numa base, mas sim do 10
 
 ## Criar uma nova base utilizando um modelo
 
-Encontrou um modelo interessante e agora quer utilizá-lo? Óptimo! Para poder introduzir os seus próprios dados neste modelo, só tem de [criar](https://seatable.io/pt/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) uma [nova base a partir do modelo](https://seatable.io/pt/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) no SeaTable Cloud.
+Encontrou um modelo interessante e agora quer utilizá-lo? Óptimo! Para poder introduzir os seus próprios dados neste modelo, só tem de [criar]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}) uma [nova base a partir do modelo]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}) no SeaTable Cloud.
 
 Se já tiver iniciado sessão na sua conta, então todos os requisitos estão preenchidos. Se não tiver sessão iniciada ou não tiver uma conta SeaTable, [inicie](https://cloud.seatable.io/) sessão ou [registe-se gratuitamente com o seu endereço de e-mail]({{< relref "pages/registration" >}}).
 

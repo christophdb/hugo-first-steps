@@ -37,10 +37,10 @@ url: '/ru/pomoshch/base-und-ansichtsfreigaben-im-ueberblick'
 
 Освобождение базы может быть осуществлено для различных групп лиц:
 
-- [Выпуск для пользователей](https://seatable.io/ru/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Освобождение для группы](https://seatable.io/ru/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Выпуск для пользователей]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Освобождение для группы]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Выпуск по пригласительной ссылке]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Релиз по внешней ссылке](https://seatable.io/ru/docs/freigabelinks/externer-link-erklaert/)
+- [Релиз по внешней ссылке]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
 Предоставляя общий доступ пользователю или группе, вы делитесь базой **внутри своей команды**. Совместное использование по приглашениям позволяет вам предоставлять доступ к базе людям **вне вашей команды** (но в пределах SeaTable). С помощью внешней ссылки вы делитесь базами или видами извне, независимо от того, есть ли у кого-то аккаунт в SeaTable или нет.
 
@@ -52,11 +52,11 @@ url: '/ru/pomoshch/base-und-ansichtsfreigaben-im-ueberblick'
 
 Существующий релиз для пользователя или группы можно расширить или ограничить в любое время, изменив полномочия релиза. Для этого нажмите на **значок карандаша** {{< seatable-icon icon="dtable-icon-rename" >}}. Нажмите на **символ x**, чтобы завершить общий доступ или удалить ссылку. Все изменения вступают в силу немедленно. Защита паролем, срок действия и URL-адрес **не** могут быть изменены для существующей ссылки.
 
-> Вы также можете получить полный обзор всех релизов и ссылок на базу в разделе [Базы в администрации команды](https://seatable.io/ru/docs/teamverwaltung/bases-in-der-teamverwaltung/), если вы являетесь администратором команды.
+> Вы также можете получить полный обзор всех релизов и ссылок на базу в разделе [Базы в администрации команды]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}), если вы являетесь администратором команды.
 
 ## Выпуски для таблиц
 
-Если вы хотите предоставить общий доступ не ко всей базе, а только к [отдельным таблицам]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}), это, конечно, тоже возможно. [Пользовательский общий доступ](https://seatable.io/ru/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/) позволяет одновременно предоставлять общий доступ к нескольким таблицам и представлениям и отправлять их членам команды или целым группам.
+Если вы хотите предоставить общий доступ не ко всей базе, а только к [отдельным таблицам]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}), это, конечно, тоже возможно. [Пользовательский общий доступ]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) позволяет одновременно предоставлять общий доступ к нескольким таблицам и представлениям и отправлять их членам команды или целым группам.
 
 ## Утверждение мнений
 
@@ -67,7 +67,7 @@ url: '/ru/pomoshch/base-und-ansichtsfreigaben-im-ueberblick'
 Затем вы попадаете в знакомый **диалог** общего доступа, где вы также можете создавать общие доступы к своим представлениям так же, как и для баз. Представлением можно поделиться с тремя группами людей:
 
 - [Освобождение члена команды]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Освобождение для группы](https://seatable.io/ru/docs/ansichtsfreigaben/freigabe-einer-ansicht-an-eine-gruppe/)
+- [Освобождение для группы]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Релиз по внешней ссылке]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 Как только вы нажмете на кнопку **Отправить** для варианта совместного доступа, выбранное лицо или группа смогут получить доступ к представлению с предоставленным разрешением. Чтобы предоставить общий доступ к представлению нескольким пользователям или группам, повторите этот процесс.

@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/help/erstellen-eines-api-tokens-fuer-n8n'
 ---
 
-Once you use the SeaTable app in n8n, you need to allow n8n to access one of your bases. To do this, you create an [API token](https://seatable.io/en/docs/seatable-api/erzeugen-eines-api-tokens/) in SeaTable and use it in n8n. This help article shows you what to look out for.
+Once you use the SeaTable app in n8n, you need to allow n8n to access one of your bases. To do this, you create an [API token]({{< relref "help/integrationen/seatable-api/erzeugen-eines-api-tokens" >}}) in SeaTable and use it in n8n. This help article shows you what to look out for.
 
 ## n8n requires registration
 

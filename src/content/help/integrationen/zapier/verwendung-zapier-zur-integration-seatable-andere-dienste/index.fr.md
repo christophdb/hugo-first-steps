@@ -34,7 +34,7 @@ Connectez-vous à votre [compte Zapier](https://zapier.com/app/login) et créez 
 
 ![Choisissez l'événement Zapier qui vous convient](images/zapier-example-1.png)
 
-L'étape suivante consiste à connecter votre compte SeaTable à Zapier (ou à sélectionner un compte SeaTable déjà connecté). Si vous n'avez pas encore de jeton API, vous devez [générer](https://seatable.io/fr/docs/integrations/zapier-api-tokens-sign-in/) une [clé API](https://seatable.io/fr/docs/integrations/zapier-api-tokens-sign-in/) que vous saisissez dans Zapier.
+L'étape suivante consiste à connecter votre compte SeaTable à Zapier (ou à sélectionner un compte SeaTable déjà connecté). Si vous n'avez pas encore de jeton API, vous devez [générer]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) une [clé API]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) que vous saisissez dans Zapier.
 
 Après avoir sélectionné le compte approprié, il vous sera demandé de configurer les options de configuration spécifiques au déclencheur. Avec SeaTable comme déclencheur, nous devons spécifier le tableau et la vue en cliquant sur le menu déroulant et en sélectionnant les options correspondantes (dans ce cas, nous voulons le tableau "Opportunities" et la vue "All opportunities").
 
@@ -86,7 +86,7 @@ Ensuite, nous créons un nouveau zap et choisissons _Zapier Chrome Extension_ co
 
 ![Déclencheur : nouveau push dans l'extension zapier chrome](images/zapier-example-10.png)
 
-La configuration de l'_action_ n'est pas non plus difficile. Créez un [jeton API](https://seatable.io/fr/docs/zapier-integration/zapier-api-tokens-sign-in/) pour la base que vous venez de créer et configurez le titre et l'URL pour qu'ils soient enregistrés dans les colonnes appropriées de SeaTable. Pour finir, testez le zap et publiez-le.
+La configuration de l'_action_ n'est pas non plus difficile. Créez un [jeton API]({{< relref "help/integrationen/zapier/zapier-api-tokens-sign-in" >}}) pour la base que vous venez de créer et configurez le titre et l'URL pour qu'ils soient enregistrés dans les colonnes appropriées de SeaTable. Pour finir, testez le zap et publiez-le.
 
 ![Déclencheur : Créer une rangée dans SeaTable](images/zapier-example-12.png)
 

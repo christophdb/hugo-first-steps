@@ -10,9 +10,13 @@ url: '/fr/aide/anleitung-zum-whiteboard-plugin'
 
 Le **plug-in Whiteboard** vous donne la liberté de visualiser graphiquement des processus et des structures que vous ne pouvez pas représenter avec les plug-ins précédents. De même, vous pouvez esquisser librement des mises en page et des mockups. Pour la conception, vous avez le choix entre différents **éléments** tels que des carrés, des ellipses et des flèches ainsi que **des outils** tels que le stylo, la gomme et l'outil de texte.
 
-Pour savoir comment activer le plugin dans une base, [cliquez ici](https://seatable.io/fr/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-{{< warning  headline="Attention : ce plugin va être retiré !"  text="Étant donné que le plug-in de tableau blanc (obsolète), basé sur le projet open source excalidraw, ne prend pas en charge la collaboration et s'est avéré sujet à des dysfonctionnements lorsque plusieurs utilisateurs l'utilisaient simultanément, nous le supprimerons de SeaTable Cloud dans le cadre de la version 6.0 prévue pour l'été 2025. Tous les dessins de l'ancien plug-in de tableau blanc ne seront alors plus disponibles. Nous vous recommandons donc de passer dès que possible au nouveau [plug-in de tableau blanc (tldraw)](https://seatable.io/fr/docs/plugins/anleitung-zum-whiteboard-plugin-tldraw/) et de transférer les contenus existants par copier-coller." />}}
+{{< warning  headline="Attention : ce plugin va être retiré !" >}}
+
+Étant donné que le plug-in de tableau blanc (obsolète), basé sur le projet open source excalidraw, ne prend pas en charge la collaboration et s'est avéré sujet à des dysfonctionnements lorsque plusieurs utilisateurs l'utilisaient simultanément, nous le supprimerons de SeaTable Cloud dans le cadre de la version 6.0 prévue pour l'été 2025. Tous les dessins de l'ancien plug-in de tableau blanc ne seront alors plus disponibles. Nous vous recommandons donc de passer dès que possible au nouveau [plug-in de tableau blanc (tldraw)]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin-tldraw" >}}) et de transférer les contenus existants par copier-coller.
+
+{{< /warning >}}
 
 ## Possibilités de réglage d'un dessin sur tableau blanc
 
