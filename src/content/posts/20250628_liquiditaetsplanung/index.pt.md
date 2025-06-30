@@ -5,7 +5,7 @@ date: 2025-06-28
 lastmod: '2025-06-28'
 url: '/pt/planeamento-da-liquidez'
 category:
-    - 'Melhores práticas'
+    - 'best-practices'
 tags:
     - 'Finanças'
 color: '#aadbf3'
@@ -52,11 +52,11 @@ Um plano de liquidez bem concebido não é uma ciência espacial - com um sistem
                      
 1. **Determinar o período de planeamento:** Em primeiro lugar, determinar o período para o qual pretende planear a sua liquidez. Para começar, recomenda-se um planeamento mensal. Para as grandes empresas, o planeamento semanal ou trimestral também pode ser útil, dependendo do dinamismo dos fluxos de caixa.
 
-2. Registar o **saldo inicial:** Anotar o estado atual dos seus fundos líquidos - ou seja, o montante nas suas contas bancárias e na caixa registadora. Este valor é o ponto de partida para o seu planeamento.
+2. **Registar o saldo inicial:** Anotar o estado atual dos seus fundos líquidos - ou seja, o montante nas suas contas bancárias e na caixa registadora. Este valor é o ponto de partida para o seu planeamento.
 
-3. Registar os depósitos:** Recolher todos os rendimentos esperados: Vendas, juros, reembolsos de impostos, subsídios, possíveis pagamentos de empréstimos ou mesmo depósitos privados. É importante manter-se realista e contar apenas com o dinheiro que espera efetivamente receber.
+3. **Registar os depósitos:** Recolher todos os rendimentos esperados: Vendas, juros, reembolsos de impostos, subsídios, possíveis pagamentos de empréstimos ou mesmo depósitos privados. É importante manter-se realista e contar apenas com o dinheiro que espera efetivamente receber.
 
-4. Registar os desembolsos:** Registar todas as despesas previstas: Isto inclui custos de aquisição, salários, rendas, seguros, marketing, impostos, reembolsos de empréstimos e investimentos. Deve também ter em conta os custos irregulares ou sazonais.
+4. **Registar os desembolsos:** Registar todas as despesas previstas: Isto inclui custos de aquisição, salários, rendas, seguros, marketing, impostos, reembolsos de empréstimos e investimentos. Deve também ter em conta os custos irregulares ou sazonais.
 
 5 **Calcular a liquidez líquida:** Deduzir os pagamentos das entradas. Isto dá-lhe a sua liquidez líquida para o período em questão. Um valor positivo significa um excedente de liquidez - um valor negativo indica um possível estrangulamento.
 
@@ -110,7 +110,7 @@ Pode utilizar os chamados rácios de liquidez para verificar em que medida a sua
 
 ### O que é que estes valores significam?
 
-Um rácio de liquidez 1 de 30 % mostra que só pode cobrir parte das suas responsabilidades a curto prazo com caixa e saldos bancários. Se incluir as contas a receber pendentes (rácio de liquidez 2), a sua solvência já está solidamente assegurada em 120 %. Por fim, se incluirmos também as existências (rácio de liquidez 3), atingimos um valor extremamente confortável de 180%, o que indica uma situação financeira muito estável.
+Um rácio de liquidez 1 de 30 % mostra que só pode cobrir parte das suas responsabilidades a curto prazo com caixa e saldos bancários. Se incluir as contas a receber pendentes (rácio de liquidez 2), a sua solvência já está solidamente assegurada em 120 %. Por fim, se incluirmos também as existências (rácio de liquidez 3), atingimos um valor extremamente confortável de 180 %, o que indica uma situação financeira muito estável.
 
 ## Porque é que demasiada liquidez também pode ser problemática
 
