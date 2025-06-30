@@ -10,7 +10,7 @@ tags:
     - 'Finanzas'
 color: '#aadbf3'
 seo:
-    title: Planificación de la liquidez: consejos para su plan de liquidez
+    title: 'Planificación de la liquidez: consejos para su plan de liquidez'
     description: Descubra cómo puede optimizar su liquidez y minimizar los riesgos. Nuestro artículo del blog te muestra todos los consejos importantes para planificar la liquidez.
 ---
 

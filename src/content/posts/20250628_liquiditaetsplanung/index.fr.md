@@ -10,7 +10,7 @@ tags:
     - 'Finances'
 color: '#aadbf3'
 seo:
-    title: Planification des liquidités : conseils pour votre plan de liquidités
+    title: 'Planification des liquidités : conseils pour votre plan de liquidités'
     description: Découvrez comment optimiser vos liquidités et minimiser les risques. Notre article de blog vous présente tous les conseils importants pour la planification des liquidités.
 ---
 

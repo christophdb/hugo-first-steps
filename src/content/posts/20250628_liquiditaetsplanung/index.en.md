@@ -10,7 +10,7 @@ tags:
     - 'Finances'
 color: '#aadbf3'
 seo:
-    title: Liquidity planning: Tips for your liquidity plan
+    title: 'Liquidity planning: Tips for your liquidity plan'
     description: Find out how you can optimize your liquidity and minimize risks. Our blog article shows you all the important tips for liquidity planning.
 ---
 
