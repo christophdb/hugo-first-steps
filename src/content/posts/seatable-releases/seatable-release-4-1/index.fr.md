@@ -52,7 +52,7 @@ Les [autorisations de page]({{< relref "help/app-builder/einstellungen/seitenber
 
 Les **paramètres par défaut** des vues sont une autre nouveauté des pages de tableaux. Un réglage par défaut détermine l'affichage des données lors de l'appel de la page. Il impose donc un certain angle de vue sur les données, mais il peut être modifié par les utilisateurs de l'application, ce qui permet d'adapter l'angle de vue aux besoins des utilisateurs. Le fonctionnement est donc fondamentalement différent de celui des paramètres de données disponibles depuis plus longtemps. Ces derniers ne peuvent pas être modifiés par les utilisateurs. Les paramètres de données servent à limiter les données affichées aux utilisateurs.
 
-Les améliorations du côté des tableaux ne s'arrêtent pas là : en un clic, vous pouvez afficher le formatage conditionnel des cellules du tableau sous-jacent et ainsi [colorer]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/) les [cellules]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/).
+Les améliorations du côté des tableaux ne s'arrêtent pas là : en un clic, vous pouvez afficher le formatage conditionnel des cellules du tableau sous-jacent et ainsi [colorer]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) les [cellules]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 
 ![Nouvelles fonctions dans l'Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 

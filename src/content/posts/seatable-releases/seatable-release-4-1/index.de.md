@@ -52,7 +52,7 @@ Die [Seitenberechtigungen]({{< relref "help/app-builder/einstellungen/seitenbere
 
 Die **Standardeinstellungen** für Ansichten sind eine weitere Neuerung auf Tabellenseiten. Eine Standardeinstellung bestimmt die Anzeige der Daten beim Aufruf der Seite. Sie gibt damit einen bestimmten Blickwinkel auf die Daten vor, sie kann aber von den App-Benutzern geändert und damit der Blickwinkel auf die Bedürfnisse der Benutzer angepasst werden. Die Funktionsweise ist damit grundsätzlich anders als die der schon länger verfügbaren Dateneinstellungen. Letztere können durch die Benutzer nicht geändert werden. Die Dateneinstellungen dienen dazu, die den Benutzern angezeigten Daten einzuschränken.
 
-Damit sind die Verbesserungen auf der Tabellenseite noch nicht zu Ende: Mit einem Klick können Sie die bedingte Zellformatierung aus der zugrundeliegenden Tabelle anzeigen lassen und so die [Zellen einfärben]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/).
+Damit sind die Verbesserungen auf der Tabellenseite noch nicht zu Ende: Mit einem Klick können Sie die bedingte Zellformatierung aus der zugrundeliegenden Tabelle anzeigen lassen und so die [Zellen einfärben]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 
 ![Neue Funktionen im Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/aenderung-der-id-des-users-in-der-teamverwaltung'
 ---
 
-Para além do nome e do endereço de correio electrónico, cada **conta de utilizador** no SeaTable também tem um **ID**, que pode ser utilizado para [filtros dinâmicos]({{< relref "help/base-editor/ansichten" >}}was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/). Cada ID só pode ser atribuído **uma vez** dentro de uma equipa.
+Para além do nome e do endereço de correio electrónico, cada **conta de utilizador** no SeaTable também tem um **ID**, que pode ser utilizado para [filtros dinâmicos]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}). Cada ID só pode ser atribuído **uma vez** dentro de uma equipa.
 
 Pode alterar este ID em apenas alguns passos através da administração da equipa.
 
@@ -40,6 +40,6 @@ Pode escolher livremente o ID do utilizador - com duas restrições:
 
 ## Filtrar com o ID do utilizador
 
-O SeaTable dá-lhe a possibilidade de individualizar as visualizações de tabelas através de um **filtro dinâmico** baseado no ID do utilizador. Isto oferece várias vantagens para determinados casos de utilização. Os pormenores podem ser consultados no [artigo de ajuda]({{< relref "help/base-editor/ansichten" >}}was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/) correspondente.
+O SeaTable dá-lhe a possibilidade de individualizar as visualizações de tabelas através de um **filtro dinâmico** baseado no ID do utilizador. Isto oferece várias vantagens para determinados casos de utilização. Os pormenores podem ser consultados no [artigo de ajuda]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}) correspondente.
 
 ![Filtragem com a ajuda do ID do utilizador](images/filter-with-user-id.png)

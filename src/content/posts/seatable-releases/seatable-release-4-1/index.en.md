@@ -52,7 +52,7 @@ The development of the Universal App Builder is on the home stretch and our team
 
 The **default settings** for views are another new feature on table pages. A default setting determines how the data is displayed when the page is called up. It thus provides a certain angle of view on the data, but it can be changed by the app users and thus the angle of view can be adapted to the needs of the users. The way it works is thus fundamentally different from the data settings that have been available for some time. The latter cannot be changed by users. The data settings are used to restrict the data displayed to the users.
 
-This is not the end of the improvements on the table side: with one click you can display the conditional cell formatting from the underlying table and thus [color the cells]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/).
+This is not the end of the improvements on the table side: with one click you can display the conditional cell formatting from the underlying table and thus [color the cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 
 ![New features in Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
