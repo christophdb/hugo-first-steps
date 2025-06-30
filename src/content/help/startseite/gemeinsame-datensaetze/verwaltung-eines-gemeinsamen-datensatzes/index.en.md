@@ -48,8 +48,8 @@ You can use the **Manage access** option to share your shared data set with anot
 
 ## Force synchronization with the shared data set
 
-As the creator of a shared data record, you can force the **synchronization** of dependent tables. You can find out the consequences and advantages of this [here](https://seatable.io/en/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+As the creator of a shared data record, you can force the **synchronization** of dependent tables. You can find out the consequences and advantages of this [here]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 ## Delete a shared data record
 
-If you want to delete a shared data record, you will find all the important information [here](https://seatable.io/en/docs/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes/).
+If you want to delete a shared data record, you will find all the important information [here]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}}).

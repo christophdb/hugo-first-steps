@@ -61,6 +61,6 @@ Take a few minutes to familiarize yourself with SeaTable's file management. Furt
 ## Help article with further information
 
 - [Instructions for the page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
-- [Save a PDF document in a column using the button](https://seatable.io/en/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/)
+- [Save a PDF document in a column using the button]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}})
 - [The file column]({{< relref "help/base-editor/dateien/die-datei-spalte" >}})
 - [The file management of a base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}})

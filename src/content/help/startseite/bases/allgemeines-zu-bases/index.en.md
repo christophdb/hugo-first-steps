@@ -15,10 +15,10 @@ At first glance, a Base is just a **container** for one or more **tables**. From
 - Relational database functions and the [linking of tables]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) covering all common data formats
 - Various [sharing options for]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}})
-- Real-time [collaboration](https://seatable.io/en/docs/seatable-nutzen/zusammenarbeit/) with other users and real-time transmission of all changes
+- Real-time [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) with other users and real-time transmission of all changes
 - A [comment function for]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) each record in a row
 - Complete [versioning]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) all changes
-- An integrated [web form editor]({{< relref "help/base-editor/webformulare/webformulare" >}}) and graphical [plugins](https://seatable.io/en/docs/seatable-nutzen/ansichten/)
+- An integrated [web form editor]({{< relref "help/base-editor/webformulare/webformulare" >}}) and graphical [plugins]({{< relref "help/base-editor/ansichten" >}})
 - Simple integration options thanks to REST API
 
 Bases are therefore much more than "table containers" on the web. You will appreciate these advantages very quickly and never want to miss them again!
@@ -27,7 +27,7 @@ Bases are therefore much more than "table containers" on the web. You will appre
 
 Each Base has one (and only one) **owner**. However, transferring ownership of a Base from one user to another user is possible.
 
-The owner of a Base is either a **user** or a **group**. If a user is the owner of a base, then only this user has full power of disposal. If the base belongs to a group, then all administrators of the group have full access to it. Here you can learn more about the [permissions of individual group members](https://seatable.io/en/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/).
+The owner of a Base is either a **user** or a **group**. If a user is the owner of a base, then only this user has full power of disposal. If the base belongs to a group, then all administrators of the group have full access to it. Here you can learn more about the [permissions of individual group members]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
 
 Direct transfer of ownership from one user to another is currently (as of 3/20/2023) not possible. However, you can **change** ownership indirectly by exporting a base and having the new owner import it. For more information on importing and exporting bases, see the article [Data import and export]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
@@ -41,7 +41,7 @@ You have **three options** when creating a new Base. You can read more about the
 
 - [Create empty base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [Import base from a file](https://seatable.io/en/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
-- [Create base from template](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/)
+- [Create base from template]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}})
 
 ## Base management
 
@@ -59,7 +59,7 @@ You can give a new look to the bases you are the owner or administrator of. You 
 
 ## Add Base Description
 
-You can add a description to your bases to give other users an "instruction manual" or to record supplementary information about a base. Learn how to use this feature [here](https://seatable.io/en/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/).
+You can add a description to your bases to give other users an "instruction manual" or to record supplementary information about a base. Learn how to use this feature [here]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}).
 
 ## Release bases
 
@@ -83,7 +83,7 @@ For more information on exporting bases, see the article [Saving a Base as a DTA
 
 ## Delete and restore bases
 
-You can [delete]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) and [restore](https://seatable.io/en/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) bases that you own or administer as needed for up to 30 days. To do this, follow the instructions in the linked articles.
+You can [delete]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) and [restore]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) bases that you own or administer as needed for up to 30 days. To do this, follow the instructions in the linked articles.
 
 ### Restore Base from Snapshot
 
@@ -94,4 +94,4 @@ You can view and restore snapshots of the bases you own or administer. You can l
 
 ## Set up email account in a Base
 
-If you want to send emails from a Base, you need to connect your email account to the Base. We will show you how to make use of this useful feature in SeaTable in the article [Setting up an email account in a Base](https://seatable.io/en/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+If you want to send emails from a Base, you need to connect your email account to the Base. We will show you how to make use of this useful feature in SeaTable in the article [Setting up an email account in a Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).

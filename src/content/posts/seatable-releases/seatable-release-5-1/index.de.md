@@ -34,7 +34,7 @@ Mehr Flexibilität bietet Version 5.1 auch beim **Vergrößern und Verschieben v
 
 ### Seitentyp Einzelner Datensatz
 
-Dieser Seitentyp unterstützt in SeaTable 5.1 – genauso wie Tabellen- und Abfrageseiten – die [Ausführung von Aktionen per Schaltfläche](https://seatable.io/docs/andere-spalten/die-schaltflaeche/). Ob Erstellung eines PDF-Dokuments, Aufruf einer Webseite, Veränderung eines Datensatzes oder Ausführung eines Skripts – all diese **Schaltflächen-Aktionen** können Sie nun auch hier starten. Eine [Bearbeitungsberechtigung für die Seite](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) ist dafür nicht notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen festlegen.
+Dieser Seitentyp unterstützt in SeaTable 5.1 – genauso wie Tabellen- und Abfrageseiten – die [Ausführung von Aktionen per Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Ob Erstellung eines PDF-Dokuments, Aufruf einer Webseite, Veränderung eines Datensatzes oder Ausführung eines Skripts – all diese **Schaltflächen-Aktionen** können Sie nun auch hier starten. Eine [Bearbeitungsberechtigung für die Seite](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) ist dafür nicht notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen festlegen.
 
 Die Toolbar bietet einen neuen **QR-Code-Generator**. Der QR-Code enthält den Link auf den aktuell angezeigten Eintrag. Auf einem Gegenstand oder Gerät angebracht, lassen sich über ein Tablet oder Smartphone ohne jede Tastatureingabe alle Daten in der App abrufen. Dadurch wird beispielsweise die Inventarverwaltung noch einfacher.
 
@@ -76,7 +76,7 @@ Apps können zwar auf Daten im Big-Data-Speicher zugreifen, in Apps erstellte Ei
 
 ![New big data management in SeaTable's App Builder](BigDataManagement_AppBuilder.png)
 
-Doch nicht nur die Integration mit den Apps haben wir verbessert, auch das [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) bietet neue Möglichkeiten. Das Plugin hat nun auf Zugriff auf den Big-Data-Speicher und kann **Dokumente für Zeilen im Big-Data-Speicher erstellen**.
+Doch nicht nur die Integration mit den Apps haben wir verbessert, auch das [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) bietet neue Möglichkeiten. Das Plugin hat nun auf Zugriff auf den Big-Data-Speicher und kann **Dokumente für Zeilen im Big-Data-Speicher erstellen**.
 
 ## Das neue Baum-Plugin
 
@@ -90,11 +90,11 @@ Hierarchien über bis zu drei Ebenen, das heißt Daten aus drei Tabellen, lassen
 
 Auch in dieser Version gibt es wieder mehr Neuigkeiten, als wir in überschaubarem Umfang in diesen Release Notes darstellen können. Daher folgen in aller Kürze noch ein paar weitere Features, die aus unserer Sicht eine Erwähnung verdienen.
 
-Der **Formel-Editor** erhält eine neue Funktion: **rowid()** gibt die ID der Zeile zurück. Diese lässt sich dann z. B. bei Schaltflächen-Aktionen oder Automationen verwenden. Aber nicht nur in der [Formel-Spalte](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/), sondern auch beim Spaltentyp Formel für Verknüpfungen gibt es Neuigkeiten: [Lookups](https://seatable.io/docs/verknuepfungen/die-lookup-funktion/) bieten nun eine Duplikatsprüfung. Wenn die Option **Duplikate nicht anzeigen** aktiviert ist, dann werden in jeder Zelle der Spalte nur einzigartige Werte angezeigt.
+Der **Formel-Editor** erhält eine neue Funktion: **rowid()** gibt die ID der Zeile zurück. Diese lässt sich dann z. B. bei Schaltflächen-Aktionen oder Automationen verwenden. Aber nicht nur in der [Formel-Spalte]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), sondern auch beim Spaltentyp Formel für Verknüpfungen gibt es Neuigkeiten: [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) bieten nun eine Duplikatsprüfung. Wenn die Option **Duplikate nicht anzeigen** aktiviert ist, dann werden in jeder Zelle der Spalte nur einzigartige Werte angezeigt.
 
 ![Color Picker introduced SeaTable 5.1](ColorPicker.png)
 
-In SeaTable 5.1 haben wir die Syntax-Hervorhebung im integrierten **Python Editor** verbessert, damit Sie bei [Skripten](https://seatable.io/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/) noch leichter den Überblick behalten. Auch haben wir einen Bug bei der automatischen Einrückung beseitigt.
+In SeaTable 5.1 haben wir die Syntax-Hervorhebung im integrierten **Python Editor** verbessert, damit Sie bei [Skripten]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) noch leichter den Überblick behalten. Auch haben wir einen Bug bei der automatischen Einrückung beseitigt.
 
 Ein neuer Color Picker, über den sich in Statistiken sowie auf manchen Seitentypen im App Builder Farben auswählen lassen, führt schneller zur Wunschfarbe. Der Picker ist jetzt übersichtlicher und zeigt die zuletzt verwendeten Farben an.
 

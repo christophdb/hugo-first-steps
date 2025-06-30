@@ -22,7 +22,11 @@ url: '/es/ayuda/duplizieren-einer-tabelle'
 
 7. Confirme con **Enviar**.
 
-{{< warning  headline="Nota"  text="También se duplican todas las vistas con todos los [ajustes de vista](https://seatable.io/es/docs/ansichtsoptionen/) para que la tabla copiada sea una copia exacta de la tabla original." />}}
+{{< warning  headline="Nota" >}}
+
+También se duplican todas las vistas con todos los [ajustes de vista]({{< relref "help/base-editor/ansichten" >}}) para que la tabla copiada sea una copia exacta de la tabla original.
+
+{{< /warning >}}
 
 **Este es el resultado con las entradas duplicadas**
 

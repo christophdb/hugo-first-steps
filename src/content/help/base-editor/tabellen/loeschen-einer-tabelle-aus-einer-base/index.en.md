@@ -21,7 +21,7 @@ You no longer need individual tables from your bases? Then you can delete them w
 
 ## Frequently asked questions
 
-{{< faq "Is it possible to recover deleted tables?" >}}In SeaTable you don't need to be afraid of deleting. Even if you accidentally delete a table, row or column, you can easily [recover](https://seatable.io/en/docs/bases-verwalten/eine-geloeschte-tabelle-wiederherstellen/) it. You can find your deleted data in the Base recycle bin.
+{{< faq "Is it possible to recover deleted tables?" >}}In SeaTable you don't need to be afraid of deleting. Even if you accidentally delete a table, row or column, you can easily [recover]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabelle-wiederherstellen" >}}) it. You can find your deleted data in the Base recycle bin.
 {{< /faq >}}
 {{< faq "I can not find the option to delete the table" >}}If there is only one table left in a base, the _Delete table_ option will not be displayed. Also, you must have the necessary permission to delete a table.
 

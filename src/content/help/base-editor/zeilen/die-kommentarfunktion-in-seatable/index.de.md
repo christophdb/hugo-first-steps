@@ -24,4 +24,4 @@ Kommentare in einer Tabelle werden weder beim [Export einer Base]({{< relref "he
 
 Eine ausführliche Anleitung, wie Sie Kommentare verfassen, lesen und löschen können, finden Sie hier:
 
-- [Zeilen kommentieren](https://seatable.io/docs/zeilendetails/zeilen-kommentieren/)
+- [Zeilen kommentieren]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})

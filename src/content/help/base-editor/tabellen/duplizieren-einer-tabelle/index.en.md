@@ -22,7 +22,11 @@ Do you need a table in your Base several times in a slightly modified form? Then
 
 7. Confirm with **Submit**.
 
-{{< warning  headline="Note"  text="All views are also duplicated with all [view settings](https://seatable.io/en/docs/ansichtsoptionen/) so that the copied table is an exact copy of the original table." />}}
+{{< warning  headline="Note" >}}
+
+All views are also duplicated with all [view settings]({{< relref "help/base-editor/ansichten" >}}) so that the copied table is an exact copy of the original table.
+
+{{< /warning >}}
 
 **This is what the result looks like with duplicated entries**
 

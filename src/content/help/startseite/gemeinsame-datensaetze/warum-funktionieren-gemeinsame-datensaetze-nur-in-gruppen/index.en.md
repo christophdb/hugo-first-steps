@@ -20,5 +20,5 @@ This circumstance is also referred to by a short **info text** that appears as s
 
 To be able to create a common record from a table view of a base that does **not** belong to a group, there is a simple way around the technical limitation described above:
 
-1. [Copy the corresponding base to any group.](https://seatable.io/en/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/)
-2. [Create a common record from the desired view.](https://seatable.io/en/docs/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes/)
+1. [Copy the corresponding base to any group.]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
+2. [Create a common record from the desired view.]({{< relref "help/startseite/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes" >}})

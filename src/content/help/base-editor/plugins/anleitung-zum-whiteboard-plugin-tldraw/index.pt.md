@@ -10,7 +10,7 @@ url: '/pt/ajuda/anleitung-zum-whiteboard-plugin-tldraw'
 
 O **plugin de quadro branco** dá-lhe a liberdade de visualizar graficamente processos e estruturas que não pode apresentar com os plugins anteriores. Também pode esboçar livremente esquemas e maquetas. Para o desenho, tem vários **elementos** como quadrados, elipses e setas, bem como **ferramentas** como a caneta, o apagador e a ferramenta de texto à escolha.
 
-Pode descobrir como ativar o plugin numa base [aqui](https://seatable.io/pt/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Pode descobrir como ativar o plugin numa base [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 {{< warning  headline="Não confundir com o antigo plugin de quadro branco"  text="Existe outro **plug-in de quadro branco** no SeaTable **(obsoleto)** que se baseia no projeto de código aberto Excalidraw. A substituição do plug-in tornou-se necessária porque o antigo plug-in do quadro branco não suportava a colaboração e revelou-se propenso a erros quando utilizado por vários utilizadores ao mesmo tempo. Como parte do lançamento da versão 6.0 no verão de 2025, iremos remover o antigo plug-in do SeaTable Cloud." />}}
 

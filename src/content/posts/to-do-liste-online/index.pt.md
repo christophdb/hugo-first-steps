@@ -93,7 +93,7 @@ Os lembretes podem ser claramente ordenados em cada lista e divididos em secçõ
 
 ## SeaTable: O polivalente para todos os tipos de listas
 
-O SeaTable é uma base de dados em linha que lhe permite organizar tarefas, informações, processos e ideias de forma fácil e clara. Beneficia de uma vista de lista clássica ou pode utilizar formatos de visualização alternativos, como o [quadro Kanban](https://seatable.io/pt/docs/plugins/anleitung-zum-kanban-plugin/), o [calendário](https://seatable.io/pt/docs/plugins/anleitung-zum-kalender-plugin/) ou um [gráfico de Gantt](https://seatable.io/pt/docs/plugins/anleitung-zum-timeline-plugin/).
+O SeaTable é uma base de dados em linha que lhe permite organizar tarefas, informações, processos e ideias de forma fácil e clara. Beneficia de uma vista de lista clássica ou pode utilizar formatos de visualização alternativos, como o [quadro Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), o [calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) ou um [gráfico de Gantt]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
 
 Outra funcionalidade interessante é a possibilidade de carregar [ficheiros]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) e [imagens]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) e anexá-los às tarefas. Também pode adicionar toda a informação que quiser, como uma data, uma prioridade e subtarefas em colunas adicionais.
 

@@ -40,7 +40,7 @@ url: '/ru/pomoshch/speichern-der-aktuellen-base-als-snapshot'
 Следующие статьи могут заинтересовать вас в связи с работой с моментальными снимками:
 
 - [Восстановление моментального снимка]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}})
-- [Возможности восстановления данных с помощью SeaTable](https://seatable.io/ru/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/)
+- [Возможности восстановления данных с помощью SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}})
 
 ## Часто задаваемые вопросы
 

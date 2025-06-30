@@ -58,9 +58,9 @@ Wie bei jeder SeaTable Vorlage handelt es sich um eine **Datenbank** mit verschi
 
 Admin-Ansicht der Arbeitszeit-Tabelle
 
-Über personalisierte, [mit der User-ID gefilterte Ansichten](https://seatable.io/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/) können Sie exakt steuern, wer welche Daten sehen kann, und so jedem Mitarbeiter sein eigenes Stundenkonto mit den für ihn relevanten Daten erstellen. Mehr dazu erfahren Sie in unserem [Erklärvideo auf YouTube](https://www.youtube.com/watch?v=nLXLACzVhAQ).
+Über personalisierte, [mit der User-ID gefilterte Ansichten]({{< relref "help/base-editor/ansichten" >}}was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/) können Sie exakt steuern, wer welche Daten sehen kann, und so jedem Mitarbeiter sein eigenes Stundenkonto mit den für ihn relevanten Daten erstellen. Mehr dazu erfahren Sie in unserem [Erklärvideo auf YouTube](https://www.youtube.com/watch?v=nLXLACzVhAQ).
 
-Damit sowohl Ihre Mitarbeiter als auch Sie selbst jederzeit die Einhaltung der Arbeitszeitregelungen im Blick haben, errechnet SeaTable die geleistete Stundenzahl sowie die Über- oder Unterstunden in Bezug auf die reguläre tägliche Arbeitszeit. Durch die [farbliche Markierung](https://seatable.io/docs/ansichtsoptionen/farbliche-markierung-von-zellen/) der Zeilen sehen Sie und Ihre Teammitglieder direkt, ob der Stundensaldo eines Tages im Minus (rot) oder im Plus (grün) ist.
+Damit sowohl Ihre Mitarbeiter als auch Sie selbst jederzeit die Einhaltung der Arbeitszeitregelungen im Blick haben, errechnet SeaTable die geleistete Stundenzahl sowie die Über- oder Unterstunden in Bezug auf die reguläre tägliche Arbeitszeit. Durch die [farbliche Markierung]({{< relref "help/base-editor/ansichten" >}}farbliche-markierung-von-zellen/) der Zeilen sehen Sie und Ihre Teammitglieder direkt, ob der Stundensaldo eines Tages im Minus (rot) oder im Plus (grün) ist.
 
 In einer mit SeaTable gebauten Mitarbeiter-App können Sie die Datenerfassung intuitiv und benutzerfreundlich gestalten, indem Sie Ihre Mitarbeiter die Arbeitszeiten, Urlaubsanträge und Krankmeldungen in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) erfassen lassen. Dabei können Sie die Eingabefelder mit konkreten Anweisungen versehen, um die Ausfüllenden sicher durch den Prozess zu leiten. Ein ausgefülltes Webformular entspricht je einem Werktag, einem Urlaubsantrag oder einer Krankmeldung.
 
@@ -68,7 +68,7 @@ In einer mit SeaTable gebauten Mitarbeiter-App können Sie die Datenerfassung in
 
 Mitarbeiter-App für Arbeitszeiten, Urlaubsanträge und Krankmeldung
 
-Wenn Ihre Mitarbeiter die Formulare absenden, fügt SeaTable neue Einträge in den entsprechenden Tabellen hinzu, die Sie als Führungskraft anschließend in der Management-App freigeben oder ablehnen können. Auf Ihrem Dashboard können Sie Statistiken einbauen, mit denen Sie alle Überstunden, Urlaube und Krankmeldungen Ihrer Mitarbeiter im Blick behalten. Der [Kalender](https://seatable.io/docs/plugins/anleitung-zum-kalender-plugin/) ermöglicht zudem die Darstellung der Daten in einer kalendarischen Übersicht.
+Wenn Ihre Mitarbeiter die Formulare absenden, fügt SeaTable neue Einträge in den entsprechenden Tabellen hinzu, die Sie als Führungskraft anschließend in der Management-App freigeben oder ablehnen können. Auf Ihrem Dashboard können Sie Statistiken einbauen, mit denen Sie alle Überstunden, Urlaube und Krankmeldungen Ihrer Mitarbeiter im Blick behalten. Der [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) ermöglicht zudem die Darstellung der Daten in einer kalendarischen Übersicht.
 
 ![Management-App für Zeiterfassung, Urlaubsanträge und Krankmeldung](Dashboard_4MB.gif)
 

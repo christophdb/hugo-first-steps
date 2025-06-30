@@ -22,7 +22,11 @@ Vous avez besoin d'un tableau dans votre base plusieurs fois sous une forme lég
 
 7. Confirmez en cliquant sur **Envoyer**.
 
-{{< warning  headline="Remarque"  text="Toutes les vues sont également dupliquées avec tous les [paramètres de vue](https://seatable.io/fr/docs/ansichtsoptionen/), de sorte que le tableau copié soit une copie exacte du tableau original." />}}
+{{< warning  headline="Remarque" >}}
+
+Toutes les vues sont également dupliquées avec tous les [paramètres de vue]({{< relref "help/base-editor/ansichten" >}}), de sorte que le tableau copié soit une copie exacte du tableau original.
+
+{{< /warning >}}
 
 **Voici à quoi ressemble le résultat avec des entrées dupliquées**
 

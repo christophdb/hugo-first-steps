@@ -18,7 +18,7 @@ This morning we updated SeaTable Cloud to version 4.2. All self-hosters can do t
 
 ## Version management in universal apps
 
-The [snapshot functionality](https://seatable.io/en/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) is part of SeaTable's DNA. Even in version 1.0, snapshots of the status of a base could be created and restored at a later point in time. It is therefore only logical to integrate such a function into the Universal App Builder.
+The [snapshot functionality]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) is part of SeaTable's DNA. Even in version 1.0, snapshots of the status of a base could be created and restored at a later point in time. It is therefore only logical to integrate such a function into the Universal App Builder.
 
 ![Version management in universal apps](Version-management-in-Universal-Apps.gif)
 
@@ -28,7 +28,11 @@ The new **version management** is located behind the {{< seatable-icon icon="dta
 
 If you restore a saved snapshot, the app is reset to the previous status. All changes made since then are discarded. The snapshot restore in the app therefore works differently than in the base, where the snapshot is restored in a new base.
 
-{{< warning headline="Attention" text="**Currently, base snapshots do not** contain any apps. This means that when [a base snapshot is restored](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/), the apps contained in the base are not restored. This functionality will be added in one of the following versions of SeaTable." />}}
+{{< warning headline="Attention" >}}
+
+**Currently, base snapshots do not** contain any apps. This means that when [a base snapshot is restored]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}), the apps contained in the base are not restored. This functionality will be added in one of the following versions of SeaTable.
+
+{{< /warning >}}
 
 ## Duplicate check on table and form pages
 
@@ -54,13 +58,13 @@ The development of the Universal App Builder will continue unabated in the comin
 
 ## Modify records for periodic automations
 
-Previously, you could only trigger the [automated "Edit entry" action](https://seatable.io/en/docs/automationen/automations-aktionen/#6-toc-title) by adding new rows or changing entries. Now you can also **run** this automation **periodically for entries that meet certain conditions**. The entries in the table are then always adjusted at a specific time according to the settings defined in advance.
+Previously, you could only trigger the [automated "Edit entry" action]({{< relref "help/base-editor/automationen/automations-aktionen" >}}#6-toc-title) by adding new rows or changing entries. Now you can also **run** this automation **periodically for entries that meet certain conditions**. The entries in the table are then always adjusted at a specific time according to the settings defined in advance.
 
 ![Execute automated action "Edit entry" periodically](Run-automated-action-Modify-record-periodically-.png)
 
 ## New function in the formula column: iserror()
 
-The new **iserror()** function is a treat for [formula fans](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/). It checks whether an argument is an **error value** (e.g. #DIV/0!, #VALUE!). Thanks to this function, a higher quality of result can be achieved, especially for [formulas with if operators](https://seatable.io/en/docs/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten/).
+The new **iserror()** function is a treat for [formula fans]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). It checks whether an argument is an **error value** (e.g. #DIV/0!, #VALUE!). Thanks to this function, a higher quality of result can be achieved, especially for [formulas with if operators]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
 
 ## And much more
 
@@ -78,6 +82,10 @@ From version 4.2, you can convert [private views](https://seatable.io/en/docs/gr
 
 In the [Calculate rank](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/) data processing operation, you can now select the **order** in which the values are to be listed. To do this, specify whether the largest or the smallest value should come first.
 
-{{< warning headline="New authorization" text="As the owner or administrator of a base, you can specify in the [security settings](https://seatable.io/en/docs/arbeiten-mit-bases/sicherheitseinstellungen-in-einer-base/) whether users have the right to create and edit data processing operations." />}}
+{{< warning headline="New authorization" >}}
+
+As the owner or administrator of a base, you can specify in the [security settings]({{< relref "help/base-editor/weitere-optionen/sicherheitseinstellungen-in-einer-base" >}}) whether users have the right to create and edit data processing operations.
+
+{{< /warning >}}
 
 In addition, SeaTable 4.2 now also supports the column type [Automatic number](https://seatable.io/en/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) for the data processing operations [Auto add link](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) as well as [Lookup and copy](https://seatable.io/en/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/).

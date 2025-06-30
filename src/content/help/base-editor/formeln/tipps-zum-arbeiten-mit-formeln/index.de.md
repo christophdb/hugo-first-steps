@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/tipps-zum-arbeiten-mit-formeln'
 ---
 
-Hier finden Sie Hilfestellungen und Tipps, die Ihnen die Arbeit mit Seatable Formeln erleichtern. Eine Liste aller verfügbaren Formeln finden Sie [hier](https://seatable.io/docs/formeln/formelreferenz/).
+Hier finden Sie Hilfestellungen und Tipps, die Ihnen die Arbeit mit Seatable Formeln erleichtern. Eine Liste aller verfügbaren Formeln finden Sie [hier]({{< relref "help/base-editor/formeln/formelreferenz" >}}).
 
 ## Leerzeichen und Zeilenumbrüche nutzen
 
@@ -53,4 +53,4 @@ Ein optimaler Weg eine Formel zu planen könnte beispielsweise so aussehen:
 2. Suchen Sie im Formeleditor nach einer passenden **Funktion** (z. B. dateDif).
 3. Nutzen Sie die **Syntax** der Funktion zur Überprüfung der korrekten Schreibweise, z. B. dateDif(Startdatum, Enddatum, Einheit).
 4. Schreiben Sie die **Formel** in das vorgesehene Textfeld im Formeleditor. Nutzen Sie **Zeilenumbrüche** und **Leerzeichen**, um die Logik Ihrer Formel besser sichtbar zu machen. Treten Unklarheiten auf, kontrollieren Sie die Formel anhand der Syntax.
-   **Tipp**: Vor allem zu Beginn kann es hilfreich sein, zunächst lediglich Teile einer Formel zu schreiben und diese dann nach und nach mit weiteren Elementen zu ergänzen.6. Kontrollieren Sie Ihre Formel auf mögliche **Fehlermeldungen**. Falls Ihnen etwaige angezeigt werden, versuchen Sie zunächst diese selbstständig zu beheben. Falls Sie weitere Hilfe benötigen, nutzen Sie gerne unseren Hilfeartikel [Typische Fehler beim Arbeiten mit Formeln](https://seatable.io/docs/formeln/typische-fehler-beim-arbeiten-mit-formeln/).
+   **Tipp**: Vor allem zu Beginn kann es hilfreich sein, zunächst lediglich Teile einer Formel zu schreiben und diese dann nach und nach mit weiteren Elementen zu ergänzen.6. Kontrollieren Sie Ihre Formel auf mögliche **Fehlermeldungen**. Falls Ihnen etwaige angezeigt werden, versuchen Sie zunächst diese selbstständig zu beheben. Falls Sie weitere Hilfe benötigen, nutzen Sie gerne unseren Hilfeartikel [Typische Fehler beim Arbeiten mit Formeln]({{< relref "help/base-editor/formeln/typische-fehler-beim-arbeiten-mit-formeln" >}}).

@@ -26,9 +26,9 @@ Welche Schritte nötig sind, um ein E-Mail-Konto einer Base hinzuzufügen, und w
 
 Um die Kontoeinrichtung zu erleichtern, bieten wir für die populärsten E-Mail-Provider Schritt-für-Schritt-Anleitungen:
 
-- [Gmail](https://seatable.io/docs/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
-- [GMX und WEB.DE](https://seatable.io/docs/integrationen-innerhalb-von-seatable/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
-- [Outlook und Microsoft 365](https://seatable.io/docs/integrationen-innerhalb-von-seatable/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten/)
+- [Gmail]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [GMX und WEB.DE]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
+- [Outlook und Microsoft 365]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
 
 ## Testen der E-Mail-Konfiguration
 

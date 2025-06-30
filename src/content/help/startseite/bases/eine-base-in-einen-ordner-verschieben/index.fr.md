@@ -32,4 +32,4 @@ Pour obtenir une meilleure vue d'ensemble de vos bases, vous avez la possibilit�
 
 ## Restriction
 
-Une base ne peut être déplacée que vers un dossier appartenant au même **groupe** que la base elle-même. Si vous souhaitez déplacer une base vers un dossier d'un autre groupe, vous devez d'abord [copier](https://seatable.io/fr/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/) la base correspondante [dans le groupe souhaité](https://seatable.io/fr/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/).
+Une base ne peut être déplacée que vers un dossier appartenant au même **groupe** que la base elle-même. Si vous souhaitez déplacer une base vers un dossier d'un autre groupe, vous devez d'abord [copier]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) la base correspondante [dans le groupe souhaité]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).

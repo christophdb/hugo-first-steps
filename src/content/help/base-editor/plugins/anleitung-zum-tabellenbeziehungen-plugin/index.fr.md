@@ -10,7 +10,7 @@ url: '/fr/aide/anleitung-zum-tabellenbeziehungen-plugin'
 
 Surtout lorsque de nombreux tableaux avec des dizaines de colonnes se trouvent dans une base, on perd rapidement la vue d'ensemble de la manière dont ils sont reliés entre eux. Le plug-in Relations entre les tableaux permet de voir quels tableaux sont reliés entre eux et par quelles colonnes.
 
-Pour savoir comment activer le plugin dans une base, [cliquez ici](https://seatable.io/fr/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Plugin de relations entre les tables](images/Table-Relationships-Plugin.png)
 
@@ -18,7 +18,7 @@ Pour savoir comment activer le plugin dans une base, [cliquez ici](https://seata
 
 Lorsque vous avez configuré et ouvert le plug-in Relations entre les tableaux, vous voyez d'abord **tous les tableaux** qui se trouvent dans la base. Sous les noms de table en couleur sont listées **toutes les colonnes** qui ont été créées dans les tables respectives.
 
-Pour visualiser les liens des tableaux, vous verrez non seulement **des lignes pleines** pour les liens _directs_ via les [colonnes de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mais aussi des **lignes en pointillés** pour les liens _indirects_ via les colonnes de formules de liens (par exemple [les lookups](https://seatable.io/fr/docs/verknuepfungen/die-lookup-funktion/)).
+Pour visualiser les liens des tableaux, vous verrez non seulement **des lignes pleines** pour les liens _directs_ via les [colonnes de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mais aussi des **lignes en pointillés** pour les liens _indirects_ via les colonnes de formules de liens (par exemple [les lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}})).
 
 ## Options de paramétrage d'un graphique de relations entre tableaux
 

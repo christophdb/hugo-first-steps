@@ -18,7 +18,7 @@ En outre, SeaTable propose d'autres colonnes qui correspondent parfois mieux aux
 
 - Durée et périodes = [colonne durée]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}})
 - Date et points de temps = [colonne date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- Informations géographiques = [colonne de géopositionnement](https://seatable.io/fr/docs/andere-spalten/die-geopositions-spalte/)
+- Informations géographiques = [colonne de géopositionnement]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}})
 
 ## Ajouter une colonne de chiffres
 

@@ -10,9 +10,13 @@ url: '/help/anleitung-zum-whiteboard-plugin'
 
 The **whiteboard plugin** gives you the freedom to graphically visualize processes and structures that you cannot display with the previous plugins. You can also freely sketch layouts and mockups. For the design, you have various **elements** such as squares, ellipses and arrows as well as **tools** such as pen, eraser and the text tool to choose from.
 
-You can find out how to activate the plugin in a base [here](https://seatable.io/en/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+You can find out how to activate the plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-{{< warning  headline="Attention: This plugin is being scrapped!"  text="As the whiteboard plugin (obsolete), which is based on the open source project excalidraw, does not support collaboration and proved to be prone to errors when used by several users at the same time, we will remove it from SeaTable Cloud as part of the 6.0 release in summer 2025. All drawings in the old whiteboard plugin will then no longer be available. We therefore recommend switching to the new [whiteboard plugin (tldraw)](https://seatable.io/en/docs/plugins/anleitung-zum-whiteboard-plugin-tldraw/) as soon as possible and transferring existing content using copy-and-paste." />}}
+{{< warning  headline="Attention: This plugin is being scrapped!" >}}
+
+As the whiteboard plugin (obsolete), which is based on the open source project excalidraw, does not support collaboration and proved to be prone to errors when used by several users at the same time, we will remove it from SeaTable Cloud as part of the 6.0 release in summer 2025. All drawings in the old whiteboard plugin will then no longer be available. We therefore recommend switching to the new [whiteboard plugin (tldraw)]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin-tldraw" >}}) as soon as possible and transferring existing content using copy-and-paste.
+
+{{< /warning >}}
 
 ## Setting options for a whiteboard drawing
 

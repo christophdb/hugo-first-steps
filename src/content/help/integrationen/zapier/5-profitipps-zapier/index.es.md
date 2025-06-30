@@ -16,7 +16,7 @@ SeaTable le permite enlazar registros entre dos tablas. Para más detalles, cons
 
 ![Enlaces en SeaTable](images/zapier-linked-columns.png)
 
-Ahora hay una característica especial: en lugar de mostrar el valor deseado (en este caso Marion) como en SeaTable, Zapier siempre proporciona el ID de fila de la entrada vinculada para una columna de enlace. Si desea acceder al valor _Marion_ u otras columnas de la entrada vinculada como se muestra aquí, tiene que crear [columnas de búsqueda](https://seatable.io/es/docs/verknuepfungen/die-lookup-funktion/) a través de las cuales puede acceder a los valores deseados. En este ejemplo, tendría que crear otra columna de consulta con el nombre.
+Ahora hay una característica especial: en lugar de mostrar el valor deseado (en este caso Marion) como en SeaTable, Zapier siempre proporciona el ID de fila de la entrada vinculada para una columna de enlace. Si desea acceder al valor _Marion_ u otras columnas de la entrada vinculada como se muestra aquí, tiene que crear [columnas de búsqueda]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) a través de las cuales puede acceder a los valores deseados. En este ejemplo, tendría que crear otra columna de consulta con el nombre.
 
 ![columnas enlazadas en zapier](images/zapier-linked-columns2.png)
 

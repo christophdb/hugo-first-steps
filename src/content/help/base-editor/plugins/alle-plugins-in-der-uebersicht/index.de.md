@@ -77,15 +77,6 @@ Mithilfe des Seitendesign-Plugins können Sie **Dokumente** wie Serienbriefe, Vi
 
 [Mehr zum Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 
-Diese Artikel könnten für Sie auch interessant sein:
-
-- [Statisches Bild](https://seatable.io/docs/seitendesign-plugin/statisches-bild/)
-- [Statischer Text](https://seatable.io/docs/seitendesign-plugin/statischer-text/)
-- [Dynamische Elemente](https://seatable.io/docs/seitendesign-plugin/dynamische-elemente/)
-- [Kopf- und Fußzeile](https://seatable.io/docs/seitendesign-plugin/kopf-und-fusszeile/)
-- [Einträge und Seiten](https://seatable.io/docs/seitendesign-plugin/eintraege-und-seiten/)
-- [Tabellenfelder](https://seatable.io/docs/seitendesign-plugin/tabellenfelder/)
-
 ## Kanban-Plugin
 
 Mit dem Kanban-Plugin können Sie Tabelleneinträge auf einem **Kanban-Board** darstellen. Jeder Eintrag wird mit einer Karte visualisiert und kann zwischen verschiedenen Säulen hin- und hergeschoben werden. Die Kanban-Methode können Sie im agilen **Projekt- und Workflow-Management** einsetzen. Durch die Visualisierung von **Aufgaben**, die nach Status oder Projektphase gruppiert sind, gewinnen Sie einen hervorragenden Überblick über den Fortschritt von Arbeitsabläufen.

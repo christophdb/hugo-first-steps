@@ -20,7 +20,7 @@ seo:
 
 ### Кнопки на страницах запросов
 
-[Страницы запросов](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) теперь поддерживают выполнение действий с помощью кнопок: После успешного запроса данных вы можете нажимать [кнопки](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/) в отображаемом списке хитов для выполнения действий. Это особенная новая функция, поскольку ранее не было возможности взаимодействовать с запрашиваемыми строками в любом месте SeaTable.
+[Страницы запросов](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) теперь поддерживают выполнение действий с помощью кнопок: После успешного запроса данных вы можете нажимать [кнопки]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) в отображаемом списке хитов для выполнения действий. Это особенная новая функция, поскольку ранее не было возможности взаимодействовать с запрашиваемыми строками в любом месте SeaTable.
 
 ![Кнопки выполнения на страницах запросов](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -32,7 +32,7 @@ seo:
 
 ### Упрощенная обработка данных на странице таблицы
 
-Как и в Base, теперь вы можете [выбрать все записи в столбце](https://seatable.io/ru/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/) на [страницах таблиц](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) ваших приложений одним щелчком мыши на заголовке столбца. Также появилась возможность использовать практичную [ручку заполнения](https://seatable.io/ru/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/): перетащите маленький квадратик в правом нижнем углу ячейки вниз, чтобы перенести значение на все строки ниже.
+Как и в Base, теперь вы можете [выбрать все записи в столбце]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) на [страницах таблиц](https://seatable.io/ru/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) ваших приложений одним щелчком мыши на заголовке столбца. Также появилась возможность использовать практичную [ручку заполнения](https://seatable.io/ru/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/): перетащите маленький квадратик в правом нижнем углу ячейки вниз, чтобы перенести значение на все строки ниже.
 
 ![Пометить записи в столбце](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
@@ -66,23 +66,23 @@ SeaTable 4.4 делает [импорт таблиц Excel]({{< relref "help/sta
 
 ## Дополнительные функции для записей общих данных
 
-[Общие наборы данных]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) очень полезны, если вам и членам вашей команды нужны определенные таблицы (например, список сотрудников) для разных [групп](https://seatable.io/ru/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/) в ваших базах. SeaTable 4.4 добавляет три новые функции к уже существующим:
+[Общие наборы данных]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) очень полезны, если вам и членам вашей команды нужны определенные таблицы (например, список сотрудников) для разных [групп]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen" >}}) в ваших базах. SeaTable 4.4 добавляет три новые функции к уже существующим:
 
-1. Если у вас есть [Копировальная база](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)Если вы копируете базу в группу, в которую включены общие записи данных, вы можете решить, сохранять ли связь с этими записями данных. Группа, в которую вы копируете базу, конечно же, должна иметь доступ к общим записям данных.
+1. Если у вас есть [Копировальная база]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})Если вы копируете базу в группу, в которую включены общие записи данных, вы можете решить, сохранять ли связь с этими записями данных. Группа, в которую вы копируете базу, конечно же, должна иметь доступ к общим записям данных.
 
     ![Сохранение ссылки на общий набор данных при копировании базы](Retain-link-to-common-dataset-when-copying-a-base.gif)
 
-2. После [Восстановление баз из моментальных снимков](https://seatable.io/ru/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) или [Создание базы из шаблона](https://seatable.io/ru/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) вы можете связать существующие таблицы с общей записью данных и тем самым обеспечить синхронизацию с данными в ней. Ранее записи с общими данными нельзя было повторно импортировать, а только интегрировать в новые таблицы.
+2. После [Восстановление баз из моментальных снимков]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) или [Создание базы из шаблона]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}) вы можете связать существующие таблицы с общей записью данных и тем самым обеспечить синхронизацию с данными в ней. Ранее записи с общими данными нельзя было повторно импортировать, а только интегрировать в новые таблицы.
 
     ![Повторный импорт общего набора данных](Reimport-common-dataset.gif)
 
-3. Создатель записи общих данных теперь может выбрать [Синхронизация](https://seatable.io/ru/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) всех зависимых таблиц с набором данных и, таким образом, гарантировать, что другие пользователи используют текущее состояние данных в своих базах. Раньше приходилось полагаться на пользователей, настраивающих автоматическую синхронизацию или запускающих ее вручную.
+3. Создатель записи общих данных теперь может выбрать [Синхронизация]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) всех зависимых таблиц с набором данных и, таким образом, гарантировать, что другие пользователи используют текущее состояние данных в своих базах. Раньше приходилось полагаться на пользователей, настраивающих автоматическую синхронизацию или запускающих ее вручную.
 
     ![Принудительная синхронизация общего набора данных](Force-sync-of-common-dataset.png)
 
 ## Значения по умолчанию применяются везде
 
-В версии 4.4 SeaTable обобщает использование [значений по умолчанию](https://seatable.io/ru/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Когда вы создаете новую строку, будь то в таблице базы или приложения, через [колонку ссылок](https://seatable.io/ru/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [веб-форму]({{< relref "help/base-editor/webformulare" >}}), [кнопку](https://seatable.io/ru/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) или [автоматизацию](https://seatable.io/ru/docs/automationen/automations-aktionen/), значения по умолчанию применяются везде при создании строки. Ранее значения по умолчанию применялись только при создании новой строки в таблице вручную.
+В версии 4.4 SeaTable обобщает использование [значений по умолчанию](https://seatable.io/ru/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). Когда вы создаете новую строку, будь то в таблице базы или приложения, через [колонку ссылок]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [веб-форму]({{< relref "help/base-editor/webformulare" >}}), [кнопку]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) или [автоматизацию]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), значения по умолчанию применяются везде при создании строки. Ранее значения по умолчанию применялись только при создании новой строки в таблице вручную.
 
 Поскольку область значений по умолчанию значительно расширилась, мы также создали заметный пункт меню в опциях столбца, с помощью которого вы можете удобно устанавливать значения по умолчанию.
 
@@ -94,8 +94,8 @@ SeaTable 4.4 делает [импорт таблиц Excel]({{< relref "help/sta
 
 ## И многое другое
 
-Вы уже знакомы с **редактором форматированного текста** из различных мест SeaTable, например, из [описания базы](https://seatable.io/ru/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/), [типа колонки для длинных текстов](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) или [сообщений электронной почты]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). В SeaTable 4.4 мы улучшили удобство использования и исправили некоторые ошибки. Вот только две: раньше при закрытии редактора удалялись множественные переносы строк, а при вводе текста в ячейку перезаписывался существующий текст. В новом редакторе множественные переносы строк сохраняются и могут быть использованы для более четкого структурирования текста. Мы также устранили риск непреднамеренного удаления: При вводе новый текст помещается перед существующим.
+Вы уже знакомы с **редактором форматированного текста** из различных мест SeaTable, например, из [описания базы]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), [типа колонки для длинных текстов](https://seatable.io/ru/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) или [сообщений электронной почты]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). В SeaTable 4.4 мы улучшили удобство использования и исправили некоторые ошибки. Вот только две: раньше при закрытии редактора удалялись множественные переносы строк, а при вводе текста в ячейку перезаписывался существующий текст. В новом редакторе множественные переносы строк сохраняются и могут быть использованы для более четкого структурирования текста. Мы также устранили риск непреднамеренного удаления: При вводе новый текст помещается перед существующим.
 
 В новой версии мы также улучшили **центр уведомлений** {{< seatable-icon icon="dtable-icon-notice" >}} на стартовой странице. Теперь вы можете видеть все [уведомления](https://seatable.io/ru/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) в системе в одном месте, отслеживать источник уведомления и переходить на соответствующую страницу одним щелчком мыши.
 
-И последнее, но не менее важное: мы оптимизировали диалог для **сброса пароля SeaTable**. Для этого мы стандартизировали дизайн и добавили больше функций. Если вы [изменили пароль](https://seatable.io/ru/docs/persoenliche-einstellungen/eigenes-passwort-aendern/) в личных настройках, теперь его можно вывести в виде обычного текста, нажав на символ глаза. Также автоматически отображается надежность нового пароля.
+И последнее, но не менее важное: мы оптимизировали диалог для **сброса пароля SeaTable**. Для этого мы стандартизировали дизайн и добавили больше функций. Если вы [изменили пароль]({{< relref "help/startseite/persoenliche-einstellungen/eigenes-passwort-aendern" >}}) в личных настройках, теперь его можно вывести в виде обычного текста, нажав на символ глаза. Также автоматически отображается надежность нового пароля.

@@ -52,4 +52,4 @@ Nach der Bestätigung des Löschvorgangs werden **alle doppelten Einträge** aus
 
 Beachten Sie bitte, dass **nicht nur** die als doppelt identifizierten **Werte** aus der Tabelle gelöscht werden, sondern mit ihnen auch **die ganzen Zeilen**, die einen der doppelten Werte enthalten.
 
-Sollten Sie die Einträge bzw. Zeilen versehentlich gelöscht haben oder im Anschluss doch wieder benötigen, können Sie sie für eine gewisse Zeit [aus dem Base-Papierkorb wiederherstellen](https://seatable.io/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/).
+Sollten Sie die Einträge bzw. Zeilen versehentlich gelöscht haben oder im Anschluss doch wieder benötigen, können Sie sie für eine gewisse Zeit [aus dem Base-Papierkorb wiederherstellen]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}).

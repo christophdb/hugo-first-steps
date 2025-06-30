@@ -73,7 +73,7 @@ Para comprobar qué aspecto tiene el formulario para el destinatario, haga clic 
 
 ### Formulario de exención de responsabilidad
 
-Para que otras personas puedan acceder al formulario, necesita un **enlace**. Puede obtener el enlace para el formulario en el editor de formularios web a través del botón **Compartir** de {{< seatable-icon icon="dtable-icon-share" >}}. Puedes utilizar el **enlace generado automáticamente** o crear **tus propios enlaces** y añadirles [valores prefijados](https://seatable.io/es/docs/webformulare/formularfelder-per-url-vorbefuellen/).
+Para que otras personas puedan acceder al formulario, necesita un **enlace**. Puede obtener el enlace para el formulario en el editor de formularios web a través del botón **Compartir** de {{< seatable-icon icon="dtable-icon-share" >}}. Puedes utilizar el **enlace generado automáticamente** o crear **tus propios enlaces** y añadirles [valores prefijados]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}).
 
 ![Nuevo diálogo de enlace de formularios en SeaTable 4.3](images/Formularlink-Dialog.gif)
 

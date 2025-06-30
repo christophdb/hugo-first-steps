@@ -22,11 +22,11 @@ Esta secção dá uma visão geral dos membros e grupos da sua equipa. Pode adic
 
 Os artigos seguintes podem ser do seu interesse:
 
-- [Adicionar um novo membro da equipa](https://seatable.io/pt/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
+- [Adicionar um novo membro da equipa]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
 - [Fazer de um membro da equipa um administrador](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
 - [Habilitar a autenticação de dois factores para um membro da equipa](https://seatable.io/pt/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)
 - [Autenticação de dois factores para toda a equipa](https://seatable.io/pt/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)
-- [Bloquear ou eliminar um membro da equipa](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
+- [Bloquear ou eliminar um membro da equipa]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 - [Mudar o nome da equipa](https://seatable.io/pt/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Grupos e os seus membros na administração da equipa](https://seatable.io/pt/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
 - [Criar um novo grupo]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
@@ -50,7 +50,7 @@ Ao eliminar toda a sua equipa na gestão da equipa, **termina automaticamente o 
 
 Os artigos seguintes podem ser do seu interesse:
 
-- [Eliminar a equipa completa](https://seatable.io/pt/docs/teamverwaltung/das-komplette-team-loeschen/)
+- [Eliminar a equipa completa]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
 ## API & Integrações
 
@@ -62,7 +62,7 @@ Através da administração da equipa, tem a possibilidade de criar um **bilhete
 
 Os artigos seguintes podem ser do seu interesse:
 
-- [Abrir um bilhete de apoio](https://seatable.io/pt/docs/teamverwaltung/ein-support-ticket-eroeffnen/)
+- [Abrir um bilhete de apoio]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
 
 ## Legal
 

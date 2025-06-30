@@ -135,7 +135,7 @@ Communication simple et directe dans le plan éditorial
 
 ### 5\. clarifier les choses grâce aux statistiques
 
-Vous souhaitez expérimenter avec différentes données et évaluer votre contenu comme vous le souhaitez ? Alors **créez [des statistiques](https://seatable.io/fr/docs/plugins/anleitung-zum-statistik-plugin/) pertinentes avec SeaTable**. Analysez par exemple les mois au cours desquels vous avez publié un nombre particulièrement élevé de contributions, quel collaborateur a écrit le plus de contributions ou sur quel canal le contenu a eu le plus de succès. Cela offre de nombreux aperçus précieux sur les domaines où les choses fonctionnent bien - et sur ceux où il y a peut-être encore des améliorations à apporter.
+Vous souhaitez expérimenter avec différentes données et évaluer votre contenu comme vous le souhaitez ? Alors **créez [des statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) pertinentes avec SeaTable**. Analysez par exemple les mois au cours desquels vous avez publié un nombre particulièrement élevé de contributions, quel collaborateur a écrit le plus de contributions ou sur quel canal le contenu a eu le plus de succès. Cela offre de nombreux aperçus précieux sur les domaines où les choses fonctionnent bien - et sur ceux où il y a peut-être encore des améliorations à apporter.
 
 ![Les statistiques donnent un aperçu précieux de la performance du contenu](Statistics.jpg)
 

@@ -56,12 +56,12 @@ To be able to distinguish the different elements of your formula from each other
 
 Below are a few examples that illustrate the utility and use of formulas.
 
-- [Formula example: Simple multiplication with a formula](https://seatable.io/en/docs/formeln/formelbeispiel-einfache-multiplikation-mit-einer-formel/)
-- [Formula example: Merging text columns using a formula](https://seatable.io/en/docs/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel/)
-- [Formula example: Logical if operators for comparing values](https://seatable.io/en/docs/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten/)
-- [Formula example: Calculate the duration of a vacation](https://seatable.io/en/docs/formeln/formelbeispiel-berechne-die-dauer-eines-urlaubs/)
-- [Formula example: Calculate days until an event](https://seatable.io/en/docs/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event/)
-- [Formula example: Search for a word in a text](https://seatable.io/en/docs/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen/)
+- [Formula example: Simple multiplication with a formula]({{< relref "help/base-editor/formeln/formelbeispiel-einfache-multiplikation-mit-einer-formel" >}})
+- [Formula example: Merging text columns using a formula]({{< relref "help/base-editor/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel" >}})
+- [Formula example: Logical if operators for comparing values]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}})
+- [Formula example: Calculate the duration of a vacation]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-die-dauer-eines-urlaubs" >}})
+- [Formula example: Calculate days until an event]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event" >}})
+- [Formula example: Search for a word in a text]({{< relref "help/base-editor/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen" >}})
 
 ## Mathematical conventions also apply in SeaTable
 

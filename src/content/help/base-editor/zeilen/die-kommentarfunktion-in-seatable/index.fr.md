@@ -24,4 +24,4 @@ Les commentaires dans un tableau ne sont pas pris en compte lors de l ['exportat
 
 Vous trouverez ici des instructions détaillées sur la manière de rédiger, de lire et de supprimer des commentaires :
 
-- [Commenter les lignes](https://seatable.io/fr/docs/zeilendetails/zeilen-kommentieren/)
+- [Commenter les lignes]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})

@@ -22,7 +22,7 @@ O SeaTable 5.0 marca o lançamento oficial do nosso construtor de aplicações s
 
 ### Novo tipo de página: Registo de dados único
 
-O desenvolvimento do App Builder continua: com o [tipo de página](https://seatable.io/pt/docs/universelle-apps/seitentypen-in-der-universellen-app/) **registo único de dados**, tem a possibilidade de conceber uma página com elementos estáticos, campos de tabela, cores, molduras, etc., para preparar visualmente os dados armazenados numa linha. Este tipo de página é, portanto, semelhante ao [plug-in de conceção de páginas](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) que já conhece do Base.
+O desenvolvimento do App Builder continua: com o [tipo de página](https://seatable.io/pt/docs/universelle-apps/seitentypen-in-der-universellen-app/) **registo único de dados**, tem a possibilidade de conceber uma página com elementos estáticos, campos de tabela, cores, molduras, etc., para preparar visualmente os dados armazenados numa linha. Este tipo de página é, portanto, semelhante ao [plug-in de conceção de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que já conhece do Base.
 
 Os utilizadores da aplicação podem ver, pesquisar, navegar e editar os registos de dados individuais nesta página - com a [autorização](https://seatable.io/pt/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) relevante. Este tipo de página é adequado, por exemplo, para apresentar os dados de uma base de dados de empregados como perfis pessoais.
 
@@ -40,13 +40,13 @@ Outro destaque do SeaTable 5.0 são os novos [plugins]({{< relref "help/base-edi
 
 ### Organigrama
 
-O plugin do organigrama pode ser utilizado para apresentar hierarquias entre os registos de dados de uma tabela, por exemplo, cargos numa empresa ou [tarefas superiores e subordinadas num projeto](https://seatable.io/pt/projektstrukturplan-vorlage/). Para visualizar as dependências dos registos de dados, é necessária uma [coluna de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) que se refira a uma mesma tabela. A entrada à qual se liga outra linha na mesma tabela é exibida como um registo de dados superordenado.
+O plugin do organigrama pode ser utilizado para apresentar hierarquias entre os registos de dados de uma tabela, por exemplo, cargos numa empresa ou [tarefas superiores e subordinadas num projeto](https://seatable.io/pt/projektstrukturplan-vorlage/). Para visualizar as dependências dos registos de dados, é necessária uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) que se refira a uma mesma tabela. A entrada à qual se liga outra linha na mesma tabela é exibida como um registo de dados superordenado.
 
 ![Plugin de organograma](Organigramm-Plugin.png)
 
 ### Relações de tabela
 
-Especialmente quando existem muitas tabelas com milhares de linhas numa base, é fácil perder a noção de como estão relacionadas umas com as outras. Com o novo plug-in de relações entre tabelas, pode visualizar as tabelas que estão ligadas entre si através de que colunas. São apresentadas não só as ligações directas através das [colunas de ligação](https://seatable.io/pt/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), mas também as ligações indirectas através das colunas de fórmula de ligação.
+Especialmente quando existem muitas tabelas com milhares de linhas numa base, é fácil perder a noção de como estão relacionadas umas com as outras. Com o novo plug-in de relações entre tabelas, pode visualizar as tabelas que estão ligadas entre si através de que colunas. São apresentadas não só as ligações directas através das [colunas de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mas também as ligações indirectas através das colunas de fórmula de ligação.
 
 ![Plugin de relações de tabela](Table-Relationships-Plugin.png)
 
@@ -90,4 +90,4 @@ Encontrará o **editor de textos longos** em muitos sítios. Se preencher campos
 
 Também está familiarizado com as **estatísticas** de vários locais no SeaTable: do [módulo de estatísticas](https://seatable.io/pt/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/) na base e de [páginas individuais em aplicações universais](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). Atualmente, actualizámos e uniformizámos significativamente as estatísticas com uma biblioteca de diagramas revista.
 
-Anteriormente, não era possível restaurar linhas que tinham sido movidas para o armazenamento de Big [Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) utilizando instantâneos. Para evitar a perda indesejada de dados, existe agora uma opção para restaurar também o armazenamento de grandes volumes de dados da versão anterior ao [restaurar instantâneos](https://seatable.io/pt/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Anteriormente, não era possível restaurar linhas que tinham sido movidas para o armazenamento de Big [Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) utilizando instantâneos. Para evitar a perda indesejada de dados, existe agora uma opção para restaurar também o armazenamento de grandes volumes de dados da versão anterior ao [restaurar instantâneos]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).

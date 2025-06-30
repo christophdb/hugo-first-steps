@@ -24,4 +24,4 @@ Comments in a table are not taken into account when [exporting a Base]({{< relre
 
 Detailed instructions on how to post, read and delete comments can be found here:
 
-- [rows comment](https://seatable.io/en/docs/zeilendetails/zeilen-kommentieren/)
+- [rows comment]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})

@@ -32,7 +32,7 @@ In SeaTable, [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}
 
 ![Importing a table from another base](images/import-table-from-other-base.gif)
 
-[Shared records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) also allow you to share a master table in a group and use and synchronize the table offshoots in different bases. You can learn more about this [here](https://seatable.io/en/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+[Shared records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) also allow you to share a master table in a group and use and synchronize the table offshoots in different bases. You can learn more about this [here]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}).
 
 ## Keep the overview
 

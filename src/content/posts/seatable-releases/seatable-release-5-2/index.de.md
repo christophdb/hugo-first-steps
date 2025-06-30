@@ -24,7 +24,7 @@ In kommenden Versionen führen wir Filtergruppen auch in Apps, Formularen und Au
 
 ## Bedingte Formatierung mit spaltenübergreifendem Filter
 
-Erweiterte Filtermöglichkeiten bietet die Version 5.2 auch in der bedingten [Zeilen-](https://seatable.io/docs/ansichtsoptionen/farbliche-markierung-von-zeilen/) und [Zellformatierung](https://seatable.io/docs/ansichtsoptionen/einfaerben-von-zellen/). Sie wollen eine Zelle auf Basis der Werte in anderen Spalten rot einfärben, um Aufmerksamkeit darauf zu lenken? Mit SeaTable 5.2 geht das! Die Farbcodierung einer Zeile oder Zelle lässt sich nun in Abhängigkeit jedes einzelnen Spaltenwerts in einem Datensatz formatieren. Und damit ist noch nicht Schluss: Die bedingte Formatierung kann auch Werte in mehreren Spalten berücksichtigen, unabhängig vom Spaltentyp.
+Erweiterte Filtermöglichkeiten bietet die Version 5.2 auch in der bedingten [Zeilen-]({{< relref "help/base-editor/ansichten" >}}farbliche-markierung-von-zeilen/) und [Zellformatierung]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/). Sie wollen eine Zelle auf Basis der Werte in anderen Spalten rot einfärben, um Aufmerksamkeit darauf zu lenken? Mit SeaTable 5.2 geht das! Die Farbcodierung einer Zeile oder Zelle lässt sich nun in Abhängigkeit jedes einzelnen Spaltenwerts in einem Datensatz formatieren. Und damit ist noch nicht Schluss: Die bedingte Formatierung kann auch Werte in mehreren Spalten berücksichtigen, unabhängig vom Spaltentyp.
 
 ![Improved conditional formatting in SeaTable 5.2](ConditionalFormatting.png)
 
@@ -48,7 +48,7 @@ Einfache [Webformulare]({{< relref "help/base-editor/webformulare" >}}), die sic
 
 ### Seitentyp Tabelle
 
-Die **voreingestellten Filter** in den Dateneinstellungen erlauben nun die Auswahl aller relevanten Spaltentypen inklusive [Formel-](https://seatable.io/docs/formeln/grundlagen-von-seatable-formeln/) und [Verknüpfungsspalten](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Damit ist eine wichtige funktionale Einschränkung bei der Vorfilterung der Daten aufgehoben. Mit der Implementierung von Filtergruppen in einer der kommenden Versionen wird dieser Seitentyp die gleichen leistungsfähigen Filtermöglichkeiten bieten wie die Base.
+Die **voreingestellten Filter** in den Dateneinstellungen erlauben nun die Auswahl aller relevanten Spaltentypen inklusive [Formel-]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) und [Verknüpfungsspalten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Damit ist eine wichtige funktionale Einschränkung bei der Vorfilterung der Daten aufgehoben. Mit der Implementierung von Filtergruppen in einer der kommenden Versionen wird dieser Seitentyp die gleichen leistungsfähigen Filtermöglichkeiten bieten wie die Base.
 
 ### Individuelle Seiten
 
@@ -98,17 +98,17 @@ Die Möglichkeit zur **Verwaltung von hierarchischen Daten in einer Tabelle** er
 
 ![Juxtaposition internal linking in SeaTable 5.1 and 5.2](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
 
-Für Benutzer bringt dies nur Vorteile ohne zusätzliche Komplexität. Legt ein Benutzer eine **Verknüpfungsspalte**, die Einträge in ein- und derselben Tabelle verknüpft, neu an, dann erstellt SeaTable automatisch die zweite Verknüpfungsspalte. Die Plugins [Organigramm](https://seatable.io/docs/plugins/anleitung-zum-organigramm-plugin/) und [Baum](https://seatable.io/docs/plugins/anleitung-zum-tree-plugin/) können mit der verbesserten Datenstruktur ebenfalls umgehen.
+Für Benutzer bringt dies nur Vorteile ohne zusätzliche Komplexität. Legt ein Benutzer eine **Verknüpfungsspalte**, die Einträge in ein- und derselben Tabelle verknüpft, neu an, dann erstellt SeaTable automatisch die zweite Verknüpfungsspalte. Die Plugins [Organigramm]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}) und [Baum]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}}) können mit der verbesserten Datenstruktur ebenfalls umgehen.
 
 Bei bestehenden Verknüpfungen innerhalb einer Tabelle findet keine Anpassung statt. Wenn Sie wechseln wollen, dann legen Sie eine neue Verknüpfungsspalte an und fügen die Links ein. Danach können Sie die alte Verknüpfungsspalte löschen.
 
-SeaTable unterstützt mit der neuen Version die **Anmeldung an Google und Microsoft E-Mail-Konten mittels OAuth**. (Microsoft nennt das “moderne Authentifizierung”.) Gerade die Nutzung von Microsoft E-Mail-Konten war bisher nur unter großen Einschränkungen möglich, nachdem Microsoft die Authentifizierung mittels Benutzername und Passwort abgekündigt hat. Im Benutzerhandbuch finden Sie detaillierte Anleitungen, wie Sie ein Gmail, Outlook.com oder MS 365 Konto in einer SeaTable Base als [Drittanbieterkonto einbinden](https://seatable.io/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+SeaTable unterstützt mit der neuen Version die **Anmeldung an Google und Microsoft E-Mail-Konten mittels OAuth**. (Microsoft nennt das “moderne Authentifizierung”.) Gerade die Nutzung von Microsoft E-Mail-Konten war bisher nur unter großen Einschränkungen möglich, nachdem Microsoft die Authentifizierung mittels Benutzername und Passwort abgekündigt hat. Im Benutzerhandbuch finden Sie detaillierte Anleitungen, wie Sie ein Gmail, Outlook.com oder MS 365 Konto in einer SeaTable Base als [Drittanbieterkonto einbinden]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
 Tabellen lassen sich nun, wie man es aus Microsoft Excel kennt, ausblenden. Ein **ausgeblendetes Tabellenblatt** wird nicht mehr als Tab angezeigt und ist nur noch über das Drop-down-Menü aufrufbar.
 
 [Checkboxen](https://seatable.io/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) bieten in SeaTable 5.2 mehr Stiloptionen und noch mehr Farboptionen. Wer den grünen Haken nicht mag, kann nun aus 69 anderen Optionen wählen.
 
-Im [Kalender-Plugin](https://seatable.io/docs/plugins/anleitung-zum-kalender-plugin/) lassen sich neue Einträge nun auch per Doppelklick oder über die neue Schaltfläche “+” anlegen.
+Im [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) lassen sich neue Einträge nun auch per Doppelklick oder über die neue Schaltfläche “+” anlegen.
 
 ## Zwei funktionale Änderungen
 

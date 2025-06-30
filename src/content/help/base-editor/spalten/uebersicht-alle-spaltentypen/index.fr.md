@@ -40,7 +40,7 @@ Dans ce type de colonne, vous pouvez enregistrer **des textes plus longs** avec 
 
 symbole : {{< seatable-icon icon="dtable-icon-number" >}} **Nombre**
 
-Les colonnes de nombres stockent **des informations numériques** et peuvent être utilisées de différentes manières pour travailler avec des nombres de toutes sortes. Une information numérique peut être un **nombre**, un **pourcentage** ou une **somme d'argent**. De plus, les colonnes numériques vous permettent de **calculer des valeurs** que vous pouvez visualiser à l'aide de formules et [de statistiques](https://seatable.io/fr/docs/seatable-nutzen/statistiken/). Cependant, les colonnes numériques ne conviennent pas pour stocker des chaînes de caractères de n'importe quelle longueur et SeaTable refuse de saisir des lettres dans ce type de colonne.
+Les colonnes de nombres stockent **des informations numériques** et peuvent être utilisées de différentes manières pour travailler avec des nombres de toutes sortes. Une information numérique peut être un **nombre**, un **pourcentage** ou une **somme d'argent**. De plus, les colonnes numériques vous permettent de **calculer des valeurs** que vous pouvez visualiser à l'aide de formules et [de statistiques]({{< relref "help/base-editor/statistiken" >}}). Cependant, les colonnes numériques ne conviennent pas pour stocker des chaînes de caractères de n'importe quelle longueur et SeaTable refuse de saisir des lettres dans ce type de colonne.
 
 [En savoir plus sur la colonne des chiffres]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
 
@@ -166,9 +166,9 @@ Vous trouverez plus d'informations sur le bouton et les actions pouvant être d�
 
 le symbole : {{< seatable-icon icon="dtable-icon-location" >}} **Géoposition**
 
-Dans cette colonne, vous pouvez enregistrer **des lieux** et les visualiser plus tard avec le [plug-in de carte](https://seatable.io/fr/docs/plugins/instructions-plugin-de-carte/). Pour cela, vous pouvez choisir d'indiquer le pays et la région ou la latitude et la longitude. Vous avez en outre la possibilité de trouver un pays ou une région à l'aide de la fonction de recherche et de l'ajouter comme entrée.
+Dans cette colonne, vous pouvez enregistrer **des lieux** et les visualiser plus tard avec le [plug-in de carte]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}/). Pour cela, vous pouvez choisir d'indiquer le pays et la région ou la latitude et la longitude. Vous avez en outre la possibilité de trouver un pays ou une région à l'aide de la fonction de recherche et de l'ajouter comme entrée.
 
-[En savoir plus sur la colonne de géopositionnement](https://seatable.io/fr/docs/andere-spalten/die-geopositions-spalte/)
+[En savoir plus sur la colonne de géopositionnement]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}})
 
 ### Signature numérique
 

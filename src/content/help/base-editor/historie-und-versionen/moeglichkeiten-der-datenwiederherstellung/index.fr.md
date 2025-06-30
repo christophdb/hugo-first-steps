@@ -27,13 +27,13 @@ L'article suivant vous donne un aperçu du moment où quelle option de restaurat
 
 ## 1\. restauration des bases supprimées
 
-Si vous avez supprimé une base complète, vous pouvez la restaurer en utilisant une corbeille sur la page d'accueil de SeaTable. Pour savoir comment cela fonctionne, consultez l'article [Restaurer une base supprimée](https://seatable.io/fr/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Si vous avez supprimé une base complète, vous pouvez la restaurer en utilisant une corbeille sur la page d'accueil de SeaTable. Pour savoir comment cela fonctionne, consultez l'article [Restaurer une base supprimée]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. restauration des lignes, colonnes ou tableaux supprimés
 
 Récupérer des lignes, des colonnes ou des tableaux supprimés est probablement le souhait de restauration le plus fréquent. Heureusement, la corbeille d'une base permet de le faire très rapidement.
 
-Pour en savoir plus, consultez l'article [Récupérer les tableaux, lignes et colonnes de la corbeille](https://seatable.io/fr/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/).
+Pour en savoir plus, consultez l'article [Récupérer les tableaux, lignes et colonnes de la corbeille]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}).
 
 Vous pouvez accéder à la corbeille de Base en cliquant sur l'icône des versions dans le coin supérieur droit. Dans ce menu déroulant, vous trouverez également d'autres options de restauration, qui seront expliquées plus loin.
 
@@ -43,7 +43,7 @@ Vous pouvez accéder à la corbeille de Base en cliquant sur l'icône des versio
 
 Vous connaissez certainement la combinaison de touches {{< key "CTRL" >}} + {{< key "Z" >}}pour annuler la dernière action. C'est exactement la fonction que propose SeaTable. En outre, elle peut être exécutée d'un simple clic de souris dans le menu déroulant ci-dessus.
 
-Vous trouverez des détails dans l'article d'aide correspondant [Annuler des actions](https://seatable.io/fr/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
+Vous trouverez des détails dans l'article d'aide correspondant [Annuler des actions]({{< relref "help/base-editor/historie-und-versionen/aktionen-rueckgaengig-machen" >}}).
 
 ## 4\. annuler les modifications via les logs
 
@@ -61,6 +61,6 @@ Pour en savoir plus, consultez les articles [Enregistrer la base actuelle en tan
 
 ## 6\. importer une base enregistrée en tant que fichier DTABLE
 
-Vous pouvez à tout moment exporter une base en tant que fichier DTABLE et enregistrer ainsi une sauvegarde complète sur votre appareil. Lisez l'article [Sauvegarder une base en tant que fichier DTABLE](https://seatable.io/fr/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) pour savoir comment procéder et ce à quoi vous devez faire attention.
+Vous pouvez à tout moment exporter une base en tant que fichier DTABLE et enregistrer ainsi une sauvegarde complète sur votre appareil. Lisez l'article [Sauvegarder une base en tant que fichier DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) pour savoir comment procéder et ce à quoi vous devez faire attention.
 
 Pour savoir comment réimporter un tel fichier dans SeaTable, consultez l'article [Créer une base à partir d'un fichier DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

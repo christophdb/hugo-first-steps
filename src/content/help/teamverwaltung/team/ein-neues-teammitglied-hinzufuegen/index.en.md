@@ -24,7 +24,11 @@ As a **team administrator**, you can create new team members via the **team admi
 8. Select the **language** in which you want the email to be written.
 9. Click **Add Team Member**.
 
-{{< warning  headline="Attention"  text="You **cannot** add a **team member** who has already created another SeaTable account **with the same e-mail address**. In order to create an account with this email address, this user must back up all their data (e.g. [export](https://seatable.io/en/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/) as a [DTABLE file](https://seatable.io/en/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/)) and delete their previous account. You can find out more about this in the article [Can two SeaTable accounts be merged?](https://seatable.io/en/docs/haeufig-gestellte-fragen/kann-man-zwei-seatable-konten-zusammenfuehren/)" />}}
+{{< warning  headline="Attention" >}}
+
+You **cannot** add a **team member** who has already created another SeaTable account **with the same e-mail address**. In order to create an account with this email address, this user must back up all their data (e.g. [export]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) as a [DTABLE file]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})) and delete their previous account. You can find out more about this in the article [Can two SeaTable accounts be merged?](https://seatable.io/en/docs/haeufig-gestellte-fragen/kann-man-zwei-seatable-konten-zusammenfuehren/)
+
+{{< /warning >}}
 
 ## Other options when creating a team member
 

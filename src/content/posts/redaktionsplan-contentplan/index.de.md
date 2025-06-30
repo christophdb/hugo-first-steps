@@ -136,7 +136,7 @@ Einfache und direkte Kommunikation im Redaktionsplanplan
 
 ### 5\. Mit Statistiken Klarheit schaffen
 
-Sie möchten mit verschiedenen Daten experimentieren und Ihren Content nach Ihren Wünschen auswerten? Dann **erstellen Sie mit SeaTable aussagekräftige [Statistiken](https://seatable.io/docs/plugins/anleitung-zum-statistik-plugin/)**. Analysieren Sie zum Beispiel, in welchen Monaten Sie besonders viele Beiträge veröffentlicht haben, welcher Mitarbeiter die meisten Beiträge geschrieben hat oder auf welchem Kanal der Content am erfolgreichsten war. Das bietet viele wertvolle Einblicke, wo es gut läuft – und an welchen Stellen es vielleicht noch Verbesserungsbedarf gibt.
+Sie möchten mit verschiedenen Daten experimentieren und Ihren Content nach Ihren Wünschen auswerten? Dann **erstellen Sie mit SeaTable aussagekräftige [Statistiken]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})**. Analysieren Sie zum Beispiel, in welchen Monaten Sie besonders viele Beiträge veröffentlicht haben, welcher Mitarbeiter die meisten Beiträge geschrieben hat oder auf welchem Kanal der Content am erfolgreichsten war. Das bietet viele wertvolle Einblicke, wo es gut läuft – und an welchen Stellen es vielleicht noch Verbesserungsbedarf gibt.
 
 ![Statistiken geben wertvolle Einblicke, wie gut der Content performt](Statistics.jpg)
 

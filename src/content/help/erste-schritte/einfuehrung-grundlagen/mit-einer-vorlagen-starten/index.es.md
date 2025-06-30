@@ -24,7 +24,7 @@ Con las plantillas, no se empieza de 0 al trabajar en una base, ¡sino de 100! E
 
 ## Crear una nueva base utilizando una plantilla
 
-¿Ha encontrado una plantilla interesante y quiere utilizarla? ¡Perfecto! Para poder introducir sus propios datos en esta plantilla, sólo tiene que [crear](https://seatable.io/es/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) una [nueva base a partir de la plantilla](https://seatable.io/es/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) en SeaTable Cloud.
+¿Ha encontrado una plantilla interesante y quiere utilizarla? ¡Perfecto! Para poder introducir sus propios datos en esta plantilla, sólo tiene que [crear]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}) una [nueva base a partir de la plantilla]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}) en SeaTable Cloud.
 
 Si ya ha iniciado sesión en su cuenta, entonces se cumplen todos los requisitos. Si no ha iniciado sesión o no tiene una cuenta SeaTable, [inicie](https://cloud.seatable.io/) sesión o [regístrese gratuitamente con su dirección de correo electrónico]({{< relref "pages/registration" >}}).
 

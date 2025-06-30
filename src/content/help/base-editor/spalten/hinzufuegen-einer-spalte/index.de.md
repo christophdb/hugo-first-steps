@@ -10,7 +10,7 @@ url: '/de/hilfe/hinzufuegen-einer-spalte'
 
 Tabellen bestehen in SeaTable aus Spalten und Zeilen. Innerhalb einer Base können Sie einer Tabelle bis zu 500 Spalten hinzufügen. Für jede Spalte haben Sie individuell die Möglichkeit, je nach Datentyp einen geeigneten **Spaltentyp** auszuwählen.
 
-Eine detaillierte Übersicht über alle derzeit in SeaTable verfügbaren Spaltentypen finden Sie [hier](https://seatable.io/docs/spalten/uebersicht-alle-spaltentypen/).
+Eine detaillierte Übersicht über alle derzeit in SeaTable verfügbaren Spaltentypen finden Sie [hier]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}).
 
 ## Spalte hinzufügen
 

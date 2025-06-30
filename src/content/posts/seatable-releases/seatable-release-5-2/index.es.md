@@ -24,7 +24,7 @@ En futuras versiones, también introduciremos grupos de filtros en aplicaciones,
 
 ## Formato condicional con filtro de columnas cruzadas
 
-La versión 5.2 también ofrece opciones de filtro ampliadas en el [formato](https://seatable.io/es/docs/ansichtsoptionen/einfaerben-von-zellen/) condicional de [filas](https://seatable.io/es/docs/ansichtsoptionen/farbliche-markierung-von-zeilen/) y [celdas](https://seatable.io/es/docs/ansichtsoptionen/einfaerben-von-zellen/). ¿Desea colorear de rojo una celda en función de los valores de otras columnas para llamar la atención sobre ella? Con SeaTable 5.2 puede hacerlo. El código de colores de una fila o celda puede formatearse ahora en función del valor de cada columna individual de un conjunto de datos. Y eso no es todo: el formato condicional también puede tener en cuenta los valores de varias columnas, independientemente del tipo de columna.
+La versión 5.2 también ofrece opciones de filtro ampliadas en el [formato]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/) condicional de [filas]({{< relref "help/base-editor/ansichten" >}}farbliche-markierung-von-zeilen/) y [celdas]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/). ¿Desea colorear de rojo una celda en función de los valores de otras columnas para llamar la atención sobre ella? Con SeaTable 5.2 puede hacerlo. El código de colores de una fila o celda puede formatearse ahora en función del valor de cada columna individual de un conjunto de datos. Y eso no es todo: el formato condicional también puede tener en cuenta los valores de varias columnas, independientemente del tipo de columna.
 
 ![Formato condicional mejorado en SeaTable 5.2](ConditionalFormatting.png)
 
@@ -48,7 +48,7 @@ Los [formularios web]({{< relref "help/base-editor/webformulare" >}}) sencillos 
 
 ### Tipo de página Tabla
 
-Los **filtros preestablecidos** de la configuración de datos permiten ahora seleccionar todos los tipos de columnas pertinentes, incluidas [las columnas de](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) [fórmulas](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/) y [enlaces](https://seatable.io/es/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Esto elimina una importante restricción funcional en el prefiltrado de datos. Con la implementación de grupos de filtros en una de las próximas versiones, este tipo de página ofrecerá las mismas potentes opciones de filtro que la base.
+Los **filtros preestablecidos** de la configuración de datos permiten ahora seleccionar todos los tipos de columnas pertinentes, incluidas [las columnas de]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) [fórmulas]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) y [enlaces]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Esto elimina una importante restricción funcional en el prefiltrado de datos. Con la implementación de grupos de filtros en una de las próximas versiones, este tipo de página ofrecerá las mismas potentes opciones de filtro que la base.
 
 ### Páginas personalizadas
 
@@ -98,17 +98,17 @@ La capacidad de **gestionar datos jerárquicos en una tabla** alcanza un nuevo n
 
 ![Enlaces internos por yuxtaposición en SeaTable 5.1 y 5.2](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
 
-Para los usuarios, esto sólo aporta ventajas sin complejidad adicional. Si un usuario crea una nueva **columna de** enlace que vincule entradas de una misma tabla, SeaTable crea automáticamente la segunda columna de enlace. Los plugins de [organigrama](https://seatable.io/es/docs/plugins/anleitung-zum-organigramm-plugin/) y [árbol](https://seatable.io/es/docs/plugins/anleitung-zum-tree-plugin/) también pueden manejar la estructura de datos mejorada.
+Para los usuarios, esto sólo aporta ventajas sin complejidad adicional. Si un usuario crea una nueva **columna de** enlace que vincule entradas de una misma tabla, SeaTable crea automáticamente la segunda columna de enlace. Los plugins de [organigrama]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}) y [árbol]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}}) también pueden manejar la estructura de datos mejorada.
 
 Los enlaces existentes dentro de una tabla no se ajustan. Si desea cambiar, cree una nueva columna de enlace e inserte los enlaces. A continuación, puede eliminar la antigua columna de enlaces.
 
-La nueva versión de SeaTable admite el **inicio de sesión con cuentas de correo electrónico de Google y Microsoft mediante OAuth**. (Microsoft denomina a esto "autenticación moderna".) El uso de cuentas de correo electrónico de Microsoft en particular solo era posible anteriormente con grandes restricciones después de que Microsoft suspendiera la autenticación mediante nombre de usuario y contraseña. En el manual de usuario encontrará instrucciones detalladas sobre cómo [integrar](https://seatable.io/es/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) una cuenta de Gmail, Outlook.com o MS 365 en una Base SeaTable como [cuenta de terceros](https://seatable.io/es/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+La nueva versión de SeaTable admite el **inicio de sesión con cuentas de correo electrónico de Google y Microsoft mediante OAuth**. (Microsoft denomina a esto "autenticación moderna".) El uso de cuentas de correo electrónico de Microsoft en particular solo era posible anteriormente con grandes restricciones después de que Microsoft suspendiera la autenticación mediante nombre de usuario y contraseña. En el manual de usuario encontrará instrucciones detalladas sobre cómo [integrar]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}) una cuenta de Gmail, Outlook.com o MS 365 en una Base SeaTable como [cuenta de terceros]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
 Ahora las tablas pueden ocultarse, como es habitual en Microsoft Excel. Una **hoja de cálculo oculta** ya no se muestra como una pestaña y sólo se puede acceder a través del menú desplegable.
 
 [Las casillas de verificación](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) ofrecen más opciones de estilo y aún más opciones de color en SeaTable 5.2. Si no le gusta la marca verde, ahora puede elegir entre otras 69 opciones.
 
-En el [plugin de calendario](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/), ahora también se pueden crear nuevas entradas haciendo doble clic o utilizando el nuevo botón "+".
+En el [plugin de calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), ahora también se pueden crear nuevas entradas haciendo doble clic o utilizando el nuevo botón "+".
 
 ## Dos cambios funcionales
 

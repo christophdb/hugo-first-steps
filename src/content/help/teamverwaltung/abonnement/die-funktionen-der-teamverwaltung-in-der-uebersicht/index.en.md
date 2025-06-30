@@ -22,11 +22,11 @@ This section provides an overview of your team's team members and groups. You ca
 
 The following articles may be of interest to you:
 
-- [Add a new team member](https://seatable.io/en/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
+- [Add a new team member]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
 - [Make a team member an administrator](https://seatable.io/en/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
 - [Enable two-factor authentication for a team member](https://seatable.io/en/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)
 - [Two-factor authentication for the entire team](https://seatable.io/en/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)
-- [Lock or delete a team member](https://seatable.io/en/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
+- [Lock or delete a team member]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 - [Changing the team name](https://seatable.io/en/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Groups and their members in the team management](https://seatable.io/en/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
 - [Create a new group]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
@@ -50,7 +50,7 @@ By deleting your entire team in Team Management, **you automatically terminate y
 
 The following articles may be of interest to you:
 
-- [Delete the complete team](https://seatable.io/en/docs/teamverwaltung/das-komplette-team-loeschen/)
+- [Delete the complete team]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
 ## API & Integrations
 
@@ -62,7 +62,7 @@ Through the team management you have the possibility to create a **support ticke
 
 The following articles may be of interest to you:
 
-- [Open a support ticket](https://seatable.io/en/docs/teamverwaltung/ein-support-ticket-eroeffnen/)
+- [Open a support ticket]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
 
 ## Legal
 

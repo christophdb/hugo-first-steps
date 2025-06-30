@@ -20,7 +20,7 @@ Nous avons également procédé à une mise à niveau des plug-ins vers le Webpa
 
 ## Nouveau dialogue et liens personnalisés pour les formulaires web
 
-Pour partager vos [formulaires web]({{< relref "help/base-editor/webformulare" >}}) avec d'autres utilisateurs, il existait jusqu'à présent deux boîtes de dialogue différentes : une dans laquelle vous pouviez copier un **lien généré automatiquement**; et une dans laquelle vous pouviez développer ce lien avec [des valeurs pré-remplies](https://seatable.io/fr/docs/webformulare/formularfelder-per-url-vorbefuellen/). Nous avons désormais réuni ces possibilités en une seule boîte de dialogue afin d'améliorer la convivialité.
+Pour partager vos [formulaires web]({{< relref "help/base-editor/webformulare" >}}) avec d'autres utilisateurs, il existait jusqu'à présent deux boîtes de dialogue différentes : une dans laquelle vous pouviez copier un **lien généré automatiquement**; et une dans laquelle vous pouviez développer ce lien avec [des valeurs pré-remplies]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}). Nous avons désormais réuni ces possibilités en une seule boîte de dialogue afin d'améliorer la convivialité.
 
 Nous avons également ajouté une toute nouvelle option permettant de créer **des URL personnalisées** pour les formulaires web. Vous pouvez ensuite les modifier, les enregistrer sous forme de code QR, les copier ou les supprimer.
 
@@ -30,14 +30,14 @@ Nous avons également ajouté une toute nouvelle option permettant de créer **d
 
 ## Actions automatisées : Enregistrer le PDF et envoyer une notification d'application
 
-Avis aux amateurs d'automatisation ! Dans SeaTable 4.3, deux nouvelles options viennent s'ajouter aux [actions automatisées](https://seatable.io/fr/docs/automationen/automations-aktionen/):
+Avis aux amateurs d'automatisation ! Dans SeaTable 4.3, deux nouvelles options viennent s'ajouter aux [actions automatisées]({{< relref "help/base-editor/automationen/automations-aktionen" >}}):
 
 1. Premièrement, vous avez la possibilité d'enregistrer périodiquement des PDF pour les entrées qui remplissent certaines conditions.
 2. Deuxièmement, il est désormais possible d'envoyer des notifications que certains utilisateurs d'une application universelle doivent recevoir.
 
-Auparavant, SeaTable vous permettait uniquement de [créer](https://seatable.io/fr/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) manuellement [des documents PDF en cliquant sur un bouton](https://seatable.io/fr/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/). La nouvelle option permettant de créer **automatiquement** des documents à partir d'enregistrements spécifiques à un moment donné vous évite des clics et rend vos processus encore plus fluides.
+Auparavant, SeaTable vous permettait uniquement de [créer]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) manuellement [des documents PDF en cliquant sur un bouton]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}). La nouvelle option permettant de créer **automatiquement** des documents à partir d'enregistrements spécifiques à un moment donné vous évite des clics et rend vos processus encore plus fluides.
 
-Les **notifications d'application** permettent par exemple d'informer les utilisateurs d'une application des modifications apportées aux enregistrements pertinents. Cette action peut être déclenchée par les quatre [événements déclencheurs](https://seatable.io/fr/docs/automationen/automations-trigger/).
+Les **notifications d'application** permettent par exemple d'informer les utilisateurs d'une application des modifications apportées aux enregistrements pertinents. Cette action peut être déclenchée par les quatre [événements déclencheurs]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ![Envoyer une notification d'application](App-Benachrichtigung-senden.png)
 
@@ -71,7 +71,7 @@ De plus, à partir de la version 4.3 de SeaTable, la **couleur d'arrière-plan**
 
 L'héritage des [autorisations de colonnes](https://seatable.io/fr/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) de la Base est supprimé dans SeaTable 4.3. Si vous souhaitez bloquer l'édition d'une colonne dans l'application universelle, vous pouvez à la place la définir **comme "en lecture seule"** dans les paramètres de la [page du tableau](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/).
 
-De même, toutes les restrictions concernant les [actions sur les boutons](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/) sont levées. Tout utilisateur de l'application peut désormais effectuer des modifications prédéfinies sur les enregistrements, même si les colonnes concernées sont par ailleurs bloquées pour lui et que l'utilisateur n'est pas autorisé à modifier la page.
+De même, toutes les restrictions concernant les [actions sur les boutons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) sont levées. Tout utilisateur de l'application peut désormais effectuer des modifications prédéfinies sur les enregistrements, même si les colonnes concernées sont par ailleurs bloquées pour lui et que l'utilisateur n'est pas autorisé à modifier la page.
 
 ## Annonce importante : Suppression de l'application Galerie et de l'application de consultation des données
 
@@ -79,7 +79,11 @@ Dans la version 4.4, l'[application Galerie](https://seatable.io/fr/docs/apps/ga
 
 Si vous utilisez les deux applications en cours d'exécution, nous vous recommandons de recréer vos cas d'utilisation avec des [pages de galerie](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) et [des pages de requête](https://seatable.io/fr/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) dans l'App Builder avant la prochaine version. Sur les pages de requête, vous pouvez d'ailleurs entre-temps ajouter des champs qui permettent aux utilisateurs de rechercher également **des colonnes de liens** pour certaines valeurs.
 
-{{< warning headline="Attention, risque de confusion !" text="Vous connaissez également la [galerie](https://seatable.io/fr/docs/plugins/anleitung-zum-galerie-plugin/) et la [requête SQL](https://seatable.io/fr/docs/plugins/anleitung-zum-sql-abfrage-plugin/) en tant que **plugins** que vous pouvez ajouter à vos bases. Celles-ci continuent bien entendu d'exister." />}}
+{{< warning headline="Attention, risque de confusion !" >}}
+
+Vous connaissez également la [galerie]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) et la [requête SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) en tant que **plugins** que vous pouvez ajouter à vos bases. Celles-ci continuent bien entendu d'exister.
+
+{{< /warning >}}
 
 ## Et bien plus encore
 

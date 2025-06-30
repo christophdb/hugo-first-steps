@@ -16,7 +16,7 @@ Si vous venez d'ouvrir un tableau, vous pouvez simplement cliquer avec la souris
 
 ## Copier-coller
 
-Pour transférer rapidement de petites quantités de données, vous pouvez également utiliser le **presse-papiers** de votre ordinateur. Pour cela, copiez les données dans un tableau existant et collez-les dans SeaTable par [copier-coller](https://seatable.io/fr/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/).
+Pour transférer rapidement de petites quantités de données, vous pouvez également utiliser le **presse-papiers** de votre ordinateur. Pour cela, copiez les données dans un tableau existant et collez-les dans SeaTable par [copier-coller]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}).
 
 ## Importation de données
 

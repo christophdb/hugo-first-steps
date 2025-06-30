@@ -22,7 +22,7 @@ Mit SeaTable 5.0 geht unser No-Code-App-Builder offiziell an den Start. Nachdem 
 
 ### Neuer Seitentyp: Einzelner Datensatz
 
-Die Entwicklung des App-Builders geht unvermindert weiter: Mit dem [Seitentyp](https://seatable.io/docs/universelle-apps/seitentypen-in-der-universellen-app/) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin](https://seatable.io/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/), das Sie bereits aus der Base kennen.
+Die Entwicklung des App-Builders geht unvermindert weiter: Mit dem [Seitentyp](https://seatable.io/docs/universelle-apps/seitentypen-in-der-universellen-app/) **Einzelner Datensatz** haben Sie die Möglichkeit, eine Seite mit statischen Elementen, Tabellenfeldern, Farben, Rahmen etc. zu designen, um die in einer Zeile gespeicherten Daten optisch aufzubereiten. Damit ähnelt dieser Seitentyp dem [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}), das Sie bereits aus der Base kennen.
 
 Die Nutzer der App können auf dieser Seite – mit der jeweiligen [Berechtigung](https://seatable.io/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) – die einzelnen Datensätze sehen, suchen, durchblättern und bearbeiten. Dieser Seitentyp eignet sich zum Beispiel, um die Daten in einer Mitarbeiterdatenbank als persönliche Steckbriefe anzuzeigen.
 
@@ -40,13 +40,13 @@ Ein weiteres Highlight von SeaTable 5.0 sind die neuen [Plugins]({{< relref "hel
 
 ### Organigramm
 
-Mithilfe des Organigramm-Plugins lassen sich Hierarchien zwischen den Datensätzen in einer Tabelle darstellen, z. B. Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt](https://seatable.io/projektstrukturplan-vorlage/). Um die Abhängigkeiten der Datensätze zu visualisieren, brauchen Sie eine [Link-Spalte](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), die auf ein und dieselbe Tabelle referiert. Der Eintrag, mit dem Sie eine andere Zeile derselben Tabelle verlinken, wird als übergeordneter Datensatz dargestellt.
+Mithilfe des Organigramm-Plugins lassen sich Hierarchien zwischen den Datensätzen in einer Tabelle darstellen, z. B. Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt](https://seatable.io/projektstrukturplan-vorlage/). Um die Abhängigkeiten der Datensätze zu visualisieren, brauchen Sie eine [Link-Spalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), die auf ein und dieselbe Tabelle referiert. Der Eintrag, mit dem Sie eine andere Zeile derselben Tabelle verlinken, wird als übergeordneter Datensatz dargestellt.
 
 ![Organigramm-Plugin](Organigramm-Plugin.png)
 
 ### Tabellenbeziehungen
 
-Besonders wenn sich viele Tabellen mit Tausenden Zeilen in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des neuen Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind. Dabei werden nicht nur direkte Verbindungen über [Link-Spalten](https://seatable.io/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), sondern auch indirekte Verbindungen über Linkformel-Spalten angezeigt.
+Besonders wenn sich viele Tabellen mit Tausenden Zeilen in einer Base befinden, verliert man schnell den Überblick, wie diese miteinander in Beziehung stehen. Mithilfe des neuen Tabellenbeziehungen-Plugins können Sie sichtbar machen, welche Tabellen über welche Spalten miteinander verknüpft sind. Dabei werden nicht nur direkte Verbindungen über [Link-Spalten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), sondern auch indirekte Verbindungen über Linkformel-Spalten angezeigt.
 
 ![Tabellenbeziehungen-Plugin](Table-Relationships-Plugin.png)
 
@@ -90,4 +90,4 @@ Dem **Editor für lange Texte** begegnen Sie an vielen Stellen. Wenn Sie formati
 
 Auch die **Statistiken** kennen Sie von mehreren Stellen in SeaTable: vom [Statistik-Modul](https://seatable.io/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/) in der Base sowie von [individuellen Seiten in Universellen Apps](https://seatable.io/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). Mit einer überarbeiteten Diagramm-Bibliothek haben wir die Statistiken nun deutlich aufgewertet und vereinheitlicht.
 
-Früher konnten Sie Zeilen, die Sie in den [Big-Data-Speicher]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) verschoben hatten, nicht über Snapshots wiederherstellen. Um unerwünschtem Datenverlust vorzubeugen, gibt es nun die Option, bei der [Wiederherstellung von Snapshots](https://seatable.io/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) auch den Big-Data-Speicher der damaligen Version wiederherzustellen.
+Früher konnten Sie Zeilen, die Sie in den [Big-Data-Speicher]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) verschoben hatten, nicht über Snapshots wiederherstellen. Um unerwünschtem Datenverlust vorzubeugen, gibt es nun die Option, bei der [Wiederherstellung von Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) auch den Big-Data-Speicher der damaligen Version wiederherzustellen.

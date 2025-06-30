@@ -20,5 +20,5 @@ Un court **texte d'information** y fait également référence dès que vous sou
 
 Pour pouvoir créer un enregistrement commun à partir d'une vue de table d'une base qui n'appartient **pas** à un groupe, il existe un moyen simple de contourner la limitation technique décrite ci-dessus :
 
-1. [Copiez la base correspondante dans un groupe de votre choix.](https://seatable.io/fr/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/)
-2. [Créez un enregistrement commun à partir de la vue souhaitée.](https://seatable.io/fr/docs/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes/)
+1. [Copiez la base correspondante dans un groupe de votre choix.]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
+2. [Créez un enregistrement commun à partir de la vue souhaitée.]({{< relref "help/startseite/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes" >}})

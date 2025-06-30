@@ -12,7 +12,7 @@ Jede Tabelle in Ihrer Base können Sie mit einer Beschreibung versehen. Mit dies
 
 {{< warning  type="warning" headline="Wichtiger Hinweis" >}}
 
-Sie können – unabhängig von Ihrer [Rolle und Berechtigung](https://seatable.io/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) – auch die Tabellenbeschreibungen in Bases bearbeiten, die zu einer **Gruppe** gehören. Die Beschreibung von Tabellen, die an Sie [freigegeben]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) wurden, können Sie hingegen ausschließlich mit **Schreibrechten** bearbeiten.
+Sie können – unabhängig von Ihrer [Rolle und Berechtigung]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) – auch die Tabellenbeschreibungen in Bases bearbeiten, die zu einer **Gruppe** gehören. Die Beschreibung von Tabellen, die an Sie [freigegeben]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) wurden, können Sie hingegen ausschließlich mit **Schreibrechten** bearbeiten.
 
 {{< /warning >}}
 

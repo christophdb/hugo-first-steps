@@ -34,7 +34,7 @@ La versión 5.1 también ofrece más flexibilidad a la hora de **ampliar y despl
 
 ### Tipo de página Registro de datos individual
 
-En SeaTable 5.1, este tipo de página - al igual que las páginas de tabla y de consulta - admite la [ejecución de acciones mediante botones](https://seatable.io/es/docs/andere-spalten/die-schaltflaeche/). Ya sea crear un documento PDF, llamar a una página web, cambiar un registro de datos o ejecutar un script, ahora también puede iniciar todas estas **acciones** de botón aquí. Para ello no se requiere [autorización de edición de la página](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/). De este modo, los administradores de aplicaciones pueden establecer las interacciones del usuario para este tipo de página en unas pocas acciones predefinidas.
+En SeaTable 5.1, este tipo de página - al igual que las páginas de tabla y de consulta - admite la [ejecución de acciones mediante botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Ya sea crear un documento PDF, llamar a una página web, cambiar un registro de datos o ejecutar un script, ahora también puede iniciar todas estas **acciones** de botón aquí. Para ello no se requiere [autorización de edición de la página](https://seatable.io/es/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/). De este modo, los administradores de aplicaciones pueden establecer las interacciones del usuario para este tipo de página en unas pocas acciones predefinidas.
 
 La barra de herramientas ofrece un nuevo **generador de códigos QR**. El código QR contiene el enlace a la entrada mostrada en ese momento. Si se adjunta a un objeto o dispositivo, todos los datos pueden consultarse en la aplicación a través de una tableta o un smartphone sin necesidad de introducir el teclado. Esto facilita aún más, por ejemplo, la gestión de inventarios.
 
@@ -76,7 +76,7 @@ Aunque las apps pueden acceder a los datos del almacén de big data, las entrada
 
 ![Nueva gestión de big data en el App Builder de SeaTable](BigDataManagement_AppBuilder.png)
 
-Sin embargo, no sólo hemos mejorado la integración con las aplicaciones, el [plugin de diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) también ofrece nuevas posibilidades. El plugin ahora tiene acceso al almacenamiento de big data y puede **crear documentos para filas en el almacenamiento de big data**.
+Sin embargo, no sólo hemos mejorado la integración con las aplicaciones, el [plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) también ofrece nuevas posibilidades. El plugin ahora tiene acceso al almacenamiento de big data y puede **crear documentos para filas en el almacenamiento de big data**.
 
 ## El nuevo plugin Árbol
 
@@ -90,11 +90,11 @@ Actualmente, en el complemento pueden mostrarse jerarquías de hasta tres nivele
 
 Una vez más, hay más novedades en esta versión de las que podemos presentar en una cantidad manejable en estas notas de la versión. Por lo tanto, aquí hay algunas características más que creemos que merecen una mención.
 
-Se ha añadido una nueva función al **editor de fórmulas**: **rowid()** devuelve el ID de la fila. Esto puede utilizarse, por ejemplo, para acciones de botón o automatizaciones. Sin embargo, hay nuevas funciones no sólo en la [columna](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/) de fórmulas, sino también en el tipo de columna de fórmulas para enlaces: [Las búsquedas](https://seatable.io/es/docs/verknuepfungen/die-lookup-funktion/) ofrecen ahora una comprobación de duplicados. Si la opción **No mostrar duplicados** está activada, sólo se muestran valores únicos en cada celda de la columna.
+Se ha añadido una nueva función al **editor de fórmulas**: **rowid()** devuelve el ID de la fila. Esto puede utilizarse, por ejemplo, para acciones de botón o automatizaciones. Sin embargo, hay nuevas funciones no sólo en la [columna]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) de fórmulas, sino también en el tipo de columna de fórmulas para enlaces: [Las búsquedas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) ofrecen ahora una comprobación de duplicados. Si la opción **No mostrar duplicados** está activada, sólo se muestran valores únicos en cada celda de la columna.
 
 ![Selector de color introducido SeaTable 5.1](ColorPicker.png)
 
-En SeaTable 5.1, hemos mejorado el resaltado de sintaxis en el **editor Python** integrado para que le resulte aún más fácil hacer un seguimiento de [los scripts](https://seatable.io/es/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/). También hemos corregido un error con la sangría automática.
+En SeaTable 5.1, hemos mejorado el resaltado de sintaxis en el **editor Python** integrado para que le resulte aún más fácil hacer un seguimiento de [los scripts]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}). También hemos corregido un error con la sangría automática.
 
 Un nuevo selector de color, que puede utilizarse para seleccionar colores en las estadísticas y en algunos tipos de página del App Builder, conduce más rápidamente al color deseado. El selector es ahora más claro y muestra los últimos colores utilizados.
 

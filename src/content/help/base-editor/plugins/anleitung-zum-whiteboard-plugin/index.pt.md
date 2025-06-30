@@ -10,9 +10,13 @@ url: '/pt/ajuda/anleitung-zum-whiteboard-plugin'
 
 O **plugin de quadro branco** dá-lhe a liberdade de visualizar graficamente processos e estruturas que não pode apresentar com os plugins anteriores. Também pode esboçar livremente esquemas e maquetas. Para o desenho, tem vários **elementos** como quadrados, elipses e setas, bem como **ferramentas** como a caneta, o apagador e a ferramenta de texto à escolha.
 
-Pode descobrir como ativar o plugin numa base [aqui](https://seatable.io/pt/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Pode descobrir como ativar o plugin numa base [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-{{< warning  headline="Atenção: Este plugin está a ser eliminado!"  text="Uma vez que o plug-in do quadro branco (obsoleto), que se baseia no projeto de código aberto excalidraw, não suporta a colaboração e provou ser propenso a erros quando utilizado por vários utilizadores ao mesmo tempo, iremos removê-lo do SeaTable Cloud como parte da versão 6.0 no verão de 2025. Todos os desenhos no antigo plug-in do quadro branco deixarão então de estar disponíveis. Por conseguinte, recomendamos que mude para o novo [plug-in](https://seatable.io/pt/docs/plugins/anleitung-zum-whiteboard-plugin-tldraw/) de [quadro branco (tldraw)](https://seatable.io/pt/docs/plugins/anleitung-zum-whiteboard-plugin-tldraw/) o mais rapidamente possível e que transfira o conteúdo existente utilizando copiar e colar." />}}
+{{< warning  headline="Atenção: Este plugin está a ser eliminado!" >}}
+
+Uma vez que o plug-in do quadro branco (obsoleto), que se baseia no projeto de código aberto excalidraw, não suporta a colaboração e provou ser propenso a erros quando utilizado por vários utilizadores ao mesmo tempo, iremos removê-lo do SeaTable Cloud como parte da versão 6.0 no verão de 2025. Todos os desenhos no antigo plug-in do quadro branco deixarão então de estar disponíveis. Por conseguinte, recomendamos que mude para o novo [plug-in]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin-tldraw" >}}) de [quadro branco (tldraw)]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin-tldraw" >}}) o mais rapidamente possível e que transfira o conteúdo existente utilizando copiar e colar.
+
+{{< /warning >}}
 
 ## Definir opções para um desenho no quadro branco
 

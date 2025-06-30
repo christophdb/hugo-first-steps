@@ -30,7 +30,7 @@ Nos menus de contexto dos tipos de coluna Ficheiro e Imagem, encontrará a funç
 
 ## Viagem ao passado - Instantâneos
 
-Em SeaTable tem sempre uma visão geral dos processos nas suas bases. O registo lista todas as alterações, adições e eliminações de registos, bem como todos os outros processos numa base. Além disso, o SeaTable cria automaticamente [instantâneos](https://seatable.io/pt/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) a cada 24 horas de bases que estão a ser trabalhadas activamente.
+Em SeaTable tem sempre uma visão geral dos processos nas suas bases. O registo lista todas as alterações, adições e eliminações de registos, bem como todos os outros processos numa base. Além disso, o SeaTable cria automaticamente [instantâneos]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) a cada 24 horas de bases que estão a ser trabalhadas activamente.
 
 Um instantâneo captura o estado de uma base no momento em que foi criada. Por outras palavras, os instantâneos são basicamente máquinas que permitem viajar no tempo. Quer ver como era uma base há três dias? Esqueça o registo, use um instantâneo!
 

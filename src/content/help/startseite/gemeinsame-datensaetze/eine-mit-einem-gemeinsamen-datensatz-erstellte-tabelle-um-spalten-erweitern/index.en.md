@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
 ---
 
-Tables that you have created with a shared data set initially contain all columns and rows that can also be found in the table view of the shared data set. Of course, you also have the option of adding **new columns** to these tables and filling them with your own data. The advantage: data in columns that are not linked to the shared data set are **not overwritten** during [synchronization](https://seatable.io/en/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+Tables that you have created with a shared data set initially contain all columns and rows that can also be found in the table view of the shared data set. Of course, you also have the option of adding **new columns** to these tables and filling them with your own data. The advantage: data in columns that are not linked to the shared data set are **not overwritten** during [synchronization]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 This function makes it possible, for example, for shared data sets to be used by multiple departments and employee groups within a company in a wide variety of contexts.
 
@@ -20,7 +20,7 @@ Adding columns works the **same way as with usual tables**. You can find detaile
 
 ## Locking columns of the common record
 
-**Care must be taken** when editing columns of a common data set. If you make changes in columns containing data of a common data set, these changes will be **overwritten** again during the next [synchronization of the data set](https://seatable.io/en/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) and will thus be **lost**.
+**Care must be taken** when editing columns of a common data set. If you make changes in columns containing data of a common data set, these changes will be **overwritten** again during the next [synchronization of the data set]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) and will thus be **lost**.
 
 To ensure an optimal workflow and to avoid both data loss and misunderstandings during collaboration, it is recommended to **lock** all **columns** containing data of a **common data set for** editing. On the other hand, you can edit the **individually** added additional columns as you wish.
 

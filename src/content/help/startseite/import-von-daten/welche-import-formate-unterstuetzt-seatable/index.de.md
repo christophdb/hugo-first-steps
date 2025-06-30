@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/welche-import-formate-unterstuetzt-seatable'
 ---
 
-SeaTable bietet Ihnen vielfältige Möglichkeiten zur Datenerfassung: Sie können manuell Daten in Tabellen eingeben und Daten per [Webformular](https://seatable.io/docs/seatable-nutzen/webformulare/) oder mithilfe von Automationen erfassen lassen.
+SeaTable bietet Ihnen vielfältige Möglichkeiten zur Datenerfassung: Sie können manuell Daten in Tabellen eingeben und Daten per [Webformular]({{< relref "help/base-editor/webformulare" >}}) oder mithilfe von Automationen erfassen lassen.
 
 Darüber hinaus besitzt SeaTable einen leistungsfähigen Daten-Import. Dieser kommt praktisch mit jeder Excel- und CSV-Datei klar. Über einen kleinen Umweg ist auch der Import von Daten aus Microsoft Access und Google Sheets möglich.
 

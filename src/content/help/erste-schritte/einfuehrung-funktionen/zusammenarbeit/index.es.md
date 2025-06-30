@@ -27,7 +27,7 @@ A continuación, conocerá las funciones de colaboración de SeaTable. Aprender�
 
 ## Bases del grupo
 
-Todos los miembros de un [grupo]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) tienen acceso a una base de grupo. Como propietario del grupo, usted gestiona el grupo y sus miembros. Utiliza diferentes roles para asignar derechos de acceso a los [miembros](https://seatable.io/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) - y revocarlos con la misma rapidez. Puede crear un nuevo grupo utilizando el botón **Nuevo grupo** bajo sus bases en la página de inicio.
+Todos los miembros de un [grupo]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) tienen acceso a una base de grupo. Como propietario del grupo, usted gestiona el grupo y sus miembros. Utiliza diferentes roles para asignar derechos de acceso a los [miembros]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) - y revocarlos con la misma rapidez. Puede crear un nuevo grupo utilizando el botón **Nuevo grupo** bajo sus bases en la página de inicio.
 
 ## Historia
 
@@ -35,7 +35,7 @@ Para que pueda controlar quién ha realizado qué cambios en los datos de sus ba
 
 ## Conjuntos de datos comunes
 
-Los registros que necesitan los distintos grupos y usuarios de tu equipo pueden ponerse a su disposición mediante registros [compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) como plantillas para nuevas tablas. Cualquier tabla que los miembros de su equipo creen con un registro compartido, pueden [sincronizarla](https://seatable.io/es/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). SeaTable sobrescribe los datos de la tabla con los del registro compartido actual para que todos estén al mismo nivel.
+Los registros que necesitan los distintos grupos y usuarios de tu equipo pueden ponerse a su disposición mediante registros [compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) como plantillas para nuevas tablas. Cualquier tabla que los miembros de su equipo creen con un registro compartido, pueden [sincronizarla]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}). SeaTable sobrescribe los datos de la tabla con los del registro compartido actual para que todos estén al mismo nivel.
 
 ## Comunicados internos
 

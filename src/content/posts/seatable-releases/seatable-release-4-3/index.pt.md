@@ -20,7 +20,7 @@ Também actualizámos os plugins para Webpack 5 e actualizámos a estrutura para
 
 ## Novo diálogo e ligações definidas pelo utilizador para formulários Web
 
-Para partilhar os seus [formulários Web]({{< relref "help/base-editor/webformulare" >}}) com outros utilizadores, existiam anteriormente duas caixas de diálogo diferentes: uma em que podia copiar uma **hiperligação gerada automaticamente** e outra em que podia ampliar esta hiperligação com [valores pré-preenchidos](https://seatable.io/pt/docs/webformulare/formularfelder-per-url-vorbefuellen/). Agora combinámos estas opções numa única caixa de diálogo para aumentar a facilidade de utilização.
+Para partilhar os seus [formulários Web]({{< relref "help/base-editor/webformulare" >}}) com outros utilizadores, existiam anteriormente duas caixas de diálogo diferentes: uma em que podia copiar uma **hiperligação gerada automaticamente** e outra em que podia ampliar esta hiperligação com [valores pré-preenchidos]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}). Agora combinámos estas opções numa única caixa de diálogo para aumentar a facilidade de utilização.
 
 Adicionámos também a nova opção de criar **URLs personalizados** para formulários Web. Pode depois editá-los, guardá-los como código QR, copiá-los ou apagá-los.
 
@@ -30,14 +30,14 @@ Adicionámos também a nova opção de criar **URLs personalizados** para formul
 
 ## Acções automatizadas: Guardar PDF e enviar notificação da aplicação
 
-Atenção fãs da automatização! O SeaTable 4.3 adiciona duas novas opções às [acções automatizadas](https://seatable.io/pt/docs/automationen/automations-aktionen/):
+Atenção fãs da automatização! O SeaTable 4.3 adiciona duas novas opções às [acções automatizadas]({{< relref "help/base-editor/automationen/automations-aktionen" >}}):
 
 1. Em primeiro lugar, tem a possibilidade de guardar periodicamente PDFs para entradas que preencham determinadas condições.
 2. Em segundo lugar, agora é possível enviar notificações que determinados utilizadores de uma aplicação universal devem receber.
 
-Anteriormente, só era possível [criar documentos PDF](https://seatable.io/pt/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) manualmente no SeaTable [através de um botão](https://seatable.io/pt/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/). A nova opção para criar **automaticamente** documentos a partir de registos de dados específicos num determinado momento poupa-lhe cliques e torna os seus processos ainda mais fáceis.
+Anteriormente, só era possível [criar documentos PDF]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) manualmente no SeaTable [através de um botão]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}). A nova opção para criar **automaticamente** documentos a partir de registos de dados específicos num determinado momento poupa-lhe cliques e torna os seus processos ainda mais fáceis.
 
-É possível utilizar as **notificações da aplicação** para informar os utilizadores de uma aplicação sobre alterações a registos de dados relevantes, por exemplo. Esta ação pode ser accionada por todos os quatro [eventos de acionamento](https://seatable.io/pt/docs/automationen/automations-trigger/).
+É possível utilizar as **notificações da aplicação** para informar os utilizadores de uma aplicação sobre alterações a registos de dados relevantes, por exemplo. Esta ação pode ser accionada por todos os quatro [eventos de acionamento]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ![Enviar notificação de aplicação](App-Benachrichtigung-senden.png)
 
@@ -71,7 +71,7 @@ Além disso, a **cor de fundo** das páginas individuais pode ser definida confo
 
 A herança de [autorizações de colunas](https://seatable.io/pt/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) a partir da base foi abolida com o SeaTable 4.3. Se pretender bloquear uma coluna na aplicação universal para edição, pode defini-la como **"só de leitura"** nas definições da [página da tabela](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/).
 
-Todas as restrições para [acções de botão](https://seatable.io/pt/docs/andere-spalten/die-schaltflaeche/) também foram removidas. Cada utilizador da aplicação pode agora fazer alterações predefinidas aos registos de dados, mesmo que as colunas afectadas estejam bloqueadas e o utilizador não esteja autorizado a editar a página.
+Todas as restrições para [acções de botão]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) também foram removidas. Cada utilizador da aplicação pode agora fazer alterações predefinidas aos registos de dados, mesmo que as colunas afectadas estejam bloqueadas e o utilizador não esteja autorizado a editar a página.
 
 ## Anúncio importante: Remoção da galeria e da aplicação de consulta de dados
 
@@ -79,7 +79,11 @@ Na versão 4.4, a [aplicação de galeria](https://seatable.io/pt/docs/apps/gale
 
 Se utilizar as duas aplicações que estão a expirar, recomendamos que reconstrua os seus casos de utilização com [páginas de galeria](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) e [páginas](https://seatable.io/pt/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) de consulta no App Builder antes da próxima versão. A propósito, agora é possível adicionar campos às páginas de consulta que permitem aos utilizadores pesquisar **colunas de ligação** para valores específicos.
 
-{{< warning headline="Atenção, perigo de confusão!" text="Também conhece a [galeria](https://seatable.io/pt/docs/plugins/anleitung-zum-galerie-plugin/) e a [consulta SQL](https://seatable.io/pt/docs/plugins/anleitung-zum-sql-abfrage-plugin/) como **plugins** que pode adicionar às suas bases. Estes manter-se-ão, naturalmente, em vigor." />}}
+{{< warning headline="Atenção, perigo de confusão!" >}}
+
+Também conhece a [galeria]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) e a [consulta SQL]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) como **plugins** que pode adicionar às suas bases. Estes manter-se-ão, naturalmente, em vigor.
+
+{{< /warning >}}
 
 ## E muito mais
 

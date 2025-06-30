@@ -82,7 +82,7 @@ SeaTable y consigne les informations suivantes pour chaque cycle d'automatisatio
 
 ![Structure d'un journal de bord](images/structure-of-an-automation-log-newest.png)
 
-Vous trouverez [ici](https://seatable.io/fr/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/) de plus amples informations sur le protocole d'exécution d'une automatisation.
+Vous trouverez [ici]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}}) de plus amples informations sur le protocole d'exécution d'une automatisation.
 
 ## Journal d'exécution des scripts
 
@@ -94,4 +94,4 @@ Dans le journal d'exécution, vous trouverez diverses informations utiles telles
 
 ![Informations à trouver dans le journal d'exécution d'un script](images/information-in-a-script-log.png)
 
-Si vous avez besoin de plus d'informations sur le journal d'exécution des scripts, n'hésitez pas à consulter cet [article d'aide](https://seatable.io/fr/docs/javascript-python/das-ausfuehrungslog-von-skripten/).
+Si vous avez besoin de plus d'informations sur le journal d'exécution des scripts, n'hésitez pas à consulter cet [article d'aide]({{< relref "help/skripte/allgemein/das-ausfuehrungslog-von-skripten" >}}).

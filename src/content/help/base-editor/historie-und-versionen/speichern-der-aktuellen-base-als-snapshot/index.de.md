@@ -40,7 +40,7 @@ Wenn Sie Ihren eigenen [SeaTable Server](https://seatable.io/on-premises) betrei
 Folgende Artikel könnten Sie in Bezug auf den Umgang mit Snapshots interessieren:
 
 - [Wiederherstellung eines Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}})
-- [Möglichkeiten der Datenwiederherstellung mit SeaTable](https://seatable.io/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/)
+- [Möglichkeiten der Datenwiederherstellung mit SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}})
 
 ## Häufige Fragen
 

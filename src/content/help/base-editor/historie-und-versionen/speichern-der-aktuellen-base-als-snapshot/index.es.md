@@ -40,7 +40,7 @@ Si opera su propio [servidor SeaTable](https://seatable.io/es/on-premises), pued
 Los siguientes artículos podrían interesarle en relación con el tratamiento de las instantáneas:
 
 - [Restaurar una instantánea]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}})
-- [Opciones de recuperación de datos con SeaTable](https://seatable.io/es/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/)
+- [Opciones de recuperación de datos con SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}})
 
 ## Preguntas frecuentes
 

@@ -19,7 +19,7 @@ La cabecera de la página de inicio contiene cuatro elementos. Éstos son:
 - **Logotipo de SeaTable** - haga clic para actualizar la página de inicio.
 - **Campo de búsqueda**: permite buscar una o varias bases por su nombre.
 - **Timbre** - muestra [notificaciones]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) generales.
-- **Avatar** - abre un menú: Aquí se muestran los límites actuales del equipo, así como enlaces a la [configuración personal](https://seatable.io/es/docs/persoenliche-einstellungen/persoenliche-einstellungen/) y a la [configuración del equipo](https://seatable.io/es/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/) si eres administrador del mismo. El cierre de sesión también se encuentra aquí.
+- **Avatar** - abre un menú: Aquí se muestran los límites actuales del equipo, así como enlaces a la [configuración personal]({{< relref "help/startseite/persoenliche-einstellungen" >}}) y a la [configuración del equipo]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}) si eres administrador del mismo. El cierre de sesión también se encuentra aquí.
 
 ## Navegación por la página
 
@@ -32,4 +32,4 @@ El espacio de trabajo contiene todas las bases a las que tiene acceso. El espaci
 - **Mis Bases** - Bases que has creado y a las que sólo tú tienes acceso (siempre que no des ninguna [participación]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) ).
 - **Favoritos** - Bases que has marcado como [favoritas]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}}).
 - **Liberado para mí** - todas las bases que otros han compartido con usted.
-- **Grupos**: todos los [grupos](https://seatable.io/es/docs/arbeiten-mit-gruppen/gruppen/) a los que perteneces.
+- **Grupos**: todos los [grupos]({{< relref "help/startseite/gruppen" >}}) a los que perteneces.

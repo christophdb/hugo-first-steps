@@ -24,7 +24,7 @@ In future versions, we will also introduce filter groups in apps, forms and auto
 
 ## Conditional formatting with cross-column filter
 
-Version 5.2 also offers extended filter options in conditional [rows](https://seatable.io/en/docs/ansichtsoptionen/farbliche-markierung-von-zeilen/) and [cell formatting](https://seatable.io/en/docs/ansichtsoptionen/einfaerben-von-zellen/). Do you want to color a cell red based on the values in other columns to draw attention to it? With SeaTable 5.2 you can! The color coding of a row or cell can now be formatted depending on each individual column value in a data set. And that's not all: conditional formatting can also take into account values in multiple columns, regardless of the column type.
+Version 5.2 also offers extended filter options in conditional [rows]({{< relref "help/base-editor/ansichten" >}}farbliche-markierung-von-zeilen/) and [cell formatting]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/). Do you want to color a cell red based on the values in other columns to draw attention to it? With SeaTable 5.2 you can! The color coding of a row or cell can now be formatted depending on each individual column value in a data set. And that's not all: conditional formatting can also take into account values in multiple columns, regardless of the column type.
 
 ![Improved conditional formatting in SeaTable 5.2](ConditionalFormatting.png)
 
@@ -48,7 +48,7 @@ Simple [web forms]({{< relref "help/base-editor/webformulare" >}}) that can be c
 
 ### Page type Table
 
-The **preset filters** in the data settings now allow the selection of all relevant column types including [formula](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/) and [link columns](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). This removes an important functional limitation in the pre-filtering of data. With the implementation of filter groups in one of the upcoming versions, this page type will offer the same powerful filter options as the Base.
+The **preset filters** in the data settings now allow the selection of all relevant column types including [formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) and [link columns]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). This removes an important functional limitation in the pre-filtering of data. With the implementation of filter groups in one of the upcoming versions, this page type will offer the same powerful filter options as the Base.
 
 ### Individual pages
 
@@ -98,17 +98,17 @@ The ability to **manage hierarchical data in a table** reaches a new level in Se
 
 ![Juxtaposition internal linking in SeaTable 5.1 and 5.2](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
 
-For users, this only brings advantages without additional complexity. If a user creates a new **link column** that links entries in one and the same table, SeaTable automatically creates the second link column. The [organization chart](https://seatable.io/en/docs/plugins/anleitung-zum-organigramm-plugin/) and [tree](https://seatable.io/en/docs/plugins/anleitung-zum-tree-plugin/) plugins can also handle the improved data structure.
+For users, this only brings advantages without additional complexity. If a user creates a new **link column** that links entries in one and the same table, SeaTable automatically creates the second link column. The [organization chart]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}) and [tree]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}}) plugins can also handle the improved data structure.
 
 Existing links within a table are not adjusted. If you want to change, create a new link column and insert the links. You can then delete the old link column.
 
-With the new version, SeaTable supports **logging into Google and Microsoft email accounts using OAuth**. (Microsoft calls this "modern authentication".) The use of Microsoft e-mail accounts in particular was previously only possible with major restrictions after Microsoft discontinued authentication using a user name and password. In the user manual you will find detailed instructions on how to [integrate](https://seatable.io/en/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) a Gmail, Outlook.com or MS 365 account in a SeaTable Base as a [third-party account](https://seatable.io/en/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+With the new version, SeaTable supports **logging into Google and Microsoft email accounts using OAuth**. (Microsoft calls this "modern authentication".) The use of Microsoft e-mail accounts in particular was previously only possible with major restrictions after Microsoft discontinued authentication using a user name and password. In the user manual you will find detailed instructions on how to [integrate]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}) a Gmail, Outlook.com or MS 365 account in a SeaTable Base as a [third-party account]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
 Tables can now be hidden, as is familiar from Microsoft Excel. A **hidden worksheet** is no longer displayed as a tab and can only be accessed via the drop-down menu.
 
 [Checkboxes](https://seatable.io/en/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) offer more style options and even more color options in SeaTable 5.2. If you don't like the green tick, you can now choose from 69 other options.
 
-In the [calendar plugin](https://seatable.io/en/docs/plugins/anleitung-zum-kalender-plugin/), new entries can now also be created by double-clicking or using the new "+" button.
+In the [calendar plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), new entries can now also be created by double-clicking or using the new "+" button.
 
 ## Two functional changes
 

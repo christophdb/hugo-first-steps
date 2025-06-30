@@ -10,13 +10,13 @@ url: '/pt/ajuda/anleitung-zum-organigramm-plugin'
 
 Pode utilizar o plugin do organigrama para apresentar **hierarquias** entre os registos de dados de uma tabela. Isto é útil, por exemplo, para visualizar os cargos numa empresa ou as [tarefas superiores e subordinadas num projeto](https://seatable.io/pt/projektstrukturplan-vorlage/).
 
-Pode descobrir como ativar o plugin numa base [aqui](https://seatable.io/pt/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Pode descobrir como ativar o plugin numa base [aqui]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Plugin de organograma](images/Organigramm-Plugin.png)
 
 ## Requisitos e funcionalidade do plugin do organigrama
 
-Para definir quais os registos de dados que são dependentes uns dos outros, é necessária uma [ligação que se refira a uma e à mesma tabela](https://seatable.io/pt/docs/verknuepfungen/verknuepfungen-innerhalb-einer-tabelle/). A entrada que se liga nesta coluna a outra linha na mesma tabela é exibida como um **registo de dados superior**.
+Para definir quais os registos de dados que são dependentes uns dos outros, é necessária uma [ligação que se refira a uma e à mesma tabela]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}). A entrada que se liga nesta coluna a outra linha na mesma tabela é exibida como um **registo de dados superior**.
 
 ![Coluna de ligação para um organigrama](images/Verknuepfungsspalte-fuer-ein-Organigramm.png)
 

@@ -25,9 +25,9 @@ No SeaTable, não tem de se preocupar em perder os seus dados. Mesmo tabelas eli
 Quando se recupera uma mesa do caixote da reciclagem, esta é restaurada exactamente como estava quando foi apagada. Isto inclui os seguintes componentes:
 
 - Dados da tabela
-- [Vistas de tabela](https://seatable.io/pt/docs/seatable-nutzen/ansichten/)
-- [Comentários](https://seatable.io/pt/docs/zusammenarbeit/kommentare/)
-- [Formulários Web](https://seatable.io/pt/docs/seatable-nutzen/webformulare/)
+- [Vistas de tabela]({{< relref "help/base-editor/ansichten" >}})
+- [Comentários]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Formulários Web]({{< relref "help/base-editor/webformulare" >}})
 - Automatizações
 - Representações e avaliações nos plug-ins do SeaTable
 
@@ -37,4 +37,4 @@ Quando se recupera uma mesa do caixote da reciclagem, esta é restaurada exactam
 
 ## Artigos mais úteis em torno da recuperação de dados
 
-SeaTable oferece várias opções para a restauração de conteúdos apagados. Não só os quadros apagados podem ser recuperados, mas também as suas últimas alterações, versões antigas ou bases inteiras. O [artigo de síntese sobre recuperação de dados no SeaTable](https://seatable.io/pt/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/) irá certamente ajudá-lo.
+SeaTable oferece várias opções para a restauração de conteúdos apagados. Não só os quadros apagados podem ser recuperados, mas também as suas últimas alterações, versões antigas ou bases inteiras. O [artigo de síntese sobre recuperação de dados no SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}}) irá certamente ajudá-lo.

@@ -69,7 +69,7 @@ url: '/ru/pomoshch/standardwert-fuer-eine-spalte-festlegen'
 
 - в [таблице]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - в [колонке ссылок]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
-- через [кнопку](https://seatable.io/ru/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (действие: "Скопировать строку в другую таблицу")
+- через [кнопку]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (действие: "Скопировать строку в другую таблицу")
 - с помощью [автоматизации]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (действия: "Добавить строку" и "Добавить новую запись в другую таблицу")
 - в [календаре]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - через [веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}})

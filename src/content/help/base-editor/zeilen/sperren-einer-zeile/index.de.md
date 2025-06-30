@@ -10,7 +10,7 @@ url: '/de/hilfe/sperren-einer-zeile'
 
 {{< required-version "Plus" "Enterprise" >}}
 
-Um unerwünschte Änderungen an Zeilen zu verhindern, können Sie **Zeilen sperren**. Dies kann beispielsweise sinnvoll sein, wenn mehr als eine Person in einer Tabelle arbeitet. Die Sperrung kann entweder **manuell** durch Sie erfolgen oder **automatisch** durch eine [Automation](https://seatable.io/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
+Um unerwünschte Änderungen an Zeilen zu verhindern, können Sie **Zeilen sperren**. Dies kann beispielsweise sinnvoll sein, wenn mehr als eine Person in einer Tabelle arbeitet. Die Sperrung kann entweder **manuell** durch Sie erfolgen oder **automatisch** durch eine [Automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ## So sperren Sie eine Zeile
 
@@ -34,7 +34,7 @@ Genauso, wie Sie eine Zeile sperren, können Sie diese auch wieder **entsperren*
 
 Das ist sehr nützlich, wenn Sie viele Zeilen auf einmal sperren möchten oder immer ab einem bestimmten Zeitpunkt (z. B. wenn ein Vorgang abgeschlossen ist) verhindern wollen, dass eine Zeile weiter bearbeitet werden kann.
 
-**Alles Weitere dazu erfahren Sie im Artikel** [Zeilen per Automation sperren](https://seatable.io/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
+**Alles Weitere dazu erfahren Sie im Artikel** [Zeilen per Automation sperren]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ![Mit einer Automation eine Zeile sperren](images/lock-row-with-an-automation.png)
 

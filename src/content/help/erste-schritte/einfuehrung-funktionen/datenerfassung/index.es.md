@@ -16,7 +16,7 @@ Si acaba de abrir una tabla, puede simplemente hacer clic con el ratón en una c
 
 ## Copiar y pegar
 
-También puede utilizar el **portapapeles** de su ordenador para transferir rápidamente pequeñas cantidades de datos. Para ello, copie los datos de una tabla existente y péguelos en SeaTable mediante [copiar y pegar](https://seatable.io/es/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/).
+También puede utilizar el **portapapeles** de su ordenador para transferir rápidamente pequeñas cantidades de datos. Para ello, copie los datos de una tabla existente y péguelos en SeaTable mediante [copiar y pegar]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}).
 
 ## Importación de datos
 

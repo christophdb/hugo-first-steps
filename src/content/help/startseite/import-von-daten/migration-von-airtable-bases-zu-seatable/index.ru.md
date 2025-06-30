@@ -258,7 +258,7 @@ else:
 
 Теперь вы должны увидеть все записи из базы Airtable в новой базе SeaTable. Поздравляем, миграция наборов данных завершена!
 
-Если вас не устраивает конечный результат, [удалите все таблицы](https://seatable.io/ru/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/) и начните с шага 5.
+Если вас не устраивает конечный результат, [удалите все таблицы]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}}) и начните с шага 5.
 
 ### 11\. завершить миграцию
 

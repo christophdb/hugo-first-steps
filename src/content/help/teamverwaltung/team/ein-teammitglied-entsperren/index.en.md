@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/help/ein-teammitglied-entsperren'
 ---
 
-[Locked team members](https://seatable.io/en/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) can no longer log in and work with you. However, as a **team administrator**, you can unlock them.
+[Locked team members]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) can no longer log in and work with you. However, as a **team administrator**, you can unlock them.
 
 ## No login for deactivated team members
 

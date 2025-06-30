@@ -31,7 +31,7 @@ Une fois que vous vous serez habitué aux nombreuses fonctions d'analyse de SeaT
 
 Des [vues]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) faciles à utiliser garantissent que vous avez toujours sous les yeux exactement les données dont vous avez besoin - et différentes statistiques vous permettent de visualiser rapidement et facilement vos évaluations.
 
-En outre, les différents [plug-ins]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) ou [de cartes](https://seatable.io/fr/docs/plugins/instructions-plugin-de-carte/) vous offrent de toutes nouvelles options d'affichage pour vous aider à travailler de manière optimale.
+En outre, les différents [plug-ins]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) ou [de cartes]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}/) vous offrent de toutes nouvelles options d'affichage pour vous aider à travailler de manière optimale.
 
 Un premier clic permet par exemple de placer les dates d'un événement sur un calendrier, un deuxième clic permet d'afficher les photos d'accompagnement dans une galerie et un troisième clic permet d'afficher les lieux de l'événement sur une carte. Vous ne voudrez plus jamais vous en passer.
 

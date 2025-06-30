@@ -18,4 +18,4 @@ Sie möchten Ihr SeaTable-Abo kündigen? Nutzen Sie hierfür den Reiter Abonneme
 
 ## Team komplett löschen
 
-Wenn Sie nicht nur Ihr aktuelles Abonnement kündigen, sondern auch Ihr gesamtes Team löschen wollen, lesen Sie bitte den Hilfeartikel [das komplettes Team löschen](https://seatable.io/docs/teamverwaltung/das-komplette-team-loeschen/).
+Wenn Sie nicht nur Ihr aktuelles Abonnement kündigen, sondern auch Ihr gesamtes Team löschen wollen, lesen Sie bitte den Hilfeartikel [das komplettes Team löschen]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).

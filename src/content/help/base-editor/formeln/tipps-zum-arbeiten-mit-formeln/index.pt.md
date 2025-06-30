@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/tipps-zum-arbeiten-mit-formeln'
 ---
 
-Aqui encontrará ajuda e conselhos para facilitar o seu trabalho com as fórmulas Seatable. Pode encontrar uma lista de todas as fórmulas disponíveis [aqui](https://seatable.io/pt/docs/formeln/formelreferenz/).
+Aqui encontrará ajuda e conselhos para facilitar o seu trabalho com as fórmulas Seatable. Pode encontrar uma lista de todas as fórmulas disponíveis [aqui]({{< relref "help/base-editor/formeln/formelreferenz" >}}).
 
 ## Utilizar espaços e quebras de linha
 
@@ -56,4 +56,4 @@ Uma forma óptima de planear uma fórmula poderia ser a seguinte, por exemplo:
 
 **Dica**: Especialmente no início, pode ser útil escrever apenas partes de uma fórmula e depois adicionar gradualmente mais elementos.
 
-6. Verificar a fórmula para detectar eventuais **mensagens de erro**. Se for apresentada alguma, tente primeiro corrigi-la. Se precisar de mais ajuda, utilize o nosso artigo de ajuda [Erros típicos ao trabalhar com fórmulas](https://seatable.io/pt/docs/formeln/typische-fehler-beim-arbeiten-mit-formeln/).
+6. Verificar a fórmula para detectar eventuais **mensagens de erro**. Se for apresentada alguma, tente primeiro corrigi-la. Se precisar de mais ajuda, utilize o nosso artigo de ajuda [Erros típicos ao trabalhar com fórmulas]({{< relref "help/base-editor/formeln/typische-fehler-beim-arbeiten-mit-formeln" >}}).

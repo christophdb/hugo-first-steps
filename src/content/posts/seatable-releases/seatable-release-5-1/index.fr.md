@@ -34,7 +34,7 @@ La version 5.1 offre également plus de flexibilité pour l'**agrandissement et 
 
 ### Type de page Enregistrement unique
 
-Dans SeaTable 5.1, ce type de page, tout comme les pages de tableaux et de requêtes, prend en charge l'[exécution d'actions par bouton](https://seatable.io/fr/docs/andere-spalten/die-schaltflaeche/). Qu'il s'agisse de créer un document PDF, d'appeler une page web, de modifier un enregistrement ou d'exécuter un script, vous pouvez désormais lancer toutes ces **actions par bouton** ici aussi. Il n'est pas nécessaire de [disposer d'une autorisation d'édition pour la page](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/). De cette manière, les administrateurs d'apps peuvent limiter les interactions utilisateur pour ce type de page à quelques actions prédéfinies.
+Dans SeaTable 5.1, ce type de page, tout comme les pages de tableaux et de requêtes, prend en charge l'[exécution d'actions par bouton]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Qu'il s'agisse de créer un document PDF, d'appeler une page web, de modifier un enregistrement ou d'exécuter un script, vous pouvez désormais lancer toutes ces **actions par bouton** ici aussi. Il n'est pas nécessaire de [disposer d'une autorisation d'édition pour la page](https://seatable.io/fr/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/). De cette manière, les administrateurs d'apps peuvent limiter les interactions utilisateur pour ce type de page à quelques actions prédéfinies.
 
 La barre d'outils propose un nouveau **générateur de code QR**. Le code QR contient le lien vers l'entrée actuellement affichée. Apposé sur un objet ou un appareil, il permet de consulter toutes les données dans l'application via une tablette ou un smartphone, sans aucune saisie au clavier. La gestion de l'inventaire, par exemple, est ainsi encore plus simple.
 
@@ -76,7 +76,7 @@ Les apps peuvent certes accéder aux données dans la mémoire Big Data, mais le
 
 ![Nouvelle gestion des données de masse dans l'App Builder de SeaTable](BigDataManagement_AppBuilder.png)
 
-Mais nous n'avons pas seulement amélioré l'intégration avec les apps, le [plugin de conception de pages](https://seatable.io/fr/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) offre également de nouvelles possibilités. Le plugin a désormais accès à la mémoire Big Data et peut **créer des documents pour les lignes de la mémoire Big Data**.
+Mais nous n'avons pas seulement amélioré l'intégration avec les apps, le [plugin de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) offre également de nouvelles possibilités. Le plugin a désormais accès à la mémoire Big Data et peut **créer des documents pour les lignes de la mémoire Big Data**.
 
 ## Le nouveau plugin Arbre
 
@@ -90,11 +90,11 @@ Les hiérarchies sur trois niveaux maximum, c'est-à-dire les données de trois 
 
 Cette version contient à nouveau plus de nouveautés que nous ne pouvons en présenter dans ces notes de version. Voici donc brièvement quelques fonctionnalités supplémentaires qui, selon nous, méritent d'être mentionnées.
 
-L'**éditeur de formules** reçoit une nouvelle fonction : **rowid()** renvoie l'ID de la ligne. Celui-ci peut ensuite être utilisé par exemple pour des actions de boutons ou des automatisations. Il n'y a pas seulement des nouveautés dans la [colonne des formules](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/), mais aussi dans le type de colonne Formule pour les liens : [Les lookups](https://seatable.io/fr/docs/verknuepfungen/die-lookup-funktion/) offrent désormais un contrôle des doublons. Si l'option **Ne pas afficher les doublons** est activée, seules les valeurs uniques sont affichées dans chaque cellule de la colonne.
+L'**éditeur de formules** reçoit une nouvelle fonction : **rowid()** renvoie l'ID de la ligne. Celui-ci peut ensuite être utilisé par exemple pour des actions de boutons ou des automatisations. Il n'y a pas seulement des nouveautés dans la [colonne des formules]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), mais aussi dans le type de colonne Formule pour les liens : [Les lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) offrent désormais un contrôle des doublons. Si l'option **Ne pas afficher les doublons** est activée, seules les valeurs uniques sont affichées dans chaque cellule de la colonne.
 
 ![Color Picker introduit SeaTable 5.1](ColorPicker.png)
 
-Dans SeaTable 5.1, nous avons amélioré la mise en évidence de la syntaxe dans l'**éditeur Python** intégré afin de faciliter la lecture des [scripts](https://seatable.io/fr/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/). Nous avons également corrigé un bug dans l'indentation automatique.
+Dans SeaTable 5.1, nous avons amélioré la mise en évidence de la syntaxe dans l'**éditeur Python** intégré afin de faciliter la lecture des [scripts]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}). Nous avons également corrigé un bug dans l'indentation automatique.
 
 Un nouveau sélecteur de couleurs, qui permet de choisir les couleurs dans les statistiques et sur certains types de pages dans l'App Builder, permet de trouver plus rapidement la couleur souhaitée. Le sélecteur est désormais plus clair et affiche les dernières couleurs utilisées.
 

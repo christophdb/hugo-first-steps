@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
 ---
 
-As tabelas criadas com um registo de dados partilhados contêm inicialmente todas as colunas e linhas que também podem ser encontradas na vista de tabela do registo de dados partilhados. Naturalmente, também tem a opção de adicionar **novas colunas** a estas tabelas e preenchê-las com os seus próprios dados. A vantagem: os dados das colunas que não estão ligadas ao registo de dados partilhado **não** são **substituídos** durante a [sincronização](https://seatable.io/pt/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+As tabelas criadas com um registo de dados partilhados contêm inicialmente todas as colunas e linhas que também podem ser encontradas na vista de tabela do registo de dados partilhados. Naturalmente, também tem a opção de adicionar **novas colunas** a estas tabelas e preenchê-las com os seus próprios dados. A vantagem: os dados das colunas que não estão ligadas ao registo de dados partilhado **não** são **substituídos** durante a [sincronização]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 Esta função permite que conjuntos de dados comuns sejam utilizados, por exemplo, por vários departamentos e grupos de empregados de uma empresa numa grande variedade de contextos.
 
@@ -20,7 +20,7 @@ A adição de colunas funciona da **mesma forma que com as tabelas habituais**. 
 
 ## Bloqueio de colunas do registo comum
 
-**Deve ter-se cuidado** ao editar colunas de um conjunto de dados comum. Se fizer alterações nas colunas que contêm dados de um conjunto de dados comum, estas alterações serão novamente **substituídas** da próxima vez que o [conjunto de dados for sincronizado](https://seatable.io/pt/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) e, por conseguinte, **perder-se-ão**.
+**Deve ter-se cuidado** ao editar colunas de um conjunto de dados comum. Se fizer alterações nas colunas que contêm dados de um conjunto de dados comum, estas alterações serão novamente **substituídas** da próxima vez que o [conjunto de dados for sincronizado]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) e, por conseguinte, **perder-se-ão**.
 
 Para assegurar um fluxo de trabalho óptimo e para evitar tanto a perda de dados como mal-entendidos durante a colaboração, é aconselhável **bloquear** todas as **colunas** que contenham dados de um **conjunto de dados comum para** edição. Pode, no entanto, editar as colunas adicionais adicionadas **individualmente**, como desejar.
 

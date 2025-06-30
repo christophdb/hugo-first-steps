@@ -20,7 +20,7 @@ Ihre **eigenen Bases** können Sie in SeaTable jederzeit löschen. Bases, die zu
 4. Klicken Sie auf **Löschen**.
 5. Bestätigen Sie den Vorgang erneut mit **Löschen**.
 
-Gelöschte Bases landen in einem **Papierkorb**. Von dort aus können Sie sie zunächst **wiederherstellen**. Wie das geht, erfahren Sie [hier](https://seatable.io/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Gelöschte Bases landen in einem **Papierkorb**. Von dort aus können Sie sie zunächst **wiederherstellen**. Wie das geht, erfahren Sie [hier]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 {{< warning  type="warning" headline="Achtung"  text="Nach **30 Tagen** werden gelöschte Bases **automatisch** aus dem System entfernt und können **nicht** mehr wiederhergestellt werden." />}}
 

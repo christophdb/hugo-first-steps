@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/welche-import-formate-unterstuetzt-seatable'
 ---
 
-SeaTable vous offre de nombreuses possibilités de saisie de données : vous pouvez saisir manuellement des données dans des tableaux et faire saisir des données par [formulaire web](https://seatable.io/fr/docs/seatable-nutzen/webformulare/) ou à l'aide d'automatismes.
+SeaTable vous offre de nombreuses possibilités de saisie de données : vous pouvez saisir manuellement des données dans des tableaux et faire saisir des données par [formulaire web]({{< relref "help/base-editor/webformulare" >}}) ou à l'aide d'automatismes.
 
 En outre, SeaTable dispose d'un puissant système d'importation de données. Celui-ci s'occupe de pratiquement tous les fichiers Excel et CSV. Il est également possible d'importer des données de Microsoft Access et de Google Sheets par un petit détour.
 

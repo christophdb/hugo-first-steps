@@ -10,13 +10,13 @@ url: '/fr/aide/anleitung-zum-organigramm-plugin'
 
 Le plug-in Organigramme permet de représenter **les hiérarchies** entre les enregistrements d'un tableau. C'est utile, par exemple, pour visualiser les postes dans une entreprise ou les [tâches supérieures et inférieures dans un projet](https://seatable.io/fr/projektstrukturplan-vorlage/).
 
-Pour savoir comment activer le plugin dans une base, [cliquez ici](https://seatable.io/fr/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Plugin d'organigramme](images/Organigramm-Plugin.png)
 
 ## Conditions préalables et fonctionnement du plug-in d'organigramme
 
-Pour définir quels enregistrements dépendent les uns des autres, vous avez besoin d'un [lien qui se réfère à une seule et même table](https://seatable.io/fr/docs/verknuepfungen/verknuepfungen-innerhalb-einer-tabelle/). L'enregistrement que vous liez dans cette colonne à une autre ligne de la même table est représenté comme un **enregistrement parent**.
+Pour définir quels enregistrements dépendent les uns des autres, vous avez besoin d'un [lien qui se réfère à une seule et même table]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}). L'enregistrement que vous liez dans cette colonne à une autre ligne de la même table est représenté comme un **enregistrement parent**.
 
 ![Colonne de liaison pour un organigramme](images/Verknuepfungsspalte-fuer-ein-Organigramm.png)
 

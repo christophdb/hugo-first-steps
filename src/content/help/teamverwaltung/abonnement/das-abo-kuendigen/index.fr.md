@@ -18,4 +18,4 @@ Vous souhaitez résilier votre abonnement à SeaTable ? Utilisez pour cela l'ong
 
 ## Supprimer complètement une équipe
 
-Si vous souhaitez non seulement résilier votre abonnement actuel, mais aussi supprimer toute votre équipe, veuillez consulter l'article d'aide [Supprimer l'équipe complète](https://seatable.io/fr/docs/teamverwaltung/das-komplette-team-loeschen/).
+Si vous souhaitez non seulement résilier votre abonnement actuel, mais aussi supprimer toute votre équipe, veuillez consulter l'article d'aide [Supprimer l'équipe complète]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).

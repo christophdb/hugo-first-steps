@@ -24,7 +24,7 @@ Dans les prochaines versions, nous introduirons également des groupes de filtre
 
 ## Mise en forme conditionnelle avec filtre inter-colonnes
 
-La version 5.2 offre également des possibilités de filtrage étendues dans le [formatage](https://seatable.io/fr/docs/ansichtsoptionen/einfaerben-von-zellen/) conditionnel des [lignes](https://seatable.io/fr/docs/ansichtsoptionen/farbliche-markierung-von-zeilen/) et [des cellules](https://seatable.io/fr/docs/ansichtsoptionen/einfaerben-von-zellen/). Vous souhaitez colorer une cellule en rouge sur la base des valeurs des autres colonnes pour attirer l'attention ? C'est possible avec SeaTable 5.2 ! Il est désormais possible de formater le code couleur d'une ligne ou d'une cellule en fonction de chaque valeur de colonne dans un ensemble de données. Et ce n'est pas tout : la mise en forme conditionnelle peut aussi prendre en compte les valeurs de plusieurs colonnes, quel que soit le type de colonne.
+La version 5.2 offre également des possibilités de filtrage étendues dans le [formatage]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/) conditionnel des [lignes]({{< relref "help/base-editor/ansichten" >}}farbliche-markierung-von-zeilen/) et [des cellules]({{< relref "help/base-editor/ansichten" >}}einfaerben-von-zellen/). Vous souhaitez colorer une cellule en rouge sur la base des valeurs des autres colonnes pour attirer l'attention ? C'est possible avec SeaTable 5.2 ! Il est désormais possible de formater le code couleur d'une ligne ou d'une cellule en fonction de chaque valeur de colonne dans un ensemble de données. Et ce n'est pas tout : la mise en forme conditionnelle peut aussi prendre en compte les valeurs de plusieurs colonnes, quel que soit le type de colonne.
 
 ![Amélioration du formatage conditionnel dans SeaTable 5.2](ConditionalFormatting.png)
 
@@ -48,7 +48,7 @@ Les [formulaires web]({{< relref "help/base-editor/webformulare" >}}) simples qu
 
 ### Type de page Tableau
 
-Les **filtres prédéfinis** dans les paramètres de données permettent désormais de sélectionner tous les types de colonnes pertinents, y compris [les](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/) [colonnes](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) [de formules](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/) et [de liens](https://seatable.io/fr/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/). Cela supprime une restriction fonctionnelle importante lors du préfiltrage des données. Avec l'implémentation des groupes de filtres dans une prochaine version, ce type de page offrira les mêmes possibilités de filtrage performantes que la Base.
+Les **filtres prédéfinis** dans les paramètres de données permettent désormais de sélectionner tous les types de colonnes pertinents, y compris [les]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) [colonnes]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) [de formules]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) et [de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Cela supprime une restriction fonctionnelle importante lors du préfiltrage des données. Avec l'implémentation des groupes de filtres dans une prochaine version, ce type de page offrira les mêmes possibilités de filtrage performantes que la Base.
 
 ### Pages personnalisées
 
@@ -98,17 +98,17 @@ La possibilité de **gérer des données hiérarchiques dans un tableau** attein
 
 ![Juxtaposition de liens internes dans SeaTable 5.1 et 5.2](InternalLinking-SeaTable-5.2-vs.-SeaTable-5.1.png)
 
-Pour les utilisateurs, cela ne présente que des avantages sans complexité supplémentaire. Si un utilisateur crée une nouvelle **colonne de jointure** qui relie des entrées dans le même tableau, SeaTable crée automatiquement la deuxième colonne de jointure. Les plug-ins [Organigramme](https://seatable.io/fr/docs/plugins/anleitung-zum-organigramm-plugin/) et [Arbre](https://seatable.io/fr/docs/plugins/anleitung-zum-tree-plugin/) peuvent également gérer la structure de données améliorée.
+Pour les utilisateurs, cela ne présente que des avantages sans complexité supplémentaire. Si un utilisateur crée une nouvelle **colonne de jointure** qui relie des entrées dans le même tableau, SeaTable crée automatiquement la deuxième colonne de jointure. Les plug-ins [Organigramme]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}}) et [Arbre]({{< relref "help/base-editor/plugins/anleitung-zum-tree-plugin" >}}) peuvent également gérer la structure de données améliorée.
 
 Pour les liens existants au sein d'un tableau, aucune adaptation n'a lieu. Si vous voulez changer, créez une nouvelle colonne de liens et insérez les liens. Vous pouvez ensuite supprimer l'ancienne colonne de liens.
 
-Avec la nouvelle version, SeaTable prend en charge la **connexion aux comptes de messagerie Google et Microsoft via OAuth**. (Microsoft appelle cela "l'authentification moderne".) L'utilisation des comptes de messagerie Microsoft en particulier n'était jusqu'à présent possible qu'avec de grandes restrictions, depuis que Microsoft avait annoncé l'abandon de l'authentification par nom d'utilisateur et mot de passe. Vous trouverez dans le guide de l'utilisateur des instructions détaillées sur la manière d'[intégrer](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) un compte Gmail, Outlook.com ou MS 365 dans une base SeaTable en tant que [compte tiers](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+Avec la nouvelle version, SeaTable prend en charge la **connexion aux comptes de messagerie Google et Microsoft via OAuth**. (Microsoft appelle cela "l'authentification moderne".) L'utilisation des comptes de messagerie Microsoft en particulier n'était jusqu'à présent possible qu'avec de grandes restrictions, depuis que Microsoft avait annoncé l'abandon de l'authentification par nom d'utilisateur et mot de passe. Vous trouverez dans le guide de l'utilisateur des instructions détaillées sur la manière d'[intégrer]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}) un compte Gmail, Outlook.com ou MS 365 dans une base SeaTable en tant que [compte tiers]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
 Il est désormais possible de masquer des tableaux, comme on le fait dans Microsoft Excel. Une **feuille de calcul masquée** n'est plus affichée sous forme d'onglet et ne peut être appelée que via le menu déroulant.
 
 [Les cases à cocher](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-checkbox-spalte/) offrent plus d'options de style et encore plus d'options de couleur dans SeaTable 5.2. Ceux qui n'aiment pas la coche verte peuvent désormais choisir parmi 69 autres options.
 
-Dans le [plug-in calendrier](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/), il est désormais possible de créer de nouvelles entrées par double-clic ou via le nouveau bouton "+".
+Dans le [plug-in calendrier]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), il est désormais possible de créer de nouvelles entrées par double-clic ou via le nouveau bouton "+".
 
 ## Deux changements fonctionnels
 

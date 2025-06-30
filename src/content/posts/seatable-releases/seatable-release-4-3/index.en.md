@@ -20,7 +20,7 @@ We have also upgraded the plugins to Webpack 5 and upgraded the framework to Rea
 
 ## New dialog and custom links for web forms
 
-To share your [web forms]({{< relref "help/base-editor/webformulare" >}}) with other users, there were previously two different dialog boxes: one in which you could copy an **automatically generated link**; and one in which you could extend this link with [pre-filled values](https://seatable.io/en/docs/webformulare/formularfelder-per-url-vorbefuellen/). We have now combined these options into a single dialog to increase usability.
+To share your [web forms]({{< relref "help/base-editor/webformulare" >}}) with other users, there were previously two different dialog boxes: one in which you could copy an **automatically generated link**; and one in which you could extend this link with [pre-filled values]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}). We have now combined these options into a single dialog to increase usability.
 
 We have also added the brand new option to create **custom URLs** for web forms. You can then edit, save as a QR code, copy or delete them.
 
@@ -30,14 +30,14 @@ We have also added the brand new option to create **custom URLs** for web forms.
 
 ## Automated actions: Save PDF and send app notification
 
-Attention automation fans! SeaTable 4.3 adds two new options to the [automated actions](https://seatable.io/en/docs/automationen/automations-aktionen/):
+Attention automation fans! SeaTable 4.3 adds two new options to the [automated actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}}):
 
 1. Firstly, you have the option of periodically saving PDFs for records that fulfill certain conditions.
 2. Secondly, you can now send notifications that certain users of a universal app should receive.
 
-Previously, you could only [create PDF documents](https://seatable.io/en/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) manually in SeaTable [using a button](https://seatable.io/en/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/). The new option to **automatically** create documents from specific data records at a specified time saves you clicks and makes your processes even smoother.
+Previously, you could only [create PDF documents]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) manually in SeaTable [using a button]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}). The new option to **automatically** create documents from specific data records at a specified time saves you clicks and makes your processes even smoother.
 
-You can use **app notifications** to inform the users of an app about changes to relevant data records, for example. This action can be [triggered](https://seatable.io/en/docs/automationen/automations-trigger/) by all four [trigger events](https://seatable.io/en/docs/automationen/automations-trigger/).
+You can use **app notifications** to inform the users of an app about changes to relevant data records, for example. This action can be [triggered]({{< relref "help/base-editor/automationen/automations-trigger" >}}) by all four [trigger events]({{< relref "help/base-editor/automationen/automations-trigger" >}}).
 
 ![Send app notification](App-Benachrichtigung-senden.png)
 
@@ -71,7 +71,7 @@ In addition, as of SeaTable 4.3, the **background color** of custom pages can be
 
 The inheritance of [column permissions](https://seatable.io/en/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) from the base is abolished with SeaTable 4.3. If you want to lock a column in the Universal App for editing, you can set it to **"read-only"** in the [table page](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) settings instead.
 
-All restrictions for [button actions](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) have also been removed. Every app user can now make predefined changes to the data records, even if the affected columns are otherwise locked for them and the user is not authorized to edit the page.
+All restrictions for [button actions]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) have also been removed. Every app user can now make predefined changes to the data records, even if the affected columns are otherwise locked for them and the user is not authorized to edit the page.
 
 ## Important announcement: Removal of the gallery and data query app
 
@@ -79,7 +79,11 @@ In version 4.4, the [gallery app](https://seatable.io/en/docs/apps/galerie-app/)
 
 If you use the two expiring apps, we recommend that you rebuild your use cases with [gallery pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) and query [pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) in the App Builder before the next release. Incidentally, you can now add fields to query pages that allow users to search **link columns** for specific values.
 
-{{< warning headline="Attention, danger of confusion!" text="You also know the [gallery](https://seatable.io/en/docs/plugins/anleitung-zum-galerie-plugin/) and the [SQL query](https://seatable.io/en/docs/plugins/anleitung-zum-sql-abfrage-plugin/) as **plugins** that you can add to your bases. These will of course remain in place." />}}
+{{< warning headline="Attention, danger of confusion!" >}}
+
+You also know the [gallery]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) and the [SQL query]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) as **plugins** that you can add to your bases. These will of course remain in place.
+
+{{< /warning >}}
 
 ## And much more
 

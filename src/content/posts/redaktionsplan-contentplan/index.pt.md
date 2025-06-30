@@ -135,7 +135,7 @@ Comunicação simples e direta no plano editorial
 
 ### 5 Criar clareza com estatísticas
 
-Gostaria de fazer experiências com dados diferentes e analisar o seu conteúdo de acordo com os seus desejos? Então **crie [estatísticas](https://seatable.io/pt/docs/plugins/anleitung-zum-statistik-plugin/) significativas com o SeaTable**. Por exemplo, analise em que meses publicou um número particularmente elevado de mensagens, qual o funcionário que escreveu mais mensagens ou em que canal o conteúdo teve mais sucesso. Isto fornece muitas informações valiosas sobre onde as coisas estão a correr bem - e onde ainda pode haver espaço para melhorias.
+Gostaria de fazer experiências com dados diferentes e analisar o seu conteúdo de acordo com os seus desejos? Então **crie [estatísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) significativas com o SeaTable**. Por exemplo, analise em que meses publicou um número particularmente elevado de mensagens, qual o funcionário que escreveu mais mensagens ou em que canal o conteúdo teve mais sucesso. Isto fornece muitas informações valiosas sobre onde as coisas estão a correr bem - e onde ainda pode haver espaço para melhorias.
 
 ![As estatísticas fornecem informações valiosas sobre o desempenho dos conteúdos](Statistics.jpg)
 

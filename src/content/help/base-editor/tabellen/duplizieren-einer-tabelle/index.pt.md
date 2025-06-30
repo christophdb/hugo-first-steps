@@ -22,7 +22,11 @@ Precisa de uma tabela na sua Base várias vezes com uma forma ligeiramente difer
 
 7. Confirmar com **Submeter**.
 
-{{< warning  headline="Nota"  text="Todas as vistas são também duplicadas com todas as [definições de vista](https://seatable.io/pt/docs/ansichtsoptionen/) para que a tabela copiada seja uma cópia exacta da tabela original." />}}
+{{< warning  headline="Nota" >}}
+
+Todas as vistas são também duplicadas com todas as [definições de vista]({{< relref "help/base-editor/ansichten" >}}) para que a tabela copiada seja uma cópia exacta da tabela original.
+
+{{< /warning >}}
 
 **Este é o aspeto do resultado com entradas duplicadas**
 

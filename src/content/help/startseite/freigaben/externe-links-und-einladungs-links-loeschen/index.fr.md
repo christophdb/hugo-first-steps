@@ -13,7 +13,7 @@ Vous pouvez **supprimer** à tout moment les **liens externes** et **les liens d
 ## Moyens de supprimer les liens externes et les liens d'invitation
 
 - Suppression via l'icône de partage {{< seatable-icon icon="dtable-icon-share" >}} pour les bases ou les vues
-- Suppression via la [gestion d'équipe](https://seatable.io/fr/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+- Suppression via la [gestion d'équipe]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Remarque"  text="Les liens externes existent pour les bases et les vues, les liens d'invitation uniquement pour les bases." />}}
 

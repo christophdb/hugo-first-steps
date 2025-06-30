@@ -10,7 +10,7 @@ url: '/fr/aide/sperren-einer-zeile'
 
 {{< required-version "Plus" "Entreprise" >}}
 
-Pour éviter les modifications indésirables des lignes, vous pouvez les **verrouiller**. Cela peut être utile, par exemple, lorsque plus d'une personne travaille dans un tableau. Le blocage peut être effectué soit **manuellement** par vous, soit **automatiquement** par une [automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
+Pour éviter les modifications indésirables des lignes, vous pouvez les **verrouiller**. Cela peut être utile, par exemple, lorsque plus d'une personne travaille dans un tableau. Le blocage peut être effectué soit **manuellement** par vous, soit **automatiquement** par une [automatisation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ## Pour verrouiller une ligne
 
@@ -36,7 +36,7 @@ Dans SeaTable, vous pouvez créer des **règles d'automatisation** pour **bloque
 
 C'est très utile si vous voulez bloquer beaucoup de lignes à la fois ou si vous voulez toujours empêcher qu'une ligne puisse continuer à être traitée à partir d'un certain moment (par exemple lorsqu'une opération est terminée).
 
-**Pour en savoir plus, consultez l'article** [Verrouiller des lignes avec l'automatisation](https://seatable.io/fr/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
+**Pour en savoir plus, consultez l'article** [Verrouiller des lignes avec l'automatisation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ![Bloquer une ligne avec une automation](images/lock-row-with-an-automation.png)
 

@@ -45,7 +45,7 @@ for table in metadata['tables']:
 
 ## The result of the Python script
 
-For example, the output of the script returns the following result, which you can then copy and use for a **Forum entry** or for a [Support ticket](https://seatable.io/en/docs/teamverwaltung/ein-support-ticket-eroeffnen/) can use
+For example, the output of the script returns the following result, which you can then copy and use for a **Forum entry** or for a [Support ticket]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}}) can use
 
 ```
 --- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS ---

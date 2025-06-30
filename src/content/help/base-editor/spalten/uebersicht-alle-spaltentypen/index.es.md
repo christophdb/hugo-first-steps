@@ -40,7 +40,7 @@ En este tipo de columna puede guardar **textos más largos** con elementos inser
 
 Símbolo: {{< seatable-icon icon="dtable-icon-number" >}} **Número**
 
-Las columnas numéricas almacenan información **numérica** y pueden utilizarse de muchas maneras para trabajar con números de todo tipo. La información numérica puede ser un **número**, un **porcentaje** o una **cantidad de dinero**. Además, las columnas numéricas permiten **calcular valores** que se pueden visualizar con fórmulas y [estadísticas](https://seatable.io/es/docs/seatable-nutzen/statistiken/). Sin embargo, las columnas numéricas no son adecuadas para almacenar cadenas de cualquier longitud y la entrada de letras es rechazada por SeaTable en este tipo de columna.
+Las columnas numéricas almacenan información **numérica** y pueden utilizarse de muchas maneras para trabajar con números de todo tipo. La información numérica puede ser un **número**, un **porcentaje** o una **cantidad de dinero**. Además, las columnas numéricas permiten **calcular valores** que se pueden visualizar con fórmulas y [estadísticas]({{< relref "help/base-editor/statistiken" >}}). Sin embargo, las columnas numéricas no son adecuadas para almacenar cadenas de cualquier longitud y la entrada de letras es rechazada por SeaTable en este tipo de columna.
 
 [Más información sobre la columna de cifras]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
 
@@ -168,7 +168,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-location" >}} **Geoposición**
 
 En esta columna puede registrar **ubicaciones** y visualizarlas más tarde con el [complemento de mapas]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}). Para ello, puede seleccionar la entrada con país y región o con latitud y longitud. Además, tiene la opción de encontrar un país o región mediante la función de búsqueda y añadirlo como entrada.
 
-[Más información sobre la columna de geoposición](https://seatable.io/es/docs/andere-spalten/die-geopositions-spalte/)
+[Más información sobre la columna de geoposición]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}})
 
 ### Firma digital
 

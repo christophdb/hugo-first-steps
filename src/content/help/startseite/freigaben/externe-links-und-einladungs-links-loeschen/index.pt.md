@@ -13,7 +13,7 @@ Pode **apagar** tanto as **ligações externas** como as **ligações de convite
 ## Formas de eliminar ligações externas e ligações de convite
 
 - Eliminação através do ícone de partilha {{< seatable-icon icon="dtable-icon-share" >}} para bases ou vistas
-- Eliminação através da [administração da equipa](https://seatable.io/pt/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+- Eliminação através da [administração da equipa]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Nota"  text="Estão disponíveis links externos para bases e vistas, links de convite apenas para bases." />}}
 

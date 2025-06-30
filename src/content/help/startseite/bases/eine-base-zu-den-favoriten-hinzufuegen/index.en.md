@@ -36,4 +36,4 @@ Bases that you have added to your **favorites** always appear at the **top of** 
 - Released for me
 - Group 1
 - Group 2
-- … (all your groups follow in any [order you can change](https://seatable.io/docs/arbeiten-mit-gruppen/die-reihenfolge-der-gruppen-aendern/))
+- … (all your groups follow in any [order you can change]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}}))

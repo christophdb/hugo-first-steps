@@ -16,7 +16,7 @@ Wenn Sie gerade eine Tabelle geöffnet haben, können Sie einfach mit der Maus i
 
 ## Copy-and-Paste
 
-Für das schnelle Übertragen geringer Datenmengen können Sie auch die **Zwischenablage** Ihres Computers nutzen. Kopieren Sie dazu die Daten in einer bestehenden Tabelle und fügen Sie sie in SeaTable per [Copy-and-Paste](https://seatable.io/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/) ein.
+Für das schnelle Übertragen geringer Datenmengen können Sie auch die **Zwischenablage** Ihres Computers nutzen. Kopieren Sie dazu die Daten in einer bestehenden Tabelle und fügen Sie sie in SeaTable per [Copy-and-Paste]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) ein.
 
 ## Daten-Import
 

@@ -32,4 +32,4 @@ Para tener una mejor visión general de tus bases, tienes la opción de mover la
 
 ## Restricción
 
-Una base sólo puede moverse a una carpeta que pertenezca al mismo **grupo** que la propia base. Si desea mover una base a una carpeta de otro grupo, primero debe [copiar](https://seatable.io/es/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/) la base correspondiente en el [grupo deseado](https://seatable.io/es/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/).
+Una base sólo puede moverse a una carpeta que pertenezca al mismo **grupo** que la propia base. Si desea mover una base a una carpeta de otro grupo, primero debe [copiar]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) la base correspondiente en el [grupo deseado]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).

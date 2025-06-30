@@ -82,7 +82,7 @@ SeaTable registra la siguiente información para cada ejecución de automatizaci
 
 ![Estructura de un Auführungslog](images/structure-of-an-automation-log-newest.png)
 
-Puede encontrar más información sobre el registro de ejecución de una automatización [aquí](https://seatable.io/es/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/).
+Puede encontrar más información sobre el registro de ejecución de una automatización [aquí]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}}).
 
 ## Registro de ejecución de scripts
 
@@ -94,4 +94,4 @@ En el registro de ejecución encontrará diversa información útil, como la hor
 
 ![Información que se encuentra en el registro de ejecución de un script](images/information-in-a-script-log.png)
 
-Si necesitas más información sobre el registro de ejecución de scripts, no dudes en echar un vistazo a este [artículo de ayuda](https://seatable.io/es/docs/javascript-python/das-ausfuehrungslog-von-skripten/).
+Si necesitas más información sobre el registro de ejecución de scripts, no dudes en echar un vistazo a este [artículo de ayuda]({{< relref "help/skripte/allgemein/das-ausfuehrungslog-von-skripten" >}}).

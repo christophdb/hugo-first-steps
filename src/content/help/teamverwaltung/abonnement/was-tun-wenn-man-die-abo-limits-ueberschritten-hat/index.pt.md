@@ -29,6 +29,6 @@ Se não quiser mudar para um pacote de subscrição mais extenso, só tem a opç
 
 - [Eliminação de uma base]({{< relref "help/startseite/bases/loeschen-einer-base" >}})
 - [Esvaziar o caixote do lixo da reciclagem na administração da equipa](https://seatable.io/pt/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/)
-- [Eliminar uma tabela de uma base](https://seatable.io/pt/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/)
+- [Eliminar uma tabela de uma base]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
 - [Apagar uma linha]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Importação e exportação de dados]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

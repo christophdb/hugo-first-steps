@@ -56,12 +56,12 @@ SeaTable предоставляет **редактор формул** для в�
 
 Ниже приведено несколько примеров, иллюстрирующих полезность и использование формул.
 
-- [Пример формулы: Простое умножение с помощью формулы](https://seatable.io/ru/docs/formeln/formelbeispiel-einfache-multiplikation-mit-einer-formel/)
-- [Пример формулы: объединение текстовых колонок с помощью формулы](https://seatable.io/ru/docs/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel/)
-- [Пример формулы: Логические операторы if для сравнения значений](https://seatable.io/ru/docs/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten/)
-- [Пример формулы: Рассчитать продолжительность отпуска](https://seatable.io/ru/docs/formeln/formelbeispiel-berechne-die-dauer-eines-urlaubs/)
-- [Пример формулы: Расчет дней до события](https://seatable.io/ru/docs/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event/)
-- [Пример формулы: Поиск слова в тексте](https://seatable.io/ru/docs/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen/)
+- [Пример формулы: Простое умножение с помощью формулы]({{< relref "help/base-editor/formeln/formelbeispiel-einfache-multiplikation-mit-einer-formel" >}})
+- [Пример формулы: объединение текстовых колонок с помощью формулы]({{< relref "help/base-editor/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel" >}})
+- [Пример формулы: Логические операторы if для сравнения значений]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}})
+- [Пример формулы: Рассчитать продолжительность отпуска]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-die-dauer-eines-urlaubs" >}})
+- [Пример формулы: Расчет дней до события]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event" >}})
+- [Пример формулы: Поиск слова в тексте]({{< relref "help/base-editor/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen" >}})
 
 ## Математические соглашения также применяются в SeaTable
 

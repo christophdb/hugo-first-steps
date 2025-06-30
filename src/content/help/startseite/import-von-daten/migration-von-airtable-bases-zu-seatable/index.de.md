@@ -252,7 +252,7 @@ Führen Sie das Skript mit einem Klick auf **Skript ausführen** erneut aus. Wie
 
 Nun sollten Sie alle Datensätze aus der Airtable Base in der neuen SeaTable Base sehen. Gratulation, die Migration der Datensätze ist abgeschlossen!
 
-Wenn Sie mit dem Endergebnis nicht zufrieden sind, dann [löschen Sie alle Tabellen](https://seatable.io/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/) und starten erneut bei Schritt 5.
+Wenn Sie mit dem Endergebnis nicht zufrieden sind, dann [löschen Sie alle Tabellen]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}}) und starten erneut bei Schritt 5.
 
 ### 11\. Migration abschließen
 

@@ -27,13 +27,13 @@ Der folgende Artikel gibt Ihnen einen Überblick, wann welche Wiederherstellungs
 
 ## 1\. Wiederherstellung gelöschter Bases
 
-Wenn Sie eine komplette Base gelöscht haben, können Sie diese über einen Papierkorb auf der Startseite von SeaTable wiederherstellen. Wie das funktioniert, erfahren Sie im Artikel [Eine gelöschte Base wiederherstellen](https://seatable.io/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Wenn Sie eine komplette Base gelöscht haben, können Sie diese über einen Papierkorb auf der Startseite von SeaTable wiederherstellen. Wie das funktioniert, erfahren Sie im Artikel [Eine gelöschte Base wiederherstellen]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. Wiederherstellung gelöschter Zeilen, Spalten oder Tabellen
 
 Einzelne gelöschte Zeilen, Spalten oder Tabellen zurückzuholen ist vermutlich der häufigste Wiederherstellungswunsch. Über den Papierkorb einer Base ist dies glücklicherweise denkbar schnell gemacht.
 
-Mehr dazu erfahren Sie im Artikel [Tabellen, Zeilen und Spalten aus dem Papierkorb zurückholen](https://seatable.io/docs/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen/).
+Mehr dazu erfahren Sie im Artikel [Tabellen, Zeilen und Spalten aus dem Papierkorb zurückholen]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}).
 
 Sie erreichen den Base-Papierkorb per Klick auf das Versionen-Icon in der rechten oberen Ecke. In diesem Drop-down-Menü finden Sie auch noch andere Wiederherstellungsoptionen, die weiter unten erläutert werden.
 
@@ -43,7 +43,7 @@ Sie erreichen den Base-Papierkorb per Klick auf das Versionen-Icon in der rechte
 
 Bestimmt kennen Sie die Tastenkombination {{< key "CTRL" >}} + {{< key "Z" >}}, um die letzte Aktion rückgängig zu machen. Genau diese Funktion bietet auch SeaTable. Außerdem ist sie per Mausklick im oben gezeigten Drop-down-Menü ausführbar.
 
-Details finden Sie im entsprechenden Hilfeartikel [Aktionen rückgängig machen](https://seatable.io/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
+Details finden Sie im entsprechenden Hilfeartikel [Aktionen rückgängig machen]({{< relref "help/base-editor/historie-und-versionen/aktionen-rueckgaengig-machen" >}}).
 
 ## 4\. Änderungen über die Logs rückgängig machen
 
@@ -61,6 +61,6 @@ Alles Weitere erfahren Sie in den Artikeln [Speichern der aktuellen Base als Sna
 
 ## 6\. Eine als DTABLE-Datei gespeicherte Base importieren
 
-Sie können eine Base jederzeit als DTABLE-Datei exportieren und so ein umfangreiches Backup auf Ihrem Gerät speichern. Lesen Sie im Artikel [Speichern einer Base als DTABLE-Datei](https://seatable.io/docs/historie-und-versionen/speichern-einer-base-als-dtable-datei/), wie das geht und was Sie dabei beachten sollten.
+Sie können eine Base jederzeit als DTABLE-Datei exportieren und so ein umfangreiches Backup auf Ihrem Gerät speichern. Lesen Sie im Artikel [Speichern einer Base als DTABLE-Datei]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}), wie das geht und was Sie dabei beachten sollten.
 
 Wie Sie eine solche Datei wieder in SeaTable importieren, erfahren Sie im Artikel [Erstellen einer Base aus einer DTABLE-Datei]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

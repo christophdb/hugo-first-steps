@@ -96,7 +96,7 @@ Depending on the topic of the workshop, different methods and materials are suit
 
 ## Create certificates
 
-You can issue a certificate to each participant to **certify their participation in the workshop**. The [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) in SeaTable saves you a lot of work. The plugin uses the information already entered in the table and can insert it individually for each participant in the layout of the certificate of attendance. With the help of a button, you can create personalized documents at the touch of a button and save them in PDF format.
+You can issue a certificate to each participant to **certify their participation in the workshop**. The [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) in SeaTable saves you a lot of work. The plugin uses the information already entered in the table and can insert it individually for each participant in the layout of the certificate of attendance. With the help of a button, you can create personalized documents at the touch of a button and save them in PDF format.
 
 ![Create certificates without extra effort with the Page Design Plugin](Zertifikate.jpg)
 
@@ -106,7 +106,7 @@ What would workshops and training measures be without feedback? You can either u
 
 ![Use the SeaTable web form to collect feedback from your employees](Feedback.jpg)
 
-You can easily **evaluate** the collected feedback in SeaTable, for example by displaying the median or average of a [rating column](https://seatable.io/en/docs/auswahlspalten/die-rating-spalte/) in the [status bar](https://seatable.io/en/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) or by using the open answers in the [text columns](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) to further develop the workshops. If there is a conspicuous amount of **criticism** of a course, the trainer can either make improvements or be replaced. For example, if there is frequent feedback that important aspects are missing, this could be an indication that you should give them more time and extend the workshop. You could also create a new workshop that focuses precisely on these aspects and thus meets the needs of your participants.
+You can easily **evaluate** the collected feedback in SeaTable, for example by displaying the median or average of a [rating column](https://seatable.io/en/docs/auswahlspalten/die-rating-spalte/) in the [status bar]({{< relref "help/base-editor/ansichten" >}}die-status-zeile-und-ihre-funktionen/) or by using the open answers in the [text columns](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) to further develop the workshops. If there is a conspicuous amount of **criticism** of a course, the trainer can either make improvements or be replaced. For example, if there is frequent feedback that important aspects are missing, this could be an indication that you should give them more time and extend the workshop. You could also create a new workshop that focuses precisely on these aspects and thus meets the needs of your participants.
 
 ## Conclusion: Planning a workshop with SeaTable
 

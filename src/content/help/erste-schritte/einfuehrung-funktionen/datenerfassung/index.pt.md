@@ -16,7 +16,7 @@ Se acabou de abrir uma tabela, pode simplesmente clicar com o rato numa célula 
 
 ## Copiar-e-colar
 
-Também pode utilizar a **prancheta** do seu computador para transferir rapidamente pequenas quantidades de dados. Para tal, copie os dados numa tabela existente e cole-os no SeaTable usando o [copiar e colar](https://seatable.io/pt/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/).
+Também pode utilizar a **prancheta** do seu computador para transferir rapidamente pequenas quantidades de dados. Para tal, copie os dados numa tabela existente e cole-os no SeaTable usando o [copiar e colar]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}).
 
 ## Importação de dados
 

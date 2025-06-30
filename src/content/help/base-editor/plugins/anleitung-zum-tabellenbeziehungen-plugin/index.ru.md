@@ -10,7 +10,7 @@ url: '/ru/pomoshch/anleitung-zum-tabellenbeziehungen-plugin'
 
 Особенно когда в базе много таблиц с десятками столбцов, легко потерять представление о том, как они связаны друг с другом. Вы можете использовать плагин отношений таблиц, чтобы визуализировать, какие таблицы связаны друг с другом через какие столбцы.
 
-О том, как активировать плагин в базе, вы можете узнать [здесь](https://seatable.io/ru/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+О том, как активировать плагин в базе, вы можете узнать [здесь]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ![Плагин для работы с таблицами](images/Table-Relationships-Plugin.png)
 
@@ -18,7 +18,7 @@ url: '/ru/pomoshch/anleitung-zum-tabellenbeziehungen-plugin'
 
 После настройки и открытия плагина отношений таблиц вы увидите **все таблицы** в базе. **Все столбцы**, созданные в соответствующих таблицах, перечислены под цветными названиями таблиц.
 
-Для визуализации связей в таблице вы увидите не только **сплошные линии** для _прямых_ связей через [столбцы ссылок]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), но и **пунктирные линии** для _косвенных_ связей через столбцы формул ссылок (например, [поиск](https://seatable.io/ru/docs/verknuepfungen/die-lookup-funktion/)).
+Для визуализации связей в таблице вы увидите не только **сплошные линии** для _прямых_ связей через [столбцы ссылок]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), но и **пунктирные линии** для _косвенных_ связей через столбцы формул ссылок (например, [поиск]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}})).
 
 ## Настройка параметров для графических отношений в таблице
 

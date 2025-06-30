@@ -94,7 +94,7 @@ The reminders can be clearly sorted in each list and divided into sections. Ther
 
 ## SeaTable: The all-rounder for all types of lists
 
-SeaTable is an online database that allows you to organize tasks, information, processes and ideas easily and clearly. You benefit from a classic list view or can use alternative display formats such as the [Kanban board](https://seatable.io/en/docs/plugins/anleitung-zum-kanban-plugin/), the [calendar](https://seatable.io/en/docs/plugins/anleitung-zum-kalender-plugin/) or a [Gantt chart](https://seatable.io/en/docs/plugins/anleitung-zum-timeline-plugin/).
+SeaTable is an online database that allows you to organize tasks, information, processes and ideas easily and clearly. You benefit from a classic list view or can use alternative display formats such as the [Kanban board]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), the [calendar]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) or a [Gantt chart]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
 
 Another interesting feature is that you can upload [files]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) and [images]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) and attach them to tasks. You can also add as much information as you like, such as a date, a priority and subtasks in additional columns.
 

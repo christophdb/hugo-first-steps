@@ -73,7 +73,7 @@ Para verificar o aspecto do formulário para o destinatário, clicar no botão *
 
 ### Formulário de autorização
 
-Para tornar o formulário acessível a outras pessoas, é necessário um **link**. Pode obter a ligação para o formulário no editor de formulários Web através do botão {{< seatable-icon icon="dtable-icon-share" >}} **Share**. Pode utilizar a **ligação gerada automaticamente** ou criar as **suas próprias ligações** e alargá-las com [valores pré-preenchidos](https://seatable.io/pt/docs/webformulare/formularfelder-per-url-vorbefuellen/).
+Para tornar o formulário acessível a outras pessoas, é necessário um **link**. Pode obter a ligação para o formulário no editor de formulários Web através do botão {{< seatable-icon icon="dtable-icon-share" >}} **Share**. Pode utilizar a **ligação gerada automaticamente** ou criar as **suas próprias ligações** e alargá-las com [valores pré-preenchidos]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}).
 
 ![Novo diálogo de ligação de formulários no SeaTable 4.3](images/Formularlink-Dialog.gif)
 

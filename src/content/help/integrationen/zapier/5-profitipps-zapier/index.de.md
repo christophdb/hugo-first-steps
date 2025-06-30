@@ -16,7 +16,7 @@ SeaTable erlaubt es, Datensätze über zwei Tabellen hinweg miteinander zu verkn
 
 ![Verlinkung in SeaTable](images/zapier-linked-columns.png)
 
-Nun gibt es eine Besonderheit: anstatt wie in SeaTable den gewünschten Wert (in diesem Fall Marion) anzuzeigen, liefert Zapier bei einer Link-Spalte immer die Zeilen-ID des verlinkten Eintrags. Wenn Sie wie hier dargestellt auf den Wert _Marion_ oder andere Spalten des verlinkten Eintrags zugreifen wollen, müssen Sie [Lookup-Spalten](https://seatable.io/docs/verknuepfungen/die-lookup-funktion/) anlegen, über die Sie dann auf die gewünschten Werte zugreifen können. In diesem Beispiel müsste man somit eine weitere Lookup-Spalte mit dem Namen anlegen.
+Nun gibt es eine Besonderheit: anstatt wie in SeaTable den gewünschten Wert (in diesem Fall Marion) anzuzeigen, liefert Zapier bei einer Link-Spalte immer die Zeilen-ID des verlinkten Eintrags. Wenn Sie wie hier dargestellt auf den Wert _Marion_ oder andere Spalten des verlinkten Eintrags zugreifen wollen, müssen Sie [Lookup-Spalten]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) anlegen, über die Sie dann auf die gewünschten Werte zugreifen können. In diesem Beispiel müsste man somit eine weitere Lookup-Spalte mit dem Namen anlegen.
 
 ![linked columns in zapier](images/zapier-linked-columns2.png)
 

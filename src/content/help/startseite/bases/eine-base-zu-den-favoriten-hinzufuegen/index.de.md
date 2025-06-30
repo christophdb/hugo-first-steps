@@ -36,4 +36,4 @@ Bases, die Sie zu Ihren **Favoriten** hinzugefügt haben, erscheinen auf Ihrer S
 - Für mich freigegeben
 - Gruppe 1
 - Gruppe 2
-- ... (es folgen alle Ihre Gruppen in beliebiger von Ihnen [veränderbarer Reihenfolge](https://seatable.io/docs/arbeiten-mit-gruppen/die-reihenfolge-der-gruppen-aendern/))
+- ... (es folgen alle Ihre Gruppen in beliebiger von Ihnen [veränderbarer Reihenfolge]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}}))

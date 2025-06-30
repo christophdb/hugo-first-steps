@@ -10,7 +10,7 @@ url: '/help/hinzufuegen-einer-spalte'
 
 Tables in SeaTable consist of columns and rows. Within a base you can add up to 500 columns to a table. For each column you have individually the possibility to select a suitable **column type** depending on the data type.
 
-A detailed overview of all column types currently available in SeaTable can be found [here](https://seatable.io/en/docs/spalten/uebersicht-alle-spaltentypen/).
+A detailed overview of all column types currently available in SeaTable can be found [here]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}).
 
 ## Add column
 

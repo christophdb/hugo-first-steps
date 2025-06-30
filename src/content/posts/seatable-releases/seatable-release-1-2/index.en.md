@@ -31,7 +31,7 @@ In the context menus of the File and Image column types you will find the "Downl
 
 ## Journey into the past - Snapshots
 
-In SeaTable you always have an overview of the processes in your bases. The log lists all changes, additions and deletions of records as well as all other processes in a base. In addition, SeaTable automatically creates [snapshots](https://seatable.io/en/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) every 24 hours of bases that are actively being worked on.
+In SeaTable you always have an overview of the processes in your bases. The log lists all changes, additions and deletions of records as well as all other processes in a base. In addition, SeaTable automatically creates [snapshots]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) every 24 hours of bases that are actively being worked on.
 
 A snapshot captures the state of a base at the time it was created. In other words, snapshots are basically machines for traveling back in time. You want to see what a base looked like three days ago? Forget the log, use a snapshot!
 

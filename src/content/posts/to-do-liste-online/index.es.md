@@ -93,7 +93,7 @@ Los recordatorios pueden clasificarse claramente en cada lista y dividirse en se
 
 ## SeaTable: el todoterreno para todo tipo de listas
 
-SeaTable es una base de datos en línea que le permite organizar tareas, información, procesos e ideas de forma fácil y clara. Se beneficia de una vista de lista clásica o puede utilizar formatos de visualización alternativos como el [tablero Kanban](https://seatable.io/es/docs/plugins/anleitung-zum-kanban-plugin/), el [calendario](https://seatable.io/es/docs/plugins/anleitung-zum-kalender-plugin/) o un [diagrama de Gantt](https://seatable.io/es/docs/plugins/anleitung-zum-timeline-plugin/).
+SeaTable es una base de datos en línea que le permite organizar tareas, información, procesos e ideas de forma fácil y clara. Se beneficia de una vista de lista clásica o puede utilizar formatos de visualización alternativos como el [tablero Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), el [calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) o un [diagrama de Gantt]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
 
 Otra función interesante es que puedes subir [archivos]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) e [imágenes]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) y adjuntarlos a las tareas. También puedes añadir toda la información que quieras, como una fecha, una prioridad y subtareas en columnas adicionales.
 

@@ -22,11 +22,11 @@ Esta sección ofrece una visión general de los miembros y grupos de su equipo. 
 
 Los siguientes artículos pueden ser de su interés:
 
-- [Añadir un nuevo miembro del equipo](https://seatable.io/es/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
+- [Añadir un nuevo miembro del equipo]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
 - [Convertir a un miembro del equipo en administrador](https://seatable.io/es/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
 - [Activar la autenticación de dos factores para un miembro del equipo](https://seatable.io/es/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)
 - [Autenticación de dos factores para todo el equipo](https://seatable.io/es/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)
-- [Bloquear o eliminar a un miembro del equipo](https://seatable.io/es/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
+- [Bloquear o eliminar a un miembro del equipo]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 - [Cambiar el nombre del equipo](https://seatable.io/es/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Grupos y sus miembros en la administración del equipo](https://seatable.io/es/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
 - [Crear un nuevo grupo]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
@@ -50,7 +50,7 @@ Al eliminar todo su equipo en la gestión de equipos, **rescinde automáticament
 
 Los siguientes artículos pueden ser de su interés:
 
-- [Eliminar el equipo completo](https://seatable.io/es/docs/teamverwaltung/das-komplette-team-loeschen/)
+- [Eliminar el equipo completo]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
 ## API e integraciones
 
@@ -62,7 +62,7 @@ A través de la administración del equipo tiene la posibilidad de crear un **ti
 
 Los siguientes artículos pueden ser de su interés:
 
-- [Abrir un ticket de soporte](https://seatable.io/es/docs/teamverwaltung/ein-support-ticket-eroeffnen/)
+- [Abrir un ticket de soporte]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
 
 ## Legal
 

@@ -17,18 +17,18 @@ Wenn Sie der **Administrator** oder die einzige Person in Ihrem Team sind, ist d
 - [Exportieren einer Base als DTABLE-Datei]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
 - [Registrierung](https://seatable.io/docs/erste-schritte/seatable-konto-erstellen/)
 - [Erstellen einer Base aus einer DTABLE-Datei]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Das komplette Team löschen](https://seatable.io/docs/teamverwaltung/das-komplette-team-loeschen/)
+- [Das komplette Team löschen]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
 ## Migration innerhalb eines Teams auf eine neue E-Mail-Adresse
 
 Auch dieser Vorgang ist denkbar einfach. Als Erstes legen Sie ein **weiteres Teammitglied mit der neuen E-Mail-Adresse** an. Geben Sie diesem Teammitglied auch gleich Administratorrechte. Als Nächstes legen Sie eine **Gruppe** an, fügen das neue Teammitglied dieser Gruppe hinzu und kopieren all seine bereits existierenden **Bases** in diese Gruppe. Nun wechseln Sie den Account und **löschen den ursprünglichen User**. Die folgenden Hilfeartikel werden Ihnen dabei helfen:
 
-- [Ein neues Teammitglied hinzufügen](https://seatable.io/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
+- [Ein neues Teammitglied hinzufügen]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
 - [Ein Teammitglied zum Administrator machen](https://seatable.io/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
 - [Eine neue Gruppe anlegen]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 - [Eine Base in eine Gruppe kopieren]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
-- [Berechtigungen in einer Gruppe vergeben](https://seatable.io/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
-- [Ein Teammitglied sperren oder löschen](https://seatable.io/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
+- [Berechtigungen in einer Gruppe vergeben]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}})
+- [Ein Teammitglied sperren oder löschen]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 
 ## Migration ohne Team-Administratorrechte
 

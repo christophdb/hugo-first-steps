@@ -32,7 +32,7 @@ Dans SeaTable, [les bases]({{< relref "help/startseite/bases/allgemeines-zu-base
 
 ![Importation d'une table à partir d'une autre base](images/import-table-from-other-base.gif)
 
-Avec les [enregistrements partagés]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), vous pouvez en outre partager une table maître dans un groupe et utiliser et synchroniser les branches de la table dans différentes bases. Pour en savoir plus, [cliquez ici](https://seatable.io/fr/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+Avec les [enregistrements partagés]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), vous pouvez en outre partager une table maître dans un groupe et utiliser et synchroniser les branches de la table dans différentes bases. Pour en savoir plus, [cliquez ici]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}).
 
 ## Gardez une vue d'ensemble
 

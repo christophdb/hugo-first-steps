@@ -10,9 +10,13 @@ url: '/es/ayuda/anleitung-zum-whiteboard-plugin'
 
 El **plugin de pizarra blanca** te da la libertad de visualizar gráficamente procesos y estructuras que no puedes mostrar con los plugins anteriores. También puedes esbozar libremente diseños y maquetas. Para el diseño, dispones de varios **elementos** como cuadrados, elipses y flechas, así como de **herramientas** como el bolígrafo, el borrador y la herramienta de texto.
 
-Puede encontrar información sobre cómo activar el plugin en una base [aquí](https://seatable.io/es/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+Puede encontrar información sobre cómo activar el plugin en una base [aquí]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-{{< warning  headline="Atención: ¡Este plugin está siendo descartado!"  text="Dado que el complemento de pizarra (obsoleto), basado en el proyecto de código abierto excalidraw, no admite la colaboración y ha demostrado ser propenso a errores cuando lo utilizan varios usuarios al mismo tiempo, lo eliminaremos de SeaTable Cloud como parte de la versión 6.0 en verano de 2025. Todos los dibujos del antiguo plugin de pizarra blanca dejarán de estar disponibles. Por lo tanto, recomendamos cambiar al nuevo [plugin](https://seatable.io/es/docs/plugins/anleitung-zum-whiteboard-plugin-tldraw/) de [pizarra (tldraw)](https://seatable.io/es/docs/plugins/anleitung-zum-whiteboard-plugin-tldraw/) tan pronto como sea posible y transferir el contenido existente usando copiar y pegar." />}}
+{{< warning  headline="Atención: ¡Este plugin está siendo descartado!" >}}
+
+Dado que el complemento de pizarra (obsoleto), basado en el proyecto de código abierto excalidraw, no admite la colaboración y ha demostrado ser propenso a errores cuando lo utilizan varios usuarios al mismo tiempo, lo eliminaremos de SeaTable Cloud como parte de la versión 6.0 en verano de 2025. Todos los dibujos del antiguo plugin de pizarra blanca dejarán de estar disponibles. Por lo tanto, recomendamos cambiar al nuevo [plugin]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin-tldraw" >}}) de [pizarra (tldraw)]({{< relref "help/base-editor/plugins/anleitung-zum-whiteboard-plugin-tldraw" >}}) tan pronto como sea posible y transferir el contenido existente usando copiar y pegar.
+
+{{< /warning >}}
 
 ## Configurar las opciones de un dibujo de pizarra
 

@@ -16,11 +16,15 @@ First, when you create the [button]({{< relref "help/base-editor/schaltflaechen/
 
 ![Selection of the action "Send e-mail](images/send-email-action.png)
 
-Under **Account Name**, select an account from which you want to send the email. If you **do not see an account** in this field, you must first [add](https://seatable.io/en/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) an [email account to SeaTable](https://seatable.io/en/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+Under **Account Name**, select an account from which you want to send the email. If you **do not see an account** in this field, you must first [add]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}) an [email account to SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
 ![If you do not see an email account, you must first add an email account to SeaTable](images/add-email-account.png)
 
-{{< warning  headline="Note"  text="Detailed instructions on how to set up your **email account for** sending emails can be found [here](https://seatable.io/en/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/). The **account** you add will be available for selection when you create the button afterwards." />}}
+{{< warning  headline="Note" >}}
+
+Detailed instructions on how to set up your **email account for** sending emails can be found [here]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}). The **account** you add will be available for selection when you create the button afterwards.
+
+{{< /warning >}}
 
 Now define the **subject** and **content of** the e-mail.
 
@@ -42,7 +46,7 @@ Optionally, you can add an **attachment to** the email. Note, however, that you 
 
 The [button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) is a special type of column that allows you to perform **several actions simultaneously** by pressing a button. You can specify the **timing of** actions by conditionally executing a subsequent action. Thus it is possible to **switch actions one after the other**.
 
-For example, you may want to [save a PDF document in a file column](https://seatable.io/en/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) with one click and attach the file to an email afterwards. This may cause the problem that the email is sent before the PDF for the attachment has been created.
+For example, you may want to [save a PDF document in a file column]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) with one click and attach the file to an email afterwards. This may cause the problem that the email is sent before the PDF for the attachment has been created.
 
 To prevent this, you can link the execution of button actions to **filter conditions**. In the mentioned use case, for example, you can add as a filter condition that the email will **only** be sent if the **file column** in the same row **is not empty**. This way you establish a clear sequence: When the button is pressed, SeaTable must first create a **PDF**, because the email can **only** be sent **with an attachment**.
 

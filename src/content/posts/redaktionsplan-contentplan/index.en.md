@@ -136,7 +136,7 @@ Simple and direct communication in the editorial plan
 
 ### 5 Create clarity with statistics
 
-Would you like to experiment with different data and analyze your content according to your wishes? Then **create meaningful [statistics](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/) with SeaTable**. For example, analyze in which months you have published a particularly large number of posts, which employee has written the most posts or on which channel the content was most successful. This provides many valuable insights into where things are going well - and where there may still be room for improvement.
+Would you like to experiment with different data and analyze your content according to your wishes? Then **create meaningful [statistics]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) with SeaTable**. For example, analyze in which months you have published a particularly large number of posts, which employee has written the most posts or on which channel the content was most successful. This provides many valuable insights into where things are going well - and where there may still be room for improvement.
 
 ![Statistics provide valuable insights into how well the content performs](Statistics.jpg)
 

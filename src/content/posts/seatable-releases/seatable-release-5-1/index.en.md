@@ -34,7 +34,7 @@ Version 5.1 also offers more flexibility when **enlarging and moving elements**.
 
 ### Page type Single data record
 
-In SeaTable 5.1, this page type - just like table and query pages - supports the [execution of actions via buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/). Whether creating a PDF document, calling up a web page, changing a data record or executing a script - you can now also start all these **button actions** here. [Editing authorization for the page](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) is not required for this. In this way, app admins can set the user interactions for this page type to a few predefined actions.
+In SeaTable 5.1, this page type - just like table and query pages - supports the [execution of actions via buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Whether creating a PDF document, calling up a web page, changing a data record or executing a script - you can now also start all these **button actions** here. [Editing authorization for the page](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/) is not required for this. In this way, app admins can set the user interactions for this page type to a few predefined actions.
 
 The toolbar offers a new **QR code generator**. The QR code contains the link to the currently displayed entry. Attached to an object or device, all data can be called up in the app via a tablet or smartphone without any keyboard input. This makes inventory management, for example, even easier.
 
@@ -76,7 +76,7 @@ Although apps can access data in the big data storage, entries created in apps c
 
 ![New big data management in SeaTable's App Builder](BigDataManagement_AppBuilder.png)
 
-However, we have not only improved the integration with the apps, the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) also offers new possibilities. The plugin now has access to the big data storage and can **create documents for rows in the big data storage**.
+However, we have not only improved the integration with the apps, the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) also offers new possibilities. The plugin now has access to the big data storage and can **create documents for rows in the big data storage**.
 
 ## The new Tree plugin
 
@@ -90,11 +90,11 @@ Hierarchies across up to three levels, i.e. data from three tables, can currentl
 
 Once again, there is more news in this version than we can present in a manageable amount in these release notes. So here are a few more features that we think deserve a mention.
 
-A new function has been added to the **formula editor**: **rowid()** returns the ID of row . This can then be used for button actions or automations, for example. There are new features not only in the [formula column](https://seatable.io/en/docs/formeln/grundlagen-von-seatable-formeln/), but also in the formula column type for links: [Lookups](https://seatable.io/en/docs/verknuepfungen/die-lookup-funktion/) now offer a duplicate check. If the **Do not show duplicates** option is activated, only unique values are displayed in each cell of the column.
+A new function has been added to the **formula editor**: **rowid()** returns the ID of row . This can then be used for button actions or automations, for example. There are new features not only in the [formula column]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), but also in the formula column type for links: [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) now offer a duplicate check. If the **Do not show duplicates** option is activated, only unique values are displayed in each cell of the column.
 
 ![Color Picker introduced SeaTable 5.1](ColorPicker.png)
 
-In SeaTable 5.1, we have improved syntax highlighting in the integrated **Python editor** to make it even easier for you to keep track of [scripts](https://seatable.io/en/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/). We have also fixed a bug with automatic indentation.
+In SeaTable 5.1, we have improved syntax highlighting in the integrated **Python editor** to make it even easier for you to keep track of [scripts]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}). We have also fixed a bug with automatic indentation.
 
 A new color picker, which can be used to select colors in statistics and on some page types in the App Builder, leads more quickly to the desired color. The picker is now clearer and shows the last colors used.
 

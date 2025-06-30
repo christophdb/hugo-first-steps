@@ -39,7 +39,7 @@ Depois do operador, defina as **condições** concretas que devem ser aplicadas 
 
 ![Adicionar uma condição à fórmula](images/Eine-Bedingung-zur-Formel-hinzufuegen.png)
 
-Para preencher a saudação com os respectivos **nomes**, faça referência às colunas "Primeiro nome" e/ou "Último nome" entre parênteses rectos. Saiba mais sobre a [fusão de colunas de texto utilizando uma fórmula](https://seatable.io/pt/docs/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel/).
+Para preencher a saudação com os respectivos **nomes**, faça referência às colunas "Primeiro nome" e/ou "Último nome" entre parênteses rectos. Saiba mais sobre a [fusão de colunas de texto utilizando uma fórmula]({{< relref "help/base-editor/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel" >}}).
 
 Pode então repetir os passos descritos para definir uma condição para **cada valor** na coluna "Género". Deve sempre separar as diferentes condições umas das outras com uma **vírgula**. Antes de confirmar, é importante que **feche todos os parênteses** para que a fórmula seja aceite como válida.
 

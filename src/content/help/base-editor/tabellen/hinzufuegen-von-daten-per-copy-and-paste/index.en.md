@@ -23,7 +23,7 @@ SeaTable even supports you to the point of adding additional columns when needed
 Sometimes it's faster to duplicate an entire row or column. Here you can learn how to do that:
 
 - [Duplicate a row]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}})
-- [Duplicate a column](https://seatable.io/en/docs/spalten/duplizieren-einer-spalte/)
+- [Duplicate a column]({{< relref "help/base-editor/spalten/duplizieren-einer-spalte" >}})
 
 ## Professional tip
 

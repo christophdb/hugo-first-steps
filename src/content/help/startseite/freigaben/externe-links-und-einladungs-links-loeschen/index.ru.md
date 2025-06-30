@@ -13,7 +13,7 @@ url: '/ru/pomoshch/externe-links-und-einladungs-links-loeschen'
 ## Способы удаления внешних ссылок и пригласительных ссылок
 
 - Удаление через значок поделиться {{< seatable-icon icon="dtable-icon-share" >}} для баз или просмотров
-- Удаление через [администрацию команды](https://seatable.io/ru/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+- Удаление через [администрацию команды]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Примечание"  text="Внешние ссылки доступны для баз и видов, пригласительные ссылки - только для баз." />}}
 

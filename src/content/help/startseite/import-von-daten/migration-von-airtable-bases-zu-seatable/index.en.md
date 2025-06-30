@@ -258,7 +258,7 @@ Run the script again by clicking **Run Script**. Again you can watch the executi
 
 Now you should see all records from the Airtable Base in the new SeaTable Base. Congratulations, the dataset migration is complete!
 
-If you are not satisfied with the final result, [delete all tables](https://seatable.io/en/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/) and start again at step 5.
+If you are not satisfied with the final result, [delete all tables]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}}) and start again at step 5.
 
 ### 11\. complete migration
 

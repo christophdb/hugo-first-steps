@@ -20,5 +20,5 @@ Auf diesen Umstand verweist auch ein kurzer **Info-Text**, der erscheint, sobald
 
 Um einen gemeinsamen Datensatz von einer Tabellenansicht aus einer Base anlegen zu können, die **nicht** zu einer Gruppe gehört, gibt es einen simplen Weg, die oben beschriebene technische Limitation zu umgehen:
 
-1. [Kopieren Sie die entsprechende Base in eine beliebige Gruppe.](https://seatable.io/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/)
-2. [Legen Sie von der gewünschten Ansicht einen gemeinsamen Datensatz an.](https://seatable.io/docs/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes/)
+1. [Kopieren Sie die entsprechende Base in eine beliebige Gruppe.]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
+2. [Legen Sie von der gewünschten Ansicht einen gemeinsamen Datensatz an.]({{< relref "help/startseite/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes" >}})

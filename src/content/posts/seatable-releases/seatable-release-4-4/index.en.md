@@ -20,7 +20,7 @@ In SeaTable 4.4 we have again made a lot of improvements and bug fixes to the [U
 
 ### Buttons on query pages
 
-[Query pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) now support the execution of button actions: After a successful data query, you can press [buttons](https://seatable.io/en/docs/andere-spalten/die-schaltflaeche/) in the displayed hit list to execute actions. This is a special new feature, as it was previously not possible to interact with queried rows anywhere in SeaTable.
+[Query pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) now support the execution of button actions: After a successful data query, you can press [buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) in the displayed hit list to execute actions. This is a special new feature, as it was previously not possible to interact with queried rows anywhere in SeaTable.
 
 ![Execute buttons on query pages](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -32,7 +32,7 @@ Until now, it was not possible to change appointments on the [calendar page](htt
 
 ### Simplified data handling on the table page
 
-As in Base, you can now [select all entries in a column](https://seatable.io/en/docs/arbeiten-in-tabellen/hinzufuegen-von-daten-per-copy-and-paste/) on the [table pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) of your apps with just one click on the column header. The practical [fill handle](https://seatable.io/en/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) is now also possible: drag the small square in the bottom right-hand corner of a cell downwards to transfer the value to all the rows below it.
+As in Base, you can now [select all entries in a column]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) on the [table pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) of your apps with just one click on the column header. The practical [fill handle](https://seatable.io/en/docs/arbeiten-mit-zeilen/duplizieren-einer-zeile/) is now also possible: drag the small square in the bottom right-hand corner of a cell downwards to transfer the value to all the rows below it.
 
 ![Mark column entries](Spalteneintraege-markieren-und-Fuellgriff-in-App.gif)
 
@@ -66,28 +66,28 @@ SeaTable 4.4 makes the [import of Excel tables]({{< relref "help/startseite/impo
 
 ## More functions for common datasets
 
-[Common datasets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) are very useful if you and your team members need certain tables (e.g. an employee list) across different [groups](https://seatable.io/en/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/) in your bases. SeaTable 4.4 adds three new functions to the existing ones:
+[Common datasets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) are very useful if you and your team members need certain tables (e.g. an employee list) across different [groups]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen" >}}) in your bases. SeaTable 4.4 adds three new functions to the existing ones:
 
 1. If you  
-   [Copy a base  
-   ](https://seatable.io/en/docs/arbeiten-mit-bases/eine-base-in-eine-gruppe-kopieren/)to a group in which common datasets are included, you can decide whether you want to retain the connection to these datasets. The group to which you copy the base must of course have access to the common datasets.
+   [Copy a base
+   ]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})to a group in which common datasets are included, you can decide whether you want to retain the connection to these datasets. The group to which you copy the base must of course have access to the common datasets.
 
     ![Retain link to common dataset when copying a base](Retain-link-to-common-dataset-when-copying-a-base.gif)
 
 2. After  
-   [restoring bases from snapshots](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) or  
-   [creating a base from a template](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/) you can link existing tables to a common dataset and thus enable synchronization with the data there. Previously, common datasets could not be reimported, but only integrated into new tables.
+   [restoring bases from snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) or  
+   [creating a base from a template]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}) you can link existing tables to a common dataset and thus enable synchronization with the data there. Previously, common datasets could not be reimported, but only integrated into new tables.
 
     ![Reimport common dataset](Reimport-common-dataset.gif)
 
 3. The creator of a common dataset can now force the  
-   [synchronization](https://seatable.io/en/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) of all dependent tables with the data set and thus ensure that the other users use the current status of the data in their bases. In the past, you had to rely on users setting up automatic synchronization or triggering synchronization manually.
+   [synchronization]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) of all dependent tables with the data set and thus ensure that the other users use the current status of the data in their bases. In the past, you had to rely on users setting up automatic synchronization or triggering synchronization manually.
 
     ![Force sync of common dataset](Force-sync-of-common-dataset.png)
 
 ## Default values apply everywhere
 
-With version 4.4, SeaTable generalizes the effect of [default values](https://seatable.io/en/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). When you create a new row, whether in the table of a base or app, via a [link column](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/), [web form]({{< relref "help/base-editor/webformulare" >}}), [button](https://seatable.io/en/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) or [automation](https://seatable.io/en/docs/automationen/automations-aktionen/), the default values are applied everywhere when creating the row. Previously, the default values only applied if a new row was created manually in a table.
+With version 4.4, SeaTable generalizes the effect of [default values](https://seatable.io/en/docs/arbeiten-mit-spalten/standardwert-fuer-eine-spalte-festlegen/). When you create a new row, whether in the table of a base or app, via a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), [web form]({{< relref "help/base-editor/webformulare" >}}), [button]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) or [automation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}), the default values are applied everywhere when creating the row. Previously, the default values only applied if a new row was created manually in a table.
 
 As the scope of the default values has increased considerably, we have also created a prominent menu item in the column options, which you can use to conveniently set the default values.
 
@@ -99,8 +99,8 @@ By the way: You can even activate the default values with the corresponding para
 
 ## And much more
 
-You already know the **editor for formatted text** from various places in SeaTable, e.g. from the [base description](https://seatable.io/en/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/), the [column type for long texts](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) or [e-mail messages]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). With SeaTable 4.4 we have improved usability and fixed some bugs. Here are just two: Previously, multiple line breaks were removed when closing the editor and existing text was overwritten when typing in the cell. In the new editor, multiple line breaks are retained and can be used to structure the text more clearly. We have also eliminated the risk of unintentional deletions: When typing, the new text is placed in front of the existing text.
+You already know the **editor for formatted text** from various places in SeaTable, e.g. from the [base description]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), the [column type for long texts](https://seatable.io/en/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) or [e-mail messages]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). With SeaTable 4.4 we have improved usability and fixed some bugs. Here are just two: Previously, multiple line breaks were removed when closing the editor and existing text was overwritten when typing in the cell. In the new editor, multiple line breaks are retained and can be used to structure the text more clearly. We have also eliminated the risk of unintentional deletions: When typing, the new text is placed in front of the existing text.
 
 In the new version, we have also improved the **notification center** {{< seatable-icon icon="dtable-icon-notice" >}} on the start page. Now you can see all [notifications](https://seatable.io/en/docs/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable/) in the system in one place, track the source of the notification and go to the relevant page with one click.
 
-Last but not least, we have optimized the dialog for **resetting the SeaTable password**. To do this, we have standardized the design and added more functions. If you [change](https://seatable.io/en/docs/persoenliche-einstellungen/eigenes-passwort-aendern/) the [password](https://seatable.io/en/docs/persoenliche-einstellungen/eigenes-passwort-aendern/) in your personal settings, you can now have it displayed in plain text by clicking on the eye symbol. You are also automatically shown the strength of your new password.
+Last but not least, we have optimized the dialog for **resetting the SeaTable password**. To do this, we have standardized the design and added more functions. If you [change]({{< relref "help/startseite/persoenliche-einstellungen/eigenes-passwort-aendern" >}}) the [password]({{< relref "help/startseite/persoenliche-einstellungen/eigenes-passwort-aendern" >}}) in your personal settings, you can now have it displayed in plain text by clicking on the eye symbol. You are also automatically shown the strength of your new password.

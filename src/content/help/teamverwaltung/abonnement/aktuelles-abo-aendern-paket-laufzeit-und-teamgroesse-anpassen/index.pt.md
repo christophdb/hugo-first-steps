@@ -53,7 +53,11 @@ Naturalmente, só paga o respetivo **montante proporcional** por cada alteraçã
 
 Pode voltar à subscrição gratuita no final do período que já pagou. Para tal, tem de cancelar a sua subscrição paga.
 
-{{< warning  headline="A rescisão não é cancelada"  text="O cancelamento da sua subscrição paga não elimina a sua equipa ou os seus dados. A sua equipa apenas será rebaixada para a versão gratuita do SeaTable Free no final do período. Pode descobrir como eliminar completamente a sua equipa [aqui](https://seatable.io/pt/docs/teamverwaltung/das-komplette-team-loeschen/)." />}}
+{{< warning  headline="A rescisão não é cancelada" >}}
+
+O cancelamento da sua subscrição paga não elimina a sua equipa ou os seus dados. A sua equipa apenas será rebaixada para a versão gratuita do SeaTable Free no final do período. Pode descobrir como eliminar completamente a sua equipa [aqui]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).
+
+{{< /warning >}}
 
 1. Abrir a **administração da equipa**.
 2. Clique em **Subscrição**.

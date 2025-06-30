@@ -17,18 +17,18 @@ url: '/ru/pomoshch/wie-aendert-man-die-eigene-e-mail-adresse'
 - [Экспорт базы в файл DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
 - [Регистрация](https://seatable.io/ru/docs/erste-schritte/seatable-konto-erstellen/)
 - [Создание базы из файла DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Удалить всю команду](https://seatable.io/ru/docs/teamverwaltung/das-komplette-team-loeschen/)
+- [Удалить всю команду]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
 ## Миграция внутри команды на новый адрес электронной почты
 
 Этот процесс также очень прост. Сначала создайте **еще одного члена команды с новым адресом электронной почты**. Одновременно дайте этому члену команды права администратора. Затем создайте **группу**, добавьте нового члена команды в эту группу и скопируйте все его существующие **базы** в эту группу. Теперь измените учетную запись и **удалите исходного пользователя**. В этом вам помогут следующие справочные статьи:
 
-- [Добавить нового члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
+- [Добавить нового члена команды]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
 - [Сделать члена команды администратором](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
 - [Создайте новую группу]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 - [Копирование базы в группу]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
-- [Назначение разрешений в группе](https://seatable.io/ru/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
-- [Блокировка или удаление члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
+- [Назначение разрешений в группе]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}})
+- [Блокировка или удаление члена команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 
 ## Миграция без прав администратора команды
 

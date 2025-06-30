@@ -47,7 +47,7 @@ Outra caraterística é o **carácter** no ícone das colunas que contêm dados 
 
 A regra dominante que deve seguir ao trabalhar com registos partilhados é que a informação flui apenas **numa direcção**. Em termos concretos, isto significa que as alterações aos registos partilhados e às tabelas criadas com um registo partilhado só têm um efeito num sentido - nomeadamente em direcção às **tabelas**.
 
-Se fizer alterações a uma visão de tabela que tenha publicado como um **conjunto de dados comum**, estas alterações são também adoptadas em todas as tabelas que foram criadas com o conjunto de dados comum correspondente. O pré-requisito para tal é uma **sincronização das respectivas tabelas com o conjunto de dados**, o que [pode ser feito automática ou manualmente](https://seatable.io/pt/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+Se fizer alterações a uma visão de tabela que tenha publicado como um **conjunto de dados comum**, estas alterações são também adoptadas em todas as tabelas que foram criadas com o conjunto de dados comum correspondente. O pré-requisito para tal é uma **sincronização das respectivas tabelas com o conjunto de dados**, o que [pode ser feito automática ou manualmente]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 Se, por outro lado, fizer alterações aos dados do conjunto de dados comum num quadro criado com um conjunto de dados comum, essas alterações **não** afectam a estrutura do conjunto de dados comum. As alterações serão então aplicadas **exclusivamente** à sua tabela e serão novamente **substituídas** da próxima vez que **se sincronizar** com o conjunto de dados.
 

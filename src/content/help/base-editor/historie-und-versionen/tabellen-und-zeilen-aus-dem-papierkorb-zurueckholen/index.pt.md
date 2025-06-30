@@ -22,10 +22,10 @@ A Lixeira Base exibe uma lista por ordem **anticronológica** - ou seja, as mais
 
 ## Perguntas mais frequentes
 
-{{< faq "Também é possível desfazer as últimas entradas?" >}}É claro que tem a opção de desfazer as suas últimas alterações. Leia mais em [Undo actions (Desfazer acções)](https://seatable.io/pt/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
+{{< faq "Também é possível desfazer as últimas entradas?" >}}É claro que tem a opção de desfazer as suas últimas alterações. Leia mais em [Undo actions (Desfazer acções)]({{< relref "help/base-editor/historie-und-versionen/aktionen-rueckgaengig-machen" >}}).
 {{< /faq >}}
 {{< faq "São feitos os backups automáticos da minha base?" >}}Sim, quando são feitas alterações a uma base, é criada diariamente uma chamada **fotografia** da base, que pode depois ser restaurada. Para informações mais detalhadas, ver [Salvar a Base Actual como um Instantâneo]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) e [Restaurar um Instantâneo]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 {{< /faq >}}
-{{< faq "Também é possível fazer um backup completo de uma base?" >}}Sim, isto também é possível no SeaTable com a ajuda da função de exportação. Leia mais sobre isto em [Importação e exportação de dados](https://seatable.io/pt/docs/seatable-nutzen/datenimport-und-export/).
+{{< faq "Também é possível fazer um backup completo de uma base?" >}}Sim, isto também é possível no SeaTable com a ajuda da função de exportação. Leia mais sobre isto em [Importação e exportação de dados]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 {{< /faq >}}

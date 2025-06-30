@@ -22,11 +22,11 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Добавить нового члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
+- [Добавить нового члена команды]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
 - [Сделать члена команды администратором](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
 - [Включите двухфакторную аутентификацию для члена команды](https://seatable.io/ru/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)
 - [Двухфакторная аутентификация для всей команды](https://seatable.io/ru/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)
-- [Блокировка или удаление члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
+- [Блокировка или удаление члена команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 - [Изменение названия команды](https://seatable.io/ru/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Группы и их члены в командной администрации](https://seatable.io/ru/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
 - [Создайте новую группу]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
@@ -50,7 +50,7 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Удалить всю команду](https://seatable.io/ru/docs/teamverwaltung/das-komplette-team-loeschen/)
+- [Удалить всю команду]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
 ## API и интеграции
 
@@ -62,7 +62,7 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Открыть билет в службу поддержки](https://seatable.io/ru/docs/teamverwaltung/ein-support-ticket-eroeffnen/)
+- [Открыть билет в службу поддержки]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
 
 ## Юридический
 

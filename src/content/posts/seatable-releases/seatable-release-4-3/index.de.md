@@ -20,7 +20,7 @@ Darüber hinaus haben wir ein Upgrade der Plugins auf Webpack 5 durchgeführt so
 
 ## Neuer Dialog und benutzerdefinierte Links für Webformulare
 
-Um Ihre [Webformulare]({{< relref "help/base-editor/webformulare" >}}) an andere Nutzer freizugeben, gab es bislang zwei verschiedene Dialogfenster: eines, in dem Sie einen **automatisch generierten Link** kopieren konnten; und eines, in dem Sie diesen Link mit [vorbefüllten Werten](https://seatable.io/docs/webformulare/formularfelder-per-url-vorbefuellen/) erweitern konnten. Diese Möglichkeiten haben wir nun in einem einzigen Dialog zusammengeführt, um die Usability zu erhöhen.
+Um Ihre [Webformulare]({{< relref "help/base-editor/webformulare" >}}) an andere Nutzer freizugeben, gab es bislang zwei verschiedene Dialogfenster: eines, in dem Sie einen **automatisch generierten Link** kopieren konnten; und eines, in dem Sie diesen Link mit [vorbefüllten Werten]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}) erweitern konnten. Diese Möglichkeiten haben wir nun in einem einzigen Dialog zusammengeführt, um die Usability zu erhöhen.
 
 Zudem haben wir die brandneue Option ergänzt, **benutzerdefinierte URLs** für Webformulare zu erstellen. Anschließend können Sie diese bearbeiten, als QR-Code speichern, kopieren oder löschen.
 
@@ -30,14 +30,14 @@ Zudem haben wir die brandneue Option ergänzt, **benutzerdefinierte URLs** für 
 
 ## Automatisierte Aktionen: PDF speichern und App-Benachrichtigung senden
 
-Automations-Fans aufgepasst! In SeaTable 4.3 kommen zwei neue Optionen zu den [automatisierten Aktionen](https://seatable.io/docs/automationen/automations-aktionen/) hinzu:
+Automations-Fans aufgepasst! In SeaTable 4.3 kommen zwei neue Optionen zu den [automatisierten Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) hinzu:
 
 1. Erstens haben Sie die Möglichkeit, periodisch PDFs für Einträge zu speichern, die bestimmte Bedingungen erfüllen.
 2. Zweitens können Sie neuerdings Benachrichtigungen versenden, die bestimmte Nutzer einer Universellen App erhalten sollen.
 
-Zuvor konnten Sie in SeaTable nur manuell [PDF-Dokumente per Schaltfläche erzeugen](https://seatable.io/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/). Die neue Option, zu einem festgelegten Zeitpunkt **automatisch** Dokumente aus bestimmten Datensätzen zu erstellen, erspart Ihnen Klicks und macht Ihre Abläufe noch reibungsloser.
+Zuvor konnten Sie in SeaTable nur manuell [PDF-Dokumente per Schaltfläche erzeugen]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}). Die neue Option, zu einem festgelegten Zeitpunkt **automatisch** Dokumente aus bestimmten Datensätzen zu erstellen, erspart Ihnen Klicks und macht Ihre Abläufe noch reibungsloser.
 
-Durch die **App-Benachrichtigungen** können Sie die Nutzer einer App beispielsweise über Änderungen an relevanten Datensätzen informieren. Diese Aktion kann von allen vier [Trigger-Ereignissen](https://seatable.io/docs/automationen/automations-trigger/) ausgelöst werden.
+Durch die **App-Benachrichtigungen** können Sie die Nutzer einer App beispielsweise über Änderungen an relevanten Datensätzen informieren. Diese Aktion kann von allen vier [Trigger-Ereignissen]({{< relref "help/base-editor/automationen/automations-trigger" >}}) ausgelöst werden.
 
 ![App-Benachrichtigung senden](App-Benachrichtigung-senden.png)
 
@@ -71,7 +71,7 @@ Außerdem lässt sich die **Hintergrundfarbe** von individuellen Seiten ab SeaTa
 
 Die Vererbung von [Spaltenberechtigungen](https://seatable.io/docs/arbeiten-mit-spalten/spaltenberechtigungen-festlegen/) aus der Base wird mit SeaTable 4.3 abgeschafft. Wenn Sie eine Spalte in der Universellen App für die Bearbeitung sperren möchten, können Sie sie stattdessen in den Einstellungen der [Tabellenseite](https://seatable.io/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) auf **„nur lesbar“** setzen.
 
-Ebenso werden alle Einschränkungen für [Schaltflächen-Aktionen](https://seatable.io/docs/andere-spalten/die-schaltflaeche/) aufgehoben. Jeder App-Nutzer kann nun vordefinierte Änderungen an den Datensätzen ausführen, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind und der Nutzer nicht zur Bearbeitung der Seite berechtigt ist.
+Ebenso werden alle Einschränkungen für [Schaltflächen-Aktionen]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) aufgehoben. Jeder App-Nutzer kann nun vordefinierte Änderungen an den Datensätzen ausführen, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind und der Nutzer nicht zur Bearbeitung der Seite berechtigt ist.
 
 ## Wichtige Ankündigung: Entfernung der Galerie- und Datenabfrage-App
 
@@ -79,7 +79,11 @@ In Version 4.4 werden die [Galerie-App](https://seatable.io/docs/apps/galerie-ap
 
 Wenn Sie die beiden ablaufenden Apps nutzen, empfehlen wir Ihnen, Ihre Anwendungsfälle vor dem nächsten Release mit [Galerieseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/) und [Abfrageseiten](https://seatable.io/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/) im App Builder nachzubauen. Auf Abfrageseiten können Sie mittlerweile übrigens Felder hinzufügen, mit denen die Nutzer auch **Link-Spalten** nach bestimmten Werten durchsuchen können.
 
-{{< warning headline="Achtung, Verwechslungsgefahr!" text="Die [Galerie](https://seatable.io/docs/plugins/anleitung-zum-galerie-plugin/) und die [SQL-Abfrage](https://seatable.io/docs/plugins/anleitung-zum-sql-abfrage-plugin/) kennen Sie auch als **Plugins**, die Sie zu Ihren Bases hinzufügen können. Diese bleiben natürlich weiterhin bestehen." />}}
+{{< warning headline="Achtung, Verwechslungsgefahr!" >}}
+
+Die [Galerie]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) und die [SQL-Abfrage]({{< relref "help/base-editor/plugins/anleitung-zum-sql-abfrage-plugin" >}}) kennen Sie auch als **Plugins**, die Sie zu Ihren Bases hinzufügen können. Diese bleiben natürlich weiterhin bestehen.
+
+{{< /warning >}}
 
 ## Und vieles mehr
 

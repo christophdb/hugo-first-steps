@@ -262,7 +262,7 @@ Ejecute nuevamente el script haciendo clic en **Ejecutar script**. Nuevamente po
 
 Ahora debería ver todos los registros de la base de Airtable en la nueva base de SeaTable. ¡Felicidades, la migración de los registros se ha completado!
 
-Si no está satisfecho con el resultado final, entonces [elimine todas las tablas](https://seatable.io/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/) y comience de nuevo desde el paso 5.
+Si no está satisfecho con el resultado final, entonces [elimine todas las tablas]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}}) y comience de nuevo desde el paso 5.
 
 ### 11\. Finalizar la migración
 

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/anleitung-zum-karten-plugin'
 ---
 
-Si ha creado una columna de texto con direcciones o topónimos en su tabla o ha utilizado el tipo de columna [Geoposición](https://seatable.io/es/docs/andere-spalten/die-geopositions-spalte/), puede utilizar el **complemento de mapa** para mostrar las ubicaciones introducidas en la columna.
+Si ha creado una columna de texto con direcciones o topónimos en su tabla o ha utilizado el tipo de columna [Geoposición]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}), puede utilizar el **complemento de mapa** para mostrar las ubicaciones introducidas en la columna.
 
 Para activar el plugin, siga las instrucciones del artículo [Activar un plugin en una base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
@@ -70,7 +70,7 @@ Si ha creado varias tablas en su base, puede seleccionar en este punto qué tabl
 
 ### Dirección
 
-Establezca aquí una columna de texto en la que haya introducido direcciones o topónimos, o una [columna de geoposición](https://seatable.io/es/docs/andere-spalten/die-geopositions-spalte/) a partir de la cual se mostrarán las ubicaciones en el mapa. Tenga en cuenta que el complemento de mapa sólo funciona si ha utilizado una columna de este tipo en su tabla.
+Establezca aquí una columna de texto en la que haya introducido direcciones o topónimos, o una [columna de geoposición]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}) a partir de la cual se mostrarán las ubicaciones en el mapa. Tenga en cuenta que el complemento de mapa sólo funciona si ha utilizado una columna de este tipo en su tabla.
 
 ### Color del marcador
 

@@ -32,4 +32,4 @@ Um eine bessere Übersicht über Ihre Bases zu erhalten, haben Sie die Möglichk
 
 ## Einschränkung
 
-Eine Base kann lediglich in einen Ordner verschoben werden, der zur gleichen **Gruppe** gehört wie die Base selbst. Wenn Sie eine Base in einen Ordner einer anderen Gruppe verschieben möchten, müssen Sie die entsprechende Base zunächst [in die gewünschte Gruppe kopieren](https://seatable.io/docs/arbeiten-mit-gruppen/eine-base-in-eine-gruppe-kopieren/).
+Eine Base kann lediglich in einen Ordner verschoben werden, der zur gleichen **Gruppe** gehört wie die Base selbst. Wenn Sie eine Base in einen Ordner einer anderen Gruppe verschieben möchten, müssen Sie die entsprechende Base zunächst [in die gewünschte Gruppe kopieren]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).

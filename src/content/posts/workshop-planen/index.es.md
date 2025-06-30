@@ -95,7 +95,7 @@ Dependiendo del tema del taller, hay distintos métodos y materiales adecuados p
 
 ## Crear certificados
 
-Para **certificar la participación en el taller**, puede expedir un certificado a cada participante. El plugin de [diseño de páginas](https://seatable.io/es/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) de SeaTable le ahorra mucho trabajo. El plugin utiliza la información ya introducida en la tabla y puede insertarla individualmente para cada participante en el diseño del certificado de asistencia. Con sólo pulsar un botón, podrá crear documentos personalizados y guardarlos en formato PDF.
+Para **certificar la participación en el taller**, puede expedir un certificado a cada participante. El plugin de [diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) de SeaTable le ahorra mucho trabajo. El plugin utiliza la información ya introducida en la tabla y puede insertarla individualmente para cada participante en el diseño del certificado de asistencia. Con sólo pulsar un botón, podrá crear documentos personalizados y guardarlos en formato PDF.
 
 ![Cree certificados sin esfuerzo adicional con el plugin de diseño de páginas](Zertifikate.jpg)
 
@@ -105,7 +105,7 @@ Para **certificar la participación en el taller**, puede expedir un certificado
 
 ![Utilice el formulario web de SeaTable para recoger las opiniones de sus empleados](Feedback.jpg)
 
-Puede **analizar** fácilmente los comentarios recogidos en SeaTable, por ejemplo mostrando la mediana o la media de una [columna de valoración](https://seatable.io/es/docs/auswahlspalten/die-rating-spalte/) en la [barra de estado](https://seatable.io/es/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) o utilizando las respuestas abiertas en las [columnas de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) para seguir desarrollando los talleres. Si un curso recibe muchas **críticas**, el formador puede mejorar o ser sustituido. Por ejemplo, si hay comentarios frecuentes de que faltan aspectos importantes, esto podría ser una indicación de que debería darles más tiempo y ampliar el taller. También podría crear un nuevo taller centrado precisamente en esos aspectos y satisfacer así las necesidades de sus participantes.
+Puede **analizar** fácilmente los comentarios recogidos en SeaTable, por ejemplo mostrando la mediana o la media de una [columna de valoración](https://seatable.io/es/docs/auswahlspalten/die-rating-spalte/) en la [barra de estado]({{< relref "help/base-editor/ansichten" >}}die-status-zeile-und-ihre-funktionen/) o utilizando las respuestas abiertas en las [columnas de texto](https://seatable.io/es/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) para seguir desarrollando los talleres. Si un curso recibe muchas **críticas**, el formador puede mejorar o ser sustituido. Por ejemplo, si hay comentarios frecuentes de que faltan aspectos importantes, esto podría ser una indicación de que debería darles más tiempo y ampliar el taller. También podría crear un nuevo taller centrado precisamente en esos aspectos y satisfacer así las necesidades de sus participantes.
 
 ## Conclusión: Planificación de un taller con SeaTable
 

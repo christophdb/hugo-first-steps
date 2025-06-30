@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Апрель делает то, что хочет - но SeaTable делает то, что хотите вы! Версия 3.5 исполняет некоторые давние пожелания наших пользователей: первый столбец теперь также поддерживает [формулы](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/), а с помощью [автоматизации](https://seatable.io/ru/docs/automationen/uebersicht-ueber-automationen/) вы можете периодически выполнять два дополнительных действия. Вы получаете больше гибкости для более сложных случаев использования благодаря условному выполнению [действий кнопок](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/) и условному [поиску](https://seatable.io/ru/docs/verknuepfungen/die-lookup-funktion/). Далее мы подробно расскажем об этих улучшениях.
+Апрель делает то, что хочет - но SeaTable делает то, что хотите вы! Версия 3.5 исполняет некоторые давние пожелания наших пользователей: первый столбец теперь также поддерживает [формулы]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), а с помощью [автоматизации]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) вы можете периодически выполнять два дополнительных действия. Вы получаете больше гибкости для более сложных случаев использования благодаря условному выполнению [действий кнопок]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) и условному [поиску]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}). Далее мы подробно расскажем об этих улучшениях.
 
 В этом выпуске мы также публикуем новый конструктор приложений в виде бета-версии. С помощью Universal App Builder можно создавать приложения для самых разных случаев использования и групп пользователей без каких-либо знаний программирования. В настоящее время наша команда разработчиков все еще дорабатывает его, но даже предвкушение заставляет желать большего. Мы с нетерпением ждем ваших отзывов!
 
@@ -18,7 +18,7 @@ seo:
 
 ## Формулы в первом столбце
 
-SeaTable 3.5 обеспечивает большую гибкость в первом столбце таблицы: До сих пор там допускались только [типы столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) текст, число, дата, одиночный выбор и автоматический номер. [Тип столбца формула](https://seatable.io/ru/docs/formeln/grundlagen-von-seatable-formeln/), который теперь также поддерживается, позволяет "вычислить" собственную ссылку на строку. Поскольку [первый столбец](https://seatable.io/ru/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) таблицы не может быть скрыт, а также всегда отображается в диалоге ссылок, он особенно подходит для этой цели.
+SeaTable 3.5 обеспечивает большую гибкость в первом столбце таблицы: До сих пор там допускались только [типы столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) текст, число, дата, одиночный выбор и автоматический номер. [Тип столбца формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), который теперь также поддерживается, позволяет "вычислить" собственную ссылку на строку. Поскольку [первый столбец](https://seatable.io/ru/docs/arbeiten-mit-spalten/die-besonderheiten-der-ersten-spalte/) таблицы не может быть скрыт, а также всегда отображается в диалоге ссылок, он особенно подходит для этой цели.
 
 Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften Klammern ein. **{Produktnummer}** beispielsweise holt sich den Wert aus der Spalte “Produktnummer”. Mehrere Spaltenwerte können Sie mit **&** verketten. Natürlich können Sie auch Textfunktionen wie **left()** verwenden, um Werte zu kürzen. Wenn Sie beispielsweise Rechnungen in einer Tabelle verwalten, dann könnte eine Zeilenreferenz bestehend aus Rechnungsdatum, Kundenname und Rechnungsnummer wie folgt aussehen: _20230412-CustomerZ-INV202302347_.
 
@@ -26,7 +26,7 @@ Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften 
 
 ## Два дополнительных действия для периодических автоматизаций
 
-[Автоматизация](https://seatable.io/ru/docs/automationen/funktionsweise-von-automationen/) в SeaTable облегчает вашу жизнь, освобождая вас от многих ручных действий. Следовательно, автоматизация не только экономит ваше время, но и минимизирует количество человеческих ошибок. SeaTable имеет четыре [триггера автоматизации](https://seatable.io/ru/docs/automationen/automations-trigger/), которые позволяют вам выполнять различные [действия по](https://seatable.io/ru/docs/automationen/automations-aktionen/) событию (например, добавление новой записи) или периодически (например, каждый понедельник в 10 утра). SeaTable 3.5 делает периодическую автоматизацию гораздо более мощной, добавляя еще два действия.
+[Автоматизация]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) в SeaTable облегчает вашу жизнь, освобождая вас от многих ручных действий. Следовательно, автоматизация не только экономит ваше время, но и минимизирует количество человеческих ошибок. SeaTable имеет четыре [триггера автоматизации]({{< relref "help/base-editor/automationen/automations-trigger" >}}), которые позволяют вам выполнять различные [действия по]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) событию (например, добавление новой записи) или периодически (например, каждый понедельник в 10 утра). SeaTable 3.5 делает периодическую автоматизацию гораздо более мощной, добавляя еще два действия.
 
 Теперь вы можете выбрать действия "Добавить ссылки" и "Выполнить операцию обработки данных" для периодического триггера в дополнение к действиям "Отправить уведомление", "Отправить электронное письмо", "Добавить строку" и "Выполнить сценарий Python". Эти два действия можно использовать для автоматического выполнения всех операций по обработке данных, которые раньше можно было выполнить только вручную.
 
@@ -34,7 +34,7 @@ Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften 
 
 ## Условное выполнение действий кнопки
 
-С помощью [кнопки](https://seatable.io/ru/docs/andere-spalten/die-schaltflaeche/) можно выполнить одно или несколько действий одним щелчком мыши, например, [отправить письмо](https://seatable.io/ru/docs/andere-spalten/eine-e-mail-per-schaltflaeche-verschicken/), а затем отредактировать строку. Невозможно было связать выполнение действия с условием. В SeaTable 3.5 мы устранили этот функциональный пробел.
+С помощью [кнопки]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) можно выполнить одно или несколько действий одним щелчком мыши, например, [отправить письмо]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}), а затем отредактировать строку. Невозможно было связать выполнение действия с условием. В SeaTable 3.5 мы устранили этот функциональный пробел.
 
 ![SeaTable 3.5 - Действия кнопок могут быть связаны с правилами](SeaTable-3.5-ConditionalExecution.png)
 
@@ -46,7 +46,7 @@ Geben Sie im Formeleditor einfach die zu referenzierende Spalte in geschweiften 
 
 ## Условный поиск в столбце "Формула" для ссылок
 
-Тип столбца Формула для связей позволяет оценивать связанные записи. Всего доступно пять методов оценки: [Findmin](https://seatable.io/ru/docs/verknuepfungen/die-findmin-formel/), [Findmax](https://seatable.io/ru/docs/verknuepfungen/die-findmax-formel/), [Rollup](https://seatable.io/ru/docs/verknuepfungen/die-rollup-formel/), [Countlinks](https://seatable.io/ru/docs/verknuepfungen/die-countlinks-formel/) и [Lookup](https://seatable.io/ru/docs/verknuepfungen/die-lookup-funktion/). Формула Lookup позволяет отображать дополнительные значения из уже связанных строк в текущей таблице. Таким образом, вы можете считывать и отображать столько информации из связанной таблицы, сколько захотите.
+Тип столбца Формула для связей позволяет оценивать связанные записи. Всего доступно пять методов оценки: [Findmin]({{< relref "help/base-editor/formeln/die-findmin-formel" >}}), [Findmax]({{< relref "help/base-editor/formeln/die-findmax-formel" >}}), [Rollup]({{< relref "help/base-editor/formeln/die-rollup-formel" >}}), [Countlinks]({{< relref "help/base-editor/formeln/die-countlinks-formel" >}}) и [Lookup]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}). Формула Lookup позволяет отображать дополнительные значения из уже связанных строк в текущей таблице. Таким образом, вы можете считывать и отображать столько информации из связанной таблицы, сколько захотите.
 
 ![SeaTable 3.5 - Колонки формул ссылок поддерживают условный поиск](SeaTable-3.5-ConditionalLookup.png)
 
