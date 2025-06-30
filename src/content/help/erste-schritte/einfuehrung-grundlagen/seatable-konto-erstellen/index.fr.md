@@ -13,7 +13,7 @@ Nous sommes heureux que vous vous intéressiez à SeaTable ! L'inscription à un
 
 ## L'enregistrement
 
-1. Ouvrez le [site web de SeaTable](https://seatable.io/fr/).
+1. Ouvrez le [site web de SeaTable]({{< relref "/" >}}).
 2. Cliquez en haut à droite sur **Enregistrer**.
 3. Saisissez votre **adresse e-mail** et confirmez.
 

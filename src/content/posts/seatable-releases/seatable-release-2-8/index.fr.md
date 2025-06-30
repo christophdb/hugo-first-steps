@@ -65,7 +65,7 @@ Jusqu'à présent, les données d'un enregistrement commun importé ne pouvaient
 
 De nombreuses autres améliorations méritent d'être mentionnées. Voici les plus importantes d'entre elles.
 
-La colonne de formules connaît deux nouvelles formules : Small() et Large() trouvent respectivement la valeur x la plus petite et la valeur x la plus grande dans une colonne. (Plus d'informations dans la [référence des formules]({{< relref "help/base-editor/formeln/formelreferenz" >}})).
+La colonne de formules connaît deux nouvelles formules : Small() et Large() trouvent respectivement la valeur x la plus petite et la valeur x la plus grande dans une colonne. (Plus d'informations dans la [référence des formules]({{< relref "help/base-editor/formeln/formelreferenz" >}}).
 
 Pour les colonnes et les regroupements, il est désormais possible de calculer la médiane en plus de la somme, de la moyenne et des valeurs extrêmes.
 

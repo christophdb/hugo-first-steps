@@ -108,7 +108,7 @@ En Internet encontrará**numerosas plantillas de planes de redes sociales para l
 
 ### Plan editorial con herramienta de gestión de redes sociales
 
-Otra opción son **las herramientas para redes sociales como Hootsuite, CoSchedule o ContentPepper**. Estas herramientas proceden directamente de la [gestión de redes sociales](https://seatable.io/es/social-media-management/) y, por tanto, están especializadas en la planificación de contenidos. La gran ventaja de las herramientas de gestión de redes sociales es que puedes utilizarlas para planificar y crear publicaciones, así como para publicarlas directamente en las redes sociales. Así te ahorras el esfuerzo de publicar en cada una de las plataformas.
+Otra opción son **las herramientas para redes sociales como Hootsuite, CoSchedule o ContentPepper**. Estas herramientas proceden directamente de la [gestión de redes sociales]({{< relref "posts/social-media-management" >}}) y, por tanto, están especializadas en la planificación de contenidos. La gran ventaja de las herramientas de gestión de redes sociales es que puedes utilizarlas para planificar y crear publicaciones, así como para publicarlas directamente en las redes sociales. Así te ahorras el esfuerzo de publicar en cada una de las plataformas.
 
 ### Plan de redes sociales en SeaTable
 
@@ -118,4 +118,4 @@ Puede **estructurar y mostrar** los datos de su plan de redes sociales SeaTable 
 
 ## Conclusión:
 
-Con un plan editorial para las redes sociales, podrá aprovechar todo el potencial de sus canales. Podrá planificar con antelación y dirigirse a su público con contenidos específicos. Como resultado, la creación inicial de un plan de contenidos te ayudará a poner en práctica tu estrategia en las redes sociales. **Automatice sus procesos**, inspire a sus seguidores y trabaje mejor en equipo con la [solución sin código](https://seatable.io/es/) de SeaTable.
+Con un plan editorial para las redes sociales, podrá aprovechar todo el potencial de sus canales. Podrá planificar con antelación y dirigirse a su público con contenidos específicos. Como resultado, la creación inicial de un plan de contenidos te ayudará a poner en práctica tu estrategia en las redes sociales. **Automatice sus procesos**, inspire a sus seguidores y trabaje mejor en equipo con la [solución sin código]({{< relref "/" >}}) de SeaTable.

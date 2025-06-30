@@ -66,7 +66,7 @@ Mit dem Seitendesign-Plugin ist es außerdem möglich, mit den in der Tabelle en
 
 ## Dauer und Agenda des Workshops festlegen
 
-Ein Workshop, wie Ihre Mitarbeiter [Reisekosten einreichen und Auslagen erstattet bekommen](https://seatable.io/auslagenerstattung/) können, sollte nicht länger als eine Stunde dauern, während ein Führungskräfte-Training mehrere Stunden pro Woche oder ganze Tage in Anspruch nehmen kann. Dem **Pensum** entsprechend sollte der Coach eine **Agenda** festlegen und planen, wie viele Inhalte in der Zeit vermittelt werden können. Die **Termine** der Kurse können Sie mit dem **Kalender** visuell darstellen und Ihren Mitarbeitern in der Monatsübersicht einen klaren Überblick über die Termine verschaffen.
+Ein Workshop, wie Ihre Mitarbeiter [Reisekosten einreichen und Auslagen erstattet bekommen]({{< relref "posts/auslagenerstattung" >}}) können, sollte nicht länger als eine Stunde dauern, während ein Führungskräfte-Training mehrere Stunden pro Woche oder ganze Tage in Anspruch nehmen kann. Dem **Pensum** entsprechend sollte der Coach eine **Agenda** festlegen und planen, wie viele Inhalte in der Zeit vermittelt werden können. Die **Termine** der Kurse können Sie mit dem **Kalender** visuell darstellen und Ihren Mitarbeitern in der Monatsübersicht einen klaren Überblick über die Termine verschaffen.
 
 ## Location und Catering buchen
 

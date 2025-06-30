@@ -69,7 +69,7 @@ Além disso, o SeaTable oferece uma variante auto-hospedada com a qual pode inst
 
 Pretende recolher dados de uma forma estruturada, concluir tarefas de forma eficiente e desenvolver processos poderosos - sem ter de se preocupar com a segurança dos seus dados? Então veja com os seus próprios olhos e [registe-se aqui]({{< relref "pages/registration" >}}) para obter uma **subscrição gratuita do SeaTable**, que já lhe oferece inúmeras [funções]({{< relref "pages/prices" >}}) úteis. A subscrição é **totalmente gratuita para** si e é uma oportunidade perfeita para testar o SeaTable sem compromisso.
 
-Ainda não está convencido? Pode encontrar mais informações sobre o SeaTable no sítio [Web](https://seatable.io/pt/).
+Ainda não está convencido? Pode encontrar mais informações sobre o SeaTable no sítio [Web]({{< relref "/" >}}).
 
 {{< warning headline="Seafile" text="Além disso, se procura uma alternativa segura para partilhar e armazenar ficheiros (por exemplo, Google Drive ou Microsoft OneDrive), também pode instalar a solução de sincronização e partilha de ficheiros [Seafile](https://www.seafile.com/en/home/) nos seus próprios servidores." />}}
 

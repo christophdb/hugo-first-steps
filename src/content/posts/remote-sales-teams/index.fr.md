@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-La plupart des entreprises prennent des mesures pour permettre le travail à domicile et organisent, outre des possibilités de télétravail, des séminaires en ligne ou d'autres événements pour leurs collaborateurs. Mais : vous commencez à regretter même le collègue le plus agaçant et la discussion autour de la machine à café vous manque aussi. Avec une équipe travaillant presque exclusivement à distance, il est parfois difficile de rester à jour et il n'est pas rare que la [productivité en pâtisse](https://seatable.io/fr/homeoffice-tipps/) également. Heureusement, il existe une méthode qui pourrait vous aider à retrouver votre productivité à distance. Avec des stand-ups quotidiens, vous améliorez la productivité de votre équipe en un rien de temps.
+La plupart des entreprises prennent des mesures pour permettre le travail à domicile et organisent, outre des possibilités de télétravail, des séminaires en ligne ou d'autres événements pour leurs collaborateurs. Mais : vous commencez à regretter même le collègue le plus agaçant et la discussion autour de la machine à café vous manque aussi. Avec une équipe travaillant presque exclusivement à distance, il est parfois difficile de rester à jour et il n'est pas rare que la [productivité en pâtisse]({{< relref "posts/homeoffice-tipps" >}}) également. Heureusement, il existe une méthode qui pourrait vous aider à retrouver votre productivité à distance. Avec des stand-ups quotidiens, vous améliorez la productivité de votre équipe en un rien de temps.
 
 ![La productivité souffre de l'absence de communication informelle.](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 

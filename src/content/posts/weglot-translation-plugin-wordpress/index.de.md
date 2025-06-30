@@ -112,7 +112,7 @@ Das bekannteste Plugin für ein mehrsprachiges WordPress ist mit Absatz das Plug
 WPML ist mit Abstand das beliebteste Übersetzungs-Plugin für WordPress.
 
 Mit Sicherheit sind dies alles gute Plugins, jedoch wollten wir unbedingt eine automatische Übersetzung unserer Webseiten Inhalte, um diese mühsame Aufgabe einzusparen.   
-Nur um Ihnen ein Gefühl zu geben: auf der Webseite seatable.io findet man aktuell über [90 Blog-Artikel](https://seatable.io/blog/) und mehr als 50 Seiten. In Summe hat die Webseite knapp eine Million Wörter. Es ist sicher nicht übertrieben, wenn man davon ausgeht, dass die Übersetzung einer Seite oder eines Artikels in vier andere Sprachen jeweils mindestens 1 Stunde benötigt. Das wären also mindestens 140 Stunden oder knapp 18 Arbeitstage. Diese Zeit hat uns Weglot komplett eingespart. 
+Nur um Ihnen ein Gefühl zu geben: auf der Webseite seatable.io findet man aktuell über [90 Blog-Artikel]({{< relref "posts" >}}) und mehr als 50 Seiten. In Summe hat die Webseite knapp eine Million Wörter. Es ist sicher nicht übertrieben, wenn man davon ausgeht, dass die Übersetzung einer Seite oder eines Artikels in vier andere Sprachen jeweils mindestens 1 Stunde benötigt. Das wären also mindestens 140 Stunden oder knapp 18 Arbeitstage. Diese Zeit hat uns Weglot komplett eingespart. 
 
 ### Es gibt noch ein weiteres WordPress-Plugin, das automatische Übersetzungen anbietet
 

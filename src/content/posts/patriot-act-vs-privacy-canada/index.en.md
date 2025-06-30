@@ -70,7 +70,7 @@ In addition, SeaTable offers a self-hosted variant that allows you to install an
 
 You want to capture data in a structured way, complete tasks efficiently and develop powerful processes - without having to worry about the security of your data? Then convince yourself and [register here]({{< relref "pages/registration" >}}) for a **SeaTable Free subscription**, which already provides you with numerous useful [functions]({{< relref "pages/prices" >}}). The subscription is **completely free for** you and a perfect opportunity to test SeaTable without obligation.
 
-Not convinced yet? You can find more information about SeaTable on the [website](https://seatable.io/en/).
+Not convinced yet? You can find more information about SeaTable on the [website]({{< relref "/" >}}).
 
 {{< warning headline="Seafile" text="Additionally, if you're looking for a secure alternative for file sharing and storage (e.g. Google Drive or Microsoft OneDrive), you could install the [Seafile](https://www.seafile.com/en/home/) file sync-and-share solution on your own servers as well." />}}
 

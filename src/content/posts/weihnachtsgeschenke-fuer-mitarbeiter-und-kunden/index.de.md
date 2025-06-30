@@ -42,7 +42,7 @@ In [ausgewählten Onlineshops](https://www.weihnachtsplaner.de/adventskalender?p
 
 ### Selbstgemachter Adventskalender
 
-Möchten Sie nur für ausgewählte Personen einen Adventskalender zusammenstellen, können Sie auch selbst Hand anlegen. Hierbei ist der Vorteil, dass Sie den Kalender individuell auf die Person abstimmen können. [Wie Sie einen Adventskalender selbst basteln und womit Sie diesen befüllen können, erfahren Sie in diesem Artikel](https://seatable.io/adventskalender-selber-machen/).
+Möchten Sie nur für ausgewählte Personen einen Adventskalender zusammenstellen, können Sie auch selbst Hand anlegen. Hierbei ist der Vorteil, dass Sie den Kalender individuell auf die Person abstimmen können. [Wie Sie einen Adventskalender selbst basteln und womit Sie diesen befüllen können, erfahren Sie in diesem Artikel]({{< relref "posts/adventskalender-selber-machen" >}}).
 
 ### Online-Adventskalender
 
@@ -77,14 +77,14 @@ Ein **selbstgemachtes Geschenk** bereitet große Freude, denn es zeigt, dass Sie
 
 Der Fantasie sind keine Grenzen gesetzt.
 
-- **Unternehmensfilm**: Film ab, und zwar mit Humor! Ein professionelles [Unternehmensvideo](https://seatable.io/storyboard/) gibt zwar einen anschaulichen Überblick darüber, was Sie als Firma tun, ist aber kaum als Weihnachtsgeschenk für Mitarbeiter oder Kunden geeignet. Ein kreativer Film über Sie und Ihre Mitarbeiter, ermöglicht es Ihren Kunden und anderen Mitarbeitern, Sie auf einer persönlichen Ebene besser kennenzulernen.
+- **Unternehmensfilm**: Film ab, und zwar mit Humor! Ein professionelles [Unternehmensvideo]({{< relref "posts/storyboard" >}}) gibt zwar einen anschaulichen Überblick darüber, was Sie als Firma tun, ist aber kaum als Weihnachtsgeschenk für Mitarbeiter oder Kunden geeignet. Ein kreativer Film über Sie und Ihre Mitarbeiter, ermöglicht es Ihren Kunden und anderen Mitarbeitern, Sie auf einer persönlichen Ebene besser kennenzulernen.
 - **Persönliche Auswahl**: Ein weiterer Klassiker unter den Weihnachtsgeschenken für Mitarbeiter ist ein gut gefüllter Geschenkkorb. Um dem Ganzen eine persönlichere Note zu geben, überlegen Sie sich, was Sie und Ihre Mitarbeiter gerne mögen. Auch ein Bezug zu Ihrem Hauptsitz, zum Beispiel regionale Produkte von nahegelegenen Betrieben, ist denkbar. Fügen Sie zu dem Geschenkkorb eine Nachricht hinzu und schreiben Sie darauf, warum Sie sich für die Inhalte entschieden haben. Damit drücken Sie aus, dass Sie sich Gedanken über das Geschenk und dessen Wirkung gemacht haben.
 
 ## 5\. Gemeinsame Erlebnisse
 
 **Gemeinsame Zeit** ist für viele, besonders im oft stressigen Alltag, das schönste Geschenk. Organisieren Sie als Weihnachtsgeschenk für Ihre Mitarbeiter gemeinsame Aktivitäten neben der Arbeit und schaffen Sie damit unvergessliche Erinnerungen.
 
-Ein gemeinsamer Weihnachtsmarktbesuch oder abendliches Plätzchenbacken hilft, sich besser kennenzulernen und den Teamgeist nachhaltig zu stärken. Und natürlich darf auch eine Weihnachtsfeier nicht fehlen! Wie Sie diese erfolgreich planen, erfahren Sie [hier](https://seatable.io/weihnachtsfeier/).
+Ein gemeinsamer Weihnachtsmarktbesuch oder abendliches Plätzchenbacken hilft, sich besser kennenzulernen und den Teamgeist nachhaltig zu stärken. Und natürlich darf auch eine Weihnachtsfeier nicht fehlen! Wie Sie diese erfolgreich planen, erfahren Sie [hier]({{< relref "posts/weihnachtsfeier" >}}).
 
 ![Ein Weihnachtsmarktbesuch lädt zum Tratschen und Stöbern ein.](Design-ohne-Titel-22-1-e1722859187769-711x730.png)
 
@@ -107,7 +107,7 @@ Sie möchten Ihren Mitarbeitern zu Weihnachten eine Freude machen, aber die Kost
 
 Bei Weihnachtsfeiern gibt es noch einiges zu beachten…
 
-- **Weihnachtsfeier:** Sie planen eine [Weihnachtsfeier](https://seatable.io/weihnachtsfeier/) für alle Ihre Mitarbeiter? Dann achten Sie auf das Budget von 150 Euro pro Teilnehmer. Wird dieser Betrag nicht überschritten, sind Ihre Ausgaben steuerfrei. Jedoch zählen Weihnachtsgeschenke für Mitarbeiter oder Kunden, welche bei der Weihnachtsfeier übergeben werden, in das oben genannte Budget mit hinein. Das heißt, dass Sie die 50 Euro für Geschenke nicht zu den 150 Euro für die Feierlichkeiten addieren dürfen.
+- **Weihnachtsfeier:** Sie planen eine [Weihnachtsfeier]({{< relref "posts/weihnachtsfeier" >}}) für alle Ihre Mitarbeiter? Dann achten Sie auf das Budget von 150 Euro pro Teilnehmer. Wird dieser Betrag nicht überschritten, sind Ihre Ausgaben steuerfrei. Jedoch zählen Weihnachtsgeschenke für Mitarbeiter oder Kunden, welche bei der Weihnachtsfeier übergeben werden, in das oben genannte Budget mit hinein. Das heißt, dass Sie die 50 Euro für Geschenke nicht zu den 150 Euro für die Feierlichkeiten addieren dürfen.
 - **Weihnachtsgeld:** Das Auszahlen von Weihnachtsgeld ist hingegen immer steuerpflichtig und muss als _sonstiger Bezug_ in der Gehaltsabrechnung angegeben werden.
 
 ### Weihnachtsgeschenke für Kunden
@@ -120,7 +120,7 @@ Beachten Sie außerdem, dass Sie zu jedem Geschenk, welches einen Wert von 10 Eu
 
 ## Weihnachten online planen
 
-Die Weihnachtszeit ist stressig, deswegen ist eine durchdachte Vorbereitung umso wichtiger. Mit SeaTable können Sie Ihre [Weihnachtsfeier planen](https://seatable.io/weihnachtsfeier/) oder einen [kostenlosen digitalen Adventskalender](https://seatable.io/adventskalender-selber-machen/) als Weihnachtsgeschenk für Ihre Mitarbeiter und Kunden anlegen und ganz einfach individualisieren.
+Die Weihnachtszeit ist stressig, deswegen ist eine durchdachte Vorbereitung umso wichtiger. Mit SeaTable können Sie Ihre [Weihnachtsfeier planen]({{< relref "posts/weihnachtsfeier" >}}) oder einen [kostenlosen digitalen Adventskalender]({{< relref "posts/adventskalender-selber-machen" >}}) als Weihnachtsgeschenk für Ihre Mitarbeiter und Kunden anlegen und ganz einfach individualisieren.
 
 Suchen Sie nach weiteren Anregungen rund um passende Weihnachtsgeschenke für Mitarbeiter und Kunden? In unserer Adventskalender-Vorlage für Unternehmen finden Sie viele spannende Ideen!
 

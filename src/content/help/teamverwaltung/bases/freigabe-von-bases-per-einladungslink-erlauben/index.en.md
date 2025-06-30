@@ -12,7 +12,7 @@ With an [invitation link]({{< relref "help/startseite/freigaben/einladungs-link-
 
 You can learn how to create an invitation link [here.]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) Since the link can be copied and forwarded as often as you like, it makes sense to set a password and an expiration date as **protective measures**.
 
-In the **team administration**, you can [view]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})) a [list of all invitation links for a base]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})). In addition, as a **team administrator**, you can (de)activate the invitation link feature for other team members. In this way, you prevent or enable team members themselves from sharing bases with external third parties.
+In the **team administration**, you can [view]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}) a [list of all invitation links for a base]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}). In addition, as a **team administrator**, you can (de)activate the invitation link feature for other team members. In this way, you prevent or enable team members themselves from sharing bases with external third parties.
 
 ## To allow the base sharing via invitation link
 

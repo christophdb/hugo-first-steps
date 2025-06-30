@@ -35,5 +35,5 @@ Una gran ventaja del módulo de estadísticas de SeaTable es la actualización a
 
 ## Artículo de ayuda con más información
 
-- [Instrucciones para el módulo estadístico]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}))
+- [Instrucciones para el módulo estadístico]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
 - [Estadísticas y análisis de datos]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})

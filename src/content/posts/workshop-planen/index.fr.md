@@ -65,7 +65,7 @@ Grâce au plugin de conception de pages, il est également possible de créer un
 
 ## Définir la durée et l'ordre du jour de l'atelier
 
-Un atelier sur la façon dont vos employés peuvent [soumettre leurs frais de déplacement et se faire rembourser](https://seatable.io/fr/auslagenerstattung/) ne devrait pas durer plus d’une heure, tandis qu’une séance de formation au leadership peut prendre plusieurs heures par semaine ou des journées complètes. En fonction de la **charge de travail**, le coach doit établir un **ordre du jour** et planifier la quantité de contenu qui peut être enseignée dans le temps. Vous pouvez afficher visuellement les dates des cours avec le **calendrier** et donner à vos employés un aperçu clair des **dates** dans l’aperçu mensuel.
+Un atelier sur la façon dont vos employés peuvent [soumettre leurs frais de déplacement et se faire rembourser]({{< relref "posts/auslagenerstattung" >}}) ne devrait pas durer plus d’une heure, tandis qu’une séance de formation au leadership peut prendre plusieurs heures par semaine ou des journées complètes. En fonction de la **charge de travail**, le coach doit établir un **ordre du jour** et planifier la quantité de contenu qui peut être enseignée dans le temps. Vous pouvez afficher visuellement les dates des cours avec le **calendrier** et donner à vos employés un aperçu clair des **dates** dans l’aperçu mensuel.
 
 ## Réserver un lieu et un traiteur
 

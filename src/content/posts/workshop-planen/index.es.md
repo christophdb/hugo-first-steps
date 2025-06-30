@@ -65,7 +65,7 @@ Con el plugin de diseño de páginas, también es posible crear un **perfil** co
 
 ## Determinar la duración y el orden del día del taller
 
-Un taller sobre cómo sus empleados pueden [presentar los gastos de viaje y recibir el reembolso de los gastos](https://seatable.io/es/auslagenerstattung/) no debería durar más de una hora, mientras que un programa de formación para directivos puede llevar varias horas a la semana o incluso días enteros. Dependiendo de la **carga de trabajo**, el tutor debe establecer una **agenda** y planificar cuánto contenido puede abarcarse en el tiempo disponible. Puede utilizar el **calendario** para visualizar las **fechas de** los cursos y ofrecer a sus empleados una visión clara de las fechas en el resumen mensual.
+Un taller sobre cómo sus empleados pueden [presentar los gastos de viaje y recibir el reembolso de los gastos]({{< relref "posts/auslagenerstattung" >}}) no debería durar más de una hora, mientras que un programa de formación para directivos puede llevar varias horas a la semana o incluso días enteros. Dependiendo de la **carga de trabajo**, el tutor debe establecer una **agenda** y planificar cuánto contenido puede abarcarse en el tiempo disponible. Puede utilizar el **calendario** para visualizar las **fechas de** los cursos y ofrecer a sus empleados una visión clara de las fechas en el resumen mensual.
 
 ## Reservar ubicación y catering
 

@@ -38,7 +38,7 @@ Outras acções de processamento de dados, como o cálculo da ordem ou a ligaç�
 
 ![SeaTable 2.1: Permissões avançadas para colunas de selecção simples e múltiplas](Advanced-column-permissions.png)
 
-As permissões de coluna introduzidas no [SeaTable 1.2](https://seatable.io/pt/seatable-release-1-2/) permitem a atribuição e controlo dos direitos de edição individuais para as colunas individuais. Com SeaTable 2.1, o menu de permissão de colunas dos dois tipos de selecção simples e selecção múltipla foi alargado por um segundo botão. Isto permite-lhe controlar quais os utilizadores que podem criar e editar opções numa coluna de selecção.
+As permissões de coluna introduzidas no [SeaTable 1.2]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}) permitem a atribuição e controlo dos direitos de edição individuais para as colunas individuais. Com SeaTable 2.1, o menu de permissão de colunas dos dois tipos de selecção simples e selecção múltipla foi alargado por um segundo botão. Isto permite-lhe controlar quais os utilizadores que podem criar e editar opções numa coluna de selecção.
 
 Basicamente, todos os utilizadores com permissões de escrita podem editar opções. Os proprietários e administradores de bases podem agora restringir esta permissão. O direito de edição pode ser restrito a _ninguém_, _administradores_ ou _certos utilizadores_. No cenário _Ninguém_, nem mesmo os próprios administradores e proprietários podem criar e alterar novas opções (mas podem alterar a permissão).
 

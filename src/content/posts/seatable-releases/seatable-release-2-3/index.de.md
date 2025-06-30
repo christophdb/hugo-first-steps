@@ -20,7 +20,7 @@ Die neue Archivfunktion beseitigt diese Restriktion! Zusätzlich zu den 150.000 
 
 ![Archive function](Archive-function-1088x631.png)
 
-In Sachen Auswertungs- und Analysemöglichkeiten sind die Unterschiede zwischen aktiven und archivierten Zeilen überschaubar: Das Archiv unterstützt alle Spaltentypen. Filter und Sortierungen erlauben die schnelle Auswertung der Daten im Archiv. Und auch der Zugriff per API und durch [externe Apps](https://seatable.io/seatable-release-2-2#Externe_Apps_nur_fuer_Enterprise_Abos/?lang=auto) ist möglich. Eine Suchfunktion und die vollständige Unterstützung der Plugins ist in Entwicklung.
+In Sachen Auswertungs- und Analysemöglichkeiten sind die Unterschiede zwischen aktiven und archivierten Zeilen überschaubar: Das Archiv unterstützt alle Spaltentypen. Filter und Sortierungen erlauben die schnelle Auswertung der Daten im Archiv. Und auch der Zugriff per API und durch [externe Apps]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}) ist möglich. Eine Suchfunktion und die vollständige Unterstützung der Plugins ist in Entwicklung.
 
 Der zentrale Unterschied ist die Unterstützung der Online-Kollaboration in Echtzeit: Die aktiven Zeilen werden beim Aufruf der Tabelle vollständig in den Arbeitsspeicher geladen. Jede Änderung in einer Tabelle kann so unmittelbar an andere Benutzer übertragen werden. Anders die archivierten Daten: Beim Öffnen einer Tabelle werden nur die ersten 1.000 Zeilen aus dem Archiv geladen. Seitenweise können zusätzliche Daten abgerufen werden. Dieser Verzicht auf das vollständige Laden erlaubt die schnelle Anzeige im Webinterface, auch von Tabellen mit vielen Hunderttausend Zeilen, bedeutet aber auch den Verzicht auf Echtzeit-Kollaboration.
 
@@ -85,7 +85,7 @@ Tabellen lassen sich duplizieren, Ansichten lassen sich duplizieren und Zeilen e
 
 ### Weitere Automation: E-Mail versenden
 
-Die neue Version erweiterte die Automationsmöglichkeiten von SeaTable: Die Automation E-Mail versenden ergänzt die vier in der [Version 2.2 eingeführten Automationen](https://seatable.io/seatable-release-2-2#Automationen_nur_fuer_Enterprise_Abos/?lang=auto) _Benachrichtigung versenden_, _Zeile sperren_, _Zeile hinzufügen_ und _Zeile bearbeiten_. Der Versand der E-Mails erfolgt über ein in der Base konfiguriertes E-Mail-Konto.
+Die neue Version erweiterte die Automationsmöglichkeiten von SeaTable: Die Automation E-Mail versenden ergänzt die vier in der [Version 2.2 eingeführten Automationen]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}) _Benachrichtigung versenden_, _Zeile sperren_, _Zeile hinzufügen_ und _Zeile bearbeiten_. Der Versand der E-Mails erfolgt über ein in der Base konfiguriertes E-Mail-Konto.
 
 ### Erste Spalte unterstützt Einfachauswahlen
 

@@ -66,7 +66,7 @@ With the page design plugin, it is also possible to create a **profile** with th
 
 ## Determine the duration and agenda of the workshop
 
-A workshop on how your employees can [submit travel expenses and be reimbursed for expenses](https://seatable.io/en/auslagenerstattung/) should not take longer than an hour, whereas a management training course can take several hours a week or even whole days. Depending on the **workload**, the coach should set an **agenda** and plan how much content can be covered in the time available. You can use the **calendar** to visualize the **dates of** the courses and give your employees a clear overview of the dates in the monthly overview.
+A workshop on how your employees can [submit travel expenses and be reimbursed for expenses]({{< relref "posts/auslagenerstattung" >}}) should not take longer than an hour, whereas a management training course can take several hours a week or even whole days. Depending on the **workload**, the coach should set an **agenda** and plan how much content can be covered in the time available. You can use the **calendar** to visualize the **dates of** the courses and give your employees a clear overview of the dates in the monthly overview.
 
 ## Book location and catering
 

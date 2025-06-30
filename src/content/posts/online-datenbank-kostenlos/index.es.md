@@ -103,7 +103,7 @@ También puede utilizar [ZenBase](https://getzenbase.com/) para crear y gestiona
 
 ### SeaTable
 
-Por último, tiene la posibilidad de utilizar gratuitamente la base de datos en línea [SeaTable](https://seatable.io/es/). Se incluyen 2 GB de almacenamiento para archivos, 10.000 filas y tablas ilimitadas. Para una gama más amplia de funciones, la versión Plus cuesta a partir de 7 euros por usuario y mes. La herramienta permite diferentes vistas de los datos, como un calendario o un gráfico. Es fácil de usar y funciona en centros de datos alemanes.
+Por último, tiene la posibilidad de utilizar gratuitamente la base de datos en línea [SeaTable]({{< relref "/" >}}). Se incluyen 2 GB de almacenamiento para archivos, 10.000 filas y tablas ilimitadas. Para una gama más amplia de funciones, la versión Plus cuesta a partir de 7 euros por usuario y mes. La herramienta permite diferentes vistas de los datos, como un calendario o un gráfico. Es fácil de usar y funciona en centros de datos alemanes.
 
 ## Conclusión: Hay muchas bases de datos en línea - algunas gratuitas, otras con versión de prueba
 

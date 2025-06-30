@@ -52,7 +52,7 @@ La gestion de vos partages Base s'effectue de la même manière que leur créati
 
 Un partage existant avec un utilisateur ou un groupe peut être étendu ou limité à tout moment en modifiant l'autorisation de partage. Pour ce faire, cliquez sur l'**icône en forme de crayon** {{< seatable-icon icon="dtable-icon-rename" >}}. Un clic sur le **symbole x** permet de mettre fin à un partage ou de supprimer un lien. Toutes les modifications prennent effet immédiatement. Il n'est **pas** possible de modifier la protection par mot de passe, la date d'expiration et l'URL d'un lien existant.
 
-> Vous pouvez également obtenir un aperçu complet de tous les partages et liens vers une base sous [Bases dans la gestion d'équipe]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})), si vous êtes administrateur d'équipe.
+> Vous pouvez également obtenir un aperçu complet de tous les partages et liens vers une base sous [Bases dans la gestion d'équipe]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}), si vous êtes administrateur d'équipe.
 
 ## Partages de tableaux
 

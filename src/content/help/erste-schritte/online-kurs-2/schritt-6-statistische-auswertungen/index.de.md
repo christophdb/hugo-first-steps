@@ -35,5 +35,5 @@ Ein großer Vorteil des Statistik-Moduls in SeaTable ist die automatische Aktual
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Anleitung zum Statistik-Modul]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}))
+- [Anleitung zum Statistik-Modul]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
 - [Statistiken und Datenanalyse]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})

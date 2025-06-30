@@ -108,7 +108,7 @@ Im Internet finden Sie z**ahlreiche Social-Media-Plan-Vorlagen für die zwei bek
 
 ### Redaktionsplan mit Social-Media-Management-Tool
 
-Eine andere Option sind **Social-Media-Tools wie Hootsuite,CoSchedule oder ContentPepper**. Diese kommen direkt aus dem [Social-Media-Management](https://seatable.io/social-media-management/) und sind daher auf die Content-Planung spezialisiert. Der große Vorteil von Social-Media-Management-Tools ist, dass Sie die Beiträge mit ihnen sowohl planen und erstellen als auch direkt auf Social Media posten können. So sparen Sie sich den Aufwand für die Veröffentlichung auf den einzelnen Plattformen.
+Eine andere Option sind **Social-Media-Tools wie Hootsuite,CoSchedule oder ContentPepper**. Diese kommen direkt aus dem [Social-Media-Management]({{< relref "posts/social-media-management" >}}) und sind daher auf die Content-Planung spezialisiert. Der große Vorteil von Social-Media-Management-Tools ist, dass Sie die Beiträge mit ihnen sowohl planen und erstellen als auch direkt auf Social Media posten können. So sparen Sie sich den Aufwand für die Veröffentlichung auf den einzelnen Plattformen.
 
 ### Social-Media-Plan in SeaTable
 
@@ -118,4 +118,4 @@ Um immer das Wichtigste für sich im Blick zu haben, können Sie die Daten in Ih
 
 ## Fazit
 
-Mit einem Social-Media-Redaktionsplan schöpfen Sie das volle Potenzial Ihrer Kanäle aus. Sie sind dazu in der Lage, im Voraus zu planen und Ihr Publikum mit gezieltem Content anzusprechen. Dadurch hilft Ihnen die Erstsellung eines Contentplan bei der Umsetzung Ihrer Social-Media-Strategie. **Automatisieren Sie Ihre Abläufe**, begeistern Sie Ihre Follower und arbeiten Sie ab sofort besser im Team zusammen mit der [No-Code Lösung](https://seatable.io/) von SeaTable.
+Mit einem Social-Media-Redaktionsplan schöpfen Sie das volle Potenzial Ihrer Kanäle aus. Sie sind dazu in der Lage, im Voraus zu planen und Ihr Publikum mit gezieltem Content anzusprechen. Dadurch hilft Ihnen die Erstsellung eines Contentplan bei der Umsetzung Ihrer Social-Media-Strategie. **Automatisieren Sie Ihre Abläufe**, begeistern Sie Ihre Follower und arbeiten Sie ab sofort besser im Team zusammen mit der [No-Code Lösung]({{< relref "/" >}}) von SeaTable.

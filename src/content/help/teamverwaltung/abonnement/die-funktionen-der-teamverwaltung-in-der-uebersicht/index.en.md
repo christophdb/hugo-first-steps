@@ -23,9 +23,9 @@ This section provides an overview of your team's team members and groups. You ca
 The following articles may be of interest to you:
 
 - [Add a new team member]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
-- [Make a team member an administrator]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}}))
-- [Enable two-factor authentication for a team member]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}))
-- [Two-factor authentication for the entire team]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}))
+- [Make a team member an administrator]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}})
+- [Enable two-factor authentication for a team member]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}})
+- [Two-factor authentication for the entire team]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}})
 - [Lock or delete a team member]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 - [Changing the team name]({{< relref "help/teamverwaltung/team/aendern-des-teamnamens" >}})
 - [Groups and their members in the team management]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
@@ -37,7 +37,7 @@ Within the team management, you can see all **bases of** your team members and t
 
 The following articles may be of interest to you:
 
-- [Bases in the team management]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}))
+- [Bases in the team management]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})
 - [View all access permissions of a Base]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
 - [base sharing Allow via invitation link]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
 - [Unlock a team member again]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})

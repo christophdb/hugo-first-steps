@@ -88,6 +88,6 @@ Dem **Editor für lange Texte** begegnen Sie an vielen Stellen. Wenn Sie formati
 
 ![Editor für lange Texte in Webformularen](Long-text-editor-in-web-forms.png)
 
-Auch die **Statistiken** kennen Sie von mehreren Stellen in SeaTable: vom [Statistik-Modul]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})) in der Base sowie von [individuellen Seiten in Universellen Apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). Mit einer überarbeiteten Diagramm-Bibliothek haben wir die Statistiken nun deutlich aufgewertet und vereinheitlicht.
+Auch die **Statistiken** kennen Sie von mehreren Stellen in SeaTable: vom [Statistik-Modul]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) in der Base sowie von [individuellen Seiten in Universellen Apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). Mit einer überarbeiteten Diagramm-Bibliothek haben wir die Statistiken nun deutlich aufgewertet und vereinheitlicht.
 
 Früher konnten Sie Zeilen, die Sie in den [Big-Data-Speicher]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) verschoben hatten, nicht über Snapshots wiederherstellen. Um unerwünschtem Datenverlust vorzubeugen, gibt es nun die Option, bei der [Wiederherstellung von Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) auch den Big-Data-Speicher der damaligen Version wiederherzustellen.

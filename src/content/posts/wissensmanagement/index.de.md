@@ -75,7 +75,7 @@ Daraus ergibt sich eine Art Leitfaden, an dem Sie sich für die Erarbeitung eine
 - **Wissenserwerb:** Wissen von externen Experten hinzukaufen, um Wissenslücken zu schließen.
 - **Wissensverteilung:** Offener Zugang zu und aktives Teilen von vorhandenem Wissen.
 
-Für die Wissensverteilung kommt eine Vielzahl bekannter Methoden in Frage, zum Beispiel [Workshops]({{< relref "posts/workshop-planen" >}}), Lessons Learned, [Teammeetings](https://seatable.io/in-4-schritten-zu-effizienteren-teammeetings/), Mentoring, [Onboarding](https://seatable.io/onboarding/) oder interne Newsletter.
+Für die Wissensverteilung kommt eine Vielzahl bekannter Methoden in Frage, zum Beispiel [Workshops]({{< relref "posts/workshop-planen" >}}), Lessons Learned, [Teammeetings]({{< relref "posts/in-4-schritten-zu-effizienteren-teammeetings" >}}), Mentoring, [Onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}) oder interne Newsletter.
 
 ![Um Wissensmanagement zu betreiben, ist es wichtig, dass alle Mitarbeiter auf dem gleichen Stand sind und aktiv Informationsaustausch betreiben.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 

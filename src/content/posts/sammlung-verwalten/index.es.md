@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Sus **colecciones** pueden **gestionarse** de forma óptima mediante programas y aplicaciones digitales. No importa si la colección consiste en objetos físicos o digitales. Entre los coleccionables más populares se encuentran monedas, sellos, zapatos, obras de arte, juguetes, cromos, fichas no fungibles (NFT), [libros](https://seatable.io/es/buecher-katalogisieren/), películas, música (en CD, discos) y mucho más. Cuando la pasión de coleccionista se apodera de uno, el mayor reto suele ser llevar la cuenta de todo. Aquí es donde entran en juego los programas que le permiten gestionar su colección, en su PC o con una aplicación.
+Sus **colecciones** pueden **gestionarse** de forma óptima mediante programas y aplicaciones digitales. No importa si la colección consiste en objetos físicos o digitales. Entre los coleccionables más populares se encuentran monedas, sellos, zapatos, obras de arte, juguetes, cromos, fichas no fungibles (NFT), [libros]({{< relref "posts/buecher-katalogisieren" >}}), películas, música (en CD, discos) y mucho más. Cuando la pasión de coleccionista se apodera de uno, el mayor reto suele ser llevar la cuenta de todo. Aquí es donde entran en juego los programas que le permiten gestionar su colección, en su PC o con una aplicación.
 
 ![Gestionar la recogida de todos los sellos a través de una herramienta digital.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
 
@@ -54,7 +54,7 @@ Gestionar colección © monticellllo / Adobe Stock
 
 ### Data Crow - Freeware para la gestión de los medios de comunicación
 
-El software [Data Crow](https://www.datacrow.net/) es especialmente adecuado para gestionar colecciones compuestas por medios como [libros](https://seatable.io/es/buecher-katalogisieren/), música e imágenes. Aquí puede crear varias colecciones y cargar datos en formato AVI, DIVX, XVID, MP3, MP4, OGG, JPG, SVG y PNG. Data Crow puede encontrar más información en línea sobre los elementos de su colección, por ejemplo, para películas a través del sitio web de clasificación IMDb. Tiene la opción de compartir la colección con amigos y familiares y registrar préstamos. Data Crow es un software de código abierto y, por tanto, está disponible gratuitamente para Windows y OS.
+El software [Data Crow](https://www.datacrow.net/) es especialmente adecuado para gestionar colecciones compuestas por medios como [libros]({{< relref "posts/buecher-katalogisieren" >}}), música e imágenes. Aquí puede crear varias colecciones y cargar datos en formato AVI, DIVX, XVID, MP3, MP4, OGG, JPG, SVG y PNG. Data Crow puede encontrar más información en línea sobre los elementos de su colección, por ejemplo, para películas a través del sitio web de clasificación IMDb. Tiene la opción de compartir la colección con amigos y familiares y registrar préstamos. Data Crow es un software de código abierto y, por tanto, está disponible gratuitamente para Windows y OS.
 
 ### GCstar - software gratuito de recogida
 

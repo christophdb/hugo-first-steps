@@ -111,7 +111,7 @@ Existe uma vasta gama de ferramentas e software que pode utilizar para a gestão
 
 ### Qual é o melhor sistema de gestão de dados?
 
-A escolha do software de gestão de dados correto depende dos requisitos específicos que tem para o acesso, armazenamento, segurança, integração e análise de dados. Pode decidir se pretende armazenar e analisar os seus dados nos seus próprios servidores ([On-Premises]({{< relref "pages/product/seatable-server" >}})), numa nuvem ou numa combinação híbrida.
+A escolha do software de gestão de dados correto depende dos requisitos específicos que tem para o acesso, armazenamento, segurança, integração e análise de dados. Pode decidir se pretende armazenar e analisar os seus dados nos seus próprios servidores ([On-Premises]({{< relref "pages/product/seatable-server" >}}), numa nuvem ou numa combinação híbrida.
 
 Uma tendência que pode ser observada é a utilização crescente de soluções de gestão de dados baseadas na nuvem. Uma plataforma de gestão de dados baseada na nuvem permite-lhe armazenar dados de forma segura e processá-los de forma eficiente sem ter de investir em infra-estruturas dispendiosas.
 

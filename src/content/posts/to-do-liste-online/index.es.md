@@ -77,7 +77,7 @@ Puedes ordenar las tareas individuales, fijar una fecha límite y marcarlas. Tam
 
 ### Projoodle: Una lista de tareas basada en Doodle
 
-El principal objetivo de [Projoodle](https://www.projoodle.com/de) es facilitar la colaboración con amigos. De forma similar al envío de un [enlace Doodle](https://seatable.io/es/umfrage-erstellen/) para citas, la gestión de tareas también debería funcionar sin necesidad de iniciar sesión. El proyecto Projoodle se creó con este objetivo en mente.
+El principal objetivo de [Projoodle](https://www.projoodle.com/de) es facilitar la colaboración con amigos. De forma similar al envío de un [enlace Doodle]({{< relref "posts/umfrage-erstellen" >}}) para citas, la gestión de tareas también debería funcionar sin necesidad de iniciar sesión. El proyecto Projoodle se creó con este objetivo en mente.
 
 Con Projoodle, dispones de una aplicación gratuita para listas de tareas fáciles de crear, compartir y gestionar. Otra característica es la vista de tablero Kanban, que permite agrupar las tareas claramente por estado. Sin embargo, las opciones para ordenar y programar tareas son escasas.
 

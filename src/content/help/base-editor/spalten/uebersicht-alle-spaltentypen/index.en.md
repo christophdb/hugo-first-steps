@@ -104,7 +104,7 @@ If you need more detailed information about the email column, take a look at thi
 
 Symbol: {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
-URL columns interpret the entered information as a **resource** in the local network or on the Internet and allow it to be called up directly by clicking. Since entries in this column type are not validated, an Internet address (e.g. https://seatable.io) or an IP address (e.g. 192.168.178.1) can be stored in a cell.
+URL columns interpret the entered information as a **resource** in the local network or on the Internet and allow it to be called up directly by clicking. Since entries in this column type are not validated, an Internet address (e.g. https://seatable.com) or an IP address (e.g. 192.168.178.1) can be stored in a cell.
 
 [More about the URL column]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 

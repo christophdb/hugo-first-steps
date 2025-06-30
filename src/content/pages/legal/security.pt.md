@@ -104,4 +104,4 @@ A bug bounty program is currently under construction. It is expected to launch i
 
 Privacy is an invaluable asset and we want to do our utmost to protect it. We therefore do not use any non-essential cookies and refrain from using any trackers.
 
-We attach great importance to making transparent how we collect, use, and treat your data when you use our website and SeaTable Cloud. Details can be found in the [Privacy Policy](({{< relref "pages/legal/data-privacy" >}}).
+We attach great importance to making transparent how we collect, use, and treat your data when you use our website and SeaTable Cloud. Details can be found in the [Privacy Policy]({{< relref "pages/legal/data-privacy" >}}).

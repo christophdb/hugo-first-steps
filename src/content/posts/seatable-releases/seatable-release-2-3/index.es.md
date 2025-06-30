@@ -20,7 +20,7 @@ La nueva función de archivo elimina esta restricción. Además de las 150.000 f
 
 ![Función de archivo](Archive-function-1088x631.png)
 
-En cuanto a las opciones de evaluación y análisis, las diferencias entre las filas activas y las archivadas son manejables: el archivo admite todos los tipos de columnas. Los filtros y la clasificación permiten evaluar rápidamente los datos del archivo. Y también es posible el acceso a través de la API y de [aplicaciones externas](https://seatable.io/es/seatable-release-2-2#Externe_Apps_nur_fuer_Enterprise_Abos/?lang=auto). Se está desarrollando una función de búsqueda y un soporte completo de plug-ins.
+En cuanto a las opciones de evaluación y análisis, las diferencias entre las filas activas y las archivadas son manejables: el archivo admite todos los tipos de columnas. Los filtros y la clasificación permiten evaluar rápidamente los datos del archivo. Y también es posible el acceso a través de la API y de [aplicaciones externas]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}). Se está desarrollando una función de búsqueda y un soporte completo de plug-ins.
 
 La diferencia central es el apoyo a la colaboración en línea en tiempo real: las filas activas se cargan completamente en la memoria de trabajo cuando se llama a la tabla. Así, cada cambio en una tabla puede transmitirse inmediatamente a otros usuarios. Los datos archivados son diferentes: Cuando se abre una tabla, sólo se cargan las primeras 1.000 filas desde el archivo. Los datos adicionales se pueden recuperar página por página. Esta renuncia a la carga completa permite una visualización rápida en la interfaz web, incluso de tablas con muchos cientos de miles de filas, pero también supone renunciar a la colaboración en tiempo real.
 
@@ -85,7 +85,7 @@ Las tablas se pueden duplicar, las vistas se pueden duplicar y las filas tambié
 
 ### Más automatización: Enviar correo electrónico
 
-La nueva versión amplía las opciones de automatización de SeaTable: la automatización Enviar correo electrónico complementa las cuatro [automatizaciones introducidas en la versión 2.2](https://seatable.io/es/seatable-release-2-2#Automationen_nur_fuer_Enterprise_Abos/?lang=auto): _Enviar notificación_, _Bloquear fila_, _Añadir fila_ y _Editar_ fila. Los correos electrónicos se envían a través de una cuenta de correo electrónico configurada en Base.
+La nueva versión amplía las opciones de automatización de SeaTable: la automatización Enviar correo electrónico complementa las cuatro [automatizaciones introducidas en la versión 2.2]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}): _Enviar notificación_, _Bloquear fila_, _Añadir fila_ y _Editar_ fila. Los correos electrónicos se envían a través de una cuenta de correo electrónico configurada en Base.
 
 ### La primera columna admite selecciones simples
 

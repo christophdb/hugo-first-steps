@@ -149,6 +149,6 @@ Tout bien considéré, vous devez veiller à ce que ...
 
 ## Conclusion sur le plan de contenu
 
-Lors de l'élaboration d'un [plan marketing](https://seatable.io/fr/marketingplan-vorlage/), un plan de contenu clair est nécessaire pour garder une vue d'ensemble sur les contenus prévus, les délais, les tâches et leur statut. Ainsi, les contributions peuvent être planifiées et réalisées avec succès en équipe.
+Lors de l'élaboration d'un [plan marketing]({{< relref "templates/marketing/content-calendar" >}}), un plan de contenu clair est nécessaire pour garder une vue d'ensemble sur les contenus prévus, les délais, les tâches et leur statut. Ainsi, les contributions peuvent être planifiées et réalisées avec succès en équipe.
 
 Si nous avons éveillé votre intérêt pour SeaTable, [inscrivez-vous gratuitement]({{< relref "pages/registration" >}}) dans notre nuage et commencez à travailler directement avec le modèle de plan de contenu.

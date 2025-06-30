@@ -104,7 +104,7 @@ You can also use [ZenBase](https://getzenbase.com/) to create and manage online 
 
 ### SeaTable
 
-Lastly, you have the option of using the [SeaTable](https://seatable.io/en/) online database free of charge. Included are 2 GB of storage for files, 10,000 rows and unlimited tables. For a wider range of functions, the Plus version starts at €7 per user per month. The tool allows different views on the data, such as a calendar or a chart. It is easy to use and is operated in German data centres.
+Lastly, you have the option of using the [SeaTable]({{< relref "/" >}}) online database free of charge. Included are 2 GB of storage for files, 10,000 rows and unlimited tables. For a wider range of functions, the Plus version starts at €7 per user per month. The tool allows different views on the data, such as a calendar or a chart. It is easy to use and is operated in German data centres.
 
 ## Conclusion: There are many online databases - some free of charge, some with test version
 

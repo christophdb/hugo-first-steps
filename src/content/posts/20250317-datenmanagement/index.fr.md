@@ -111,7 +111,7 @@ Il existe une multitude d'outils et de logiciels que vous pouvez utiliser pour l
 
 ### Quel est le meilleur système de gestion des données ?
 
-Le choix d'un logiciel de gestion des données approprié dépend des exigences spécifiques que vous avez en matière d'accès, de stockage, de sécurité, d'intégration et d'analyse des données. Vous pouvez décider de stocker et d'analyser vos données sur vos propres serveurs ([sur site]({{< relref "pages/product/seatable-server" >}})), dans un nuage ou dans un mélange hybride.
+Le choix d'un logiciel de gestion des données approprié dépend des exigences spécifiques que vous avez en matière d'accès, de stockage, de sécurité, d'intégration et d'analyse des données. Vous pouvez décider de stocker et d'analyser vos données sur vos propres serveurs ([sur site]({{< relref "pages/product/seatable-server" >}}), dans un nuage ou dans un mélange hybride.
 
 La tendance observée est l'utilisation croissante de solutions de gestion des données basées sur le cloud. Une plateforme de gestion des données basée sur le cloud vous permet de stocker des données en toute sécurité et de les traiter efficacement sans devoir investir dans une infrastructure coûteuse.
 

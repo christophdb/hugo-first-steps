@@ -104,7 +104,7 @@ Mithilfe von [ZenBase](https://getzenbase.com/) können Sie ebenfalls Online-Dat
 
 ### SeaTable
 
-Zuletzt haben Sie die Möglichkeit, die Online-Datenbank [SeaTable](https://seatable.io/) kostenlos zu verwenden. Inbegriffen sind 2 GB Speicher für Dateien, 10.000 Zeilen und unlimitierte Tabellen. Für einen größeren Funktionsumfang startet die Plus-Version bei 7 € pro User pro Monat. Das Tool ermöglicht verschiedene Ansichten auf die Daten, wie einen Kalender oder ein Diagramm. Es ist einfach zu bedienen und wird in deutschen Rechenzentren betrieben.
+Zuletzt haben Sie die Möglichkeit, die Online-Datenbank [SeaTable]({{< relref "/" >}}) kostenlos zu verwenden. Inbegriffen sind 2 GB Speicher für Dateien, 10.000 Zeilen und unlimitierte Tabellen. Für einen größeren Funktionsumfang startet die Plus-Version bei 7 € pro User pro Monat. Das Tool ermöglicht verschiedene Ansichten auf die Daten, wie einen Kalender oder ein Diagramm. Es ist einfach zu bedienen und wird in deutschen Rechenzentren betrieben.
 
 ## Fazit: Online-Datenbanken gibt es viele – teils kostenlos, teils mit Testversion
 

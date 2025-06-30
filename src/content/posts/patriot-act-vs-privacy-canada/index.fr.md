@@ -69,7 +69,7 @@ En outre, SeaTable propose une variante auto-hébergée qui vous permet d'instal
 
 Vous souhaitez saisir des données de manière structurée, effectuer des tâches de manière efficace et développer des processus performants - sans avoir à vous soucier de la sécurité de vos données ? Alors, laissez-vous convaincre et [inscrivez-vous ici]({{< relref "pages/registration" >}}) pour un **abonnement gratuit à SeaTable**, qui vous permettra de bénéficier de nombreuses [fonctions]({{< relref "pages/prices" >}}) utiles. L'abonnement est **entièrement gratuit** et constitue une occasion idéale pour tester SeaTable sans engagement.
 
-Pas encore convaincu ? Pour plus d'informations sur SeaTable, consultez le [site web](https://seatable.io/fr/).
+Pas encore convaincu ? Pour plus d'informations sur SeaTable, consultez le [site web]({{< relref "/" >}}).
 
 {{< warning headline="Seafile" text="Si vous recherchez également une alternative sécurisée pour l'échange et le stockage de fichiers (par exemple Google Drive ou Microsoft OneDrive), vous pourriez également installer la solution de synchronisation et de partage de fichiers [Seafile](https://www.seafile.com/en/home/) sur vos propres serveurs." />}}
 

@@ -23,9 +23,9 @@ Esta sección ofrece una visión general de los miembros y grupos de su equipo. 
 Los siguientes artículos pueden ser de su interés:
 
 - [Añadir un nuevo miembro del equipo]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
-- [Convertir a un miembro del equipo en administrador]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}}))
-- [Activar la autenticación de dos factores para un miembro del equipo]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}))
-- [Autenticación de dos factores para todo el equipo]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}))
+- [Convertir a un miembro del equipo en administrador]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}})
+- [Activar la autenticación de dos factores para un miembro del equipo]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}})
+- [Autenticación de dos factores para todo el equipo]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}})
 - [Bloquear o eliminar a un miembro del equipo]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 - [Cambiar el nombre del equipo]({{< relref "help/teamverwaltung/team/aendern-des-teamnamens" >}})
 - [Grupos y sus miembros en la administración del equipo]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
@@ -37,7 +37,7 @@ Dentro de la administración del equipo, puede ver todas las **bases de** los mi
 
 Los siguientes artículos pueden ser de su interés:
 
-- [Bases en la gestión de equipos]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}))
+- [Bases en la gestión de equipos]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})
 - [Ver todos los permisos de acceso de una base]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
 - [Permitir compartir las bases mediante un enlace de invitación]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
 - [Desbloquear de nuevo a un miembro del equipo]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})

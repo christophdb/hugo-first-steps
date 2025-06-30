@@ -111,7 +111,7 @@ El plugin más conocido para un WordPress multilingüe es, con párrafo, el plug
 WPML es, con mucho, el plugin de traducción más popular para WordPress.
 
 Sin duda, todos estos son buenos plugins, pero realmente queríamos una traducción automática del contenido de nuestro sitio web para ahorrarnos esta tediosa tarea.  
-Para que te hagas una idea: en el sitio web seatable.io puedes encontrar actualmente más de [90 artículos de blog](https://seatable.io/es/blog/) y más de 50 páginas. En total, el sitio web tiene algo menos de un millón de palabras. Desde luego, no es exagerado suponer que la traducción de una página o un artículo a otras cuatro lenguas lleva al menos una hora cada una. Eso supondría al menos 140 horas o casi 18 días laborables. Weglot nos ha salvado todo este tiempo. 
+Para que te hagas una idea: en el sitio web seatable.io puedes encontrar actualmente más de [90 artículos de blog]({{< relref "posts" >}}) y más de 50 páginas. En total, el sitio web tiene algo menos de un millón de palabras. Desde luego, no es exagerado suponer que la traducción de una página o un artículo a otras cuatro lenguas lleva al menos una hora cada una. Eso supondría al menos 140 horas o casi 18 días laborables. Weglot nos ha salvado todo este tiempo. 
 
 ### Hay otro plugin de WordPress que ofrece traducciones automáticas
 

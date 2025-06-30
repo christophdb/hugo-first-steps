@@ -26,7 +26,7 @@ Als **Team-Administrator** können Sie über die **Teamverwaltung** neue Teammit
 
 {{< warning  type="warning" headline="Achtung" >}}
 
-Sie können **kein Teammitglied** hinzufügen, das **mit derselben E-Mail-Adresse** bereits ein anderes Konto bei SeaTable erstellt hat. Damit Sie ein Konto mit dieser E-Mail-Adresse anlegen können, muss dieser Nutzer alle seine Daten sichern (z. B. als [DTABLE-Datei exportieren]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})) und sein bisheriges Konto löschen. Mehr dazu erfahren Sie im Artikel [Kann man zwei SeaTable Konten zusammenführen?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}}))
+Sie können **kein Teammitglied** hinzufügen, das **mit derselben E-Mail-Adresse** bereits ein anderes Konto bei SeaTable erstellt hat. Damit Sie ein Konto mit dieser E-Mail-Adresse anlegen können, muss dieser Nutzer alle seine Daten sichern (z. B. als [DTABLE-Datei exportieren]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) und sein bisheriges Konto löschen. Mehr dazu erfahren Sie im Artikel [Kann man zwei SeaTable Konten zusammenführen?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}})
 
 {{< /warning >}}
 

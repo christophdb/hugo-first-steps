@@ -65,7 +65,7 @@ Com o plugin de conceção de páginas, também é possível criar um **perfil**
 
 ## Determinar a duração e a ordem de trabalhos do seminário
 
-Um seminário sobre a forma como os seus empregados podem [apresentar as despesas de deslocação e ser reembolsados](https://seatable.io/pt/auslagenerstattung/) não deve demorar mais de uma hora, ao passo que um programa de formação em gestão pode demorar várias horas por semana ou mesmo dias inteiros. Em função do **volume de trabalho**, o formador deve estabelecer uma **agenda** e planear a quantidade de conteúdos que podem ser abordados no tempo disponível. Pode utilizar o **calendário** para visualizar as **datas dos** cursos e dar aos seus empregados uma visão clara das datas na visão geral mensal.
+Um seminário sobre a forma como os seus empregados podem [apresentar as despesas de deslocação e ser reembolsados]({{< relref "posts/auslagenerstattung" >}}) não deve demorar mais de uma hora, ao passo que um programa de formação em gestão pode demorar várias horas por semana ou mesmo dias inteiros. Em função do **volume de trabalho**, o formador deve estabelecer uma **agenda** e planear a quantidade de conteúdos que podem ser abordados no tempo disponível. Pode utilizar o **calendário** para visualizar as **datas dos** cursos e dar aos seus empregados uma visão clara das datas na visão geral mensal.
 
 ## Reservar o local e o catering
 

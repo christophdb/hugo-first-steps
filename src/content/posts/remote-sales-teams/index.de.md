@@ -11,7 +11,7 @@ seo:
     description: ''
 ---
 
-Die meisten Unternehmen ergreifen Maßnahmen, die Arbeit von zu Hause aus zu ermöglichen und organisieren neben Homeoffice Möglichkeiten auch Online-Seminare oder sonstige Veranstaltungen für Ihre Mitarbeiter. Doch: Langsam vermissen Sie selbst den nervigsten Kollegen und der Plausch an der Kaffeemaschine fehlt Ihnen auch. Mit einem fast ausschließlich remote arbeitenden Team ist es manchmal schwierig, up-to-date zu bleiben und die [Produktivität leidet](https://seatable.io/homeoffice-tipps/) auch nicht selten darunter. Zum Glück gibt es da eine Methode, die Ihnen helfen könnte, Ihre Produktivität remote zurückzugewinnen. Mit täglichen Stand-ups verbessern Sie die Produktivität Ihres Teams im Handumdrehen.
+Die meisten Unternehmen ergreifen Maßnahmen, die Arbeit von zu Hause aus zu ermöglichen und organisieren neben Homeoffice Möglichkeiten auch Online-Seminare oder sonstige Veranstaltungen für Ihre Mitarbeiter. Doch: Langsam vermissen Sie selbst den nervigsten Kollegen und der Plausch an der Kaffeemaschine fehlt Ihnen auch. Mit einem fast ausschließlich remote arbeitenden Team ist es manchmal schwierig, up-to-date zu bleiben und die [Produktivität leidet]({{< relref "posts/homeoffice-tipps" >}}) auch nicht selten darunter. Zum Glück gibt es da eine Methode, die Ihnen helfen könnte, Ihre Produktivität remote zurückzugewinnen. Mit täglichen Stand-ups verbessern Sie die Produktivität Ihres Teams im Handumdrehen.
 
 ![Produktivität leidet unter der mangelnden Aufrechterhaltung der informellen Kommunikation](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 

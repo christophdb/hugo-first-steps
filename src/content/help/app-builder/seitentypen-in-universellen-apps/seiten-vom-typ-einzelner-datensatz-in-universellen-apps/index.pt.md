@@ -94,7 +94,7 @@ Com a autorização adequada, os utilizadores da aplicação podem editar os reg
 
 ## Gerar código QR para entradas individuais
 
-Também encontrará um **gerador de código QR** na barra de ferramentas. O código QR contém a ligação para a entrada atualmente apresentada. Anexado a um objeto ou dispositivo, pode digitalizar o código QR utilizando um tablet ou smartphone e aceder a todos os dados na aplicação sem qualquer introdução no teclado. Isto torna [a gestão do inventário]({{< relref "templates/operations/inventory-list" >}})), por exemplo, ainda mais fácil.
+Também encontrará um **gerador de código QR** na barra de ferramentas. O código QR contém a ligação para a entrada atualmente apresentada. Anexado a um objeto ou dispositivo, pode digitalizar o código QR utilizando um tablet ou smartphone e aceder a todos os dados na aplicação sem qualquer introdução no teclado. Isto torna [a gestão do inventário]({{< relref "templates/operations/inventory-list" >}}), por exemplo, ainda mais fácil.
 
 ![Mais opções de design na página de registo único no SeaTable 5.1](images/SingleRecordPage.png)
 

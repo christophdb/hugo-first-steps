@@ -77,7 +77,7 @@ Il est possible de trier les différentes tâches à faire, de leur attribuer un
 
 ### Projoodle (en anglais) : Une liste de choses à faire inspirée de Doodle
 
-[Projoodle](https://www.projoodle.com/de) souhaite avant tout faciliter la collaboration avec des amis. À l'instar de l'envoi d'un [lien Doodle](https://seatable.io/fr/umfrage-erstellen/) pour les rendez-vous, la gestion des tâches doit également fonctionner sans connexion. C'est avec cet objectif en tête que le projet Projoodle a vu le jour.
+[Projoodle](https://www.projoodle.com/de) souhaite avant tout faciliter la collaboration avec des amis. À l'instar de l'envoi d'un [lien Doodle]({{< relref "posts/umfrage-erstellen" >}}) pour les rendez-vous, la gestion des tâches doit également fonctionner sans connexion. C'est avec cet objectif en tête que le projet Projoodle a vu le jour.
 
 Avec Projoodle, vous disposez d'une application gratuite pour les listes de choses à faire, qui sont faciles à créer, à partager et à gérer. Une autre caractéristique est l'affichage du tableau Kanban, qui vous permet de regrouper les tâches par statut. Les possibilités de trier et de planifier les tâches sont toutefois peu nombreuses.
 

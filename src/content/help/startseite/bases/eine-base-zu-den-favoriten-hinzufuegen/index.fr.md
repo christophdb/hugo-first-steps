@@ -36,4 +36,4 @@ Les bases que vous avez ajoutées à vos **favoris** apparaissent toujours **en 
 - Validé pour moi
 - Groupe 1
 - Groupe 2
-- ... (tous vos groupes suivent dans un [ordre que]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}}) vous [pouvez modifier]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}}))
+- ... (tous vos groupes suivent dans un [ordre que]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}}) vous [pouvez modifier]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}})

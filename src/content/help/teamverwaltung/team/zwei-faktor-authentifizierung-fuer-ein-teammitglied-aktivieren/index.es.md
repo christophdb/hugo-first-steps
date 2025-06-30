@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren'
 ---
 
-Como administrador de equipo, puede activar la autenticación de doble factor para todo el equipo, así como para una cuenta individual. Encontrará todos los detalles sobre la autenticación [de dos factores en el artículo Aplicar la autenticación de dos factores a todo el equipo]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}})).
+Como administrador de equipo, puede activar la autenticación de doble factor para todo el equipo, así como para una cuenta individual. Encontrará todos los detalles sobre la autenticación [de dos factores en el artículo Aplicar la autenticación de dos factores a todo el equipo]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}).
 
 A continuación sólo se describe cómo activar esta protección adicional en un miembro individual del equipo.
 

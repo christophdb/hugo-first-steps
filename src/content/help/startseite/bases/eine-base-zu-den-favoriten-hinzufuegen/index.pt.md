@@ -36,4 +36,4 @@ As bases que adicionou aos seus **favoritos** aparecem sempre no **topo da** sua
 - Libertado para mim
 - Grupo 1
 - Grupo 2
-- ... (todos os seus grupos seguem em qualquer [ordem]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}}) que [possa alterar]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}}))
+- ... (todos os seus grupos seguem em qualquer [ordem]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}}) que [possa alterar]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}})

@@ -13,7 +13,7 @@ Estamos satisfeitos por estar interessado no SeaTable! O registo de uma nova con
 
 ## O registo
 
-1. Abrir o [sítio Web SeaTable](https://seatable.io/pt/).
+1. Abrir o [sítio Web SeaTable]({{< relref "/" >}}).
 2. Clique em **Registar** no canto superior direito.
 3. Introduza o seu **endereço de correio electrónico** e confirme.
 

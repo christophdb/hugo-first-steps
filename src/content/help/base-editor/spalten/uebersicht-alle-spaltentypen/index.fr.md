@@ -104,7 +104,7 @@ Si vous avez besoin d'informations plus détaillées sur la colonne des e-mails,
 
 symbole : {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
-Les colonnes URL interprètent les informations saisies comme une **ressource** du réseau local ou d'Internet et permettent un appel direct par un clic. Comme les entrées dans ce type de colonne ne sont pas validées, il est possible d'enregistrer dans une cellule une adresse Internet (par ex. https://seatable.io) ou une adresse IP (par ex. 192.168.178.1).
+Les colonnes URL interprètent les informations saisies comme une **ressource** du réseau local ou d'Internet et permettent un appel direct par un clic. Comme les entrées dans ce type de colonne ne sont pas validées, il est possible d'enregistrer dans une cellule une adresse Internet (par ex. https://seatable.com) ou une adresse IP (par ex. 192.168.178.1).
 
 [En savoir plus sur la colonne URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 

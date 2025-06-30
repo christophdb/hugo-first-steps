@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-A maioria das empresas toma medidas para permitir o trabalho a partir de casa e organiza seminários em linha ou outros eventos para os seus empregados, para além das opções de escritório em casa. Mas: começa-se a sentir a falta até do colega mais chato e a conversa na máquina de café também desaparece. Com uma equipa que trabalha quase exclusivamente à distância, é por vezes difícil manter-se atualizado e, consequentemente, [a produtividade](https://seatable.io/pt/homeoffice-tipps/) é muitas vezes [prejudicada](https://seatable.io/pt/homeoffice-tipps/). Felizmente, existe um método que o pode ajudar a recuperar a sua produtividade à distância. Com stand-ups diários, pode melhorar a produtividade da sua equipa num instante.
+A maioria das empresas toma medidas para permitir o trabalho a partir de casa e organiza seminários em linha ou outros eventos para os seus empregados, para além das opções de escritório em casa. Mas: começa-se a sentir a falta até do colega mais chato e a conversa na máquina de café também desaparece. Com uma equipa que trabalha quase exclusivamente à distância, é por vezes difícil manter-se atualizado e, consequentemente, [a produtividade]({{< relref "posts/homeoffice-tipps" >}}) é muitas vezes [prejudicada]({{< relref "posts/homeoffice-tipps" >}}). Felizmente, existe um método que o pode ajudar a recuperar a sua produtividade à distância. Com stand-ups diários, pode melhorar a produtividade da sua equipa num instante.
 
 ![A produtividade sofre com a incapacidade de manter a comunicação informal](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 

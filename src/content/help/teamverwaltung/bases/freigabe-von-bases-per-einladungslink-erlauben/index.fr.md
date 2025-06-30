@@ -12,7 +12,7 @@ Un [lien d'invitation]({{< relref "help/startseite/freigaben/einladungs-link-erk
 
 Pour savoir comment créer un lien d'invitation, [cliquez ici]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}). Comme le lien peut être copié et retransmis à volonté, il est judicieux de définir un mot de passe et une date d'expiration comme **mesures de protection**.
 
-Dans la **gestion d'équipe**, vous pouvez [voir]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})) une [liste de tous les liens d'invitation pour une base]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})). De plus, en tant qu'**administrateur d'équipe**, vous pouvez (dé)activer la fonction du lien d'invitation pour les autres membres de l'équipe. Ainsi, vous empêchez ou permettez que les membres de l'équipe puissent eux-mêmes partager des bases avec des tiers externes.
+Dans la **gestion d'équipe**, vous pouvez [voir]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}) une [liste de tous les liens d'invitation pour une base]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}). De plus, en tant qu'**administrateur d'équipe**, vous pouvez (dé)activer la fonction du lien d'invitation pour les autres membres de l'équipe. Ainsi, vous empêchez ou permettez que les membres de l'équipe puissent eux-mêmes partager des bases avec des tiers externes.
 
 ## Pour autoriser le partage de bases via un lien d'invitation, procédez comme suit
 

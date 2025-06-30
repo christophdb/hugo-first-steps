@@ -73,6 +73,6 @@ We are crossing our fingers that the Corona pandemic will be something for the h
 
 ## More improvements
 
-This release note only covers the most important improvements in greater detail. The Changelog contains the complete list of modifications. Check it out! Among the noteworthy smaller improvements are time triggers for Python scripts (see the [release note of SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}})) and the removal of performance issues when handling a larger number of rows in the table editor.
+This release note only covers the most important improvements in greater detail. The Changelog contains the complete list of modifications. Check it out! Among the noteworthy smaller improvements are time triggers for Python scripts (see the [release note of SeaTable 1.4]({{< relref "posts/seatable-releases/seatable-release-1-4" >}}) and the removal of performance issues when handling a larger number of rows in the table editor.
 
 Register your team account now and use SeaTable permanently free-of-charge! For feedback and comments, we are looking forward to hearing from you in the  [SeaTable Forum](https://forum.seatable.com/).

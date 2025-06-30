@@ -149,6 +149,6 @@ En definitiva, debe asegurarse de que ...
 
 ## Conclusión sobre el plan de contenidos
 
-Cuando se crea un [plan de marketing](https://seatable.io/es/marketingplan-vorlage/), se necesita un plan de contenidos claro para hacer un seguimiento de los contenidos previstos, los plazos, las tareas y su estado. Esto te permitirá planificar y realizar con éxito las aportaciones en equipo.
+Cuando se crea un [plan de marketing]({{< relref "templates/marketing/content-calendar" >}}), se necesita un plan de contenidos claro para hacer un seguimiento de los contenidos previstos, los plazos, las tareas y su estado. Esto te permitirá planificar y realizar con éxito las aportaciones en equipo.
 
 Si hemos despertado su interés por SeaTable, [regístrese gratis]({{< relref "pages/registration" >}}) en nuestra nube y empiece a trabajar directamente con la plantilla del plan de contenidos.

@@ -13,7 +13,7 @@ We are glad that you are interested in SeaTable! Registering for a new SeaTable 
 
 ## The registration
 
-1. Open the [SeaTable website](https://seatable.io/en/).
+1. Open the [SeaTable website]({{< relref "/" >}}).
 2. Click **Register** in the upper right corner.
 3. Enter your **email address** and confirm.
 

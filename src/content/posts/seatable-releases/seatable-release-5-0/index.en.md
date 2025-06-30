@@ -88,6 +88,6 @@ You will encounter the **editor for long texts** in many places. If you fill in 
 
 ![Editor for long texts in web forms](Long-text-editor-in-web-forms.png)
 
-You are also familiar with the **statistics** from several places in SeaTable: from the [statistics module]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})) in the base and from [custom pages in universal apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). We have now significantly upgraded and standardized the statistics with a revised diagram library.
+You are also familiar with the **statistics** from several places in SeaTable: from the [statistics module]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) in the base and from [custom pages in universal apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). We have now significantly upgraded and standardized the statistics with a revised diagram library.
 
 Previously, you could not restore rows that you had moved to the [Big Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) storage using snapshots. To prevent unwanted data loss, there is now an option to also restore the big data storage of the previous version when [restoring snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).

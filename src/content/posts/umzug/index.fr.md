@@ -19,7 +19,7 @@ Commencez votre planification de déménagement par un brainstorming. Quelles so
 
 Une liste de contrôle peut aider à garder une vue d'ensemble de toutes les tâches.
 
-Vous trouverez également une check-list pour votre déménagement dans notre [modèle](https://seatable.io/fr/umzug/#Online-Planer_fuer_Ihren_Umzug).
+Vous trouverez également une check-list pour votre déménagement dans notre [modèle]({{< relref "posts/umzug" >}}).
 
 ## Avant le déménagement
 
@@ -94,7 +94,7 @@ C'est à vous de décider du niveau de soutien que vous souhaitez obtenir d'une 
 
 ### Pour les économes : organiser soi-même son déménagement
 
-Si vous souhaitez faire des économies, le **déménagement par vos propres moyens** est la solution idéale. En revanche, le travail d'organisation sera plus important. En effet, tout ce qui est compris dans les prestations de l'entreprise de déménagement est désormais entre vos mains. Mais avec une bonne planification, rien ne s'oppose à ce projet. Un [plan de déménagement](https://seatable.io/fr/umzug/#Online-Planer_fuer_Ihren_Umzug) vous aidera à franchir toutes les étapes.
+Si vous souhaitez faire des économies, le **déménagement par vos propres moyens** est la solution idéale. En revanche, le travail d'organisation sera plus important. En effet, tout ce qui est compris dans les prestations de l'entreprise de déménagement est désormais entre vos mains. Mais avec une bonne planification, rien ne s'oppose à ce projet. Un [plan de déménagement]({{< relref "posts/umzug" >}}) vous aidera à franchir toutes les étapes.
 
 ![Les coûts que vous devez supporter pendant votre déménagement.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 

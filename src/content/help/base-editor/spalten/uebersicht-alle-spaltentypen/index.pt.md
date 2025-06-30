@@ -104,7 +104,7 @@ Se precisar de informações mais detalhadas sobre a coluna de correio electrón
 
 Símbolo: {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
-As colunas URL interpretam as informações introduzidas como um **recurso** na rede local ou na Internet e permitem o acesso directo através de um clique. Uma vez que as entradas neste tipo de coluna não são validadas, pode ser armazenado numa célula um endereço Internet (por exemplo, https://seatable.io) ou um endereço IP (por exemplo, 192.168.178.1).
+As colunas URL interpretam as informações introduzidas como um **recurso** na rede local ou na Internet e permitem o acesso directo através de um clique. Uma vez que as entradas neste tipo de coluna não são validadas, pode ser armazenado numa célula um endereço Internet (por exemplo, https://seatable.com) ou um endereço IP (por exemplo, 192.168.178.1).
 
 [Mais informações sobre a coluna URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 

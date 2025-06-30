@@ -94,7 +94,7 @@ With the appropriate authorization, app users can edit the individual data recor
 
 ## Generate QR code for individual entries
 
-You will also find a **QR code generator** in the toolbar. The QR code contains the link to the currently displayed entry. Attached to an object or device, you can scan the QR code using a tablet or smartphone and call up all the data in the app without any keyboard input. This makes [inventory management]({{< relref "templates/operations/inventory-list" >}})) even easier, for example.
+You will also find a **QR code generator** in the toolbar. The QR code contains the link to the currently displayed entry. Attached to an object or device, you can scan the QR code using a tablet or smartphone and call up all the data in the app without any keyboard input. This makes [inventory management]({{< relref "templates/operations/inventory-list" >}}) even easier, for example.
 
 ![More design options on single record page in SeaTable 5.1](images/SingleRecordPage.png)
 

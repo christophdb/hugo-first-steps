@@ -108,7 +108,7 @@ Vous trouverez sur Internet**de nombreux modèles de plans pour les médias soci
 
 ### Plan éditorial avec outil de gestion des médias sociaux
 
-Une autre option consiste à **utiliser des outils de médias sociaux tels que Hootsuite,CoSchedule ou ContentPepper**. Ceux-ci sont directement issus de la [gestion des médias sociaux](https://seatable.io/fr/social-media-management/) et sont donc spécialisés dans la planification de contenu. Le grand avantage des outils de gestion des médias sociaux est qu'ils vous permettent à la fois de planifier et de créer des contributions et de les publier directement sur les médias sociaux. Vous vous épargnez ainsi le travail de publication sur les différentes plates-formes.
+Une autre option consiste à **utiliser des outils de médias sociaux tels que Hootsuite,CoSchedule ou ContentPepper**. Ceux-ci sont directement issus de la [gestion des médias sociaux]({{< relref "posts/social-media-management" >}}) et sont donc spécialisés dans la planification de contenu. Le grand avantage des outils de gestion des médias sociaux est qu'ils vous permettent à la fois de planifier et de créer des contributions et de les publier directement sur les médias sociaux. Vous vous épargnez ainsi le travail de publication sur les différentes plates-formes.
 
 ### Plan des médias sociaux dans SeaTable
 
@@ -118,4 +118,4 @@ Pour avoir toujours l'essentiel sous les yeux, vous pouvez **structurer et affic
 
 ## Conclusion
 
-Un plan éditorial pour les médias sociaux vous permet d'exploiter pleinement le potentiel de vos canaux. Vous êtes en mesure de planifier à l'avance et de vous adresser à votre public avec un contenu ciblé. Ainsi, la création initiale d'un plan de contenu vous aidera à mettre en œuvre votre stratégie de médias sociaux. **Automatisez vos processus**, enthousiasmez vos followers et travaillez désormais mieux en équipe grâce à la [solution No-Code](https://seatable.io/fr/) de SeaTable.
+Un plan éditorial pour les médias sociaux vous permet d'exploiter pleinement le potentiel de vos canaux. Vous êtes en mesure de planifier à l'avance et de vous adresser à votre public avec un contenu ciblé. Ainsi, la création initiale d'un plan de contenu vous aidera à mettre en œuvre votre stratégie de médias sociaux. **Automatisez vos processus**, enthousiasmez vos followers et travaillez désormais mieux en équipe grâce à la [solution No-Code]({{< relref "/" >}}) de SeaTable.

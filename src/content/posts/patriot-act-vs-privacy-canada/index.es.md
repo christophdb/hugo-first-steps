@@ -69,7 +69,7 @@ Además, SeaTable ofrece una variante autoalojada con la que puede instalar y ut
 
 ¿Desea capturar datos de forma estructurada, completar tareas de forma eficaz y desarrollar procesos potentes, sin tener que preocuparse por la seguridad de sus datos? Entonces compruébelo usted mismo y [regístrese aquí]({{< relref "pages/registration" >}}) para obtener una **suscripción gratuita** a SeaTable, que ya le ofrece numerosas [funciones]({{< relref "pages/prices" >}}) útiles. La suscripción es **completamente gratuita para** usted y una oportunidad perfecta para probar SeaTable sin compromiso.
 
-¿Aún no está convencido? Encontrará más información sobre SeaTable en su [sitio web](https://seatable.io/es/).
+¿Aún no está convencido? Encontrará más información sobre SeaTable en su [sitio web]({{< relref "/" >}}).
 
 {{< warning headline="Seafile" text="Además, si buscas una alternativa segura para compartir y almacenar archivos (por ejemplo, Google Drive o Microsoft OneDrive), también puedes instalar la solución de sincronización y uso compartido de archivos [Seafile](https://www.seafile.com/en/home/) en tus propios servidores." />}}
 

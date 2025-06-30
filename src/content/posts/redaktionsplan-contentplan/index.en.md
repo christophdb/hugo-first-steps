@@ -150,6 +150,6 @@ All in all, you should make sure that ...
 
 ## Conclusion on the content plan
 
-When you create a [marketing plan](https://seatable.io/en/marketingplan-vorlage/), you need a clear content plan to keep track of the planned content, deadlines, tasks and their status. This allows you to successfully plan and implement contributions as a team.
+When you create a [marketing plan]({{< relref "templates/marketing/content-calendar" >}}), you need a clear content plan to keep track of the planned content, deadlines, tasks and their status. This allows you to successfully plan and implement contributions as a team.
 
 If we have piqued your interest in SeaTable, [register for free]({{< relref "pages/registration" >}}) in our cloud and start working directly with the content plan template.

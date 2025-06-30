@@ -21,7 +21,7 @@ The new archive function removes this restriction! In addition to the 150,000 ro
 
 ![Archive function](Archive-function-1088x631.png)
 
-In terms of evaluation and analysis options, the differences between active and archived rows are manageable: The archive supports all column types. Filters and sorting allow quick evaluation of the data in the archive. And access via API and through [external apps](https://seatable.io/en/seatable-release-2-2#Externe_Apps_nur_fuer_Enterprise_Abos/?lang=auto) is also possible. A search function and full plug-in support is under development.
+In terms of evaluation and analysis options, the differences between active and archived rows are manageable: The archive supports all column types. Filters and sorting allow quick evaluation of the data in the archive. And access via API and through [external apps]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}) is also possible. A search function and full plug-in support is under development.
 
 The central difference is the support of online collaboration in real time: The active rows are completely loaded into the working memory when the table is called up. Every change in a table can thus be transmitted immediately to other users. Archived data is different: When a table is opened, only the first 1,000 rows are loaded from the archive. Additional data can be retrieved page by page. This renunciation of complete loading allows fast display in the web interface, even of tables with many hundreds of thousands rows, but also means renouncing real-time collaboration.
 
@@ -86,7 +86,7 @@ Tables can be duplicated, views can be duplicated and rows as well. With version
 
 ### Further automation: Send e-mail
 
-The new version extended the automation possibilities of SeaTable: The automation Send email complements the four [automations introduced in version 2.2](https://seatable.io/en/seatable-release-2-2#Automationen_nur_fuer_Enterprise_Abos/?lang=auto) _Send notification_, _Lockrow_ , _Addrow_ and _Editrow_ . Emails are sent via an email account configured in Base.
+The new version extended the automation possibilities of SeaTable: The automation Send email complements the four [automations introduced in version 2.2]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}) _Send notification_, _Lockrow_ , _Addrow_ and _Editrow_ . Emails are sent via an email account configured in Base.
 
 ### First column supports single selections
 

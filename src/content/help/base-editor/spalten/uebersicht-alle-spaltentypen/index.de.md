@@ -104,7 +104,7 @@ Falls Sie detailliertere Informationen zur E-Mail-Spalte benötigen, werfen Sie 
 
 Symbol: {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
-URL-Spalten interpretieren die eingegebene Information als eine **Ressource** im lokalen Netzwerk bzw. im Internet und erlauben den direkten Aufruf per Klick. Da Eingaben in diesem Spaltentyp nicht validiert werden, können in einer Zelle eine Internetadresse (z.B. https://seatable.io) oder eine IP-Adressen (z.B. 192.168.178.1) gespeichert werden.
+URL-Spalten interpretieren die eingegebene Information als eine **Ressource** im lokalen Netzwerk bzw. im Internet und erlauben den direkten Aufruf per Klick. Da Eingaben in diesem Spaltentyp nicht validiert werden, können in einer Zelle eine Internetadresse (z.B. https://seatable.com) oder eine IP-Adressen (z.B. 192.168.178.1) gespeichert werden.
 
 [Mehr zur URL-Spalte]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 

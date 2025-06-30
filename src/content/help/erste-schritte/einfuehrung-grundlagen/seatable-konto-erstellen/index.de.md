@@ -13,7 +13,7 @@ Es freut uns, dass Sie sich für SeaTable interessieren! Die Registrierung für 
 
 ## Die Registrierung
 
-1. Öffnen Sie die [SeaTable Webseite](https://seatable.io).
+1. Öffnen Sie die [SeaTable Webseite]({{< relref "/" >}}).
 2. Klicken Sie rechts oben auf **Registrieren**.
 3. Geben Sie Ihre **E-Mail-Adresse** ein und bestätigen Sie.
 
