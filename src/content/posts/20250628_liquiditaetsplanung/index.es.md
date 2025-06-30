@@ -52,11 +52,11 @@ Un plan de liquidez bien pensado no es ciencia espacial: con un sistema claro, p
                      
 1. **Determine el periodo de planificación:** En primer lugar, determine el periodo para el que desea planificar su liquidez. Para empezar, se recomienda una planificación mensual. Para las grandes empresas, también puede ser útil una planificación semanal o trimestral, en función de lo dinámicos que sean sus flujos de tesorería.
 
-2. Registre el **saldo inicial:** Anote el estado actual de sus fondos líquidos, es decir, el importe en sus cuentas bancarias y en la caja. Este valor es el punto de partida de tu planificación.
+2. **Registre el inicial:** Anote el estado actual de sus fondos líquidos, es decir, el importe en sus cuentas bancarias y en la caja. Este valor es el punto de partida de tu planificación.
 
-3. registre los depósitos:** Recoja todos los ingresos previstos: Ventas, intereses, devoluciones de impuestos, subvenciones, posibles pagos de préstamos o incluso depósitos privados. Es importante ser realista y contar sólo con el dinero que realmente esperas recibir.
+3. **Registre los depósitos:** Recoja todos los ingresos previstos: Ventas, intereses, devoluciones de impuestos, subvenciones, posibles pagos de préstamos o incluso depósitos privados. Es importante ser realista y contar sólo con el dinero que realmente esperas recibir.
 
-4. Registrar los desembolsos:** Registrar todos los gastos previstos: Esto incluye gastos de compra, salarios, alquiler, seguros, marketing, impuestos, amortización de préstamos e inversiones. También debes tener en cuenta los gastos irregulares o estacionales.
+4. **Registrar los desembolsos:** Registrar todos los gastos previstos: Esto incluye gastos de compra, salarios, alquiler, seguros, marketing, impuestos, amortización de préstamos e inversiones. También debes tener en cuenta los gastos irregulares o estacionales.
 
 5 **Calcular la liquidez neta:** Deduce los pagos de los ingresos. Así obtendrás la liquidez neta del periodo en cuestión. Un valor positivo significa un excedente de liquidez; un valor negativo indica un posible cuello de botella.
 
@@ -78,7 +78,7 @@ Fórmula: *Ratio de liquidez 1 = (efectivo y equivalentes de efectivo / pasivo c
 
 Un valor igual o superior al 100 % significa que la empresa podría liquidar todo el pasivo corriente únicamente con efectivo y saldos bancarios. En la práctica, sin embargo, este valor suele ser inferior porque las empresas no tienen todo su capital en cuenta.
 
-### Liquidez de 2º grado (quick ratio)
+### 2º grado de liquidez (quick ratio)
 
 Además de la tesorería y los equivalentes de tesorería, aquí también se tienen en cuenta los créditos a corto plazo, es decir, los pagos pendientes de los clientes. Esto proporciona una visión más realista de la solvencia a corto plazo.
 
@@ -86,7 +86,7 @@ Fórmula: *Ratio de liquidez 2 = (tesorería y equivalentes + créditos corrient
 
 Un valor superior al 100 % es una buena señal en este caso, ya que muestra que el efectivo y los equivalentes de efectivo y los derechos de cobro pendientes juntos son suficientes para cubrir todos los pasivos corrientes.
 
-### Liquidez de 3er grado (ratio corriente)
+### 3er grado de liquidez (ratio corriente)
 Con el coeficiente de liquidez 3, se incluyen todos sus activos corrientes, es decir, no sólo el efectivo y los equivalentes al efectivo y las cuentas por cobrar, sino también las existencias, como las existencias.
 
 Fórmula: *Ratio de liquidez 3 = (activo circulante / pasivo circulante) × 100*.
@@ -128,7 +128,7 @@ Por tanto, una planificación sana de la liquidez significa encontrar un términ
 
 ## Cómo la planificación de la liquidez le permite superar con seguridad las crisis económicas
 
-Especialmente en tiempos de dificultades económicas, se hace evidente lo crucial que es una sólida planificación de la liquidez. Las empresas que de repente se encuentran en una situación especial -ya sea debido a **cambios en el mercado**, **cuellos de botella en las entregas**, una **situación de disminución de pedidos** o incluso una **crisis económica general**- suelen enfrentarse al problema de que sus ingresos disminuyen drásticamente mientras que los gastos corrientes se mantienen constantes o incluso aumentan.
+Especialmente en tiempos de dificultades económicas, se hace evidente lo crucial que es una sólida planificación de la liquidez. Las empresas que de repente se encuentran en una situación especial - ya sea debido a **cambios en el mercado**, **cuellos de botella en las entregas**, una **situación de disminución de pedidos** o incluso una **crisis económica general**- suelen enfrentarse al problema de que sus ingresos disminuyen drásticamente mientras que los gastos corrientes se mantienen constantes o incluso aumentan.
 
 El peor escenario posible es la insolvencia. Si las facturas ya no pueden pagarse a tiempo, las empresas entran rápidamente en una espiral descendente que puede llevarlas a la insolvencia. Una planificación previsora y coherente de la liquidez es esencial para sobrevivir en esas fases. Es útil planificar y supervisar periódicamente los flujos de tesorería para reconocer los cuellos de botella en una fase temprana. Si se sabe cuándo se avecinan dificultades financieras, se pueden tomar medidas a tiempo, por ejemplo ajustando las condiciones de pago, asegurando la financiación o posponiendo inversiones de forma selectiva.
 
