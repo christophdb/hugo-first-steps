@@ -52,7 +52,7 @@ Die Verwaltung Ihrer Base-Freigaben erfolgt wie deren Erstellung über den Freig
 
 Eine bestehende Freigabe an einen Benutzer oder eine Gruppe kann jederzeit über eine Veränderung der Freigabeberechtigung erweitert bzw. eingeschränkt werden. Klicken Sie dazu auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}. Per Klick auf das **x-Symbol** lässt sich eine Freigabe beenden bzw. ein Link löschen. Alle Änderungen sind sofort wirksam. Für einen bestehenden Link lassen sich der Passwortschutz, das Ablaufdatum und die URL **nicht** ändern.
 
-> Einen umfassenden Überblick über alle Freigaben und Links zu einer Base können Sie sich auch unter [Bases in der Teamverwaltung](https://seatable.io/docs/teamverwaltung/bases-in-der-teamverwaltung/) verschaffen, sofern Sie Team-Administrator sind.
+> Einen umfassenden Überblick über alle Freigaben und Links zu einer Base können Sie sich auch unter [Bases in der Teamverwaltung]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})) verschaffen, sofern Sie Team-Administrator sind.
 
 ## Freigaben für Tabellen
 

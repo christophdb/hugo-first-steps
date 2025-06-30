@@ -23,9 +23,9 @@ Cette section donne un aperçu des membres de l'équipe et des groupes de votre 
 Les articles suivants pourraient vous intéresser :
 
 - [Ajouter un nouveau membre de l'équipe]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
-- [Faire d'un membre de l'équipe un administrateur](https://seatable.io/fr/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
-- [Activer l'authentification à deux facteurs pour un membre de l'équipe](https://seatable.io/fr/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)
-- [Authentification à deux facteurs pour toute l'équipe](https://seatable.io/fr/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)
+- [Faire d'un membre de l'équipe un administrateur]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}}))
+- [Activer l'authentification à deux facteurs pour un membre de l'équipe]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}))
+- [Authentification à deux facteurs pour toute l'équipe]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}))
 - [Bloquer ou supprimer un membre de l'équipe]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 - [Changer le nom de l'équipe](https://seatable.io/fr/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Groupes et leurs membres dans la gestion d'équipe](https://seatable.io/fr/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
@@ -37,7 +37,7 @@ Dans la gestion d'équipe, vous pouvez voir toutes les **bases** des membres de 
 
 Les articles suivants pourraient vous intéresser :
 
-- [Bases dans la gestion d'équipe](https://seatable.io/fr/docs/teamverwaltung/bases-in-der-teamverwaltung/)
+- [Bases dans la gestion d'équipe]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}))
 - [Consulter tous les droits d'accès d'une base](https://seatable.io/fr/docs/teamverwaltung/alle-zugriffsberechtigungen-einer-base-einsehen/)
 - [Autoriser le partage des bases par lien d'invitation](https://seatable.io/fr/docs/teamverwaltung/freigabe-von-bases-per-einladungslink-erlauben/)
 - [Débloquer un membre de l'équipe](https://seatable.io/fr/docs/teamverwaltung/ein-teammitglied-entsperren/)

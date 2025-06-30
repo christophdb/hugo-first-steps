@@ -26,7 +26,7 @@ As a **team administrator**, you can create new team members via the **team admi
 
 {{< warning  headline="Attention" >}}
 
-You **cannot** add a **team member** who has already created another SeaTable account **with the same e-mail address**. In order to create an account with this email address, this user must back up all their data (e.g. [export]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) as a [DTABLE file]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})) and delete their previous account. You can find out more about this in the article [Can two SeaTable accounts be merged?](https://seatable.io/en/docs/haeufig-gestellte-fragen/kann-man-zwei-seatable-konten-zusammenfuehren/)
+You **cannot** add a **team member** who has already created another SeaTable account **with the same e-mail address**. In order to create an account with this email address, this user must back up all their data (e.g. [export]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) as a [DTABLE file]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})) and delete their previous account. You can find out more about this in the article [Can two SeaTable accounts be merged?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}}))
 
 {{< /warning >}}
 

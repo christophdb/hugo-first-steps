@@ -35,6 +35,6 @@ Other sources include our [YouTube channel](https://www.youtube.com/seatable), w
 
 ## Questions?
 
-If you have questions or simply need more information about certain functions and integrations: Browse through our [help section](https://seatable.io/en/docs/)! With over 350 articles, you're sure to find the answer to your questions.
+If you have questions or simply need more information about certain functions and integrations: Browse through our [help section]({{< relref "help" >}})! With over 350 articles, you're sure to find the answer to your questions.
 
 Alternatively, you can visit our [community forum](https://forum.seatable.com) and ask a question. Usually every question will be answered within a few days.

@@ -38,4 +38,8 @@ Grundsätzlich sollte jede App für die Zwei-Faktor-Authentifizierung funktionie
 
 Unser persönlicher Favorit ist [2FA Authenticator](https://2fas.com/).
 
-{{< warning  headline="Hinweis"  text="Wenn Sie nur eine Zwei-Faktor-Authentifizierung **für ein einzelnes Teammitglied** hinzufügen wollen, dann lesen Sie den Artikel [Zwei-Faktor-Authentifizierung für ein Teammitglied aktivieren](https://seatable.io/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)." />}}
+{{< warning  headline="Hinweis" >}}
+
+Wenn Sie nur eine Zwei-Faktor-Authentifizierung **für ein einzelnes Teammitglied** hinzufügen wollen, dann lesen Sie den Artikel [Zwei-Faktor-Authentifizierung für ein Teammitglied aktivieren]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}).
+
+{{< /warning >}}

@@ -26,7 +26,7 @@ url: '/ru/pomoshch/ein-neues-teammitglied-hinzufuegen'
 
 {{< warning  headline="Внимание" >}}
 
-Вы **не можете** добавить **члена команды**, который уже создал другую учетную запись SeaTable с тем **же адресом электронной почты**. Чтобы создать учетную запись с таким адресом электронной почты, этот пользователь должен создать резервную копию всех своих данных (например, [экспортировать]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) их в [файл DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})) и удалить свою предыдущую учетную запись. Подробнее об этом можно прочитать в статье [Можно ли объединить две учетные записи SeaTable?](https://seatable.io/ru/docs/haeufig-gestellte-fragen/kann-man-zwei-seatable-konten-zusammenfuehren/)
+Вы **не можете** добавить **члена команды**, который уже создал другую учетную запись SeaTable с тем **же адресом электронной почты**. Чтобы создать учетную запись с таким адресом электронной почты, этот пользователь должен создать резервную копию всех своих данных (например, [экспортировать]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) их в [файл DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})) и удалить свою предыдущую учетную запись. Подробнее об этом можно прочитать в статье [Можно ли объединить две учетные записи SeaTable?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}}))
 
 {{< /warning >}}
 

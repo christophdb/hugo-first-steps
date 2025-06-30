@@ -26,7 +26,7 @@ En tant qu'**administrateur d'équipe**, vous pouvez créer de nouveaux membres 
 
 {{< warning  headline="Attention" >}}
 
-Vous ne pouvez pas ajouter **un membre de l'équipe** qui a déjà créé un autre compte sur SeaTable **avec la même adresse e-mail**. Pour que vous puissiez créer un compte avec cette adresse e-mail, cet utilisateur doit sauvegarder toutes ses données (par exemple [, les exporter]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) dans un [fichier DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})) et supprimer son compte précédent. Pour en savoir plus, consultez l'article [Peut-on fusionner deux comptes SeaTable ?](https://seatable.io/fr/docs/haeufig-gestellte-fragen/kann-man-zwei-seatable-konten-zusammenfuehren/)
+Vous ne pouvez pas ajouter **un membre de l'équipe** qui a déjà créé un autre compte sur SeaTable **avec la même adresse e-mail**. Pour que vous puissiez créer un compte avec cette adresse e-mail, cet utilisateur doit sauvegarder toutes ses données (par exemple [, les exporter]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) dans un [fichier DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})) et supprimer son compte précédent. Pour en savoir plus, consultez l'article [Peut-on fusionner deux comptes SeaTable ?]({{< relref "help/haeufig-gestellte-fragen/probleme/kann-man-zwei-seatable-konten-zusammenfuehren" >}}))
 
 {{< /warning >}}
 

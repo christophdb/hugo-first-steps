@@ -36,6 +36,6 @@ Weitere Quellen sind unser [YouTube-Kanal](https://www.youtube.com/seatable), au
 
 ## Fragen?
 
-Wenn Sie Fragen haben oder einfach mehr Informationen zu bestimmten Funktionen und Integrationen benötigen: Stöbern Sie in unserem [Hilfebereich](https://seatable.io/docs/)! In über 350 Artikeln werden Sie bestimmt die Antwort auf Ihre Fragen finden.
+Wenn Sie Fragen haben oder einfach mehr Informationen zu bestimmten Funktionen und Integrationen benötigen: Stöbern Sie in unserem [Hilfebereich]({{< relref "help" >}})! In über 350 Artikeln werden Sie bestimmt die Antwort auf Ihre Fragen finden.
 
 Alternativ können Sie auch unser [Community-Forum](https://forum.seatable.com) besuchen und eine Frage stellen. Normalerweise wird jede Frage innerhalb von wenigen Tagen beantwortet.

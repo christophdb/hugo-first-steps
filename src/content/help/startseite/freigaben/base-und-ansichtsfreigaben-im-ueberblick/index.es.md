@@ -52,7 +52,7 @@ La administración de sus recursos compartidos básicos se realiza del mismo mod
 
 Una autorización existente para un usuario o grupo puede ampliarse o restringirse en cualquier momento modificando la autorización de autorización. Para ello, haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}. Haga clic en el **símbolo x** para finalizar una acción o eliminar un enlace. Todos los cambios tienen efecto inmediato. La protección por contraseña, la fecha de caducidad y la URL **no pueden** modificarse para un enlace existente.
 
-> También puede obtener una visión general de todas las versiones y enlaces a una base en [Bases en la administración](https://seatable.io/es/docs/teamverwaltung/bases-in-der-teamverwaltung/) del equipo, siempre que sea administrador del equipo.
+> También puede obtener una visión general de todas las versiones y enlaces a una base en [Bases en la administración]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})) del equipo, siempre que sea administrador del equipo.
 
 ## Liberaciones para mesas
 

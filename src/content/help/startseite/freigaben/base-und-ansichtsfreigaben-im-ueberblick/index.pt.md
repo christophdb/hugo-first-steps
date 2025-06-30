@@ -52,7 +52,7 @@ A administração das suas acções de base é feita da mesma forma que a sua cr
 
 Uma libertação existente para um utilizador ou grupo pode ser prolongada ou restringida em qualquer altura através da alteração da autorização de libertação. Para o fazer, clicar no **ícone do lápis** {{< seatable-icon icon="dtable-icon-rename" >}}. Clicar no **símbolo x** para terminar uma acção ou apagar uma ligação. Todas as alterações entram em vigor imediatamente. A protecção da palavra-passe, data de expiração e URL **não podem** ser alterados para uma ligação existente.
 
-> Pode também obter uma visão global de todos os lançamentos e ligações a uma base sob [Bases na administração da equipa](https://seatable.io/pt/docs/teamverwaltung/bases-in-der-teamverwaltung/), desde que seja um administrador de equipa.
+> Pode também obter uma visão global de todos os lançamentos e ligações a uma base sob [Bases na administração da equipa]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})), desde que seja um administrador de equipa.
 
 ## Lançamentos para tabelas
 

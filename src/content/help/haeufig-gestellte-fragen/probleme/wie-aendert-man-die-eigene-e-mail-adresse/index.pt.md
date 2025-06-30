@@ -15,7 +15,7 @@ url: '/pt/ajuda/wie-aendert-man-die-eigene-e-mail-adresse'
 Se é o **administrador** ou a única pessoa da sua equipa, alterar o seu endereço de correio electrónico é muito fácil. **Exporte** todas as suas bases existentes como **ficheiros DTABLE**, crie uma **nova conta com um novo endereço de** correio electrónico, importe todas as bases para a nova conta e elimine a sua **conta antiga**. Aqui encontrará os artigos de ajuda adequados:
 
 - [Exportar uma base como um ficheiro DTABLE]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
-- [Inscrição](https://seatable.io/pt/docs/erste-schritte/seatable-konto-erstellen/)
+- [Inscrição]({{< relref "help/erste-schritte/einfuehrung-grundlagen/seatable-konto-erstellen" >}})
 - [Criação de uma Base a partir de um ficheiro DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Eliminar a equipa completa]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
@@ -24,7 +24,7 @@ Se é o **administrador** ou a única pessoa da sua equipa, alterar o seu endere
 Este processo também é muito simples. Primeiro, crie **outro membro da equipa com o novo endereço de correio electrónico**. Ao mesmo tempo, dê a este membro da equipa direitos de administrador. Em seguida, crie um **grupo**, adicione o novo membro da equipa a esse grupo e copie todas as suas **bases** existentes para esse grupo. Agora, altere a conta e **elimine o utilizador original**. Os seguintes artigos de ajuda ajudá-lo-ão nesta tarefa:
 
 - [Adicionar um novo membro da equipa]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
-- [Fazer de um membro da equipa um administrador](https://seatable.io/pt/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
+- [Fazer de um membro da equipa um administrador]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}})
 - [Criar um novo grupo]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 - [Copiar uma Base para um Grupo]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
 - [Atribuição de permissões num grupo]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}})

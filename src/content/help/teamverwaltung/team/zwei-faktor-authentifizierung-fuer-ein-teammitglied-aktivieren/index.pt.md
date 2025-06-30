@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren'
 ---
 
-Como administrador de equipa, pode activar a autenticação de dois factores para toda a equipa, bem como para uma conta individual. Todos os detalhes sobre a autenticação de dois factores podem ser encontrados no artigo [Enforçar a autenticação de dois factores para toda a equipa](https://seatable.io/pt/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/).
+Como administrador de equipa, pode activar a autenticação de dois factores para toda a equipa, bem como para uma conta individual. Todos os detalhes sobre a autenticação de dois factores podem ser encontrados no artigo [Enforçar a autenticação de dois factores para toda a equipa]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}})).
 
 O que se segue descreve apenas como activar esta protecção adicional sobre um membro individual da equipa.
 

@@ -23,9 +23,9 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 Следующие статьи могут представлять для вас интерес:
 
 - [Добавить нового члена команды]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
-- [Сделать члена команды администратором](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
-- [Включите двухфакторную аутентификацию для члена команды](https://seatable.io/ru/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)
-- [Двухфакторная аутентификация для всей команды](https://seatable.io/ru/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)
+- [Сделать члена команды администратором]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}}))
+- [Включите двухфакторную аутентификацию для члена команды]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}))
+- [Двухфакторная аутентификация для всей команды]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}))
 - [Блокировка или удаление члена команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 - [Изменение названия команды](https://seatable.io/ru/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Группы и их члены в командной администрации](https://seatable.io/ru/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
@@ -37,7 +37,7 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Базы в управлении командой](https://seatable.io/ru/docs/teamverwaltung/bases-in-der-teamverwaltung/)
+- [Базы в управлении командой]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}))
 - [Просмотр всех разрешений доступа к базе](https://seatable.io/ru/docs/teamverwaltung/alle-zugriffsberechtigungen-einer-base-einsehen/)
 - [Разрешить обмен базами по пригласительной ссылке](https://seatable.io/ru/docs/teamverwaltung/freigabe-von-bases-per-einladungslink-erlauben/)
 - [Повторная разблокировка члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-entsperren/)

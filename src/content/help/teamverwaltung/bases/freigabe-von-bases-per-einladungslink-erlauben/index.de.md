@@ -12,7 +12,7 @@ Mit einem [Einladungslink]({{< relref "help/startseite/freigaben/einladungs-link
 
 Wie Sie einen Einladungs-Link erstellen, erfahren Sie [hier]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}). Da der Link beliebig oft kopiert und weitergeschickt werden kann, ist es sinnvoll, als **Schutzmaßnahmen** ein Passwort und ein Ablaufdatum zu setzen.
 
-In der **Teamverwaltung** können Sie eine [Liste sämtlicher Einladungslinks für eine Base einsehen](https://seatable.io/docs/teamverwaltung/bases-in-der-teamverwaltung/). Zudem können Sie als **Team-Administrator** die Funktion des Einladungslinks für andere Teammitglieder (de-)aktivieren. So verhindern oder ermöglichen Sie, dass Teammitglieder selbst Bases an externe Dritte freigeben können.
+In der **Teamverwaltung** können Sie eine [Liste sämtlicher Einladungslinks für eine Base einsehen]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})). Zudem können Sie als **Team-Administrator** die Funktion des Einladungslinks für andere Teammitglieder (de-)aktivieren. So verhindern oder ermöglichen Sie, dass Teammitglieder selbst Bases an externe Dritte freigeben können.
 
 ## So erlauben Sie die Freigabe von Bases per Einladungslink
 

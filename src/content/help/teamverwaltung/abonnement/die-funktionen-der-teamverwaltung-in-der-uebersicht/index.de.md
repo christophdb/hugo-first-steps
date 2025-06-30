@@ -23,9 +23,9 @@ Dieser Bereich gibt einen Überblick über die Teammitglieder und Gruppen Ihres 
 Folgende Artikel könnten für Sie interessant sein:
 
 - [Ein neues Teammitglied hinzufügen]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
-- [Ein Teammitglied zum Administrator machen](https://seatable.io/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
-- [Zwei-Faktor-Authentifizierung für ein Teammitglied aktivieren](https://seatable.io/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)
-- [Zwei-Faktor-Authentifizierung für das gesamte Team](https://seatable.io/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)
+- [Ein Teammitglied zum Administrator machen]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}}))
+- [Zwei-Faktor-Authentifizierung für ein Teammitglied aktivieren]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}))
+- [Zwei-Faktor-Authentifizierung für das gesamte Team]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}))
 - [Ein Teammitglied sperren oder löschen]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 - [Ändern des Teamnamens](https://seatable.io/docs/teamverwaltung/aendern-des-teamnamens/)
 - [Gruppen und ihre Mitglieder in der Teamverwaltung](https://seatable.io/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
@@ -37,7 +37,7 @@ Innerhalb der Teamverwaltung können Sie alle **Bases** Ihrer Teammitglieder seh
 
 Folgende Artikel könnten für Sie interessant sein:
 
-- [Bases in der Teamverwaltung](https://seatable.io/docs/teamverwaltung/bases-in-der-teamverwaltung/)
+- [Bases in der Teamverwaltung]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}))
 - [Alle Zugriffsberechtigungen einer Base einsehen](https://seatable.io/docs/teamverwaltung/alle-zugriffsberechtigungen-einer-base-einsehen/)
 - [Freigabe von Bases per Einladungs-Link erlauben](https://seatable.io/docs/teamverwaltung/freigabe-von-bases-per-einladungslink-erlauben/)
 - [Ein Teammitglied wieder entsperren](https://seatable.io/docs/teamverwaltung/ein-teammitglied-entsperren/)

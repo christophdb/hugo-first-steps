@@ -35,5 +35,5 @@ L'un des grands avantages du module Statistiques de SeaTable est sa mise à jour
 
 ## Article d'aide avec plus d'informations
 
-- [Instructions pour le module Statistiques](https://seatable.io/fr/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/)
-- [Statistiques et analyse des données](https://seatable.io/fr/docs/statistiken-und-datenanalyse/statistiken/)
+- [Instructions pour le module Statistiques]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}))
+- [Statistiques et analyse des données]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})

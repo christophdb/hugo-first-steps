@@ -10,7 +10,11 @@ url: '/de/hilfe/2-faktor-authentifizierung-aktivieren'
 
 Jeder SeaTable Nutzer kann die **2-Faktor-Authentifizierung (2FA)** für das eigene Benutzerkonto aktivieren. Wie das geht, erfahren Sie in diesem Artikel.
 
-{{< warning  headline="Team-Administratoren und 2-Faktor-Authentifizierung"  text="Team-Administratoren können die 2-Faktor-Authentifizierung für Ihr gesamtes Team oder für ein einzelnes Teammitglied verpflichtend machen. Wie das geht, lernen Sie in diesen Artikeln: [2FA für ein Teammitglied aktivieren](https://seatable.io/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/) und [2FA für das gesamte Team erzwingen](https://seatable.io/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)." />}}
+{{< warning  headline="Team-Administratoren und 2-Faktor-Authentifizierung" >}}
+
+Team-Administratoren können die 2-Faktor-Authentifizierung für Ihr gesamtes Team oder für ein einzelnes Teammitglied verpflichtend machen. Wie das geht, lernen Sie in diesen Artikeln: [2FA für ein Teammitglied aktivieren]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}) und [2FA für das gesamte Team erzwingen]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}}).
+
+{{< /warning >}}
 
 ## Was ist die 2-Faktor-Authentifizierung?
 
