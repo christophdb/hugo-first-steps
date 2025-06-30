@@ -22,7 +22,7 @@ Quer se trate de uma jovem empresa em fase de arranque, de uma média empresa ou
 
 O planeamento da liquidez é uma componente central da gestão financeira e é muitas vezes decisivo para determinar se uma empresa se mantém no caminho certo ou se encontra em dificuldades. O planeamento da liquidez consiste em assegurar a **solvência** de uma empresa. Em termos concretos, isto significa registar, comparar e planear sistematicamente todas as entradas e saídas de pagamentos previstas. Isto permite-lhe reconhecer os estrangulamentos financeiros numa fase inicial e iniciar contramedidas em tempo útil.
 
-{O termo liquidez deriva da palavra latina liquidus, que significa "líquido" - e é exatamente isso que significa em termos económicos. A liquidez descreve a capacidade de uma empresa (ou pessoa) para cumprir as suas obrigações financeiras a tempo e horas, ou seja, para efetuar pagamentos "com liquidez"." />}}
+{{< warning headline="Significado de liquidez" text="O termo liquidez deriva da palavra latina liquidus, que significa *líquido* - e é exatamente isso que significa em termos económicos. A liquidez descreve a capacidade de uma empresa (ou pessoa) para cumprir as suas obrigações financeiras a tempo e horas, ou seja, para efetuar pagamentos *"com liquidez*." />}}
 
 ## Vantagens do planeamento da liquidez
 
@@ -124,7 +124,7 @@ Além disso, os bancos ou os investidores podem interpretar um nível de liquide
 
 Um planeamento saudável da liquidez significa, portanto, encontrar um meio-termo inteligente: reservas suficientes para se manter sempre solvente, mas sem reservas de capital excessivas que poderiam ser melhor investidas em novos projectos, inovações ou na otimização de processos.
 
-{Para estar preparado para tempos incertos, deve constituir reservas para, pelo menos, três meses. Isto permitir-lhe-á reagir com prudência a desenvolvimentos inesperados." />}}
+{{< warning headline="Dica" text="Para estar preparado para tempos incertos, deve constituir reservas para, pelo menos, três meses. Isto permitir-lhe-á reagir com prudência a desenvolvimentos inesperados." />}}
 
 ## Como o planeamento da liquidez o ajuda a ultrapassar as crises económicas com segurança
 
@@ -144,4 +144,4 @@ Graças às fórmulas integradas, o SeaTable calcula automaticamente os seus rá
 
 Os seus dados financeiros permanecem seguros: o SeaTable cumpre as mais elevadas normas de proteção de dados (em conformidade com o RGPD) e permite um controlo de acesso granular. Quer seja na versão em nuvem ou no local, no seu centro de dados, é o utilizador que decide onde os seus dados são armazenados.
 
-Com os seus modelos flexíveis e fluxos de trabalho personalizados, o SeaTable adapta-se precisamente aos seus processos. Isto significa que tem sempre a sua liquidez sob controlo com facilidade.
+Com os seus [modelos]({{< relref "templates/">}}) flexíveis e fluxos de trabalho personalizados, o SeaTable adapta-se precisamente aos seus processos. Isto significa que tem sempre a sua liquidez sob controlo com facilidade.
