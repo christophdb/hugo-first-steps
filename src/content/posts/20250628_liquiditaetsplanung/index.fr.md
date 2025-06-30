@@ -5,7 +5,7 @@ date: 2025-06-28
 lastmod: '2025-06-28'
 url: '/fr/planification des liquidités'
 category:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Finances'
 color: '#aadbf3'
