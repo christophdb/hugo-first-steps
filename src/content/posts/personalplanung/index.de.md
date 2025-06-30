@@ -4,11 +4,12 @@ description: 'Personalplanung? Da nehme ich eine Excel-Vorlage. Kostenlos am bes
 date: 2022-07-15
 lastmod: '2022-07-27'
 author: 'cdb'
-url: '/de/personalplanung'
+url: '/de/personalplanung-draft'
 color: '#eeeeee'
 seo:
     title: 'Personalplanung ohne Excel-Vorlage'
     description: 'Die Personalplanung mit Excel-Vorlage ist kostenlos – und kompliziert. Diese Online-Tools sind praktischer.'
+draft: true
 ---
 
 Personalplanung? Da nehme ich eine Excel-Vorlage. Kostenlos am besten. Einfach aus dem Internet laden und fertig. So oder ähnlich sehen es nach wie vor viele HR-Abteilungen – was für eine optimale Planung von Personal, Schichten und Urlauben alles andere als sinnvoll ist. Denn auch wenn die Personalplanung mit Excel weit verbreitet ist, so ist sie gleichzeitig extrem umständlich und fehleranfällig. Doch wie gelingt die **Personalplanung** ohne **Excel-Vorlage**, die auch noch **kostenlos** ist?

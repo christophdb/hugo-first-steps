@@ -26,27 +26,27 @@ Personnel planning is a central component of strategic personnel policy and a ke
 
 Personnel planning is not just about managing employees, but also about a strategic orientation that guarantees long-term success. But what are the tasks and objectives of personnel planning? Let's take a closer look at examples from the various sub-areas.
 
-* Staff planning:** The first step towards successful staff planning is to take stock. Here you determine how many employees are currently working in your company, what qualifications they have and where there may be gaps.
-* Personnel requirements planning:** The aim here is to determine how many employees with which qualifications you will need in the future. Seasonal fluctuations, projects and long-term company goals play a decisive role here.
-* Staff planning:** Staff planning ensures that your employees are in the right place at the right time. An efficient duty roster that plans staff deployment is the be-all and end-all.
-* Personnel development:** Your employees are your most important asset. With targeted further training and development measures, you can promote talent, retain skilled workers in your company and secure your long-term competitiveness.
-* Recruitment:** Recruitment is all about recruiting new employees. Today, it is no longer enough to simply place a job advertisement. You have to actively search and inspire potential candidates.
-* Staff release planning:** It is not always possible to avoid staff overcapacity. Whether seasonal fluctuations, restructuring or economic crises - sometimes redundancies are unavoidable. Professional redundancy planning ensures that these processes are fair and transparent.
-* Personnel costs:** No personnel planning works without keeping an eye on costs. It is important to find a healthy balance between investing in employees and the profitability of the company.
-  
+- **Staff planning:** The first step towards successful staff planning is to take stock. Here you determine how many employees are currently working in your company, what qualifications they have and where there may be gaps.
+- **Personnel requirements planning:** The aim here is to determine how many employees with which qualifications you will need in the future. Seasonal fluctuations, projects and long-term company goals play a decisive role here.
+- **Staff planning:** Staff planning ensures that your employees are in the right place at the right time. An efficient duty roster that plans staff deployment is the be-all and end-all.
+- **Personnel development:** Your employees are your most important asset. With targeted further training and development measures, you can promote talent, retain skilled workers in your company and secure your long-term competitiveness.
+- **Recruitment:** Recruitment is all about recruiting new employees. Today, it is no longer enough to simply place a job advertisement. You have to actively search and inspire potential candidates.
+- **Staff release planning:** It is not always possible to avoid staff overcapacity. Whether seasonal fluctuations, restructuring or economic crises - sometimes redundancies are unavoidable. Professional redundancy planning ensures that these processes are fair and transparent.
+- **Personnel costs:** No personnel planning works without keeping an eye on costs. It is important to find a healthy balance between investing in employees and the profitability of the company.
+
 ## The dimensions of personnel planning
 
 There are fundamentally different models in personnel planning. Whether operational and strategic or quantitative and qualitative planning approaches - they enable companies to meet requirements and master challenges.
 
-![Strategic planning creates security](langfristige-ziele.jpg)
+![Strategic planning creates security](langfristige-ziele-personal.jpg)
 
-The difference between operational and strategic HR planning lies primarily in the time horizon and focus. Strategic HR planning is aimed at long-term goals**, usually with a planning horizon of 5 to 10 years. It is shaped by external factors such as market trends, technological developments and the competitive environment. Its task is to proactively tackle future challenges and make holistic decisions that will strengthen the company in the long term.
+The difference between operational and strategic HR planning lies primarily in the time horizon and focus. Strategic HR planning is aimed at long-term goals, usually with a planning horizon of 5 to 10 years. It is shaped by external factors such as market trends, technological developments and the competitive environment. Its task is to proactively tackle future challenges and make holistic decisions that will strengthen the company in the long term.
 
 In contrast, **operational HR planning focuses on short-term periods** of up to one year. Here, the focus is on specific individual problems and internal requirements, such as ensuring staffing for ongoing projects or reacting to bottlenecks at short notice. Operational planning requires measures that can be implemented quickly without tying up long-term resources.
 
-Quantitative and qualitative personnel planning differ in their objectives. Quantitative personnel planning is concerned with the number of employees** and attempts to strike a balance between excess capacity and staff shortages. It answers the question of whether there is enough staff to cover demand or whether recruitment or downsizing is necessary.
+Quantitative and qualitative personnel planning differ in their objectives. Quantitative personnel planning is concerned with the number of employees and attempts to strike a balance between excess capacity and staff shortages. It answers the question of whether there is enough staff to cover demand or whether recruitment or downsizing is necessary.
 
-Qualitative personnel planning, on the other hand, focuses on the skills and competencies** of employees. Its aim is to identify future know-how requirements, build them up in a targeted manner and reduce outdated knowledge where necessary. It lays the foundation for the company to remain competitive in a dynamic environment by aligning the development of the workforce with strategic goals.
+Qualitative personnel planning, on the other hand, focuses on the skills and competencies of employees. Its aim is to identify future know-how requirements, build them up in a targeted manner and reduce outdated knowledge where necessary. It lays the foundation for the company to remain competitive in a dynamic environment by aligning the development of the workforce with strategic goals.
 
 ## How to calculate your personnel requirements
 
@@ -55,9 +55,10 @@ Workforce planning is not a matter of gut feeling - it is based on clear figures
 ![Keep an eye on personnel costs](personal-berechnen.jpg)
 
 ### 1 Determining deployment requirements
+
 The first step is to calculate the resource requirements. This indicates how much work needs to be done in total and how many employees you need to complete this work. This means that you divide the total time required by the number of working hours that an employee can perform on average.
 
-*Resource requirement = total workload / working hours per employee*
+`Resource requirement = total workload / working hours per employee`
 
 {{< warning headline="Note" text="Time recording and personnel planning should go hand in hand, as precise recording of working hours forms the basis for forward-looking and effective planning. Only if you have up-to-date data on the time required can you correctly estimate the total workload." />}}
 
@@ -65,31 +66,31 @@ The first step is to calculate the resource requirements. This indicates how muc
 
 Next, you need to determine the distribution time factor in order to calculate the reserve requirement. The distribution time factor takes into account all absences such as vacation, illness or other delays in the work process. Here you add up all absences (e.g. due to illness, vacation or public holidays) and divide them by the actual working days (the actual working days without absences). The result shows what percentage of working time is lost due to absences.
 
-*Distribution time factor (%) = absences / actual working days x 100*
+`Distribution time factor (%) = absences / actual working days x 100`
 
 ### 3. calculate reserve requirement
 
 The reserve requirement ensures that enough employees are available to cope with the workload even in the event of absences. It is calculated by multiplying the deployment requirement by the distribution time factor:
 
-*Reserve requirement = deployment requirement x distribution time factor*
+`Reserve requirement = deployment requirement x distribution time factor`
 
 ### 4. calculate gross personnel requirements
 
 You now have all the important values for the gross personnel requirement. This is the sum of deployment requirements and reserve requirements. It shows how many employees are needed in total to cover the workload and the reserve for absences.
 
-*Gross personnel requirements = deployment requirements + reserve requirements
+`Gross personnel requirements = deployment requirements + reserve requirements`
 
 ### 5. calculate updated headcount
 
 In the next step, you determine the updated headcount, which shows how many employees are currently in the company after you have taken into account additions and departures. In doing so, you calculate all new additions (e.g. through hiring or returning from parental leave) and all departures (e.g. through dismissals or retirement).
 
-*Updated headcount = current headcount + fixed additions - expected departures*.
+`Updated headcount = current headcount + fixed additions - expected departures`
 
 ### 6. calculate net personnel requirements
 
 Finally, you calculate the net personnel requirement, which tells you how many employees you still need to hire or lay off in order to achieve the ideal headcount.
 
-*Net personnel requirements = gross personnel requirements - updated headcount*.
+`Net personnel requirements = gross personnel requirements - updated headcount`
 
 {{< warning headline="Note" text="A positive result means that you need to hire additional employees (staff shortage). A negative value means that you can reduce staff (overstaffing)." />}}
 
@@ -125,15 +126,15 @@ Temporary staff or freelancers can also be brought in for quick and flexible sup
 
 High staff turnover can be costly for companies and jeopardize team cohesion, productivity and long-term success. This is particularly problematic when it comes to personnel planning, as frequent changes make long-term planning more difficult and require additional resources for recruitment and training. However, there are numerous measures that companies can take to avoid staff turnover. Below you will find some valuable approaches that help to strengthen employee retention and promote long-term, stable cooperation.
 
-* Pay for success:** Reward good performance to encourage recognition and motivation.
-** **Responsibilities:** Clear allocation of roles creates security and orientation.
-* Pleasant working environment:** A well-designed workplace increases well-being and productivity.
-* Scheduling flexibility:** Flexible working hours or locations enable a better work-life balance.
-** **Skills development:** Provide development opportunities to develop the potential of your employees.
-* Team building:** Strengthen cohesion through joint activities and an open corporate culture.
-* Personal responsibility:** Hand over responsibility and trust your employees to make decisions independently.
-* Positive feedback:** Regular recognition and praise for good work motivate and strengthen loyalty.
-  
+- **Pay for success:** Reward good performance to encourage recognition and motivation.
+- **Responsibilities:** Clear allocation of roles creates security and orientation.
+- **Pleasant working environment:** A well-designed workplace increases well-being and productivity.
+- **Scheduling flexibility:** Flexible working hours or locations enable a better work-life balance.
+- **Skills development:** Provide development opportunities to develop the potential of your employees.
+- **Team building:** Strengthen cohesion through joint activities and an open corporate culture.
+- **Personal responsibility:** Hand over responsibility and trust your employees to make decisions independently.
+- **Positive feedback:** Regular recognition and praise for good work motivate and strengthen loyalty.
+
 ## Tips for successful personnel planning in your company
 
 ![Digital tools make planning easier](personal-planen.jpg)
@@ -156,7 +157,7 @@ At first glance, Excel is a solid solution for calculating personnel requirement
 
 {{< template id="e3d0d9a9139c46c58bf0" >}}
 
-If you want to optimize your workforce planning, choosing the right tool is a very important point. Traditional workforce planning tools can lack flexibility, especially when it comes to dynamic customization. In workforce planning, software like SeaTable is therefore an excellent way to combine complex formula calculations with smart data management. For example, you can use a free template for your personnel planning and design it flexibly according to your own requirements. With the integrated No Code App Builder, you can also make your personnel planning in an app even more intuitive and clear.   
+If you want to optimize your workforce planning, choosing the right tool is a very important point. Traditional workforce planning tools can lack flexibility, especially when it comes to dynamic customization. In workforce planning, software like SeaTable is therefore an excellent way to combine complex formula calculations with smart data management. For example, you can use a free template for your personnel planning and design it flexibly according to your own requirements. With the integrated No Code App Builder, you can also make your personnel planning in an app even more intuitive and clear.
 
 The SeaTable no-code platform can be customized and offers the possibility to quickly create tailor-made solutions thanks to the modular principle and a user-friendly interface. Functions such as working time recording, [onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}) and [vacation requests]({{< relref "posts/20250324-urlaubsplanung" >}}) can be easily combined and expanded to create your own GDPR-compliant all-in-one solution. [Register]({{< relref "pages/registration" >}}) Register for free and discover the many possibilities that SeaTable offers for your personnel planning.
 
@@ -176,17 +177,11 @@ The best tool for workforce planning depends on your needs. Excel works well for
 
 You will need the following 6 formulas to calculate staffing requirements:
 
-* staffing requirements = total workload / working time per employee*
+- `Staffing requirements = total workload / working time per employee`
+- `Allocation time factor (%) = absences / real working days x 100`
+- `Reserve requirement = deployment requirement x distribution time factor`
+- `Gross personnel requirement = deployment requirement + reserve requirement`
+- `Updated headcount = current headcount + fixed additions - expected departures`
+- `Net personnel requirements = gross personnel requirements - updated headcount`
 
-* Allocation time factor (%) = absences / real working days x 100*
-
-* Reserve requirement = deployment requirement x distribution time factor*
-
-* Gross personnel requirement = deployment requirement + reserve requirement*
-
-* Updated headcount = current headcount + fixed additions - expected departures*
-
-* Net personnel requirements = gross personnel requirements - updated headcount*
 {{< /faq >}}
-
-

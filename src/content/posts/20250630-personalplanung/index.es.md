@@ -26,27 +26,27 @@ La planificación de personal es un componente central de la política estratég
 
 La planificación de personal no consiste sólo en gestionar a los empleados, sino también en una orientación estratégica que garantice el éxito a largo plazo. Pero, ¿cuáles son las tareas y los objetivos de la planificación de personal? Veamos ejemplos de las distintas subáreas.
 
-* Planificación de personal:** El primer paso para planificar con éxito la plantilla es hacer balance. Aquí se determina cuántos empleados trabajan actualmente en la empresa, qué cualificaciones tienen y dónde hay lagunas.
-* Planificación de las necesidades de personal:** El objetivo aquí es determinar cuántos empleados con qué cualificaciones necesitará en el futuro. Las fluctuaciones estacionales, los proyectos y los objetivos a largo plazo de la empresa desempeñan aquí un papel decisivo.
-* Planificación del personal:** La planificación del personal garantiza que sus empleados estén en el lugar adecuado en el momento adecuado. Una rotación de turnos eficiente que planifique el despliegue del personal es lo más importante.
-* Desarrollo del personal:** Sus empleados son su activo más importante. Con medidas específicas de formación continua y desarrollo, puede promover el talento, retener a los trabajadores cualificados en su empresa y asegurar su competitividad a largo plazo.
-* Contratación:** La contratación consiste en reclutar nuevos empleados. Hoy en día, ya no basta con publicar un anuncio de empleo. Hay que buscar e inspirar activamente a los candidatos potenciales.
-* No siempre es posible evitar el exceso de personal. Ya sean fluctuaciones estacionales, reorganizaciones o crisis económicas, a veces los despidos son inevitables. Una planificación profesional de los despidos garantiza que estos procesos sean justos y transparentes.
-* Costes de personal:** Ninguna planificación de personal funciona sin tener en cuenta los costes. Es importante encontrar un equilibrio saludable entre la inversión en los empleados y la rentabilidad de la empresa.
-  
+- Planificación de personal:\*\* El primer paso para planificar con éxito la plantilla es hacer balance. Aquí se determina cuántos empleados trabajan actualmente en la empresa, qué cualificaciones tienen y dónde hay lagunas.
+- Planificación de las necesidades de personal:\*\* El objetivo aquí es determinar cuántos empleados con qué cualificaciones necesitará en el futuro. Las fluctuaciones estacionales, los proyectos y los objetivos a largo plazo de la empresa desempeñan aquí un papel decisivo.
+- Planificación del personal:\*\* La planificación del personal garantiza que sus empleados estén en el lugar adecuado en el momento adecuado. Una rotación de turnos eficiente que planifique el despliegue del personal es lo más importante.
+- Desarrollo del personal:\*\* Sus empleados son su activo más importante. Con medidas específicas de formación continua y desarrollo, puede promover el talento, retener a los trabajadores cualificados en su empresa y asegurar su competitividad a largo plazo.
+- Contratación:\*\* La contratación consiste en reclutar nuevos empleados. Hoy en día, ya no basta con publicar un anuncio de empleo. Hay que buscar e inspirar activamente a los candidatos potenciales.
+- No siempre es posible evitar el exceso de personal. Ya sean fluctuaciones estacionales, reorganizaciones o crisis económicas, a veces los despidos son inevitables. Una planificación profesional de los despidos garantiza que estos procesos sean justos y transparentes.
+- Costes de personal:\*\* Ninguna planificación de personal funciona sin tener en cuenta los costes. Es importante encontrar un equilibrio saludable entre la inversión en los empleados y la rentabilidad de la empresa.
+
 ## Las dimensiones de la planificación de personal
 
 Existen modelos fundamentalmente diferentes en la planificación de personal. Ya se trate de enfoques de planificación operativos y estratégicos o cuantitativos y cualitativos, permiten a las empresas cumplir los requisitos y superar los retos.
 
-![La planificación estratégica crea seguridad](langfristige-ziele.jpg)
+![La planificación estratégica crea seguridad](langfristige-ziele-personal.jpg)
 
-La diferencia entre la planificación operativa y la estratégica de RR.HH. radica principalmente en el horizonte temporal y el enfoque. La planificación estratégica de RR.HH. está orientada a objetivos a largo plazo**, normalmente con un horizonte de planificación de 5 a 10 años. Se caracteriza por factores externos como las tendencias del mercado, los avances tecnológicos y el entorno competitivo. Su tarea consiste en abordar de forma proactiva los retos futuros y tomar decisiones holísticas que fortalezcan la empresa a largo plazo.
+La diferencia entre la planificación operativa y la estratégica de RR.HH. radica principalmente en el horizonte temporal y el enfoque. La planificación estratégica de RR.HH. está orientada a objetivos a largo plazo\*\*, normalmente con un horizonte de planificación de 5 a 10 años. Se caracteriza por factores externos como las tendencias del mercado, los avances tecnológicos y el entorno competitivo. Su tarea consiste en abordar de forma proactiva los retos futuros y tomar decisiones holísticas que fortalezcan la empresa a largo plazo.
 
 Por el contrario, la **planificación operativa de RR.HH. se centra en periodos a corto plazo** de hasta un año. En este caso, la atención se centra en problemas individuales específicos y en requisitos internos, como garantizar la dotación de personal para proyectos en curso o responder a cuellos de botella con poca antelación. La planificación operativa requiere medidas que puedan aplicarse rápidamente sin inmovilizar recursos a largo plazo.
 
-La planificación cuantitativa y cualitativa del personal difieren en sus objetivos. La planificación cuantitativa del personal se refiere al número de empleados** e intenta encontrar un equilibrio entre el exceso de capacidad y la escasez de personal. Responde a la pregunta de si hay personal suficiente para cubrir la demanda o si es necesaria la contratación o la reducción de plantilla.
+La planificación cuantitativa y cualitativa del personal difieren en sus objetivos. La planificación cuantitativa del personal se refiere al número de empleados\*\* e intenta encontrar un equilibrio entre el exceso de capacidad y la escasez de personal. Responde a la pregunta de si hay personal suficiente para cubrir la demanda o si es necesaria la contratación o la reducción de plantilla.
 
-En cambio, la planificación cualitativa del personal se centra en las aptitudes y competencias** de los empleados. Su objetivo es identificar las necesidades futuras de conocimientos especializados, desarrollarlos de forma selectiva y reducir los conocimientos obsoletos cuando sea necesario. Sienta las bases para que la empresa siga siendo competitiva en un entorno dinámico al alinear el desarrollo de la plantilla con los objetivos estratégicos.
+En cambio, la planificación cualitativa del personal se centra en las aptitudes y competencias\*\* de los empleados. Su objetivo es identificar las necesidades futuras de conocimientos especializados, desarrollarlos de forma selectiva y reducir los conocimientos obsoletos cuando sea necesario. Sienta las bases para que la empresa siga siendo competitiva en un entorno dinámico al alinear el desarrollo de la plantilla con los objetivos estratégicos.
 
 ## Cómo calcular sus necesidades de personal
 
@@ -55,9 +55,10 @@ La planificación de RR.HH. no es una cuestión de intuición, sino que se basa 
 ![Costes de personal siempre a la vista](personal-berechnen.jpg)
 
 ### 1. determinar las necesidades de despliegue
+
 El primer paso consiste en calcular las necesidades de mano de obra. Esto indica cuánto trabajo hay que hacer en total y cuántos empleados se necesitan para completar este trabajo. Esto significa que hay que dividir el tiempo total necesario entre el número de horas de trabajo que puede realizar un empleado por término medio.
 
-*Necesidad de mano de obra = carga de trabajo total / horas de trabajo por empleado*.
+_Necesidad de mano de obra = carga de trabajo total / horas de trabajo por empleado_.
 
 {{< warning headline="Nota" text="Un resultado positivo significa que necesita contratar empleados adicionales (escasez de personal). Un valor negativo significa que puede reducir personal (exceso de personal.)." />}}
 
@@ -65,31 +66,31 @@ El primer paso consiste en calcular las necesidades de mano de obra. Esto indica
 
 A continuación, debe determinar el factor tiempo de distribución para calcular las necesidades de reserva. El factor de tiempo de distribución tiene en cuenta todas las ausencias, como vacaciones, enfermedad u otros retrasos en el proceso de trabajo. Aquí se suman todas las ausencias (por ejemplo, por enfermedad, vacaciones o días festivos) y se dividen por los días de trabajo reales (los días de trabajo reales sin ausencias). El resultado muestra qué porcentaje del tiempo de trabajo se pierde debido a las ausencias.
 
-*Factor de tiempo distribuido (%) = ausencias / jornadas laborales reales x 100*.
+_Factor de tiempo distribuido (%) = ausencias / jornadas laborales reales x 100_.
 
 ### 3. calcular las reservas obligatorias
 
 La necesidad de reserva garantiza que se dispone de suficientes empleados para hacer frente a la carga de trabajo incluso en caso de ausencias. Se calcula multiplicando la necesidad de mano de obra por el factor tiempo distribuido:
 
-*Necesidad de reserva = necesidad de despliegue x factor de tiempo de distribución*.
+_Necesidad de reserva = necesidad de despliegue x factor de tiempo de distribución_.
 
 ### 4. calcular las necesidades brutas de personal
 
 Ahora tiene todos los valores importantes para las necesidades brutas de personal. Es la suma de las necesidades de despliegue y las necesidades de reserva. Muestra cuántos empleados se necesitan en total para cubrir la carga de trabajo y la reserva para ausencias.
 
-*Necesidad bruta de personal = necesidad de despliegue + necesidad de reserva*.
+_Necesidad bruta de personal = necesidad de despliegue + necesidad de reserva_.
 
 ### 5. calcular la plantilla actualizada
 
 En el siguiente paso se determina el recuento actualizado, que muestra cuántos empleados hay actualmente en la empresa después de haber tenido en cuenta las altas y las bajas. Para ello, calcule todas las nuevas incorporaciones (por ejemplo, por contratación o por reincorporación tras un permiso parental) y todas las bajas (por ejemplo, por despido o jubilación).
 
-*Efectivos actualizados = efectivos actuales + altas fijas - bajas previstas*.
+_Efectivos actualizados = efectivos actuales + altas fijas - bajas previstas_.
 
 ### 6. calcular las necesidades netas de personal
 
 Por último, calcule las necesidades netas de personal, que le indican cuántos empleados debe contratar o despedir para alcanzar la plantilla ideal.
 
-*Necesidades netas de personal = necesidades brutas de personal - plantilla actualizada*.
+_Necesidades netas de personal = necesidades brutas de personal - plantilla actualizada_.
 
 {{< warning headline="Nota" text="Un resultado positivo significa que necesita contratar empleados adicionales (falta de personal). Un valor negativo significa que puede reducir personal (exceso de personal)." />}}
 
@@ -125,15 +126,15 @@ También se puede recurrir a personal temporal o autónomo para un apoyo rápido
 
 Una elevada rotación de personal puede resultar costosa para las empresas y poner en peligro la cohesión del equipo, la productividad y el éxito a largo plazo. Esto es especialmente problemático cuando se trata de la planificación de personal, ya que los cambios frecuentes dificultan la planificación a largo plazo y requieren recursos adicionales para la contratación y la formación. Sin embargo, las empresas pueden adoptar numerosas medidas para evitar la rotación de personal. A continuación encontrará algunos enfoques valiosos que ayudan a reforzar la lealtad de los empleados y a promover una cooperación estable a largo plazo.
 
-* **Pagar por el éxito:** Recompensar el buen rendimiento de forma selectiva para fomentar el reconocimiento y la motivación.
-* **Responsabilidades:** La asignación clara de funciones crea seguridad y orientación.
-* **Entorno de trabajo agradable:** Un lugar de trabajo bien diseñado aumenta el bienestar y la productividad.
-* **Flexibilidad de planificación:** Los horarios o lugares de trabajo flexibles permiten un mejor equilibrio entre la vida laboral y personal.
-* **Desarrollo de competencias:** Ofrezca oportunidades de desarrollo para aprovechar el potencial de sus empleados.
-* **Creación de equipos:** Refuerce la cohesión mediante actividades conjuntas y una cultura corporativa abierta.
-* **Responsabilidad personal:** Entregue responsabilidades y confíe en sus empleados para que tomen decisiones de forma independiente.
-* **Feedback positivo:** El reconocimiento regular y los elogios por el buen trabajo motivan y refuerzan la lealtad.
-  
+- **Pagar por el éxito:** Recompensar el buen rendimiento de forma selectiva para fomentar el reconocimiento y la motivación.
+- **Responsabilidades:** La asignación clara de funciones crea seguridad y orientación.
+- **Entorno de trabajo agradable:** Un lugar de trabajo bien diseñado aumenta el bienestar y la productividad.
+- **Flexibilidad de planificación:** Los horarios o lugares de trabajo flexibles permiten un mejor equilibrio entre la vida laboral y personal.
+- **Desarrollo de competencias:** Ofrezca oportunidades de desarrollo para aprovechar el potencial de sus empleados.
+- **Creación de equipos:** Refuerce la cohesión mediante actividades conjuntas y una cultura corporativa abierta.
+- **Responsabilidad personal:** Entregue responsabilidades y confíe en sus empleados para que tomen decisiones de forma independiente.
+- **Feedback positivo:** El reconocimiento regular y los elogios por el buen trabajo motivan y refuerzan la lealtad.
+
 ## Consejos para planificar con éxito la plantilla de su empresa
 
 ![Las herramientas digitales facilitan la planificación](personal-planen.jpg)
@@ -156,7 +157,7 @@ A primera vista, Excel es una solución sólida para calcular las necesidades de
 
 {{< template id="e3d0d9a9139c46c58bf0" >}}
 
-Si desea optimizar la planificación de su plantilla, la elección de la herramienta adecuada es un punto muy importante. Las herramientas tradicionales de planificación de personal pueden carecer de flexibilidad, especialmente cuando se trata de personalización dinámica. En la planificación de la plantilla, un software como SeaTable es, por tanto, una forma excelente de combinar cálculos de fórmulas complejas con una gestión inteligente de los datos. Por ejemplo, puede utilizar una plantilla gratuita para su planificación de personal y diseñarla de forma flexible según sus propias necesidades. Con el No Code App Builder integrado, también puede hacer que su planificación de personal sea aún más intuitiva y clara en una aplicación.   
+Si desea optimizar la planificación de su plantilla, la elección de la herramienta adecuada es un punto muy importante. Las herramientas tradicionales de planificación de personal pueden carecer de flexibilidad, especialmente cuando se trata de personalización dinámica. En la planificación de la plantilla, un software como SeaTable es, por tanto, una forma excelente de combinar cálculos de fórmulas complejas con una gestión inteligente de los datos. Por ejemplo, puede utilizar una plantilla gratuita para su planificación de personal y diseñarla de forma flexible según sus propias necesidades. Con el No Code App Builder integrado, también puede hacer que su planificación de personal sea aún más intuitiva y clara en una aplicación.
 
 La plataforma sin código SeaTable puede personalizarse y, gracias a su diseño modular y a su interfaz de fácil manejo, le permite crear rápidamente soluciones a medida. Funciones como el registro del tiempo de trabajo,[Incorporación]({{< relref "posts/20250324-onboarding-prozess" >}}) y [solicitudes de vacaciones]({{< relref "posts/20250324-urlaubsplanung" >}}) pueden combinarse y ampliarse fácilmente para crear su propia solución todo en uno que cumpla el GDPR. [Regístrese]({{< relref "pages/registration" >}}) Regístrese gratuitamente y descubra las múltiples posibilidades que ofrece SeaTable para su planificación de personal.
 
@@ -176,17 +177,15 @@ La mejor herramienta para la planificación de personal depende de sus necesidad
 
 Necesitará las 6 fórmulas siguientes para calcular las necesidades de personal:
 
-* necesidad de personal = total de mano de obra empleada / tiempo de trabajo por empleado*.
+- necesidad de personal = total de mano de obra empleada / tiempo de trabajo por empleado\*.
 
-* Factor de tiempo de asignación (%) = ausencias / días laborables reales x 100*.
+- Factor de tiempo de asignación (%) = ausencias / días laborables reales x 100\*.
 
-* Necesidad de reserva = necesidad de mano de obra x factor de tiempo de distribución*.
+- Necesidad de reserva = necesidad de mano de obra x factor de tiempo de distribución\*.
 
-* Necesidad bruta de personal = necesidad de despliegue + necesidad de reserva*.
+- Necesidad bruta de personal = necesidad de despliegue + necesidad de reserva\*.
 
-* Plantilla actualizada = plantilla actual + incorporaciones fijas - bajas previstas*.
+- Plantilla actualizada = plantilla actual + incorporaciones fijas - bajas previstas\*.
 
-* Necesidades netas de personal = necesidades brutas de personal - efectivos actualizados*.
-{{< /faq >}}
-
-
+- Necesidades netas de personal = necesidades brutas de personal - efectivos actualizados\*.
+  {{< /faq >}}
