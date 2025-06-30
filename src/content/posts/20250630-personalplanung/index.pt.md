@@ -26,13 +26,13 @@ O planeamento da força de trabalho é uma componente central da política estra
 
 O planeamento de pessoal não é apenas uma questão de gestão de funcionários, mas também uma orientação estratégica que garante o sucesso a longo prazo. Mas quais são as tarefas e os objectivos do planeamento do pessoal? Vejamos exemplos das várias sub-áreas.
 
-* Planeamento do pessoal:** O primeiro passo para um planeamento do pessoal bem sucedido é fazer um balanço. É aqui que se determina o número de trabalhadores que trabalham atualmente na empresa, as suas qualificações e as lacunas existentes.
-* Planeamento das necessidades de pessoal:** O objetivo é determinar o número de trabalhadores e as qualificações necessárias no futuro. As flutuações sazonais, os projectos e os objectivos da empresa a longo prazo desempenham aqui um papel decisivo.
-* Planeamento do pessoal:** O planeamento do pessoal garante que os seus empregados estão no lugar certo à hora certa. Uma rotação de serviço eficiente que planeie a afetação do pessoal é o princípio e o fim de tudo.
-* Desenvolvimento do pessoal:** Os seus empregados são o seu ativo mais importante. Com medidas de formação contínua e desenvolvimento direcionadas, pode promover o talento, reter trabalhadores qualificados na sua empresa e garantir a sua competitividade a longo prazo.
-* Recrutamento:** O recrutamento consiste em recrutar novos trabalhadores. Atualmente, já não é suficiente colocar um simples anúncio de emprego. É necessário procurar ativamente e inspirar potenciais candidatos.
-* Planeamento do despedimento de pessoal:** Nem sempre é possível evitar a sobrecapacidade de pessoal. Quer se trate de flutuações sazonais, de reorganizações ou de crises económicas - por vezes, os despedimentos são inevitáveis. O planeamento profissional dos despedimentos garante que estes processos são justos e transparentes.
-* Custos de pessoal:** Nenhum planeamento de pessoal funciona sem ter em conta os custos. É importante encontrar um equilíbrio saudável entre o investimento nos trabalhadores e a rentabilidade da empresa.
+* **Planeamento do pessoal:** O primeiro passo para um planeamento do pessoal bem sucedido é fazer um balanço. É aqui que se determina o número de trabalhadores que trabalham atualmente na empresa, as suas qualificações e as lacunas existentes.
+* **Planeamento das necessidades de pessoal:** O objetivo é determinar o número de trabalhadores e as qualificações necessárias no futuro. As flutuações sazonais, os projectos e os objectivos da empresa a longo prazo desempenham aqui um papel decisivo.
+* **Planeamento do pessoal:** O planeamento do pessoal garante que os seus empregados estão no lugar certo à hora certa. Uma rotação de serviço eficiente que planeie a afetação do pessoal é o princípio e o fim de tudo.
+* **Desenvolvimento do pessoal:** Os seus empregados são o seu ativo mais importante. Com medidas de formação contínua e desenvolvimento direcionadas, pode promover o talento, reter trabalhadores qualificados na sua empresa e garantir a sua competitividade a longo prazo.
+* **Recrutamento:** O recrutamento consiste em recrutar novos trabalhadores. Atualmente, já não é suficiente colocar um simples anúncio de emprego. É necessário procurar ativamente e inspirar potenciais candidatos.
+* **Planeamento do despedimento de pessoal:** Nem sempre é possível evitar a sobrecapacidade de pessoal. Quer se trate de flutuações sazonais, de reorganizações ou de crises económicas - por vezes, os despedimentos são inevitáveis. O planeamento profissional dos despedimentos garante que estes processos são justos e transparentes.
+* **Custos de pessoal:** Nenhum planeamento de pessoal funciona sem ter em conta os custos. É importante encontrar um equilíbrio saudável entre o investimento nos trabalhadores e a rentabilidade da empresa.
   
 ## As dimensões do planeamento de pessoal
 
@@ -125,14 +125,14 @@ O pessoal temporário ou os freelancers também podem ser contratados para um ap
 
 A elevada rotação de pessoal pode ser dispendiosa para as empresas e comprometer a coesão da equipa, a produtividade e o sucesso a longo prazo. Esta situação é particularmente problemática no que diz respeito ao planeamento do pessoal, uma vez que as mudanças frequentes dificultam o planeamento a longo prazo e exigem recursos adicionais para recrutamento e formação. No entanto, existem inúmeras medidas que as empresas podem adotar para evitar a rotação do pessoal. Em seguida, encontrará algumas abordagens valiosas que ajudam a reforçar a lealdade dos trabalhadores e a promover uma cooperação estável e a longo prazo.
 
-* Remunerar o sucesso:** Recompensar o bom desempenho especificamente para incentivar o reconhecimento e a motivação.
-** Responsabilidades:** A atribuição clara de funções cria segurança e orientação.
-* Ambiente de trabalho agradável:** Um local de trabalho bem concebido aumenta o bem-estar e a produtividade.
-* Flexibilidade de planeamento:** Horários ou locais de trabalho flexíveis permitem um melhor equilíbrio entre a vida profissional e pessoal.
-** Desenvolvimento de competências:** Proporcionar oportunidades de desenvolvimento para concretizar o potencial dos seus empregados.
-* Formação de equipas:** Reforçar a coesão através de actividades conjuntas e de uma cultura empresarial aberta.
-* Responsabilidade pessoal:** Entregue a responsabilidade e confie nos seus empregados para tomarem decisões de forma autónoma.
-* Feedback positivo:** O reconhecimento regular e os elogios pelo bom trabalho motivam e reforçam a lealdade.
+* **Remunerar o sucesso:** Recompensar o bom desempenho especificamente para incentivar o reconhecimento e a motivação.
+* **Responsabilidades:** A atribuição clara de funções cria segurança e orientação.
+* **Ambiente de trabalho agradável:** Um local de trabalho bem concebido aumenta o bem-estar e a produtividade.
+* **Flexibilidade de planeamento:** Horários ou locais de trabalho flexíveis permitem um melhor equilíbrio entre a vida profissional e pessoal.
+* **Desenvolvimento de competências:** Proporcionar oportunidades de desenvolvimento para concretizar o potencial dos seus empregados.
+* **Formação de equipas:** Reforçar a coesão através de actividades conjuntas e de uma cultura empresarial aberta.
+* **Responsabilidade pessoal:** Entregue a responsabilidade e confie nos seus empregados para tomarem decisões de forma autónoma.
+* **Feedback positivo:** O reconhecimento regular e os elogios pelo bom trabalho motivam e reforçam a lealdade.
   
 ## Dicas para um planeamento de pessoal bem sucedido na sua empresa
 
@@ -142,13 +142,13 @@ Um planeamento de pessoal bem sucedido requer não só a preparação correta, m
 
 1. **Conheça o status quo:** Antes de começar, saiba qual é a sua posição. Quem trabalha para si? De que talentos e capacidades dispõe? Só é possível definir o rumo certo com um inventário honesto.
 
-2 **Determinar objectivos:** Pense onde quer chegar. De que competências e de quantos empregados precisa para atingir os seus objectivos? Visualize como será a sua equipa do futuro - isto dar-lhe-á um sentido de orientação.
+2. **Determinar objectivos:** Pense onde quer chegar. De que competências e de quantos empregados precisa para atingir os seus objectivos? Visualize como será a sua equipa do futuro - isto dar-lhe-á um sentido de orientação.
 
-3 **Intercâmbio ao nível dos olhos:** O planeamento dos RH não é um projeto individual. Coordene-se regularmente com os gestores e as equipas para incorporar as suas perspectivas e ideias. Isto ajudá-lo-á a manter-se informado e a garantir que todos estão a trabalhar na mesma direção.
+3. **Intercâmbio ao nível dos olhos:** O planeamento dos RH não é um projeto individual. Coordene-se regularmente com os gestores e as equipas para incorporar as suas perspectivas e ideias. Isto ajudá-lo-á a manter-se informado e a garantir que todos estão a trabalhar na mesma direção.
 
-4 **Flexibilidade:** Os melhores planos podem ser alterados por mudanças inesperadas. Isso não é motivo para entrar em pânico! Com uma abordagem flexível e uma comunicação aberta, pode dominar até os desafios imprevistos.
+4. **Flexibilidade:** Os melhores planos podem ser alterados por mudanças inesperadas. Isso não é motivo para entrar em pânico! Com uma abordagem flexível e uma comunicação aberta, pode dominar até os desafios imprevistos.
 
-5 **Atrete-se a tentar algo novo:** A mudança faz parte do jogo, por isso atreva-se a tentar! Quer se trate de ferramentas inovadoras ou de percursos de desenvolvimento invulgares - aqueles que deixam entrar uma lufada de ar fresco continuarão a ter sucesso a longo prazo. Porque um mundo de trabalho dinâmico precisa de mentes criativas e de um pensamento orientado para o futuro.
+5. **Atrete-se a tentar algo novo:** A mudança faz parte do jogo, por isso atreva-se a tentar! Quer se trate de ferramentas inovadoras ou de percursos de desenvolvimento invulgares - aqueles que deixam entrar uma lufada de ar fresco continuarão a ter sucesso a longo prazo. Porque um mundo de trabalho dinâmico precisa de mentes criativas e de um pensamento orientado para o futuro.
 
 ## Qual a ferramenta de planeamento de pessoal mais adequada para si
 
@@ -176,15 +176,15 @@ A melhor ferramenta para o planeamento do pessoal depende das suas necessidades.
 
 Para calcular as necessidades de pessoal, são necessárias as 6 fórmulas seguintes:
 
-*Necessidades de pessoal = mão de obra total / tempo de trabalho por empregado
+* Necessidades de pessoal = mão de obra total / tempo de trabalho por empregado
 
-*Fator de tempo de afetação (%) = ausências / dias de trabalho reais x 100
+* Fator de tempo de afetação (%) = ausências / dias de trabalho reais x 100
 
-*Necessidade de reserva = necessidade de mão de obra x fator de tempo de distribuição
+* Necessidade de reserva = necessidade de mão de obra x fator de tempo de distribuição
 
-*Necessidade bruta de pessoal = necessidade de afetação + necessidade de reserva
+* Necessidade bruta de pessoal = necessidade de afetação + necessidade de reserva
 
-*Efetivo atualizado = efetivo atual + adições fixas - saídas previstas
+* Efetivo atualizado = efetivo atual + adições fixas - saídas previstas
 
 *Necessidades líquidas de pessoal = necessidades brutas de pessoal - efectivos actualizados
 {{< /faq >}}

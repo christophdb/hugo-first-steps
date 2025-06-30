@@ -125,14 +125,14 @@ También se puede recurrir a personal temporal o autónomo para un apoyo rápido
 
 Una elevada rotación de personal puede resultar costosa para las empresas y poner en peligro la cohesión del equipo, la productividad y el éxito a largo plazo. Esto es especialmente problemático cuando se trata de la planificación de personal, ya que los cambios frecuentes dificultan la planificación a largo plazo y requieren recursos adicionales para la contratación y la formación. Sin embargo, las empresas pueden adoptar numerosas medidas para evitar la rotación de personal. A continuación encontrará algunos enfoques valiosos que ayudan a reforzar la lealtad de los empleados y a promover una cooperación estable a largo plazo.
 
-* Pagar por el éxito:** Recompensar el buen rendimiento de forma selectiva para fomentar el reconocimiento y la motivación.
-** **Responsabilidades:** La asignación clara de funciones crea seguridad y orientación.
-* Entorno de trabajo agradable:** Un lugar de trabajo bien diseñado aumenta el bienestar y la productividad.
-* Flexibilidad de planificación:** Los horarios o lugares de trabajo flexibles permiten un mejor equilibrio entre la vida laboral y personal.
-** Desarrollo de competencias:** Ofrezca oportunidades de desarrollo para aprovechar el potencial de sus empleados.
-* Creación de equipos:** Refuerce la cohesión mediante actividades conjuntas y una cultura corporativa abierta.
-* Responsabilidad personal:** Entregue responsabilidades y confíe en sus empleados para que tomen decisiones de forma independiente.
-* Feedback positivo:** El reconocimiento regular y los elogios por el buen trabajo motivan y refuerzan la lealtad.
+* **Pagar por el éxito:** Recompensar el buen rendimiento de forma selectiva para fomentar el reconocimiento y la motivación.
+* **Responsabilidades:** La asignación clara de funciones crea seguridad y orientación.
+* **Entorno de trabajo agradable:** Un lugar de trabajo bien diseñado aumenta el bienestar y la productividad.
+* **Flexibilidad de planificación:** Los horarios o lugares de trabajo flexibles permiten un mejor equilibrio entre la vida laboral y personal.
+* **Desarrollo de competencias:** Ofrezca oportunidades de desarrollo para aprovechar el potencial de sus empleados.
+* **Creación de equipos:** Refuerce la cohesión mediante actividades conjuntas y una cultura corporativa abierta.
+* **Responsabilidad personal:** Entregue responsabilidades y confíe en sus empleados para que tomen decisiones de forma independiente.
+* **Feedback positivo:** El reconocimiento regular y los elogios por el buen trabajo motivan y refuerzan la lealtad.
   
 ## Consejos para planificar con éxito la plantilla de su empresa
 
@@ -142,13 +142,13 @@ El éxito de la planificación de personal requiere no sólo la preparación ade
 
 1. **Conocer el statu quo:** Antes de empezar, sepa cuál es su situación. ¿Quién trabaja para usted? ¿Qué talentos y capacidades tiene? Sólo podrá establecer el rumbo correcto con un inventario honesto.
 
-2 **Determine objetivos:** Piense adónde quiere llegar. ¿Qué competencias y cuántos empleados necesita para alcanzar sus objetivos? Visualice cómo será su equipo del futuro: esto le dará un sentido de la orientación.
+2. **Determine objetivos:** Piense adónde quiere llegar. ¿Qué competencias y cuántos empleados necesita para alcanzar sus objetivos? Visualice cómo será su equipo del futuro: esto le dará un sentido de la orientación.
 
-3 **Intercambio a la vista:** La planificación de RR.HH. no es un proyecto individual. Coordínese periódicamente con directivos y equipos para incorporar sus perspectivas e ideas. Esto le ayudará a mantener el pulso y a asegurarse de que todo el mundo tira en la misma dirección.
+3. **Intercambio a la vista:** La planificación de RR.HH. no es un proyecto individual. Coordínese periódicamente con directivos y equipos para incorporar sus perspectivas e ideas. Esto le ayudará a mantener el pulso y a asegurarse de que todo el mundo tira en la misma dirección.
 
-4 **Mantente flexible:** Los cambios inesperados pueden dar al traste con los planes mejor trazados. Pero no hay por qué alarmarse. Con un enfoque flexible y una comunicación abierta, puedes superar incluso los retos imprevistos.
+4. **Mantente flexible:** Los cambios inesperados pueden dar al traste con los planes mejor trazados. Pero no hay por qué alarmarse. Con un enfoque flexible y una comunicación abierta, puedes superar incluso los retos imprevistos.
 
-5 **Atrévete a probar algo nuevo:** El cambio forma parte del juego, así que atrévete a probarlo. Ya se trate de herramientas innovadoras o de vías de desarrollo inusuales, los que dejan entrar un soplo de aire fresco seguirán teniendo éxito a largo plazo. Porque un mundo laboral dinámico necesita mentes creativas y un pensamiento orientado al futuro.
+5. **Atrévete a probar algo nuevo:** El cambio forma parte del juego, así que atrévete a probarlo. Ya se trate de herramientas innovadoras o de vías de desarrollo inusuales, los que dejan entrar un soplo de aire fresco seguirán teniendo éxito a largo plazo. Porque un mundo laboral dinámico necesita mentes creativas y un pensamiento orientado al futuro.
 
 ## ¿Qué herramienta de planificación de personal le conviene?
 
@@ -176,17 +176,17 @@ La mejor herramienta para la planificación de personal depende de sus necesidad
 
 Necesitará las 6 fórmulas siguientes para calcular las necesidades de personal:
 
-*necesidad de personal = total de mano de obra empleada / tiempo de trabajo por empleado*.
+* necesidad de personal = total de mano de obra empleada / tiempo de trabajo por empleado*.
 
-*Factor de tiempo de asignación (%) = ausencias / días laborables reales x 100*.
+* Factor de tiempo de asignación (%) = ausencias / días laborables reales x 100*.
 
-*Necesidad de reserva = necesidad de mano de obra x factor de tiempo de distribución*.
+* Necesidad de reserva = necesidad de mano de obra x factor de tiempo de distribución*.
 
-*Necesidad bruta de personal = necesidad de despliegue + necesidad de reserva*.
+* Necesidad bruta de personal = necesidad de despliegue + necesidad de reserva*.
 
-*Plantilla actualizada = plantilla actual + incorporaciones fijas - bajas previstas*.
+* Plantilla actualizada = plantilla actual + incorporaciones fijas - bajas previstas*.
 
-*Necesidades netas de personal = necesidades brutas de personal - efectivos actualizados*.
+* Necesidades netas de personal = necesidades brutas de personal - efectivos actualizados*.
 {{< /faq >}}
 
 

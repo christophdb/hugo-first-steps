@@ -176,17 +176,17 @@ Das beste Tool für die Personalplanung hängt von Ihren Bedürfnissen ab. Excel
 
 Die folgenden 6 Formeln benötigen Sie für die Berechnung des Personalbedarfs: 
 
-*Einsatzbedarf = gesamter Arbeitsaufwand / Arbeitszeit pro Mitarbeiter*
+* Einsatzbedarf = gesamter Arbeitsaufwand / Arbeitszeit pro Mitarbeiter*
 
-*Verteilzeitfaktor (%) = Fehlzeiten / reale Arbeitstage x 100* 
+* Verteilzeitfaktor (%) = Fehlzeiten / reale Arbeitstage x 100* 
 
-*Reservebedarf = Einsatzbedarf x Verteilzeitfaktor*
+* Reservebedarf = Einsatzbedarf x Verteilzeitfaktor*
 
-*Bruttopersonalbedarf = Einsatzbedarf + Reservebedarf*
+* Bruttopersonalbedarf = Einsatzbedarf + Reservebedarf*
 
-*Fortgeschriebener Personalbestand = aktueller Personalbestand + feststehende Zugänge – voraussichtliche Abgänge*
+* Fortgeschriebener Personalbestand = aktueller Personalbestand + feststehende Zugänge – voraussichtliche Abgänge*
 
-*Nettopersonalbedarf = Bruttopersonalbedarf – fortgeschriebener Personalbestand*
+* Nettopersonalbedarf = Bruttopersonalbedarf – fortgeschriebener Personalbestand*
 {{< /faq >}}
 
 

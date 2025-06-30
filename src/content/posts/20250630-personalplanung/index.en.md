@@ -142,13 +142,13 @@ Successful personnel planning requires not only the right preparation, but also 
 
 1. **Know the status quo:** Before you get started, know where you stand. Who works for you? What talents and capacities do you have? Only with an honest inventory can you set the right course.
 
-2 **Determine goals:** Think about where you want to go. What skills and how many employees do you need to achieve your goals? Get a picture of what your team of the future will look like - this will give you orientation.
+2. **Determine goals:** Think about where you want to go. What skills and how many employees do you need to achieve your goals? Get a picture of what your team of the future will look like - this will give you orientation.
 
-3 **Exchange at eye level:** HR planning is not an individual project. Coordinate regularly with managers and teams to incorporate their perspectives and ideas. This will help you keep your finger on the pulse and ensure that everyone is pulling in the same direction.
+3. **Exchange at eye level:** HR planning is not an individual project. Coordinate regularly with managers and teams to incorporate their perspectives and ideas. This will help you keep your finger on the pulse and ensure that everyone is pulling in the same direction.
 
-4 **Stay flexible:** The best laid plans can be overturned by unexpected changes. That's no reason to panic! With a flexible approach and open communication, you can master even unforeseen challenges.
+4. **Stay flexible:** The best laid plans can be overturned by unexpected changes. That's no reason to panic! With a flexible approach and open communication, you can master even unforeseen challenges.
 
-5 **Dare to do something new:** Change is part of the game, so dare to do it! Whether it's innovative tools or unusual development paths - those who let in a breath of fresh air will remain successful in the long term. Because a dynamic working world needs creative minds and future-oriented thinking.
+5. **Dare to do something new:** Change is part of the game, so dare to do it! Whether it's innovative tools or unusual development paths - those who let in a breath of fresh air will remain successful in the long term. Because a dynamic working world needs creative minds and future-oriented thinking.
 
 ## Which personnel planning tool is right for you
 
@@ -176,17 +176,17 @@ The best tool for workforce planning depends on your needs. Excel works well for
 
 You will need the following 6 formulas to calculate staffing requirements:
 
-*staffing requirements = total workload / working time per employee*
+* staffing requirements = total workload / working time per employee*
 
-*Allocation time factor (%) = absences / real working days x 100*
+* Allocation time factor (%) = absences / real working days x 100*
 
-*Reserve requirement = deployment requirement x distribution time factor*
+* Reserve requirement = deployment requirement x distribution time factor*
 
-*Gross personnel requirement = deployment requirement + reserve requirement*
+* Gross personnel requirement = deployment requirement + reserve requirement*
 
-*Updated headcount = current headcount + fixed additions - expected departures*
+* Updated headcount = current headcount + fixed additions - expected departures*
 
-*Net personnel requirements = gross personnel requirements - updated headcount*
+* Net personnel requirements = gross personnel requirements - updated headcount*
 {{< /faq >}}
 
 

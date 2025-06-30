@@ -26,11 +26,11 @@ La planification du personnel est un élément central de la politique stratégi
 
 La planification du personnel ne consiste donc pas seulement à gérer les collaborateurs, mais aussi à adopter une orientation stratégique qui garantit le succès à long terme. Mais quels sont les tâches et les objectifs de la planification des ressources humaines ? Nous allons d'abord examiner de plus près des exemples issus des différents domaines partiels.
 
-**Planification des effectifs:** La première étape d'une planification réussie des effectifs est l'inventaire. Vous déterminez ici combien de personnes travaillent actuellement dans votre entreprise, quelles sont leurs qualifications et où se situent les éventuelles lacunes.
-**Planification des besoins en personnel:** Il s'agit ici de déterminer le nombre de collaborateurs dont vous aurez besoin à l'avenir et leurs qualifications. Les fluctuations saisonnières, les projets et les objectifs à long terme de l'entreprise jouent ici un rôle décisif.
-**Planification de l'affectation du personnel:** La planification de l'affectation veille à ce que vos collaborateurs soient au bon endroit au bon moment. Un plan de service efficace, qui planifie l'affectation du personnel, est à cet égard essentiel.
-**Développement du personnel:** Vos collaborateurs sont votre capital le plus important. Grâce à des formations continues et des mesures de développement ciblées, vous encouragez les talents, fidélisez le personnel qualifié et assurez votre compétitivité à long terme.
-**Recrutement:** Dans le domaine du recrutement, tout tourne autour de l'embauche de nouveaux collaborateurs. Pour cela, il ne suffit plus aujourd'hui de publier une annonce d'emploi. Vous devez vous mettre activement à la recherche de candidats potentiels et les enthousiasmer.
+* **Planification des effectifs:** La première étape d'une planification réussie des effectifs est l'inventaire. Vous déterminez ici combien de personnes travaillent actuellement dans votre entreprise, quelles sont leurs qualifications et où se situent les éventuelles lacunes.
+* **Planification des besoins en personnel:** Il s'agit ici de déterminer le nombre de collaborateurs dont vous aurez besoin à l'avenir et leurs qualifications. Les fluctuations saisonnières, les projets et les objectifs à long terme de l'entreprise jouent ici un rôle décisif.
+* **Planification de l'affectation du personnel:** La planification de l'affectation veille à ce que vos collaborateurs soient au bon endroit au bon moment. Un plan de service efficace, qui planifie l'affectation du personnel, est à cet égard essentiel.
+* **Développement du personnel:** Vos collaborateurs sont votre capital le plus important. Grâce à des formations continues et des mesures de développement ciblées, vous encouragez les talents, fidélisez le personnel qualifié et assurez votre compétitivité à long terme.
+* **Recrutement:** Dans le domaine du recrutement, tout tourne autour de l'embauche de nouveaux collaborateurs. Pour cela, il ne suffit plus aujourd'hui de publier une annonce d'emploi. Vous devez vous mettre activement à la recherche de candidats potentiels et les enthousiasmer.
 * **Planification du dégagement du personnel:** Il n'est pas toujours possible d'éviter les surcapacités en personnel. Qu'il s'agisse de fluctuations saisonnières, de restructurations ou de crises économiques, les licenciements sont parfois inévitables. Une planification professionnelle des licenciements permet de garantir que ces processus se déroulent de manière équitable et transparente.
 * **Coûts du personnel:** Aucune planification du personnel ne fonctionne sans garder un œil sur les coûts. Il s'agit ici de trouver un équilibre sain entre les investissements dans le personnel et la rentabilité de l'entreprise.
   
@@ -128,7 +128,7 @@ Un taux élevé de rotation du personnel peut être coûteux pour les entreprise
 * **Rémunération basée sur la réussite:** Récompensez les bonnes performances de manière ciblée afin d'encourager la reconnaissance et la motivation.
 * **Compétences:** Une répartition claire des rôles apporte sécurité et orientation.
 * **Un environnement de travail agréable:** Un lieu de travail bien aménagé augmente le bien-être et la productivité.
-**Souplesse de planification:** Des horaires ou des lieux de travail flexibles permettent un meilleur équilibre entre vie professionnelle et vie privée.
+* **Souplesse de planification:** Des horaires ou des lieux de travail flexibles permettent un meilleur équilibre entre vie professionnelle et vie privée.
 * **Promotion des qualifications:** Offrez des opportunités de développement afin d'encourager le potentiel de vos collaborateurs.
 * **Teambuilding:** Renforcez la cohésion par des activités communes et une culture d'entreprise ouverte.
 * **Responsabilité personnelle:** Donnez des responsabilités et faites confiance à vos collaborateurs pour prendre des décisions de manière autonome.
@@ -144,9 +144,9 @@ Une planification du personnel réussie nécessite non seulement une bonne prép
 
 2. **Définir les objectifs:** Réfléchissez à la direction que vous voulez prendre. De quelles compétences et de combien de collaborateurs avez-vous besoin pour atteindre vos objectifs ? Faites-vous une idée de ce à quoi ressemblera votre équipe du futur - cela vous permettra de vous orienter.
 
-3. échange d'égal à égal:** la planification du personnel n'est pas un projet isolé. Consultez régulièrement les cadres et les équipes afin d'intégrer leurs points de vue et leurs idées. Ainsi, vous restez au courant et veillez à ce que tout le monde tire dans le même sens.
+3. **échange d'égal à égal:** la planification du personnel n'est pas un projet isolé. Consultez régulièrement les cadres et les équipes afin d'intégrer leurs points de vue et leurs idées. Ainsi, vous restez au courant et veillez à ce que tout le monde tire dans le même sens.
 
-4) **Rester flexible:** Les meilleurs plans peuvent être bousculés par des changements inattendus. Ce n'est pas une raison pour paniquer ! Une approche flexible et une communication ouverte vous permettront de relever les défis les plus imprévus.
+4. **Rester flexible:** Les meilleurs plans peuvent être bousculés par des changements inattendus. Ce n'est pas une raison pour paniquer ! Une approche flexible et une communication ouverte vous permettront de relever les défis les plus imprévus.
 
 5. **Oser la nouveauté:** Le changement fait partie du jeu, alors osez ! Qu'il s'agisse d'outils innovants ou de voies de développement inhabituelles, laisser entrer un vent de fraîcheur permet de conserver le succès à long terme. Car un monde du travail dynamique a besoin de têtes créatives et d'une pensée orientée vers l'avenir.
 
@@ -176,17 +176,17 @@ Le meilleur outil pour la planification du personnel dépend de vos besoins. Exc
 
 Vous avez besoin des 6 formules suivantes pour calculer les besoins en personnel :
 
-*besoin d'intervention = charge de travail totale / temps de travail par employé*.
+* besoin d'intervention = charge de travail totale / temps de travail par employé*.
 
-*Facteur de temps de travail réparti (%) = absences / jours de travail réels x 100*.
+* Facteur de temps de travail réparti (%) = absences / jours de travail réels x 100*.
 
-*besoin de réserve = besoin d'intervention x facteur de temps de répartition*.
+* besoin de réserve = besoin d'intervention x facteur de temps de répartition*.
 
-*besoin en personnel brut = besoin d'intervention + besoin de réserve*.
+* besoin en personnel brut = besoin d'intervention + besoin de réserve*.
 
-*Effectif mis à jour = effectif actuel + entrées fixes - sorties prévues*.
+* Effectif mis à jour = effectif actuel + entrées fixes - sorties prévues*.
 
-*besoins nets en personnel = besoins bruts en personnel - effectif mis à jour*.
+* besoins nets en personnel = besoins bruts en personnel - effectif mis à jour*.
 {{< /faq >}}
 
 
