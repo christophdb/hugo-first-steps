@@ -26,27 +26,27 @@ O planeamento da força de trabalho é uma componente central da política estra
 
 O planeamento de pessoal não é apenas uma questão de gestão de funcionários, mas também uma orientação estratégica que garante o sucesso a longo prazo. Mas quais são as tarefas e os objectivos do planeamento do pessoal? Vejamos exemplos das várias sub-áreas.
 
-* **Planeamento do pessoal:** O primeiro passo para um planeamento do pessoal bem sucedido é fazer um balanço. É aqui que se determina o número de trabalhadores que trabalham atualmente na empresa, as suas qualificações e as lacunas existentes.
-* **Planeamento das necessidades de pessoal:** O objetivo é determinar o número de trabalhadores e as qualificações necessárias no futuro. As flutuações sazonais, os projectos e os objectivos da empresa a longo prazo desempenham aqui um papel decisivo.
-* **Planeamento do pessoal:** O planeamento do pessoal garante que os seus empregados estão no lugar certo à hora certa. Uma rotação de serviço eficiente que planeie a afetação do pessoal é o princípio e o fim de tudo.
-* **Desenvolvimento do pessoal:** Os seus empregados são o seu ativo mais importante. Com medidas de formação contínua e desenvolvimento direcionadas, pode promover o talento, reter trabalhadores qualificados na sua empresa e garantir a sua competitividade a longo prazo.
-* **Recrutamento:** O recrutamento consiste em recrutar novos trabalhadores. Atualmente, já não é suficiente colocar um simples anúncio de emprego. É necessário procurar ativamente e inspirar potenciais candidatos.
-* **Planeamento do despedimento de pessoal:** Nem sempre é possível evitar a sobrecapacidade de pessoal. Quer se trate de flutuações sazonais, de reorganizações ou de crises económicas - por vezes, os despedimentos são inevitáveis. O planeamento profissional dos despedimentos garante que estes processos são justos e transparentes.
-* **Custos de pessoal:** Nenhum planeamento de pessoal funciona sem ter em conta os custos. É importante encontrar um equilíbrio saudável entre o investimento nos trabalhadores e a rentabilidade da empresa.
-  
+- **Planeamento do pessoal:** O primeiro passo para um planeamento do pessoal bem sucedido é fazer um balanço. É aqui que se determina o número de trabalhadores que trabalham atualmente na empresa, as suas qualificações e as lacunas existentes.
+- **Planeamento das necessidades de pessoal:** O objetivo é determinar o número de trabalhadores e as qualificações necessárias no futuro. As flutuações sazonais, os projectos e os objectivos da empresa a longo prazo desempenham aqui um papel decisivo.
+- **Planeamento do pessoal:** O planeamento do pessoal garante que os seus empregados estão no lugar certo à hora certa. Uma rotação de serviço eficiente que planeie a afetação do pessoal é o princípio e o fim de tudo.
+- **Desenvolvimento do pessoal:** Os seus empregados são o seu ativo mais importante. Com medidas de formação contínua e desenvolvimento direcionadas, pode promover o talento, reter trabalhadores qualificados na sua empresa e garantir a sua competitividade a longo prazo.
+- **Recrutamento:** O recrutamento consiste em recrutar novos trabalhadores. Atualmente, já não é suficiente colocar um simples anúncio de emprego. É necessário procurar ativamente e inspirar potenciais candidatos.
+- **Planeamento do despedimento de pessoal:** Nem sempre é possível evitar a sobrecapacidade de pessoal. Quer se trate de flutuações sazonais, de reorganizações ou de crises económicas - por vezes, os despedimentos são inevitáveis. O planeamento profissional dos despedimentos garante que estes processos são justos e transparentes.
+- **Custos de pessoal:** Nenhum planeamento de pessoal funciona sem ter em conta os custos. É importante encontrar um equilíbrio saudável entre o investimento nos trabalhadores e a rentabilidade da empresa.
+
 ## As dimensões do planeamento de pessoal
 
 Existem modelos fundamentalmente diferentes no planeamento do pessoal. Quer se trate de abordagens de planeamento operacionais e estratégicas ou quantitativas e qualitativas - permitem que as empresas cumpram os requisitos e dominem os desafios.
 
-![O planeamento estratégico cria segurança](langfristige-ziele.jpg)
+![O planeamento estratégico cria segurança](langfristige-ziele-personal.jpg)
 
-A diferença entre o planeamento operacional e o planeamento estratégico dos recursos humanos reside essencialmente no horizonte temporal e no enfoque. O planeamento estratégico dos recursos humanos visa objectivos a longo prazo**, geralmente com um horizonte de planeamento de 5 a 10 anos. Caracteriza-se por factores externos, como as tendências do mercado, a evolução tecnológica e o ambiente competitivo. A sua tarefa consiste em enfrentar proactivamente os desafios futuros e tomar decisões holísticas que reforcem a empresa a longo prazo.
+A diferença entre o planeamento operacional e o planeamento estratégico dos recursos humanos reside essencialmente no horizonte temporal e no enfoque. O planeamento estratégico dos recursos humanos visa objectivos a longo prazo\*\*, geralmente com um horizonte de planeamento de 5 a 10 anos. Caracteriza-se por factores externos, como as tendências do mercado, a evolução tecnológica e o ambiente competitivo. A sua tarefa consiste em enfrentar proactivamente os desafios futuros e tomar decisões holísticas que reforcem a empresa a longo prazo.
 
 Em contrapartida, o **planeamento operacional de RH centra-se em períodos de curto prazo**, até um ano. Aqui, a atenção centra-se em problemas individuais específicos e em requisitos internos, tais como a garantia de pessoal para projectos em curso ou a resposta a estrangulamentos a curto prazo. O planeamento operacional requer medidas que possam ser implementadas rapidamente, sem ocupar recursos a longo prazo.
 
-O planeamento quantitativo e qualitativo do pessoal diferem nos seus objectivos. O planeamento quantitativo do pessoal diz respeito ao número de empregados** e tenta encontrar um equilíbrio entre o excesso de capacidade e a falta de pessoal. Responde à questão de saber se há pessoal suficiente para cobrir a procura ou se é necessário recrutar ou reduzir o número de efectivos.
+O planeamento quantitativo e qualitativo do pessoal diferem nos seus objectivos. O planeamento quantitativo do pessoal diz respeito ao número de empregados\*\* e tenta encontrar um equilíbrio entre o excesso de capacidade e a falta de pessoal. Responde à questão de saber se há pessoal suficiente para cobrir a procura ou se é necessário recrutar ou reduzir o número de efectivos.
 
-O planeamento qualitativo do pessoal, por outro lado, centra-se nas aptidões e competências** dos trabalhadores. O seu objetivo é identificar as necessidades futuras de conhecimentos especializados, desenvolvê-los de forma orientada e reduzir os conhecimentos obsoletos, sempre que necessário. Estabelece as bases para que a empresa se mantenha competitiva num ambiente dinâmico, alinhando o desenvolvimento da força de trabalho com os objectivos estratégicos.
+O planeamento qualitativo do pessoal, por outro lado, centra-se nas aptidões e competências\*\* dos trabalhadores. O seu objetivo é identificar as necessidades futuras de conhecimentos especializados, desenvolvê-los de forma orientada e reduzir os conhecimentos obsoletos, sempre que necessário. Estabelece as bases para que a empresa se mantenha competitiva num ambiente dinâmico, alinhando o desenvolvimento da força de trabalho com os objectivos estratégicos.
 
 ## Como calcular as suas necessidades de pessoal
 
@@ -55,9 +55,10 @@ O planeamento de RH não é uma questão de intuição - baseia-se em números e
 ![Custos de pessoal sempre em vista](personal-berechnen.jpg)
 
 ### 1. Determinar as necessidades de mobilização
+
 O primeiro passo é calcular a necessidade de mão de obra. Isso indica quanto trabalho precisa ser feito no total e quantos funcionários você precisa para concluir esse trabalho. Isso significa que você divide o tempo total necessário pelo número de horas de trabalho que um funcionário pode realizar em média.
 
-*Necessidade de recursos = carga de trabalho total / horas de trabalho por empregado
+\*Necessidade de recursos = carga de trabalho total / horas de trabalho por empregado
 
 {{< warning headline="Dica" text="O registo de horas e o planeamento de pessoal devem andar de mãos dadas, uma vez que o registo preciso das horas de trabalho constitui a base para um planeamento prospetivo e eficaz. Só com dados actualizados sobre o tempo necessário é possível estimar corretamente a carga de trabalho total." />}}
 
@@ -65,31 +66,31 @@ O primeiro passo é calcular a necessidade de mão de obra. Isso indica quanto t
 
 Em seguida, é necessário determinar o fator de tempo de distribuição para calcular a reserva obrigatória. O fator de tempo de distribuição tem em conta todas as ausências, tais como férias, doença ou outros atrasos no processo de trabalho. Neste caso, somam-se todas as ausências (por exemplo, devido a doença, férias ou feriados) e dividem-se pelos dias de trabalho efectivos (os dias de trabalho efectivos sem ausências). O resultado mostra a percentagem de tempo de trabalho perdido devido a ausências.
 
-*Fator de tempo distribuído (%) = ausências / dias de trabalho efectivos x 100
+\*Fator de tempo distribuído (%) = ausências / dias de trabalho efectivos x 100
 
 ### 3. calcular a reserva obrigatória
 
 A reserva obrigatória garante a disponibilidade de um número suficiente de efectivos para fazer face ao volume de trabalho, mesmo em caso de ausência. É calculada multiplicando as necessidades de mão de obra pelo fator de tempo de distribuição:
 
-*Necessidade de reserva = necessidade de mobilização x fator de tempo de distribuição
+\*Necessidade de reserva = necessidade de mobilização x fator de tempo de distribuição
 
 ### 4. calcular as necessidades brutas de pessoal
 
 Agora tem todos os valores importantes para as necessidades brutas de pessoal. Esta é a soma das necessidades de implantação e das necessidades de reserva. Mostra quantos funcionários são necessários no total para cobrir a carga de trabalho e a reserva para ausências.
 
-*Necessidade bruta de pessoal = necessidade de mobilização + necessidade de reserva
+\*Necessidade bruta de pessoal = necessidade de mobilização + necessidade de reserva
 
 ### Calcular o número de efectivos atualizado
 
 No passo seguinte, determina-se o número de efectivos atualizado, que mostra quantos empregados existem atualmente na empresa depois de ter em conta os acréscimos e as saídas. Ao fazê-lo, calcula todas as novas adições (por exemplo, devido à contratação ou ao regresso da licença parental) e todas as saídas (por exemplo, devido a despedimentos ou reforma).
 
-*Número de efectivos atualizado = número de efectivos atual + adições fixas - saídas previstas
+\*Número de efectivos atualizado = número de efectivos atual + adições fixas - saídas previstas
 
 ### 6. calcular as necessidades líquidas de pessoal
 
 Por fim, calcula as necessidades líquidas de pessoal, que indicam quantos funcionários ainda precisa de contratar ou despedir para atingir o número ideal de efectivos.
 
-*Necessidades líquidas de pessoal = necessidades brutas de pessoal - número de efectivos atualizado*.
+_Necessidades líquidas de pessoal = necessidades brutas de pessoal - número de efectivos atualizado_.
 
 {{< warning headline="Dica" text="Um resultado positivo significa que é necessário contratar mais empregados (falta de pessoal). Um valor negativo significa que é possível reduzir o pessoal (excesso de pessoal)." />}}
 
@@ -125,15 +126,15 @@ O pessoal temporário ou os freelancers também podem ser contratados para um ap
 
 A elevada rotação de pessoal pode ser dispendiosa para as empresas e comprometer a coesão da equipa, a produtividade e o sucesso a longo prazo. Esta situação é particularmente problemática no que diz respeito ao planeamento do pessoal, uma vez que as mudanças frequentes dificultam o planeamento a longo prazo e exigem recursos adicionais para recrutamento e formação. No entanto, existem inúmeras medidas que as empresas podem adotar para evitar a rotação do pessoal. Em seguida, encontrará algumas abordagens valiosas que ajudam a reforçar a lealdade dos trabalhadores e a promover uma cooperação estável e a longo prazo.
 
-* **Remunerar o sucesso:** Recompensar o bom desempenho especificamente para incentivar o reconhecimento e a motivação.
-* **Responsabilidades:** A atribuição clara de funções cria segurança e orientação.
-* **Ambiente de trabalho agradável:** Um local de trabalho bem concebido aumenta o bem-estar e a produtividade.
-* **Flexibilidade de planeamento:** Horários ou locais de trabalho flexíveis permitem um melhor equilíbrio entre a vida profissional e pessoal.
-* **Desenvolvimento de competências:** Proporcionar oportunidades de desenvolvimento para concretizar o potencial dos seus empregados.
-* **Formação de equipas:** Reforçar a coesão através de actividades conjuntas e de uma cultura empresarial aberta.
-* **Responsabilidade pessoal:** Entregue a responsabilidade e confie nos seus empregados para tomarem decisões de forma autónoma.
-* **Feedback positivo:** O reconhecimento regular e os elogios pelo bom trabalho motivam e reforçam a lealdade.
-  
+- **Remunerar o sucesso:** Recompensar o bom desempenho especificamente para incentivar o reconhecimento e a motivação.
+- **Responsabilidades:** A atribuição clara de funções cria segurança e orientação.
+- **Ambiente de trabalho agradável:** Um local de trabalho bem concebido aumenta o bem-estar e a produtividade.
+- **Flexibilidade de planeamento:** Horários ou locais de trabalho flexíveis permitem um melhor equilíbrio entre a vida profissional e pessoal.
+- **Desenvolvimento de competências:** Proporcionar oportunidades de desenvolvimento para concretizar o potencial dos seus empregados.
+- **Formação de equipas:** Reforçar a coesão através de actividades conjuntas e de uma cultura empresarial aberta.
+- **Responsabilidade pessoal:** Entregue a responsabilidade e confie nos seus empregados para tomarem decisões de forma autónoma.
+- **Feedback positivo:** O reconhecimento regular e os elogios pelo bom trabalho motivam e reforçam a lealdade.
+
 ## Dicas para um planeamento de pessoal bem sucedido na sua empresa
 
 ![As ferramentas digitais facilitam o planeamento](personal-planen.jpg)
@@ -156,7 +157,7 @@ Um planeamento de pessoal bem sucedido requer não só a preparação correta, m
 
 {{< template id="e3d0d9a9139c46c58bf0" >}}
 
-Se pretende otimizar a sua planificação dos recursos humanos, a escolha da ferramenta certa é um ponto muito importante. As ferramentas tradicionais de planificação da força de trabalho podem carecer de flexibilidade, especialmente quando se trata de personalização dinâmica. Na planificação da força de trabalho, um software como o SeaTable é, portanto, uma excelente forma de combinar cálculos de fórmulas complexas com uma gestão de dados inteligente. Por exemplo, pode utilizar um modelo gratuito para o seu planeamento de pessoal e concebê-lo de forma flexível de acordo com os seus próprios requisitos. Com o No Code App Builder integrado, também pode tornar a sua planificação de recursos humanos ainda mais intuitiva e clara numa aplicação.   
+Se pretende otimizar a sua planificação dos recursos humanos, a escolha da ferramenta certa é um ponto muito importante. As ferramentas tradicionais de planificação da força de trabalho podem carecer de flexibilidade, especialmente quando se trata de personalização dinâmica. Na planificação da força de trabalho, um software como o SeaTable é, portanto, uma excelente forma de combinar cálculos de fórmulas complexas com uma gestão de dados inteligente. Por exemplo, pode utilizar um modelo gratuito para o seu planeamento de pessoal e concebê-lo de forma flexível de acordo com os seus próprios requisitos. Com o No Code App Builder integrado, também pode tornar a sua planificação de recursos humanos ainda mais intuitiva e clara numa aplicação.
 
 A plataforma no-code SeaTable pode ser personalizada e, graças à sua conceção modular e interface de fácil utilização, permite-lhe criar rapidamente soluções à medida. Funções como o registo do tempo de trabalho, [Integração]({{< relref "posts/20250324-onboarding-prozess" >}}) e [pedidos de férias]({{< relref "posts/20250324-urlaubsplanung" >}}) podem ser facilmente combinados e alargados para criar a sua própria solução tudo-em-um compatível com o RGPD. [Registar]({{< relref "pages/registration" >}}) Registe-se gratuitamente e descubra as muitas possibilidades que o SeaTable oferece para o seu planeamento de pessoal.
 
@@ -176,17 +177,15 @@ A melhor ferramenta para o planeamento do pessoal depende das suas necessidades.
 
 Para calcular as necessidades de pessoal, são necessárias as 6 fórmulas seguintes:
 
-* Necessidades de pessoal = mão de obra total / tempo de trabalho por empregado
+- Necessidades de pessoal = mão de obra total / tempo de trabalho por empregado
 
-* Fator de tempo de afetação (%) = ausências / dias de trabalho reais x 100
+- Fator de tempo de afetação (%) = ausências / dias de trabalho reais x 100
 
-* Necessidade de reserva = necessidade de mão de obra x fator de tempo de distribuição
+- Necessidade de reserva = necessidade de mão de obra x fator de tempo de distribuição
 
-* Necessidade bruta de pessoal = necessidade de afetação + necessidade de reserva
+- Necessidade bruta de pessoal = necessidade de afetação + necessidade de reserva
 
-* Efetivo atualizado = efetivo atual + adições fixas - saídas previstas
+- Efetivo atualizado = efetivo atual + adições fixas - saídas previstas
 
-*Necessidades líquidas de pessoal = necessidades brutas de pessoal - efectivos actualizados
+\*Necessidades líquidas de pessoal = necessidades brutas de pessoal - efectivos actualizados
 {{< /faq >}}
-
-

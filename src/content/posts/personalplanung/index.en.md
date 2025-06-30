@@ -4,11 +4,12 @@ date: 2022-07-15
 lastmod: '2022-07-27'
 coverImage: 'Personalplanung-Excel-Vorlage-kostenlos_AdobeStock_413811967_bearbeitet.jpg'
 author: 'cdb'
-url: '/personalplanung'
+url: '/personalplanung-draft'
 color: '#eeeeee'
 seo:
     title:
     description:
+draft: true
 ---
 
 Personnel planning? I use an Excel template. Free of charge is best. Just download it from the Internet and you're done. This is how many HR departments still see it - which is anything but sensible for optimal planning of personnel, shifts and vacations. Because even though personnel planning with Excel is widespread, it is also extremely cumbersome and error-prone. But how does **HR planning** succeed without an **Excel template**, which is also **free of charge**?

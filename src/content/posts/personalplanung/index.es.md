@@ -3,11 +3,12 @@ title: 'Planificación del personal sin plantilla de Excel'
 date: 2022-07-15
 lastmod: '2022-07-27'
 author: 'cdb'
-url: '/es/personalplanung'
+url: '/es/personalplanung-draft'
 color: '#eeeeee'
 seo:
     title:
     description:
+draft: true
 ---
 
 ¿Planificación del personal? Utilizo una plantilla de Excel. Lo mejor es la gratuidad. Sólo tienes que descargarlo de Internet y ya está. Así es como lo ven todavía muchos departamentos de RRHH, lo cual es cualquier cosa menos sensato para una planificación óptima del personal, los turnos y las vacaciones. Porque aunque la planificación de personal con Excel está muy extendida, también es extremadamente engorrosa y propensa a errores. Pero, ¿cómo puede tener éxito **la planificación de** los recursos humanos sin una **plantilla de Excel**, que además es **gratuita**?
