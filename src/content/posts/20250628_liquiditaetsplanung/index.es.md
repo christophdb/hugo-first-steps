@@ -5,7 +5,7 @@ date: 2025-06-28
 lastmod: '2025-06-28'
 url: '/es/planificación-de-la-liquidez'
 category:
-    - 'best-practices'
+    - 'best-practice'
 tags:
     - 'Finanzas'
 color: '#aadbf3'
