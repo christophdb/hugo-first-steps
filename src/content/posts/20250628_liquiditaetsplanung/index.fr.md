@@ -3,7 +3,7 @@ title: 'Planification des liquidités : conseils pour votre plan de liquidités'
 description: "La planification des liquidités n'est pas seulement une mesure de précaution, c'est la condition sine qua non de la pérennité de l'entreprise."
 date: 2025-06-28
 lastmod: '2025-06-28'
-url: '/fr/planification des liquidités'
+url: '/fr/planification-des-liquidites'
 category:
     - 'best-practice'
 tags:
