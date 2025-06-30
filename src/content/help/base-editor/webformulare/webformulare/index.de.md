@@ -1,7 +1,7 @@
 ---
 title: 'Webformulare'
 date: 2022-08-25
-lastmod: '2024-02-14'
+lastmod: '2025-06-27'
 categories:
     - 'webformulare'
 author: 'cdb'
@@ -12,24 +12,17 @@ url: '/de/hilfe/webformulare'
 
 Machen Sie sich mit SeaTables Formularfunktion vertraut, um Daten bequem über Webformulare zu erheben!
 
-## Typen und Funktionsweise von Webformularen
+## Funktionsweise von Webformularen
 
-SeaTable kennt zwei Webformular-Typen:
-
-- **Klassisches Webformular**: Das klassische Webformular ist ideal für **Online-Umfragen** und die strukturierte Erfassung neuer Daten. Die Tabellenspalten werden mithilfe von **Formularfeldern** integriert und die Nutzer durch den Ausfüllprozess geleitet. Für den Zugriff erstellen Sie einen Link, über den die Nutzer **ohne SeaTable-Benutzerkonto** das Webformular ausfüllen können. Ein ausgefülltes Webformular entspricht dabei **einem Datensatz** bzw. einer hinzugefügten Zeile in der entsprechenden Tabelle.
-- **Sammelformular**: Mit Sammelformularen lassen sich im Team erstellte Daten einfach aktualisieren und erweitern. Der Vorteil gegenüber dem klassischen Formular besteht darin, dass man **mehrere Datensätze** in einem Formular erfassen kann. Ein Sammelformular sieht auf den ersten Blick aus wie eine normale Tabelle, allerdings werden dem Benutzer nur die Datensätze angezeigt, die er selbst erstellt hat. Alle anderen Datensätze bleiben ihm verborgen. **Nur angemeldete Benutzer** können Links zu Sammelformularen aufrufen.
-
-{{< warning  type="warning" headline="Keine Sammelformulare wählbar?"  text="Die Option, Sammelformulare zu erstellen, ist für **selbstgehostete Systeme** vorgesehen und daher in der **SeaTable Cloud (Free, Plus & Enterprise)** ausgeblendet." />}}
+Das klassische Webformular ist ideal für **Online-Umfragen** und die strukturierte Erfassung neuer Daten. Die Tabellenspalten werden mithilfe von **Formularfeldern** integriert und die Nutzer durch den Ausfüllprozess geleitet. Für den Zugriff erstellen Sie einen Link, über den die Nutzer **ohne SeaTable-Benutzerkonto** das Webformular ausfüllen können. Ein ausgefülltes Webformular entspricht dabei **einem Datensatz** bzw. einer hinzugefügten Zeile in der entsprechenden Tabelle.
 
 Webformulare beziehen sich immer auf eine **Tabelle** in der geöffneten Base. Daher müssen Sie zunächst die relevante Tabelle und Ansicht öffnen, bevor Sie ein Formular anlegen. In jeder Base können Sie eine **beliebige Anzahl** an Webformularen erstellen und speichern.
 
-## Klassisches Formular
-
-### Klassisches Formular erstellen
+## Klassisches Formular erstellen
 
 Öffnen Sie die Formularverwaltung über die Schaltfläche {{< seatable-icon icon="dtable-icon-form" >}} **Webformulare** oben rechts im Base-Header. Die Formularverwaltung präsentiert sich Ihnen als leere Liste, wenn in der Base noch keine Formulare angelegt wurden. Ansonsten werden die schon bestehenden Formulare in dem geöffneten Fenster angezeigt.
 
-![Optionen Klassisches Formular und Sammelformular](images/Optionen-Klassisches-Formular-und-Sammelformular.png)
+![Optionen Klassisches Formular](images/Optionen-Klassisches-Formular.gif)
 
 Sie erstellen ein neues Webformular, indem Sie am unteren Rand der Formularverwaltung auf **Webformular erstellen** klicken und dann **Klassisches Formular** wählen.
 
@@ -98,35 +91,3 @@ Sie können Webformulare jederzeit mithilfe des Webformular-Editors anpassen. Um
 ### Formular löschen
 
 Sie können Webformulare jederzeit über die Formularverwaltung löschen. Bewegen Sie den Mauszeiger auf den Namen des Formulars und klicken Sie dann rechts neben dem Namen auf das **Papierkorb-Icon** {{< seatable-icon icon="dtable-icon-delete" >}}.
-
-## Sammelformular
-
-### Sammelformular erstellen
-
-Öffnen Sie die Formularverwaltung über die Schaltfläche {{< seatable-icon icon="dtable-icon-form" >}} **Webformulare** oben rechts im Base-Header. Die Formularverwaltung präsentiert sich Ihnen als leere Liste, wenn in der Base noch keine Formulare angelegt wurden. Ansonsten werden die schon bestehenden Formulare in dem geöffneten Fenster angezeigt.
-
-![Optionen Klassisches Formular und Sammelformular](images/Optionen-Klassisches-Formular-und-Sammelformular.png)
-
-Um ein neues Sammelformular zu erstellen, klicken Sie auf **Webformular erstellen** am unteren Rand der Formularverwaltung und wählen Sie **Sammelformular**.
-
-{{< warning  type="warning" headline="Keine Sammelformulare wählbar?"  text="Die Option, Sammelformulare zu erstellen, ist für **selbstgehostete Systeme** vorgesehen und daher in der **SeaTable Cloud (Free, Plus & Enterprise)** ausgeblendet." />}}
-
-Geben Sie nun den **Namen** des neuen Webformulars ein, der auch in der Formularverwaltung angezeigt wird. Verwenden Sie einen prägnanten Namen, um bei vielen Formularen die Übersicht zu behalten. Natürlich können Sie den Namen später noch im Formular-Editor anpassen.
-
-Daraufhin öffnet sich der **Sammelformular-Editor** mit seiner zweigeteilten Ansicht: Links wird das Formular in einer Vorschau angezeigt, rechts befinden sich die Sammelformular-Einstellungen.
-
-Über die **Formular-Einstellungen** auf der rechten Seite können Sie für jede Spalte auswählen, ob diese im Sammelformular angezeigt oder ausgeblendet werden soll.
-
-{{< warning  type="warning" headline="Nicht wählbare Spaltentypen"  text="Spalten vom Typ Mitarbeiter, Formel, Formel für Verknüpfung, Ersteller, Erstellt, Letzter Bearbeiter, Zuletzt bearbeitet, Automatische Nummer und Schaltfläche werden in einem Sammelformular grundsätzlich nicht angezeigt." />}}
-
-Um zu prüfen, wie das Formular aussieht, klicken Sie oben rechts auf die Schaltfläche **Sammelformular**. In einem neuen Tab öffnet sich dann das Sammelformular. Sie sehen nur die Einträge in der Tabelle, die Sie erstellt haben, d.h. Sie sehen die Tabelle so, als ob Ihnen jemand den Formularlink zugesandt hat.
-
-Den **Link** für das Formular erhalten Sie im Sammelformular-Editor über die Schaltfläche **Freigeben** oder über die Formularverwaltung per Klick auf das **Teilen-Icon** {{< seatable-icon icon="dtable-icon-share" >}} rechts neben dem Namen des Formulars. Versenden Sie den Link nun an die Empfänger.
-
-### Sammelformular anpassen
-
-Sie können Sammelformulare jederzeit mithilfe des Sammelformular-Editors anpassen. Um in den Editor zurückzukehren, rufen Sie die Formularverwaltung auf, bewegen den Mauszeiger auf den Namen des Formulars und klicken dann rechts neben dem Namen auf das **Stift-Icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
-### Sammelformular löschen
-
-Sie können Sammelformulare jederzeit über die Formularverwaltung löschen. Bewegen Sie den Mauszeiger auf den Namen des Formulars und klicken Sie dann rechts neben dem Namen auf das **Papierkorb-Icon** {{< seatable-icon icon="dtable-icon-delete" >}}.
