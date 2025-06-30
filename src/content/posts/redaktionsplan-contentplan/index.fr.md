@@ -105,7 +105,7 @@ Votre plan de contenu doit au moins **contenir des colonnes pour un titre de tra
 
 ### 5\. définir des directives générales pour votre contenu
 
-Une fois la planification du contenu établie, vous devriez élaborer et documenter des directives de contenu avec votre équipe dans le cadre d'un [atelier](https://seatable.io/fr/workshop-planen/). Vous obtiendrez ainsi des contenus de qualité constante, même sur une longue période, auprès de plusieurs participants.
+Une fois la planification du contenu établie, vous devriez élaborer et documenter des directives de contenu avec votre équipe dans le cadre d'un [atelier]({{< relref "posts/workshop-planen" >}}). Vous obtiendrez ainsi des contenus de qualité constante, même sur une longue période, auprès de plusieurs participants.
 
 Il s'agit par exemple de la **manière de s'adresser aux lecteurs, du ton des textes, de l'utilisation d'emojis et de hashtags, de la résolution et de la taille des images, des liens, de la mise en forme et bien plus encore**. Ces directives complètent le plan éditorial et le rendent prêt à l'emploi. Si vous travaillez avec des freelances ou une agence, les guidelines vous aident à créer le contenu exactement comme vous le souhaitez.
 
@@ -115,7 +115,7 @@ Le [modèle de plan de contenu]({{< relref "templates/marketing/editorial-plan" 
 
 ### 1\. une structuration judicieuse avec des catégories
 
-Avec les colonnes de sélection simple, vous pouvez créer autant de catégories que vous le souhaitez. L'avantage est que vous pouvez ensuite **regrouper, filtrer ou effectuer des analyses statistiques**. Vous pouvez par exemple afficher tous les articles de blog non publiés ou uniquement votre [contenu Plan Social Media](https://seatable.io/fr/social-media-plan-vorlage/).
+Avec les colonnes de sélection simple, vous pouvez créer autant de catégories que vous le souhaitez. L'avantage est que vous pouvez ensuite **regrouper, filtrer ou effectuer des analyses statistiques**. Vous pouvez par exemple afficher tous les articles de blog non publiés ou uniquement votre [contenu Plan Social Media]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ### 2\. enregistrer les images et les documents dans le plan de contenu
 

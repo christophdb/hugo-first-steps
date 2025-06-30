@@ -37,10 +37,10 @@ Basically, a cost-benefit analysis is always appropriate when major financial in
 
 - want to modernize your IT equipment
 - Planning conversion measures for your business
-- Offer [training and further education measures](https://seatable.io/en/workshop-planen/) for your employees
+- Offer [training and further education measures]({{< relref "posts/workshop-planen" >}}) for your employees
 - want to implement new manufacturing processes
 - Introduce new business processes
-- want to expand your [vehicle fleet](https://seatable.io/en/fuhrparkmanagement/)
+- want to expand your [vehicle fleet]({{< relref "posts/fuhrparkmanagement" >}})
 
 ![Employee creates template for a cost-benefit analysis.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 

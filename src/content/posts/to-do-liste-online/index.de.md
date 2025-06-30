@@ -32,7 +32,7 @@ Wenn Sie Ihre To do Liste in einer App notieren, dient dies als eine Art **Ablag
 
 ### Struktur in die Arbeit bringen
 
-Auf der Arbeit können Sie mit einer To-do-Liste **Ihren Tag planen**. Verschieben Sie neue Aufgaben in entsprechende Kategorien, vergeben Sie Fristen, Prioritäten und Verantwortliche. Egal, wann und wo Ihnen eine Aufgabe einfällt, Sie können diese schnell dokumentieren. Das gilt für Ihre eigenen Aufgaben genauso wie für die [Arbeit in Teamprojekten](https://seatable.io/perfekte-aufgabenverwaltung-im-projektmanagement/).
+Auf der Arbeit können Sie mit einer To-do-Liste **Ihren Tag planen**. Verschieben Sie neue Aufgaben in entsprechende Kategorien, vergeben Sie Fristen, Prioritäten und Verantwortliche. Egal, wann und wo Ihnen eine Aufgabe einfällt, Sie können diese schnell dokumentieren. Das gilt für Ihre eigenen Aufgaben genauso wie für die [Arbeit in Teamprojekten]({{< relref "posts/aufgabenverwaltung" >}}).
 
 ### Zusammenhänge erkennen
 

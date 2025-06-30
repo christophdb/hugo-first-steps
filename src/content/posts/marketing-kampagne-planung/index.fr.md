@@ -54,7 +54,7 @@ Planification de la campagne marketing © REDPIXEL / adobe stock
 
 ### 5\. faire coïncider les mesures et le contenu lors de la planification de la campagne de marketing
 
-Une fois tous les aspects organisationnels réglés, il faut passer à la planification du contenu de votre campagne de marketing. Cette étape implique que vous décidiez avec votre équipe [quels contenus](https://seatable.io/fr/social-media-plan-vorlage/) doivent être [diffusés, dans quel format et sur quels canaux](https://seatable.io/fr/social-media-plan-vorlage/) - en gardant toujours à l'esprit le groupe cible, la concurrence et le marché. Les aspects juridiques sont également importants dans ce contexte. Ainsi, pour chaque mesure de campagne, vous devez tenir compte des droits d'auteur applicables aux photos utilisées, des cas où les directives publicitaires doivent être respectées et des directives imposées par les différentes plateformes utilisées.
+Une fois tous les aspects organisationnels réglés, il faut passer à la planification du contenu de votre campagne de marketing. Cette étape implique que vous décidiez avec votre équipe [quels contenus]({{< relref "templates/marketing/social-media-plan" >}}) doivent être [diffusés, dans quel format et sur quels canaux]({{< relref "templates/marketing/social-media-plan" >}}) - en gardant toujours à l'esprit le groupe cible, la concurrence et le marché. Les aspects juridiques sont également importants dans ce contexte. Ainsi, pour chaque mesure de campagne, vous devez tenir compte des droits d'auteur applicables aux photos utilisées, des cas où les directives publicitaires doivent être respectées et des directives imposées par les différentes plateformes utilisées.
 
 ### 6\. mise en œuvre, suivi et contrôle des résultats
 

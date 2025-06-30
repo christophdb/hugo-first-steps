@@ -55,9 +55,9 @@ Seleccione a língua actualmente utilizada no seu sítio web e escolha a língua
 
 O que se segue parece agora quase como magia. A partir de agora, todas as páginas do seu sítio web estão disponíveis aos visitantes em duas línguas. Para além da página web original, existe agora um novo URL para cada nova língua na qual a abreviatura da língua foi inserida.
 
-> **https://seatable.io/blog/** - a nossa língua original alemão  
-> **https://seatable.io/en/blog/** - website inglês traduzido por Weglot  
-> **https://seatable.io/fr/blog/** - Sítio web francês traduzido por Weglot
+> **https://seatable.com/blog/** - a nossa língua original alemão  
+> **https://seatable.com/en/blog/** - website inglês traduzido por Weglot  
+> **https://seatable.com/fr/blog/** - Sítio web francês traduzido por Weglot
 
 Cada vez que uma página é chamada por um utilizador, Weglot verifica se esta página já foi traduzida ou se algo mudou e depois efectua a tradução correspondente. Weglot combina várias técnicas de tradução tais como [Google Translate](https://translate.google.com/) e [Deepl](https://www.deepl.com/translator) e gera uma tradução extremamente adequada a partir das várias traduções na maioria dos casos. Se uma página tiver de ser traduzida primeiro, pode demorar um breve momento até que a página seja efectivamente carregada. Contudo, este atraso ocorre apenas na primeira vez que a página é chamada. Cada visitante subsequente verá a página imediatamente.
 

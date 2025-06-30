@@ -105,7 +105,7 @@ Su plan de contenidos debe **contener al menos columnas para un título provisio
 
 ### 5\. defina directrices generales para sus contenidos
 
-Una vez que haya planificado el contenido, debe desarrollar y documentar las directrices de contenido con su equipo en un [taller](https://seatable.io/es/workshop-planen/). De este modo, podrá asegurarse de que el contenido alcanza una calidad homogénea incluso durante un periodo de tiempo más largo con varios participantes.
+Una vez que haya planificado el contenido, debe desarrollar y documentar las directrices de contenido con su equipo en un [taller]({{< relref "posts/workshop-planen" >}}). De este modo, podrá asegurarse de que el contenido alcanza una calidad homogénea incluso durante un periodo de tiempo más largo con varios participantes.
 
 Incluyen, por ejemplo, **cómo dirigirse a los lectores, la tonalidad de los textos, el uso de emojis y hashtags, la resolución y el tamaño de las imágenes, los enlaces, el formato y mucho más**. Las directrices completan el plan editorial y lo dejan listo para su uso. Si trabajas con autónomos o una agencia, las directrices te ayudan a crear contenidos exactamente como los quieres.
 
@@ -115,7 +115,7 @@ Con la [plantilla]({{< relref "templates/marketing/editorial-plan" >}}) gratuita
 
 ### 1\. estructuración significativa con categorías
 
-Puede crear cualquier número de categorías con las columnas de selección única. La ventaja es que después puede **agrupar, filtrar o realizar análisis estadísticos**. Por ejemplo, puedes mostrar todos los artículos de blog no publicados o solo tu [plan de contenidos para redes sociales](https://seatable.io/es/social-media-plan-vorlage/).
+Puede crear cualquier número de categorías con las columnas de selección única. La ventaja es que después puede **agrupar, filtrar o realizar análisis estadísticos**. Por ejemplo, puedes mostrar todos los artículos de blog no publicados o solo tu [plan de contenidos para redes sociales]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ### 2\. guardar imágenes y documentos en el plan de contenidos
 

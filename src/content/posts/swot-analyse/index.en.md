@@ -46,7 +46,7 @@ As both the environment and internal company factors are considered, the SWOT an
 
 ### To carry out a SWOT analysis
 
-The best way to do this is to [plan](https://seatable.io/en/workshop-planen/) a [workshop](https://seatable.io/en/workshop-planen/) in which your teams brainstorm together on the four categories. **You should collect** all the **ideas in a matrix**. A mind map on a whiteboard or a SWOT analysis template in Excel or Word that explains the SWOT analysis simply can help at the beginning.
+The best way to do this is to [plan]({{< relref "posts/workshop-planen" >}}) a [workshop]({{< relref "posts/workshop-planen" >}}) in which your teams brainstorm together on the four categories. **You should collect** all the **ideas in a matrix**. A mind map on a whiteboard or a SWOT analysis template in Excel or Word that explains the SWOT analysis simply can help at the beginning.
 
 But what belongs in the four categories?
 

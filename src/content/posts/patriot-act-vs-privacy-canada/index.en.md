@@ -68,7 +68,7 @@ Compared to Airtable, SeaTable impresses with multilingualism, higher memory lim
 
 In addition, SeaTable offers a self-hosted variant that allows you to install and operate the software as an [on-premises solution]({{< relref "pages/product/seatable-server" >}}) on your own servers. This gives you absolute data sovereignty and maximum control over where your data is stored. No matter which option you choose, SeaTable is compliant with Canadian privacy laws.
 
-You want to capture data in a structured way, complete tasks efficiently and develop powerful processes - without having to worry about the security of your data? Then convince yourself and [register here]({{< relref "pages/registration" >}}) for a **SeaTable Free subscription**, which already provides you with numerous useful [functions](https://seatable.io/en/preise). The subscription is **completely free for** you and a perfect opportunity to test SeaTable without obligation.
+You want to capture data in a structured way, complete tasks efficiently and develop powerful processes - without having to worry about the security of your data? Then convince yourself and [register here]({{< relref "pages/registration" >}}) for a **SeaTable Free subscription**, which already provides you with numerous useful [functions]({{< relref "pages/prices" >}}). The subscription is **completely free for** you and a perfect opportunity to test SeaTable without obligation.
 
 Not convinced yet? You can find more information about SeaTable on the [website](https://seatable.io/en/).
 
@@ -76,6 +76,6 @@ Not convinced yet? You can find more information about SeaTable on the [website]
 
 ### Tip for Airtable users
 
-A detailed comparison of Airtable and SeaTable can be found [here](https://seatable.io/en/airtable-alternative). As an Airtable user, you can also easily migrate all your base data to SeaTable without any programming knowledge by using a script. How this works is explained in [this help article]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
+A detailed comparison of Airtable and SeaTable can be found [here]({{< relref "pages/airtable-alternative" >}}). As an Airtable user, you can also easily migrate all your base data to SeaTable without any programming knowledge by using a script. How this works is explained in [this help article]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
 
 {{< warning headline="Disclaimer" text="Privacy laws vary from region to region and may change at any time. Despite thorough research, this article is not a substitute for authoritative legal advice in your country, so we cannot accept responsibility for any legal misconceptions." />}}

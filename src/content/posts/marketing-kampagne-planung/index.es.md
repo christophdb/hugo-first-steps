@@ -56,7 +56,7 @@ Planificación de una campaña de marketing © REDPIXEL / adobe stock
 
 ### 5\. Aunar medidas y contenidos al planificar la campaña de marketing
 
-Una vez abordados todos los aspectos organizativos, es hora de planificar el contenido de la campaña de marketing. Este paso implica decidir junto con el equipo [qué contenido debe reproducirse en qué formato y en qué canales](https://seatable.io/social-media-plan-vorlage/), siempre teniendo en cuenta el grupo objetivo, la competencia y el mercado. Los aspectos legales también son importantes en este contexto. Para cada medida de la campaña, hay que tener en cuenta qué derechos de autor se aplican a las fotos utilizadas, cuándo hay que respetar las directrices publicitarias y qué especificaciones hacen las distintas plataformas utilizadas.
+Una vez abordados todos los aspectos organizativos, es hora de planificar el contenido de la campaña de marketing. Este paso implica decidir junto con el equipo [qué contenido debe reproducirse en qué formato y en qué canales]({{< relref "templates/marketing/social-media-plan" >}}), siempre teniendo en cuenta el grupo objetivo, la competencia y el mercado. Los aspectos legales también son importantes en este contexto. Para cada medida de la campaña, hay que tener en cuenta qué derechos de autor se aplican a las fotos utilizadas, cuándo hay que respetar las directrices publicitarias y qué especificaciones hacen las distintas plataformas utilizadas.
 
 ### 6\. Ejecución, seguimiento y control del éxito
 

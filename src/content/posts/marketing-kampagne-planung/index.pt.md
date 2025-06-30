@@ -54,7 +54,7 @@ Planeamento da campanha de marketing © REDPIXEL / stock de adobe
 
 ### 5\. Reunir acções e conteúdos ao planear a campanha de marketing.
 
-Uma vez tratados todos os aspectos organizacionais, é tempo de planear o conteúdo da sua campanha de marketing. Este passo inclui decidir juntamente com a equipa que [conteúdo](https://seatable.io/pt/social-media-plan-vorlage/) deve ser jogado em [que formato em que canais](https://seatable.io/pt/social-media-plan-vorlage/) - sempre com o grupo-alvo, concorrência e mercado em mente. Os aspectos jurídicos são também importantes neste contexto. Para cada campanha, deverá considerar quais os direitos de autor aplicáveis às fotografias utilizadas, quando as directrizes publicitárias devem ser observadas e quais as especificações aplicáveis às várias plataformas utilizadas.
+Uma vez tratados todos os aspectos organizacionais, é tempo de planear o conteúdo da sua campanha de marketing. Este passo inclui decidir juntamente com a equipa que [conteúdo]({{< relref "templates/marketing/social-media-plan" >}}) deve ser jogado em [que formato em que canais]({{< relref "templates/marketing/social-media-plan" >}}) - sempre com o grupo-alvo, concorrência e mercado em mente. Os aspectos jurídicos são também importantes neste contexto. Para cada campanha, deverá considerar quais os direitos de autor aplicáveis às fotografias utilizadas, quando as directrizes publicitárias devem ser observadas e quais as especificações aplicáveis às várias plataformas utilizadas.
 
 ### 6 Implementação, monitorização e controlo do sucesso
 

@@ -74,7 +74,7 @@ This results in a kind of guideline that you can use to develop an effective kno
 - **Knowledge acquisition:** Buying in knowledge from external experts to close knowledge gaps.
 - **Knowledge sharing:** Open access to and active sharing of existing knowledge.
 
-A variety of well-known methods can be used to distribute knowledge, for example [workshops](https://seatable.io/en/workshop-planen/), lessons learned, [team meetings](https://seatable.io/en/in-4-schritten-zu-effizienteren-teammeetings/), mentoring, [onboarding](https://seatable.io/en/onboarding/) or internal newsletters.
+A variety of well-known methods can be used to distribute knowledge, for example [workshops]({{< relref "posts/workshop-planen" >}}), lessons learned, [team meetings](https://seatable.io/en/in-4-schritten-zu-effizienteren-teammeetings/), mentoring, [onboarding](https://seatable.io/en/onboarding/) or internal newsletters.
 
 ![In order to operate knowledge management, it is important that all employees are up to date and actively exchange information.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 

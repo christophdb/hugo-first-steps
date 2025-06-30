@@ -31,7 +31,7 @@ Se escrever a sua lista de tarefas numa aplicação, esta serve como uma espéci
 
 ### Estruturar o seu trabalho
 
-No trabalho, pode **planear o seu dia** com uma lista de tarefas. Mova as novas tarefas para as categorias adequadas, atribua prazos, prioridades e responsáveis. Independentemente de quando e onde se lembrar de uma tarefa, pode documentá-la rapidamente. Isto aplica-se tanto às suas próprias tarefas como ao [trabalho em projectos de equipa](https://seatable.io/pt/perfekte-aufgabenverwaltung-im-projektmanagement/).
+No trabalho, pode **planear o seu dia** com uma lista de tarefas. Mova as novas tarefas para as categorias adequadas, atribua prazos, prioridades e responsáveis. Independentemente de quando e onde se lembrar de uma tarefa, pode documentá-la rapidamente. Isto aplica-se tanto às suas próprias tarefas como ao [trabalho em projectos de equipa]({{< relref "posts/aufgabenverwaltung" >}}).
 
 ### Reconhecer ligações
 

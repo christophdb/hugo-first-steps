@@ -143,6 +143,6 @@ On this screenshot you can clearly see that the categories _Feature_ and _Price_
 
 Only a company that takes its customers' wishes seriously can be successful in the long term. To do this, however, it is essential that you understand what moves your customers. Use qualitative surveys and establish processes to ensure a constant flow of customer feedback. NPS and qualitative questionnaires can help you gather this information.
 
-Make sure that you don't lose sight of the important issues because of all the information. Therefore, prioritize your information and derive courses of action from it. Take time to deal with [negative feedback](https://seatable.io/en/negatives-kundenfeedback/).
+Make sure that you don't lose sight of the important issues because of all the information. Therefore, prioritize your information and derive courses of action from it. Take time to deal with negative feedback.
 
 If you plan to improve your customers' user experience permanently, try SeaTable. SeaTable gives you the [tools you need to]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) increase your customers' satisfaction. Don't wait for tomorrow, establish a solid process for surveying your customer satisfaction today!

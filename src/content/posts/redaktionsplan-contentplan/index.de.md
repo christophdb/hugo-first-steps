@@ -106,7 +106,7 @@ In Ihrem Content Plan sollten mindestens **Spalten für einen Arbeitstitel oder 
 
 ### 5\. Allgemeine Richtlinien für Ihren Content festlegen
 
-Steht die Planung des Contents, sollten Sie in einem [Workshop](https://seatable.io/workshop-planen/) Content-Guidelines mit Ihrem Team erarbeiten und dokumentieren. So erreichen Sie, dass die Inhalte auch über einen längeren Zeitraum bei mehreren Beteiligten gleichbleibende Qualität erreichen.
+Steht die Planung des Contents, sollten Sie in einem [Workshop]({{< relref "posts/workshop-planen" >}}) Content-Guidelines mit Ihrem Team erarbeiten und dokumentieren. So erreichen Sie, dass die Inhalte auch über einen längeren Zeitraum bei mehreren Beteiligten gleichbleibende Qualität erreichen.
 
 Hier geht es zum Beispiel um die **Anrede der Leser, Tonalität der Texte, Verwendung von Emojis und Hashtags, Auflösung und Größe der Bilder, Links, Formatierungen und mehr**. Die Richtlinien runden den Redaktionsplan ab und machen ihn einsatzbereit. Wenn Sie mit Freelancern oder einer Agentur zusammenarbeiten, helfen Guidelines, den Content genau in Ihrem Sinne zu erstellen.
 
@@ -116,7 +116,7 @@ Mit der kostenlosen [Contentplan Vorlage]({{< relref "templates/marketing/editor
 
 ### 1\. Sinnvolle Strukturierung mit Kategorien
 
-Mit den Einfachauswahl-Spalten können Sie beliebig viele Kategorien erstellen. Der Vorteil daran ist, dass Sie später **gruppieren, filtern oder statistische Auswertungen vornehmen** können. Lassen Sie sich zum Beispiel alle unveröffentlichten Blogartikel oder nur Ihren [Content Plan Social Media](https://seatable.io/social-media-plan-vorlage/) anzeigen.
+Mit den Einfachauswahl-Spalten können Sie beliebig viele Kategorien erstellen. Der Vorteil daran ist, dass Sie später **gruppieren, filtern oder statistische Auswertungen vornehmen** können. Lassen Sie sich zum Beispiel alle unveröffentlichten Blogartikel oder nur Ihren [Content Plan Social Media]({{< relref "templates/marketing/social-media-plan" >}}) anzeigen.
 
 ### 2\. Bilder und Dokumente im Contentplan speichern
 

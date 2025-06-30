@@ -81,7 +81,7 @@ Para utilizar la base de datos en línea de forma gratuita, necesita la versión
 Otra base de datos relacional muy popular es [la base de datos Oracle](https://www.oracle.com/de/database/). Sus principales funciones son el desarrollo de aplicaciones y el almacenamiento de datos. Si busca una base de datos en línea gratuita, tiene dos opciones:
 
 - **Procesamiento autónomo de transacciones de Oracle**: La forma en que se almacenan los datos facilita las tareas cotidianas con la base de datos en línea.
-- **Oracle Autonomous Data Warehouse**: Este tipo de almacenamiento facilita los [análisis](https://seatable.io/es/swot-analyse-template/).
+- **Oracle Autonomous Data Warehouse**: Este tipo de almacenamiento facilita los [análisis]({{< relref "templates/operations/swot-analysis" >}}).
 
 En ambos casos, el espacio de almacenamiento de la base de datos está limitado a 20 GB.
 

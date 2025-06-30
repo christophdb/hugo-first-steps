@@ -40,7 +40,7 @@ Na área **Minhas Bases** e em cada **grupo** em que é administrador, encontrar
 Tem **três opções** ao criar uma nova base. Pode ler mais sobre isto nos respectivos artigos:
 
 - [Criar uma base vazia]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Importar base a partir de um ficheiro](https://seatable.io/pt/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
+- [Importar base a partir de um ficheiro]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
 - [Criar base a partir de um modelo]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}})
 
 ## Gestão de base

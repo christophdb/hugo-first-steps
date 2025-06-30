@@ -40,7 +40,7 @@ In the **My Bases** section and in each **group** where you are an administrator
 You have **three options** when creating a new Base. You can read more about them in the respective articles:
 
 - [Create empty base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Import base from a file](https://seatable.io/en/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
+- [Import base from a file]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
 - [Create base from template]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}})
 
 ## Base management

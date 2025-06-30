@@ -37,10 +37,10 @@ Im Grunde passt eine Kosten-Nutzen-Analyse immer, wenn größere finanzielle Inv
 
 - Ihre IT-Ausstattung modernisieren möchten
 - Umbaumaßnahmen für Ihren Betrieb planen
-- [Aus- und Weiterbildungsmaßnahmen](https://seatable.io/workshop-planen/) für Ihre Mitarbeiter anbieten
+- [Aus- und Weiterbildungsmaßnahmen]({{< relref "posts/workshop-planen" >}}) für Ihre Mitarbeiter anbieten
 - neue Fertigungsverfahren implementieren möchten
 - neue betriebswirtschaftliche Prozesse einführen
-- Ihre [Fahrzeugflotte](https://seatable.io/fuhrparkmanagement/) vergrößern möchten
+- Ihre [Fahrzeugflotte]({{< relref "posts/fuhrparkmanagement" >}}) vergrößern möchten
 
 ![Mitarbeiter erstellt Vorlage für eine Kosten-Nutzen-Analyse.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 

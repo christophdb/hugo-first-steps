@@ -15,7 +15,7 @@ One thing is particularly important for a successful social media presence: **po
 
 Sometimes this does not require in-depth topics or elaborate texts. Sometimes it is enough to keep your followers up to date with a small piece of information or something similar. With regular posts, you can strengthen your followers' **brand awareness** of your company and increase **traffic** from social media to your own website.
 
-To ensure that you don't run out of material for posts despite having a well-thought-out [social media plan](https://seatable.io/en/content-ideen/#Nutzen_Sie_SeaTable_um_Ihre_Content-Ideen_zu_planen), we have some content ideas that you can implement quickly and easily on social media. This will help you maintain your social media channels even on stressful days.
+To ensure that you don't run out of material for posts despite having a well-thought-out [social media plan]({{< relref "templates/marketing/social-media-plan" >}}), we have some content ideas that you can implement quickly and easily on social media. This will help you maintain your social media channels even on stressful days.
 
 ## 1\. behind the scenes
 

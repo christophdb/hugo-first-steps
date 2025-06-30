@@ -14,7 +14,7 @@ Para que las empresas crezcan y se desarrollen, se fijan constantemente nuevos o
 
 ## ¿Qué es un plan de acción?
 
-Un plan de acción es una herramienta muy poderosa para alcanzar objetivos en las organizaciones. La visión de conjunto del plan sirve para estructurar las actividades y registrar cuándo se van a llevar a cabo, por quién, en qué condiciones y dónde exactamente. Así, puede entenderse como una especie de [lista de tareas](https://seatable.io/es/to-do-liste-online/) y herramienta de comunicación para toda la empresa. De este modo, se pueden definir diferentes medidas para distintos objetivos, que los empleados de la empresa pueden utilizar como guía y con las que pueden trabajar concretamente. De este modo, los objetivos no se quedan en meras visiones, sino que, con los esfuerzos adecuados y un plan de acción eficaz, se convierten en realidad en poco tiempo.
+Un plan de acción es una herramienta muy poderosa para alcanzar objetivos en las organizaciones. La visión de conjunto del plan sirve para estructurar las actividades y registrar cuándo se van a llevar a cabo, por quién, en qué condiciones y dónde exactamente. Así, puede entenderse como una especie de [lista de tareas]({{< relref "posts/to-do-liste-online" >}}) y herramienta de comunicación para toda la empresa. De este modo, se pueden definir diferentes medidas para distintos objetivos, que los empleados de la empresa pueden utilizar como guía y con las que pueden trabajar concretamente. De este modo, los objetivos no se quedan en meras visiones, sino que, con los esfuerzos adecuados y un plan de acción eficaz, se convierten en realidad en poco tiempo.
 
 ### ¿Y por qué es importante un plan de acción para las empresas?
 

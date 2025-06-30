@@ -31,7 +31,7 @@ Si anotas tu lista de tareas en una aplicación, ésta te servirá como una espe
 
 ### Estructurar el trabajo
 
-En el trabajo, puedes **planificar tu jornada** con una lista de tareas. Mueve las nuevas tareas a las categorías adecuadas, asigna plazos, prioridades y responsables. No importa cuándo y dónde se te ocurra una tarea, puedes documentarla rápidamente. Esto se aplica tanto a tus propias tareas como al [trabajo en proyectos de equipo](https://seatable.io/es/perfekte-aufgabenverwaltung-im-projektmanagement/).
+En el trabajo, puedes **planificar tu jornada** con una lista de tareas. Mueve las nuevas tareas a las categorías adecuadas, asigna plazos, prioridades y responsables. No importa cuándo y dónde se te ocurra una tarea, puedes documentarla rápidamente. Esto se aplica tanto a tus propias tareas como al [trabajo en proyectos de equipo]({{< relref "posts/aufgabenverwaltung" >}}).
 
 ### Reconocer las conexiones
 

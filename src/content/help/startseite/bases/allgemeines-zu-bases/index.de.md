@@ -41,7 +41,7 @@ Im Bereich **Meine Bases** und in jeder **Gruppe**, in der Sie Administrator sin
 Bei der Erstellung einer neuen Base haben Sie **drei Optionen**. Mehr dazu erfahren Sie in den jeweiligen Artikeln:
 
 - [Leere Base erstellen]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Base aus einer Datei importieren](https://seatable.io/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
+- [Base aus einer Datei importieren]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
 - [Base aus einer Vorlage erstellen]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}})
 
 ## Verwaltung von Bases

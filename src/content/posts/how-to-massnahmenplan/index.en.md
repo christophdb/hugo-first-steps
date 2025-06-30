@@ -15,7 +15,7 @@ In order for companies to grow and develop, they constantly set themselves new g
 
 ## What is an action plan?
 
-An action plan is a very powerful tool for achieving goals within organisations. The overview in the plan serves to structure activities and records when they are to take place, by whom, under what conditions and where exactly. It can thus be understood as a kind of [to-do list](https://seatable.io/en/to-do-liste-online/) and communication tool for the entire company. In this way, different measures can be defined for different goals, which the employees in the company can use as a guide and with which they can work concretely. In this way, goals do not remain just visions, but with the right efforts and an efficient action plan, they become reality in no time.
+An action plan is a very powerful tool for achieving goals within organisations. The overview in the plan serves to structure activities and records when they are to take place, by whom, under what conditions and where exactly. It can thus be understood as a kind of [to-do list]({{< relref "posts/to-do-liste-online" >}}) and communication tool for the entire company. In this way, different measures can be defined for different goals, which the employees in the company can use as a guide and with which they can work concretely. In this way, goals do not remain just visions, but with the right efforts and an efficient action plan, they become reality in no time.
 
 ### And why is an action plan important for companies?
 

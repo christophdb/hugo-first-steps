@@ -12,7 +12,7 @@ seo:
 
 La crise de la Corona oblige actuellement des millions de personnes à travailler à domicile. Si certains s'adaptent facilement à cette nouvelle situation, beaucoup ont du mal à s'y faire. Vous aussi, vous ne savez pas vraiment comment commencer le matin ? Vous oubliez constamment votre pause déjeuner et mangez à la place vos sandwichs vite faits devant votre ordinateur ? Nous vous donnons de précieux conseils et vous présentons des avantages qui vous faciliteront certainement la tâche.
 
-Vous êtes chef d'équipe et vous vous demandez comment organiser au mieux vos réunions hebdomadaires depuis votre bureau à domicile ? Jetez donc un coup d'œil [ici](https://seatable.io/fr/team-meetings-remote-organisieren/), nous avons développé le modèle qui vous convient !
+Vous êtes chef d'équipe et vous vous demandez comment organiser au mieux vos réunions hebdomadaires depuis votre bureau à domicile ? Jetez donc un coup d'œil [ici]({{< relref "templates/projects/team-meetings" >}}), nous avons développé le modèle qui vous convient !
 
 ## 1\. une routine le matin
 

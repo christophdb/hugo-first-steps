@@ -106,7 +106,7 @@ As a minimum, your content plan should contain **columns for a working title or 
 
 ### 5\. define general guidelines for your content
 
-Once you have planned the content, you should develop and document content guidelines with your team in a [workshop](https://seatable.io/en/workshop-planen/). In this way, you can ensure that the content achieves consistent quality even over a longer period of time with several participants.
+Once you have planned the content, you should develop and document content guidelines with your team in a [workshop]({{< relref "posts/workshop-planen" >}}). In this way, you can ensure that the content achieves consistent quality even over a longer period of time with several participants.
 
 These include, for example, **how to address readers, the tonality of texts, the use of emojis and hashtags, the resolution and size of images, links, formatting and more**. The guidelines round off the editorial plan and make it ready for use. If you are working with freelancers or an agency, guidelines help you to create content exactly as you want it.
 
@@ -116,7 +116,7 @@ With SeaTable's free [content plan template]({{< relref "templates/marketing/edi
 
 ### 1\. meaningful structuring with categories
 
-You can create any number of categories with the single selection columns. The advantage of this is that you can later **group, filter or carry out statistical evaluations**. For example, you can display all unpublished blog articles or just your [social media content plan](https://seatable.io/en/social-media-plan-vorlage/).
+You can create any number of categories with the single selection columns. The advantage of this is that you can later **group, filter or carry out statistical evaluations**. For example, you can display all unpublished blog articles or just your [social media content plan]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ### 2\. save images and documents in the content plan
 

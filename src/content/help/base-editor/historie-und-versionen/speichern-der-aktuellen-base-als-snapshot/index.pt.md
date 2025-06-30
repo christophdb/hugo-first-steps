@@ -28,7 +28,7 @@ Pode guardar uma base no SeaTable como um **instantâneo** a qualquer momento. O
 
 Os instantâneos das bases são mantidos durante um determinado período de tempo e depois eliminados.
 
-Com o [SeaTable Cloud](https://seatable.io/pt/), a duração do armazenamento dos instantâneos depende da [subscrição da sua equipa]({{< relref "pages/prices" >}}):
+Com o [SeaTable Cloud](https://cloud.seatable.io), a duração do armazenamento dos instantâneos depende da [subscrição da sua equipa]({{< relref "pages/prices" >}}):
 
 - Com a **subscrição** gratuita, os instantâneos são guardados durante um mês.
 - Com a **subscrição** **Plus** ou **Enterprise**, os instantâneos são armazenados durante 6 ou 12 meses. (O período de armazenamento alargado aplica-se a partir do momento da atualização).

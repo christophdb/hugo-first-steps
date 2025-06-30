@@ -58,7 +58,7 @@ Antes de empezar con el concepto para su plan editorial de medios sociales, debe
 
 ¿Qué redes sociales utiliza?
 
-Entonces es el momento de elegir la herramienta que mejor se adapte a su proyecto. A continuación encontrará más información sobre [**herramientas y plantillas para su plan de redes sociales**](https://seatable.io/es/social-media-plan-vorlage/#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
+Entonces es el momento de elegir la herramienta que mejor se adapte a su proyecto. A continuación encontrará más información sobre [**herramientas y plantillas para su plan de redes sociales**]({{< relref "templates/marketing/social-media-plan" >}}#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
 
 ## Qué debe incluir un plan editorial para las redes sociales
 

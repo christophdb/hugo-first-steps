@@ -31,7 +31,7 @@ Si vous notez votre liste de choses à faire dans une application, cela sert en 
 
 ### Apporter de la structure dans le travail
 
-Au travail, vous pouvez **planifier votre journée** à l'aide d'une liste de choses à faire. Déplacez les nouvelles tâches dans les catégories correspondantes, attribuez des délais, des priorités et des responsables. Peu importe quand et où une tâche vous vient à l'esprit, vous pouvez la documenter rapidement. Cela vaut aussi bien pour vos propres tâches que pour le [travail dans des projets d'équipe](https://seatable.io/fr/perfekte-aufgabenverwaltung-im-projektmanagement/).
+Au travail, vous pouvez **planifier votre journée** à l'aide d'une liste de choses à faire. Déplacez les nouvelles tâches dans les catégories correspondantes, attribuez des délais, des priorités et des responsables. Peu importe quand et où une tâche vous vient à l'esprit, vous pouvez la documenter rapidement. Cela vaut aussi bien pour vos propres tâches que pour le [travail dans des projets d'équipe]({{< relref "posts/aufgabenverwaltung" >}}).
 
 ### Reconnaître les liens
 

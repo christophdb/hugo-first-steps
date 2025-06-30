@@ -129,7 +129,7 @@ Fertiggerichte für jede Mittagspause können kostspielig sein. Hier können Sie
 
 Wenn Sie in jeder Mittagspause teure Fertiggerichte im Supermarkt kaufen, Essen ins Büro bestellen oder beim Imbiss um die Ecke speisen, gehen circa 5 bis 10 Euro pro Werktag flöten. So können schnell 150 Euro im Monat zusammenkommen. Kochen Sie stattdessen lieber größere Mengen an Essen vor und wärmen Sie sich Ihre Leibgerichte in der Mittagspause auf. Dadurch haben Sie im Haushaltsbuch mehr Budget für andere Dinge.
 
-[In diesem Artikel erfahren Sie, wie Sie mit Meal Prep nicht nur günstiger, sondern auch gesünder durch die Woche kommen.](https://seatable.io/meal-prep-gesund-und-guenstig-essen-vorkochen/)
+[In diesem Artikel erfahren Sie, wie Sie mit Meal Prep nicht nur günstiger, sondern auch gesünder durch die Woche kommen.]({{< relref "posts/meal-prep" >}})
 
 ### 11\. Verzichten Sie auf Nahrungsergänzungsmittel
 

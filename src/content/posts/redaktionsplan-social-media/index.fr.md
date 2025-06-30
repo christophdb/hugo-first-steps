@@ -58,7 +58,7 @@ Avant de commencer à concevoir votre plan éditorial pour les médias sociaux, 
 
 Quels sont les canaux de médias sociaux que vous utilisez ?
 
-Il s'agit ensuite de choisir l'outil qui soutiendra le mieux votre projet. Vous trouverez ci-dessous plus d'informations sur les [**Outils et modèles pour votre plan de médias sociaux**](https://seatable.io/fr/social-media-plan-vorlage/#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
+Il s'agit ensuite de choisir l'outil qui soutiendra le mieux votre projet. Vous trouverez ci-dessous plus d'informations sur les [**Outils et modèles pour votre plan de médias sociaux**]({{< relref "templates/marketing/social-media-plan" >}}#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
 
 ## Ce que doit couvrir un plan éditorial pour les médias sociaux
 

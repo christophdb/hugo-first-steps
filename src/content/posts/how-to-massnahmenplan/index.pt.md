@@ -14,7 +14,7 @@ Para que as empresas cresçam e se desenvolvam, estabelecem constantemente novos
 
 ## O que é um plano de acção?
 
-Um plano de acção é um instrumento muito poderoso para atingir objectivos dentro das organizações. A visão geral no plano serve para estruturar as actividades e registos quando estas devem ter lugar, por quem, em que condições e onde exactamente. Pode assim ser entendida como uma espécie de [lista de afazeres](https://seatable.io/pt/to-do-liste-online/) e instrumento de comunicação para toda a empresa. Desta forma, podem ser definidas diferentes medidas para diferentes objectivos, que os empregados da empresa podem utilizar como guia e com as quais podem trabalhar de forma concreta. Desta forma, os objectivos não permanecem apenas visões, mas com os esforços certos e um plano de acção eficiente, tornam-se realidade num instante.
+Um plano de acção é um instrumento muito poderoso para atingir objectivos dentro das organizações. A visão geral no plano serve para estruturar as actividades e registos quando estas devem ter lugar, por quem, em que condições e onde exactamente. Pode assim ser entendida como uma espécie de [lista de afazeres]({{< relref "posts/to-do-liste-online" >}}) e instrumento de comunicação para toda a empresa. Desta forma, podem ser definidas diferentes medidas para diferentes objectivos, que os empregados da empresa podem utilizar como guia e com as quais podem trabalhar de forma concreta. Desta forma, os objectivos não permanecem apenas visões, mas com os esforços certos e um plano de acção eficiente, tornam-se realidade num instante.
 
 ### E porque é que um plano de acção é importante para as empresas?
 

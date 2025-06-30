@@ -56,9 +56,9 @@ Select your currently used language on your website and choose the language you 
 
 What follows now seems almost like magic. From now on, all pages on your website are available to visitors in two languages. In addition to the original web page, there is now a new URL for each new language in which the language abbreviation has been inserted.
 
-> **https://seatable.io/blog/** - our original language German  
-> **https://seatable.io/en/blog/** - English website translated by Weglot  
-> **https://seatable.io/fr/blog/** - French website translated by Weglot
+> **https://seatable.com/blog/** - our original language German  
+> **https://seatable.com/en/blog/** - English website translated by Weglot  
+> **https://seatable.com/fr/blog/** - French website translated by Weglot
 
 Every time a page is called up by a user, Weglot checks whether this page has already been translated or whether something has changed and then carries out the corresponding translation. Weglot combines various translation techniques such as [Google Transl](https://translate.google.com/) ate and [Deepl](https://www.deepl.com/translator) and generates an extremely suitable translation from the various translations in most cases. If a page has to be translated first, it may take a short moment before the page actually loads. However, this delay only occurs the first time the page is called up. Every subsequent visitor will see the page immediately.
 

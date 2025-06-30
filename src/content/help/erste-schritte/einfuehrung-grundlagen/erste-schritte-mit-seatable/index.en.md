@@ -15,7 +15,7 @@ If you're not sure where to start yet, follow these steps:
 
 ## Step 1: Learn the basics of SeaTable with our quick start guide
 
-SeaTable's many features may seem a little overwhelming at first, but don't worry! Our [Quick Start Guide](https://seatable.io/en/quick-guide/) is specifically designed to walk you through the basics step by step.
+SeaTable's many features may seem a little overwhelming at first, but don't worry! Our [Quick Start Guide]({{< relref "pages/quick-guide" >}}) is specifically designed to walk you through the basics step by step.
 
 If you prefer to watch videos, the tutorials on our [YouTube channel](https://www.youtube.com/seatable) will definitely help you.
 

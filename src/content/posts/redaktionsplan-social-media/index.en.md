@@ -59,7 +59,7 @@ Before you start with the concept for your social media editorial plan, you shou
 
 Which social media channels do you use?
 
-Then it's time to choose the tool that best supports your project. Below you can read more about possible [**tools and templates for your social media plan**](https://seatable.io/en/social-media-plan-vorlage/#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
+Then it's time to choose the tool that best supports your project. Below you can read more about possible [**tools and templates for your social media plan**]({{< relref "templates/marketing/social-media-plan" >}}#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
 
 ## What a social media editorial plan should cover
 

@@ -20,7 +20,7 @@ Também pode utilizar a **prancheta** do seu computador para transferir rapidame
 
 ## Importação de dados
 
-SeaTable tem um poderoso recurso de importação de dados que lhe permite capturar dados de **ficheiros** **Excel** e **CSV** de diferentes maneiras. Se se perguntar [que formatos de importação o SeaTable suporta](https://seatable.io/pt/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}), leia os artigos de ajuda correspondentes.
+SeaTable tem um poderoso recurso de importação de dados que lhe permite capturar dados de **ficheiros** **Excel** e **CSV** de diferentes maneiras. Se se perguntar [que formatos de importação o SeaTable suporta]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}), leia os artigos de ajuda correspondentes.
 
 ## Formulários Web
 

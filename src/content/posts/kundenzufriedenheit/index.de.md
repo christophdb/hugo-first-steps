@@ -143,6 +143,6 @@ Auf diesem Screenshot kann man gut erkennen, dass die Kategorien _Feature_ und _
 
 Nur ein Unternehmen, welches die Wünsche seiner Kunden ernst nimmt, kann auf lange Sicht erfolgreich sein. Dafür ist es jedoch von zentraler Bedeutung, dass Sie verstehen, was Ihre Kunden bewegt. Nutzen Sie qualitative Befragungen und etablieren Sie Prozesse, um für einen konstanten Strom von Kundenfeedbacks zu sorgen. Mithilfe von NPS und qualitativen Fragebögen können Sie diese Informationen ermitteln.
 
-Passen Sie auf, dass Sie vor lauter Informationen nicht die wichtigen Themen aus den Augen verlieren. Priorisieren Sie deshalb Ihre Informationen und leiten Sie daraus Handlungsoptionen ab. Nehmen Sie sich Zeit, mit [negativem Feedback](https://seatable.io/negatives-kundenfeedback/) umzugehen.
+Passen Sie auf, dass Sie vor lauter Informationen nicht die wichtigen Themen aus den Augen verlieren. Priorisieren Sie deshalb Ihre Informationen und leiten Sie daraus Handlungsoptionen ab. Nehmen Sie sich Zeit, mit negativem Feedback umzugehen.
 
 Wenn Sie vorhaben, die User Experience Ihrer Kunden dauerhaft zu verbessern, dann probieren Sie SeaTable aus. SeaTable gibt Ihnen das [notwendige Rüstzeug]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) an die Hand, um die Zufriedenheit Ihrer Kunden zu steigern. Warten Sie nicht auf morgen, sondern etablieren Sie schon heute einen festen Prozess zur Erhebung Ihrer Kundenzufriedenheit!

@@ -20,7 +20,7 @@ Für das schnelle Übertragen geringer Datenmengen können Sie auch die **Zwisch
 
 ## Daten-Import
 
-SeaTable besitzt einen leistungsfähigen Daten-Import, mit dem Sie Daten aus **Excel-** und **CSV-Dateien** auf unterschiedliche Weise erfassen können. Wenn Sie sich fragen, [welche Import-Formate SeaTable unterstützt](https://seatable.io/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}), lesen Sie die entsprechenden Hilfe-Artikel.
+SeaTable besitzt einen leistungsfähigen Daten-Import, mit dem Sie Daten aus **Excel-** und **CSV-Dateien** auf unterschiedliche Weise erfassen können. Wenn Sie sich fragen, [welche Import-Formate SeaTable unterstützt]{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}}, lesen Sie die entsprechenden Hilfe-Artikel.
 
 ## Webformulare
 

@@ -74,7 +74,7 @@ As you probably know, you must comply with the **General Data Protection Regulat
 
 {{< warning headline="Note" text="Modern systems can, for example, locate vehicles for route planning and create precise **movement profiles**. **Fuel card usage** can also be used to draw conclusions about routes, consumption and driving style." />}}
 
-For tax reasons in particular, you need to be able to track the specific **use of vehicles**. When did which employees use which company cars? And very importantly: were the journeys for business or private purposes? To document this information carefully and in compliance with the GDPR, a [digital logbook](https://seatable.io/en/digitales-fahrtenbuch-fuehren/) is the ideal solution.
+For tax reasons in particular, you need to be able to track the specific **use of vehicles**. When did which employees use which company cars? And very importantly: were the journeys for business or private purposes? To document this information carefully and in compliance with the GDPR, a [digital logbook]({{< relref "posts/202503-fahrtenbuch" >}}) is the ideal solution.
 
 Furthermore, you must check the driver's licenses twice a year to ensure that they are **valid**. You may not only inspect the driving licenses, but also scan or photocopy them. This also shows how much sensitive data is involved in fleet management, which you must store responsibly.
 

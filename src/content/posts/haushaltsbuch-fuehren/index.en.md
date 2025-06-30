@@ -129,7 +129,7 @@ Ready meals for every lunch break can be expensive. Here you can save not only w
 
 If you buy expensive ready meals at the supermarket every lunch break, order food to the office or eat at the takeaway around the corner, you're losing around 5 to 10 euros per working day. This can quickly add up to 150 euros a month. Instead, cook larger quantities of food in advance and heat up your favorite dishes during your lunch break. This will give you more budget for other things in your household budget.
 
-[In this article, you will learn how Meal Prep can help you get through the week not only cheaper, but also healthier.](https://seatable.io/en/meal-prep-gesund-und-guenstig-essen-vorkochen/)
+[In this article, you will learn how Meal Prep can help you get through the week not only cheaper, but also healthier.]({{< relref "posts/meal-prep" >}})
 
 ### 11\. avoid dietary supplements
 

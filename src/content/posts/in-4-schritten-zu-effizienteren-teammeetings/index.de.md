@@ -26,7 +26,7 @@ Es gibt einige Gründe, warum Teammeetings ineffizient sind – vom Smalltalk un
 3. Einige Teilnehmer haben das Meeting vergessen oder kommen zu spät.
 4. Es wird über Themen diskutiert, die im Meeting gar nichts zu suchen haben.
 5. Es gibt eine Person, die zu viel redet und Monologe hält.
-6. Im Meeting werden keine [To-dos](https://seatable.io/perfekte-aufgabenverwaltung-im-projektmanagement/) festgelegt und keine Entscheidungen getroffen.
+6. Im Meeting werden keine [To-dos]({{< relref "posts/aufgabenverwaltung" >}}) festgelegt und keine Entscheidungen getroffen.
 
 Sicher haben Sie schon mal einen der hier genannten Punkte selbst erlebt. Die Punkte 4 bis 6 sind dabei eher Dinge, die Sie durch **Moderation** regulieren können. Hierfür muss eine Person den Lead übernehmen und einschreiten, sobald sich das Gespräch nicht mehr ums Wesentliche dreht.
 

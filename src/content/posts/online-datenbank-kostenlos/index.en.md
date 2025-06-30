@@ -82,7 +82,7 @@ To operate the online database free of charge, you need the Developer version of
 Another popular relational database is [Oracle Database](https://www.oracle.com/de/database/). Its main functions include application development and data warehousing. If you are looking for a free online database, you have two options:
 
 - **Oracle Autonomous Transaction Processing**: The way the data is stored makes everyday tasks with the online database easier.
-- **Oracle Autonomous Data Warehouse**: This type of storage facilitates [analyses](https://seatable.io/en/swot-analyse-template/).
+- **Oracle Autonomous Data Warehouse**: This type of storage facilitates [analyses]({{< relref "templates/operations/swot-analysis" >}}).
 
 With both, the database storage space is limited to 20 GB.
 

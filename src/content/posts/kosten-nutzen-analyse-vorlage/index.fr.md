@@ -36,10 +36,10 @@ En principe, une analyse coûts-bénéfices est toujours appropriée lorsque des
 
 - souhaitez moderniser votre équipement informatique
 - Planifier des mesures de transformation pour votre entreprise
-- proposer [des mesures de formation et de perfectionnement](https://seatable.io/fr/workshop-planen/) à vos collaborateurs
+- proposer [des mesures de formation et de perfectionnement]({{< relref "posts/workshop-planen" >}}) à vos collaborateurs
 - souhaitez mettre en œuvre de nouveaux procédés de fabrication
 - introduire de nouveaux processus de gestion d'entreprise
-- souhaitez augmenter votre [parc de véhicules](https://seatable.io/fr/fuhrparkmanagement/)
+- souhaitez augmenter votre [parc de véhicules]({{< relref "posts/fuhrparkmanagement" >}})
 
 ![Le collaborateur établit un modèle d'analyse coûts-bénéfices.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 

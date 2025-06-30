@@ -106,7 +106,7 @@ También puede encontrar que las reuniones de pie son especialmente buenas en la
 
 ### Documentos de pie
 
-Especialmente en las reuniones diarias, puede ocurrir que uno u otro colega esté ausente debido a otra cita. Que sepan cómo comunicar su ausencia y mantener la información importante en un solo lugar. De este modo, el participante desaparecido puede buscar después si ha ocurrido algo relevante para él. Para la planificación y las notas de tus reuniones a distancia, ya hemos proporcionado una plantilla [aquí]({{< relref "templates/projects/team-meetings" >}}) y también explicamos en detalle en [este post](https://seatable.io/es/team-meetings-remote-organisieren/) cómo puedes crear una tú mismo y adaptarla a tus necesidades.
+Especialmente en las reuniones diarias, puede ocurrir que uno u otro colega esté ausente debido a otra cita. Que sepan cómo comunicar su ausencia y mantener la información importante en un solo lugar. De este modo, el participante desaparecido puede buscar después si ha ocurrido algo relevante para él. Para la planificación y las notas de tus reuniones a distancia, ya hemos proporcionado una plantilla [aquí]({{< relref "templates/projects/team-meetings" >}}) y también explicamos en detalle en [este post]({{< relref "templates/projects/team-meetings" >}}) cómo puedes crear una tú mismo y adaptarla a tus necesidades.
 
 Organizar todo un equipo a distancia manteniendo una alta productividad es un reto. A pesar de todas las posibilidades tecnológicas que tenemos a nuestra disposición, todavía puede ser difícil crear un entorno de colaboración. Las reuniones diarias son una forma estupenda de ponerse al día y sentirse parte de un panorama más amplio. Los problemas se identifican a tiempo y el sentido de pertenencia aumenta.
 

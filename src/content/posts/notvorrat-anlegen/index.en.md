@@ -53,7 +53,7 @@ Another way to preserve food is to pickle it.
 
 ### The "living stock" principle
 
-To prevent stored food from exceeding its best-before date and becoming inedible in an emergency, you can also work with a "living stockpile." In doing so, you incorporate the stored food into your daily use and buy supplies. That way, nothing spoils for you. Be sure to always place the newly purchased foods at the back of the shelf so you use up the older ones first. With an [online planner for your stockpiling](https://seatable.io/en/notvorrat-anlegen/#Online-Planer_fuer_Ihren_Notvorrat), you always keep track of which foods should be used up next.
+To prevent stored food from exceeding its best-before date and becoming inedible in an emergency, you can also work with a "living stockpile." In doing so, you incorporate the stored food into your daily use and buy supplies. That way, nothing spoils for you. Be sure to always place the newly purchased foods at the back of the shelf so you use up the older ones first. With an [online planner for your stockpiling]({{< relref "posts/notvorrat-anlegen" >}}#Online-Planer_fuer_Ihren_Notvorrat), you always keep track of which foods should be used up next.
 
 {{< warning headline="This is how long food can be kept" text="The **best-before date on** the packaging shows the minimum period until which a product can be stored and consumed. However, this does not mean that the food is no longer edible beyond this date. If properly stored and sealed, they are usually edible beyond the deadline without concern. Nevertheless, the food should be checked for traces of spoilage before consumption. These can be, for example, an unpleasant odor, mold or bloated packaging." />}}
 

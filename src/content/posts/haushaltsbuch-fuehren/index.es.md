@@ -128,7 +128,7 @@ Los platos precocinados para cada almuerzo pueden resultar caros. Aquí puedes a
 
 Si compras platos precocinados caros en el supermercado cada mediodía, pides comida para llevar a la oficina o comes en el restaurante de la esquina, estás malgastando entre 5 y 10 euros por jornada laboral. Esto puede suponer hasta 150 euros al mes. En lugar de eso, cocina grandes cantidades de comida con antelación y calienta tus platos favoritos durante la pausa para comer. Así tendrás más presupuesto para otras cosas.
 
-[En este artículo, descubrirás cómo el Meal Prep no sólo puede ayudarte a pasar la semana de forma más económica, sino también más saludable.](https://seatable.io/es/meal-prep-gesund-und-guenstig-essen-vorkochen/)
+[En este artículo, descubrirás cómo el Meal Prep no sólo puede ayudarte a pasar la semana de forma más económica, sino también más saludable.]({{< relref "posts/meal-prep" >}})
 
 ### 11\. abstenerse de tomar suplementos dietéticos
 

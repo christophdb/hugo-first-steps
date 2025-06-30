@@ -142,6 +142,6 @@ Nesta captura de ecrã, pode ver claramente que as categorias _Feature_ e _Price
 
 Só uma empresa que leva a sério os desejos dos seus clientes pode ter sucesso a longo prazo. No entanto, para que isso aconteça, é essencial que compreenda o que move os seus clientes. Utilize inquéritos qualitativos e estabeleça processos para garantir um fluxo constante de feedback dos clientes. O NPS e os questionários qualitativos podem ajudá-lo a recolher esta informação.
 
-Tenha cuidado para não perder de vista as questões importantes devido a toda a informação. Por conseguinte, dê prioridade às suas informações e tire delas opções de ação. Reserve algum tempo para lidar com o [feedback negativo](https://seatable.io/pt/negatives-kundenfeedback/).
+Tenha cuidado para não perder de vista as questões importantes devido a toda a informação. Por conseguinte, dê prioridade às suas informações e tire delas opções de ação. Reserve algum tempo para lidar com o feedback negativo.
 
 Se pretende melhorar permanentemente a experiência de utilização dos seus clientes, experimente o SeaTable. O SeaTable fornece-lhe as [ferramentas necessárias]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para aumentar a satisfação dos seus clientes. Não espere por amanhã, mas estabeleça hoje um processo fixo para avaliar a satisfação dos seus clientes!

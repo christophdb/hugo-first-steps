@@ -142,6 +142,6 @@ En esta captura de pantalla puede ver claramente que las categorías _Feature_ y
 
 Sólo una empresa que se toma en serio los deseos de sus clientes puede tener éxito a largo plazo. Para ello, sin embargo, es esencial que entienda lo que mueve a sus clientes. Utilice encuestas cualitativas y establezca procesos para garantizar un flujo constante de comentarios de los clientes. El NPS y los cuestionarios cualitativos pueden ayudarle a recopilar esta información.
 
-Tenga cuidado de no perder de vista las cuestiones importantes por culpa de toda la información. Por tanto, priorice la información y deduzca de ella opciones de actuación. Dedica tiempo a tratar los [comentarios negativos](https://seatable.io/es/negatives-kundenfeedback/).
+Tenga cuidado de no perder de vista las cuestiones importantes por culpa de toda la información. Por tanto, priorice la información y deduzca de ella opciones de actuación. Dedica tiempo a tratar los comentarios negativos.
 
 Si desea mejorar permanentemente la experiencia de usuario de sus clientes, pruebe SeaTable. SeaTable le proporciona las [herramientas necesarias]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) para aumentar la satisfacción de sus clientes. No espere a mañana, establezca hoy mismo un proceso fijo para medir la satisfacción de sus clientes.

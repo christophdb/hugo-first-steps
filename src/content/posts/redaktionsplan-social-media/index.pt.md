@@ -58,7 +58,7 @@ Bevor Sie mit dem Konzept für Ihren Social-Media-Redaktionsplan beginnen, sollt
 
 Welche Social-Media-Kanäle nutzen Sie?
 
-Anschließend geht es an die Wahl des Tools, welches Ihr Vorhaben optimal unterstützt. Weiter unten lesen Sie mehr über mögliche [**Tools und Vorlagen für Ihren Social-Media-Plan**](https://seatable.io/social-media-plan-vorlage/#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
+Anschließend geht es an die Wahl des Tools, welches Ihr Vorhaben optimal unterstützt. Weiter unten lesen Sie mehr über mögliche [**Tools und Vorlagen für Ihren Social-Media-Plan**]({{< relref "templates/marketing/social-media-plan" >}}#Tools_und_Vorlagen_fuer_Ihren_Social-Media-Plan).
 
 ## Was ein Social-Media-Redaktionsplan abdecken sollte
 

@@ -45,7 +45,7 @@ Comme l'environnement et les facteurs internes à l'entreprise sont pris en comp
 
 ### Comment réaliser une analyse SWOT
 
-Il est préférable de [planifier](https://seatable.io/fr/workshop-planen/) un atelier au cours duquel vos équipes se réunissent pour réfléchir aux quatre catégories. Toutes les **idées doivent être rassemblées dans une matrice**. Pour commencer, vous pouvez utiliser une carte mentale sur un tableau blanc ou un modèle d'analyse SWOT dans Excel ou Word, qui explique simplement l'analyse SWOT.
+Il est préférable de [planifier]({{< relref "posts/workshop-planen" >}}) un atelier au cours duquel vos équipes se réunissent pour réfléchir aux quatre catégories. Toutes les **idées doivent être rassemblées dans une matrice**. Pour commencer, vous pouvez utiliser une carte mentale sur un tableau blanc ou un modèle d'analyse SWOT dans Excel ou Word, qui explique simplement l'analyse SWOT.
 
 Mais que faut-il mettre dans les quatre catégories ?
 

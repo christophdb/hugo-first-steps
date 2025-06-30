@@ -128,7 +128,7 @@ As refeições prontas para cada intervalo de almoço podem ser caras. Aqui pode
 
 Se comprar refeições prontas caras no supermercado em todas as pausas para o almoço, encomendar comida para o escritório ou comer no takeaway da esquina, está a desperdiçar cerca de 5 a 10 euros por dia de trabalho. Este valor pode rapidamente ascender a 150 euros por mês. Em vez disso, cozinhe quantidades maiores de comida com antecedência e aqueça os seus pratos favoritos durante a pausa para o almoço. Assim, terá mais orçamento para outras coisas no seu orçamento familiar.
 
-[Neste artigo, vai descobrir como a preparação de refeições pode não só ajudá-lo a passar a semana de forma mais económica, mas também mais saudável.](https://seatable.io/pt/meal-prep-gesund-und-guenstig-essen-vorkochen/)
+[Neste artigo, vai descobrir como a preparação de refeições pode não só ajudá-lo a passar a semana de forma mais económica, mas também mais saudável.]({{< relref "posts/meal-prep" >}})
 
 ### 11\. abster-se de tomar suplementos alimentares
 

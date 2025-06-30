@@ -128,7 +128,7 @@ Les plats préparés pour chaque pause déjeuner peuvent être coûteux. Dans ce
 
 Si vous achetez des plats préparés coûteux au supermarché à chaque pause déjeuner, si vous commandez des repas au bureau ou si vous mangez au snack du coin, vous perdez environ 5 à 10 euros par jour ouvrable. Cela peut rapidement atteindre 150 euros par mois. Préparer plutôt de grandes quantités de nourriture et réchauffer vos plats préférés pendant la pause déjeuner. Vous aurez ainsi plus de budget pour d'autres choses dans votre budget.
 
-[Dans cet article, vous découvrirez comment Meal Prep peut vous permettre de passer la semaine non seulement à moindre coût, mais aussi plus sainement.](https://seatable.io/fr/meal-prep-gesund-und-guenstig-essen-vorkochen/)
+[Dans cet article, vous découvrirez comment Meal Prep peut vous permettre de passer la semaine non seulement à moindre coût, mais aussi plus sainement.]({{< relref "posts/meal-prep" >}})
 
 ### 11\. éviter les compléments alimentaires
 

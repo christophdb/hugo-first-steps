@@ -25,7 +25,7 @@ Há várias razões pelas quais as reuniões de equipa são ineficientes - para 
 3. Alguns participantes esqueceram-se da reunião ou chegaram atrasados.
 4. São discutidos temas que não têm lugar na reunião.
 5. Há uma pessoa que fala demasiado e faz monólogos.
-6. Durante a reunião não são definidas [tarefas](https://seatable.io/pt/perfekte-aufgabenverwaltung-im-projektmanagement/) nem são tomadas decisões.
+6. Durante a reunião não são definidas [tarefas]({{< relref "posts/aufgabenverwaltung" >}}) nem são tomadas decisões.
 
 Provavelmente já experimentou um dos pontos aqui mencionados. Os pontos 4 a 6 são coisas que se podem regular com **moderação**. Para isso, uma pessoa deve assumir a liderança e intervir assim que a conversa deixar de se centrar no essencial.
 

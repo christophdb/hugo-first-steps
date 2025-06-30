@@ -14,7 +14,7 @@ Pour une présence réussie dans les médias sociaux, une chose est particulièr
 
 Pour cela, il n'est parfois pas nécessaire d'aborder des thèmes profonds ou des textes élaborés. Il suffit parfois de tenir vos followers à jour avec une petite information ou quelque chose de similaire. Avec des posts réguliers, vous pouvez renforcer la **conscience de marque** de vos followers vis-à-vis de votre entreprise et augmenter le **trafic** des médias sociaux vers votre propre site web.
 
-Pour ne pas manquer de matière pour les posts malgré un [plan social media](https://seatable.io/fr/content-ideen/#Nutzen_Sie_SeaTable_um_Ihre_Content-Ideen_zu_planen) bien pensé, nous avons quelques idées de contenu que vous pouvez mettre en œuvre rapidement et sans grand effort sur les médias sociaux. Ainsi, vous réussirez à entretenir vos canaux de médias sociaux même les jours de stress.
+Pour ne pas manquer de matière pour les posts malgré un [plan social media]({{< relref "templates/marketing/social-media-plan" >}}) bien pensé, nous avons quelques idées de contenu que vous pouvez mettre en œuvre rapidement et sans grand effort sur les médias sociaux. Ainsi, vous réussirez à entretenir vos canaux de médias sociaux même les jours de stress.
 
 ## 1\. derrière les scènes
 

@@ -142,6 +142,6 @@ Sur cette capture d'écran, on voit bien que les catégories _Feature_ et _Price
 
 Seule une entreprise qui prend au sérieux les souhaits de ses clients peut réussir à long terme. Pour cela, il est essentiel que vous compreniez ce qui motive vos clients. Utilisez des enquêtes qualitatives et mettez en place des processus afin de garantir un flux constant de feedbacks de la part des clients. Vous pouvez utiliser le NPS et les questionnaires qualitatifs pour obtenir ces informations.
 
-Veillez à ne pas perdre de vue les sujets importants à cause de la quantité d'informations que vous recevez. Hiérarchisez donc vos informations et déduisez-en des options d'action. Prenez le temps de gérer les [réactions négatives](https://seatable.io/fr/negatives-kundenfeedback/).
+Veillez à ne pas perdre de vue les sujets importants à cause de la quantité d'informations que vous recevez. Hiérarchisez donc vos informations et déduisez-en des options d'action. Prenez le temps de gérer les réactions négatives.
 
 Si vous avez l'intention d'améliorer durablement l'expérience utilisateur de vos clients, essayez SeaTable. SeaTable vous donne les [outils nécessaires]({{< relref "templates/marketing/net-promoter-score-nps-form" >}}) pour augmenter la satisfaction de vos clients. N'attendez pas demain, mettez en place dès aujourd'hui un processus permanent d'enquête sur la satisfaction de vos clients !

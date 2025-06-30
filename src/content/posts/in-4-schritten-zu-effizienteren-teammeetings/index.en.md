@@ -26,7 +26,7 @@ There are several reasons why team meetings are inefficient - apart from small t
 3. Some participants have forgotten the meeting or arrive late.
 4. Topics are discussed that have no place in the meeting.
 5. There is one person who talks too much and gives monologues.
-6. No [to-dos](https://seatable.io/en/perfekte-aufgabenverwaltung-im-projektmanagement/) are set in the meeting and no decisions are made.
+6. No [to-dos]({{< relref "posts/aufgabenverwaltung" >}}) are set in the meeting and no decisions are made.
 
 You have probably already experienced one of the points mentioned here yourself. Points 4 to 6 are things that you can regulate through **moderation**. For this, one person must take the lead and intervene as soon as the conversation no longer revolves around the essentials.
 

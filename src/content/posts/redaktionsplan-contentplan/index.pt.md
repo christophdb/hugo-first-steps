@@ -105,7 +105,7 @@ O seu plano de conteúdos deve **conter**, pelo menos, **colunas para um título
 
 ### 5\. definir directrizes gerais para o seu conteúdo
 
-Depois de ter planeado o conteúdo, deve desenvolver e documentar as diretrizes de conteúdo com a sua equipa num [workshop](https://seatable.io/pt/workshop-planen/). Desta forma, pode garantir que o conteúdo atinge uma qualidade consistente, mesmo durante um longo período de tempo com vários participantes.
+Depois de ter planeado o conteúdo, deve desenvolver e documentar as diretrizes de conteúdo com a sua equipa num [workshop]({{< relref "posts/workshop-planen" >}}). Desta forma, pode garantir que o conteúdo atinge uma qualidade consistente, mesmo durante um longo período de tempo com vários participantes.
 
 Estas incluem, por exemplo, **a forma de se dirigir aos leitores, a tonalidade dos textos, a utilização de emojis e hashtags, a resolução e o tamanho das imagens, as hiperligações, a formatação e muito mais**. As diretrizes completam o plano editorial e tornam-no pronto a ser utilizado. Se estiver a trabalhar com freelancers ou com uma agência, as diretrizes ajudam-no a criar conteúdos exatamente como pretende.
 
@@ -115,7 +115,7 @@ Com o [modelo de plano de conteúdos]({{< relref "templates/marketing/editorial-
 
 ### 1\. estruturação significativa com categorias
 
-É possível criar qualquer número de categorias com as colunas de seleção individuais. A vantagem é que pode posteriormente **agrupar, filtrar ou efetuar análises estatísticas**. Por exemplo, pode apresentar todos os artigos de blogue não publicados ou apenas o seu [plano de conteúdos para as redes sociais](https://seatable.io/pt/social-media-plan-vorlage/).
+É possível criar qualquer número de categorias com as colunas de seleção individuais. A vantagem é que pode posteriormente **agrupar, filtrar ou efetuar análises estatísticas**. Por exemplo, pode apresentar todos os artigos de blogue não publicados ou apenas o seu [plano de conteúdos para as redes sociais]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ### 2\. guardar imagens e documentos no plano de conteúdos
 

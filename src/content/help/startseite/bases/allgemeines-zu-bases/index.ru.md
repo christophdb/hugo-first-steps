@@ -40,7 +40,7 @@ url: '/ru/pomoshch/bases'
 При создании новой базы у вас есть **три варианта**. Подробнее об этом вы можете прочитать в соответствующих статьях:
 
 - [Создайте пустую базу]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Импорт базы из файла](https://seatable.io/ru/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
+- [Импорт базы из файла]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
 - [Создание базы из шаблона]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}})
 
 ## Управление базой

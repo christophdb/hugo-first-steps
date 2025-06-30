@@ -81,7 +81,7 @@ Para operar a base de dados online gratuitamente, é necessária a versão Devel
 Outra base de dados relacional popular é a [Oracle Database](https://www.oracle.com/de/database/). As suas principais funções incluem o desenvolvimento de aplicações e armazenamento de dados. Se estiver à procura de uma base de dados online gratuita, tem duas opções:
 
 - **Processamento Autónomo de Transacções Oracle**: A forma como os dados são armazenados facilita as tarefas diárias com a base de dados em linha.
-- **Oracle Autonomous Data Warehouse**: Este tipo de armazenamento facilita [as análises](https://seatable.io/pt/swot-analyse-template/).
+- **Oracle Autonomous Data Warehouse**: Este tipo de armazenamento facilita [as análises]({{< relref "templates/operations/swot-analysis" >}}).
 
 Com ambos, o espaço de armazenamento da base de dados é limitado a 20 GB.
 

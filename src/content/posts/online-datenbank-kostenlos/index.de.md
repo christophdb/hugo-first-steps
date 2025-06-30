@@ -82,7 +82,7 @@ Um die Online-Datenbank kostenlos zu betreiben, benötigen Sie die Developer-Ver
 Eine weitere beliebte relationale Datenbank ist [Oracle Database](https://www.oracle.com/de/database/). Die Hauptfunktionen sind unter anderem die Anwendungsentwicklung und Data Warehousing. Sind Sie auf der Suche nach einer kostenlosen Online-Datenbank, bieten sich Ihnen zwei Optionen:
 
 - **Oracle Autonomous Transaction Processing**: Die Art, wie die Daten gespeichert werden, erleichtert alltägliche Aufgaben mit der Online-Datenbank.
-- **Oracle Autonomous Data Warehouse**: Diese Art der Speicherung erleichtert [Analysen](https://seatable.io/swot-analyse-template/).
+- **Oracle Autonomous Data Warehouse**: Diese Art der Speicherung erleichtert [Analysen]({{< relref "templates/operations/swot-analysis" >}}).
 
 Bei beiden ist der Datenbankspeicherplatz auf 20 GB beschränkt.
 

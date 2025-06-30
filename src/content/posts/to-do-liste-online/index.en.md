@@ -32,7 +32,7 @@ If you write down your to-do list in an app, this serves as a kind of **reposito
 
 ### Bringing structure to your work
 
-At work, you can **plan your day** with a to-do list. Move new tasks into the appropriate categories, assign deadlines, priorities and people responsible. No matter when and where you think of a task, you can document it quickly. This applies to your own tasks as well as to [work in team projects](https://seatable.io/en/perfekte-aufgabenverwaltung-im-projektmanagement/).
+At work, you can **plan your day** with a to-do list. Move new tasks into the appropriate categories, assign deadlines, priorities and people responsible. No matter when and where you think of a task, you can document it quickly. This applies to your own tasks as well as to [work in team projects]({{< relref "posts/aufgabenverwaltung" >}}).
 
 ### Recognise connections
 

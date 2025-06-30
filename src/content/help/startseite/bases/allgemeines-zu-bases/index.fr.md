@@ -40,7 +40,7 @@ Dans la section **Mes bases** et dans chaque **groupe** dont vous êtes l'admini
 Lors de la création d'une nouvelle base, vous avez **trois options**. Pour en savoir plus, consultez les articles correspondants :
 
 - [Créer une base vide]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Importer une base à partir d'un fichier](https://seatable.io/fr/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
+- [Importer une base à partir d'un fichier]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
 - [Créer une base à partir d'un modèle]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}})
 
 ## Gestion des bases

@@ -81,7 +81,7 @@ Pour pouvoir exploiter gratuitement la base de données en ligne, vous avez beso
 Une autre base de données relationnelle très populaire est [Oracle Database](https://www.oracle.com/de/database/). Ses principales fonctions sont, entre autres, le développement d'applications et le data warehousing. Si vous êtes à la recherche d'une base de données en ligne gratuite, deux options s'offrent à vous :
 
 - **Oracle Autonomous Transaction Processing**: la manière dont les données sont stockées facilite les tâches quotidiennes avec la base de données en ligne.
-- **Oracle Autonomous Data Warehouse**: ce type de stockage facilite les [analyses](https://seatable.io/fr/swot-analyse-template/).
+- **Oracle Autonomous Data Warehouse**: ce type de stockage facilite les [analyses]({{< relref "templates/operations/swot-analysis" >}}).
 
 Pour les deux, l'espace de stockage de la base de données est limité à 20 Go.
 

@@ -14,7 +14,7 @@ Pour croître et se développer, les entreprises se fixent constamment de nouvea
 
 ## Qu'est-ce qu'un plan d'action ?
 
-Pour atteindre des objectifs au sein d'une entreprise, un plan d'action est un outil très puissant. L'aperçu du plan permet de structurer les activités et de noter quand elles doivent être réalisées, par qui, dans quelles conditions et où exactement. Il peut donc quasiment être considéré comme une [liste de choses à faire](https://seatable.io/fr/to-do-liste-online/) et un moyen de communication pour l'ensemble de l'entreprise. Pour différents objectifs, il est ainsi possible de définir différentes mesures auxquelles les collaborateurs de l'entreprise peuvent se référer et avec lesquelles on travaille concrètement. Ainsi, les objectifs ne restent pas de simples visions, mais deviennent en un rien de temps une réalité grâce aux efforts appropriés et à un plan d'action efficace.
+Pour atteindre des objectifs au sein d'une entreprise, un plan d'action est un outil très puissant. L'aperçu du plan permet de structurer les activités et de noter quand elles doivent être réalisées, par qui, dans quelles conditions et où exactement. Il peut donc quasiment être considéré comme une [liste de choses à faire]({{< relref "posts/to-do-liste-online" >}}) et un moyen de communication pour l'ensemble de l'entreprise. Pour différents objectifs, il est ainsi possible de définir différentes mesures auxquelles les collaborateurs de l'entreprise peuvent se référer et avec lesquelles on travaille concrètement. Ainsi, les objectifs ne restent pas de simples visions, mais deviennent en un rien de temps une réalité grâce aux efforts appropriés et à un plan d'action efficace.
 
 ### Et pourquoi un plan d'action est-il important pour les entreprises ?
 

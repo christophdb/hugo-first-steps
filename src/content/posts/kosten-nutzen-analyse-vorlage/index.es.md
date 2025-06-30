@@ -36,10 +36,10 @@ Básicamente, un análisis coste-beneficio siempre es apropiado cuando se planif
 
 - desea modernizar sus equipos informáticos
 - Planificación de medidas de conversión para su empresa
-- Ofrezca [programas de formación y perfeccionamiento](https://seatable.io/es/workshop-planen/) a sus empleados
+- Ofrezca [programas de formación y perfeccionamiento]({{< relref "posts/workshop-planen" >}}) a sus empleados
 - quieren implantar nuevos procesos de fabricación
 - Introducir nuevos procesos empresariales
-- desea ampliar su [flota de vehículos](https://seatable.io/es/fuhrparkmanagement/)
+- desea ampliar su [flota de vehículos]({{< relref "posts/fuhrparkmanagement" >}})
 
 ![El empleado crea una plantilla para un análisis coste-beneficio.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 

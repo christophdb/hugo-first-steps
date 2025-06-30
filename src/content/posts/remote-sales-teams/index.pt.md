@@ -106,7 +106,7 @@ Pode também descobrir que os stand-ups são especialmente bons na fase de desen
 
 ### Stand-ups de documentos
 
-Especialmente em reuniões diárias, pode acontecer que um ou outro colega esteja ausente devido a outro compromisso. Deixá-los saber como comunicar a sua ausência e manter informações importantes num único local. Desta forma, o participante desaparecido pode procurar depois se algo de relevante para ele aconteceu. Para o planeamento e notas das suas reuniões à distância, já fornecemos [aqui]({{< relref "templates/projects/team-meetings" >}}) um modelo e também explicamos em pormenor [neste post](https://seatable.io/pt/team-meetings-remote-organisieren/) como pode criar um e adaptá-lo às suas necessidades.
+Especialmente em reuniões diárias, pode acontecer que um ou outro colega esteja ausente devido a outro compromisso. Deixá-los saber como comunicar a sua ausência e manter informações importantes num único local. Desta forma, o participante desaparecido pode procurar depois se algo de relevante para ele aconteceu. Para o planeamento e notas das suas reuniões à distância, já fornecemos [aqui]({{< relref "templates/projects/team-meetings" >}}) um modelo e também explicamos em pormenor [neste post]({{< relref "templates/projects/team-meetings" >}}) como pode criar um e adaptá-lo às suas necessidades.
 
 Organizar uma equipa inteira à distância, mantendo ao mesmo tempo uma alta produtividade, é um desafio. Apesar de todas as possibilidades tecnológicas à nossa disposição, ainda pode ser difícil criar um ambiente de colaboração. Os stand-ups diários são uma óptima forma de se actualizarem uns aos outros e de se sentirem parte de um quadro mais amplo. Os problemas são identificados precocemente e o sentimento de pertença é aumentado.
 

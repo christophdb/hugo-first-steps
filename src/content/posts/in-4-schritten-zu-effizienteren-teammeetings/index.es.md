@@ -25,7 +25,7 @@ Hay varias razones por las que las reuniones de equipo son ineficaces, aparte de
 3. Algunos participantes han olvidado la reunión o llegan tarde.
 4. Se debaten temas que no tienen cabida en la reunión.
 5. Hay una persona que habla demasiado y da monólogos.
-6. En la reunión no se fijan [tareas pendientes](https://seatable.io/es/perfekte-aufgabenverwaltung-im-projektmanagement/) ni se toman decisiones.
+6. En la reunión no se fijan [tareas pendientes]({{< relref "posts/aufgabenverwaltung" >}}) ni se toman decisiones.
 
 Es probable que usted mismo haya experimentado ya alguno de los puntos aquí mencionados. Los puntos 4 a 6 son cosas que puedes regular **con moderación**. Para ello, una persona debe tomar la iniciativa e intervenir en cuanto la conversación deje de centrarse en lo esencial.
 

@@ -25,7 +25,7 @@ Il y a plusieurs raisons pour lesquelles les réunions d'équipe sont inefficace
 3. Certains participants ont oublié la réunion ou sont arrivés en retard.
 4. On discute de sujets qui n'ont rien à faire en réunion.
 5. Il y a une personne qui parle trop et qui fait des monologues.
-6. Lors de la réunion, aucun [ordre du jour](https://seatable.io/fr/perfekte-aufgabenverwaltung-im-projektmanagement/) n'est fixé et aucune décision n'est prise.
+6. Lors de la réunion, aucun [ordre du jour]({{< relref "posts/aufgabenverwaltung" >}}) n'est fixé et aucune décision n'est prise.
 
 Vous avez certainement déjà vécu l'un des points mentionnés ici. Les points 4 à 6 sont plutôt des choses que vous pouvez réguler par la **modération**. Pour cela, il faut qu'une personne prenne le lead et intervienne dès que la discussion ne porte plus sur l'essentiel.
 
