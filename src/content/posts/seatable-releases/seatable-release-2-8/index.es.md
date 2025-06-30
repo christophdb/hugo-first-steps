@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Las primeras versiones de SeaTable 2.8 están disponibles para su descarga en [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub desde hace varios días. La versión final está disponible para su descarga desde el 1 de abril. Con la actualización de hoy a SeaTable 2.8, nos complace hacer que sus numerosas nuevas funciones y mejoras estén disponibles también en SeaTable Cloud. Las nuevas características incluyen una banda de título personalizable en color y la visualización de todos los usuarios activos en una base, descripciones de columnas y un editor mejorado para el texto formateado. Además, los registros compartidos pueden ahora sincronizarse y renombrarse automáticamente. Y estos son sólo los aspectos más destacados que presentamos con más detalle en estas notas de la versión. La lista completa de cambios se encuentra, como siempre, en el [registro de cambios](https://seatable.io/docs/changelog/version-2-8/?lang=auto).
+Las primeras versiones de SeaTable 2.8 están disponibles para su descarga en [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub desde hace varios días. La versión final está disponible para su descarga desde el 1 de abril. Con la actualización de hoy a SeaTable 2.8, nos complace hacer que sus numerosas nuevas funciones y mejoras estén disponibles también en SeaTable Cloud. Las nuevas características incluyen una banda de título personalizable en color y la visualización de todos los usuarios activos en una base, descripciones de columnas y un editor mejorado para el texto formateado. Además, los registros compartidos pueden ahora sincronizarse y renombrarse automáticamente. Y estos son sólo los aspectos más destacados que presentamos con más detalle en estas notas de la versión. La lista completa de cambios se encuentra, como siempre, en el [registro de cambios]({{< relref "pages/changelog" >}}?lang=auto).
 
 ## Cinta de color para el título
 
@@ -38,7 +38,7 @@ Las descripciones de las columnas introducidas en SeaTable 2.8 están pensadas e
 
 ## Texto de ayuda con formato en los formularios web
 
-Los textos de ayuda en [los formularios](https://seatable.io/es/docs/handbuch/seatable-nutzen/webformulare/) web tienen la misma motivación que las descripciones de las columnas: Permiten un tratamiento más preciso y sin frustraciones de los formularios. Además, en ellos se pueden cumplir las obligaciones de información (palabra clave DSGVO).
+Los textos de ayuda en [los formularios]({{< relref "help/base-editor/webformulare/webformulare" >}}) web tienen la misma motivación que las descripciones de las columnas: Permiten un tratamiento más preciso y sin frustraciones de los formularios. Además, en ellos se pueden cumplir las obligaciones de información (palabra clave DSGVO).
 
 La novedad de SeaTable 2.8 es la posibilidad de formatear los textos de ayuda y de insertar imágenes y tablas. Esto permite presentar textos más largos con mayor claridad o sustituir muchas palabras por unas pocas imágenes. Los textos de ayuda se editan a través del editor revisado de SeaTable para texto formateado.
 
@@ -65,7 +65,7 @@ Anteriormente, los datos de un conjunto de datos comunes importados sólo podía
 
 Hay muchas otras mejoras que merecen ser mencionadas. Aquí están los más importantes.
 
-La columna de fórmulas conoce dos nuevas fórmulas: Small() y Large() encuentran el valor x-más pequeño o x-más grande de una columna. (Más en la [referencia de la fórmula](https://seatable.io/es/docs/handbuch/expertenwissen/formelreferenz/)).
+La columna de fórmulas conoce dos nuevas fórmulas: Small() y Large() encuentran el valor x-más pequeño o x-más grande de una columna. (Más en la [referencia de la fórmula]({{< relref "help/base-editor/formeln/formelreferenz" >}}).
 
 Para las columnas y agrupaciones, ahora se puede calcular la mediana además de la suma, la media y los valores extremos.
 

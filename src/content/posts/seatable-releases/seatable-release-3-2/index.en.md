@@ -61,7 +61,7 @@ Furthermore, the possibility to send messages and e-mails conditionally periodic
 
 ## And much more
 
-Of course, we cannot present all the new features in detail in these release notes without going into excessive detail. The complete list of changes can be found in the [changelog](https://seatable.io/en/docs/changelog/version-3-2/). In this last section, we present other new features very briefly:
+Of course, we cannot present all the new features in detail in these release notes without going into excessive detail. The complete list of changes can be found in the [changelog]({{< relref "pages/changelog" >}}). In this last section, we present other new features very briefly:
 
 This version catches up for sorting and grouping what filters have already allowed for some time: changing their order. More extensive filtering, sorting and grouping rules can thus be effortlessly adapted afterwards to changing requirements.
 

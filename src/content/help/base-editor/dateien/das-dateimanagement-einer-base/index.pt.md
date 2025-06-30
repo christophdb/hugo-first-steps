@@ -24,7 +24,7 @@ O gestor de ficheiros contém várias pastas, que por sua vez contêm vários fi
 
 ![Pastas do sistema criadas e organizadas pelo sistema SeaTable na gestão de ficheiros](images/system-folders.png)
 
-- Uma **pasta Seafile** contém todos os ficheiros que carregou anteriormente para o armazenamento externo na nuvem com o mesmo nome. Pode descobrir [aqui](https://seatable.io/pt/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) como funciona exatamente a integração das bibliotecas Seafile e quais as vantagens que traz.
+- Uma **pasta Seafile** contém todos os ficheiros que carregou anteriormente para o armazenamento externo na nuvem com o mesmo nome. Pode descobrir [aqui]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) como funciona exatamente a integração das bibliotecas Seafile e quais as vantagens que traz.
 
 ![Pasta Seafile em Gestão de ficheiros](images/seafile-library.png)
 
@@ -56,7 +56,7 @@ Se pretender **remover** o gestor de ficheiros da sua barra de ferramentas, bast
 
 ## Ajustar o tamanho e a posição da janela do gestor de ficheiros
 
-Tem a opção de ajustar o tamanho da janela do gestor de ficheiros para que possa manter um olho nas suas tabelas e dados enquanto gere os seus ficheiros e [arrastar ficheiros do gestor de ficheiros diretamente para as colunas apropriadas das suas tabelas](https://seatable.io/pt/?post_type=docs&p=26594#8-toc-title).
+Tem a opção de ajustar o tamanho da janela do gestor de ficheiros para que possa manter um olho nas suas tabelas e dados enquanto gere os seus ficheiros e arrastar ficheiros do gestor de ficheiros diretamente para as colunas apropriadas das suas tabelas.
 
 Para isso, basta abrir o gestor de ficheiros e mover o ponteiro do rato sobre as **duas linhas** na parte superior da janela até aparecer uma **seta dupla**. Em seguida, mantenha premido o botão do rato e arraste a janela para a posição pretendida e solte-a assim que a alcançar.
 

@@ -26,7 +26,7 @@ En outre, vous pouvez déjà définir directement une valeur par défaut lors de
 
 ## les types de colonnes pour lesquels vous pouvez définir des valeurs par défaut
 
-Les valeurs par défaut peuvent être définies pour de nombreux [types de colonnes dans SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), mais pas pour tous. Les colonnes dont le contenu est généré automatiquement par SeaTable[(Formules]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), de [fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) et [de signatures](https://seatable.io/fr/docs/dateien-und-bilder/die-signatur-spalte/).
+Les valeurs par défaut peuvent être définies pour de nombreux [types de colonnes dans SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), mais pas pour tous. Les colonnes dont le contenu est généré automatiquement par SeaTable[(Formules]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), de [fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) et [de signatures]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}}).
 
 **Voici un aperçu des types de colonnes pour lesquelles vous pouvez définir des valeurs par défaut :**
 
@@ -69,7 +69,7 @@ Les valeurs par défaut s'appliquent **partout** où vous pouvez créer de nouve
 
 - dans un [tableau]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - dans une [colonne de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
-- par [bouton](https://seatable.io/fr/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (action : "Copier une ligne dans un autre tableau")
+- par [bouton]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (action : "Copier une ligne dans un autre tableau")
 - par [automatisation]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (actions : "Ajouter une ligne" et "Ajouter une nouvelle entrée dans un autre tableau")
 - dans le [plug-in]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - via [des formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}})

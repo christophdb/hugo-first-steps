@@ -52,7 +52,7 @@ Puedes introducir fácilmente todos tus gastos en tu libro de presupuesto digita
 - Importe de la emisión y carga de la factura
 - Fecha, mes y unidad de coste de emisión
 
-Ya se trate de la compra, el alquiler y los servicios públicos, el seguro del coche o las clases particulares de su hijo, con SeaTable podrá llevar un registro de todos sus gastos. Con la ayuda de [columnas de selección única](https://seatable.io/es/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/), puede **clasificar**, **filtrar** y **agrupar** sus gastos individualmente. Para un orden cronológico en su libro de presupuesto, simplemente **ordene** sus gastos por [fecha](https://seatable.io/es/docs/datum-dauer-und-personen/die-datum-spalte/). En dos tablas adicionales puede enumerar sus **ingresos** mensuales y calcular su **presupuesto de** excedentes.
+Ya se trate de la compra, el alquiler y los servicios públicos, el seguro del coche o las clases particulares de su hijo, con SeaTable podrá llevar un registro de todos sus gastos. Con la ayuda de [columnas de selección única]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), puede **clasificar**, **filtrar** y **agrupar** sus gastos individualmente. Para un orden cronológico en su libro de presupuesto, simplemente **ordene** sus gastos por [fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). En dos tablas adicionales puede enumerar sus **ingresos** mensuales y calcular su **presupuesto de** excedentes.
 
 Si desea utilizar la plantilla para su libro de presupuesto, [sólo tiene que registrarse gratuitamente]({{< relref "pages/registration" >}}) en SeaTable. A continuación, podrá importar la [plantilla]({{< relref "templates/finance/budget-book" >}}) a su espacio de trabajo y personalizarla para adaptarla a sus necesidades.
 
@@ -128,7 +128,7 @@ Los platos precocinados para cada almuerzo pueden resultar caros. Aquí puedes a
 
 Si compras platos precocinados caros en el supermercado cada mediodía, pides comida para llevar a la oficina o comes en el restaurante de la esquina, estás malgastando entre 5 y 10 euros por jornada laboral. Esto puede suponer hasta 150 euros al mes. En lugar de eso, cocina grandes cantidades de comida con antelación y calienta tus platos favoritos durante la pausa para comer. Así tendrás más presupuesto para otras cosas.
 
-[En este artículo, descubrirás cómo el Meal Prep no sólo puede ayudarte a pasar la semana de forma más económica, sino también más saludable.](https://seatable.io/es/meal-prep-gesund-und-guenstig-essen-vorkochen/)
+[En este artículo, descubrirás cómo el Meal Prep no sólo puede ayudarte a pasar la semana de forma más económica, sino también más saludable.]({{< relref "posts/meal-prep" >}})
 
 ### 11\. abstenerse de tomar suplementos dietéticos
 

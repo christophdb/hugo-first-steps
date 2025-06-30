@@ -47,7 +47,7 @@ Otra característica es el **carácter** en el icono de las columnas que contien
 
 La regla fundamental que debe seguir cuando trabaje con registros compartidos es que la información sólo fluya en **una dirección**. En concreto, esto significa que los cambios en los registros compartidos y en las tablas creadas con un registro compartido sólo tienen efecto en una dirección, es decir, hacia las **tablas**.
 
-Si realiza cambios en una vista de tabla que ha publicado como **conjunto** de datos común, estos cambios también se adoptan en todas las tablas que se crearon con el conjunto de datos común correspondiente. El requisito previo para ello es una **sincronización de las tablas respectivas con el conjunto de datos**, que [puede hacerse automática o manualmente](https://seatable.io/es/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+Si realiza cambios en una vista de tabla que ha publicado como **conjunto** de datos común, estos cambios también se adoptan en todas las tablas que se crearon con el conjunto de datos común correspondiente. El requisito previo para ello es una **sincronización de las tablas respectivas con el conjunto de datos**, que [puede hacerse automática o manualmente]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 Si, por el contrario, realiza cambios en los datos del conjunto de datos común en una tabla que ha creado con un conjunto de datos común, estos cambios **no** afectan a la estructura del conjunto de datos común. Los cambios se aplicarán **exclusivamente** a su tabla y se **sobrescribirán de** nuevo la próxima vez que **sincronice** con el conjunto de datos.
 

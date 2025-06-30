@@ -27,7 +27,7 @@ SeaTable ist urheber- und markenrechtlich geschützt. Durch diese Nutzungsbeding
 
 ## Registrierung
 
-Die Nutzung von SeaTable erfordert eine Registrierung. (Eine nicht registrierte Person kann nur lesend auf durch einen registrierten Benutzer geteilte Daten zugreifen.) Die Registrierung erfolgt grundsätzlich über die Webseite https://seatable.io.
+Die Nutzung von SeaTable erfordert eine Registrierung. (Eine nicht registrierte Person kann nur lesend auf durch einen registrierten Benutzer geteilte Daten zugreifen.) Die Registrierung erfolgt grundsätzlich über die Webseite https://seatable.com.
 
 Bei der Registrierung müssen Sie die benötigten Registrierungsinformationen eingeben. Dazu gehören Vor- und Nachname, E-Mail-Adresse und ein Passwort.
 
@@ -57,7 +57,7 @@ Mit der Registrierung schließen Sie ein kostenloses Abonnement („Free Subscri
 
 Für den produktiven Einsatz empfehlen wir unsere kostenpflichtigen Abonnements („Paid Subscription“) mit einem erweiterten Leistungsumfang. Als Zahlungsmittel für Paid Subscriptions akzeptieren wir Kreditkarten wie VISA und MasterCard.
 
-Eine Gegenüberstellung der verfügbaren Abonnements und deren Kosten finden Sie auf der Seite https://seatable.io/preise.
+Eine Gegenüberstellung der verfügbaren Abonnements und deren Kosten finden Sie auf der Seite https://seatable.com/de/preise/.
 
 Die Aboperiode ist die vereinbarte vertragliche Laufzeit des Abonnements. Bei Free Subscriptions ist die Aboperiode grundsätzlich ein Monat. Bei Paid Subscriptions können Sie zwischen einer monatlichen und einer jährlichen Aboperiode wählen. Die Dauer bzw. das Ende der laufenden Aboperiode können Sie in der Kontoverwaltung einsehen.
 
@@ -92,7 +92,7 @@ Insbesondere dürfen Sie nicht:
 - Falschdarstellung der eigenen Person/Organisation (z.B. durch Verwendung von E-Mail-Adressen, auf die Sie keinen Zugriff haben)
 - Verletzung der Privatsphäre Dritter
 
-Über wichtige Ereignisse und Änderungen an den Services („Systemmeldungen“) informieren wir Sie per Mitteilung im System, über die Webseite https://seatable.io und/oder per E-Mail (z.B. geplante Wartungsarbeiten, Systemupdates und Sicherheitsvorfälle). Über kritische Ereignisse und Änderungen informieren wir Sie per E-Mail. Der Versand erfolgt an die im Benutzerkonto hinterlegte E-Mail-Adresse. Eine Abmeldung von den Systemmeldungen ist nicht möglich.
+Über wichtige Ereignisse und Änderungen an den Services („Systemmeldungen“) informieren wir Sie per Mitteilung im System, über die Webseite https://seatable.com und/oder per E-Mail (z.B. geplante Wartungsarbeiten, Systemupdates und Sicherheitsvorfälle). Über kritische Ereignisse und Änderungen informieren wir Sie per E-Mail. Der Versand erfolgt an die im Benutzerkonto hinterlegte E-Mail-Adresse. Eine Abmeldung von den Systemmeldungen ist nicht möglich.
 
 ## Ihre Daten
 

@@ -41,7 +41,7 @@ Dans des [boutiques en ligne sélectionnées](https://www.weihnachtsplaner.de/ad
 
 ### Calendrier de l'Avent fait maison
 
-Si vous souhaitez composer un calendrier de l'Avent uniquement pour des personnes sélectionnées, vous pouvez également le faire vous-même. L'avantage est que vous pouvez personnaliser le calendrier en fonction de la personne. [Dans cet article, vous apprendrez comment confectionner vous-même un calendrier de l'Avent et avec quoi vous pouvez le remplir](https://seatable.io/fr/adventskalender-selber-machen/).
+Si vous souhaitez composer un calendrier de l'Avent uniquement pour des personnes sélectionnées, vous pouvez également le faire vous-même. L'avantage est que vous pouvez personnaliser le calendrier en fonction de la personne. [Dans cet article, vous apprendrez comment confectionner vous-même un calendrier de l'Avent et avec quoi vous pouvez le remplir]({{< relref "posts/adventskalender-selber-machen" >}}).
 
 ### Calendrier de l'Avent en ligne
 
@@ -76,14 +76,14 @@ Un **cadeau fait maison** procure une grande joie, car il montre que vous avez i
 
 L'imagination n'a pas de limites.
 
-- **Film d'entreprise**: le film, et avec humour ! Une [vidéo d'entreprise](https://seatable.io/fr/storyboard/) professionnelle donne certes un aperçu clair de ce que vous faites en tant qu'entreprise, mais elle ne convient guère comme cadeau de Noël pour les collaborateurs ou les clients. Un film créatif sur vous et vos collaborateurs permet à vos clients et aux autres collaborateurs de mieux vous connaître sur un plan personnel.
+- **Film d'entreprise**: le film, et avec humour ! Une [vidéo d'entreprise]({{< relref "posts/storyboard" >}}) professionnelle donne certes un aperçu clair de ce que vous faites en tant qu'entreprise, mais elle ne convient guère comme cadeau de Noël pour les collaborateurs ou les clients. Un film créatif sur vous et vos collaborateurs permet à vos clients et aux autres collaborateurs de mieux vous connaître sur un plan personnel.
 - **Un choix personnalisé**: Un autre classique parmi les cadeaux de Noël pour les collaborateurs est un panier-cadeau bien garni. Pour lui donner une touche plus personnelle, réfléchissez à ce que vous et vos collaborateurs aimez. Un lien avec votre siège social, par exemple des produits régionaux provenant d'entreprises situées à proximité, est également envisageable. Ajoutez un message au panier cadeau et écrivez dessus pourquoi vous avez choisi ce contenu. Vous exprimez ainsi que vous avez réfléchi au cadeau et à son effet.
 
 ## 5\. expériences communes
 
 **Le temps passé ensemble** est pour beaucoup, surtout dans un quotidien souvent stressant, le plus beau des cadeaux. En guise de cadeau de Noël pour vos collaborateurs, organisez des activités communes en dehors du travail et créez ainsi des souvenirs inoubliables.
 
-Une visite commune du marché de Noël ou la confection de biscuits en soirée permettent de mieux se connaître et de renforcer durablement l'esprit d'équipe. Et bien sûr, une fête de Noël ne doit pas manquer ! Pour savoir comment l'organiser avec succès, [cliquez ici](https://seatable.io/fr/weihnachtsfeier/).
+Une visite commune du marché de Noël ou la confection de biscuits en soirée permettent de mieux se connaître et de renforcer durablement l'esprit d'équipe. Et bien sûr, une fête de Noël ne doit pas manquer ! Pour savoir comment l'organiser avec succès, [cliquez ici]({{< relref "posts/weihnachtsfeier" >}}).
 
 ![Une visite au marché de Noël est une invitation à bavarder et à fouiner.](Design-ohne-Titel-22-1-e1722859187769-711x730.png)
 
@@ -106,7 +106,7 @@ Vous souhaitez faire plaisir à vos collaborateurs à Noël, mais en limitant le
 
 Lors des fêtes de Noël, il y a encore des choses à prendre en compte
 
-- **Fête de Noël :** vous prévoyez une [fête de Noël](https://seatable.io/fr/weihnachtsfeier/) pour tous vos collaborateurs ? Dans ce cas, veillez à respecter le budget de 150 euros par participant. Si ce montant n'est pas dépassé, vos dépenses ne sont pas imposables. Toutefois, les cadeaux de Noël pour les collaborateurs ou les clients, qui sont remis lors de la fête de Noël, sont inclus dans le budget susmentionné. Cela signifie que vous ne pouvez pas ajouter les 50 euros de cadeaux aux 150 euros de la fête.
+- **Fête de Noël :** vous prévoyez une [fête de Noël]({{< relref "posts/weihnachtsfeier" >}}) pour tous vos collaborateurs ? Dans ce cas, veillez à respecter le budget de 150 euros par participant. Si ce montant n'est pas dépassé, vos dépenses ne sont pas imposables. Toutefois, les cadeaux de Noël pour les collaborateurs ou les clients, qui sont remis lors de la fête de Noël, sont inclus dans le budget susmentionné. Cela signifie que vous ne pouvez pas ajouter les 50 euros de cadeaux aux 150 euros de la fête.
 - **La prime de Noël :** En revanche, le versement de la prime de Noël est toujours imposable et doit être mentionné comme _autre avantage_ sur la fiche de paie.
 
 ### Cadeaux de Noël pour les clients
@@ -119,7 +119,7 @@ Notez également que pour chaque cadeau d'une valeur supérieure à 10 euros, vo
 
 ## Planifier Noël en ligne
 
-La période de Noël est stressante, c'est pourquoi une préparation réfléchie est d'autant plus importante. Avec SeaTable, vous pouvez [planifier](https://seatable.io/fr/weihnachtsfeier/) votre [fête de Noël](https://seatable.io/fr/weihnachtsfeier/) ou créer et personnaliser facilement un [calendrier de l'Avent numérique gratuit](https://seatable.io/fr/adventskalender-selber-machen/) comme cadeau de Noël pour vos employés et clients.
+La période de Noël est stressante, c'est pourquoi une préparation réfléchie est d'autant plus importante. Avec SeaTable, vous pouvez [planifier]({{< relref "posts/weihnachtsfeier" >}}) votre [fête de Noël]({{< relref "posts/weihnachtsfeier" >}}) ou créer et personnaliser facilement un [calendrier de l'Avent numérique gratuit]({{< relref "posts/adventskalender-selber-machen" >}}) comme cadeau de Noël pour vos employés et clients.
 
 Vous cherchez d'autres idées de cadeaux de Noël pour vos collaborateurs et clients ? Vous trouverez de nombreuses idées intéressantes dans notre modèle de calendrier de l'Avent pour entreprises !
 

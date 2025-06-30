@@ -130,12 +130,12 @@ Para empresas más grandes con muchos artículos y casos de uso más complejos, 
 
 El software de base de datos sin código **SeaTable** ya tiene preparada para usted una [plantilla de lista de inventario]({{< relref "templates/operations/inventory-list" >}}). Para utilizarla **gratuitamente**, sólo tiene que [registrarse]({{< relref "pages/registration" >}}) con su dirección de correo electrónico y crear una cuenta. Una vez que haya iniciado sesión, proceda como se indica a continuación:
 
-1. Añade la plantilla como **nueva base** en tu página de inicio. Puedes encontrar cómo hacerlo [en estas instrucciones](https://seatable.io/es/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+1. Añade la plantilla como **nueva base** en tu página de inicio. Puedes encontrar cómo hacerlo [en estas instrucciones]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 2. Haz clic en la base para **abrirla**.
-3. Lea la [descripción básica](https://seatable.io/es/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) y obtenga una visión general.
-4. [Borre los datos de la muestra](https://seatable.io/es/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) y rellene las tablas con su propio inventario.
+3. Lea la [descripción básica]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) y obtenga una visión general.
+4. [Borre los datos de la muestra]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) y rellene las tablas con su propio inventario.
 
-Si desea crear su propio inventario, puede **añadir o eliminar cualquier número de columnas en las tablas** o [empezar con una base completamente nueva](https://seatable.io/es/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). A continuación, puedes [compartir](https://seatable.io/es/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) tu lista de inventario con todos los miembros de tu equipo. Y ya está. Nada se interpone en el camino de tu inventario.
+Si desea crear su propio inventario, puede **añadir o eliminar cualquier número de columnas en las tablas** o [empezar con una base completamente nueva]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). A continuación, puedes [compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) tu lista de inventario con todos los miembros de tu equipo. Y ya está. Nada se interpone en el camino de tu inventario.
 
 ## ¿Cuáles son las ventajas de SeaTable?
 
@@ -147,7 +147,7 @@ También puede crear [formularios web]({{< relref "help/base-editor/webformulare
 
 ![Enviar un artículo durante el inventario](Submit-an-item-during-inventory.gif)
 
-La **visualización** y **evaluación de** datos en SeaTable es aún más flexible y sencilla que en Excel. Puedes crear [estadísticas](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin/), utilizar [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) de visualización o filtrar, ordenar y agrupar los datos mediante vistas.
+La **visualización** y **evaluación de** datos en SeaTable es aún más flexible y sencilla que en Excel. Puedes crear [estadísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}), utilizar [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) de visualización o filtrar, ordenar y agrupar los datos mediante vistas.
 
 Por último, pero no menos importante, puede guardar **imágenes** y **archivos** como documentos PDF en SeaTable. Puede incluir recibos de compra, facturas o fotos del estado actual durante el inventario en su lista de existencias.
 

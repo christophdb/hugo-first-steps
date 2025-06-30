@@ -55,7 +55,7 @@ Under **Delete** you have the option to delete the selected Base.
 
 ## The trash
 
-All **deleted bases** are listed in the recycle bin. After **30 days**, the bases are automatically removed from the system. However, you can also **delete all** bases in the recycle bin manually. You can find out how to do this [here](https://seatable.io/en/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/).
+All **deleted bases** are listed in the recycle bin. After **30 days**, the bases are automatically removed from the system. However, you can also **delete all** bases in the recycle bin manually. You can find out how to do this [here]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 To restore a base, click the respective base and operate the slider before clicking the **Restore Base** button.
 
@@ -67,9 +67,9 @@ Here are the **User and group sharing** listed for all bases. You can see **To w
 
 Learn more about the release types in the following articles:
 
-- [Releasing a Base to a Group](https://seatable.io/en/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Create a user share](https://seatable.io/en/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Create custom share](https://seatable.io/en/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
+- [Releasing a Base to a Group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Create a user share]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Create custom share]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}})
 
 ## External links and invitation links
 
@@ -78,5 +78,5 @@ In these two overviews you can see not only all external and invitation links, b
 You can find more information about the share links in the following articles:
 
 - [Create invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Create an external link for a base](https://seatable.io/en/docs/freigabelinks/externer-link-erklaert/)
-- [Differences between invitation links and external links](https://seatable.io/en/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)
+- [Create an external link for a base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
+- [Differences between invitation links and external links]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}})

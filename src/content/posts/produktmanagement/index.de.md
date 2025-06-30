@@ -33,7 +33,7 @@ Zu den Aufgaben des Produktmanagements gehören alle Stadien, die ein Produkt du
 - **Konzeption**: Strategiebildung zu Markt, Preis, Distribution, Kommunikation; Prototyp, Kostenübersicht
 - **Umsetzung**: technische Umsetzung, Strategieumsetzung, Produktlaunch
 
-Zudem gibt es noch einige organisatorische Aufgaben, die ein Produktmanager übernimmt. Er fungiert als **Schnittstelle** zwischen [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), [Vertrieb](https://seatable.io/vertrieb/) und Produktentwicklung sowie der Produktion. Für die einzelnen Schritte im Produktentwicklungsprozess koordiniert der Produktmanager auch das **[Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}})**. Das Produktmanagement ist also auch viel mit Strategiebildung und Analysen beschäftigt, welche neben der Konzeption und Entwicklung des Produkts selbst anfallen.
+Zudem gibt es noch einige organisatorische Aufgaben, die ein Produktmanager übernimmt. Er fungiert als **Schnittstelle** zwischen [Marketing]({{< relref "pages/industry-solutions/marketing" >}}), [Vertrieb]({{< relref "templates/sales/sales-pipeline" >}}) und Produktentwicklung sowie der Produktion. Für die einzelnen Schritte im Produktentwicklungsprozess koordiniert der Produktmanager auch das **[Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}})**. Das Produktmanagement ist also auch viel mit Strategiebildung und Analysen beschäftigt, welche neben der Konzeption und Entwicklung des Produkts selbst anfallen.
 
 ### Herausforderungen im Produktmanagement
 
@@ -51,7 +51,7 @@ Sammeln Sie ganz einfach alle Daten an einem Ort: Mit SeaTable. [Unser Template 
 
 ### 1\. Generelle Produktübersicht
 
-Um jedem Mitarbeiter einen umfassenden Blick über das Produkt zu geben, ist ein Standard-Übersichtsblatt sinnvoll. Hier sind die wichtigsten Produktinformationen aufgelistet, wie etwa Produktreihe, Produkttyp, der offizielle Produktname für den Handel, Artikelnummer, Preise und dazugehörige Produktbilder. Insbesondere für Fachfremde ist eine Kurzübersicht besonders wertvoll. Mit den verschiedenen Ansichten in SeaTable können die Daten mit wenigen Klicks zum Beispiel nach Produktreihe oder Produkttyp [gefiltert und gespeichert](https://seatable.io/docs/handbuch/seatable-nutzen/gruppierung-sortierung-filter/) werden und lästiges manuelles Sortieren fällt weg.
+Um jedem Mitarbeiter einen umfassenden Blick über das Produkt zu geben, ist ein Standard-Übersichtsblatt sinnvoll. Hier sind die wichtigsten Produktinformationen aufgelistet, wie etwa Produktreihe, Produkttyp, der offizielle Produktname für den Handel, Artikelnummer, Preise und dazugehörige Produktbilder. Insbesondere für Fachfremde ist eine Kurzübersicht besonders wertvoll. Mit den verschiedenen Ansichten in SeaTable können die Daten mit wenigen Klicks zum Beispiel nach Produktreihe oder Produkttyp [gefiltert und gespeichert]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) werden und lästiges manuelles Sortieren fällt weg.
 
 ![In dieser Ansicht haben Sie alle Produkte sofort im Blick - perfekt für das Produktmanagement](Range-View_2.jpg)
 

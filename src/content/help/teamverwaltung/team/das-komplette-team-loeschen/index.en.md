@@ -33,4 +33,4 @@ By confirming the deletion, you immediately trigger the following actions:
 
 ## Cancel subscription and keep the team
 
-If you cancel your subscription but would like to keep the created team, you can return to a Free account. Read the article [Cancel](https://seatable.io/en/docs/abo-abrechnung/das-abo-kuendigen/) the subscription to find out how to do it.
+If you cancel your subscription but would like to keep the created team, you can return to a Free account. Read the article [Cancel]({{< relref "help/teamverwaltung/abonnement/das-abo-kuendigen" >}}) the subscription to find out how to do it.

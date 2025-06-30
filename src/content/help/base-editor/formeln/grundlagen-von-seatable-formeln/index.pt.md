@@ -56,12 +56,12 @@ Para poder distinguir os diferentes elementos da sua fórmula, estes são marcad
 
 Seguem-se alguns exemplos que ilustram a utilidade e a utilização de fórmulas.
 
-- [Exemplo de fórmula: Multiplicação simples com uma fórmula](https://seatable.io/pt/docs/formeln/formelbeispiel-einfache-multiplikation-mit-einer-formel/)
-- [Exemplo de fórmula: Fórmula de fusão de colunas de texto com a ajuda de uma fórmula](https://seatable.io/pt/docs/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel/)
-- [Exemplo de fórmula: Lógico se operadores para comparar valores](https://seatable.io/pt/docs/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten/)
-- [Exemplo de fórmula: Calcular a duração de umas férias](https://seatable.io/pt/docs/formeln/formelbeispiel-berechne-die-dauer-eines-urlaubs/)
-- [Exemplo de fórmula: Calcular dias para um evento](https://seatable.io/pt/docs/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event/)
-- [Exemplo de fórmula: Procura de uma palavra num texto](https://seatable.io/pt/docs/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen/)
+- [Exemplo de fórmula: Multiplicação simples com uma fórmula]({{< relref "help/base-editor/formeln/formelbeispiel-einfache-multiplikation-mit-einer-formel" >}})
+- [Exemplo de fórmula: Fórmula de fusão de colunas de texto com a ajuda de uma fórmula]({{< relref "help/base-editor/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel" >}})
+- [Exemplo de fórmula: Lógico se operadores para comparar valores]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}})
+- [Exemplo de fórmula: Calcular a duração de umas férias]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-die-dauer-eines-urlaubs" >}})
+- [Exemplo de fórmula: Calcular dias para um evento]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event" >}})
+- [Exemplo de fórmula: Procura de uma palavra num texto]({{< relref "help/base-editor/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen" >}})
 
 ## As convenções matemáticas também se aplicam em SeaTable
 

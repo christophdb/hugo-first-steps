@@ -48,8 +48,8 @@ Pode utilizar a opção **Gerir acesso** para partilhar o seu conjunto de dados 
 
 ## Forçar a sincronização com o conjunto de dados partilhados
 
-Como criador de um registo de dados partilhado, pode forçar a **sincronização** de tabelas dependentes. Pode descobrir as consequências e vantagens deste procedimento [aqui](https://seatable.io/pt/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+Como criador de um registo de dados partilhado, pode forçar a **sincronização** de tabelas dependentes. Pode descobrir as consequências e vantagens deste procedimento [aqui]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 ## Eliminar um registo de dados partilhados
 
-Se pretender eliminar um registo de dados partilhados, encontrará [aqui](https://seatable.io/pt/docs/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes/) todas as informações importantes.
+Se pretender eliminar um registo de dados partilhados, encontrará [aqui]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}}) todas as informações importantes.

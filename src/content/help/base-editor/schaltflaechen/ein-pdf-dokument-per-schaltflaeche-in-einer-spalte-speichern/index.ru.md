@@ -12,7 +12,7 @@ url: '/ru/pomoshch/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
 
 ## Сохранение PDF-документов с помощью кнопки в колонке
 
-Кнопки позволяют сохранять PDF-документы в [колонках файлов](https://seatable.io/ru/docs/datei-und-bildanhaenge/die-datei-spalte/) ваших таблиц. Действие доступно при создании кнопки, как только вы настроите [плагин дизайна страницы](https://seatable.io/ru/?post_type=docs&p=19223) в соответствующей таблице.
+Кнопки позволяют сохранять PDF-документы в [колонках файлов]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) ваших таблиц. Действие доступно при создании кнопки, как только вы настроите [плагин дизайна страницы]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) в соответствующей таблице.
 
 На первом этапе вы присваиваете имя **столбцу** и задаете **метку** и **цвет** кнопки, которую хотите добавить в строки.
 
@@ -22,7 +22,7 @@ url: '/ru/pomoshch/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
 
 ![Выбор действия: Сохранить PDF-файл в столбце](images/create-pdf-design-and-save-to-column.png)
 
-Затем выберите **страницу** из плагина оформления страниц для сохранения в виде PDF-файла. Вы можете выбрать из существующих страниц или сначала [добавить](https://seatable.io/ru/?post_type=docs&p=19223) новую страницу.
+Затем выберите **страницу** из плагина оформления страниц для сохранения в виде PDF-файла. Вы можете выбрать из существующих страниц или сначала [добавить]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) новую страницу.
 
 ![Выбор страницы из плагина оформления страницы, которая должна быть сохранена как PDF в колонке.](images/select-file-to-create-PDF-with.png)
 

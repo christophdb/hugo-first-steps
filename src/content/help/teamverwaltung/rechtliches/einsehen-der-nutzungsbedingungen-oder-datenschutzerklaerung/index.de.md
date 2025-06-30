@@ -1,11 +1,11 @@
 ---
-title: "Einsehen der Nutzungsbedingungen oder Datenschutzerklärung"
+title: 'Einsehen der Nutzungsbedingungen oder Datenschutzerklärung'
 date: 2023-01-20
-lastmod: "2023-01-20"
-categories: 
-  - "teamverwaltung"
-author: "vge"
-url: "/de/hilfe/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung"
+lastmod: '2023-01-20'
+categories:
+    - 'teamverwaltung'
+author: 'vge'
+url: '/de/hilfe/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung'
 ---
 
 Als **Team-Administrator** können Sie in der Teamverwaltung von SeaTable mehrere **rechtliche Dokumente** einsehen und für Ihre Unterlagen downloaden. Hier finden Sie unter anderem die **Nutzungsbedingungen** und die **Datenschutzerklärung**.
@@ -18,6 +18,6 @@ Als **Team-Administrator** können Sie in der Teamverwaltung von SeaTable mehrer
 
 ## Nutzungsbedingungen und Datenschutzerklärung öffentlich einsehen
 
-Die Nutzungsbedingungen und die Datenschutzerklärung sind auf unserer Webseite SeaTable.io auch **öffentlich** zugänglich. Scrollen Sie ans unterste Ende der Webseite und klicken Sie rechts neben dem Impressum auf [Datenschutz](https://seatable.io/datenschutz/) oder [Nutzungsbedingungen](https://seatable.io/nutzungsbedingungen/).
+Die Nutzungsbedingungen und die Datenschutzerklärung sind auf unserer Webseite SeaTable.io auch **öffentlich** zugänglich. Scrollen Sie ans unterste Ende der Webseite und klicken Sie rechts neben dem Impressum auf [Datenschutz]({{< relref "pages/legal/data-privacy" >}}) oder [Nutzungsbedingungen]({{< relref "pages/legal/terms-of-service" >}}).
 
 ![Datenschutz und Nutzungsbedingungen im Footer](images/Datenschutz-und-Nutzungsbedingungen-im-Footer.png)

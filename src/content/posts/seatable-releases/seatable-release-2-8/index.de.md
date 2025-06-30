@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Schon seit einigen Tagen konnte man frühe Builds von SeaTable 2.8 von [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise/tags) herunterladen. Der finale Build steht seit 1. April zum Download bereit. Wir freuen uns, mit dem heutigen Update auf SeaTable 2.8 dessen zahlreiche, neue Funktionen und Verbesserungen auch in SeaTable Cloud zur Verfügung zu stellen. Neu sind das farblich anpassbare Titelband und die Anzeige aller aktiven Benutzer in einer Base, Spaltenbeschreibungen und ein verbesserter Editor für formatierten Text. Darüber hinaus lassen sich gemeinsame Datensätze nun automatisch synchronisieren und umbenennen. Und dies sind nur die Highlights, die wir in diesen Release Notes ausführlicher vorstellen. Die vollständige Liste der Änderungen findet sich – wie immer – im [Changelog](https://seatable.io/docs/changelog/version-2-8/).
+Schon seit einigen Tagen konnte man frühe Builds von SeaTable 2.8 von [Docker Hub](https://hub.docker.com/r/seatable/seatable-enterprise/tags) herunterladen. Der finale Build steht seit 1. April zum Download bereit. Wir freuen uns, mit dem heutigen Update auf SeaTable 2.8 dessen zahlreiche, neue Funktionen und Verbesserungen auch in SeaTable Cloud zur Verfügung zu stellen. Neu sind das farblich anpassbare Titelband und die Anzeige aller aktiven Benutzer in einer Base, Spaltenbeschreibungen und ein verbesserter Editor für formatierten Text. Darüber hinaus lassen sich gemeinsame Datensätze nun automatisch synchronisieren und umbenennen. Und dies sind nur die Highlights, die wir in diesen Release Notes ausführlicher vorstellen. Die vollständige Liste der Änderungen findet sich – wie immer – im [Changelog]({{< relref "pages/changelog" >}}).
 
 ## Farbiges Titelband
 
@@ -38,7 +38,7 @@ Für genau diese Art von Informationen sind die Spaltenbeschreibungen gedacht, d
 
 ## Formatierter Hilfstext in Webformularen
 
-Die Hilfetexte in [Webformularen](https://seatable.io/docs/handbuch/seatable-nutzen/webformulare/) haben die gleiche Motivation wie Spaltenbeschreibungen: Sie erlauben eine präzisere und frustfreiere Bearbeitung der Formulare. Außerdem lassen sich in Ihnen Informationspflichten (Stichwort DSGVO) erfüllen.
+Die Hilfetexte in [Webformularen]({{< relref "help/base-editor/webformulare/webformulare" >}}) haben die gleiche Motivation wie Spaltenbeschreibungen: Sie erlauben eine präzisere und frustfreiere Bearbeitung der Formulare. Außerdem lassen sich in Ihnen Informationspflichten (Stichwort DSGVO) erfüllen.
 
 Neu in SeaTable 2.8 ist nun die Möglichkeit, die Hilfetexte zu formatieren sowie Bilder und Tabellen einzufügen. So lassen sich längere Texte anschaulicher präsentieren oder auch viele Worte durch wenige Bilder ersetzen. Die Bearbeitung der Hilfetexte erfolgt über SeaTables überarbeiteten Editor für formatierten Text.
 
@@ -65,7 +65,7 @@ Bisher konnten die Daten in einem importierten gemeinsamen Datensatz nur manuell
 
 Es gibt noch zahlreiche weitere Verbesserungen, die eine Erwähnung verdienen. Hier die wichtigsten davon.
 
-Die Formelspalte kennt zwei neue Formeln: Small() und Large() finden den x-kleinsten bzw. x-größten Wert in einer Spalte. (Mehr in der [Formelreferenz](https://seatable.io/docs/handbuch/expertenwissen/formelreferenz/).)
+Die Formelspalte kennt zwei neue Formeln: Small() und Large() finden den x-kleinsten bzw. x-größten Wert in einer Spalte. (Mehr in der [Formelreferenz]({{< relref "help/base-editor/formeln/formelreferenz" >}}).)
 
 Für Spalten und Gruppierungen lässt sich neben der Summe, dem Durchschnitt sowie den Extremwerten nun auch der Median berechnen.
 

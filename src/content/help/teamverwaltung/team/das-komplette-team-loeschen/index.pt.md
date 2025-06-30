@@ -33,4 +33,4 @@ Ao confirmar a eliminação, desencadeia imediatamente as seguintes acções:
 
 ## Cancelar a subscrição e manter a equipa
 
-Se cancelar a sua subscrição mas quiser manter a equipa que criou, pode regressar a uma conta gratuita. Leia o artigo [Cancelando a sua](https://seatable.io/pt/docs/abo-abrechnung/das-abo-kuendigen/) assinatura para saber exactamente como isto funciona.
+Se cancelar a sua subscrição mas quiser manter a equipa que criou, pode regressar a uma conta gratuita. Leia o artigo [Cancelando a sua]({{< relref "help/teamverwaltung/abonnement/das-abo-kuendigen" >}}) assinatura para saber exactamente como isto funciona.

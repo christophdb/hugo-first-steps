@@ -30,4 +30,8 @@ SeaTable le permite **borrar** **archivos** e **imágenes** de diferentes manera
 
 ![Eliminar los archivos adjuntos.](images/Loeschen-von-Anhaengen.gif)
 
-{{< warning  headline="Atención"  text="Las imágenes y archivos borrados siguen formando parte de la base y, por tanto, **no** se eliminan de forma permanente. Lee los artículos [Acceder a archivos](https://seatable.io/es/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) e imágenes eliminados y [Cómo eliminar archivos](https://seatable.io/es/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/) de forma permanente." />}}
+{{< warning  headline="Atención" >}}
+
+Las imágenes y archivos borrados siguen formando parte de la base y, por tanto, **no** se eliminan de forma permanente. Lee los artículos [Acceder a archivos]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) e imágenes eliminados y [Cómo eliminar archivos]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}) de forma permanente.
+
+{{< /warning >}}

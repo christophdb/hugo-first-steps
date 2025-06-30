@@ -18,7 +18,7 @@ En nuestra [página de precios]({{< relref "pages/prices" >}}) encontrará un re
 
 ## ¿Cómo puedo volver a editar mis datos?
 
-Para poder seguir editando completamente tus datos, debes **cambiar a** un **paquete de suscripción** que te conceda **límites más amplios** que tu suscripción actual. Puedes encontrar los pasos necesarios en detalle en este [artículo de ayuda sobre cómo actualizar tu cuenta](https://seatable.io/es/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Para poder seguir editando completamente tus datos, debes **cambiar a** un **paquete de suscripción** que te conceda **límites más amplios** que tu suscripción actual. Puedes encontrar los pasos necesarios en detalle en este [artículo de ayuda sobre cómo actualizar tu cuenta]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 También puedes borrar parte de tus datos hasta que vuelvas a estar por debajo de tus límites actuales.
 

@@ -67,7 +67,7 @@ La base para la gestión de tareas puede utilizarse completamente como base de t
 
 ### La comunicación del equipo en un solo lugar
 
-SeaTable permite la comunicación directa dentro de las mesas, eliminando la necesidad de comunicación por correo electrónico fuera de Base. Al abrir una fila, se puede añadir personal a la discusión en el [campo de comentarios](https://seatable.io/es/docs/handbuch/zusammenarbeit/kommentare/) de la derecha y se pueden enviar comentarios, preguntas o reacciones. De este modo, todos saben exactamente a qué tarea se refiere una pregunta y la comunicación es transparente, sincrónica y rastreable.
+SeaTable permite la comunicación directa dentro de las mesas, eliminando la necesidad de comunicación por correo electrónico fuera de Base. Al abrir una fila, se puede añadir personal a la discusión en el [campo de comentarios]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) de la derecha y se pueden enviar comentarios, preguntas o reacciones. De este modo, todos saben exactamente a qué tarea se refiere una pregunta y la comunicación es transparente, sincrónica y rastreable.
 
 ## Gestión de tareas con el tablero Kanban
 
@@ -79,7 +79,7 @@ También son concebibles otras categorizaciones, como por ejemplo según paquete
 
 ### Vistas individuales para cada empleado
 
-Para los tableros individuales de su personal, deben crearse [vistas](https://seatable.io/es/docs/handbuch/seatable-nutzen/ansichten/) separadas de antemano. Esto se hace fácilmente estableciendo un filtro en el que la columna "Responsable" debe contener el nombre de un miembro concreto de la plantilla ("Responsable tiene cualquiera de XY"). Esto hace que todos los demás compañeros desaparezcan de la vista y sólo se muestren las tareas de ese empleado. Esta función está incluida en todas las licencias y ofrece infinitas posibilidades de diseño. Si desea crear una vista con sólo las tareas abiertas, por ejemplo, la función de filtro es "Estado no realizado".
+Para los tableros individuales de su personal, deben crearse [vistas]({{< relref "help/base-editor/ansichten" >}}) separadas de antemano. Esto se hace fácilmente estableciendo un filtro en el que la columna "Responsable" debe contener el nombre de un miembro concreto de la plantilla ("Responsable tiene cualquiera de XY"). Esto hace que todos los demás compañeros desaparezcan de la vista y sólo se muestren las tareas de ese empleado. Esta función está incluida en todas las licencias y ofrece infinitas posibilidades de diseño. Si desea crear una vista con sólo las tareas abiertas, por ejemplo, la función de filtro es "Estado no realizado".
 
 Las innumerables opciones de filtrado ofrecen una visión muy individualizada de la gestión de sus tareas y puede adoptar una perspectiva diferente en cualquier momento. Lo bueno es que los diferentes puntos de vista son completamente independientes entre sí en su presentación. Un filtro en la vista A no influye en la visualización en la vista B. Sin embargo, el cambio de datos siempre se ejecuta de forma sincronizada y se implementa inmediatamente en todas las vistas.
 

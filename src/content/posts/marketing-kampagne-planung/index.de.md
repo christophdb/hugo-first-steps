@@ -47,7 +47,7 @@ Es gibt so gut wie keine Ideen, die nicht schon einmal gedacht worden sind. Soll
 
 ### 4\. Klare Zuständigkeiten und Timelines festlegen
 
-Eine Marketingkampagne und ihre Planung funktionieren dann am besten, wenn jeder weiß, was er wann zu tun hat. Stehen [Projektziele]({{< relref "templates/projects/project-plan" >}}), Zielgruppe und Markt- bzw. Wettbewerbsanalyse, geht es darum, ein Team zusammenzustellen, [Zuständigkeiten und Aufgaben zu verteilen](https://seatable.io/projektstrukturplan-vorlage/), Deadlines und Meilensteine festzulegen und – ganz wichtig – das [Budget]({{< relref "templates/finance/budget-book" >}}) einzuteilen.
+Eine Marketingkampagne und ihre Planung funktionieren dann am besten, wenn jeder weiß, was er wann zu tun hat. Stehen [Projektziele]({{< relref "templates/projects/project-plan" >}}), Zielgruppe und Markt- bzw. Wettbewerbsanalyse, geht es darum, ein Team zusammenzustellen, [Zuständigkeiten und Aufgaben zu verteilen]({{< relref "templates/projects/work-breakdown-structure" >}}), Deadlines und Meilensteine festzulegen und – ganz wichtig – das [Budget]({{< relref "templates/finance/budget-book" >}}) einzuteilen.
 
 ![Marketing Team bespricht Vorgehensweise der Kampagnen Planung.](Marketing-Kampagne-Planung_AdobeStock_216876303-711x474.jpg)
 
@@ -55,7 +55,7 @@ Marketing Kampagne Planung © REDPIXEL / adobe stock
 
 ### 5\. Bei der Planung der Marketingkampagne Maßnahmen und Inhalte zusammenbringen
 
-Sind alle organisatorischen Aspekte erledigt, geht es an die inhaltliche Planung Ihrer Marketingkampagne. Zu diesem Schritt gehört, dass Sie gemeinsam mit dem Team entscheiden, [welche Inhalte in welchem Format auf welchen Kanälen](https://seatable.io/social-media-plan-vorlage/) gespielt werden sollen – immer mit Zielgruppe, Wettbewerb und Markt im Hinterkopf. Wichtig in diesem Zusammenhang sind auch die rechtlichen Aspekte. So sollten Sie bei jeder Kampagnenmaßnahme beachten, welche Urheberrechte bei verwendeten Fotos gelten, wann Werberichtlinien zu beachten sind und welche Vorgaben die verschiedenen genutzten Plattformen machen.
+Sind alle organisatorischen Aspekte erledigt, geht es an die inhaltliche Planung Ihrer Marketingkampagne. Zu diesem Schritt gehört, dass Sie gemeinsam mit dem Team entscheiden, [welche Inhalte in welchem Format auf welchen Kanälen]({{< relref "templates/marketing/social-media-plan" >}}) gespielt werden sollen – immer mit Zielgruppe, Wettbewerb und Markt im Hinterkopf. Wichtig in diesem Zusammenhang sind auch die rechtlichen Aspekte. So sollten Sie bei jeder Kampagnenmaßnahme beachten, welche Urheberrechte bei verwendeten Fotos gelten, wann Werberichtlinien zu beachten sind und welche Vorgaben die verschiedenen genutzten Plattformen machen.
 
 ### 6\. Umsetzung, Monitoring und Erfolgskontrolle
 

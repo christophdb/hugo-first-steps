@@ -10,7 +10,7 @@ url: '/help/sperren-einer-zeile'
 
 {{< required-version "Plus" "Enterprise" >}}
 
-To prevent unwanted changes to rows , you can **lockrows** . This can be useful, for example, if more than one person is working in a table. The locking can either be done **manually** by you or **automatically** by an [automation](https://seatable.io/en/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
+To prevent unwanted changes to rows , you can **lockrows** . This can be useful, for example, if more than one person is working in a table. The locking can either be done **manually** by you or **automatically** by an [automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ## To lock a row
 
@@ -36,7 +36,7 @@ In SeaTable you can create **automation rules** to **automatically lockrows** wh
 
 This is very useful if you want to lock many rows at once or always want to prevent a row from being processed further from a certain point in time (e.g. when a process has been completed).
 
-**You can find out more about this in the article** [rows Locking via automation](https://seatable.io/en/docs/arbeiten-mit-automationen/zeilen-per-automation-sperren/).
+**You can find out more about this in the article** [rows Locking via automation]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-automation-sperren" >}}).
 
 ![Lock a row with an automation](images/lock-row-with-an-automation.png)
 

@@ -1,11 +1,11 @@
 ---
-title: "Schritt 6: Statistische Auswertungen"
+title: 'Schritt 6: Statistische Auswertungen'
 date: 2024-09-19
-lastmod: "2024-09-25"
-categories: 
-  - "online-kurs-2"
-author: "cdb"
-url: "/de/hilfe/schritt-6-statistische-auswertungen"
+lastmod: '2024-09-25'
+categories:
+    - 'online-kurs-2'
+author: 'cdb'
+url: '/de/hilfe/schritt-6-statistische-auswertungen'
 ---
 
 Wir nähern uns dem Ende dieses zweiten Online-Kurses. Während der Prozess für Ihre Kunden mit dem Erhalt der Teilnahmebestätigung abgeschlossen ist, können Sie noch einen weiteren Schritt unternehmen: die Analyse Ihrer gesammelten Daten. Diese bieten eine hervorragende Grundlage für statistische Auswertungen, die Ihnen helfen, Ihre Dienstleistungen besser und erfolgreicher zu gestalten.
@@ -35,5 +35,5 @@ Ein großer Vorteil des Statistik-Moduls in SeaTable ist die automatische Aktual
 
 ## Hilfeartikel mit weiteren Informationen
 
-- [Anleitung zum Statistik-Modul](https://seatable.io/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/)
-- [Statistiken und Datenanalyse](https://seatable.io/docs/statistiken-und-datenanalyse/statistiken/)
+- [Anleitung zum Statistik-Modul]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
+- [Statistiken und Datenanalyse]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})

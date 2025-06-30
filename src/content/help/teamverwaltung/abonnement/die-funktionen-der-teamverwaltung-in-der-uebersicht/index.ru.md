@@ -22,27 +22,27 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Добавить нового члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
-- [Сделать члена команды администратором](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
-- [Включите двухфакторную аутентификацию для члена команды](https://seatable.io/ru/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)
-- [Двухфакторная аутентификация для всей команды](https://seatable.io/ru/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)
-- [Блокировка или удаление члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
-- [Изменение названия команды](https://seatable.io/ru/docs/teamverwaltung/aendern-des-teamnamens/)
-- [Группы и их члены в командной администрации](https://seatable.io/ru/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
+- [Добавить нового члена команды]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
+- [Сделать члена команды администратором]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}})
+- [Включите двухфакторную аутентификацию для члена команды]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}})
+- [Двухфакторная аутентификация для всей команды]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}})
+- [Блокировка или удаление члена команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
+- [Изменение названия команды]({{< relref "help/teamverwaltung/team/aendern-des-teamnamens" >}})
+- [Группы и их члены в командной администрации]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
 - [Создайте новую группу]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Базы и релизы
 
-В админке команды вы можете видеть все **базы** членов вашей команды и отслеживать, кто к каким базам имеет **доступ**. Кроме того, вы можете отслеживать и ограничивать отправленные [пригласительные]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) ссылки и [внешние ссылки](https://seatable.io/ru/docs/freigabelinks/externer-link-erklaert/), а также видеть, предоставляют ли ссылки доступ на чтение или запись, и как часто к ним обращались.
+В админке команды вы можете видеть все **базы** членов вашей команды и отслеживать, кто к каким базам имеет **доступ**. Кроме того, вы можете отслеживать и ограничивать отправленные [пригласительные]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) ссылки и [внешние ссылки]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}), а также видеть, предоставляют ли ссылки доступ на чтение или запись, и как часто к ним обращались.
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Базы в управлении командой](https://seatable.io/ru/docs/teamverwaltung/bases-in-der-teamverwaltung/)
-- [Просмотр всех разрешений доступа к базе](https://seatable.io/ru/docs/teamverwaltung/alle-zugriffsberechtigungen-einer-base-einsehen/)
-- [Разрешить обмен базами по пригласительной ссылке](https://seatable.io/ru/docs/teamverwaltung/freigabe-von-bases-per-einladungslink-erlauben/)
-- [Повторная разблокировка члена команды](https://seatable.io/ru/docs/teamverwaltung/ein-teammitglied-entsperren/)
+- [Базы в управлении командой]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})
+- [Просмотр всех разрешений доступа к базе]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
+- [Разрешить обмен базами по пригласительной ссылке]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
+- [Повторная разблокировка члена команды]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})
 
-В качестве администратора команды у вас также есть возможность [очищать корзину](https://seatable.io/ru/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/) вручную в дополнение к автоматическому удалению через 30 дней.
+В качестве администратора команды у вас также есть возможность [очищать корзину]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}) вручную в дополнение к автоматическому удалению через 30 дней.
 
 ## Подписка
 
@@ -50,7 +50,7 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Удалить всю команду](https://seatable.io/ru/docs/teamverwaltung/das-komplette-team-loeschen/)
+- [Удалить всю команду]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
 ## API и интеграции
 
@@ -62,7 +62,7 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Открыть билет в службу поддержки](https://seatable.io/ru/docs/teamverwaltung/ein-support-ticket-eroeffnen/)
+- [Открыть билет в службу поддержки]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
 
 ## Юридический
 
@@ -70,5 +70,5 @@ url: '/ru/pomoshch/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 
 Следующие статьи могут представлять для вас интерес:
 
-- [Просмотр условий использования или политики конфиденциальности](https://seatable.io/ru/docs/teamverwaltung/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung/)
-- [Запросить контракт на поставку аудиовизуальных средств](https://seatable.io/ru/docs/teamverwaltung/einen-av-vertrag-beantragen/)
+- [Просмотр условий использования или политики конфиденциальности]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
+- [Запросить контракт на поставку аудиовизуальных средств]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/warum-finde-ich-in-meiner-base-die-automationen-nicht'
 ---
 
-Não pode criar automatismos nas suas bases? Uma causa possível poderia ser uma [subscrição](https://seatable.io/pt/docs/abo-abrechnung/abo-pakete/) insuficiente.
+Não pode criar automatismos nas suas bases? Uma causa possível poderia ser uma [subscrição]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}) insuficiente.
 
 Aqui encontrará a função de automatização, se esta estiver disponível na sua assinatura:
 
@@ -18,6 +18,6 @@ Se quiser utilizar esta poderosa funcionalidade do SeaTable no futuro, pode faze
 
 ## Actualização para SeaTable Enterprise
 
-As automatizações estão actualmente disponíveis apenas para equipas com um **[Assinatura SeaTable Enterprise](https://seatable.io/pt/docs/abo-abrechnung/abo-pakete/)** subscrição. Se não conseguir encontrar esta característica nas suas bases, a sua equipa provavelmente **não** tem tal assinatura. Para utilizar as automatizações, é necessário [actualizar](https://seatable.io/pt/docs/abo-abrechnung/abonnement-verwaltung/#abonnement-anpassen) **a subscrição da sua equipa** para uma subscrição Enterprise.
+As automatizações estão actualmente disponíveis apenas para equipas com um **[Assinatura SeaTable Enterprise]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}})** subscrição. Se não conseguir encontrar esta característica nas suas bases, a sua equipa provavelmente **não** tem tal assinatura. Para utilizar as automatizações, é necessário [actualizar]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}) **a subscrição da sua equipa** para uma subscrição Enterprise.
 
 {{< warning  headline="Nota importante"  text="Uma assinatura só é válida para **toda a equipa**. **Nenhuma** base individual ou membro de equipa pode ser melhorada." />}}

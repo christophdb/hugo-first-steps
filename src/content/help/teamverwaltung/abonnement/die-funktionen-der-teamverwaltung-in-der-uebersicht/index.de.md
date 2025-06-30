@@ -22,27 +22,27 @@ Dieser Bereich gibt einen Überblick über die Teammitglieder und Gruppen Ihres 
 
 Folgende Artikel könnten für Sie interessant sein:
 
-- [Ein neues Teammitglied hinzufügen](https://seatable.io/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/)
-- [Ein Teammitglied zum Administrator machen](https://seatable.io/docs/teamverwaltung/ein-teammitglied-zum-administrator-machen/)
-- [Zwei-Faktor-Authentifizierung für ein Teammitglied aktivieren](https://seatable.io/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)
-- [Zwei-Faktor-Authentifizierung für das gesamte Team](https://seatable.io/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen/)
-- [Ein Teammitglied sperren oder löschen](https://seatable.io/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/)
-- [Ändern des Teamnamens](https://seatable.io/docs/teamverwaltung/aendern-des-teamnamens/)
-- [Gruppen und ihre Mitglieder in der Teamverwaltung](https://seatable.io/docs/teamverwaltung/gruppen-und-ihre-mitglieder-in-der-teamverwaltung/)
+- [Ein neues Teammitglied hinzufügen]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
+- [Ein Teammitglied zum Administrator machen]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}})
+- [Zwei-Faktor-Authentifizierung für ein Teammitglied aktivieren]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}})
+- [Zwei-Faktor-Authentifizierung für das gesamte Team]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}})
+- [Ein Teammitglied sperren oder löschen]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
+- [Ändern des Teamnamens]({{< relref "help/teamverwaltung/team/aendern-des-teamnamens" >}})
+- [Gruppen und ihre Mitglieder in der Teamverwaltung]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
 - [Eine neue Gruppe anlegen]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Bases und Freigaben
 
-Innerhalb der Teamverwaltung können Sie alle **Bases** Ihrer Teammitglieder sehen und nachvollziehen, wer zu welchen Bases eine **Zugriffsberechtigung** hat. Zudem können Sie versandte [Einladungs-Links]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) und [externe Links](https://seatable.io/docs/freigabelinks/externer-link-erklaert/) überwachen, einschränken und sehen, ob die Links Lese- oder Schreibrechte gewähren und wie oft sie aufgerufen wurden.
+Innerhalb der Teamverwaltung können Sie alle **Bases** Ihrer Teammitglieder sehen und nachvollziehen, wer zu welchen Bases eine **Zugriffsberechtigung** hat. Zudem können Sie versandte [Einladungs-Links]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) und [externe Links]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) überwachen, einschränken und sehen, ob die Links Lese- oder Schreibrechte gewähren und wie oft sie aufgerufen wurden.
 
 Folgende Artikel könnten für Sie interessant sein:
 
-- [Bases in der Teamverwaltung](https://seatable.io/docs/teamverwaltung/bases-in-der-teamverwaltung/)
-- [Alle Zugriffsberechtigungen einer Base einsehen](https://seatable.io/docs/teamverwaltung/alle-zugriffsberechtigungen-einer-base-einsehen/)
-- [Freigabe von Bases per Einladungs-Link erlauben](https://seatable.io/docs/teamverwaltung/freigabe-von-bases-per-einladungslink-erlauben/)
-- [Ein Teammitglied wieder entsperren](https://seatable.io/docs/teamverwaltung/ein-teammitglied-entsperren/)
+- [Bases in der Teamverwaltung]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})
+- [Alle Zugriffsberechtigungen einer Base einsehen]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
+- [Freigabe von Bases per Einladungs-Link erlauben]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
+- [Ein Teammitglied wieder entsperren]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})
 
-Als Team-Administrator haben Sie zudem die Möglichkeit, neben der automatischen Löschung nach 30 Tagen auch manuell [den Papierkorb zu leeren](https://seatable.io/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/).
+Als Team-Administrator haben Sie zudem die Möglichkeit, neben der automatischen Löschung nach 30 Tagen auch manuell [den Papierkorb zu leeren]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 ## Abonnement
 
@@ -50,7 +50,7 @@ Indem Sie Ihr gesamtes Team in der Teamverwaltung löschen, **kündigen Sie auto
 
 Folgende Artikel könnten für Sie interessant sein:
 
-- [Das komplette Team löschen](https://seatable.io/docs/teamverwaltung/das-komplette-team-loeschen/)
+- [Das komplette Team löschen]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
 ## API & Integrationen
 
@@ -62,7 +62,7 @@ Fortsetzung folgt ...
 
 Folgende Artikel könnten für Sie interessant sein:
 
-- [Ein Support-Ticket eröffnen](https://seatable.io/docs/teamverwaltung/ein-support-ticket-eroeffnen/)
+- [Ein Support-Ticket eröffnen]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}})
 
 ## Rechtliches
 
@@ -70,5 +70,5 @@ In der Teamverwaltung finden Sie die Option, sowohl einen personalisierten **AV-
 
 Folgende Artikel könnten für Sie interessant sein:
 
-- [Einsehen der Nutzungsbedingungen oder Datenschutzerklärungen](https://seatable.io/docs/teamverwaltung/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung/)
-- [Einen AV-Vertrag beantragen](https://seatable.io/docs/teamverwaltung/einen-av-vertrag-beantragen/)
+- [Einsehen der Nutzungsbedingungen oder Datenschutzerklärungen]({{< relref "help/teamverwaltung/rechtliches/einsehen-der-nutzungsbedingungen-oder-datenschutzerklaerung" >}})
+- [Einen AV-Vertrag beantragen]({{< relref "help/teamverwaltung/rechtliches/einen-av-vertrag-beantragen" >}})

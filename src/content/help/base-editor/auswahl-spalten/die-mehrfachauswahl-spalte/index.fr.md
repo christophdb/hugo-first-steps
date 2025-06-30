@@ -29,7 +29,7 @@ Actuellement, 24 couleurs sont disponibles pour mettre en évidence visuellement
 
 ![Couleurs de la colonne de sélection simple](images/farben-einfachauswahl.png)
 
-Avec un [abonnement Enterprise](https://seatable.io/fr/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), vous avez également la possibilité de créer [vos propres couleurs](https://seatable.io/fr/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) pour vos options à choix multiples.
+Avec un [abonnement Enterprise]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}), vous avez également la possibilité de créer [vos propres couleurs]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) pour vos options à choix multiples.
 
 ## Définir la valeur par défaut
 
@@ -41,8 +41,8 @@ Si vous souhaitez pouvoir enregistrer **des informations supplémentaires** pour
 
 ## Modifier l'ordre des options à choix multiples
 
-L'ordre des options de sélection multiple peut être adapté de **la même** manière que pour une colonne de sélection simple. Vous trouverez des instructions détaillées [ici](https://seatable.io/fr/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/).
+L'ordre des options de sélection multiple peut être adapté de **la même** manière que pour une colonne de sélection simple. Vous trouverez des instructions détaillées [ici]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}}).
 
 ## Exporter et importer des options de choix multiples
 
-Vous pouvez **exporter** et **importer** les **options** d'une colonne de sélection multiple comme pour une colonne de sélection simple. Vous trouverez de plus amples informations à ce sujet dans [cet article](https://seatable.io/fr/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/).
+Vous pouvez **exporter** et **importer** les **options** d'une colonne de sélection multiple comme pour une colonne de sélection simple. Vous trouverez de plus amples informations à ce sujet dans [cet article]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).

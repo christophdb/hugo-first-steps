@@ -28,19 +28,19 @@ Conviene saber: SeaTable crea automáticamente una instantánea al día de cada 
 
 Las instantáneas de las bases se conservan durante cierto tiempo y luego se borran.
 
-Con [SeaTable Cloud](https://seatable.io/es/), la duración del almacenamiento de las instantáneas depende de [la suscripción de su equipo]({{< relref "pages/prices" >}}):
+Con [SeaTable Cloud](https://cloud.seatable.io), la duración del almacenamiento de las instantáneas depende de [la suscripción de su equipo]({{< relref "pages/prices" >}}):
 
 - Con la **suscripción** gratuita, las instantáneas se guardan durante un mes.
 - Con la **suscripción** **Plus** o **Enterprise**, las instantáneas se almacenan durante 6 o 12 meses. (El periodo de almacenamiento ampliado se aplica desde el momento de la actualización).
 
-Si opera su propio [servidor SeaTable](https://seatable.io/es/on-premises), puede establecer individualmente la duración del almacenamiento de instantáneas.
+Si opera su propio [servidor SeaTable]({{< relref "pages/product/seatable-server" >}}), puede establecer individualmente la duración del almacenamiento de instantáneas.
 
 ## ¿Quieres saber más sobre las instantáneas?
 
 Los siguientes artículos podrían interesarle en relación con el tratamiento de las instantáneas:
 
 - [Restaurar una instantánea]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}})
-- [Opciones de recuperación de datos con SeaTable](https://seatable.io/es/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/)
+- [Opciones de recuperación de datos con SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}})
 
 ## Preguntas frecuentes
 

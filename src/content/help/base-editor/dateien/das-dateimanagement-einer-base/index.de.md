@@ -18,7 +18,7 @@ In der Dateiverwaltung befinden sich verschiedene Ordner, die wiederum verschied
 
 - **Eigene Ordner** sind von der Struktur einer Base unabhängig und können vom Benutzer frei erstellt und organisiert werden.
   ![Eigene vom Benutzer frei erstellt und organisierte Ordner im Dateimanagement ](images/costum-folders.png)- **Systemordner** werden automatisch von SeaTable erstellt, wenn Sie bestimmte Spalten, Apps oder Webformulare anlegen. Sie enthalten [Dateien]({{< relref "help/base-editor/webformulare/webformulare" >}}).
-  ![Vom SeaTable-System erstellte und organisierte Systemordner im Dateimanagement](images/system-folders.png)- In einem **Seafile Ordner** befinden sich alle Dateien, die Sie zuvor in den gleichnamigen externen Cloudspeicher hochgeladen haben. Wie genau die Integration von Seafile Bibliotheken funktioniert und welche Vorteile sie mit sich bringt, erfahren Sie [hier](https://seatable.io/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+  ![Vom SeaTable-System erstellte und organisierte Systemordner im Dateimanagement](images/system-folders.png)- In einem **Seafile Ordner** befinden sich alle Dateien, die Sie zuvor in den gleichnamigen externen Cloudspeicher hochgeladen haben. Wie genau die Integration von Seafile Bibliotheken funktioniert und welche Vorteile sie mit sich bringt, erfahren Sie [hier]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
   ![Seafile Ordner im Dateimanagement](images/seafile-library.png)
 
 Das folgende Schaubild zeigt die komplette **Ordnerstruktur der Dateiverwaltung** in der Übersicht:
@@ -45,7 +45,7 @@ Wenn Sie die Dateiverwaltung wieder aus Ihrer Toolbar **entfernen** möchten, kl
 
 ## Fenstergröße und Position der Dateiverwaltung anpassen
 
-Damit Sie Ihre Tabellen und Daten auch während der Verwaltung Ihrer Dateien im Blick haben und [Dateien aus der Dateiverwaltung direkt in die passenden Spalten Ihrer Tabellen ziehen](https://seatable.io/?post_type=docs&p=26594#8-toc-title) können, haben Sie die Möglichkeit, die Fenstergröße der Dateiverwaltung anzupassen.
+Damit Sie Ihre Tabellen und Daten auch während der Verwaltung Ihrer Dateien im Blick haben und Dateien aus der Dateiverwaltung direkt in die passenden Spalten Ihrer Tabellen ziehen können, haben Sie die Möglichkeit, die Fenstergröße der Dateiverwaltung anzupassen.
 
 Öffnen Sie hierzu einfach die Dateiverwaltung und fahren Sie mit dem Mauszeiger über die **zwei Striche** am oberen Rand des Fensters, bis ein **Doppelpfeil** erscheint. Ziehen Sie das Fenster im Anschluss mit gedrückter Maustaste zur gewünschten Position und lassen Sie los, sobald diese erreicht ist.
 

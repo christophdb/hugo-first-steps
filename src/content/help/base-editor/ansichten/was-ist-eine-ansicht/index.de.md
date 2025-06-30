@@ -30,7 +30,7 @@ Die **Tabellenansicht** ist die Standard-Darstellungsform in einer SeaTable Base
 
 ![Tabellenansicht](images/Tabelle.png)
 
-Andere Darstellungen wie Kalender, Galerie oder Kanban können Sie in Form von [Plugins](https://seatable.io/docs/arbeiten-mit-plugins/was-ist-ein-plugin/) verwenden.
+Andere Darstellungen wie Kalender, Galerie oder Kanban können Sie in Form von [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) verwenden.
 
 ## Weitere Artikel zum Thema Ansichten
 

@@ -82,7 +82,7 @@ In diesem hält SeaTable für jeden Automationslauf folgende Informationen fest:
 
 ![Struktur eines Auführungslogs](images/structure-of-an-automation-log-newest.png)
 
-Nähere Informationen zum Ausführungslog einer Automation finden Sie [hier](https://seatable.io/docs/automationen/ausfuehrungslog-einer-automation-anzeigen/).
+Nähere Informationen zum Ausführungslog einer Automation finden Sie [hier]({{< relref "help/base-editor/automationen/ausfuehrungslog-einer-automation-anzeigen" >}}).
 
 ## Ausführungslog von Skripten
 
@@ -94,4 +94,4 @@ Im Ausführungslog finden Sie diverse nützliche Informationen wie Startzeit, En
 
 ![Zu findende Informationen im  Ausführungslog eines Skriptes](images/information-in-a-script-log.png)
 
-Falls Sie weitere Informationen zum Ausführungslog von Skripten benötigen, werfen Sie gerne einen Blick in diesen [Hilfe-Artikel](https://seatable.io/docs/javascript-python/das-ausfuehrungslog-von-skripten/).
+Falls Sie weitere Informationen zum Ausführungslog von Skripten benötigen, werfen Sie gerne einen Blick in diesen [Hilfe-Artikel]({{< relref "help/skripte/allgemein/das-ausfuehrungslog-von-skripten" >}}).

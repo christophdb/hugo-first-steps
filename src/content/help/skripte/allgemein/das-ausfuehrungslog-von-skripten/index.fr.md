@@ -33,7 +33,7 @@ Un script vous permet de faire de grandes choses dans SeaTable. Les scripts cré
 - **Heure de fin** (l'heure exacte à laquelle l'exécution du script s'est terminée)
 - **Durée totale** (temps nécessaire à l'exécution du script)
 - **Statut** (indique si le script a été exécuté avec succès)
-- **Appelé par** (indique comment le script a été exécuté - [manuellement, par automation ou par un bouton]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}}))
+- **Appelé par** (indique comment le script a été exécuté - [manuellement, par automation ou par un bouton]({{< relref "help/skripte/allgemein/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren" >}})
 
 Passez la souris sur une exécution de votre script et cliquez sur **Détails** pour obtenir plus d'informations sur l'exécution de votre script.
 

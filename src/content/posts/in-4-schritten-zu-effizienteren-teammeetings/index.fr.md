@@ -25,7 +25,7 @@ Il y a plusieurs raisons pour lesquelles les réunions d'équipe sont inefficace
 3. Certains participants ont oublié la réunion ou sont arrivés en retard.
 4. On discute de sujets qui n'ont rien à faire en réunion.
 5. Il y a une personne qui parle trop et qui fait des monologues.
-6. Lors de la réunion, aucun [ordre du jour](https://seatable.io/fr/perfekte-aufgabenverwaltung-im-projektmanagement/) n'est fixé et aucune décision n'est prise.
+6. Lors de la réunion, aucun [ordre du jour]({{< relref "posts/aufgabenverwaltung" >}}) n'est fixé et aucune décision n'est prise.
 
 Vous avez certainement déjà vécu l'un des points mentionnés ici. Les points 4 à 6 sont plutôt des choses que vous pouvez réguler par la **modération**. Pour cela, il faut qu'une personne prenne le lead et intervienne dès que la discussion ne porte plus sur l'essentiel.
 
@@ -65,7 +65,7 @@ L'agenda aide également à se préparer de manière adéquate à la réunion. I
 
 ![La fonction de chat rend les e-mails superflus ](Chat-Funktion.png)
 
-La [fonction de chat](https://seatable.io/fr/docs/handbuch/zusammenarbeit/kommentare/) dans chaque ligne, c'est-à-dire dans chaque réunion d'équipe individuelle, permet une communication simple et légère qui rend tout e-mail superflu. En ouvrant une ligne (en cliquant sur les petites flèches bleues à gauche de la ligne), une vue globale de la réunion s'ouvre. À droite se trouve le chat, dans lequel vous pouvez facilement ajouter des collaborateurs et écrire des messages importants, comme par exemple que le collaborateur Müller doit télécharger la présentation intermédiaire avec la rétrospective de l'année.
+La [fonction de chat]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) dans chaque ligne, c'est-à-dire dans chaque réunion d'équipe individuelle, permet une communication simple et légère qui rend tout e-mail superflu. En ouvrant une ligne (en cliquant sur les petites flèches bleues à gauche de la ligne), une vue globale de la réunion s'ouvre. À droite se trouve le chat, dans lequel vous pouvez facilement ajouter des collaborateurs et écrire des messages importants, comme par exemple que le collaborateur Müller doit télécharger la présentation intermédiaire avec la rétrospective de l'année.
 
 Le collaborateur tagué reçoit une notification automatique par e-mail du message de chat et peut ensuite y répondre facilement dans le chat lui-même. Il est ainsi possible de clarifier des questions, de collecter du matériel ou d'échanger d'autres informations importantes à l'avance. Tout est collecté de manière transparente et compréhensible, de sorte que tout le monde est impliqué et que les responsabilités sont clairement délimitées.
 

@@ -76,5 +76,5 @@ Puede utilizar esta función para asegurarse de que los demás usuarios utilizan
 - Si **elimina columnas** del conjunto de datos compartidos, éstas permanecen en la tabla, pero los datos **dejan de estar sincronizados**.
 - Si **oculta columnas** en el conjunto de datos compartidos, seguirán siendo visibles en la tabla, pero los datos **dejarán de estar sincronizados**.
 - Si **se modifica el tipo de columna** en el registro de datos compartidos, también se **modificará** en la tabla.
-- Si se [añaden nuevas columnas](https://seatable.io/es/docs/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern/) a la tabla que no están contenidas en el conjunto de datos compartidos, éstas **no se sincronizan** y permanecen **inalteradas**.
+- Si se [añaden nuevas columnas]({{< relref "help/startseite/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern" >}}) a la tabla que no están contenidas en el conjunto de datos compartidos, éstas **no se sincronizan** y permanecen **inalteradas**.
 - Si **cambia el nombre de las columnas del conjunto de datos compartido** en la tabla, los nombres de las columnas **no se sincronizan** y permanecen **modificados**.

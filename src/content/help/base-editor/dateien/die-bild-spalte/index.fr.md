@@ -27,7 +27,7 @@ Dans une colonne d'images, vous disposez de différentes possibilités pour **aj
 
 1. Cliquez dans la **cellule** d'une colonne d'images.
 2. Cliquez sur le **symbole plus** qui apparaît.
-3. Une nouvelle fenêtre s'ouvre. Ici, vous pouvez télécharger **des images de votre appareil**, les intégrer par **URL** ou les ajouter depuis le [gestionnaire de fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
+3. Une nouvelle fenêtre s'ouvre. Ici, vous pouvez télécharger **des images de votre appareil**, les intégrer par **URL** ou les ajouter depuis le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
 
 ### Images locales
 
@@ -47,7 +47,7 @@ Dans la zone **Lien image**, vous pouvez ajouter des images à la colonne d'imag
 
 ### Dernièrement téléchargé
 
-Dans la zone **Dernier chargement**, vous avez accès à la [gestion des fichiers](https://seatable.io/fr/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de la base. C'est là que sont enregistrées les images que vous avez déjà téléchargées dans des **colonnes** **d'images** ou **de fichiers** ou dans **vos propres dossiers**. Sélectionnez une image et insérez-la dans la colonne des images en cliquant sur **Envoyer**.
+Dans la zone **Dernier chargement**, vous avez accès à la [gestion des fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la base. C'est là que sont enregistrées les images que vous avez déjà téléchargées dans des **colonnes** **d'images** ou **de fichiers** ou dans **vos propres dossiers**. Sélectionnez une image et insérez-la dans la colonne des images en cliquant sur **Envoyer**.
 
 ![La section "Derniers ajouts" d'une colonne d'images](images/recently-uploaded-images-image-column.png)
 
@@ -85,7 +85,7 @@ Ensuite, vous pouvez encore définir **votre propre nom de fichier** et le syst�
 
 ![Boîte de dialogue pour télécharger tous les fichiers](images/Download-all-files-dialog.png)
 
-En cliquant sur les **trois points**, vous avez deux options pour enregistrer le fichier : En cas de **téléchargement**, un fichier zip est enregistré sur votre appareil, à partir duquel vous pouvez extraire toutes les images. En outre, vous pouvez également **enregistrer** les images **dans Seafile**. Pour ce faire, vous devez au préalable [connecter une bibliothèque Seafile à votre base](https://seatable.io/fr/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+En cliquant sur les **trois points**, vous avez deux options pour enregistrer le fichier : En cas de **téléchargement**, un fichier zip est enregistré sur votre appareil, à partir duquel vous pouvez extraire toutes les images. En outre, vous pouvez également **enregistrer** les images **dans Seafile**. Pour ce faire, vous devez au préalable [connecter une bibliothèque Seafile à votre base]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ### Supprimer des images
 
@@ -95,4 +95,8 @@ Sélectionnez ensuite l'**image** souhaitée et cliquez sur l'**icône** {{< sea
 
 ![Confirmation de la suppression](images/confirm-delete.jpg)
 
-{{< warning  headline="Attention"  text="Les images supprimées d'une colonne d'images font toujours partie de la base et ne sont donc **pas** définitivement supprimées. Lisez à ce sujet les articles [Accès aux fichiers et images supprimés](https://seatable.io/fr/docs/datei-und-bildanhaenge/zugriff-auf-geloeschte-anhaenge/) et [Comment supprimer définitivement des fichiers](https://seatable.io/fr/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  headline="Attention" >}}
+
+Les images supprimées d'une colonne d'images font toujours partie de la base et ne sont donc **pas** définitivement supprimées. Lisez à ce sujet les articles [Accès aux fichiers et images supprimés]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) et [Comment supprimer définitivement des fichiers]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}

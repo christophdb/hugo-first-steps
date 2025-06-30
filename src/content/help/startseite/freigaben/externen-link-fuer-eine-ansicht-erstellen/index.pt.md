@@ -19,7 +19,7 @@ Além disso, estão disponíveis várias opções com as quais se pode assegurar
 - Tem a opção de definir uma **data de expiração automática para** uma ligação externa. Após o número de dias seleccionado, a ligação externa perde a sua validade.
 - Além disso, também pode definir qualquer **palavra-passe** para uma ligação externa. Isto deve ser introduzido correctamente por outro utilizador para ter acesso à vista.
 
-Tudo o resto que deve saber sobre links externos pode ser encontrado no artigo [Creating an External Link for a Base](https://seatable.io/pt/docs/freigabelinks/externer-link-erklaert/).
+Tudo o resto que deve saber sobre links externos pode ser encontrado no artigo [Creating an External Link for a Base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}).
 
 ## Criar uma ligação externa para uma vista
 

@@ -16,7 +16,7 @@ Descubra neste artigo as respostas a estas perguntas e porque é que software e 
 
 ## Gestão da oferta - definição e factos chave
 
-Como componente central nas [vendas](https://seatable.io/pt/vertrieb/), a gestão da oferta é o elo importante entre os requisitos externos e as medidas internas. Isto significa que a gestão da oferta inclui todas as tarefas e processos que estão de alguma forma relacionados com inquéritos, encomendas (potenciais) e as etapas e serviços de trabalho associados.
+Como componente central nas [vendas]({{< relref "templates/sales/sales-pipeline" >}}), a gestão da oferta é o elo importante entre os requisitos externos e as medidas internas. Isto significa que a gestão da oferta inclui todas as tarefas e processos que estão de alguma forma relacionados com inquéritos, encomendas (potenciais) e as etapas e serviços de trabalho associados.
 
 Em geral, a gestão do abastecimento pode ser dividida em duas áreas:
 
@@ -95,9 +95,9 @@ Gestão da oferta © Patrick Daxenbichler / adobe stock
 
 Uma gestão de abastecimento personalizada não acontece por si só. Há demasiados aspectos a considerar. A fim de manter uma visão geral e organizar todos os processos tão eficiente e eficazmente quanto possível, tem grandes vantagens em gerir todo o processamento da oferta com software.
 
-O mercado já oferece uma série de soluções de software que são versáteis e podem ser flexivelmente adaptadas às exigências das vendas. Quer seja [CRM clássico]({{< relref "posts/crm-angebotsmanagement" >}}), serviço ao cliente ou outras [áreas de vendas](https://seatable.io/pt/vertrieb/) - com as ferramentas certas pode combinar todo o seu negócio de vendas num único sistema e reduzir ao mínimo a complexidade da gestão da oferta. As ferramentas mais conhecidas para a gestão da oferta digital incluem HubSpot, SAP CRM e ActiveCampaign.
+O mercado já oferece uma série de soluções de software que são versáteis e podem ser flexivelmente adaptadas às exigências das vendas. Quer seja [CRM clássico]({{< relref "posts/crm-angebotsmanagement" >}}), serviço ao cliente ou outras [áreas de vendas]({{< relref "templates/sales/sales-pipeline" >}}) - com as ferramentas certas pode combinar todo o seu negócio de vendas num único sistema e reduzir ao mínimo a complexidade da gestão da oferta. As ferramentas mais conhecidas para a gestão da oferta digital incluem HubSpot, SAP CRM e ActiveCampaign.
 
-Se procura o pacote completo e despreocupado para a gestão da sua oferta, o [SeaTable](https://seatable.io/pt/) é uma alternativa óptima e rentável. Com as funções desta ferramenta, pode automatizar todos os processos de venda e recolher todos os dados de uma forma descomplicada utilizando o formulário web integrado. Para resolver problemas de clientes, responder a perguntas e ordenar o feedback, esta é uma grande vantagem.
+Se procura o pacote completo e despreocupado para a gestão da sua oferta, o [SeaTable]({{< relref "/" >}}) é uma alternativa óptima e rentável. Com as funções desta ferramenta, pode automatizar todos os processos de venda e recolher todos os dados de uma forma descomplicada utilizando o formulário web integrado. Para resolver problemas de clientes, responder a perguntas e ordenar o feedback, esta é uma grande vantagem.
 
 Com SeaTable, pode gerir CRM e apoio ao cliente, bem como a gestão da cadeia de fornecimento centralizada num único local e disponibilizá-los a todos os empregados sem qualquer esforço adicional. Desta forma, todos conhecem sempre o estado actual de cada oferta. E: utilizando a linha do tempo e o quadro Kanban, pode [facilmente visualizar e cumprir os prazos]({{< relref "templates/projects/project-plan" >}}). É assim que se lançam as bases para um trabalho de vendas verdadeiramente bem sucedido.
 

@@ -59,12 +59,12 @@ Wenn Sie im Formeleditor auf eine öffnende oder schließende Klammer klicken, w
 
 Im Folgenden finden Sie ein paar Beispiele, die den Nutzen und die Nutzung von Formeln verdeutlichen.
 
-- [Formelbeispiel: Einfache Multiplikation mit einer Formel](https://seatable.io/docs/formeln/formelbeispiel-einfache-multiplikation-mit-einer-formel/)
-- [Formelbeispiel: Zusammenführen von Text-Spalten mit Hilfe einer Formel](https://seatable.io/docs/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel/)
-- [Formelbeispiel: Logische If-Operatoren zum Vergleichen von Werten](https://seatable.io/docs/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten/)
-- [Formelbeispiel: Berechne die Dauer eines Urlaubs](https://seatable.io/docs/formeln/formelbeispiel-berechne-die-dauer-eines-urlaubs/)
-- [Formelbeispiel: Berechne Tage bis zu einem Event](https://seatable.io/docs/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event/)
-- [Formelbeispiel: Nach einem Wort in einem Text suchen](https://seatable.io/docs/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen/)
+- [Formelbeispiel: Einfache Multiplikation mit einer Formel]({{< relref "help/base-editor/formeln/formelbeispiel-einfache-multiplikation-mit-einer-formel" >}})
+- [Formelbeispiel: Zusammenführen von Text-Spalten mit Hilfe einer Formel]({{< relref "help/base-editor/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel" >}})
+- [Formelbeispiel: Logische If-Operatoren zum Vergleichen von Werten]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}})
+- [Formelbeispiel: Berechne die Dauer eines Urlaubs]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-die-dauer-eines-urlaubs" >}})
+- [Formelbeispiel: Berechne Tage bis zu einem Event]({{< relref "help/base-editor/formeln/formelbeispiel-berechne-tage-bis-zu-einem-event" >}})
+- [Formelbeispiel: Nach einem Wort in einem Text suchen]({{< relref "help/base-editor/formeln/formelbeispiel-nach-einem-wort-in-einem-text-suchen" >}})
 
 ## Mathematische Konventionen gelten auch in SeaTable
 

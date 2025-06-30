@@ -55,7 +55,7 @@ En **Borrar** tiene la opción de borrar la base seleccionada.
 
 ## La papelera
 
-Todas las **bases borradas** aparecen en la papelera de reciclaje. Transcurridos **30 días**, las bases se eliminan automáticamente del sistema. Sin embargo, también puede **eliminar** manualmente **todas las** bases de la papelera de reciclaje. [Aquí](https://seatable.io/es/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/) encontrará información sobre cómo hacerlo.
+Todas las **bases borradas** aparecen en la papelera de reciclaje. Transcurridos **30 días**, las bases se eliminan automáticamente del sistema. Sin embargo, también puede **eliminar** manualmente **todas las** bases de la papelera de reciclaje. [Aquí]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}) encontrará información sobre cómo hacerlo.
 
 Para restaurar una base, haga clic en la base correspondiente y accione el control deslizante antes de pulsar el botón **Restaurar base**.
 
@@ -67,9 +67,9 @@ Aquí están los **Compartir usuarios y grupos** enumerados para todas las bases
 
 Obtenga más información sobre los tipos de desbloqueo en los siguientes artículos:
 
-- [Liberar una base a un grupo](https://seatable.io/es/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
-- [Crear un recurso compartido de usuario](https://seatable.io/es/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Crear una acción personalizada](https://seatable.io/es/docs/berechtigungen/benutzerdefinierte-freigabe-erstellen/)
+- [Liberar una base a un grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Crear un recurso compartido de usuario]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Crear una acción personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}})
 
 ## Enlaces externos y enlaces de invitación
 
@@ -78,5 +78,5 @@ En estas dos vistas generales no sólo puede ver todos los enlaces externos y de
 Encontrará más información sobre los enlaces de liberación en los siguientes artículos:
 
 - [Crear enlace de invitación]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
-- [Crear un enlace externo para una base](https://seatable.io/es/docs/freigabelinks/externer-link-erklaert/)
-- [Diferencias entre enlaces de invitación y enlaces externos](https://seatable.io/es/docs/freigabelinks/unterschiede-zwischen-einladungs-links-und-externen-links/)
+- [Crear un enlace externo para una base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
+- [Diferencias entre enlaces de invitación y enlaces externos]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}})

@@ -20,8 +20,8 @@ url: '/ru/pomoshch/hilfe-bekommen'
 
 Клиенты с оплаченной подпиской Plus или Enterprise также имеют возможность открыть тикет поддержки. Более подробную информацию можно найти в следующих статьях справки:
 
-- [Откройте билет в службу поддержки](https://seatable.io/ru/docs/teamverwaltung/ein-support-ticket-eroeffnen/).
-- [Подписка Plus или Enterprise](https://seatable.io/ru/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+- [Откройте билет в службу поддержки]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}}).
+- [Подписка Plus или Enterprise]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Дополнительные источники помощи для самообразования
 

@@ -12,11 +12,11 @@ seo:
 
 Nous sommes heureux d'annoncer la sortie de SeaTable 1.4 ! Nous avons intégré un nouveau type de colonne, des fonctions de base de données améliorées, un chat en temps réel et de nombreuses autres améliorations dans cette nouvelle version. Organiser des données et collaborer en équipe n'a jamais été aussi facile et pratique ! Et surtout, chaque utilisateur bénéficie des nouvelles fonctionnalités, y compris l'abonnement gratuit.
 
-Pour une liste complète des changements, veuillez consulter le [SeaTable Changelog](https://seatable.io/fr/docs/changelog/version-1-4/). Cette note de version représente les changements les plus importants et les plus passionnants de SeaTable 1.4. Allons-y !
+Pour une liste complète des changements, veuillez consulter le [SeaTable Changelog]({{< relref "pages/changelog" >}}). Cette note de version représente les changements les plus importants et les plus passionnants de SeaTable 1.4. Allons-y !
 
 ## Bienvenue dans l'équipe de type Colonne #18
 
-SeaTable 1.4 contient un autre type de colonne : la [colonne URL](https://seatable.io/fr/docs/handbuch/datenmanagement/feld-typen/#url). Cette colonne se comporte comme une colonne de texte, mais le contenu de la cellule est interprété comme une référence à une ressource réseau. Les adresses Internet et IP telles que https://seatable.io, www.seafile.com, 192.168.178.1 et localhost:8000 sont en de bonnes mains dans la colonne URL.
+SeaTable 1.4 contient un autre type de colonne : la [colonne URL]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#url). Cette colonne se comporte comme une colonne de texte, mais le contenu de la cellule est interprété comme une référence à une ressource réseau. Les adresses Internet et IP telles que https://seatable.com, www.seafile.com, 192.168.178.1 et localhost:8000 sont en de bonnes mains dans la colonne URL.
 
 L'adresse d'une ressource du réseau peut être appelée à partir d'une colonne URL en deux clics. Au premier clic, une icône de lien apparaît sur le bord droit de la cellule. En cliquant une deuxième fois sur cette icône, l'adresse est appelée dans un nouvel onglet du navigateur ; http(s) est automatiquement ajouté comme préfixe. Si vous vous demandez maintenant pourquoi deux clics sont nécessaires, en voici la raison : les deux clics protègent contre les appels de page web erronés lors de la navigation dans le tableau, ce qui peut facilement arriver, surtout sur les appareils mobiles.
 
@@ -46,7 +46,7 @@ Une collaboration en ligne efficace n'est pas possible sans une bonne communicat
 
 ![Discussion en temps réel dans les commentaires](comment-chat.png)
 
-Si vous ne connaissez pas encore la fonction de commentaire, sélectionnez une ligne et appuyez sur la barre d'espacement pour afficher les détails de la ligne. Dans les coins supérieurs droits, vous trouverez la colonne des commentaires. Le backend amélioré de SeaTable informe les utilisateurs des nouveaux commentaires sans délai. Si les utilisateurs sont en ligne, le chat de groupe peut alors commencer. Dans le cas contraire, les utilisateurs sont informés par [notification](https://seatable.io/fr/docs/handbuch/zusammenarbeit/benachrichtigungen/). Échangez vos idées et vos impressions avec vos collègues lorsqu'elles sont fraîches.
+Si vous ne connaissez pas encore la fonction de commentaire, sélectionnez une ligne et appuyez sur la barre d'espacement pour afficher les détails de la ligne. Dans les coins supérieurs droits, vous trouverez la colonne des commentaires. Le backend amélioré de SeaTable informe les utilisateurs des nouveaux commentaires sans délai. Si les utilisateurs sont en ligne, le chat de groupe peut alors commencer. Dans le cas contraire, les utilisateurs sont informés par [notification]({{< relref "help/startseite/benachrichtigungen" >}}). Échangez vos idées et vos impressions avec vos collègues lorsqu'elles sont fraîches.
 
 ## Des Webhooks pour une meilleure automatisation
 

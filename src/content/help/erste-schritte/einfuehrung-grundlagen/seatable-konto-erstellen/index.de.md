@@ -13,7 +13,7 @@ Es freut uns, dass Sie sich für SeaTable interessieren! Die Registrierung für 
 
 ## Die Registrierung
 
-1. Öffnen Sie die [SeaTable Webseite](https://seatable.io).
+1. Öffnen Sie die [SeaTable Webseite]({{< relref "/" >}}).
 2. Klicken Sie rechts oben auf **Registrieren**.
 3. Geben Sie Ihre **E-Mail-Adresse** ein und bestätigen Sie.
 
@@ -21,7 +21,7 @@ Das war es auch schon. Sie erhalten in Kürze eine E-Mail mit einem Bestätigung
 
 {{< warning type="warning" headline="Zahlungsinformationen sind keine erforderlich" >}}
 
-Bei SeaTable Cloud startet jedes Team immer mit dem kostenlosen Free-Abo. Deshalb müssen Sie auch keinerlei Zahlungsinformationen angeben. Selbstverständlich können Sie sofort nach dem ersten Login Ihr Team auf ein [Plus- oder Enterprise Abo upgraden](https://seatable.io/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Bei SeaTable Cloud startet jedes Team immer mit dem kostenlosen Free-Abo. Deshalb müssen Sie auch keinerlei Zahlungsinformationen angeben. Selbstverständlich können Sie sofort nach dem ersten Login Ihr Team auf ein [Plus- oder Enterprise Abo upgraden]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 {{</ warning >}}
 

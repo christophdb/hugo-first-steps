@@ -81,7 +81,7 @@ Para utilizar la base de datos en línea de forma gratuita, necesita la versión
 Otra base de datos relacional muy popular es [la base de datos Oracle](https://www.oracle.com/de/database/). Sus principales funciones son el desarrollo de aplicaciones y el almacenamiento de datos. Si busca una base de datos en línea gratuita, tiene dos opciones:
 
 - **Procesamiento autónomo de transacciones de Oracle**: La forma en que se almacenan los datos facilita las tareas cotidianas con la base de datos en línea.
-- **Oracle Autonomous Data Warehouse**: Este tipo de almacenamiento facilita los [análisis](https://seatable.io/es/swot-analyse-template/).
+- **Oracle Autonomous Data Warehouse**: Este tipo de almacenamiento facilita los [análisis]({{< relref "templates/operations/swot-analysis" >}}).
 
 En ambos casos, el espacio de almacenamiento de la base de datos está limitado a 20 GB.
 
@@ -103,7 +103,7 @@ También puede utilizar [ZenBase](https://getzenbase.com/) para crear y gestiona
 
 ### SeaTable
 
-Por último, tiene la posibilidad de utilizar gratuitamente la base de datos en línea [SeaTable](https://seatable.io/es/). Se incluyen 2 GB de almacenamiento para archivos, 10.000 filas y tablas ilimitadas. Para una gama más amplia de funciones, la versión Plus cuesta a partir de 7 euros por usuario y mes. La herramienta permite diferentes vistas de los datos, como un calendario o un gráfico. Es fácil de usar y funciona en centros de datos alemanes.
+Por último, tiene la posibilidad de utilizar gratuitamente la base de datos en línea [SeaTable]({{< relref "/" >}}). Se incluyen 2 GB de almacenamiento para archivos, 10.000 filas y tablas ilimitadas. Para una gama más amplia de funciones, la versión Plus cuesta a partir de 7 euros por usuario y mes. La herramienta permite diferentes vistas de los datos, como un calendario o un gráfico. Es fácil de usar y funciona en centros de datos alemanes.
 
 ## Conclusión: Hay muchas bases de datos en línea - algunas gratuitas, otras con versión de prueba
 

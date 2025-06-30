@@ -34,7 +34,7 @@ When using the column, it makes sense to keep the entries **short**, since only 
 
 {{< warning  headline="Important note"  text="Please note that **no formatting options** are available for entries in the regular text column." />}}
 
-There are two other text-based column types in SeaTable for special use cases: the [email column](https://seatable.io/en/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/) and the [URL column](https://seatable.io/en/docs/text-und-zahlen/die-url-spalte/).
+There are two other text-based column types in SeaTable for special use cases: the [email column]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) and the [URL column]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}).
 
 ### Set default value
 

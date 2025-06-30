@@ -40,7 +40,7 @@ In this column type you can save **longer texts** with inserted elements such as
 
 Symbol: {{< seatable-icon icon="dtable-icon-number" >}} **Number**
 
-Number columns store **numeric information** and can be used in many ways to work with numbers of any kind. A numeric information can be a **number**, a **percentage** or a **monetary amount**. Furthermore, number columns allow you to **calculate values** that you can visualize with formulas and [statistics](https://seatable.io/en/docs/seatable-nutzen/statistiken/). However, number columns are not suitable for storing strings of any length, and SeaTable refuses to allow you to enter letters in this type of column.
+Number columns store **numeric information** and can be used in many ways to work with numbers of any kind. A numeric information can be a **number**, a **percentage** or a **monetary amount**. Furthermore, number columns allow you to **calculate values** that you can visualize with formulas and [statistics]({{< relref "help/base-editor/statistiken" >}}). However, number columns are not suitable for storing strings of any length, and SeaTable refuses to allow you to enter letters in this type of column.
 
 [More about the numbers column]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
 
@@ -98,15 +98,15 @@ Icon: {{< seatable-icon icon="dtable-icon-email" >}} **E-mail**
 
 Email columns are specialized text columns for capturing and storing **email addresses** and allow direct use with a mouse click. The email column is especially handy for web forms. Using an email field in place of a text column ensures that the input has the syntax of a valid email address. In addition, email columns can be used to send emails via [buttons]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) and [automations]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
-If you need more detailed information about the email column, take a look at this [article](https://seatable.io/en/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
+If you need more detailed information about the email column, take a look at this [article]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}).
 
 ### URL
 
 Symbol: {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
-URL columns interpret the entered information as a **resource** in the local network or on the Internet and allow it to be called up directly by clicking. Since entries in this column type are not validated, an Internet address (e.g. https://seatable.io) or an IP address (e.g. 192.168.178.1) can be stored in a cell.
+URL columns interpret the entered information as a **resource** in the local network or on the Internet and allow it to be called up directly by clicking. Since entries in this column type are not validated, an Internet address (e.g. https://seatable.com) or an IP address (e.g. 192.168.178.1) can be stored in a cell.
 
-[More about the URL column](https://seatable.io/en/docs/text-und-zahlen/die-url-spalte/)
+[More about the URL column]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 
 ### Checkbox
 
@@ -168,7 +168,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-location" >}} **Geoposition**
 
 In this column you can record **locations** and visualize them later with the [map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}). For this you can either select the entry with country and region or with latitude and longitude. Additionally, you have the possibility to find a country or region using the search function and add it as an entry.
 
-[More about the geoposition column](https://seatable.io/en/docs/andere-spalten/die-geopositions-spalte/)
+[More about the geoposition column]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}})
 
 ### Digital signature
 
@@ -176,7 +176,7 @@ You can store **digital signatures** in a signature column, which are automatica
 
 Symbol: {{< seatable-icon icon="dtable-icon-rename" >}} **Digital signature**
 
-[More about the signature column](https://seatable.io/en/docs/dateien-und-bilder/die-signatur-spalte/)
+[More about the signature column]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}})
 
 ## Column types with automatic data collection
 

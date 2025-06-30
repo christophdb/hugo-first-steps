@@ -58,8 +58,8 @@ The created share permission is now available as an option under **Share for Use
 
 For detailed explanations of what you should consider when sharing with users or groups, see the following articles:
 
-- [Release a base to a user](https://seatable.io/en/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Release a base to a group](https://seatable.io/en/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Release a base to a user]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Release a base to a group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 
 ## Consequences of the release
 

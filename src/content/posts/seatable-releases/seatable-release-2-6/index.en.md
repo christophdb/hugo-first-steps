@@ -11,7 +11,7 @@ seo:
     description:
 ---
 
-We are pleased to present in these release notes version 2.6 of SeaTable, the last new release in 2021. If you are tired of eating biscuits in the coming days and need a little distance from the dear family, then take a look. There is more than enough new stuff to discover! The highlights of the new version are the private views, the data update function for CSV and XLSX files, default values for three additional column types and an extended page design plug-in. And that's not all. SeaTable 2.6 is filled to bursting with minor improvements to existing features. You can find the complete list of changes - as always - in the [SeaTable Changelog](https://seatable.io/en/docs/changelog/version-2-6/).
+We are pleased to present in these release notes version 2.6 of SeaTable, the last new release in 2021. If you are tired of eating biscuits in the coming days and need a little distance from the dear family, then take a look. There is more than enough new stuff to discover! The highlights of the new version are the private views, the data update function for CSV and XLSX files, default values for three additional column types and an extended page design plug-in. And that's not all. SeaTable 2.6 is filled to bursting with minor improvements to existing features. You can find the complete list of changes - as always - in the [SeaTable Changelog]({{< relref "pages/changelog" >}}).
 
 ## Private views (only for Enterprise subscribers)
 

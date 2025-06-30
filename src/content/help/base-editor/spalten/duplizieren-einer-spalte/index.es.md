@@ -16,4 +16,8 @@ Por supuesto, puede duplicar columnas en SeaTable. Aquí puede averiguar cómo h
 2. Seleccione **Duplicar columna**.
 3. La columna **duplicada** aparece directamente a la **derecha de la** columna original.
 
-{{< warning  headline="No hay transferencia de datos"  text="Los valores existentes de la columna original **no** se toman. Sin embargo, puedes [copiar y pegar](https://seatable.io/es/docs/arbeiten-in-bases/hinzufuegen-von-daten-per-copy-and-paste/) los datos de una columna a otra." />}}
+{{< warning  headline="No hay transferencia de datos" >}}
+
+Los valores existentes de la columna original **no** se toman. Sin embargo, puedes [copiar y pegar]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) los datos de una columna a otra.
+
+{{< /warning >}}

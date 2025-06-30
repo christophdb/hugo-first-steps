@@ -40,7 +40,7 @@ En este tipo de columna puede guardar **textos más largos** con elementos inser
 
 Símbolo: {{< seatable-icon icon="dtable-icon-number" >}} **Número**
 
-Las columnas numéricas almacenan información **numérica** y pueden utilizarse de muchas maneras para trabajar con números de todo tipo. La información numérica puede ser un **número**, un **porcentaje** o una **cantidad de dinero**. Además, las columnas numéricas permiten **calcular valores** que se pueden visualizar con fórmulas y [estadísticas](https://seatable.io/es/docs/seatable-nutzen/statistiken/). Sin embargo, las columnas numéricas no son adecuadas para almacenar cadenas de cualquier longitud y la entrada de letras es rechazada por SeaTable en este tipo de columna.
+Las columnas numéricas almacenan información **numérica** y pueden utilizarse de muchas maneras para trabajar con números de todo tipo. La información numérica puede ser un **número**, un **porcentaje** o una **cantidad de dinero**. Además, las columnas numéricas permiten **calcular valores** que se pueden visualizar con fórmulas y [estadísticas]({{< relref "help/base-editor/statistiken" >}}). Sin embargo, las columnas numéricas no son adecuadas para almacenar cadenas de cualquier longitud y la entrada de letras es rechazada por SeaTable en este tipo de columna.
 
 [Más información sobre la columna de cifras]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
 
@@ -98,15 +98,15 @@ Símbolo: {{< seatable-icon icon="dtable-icon-email" >}} **Correo electrónico**
 
 Las columnas de correo electrónico son columnas de texto especializadas para capturar y almacenar **direcciones de correo electrónico** y permiten su uso directo con un clic del ratón. La columna de correo electrónico es especialmente útil para los formularios web. El uso de un campo de correo electrónico en lugar de una columna de texto garantiza que la entrada tiene la sintaxis de una dirección de correo electrónico válida. Además, las columnas de correo electrónico pueden utilizarse para enviar correos electrónicos a través de [botones]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) y [automatizaciones]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
-Si necesitas información más detallada sobre la columna de correo electrónico, echa un vistazo a este [artículo](https://seatable.io/es/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
+Si necesitas información más detallada sobre la columna de correo electrónico, echa un vistazo a este [artículo]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}).
 
 ### URL
 
 Símbolo: {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
-Las columnas URL interpretan la información introducida como un **recurso** en la red local o en Internet y permiten el acceso directo mediante un clic. Dado que las entradas en este tipo de columna no se validan, en una celda puede almacenarse una dirección de Internet (por ejemplo, https://seatable.io) o una dirección IP (por ejemplo, 192.168.178.1).
+Las columnas URL interpretan la información introducida como un **recurso** en la red local o en Internet y permiten el acceso directo mediante un clic. Dado que las entradas en este tipo de columna no se validan, en una celda puede almacenarse una dirección de Internet (por ejemplo, https://seatable.com) o una dirección IP (por ejemplo, 192.168.178.1).
 
-[Más información sobre la columna URL](https://seatable.io/es/docs/text-und-zahlen/die-url-spalte/)
+[Más información sobre la columna URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 
 ### Casilla de verificación
 
@@ -168,7 +168,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-location" >}} **Geoposición**
 
 En esta columna puede registrar **ubicaciones** y visualizarlas más tarde con el [complemento de mapas]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}). Para ello, puede seleccionar la entrada con país y región o con latitud y longitud. Además, tiene la opción de encontrar un país o región mediante la función de búsqueda y añadirlo como entrada.
 
-[Más información sobre la columna de geoposición](https://seatable.io/es/docs/andere-spalten/die-geopositions-spalte/)
+[Más información sobre la columna de geoposición]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}})
 
 ### Firma digital
 
@@ -176,7 +176,7 @@ Puede almacenar **firmas digitales** en una columna de firmas, que se guardan au
 
 Símbolo: {{< seatable-icon icon="dtable-icon-rename" >}} **Firma digital**
 
-[Más información sobre la columna de firmas](https://seatable.io/es/docs/dateien-und-bilder/die-signatur-spalte/)
+[Más información sobre la columna de firmas]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}})
 
 ## Tipos de columnas con recogida automática de datos
 

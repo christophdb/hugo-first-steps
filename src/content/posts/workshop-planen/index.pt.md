@@ -65,7 +65,7 @@ Com o plugin de conceção de páginas, também é possível criar um **perfil**
 
 ## Determinar a duração e a ordem de trabalhos do seminário
 
-Um seminário sobre a forma como os seus empregados podem [apresentar as despesas de deslocação e ser reembolsados](https://seatable.io/pt/auslagenerstattung/) não deve demorar mais de uma hora, ao passo que um programa de formação em gestão pode demorar várias horas por semana ou mesmo dias inteiros. Em função do **volume de trabalho**, o formador deve estabelecer uma **agenda** e planear a quantidade de conteúdos que podem ser abordados no tempo disponível. Pode utilizar o **calendário** para visualizar as **datas dos** cursos e dar aos seus empregados uma visão clara das datas na visão geral mensal.
+Um seminário sobre a forma como os seus empregados podem [apresentar as despesas de deslocação e ser reembolsados]({{< relref "posts/auslagenerstattung" >}}) não deve demorar mais de uma hora, ao passo que um programa de formação em gestão pode demorar várias horas por semana ou mesmo dias inteiros. Em função do **volume de trabalho**, o formador deve estabelecer uma **agenda** e planear a quantidade de conteúdos que podem ser abordados no tempo disponível. Pode utilizar o **calendário** para visualizar as **datas dos** cursos e dar aos seus empregados uma visão clara das datas na visão geral mensal.
 
 ## Reservar o local e o catering
 
@@ -95,7 +95,7 @@ Dependendo do tema da oficina, diferentes métodos e materiais são adequados pa
 
 ## Criar certificados
 
-Para **certificar a participação no workshop**, pode emitir um certificado para cada participante. O [plugin de design de páginas](https://seatable.io/pt/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) do SeaTable poupa-lhe muito trabalho. O plugin utiliza as informações já introduzidas na tabela e pode inseri-las individualmente para cada participante no layout do certificado de presença. Com a ajuda de um botão, pode criar documentos personalizados com o toque de um botão e guardá-los em formato PDF.
+Para **certificar a participação no workshop**, pode emitir um certificado para cada participante. O [plugin de design de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) do SeaTable poupa-lhe muito trabalho. O plugin utiliza as informações já introduzidas na tabela e pode inseri-las individualmente para cada participante no layout do certificado de presença. Com a ajuda de um botão, pode criar documentos personalizados com o toque de um botão e guardá-los em formato PDF.
 
 ![Criar certificados sem esforço extra com o Page Design Plugin](Zertifikate.jpg)
 
@@ -105,7 +105,7 @@ O que seria dos workshops e dos programas de formação sem feedback? Pode utili
 
 ![Utilize o formulário web SeaTable para recolher feedback dos seus empregados](Feedback.jpg)
 
-Pode **analisar** facilmente o feedback recolhido no SeaTable, por exemplo, apresentando a mediana ou a média de uma [coluna de classificação](https://seatable.io/pt/docs/auswahlspalten/die-rating-spalte/) na [barra de estado](https://seatable.io/pt/docs/ansichtsoptionen/die-status-zeile-und-ihre-funktionen/) ou utilizando as respostas abertas nas [colunas de texto](https://seatable.io/pt/docs/text-und-zahlen/die-spalten-text-und-formatierter-text/) para desenvolver mais os workshops. Se houver uma quantidade considerável de **críticas** a um curso, o formador pode fazer melhorias ou ser substituído. Por exemplo, se houver um feedback frequente de que faltam aspectos importantes, isso pode ser uma indicação de que deve dar-lhes mais tempo e prolongar o workshop. Também pode criar um novo workshop que se concentre precisamente nesses aspectos e que, assim, satisfaça as necessidades dos seus participantes.
+Pode **analisar** facilmente o feedback recolhido no SeaTable, por exemplo, apresentando a mediana ou a média de uma [coluna de classificação]({{< relref "help/base-editor/numerische-spalten/die-rating-spalte" >}}) na [barra de estado]({{< relref "help/base-editor/ansichten/die-status-zeile-und-ihre-funktionen" >}}) ou utilizando as respostas abertas nas [colunas de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) para desenvolver mais os workshops. Se houver uma quantidade considerável de **críticas** a um curso, o formador pode fazer melhorias ou ser substituído. Por exemplo, se houver um feedback frequente de que faltam aspectos importantes, isso pode ser uma indicação de que deve dar-lhes mais tempo e prolongar o workshop. Também pode criar um novo workshop que se concentre precisamente nesses aspectos e que, assim, satisfaça as necessidades dos seus participantes.
 
 ## Conclusão: Planear um workshop com o SeaTable
 

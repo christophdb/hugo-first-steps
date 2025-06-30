@@ -12,7 +12,7 @@ seo:
 
 Wir beginnen das neue Jahr mit einem neuen SeaTable Release: Version 1.6 wurde heute auf [https://cloud.seatable.io](https://cloud.seatable.io) ausgerollt. Die Veröffentlichung auf Docker Hub wird in Kürze erfolgen. Die neue Version ist wieder mal voll mit neuen Funktionen und Verbesserungen. Auf den ersten Blick werden Ihnen die zwei neuen Spaltentypen und das überarbeitete Menü für die Spaltenkonfiguration auffallen. Bei genauerem Blick werden Sie eine Vielzahl weiterer User Interface Verbesserungen finden. In dieser Version haben wir auch große Anstrengungen in den Formelassistenten investiert. Neue Funktionen, Designverbesserungen und erweiterte Fehlermeldungen heben den Assistenten auf eine ganz neue Ebene.
 
-In dieser Release Note stellen wir die bedeutendsten und relevantesten Änderungen der neuen Version vor. Eine vollständige Auflisting der Änderungen finden Sie – wie immer – im [SeaTable Changelog](https://seatable.io/docs/changelog/version-1-6/).
+In dieser Release Note stellen wir die bedeutendsten und relevantesten Änderungen der neuen Version vor. Eine vollständige Auflisting der Änderungen finden Sie – wie immer – im [SeaTable Changelog]({{< relref "pages/changelog" >}}).
 
 ## Spaltentyp #19: Dauer
 

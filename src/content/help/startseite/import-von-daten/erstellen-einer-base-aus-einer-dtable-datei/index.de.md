@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/erstellen-einer-base-aus-einer-dtable-datei'
 ---
 
-Neue Bases können Sie in SeaTable nicht nur leer oder aus einer Vorlage erzeugen, sondern auch aus einer DTABLE-Datei erstellen. DTABLE ist das hauseigene [Dateiformat](https://seatable.io/docs/expertenwissen/dtable-dateiformat/), mit dem Bases aus SeaTable exportiert und gespeichert werden. Hier erfahren Sie, wie Sie eine Base mit einer DTABLE-Datei anlegen können:
+Neue Bases können Sie in SeaTable nicht nur leer oder aus einer Vorlage erzeugen, sondern auch aus einer DTABLE-Datei erstellen. DTABLE ist das hauseigene [Dateiformat]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), mit dem Bases aus SeaTable exportiert und gespeichert werden. Hier erfahren Sie, wie Sie eine Base mit einer DTABLE-Datei anlegen können:
 
 ## Erstellen einer Base aus einer DTABLE-Datei
 

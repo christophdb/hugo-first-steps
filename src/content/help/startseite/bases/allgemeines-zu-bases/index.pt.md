@@ -15,10 +15,10 @@ As bases são de importância central no SeaTable. Sempre que entra, analisa, ed
 - Funções relacionais da base de dados e a [ligação de tabelas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 - [Mais de 20 tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) cobrindo todos os formatos de dados comuns
 - Várias [opções de partilha para]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) dados
-- [Colaboração](https://seatable.io/pt/docs/seatable-nutzen/zusammenarbeit/) em tempo real com outros utilizadores e transmissão em tempo real de todas as alterações
+- [Colaboração]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) em tempo real com outros utilizadores e transmissão em tempo real de todas as alterações
 - Uma [função de comentário para]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) cada registo numa linha
 - [Versões]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) todas as mudanças
-- Um [editor de formulários web]({{< relref "help/base-editor/webformulare/webformulare" >}}) integrado e [plugins](https://seatable.io/pt/docs/seatable-nutzen/ansichten/) gráficos
+- Um [editor de formulários web]({{< relref "help/base-editor/webformulare/webformulare" >}}) integrado e [plugins]({{< relref "help/base-editor/ansichten" >}}) gráficos
 - Opções de integração simples graças ao REST API
 
 As bases são, portanto, muito mais do que "contentores de mesa" na Web. Estas vantagens são-lhe rapidamente reconhecidas e nunca mais vai querer passar sem elas!
@@ -27,7 +27,7 @@ As bases são, portanto, muito mais do que "contentores de mesa" na Web. Estas v
 
 Cada Base tem um (e apenas um) **proprietário**. Contudo, a transferência de propriedade de uma Base de um utilizador para outro utilizador é possível.
 
-O proprietário de uma base é ou um **utilizador** ou um **grupo**. Se um utilizador é o proprietário de uma base, então apenas este utilizador tem todo o poder de disposição. Se a base pertencer a um grupo, todos os administradores do grupo têm pleno acesso à mesma. Aqui pode saber mais sobre as [permissões dos membros individuais do grupo](https://seatable.io/pt/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/).
+O proprietário de uma base é ou um **utilizador** ou um **grupo**. Se um utilizador é o proprietário de uma base, então apenas este utilizador tem todo o poder de disposição. Se a base pertencer a um grupo, todos os administradores do grupo têm pleno acesso à mesma. Aqui pode saber mais sobre as [permissões dos membros individuais do grupo]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
 
 A transferência directa de propriedade de um utilizador para outro não é actualmente (a partir de 20.3.2023) possível. Contudo, é possível **mudar** a propriedade indirectamente exportando uma base e fazendo-a importar pelo novo proprietário. Mais informações sobre importação e exportação de bases podem ser encontradas no artigo [Importação e exportação de dados]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
@@ -40,8 +40,8 @@ Na área **Minhas Bases** e em cada **grupo** em que é administrador, encontrar
 Tem **três opções** ao criar uma nova base. Pode ler mais sobre isto nos respectivos artigos:
 
 - [Criar uma base vazia]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
-- [Importar base a partir de um ficheiro](https://seatable.io/pt/{{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
-- [Criar base a partir de um modelo](https://seatable.io/pt/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/)
+- [Importar base a partir de um ficheiro]({{< relref "help/startseite/import-von-daten/welche-import-formate-unterstuetzt-seatable" >}})
+- [Criar base a partir de um modelo]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}})
 
 ## Gestão de base
 
@@ -59,7 +59,7 @@ Pode dar um novo visual às bases de que é proprietário ou administrador. Pode
 
 ## Adicionar Descrição Base
 
-Pode adicionar uma descrição às suas bases para dar a outros utilizadores "instruções de utilização" ou para registar informações adicionais sobre uma base. Pode aprender [aqui](https://seatable.io/pt/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) como utilizar esta função.
+Pode adicionar uma descrição às suas bases para dar a outros utilizadores "instruções de utilização" ou para registar informações adicionais sobre uma base. Pode aprender [aqui]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) como utilizar esta função.
 
 ## Bases de lançamento
 
@@ -83,7 +83,7 @@ Para mais informações sobre bases de exportação, ver o artigo [Salvando uma 
 
 ## Eliminar e restaurar bases
 
-Pode [apagar as]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) bases que possui ou administrar, se necessário, e [restaurá-las](https://seatable.io/pt/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/) por até 30 dias. Siga as instruções contidas nos artigos ligados.
+Pode [apagar as]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) bases que possui ou administrar, se necessário, e [restaurá-las]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) por até 30 dias. Siga as instruções contidas nos artigos ligados.
 
 ### Restaurar Base a partir de Snapshot
 
@@ -94,4 +94,4 @@ Pode visualizar e restaurar instantâneos das bases que possui ou administrar. T
 
 ## Criar uma conta de e-mail numa base
 
-Se quiser enviar e-mails a partir de uma Base, precisa de ligar a sua conta de e-mail à Base. Mostramos-lhe como fazer uso desta útil função no SeaTable no artigo [Criar uma conta de correio electrónico numa Base](https://seatable.io/pt/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+Se quiser enviar e-mails a partir de uma Base, precisa de ligar a sua conta de e-mail à Base. Mostramos-lhe como fazer uso desta útil função no SeaTable no artigo [Criar uma conta de correio electrónico numa Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).

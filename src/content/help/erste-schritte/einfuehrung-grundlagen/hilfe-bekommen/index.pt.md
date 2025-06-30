@@ -20,8 +20,8 @@ Se não encontrar o que procura no manual do utilizador, pode colocar a sua ques
 
 Os clientes com uma subscrição paga Plus ou Enterprise também têm a opção de abrir um ticket de suporte. Para obter mais informações, consulte os seguintes artigos de ajuda:
 
-- [Abrir um bilhete de apoio](https://seatable.io/pt/docs/teamverwaltung/ein-support-ticket-eroeffnen/).
-- [Mais ou subscrição Enterprise](https://seatable.io/pt/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+- [Abrir um bilhete de apoio]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}}).
+- [Mais ou subscrição Enterprise]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Outras fontes de ajuda para o auto-aprendizagem
 

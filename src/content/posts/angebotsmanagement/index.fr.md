@@ -16,7 +16,7 @@ Vous trouverez dans cet article les réponses à ces questions et pourquoi des l
 
 ## Gestion des offres - Définition et faits clés
 
-En tant qu'élément central de la [vente](https://seatable.io/fr/distribution/), la gestion des offres est le lien important entre les demandes externes et les mesures internes. Cela signifie que la gestion des offres comprend toutes les tâches et tous les processus qui sont liés d'une manière ou d'une autre aux demandes, aux commandes (potentielles) et aux étapes de travail et prestations correspondantes.
+En tant qu'élément central de la vente, la gestion des offres est le lien important entre les demandes externes et les mesures internes. Cela signifie que la gestion des offres comprend toutes les tâches et tous les processus qui sont liés d'une manière ou d'une autre aux demandes, aux commandes (potentielles) et aux étapes de travail et prestations correspondantes.
 
 De manière générale, la gestion de l'offre peut être divisée en deux domaines :
 
@@ -95,9 +95,9 @@ Gestion des offres © Patrick Daxenbichler / adobe stock
 
 Une gestion des offres adaptée ne se fait pas toute seule. Il y a trop d'aspects à prendre en compte. Afin de garder une vue d'ensemble et d'organiser tous les processus de la manière la plus efficace possible, il est très avantageux de gérer l'ensemble du traitement des offres à l'aide d'un logiciel.
 
-Pour cela, le marché offre déjà aujourd'hui quelques solutions logicielles qui sont polyvalentes et peuvent être adaptées de manière flexible aux exigences de la vente. Qu'il s'agisse [de CRM classique]({{< relref "posts/crm-angebotsmanagement" >}}), de service à la clientèle ou d'autres [domaines de la vente](https://seatable.io/fr/distribution/), les outils adéquats vous permettent de réunir l'ensemble de vos activités de vente dans un seul système et de réduire la complexité de la gestion des offres à un minimum. Parmi les outils les plus connus pour une gestion numérique des offres, on trouve HubSpot, SAP CRM ou ActiveCampaign.
+Pour cela, le marché offre déjà aujourd'hui quelques solutions logicielles qui sont polyvalentes et peuvent être adaptées de manière flexible aux exigences de la vente. Qu'il s'agisse [de CRM classique]({{< relref "posts/crm-angebotsmanagement" >}}), de service à la clientèle ou d'autres domaines de la vente, les outils adéquats vous permettent de réunir l'ensemble de vos activités de vente dans un seul système et de réduire la complexité de la gestion des offres à un minimum. Parmi les outils les plus connus pour une gestion numérique des offres, on trouve HubSpot, SAP CRM ou ActiveCampaign.
 
-Pour ceux qui recherchent un package complet pour la gestion de leurs offres, [SeaTable](https://seatable.io/fr/) est une alternative optimale et économique. Les fonctions de cet outil permettent d'automatiser tous les processus de vente et de collecter facilement toutes les données grâce à un formulaire web intégré. Pour résoudre les problèmes des clients, répondre aux demandes et trier les commentaires, c'est un grand plus.
+Pour ceux qui recherchent un package complet pour la gestion de leurs offres, [SeaTable]({{< relref "/" >}}) est une alternative optimale et économique. Les fonctions de cet outil permettent d'automatiser tous les processus de vente et de collecter facilement toutes les données grâce à un formulaire web intégré. Pour résoudre les problèmes des clients, répondre aux demandes et trier les commentaires, c'est un grand plus.
 
 Avec SeaTable, vous pouvez centraliser la gestion de la relation client, l'assistance à la clientèle et la gestion de la chaîne d'approvisionnement en un seul endroit et les mettre à la disposition de tous les collaborateurs sans effort supplémentaire. Ainsi, chacun sait toujours où en est chaque offre. De plus, grâce à la ligne de temps et au tableau Kanban, vous pouvez [facilement visualiser et respecter les délais]({{< relref "templates/projects/project-plan" >}}). Vous posez ainsi les bases d'un travail de vente vraiment efficace.
 

@@ -12,11 +12,11 @@ Zapier vous permet de créer en quelques minutes une interface entre SeaTable et
 
 ## 1. accéder au contenu des tableaux liés à l'aide de colonnes de consultation
 
-SeaTable permet de relier des enregistrements entre eux sur deux tables. Pour plus de détails, consultez [cet article d'aide](https://seatable.io/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
+SeaTable permet de relier des enregistrements entre eux sur deux tables. Pour plus de détails, consultez [cet article d'aide]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}).
 
 ![Lien dans SeaTable](images/zapier-linked-columns.png)
 
-Il y a maintenant une particularité : au lieu d'afficher la valeur souhaitée (dans ce cas Marion) comme dans SeaTable, Zapier fournit toujours l'ID de ligne de l'entrée liée pour une colonne de lien. Si vous souhaitez accéder à la valeur Marion ou à d'autres colonnes de l'entrée liée, comme illustré ici, vous devez créer [des colonnes de consultation](https://seatable.io/docs/verknuepfungen/die-lookup-funktion/) qui vous permettent ensuite d'accéder aux valeurs souhaitées. Dans cet exemple, il faudrait donc créer une autre colonne de lookup avec le nom.
+Il y a maintenant une particularité : au lieu d'afficher la valeur souhaitée (dans ce cas Marion) comme dans SeaTable, Zapier fournit toujours l'ID de ligne de l'entrée liée pour une colonne de lien. Si vous souhaitez accéder à la valeur Marion ou à d'autres colonnes de l'entrée liée, comme illustré ici, vous devez créer [des colonnes de consultation]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) qui vous permettent ensuite d'accéder aux valeurs souhaitées. Dans cet exemple, il faudrait donc créer une autre colonne de lookup avec le nom.
 
 ![Colonnes liées dans zapier](images/zapier-linked-columns2.png)
 

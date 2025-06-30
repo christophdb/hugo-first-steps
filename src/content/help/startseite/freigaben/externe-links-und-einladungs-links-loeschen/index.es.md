@@ -13,7 +13,7 @@ Puede **eliminar** tanto los **enlaces externos** como **los enlaces de invitaci
 ## Formas de eliminar enlaces externos y enlaces de invitación
 
 - Supresión mediante el icono de compartir {{< seatable-icon icon="dtable-icon-share" >}} para bases o vistas
-- Supresión a través de la [administración del equipo](https://seatable.io/es/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+- Supresión a través de la [administración del equipo]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Nota"  text="Los enlaces externos están disponibles para las bases y las vistas, los enlaces de invitación sólo para las bases." />}}
 
@@ -43,7 +43,11 @@ Puede **eliminar** tanto los **enlaces externos** como **los enlaces de invitaci
 7. Confirme la eliminación activando la tecla **Controlador** y haga clic en **Borrar enlace de invitación** (para los enlaces de invitación) o **Suprimir liberación** (para enlaces externos).  
    ![Confirmar la eliminación](images/confirm-delete-invitation-and-external-links-way2.jpg)
 
-{{< warning  headline="Sólo funciona con enlaces de base"  text="No se puede eliminar un [enlace externo para una vista](https://seatable.io/es/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/) a través de la administración del equipo, sino sólo a través del icono de compartir para las vistas." />}}
+{{< warning  headline="Sólo funciona con enlaces de base" >}}
+
+No se puede eliminar un [enlace externo para una vista]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) a través de la administración del equipo, sino sólo a través del icono de compartir para las vistas.
+
+{{< /warning >}}
 
 ## Consecuencias de la supresión
 
@@ -57,7 +61,11 @@ Si los usuarios intentan abrir un enlace de invitación **eliminado**, aparece e
 
 Una vez eliminado el enlace de invitación, **ningún otro usuario** podrá acceder a la base compartida.
 
-{{< warning  headline="Los usuarios invitados conservan el acceso"  text="Los usuarios que aceptaron tu invitación antes de que se borrara el enlace pueden seguir accediendo a la base compartida y aparecen en la lista de [usuarios compartidos](https://seatable.io/es/docs/freigaben/anlegen-einer-benutzerfreigabe/). Sin embargo, por supuesto puedes eliminar el recurso compartido allí." />}}
+{{< warning  headline="Los usuarios invitados conservan el acceso" >}}
+
+Los usuarios que aceptaron tu invitación antes de que se borrara el enlace pueden seguir accediendo a la base compartida y aparecen en la lista de [usuarios compartidos]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Sin embargo, por supuesto puedes eliminar el recurso compartido allí.
+
+{{< /warning >}}
 
 ### Supresión de un enlace externo
 

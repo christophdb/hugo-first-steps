@@ -38,7 +38,7 @@ En esta tabla se reúne mucha información: Las columnas "Producto", "€" para 
 
 ## Pedir productos con el formulario web integrado
 
-Con sus columnas, la tabla también constituye la base del [formulario web](https://seatable.io/es/docs/handbuch/seatable-nutzen/webformulare/) integrado para la organización de su oficina. Para realizar un pedido de material interno, los empleados seleccionan un producto de la lista - se trata de la columna vinculada "Productos" del catálogo de productos (Tabla 2). Después, sólo tienen que introducir la cantidad y en qué departamento trabajan, para que los pedidos queden claros.
+Con sus columnas, la tabla también constituye la base del [formulario web]({{< relref "help/base-editor/webformulare/webformulare" >}}) integrado para la organización de su oficina. Para realizar un pedido de material interno, los empleados seleccionan un producto de la lista - se trata de la columna vinculada "Productos" del catálogo de productos (Tabla 2). Después, sólo tienen que introducir la cantidad y en qué departamento trabajan, para que los pedidos queden claros.
 
 ![Formulario de pedido de material indirecto](bestellformular-indirektes-material.png)
 
@@ -80,7 +80,7 @@ Así es como funciona:
 
 ## Las vistas individuales y Kanban proporcionan una mejor visión de conjunto
 
-SeaTable no sería una solución óptima para la organización de oficinas si no tuviera también una función clara y práctica para la gestión de tareas. Por un lado, creamos [vistas](https://seatable.io/es/docs/handbuch/seatable-nutzen/ansichten/) diferentes para cada agente, de modo que sólo sean visibles los pedidos que le conciernen. Por ejemplo, un agente de material de oficina no necesita ver los pedidos de comida. Para ello, haga clic en la pequeña flecha de la esquina superior izquierda, en nuestro ejemplo titulada "Ver todo".
+SeaTable no sería una solución óptima para la organización de oficinas si no tuviera también una función clara y práctica para la gestión de tareas. Por un lado, creamos [vistas]({{< relref "help/base-editor/ansichten" >}}) diferentes para cada agente, de modo que sólo sean visibles los pedidos que le conciernen. Por ejemplo, un agente de material de oficina no necesita ver los pedidos de comida. Para ello, haga clic en la pequeña flecha de la esquina superior izquierda, en nuestro ejemplo titulada "Ver todo".
 
 ![Vista de Kanban de todos los pedidos en compras indirectas](kanban-view-indirekte-beschaffung.png)
 
@@ -104,6 +104,6 @@ Esta tabla también utiliza información de otras tablas. Los números de pedido
 
 La organización de la oficina, y especialmente el pedido de productos internos, puede convertirse rápidamente en una trivialidad, pero es importante y mantiene la empresa en funcionamiento. La plantilla que se muestra en esta entrada del blog se puede encontrar directamente en SeaTable. Al crear una nueva base, simplemente seleccione la opción: _Comenzar con la plantilla_ y encontrará esta plantilla en el área de **Operaciones**.
 
-Con SeaTable tiene a su lado una poderosa herramienta que puede proporcionarle un excelente apoyo en este y muchos otros procesos. Por ejemplo, puede utilizarlo para organizar la [gestión de su oferta de CRM]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto), [construir](https://seatable.io/es/digitales-produktmanagement/?lang=auto) su [gestión de productos de forma digital](https://seatable.io/es/digitales-produktmanagement/?lang=auto) o [planificar talleres internos](https://seatable.io/es/mit-internen-workshops-den-unternehmenswert-steigern/?lang=auto).
+Con SeaTable tiene a su lado una poderosa herramienta que puede proporcionarle un excelente apoyo en este y muchos otros procesos. Por ejemplo, puede utilizarlo para organizar la [gestión de su oferta de CRM]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto), [construir]({{< relref "posts/digitales-produktmanagement" >}}) su [gestión de productos de forma digital]({{< relref "posts/digitales-produktmanagement" >}}) o [planificar talleres internos]({{< relref "posts/workshop-planen" >}}).
 
 Pruebe nuestra plantilla y [regístrese]({{< relref "pages/registration" >}}). SeaTable es gratuito en su versión básica.

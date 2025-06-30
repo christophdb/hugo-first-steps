@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/fr/aide/ein-teammitglied-entsperren'
 ---
 
-[Les membres de l'équipe bloqués](https://seatable.io/fr/docs/teamverwaltung/ein-teammitglied-sperren-oder-loeschen/) ne peuvent plus se connecter et ne peuvent plus travailler avec vous. En tant qu'**administrateur d'équipe**, vous pouvez toutefois lever ce blocage.
+[Les membres de l'équipe bloqués]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}}) ne peuvent plus se connecter et ne peuvent plus travailler avec vous. En tant qu'**administrateur d'équipe**, vous pouvez toutefois lever ce blocage.
 
 ## Pas de connexion pour les membres de l'équipe désactivés
 

@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-La version 2.3 de SeaTable, disponible depuis aujourd'hui, s'apprête à conquérir de nouveaux champs d'application. Avec la fonction d'archivage, qui est présentée en version bêta dans cette version, SeaTable est désormais également recommandé pour les cas d'utilisation intensive des données : Des tableaux contenant des millions d'enregistrements de données peuvent être stockés et analysés dans SeaTable. C'est l'objet de ces notes de mise à jour. D'autres innovations et améliorations sont présentées dans un aperçu. La liste complète des changements peut être trouvée - comme toujours - dans le [Changelog de SeaTable](https://seatable.io/fr/docs/changelog/version-2-3/).
+La version 2.3 de SeaTable, disponible depuis aujourd'hui, s'apprête à conquérir de nouveaux champs d'application. Avec la fonction d'archivage, qui est présentée en version bêta dans cette version, SeaTable est désormais également recommandé pour les cas d'utilisation intensive des données : Des tableaux contenant des millions d'enregistrements de données peuvent être stockés et analysés dans SeaTable. C'est l'objet de ces notes de mise à jour. D'autres innovations et améliorations sont présentées dans un aperçu. La liste complète des changements peut être trouvée - comme toujours - dans le [Changelog de SeaTable]({{< relref "pages/changelog" >}}).
 
 ## Fonction d'archivage (bêta)
 
@@ -20,7 +20,7 @@ La nouvelle fonction d'archivage élimine cette restriction ! En plus des 150 00
 
 ![Fonction d'archivage](Archive-function-1088x631.png)
 
-En ce qui concerne les possibilités d'évaluation et d'analyse, les différences entre les lignes actives et les lignes archivées sont minimes : les archives prennent en charge tous les types de colonnes. Des filtres et des tris permettent d'évaluer rapidement les données dans les archives. Et l'accès par API et par des [apps externes](https://seatable.io/fr/seatable-release-2-2#Externe_Apps_nur_fuer_Enterprise_Abos/?lang=auto) est également possible. Une fonction de recherche et la prise en charge complète des plugins sont en cours de développement.
+En ce qui concerne les possibilités d'évaluation et d'analyse, les différences entre les lignes actives et les lignes archivées sont minimes : les archives prennent en charge tous les types de colonnes. Des filtres et des tris permettent d'évaluer rapidement les données dans les archives. Et l'accès par API et par des [apps externes]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}) est également possible. Une fonction de recherche et la prise en charge complète des plugins sont en cours de développement.
 
 La principale différence réside dans la prise en charge de la collaboration en ligne en temps réel : les lignes actives sont entièrement chargées dans la mémoire de travail lorsque le tableau est appelé. Chaque modification d'une table peut ainsi être transmise immédiatement aux autres utilisateurs. Les données archivées sont différentes : Lorsqu'une table est ouverte, seules les 1 000 premières lignes sont chargées à partir de l'archive. Des données supplémentaires peuvent être récupérées page par page. Ce renoncement au chargement complet permet un affichage rapide dans l'interface web, même de tableaux comportant plusieurs centaines de milliers de lignes, mais il implique également de renoncer à la collaboration en temps réel.
 
@@ -63,7 +63,7 @@ La vue des archives montre les lignes archivées et non archivées et permet d'�
 
 ### Liens externes sans journaux ni commentaires
 
-L'historique de la table et les commentaires ne font pas partie des informations que l'on souhaite normalement rendre quasi-publiques via un [lien externe](https://seatable.io/fr/docs/handbuch/zusammenarbeit/externe-links/?lang=auto). Par conséquent, les journaux et les commentaires ne sont plus affichés dans les détails des lignes des liens externes dans SeaTable à partir de la version 2.3.
+L'historique de la table et les commentaires ne font pas partie des informations que l'on souhaite normalement rendre quasi-publiques via un [lien externe]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}). Par conséquent, les journaux et les commentaires ne sont plus affichés dans les détails des lignes des liens externes dans SeaTable à partir de la version 2.3.
 
 ### Valeurs par défaut pour les formulaires
 
@@ -85,7 +85,7 @@ Les tables peuvent être dupliquées, les vues peuvent être dupliquées et les 
 
 ### Automatisation supplémentaire : Envoyer un e-mail
 
-La nouvelle version a étendu les possibilités d'automatisation de SeaTable : l'automatisation Envoyer un e-mail complète les quatre [automatismes introduits](https://seatable.io/fr/seatable-release-2-2#Automationen_nur_fuer_Enterprise_Abos/?lang=auto) dans la [version 2.2](https://seatable.io/fr/seatable-release-2-2#Automationen_nur_fuer_Enterprise_Abos/?lang=auto), à savoir _Envoyer une notification_, _Verrouiller_ une ligne, _Ajouter_ une ligne et _Modifier une ligne_. L'envoi des e-mails se fait via un compte e-mail configuré dans la base.
+La nouvelle version a étendu les possibilités d'automatisation de SeaTable : l'automatisation Envoyer un e-mail complète les quatre [automatismes introduits]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}) dans la [version 2.2]({{< relref "posts/seatable-releases/seatable-release-2-2" >}}), à savoir _Envoyer une notification_, _Verrouiller_ une ligne, _Ajouter_ une ligne et _Modifier une ligne_. L'envoi des e-mails se fait via un compte e-mail configuré dans la base.
 
 ### La première colonne prend en charge les sélections simples
 

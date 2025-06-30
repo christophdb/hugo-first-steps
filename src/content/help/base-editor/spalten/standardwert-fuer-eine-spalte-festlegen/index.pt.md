@@ -26,7 +26,7 @@ Também é possível definir um valor por defeito diretamente ao [criar uma nova
 
 ## Para que tipos de colunas é possível definir valores por defeito
 
-Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tipos de colunas no SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). As colunas cujo conteúdo é gerado automaticamente pelo SeaTable[(fórmulas]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), [ficheiros]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) e [assinaturas](https://seatable.io/pt/docs/dateien-und-bilder/die-signatur-spalte/).
+Os valores predefinidos podem ser definidos para muitos, mas não todos, os [tipos de colunas no SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). As colunas cujo conteúdo é gerado automaticamente pelo SeaTable[(fórmulas]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), [ficheiros]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) e [assinaturas]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}}).
 
 **Segue-se uma síntese dos tipos de colunas para os quais é possível definir valores propostos:**
 
@@ -69,7 +69,7 @@ Os valores predefinidos aplicam-se **sempre que** é possível criar novas linha
 
 - num [quadro]({{< relref "help/base-editor/zeilen/hinzufuegen-einer-zeile" >}})
 - numa [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
-- via [botão](https://seatable.io/pt/docs/andere-spalten/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren/) (ação: "Copiar linha para outra tabela")
+- via [botão]({{< relref "help/base-editor/schaltflaechen/zeilen-per-schaltflaeche-in-eine-andere-tabelle-kopieren" >}}) (ação: "Copiar linha para outra tabela")
 - através da [automatização]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) (acções: "Adicionar linha" e "Adicionar nova entrada noutra tabela")
 - no [calendário]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}})
 - através de [formulários Web]({{< relref "help/base-editor/webformulare/webformulare" >}})

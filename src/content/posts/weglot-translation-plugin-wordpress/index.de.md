@@ -56,9 +56,9 @@ Wählen Sie Ihre aktuell verwendete Sprache auf Ihrer Webseite und wählen Sie d
 
 Was jetzt folgt, wirkt schon fast wie Magie. Ab sofort stehen den Besuchern Ihrer Webseite alle Seiten auf zwei Sprachen zur Verfügung. Neben der Original-Webseite gibt es jetzt für jede neue Sprache eine neue URL, in der das Sprachkürzel eingefügt wurde.
 
-> **https://seatable.io/blog/** – unsere Originalsprache Deutsch  
-> **https://seatable.io/en/blog/** – von Weglot übersetzte englische Webseite  
-> **https://seatable.io/fr/blog/** – von Weglot übersetzte französische Webseite
+> **https://seatable.com/blog/** – unsere Originalsprache Deutsch  
+> **https://seatable.com/en/blog/** – von Weglot übersetzte englische Webseite  
+> **https://seatable.com/fr/blog/** – von Weglot übersetzte französische Webseite
 
 Jedes Mal, wenn eine Seite von einem Anwender aufgerufen wird, prüft Weglot, ob diese Seite bereits übersetzt wurde bzw. ob sich etwas geändert hat und nimmt dann die entsprechende Übersetzung vor. Weglot kombiniert dabei verschiedenste Übersetzungstechniken wie [Google Translate](https://translate.google.com/) und [Deepl](https://www.deepl.com/translator) und erzeugt aus den verschiedenen Übersetzungen eine in den meisten Fällen überaus passende Übersetzung aus. Wenn eine Seite erst übersetzt werden muss, kann es einen kurzen Moment dauern, bis die Seite wirklich geladen wird. Diese Verzögerung tritt jedoch nur beim ersten Aufruf auf. Jeder weitere Besucher kriegt die Seite unmittelbar angezeigt.
 
@@ -112,7 +112,7 @@ Das bekannteste Plugin für ein mehrsprachiges WordPress ist mit Absatz das Plug
 WPML ist mit Abstand das beliebteste Übersetzungs-Plugin für WordPress.
 
 Mit Sicherheit sind dies alles gute Plugins, jedoch wollten wir unbedingt eine automatische Übersetzung unserer Webseiten Inhalte, um diese mühsame Aufgabe einzusparen.   
-Nur um Ihnen ein Gefühl zu geben: auf der Webseite seatable.io findet man aktuell über [90 Blog-Artikel](https://seatable.io/blog/) und mehr als 50 Seiten. In Summe hat die Webseite knapp eine Million Wörter. Es ist sicher nicht übertrieben, wenn man davon ausgeht, dass die Übersetzung einer Seite oder eines Artikels in vier andere Sprachen jeweils mindestens 1 Stunde benötigt. Das wären also mindestens 140 Stunden oder knapp 18 Arbeitstage. Diese Zeit hat uns Weglot komplett eingespart. 
+Nur um Ihnen ein Gefühl zu geben: auf der Webseite seatable.io findet man aktuell über [90 Blog-Artikel]({{< relref "posts" >}}) und mehr als 50 Seiten. In Summe hat die Webseite knapp eine Million Wörter. Es ist sicher nicht übertrieben, wenn man davon ausgeht, dass die Übersetzung einer Seite oder eines Artikels in vier andere Sprachen jeweils mindestens 1 Stunde benötigt. Das wären also mindestens 140 Stunden oder knapp 18 Arbeitstage. Diese Zeit hat uns Weglot komplett eingespart. 
 
 ### Es gibt noch ein weiteres WordPress-Plugin, das automatische Übersetzungen anbietet
 

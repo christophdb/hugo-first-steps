@@ -16,7 +16,7 @@ SeaTable met à disposition une **fonction de commentaire** pour l'échange avec
 
 Dans SeaTable, vous pouvez mener une discussion séparée sur chaque **ligne** du tableau. Les lignes dans lesquelles une discussion est en cours sont signalées par une **icône en forme de bulle** dans la première colonne. Le chiffre à côté de la bulle indique le nombre de nouveaux commentaires au cours des 7 derniers jours. Vous pouvez afficher la discussion en cours en cliquant sur l'icône.
 
-Les discussions et les commentaires sont visibles par toutes les personnes ayant accès au tableau. Cela inclut également les personnes qui accèdent à un tableau via un [lien externe](https://seatable.io/fr/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/).
+Les discussions et les commentaires sont visibles par toutes les personnes ayant accès au tableau. Cela inclut également les personnes qui accèdent à un tableau via un [lien externe]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).
 
 Les commentaires dans un tableau ne sont pas pris en compte lors de l ['exportation d'une base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) ou de l'[exportation d'un tableau dans un fichier XLSX]({{ relref "help/startseite/import-von-daten/datenimport-und-export" }}) et sont alors perdus.
 
@@ -24,4 +24,4 @@ Les commentaires dans un tableau ne sont pas pris en compte lors de l ['exportat
 
 Vous trouverez ici des instructions détaillées sur la manière de rédiger, de lire et de supprimer des commentaires :
 
-- [Commenter les lignes](https://seatable.io/fr/docs/zeilendetails/zeilen-kommentieren/)
+- [Commenter les lignes]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})

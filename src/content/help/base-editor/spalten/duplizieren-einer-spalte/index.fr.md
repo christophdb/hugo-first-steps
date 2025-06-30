@@ -16,4 +16,8 @@ Vous pouvez bien sûr dupliquer des colonnes dans SeaTable. Vous apprendrez ici 
 2. Sélectionnez **Dupliquer la colonne**.
 3. La colonne **dupliquée** apparaît directement **à droite** de la colonne originale.
 
-{{< warning  headline="Pas de transfert de données"  text="Les valeurs déjà existantes dans la colonne d'origine ne sont **pas** reprises. Vous pouvez toutefois copier les données d'une colonne à l'autre [par copier-coller](https://seatable.io/fr/docs/arbeiten-in-bases/hinzufuegen-von-daten-per-copy-and-paste/)." />}}
+{{< warning  headline="Pas de transfert de données" >}}
+
+Les valeurs déjà existantes dans la colonne d'origine ne sont **pas** reprises. Vous pouvez toutefois copier les données d'une colonne à l'autre [par copier-coller]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}).
+
+{{< /warning >}}

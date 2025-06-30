@@ -26,7 +26,7 @@ Es gibt einige Gründe, warum Teammeetings ineffizient sind – vom Smalltalk un
 3. Einige Teilnehmer haben das Meeting vergessen oder kommen zu spät.
 4. Es wird über Themen diskutiert, die im Meeting gar nichts zu suchen haben.
 5. Es gibt eine Person, die zu viel redet und Monologe hält.
-6. Im Meeting werden keine [To-dos](https://seatable.io/perfekte-aufgabenverwaltung-im-projektmanagement/) festgelegt und keine Entscheidungen getroffen.
+6. Im Meeting werden keine [To-dos]({{< relref "posts/aufgabenverwaltung" >}}) festgelegt und keine Entscheidungen getroffen.
 
 Sicher haben Sie schon mal einen der hier genannten Punkte selbst erlebt. Die Punkte 4 bis 6 sind dabei eher Dinge, die Sie durch **Moderation** regulieren können. Hierfür muss eine Person den Lead übernehmen und einschreiten, sobald sich das Gespräch nicht mehr ums Wesentliche dreht.
 
@@ -66,7 +66,7 @@ Die Agenda hilft außerdem dabei, sich entsprechend auf das Meeting vorzubereite
 
 ![Die Chat-Funktion macht E-Mails überflüssig ](Chat-Funktion.png)
 
-Die [Chat-Funktion](https://seatable.io/docs/handbuch/zusammenarbeit/kommentare/) in jeder Zeile, also in jedem einzelnen Teammeeting, ermöglicht eine unkomplizierte und schlanke Kommunikation, die jegliche E-Mails erübrigen. Beim Öffnen einer Zeile (Klicken auf die kleinen blauen Pfeilchen links in der Zeile) öffnet sich eine Gesamtansicht des Meetings. Rechts darin befindet sich der Chat, indem Sie einfach Mitarbeiter hinzufügen und wichtige Nachrichten schreiben können, wie zum Beispiel dass Mitarbeiter Müller bitte die Zwischenpräsentation mit dem Jahresrückblick hochladen soll.
+Die [Chat-Funktion]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) in jeder Zeile, also in jedem einzelnen Teammeeting, ermöglicht eine unkomplizierte und schlanke Kommunikation, die jegliche E-Mails erübrigen. Beim Öffnen einer Zeile (Klicken auf die kleinen blauen Pfeilchen links in der Zeile) öffnet sich eine Gesamtansicht des Meetings. Rechts darin befindet sich der Chat, indem Sie einfach Mitarbeiter hinzufügen und wichtige Nachrichten schreiben können, wie zum Beispiel dass Mitarbeiter Müller bitte die Zwischenpräsentation mit dem Jahresrückblick hochladen soll.
 
 Der getaggte Mitarbeiter bekommt eine automatische Benachrichtigung per Mail über die Chatnachricht und kann dann im Chat selbst einfach darauf antworten. So können im Vorfeld fragen geklärt, Materialien eingesammelt oder oder andere wichtige Informationen ausgetauscht werden. Alles wird transparent und nachvollziehbar gesammelt, sodass alle mit im Boot sind und Verantwortlichkeiten klar abgegrenzt sind.
 

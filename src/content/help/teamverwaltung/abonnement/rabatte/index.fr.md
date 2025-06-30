@@ -10,11 +10,11 @@ url: '/fr/aide/rabatte-fuer-oeffentliche-non-profit-oder-bildungseinrichtungen'
 
 Vous souhaitez utiliser SeaTable et vous avez une association enregistrée, vous travaillez dans une institution publique ou une organisation à but non lucratif ? Dans ce cas, vous bénéficiez d'avantages particuliers, car nous souhaitons soutenir les personnes qui s'engagent pour le bien commun, que ce soit par le biais d'un travail social, d'une aide humanitaire, de projets écologiques ou de l'éducation et de la recherche.
 
-SeaTable accorde une remise de 25% aux institutions publiques, une remise standard de 50% aux organisations à but non lucratif et aux établissements d'enseignement et, dans des cas exceptionnels, jusqu'à 75% aux associations locales sur leur abonnement SeaTable Plus ou SeaTable Enterprise. Pour bénéficier de la remise, il suffit d'en faire la demande via l'[administration de l'équipe](https://seatable.io/fr/docs/teamverwaltung/die-funktionen-der-teamverwaltung-in-der-uebersicht/).
+SeaTable accorde une remise de 25% aux institutions publiques, une remise standard de 50% aux organisations à but non lucratif et aux établissements d'enseignement et, dans des cas exceptionnels, jusqu'à 75% aux associations locales sur leur abonnement SeaTable Plus ou SeaTable Enterprise. Pour bénéficier de la remise, il suffit d'en faire la demande via l'[administration de l'équipe]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Demander une réduction
 
-Si vous n'avez pas encore enregistré d'équipe sur cloud.seatable.io, commencez par vous [inscrire]({{< relref "pages/registration" >}}). Commencez toujours par créer une équipe avec l'[abonnement gratuit](https://seatable.io/fr/docs/abo-abrechnung/abo-pakete/). Ensuite, procédez comme suit :
+Si vous n'avez pas encore enregistré d'équipe sur cloud.seatable.io, commencez par vous [inscrire]({{< relref "pages/registration" >}}). Commencez toujours par créer une équipe avec l'[abonnement gratuit]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}). Ensuite, procédez comme suit :
 
 1. Ouvrez la [gestion d'équipe](https://account.seatable.io).
 2. Passez à la section **Abonnement**.

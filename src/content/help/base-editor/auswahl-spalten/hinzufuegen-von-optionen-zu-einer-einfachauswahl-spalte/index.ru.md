@@ -39,7 +39,7 @@ url: '/ru/pomoshch/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte'
 
 Помимо **ручного ввода**, вы также можете удобно экспортировать варианты из существующей колонки с одним выбором и **импортировать** их в другую колонку такого типа. Это очень полезно, если вы хотите использовать одни и те **же параметры** в разных колонках.
 
-Подробнее об этом вы можете узнать в статье [Экспорт и импорт опций в одиночных или множественных колонках выбора](https://seatable.io/ru/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/).
+Подробнее об этом вы можете узнать в статье [Экспорт и импорт опций в одиночных или множественных колонках выбора]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).
 
 ## Цвета по выбору
 
@@ -47,11 +47,11 @@ url: '/ru/pomoshch/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte'
 
 ![Цвета по выбору](images/Farben-der-Optionen-einer-Einfachauswahlspalte-anpassen.png)
 
-При [подписке Enterprise](https://seatable.io/ru/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title) у вас также есть возможность создавать свои [собственные цвета](https://seatable.io/ru/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) для вариантов выбора.
+При [подписке Enterprise]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}) у вас также есть возможность создавать свои [собственные цвета]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) для вариантов выбора.
 
 ## Другие полезные статьи по теме колонок с одинарным отбором
 
 - [Создайте колонку с одним выбором]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Изменение порядка опций одиночного выбора](https://seatable.io/ru/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/)
-- [Определение каскадирования для колонки с одним выбором](https://seatable.io/ru/docs/auswahlspalten/kaskadierung-einer-einfachauswahl/)
-- [Экспорт и импорт отдельных вариантов выбора](https://seatable.io/ru/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/)
+- [Изменение порядка опций одиночного выбора]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}})
+- [Определение каскадирования для колонки с одним выбором]({{< relref "help/base-editor/auswahl-spalten/kaskadierung-einer-einfachauswahl" >}})
+- [Экспорт и импорт отдельных вариантов выбора]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}})

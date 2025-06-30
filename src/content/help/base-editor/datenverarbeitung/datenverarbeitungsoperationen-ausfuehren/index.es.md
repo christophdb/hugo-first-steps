@@ -10,7 +10,7 @@ url: '/es/ayuda/datenverarbeitungsoperationen-ausfuehren'
 
 Con la ayuda de la función de tratamiento de datos, puede realizar diversas **operaciones**. Puede realizar cálculos matemáticos en todos los valores de una columna, así como correlacionar valores cuando las entradas de dos tablas diferentes son idénticas.
 
-Las operaciones de tratamiento de datos se realizan de **forma manual** o **automatizada**. Este artículo explica exactamente cómo funciona la ejecución manual. [Aquí](https://seatable.io/es/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) encontrará información detallada sobre la ejecución mediante automatización.
+Las operaciones de tratamiento de datos se realizan de **forma manual** o **automatizada**. Este artículo explica exactamente cómo funciona la ejecución manual. [Aquí]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}) encontrará información detallada sobre la ejecución mediante automatización.
 
 ## Ejecución de una operación de tratamiento de datos
 
@@ -28,13 +28,17 @@ Las operaciones de tratamiento de datos se realizan de **forma manual** o **auto
 
 ![Marca verde para confirmar que se ha realizado una acción de tratamiento de datos.](images/conformation-for-the-runof-a-data-processing-action.jpg)
 
-{{< warning  headline="Nota importante"  text="Puede realizar operaciones de tratamiento de datos no sólo **manualmente**, sino también [mediante automatización](https://seatable.io/es/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/). Si le interesa, léalo todo en el artículo enlazado." />}}
+{{< warning  headline="Nota importante" >}}
+
+Puede realizar operaciones de tratamiento de datos no sólo **manualmente**, sino también [mediante automatización]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}). Si le interesa, léalo todo en el artículo enlazado.
+
+{{< /warning >}}
 
 ## Consecuencias de la ejecución
 
 Cada vez que se ejecuta la operación de tratamiento de datos, los **resultados** se escriben en la **columna de resultados** independientemente. Si no desea sobrescribir ningún dato, deberá [crear]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para los resultados.
 
-A diferencia de las columnas de **fórmulas**, que controlan permanentemente las columnas implicadas, **las** columnas de resultados no se actualizan. Los cambios en los valores de la columna de origen no afectan a los valores de la columna de resultado sin [automatización](https://seatable.io/es/docs/beispiel-automationen/datenverarbeitungsoperation-per-automation-ausfuehren/) o reejecución.
+A diferencia de las columnas de **fórmulas**, que controlan permanentemente las columnas implicadas, **las** columnas de resultados no se actualizan. Los cambios en los valores de la columna de origen no afectan a los valores de la columna de resultado sin [automatización]({{< relref "help/base-editor/automationen/beispiel-datenverarbeitungsoperation-per-automation-ausfuehren" >}}) o reejecución.
 
 Por tanto, para evitar malentendidos, recomendamos **no** realizar ningún cambio manual en las columnas implicadas y [bloquearlas]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) tras la ejecución por motivos de seguridad (requiere una suscripción Plus o Enterprise).
 

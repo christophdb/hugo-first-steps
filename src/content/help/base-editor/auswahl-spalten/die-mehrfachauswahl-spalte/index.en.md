@@ -29,7 +29,7 @@ Currently, 24 colors are available to visually highlight the respective options.
 
 ![Colors of the single selection column](images/farben-einfachauswahl.png)
 
-With an [Enterprise subscription](https://seatable.io/en/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title), you also have the ability to create [custom colors](https://seatable.io/en/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) for your multiple selection options.
+With an [Enterprise subscription]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}), you also have the ability to create [custom colors]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) for your multiple selection options.
 
 ## Set default value
 
@@ -41,8 +41,8 @@ If you wish to be able to store **additional information** for each selection op
 
 ## Changing the order of multiple selection options
 
-The order of the multiple selection options can be adjusted in the **same** way as for a single selection column. You can find detailed instructions [here](https://seatable.io/en/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/).
+The order of the multiple selection options can be adjusted in the **same** way as for a single selection column. You can find detailed instructions [here]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}}).
 
 ## Export and import multiple selection options
 
-You can **export** and **import** the **options of** a multi-selection column in the same way as for a single-selection column. For more information, [see this article](https://seatable.io/en/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/).
+You can **export** and **import** the **options of** a multi-selection column in the same way as for a single-selection column. For more information, [see this article]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).

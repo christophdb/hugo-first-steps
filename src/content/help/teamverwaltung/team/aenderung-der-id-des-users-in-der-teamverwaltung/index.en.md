@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/aenderung-der-id-des-users-in-der-teamverwaltung'
 ---
 
-Each **user account** in SeaTable has, in addition to the name and email address, an **ID** that can be used for [dynamic filters](https://seatable.io/en/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/). Each ID can be assigned only **once** within a team.
+Each **user account** in SeaTable has, in addition to the name and email address, an **ID** that can be used for [dynamic filters]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}). Each ID can be assigned only **once** within a team.
 
 You can change this ID in just a few steps via the team administration.
 
@@ -40,6 +40,6 @@ You can freely choose the ID of the user - with two restrictions:
 
 ## Filter with the User ID
 
-SeaTable gives you the ability to customize table views via a **dynamic filter** based on the user ID. This offers several advantages for certain use cases. For details, see the corresponding [help article](https://seatable.io/en/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/).
+SeaTable gives you the ability to customize table views via a **dynamic filter** based on the user ID. This offers several advantages for certain use cases. For details, see the corresponding [help article]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}).
 
 ![Filtering using the user ID](images/filter-with-user-id.png)

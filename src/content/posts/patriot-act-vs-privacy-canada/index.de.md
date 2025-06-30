@@ -68,14 +68,14 @@ SeaTable besticht im Vergleich zu Airtable unter anderem durch Mehrsprachigkeit,
 
 Darüber hinaus bietet SeaTable eine selbstgehostete Variante an, mit der Sie die Software als [On-Premises-Lösung]({{< relref "pages/product/seatable-server" >}}) auf Ihren eigenen Servern installieren und betreiben können. So haben Sie die absolute Datenhoheit und maximale Kontrolle über die Speicherorte Ihrer Daten. Egal, für welche Option Sie sich entscheiden – SeaTable steht im Einklang mit den kanadischen Datenschutzgesetzen.
 
-Sie möchten strukturiert Daten erfassen, effizient Aufgaben erledigen und leistungsfähige Prozesse entwickeln – ohne sich Gedanken über die Sicherheit Ihrer Daten machen zu müssen? Dann überzeugen Sie sich selbst und [registrieren Sie sich hier]({{< relref "pages/registration" >}}) für ein **SeaTable Free-Abonnement**, mit dem Ihnen bereits zahlreiche nützliche [Funktionen](https://seatable.io/preise) zur Verfügung stehen. Das Abonnement ist für Sie **komplett kostenlos** und eine perfekte Gelegenheit, SeaTable unverbindlich zu testen.
+Sie möchten strukturiert Daten erfassen, effizient Aufgaben erledigen und leistungsfähige Prozesse entwickeln – ohne sich Gedanken über die Sicherheit Ihrer Daten machen zu müssen? Dann überzeugen Sie sich selbst und [registrieren Sie sich hier]({{< relref "pages/registration" >}}) für ein **SeaTable Free-Abonnement**, mit dem Ihnen bereits zahlreiche nützliche [Funktionen]({{< relref "pages/prices" >}}) zur Verfügung stehen. Das Abonnement ist für Sie **komplett kostenlos** und eine perfekte Gelegenheit, SeaTable unverbindlich zu testen.
 
-Noch nicht überzeugt? Weitere Informationen über SeaTable finden Sie auf der [Website](https://seatable.io/).
+Noch nicht überzeugt? Weitere Informationen über SeaTable finden Sie auf der [Website]({{< relref "/" >}}).
 
 {{< warning headline="Seafile" text="Wenn Sie zusätzlich nach einer sicheren Alternative für den Austausch und die Ablage von Dateien (z. B. Google Drive oder Microsoft OneDrive) suchen, könnten Sie die File-Sync-and-Share-Lösung [Seafile](https://www.seafile.com/en/home/) ebenfalls auf Ihren eigenen Servern installieren." />}}
 
 ### Tipp für Airtable-Nutzer
 
-Eine detaillierte Gegenüberstellung von Airtable und SeaTable finden Sie [hier](https://seatable.io/airtable-alternative). Als Airtable-Nutzer haben Sie darüber hinaus die Möglichkeit, ohne Programmierkenntnisse mithilfe eines Skripts sämtliche Daten Ihrer Bases bequem in SeaTable zu migrieren. Wie das funktioniert, erklärt [dieser Hilfeartikel](https://seatable.io/docs/import-von-daten/migration-von-airtable-bases-zu-seatable/).
+Eine detaillierte Gegenüberstellung von Airtable und SeaTable finden Sie [hier]({{< relref "pages/airtable-alternative" >}}). Als Airtable-Nutzer haben Sie darüber hinaus die Möglichkeit, ohne Programmierkenntnisse mithilfe eines Skripts sämtliche Daten Ihrer Bases bequem in SeaTable zu migrieren. Wie das funktioniert, erklärt [dieser Hilfeartikel]({{< relref "help/startseite/import-von-daten/migration-von-airtable-bases-zu-seatable" >}}).
 
 {{< warning headline="Disclaimer" text="Datenschutzgesetze unterscheiden sich von Region zu Region und können sich jederzeit ändern. Trotz gründlicher Recherche ersetzt dieser Artikel keine verbindliche Rechtsberatung in Ihrem Land, weshalb wir keine Verantwortung für eventuelle juristische Fehleinschätzungen übernehmen können." />}}

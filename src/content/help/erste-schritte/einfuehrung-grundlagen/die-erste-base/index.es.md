@@ -10,7 +10,7 @@ url: '/es/ayuda/die-erste-base'
 
 En SeaTable usted organiza sus datos en [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Una base es un contenedor para una o varias tablas. Las tablas de una base pueden ser independientes entre sí o, como en una base de datos, estar vinculadas mediante relaciones.
 
-También puedes [compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) con otros miembros del equipo o [invitar a](https://seatable.io/es/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) terceros externos a trabajar en ellas juntos.
+También puedes [compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) con otros miembros del equipo o [invitar a]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}}) terceros externos a trabajar en ellas juntos.
 
 SeaTable mantiene un [historial]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) de cada base en segundo plano, lo que le permite deshacer cambios y restaurar estados anteriores si lo necesita.
 
@@ -18,7 +18,7 @@ SeaTable mantiene un [historial]({{< relref "help/base-editor/historie-und-versi
 
 Después de iniciar sesión, te encontrarás en la página de **inicio**. Aquí puede gestionar sus bases. Si ha seleccionado [plantillas]({{< relref "templates" >}}) durante el registro, se mostrarán aquí.
 
-Haciendo clic en la **imagen del avatar**, en la esquina superior derecha, puedes pasar a la [configuración personal](https://seatable.io/es/docs/persoenliche-einstellungen/persoenliche-einstellungen/) para ajustar, por ejemplo, el idioma del sistema.
+Haciendo clic en la **imagen del avatar**, en la esquina superior derecha, puedes pasar a la [configuración personal]({{< relref "help/startseite/persoenliche-einstellungen" >}}) para ajustar, por ejemplo, el idioma del sistema.
 
 Haz clic en **Añadir base** para crear tu primera base. Dele un **nombre**, pulse **Intro** y la base se colocará en la página de inicio. Si pasa el puntero del ratón por encima del nombre de la base, aparecerá a la derecha el **símbolo de un lápiz** {{< seatable-icon icon="dtable-icon-rename" >}} y el símbolo de tres puntos {{< seatable-icon icon="dtable-icon-more-vertical" >}} para las funciones ampliadas.
 
@@ -26,7 +26,7 @@ Con el icono del lápiz, puedes cambiar el nombre de la base y asignarle un icon
 
 ## Vista de la tabla
 
-La nueva Base contiene una [tabla](https://seatable.io/es/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) desde el principio. La vista de tabla es la vista central, pero no la única, de SeaTable. En la vista de tabla usted gestiona las tablas de la base, define su estructura de columnas e introduce o analiza sus datos.
+La nueva Base contiene una [tabla]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) desde el principio. La vista de tabla es la vista central, pero no la única, de SeaTable. En la vista de tabla usted gestiona las tablas de la base, define su estructura de columnas e introduce o analiza sus datos.
 
 Antes de [introducir los datos]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 

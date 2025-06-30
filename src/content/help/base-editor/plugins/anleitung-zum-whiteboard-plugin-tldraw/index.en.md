@@ -10,7 +10,7 @@ url: '/help/anleitung-zum-whiteboard-plugin-tldraw'
 
 The **whiteboard plugin** gives you the freedom to graphically visualize processes and structures that you cannot display with the previous plugins. You can also freely sketch layouts and mockups. For the design, you have various **elements** such as squares, ellipses and arrows as well as **tools** such as pen, eraser and the text tool to choose from.
 
-You can find out how to activate the plugin in a base [here](https://seatable.io/en/docs/plugins/aktivieren-eines-plugins-in-einer-base/).
+You can find out how to activate the plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 {{< warning  headline="Not to be confused with the old whiteboard plugin"  text="SeaTable has another **whiteboard plugin (obsolete)** that is based on the open source project Excalidraw. The replacement of the plugin had become necessary because the old whiteboard plugin did not support collaboration and proved to be prone to errors when used by several users at the same time. As part of the 6.0 release in summer 2025, we will remove the old plugin from SeaTable Cloud." />}}
 

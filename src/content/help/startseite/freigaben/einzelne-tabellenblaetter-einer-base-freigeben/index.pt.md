@@ -28,4 +28,4 @@ Se estiver actualmente **numa base**, também pode criar uma acção sem ter de 
 
 ## Criar partilha personalizada
 
-Para uma explicação detalhada dos passos necessários, ver o artigo [Criando uma Acção Personalizada](https://seatable.io/pt/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+Para uma explicação detalhada dos passos necessários, ver o artigo [Criando uma Acção Personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

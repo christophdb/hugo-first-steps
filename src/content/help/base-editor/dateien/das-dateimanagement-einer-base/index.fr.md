@@ -24,7 +24,7 @@ Dans le gestionnaire de fichiers se trouvent différents dossiers qui contiennen
 
 ![Dossiers système créés et organisés par le système SeaTable dans la gestion de fichiers](images/system-folders.png)
 
-- Dans un **dossier Seafile** se trouvent tous les fichiers que vous avez téléchargés auparavant dans le stockage en nuage externe du même nom. Vous apprendrez [ici](https://seatable.io/fr/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) comment fonctionne exactement l'intégration des bibliothèques Seafile et quels sont les avantages qu'elle apporte.
+- Dans un **dossier Seafile** se trouvent tous les fichiers que vous avez téléchargés auparavant dans le stockage en nuage externe du même nom. Vous apprendrez [ici]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) comment fonctionne exactement l'intégration des bibliothèques Seafile et quels sont les avantages qu'elle apporte.
 
 ![Dossiers Seafile dans la gestion de fichiers](images/seafile-library.png)
 
@@ -56,7 +56,7 @@ Si vous souhaitez **supprimer** le gestionnaire de fichiers de votre barre d'out
 
 ## Adapter la taille de la fenêtre et la position du gestionnaire de fichiers
 
-Pour que vous puissiez garder un œil sur vos tableaux et vos données pendant la gestion de vos fichiers et [faire glisser les fichiers du gestionnaire de fichiers directement dans les colonnes appropriées de vos tableaux](https://seatable.io/fr/?post_type=docs&p=26594#8-toc-title), vous avez la possibilité d'adapter la taille de la fenêtre du gestionnaire de fichiers.
+Pour que vous puissiez garder un œil sur vos tableaux et vos données pendant la gestion de vos fichiers et faire glisser les fichiers du gestionnaire de fichiers directement dans les colonnes appropriées de vos tableaux, vous avez la possibilité d'adapter la taille de la fenêtre du gestionnaire de fichiers.
 
 Pour ce faire, ouvrez simplement le gestionnaire de fichiers et déplacez le curseur de la souris sur les **deux traits** en haut de la fenêtre jusqu'à ce qu'une **double flèche** apparaisse. Faites ensuite glisser la fenêtre vers la position souhaitée en maintenant le bouton de la souris enfoncé et relâchez dès que vous l'avez atteinte.
 

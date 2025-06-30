@@ -16,11 +16,15 @@ En primer lugar, seleccione la acción **Enviar correo electrónico** al crear e
 
 ![Seleccionar la acción "Enviar correo electrónico](images/send-email-action.png)
 
-En **Nombre de cuenta**, seleccione la cuenta desde la que desea enviar el correo electrónico. Si **no ve una cuenta** en este campo, primero debe [añadir](https://seatable.io/es/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) una [cuenta de correo electrónico a SeaTable](https://seatable.io/es/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+En **Nombre de cuenta**, seleccione la cuenta desde la que desea enviar el correo electrónico. Si **no ve una cuenta** en este campo, primero debe [añadir]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}) una [cuenta de correo electrónico a SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
 ![Si no ve una cuenta de correo electrónico, primero debe añadir una cuenta de correo electrónico a SeaTable](images/add-email-account.png)
 
-{{< warning  headline="Nota"  text="Encontrará instrucciones detalladas sobre cómo configurar su **cuenta de correo electrónico para** el envío de mensajes [aquí](https://seatable.io/es/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/). La **cuenta** que haya añadido estará disponible para su selección cuando cree el botón." />}}
+{{< warning  headline="Nota" >}}
+
+Encontrará instrucciones detalladas sobre cómo configurar su **cuenta de correo electrónico para** el envío de mensajes [aquí]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}). La **cuenta** que haya añadido estará disponible para su selección cuando cree el botón.
+
+{{< /warning >}}
 
 Defina ahora el **asunto** y el **contenido** del correo electrónico.
 
@@ -34,7 +38,7 @@ Seleccione el **destinatario** o **destinatarios** del correo electrónico. Opci
 
 ![Especifique el destinatario o destinatarios del correo electrónico. Opcionalmente, también puede seleccionar destinatarios que deban recibir una copia del correo electrónico o a los que desee responder con el mismo.](images/send-to-copy-to-reply-to.png)
 
-Opcionalmente, puede añadir un **archivo adjunto** al correo electrónico. Tenga en cuenta, sin embargo, que _no puede_ simplemente cargar archivos, sino que primero debe guardarlos en una columna de archivos [de](https://seatable.io/es/docs/datei-und-bildanhaenge/die-datei-spalte/) la tabla. A continuación, en el campo **Archivos adjuntos**, puede seleccionar una o varias **columnas** de archivos desde las que desee adjuntar los archivos al correo electrónico.
+Opcionalmente, puede añadir un **archivo adjunto** al correo electrónico. Tenga en cuenta, sin embargo, que _no puede_ simplemente cargar archivos, sino que primero debe guardarlos en una columna de archivos [de]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) la tabla. A continuación, en el campo **Archivos adjuntos**, puede seleccionar una o varias **columnas** de archivos desde las que desee adjuntar los archivos al correo electrónico.
 
 ![Los archivos que haya añadido a una columna de archivos de su tabla pueden utilizarse como archivos adjuntos en el correo electrónico](images/file-001.png)
 
@@ -42,7 +46,7 @@ Opcionalmente, puede añadir un **archivo adjunto** al correo electrónico. Teng
 
 El [botón]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) es un tipo de columna especial con el que puede ejecutar **varias acciones simultáneamente** pulsando un botón. Puede determinar la **secuencia cronológica de las** acciones ejecutando condicionalmente una acción posterior. Esto permite **alternar acciones una tras** otra.
 
-Por ejemplo, es posible que desee [guardar un documento PDF en una columna de archivos](https://seatable.io/es/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) con un solo clic y adjuntar el archivo a un correo electrónico. El problema puede surgir que el correo electrónico se envíe antes de que se haya creado el PDF para el archivo adjunto.
+Por ejemplo, es posible que desee [guardar un documento PDF en una columna de archivos]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) con un solo clic y adjuntar el archivo a un correo electrónico. El problema puede surgir que el correo electrónico se envíe antes de que se haya creado el PDF para el archivo adjunto.
 
 Para evitarlo, puede vincular la ejecución de las acciones de los botones a condiciones de **filtro**. En el caso de uso mencionado, por ejemplo, puede añadir como condición de filtro que el correo electrónico **sólo** se envíe si la **columna de archivo** de la misma fila **no** está **vacía.** De este modo, establece una secuencia clara: cuando se pulsa el botón, SeaTable debe crear primero un **PDF** porque el correo electrónico **sólo** puede enviarse **con un archivo adjunto**.
 

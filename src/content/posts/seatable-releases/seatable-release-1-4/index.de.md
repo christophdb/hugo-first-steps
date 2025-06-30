@@ -12,11 +12,11 @@ seo:
 
 Wir freuen uns, die Veröffentlichung von SeaTable 1.4 bekannt zu geben! Wir haben einen neuen Spaltentyp, verbesserte Datenbankfunktionen, einen Realtime Chat und viele weitere Verbesserungen in dieses neue Release gepackt. Die Organisation von Daten und die Zusammenarbeit im Team war nie so einfach und bequem! Und das beste ist: Jeder Nutzer profitiert von den neuen Features, inklusive des Free Abos.
 
-Eine vollständige Liste der Änderungen finden Sie im [SeaTable Changelog](https://seatable.io/docs/changelog/version-1-4/). Diese Release Note stellt die wichtigsten und aufregendsten Änderungen von SeaTable 1.4 dar. Auf geht’s!
+Eine vollständige Liste der Änderungen finden Sie im [SeaTable Changelog]({{< relref "pages/changelog" >}}). Diese Release Note stellt die wichtigsten und aufregendsten Änderungen von SeaTable 1.4 dar. Auf geht’s!
 
 ## Willkommen im Team Spaltentyp #18
 
-SeaTable 1.4 erhält einen weiteren Spaltentyp: Die [URL-Spalte](https://seatable.io/docs/handbuch/datenmanagement/feld-typen/#url). Diese verhält sich wie eine Text-Spalte, der Zelleninhalt wird aber als Verweis auf eine Netzwerkressource interpretiert. Internet- und IP-Adressen wie https://seatable.io, www.seafile.com, 192.168.178.1 und localhost:8000 sind in der URL-Spalte gut aufgehoben.
+SeaTable 1.4 erhält einen weiteren Spaltentyp: Die [URL-Spalte]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#url). Diese verhält sich wie eine Text-Spalte, der Zelleninhalt wird aber als Verweis auf eine Netzwerkressource interpretiert. Internet- und IP-Adressen wie https://seatable.com, www.seafile.com, 192.168.178.1 und localhost:8000 sind in der URL-Spalte gut aufgehoben.
 
 Die Adresse einer Netzwerkressource lässt sich aus einer URL-Spalte mit zwei Klicks aufrufen. Beim ersten Klick erscheint am rechten Zellenrand ein Link-Icon. Mit einem zweiten Klick auf dieses Icon wird die Adresse in einem neuen Browser Tab aufgerufen; http(s) wird automatisch als Präfix ergänzt. Wenn Sie sich nun fragen, warum zwei Klicks notwendig sind, hier der Grund: Zwei Klicks schützen vor irrtümlichen Webseitenaufrufen beim Navigieren in der Tabelle, was gerade auf Mobilgeräten leicht passieren kann.
 
@@ -46,7 +46,7 @@ Effiziente Online Zusammenarbeit geht nicht ohne gute Kommunikation im Team. Die
 
 ![Real-time chat in comments](comment-chat.png)
 
-Wenn Sie die Kommentarfunktion noch nicht kennen, dann wählen Sie eine Zeile aus und drücken Sie die Leertaste, um die Zeilendetails aufzurufen. In der oberen rechten Ecken finden Sie die Kommentarspalte. SeaTables verbessertes Backend informiert die Benutzer ohne Zeitverzug über neue Kommentare. Sind die Benutzer online, dann kann der Gruppenchat losgehen. Ansonsten werden die Benutzer per [Benachrichtigung](https://seatable.io/docs/handbuch/zusammenarbeit/benachrichtigungen/) informiert. Tauschen Sie Ihre Ideen und Eindrücke mit den Kollegen, wenn sie frisch sind.
+Wenn Sie die Kommentarfunktion noch nicht kennen, dann wählen Sie eine Zeile aus und drücken Sie die Leertaste, um die Zeilendetails aufzurufen. In der oberen rechten Ecken finden Sie die Kommentarspalte. SeaTables verbessertes Backend informiert die Benutzer ohne Zeitverzug über neue Kommentare. Sind die Benutzer online, dann kann der Gruppenchat losgehen. Ansonsten werden die Benutzer per [Benachrichtigung]({{< relref "help/startseite/benachrichtigungen" >}}) informiert. Tauschen Sie Ihre Ideen und Eindrücke mit den Kollegen, wenn sie frisch sind.
 
 ## Webhooks für bessere Automatisierung
 

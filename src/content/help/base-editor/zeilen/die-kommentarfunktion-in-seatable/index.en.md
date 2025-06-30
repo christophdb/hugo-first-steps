@@ -16,7 +16,7 @@ SeaTable provides a **comment function for** the exchange with other users, whic
 
 In SeaTable you can have a separate discussion in each **row** of the table to have a separate discussion. rows The tables in which a discussion is in progress are marked by a **balloon icon** in the first column. The number on the bubble indicates the number of new comments in the last 7 days. You can view the ongoing discussion by clicking on the icon.
 
-The discussions and comments are visible to all people with access to the table. This includes people who access a table via an [external link](https://seatable.io/en/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/).
+The discussions and comments are visible to all people with access to the table. This includes people who access a table via an [external link]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}).
 
 Comments in a table are not taken into account when [exporting a Base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) nor when [exporting a table to an XLSX file]({{ relref "help/startseite/import-von-daten/datenimport-und-export" }}) and are then lost.
 
@@ -24,4 +24,4 @@ Comments in a table are not taken into account when [exporting a Base]({{< relre
 
 Detailed instructions on how to post, read and delete comments can be found here:
 
-- [rows comment](https://seatable.io/en/docs/zeilendetails/zeilen-kommentieren/)
+- [rows comment]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})

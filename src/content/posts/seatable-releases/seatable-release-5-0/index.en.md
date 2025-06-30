@@ -14,7 +14,7 @@ The time has come: Our app builder is officially launched! With this version of 
 
 But that's not the only big bang - SeaTable 5.0 offers you **three new plugins** for complex visualizations: Organizational Chart, Table Relationships and Whiteboard. The **improved accessibility** should make it easier for people with (visual) impairments to use SeaTable. Another highlight is the **column-accurate Excel import**.
 
-This morning we updated SeaTable Cloud to version 5.0. All self-hosters can do the same: The image of SeaTable 5.0 is available for download in the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, you can find the complete list of changes in the [changelog](https://seatable.io/en/docs/changelog/version-5/).
+This morning we updated SeaTable Cloud to version 5.0. All self-hosters can do the same: The image of SeaTable 5.0 is available for download in the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, you can find the complete list of changes in the [changelog]({{< relref "pages/changelog" >}}/).
 
 ## Customized business apps without a single line of code
 
@@ -22,17 +22,17 @@ SeaTable 5.0 marks the official launch of our no-code app builder. After our dev
 
 ### New page type: Single Record
 
-The development of the App Builder continues unabated: With the **single data record** [page type](https://seatable.io/en/docs/universelle-apps/seitentypen-in-der-universellen-app/), you have the option of designing a page with static elements, table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin](https://seatable.io/en/docs/seitendesign-plugin/anleitung-zum-seitendesign-plugin/) that you already know from Base.
+The development of the App Builder continues unabated: With the **single data record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from Base.
 
-Users of the app can view, search, browse, and edit each single record on this page - with the relevant [permission](https://seatable.io/en/docs/universelle-apps/seitenberechtigungen-in-einer-universellen-app/). This page type is suitable, for example, for displaying the data in an employee database as personal profiles.
+Users of the app can view, search, browse, and edit each single record on this page - with the relevant [permission]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}). This page type is suitable, for example, for displaying the data in an employee database as personal profiles.
 
 ![Single Record Page](Single-Record-Page-min.gif)
 
 ### New functions of existing page types
 
-You can now **export** all data displayed on [table pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps/) as an **Excel file**. You can also **download all attachments as a zip file** via the column header of [image](https://seatable.io/en/docs/dateien-und-bilder/die-bild-spalte/) and [file columns](https://seatable.io/en/docs/dateien-und-bilder/die-datei-spalte/). The new export functions are helpful if you want to make certain files available to other users via the app.
+You can now **export** all data displayed on [table pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) as an **Excel file**. You can also **download all attachments as a zip file** via the column header of [image]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) and [file columns]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). The new export functions are helpful if you want to make certain files available to other users via the app.
 
-We have added the **settings for link columns** on [gallery pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps/). For example, you can specify whether users can link existing entries via the gallery page or add entries in another table. On [query pages](https://seatable.io/en/docs/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps/), the query results are now updated immediately when you trigger button actions that cause changes to the data.
+We have added the **settings for link columns** on [gallery pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}). For example, you can specify whether users can link existing entries via the gallery page or add entries in another table. On [query pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}), the query results are now updated immediately when you trigger button actions that cause changes to the data.
 
 ## Three plugins for complex visualizations
 
@@ -40,13 +40,13 @@ Another highlight of SeaTable 5.0 are the new [plugins]({{< relref "help/base-ed
 
 ### Organizational Chart
 
-The Org Chart plugin can be used to display hierarchies between the data records in a table, e.g. positions in a company or [superior and subordinate tasks in a project](https://seatable.io/en/projektstrukturplan-vorlage/). To visualize the dependencies of the data records, you need a [link column](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) that refers to the same table. The entry to which you link another row of the same table is displayed as a superordinate data record.
+The Org Chart plugin can be used to display hierarchies between the data records in a table, e.g. positions in a company or [superior and subordinate tasks in a project]({{< relref "templates/projects/work-breakdown-structure" >}}). To visualize the dependencies of the data records, you need a [link column]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) that refers to the same table. The entry to which you link another row of the same table is displayed as a superordinate data record.
 
 ![Organizational chart plugin](Organigramm-Plugin.png)
 
 ### Table Relationships
 
-Especially when there are many tables with thousands of rows in a base, it is easy to lose track of how they relate to each other. With the new Table Relationships plugin, you can visualize which tables are linked to each other via which columns. Not only direct links via [link columns](https://seatable.io/en/docs/verknuepfungen/wie-man-tabellen-in-seatable-miteinander-verknuepft/) are displayed, but also indirect links via link formula columns.
+Especially when there are many tables with thousands of rows in a base, it is easy to lose track of how they relate to each other. With the new Table Relationships plugin, you can visualize which tables are linked to each other via which columns. Not only direct links via [link columns]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) are displayed, but also indirect links via link formula columns.
 
 ![Table relations plugin](Table-Relationships-Plugin.png)
 
@@ -88,6 +88,6 @@ You will encounter the **editor for long texts** in many places. If you fill in 
 
 ![Editor for long texts in web forms](Long-text-editor-in-web-forms.png)
 
-You are also familiar with the **statistics** from several places in SeaTable: from the [statistics module](https://seatable.io/en/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/) in the base and from [custom pages in universal apps](https://seatable.io/en/docs/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps/). We have now significantly upgraded and standardized the statistics with a revised diagram library.
+You are also familiar with the **statistics** from several places in SeaTable: from the [statistics module]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) in the base and from [custom pages in universal apps]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}). We have now significantly upgraded and standardized the statistics with a revised diagram library.
 
-Previously, you could not restore rows that you had moved to the [Big Data](https://seatable.io/en/docs/big-data/zeilen-ins-big-data-backend-verschieben/) storage using snapshots. To prevent unwanted data loss, there is now an option to also restore the big data storage of the previous version when [restoring snapshots](https://seatable.io/en/docs/historie-und-versionen/wiederherstellung-eines-snapshots/).
+Previously, you could not restore rows that you had moved to the [Big Data]({{< relref "help/base-editor/big-data/zeilen-ins-big-data-backend-verschieben" >}}) storage using snapshots. To prevent unwanted data loss, there is now an option to also restore the big data storage of the previous version when [restoring snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).

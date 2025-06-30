@@ -10,7 +10,11 @@ url: '/es/ayuda/eine-tabellenbeschreibung-hinzufuegen'
 
 Puede proporcionar una descripción a cada tabla de su base. Puede utilizar este texto conciso para explicar el contenido de la tabla, por ejemplo.
 
-{{< warning  headline="Nota importante"  text="Independientemente de su [función y autorización](https://seatable.io/es/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/), también puede editar las descripciones de las tablas de las bases que pertenecen a un **grupo**. Sin embargo, solo puedes editar la descripción de las tablas que [te hayan sido liberadas](https://seatable.io/es/docs/freigaben/einzelne-tabellenblaetter-einer-base-freigeben/) con **permisos de escritura**." />}}
+{{< warning  headline="Nota importante" >}}
+
+Independientemente de su [función y autorización]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}), también puede editar las descripciones de las tablas de las bases que pertenecen a un **grupo**. Sin embargo, solo puedes editar la descripción de las tablas que [te hayan sido liberadas]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) con **permisos de escritura**.
+
+{{< /warning >}}
 
 ## Cómo añadir una descripción a una tabla
 

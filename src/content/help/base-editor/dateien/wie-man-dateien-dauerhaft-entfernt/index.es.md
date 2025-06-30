@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/wie-man-dateien-dauerhaft-entfernt'
 ---
 
-**Los** archivos, **imágenes** y **firmas** que **elimine** en una tabla pueden seguir encontrándose en el gestor de [archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de la Base. Para eliminarlos de forma permanente, también debes borrar los archivos del gestor de archivos.
+**Los** archivos, **imágenes** y **firmas** que **elimine** en una tabla pueden seguir encontrándose en el gestor de [archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la Base. Para eliminarlos de forma permanente, también debes borrar los archivos del gestor de archivos.
 
 ## Eliminar archivos del gestor de archivos
 

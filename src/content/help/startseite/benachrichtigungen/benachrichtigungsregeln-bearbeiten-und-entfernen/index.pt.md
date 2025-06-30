@@ -54,4 +54,4 @@ Basicamente, o evento de disparo definido para uma regra de notificação deixar
 
 ### Artigos mais úteis na secção Regras de Notificação:
 
-- [Criar regra de notificação](https://seatable.io/pt/docs/benachrichtigungen/benachrichtigungsregel-erstellen/)
+- [Criar regra de notificação]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregel-erstellen" >}})

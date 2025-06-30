@@ -26,7 +26,7 @@ SeaTable peut offrir ici un remplacement intelligent et adéquat et a en outre l
 
 ## Avec la fonction formulaire vers le système de réservation de rendez-vous
 
-Pour créer un système de réservation de rendez-vous dans SeaTable, nous allons utiliser la [fonction formulaire](https://seatable.io/fr/docs/handbuch/datenmanagement/webformulare/). Vous pourrez ainsi collecter des informations auprès de n'importe qui via un simple lien et les enregistrer automatiquement dans votre base SeaTable.
+Pour créer un système de réservation de rendez-vous dans SeaTable, nous allons utiliser la [fonction formulaire]({{< relref "help/base-editor/webformulare" >}}). Vous pourrez ainsi collecter des informations auprès de n'importe qui via un simple lien et les enregistrer automatiquement dans votre base SeaTable.
 
 ## Création des deux tableaux dont vous avez besoin
 

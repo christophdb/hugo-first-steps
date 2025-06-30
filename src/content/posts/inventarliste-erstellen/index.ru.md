@@ -130,12 +130,12 @@ seo:
 
 В программе для работы с базами данных **SeaTable** без кодов уже есть готовый [шаблон инвентаризационной ведомости]({{< relref "templates/operations/inventory-list" >}}). Чтобы воспользоваться им **бесплатно**, просто [зарегистрируйтесь]({{< relref "pages/registration" >}}), указав свой адрес электронной почты, и создайте учетную запись. После того как вы войдете в систему, выполните следующие действия:
 
-1. Добавьте шаблон в качестве **новой базы** на стартовую страницу. О том, как это сделать, вы можете узнать [из этой инструкции](https://seatable.io/ru/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+1. Добавьте шаблон в качестве **новой базы** на стартовую страницу. О том, как это сделать, вы можете узнать [из этой инструкции]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 2. Нажмите на базу, чтобы **открыть** ее.
-3. Прочитайте [описание базы](https://seatable.io/ru/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) и получите общее представление.
-4. [Удалите данные образца](https://seatable.io/ru/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) и заполните таблицы собственным инвентарем.
+3. Прочитайте [описание базы]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) и получите общее представление.
+4. [Удалите данные образца]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) и заполните таблицы собственным инвентарем.
 
-Если вы хотите создать свой собственный инвентарный список, вы можете **добавить или удалить любое количество столбцов в таблицах** или [начать с совершенно новой базы](https://seatable.io/ru/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). Затем вы можете [поделиться](https://seatable.io/ru/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) своим инвентарным списком со всеми членами команды. Вот и все. Ничто не мешает вам провести инвентаризацию.
+Если вы хотите создать свой собственный инвентарный список, вы можете **добавить или удалить любое количество столбцов в таблицах** или [начать с совершенно новой базы]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). Затем вы можете [поделиться]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) своим инвентарным списком со всеми членами команды. Вот и все. Ничто не мешает вам провести инвентаризацию.
 
 ## В чем преимущества SeaTable?
 
@@ -147,7 +147,7 @@ seo:
 
 ![Отправить предмет во время инвентаризации](Submit-an-item-during-inventory.gif)
 
-**Визуализация** и **оценка** данных в SeaTable еще более гибкая и простая, чем в Excel. Вы можете создавать [статистику](https://seatable.io/ru/docs/plugins/anleitung-zum-statistik-plugin/), использовать [плагины]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) для визуализации или фильтровать, сортировать и группировать данные с помощью представлений.
+**Визуализация** и **оценка** данных в SeaTable еще более гибкая и простая, чем в Excel. Вы можете создавать [статистику]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}), использовать [плагины]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) для визуализации или фильтровать, сортировать и группировать данные с помощью представлений.
 
 И последнее, но не менее важное: в SeaTable можно сохранять **изображения** и **файлы**, например PDF-документы. Вы можете включить в список запасов квитанции о покупке, счета-фактуры или фотографии текущего состояния во время инвентаризации.
 

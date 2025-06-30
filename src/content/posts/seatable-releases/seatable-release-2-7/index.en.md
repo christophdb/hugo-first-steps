@@ -11,7 +11,7 @@ seo:
     description:
 ---
 
-This morning, [SeaTable Cloud](https://cloud.seatable.io) was updated to version 2.7. This means that all Cloud users can now also enjoy the new functions and improvements of the new version, which has already been available for download for self-hosters on Docker Hub for a few days. The table editor benefited most from the version change: the conditional cell formatting, the new data processing operation "Calculate Ranking", the extended column fixing and the default value function for date columns offer a lot of new functionality. Outside the table editor, the password-protected bases are an important improvement. All changes can be found - as always - in the [SeaTable changelog](https://seatable.io/en/docs/changelog/version-2-7/).
+This morning, [SeaTable Cloud](https://cloud.seatable.io) was updated to version 2.7. This means that all Cloud users can now also enjoy the new functions and improvements of the new version, which has already been available for download for self-hosters on Docker Hub for a few days. The table editor benefited most from the version change: the conditional cell formatting, the new data processing operation "Calculate Ranking", the extended column fixing and the default value function for date columns offer a lot of new functionality. Outside the table editor, the password-protected bases are an important improvement. All changes can be found - as always - in the [SeaTable changelog]({{< relref "pages/changelog" >}}).
 
 ## Conditional formatting for columns
 

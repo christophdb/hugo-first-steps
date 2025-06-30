@@ -19,7 +19,7 @@ Mit der richtigen Vorlage ist eine solche Analyse, mit der Sie die Wirtschaftlic
 
 Eine Kosten-Nutzen-Analyse, kurz CBA (cost benefit analysis), ist eine **Wirtschaftlichkeitsrechnung**. Sie stellt das Verhältnis von Kosten und Nutzen gegenüber, um eine **Bewertungsgrundlage für unternehmerische Entscheidungen** zu schaffen. So dient eine CBA dazu, die **Vor- und Nachteile von Investitionen** zu prüfen und finanzielle Risiken abzuschätzen, Maßnahmen zu bewerten und die Nachhaltigkeit von Investitionen zu analysieren. Um eine optimale Übersicht zu erhalten, bietet es sich an, die Kosten-Nutzen-Analyse mit einer Vorlage zu machen.
 
-Der Vorteil hierbei ist, dass Sie alle **Faktoren und Auswirkungen, die mit einer Investition zusammenhängen**, in nur einer Datenbank bündeln können und so nicht den Überblick verlieren. Denn gerade bei [großen Projekten](https://seatable.io/projektstrukturplan-vorlage/) gibt es eine Vielzahl an objektiven, aber auch subjektiven Kriterien, die sich ganz unterschiedlich auf die CBA auswirken. Eine Vorlage hilft Ihnen, all diese Aspekte im Blick zu behalten.
+Der Vorteil hierbei ist, dass Sie alle **Faktoren und Auswirkungen, die mit einer Investition zusammenhängen**, in nur einer Datenbank bündeln können und so nicht den Überblick verlieren. Denn gerade bei [großen Projekten]({{< relref "templates/projects/work-breakdown-structure" >}}) gibt es eine Vielzahl an objektiven, aber auch subjektiven Kriterien, die sich ganz unterschiedlich auf die CBA auswirken. Eine Vorlage hilft Ihnen, all diese Aspekte im Blick zu behalten.
 
 ![Ausgedruckte Vorlage für eine Kosten Nutzen Analyse.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_518582008-711x474.jpg)
 
@@ -37,10 +37,10 @@ Im Grunde passt eine Kosten-Nutzen-Analyse immer, wenn größere finanzielle Inv
 
 - Ihre IT-Ausstattung modernisieren möchten
 - Umbaumaßnahmen für Ihren Betrieb planen
-- [Aus- und Weiterbildungsmaßnahmen](https://seatable.io/workshop-planen/) für Ihre Mitarbeiter anbieten
+- [Aus- und Weiterbildungsmaßnahmen]({{< relref "posts/workshop-planen" >}}) für Ihre Mitarbeiter anbieten
 - neue Fertigungsverfahren implementieren möchten
 - neue betriebswirtschaftliche Prozesse einführen
-- Ihre [Fahrzeugflotte](https://seatable.io/fuhrparkmanagement/) vergrößern möchten
+- Ihre [Fahrzeugflotte]({{< relref "posts/fuhrparkmanagement" >}}) vergrößern möchten
 
 ![Mitarbeiter erstellt Vorlage für eine Kosten-Nutzen-Analyse.](Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg)
 

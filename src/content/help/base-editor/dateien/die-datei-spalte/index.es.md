@@ -35,15 +35,19 @@ Puedes **cargar archivos** en la columna de archivos haciendo clic con el ratón
 3. Se abre una nueva ventana. Aquí puedes cargar archivos desde tu dispositivo mediante **arrastrar y soltar** o **hacer clic**.
 4. Seleccione varios archivos a la vez seleccionando todos los documentos que desea cargar y cargándolos juntos.
 
-{{< warning  headline="Conectado a la gestión de archivos"  text="Los archivos que cargue localmente en una columna de archivos se guardarán en una **carpeta del** sistema a la que podrá acceder a través de la [gestión de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) de su Base." />}}
+{{< warning  headline="Conectado a la gestión de archivos" >}}
+
+Los archivos que cargue localmente en una columna de archivos se guardarán en una **carpeta del** sistema a la que podrá acceder a través de la [gestión de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de su Base.
+
+{{< /warning >}}
 
 ## Añadir archivos existentes
 
 Además de los archivos nuevos que subas localmente a la celda de una columna de archivos, también puedes añadir archivos existentes, que pueden proceder de **tres fuentes**:
 
-- Últimos **subidos**: Aquí encontrarás los últimos archivos subidos que están guardados en el [gestor de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base.
-- **Mis carpetas**: aquí tienes acceso a los archivos de tus propias carpetas, que puedes crear y rellenar en el [gestor de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/).
-- **Seafile**: Aquí puede seleccionar los archivos de [las bibliotecas](https://seatable.io/es/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) Seafile que están conectados a su base.
+- Últimos **subidos**: Aquí encontrarás los últimos archivos subidos que están guardados en el [gestor de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base.
+- **Mis carpetas**: aquí tienes acceso a los archivos de tus propias carpetas, que puedes crear y rellenar en el [gestor de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
+- **Seafile**: Aquí puede seleccionar los archivos de [las bibliotecas]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) Seafile que están conectados a su base.
 
 ![Añadir archivos existentes a una columna de archivos](images/Add-existing-files-to-a-file-column.png)
 
@@ -73,7 +77,7 @@ A continuación, puede especificar **su propio nombre de archivo** y se mostrar�
 
 ![Ventana de diálogo para descargar todos los archivos](images/Download-all-files-dialog.png)
 
-Si pulsa sobre los **tres puntos**, tiene dos opciones para guardar el archivo: Al **descargarlo**, se guarda en tu dispositivo un archivo zip del que puedes extraer todos los archivos. También puedes guardar los archivos **en Seafile**. Para ello, primero debes [conectar una biblioteca Seafile a tu Base](https://seatable.io/es/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+Si pulsa sobre los **tres puntos**, tiene dos opciones para guardar el archivo: Al **descargarlo**, se guarda en tu dispositivo un archivo zip del que puedes extraer todos los archivos. También puedes guardar los archivos **en Seafile**. Para ello, primero debes [conectar una biblioteca Seafile a tu Base]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ## Renombrar archivos
 
@@ -96,7 +100,11 @@ Si pulsa sobre los **tres puntos**, tiene dos opciones para guardar el archivo: 
     - Seleccione la opción **Seleccionar todo** o **marque** las casillas situadas delante de los archivos.
     - Haga clic en **Eliminar.**
 
-{{< warning  headline="Nota"  text="De este modo, los archivos **no** se eliminan de forma permanente. Sólo se [eliminan de forma permanente](https://seatable.io/es/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/) cuando se borran los archivos en el [gestor de archivos](https://seatable.io/es/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Base." />}}
+{{< warning  headline="Nota" >}}
+
+De este modo, los archivos **no** se eliminan de forma permanente. Sólo se [eliminan de forma permanente]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}) cuando se borran los archivos en el [gestor de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base.
+
+{{< /warning >}}
 
 ## Preguntas frecuentes
 

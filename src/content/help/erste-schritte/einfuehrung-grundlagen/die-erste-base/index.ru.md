@@ -10,7 +10,7 @@ url: '/ru/pomoshch/die-erste-base'
 
 В SeaTable вы организуете свои данные в [базах]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). База - это контейнер для одной или нескольких таблиц. Таблицы базы могут стоять независимо друг от друга или, как в базе данных, быть связаны друг с другом отношениями.
 
-Вы также можете [поделиться]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) с другими членами команды или [пригласить](https://seatable.io/ru/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) внешних третьих лиц для совместной работы над ними.
+Вы также можете [поделиться]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) с другими членами команды или [пригласить]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}}) внешних третьих лиц для совместной работы над ними.
 
 SeaTable ведет [историю]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) для каждой базы в фоновом режиме, позволяя вам отменить изменения и восстановить предыдущие состояния, если это необходимо.
 
@@ -18,7 +18,7 @@ SeaTable ведет [историю]({{< relref "help/base-editor/historie-und-v
 
 После входа в систему вы окажетесь на **стартовой** странице. Здесь вы можете управлять своими базами. Если при регистрации вы выбрали [шаблоны]({{< relref "templates" >}}), они будут отображаться здесь.
 
-Нажав на **изображение аватара** в правом верхнем углу, вы можете перейти в [личные настройки](https://seatable.io/ru/docs/persoenliche-einstellungen/persoenliche-einstellungen/), чтобы, например, настроить язык системы.
+Нажав на **изображение аватара** в правом верхнем углу, вы можете перейти в [личные настройки]({{< relref "help/startseite/persoenliche-einstellungen" >}}), чтобы, например, настроить язык системы.
 
 Нажмите кнопку **Добавить базу**, чтобы создать свою первую базу. Дайте ей **имя**, нажмите **Enter**, и база будет помещена на стартовую страницу. Если вы наведете указатель мыши на название базы, справа появится **символ карандаша** {{< seatable-icon icon="dtable-icon-rename" >}} и символ с тремя точками {{< seatable-icon icon="dtable-icon-more-vertical" >}} для расширенных функций.
 
@@ -26,7 +26,7 @@ SeaTable ведет [историю]({{< relref "help/base-editor/historie-und-v
 
 ## Вид таблицы
 
-Новая база содержит [таблицу](https://seatable.io/ru/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) с самого начала. Представление таблицы является центральным, но не единственным представлением SeaTable. В представлении таблицы вы управляете таблицами базы, определяете структуру их колонок и вводите или анализируете свои данные.
+Новая база содержит [таблицу]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) с самого начала. Представление таблицы является центральным, но не единственным представлением SeaTable. В представлении таблицы вы управляете таблицами базы, определяете структуру их колонок и вводите или анализируете свои данные.
 
 Перед [вводом данных]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 

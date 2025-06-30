@@ -22,7 +22,11 @@ Depending on your browser settings, the **download** will either start automatic
 
 As soon as your file with the extension **.dtable** appears in the specified location, the export of the base is completed.
 
-{{< warning  headline="Note"  text="Be aware that the **DTABLE file** can become very **large** if you have made extensive use of file and image columns in the exported base. Bases with a **maximum size of up to 100 MB** can be exported in the SeaTable Cloud. You can use the [file manager](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) to **delete file attachments** in bases that exceed this size limit to enable the export." />}}
+{{< warning  headline="Note" >}}
+
+Be aware that the **DTABLE file** can become very **large** if you have made extensive use of file and image columns in the exported base. Bases with a **maximum size of up to 100 MB** can be exported in the SeaTable Cloud. You can use the [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) to **delete file attachments** in bases that exceed this size limit to enable the export.
+
+{{< /warning >}}
 
 ## What does a DTABLE file store?
 

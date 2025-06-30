@@ -39,7 +39,7 @@ Vous apprendrez tout cela en construisant une base pour enregistrer vos dépense
 
 Les conditions suivantes sont nécessaires pour pouvoir suivre ce cours en ligne :
 
-1. **SeaTable**: Vous pouvez utiliser n'importe quel système SeaTable. Le plus simple est d'avoir un [compte SeaTable Cloud gratuit](https://seatable.io/fr/enregistrement/).
+1. **SeaTable**: Vous pouvez utiliser n'importe quel système SeaTable. Le plus simple est d'avoir un [compte SeaTable Cloud gratuit]({{< relref "pages/registration" >}}).
 2. **Le forum**: Un [compte sur notre forum communautaire](https://forum.seatable.com/) si vous souhaitez obtenir un badge après avoir réussi le concours.
 3. **Le navigateur**: Nous recommandons Google Chrome.
 4. **Anglais**: le cours est disponible en plusieurs langues, mais le quiz final, les captures d'écran et les données d'exemple utilisées sont en anglais.

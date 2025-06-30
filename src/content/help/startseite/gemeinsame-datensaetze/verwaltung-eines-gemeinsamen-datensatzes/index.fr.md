@@ -48,8 +48,8 @@ L'option **Gérer l'accès** vous permet de partager votre ensemble de données 
 
 ## Forcer la synchronisation avec l'ensemble de données commun
 
-En tant que créateur d'un ensemble de données commun, vous pouvez forcer la **synchronisation** des tables dépendantes. Vous découvrirez [ici](https://seatable.io/fr/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/) les conséquences et les avantages de cette démarche.
+En tant que créateur d'un ensemble de données commun, vous pouvez forcer la **synchronisation** des tables dépendantes. Vous découvrirez [ici]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) les conséquences et les avantages de cette démarche.
 
 ## Supprimer un enregistrement commun
 
-Si vous souhaitez supprimer un enregistrement commun, vous trouverez [ici](https://seatable.io/fr/docs/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes/) toutes les informations utiles.
+Si vous souhaitez supprimer un enregistrement commun, vous trouverez [ici]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}}) toutes les informations utiles.

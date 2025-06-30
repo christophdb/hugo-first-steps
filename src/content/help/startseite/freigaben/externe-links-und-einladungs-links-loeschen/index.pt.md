@@ -13,7 +13,7 @@ Pode **apagar** tanto as **ligações externas** como as **ligações de convite
 ## Formas de eliminar ligações externas e ligações de convite
 
 - Eliminação através do ícone de partilha {{< seatable-icon icon="dtable-icon-share" >}} para bases ou vistas
-- Eliminação através da [administração da equipa](https://seatable.io/pt/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+- Eliminação através da [administração da equipa]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Nota"  text="Estão disponíveis links externos para bases e vistas, links de convite apenas para bases." />}}
 
@@ -43,7 +43,11 @@ Pode **apagar** tanto as **ligações externas** como as **ligações de convite
 7. Confirmar a eliminação activando o **Controlador** e clique em **Eliminar link do convite** (para ligações de convite) ou **Apagar liberação** (para ligações externas).  
    ![Confirmar a eliminação](images/confirm-delete-invitation-and-external-links-way2.jpg)
 
-{{< warning  headline="Só funciona com ligações de base"  text="Não se pode eliminar uma [ligação externa para uma visualização](https://seatable.io/pt/docs/freigaben/externen-link-fuer-eine-ansicht-erstellen/) através da administração da equipa, mas apenas através do ícone de partilha de visualizações." />}}
+{{< warning  headline="Só funciona com ligações de base" >}}
+
+Não se pode eliminar uma [ligação externa para uma visualização]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) através da administração da equipa, mas apenas através do ícone de partilha de visualizações.
+
+{{< /warning >}}
 
 ## Consequências da eliminação
 
@@ -57,7 +61,11 @@ Se os utilizadores tentarem abrir um link de convite **eliminado**, aparece a se
 
 Depois de eliminar o link do convite, **nenhum outro utilizador** pode aceder à base partilhada.
 
-{{< warning  headline="Os utilizadores convidados retêm o acesso"  text="Os utilizadores que aceitaram o seu convite antes do link ter sido eliminado podem ainda aceder à base partilhada e estão listados nas [partilhas de utilizadores](https://seatable.io/pt/docs/freigaben/anlegen-einer-benutzerfreigabe/). No entanto, é claro que pode apagar a partilha aí." />}}
+{{< warning  headline="Os utilizadores convidados retêm o acesso" >}}
+
+Os utilizadores que aceitaram o seu convite antes do link ter sido eliminado podem ainda aceder à base partilhada e estão listados nas [partilhas de utilizadores]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). No entanto, é claro que pode apagar a partilha aí.
+
+{{< /warning >}}
 
 ### Eliminação de uma ligação externa
 

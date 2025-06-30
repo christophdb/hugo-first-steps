@@ -23,6 +23,6 @@ Als Team-Administrator können Sie neue Mitglieder zum Team hinzufügen und dies
 
 ## Die Rechte eines Team-Administrators
 
-Jeder Team-Administrator erhält **vollen Zugriff** auf die Teamverwaltung und hat **die gleichen Rechte**. Für einen genauen Überblick über alle Funktionen der Teamverwaltung lesen Sie bitte den Artikel [Die Funktionen der Teamverwaltung in der Übersicht](https://seatable.io/docs/teamverwaltung/die-funktionen-der-teamverwaltung-in-der-uebersicht/).
+Jeder Team-Administrator erhält **vollen Zugriff** auf die Teamverwaltung und hat **die gleichen Rechte**. Für einen genauen Überblick über alle Funktionen der Teamverwaltung lesen Sie bitte den Artikel [Die Funktionen der Teamverwaltung in der Übersicht]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 {{< warning  headline="Hinweis"  text="Sie können Teammitglieder nur zu Administratoren machen, wenn Sie selbst Team-Administrator sind. Administrationsrechte können Sie über den gleichen Regler wieder **entziehen**, mit dem Sie sie erteilt haben." />}}

@@ -15,7 +15,7 @@ Une vue normale dans SeaTable permet le travail **collaboratif** **en temps rée
 Le stockage de données volumineuses vous permet de **stocker des lignes de manière** largement **illimitée**, mais il comporte également certaines restrictions. Vous trouverez ci-dessous un aperçu de ces **restrictions**:
 
 - Les modifications apportées à une entrée Big Data ne sont **pas** **synchronisées** **en temps réel** dans le navigateur d'un autre utilisateur. Les modifications ne sont visibles pour les autres utilisateurs qu'après un **rechargement de** la page.
-- Vous ne pouvez **pas partager** les vues Big Data, que ce soit individuellement ou dans le cadre [d'autorisations de partage personnalisées](https://seatable.io/fr/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+- Vous ne pouvez **pas partager** les vues Big Data, que ce soit individuellement ou dans le cadre [d'autorisations de partage personnalisées]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).
 - Il n'est **pas** possible de créer **de nouvelles lignes** dans un affichage Big Data. Cela doit toujours se faire dans un [affichage normal]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
 - Dans un affichage Big Data, vous ne pouvez pas [personnaliser]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}).
 - Vous ne pouvez **pas modifier**[les entrées liées]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) dans les entrées Big Data. Les liens vers des lignes dans le stockage Big Data ne sont **pas affichés** dans les vues normales - mais le sont dans une vue Big Data.

@@ -135,12 +135,12 @@ For larger companies with many items and more complex use cases, we strongly adv
 
 The no-code database software **SeaTable** already has an [inventory list template]({{< relref "templates/operations/inventory-list" >}}) ready for you. To use it **free of charge**, simply [register]({{< relref "pages/registration" >}}) with your e-mail address and create an account. Once you are logged in, proceed as follows:
 
-1. Add the template as a **new base** on your start page. You can find out how to do this [in these instructions](https://seatable.io/en/docs/arbeiten-mit-bases/anlegen-einer-base-mithilfe-einer-vorlage/).
+1. Add the template as a **new base** on your start page. You can find out how to do this [in these instructions]({{< relref "help/startseite/bases/anlegen-einer-base-mithilfe-einer-vorlage" >}}).
 2. Click on the base to **open** it.
-3. Read the [base description](https://seatable.io/en/docs/arbeiten-mit-bases/wie-man-einer-base-eine-beschreibung-hinzufuegt/) and get an overview.
-4. [Delete the sample data](https://seatable.io/en/docs/arbeiten-mit-zeilen/das-loeschen-von-zeilen/) and fill the tables with your own inventory.
+3. Read the [base description]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) and get an overview.
+4. [Delete the sample data]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}}) and fill the tables with your own inventory.
 
-If you want to create your own inventory, you can **add or delete any number of columns in the tables** or [start with a completely new base](https://seatable.io/en/docs/arbeiten-mit-bases/eine-neue-base-erstellen/). You can then [share](https://seatable.io/en/docs/freigaben/base-und-ansichtsfreigaben-im-ueberblick/) your inventory list with all your team members. That's it. Nothing stands in the way of your inventory.
+If you want to create your own inventory, you can **add or delete any number of columns in the tables** or [start with a completely new base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}}). You can then [share]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) your inventory list with all your team members. That's it. Nothing stands in the way of your inventory.
 
 ## What are the advantages of SeaTable?
 
@@ -152,7 +152,7 @@ You can also create [web forms]({{< relref "help/base-editor/webformulare" >}}) 
 
 ![Submit an item during inventory](Submit-an-item-during-inventory.gif)
 
-The **visualization** and **evaluation** of data in SeaTable is even more flexible and easier than in Excel. You can create [statistics](https://seatable.io/en/docs/plugins/anleitung-zum-statistik-plugin/), use [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) for visualization or filter, sort and group the data using views.
+The **visualization** and **evaluation** of data in SeaTable is even more flexible and easier than in Excel. You can create [statistics]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}), use [plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) for visualization or filter, sort and group the data using views.
 
 Last but not least, you can save **images** and **files** such as PDF documents in SeaTable. Purchase receipts, invoices or photos of the current status during the inventory can be included in your inventory list.
 

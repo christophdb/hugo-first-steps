@@ -53,7 +53,7 @@ The secret key is a [shared secret](https://en.wikipedia.org/wiki/Shared_secret)
 
 ## Validation of the signature
 
-In every programming language there should be corresponding functions to be able to validate such a signature accordingly. How this check would look like in PHP, you will learn in [this article](https://seatable.io/en/docs/webhooks/verarbeitung-eines-webhooks-mit-hilfe-von-php/).
+In every programming language there should be corresponding functions to be able to validate such a signature accordingly. How this check would look like in PHP, you will learn in [this article]({{< relref "help/integrationen/webhooks/verarbeitung-eines-webhooks-mit-hilfe-von-php" >}}).
 
 For Python, a check might look like this:
 

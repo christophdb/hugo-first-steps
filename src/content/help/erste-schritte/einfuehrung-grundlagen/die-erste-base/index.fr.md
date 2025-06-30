@@ -10,7 +10,7 @@ url: '/fr/aide/die-erste-base'
 
 Dans SeaTable, vous organisez vos données dans des [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Une base est un conteneur pour une ou plusieurs tables. Les tables d'une base peuvent être juxtaposées indépendamment les unes des autres ou, comme dans une base de données, reliées entre elles par des relations.
 
-Vous pouvez également [partager]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) avec d'autres membres de l'équipe ou [inviter](https://seatable.io/fr/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) des tiers externes à y travailler ensemble.
+Vous pouvez également [partager]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) avec d'autres membres de l'équipe ou [inviter]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}}) des tiers externes à y travailler ensemble.
 
 SeaTable gère un [historique]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) en arrière-plan pour chaque base, ce qui vous permet d'annuler les modifications et de rétablir les états précédents si nécessaire.
 
@@ -18,7 +18,7 @@ SeaTable gère un [historique]({{< relref "help/base-editor/historie-und-version
 
 Après vous être connecté, vous vous trouvez sur la **page d'accueil**. C'est ici que vous gérez vos bases. Si vous avez choisi [des templates]({{< relref "templates" >}}) lors de l'inscription, ils seront affichés ici.
 
-En cliquant sur l'**image de l'avatar** dans le coin supérieur droit, vous pouvez accéder aux [paramètres personnels](https://seatable.io/fr/docs/persoenliche-einstellungen/persoenliche-einstellungen/), par exemple pour adapter la langue du système.
+En cliquant sur l'**image de l'avatar** dans le coin supérieur droit, vous pouvez accéder aux [paramètres personnels]({{< relref "help/startseite/persoenliche-einstellungen" >}}), par exemple pour adapter la langue du système.
 
 En cliquant sur **Ajouter une** base, vous créez votre première base personnelle. Donnez-lui un **nom**, appuyez sur **Entrée** et la base sera placée sur la page d'accueil. Si vous déplacez le curseur de la souris sur le nom de la base, un **symbole de crayon** {{< seatable-icon icon="dtable-icon-rename" >}} et le symbole à trois points {{< seatable-icon icon="dtable-icon-more-vertical" >}} apparaissent à droite pour les fonctions avancées.
 
@@ -26,7 +26,7 @@ L'icône en forme de crayon permet de renommer la base et de lui attribuer une a
 
 ## Vue du tableau
 
-La nouvelle base contient dès le départ un [tableau](https://seatable.io/fr/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/). La vue Tableau est la vue centrale, mais pas la seule, de SeaTable. Dans la vue Tableau, vous gérez les tableaux de la base, définissez leur structure en colonnes et saisissez ou analysez vos données.
+La nouvelle base contient dès le départ un [tableau]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}). La vue Tableau est la vue centrale, mais pas la seule, de SeaTable. Dans la vue Tableau, vous gérez les tableaux de la base, définissez leur structure en colonnes et saisissez ou analysez vos données.
 
 Avant de [saisir des données]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 

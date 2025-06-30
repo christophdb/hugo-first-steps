@@ -133,7 +133,7 @@ Comme il ne s'agit pas d'un tutoriel de conception, je me limite à des structur
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -216,7 +216,7 @@ Comme il ne s'agit pas d'un tutoriel de conception, je me limite à des structur
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -285,7 +285,7 @@ Comme il ne s'agit pas d'un tutoriel de conception, je me limite à des structur
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -518,7 +518,7 @@ Nous pouvons maintenant accéder à toutes les entrées de SeaTable dans l'_inde
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>
@@ -694,7 +694,7 @@ $app->run();
                 </div>
             </div>
             <div class="featured">
-                <p>This application uses <a href="https://seatable.io/">SeaTable</a> as database.</p>
+                <p>This application uses <a href="https://seatable.com/">SeaTable</a> as database.</p>
             </div>
         </div>
     </div>

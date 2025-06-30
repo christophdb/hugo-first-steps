@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Aujourd'hui, 6 juillet 2021, nous avons mis à jour [SeaTable Cloud](https://cloud.seatable.io) en SeaTable 2.1 et téléchargé la nouvelle image Docker sur Docker Hub. Les points forts de cette version sont les nouvelles autorisations de table et une nouvelle fonction appelée Traitement des données. En outre, nous avons amélioré les types de colonnes sélection simple et multiple ainsi que la colonne case à cocher. Dans ces notes de mise à jour, nous présentons - comme toujours - les développements centraux et renvoyons au [changelog de SeaTable](https://seatable.io/fr/docs/changelog/version-2-1/) (disponible uniquement en anglais) pour la liste complète des changements.
+Aujourd'hui, 6 juillet 2021, nous avons mis à jour [SeaTable Cloud](https://cloud.seatable.io) en SeaTable 2.1 et téléchargé la nouvelle image Docker sur Docker Hub. Les points forts de cette version sont les nouvelles autorisations de table et une nouvelle fonction appelée Traitement des données. En outre, nous avons amélioré les types de colonnes sélection simple et multiple ainsi que la colonne case à cocher. Dans ces notes de mise à jour, nous présentons - comme toujours - les développements centraux et renvoyons au [changelog de SeaTable]({{< relref "pages/changelog" >}}) (disponible uniquement en anglais) pour la liste complète des changements.
 
 ## Autorisations de table
 
@@ -38,7 +38,7 @@ D'autres actions de traitement des données, telles que le calcul de l'ordre ou 
 
 ![SeaTable 2.1 : Permissions avancées pour les colonnes à sélection unique et multiple](Advanced-column-permissions.png)
 
-Les autorisations de colonnes introduites dans [SeaTable 1.2](https://seatable.io/fr/seatable-release-1-2/) permettent d'attribuer et de contrôler des droits d'édition individuels pour des colonnes individuelles. Avec SeaTable 2.1, le menu d'autorisation des deux types de colonnes, sélection unique et sélection multiple, a été étendu par un second bouton. Cela vous permet de contrôler quels utilisateurs peuvent créer et modifier les options d'une colonne de sélection.
+Les autorisations de colonnes introduites dans [SeaTable 1.2]({{< relref "posts/seatable-releases/seatable-release-1-2" >}}) permettent d'attribuer et de contrôler des droits d'édition individuels pour des colonnes individuelles. Avec SeaTable 2.1, le menu d'autorisation des deux types de colonnes, sélection unique et sélection multiple, a été étendu par un second bouton. Cela vous permet de contrôler quels utilisateurs peuvent créer et modifier les options d'une colonne de sélection.
 
 Fondamentalement, tous les utilisateurs ayant des droits d'écriture peuvent modifier les options. Les propriétaires et les administrateurs de bases peuvent désormais restreindre cette autorisation. Le droit d'édition peut être limité à _personne_, aux _administrateurs_ ou à _certains utilisateurs_. Dans le paramètre _Personne_, les administrateurs et les propriétaires eux-mêmes ne peuvent pas créer et modifier de nouvelles options (mais ils peuvent modifier l'autorisation).
 

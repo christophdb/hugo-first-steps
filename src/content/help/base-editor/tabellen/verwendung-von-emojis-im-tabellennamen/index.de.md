@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/verwendung-von-emojis-im-tabellennamen'
 ---
 
-Mit jeder weiteren Tabelle, die Sie zu Ihrer Base hinzufügen, wird die [Tabellen-Navigation](https://seatable.io/docs/arbeiten-in-tabellen/nach-einer-tabelle-suchen/) im Base-Header unübersichtlicher. Um dieses Problem zu lösen, unterstützt SeaTable das [Ausblenden von Tabellen](https://seatable.io/docs/arbeiten-in-tabellen/tabellen-ausblenden/) und die **Verwendung von Emojis im Tabellennamen**.
+Mit jeder weiteren Tabelle, die Sie zu Ihrer Base hinzufügen, wird die [Tabellen-Navigation]({{< relref "help/base-editor/tabellen/nach-einer-tabelle-suchen" >}}) im Base-Header unübersichtlicher. Um dieses Problem zu lösen, unterstützt SeaTable das [Ausblenden von Tabellen]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) und die **Verwendung von Emojis im Tabellennamen**.
 
 ## Emojis in den Tabellennamen einfügen
 

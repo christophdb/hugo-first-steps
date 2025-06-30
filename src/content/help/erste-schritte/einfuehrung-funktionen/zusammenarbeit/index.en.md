@@ -27,7 +27,7 @@ In the following, you will learn about the collaboration features of SeaTable. Y
 
 ## Group bases
 
-All members of a [group]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) have access to a group base. As the group owner, you manage the group and its members. You use different roles to assign access rights to the [members](https://seatable.io/docs/arbeiten-mit-gruppen/gruppenmitglieder-und-ihre-berechtigungen/) - and revoke them just as quickly. You can create a new group using the **New group** button under your bases on the start page.
+All members of a [group]({{< relref "help/startseite/gruppen/eine-neue-gruppe-anlegen" >}}) have access to a group base. As the group owner, you manage the group and its members. You use different roles to assign access rights to the [members]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) - and revoke them just as quickly. You can create a new group using the **New group** button under your bases on the start page.
 
 ## History
 
@@ -35,7 +35,7 @@ To help you keep track of who made what changes to the data in your Bases and wh
 
 ## Common data sets
 
-Records that different groups and users in your team need can be made available to them as templates for new tables using [shared records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}). Any table that your team members create with a shared record, they can [synchronize](https://seatable.io/en/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/). When they do, SeaTable overwrites the data in the table with that of the current shared record, so everyone is at the same level.
+Records that different groups and users in your team need can be made available to them as templates for new tables using [shared records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}). Any table that your team members create with a shared record, they can [synchronize]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}). When they do, SeaTable overwrites the data in the table with that of the current shared record, so everyone is at the same level.
 
 ## Internal releases
 

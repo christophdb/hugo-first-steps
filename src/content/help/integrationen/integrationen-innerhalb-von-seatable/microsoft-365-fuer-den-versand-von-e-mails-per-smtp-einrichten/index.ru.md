@@ -59,4 +59,4 @@ url: '/ru/pomoshch/microsoft-365-fuer-den-versand-von-e-mails-per-smtp-einrichte
 
 Затем вы можете использовать учетную запись электронной почты, созданную в вашей базе SeaTable, для [автоматической]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) отправки писем.
 
-Если вы хотите узнать больше об этой полезной функции, прочитайте статью [Настройка учетной записи электронной почты в Base](https://seatable.io/ru/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+Если вы хотите узнать больше об этой полезной функции, прочитайте статью [Настройка учетной записи электронной почты в Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).

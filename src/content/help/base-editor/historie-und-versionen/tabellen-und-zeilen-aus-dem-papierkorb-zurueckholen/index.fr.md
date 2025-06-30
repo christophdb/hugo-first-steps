@@ -22,10 +22,10 @@ La corbeille de base présente une liste en ordre **antichronologique** - donc l
 
 ## Questions fréquentes
 
-{{< faq "Est-il également possible d'annuler les dernières saisies ?" >}}Vous avez bien entendu la possibilité d'annuler vos dernières modifications. Pour en savoir plus, consultez la rubrique Annuler les [actions](https://seatable.io/fr/docs/historie-und-versionen/aktionen-rueckgaengig-machen/).
+{{< faq "Est-il également possible d'annuler les dernières saisies ?" >}}Vous avez bien entendu la possibilité d'annuler vos dernières modifications. Pour en savoir plus, consultez la rubrique Annuler les [actions]({{< relref "help/base-editor/historie-und-versionen/aktionen-rueckgaengig-machen" >}}).
 {{< /faq >}}
 {{< faq "Des sauvegardes automatiques de ma base sont-elles effectuées ?" >}}Oui, lorsque des modifications sont apportées à une base, un **snapshot** de la base est créé chaque jour, que vous pouvez ensuite restaurer. Pour plus d'informations, voir [Enregistrement de la base actuelle sous forme de snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) et [Restauration d'un snapshot]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 {{< /faq >}}
-{{< faq "Est-il également possible de faire une sauvegarde complète d'une base ?" >}}Oui, c'est également possible dans SeaTable grâce à la fonction d'exportation. Pour en savoir plus, consultez la rubrique [Importation et exportation de données](https://seatable.io/fr/docs/seatable-nutzen/datenimport-und-export/).
+{{< faq "Est-il également possible de faire une sauvegarde complète d'une base ?" >}}Oui, c'est également possible dans SeaTable grâce à la fonction d'exportation. Pour en savoir plus, consultez la rubrique [Importation et exportation de données]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 {{< /faq >}}

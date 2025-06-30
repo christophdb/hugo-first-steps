@@ -56,9 +56,9 @@ Select your currently used language on your website and choose the language you 
 
 What follows now seems almost like magic. From now on, all pages on your website are available to visitors in two languages. In addition to the original web page, there is now a new URL for each new language in which the language abbreviation has been inserted.
 
-> **https://seatable.io/blog/** - our original language German  
-> **https://seatable.io/en/blog/** - English website translated by Weglot  
-> **https://seatable.io/fr/blog/** - French website translated by Weglot
+> **https://seatable.com/blog/** - our original language German  
+> **https://seatable.com/en/blog/** - English website translated by Weglot  
+> **https://seatable.com/fr/blog/** - French website translated by Weglot
 
 Every time a page is called up by a user, Weglot checks whether this page has already been translated or whether something has changed and then carries out the corresponding translation. Weglot combines various translation techniques such as [Google Transl](https://translate.google.com/) ate and [Deepl](https://www.deepl.com/translator) and generates an extremely suitable translation from the various translations in most cases. If a page has to be translated first, it may take a short moment before the page actually loads. However, this delay only occurs the first time the page is called up. Every subsequent visitor will see the page immediately.
 
@@ -112,7 +112,7 @@ The best-known plugin for a multilingual WordPress is, with paragraph, the plugi
 WPML is by far the most popular translation plugin for WordPress.
 
 For sure, these are all good plugins, but we really wanted an automatic translation of our website content to save this tedious task.  
-Just to give you a feeling: on the website seatable.io you can currently find over [90 blog articles](https://seatable.io/en/blog/) and more than 50 pages. In total, the website has just under one million words. It is certainly not an exaggeration to assume that the translation of a page or an article into four other languages takes at least 1 hour each. That would be at least 140 hours or almost 18 working days. Weglot saved us all this time. 
+Just to give you a feeling: on the website seatable.io you can currently find over [90 blog articles]({{< relref "posts" >}}) and more than 50 pages. In total, the website has just under one million words. It is certainly not an exaggeration to assume that the translation of a page or an article into four other languages takes at least 1 hour each. That would be at least 140 hours or almost 18 working days. Weglot saved us all this time. 
 
 ### There is another WordPress plugin that offers automatic translations
 

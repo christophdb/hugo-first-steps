@@ -28,4 +28,4 @@ Si vous vous trouvez actuellement **dans une base**, vous pouvez également cré
 
 ## Créer un partage personnalisé
 
-Vous trouverez une explication détaillée des étapes nécessaires dans l'article [Créer un partage personnalisé](https://seatable.io/fr/docs/freigaben/benutzerdefinierte-freigabe-erstellen/).
+Vous trouverez une explication détaillée des étapes nécessaires dans l'article [Créer un partage personnalisé]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

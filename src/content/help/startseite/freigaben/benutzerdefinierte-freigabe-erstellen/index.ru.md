@@ -58,8 +58,8 @@ url: '/ru/pomoshch/benutzerdefinierte-freigabe-erstellen'
 
 Подробные объяснения того, что следует учитывать при совместном использовании с пользователями или группами, можно найти в следующих статьях:
 
-- [Выдача базы пользователю](https://seatable.io/ru/docs/freigabelinks/anlegen-einer-benutzerfreigabe/)
-- [Освобождение базы для группы](https://seatable.io/ru/docs/freigabelinks/freigabe-einer-base-an-eine-gruppe/)
+- [Выдача базы пользователю]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Освобождение базы для группы]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 
 ## Последствия освобождения
 

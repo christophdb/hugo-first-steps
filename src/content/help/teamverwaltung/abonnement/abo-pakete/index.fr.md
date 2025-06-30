@@ -8,13 +8,13 @@ author: 'cdb'
 url: '/fr/aide/abo-pakete'
 ---
 
-Nous proposons plusieurs versions de SeaTable à différents niveaux de prix, ce qui permet à chacun de trouver son bonheur. Les fonctions et les possibilités varient en fonction du niveau de prix et sont donc entièrement adaptables à vos besoins individuels. Pour comparer rapidement nos abonnements, consultez [notre page de prix](https://seatable.io/fr/prix/).
+Nous proposons plusieurs versions de SeaTable à différents niveaux de prix, ce qui permet à chacun de trouver son bonheur. Les fonctions et les possibilités varient en fonction du niveau de prix et sont donc entièrement adaptables à vos besoins individuels. Pour comparer rapidement nos abonnements, consultez [notre page de prix]({{< relref "pages/prices" >}}).
 
 ## Formules d'abonnement à SeaTable Cloud
 
 ### SeaTable Cloud Free
 
-L'abonnement gratuit à SeaTable est gratuit - [il suffit de s'inscrire](https://seatable.io/fr/enregistrement/) et de commencer ! La version gratuite comprend des tableaux illimités, jusqu'à 10.000 lignes au total et 2 Go d'espace de stockage pour les fichiers à l'intérieur des tableaux. Le versionnement est possible avec un effet rétroactif d'un mois. Cela signifie que les tableaux peuvent être restaurés rétroactivement jusqu'à 4 semaines. La version gratuite permet d'écrire des scripts Java illimités et d'utiliser jusqu'à 100 exécutions de Python.
+L'abonnement gratuit à SeaTable est gratuit - [il suffit de s'inscrire]({{< relref "pages/registration" >}}) et de commencer ! La version gratuite comprend des tableaux illimités, jusqu'à 10.000 lignes au total et 2 Go d'espace de stockage pour les fichiers à l'intérieur des tableaux. Le versionnement est possible avec un effet rétroactif d'un mois. Cela signifie que les tableaux peuvent être restaurés rétroactivement jusqu'à 4 semaines. La version gratuite permet d'écrire des scripts Java illimités et d'utiliser jusqu'à 100 exécutions de Python.
 
 ### SeaTable Cloud Plus
 
@@ -28,9 +28,9 @@ Avec SeaTable Enterprise, vous obtenez pour 14 € par mois et par utilisateur d
 
 ### Cloud dédié
 
-Avec Dedicated Cloud, vous bénéficiez d'une offre entièrement personnalisée : Si vous ne souhaitez pas stocker vos données dans un cloud public, vous pouvez utiliser SeaTable à partir de 100 utilisateurs via votre propre serveur, que nous gérons et entretenons. Vous bénéficiez ainsi d'un contrôle absolu sur votre serveur en ce qui concerne l'URL, le logo, les couleurs et les modèles. Dans le cloud dédié, vous bénéficiez en outre d'un panneau d'administration d'entreprise, d'une authentification unique par SAML2 et OAuth ainsi que d'un support d'entreprise en option. [Pour en savoir plus, cliquez ici](https://seatable.io/fr/dedicated/).
+Avec Dedicated Cloud, vous bénéficiez d'une offre entièrement personnalisée : Si vous ne souhaitez pas stocker vos données dans un cloud public, vous pouvez utiliser SeaTable à partir de 100 utilisateurs via votre propre serveur, que nous gérons et entretenons. Vous bénéficiez ainsi d'un contrôle absolu sur votre serveur en ce qui concerne l'URL, le logo, les couleurs et les modèles. Dans le cloud dédié, vous bénéficiez en outre d'un panneau d'administration d'entreprise, d'une authentification unique par SAML2 et OAuth ainsi que d'un support d'entreprise en option. [Pour en savoir plus, cliquez ici]({{< relref "pages/product/seatable-dedicated" >}}).
 
 ### Licence SeaTable Enterprise
 
 Vous pouvez bien sûr acheter une licence SeaTable Enterprise auprès de nous. Celle-ci vous permet de créer et d'exploiter facilement votre propre serveur SeaTable.  
-Pour plus d'informations sur la licence SeaTable [, cliquez ici](https://seatable.io/fr/on-premises/).
+Pour plus d'informations sur la licence SeaTable [, cliquez ici]({{< relref "pages/product/seatable-server" >}}).

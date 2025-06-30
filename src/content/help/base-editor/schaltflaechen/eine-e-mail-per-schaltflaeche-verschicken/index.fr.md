@@ -16,11 +16,15 @@ Tout d'abord, lorsque vous créez le [bouton]({{< relref "help/base-editor/schal
 
 ![Sélection de l'action "Envoyer un e-mail](images/send-email-action.png)
 
-Sous **Nom du compte**, sélectionnez un compte à partir duquel vous souhaitez envoyer l'e-mail. Si **aucun compte** ne s'affiche dans ce champ, vous devez d'abord [ajouter](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) un [compte de messagerie à SeaTable](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/).
+Sous **Nom du compte**, sélectionnez un compte à partir duquel vous souhaitez envoyer l'e-mail. Si **aucun compte** ne s'affiche dans ce champ, vous devez d'abord [ajouter]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}) un [compte de messagerie à SeaTable]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
 
 ![Si vous ne voyez pas de compte de messagerie, vous devez d'abord en ajouter un à SeaTable.](images/add-email-account.png)
 
-{{< warning  headline="Remarque"  text="Vous trouverez [ici](https://seatable.io/fr/docs/arbeiten-mit-bases/einrichtung-eines-e-mail-kontos-in-einer-base/) des instructions détaillées sur la manière de configurer votre **compte de messagerie** pour l'envoi d'e-mails. Le **compte** que vous avez ajouté est ensuite disponible lors de la création du bouton." />}}
+{{< warning  headline="Remarque" >}}
+
+Vous trouverez [ici]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}) des instructions détaillées sur la manière de configurer votre **compte de messagerie** pour l'envoi d'e-mails. Le **compte** que vous avez ajouté est ensuite disponible lors de la création du bouton.
+
+{{< /warning >}}
 
 Définissez maintenant l'**objet** et **le contenu** de l'e-mail.
 
@@ -34,7 +38,7 @@ Sélectionnez le(s) **destinataire** (s) de l'e-mail. Vous pouvez également sé
 
 ![Définissez le(s) destinataire(s) de l'e-mail. Vous pouvez également choisir les destinataires qui recevront une copie de l'e-mail ou à qui vous souhaitez répondre par e-mail.](images/send-to-copy-to-reply-to.png)
 
-En option, vous pouvez encore ajouter une **pièce jointe** au courriel. Notez toutefois que vous ne pouvez _pas_ simplement télécharger des fichiers, mais que vous devez d'abord les enregistrer dans une [colonne de fichiers](https://seatable.io/fr/docs/datei-und-bildanhaenge/die-datei-spalte/) du tableau. Dans le champ **Pièces jointes**, vous pouvez ensuite sélectionner une ou plusieurs **colonnes de fichiers** à partir desquelles vous souhaitez joindre les fichiers au courriel.
+En option, vous pouvez encore ajouter une **pièce jointe** au courriel. Notez toutefois que vous ne pouvez _pas_ simplement télécharger des fichiers, mais que vous devez d'abord les enregistrer dans une [colonne de fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) du tableau. Dans le champ **Pièces jointes**, vous pouvez ensuite sélectionner une ou plusieurs **colonnes de fichiers** à partir desquelles vous souhaitez joindre les fichiers au courriel.
 
 ![Les fichiers que vous avez ajoutés dans une colonne de fichier de votre tableau peuvent être utilisés comme pièces jointes du courriel.](images/file-001.png)
 
@@ -42,7 +46,7 @@ En option, vous pouvez encore ajouter une **pièce jointe** au courriel. Notez t
 
 Le [bouton]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) est un type de colonne particulier qui vous permet d'exécuter **plusieurs actions simultanément** en appuyant sur un bouton. Vous pouvez définir l'**ordre chronologique** des actions en conditionnant l'exécution d'une action suivante. Il est ainsi possible d'**enchaîner des actions les unes après les autres**.
 
-Par exemple, il peut arriver que vous [enregistriez un document PDF dans une colonne de fichier](https://seatable.io/fr/docs/andere-spalten/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern/) en un seul clic et que vous souhaitiez ensuite joindre le fichier à un e-mail. Il se peut alors que le courriel soit déjà envoyé avant que le PDF ne soit créé pour la pièce jointe.
+Par exemple, il peut arriver que vous [enregistriez un document PDF dans une colonne de fichier]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) en un seul clic et que vous souhaitiez ensuite joindre le fichier à un e-mail. Il se peut alors que le courriel soit déjà envoyé avant que le PDF ne soit créé pour la pièce jointe.
 
 Pour éviter cela, vous pouvez lier l'exécution des actions des boutons à des **conditions de filtrage**. Dans le cas d'utilisation mentionné, vous pouvez par exemple ajouter comme condition de filtrage que l'e-mail ne sera envoyé **que** si la **colonne de fichier** de la même ligne n'est **pas vide**. Vous établissez ainsi une séquence claire : lorsque le bouton est activé, SeaTable doit d'abord créer un **PDF**, car l'e-mail ne peut être envoyé **qu'avec une pièce jointe**.
 

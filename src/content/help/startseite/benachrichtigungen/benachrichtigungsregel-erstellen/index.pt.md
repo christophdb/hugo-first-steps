@@ -61,4 +61,4 @@ Após disparar a notificação, a notificação definida é automaticamente envi
 
 ### Artigos mais úteis na secção Notificações:
 
-- [Editar e Remover Regras de Notificação](https://seatable.io/pt/docs/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen/)
+- [Editar e Remover Regras de Notificação]({{< relref "help/startseite/benachrichtigungen/benachrichtigungsregeln-bearbeiten-und-entfernen" >}})

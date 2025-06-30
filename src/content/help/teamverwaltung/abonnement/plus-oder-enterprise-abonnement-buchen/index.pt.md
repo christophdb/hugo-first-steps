@@ -31,6 +31,6 @@ A reserva é feita diretamente e as novas funções e limites estão imediatamen
 
 ## Informação importante sobre reservas
 
-- O **método de pagamento padrão** é por cartão de crédito. O [pagamento por factura](https://seatable.io/pt/docs/abo-abrechnung/bezahlung-per-rechnung/) só é possível sob certas condições.
+- O **método de pagamento padrão** é por cartão de crédito. O [pagamento por factura]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}) só é possível sob certas condições.
 - O montante indicado no formulário de reserva abaixo ser-lhe-á **cobrado diretamente** após a conclusão da assinatura.
 - Assim que o pagamento tiver sido efectuado, a sua conta será **automaticamente** actualizada para a subscrição reservada.

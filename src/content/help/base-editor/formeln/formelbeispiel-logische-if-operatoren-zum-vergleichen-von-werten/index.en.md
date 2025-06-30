@@ -39,7 +39,7 @@ After the operator, define the concrete **conditions** that must apply in the co
 
 ![Add a condition to the formula](images/Eine-Bedingung-zur-Formel-hinzufuegen.png)
 
-To populate the salutation with the respective **names**, reference the "First Name" and/or "Last Name" columns with curly braces. Learn more about [merging text columns using a formula](https://seatable.io/en/docs/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel/).
+To populate the salutation with the respective **names**, reference the "First Name" and/or "Last Name" columns with curly braces. Learn more about [merging text columns using a formula]({{< relref "help/base-editor/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel" >}}).
 
 You can then repeat the steps described for defining a condition for **each value** in the "Gender" column. The different conditions must always be separated by a **comma**. Before confirming, it is important that you **close all brackets** so that the formula is accepted as valid.
 

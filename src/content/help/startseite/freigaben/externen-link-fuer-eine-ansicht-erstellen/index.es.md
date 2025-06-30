@@ -19,7 +19,7 @@ Además, dispone de varias opciones con las que puede asegurar un enlace externo
 - Tiene la posibilidad de fijar una **fecha de caducidad automática para** un enlace externo. Tras el número de días seleccionado, el enlace externo pierde su validez.
 - Además, también puede establecer cualquier **contraseña** para un enlace externo. Este debe ser introducido correctamente por otro usuario para poder acceder a la vista.
 
-Todo lo demás que debe saber sobre los enlaces externos se encuentra en el artículo [Creación de un enlace externo para una base](https://seatable.io/es/docs/freigabelinks/externer-link-erklaert/).
+Todo lo demás que debe saber sobre los enlaces externos se encuentra en el artículo [Creación de un enlace externo para una base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}).
 
 ## Crear un enlace externo para una vista
 

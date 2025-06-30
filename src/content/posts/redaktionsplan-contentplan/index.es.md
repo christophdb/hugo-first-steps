@@ -105,7 +105,7 @@ Su plan de contenidos debe **contener al menos columnas para un título provisio
 
 ### 5\. defina directrices generales para sus contenidos
 
-Una vez que haya planificado el contenido, debe desarrollar y documentar las directrices de contenido con su equipo en un [taller](https://seatable.io/es/workshop-planen/). De este modo, podrá asegurarse de que el contenido alcanza una calidad homogénea incluso durante un periodo de tiempo más largo con varios participantes.
+Una vez que haya planificado el contenido, debe desarrollar y documentar las directrices de contenido con su equipo en un [taller]({{< relref "posts/workshop-planen" >}}). De este modo, podrá asegurarse de que el contenido alcanza una calidad homogénea incluso durante un periodo de tiempo más largo con varios participantes.
 
 Incluyen, por ejemplo, **cómo dirigirse a los lectores, la tonalidad de los textos, el uso de emojis y hashtags, la resolución y el tamaño de las imágenes, los enlaces, el formato y mucho más**. Las directrices completan el plan editorial y lo dejan listo para su uso. Si trabajas con autónomos o una agencia, las directrices te ayudan a crear contenidos exactamente como los quieres.
 
@@ -115,7 +115,7 @@ Con la [plantilla]({{< relref "templates/marketing/editorial-plan" >}}) gratuita
 
 ### 1\. estructuración significativa con categorías
 
-Puede crear cualquier número de categorías con las columnas de selección única. La ventaja es que después puede **agrupar, filtrar o realizar análisis estadísticos**. Por ejemplo, puedes mostrar todos los artículos de blog no publicados o solo tu [plan de contenidos para redes sociales](https://seatable.io/es/social-media-plan-vorlage/).
+Puede crear cualquier número de categorías con las columnas de selección única. La ventaja es que después puede **agrupar, filtrar o realizar análisis estadísticos**. Por ejemplo, puedes mostrar todos los artículos de blog no publicados o solo tu [plan de contenidos para redes sociales]({{< relref "templates/marketing/social-media-plan" >}}).
 
 ### 2\. guardar imágenes y documentos en el plan de contenidos
 
@@ -127,7 +127,7 @@ Para mantener una visión general del calendario, puede **pasar de la vista de t
 
 ### 4\. facilidad de comunicación en el plan editorial
 
-La comunicación para planificar las contribuciones a veces se extiende por varios correos electrónicos, chats internos o documentos. Esto puede resultar confuso rápidamente. Con SeaTable, todos los mensajes se agrupan en un solo lugar: **Comunique sus comentarios directamente en el plan editorial**. Esto funciona de forma muy eficaz a través de la [función de comentarios](https://seatable.io/es/docs/arbeiten-mit-zeilen/zeilen-kommentieren/) en las líneas individuales. Puede **hacer un seguimiento de todos los cambios** en el [registro](https://seatable.io/es/docs/arbeiten-mit-zeilen/anzeige-der-veraenderungen-auf-einer-zeile/), de modo que siempre quede claro quién ha hecho qué cambios en el plan editorial.
+La comunicación para planificar las contribuciones a veces se extiende por varios correos electrónicos, chats internos o documentos. Esto puede resultar confuso rápidamente. Con SeaTable, todos los mensajes se agrupan en un solo lugar: **Comunique sus comentarios directamente en el plan editorial**. Esto funciona de forma muy eficaz a través de la [función de comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) en las líneas individuales. Puede **hacer un seguimiento de todos los cambios** en el [registro]({{< relref "help/base-editor/zeilen/anzeige-der-veraenderungen-auf-einer-zeile" >}}), de modo que siempre quede claro quién ha hecho qué cambios en el plan editorial.
 
 ![Comunicación más fácil: puede hacer comentarios directamente en el plan de contenidos](Team-communication.jpg)
 
@@ -135,7 +135,7 @@ Comunicación sencilla y directa en el plan editorial
 
 ### 5 Crear claridad con estadísticas
 
-¿Le gustaría experimentar con diferentes datos y analizar sus contenidos según sus deseos? Entonces **cree [estadísticas](https://seatable.io/es/docs/plugins/anleitung-zum-statistik-plugin/) significativas con SeaTable**. Por ejemplo, analice en qué meses ha publicado un número especialmente elevado de posts, qué empleado ha escrito más posts o en qué canal ha tenido más éxito el contenido. De este modo, obtendrá información muy valiosa sobre los aspectos positivos y los aspectos mejorables.
+¿Le gustaría experimentar con diferentes datos y analizar sus contenidos según sus deseos? Entonces **cree [estadísticas]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) significativas con SeaTable**. Por ejemplo, analice en qué meses ha publicado un número especialmente elevado de posts, qué empleado ha escrito más posts o en qué canal ha tenido más éxito el contenido. De este modo, obtendrá información muy valiosa sobre los aspectos positivos y los aspectos mejorables.
 
 ![Las estadísticas proporcionan información valiosa sobre el rendimiento de los contenidos.](Statistics.jpg)
 
@@ -149,6 +149,6 @@ En definitiva, debe asegurarse de que ...
 
 ## Conclusión sobre el plan de contenidos
 
-Cuando se crea un [plan de marketing](https://seatable.io/es/marketingplan-vorlage/), se necesita un plan de contenidos claro para hacer un seguimiento de los contenidos previstos, los plazos, las tareas y su estado. Esto te permitirá planificar y realizar con éxito las aportaciones en equipo.
+Cuando se crea un [plan de marketing]({{< relref "templates/marketing/content-calendar" >}}), se necesita un plan de contenidos claro para hacer un seguimiento de los contenidos previstos, los plazos, las tareas y su estado. Esto te permitirá planificar y realizar con éxito las aportaciones en equipo.
 
 Si hemos despertado su interés por SeaTable, [regístrese gratis]({{< relref "pages/registration" >}}) en nuestra nube y empiece a trabajar directamente con la plantilla del plan de contenidos.

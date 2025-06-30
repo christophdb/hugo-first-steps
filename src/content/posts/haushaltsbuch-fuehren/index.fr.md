@@ -52,7 +52,7 @@ Dans votre livre de comptes numérique, vous pouvez inscrire toutes vos dépense
 - Montant de la dépense et téléchargement de la facture
 - la date, le mois et l'organisme payeur de la dépense
 
-Qu'il s'agisse des achats, du loyer et des charges, de l'assurance automobile ou des cours particuliers pour votre fils, SeaTable vous permet de garder une vue d'ensemble de tous vos frais. Les [colonnes à sélection simple](https://seatable.io/fr/docs/auswahlspalten/anlegen-einer-einfachauswahl-spalte/) vous permettent de **classer**, **filtrer** et **regrouper** vos dépenses de manière individuelle. Pour un ordre chronologique dans votre livre de comptes, il vous suffit de **trier** vos dépenses par [date](https://seatable.io/fr/docs/datum-dauer-und-personen/die-datum-spalte/). Deux autres tableaux vous permettent de lister vos **revenus** mensuels et de calculer votre **budget** excédentaire.
+Qu'il s'agisse des achats, du loyer et des charges, de l'assurance automobile ou des cours particuliers pour votre fils, SeaTable vous permet de garder une vue d'ensemble de tous vos frais. Les [colonnes à sélection simple]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) vous permettent de **classer**, **filtrer** et **regrouper** vos dépenses de manière individuelle. Pour un ordre chronologique dans votre livre de comptes, il vous suffit de **trier** vos dépenses par [date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). Deux autres tableaux vous permettent de lister vos **revenus** mensuels et de calculer votre **budget** excédentaire.
 
 Si vous souhaitez utiliser le modèle pour votre livre de comptes, [il vous suffit de vous inscrire gratuitement]({{< relref "pages/registration" >}}) dans SeaTable. Vous pourrez ensuite importer le [modèle]({{< relref "templates/finance/budget-book" >}}) dans votre espace de travail et l'adapter de manière flexible à vos besoins.
 
@@ -128,7 +128,7 @@ Les plats préparés pour chaque pause déjeuner peuvent être coûteux. Dans ce
 
 Si vous achetez des plats préparés coûteux au supermarché à chaque pause déjeuner, si vous commandez des repas au bureau ou si vous mangez au snack du coin, vous perdez environ 5 à 10 euros par jour ouvrable. Cela peut rapidement atteindre 150 euros par mois. Préparer plutôt de grandes quantités de nourriture et réchauffer vos plats préférés pendant la pause déjeuner. Vous aurez ainsi plus de budget pour d'autres choses dans votre budget.
 
-[Dans cet article, vous découvrirez comment Meal Prep peut vous permettre de passer la semaine non seulement à moindre coût, mais aussi plus sainement.](https://seatable.io/fr/meal-prep-gesund-und-guenstig-essen-vorkochen/)
+[Dans cet article, vous découvrirez comment Meal Prep peut vous permettre de passer la semaine non seulement à moindre coût, mais aussi plus sainement.]({{< relref "posts/meal-prep" >}})
 
 ### 11\. éviter les compléments alimentaires
 
@@ -148,4 +148,4 @@ En même temps, vous pouvez établir des habitudes positives : Par exemple, il e
 
 Comme vous pouvez le constater : Surveiller vos dépenses et votre train de vie n'a que des avantages. Avec un livre de comptes, vous restez toujours maître de la situation et vous savez exactement où est passé votre argent. SeaTable s'adapte à vos besoins. Si vous utilisiez Excel pour votre livre de comptes, vous pouvez facilement importer vos tableaux dans SeaTable. Vous pouvez [vous inscrire gratuitement]({{< relref "pages/registration" >}}) et essayer SeaTable !
 
-Si vous souhaitez utiliser notre modèle, jetez un coup d'œil à notre section Template [Finance](https://seatable.io/fr/modeles/finanzen/). Il existe encore bien d'autres cas d'application où SeaTable peut vous faciliter la vie au quotidien.
+Si vous souhaitez utiliser notre modèle, jetez un coup d'œil à notre section Template [Finance]({{< relref "templates" >}}finanzen/). Il existe encore bien d'autres cas d'application où SeaTable peut vous faciliter la vie au quotidien.

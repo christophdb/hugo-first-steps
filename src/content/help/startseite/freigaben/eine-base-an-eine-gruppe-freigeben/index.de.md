@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/eine-base-an-eine-gruppe-freigeben'
 ---
 
-Bases gehören in SeaTable immer einem **Benutzer** oder einer **Gruppe**. Daher können Sie Bases entweder an Gruppen oder [an einzelne Benutzer freigeben](https://seatable.io/docs/freigaben/anlegen-einer-benutzerfreigabe/). Dieser Artikel beleuchtet die Freigabe einer Base an eine gesamte Gruppe.
+Bases gehören in SeaTable immer einem **Benutzer** oder einer **Gruppe**. Daher können Sie Bases entweder an Gruppen oder [an einzelne Benutzer freigeben]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). Dieser Artikel beleuchtet die Freigabe einer Base an eine gesamte Gruppe.
 
 Hierbei können Sie für jede Base individuell entscheiden, ob es sich um eine **Lesefreigabe** oder um eine **Lese- und Schreibfreigabe** handeln soll. {{< warning  type="warning" headline="Hinweis"  text="Wenn Sie einer Gruppe eine **Lese- und Schreibfreigabe** erteilen, können **alle Mitglieder** der Gruppe die Inhalte der Base **sehen** und **bearbeiten**. Sie können aber **keine Plugins** installieren und die Base **nicht** mit weiteren Benutzern und Gruppen **teilen**." />}}
 

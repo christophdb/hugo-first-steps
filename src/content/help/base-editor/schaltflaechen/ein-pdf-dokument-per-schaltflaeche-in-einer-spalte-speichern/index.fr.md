@@ -12,7 +12,7 @@ Un **bouton** permet d'enregistrer des documents PDF dans des colonnes de fichie
 
 ## Enregistrer les documents PDF par un bouton dans une colonne
 
-Les boutons vous permettent d'enregistrer des documents PDF dans [les colonnes de fichiers](https://seatable.io/fr/docs/datei-und-bildanhaenge/die-datei-spalte/) de vos tableaux. Cette action est disponible lors de la création d'un bouton, dès que vous avez configuré le [plugin de conception de page](https://seatable.io/fr/?post_type=docs&p=19223) dans le tableau correspondant.
+Les boutons vous permettent d'enregistrer des documents PDF dans [les colonnes de fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) de vos tableaux. Cette action est disponible lors de la création d'un bouton, dès que vous avez configuré le [plugin de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) dans le tableau correspondant.
 
 La première étape consiste à nommer la **colonne** et à définir le **libellé** et **la couleur** du bouton que vous souhaitez ajouter à vos lignes.
 
@@ -22,7 +22,7 @@ Vous définissez ensuite **l'** action **"Enregistrer le fichier PDF dans la col
 
 ![Sélection de l'action : Enregistrer le fichier PDF dans la colonne](images/create-pdf-design-and-save-to-column.png)
 
-Ensuite, vous choisissez une **page** dans le plug-in de conception de page qui doit être enregistrée en tant que fichier PDF. Vous pouvez choisir parmi les pages existantes ou en [ajouter](https://seatable.io/fr/?post_type=docs&p=19223) une nouvelle.
+Ensuite, vous choisissez une **page** dans le plug-in de conception de page qui doit être enregistrée en tant que fichier PDF. Vous pouvez choisir parmi les pages existantes ou en [ajouter]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) une nouvelle.
 
 ![Sélection de la page du plugin de conception de page qui doit être enregistrée dans la colonne au format PDF](images/select-file-to-create-PDF-with.png)
 

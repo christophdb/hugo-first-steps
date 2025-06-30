@@ -38,4 +38,8 @@ Em princípio, todas as aplicações devem funcionar com a autenticação de doi
 
 O nosso favorito pessoal é o [2FA Authenticator](https://2fas.com/).
 
-{{< warning  headline="Nota"  text="Se apenas pretender adicionar a autenticação de dois factores **a um único membro da equipa**, leia o artigo [Ativar a autenticação de dois factores para um membro da equipa](https://seatable.io/pt/docs/teamverwaltung/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren/)." />}}
+{{< warning  headline="Nota" >}}
+
+Se apenas pretender adicionar a autenticação de dois factores **a um único membro da equipa**, leia o artigo [Ativar a autenticação de dois factores para um membro da equipa]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-ein-teammitglied-aktivieren" >}}).
+
+{{< /warning >}}

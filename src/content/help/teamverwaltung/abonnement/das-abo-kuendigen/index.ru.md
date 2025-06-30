@@ -18,4 +18,4 @@ url: '/ru/pomoshch/das-abo-kuendigen'
 
 ## Удалить команду полностью
 
-Если вы хотите не только отменить текущую подписку, но и удалить всю команду, пожалуйста, прочитайте справочную статью [Удалить всю команду](https://seatable.io/ru/docs/teamverwaltung/das-komplette-team-loeschen/).
+Если вы хотите не только отменить текущую подписку, но и удалить всю команду, пожалуйста, прочитайте справочную статью [Удалить всю команду]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}}).

@@ -74,5 +74,5 @@ You can use this function to ensure that the other users use the current status 
 - If you **delete columns** from the shared data set, they remain in the table, but the data is **no longer synchronized**.
 - If you **hide columns** in the shared data set, they remain visible in the table, but the data is **no longer synchronized**.
 - If you **change the column type** in the shared data record, this is also **changed** in the table.
-- If you [add new columns](https://seatable.io/en/docs/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern/) to the table that are not contained in the shared data set, these are **not synchronized** and remain **unchanged**.
+- If you [add new columns]({{< relref "help/startseite/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern" >}}) to the table that are not contained in the shared data set, these are **not synchronized** and remain **unchanged**.
 - If you **rename columns of the shared data set** in the table, the column names are **not synchronized** and remain **changed**.

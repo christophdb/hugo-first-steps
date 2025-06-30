@@ -29,4 +29,8 @@ url: '/ru/pomoshch/berechtigungen-in-einer-gruppe-vergeben'
 
 ![Выбор и подтверждение роли](images/change-authorization-and-close.jpg)
 
-{{< warning  headline="Важное замечание"  text="Если вы не совсем уверены в том, какая из трех ролей имеет те или иные разрешения, вам поможет эта [таблица по разрешениям ролей](https://seatable.io/ru/docs/gruppen/gruppenmitglieder-und-ihre-berechtigungen/)." />}}
+{{< warning  headline="Важное замечание" >}}
+
+Если вы не совсем уверены в том, какая из трех ролей имеет те или иные разрешения, вам поможет эта [таблица по разрешениям ролей]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
+
+{{< /warning >}}

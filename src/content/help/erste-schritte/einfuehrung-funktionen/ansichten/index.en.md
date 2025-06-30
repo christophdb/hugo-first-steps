@@ -36,7 +36,7 @@ With the help of **plugins**, the table view can be supplemented with additional
 
 Plugins allow you to view your data from different angles. In doing so, the data set always remains exactly the same, only the representation changes.
 
-You activate the plugins via the Plugin Manager, which you open via the {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** button in the top right corner of the Base header. You can learn how to add plugins to your Base [here](https://seatable.io/en/docs/plugins/aktivieren-eines-plugins-in-einer-base/). Plugins are always activated only for the opened Base. You may have to repeat the activation of plugins in other Bases.
+You activate the plugins via the Plugin Manager, which you open via the {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** button in the top right corner of the Base header. You can learn how to add plugins to your Base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}). Plugins are always activated only for the opened Base. You may have to repeat the activation of plugins in other Bases.
 
 ![Overview of all plugins in SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 

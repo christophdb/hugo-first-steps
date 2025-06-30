@@ -12,11 +12,11 @@ Zapier lets you create an interface between SeaTable and any of thousands of oth
 
 ## 1\. access linked table contents with lookup columns
 
-SeaTable allows you to link records across two tables. For more details, see [this help article](https://seatable.io/en/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
+SeaTable allows you to link records across two tables. For more details, see [this help article]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}).
 
 ![Linking in SeaTable](images/zapier-linked-columns.png)
 
-Now there is a peculiarity: instead of displaying the desired value (in this case Marion) as in SeaTable, Zapier always returns the rows-ID of the linked entry for a link column. If you want to access the _Marion_ value or other columns of the linked entry, as shown here, you need to create [lookup columns](https://seatable.io/en/docs/verknuepfungen/die-lookup-funktion/) that you can then use to access the desired values. Thus, in this example, you would need to create another lookup column with the name.
+Now there is a peculiarity: instead of displaying the desired value (in this case Marion) as in SeaTable, Zapier always returns the rows-ID of the linked entry for a link column. If you want to access the _Marion_ value or other columns of the linked entry, as shown here, you need to create [lookup columns]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) that you can then use to access the desired values. Thus, in this example, you would need to create another lookup column with the name.
 
 ![linked columns in zapier](images/zapier-linked-columns2.png)
 

@@ -20,7 +20,7 @@ You can delete your **own bases** in SeaTable at any time. Bases that belong to 
 4. Click **Delete**.
 5. Confirm the operation again with **Delete**.
 
-Deleted bases end up in a **recycle bin**. From there, you can first **restore** them. You can find out how to do this [here](https://seatable.io/en/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Deleted bases end up in a **recycle bin**. From there, you can first **restore** them. You can find out how to do this [here]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 {{< warning  headline="Attention"  text="After **30 days**, deleted bases are **automatically** removed from the system and **cannot** be recovered." />}}
 

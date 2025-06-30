@@ -1,7 +1,7 @@
 ---
 title: 'Formulaires web'
 date: 2022-08-25
-lastmod: '2024-02-14'
+lastmod: '2025-06-27'
 categories:
     - 'webformulare'
 author: 'cdb'
@@ -12,24 +12,17 @@ url: '/fr/aide/webformulare'
 
 Familiarisez-vous avec la fonction de formulaire de SeaTables pour collecter facilement des données via des formulaires web !
 
-## Types et fonctionnement des formulaires web
+## Fonctionnement des formulaires web
 
-SeaTable connaît deux types de formulaires web :
-
-- **Formulaire web classique**: Le formulaire web classique est idéal pour les **enquêtes en ligne** et la saisie structurée de nouvelles données. Les colonnes du tableau sont intégrées à l'aide de **champs de formulaire** et les utilisateurs sont guidés tout au long du processus de remplissage. Pour y accéder, vous créez un lien qui permet aux utilisateurs **qui n'ont pas de compte SeaTable de** remplir le formulaire Web. Un formulaire web rempli correspond à **un enregistrement** ou à une ligne ajoutée dans la table correspondante.
-- **Formulaire de collecte**: Les formulaires collectifs permettent d'actualiser et d'étendre facilement les données créées en équipe. L'avantage par rapport au formulaire classique réside dans le fait que l'on peut saisir **plusieurs enregistrements** dans un seul formulaire. Un formulaire collectif ressemble à première vue à un tableau normal, mais l'utilisateur ne voit que les enregistrements qu'il a lui-même créés. Tous les autres enregistrements lui sont cachés. **Seuls les utilisateurs connectés** peuvent accéder aux liens vers les formulaires collectifs.
-
-{{< warning  headline="Pas de formulaires collectifs sélectionnables"  text="L'option de création de formulaires collectifs est destinée aux **systèmes auto-hébergés** et est donc masquée dans **SeaTable Cloud (Free, Plus & Enterprise)**." />}}
+Le formulaire web classique est idéal pour les **enquêtes en ligne** et la saisie structurée de nouvelles données. Les colonnes du tableau sont intégrées à l'aide de **champs de formulaire** et les utilisateurs sont guidés tout au long du processus de remplissage. Pour y accéder, vous créez un lien qui permet aux utilisateurs **qui n'ont pas de compte SeaTable** de remplir le formulaire Web. Un formulaire web rempli correspond à **un enregistrement** ou à une ligne ajoutée dans la table correspondante.
 
 Les formulaires web se réfèrent toujours à une **table** dans la base ouverte. C'est pourquoi vous devez d'abord ouvrir la table et la vue concernées avant de créer un formulaire. Dans chaque base, vous pouvez créer et enregistrer un **nombre quelconque** de formulaires web.
 
-## Formulaire classique
+## Créer un formulaire classique
 
-### Créer un formulaire classique
+Ouvrez la gestion des formulaires en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-form" >}} **Formulaires** en haut à droite dans l'en-tête de la base. La gestion des formulaires se présente sous forme de liste vide si aucun formulaire n'a encore été créé dans la base. Sinon, les formulaires déjà existants sont affichés dans la fenêtre ouverte.
 
-Ouvrez la gestion des formulaires en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-form" >}} **Formulaires web** en haut à droite dans l'en-tête de la base. La gestion des formulaires se présente sous forme de liste vide si aucun formulaire n'a encore été créé dans la base. Sinon, les formulaires déjà existants sont affichés dans la fenêtre ouverte.
-
-![Options Formulaire classique et formulaire collectif](images/Optionen-Klassisches-Formular-und-Sammelformular.png)
+![Options Formulaire classique](images/Optionen-Klassisches-Formular.gif)
 
 Vous créez un nouveau formulaire web en cliquant sur **Créer un formulaire web** en bas de la gestion des formulaires, puis en sélectionnant **Formulaire classique**.
 
@@ -55,7 +48,7 @@ Les champs disponibles dans le formulaire dépendent des **colonnes** du tableau
 
 ![Ajouter et configurer des champs dans un formulaire web](images/Add-fields-to-a-web-form.gif)
 
-Glissez **et déposez** les champs du tableau dans votre conception ou cliquez sur le **symbole plus** à droite du nom de la colonne. Vous pouvez modifier l'ordre des champs dans le formulaire web à votre guise en cliquant sur le **symbole à six points** {{< seatable-icon icon="dtable-icon-drag" >}} dans le coin droit d'un champ et en glissant-déposant le champ à l'endroit souhaité.
+**Glissez et déposez** les champs du tableau dans votre conception ou cliquez sur le **symbole plus** à droite du nom de la colonne. Vous pouvez modifier l'ordre des champs dans le formulaire web à votre guise en cliquant sur le **symbole à six points** {{< seatable-icon icon="dtable-icon-drag" >}} dans le coin droit d'un champ et en glissant-déposant le champ à l'endroit souhaité.
 
 {{< warning  headline="Types de colonnes non sélectionnables"  text="Vous ne pouvez en principe pas intégrer dans un formulaire web des colonnes de type Employé, Formule, Formule pour lien, Créateur, Créé, Dernier utilisateur, Dernier traité, Numéro automatique et Bouton." />}}
 
@@ -67,13 +60,13 @@ Dans le projet, vous pouvez cliquer sur chaque champ, ce qui vous permet d'accé
 - un champ doit contenir une **valeur par défaut**,
 - l'affichage du champ dépend d'une **condition**.
 
-{{< warning  headline="Champs de sélection"  text="Pour les champs de sélection simples et multiples, vous pouvez également définir si les valeurs doivent être affichées sous forme de **liste** ou **de liste déroulante**." />}}
+{{< warning  headline="Champs de sélection"  text="Pour les champs de sélection simples et multiples, vous pouvez également définir si les valeurs doivent être affichées sous forme de **liste** ou de **liste déroulante**." />}}
 
 Pour vérifier à quoi ressemble le formulaire pour le destinataire, cliquez en haut à droite sur le bouton **Page du formulaire web**. Le formulaire s'ouvre alors dans un nouvel onglet, tel qu'un autre utilisateur le verrait.
 
 ### Partager le formulaire
 
-Pour rendre le formulaire accessible à d'autres, vous avez besoin d'un **lien**. Vous obtenez le lien pour le formulaire dans l'éditeur de formulaire web en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-share" >}} **Partager**. Vous pouvez utiliser le **lien généré automatiquement** ou créer **votre propre lien** et l'enrichir avec [des valeurs pré-remplies](https://seatable.io/fr/docs/webformulare/formularfelder-per-url-vorbefuellen/).
+Pour rendre le formulaire accessible à d'autres, vous avez besoin d'un **lien**. Vous obtenez le lien pour le formulaire dans l'éditeur de formulaire web en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-share" >}} **Partager**. Vous pouvez utiliser le **lien généré automatiquement** ou créer **votre propre lien** et l'enrichir avec [des valeurs pré-remplies]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}).
 
 ![Nouvelle boîte de dialogue de lien de formulaire dans SeaTable 4.3](images/Formularlink-Dialog.gif)
 
@@ -91,42 +84,10 @@ Ouvrez le formulaire web pour le tester. Depuis l'éditeur de formulaires web, v
 
 Les valeurs saisies dans le formulaire sont enregistrées dans le tableau lié. N'oubliez pas de supprimer les données de test du tableau avant de collecter les données ultérieurement.
 
-### Personnaliser le formulaire
+### Modifier le formulaire
 
-Vous pouvez à tout moment personnaliser les formulaires web à l'aide de l'éditeur de formulaires web. Pour revenir à l'éditeur, accédez à la gestion des formulaires, placez le curseur de la souris sur le nom du formulaire, puis cliquez sur l'**icône en forme de crayon** à droite du nom {{< seatable-icon icon="dtable-icon-rename" >}}.
+Vous pouvez à tout moment modifier les formulaires web à l'aide de l'éditeur de formulaires web. Pour revenir à l'éditeur, accédez à la gestion des formulaires, placez le curseur de la souris sur le nom du formulaire, puis cliquez sur l'**icône en forme de crayon** à droite du nom {{< seatable-icon icon="dtable-icon-rename" >}}.
 
 ### Supprimer le formulaire
 
 Vous pouvez à tout moment supprimer des formulaires web via la gestion des formulaires. Placez le curseur de la souris sur le nom du formulaire, puis cliquez sur l'**icône de la corbeille à** droite du nom {{< seatable-icon icon="dtable-icon-delete" >}}.
-
-## Formulaire de collecte
-
-### Créer un formulaire de collecte
-
-Ouvrez la gestion des formulaires en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-form" >}} **Formulaires web** en haut à droite dans l'en-tête de la base. La gestion des formulaires se présente sous forme de liste vide si aucun formulaire n'a encore été créé dans la base. Sinon, les formulaires déjà existants sont affichés dans la fenêtre ouverte.
-
-![Options Formulaire classique et formulaire collectif](images/Optionen-Klassisches-Formular-und-Sammelformular.png)
-
-Pour créer un nouveau formulaire collectif, cliquez sur **Créer un formulaire web** en bas de la gestion des formulaires et sélectionnez **Formulaire collectif**.
-
-{{< warning  headline="Pas de formulaires collectifs sélectionnables"  text="L'option de création de formulaires collectifs est destinée aux **systèmes auto-hébergés** et est donc masquée dans **SeaTable Cloud (Free, Plus & Enterprise)**." />}}
-
-Saisissez maintenant le **nom** du nouveau formulaire web, qui sera également affiché dans la gestion des formulaires. Utilisez un nom concis afin de garder une vue d'ensemble en cas de nombreux formulaires. Bien entendu, vous pourrez encore adapter le nom plus tard dans l'éditeur de formulaires.
-
-L'**éditeur de formulaires collectifs** s'ouvre alors avec son affichage en deux parties : à gauche, le formulaire est affiché dans un aperçu, à droite se trouvent les paramètres du formulaire collectif.
-
-Les **paramètres du formulaire** sur la droite vous permettent de choisir pour chaque colonne si elle doit être affichée ou masquée dans le formulaire collectif.
-
-{{< warning  headline="Types de colonnes non sélectionnables"  text="Les colonnes de type Employé, Formule, Formule pour le lien, Créateur, Créé, Dernier utilisateur, Dernier traité, Numéro automatique et Bouton ne sont en principe pas affichées dans un formulaire groupé." />}}
-
-Pour vérifier à quoi ressemble le formulaire, cliquez en haut à droite sur le bouton **Formulaire collectif**. Le formulaire de collecte s'ouvre alors dans un nouvel onglet. Vous ne voyez que les entrées du tableau que vous avez créé, c'est-à-dire que vous voyez le tableau comme si quelqu'un vous avait envoyé le lien du formulaire.
-
-Vous pouvez obtenir le **lien** pour le formulaire dans l'éditeur de formulaires génériques en cliquant sur le bouton **Partager** ou via la gestion des formulaires en cliquant sur l'**icône de partage** {{< seatable-icon icon="dtable-icon-share" >}} à droite du nom du formulaire. Envoyez maintenant le lien aux destinataires.
-
-### Adapter le formulaire de collecte
-
-Vous pouvez adapter les formulaires collectifs à tout moment à l'aide de l'éditeur de formulaires collectifs. Pour revenir à l'éditeur, accédez à la gestion des formulaires, placez le curseur de la souris sur le nom du formulaire, puis cliquez sur l'**icône en forme de crayon** à droite du nom {{< seatable-icon icon="dtable-icon-rename" >}}.
-
-### Supprimer le formulaire de collecte
-
-Vous pouvez à tout moment supprimer des formulaires collectifs via la gestion des formulaires. Placez le curseur de la souris sur le nom du formulaire et cliquez ensuite à droite du nom sur l'**icône de la corbeille** {{< seatable-icon icon="dtable-icon-delete" >}}.

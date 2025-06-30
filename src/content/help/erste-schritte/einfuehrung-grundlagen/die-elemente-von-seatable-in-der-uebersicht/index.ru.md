@@ -28,7 +28,7 @@ url: '/ru/pomoshch/die-elemente-von-seatable-in-der-uebersicht'
 
 Каждая база состоит из одной или нескольких таблиц. Таблицы помогают структурировать и связать информацию.
 
-[Подробнее о таблицах →](https://seatable.io/ru/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/)
+[Подробнее о таблицах →]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}})
 
 ### Линии
 
@@ -54,7 +54,7 @@ url: '/ru/pomoshch/die-elemente-von-seatable-in-der-uebersicht'
 
 Помимо представлений, подключаемые модули предлагают дополнительные возможности для наилучшего отображения данных в базе. Галерея идеально подходит для базы с большим количеством фотографий, временная шкала имеет свои преимущества для записей с датами начала и окончания, а доска канбан позволяет легко изменять статус записей. Плагины помогают вам эффективно и результативно работать с данными.
 
-[Узнайте больше о плагинах →](https://seatable.io/ru/docs/plugins/was-ist-ein-plugin/)
+[Узнайте больше о плагинах →]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}})
 
 ## Работа в команде
 
@@ -62,26 +62,26 @@ url: '/ru/pomoshch/die-elemente-von-seatable-in-der-uebersicht'
 
 Вы используете группы, чтобы определить, какие члены команды имеют доступ к одной или нескольким базам. Каждый член команды должен иметь доступ только к тем базам, которые имеют отношение к его работе. Большинство команд в SeaTable создают группы для отдельных рабочих областей, таких как отдел кадров, маркетинг, менеджмент или разработка продуктов. Это позволяет легко и эффективно контролировать доступ.
 
-[Подробнее о группах здесь →](https://seatable.io/ru/docs/arbeiten-mit-gruppen/einfuehrung-in-die-arbeit-mit-gruppen/)
+[Подробнее о группах здесь →]({{< relref "help/startseite/gruppen/einfuehrung-in-die-arbeit-mit-gruppen" >}})
 
 ### Разрешения
 
-[Узнайте больше о разрешениях в группе →](https://seatable.io/ru/docs/arbeiten-mit-gruppen/berechtigungen-in-einer-gruppe-vergeben/)
+[Узнайте больше о разрешениях в группе →]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}})
 
 ### Сотрудничество
 
 SeaTable - это решение, в котором люди должны вместе работать над процессами, структурами и данными. Только работая вместе как команда, вы сможете раскрыть истинный потенциал SeaTable.
 
-[Узнайте больше о сотрудничестве с SeaTable →](https://seatable.io/ru/docs/seatable-nutzen/zusammenarbeit/)
+[Узнайте больше о сотрудничестве с SeaTable →]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}})
 
 ### Управление командой
 
 Администрация команды предоставляет различные функции для администраторов вашей команды. Среди прочего, вы можете управлять членами своей команды и подпиской, просматривать счета или создавать тикеты поддержки.
 
-[Узнайте больше об управлении командой →](https://seatable.io/ru/docs/teamverwaltung-abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht/)
+[Узнайте больше об управлении командой →]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 ### Подписка и выставление счетов
 
 Каждая команда имеет подписку Free, Plus или Enterprise. Эта подписка определяет, сколько данных команде разрешено хранить вместе и какие функции доступны команде.
 
-[Узнайте больше о подписке и выставлении счетов →](https://seatable.io/ru/docs/teamverwaltung-abonnement/abonnement-und-abrechnung-im-ueberblick/)
+[Узнайте больше о подписке и выставлении счетов →]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}})

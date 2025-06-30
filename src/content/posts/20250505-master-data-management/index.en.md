@@ -41,7 +41,7 @@ By maintaining only one master data set that can be accessed by all departments,
 
 {{< /faq >}}
 
- {{< faq "Well-founded analyses and decisions" >}}
+{{< faq "Well-founded analyses and decisions" >}}
 
 Analyzing incorrect or outdated data leads to useless results. In a master data management system, on the other hand, you will find cleansed and updated data that forms a reliable foundation for your analyses and strategic decisions. With the help of BI tools that use this master data, you can uncover reliable figures and insights for reports and presentations.
 
@@ -124,7 +124,7 @@ If you are now convinced and want to introduce a master data management tool, yo
 
 ## Master data management with SeaTable - simple and flexible
 
-SeaTable is a [no-code database]({{< relref "/" >}}) that makes master data management particularly easy for you. An extremely relevant feature for this are [common datasets](https://seatable.io/en/docs/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen/). You can manage and maintain these centrally in order to always provide the latest customer or employee master data, for example. Your departments can use the data records in a wide variety of contexts and adapt them flexibly to their needs. As soon as you synchronize, all changes to the master data record are transferred to the dependent data records so that they are **up-to-date** everywhere.
+SeaTable is a [no-code database]({{< relref "/" >}}) that makes master data management particularly easy for you. An extremely relevant feature for this are [common datasets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}). You can manage and maintain these centrally in order to always provide the latest customer or employee master data, for example. Your departments can use the data records in a wide variety of contexts and adapt them flexibly to their needs. As soon as you synchronize, all changes to the master data record are transferred to the dependent data records so that they are **up-to-date** everywhere.
 
 If you want to customize your master data for different user groups, the **no-code app builder** also offers you an excellent option. You can use it to [create your own apps]({{< relref "posts/20250318-app-erstellen" >}}) without any programming knowledge. You have control over who can see and edit which data and how it is visualized. You can control the access rights of apps even more granularly than the sharing of common datasets.
 

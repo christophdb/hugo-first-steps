@@ -15,7 +15,7 @@ Si aún no sabe por dónde empezar, siga estos pasos:
 
 ## Paso 1: Conozca los conceptos básicos de SeaTable con nuestra guía rápida
 
-Las numerosas funciones de SeaTable pueden parecer un poco abrumadoras al principio, ¡pero no se preocupe! Nuestra guía de inicio [rápido](https://seatable.io/es/kurzanleitung/) está diseñada específicamente para guiarle paso a paso por los conceptos básicos.
+Las numerosas funciones de SeaTable pueden parecer un poco abrumadoras al principio, ¡pero no se preocupe! Nuestra guía de inicio [rápido]({{< relref "pages/quick-guide" >}}) está diseñada específicamente para guiarle paso a paso por los conceptos básicos.
 
 Si prefieres ver vídeos, las instrucciones de nuestro [canal de](https://www.youtube.com/seatable) YouTube te ayudarán sin duda.
 
@@ -35,6 +35,6 @@ Otras fuentes son nuestro [canal de YouTube](https://www.youtube.com/seatable), 
 
 ## ¿Preguntas?
 
-Si tienes preguntas o simplemente necesitas más información sobre determinadas funciones e integraciones: ¡echa un vistazo a nuestra [sección de ayuda](https://seatable.io/es/docs/)! Seguro que encuentras la respuesta a tus preguntas en más de 350 artículos.
+Si tienes preguntas o simplemente necesitas más información sobre determinadas funciones e integraciones: ¡echa un vistazo a nuestra [sección de ayuda]({{< relref "help" >}})! Seguro que encuentras la respuesta a tus preguntas en más de 350 artículos.
 
 También puede visitar el [foro de](https://forum.seatable.com) nuestra [comunidad](https://forum.seatable.com) y hacer una pregunta. Normalmente, todas las preguntas se responden en pocos días.

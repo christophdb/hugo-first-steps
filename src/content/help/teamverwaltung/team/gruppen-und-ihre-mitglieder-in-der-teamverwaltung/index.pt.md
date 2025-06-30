@@ -31,7 +31,7 @@ Saiba tudo sobre os possíveis papéis num grupo no artigo [Membros do grupo e a
 
 ## Atribuir grupos directamente a um novo membro da equipa
 
-Já ao [criar um novo membro da equipa](https://seatable.io/pt/docs/teamverwaltung/ein-neues-teammitglied-hinzufuegen/), pode adicionar directamente uma pessoa a diferentes grupos e atribuir-lhes papéis.
+Já ao [criar um novo membro da equipa]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}), pode adicionar directamente uma pessoa a diferentes grupos e atribuir-lhes papéis.
 
 1. Mudar para a **administração da equipa**.
 2. Clique no item do menu **Equipa**.

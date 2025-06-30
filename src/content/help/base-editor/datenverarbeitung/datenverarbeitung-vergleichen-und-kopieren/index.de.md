@@ -33,7 +33,7 @@ Zur Umsetzung dieser Datenverarbeitungsoperation benötigen Sie **zwei Tabellen 
 
 ![Beispiel-Tabelle für die Pflege von persönlichen Daten der Mtarbeiter](images/example-table-employees-and-personal-data-1.png)
 
-In der zweiten Tabelle erfassen Sie die **offenen Aufgaben**, für die der jeweils zuständige Mitarbeiter in einer weiteren Spalte eingetragen wird. Außerdem legen Sie eine neue Spalte vom Typ [E-Mail](https://seatable.io/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/) an, in die später die E-Mail-Adressen kopiert werden sollen.
+In der zweiten Tabelle erfassen Sie die **offenen Aufgaben**, für die der jeweils zuständige Mitarbeiter in einer weiteren Spalte eingetragen wird. Außerdem legen Sie eine neue Spalte vom Typ [E-Mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) an, in die später die E-Mail-Adressen kopiert werden sollen.
 
 ![Ziel-Tabelle samt Ergebnis-Spalte vor der Ausführung der Datenverarbeitungsaktion](images/table-open-tasks-before-data-processing-operation-1.png)
 

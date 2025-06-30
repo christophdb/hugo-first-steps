@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/wie-man-dateien-dauerhaft-entfernt'
 ---
 
-**Files**, **images** and **signatures** that you **delete** in a table can still be found in the Base [file](https://seatable.io/en/docs/dateien-und-bilder/das-dateimanagement-einer-base/) manager. To remove these permanently, you must also delete the files from the file manager.
+**Files**, **images** and **signatures** that you **delete** in a table can still be found in the Base [file]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) manager. To remove these permanently, you must also delete the files from the file manager.
 
 ## Delete files from the file manager
 

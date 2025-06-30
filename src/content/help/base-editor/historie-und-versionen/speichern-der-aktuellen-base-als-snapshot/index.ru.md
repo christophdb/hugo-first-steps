@@ -28,19 +28,19 @@ url: '/ru/pomoshch/speichern-der-aktuellen-base-als-snapshot'
 
 Снимки баз хранятся в течение определенного периода времени, а затем удаляются.
 
-В [SeaTable Cloud](https://seatable.io/ru/) продолжительность хранения снимков зависит от [подписки вашей команды]({{< relref "pages/prices" >}}):
+В [SeaTable Cloud](https://cloud.seatable.io) продолжительность хранения снимков зависит от [подписки вашей команды]({{< relref "pages/prices" >}}):
 
 - При бесплатной **подписке** снимки сохраняются в течение одного месяца.
 - При **подписке** **Plus** или **Enterprise** моментальные снимки хранятся 6 или 12 месяцев. (Увеличенный срок хранения действует с момента обновления).
 
-Если вы управляете собственным [сервером SeaTable](https://seatable.io/ru/on-premises), вы можете настроить продолжительность хранения снимков индивидуально.
+Если вы управляете собственным [сервером SeaTable]({{< relref "pages/product/seatable-server" >}}), вы можете настроить продолжительность хранения снимков индивидуально.
 
 ## Хотите узнать больше о моментальных снимках?
 
 Следующие статьи могут заинтересовать вас в связи с работой с моментальными снимками:
 
 - [Восстановление моментального снимка]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}})
-- [Возможности восстановления данных с помощью SeaTable](https://seatable.io/ru/docs/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung/)
+- [Возможности восстановления данных с помощью SeaTable]({{< relref "help/base-editor/historie-und-versionen/moeglichkeiten-der-datenwiederherstellung" >}})
 
 ## Часто задаваемые вопросы
 

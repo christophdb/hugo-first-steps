@@ -67,7 +67,7 @@ A base para a gestão de tarefas pode ser usada completamente como uma base de t
 
 ### Comunicação em equipa num só lugar
 
-SeaTable permite a comunicação directa dentro das tabelas, eliminando a necessidade de comunicação por correio electrónico fora da Base. Ao abrir uma fila, o pessoal pode ser acrescentado à discussão no [campo de comentários](https://seatable.io/pt/docs/handbuch/zusammenarbeit/kommentare/) à direita e podem ser enviados comentários, perguntas ou feedback. Desta forma, todos sabem exactamente a que tarefa se refere uma pergunta e a comunicação é transparente, síncrona e rastreável.
+SeaTable permite a comunicação directa dentro das tabelas, eliminando a necessidade de comunicação por correio electrónico fora da Base. Ao abrir uma fila, o pessoal pode ser acrescentado à discussão no [campo de comentários]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) à direita e podem ser enviados comentários, perguntas ou feedback. Desta forma, todos sabem exactamente a que tarefa se refere uma pergunta e a comunicação é transparente, síncrona e rastreável.
 
 ## Gestão de tarefas com a direcção Kanban
 
@@ -79,7 +79,7 @@ Outras categorizações são também concebíveis, tais como de acordo com pacot
 
 ### Opiniões individuais para cada empregado
 
-Para os quadros individuais do seu pessoal, devem ser criadas previamente [vistas](https://seatable.io/pt/docs/handbuch/seatable-nutzen/ansichten/) separadas. Para o fazer, basta definir um filtro em que a coluna "Responsável" deve conter o nome de um determinado membro do pessoal ("Responsável por XY"). Isto faz com que todos os outros colegas desapareçam da visualização e apenas sejam apresentadas as tarefas do funcionário em causa. Esta função está incluída em todas as licenças e oferece infinitas possibilidades de design. Se pretender criar uma vista apenas com tarefas em aberto, por exemplo, a função de filtro é "Estado não concluído".
+Para os quadros individuais do seu pessoal, devem ser criadas previamente [vistas]({{< relref "help/base-editor/ansichten" >}}) separadas. Para o fazer, basta definir um filtro em que a coluna "Responsável" deve conter o nome de um determinado membro do pessoal ("Responsável por XY"). Isto faz com que todos os outros colegas desapareçam da visualização e apenas sejam apresentadas as tarefas do funcionário em causa. Esta função está incluída em todas as licenças e oferece infinitas possibilidades de design. Se pretender criar uma vista apenas com tarefas em aberto, por exemplo, a função de filtro é "Estado não concluído".
 
 As inúmeras opções de filtros oferecem visões altamente individuais da sua gestão de tarefas e pode adoptar uma perspectiva diferente em qualquer altura. O bom é que as diferentes visões são todas completamente independentes umas das outras na sua apresentação. Um filtro na vista A não influencia a visualização na vista B. No entanto, a alteração dos dados corre sempre sincronizada e é imediatamente implementada em todas as vistas.
 

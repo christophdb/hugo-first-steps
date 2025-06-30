@@ -16,7 +16,7 @@ url: '/ru/pomoshch/alle-plugins-in-der-uebersicht'
 
 В SeaTable вы можете создавать различные **представления** для своих таблиц, в которых вы можете [фильтровать]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}}) данные по своему усмотрению.
 
-**Плагин** - это дополнительный программный компонент SeaTable, который предлагает вам дополнительные возможности отображения. В каждой базе можно активировать различные плагины, которые отображают данные соответствующих таблиц и представлений, например, в **календарях**, **документах** или **галереях**. Подробнее о том [, как активировать плагин](https://seatable.io/ru/docs/plugins/aktivieren-eines-plugins-in-einer-base/), читайте в статье справки по ссылке.
+**Плагин** - это дополнительный программный компонент SeaTable, который предлагает вам дополнительные возможности отображения. В каждой базе можно активировать различные плагины, которые отображают данные соответствующих таблиц и представлений, например, в **календарях**, **документах** или **галереях**. Подробнее о том [, как активировать плагин]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}), читайте в статье справки по ссылке.
 
 ## Плагин календаря
 
@@ -24,7 +24,7 @@ url: '/ru/pomoshch/alle-plugins-in-der-uebersicht'
 
 ![](images/Calendar.png)
 
-[Подробнее о плагине для календаря](https://seatable.io/ru/docs/plugins/anleitung-zum-kalender-plugin/)
+[Подробнее о плагине для календаря]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
 
 Эти статьи также могут быть вам интересны:
 
@@ -74,15 +74,6 @@ url: '/ru/pomoshch/alle-plugins-in-der-uebersicht'
 ![](images/Pagedesign.png)
 
 [Подробнее о плагине для дизайна страниц]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
-
-Эти статьи также могут быть вам интересны:
-
-- [Статичное изображение](https://seatable.io/ru/docs/seitendesign-plugin/statisches-bild/)
-- [Статический текст](https://seatable.io/ru/docs/seitendesign-plugin/statischer-text/)
-- [Динамические элементы](https://seatable.io/ru/docs/seitendesign-plugin/dynamische-elemente/)
-- [Верхний и нижний колонтитулы](https://seatable.io/ru/docs/seitendesign-plugin/kopf-und-fusszeile/)
-- [Записи и страницы](https://seatable.io/ru/docs/seitendesign-plugin/eintraege-und-seiten/)
-- [Поля таблицы](https://seatable.io/ru/docs/seitendesign-plugin/tabellenfelder/)
 
 ## Подключаемый модуль Kanban
 

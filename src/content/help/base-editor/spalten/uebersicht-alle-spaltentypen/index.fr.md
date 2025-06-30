@@ -40,7 +40,7 @@ Dans ce type de colonne, vous pouvez enregistrer **des textes plus longs** avec 
 
 symbole : {{< seatable-icon icon="dtable-icon-number" >}} **Nombre**
 
-Les colonnes de nombres stockent **des informations numériques** et peuvent être utilisées de différentes manières pour travailler avec des nombres de toutes sortes. Une information numérique peut être un **nombre**, un **pourcentage** ou une **somme d'argent**. De plus, les colonnes numériques vous permettent de **calculer des valeurs** que vous pouvez visualiser à l'aide de formules et [de statistiques](https://seatable.io/fr/docs/seatable-nutzen/statistiken/). Cependant, les colonnes numériques ne conviennent pas pour stocker des chaînes de caractères de n'importe quelle longueur et SeaTable refuse de saisir des lettres dans ce type de colonne.
+Les colonnes de nombres stockent **des informations numériques** et peuvent être utilisées de différentes manières pour travailler avec des nombres de toutes sortes. Une information numérique peut être un **nombre**, un **pourcentage** ou une **somme d'argent**. De plus, les colonnes numériques vous permettent de **calculer des valeurs** que vous pouvez visualiser à l'aide de formules et [de statistiques]({{< relref "help/base-editor/statistiken" >}}). Cependant, les colonnes numériques ne conviennent pas pour stocker des chaînes de caractères de n'importe quelle longueur et SeaTable refuse de saisir des lettres dans ce type de colonne.
 
 [En savoir plus sur la colonne des chiffres]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
 
@@ -98,15 +98,15 @@ le symbole : {{< seatable-icon icon="dtable-icon-email" >}} **E-mail**
 
 Les colonnes d'e-mails sont des colonnes de texte spécialisées pour la saisie et l'enregistrement d'**adresses e-mail** et permettent une utilisation directe par un simple clic de souris. La colonne e-mail est particulièrement pratique pour les formulaires web. L'utilisation d'un champ e-mail à la place d'une colonne de texte garantit que la saisie a la syntaxe d'une adresse e-mail valide. En outre, les colonnes d'e-mails peuvent être utilisées pour envoyer des e-mails via des [boutons]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) et [des automatisations]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).
 
-Si vous avez besoin d'informations plus détaillées sur la colonne des e-mails, jetez un coup d'œil à cet [article](https://seatable.io/fr/docs/text-und-zahlen/die-e-mail-spalte-und-ihre-verwendung/).
+Si vous avez besoin d'informations plus détaillées sur la colonne des e-mails, jetez un coup d'œil à cet [article]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}).
 
 ### URL
 
 symbole : {{< seatable-icon icon="dtable-icon-url" >}} **URL**
 
-Les colonnes URL interprètent les informations saisies comme une **ressource** du réseau local ou d'Internet et permettent un appel direct par un clic. Comme les entrées dans ce type de colonne ne sont pas validées, il est possible d'enregistrer dans une cellule une adresse Internet (par ex. https://seatable.io) ou une adresse IP (par ex. 192.168.178.1).
+Les colonnes URL interprètent les informations saisies comme une **ressource** du réseau local ou d'Internet et permettent un appel direct par un clic. Comme les entrées dans ce type de colonne ne sont pas validées, il est possible d'enregistrer dans une cellule une adresse Internet (par ex. https://seatable.com) ou une adresse IP (par ex. 192.168.178.1).
 
-[En savoir plus sur la colonne URL](https://seatable.io/fr/docs/text-und-zahlen/die-url-spalte/)
+[En savoir plus sur la colonne URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}})
 
 ### Case à cocher
 
@@ -166,9 +166,9 @@ Vous trouverez plus d'informations sur le bouton et les actions pouvant être d�
 
 le symbole : {{< seatable-icon icon="dtable-icon-location" >}} **Géoposition**
 
-Dans cette colonne, vous pouvez enregistrer **des lieux** et les visualiser plus tard avec le [plug-in de carte](https://seatable.io/fr/docs/plugins/instructions-plugin-de-carte/). Pour cela, vous pouvez choisir d'indiquer le pays et la région ou la latitude et la longitude. Vous avez en outre la possibilité de trouver un pays ou une région à l'aide de la fonction de recherche et de l'ajouter comme entrée.
+Dans cette colonne, vous pouvez enregistrer **des lieux** et les visualiser plus tard avec le [plug-in de carte]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}/). Pour cela, vous pouvez choisir d'indiquer le pays et la région ou la latitude et la longitude. Vous avez en outre la possibilité de trouver un pays ou une région à l'aide de la fonction de recherche et de l'ajouter comme entrée.
 
-[En savoir plus sur la colonne de géopositionnement](https://seatable.io/fr/docs/andere-spalten/die-geopositions-spalte/)
+[En savoir plus sur la colonne de géopositionnement]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}})
 
 ### Signature numérique
 
@@ -176,7 +176,7 @@ Dans une colonne "Signature", vous pouvez déposer **des signatures numériques*
 
 le symbole : {{< seatable-icon icon="dtable-icon-rename" >}} **Signature numérique**
 
-[En savoir plus sur la colonne "Signature".](https://seatable.io/fr/docs/dateien-und-bilder/die-signatur-spalte/)
+[En savoir plus sur la colonne "Signature".]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}})
 
 ## Types de colonnes avec saisie automatique des données
 

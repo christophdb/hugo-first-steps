@@ -13,7 +13,7 @@ weight: 2
 
 ## Регистрация
 
-1. Откройте [сайт SeaTable](https://seatable.io/ru/).
+1. Откройте [сайт SeaTable]({{< relref "/" >}}).
 2. Нажмите на кнопку **Register** в правом верхнем углу.
 3. Введите свой **адрес электронной почты** и подтвердите.
 
@@ -21,7 +21,7 @@ weight: 2
 
 {{< warning headline="Платежная информация не требуется" >}}
 
-В SeaTable Cloud каждая команда всегда начинает с бесплатной подписки. Поэтому вам не нужно предоставлять платежную информацию. Конечно, вы можете [обновить](https://seatable.io/ru/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) свою команду до [подписки Plus или Enterprise](https://seatable.io/ru/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) сразу после первого входа в систему.
+В SeaTable Cloud каждая команда всегда начинает с бесплатной подписки. Поэтому вам не нужно предоставлять платежную информацию. Конечно, вы можете [обновить]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) свою команду до [подписки Plus или Enterprise]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) сразу после первого входа в систему.
 
 {{</ warning >}}
 

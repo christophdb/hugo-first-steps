@@ -47,7 +47,7 @@ Another feature is the **character** on the icon of the columns that contain dat
 
 The overriding rule you should follow when working with shared records is that information flows in only **one direction**. Specifically, this means that changes to shared records and to tables created with a shared record flow in only one direction - toward the **tables**.
 
-If you make changes to a table view that you have published as a **shared data set**, these changes are also applied to all tables that were created with the corresponding shared data set. The prerequisite for this is a **synchronization of the respective tables with the data set**, which [can be done both automatically and manually](https://seatable.io/en/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+If you make changes to a table view that you have published as a **shared data set**, these changes are also applied to all tables that were created with the corresponding shared data set. The prerequisite for this is a **synchronization of the respective tables with the data set**, which [can be done both automatically and manually]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 If, on the other hand, you make changes to the data from the shared data set in a table that you have created with a shared data set, these changes do **not** affect the structure of the shared data set. The changes then apply **exclusively** to your table and will be **overwritten** again the next time you **synchronize** with the data set.
 

@@ -74,5 +74,5 @@ Esta função pode ser utilizada para garantir que os outros utilizadores utiliz
 - Se **eliminar colunas** do conjunto de dados partilhados, estas permanecem na tabela, mas os dados deixam de ser **sincronizados**.
 - Se **ocultar colunas** no conjunto de dados partilhados, estas permanecem visíveis na tabela, mas os dados deixam de ser **sincronizados**.
 - Se **o tipo de coluna** for modificado no registo de dados partilhados, este também é **modificado** na tabela.
-- Se [adicionar novas colunas](https://seatable.io/pt/docs/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern/) à tabela que não estejam contidas no conjunto de dados partilhados, estas **não** são **sincronizadas** e permanecem **inalteradas**.
+- Se [adicionar novas colunas]({{< relref "help/startseite/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern" >}}) à tabela que não estejam contidas no conjunto de dados partilhados, estas **não** são **sincronizadas** e permanecem **inalteradas**.
 - Se **renomear colunas do conjunto de dados partilhados** na tabela, os nomes das colunas **não** são **sincronizados** e permanecem **alterados**.

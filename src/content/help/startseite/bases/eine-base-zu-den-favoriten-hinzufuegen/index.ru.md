@@ -36,4 +36,4 @@ url: '/ru/pomoshch/eine-base-zu-den-favoriten-hinzufuegen'
 - Выпущен для меня
 - Группа 1
 - Группа 2
-- ... (все ваши группы следуют в любом [порядке, который вы можете изменить](https://seatable.io/ru/docs/arbeiten-mit-gruppen/die-reihenfolge-der-gruppen-aendern/))
+- ... (все ваши группы следуют в любом [порядке, который вы можете изменить]({{< relref "help/startseite/gruppen/die-reihenfolge-der-gruppen-aendern" >}})

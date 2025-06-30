@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/tipps-zum-arbeiten-mit-formeln'
 ---
 
-Vous trouverez ici des aides et des conseils qui vous faciliteront le travail avec les formules de Seatable. Vous trouverez [ici](https://seatable.io/fr/docs/formeln/formelreferenz/) une liste de toutes les formules disponibles.
+Vous trouverez ici des aides et des conseils qui vous faciliteront le travail avec les formules de Seatable. Vous trouverez [ici]({{< relref "help/base-editor/formeln/formelreferenz" >}}) une liste de toutes les formules disponibles.
 
 ## Utiliser les espaces et les retours à la ligne
 
@@ -56,4 +56,4 @@ Une manière optimale de planifier une formule pourrait par exemple ressembler �
 
 **Conseil**: Il peut être utile, surtout au début, de n'écrire d'abord que des parties d'une formule et de la compléter ensuite au fur et à mesure avec d'autres éléments.
 
-6. Contrôlez votre formule pour détecter d'éventuels **messages d'erreur**. Si vous en voyez d'autres, essayez d'abord de les corriger vous-même. Si vous avez besoin d'aide supplémentaire, consultez notre article d'aide sur [les erreurs typiques lors de l'utilisation de formules](https://seatable.io/fr/docs/formeln/typische-fehler-beim-arbeiten-mit-formeln/).
+6. Contrôlez votre formule pour détecter d'éventuels **messages d'erreur**. Si vous en voyez d'autres, essayez d'abord de les corriger vous-même. Si vous avez besoin d'aide supplémentaire, consultez notre article d'aide sur [les erreurs typiques lors de l'utilisation de formules]({{< relref "help/base-editor/formeln/typische-fehler-beim-arbeiten-mit-formeln" >}}).

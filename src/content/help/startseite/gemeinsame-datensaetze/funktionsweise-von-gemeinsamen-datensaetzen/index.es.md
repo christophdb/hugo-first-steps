@@ -25,13 +25,13 @@ En el siguiente resumen también encontrará los enlaces a los distintos artícu
 
 En primer lugar, publique cualquier vista de tabla junto con sus condiciones específicas de filtrado y ordenación como un conjunto de datos común.
 
-[Más información sobre la creación de un registro compartido.](https://seatable.io/es/docs/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes/)
+[Más información sobre la creación de un registro compartido.]({{< relref "help/startseite/gemeinsame-datensaetze/anlegen-eines-gemeinsamen-datensatzes" >}})
 
 ## Gestión de un conjunto de datos compartidos
 
 ¿Desea cambiar el nombre de un registro de datos compartido o saber qué bases están vinculadas al registro de datos?
 
-[Más información sobre la gestión de un conjunto de datos compartidos.](https://seatable.io/es/docs/gemeinsame-datensaetze/verwaltung-eines-gemeinsamen-datensatzes/)
+[Más información sobre la gestión de un conjunto de datos compartidos.]({{< relref "help/startseite/gemeinsame-datensaetze/verwaltung-eines-gemeinsamen-datensatzes" >}})
 
 ## Compartir un registro común con otro grupo
 
@@ -43,32 +43,32 @@ Para poder utilizar un registro compartido en otros grupos, puedes compartirlo c
 
 Puede sincronizar cada tabla que haya creado con un conjunto de datos común. SeaTable compara los datos de la tabla con los del conjunto de datos compartidos. Éstos se sobrescriben si usted o los miembros de su grupo han realizado cambios en el conjunto de datos compartidos desde la última sincronización.
 
-[Más información sobre la sincronización de un conjunto de datos compartido.](https://seatable.io/es/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/)
+[Más información sobre la sincronización de un conjunto de datos compartido.]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}})
 
 ## Crear una nueva tabla con un registro común
 
 Si tú o los miembros de tu equipo queréis utilizar un conjunto de datos común, podéis importarlo a una base. Para ello, cree una nueva tabla con el conjunto de datos compartidos.
 
-[Más información sobre la creación de una nueva tabla con un registro común.](https://seatable.io/es/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/)
+[Más información sobre la creación de una nueva tabla con un registro común.]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}})
 
 ## Añadir columnas a una tabla creada con un conjunto de datos común
 
 Después de haber importado un conjunto de datos comunes como una nueva tabla en una base deseada, puede ampliar la tabla con sus propias columnas como desee.
 
-[Aprenda a añadir columnas a una tabla creada con un conjunto de datos común.](https://seatable.io/es/docs/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern/)
+[Aprenda a añadir columnas a una tabla creada con un conjunto de datos común.]({{< relref "help/startseite/gemeinsame-datensaetze/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern" >}})
 
 ## Reimportación de registros de datos compartidos
 
 Si se copian bases en las que están integrados registros de datos compartidos o se restauran a partir de instantáneas, se pierde la conexión con los registros de datos compartidos. Aunque los datos están entonces disponibles en una tabla normal, ya no se pueden sincronizar.
 
-[Aquí puede averiguar cómo reimportar registros de datos compartidos en tablas existentes.](https://seatable.io/es/docs/gemeinsame-datensaetze/reimport-von-gemeinsamen-datensaetzen/)
+[Aquí puede averiguar cómo reimportar registros de datos compartidos en tablas existentes.]({{< relref "help/startseite/gemeinsame-datensaetze/reimport-von-gemeinsamen-datensaetzen" >}})
 
 ## Borrar un registro común
 
 Por supuesto, los conjuntos de datos compartidos también pueden eliminarse. Sin embargo, tenga en cuenta los efectos que una eliminación tiene tanto en los datos del conjunto de datos compartidos como en las tablas que usted y los miembros de su grupo hayan creado con el conjunto de datos compartidos.
 
-[Más información sobre cómo eliminar un registro compartido.](https://seatable.io/es/docs/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes/)
+[Más información sobre cómo eliminar un registro compartido.]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}})
 
 ### Más artículos útiles en la sección Conjuntos de datos comunes
 
-- [¿Por qué los registros compartidos sólo funcionan en grupo?](https://seatable.io/es/docs/gemeinsame-datensaetze/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen/)
+- [¿Por qué los registros compartidos sólo funcionan en grupo?]({{< relref "help/startseite/gemeinsame-datensaetze/warum-funktionieren-gemeinsame-datensaetze-nur-in-gruppen" >}})

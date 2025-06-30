@@ -130,7 +130,7 @@ Recolha informações completas sobre os seus concorrentes. Utilize fontes públ
 
 Dedique algum tempo a criar perfis pormenorizados dos seus principais concorrentes.
 
-Comparar e avaliar os dados recolhidos. Para o efeito, utilize os **métodos de análise da concorrência** acima mencionados ou escolha outros métodos de análise comprovados, como a [análise SWOT](https://seatable.io/pt/swot-analyse-template/). Esta pode ser utilizada para identificar os pontos fortes e fracos dos seus concorrentes, bem como as oportunidades e os riscos no mercado. Para além da **análise VRIO**, a **análise de benchmark** pode também ajudá-lo a avaliar o desempenho da sua empresa em comparação com os seus concorrentes.
+Comparar e avaliar os dados recolhidos. Para o efeito, utilize os **métodos de análise da concorrência** acima mencionados ou escolha outros métodos de análise comprovados, como a [análise SWOT]({{< relref "templates/operations/swot-analysis" >}}). Esta pode ser utilizada para identificar os pontos fortes e fracos dos seus concorrentes, bem como as oportunidades e os riscos no mercado. Para além da **análise VRIO**, a **análise de benchmark** pode também ajudá-lo a avaliar o desempenho da sua empresa em comparação com os seus concorrentes.
 
 ### 5\. derivar estratégias
 

@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Ihre **Sammlungen** lassen sich ideal über digitale Programme und Apps **verwalten**. Dabei ist es egal, ob es sich bei der Sammlung um physische Gegenstände oder digitale Medien handelt. Zu den beliebtesten Sammlerstücken zählen Münzen, Briefmarken, Schuhe, Kunstwerke, Spielzeug, Sammelkarten, Non Fungible Tokens (NFT), [Bücher](https://seatable.io/buecher-katalogisieren/), Filme, Musik (auf CD, Schallplatten) und mehr. Wenn einen Sammler die Leidenschaft packt, ist die größte Herausforderung oft, den Überblick zu behalten. Hier kommen die Programme ins Spiel, mit denen Sie Ihre Sammlung verwalten können – am PC oder mit einer App.
+Ihre **Sammlungen** lassen sich ideal über digitale Programme und Apps **verwalten**. Dabei ist es egal, ob es sich bei der Sammlung um physische Gegenstände oder digitale Medien handelt. Zu den beliebtesten Sammlerstücken zählen Münzen, Briefmarken, Schuhe, Kunstwerke, Spielzeug, Sammelkarten, Non Fungible Tokens (NFT), [Bücher]({{< relref "posts/buecher-katalogisieren" >}}), Filme, Musik (auf CD, Schallplatten) und mehr. Wenn einen Sammler die Leidenschaft packt, ist die größte Herausforderung oft, den Überblick zu behalten. Hier kommen die Programme ins Spiel, mit denen Sie Ihre Sammlung verwalten können – am PC oder mit einer App.
 
 ![Sammlung aller Briefmarken über ein digitales Tool verwalten.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
 
@@ -54,7 +54,7 @@ Sammlung verwalten © monticellllo / Adobe Stock
 
 ### Data Crow – Freeware zur Medienverwaltung
 
-Die Software [Data Crow](https://www.datacrow.net/) eignet sich vor allem für das Verwalten von Sammlungen, bestehend aus Medien wie [Büchern](https://seatable.io/buecher-katalogisieren/), Musik und Bildern. Hier können Sie verschiedene Sammlungen anlegen und Daten im Format AVI, DIVX, XVID, MP3, MP4, OGG, JPG, SVG und PNG hochladen. Zu den Gegenständen in Ihrer Sammlung findet Data Crow weiterführende Informationen online, wie zum Beispiel bei Filmen über die Rating-Webseite IMDb. Sie haben die Option, die Sammlung mit Freunden und Familie zu teilen und Leihgaben zu vermerken. Data Crow ist eine Open-Source-Software und dementsprechend für Windows und OS kostenfrei erhältlich.
+Die Software [Data Crow](https://www.datacrow.net/) eignet sich vor allem für das Verwalten von Sammlungen, bestehend aus Medien wie [Büchern]({{< relref "posts/buecher-katalogisieren" >}}), Musik und Bildern. Hier können Sie verschiedene Sammlungen anlegen und Daten im Format AVI, DIVX, XVID, MP3, MP4, OGG, JPG, SVG und PNG hochladen. Zu den Gegenständen in Ihrer Sammlung findet Data Crow weiterführende Informationen online, wie zum Beispiel bei Filmen über die Rating-Webseite IMDb. Sie haben die Option, die Sammlung mit Freunden und Familie zu teilen und Leihgaben zu vermerken. Data Crow ist eine Open-Source-Software und dementsprechend für Windows und OS kostenfrei erhältlich.
 
 ### GCstar – kostenfreie Sammlungssoftware
 

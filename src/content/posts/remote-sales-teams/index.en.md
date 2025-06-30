@@ -11,7 +11,7 @@ seo:
     description:
 ---
 
-Most companies take measures to enable working from home and organize online seminars or other events for their employees in addition to home office options. However: you start to miss even the most annoying colleague and the chat at the coffee machine is also missing. With a team that works almost exclusively remotely, it's sometimes difficult to stay up-to-date, and [productivity often suffers](https://seatable.io/en/homeoffice-tipps/) as a result. Luckily, there's a method that could help you reclaim your productivity remotely. With daily stand-ups, you'll improve your team's productivity in no time.
+Most companies take measures to enable working from home and organize online seminars or other events for their employees in addition to home office options. However: you start to miss even the most annoying colleague and the chat at the coffee machine is also missing. With a team that works almost exclusively remotely, it's sometimes difficult to stay up-to-date, and [productivity often suffers]({{< relref "posts/homeoffice-tipps" >}}) as a result. Luckily, there's a method that could help you reclaim your productivity remotely. With daily stand-ups, you'll improve your team's productivity in no time.
 
 ![Productivity suffers from failure to maintain informal communication](Bildschirmfoto-2021-04-21-um-14.59.01.png)
 
@@ -107,7 +107,7 @@ You may also find that stand-ups are especially good in the development phase, b
 
 ### Document stand-ups
 
-Especially in daily meetings, it can happen that one or the other colleague is absent due to another appointment. Let them know how to communicate their absence and keep important information in one place. This way, the missing participant can look up afterwards if something relevant to him happened. For the planning and notes of your remote meetings, we have already provided a template [here]({{< relref "templates/projects/team-meetings" >}}) and also explained in detail in [this post](https://seatable.io/en/team-meetings-remote-organisieren/) how you can create one yourself and adapt it to your needs.
+Especially in daily meetings, it can happen that one or the other colleague is absent due to another appointment. Let them know how to communicate their absence and keep important information in one place. This way, the missing participant can look up afterwards if something relevant to him happened. For the planning and notes of your remote meetings, we have already provided a template [here]({{< relref "templates/projects/team-meetings" >}}) and also explained in detail in [this post]({{< relref "templates/projects/team-meetings" >}}) how you can create one yourself and adapt it to your needs.
 
 Organising an entire team remotely while maintaining high productivity is a challenge. Despite all the technological possibilities at our disposal, it can still be difficult to create a collaborative environment. Daily stand-ups are a great way to update each other and feel part of a bigger picture. Problems are identified early and the sense of belonging is increased.
 

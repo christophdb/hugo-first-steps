@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/de/hilfe/anleitung-zum-organigramm-plugin'
 ---
 
-Mithilfe des Organigramm-Plugins können Sie **Hierarchien** zwischen den Datensätzen in einer Tabelle darstellen. Das ist zum Beispiel nützlich, um die Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt](https://seatable.io/projektstrukturplan-vorlage/) zu visualisieren.
+Mithilfe des Organigramm-Plugins können Sie **Hierarchien** zwischen den Datensätzen in einer Tabelle darstellen. Das ist zum Beispiel nützlich, um die Positionen in einem Unternehmen oder [über- und untergeordnete Aufgaben in einem Projekt]({{< relref "templates/projects/work-breakdown-structure" >}}) zu visualisieren.
 
 Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}
 ).
@@ -17,7 +17,7 @@ Wie Sie das Plugin in einer Base aktivieren, erfahren Sie [hier]({{< relref "hel
 
 ## Voraussetzungen und Funktionsweise des Organigramm-Plugins
 
-Um zu definieren, welche Datensätze voneinander abhängen, brauchen Sie eine [Verknüpfung, die auf ein und dieselbe Tabelle referiert](https://seatable.io/docs/verknuepfungen/verknuepfungen-innerhalb-einer-tabelle/). Der Eintrag, den Sie in dieser Spalte mit einer anderen Zeile derselben Tabelle verlinken, wird als **übergeordneter Datensatz** dargestellt.
+Um zu definieren, welche Datensätze voneinander abhängen, brauchen Sie eine [Verknüpfung, die auf ein und dieselbe Tabelle referiert]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}). Der Eintrag, den Sie in dieser Spalte mit einer anderen Zeile derselben Tabelle verlinken, wird als **übergeordneter Datensatz** dargestellt.
 
 ![Verknüpfungsspalte für ein Organigramm](images/Verknuepfungsspalte-fuer-ein-Organigramm.png)
 

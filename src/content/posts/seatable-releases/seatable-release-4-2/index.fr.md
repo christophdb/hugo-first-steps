@@ -14,11 +14,11 @@ Dans **SeaTable 4.2**, le développement de l'Universal App Builder passe à la 
 
 SeaTable 4.2 n'est cependant pas une simple version App Builder. Les amateurs de formules se réjouiront de la nouvelle **fonction iserror()** et les optimiseurs de processus apprécieront la possibilité d'utiliser l'**action "Modifier l'entrée"** de manière plus polyvalente. Vous découvrirez dans l'article suivant ce qui a encore changé.
 
-Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.2. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.2 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog](https://seatable.io/fr/docs/changelog/version-4/) la liste complète des modifications.
+Ce matin, nous avons mis à jour SeaTable Cloud à la version 4.2. Tous les auto-hébergeurs peuvent faire de même : L'image de SeaTable 4.2 est disponible en téléchargement dans le célèbre [dépôtDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Comme toujours, vous trouverez dans le [changelog]({{< relref "pages/changelog" >}}) la liste complète des modifications.
 
 ## Gestion des versions dans les applications universelles
 
-La [fonctionnalité Snapshot](https://seatable.io/fr/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) fait partie de l'ADN de SeaTable. La version 1.0 permettait déjà de créer des instantanés de l'état d'une base et de les restaurer ultérieurement. Il était donc logique d'intégrer une telle fonction dans l'Universal App Builder.
+La [fonctionnalité Snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) fait partie de l'ADN de SeaTable. La version 1.0 permettait déjà de créer des instantanés de l'état d'une base et de les restaurer ultérieurement. Il était donc logique d'intégrer une telle fonction dans l'Universal App Builder.
 
 ![Gestion des versions dans les applications universelles](Version-management-in-Universal-Apps.gif)
 
@@ -28,11 +28,15 @@ La nouvelle **gestion des versions** se trouve derrière l'icône {{< seatable-i
 
 Lorsque vous restaurez un snapshot enregistré, l'application est restaurée à son état précédent. Toutes les modifications effectuées depuis sont annulées. La restauration d'un snapshot dans l'app fonctionne donc différemment de celle dans la base, où le snapshot est restauré dans une nouvelle base.
 
-{{< warning headline="Attention" text="**Actuellement, les snapshots de la base ne contiennent pas d'apps**. Cela signifie que lors de la [restauration d'un snapshot de la](https://seatable.io/fr/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) base, les apps contenues dans la base ne sont pas restaurées. Cette fonctionnalité sera ajoutée dans une prochaine version de SeaTable." />}}
+{{< warning headline="Attention" >}}
+
+**Actuellement, les snapshots de la base ne contiennent pas d'apps**. Cela signifie que lors de la [restauration d'un snapshot de la]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) base, les apps contenues dans la base ne sont pas restaurées. Cette fonctionnalité sera ajoutée dans une prochaine version de SeaTable.
+
+{{< /warning >}}
 
 ## Contrôle des doublons sur les pages de tableaux et de formulaires
 
-C'est justement dans les applications universelles, par le biais desquelles de nombreux utilisateurs peuvent effectuer de nouvelles entrées dans une base, qu'il est vite arrivé que **des lignes identiques** soient créées. Vous pouvez empêcher cela à l'avenir en activant la fonction empêchant l'ajout de doublons sur les [pages de tableaux et de formulaires](https://seatable.io/fr/docs/apps/seitentypen-in-der-universellen-app/). Vous définissez ainsi les colonnes dans lesquelles les valeurs doivent correspondre pour qu'une ligne soit considérée comme **un doublon**. Si l'ajout d'une ligne est bloqué, un message d'erreur apparaît.
+C'est justement dans les applications universelles, par le biais desquelles de nombreux utilisateurs peuvent effectuer de nouvelles entrées dans une base, qu'il est vite arrivé que **des lignes identiques** soient créées. Vous pouvez empêcher cela à l'avenir en activant la fonction empêchant l'ajout de doublons sur les [pages de tableaux et de formulaires]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Vous définissez ainsi les colonnes dans lesquelles les valeurs doivent correspondre pour qu'une ligne soit considérée comme **un doublon**. Si l'ajout d'une ligne est bloqué, un message d'erreur apparaît.
 
 ![Empêcher l'ajout de doublons dans les applications universelles](Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
@@ -54,13 +58,13 @@ Le développement de l'Universal App Builder se poursuivra sans relâche dans le
 
 ## Modifier les entrées pour les automations périodiques
 
-Jusqu'à présent, vous ne pouviez déclencher l'[action automatisée "Modifier l'entrée"](https://seatable.io/fr/docs/automationen/automations-aktionen/#6-toc-title) que par l'ajout de nouvelles lignes ou la modification d'entrées. Désormais, vous pouvez également **faire exécuter** cette automatisation **périodiquement pour les entrées qui remplissent certaines conditions**. Les entrées du tableau sont alors toujours adaptées à un moment précis, conformément aux paramètres définis au préalable.
+Jusqu'à présent, vous ne pouviez déclencher l'[action automatisée "Modifier l'entrée"]({{< relref "help/base-editor/automationen/automations-aktionen" >}}#6-toc-title) que par l'ajout de nouvelles lignes ou la modification d'entrées. Désormais, vous pouvez également **faire exécuter** cette automatisation **périodiquement pour les entrées qui remplissent certaines conditions**. Les entrées du tableau sont alors toujours adaptées à un moment précis, conformément aux paramètres définis au préalable.
 
 ![Exécuter périodiquement l'action automatisée "Modifier l'entrée".](Run-automated-action-Modify-record-periodically-.png)
 
 ## Nouvelle fonction dans la colonne des formules : iserror()
 
-Pour les [amateurs de formules](https://seatable.io/fr/docs/formeln/grundlagen-von-seatable-formeln/), la nouvelle fonction **iserror()** est un régal. Elle vérifie si un argument est une **valeur d'erreur** (par ex. #DIV/0 !, #VALUE !). Cette fonction permet d'obtenir une meilleure qualité de résultat, en particulier pour les [formules avec opérateurs if](https://seatable.io/fr/docs/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten/).
+Pour les [amateurs de formules]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), la nouvelle fonction **iserror()** est un régal. Elle vérifie si un argument est une **valeur d'erreur** (par ex. #DIV/0 !, #VALUE !). Cette fonction permet d'obtenir une meilleure qualité de résultat, en particulier pour les [formules avec opérateurs if]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
 
 ## Et bien plus encore
 
@@ -72,12 +76,16 @@ Dans SeaTable 4.2, nous avons affiné la fonction de recherche sur la page d'acc
 
 ### Convertir les vues privées en vues normales
 
-À partir de la version 4.2, il est possible de transformer [des vues privées](https://seatable.io/fr/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) en vues non privées (normales) et de les rendre ainsi ultérieurement visibles pour tous les utilisateurs d'une base. Jusqu'à présent, il était uniquement possible de dupliquer une vue normale en tant que vue privée.
+À partir de la version 4.2, il est possible de transformer [des vues privées]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) en vues non privées (normales) et de les rendre ainsi ultérieurement visibles pour tous les utilisateurs d'une base. Jusqu'à présent, il était uniquement possible de dupliquer une vue normale en tant que vue privée.
 
 ### Fonctions supplémentaires pour le traitement des données
 
-Lors de l'opération de traitement des données [Calculer le classement](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/), vous pouvez maintenant choisir l'**ordre** dans lequel les valeurs doivent être listées. Pour cela, indiquez si la plus grande ou la plus petite valeur doit être placée en premier.
+Lors de l'opération de traitement des données [Calculer le classement]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}}), vous pouvez maintenant choisir l'**ordre** dans lequel les valeurs doivent être listées. Pour cela, indiquez si la plus grande ou la plus petite valeur doit être placée en premier.
 
-{{< warning headline="Nouvelle autorisation" text="Dans les [paramètres de sécurité](https://seatable.io/fr/docs/arbeiten-mit-bases/sicherheitseinstellungen-in-einer-base/), vous pouvez, en tant que propriétaire ou administrateur d'une base, déterminer si les utilisateurs ont le droit de créer et de modifier des opérations de traitement des données." />}}
+{{< warning headline="Nouvelle autorisation" >}}
 
-De plus, SeaTable 4.2 prend désormais en charge le type de colonne [Numéro automatique](https://seatable.io/fr/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) pour les opérations de traitement des données [Comparer et relier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/) et [Comparer et copier](https://seatable.io/fr/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/).
+Dans les [paramètres de sécurité]({{< relref "help/base-editor/weitere-optionen/sicherheitseinstellungen-in-einer-base" >}}), vous pouvez, en tant que propriétaire ou administrateur d'une base, déterminer si les utilisateurs ont le droit de créer et de modifier des opérations de traitement des données.
+
+{{< /warning >}}
+
+De plus, SeaTable 4.2 prend désormais en charge le type de colonne [Numéro automatique]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) pour les opérations de traitement des données [Comparer et relier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) et [Comparer et copier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).

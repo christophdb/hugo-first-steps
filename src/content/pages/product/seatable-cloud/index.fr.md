@@ -75,6 +75,6 @@ sections:
           - text: SeaTable Cloud fonctionne dans les centres de données allemands certifiés du fournisseur suisse Exoscale. Nous avons tourné le dos aux prestataires de services américains.
       buttons:
           - label: Lire l'article du blog
-            link: https://seatable.io/die-seatable-cloud-wird-europaeischer/
+            link: 'posts/die-seatable-cloud-wird-europaeischer'
       image: '/images/seatable-1-1024x560-1.png'
 ---

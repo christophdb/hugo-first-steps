@@ -66,7 +66,7 @@ If this setting is **activated**, the corresponding icons for adding, editing or
 
 ## Security settings: Shared users
 
-The second part of the security settings refers to the permissions of the **users** to whom the corresponding [base](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/) is [shared](https://seatable.io/en/docs/freigaben/anlegen-einer-benutzerfreigabe/). In this part you can make the **same** settings that are already available in the first part for all users:
+The second part of the security settings refers to the permissions of the **users** to whom the corresponding [base]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}) is [shared]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}}). In this part you can make the **same** settings that are already available in the first part for all users:
 
 ![Security settings for shared users](images/Security-settings-for-shared-users.png)
 

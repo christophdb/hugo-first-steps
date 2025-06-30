@@ -23,6 +23,6 @@ En tant qu'administrateur d'équipe, vous pouvez ajouter de nouveaux membres à 
 
 ## Les droits d'un administrateur d'équipe
 
-Chaque administrateur d'équipe a **un accès complet** à la gestion d'équipe et dispose **des mêmes droits**. Pour un aperçu précis de toutes les fonctions de la gestion d'équipe, veuillez lire l'article [Les fonctions de la gestion d'équipe en un coup d'œil](https://seatable.io/fr/docs/teamverwaltung/die-funktionen-der-teamverwaltung-in-der-uebersicht/).
+Chaque administrateur d'équipe a **un accès complet** à la gestion d'équipe et dispose **des mêmes droits**. Pour un aperçu précis de toutes les fonctions de la gestion d'équipe, veuillez lire l'article [Les fonctions de la gestion d'équipe en un coup d'œil]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 {{< warning  headline="Remarque"  text="Vous ne pouvez attribuer le statut d'administrateur à des membres de l'équipe que si vous êtes vous-même administrateur de l'équipe. Vous pouvez **retirer** les droits d'administration à l'aide du même curseur que celui avec lequel vous les avez accordés." />}}

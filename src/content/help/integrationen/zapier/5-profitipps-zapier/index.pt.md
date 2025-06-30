@@ -12,11 +12,11 @@ O Zapier permite-lhe criar uma interface entre o SeaTable e uma das milhares de 
 
 ## 1\. aceder ao conteúdo da tabela ligada com colunas de pesquisa
 
-O SeaTable permite-lhe ligar registos entre duas tabelas. Para mais pormenores, consulte [este artigo de ajuda](https://seatable.io/pt/docs/arbeiten-in-tabellen/tabellen-miteinander-verlinken/).
+O SeaTable permite-lhe ligar registos entre duas tabelas. Para mais pormenores, consulte [este artigo de ajuda]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}).
 
 ![Ligações no SeaTable](images/zapier-linked-columns.png)
 
-Agora existe uma caraterística especial: em vez de apresentar o valor pretendido (neste caso Marion) como no SeaTable, o Zapier fornece sempre o ID da linha da entrada associada para uma coluna de ligação. Se pretender aceder ao valor _Marion_ ou a outras colunas da entrada associada, como se mostra aqui, tem de criar [colunas de pesquisa](https://seatable.io/pt/docs/verknuepfungen/die-lookup-funktion/) através das quais pode aceder aos valores pretendidos. Neste exemplo, seria necessário criar outra coluna de pesquisa com o nome.
+Agora existe uma caraterística especial: em vez de apresentar o valor pretendido (neste caso Marion) como no SeaTable, o Zapier fornece sempre o ID da linha da entrada associada para uma coluna de ligação. Se pretender aceder ao valor _Marion_ ou a outras colunas da entrada associada, como se mostra aqui, tem de criar [colunas de pesquisa]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) através das quais pode aceder aos valores pretendidos. Neste exemplo, seria necessário criar outra coluna de pesquisa com o nome.
 
 ![colunas ligadas no zapier](images/zapier-linked-columns2.png)
 

@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Eating as cheaply and healthily as possible with as little time as possible - a trend from the USA promises exactly that. A **balanced diet** is often neglected in stressful everyday life. Instead, we often reach for fast food or unhealthy snacks during lunch breaks, for example, to satisfy our cravings. In this article, you will find out what **meal prep** is all about, what you should look out for when meal prepping and how you can create a smart [weekly meal prep plan](https://seatable.io/en/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan).
+Eating as cheaply and healthily as possible with as little time as possible - a trend from the USA promises exactly that. A **balanced diet** is often neglected in stressful everyday life. Instead, we often reach for fast food or unhealthy snacks during lunch breaks, for example, to satisfy our cravings. In this article, you will find out what **meal prep** is all about, what you should look out for when meal prepping and how you can create a smart [weekly meal prep plan]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan).
 
 ## What exactly is Meal Prep?
 
@@ -66,7 +66,7 @@ Be creative and make sure your dishes are as varied as possible.
 
 ## Step by step to the perfect meal prep
 
-To make the Meal Prep mission a success, you first need a [meal plan](https://seatable.io/en/meal-prep-gesund-und-guenstig-essen-vorkochen/#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). The following **five steps** will help you with the process.
+To make the Meal Prep mission a success, you first need a [meal plan]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). The following **five steps** will help you with the process.
 
 ![How to make your meal prep a success in five simple steps.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 

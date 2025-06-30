@@ -20,8 +20,8 @@ Si vous ne trouvez pas ce que vous cherchez dans le guide de l'utilisateur, vous
 
 Les clients ayant un abonnement payant Plus ou Enterprise ont en outre la possibilité d'ouvrir un ticket d'assistance. Vous trouverez plus de détails dans les articles d'aide suivants :
 
-- [Ouvrir un ticket d'assistance](https://seatable.io/fr/docs/teamverwaltung/ein-support-ticket-eroeffnen/).
-- [Réserver un abonnement Plus ou Enterprise](https://seatable.io/fr/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/)
+- [Ouvrir un ticket d'assistance]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}}).
+- [Réserver un abonnement Plus ou Enterprise]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}})
 
 ## Autres sources d'aide à l'auto-apprentissage
 

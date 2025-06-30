@@ -15,7 +15,7 @@ On July 1, 2020, SeaTable 1.0 saw the light of day. Since then, it has been pull
 
 At first glance, SeaTable 2.0 has a striking resemblance with SeaTable 1.0. In terms of features, user experience, stability, and integration, however, SeaTable 2.0 has come a long way from version 1.0 in July 2020. If you liked SeaTable 1.x, you'll love our latest release.
 
-SeaTable 2.0 boasts an enormous number of feature additions and improvements - all of which you find documented in SeaTable's [SeaTable Changelog](https://seatable.io/en/docs/changelog/version-2-0/). Highlights of this release are three new column types, several new column customization options, two entirely new plugins and major improvements to SeaTable's existing plugins. There are also important changes under the hood: SeaTable 2.0 ships with a new environment for running Python scripts, and system admins will appreciate the monitoring capability provided by the external link page.
+SeaTable 2.0 boasts an enormous number of feature additions and improvements - all of which you find documented in SeaTable's [SeaTable Changelog]({{< relref "pages/changelog" >}}). Highlights of this release are three new column types, several new column customization options, two entirely new plugins and major improvements to SeaTable's existing plugins. There are also important changes under the hood: SeaTable 2.0 ships with a new environment for running Python scripts, and system admins will appreciate the monitoring capability provided by the external link page.
 
 And there is more good news! Thanks to a fantastic community effort, we could add Russian as a fifth interface language besides English, German, French and Chinese.
 
@@ -99,7 +99,7 @@ Keeping track with the developments in the column type department, SeaTable 2.0'
 
 ## Manual snapshots
 
-[Snapshots](https://seatable.io/en/docs/handbuch/seatable-nutzen/versionierung-snapshots/) are a snapshot of a base. They prove their value when a base is to be reset to a previous state after extensive changes.
+[Snapshots]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) are a snapshot of a base. They prove their value when a base is to be reset to a previous state after extensive changes.
 
 In the past, SeaTable created a snapshot of a base automatically every 24 hours when it recorded activity in the base. SeaTable 2.0 now also knows manual snapshots: One click and a snapshot of the base as-is is made. As insurance against unintended data loss, this click is highly recommended whenever the structure of the base (especially column and table deletions) is to be changed.
 

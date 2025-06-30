@@ -39,7 +39,7 @@ Después del operador, defina las **condiciones** concretas que deben aplicarse 
 
 ![Añadir una condición a la fórmula](images/Eine-Bedingung-zur-Formel-hinzufuegen.png)
 
-Para rellenar el saludo con los **nombres** respectivos, haga referencia a las columnas "Nombre" y/o "Apellidos" con llaves. Más información sobre la [combinación de columnas de texto mediante una fórmula](https://seatable.io/es/docs/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel/).
+Para rellenar el saludo con los **nombres** respectivos, haga referencia a las columnas "Nombre" y/o "Apellidos" con llaves. Más información sobre la [combinación de columnas de texto mediante una fórmula]({{< relref "help/base-editor/formeln/formelbeispiel-zusammenfuehren-von-text-spalten-mit-hilfe-einer-formel" >}}).
 
 A continuación, puede repetir los pasos descritos para definir una condición para **cada valor** de la columna "Sexo". Debe separar siempre las distintas condiciones entre sí con una **coma**. Antes de confirmar, es importante que **cierre todos los paréntesis** para que la fórmula se acepte como válida.
 

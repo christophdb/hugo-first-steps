@@ -16,4 +16,8 @@ Selbstverständlich können Sie Spalten in SeaTable duplizieren. Hier erfahren S
 2. Wählen Sie **Spalte duplizieren**.
 3. Die **duplizierte** Spalte erscheint direkt **rechts** neben der ursprünglichen Spalte.
 
-{{< warning  type="warning" headline="Keine Datenübernahme"  text="Bereits bestehende Werte aus der Ursprungsspalte werden **nicht** übernommen. Sie können die Daten aber [per Copy-and-Paste](https://seatable.io/docs/arbeiten-in-bases/hinzufuegen-von-daten-per-copy-and-paste/) von der einen Spalte in die andere kopieren." />}}
+{{< warning  type="warning" headline="Keine Datenübernahme" >}}
+
+Bereits bestehende Werte aus der Ursprungsspalte werden **nicht** übernommen. Sie können die Daten aber [per Copy-and-Paste]({{< relref "help/base-editor/tabellen/hinzufuegen-von-daten-per-copy-and-paste" >}}) von der einen Spalte in die andere kopieren.
+
+{{< /warning >}}

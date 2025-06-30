@@ -48,8 +48,8 @@ Puede utilizar la opción **Gestionar acceso** para compartir su registro de dat
 
 ## Forzar la sincronización con el conjunto de datos compartidos
 
-Como creador de un registro de datos compartido, puede forzar la **sincronización** de las tablas dependientes. Puedes conocer las consecuencias y ventajas de ello [aquí](https://seatable.io/es/docs/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes/).
+Como creador de un registro de datos compartido, puede forzar la **sincronización** de las tablas dependientes. Puedes conocer las consecuencias y ventajas de ello [aquí]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
 ## Borrar un registro de datos compartidos
 
-Si desea eliminar un registro de datos compartidos, [aquí](https://seatable.io/es/docs/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes/) encontrará toda la información importante.
+Si desea eliminar un registro de datos compartidos, [aquí]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}}) encontrará toda la información importante.

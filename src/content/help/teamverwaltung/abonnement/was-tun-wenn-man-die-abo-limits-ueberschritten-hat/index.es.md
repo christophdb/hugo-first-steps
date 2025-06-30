@@ -21,14 +21,14 @@ En nuestra [página de precios]({{< relref "pages/prices" >}}) encontrará un re
 
 ## Cambiar a un paquete de suscripción más amplio
 
-Para poder volver a trabajar plenamente con sus datos, necesita [actualizar](https://seatable.io/es/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/) su suscripción a un [paquete de suscripción más completo](https://seatable.io/es/docs/abo-abrechnung/plus-oder-enterprise-abonnement-buchen/).
+Para poder volver a trabajar plenamente con sus datos, necesita [actualizar]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}) su suscripción a un [paquete de suscripción más completo]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Borrar parte de sus datos
 
 Si no quieres cambiar a un paquete de suscripción más amplio, sólo tienes la opción de **borrar** partes de tus datos hasta que ya **no** alcances los límites de tu suscripción actual. Los siguientes artículos de ayuda pueden ayudarte al respecto:
 
 - [Borrar una base]({{< relref "help/startseite/bases/loeschen-einer-base" >}})
-- [Vaciar la papelera de reciclaje en la administración del equipo](https://seatable.io/es/docs/teamverwaltung/den-papierkorb-in-der-teamverwaltung-leeren/)
-- [Eliminar una tabla de una base](https://seatable.io/es/docs/arbeiten-in-tabellen/loeschen-einer-tabelle-aus-einer-base/)
+- [Vaciar la papelera de reciclaje en la administración del equipo]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
+- [Eliminar una tabla de una base]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
 - [Borrar una línea]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Importación y exportación de datos]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}})

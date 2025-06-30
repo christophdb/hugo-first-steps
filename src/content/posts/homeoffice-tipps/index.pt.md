@@ -12,7 +12,7 @@ seo:
 
 A crise da coroa está actualmente a forçar milhões de pessoas a trabalhar a partir de casa. Alguns acham fácil adaptar-se à nova situação, mas muitos também se debatem com ela. Também não sabe realmente como começar pela manhã? Está sempre a esquecer-se da hora de almoço e, em vez disso, come as suas sandes rapidamente feitas em frente ao seu PC? Dar-lhe-emos dicas valiosas e mostrar-lhe-emos vantagens que lhe facilitarão definitivamente a situação.
 
-É líder de equipa e está a pensar como organizar melhor as suas reuniões semanais a partir do seu escritório em casa? Dê uma olhada [aqui,](https://seatable.io/pt/team-meetings-remote-organisieren/) desenvolvemos o modelo certo para si!
+É líder de equipa e está a pensar como organizar melhor as suas reuniões semanais a partir do seu escritório em casa? Dê uma olhada [aqui,]({{< relref "templates/projects/team-meetings" >}}) desenvolvemos o modelo certo para si!
 
 ## 1\. uma rotina pela manhã
 

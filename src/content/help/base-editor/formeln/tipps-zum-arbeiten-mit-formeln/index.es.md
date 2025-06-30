@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/tipps-zum-arbeiten-mit-formeln'
 ---
 
-Aquí encontrarás ayuda y consejos para facilitar tu trabajo con las fórmulas de Seatable. [Aquí](https://seatable.io/es/docs/formeln/formelreferenz/) encontrará una lista de todas las fórmulas disponibles.
+Aquí encontrarás ayuda y consejos para facilitar tu trabajo con las fórmulas de Seatable. [Aquí]({{< relref "help/base-editor/formeln/formelreferenz" >}}) encontrará una lista de todas las fórmulas disponibles.
 
 ## Utilizar espacios y saltos de línea
 
@@ -56,4 +56,4 @@ Una forma óptima de planificar una fórmula podría ser, por ejemplo, la siguie
 
 **Consejo**: sobre todo al principio, puede ser útil escribir sólo partes de una fórmula al principio e ir añadiéndole más elementos poco a poco.
 
-6. Compruebe su fórmula en busca de posibles **mensajes de error**. Si aparece alguno, primero intente corregirlo usted mismo. Si necesitas más ayuda, utiliza nuestro artículo de ayuda [Errores típicos al trabajar con fórmulas](https://seatable.io/es/docs/formeln/typische-fehler-beim-arbeiten-mit-formeln/).
+6. Compruebe su fórmula en busca de posibles **mensajes de error**. Si aparece alguno, primero intente corregirlo usted mismo. Si necesitas más ayuda, utiliza nuestro artículo de ayuda [Errores típicos al trabajar con fórmulas]({{< relref "help/base-editor/formeln/typische-fehler-beim-arbeiten-mit-formeln" >}}).

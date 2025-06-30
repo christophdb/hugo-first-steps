@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-Depuis quelques jours déjà, il était possible de télécharger les premières versions de SeaTable 2.8 sur [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub. La version finale est disponible depuis le 1er avril. Avec la mise à jour d'aujourd'hui, nous sommes heureux de mettre à disposition de SeaTable 2.8 de nombreuses nouvelles fonctions et améliorations dans SeaTable Cloud. Parmi les nouveautés, citons le bandeau-titre aux couleurs personnalisables et l'affichage de tous les utilisateurs actifs dans une base, les descriptions de colonnes et l'amélioration de l'éditeur de texte formaté. En outre, il est désormais possible de synchroniser et de renommer automatiquement les enregistrements communs. Et ce ne sont là que les points forts que nous présentons plus en détail dans ces notes de version. La liste complète des modifications se trouve - comme toujours - dans le [changelog](https://seatable.io/docs/changelog/version-2-8/?lang=auto).
+Depuis quelques jours déjà, il était possible de télécharger les premières versions de SeaTable 2.8 sur [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub. La version finale est disponible depuis le 1er avril. Avec la mise à jour d'aujourd'hui, nous sommes heureux de mettre à disposition de SeaTable 2.8 de nombreuses nouvelles fonctions et améliorations dans SeaTable Cloud. Parmi les nouveautés, citons le bandeau-titre aux couleurs personnalisables et l'affichage de tous les utilisateurs actifs dans une base, les descriptions de colonnes et l'amélioration de l'éditeur de texte formaté. En outre, il est désormais possible de synchroniser et de renommer automatiquement les enregistrements communs. Et ce ne sont là que les points forts que nous présentons plus en détail dans ces notes de version. La liste complète des modifications se trouve - comme toujours - dans le [changelog]({{< relref "pages/changelog" >}}?lang=auto).
 
 ## Bandeau-titre en couleur
 
@@ -38,7 +38,7 @@ C'est précisément pour ce type d'informations que les descriptions de colonnes
 
 ## Texte d'aide formaté dans les formulaires web
 
-Les textes d'aide dans les [formulaires web](https://seatable.io/fr/docs/handbuch/seatable-nutzen/webformulare/) ont la même motivation que les descriptions de colonnes : Ils permettent un traitement plus précis et moins frustrant des formulaires. En outre, ils permettent de répondre aux obligations d'information (mot-clé : RGPD).
+Les textes d'aide dans les [formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}) ont la même motivation que les descriptions de colonnes : Ils permettent un traitement plus précis et moins frustrant des formulaires. En outre, ils permettent de répondre aux obligations d'information (mot-clé : RGPD).
 
 La nouveauté de SeaTable 2.8 est la possibilité de formater les textes d'aide et d'insérer des images et des tableaux. Cela permet de présenter des textes plus longs de manière plus claire ou de remplacer de nombreux mots par quelques images. L'édition des textes d'aide se fait via le nouvel éditeur de texte formaté de SeaTable.
 
@@ -65,7 +65,7 @@ Jusqu'à présent, les données d'un enregistrement commun importé ne pouvaient
 
 De nombreuses autres améliorations méritent d'être mentionnées. Voici les plus importantes d'entre elles.
 
-La colonne de formules connaît deux nouvelles formules : Small() et Large() trouvent respectivement la valeur x la plus petite et la valeur x la plus grande dans une colonne. (Plus d'informations dans la [référence des formules](https://seatable.io/fr/docs/handbuch/expertenwissen/formelreferenz/)).
+La colonne de formules connaît deux nouvelles formules : Small() et Large() trouvent respectivement la valeur x la plus petite et la valeur x la plus grande dans une colonne. (Plus d'informations dans la [référence des formules]({{< relref "help/base-editor/formeln/formelreferenz" >}}).
 
 Pour les colonnes et les regroupements, il est désormais possible de calculer la médiane en plus de la somme, de la moyenne et des valeurs extrêmes.
 

@@ -46,7 +46,7 @@ Da sowohl das Umfeld als auch unternehmensinterne Faktoren betrachtet werden, gi
 
 ### So führen Sie eine SWOT-Analyse durch
 
-Am besten ist es, dafür einen [Workshop zu planen](https://seatable.io/workshop-planen/), in dem ihre Teams zu den vier Kategorien zusammen brainstormen. Alle **Ideen sollten Sie in einer Matrix sammeln**. Zu Beginn kann eine Mindmap auf einem Whiteboard oder ein SWOT Analyse Template in Excel oder Word helfen, das die SWOT Analyse einfach erklärt.
+Am besten ist es, dafür einen [Workshop zu planen]({{< relref "posts/workshop-planen" >}}), in dem ihre Teams zu den vier Kategorien zusammen brainstormen. Alle **Ideen sollten Sie in einer Matrix sammeln**. Zu Beginn kann eine Mindmap auf einem Whiteboard oder ein SWOT Analyse Template in Excel oder Word helfen, das die SWOT Analyse einfach erklärt.
 
 Doch was gehört in die vier Kategorien?
 

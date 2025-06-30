@@ -22,7 +22,11 @@ Dependendo das configurações do seu navegador, o **descarregamento** começar�
 
 Assim que o seu ficheiro com a extensão **.dtable** aparecer no local de armazenamento especificado, a exportação da base é concluída.
 
-{{< warning  headline="Nota"  text="Tenha em atenção que o **ficheiro DTABLE** pode tornar-se muito **grande** se tiver feito uso extensivo de colunas de ficheiros e imagens na base exportada. As bases com um **tamanho máximo de até 100 MB** podem ser exportadas no SeaTable Cloud. Pode utilizar o [gestor de ficheiros](https://seatable.io/pt/docs/dateien-und-bilder/das-dateimanagement-einer-base/) para **eliminar os anexos de ficheiros** em bases que excedam este limite de tamanho para permitir a exportação." />}}
+{{< warning  headline="Nota" >}}
+
+Tenha em atenção que o **ficheiro DTABLE** pode tornar-se muito **grande** se tiver feito uso extensivo de colunas de ficheiros e imagens na base exportada. As bases com um **tamanho máximo de até 100 MB** podem ser exportadas no SeaTable Cloud. Pode utilizar o [gestor de ficheiros]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) para **eliminar os anexos de ficheiros** em bases que excedam este limite de tamanho para permitir a exportação.
+
+{{< /warning >}}
 
 ## O que é que um ficheiro DTABLE armazena?
 

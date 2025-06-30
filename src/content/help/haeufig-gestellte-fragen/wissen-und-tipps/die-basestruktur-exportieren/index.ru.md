@@ -45,7 +45,7 @@ for table in metadata['tables']:
 
 ## Результат выполнения сценария Python
 
-Например, на выходе сценария получается следующий результат, который вы можете скопировать и использовать для **Вход на форум** или для [Билет поддержки](https://seatable.io/ru/docs/teamverwaltung/ein-support-ticket-eroeffnen/) можно использовать.
+Например, на выходе сценария получается следующий результат, который вы можете скопировать и использовать для **Вход на форум** или для [Билет поддержки]({{< relref "help/teamverwaltung/support/ein-support-ticket-eroeffnen" >}}) можно использовать.
 
 ```
 --- COMPLETE BASE STRUCTURE WITH ALL BASES AND COLUMNS ---

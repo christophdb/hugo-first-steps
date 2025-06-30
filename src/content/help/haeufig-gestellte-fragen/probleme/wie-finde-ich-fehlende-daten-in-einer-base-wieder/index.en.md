@@ -20,13 +20,13 @@ If you or your team members have accidentally deleted certain items in SeaTable,
 
 You can restore entire tables or individual columns and rows at any time via the recycle bin in a base.
 
-Learn more about restoring tables, columns and rows[here](https://seatable.io/en/docs/arbeiten-in-tabellen/eine-geloeschte-tabelle-wiederherstellen/).
+Learn more about restoring tables, columns and rows[here]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabelle-wiederherstellen" >}}).
 
 ## Restore deleted bases from the recycle bin
 
 Deleted bases can be restored via the recycle bin on the start page. Please note that this is only possible until the 30th day after the deletion.
 
-Learn more about base recovery [here](https://seatable.io/en/docs/historie-und-versionen/eine-geloeschte-base-wiederherstellen/).
+Learn more about base recovery [here]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## Restoring data via the base log
 

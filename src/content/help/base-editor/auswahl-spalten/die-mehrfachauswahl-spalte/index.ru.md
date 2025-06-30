@@ -29,7 +29,7 @@ url: '/ru/pomoshch/die-mehrfachauswahl-spalte'
 
 ![Цвета колонки одиночного выбора](images/farben-einfachauswahl.png)
 
-При [подписке Enterprise](https://seatable.io/ru/docs/teamverwaltung-abonnement/abo-pakete/#3-toc-title) у вас также есть возможность создавать [собственные цвета](https://seatable.io/ru/docs/arbeiten-mit-bases/eigene-farben-in-einer-base-hinzufuegen/) для нескольких вариантов выбора.
+При [подписке Enterprise]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}) у вас также есть возможность создавать [собственные цвета]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) для нескольких вариантов выбора.
 
 ## Установите значение по умолчанию
 
@@ -41,8 +41,8 @@ url: '/ru/pomoshch/die-mehrfachauswahl-spalte'
 
 ## Изменение порядка следования нескольких вариантов выбора
 
-Порядок опций множественного выбора можно настроить так **же**, как и для столбца с одиночным выбором. Подробные инструкции можно найти [здесь](https://seatable.io/ru/docs/auswahlspalten/aendern-der-reihenfolge-von-einfachauswahl-optionen/).
+Порядок опций множественного выбора можно настроить так **же**, как и для столбца с одиночным выбором. Подробные инструкции можно найти [здесь]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}}).
 
 ## Экспорт и импорт нескольких вариантов выбора
 
-**Экспортировать** и **импортировать** **параметры** колонки с множественным выбором можно так же, как и колонки с одиночным выбором. Более подробную информацию об этом можно найти в [этой статье](https://seatable.io/ru/docs/auswahlspalten/einfachauswahl-optionen-exportieren-und-importieren/).
+**Экспортировать** и **импортировать** **параметры** колонки с множественным выбором можно так же, как и колонки с одиночным выбором. Более подробную информацию об этом можно найти в [этой статье]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).

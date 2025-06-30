@@ -35,15 +35,19 @@ Sie können in der Datei-Spalte **Dateien hochladen**, indem Sie mit der Maus au
 3. Ein neues Fenster öffnet sich. Hier können Sie per **Drag-and-Drop** oder **Klick** Dateien von Ihrem Gerät hochladen.
 4. Wählen Sie mehrere Dateien gleichzeitig aus, indem Sie alle Dokumente, die Sie hochladen möchten, markieren und zusammen hochladen.
 
-{{< warning  type="warning" headline="Mit Dateiverwaltung verbunden"  text="Dateien, die Sie lokal in eine Datei-Spalte hochladen, werden in einem **Systemordner** gespeichert, den Sie über die [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base aufrufen können." />}}
+{{< warning  type="warning" headline="Mit Dateiverwaltung verbunden" >}}
+
+Dateien, die Sie lokal in eine Datei-Spalte hochladen, werden in einem **Systemordner** gespeichert, den Sie über die [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base aufrufen können.
+
+{{< /warning >}}
 
 ## Hinzufügen von bestehenden Dateien
 
 Neben neuen Dateien, die Sie lokal in die Zelle einer Datei-Spalte hochladen, können Sie auch bestehende Dateien hinzufügen, die aus **drei Quellen** stammen können:
 
-- **Zuletzt hochgeladen**: Hier finden Sie die zuletzt hochgeladenen Dateien, die in der [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) der Base gespeichert sind.
-- **Eigene Ordner**: Hier haben Sie Zugriff auf Dateien in eigenen Ordnern, die Sie in der [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) anlegen und befüllen können.
-- **Seafile**: Hier können Sie Dateien aus [Seafile Bibliotheken](https://seatable.io/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/) auswählen, die an Ihre Base angebunden sind.
+- **Zuletzt hochgeladen**: Hier finden Sie die zuletzt hochgeladenen Dateien, die in der [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) der Base gespeichert sind.
+- **Eigene Ordner**: Hier haben Sie Zugriff auf Dateien in eigenen Ordnern, die Sie in der [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) anlegen und befüllen können.
+- **Seafile**: Hier können Sie Dateien aus [Seafile Bibliotheken]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) auswählen, die an Ihre Base angebunden sind.
 
 ![Add existing files to a file column](images/Add-existing-files-to-a-file-column.png)
 
@@ -73,7 +77,7 @@ Anschließend können Sie noch einen **eigenen Dateinamen** festlegen und bekomm
 
 ![Dialogfenster, um alle Dateien herunterzuladen](images/Download-all-files-dialog.png)
 
-Wenn Sie die **drei Punkte** anklicken, haben Sie zwei Optionen, um die Datei zu speichern: Bei einem **Download** wird eine Zip-Datei auf Ihrem Gerät gespeichert, aus der Sie alle Dateien extrahieren können. Außerdem können Sie die Dateien auch **in Seafile speichern**. Dazu müssen Sie zuvor [eine Seafile-Bibliothek an Ihre Base anbinden](https://seatable.io/docs/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden/).
+Wenn Sie die **drei Punkte** anklicken, haben Sie zwei Optionen, um die Datei zu speichern: Bei einem **Download** wird eine Zip-Datei auf Ihrem Gerät gespeichert, aus der Sie alle Dateien extrahieren können. Außerdem können Sie die Dateien auch **in Seafile speichern**. Dazu müssen Sie zuvor [eine Seafile-Bibliothek an Ihre Base anbinden]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ## Umbenennen von Dateien
 
@@ -96,7 +100,11 @@ Wenn Sie die **drei Punkte** anklicken, haben Sie zwei Optionen, um die Datei zu
     - Wählen Sie die Option **Alle Auswählen** oder setzen Sie **Häkchen** in den Kästchen vor den Dateien.
     - Klicken Sie auf **Löschen**.
 
-{{< warning  headline="Hinweis"  text="Auf diesem Weg sind die Dateien **nicht** endgültig gelöscht. Erst, wenn Sie in der [Dateiverwaltung](https://seatable.io/docs/dateien-und-bilder/das-dateimanagement-einer-base/) der Base die Dateien löschen, werden diese [dauerhaft entfernt](https://seatable.io/docs/datei-und-bildanhaenge/wie-man-anhaenge-dauerhaft-entfernt/)." />}}
+{{< warning  headline="Hinweis" >}}
+
+Auf diesem Weg sind die Dateien **nicht** endgültig gelöscht. Erst, wenn Sie in der [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) der Base die Dateien löschen, werden diese [dauerhaft entfernt]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+
+{{< /warning >}}
 
 ## Häufige Fragen
 

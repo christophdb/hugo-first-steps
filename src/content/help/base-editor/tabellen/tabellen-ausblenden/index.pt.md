@@ -18,4 +18,8 @@ O cabeçalho da base pode tornar-se confuso, especialmente para bases com um gra
 
 Pode **trabalhar** numa tabela oculta da mesma forma que numa tabela visível **, sem quaisquer restrições**. Se pretender voltar a **mostrar** uma tabela no cabeçalho de base, proceda exatamente da mesma forma como descrito nas instruções acima.
 
-{{< warning  headline="Dica"  text="A propósito, também pode [mover](https://seatable.io/pt/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/) as tabelas [utilizando a função arrastar e largar](https://seatable.io/pt/docs/arbeiten-in-tabellen/verschieben-einer-tabelle/), para que as tabelas utilizadas com mais frequência estejam sempre à mão, à esquerda, no cabeçalho da base." />}}
+{{< warning  headline="Dica" >}}
+
+A propósito, também pode [mover]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}) as tabelas [utilizando a função arrastar e largar]({{< relref "help/base-editor/tabellen/verschieben-einer-tabelle" >}}), para que as tabelas utilizadas com mais frequência estejam sempre à mão, à esquerda, no cabeçalho da base.
+
+{{< /warning >}}

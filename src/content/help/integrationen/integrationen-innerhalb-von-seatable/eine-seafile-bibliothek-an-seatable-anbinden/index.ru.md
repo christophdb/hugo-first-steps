@@ -47,7 +47,7 @@ url: '/ru/pomoshch/eine-seafile-bibliothek-an-seatable-anbinden'
 
 ## Доступ к файлам в Seafile
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement](https://seatable.io/ru/docs/dateien-und-bilder/das-dateimanagement-einer-base/) Ihrer Base.
+Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base.
 
 ![Интегрированная библиотека Seafile в управление файлами базы](images/library-in-file-management.png)
 
@@ -55,4 +55,4 @@ Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** a
 
 ## Возможности интеграции
 
-В принципе, вы можете подключить к SeaTable как самостоятельно размещенные, так и размещенные серверы Seafile. Если вы хотите самостоятельно разместить сервер Seafile, [обращайтесь в наш отдел продаж](https://seatable.io/ru/kontakt/). Для клиентов SeaTable Dedicated мы предлагаем совместный хостинг Seafile.
+В принципе, вы можете подключить к SeaTable как самостоятельно размещенные, так и размещенные серверы Seafile. Если вы хотите самостоятельно разместить сервер Seafile, [обращайтесь в наш отдел продаж]({{< relref "pages/contact" >}}). Для клиентов SeaTable Dedicated мы предлагаем совместный хостинг Seafile.

@@ -12,7 +12,7 @@ Com um [link de convite]({{< relref "help/startseite/freigaben/einladungs-link-e
 
 Pode descobrir [aqui]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) como criar um link de convite. Uma vez que a ligação pode ser copiada e reencaminhada com a frequência que desejar, faz sentido definir uma palavra-passe e uma data de expiração como **medidas de protecção**.
 
-Na **administração da equipa**, pode [ver](https://seatable.io/pt/docs/teamverwaltung/bases-in-der-teamverwaltung/) uma [lista de todos os links de convite para uma base](https://seatable.io/pt/docs/teamverwaltung/bases-in-der-teamverwaltung/). Além disso, como **administrador da equipa** pode (des)activar a função do link de convite para outros membros da equipa. Desta forma, evita ou permite que os próprios membros da equipa libertem bases a terceiros externos.
+Na **administração da equipa**, pode [ver]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}) uma [lista de todos os links de convite para uma base]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}). Além disso, como **administrador da equipa** pode (des)activar a função do link de convite para outros membros da equipa. Desta forma, evita ou permite que os próprios membros da equipa libertem bases a terceiros externos.
 
 ## Permitir a partilha de bases via link de convite
 

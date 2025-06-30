@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/aenderung-der-id-des-users-in-der-teamverwaltung'
 ---
 
-Chaque **compte d'utilisateur** dans SeaTable possède, en plus du nom et de l'adresse e-mail, un **identifiant** qui peut être utilisé pour [des filtres dynamiques](https://seatable.io/fr/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/). Chaque ID ne peut être attribué qu'**une seule fois** au sein d'une équipe.
+Chaque **compte d'utilisateur** dans SeaTable possède, en plus du nom et de l'adresse e-mail, un **identifiant** qui peut être utilisé pour [des filtres dynamiques]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}). Chaque ID ne peut être attribué qu'**une seule fois** au sein d'une équipe.
 
 Vous pouvez modifier cet identifiant en quelques étapes seulement via la gestion d'équipe.
 
@@ -40,6 +40,6 @@ Vous pouvez choisir librement l'ID de l'utilisateur - avec deux restrictions :
 
 ## Filtrer avec l'ID utilisateur
 
-SeaTable vous donne la possibilité de personnaliser les vues de tableau grâce à un **filtre dynamique** basé sur l'ID utilisateur. Cela présente plusieurs avantages pour certains cas d'utilisation. Vous trouverez des détails à ce sujet dans l ['article d'aide](https://seatable.io/fr/docs/ansichtsoptionen/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern/) correspondant.
+SeaTable vous donne la possibilité de personnaliser les vues de tableau grâce à un **filtre dynamique** basé sur l'ID utilisateur. Cela présente plusieurs avantages pour certains cas d'utilisation. Vous trouverez des détails à ce sujet dans l ['article d'aide]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}) correspondant.
 
 ![Filtrage à l'aide de l'ID utilisateur](images/filter-with-user-id.png)

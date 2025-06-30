@@ -14,11 +14,11 @@ seo:
 
 Sin embargo, SeaTable 4.2 no es sólo una versión para creadores de aplicaciones. Los aficionados a las fórmulas pueden esperar la nueva **función iserror()** y los optimizadores de procesos apreciarán el uso más versátil de la **acción "Editar entrada"**. Descubra qué más ha cambiado en el siguiente artículo.
 
-Esta mañana hemos actualizado SeaTable Cloud a la versión 4.2. Todos los auto-alojadores pueden hacer lo mismo: La imagen de SeaTable 4.2 está disponible para su descarga en el conocido [repositorioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como siempre, puede encontrar la lista completa de cambios en el [registro de cambios](https://seatable.io/es/docs/changelog/version-4/).
+Esta mañana hemos actualizado SeaTable Cloud a la versión 4.2. Todos los auto-alojadores pueden hacer lo mismo: La imagen de SeaTable 4.2 está disponible para su descarga en el conocido [repositorioDocker](https://hub.docker.com/r/seatable/seatable-enterprise) . Como siempre, puede encontrar la lista completa de cambios en el [registro de cambios]({{< relref "pages/changelog" >}}).
 
 ## Gestión de versiones en aplicaciones universales
 
-La [funcionalidad](https://seatable.io/es/docs/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot/) de instantáneas forma parte del ADN de SeaTable. Ya en la versión 1.0 era posible crear instantáneas del estado de una base y restaurarlas en un momento posterior. Por lo tanto, es lógico integrar dicha función en el Universal App Builder.
+La [funcionalidad]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) de instantáneas forma parte del ADN de SeaTable. Ya en la versión 1.0 era posible crear instantáneas del estado de una base y restaurarlas en un momento posterior. Por lo tanto, es lógico integrar dicha función en el Universal App Builder.
 
 ![Gestión de versiones en aplicaciones universales](Version-management-in-Universal-Apps.gif)
 
@@ -28,11 +28,15 @@ La nueva **gestión de versiones** se encuentra detrás del icono {{< seatable-i
 
 Si restauras una instantánea guardada, la aplicación vuelve al estado anterior. Todos los cambios realizados desde entonces se descartan. Por tanto, la restauración de instantáneas en la app funciona de forma diferente que en la base, donde la instantánea se restaura en una nueva base.
 
-{{< warning headline="Atención" text="**Actualmente, las instantáneas de base no contienen ninguna aplicación**. Esto significa que cuando se [restaura una](https://seatable.io/es/docs/historie-und-versionen/wiederherstellung-eines-snapshots/) instantánea de base, las aplicaciones contenidas en la base no se restauran. Esta funcionalidad se añadirá en una de las siguientes versiones de SeaTable." />}}
+{{< warning headline="Atención" >}}
+
+**Actualmente, las instantáneas de base no contienen ninguna aplicación**. Esto significa que cuando se [restaura una]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}) instantánea de base, las aplicaciones contenidas en la base no se restauran. Esta funcionalidad se añadirá en una de las siguientes versiones de SeaTable.
+
+{{< /warning >}}
 
 ## Comprobación de duplicados en páginas de tablas y formularios
 
-Sobre todo con las aplicaciones universales, con las que muchos usuarios pueden hacer nuevas entradas en una base, es fácil que se creen **filas idénticas**. Puede evitarlo en el futuro activando la función para evitar la adición de duplicados en las [páginas de tablas y formularios](https://seatable.io/es/docs/apps/seitentypen-in-der-universellen-app/). Para ello, defina las columnas en las que deben coincidir los valores para que una fila cuente como **duplicado**. Si se bloquea la adición de una fila, aparece el correspondiente mensaje de error.
+Sobre todo con las aplicaciones universales, con las que muchos usuarios pueden hacer nuevas entradas en una base, es fácil que se creen **filas idénticas**. Puede evitarlo en el futuro activando la función para evitar la adición de duplicados en las [páginas de tablas y formularios]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Para ello, defina las columnas en las que deben coincidir los valores para que una fila cuente como **duplicado**. Si se bloquea la adición de una fila, aparece el correspondiente mensaje de error.
 
 ![Evitar la adición de duplicados en las aplicaciones universales](Prevent-adding-duplicate-records-in-Universal-Apps.gif)
 
@@ -54,13 +58,13 @@ El desarrollo del Universal App Builder continuará sin cesar en las próximas v
 
 ## Editar entradas para automatizaciones periódicas
 
-Antes, sólo podía activar la [acción automatizada "Editar entrada](https://seatable.io/es/docs/automationen/automations-aktionen/#6-toc-title) " al añadir nuevas líneas o modificar entradas. Ahora también puede **ejecutar** esta automatización **periódicamente para las entradas que cumplan determinadas condiciones**. De este modo, las entradas de la tabla se ajustan siempre en un momento determinado según la configuración definida de antemano.
+Antes, sólo podía activar la [acción automatizada "Editar entrada]({{< relref "help/base-editor/automationen/automations-aktionen" >}}#6-toc-title) " al añadir nuevas líneas o modificar entradas. Ahora también puede **ejecutar** esta automatización **periódicamente para las entradas que cumplan determinadas condiciones**. De este modo, las entradas de la tabla se ajustan siempre en un momento determinado según la configuración definida de antemano.
 
 ![Ejecutar periódicamente la acción automatizada "Editar entrada".](Run-automated-action-Modify-record-periodically-.png)
 
 ## Nueva función en la columna de fórmulas: iserror()
 
-La nueva función **iserror(** ) es un regalo para [los aficionados a las fórmulas](https://seatable.io/es/docs/formeln/grundlagen-von-seatable-formeln/). Comprueba si un argumento es un **valor de error** (por ejemplo, #DIV/0!, #VALOR!). Gracias a esta función, se puede conseguir una mayor calidad de resultado, sobre todo para [fórmulas con operadores if](https://seatable.io/es/docs/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten/).
+La nueva función **iserror(** ) es un regalo para [los aficionados a las fórmulas]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Comprueba si un argumento es un **valor de error** (por ejemplo, #DIV/0!, #VALOR!). Gracias a esta función, se puede conseguir una mayor calidad de resultado, sobre todo para [fórmulas con operadores if]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
 
 ## Y mucho más
 
@@ -72,12 +76,16 @@ En SeaTable 4.2, hemos perfeccionado la función de búsqueda en la página de i
 
 ### Convertir vistas privadas en normales
 
-A partir de la versión 4.2, es posible convertir vistas [privadas](https://seatable.io/es/docs/grundlagen-von-ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten/) en vistas no privadas (normales) y hacerlas así visibles para todos los usuarios de una base. Anteriormente, solo era posible duplicar una vista normal como vista privada.
+A partir de la versión 4.2, es posible convertir vistas [privadas]({{< relref "help/base-editor/ansichten/unterschiede-zwischen-privaten-und-normalen-ansichten" >}}) en vistas no privadas (normales) y hacerlas así visibles para todos los usuarios de una base. Anteriormente, solo era posible duplicar una vista normal como vista privada.
 
 ### Funciones adicionales para el tratamiento de datos
 
-En la operación de tratamiento de datos [Calcular lista ordenada](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-rangliste-berechnen/), ahora puede seleccionar el **orden** en que deben listarse los valores. Para ello, especifique si debe listarse primero el valor más grande o el más pequeño.
+En la operación de tratamiento de datos [Calcular lista ordenada]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-rangliste-berechnen" >}}), ahora puede seleccionar el **orden** en que deben listarse los valores. Para ello, especifique si debe listarse primero el valor más grande o el más pequeño.
 
-{{< warning headline="Nueva autorización" text="Como propietario o administrador de una base, puede especificar en la [configuración de seguridad](https://seatable.io/es/docs/arbeiten-mit-bases/sicherheitseinstellungen-in-einer-base/) si los usuarios tienen derecho a crear y editar operaciones de tratamiento de datos." />}}
+{{< warning headline="Nueva autorización" >}}
 
-Además, SeaTable 4.2 ahora también admite el tipo de columna [Número automático](https://seatable.io/es/docs/text-und-zahlen/der-spaltentyp-automatische-nummer/) para las operaciones de procesamiento de datos [Comparar y vincular](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen/), así como [Comparar y copiar](https://seatable.io/es/docs/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren/).
+Como propietario o administrador de una base, puede especificar en la [configuración de seguridad]({{< relref "help/base-editor/weitere-optionen/sicherheitseinstellungen-in-einer-base" >}}) si los usuarios tienen derecho a crear y editar operaciones de tratamiento de datos.
+
+{{< /warning >}}
+
+Además, SeaTable 4.2 ahora también admite el tipo de columna [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) para las operaciones de procesamiento de datos [Comparar y vincular]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}), así como [Comparar y copiar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).

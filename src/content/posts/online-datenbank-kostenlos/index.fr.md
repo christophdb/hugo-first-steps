@@ -81,7 +81,7 @@ Pour pouvoir exploiter gratuitement la base de données en ligne, vous avez beso
 Une autre base de données relationnelle très populaire est [Oracle Database](https://www.oracle.com/de/database/). Ses principales fonctions sont, entre autres, le développement d'applications et le data warehousing. Si vous êtes à la recherche d'une base de données en ligne gratuite, deux options s'offrent à vous :
 
 - **Oracle Autonomous Transaction Processing**: la manière dont les données sont stockées facilite les tâches quotidiennes avec la base de données en ligne.
-- **Oracle Autonomous Data Warehouse**: ce type de stockage facilite les [analyses](https://seatable.io/fr/swot-analyse-template/).
+- **Oracle Autonomous Data Warehouse**: ce type de stockage facilite les [analyses]({{< relref "templates/operations/swot-analysis" >}}).
 
 Pour les deux, l'espace de stockage de la base de données est limité à 20 Go.
 
@@ -103,7 +103,7 @@ Pour les deux, l'espace de stockage de la base de données est limité à 20 Go.
 
 ### SeaTable
 
-Enfin, vous avez la possibilité d'utiliser gratuitement la base de données en ligne [SeaTable](https://seatable.io/fr/). Sont inclus 2 Go de mémoire pour les fichiers, 10.000 lignes et des tableaux illimités. Pour un plus grand nombre de fonctions, la version Plus démarre à 7 € par utilisateur et par mois. L'outil permet différentes vues des données, comme un calendrier ou un graphique. Il est facile à utiliser et est exploité dans des centres de données allemands.
+Enfin, vous avez la possibilité d'utiliser gratuitement la base de données en ligne [SeaTable]({{< relref "/" >}}). Sont inclus 2 Go de mémoire pour les fichiers, 10.000 lignes et des tableaux illimités. Pour un plus grand nombre de fonctions, la version Plus démarre à 7 € par utilisateur et par mois. L'outil permet différentes vues des données, comme un calendrier ou un graphique. Il est facile à utiliser et est exploité dans des centres de données allemands.
 
 ## Conclusion : il existe de nombreuses bases de données en ligne, certaines gratuites, d'autres avec une version d'essai.
 

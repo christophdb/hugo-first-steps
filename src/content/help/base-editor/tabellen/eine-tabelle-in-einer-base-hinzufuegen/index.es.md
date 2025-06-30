@@ -32,7 +32,7 @@ En SeaTable, [las bases]({{< relref "help/startseite/bases/allgemeines-zu-bases"
 
 ![Importar una tabla de otra base](images/import-table-from-other-base.gif)
 
-Con los [registros compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), también puede compartir una tabla maestra en un grupo y utilizar y sincronizar los vástagos de la tabla en diferentes bases. Para más información [, haz clic aquí](https://seatable.io/es/docs/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen/).
+Con los [registros compartidos]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), también puede compartir una tabla maestra en un grupo y utilizar y sincronizar los vástagos de la tabla en diferentes bases. Para más información [, haz clic aquí]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}).
 
 ## Mantener la visión de conjunto
 
@@ -40,4 +40,4 @@ A veces una imagen vale más que mil palabras. SeaTable también permite utiliza
 
 ![Emojis en el nombre de la tabla](images/emojis-seatable-table-name.png)
 
-Encontrará instrucciones detalladas en el artículo [Utilizar emojis en los nombres de tabla](https://seatable.io/es/docs/arbeiten-in-tabellen/verwendung-von-emojis-im-tabellennamen/).
+Encontrará instrucciones detalladas en el artículo [Utilizar emojis en los nombres de tabla]({{< relref "help/base-editor/tabellen/verwendung-von-emojis-im-tabellennamen" >}}).

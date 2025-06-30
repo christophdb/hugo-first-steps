@@ -18,6 +18,6 @@ Como **administrador de un equipo**, puede ver varios **documentos legales** en 
 
 ## Ver públicamente las condiciones de uso y la política de privacidad
 
-Las Condiciones de uso y la Política de privacidad también están a disposición **del público** en nuestro sitio web SeaTable.io. Desplácese hasta la parte inferior de la página web y haga clic en Política de [privacidad](https://seatable.io/es/datenschutz/) o [Condiciones de uso, a la](https://seatable.io/es/nutzungsbedingungen/) derecha del Aviso legal.
+Las Condiciones de uso y la Política de privacidad también están a disposición **del público** en nuestro sitio web SeaTable.io. Desplácese hasta la parte inferior de la página web y haga clic en Política de [privacidad]({{< relref "pages/legal/data-privacy" >}}) o [Condiciones de uso, a la]({{< relref "pages/legal/terms-of-service" >}}) derecha del Aviso legal.
 
 ![Política de privacidad y condiciones de uso a pie de página](images/Datenschutz-und-Nutzungsbedingungen-im-Footer.png)

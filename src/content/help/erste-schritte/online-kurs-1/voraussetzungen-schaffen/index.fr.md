@@ -22,7 +22,7 @@ Commençons par l'accès à un serveur SeaTable. Il y a trois façons d'en obten
 
 La manière de loin la plus simple est d'enregistrer un compte gratuit pour le SeaTable Cloud. L'inscription ne nécessite qu'une adresse e-mail et se fait en une minute.
 
-[Inscrivez-vous gratuitement dès maintenant](https://seatable.io/fr/enregistrement/)
+[Inscrivez-vous gratuitement dès maintenant]({{< relref "pages/registration" >}})
 
 ### 2\. serveur SeaTable
 

@@ -35,5 +35,5 @@ A big advantage of the statistics module in SeaTable is the automatic update. As
 
 ## Help article with further information
 
-- [Instructions for the statistics module](https://seatable.io/en/docs/statistiken-und-datenanalyse/anleitung-zum-statistik-modul/)
-- [Statistics and data analysis](https://seatable.io/en/docs/statistiken-und-datenanalyse/statistiken/)
+- [Instructions for the statistics module]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})
+- [Statistics and data analysis]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}})

@@ -13,7 +13,7 @@ Créer et gérer une liste de choses à faire utilisable en ligne avec une appli
 
 ## Pourquoi une liste de choses à faire ?
 
-À la maison comme dans la [gestion de projet](https://seatable.io/fr/gestion-de-projet/) professionnelle, il est important de garder un œil sur toutes les tâches à accomplir et de les traiter au fur et à mesure. Dans une liste de choses à faire, vous saisissez tout d'abord vos **tâches** concrètes. Ensuite, vous définissez éventuellement **des sous-tâches** ou **des catégories** générales, vous déterminez **les responsabilités** et vous fixez **des délais**.
+À la maison comme dans la [gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}) professionnelle, il est important de garder un œil sur toutes les tâches à accomplir et de les traiter au fur et à mesure. Dans une liste de choses à faire, vous saisissez tout d'abord vos **tâches** concrètes. Ensuite, vous définissez éventuellement **des sous-tâches** ou **des catégories** générales, vous déterminez **les responsabilités** et vous fixez **des délais**.
 
 Un **statut** vous permet d'indiquer si une tâche est en cours ou terminée. Un statut en suspens est également envisageable, lorsque vous attendez une réponse ou une contribution. En outre, vous devriez classer vos tâches par ordre de **priorité** afin de toujours traiter les plus importantes en premier.
 
@@ -31,7 +31,7 @@ Si vous notez votre liste de choses à faire dans une application, cela sert en 
 
 ### Apporter de la structure dans le travail
 
-Au travail, vous pouvez **planifier votre journée** à l'aide d'une liste de choses à faire. Déplacez les nouvelles tâches dans les catégories correspondantes, attribuez des délais, des priorités et des responsables. Peu importe quand et où une tâche vous vient à l'esprit, vous pouvez la documenter rapidement. Cela vaut aussi bien pour vos propres tâches que pour le [travail dans des projets d'équipe](https://seatable.io/fr/perfekte-aufgabenverwaltung-im-projektmanagement/).
+Au travail, vous pouvez **planifier votre journée** à l'aide d'une liste de choses à faire. Déplacez les nouvelles tâches dans les catégories correspondantes, attribuez des délais, des priorités et des responsables. Peu importe quand et où une tâche vous vient à l'esprit, vous pouvez la documenter rapidement. Cela vaut aussi bien pour vos propres tâches que pour le [travail dans des projets d'équipe]({{< relref "posts/aufgabenverwaltung" >}}).
 
 ### Reconnaître les liens
 
@@ -77,7 +77,7 @@ Il est possible de trier les différentes tâches à faire, de leur attribuer un
 
 ### Projoodle (en anglais) : Une liste de choses à faire inspirée de Doodle
 
-[Projoodle](https://www.projoodle.com/de) souhaite avant tout faciliter la collaboration avec des amis. À l'instar de l'envoi d'un [lien Doodle](https://seatable.io/fr/umfrage-erstellen/) pour les rendez-vous, la gestion des tâches doit également fonctionner sans connexion. C'est avec cet objectif en tête que le projet Projoodle a vu le jour.
+[Projoodle](https://www.projoodle.com/de) souhaite avant tout faciliter la collaboration avec des amis. À l'instar de l'envoi d'un [lien Doodle]({{< relref "posts/umfrage-erstellen" >}}) pour les rendez-vous, la gestion des tâches doit également fonctionner sans connexion. C'est avec cet objectif en tête que le projet Projoodle a vu le jour.
 
 Avec Projoodle, vous disposez d'une application gratuite pour les listes de choses à faire, qui sont faciles à créer, à partager et à gérer. Une autre caractéristique est l'affichage du tableau Kanban, qui vous permet de regrouper les tâches par statut. Les possibilités de trier et de planifier les tâches sont toutefois peu nombreuses.
 
@@ -93,9 +93,9 @@ Les rappels peuvent être triés de manière claire dans chaque liste et divisé
 
 ## SeaTable : l'outil polyvalent pour tous les types de listes
 
-SeaTable est une base de données en ligne qui vous permet d'organiser facilement et clairement les tâches, les informations, les processus et les idées. Vous profitez d'une vue classique sous forme de liste ou pouvez utiliser des formes de représentation alternatives comme le [tableau Kanban](https://seatable.io/fr/docs/plugins/anleitung-zum-kanban-plugin/), le [calendrier](https://seatable.io/fr/docs/plugins/anleitung-zum-kalender-plugin/) ou un [diagramme de Gantt](https://seatable.io/fr/docs/plugins/anleitung-zum-timeline-plugin/).
+SeaTable est une base de données en ligne qui vous permet d'organiser facilement et clairement les tâches, les informations, les processus et les idées. Vous profitez d'une vue classique sous forme de liste ou pouvez utiliser des formes de représentation alternatives comme le [tableau Kanban]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), le [calendrier]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) ou un [diagramme de Gantt]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}).
 
-Il est également intéressant de noter que vous pouvez télécharger [des fichiers](https://seatable.io/fr/docs/dateien-und-bilder/die-datei-spalte/) et [des images](https://seatable.io/fr/docs/dateien-und-bilder/die-bild-spalte/) et les joindre aux tâches. De même, vous pouvez ajouter autant d'informations que vous le souhaitez, comme une date, une priorité et des sous-tâches dans d'autres colonnes.
+Il est également intéressant de noter que vous pouvez télécharger [des fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) et [des images]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) et les joindre aux tâches. De même, vous pouvez ajouter autant d'informations que vous le souhaitez, comme une date, une priorité et des sous-tâches dans d'autres colonnes.
 
 Dans la comparaison de toutes les apps considérées, SeaTable a de loin **le plus grand nombre de fonctions** et convainc par sa grande **flexibilité**. Ainsi, vous obtenez en une seule application tout ce dont vous avez besoin pour votre liste de choses à faire. Grâce aux nombreuses **fonctions collaboratives** (commentaires, ensembles de données partagés, travail synchrone en temps réel, etc.), vous pouvez non seulement travailler sur vos propres listes, mais aussi collaborer avec succès en équipe.
 

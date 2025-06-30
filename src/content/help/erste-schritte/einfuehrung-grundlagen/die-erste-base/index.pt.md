@@ -10,7 +10,7 @@ url: '/pt/ajuda/die-erste-base'
 
 No SeaTable, organiza os seus dados em [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Uma base é um contentor para uma ou mais tabelas. As tabelas de uma base podem estar independentes umas das outras ou - como numa base de dados - estar ligadas entre si através de relações.
 
-Também pode [partilhar]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) com outros membros da equipa ou [convidar](https://seatable.io/pt/docs/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links/) terceiros externos para trabalharem nelas em conjunto.
+Também pode [partilhar]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) com outros membros da equipa ou [convidar]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}}) terceiros externos para trabalharem nelas em conjunto.
 
 O SeaTable mantém um [histórico]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) para cada base em segundo plano, permitindo-lhe anular alterações e restaurar estados anteriores, se necessário.
 
@@ -18,7 +18,7 @@ O SeaTable mantém um [histórico]({{< relref "help/base-editor/historie-und-ver
 
 Depois de iniciar sessão, encontra-se na página **inicial**. Aqui pode gerir as suas bases. Se seleccionou [modelos]({{< relref "templates" >}}) durante o registo, estes serão apresentados aqui.
 
-Ao clicar na **imagem do avatar** no canto superior direito, pode aceder às [definições pessoais](https://seatable.io/pt/docs/persoenliche-einstellungen/persoenliche-einstellungen/) para ajustar a língua do sistema, por exemplo.
+Ao clicar na **imagem do avatar** no canto superior direito, pode aceder às [definições pessoais]({{< relref "help/startseite/persoenliche-einstellungen" >}}) para ajustar a língua do sistema, por exemplo.
 
 Clique em **Adicionar base** para criar a sua primeira base. Dê-lhe um **nome**, prima **Enter** e a base é colocada na página inicial. Se passar o ponteiro do rato sobre o nome da base, aparece um **símbolo de lápis** {{< seatable-icon icon="dtable-icon-rename" >}} e o símbolo de três pontos {{< seatable-icon icon="dtable-icon-more-vertical" >}} à direita para as funções alargadas.
 
@@ -26,7 +26,7 @@ Utilizando o ícone do lápis, pode mudar o nome da base e atribuir-lhe um ícon
 
 ## Vista de tabela
 
-A nova Base contém uma [tabela](https://seatable.io/pt/docs/seatable-nutzen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen/) desde o início. A vista de tabela é a vista central, mas não a única, do SeaTable. Na vista de tabela, pode gerir as tabelas da base, definir a sua estrutura de colunas e introduzir ou analisar os seus dados.
+A nova Base contém uma [tabela]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) desde o início. A vista de tabela é a vista central, mas não a única, do SeaTable. Na vista de tabela, pode gerir as tabelas da base, definir a sua estrutura de colunas e introduzir ou analisar os seus dados.
 
 Antes da [entrada de dados]({{< relref "help/base-editor/webformulare/webformulare" >}}).
 
