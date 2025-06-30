@@ -22,7 +22,11 @@ Whether you are a young start-up, a medium-sized company or a large corporation:
 
 Liquidity planning is a central component of financial management and is often decisive in determining whether a company stays on course or runs into trouble. Liquidity planning is about ensuring a company's **solvency**. In concrete terms, this means systematically recording, comparing and planning ahead all expected incoming and outgoing payments. This allows you to identify financial bottlenecks at an early stage and initiate countermeasures in good time.
 
-{{< warning headline="Liquidity meaning" text="The term liquidity is derived from the Latin word liquidus, which means "liquid" – and this is exactly what it means in economic terms. Liquidity describes the ability of a company (or a person) to meet financial obligations on time at all times, i.e. to make payments "liquidly"." />}}
+{{< warning headline="Liquidity meaning" >}}
+
+The term liquidity is derived from the Latin word liquidus, which means **liquid** – and this is exactly what it means in economic terms. Liquidity describes the ability of a company (or a person) to meet financial obligations on time at all times, i.e. to make payments **liquidly**.
+
+{{< /warning >}}
 
 ## Advantages of liquidity planning
 
@@ -49,7 +53,7 @@ In practice, many companies rely on hybrid liquidity planning, which combines bo
 ## How to create a liquidity plan in 7 steps
 
 A well thought-out liquidity plan is not rocket science – with a clear system, you can keep an eye on your solvency at all times and create an important basis for business decisions. Because if you know exactly when money is coming and going, you can act with foresight instead of reacting in crisis mode. This is how you create a well-founded liquidity plan for your financial plan step by step:
-                     
+
 1. **Determine planning period:** First determine the period for which you want to plan your liquidity. Monthly planning is recommended for starters. For larger companies, weekly or quarterly planning can also be useful – depending on how dynamic your cash flows are.
 
 2. **Record the initial balance:** Note the current status of your liquid funds – i.e. the amount in your bank accounts and in the cash register. This value is the starting point for your planning.
@@ -74,7 +78,7 @@ Liquidity ratios are important key figures for your liquidity plan in order to e
 
 Liquidity level 1 examines the extent to which a company could cover its short-term liabilities with immediately available means of payment alone – i.e. cash and bank balances.
 
-Formula: *Liquidity ratio 1 = (cash and cash equivalents / current liabilities) × 100*
+Formula: _Liquidity ratio 1 = (cash and cash equivalents / current liabilities) × 100_
 
 A value of 100 % or more means that the company could settle all current liabilities with cash and bank balances alone. In practice, however, this value is often lower because companies do not hold all of their capital on account.
 
@@ -82,31 +86,32 @@ A value of 100 % or more means that the company could settle all current liabili
 
 In addition to cash and cash equivalents, short-term receivables – i.e. outstanding payments from customers – are also taken into account here. This provides a more realistic view of short-term solvency.
 
-Formula: *Liquidity ratio 2 = (cash and cash equivalents + current receivables) / current liabilities × 100*
+Formula: _Liquidity ratio 2 = (cash and cash equivalents + current receivables) / current liabilities × 100_
 
 A value above 100 % is a good sign here, as it shows that cash and cash equivalents and outstanding receivables together are sufficient to cover all current liabilities.
 
 ### 3rd degree liquidity (current ratio)
+
 With liquidity ratio 3, your entire current assets are included, i.e. not only cash and cash equivalents and receivables but also inventories such as stock.
 
-Formula: *Liquidity ratio 3 = (current assets / current liabilities) × 100*
+Formula: _Liquidity ratio 3 = (current assets / current liabilities) × 100_
 
 This ratio provides a more comprehensive picture. Although inventories cannot be converted into cash immediately, they are part of the assets available in the short term.
 
 ## Practical calculation example for your liquidity plan
 
 Imagine your company has the following liquidity reserves:
-                     
-* € 18,000 cash and cash equivalents (cash, bank)
-* € 54,000 current receivables (outstanding customer invoices)
-* € 36,000 inventory
-* € 60,000 current liabilities (suppliers, loans)
-                 
+
+- € 18,000 cash and cash equivalents (cash, bank)
+- € 54,000 current receivables (outstanding customer invoices)
+- € 36,000 inventory
+- € 60,000 current liabilities (suppliers, loans)
+
 With the so-called liquidity ratios, you can check how well your company is able to settle short-term liabilities – with funds that are quickly available. The calculation is carried out in three stages:
 
-*Liquidity level 1 = (€ 18,000 / € 60,000) × 100 = 30%*
-*Liquidity level 2 = (€ 18,000 + € 54,000) / € 60,000 × 100 = 120 %*
-*Liquidity level 3 = (€ 18,000 + € 54,000 + € 36,000) / € 60,000 × 100 = 180 %*
+_Liquidity level 1 = (€ 18,000 / € 60,000) × 100 = 30%_
+_Liquidity level 2 = (€ 18,000 + € 54,000) / € 60,000 × 100 = 120 %_
+_Liquidity level 3 = (€ 18,000 + € 54,000 + € 36,000) / € 60,000 × 100 = 180 %_
 
 ### What do these values mean?
 
