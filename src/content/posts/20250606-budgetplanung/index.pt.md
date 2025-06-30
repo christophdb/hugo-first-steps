@@ -28,7 +28,7 @@ A orçamentação - também conhecida como planeamento orçamental ou atribuiç�
 
 - **Atribuição sensível do orçamento**: O planeamento orçamental ajuda-o a atribuir dinheiro e recursos de forma sensata a departamentos e projectos e a utilizá-los especificamente onde trarão o maior benefício possível.
 
-- **Objectivos vinculativos**: Com um plano orçamental vinculativo, pode garantir que os seus gestores formulam objectivos claros e tomam medidas eficazes para os alcançar.  
+- **Objectivos vinculativos**: Com um plano orçamental vinculativo, pode garantir que os seus gestores formulam objectivos claros e tomam medidas eficazes para os alcançar.
 
 - **Transparência financeira**: A orçamentação permite-lhe saber claramente em que é que está a gastar o seu dinheiro. Pode controlar os custos e os objectivos, medir o sucesso e antecipar desenvolvimentos indesejáveis.
 
@@ -117,7 +117,7 @@ O planeamento do orçamento para toda a empresa é composto pelos sub-orçamento
 
 Para que a orçamentação seja transparente, é importante envolver todos os serviços no planeamento orçamental numa fase inicial. As áreas importantes são o planeamento do orçamento de pessoal (recrutamento, salários, etc.), o planeamento do orçamento de marketing e o planeamento do orçamento de TI. Estes departamentos gerem normalmente grandes orçamentos próprios e são indispensáveis para o planeamento estratégico do orçamento.
 
-A seguir, analisamos mais de perto o planeamento orçamental em [TI]({{< relref "pages/industry-solutions/software-development" >}}) e [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}). Se estiver interessado em [planeamento de pessoal]({{< relref "posts/personalplanung" >}}) ou num [plano de marketing]({{< relref "posts/20250318-marketingplan" >}}), clique nos artigos ligados para obter mais informações.
+A seguir, analisamos mais de perto o planeamento orçamental em [TI]({{< relref "pages/industry-solutions/software-development" >}}) e [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}). Se estiver interessado em [planeamento de pessoal]({{< relref "20250630-personalplanung" >}}) ou num [plano de marketing]({{< relref "posts/20250318-marketingplan" >}}), clique nos artigos ligados para obter mais informações.
 
 ### Planeamento do orçamento de TI
 
