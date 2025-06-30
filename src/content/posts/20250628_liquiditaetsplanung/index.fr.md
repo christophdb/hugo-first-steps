@@ -58,7 +58,7 @@ Une structure bien pensée de votre planification des liquidités n'a rien de so
 
 4. **Saisir les décaissements:** Saisissez toutes les dépenses prévues : Il s'agit notamment des frais d'achat, des salaires, du loyer, des assurances, du marketing, des impôts, des remboursements de crédit et des investissements. Vous devez également tenir compte des dépenses irrégulières ou saisonnières.
 
-5) Calculer les liquidités nettes:** Déduisez les paiements des encaissements. Cela donne votre liquidité nette pour la période concernée. Une valeur positive signifie un excédent de liquidités - une valeur négative indique un éventuel goulot d'étranglement.
+5. **Calculer les liquidités nettes:** Déduisez les paiements des encaissements. Cela donne votre liquidité nette pour la période concernée. Une valeur positive signifie un excédent de liquidités - une valeur négative indique un éventuel goulot d'étranglement.
 
 6. **Calculer le solde final:** Ajoutez ou soustrayez la liquidité nette du solde initial. Vous obtenez ainsi le solde de trésorerie prévisionnel à la fin de la période.
 
