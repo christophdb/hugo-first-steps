@@ -1,7 +1,11 @@
 {{ define "main" }}
     <section class="max-container padding mx-auto w-full" data-pagefind-body>
         <article class="">
-            {{ partial "breadcrumbs-docs.html" . .Section }}
+            {{ if hugo.IsProduction }}
+                {{ partial "breadcrumbs-docs.html" . .Section }}
+            {{ else }}
+                No breadcrumbs in development
+            {{ end }}
 
 
             <h1 class="gradient mt-12 font-poppins text-4xl">{{ .Title }}</h1>
@@ -15,34 +19,38 @@
 
                     {{ .Content }}
 
-                    {{ $pages := .CurrentSection.Pages.ByWeight.Reverse }}
-                    <div class="mt-24 flex flex-row justify-between gap-4" data-pagefind-ignore>
-                        <div>
-                            {{ with $pages.Prev . }}
-                                <a href="{{ .RelPermalink }}" class="group">
-                                    <span class="flex flex-row items-center gap-2 rounded-xl bg-gray-100 px-4 py-2">
-                                        <span class="flex-shrink-0 rotate-90">
-                                            {{ partial "icon.html" "chevron-down" "chevron-down" }}
+                    {{ if hugo.IsProduction }}
+                        {{ $pages := .CurrentSection.Pages.ByWeight.Reverse }}
+                        <div class="mt-24 flex flex-row justify-between gap-4" data-pagefind-ignore>
+                            <div>
+                                {{ with $pages.Prev . }}
+                                    <a href="{{ .RelPermalink }}" class="group">
+                                        <span class="flex flex-row items-center gap-2 rounded-xl bg-gray-100 px-4 py-2">
+                                            <span class="flex-shrink-0 rotate-90">
+                                                {{ partial "icon.html" "chevron-down" "chevron-down" }}
+                                            </span>
+                                            <span class="min-w-0 max-w-72 text-sm font-normal tracking-tight">{{ .LinkTitle }}</span>
                                         </span>
-                                        <span class="min-w-0 max-w-72 text-sm font-normal tracking-tight">{{ .LinkTitle }}</span>
-                                    </span>
-                                </a>
-                            {{ end }}
-                        </div>
+                                    </a>
+                                {{ end }}
+                            </div>
 
-                        <div>
-                            {{ with $pages.Next . }}
-                                <a href="{{ .RelPermalink }}" class="group float-end">
-                                    <span class="flex flex-row items-center gap-2 rounded-xl bg-gray-100 px-4 py-2">
-                                        <span class="min-w-0 max-w-72 text-right text-sm font-normal tracking-tight">{{ .LinkTitle }}</span>
-                                        <span class="flex-shrink-0 -rotate-90">
-                                            {{ partial "icon.html" "chevron-down" "chevron-down" }}
+                            <div>
+                                {{ with $pages.Next . }}
+                                    <a href="{{ .RelPermalink }}" class="group float-end">
+                                        <span class="flex flex-row items-center gap-2 rounded-xl bg-gray-100 px-4 py-2">
+                                            <span class="min-w-0 max-w-72 text-right text-sm font-normal tracking-tight">{{ .LinkTitle }}</span>
+                                            <span class="flex-shrink-0 -rotate-90">
+                                                {{ partial "icon.html" "chevron-down" "chevron-down" }}
+                                            </span>
                                         </span>
-                                    </span>
-                                </a>
-                            {{ end }}
+                                    </a>
+                                {{ end }}
+                            </div>
                         </div>
-                    </div>
+                    {{ else }}
+                        No Next or Prev Article in development
+                    {{ end }}
                 </div>
 
                 <!-- Second section -->
@@ -51,14 +59,22 @@
                     <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
                         <h3>INHALTSVERZEICHNIS</h3>
                         <div>
-                            {{ .TableOfContents }}
+                            {{ if hugo.IsProduction }}
+                                {{ .TableOfContents }}
+                            {{ else }}
+                                No TableOfContents in development
+                            {{ end }}
                         </div>
 
                         <h3 class="mt-12">WEITERE ARTIKEL IN DIESER KATEGORIE</h3>
                         <div>
                             <ul>
-                                {{ range .CurrentSection.Pages.ByWeight }}
-                                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                {{ if hugo.IsProduction }}
+                                    {{ range .CurrentSection.Pages.ByWeight }}
+                                        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                    {{ end }}
+                                {{ else }}
+                                    No OtherArticles in development
                                 {{ end }}
                             </ul>
                         </div>

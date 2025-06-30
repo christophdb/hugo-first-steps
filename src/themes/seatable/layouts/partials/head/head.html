@@ -16,50 +16,52 @@
         {{- end -}}
     {{- end -}}
 
-    {{/* Metadata */}}
-    {{ with (.Params.seo.description | default .Params.Summary | default .Params.Description) | default .Site.Params.description -}}
-        <meta name="description" content="{{ . | safeHTML }}" />
-    {{- end }}
-    {{ with  .Params.Tags | default .Site.Params.keywords -}}
-        <meta name="keywords" content="{{ range . }}{{ . }},{{ end -}}" />
-    {{- end }}
-    {{ with .Site.Params.robots }}
-        <meta name="robots" content="{{ . }}" />
-    {{ end }}
-    {{ with .Params.robots }}
-        <meta name="robots" content="{{ . }}" />
-    {{ end }}
+    {{ if hugo.IsProduction }}
+        {{/* Metadata */}}
+        {{ with (.Params.seo.description | default .Params.Summary | default .Params.Description) | default .Site.Params.description -}}
+            <meta name="description" content="{{ . | safeHTML }}" />
+        {{- end }}
+        {{ with  .Params.Tags | default .Site.Params.keywords -}}
+            <meta name="keywords" content="{{ range . }}{{ . }},{{ end -}}" />
+        {{- end }}
+        {{ with .Site.Params.robots }}
+            <meta name="robots" content="{{ . }}" />
+        {{ end }}
+        {{ with .Params.robots }}
+            <meta name="robots" content="{{ . }}" />
+        {{ end }}
 
 
-    <!-- Do not index taxonomy and term pages -->
-    {{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
-        <meta name="robots" content="noindex" />
-    {{- end }}
+        <!-- Do not index taxonomy and term pages -->
+        {{- if or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+            <meta name="robots" content="noindex" />
+        {{- end }}
 
 
-    <link rel="canonical" href="{{ .Permalink }}" />
+        <link rel="canonical" href="{{ .Permalink }}" />
 
-    {{- if .IsTranslated -}}
-        {{ range .AllTranslations }}
-            <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
-        {{- end -}}
-        {{ range first 1 .AllTranslations }}
-            <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
-        {{- end -}}
-    {{ end }}
+        {{- if .IsTranslated -}}
+            {{ range .AllTranslations }}
+                <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+            {{- end -}}
+            {{ range first 1 .AllTranslations }}
+                <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+            {{- end -}}
+        {{ end }}
 
 
-    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <meta name="apple-mobile-web-app-title" content="SeaTable" />
-    <link rel="manifest" href="/site.webmanifest" />
+        <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        <meta name="apple-mobile-web-app-title" content="SeaTable" />
+        <link rel="manifest" href="/site.webmanifest" />
 
-    <!-- hier kann man noch ganz viel machen: apple-touch-icon etc... -->
-    <!-- site verification google, bing, ... -->
-    {{ if .Site.Params.Seo.googleSearchConsoleVerificationTag }}
-        <meta name="google-site-verification" content="{{ .Site.Params.Seo.googleSearchConsoleVerificationTag }}" />
+        <!-- hier kann man noch ganz viel machen: apple-touch-icon etc... -->
+        <!-- site verification google, bing, ... -->
+        {{ if .Site.Params.Seo.googleSearchConsoleVerificationTag }}
+            <meta name="google-site-verification" content="{{ .Site.Params.Seo.googleSearchConsoleVerificationTag }}" />
+        {{ end }}
     {{ end }}
 
 

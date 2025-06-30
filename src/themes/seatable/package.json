@@ -6,7 +6,7 @@
     "scripts": {
         "build": "tailwindcss build -i assets/css/styles.css -o assets/css/styles.output.css",
         "watch": "tailwindcss build -i assets/css/styles.css -o assets/css/styles.output.css --watch",
-        "docker:hugo": "hugo server --source /hugo/src -D -E --bind=0.0.0.0 --disableKinds=sitemap,rss",
+        "docker:hugo": "hugo server --source /hugo/src -D -E --bind=0.0.0.0 --disableKinds=sitemap,rss --templateMetrics",
         "pagefind:watch": "npx -y pagefind --site /hugo/src/public",
         "docker:watch": "./docker-watch.sh"
     },

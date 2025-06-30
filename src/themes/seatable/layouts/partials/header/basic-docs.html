@@ -37,29 +37,33 @@
         </div>
     </nav>
 
-    <!-- Mobile menu, show/hide based on menu state. -->
-    <div x-show="mobileMenuOpen" @click.away="mobileMenuOpen = false" id="mobile-menu" class="hidden max-lg:block">
-        <div class="absolute left-0 top-0 z-[99999] min-h-full w-full border-b bg-slate-200 p-9 text-right">
-            <button @click="mobileMenuOpen = !mobileMenuOpen" aria-label="Toggle mobile menu">
-                <img src="/icons/xmark.svg" alt="Close Mobile Menu" width="16" height="16" />
-            </button>
-            <ul class="mt-4 flex flex-col items-end gap-4">
-                {{ if .Site.Menus.main }}
-                    {{ range .Site.Menus.main }}
-                        {{ partial "header/navigation-mobile.html" . }}
+    {{ if hugo.IsProduction }}
+        <!-- Mobile menu, show/hide based on menu state. -->
+        <div x-show="mobileMenuOpen" @click.away="mobileMenuOpen = false" id="mobile-menu" class="hidden max-lg:block">
+            <div class="absolute left-0 top-0 z-[99999] min-h-full w-full border-b bg-slate-200 p-9 text-right">
+                <button @click="mobileMenuOpen = !mobileMenuOpen" aria-label="Toggle mobile menu">
+                    <img src="/icons/xmark.svg" alt="Close Mobile Menu" width="16" height="16" />
+                </button>
+                <ul class="mt-4 flex flex-col items-end gap-4">
+                    {{ if .Site.Menus.main }}
+                        {{ range .Site.Menus.main }}
+                            {{ partial "header/navigation-mobile.html" . }}
+                        {{ end }}
                     {{ end }}
-                {{ end }}
-            </ul>
-            <div class="mt-4 flex flex-col gap-4 text-center">
-                <a href="https://cloud.seatable.io" class="rounded-lg border bg-white px-4 py-2 font-poppins font-bold text-black">
-                    {{ T "navigation.login" }}
-                </a>
-                <a
-                    href="{{ with .Site.GetPage "registration" }}{{ .RelPermalink }}{{ end }}"
-                    class="matomo-header-registration bg-gradient rounded-lg px-4 py-2 font-poppins font-bold text-white">
-                    {{ T "navigation.registration" }}
-                </a>
+                </ul>
+                <div class="mt-4 flex flex-col gap-4 text-center">
+                    <a href="https://cloud.seatable.io" class="rounded-lg border bg-white px-4 py-2 font-poppins font-bold text-black">
+                        {{ T "navigation.login" }}
+                    </a>
+                    <a
+                        href="{{ with .Site.GetPage "registration" }}{{ .RelPermalink }}{{ end }}"
+                        class="matomo-header-registration bg-gradient rounded-lg px-4 py-2 font-poppins font-bold text-white">
+                        {{ T "navigation.registration" }}
+                    </a>
+                </div>
             </div>
         </div>
-    </div>
+    {{ else }}
+        No mobile menu in development
+    {{ end }}
 </header>

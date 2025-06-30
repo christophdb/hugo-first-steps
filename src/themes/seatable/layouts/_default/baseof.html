@@ -15,12 +15,26 @@
 
         {{ if hugo.IsProduction }}
         {{ else }}
+
+            {{ $palette := resources.Get "icons/palette.svg" }}
+            {{ $heart := resources.Get "icons/heart.svg" }}
+            {{ $fontAwesome := resources.Get "icons/font-awesome.svg" }}
+            {{ $list := resources.Get "icons/list.svg" }}
+
             {{ partial "tw-size-indicator.html" . }}
             <div class="fixed left-10 top-1 z-10 flex gap-3 print:hidden">
-                <div><a href="/blocks/">{{ partial "icon.html" "palette" "palette" }}</a></div>
-                <div><a href="/de/style-guide/">{{ partial "icon.html" "heart" "hearth" }}</a></div>
-                <div><a href="/icons/">{{ partial "icon.html" "font-awesome" "font-aweseome" }}</a></div>
-                <div><a href="/taxonomies/">{{ partial "icon.html" "list" "list" }}</a></div>
+                <div>
+                    <a href="/blocks/"><span class="icon relative block">{{ $palette.Content | safeHTML }}</span></a>
+                </div>
+                <div>
+                    <a href="/de/style-guide/"><span class="icon relative block">{{ $heart.Content | safeHTML }}</span></a>
+                </div>
+                <div>
+                    <a href="/icons/"><span class="icon relative block">{{ $fontAwesome.Content | safeHTML }}</span></a>
+                </div>
+                <div>
+                    <a href="/taxonomies/"><span class="icon relative block">{{ $list.Content | safeHTML }}</span></a>
+                </div>
             </div>
         {{ end }}
 
@@ -36,9 +50,14 @@
             {{ block "main" . }}{{ end }}
         </main>
 
-        <footer>
-            {{ partial "footer.html" . }}
-        </footer>
+        {{ if hugo.IsProduction }}
+            <footer>
+                {{ partial "footer.html" . }}
+            </footer>
+        {{ else }}
+            Kein Footer in development
+        {{ end }}
+
 
         <!-- formActions -->
         <script>
