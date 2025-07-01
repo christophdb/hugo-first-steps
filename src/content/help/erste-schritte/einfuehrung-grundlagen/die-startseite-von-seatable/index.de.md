@@ -23,7 +23,7 @@ Die Kopfzeile der Startseite enthält vier Elemente. Diese sind:
 
 ## Seitennavigation
 
-Die linke Seitennavigation der Startseite enthält Links zu verschiedenen Abschnitten und Ressourcen: [Bases]({{< relref "help/startseite/bases/loeschen-einer-base" >}}). Außerdem finden Sie hier Links zu diesem Benutzerhandbuch und den [Vorlagen]({{< relref "templates" >}}), die Ihnen innerhalb von SeaTable zur Verfügung stehen.
+Die linke Seitennavigation der Startseite enthält Links zu verschiedenen Abschnitten und Ressourcen wie [Bases]({{< relref "help/startseite/bases" >}}) und [Papierkorb]({{< relref "help/startseite/papierkorb" >}}). Außerdem finden Sie hier Links zu diesem Benutzerhandbuch und den [Vorlagen]({{< relref "templates" >}}), die Ihnen innerhalb von SeaTable zur Verfügung stehen.
 
 ## Arbeitsbereich
 

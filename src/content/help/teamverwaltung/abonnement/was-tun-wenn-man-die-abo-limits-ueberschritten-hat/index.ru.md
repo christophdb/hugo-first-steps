@@ -27,7 +27,7 @@ url: '/ru/pomoshch/was-tun-wenn-man-die-abo-limits-ueberschritten-hat'
 
 Если вы не хотите переходить на более обширный пакет подписки, у вас есть возможность **удалять** только части ваших данных, пока вы не **исчерпаете** лимиты текущей подписки. В этом вам помогут следующие справочные статьи:
 
-- [Удаление базы]({{< relref "help/startseite/bases/loeschen-einer-base" >}})
+- [Удаление базы]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}})
 - [Очистка корзины в командной администрации]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
 - [Удаление таблицы из базы]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
 - [Удалить строку]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})

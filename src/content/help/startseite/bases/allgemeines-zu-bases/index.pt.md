@@ -83,7 +83,7 @@ Para mais informações sobre bases de exportação, ver o artigo [Salvando uma 
 
 ## Eliminar e restaurar bases
 
-Pode [apagar as]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) bases que possui ou administrar, se necessário, e [restaurá-las]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) por até 30 dias. Siga as instruções contidas nos artigos ligados.
+Pode [apagar as]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}}) bases que possui ou administrar, se necessário, e [restaurá-las]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}) por até 30 dias. Siga as instruções contidas nos artigos ligados.
 
 ### Restaurar Base a partir de Snapshot
 

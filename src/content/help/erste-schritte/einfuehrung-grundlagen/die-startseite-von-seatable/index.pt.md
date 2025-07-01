@@ -23,7 +23,7 @@ O cabeçalho da página inicial contém quatro elementos. Estes são:
 
 ## Navegação da página
 
-A navegação do lado esquerdo da página inicial contém hiperligações para várias secções e recursos: [Bases]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) Inicial. Encontrará também ligações para este manual do utilizador e para os [modelos]({{< relref "templates" >}}) disponíveis no SeaTable.
+A navegação do lado esquerdo da página inicial contém hiperligações para várias secções e recursos como as [Bases]({{< relref "help/startseite/bases" >}}) e o [Lixo]({{< relref "help/startseite/papierkorb" >}}). Encontrará também ligações para este manual do utilizador e para os [modelos]({{< relref "templates" >}}) disponíveis no SeaTable.
 
 ## Espaço de trabalho
 
