@@ -26,7 +26,7 @@ url: '/ru/pomoshch/wie-finde-ich-fehlende-daten-in-einer-base-wieder'
 
 Удаленные базы можно восстановить через корзину на стартовой странице. Обратите внимание, что это возможно только до 30-го дня после удаления.
 
-Узнайте больше о восстановлении базы [здесь]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
+Узнайте больше о восстановлении базы [здесь]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## Восстановление данных через базовый журнал
 

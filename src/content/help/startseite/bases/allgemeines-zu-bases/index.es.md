@@ -83,7 +83,7 @@ Para obtener más información sobre la exportación de bases, consulte el artí
 
 ## Borrar y restaurar bases
 
-Puedes [borrar]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) las bases que poseas o administres si es necesario y [restaurarlas]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) durante un máximo de 30 días. Sigue las instrucciones de los artículos enlazados.
+Puedes [borrar]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}}) las bases que poseas o administres si es necesario y [restaurarlas]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}) durante un máximo de 30 días. Sigue las instrucciones de los artículos enlazados.
 
 ### Restaurar base desde instantánea
 

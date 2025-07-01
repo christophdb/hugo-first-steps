@@ -83,7 +83,7 @@ Vous trouverez plus d'informations sur l'exportation des bases dans l'article [E
 
 ## Supprimer et restaurer des bases
 
-Vous pouvez [supprimer]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) les bases dont vous êtes le propriétaire ou l'administrateur si nécessaire et les [restaurer]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) pendant 30 jours au maximum. Pour ce faire, suivez les instructions des articles liés.
+Vous pouvez [supprimer]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}}) les bases dont vous êtes le propriétaire ou l'administrateur si nécessaire et les [restaurer]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}) pendant 30 jours au maximum. Pour ce faire, suivez les instructions des articles liés.
 
 ### Restaurer la base à partir d'un snapshot
 

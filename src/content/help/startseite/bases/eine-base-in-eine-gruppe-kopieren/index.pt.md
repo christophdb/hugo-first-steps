@@ -22,7 +22,7 @@ Pode **copiar** facilmente bases no SeaTable. Desta forma, pode mover uma das su
 
 {{< warning  headline="Nota" >}}
 
-Após a cópia, a base correspondente encontra-se no **local original**, bem como no **local de destino**. Se necessário, pode então [apagar]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) a base num local.
+Após a cópia, a base correspondente encontra-se no **local original**, bem como no **local de destino**. Se necessário, pode então [apagar]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}}) a base num local.
 
 {{< /warning >}}
 

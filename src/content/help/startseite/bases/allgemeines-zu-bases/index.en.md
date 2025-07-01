@@ -83,7 +83,7 @@ For more information on exporting bases, see the article [Saving a Base as a DTA
 
 ## Delete and restore bases
 
-You can [delete]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) and [restore]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) bases that you own or administer as needed for up to 30 days. To do this, follow the instructions in the linked articles.
+You can [delete]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}}) and [restore]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}) bases that you own or administer as needed for up to 30 days. To do this, follow the instructions in the linked articles.
 
 ### Restore Base from Snapshot
 

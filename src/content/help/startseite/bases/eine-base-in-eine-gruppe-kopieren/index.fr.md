@@ -22,7 +22,7 @@ Vous pouvez facilement **copier** des bases dans SeaTable. De cette manière, vo
 
 {{< warning  headline="Remarque" >}}
 
-Après la copie, la base correspondante se trouve à la fois à l'**endroit d'origine** et à l'**endroit de destination**. Si nécessaire, vous pouvez ensuite [supprimer]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) la base à un endroit.
+Après la copie, la base correspondante se trouve à la fois à l'**endroit d'origine** et à l'**endroit de destination**. Si nécessaire, vous pouvez ensuite [supprimer]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}}) la base à un endroit.
 
 {{< /warning >}}
 

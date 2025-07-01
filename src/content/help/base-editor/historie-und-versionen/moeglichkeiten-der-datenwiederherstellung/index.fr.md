@@ -27,7 +27,7 @@ L'article suivant vous donne un aperçu du moment où quelle option de restaurat
 
 ## 1\. restauration des bases supprimées
 
-Si vous avez supprimé une base complète, vous pouvez la restaurer en utilisant une corbeille sur la page d'accueil de SeaTable. Pour savoir comment cela fonctionne, consultez l'article [Restaurer une base supprimée]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
+Si vous avez supprimé une base complète, vous pouvez la restaurer en utilisant une corbeille sur la page d'accueil de SeaTable. Pour savoir comment cela fonctionne, consultez l'article [Restaurer une base supprimée]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. restauration des lignes, colonnes ou tableaux supprimés
 

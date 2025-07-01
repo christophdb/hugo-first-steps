@@ -84,7 +84,7 @@ Mehr Informationen zum Export von Bases finden Sie im Beitrag [Speichern einer B
 
 ## Bases löschen und wiederherstellen
 
-Sie können Bases, deren Eigentümer oder Administrator Sie sind, bei Bedarf [löschen]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) und bis zu 30 Tage lang [wiederherstellen]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}). Befolgen Sie dazu die Anleitungen in den verlinkten Artikeln.
+Sie können Bases, deren Eigentümer oder Administrator Sie sind, bei Bedarf [löschen]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}}) und bis zu 30 Tage lang [wiederherstellen]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}). Befolgen Sie dazu die Anleitungen in den verlinkten Artikeln.
 
 ### Base aus Snapshot wiederherstellen
 

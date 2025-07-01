@@ -27,7 +27,7 @@ O artigo seguinte dá-lhe uma visão geral de quando a opção de recuperação 
 
 ## 1\. recuperação de bases apagadas
 
-Se tiver eliminado uma base inteira, pode restaurá-la através de um contentor de reciclagem na página inicial da SeaTable. Pode descobrir como isto funciona no artigo [Restaurando uma base eliminada]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
+Se tiver eliminado uma base inteira, pode restaurá-la através de um contentor de reciclagem na página inicial da SeaTable. Pode descobrir como isto funciona no artigo [Restaurando uma base eliminada]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. recuperação de linhas, colunas ou tabelas eliminadas
 

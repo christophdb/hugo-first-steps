@@ -27,7 +27,7 @@ Der folgende Artikel gibt Ihnen einen Überblick, wann welche Wiederherstellungs
 
 ## 1\. Wiederherstellung gelöschter Bases
 
-Wenn Sie eine komplette Base gelöscht haben, können Sie diese über einen Papierkorb auf der Startseite von SeaTable wiederherstellen. Wie das funktioniert, erfahren Sie im Artikel [Eine gelöschte Base wiederherstellen]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
+Wenn Sie eine komplette Base gelöscht haben, können Sie diese über einen Papierkorb auf der Startseite von SeaTable wiederherstellen. Wie das funktioniert, erfahren Sie im Artikel [Eine gelöschte Base wiederherstellen]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. Wiederherstellung gelöschter Zeilen, Spalten oder Tabellen
 

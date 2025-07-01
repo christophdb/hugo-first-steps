@@ -12,23 +12,23 @@ Las bases que hayas creado en "Mis bases" o en grupos pueden borrarse y, si es n
 
 ## Restaurar una base eliminada de Mis bases
 
-![Restaurar una base borrada de Mis Bases](images/restore-a-deleted-base-1.gif)
+![Restaurar una base borrada de Mis Bases](images/restore-a-deleted-base.gif)
 
-1. Cambie a la página de **inicio** de SeaTable.
-2. Abre la **papelera de reciclaje**.
+1. Cambie a la **página de inicio** de SeaTable.
+2. Abre la **papelera**.
 3. Seleccione la **base** que desea restaurar. Para ello, haga clic en el **nombre de la base** o en **Restaurar** a la derecha de la fecha de borrado.
 4. Confirme la restauración haciendo clic de nuevo en **Restaurar**.
 5. Ahora encontrarás la base restaurada en la página de inicio, en **Mis bases**.
 
 ## Restaurar la base borrada de un grupo
 
-Las bases que se han borrado de un grupo **no** se pueden restaurar de la forma descrita anteriormente, ya que cada grupo tiene su propia **papelera de reciclaje**. Utilizando la papelera de reciclaje de un grupo, puedes restaurar todas las bases del grupo que hayan sido borradas en los últimos 30 días.
+Las bases que se han borrado de un grupo **no** se pueden restaurar de la forma descrita anteriormente, ya que cada grupo tiene su propia **papelera**. Utilizando la papelera de un grupo, puedes restaurar todas las bases del grupo que hayan sido borradas en los últimos 30 días.
 
 ![Restaurar una base borrada de un grupo](images/restore-a-deleted-base-of-a-group.gif)
 
-1. Cambie a la página de **inicio** de SeaTable.
+1. Cambie a la **página de inicio** de SeaTable.
 2. Haga clic en el **símbolo del triángulo** situado a la derecha del nombre del grupo en el que se encontraba la base eliminada.
-3. Abre la **papelera de reciclaje**.
+3. Abre la **papelera**.
 4. Seleccione la **base** que desea restaurar. Para ello, haga clic en el **nombre de la base** o en **Restaurar** a la derecha de la fecha de borrado.
 5. Confirme la restauración haciendo clic de nuevo en **Restaurar**.
 6. Ahora encontrará la base restaurada en el **grupo** correspondiente de la página de inicio.

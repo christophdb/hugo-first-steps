@@ -27,7 +27,7 @@ Pour pouvoir à nouveau travailler pleinement avec vos données, vous devez [met
 
 Si vous ne souhaitez pas passer à une formule d'abonnement plus complète, vous avez uniquement la possibilité de **supprimer** une partie de vos données jusqu'à ce que vous n'atteigniez **plus** les limites de votre abonnement actuel. Les articles d'aide suivants peuvent vous aider dans cette démarche :
 
-- [Suppression d'une base]({{< relref "help/startseite/bases/loeschen-einer-base" >}})
+- [Suppression d'une base]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}})
 - [Vider la corbeille dans la gestion d'équipe]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
 - [Supprimer un tableau d'une base]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
 - [Suppression d'une ligne]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})

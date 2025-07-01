@@ -12,7 +12,7 @@ Les bases que vous avez créées sous "Mes bases" ou dans des groupes peuvent ê
 
 ## Restaurer une base supprimée de "Mes bases".
 
-![Restaurer une base supprimée de "Mes bases".](images/restore-a-deleted-base-1.gif)
+![Restaurer une base supprimée de "Mes bases".](images/restore-a-deleted-base.gif)
 
 1. Passez à la **page d'accueil** de SeaTable.
 2. Ouvrez la **corbeille**.

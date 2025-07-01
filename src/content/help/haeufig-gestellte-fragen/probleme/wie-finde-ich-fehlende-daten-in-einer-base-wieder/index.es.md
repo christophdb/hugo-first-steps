@@ -26,7 +26,7 @@ Más información sobre la restauración de tablas, columnas y filas [aquí]({{<
 
 Las bases borradas pueden restaurarse a través de la papelera de reciclaje de la página de inicio. Ten en cuenta que esto solo es posible hasta 30 días después de la eliminación.
 
-Más información sobre la restauración de bases [aquí]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
+Más información sobre la restauración de bases [aquí]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## Restauración de datos a través del registro base
 
