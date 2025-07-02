@@ -8,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Лучшие практики'
+    - 'best-practice'
 tags:
     - 'Выставление счетов-фактур'
 color: '#edb905'
