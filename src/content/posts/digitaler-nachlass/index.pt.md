@@ -4,10 +4,15 @@ date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
 url: '/pt/digitaler-nachlass'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'Melhores práticas'
+tags:
+    - 'Segurança informática e privacidade dos dados'
+    - 'Vida cotidiana e lazer'
+color: '#b8adcb'
 ---
 
 Na era digital em que vivemos, a nossa **vida em linha** está a tornar-se cada vez mais importante: comunicamos através de e-mails, messengers e redes sociais, guardamos ficheiros e fotografias importantes na nuvem, fazemos operações bancárias em linha e deixamos inúmeros vestígios na Internet. Mas o que acontece realmente a todos estes dados e contas quando morremos um dia? Palavra-chave: **património digital**.

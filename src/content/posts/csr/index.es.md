@@ -7,6 +7,12 @@ url: '/es/csr'
 seo:
     title:
     description:
+categories:
+    - 'Mejores prácticas'
+tags:
+    - 'Construya su empresa'
+    - 'Operaciones'
+color: '#4fb086'
 ---
 
 En un momento en que la tendencia hacia **la sostenibilidad** está ganando impulso, las empresas se enfrentan al reto de satisfacer las mayores expectativas de sus clientes. La creciente demanda de productos sostenibles se refleja en el comportamiento de los consumidores, que valoran cada vez más la compatibilidad medioambiental y la responsabilidad social, palabra clave: **responsabilidad social de las empresas (RSE)**.

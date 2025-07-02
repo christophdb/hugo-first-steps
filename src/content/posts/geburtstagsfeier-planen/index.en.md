@@ -2,13 +2,15 @@
 title: 'Birthday party planning - 3 steps to the perfect party'
 date: 2023-07-26
 lastmod: '2024-01-11'
-coverImage: 'pexels-pavel-danilyuk-7221139-1-min-scaled.jpg'
-author: 'nsc2'
 url: '/geburtstagsfeier-planen'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
+color: '#fe5d4c'
 ---
 
 Are you celebrating your birthday soon or want to plan a birthday party for your loved ones? In order for your party to be unique and to be remembered by your guests for a long time, detailed planning is essential. From choosing a dream location to catering and music, organizing all the important aspects of your party early on creates the perfect conditions for a successful celebration. No matter if it's a round birthday, a theme party or a children's birthday party: with our guidance you can organize and realize any party.

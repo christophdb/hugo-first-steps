@@ -7,6 +7,11 @@ url: '/es/gender-reveal-party'
 seo:
     title:
     description:
+categories:
+    - 'Mejores prácticas'
+tags:
+    - 'Vida cotidiana y ocio'
+color: '#f6dded'
 ---
 
 ¿Viene un bebé en camino y quieres celebrarlo por todo lo alto? Entonces una **fiesta de revelación de sexo** es lo que necesitas. Esta tendencia estadounidense consiste en desvelar el sexo del bebé de una forma impresionante. Si quieres organizar una fiesta **de** este tipo, tienes que planificar cuidadosamente cómo coordinar la decoración, la comida y el programa.

@@ -2,11 +2,15 @@
 title: 'Gestion de la flotte : comment gérer intelligemment votre parc de véhicules'
 date: 2024-01-09
 lastmod: '2025-02-12'
-author: 'kgr'
 url: '/fr/fuhrparkmanagement'
 seo:
     title:
     description:
+categories:
+    - 'Meilleures pratiques'
+tags:
+    - 'Gestion de flotte'
+color: '#f2653f'
 ---
 
 Qu'il s'agisse de camions, de bus ou de voitures de service classiques, la gestion d'une flotte de véhicules est une tâche polyvalente pour les entreprises de toutes tailles, qui nécessite de prendre en compte un certain nombre d'éléments. C'est pourquoi l'article suivant a pour but de vous aider à répondre à toutes vos questions concernant la **gestion de votre parc automobile**.

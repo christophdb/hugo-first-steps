@@ -2,12 +2,15 @@
 title: "Planifier une fête d'anniversaire - 3 étapes pour une fête parfaite"
 date: 2023-07-26
 lastmod: '2024-01-11'
-author: 'nsc2'
 url: '/fr/geburtstagsfeier-planen'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'Meilleures pratiques'
+tags:
+    - 'Vie Quotidienne'
+color: '#fe5d4c'
 ---
 
 Vous allez bientôt fêter votre anniversaire ou vous souhaitez organiser une fête d'anniversaire pour vos proches ? Pour que votre fête soit unique et que vos invités s'en souviennent longtemps, une planification détaillée est indispensable. Du choix d'un lieu de rêve à la restauration et à la musique, l'organisation précoce de tous les aspects importants de votre fête crée les conditions parfaites pour une fête réussie. Qu'il s'agisse d'un anniversaire rond, d'une fête à thème ou d'un anniversaire d'enfant, notre guide vous permettra d'organiser et de réaliser n'importe quelle fête.
