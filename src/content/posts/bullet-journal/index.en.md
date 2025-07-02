@@ -8,6 +8,11 @@ url: '/bullet-journal'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+      - 'Everyday Life & Leisure'
+color: '#f9cb0d'
 ---
 
 In often stressful everyday life, it is difficult to reconcile tasks, appointments and your own interests. To make sure you don't lose sight of the things that are really important to you in life in the daily pile of monotonous routines, it helps to write them down. A **bullet journal** is ideal for this, in which you can record everything important and give free rein to your creativity.

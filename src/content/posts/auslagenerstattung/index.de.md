@@ -8,6 +8,11 @@ url: '/de/auslagenerstattung'
 seo:
     title: Auslagenerstattung – Tipps für Arbeitgeber und Arbeitnehmer
     description: Erfahren Sie alles, was Sie über Auslagenerstattung wissen müssen. Inklusive Tipps und kostenloser Vorlage!
+categories:
+    - 'best-practice'
+tags:
+    - 'Rechnungswesen'
+color: '#edb905'
 ---
 
 Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der **Auslagenerstattung** zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung für Ihre Mitarbeiter effizienter zu gestalten?

@@ -8,6 +8,11 @@ url: '/beerdigung-planen'
 seo:
     title: Planning a funeral - for a dignified farewell
     description: When someone dies, relatives often don't know how to plan a funeral. This article will help you to say goodbye with dignity.
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
+color: '#a59ecd'
 ---
 
 Sie haben einen geliebten Menschen verloren und möchten die anstehende Beerdigung reibungslos hinter sich bringen? Oder Sie möchten Ihre eigene Beerdigung planen, um Ihre Angehörigen nach Ihrem Tod zu entlasten? Dieser Artikel liefert Ihnen alle wichtigen Informationen, was Sie rund um die Organisation einer Bestattung beachten sollten.

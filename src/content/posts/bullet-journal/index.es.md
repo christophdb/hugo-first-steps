@@ -7,6 +7,11 @@ url: '/es/bullet-journal'
 seo:
     title:
     description:
+categories:
+    - 'Mejores prácticas'
+tags:
+      - 'Vida cotidiana y ocio'
+color: '#f9cb0d'
 ---
 
 En una vida cotidiana a menudo estresante, es difícil hacer malabarismos con las tareas, las citas y los propios intereses. Para no perder de vista las cosas realmente importantes de la vida en el cúmulo diario de rutinas monótonas, es útil anotarlas. Para ello es ideal un **bullet journal**, en el que puedes anotar todo lo importante y dar rienda suelta a tu creatividad.

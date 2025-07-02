@@ -7,6 +7,11 @@ url: '/fr/bullet-journal'
 seo:
     title:
     description:
+categories:
+    - 'Meilleures pratiques'
+tags:
+      - 'Vie Quotidienne'
+color: '#f9cb0d'
 ---
 
 Dans un quotidien souvent stressant, il est difficile de concilier les tâches, les rendez-vous et ses propres intérêts. Pour ne pas perdre de vue les choses qui sont vraiment importantes pour vous dans la vie, il est utile de les noter dans le tas de processus monotones quotidiens. Pour cela, un **Bullet Journal** est idéal, dans lequel vous pouvez noter tout ce qui est important et laisser libre cours à votre créativité.

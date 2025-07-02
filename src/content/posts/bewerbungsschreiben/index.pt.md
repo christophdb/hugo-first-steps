@@ -7,6 +7,11 @@ url: '/pt/bewerbungsschreiben'
 seo:
     title:
     description:
+categories:
+    - 'Melhores práticas'
+tags:
+      - 'Vida cotidiana e lazer'
+color: '#add899'
 ---
 
 Quer se trate de um estágio, de uma aprendizagem ou de um posto de trabalho permanente - o primeiro passo no caminho para o seu emprego de sonho é sempre uma **candidatura** bem sucedida. Encontrou muitas **ofertas de emprego** interessantes, mas escrever candidaturas está a dar-lhe dores de cabeça? Não se preocupe, não é o único. Para muitas pessoas, a **carta de candidatura** é um grande obstáculo, uma vez que requer uma autoavaliação honesta e envolve uma formulação elaborada das suas próprias competências.

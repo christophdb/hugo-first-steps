@@ -8,6 +8,11 @@ color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'Meilleures pratiques'
+tags:
+      - 'Vie Quotidienne'
+color: '#3090b6'
 ---
 
 Vous avez toujours voulu faire un saut en parachute depuis un avion ? Vous rêvez depuis votre enfance de faire de la plongée sur la Grande Barrière de Corail en Australie ? Ou vous aimeriez passer une nuit dans un igloo en Norvège ? Alors inscrivez ces destinations sur votre bucket list !

@@ -8,6 +8,11 @@ color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'Melhores práticas'
+tags:
+      - 'Vida cotidiana e lazer'
+color: '#3090b6'
 ---
 
 Sempre quis experimentar um salto de para-quedas de um avião? Desde criança que sonha em mergulhar na Grande Barreira de Coral na Austrália? Ou gostaria de passar uma noite num iglu na Noruega? Então, coloque estes destinos na sua lista de desejos!

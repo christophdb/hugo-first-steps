@@ -7,6 +7,11 @@ url: '/es/bewerbungsschreiben'
 seo:
     title:
     description:
+categories:
+    - 'Mejores prácticas'
+tags:
+      - 'Vida cotidiana y ocio'
+color: '#add899'
 ---
 
 Tanto si se trata de unas prácticas como de un puesto de aprendiz o fijo, el primer paso para conseguir el trabajo de tus sueños es siempre una buena **solicitud**. ¿Has encontrado muchas **ofertas de trabajo** interesantes, pero redactar las solicitudes te da quebraderos de cabeza? No se preocupe, no es el único. Para muchas personas, la **carta de solicitud** es un gran obstáculo, ya que requiere una autoevaluación honesta e implica una formulación elaborada de sus propias habilidades.
