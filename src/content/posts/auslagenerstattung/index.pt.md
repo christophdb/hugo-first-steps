@@ -7,6 +7,11 @@ url: '/pt/auslagenerstattung'
 seo:
     title:
     description:
+categories:
+    - 'Melhores práticas'
+tags:
+    - 'Faturação'
+color: '#edb905'
 ---
 
 Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der **Auslagenerstattung** zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung für Ihre Mitarbeiter effizienter zu gestalten?

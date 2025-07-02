@@ -7,6 +7,11 @@ url: '/fr/beerdigung-planen'
 seo:
     title:
     description:
+categories:
+    - 'Meilleures pratiques'
+tags:
+      - 'Vie Quotidienne'
+color: '#a59ecd'
 ---
 
 Vous avez perdu un être cher et souhaitez que les funérailles à venir se déroulent sans encombre ? Ou vous souhaitez organiser vos propres funérailles afin de soulager vos proches après votre décès ? Cet article vous fournit toutes les informations importantes dont vous devez tenir compte pour l'organisation des obsèques.

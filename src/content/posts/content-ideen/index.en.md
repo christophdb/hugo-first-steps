@@ -5,10 +5,14 @@ lastmod: '2025-02-13'
 coverImage: 'content-for-instagram-e1622035217478.jpg'
 author: 'nsc'
 url: '/content-ideen'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+      - 'Content Planning'
+color: '#c9b6e2'
 ---
 
 One thing is particularly important for a successful social media presence: **posting** content **regularly**. The algorithms of [Instagram](http://www.instagram.com) and the like immediately penalize inactivity and limit the visibility of accounts, which can be fatal for your **reach**. It is therefore important to feed the algorithm regularly and collect content ideas for Instagram, TikTok etc.

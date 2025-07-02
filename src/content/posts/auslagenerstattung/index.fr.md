@@ -7,6 +7,11 @@ url: '/fr/auslagenerstattung'
 seo:
     title:
     description:
+categories:
+    - 'Meilleures pratiques'
+tags:
+    - 'Comptabilité'
+color: '#edb905'
 ---
 
 Qu'il s'agisse d'un repas d'affaires, d'un billet de train ou d'un téléphone portable professionnel, vous faites régulièrement des avances dans le cadre de votre travail et vous souhaitez savoir ce qu'il faut prendre en compte pour le **remboursement des frais**? Ou êtes-vous vous-même employeur et cherchez-vous un moyen de rendre le processus de remboursement des frais plus efficace pour vos collaborateurs ?

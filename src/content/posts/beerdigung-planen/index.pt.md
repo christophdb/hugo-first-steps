@@ -7,6 +7,11 @@ url: '/pt/beerdigung-planen'
 seo:
     title:
     description:
+categories:
+    - 'Melhores práticas'
+tags:
+      - 'Vida cotidiana e lazer'
+color: '#a59ecd'
 ---
 
 Perdeu um ente querido e gostaria de organizar o funeral sem problemas? Ou gostaria de planear o seu próprio funeral para aliviar os seus familiares após a sua morte? Este artigo fornece-lhe todas as informações importantes que precisa de saber sobre a organização de um funeral.
