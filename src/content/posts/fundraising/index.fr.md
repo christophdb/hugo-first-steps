@@ -2,11 +2,16 @@
 title: 'Collecte de fonds : comment collecter et gérer les dons - SeaTable'
 date: 2024-04-16
 lastmod: '2024-04-16'
-author: 'nsc'
 url: '/fr/fundraising'
 seo:
     title:
     description:
+categories:
+    - 'Meilleures pratiques'
+tags:
+    - 'Finances'
+    - 'Management arts et culture'
+color: '#465b46'
 ---
 
 **La collecte de fonds** est plus qu'une simple stratégie de financement : c'est un moyen d'atteindre des objectifs communs. Du soutien **aux organisations d'utilité publique** au financement **de l'innovation entrepreneuriale** en passant par les **campagnes politiques**, il pénètre presque tous les domaines de la vie sociale. Il fait appel à une multitude de stratégies pour encourager l'engagement et la solidarité des personnes.

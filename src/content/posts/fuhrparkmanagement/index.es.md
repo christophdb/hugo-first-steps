@@ -2,11 +2,15 @@
 title: 'Gestión de flotas: cómo gestionar su flota de forma inteligente'
 date: 2024-01-09
 lastmod: '2025-02-12'
-author: 'kgr'
 url: '/es/fuhrparkmanagement'
 seo:
     title:
     description:
+categories:
+    - 'Mejores prácticas'
+tags:
+    - 'Gestión de flotas'
+color: '#f2653f'
 ---
 
 Ya sean camiones, autobuses o coches de empresa clásicos: la gestión de una flota de vehículos es una tarea polifacética para empresas de todos los tamaños, y hay mucho que tener en cuenta. Por eso, el siguiente artículo pretende ayudarle a aclarar todas sus dudas sobre la **gestión de flotas**.

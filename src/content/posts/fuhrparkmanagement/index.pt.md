@@ -2,11 +2,15 @@
 title: 'Gestão de frotas: Como gerir a sua frota de forma inteligente'
 date: 2024-01-09
 lastmod: '2025-02-12'
-author: 'kgr'
 url: '/pt/fuhrparkmanagement'
 seo:
     title:
     description:
+categories:
+    - 'Melhores práticas'
+tags:
+    - 'Gestão de frotas'
+color: '#f2653f'
 ---
 
 Quer se trate de camiões, autocarros ou automóveis clássicos da empresa: a gestão de uma frota de veículos é uma tarefa multifacetada para empresas de todas as dimensões, e há muito a considerar. O artigo que se segue destina-se, portanto, a ajudar a esclarecer todas as suas dúvidas sobre a **gestão de frotas**.

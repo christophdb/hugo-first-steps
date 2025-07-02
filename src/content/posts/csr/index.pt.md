@@ -7,6 +7,12 @@ url: '/pt/csr'
 seo:
     title:
     description:
+categories:
+    - 'Melhores práticas'
+tags:
+    - 'Criar a sua empresa'
+    - 'Operações'
+color: '#4fb086'
 ---
 
 Numa altura em que a tendência para a **sustentabilidade** está a ganhar força, as empresas são confrontadas com o desafio de satisfazer as expectativas mais elevadas dos seus clientes. A procura crescente de produtos sustentáveis reflecte-se no comportamento dos consumidores, que valorizam cada vez mais a compatibilidade ambiental e a responsabilidade social - palavra-chave: **Responsabilidade Social das Empresas (R**SE).

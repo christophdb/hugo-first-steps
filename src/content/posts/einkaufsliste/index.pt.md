@@ -4,10 +4,15 @@ date: 2024-02-05
 lastmod: '2024-02-05'
 author: 'nsc'
 url: '/pt/einkaufsliste'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'Melhores práticas'
+tags:
+    - 'Ferramentas e plugins'
+    - 'Vida cotidiana e lazer'
+color: '#f46d34'
 ---
 
 Na vida quotidiana agitada, ir ao supermercado pode tornar-se um verdadeiro desafio entre todos os compromissos profissionais e privados. Em dias de stress, não é raro esquecer a lista de compras que foi cuidadosamente criada em casa. Mas não se preocupe - uma **lista de compras digital/aplicação** pode ser um remédio eficaz nessas situações.

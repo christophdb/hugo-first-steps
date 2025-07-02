@@ -5,10 +5,15 @@ lastmod: '2024-02-05'
 coverImage: 'einkaufswagen-voller-produkte-in-einem-supermarkt.jpg'
 author: 'nsc'
 url: '/einkaufsliste'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Tools & Plugins'
+    - 'Everyday Life & Leisure'
+color: '#f46d34'
 ---
 
 In hectic everyday life, going to the supermarket can become a real challenge between all the professional and private commitments. On stressful days, it's not uncommon to forget the shopping list you've painstakingly created at home. But don't worry - a **digital shopping list/app** can be an effective remedy in such situations.

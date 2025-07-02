@@ -2,12 +2,15 @@
 title: 'Fleet management: How to manage your fleet cleverly'
 date: 2024-01-09
 lastmod: '2025-02-12'
-coverImage: 'fuhrparkmanagement-mit-seatable.jpg'
-author: 'kgr'
 url: '/fuhrparkmanagement'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Fleet Management'
+color: '#f2653f'
 ---
 
 Whether trucks, buses or classic company cars: managing a fleet of vehicles is a multifaceted task for companies of all sizes and there are a number of things to consider. The following article is therefore intended to help clarify all your questions about **fleet management**.

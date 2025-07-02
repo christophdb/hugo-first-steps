@@ -7,6 +7,12 @@ url: '/fr/csr'
 seo:
     title:
     description:
+categories:
+    - 'Meilleures pratiques'
+tags:
+    - 'Créez votre entreprise'
+    - 'Opérations'
+color: '#4fb086'
 ---
 
 À une époque où la tendance au **développement durable** se renforce de plus en plus, les entreprises sont confrontées au défi de répondre aux exigences accrues de leurs clients. La demande croissante de produits durables se reflète dans le comportement des consommateurs, qui accordent de plus en plus d'importance au respect de l'environnement et à la responsabilité sociale - mot-clé : **Corporate Social Responsibility (CSR)**.

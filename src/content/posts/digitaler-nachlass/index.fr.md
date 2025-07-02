@@ -4,10 +4,15 @@ date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
 url: '/fr/digitaler-nachlass'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'Meilleures pratiques'
+tags:
+    - 'Sécurité informatique'
+    - 'Vie Quotidienne'
+color: '#b8adcb'
 ---
 
 À l'ère du numérique, notre **vie en ligne** prend de plus en plus d'importance : nous communiquons par e-mails, messageries et médias sociaux, nous stockons des fichiers et des photos importants dans le cloud, nous effectuons des opérations bancaires en ligne et nous laissons d'innombrables traces sur Internet. Mais qu'advient-il de toutes ces données et de tous ces comptes si l'on décède un jour ? Mot-clé : l'**héritage numérique**.

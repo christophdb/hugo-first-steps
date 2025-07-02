@@ -4,10 +4,15 @@ date: 2024-02-05
 lastmod: '2024-02-05'
 author: 'nsc'
 url: '/fr/einkaufsliste'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'Meilleures pratiques'
+tags:
+    - 'Outils & plugins'
+    - 'Vie Quotidienne'
+color: '#f46d34'
 ---
 
 Dans le rythme effréné de la vie quotidienne, aller au supermarché peut devenir un véritable défi entre toutes les obligations professionnelles et privées. Les jours de stress, il n'est pas rare que l'on oublie également la liste de courses que l'on a péniblement établie à la maison. Mais ne vous inquiétez pas - une **liste de courses / application numérique** peut remédier efficacement à de telles situations.
