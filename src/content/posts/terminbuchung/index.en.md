@@ -9,6 +9,7 @@ color: '#eeeeee'
 seo:
     title:
     description:
+draft: true
 ---
 
 How much time do you spend making appointments with customers and business partners? Either the phone is constantly ringing, pulling you out of your workflow again and again, or you write countless emails to finally come to a common denominator when it comes to finding appointments. The constant back-and-forth of scheduling and rescheduling appointments can also be annoying for your customers. The solution: an online appointment booking system.

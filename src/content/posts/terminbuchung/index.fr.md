@@ -8,6 +8,7 @@ color: '#eeeeee'
 seo:
     title:
     description:
+draft: true
 ---
 
 Combien de temps passez-vous à fixer des rendez-vous avec des clients et des partenaires commerciaux ? Soit le téléphone n'arrête pas de sonner et vous sort sans cesse de votre flux de travail, soit vous écrivez d'innombrables e-mails pour trouver enfin un dénominateur commun dans la fixation des rendez-vous. Pour vos clients aussi, les allers et retours incessants lors de la planification et du report des rendez-vous peuvent être agaçants. La solution : un système de prise de rendez-vous en ligne.

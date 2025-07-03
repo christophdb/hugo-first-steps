@@ -8,6 +8,7 @@ color: '#eeeeee'
 seo:
     title:
     description:
+draft: true
 ---
 
 ¿Cuánto tiempo dedica a concertar citas con clientes y socios comerciales? O bien el teléfono no para de sonar, sacándole una y otra vez de su flujo de trabajo, o bien escribe innumerables correos electrónicos para llegar por fin a un denominador común a la hora de encontrar citas. También para sus clientes, las constantes idas y venidas a la hora de planificar y reprogramar citas pueden resultar molestas. La solución: un sistema de reserva de citas online.

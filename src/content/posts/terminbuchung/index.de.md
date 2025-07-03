@@ -9,6 +9,7 @@ color: '#eeeeee'
 seo:
     title: ''
     description: ''
+draft: true
 ---
 
 Wie viel Zeit verbringen Sie damit, Termine mit Kunden und Geschäftspartnern auszumachen? Entweder das Telefon klingelt ständig und reißt Sie immer wieder aus Ihrem Workflow heraus oder Sie schreiben unzählige E-Mails, um bei der Terminfindung endlich auf einen Nenner zu kommen. Auch für Ihre Kunden kann das ständige Hin und Her beim Planen und Verschieben von Terminen nervig sein. Die Lösung: Ein Online-Terminbuchungssystem.

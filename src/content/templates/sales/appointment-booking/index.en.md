@@ -3,6 +3,8 @@ title: 'Appointment Booking'
 description: ''
 date: '2024-08-16'
 url: '/template/appointment-booking'
+aliasses: 
+    - '/terminbuchung'
 category: 'sales'
 functions:
 seo:
