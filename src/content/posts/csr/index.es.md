@@ -8,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Construya su empresa'
     - 'Operaciones'

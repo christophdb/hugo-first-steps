@@ -7,7 +7,7 @@ seo:
     description: "La planification du personnel en toute simplicité : découvrez comment composer votre équipe de manière optimale et éviter les goulots d'étranglement."
 date: 2025-06-30
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Gestion du personnel'
 color: '#4c9481'

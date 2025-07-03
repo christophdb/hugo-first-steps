@@ -8,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
       - 'Planification de contenu'
 color: '#c9b6e2'

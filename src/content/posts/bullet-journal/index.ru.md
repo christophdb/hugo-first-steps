@@ -8,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Лучшие практики'
+    - 'best-practice'
 tags:
       - 'Повседневная жизнь и досуг'
 color: '#f9cb0d'

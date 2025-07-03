@@ -7,7 +7,7 @@ seo:
     title:
     description:
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 tags:
     - 'Gestão de frotas'
 color: '#f2653f'

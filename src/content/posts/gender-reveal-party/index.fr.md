@@ -7,7 +7,7 @@ seo:
     title:
     description:
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Vie Quotidienne'
 color: '#f6dded'
