@@ -8,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Лучшие практики'
+    - 'best-practice'
 tags:
       - 'Планирование контента'
 color: '#c9b6e2'

@@ -7,7 +7,7 @@ seo:
     description: 'Planificación de personal simplificada: descubra cómo optimizar su equipo y evitar cuellos de botella.'
 date: 2025-06-30
 categories:
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Administración de RR.HH.'
 color: '#4c9481'
