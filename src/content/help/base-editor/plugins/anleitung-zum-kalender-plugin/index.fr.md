@@ -14,7 +14,7 @@ Il existe en tout 5 options d'affichage : Vous pouvez afficher les rendez-vous d
 
 {{< warning  headline="Exigences" >}}
 
-Pour pouvoir utiliser la représentation du calendrier pour une vue de tableau, vous avez besoin d'au moins une [colonne de date]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+Pour pouvoir utiliser la représentation du calendrier pour une vue de tableau, vous avez besoin d'au moins une [colonne de date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}).
 
 {{< /warning >}}
 

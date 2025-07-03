@@ -12,7 +12,7 @@ Dans SeaTable, vous pouvez à tout moment enregistrer une base sous forme d'**in
 
 Bon à savoir : SeaTable crée automatiquement un snapshot par jour de chaque base dans laquelle des modifications ont été effectuées. Ainsi, vous avez toujours des copies de sauvegarde de vos bases avec les dernières versions.
 
-{{< warning  headline="Attention"  text="Bien que les snapshots soient des copies de l'état de la mémoire d'une base, ils ne contiennent **pas toutes les** informations et **tous les** paramètres. Vous ne pouvez par exemple pas restaurer les **commentaires**, les **automatisations** et **les apps** avec des snapshots. Vous trouverez plus d'informations à ce sujet à la fin de cet article." />}}
+{{< warning  headline="Attention"  text="Bien que les snapshots soient des copies de l'état de la mémoire d'une base, ils **ne contiennent pas** toutes les informations et tous les paramètres. Vous ne pouvez pas restaurer les **commentaires**, les **formulaires Web**, les **automatisations**, les **applications**, le **contenu de la corbeille** et les **données du stockage Big Data** avec des instantanés." />}}
 
 ## Création manuelle d'un snapshot
 
@@ -46,7 +46,7 @@ Les articles suivants pourraient vous intéresser en ce qui concerne l'utilisati
 
 {{< faq "Quelles informations d'une base sont enregistrées dans un snapshot ?" >}}Un snapshot enregistre toutes les **données des tableaux** (colonnes et lignes) ainsi que **les vues** et leurs paramètres. Les **statistiques**, les **plugins** et leurs paramètres ainsi que **les scripts** sont également enregistrés.
 {{< /faq >}}
-{{< faq "Quelles informations d'une base ne sont _pas_ enregistrées dans un snapshot ?" >}}Les **commentaires**, **les formulaires web**, les **automatisations**, les **apps** et **le contenu de la corbeille** (tableaux, colonnes et lignes supprimés) ne sont **pas** enregistrés dans les snapshots. De même, les données contenues dans l'espace de stockage Big Data ne sont pas incluses dans un snapshot.
+{{< faq "Quelles informations d'une base NE sont PAS enregistrées dans un snapshot ?" >}}Les **commentaires**, **les formulaires web**, les **automatisations**, les **apps** et **le contenu de la corbeille** (tableaux, colonnes et lignes supprimés) ne sont **pas** enregistrés dans les snapshots. De même, les données contenues dans l'espace de stockage Big Data ne sont pas incluses dans un snapshot.
 {{< /faq >}}
 {{< faq "À quelle fréquence les snapshots automatiques sont-ils créés ?" >}}Les snapshots sont créés automatiquement **une fois par jour**, pour autant que des modifications aient été apportées à la base. Le moment où cela se produit ne peut actuellement pas être influencé.
 {{< /faq >}}

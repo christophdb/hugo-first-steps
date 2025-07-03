@@ -14,7 +14,7 @@ There are 5 display options in total: You can display appointments in a calendar
 
 {{< warning  headline="Requirements" >}}
 
-To use the calendar display for a table view, you need at least one [date column]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+To use the calendar display for a table view, you need at least one [date column]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}).
 
 {{< /warning >}}
 

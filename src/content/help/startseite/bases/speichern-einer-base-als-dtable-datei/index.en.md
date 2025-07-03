@@ -33,7 +33,7 @@ Be aware that the **DTABLE file** can become very **large** if you have made ext
 The exported DTABLE file contains the current state of your base, including all the
 
 - Tables and views,
-- rowscolumns and values,
+- Rows, columns and values,
 - Images and files,
 - Web forms,
 - Statistics,

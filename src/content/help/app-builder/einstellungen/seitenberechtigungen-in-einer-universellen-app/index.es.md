@@ -8,28 +8,22 @@ author: 'nsc2'
 url: '/es/ayuda/seitenberechtigungen-in-einer-universellen-app'
 ---
 
-Para controlar con precisión el **acceso a sus datos**, puede establecer **permisos de página individuales para** cada página que haya creado en una aplicación universal. Los permisos se editan a través de la configuración de la página.
+{{< required-version "Enterprise" >}}
+
+Para controlar con precisión el **acceso a sus datos**, puede establecer **permisos de página individuales** para cada página que haya creado en una aplicación universal. Los permisos se editan a través de la configuración de la página.
 
 ## Establecer y editar permisos de página
 
 1. Abra una **Base** a la que ya haya añadido una aplicación universal.
-2. Haga clic en **Aplicaciones** en la cabecera Base.
-
-![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
-
-4. Pase el ratón por encima de la aplicación universal y haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
+2. Haga clic en **Aplicaciones** en la cabecera.
+![Haga clic en Aplicaciones en la cabecera](images/click-apps-in-the-base-header.jpg)
+3. Pase el ratón por encima de la aplicación universal y haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}.
 ![Haga clic en el icono de edición](images/add-page-to-universal-app-1.png)
-
-6. Seleccione la **página** deseada en la navegación de la parte izquierda de la página y haga clic en el **símbolo de la rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}.
-
+4. Seleccione la **página** deseada en la navegación de la parte izquierda de la página y haga clic en el **símbolo de la rueda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}.
 ![Haga clic en el icono de edición](images/page-permissions-universal-app.png)
-
-8. Establezca los **permisos** deseados en los **ajustes de página** que aparecen en la parte derecha de la **página**.
-
+5. Establezca los **permisos** deseados en los **ajustes de página** que aparecen en la parte derecha de la página.
 ![Determinar los permisos de la página](images/page-permissions.png)
-
-10. Los permisos de página definidos se guardan **automáticamente** y se aplican **de inmediato**.
+6. Los permisos de página definidos se guardan **automáticamente** y se aplican **de inmediato**.
 
 ## Qué autorizaciones de página están disponibles
 
@@ -40,7 +34,19 @@ Puede establecer los siguientes permisos de página:
 - ¿Quién puede suprimir líneas?
 - ¿Quién puede ver la página?
 
-No todas las autorizaciones de página están disponibles para todos los [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Por ejemplo, en las páginas individuales sólo existe la autorización _"¿Quién puede ver la página?"_ porque, por lo general, los usuarios no pueden añadir, editar o eliminar entradas en ellas.
+No todas las autorizaciones de página están disponibles para todos los [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Eche un vistazo a esta visión general:
+
+| Page type                             | Add records                                                     | Modify records                                                  | Delete records                                                  | View page                                                       |
+| ------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------- |
+| Table page                            | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Form page                             | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Gallery page                          | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Calendar page                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Custom page                           | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Kanban page                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Timeline page                         | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Query page                            | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Single record page                    | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 
 ## A qué grupos de usuarios puede autorizar
 

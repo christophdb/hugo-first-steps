@@ -14,7 +14,7 @@ Insgesamt gibt es 5 Darstellungsoptionen: Sie können sich Termine in einem kale
 
 {{< warning  type="warning" headline="Voraussetzungen" >}}
 
-Um die Kalender-Darstellung für eine Tabellenansicht verwenden zu können, benötigen Sie mindestens eine [Datum-Spalte]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) haben.
+Um die Kalender-Darstellung für eine Tabellenansicht verwenden zu können, benötigen Sie mindestens eine [Datum-Spalte]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) haben.
 
 {{< /warning >}}
 

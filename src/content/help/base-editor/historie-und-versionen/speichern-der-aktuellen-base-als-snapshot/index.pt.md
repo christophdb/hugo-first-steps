@@ -12,7 +12,7 @@ Pode guardar uma base no SeaTable como um **instantâneo** a qualquer momento. O
 
 É bom saber: SeaTable cria automaticamente um instantâneo por dia de cada base em que foram feitas alterações. Desta forma, tem sempre cópias de segurança das suas bases com as versões mais recentes.
 
-{{< warning  headline="Atenção"  text="Embora os instantâneos sejam cópias dos estados salvos de uma base, eles **não contêm todas as** informações e configurações. Por exemplo, não é possível restaurar **comentários**, **automatizações** e **aplicações** com instantâneos. Pode obter mais informações sobre este assunto no final do artigo." />}}
+{{< warning  headline="Atenção"  text="Embora os instantâneos sejam cópias dos estados salvos de uma base, eles **não contêm todas** as informações e configurações. Não pode restaurar **comentários**, **formulários Web**, **automatizações**, **aplicações**, **conteúdos no caixote do lixo** e **dados no armazenamento de grandes volumes de dados** com instantâneos." />}}
 
 ## Criação manual de um instantâneo
 
@@ -44,9 +44,9 @@ Os artigos seguintes podem interessar-lhe em relação a lidar com instantâneos
 
 ## Perguntas mais frequentes
 
-{{< faq "Que informações sobre uma base são armazenadas num instantâneo?" >}}Um instantâneo guarda todos os **dados da tabela** (colunas e linhas), bem como as **vistas** e as suas definições. **As estatísticas**, **os plugins** e as suas definições e **scripts** também são guardados.
+{{< faq "Que informações de uma base são guardadas num instantâneo?" >}}Um instantâneo guarda todos os **dados da tabela** (colunas e linhas), bem como as **vistas** e as suas definições. **As estatísticas**, **os plugins** e as suas definições e **scripts** também são guardados.
 {{< /faq >}}
-{{< faq "Que informações de uma base _não_ são guardadas num instantâneo?" >}}**Comentários**, **formulários Web**, **automatizações**, **aplicações** e **conteúdos na reciclagem** (tabelas, colunas e linhas eliminadas) **não** são guardados em instantâneos. Os dados no armazenamento de grandes volumes de dados também não são incluídos num instantâneo.
+{{< faq "Que informações de uma base NAO são guardadas num instantâneo?" >}}**Comentários**, **formulários Web**, **automatizações**, **aplicações** e **conteúdos no caixote do lixo** (tabelas, colunas e linhas eliminadas) **não** são guardados em instantâneos. Os dados no armazenamento de grandes volumes de dados também não são incluídos num instantâneo.
 {{< /faq >}}
 {{< faq "Com que frequência são criados instantâneos automáticos?" >}}Os instantâneos são criados automaticamente **uma vez por dia** se tiverem sido efectuadas alterações na base. A hora a que isto acontece não pode ser influenciada atualmente.
 {{< /faq >}}
