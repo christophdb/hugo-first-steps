@@ -7,7 +7,7 @@ seo:
     title:
     description:
 categories:
-    - 'Лучшие практики'
+    - 'best-practice'
 tags:
     - 'Управление автопарком'
 color: '#f2653f'

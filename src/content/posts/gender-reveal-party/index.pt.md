@@ -7,7 +7,7 @@ seo:
     title:
     description:
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 tags:
     - 'Vida cotidiana e lazer'
 color: '#f6dded'

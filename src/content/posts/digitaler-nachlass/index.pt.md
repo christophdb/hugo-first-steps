@@ -8,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 tags:
     - 'Segurança informática e privacidade dos dados'
     - 'Vida cotidiana e lazer'

@@ -7,7 +7,7 @@ seo:
     title:
     description:
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Gestion de flotte'
 color: '#f2653f'

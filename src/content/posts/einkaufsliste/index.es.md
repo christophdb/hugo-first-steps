@@ -8,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Herramientas y plugins'
     - 'Vida cotidiana y ocio'

@@ -7,7 +7,7 @@ seo:
     title:
     description:
 categories:
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Vida cotidiana y ocio'
 color: '#fe5d4c'

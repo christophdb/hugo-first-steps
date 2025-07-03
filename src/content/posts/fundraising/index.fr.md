@@ -7,7 +7,7 @@ seo:
     title:
     description:
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Finances'
     - 'Management arts et culture'
