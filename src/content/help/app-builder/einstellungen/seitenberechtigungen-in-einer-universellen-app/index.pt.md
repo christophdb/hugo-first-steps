@@ -8,28 +8,22 @@ author: 'nsc2'
 url: '/pt/ajuda/seitenberechtigungen-in-einer-universellen-app'
 ---
 
-Para controlar com precisão **o acesso aos seus dados**, pode definir **permissões de página individuais para** cada página que criou numa aplicação universal. Pode editar as permissões através das definições da página.
+{{< required-version "Enterprise" >}}
+
+Para controlar com precisão **o acesso aos seus dados**, pode definir **permissões de página individuais** para cada página que criou numa aplicação universal. Pode editar as permissões através das definições da página.
 
 ## Definir e editar permissões de página
 
 1. Abra uma **Base** à qual já tenha adicionado uma aplicação universal.
 2. Clique em **Apps** no cabeçalho Base.
-
 ![Clique em Apps no cabeçalho Base](images/click-apps-in-the-base-header.jpg)
-
-4. Coloque o cursor do rato sobre a aplicação universal e clique no **ícone de lápis** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
+3. Coloque o cursor do rato sobre a aplicação universal e clique no **ícone de lápis** {{< seatable-icon icon="dtable-icon-rename" >}}.
 ![Clique no ícone de edição](images/add-page-to-universal-app-1.png)
-
-6. Seleccione a **página** pretendida na navegação do lado esquerdo da página e clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}.
-
+4. Seleccione a **página** pretendida na navegação do lado esquerdo da página e clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}}.
 ![Clique no ícone de edição](images/page-permissions-universal-app.png)
-
-8. Defina as **permissões** pretendidas nas **definições da página** que aparecem no lado direito da **página**.
-
+5. Defina as **permissões** pretendidas nas **definições da página** que aparecem no lado direito da página.
 ![Determinar as permissões da página](images/page-permissions.png)
-
-10. As permissões de página definidas são **automaticamente** guardadas e **imediatamente** aplicadas.
+6. As permissões de página definidas são **automaticamente** guardadas e **imediatamente** aplicadas.
 
 ## Que autorizações de página estão disponíveis
 
@@ -40,7 +34,19 @@ Pode definir as seguintes permissões de página:
 - Quem está autorizado a apagar linhas?
 - Quem pode ver a página?
 
-Nem todas as autorizações de página estão disponíveis para todos os [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Por exemplo, nas páginas individuais só existe a autorização _"Quem pode ver a página?"_, porque os utilizadores não podem, em geral, acrescentar, editar ou apagar entradas nessa página.
+Nem todas as autorizações de página estão disponíveis para todos os [tipos de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Veja esta visão geral:
+
+| Page type                             | Add records                                                     | Modify records                                                  | Delete records                                                  | View page                                                       |
+| ------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------- |
+| Table page                            | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Form page                             | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Gallery page                          | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Calendar page                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Custom page                           | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Kanban page                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Timeline page                         | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Query page                            | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Single record page                    | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 
 ## Que grupos de utilizadores pode autorizar
 

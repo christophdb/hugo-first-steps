@@ -8,17 +8,22 @@ author: 'nsc2'
 url: '/de/hilfe/seitenberechtigungen-in-einer-universellen-app'
 ---
 
+{{< required-version "Enterprise" >}}
+
 Um den **Zugriff auf Ihre Daten** genau zu steuern, können Sie für jede Seite, die Sie in einer Universellen App angelegt haben, **individuelle Seitenberechtigungen** festlegen. Die Bearbeitung der Berechtigungen erfolgt über die Seiteneinstellungen.
 
 ## Seitenberechtigungen festlegen und bearbeiten
 
 1. Öffnen Sie eine **Base**, der Sie bereits eine Universelle App hinzugefügt haben.
 2. Klicken Sie im Base-Header auf **Apps**.
-   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die Universelle App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
-   ![Klicken Sie auf das Bearbeitungs-Symbol](images/add-page-to-universal-app-1.png)6. Wählen Sie aus der Navigation am linken Seitenrand die gewünschte **Seite** aus und klicken Sie auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}}.
-
-![Klick auf das Bearbeitungs-Symbol](images/page-permissions-universal-app.png) 8. Legen Sie in den am rechten Seitenrand erschienenen **Seiteneinstellungen** die gewünschten **Berechtigungen** fest.
-![Festlegung der Seitenberechtigungen](images/page-permissions.png)10. Die definierten Seitenberechtigungen werden **automatisch** gespeichert und **unmittelbar** übernommen.
+   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)
+3. Fahren Sie mit der Maus über die Universelle App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
+   ![Klicken Sie auf das Bearbeitungs-Symbol](images/add-page-to-universal-app-1.png)
+4. Wählen Sie aus der Navigation am linken Seitenrand die gewünschte **Seite** aus und klicken Sie auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}}.
+![Klick auf das Bearbeitungs-Symbol](images/page-permissions-universal-app.png) 
+5. Legen Sie in den am rechten Seitenrand erschienenen **Seiteneinstellungen** die gewünschten **Berechtigungen** fest.
+![Festlegung der Seitenberechtigungen](images/page-permissions.png)
+6. Die definierten Seitenberechtigungen werden **automatisch** gespeichert und **unmittelbar** übernommen.
 
 ## Welche Seitenberechtigungen es gibt
 
@@ -29,7 +34,19 @@ Folgende Seitenberechtigungen können Sie einstellen:
 - Wer darf Zeilen löschen?
 - Wer kann die Seite sehen?
 
-Nicht alle Seitenberechtigungen sind für alle [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) verfügbar. Zum Beispiel gibt es auf individuellen Seiten nur die Berechtigung _Wer kann die Seite sehen?_, weil Nutzer dort generell keine Einträge hinzufügen, bearbeiten oder löschen können.
+Nicht alle Seitenberechtigungen sind für alle [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) verfügbar. Hier ein Überblick:
+
+| Page type                             | Add records                                                     | Modify records                                                  | Delete records                                                  | View page                                                       |
+| ------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------- |
+| Table page                            | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Form page                             | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Gallery page                          | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Calendar page                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Custom page                           | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Kanban page                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Timeline page                         | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Query page                            | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Single record page                    | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 
 ## Welche Nutzergruppen Sie berechtigen können
 
