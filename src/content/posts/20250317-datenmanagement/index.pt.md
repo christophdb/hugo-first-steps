@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Gestão e visualização de dados'
-    - 'No Code & Low Code'
+    - 'low-code-no-code'
     - 'Processos informáticos'
 color: '#bedeab'
 url: '/pt/datenmanagement'

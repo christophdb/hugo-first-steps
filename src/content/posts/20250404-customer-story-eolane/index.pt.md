@@ -7,7 +7,7 @@ seo:
 date: 2025-04-04
 categories:
     - 'customer-story'
-    - 'No Code & Low Code'
+    - 'low-code-no-code'
 tags:
     - 'Gestão e visualização de dados'
     - 'Transformação digital'

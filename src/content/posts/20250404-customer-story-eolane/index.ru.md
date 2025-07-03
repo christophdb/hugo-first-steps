@@ -7,11 +7,11 @@ seo:
 date: 2025-04-04
 categories:
     - 'customer-story'
-    - 'No Code & Low Code'
+    - 'low-code-no-code'
 tags:
     - 'Цифровая трансформация'
     - 'Управление данными и визуализация'
-    - 'Low Code / No Code'
+    - 'No Code / Low Code'
     - 'Интеграции и автоматизация'
 color: '#469361'
 url: '/ru/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane'
