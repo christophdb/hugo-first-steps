@@ -6,7 +6,7 @@ seo:
     description: 'O novo mundo de low-code e no-code! Aprenda a criar aplicações poderosas sem conhecimentos de programação'
 date: 2025-03-07
 categories:
-    - 'No Code & Low Code'
+    - 'low-code-no-code'
 tags:
     - 'No Code & Low Code'
     - 'Transformação digital'

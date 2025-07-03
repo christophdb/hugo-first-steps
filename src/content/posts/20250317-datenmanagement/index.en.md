@@ -10,7 +10,7 @@ categories:
 tags:
     - 'Data Management & Visualisation'
     - 'IT Processes'
-    - 'Low Code / No Code'
+    - 'No Code / Low Code'
 color: '#bedeab'
 url: '/datenmanagement/'
 ---

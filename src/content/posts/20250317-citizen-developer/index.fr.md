@@ -6,7 +6,7 @@ seo:
     description: 'Développez vos propres solutions logicielles avec les Citizen Developers ! Cet article vous montre comment utiliser le savoir-faire de vos départements spécialisés.'
 date: 2025-03-17
 categories:
-    - 'No Code & Low Code'
+    - 'low-code-no-code'
 tags:
     - 'Transformation digitale'
     - 'Processus informatiques'
