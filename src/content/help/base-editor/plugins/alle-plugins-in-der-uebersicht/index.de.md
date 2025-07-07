@@ -25,8 +25,7 @@ Im Kalender-Plugin können Sie Daten aus einer [Datum-Spalte]({{< relref "help/b
 
 ![](images/Calendar.png)
 
-[Mehr zum Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
-)
+[Mehr zum Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}})
 
 Diese Artikel könnten für Sie auch interessant sein:
 

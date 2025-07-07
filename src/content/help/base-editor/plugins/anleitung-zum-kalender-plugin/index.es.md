@@ -14,7 +14,7 @@ Hay un total de 5 opciones de visualización: Puede visualizar las citas en una 
 
 {{< warning  headline="Requisitos" >}}
 
-Para utilizar la visualización de calendario para una vista de tabla, necesita al menos una [columna de fecha]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+Para utilizar la visualización de calendario para una vista de tabla, necesita al menos una [columna de fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}).
 
 {{< /warning >}}
 

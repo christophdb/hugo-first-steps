@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien'
 ---
 
-In SeaTable you have the possibility to **import** **CSV** as well as **Excel files (.xlsx)** into your bases. To ensure that everything goes according to plan during the data import and that no data is lost, we have summarized the most important **tips and tricks** for importing CSV or XLSX files for you. If you follow these tips and tricks, you will successfully import your data into SeaTable:
+In SeaTable you have the possibility to import **CSV** as well as **Excel files (.xlsx)** into your bases. To ensure that everything goes according to plan during the data import and that no data is lost, we have summarized the most important **tips and tricks** for importing CSV or XLSX files for you. If you follow these tips and tricks, you will successfully import your data into SeaTable:
 
 - Import table structures only
 - Create the table structure in SeaTable before importing
@@ -30,7 +30,11 @@ When SeaTable imports an Excel list, it tries to determine which **column type**
 
 Even if the column recognition typically works reliably, you can easily avoid a possible occurrence of this problem. Instead of having a new base created via import, first create the base yourself with all table columns and then import only the contents.
 
-## Split the import to
+{{< warning headline="Notice" >}}
+There is no option to import data into the **Link to other records** column type. However, you can use the data processing operation [Compare and link]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) after the import to create links between specific data records.
+{{< /warning >}}
+
+## Split the import
 
 SeaTable's import function can import Excel files with **multiple spreadsheets** and **tens of thousands rows.** However, experience shows that the more data you try to import in one go, the more likely you are to encounter problems.
 

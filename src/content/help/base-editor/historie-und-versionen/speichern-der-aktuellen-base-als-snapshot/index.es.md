@@ -12,7 +12,7 @@ Puede guardar una base en SeaTable como **instantánea** en cualquier momento. L
 
 Conviene saber: SeaTable crea automáticamente una instantánea al día de cada base en la que se hayan realizado cambios. De este modo, siempre dispondrá de copias de seguridad de sus bases con las últimas versiones.
 
-{{< warning  headline="Atención"  text="Aunque las instantáneas son copias de los estados guardados de una base, **no contienen toda la** información ni la configuración. Por ejemplo, no puedes restaurar **comentarios**, **automatizaciones** y **aplicaciones** con instantáneas. Encontrarás más información al respecto al final del artículo." />}}
+{{< warning  headline="Atención"  text="Aunque las instantáneas son copias de los estados guardados de una base, **no contienen toda** la información ni la configuración. No puede restaurar **comentarios**, **formularios web**, **automatizaciones**, **aplicaciones**, **contenidos de la papelera** y **datos del almacén de big data** con instantáneas." />}}
 
 ## Creación manual de una instantánea
 
@@ -44,9 +44,9 @@ Los siguientes artículos podrían interesarle en relación con el tratamiento d
 
 ## Preguntas frecuentes
 
-{{< faq "¿Qué información sobre una base se almacena en una instantánea?" >}}Una instantánea guarda todos los **datos de la tabla** (columnas y filas), así como **las vistas** y su configuración. También se guardan **las estadísticas**, los **plugins** y su configuración y los **scripts**.
+{{< faq "¿Qué información de una base se guarda en una instantánea?" >}}Una instantánea guarda todos los **datos de la tabla** (columnas y filas), así como **las vistas** y su configuración. También se guardan **las estadísticas**, los **plugins** y su configuración y los **scripts**.
 {{< /faq >}}
-{{< faq "¿Qué información de una base _no_ se guarda en una instantánea?" >}}Los **comentarios**, los **formularios web**, las **automatizaciones**, las **aplicaciones** y el **contenido de la papelera de reciclaje** (tablas, columnas y filas eliminadas) **no** se guardan en las instantáneas. Los datos del almacenamiento de big data tampoco se incluyen en una instantánea.
+{{< faq "¿Qué información de una base NO se guarda en una instantánea?" >}}Los **comentarios**, los **formularios web**, las **automatizaciones**, las **aplicaciones** y el **contenido de la papelera** (tablas, columnas y filas eliminadas) **no** se guardan en las instantáneas. Los datos del almacenamiento de big data tampoco se incluyen en una instantánea.
 {{< /faq >}}
 {{< faq "¿Con qué frecuencia se crean instantáneas automáticas?" >}}Las instantáneas se crean automáticamente **una vez al día** si se han realizado cambios en la base. Actualmente no se puede influir en la hora a la que esto ocurre.
 {{< /faq >}}
