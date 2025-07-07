@@ -27,7 +27,7 @@ El siguiente artículo le ofrece una visión general de cuándo es la opción de
 
 ## 1\. recuperación de bases borradas
 
-Si ha borrado una base entera, puede restaurarla mediante una papelera de reciclaje en la página de inicio de SeaTable. Puedes ver cómo funciona en el artículo [Restaurar una base eliminada]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
+Si ha borrado una base entera, puede restaurarla mediante una papelera de reciclaje en la página de inicio de SeaTable. Puedes ver cómo funciona en el artículo [Restaurar una base eliminada]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. recuperación de filas, columnas o tablas borradas
 

@@ -12,7 +12,7 @@ Bases, die Sie unter "Meine Bases" oder in Gruppen erstellt haben, können Sie l
 
 ## Eine aus "Meine Bases" gelöschte Base wiederherstellen
 
-![Eine aus "Meine Bases" gelöschte Base wiederherstellen](images/restore-a-deleted-base-1.gif)
+![Eine aus "Meine Bases" gelöschte Base wiederherstellen](images/restore-a-deleted-base.gif)
 
 1. Wechseln Sie zur **Startseite** von SeaTable.
 2. Öffnen Sie den **Papierkorb**.

@@ -22,7 +22,7 @@ You can easily **copy** bases in SeaTable. In this way, you can move one of your
 
 {{< warning  headline="Note" >}}
 
-After copying, the corresponding base is located both at the **original location** and at the **destination location**. If necessary, you can [delete]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) the base at a location afterwards.
+After copying, the corresponding base is located both at the **original location** and at the **destination location**. If necessary, you can [delete]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}}) the base at a location afterwards.
 
 {{< /warning >}}
 

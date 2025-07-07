@@ -26,7 +26,7 @@ Vous pouvez à tout moment restaurer des tableaux entiers ou des colonnes et lig
 
 Vous pouvez restaurer les bases supprimées via la corbeille à papier sur la page d'accueil. Notez que cela n'est possible que jusqu'au 30e jour après la suppression.
 
-Apprenez-en plus sur la restauration des bases [ici]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
+Apprenez-en plus sur la restauration des bases [ici]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## Récupération des données via le journal de base
 

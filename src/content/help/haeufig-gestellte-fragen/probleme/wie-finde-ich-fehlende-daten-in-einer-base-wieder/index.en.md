@@ -26,7 +26,7 @@ Learn more about restoring tables, columns and rows[here]({{< relref "help/base-
 
 Deleted bases can be restored via the recycle bin on the start page. Please note that this is only possible until the 30th day after the deletion.
 
-Learn more about base recovery [here]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
+Learn more about base recovery [here]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## Restoring data via the base log
 

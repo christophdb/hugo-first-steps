@@ -26,7 +26,7 @@ Saiba mais sobre como restaurar tabelas, colunas e filas [aqui]({{< relref "help
 
 As bases apagadas podem ser restauradas através do caixote da reciclagem na página inicial. Note-se que isto só é possível até ao 30º dia após a eliminação.
 
-Saiba mais sobre restauração de bases [aqui]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
+Saiba mais sobre restauração de bases [aqui]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## Restauração de dados através do registo de base
 

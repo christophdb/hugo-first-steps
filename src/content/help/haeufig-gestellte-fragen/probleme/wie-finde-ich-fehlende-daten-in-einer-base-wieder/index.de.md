@@ -26,7 +26,7 @@ Erfahren Sie [hier]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabell
 
 Gelöschte Bases können Sie über den Papierkorb auf der Startseite wiederherstellen. Beachten Sie dabei, dass dies lediglich bis zum 30. Tag nach der Löschung möglich ist.
 
-Erfahren Sie [hier]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) mehr über die Wiederherstellung von Bases.
+Erfahren Sie [hier]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}) mehr über die Wiederherstellung von Bases.
 
 ## Wiederherstellung von Daten über das Base-Log
 

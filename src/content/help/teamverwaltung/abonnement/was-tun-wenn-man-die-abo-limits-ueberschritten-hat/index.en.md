@@ -27,7 +27,7 @@ To get back to working fully with your data, you will need to [upgrade your subs
 
 If you don't want to switch to a more extensive subscription package, your only option is to **delete** parts of your data until you **no** longer reach the limits of your current subscription. The following help articles can help you with this:
 
-- [Delete a Base]({{< relref "help/startseite/bases/loeschen-einer-base" >}})
+- [Delete a Base]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}})
 - [Empty the recycle bin in the team administration]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}})
 - [Delete a table from a base]({{< relref "help/base-editor/tabellen/loeschen-einer-tabelle-aus-einer-base" >}})
 - [Delete a row]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
