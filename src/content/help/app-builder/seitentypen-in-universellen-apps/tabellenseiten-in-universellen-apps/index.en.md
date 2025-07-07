@@ -1,14 +1,14 @@
 ---
 title: 'Table pages in universal apps'
 date: 2023-12-01
-lastmod: '2024-12-13'
+lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/help/tabellenseiten-in-universellen-apps'
 ---
 
-You can use this page type to [add]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
+You can use this page type to [add a table from your base to your app]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
 ![Table page in Universal App](images/Table-page-in-Universal-App.png)
 
@@ -28,13 +28,11 @@ You can define **preset filters**, **sorting** and **grouping** in the page sett
 
 ![Add filter on table page in Universal Apps](images/Add-filter-on-table-page-in-Universal-Apps.png)
 
-To do this, click on **Add filter**, **Add sorting** or **Add group**, select the desired **column** and **condition** and confirm with **Submit**.
+To do this, click on **Add filter**, **Add sort** or **Add group**, select the desired **column** and **condition** and confirm with **Submit**.
 
-{{< warning  headline="Important note"  text="App users **cannot change****preset filters**. They are therefore only shown the filtered data, as you wish. Preset sorting and grouping, on the other hand, only define a **standard view** that users can change individually." />}}
+{{< warning  headline="Important note"  text="App users **cannot change preset filters**. They are therefore only shown the filtered data, as you wish. Preset sorting and grouping, on the other hand, only define a **standard view** that users can change individually." />}}
 
 ![Default view grouped by one column on a table page in Universal Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
-
-With the **view options** above the table, app users can remove existing groupings and sorting or make additional settings.
 
 {{< warning  headline="Filter by number or duration columns"  text="If you want to filter by number or duration columns, there are certain format specifications to observe. **Decimal numbers** must be written with a dot as a separator, **percentage values** must be entered as decimal numbers (e.g. 99% = 0.99) and the **duration** must be converted into seconds (e.g. 1 hour = 3600 seconds)." />}}
 
@@ -48,9 +46,24 @@ Simply click on the **sliders** or **boxes** of the columns that should be **hid
 
 ![Read-only columns on table pages in Universal Apps](images/Read-only-columns-on-table-pages-in-Universal-Apps.png)
 
-You can recognize write-protected columns by the fact that they are highlighted in **grey** in the table and marked with a **lock symbol**.
+You can recognize read-only columns by the fact that they are highlighted in **grey** in the table and marked with a **lock symbol**.
 
 {{< warning  headline="No inheritance of view settings from the base"  text="Please note that **hidden and locked columns** in the underlying table have **no** effect on the app. When you create a new table page in the app, all columns are initially displayed and can be edited." />}}
+
+## View options of the user
+
+With the **view options** above the table, app users can make their own additional settings, which work in exactly the same way as in the base. These include
+
+- [Filter]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}})
+- [Sort]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}})
+- [Group]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}})
+- [Hide columns]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
+- [Set row height]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
+- [Adjust the number of frozen columns]({{< relref "help/base-editor/spalten/anzahl-der-fixierten-spalten-anpassen" >}})
+
+![User view options on table pages in Universal Apps](images/user-view-options-on-table-pages-in-apps.png)
+
+As mentioned above, the user's individual view settings **have no effect on the standard settings** you have predefined for the table page. For example, the user can hide additional columns or additionally filter a view that you have pre-filtered, but they cannot display any rows that you have filtered out or columns that you have hidden or even make them visible to others.
 
 ## Link column settings
 
@@ -58,11 +71,13 @@ In the **settings for the link column**, you can define which data is visible an
 
 ![Link column settings on table pages in Universal Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Allow adding new entries**: If you activate this slider, users can add new entries to the linked table. You can use the field settings to define which columns are **visible** and which columns are **required**, i.e. must be filled in.
-- **Allow linking of existing entries**: If you activate this slider, users can link existing entries in the linked table. You can use the field settings to define which columns are **visible**.
-- Limit **links to a maximum of one row :** If you activate this slider, users can only link to one row of the linked table in the cells of the link column.
-- **Preset filters**: If you add a filter here, only options that fulfill the filter conditions will be displayed when linking entries.
-- **Activate big data** function: If the big data function is activated, users can search through more than 20,000 data records, provided there are this many entries in the linked table.
+- **Field settings**: Here you can define exactly which columns the following authorizations apply to.
+- **Add and link new records**: If you activate this slider, users can add new records to the linked table. You can use the field settings to specify which columns are **required**, i.e. must be filled in.
+- **Link existing records**: If you activate this slider, users can link existing records in the linked table. You can use the field settings to define which columns are **visible**.
+- **Preset filter**: If you add a filter here, only options that fulfill the filter conditions will be displayed when linking records.
+- **Enable big data feature**: When the Big Data feature is enabled, users can search more than 20,000 records if there are that many records in the linked table.
+- **Limit linking to max one record**: If you activate this slider, users can only link one row of the linked table at a time in the cells of the link column.
+- **Modify linked records**: If you activate this slider, users can edit existing records in the linked table. You can use the field settings to define which columns are **editable**.
 
 ## Prevent duplicates from being added
 

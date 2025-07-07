@@ -61,6 +61,8 @@ All users with access to the query page can then **edit** the **data records** t
 - Make the desired changes in the open **row details**.
 - Click on the **x symbol** to close the window and save your changes.
 
+{{< warning  type="warning" headline="Read-only columns" text="You can define columns in advance that cannot be edited. To do this, go to the page settings and click on the boxes of the columns that should be **read-only** for users. You can recognize read-only columns by the fact that the fields in the row details are highlighted in grey." />}}
+
 ## Page authorizations
 
 At the bottom of the page settings, you can restrict who can see the query page.

@@ -49,6 +49,15 @@ Außerdem können Sie für jedes Tabellenfeld eine **Hintergrundfarbe** und eine
 
 Bei allen text- und zahlenbasierten Spaltentypen haben Sie auch die Möglichkeit, die **Schriftgröße, Schriftstärke, Schriftfarbe und Ausrichtung der angezeigten Werte** einzustellen.
 
+Zudem gibt es ein paar Besonderheiten bei folgenden Spaltentypen:
+
+- Wenn Sie auf eine E-Mail-Adresse in einer **E-Mail-Spalte** klicken, öffnet sich der auf Ihrem Gerät installierte E-Mail-Client (z. B. Microsoft Outlook oder Mozilla Thunderbird).
+- Wenn Sie auf einen Link in einer **URL-Spalte** klicken, öffnet sich die entsprechende Internetseite in einem neuen Tab Ihres Browsers.
+- Wenn Sie auf ein Miniatursymbol in einer **Datei-Spalte** klicken, öffnet sich die Datei in einem geeigneten Viewer in einem neuen Tab Ihres Browsers. Auch Office-Dokumente können Sie, sofern ein Online Office Editor konfiguriert ist, direkt im Browser öffnen und bearbeiten.
+- Bei **Verknüpfungsspalten** lassen sich alle mit dem Datensatz verknüpften Einträge übersichtlich in einer Tabelle darstellen. Sie können die Spaltenbreite anpassen und über die Elementeinstellungen auch Spalten ausblenden, sodass nur die wesentlichen Informationen der verknüpften Einträge angezeigt werden.
+
+![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
+
 ## Elemente kopieren, verschieben oder löschen
 
 Wenn Sie ein bestehendes Element auf Ihrer Seite kopieren, verschieben oder löschen möchten, nutzen Sie einfach die drei entsprechenden **Symbole** an der oberen rechten Ecke des Rahmens.

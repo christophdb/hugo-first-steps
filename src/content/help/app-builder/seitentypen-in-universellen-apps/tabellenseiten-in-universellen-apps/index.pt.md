@@ -1,14 +1,14 @@
 ---
 title: 'Páginas de tabelas em aplicações universais'
 date: 2023-12-01
-lastmod: '2024-12-13'
+lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/pt/ajuda/tabellenseiten-in-universellen-apps'
 ---
 
-Pode utilizar este tipo de página para [adicionar]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
+Pode utilizar este tipo de página para [adicionar]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) qualquer **tabela** da sua base como uma página à sua aplicação universal.
 
 ![Página de tabela na aplicação universal](images/Table-page-in-Universal-App.png)
 
@@ -30,11 +30,9 @@ Ao editar páginas de tabela, é possível definir várias **configurações de 
 
 Para tal, clique em **Adicionar filtro**, **Adicionar ordenação** ou **Adicionar grupo**, seleccione a **coluna** e a **condição** pretendidas e confirme com **Enviar**.
 
-{{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar****os filtros predefinidos**. Por conseguinte, apenas lhes são mostrados os dados filtrados, conforme pretendido. A ordenação e o agrupamento predefinidos, por outro lado, apenas definem uma **vista padrão** que os utilizadores podem alterar individualmente." />}}
+{{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar os filtros predefinidos**. Por conseguinte, apenas lhes são mostrados os dados filtrados, conforme pretendido. A ordenação e o agrupamento predefinidos, por outro lado, apenas definem uma **vista padrão** que os utilizadores podem alterar individualmente." />}}
 
 ![Vista predefinida agrupada por uma coluna numa página de tabela nas Universal Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
-
-Com as **opções de visualização** acima da tabela, os utilizadores da aplicação podem cancelar os agrupamentos e a ordenação existentes ou efetuar definições adicionais.
 
 {{< warning  headline="Filtrar por colunas de número ou duração"  text="Se quiser filtrar por colunas de números ou de duração, há certas especificações de formato a observar. É necessário escrever **números decimais** com um ponto como separador, entrar **valores percentuais** como números decimais (por exemplo, 99% = 0,99) e converter a **duração** em segundos (por exemplo, 1 hora = 3600 segundos)." />}}
 
@@ -50,7 +48,22 @@ Basta clicar nos **cursores** ou nas **caixas** das colunas que pretende **ocult
 
 Pode reconhecer colunas protegidas contra escrita pelo facto de estarem destacadas a **cinzento** na tabela e marcadas com um **símbolo de cadeado**.
 
-{{< warning  headline="Não há herança de definições de vista da base"  text="Tenha em atenção que **as colunas ocultas e bloqueadas** na tabela subjacente não têm **qualquer** efeito na aplicação. Quando cria uma nova página de tabela na aplicação, todas as colunas são inicialmente apresentadas e podem ser editadas." />}}
+{{< warning  headline="Não há herança de definições de vista da base"  text="Tenha em atenção que **as colunas ocultas e bloqueadas** na tabela subjacente não têm qualquer efeito na aplicação. Quando cria uma nova página de tabela na aplicação, todas as colunas são inicialmente apresentadas e podem ser editadas." />}}
+
+## Opções de vista do utilizador
+
+Com as **opções de visualização** acima da tabela, os utilizadores da aplicação podem fazer as suas próprias definições adicionais, que funcionam exatamente da mesma forma que na base. Estas incluem
+
+- [Filtro]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}})
+- [Ordenação]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}})
+- [Grupo]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}})
+- [Ocultar colunas]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
+- [Ajustar a altura da linha]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
+- [Ajustar o número de colunas fixas]({{< relref "help/base-editor/spalten/anzahl-der-fixierten-spalten-anpassen" >}})
+
+![User view options on table pages in Universal Apps](images/user-view-options-on-table-pages-in-apps.png)
+
+Como mencionado acima, as definições de vista individuais do utilizador **não têm efeito nas definições padrão** que predefiniu para a página da tabela. Por exemplo, o utilizador pode filtrar adicionalmente uma vista que tenha pré-filtrado ou ocultar colunas adicionais, mas não pode apresentar quaisquer registos de dados ou colunas ocultas que tenha filtrado ou mesmo torná-los visíveis para outros.
 
 ## Definições da coluna de ligações
 
@@ -58,11 +71,13 @@ Nas **opções da coluna de ligação**, é possível especificar quais os dados
 
 ![Ligar definições de coluna em páginas de tabela nas Aplicações Universais](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Permitir adicionar novas entradas**: Se ativar este seletor, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de campo para definir as colunas que são **visíveis** e as que são **obrigatórias**, ou seja, que têm de ser preenchidas.
-- **Permitir a ligação de entradas existentes**: Se ativar esta barra deslizante, os utilizadores podem ligar entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir as colunas que são **visíveis**.
-- **Limitar as ligações a um máximo de uma linha**: Se ativar esta barra deslizante, os utilizadores só podem ligar uma linha da tabela ligada nas células da coluna de ligação.
-- **Filtros predefinidos**: Se adicionar um filtro aqui, apenas as opções que satisfazem as condições do filtro serão apresentadas ao ligar as entradas.
-- **Ativar** a função de grandes volumes de dados: Se a função de grandes volumes de dados estiver activada, os utilizadores podem pesquisar mais de 20.000 registos de dados, desde que existam este número de entradas na tabela ligada.
+- **Definições de campo**: Aqui pode definir exatamente a que colunas se aplicam as seguintes autorizações.
+- **Criar e ligar novas entradas**: Se ativar esta barra, os utilizadores podem adicionar novas entradas à tabela ligada. Pode utilizar as definições de campo para especificar que colunas são **obrigatórias**, ou seja, têm de ser preenchidas.
+- **Ligar entradas existentes**: Se ativar esta barra, os utilizadores podem ligar entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir quais as colunas que são **visíveis**.
+- **Filtros predefinidos**: Se adicionar um filtro aqui, apenas as opções que cumprem as condições do filtro são apresentadas ao ligar entradas.
+- **Ativar a função de Big Data**: Se a função Big Data estiver activada, os utilizadores podem pesquisar mais de 20.000 registos de dados, desde que existam este número de entradas na tabela ligada.
+- **Limitar as ligações a um registro máximo**: Se ativar este seletor, os utilizadores só podem ligar uma linha da tabela ligada de cada vez nas células da coluna de ligação.
+- **Editar entradas ligadas**: Se ativar esta barra deslizante, os utilizadores podem editar as entradas existentes na tabela ligada. Pode utilizar as definições de campo para definir quais as colunas que são **editáveis**.
 
 ## Impedir a adição de duplicados
 

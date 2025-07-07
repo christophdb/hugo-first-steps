@@ -1,10 +1,10 @@
 ---
 title: "Modifier les paramètres globaux d'une application universelle"
 date: 2023-05-03
-lastmod: '2024-12-13'
+lastmod: '2025-07-03'
 categories:
     - 'universelle-apps'
-author: 'nsc2'
+author: 'kgr'
 url: '/fr/aide/einstellungen-einer-universellen-app-aendern'
 ---
 
@@ -14,18 +14,12 @@ Au sein d'une **application universelle**, il est possible de procéder en quelq
 
 1. Ouvrez une **base** dans laquelle vous souhaitez modifier une application existante.
 2. Cliquez sur **Apps** dans l'en-tête de la base.
-
 ![Cliquez sur Apps dans l'en-tête de base](images/click-apps-in-the-base-header.jpg)
-
-4. Passez la souris sur l'application et cliquez sur l'**icône du crayon** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
+3. Passez la souris sur l'application et cliquez sur l'**icône du crayon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 ![Modifier les apps](images/Apps-bearbeiten.png)
-
-6. Cliquez sur l'**icône en forme d'engrenage** en haut à gauche de la page.
-
+4. Cliquez sur l'**icône en forme d'engrenage** en haut à gauche de la page.
 ![Icône en forme de roue dentée pour les paramètres de l'application](images/Zahnrad-Symbol-fuer-App-Einstellungen.png)
-
-8. Effectuez les ajustements souhaités dans les **paramètres** de l'application universelle.
+5. Effectuez les ajustements souhaités dans les **paramètres** de l'application universelle.
 
 {{< warning  headline="Autorisation requise dans le groupe"  text="Pour pouvoir modifier une app, vous devez être **propriétaire** ou **administrateur du groupe** dans lequel se trouve la **base** sous-jacente. **Les** simples **membres du groupe** peuvent uniquement consulter et utiliser les apps." />}}
 
@@ -53,11 +47,15 @@ Il s'agit uniquement d'un réglage par défaut lors de la première ouverture de
 
 ![Afficher ou masquer la navigation](images/Hide-and-show-navigation.gif)
 
-## Charger la liste des collaborateurs
+## Paramètres de collaboration
 
-Dans la quatrième section, vous pouvez décider si votre **liste de collaborateurs** doit être visible dans l'application pour tous les utilisateurs. Vous pouvez alors ajouter des personnes dans [les colonnes des collaborateurs]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) ou les ajouter aux [commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
+Dans la quatrième section, vous pouvez **activer le chargement de tous collaborateurs** si votre liste de collaborateurs doit être visible dans l'application pour tous les utilisateurs. Vous pouvez alors ajouter des personnes dans [les colonnes des collaborateurs]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) ou les ajouter aux [commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). Si vous souhaitez que vos collaborateurs restent invisibles aux autres, vous devez désactiver cette fonction.
 
 ![Charger la liste des collaborateurs dans les applications](images/Load-collaborator-list-in-apps.png)
+
+En outre, vous pouvez définir si vous souhaitez **charger les commentaires de la base sous-jacente**. Par défaut, seuls les commentaires rédigés dans l'application sont visibles dans l'application. Si vous ne souhaitez pas que les utilisateurs de l'application voient les commentaires de la base, vous devez désactiver cette fonction.
+
+{{< warning type="warning" headline="Les commentaires sont possibles sur ces types de pages" text="La fonction de commentaires de l'app est actuellement disponible sur les pages Tableau, Galerie, Kanban, Calendrier et Ligne de temps." />}}
 
 ## Gestion des données volumineuses
 
@@ -65,13 +63,15 @@ Cette section n'est pertinente que si vous avez activé la [mémoire Big Data]({
 
 ![Gestion des grandes données dans les applications](images/Big-data-management-in-apps.png)
 
-## Accès illimité
+## Accès ouvert
 
-Dans la dernière section, vous pouvez définir un **accès ouvert** pour votre application universelle. D'une part, vous pouvez autoriser l'**accès d'utilisateurs non déclarés** à votre application, de sorte que toute personne qui consulte le lien puisse voir les données (mais pas les modifier).
+Dans la dernière section, vous pouvez définir un accès ouvert pour votre application universelle. Donc, vous pouvez **autoriser les utilisateurs non connectés** à votre application. Ensuite, toute personne qui consulte le lien puisse voir les données (mais pas les modifier).
 
 ![Accès ouvert à une application](images/Open-access-to-an-app.png)
 
-Vous pouvez également activer l'**enregistrement automatique** de **chaque utilisateur connecté** qui utilise votre application en **tant qu'utilisateur d'application**. Pour ce faire, vous définissez le **rôle** qui est attribué aux utilisateurs lors de l'enregistrement. En fonction des [autorisations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) sur les différentes pages, les utilisateurs ayant ce rôle peuvent également ajouter, modifier ou supprimer des lignes.
+Vous pouvez également **autoriser le téléchargement de fichiers et d'images**. Si vous ne souhaitez pas que tout le monde puisse utiliser votre application sans restriction, vous pouvez **activer la protection par mot de passe**. Lorsque les utilisateurs accèdent à l'URL de l'application, ils doivent alors saisir le mot de passe correct pour pouvoir voir les données.
+
+Vous pouvez également activer que **chaque utilisateur connecté qui utilise l'application est automatiquement enregistré en tant qu'utilisateur d'application**. Pour ce faire, vous définissez le **rôle** qui est attribué aux utilisateurs lors de l'enregistrement. En fonction des [autorisations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) sur les différentes pages, les utilisateurs ayant ce rôle peuvent également ajouter, modifier ou supprimer des lignes.
 
 ## Modifier les paramètres des pages individuelles
 

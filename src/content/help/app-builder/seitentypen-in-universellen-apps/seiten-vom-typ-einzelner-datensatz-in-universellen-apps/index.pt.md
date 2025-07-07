@@ -31,7 +31,7 @@ Nas **definições da página**, é possível selecionar a **tabela** em que os 
 - Linha horizontal
 - Imagem
 - Contentor
-- Mapa
+- Carta
 
 ![Elementos estáticos do tipo de página Registo de dados único](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
 
@@ -49,6 +49,15 @@ Também pode definir uma **cor de fundo** e uma **moldura** para cada campo da t
 
 Para todos os tipos de colunas baseadas em texto e números, também tem a opção de definir o **tamanho, a espessura, a cor e o alinhamento dos valores apresentados**.
 
+Existem também algumas caraterísticas especiais para os seguintes tipos de colunas:
+
+- Se clicar num endereço de correio eletrónico numa **coluna de correio eletrónico**, será aberto o cliente de correio eletrónico instalado no seu dispositivo (por exemplo, Microsoft Outlook ou Mozilla Thunderbird).
+- Se clicar numa ligação numa coluna **URL**, o sítio Web correspondente será aberto num novo separador do seu browser.
+- Se clicar num símbolo de miniatura numa coluna **Arquivo**, o ficheiro abre-se num visualizador adequado num novo separador do seu browser. Se estiver configurado um Editor do Office Online, também pode abrir e editar documentos do Office diretamente no browser.
+- Com **Colunas de ligação**, todas as entradas ligadas ao registo de dados podem ser claramente apresentadas numa tabela. Pode ajustar a largura da coluna e também ocultar colunas através das definições do elemento, para que apenas sejam apresentadas as informações essenciais das entradas ligadas.
+
+![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
+
 ## Copiar, mover ou apagar elementos
 
 Se quiser copiar, mover ou apagar um elemento existente na sua página, basta utilizar os três **símbolos** correspondentes no canto superior direito da moldura.
@@ -63,7 +72,7 @@ Também é possível definir filtros e ordenações predefinidos para limitar e 
 
 Os utilizadores só podem ver as informações de um registo de dados individual que é apresentado através dos campos da tabela integrada.
 
-{{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar****os filtros** e **a ordenação** **predefinidos**. Por conseguinte, só verá as entradas filtradas numa ordem fixa, como desejar." />}}
+{{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar os filtros** e **a ordenação** **predefinidos**. Por conseguinte, só verá as entradas filtradas numa ordem fixa, como desejar." />}}
 
 ## Definições gráficas do fundo da página
 

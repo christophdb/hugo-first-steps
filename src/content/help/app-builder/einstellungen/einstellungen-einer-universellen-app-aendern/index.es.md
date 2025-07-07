@@ -1,10 +1,10 @@
 ---
 title: 'Cambiar la configuración global de una aplicación universal'
 date: 2023-05-03
-lastmod: '2024-12-13'
+lastmod: '2025-07-03'
 categories:
     - 'universelle-apps'
-author: 'nsc2'
+author: 'kgr'
 url: '/es/ayuda/einstellungen-einer-universellen-app-aendern'
 ---
 
@@ -14,20 +14,14 @@ Dentro de una **aplicación universal**, puede realizar varios **ajustes globale
 
 1. Abra una **base** en la que desee editar una aplicación existente.
 2. Haga clic en **Aplicaciones** en la cabecera Base.
-
 ![Haga clic en Aplicaciones en la cabecera Base](images/click-apps-in-the-base-header.jpg)
-
-4. Pase el ratón por encima de la aplicación y haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
+3. Pase el ratón por encima de la aplicación y haga clic en el **icono del lápiz** {{< seatable-icon icon="dtable-icon-rename" >}}.
 ![Editar aplicaciones](images/Apps-bearbeiten.png)
-
-6. Haga clic en el **símbolo de la rueda dentada** situado en la parte superior izquierda de la página.
-
+4. Haga clic en el **símbolo de la rueda dentada** situado en la parte superior izquierda de la página.
 ![Icono de rueda dentada para los ajustes de la aplicación](images/Zahnrad-Symbol-fuer-App-Einstellungen.png)
+5. Realice los ajustes deseados en la **configuración** de la aplicación universal.
 
-8. Realice los ajustes deseados en **la configuración de** la aplicación universal.
-
-{{< warning  headline="Autorización necesaria en el grupo"  text="Para poder editar una app, debes ser el **propietario** o **administrador del grupo** en el que se encuentra la **base** subyacente. **Los miembros del** grupo simple sólo pueden ver y utilizar las apps." />}}
+{{< warning  headline="Autorización necesaria en el grupo"  text="Para poder editar una app, debe ser el **propietario** o **administrador del grupo** en el que se encuentra la **base** subyacente. **Los miembros del** grupo simple sólo pueden ver y utilizar las apps." />}}
 
 ## Editar el nombre de la aplicación universal
 
@@ -37,7 +31,7 @@ En la primera sección de la configuración de la aplicación, puede personaliza
 
 ## URL definida por el usuario
 
-En la segunda sección, puede personalizar parte de la **URL** con la que puede llamar y enlazar a su aplicación universal. Solo tienes que introducir la URL que desees en el **campo de texto** y tener en cuenta los **requisitos** que se indican a continuación al introducirla. A continuación, puede **guardar** y **copiar** la URL introducida.
+En la segunda sección, puede personalizar parte de la **URL** con la que puede llamar y enlazar a su aplicación universal. Solo tiene que introducir la URL que desea en el **campo de texto** y tener en cuenta los **requisitos** que se indican a continuación al introducirla. A continuación, puede **guardar** y **copiar** la URL introducida.
 
 ![Editar URL personalizada](images/Edit-custom-URL.png)
 
@@ -45,7 +39,7 @@ En la segunda sección, puede personalizar parte de la **URL** con la que puede 
 
 ## Mostrar y ocultar la navegación
 
-En la tercera sección, puedes decidir si la **barra de navegación** debe mostrarse u ocultarse por defecto al abrir la aplicación. La barra de navegación es el área de la izquierda que todos los usuarios utilizan para navegar a las [páginas y carpetas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) de la app.
+En la tercera sección, puede decidir si la **barra de navegación** debe mostrarse u ocultarse por defecto al abrir la aplicación. La barra de navegación es el área de la izquierda que todos los usuarios utilizan para navegar a las [páginas y carpetas]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) de la app.
 
 ![Ocultar la navegación de la aplicación por defecto](images/Hide-app-navigation-by-default.png)
 
@@ -53,11 +47,15 @@ Esta es la configuración por defecto cuando se abre la aplicación por primera 
 
 ![Mostrar y ocultar la navegación](images/Hide-and-show-navigation.gif)
 
-## Cargar lista de empleados
+## Ajustes para la colaboración
 
-En la cuarta sección, puede decidir si su **lista de empleados** debe ser visible para todos los usuarios de la aplicación. A continuación, puedes introducir personas en [columnas de empleados]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) o añadirlas a [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
+En la cuarta sección, puede decidir si su **lista de empleados** debe ser visible para todos los usuarios de la aplicación. A continuación, puede introducir personas en [columnas de empleados]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) o añadirlas a [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). Si desea que sus empleados permanezcan invisibles para los demás, deberá desactivar esta función.
 
 ![Cargar la lista de colaboradores en las aplicaciones](images/Load-collaborator-list-in-apps.png)
+
+También puede establecer si desea cargar los **comentarios desde la base subyacente**. Por defecto, sólo los comentarios escritos en la aplicación son visibles en ésta. Si no desea que los usuarios de la app vean los comentarios de la base, debe desactivar esta función.
+
+{{< warning type="warning" headline="Los comentarios son posibles en estos tipos de página" text="La función de comentarios de la app se encuentra actualmente en las páginas de tabla, galería, kanban, calendario y línea de tiempo." />}}
 
 ## Gestión de macrodatos
 
@@ -65,13 +63,15 @@ Esta sección sólo es relevante si ha activado el [almacenamiento]({{< relref "
 
 ![Gestión de macrodatos en aplicaciones](images/Big-data-management-in-apps.png)
 
-## Acceso ilimitado
+## Acceso abierto
 
-En la última sección, puedes configurar **el acceso abierto** para tu app universal. Por un lado, puedes permitir **que usuarios no registrados accedan a** tu app, de modo que cualquiera que llame al enlace pueda ver (pero no modificar) los datos.
+En la última sección, puede establecer un acceso abierto, es decir, hacer que su aplicación sea de acceso público. Para ello, debe permitir el **Acceso de usuarios no registrados**. Cualquiera que llame al enlace podrá entonces ver (pero no modificar) los datos de la aplicación.
 
 ![Acceso abierto a una aplicación](images/Open-access-to-an-app.png)
 
-Sin embargo, también puede activar que **cada usuario conectado** que utilice su aplicación se **registre automáticamente como usuario de la aplicación**. Al hacerlo, usted determina qué **rol** se asigna a los usuarios durante el registro. Dependiendo de su [autorización]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) en las páginas individuales, los usuarios con este rol también pueden añadir, editar o eliminar filas.
+También puede permitir la **Descarga de archivos e imágenes**. Sin embargo, si no desea que todo el mundo pueda utilizar su app sin restricciones, también puede activar la **protección mediante contraseña**. Al acceder a la URL de la app, los usuarios deberán introducir la contraseña correcta para poder ver los datos.
+
+También puede activar que **cada usuario conectado que utilice su aplicación se registre automáticamente como usuario de la aplicación**. Al hacerlo, usted determina qué **rol** se asigna a los usuarios durante el registro. Dependiendo de su [autorización]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) en las páginas individuales, los usuarios con este rol también pueden añadir, editar o eliminar filas.
 
 ## Editar la configuración de páginas individuales
 

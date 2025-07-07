@@ -30,7 +30,7 @@ Les utilisateurs peuvent voir toutes les informations des enregistrements applic
 
 ![Hide columns on query pages in Universal Apps](images/Hide-columns-on-query-pages-in-Universal-Apps.png)
 
-{{< warning  headline="Remarque importante"  text="Les utilisateurs de l'application ne peuvent **pas modifier****les filtres prédéfinis** et les **colonnes masquées**. Ils n'obtiennent donc que les données filtrées, comme ils le souhaitent. Les utilisateurs peuvent toutefois personnaliser la **hauteur des lignes** et le **tri** des enregistrements consultés." />}}
+{{< warning  headline="Remarque importante"  text="Les utilisateurs de l'application ne peuvent **pas modifier les filtres prédéfinis** et les **colonnes masquées**. Ils n'obtiennent donc que les données filtrées, comme ils le souhaitent. Les utilisateurs peuvent toutefois personnaliser la **hauteur des lignes** et le **tri** des enregistrements consultés." />}}
 
 ## Ajouter des champs de requête
 
@@ -60,6 +60,8 @@ Ensuite, tous les utilisateurs ayant accès à la page de requête peuvent **tra
 - Déplacez votre souris sur la **numérotation des lignes** de la liste de résultats et cliquez sur l'**icône en forme de double flèche** devant l'enregistrement que vous souhaitez modifier.
 - Effectuez les modifications souhaitées dans les **détails de la ligne** ouverte.
 - Cliquez sur l'**icône x** pour fermer la fenêtre et enregistrer vos modifications.
+
+{{< warning  type="warning" headline="Colonnes en lecture seule" text="Vous pouvez définir à l'avance des colonnes qui ne pourront pas être modifiées. Pour cela, allez dans les paramètres de la page et cochez les cases des colonnes qui doivent être **en lecture seule** pour les utilisateurs. Vous reconnaissez les colonnes en lecture seule au fait que les champs sont grisés dans les détails de la ligne." />}}
 
 ## Autorisations des pages
 
