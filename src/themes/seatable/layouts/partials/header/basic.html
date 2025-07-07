@@ -4,7 +4,7 @@
         <a href="{{ "/" | relLangURL }}"><img src="/images/seatable-logo.svg" alt="SeaTable Logo" width="130" height="29" /></a>
 
         <!-- Hauptnavigation -->
-        <ul class="flex flex-1 items-center justify-center gap-1 max-lg:hidden xl:gap-4">
+        <ul class="flex flex-1 items-center justify-center gap-1 max-xl:hidden 2xl:gap-4">
             {{ if .Site.Menus.main }}
                 {{ range .Site.Menus.main }}
                     {{ partial "header/navigation-desktop.html" . }}
@@ -20,7 +20,7 @@
 
 
             <!-- Mobile Menu-->
-            <div class="hidden max-lg:block">
+            <div class="hidden max-xl:block">
                 <button @click="mobileMenuOpen = !mobileMenuOpen" aria-label="Toggle mobile menu">
                     <img src="/icons/hamburger.svg" alt="Open Mobile Menu" width="25" height="25" />
                 </button>
@@ -29,7 +29,7 @@
     </nav>
 
     <!-- Mobile menu, show/hide based on menu state. -->
-    <div x-show="mobileMenuOpen" @click.away="mobileMenuOpen = false" id="mobile-menu" class="hidden max-lg:block">
+    <div x-show="mobileMenuOpen" @click.away="mobileMenuOpen = false" id="mobile-menu" class="hidden max-xl:block">
         <div class="absolute left-0 top-0 z-[99999] min-h-full w-full border-b bg-slate-200 p-9 text-right">
             <button @click="mobileMenuOpen = !mobileMenuOpen" aria-label="Toggle mobile menu">
                 <img src="/icons/xmark.svg" alt="Close Mobile Menu" width="16" height="16" />
