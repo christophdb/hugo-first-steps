@@ -1,5 +1,5 @@
 ---
-title: 'Programa de gestión de la literatura para una mejor visión de conjunto"
+title: 'Programa de gestión de la literatura para una mejor visión de conjunto'
 date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
