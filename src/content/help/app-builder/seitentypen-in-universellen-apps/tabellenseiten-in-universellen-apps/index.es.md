@@ -1,14 +1,14 @@
 ---
 title: 'Páginas de tabla en aplicaciones universales'
 date: 2023-12-01
-lastmod: '2024-12-13'
+lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/es/ayuda/tabellenseiten-in-universellen-apps'
 ---
 
-Puede utilizar este tipo de página para [añadir]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
+Puede utilizar este tipo de página para [añadir]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) cualquier **tabla** de su base como página a su aplicación universal.
 
 ![Página de tabla en Universal App](images/Table-page-in-Universal-App.png)
 
@@ -22,19 +22,17 @@ Al editar páginas de tablas, puede realizar numerosos **ajustes de página** pa
 
 ![Ajustes de página en las páginas de tabla](images/Page-settings-on-table-pages.png)
 
-## Filtros preestablecidos, clasificación y agrupación
+## Filtros, ordenaciones y agrupaciones predefinidos
 
-Puede definir **filtros**, **clasificaciones** y **agrupaciones** **predefinidos** en la configuración de la página para limitar y organizar los datos mostrados para un grupo de usuarios.
+Puede definir **filtros**, **ordenaciones** y **agrupaciones** **predefinidos** en la configuración de la página para limitar y organizar los datos mostrados para un grupo de usuarios.
 
 ![Añadir filtro en la página de tabla en Universal Apps](images/Add-filter-on-table-page-in-Universal-Apps.png)
 
 Para ello, haga clic en **Añadir filtro**, **Añadir ordenación** o **Añadir grupo**, seleccione la **columna** y la **condición** deseadas y confirme con **Enviar**.
 
-{{< warning  headline="Nota importante"  text="Los usuarios de la aplicación **no pueden cambiar****los filtros preestablecidos**. Por lo tanto, sólo se les muestran los datos filtrados, como usted desee. La clasificación y agrupación preestablecidas, por otro lado, sólo definen una **vista** estándar que los usuarios pueden cambiar individualmente." />}}
+{{< warning  headline="Nota importante"  text="Los usuarios de la aplicación **no pueden cambiar los filtros preestablecidos**. Por lo tanto, sólo se les muestran los datos filtrados, como usted desee. La ordenación y agrupación preestablecidas, por otro lado, sólo definen una **vista** estándar que los usuarios pueden cambiar individualmente." />}}
 
 ![Vista por defecto agrupada por una columna en una página de tabla en Universal Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
-
-Con las **opciones de vista** situadas encima de la tabla, los usuarios de la aplicación pueden cancelar las agrupaciones y ordenaciones existentes o realizar ajustes adicionales.
 
 {{< warning  headline="Filtrar por columnas de número o duración"  text="Si desea filtrar por columnas numéricas o de duración, debe respetar ciertas especificaciones de formato. Debe escribir los **números decimales** con un punto como separador, introducir los **valores porcentuales** como números decimales (por ejemplo, 99% = 0,99) y convertir la **duración** en segundos (por ejemplo, 1 hora = 3600 segundos)." />}}
 
@@ -52,17 +50,34 @@ Puede reconocer las columnas protegidas contra escritura porque aparecen resalta
 
 {{< warning  headline="No se heredan los ajustes de vista de la base"  text="Tenga en cuenta que las **columnas ocultas y bloqueadas** en la tabla subyacente **no** tienen ningún efecto en la aplicación. Al crear una nueva página de tabla en la app, todas las columnas se muestran inicialmente y pueden editarse." />}}
 
+## Opciones de vista del usuario
+
+Con las **opciones de vista** encima de la tabla, los usuarios de la aplicación pueden realizar sus propios ajustes adicionales, que funcionan exactamente igual que en la base. Entre ellas se incluyen
+
+- [Filtrar]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}})
+- [Ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}})
+- [Agrupar]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}})
+- [Ocultar columnas]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
+- [Ajustar la altura de la línea]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
+- [Ajustar el número de columnas fijas]({{< relref "help/base-editor/spalten/anzahl-der-fixierten-spalten-anpassen" >}})
+
+![User view options on table pages in Universal Apps](images/user-view-options-on-table-pages-in-apps.png)
+
+Como se ha mencionado anteriormente, la configuración individual de la vista por parte del usuario **no tiene ningún efecto sobre la configuración estándar** que usted ha predefinido para la página de la tabla. Por ejemplo, el usuario puede filtrar adicionalmente una vista que usted haya prefiltrado u ocultar columnas adicionales, pero no puede mostrar los registros de datos ni las columnas ocultas que usted haya filtrado, ni siquiera hacerlos visibles para los demás.
+
 ## Configuración de la columna de enlaces
 
 En **la configuración de la columna de enlace**, puede especificar qué datos son visibles y qué operaciones están permitidas para cada tabla enlazada.
 
 ![Configuración de columnas de enlace en páginas de tablas en Universal Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Permitir añadir nuevas entradas**: Si activa este control deslizante, los usuarios podrán añadir nuevas entradas a la tabla vinculada. Puede utilizar la configuración de campos para definir qué columnas son **visibles** y qué columnas son **obligatorias**, es decir, deben rellenarse.
-- **Permitir la vinculación de entradas existentes**: Si activa este control deslizante, los usuarios podrán vincular entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **visibles**.
-- **Limitar** los enlaces a una fila como máximo: Si activa este control deslizante, los usuarios sólo podrán enlazar una fila de la tabla enlazada en las celdas de la columna de enlace.
-- **Filtros preestablecidos**: si añade un filtro aquí, al enlazar las entradas sólo se mostrarán las opciones que cumplan las condiciones del filtro.
-- **Activar** la función big data: Si la función big data está activada, los usuarios pueden buscar en más de 20.000 registros de datos, siempre que haya este número de entradas en la tabla vinculada.
+- **Configuración de campos**: Aquí puede definir exactamente a qué columnas se aplican las siguientes autorizaciones.
+- **Crear y vincular nuevas entradas**: Si activa este control deslizante, los usuarios podrán añadir nuevas entradas a la tabla vinculada. Puede utilizar la configuración de campos para especificar qué columnas son **necesarias**, es decir, deben rellenarse.
+- **Enlazar entradas existentes**: Si activa este control deslizante, los usuarios pueden vincular entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **visibles**.
+- **Filtros predefinidos**: Si añade aquí un filtro, al vincular las entradas sólo se mostrarán las opciones que cumplan las condiciones del filtro.
+- **Activar función de grandes datos**: Si la función Big Data está activada, los usuarios pueden buscar en más de 20.000 registros de datos, siempre que haya esta cantidad de entradas en la tabla vinculada.
+- **Limitar los enlaces a máximo un registro**: Si activa este control deslizante, los usuarios sólo podrán enlazar una fila de la tabla enlazada a la vez en las celdas de la columna de enlace.
+- **Editar entradas enlazadas**: Si activa este control deslizante, los usuarios podrán editar las entradas existentes en la tabla vinculada. Puede utilizar los ajustes de campo para definir qué columnas son **editables**.
 
 ## Evitar que se añadan duplicados
 

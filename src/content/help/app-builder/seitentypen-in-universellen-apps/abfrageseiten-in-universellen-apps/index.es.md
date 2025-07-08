@@ -61,6 +61,8 @@ A continuación, todos los usuarios con acceso a la página de consulta pueden *
 - Realice los cambios deseados en **los detalles de la fila** abierta.
 - Haga clic en el **símbolo x** para cerrar la ventana y guardar los cambios.
 
+{{< warning  type="warning" headline="Columnas de sólo lectura" text="Puede definir de antemano columnas que no se puedan editar. Para ello, vaya a la configuración de la página y marque las casillas de las columnas que deben ser de **sólo lectura** para los usuarios. Puede reconocer las columnas de sólo lectura por el hecho de que los campos de los detalles de la fila aparecen resaltados en gris." />}}
+
 ## Autorizaciones de páginas
 
 En la parte inferior de la configuración de la página, puede restringir quién puede ver la página de consulta.

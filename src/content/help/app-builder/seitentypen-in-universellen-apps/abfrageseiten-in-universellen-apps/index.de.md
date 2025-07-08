@@ -61,6 +61,8 @@ Anschließend können alle Nutzer mit Zugriff auf die Abfrageseite die gesuchten
 - Nehmen Sie in den geöffneten **Zeilendetails** die gewünschten Änderungen vor.
 - Klicken Sie auf das **x-Symbol**, um das Fenster zu schließen und Ihre Änderungen zu speichern.
 
+{{< warning  type="warning" headline="Schreibgeschützte Spalten"  text="Sie können vorab Spalten definieren, die nicht bearbeitet werden können. Gehen Sie dazu in die Seiteneinstellungen und klicken Sie die Kästchen der Spalten an, die für die Nutzer **nur lesbar** sein sollen. Schreibgeschützte Spalten erkennen Sie daran, dass die Felder in den Zeilendetails grau hinterlegt sind." />}}
+
 ## Seitenberechtigungen
 
 Ganz unten in den Seiteneinstellungen können Sie eingrenzen, wer die Abfrageseite sehen darf.

@@ -30,7 +30,7 @@ Os utilizadores podem ver todas as informações dos registos de dados aplicáve
 
 ![Ocultar colunas em páginas de consulta nas Aplicações Universais](images/Hide-columns-on-query-pages-in-Universal-Apps.png)
 
-{{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar****os filtros predefinidos** e **as colunas ocultas**. Por conseguinte, o utilizador só verá as entradas filtradas, como desejar. No entanto, os utilizadores podem personalizar a **altura das linhas** e a **ordenação** dos registos de dados consultados." />}}
+{{< warning  headline="Nota importante"  text="Os utilizadores da aplicação **não podem alterar os filtros predefinidos** e **as colunas ocultas**. Por conseguinte, o utilizador só verá as entradas filtradas, como desejar. No entanto, os utilizadores podem personalizar a **altura das linhas** e a **ordenação** dos registos de dados consultados." />}}
 
 ## Adicionar campos de consulta
 
@@ -60,6 +60,8 @@ Todos os utilizadores com acesso à página de consulta podem então **editar** 
 - Desloque o rato para a **numeração das linhas** da lista de acertos e clique no **símbolo da seta dupla** em frente do registo de dados que pretende editar.
 - Efetuar as alterações desejadas nos **detalhes da linha** aberta.
 - Clique no **símbolo x** para fechar a janela e guardar as suas alterações.
+
+{{< warning  type="warning" headline="Colunas só de leitura" text="Pode definir antecipadamente colunas que não podem ser editadas. Para o fazer, vá às definições da página e marque as caixas das colunas que devem ser **apenas de leitura** para os utilizadores. Pode reconhecer as colunas só de leitura pelo facto de os campos nos detalhes da linha estarem realçados a cinzento." />}}
 
 ## Autorizações de páginas
 

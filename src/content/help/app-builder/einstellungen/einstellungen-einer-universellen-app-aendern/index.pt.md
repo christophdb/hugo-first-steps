@@ -1,10 +1,10 @@
 ---
 title: 'Alterar as definições globais de uma aplicação universal'
 date: 2023-05-03
-lastmod: '2024-12-13'
+lastmod: '2025-07-03'
 categories:
     - 'universelle-apps'
-author: 'nsc2'
+author: 'kgr'
 url: '/pt/ajuda/einstellungen-einer-universellen-app-aendern'
 ---
 
@@ -14,18 +14,12 @@ Numa **aplicação universal**, pode fazer várias **definições globais** que 
 
 1. Abra uma **base** na qual pretende editar uma aplicação existente.
 2. Clique em **Apps** no cabeçalho Base.
-
 ![Clique em Apps no cabeçalho Base](images/click-apps-in-the-base-header.jpg)
-
-4. Passe o rato sobre a aplicação e clique no **ícone do lápis** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
+3. Passe o rato sobre a aplicação e clique no **ícone do lápis** {{< seatable-icon icon="dtable-icon-rename" >}}.
 ![Editar aplicações](images/Apps-bearbeiten.png)
-
-6. Clique no **símbolo da roda dentada** no canto superior esquerdo da página.
-
+4. Clique no **símbolo da roda dentada** no canto superior esquerdo da página.
 ![Ícone de roda dentada para as definições da aplicação](images/Zahnrad-Symbol-fuer-App-Einstellungen.png)
-
-8. Efectuar os ajustes desejados nas **definições da** aplicação universal.
+5. Efectuar os ajustes desejados nas **definições** da aplicação universal.
 
 {{< warning  headline="Autorização necessária no grupo"  text="Para poder editar uma aplicação, tem de ser o **proprietário** ou **administrador do grupo** em que a **base** subjacente se encontra. **Os membros** simples **do grupo** só podem ver e utilizar as aplicações." />}}
 
@@ -53,11 +47,15 @@ Esta é apenas uma definição predefinida quando a aplicação é aberta pela p
 
 ![Mostrar e ocultar a navegação](images/Hide-and-show-navigation.gif)
 
-## Carregar lista de empregados
+## Definições para colaboração
 
-Na quarta secção, pode decidir se a sua **lista de empregados** deve ser visível para todos os utilizadores da aplicação. Pode então introduzir pessoas nas [colunas de empregados]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) ou adicioná-las aos [comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}).
+Na quarta secção, pode decidir se a sua **lista de empregados** deve ser visível para todos os utilizadores da aplicação. Pode então introduzir pessoas nas [colunas de empregados]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) ou adicioná-las aos [comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). Se quiser que os seus empregados permaneçam invisíveis para os outros, deve desativar esta função.
 
 ![Carregar lista de colaboradores em aplicações](images/Load-collaborator-list-in-apps.png)
+
+Também pode definir se pretende carregar os **comentários a partir da base subjacente**. Por defeito, apenas os comentários escritos na aplicação são visíveis na aplicação. Se não quiser que os utilizadores da aplicação vejam os comentários da base, deve desativar esta função.
+
+{{< warning type="warning" headline="Os comentários são possíveis nestes tipos de página" text="A função de comentário da aplicação pode atualmente ser encontrada em páginas de tabela, galeria, kanban, calendário e linha de tempo." />}}
 
 ## Gestão de grandes volumes de dados
 
@@ -67,14 +65,16 @@ Esta secção só é relevante se tiver ativado o [armazenamento de grandes volu
 
 ## Acesso sem restrições
 
-Na última secção, pode definir **o acesso aberto** para a sua aplicação universal. Por um lado, pode permitir que **os utilizadores não registados acedam à** sua aplicação, para que qualquer pessoa que aceda à ligação possa ver (mas não alterar) os dados.
+Na última secção, pode definir **o acesso aberto** para a sua aplicação universal. Pode permitir que **os utilizadores não registados** acedam publicamente àsua aplicação, para que qualquer pessoa que aceda à ligação possa ver (mas não alterar) os dados.
 
 ![Acesso aberto a uma aplicação](images/Open-access-to-an-app.png)
 
-No entanto, também pode ativar que **cada utilizador com sessão iniciada** que utilize a sua aplicação seja **automaticamente registado como um utilizador da aplicação**. Ao fazê-lo, determina que **função** é atribuída aos utilizadores durante o registo. Dependendo da sua [autorização]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) nas páginas individuais, os utilizadores com esta função também podem adicionar, editar ou eliminar linhas.
+Pode também permitir o **Download de ficheiros e imagens**. No entanto, se não quiser que todos possam utilizar a sua aplicação sem restrições, também pode ativar a **Proteção por palavra-passe**. Ao aceder ao URL da aplicação, os utilizadores têm de introduzir a palavra-passe correta para poderem ver os dados.
+
+No entanto, também pode ativar que **cada utilizador com sessão iniciada que utilize a sua aplicação seja automaticamente registado como um utilizador da aplicação**. Ao fazê-lo, determina que **função** é atribuída aos utilizadores durante o registo. Dependendo da sua [autorização]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) nas páginas individuais, os utilizadores com esta função também podem adicionar, editar ou eliminar linhas.
 
 ## Editar definições de páginas individuais
 
-As definições mencionadas até agora afectam **toda** uma **aplicação universal**. Se pretender alterar as definições de uma **página individual**, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} da página correspondente na navegação.
+As definições mencionadas até agora afectam **toda** uma aplicação universal. Se pretender alterar as definições de uma **página individual**, clique no **símbolo da roda dentada** {{< seatable-icon icon="dtable-icon-set-up" >}} da página correspondente na navegação.
 
 ![Abrir as definições da página](images/page-permissions-universal-app.png)

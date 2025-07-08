@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/es/ayuda/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 ---
 
-Con el [tipo de]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) página de **registro de datos único**, tiene la opción de diseñar una página con elementos estáticos, campos de tabla dinámicos, colores, marcos, etc. para presentar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que ya conoce de Base.
+Con el [tipo de página]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) de **registro de datos único**, tiene la opción de diseñar una página con elementos estáticos, campos de tabla dinámicos, colores, marcos, etc. para presentar visualmente los datos almacenados en una fila. Este tipo de página es, por tanto, similar al [plugin de diseño de páginas]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) que ya conoce de Base.
 
 Los usuarios de la aplicación pueden ver, buscar, explorar o incluso editar los registros de datos individuales en esta página, con la autorización pertinente. Este tipo de página es adecuada, por ejemplo, para mostrar los datos de una base de datos de empleados como perfiles personalizados.
 
@@ -31,7 +31,7 @@ De forma similar a las [páginas individuales]({{< relref "help/app-builder/seit
 - Línea horizontal
 - Imagen
 - Contenedor
-- Mapa
+- Carta
 
 ![Elementos estáticos del tipo de página Registro de datos único](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
 
@@ -48,6 +48,15 @@ También puede definir un **color de fondo** y un **marco** para cada campo de l
 ![Configuración de elementos de un campo de tabla en páginas de registro único en Universal App](images/Element-settings-of-a-table-field-on-Single-Record-Pages-in-the-Universal-App.png)
 
 Para todos los tipos de columnas basadas en texto y números, también tiene la opción de establecer el **tamaño de la fuente, el peso de la fuente, el color de la fuente y la alineación de los valores mostrados**.
+
+También hay algunas características especiales para los siguientes tipos de columnas:
+
+- Si pulsa sobre una dirección de correo electrónico en una **columna de correo**, se abrirá el cliente de correo electrónico instalado en su dispositivo (por ejemplo, Microsoft Outlook o Mozilla Thunderbird).
+- Si pulsa sobre un enlace en una columna **URL**, se abrirá el sitio web correspondiente en una nueva pestaña de su navegador.
+- Si hace clic en un símbolo de miniatura en una columna **Archivo**, el archivo se abrirá en un visor adecuado en una nueva pestaña de su navegador. Si tiene configurado un editor de Office en línea, también podrá abrir y editar documentos de Office directamente en el navegador.
+- Con las **columnas de enlace**, todas las entradas vinculadas al registro de datos pueden visualizarse claramente en una tabla. Puede ajustar la anchura de las columnas y también ocultarlas a través de la configuración del elemento para que sólo se muestre la información esencial de las entradas vinculadas.
+
+![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
 
 ## Copiar, mover o eliminar elementos
 

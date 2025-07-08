@@ -1,14 +1,14 @@
 ---
 title: 'Pages de tableaux dans les applications universelles'
 date: 2023-12-01
-lastmod: '2024-12-13'
+lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/fr/aide/tabellenseiten-in-universellen-apps'
 ---
 
-Ce type de page vous permet d'[ajouter]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
+Ce type de page vous permet d'[ajouter]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}) n'importe quel **tableau** de votre base comme page à votre application universelle.
 
 ![Table page dans l'application universelle](images/Table-page-in-Universal-App.png)
 
@@ -22,9 +22,9 @@ Lorsque vous modifiez des pages de tableau, vous pouvez définir de nombreux **p
 
 ![Paramètres de page sur les pages de tableaux](images/Page-settings-on-table-pages.png)
 
-## Filtres, tris et regroupements prédéfinis
+## Filtres, tris et groupes prédéfinis
 
-Vous pouvez définir **des filtres**, des **tris** et des **regroupements** **prédéfinis** dans les paramètres de la page afin de limiter et d'organiser les données affichées pour un groupe d'utilisateurs.
+Vous pouvez définir des **filtres**, des **tris** et des **groupes** **prédéfinis** dans les paramètres de la page afin de limiter et d'organiser les données affichées pour un groupe d'utilisateurs.
 
 ![Ajouter un filtre sur la page du tableau dans les applications universelles](images/Add-filter-on-table-page-in-Universal-Apps.png)
 
@@ -33,8 +33,6 @@ Pour ce faire, cliquez sur **Ajouter un filtre**, **Ajouter un tri** ou **Ajoute
 {{< warning  headline="Remarque importante"  text="Les utilisateurs de l'application ne peuvent **pas modifier** les **filtres prédéfinis**. Ils n'obtiennent donc, comme ils le souhaitent, que les données filtrées. En revanche, les tris et les regroupements prédéfinis ne définissent qu'un **affichage standard** que les utilisateurs peuvent modifier individuellement." />}}
 
 ![Vue par défaut regroupée par une colonne sur une page de tableau dans Universal Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
-
-Les **options d'affichage** au-dessus du tableau permettent aux utilisateurs de l'application d'annuler les regroupements et les tris existants ou d'effectuer des réglages complémentaires.
 
 {{< warning  headline="Filtrer par colonnes de chiffres ou de durée"  text="Si vous souhaitez filtrer par colonnes de chiffres ou de durées, il y a certaines consignes de format à respecter. Vous devez écrire **les nombres décimaux** avec un point comme séparateur, indiquer **les pourcentages** sous forme de nombres décimaux (p. ex. 99% = 0,99) et convertir la **durée** en secondes (p. ex. 1 heure = 3600 secondes)." />}}
 
@@ -52,17 +50,34 @@ Vous reconnaissez les colonnes en lecture seule au fait qu'elles sont **grisées
 
 {{< warning  headline="Pas d'héritage des paramètres de vue de la base"  text="Veuillez noter que **les colonnes masquées et bloquées** dans le tableau sous-jacent n'ont **aucun** effet sur l'app. Lorsque vous créez une nouvelle page de tableau dans l'app, toutes les colonnes sont d'abord affichées et peuvent être modifiées." />}}
 
+## Options d'affichage de l'utilisateur
+
+Les **options d'affichage** au-dessus du tableau permettent aux utilisateurs de l'application de définir leurs propres paramètres complémentaires, qui fonctionnent exactement comme dans la base. Il s'agit notamment de
+
+- [Filtrer]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}})
+- [Trier]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}})
+- [Grouper]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}})
+- [Masquer des colonnes]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
+- [Sélectionner l'hauteur de ligne]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
+- [Ajuster le nombre de colonnes fixes]({{< relref "help/base-editor/spalten/anzahl-der-fixierten-spalten-anpassen" >}})
+
+![User view options on table pages in Universal Apps](images/user-view-options-on-table-pages-in-apps.png)
+
+Comme indiqué ci-dessus, les paramètres d'affichage individuels de l'utilisateur **n'ont aucun effet sur les paramètres par défaut** de la page de tableau que vous avez prédéfinis. Par exemple, l'utilisateur peut filtrer davantage une vue que vous avez pré-filtrée ou masquer d'autres colonnes, mais il ne peut pas afficher les enregistrements que vous avez filtrés ou les colonnes que vous avez masquées, ni même les rendre visibles pour les autres.
+
 ## Paramètres de la colonne des liens
 
 Dans les **paramètres de la colonne des liens**, vous pouvez définir pour chaque tableau lié quelles données sont visibles et quelles opérations sont autorisées.
 
 ![Paramètres de colonne de lien sur les pages de tableau dans Universal Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Autoriser l'ajout de nouvelles entrées**: si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans le tableau lié. Les paramètres des champs permettent de définir quelles colonnes sont **visibles** et quelles colonnes sont **obligatoires**, c'est-à-dire qu'elles doivent être remplies.
-- **Autoriser la liaison d'entrées existantes**: si vous activez ce curseur, les utilisateurs peuvent lier des entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **visibles** via les paramètres de champ.
-- **Limiter les liens à une ligne maximum**: Si vous activez ce curseur, les utilisateurs ne pourront plus lier qu'une seule ligne du tableau lié à la fois dans les cellules de la colonne des liens.
-- **Filtres prédéfinis**: si vous ajoutez un filtre ici, seules les options qui remplissent les conditions du filtre seront affichées lors de la création de liens vers des entrées.
-- **Activer la fonction Big Data**: Lorsque la fonction Big Data est activée, les utilisateurs peuvent effectuer des recherches sur plus de 20.000 enregistrements, à condition qu'il y ait autant d'entrées dans la table liée.
+- **Paramètres des champs** : Ici, vous pouvez définir précisément les colonnes auxquelles s'appliquent les autorisations suivantes.
+- **Créer et lier de nouvelles entrées** : Si vous activez ce curseur, les utilisateurs peuvent ajouter de nouvelles entrées dans la table liée. Les paramètres de champ vous permettent de définir quelles colonnes sont **nécessaires**, c'est-à-dire qu'elles doivent être remplies.
+- **Lier des entrées existantes** : Si vous activez ce curseur, les utilisateurs peuvent lier les entrées existantes de la table liée. Vous pouvez définir quelles colonnes sont **visibles** dans les paramètres de champ.
+- **Filtres prédéfinis** : Si vous ajoutez un filtre ici, seules les options qui remplissent les conditions du filtre seront affichées lors de la liaison d'entrées.
+- **Activer la fonction Big Data** : Lorsque la fonction Big Data est activée, les utilisateurs peuvent effectuer des recherches sur plus de 20 000 enregistrements, à condition qu'il y ait autant d'entrées dans la table liée.
+- **Limiter les liens à une seule ligne maximum** : Si vous activez ce curseur, les utilisateurs ne pourront lier qu'une seule ligne de la table liée à la fois dans les cellules de la colonne de jointure.
+- **Modifier les entrées liées** : Si vous activez ce curseur, les utilisateurs peuvent modifier les entrées existantes du tableau lié. Vous pouvez définir quelles colonnes sont **éditables** dans les paramètres de champ.
 
 ## Empêcher l'ajout de doublons
 
