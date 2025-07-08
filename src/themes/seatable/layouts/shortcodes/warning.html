@@ -36,7 +36,7 @@
         {{ if .Get "text" }}
             <p class="last:mb-0">{{ .Get "text" | markdownify }}</p>
         {{ else if .Inner }}
-            <div class="last:mb-0">{{ .Inner | strings.TrimSpace | .Page.RenderString }}</div>
+            <p class="last:mb-0">{{ .Inner | strings.TrimSpace | .Page.RenderString }}</p>
         {{ end }}
     </div>
 </aside>
