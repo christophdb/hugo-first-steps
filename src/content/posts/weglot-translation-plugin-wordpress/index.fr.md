@@ -127,7 +127,7 @@ Les prix du plugin WordPress Weglot.
 
 Actuellement, nous utilisons le _Advanced_\-L'abonnement à Weglot, qui permet de traduire jusqu'à 10 langues et 1 million de mots. Nous payons 1 990 euros pour cela, mais comme nous l'avons déjà mentionné, cela nous a permis d'économiser au moins 18 jours de travail sur les deux années. Le gain de temps est probablement encore beaucoup plus important. Les abonnements peuvent être mis à niveau à tout moment, même pendant la période de validité, et la valeur résiduelle de l'abonnement actuel est entièrement déduite du prix de l'abonnement supérieur. 
 
-Prochainement, nous allons publier sur le *Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten.* 
+Nous allons bientôt passer au _plan étendu_ pour pouvoir faire traduire d'autres articles de blog et, à ce moment-là, nous allons probablement activer une autre langue sur seatable.io. Cette étape ne me prendra que deux clics de souris.
 
 ### L'outil Word-Count vous permet de déterminer vos propres besoins
 
@@ -170,7 +170,7 @@ Pour moi, les principaux arguments en faveur de l'utilisation de Weglot sont les
 - Weglot conduit à plus de contenu, à des classements supplémentaires et meilleurs sur Google et, au final, à plus de trafic et à une plus grande portée.
 - La facilité d'installation de Weglot est un argument en sa faveur. En moins d'une minute, on obtient un site web multilingue.
 - Weglot promet la compatibilité avec pratiquement tous les thèmes WordPress et de nombreux plug-ins, y compris WooCommerce, Yoast et Elementor. De même, nous n'avons jamais eu de conflits avec les plugins ou notre thème.
-- Weglot est optimisé pour le référencement multilingue. Il ajoute automatiquement _hreflang-Tag-Attribute hinzu, erstellt vollständig dedizierte URLs für jede Sprache und indexiert Ihre übersetzten Seiten._
+- Weglot est optimisé pour le référencement multilingue. Il ajoute automatiquement des attributs de balise `hreflang`, crée des URL entièrement dédiées pour chaque langue et indexe vos pages traduites.
 - La qualité de la traduction est vraiment bonne. Les retouches manuelles sont rarement nécessaires et elles peuvent alors être facilement effectuées via le site web de Weglot.
 - Weglot dispose d'une équipe d'assistance dédiée de plus de dix personnes ayant une compétence technique marquée dans la traduction d'applications web.
 

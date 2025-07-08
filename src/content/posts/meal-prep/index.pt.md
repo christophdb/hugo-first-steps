@@ -130,4 +130,4 @@ Para ter suas receitas favoritas sempre à mão, você pode criar uma lista com 
 
 Basta inserir o dia em que pretende cozinhar cada prato e criar novos **planos semanais de Meal Prep** no calendário. Faça upload de fotos e deixe sua galeria inspirar você semana após semana com possíveis pratos. Em outras duas tabelas, você pode registrar todos os ingredientes em uma **lista de compras** e comparar os **valores nutricionais** dos seus pratos favoritos.
 
-Se quiser usar o SeaTable para seu plano semanal de Meal Prep, [registre-se]({{< relref "pages/registration" >}}) gratuitamente. O modelo correspondente está disponível [aqui]({{< relref "templates/healthcare/recipes-meal-plan" >
+Se quiser usar o SeaTable para seu plano semanal de Meal Prep, [registre-se]({{< relref "pages/registration" >}}) gratuitamente. O modelo correspondente está disponível [aqui]({{< relref "templates/healthcare/recipes-meal-plan" >}}).

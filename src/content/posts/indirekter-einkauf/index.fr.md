@@ -76,7 +76,7 @@ Voici comment procéder :
 2. Choisir le compte de messagerie intégré à partir duquel l'e-mail doit être envoyé
 3. Choisir l'objet, le texte de l'e-mail et le destinataire
 
-> **Für Profis:** Sie können dabei mit Nasenklammern direkt Spalteninhalte wiedergeben, was besonders bei der Email-Adresse sehr wichtig ist. Mit {Email} beziehen wir uns in unserer Vorlage auf die zuvor eingefügte Email-Adresse der Lieferanten, die aus Tabelle 3 gezogen wird. Die Inhalte aus Spalten können Sie auch im Betreff und dem Text der Email benutzen, wie etwa den Produktnamen und die Menge der bestellten Güter (also etwa: “Wir möchten das Produkt {Product} mit der Menge {Amount} bestellen”). Auf diese Weise vereinfachen Sie Ihre Büroorganisation ungemein, da Sie keine manuellen Emails mehr schreiben müssen, in der alle Bestellungen mühsam übertragen werden müssen.
+> **Pour les professionnels**, vous pouvez utiliser des crochets pour reproduire directement le contenu des colonnes, ce qui est particulièrement important pour l'adresse e-mail. Avec {Email}, nous nous référons dans notre modèle à l'adresse e-mail des fournisseurs insérée précédemment et tirée du tableau 3. Vous pouvez également utiliser le contenu des colonnes dans l'objet et le texte de l'e-mail, comme le nom du produit et la quantité de marchandises commandées (par exemple : "Nous souhaitons commander le produit {Product} avec la quantité {Amount}"). De cette manière, vous simplifiez considérablement l'organisation de votre bureau, car vous ne devez plus écrire manuellement des e-mails dans lesquels toutes les commandes doivent être reportées.
 
 ## Les vues individuelles et le Kanban donnent une meilleure vue d'ensemble
 

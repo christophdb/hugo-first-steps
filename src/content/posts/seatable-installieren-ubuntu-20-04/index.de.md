@@ -12,7 +12,7 @@ seo:
 
 Dank Docker ist die Installation von SeaTable Enterprise Edition ganz einfach und in wenigen Augenblicken gemacht. Ubuntu Server als weitverbreitetes und gut dokumentiertes Linux Betriebssystem bietet sich als Basis für SeaTable hervorragend an. Wenn Sie bereits einen Ubuntu Server haben, dann erfahren Sie hier, wie Sie in 10 Minuten auf diesem SeaTable installieren.
 
-{{< warning headline="This manual is outdated" text="Kindly be aware that this manual is outdated. Refer to the updated installation instructions available at [https://manual.seatable.io](https://manual.seatable.io)" />}}
+{{< warning headline="This manual is outdated" text="Kindly be aware that this manual is outdated. Refer to the updated installation instructions available at [https://admin.seatable.com](https://admin.seatable.com)" />}}
 
 ## Voraussetzungen
 
@@ -36,13 +36,18 @@ Sie sind bereit? Los geht’s! Wir gehen davon aus, dass Sie eine Root Shell auf
 
 Zunächst aktualisieren wir das System, um alle Pakete auf dem neusten Stand zu haben:
 
-`apt update   apt upgrade -y`
+```
+apt update
+apt upgrade -y
+```
 
 Natürlich müssen diese und alle folgenden Befehle mit Root-Rechten ausgeführt werden, wenn nicht anders angegeben.
 
 SeaTable verwendet docker-compose und dieses Paket müssen Sie installieren. Da es über die Ubuntu-Paketquellen verfügbar ist, reicht der Befehl:
 
-`apt install docker-compose -y`
+```
+apt install docker-compose -y
+```
 
 Die Pakete docker.io und containerd sowie zahlreiche Python3 Bibliotheken gehören zu den Abhängigkeiten von docker-compose. Diese werden daher gleich mitinstalliert. Das System ist bereit für SeaTable!
 
@@ -50,7 +55,9 @@ Die Pakete docker.io und containerd sowie zahlreiche Python3 Bibliotheken gehör
 
 Das Docker Image von SeaTable Enterprise Edition befindet sich in einem Repository auf Docker Hub. Mit dem folgenden Befehl starten Sie den Download des SeaTable Images:
 
-`docker pull seatable/seatable-ee:latest`
+```
+docker pull seatable/seatable-ee:latest
+```
 
 Kommen wir zum einzigen etwas schwierigeren Thema bei der Einrichtung von SeaTable. Mit den erweiterten Erläuterungen wird aber auch dieser Schritt gut machbar.
 
@@ -62,10 +69,14 @@ Die Datei docker-compose.yml, um die es gleich gehen wird, ist das Rezept, das D
 
 Legen Sie zunächst in /opt das Verzeichnis seatable an. Im Verzeichnis /opt befindet sich seit der Installation von containerd bereits das gleichnamige Verzeichnis. Dann laden Sie die docker-compose.yml in dieses Verzeichnis runter und öffnen die Datei mit einem Texteditor. Das Code-Beispiel unten beschreibt das Vorgehen im Detail. Wir verwenden für die Bearbeitung der docker-compose.yml den Texteditor nano. Logischerweise geht aber auch vim oder jeder anderer Texteditor.
 
-`mkdir /opt/seatable   cd /opt/seatable   wget -O "docker-compose.yml" "https://manual.seatable.io/docker/Enterprise-Edition/docker-compose.yml"   nano docker-compose.yml`
+```
+mkdir /opt/seatable
+cd /opt/seatable
+wget -O "docker-compose.yml" "https://manual.seatable.io/docker/Enterprise-Edition/docker-compose.yml"
+nano docker-compose.yml
+```
 
-So sieht die YAML-Datei nach dem Download aus:  
-![docker-compose.yml file](SeaTable_dockercompose.png)
+So sieht die YAML-Datei nach dem Download aus:
 
 ![docker-compose.yml file](SeaTable_dockercompose.png)
 
@@ -87,7 +98,10 @@ Die Zeitzone können Sie auf Etc/UTC für Zentraleuropa belassen. Wenn Sie auße
 
 Nachdem die YAML-Datei auf Ihre Bedürfnisse angepasst wurde, wird nun im nächsten Schritt die Datenbank initialisiert. Dazu geben Sie folgende Befehle ein:
 
-`cd /opt/seatable   docker-compose up`
+```
+cd /opt/seatable
+docker-compose up
+```
 
 Durch den docker-compose Befehl wird das in der YAML-Datei enthaltene Rezept ausgeführt: Es werden mehrere Docker Images von Docker Hub heruntergeladen und extrahiert. Zunächst MariaDB, dann Memcached, darauf redis und abschließend SeaTable selbst – also in der in der docker-compose.yml vorgeschriebenen Reihenfolge. Nach dem Download startet der Datenbank-Container seatable-mysql. Sie können die Aktivitäten auf dem Bildschirm verfolgen (siehe unten). Wenn schließlich der seatable Container übernimmt und die Meldung “This is an idle script (infinite loop) to keep container running.” auf dem Bildschirm erscheint, dann können Sie mit der Tastenkombination CTRL + C den Prozess abbrechen.
 
@@ -97,7 +111,11 @@ Hat dies soweit geklappt? Dann sind Sie Ihrer eigenen, selbstgehosteten SeaTable
 
 Führen Sie die docker-compose.yml nochmals aus. Anders als im Schritt davor wird docker-compose nun aber im Hintergrund bzw. “detached” ausgeführt. Im Anschluss daran lässt sich auch der SeaTable Server im Docker Container seatable starten. Zum Abschluss muss nur noch ein Adminbenutzer angelegt werden. Ihr SeaTable Server ist dann für seine Aufgaben bereit!
 
-`docker-compose up -d   docker exec -d seatable /shared/seatable/scripts/seatable.sh start   docker exec -it seatable /shared/seatable/scripts/seatable.sh superuser`
+```
+docker-compose up -d
+docker exec -d seatable /shared/seatable/scripts/seatable.sh start
+docker exec -it seatable /shared/seatable/scripts/seatable.sh superuser
+```
 
 Nach dem letzten Befehl werden Sie aufgefordert, eine E-Mail-Adresse und ein Passwort zu vergeben. Bravo, Sie haben in Ihrem SeaTable on-premises System den ersten Benutzer angelegt.
 
@@ -107,7 +125,11 @@ Rufen Sie nun die URL auf, die Sie in der docker-compose.yml unter SEATABLE_SERV
 
 Wenn Sie in der docker-compose.yml für die Nutzung von Let’s Encrypt votiert haben, dann sollte Ihre Anfrage direkt auf https umgeleitet werden und somit die Kommunikation mit Ihrem Server verschlüsselt erfolgen. Wenn nicht, dann sollten Sie nun Ihr eigenes SSL-Zertifikat einfügen. Kopieren Sie das Zertifikat in den Ordner /opt/seatable/ssl/ und passen Sie die Konfiguration des Webservers nginx an. Ebenfalls müssen Sie in den Konfigurationsdateien ccnet.conf, dtable_web_seetings.py und der dtable_server_config.json die Adressen von http auf https umstellen. Danach müssen nginx, SeaTable und Memcached neu gestartet werden. Mit diesen drei Befehlen tun Sie dies:
 
-`docker exec -it seatable /shared/seatable/scripts/seatable.sh restart   docker restart seatable-memcached   docker exec -it seatable /usr/sbin/nginx -s reload`
+```
+docker exec -it seatable /shared/seatable/scripts/seatable.sh restart
+docker restart seatable-memcached
+docker exec -it seatable /usr/sbin/nginx -s reload
+```
 
 Mehr zur Integration eines eigenen SSL-Zertifikats finden Sie im [SeaTable Manual](https://manual.seatable.io/docker/Enterprise-Edition/Deploy%20SeaTable-EE%20with%20Docker/#ssltls).
 
@@ -121,7 +143,9 @@ Wenn Sie jedoch mehr als drei Benutzer in SeaTable anlegen wollen, dann wird sic
 
 Um die Lizenz zu aktivieren, speichern Sie die Lizenzdatei, eine TXT-Datei, im Ordner /opt/seatable/seatable-data/seatable und starten Sie SeaTable neu:
 
-`docker exec -d seatable /shared/seatable/scripts/seatable.sh restart`
+```
+docker exec -d seatable /shared/seatable/scripts/seatable.sh restart
+```
 
 Die zusätzlichen Benutzer stehen dann sofort zur Verfügung und werden in der Systemsteuerung angezeigt.
 
@@ -131,6 +155,8 @@ Falls bei der Installation irgendetwas schief gegangen ist, dann löschen Sie ei
 
 Wenn Sie das Passwort Ihres Administrators vergessen haben, dann führen Sie den Befehl
 
-`docker exec -it seatable /shared/seatable/scripts/seatable.sh superuser`
+```
+docker exec -it seatable /shared/seatable/scripts/seatable.sh superuser
+```
 
 einfach erneut aus. Der Befehl legt einen weiteren Benutzer mit Admin-Rechten an. Wenn der Befehl einen Fehler produziert, dann erlaubt Ihre SeaTable Lizenz die Anlage weiterer Benutzer nicht. (Dies gilt auch für den Testbetrieb mit maximal drei Nutzern.) In diesem Fall müssen Sie in der MySQL Datenbank einen Benutzer auf inaktiv setzen und dann den Befehl erneut ausführen.

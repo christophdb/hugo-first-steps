@@ -128,7 +128,7 @@ Die Preise des WordPress-Plugins Weglot.
 
 Aktuell nutzen wir das _Advanced_\-Abo von Weglot, welches bis zu 10 Sprachen und bis zu 1 Million Wörter erlaubt. Dafür zahlen wir 1.990 €, was uns aber, wie zuvor erwähnt, mindestens 18 Arbeitstage in den zwei Jahren eingespart hat. Wahrscheinlich ist die Zeitersparnis noch um ein Vielfaches höher. Die Abos lassen sich jederzeit auch innerhalb der Laufzeit upgraden und man erhält den Restwert des aktuellen Abos vollständig auf den Preis des höherwertigen Abos angerechnet. 
 
-In Kürze werden wir auf den *Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten.* 
+In Kürze werden wir auf den _Extended Plan_ wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren.Dieser Schritt wird mich nur zwei Mausklicks kosten.
 
 ### Mit dem Word-Count Tool können Sie Ihren eigenen Bedarf ermitteln
 
