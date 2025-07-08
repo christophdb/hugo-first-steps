@@ -171,7 +171,7 @@ Für mich sind die wichtigsten Argumente für den Einsatz von Weglot, die folgen
 - Weglot führt zu mehr Content, zusätzlichen und besseren Google-Rankings und am Ende zu mehr Traffic und einer größeren Reichweite.
 - Für Weglot spricht seine einfache Installation. In weniger als einer Minute hat man eine mehrsprachige Webseite.
 - Weglot verspricht Kompatibilität mit praktisch jedem WordPress-Theme und vielen Plugins, einschließlich WooCommerce, Yoast und Elementor. Auch bei uns gab es zu keinem Zeitpunkt irgendwelche Konflikte mit Plugins oder unserem Theme.
-- Weglot ist optimiert für mehrsprachiges SEO. Es fügt automatisch _hreflang-Tag-Attribute hinzu, erstellt vollständig dedizierte URLs für jede Sprache und indexiert Ihre übersetzten Seiten._
+- Weglot ist optimiert für mehrsprachiges SEO. Es fügt automatisch `hreflang`-Tag-Attribute hinzu, erstellt vollständig dedizierte URLs für jede Sprache und indexiert Ihre übersetzten Seiten.
 - Die Qualität der Übersetzung ist wirklich gut. Manuelle Nacharbeiten sind nur selten notwendig und diese können dann einfach über die Webseite von Weglot vorgenommen werden.
 - Weglot hat ein engagiertes Support-Team von mehr als zehn Personen mit ausgeprägter technischer Kompetenz bei der Übersetzung von Webanwendungen.
 

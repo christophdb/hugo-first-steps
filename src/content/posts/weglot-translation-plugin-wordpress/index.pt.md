@@ -127,7 +127,7 @@ Os preços do plugin WordPress Weglot.
 
 Actualmente utilizamos o _Advanced_\-Assinatura Weglot, que permite até 10 línguas e até 1 milhão de palavras. Pagamos 1.990 euros por isto, mas, como mencionado anteriormente, poupou-nos pelo menos 18 dias úteis ao longo dos dois anos. O tempo poupado é provavelmente muitas vezes mais. As subscrições podem ser actualizadas em qualquer altura durante o prazo e o valor residual da subscrição actual é creditado na totalidade ao preço da subscrição de valor mais elevado. 
 
-Num futuro próximo, estaremos a analisar o *Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten.* 
+Em breve mudaremos para o _Extended Plan_ para podermos traduzir mais artigos do blogue e, nessa altura, provavelmente também activaremos outra língua no seatable.io. Este passo só me vai custar dois cliques no rato.
 
 ### Com a ferramenta de contagem de palavras pode determinar as suas próprias necessidades
 
@@ -170,7 +170,7 @@ Para mim, os argumentos mais importantes para a utilização do Weglot são os s
 - Weglot leva a mais conteúdo, classificações adicionais e melhores no Google e, no final, mais tráfego e um alcance mais alargado.
 - O Weglot é fácil de instalar. Em menos de um minuto tem um website multilingue.
 - Weglot promete compatibilidade com praticamente todos os temas do WordPress e muitos plugins, incluindo WooCommerce, Yoast e Elementor. Também nunca tivemos quaisquer conflitos com plugins ou com o nosso tema.
-- Weglot está optimizado para SEO multilingue. Adiciona automaticamente _hreflang-Tag-Attribute hinzu, erstellt vollständig dedizierte URLs für jede Sprache und indexiert Ihre übersetzten Seiten._
+- O Weglot está optimizado para SEO multilingue. Adiciona automaticamente atributos de etiqueta `hreflang`, cria URLs totalmente dedicados para cada língua e indexa as suas páginas traduzidas.
 - A qualidade da tradução é realmente boa. Raramente é necessária uma reformulação manual e pode então ser feita facilmente através do website Weglot.
 - A Weglot tem uma equipa de apoio dedicada de mais de dez pessoas com fortes conhecimentos técnicos na tradução de aplicações web.
 
