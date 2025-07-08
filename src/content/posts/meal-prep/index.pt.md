@@ -96,9 +96,13 @@ Agora vem a parte mais trabalhosa do Meal Prep. Para preparar todos os alimentos
 
 ### 4\. Armazenar
 
-Para que os ingredientes preparados permaneçam frescos e saborosos por tempo suficiente, devem ser **armazenados separadamente**. Para Meal Prep, são indicadas, por exemplo, [caixas](<[https://www.chefkoch.de/vergleich/meal-prep-boxen/](https://www.chefkoch.de/vergleich/meal-prep-boxen/)>) com divisórias. Guarde os alimentos em recipientes herméticos de vidro ou plástico resistente. Armazene as refeições preferencialmente na geladeira ou congele.
+Para que os ingredientes preparados permaneçam frescos e saborosos por tempo suficiente, devem ser **armazenados separadamente**. Para Meal Prep, são indicadas, por exemplo, [caixas](https://www.chefkoch.de/vergleich/meal-prep-boxen/) com divisórias. Guarde os alimentos em recipientes herméticos de vidro ou plástico resistente. Armazene as refeições preferencialmente na geladeira ou congele.
 
-{{< warning headline="Armazenar em potes" text="Potes grandes com tampas de rosca ou encaixe são perfeitos para transportar sua comida. São indicados para armazenar alimentos secos como cereais ou arroz, mas também sopas ou molhos líquidos. A maioria dos potes pode ir ao micro-ondas, permitindo aquecer e consumir diretamente." />}}
+{{< warning headline="Armazenar em potes" >}}
+
+Potes grandes com tampas de rosca ou encaixe são perfeitos para transportar sua comida. São indicados para armazenar alimentos secos como cereais ou arroz, mas também sopas ou molhos líquidos. A maioria dos potes pode ir ao micro-ondas, permitindo aquecer e consumir diretamente.
+
+{{< /warning >}}
 
 ### 5\. Combinar
 
