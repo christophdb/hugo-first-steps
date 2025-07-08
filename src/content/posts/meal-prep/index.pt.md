@@ -1,5 +1,5 @@
 ---
-title: 'Meal Prep – gesund und günstig Essen vorkochen + Wochenplan'
+title: 'Preparação de refeições - preparação de refeições saudáveis e económicas + plano semanal'
 date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
@@ -9,125 +9,125 @@ seo:
     description:
 ---
 
-Mit wenig Zeit möglichst günstig und gesund essen – ein Trend aus den USA verspricht genau das. Denn im stressigen Alltag kommt eine **ausgewogene Ernährung** oft zu kurz. Stattdessen greifen wir zum Beispiel in den Mittagspausen häufig zu Fastfood oder ungesunden Snacks, um unseren Heißhunger zu stillen. In diesem Artikel erfahren Sie, was es mit **Meal Prep** auf sich hat, worauf Sie beim Meal Prepping achten sollten und wie Sie einen smarten [Meal Prep Wochenplan]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) erstellen können.
+Com pouco tempo, comer de forma barata e saudável – uma tendência dos EUA promete exatamente isso. Pois, no dia a dia corrido, uma **alimentação equilibrada** muitas vezes fica de lado. Em vez disso, por exemplo, nas pausas para o almoço, frequentemente recorremos a fast food ou lanches pouco saudáveis para saciar a fome. Neste artigo, você vai aprender o que é o **Meal Prep**, o que deve ser observado ao preparar as refeições e como criar um inteligente [plano semanal de Meal Prep]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan).
 
-## Was genau ist Meal Prep?
+## O que exatamente é Meal Prep?
 
-Meal Prep ist die Abkürzung für **Meal Preparation**, was im Deutschen so viel wie Essensvorbereitung bedeutet. Die Idee dahinter ist, dass Sie Ihre Lieblingsspeisen in größeren Mengen vorkochen, damit sie in den folgenden Tagen zum Verzehr bereitstehen und in wenigen Minuten aufgewärmt oder fertiggestellt werden können.
+Meal Prep é a abreviação de **Meal Preparation**, que em português significa preparo de refeições. A ideia é cozinhar suas comidas favoritas em grandes quantidades para que estejam prontas para consumo nos dias seguintes e possam ser aquecidas ou finalizadas em poucos minutos.
 
-![Bei Meal Prep wird zusammengestelltes Essen in Boxen oder Gläsern verstaut.](ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
+![No Meal Prep, a comida preparada é armazenada em potes ou recipientes.](ella-olsson-P4jRJYN33wE-unsplash-711x533.jpg)
 
-Aus wenigen Zutaten werden verschiedene Speisen gezaubert.
+Com poucos ingredientes, são criados pratos variados.
 
-{{< faq "Woher kommt der Meal Prep Trend?" >}}
+{{< faq "De onde vem a tendência do Meal Prep?" >}}
 
-Wie viele Food Trends kommt der Hype ums Meal Prepping aus den USA. Dort wurde Meal Prep vor allem von Fitness-Liebhabern genutzt, hat aber auch schnell Anwendung in allen Lebensbereichen gefunden.
+Como muitas tendências alimentares, o hype do Meal Prep vem dos EUA. Lá, o Meal Prep foi inicialmente usado por amantes de fitness, mas rapidamente se espalhou para todas as áreas da vida.
 {{< /faq >}}
 
-{{< faq "Für wen ist Meal Prep geeignet?" >}}
+{{< faq "Para quem o Meal Prep é indicado?" >}}
 
-Besonders für Menschen, die in ihrem Alltag nicht die Zeit für ein selbstgekochtes Essen finden, lohnt es sich, Meal Prep auszuprobieren. Es hilft auch, Ernährungsvorsätze einzuhalten und die Selbstdisziplin zu stärken. Natürlich braucht es etwas Überwindung und genug Motivation, um sich an die neue Art des Kochens heranzutrauen, im Endeffekt kann es die Ernährung aber effizienter, gesünder und günstiger machen.
+Especialmente para pessoas que não têm tempo para cozinhar refeições caseiras no dia a dia, vale a pena experimentar o Meal Prep. Ele também ajuda a manter resoluções alimentares e a fortalecer a autodisciplina. Claro que é preciso um pouco de coragem e motivação para se adaptar a essa nova forma de cozinhar, mas no final das contas pode tornar a alimentação mais eficiente, saudável e econômica.
 {{< /faq >}}
 
-{{< faq "Für wie viele Tage kann man Gerichte vorkochen?" >}}
+{{< faq "Para quantos dias é possível cozinhar antecipadamente?" >}}
 
-Es gibt zwei Möglichkeiten, wie Sie Meal Prep betreiben können. Entweder Sie kochen die **doppelte Menge**, sodass das Essen für den nächsten Tag reicht, oder Sie gehen einen Schritt weiter, nehmen sich Zeit zum **Vorkochen der einzelnen Zutaten** und können diese dann an den folgenden Tagen nach Belieben kombinieren.
+Existem duas formas de fazer Meal Prep. Ou você cozinha a **quantidade dobrada**, para que a comida dure até o dia seguinte, ou vai além, dedicando tempo para **pré-cozinhar os ingredientes separadamente** e pode combiná-los como quiser nos dias seguintes.
 {{< /faq >}}
 
-## Vor- und Nachteile von Meal Prep
+## Vantagens e desvantagens do Meal Prep
 
-Meal Prep hat einige unschlagbare Vorteile – sowohl gegenüber dem täglichen Kochen frischer Gerichte als auch gegenüber Fertiggerichten aus dem Supermarkt oder vom Take-away-Restaurant.
+O Meal Prep tem algumas vantagens imbatíveis – tanto em comparação ao cozimento diário de pratos frescos quanto a pratos prontos do supermercado ou de delivery.
 
-### Die Vorteile:
+### Vantagens:
 
-- **Spart Zeit:** Sie müssen nicht jeden Abend stundenlang in der Küche stehen, sondern können Ihre Mahlzeiten für mehrere Tage zubereiten und in verschiedenen Varianten kombinieren.
-- **Spart Geld:** Fertiggerichte sind meist teurer als selbst zu kochen und im Verhältnis kosten größere Mengen an Lebensmitteln weniger als kleine Packungen.
-- **Für Sie maßgeschneidert:** Selbstgekochte Gerichte können Sie im Gegensatz zu Fertiggerichten an Ihre eigenen Bedürfnisse und Vorlieben anpassen und nach Belieben verfeinern.
-- **Fördert gesunde Ernährung:** Selbstgekochte Gerichte enthalten oft weniger Zucker, Fett und Salz – Sie wissen, was Sie zu sich nehmen, und können die Rezepte an Ihre Ernährungsziele anpassen.
-- **Gegen Lebensmittelverschwendung:** Sie können angebrochene Packungen und verdorbene Zutaten vermeiden, indem Sie frische Lebensmittel in der passenden Menge kaufen und direkt vollständig verwerten.
+- **Economiza tempo:** Você não precisa passar horas na cozinha toda noite, pode preparar refeições para vários dias e combiná-las de formas diferentes.
+- **Economiza dinheiro:** Pratos prontos geralmente são mais caros que cozinhar em casa e, proporcionalmente, comprar grandes quantidades de alimentos sai mais barato que embalagens pequenas.
+- **Personalizado para você:** Pratos caseiros podem ser ajustados conforme suas necessidades e preferências e aprimorados ao seu gosto.
+- **Estimula alimentação saudável:** Pratos caseiros costumam conter menos açúcar, gordura e sal – você sabe o que está consumindo e pode adaptar as receitas aos seus objetivos nutricionais.
+- **Combate o desperdício de alimentos:** Você evita embalagens abertas e ingredientes estragados comprando a quantidade certa e aproveitando tudo.
 
-![Bei Meal Prep sollen nur die Lebensmittel gekauft werden, die Sie auch wirklich brauchen.](maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
+![No Meal Prep, devem ser comprados apenas os alimentos realmente necessários.](maria-lin-kim-8RaUEd8zD-U-unsplash-scaled-e1700488797696-711x643.jpg)
 
-Bei einem gezielten Einkauf sparen Sie Geld und Zeit, weil Sie nur die Lebensmittel kaufen, die Sie wirklich brauchen.
+Compras direcionadas economizam dinheiro e tempo, pois você compra só o que realmente precisa.
 
-Das klingt zu schön, um wahr zu sein? Wie viele Essenstrends kann natürlich auch Meal Prep nicht alle Probleme lösen. Neben den offensichtlichen Vorteilen gibt es auch negative Punkte, welche Sie beachten sollten, bevor Sie sich dem Thema Meal Prep annehmen.
+Parece bom demais para ser verdade? Como muitas tendências alimentares, o Meal Prep também não resolve todos os problemas. Além das vantagens óbvias, há pontos negativos que você deve considerar antes de se dedicar ao tema.
 
-### Die Nachteile:
+### Desvantagens:
 
-- **Eingeschränkte Haltbarkeit:** Manche Lebensmittel und Gerichte (z. B. Salate) sind nicht für lange Lagerungen geeignet, da sie schnell schlecht werden, ihre Konsistenz oder ihren Geschmack verlieren.
-- **Macht unflexibel:** Ein spontanes Essen im Restaurant kann Ihren Essensplan durcheinanderbringen. Im schlimmsten Fall müssen Sie verdorbene Lebensmittel oder vorgekochte Portionen wegwerfen.
-- **Eintönigkeit:** Selbst auf Lieblingsgerichte hat man nicht immer Lust, wenn man Sie den dritten Tag in Folge isst. Unten erfahren Sie aber, wie Sie Abwechslung in Ihr vorgekochtes Essen bringen können.
-- **Lagerung kostet:** Wer für mehrere Tage vorkocht, braucht genügend Platz in seinem Kühlschrank oder Gefrierfach und zudem die richtigen Aufbewahrungsmittel.
+- **Validade limitada:** Alguns alimentos e pratos (ex.: saladas) não são adequados para armazenamento prolongado, pois estragam rápido ou perdem textura e sabor.
+- **Torna inflexível:** Uma refeição espontânea no restaurante pode bagunçar seu plano alimentar. No pior caso, você terá que descartar alimentos estragados ou porções pré-cozidas.
+- **Monotonia:** Mesmo pratos favoritos cansam se consumidos pelo terceiro dia consecutivo. Mais abaixo você verá como variar suas refeições pré-cozidas.
+- **Armazenamento custa espaço:** Quem cozinha para vários dias precisa de espaço suficiente na geladeira ou freezer e dos recipientes adequados.
 
-![Ihre Mahlzeiten können einseitig werden, wenn Sie nur wenige Zutaten verwenden.](pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
+![Suas refeições podem ficar monótonas se usar poucos ingredientes.](pexels-keegan-evans-90893-e1700488975339-711x539.jpg)
 
-Seien Sie kreativ und sorgen Sie für möglichst abwechslungsreiche Gerichte.
+Seja criativo e garanta pratos o mais variados possível.
 
-## Schritt für Schritt zum perfekten Meal Prep
+## Passo a passo para o Meal Prep perfeito
 
-Damit die Mission Meal Prep ein Erfolg wird, benötigen Sie zunächst einen [Essensplan]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Die folgenden **fünf Schritte** helfen Ihnen beim Ablauf.
+Para que a missão Meal Prep seja um sucesso, você precisa primeiro de um [plano alimentar]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan). Os seguintes **cinco passos** ajudam no processo.
 
-![So gelingt Ihr Meal Prep in fünf einfachen Schritten.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
+![Seu Meal Prep dá certo em cinco passos simples.](Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683-711x868.jpg)
 
-Mit der richtigen Planung gelingt Meal Prep auch ungeübten Köchen.
+Com o planejamento certo, o Meal Prep também funciona para cozinheiros iniciantes.
 
-### 1\. Vorbereiten
+### 1\. Preparar
 
-Stellen Sie sich zunächst die Frage, für wie viele Tage Sie vorkochen möchten. Für Meal Prep Beginner bietet es sich an, erstmal für zwei oder drei Tage zu kochen, um sich an den Aufwand zu gewöhnen und langsam eine Routine zu entwickeln. Suchen Sie nach passenden **Meal Prep Rezepten**. Diese sollten Nahrungsmittel enthalten, welche Sie gerne essen. Außerdem ist die Zusammensetzung Ihres Gerichts wichtig. Für eine ausgewogene Ernährung sollten Ihre Mahlzeiten Folgendes enthalten:
+Primeiro, pergunte-se para quantos dias deseja cozinhar antecipadamente. Para iniciantes, é recomendável começar preparando para dois ou três dias, para se acostumar com o esforço e desenvolver uma rotina. Procure por **receitas de Meal Prep** adequadas. Elas devem conter alimentos que você gosta de comer. Além disso, a composição do prato é importante. Para uma alimentação equilibrada, suas refeições devem conter:
 
-- **Proteine:** Gute Quellen sind Fleisch, Fisch und Milchprodukte, aber auch Tofu und Hülsenfrüchte.
-- **Gemüse:** Am besten frisch und saisonal, aber auch tiefgekühlt enthält es viele Vitamine und Nährstoffe.
-- **Kohlenhydrate:** Dafür eignen sich vor allem Kartoffeln, Reis und Nudeln.
-- **Fette:** Pflanzliche Fette wie Olivenöl enthalten mehr ungesättigte Fettsäuren und sind daher gesünder als tierische Fette.
+- **Proteínas:** Boas fontes são carnes, peixes e laticínios, mas também tofu e leguminosas.
+- **Legumes:** De preferência frescos e sazonais, mas congelados também têm muitas vitaminas e nutrientes.
+- **Carboidratos:** Batatas, arroz e massas são os mais indicados.
+- **Gorduras:** Gorduras vegetais como azeite contêm mais ácidos graxos insaturados e são mais saudáveis que gorduras animais.
 
-### 2\. Einkaufen
+### 2\. Comprar
 
-Die Rezepte sind ausgewählt, jetzt fehlen Ihnen noch die **Zutaten**. Listen Sie auf, was Sie in welchen **Mengen** brauchen, damit Sie während Ihres Einkaufs den Überblick behalten. Außerdem hilft Ihnen eine [Einkaufsliste]({{< relref "templates/everyday-life/shopping-list" >}}) dabei, nur die Lebensmittel zu kaufen, welche Sie für Ihre Mahlzeiten wirklich benötigen. Achten Sie darauf, frische und leicht verderbliche Ware erst dann zu kaufen, wenn Sie sie sofort weiterverarbeiten können.
+Com as receitas escolhidas, agora faltam os **ingredientes**. Faça uma lista do que precisa e em quais **quantidades**, para manter o controle durante as compras. Além disso, uma [lista de compras]({{< relref "templates/everyday-life/shopping-list" >}}) ajuda a comprar só os alimentos realmente necessários para suas refeições. Compre produtos frescos e perecíveis apenas quando for usá-los imediatamente.
 
-![Um Ihren Einkauf ohne mehr Ausgaben durchzuziehen, hilft Ihnen eine Einkaufsliste](torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
+![Uma lista ajuda a organizar suas compras sem gastar mais.](torbjorn-helgesen-C4FbCe4L_pw-unsplash-min-scaled-e1700558555269-711x779.jpg)
 
-Eine Liste hilft Ihnen, Ihre Einkäufe zu überblicken.
+Uma lista ajuda a ter controle das compras.
 
-### 3\. Zubereiten
+### 3\. Preparar
 
-Nun folgt der aufwändigste Part des Meal Prep. Um alle Ihre Lebensmittel zuzubereiten, nehmen Sie sich **genügend Zeit**, am besten zwei bis drei Stunden an einem Tag Ihrer Wahl. Braten, kochen, dünsten oder backen Sie die Zutaten getrennt, da sie **unterschiedliche Garpunkte** haben und sonst zum matschigen Einheitsbrei werden. Neben den Hauptmahlzeiten können Sie zusätzlich **kleine Snacks** für zwischendurch vorbereiten. Das könnten zum Beispiel selbstgemachte Müsliriegel sein.
+Agora vem a parte mais trabalhosa do Meal Prep. Para preparar todos os alimentos, reserve **tempo suficiente**, idealmente duas a três horas em um dia de sua escolha. Frite, cozinhe, cozinhe no vapor ou asse os ingredientes separadamente, pois eles têm **tempos de cozimento diferentes** e, caso contrário, viram uma mistura mole. Além das refeições principais, você pode preparar **lanches pequenos** para o meio do dia, como barras de cereal caseiras.
 
-{{< warning headline="Wundermittel Gewürze" text="Die richtigen Gewürze verleihen Ihren Gerichten den letzten Schliff. Mit unterschiedlichen Gewürzmischungen schmeckt dasselbe Gericht jedes Mal anders und verlockt zum Erforschen neuer Geschmackswelten." />}}
+{{< warning headline="O poder dos temperos" text="Os temperos certos dão o toque final aos seus pratos. Com diferentes combinações de temperos, o mesmo prato pode ter sabores variados e estimular a descoberta de novos gostos." />}}
 
-### 4\. Lagern
+### 4\. Armazenar
 
-Damit die vorbereiteten Zutaten lange genug frisch bleiben und ihren Geschmack behalten, sollten Sie diese **getrennt aufbewahren**. Für Meal Prep eignen sich zum Beispiel spezielle [Boxen](https://www.chefkoch.de/vergleich/meal-prep-boxen/) mit Trennwänden. Die Lebensmittel sollten Sie in luftdicht verschließbaren Behältern aus Glas oder robustem Plastik aufbewahren. Lagern Sie die vorbereiteten Gerichte bevorzugt im Kühlschrank oder frieren Sie sie ein.
+Para que os ingredientes preparados permaneçam frescos e saborosos por tempo suficiente, devem ser **armazenados separadamente**. Para Meal Prep, são indicadas, por exemplo, [caixas](<[https://www.chefkoch.de/vergleich/meal-prep-boxen/](https://www.chefkoch.de/vergleich/meal-prep-boxen/)>) com divisórias. Guarde os alimentos em recipientes herméticos de vidro ou plástico resistente. Armazene as refeições preferencialmente na geladeira ou congele.
 
-{{< warning headline="In Gläser abfüllen" text="Große Gläser mit Schraub- oder Schnappverschluss eignen sich perfekt, um Ihr Essen zu transportieren. Sie bieten sich zum Aufbewahren trockener Lebensmittel wie Müsli oder Reis an, aber auch für flüssige Suppen oder Soßen. Die meisten Gläser sind mikrowellengeeignet, sodass Sie Ihre Speisen direkt erwärmen und verzehren können." />}}
+{{< warning headline="Armazenar em potes" text="Potes grandes com tampas de rosca ou encaixe são perfeitos para transportar sua comida. São indicados para armazenar alimentos secos como cereais ou arroz, mas também sopas ou molhos líquidos. A maioria dos potes pode ir ao micro-ondas, permitindo aquecer e consumir diretamente." />}}
 
-### 5\. Kombinieren
+### 5\. Combinar
 
-Der letzte Schritt des Meal Prep ist der leichteste. Nehmen Sie die vorbereiteten Komponenten aus dem Kühlschrank und stellen Sie nach Belieben ein Gericht zusammen. **Verschiedene Kombinationen** sorgen dabei für geschmackliche Abwechslung. Verpacken Sie Ihre Kreation sicher für den Transport oder erhitzen und genießen Sie direkt Ihr gesundes und leckeres selbstgekochtes Essen!
+O último passo do Meal Prep é o mais fácil. Tire os componentes preparados da geladeira e monte o prato conforme desejar. **Combinações variadas** garantem diversidade de sabores. Embale sua criação com segurança para transporte ou aqueça e aproveite sua comida caseira, saudável e deliciosa!
 
-{{< warning headline="Die Mischung macht's" text="Für eine ausgewogene Ernährung sollten Sie auf die Nährwerte in Ihrem Essen achten. Empfohlen wird eine Zusammensetzung aus 50 bis 60 Prozent Kohlenhydraten, 15 bis 25 Prozent Eiweiß und 20 bis 30 Prozent Fett." />}}
+{{< warning headline="A combinação faz a diferença" text="Para uma alimentação equilibrada, preste atenção aos valores nutricionais da sua comida. Recomenda-se uma composição de 50 a 60% de carboidratos, 15 a 25% de proteínas e 20 a 30% de gorduras." />}}
 
-## Beispiel für einen Meal Prep Wochenplan
+## Exemplo de plano semanal de Meal Prep
 
-Ein Beispiel für einen **Essensplan** soll die Funktionsweise von Meal Prep noch einmal illustrieren: Sie haben sich für eine Woche vier Gerichte ausgesucht, die alle Gemüse, Kartoffeln und/oder Reis enthalten. Das **Ofengemüse** bildet die Grundlage für alle Gerichte und könnte beispielsweise aus Paprika, Zucchini, Karotten, Kichererbsen, Zwiebeln und Pilzen bestehen.
+Um exemplo de **plano alimentar** ilustra o funcionamento do Meal Prep: você escolheu quatro pratos para a semana, todos contendo legumes, batatas e/ou arroz. O **legume assado no forno** é a base para todos os pratos e pode incluir pimentão, abobrinha, cenoura, grão-de-bico, cebola e cogumelos.
 
-![Meal Prep mit Ofengemüse](markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
+![Legumes assados no forno](markus-spiske-jTsGVi6uEZ0-unsplash-min.jpg)
 
-Ofengemüse eignet sich hervorragend als Basis für verschiedene Gerichte.
+Legumes assados são uma ótima base para pratos variados.
 
-Am **Sonntagabend** nehmen Sie sich also circa zwei Stunden Zeit, um das Gemüse zu waschen, zu schneiden und in einer großen Auflaufform zu backen, während Sie separat die Kartoffeln und den Reis kochen. Lassen Sie die Komponenten abkühlen und füllen Sie alles in saubere Boxen oder Gläser. Aus den vorbereiteten Zutaten können Sie anschließend folgende Gerichte kombinieren:
+No **domingo à noite**, reserve cerca de duas horas para lavar, cortar e assar os legumes em uma assadeira grande, enquanto cozinha as batatas e o arroz separadamente. Deixe os componentes esfriarem e coloque tudo em potes ou recipientes limpos. Com os ingredientes preparados, você pode montar os seguintes pratos:
 
-- **Montag:** Ofengemüse mit Kartoffeln (+ Tomatensoße und Kräuter der Provence)
-- **Dienstag:** Chop Suey mit Reis (+ asiatische Gewürze wie Ingwer und Sojasoße)
-- **Mittwoch:** Ratatouille mit Kartoffeln (+ Kraftbrühe und Muskat)
-- **Donnerstag:** Gemüse-Curry mit Reis (+ Kokosmilch und Currypulver)
-- **Freitag:** Überbackenes Gemüse (alle Reste + Käse)
+- **Segunda:** legumes assados com batatas (+ molho de tomate e ervas da Provence)
+- **Terça:** Chop Suey com arroz (+ temperos asiáticos como gengibre e molho de soja)
+- **Quarta:** Ratatouille com batatas (+ caldo de carne e noz-moscada)
+- **Quinta:** curry de legumes com arroz (+ leite de coco e curry em pó)
+- **Sexta:** legumes gratinados (todos os restos + queijo)
 
-Durch die verschiedenen Gewürze verleihen Sie dem Gemüse an jedem Tag einen anderen Geschmack. Nach Ihrem eigenen Gusto können Sie die Gerichte natürlich mit Fleisch und weiteren Zutaten ergänzen.
+Com os diferentes temperos, você dá um sabor diferente aos legumes a cada dia. Claro que pode complementar os pratos com carne e outros ingredientes conforme seu gosto.
 
-## Vorlage für Ihren Meal Prep Wochenplan
+## Modelo para seu plano semanal de Meal Prep
 
-Damit Sie Ihre Lieblingsrezepte immer griffbereit haben, können Sie eine Liste mit allen Meal Prep Gerichten anlegen und festhalten, auf welchen Webseiten Sie welches Gericht gefunden haben. Die [kostenlose Vorlage von SeaTable]({{< relref "templates/healthcare/recipes-meal-plan" >}}) eignet sich bestens, um Ihre Meal Prep Rezepte übersichtlich zu ordnen.
+Para ter suas receitas favoritas sempre à mão, você pode criar uma lista com todos os pratos de Meal Prep e registrar em quais sites encontrou cada receita. O [modelo gratuito do SeaTable]({{< relref "templates/healthcare/recipes-meal-plan" >}}) é ideal para organizar suas receitas de Meal Prep de forma clara.
 
-Tragen Sie einfach den Tag ein, an dem Sie ein Gericht das nächste Mal kochen wollen, und erstellen Sie sich im Kalender immer wieder neue **Meal Prep Wochenpläne**. Laden Sie Fotos hoch und lassen Sie sich Woche für Woche von Ihrer Galerie an möglichen Gerichten inspirieren. In zwei weiteren Tabellen können Sie alle Zutaten in einer **Einkaufsliste** erfassen und die **Nährwerte** Ihrer Lieblingsgerichte vergleichen.
+Basta inserir o dia em que pretende cozinhar cada prato e criar novos **planos semanais de Meal Prep** no calendário. Faça upload de fotos e deixe sua galeria inspirar você semana após semana com possíveis pratos. Em outras duas tabelas, você pode registrar todos os ingredientes em uma **lista de compras** e comparar os **valores nutricionais** dos seus pratos favoritos.
 
-Wenn Sie SeaTable für Ihren Meal Prep Wochenplan nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/healthcare/recipes-meal-plan" >}}). Löschen Sie die Beispielrezepte und passen Sie den Essensplan nach Belieben an Ihre Bedürfnisse an.
+Se quiser usar o SeaTable para seu plano semanal de Meal Prep, [registre-se]({{< relref "pages/registration" >}}) gratuitamente. O modelo correspondente está disponível [aqui]({{< relref "templates/healthcare/recipes-meal-plan" >}}).

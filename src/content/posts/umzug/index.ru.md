@@ -1,5 +1,5 @@
 ---
-title: 'Umzug planen mit Checkliste: Wie Sie stressfrei umziehen'
+title: 'Планирование переезда с помощью контрольного списка: Как переехать без стресса'
 date: 2023-10-30
 lastmod: '2023-10-30'
 author: 'lsc'
@@ -9,164 +9,164 @@ seo:
     description:
 ---
 
-Endlich ist es so weit! Sie haben die perfekte Wohnung für sich gefunden und können es kaum erwarten, in Ihr neues Heim einzuziehen. Das Einzige, was Sie jetzt noch von Ihrer Traumwohnung trennt, ist der Umzug. Was für die meisten Menschen viel Stress und Zeitaufwand bedeutet, können Sie sich mit einem strukturierten **Umzugsplan** leichtmachen. Wie Sie Ihren Umzug möglichst stressfrei planen und erfolgreich über die Bühne bringen, erfahren Sie hier.
+Наконец-то этот момент настал! Вы нашли идеальную квартиру и не можете дождаться, когда переедете в новый дом. Единственное, что теперь отделяет вас от квартиры мечты, — это сам переезд. То, что для большинства людей связано со стрессом и большими затратами времени, можно значительно упростить с помощью структурированного **плана переезда**. Как спланировать переезд максимально без стресса и успешно его провести, вы узнаете здесь.
 
-## Eine Checkliste erstellen
+## Составьте чек-лист
 
-Beginnen Sie Ihre Umzugsplanung mit einem Brainstorming. Welche Aufgaben muss ich erledigen? Wer kann mir dabei helfen? Wie viel Budget kann ich ausgeben? Stellen Sie danach eine Kostenübersicht auf, um Ihre Ausgaben einzuschätzen. In einer Checkliste können Sie erste Aufgaben definieren und abarbeiten.
+Начните планирование переезда с мозгового штурма. Какие задачи нужно выполнить? Кто может мне помочь? Какой бюджет я могу выделить? Затем составьте обзор расходов, чтобы оценить свои траты. В чек-листе вы можете определить и поэтапно выполнять первые задачи.
 
-![Checkliste mit den wichtigsten Aufgaben für Ihren Umzug.](Green-And-Yellow-Simple-Checklist--711x1006.jpg)
+![Чек-лист с основными задачами для вашего переезда.](Green-And-Yellow-Simple-Checklist--711x1006.jpg)
 
-Eine Checkliste kann helfen, alle Aufgaben im Blick zu behalten.
+Чек-лист поможет держать все задачи под контролем.
 
-Eine Checkliste für Ihren Umzug finden Sie auch in unserer [Vorlage]({{< relref "posts/umzug" >}}).
+Чек-лист для вашего переезда вы найдете также в нашем [шаблоне]({{< relref "posts/umzug" >}}).
 
-## Vor dem Umzug
+## До переезда
 
-Der neue Mietvertrag ist unterschrieben und der Auszug aus Ihrer alten Wohnung besiegelt. Jetzt ist es an der Zeit, Ihren alten Mietvertrag zu kündigen. Die **Kündigung** muss fristgerecht und schriftlich erfolgen; meist gilt eine Frist von drei Monaten. Sollten Sie jedoch früher als im Vertrag vereinbart aus dem Mietverhältnis austreten wollen, sollten Sie vorher mit Ihrem Vermieter sprechen. Denn es kann sein, dass Sie in diesem Fall für die Suche des Nachmieters selbst verantwortlich sind.
+Новый договор аренды подписан, и вы уже решили съехать из старой квартиры. Теперь пора расторгнуть старый договор. **Расторжение** должно быть своевременным и письменным; обычно действует срок уведомления в три месяца. Если вы хотите съехать раньше, чем предусмотрено договором, обсудите это с арендодателем — возможно, вам придется самостоятельно искать нового жильца.
 
-Kurz nach Ihrem Umzug sollten Sie den Termin zur **Wohnungs- und Schlüsselübergabe** ansetzen. Dafür müssen Sie die Wohnung wie im Mietvertrag vereinbart zurücklassen. Dazu zählen meist Schönheitsreparaturen und die Wohnung besenrein zu säubern.
+Вскоре после переезда назначьте дату **передачи квартиры и ключей**. Для этого квартиру нужно оставить в состоянии, оговоренном в договоре: обычно это косметический ремонт и уборка «под метлу».
 
-![Mit der Schlüsselübergabe Ihrer alten Wohnung setzt sich Ihr Umzugsplan in Gang.](pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
+![Передача ключей от старой квартиры запускает ваш план переезда.](pexels-pavel-danilyuk-7937958-scaled-e1698068463292-711x641.jpg)
 
-Mit der Schlüsselübergabe schließen Sie mit Ihrer alten Wohnung ab.
+Передача ключей — финальный шаг со старой квартирой.
 
-Nach der Übergabe erhalten Sie Ihre Kaution zurück und können sich ganz auf die Einrichtung Ihres neuen Heims konzentrieren.
+После передачи вы получаете обратно залог и можете полностью сосредоточиться на обустройстве нового жилья.
 
-## Sonderurlaub für Ihren Umzug
+## Отпуск для переезда
 
-Mit einer sorgfältigen Planung der Übergaben ist der erste Schritt Ihres Umzugs geschafft. Doch das anschließende Aus- und Einräumen der Wohnungen kostet viel Kraft und Zeit. Daher kann es sinnvoll sein, sich für einen größeren Umzug ein bis zwei Tage Urlaub zu nehmen. Wenn Sie zu diesem Zweck eine **Freistellung** von Ihrer Arbeit haben möchten, stellen Sie sich zunächst folgende Fragen:
+С тщательным планированием передач первый этап переезда завершён. Но последующая разборка и сборка вещей требует много сил и времени. Поэтому для крупного переезда имеет смысл взять один-два дня отпуска. Если вы хотите получить **освобождение от работы** по такому поводу, сначала ответьте себе на следующие вопросы:
 
-### Anspruch auf Sonderurlaub
+### Право на дополнительный отпуск
 
-{{< faq "Habe ich ein Anrecht auf gesetzlichen Sonderurlaub?" >}}
+{{< faq "Имею ли я право на дополнительный отпуск по закону?" >}}
 
-Zunächst die schlechte Nachricht: In Deutschland gibt es laut Bundesurlaubsgesetz und Bürgerlichem Gesetzbuch **keinen gesetzlichen Anspruch auf Urlaub** bei einem Umzug.
+Плохая новость: в Германии согласно Федеральному закону об отпусках и Гражданскому кодексу **нет законного права на отпуск** при переезде.
 {{< /faq >}}
 
-{{< faq "Was steht in meinem Arbeitsvertrag?" >}}
+{{< faq "Что написано в моём трудовом договоре?" >}}
 
-Zwar gibt es keinen generellen Anspruch auf Sonderurlaub, jedoch kann Ihr Arbeitgeber diesen natürlich trotzdem gewähren. Werfen Sie zur Vergewisserung einen Blick in Ihren Arbeitsvertrag oder fragen Sie beim Betriebsrat oder einem Vorgesetzten nach, ob Ihnen Sonderurlaub zusteht.
+Хотя общего права на дополнительный отпуск нет, работодатель может его предоставить. Проверьте свой трудовой договор или спросите в профсоюзе или у начальства, положен ли вам такой отпуск.
 {{< /faq >}}
 
-{{< faq "Was ist, wenn ich aus beruflichen Gründen umziehe?" >}}
+{{< faq "Что если переезд связан с работой?" >}}
 
-In diesem Fall haben Sie gute Chancen, dass Sie eine bezahlte Freistellung gewährt bekommen, auch wenn dies nicht in Ihrem Arbeitsvertrag aufgeführt ist. Unterschieden wird, ob Sie den Arbeitgeber wechseln oder lediglich den Arbeitsort. Bei Ersterem müssen Sie auf die Kulanz Ihres neuen Arbeitgebers hoffen. Ziehen Sie hingegen bei ein und demselben Arbeitgeber um, ist es möglich, eine bezahlte Freistellung zu beantragen.
+В таком случае у вас есть хорошие шансы получить оплачиваемый отпуск, даже если это не указано в договоре. Различают смену работодателя и смену места работы. В первом случае всё зависит от лояльности нового работодателя. Если вы переезжаете внутри одной компании, можно подать заявку на оплачиваемое освобождение.
 {{< /faq >}}
 
-### Berufliche Gründe für den Umzug
+### Причины для служебного переезда
 
-{{< faq "Welche Gründe machen einen Umzug 'beruflich bedingt'?" >}}
+{{< faq "Какие причины считаются служебным переездом?" >}}
 
-Neben den bereits erwähnten Gründen _Arbeitsplatz- oder Arbeitgeberwechsel_ gibt es noch weitere Möglichkeiten, Ihren Umzug als beruflich bedingt geltend zu machen. Diese sind der Antritt Ihres ersten Jobs, der Umzug aus einer oder in eine Dienstwohnung, die Rückkehr aus dem Ausland zum Antritt einer neuen Stelle in Deutschland und die Verkürzung des Arbeitsweges um mindestens eine halbe Stunde täglich.
+Помимо уже упомянутых _смены работы или работодателя_, к служебным причинам относятся: первая работа, переезд из служебной или в служебную квартиру, возвращение из-за границы для новой работы в Германии и сокращение пути на работу минимум на полчаса в день.
 {{< /faq >}}
 
-{{< faq "Gibt es andere Regelungen, wenn ich im öffentlichen Dienst arbeite?" >}}
+{{< faq "Есть ли другие правила для госслужащих?" >}}
 
-Ja, denn als Beamter oder Angestellter im öffentlichen Dienst erhalten Sie gemäß Paragraph 29 der Tarifverordnung einen Tag bezahlten Urlaub für einen Umzug aus dienstlichen Gründen. Mussten Sie in den vergangenen fünf Jahren aus betrieblichen Gründen schon einmal umziehen, haben Sie sogar Anspruch auf drei freie Tage.
+Да, для государственных служащих и работников по тарифу предусмотрен один оплачиваемый день отпуска при служебном переезде (параграф 29 тарифного соглашения). Если за последние пять лет вы уже переезжали по служебным причинам, вам положено три дня.
 {{< /faq >}}
 
-## Den Umzug organisieren
+## Организация переезда
 
-Steht der Tag des Umzugs fest, steht Ihnen im nächsten Schritt die Planung bevor. Dabei gibt es für Sie grundsätzlich zwei Möglichkeiten: ein Umzug mit einer Umzugsfirma oder ein Umzug in Eigenregie. Welche der beiden Varianten zu Ihnen passt, ist abhängig von Ihrem Budget, der Größe Ihres Haushalts und Ihrer Stressresistenz.
+Когда дата переезда определена, наступает этап планирования. Есть два варианта: переезд с помощью компании или самостоятельно. Что выбрать — зависит от бюджета, объёма вещей и вашей стрессоустойчивости.
 
-### Das Komplettpaket: Umzugsfirma beauftragen
+### Полный сервис: нанять компанию
 
-Mit einer **Umzugsfirma** ersparen Sie sich viel Zeit und Nerven. Denn alles, was Sie sonst selbst organisieren müssten, wird hier übernommen. Besonders wenn Sie mit mehreren Menschen umziehen oder unter Zeitdruck stehen, geht der Umzug so schnell und komfortabel über die Bühne. Klar ist aber auch: Wer möglichst wenig Eigenaufwand haben möchte, muss tief in die Tasche greifen. Wie viel genau Sie einrechnen müssen, ist individuell und sollte mit der Umzugsfirma im Detail besprochen werden. Grob kann man aber sagen, dass die Kosten mit der Entfernung des Umzugs und der Größe der Wohnung zusammenhängen. Als Orientierung dient Ihnen diese durchschnittliche Berechnung:
+С **переездной компанией** вы экономите много времени и нервов. Всё, что пришлось бы организовывать самому, здесь делают за вас. Особенно если переезжаете с семьёй или в сжатые сроки, это быстро и удобно. Но за минимальные собственные усилия придётся заплатить больше. Стоимость зависит от расстояния и размера квартиры, детали лучше обсудить с компанией. В среднем расходы рассчитываются так:
 
-![So viel Kostet Ihr Umzug, je nachdem wie groß Ihr Haushalt ist.](Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
+![Стоимость переезда зависит от размера хозяйства.](Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-711x533.png)
 
-Die Kosten Ihres Umzugs hängen von der Haushaltsgröße und Entfernung der Wohnungen ab.
+Стоимость зависит от объёма вещей и расстояния между квартирами.
 
-Für Ihr Geld kriegen Sie dann aber einen **Komplettservice**. Dazu gehört auch, dass das Unternehmen während Ihres Umzugs für alle eventuellen Schäden an Ihrem Besitz, der Wohnung oder dem Treppenhaus haftet. Das Gesetz sieht vor, dass 620 Euro pro Kubikmeter Transportgut für den Schadensfall veranschlagt werden. Sollten Sie besonders wertvolles Gut transportieren lassen wollen, können Sie mit der Umzugsfirma eine höhere Haftungssumme vereinbaren. Aber geben Sie Acht: Wenn Sie Ihre Möbel und Besitztümer selbst verpacken, übernehmen die Profis keine Haftung für beim Transport entstandene Schäden.
+Зато вы получаете **полный сервис**. Компания несёт ответственность за возможные повреждения вашего имущества, квартиры или подъезда. По закону сумма ответственности составляет 620 евро за кубометр перевозимого имущества. Для особо ценных вещей можно согласовать большую сумму. Но будьте внимательны: если вы сами упаковываете мебель и вещи, компания не несёт ответственности за повреждения при транспортировке.
 
-![Eine Umzugsfirma zu beauftragen erspart Ihnen viel Arbeit.](handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
+![Переездная компания снимает с вас большую часть работы.](handiwork-nyc-x6pnKtPZ-8s-unsplash-scaled-e1698068083428-711x494.jpg)
 
-Umzugsfirmen nehmen Ihnen einen Großteil der anfallenden Arbeit ab.
+Переездные компании берут на себя большую часть задач.
 
-### Leistungen
+### Услуги
 
-Wie viel Unterstützung Sie von einer Firma in Anspruch nehmen wollen, bleibt Ihnen überlassen. Meist stehen Ihnen mehrere Modelle zur Auswahl:
+Вы сами решаете, сколько помощи получить от компании. Обычно есть несколько вариантов:
 
-- **Standardumzug**: Verladung und Transport
-- **Komplettumzug**: Ein- und Auspacken von Kartons, Ab- und Aufbau von Möbeln, Verladung und Transport
-- **Zusatzleistungen**: Einrichten einer Halteverbotszone oder Zwischenlagerung von Möbeln
+- **Стандартный переезд**: погрузка и транспортировка
+- **Полный переезд**: упаковка и распаковка коробок, сборка и разборка мебели, погрузка и транспортировка
+- **Дополнительные услуги**: установка знаков запрета парковки, временное хранение мебели
 
-### Für Sparfüchse: Umzug selbst organisieren
+### Для экономных: переезд своими силами
 
-Möchten Sie Kosten sparen, ist der **Umzug in Eigenregie** genau das Richtige. Dafür wird aber auch der Organisationsaufwand höher. Denn alles, was bei der Umzugsfirma inklusive ist, fällt nun in Ihre eigenen Hände. Doch mit einer guten Planung steht auch diesem Vorhaben nichts im Weg. Dabei hilft Ihnen ein [Umzugsplan]({{< relref "posts/umzug" >}}), welcher Sie bei allen Schritten auf Ihrem Weg unterstützt.
+Хотите сэкономить? Тогда **самостоятельный переезд** — ваш вариант. Но и организационных хлопот будет больше. Всё, что входит в услуги компании, теперь ложится на ваши плечи. Но с хорошим планом и это не проблема. Поможет вам [план переезда]({{< relref "posts/umzug" >}}), который поддержит на каждом этапе.
 
-![Kosten, welche während Ihres Umzugs auf Sie zu kommen.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
+![Расходы при самостоятельном переезде.](Kopie-von-Yellow-and-Green-Illustrated-Features-Comparison-Chart-Graph-1-711x533.png)
 
-Diese Ausgaben kommen bei einem Umzug in Eigenregie auf Sie zu.
+Вот какие расходы вас ждут при самостоятельном переезде.
 
-### Aufgaben
+### Задачи
 
-Alles selbst organisieren? Kein Problem! Folgende Aufgaben kommen auf Sie zu:
+Всё организовать самому? Нет проблем! Вот что вам предстоит:
 
-- **Transport**: Fragen Sie Freunde oder Verwandte, ob diese ihre Fahrzeuge zur Verfügung stellen können, oder mieten Sie einen Transporter. Bei Letzterem fallen neben den Mietkosten auch Kosten für Treibstoff und Kilometergeld an.
-- **Parkverbot beantragen**: Besonders in einer Großstadt ist es mühsam, Parkplätze in Wohnungsnähe zu finden. Damit Sie Ihre Kartons und Möbel nicht so weit tragen müssen und das Ein- und Ausräumen der Fahrzeuge schneller geht, können Sie beim Straßenverkehrsamt ein Parkverbot beantragen. Dort leihen Sie die Schilder aus, die das Parkverbot kennzeichnen. Den Antrag sollten Sie drei bis vier Wochen vor dem Umzug stellen.
-- **Verpackungsmaterial**: Zum Transportieren Ihrer Gegenstände eignen sich am besten Kartons. Die Faustregel lautet: Anzahl der Quadratmeter = Anzahl der benötigten Umzugskartons. Fragen Sie zunächst in Ihrem Bekanntenkreis, ob jemand Umzugskartons hat, dann können Sie sich den Neukauf sparen. Des Weiteren benötigen Sie Klebeband und Füllmaterial wie Küchenpapier oder Luftpolsterfolie für zerbrechliche Gegenstände.
-- **Umzugshelfer finden**: Erste Anlaufstelle sollten Ihre Verwandten und Freunde sein, da diese Ihnen sicher gerne ohne Bezahlung helfen. Haben zu wenige Ihrer Bekannten Zeit, können Sie weitere Helfer suchen, welche Sie jedoch bezahlen müssen. Dazu können Sie in Ihrer Nachbarschaft nachfragen oder einen Aufruf in Ihren sozialen Medien starten. Denken Sie auch daran, für den Umzugstag ausreichend Essen und Trinken für Ihre Helfer zu besorgen.
-- **Hilfsmittel**: Um Ihren Helfern und sich die Arbeit zu erleichtern, empfehlen sich Hilfsmittel wie Arbeitshandschuhe, Spanngurte und eine Sackkarre, um schwere Gegenstände zu transportieren. Sind keine Profis am Werk, kann es häufiger zu Verletzungen kommen. Sorgen Sie also für den Fall der Fälle vor und haben Sie ein Erste-Hilfe-Set vor Ort.
+- **Транспорт**: попросите друзей или родственников предоставить транспорт или арендуйте грузовик. В последнем случае учтите расходы на топливо и километраж.
+- **Запрет на парковку**: особенно в больших городах сложно найти парковку рядом с домом. Чтобы не носить коробки далеко, оформите временный запрет на парковку в дорожной службе. Там же берут в аренду соответствующие знаки. Подайте заявку за 3-4 недели до переезда.
+- **Упаковочные материалы**: для перевозки вещей лучше всего подойдут коробки. Правило: количество кв. метров = количество коробок. Сначала спросите у знакомых, возможно, коробки есть у них. Также понадобятся скотч и наполнитель (бумага, пузырчатая плёнка) для хрупких вещей.
+- **Поиск помощников**: в первую очередь обратитесь к друзьям и родственникам — они наверняка помогут бесплатно. Если мало желающих, ищите платных помощников: спросите у соседей или разместите объявление в соцсетях. Не забудьте подготовить для всех еду и напитки на день переезда.
+- **Инструменты**: чтобы облегчить работу себе и помощникам, используйте перчатки, ремни, тележку для перевозки тяжёлых предметов. Если работают не профессионалы, травмы случаются чаще. Позаботьтесь о наборе первой помощи.
 
-![Verpacken Sie Ihr Eigentum sicher, damit es beim Umzug nicht kaputtgeht.](pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
+![Упакуйте вещи надёжно, чтобы ничего не повредилось.](pexels-karolina-grabowska-4498136-scaled-e1698069301166-711x677.jpg)
 
-Organisieren Sie stabiles Verpackungsmaterial, damit Ihr Eigentum nicht kaputtgeht.
+Организуйте прочные упаковочные материалы, чтобы ваши вещи не пострадали.
 
-## Wen Sie über Ihren Umzug informieren sollten
+## Кого нужно уведомить о переезде
 
-Der Umzug steht kurz bevor und Sie möchten allen Ihre neue Anschrift mitteilen. Denken Sie dabei nicht nur an **Freunde und Verwandte**, sondern zuerst an **Behörden** und **Firmen**, mit denen Sie Verträge abgeschlossen haben. Die wohl wichtigste Anlaufstelle nach Ihrem Umzug ist das **Einwohnermeldeamt**. Innerhalb von 14 Tagen nach Ihrem Umzug müssen Sie sich dort ummelden. Auch Ihr Auto können Sie dort ummelden. Denken Sie rechtzeitig daran, einen Termin zu buchen, da diese meist lange im Voraus ausgebucht sind.
+Переезд уже на носу, и вы хотите сообщить новый адрес. Не забудьте не только про **друзей и родственников**, но и прежде всего про **органы** и **компании**, с которыми у вас заключены договоры. Самое важное после переезда — **паспортный стол**. В течение 14 дней после переезда вы должны зарегистрироваться по новому месту жительства. Там же можно перерегистрировать автомобиль. Запишитесь заранее, так как очереди бывают большими.
 
-### Wo Sie Ihre neue Anschrift noch angeben sollten:
+### Кому ещё сообщить новый адрес:
 
-- Versicherungen (z. B. Kranken-, Haftpflicht-, Hausrat-, Rechtsschutz-)
-- Banken
-- Strom-, Gas- und Wasseranbieter
-- Telefon- und Internetanbieter
-- Rundfunkbeitrag (wird Ihnen zugeschickt)
-- Abonnements (z. B. Zeitschriften)
-- Mitgliedschaften (z. B. Fitnessstudio, Vereine)
-- Online-Shops und Paketdienste
+- Страховые (медицинская, ответственности, имущества, правовая и др.)
+- Банки
+- Поставщики электроэнергии, газа, воды
+- Провайдеры телефонии и интернета
+- Радио- и ТВ-налог (вам пришлют уведомление)
+- Подписки (журналы и др.)
+- Членства (спортклубы, объединения)
+- Интернет-магазины и службы доставки
 
-{{< warning headline="Falls Sie vergessen, jemandem Ihre neue Adresse mitzuteilen" text="Mit dem Nachsendeauftrag der Deutschen Post werden Briefe und Pakete, welche an Ihrer alten Adresse ankommen, ganz einfach an Ihre neue Adresse weitergeleitet. Unter [nachsendeauftrag.de](http://nachsendeauftrag.de/) können Sie diesen ab 28,90 Euro für sechs Monate online einrichten." />}}
+{{< warning headline="Если вы забыли сообщить кому-то новый адрес" text="С помощью услуги пересылки Deutsche Post письма и посылки, пришедшие на старый адрес, будут автоматически пересланы на новый. На [nachsendeauftrag.de](http://nachsendeauftrag.de/) вы можете оформить это онлайн от 28,90 евро на 6 месяцев." />}}
 
-## Berufsbedingten Umzug von der Steuer absetzen
+## Служебный переезд и налоговый вычет
 
-Einen Teil Ihrer Umzugskosten können Sie in Deutschland als **Werbungskosten** von der Steuer absetzen. Diese werden in **allgemeine und sonstige Kosten** getrennt und machen einen Großteil der von der Steuer absetzbaren Kosten aus. Achtung: Wenn Ihr Arbeitgeber Ihre Umzugskosten teilweise oder ganz übernimmt, können Sie die übernommenen Kosten nicht nochmal in Ihrer Steuererklärung geltend machen.
+Часть расходов на переезд в Германии можно учесть как **расходы, связанные с работой**. Они делятся на **общие и прочие расходы** и составляют основную часть того, что можно вычесть из налогов. Важно: если работодатель полностью или частично покрывает расходы на переезд, вы не можете заявить эти суммы в декларации повторно.
 
-{{< warning headline="Studenten und Auszubildende aufgepasst!" text="Wer umzieht, um seine erste Berufsausbildung anzutreten, kann die Umzugskosten als **Sonderausgaben** geltend machen." />}}
+{{< warning headline="Внимание студентам и учащимся!" text="Если вы переезжаете для начала первой профессиональной подготовки, вы можете учесть расходы как **специальные расходы**." />}}
 
-### Allgemeine Kosten
+### Общие расходы
 
-Es gibt einige **allgemeine Kosten**, welche Sie in voller Höhe in der Steuererklärung angeben können. **Ganz wichtig**: Bewahren Sie Rechnungen und Quittungen auf, um Ihre Ausgaben belegen zu können. Zu allgemeinen Kosten gehören zum Beispiel Transportkosten für den Hausrat, doppelte Miete während der Umzugsphase oder die Maklerprovision.
+Есть ряд **общих расходов**, которые можно полностью указать в налоговой декларации. **Очень важно**: сохраняйте счета и квитанции для подтверждения расходов. К общим расходам относятся, например, транспортировка имущества, двойная аренда в период переезда, услуги риэлтора.
 
-![Behalten Sie Ihre Kosten immer im Blick, indem Sie Quittungen aufbewahren.](finance-8206242_1280-711x474.jpg)
+![Сохраняйте все чеки и квитанции, чтобы подтвердить расходы для налоговой.](finance-8206242_1280-711x474.jpg)
 
-Bewahren Sie alle Rechnungen und Quittungen auf, um Ihre Ausgaben steuerlich geltend zu machen.
+Сохраняйте все счета и чеки для налоговых вычетов.
 
-### Sonstige Kosten
+### Прочие расходы
 
-Sonstige Kosten dürfen Sie pauschal absetzen. Es ist also nicht notwendig, jeden Beleg aufzubewahren. Die **Umzugskostenpauschale** ist besonders lohnenswert, wenn Sie einen Umzug in Eigenregie durchführen. Sie deckt viele kleinere Ausgaben ab. Dazu zählen unter anderem die Verpflegung der Umzugshelfer, der Kücheneinbau, die Änderung des Personalausweises und die PKW-Ummeldung.
+Прочие расходы можно списывать по фиксированной ставке, не обязательно хранить каждый чек. **Плоская ставка на переезд** особенно выгодна при самостоятельном переезде — она покрывает множество мелких трат: питание помощников, установка кухни, смена паспорта, перерегистрация авто и др.
 
-Die Pauschale liegt seit dem 1. April 2023 bei 886 Euro; für jede zusätzliche Person können Sie weitere 590 Euro angeben. Wenn vor Ihrem Umzug kein eigener Hausstand vorhanden war, liegt die Pauschale lediglich bei 177 Euro.
+С 1 апреля 2023 года ставка составляет 886 евро; за каждого дополнительного человека — ещё 590 евро. Если до переезда не было собственного хозяйства, ставка — всего 177 евро.
 
-Natürlich ist es kein Muss, die Pauschale zu nutzen. Sollten die Ausgaben die mit der Pauschale abgedeckten Kosten überschreiten, können Sie wie bei den allgemeinen Kosten mit Quittungen den steuerlichen Anspruch geltend machen.
+Использовать фиксированную ставку не обязательно. Если ваши расходы превышают покрываемые ставкой, вы можете, как и с общими расходами, подтвердить их чеками и получить налоговый вычет.
 
-![Auch das Renovieren der alten Wohnung wird zum Teil bei Ihrem Umzug übernommen und sollte bei Ausgaben in Ihrem Umzugsplan bedacht werden.](pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
+![Ремонт старой квартиры тоже может быть учтён при переезде.](pexels-ksenia-chernaya-5691603-scaled-e1698067717340-711x545.jpg)
 
-Auch das Renovieren der alten Wohnung, z. B. vertraglich vereinbarte Schönheitsreparaturen, werden übernommen.
+Также частично учитываются расходы на ремонт старой квартиры, например, косметический ремонт по договору.
 
-## Privaten Umzug von der Steuer absetzen
+## Частный переезд и налоги
 
-Wer privat umzieht, kann keine Umzugskosten steuerlich absetzen. Ganz ohne Möglichkeiten sind Sie trotzdem nicht. Sie können **Arbeits- und Fahrtkosten** für eine Spedition angeben. Dabei müssen Sie jedoch beachten, dass jährlich maximal 20.000 Euro für Dienstleisterkosten angegeben werden dürfen und davon höchstens 4.000 Euro einen steuerlichen Vorteil bringen. Sollten Sie dies in Betracht ziehen, geben Sie die Kosten als **haushaltsnahe Aufwendungen** an.
+Если вы переезжаете по личным причинам, расходы на переезд не вычитаются из налогов. Но всё же есть варианты: можно указать **расходы на работу и транспорт** для переездной компании. Но учтите: максимум 20 000 евро в год на услуги, из которых только 4 000 евро дают налоговую выгоду. В этом случае указывайте расходы как **расходы на домашнее хозяйство**.
 
-Als außergewöhnliche Belastung zählt ein Umzug aus medizinischen Gründen. Diesen können Sie auch in der Steuererklärung geltend machen, aber nur mit ausführlichen Nachweisen über Ihre gesundheitliche Situation.
+Переезд по медицинским показаниям считается исключительным случаем и также может быть учтён в декларации, но только при наличии подробных медицинских справок.
 
-## Online-Planer für Ihren Umzug
+## Онлайн-планировщик вашего переезда
 
-Damit Ihr nächster Umzug möglichst stressfrei abläuft, hat das Team von SeaTable eine Vorlage für Ihren Umzugsplan erstellt. Diesen können Sie nach Belieben an Ihre Bedürfnisse anpassen.
+Чтобы следующий переезд прошёл максимально без стресса, команда SeaTable подготовила шаблон плана переезда. Вы можете адаптировать его под свои нужды.
 
-![Umzugsplan](Umzugsplan.png)
+![План переезда](Umzugsplan.png)
 
-Wenn Sie SeaTable für Ihre Umzugsplanung nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/real-estate/moving-plan" >}}).
+Если вы хотите использовать SeaTable для планирования переезда, [зарегистрируйтесь]({{< relref "pages/registration" >}}) бесплатно. Соответствующий шаблон вы найдёте [здесь]({{< relref "templates/real-estate/moving-plan" >}}).

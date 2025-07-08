@@ -21,7 +21,7 @@ Lorsque la validation des données est activée, SeaTable vérifie si la valeur 
 
 ![Validation des données dans SeaTable 3.0](FormatCheck.png)
 
-Das Zielformat wird in Form eines [regulären Ausdrucks](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) definiert. Ein regulärer Ausdruck für eine Zahlenfolge mit genau 5 Stellen ist beispielsweise \[0-9\]{5}. Für reguläre Ausdrücke sprechen zwei Argumente: Sie sind eine weit verbreitete Methode und bieten ein Maximum an Flexibilität. Die Art der erlaubten Zeichen, die Länge, und auch die Syntax der Eingabe lässt sich mit regulären Ausdrücken präzise definieren.
+Le format cible est défini sous la forme d'une [expression régulière](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck). Par exemple, une expression régulière pour une suite de nombres comportant exactement 5 chiffres est \[0-9\]{5}. Deux arguments plaident en faveur des expressions régulières : elles constituent une méthode très répandue et offrent un maximum de flexibilité. Le type de caractères autorisés, la longueur, et même la syntaxe de l'entrée peuvent être définis précisément avec les expressions régulières.
 
 Dans la version 3.0, la validation des données est disponible dans les colonnes de texte. Si un format cible est ajouté ultérieurement, toutes les entrées existantes sont également vérifiées et les valeurs non conformes sont marquées comme telles. Rien n'empêche donc d'activer ultérieurement la validation des données dans les colonnes existantes.
 

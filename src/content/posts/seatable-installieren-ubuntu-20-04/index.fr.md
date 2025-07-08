@@ -1,5 +1,5 @@
 ---
-title: 'SeaTable Enterprise Edition unter Ubuntu Server 20.04 LTS installieren - SeaTable'
+title: 'Installer SeaTable Enterprise Edition sous Ubuntu Server 20.04 LTS'
 date: 2021-01-23
 lastmod: '2024-01-19'
 author: 'rdb'
@@ -9,127 +9,146 @@ seo:
     description:
 ---
 
-Dank Docker ist die Installation von SeaTable Enterprise Edition ganz einfach und in wenigen Augenblicken gemacht. Ubuntu Server als weitverbreitetes und gut dokumentiertes Linux Betriebssystem bietet sich als Basis für SeaTable hervorragend an. Wenn Sie bereits einen Ubuntu Server haben, dann erfahren Sie hier, wie Sie in 10 Minuten auf diesem SeaTable installieren.
+Grâce à Docker, l’installation de SeaTable Enterprise Edition est très simple et se fait en quelques instants. Ubuntu Server, en tant que système d’exploitation Linux largement répandu et bien documenté, constitue une excellente base pour SeaTable. Si vous disposez déjà d’un serveur Ubuntu, découvrez ici comment installer SeaTable dessus en 10 minutes.
 
-{{< warning headline="This manual is outdated" text="Kindly be aware that this manual is outdated. Refer to the updated installation instructions available at [https://manual.seatable.io](https://manual.seatable.io)" />}}
+{{< warning headline="Ce manuel est obsolète" >}}
 
-## Voraussetzungen
+Veuillez noter que ce manuel est obsolète. Reportez-vous aux instructions d’installation à jour disponibles sur [https://manual.seatable.io](https://manual.seatable.io).
 
-Damit die Einrichtung von SeaTable so problemlos durchläuft wie hier beschrieben, müssen einige Voraussetzungen erfüllt sein. Dies sind:
+{{< /warning >}}
 
-- VServer / Dedicated Server mit 4 Kernen, 8GB RAM und rund 10GB Speicher für das Ubuntu Betriebssystem, SeaTable und weitere Voraussetzungen
-- Root Zugriff auf den Server (per SSH oder Konsole)
-- Subdomain, die per A-Record (IPv4) oder AAAA-Record (IPv6) auf die IP-Adresse des Servers verweist
-- Server auf Port 80 und 443 über die Subdomain erreichbar
-- Kein anderer Dienst hört auf Port 80 und 443
+## Prérequis
 
-Natürlich sollten Sie mehr als den oben angegebenen Festplattenspeicher einplanen, um auf dem Datenträger neben Betriebssystem und SeaTable auch noch Ihre eigenen Daten ablegen zu können. Insbesondere wenn Sie beabsichtigen, in SeaTable auch Dateien zu organisieren, dann sollten Sie sehr großzügig weiteren Speicherplatz einplanen.
+Pour que l’installation de SeaTable se déroule aussi facilement que décrit ici, certaines conditions doivent être remplies :
 
-Keine Voraussetzung, aber hilfreich, ist es, wenn der Server über eine statische IPv4-Adresse erreichbar ist. Damit maximieren Sie die Erreichbarkeit des Servers von unterwegs. In Europa gibt es noch [Mobilfunknetze, die noch kein IPv6 beherrschen.](https://www.datamate.org/status-der-ipv6-implementierung-in-mobilfunknetzen-in-dach/) Über ein solches Netz ist Ihr SeaTable Server nicht erreichbar, wenn er keine IPv4-Adresse hat.
+- Serveur virtuel ou dédié avec 4 cœurs, 8 Go de RAM et environ 10 Go d’espace disque pour le système Ubuntu, SeaTable et les autres dépendances
+- Accès root au serveur (par SSH ou console)
+- Sous-domaine pointant vers l’adresse IP du serveur via un enregistrement A (IPv4) ou AAAA (IPv6)
+- Serveur accessible sur les ports 80 et 443 via le sous-domaine
+- Aucun autre service n’écoute sur les ports 80 et 443
 
-Für den Fall, dass auf Ihrem Server bereits Port 80 und/oder 443 belegt sind, finden Sie im Beitrag [SeaTable Enterprise auf dem eigenen Server hinter einem Webserver installieren]({{< relref "posts/seatable-installieren-webserver" >}}) alles was Sie für die Installation in Ihrer Situation wissen müssen.
+Bien sûr, il est conseillé de prévoir plus d’espace disque que le minimum indiqué, afin de stocker vos propres données en plus du système et de SeaTable. Si vous prévoyez de gérer aussi des fichiers dans SeaTable, prévoyez un espace de stockage supplémentaire généreux.
 
-Sie sind bereit? Los geht’s! Wir gehen davon aus, dass Sie eine Root Shell auf Ihrem Server offen haben.
+Ce n’est pas une obligation, mais il est utile que le serveur soit accessible via une adresse IPv4 statique. Cela maximise l’accessibilité du serveur à distance. En Europe, il existe encore des [réseaux mobiles qui ne prennent pas en charge IPv6.](https://www.datamate.org/status-der-ipv6-implementierung-in-mobilfunknetzen-in-dach/) Sur un tel réseau, votre serveur SeaTable ne sera pas accessible sans adresse IPv4.
 
-## Vorbereitung
+Si les ports 80 et/ou 443 sont déjà utilisés sur votre serveur, consultez l’article [Installer SeaTable Enterprise sur son propre serveur derrière un serveur web]({{< relref "posts/seatable-installieren-webserver" >}}) pour tout ce qu’il faut savoir dans ce cas.
 
-Zunächst aktualisieren wir das System, um alle Pakete auf dem neusten Stand zu haben:
+Prêt ? C’est parti ! Nous partons du principe que vous avez un accès root ouvert sur votre serveur.
+
+## Préparation
+
+Commencez par mettre à jour le système pour avoir tous les paquets à jour :
 
 `apt update   apt upgrade -y`
 
-Natürlich müssen diese und alle folgenden Befehle mit Root-Rechten ausgeführt werden, wenn nicht anders angegeben.
+Bien entendu, ces commandes et toutes les suivantes doivent être exécutées avec les droits root, sauf indication contraire.
 
-SeaTable verwendet docker-compose und dieses Paket müssen Sie installieren. Da es über die Ubuntu-Paketquellen verfügbar ist, reicht der Befehl:
+SeaTable utilise docker-compose, qu’il faut installer. Comme il est disponible dans les dépôts Ubuntu, la commande suivante suffit :
 
 `apt install docker-compose -y`
 
-Die Pakete docker.io und containerd sowie zahlreiche Python3 Bibliotheken gehören zu den Abhängigkeiten von docker-compose. Diese werden daher gleich mitinstalliert. Das System ist bereit für SeaTable!
+Les paquets docker.io, containerd ainsi que de nombreuses bibliothèques Python3 font partie des dépendances de docker-compose et seront installés automatiquement. Le système est prêt pour SeaTable !
 
-## Download von SeaTable Enterprise
+## Télécharger SeaTable Enterprise
 
-Das Docker Image von SeaTable Enterprise Edition befindet sich in einem Repository auf Docker Hub. Mit dem folgenden Befehl starten Sie den Download des SeaTable Images:
+L’image Docker de SeaTable Enterprise Edition se trouve dans un dépôt sur Docker Hub. Utilisez la commande suivante pour télécharger l’image :
 
 `docker pull seatable/seatable-ee:latest`
 
-Kommen wir zum einzigen etwas schwierigeren Thema bei der Einrichtung von SeaTable. Mit den erweiterten Erläuterungen wird aber auch dieser Schritt gut machbar.
+Passons au seul point un peu plus complexe de l’installation de SeaTable. Mais avec les explications détaillées, cette étape reste accessible.
 
-## Individualisierung der docker-compose.yml
+## Personnalisation du docker-compose.yml
 
-Zur Einleitung dieses Abschnitts ein bisschen Grundlagenwissen zur Installation von SeaTable: SeaTable stellt seine Dienste über mehrere [Docker Container](https://www.docker.com/resources/what-container) bereit. Neben dem SeaTable Container selbst, in dem der SeaTable Server läuft, sind noch drei weitere Container im Spiel. Konkret sind das die Datenbank MariaDB, der Caching Dienst Memcached und der Dictionary Server redis.
+Pour introduire cette section, un peu de base sur l’installation de SeaTable : SeaTable fournit ses services via plusieurs [conteneurs Docker](https://www.docker.com/resources/what-container). Outre le conteneur principal SeaTable, trois autres conteneurs sont utilisés : la base de données MariaDB, le service de cache Memcached et le serveur de dictionnaire redis.
 
-Die Datei docker-compose.yml, um die es gleich gehen wird, ist das Rezept, das Docker für die Installation und Konfiguration des SeaTable und der anderen Container verwendet. Es beinhaltet zentrale Sicherheitseinstellungen (z.B. das Datenbankpasswort) und erlaubt die Anpassung der Installation an eigene Wünsche und Bedürfnisse (z.B. SSL/TLS-Konfiguration).
+Le fichier docker-compose.yml, dont il sera question, est la recette que Docker utilise pour l’installation et la configuration de SeaTable et des autres conteneurs. Il contient des paramètres de sécurité essentiels (ex. : mot de passe de la base de données) et permet d’adapter l’installation à vos besoins (ex. : configuration SSL/TLS).
 
-Legen Sie zunächst in /opt das Verzeichnis seatable an. Im Verzeichnis /opt befindet sich seit der Installation von containerd bereits das gleichnamige Verzeichnis. Dann laden Sie die docker-compose.yml in dieses Verzeichnis runter und öffnen die Datei mit einem Texteditor. Das Code-Beispiel unten beschreibt das Vorgehen im Detail. Wir verwenden für die Bearbeitung der docker-compose.yml den Texteditor nano. Logischerweise geht aber auch vim oder jeder anderer Texteditor.
+Commencez par créer le dossier seatable dans /opt. Dans /opt, il existe déjà un dossier du même nom depuis l’installation de containerd. Téléchargez ensuite le fichier docker-compose.yml dans ce dossier et ouvrez-le avec un éditeur de texte. L’exemple ci-dessous décrit la démarche en détail. Nous utilisons nano, mais vim ou tout autre éditeur convient aussi.
 
-`mkdir /opt/seatable   cd /opt/seatable   wget -O "docker-compose.yml" "https://manual.seatable.io/docker/Enterprise-Edition/docker-compose.yml"   nano docker-compose.yml`
+```
+mkdir /opt/seatable
+cd /opt/seatable
+wget -O "docker-compose.yml" "https://manual.seatable.io/docker/Enterprise-Edition/docker-compose.yml"
+nano docker-compose.yml
+```
 
-So sieht die YAML-Datei nach dem Download aus:  
+Voici à quoi ressemble le fichier YAML après le téléchargement :
+
 ![docker-compose.yml file](SeaTable_dockercompose.png)
 
-![docker-compose.yml file](SeaTable_dockercompose.png)
+On voit d’emblée les quatre conteneurs que Docker crée lors de l’exécution : db, memcached, redis et seatable. Pour chaque conteneur, l’image à utiliser (“image”) et le nom du conteneur (“container_name”) sont déclarés. Le nom du conteneur est celui sous lequel il sera géré via la console Docker.
 
-Auf den ersten Blick sieht man die vier Container, die Docker bei Ausführung des Rezepts einrichtet: db, memcached, redis und seatable. Für jeden Container wird das zu verwendende Image (“image”) und die Bezeichnung des Containers (“container_name”) deklariert. Die Container-Bezeichnung ist der Name, über den sich später der Container per Docker Console verwalten lässt.
+De plus, chaque conteneur a quelques paramètres individuels qui nécessitent votre attention.
 
-Darüber hinaus hat jeder Container ein paar individuelle Einstellungen, von denen manche nun Ihre Aufmerksamkeit brauchen.
+Dans le **conteneur db**, vous devez modifier le mot de passe de la base de données. Remplacez “YOUR_PASSWORD” par un mot de passe alphanumérique robuste. Vous pouvez aussi ajuster le chemin où le dossier /opt/seatable/mysql-data/ est monté dans le conteneur seatable-mysql (par défaut : /var/lib/mysql). Ce n’est pas obligatoire.
 
-Im **Container db** müssen Sie das Datenbank Passwort verändern. Ersetzen Sie “YOUR_PASSWORD” durch ein mehrstelliges, alphanumerisches Passwort. Darüber hinaus können Sie den Pfad, unter dem das Verzeichnis /opt/seatable/mysql-data/ im Container seatable-mysql verfügbar gemacht wird, anpassen. Im Standard ist dies der Pfad /var/lib/mysql. Notwendig ist dies nicht.
+Les **conteneurs memcached** et **redis** ne nécessitent aucune modification. Si vous exploitez déjà memcached ou redis, vous pouvez retirer ces deux conteneurs du fichier Compose. Pour que SeaTable fonctionne, il faudra alors modifier manuellement les fichiers de configuration.
 
-Der **Container memcached** und der **Container redis** benötigen keine Anpassungen. Wenn Sie memcached oder redis bereits betreiben, dann können Sie diese beiden Container aus der Compose-Datei entfernen. Damit SeaTable lauffähig ist, müssen Sie aber später in den Konfigurationsdateien manuelle Anpassungen vornehmen.
+Dans le **conteneur seatable**, les adaptations sont les plus nombreuses : vous devez d’abord renseigner le MYSQL_ROOT_PASSWORD. Sinon, SeaTable ne pourra pas communiquer avec la base de données. Indiquez donc dans “DB_ROOT_PASSWD” le mot de passe défini pour le conteneur db.
 
-Im **Container seatable** sind die umfangreichsten Anpassungen vorzunehmen: Dort muss zunächst einmal das MYSQL_ROOT_PASSWORD eingetragen werden. Ansonsten kann SeaTable nicht mit der Datenbank kommunizieren. Tragen Sie also bei “DB_ROOT_PASSWD” das oben für den Container db spezifizierte Passwort ein.
+Ensuite, décidez si Let’s Encrypt doit demander un certificat SSL pour vous et l’intégrer à la configuration du serveur web. Si oui – ce qui est recommandé pour la plupart des utilisateurs –, changez la clé SEATABLE_SERVER_LETSENCRYPT sur “True” et renseignez dans SEATABLE_SERVER_HOSTNAME le sous-domaine que vous utilisez. Le Certbot de Let’s Encrypt demandera alors un certificat SSL et l’ajoutera à la configuration du serveur web.
 
-Dann heißt es, die Entscheidung zu treffen, ob Let’s Encrypt für Sie ein SSL-Zertifikat beantragen und in die Konfiguration des Webservers einbinden soll. Wenn Sie dies wollen – was vermutlich für die meisten Benutzer die Empfehlung ist -, dann ändern Sie den Wert des Schlüssels SEATABLE_SERVER_LETSENCRYPT auf “True” und geben Sie bei SEATABLE_SERVER_HOSTNAME die von Ihnen verwendete Subdomain ein. Der Certbot von Let’s Encrypt wird dann im Rahmen der Einrichtung ein SSL-Zertifikat beantragen und in der Konfiguration des Webservers berücksichtigen.
+Vous pouvez laisser le fuseau horaire sur Etc/UTC pour l’Europe centrale. Si vous êtes ailleurs, utilisez le code de fuseau horaire approprié.
 
-Die Zeitzone können Sie auf Etc/UTC für Zentraleuropa belassen. Wenn Sie außerhalb Zentraleuropas sind, dann nutzen Sie die gewöhnlichen Zeitzonencodes.
+## Initialisation de la base de données
 
-## Initialisierung der Datenbank
+Une fois le fichier YAML adapté à vos besoins, initialisez la base de données avec :
 
-Nachdem die YAML-Datei auf Ihre Bedürfnisse angepasst wurde, wird nun im nächsten Schritt die Datenbank initialisiert. Dazu geben Sie folgende Befehle ein:
+```
+cd /opt/seatable
+docker-compose up
+```
 
-`cd /opt/seatable   docker-compose up`
+La commande docker-compose exécute la recette du fichier YAML : plusieurs images Docker sont téléchargées et extraites depuis Docker Hub. D’abord MariaDB, puis Memcached, ensuite redis et enfin SeaTable – dans l’ordre défini dans docker-compose.yml. Après le téléchargement, le conteneur seatable-mysql démarre. Vous pouvez suivre les activités à l’écran (voir ci-dessous). Lorsque le conteneur seatable prend la main et que le message “This is an idle script (infinite loop) to keep container running.” s’affiche, vous pouvez interrompre le processus avec CTRL + C.
 
-Durch den docker-compose Befehl wird das in der YAML-Datei enthaltene Rezept ausgeführt: Es werden mehrere Docker Images von Docker Hub heruntergeladen und extrahiert. Zunächst MariaDB, dann Memcached, darauf redis und abschließend SeaTable selbst – also in der in der docker-compose.yml vorgeschriebenen Reihenfolge. Nach dem Download startet der Datenbank-Container seatable-mysql. Sie können die Aktivitäten auf dem Bildschirm verfolgen (siehe unten). Wenn schließlich der seatable Container übernimmt und die Meldung “This is an idle script (infinite loop) to keep container running.” auf dem Bildschirm erscheint, dann können Sie mit der Tastenkombination CTRL + C den Prozess abbrechen.
+Tout s’est bien passé ? Vous êtes alors tout proche de votre propre instance SeaTable auto-hébergée ! Sinon, consultez les conseils de dépannage à la fin de l’article.
 
-Hat dies soweit geklappt? Dann sind Sie Ihrer eigenen, selbstgehosteten SeaTable Instanz ganz nah! Wenn nicht, sehen Sie bitte am Endes Artikels in den Troubleshooting Hinweisen nach.
+## Démarrage de SeaTable
 
-## Start von SeaTable
+Relancez le docker-compose.yml. Contrairement à l’étape précédente, docker-compose s’exécute maintenant en arrière-plan (“detached”). Ensuite, le serveur SeaTable peut être démarré dans le conteneur seatable. Pour finir, il ne reste plus qu’à créer un utilisateur admin. Votre serveur SeaTable est prêt !
 
-Führen Sie die docker-compose.yml nochmals aus. Anders als im Schritt davor wird docker-compose nun aber im Hintergrund bzw. “detached” ausgeführt. Im Anschluss daran lässt sich auch der SeaTable Server im Docker Container seatable starten. Zum Abschluss muss nur noch ein Adminbenutzer angelegt werden. Ihr SeaTable Server ist dann für seine Aufgaben bereit!
+```
+docker-compose up -d
+docker exec -d seatable /shared/seatable/scripts/seatable.sh start
+docker exec -it seatable /shared/seatable/scripts/seatable.sh superuser
+```
 
-`docker-compose up -d   docker exec -d seatable /shared/seatable/scripts/seatable.sh start   docker exec -it seatable /shared/seatable/scripts/seatable.sh superuser`
+Après la dernière commande, vous serez invité à saisir une adresse e-mail et un mot de passe. Bravo, vous venez de créer le premier utilisateur sur votre système SeaTable on-premises.
 
-Nach dem letzten Befehl werden Sie aufgefordert, eine E-Mail-Adresse und ein Passwort zu vergeben. Bravo, Sie haben in Ihrem SeaTable on-premises System den ersten Benutzer angelegt.
+## Mise en service
 
-## Inbetriebnahme
+Rendez-vous sur l’URL que vous avez indiquée dans docker-compose.yml sous SEATABLE_SERVER_HOSTNAME. Vous arrivez sur la page de connexion de votre serveur SeaTable. Installation réussie !
 
-Rufen Sie nun die URL auf, die Sie in der docker-compose.yml unter SEATABLE_SERVER_HOSTNAME angegeben haben. Sie landen auf der Login-Seite Ihres SeaTable Servers. Installation erfolgreich!
+Si vous avez choisi Let’s Encrypt dans docker-compose.yml, votre requête sera directement redirigée vers https et la communication avec votre serveur sera chiffrée. Sinon, il vous faudra ajouter votre propre certificat SSL. Copiez le certificat dans le dossier /opt/seatable/ssl/ et adaptez la configuration du serveur web nginx. Il faudra aussi modifier dans les fichiers ccnet.conf, dtable_web_seetings.py et dtable_server_config.json les adresses de http vers https. Ensuite, redémarrez nginx, SeaTable et Memcached avec ces trois commandes :
 
-Wenn Sie in der docker-compose.yml für die Nutzung von Let’s Encrypt votiert haben, dann sollte Ihre Anfrage direkt auf https umgeleitet werden und somit die Kommunikation mit Ihrem Server verschlüsselt erfolgen. Wenn nicht, dann sollten Sie nun Ihr eigenes SSL-Zertifikat einfügen. Kopieren Sie das Zertifikat in den Ordner /opt/seatable/ssl/ und passen Sie die Konfiguration des Webservers nginx an. Ebenfalls müssen Sie in den Konfigurationsdateien ccnet.conf, dtable_web_seetings.py und der dtable_server_config.json die Adressen von http auf https umstellen. Danach müssen nginx, SeaTable und Memcached neu gestartet werden. Mit diesen drei Befehlen tun Sie dies:
+```
+docker exec -it seatable /shared/seatable/scripts/seatable.sh restart
+docker restart seatable-memcached
+docker exec -it seatable /usr/sbin/nginx -s reload
+```
 
-`docker exec -it seatable /shared/seatable/scripts/seatable.sh restart   docker restart seatable-memcached   docker exec -it seatable /usr/sbin/nginx -s reload`
+Plus d’informations sur l’intégration d’un certificat SSL personnalisé dans le [manuel SeaTable](https://manual.seatable.io/docker/Enterprise-Edition/Deploy%20SeaTable-EE%20with%20Docker/#ssltls).
 
-Mehr zur Integration eines eigenen SSL-Zertifikats finden Sie im [SeaTable Manual](https://manual.seatable.io/docker/Enterprise-Edition/Deploy%20SeaTable-EE%20with%20Docker/#ssltls).
+![Menu utilisateurs dans l’administration système de SeaTable](SeaTableEE_SystemAdministration_Users.png)
 
-![Users menu in SeaTable's System Administration](SeaTableEE_SystemAdministration_Users.png)
+## Activation de la licence SeaTable
 
-## Aktivierung der SeaTable Lizenz
+Vous pouvez utiliser SeaTable Enterprise Edition avec toutes ses fonctionnalités sans licence payante pour jusqu’à trois utilisateurs – à titre privé ou professionnel, et sans limite de durée. Vous n’avez donc pas besoin de licence pour la mise en service.
 
-Sie können SeaTable Enterprise Edition mit allen Funktionen ohne kostenpflichtige Lizenz mit bis zu drei Benutzern benutzen – privat wie gewerblich und auch dauerhaft. Aus diesem Grund benötigen Sie für die Inbetriebnahme keine Lizenz.
+Si vous souhaitez créer plus de trois utilisateurs dans SeaTable, cela sera refusé. Vous pouvez obtenir une licence via [notre service commercial]({{< relref "pages/contact" >}}). Plus d’informations sur les tarifs de SeaTable Enterprise sont disponibles sur notre [page des prix]({{< relref "pages/prices" >}}).
 
-Wenn Sie jedoch mehr als drei Benutzer in SeaTable anlegen wollen, dann wird sich SeaTable dem verweigern. Eine Lizenz erhalten Sie über [unseren Vertrieb]({{< relref "pages/contact" >}}). Mehr Informationen zu den Preisen von SeaTable Enterprise finden Sie auf unserer [Preisseite]({{< relref "pages/prices" >}}).
-
-Um die Lizenz zu aktivieren, speichern Sie die Lizenzdatei, eine TXT-Datei, im Ordner /opt/seatable/seatable-data/seatable und starten Sie SeaTable neu:
+Pour activer la licence, enregistrez le fichier de licence (un fichier TXT) dans le dossier /opt/seatable/seatable-data/seatable et redémarrez SeaTable :
 
 `docker exec -d seatable /shared/seatable/scripts/seatable.sh restart`
 
-Die zusätzlichen Benutzer stehen dann sofort zur Verfügung und werden in der Systemsteuerung angezeigt.
+Les utilisateurs supplémentaires seront alors disponibles immédiatement et affichés dans l’administration système.
 
-## Troubleshooting
+## Dépannage
 
-Falls bei der Installation irgendetwas schief gegangen ist, dann löschen Sie einfach das Verzeichnis /opt/seatable und fangen Sie von vorne an. Aber Vorsicht: Die in SeaTable gespeicherten Daten gehen dabei verloren.
+Si quelque chose s’est mal passé lors de l’installation, supprimez simplement le dossier /opt/seatable et recommencez depuis le début. Attention : toutes les données enregistrées dans SeaTable seront perdues.
 
-Wenn Sie das Passwort Ihres Administrators vergessen haben, dann führen Sie den Befehl
+Si vous avez oublié le mot de passe de l’administrateur, exécutez simplement la commande
 
 `docker exec -it seatable /shared/seatable/scripts/seatable.sh superuser`
 
-einfach erneut aus. Der Befehl legt einen weiteren Benutzer mit Admin-Rechten an. Wenn der Befehl einen Fehler produziert, dann erlaubt Ihre SeaTable Lizenz die Anlage weiterer Benutzer nicht. (Dies gilt auch für den Testbetrieb mit maximal drei Nutzern.) In diesem Fall müssen Sie in der MySQL Datenbank einen Benutzer auf inaktiv setzen und dann den Befehl erneut ausführen.
+à nouveau. Cette commande crée un nouvel utilisateur avec des droits admin. Si la commande affiche une erreur, votre licence SeaTable n’autorise pas la création d’utilisateurs supplémentaires (cela vaut aussi pour le mode test à trois utilisateurs maximum). Dans ce cas, il faut désactiver un utilisateur dans la base MySQL, puis relancer la commande.

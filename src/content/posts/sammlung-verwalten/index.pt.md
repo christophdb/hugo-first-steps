@@ -1,5 +1,5 @@
 ---
-title: 'Sammlung verwalten mit digitalen Tools'
+title: 'Gerir colecções com ferramentas digitais'
 date: 2022-07-01
 lastmod: '2024-03-21'
 author: 'cdb'
@@ -10,70 +10,70 @@ seo:
     description:
 ---
 
-Ihre **Sammlungen** lassen sich ideal über digitale Programme und Apps **verwalten**. Dabei ist es egal, ob es sich bei der Sammlung um physische Gegenstände oder digitale Medien handelt. Zu den beliebtesten Sammlerstücken zählen Münzen, Briefmarken, Schuhe, Kunstwerke, Spielzeug, Sammelkarten, Non Fungible Tokens (NFT), [Bücher]({{< relref "posts/buecher-katalogisieren" >}}), Filme, Musik (auf CD, Schallplatten) und mehr. Wenn einen Sammler die Leidenschaft packt, ist die größte Herausforderung oft, den Überblick zu behalten. Hier kommen die Programme ins Spiel, mit denen Sie Ihre Sammlung verwalten können – am PC oder mit einer App.
+Suas **coleções** podem ser gerenciadas de forma ideal usando programas digitais e aplicativos. Não importa se a coleção é composta por itens físicos ou mídias digitais. Entre os itens de coleção mais populares estão moedas, selos, tênis, obras de arte, brinquedos, cartas colecionáveis, NFTs, [livros]({{< relref "posts/buecher-katalogisieren" >}}), filmes, música (em CD, vinil) e muito mais. Quando a paixão de um colecionador desperta, o maior desafio costuma ser manter a visão geral. É aí que entram os programas que permitem gerenciar sua coleção – no PC ou em um aplicativo.
 
-![Sammlung aller Briefmarken über ein digitales Tool verwalten.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
+![Gerencie toda a sua coleção de selos com uma ferramenta digital.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)
 
-Was sammeln Sie? © VRD / Adobe Stock
+O que você coleciona? © VRD / Adobe Stock
 
-## Warum sollten Sie Ihre Sammlungen verwalten?
+## Por que gerenciar suas coleções?
 
-Privatpersonen und Unternehmen verwalten Sammlungen aus unterschiedlichen Gründen. Je nach Grund ergeben sich Funktionen, welche die Verwaltungssoftware ermöglichen sollte.
+Pessoas físicas e empresas gerenciam coleções por diferentes motivos. Dependendo do motivo, surgem funções que o software de gerenciamento deve oferecer.
 
-### Verwaltungsprogramme für Rankings nutzen
+### Usar programas de gestão para rankings
 
-Eine Möglichkeit ist zum Beispiel das Ranken von Gegenständen, wie es in einer DVD-Sammlung der Fall ist. Hier können Sie Filme mit einer Punktzahl von eins bis fünf bewerten. Später lassen sich Sortierungen und Filter setzen, um die Filme vom besten bis hin zum schlechtesten zu ordnen oder nur Filme mit vier Sternen und mehr anzeigen zu lassen.
+Uma possibilidade é, por exemplo, classificar itens, como em uma coleção de DVDs. Aqui, você pode avaliar filmes com uma pontuação de um a cinco. Posteriormente, é possível aplicar ordenações e filtros para classificar os filmes do melhor ao pior ou mostrar apenas aqueles com quatro estrelas ou mais.
 
-### Vergleiche, Recherchen und mehr
+### Comparações, pesquisas e mais
 
-Zusätzlich können Sie Sammlungen verwalten, um Ihre Sammlung zu analysieren. Über Programme und Apps lassen sich Vergleiche anstellen, sei es in Ihrer eigenen Sammlung oder in der Gegenüberstellung mit der eines Dritten. Zum Beispiel könnten Sie feststellen, welche Briefmarken oder Münzen eine andere Person hat, die Sie nicht besitzen. Mit den Informationen einer [Kunstsammlung]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}) lässt sich außerdem Recherche betreiben. Man weiß genau, welche weiteren Kunstgegenstände in die Sammlung passen könnten, und kann entsprechend recherchieren.
+Além disso, você pode gerenciar coleções para analisar sua coleção. Com programas e aplicativos, é possível fazer comparações, seja dentro da sua própria coleção ou em comparação com a de terceiros. Por exemplo, você pode descobrir quais selos ou moedas outra pessoa possui que você ainda não tem. Com as informações de uma [coleção de arte]({{< relref "posts/ausstellungs-und-kunstmanagement-museum-galerie" >}}), também é possível realizar pesquisas. Você sabe exatamente quais outros itens de arte poderiam complementar sua coleção e pode pesquisar de acordo.
 
-### Sammlungen verwalten für den Schadensfall
+### Gerenciar coleções para casos de sinistro
 
-Sammlungssoftware lohnt sich außerdem im Schadensfall. Ein Szenario: Sie verwalten eine Sammlung und möchten diese versichern. In dem Verwaltungsprogramm halten Sie fest, welche Gegenstände Sie besitzen. Es dient als eine Art [Inventarliste]({{< relref "posts/inventarliste-erstellen" >}}). Von dieser ausgehend wissen Sie anschließend, für welchen Wert Sie die Sammlung versichern sollten.
+O software de coleção também é útil em caso de danos. Um cenário: você gerencia uma coleção e deseja segurá-la. No programa de gerenciamento, você registra quais itens possui. Ele serve como uma espécie de [lista de inventário]({{< relref "posts/inventarliste-erstellen" >}}). A partir dela, você sabe por qual valor deve segurar a coleção.
 
-### Lagerorte mit der Sammlungssoftware im Blick behalten
+### Acompanhar locais de armazenamento com o software de coleção
 
-Befindet sich eine Sammlung an verschiedenen Orten, können Sie diese mithilfe einer App im Blick behalten. Dadurch sind die Nutzer in der Lage, an den verschiedenen Standorten Daten zu erfassen. Sie vergessen nicht, welche Gegenstände Sie besitzen und behalten den Überblick. Benötigen Sie etwas, sehen Sie einfach in der App nach, wo es sich befindet. Sie möchten zum Beispiel einen Ihrer Oldtimer für eine Hochzeit verleihen – die App verrät Ihnen, in welcher Garage er gerade steht.
+Se uma coleção está em diferentes locais, você pode monitorá-la com um aplicativo. Assim, os usuários podem registrar dados em vários locais. Você não esquece quais itens possui e mantém a visão geral. Se precisar de algo, basta consultar o aplicativo para saber onde está. Por exemplo, se quiser emprestar um de seus carros antigos para um casamento, o app mostra em qual garagem ele está.
 
-### Leihgaben der Sammlung verwalten
+### Gerenciar empréstimos da coleção
 
-Sammlungssoftware eignet sich hervorragend, um Leihgaben zu verwalten. Wenn Sie etwas aus Ihrer Sammlung verleihen, halten Sie in dem digitalen Tool fest, an wen es geht. Eventuell legen Sie auch das Datum fest, an dem es zurückgegeben werden soll. Eine automatische Benachrichtigung erinnert Sie, falls das nicht passiert. Auf der anderen Seite haben Sie die Option, Ihre eigene Sammlung durch Leihgaben zu erweitern. In der App sehen Sie anschließend, welche Stücke wem gehören.
+O software de coleção é excelente para gerenciar empréstimos. Se você emprestar algo da sua coleção, registre no aplicativo digital para quem foi. Você também pode definir a data de devolução. Uma notificação automática lembra caso não seja devolvido no prazo. Por outro lado, é possível expandir sua própria coleção com itens emprestados. No aplicativo, você vê a quem pertencem os itens.
 
-## Welche Lösungen gibt es zum Sammlungen verwalten?
+## Quais soluções existem para gerenciar coleções?
 
-Um Ihre Sammlung zu verwalten, haben Sie verschiedene Möglichkeiten. Es existieren sowohl kostenpflichtige als auch kostenlose Apps und Verwaltungsprogramme. Im Folgenden erhalten Sie einen Überblick über fünf Tools.
+Para gerenciar sua coleção, você tem várias opções. Existem aplicativos e programas de gerenciamento pagos e gratuitos. A seguir, uma visão geral de cinco ferramentas.
 
-### Evernote – die Notiz-App für ein schnelles Erfassen und Verwalten Ihrer Sammlungen
+### Evernote – o app de notas para registrar e gerenciar rapidamente suas coleções
 
-Eine Option für das Verwalten von Sammlungen ist [Evernote](https://evernote.com/intl/de). Hier können Sie Notizen herunterschreiben und Bilder oder Dokumente wie Kaufbelege der Gegenstände anhängen. Es ist ebenfalls möglich, Tags zu setzen, um verschiedene Sammlungen voneinander zu unterscheiden. Eine Suchfunktion hilft dabei, innerhalb der Notizen Sammlungsobjekte wiederzufinden. Sie starten mit einer kostenfreien Version. Die Personal-Variante kostet 6,99 € pro Monat pro User und die Professional-Variante 8,99 €.
+Uma opção para gerenciar coleções é o [Evernote](https://evernote.com/intl/de). Nele, você pode anotar observações e anexar imagens ou documentos, como comprovantes de compra dos itens. Também é possível usar tags para diferenciar várias coleções. Uma função de busca ajuda a encontrar itens nas notas. Você começa com uma versão gratuita. A versão Personal custa €6,99 por mês por usuário e a Professional €8,99.
 
-![Jemand schaut sich das Evernote Tool an, um seine Sammlung zu verwalten.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
+![Alguém usa o Evernote para gerenciar sua coleção.](Sammlung-verwalten_AdobeStock_391017788_bearbeitet-711x474.jpg)
 
-Sammlung verwalten © monticellllo / Adobe Stock
+Gerenciar coleção © monticellllo / Adobe Stock
 
-### Data Crow – Freeware zur Medienverwaltung
+### Data Crow – freeware para gerenciamento de mídias
 
-Die Software [Data Crow](https://www.datacrow.net/) eignet sich vor allem für das Verwalten von Sammlungen, bestehend aus Medien wie [Büchern]({{< relref "posts/buecher-katalogisieren" >}}), Musik und Bildern. Hier können Sie verschiedene Sammlungen anlegen und Daten im Format AVI, DIVX, XVID, MP3, MP4, OGG, JPG, SVG und PNG hochladen. Zu den Gegenständen in Ihrer Sammlung findet Data Crow weiterführende Informationen online, wie zum Beispiel bei Filmen über die Rating-Webseite IMDb. Sie haben die Option, die Sammlung mit Freunden und Familie zu teilen und Leihgaben zu vermerken. Data Crow ist eine Open-Source-Software und dementsprechend für Windows und OS kostenfrei erhältlich.
+O software [Data Crow](https://www.datacrow.net/) é especialmente indicado para gerenciar coleções de mídias como [livros]({{< relref "posts/buecher-katalogisieren" >}}), músicas e imagens. Você pode criar diferentes coleções e fazer upload de dados nos formatos AVI, DIVX, XVID, MP3, MP4, OGG, JPG, SVG e PNG. O Data Crow busca informações adicionais online para os itens da sua coleção, como avaliações de filmes no IMDb. É possível compartilhar a coleção com amigos e familiares e registrar empréstimos. O Data Crow é open source e gratuito para Windows e OS.
 
-### GCstar – kostenfreie Sammlungssoftware
+### GCstar – software gratuito para coleções
 
-Eine weitere kostenlose Sammlungssoftware ist [GCstar](http://www.gcstar.org/). Das Verwaltungsprogramm weist dieselben Funktionen zum Erfassen und Verwalten von Sammlungen auf wie Data Crow. Sie haben ebenfalls die Möglichkeit, Ihre Sammlung mit Informationen aus dem Internet anzureichern. Speichern Sie ab, an welchem Ort Sie den Gegenstand erworben haben, und erfassen Sie, falls Sie das Sammlungsstück an jemand ausleihen. Neben Medien können Sie natürlich auch andere Objekte inventarisieren. Wenn Sie sich für eine Open-Source-Lösung interessieren, können Sie Data Crow und GCstar testweise installieren und die Oberflächen miteinander vergleichen.
+Outro software gratuito é o [GCstar](http://www.gcstar.org/). O programa oferece as mesmas funções que o Data Crow para registrar e gerenciar coleções. Também permite enriquecer sua coleção com informações da internet. Você pode salvar onde adquiriu o item e registrar se emprestou o objeto a alguém. Além de mídias, é possível inventariar outros objetos. Se você se interessa por soluções open source, pode testar Data Crow e GCstar e comparar suas interfaces.
 
-### Nischen-Software für Sammler
+### Software de nicho para colecionadores
 
-Abgesehen von allgemeinen Open-Source-Sammlungsprogrammen existiert eine Vielzahl von Nischenprodukten. Sie können zum Beispiel mit **So Many Euros** Ihre Euro-Münzsammlung verwalten. **All My Books** beschäftigt sich nur mit Büchern. Bei **Nyagua** geht es um das Verwalten von Aquarien und Fischen. Die **Stamp Manager** App bietet einen umfangreichen digitalen Briefmarkenkatalog der Länder Deutschland, Österreich, Schweiz und Liechtenstein, mit dem man den Wert der eigenen Briefmarkensammlung schätzen kann. Diese App ist ein weiteres Beispiel dafür, was alles archiviert und gesammelt wird.
+Além dos programas open source, existem muitos produtos de nicho. Por exemplo, com o **So Many Euros** você gerencia sua coleção de moedas de euro. O **All My Books** é focado apenas em livros. O **Nyagua** é para gerenciar aquários e peixes. O aplicativo **Stamp Manager** oferece um catálogo digital abrangente de selos da Alemanha, Áustria, Suíça e Liechtenstein, permitindo estimar o valor da sua coleção de selos. Este app é mais um exemplo do que pode ser arquivado e colecionado.
 
-## SeaTable: Sammlungen verwalten mit der Power einer Datenbank
+## SeaTable: gerencie coleções com o poder de um banco de dados
 
-[SeaTable](https://de.wikipedia.org/wiki/SeaTable) wiederum ist ein digitales Tool, das nicht aus dem Sammler-Bereich stammt, aber ideal für das Verwalten von Sammlungen geeignet ist. Hier legen Sie übersichtliche Tabellen an, vergeben Labels, laden Bilder und Dokumente hoch, verwalten Kontakte und vermerken Leihgaben. Das Besondere an dieser Lösung ist die webbasierte Nutzung: Sie müssen keine Software oder App installieren, sondern können sich einfach auf der Webseite einloggen. Zudem liegen Ihre Daten in zertifizierten deutschen Rechenzentren. Die kostenlose Vorlage finden Sie [hier]({{< relref "templates/everyday-life/sneaker-collection" >}}).
+[SeaTable](https://de.wikipedia.org/wiki/SeaTable) é uma ferramenta digital que não foi criada especificamente para colecionadores, mas é ideal para gerenciar coleções. Nele, você cria tabelas organizadas, atribui etiquetas, faz upload de imagens e documentos, gerencia contatos e registra empréstimos. O diferencial desta solução é o uso web: não é preciso instalar software ou app, basta acessar o site. Além disso, seus dados ficam em data centers certificados na Alemanha. O modelo gratuito está disponível [aqui]({{< relref "templates/everyday-life/sneaker-collection" >}}).
 
-Wenn Sie zum Beispiel Schuhe sammeln, könnte Ihre Datenbank in SeaTable so aussehen:
+Se você coleciona tênis, por exemplo, seu banco de dados no SeaTable pode ser assim:
 
-[Registrieren Sie sich]({{< relref "pages/registration" >}}) mit Ihrer E-Mail-Adresse und beginnen Sie mit der kostenfreien Version, die für private Sammlungen völlig ausreicht. Benötigen Sie mehr Funktionen oder Speicherplatz, wechseln Sie zur Plus-Variante für 7 € pro Person pro Monat oder zur Enterprise-Version für 14 € pro User pro Monat.
+[Cadastre-se]({{< relref "pages/registration" >}}) com seu e-mail e comece com a versão gratuita, suficiente para coleções pessoais. Se precisar de mais funções ou espaço, mude para a versão Plus por €7 por pessoa/mês ou para a versão Enterprise por €14 por usuário/mês.
 
-## Fazit
+## Conclusão
 
-Für Sammler ist jedes einzelne Sammlerstück wertvoll. Die Übersicht behält man mit einer passenden App zur Sammlungsverwaltung oder einer allgemeinen Verwaltungssoftware, die sich für Sammlungen eignet.
+Para colecionadores, cada item é valioso. Você mantém a visão geral com um app de gerenciamento de coleções ou um software de gerenciamento geral adequado para coleções.
 
-Das Angebot an Sammlungssoftware ist so groß und unterschiedlich wie die Sammlungen, die es gibt. Sammeln Sie zum Beispiel Fische oder Oldtimer, finden Sie online das jeweils passende Verwaltungsprogramm. Möchten Sie hingegen ein und dasselbe Programm nutzen, um verschiedene Sammlungen zu verwalten, lohnen sich übersichtliche und vielseitige Programme wie SeaTable. Mit der [kostenfreien Version]({{< relref "pages/registration" >}}) managen Sie Ihre Sammlung effizient in intelligenten Tabellen.
+A oferta de softwares para coleções é tão grande e variada quanto as próprias coleções. Se você coleciona, por exemplo, peixes ou carros antigos, encontrará online o programa certo para cada caso. Se prefere usar um único programa para diferentes coleções, valem a pena soluções versáteis e organizadas como o SeaTable. Com a [versão gratuita]({{< relref "pages/registration" >}}), você gerencia sua coleção com eficiência em tabelas inteligentes.

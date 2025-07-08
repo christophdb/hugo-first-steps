@@ -1,5 +1,5 @@
 ---
-title: 'Verzweifelt im Homeoffice? Mit diesen Tipps klappt es! | SeaTable'
+title: 'Отчаялись работать дома? С этими советами все получится!'
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
@@ -10,36 +10,36 @@ seo:
     description:
 ---
 
-Die Coronakrise zwingt aktuell Millionen Menschen zum Arbeiten im Homeoffice. Die Umstellung auf die neue Situation fällt manchen leicht, viele haben jedoch auch damit zu kämpfen. Auch Sie wissen morgens nicht so richtig, wie sie anfangen sollen? Sie vergessen ständig die Mittagspause und essen stattdessen Ihre schnell geschmierten Brote vor dem PC? Wir geben Ihnen wertvolle Tipps und zeigen Ihnen Vorteile auf die Ihnen die Situation ganz bestimmt erleichtern.
+Коронакризис вынуждает сейчас миллионы людей работать из дома. Некоторым переход на новую ситуацию даётся легко, но многие сталкиваются с трудностями. Вам тоже по утрам сложно понять, с чего начать? Вы постоянно забываете о перерыве на обед и вместо этого едите наспех приготовленные бутерброды прямо за компьютером? Мы дадим вам ценные советы и расскажем о преимуществах, которые наверняка облегчат вам ситуацию.
 
-Sie sind Teamleiter und Fragen sich, wie Sie Ihre wöchentlichen Meetings am besten aus dem Homeoffice organisieren? Schauen Sie doch auch mal [hier]({{< relref "templates/projects/team-meetings" >}}) vorbei, wir haben das passende Template für Sie entwickelt!
+Вы руководитель команды и задаётесь вопросом, как лучше организовать еженедельные встречи из домашнего офиса? Загляните [сюда]({{< relref "templates/projects/team-meetings" >}}) — мы подготовили для вас подходящий шаблон!
 
-## 1\. Eine Routine am Morgen
+## 1\. Утренняя рутина
 
-Um einen Entscheidungsmüdikeit am Morgen zu vermeiden, etablieren Sie eine feste Morgenroutine. Stehen Sie immer zur gleichen Zeit auf und starten Sie Ihren Tag mit Dingen, die Ihnen guttun. Eine Runde Radfahren oder Joggen, ein Hörbuch hören oder etwas lesen. Jeder Mensch ist anders, finden Sie Ihren Weg! Vielen hilft es Ihnen auch, sich morgens wie gewohnt fertigzumachen, so als würden Sie tatsächlich ins Büro fahren. Jogginghose und Schlafanzug sollen ja schließlich in Zukunft nicht mit Arbeit assoziiert werden.
+Чтобы избежать утренней усталости от принятия решений, заведите себе постоянную утреннюю рутину. Вставайте всегда в одно и то же время и начинайте день с того, что приносит вам удовольствие: прокатитесь на велосипеде, пробегитесь, послушайте аудиокнигу или почитайте что-нибудь. Каждый человек индивидуален, найдите свой путь! Многим помогает утром собираться так, как будто они действительно идут в офис. Ведь спортивные штаны и пижама не должны ассоциироваться с работой.
 
-## 2\. Einen Raum zum Arbeiten schaffen
+## 2\. Организуйте рабочее пространство
 
-Für das Arbeiten von zuhause ist das Schaffen eines Arbeitsplatzes enorm wichtig. Wenn du über kein Arbeitszimmer verfügst, nutze [Raumtrenner](https://diy-family.com/diy-raumteiler-6-praktische-ideen/). Das können Bücherregale, Pflanzen, Vorhänge oder lediglich eine andere Wandfarbe sein. Die optische Trennung ist wichtig, so kommst du leichter in den Arbeitsmodus und kannst nach Feierabend auch wieder leichter abschalten.
+Для работы из дома крайне важно создать себе рабочее место. Если у вас нет отдельного кабинета, используйте [разделители пространства](https://diy-family.com/diy-raumteiler-6-praktische-ideen/): это могут быть книжные полки, растения, шторы или просто другая окраска стены. Визуальное разделение важно — так вы легче настроитесь на работу и сможете проще отключаться после окончания рабочего дня.
 
 ![Homeoffice](Bildschirmfoto-2020-09-08-um-11.37.16.png)
 
-## 3\. Frische Luft und Bewegung
+## 3\. Свежий воздух и движение
 
-Nicht nur direkt nach dem Aufstehen tut frische Luft und Bewegung gut, auch zwischendurch sind kleinere Bewegungspausen gut für die Konzentration. Haben Sie einen längeren Call? Probieren Sie doch mal währenddessen durch die Wohnung und sogar um den Block zu laufen. Die längere Kaffeepause mit den Kollegen entfällt im Homeoffice, also haben Sie stattdessen jetzt 5 Minuten Zeit, frische Luft zu schnappen.
+Свежий воздух и физическая активность полезны не только сразу после пробуждения, но и в течение дня — небольшие перерывы на движение помогают сохранять концентрацию. Долгий звонок? Попробуйте походить по квартире или даже выйти на улицу во время разговора. Длинные кофейные паузы с коллегами в домашнем офисе отпадают, зато у вас появляется 5 минут, чтобы подышать свежим воздухом.
 
-## 4\. Auch im Homeoffice gilt- Mittagspause einhalten!
+## 4\. Даже дома — не забывайте про обеденный перерыв!
 
-Sie hören sich selber sagen, dass Sie keine Zeit für eine Pause haben? Gerade dann sollte Sie eine machen! Wer regelmäßig Pausen macht, arbeitet konzentrierter und produktiver. Der Vorteil im Homeoffice- Sie können Ihre Pausen legen, wie Sie möchten. Statt einer langen Mittagspause empfehlen Experten nämlich mehrere kleine, intensive Pausen. Durch die erhöhten Zeiten vor dem Bildschirm werden unsere Augen mehr als sonst beansprucht und durch den fehlenden Arbeitsweg mangelt es uns an Bewegung. Stellen Sie sich kurz an das geöffnete Fenster und atmen mehrmals tief ein und aus. Schließen Sie zwischendurch für 2 Minuten die Augen, am besten mit einem gestellten Timer.
+Говорите себе, что у вас нет времени на перерыв? Именно тогда он вам особенно нужен! Те, кто регулярно делает перерывы, работают более сосредоточенно и продуктивно. Преимущество домашнего офиса — вы сами выбираете, когда делать паузы. Вместо одного длинного обеда эксперты советуют делать несколько коротких, но интенсивных перерывов. Из-за увеличенного времени перед экраном наши глаза устают больше обычного, а из-за отсутствия дороги на работу не хватает движения. Встаньте к открытому окну и несколько раз глубоко вдохните и выдохните. Закройте глаза на 2 минуты, лучше всего с таймером.
 
-## 5\. Regeln mit Mitbewohnern vereinbaren
+## 5\. Договоритесь о правилах с домашними
 
-Um unangenehme Situationen während Videocalls zu vermeiden, empfiehlt es sich, regeln mit Mitgliedern des Haushalts auszumachen. Wichtiges Beispiel: Tür zu heißt “Bitte nicht stören”.
+Чтобы избежать неловких ситуаций во время видеозвонков, договоритесь о правилах с членами семьи или соседями по квартире. Важно: закрытая дверь — значит «не беспокоить».
 
-## 6\. Fragen telefonisch klären
+## 6\. Вопросы решайте по телефону
 
-Nicht für jede kleine Frage braucht es eine Mail oder Messenger Nachricht. Rufen Sie die Kollegen doch einfach schnell an. Fragen werden schneller geklärt und außerdem hat man so wenigsten kleine soziale Kontakte.
+Не каждую мелочь стоит обсуждать по почте или в мессенджере. Просто позвоните коллеге — вопросы решаются быстрее, а заодно сохраняется хоть какой-то социальный контакт.
 
-### Sehen Sie es positiv- Homeoffice bietet Ihnen einige Vorteile
+### Смотрите на это позитивно — работа из дома даёт свои преимущества
 
-Auch wenn es zu Beginn schwerfällt, das Arbeiten von zuhause aus bietet durchaus einige Vorteile. Sie ersparen sich den Arbeitsweg und somit auch nervige Staus oder Verspätungen von Bus und Bahn. Am Ende des Tages bleibt Ihnen etwas mehr Freizeit. Außerdem sparen Sie sich das Geld für die Auto- oder Busfahrt. Auch der Lärmpegel ist zuhause meistens nicht so hoch. Gerade wenn Sie eigentlich im Großraumbüro arbeiten. Zusätzlich können Sie, wenn Sie keine strikt vorgegebenen Termine haben, nach Ihrem eigenen Biorhythmus arbeiten. Sie sind morgens um 5 Uhr bereits fit und könnten in den Arbeitstag starten? Im Homeoffice kein Problem.
+Даже если поначалу это сложно, работа из дома действительно имеет свои плюсы. Вы экономите время на дорогу, избегаете пробок и опозданий транспорта. В конце дня у вас остаётся чуть больше свободного времени. Вы также экономите деньги на поездках на машине или автобусе. Дома обычно и уровень шума ниже, особенно если вы привыкли к опенспейсу. Кроме того, если у вас нет жёстко заданного графика, вы можете работать в своём биоритме. Уже в 5 утра вы бодры и готовы к работе? В домашнем офисе это не проблема.

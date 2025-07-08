@@ -1,5 +1,6 @@
 ---
-title: 'Auslagenerstattung – Tipps für Arbeitgeber und Arbeitnehmer'
+title: 'Reembolso de despesas - conselhos para empregadores e empregados'
+description: 'Quer se trate de uma refeição de negócios, de um bilhete de comboio ou do telemóvel da empresa - faz regularmente pagamentos adiantados no trabalho e quer saber o que deve ter em conta quando reembolsa despesas? Ou é um empregador e está à procura de uma forma de tornar o processo de reembolso de despesas mais eficiente? Então encontrará neste artigo tudo o que precisa de saber e um modelo gratuito para o reembolso de despesas na sua empresa.'
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
@@ -14,79 +15,79 @@ tags:
 color: '#edb905'
 ---
 
-Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der **Auslagenerstattung** zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung für Ihre Mitarbeiter effizienter zu gestalten?
+Seja um jantar de negócios, uma passagem de trem ou um celular corporativo – você frequentemente antecipa despesas no trabalho e quer saber o que deve ser considerado na **restituição de despesas**? Ou você é empregador e procura uma forma de tornar o processo de reembolso de despesas para seus funcionários mais eficiente?
 
-Dieser Beitrag vermittelt Ihnen nicht nur alles Wissenswerte rund um das Thema Auslagenerstattung – er bietet Ihnen auch eine kostenlose [Vorlage]({{< relref "templates/human-resources/expenses-reimbursement" >}}), die Ihren Arbeitsalltag erleichtern kann.
+Este artigo não só apresenta tudo o que você precisa saber sobre o tema reembolso de despesas – como também oferece um [modelo gratuito]({{< relref "templates/human-resources/expenses-reimbursement" >}}) que pode facilitar seu dia a dia profissional.
 
-![Finanzen und Bürokratie](3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
+![Finanças e burocracia](3d-rendering-finanzgeschaeftskonzept-fuer-steuerzahlungen-711x533.jpg)
 
-Als Unternehmer ist es wichtig, den Überblick über alle Auslagen zu behalten.
+Como empresário, é importante manter o controle de todas as despesas.
 
-## Was Auslagenerstattung für Sie bedeutet
+## O que significa reembolso de despesas para você
 
-Das [Einkommensteuergesetz](https://www.gesetze-im-internet.de/estg/) definiert **Auslagen** als betriebliche Ausgaben, die Mitarbeiter **im Voraus** bezahlen und später vom Unternehmen zurückerhalten. Die Auslagenerstattung gewährleistet, dass Mitarbeiter nicht dauerhaft finanziell belastet werden, wenn sie **im Auftrag des Unternehmens** Ausgaben tätigen. Die genaue Abwicklung und die akzeptierten Ausgabenkategorien können sowohl gesetzlich als auch unternehmensintern geregelt werden.
+A [Lei do Imposto de Renda](https://www.gesetze-im-internet.de/estg/) define **despesas** como gastos empresariais que os funcionários pagam **antecipadamente** e depois recebem de volta da empresa. O reembolso de despesas garante que os funcionários não fiquem sobrecarregados financeiramente de forma permanente ao realizar **despesas a serviço da empresa**. O processo exato e as categorias de despesas aceitas podem ser regulamentados tanto por lei quanto internamente pela empresa.
 
-## Auslagenarten, die Sie kennen sollten
+## Tipos de despesas que você deve conhecer
 
-In den Paragraphen 4 und 5 des deutschen Einkommensteuergesetzes finden Sie die relevanten Regelungen bezüglich betrieblicher Ausgaben. Zum Beispiel können Sie Kosten, die im Zusammenhang mit **Dienstreisen** fällig werden, als Auslagen erstattet bekommen. Gleiches gilt für Aufwendungen, die sich aus der Erfüllung von Aufträgen oder der Erbringung von Dienstleistungen ergeben, wie etwa ein **Geschäftsessen** mit Ihren Kunden. Ebenso können Sie **Einkäufe** oder Bestellungen wie Büromaterial oder Obst für die Büroküche als erstattungsfähige Auslagen geltend machen.
+Nos parágrafos 4 e 5 da lei alemã do imposto de renda, você encontra as regras relevantes sobre despesas empresariais. Por exemplo, custos relacionados a **viagens a trabalho** podem ser reembolsados como despesas. O mesmo vale para gastos decorrentes do cumprimento de tarefas ou da prestação de serviços, como um **jantar de negócios** com seus clientes. Da mesma forma, **compras** ou pedidos como material de escritório ou frutas para a copa podem ser declarados como despesas reembolsáveis.
 
-![Arten der Auslagenerstattung](Pastel-Aesthetic-Minimalist-Lifestyle-Tips-List-Instagram-Post-2-711x711.png)
+![Tipos de reembolso de despesas](Pastel-Aesthetic-Minimalist-Lifestyle-Tips-List-Instagram-Post-2-711x711.png)
 
-Es gibt verschiedene Kosten, die Sie sich als Auslagen erstatten lassen können.
+Existem diversos custos que você pode ter reembolsados como despesas.
 
-## Auslagenerstattung vs. Durchlaufende Gelder
+## Reembolso de despesas vs. valores transitórios
 
-Haben Sie sich bereits mit der Auslagenerstattung auseinandergesetzt und sind über den Begriff **Durchlaufende Gelder** gestolpert? Dann haben Sie sich bestimmt gefragt, wo genau der Unterschied liegt. Prinzipiell gelten sowohl für die Auslagenerstattung als auch für Durchlaufende Gelder die gleichen Vorschriften. Der einzige Unterschied ist der **Zeitpunkt**, zu dem der Arbeitnehmer das Geld erhält.
+Você já se deparou com o termo **valores transitórios** ao pesquisar sobre reembolso de despesas? Então, provavelmente se perguntou qual é a diferença. Em princípio, as mesmas regras se aplicam tanto ao reembolso de despesas quanto aos valores transitórios. A única diferença é o **momento** em que o empregado recebe o dinheiro.
 
-- **Auslagenerstattungen**: Sie leisten zunächst Vorkasse und bekommen erst nach der Transaktion die Auslagen erstattet.
-- **Durchlaufende Gelder**: Sie müssen nicht im Voraus aus eigener Tasche zahlen, sondern erhalten die Mittel von Ihrem Betrieb, bevor Sie diese ausgeben.
+- **Reembolso de despesas**: Você faz o pagamento antecipado e só recebe o reembolso após a transação.
+- **Valores transitórios**: Você não precisa pagar do próprio bolso antecipadamente, pois recebe os valores da empresa antes de gastar.
 
-Durchlaufende Gelder werden in der Regel eher für **absehbare Ausgaben** genutzt, die in regelmäßigen Abständen anfallen, wohingegen Auslagenerstattungen eher für **einmalige Ausgaben** verwendet werden.
+Valores transitórios são geralmente usados para **despesas previsíveis** que ocorrem regularmente, enquanto o reembolso de despesas é mais comum para **gastos pontuais**.
 
-{{< warning headline="Sachbezug" text="Nutzt ein Mitarbeiter ein Produkt oder einen Gegenstand beruflich und privat, erhält er vom Unternehmen einen **Sachbezug**. Das kann beispielsweise ein Firmenauto oder ein Smartphone sein, das Sie auch in Ihrer Freizeit nutzen dürfen. Bis zu einem Betrag von 50 Euro im Monat ist der betreffende Gegenstand von der Steuer befreit." />}}
+{{< warning headline="Vantagem em espécie" text="Se um funcionário utiliza um produto ou item tanto para fins profissionais quanto pessoais, ele recebe da empresa uma **vantagem em espécie**. Isso pode ser, por exemplo, um carro da empresa ou um smartphone que também pode ser usado no tempo livre. Até um valor de 50 euros por mês, o item em questão é isento de impostos." />}}
 
-## Ausnahmefall: Pauschale Auslagenerstattung
+## Exceção: reembolso de despesas por valor fixo
 
-Unternehmen können die Erstattung von Auslagen auch mit einer **Pauschale** verrechnen. Unter diese Pauschalbeträge können zum Beispiel **Fahrt-, Verpflegungs- und Übernachtungskosten** fallen. Hier müssen Sie jedoch beachten, dass das Finanzamt die Höchstsätze festlegt. Die jährliche Höchstgrenze für Übernachtung und Verpflegung liegt bei 1.000 Euro. Wenn Sie diese überschreiten, ist eine genaue Auslagenerstattung sinnvoller als eine pauschale Auslagenerstattung.
+As empresas também podem reembolsar despesas com um **valor fixo**. Entre esses valores fixos podem estar, por exemplo, **custos de transporte, alimentação e hospedagem**. No entanto, é importante observar que a Receita Federal determina os limites máximos. O limite anual para hospedagem e alimentação é de 1.000 euros. Se você ultrapassar esse valor, um reembolso detalhado faz mais sentido do que um reembolso por valor fixo.
 
-![Menschen mit Aktentaschen und Koffern](19320-711x284.jpg)
+![Pessoas com pastas e malas](19320-711x284.jpg)
 
-Wenn Sie beruflich viel reisen, sollten Sie nicht auf die pauschale Auslagenerstattung zurückgreifen.
+Se você viaja muito a trabalho, não deve recorrer ao reembolso de despesas por valor fixo.
 
-## Bedingungen für steuer- und sozialabgabenfreie Auslagen
+## Condições para despesas isentas de impostos e contribuições sociais
 
-Auslagen gelten laut [§ 3 Nr. 50 EStG](https://www.gesetze-im-internet.de/estg/__3.html) als **steuer- und sozialabgabenfrei**. Um sicherzustellen, dass das Finanzamt die Aufwendungen als steuerfrei anerkennt, müssen Sie einige **Bedingungen** befolgen. Hier sind die wichtigsten im Überblick:
+Segundo o [§ 3 n.º 50 EStG](https://www.gesetze-im-internet.de/estg/__3.html), as despesas são consideradas **isentas de impostos e contribuições sociais**. Para garantir que a Receita reconheça os gastos como isentos, é preciso seguir algumas **condições**. Aqui estão as principais:
 
-- **Zweckgebundenheit**: Nur Ausgaben, die Sie im Namen und auf Kosten Ihres Unternehmens tätigen, zählen als Auslagen.
-- **Dokumentation**: Ihre Auslagen müssen Sie mit rechtsgültigen, originalen Rechnungen und Belegen nachweisen. Bei Beträgen bis zu 250 Euro genügt schon ein einfacher Beleg. Nach den aktuellen [GoBD-Richtlinien](https://ao.bundesfinanzministerium.de/ao/2021/Anhaenge/BMF-Schreiben-und-gleichlautende-Laendererlasse/Anhang-64/anhang-64.html) ist das Einscannen von Belegen ausdrücklich gestattet.
-- **Arbeitsmittel**: Die Auslagen müssen eindeutig betrieblich notwendig sein und dürfen keine privaten Gegenstände umfassen. Das Finanzamt vermutet bei unklarem Nachweis einen Sachbezug.
-- **Korrekte Verrechnung**: Die Verrechnung der Auslagen sollte ordnungsgemäß erfolgen, wobei auf dem Beleg oder der Rechnung jeder einzelne Posten separat ausgewiesen werden sollte.
-- **Pauschale Auslagenerstattung**: Regelmäßige Aufwendungen müssen Sie nachvollziehbar aufzeichnen, denn das Finanzamt gewährt einen Pauschalbetrag nur, wenn die Dokumentation über einen bestimmten Zeitraum gegeben ist.
+- **Finalidade específica**: Apenas despesas feitas em nome e por conta da empresa são consideradas reembolsáveis.
+- **Documentação**: Suas despesas devem ser comprovadas com notas fiscais e recibos originais e válidos. Para valores até 250 euros, um recibo simples já é suficiente. Segundo as atuais [diretrizes GoBD](https://ao.bundesfinanzministerium.de/ao/2021/Anhaenge/BMF-Schreiben-und-gleichlautende-Laendererlasse/Anhang-64/anhang-64.html), digitalizar recibos é expressamente permitido.
+- **Material de trabalho**: As despesas devem ser claramente necessárias para a empresa e não podem incluir itens pessoais. Caso contrário, a Receita pode presumir uma vantagem em espécie.
+- **Lançamento correto**: O lançamento das despesas deve ser feito corretamente, com cada item listado separadamente no recibo ou nota fiscal.
+- **Reembolso por valor fixo**: Gastos recorrentes devem ser registrados de forma compreensível, pois a Receita só concede um valor fixo se houver documentação adequada por um certo período.
 
-![Eine Frau steht vor einer Akte und ist mit der Auslagenerstattung überfordert](9276421-e1704291543704.jpg)
+![Uma mulher está diante de um arquivo e está sobrecarregada com o reembolso de despesas](9276421-e1704291543704.jpg)
 
-Die Auslagenerstattung kann Sie ohne gute Struktur schnell überfordern.
+Sem uma boa estrutura, o reembolso de despesas pode rapidamente sobrecarregar você.
 
-## Herausforderungen, die Sie bei der Auslagenerstattung meistern müssen
+## Desafios que você precisa superar no reembolso de despesas
 
-Die Auslagenerstattung birgt ihre eigenen Herausforderungen. Insbesondere der **bürokratische Aufwand** ist nicht zu unterschätzen – Belege und Dokumentationen häufen sich in den Ordnern an und beanspruchen **Platz**. Damit Sie vollständig abrechnen können, ist die akribische Vorlage jedes Belegs und jeder Rechnung erforderlich. Dabei besteht jedoch die Gefahr, dass die Nachweise schneller verloren gehen, als Ihnen lieb ist.
+O reembolso de despesas traz seus próprios desafios. Principalmente o **trabalho burocrático** não deve ser subestimado – recibos e documentos se acumulam nas pastas e ocupam **espaço**. Para fazer a prestação de contas completa, é necessário apresentar cada recibo e nota fiscal com precisão. No entanto, existe o risco de que esses comprovantes se percam rapidamente.
 
-{{< warning headline="Tipp" text="Sollten Sie doch mal einen Beleg verlieren, können Sie einen **Eigenbeleg** erstellen. Vor dieser Vorgehensweise empfiehlt es sich jedoch, Rücksprache mit Ihrem zuständigen Finanzamt zu halten, da hierfür keine generelle Anerkennungspflicht besteht." />}}
+{{< warning headline="Dica" text="Se você perder um recibo, pode criar um **recibo próprio**. Antes disso, recomenda-se consultar a Receita Federal responsável, pois não há obrigação geral de aceitação desse tipo de comprovante." />}}
 
-Der Prozess der Auslagenerstattung ist nicht nur **zeitaufwändig**, sondern auch **fehleranfällig**, besonders wenn er noch auf Papier stattfindet. Hier müssen Sie vollkommen bei der Sache sein, um nicht versehentlich einen Zahlendreher zu riskieren. Zusätzlich gibt es noch die **Formatvorgaben** des Finanzamts zu beachten, denn dieses akzeptiert nur zusammenhängende PDFs.
+O processo de reembolso de despesas não é apenas **demorado**, mas também **propenso a erros**, especialmente se ainda for feito em papel. É preciso estar totalmente atento para não cometer enganos nos números. Além disso, existem as **exigências de formato** da Receita, que só aceita PDFs contínuos.
 
-Unternehmen und Mitarbeiter müssen während der Auslagenerstattung **Ausdauer** und **Präzision** an den Tag legen, um die Herausforderung erfolgreich zu bewältigen. Es gibt jedoch keinen Grund zur Sorge, denn selbst im größten Wirrwarr aus Belegen und Formularen gibt es stets einen Lichtblick.
+Empresas e funcionários precisam de **persistência** e **precisão** durante o reembolso de despesas para superar o desafio com sucesso. Mas não se preocupe: mesmo no maior caos de recibos e formulários, sempre há uma luz no fim do túnel.
 
-## Welche Vorteile die digitale Auslagenerstattung für Sie hat
+## Quais as vantagens do reembolso digital de despesas
 
-Um die Auslagenerstattung einfacher und effizienter zu gestalten, ergibt es Sinn, auf digitale Methoden zurückzugreifen. So bewahren Sie nicht nur eine **bessere Übersicht** über alle getätigten Ausgaben, sondern verringern zusätzlich den Aufwand dank einer **schnelleren Erfassung**. Durch den Einsatz von digitalen Verfahren können Sie eine **geringere Fehleranfälligkeit** erzielen, da automatisierte Prozesse weniger Raum für menschliches Versagen lassen.
+Para tornar o reembolso de despesas mais simples e eficiente, faz sentido recorrer a métodos digitais. Assim, você mantém uma **visão geral melhor** de todos os gastos realizados e ainda reduz o esforço graças ao **registro mais rápido**. Com processos digitais, há **menos propensão a erros**, pois a automação reduz as falhas humanas.
 
-Ein weiterer Pluspunkt ist die **gesteigerte Transparenz**. Unternehmen können finanzielle Transaktionen durch die digitale Verfolgung ihrer Ausgaben besser nachvollziehen. Das lästige **Papierchaos**, das mit herkömmlichen Methoden oft einhergeht, entfällt vollständig. Die Umstellung auf eine digitale Auslagenerstattung sorgt für eine geordnete Aufbewahrung Ihrer relevanten Dokumente, die online von überall **zugänglich** sind.
+Outro ponto positivo é a **maior transparência**. As empresas podem acompanhar melhor as transações financeiras por meio do controle digital dos gastos. O incômodo **caos de papel** das formas tradicionais desaparece completamente. A migração para o reembolso digital garante o armazenamento organizado dos documentos relevantes, que ficam **acessíveis online** de qualquer lugar.
 
-## Kostenlose Vorlage zur Auslagenerstattung
+## Modelo gratuito para reembolso de despesas
 
-Wenn Sie den Schritt von einer analogen hin zu einer digitalen Auslagenerstattung gehen möchten, stellt die [kostenlose Vorlage]({{< relref "templates/human-resources/expenses-reimbursement" >}}) von SeaTable eine hervorragende Option für Sie dar.
+Se você quer migrar do reembolso analógico para o digital, o [modelo gratuito]({{< relref "templates/human-resources/expenses-reimbursement" >}}) da SeaTable é uma excelente opção.
 
-Sie können Ihre Auslagen in die Tabelle eintragen und diese per Mausklick in **eigens festgelegte Kategorien** wie Büroausstattung, Reisekosten oder Geschäftsessen einordnen. Die Mitarbeiter können **digitale Belege und Rechnungen** direkt in der Tabelle ablegen und so sicherstellen, dass kein Nachweis mehr verloren geht. Außerdem sehen Sie auf einen Blick, welche Auslagen Sie bereits erstattet haben und welche noch ausstehen. Nach der Erstattung können Sie mühelos Dokumente erstellen, in denen Sie die Rückerstattung bestätigen. Anhand der **Statistiken** erkennen Sie auf einen Blick, welche Kosten am häufigsten anfallen und welche Sie vielleicht sogar senken können.
+Você pode registrar suas despesas na planilha e classificá-las com um clique em **categorias personalizadas** como equipamentos de escritório, despesas de viagem ou refeições de negócios. Os funcionários podem anexar **recibos e notas digitais** diretamente na tabela, garantindo que nenhum comprovante se perca. Além disso, você vê facilmente quais despesas já foram reembolsadas e quais ainda estão pendentes. Após o reembolso, é possível gerar documentos confirmando a restituição. Com as **estatísticas**, você identifica rapidamente quais custos ocorrem com mais frequência e onde talvez possa economizar.
 
-[Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}) auf SeaTable und verwenden Sie die Vorlage nach Ihren Wünschen und Bedürfnissen. Behalten Sie den Überblick über Ihre Auslagenerstattung und minimieren Sie erfolgreich Ihren Aufwand im Arbeitsalltag. [Hier gelangen Sie zur Vorlage.]({{< relref "templates/human-resources/expenses-reimbursement" >}})
+[Cadastre-se gratuitamente]({{< relref "pages/registration" >}}) na SeaTable e use o modelo conforme suas necessidades. Mantenha o controle do seu reembolso de despesas e reduza com sucesso o esforço no seu dia a dia de trabalho. [Clique aqui para acessar o modelo.]({{< relref "templates/human-resources/expenses-reimbursement" >}})

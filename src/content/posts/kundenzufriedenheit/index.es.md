@@ -40,7 +40,7 @@ Un cuestionario NPS creado con SeaTable. Pruebe nuestra [plantilla N]({{< relref
 
 ### Cálculo del NPS (Net Promoter Score)
 
-El cálculo posterior de la Net-Promoter-Scores es sencillo. Los clientes que responden se dividen primero en dos categorías: los _Promoter_a veces llamados abanicos, y el \_Detractors, häufig auch als Kritiker bezeichnet. Dabei sind Promoter diejenigen, die mit 10 oder 9 geantwortet haben, und die Kritiker jene, die 0 bis 6 angegeben haben. Personen mit einer 7 oder 8 werden als Passive bezeichnet._
+El cálculo posterior del Net Promoter Score es sencillo. Los clientes que responden se dividen primero en dos categorías: los _promotores_, a veces también llamados fans, y los _detractores_, a menudo también llamados críticos. Los promotores son los que han respondido con un 10 o un 9, y los detractores son los que han dado de 0 a 6. Las personas con un 7 u 8 se denominan pasivas.
 
 Ahora tome el porcentaje de promotores y réstele el porcentaje de detractores. El resultado es su NPS como un valor entre -100 y 100. Un valor positivo de NPS muestra que tiene más clientes satisfechos que insatisfechos. Por supuesto, lo que es una buena puntuación de NPS para su empresa depende de su sector, pero normalmente una puntuación de NPS de 30 o superior se considera muy buena.
 

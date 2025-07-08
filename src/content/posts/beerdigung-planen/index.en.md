@@ -1,5 +1,5 @@
 ---
-title: 'Beerdigung planen – für einen würdevollen Abschied'
+title: 'Planning a funeral - for a dignified farewell'
 description: Have you lost a loved one and want to ensure that the upcoming funeral goes smoothly? Or would you like to plan your own funeral to ease the burden on your loved ones after your death? This article provides you with all the important information you need to know about organizing a funeral.
 date: 2023-08-17
 lastmod: '2024-01-25'
@@ -15,185 +15,185 @@ tags:
 color: '#a59ecd'
 ---
 
-Sie haben einen geliebten Menschen verloren und möchten die anstehende Beerdigung reibungslos hinter sich bringen? Oder Sie möchten Ihre eigene Beerdigung planen, um Ihre Angehörigen nach Ihrem Tod zu entlasten? Dieser Artikel liefert Ihnen alle wichtigen Informationen, was Sie rund um die Organisation einer Bestattung beachten sollten.
+You’ve lost a loved one and want to handle the upcoming funeral as smoothly as possible? Or perhaps you want to plan your own funeral to relieve your family after your passing? This article provides you with all the important information you need to know about organizing a funeral.
 
-{{< faq "Was kostet eine Beerdigung?" >}}
+{{< faq "How much does a funeral cost?" >}}
 
-Die Kosten für eine Beerdigung können zwischen wenigen Tausend und mehreren Zehntausend Euro schwanken. Eine durchschnittliche Beerdigung in Deutschland kostet rund 13.000 Euro. Wo Sie bei den Kosten gegebenenfalls sparen können, erfahren Sie im Artikel.
+The cost of a funeral can range from a few thousand to several tens of thousands of euros. An average funeral in Germany costs around €13,000. Find out where you might be able to save costs in the article.
 {{< /faq >}}
 
-{{< faq "Wo kann man sich bestatten lassen?" >}}
+{{< faq "Where can you be buried?" >}}
 
-In Deutschland sind im Grunde nur zwei Bestattungsarten erlaubt: Erd- und Feuerbestattung. Allerdings stehen einige Orte zur Auswahl, an denen der Leichnam oder die Asche beigesetzt werden kann. Dazu zählen Friedhöfe, Kolumbarien oder ausgewählte Gebiete in der Natur. Mehr dazu erfahren Sie im entsprechenden Kapitel.
+In Germany, only two types of burial are generally permitted: burial in the ground and cremation. However, there are several places where the body or ashes can be interred, including cemeteries, columbaria, or selected natural areas. Learn more in the relevant chapter.
 {{< /faq >}}
 
-{{< faq "Welche Dokumente braucht man für eine Beerdigung?" >}}
+{{< faq "What documents are needed for a funeral?" >}}
 
-Unter anderem benötigen Sie den Personalausweis des Verstorbenen, die Geburts- und Heiratsurkunde sowie den Totenschein und die Sterbeurkunde. Wie Sie diese Dokumente beschaffen, erfahren Sie ebenfalls im Artikel.
+Among other things, you’ll need the deceased’s ID card, birth and marriage certificates, as well as the death certificate and medical certificate. The article also explains how to obtain these documents.
 {{< /faq >}}
 
-{{< faq "Muss man einen Bestatter beauftragen?" >}}
+{{< faq "Do you have to hire a funeral director?" >}}
 
-Ja. In Deutschland ist gesetzlich vorgeschrieben, dass bestimmte Tätigkeiten wie die Überführung des Leichnams nur von einem Bestatter ausgeführt werden dürfen.
+Yes. In Germany, it is legally required that certain tasks, such as the transport of the body, can only be performed by a funeral director.
 {{< /faq >}}
 
-{{< faq "Wen sollte man zur Beerdigung einladen?" >}}
+{{< faq "Who should be invited to the funeral?" >}}
 
-Über den Tod eines geliebten Menschen sollten Sie so schnell wie möglich alle Bezugspersonen informieren. Dazu gehören Verwandte, Freunde, Bekannte, Nachbarn und Arbeitskollegen. Ob Sie die Trauerfeier lieber im kleinen Kreis abhalten möchten oder über eine Todesanzeige die gesamte Trauergemeinde zur Bestattung einladen, bleibt Ihnen überlassen.
+You should inform all close contacts of the deceased as soon as possible. This includes relatives, friends, acquaintances, neighbors, and coworkers. Whether you want to hold the funeral in a small circle or invite the entire mourning community via an obituary is up to you.
 
 {{< /faq >}}
 
-## Gute Gründe, bereits vor dem Tod eine Beerdigung zu planen
+## Good Reasons to Plan a Funeral in Advance
 
-Der Tod einer nahestehenden Person ist für Angehörige mit viel **Trauer** verbunden. In dieser emotional belastenden Zeit fällt es vielen Menschen nicht leicht, sich um die Beerdigung zu kümmern. Bei plötzlichen Todesfällen wissen die Angehörigen oft nicht einmal, wie sich der oder die Verstorbene die eigene Bestattung vorgestellt hätte.
+The death of a loved one is accompanied by great **grief** for family and friends. In this emotionally stressful time, it’s hard for many to take care of the funeral arrangements. In cases of sudden death, family members often don’t even know how the deceased wanted their own funeral to be.
 
-![Eine Beerdigung auf einem Friedhof](rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
+![A funeral at a cemetery](rhodi-lopez-Cxpqnzd3Psg-unsplash-min.jpg)
 
-Eine klassische Beerdigung auf einem Friedhof ist für viele immer noch die erste Wahl.
+A traditional cemetery funeral is still the first choice for many.
 
-Aus diesem Grund sollten Sie bereits zu Lebzeiten offen mit Familie und Freunden über die Themen Tod und Beerdigung sprechen. So können Sie nicht nur Ihre eigenen Wünsche äußern, sondern auch die Ideen Ihrer Angehörigen zur Kenntnis nehmen und verhindern, dass Sie mit der Gestaltung einer Beerdigung nicht den Wünschen der verstorbenen Person gerecht werden.
+For this reason, you should talk openly with family and friends about death and funerals while you’re still alive. This way, you can express your own wishes, learn about your loved ones’ ideas, and ensure that the funeral arrangements reflect the deceased’s wishes.
 
-## Verantwortliche für die Beerdigung bestimmen
+## Designate Those Responsible for the Funeral
 
-Damit im Todesfall kein Chaos ausbricht, sollten Sie zuvor klären, wer sich um die Bestattung und die Abwicklung Ihrer Rechtsgeschäfte kümmern soll. Entscheiden Sie sich für eine oder mehrere **Personen Ihres Vertrauens**. Dies können nahe Verwandte wie Ehepartner, Kinder oder Geschwister, aber auch enge Freunde sein.
+To avoid chaos in the event of death, you should clarify in advance who will handle the funeral and your legal affairs. Choose one or more **trusted people**—these can be close relatives like a spouse, children, or siblings, but also close friends.
 
-{{< warning headline="Wichtiger Hinweis" text="Vergessen Sie nicht, Ihren Vertrauenspersonen eine [Vollmacht](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) zu erteilen, mit der sie nach Ihrem Tod unter anderem Zugriff auf Ihre Konten erhalten. Ansonsten sind die Verantwortlichen eventuell nicht handlungsfähig, da sie Wochen bis Monate auf die Eröffnung des Testaments oder die Erteilung eines Erbscheins warten müssen." />}}
+{{< warning headline="Important Note" text="Don’t forget to give your trusted people a [power of attorney](https://www.anwalt-suchservice.de/rechtstipps/vollmachten_im_todesfall_27729.html) so they can access your accounts after your death. Otherwise, they may not be able to act, as they could wait weeks or months for the will to be read or a certificate of inheritance to be issued." />}}
 
-![Eine Beerdigung planen – in Ernstfall wissen Betroffene oft nicht, womit sie anfangen sollen.](the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
+![Planning a funeral – in an emergency, many don’t know where to start.](the-good-funeral-guide-ywng9abeJLo-unsplash-min.jpg)
 
-Eine Beerdigung planen – in Ernstfall wissen Betroffene oft nicht, womit sie anfangen sollen.
+Planning a funeral – in an emergency, many don’t know where to start.
 
-Damit Ihre Bestattung genauso abläuft, wie Sie es sich vorstellen, sollten Sie das offene Gespräch mit Ihren Vertrauenspersonen suchen und sie in all Ihre Wünsche einweihen. Eine **frühzeitige Planung** und **finanzielle Vorsorge** Ihrerseits kann Ihre Angehörigen stark entlasten. Nicht zuletzt, weil diese in Deutschland gemäß der gesetzlichen Totenfürsorge dazu verpflichtet sind, eine angemessene Bestattung zu veranlassen.
+To ensure your funeral goes as you wish, have an open conversation with your trusted people and share your wishes. **Early planning** and **financial arrangements** can greatly relieve your family—not least because, in Germany, family is legally obliged to arrange a proper burial.
 
-## Bestattungsart und -ort wählen
+## Choose the Type and Place of Burial
 
-Die Wahl einer Bestattungsart hängt direkt mit dem Ort zusammen, an dem Sie oder die verstorbene Person beerdigt werden möchten. Dies ist die zentrale Entscheidung, die Sie treffen müssen. Aus ihr ergibt sich im Anschluss die gesamte weitere Planung.
+The type of burial is directly linked to the place where you or the deceased want to be laid to rest. This is the central decision you must make, as it determines the rest of the planning.
 
-**In Deutschland erlaubte Bestattungsarten sind:**
+**Burial options allowed in Germany include:**
 
-- Eine klassische Beerdigung auf einem Friedhof
-- Eine Feuerbestattung mit anschließender Urnenbeisetzung im Kolumbarium
-- Eine Einäscherung mit anschließender Naturbestattung (z. B. im Ruheforst oder in ausgewiesenen Gebieten auf See)
+- A traditional burial at a cemetery
+- Cremation with subsequent urn burial in a columbarium
+- Cremation with subsequent natural burial (e.g., in a forest cemetery or designated areas at sea)
 
-Vielleicht gibt es Verwandte oder Freunde, neben denen Sie gerne Ihre letzte Ruhe finden würden? Dann könnte sich auch ein Gemeinschaftsgrab anbieten. Abgesehen von Friedhöfen erfreuen sich alternative Ruhestätten in der Natur mittlerweile wachsender Beliebtheit.
+Maybe you have relatives or friends you’d like to be buried near? Then a shared grave might be an option. Besides cemeteries, alternative natural resting places are becoming increasingly popular.
 
-![Waldweg](maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
+![Forest path](maksim-shutov-H8vhhepiiaU-unsplash-min.jpg)
 
-Eine friedliche letzte Ruhe in der Natur wird immer beliebter.
+A peaceful final resting place in nature is becoming more and more popular.
 
-Bestattungen sind in Deutschland aber keineswegs überall erlaubt, sondern nur auf genehmigten Flächen!
+However, burials in Germany are only permitted on approved sites!
 
-{{< warning headline="Achtung" text="**Nicht erlaubt** ist es zum Beispiel, Verstorbene im eigenen Garten zu beerdigen oder die Asche mit nach Hause zu nehmen. In Deutschland ist es ebenso verboten, aus der Asche von Verstorbenen künstliche Diamanten zu erzeugen, die Asche bei einem Feuerwerk in den Nachthimmel zu schießen oder sie mit einer Rakete in den Weltraum zu befördern." />}}
+{{< warning headline="Attention" text="**Not allowed**: For example, you cannot bury someone in your own garden or take the ashes home. In Germany, it’s also forbidden to turn ashes into synthetic diamonds, launch them into the night sky with fireworks, or send them into space with a rocket." />}}
 
-Sprechen Sie mit Ihren Angehörigen, wie diese Sie gerne in Erinnerung behalten würden. Bei der Frage, wie man sich an einen geliebten Menschen erinnern möchte, gehen die Meinungen nämlich weit auseinander: Manche bevorzugen ein Grab als Ort des Gedenkens, manche einen persönlichen Gegenstand oder Fotos als Andenken an die verstorbene Person; und wieder andere tun jedes Jahr am Todestag etwas, das sie an die gemeinsame Zeit erinnert.
+Talk to your family about how they would like to remember you. People’s opinions on how to remember a loved one vary greatly: Some prefer a grave as a place of remembrance, others a personal item or photos, and some do something special on the anniversary each year to remember the time spent together.
 
-## Kosten für die Beerdigung planen
+## Plan the Funeral Costs
 
-Die Kosten für eine Bestattung können sehr unterschiedlich ausfallen. Denn sie hängen unter anderem von der Bestattungsart, der Gestaltung der Trauerfeier und den individuellen Preisen des Bestatters ab. Eine **durchschnittliche Beerdigung** kostet in Deutschland circa 13.000 Euro. Wie teuer eine Beerdigung tatsächlich ist, haben Sie aber selbst in der Hand. Von wenigen Tausend Euro für eine anonyme Feuerbestattung bis hin zu mehreren Zehntausend Euro für eine Erdbestattung mit Grabmal und großer Trauerfeier ist alles dabei.
+The cost of a funeral can vary greatly. It depends on the type of burial, the design of the ceremony, and the funeral director’s prices. An **average funeral** in Germany costs about €13,000. But how expensive a funeral actually is depends on your choices. From a few thousand euros for an anonymous cremation to tens of thousands for a burial with a headstone and large ceremony, anything is possible.
 
-Am teuersten ist die klassische Beerdigung auf einem Friedhof. Ein großer Teil der Bestattungskosten entfällt dabei auf den **Sarg**, den **Grabstein** und die Nutzungsgebühren für eine **Grabstelle**. Jeder dieser drei Kostenpunkte kann sich auf mehrere Tausend Euro belaufen. Diese Kosten – wie auch die anschließende Grabpflege – können Sie sich bei einer Einäscherung mit Naturbestattung sparen.
+The most expensive is the traditional cemetery burial. The largest portion of the costs goes to the **coffin**, **headstone**, and plot fees. Each of these can cost several thousand euros. You can save on these costs—and on future grave maintenance—by choosing cremation with a natural burial.
 
-![Gräber auf einem Friedhof](michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
+![Graves at a cemetery](michael-kroul-5ZUeGxo1OM-unsplash-min.jpg)
 
-Urne oder Sarg? Die Art der Beerdigung spielt für die Kosten des Grabs eine große Rolle.
+Urn or coffin? The type of burial has a big impact on the cost of the grave.
 
-Die Gebühren für ein Grab unterscheiden sich zudem je nach Friedhof, Lage und Größe eines Grabs. Auch wenn Sie an einigen Stellschrauben drehen können, bedeutet eine Beerdigung oft hohe Kosten für die Angehörigen. Deshalb sollten Sie vor Ihrem Tod idealerweise Geld ansparen, das die absehbaren Kosten für Ihre Wünsche abdeckt.
+Grave fees also vary by cemetery, location, and size. Even if you can adjust some factors, funerals often mean high costs for family. That’s why you should ideally save money before your death to cover your wishes.
 
-## Die Dokumente für die Beerdigung beschaffen
+## Obtain the Necessary Documents
 
-Damit eine verstorbene Person beerdigt werden kann, benötigen Sie unter anderem folgende Dokumente:
+To bury a deceased person, you’ll need the following documents, among others:
 
-- **Personalausweis**
-- **Geburts- und Heiratsurkunde**
-- **Totenschein und Sterbeurkunde**
+- **ID card**
+- **Birth and marriage certificates**
+- **Death certificate and medical certificate**
 
-Während man Personalausweis, Geburts- und Heiratsurkunde bereits zu Lebzeiten besitzt, erhalten die Angehörigen die Sterbeurkunde und den Totenschein erst nach dem Tod. Üblicherweise läuft die Beschaffung der Dokumente in drei Schritten ab:
+While you already have the ID, birth, and marriage certificates during your lifetime, the family receives the death certificate and medical certificate only after death. Usually, obtaining these documents involves three steps:
 
-1. Den Totenschein stellt der Arzt aus, der die Leichenschau vornimmt.
-2. Die Sterbeurkunde müssen die Angehörigen beim zuständigen Standesamt beantragen, sobald sie den Totenschein haben.
-3. Erst wenn alle genannten Dokumente vorliegen, kann man einen Bestatter beauftragen, der die Beerdigung anmeldet und durchführt.
+1. The doctor who examines the body issues the medical certificate.
+2. The family applies for the death certificate at the registry office once they have the medical certificate.
+3. Only when all these documents are available can a funeral director be hired to register and carry out the funeral.
 
-Diese Prozedur können Sie Ihren Angehörigen nicht ersparen, Sie können aber alle anderen Dokumente an einem sicheren Ort hinterlegen. Ebenso können Sie Ihren letzten Willen in einem **Testament** regeln, das Sie bei den Dokumenten deponieren. Wie oben erwähnt, sollten Sie auch an eine **Vollmacht** für Ihre Vertrauenspersonen denken. Zudem kann es Sinn ergeben, dass Sie Ihre Wünsche für Beerdigung und Trauerfeier in einer **Bestattungsverfügung** festhalten. Teilen Sie den Personen Ihres Vertrauens auf jeden Fall mit, wo sich diese Dokumente befinden.
+You can’t spare your family this process, but you can store all other documents in a safe place. You can also specify your last will in a **will** kept with your documents. As mentioned above, you should also give your trusted people a **power of attorney**. It may also make sense to record your wishes for the funeral and ceremony in a **funeral directive**. Be sure to tell your trusted people where these documents are.
 
-## Ein Bestattungsunternehmen beauftragen
+## Hire a Funeral Director
 
-Ohne einen Bestatter kann man in Deutschland keine Verstorbenen beerdigen lassen. Beispielsweise ist in den meisten Bundesländern gesetzlich vorgeschrieben, dass der Leichnam vom Sterbeort zu einem Bestatter – und von dort zur letzten Ruhestätte – überführt werden muss.
+In Germany, you cannot bury a deceased person without a funeral director. In most states, it’s legally required that the body be transported from the place of death to a funeral home—and from there to the final resting place.
 
 ![](adrianna-geo-JWlZS708L1Y-unsplash-min.jpg)
 
-**Weitere Bestattungsleistungen sind:**
+**Other funeral services include:**
 
-- die Versorgung und/oder Einäscherung des Leichnams
-- die Organisation der Bestattung inklusive aller Formalitäten
-- die Beschaffung von Sarg oder Urne
-- individuelle Leistungen und Beratung
+- Preparing and/or cremating the body
+- Organizing the funeral, including all formalities
+- Procuring a coffin or urn
+- Individual services and advice
 
-Allein für die Basis-Leistungen eines Bestatters sollten Sie mindestens 3.000 Euro einplanen. Bevor Sie ein Bestattungsunternehmen beauftragen, lohnt es sich sicherlich, mehrere Angebote einzuholen und diese miteinander zu vergleichen. Wählen Sie letztlich aber den Bestatter aus, bei dem Sie das beste Bauchgefühl haben. Nichts ist schmerzlicher als ein pietätloser Bestatter oder eine misslungene Beerdigung für einen geliebten Menschen. Ein würdevoller Abschied sollte im Zweifel wichtiger sein als ein paar Hundert Euro mehr oder weniger.
+For basic funeral director services alone, you should budget at least €3,000. Before hiring a funeral director, it’s worth getting several quotes and comparing them. Ultimately, choose the one you feel best about. Nothing is worse than an insensitive funeral director or a botched funeral for a loved one. A dignified farewell should always be worth a few hundred euros more or less.
 
-## Die Trauerfeier für die Beerdigung planen
+## Plan the Funeral Ceremony
 
-Wenn die verstorbene Person ihre Wünsche geäußert oder schriftlich festgehalten hat, müssen Sie die Planung der Trauerfeier nur noch umsetzen. Falls nicht, planen Sie die Trauerfeier so, wie es aus Ihrer Sicht den Vorstellungen der Person am nächsten kommt. Sollte die Person in einer Kirche oder Religionsgemeinschaft gewesen sein, kann diese eine gewisse **Zeremonie** für die Beerdigung vorgeben.
+If the deceased expressed their wishes, you only need to implement them. If not, plan the ceremony as you believe would best reflect their wishes. If the person belonged to a church or religious community, there may be a specific **ceremony** required.
 
-### Trauerredner engagieren
+### Hire a Funeral Speaker
 
-Trauerfeiern werden in der Regel von einem unabhängigen Redner oder einem Geistlichen der zuständigen Kirchengemeinde begleitet. Kontaktieren Sie frühzeitig einen passenden Trauerredner und sprechen Sie mit ihm über den Ablauf der Trauerfeier. Üblicherweise wird er in seiner **Rede** auf das Leben der verstorbenen Person eingehen und benötigt dazu ausführliche Informationen und genug Vorbereitungszeit.
+Funeral ceremonies are usually led by an independent speaker or a clergy member from the local church. Contact a suitable funeral speaker early and discuss the ceremony with them. They will typically talk about the deceased’s life and will need detailed information and enough time to prepare.
 
-![Trauerredner für die Beerdigung](the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
+![Funeral speaker](the-good-funeral-guide-xWoYwQDo_1I-unsplash.jpg)
 
-Priester, Pastorin oder freier Redner: Was passt zu Ihrer geplanten Beerdigung?
+Priest, pastor, or secular speaker: What fits your planned funeral?
 
-Ein Geistlicher hält die Trauerfeier normalerweise kostenlos ab, wohingegen ein freier Redner ein Honorar auf Stundenbasis erhält. Einen **professionellen Redner**, der die Trauerfeier individuell mit Ihnen gestaltet, können Sie schon für einige Hundert Euro engagieren.
+A clergy member usually conducts the ceremony for free, while an independent speaker charges an hourly fee. A **professional speaker** who tailors the ceremony with you can be hired for a few hundred euros.
 
-### Ort und Ablauf einer Trauerfeier
+### Location and Structure of the Ceremony
 
-In den meisten Fällen findet vor der Beerdigung eine Trauerfeier nahe der letzten Ruhestätte (z. B. auf einem Friedhof) in einer Kapelle oder Trauerhalle statt. Sie können die Trauerfeier aber auch unabhängig von der eigentlichen Beisetzung, etwa im Bestattungsinstitut oder an einem völlig anderen Ort abhalten. Ein Bestatter verfügt üblicherweise über die entsprechenden Kontakte in seiner Region, um die **Nutzung der Räumlichkeiten** zu koordinieren.
+Usually, the funeral ceremony takes place before the burial near the final resting place (e.g., at a cemetery) in a chapel or funeral hall. You can also hold the ceremony separately from the burial, such as at the funeral home or another location. Funeral directors usually have the contacts to coordinate **use of the venue**.
 
-Fragen Sie rechtzeitig bei den Angehörigen nach, ob sie **aktiv** zur Trauerfeier beitragen möchten. Beispielsweise könnten sie einige Worte an die verstorbene Person richten oder ein Gedicht vorlesen. Bei religiösen Trauerfeiern können zudem **Gebete** gesprochen werden. Spielen Sie auf der Trauerfeier **Musik**, welche die verstorbene Person mochte. Viele Trauerhallen verfügen über gute Stereoanlagen oder sogar ein Klavier. Falls einige Angehörige musikalisch und emotional dazu in der Lage sind, können Sie auch gemeinsam Instrumente spielen und singen.
+Ask family members in advance if they want to **actively participate** in the ceremony. For example, they might say a few words or read a poem. At religious ceremonies, **prayers** can be included. Play **music** the deceased enjoyed. Many funeral halls have good sound systems or even a piano. If some family members are musically and emotionally able, you can play instruments and sing together.
 
-![Liederheft für die Beerdigung](david-beale-gOsGgt4olNs-unsplash-min.jpg)
+![Song booklet for the funeral](david-beale-gOsGgt4olNs-unsplash-min.jpg)
 
-Musik und Gesang können auf einer Trauerfeier Trost spenden.
+Music and singing can bring comfort at a funeral.
 
-Oft kommt die Trauergemeinde auch nach der Beerdigung noch einmal zum sogenannten **Leichenschmaus in einem Restaurant oder Café** zusammen. Dies ist vor allem sinnvoll, wenn viele Trauergäste von weither angereist sind. Wenn Sie dies anbieten möchten, sollten Sie frühzeitig Tische in einer Gaststätte reservieren und die gewünschten Speisen und Getränke mit dem Wirt absprechen.
+Often, the mourners gather after the funeral for a **funeral meal at a restaurant or café**. This is especially useful if many guests have traveled from afar. If you want to offer this, reserve tables early and discuss the menu with the restaurant.
 
-### Trauerkränze, Blumen und Dekoration
+### Wreaths, Flowers, and Decorations
 
-Bei einer Trauerfeier mit anschließender Beisetzung steht die Urne oder der Sarg des Verstorbenen meist gut sichtbar im Raum. Daneben können Sie ein schönes **gerahmtes Foto** der verstorbenen Person aufstellen. Damit der restliche Raum nicht karg und leer wirkt, bieten sich **Trauerkränze und Blumenschmuck** an. Für die Dekoration können Sie einen Floristen beauftragen, was je nach Ihren Vorstellungen allerdings teuer werden kann.
+At a funeral with a burial, the urn or coffin is usually prominently displayed. You can also place a nice **framed photo** of the deceased nearby. To avoid an empty-looking room, use **wreaths and floral arrangements**. You can hire a florist for the decorations, though this can be expensive depending on your wishes.
 
-![Blumenschmuck für die Beerdigung](strauss-western-5a3eFHcGl9U-unsplash-min.jpg)
+![Floral arrangements for the funeral](strauss-western-5a3eFHcGl9U-unsplash-min.jpg)
 
-Oftmals beteiligen sich die anderen Angehörigen sehr gerne an der Beschaffung von Trauerkränzen oder Gestecken und es kommt eine ansehnliche Blumenpracht zusammen. Falls Sie später ein Grab bepflanzen möchten, sind **Blumenschalen** mit Setzlingen eine gute Idee. In der Regel kümmert sich der Bestatter darum, dass Trauerkränze und Blumenschmuck nach der Trauerfeier ans Grab gelegt werden.
+Often, other family members are happy to help provide wreaths or arrangements, resulting in a beautiful display. If you want to plant a grave later, **planters with seedlings** are a good idea. Usually, the funeral director ensures that wreaths and flowers are placed on the grave after the ceremony.
 
-### Trauerkleidung und Atmosphäre
+### Mourning Attire and Atmosphere
 
-Die traditionelle Trauerkleidung unterscheidet sich von Kultur zu Kultur: In Europa und der westlichen Welt ist **Schwarz**, in Asien vor allem **Weiß** die Farbe der Trauer – und anderswo darf es sogar farbenfroh zugehen. In Deutschland muss die Kleidung bei einer Beerdigung heute nicht mehr schwarz sein, oft wird aber **dezente Kleidung** in gedeckten Farben und weiten Schnitten erwartet – zum Beispiel ein dunkelblauer Anzug mit weißem Hemd, ein einfarbiger Pullover mit schwarzer Hose oder ein Kleid, das nicht zu eng anliegt und nicht zu viel Haut zeigt.
+Traditional mourning attire varies by culture: In Europe and the West, **black** is typical; in Asia, **white** is the color of mourning; elsewhere, it can be colorful. In Germany, black is no longer required, but **subdued, conservative clothing** is expected—such as a dark blue suit with a white shirt, a plain sweater with black pants, or a dress that isn’t too tight or revealing.
 
-![Trauerkleidung für die Beerdigung](the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
+![Mourning attire for the funeral](the-good-funeral-guide-Tm4zF1XI4Uc-unsplash-min.jpg)
 
-Trauerkleidung ist aber kein Muss. Auch unkonventionelle oder heitere Trauerfeiern sind erlaubt, wenn sich der Verstorbene statt **Trauerstimmung** gewünscht hat, dass man ihn und sein Leben feiert. Planen Sie die Trauerfeier also losgelöst von Traditionen und ganz nach den Wünschen des Verstorbenen.
+Mourning attire isn’t mandatory. Unconventional or even cheerful funerals are allowed if the deceased wanted a **celebration of life** instead of a somber atmosphere. Plan the ceremony according to the deceased’s wishes, not tradition.
 
-## Todesanzeige und Einladung der Trauergäste
+## Obituary and Inviting Mourners
 
-Über den Tod eines geliebten Menschen sollten Sie so schnell wie möglich **alle Bezugspersonen informieren**. Dazu gehören Verwandte, Freunde, Bekannte, Nachbarn und Arbeitskollegen. Machen Sie sich am besten eine Liste mit allen relevanten Personen und kontaktieren Sie diese schon, bevor Sie die Details der Trauerfeier geklärt haben. So haben alle Angehörigen die Möglichkeit, den Todesfall zu verarbeiten und ggf. Sonderurlaub zu beantragen.
+You should inform **all close contacts** of the death as soon as possible. This includes relatives, friends, acquaintances, neighbors, and coworkers. Make a list of relevant people and contact them before finalizing the ceremony details. This gives everyone a chance to process the loss and, if needed, request time off.
 
-{{< warning headline="Sonderurlaub" text="Es gibt **keine gesetzlichen Regelungen** zum Sonderurlaub bei Todesfällen. Fragen Sie bei Ihrem Arbeitgeber nach, ob er bezahlten Sonderurlaub über die im Arbeitsvertrag vereinbarten Urlaubstage hinaus gewährt. **Üblich sind 1 bis 2 Tage Sonderurlaub beim Tod von engsten Angehörigen.** Dazu zählen Ehepartner, Kinder, Eltern, Schwiegereltern, Großeltern und Geschwister." />}}
+{{< warning headline="Bereavement Leave" text="There are **no legal regulations** for bereavement leave in the event of a death. Ask your employer if they will grant paid leave beyond your regular vacation days. **One to two days of leave is common for the death of close relatives**—including spouses, children, parents, in-laws, grandparents, and siblings." />}}
 
-Für die **Benachrichtigung der Trauergäste** haben Sie im Optimalfall Zugriff auf eine Kontaktliste im Mobiltelefon oder E-Mail-Account des Verstorbenen. Wenn Sie das Umfeld des Verstorbenen sehr gut kennen, können Sie die Personen aber auch aus dem Gedächtnis notieren und die Kontaktdaten herausfinden. Sofern die verstorbene Person auf Social Media aktiv war, können Sie dort Kontakte anschreiben.
+For **notifying mourners**, ideally you have access to a contact list in the deceased’s phone or email account. If you know the deceased’s circle well, you can write down names from memory and find contact details. If the deceased was active on social media, you can reach out to contacts there.
 
-Sobald Sie den Termin und Ort der Trauerfeier geplant haben, können Sie auch eine **Todesanzeige** in einer lokalen Tageszeitung schalten und zur Trauerfeier einladen. Wenn diese an einem öffentlichen Ort wie einem Friedhof stattfindet, kann jeder an der Trauerfeier teilnehmen, der die Information erhalten hat. Sie können die Trauergäste allerdings darum bitten, von Beileidsbekundungen vor Ort abzusehen.
+Once you’ve set the date and location, you can also place an **obituary** in a local newspaper and invite people to the ceremony. If it’s held at a public place like a cemetery, anyone who receives the information can attend. You can, however, ask guests not to offer condolences in person.
 
-![Traueranzeigen in der Zeitung](pexels-guel-isik-3837464.jpg)
+![Obituaries in the newspaper](pexels-guel-isik-3837464.jpg)
 
-Vor allem ältere Menschen lesen oft noch Traueranzeigen in lokalen Zeitungen.
+Older people especially often read obituaries in local newspapers.
 
-Falls die Trauerfeier nur im engsten Kreis stattfinden soll, schreiben Sie keinen Termin in die Todesanzeige, damit wirklich nur die eingeladenen Personen teilnehmen. Die wichtigsten Bezugspersonen des Verstorbenen sollten Sie ohnehin **persönlich** – und idealerweise eine Woche vor der Trauerfeier – einladen. So gehen Sie sicher, dass jeder die Nachricht rechtzeitig erhält und die Chance hat, sich vom Verstorbenen zu verabschieden.
+If you want a private ceremony, don’t include the date in the obituary so only invited guests attend. The closest contacts should always be invited **personally**—ideally a week before the ceremony—so everyone has time to say goodbye.
 
-## Checkliste und Online-Planer für die Beerdigung
+## Checklist and Online Planner for the Funeral
 
-Bei allem, was man für eine Beerdigung planen muss, kann man leicht den Überblick verlieren. SeaTable hat Ihnen daher die wichtigsten To-dos in einer Checkliste zusammengestellt. Sie können den Online-Planer ebenso nutzen, um die Einladung der Trauergäste zu koordinieren oder die Kosten für die Beerdigung zu berechnen.
+With everything to plan for a funeral, it’s easy to lose track. That’s why SeaTable has compiled the most important to-dos in a checklist. You can also use the online planner to coordinate invitations or calculate funeral costs.
 
-![Online-Planer mit Kostenübersicht für die Beerdigung](Funeral-planner.png)
+![Online planner with funeral cost overview](Funeral-planner.png)
 
-SeaTable Vorlage mit Kostenübersicht für die Beerdigung
+SeaTable template with funeral cost overview
 
-Wenn Sie SeaTable für die Organisation einer Beerdigung nutzen möchten, [registrieren Sie sich einfach kostenlos]({{< relref "pages/registration" >}}) und erstellen Sie eine Übersicht mit Ihren eigenen Daten. Die entsprechende Vorlage finden Sie [hier]({{< relref "templates/events/funeral-planner" >}}).
+If you want to use SeaTable to organize a funeral, [register for free]({{< relref "pages/registration" >}}) and create an overview with your own data. You’ll find the template [here]({{< relref "templates/events/funeral-planner" >}}).

@@ -128,7 +128,7 @@ The prices of the WordPress plugin Weglot.
 
 Currently we use the _Advanced_\-Weglot subscription, which allows up to 10 languages and up to 1 million words. We pay €1,990 for this, but, as mentioned before, it has saved us at least 18 working days over the two years. The time saved is probably many times more. The subscriptions can be upgraded at any time during the term and the residual value of the current subscription is credited in full to the price of the higher-value subscription. 
 
-In the near future we will be looking at the *Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten.* 
+Soon we will switch to the _Extended Planan_ to be able to translate more blog articles and at that time we will probably also activate another language on seatable.io.This step will only cost me two mouse clicks.
 
 ### With the Word Count Tool you can determine your own needs
 
@@ -171,7 +171,7 @@ For me, the most important arguments for using Weglot are the following:
 - Weglot leads to more content, additional and better Google rankings and in the end more traffic and a wider reach.
 - Weglot is easy to install. In less than a minute you have a multilingual website.
 - Weglot promises compatibility with virtually every WordPress theme and many plugins, including WooCommerce, Yoast and Elementor. We have also never had any conflicts with plugins or our theme.
-- Weglot is optimised for multilingual SEO. It automatically adds _hreflang-Tag-Attribute hinzu, erstellt vollständig dedizierte URLs für jede Sprache und indexiert Ihre übersetzten Seiten._
+- Weglot is optimized for multilingual SEO. It automatically adds `hreflang` tag attributes, creates fully dedicated URLs for each language and indexes your translated pages.
 - The quality of the translation is really good. Manual reworking is rarely necessary and can then be done easily via the Weglot website.
 - Weglot has a dedicated support team of more than ten people with strong technical expertise in web application translation.
 

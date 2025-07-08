@@ -1,5 +1,5 @@
 ---
-title: 'Datenbanken – 5 Vorteile gegenüber einfachen Tabellen'
+title: 'Databases - 5 advantages over simple tables'
 date: 2021-03-30
 lastmod: '2024-03-22'
 coverImage: 'hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg'
@@ -11,93 +11,93 @@ seo:
     description:
 ---
 
-Die meisten Menschen haben tagtäglich mit Daten zu tun, die effektiv verwaltet werden müssen. Der Inhaber eines Supermarktes muss den Überblick über den Warenbestand behalten, ein Redaktionsleiter alle Publikationen auf dem Schirm haben und ein Friseur die Termine seiner Kunden verwalten. In nahezu allen Berufen spielen Daten eine Rolle. Am besten verwalten Sie große Mengen an Informationen in **Datenbanken**. Aber was ist eine Datenbank, was sind die Vorteile von Datenbanken und wieso reicht eine einfache Tabelle in den meisten Fällen nicht aus?
+Most people deal with data every day that needs to be managed effectively. A supermarket owner has to keep track of inventory, an editor-in-chief needs to monitor all publications, and a hairdresser manages client appointments. In nearly every profession, data plays a role. The best way to manage large amounts of information is with **databases**. But what exactly is a database, what are the advantages, and why is a simple spreadsheet usually not enough?
 
-## Grundlagen von Datenbanken
+## Database Basics
 
-### Was ist eine Datenbank?
+### What Is a Database?
 
-Grundsätzlich ist eine Datenbank nichts anderes als eine logische Sammlung von Daten. **Logisch** deswegen, weil man bei einer Datenbank generell versucht, Ordnung in die Vielzahl dieser Daten zu bringen. Wenn wir von Daten sprechen, meinen wir hier alle möglichen Arten von **Informationen**. Seien es E-Mail-Adressen, Bilder, Texte, Zahlen oder alle erdenklichen anderen Datentypen.
+At its core, a database is simply a logical collection of data. It’s called **logical** because a database is designed to bring order to a large volume of data. When we talk about data, we mean all types of **information**—email addresses, images, texts, numbers, or any other data type you can think of.
 
-### Arten von Datenbanken
+### Types of Databases
 
-Es gibt viele Möglichkeiten, Datenbanken zu strukturieren. Nachfolgend erklären wir kurz die 5 Arten:
+There are many ways to structure databases. Here’s a brief explanation of the five main types:
 
-1. **Hierarchische Datenbank:** Die hierarchische Datenbank nutzt eine Rangfolge, um die Daten zu strukturieren.
-2. **Netzwerkdatenbank:** Die Netzwerkdatenbank ist der hierarchischen ähnlich, jedoch ermöglicht diese dem untergeordneten Datensatz eine Verbindung mit verschiedenen übergeordneten Datensätzen herzustellen, sodass Beziehungen in beide Richtungen möglich sind.
-3. **Objektorientierte Datenbank:** Hier werden Informationen objektartig gespeichert.
-4. **Relationale Datenbank:** Sie ist tabellenorientiert, wobei jeder Datensatz mit jedem anderen Datensatz verknüpft ist.
-5. **Nicht-relationale Datenbank** (oder NoSQL-Datenbank): Eine No-SQL-Datenbank verwendet eine Vielzahl von Formaten wie Dokumente, Diagramme usw., die einem Datenbankdesign große Flexibilität bieten.
+1. **Hierarchical Database:** Uses a hierarchy to structure data.
+2. **Network Database:** Similar to the hierarchical type, but allows a child record to connect with multiple parent records, enabling two-way relationships.
+3. **Object-Oriented Database:** Stores information as objects.
+4. **Relational Database:** Table-oriented, with each record linked to every other record.
+5. **Non-relational Database** (or NoSQL database): Uses various formats like documents, graphs, etc., offering great flexibility in database design.
 
-![Verknüpfungen sind der große Vorteil von relationalen Datenbanken](hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
+![Relationships are the big advantage of relational databases](hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg)
 
-Verknüpfungen sind der große Vorteil von relationalen Datenbanken.
+Relationships are the big advantage of relational databases.
 
-## Vorteile von Datenbanken
+## Advantages of Databases
 
-Wenn Sie nun verstanden haben, was Datenbanken sind, so fragen Sie sich wahrscheinlich immer noch: Warum sollte ich eine Datenbank nutzen? Was macht eine Datenbank so viel besser als eine Auflistung von Informationen?
+Now that you understand what databases are, you might still wonder: Why should I use a database? What makes a database so much better than just listing information?
 
-- Datenbanken können problemlos mit mehreren Benutzern umgehen.
-- Datenbanken sind sehr zuverlässig, da sie Informationen genau speichern.
-- Datenbanken vermeiden redundante Informationen.
-- Datenbanken verarbeiten Informationen auf leistungsstarke und intelligente Weise.
-- Datenbanken sind skalierbar.
-- Datenbanken können riesige Mengen an Informationen verarbeiten.
+- Databases can easily handle multiple users.
+- Databases are highly reliable, storing information accurately.
+- Databases avoid redundant information.
+- Databases process information powerfully and intelligently.
+- Databases are scalable.
+- Databases can handle huge amounts of information.
 
-Auch wenn Sie selbst vielleicht (noch) keine riesigen Mengen an Informationen verarbeiten müssen, so sind die Vorteile von Datenbanken doch auch schon bei kleineren Datenmengen spürbar. Durch die Möglichkeit, fast unbegrenzt Daten verarbeiten zu können, kann Ihnen eine gut konzipierte und durchdachte Datenbank viele Jahre dienen, da sie quasi mitwächst.
+Even if you don’t (yet) need to process massive amounts of data, the advantages of databases are noticeable even with smaller datasets. Because you can process almost unlimited data, a well-designed database can serve you for years and will scale as you grow.
 
-![Unkomplizierte Datenbanken: Mit SeaTable kein Problem](pexels-christina-morillo-1181354-e1634551763220.jpg)
+![Simple databases: No problem with SeaTable](pexels-christina-morillo-1181354-e1634551763220.jpg)
 
-## Wo Tabellen im Gegensatz zu Datenbanken an ihre Grenzen stoßen
+## Where Spreadsheets Fall Short Compared to Databases
 
-### 1\. Fehlende Speicherkapazität
+### 1. Limited Storage Capacity
 
-Stellen Sie sich vor, Sie haben ein Unternehmen gegründet. Neben Ihrem stationären Fachgeschäft haben Sie sich nun entschieden, Ihre Waren auch online zu vertreiben. Anfangs erhalten Sie 2 bis 4 Bestellungen am Tag. Es ist also ziemlich einfach, die Bestellinformationen in einer **Tabellenkalkulation** zu erfassen. Sie beginnen online Werbung zu schalten und Ihr Geschäft boomt plötzlich. Das Auftragsvolumen steigt und Sie entscheiden zudem, noch mehr Waren ins Sortiment zu nehmen.
+Imagine you’ve started a business. Besides your physical store, you decide to sell your products online. At first, you get 2 to 4 orders a day, so it’s easy to record order info in a **spreadsheet**. But as you run ads and business booms, your order volume rises and you add more products.
 
-Die schiere Menge an Information, die tagtäglich von Ihnen verarbeitet werden muss, kann eine Tabellenkalkulation wie Excel überfordern. Die Tabelle wird träge oder friert ein, da die **Speicherkapazität** schlichtweg zu gering ist. Einer der Vorteile von Datenbanken ist hingegen, wie bereits oben erwähnt, dass sie eine viel größere Speicherkapazität haben und problemlos mit Ihrem Unternehmen mitwachsen. Sie sind also deutlich besser **skalierbar** als einfache Tabellen.
+The sheer amount of information you need to process daily can overwhelm a spreadsheet like Excel. The file becomes sluggish or freezes because the **storage capacity** is simply too low. One of the advantages of databases, as mentioned above, is that they offer much greater storage capacity and can easily scale with your business. They are much more **scalable** than simple spreadsheets.
 
-### 2\. Umgang mit mehreren Benutzern zur gleichen Zeit
+### 2. Handling Multiple Users at Once
 
-Mit steigendem Auftragsvolumen steigt auch die Zahl der Mitarbeiter, die Sie benötigen. In den ersten Monaten stellen Sie direkt 5 neue Mitarbeiter ein. Im Gegensatz zu den meisten Tabellenkalkulationen sind Datenbanken so konzipiert, dass mehrere Benutzer **gleichzeitig zusammenarbeiten** können. Gleichzeitiges Abfragen, Durchsuchen und Bearbeiten der Datenbank ist dabei problemlos möglich, ohne dass Änderungen von verschiedenen Personen miteinander kollidieren. Dafür sorgen eingebaute Mechanismen in den Datenbank-Management-Systemen.
+As your order volume grows, so does your team. In the first months, you hire five new employees. Unlike most spreadsheets, databases are designed for **multiple users to collaborate simultaneously**. Querying, searching, and editing the database at the same time is easy, and built-in mechanisms prevent conflicts between users’ changes.
 
-Zudem können Sie **Zugriffs- und Bearbeitungsrechte** je nach Kompetenz oder Zuständigkeit des entsprechenden Mitarbeiters vergeben. Obwohl neuere Cloud-basierte Tabellenkalkulationen einige der Probleme lösen können, so fehlt Ihnen in der Regel doch die granulare Zugriffskontrolle, die eine Datenbank bietet.
+You can also assign **access and editing rights** based on each employee’s role or responsibility. While newer cloud-based spreadsheets solve some problems, they usually lack the granular access control that a database provides.
 
-### 3\. Zuverlässigkeit und Vermeiden von menschlichen Eingabefehlern
+### 3. Reliability and Avoiding Human Input Errors
 
-Wir sind alle Menschen – und Menschen machen bekanntlich Fehler. Die fehlenden Schemata einer einfachen Tabellenkalkulation machen diese **anfälliger** für menschlich verursachte Eingabefehler. In einer Datenbank hingegen gibt es bestimmte **Regeln**, die eingehalten werden müssen, wenn die Nutzer neue Daten eingeben oder Änderungen an bestehenden Daten vornehmen. Zum Beispiel kann man die Zeichenlänge eines Zahlencodes vordefinieren, was sicherstellt, dass die Nutzer bei der Eingabe von Kontonummern keine Ziffer vergessen.
+We’re all human—and humans make mistakes. The lack of structure in a simple spreadsheet makes it **prone** to human input errors. In a database, there are specific **rules** that must be followed when users enter or change data. For example, you can define the required length of a numeric code, ensuring users don’t forget a digit when entering account numbers.
 
-Auch ein Schutz vor versehentlichem Löschen von Daten ist eingebaut. Datenbanken können **Änderungsverläufe** anzeigen und das **Löschen von Daten** mit wenigen Klicks rückgängig machen.
+Databases also protect against accidental data deletion. You can view **change histories** and **undo deletions** with just a few clicks.
 
-### 4\. Redundante Daten
+### 4. Redundant Data
 
-Sie können die Vorteile von Datenbanken nutzen, um Informationen für die zukünftige Verwendung leicht zugänglich zu machen. Um diese Einfachheit zu garantieren, sollten Sie sicherstellen, dass **jede Dateneinheit nur an einem Ort** existiert. Existieren die gleichen Daten an unterschiedlichen Orten, sind das redundante Daten. Weist eine Datenbank redundante Daten auf, so spricht das für ein schlechtes Datenbankdesign.
+Databases let you make information easily accessible for future use. To ensure this simplicity, you should make sure that **each data unit exists only once**. If the same data exists in multiple places, that’s redundant data. If a database has redundant data, it’s a sign of poor database design.
 
-Die **Redundanzfreiheit** garantiert nicht nur Übersichtlichkeit und Einfachheit, sondern ist auch dann nützlich, wenn Sie eine Änderung an den Daten vornehmen. Zum Beispiel könnte sich die Adresse einer Ihrer Kunden ändern. Sie müssen diese nun nicht bei jeder Bestellung ändern, sondern es reicht, sie einmal **zentral** in der Kundendatenbank zu ändern. Da den Bestellungen eine eindeutige Kundennummer zugeordnet ist, **referenzieren** sie alle auf den entsprechenden Kundendatensatz mit der neuen Adresse.
+**Eliminating redundancy** not only keeps things clear and simple, but is also helpful when you need to update information. For example, if a customer’s address changes, you only need to update it **once** in the customer database. Since each order is linked to a unique customer number, all orders reference the updated customer record.
 
-In einigen Fällen sind Redundanzen jedoch auch sinnvoll. Besonders bei relationalen Datenbanken wie im [Data Warehouse](https://de.wikipedia.org/wiki/Data_Warehouse) oder im [Business Intelligence-Bereich](https://de.wikipedia.org/wiki/Business_Intelligence) werden bewusst Redundanzen eingebaut, um zeitaufwändige SQL-Abfragen zu verbessern.
+In some cases, redundancy is intentional—especially in relational databases like in a [data warehouse](https://en.wikipedia.org/wiki/Data_warehouse) or [business intelligence](https://en.wikipedia.org/wiki/Business_intelligence) environments, to speed up complex SQL queries.
 
-### 5\. Leistungsstärke
+### 5. Performance
 
-Da Datenbanken dafür da sind, das **Abrufen von Daten** zu erleichtern, ermöglichen sie auch die Verarbeitung dieser Daten auf eine sehr leistungsstarke Art und Weise. Sie können Datenbankabfragen erstellen und Datensätze filtern, um Antworten auf ganz bestimmte Fragestellungen zu erhalten. Zum Beispiel:
+Databases are built to make **data retrieval** easy and powerful. You can create database queries and filter records to answer specific questions, such as:
 
-- Aus welchem Gebiet kommen Kunden, die Produkt XY kaufen?
-- Wie oft wurde Produkt XY im Dezember verkauft?
-- Wie gelangen Kunden auf meine Webseite?
+- Which region do customers who buy product XY come from?
+- How many times was product XY sold in December?
+- How do customers find my website?
 
-Die Ergebnisse solcher Abfragen können Sie als **Ansicht** speichern, die eine Teilmenge der Datenbank darstellt. Diese speziellen Ansichten helfen bestimmten Personengruppen, die mit der Datenbank arbeiten, die für sie relevanten Daten leichter zu finden.
+The results of such queries can be saved as **views**, which are subsets of the database. These views help specific user groups find the data most relevant to them.
 
-## Datenbanken werden immer benutzerfreundlicher
+## Databases Are Becoming More User-Friendly
 
-Mussten Sie in der Vergangenheit noch bestimmte Computersprachen erlernen, um oben genannte Datenabfragen zu verwirklichen, so gibt es heute viele Datenbanksysteme wie SeaTable, die mit einer intuitiven grafischen Benutzeroberfläche ausgestattet sind. Diese ermöglichen auch Anfängern, Datenbanken sofort zu nutzen, um Ihren Workflow zu verbessern.
+In the past, you had to learn programming languages to create the data queries described above. Today, many database systems like SeaTable come with an intuitive graphical user interface. This allows even beginners to use databases right away and improve their workflow.
 
-![Vorteile von Datenbanken wie SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
+![Advantages of databases like SeaTable](Teammitglieder-ohne-Zugriff-auf-eine-Base-in-die-Mitarbeiter-Spalte-eintragen.gif)
 
-Im Gegensatz zu klassischen Datenbanken hat SeaTable eine grafische Benutzeroberfläche.
+Unlike classic databases, SeaTable has a graphical user interface.
 
-## Wie Sie ganz einfach eine eigene Datenbank bauen
+## How to Easily Build Your Own Database
 
-Leuchten Ihnen die Vorteile von Datenbanken ein, doch die Vorstellung, eine eigene Datenbank zu bauen, schreckt Sie immer noch ab? Gute Nachrichten: Selbst dafür brauchen Sie heute keine besonderen Kenntnisse mehr. Mit SeaTable fügen Sie ohne Programmierkenntnisse ganz einfach die Bausteine Ihrer eigenen Datenbank zusammen.
+The advantages of databases make sense to you, but the idea of building your own database still seems daunting? Good news: You don’t need special skills anymore. With SeaTable, you can easily assemble the building blocks of your own database—no programming required.
 
-Schauen Sie sich viele Beispiele für die Nutzung von SeaTable in unserer [Vorlagen-Bibliothek]({{< relref "templates/finance" >}}) an. Hier finden Sie Beispiele aus den Bereichen Marketing, Vertrieb, Projektmanagement, Softwareentwicklung, Personalwesen und viele mehr. Wir haben sogar eine [7-teilige Produkteinführung](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) auf unserem YouTube-Kanal für Sie vorbereitet, bei welcher wir Sie einmal durch den gesamten Prozess der Erstellung einer SeaTable Base leiten.
+Check out many examples of how to use SeaTable in our [template library]({{< relref "templates/finance" >}}). There you’ll find examples for marketing, sales, project management, software development, HR, and more. We’ve even prepared a [7-part product introduction](https://www.youtube.com/watch?v=srUQ2fD1FM0&t=32s) on our YouTube channel, guiding you through the entire process of creating a SeaTable base.
 
-Nutzen Sie die Vorteile einer Datenbank und verabschieden Sie sich noch heute von unübersichtlichen Tabellen! [Hier]({{< relref "pages/registration" >}}) geht’s direkt zur kostenlosen Registrierung!
+Take advantage of a database and say goodbye to confusing spreadsheets today! [Click here]({{< relref "pages/registration" >}}) to register for free!

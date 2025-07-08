@@ -1,5 +1,5 @@
 ---
-title: 'CSR – die Grundlagen der Corporate Social Responsibility'
+title: 'CSR - the basics of corporate social responsibility'
 date: 2024-04-08
 lastmod: '2025-05-19'
 coverImage: 'solar-4478105_1280.jpg'
@@ -16,95 +16,95 @@ tags:
 color: '#4fb086'
 ---
 
-In einer Zeit, in der sich der Trend zur **Nachhaltigkeit** zunehmend verstärkt, stehen Unternehmen vor der Herausforderung, den höheren Ansprüchen ihrer Kunden gerecht zu werden. Die steigende Nachfrage nach nachhaltigen Produkten spiegelt sich im Verhalten der Verbraucher wider, die zunehmend Wert auf Umweltverträglichkeit und soziale Verantwortung legen – Stichwort: **Corporate Social Responsibility (CSR)**.
+In an era where the trend toward **sustainability** is gaining momentum, companies face the challenge of meeting their customers’ higher expectations. The growing demand for sustainable products is reflected in consumer behavior, as people increasingly value environmental compatibility and social responsibility—keyword: **Corporate Social Responsibility (CSR)**.
 
-Daher sollten Sie sich mit den Grundlagen der Corporate Social Responsibility vertraut machen und Strategien entwickeln, wie Ihr Unternehmen die neuen Anforderungen erfüllen kann. Doch was genau verbirgt sich hinter dem Begriff CSR und wie können Sie Nachhaltigkeit im Unternehmen erfolgreich umsetzen?
+Therefore, you should familiarize yourself with the basics of Corporate Social Responsibility and develop strategies for how your company can meet these new requirements. But what exactly does CSR mean, and how can you successfully implement sustainability in your business?
 
-![CSR: Nachhaltige Parkanlage vor Hochhäusern](solar-4478105_1280-711x474.jpg)
+![CSR: Sustainable park in front of high-rise buildings](solar-4478105_1280-711x474.jpg)
 
-Unternehmen erkennen zunehmend die Bedeutung von CSR und integrieren sie in ihre Strategien.
+Companies are increasingly recognizing the importance of CSR and integrating it into their strategies.
 
-## Was CSR bedeutet
+## What CSR Means
 
-CSR steht für Corporate Social Responsibility, was bedeutet, dass Unternehmen im Sinne eines nachhaltigen Wirtschaftens **Verantwortung für ihre Auswirkungen auf die Gesellschaft übernehmen**. Das beinhaltet sowohl soziale als auch ökologische und ökonomische Aspekte. Zum Beispiel geht es um fairen Handel, mitarbeiterzentrierte Personalpolitik, Ressourcenschonung, Umweltschutz, Engagement vor Ort und verantwortungsvolles Lieferkettenmanagement.
+CSR stands for Corporate Social Responsibility, which means that companies, in the spirit of sustainable business, **take responsibility for their impact on society**. This includes social, ecological, and economic aspects. For example, it involves fair trade, employee-focused HR policies, resource conservation, environmental protection, local engagement, and responsible supply chain management.
 
-Die Corporate Social Responsibility ist in der [ILO-Grundsatzerklärung](https://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_ent/documents/publication/wcms_579897.pdf) über Unternehmen und Sozialpolitik, den [OECD-Leitsätzen](https://www.oecd-ilibrary.org/docserver/abd4d37b-de.pdf?expires=1712137089&id=id&accname=guest&checksum=D56F1DDB92AE228C737A33B9F8FCF629) für multinationale Unternehmen, den [UN-Leitprinzipien](https://www.auswaertiges-amt.de/blob/266624/b51c16faf1b3424d7efa060e8aaa8130/un-leitprinzipien-de-data.pdf) für Wirtschaft und Menschenrechte, im [UN Global Compact](https://www.globalcompact.de/fileadmin/user_upload/Bilder/Mediathek_Main_Page/Publikationen_PDF_speicher/DIE-ZEHN-PRINZIPIEN-1.pdf) und in der [ISO 26000](https://www.bmas.de/SharedDocs/Downloads/DE/Publikationen/a395-csr-din-26000.pdf?__blob=publicationFile&v=2) verankert.
+Corporate Social Responsibility is anchored in the [ILO Declaration](https://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_ent/documents/publication/wcms_579897.pdf) on Multinational Enterprises and Social Policy, the [OECD Guidelines](https://www.oecd-ilibrary.org/docserver/abd4d37b-de.pdf?expires=1712137089&id=id&accname=guest&checksum=D56F1DDB92AE228C737A33B9F8FCF629) for Multinational Enterprises, the [UN Guiding Principles](https://www.auswaertiges-amt.de/blob/266624/b51c16faf1b3424d7efa060e8aaa8130/un-leitprinzipien-de-data.pdf) on Business and Human Rights, the [UN Global Compact](https://www.globalcompact.de/fileadmin/user_upload/Bilder/Mediathek_Main_Page/Publikationen_PDF_speicher/DIE-ZEHN-PRINZIPIEN-1.pdf), and [ISO 26000](https://www.bmas.de/SharedDocs/Downloads/DE/Publikationen/a395-csr-din-26000.pdf?__blob=publicationFile&v=2).
 
-## Wichtige Zusammenhänge kurz erklärt
+## Key Connections Explained Briefly
 
-Wenn Sie bisher wenig Berührungspunkte mit Corporate Social Responsibility hatten, fragen Sie sich vielleicht, was CSR mit Nachhaltigkeit zu tun hat, was Corporate Citizenship bedeutet oder warum einige den Begriff mit CR abkürzen. Die Begrifflichkeiten können zunächst verwirrend wirken, jedoch sind sie von entscheidender Bedeutung, um das Konzept der Unternehmensverantwortung vollständig zu verstehen.
+If you haven’t had much exposure to Corporate Social Responsibility, you might wonder what CSR has to do with sustainability, what Corporate Citizenship means, or why some people abbreviate the term as CR. The terminology can be confusing at first, but it’s crucial for fully understanding the concept of corporate responsibility.
 
-- **Nachhaltigkeit:** In der Praxis nutzen viele Unternehmen den Begriff Corporate Social Responsibility als Synonym für Nachhaltigkeit. In der Theorie ist CSR als Konzept jedoch enger gefasst als Nachhaltigkeit, denn es bezeichnet den spezifischen Beitrag, den ein Unternehmen zum nachhaltigen Wirtschaften leistet.
-- **Corporate Citizenship:** Das beschreibt das über die eigentliche Geschäftstätigkeit eines Unternehmens hinausgehende Engagement, das gemeinnützige Engagement. Darunter fallen beispielsweise Sponsorings, Spenden und Stiftungen.
-- **Corporate Responsibility:** CR wird seit einigen Jahren als Synonym für CSR verwendet. Einige bevorzugen diesen Ausdruck, um Missverständnisse zu vermeiden, da das „Social“ in Corporate Social Responsibility oft ausschließlich sozial verstanden wird.
+- **Sustainability:** In practice, many companies use Corporate Social Responsibility as a synonym for sustainability. In theory, however, CSR is a narrower concept than sustainability, as it refers to a company’s specific contribution to sustainable business.
+- **Corporate Citizenship:** This describes a company’s engagement beyond its core business, namely charitable activities. This includes sponsorships, donations, and foundations.
+- **Corporate Responsibility:** CR has been used as a synonym for CSR for several years. Some prefer this term to avoid misunderstandings, as the “Social” in Corporate Social Responsibility is often interpreted as only social.
 
-![Drei Hände die um einen aus Papier geformten Erdball liegen](earth-day-environment-eco-concept-space-text-711x474.jpg)
+![Three hands around a paper earth](earth-day-environment-eco-concept-space-text-711x474.jpg)
 
-Nachhaltigkeit ist nicht nur ein Trend, sondern eine Notwendigkeit für Unternehmen.
+Sustainability is not just a trend, but a necessity for companies.
 
-## Die CSR-Pyramide nach Carroll
+## The CSR Pyramid According to Carroll
 
-Die CSR-Pyramide, konzipiert von Archie B. Carroll, stellt eine detaillierte Richtlinie dar, die erklärt, wie und warum Organisationen ihrer gesellschaftlichen Verantwortung gerecht werden sollten. Diese Pyramide gliedert sich in vier Ebenen:
+The CSR Pyramid, developed by Archie B. Carroll, provides a detailed guideline explaining how and why organizations should fulfill their social responsibilities. The pyramid is divided into four levels:
 
-- **Ökonomische Verantwortung:** Dies ist die grundlegende Ebene der CSR. Unternehmen haben die Verantwortung, profitabel zu sein und Wert für ihre Aktionäre zu schaffen. Darunter fällt das Erwirtschaften von Gewinnen, den Aktionären Renditen zu bieten und die finanzielle Rentabilität sicherzustellen.
-- **Rechtliche Verantwortung:** Unternehmen müssen sicherstellen, dass ihre Aktivitäten im Einklang mit den rechtlichen Rahmenbedingungen stehen. Dazu gehört beispielsweise die Einhaltung von Umweltvorschriften, Arbeitsgesetzen und Verbraucherschutzbestimmungen.
-- **Ethische Verantwortung:** Auf dieser Ebene geht es darum, über das gesetzlich erforderliche Maß hinauszugehen und ethisch einwandfreies Verhalten zu fördern. Unternehmen sollten sich moralischen Prinzipien wie Integrität, Ehrlichkeit und Fairness verpflichten, sowohl in ihren internen Abläufen als auch in ihren Beziehungen zu externen Parteien wie Kunden, Lieferanten und der Gemeinschaft.
-- **Philanthropische Verantwortung:** Die oberste Ebene der Corporate Social Responsibility beinhaltet freiwillige Beiträge zur Gesellschaft, die über die bloße Gewinnerzielung und die Einhaltung von Gesetzen und ethischen Standards hinausgehen. Dies kann beispielsweise Spenden an gemeinnützige Organisationen, Investitionen in Bildung oder Umweltschutzprojekte sowie die Förderung von sozialem Engagement der Mitarbeiter umfassen.
+- **Economic Responsibility:** This is the foundation of CSR. Companies are responsible for being profitable and creating value for shareholders. This includes generating profits, providing returns to shareholders, and ensuring financial viability.
+- **Legal Responsibility:** Companies must ensure that their activities comply with legal requirements. This includes adhering to environmental regulations, labor laws, and consumer protection rules.
+- **Ethical Responsibility:** This level goes beyond legal requirements and promotes ethical conduct. Companies should commit to moral principles such as integrity, honesty, and fairness, both internally and in relationships with customers, suppliers, and the community.
+- **Philanthropic Responsibility:** The top level of Corporate Social Responsibility involves voluntary contributions to society that go beyond profit-making and compliance with laws and ethics. This can include donations to charities, investments in education or environmental projects, and promoting employee social engagement.
 
-![Grafik der CSR-Pyramide von Archie B. Carroll](CSR-Pyramide.png)
+![Graphic of the CSR Pyramid by Archie B. Carroll](CSR-Pyramide.png)
 
-Die CSR-Pyramide nach Archie B. Carroll
+The CSR Pyramid according to Archie B. Carroll
 
-## Die Vorteile von CSR
+## The Benefits of CSR
 
-Die Implementierung von Corporate Social Responsibility in Ihrem Unternehmen bietet Ihnen nicht nur die Möglichkeit, einen positiven Beitrag zur Gesellschaft zu leisten, sondern bringt auch eine Reihe von Vorteilen für Ihr Unternehmen mit sich. Durch Ihr Engagement für soziale und ökologische Verantwortung stärken Sie Ihr Unternehmensimage und differenzieren sich von Mitbewerbern. Ein **positives Image** als verantwortungsbewusstes Unternehmen kann Ihre **Marke stärken** und Ihnen helfen, **Kunden zu gewinnen und zu binden**.
+Implementing Corporate Social Responsibility in your company not only allows you to make a positive contribution to society, but it also brings a range of business benefits. By committing to social and environmental responsibility, you strengthen your company’s image and differentiate yourself from competitors. A **positive image** as a responsible company can **strengthen your brand** and help you **attract and retain customers**.
 
-Die Förderung eines **positiven Betriebsklimas** und **engagierter Mitarbeiter** ist ein weiterer wesentlicher Vorteil von CSR. Durch die Schaffung einer Unternehmenskultur, die soziale Verantwortung und Mitarbeiterengagement fördert, stärken Sie die Bindung Ihrer Mitarbeiter an das Unternehmen. Darüber hinaus können CSR-Initiativen zur **Kostenreduktion** beitragen, indem sie beispielsweise den Energieverbrauch senken, Abfall und Verschwendung reduzieren oder effizientere Lieferketten fördern.
+Promoting a **positive work environment** and **engaged employees** is another key benefit of CSR. By fostering a corporate culture that values social responsibility and employee engagement, you strengthen employee loyalty. Additionally, CSR initiatives can help **reduce costs** by lowering energy consumption, reducing waste, or promoting more efficient supply chains.
 
-Insgesamt kann die Integration von CSR somit nicht nur dazu beitragen, einen positiven Beitrag zur Gesellschaft zu leisten, sondern bietet auch direkte geschäftliche Vorteile, die Ihr Unternehmen erfolgreicher machen können.
+Overall, integrating CSR not only helps you make a positive contribution to society, but also provides direct business benefits that can make your company more successful.
 
-![Menschen stehen im Kreis und strecken ihre Hände in die Mitte](diverse-people-doing-fist-bump-park-711x474.jpg)
+![People standing in a circle, reaching their hands to the center](diverse-people-doing-fist-bump-park-711x474.jpg)
 
-CSR sollte integraler Bestandteil der Unternehmenskultur sein.
+CSR should be an integral part of corporate culture.
 
-## Herausforderungen bei der Umsetzung von Corporate Social Responsibility
+## Challenges in Implementing Corporate Social Responsibility
 
-Auf Ihrem Weg zu einem nachhaltigeren Unternehmen können Sie jedoch auch auf einige Herausforderungen stoßen. Beispielsweise können **zusätzliche Kosten** entstehen, wenn Sie Ihre Mitarbeiter zu Schulungen und Weiterbildungen schicken.
+On your journey to a more sustainable company, you may encounter some challenges. For example, **additional costs** may arise if you send employees to training or continuing education.
 
-Ziele im Bereich der Nachhaltigkeit können sich als **langwierig** erweisen und es kann demotivierend sein, wenn Fortschritte nur langsam erreicht werden. Das Engagement in gemeinnützigen Aktivitäten kann ebenfalls **zusätzlichen Aufwand** bedeuten.
+Sustainability goals can take a **long time** to achieve, and it can be demotivating if progress is slow. Engaging in charitable activities can also mean **additional effort**.
 
-{{< warning headline="Auf Greenwashing verzichten" text="Vermeiden Sie unbedingt **Greenwashing**, da dies zu einem Verlust an Glaubwürdigkeit führen und Ihre Reputation erheblich beeinträchtigen kann. Bleiben Sie daher stets ehrlich und transparent in Ihren Bemühungen und stellen Sie Ihr Unternehmen nicht nachhaltiger dar, als es wirklich ist." />}}
+{{< warning headline="Avoid Greenwashing" text="Be sure to avoid **greenwashing**, as it can lead to a loss of credibility and seriously damage your reputation. Always remain honest and transparent in your efforts, and don’t portray your company as more sustainable than it really is." />}}
 
-## Beispiele für geeignete Maßnahmen
+## Examples of Suitable Measures
 
-Im Rahmen ihrer Corporate Social Responsibility (CSR) haben Unternehmen die Möglichkeit, eine Vielzahl von Maßnahmen zu ergreifen. Diese Maßnahmen tragen dazu bei, einen positiven Beitrag zu leisten und das Unternehmen als sozial verantwortlich und nachhaltig zu positionieren. Hier sind einige konkrete Beispiele:
+As part of their Corporate Social Responsibility (CSR), companies can take a variety of actions. These measures help make a positive impact and position the company as socially responsible and sustainable. Here are some concrete examples:
 
-- Flexible Arbeitsmodelle
-- E-Autos als Firmenwagen
-- Spendenaktionen
-- Geschäftsreisen reduzieren
-- Recycling und Abfallvermeidung
+- Flexible work models
+- Electric vehicles as company cars
+- Donation campaigns
+- Reducing business travel
+- Recycling and waste reduction
 
-- Erneuerbare Energien
-- Weiterbildung der Mitarbeiter
-- Senkung der Emissionen
-- Bildungsstipendien
-- Formulierung von Grundwerten
+- Renewable energy
+- Employee training and development
+- Reducing emissions
+- Educational scholarships
+- Defining core values
 
-![CSR: Zwei Bäume und ein Windrad auf drei Würfeln.](windmill-5591464_1280-711x498.jpg)
+![CSR: Two trees and a wind turbine on three blocks.](windmill-5591464_1280-711x498.jpg)
 
-CSR erfordert ein langfristiges Engagement und kontinuierliche Überprüfung.
+CSR requires long-term commitment and continuous review.
 
-## Warum CSR-Berichte essenziell sind
+## Why CSR Reports Are Essential
 
-CSR-Berichte sind ein wesentliches Instrument, um Ihre Bemühungen im Bereich der Corporate Social Responsibility transparent zu dokumentieren und zu kommunizieren. Sie können darin festhalten, welche **Maßnahmen** Sie erfolgreich umgesetzt haben und welche **Ziele** Sie für die Zukunft anstreben.
+CSR reports are an essential tool for transparently documenting and communicating your Corporate Social Responsibility efforts. In these reports, you can record which **measures** you have successfully implemented and which **goals** you are pursuing for the future.
 
-Durch die Erstellung dieser Berichte schaffen Sie **Transparenz** und ermöglichen es Ihren Stakeholdern, die Auswirkungen Ihres Unternehmens auf die Umwelt und die Gesellschaft besser zu verstehen. Dies kann das **Vertrauen** in Ihr Unternehmen stärken und Ihnen einen entscheidenden Wettbewerbsvorteil verschaffen.
+By creating these reports, you ensure **transparency** and allow your stakeholders to better understand your company’s impact on the environment and society. This can **build trust** in your company and give you a crucial competitive advantage.
 
-## Template von SeaTable
+## SeaTable Template
 
-Um konkrete Ziele festzulegen und Ihren Fortschritt verfolgen zu können, bietet sich das kostenlose [Template]({{< relref "templates/operations/sustainability-management" >}}) von SeaTable an. In der Vorlage können Sie Ihre Ziele eintragen, diese in Kategorien einteilen und Abteilungen zuordnen. Neben anstehenden Maßnahmen können Sie so auch Prioritäten zuteilen und ein Zieldatum eintragen.
+To set concrete goals and track your progress, the free [SeaTable template]({{< relref "templates/operations/sustainability-management" >}}) is ideal. In the template, you can enter your goals, categorize them, and assign them to departments. In addition to planned measures, you can also set priorities and enter a target date.
 
-Mithilfe einer weiteren Tabelle behalten Sie den Überblick über alle wichtigen Zahlen und sehen auf einen Blick, in welchen Bereichen Sie sich bereits verbessern konnten. Ebenso können Sie Nachhaltigkeitszertifikate, die Sie bereits erhalten haben oder auf die Sie hinarbeiten, dokumentieren und automatisiert den nächsten Termin für die Neubeantragung generieren lassen.
+With another table, you can keep an overview of all key figures and instantly see which areas you’ve already improved. You can also document sustainability certificates you’ve already received or are working toward, and automatically generate the next renewal date.
 
-Um SeaTable zu verwenden, müssen Sie sich lediglich kostenlos [registrieren]({{< relref "pages/registration" >}}). Anschließend können Sie die [Vorlage]({{< relref "templates/operations/sustainability-management" >}}) zu Ihrer Base hinzufügen und Ihre eigenen Daten ergänzen.
+To use SeaTable, simply [register for free]({{< relref "pages/registration" >}}). You can then add the [template]({{< relref "templates/operations/sustainability-management" >}}) to your base and enter your own data.
