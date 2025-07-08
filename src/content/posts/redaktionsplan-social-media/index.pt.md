@@ -10,8 +10,6 @@ seo:
     description:
 ---
 
----
-
 Para obter resultados mensuráveis nas plataformas de mídia social, é preciso publicar continuamente novos conteúdos – muitas vezes várias vezes por semana e para diferentes canais, como LinkedIn, Instagram, Facebook, X ou Youtube. O objetivo é **postar conteúdo interessante e envolvente dentro do prazo**. Um **plano editorial de social media** ajuda muito nessa tarefa. Neste artigo, você aprende como desenvolver uma estratégia de sucesso com um plano de social media.
 
 ## Por que você precisa de um plano editorial de social media

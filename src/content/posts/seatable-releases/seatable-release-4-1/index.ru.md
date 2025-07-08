@@ -1,5 +1,5 @@
 ---
-title: 'SeaTable 4.1: Leistungsstärkere Automationen, App Builder auf der Zielgeraden und vieles mehr - SeaTable'
+title: 'SeaTable 4.1: более мощные автоматизации, App Builder на главной странице и многое другое'
 date: 2023-08-23
 lastmod: '2023-08-23'
 author: 'kgr'
@@ -10,68 +10,68 @@ seo:
     description:
 ---
 
-Die Sommerferien neigen sich dem Ende zu und wir hoffen, Sie haben die Urlaubszeit genossen. Während andere in den Pool sprangen oder die Füße hochlegten, haben sich unsere Entwickler mächtig ins Zeug gelegt und **SeaTable Version 4.1** hervorgezaubert.
+Летние каникулы подходят к концу, и мы надеемся, что вы хорошо провели отпуск. Пока одни прыгали в бассейн или отдыхали, наши разработчики усердно трудились и создали **SeaTable версии 4.1**.
 
-Nutzen Sie in Ihren Bases bereits automatisierte Prozesse, um Zeit und Klicks zu sparen? Dann wird Ihnen gefallen, dass wir bei den [Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) ebenso die Optionen verfeinert, wie die Leistung verbessert haben. Über das höhere Ausführungslimit können sich die Intensivnutzer von SeaTable besonders freuen. Die in Version 4.0 eingeführte [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) bietet Ihnen nun zwei weitere Features, welche die Arbeit mit Dateien vereinfachen.
+Уже используете в своих базах автоматизированные процессы, чтобы экономить время и клики? Тогда вам понравится, что мы улучшили и расширили [опции автоматизаций]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), а также повысили их производительность. Особенно интенсивные пользователи SeaTable оценят увеличенный лимит выполнения. Введённая в версии 4.0 [система управления файлами]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) теперь предлагает два новых функционала, которые делают работу с файлами ещё проще.
 
-Die Entwicklung des [Universal App Builders]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) schreitet in Siebenmeilenstiefeln voran: SeaTable 4.1 hält neue Funktionen für Sie bereit, um Benutzerberechtigungen und die Datenvisualisierung in Apps genauer auszudifferenzieren. Daneben haben wir in SeaTable 4.1 viele kleinere Funktionen verbessert oder neu hinzugefügt. Überzeugen Sie sich selbst – die Liste ist lang und sehr erfreulich!
+Разработка [Universal App Builder]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}) идёт семимильными шагами: в SeaTable 4.1 появились новые функции для более точного разграничения прав пользователей и визуализации данных в приложениях. Кроме того, в SeaTable 4.1 мы улучшили или добавили множество мелких функций. Убедитесь сами — список длинный и очень приятный!
 
-Heute Morgen haben wir SeaTable Cloud auf Version 4.1 aktualisiert. Alle Selbsthoster können das ebenfalls tun: Das Image von SeaTable 4.1 ist im bekannten [Docker Repository](https://hub.docker.com/r/seatable/seatable-enterprise) zum Download verfügbar. Im [Changelog]({{< relref "pages/changelog" >}}) finden Sie wie immer die vollständige Liste der Änderungen.
+Сегодня утром мы обновили SeaTable Cloud до версии 4.1. Все, кто размещает SeaTable самостоятельно, тоже могут это сделать: образ SeaTable 4.1 доступен для скачивания в известном [Docker-репозитории](https://hub.docker.com/r/seatable/seatable-enterprise). В [changelog]({{< relref "pages/changelog" >}}) вы, как всегда, найдёте полный список изменений.
 
-## Leistungsstärkere Automationen
+## Более мощные автоматизации
 
-Bei Automationen mit dem [Trigger]({{< relref "help/base-editor/automationen/automations-trigger" >}}) „Einträge erfüllen nach der Änderung bestimmte Bedingungen“ legen Sie die Spalten fest, die SeaTable überwacht. Eine Aktion wird dann automatisiert ausgeführt, wenn ein Wert in den definierten Spalten bearbeitet wird. Mit SeaTable 4.1 wird die Liste der überwachbaren Spalten verlängert: Auch **Verknüpfungsspalten** können nun überwacht werden. Damit lassen sich bestehende Automationen vereinfachen und neue Anwendungsfälle umsetzen.
+В автоматизациях с [триггером]({{< relref "help/base-editor/automationen/automations-trigger" >}}) «Записи соответствуют определённым условиям после изменения» вы указываете столбцы, которые SeaTable будет отслеживать. Действие выполняется автоматически, когда значение в указанных столбцах изменяется. В SeaTable 4.1 список отслеживаемых столбцов расширен: теперь можно отслеживать и **столбцы-связи**. Это упрощает существующие автоматизации и открывает новые сценарии использования.
 
-Darüber hinaus haben wir die Performance einiger [Aktionen]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) verbessert und deren Funktionen erweitert. Beispielsweise bietet die Aktion „Eintrag bearbeiten“ nun auch die Option, den Wert in einer Datum-Spalte auf „**Leer**“ zu setzen.
+Кроме того, мы улучшили производительность некоторых [действий]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) и расширили их функционал. Например, действие «Редактировать запись» теперь позволяет установить значение в столбце с датой на «**Пусто**».
 
-![Neue Optionen bei Automationen](New-options-for-automation.png)
+![Новые опции для автоматизаций](New-options-for-automation.png)
 
-{{< warning headline="Höheres Ausführungslimit bei Automationen" >}}
+{{< warning headline="Более высокий лимит выполнения автоматизаций" >}}
 
-Jede Automation unterliegt einem [Ausführungslimit]({{< relref "help/base-editor/automationen/ausfuehrungslimit-bei-automationen" >}}), das die maximale Ausführungsfrequenz von Automationen definiert. Ein solches Limit ist notwendig, um für alle Benutzer von SeaTable Cloud eine gute User Experience sicherzustellen. Bisher galt in SeaTable Cloud ein Limit von 10 Ausführungen pro Minute für jede Automation. Dieses Limit wurde mit dem Versionswechsel auf **50 Ausführungen pro Minute** erhöht. Dieses neue Limit sollte für viele Anwendungsfälle keine relevante Einschränkung darstellen. Anders bei Automationen mit dem Ereignistyp **Hinzugefügte Einträge**. Dort kann auch das erhöhte Limit schnell greifen. Wenn Sie beispielsweise Zeilen aus einer Excel Tabelle kopieren und in SeaTable einfügen, dann wird das Limit die Ausführung auf die ersten 50 eingefügten Zeilen beschränken.
+Каждая автоматизация подчиняется [лимиту выполнения]({{< relref "help/base-editor/automationen/ausfuehrungslimit-bei-automationen" >}}), который определяет максимальную частоту её срабатывания. Такой лимит необходим, чтобы обеспечить хороший пользовательский опыт для всех пользователей SeaTable Cloud. Ранее лимит составлял 10 выполнений в минуту для каждой автоматизации. С выходом новой версии этот лимит увеличен до **50 выполнений в минуту**. Для большинства сценариев этого должно быть достаточно. Однако для автоматизаций с типом события **Добавленные записи** даже повышенный лимит может быстро исчерпаться. Например, если вы копируете строки из таблицы Excel и вставляете их в SeaTable, лимит ограничит выполнение только первыми 50 вставленными строками.
 
 {{< /warning >}}
 
-## Papierkorb und Suchfunktion in der Dateiverwaltung
+## Корзина и поиск в управлении файлами
 
-Die in SeaTable 4.0 eingeführte [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) hat den Umgang mit Dateien in SeaTable revolutioniert. In der Version 4.1 wurden zwei weitere Funktionen ergänzt: ein **Papierkorb** und eine **Suche**.
+Введённая в SeaTable 4.0 [система управления файлами]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) изменила работу с файлами в SeaTable. В версии 4.1 добавлены ещё две функции: **корзина** и **поиск**.
 
-Dank des Papierkorbs gehen aus Versehen gelöschte Dateien nicht endgültig verloren, sondern können wiederhergestellt werden. Gelöschte Dateien verbleiben **60 Tage** im Papierkorb, bevor sie dauerhaft aus dem System entfernt werden. Sollen Dateien schneller aus dem Papierkorb verschwinden, dann lässt sich der Papierkorb auch manuell leeren.
+Благодаря корзине случайно удалённые файлы не теряются безвозвратно, а могут быть восстановлены. Удалённые файлы хранятся в корзине **60 дней**, после чего удаляются из системы окончательно. Если нужно удалить файлы из корзины быстрее, её можно очистить вручную.
 
-![Papierkorb und Suchfeld im Dateimanagement](New-trash-and-search-in-the-file-management.png)
+![Корзина и строка поиска в управлении файлами](New-trash-and-search-in-the-file-management.png)
 
-Ebenfalls neu ist die Suchfunktion, mit der Sie die eigenen Ordner in der Dateiverwaltung durchsuchen können. Geben Sie einfach einen Suchbegriff in das Suchfeld ein. SeaTable zeigt dann alle Dateien an, die den Suchbegriff im Dateiennamen enthalten. Wenn eine Datei mal nicht dort ist, wo Sie sie erwarten, dann kommen Sie ihr so schnell auf die Spur.
+Также появилась функция поиска, с помощью которой вы можете искать файлы в своих папках управления файлами. Просто введите поисковый запрос в поле поиска — SeaTable покажет все файлы, в названии которых встречается этот запрос. Если файл не там, где вы ожидали, вы быстро его найдёте.
 
-## Feinschliff des Universal App Builders
+## Доработка Universal App Builder
 
-Die Entwicklung des Universal App Builders ist auf der Zielgeraden und unser Team arbeitet mit Hochdruck am Feinschliff der Details. SeaTable 4.1 bringt vor allem neue Funktionen mit sich, um die Berechtigungen der Benutzer der Universal App feiner und genauer steuern.
+Разработка Universal App Builder выходит на финишную прямую, и наша команда активно занимается доработкой деталей. SeaTable 4.1 предлагает новые функции для более точного управления правами пользователей в универсальных приложениях.
 
-Die [Seitenberechtigungen]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) erlauben die Berechtigungsverwaltung für eine ganze Seite einer App: Wer darf auf einer Seite Zeilen sehen, wer darf Zeilen anlegen, wer darf Zeilen ändern und löschen. SeaTable 4.1 führt eine einfache Berechtigungslogik für Spalten ein. Spalten können nun individuell auf „**nur lesbar**“ gesetzt und damit der Bearbeitung durch die Nutzer entzogen werden. Die neuen Spaltenberechtigungen in der Universal App gelten zusätzlich zu den [Spaltenberechtigungen]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) in der Base und erlauben in Kombination eine sehr granulare Steuerung der Benutzerrechte auf einer Tabellenseite.
+[Права на страницы]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) позволяют управлять доступом ко всей странице приложения: кто может видеть строки, кто может создавать, изменять и удалять строки. В SeaTable 4.1 появилась простая логика прав для столбцов. Теперь столбцы можно индивидуально сделать «**только для чтения**», что исключает их редактирование пользователями. Новые права на столбцы в универсальном приложении действуют дополнительно к [правам на столбцы]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) в базе и позволяют очень гибко управлять доступом пользователей к странице таблицы.
 
-{{< warning headline="Gut zu wissen" text="In SeaTable 4.1 erhalten **Nutzer mit Leseberechtigung** die Erlaubnis, Schaltflächen-Aktionen auf Tabellenseiten auszuführen, auch wenn sie Veränderungen am Datensatz bewirken." />}}
+{{< warning headline="Важно знать" text="В SeaTable 4.1 пользователи с правами только на чтение могут выполнять действия кнопок на страницах таблиц, даже если эти действия изменяют запись." />}}
 
-Die **Standardeinstellungen** für Ansichten sind eine weitere Neuerung auf Tabellenseiten. Eine Standardeinstellung bestimmt die Anzeige der Daten beim Aufruf der Seite. Sie gibt damit einen bestimmten Blickwinkel auf die Daten vor, sie kann aber von den App-Benutzern geändert und damit der Blickwinkel auf die Bedürfnisse der Benutzer angepasst werden. Die Funktionsweise ist damit grundsätzlich anders als die der schon länger verfügbaren Dateneinstellungen. Letztere können durch die Benutzer nicht geändert werden. Die Dateneinstellungen dienen dazu, die den Benutzern angezeigten Daten einzuschränken.
+**Стандартные настройки** для представлений — ещё одно новшество на страницах таблиц. Стандартная настройка определяет, как отображаются данные при открытии страницы. Она задаёт определённый ракурс на данные, но может быть изменена пользователями приложения, чтобы подстроить отображение под свои нужды. Это отличается от уже существующих настроек данных, которые пользователи менять не могут. Настройки данных служат для ограничения отображаемых данных.
 
-Damit sind die Verbesserungen auf der Tabellenseite noch nicht zu Ende: Mit einem Klick können Sie die bedingte Zellformatierung aus der zugrundeliegenden Tabelle anzeigen lassen und so die [Zellen einfärben]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
+На этом улучшения страниц таблиц не заканчиваются: одним кликом можно отобразить условное форматирование ячеек из исходной таблицы и таким образом [подсветить ячейки]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}).
 
-![Neue Funktionen im Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
+![Новые функции в Universal App Builder](New-functions-in-the-Universal-App-Builder.png)
 
-Und auch die anderen Seitentypen gehen nicht leer aus: Die [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) Abfrage und Webformular bieten nun auch Seitenberechtigungen. Auf der individuellen Seite lassen sich Elemente nun leichter verschieben und positionieren.
+И другие типы страниц тоже получили обновления: [Типы страниц]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) «Запрос» и «Веб-форма» теперь тоже поддерживают права на страницы. На индивидуальной странице стало проще перемещать и располагать элементы.
 
-## Und vieles mehr
+## И многое другое
 
-Bisher mussten Sie jedes Mal, wenn Sie sich ausloggen oder Ihre persönlichen Einstellungen ändern wollten, auf die [Startseite]({{< relref "help/erste-schritte/einfuehrung-grundlagen/die-startseite-von-seatable" >}}) zurückkehren. Dies wird durch die folgende Verbesserung der Benutzeroberfläche viel praktischer: Ihre [persönlichen Einstellungen]({{< relref "help/startseite/persoenliche-einstellungen" >}}) können Sie nun in jeder Base und sogar in jeder Universellen App über Ihr **Avatarbild** in der rechten oberen Ecke erreichen. Wenn Sie Teamadministrator sind, können Sie sich doppelt freuen: Denn auch die [Teamverwaltung]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}) ist jetzt überall in SeaTable nur noch zwei Klicks entfernt.
+Ранее, чтобы выйти из системы или изменить личные настройки, нужно было возвращаться на [главную страницу]({{< relref "help/erste-schritte/einfuehrung-grundlagen/die-startseite-von-seatable" >}}). Теперь это стало гораздо удобнее: свои [личные настройки]({{< relref "help/startseite/persoenliche-einstellungen" >}}) можно открыть в любой базе и даже в любом универсальном приложении через **аватар** в правом верхнем углу. Если вы администратор команды, у вас двойная радость: [управление командой]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}) теперь тоже всегда под рукой — всего в двух кликах.
 
-Auf der Homepage konnten Sie [Ordner]({{< relref "help/startseite/bases/einen-ordner-anlegen" >}}) bislang nur in Gruppen und im Bereich „Meine Bases“ erstellen. Im Bereich „**Für mich freigegeben**“ hatten Sie aber nicht die Möglichkeit, die an Sie freigegebenen Bases in Ordnern thematisch zusammenzufassen. Um die Übersichtlichkeit zu erhöhen, haben wir dies nun ergänzt.
+На главной странице ранее можно было создавать [папки]({{< relref "help/startseite/bases/einen-ordner-anlegen" >}}) только в группах и в разделе «Мои базы». В разделе «**Доступно мне**» не было возможности группировать базы по папкам. Теперь мы добавили эту функцию для большего удобства.
 
-Oftmals ist für andere Nutzer nicht ersichtlich, was Sie sich bei der Struktur einer Base oder Tabelle gedacht haben. Vielleicht möchten Sie auch **Notizen** zu einer Spalte, Tabelle oder Base festhalten. Dies können Sie bisher in einer [Spaltenbeschreibung]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spaltenbeschreibung" >}}) oder in einer [Base-Beschreibung]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}) tun. Was noch fehlte, war die Option, mit einem prägnanten Text die Inhalte, Strukturen und Prozesse in einer Tabelle zu erläutern. Künftig können Sie deshalb jede Tabelle mit einer [Tabellenbeschreibung]({{< relref "help/base-editor/tabellen/eine-tabellenbeschreibung-hinzufuegen" >}}) versehen.
+Часто другим пользователям неясно, какую структуру вы задумали для базы или таблицы. Возможно, вы хотите оставить **заметки** к столбцу, таблице или базе. Это уже можно сделать через [описание столбца]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spaltenbeschreibung" >}}) или [описание базы]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}). Но раньше не хватало возможности кратко описать содержимое, структуру и процессы таблицы. Теперь вы можете добавить [описание таблицы]({{< relref "help/base-editor/tabellen/eine-tabellenbeschreibung-hinzufuegen" >}}) к любой таблице.
 
-![Neue Funktion zur Tabellenbeschreibung](Table-description.png)
+![Новая функция описания таблицы](Table-description.png)
 
-Eine weitere, rein optische Verbesserung betrifft die **Zeilendetails**, in denen Sie Einträge ansehen und je nach Berechtigung bearbeiten können: Wir haben das Design der Zeilendetails in Universellen Apps und Bases angeglichen, um einen einheitlichen Look zu schaffen. Damit Sie gesperrte Felder direkt erkennen können, werden diese in den Zeilendetails nun einheitlich grau hinterlegt.
+Ещё одно чисто визуальное улучшение касается **деталей строки**, где вы можете просматривать и, при наличии прав, редактировать записи: мы унифицировали дизайн деталей строки в универсальных приложениях и базах для единого стиля. Чтобы вы сразу видели заблокированные поля, теперь они всегда подсвечиваются серым.
 
-Für alle, die gerne Prozesse mit einem Mausklick starten, gibt es Grund zur Freude: Die neue [Schaltflächen-Aktion]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) „Benachrichtigung senden“ ist ab SeaTable 4.1 verfügbar. Diese ergänzt die schon zuvor verfügbare Aktion „E-Mail senden“. Da SeaTable mittlerweile **neun** Schaltflächen-Aktionen anbietet, haben wir auch das Auswahl-Fenster übersichtlicher gestaltet:
+Для всех, кто любит запускать процессы одним кликом мыши, есть повод для радости: новая [действие кнопки]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) «Отправить уведомление» теперь доступно в SeaTable 4.1. Она дополняет уже существующее действие «Отправить e-mail». Поскольку в SeaTable теперь доступно **девять** действий кнопок, мы сделали окно выбора более удобным:
 
-![Neue Schaltflächen-Aktion "Benachrichtigung senden"](New-button-action-send-notification.png)
+![Новое действие кнопки "Отправить уведомление"](New-button-action-send-notification.png)
 
-Zu guter Letzt haben wir in SeaTable 4.1 wieder einige **Bugs** gefixt – unter anderem, dass Werte mit folgendem %-Zeichen in Text- und Einfachauswahl-Spalten nicht als Prozentwerte, sondern als Zahlen interpretiert wurden. Dies konnte bei manchen [Formeln]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) zu unerwünschten Ergebnissen führen. Bitte überprüfen Sie, ob sich dieser Bugfix auf Ihre Formeln auswirkt.
+И наконец, в SeaTable 4.1 мы снова исправили ряд **ошибок** — например, значения с символом % в текстовых и одновыборных столбцах теперь больше не интерпретируются как проценты, а как числа. Это могло приводить к нежелательным результатам в некоторых [формулах]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Пожалуйста, проверьте, не повлиял ли этот багфикс на ваши формулы.

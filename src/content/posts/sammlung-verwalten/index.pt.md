@@ -10,8 +10,6 @@ seo:
     description:
 ---
 
----
-
 Suas **coleções** podem ser gerenciadas de forma ideal usando programas digitais e aplicativos. Não importa se a coleção é composta por itens físicos ou mídias digitais. Entre os itens de coleção mais populares estão moedas, selos, tênis, obras de arte, brinquedos, cartas colecionáveis, NFTs, [livros]({{< relref "posts/buecher-katalogisieren" >}}), filmes, música (em CD, vinil) e muito mais. Quando a paixão de um colecionador desperta, o maior desafio costuma ser manter a visão geral. É aí que entram os programas que permitem gerenciar sua coleção – no PC ou em um aplicativo.
 
 ![Gerencie toda a sua coleção de selos com uma ferramenta digital.](Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg)

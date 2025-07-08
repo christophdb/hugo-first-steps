@@ -1,5 +1,5 @@
 ---
-title: 'Literaturverwaltungsprogramm für mehr Durchblick'
+title: 'Programa de gestión de la literatura para una mejor visión de conjunto"
 date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
@@ -9,191 +9,191 @@ seo:
     description:
 ---
 
-Ob Abschlussarbeit, Dissertation oder Forschungsbericht – ein **Literaturverwaltungsprogramm** erleichtert Ihnen die Arbeit an wissenschaftlichen Projekten. Genauso viel Zeit wie das Finden, Sichten und Auswerten von **Quellen** frisst dabei die Erstellung von **Literaturverzeichnissen**.
+Ya sea para un trabajo de fin de grado, una tesis doctoral o un informe de investigación, un **programa de gestión bibliográfica** facilita el trabajo en proyectos académicos. La elaboración de **bibliografías** consume tanto tiempo como la búsqueda, revisión y análisis de **fuentes**.
 
-Mit einer strukturierten Literaturverwaltung beugen Sie Fehlern in Literaturlisten vor und behalten den **Überblick über alle relevanten Studien** zu Ihrem Thema. Zudem hilft Ihnen ein Literaturverwaltungsprogramm, die Quellenangaben zu den gesammelten Werken in einem einheitlichen **Zitationsstil** zu erstellen.
+Con una gestión bibliográfica estructurada, evitarás errores en las listas de referencias y mantendrás una **visión clara de todos los estudios relevantes** sobre tu tema. Además, un programa de gestión bibliográfica te ayuda a crear las referencias de las obras recopiladas en un **estilo de citación** uniforme.
 
-Im Folgenden bekommen Sie verschiedene Software-Lösungen im Vergleich vorgestellt und erhalten zusätzlich Tipps zur erfolgreichen Literaturverwaltung.
+A continuación, te presentamos una comparativa de diferentes soluciones de software y consejos para una gestión bibliográfica exitosa.
 
-![Ein Stapel Bücher, vorsortiert für die Literaturverwaltung.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
+![Una pila de libros, preseleccionados para la gestión bibliográfica.](Literaturverwaltung_AdobeStock_216608035_bearbeitet-711x474.jpg)
 
-Bringen Sie Ordnung in Ihre wissenschaftliche Literatur! © caftor / Adobe Stock
+¡Pon orden en tu literatura científica! © caftor / Adobe Stock
 
-## Warum ist ein Literaturverwaltungsprogramm sinnvoll?
+## ¿Por qué es útil un programa de gestión bibliográfica?
 
-Belege für Hypothesen sammeln, den Forschungsstand darstellen oder das eigene Vorgehen untermauern: In wissenschaftlichen Projekten ist das **Suchen und Auswerten von Quellen** unumgänglich – sei es in Büchern, Zeitschriften oder Online-Medien. Saubere wissenschaftliche Arbeit ist dabei mit einem großen Aufwand verbunden, den Sie mit einer geschickten Literaturverwaltung minimieren können.
+Recopilar evidencias para hipótesis, exponer el estado de la investigación o fundamentar tu propio enfoque: en los proyectos académicos, la **búsqueda y análisis de fuentes** es imprescindible, ya sea en libros, revistas o medios online. El trabajo científico riguroso implica un gran esfuerzo, que puedes reducir con una gestión bibliográfica eficiente.
 
-Mit einem Literaturverwaltungsprogramm können Sie …
+Con un programa de gestión bibliográfica puedes…
 
-- den [Überblick bei umfangreichen Projekten]({{< relref "templates/projects/project-plan" >}}) behalten.
-- Forschungsliteratur systematisch erfassen.
-- für eine einheitliche Zitierweise sorgen.
-- flexibel Änderungen an Ihren Literaturlisten vornehmen.
-- die Fehleranfälligkeit bei langen Literaturlisten reduzieren.
-- Ihre Quellen nach Kategorien und Projekten ordnen.
-- Daten automatisch in der Cloud oder auf einem Server sichern.
+- [Mantener la visión global en proyectos extensos]({{< relref "templates/projects/project-plan" >}})
+- Registrar la literatura científica de forma sistemática
+- Garantizar una citación uniforme
+- Realizar cambios flexibles en tus listas bibliográficas
+- Reducir errores en listas bibliográficas largas
+- Organizar tus fuentes por categorías y proyectos
+- Guardar datos automáticamente en la nube o en un servidor
 
-Alles in allem ermöglicht Ihnen die Datenbankstruktur von Literaturverwaltungsprogrammen eine sinnvollere Quellenverwaltung, als es manuell (z. B. in einem Texteditor oder auf Papier) möglich wäre.
+En definitiva, la estructura de base de datos de los programas de gestión bibliográfica permite una administración de fuentes mucho más eficiente que hacerlo manualmente (por ejemplo, en un editor de texto o en papel).
 
-## Literaturverwaltungsprogramme im Vergleich
+## Comparativa de programas de gestión bibliográfica
 
-Sie haben die Entscheidung getroffen, zum effizienteren Arbeiten eine Literatur-Software zu benutzen? Wunderbar! Aber nun stellt sich natürlich die Frage, welches Programm am besten für Sie geeignet ist. Dies ist vor allem abhängig von der Größe Ihres Projekts und den Tools, welche Sie nutzen möchten. Die sechs bekanntesten Programme stellen wir Ihnen im Folgenden vor.
+¿Has decidido usar un software de gestión bibliográfica para trabajar de forma más eficiente? ¡Perfecto! Pero ahora surge la pregunta: ¿qué programa es el más adecuado para ti? Esto depende sobre todo del tamaño de tu proyecto y de las herramientas que desees utilizar. A continuación, te presentamos los seis programas más conocidos.
 
-![Ein Vergleich der sechs Programme aufgrund ihrer Features kann helfen, das richtige für Sie zu finden.](Green-and-Black-Corporate-Comparison-Chart-1-e1714394827171-711x528.png)
+![Una comparación de las seis herramientas según sus funciones puede ayudarte a encontrar la adecuada.](Green-and-Black-Corporate-Comparison-Chart-1-e1714394827171-711x528.png)
 
-Verschaffen Sie sich zunächst einen Überblick über die Features.
+Primero, hazte una idea general de las funciones.
 
-### Citavi – der Klassiker
+### Citavi – el clásico
 
-Citavi ist das präferierte Literaturverwaltungsprogramm vieler Hochschulen. Für die Nutzung in diesem Bereich sind vor allem die Anwendung auf **Deutsch**, die **uneingeschränkt mögliche Gruppenarbeit**, sowie ein **guter Support** bei Fragen von Vorteil.
+Citavi es el programa de gestión bibliográfica preferido por muchas universidades. Sus ventajas para este ámbito son principalmente su uso en **alemán**, la **colaboración en grupo sin restricciones** y un **buen soporte** para consultas.
 
-![Das Literaturverwaltungsprogramm Citavi eignet sich für Gruppenarbeiten, da Daten einfach geteilt werden können.](annie-spratt-QckxruozjRg-unsplash-e1714397904602.jpg)
+![El programa de gestión bibliográfica Citavi es ideal para el trabajo en grupo, ya que los datos se pueden compartir fácilmente.](annie-spratt-QckxruozjRg-unsplash-e1714397904602.jpg)
 
-Gruppenarbeiten sind mit Citavi ein Kinderspiel.
+El trabajo en grupo es muy sencillo con Citavi.
 
-Jedoch ist das Programm, im Vergleich zu vielen seiner Konkurrenten, **nicht kostenlos und ausschließlich mit Windows nutzbar**. Nach 30 kostenfreien Tagen müssen Sie tief in die Tasche greifen. Der zu zahlende Preis richtet sich nach Ihrer Tätigkeit und beginnt für Studenten bei 75 Euro pro Jahr in der Web-Version. Unternehmen zahlen für die Windows-Version circa 425 Euro für zwei Jahre.
+Sin embargo, a diferencia de muchos de sus competidores, **no es gratuito y solo está disponible para Windows**. Tras 30 días de prueba gratuita, hay que pagar. El precio depende de tu situación: para estudiantes, la versión web cuesta desde 75 euros al año. Las empresas pagan unos 425 euros por dos años en la versión para Windows.
 
-### Zotero – das Einsteigerprogramm
+### Zotero – el programa para principiantes
 
-Zotero eignet sich besonders für Neulinge, da es intuitiv zu bedienen und für Recherchen in allen Fachrichtungen ausgelegt ist. Das Programm ist **kostenlos**, läuft auf allen gängigen Betriebssystemen und kann dank einer App auch auf dem Handy oder Tablet bedient werden. Es gibt jedoch einige inhaltliche Vor- und Nachteile, auf welche Sie achten sollten:
+Zotero es especialmente adecuado para principiantes, ya que es intuitivo y sirve para investigaciones en cualquier disciplina. El programa es **gratuito**, funciona en todos los sistemas operativos habituales y, gracias a su app, también puede usarse en móvil o tablet. Sin embargo, hay algunas ventajas e inconvenientes que debes tener en cuenta:
 
-**Vorteile**
+**Ventajas**
 
-- Über ein Add-on können Sie Literaturdaten aus dem Internet direkt in das Programm übernehmen.
-- Screenshots und PDFs werden automatisch aus dem Browser übernommen.
-- Sie können Ihren präferierten Zitierstil einstellen.
+- Mediante un complemento, puedes importar datos bibliográficos de Internet directamente al programa.
+- Las capturas de pantalla y los PDFs se importan automáticamente desde el navegador.
+- Puedes elegir tu estilo de citación preferido.
 
-﻿**Nachteile**
+**Desventajas**
 
-- Die im Programm hinterlegten PDFs können Sie nicht ohne Weiteres bearbeiten, es gibt jedoch eine Notizfunktion, in welcher Sie zeitgleich arbeiten können.
-- Die Datenbankrecherche im Programm ist nur eingeschränkt möglich.
-- Automatische Literaturangaben sollten Sie überprüfen, da diese fehlerhaft oder unvollständig sein können.
+- Los PDFs almacenados en el programa no pueden editarse fácilmente, aunque hay una función de notas para trabajar en paralelo.
+- La búsqueda en bases de datos dentro del programa es limitada.
+- Debes revisar las referencias automáticas, ya que pueden ser incorrectas o incompletas.
 
-### Mendeley – die Cloud-Software
+### Mendeley – el software en la nube
 
-Mendeley bietet Ihnen ein **Gratis-Abonnement** mit zwei Gigabyte Speicherplatz in der Cloud an. Sollte Ihnen das nicht reichen, können Sie gegen einen Preis auf Anfrage eine Version mit mehr Speicherplatz, zusätzlichem Support, weiteren Features und einer besseren Datenverschlüsselung erwerben. Das Programm läuft auf allen Betriebssystemen.
+Mendeley te ofrece una **suscripción gratuita** con dos gigabytes de almacenamiento en la nube. Si necesitas más, puedes adquirir una versión con más espacio, soporte adicional, más funciones y mejor cifrado de datos (precio a consultar). El programa funciona en todos los sistemas operativos.
 
-{{< warning headline="Zugriff per App" text="Auch Mendeley bietet eine App über iOS an, mit welcher Sie immer mobilen Zugriff auf Ihre Literaturverwaltung haben." />}}
+{{< warning headline="Acceso por app" text="Mendeley también ofrece una app para iOS, con la que puedes acceder a tu gestión bibliográfica desde cualquier lugar." />}}
 
-Neben der Nutzung über das Desktop-Programm oder den Web Importer, können Sie Mendeley auch über ein **Word-Plugin** verwenden. Alle Ihre Daten, Dokumente und Ordner werden über die Cloud synchronisiert.
+Además de la versión de escritorio o el Web Importer, puedes usar Mendeley con un **plugin para Word**. Todos tus datos, documentos y carpetas se sincronizan en la nube.
 
-Trotz dieser Vorteile hat das Programm inhaltliche Schwächen. Die Suchverläufe werden nicht gespeichert und nicht alle gespeicherten Werke können miteinander verknüpft werden. Außerdem sollten Sie gut Englisch verstehen, da das Programm nur in dieser Sprache verfügbar ist.
+Pese a estas ventajas, el programa tiene algunas limitaciones: no guarda los historiales de búsqueda y no todos los documentos almacenados pueden vincularse entre sí. Además, debes tener buen nivel de inglés, ya que solo está disponible en este idioma.
 
-### EndNote – der Alleskönner
+### EndNote – el todoterreno
 
-Mit EndNote erhalten Sie ein **Rundumpaket mit vielen nützlichen Funktionen**, jedoch sollten Sie bereit sein, dafür einen **hohen Preis** zu zahlen. Das kommerzielle Literaturverwaltungsprogramm des Informationsdienstleisters Thomson-Reuters bietet aber auch eine kostenfreie Version an, welche Sie für **30 Tage testen** können. Dabei sind die Funktionen jedoch stark begrenzt.
+Con EndNote obtienes un **paquete completo con muchas funciones útiles**, pero debes estar dispuesto a pagar un **precio elevado**. El programa comercial de gestión bibliográfica de Thomson-Reuters también ofrece una versión gratuita de **30 días de prueba**, aunque con funciones muy limitadas.
 
-![Das Literaturverwaltungsprogramm EndNote hat viele nützliche Funktionen.](ai-generated-8554676_640-e1715591833397.png)
+![El programa de gestión bibliográfica EndNote tiene muchas funciones útiles.](ai-generated-8554676_640-e1715591833397.png)
 
-In der Vollversion erhalten Sie viele nützliche Tools.
+La versión completa incluye muchas herramientas útiles.
 
-Das Programm ist spezialisiert auf Wissenschaftler, welche an großen Forschungsprojekten arbeiten. Das wird vor allem daran deutlich, dass das Programm eine **hohe Einarbeitungszeit** benötigt, um den Umgang mit den vielen Features zu lernen.
+El programa está especializado en investigadores que trabajan en grandes proyectos. Esto se nota sobre todo en que requiere **mucho tiempo de aprendizaje** para dominar todas sus funciones.
 
-Um diese unbegrenzt nutzen zu können, müssen Sie eine Vollversion erwerben. Diese beginnt bei 252 Euro für Einzelnutzer. Als Student erhalten Sie nach Prüfung Ihrer Legitimierung 50 Prozent Rabatt.
+Para usarlas sin límites, debes comprar la versión completa, que parte de 252 euros para usuarios individuales. Como estudiante, tras verificar tu condición, obtienes un 50% de descuento.
 
-### JabRef – der Sprachguru
+### JabRef – el multilingüe
 
-JabRef ist eine **kostenlose Open-Source-Literaturverwaltung**. Die Plattform-Entwickler stellen den Quellcode jedem zur Verfügung, sodass viele Entwickler an der Optimierung der Software mitarbeiten können. Das zeigt sich vor allem dadurch, dass das Programm **in vielen Sprachen** verfügbar ist.
+JabRef es un **gestor bibliográfico gratuito y de código abierto**. Los desarrolladores ponen el código fuente a disposición de todos, permitiendo que muchos colaboren en su mejora. Esto se refleja especialmente en que el programa está **disponible en muchos idiomas**.
 
-![Viele Entwickler arbeiten an einem gemeinsamen Code.](program-6944163_640-e1715591934559.jpg)
+![Muchos desarrolladores trabajan en un código común.](program-6944163_640-e1715591934559.jpg)
 
-Wer sich auskennt, kann helfen JabRef zu verbessern.
+Quien tenga conocimientos puede ayudar a mejorar JabRef.
 
-Darüber hinaus weist JabRef jedoch Schwachstellen auf. Die Literaturverwaltung funktioniert auf mobilen Endgeräten nicht optimal, Sie können nicht mit anderen Nutzern kommunizieren und es gibt keine Volltextsuche, was die Erstellung des Literaturverzeichnisses erschwert.
+Sin embargo, JabRef también tiene limitaciones: su gestión en dispositivos móviles no es óptima, no permite comunicación entre usuarios y no tiene búsqueda de texto completo, lo que dificulta la creación de bibliografías.
 
-### SeaTable – die intelligente Tabellenlösung
+### SeaTable – la solución inteligente en tablas
 
-SeaTable bietet Ihnen eine **tabellarisch** aufgebaute Alternative zu den bereits vorgestellten Literaturverwaltungsprogrammen. Die Nutzeroberfläche ist **intuitiv** bedienbar und bietet Ihnen viele nützliche Features, um Ihre Literatur schnell und einfach zu strukturieren.
+SeaTable te ofrece una alternativa **basada en tablas** a los programas de gestión bibliográfica tradicionales. Su interfaz es **intuitiva** y cuenta con muchas funciones útiles para estructurar tu literatura de forma rápida y sencilla.
 
-Die [Vorlage]({{< relref "templates/projects/bibliography" >}}) gibt Ihnen einen Überblick, wie Sie das Programm nutzen und an Ihre Bedürfnisse anpassen können. SeaTable ist eine Datenbank, wobei Sie Ihre Daten in Tabellen eintragen, mit Aufgaben verknüpfen und mit Dokumenten anreichern können. Die **Zusammenarbeit im Team** ist **in Echtzeit** möglich.
+La [plantilla]({{< relref "templates/projects/bibliography" >}}) te da una visión general de cómo usar el programa y adaptarlo a tus necesidades. SeaTable es una base de datos donde puedes introducir tus datos en tablas, vincularlos a tareas y añadir documentos. La **colaboración en equipo** es **en tiempo real**.
 
-SeaTable ist als **kostenfreie Cloud-Version** oder als Programm für Ihren eigenen Server erhältlich. Möchten Sie noch weitere Features erhalten und mit mehr Nutzern zusammenarbeiten, gibt es die Möglichkeit, Upgrades vorzunehmen. Die Plus-Variante kostet 7 Euro pro User und Monat und die Enterprise-Variante liegt bei 14 Euro pro User und Monat.
+SeaTable está disponible como **versión gratuita en la nube** o como programa para tu propio servidor. Si quieres más funciones y colaborar con más usuarios, puedes actualizar: la versión Plus cuesta 7 euros por usuario y mes, y la Enterprise, 14 euros por usuario y mes.
 
-## Wie Sie Ihr Literaturverwaltungsprogramm optimal nutzen
+## Cómo aprovechar al máximo tu programa de gestión bibliográfica
 
-Holen Sie mit den Folgenden acht Tipps alles aus dem Programm heraus, welches Sie für Ihre Literaturverwaltung nutzen möchten. Hier erfahren Sie, worauf Sie achten sollten und welche Programmfunktionen Ihnen die Arbeit erleichtern.
+Con estos ocho consejos sacarás el máximo partido al programa que elijas para gestionar tu bibliografía. Aquí verás en qué debes fijarte y qué funciones pueden facilitarte el trabajo.
 
-### 1\. Vorsicht beim Quellen-Import
+### 1\. Precaución al importar fuentes
 
-Verlassen Sie sich nicht darauf, dass die Quellenangaben in Literaturprogrammen oder anderen wissenschaftlichen Arbeiten stimmen. Fehler passieren, die Daten können unvollständig sein oder im falschen Zitationsstil vorliegen. Beim Datenimport aus anderen Programmen oder per DOI kann es auch vorkommen, dass wichtige Informationen nicht übernommen werden. Das ist besonders ärgerlich, wenn Sie die Fehler erst beim Einfügen des Literaturverzeichnisses in Ihr Dokument bemerken.
+No confíes en que las referencias en los programas o en otros trabajos académicos sean correctas. Puede haber errores, datos incompletos o en el estilo de citación incorrecto. Al importar datos de otros programas o mediante DOI, puede que falte información importante. Esto es especialmente molesto si detectas los errores solo al insertar la bibliografía en tu documento.
 
-Kontrollieren Sie also direkt, ob die Literaturangaben korrekt sind, und ergänzen Sie diese gegebenenfalls. Möchten Sie sich diese Aufgabe bis zum Schluss aufheben, ist es hilfreich, sie in einer [To-do-Liste]({{< relref "templates/projects/to-do-list" >}}) einzutragen, um es nicht zu vergessen.
+Comprueba siempre que las referencias sean correctas y complétalas si es necesario. Si prefieres dejar esta tarea para el final, es útil anotarlo en una [lista de tareas]({{< relref "templates/projects/to-do-list" >}}) para no olvidarlo.
 
-![Literaturverwaltung in Bibliothek mit Tablet.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
+![Gestión bibliográfica en la biblioteca con tablet.](Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg)
 
-Einige Literaturverwaltungsprogramme können Quellen per DOI erfassen. © ake1150 / Adobe Stock
+Algunos programas pueden capturar fuentes mediante DOI. © ake1150 / Adobe Stock
 
-### 2\. Literaturdaten sorgfältig eingeben
+### 2\. Introduce cuidadosamente los datos bibliográficos
 
-Ein Literaturverwaltungsprogramm ist nur so gut wie sein Anwender – also Sie. Achten Sie daher darauf, Literaturdaten korrekt einzugeben. So kann Ihr Programm die formatierten Nachweise und Literaturverzeichnisse ohne Fehler erstellen, da es genau weiß, wo welche Informationen hingehören.
+Un programa de gestión bibliográfica solo es tan bueno como su usuario, es decir, tú. Por eso, asegúrate de introducir los datos correctamente. Así, el programa podrá generar las referencias y bibliografías sin errores, ya que sabrá exactamente dónde va cada dato.
 
-Nicht alle Informationen zu Ihren Quellen sind für die spätere Übertragung in das Literaturverzeichnis relevant. Damit Sie die von vielen Programmen automatisch erstellten Angaben nicht überfordern, sollten Sie wissen, wie Sie Quellen korrekt zitieren:
+No toda la información de tus fuentes es relevante para la bibliografía final. Para no saturar las referencias generadas automáticamente, debes saber cómo citar correctamente:
 
-{{< faq "Autoren" >}}
+{{< faq "Autores" >}}
 
-Die Autoren sollten Sie mit Nach- und Vornamen und ggf. akademischen Titeln angeben. Neben den Autoren ist bei Sammelbänden auch der Name der Herausgeber zu nennen.
+Debes indicar los autores con nombre y apellido y, si corresponde, títulos académicos. En obras colectivas, también el nombre de los editores.
 {{< /faq >}}
 
-{{< faq "Jahr" >}}
+{{< faq "Año" >}}
 
-Neben der Jahreszahl müssen Sie bei Internetquellen auch Tag und Monat der Veröffentlichung angeben. Handelt es sich um eine Quelle ohne Jahresangabe, müssen Sie dies ebenfalls kenntlich machen.
+Además del año, en fuentes online debes indicar el día y el mes de publicación. Si una fuente no tiene fecha, también debes especificarlo.
 {{< /faq >}}
 
-{{< faq "Titel" >}}
+{{< faq "Título" >}}
 
-Der Titel bezieht sich auf den Titel des Artikels, des Buches oder des Kapitels, wenn es sich um einen Sammelband handelt. Dabei sollten Sie die Groß- und Kleinschreibung beachten.
+El título corresponde al del artículo, libro o capítulo (en obras colectivas). Presta atención a las mayúsculas y minúsculas.
 {{< /faq >}}
 
-{{< faq "Medium" >}}
+{{< faq "Medio" >}}
 
-Meist reicht hier die Angabe der Zeitschrift oder des Werkes, in welchem der Artikel veröffentlicht wurde. Handelt es sich um Bücher, sollten Sie den Verlag nennen.
+Normalmente basta con indicar la revista o la obra donde se publicó el artículo. En libros, indica la editorial.
 {{< /faq >}}
 
-{{< faq "Ausgabe und Seitenzahl" >}}
+{{< faq "Edición y número de página" >}}
 
-Diese Angaben sollten Sie so genau wie möglich notieren. Zählen Sie die Seitenzahlen nach, wenn diese nicht abgedruckt sind.
+Anota estos datos con la mayor precisión posible. Si las páginas no están impresas, cuéntalas tú mismo.
 {{< /faq >}}
 
-### 3\. Neue Quellen mit dem Literaturverwaltungsprogramm recherchieren
+### 3\. Buscar nuevas fuentes con el programa
 
-Einige Literaturverwaltungsprogramme erleichtern Ihnen die Suche nach neuer Literatur. Bei Citavi haben Sie zum Beispiel die Möglichkeit, sich **Such-Alarme** ausgeben zu lassen. So erfahren Sie, wenn neue Artikel zu einem Ihrer Themen online verfügbar sind. Mendeley bietet einen Empfehlungsdienst an, über den Sie sich ähnliche Artikel anzeigen lassen können.
+Algunos programas facilitan la búsqueda de nueva literatura. Por ejemplo, en Citavi puedes configurar **alertas de búsqueda** para saber cuándo hay nuevos artículos sobre tus temas. Mendeley ofrece un servicio de recomendaciones para ver artículos similares.
 
-![Studentin prüft vor Abgabe final Ihr Literaturverzeichnis.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
+![Estudiante revisa la bibliografía final antes de entregar.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
 
-Für die Quellenrecherche bieten sich auch Bibliotheken an. © Jacob Lund / Adobe Stock
+Las bibliotecas también son útiles para la búsqueda de fuentes. © Jacob Lund / Adobe Stock
 
-### 4\. Gliederung im Literaturverwaltungsprogramm anlegen
+### 4\. Crear una estructura en el programa
 
-Um strukturiert arbeiten zu können, bedarf es einer **übersichtlichen Gliederung** ihrer Literatur. Sie können Ihre Quellen in Kategorien unterteilen oder sie verschiedenen Projekten wie Abschlussarbeiten, [Inhaltsanalysen]({{< relref "posts/qualitative-inhaltsanalyse" >}}) oder Forschungsprojekten zuordnen.
+Para trabajar de forma estructurada, necesitas un **esquema claro** de tu literatura. Puedes clasificar tus fuentes por categorías o asignarlas a proyectos como tesis, [análisis de contenido]({{< relref "posts/qualitative-inhaltsanalyse" >}}) o investigaciones.
 
-Zotero bietet Ihnen die Möglichkeit, Quellen mit Markierungen zu versehen, nach denen Sie selektieren können. In SeaTable können Sie die Quellen ganz nach Ihren Wünschen sortieren und gruppieren, zum Beispiel nach Autoren, Themen, der Art der Quelle oder dem Stand der Bearbeitung. So finden Sie auch in größeren Projekten schnell, wonach Sie suchen.
+Zotero te permite marcar fuentes y filtrarlas. En SeaTable puedes organizar y agrupar las fuentes como desees: por autor, tema, tipo de fuente o estado de revisión. Así, incluso en proyectos grandes, encontrarás lo que buscas rápidamente.
 
-### 5\. Zitationsstil festlegen
+### 5\. Elegir el estilo de citación
 
-Nicht alle Quellen werden nach dem gleichen Muster zitiert. Bereits zu Beginn Ihres Projekts sollten Sie sich entscheiden, welchen [**Zitationsstil**](https://www.scribbr.de/richtig-zitieren/uebersicht-zitierstile/) Sie verwenden. Haben Sie sich für einen Stil entschieden, sollten Sie diesen einheitlich durchziehen und auch in Ihrem Literaturverwaltungsprogramm einstellen. Mit dem Programm können Sie dann alle Ihre Quellen in diesem Stil formatieren und in Ihre Arbeit kopieren.
+No todas las fuentes se citan igual. Desde el principio de tu proyecto, decide qué [**estilo de citación**](https://www.scribbr.de/richtig-zitieren/uebersicht-zitierstile/) vas a usar. Una vez elegido, aplícalo de forma uniforme y configúralo en tu programa. Así, podrás formatear todas tus fuentes en ese estilo y copiarlas a tu trabajo.
 
-{{< warning headline="Wichtiger Hinweis" text="Der Zitationsstil ist nicht nur entscheidend für die Darstellung Ihrer Quellen im Literaturverzeichnis, er wird auch verwendet, um Kurzverweise im Text zu setzen." />}}
+{{< warning headline="Nota importante" text="El estilo de citación no solo determina cómo aparecen las referencias en la bibliografía, sino también cómo se hacen las citas breves en el texto." />}}
 
-### 6\. Notizfunktion im Literaturverwaltungsprogramm nutzen
+### 6\. Usar la función de notas
 
-Einige Programme haben Tools für **Notizen**. Nutzen Sie diese, um während des Lesens wichtige inhaltliche Aussagen mitzuschreiben, und versehen Sie diese mit Seitenzahlen, um die Stellen später leichter zu finden.
+Algunos programas incluyen herramientas para **notas**. Úsalas para anotar ideas importantes durante la lectura y añade el número de página para encontrarlas fácilmente después.
 
-![Notizen können Sie auch auf Papier machen.](david-travis-5bYxXawHOQg-unsplash-e1715851598784.jpg)
+![También puedes tomar notas en papel.](david-travis-5bYxXawHOQg-unsplash-e1715851598784.jpg)
 
-Sie können auch auf den klassischen Notizblock zurückgreifen.
+También puedes usar el clásico bloc de notas.
 
-### 7\. Ergebnisse überprüfen
+### 7\. Revisar los resultados
 
-Verlassen Sie sich nicht komplett auf das Programm. Vor der Abgabe Ihrer Arbeit sollten Sie das Literaturverzeichnis gegenlesen. **Prüfen** Sie, ob Sie die Stilrichtlinien erfüllt und die Nachweise korrekt gesetzt haben.
+No confíes totalmente en el programa. Antes de entregar tu trabajo, revisa la bibliografía. **Comprueba** si has seguido las normas de estilo y si las referencias están bien hechas.
 
-### 8\. Keine Inhalte löschen
+### 8\. No borres contenido
 
-Oft sichtet man mehr Quellen, als man letztendlich für seine Arbeit verwendet. Ist ein Projekt abgeschlossen, heißt es meist: Aus den Augen, aus dem Sinn. Aber das muss nicht sein! Löschen Sie Ihre Quellen und mit Mühe gemachten Notizen nicht, selbst wenn die Arbeit für Sie beendet scheint. Schließlich könnten Sie die Informationen bei künftigen Projekten noch einmal benötigen und wiederverwenden. Bauen Sie sich stattdessen eine Wissensdatenbank in Ihrem Literaturverwaltungsprogramm auf.
+A menudo revisas más fuentes de las que acabas usando. Cuando terminas un proyecto, es fácil olvidarlas. ¡Pero no tiene por qué ser así! No borres tus fuentes ni las notas, aunque el trabajo ya haya terminado. Puede que las necesites en futuros proyectos. Mejor, crea una base de conocimientos en tu programa de gestión bibliográfica.
 
-## Fazit: Literaturverwaltungsprogramm ausprobieren
+## Conclusión: prueba un programa de gestión bibliográfica
 
-Welches Literaturverwaltungsprogramm für Sie das richtige ist, sollten Sie davon abhängig machen, welche Funktionen Sie nutzen möchten und wie viel Geld Sie bereit sind, in das Programm zu investieren. Es empfiehlt sich zudem, die Programme kostenfrei zu testen.
+El programa más adecuado para ti depende de las funciones que necesites y de cuánto estés dispuesto a invertir. Es recomendable probar los programas gratuitamente.
 
-SeaTable bietet Ihnen dafür eine [Vorlage]({{< relref "templates/projects/bibliography" >}}), in welcher Sie beispielhafte Literatur finden und den Prozess vom Einpflegen der Quellen bis hin zur Ausgabe des Literaturverzeichnisses nachvollziehen können. Die Vorlage können Sie nach Belieben an Ihre Anforderungen anpassen, eigene Quellen einfügen und sie mit vielen nützlichen Tools strukturieren und visualisieren.
+SeaTable te ofrece una [plantilla]({{< relref "templates/projects/bibliography" >}}) con literatura de ejemplo y el proceso completo, desde la incorporación de fuentes hasta la generación de la bibliografía. Puedes adaptarla a tus necesidades, añadir tus propias fuentes y estructurarlas y visualizarlas con muchas herramientas útiles.
 
-Wenn Sie SeaTable als Literaturverwaltungsprogramm nutzen möchten, [registrieren]({{< relref "pages/registration" >}}) Sie sich einfach kostenlos.
+Si quieres usar SeaTable como programa de gestión bibliográfica, [regístrate]({{< relref "pages/registration" >}}) gratis.

@@ -77,7 +77,7 @@ Here's how it works:
 2. Select the integrated email account from which the mail is to be sent.
 3. Select subject, email text and recipient
 
-> **Für Profis:** Sie können dabei mit Nasenklammern direkt Spalteninhalte wiedergeben, was besonders bei der Email-Adresse sehr wichtig ist. Mit {Email} beziehen wir uns in unserer Vorlage auf die zuvor eingefügte Email-Adresse der Lieferanten, die aus Tabelle 3 gezogen wird. Die Inhalte aus Spalten können Sie auch im Betreff und dem Text der Email benutzen, wie etwa den Produktnamen und die Menge der bestellten Güter (also etwa: “Wir möchten das Produkt {Product} mit der Menge {Amount} bestellen”). Auf diese Weise vereinfachen Sie Ihre Büroorganisation ungemein, da Sie keine manuellen Emails mehr schreiben müssen, in der alle Bestellungen mühsam übertragen werden müssen.
+**For professionals:** You can directly reproduce column contents with nose brackets, which is particularly important for the email address. In our template, we use {Email} to refer to the previously inserted email address of the supplier, which is taken from Table 3. You can also use the content from columns in the subject and text of the email, such as the product name and the quantity of goods ordered (for example: "We would like to order the product {Product} with the quantity {Amount}"). In this way, you simplify your office organization immensely, as you no longer have to write manual emails in which all orders have to be laboriously transferred.
 
 ## Individual views and Kanban provide a better overview
 

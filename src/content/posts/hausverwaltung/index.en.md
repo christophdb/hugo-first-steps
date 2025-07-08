@@ -1,131 +1,131 @@
 ---
-title: 'Hausverwaltung leicht gemacht: Immobilien professionell managen'
+title: 'Property management made easy: Manage real estate professionally'
 date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
-url: '/hausverwaltung'
+url: '/property-management'
 seo:
     title:
     description:
 ---
 
-Die **Vermietung von Immobilien** ist sowohl privat als auch für Unternehmen und Kommunen ein lohnendes Geschäft. Wenn Sie Immobilien bewirtschaften, müssen Sie aber eine funktionierende **Hausverwaltung** gewährleisten – egal, ob Sie privat einzelne Wohnungen vermieten oder im großen Stil mit einer Firma.
+**Property rental** is a profitable business for individuals, companies, and municipalities alike. If you manage properties, you need to ensure effective **property management**—whether you’re renting out a few apartments privately or managing a large portfolio as a company.
 
-Was es bei der Hausverwaltung zu beachten gibt und wie Sie Ihr Immobilienmanagement digital umsetzen können, erfahren Sie in diesem Artikel.
+This article explains what to keep in mind with property management and how you can digitize your real estate management.
 
-## Was ist eine Hausverwaltung?
+## What Is Property Management?
 
-Bei der Immobilienverwaltung geht es primär um das Verwalten einzelner Mieteinheiten. Eine Hausverwaltung ist in diesem Sinne eine Firma, die sich mit der **Verwaltung von vermieteten Wohnhäusern, Eigentumswohnungen und Gewerbeimmobilien** beschäftigt. Diese Immobilien müssen sich dabei _nicht_ in ihrem Besitz befinden.
+Property management primarily involves managing individual rental units. In this sense, a property management company is a business that handles the **management of rented residential buildings, condominiums, and commercial properties**. These properties do _not_ have to be owned by the management company.
 
-![Vermietung von Immobilien](tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
+![Property rental](tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg)
 
-Als Eigentümer müssen Sie sich um die Verwaltung und Vermietung Ihrer Immobilien kümmern.
+As an owner, you are responsible for managing and renting out your properties.
 
-Es gibt **externe Hausverwaltungen**, die Eigentümer von Mietobjekten bei der Verwaltung unterstützen oder dies gänzlich übernehmen. Das heißt, dass sie dafür sorgen, dass die Immobilien gut erhalten bleiben und die Bewirtschaftung der Objekte gewährleistet ist. Diesen administrativen Aufwand lassen sie sich von den Eigentümern vergüten.
+There are **external property management companies** that support property owners with management or take over the process entirely. This means they ensure the properties are well-maintained and that operations run smoothly. They are compensated by the owners for this administrative work.
 
-{{< warning headline="Hausverwaltung vs. Hausmeister" text="Die Hausverwaltung wird oft mit dem **Hausmeister** verwechselt. Der Hausmeister ist jedoch nur ein Angestellter oder Dienstleister der Hausverwaltung und erbringt überwiegend Handwerkerleistungen." />}}
+{{< warning headline="Property Management vs. Janitor" text="Property management is often confused with the **janitor**. However, the janitor is just an employee or service provider for the management company and mainly performs maintenance tasks." />}}
 
-Es gibt aber auch viele **private Eigentümer**, die selbst die administrativen Tätigkeiten der Hausverwaltung übernehmen – insbesondere, wenn es sich um wenige Mietparteien handelt. Damit sparen sie sich die Kosten für eine externe Verwaltung.
+There are also many **private owners** who handle the administrative tasks themselves—especially when there are only a few tenants. This saves the cost of hiring an external management company.
 
-Unter einem **Hausverwalter** versteht man wiederum eine selbstständige Person, die eigene oder fremde Mietobjekte verwaltet.
+A **property manager** refers to a self-employed individual who manages their own or others’ rental properties.
 
-## Wann Sie eine externe Hausverwaltung hinzuziehen sollten
+## When Should You Hire an External Property Management Company?
 
-Wenn Sie **mehrere Immobilien** besitzen und vermieten, ist es oftmals ratsam, eine professionelle Hausverwaltung zu engagieren. Diese kennt sich meist in der Immobilienwirtschaft aus und hat bereits vorgefertigte Prozesse für die effiziente Verwaltung Ihrer Mietobjekte. Vor allem, wenn Sie Ihre Immobilien als **Kapitalanlage** nutzen und hauptberuflich einem anderen Job nachgehen, fehlt oft die **Zeit**, sich um jede Immobilie und die Belange der Mieter selbst zu kümmern.
+If you **own and rent out multiple properties**, it’s often wise to hire a professional property management company. These firms are usually experienced in real estate and have established processes for efficiently managing your rental units. Especially if you use your properties as an **investment** and have another full-time job, you often lack the **time** to take care of every property and tenant issue yourself.
 
-In diesem Fall sollten Sie überlegen, ob sich die **Kosten für eine externe Hausverwaltung** lohnen könnten: Je mehr Mietparteien Sie zu betreuen haben, desto eher lohnt sich dieses Vorhaben. Zwischen der Hausverwaltung und Ihnen als Eigentümer können Sie vertraglich ganz genau festhalten, welche Aufgaben Sie der Firma übertragen und wer etwa Zahlungserinnerungen, Instandhaltungsmaßnahmen oder die Kommunikation mit den Mietern koordiniert. Wenn Sie es sich zutrauen, können Sie die Hausverwaltung natürlich auch komplett selbst übernehmen.
+In this case, you should consider whether the **cost of external property management** is worth it: The more tenants you have, the more worthwhile this becomes. You can specify in a contract exactly which tasks you delegate to the company and who is responsible for things like payment reminders, maintenance, or tenant communication. Of course, if you feel up to it, you can also handle all property management tasks yourself.
 
-> Je mehr Mietparteien Sie zu verwalten haben, desto eher lohnt sich eine externe Hausverwaltung, die Ihnen als Eigentümer viel Arbeit abnimmt. Trotz hoher Kosten sind Immobilien auf lange Sicht eine [gewinnbringende Kapitalanlage](https://www.immoanleger.de/10-gruende-immobilien-investieren/), weil sie im Wert steigen und bei Eigenbedarf selbst bezogen werden können.
+> The more tenants you have to manage, the more worthwhile it is to hire an external property management company, which takes a lot of work off your plate as an owner. Despite high costs, real estate is a [profitable investment](https://www.immoanleger.de/10-gruende-immobilien-investieren/) in the long run, as property values rise and you can move in yourself if needed.
 
-## Hausverwaltung bei Eigentümergemeinschaften
+## Property Management in Homeowners’ Associations
 
-Manchmal kommen Sie um eine professionelle Hausverwaltung nicht herum und haben keine Chance, alle Angelegenheiten bezüglich Ihrer Immobilien selbst zu verwalten. Denn oft erwerben Sie beim Kauf einer **Eigentumswohnung** auch Anteile am Gemeinschaftseigentum (wie etwa Grünanlagen, Treppenhaus und Dach), das der gesamten **Eigentümergemeinschaft** gehört und von einer Hausverwaltung bewirtschaftet werden muss.
+Sometimes, you can’t avoid professional property management and have no chance to handle all property matters yourself. Often, when you buy a **condominium**, you also acquire shares in common property (such as green spaces, stairwells, and roofs), which belong to the **homeowners’ association** and must be managed by a property manager.
 
-![Hausverwaltung bei Eigentümergemeinschaften](house-1353389_640-e1620395214642.jpg)
+![Property management in homeowners’ associations](house-1353389_640-e1620395214642.jpg)
 
-Dann übernimmt die Hausverwaltung z. B. auch die Pflege der Grünanlagen.
+In this case, the management company also takes care of green spaces, for example.
 
-Gesetzlich ist mit dem **Wohnungseigentumsgesetz** festgelegt, welche Tätigkeiten der Hausverwalter zu übernehmen hat. Hierbei sollten Sie im Auge behalten, ob die Hausverwaltung ihre Aufgaben ordnungsgemäß erledigt, um [unseriöse Unternehmen](https://www.hausverwaltung-ratgeber.de/woran-erkennt-man-einen-unserioesen-hausverwalter.html) zu erkennen.
+The **German Condominium Act** legally defines which tasks the property manager must handle. You should keep an eye on whether the management company is fulfilling its duties properly to spot any [untrustworthy companies](https://www.hausverwaltung-ratgeber.de/woran-erkennt-man-einen-unserioesen-hausverwalter.html).
 
-## Welche Aufgaben bei der Immobilienverwaltung anfallen
+## What Tasks Are Involved in Property Management?
 
-Die Aufgaben der Hausverwaltung sind je nach Anzahl und Größe der Objekte vielfältig und nicht zu unterschätzen. Sie gehen weit über die Kontrolle der Mieteinnahmen hinaus und umfassen jegliche Tätigkeiten, die rund um die Immobilie anfallen. Dazu zählen etwa die Auswahl neuer Mieter, die Kommunikation mit Mietern und Dienstleistern bei Instandsetzungsterminen, aber auch die Betriebskostenabrechnungen und das Ablesen von Heizung, Wasser und Strom.
+The tasks of property management vary depending on the number and size of properties and are not to be underestimated. They go far beyond just monitoring rent payments and include all activities related to the property. These include selecting new tenants, communicating with tenants and service providers for repairs, as well as billing operating costs and reading heating, water, and electricity meters.
 
-Die Aufgaben einer Hausverwaltung sind durch das Wohnungseigentumsgesetz geregelt und lassen sich in verschiedene **Themenblöcke** unterteilen. Daran wird deutlich, wie vielfältig die Immobilienverwaltung ist und dass es einige Kenntnisse abverlangt, die nicht jeder per se mitbringt.
+The tasks of a property manager are regulated by the Condominium Act and can be divided into various **categories**. This shows how diverse property management is and that it requires knowledge not everyone naturally has.
 
-**Betriebswirtschaftlich**
+**Business/Financial**
 
-- Überprüfung der Mieteinnahmen
-- Verwaltung der Gemeinschaftsgelder
-- Kontrolle von Rechnungen
-- Verwaltung des Mahnwesens
-- Erstellen der Heiz- und Betriebskostenabrechnung
+- Monitoring rent payments
+- Managing community funds
+- Checking invoices
+- Managing dunning processes
+- Preparing heating and operating cost statements
 
-**Technisch**
+**Technical**
 
-- Verkehrssicherungspflicht (etwa Brandschutz)
-- Instandsetzungsmaßnahmen
-- Kontrolle der Verbrauchswerte (Wasser, Heizung, Strom)
-- Modernisierungsmaßnahmen
-- Einweisen und Überwachen von Dienstleistern
+- Ensuring safety (e.g., fire protection)
+- Maintenance work
+- Monitoring consumption (water, heating, electricity)
+- Modernization projects
+- Instructing and supervising service providers
 
-**Rechtlich**
+**Legal**
 
-- Verwaltung von Mietverträgen, Mieterhöhungen oder -minderungen
-- Durchsetzung gesetzlicher Vorgaben
-- Dokumentation von Wohnungsabnahmen
+- Managing leases, rent increases or reductions
+- Enforcing legal requirements
+- Documenting move-in/move-out inspections
 
-**Organisatorisch**
+**Organizational**
 
-- Organisation der Eigentümerversammlung
-- Kommunikation mit Mietern
-- Auswählen neuer Mieter
-- Beschwerdemanagement
-- Kommunikation mit Behörden
+- Organizing owners’ meetings
+- Communicating with tenants
+- Selecting new tenants
+- Handling complaints
+- Communicating with authorities
 
-![Aufgaben der Hausverwaltung](towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
+![Tasks of property management](towfiqu-barbhuiya-05XcCfTOzN4-unsplash.jpg)
 
-Die Aufgaben der Hausverwaltung gehen weit über die Kontrolle der Mieteinnahmen hinaus.
+The tasks of property management go far beyond just monitoring rent payments.
 
-Bei der Hausverwaltung fallen einige Aufgaben an, die insbesondere für berufstätige Eigentümer viel Arbeit bedeuten. Deshalb überlegen viele private Eigentümer, eine externe Immobilienverwaltung hinzuzuziehen, die sämtliche Aufgaben rund um die Mietobjekte übernimmt. Sie sollten persönlich abwägen, ob eine Auslagerung vonnöten ist, denn dadurch geben Sie einen großen Teil der **Kontrolle** über Ihre eigenen Immobilien ab.
+Property management involves many tasks, which can be a lot of work, especially for working owners. That’s why many private owners consider hiring an external management company to handle all tasks related to their rental properties. You should personally weigh whether outsourcing is necessary, as it means giving up a significant amount of **control** over your own properties.
 
-## Immobilien managen: Software für die Hausverwaltung
+## Managing Properties: Software for Property Management
 
-Egal, ob Sie privat einzelne Wohnungen vermieten oder im großen Stil Immobilien verwalten: Eine Software-Lösung für die Verwaltung von Immobilien muss stets einen strukturierten **Überblick über alle Objekte, Mieter, Zahlungen, Dokumente und Aufgaben** gewähren. Hierfür eignen sich benutzerfreundliche No-Code-Datenbanken wie SeaTable sehr gut.
+Whether you rent out a few apartments privately or manage properties on a large scale, a software solution for property management must always provide a structured **overview of all properties, tenants, payments, documents, and tasks**. User-friendly no-code databases like SeaTable are ideal for this.
 
-### Alles auf einen Blick
+### Everything at a Glance
 
-Je mehr Objekte Sie verwalten, desto schwieriger wird es, den Überblick über die Hausverwaltung zu behalten. Um alle wichtigen Informationen an einem zentralen Ort zu sammeln, ist eine **Datenbank** mit grafischer Benutzeroberfläche ideal. Bleiben Sie immer darüber im Bilde, wer gerade in welchem Objekt wohnt und was es bezüglich einzelner Immobilien zu tun gibt. Bündeln Sie Daten wie Adresse, Größe und Ausstattung Ihrer Mietobjekte und hinterlegen Sie Fotos und Grundrisse von Ihren Immobilien. Gerade für ein schnelles Portfolio haben Sie mit einer gut organisierten Tabelle Ihre Immobilien optimal im Blick.
+The more properties you manage, the harder it is to keep track. To collect all important information in one central place, a **database** with a graphical user interface is ideal. Always know who lives in which property and what needs to be done for each one. Bundle data such as address, size, and features of your rental units, and store photos and floor plans of your properties. With a well-organized table, you have an optimal overview, especially for a quick portfolio.
 
-So könnte eine Datenbank zur Hausverwaltung in SeaTable aussehen:
+Here’s what a property management database in SeaTable could look like:
 
-### Mieteinnahmen und Mieterinformationen dokumentieren
+### Documenting Rental Income and Tenant Information
 
-Um jederzeit nachvollziehen zu können, ob Ihre Mieter die Miete rechtzeitig überwiesen haben, sollten Sie diese Daten zentralisiert in Ihrer Software zur Immobilienverwaltung sammeln. Wenn Sie Ihre Mieteinnahmen monatlich auflisten, sehen Sie direkt, ob ein Mieter im Verzug ist. Speichern Sie vertrauliche Informationen über Ihre Mieter (z. B. Gehalt und Bonität) parallel dazu in einer übersichtlichen Tabelle.
+To always know whether your tenants have paid rent on time, you should centralize this data in your property management software. By listing your rental income monthly, you can immediately see if a tenant is behind. Store confidential information about your tenants (e.g., salary and creditworthiness) in a clear table as well.
 
-### Instandhaltungsmaßnahmen und Reparaturen im Blick behalten
+### Keeping Track of Maintenance and Repairs
 
-Als Vermieter müssen Sie sich um Reparaturen, Modernisierungsmaßnahmen und Instandhaltungsarbeiten kümmern. Um dabei den Überblick zu behalten, sollten Sie akute ebenso wie regelmäßige Maßnahmen immer genau dokumentieren. Erfassen Sie dazu Aufträge, Instandsetzungstermine und Rechnungen in einer Tabelle. Ihre Mieter sind auf eine Hausverwaltung angewiesen, die zuverlässig Dienstleister koordiniert, damit wichtige Dinge wie etwa ein kaputter Wasserhahn sofort repariert werden.
+As a landlord, you need to take care of repairs, modernization, and maintenance. To stay organized, you should document both urgent and regular tasks carefully. Record orders, repair appointments, and invoices in a table. Your tenants rely on a management company that reliably coordinates service providers so important issues—like a broken faucet—are fixed right away.
 
-![Technische Aufgaben der Hausverwaltung](pexels-anil-karakaya-6419128.jpg)
+![Technical tasks of property management](pexels-anil-karakaya-6419128.jpg)
 
-Wenn Sie mehrere Immobilien besitzen, kann die Koordination von Handwerkern und Instandsetzungen viel Zeit kosten.
+If you own multiple properties, coordinating contractors and maintenance can take a lot of time.
 
-## Fazit
+## Conclusion
 
-Eine **Software für die Hausverwaltung** muss einiges leisten. Stellen Sie sich bei der Auswahl und beim Testen folgende Fragen: Können Sie mit der Software …
+**Property management software** needs to do a lot. When choosing and testing software, ask yourself these questions: Can you use the software to…
 
-- alle Informationen zu Ihren Mietobjekten übersichtlich ordnen?
-- Ihre monatlichen Mieteinnahmen dokumentieren?
-- vertrauliche Informationen zu Ihren Mietern erfassen?
-- Dienstleister koordinieren und Wartungsaufträge abwickeln?
-- Aufgaben und Termine (z. B. Wohnungsbesichtigungen) organisieren?
-- wichtige Dokumente wie Verträge und Betriebskostenabrechnungen speichern?
+- clearly organize all information about your rental properties?
+- document your monthly rental income?
+- record confidential information about your tenants?
+- coordinate service providers and handle maintenance orders?
+- organize tasks and appointments (e.g., apartment viewings)?
+- store important documents like contracts and operating cost statements?
 
-Mit der SeaTable [Vorlage für Ihre Immobilienverwaltung]({{< relref "templates/real-estate/property-management" >}}) können Sie all diese Belange rund um Ihre Immobilien problemlos managen. Speichern Sie Vertragsdokumente, Rechnungen, Übergabeprotokolle, Grundrisse und Fotos einfach in Ihrer SeaTable Datenbank.
+With the SeaTable [property management template]({{< relref "templates/real-estate/property-management" >}}), you can easily manage all these aspects of your properties. Store contracts, invoices, inspection reports, floor plans, and photos directly in your SeaTable database.
 
-![Erfassen Sie Fotos und Daten Ihrer Immobilien](steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
+![Record photos and data of your properties](steven-ungermann-L1Nt0O4Cv3g-unsplash.jpg)
 
-In einer Datenbank können Sie Fotos und Highlights Ihrer Immobilien (z. B. voll ausgestattete Küche, Terrasse) erfassen.
+In a database, you can record photos and highlights of your properties (e.g., fully equipped kitchen, terrace).
 
-[Registrieren Sie sich kostenlos]({{< relref "pages/registration" >}}), um die Vorlage zu nutzen und Ihre Daten effizient zu organisieren. Legen Sie flexibel die Tabellenstruktur an, die Sie für die Hausverwaltung brauchen, um alle Daten im Blick zu behalten und Ihren Verwaltungsaufwand so gering wie möglich zu halten.
+[Register for free]({{< relref "pages/registration" >}}) to use the template and efficiently organize your data. Flexibly set up the table structure you need for property management to keep an overview of all your data and minimize your administrative workload.

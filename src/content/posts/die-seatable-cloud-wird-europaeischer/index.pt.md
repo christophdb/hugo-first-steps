@@ -10,8 +10,6 @@ seo:
     description:
 ---
 
----
-
 Com o SeaTable, você gerencia e organiza projetos, clientes, ativos, ideias e resultados de trabalho de todos os tipos. Assim, você confia ao SeaTable os dados centrais e mais importantes da sua empresa ou equipe. O fato de que a proteção dos seus dados é muito importante para nós fica evidente pelo fato de sermos o único fornecedor de soluções de planilhas online que oferece aos clientes a possibilidade de operar seu próprio [Servidor SeaTable]({{< relref "pages/product/seatable-server" >}}). Só assim você mantém controle total e soberania absoluta sobre seus dados. Mas também para nossos clientes em nuvem, aplicamos os mais altos padrões de segurança para seus dados.
 
 Até agora, utilizávamos os serviços da AWS como base para nossa plataforma em nuvem. AWS significa Amazon Web Services, o provedor de computação em nuvem, bancos de dados e armazenamento de dados da Amazon. Empresas em todo o mundo confiam na líder de mercado AWS, pois ela oferece uma enorme gama de funções e uma disponibilidade global confiável a preços competitivos. No entanto, isso não muda o fato de a Amazon ser uma empresa americana, sujeita a leis e decisões judiciais dos EUA, que, em princípio, permitem às autoridades americanas o acesso a servidores fora dos Estados Unidos.

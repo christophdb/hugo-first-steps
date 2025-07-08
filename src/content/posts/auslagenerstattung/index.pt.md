@@ -15,8 +15,6 @@ tags:
 color: '#edb905'
 ---
 
----
-
 Seja um jantar de negócios, uma passagem de trem ou um celular corporativo – você frequentemente antecipa despesas no trabalho e quer saber o que deve ser considerado na **restituição de despesas**? Ou você é empregador e procura uma forma de tornar o processo de reembolso de despesas para seus funcionários mais eficiente?
 
 Este artigo não só apresenta tudo o que você precisa saber sobre o tema reembolso de despesas – como também oferece um [modelo gratuito]({{< relref "templates/human-resources/expenses-reimbursement" >}}) que pode facilitar seu dia a dia profissional.

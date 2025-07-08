@@ -22,7 +22,7 @@ If data validation is activated, SeaTable checks whether the entered cell value 
 
 ![Data validation in SeaTable 3.0](FormatCheck.png)
 
-Das Zielformat wird in Form eines [regulären Ausdrucks](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) definiert. Ein regulärer Ausdruck für eine Zahlenfolge mit genau 5 Stellen ist beispielsweise \[0-9\]{5}. Für reguläre Ausdrücke sprechen zwei Argumente: Sie sind eine weit verbreitete Methode und bieten ein Maximum an Flexibilität. Die Art der erlaubten Zeichen, die Länge, und auch die Syntax der Eingabe lässt sich mit regulären Ausdrücken präzise definieren.
+The target format is defined in the form of a [regular expression](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck). For example, a regular expression for a sequence of numbers with exactly 5 digits is \[0-9\]{5}. There are two arguments in favor of regular expressions: They are a widely used method and offer maximum flexibility. The type of characters allowed, the length and also the syntax of the input can be precisely defined with regular expressions.
 
 Data validation is available in text columns in version 3.0. If a target format is added subsequently, all existing entries are also checked and the non-compliant values are marked as such. So nothing stands in the way of subsequently activating data validation in existing columns.
 
