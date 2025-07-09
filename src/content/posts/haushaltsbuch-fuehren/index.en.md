@@ -8,6 +8,11 @@ url: '/haushaltsbuch-fuehren'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
+color: '#b3060f'
 ---
 
 Keeping track of your spending is sometimes not that easy. It happens far too often that the money is simply gone at the end of the month and you can hardly remember what you actually spent it on. This is exactly when a **budget book** comes to the rescue and brings order to the financial chaos!

@@ -8,7 +8,8 @@ date: 2024-02-23
 categories:
     - 'best-practice'
 tags:
-    - 'Distribution'
+    - 'Procurement & Logistics'
+color: '#bed8cb'
 url: '/inventory-list'
 aliases:
     - /inventarliste-erstellen/

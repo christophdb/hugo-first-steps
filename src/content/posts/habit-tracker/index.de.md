@@ -8,6 +8,11 @@ url: '/de/habit-tracker'
 seo:
     title: 'Habit Tracker – wie Sie langfristig Ihre Gewohnheiten ändern'
     description: 'Es fällt Ihnen schwer, Ihre Gewohnheiten zu ändern? Dabei kann Ihnen ein Habit Tracker helfen. Wie Sie diesen nutzen, erfahren Sie hier.'
+categories:
+    - 'best-practice'
+tags:
+    - 'Alltag & Freizeit'
+color: '#c9aaa1'
 ---
 
 Sich **gute Vorsätze** für das neue Jahr vorzunehmen, ist für viele Menschen zur Gewohnheit geworden. Doch jedes Jahr ist man enttäuscht, wenn man es wieder nicht schafft, die guten Vorsätze durchzuziehen. Es erfordert nunmal einen starken Willen, neue Gewohnheiten in unser Leben zu integrieren. Um dieses Vorgehen zu erleichtern, gibt es **Habit Tracker**.

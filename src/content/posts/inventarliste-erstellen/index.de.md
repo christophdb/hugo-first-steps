@@ -8,6 +8,11 @@ date: 2024-02-23
 lastmod: '2025-01-10'
 author: 'kgr'
 url: '/de/inventarliste-erstellen'
+categories:
+    - 'best-practice'
+tags:
+    - 'Beschaffung & Logistik'
+color: '#bed8cb'
 ---
 
 Importieren Sie eine Inventarliste in Excel oder bauen Ihre eigene Vorlage in Word auf. Finden Sie heraus, welche Vorteile eine kostenlose Datenbank wie SeaTable gegenüber Excel und Word bietet.

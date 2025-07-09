@@ -7,6 +7,11 @@ url: '/es/haushaltsbuch-fuehren'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana y ocio'
+color: '#b3060f'
 ---
 
 A veces no es fácil controlar los gastos. Ocurre con demasiada frecuencia que el dinero desaparece a final de mes y apenas se recuerda en qué se ha gastado. Es precisamente entonces cuando un **libro de** presupuestos viene al rescate y pone orden en el caos financiero.

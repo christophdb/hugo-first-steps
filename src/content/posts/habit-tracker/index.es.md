@@ -7,6 +7,11 @@ url: '/es/habit-tracker'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana y ocio'
+color: '#c9aaa1'
 ---
 
 Hacer **propósitos** de Año Nuevo se ha convertido en un hábito para muchas personas. Pero todos los años nos decepcionamos cuando no cumplimos nuestros propósitos. Se necesita una gran voluntad para integrar nuevos hábitos en nuestras vidas. Existen **seguidores** de hábitos que facilitan este proceso.
