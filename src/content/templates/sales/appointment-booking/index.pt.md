@@ -3,7 +3,7 @@ title: 'Marcação de compromissos'
 description: ''
 date: '2024-08-16'
 url: '/pt/modelo/marcacao_de_consultas'
-aliasses: 
+aliases: 
     - '/pt/terminbuchung'
     - '/pt/modelo/appointment-booking'
 category: 'sales'
