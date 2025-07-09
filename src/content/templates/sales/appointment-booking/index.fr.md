@@ -3,7 +3,7 @@ title: 'Réservations de rendez-vous'
 description: ''
 date: '2024-08-16'
 url: '/fr/modele/reservations_de_rendez-vous'
-aliasses: 
+aliases: 
     - '/fr/terminbuchung'
     - '/fr/modele/appointment-booking'
 category: 'sales'

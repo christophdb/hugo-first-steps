@@ -3,7 +3,7 @@ title: 'Reservas de citas'
 description: ''
 date: '2024-08-16'
 url: '/es/plantilla/reservas_de_citas'
-aliasses: 
+aliases: 
     - '/es/terminbuchung'
     - '/es/plantilla/appointment-booking'
 category: 'sales'

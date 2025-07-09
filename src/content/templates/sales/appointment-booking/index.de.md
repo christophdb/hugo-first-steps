@@ -3,7 +3,7 @@ title: 'Terminbuchungen'
 description: ''
 date: '2024-08-16'
 url: '/de/vorlage/terminbuchungen'
-aliasses: 
+aliases: 
     - '/de/terminbuchung'
     - '/de/vorlage/appointment-booking'
 category: 'sales'
