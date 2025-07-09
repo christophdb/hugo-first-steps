@@ -68,7 +68,7 @@ Die Base zur Aufgabenverwaltung kann dabei komplett als Arbeitsbasis benutzt wer
 
 ### Team-Kommunikation an einem Ort
 
-SeaTable ermöglicht eine direkte Kommunikation innerhalb der Tabellen, die die E-Mail Kommunikation außerhalb der Base erübrigt. Beim Öffnen einer Zeile können rechts im [Kommentarfeld]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) Mitarbeiter zur Diskussion hinzugefügt und Anmerkungen, Fragen oder Feedback abgeschickt werden. So wissen alle ganz genau, auf welche Aufgabe sich eine Frage bezieht und die Kommunikation erfolgt transparent, synchron und nachvollziehbar.
+SeaTable ermöglicht eine direkte Kommunikation innerhalb der Tabellen, die die E-Mail Kommunikation außerhalb der Base erübrigt. Beim Öffnen einer Zeile können rechts im [Kommentarfeld]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) Mitarbeiter zur Diskussion hinzugefügt und Anmerkungen, Fragen oder Feedback abgeschickt werden. So wissen alle ganz genau, auf welche Aufgabe sich eine Frage bezieht und die Kommunikation erfolgt transparent, synchron und nachvollziehbar.
 
 ## Aufgabenverwaltung mit dem Kanban-Board
 

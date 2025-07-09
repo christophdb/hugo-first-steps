@@ -5,7 +5,9 @@ lastmod: '2024-12-10'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/pt/ajuda/anleitung-zum-tree-plugin'
+url: '/pt/ajuda/instrucoes-para-o-plugin-arvore'
+aliases:
+    - '/pt/ajuda/anleitung-zum-tree-plugin'
 ---
 
 O **plugin Árvore** permite a **visualização hierárquica** compacta de registos de dados ligados. Isto significa que é possível visualizar dados que estão localizados em várias [tabelas ligadas]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) em diferentes níveis num diagrama de árvore. O plugin fornece, portanto, uma visão geral estruturada, especialmente para grandes quantidades de dados, como dados financeiros ou dados de projectos.

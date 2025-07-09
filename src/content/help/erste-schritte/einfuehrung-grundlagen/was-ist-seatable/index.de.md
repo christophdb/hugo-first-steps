@@ -43,7 +43,7 @@ Ein erster Klick legt beispielsweise die Termine eines Events auf einen Kalender
 
 Sie arbeiten **gemeinsam und in Echtzeit** an all den Dingen, die Sie in SeaTable organisieren. Neue Einträge und Änderungen werden sofort bei jedem Benutzer angezeigt – Sie und Ihr Team sind immer auf dem gleichen Stand.
 
-Sie wollen eine Anmerkung zu einer Zeile machen? Dann hinterlassen Sie dort einfach einen [Kommentar]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})! So ist immer klar, worüber Sie reden, und auch Monate später müssen Sie nicht überlegen, wann, wo und über welchen Kanal Sie sich mit Ihren Kollegen dazu ausgetauscht haben.
+Sie wollen eine Anmerkung zu einer Zeile machen? Dann hinterlassen Sie dort einfach einen [Kommentar]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})! So ist immer klar, worüber Sie reden, und auch Monate später müssen Sie nicht überlegen, wann, wo und über welchen Kanal Sie sich mit Ihren Kollegen dazu ausgetauscht haben.
 
 Das [Teilen von Bases, Tabellen und Ansichten]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) mit anderen Benutzern oder ganzen Gruppen erledigen Sie im Handumdrehen. Durch die Vergabe individueller Benutzerberechtigungen behalten Sie die Kontrolle darüber, wer was darf und wer was nicht darf.
 

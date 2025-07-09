@@ -16,7 +16,7 @@ As bases são de importância central no SeaTable. Sempre que entra, analisa, ed
 - [Mais de 20 tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) cobrindo todos os formatos de dados comuns
 - Várias [opções de partilha para]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) dados
 - [Colaboração]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) em tempo real com outros utilizadores e transmissão em tempo real de todas as alterações
-- Uma [função de comentário para]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) cada registo numa linha
+- Uma [função de comentário para]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) cada registo numa linha
 - [Versões]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) todas as mudanças
 - Um [editor de formulários web]({{< relref "help/base-editor/webformulare/webformulare" >}}) integrado e [plugins]({{< relref "help/base-editor/ansichten" >}}) gráficos
 - Opções de integração simples graças ao REST API

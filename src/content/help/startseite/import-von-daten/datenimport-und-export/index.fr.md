@@ -14,7 +14,7 @@ Comment exporter des bases et des tableaux de SeaTable et les importer dans SeaT
 
 ## Exporter la base
 
-La **page d'accueil** vous permet d'exporter l'état actuel de vos bases, y compris tous les tableaux, [vues]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [formulaires web]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) et les [automatisations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) ainsi que [les données du backend Big Data]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) ne sont **pas** non plus **exportés**.
+La **page d'accueil** vous permet d'exporter l'état actuel de vos bases, y compris tous les tableaux, [vues]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [formulaires web]({{< relref "help/base-editor/webformulare/webformulare" >}}) et plugins. Les [commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), les [automatisations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) et l'[historique des modifications]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) ainsi que [les données du backend Big Data]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) ne sont **pas exportés**.
 
 ![Exportation de bases](images/export-bases.png)
 
@@ -22,7 +22,7 @@ Pour exporter des bases, SeaTable utilise le [format de fichier DTABLE]({{< relr
 
 ## Exporter le tableau
 
-Vous pouvez **exporter des tableaux** individuels de chaque base à laquelle vous avez accès **vers des fichiers Excel**. Les contenus des colonnes de texte et de chiffres sont copiés dans le fichier cible sous forme de valeurs. Les contenus de type [texte formaté]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), les [automatisations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) et l'[historique des modifications]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) ne sont **pas exportés**.
+Vous pouvez **exporter des tableaux** individuels de chaque base à laquelle vous avez accès **vers des fichiers Excel**. Les contenus des colonnes de texte et de chiffres sont copiés dans le fichier cible sous forme de valeurs. Les [commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), les [automatisations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) et l'[historique des modifications]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) ne sont **pas exportés**.
 
 ![Exportation de tableaux](images/export-tables.jpg)
 

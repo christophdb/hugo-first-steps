@@ -12,6 +12,8 @@ url: '/de/hilfe/seitenberechtigungen-in-einer-universellen-app'
 
 Um den **Zugriff auf Ihre Daten** genau zu steuern, können Sie für jede Seite, die Sie in einer Universellen App angelegt haben, **individuelle Seitenberechtigungen** festlegen. Die Bearbeitung der Berechtigungen erfolgt über die Seiteneinstellungen.
 
+{{< warning  type="warning" headline="Standard-Seitenberechtigung"  text="Wenn Sie **neue Seiten** in Ihrer App anlegen, gewähren diese zunächst allen Benutzern alle verfügbaren Rechte. Wollen Sie jedoch die Nutzungsrechte einschränken, ist die Anpassung der Seitenberechtigungen erforderlich." />}}
+
 ## Seitenberechtigungen festlegen und bearbeiten
 
 1. Öffnen Sie eine **Base**, der Sie bereits eine Universelle App hinzugefügt haben.

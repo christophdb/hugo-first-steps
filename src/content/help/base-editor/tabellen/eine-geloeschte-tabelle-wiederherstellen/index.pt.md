@@ -26,7 +26,7 @@ Quando se recupera uma mesa do caixote da reciclagem, esta é restaurada exactam
 
 - Dados da tabela
 - [Vistas de tabela]({{< relref "help/base-editor/ansichten" >}})
-- [Comentários]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})
 - [Formulários Web]({{< relref "help/base-editor/webformulare" >}})
 - Automatizações
 - Representações e avaliações nos plug-ins do SeaTable

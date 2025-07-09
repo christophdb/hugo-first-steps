@@ -17,7 +17,7 @@ Auf den ersten Blick ist eine Base nur ein **Container** für eine oder mehrere 
   ), die alle gängigen Datenformate abdecken
 - Diverse [Freigabemöglichkeiten]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) zum einfachen Teilen von Daten
 - Echtzeit-[Zusammenarbeit]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) mit anderen Nutzern und Echtzeit-Übertragung aller Änderungen
-- Eine [Kommentarfunktion]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) zu jedem Datensatz in einer Zeile
+- Eine [Kommentarfunktion]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) zu jedem Datensatz in einer Zeile
 - Vollständige [Versionierung]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) aller Änderungen
 - Einen integrierten [Webformular-Editor]({{< relref "help/base-editor/webformulare/webformulare" >}}) und grafische [Plugins]({{< relref "help/base-editor/ansichten" >}})
 - Einfache Integrationsmöglichkeiten dank REST-API

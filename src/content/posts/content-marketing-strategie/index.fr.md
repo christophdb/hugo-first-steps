@@ -142,7 +142,7 @@ Les graphistes ne s'intéresseront qu'aux articles qui nécessitent un quelconqu
 
 Des vues individuelles pour chaque employé
 
-Chaque collaborateur sait exactement à qui la tâche est confiée et qui doit y travailler ensuite. Vous évitez ainsi les temps d'attente et la confusion. Dès qu'un auteur a rédigé son brouillon, il modifie le statut de l'article et le transmet au collaborateur suivant pour un contrôle de qualité. Si une coordination entre les collaborateurs est nécessaire, elle peut être facilement effectuée via la [fonction de commentaire]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) au sein de SeaTable.
+Chaque collaborateur sait exactement à qui la tâche est confiée et qui doit y travailler ensuite. Vous évitez ainsi les temps d'attente et la confusion. Dès qu'un auteur a rédigé son brouillon, il modifie le statut de l'article et le transmet au collaborateur suivant pour un contrôle de qualité. Si une coordination entre les collaborateurs est nécessaire, elle peut être facilement effectuée via la [fonction de commentaire]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) au sein de SeaTable.
 
 ![Communication d'équipe dans SeaTable](seatable-comments.png)
 

@@ -12,23 +12,23 @@ Las funciones de importación de SeaTable permiten cambiar de otras soluciones a
 
 El tema de este artículo es cómo exportar bases y tablas de SeaTable e importarlas a SeaTable.
 
-## Base de exportación
+## Exportar base
 
-Puedes exportar el estado actual de tus bases incluyendo todas las tablas, [vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [formularios web]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) y las [automatizaciones]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), así como [los datos del backend de big]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) data, **tampoco se exportan**.
+Puede exportar el estado actual de tus bases incluyendo todas las tablas, [vistas]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}}) y plugins. Los [comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), las [automatizaciones]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) y el [historial de cambios]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}), así como [los datos del Big Data backend]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}), **no se exportan**.
 
 ![Bases de exportación](images/export-bases.png)
 
 SeaTable utiliza el [formato de archivo DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) para exportar bases. Para más información, consulte el artículo [Guardar una base como archivo]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}) DTABLE.
 
-## Tabla de exportación
+## Exportar tabla
 
-Puede **exportar a archivos Excel tablas** individuales de cada base a la que tenga acceso. Los contenidos de las columnas basadas en texto y números se copian como valores en el archivo de destino. Los contenidos de tipo [Texto con formato]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), las [automatizaciones]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) y el [historial de cambios]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) **no se exportan**.
+Puede **exportar a archivos Excel tablas** individuales de cada base a la que tenga acceso. Los contenidos de las columnas basadas en texto y números se copian como valores en el archivo de destino. Los [comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), las [automatizaciones]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) y el [historial de cambios]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) **no se exportan**.
 
 ![Exportación de tablas](images/export-tables.jpg)
 
 Inicie la exportación de una tabla desde Base. Haga clic en la flecha desplegable situada a la derecha del nombre de la tabla que desea exportar. A continuación, seleccione **Exportar tabla a Excel** para iniciar la descarga. Una vez finalizada la exportación, encontrarás el archivo XLSX en la ubicación seleccionada de tu dispositivo.
 
-## Base de importación
+## Importar base
 
 SeaTable admite la importación de bases desde su propio [formato DTABLE]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}), desde **archivos Excel** y desde el **formato** genérico **CSV**. Al importar un archivo **DTABLE**, la base se restablece exactamente con el mismo aspecto que tenía en el momento de la exportación. Al importar un archivo CSV o Excel, los valores del archivo CSV/XLSX se copian en columnas de tabla de una nueva base, y SeaTable intenta interpretar los tipos de columna basándose en los datos.
 
@@ -40,7 +40,7 @@ Lo que hay que tener en cuenta al importar una base depende del tipo de archivo 
 - [Importar archivos de Excel a SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 - [Importación de datos mediante CSV en SeaTable]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
 
-## Tabla de importación
+## Importar tabla
 
 En las bases existentes, puede **rellenar tablas individuales mediante la importación de CSV o Excel**. Tiene las siguientes opciones: Puede importar los datos en una **tabla** existente
 

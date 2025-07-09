@@ -142,7 +142,7 @@ Los diseñadores gráficos sólo se interesarán por los artículos que requiera
 
 Vistas individuales para cada empleado
 
-Cada empleado sabe exactamente quién tiene la tarea entre manos y quién tiene que trabajar en ella a continuación. Así se evitan tiempos de espera y confusiones. En cuanto un autor ha escrito su borrador, cambia el estado del artículo y lo pasa al siguiente miembro del personal para que realice el control de calidad. Si es necesaria la coordinación entre los miembros del personal, puede hacerse fácilmente mediante la [función de comentarios]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) de SeaTable.
+Cada empleado sabe exactamente quién tiene la tarea entre manos y quién tiene que trabajar en ella a continuación. Así se evitan tiempos de espera y confusiones. En cuanto un autor ha escrito su borrador, cambia el estado del artículo y lo pasa al siguiente miembro del personal para que realice el control de calidad. Si es necesaria la coordinación entre los miembros del personal, puede hacerse fácilmente mediante la [función de comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) de SeaTable.
 
 ![Comunicación en equipo en SeaTable](seatable-comments.png)
 
