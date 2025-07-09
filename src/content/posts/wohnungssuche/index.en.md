@@ -8,6 +8,11 @@ url: '/wohnungssuche'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
+color: '#a462c3'
 ---
 
 Whether it's your first apartment, your third shared flat this year or a new retreat for the whole family - everyone **looking for a home** faces the same challenge. The situation on the housing market is tense: Affordable apartments are in short supply, while rents continue to rise. But there are always nice apartments becoming available or old apartment buildings being renovated. You should be well prepared for these opportunities in order to be able to assert yourself against your numerous competitors.

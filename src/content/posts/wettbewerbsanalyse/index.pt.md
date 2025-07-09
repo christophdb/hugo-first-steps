@@ -4,10 +4,16 @@ date: 2025-01-20
 lastmod: '2025-01-21'
 author: 'nsc'
 url: '/pt/wettbewerbsanalyse'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Planeamento de marketing'
+    - 'Criar a sua empresa'
+    - 'Operações'
+color: '#d4ad2a'
 ---
 
 Está a planear expandir a sua linha de produtos e pretende saber que **caraterísticas dos produtos** são particularmente populares no seu sector? Ou notou um declínio nas **vendas** e quer descobrir o que os seus concorrentes estão a fazer melhor? Uma análise da concorrência orientada pode fornecer-lhe informações valiosas para otimizar a sua **estratégia** e responder especificamente às **necessidades dos** seus clientes.

@@ -5,10 +5,16 @@ lastmod: '2025-01-21'
 coverImage: 'chess-6890325_1920.jpg'
 author: 'nsc'
 url: '/wettbewerbsanalyse'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Marketing Planning'
+    - 'Build your Business'
+    - 'Operations'
+color: '#d4ad2a'
 ---
 
 Are you planning to expand your product line and want to know which **product features** are particularly in demand in your industry? Or have you noticed a decline in **sales** and want to find out what your competitors are doing better? A targeted competitive analysis can provide you with valuable insights to help you optimize your **strategy** and target the **needs of** your customers.

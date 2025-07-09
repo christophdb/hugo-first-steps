@@ -8,6 +8,12 @@ url: '/de/workshop-planen'
 seo:
     title: 'Workshop planen: So organisieren Sie stressfrei Workshops'
     description: 'Sie möchten einen Workshop planen? Dieser Artikel liefert Ihnen nützliche Infos rund um die Organisation von Workshops und Weiterbildungen.'
+categories:
+    - 'best-practice'
+tags:
+    - 'Bewerber- & Talentmanagement'
+    - 'Bildung'
+color: '#53d189'
 ---
 
 Lebenslanges Lernen ist heutzutage eines der wichtigsten Dinge, wenn es um **berufliche Qualifikationen** und **Persönlichkeitsentwicklung** geht. Ob Workshop, Schulung oder Weiterbildung: Als Arbeitgeber ist es essenziell für Sie, dass Sie Ihre Mitarbeiter fördern und ihnen Angebote zur Weiterentwicklung bieten. Denn das zählt bei vielen Arbeitnehmern heute zu einem attraktiven Job dazu und **Ihr Unternehmen profitiert** auf vielerlei Weise von gut geschulten Mitarbeitern.

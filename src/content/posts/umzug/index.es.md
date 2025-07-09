@@ -7,6 +7,11 @@ url: '/es/umzug'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana y ocio'
+color: '009f9b'
 ---
 
 ¡Por fin ha llegado el momento! Ha encontrado el piso perfecto para usted y está deseando mudarse a su nuevo hogar. Lo único que ahora le separa del piso de sus sueños es la mudanza. Lo que a la mayoría de la gente le supone mucho estrés y tiempo, tú puedes hacérselo fácil con un **plan de mudanza** estructurado. Descubra aquí cómo planificar su mudanza sin estrés y llevarla a buen puerto.

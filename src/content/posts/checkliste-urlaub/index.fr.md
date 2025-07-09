@@ -4,10 +4,14 @@ date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
 url: '/fr/checkliste-urlaub'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vie Quotidienne'
+color: '#ffb04e'
 ---
 
 Les vacances d'été approchent et pour de nombreux vacanciers, cela signifie qu'il est temps de **faire ses valises**! Mais quel est exactement le bon moment pour faire sa valise ? Faites-vous partie de ceux qui, la nuit précédant le départ, rassemblent rapidement tout ce qu'il faut et le jettent dans le premier sac de voyage venu ? Ou préférez-vous planifier des semaines à l'avance ce qui doit figurer sur votre **check-list pour les vacances**?
