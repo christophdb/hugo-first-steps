@@ -12,7 +12,7 @@ You can save a base in SeaTable as a **snapshot** at any time. Snapshots are par
 
 Good to know: SeaTable automatically creates one snapshot per day of each Base where changes have been made. This way you always have backup copies of your Bases with the latest versions.
 
-{{< warning  headline="Attention"  text="Although snapshots are copies of a base's save states, they **do not contain all** information and settings. For example, you cannot restore **comments**, **automations** and **apps** with snapshots. You can find out more about this at the end of the article." />}}
+{{< warning  headline="Attention"  text="Although snapshots are copies of a base's save states, they **do not contain all** information and settings. You cannot restore **comments**, **webforms**, **automations**, **apps**, **contents in the trash** and **data in the big data storage** with snapshots." />}}
 
 ## Manual creation of a snapshot
 
@@ -44,9 +44,9 @@ You might be interested in the following articles regarding the handling of snap
 
 ## Frequently asked questions
 
-{{< faq "What information about a base is stored in a snapshot?" >}}A snapshot saves all **table data** (columns and rows) as well as **views** and their settings. **Statistics**, **plugins** and their settings and **scripts** are also saved.
+{{< faq "What information from a base is saved in a snapshot?" >}}A snapshot saves all **table data** (columns and rows) as well as **views** and their settings. **Statistics**, **plugins** and their settings and **scripts** are also saved.
 {{< /faq >}}
-{{< faq "What information from a base is _not_ saved in a snapshot?" >}}**Comments**, **web forms**, **automations**, **apps** and **content in the recycle bin** (deleted tables, columns and rows) are **not** saved in snapshots. Data in the big data storage is also not included in a snapshot.
+{{< faq "What information from a base is NOT saved in a snapshot?" >}}**Comments**, **web forms**, **automations**, **apps** and **content in the trash** (deleted tables, columns and rows) are **not** saved in snapshots. Data in the big data storage is also not included in a snapshot.
 {{< /faq >}}
 {{< faq "How often are automatic snapshots created?" >}}Snapshots are created automatically **once a day** if changes have been made to the base. The time at which this happens cannot currently be influenced.
 {{< /faq >}}

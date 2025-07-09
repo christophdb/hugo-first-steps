@@ -1,10 +1,10 @@
 ---
 title: 'Globale Einstellungen einer Universellen App ändern'
 date: 2023-05-03
-lastmod: '2024-12-13'
+lastmod: '2025-07-03'
 categories:
     - 'universelle-apps'
-author: 'nsc2'
+author: 'kgr'
 url: '/de/hilfe/einstellungen-einer-universellen-app-aendern'
 ---
 
@@ -14,10 +14,12 @@ Innerhalb einer **Universellen App** können Sie mit nur wenigen Klicks verschie
 
 1. Öffnen Sie eine **Base**, in der Sie eine bestehende App bearbeiten möchten.
 2. Klicken Sie im Base-Header auf **Apps**.
-   ![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)4. Fahren Sie mit der Maus über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
-   ![Apps bearbeiten](images/Apps-bearbeiten.png)6. Klicken Sie auf das **Zahnrad-Symbol** am oberen linken Seitenrand.
-
-![Zahnrad-Symbol für App-Einstellungen](images/Zahnrad-Symbol-fuer-App-Einstellungen.png) 8. Nehmen Sie die gewünschten Anpassungen an den **Einstellungen** der Universellen App vor.
+![Klicken Sie im Base-Header auf Apps](images/click-apps-in-the-base-header.jpg)
+3. Fahren Sie mit der Maus über die App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
+![Apps bearbeiten](images/Apps-bearbeiten.png)
+4. Klicken Sie auf das **Zahnrad-Symbol** am oberen linken Seitenrand.
+![Zahnrad-Symbol für App-Einstellungen](images/Zahnrad-Symbol-fuer-App-Einstellungen.png) 
+5. Nehmen Sie die gewünschten Anpassungen an den **Einstellungen** der Universellen App vor.
 
 {{< warning  type="warning" headline="Berechtigung in der Gruppe erforderlich"  text="Um eine App bearbeiten zu können, müssen Sie **Eigentümer** oder **Administrator der Gruppe** sein, in der sich die zugrundeliegende **Base** befindet. Einfache **Gruppenmitglieder** können die Apps lediglich ansehen und nutzen." />}}
 
@@ -45,11 +47,15 @@ Es handelt sich dabei nur um eine Voreinstellung beim erstmaligen Öffnen der Ap
 
 ![Navigation ein- und ausblenden](images/Hide-and-show-navigation.gif)
 
-## Mitarbeiter-Liste laden
+## Einstellungen für die Zusammenarbeit
 
-Im vierten Abschnitt können Sie entscheiden, ob Ihre **Mitarbeiter-Liste** in der App für alle Nutzer sichtbar sein soll. Sie können dann Personen in [Mitarbeiter-Spalten]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) eintragen oder zu [Kommentaren]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) hinzufügen.
+Im vierten Abschnitt können Sie entscheiden, ob Ihre **Mitarbeiter-Liste** in der App für alle Nutzer sichtbar sein soll. Sie können dann Personen in [Mitarbeiter-Spalten]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) eintragen oder zu [Kommentaren]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) hinzufügen. Wenn Ihre Mitarbeiter für andere unsichtbar bleiben sollen, sollten Sie diese Funktion deaktivieren.
 
 ![Load collaborator list in apps](images/Load-collaborator-list-in-apps.png)
+
+Zudem können Sie einstellen, ob Sie die **Kommentare aus der zugrundeliegenden Base laden** möchten. Standardmäßig sind in der App nur Kommentare sichtbar, die in der App verfasst wurden. Wenn Sie nicht möchten, dass App-Nutzer die Kommentare aus der Base sehen, sollten Sie diese Funktion deaktivieren.
+
+{{< warning  type="warning" headline="Bei diesen Seitentypen sind Kommentare möglich"  text="Die App-Kommentarfunktion ist derzeit auf Tabellen-, Galerie-, Kanban-, Kalender- und Zeitstrahl-Seiten zu finden." />}}
 
 ## Big Data Management
 
@@ -59,11 +65,13 @@ Dieser Abschnitt ist nur relevant, wenn Sie den [Big-Data-Speicher]({{< relref "
 
 ## Uneingeschränkter Zugriff
 
-Im letzten Abschnitt können Sie einen **offenen Zugang** für Ihre Universelle App einstellen. Zum einen können Sie den **Zugriff unangemeldeter Benutzer** auf Ihre App erlauben, sodass jeder, der den Link aufruft, die Daten sehen (jedoch nicht verändern) kann.
+Im letzten Abschnitt können Sie einen uneingeschränkten Zugriff einstellen, also Ihre App öffentlich zugänglich machen. Dazu müssen Sie den **Zugriff unangemeldeter Benutzer erlauben**. Anschließend kann jeder, der den Link aufruft, die Daten in der App sehen (jedoch nicht verändern).
 
 ![Open access to an app](images/Open-access-to-an-app.png)
 
-Sie können aber auch aktivieren, dass **jeder eingeloggte Benutzer**, der Ihre App verwendet, **automatisch als App-Benutzer registriert** wird. Dabei legen Sie fest, welche **Rolle** den Benutzern bei der Registrierung zugewiesen wird. Je nach [Berechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) auf den einzelnen Seiten können Benutzer mit dieser Rolle auch Zeilen hinzufügen, bearbeiten oder löschen.
+Des Weiteren können Sie den **Download von Dateien und Bildern erlauben**. Wenn Sie jedoch nicht möchten, dass wirklich jeder uneingeschränkt Ihre App nutzen kann, können Sie auch den **Passwortschutz aktivieren**. Bei Aufruf der App-URL müssen die Nutzer dann das richtige Passwort eingeben, um die Daten sehen zu können.
+
+Zu guter Letzt können Sie aktivieren, dass **jeder eingeloggte Benutzer, der Ihre App verwendet, automatisch als App-Benutzer registriert wird**. Dabei legen Sie fest, welche **Rolle** den Benutzern bei der Registrierung zugewiesen wird. Je nach [Berechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) auf den einzelnen Seiten können Benutzer mit dieser Rolle auch Zeilen hinzufügen, bearbeiten oder löschen.
 
 ## Einstellungen einzelner Seiten bearbeiten
 

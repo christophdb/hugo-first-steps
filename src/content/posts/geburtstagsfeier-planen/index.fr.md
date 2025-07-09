@@ -1,5 +1,6 @@
 ---
 title: "Planifier une fête d'anniversaire - 3 étapes pour une fête parfaite"
+description: 'Du choix de la date et du lieu à la liste des invités, en passant par la restauration et la musique, la planification précoce de votre fête crée les conditions parfaites pour un anniversaire réussi.'
 date: 2023-07-26
 lastmod: '2024-01-11'
 url: '/fr/geburtstagsfeier-planen'
@@ -7,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Vie Quotidienne'
 color: '#fe5d4c'

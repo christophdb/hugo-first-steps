@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Управление данными и визуализация'
-    - 'Low Code / No Code'
+    - 'No Code / Low Code'
     - 'ИТ-процессы'
 color: '#bedeab'
 url: '/ru/datenmanagement/'

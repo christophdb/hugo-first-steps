@@ -6,7 +6,7 @@ seo:
     description: 'Lea este artículo para saber cómo utilizar la política de distribución como palanca para su organización de ventas'
 date: 2025-05-06
 categories:
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Compras y logística'
 url: '/es/politica-de-distribucion'

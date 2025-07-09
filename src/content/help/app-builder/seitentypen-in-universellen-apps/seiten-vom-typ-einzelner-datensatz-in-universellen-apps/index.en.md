@@ -1,5 +1,5 @@
 ---
-title: 'Pages of the type Single data set in universal apps'
+title: 'Single Record Pages in Universal Apps'
 date: 2024-07-26
 lastmod: '2025-02-26'
 categories:
@@ -8,9 +8,9 @@ author: 'kgr'
 url: '/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 ---
 
-With the **single data record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from Base.
+With the **single record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from the Base.
 
-Users of the app can view, search, browse or even edit the individual data records on this page - with the relevant authorization. This type of page is suitable, for example, for displaying the data in an employee database as personal profiles.
+Users of the app can view, search, browse or even edit the single records on this page – with the relevant authorization. This page type is suitable, for example, for displaying the data in an employee database as personal profiles.
 
 ![Single Record Page](images/Single-Record-Page-min.gif)
 
@@ -24,16 +24,16 @@ In the **page settings**, you can select the **table** in which the individual d
 
 ### Static elements
 
-Similar to [individual pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), you can also add **static elements** to pages of the Single data record type, which are used to design the page and remain the same across all data records. These elements are
+Similar to [individual pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}), you can also add **static elements** to pages of the Single Record type, which are used to design the page and remain the same across all data records. These elements are
 
 - Text
 - Formatted text
 - Horizontal line
 - Image
 - Container
-- Map
+- Card
 
-![Static elements of the page type Single data record](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
+![Static elements of the Single record page type](images/Statische-Elemente-des-Seitentyps-Einzelner-Datensatz.png)
 
 For more detailed information on the **setting options** for these elements, please consult [this help article]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}).
 
@@ -49,6 +49,15 @@ You can also define a **background color** and a **frame** for each table field.
 
 For all text and number-based column types, you also have the option of setting the **font size, font weight, font color and alignment of the displayed values**.
 
+There are also a few special features for the following column types:
+
+- If you click on an e-mail address in an **E-mail column**, the e-mail client installed on your device (e.g. Microsoft Outlook or Mozilla Thunderbird) will open.
+- If you click on a link in an **URL column**, the corresponding website will open in a new tab of your browser.
+- If you click on a thumbnail in a **File column**, the file will open in a suitable viewer in a new tab of your browser. If an online office editor is configured, you can also open and edit Office documents directly in the browser.
+- With **Link columns**, all entries linked to the data record can be clearly displayed in a table. You can adjust the column width and also hide columns via the element settings so that only the essential information of the linked entries is displayed.
+
+![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
+
 ## Copy, move or delete elements
 
 If you want to copy, move or delete an existing element on your page, simply use the three corresponding **symbols** in the top right-hand corner of the frame.
@@ -61,35 +70,35 @@ You can also define preset filters and sorting to limit and organize the data re
 
 ![Add filters on Single Record pages in Universal Apps](images/Add-filters-on-Single-Record-pages-in-Universal-Apps.png)
 
-Users can only see the information for a single data record that you display via the integrated table fields.
+Users can only see the information for a single record that you display via the integrated table fields.
 
-{{< warning  headline="Important note"  text="App users **cannot change****preset filters** and **sorting**. You will therefore only see the filtered entries in a fixed order, as you wish." />}}
+{{< warning  headline="Important note"  text="App users **cannot change preset filters** and **sorting**. You will therefore only see the filtered entries in a fixed order, as you wish." />}}
 
 ## Graphic settings of the page background
 
-You can make the following graphical settings for the entire page of the Single data record type:
+You can make the following graphical settings for the entire page of the Single record type:
 
 - Select white, grey or a user-defined color as the **background color** of the page.
 - Set the **page margins** (top, bottom, left, right).
 - Decide whether you want to **hide** the **title bar**.
 - Decide whether you want to **hide** the **toolbar** that users can use to switch between entries.
 
-![Page background settings of pages of the type Single data record](images/Seitenhintergrund-Einstellungen-von-Seiten-des-Typs-Einzelner-Datensatz.png)
+![Page background settings of the Single record type](images/Seitenhintergrund-Einstellungen-von-Seiten-des-Typs-Einzelner-Datensatz.png)
 
 ## Switch between the entries
 
-If you have displayed the toolbar, app users with the corresponding page authorization can switch between the individual data records. To do this, click on {{< seatable-icon icon="dtable-icon-left" color="grey" >}} **Previous entry** or **Next entry** {{< seatable-icon icon="dtable-icon-right" color="grey" >}}. You can also search for a specific {{< seatable-icon icon="dtable-icon-search" color="grey" >}} **entry**.
+If you have displayed the toolbar, app users with the corresponding page authorization can switch between the individual data records. To do this, click on {{< seatable-icon icon="dtable-icon-left" color="grey" >}} **Previous entry** or **Next entry** {{< seatable-icon icon="dtable-icon-right" color="grey" >}}. You can also {{< seatable-icon icon="dtable-icon-search" color="grey" >}} **search for a specific entry**.
 
 ![Switch between records on single record pages](images/Switch-between-records-on-single-record-pages.gif)
 
 ## Edit entry
 
-With the appropriate authorization, app users can edit the individual data records on this page.
+With the appropriate authorization, app users can edit the single records on this page.
 
 ![Modify record on single record pages](images/Modify-record-on-single-record-pages.gif)
 
 - Click on **Edit entry** in the toolbar.
-- The window with the **line details** opens. Make the desired changes to the data record there.
+- The window with the **row details** opens. Make the desired changes to the data record there.
 - Close the window by clicking on the **x symbol** to save the changes.
 
 ## Generate QR code for individual entries
@@ -100,15 +109,15 @@ You will also find a **QR code generator** in the toolbar. The QR code contains 
 
 ## Execute button actions
 
-Just like on table and query pages, you can also use columns of the [button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) type here. Whether you want to create a PDF document, edit a data record or execute a script - you can start all these **button actions** at the touch of a button. **No** editing authorization is required for this. In this way, app admins can limit user interactions for this page type to a few predefined actions.
+Just like on table and query pages, you can also use columns of the [button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) type here. Whether you want to create a PDF document, edit a data record or execute a script – you can start all these **button actions** at the touch of a button. **No** editing authorization is required for this. In this way, app admins can limit user interactions for this page type to a few predefined actions.
 
 ## Page authorizations
 
-You can define the following [page authorizations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) for pages of the Single data record type:
+You can define the following [page authorizations]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) for pages of the Single record type:
 
 ![Page authorizations for calendar pages](images/Seitenberechtigungen-von-Kalenderseiten.png)
 
-Decide who can **view** and **edit** the individual data records. You cannot add or delete rows in the table via this page.
+Decide who can **view** and **edit** the single records. You cannot add or delete rows in the table via this page.
 
 {{< warning  headline="Attention with buttons" >}}
 

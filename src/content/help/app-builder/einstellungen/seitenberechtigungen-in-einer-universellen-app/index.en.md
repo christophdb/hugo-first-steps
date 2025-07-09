@@ -8,28 +8,22 @@ author: 'nsc2'
 url: '/help/seitenberechtigungen-in-einer-universellen-app'
 ---
 
+{{< required-version "Enterprise" >}}
+
 To precisely control **access to your data**, you can set **individual page permissions for** each page you have created in a Universal App. You edit the permissions through the page settings.
 
 ## Set and edit page permissions
 
 1. Open a **Base** to which you have already added a Universal App.
 2. Click **Apps** in the Base header.
-
 ![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
-
-4. Hover your mouse over the Universal App and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
-
+3. Hover your mouse over the Universal App and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 ![Click on the edit icon](images/add-page-to-universal-app-1.png)
-
-6. Select the desired **page** from the navigation on the left side of the page and click on the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}}.
-
+4. Select the desired **page** from the navigation on the left side of the page and click on the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}}.
 ![Click on the edit icon](images/page-permissions-universal-app.png)
-
-8. Set the desired **permissions** in the **page settings** that appeared on the right side of the **page**.
-
+5. Set the desired **permissions** in the **page settings** that appeared on the right side of the page.
 ![Setting the page permissions](images/page-permissions.png)
-
-10. The defined page permissions are **automatically** saved and **immediately** applied.
+6. The defined page permissions are **automatically** saved and **immediately** applied.
 
 ## Which page authorizations are available
 
@@ -40,7 +34,19 @@ You can set the following page permissions:
 - Who may delete rows ?
 - Who can see the page?
 
-Not all page permissions are available for all [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). For example, on individual pages there is only the permission _"Who can see the page?"_ because users generally cannot add, edit or delete entries there.
+Not all page permissions are available for all [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Take a look at this overview:
+
+| Page type                             | Add records                                                     | Modify records                                                  | Delete records                                                  | View page                                                       |
+| ------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------- |
+| Table page                            | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Form page                             | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Gallery page                          | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Calendar page                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Custom page                           | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Kanban page                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Timeline page                         | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Query page                            | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Single record page                    | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 
 ## Which user groups you can authorize
 

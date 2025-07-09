@@ -127,7 +127,7 @@ Los precios del plugin de WordPress Weglot.
 
 Actualmente utilizamos el _Advanced_\-Suscripción a Weglot, que permite hasta 10 idiomas y hasta 1 millón de palabras. Pagamos 1.990 euros por ello, pero, como ya hemos dicho, nos ha ahorrado al menos 18 días de trabajo en los dos años. El tiempo que se ahorra es probablemente muchas veces mayor. Los abonos pueden actualizarse en cualquier momento durante el periodo de vigencia y el valor residual del abono actual se abona en su totalidad al precio del abono de mayor valor. 
 
-En un futuro próximo veremos la *Extended Plan wechseln, um weitere Blogartikel übersetzen lassen zu können und zu diesem Zeitpunkt werden wir dann auch voraussichtlich noch eine weitere Sprache auf seatable.io aktivieren. Dieser Schritt wird mich nur zwei Mausklicks kosten.* 
+Pronto cambiaremos al _Extended Planan_ para poder traducir más artículos del blog y en ese momento probablemente también activaremos otro idioma en seatable.io.Este paso sólo me costará dos clics de ratón.
 
 ### Con la herramienta de recuento de palabras puede determinar sus propias necesidades
 
@@ -170,7 +170,7 @@ Para mí, los argumentos más importantes para utilizar Weglot son los siguiente
 - Weglot conduce a más contenido, a una mejor clasificación en Google y, al final, a más tráfico y a un mayor alcance.
 - Weglot es fácil de instalar. En menos de un minuto tendrá un sitio web multilingüe.
 - Weglot promete compatibilidad con prácticamente todos los temas de WordPress y muchos plugins, como WooCommerce, Yoast y Elementor. Tampoco hemos tenido nunca ningún conflicto con los plugins o con nuestro tema.
-- Weglot está optimizado para el SEO multilingüe. Añade automáticamente _hreflang-Tag-Attribute hinzu, erstellt vollständig dedizierte URLs für jede Sprache und indexiert Ihre übersetzten Seiten._
+- Weglot está optimizado para el SEO multilingüe. Añade automáticamente atributos de etiquetas `hreflang`, crea URL totalmente dedicadas para cada idioma e indexa sus páginas traducidas.
 - La calidad de la traducción es realmente buena. La reelaboración manual rara vez es necesaria y puede hacerse fácilmente a través del sitio web de Weglot.
 - Weglot cuenta con un equipo de apoyo dedicado de más de diez personas con gran experiencia técnica en la traducción de aplicaciones web.
 

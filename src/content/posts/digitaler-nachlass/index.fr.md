@@ -8,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Sécurité informatique'
     - 'Vie Quotidienne'

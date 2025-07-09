@@ -1,7 +1,7 @@
 ---
 title: 'Tabellenseiten in Universellen Apps'
 date: 2023-12-01
-lastmod: '2024-12-13'
+lastmod: '2025-07-04'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
@@ -34,8 +34,6 @@ Klicken Sie dazu auf **Filter hinzufügen**, **Sortierung hinzufügen** oder **G
 
 ![Default view grouped by one column on a table page in Universal Apps](images/Default-view-grouped-by-one-column-on-a-table-page-in-Universal-Apps.png)
 
-Mit den **Ansichtsoptionen** über der Tabelle können die App-Nutzer bestehende Gruppierungen und Sortierungen aufheben oder ergänzende Einstellungen vornehmen.
-
 {{< warning  type="warning" headline="Filtern nach Zahlen- oder Dauer-Spalten"  text="Wenn Sie nach Zahlen- oder Dauerspalten filtern möchten, gibt es bestimmte Formatvorgaben zu beachten. **Dezimalzahlen** müssen Sie mit einem Punkt als Trennzeichen schreiben, **Prozentwerte** als Dezimalzahlen angeben (z. B. 99% = 0.99) und die **Dauer** in Sekunden umrechnen (z. B. 1 Stunde = 3600 Sekunden)." />}}
 
 ## Ausgeblendete und schreibgeschützte Spalten
@@ -52,17 +50,34 @@ Schreibgeschützte Spalten erkennen Sie daran, dass sie in der Tabelle **grau** 
 
 {{< warning  type="warning" headline="Keine Vererbung von Ansichtseinstellungen aus der Base"  text="Beachten Sie bitte, dass **ausgeblendete und gesperrte Spalten** in der zugrundeliegenden Tabelle **keine** Auswirkungen auf die App haben. Wenn Sie eine neue Tabellenseite in der App anlegen, sind zunächst alle Spalten eingeblendet und können bearbeitet werden." />}}
 
+## Ansichtsoptionen des Benutzers
+
+Mit den **Ansichtsoptionen** über der Tabelle können die App-Nutzer eigene ergänzende Einstellungen vornehmen, die genau wie in der Base funktionieren. Dazu gehören
+
+- [Filtern]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}})
+- [Sortieren]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}})
+- [Gruppieren]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}})
+- [Spalten ausblenden]({{< relref "help/base-editor/ansichten/ausblenden-und-verschieben-von-spalten" >}})
+- [Zeilenhöhe anpassen]({{< relref "help/base-editor/ansichten/zeilenhoehe-anpassen" >}})
+- [Anzahl der fixierten Spalten anpassen]({{< relref "help/base-editor/spalten/anzahl-der-fixierten-spalten-anpassen" >}})
+
+![User view options on table pages in Universal Apps](images/user-view-options-on-table-pages-in-apps.png)
+
+Wie oben bereits erwähnt, haben die individuellen Ansichtseinstellungen des Nutzers **keine Auswirkungen auf die von Ihnen vordefinierten Standardeinstellungen** der Tabellenseite. Zum Beispiel kann der Nutzer eine von Ihnen vorgefilterte Ansicht zusätzlich filtern oder weitere Spalten ausblenden, er kann aber keine von Ihnen herausgefilterten Datensätze oder ausgeblendeten Spalten anzeigen lassen oder sie gar für andere sichtbar machen.
+
 ## Einstellungen der Verknüpfungsspalte
 
 In den **Einstellungen der Verknüpfungsspalte** können Sie für jede verknüpfte Tabelle festlegen, welche Daten sichtbar und welche Operationen erlaubt sind.
 
 ![Link column settings on table pages in Universal Apps](images/Link-column-settings-on-table-pages-in-Universal-Apps.png)
 
-- **Hinzufügen neuer Einträge erlauben**: Wenn Sie diesen Regler aktivieren, können Nutzer neue Einträge in der verknüpften Tabelle hinzufügen. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** und welche Spalten **erforderlich** sind, also ausgefüllt werden müssen.
-- **Verknüpfen bestehender Einträge erlauben**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüften Tabelle verlinken. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** sind.
-- **Verknüpfungen auf maximal eine Zeile begrenzen**: Wenn Sie diesen Regler aktivieren, können Nutzer in den Zellen der Verknüpfungsspalte nur noch jeweils eine Zeile der verknüpften Tabelle verlinken.
-- **Voreingestellte Filter**: Wenn Sie hier einen Filter hinzufügen, werden beim Verlinken von Einträgen nur Optionen angezeigt, die die Filterbedingungen erfüllen.
+- **Feldeinstellungen**: Hier können Sie genau definieren, für welche Spalten die folgenden Berechtigungen gelten.
+- **Neue Einträge erstellen und verknüpfen**: Wenn Sie diesen Regler aktivieren, können Nutzer neue Einträge in der verknüpften Tabelle hinzufügen. Über die Feldeinstellungen können Sie festlegen, welche Spalten dabei **erforderlich** sind, also ausgefüllt werden müssen.
+- **Bestehende Einträge verknüpfen**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüpften Tabelle verlinken. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **sichtbar** sind.
+- **Voreingestellte Filter**: Wenn Sie hier einen Filter hinzufügen, werden beim Verlinken von Einträgen nur Optionen angezeigt, welche die Filterbedingungen erfüllen.
 - **Big-Data-Funktion aktivieren**: Wenn die Big-Data-Funktion aktiviert ist, können Nutzer mehr als 20.000 Datensätze durchsuchen, sofern in der verknüpften Tabelle so viele Einträge vorhanden sind.
+- **Verknüpfungen auf maximal eine Zeile begrenzen**: Wenn Sie diesen Regler aktivieren, können Nutzer in den Zellen der Verknüpfungsspalte nur noch jeweils eine Zeile der verknüpften Tabelle verlinken.
+- **Verknüpfte Einträge bearbeiten**: Wenn Sie diesen Regler aktivieren, können Nutzer bestehende Einträge der verknüften Tabelle bearbeiten. Über die Feldeinstellungen können Sie definieren, welche Spalten dabei **bearbeitbar** sind.
 
 ## Hinzufügen von Duplikaten verhindern
 

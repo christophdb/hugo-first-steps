@@ -1,5 +1,6 @@
 ---
-title: 'Rechtliche Vorgaben zur Zeiterfassung Ihrer Mitarbeiter - SeaTable'
+title: "Legal requirements for recording your employees' time"
+description: "In this article, we will show you how to record your employees' time in SeaTable in a legally compliant manner and with minimal effort."
 date: 2023-04-20
 lastmod: '2023-04-25'
 coverImage: 'pexels-jeshootscom-714701-scaled.jpg'
@@ -11,77 +12,75 @@ seo:
     description:
 ---
 
-Wahrscheinlich haben Sie es bereits aus den Medien erfahren: Das Bundesarbeitsministerium plant für 2023 eine Reform des Arbeitszeitgesetzes. Doch was ändert sich dadurch für Sie und Ihr Unternehmen? Müssen Sie teure Zeiterfassungssysteme anschaffen oder reicht eine [kostenlose Software]({{< relref "posts/arbeitszeiterfassung" >}})? In diesem Artikel zeigen wir Ihnen, wie Sie die Zeiterfassung Ihrer Mitarbeiter mit minimalem Verwaltungsaufwand umsetzen und dabei geltendes Recht einhalten.
+You’ve probably already heard it in the media: Germany’s Federal Ministry of Labor is planning a reform of the Working Hours Act for 2023. But what does this mean for you and your company? Do you have to invest in expensive time tracking systems, or is a [free software solution]({{< relref "posts/arbeitszeiterfassung" >}}) sufficient? In this article, we show you how to implement employee time tracking with minimal administrative effort while staying compliant with the law.
 
-## Die aktuelle Rechtslage zur Zeiterfassung in Unternehmen
+## The Current Legal Situation for Time Tracking in Companies
 
-Nachdem der Europäische Gerichtshof (EuGH) bereits im Mai 2019 entschieden hatte, dass Unternehmen in der EU die Arbeitszeit ihrer Mitarbeiter erfassen müssen, ließ sich die Politik in Deutschland erst einmal viel Zeit mit der Umsetzung in nationales Recht. [Den ersten Entwurf zur Reform des Arbeitszeitgesetzes hat das Bundesarbeitsministerium im April 2023 vorgelegt.](https://www.tagesschau.de/wirtschaft/unternehmen/arbeitszeit-erfassung-heil-101.html) Demzufolge müssen Beginn, Ende und Dauer der täglichen Arbeitszeit aufgezeichnet werden – und zwar elektronisch und in der Regel noch am selben Tag.
+After the European Court of Justice (ECJ) ruled in May 2019 that companies in the EU must track their employees’ working hours, German lawmakers took their time implementing this into national law. [The Federal Ministry of Labor presented the first draft for reforming the Working Hours Act in April 2023.](https://www.tagesschau.de/wirtschaft/unternehmen/arbeitszeit-erfassung-heil-101.html) According to this, the start, end, and duration of daily working hours must be recorded—electronically and usually on the same day.
 
-Das Bundesarbeitsgericht hatte zuvor mit seiner [Entscheidung vom 13. September 2022](https://www.verdi.de/themen/recht-datenschutz/++co++0ba8cc14-1882-11ed-9793-001a4a160129) Fakten geschaffen: Es bestätigte in seinem Urteil, dass deutsche Arbeitgeber zur Zeiterfassung in ihren Unternehmen verpflichtet sind. Der Gedanke dahinter ist, die Mitarbeiter vor zu langen Arbeitszeiten, zu wenigen Pausen und zu kurzen Ruhezeiten zu schützen.
+Previously, the Federal Labor Court had already set the facts with its [decision from September 13, 2022](https://www.verdi.de/themen/recht-datenschutz/++co++0ba8cc14-1882-11ed-9793-001a4a160129): It confirmed that German employers are required to track working hours in their companies. The idea is to protect employees from excessively long working hours, too few breaks, and too short rest periods.
 
-Denn laut geltendem Arbeitszeitgesetz müssen Arbeitgeber bereits sicherstellen, dass
+According to the current Working Hours Act, employers must already ensure that
 
-- die **reguläre Arbeitszeit** im Durchschnitt **8 Stunden pro Werktag** bzw. 48 Stunden pro Woche nicht überschreitet.
-- die Mitarbeiter **maximal 10 Stunden pro Tag** bzw. maximal 60 Stunden pro Woche arbeiten.
-- die Mitarbeiter bei einem 8-Stunden-Tag mindestens **30 Minuten Pause** einlegen.
-- die Mitarbeiter nach Beendigung der täglichen Arbeitszeit mindestens eine **Ruhezeit von 11 Stunden** bis zum erneuten Arbeitsantritt einhalten.
+- **Regular working hours** do not exceed **8 hours per workday** or 48 hours per week on average.
+- Employees work **no more than 10 hours per day** or a maximum of 60 hours per week.
+- Employees take at least a **30-minute break** on an 8-hour day.
+- After finishing their daily work, employees have at least **11 hours of rest** before starting work again.
 
-Damit ein Verstoß gegen diese Regeln überhaupt auffallen kann, muss ein Arbeitgeber die Arbeitszeit seiner Mitarbeiter zunächst erfassen.
+To even notice a violation of these rules, an employer must first track employees’ working hours.
 
-## Ist das Ende der Vertrauensarbeitszeit eingeläutet?
+## Is the Era of Trust-Based Working Hours Over?
 
-In vielen Unternehmen – vielleicht auch in Ihrem – gibt es bisher die sogenannte **Vertrauensarbeitszeit**. Hierbei verzichtet der Arbeitgeber gänzlich darauf, Arbeitsbeginn und -ende zu definieren. Vielmehr setzt er darauf, dass seine Mitarbeiter ihre Aufgaben ohne Chef im Nacken erfüllen und ihre Arbeitszeiten selbst im Blick behalten. Der **Wert der Arbeit** bemisst sich dabei an den Ergebnissen und nicht an der reinen Anwesenheitszeit, wogegen per Gesetz nichts spricht.
+In many companies—including possibly yours—**trust-based working hours** are still common. Here, the employer doesn’t define start and end times. Instead, employees are trusted to complete their tasks independently and keep track of their own hours. The **value of work** is measured by results, not mere presence, which is perfectly legal.
 
-Was den Mitarbeitern große Flexibilität und Selbstbestimmung bietet, steht scheinbar jedoch im krassen **Widerspruch zur verpflichtenden Zeiterfassung**. Diese soll vom Gesetz abweichende Arbeitszeiten und vor allem Überstunden sichtbar machen. Dem liegt die Annahme zugrunde, dass Menschen in Vertrauensarbeitszeit ihre tatsächliche Arbeitszeit häufig über- oder unterschätzen und bisweilen die gesetzlichen Regelungen überhaupt nicht kennen.
+While this offers employees great flexibility and autonomy, it seems to be in stark **contrast to mandatory time tracking**. The purpose of time tracking is to make deviations from standard hours and especially overtime visible. The assumption is that people with trust-based working hours often over- or underestimate their actual hours and may not even know the legal requirements.
 
-Ohne Zeiterfassung der Mitarbeiter ist es daher unmöglich, eine dauerhaft **zu hohe oder zu niedrige Stundenzahl** sicher erkennen zu können. Auch eine Ausnutzung übermotivierter Mitarbeiter durch die Arbeitgeber ist bei Vertrauensarbeitszeit nicht auszuschließen. Denn was viele nicht wissen: Niemand ist zu **Überstunden** verpflichtet – und wenn Arbeitgeber sie anordnen, müssen sie Überstunden mit Geld oder Freizeit wieder ausgleichen. Steht im Arbeitsvertrag, dass Überstunden pauschal mit dem Festgehalt abgegolten sind, ist das unwirksam.
+Without employee time tracking, it’s impossible to reliably detect **consistently too many or too few hours**. Overzealous employees may also be exploited under a trust-based system. What many don’t know: no one is required to do **overtime**—and if employers require it, they must compensate with pay or time off. If the contract states that overtime is covered by the fixed salary, this is invalid.
 
-In den meisten Fällen ist die Vertrauensarbeitszeit dennoch von beiden Seiten gewünscht, fördert sie doch das **Vertrauensverhältnis** zwischen Arbeitnehmer und Arbeitgeber – ein hohes Gut, das durch Arbeitszeitkontrolle keinen Schaden nehmen soll. Wenn Sie das bislang in Ihrem Unternehmen so gehändelt haben, kann die Lösung wie folgt aussehen: Die Mitarbeiter erfassen ihre Arbeitszeiten in einem System, das der jeweiligen Führungskraft ermöglicht die Einhaltung der Arbeitszeitregelungen zu überprüfen, sie gestalten die Arbeitseinteilung aber (im Rahmen des Arbeitszeitgesetzes) weiterhin frei und eigenverantwortlich.
+In most cases, trust-based working hours are still desired by both sides, as they foster a **relationship of trust** between employer and employee—a valuable asset that should not be harmed by time tracking. If this is how you’ve handled things so far, the solution could look like this: Employees record their working hours in a system that allows supervisors to check compliance with working time regulations, but employees still organize their work independently within the legal framework.
 
-Dabei können Sie sich folgenden Umstand zunutze machen: Grundsätzlich trägt zwar der Arbeitgeber die Verantwortung für eine ordnungsgemäße und korrekte Zeiterfassung, er kann diese Aufgabe aber auch an seine Mitarbeiter delegieren. Dann liegt es in ihren Händen, den Arbeitsbeginn, das Ende und die Pause(n) selbst zu bestimmen und gewissenhaft zu dokumentieren.
+You can take advantage of this: While the employer is fundamentally responsible for proper and accurate time tracking, this task can be delegated to employees. Then, it’s up to them to determine and reliably document their own start, end, and break times.
 
-## Wie Sie die Zeiterfassung technisch umsetzen
+## How to Implement Time Tracking Technically
 
-Das EuGH-Urteil fordert ein „objektives, verlässliches und zugängliches System“, mit dem Sie die täglich geleistete Arbeitszeit messen können. Aber was genau ist damit gemeint?
+The ECJ ruling requires an “objective, reliable, and accessible system” for recording daily working hours. But what does that actually mean?
 
-Seit der Corona-Krise ist klar: Das **Homeoffice** ist in vielen Unternehmen nicht mehr wegzudenken und **hybrides Arbeiten** an verschiedenen Orten schon Normalität. Während Stechuhren stillstanden und Stundenzettel verstaubten, hielten digitale Lösungen Einzug in die Arbeitswelt – anders war die Zeiterfassung der Mitarbeiter schlichtweg nicht mehr möglich. Und auch für die Zukunft heißt das, dass an Büroräume gebundene Stechuhren kein zugängliches System darstellen, wenn sich die Mitarbeiter nicht remote einloggen können.
+Since the COVID-19 crisis, it’s clear: **Home office** is here to stay in many companies, and **hybrid work** is already the norm. While punch clocks gathered dust and time sheets were forgotten, digital solutions entered the workplace—there was simply no other way to track employee hours. For the future, this also means that punch clocks tied to office locations aren’t accessible if employees can’t log in remotely.
 
-Viele Unternehmen sind dazu übergegangen, die Stunden statt auf Papier in digitalen Tabellen einzutragen. Aber auch das ist keine gute Lösung: Für die Mitarbeiter ist das Eintragen der Stunden z. B. in **Excel Tabellen** oder **Google Sheets** sehr zeitaufwändig und fehleranfällig: Schnell ist es passiert, dass man sich unbemerkt vertippt oder bei der Eingabe in der Zeile bzw. Spalte verrutscht. Zudem pflegen dann alle Mitarbeiter eigene Tabellen an verschiedenen Ablageorten, was es für die Führungskräfte und die Personalabteilung schwierig macht, die Daten regelmäßig zusammenzuführen und im Blick zu behalten: Spätestens am Monatsende werden sie jedes Mal von einer Masse an digitalen Stundentabellen erschlagen.
+Many companies have switched from paper to digital spreadsheets for tracking hours. But that’s not a great solution either: For employees, entering hours in **Excel spreadsheets** or **Google Sheets** is time-consuming and error-prone. It’s easy to make unnoticed typos or enter data in the wrong row or column. Plus, everyone keeps their own spreadsheets in different places, making it hard for managers and HR to consolidate and monitor the data. By the end of the month, they’re overwhelmed by a flood of digital time sheets.
 
-## Optimale Zeiterfassung Ihrer Mitarbeiter mit SeaTable
+## Optimal Employee Time Tracking with SeaTable
 
-Wie also lässt sich die Arbeitszeit der Mitarbeiter schnell, einfach und rechtskonform erfassen? Mit einer speziell auf diesen Anwendungsfall zugeschnittenen Vorlage von SeaTable!
+So how can you record employee working hours quickly, easily, and in compliance with the law? With a SeaTable template designed specifically for this use case!
 
-Wie bei jeder SeaTable Vorlage handelt es sich um eine **Datenbank** mit verschiedenen Tabellen, die Sie an Ihre eigenen spezifischen Bedürfnisse anpassen können. In der ersten Tabelle haben wir für Sie eine übergreifende Admin-Ansicht angelegt, in die alle **Arbeitszeiten**, **Urlaubsanträge** und **Krankmeldungen** Ihrer Mitarbeiter einfließen. Als Führungskraft haben Sie den vollen Überblick über die An- und Abwesenheiten aller Mitarbeiter in Ihrem Team.
+As with every SeaTable template, it’s a **database** with various tables that you can adapt to your specific needs. The first table provides an admin overview where all **working hours**, **leave requests**, and **sick notes** from your team are collected. As a manager, you have a full overview of all team members’ attendance and absences.
 
-![Admin-Ansicht der Arbeitszeit-Tabelle](Working-Time-Admin-View.gif)
+![Admin view of the working time table](Working-Time-Admin-View.gif)
 
-Admin-Ansicht der Arbeitszeit-Tabelle
+Admin view of the working time table
 
-Über personalisierte, [mit der User-ID gefilterte Ansichten]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}) können Sie exakt steuern, wer welche Daten sehen kann, und so jedem Mitarbeiter sein eigenes Stundenkonto mit den für ihn relevanten Daten erstellen. Mehr dazu erfahren Sie in unserem [Erklärvideo auf YouTube](https://www.youtube.com/watch?v=nLXLACzVhAQ).
+Using personalized [user-ID filtered views]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}), you can control exactly who can see what data, giving each employee their own timesheet with only their relevant information. Learn more in our [YouTube tutorial](https://www.youtube.com/watch?v=nLXLACzVhAQ).
 
-Damit sowohl Ihre Mitarbeiter als auch Sie selbst jederzeit die Einhaltung der Arbeitszeitregelungen im Blick haben, errechnet SeaTable die geleistete Stundenzahl sowie die Über- oder Unterstunden in Bezug auf die reguläre tägliche Arbeitszeit. Durch die [farbliche Markierung]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) der Zeilen sehen Sie und Ihre Teammitglieder direkt, ob der Stundensaldo eines Tages im Minus (rot) oder im Plus (grün) ist.
+To ensure both you and your employees always keep an eye on compliance with working time rules, SeaTable automatically calculates total hours worked and any overtime or undertime relative to the standard daily hours. With [color-coded rows]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}), you and your team can instantly see if the daily balance is negative (red) or positive (green).
 
-In einer mit SeaTable gebauten Mitarbeiter-App können Sie die Datenerfassung intuitiv und benutzerfreundlich gestalten, indem Sie Ihre Mitarbeiter die Arbeitszeiten, Urlaubsanträge und Krankmeldungen in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) erfassen lassen. Dabei können Sie die Eingabefelder mit konkreten Anweisungen versehen, um die Ausfüllenden sicher durch den Prozess zu leiten. Ein ausgefülltes Webformular entspricht je einem Werktag, einem Urlaubsantrag oder einer Krankmeldung.
+In an employee app built with SeaTable, you can make data entry intuitive and user-friendly by letting employees enter working hours, leave requests, and sick notes via [web forms]({{< relref "help/base-editor/webformulare" >}}). You can add specific instructions to the input fields to guide users through the process. Each completed web form corresponds to a workday, a leave request, or a sick note.
 
-![Mitarbeiter-App für Zeiterfassung, Urlaubsanträge und Krankmeldung](Mitarbeiter-App.gif)
+![Employee app for time tracking, leave requests, and sick notes](Mitarbeiter-App.gif)
 
-Mitarbeiter-App für Arbeitszeiten, Urlaubsanträge und Krankmeldung
+Employee app for working hours, leave requests, and sick notes
 
-Wenn Ihre Mitarbeiter die Formulare absenden, fügt SeaTable neue Einträge in den entsprechenden Tabellen hinzu, die Sie als Führungskraft anschließend in der Management-App freigeben oder ablehnen können. Auf Ihrem Dashboard können Sie Statistiken einbauen, mit denen Sie alle Überstunden, Urlaube und Krankmeldungen Ihrer Mitarbeiter im Blick behalten. Der [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) ermöglicht zudem die Darstellung der Daten in einer kalendarischen Übersicht.
+When employees submit forms, SeaTable adds new entries to the relevant tables, which you as a manager can then approve or reject in the management app. On your dashboard, you can add statistics to keep track of all overtime, leave, and sick days for your team. The [calendar]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) also lets you display this data in a calendar view.
 
-![Management-App für Zeiterfassung, Urlaubsanträge und Krankmeldung](Dashboard_4MB.gif)
+![Management app for time tracking, leave requests, and sick notes](Dashboard_4MB.gif)
 
-Management-App mit Dashboard
+Remember: This is just a sample template we created for you. All basic functions are included in a free subscription, but for full functionality including automations you’ll need an Enterprise subscription. Of course, you can use many other SeaTable features to develop your own time tracking solution tailored to your company’s needs.
 
-Zur Erinnerung: Hierbei handelt es sich nur um eine beispielhafte Vorlage, die wir für Sie erstellt haben. Alle Grundfunktionen sind in einem kostenlosen Free Abonnement enthalten, für den vollen Funktionsumfang inklusive Automationen benötigen Sie aber ein Enterprise Abonnement. Natürlich können Sie noch viele weitere Features von SeaTable nutzen, um ganz nach Ihren Wünschen eine eigene Anwendung für die Zeiterfassung in Ihrem Unternehmen zu entwickeln.
+[Learn more about our template here]({{< relref "posts/arbeitszeiterfassung" >}}), which will revolutionize your time tracking.
 
-[Erfahren Sie hier alles zu unserem Template]({{< relref "posts/arbeitszeiterfassung" >}}), das Ihre Arbeitszeiterfassung revolutionieren wird.
+## Conclusion: Why SeaTable Is Worth It for You
 
-## Fazit: Warum sich SeaTable für Sie lohnt
+Ultimately, SeaTable lets you map all necessary processes to record your employees’ working hours in compliance with current law and with minimal administrative effort. To ensure compliance with working time rules, you can always get a complete picture of your team’s hours and use a management app to analyze data for individual employees.
 
-Schlussendlich können Sie in SeaTable alle notwendigen Prozesse abbilden, um die Arbeitszeiten Ihrer Mitarbeiter der aktuellen Rechtslage entsprechend und mit minimalem Verwaltungsaufwand zu erfassen. Um die Einhaltung der Arbeitszeitregelungen sicherzustellen, können Sie sich stets ein vollständiges Bild von den geleisteten Stunden im Team machen und mithilfe einer Management-App die Daten für einzelne Mitarbeiter auswerten.
+In SeaTable, you and your employees document time tracking, leave requests, and sick days in one central location, instead of maintaining scattered time sheets (e.g., in Excel or Google Sheets). All you need is an internet browser and an email address.
 
-In SeaTable dokumentieren Sie und Ihre Mitarbeiter die Zeiterfassung, Urlaubsanträge und Krankheitstage an einem zentralen Ort, anstatt viele verstreute Stundentabellen (z. B. in Excel oder Google Sheets) zu pflegen. Alles, was Sie dafür benötigen, ist ein Internet-Browser und eine E-Mail-Adresse.
-
-Dennoch ist die Zeiterfassung nur ein einziger Anwendungsfall der schier unendlichen Möglichkeiten, die SeaTable Ihnen bietet. Entdecken Sie in unseren [Vorlagen]({{< relref "templates/finance" >}}), welche beeindruckenden Software-Lösungen Sie mit SeaTable bauen können, und starten Sie am besten gleich mit einem [kostenlosen Free Account]({{< relref "pages/registration" >}}).
+Still, time tracking is just one use case among the endless possibilities SeaTable offers. Explore our [templates]({{< relref "templates/finance" >}}) to see the impressive software solutions you can build with SeaTable—and get started right away with a [free account]({{< relref "pages/registration" >}}).

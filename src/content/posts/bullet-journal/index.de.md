@@ -8,6 +8,11 @@ url: '/de/bullet-journal'
 seo:
     title: Bullet Journal – wie Sie mit Kreativität Ihr Leben organisieren
     description: Im stressigen Alltag Ihre Aufgaben, Termine und Interessen im Blick zu behalten, ist schwierig. Dabei hilft Ihnen Ihr Bullet Journal.
+categories:
+    - 'best-practice'
+tags:
+      - 'Alltag & Freizeit'
+color: '#f9cb0d'
 ---
 
 Im oft stressigen Alltag ist es schwer, Aufgaben, Termine und die eigenen Interessen unter einen Hut zu bekommen. Damit Sie die Dinge, die Ihnen im Leben wirklich wichtig sind, im täglichen Haufen an monotonen Abläufen nicht aus den Augen verlieren, hilft es, diese aufzuschreiben. Dafür eignet sich ein **Bullet Journal**, in welchem Sie alles Wichtige festhalten und Ihrer Kreativität freien Lauf lassen können.

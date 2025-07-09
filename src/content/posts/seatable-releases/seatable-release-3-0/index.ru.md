@@ -21,7 +21,7 @@ SeaTable 3.0 уже здесь! Третий основной выпуск SeaTa
 
 ![Валидация данных в SeaTable 3.0](FormatCheck.png)
 
-Das Zielformat wird in Form eines [regulären Ausdrucks](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck) definiert. Ein regulärer Ausdruck für eine Zahlenfolge mit genau 5 Stellen ist beispielsweise \[0-9\]{5}. Für reguläre Ausdrücke sprechen zwei Argumente: Sie sind eine weit verbreitete Methode und bieten ein Maximum an Flexibilität. Die Art der erlaubten Zeichen, die Länge, und auch die Syntax der Eingabe lässt sich mit regulären Ausdrücken präzise definieren.
+Целевой формат задается в виде [регулярного выражения](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck). Например, регулярное выражение для последовательности чисел, состоящей ровно из 5 цифр, имеет вид \[0-9\]{5}. Есть два аргумента в пользу регулярных выражений: они широко используются и обеспечивают максимальную гибкость. С помощью регулярных выражений можно точно определить тип разрешенных символов, длину, а также синтаксис входных данных.
 
 В версии 3.0 валидация данных доступна в текстовых колонках. Если впоследствии добавляется целевой формат, все существующие записи также проверяются, а несоответствующие значения помечаются как таковые. Таким образом, ничто не мешает впоследствии активировать проверку данных в существующих колонках.
 

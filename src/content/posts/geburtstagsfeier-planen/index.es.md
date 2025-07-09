@@ -1,5 +1,6 @@
 ---
 title: 'Planificar una fiesta de cumpleaños: 3 pasos para una fiesta perfecta'
+description: 'Desde la elección de la fecha y el lugar hasta la lista de invitados, el catering y la música: planificar la fiesta con suficiente antelación crea las condiciones perfectas para que la fiesta de cumpleaños sea un éxito.'
 date: 2023-07-26
 lastmod: '2024-01-11'
 url: '/es/geburtstagsfeier-planen'
@@ -7,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Mejores prácticas'
+    - 'best-practice'
 tags:
     - 'Vida cotidiana y ocio'
 color: '#fe5d4c'

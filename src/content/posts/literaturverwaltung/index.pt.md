@@ -160,7 +160,7 @@ Alguns programas de gestão de referências facilitam a pesquisa de nova literat
 
 ![A estudante faz uma verificação final da sua bibliografia antes de a entregar.](Literaturverwaltung_AdobeStock_140218536_bearbeitet-711x474.jpg)
 
-As bibliotecas também são um bom sítio para pesquisar fontes. Jacob Lund / Adobe Stock
+As bibliotecas também são um bom sítio para pesquisar fontes. © ake1150 / Adobe Stock
 
 ### 4\. criar um esquema no programa de gestão de referências
 

@@ -56,8 +56,6 @@ Wie bei jeder SeaTable Vorlage handelt es sich um eine **Datenbank** mit verschi
 
 ![Admin-Ansicht der Arbeitszeit-Tabelle](Working-Time-Admin-View.gif)
 
-Admin-Ansicht der Arbeitszeit-Tabelle
-
 Über personalisierte, [mit der User-ID gefilterte Ansichten]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}) können Sie exakt steuern, wer welche Daten sehen kann, und so jedem Mitarbeiter sein eigenes Stundenkonto mit den für ihn relevanten Daten erstellen. Mehr dazu erfahren Sie in unserem [Erklärvideo auf YouTube](https://www.youtube.com/watch?v=nLXLACzVhAQ).
 
 Damit sowohl Ihre Mitarbeiter als auch Sie selbst jederzeit die Einhaltung der Arbeitszeitregelungen im Blick haben, errechnet SeaTable die geleistete Stundenzahl sowie die Über- oder Unterstunden in Bezug auf die reguläre tägliche Arbeitszeit. Durch die [farbliche Markierung]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) der Zeilen sehen Sie und Ihre Teammitglieder direkt, ob der Stundensaldo eines Tages im Minus (rot) oder im Plus (grün) ist.

@@ -8,7 +8,7 @@ seo:
     title:
     description:
 categories:
-    - 'Лучшие практики'
+    - 'best-practice'
 tags:
     - 'постройте свой бизнес'
     - 'Операционная деятельность'

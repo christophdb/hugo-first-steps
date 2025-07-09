@@ -7,6 +7,11 @@ url: '/auslagenerstattung'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Invoicing'
+color: '#edb905'
 ---
 
 Whether it's a business meal, train ticket or company cell phone - do you regularly make advance payments at work and want to know what you need to consider when **reimbursing expenses**? Or are you an employer yourself and looking for a way to make the expense reimbursement process more efficient for your employees?

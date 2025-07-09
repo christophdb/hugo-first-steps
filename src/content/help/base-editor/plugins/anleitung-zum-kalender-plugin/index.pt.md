@@ -14,7 +14,7 @@ Há um total de 5 opções de visualização: Pode exibir os compromissos num ca
 
 {{< warning  headline="Requisitos" >}}
 
-Para utilizar a visualização do calendário para uma visualização de tabela, é necessário pelo menos uma [coluna de datas]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+Para utilizar a visualização do calendário para uma visualização de tabela, é necessário pelo menos uma [coluna de datas]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}).
 
 {{< /warning >}}
 

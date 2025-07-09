@@ -76,7 +76,7 @@ seo:
 2. Выберите интегрированную учетную запись электронной почты, с которой будет отправлено письмо.
 3. Выберите тему, текст письма и получателя
 
-> **Für Profis:** Sie können dabei mit Nasenklammern direkt Spalteninhalte wiedergeben, was besonders bei der Email-Adresse sehr wichtig ist. Mit {Email} beziehen wir uns in unserer Vorlage auf die zuvor eingefügte Email-Adresse der Lieferanten, die aus Tabelle 3 gezogen wird. Die Inhalte aus Spalten können Sie auch im Betreff und dem Text der Email benutzen, wie etwa den Produktnamen und die Menge der bestellten Güter (also etwa: “Wir möchten das Produkt {Product} mit der Menge {Amount} bestellen”). Auf diese Weise vereinfachen Sie Ihre Büroorganisation ungemein, da Sie keine manuellen Emails mehr schreiben müssen, in der alle Bestellungen mühsam übertragen werden müssen.
+**Для профессионалов:** Вы можете использовать носовые скобки для прямого воспроизведения содержимого столбцов, что особенно важно для адреса электронной почты. В нашем шаблоне {Email} ссылается на ранее вставленный адрес электронной почты поставщика, который взят из таблицы 3. Вы также можете использовать содержимое столбцов в теме и тексте письма, например название товара и количество заказываемого товара (например: "Мы хотели бы заказать товар {Продукт} в количестве {Сумма}"). Таким образом, вы значительно упрощаете организацию работы своего офиса, поскольку вам больше не нужно вручную писать электронные письма, в которых все заказы должны быть трудоемко переданы.
 
 ## Индивидуальные представления и Kanban обеспечивают лучший обзор
 

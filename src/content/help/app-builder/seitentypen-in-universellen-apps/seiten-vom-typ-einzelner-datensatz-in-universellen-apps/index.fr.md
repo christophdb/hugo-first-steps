@@ -49,6 +49,15 @@ Vous pouvez également définir une **couleur d'arrière-plan** et une **bordure
 
 Pour tous les types de colonnes basées sur le texte et les chiffres, vous avez également la possibilité de régler la **taille, l'épaisseur, la couleur et l'orientation de la police des valeurs affichées**.
 
+En outre, il existe quelques particularités pour les types de colonnes suivants :
+
+- Si vous cliquez sur une adresse e-mail dans une colonne **E-mail**, le client de messagerie installé sur votre appareil (par exemple, Microsoft Outlook ou Mozilla Thunderbird) s'ouvre.
+- Si vous cliquez sur un lien dans une colonne **URL**, la page Internet correspondante s'ouvre dans un nouvel onglet de votre navigateur.
+- Si vous cliquez sur une icône de miniature dans une colonne de **fichier**, le fichier s'ouvre dans un visualiseur approprié dans un nouvel onglet de votre navigateur. Vous pouvez également ouvrir et modifier des documents Office directement dans le navigateur, à condition qu'un éditeur Office en ligne soit configuré.
+- Dans le cas des **colonnes de liens**, toutes les entrées liées à l'enregistrement peuvent être présentées de manière claire dans un tableau. Vous pouvez ajuster la largeur des colonnes et utiliser les paramètres de l'élément pour masquer les colonnes afin de n'afficher que les informations essentielles des entrées liées.
+
+![Link columns on Single Record pages](images/link-columns-on-single-record-pages.png)
+
 ## Copier, déplacer ou supprimer des éléments
 
 Si vous souhaitez copier, déplacer ou supprimer un élément existant sur votre page, utilisez simplement les trois **icônes** correspondantes dans le coin supérieur droit du cadre.
@@ -63,7 +72,7 @@ En outre, vous pouvez définir des filtres et des tris prédéfinis afin de limi
 
 Les utilisateurs ne peuvent voir que les informations relatives à un seul enregistrement que vous avez choisi d'afficher via les champs de table intégrés.
 
-{{< warning  headline="Remarque importante"  text="Les utilisateurs de l'application ne peuvent **pas modifier** les **filtres** et **les classements** **prédéfinis**. Vous n'obtenez donc, comme vous le souhaitez, que les entrées filtrées dans un ordre fixe." />}}
+{{< warning  headline="Remarque importante"  text="Les utilisateurs de l'application ne peuvent **pas modifier** les **filtres** et **les tris** **prédéfinis**. Vous n'obtenez donc, comme vous le souhaitez, que les entrées filtrées dans un ordre fixe." />}}
 
 ## Paramètres graphiques de l'arrière-plan de la page
 

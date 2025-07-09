@@ -7,7 +7,7 @@ seo:
     description: 'Planeamento do pessoal facilitado: saiba como otimizar a sua equipa e evitar estrangulamentos.'
 date: 2025-06-30
 categories:
-    - 'Melhores práticas'
+    - 'best-practice'
 tags:
     - 'Administração de Recursos Humanos'
 color: '#4c9481'

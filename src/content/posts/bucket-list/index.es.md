@@ -8,6 +8,11 @@ color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+      - 'Vida cotidiana y ocio'
+color: '#3090b6'
 ---
 
 ¿Siempre ha querido saltar en paracaídas desde un avión? ¿Sueña desde niño con bucear en la Gran Barrera de Coral de Australia? ¿O le gustaría pasar una noche en un iglú en Noruega? Anote estos destinos en su lista de deseos.

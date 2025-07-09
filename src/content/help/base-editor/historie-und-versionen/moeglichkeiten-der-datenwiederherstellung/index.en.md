@@ -27,7 +27,7 @@ The following article gives you an overview of when which recovery option is rig
 
 ## 1\. recovery of deleted bases
 
-If you have deleted an entire Base, you can restore it using a recycle bin on the SeaTable home page. To learn how to do this, see the article [Restore a Deleted Base]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}).
+If you have deleted an entire Base, you can restore it using a recycle bin on the SeaTable home page. To learn how to do this, see the article [Restore a Deleted Base]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. recovery of deleted rows, columns or tables
 

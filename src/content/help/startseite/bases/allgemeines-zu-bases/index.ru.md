@@ -83,7 +83,7 @@ url: '/ru/pomoshch/bases'
 
 ## Удаление и восстановление баз
 
-При необходимости можно [удалить]({{< relref "help/startseite/bases/loeschen-einer-base" >}}) базы, которыми вы владеете или администрируете, и [восстановить]({{< relref "help/base-editor/historie-und-versionen/eine-geloeschte-base-wiederherstellen" >}}) их на срок до 30 дней. Следуйте инструкциям в статьях, на которые даны ссылки.
+При необходимости можно [удалить]({{< relref "help/startseite/papierkorb/loeschen-einer-base" >}}) базы, которыми вы владеете или администрируете, и [восстановить]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}) их на срок до 30 дней. Следуйте инструкциям в статьях, на которые даны ссылки.
 
 ### Восстановление базы из моментального снимка
 

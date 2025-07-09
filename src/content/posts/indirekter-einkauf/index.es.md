@@ -76,7 +76,7 @@ Así es como funciona:
 2. Seleccione la cuenta de correo electrónico integrada desde la que se va a enviar el correo.
 3. Seleccione el asunto, el texto del correo electrónico y el destinatario
 
-> **Für Profis:** Sie können dabei mit Nasenklammern direkt Spalteninhalte wiedergeben, was besonders bei der Email-Adresse sehr wichtig ist. Mit {Email} beziehen wir uns in unserer Vorlage auf die zuvor eingefügte Email-Adresse der Lieferanten, die aus Tabelle 3 gezogen wird. Die Inhalte aus Spalten können Sie auch im Betreff und dem Text der Email benutzen, wie etwa den Produktnamen und die Menge der bestellten Güter (also etwa: “Wir möchten das Produkt {Product} mit der Menge {Amount} bestellen”). Auf diese Weise vereinfachen Sie Ihre Büroorganisation ungemein, da Sie keine manuellen Emails mehr schreiben müssen, in der alle Bestellungen mühsam übertragen werden müssen.
+**Para profesionales:** Puede utilizar corchetes de nariz para reproducir directamente el contenido de las columnas, lo que es especialmente importante en el caso de la dirección de correo electrónico. En nuestra plantilla, {Email} hace referencia a la dirección de correo electrónico del proveedor insertada anteriormente, que se ha tomado de la Tabla 3. También puede utilizar el contenido de las columnas en el asunto y el texto del correo electrónico, como el nombre del producto y la cantidad pedida (por ejemplo: "Deseamos pedir el producto {Product} con la cantidad {Amount}"). De este modo, simplificará enormemente la organización de su oficina, ya que no tendrá que redactar correos electrónicos manuales en los que haya que transferir laboriosamente todos los pedidos.
 
 ## Las vistas individuales y Kanban proporcionan una mejor visión de conjunto
 

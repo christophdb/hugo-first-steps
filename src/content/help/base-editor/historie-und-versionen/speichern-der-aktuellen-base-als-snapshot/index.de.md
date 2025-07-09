@@ -12,7 +12,7 @@ Eine Base können Sie in SeaTable jederzeit als sogenannten **Snapshot** speiche
 
 Gut zu wissen: SeaTable legt automatisch einen Snapshot pro Tag von jeder Base an, in der Änderungen vorgenommen wurden. So haben Sie immer Sicherheitskopien Ihrer Bases mit den letzten Versionsständen.
 
-{{< warning  type="warning" headline="Achtung"  text="Obwohl Snapshots Kopien von Speicherständen einer Base sind, enthalten sie **nicht alle** Informationen und Einstellungen. **Kommentare**, **Automationen** und **Apps** können Sie beispielsweise nicht mit Snapshots wiederherstellen. Mehr dazu erfahren Sie am Ende des Artikels." />}}
+{{< warning  type="warning" headline="Achtung"  text="Obwohl Snapshots Kopien von Speicherständen einer Base sind, enthalten sie **nicht alle** Informationen und Einstellungen. **Kommentare**, **Webformulare**, **Automationen**, **Apps**, **Inhalte im Papierkorb** und **Daten im Big-Data-Speicher** können Sie nicht mit Snapshots wiederherstellen." />}}
 
 ## Manuelle Erstellung eines Snapshots
 
@@ -46,7 +46,7 @@ Folgende Artikel könnten Sie in Bezug auf den Umgang mit Snapshots interessiere
 
 {{< faq "Welche Informationen einer Base werden in einem Snapshot gespeichert?" >}}Ein Snapshot speichert alle **Tabellendaten** (Spalten und Zeilen) sowie **Ansichten** und deren Einstellungen. Auch **Statistiken**, **Plugins** und deren Einstellungen sowie **Skripte** werden gespeichert.
 {{< /faq >}}
-{{< faq "Welche Informationen einer Base werden _nicht_ in einem Snapshot gespeichert?" >}}**Kommentare**, **Webformulare**, **Automationen**, **Apps** und **Inhalte im Papierkorb** (gelöschte Tabellen, Spalten und Zeilen) werden **nicht** in Snapshots gespeichert. Ebenfalls nicht in einem Snapshot enthalten sind Daten im Big-Data-Speicher.
+{{< faq "Welche Informationen einer Base werden NICHT in einem Snapshot gespeichert?" >}}**Kommentare**, **Webformulare**, **Automationen**, **Apps** und **Inhalte im Papierkorb** (gelöschte Tabellen, Spalten und Zeilen) werden **nicht** in Snapshots gespeichert. Ebenfalls nicht in einem Snapshot enthalten sind Daten im Big-Data-Speicher.
 {{< /faq >}}
 {{< faq "Wie oft werden automatische Snapshots erstellt?" >}}Snapshots werden **einmal täglich** automatisch erstellt, sofern an der Base Änderungen vorgenommen wurden. Der Zeitpunkt, wann dies passiert, kann aktuell nicht beeinflusst werden.
 {{< /faq >}}
