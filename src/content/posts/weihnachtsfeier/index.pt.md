@@ -1,18 +1,20 @@
 ---
-title: 'Festa de Natal 2024 - ideias para um evento empresarial único'
+title: 'Festa de Natal 2025 - ideias para um evento empresarial único'
 date: 2023-08-25
-lastmod: '2024-07-09'
+lastmod: '2025-07-09'
 author: 'nsc2'
-url: '/pt/weihnachtsfeier'
+url: '/pt/festa-natal'
+aliases:
+    - /pt/weihnachtsfeier
 color: '#eeeeee'
 seo:
     title:
     description:
 ---
 
-Em breve chegará de novo aquela altura! Enquanto algumas pessoas ainda estão a lamentar o verão que passou, os primeiros biscoitos de gengibre e bolachas nas prateleiras dos supermercados já nos recordam a época natalícia que se aproxima. Mas mesmo que ainda não esteja no espírito natalício: A próxima festa de Natal da empresa já está à sua espera. Para tornar a sua festa de Natal de 2024 inesquecível, não pode começar a planear com antecedência suficiente!
+Em breve chegará de novo aquela altura! Enquanto algumas pessoas ainda estão a lamentar o verão que passou, os primeiros biscoitos de gengibre e bolachas nas prateleiras dos supermercados já nos recordam a época natalícia que se aproxima. Mas mesmo que ainda não esteja no espírito natalício: A próxima festa de Natal da empresa já está à sua espera. Para tornar a sua festa de Natal de 2025 inesquecível, não pode começar a planear com antecedência suficiente!
 
-Bebe vinho quente com os seus colegas todos os anos no mercado de Natal ou vai comer fora num restaurante? Está a pensar em como pode organizar um evento empresarial único com a sua equipa em 2024? Então, as nossas ideias variadas para a sua próxima festa de Natal são perfeitas!
+Bebe vinho quente com os seus colegas todos os anos no mercado de Natal ou vai comer fora num restaurante? Está a pensar em como pode organizar um evento empresarial único com a sua equipa em 2025? Então, as nossas ideias variadas para a sua próxima festa de Natal são perfeitas!
 
 ## Ideias para uma festa de Natal fora das instalações da empresa
 

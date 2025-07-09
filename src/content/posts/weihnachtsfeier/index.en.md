@@ -1,18 +1,20 @@
 ---
-title: 'Christmas party 2024 - ideas for a unique company event'
+title: 'Christmas party 2025 - ideas for a unique company event'
 date: 2023-08-25
-lastmod: '2024-07-09'
+lastmod: '2025-07-09'
 author: 'nsc2'
-url: '/weihnachtsfeier'
+url: '/christmas-party'
+aliases:
+    - /weihnachtsfeier/
 color: '#eeeeee'
 seo:
     title:
     description:
 ---
 
-It will soon be that time again! While some people are still mourning the past summer, the first gingerbread and cookies on the supermarket shelves are already reminding us of the coming Christmas season. But even if you're not yet in the Christmas spirit: The next company Christmas party is already waiting for you. To make your 2024 Christmas party unforgettable, you can't start planning early enough!
+It will soon be that time again! While some people are still mourning the past summer, the first gingerbread and cookies on the supermarket shelves are already reminding us of the coming Christmas season. But even if you're not yet in the Christmas spirit: The next company Christmas party is already waiting for you. To make your 2025 Christmas party unforgettable, you can't start planning early enough!
 
-Do you drink mulled wine with your colleagues at the Christmas market every year or go out to eat in a restaurant? Are you wondering how you can organize a unique company event with your team in 2024? Then our varied ideas for your upcoming Christmas party are just the thing!
+Do you drink mulled wine with your colleagues at the Christmas market every year or go out to eat in a restaurant? Are you wondering how you can organize a unique company event with your team in 2025? Then our varied ideas for your upcoming Christmas party are just the thing!
 
 ## Ideas for a Christmas party outside the company premises
 
