@@ -8,6 +8,12 @@ url: '/social-media-management'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Marketing Planning'
+    - 'Content Planning'
+color: '#d67a70'
 ---
 
 **Social media** has become an important part of our everyday lives. You can **reach** many **potential target groups** on platforms such as **Instagram, TikTok, Facebook or LinkedIn**. Whether organic content or paid ads: Amidst the feeds and stories, the line between entertainment, information and advertising becomes blurred. Social media management allows you to promote yourself subliminally, interact with your followers and create a stronger emotional bond between your customers and your brand.

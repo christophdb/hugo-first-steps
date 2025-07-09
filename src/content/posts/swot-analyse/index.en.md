@@ -5,10 +5,17 @@ lastmod: '2025-02-03'
 coverImage: 'Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg'
 author: 'rdb'
 url: '/swot-analyse'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Marketing Planning'
+    - 'Build your Business'
+    - 'Data Management & Visualisation'
+    - 'Operations'
+color: '#9f91c7'
 ---
 
 The **SWOT analysis** is a crucial **tool for strategic corporate planning**, as it takes both internal and external factors into account. This article uses a SWOT analysis example to explain the best way to proceed and how a SWOT analysis template can help you to implement it.

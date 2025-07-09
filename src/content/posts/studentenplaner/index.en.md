@@ -5,10 +5,14 @@ lastmod: '2022-06-13'
 coverImage: 'john-schnobrich-2FPjlAyMQTA-unsplash-scaled-1.jpg'
 author: 'rbu'
 url: '/studentenplaner'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
+color: '#c0621d'
 ---
 
 The 2020 winter semester is just around the corner and you want to really get started this time? SeaTable offers you the perfect solution. You can now keep track of all your exams, submissions and other to-dos. always in view. Your individual student planner is customised to your needs in no time at all. Let's take a closer look at the ready-made SeaTable template in more detail:

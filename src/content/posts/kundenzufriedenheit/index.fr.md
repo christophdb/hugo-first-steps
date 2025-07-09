@@ -4,10 +4,15 @@ date: 2021-03-05
 lastmod: '2023-06-28'
 author: 'cdb'
 url: '/fr/kundenzufriedenheit'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestion des données & visualisation'
+    - 'Relation Client'
+color: '#29a4a1'
 ---
 
 Si un client est satisfait, il achètera à nouveau chez vous et recommandera même probablement votre entreprise. Si votre produit ne résout pas le problème du client comme prévu, vous avez perdu un client et, dans le pire des cas, les mauvaises évaluations pleuvent. Le manque de satisfaction du client pourrait alors décourager d'autres nouveaux clients potentiels et entraîner une perte de chiffre d'affaires.

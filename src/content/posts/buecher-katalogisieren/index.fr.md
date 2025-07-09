@@ -10,8 +10,8 @@ seo:
 categories:
     - 'best-practice'
 tags:
-      - 'Outils & plugins'
-      - 'Vie Quotidienne'
+    - 'Outils & plugins'
+    - 'Vie Quotidienne'
 color: '#71c392'
 ---
 

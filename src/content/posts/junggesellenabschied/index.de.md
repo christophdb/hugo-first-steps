@@ -8,6 +8,11 @@ url: '/de/junggesellenabschied'
 seo:
     title: 'Junggesellenabschied – Ideen und Tipps für die perfekte Tour'
     description: 'Planen Sie einen unvergesslichen Junggesellenabschied? Wir haben die besten Ideen und Tipps für den perfekten Tag!'
+categories:
+    - 'best-practice'
+tags:
+    - 'Alltag & Freizeit'
+color: '#f5c0d0'
 ---
 
 Für den klassischen Junggesellenabschied gelten drei Dinge als unverzichtbar: auffällige **T-Shirts**, ein **Bauchladen** gefüllt mit allerlei Kuriositäten und ein **belebter Ort**. Doch warum sollte es nicht etwas Besonderes sein? Immerhin heiratet man meist nur einmal im Leben und der **Junggesellenabschied** kann ebenso einzigartig und unvergesslich sein wie die Hochzeit selbst.

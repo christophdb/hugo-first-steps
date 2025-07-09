@@ -4,10 +4,16 @@ date: 2024-02-21
 lastmod: '2024-03-05'
 author: 'nsc'
 url: '/es/umfrage-erstellen'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Herramientas y plugins'
+    - 'Planificación de marketing'
+    - 'Gestión de clientes'
+color: '#e3a9bb'
 ---
 
 ¿Quiere averiguar cuáles son las necesidades de su público objetivo o cómo puede optimizar aún más su producto? ¿O crear una encuesta para conocer el grado de satisfacción de sus empleados? Las **encuestas en línea** están demostrando ser una herramienta muy eficaz para recopilar datos. Sus numerosas ventajas las convierten en el método preferido por empresas, organizaciones e investigadores de todo el mundo.

@@ -7,6 +7,11 @@ url: '/es/patriot-act-vs-privacy-canada'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Seguridad informática y privacidad de datos'
+color: '#0a2e7f'
 ---
 
 Los datos de millones de canadienses se almacenan en servidores estadounidenses de Microsoft, Google, Amazon o Airtable; al mismo tiempo, la llamada **Patriot Act** permite básicamente a las autoridades estadounidenses desviar todos estos datos. [Por este motivo, los expertos en protección de datos llevan tiempo desaconsejando el almacenamiento de datos personales en nubes estadounidenses.](https://www.heise.de/select/ct/2017/9/1492964161648735) La provincia canadiense de Quebec también quiere impedirlo a partir de septiembre de 2023 mediante leyes de protección de datos más estrictas.

@@ -11,8 +11,8 @@ seo:
 categories:
     - 'best-practice'
 tags:
-      - 'Toolings & Plugins'
-      - 'Alltag & Freizeit'
+    - 'Toolings & Plugins'
+    - 'Alltag & Freizeit'
 color: '#71c392'
 ---
 

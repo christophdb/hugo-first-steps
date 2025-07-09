@@ -7,6 +7,11 @@ url: '/fr/qualitative-inhaltsanalyse'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Éducation'
+color: '#e1cfe9'
 ---
 
 Que ce soit dans la recherche ou dans le monde du travail, une **analyse de contenu qualitative** vous aide à évaluer des données de manière structurée. Cet article vous explique comment procéder au mieux et ce à quoi vous devez faire attention. Ensuite, la réalisation d'une analyse de contenu est également mise en lumière à l'aide d'une **revue de presse**.

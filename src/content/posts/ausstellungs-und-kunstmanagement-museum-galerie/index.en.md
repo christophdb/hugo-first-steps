@@ -5,10 +5,14 @@ lastmod: '2023-07-05'
 coverImage: 'seatable-art-exhibition-management.jpg'
 author: 'cdb'
 url: '/ausstellungs-und-kunstmanagement-museum-galerie'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Art & Culture Management'
+color: '#c75d67'
 ---
 
 There are around [55,000 museums](https://www.zukunftsinstitut.de/artikel/die-zukunft-des-museums-ist-integrativ/) worldwide and countless other galleries, exhibitions, theaters and art stages. Everyone will agree that art in its various forms plays an important role in our lives. Without digital tools, managing and operating such an art institution would be almost inconceivable today. Applying for public funds, inventorying exhibits, and (especially during the Corona pandemic) registering visitors - there are certainly easier tasks than in art management.

@@ -7,6 +7,11 @@ url: '/pt/notvorrat-anlegen'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana e lazer'
+color: '#e33336'
 ---
 
 O que faria se a eletricidade e a água falhassem subitamente em todo o país? Na Alemanha isso é muito improvável, mas noutras partes do mundo os danos nas infra-estruturas são mais comuns. Muitas pessoas não estão suficientemente preparadas para estas e outras **situações de emergência**.

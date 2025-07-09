@@ -8,6 +8,11 @@ url: '/de/meal-prep'
 seo:
     title: 'Meal Prep – gesund und günstig Essen vorkochen + Wochenplan'
     description: 'Oft fehlt die Zeit, selbst zu kochen. Meal Prep löst dieses Problem und hilft Ihnen mit ausgewogener Ernährung Zeit und Geld zu sparen.'
+categories:
+    - 'best-practice'
+tags:
+    - 'Alltag & Freizeit'
+color: '#cfc6e9'
 ---
 
 Mit wenig Zeit möglichst günstig und gesund essen – ein Trend aus den USA verspricht genau das. Denn im stressigen Alltag kommt eine **ausgewogene Ernährung** oft zu kurz. Stattdessen greifen wir zum Beispiel in den Mittagspausen häufig zu Fastfood oder ungesunden Snacks, um unseren Heißhunger zu stillen. In diesem Artikel erfahren Sie, was es mit **Meal Prep** auf sich hat, worauf Sie beim Meal Prepping achten sollten und wie Sie einen smarten [Meal Prep Wochenplan]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) erstellen können.

@@ -7,6 +7,11 @@ url: '/qualitative-inhaltsanalyse'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Education'
+color: '#e1cfe9'
 ---
 
 Whether in research or in the working world: **qualitative content analysis** helps you to evaluate data material in a structured way. In this article, you will learn how best to proceed and what you should pay attention to. Subsequently, the implementation of a content analysis is also illustrated using a **press review**.

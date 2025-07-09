@@ -11,8 +11,8 @@ seo:
 categories:
     - 'best-practice'
 tags:
-      - 'Tools & Plugins'
-      - 'Everyday Life & Leisure'
+    - 'Tools & Plugins'
+    - 'Everyday Life & Leisure'
 color: '#71c392'
 ---
 

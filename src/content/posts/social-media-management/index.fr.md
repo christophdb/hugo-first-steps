@@ -7,6 +7,12 @@ url: '/fr/social-media-management'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Outils & plugins'
+    - 'Planification marketing'
+color: '#d67a70'
 ---
 
 **Les médias sociaux** ont pris une place importante dans notre quotidien. Sur des plateformes comme **Instagram, TikTok, Facebook ou LinkedIn**, vous pouvez **atteindre** de nombreux **groupes cibles potentiels**. Qu'il s'agisse de contenu organique ou d'annonces payantes : Au milieu des flux et des histoires, la frontière entre divertissement, information et publicité s'estompe. Grâce à la gestion des médias sociaux, vous pouvez faire votre promotion de manière subliminale, interagir avec vos followers et créer un lien émotionnel plus fort entre vos clients et votre marque.

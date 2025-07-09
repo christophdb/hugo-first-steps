@@ -7,6 +7,11 @@ url: '/pt/meal-prep'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana e lazer'
+color: '#cfc6e9'
 ---
 
 Com pouco tempo, comer de forma barata e saudável – uma tendência dos EUA promete exatamente isso. Pois, no dia a dia corrido, uma **alimentação equilibrada** muitas vezes fica de lado. Em vez disso, por exemplo, nas pausas para o almoço, frequentemente recorremos a fast food ou lanches pouco saudáveis para saciar a fome. Neste artigo, você vai aprender o que é o **Meal Prep**, o que deve ser observado ao preparar as refeições e como criar um inteligente [plano semanal de Meal Prep]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan).

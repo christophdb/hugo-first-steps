@@ -10,8 +10,8 @@ seo:
 categories:
     - 'best-practice'
 tags:
-      - 'Ferramentas e plugins'
-      - 'Vida cotidiana e lazer'
+    - 'Ferramentas e plugins'
+    - 'Vida cotidiana e lazer'
 color: '#71c392'
 ---
 

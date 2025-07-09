@@ -7,6 +7,11 @@ url: '/es/qualitative-inhaltsanalyse'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Educación'
+color: '#e1cfe9'
 ---
 
 Ya sea en la investigación o en el mundo laboral: el **análisis de contenido cualitativo** le ayuda a analizar el material de datos de forma estructurada. En este artículo aprenderá cuál es la mejor manera de proceder y a qué debe prestar atención. A continuación, también se ilustra la realización de un análisis de contenido mediante una **revista de** prensa.

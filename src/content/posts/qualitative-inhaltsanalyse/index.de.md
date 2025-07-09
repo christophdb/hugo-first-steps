@@ -8,6 +8,11 @@ url: '/de/qualitative-inhaltsanalyse'
 seo:
     title: 'Qualitative Inhaltsanalyse einfach erklärt – Beispiel: Pressespiegel'
     description: 'Die qualitative Inhaltsanalyse kann Material systematisch auswerten und interpretierbar machen. Wie Sie diese durchführen, erfahren Sie hier.'
+categories:
+    - 'best-practice'
+tags:
+    - 'Bildung'
+color: '#e1cfe9'
 ---
 
 Ob in der Forschung oder in der Arbeitswelt: Eine **qualitative Inhaltsanalyse** hilft Ihnen, strukturiert Datenmaterial auszuwerten. Wie Sie dabei am besten vorgehen und worauf Sie achten sollten, erfahren Sie in diesem Artikel. Im Anschluss wird die Durchführung einer Inhaltsanalyse auch an einem **Pressespiegel** beleuchtet.

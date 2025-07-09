@@ -4,10 +4,14 @@ date: 2022-07-01
 lastmod: '2024-03-21'
 author: 'cdb'
 url: '/pt/sammlung-verwalten'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestão da arte e da cultura'
+color: '#c6d7cb'
 ---
 
 Suas **coleções** podem ser gerenciadas de forma ideal usando programas digitais e aplicativos. Não importa se a coleção é composta por itens físicos ou mídias digitais. Entre os itens de coleção mais populares estão moedas, selos, tênis, obras de arte, brinquedos, cartas colecionáveis, NFTs, [livros]({{< relref "posts/buecher-katalogisieren" >}}), filmes, música (em CD, vinil) e muito mais. Quando a paixão de um colecionador desperta, o maior desafio costuma ser manter a visão geral. É aí que entram os programas que permitem gerenciar sua coleção – no PC ou em um aplicativo.

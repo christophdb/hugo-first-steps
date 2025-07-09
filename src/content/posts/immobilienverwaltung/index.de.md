@@ -5,10 +5,15 @@ date: 2022-04-17
 lastmod: '2023-11-06'
 author: 'cdb'
 url: '/de/immobilienverwaltung'
-color: '#eeeeee'
 seo:
     title: 'Immobilien: 4 nützliche Vorlagen für Mieter und Vermieter'
     description: 'Egal, ob Sie Ihre Immobilien verwalten möchten, auf Wohnungssuche sind oder einen Umzug planen – SeaTable hilft Ihnen bei der Organisation.'
+categories:
+    - 'best-practice'
+tags:
+    - 'Finanzen'
+    - 'Alltag & Freizeit'
+color: '#75b288'
 ---
 
 Wir kümmern uns um Ihre Organisation – ganz egal, ob Sie Ihre Immobilien übersichtlich verwalten möchten, auf der Suche nach einer Wohnung sind oder bereits den nächsten Umzug planen.

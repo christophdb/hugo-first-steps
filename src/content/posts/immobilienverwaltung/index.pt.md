@@ -4,10 +4,15 @@ date: 2022-04-17
 lastmod: '2023-11-06'
 author: 'cdb'
 url: '/pt/immobilienverwaltung'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Finanças'
+    - 'Vida cotidiana e lazer'
+color: '#75b288'
 ---
 
 Nós tratamos da sua organização - independentemente de querer gerir claramente os seus imóveis, de estar à procura de um apartamento ou de já estar a planear a sua próxima mudança.
