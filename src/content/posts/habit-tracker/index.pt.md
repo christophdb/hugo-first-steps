@@ -7,6 +7,11 @@ url: '/pt/habit-tracker'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana e lazer'
+color: '#c9aaa1'
 ---
 
 Tomar **resoluções** de Ano Novo tornou-se um hábito para muitas pessoas. Mas todos os anos ficamos desiludidos quando não conseguimos cumprir as nossas resoluções. É necessária uma forte vontade para integrar novos hábitos nas nossas vidas. Existem **rastreadores de hábitos** para tornar este processo mais fácil.

@@ -7,6 +7,11 @@ url: '/fr/inventarliste-erstellen'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Approvisionnement & Logistique'
+color: '#bed8cb'
 ---
 
 Vous effectuez un **inventaire** chaque année ou même chaque mois ? Alors vous êtes au bon endroit ! Dans cet article, vous apprendrez comment **créer** votre **liste d'inventaire**, standardiser le processus et simplifier votre inventaire. Pour ce faire, vous pouvez importer une liste d'inventaire dans Excel ou construire votre propre modèle dans Word. Vous découvrirez également les avantages d'une base de données gratuite comme **SeaTable par rapport à Excel et Word**.

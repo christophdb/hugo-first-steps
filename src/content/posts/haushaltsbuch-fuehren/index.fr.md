@@ -7,6 +7,11 @@ url: '/fr/haushaltsbuch-fuehren'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vie Quotidienne'
+color: '#b3060f'
 ---
 
 Il n'est pas toujours facile de garder un œil sur ses dépenses. Il arrive trop souvent que l'argent s'envole à la fin du mois et que l'on ait du mal à se rappeler comment on l'a dépensé. C'est précisément dans ce cas qu'un **livre de comptes** permet de remédier à la situation et de mettre de l'ordre dans le chaos financier !

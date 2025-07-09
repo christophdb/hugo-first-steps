@@ -7,6 +7,11 @@ url: '/fr/habit-tracker'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vie Quotidienne'
+color: '#c9aaa1'
 ---
 
 Prendre **de bonnes résolutions** pour la nouvelle année est devenu une habitude pour de nombreuses personnes. Mais chaque année, on est déçu de ne pas réussir à tenir ses bonnes résolutions. Il faut en effet faire preuve de beaucoup de volonté pour intégrer de nouvelles habitudes dans notre vie. Pour faciliter cette démarche, il existe des **Habit Tracker**.

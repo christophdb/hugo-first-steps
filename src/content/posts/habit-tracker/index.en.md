@@ -8,6 +8,11 @@ url: '/habit-tracker'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
+color: '#c9aaa1'
 ---
 
 Making **good resolutions** for the new year has become a habit for many people. But every year we are disappointed when we fail to keep our resolutions. It takes a strong will to integrate new habits into our lives. **Habit trackers** are available to make this process easier.
