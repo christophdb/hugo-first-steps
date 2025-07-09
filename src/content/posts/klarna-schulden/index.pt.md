@@ -4,10 +4,14 @@ date: 2024-04-19
 lastmod: '2024-04-19'
 author: 'nsc'
 url: '/pt/klarna-schulden'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana e lazer'
+color: '#fe7126'
 ---
 
 **As dívidas do Klarna** são atualmente muito discutidas nas redes sociais e, no entanto, são frequentemente subestimadas. A comodidade da **compra a crédito do Klarna** atrai sobretudo os jovens para uma espiral de dívidas aparentemente interminável. Talvez as suas facturas Klarna estejam a acumular-se e, como muitos outros, esteja a enfrentar uma montanha de dívidas. Mas não se preocupe, com um pouco de disciplina, pode livrar-se das dívidas.

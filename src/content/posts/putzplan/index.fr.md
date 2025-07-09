@@ -7,6 +7,11 @@ url: '/fr/putzplan'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vie Quotidienne'
+color: '#c82c2b'
 ---
 
 Quiconque vit à plusieurs sous le même toit connaît cette situation : la vaisselle sale s'empile dans l'évier, l'écoulement de la douche est bouché et il faudrait en fait passer l'aspirateur. Mais personne ne se sent responsable et la tâche fastidieuse reste en suspens. Pour mettre fin au chaos, un plan de nettoyage individuel pour votre ménage est la solution. Découvrez ici tout ce que vous devez savoir pour établir votre plan de nettoyage.

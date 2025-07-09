@@ -4,10 +4,15 @@ date: 2024-03-04
 lastmod: '2025-02-20'
 author: 'cdb'
 url: '/pt/kosten-nutzen-analyse-vorlage'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestão e visualização de dados'
+    - 'Finanças'
+color: '#e45706'
 ---
 
 No dia a dia da vida empresarial, nem sempre é fácil tomar as decisões correctas. É preciso considerar muitos aspectos e factores e, muitas vezes, avaliar o efeito de certas medidas sem quaisquer valores empíricos. O sucesso da sua empresa depende de uma coisa em particular: a base sobre a qual as suas decisões são tomadas. É bom que possa colocar as suas decisões numa base sólida com uma **análise custo-benefício**.

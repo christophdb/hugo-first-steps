@@ -4,10 +4,15 @@ date: 2021-03-05
 lastmod: '2023-06-28'
 author: 'cdb'
 url: '/pt/kundenzufriedenheit'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestão e visualização de dados'
+    - 'Gestão de clientes'
+color: '#29a4a1'
 ---
 
 Se um cliente estiver satisfeito, voltará a comprar-lhe e provavelmente até recomendará a sua empresa a outros. Se o seu produto não resolver o problema do cliente como esperado, perdeu um cliente e, na pior das hipóteses, receberá más críticas. A falta de satisfação do cliente poderia, por sua vez, assustar outros potenciais novos clientes e levar à perda de vendas.

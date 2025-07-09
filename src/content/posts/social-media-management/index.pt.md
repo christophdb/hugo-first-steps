@@ -7,6 +7,12 @@ url: '/pt/social-media-management'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Planeamento de marketing'
+    - 'Planeamento de conteúdos'
+color: '#d67a70'
 ---
 
 **As redes sociais** tornaram-se uma parte importante da nossa vida quotidiana. É possível **chegar a** muitos **grupos-alvo potenciais** em plataformas como o **Instagram, o TikTok, o Facebook ou o LinkedIn**. Quer se trate de conteúdos orgânicos ou de anúncios pagos: No meio dos feeds e das histórias, a linha entre entretenimento, informação e publicidade torna-se ténue. A gestão das redes sociais permite-lhe promover-se de forma subliminar, interagir com os seus seguidores e criar uma ligação emocional mais forte entre os seus clientes e a sua marca.

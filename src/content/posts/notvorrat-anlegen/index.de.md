@@ -8,6 +8,11 @@ url: '/de/notvorrat-anlegen'
 seo:
     title: 'Notvorrat anlegen: Was Sie immer zuhause haben sollten'
     description: 'Wenige Menschen sind auf eine Notsituation ausreichend vorbereitet. Hier erfahren Sie, was Sie für Ihren individuellen Notvorrat brauchen.'
+categories:
+    - 'best-practice'
+tags:
+    - 'Alltag & Freizeit'
+color: '#e33336'
 ---
 
 Was würden Sie tun, wenn plötzlich flächendeckend die Strom- und Wasserversorgung ausfällt? In Deutschland ist das zwar sehr unwahrscheinlich, in anderen Teilen der Welt kommen Schäden an der Infrastruktur jedoch häufiger vor. Auf solche und andere **Notsituationen** sind viele nicht ausreichend vorbereitet.

@@ -7,6 +7,12 @@ url: '/fr/storyboard'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Management arts et culture'
+    - 'Planification de contenu'
+color: '#f47836'
 ---
 
 Que vous soyez en train de concevoir une vidéo d'entreprise, un court-métrage pour un festival de cinéma ou la prochaine superproduction hollywoodienne, la création d'un **storyboard** peut faire toute la différence. Un storyboard n'est pas seulement un outil pour structurer vos **idées créatives**, mais aussi pour garantir le **bon déroulement de la production**. Cet article explique l'importance et l'utilité des storyboards pour les projets de films en tout genre et présente un modèle de storyboard gratuit qui vous permettra de donner vie à vos visions.

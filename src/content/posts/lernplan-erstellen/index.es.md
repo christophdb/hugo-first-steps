@@ -4,10 +4,14 @@ date: 2024-05-02
 lastmod: '2024-05-02'
 author: 'nsc'
 url: '/es/lernplan-erstellen'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Educación'
+color: '#67bddc'
 ---
 
 Muchos alumnos y estudiantes se ven atrapados en una vorágine de procrastinación y estudio de última hora. Quizá tú también pospongas el estudio hasta que tengas que empollar durante horas la última noche antes del examen para adquirir los conocimientos necesarios por los pelos. Pero no te preocupes, hay una forma mejor: ¡crear un **plan de estudio** eficaz!

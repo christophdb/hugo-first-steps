@@ -8,6 +8,11 @@ url: '/junggesellenabschied'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
+color: '#f5c0d0'
 ---
 
 Three things are considered indispensable for the classic stag party: eye-catching **T-shirts**, a **hawker's tray** filled with all kinds of curiosities and a **lively location**. But why shouldn't it be something special? After all, you usually only get married once in your life and the **stag party** can be just as unique and unforgettable as the wedding itself.

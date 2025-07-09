@@ -4,10 +4,15 @@ date: 2022-07-29
 lastmod: '2024-12-02'
 author: 'cdb'
 url: '/fr/buecher-katalogisieren'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Outils & plugins'
+    - 'Vie Quotidienne'
+color: '#71c392'
 ---
 
 Vous aimez lire et vous ne vous lassez jamais des livres ? C'est merveilleux, car il n'y a rien de mieux qu'un livre pour se plonger dans des univers inconnus. Mais savez-vous d'emblée combien de livres vous possédez et lesquels ? Et où se trouve tel ou tel livre ? Si ce n'est pas le cas, il existe une solution parfaite, car avec les bonnes applications, vous pouvez cataloguer vos livres - simplement, rapidement et sans grand effort.

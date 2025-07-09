@@ -7,6 +7,11 @@ url: '/fr/meal-prep'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vie Quotidienne'
+color: '#cfc6e9'
 ---
 
 Manger le moins cher et le plus sain possible en peu de temps - c'est exactement ce que promet une tendance venue des États-Unis. En effet, dans notre quotidien stressant, une **alimentation équilibrée** est souvent négligée. Au lieu de cela, nous avons souvent recours à la restauration rapide ou à des snacks malsains, par exemple pendant les pauses déjeuner, afin d'apaiser nos fringales. Dans cet article, vous découvrirez ce qu'est le Meal **Prep**, ce à quoi vous devez faire attention en faisant du Meal Prepping et comment vous pouvez établir un [plan hebdomadaire Meal Prep]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan) intelligent.

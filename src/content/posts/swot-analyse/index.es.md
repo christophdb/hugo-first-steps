@@ -4,10 +4,17 @@ date: 2024-03-19
 lastmod: '2025-02-03'
 author: 'rdb'
 url: '/es/swot-analyse'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestión y visualización de datos'
+    - 'Planificación de marketing'
+    - 'Construya su empresa'
+    - 'Operaciones'
+color: '#9f91c7'
 ---
 
 El **análisis DAFO** es una **herramienta** crucial **para la planificación estratégica empresarial**, ya que tiene en cuenta factores tanto internos como externos. Este artículo utiliza un ejemplo de análisis DAFO para explicar la mejor forma de proceder y cómo una plantilla de análisis DAFO puede ayudarle a aplicarlo.

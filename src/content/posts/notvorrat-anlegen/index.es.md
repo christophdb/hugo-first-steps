@@ -7,6 +7,11 @@ url: '/es/notvorrat-anlegen'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana y ocio'
+color: '#e33336'
 ---
 
 ¿Qué haría usted si de repente fallara el suministro de electricidad y agua en todo el país? En Alemania esto es muy improbable, pero en otras partes del mundo los daños en las infraestructuras son más habituales. Muchas personas no están suficientemente preparadas para estas y otras **situaciones de emergencia**.

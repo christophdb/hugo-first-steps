@@ -8,6 +8,11 @@ url: '/meal-prep'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
+color: '#cfc6e9'
 ---
 
 Eating as cheaply and healthily as possible with as little time as possible - a trend from the USA promises exactly that. A **balanced diet** is often neglected in stressful everyday life. Instead, we often reach for fast food or unhealthy snacks during lunch breaks, for example, to satisfy our cravings. In this article, you will find out what **meal prep** is all about, what you should look out for when meal prepping and how you can create a smart [weekly meal prep plan]({{< relref "posts/meal-prep" >}}#Vorlage_fuer_Ihren_Meal_Prep_Wochenplan).

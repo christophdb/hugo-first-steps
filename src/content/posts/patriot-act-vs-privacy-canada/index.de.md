@@ -8,6 +8,11 @@ url: '/de/patriot-act-vs-privacy-canada'
 seo:
     title: 'Patriot Act vs. Datenschutz – Kanadische Daten sicher verarbeiten'
     description: 'In diesem Artikel erfahren Sie, wie Sie kanadische Daten datenschutzkonform und außer Reichweite des Patriot Act verarbeiten können.'
+categories:
+    - 'best-practice'
+tags:
+    - 'IT Sicherheit & Datenschutz'
+color: '#0a2e7f'
 ---
 
 Die Daten von Millionen Kanadiern lagern auf US-Servern von Microsoft, Google, Amazon oder Airtable – zugleich erlaubt der sogenannte **Patriot Act** US-Behörden grundsätzlich all diese Daten abzuschöpfen. [Aus diesem Grund raten Datenschutzexperten schon seit Langem davon ab, personenbezogene Daten in US-Clouds zu speichern.](https://www.heise.de/select/ct/2017/9/1492964161648735) Auch die kanadische Provinz Quebec will dies ab September 2023 durch strengere Datenschutzgesetze unterbinden.

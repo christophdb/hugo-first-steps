@@ -7,6 +7,11 @@ url: '/notvorrat-anlegen'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
+color: '#e33336'
 ---
 
 What would you do if the power and water supply suddenly failed across the board? In Germany, this is very unlikely, but in other parts of the world, damage to infrastructure is more common. Many people are not sufficiently prepared for such and other **emergency situations**.
