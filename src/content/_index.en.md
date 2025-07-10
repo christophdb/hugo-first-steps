@@ -99,7 +99,7 @@ sections:
     text: "Rating on Capterra"
   buttons:
     - link: "categories/customer-story"
-      label: "Lesen Sie weitere Erfolgsgeschichten"
+      label: "Read more success stories"
       id: en-homepage-customer-1
 
 - name: content-1
