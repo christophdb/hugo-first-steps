@@ -7,6 +7,11 @@ url: '/pt/wohnungssuche'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana e lazer'
+color: '#a462c3'
 ---
 
 Quer se trate da sua primeira casa, do seu terceiro apartamento partilhado este ano ou de um novo retiro para toda a família - todos os que **procuram casa** enfrentam o mesmo desafio. A situação no mercado da habitação é tensa: Os apartamentos a preços acessíveis escasseiam, enquanto as rendas continuam a subir. Mas há sempre bons apartamentos a ficarem disponíveis ou blocos de apartamentos antigos a serem renovados. Deve estar bem preparado para estas oportunidades, de modo a poder afirmar-se perante os seus numerosos concorrentes.
