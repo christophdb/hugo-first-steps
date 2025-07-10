@@ -1,18 +1,20 @@
 ---
-title: "Fête de Noël 2024 - Des idées pour un événement d'entreprise unique"
+title: "Fête de Noël 2025 - Des idées pour un événement d'entreprise unique"
 date: 2023-08-25
-lastmod: '2024-07-09'
+lastmod: '2025-07-09'
 author: 'nsc2'
-url: '/fr/weihnachtsfeier'
+url: '/fr/fete-noel'
+aliases:
+    - /fr/weihnachtsfeier
 color: '#eeeeee'
 seo:
     title:
     description:
 ---
 
-C'est bientôt le retour ! Alors que certains regrettent encore l'été dernier, les premiers pains d'épices et biscuits dans les rayons des supermarchés évoquent déjà la période de Noël à venir. Mais même si vous n'êtes pas encore dans l'esprit de Noël : La prochaine fête de Noël de l'entreprise vous attend déjà. Pour que votre fête de Noël 2024 soit inoubliable, vous ne commencerez jamais assez tôt à la planifier !
+C'est bientôt le retour ! Alors que certains regrettent encore l'été dernier, les premiers pains d'épices et biscuits dans les rayons des supermarchés évoquent déjà la période de Noël à venir. Mais même si vous n'êtes pas encore dans l'esprit de Noël : La prochaine fête de Noël de l'entreprise vous attend déjà. Pour que votre fête de Noël 2025 soit inoubliable, vous ne commencerez jamais assez tôt à la planifier !
 
-Vous buvez chaque année du vin chaud sur le marché de Noël avec vos collègues ou vous allez manger au restaurant ? Vous vous demandez donc comment organiser un événement d'entreprise unique avec votre équipe en 2024 ? Alors nos idées variées pour votre prochaine fête de Noël sont exactement ce qu'il vous faut !
+Vous buvez chaque année du vin chaud sur le marché de Noël avec vos collègues ou vous allez manger au restaurant ? Vous vous demandez donc comment organiser un événement d'entreprise unique avec votre équipe en 2025 ? Alors nos idées variées pour votre prochaine fête de Noël sont exactement ce qu'il vous faut !
 
 ## Idées pour une fête de Noël en dehors des locaux de l'entreprise
 
