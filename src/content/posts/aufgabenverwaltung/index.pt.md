@@ -67,7 +67,7 @@ A base para a gestão de tarefas pode ser usada completamente como uma base de t
 
 ### Comunicação em equipa num só lugar
 
-SeaTable permite a comunicação directa dentro das tabelas, eliminando a necessidade de comunicação por correio electrónico fora da Base. Ao abrir uma fila, o pessoal pode ser acrescentado à discussão no [campo de comentários]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) à direita e podem ser enviados comentários, perguntas ou feedback. Desta forma, todos sabem exactamente a que tarefa se refere uma pergunta e a comunicação é transparente, síncrona e rastreável.
+SeaTable permite a comunicação directa dentro das tabelas, eliminando a necessidade de comunicação por correio electrónico fora da Base. Ao abrir uma fila, o pessoal pode ser acrescentado à discussão no [campo de comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) à direita e podem ser enviados comentários, perguntas ou feedback. Desta forma, todos sabem exactamente a que tarefa se refere uma pergunta e a comunicação é transparente, síncrona e rastreável.
 
 ## Gestão de tarefas com a direcção Kanban
 

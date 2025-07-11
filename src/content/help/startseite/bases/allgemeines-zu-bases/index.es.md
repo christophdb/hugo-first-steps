@@ -16,7 +16,7 @@ A primera vista, una base no es más que un **contenedor** para una o varias **t
 - [Más de 20 tipos de columnas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) que cubren todos los formatos de datos habituales
 - Varias [opciones para compartir]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) datos fácilmente
 - [Colaboración]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) en tiempo real con otros usuarios y transmisión en tiempo real de todos los cambios
-- Una [función de comentario para]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) cada registro de una fila
+- Una [función de comentario para]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) cada registro de una fila
 - [Versionado]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) de todos los cambios
 - Un [editor de formularios web]({{< relref "help/base-editor/webformulare/webformulare" >}}) y [plugins]({{< relref "help/base-editor/ansichten" >}}) gráficos integrados
 - Opciones de integración sencillas gracias a la API REST

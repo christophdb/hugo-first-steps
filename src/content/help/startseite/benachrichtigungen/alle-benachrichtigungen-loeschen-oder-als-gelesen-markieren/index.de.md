@@ -50,6 +50,6 @@ Sie können sowohl über die **Startseite** von SeaTable als auch innerhalb von 
 
 {{< warning  type="warning" headline="Wichtiger Hinweis" >}}
 
-Bitte beachten Sie, dass es vom **Inhalt** einer Benachrichtigung abhängig ist, wo genau diese angezeigt wird. Benachrichtigungen zu Freigaben werden Ihnen beispielsweise stets auf der **Startseite** angezeigt, Benachrichtigungen infolge von [Automationen]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) oder [Mitarbeiter-Spalten]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}})\-Einträgen hingegen in der jeweiligen **Base**.
+Bitte beachten Sie, dass es vom **Inhalt** einer Benachrichtigung abhängig ist, wo genau diese angezeigt wird. Benachrichtigungen zu Freigaben werden Ihnen beispielsweise stets auf der **Startseite** angezeigt, Benachrichtigungen infolge von Automationen, Kommentaren oder Mitarbeiter-Spalten-Einträgen hingegen in der jeweiligen **Base** und App-Kommentare in der jeweiligen **App**.
 
 {{< /warning >}}

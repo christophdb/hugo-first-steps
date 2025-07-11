@@ -12,6 +12,8 @@ url: '/fr/aide/seitenberechtigungen-in-einer-universellen-app'
 
 Pour contrôler précisément l'**accès à vos données**, vous pouvez définir **des autorisations de page individuelles** pour chaque page que vous avez créée dans une application universelle. L'édition des autorisations se fait via les paramètres de la page.
 
+{{< warning  type="warning" headline="Autorisation de page par défaut" text="Lorsque vous créez **de nouvelles pages** dans votre application, celles-ci accordent initialement tous les droits disponibles à tous les utilisateurs. Cependant, si vous souhaitez limiter les droits d'utilisation, il est nécessaire d'adapter les autorisations de page." />}}
+
 ## Définir et modifier les autorisations de pages
 
 1. Ouvrez une **base** à laquelle vous avez déjà ajouté une application universelle.

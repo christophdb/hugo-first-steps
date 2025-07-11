@@ -142,7 +142,7 @@ Os desenhadores gráficos só se interessarão pelos artigos que requerem gráfi
 
 Opiniões individuais para cada empregado
 
-Todos os empregados sabem exatamente quem tem a tarefa em mãos e quem tem de trabalhar nela a seguir. Desta forma, evitam-se tempos de espera e confusões. Logo que um autor tenha escrito o seu rascunho, altera o estado do artigo e passa-o ao membro seguinte da equipa para controlo de qualidade. Se for necessária uma coordenação entre os membros da equipa, isso pode ser feito facilmente através da [função de comentários]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) no SeaTable.
+Todos os empregados sabem exatamente quem tem a tarefa em mãos e quem tem de trabalhar nela a seguir. Desta forma, evitam-se tempos de espera e confusões. Logo que um autor tenha escrito o seu rascunho, altera o estado do artigo e passa-o ao membro seguinte da equipa para controlo de qualidade. Se for necessária uma coordenação entre os membros da equipa, isso pode ser feito facilmente através da [função de comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) no SeaTable.
 
 ![Comunicação da equipa em SeaTable](seatable-comments.png)
 

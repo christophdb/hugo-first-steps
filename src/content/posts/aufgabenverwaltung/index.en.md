@@ -68,7 +68,7 @@ The base for task management can be used completely as a work base in which file
 
 ### Team communication in one place
 
-SeaTable allows direct communication within the tables, eliminating the need for email communication outside Base. When opening a row , employees can be added to the discussion in the [comment field on]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) the right and comments, questions or feedback can be sent. This way, everyone knows exactly which task a question refers to and communication is transparent, synchronous and traceable.
+SeaTable allows direct communication within the tables, eliminating the need for email communication outside Base. When opening a row , employees can be added to the discussion in the [comment field on]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) the right and comments, questions or feedback can be sent. This way, everyone knows exactly which task a question refers to and communication is transparent, synchronous and traceable.
 
 ## Task management with the Kanban board
 

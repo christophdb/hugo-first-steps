@@ -39,7 +39,7 @@ For example, a first click puts the dates of an event on a calendar, a second cl
 
 You work **together and in real time on** all the things you organize in SeaTable. New entries and changes are immediately displayed to each user - you and your team are always on the same page.
 
-You want to make a comment on a row ? Then simply leave a [comment]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) there! That way, it's always clear what you're talking about, and even months later you don't have to think about when, where and via which channel you exchanged ideas with your colleagues.
+You want to make a comment on a row ? Then simply leave a [comment]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) there! That way, it's always clear what you're talking about, and even months later you don't have to think about when, where and via which channel you exchanged ideas with your colleagues.
 
 [Sharing bases, tables and views]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) with other users or entire groups is a snap. By assigning individual user permissions, you retain control over who can do what and who cannot.
 

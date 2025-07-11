@@ -18,7 +18,7 @@ El formulario web clásico es ideal para **encuestas en línea** y recopilación
 
 Los formularios web siempre hacen referencia a una **tabla** de la Base abierta. Por lo tanto, debe abrir primero la tabla y la vista correspondientes antes de crear un formulario. Puede crear y guardar **cualquier número de** formularios web en cada base.
 
-## Crear el formulario web clásico
+## Crear un formulario
 
 Abra la gestión de formularios a través del botón {{< seatable-icon icon="dtable-icon-form" >}} **formularios** situado en la parte superior derecha de la cabecera de la Base. Si aún no se ha creado ningún formulario en la Base, la gestión de formularios aparecerá como una lista vacía. En caso contrario, los formularios existentes se mostrarán en la ventana abierta.
 
@@ -64,7 +64,7 @@ En el borrador, puede hacer clic en cada campo, lo que le llevará a la **config
 
 Para comprobar qué aspecto tiene el formulario para el destinatario, haga clic en el botón **Página del formulario** web de la esquina superior derecha. El formulario se abrirá en una nueva pestaña tal y como lo vería otro usuario.
 
-### Compartir el formulario
+## Compartir el formulario
 
 Para que otras personas puedan acceder al formulario, necesita un **enlace**. Puede obtener el enlace para el formulario en el editor de formularios web a través del botón **Compartir** {{< seatable-icon icon="dtable-icon-share" >}}. Puede utilizar el **enlace generado automáticamente** o crear **sus propios enlaces** y añadirles [valores prefijados]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}).
 
@@ -74,7 +74,7 @@ Para que otras personas puedan acceder al formulario, necesita un **enlace**. Pu
 
 Antes de enviar el enlace del formulario o hacerlo accesible al público, debe probarlo exhaustivamente.
 
-### Comprobar el formulario
+## Comprobar el formulario
 
 Las pruebas exhaustivas evitan la frustración de los destinatarios. Los problemas pueden deberse a ambigüedades o conflictos en el formulario. En el peor de los casos, un formulario no puede enviarse porque no puede rellenarse un campo obligatorio (por ejemplo, si no se definen valores para una única opción).
 
@@ -84,10 +84,10 @@ Abra el formulario web para probarlo. Desde el editor de formularios web, esto s
 
 Los valores introducidos en el formulario se guardan en la tabla vinculada. No olvide volver a borrar los datos de prueba de la tabla antes de recoger los datos más adelante.
 
-### Modificar el formulario
+## Modificar el formulario
 
 Puede modificar los formularios web en cualquier momento utilizando el editor de formularios web. Para volver al editor, abra la administración de formularios, sitúe el puntero del ratón sobre el nombre del formulario y, a continuación, haga clic en el **icono del lápiz** situado a la derecha del nombre {{< seatable-icon icon="dtable-icon-rename" >}}.
 
-### Borrar el formulario
+## Borrar el formulario
 
 Puede eliminar formularios web en cualquier momento a través de la administración de formularios. Mueva el puntero del ratón hasta el nombre del formulario y, a continuación, haga clic en el **icono de la papelera** situado a la derecha del nombre {{< seatable-icon icon="dtable-icon-delete" >}}.

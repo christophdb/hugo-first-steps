@@ -18,7 +18,7 @@ The classic web form is ideal for **online surveys** and structured collection o
 
 Web forms always refer to a **table** in the opened Base. Therefore, you must first open the relevant table and view before creating a form. You can create and save **any number of** web forms in each Base.
 
-## Create a classic form
+## Create form
 
 Open the form management via the {{< seatable-icon icon="dtable-icon-form" >}} **Forms** button at the top right of the Base header. If no forms have yet been created in the Base, the form management will appear as an empty list. Otherwise, the existing forms are displayed in the open window.
 
@@ -64,7 +64,7 @@ In the design you can click on each field, which will take you to the **field se
 
 To check how the form looks to the recipient, click the **Form Page** button in the upper right corner. A new tab will then open the form as another user would see it.
 
-### Share form
+## Share form
 
 To make the form accessible to others, you need a **link**. You can obtain the link for the form in the web form editor via the {{< seatable-icon icon="dtable-icon-share" >}} **Share** button. You can use the **automatically generated link** or create **your own links** and extend them with [pre-filled values]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}).
 
@@ -74,7 +74,7 @@ To make the form accessible to others, you need a **link**. You can obtain the l
 
 Before you send the form link or make it publicly accessible, you should test the form extensively.
 
-### Test form
+## Test form
 
 Extensive testing avoids frustration on the part of recipients. Problems can be caused by ambiguities or conflicts in the form. In the worst case, a form cannot be submitted because a mandatory field cannot be filled in (e.g. if no values are defined for a single selection).
 
@@ -84,10 +84,10 @@ Open the web form for testing. From the web form editor this is done via the **F
 
 Values entered in the form are saved in the linked table. Do not forget to delete the test data from the table again before later data collection.
 
-### Customize form
+## Customize form
 
 You can customize web forms at any time using the web form editor. To return to the editor, enter Forms Management, hover the mouse cursor over the form name, and then click the **pencil icon to** the right of the name {{< seatable-icon icon="dtable-icon-rename" >}}.
 
-### Delete form
+## Delete form
 
 You can delete web forms at any time using the form management. Move the mouse pointer to the name of the form, and then click the **trash icon to** the right of the name {{< seatable-icon icon="dtable-icon-delete" >}}.

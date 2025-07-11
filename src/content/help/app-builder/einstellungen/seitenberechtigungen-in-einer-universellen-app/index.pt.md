@@ -12,6 +12,8 @@ url: '/pt/ajuda/seitenberechtigungen-in-einer-universellen-app'
 
 Para controlar com precisão **o acesso aos seus dados**, pode definir **permissões de página individuais** para cada página que criou numa aplicação universal. Pode editar as permissões através das definições da página.
 
+{{< warning  type="warning" headline="Autorização de página predefinida" text="Quando cria **novas páginas** na sua aplicação, estas concedem inicialmente todos os direitos disponíveis a todos os utilizadores. No entanto, se quiser restringir os direitos de utilização, terá de ajustar as autorizações de página." />}}
+
 ## Definir e editar permissões de página
 
 1. Abra uma **Base** à qual já tenha adicionado uma aplicação universal.
