@@ -3,6 +3,8 @@ title: 'Gestión de productos digitales'
 description: ''
 date: '2024-08-24'
 url: '/es/plantilla/digital-product-management'
+aliases:
+    - '/es/digitales-produktmanagement'
 category: 'product-design'
 functions:
 seo:
