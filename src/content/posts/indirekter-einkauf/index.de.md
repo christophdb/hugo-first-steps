@@ -107,4 +107,5 @@ Die Büroorganisation und gerade die Bestellung von internen Waren kann schnell 
 
 Mit SeaTable haben Sie ein starkes Tool an Ihrer Seite, das Sie in diesem und vielen anderen Prozessen exzellent unterstützen kann. Sie können Beispielsweise Ihr [CRM-Angebotsmanagement]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto) damit organisieren, oder [interne Workshops damit planen]({{< relref "posts/workshop-planen" >}}).
 
+
 Probieren Sie unser Template aus und [registrieren Sie sich]({{< relref "pages/registration" >}})! SeaTable ist in der Basis-Version kostenlos.

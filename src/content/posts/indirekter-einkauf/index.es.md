@@ -106,4 +106,5 @@ La organización de la oficina, y especialmente el pedido de productos internos,
 
 Con SeaTable tiene a su lado una poderosa herramienta que puede proporcionarle un excelente apoyo en este y muchos otros procesos. Por ejemplo, puede utilizarlo para organizar la [gestión de su oferta de CRM]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto), o [planificar talleres internos]({{< relref "posts/workshop-planen" >}}).
 
+
 Pruebe nuestra plantilla y [regístrese]({{< relref "pages/registration" >}}). SeaTable es gratuito en su versión básica.
