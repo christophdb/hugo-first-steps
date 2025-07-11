@@ -105,6 +105,6 @@ Auch in dieser Tabelle werden Informationen aus anderen genutzt. Die Bestellnumm
 
 Die Büroorganisation und gerade die Bestellung von internen Waren kann schnell zur Nebensächlichkeit werden, dabei ist sie wichtig und hält den Betrieb aufrecht. Die Vorlage in diesem gezeigten Blogbeitrag finden Sie direkt in SeaTable. Wählen Sie beim anlegen einer neuen Base einfach die Option: _Mit Vorlage starten_ und Sie finden diese Vorlage im Bereich **Operations**.
 
-Mit SeaTable haben Sie ein starkes Tool an Ihrer Seite, das Sie in diesem und vielen anderen Prozessen exzellent unterstützen kann. Sie können Beispielsweise Ihr [CRM-Angebotsmanagement]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto) damit organisieren, Ihr [Produktmanagement digital aufbauen]({{< relref "posts/digitales-produktmanagement" >}}) oder [interne Workshops damit planen]({{< relref "posts/workshop-planen" >}}).
+Mit SeaTable haben Sie ein starkes Tool an Ihrer Seite, das Sie in diesem und vielen anderen Prozessen exzellent unterstützen kann. Sie können Beispielsweise Ihr [CRM-Angebotsmanagement]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto) damit organisieren, oder [interne Workshops damit planen]({{< relref "posts/workshop-planen" >}}).
 
 Probieren Sie unser Template aus und [registrieren Sie sich]({{< relref "pages/registration" >}})! SeaTable ist in der Basis-Version kostenlos.
