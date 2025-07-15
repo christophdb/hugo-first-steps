@@ -3,7 +3,9 @@ title: 'Рождественские подарки для сотруднико�
 date: 2024-10-28
 lastmod: '2024-11-20'
 author: 'lsc'
-url: '/ru/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
+url: '/ru/novogodnie-podarki-dlya-sotrudnikov-i-klientov'
+aliases:
+    - /ru/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden
 seo:
     title:
     description:

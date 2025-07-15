@@ -3,7 +3,9 @@ title: 'Планирование переезда с помощью контро
 date: 2023-10-30
 lastmod: '2023-10-30'
 author: 'lsc'
-url: '/ru/umzug'
+url: '/ru/pereezd'
+aliases:
+    - /ru/umzug
 seo:
     title:
     description:

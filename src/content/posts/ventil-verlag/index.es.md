@@ -3,7 +3,9 @@ title: 'Cómo Ventil Verlag lleva sus procesos internos a un nuevo nivel'
 date: 2021-01-27
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/es/ventil-verlag'
+url: '/es/ventil-editorial'
+aliases:
+    - /es/ventil-verlag
 color: '#eeeeee'
 seo:
     title:

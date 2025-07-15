@@ -3,7 +3,9 @@ title: 'Planificación de talleres: cómo organizar talleres sin estrés'
 date: 2024-01-15
 lastmod: '2024-01-15'
 author: 'kgr'
-url: '/es/workshop-planen'
+url: '/es/planificacion-taller'
+aliases:
+    - /es/workshop-planen
 seo:
     title:
     description:

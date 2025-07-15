@@ -3,7 +3,9 @@ title: 'Создание опроса: 7 популярных инструмен
 date: 2024-02-21
 lastmod: '2024-03-05'
 author: 'nsc'
-url: '/ru/umfrage-erstellen'
+url: '/ru/sozdat-opros'
+aliases:
+    - /ru/umfrage-erstellen
 seo:
     title:
     description:

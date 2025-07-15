@@ -3,7 +3,9 @@ title: 'Как разработать фронтенд для собственн
 date: 2022-09-27
 lastmod: '2022-09-27'
 author: 'cdb'
-url: '/ru/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
+url: '/ru/seatable-app-frontend-php'
+aliases:
+    - /ru/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
 color: '#eeeeee'
 seo:
     title:

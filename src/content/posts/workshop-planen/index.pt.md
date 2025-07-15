@@ -3,7 +3,9 @@ title: 'Planeamento de workshops: Como organizar workshops sem stress'
 date: 2024-01-15
 lastmod: '2024-01-15'
 author: 'kgr'
-url: '/pt/workshop-planen'
+url: '/pt/planejamento-workshops'
+aliases:
+    - /pt/workshop-planen
 seo:
     title:
     description:

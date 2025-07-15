@@ -3,7 +3,9 @@ title: 'Planeie a sua mudança com uma lista de verificação: Como fazer uma mu
 date: 2023-10-30
 lastmod: '2023-10-30'
 author: 'lsc'
-url: '/pt/umzug'
+url: '/pt/mudanca'
+aliases:
+    - /pt/umzug
 seo:
     title:
     description:

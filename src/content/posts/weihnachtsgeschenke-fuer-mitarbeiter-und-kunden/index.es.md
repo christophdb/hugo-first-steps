@@ -3,7 +3,9 @@ title: 'Regalos de Navidad para empleados y clientes: 24 ideas'
 date: 2024-10-28
 lastmod: '2024-11-20'
 author: 'lsc'
-url: '/es/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
+url: '/es/regalos-navidad-para-empleados-y-clientes'
+aliases:
+    - /es/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden
 seo:
     title:
     description:

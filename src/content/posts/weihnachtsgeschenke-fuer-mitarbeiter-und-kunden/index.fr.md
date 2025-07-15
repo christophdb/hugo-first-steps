@@ -3,7 +3,9 @@ title: 'Cadeaux de Noël pour les employés et les clients - 24 idées'
 date: 2024-10-28
 lastmod: '2024-11-20'
 author: 'lsc'
-url: '/fr/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
+url: '/fr/cadeaux-noel-pour-collaborateurs-et-clients'
+aliases:
+    - /fr/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden
 seo:
     title:
     description:

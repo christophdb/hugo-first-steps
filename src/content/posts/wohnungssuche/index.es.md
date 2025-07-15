@@ -3,7 +3,9 @@ title: 'Buscar casa: 10 consejos para encontrar piso'
 date: 2023-12-18
 lastmod: '2023-12-18'
 author: 'nsc'
-url: '/es/wohnungssuche'
+url: '/es/busqueda-de-apartamento'
+aliases:
+    - /es/wohnungssuche
 seo:
     title:
     description:

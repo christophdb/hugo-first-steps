@@ -3,7 +3,9 @@ title: 'Анализ конкурентов: как лучше действов�
 date: 2025-01-20
 lastmod: '2025-01-21'
 author: 'nsc'
-url: '/ru/wettbewerbsanalyse'
+url: '/ru/analiz-konkurentov'
+aliases:
+    - /ru/wettbewerbsanalyse
 color: '#eeeeee'
 seo:
     title:

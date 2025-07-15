@@ -3,7 +3,9 @@ title: 'Planifique su mudanza con una lista de comprobación: Cómo mudarse sin 
 date: 2023-10-30
 lastmod: '2023-10-30'
 author: 'lsc'
-url: '/es/umzug'
+url: '/es/mudanza'
+aliases:
+    - /es/umzug
 seo:
     title:
     description:

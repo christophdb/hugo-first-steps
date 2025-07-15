@@ -4,7 +4,9 @@ date: 2024-01-15
 lastmod: '2024-01-15'
 coverImage: 'Workshops.jpg'
 author: 'kgr'
-url: '/workshop-planen'
+url: '/workshop-planning'
+aliases:
+    - /workshop-planen
 seo:
     title: ''
     description: ''

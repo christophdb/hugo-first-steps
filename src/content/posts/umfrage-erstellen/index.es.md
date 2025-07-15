@@ -3,7 +3,9 @@ title: 'Crear una encuesta: comparación de 7 herramientas populares'
 date: 2024-02-21
 lastmod: '2024-03-05'
 author: 'nsc'
-url: '/es/umfrage-erstellen'
+url: '/es/crear-encuesta'
+aliases:
+    - /es/umfrage-erstellen
 seo:
     title:
     description:

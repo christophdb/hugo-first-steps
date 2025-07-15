@@ -4,7 +4,9 @@ description: ''
 date: 2021-03-30
 lastmod: '2024-03-22'
 author: 'cdb'
-url: '/de/vorteile-von-datenbanken'
+url: '/de/vorteile-datenbanken'
+aliases:
+    - /de/vorteile-von-datenbanken
 color: '#eeeeee'
 seo:
     title: 'Datenbanken – 5 Vorteile gegenüber einfachen Tabellen'

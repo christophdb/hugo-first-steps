@@ -4,7 +4,9 @@ date: 2025-01-20
 lastmod: '2025-01-21'
 coverImage: 'chess-6890325_1920.jpg'
 author: 'nsc'
-url: '/wettbewerbsanalyse'
+url: '/competitive-analysis'
+aliases:
+    - /wettbewerbsanalyse
 color: '#eeeeee'
 seo:
     title:

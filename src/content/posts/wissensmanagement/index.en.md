@@ -3,7 +3,9 @@ title: 'Knowledge management: How to make knowledge usable'
 date: 2024-08-09
 lastmod: '2024-08-09'
 author: 'lsc'
-url: '/wissensmanagement'
+url: '/knowledge-management'
+aliases:
+    - /wissensmanagement
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: 'Plan your move with checklist: How to move stress free'
 date: 2023-10-30
 lastmod: '2023-10-30'
 author: 'lsc'
-url: '/umzug'
+url: '/moving'
+aliases:
+    - /umzug
 seo:
     title:
     description:

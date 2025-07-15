@@ -10,7 +10,9 @@ categories:
 tags:
     - 'Планирование продаж'
 color: '#139da9'
-url: '/ru/стратегия-продаж'
+url: '/ru/strategiya-prodazh'
+aliases:
+    - /ru/стратегия-продаж
 ---
 
 ## Почему Вам нужна стратегия продаж
