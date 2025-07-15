@@ -3,7 +3,9 @@ title: 'Пример SWOT-анализа: Сосредоточьтесь на в
 date: 2024-03-19
 lastmod: '2025-02-03'
 author: 'rdb'
-url: '/ru/swot-analyse'
+url: '/ru/swot-analiz'
+aliases:
+    - /ru/swot-analyse
 seo:
     title:
     description:

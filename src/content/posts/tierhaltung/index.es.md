@@ -3,7 +3,9 @@ title: 'Organización de la cría de animales: cómo mantener a su mascota de fo
 date: 2024-01-30
 lastmod: '2024-01-30'
 author: 'lsc'
-url: '/es/tierhaltung'
+url: '/es/ganaderia'
+aliases:
+    - /es/to-do-liste-online
 seo:
     title:
     description:

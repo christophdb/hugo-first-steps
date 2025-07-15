@@ -4,7 +4,9 @@ description: ''
 date: 2021-05-15
 lastmod: '2023-07-11'
 author: 'rdb'
-url: '/de/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren'
+url: '/de/seatable-enterprise-installation-server-webserver'
+aliases:
+    - /de/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
 color: '#eeeeee'
 seo:
     title: ''

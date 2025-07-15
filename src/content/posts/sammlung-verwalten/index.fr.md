@@ -3,7 +3,9 @@ title: 'Gérer la collection avec des outils numériques'
 date: 2022-07-01
 lastmod: '2024-03-21'
 author: 'cdb'
-url: '/fr/sammlung-verwalten'
+url: '/fr/gerer-collection'
+aliases:
+    - /fr/sammlung-verwalten
 seo:
     title:
     description:

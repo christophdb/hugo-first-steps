@@ -3,7 +3,9 @@ title: 'Personalize o seu planeador de alunos | com SeaTable'
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
-url: '/pt/studentenplaner'
+url: '/pt/planejador-estudantil'
+aliases:
+    - /pt/studentenplaner
 seo:
     title:
     description:

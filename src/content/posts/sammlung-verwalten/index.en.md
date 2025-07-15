@@ -4,7 +4,9 @@ date: 2022-07-01
 lastmod: '2024-03-21'
 coverImage: 'Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg'
 author: 'cdb'
-url: '/sammlung-verwalten'
+url: '/manage-collection'
+aliases:
+    - /sammlung-verwalten
 seo:
     title:
     description:

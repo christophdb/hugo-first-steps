@@ -3,7 +3,9 @@ title: 'Organizing animal husbandry - how to keep your pet in a species-appropri
 date: 2024-01-30
 lastmod: '2024-01-30'
 author: 'lsc'
-url: '/tierhaltung'
+url: '/animal-husbandry'
+aliases:
+    - /to-do-liste-online
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: 'Gestión de la colección con herramientas digitales'
 date: 2022-07-01
 lastmod: '2024-03-21'
 author: 'cdb'
-url: '/es/sammlung-verwalten'
+url: '/es/gestionar-coleccion'
+aliases:
+    - /es/sammlung-verwalten
 seo:
     title:
     description:

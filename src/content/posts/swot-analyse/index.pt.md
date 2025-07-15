@@ -3,7 +3,9 @@ title: 'Exemplo de análise SWOT: Concentrar-se nos pontos fortes e fracos inter
 date: 2024-03-19
 lastmod: '2025-02-03'
 author: 'rdb'
-url: '/pt/swot-analyse'
+url: '/pt/analise-swot'
+aliases:
+    - /pt/swot-analyse
 seo:
     title:
     description:

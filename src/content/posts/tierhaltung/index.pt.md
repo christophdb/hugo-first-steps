@@ -3,7 +3,9 @@ title: 'Organizar a criação de animais - como manter o seu animal de estimaç�
 date: 2024-01-30
 lastmod: '2024-01-30'
 author: 'lsc'
-url: '/pt/tierhaltung'
+url: '/pt/criacao-animais'
+aliases:
+    - /pt/to-do-liste-online
 seo:
     title:
     description:

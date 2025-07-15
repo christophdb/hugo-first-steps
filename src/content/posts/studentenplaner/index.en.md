@@ -4,7 +4,9 @@ date: 2020-09-17
 lastmod: '2022-06-13'
 coverImage: 'john-schnobrich-2FPjlAyMQTA-unsplash-scaled-1.jpg'
 author: 'rbu'
-url: '/studentenplaner'
+url: '/student-planner'
+aliases:
+    - /studentenplaner
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: "Organiser l'élevage d'animaux - comment garder votre animal de compagni
 date: 2024-01-30
 lastmod: '2024-01-30'
 author: 'lsc'
-url: '/fr/tierhaltung'
+url: '/fr/elevage-animaux'
+aliases:
+    - /fr/to-do-liste-online
 seo:
     title:
     description:

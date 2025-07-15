@@ -3,7 +3,9 @@ title: 'Instalar SeaTable Enterprise Edition en Ubuntu Server 20.04 LTS - SeaTab
 date: 2021-01-23
 lastmod: '2024-01-19'
 author: 'rdb'
-url: '/es/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren'
+url: '/es/instalacion-seatable-enterprise-ubuntu-20-04'
+aliases:
+    - /es/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren
 seo:
     title:
     description:

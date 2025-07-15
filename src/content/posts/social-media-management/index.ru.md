@@ -3,7 +3,9 @@ title: 'Управление социальными сетями: примеры
 date: 2024-01-17
 lastmod: '2025-01-28'
 author: 'nsc'
-url: '/ru/social-media-management'
+url: '/ru/smm-upravlenie'
+aliases:
+    - /ru/social-media-management
 seo:
     title:
     description:

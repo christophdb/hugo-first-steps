@@ -3,7 +3,9 @@ title: 'Установка SeaTable Enterprise Edition под Ubuntu Server 20.0
 date: 2021-01-23
 lastmod: '2024-01-19'
 author: 'rdb'
-url: '/ru/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren'
+url: '/ru/ustanovka-seatable-enterprise-ubuntu-20-04'
+aliases:
+    - /ru/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren
 seo:
     title:
     description:

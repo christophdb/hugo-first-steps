@@ -3,7 +3,9 @@ title: 'Организация содержания животных - как с
 date: 2024-01-30
 lastmod: '2024-01-30'
 author: 'lsc'
-url: '/ru/tierhaltung'
+url: '/ru/zhivotnovodstvo'
+aliases:
+    - /ru/to-do-liste-online
 seo:
     title:
     description:

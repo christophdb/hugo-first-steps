@@ -4,7 +4,9 @@ date: 2021-10-21
 lastmod: '2023-07-11'
 coverImage: 'pexels-artem-beliaikin-1036857.jpg'
 author: 'rbu'
-url: '/store-management-mit-seatable'
+url: '/store-management-with-seatable'
+aliases:
+    - /store-management-mit-seatable
 color: '#eeeeee'
 seo:
     title:

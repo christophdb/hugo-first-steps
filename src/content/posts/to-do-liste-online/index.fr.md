@@ -3,7 +3,9 @@ title: "Créer une liste de choses à faire avec l'application en ligne"
 date: 2024-04-03
 lastmod: '2024-04-03'
 author: 'kgr'
-url: '/fr/to-do-liste-online'
+url: '/fr/liste-taches-en-ligne'
+aliases:
+    - /fr/to-do-liste-online
 seo:
     title:
     description:

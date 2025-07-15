@@ -3,7 +3,9 @@ title: "Exemple d'analyse SWOT : Focalisation sur les forces et les faiblesses i
 date: 2024-03-19
 lastmod: '2025-02-03'
 author: 'rdb'
-url: '/fr/swot-analyse'
+url: '/fr/analyse-swot'
+aliases:
+    - /fr/swot-analyse
 seo:
     title:
     description:
