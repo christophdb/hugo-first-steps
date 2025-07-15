@@ -3,7 +3,9 @@ title: 'Gestion des connaissances : comment rendre les connaissances utilisables
 date: 2024-08-09
 lastmod: '2024-08-09'
 author: 'lsc'
-url: '/fr/wissensmanagement'
+url: '/fr/gestion-des-connaissances'
+aliases:
+    - /fr/wissensmanagement
 seo:
     title:
     description:

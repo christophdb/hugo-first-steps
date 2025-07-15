@@ -3,7 +3,9 @@ title: 'Gestión del conocimiento: cómo hacer que el conocimiento sea utilizabl
 date: 2024-08-09
 lastmod: '2024-08-09'
 author: 'lsc'
-url: '/es/wissensmanagement'
+url: '/es/gestion-del-conocimiento'
+aliases:
+    - /es/wissensmanagement
 seo:
     title:
     description:

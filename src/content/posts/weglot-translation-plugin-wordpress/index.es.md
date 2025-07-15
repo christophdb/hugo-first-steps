@@ -3,7 +3,9 @@ title: 'Cómo traducir su sitio web automáticamente con Weglot.'
 date: 2022-03-21
 lastmod: '2022-04-05'
 author: 'cdb'
-url: '/es/weglot-translation-plugin-wordpress'
+url: '/es/weglot-plugin-traduccion-wordpress'
+aliases:
+    - /es/weglot-translation-plugin-wordpress
 color: '#eeeeee'
 seo:
     title:

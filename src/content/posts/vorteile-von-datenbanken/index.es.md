@@ -3,7 +3,9 @@ title: 'Bases de datos - 5 ventajas sobre las tablas simples'
 date: 2021-03-30
 lastmod: '2024-03-22'
 author: 'cdb'
-url: '/es/vorteile-von-datenbanken'
+url: '/es/beneficios-bases-datos'
+aliases:
+    - /es/vorteile-von-datenbanken
 color: '#eeeeee'
 seo:
     title:

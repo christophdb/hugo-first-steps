@@ -3,7 +3,10 @@ title: 'Análisis de la competencia: la mejor forma de proceder - ¡incluye plan
 date: 2025-01-20
 lastmod: '2025-01-21'
 author: 'nsc'
-url: '/es/wettbewerbsanalyse'
+url: '/es/analisis-de-la-competencia'
+aliases:
+    - /es/wettbewerbsanalyse
+color: '#eeeeee'
 seo:
     title:
     description:

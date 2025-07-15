@@ -3,7 +3,9 @@ title: 'Planifier un déménagement avec une check-list : Comment déménager sa
 date: 2023-10-30
 lastmod: '2023-10-30'
 author: 'lsc'
-url: '/fr/umzug'
+url: '/fr/demenagement'
+aliases:
+    - /fr/umzug
 seo:
     title:
     description:

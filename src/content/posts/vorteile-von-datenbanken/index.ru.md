@@ -3,7 +3,9 @@ title: 'Базы данных - 5 преимуществ перед просты
 date: 2021-03-30
 lastmod: '2024-03-22'
 author: 'cdb'
-url: '/ru/vorteile-von-datenbanken'
+url: '/ru/preimushchestva-baz-dannyh'
+aliases:
+    - /ru/vorteile-von-datenbanken
 color: '#eeeeee'
 seo:
     title:

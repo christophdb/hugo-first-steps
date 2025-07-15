@@ -3,7 +3,9 @@ title: 'Как Ventil Verlag выводит свои внутренние про
 date: 2021-01-27
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/ru/ventil-verlag'
+url: '/ru/ventil-izdatelstvo'
+aliases:
+    - /ru/ventil-verlag
 color: '#eeeeee'
 seo:
     title:

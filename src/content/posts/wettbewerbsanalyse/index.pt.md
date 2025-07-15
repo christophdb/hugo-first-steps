@@ -3,7 +3,10 @@ title: 'Análise da concorrência: A melhor forma de proceder - incl. modelo!'
 date: 2025-01-20
 lastmod: '2025-01-21'
 author: 'nsc'
-url: '/pt/wettbewerbsanalyse'
+url: '/pt/analise-da-concorrencia'
+aliases:
+    - /pt/wettbewerbsanalyse
+color: '#eeeeee'
 seo:
     title:
     description:

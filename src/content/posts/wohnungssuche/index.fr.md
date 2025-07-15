@@ -3,7 +3,9 @@ title: 'Recherche de logement - 10 conseils pour trouver un logement'
 date: 2023-12-18
 lastmod: '2023-12-18'
 author: 'nsc'
-url: '/fr/wohnungssuche'
+url: '/fr/recherche-appartement'
+aliases:
+    - /fr/wohnungssuche
 seo:
     title:
     description:

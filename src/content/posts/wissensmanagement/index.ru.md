@@ -3,7 +3,9 @@ title: 'Управление знаниями: как сделать знани�
 date: 2024-08-09
 lastmod: '2024-08-09'
 author: 'lsc'
-url: '/ru/wissensmanagement'
+url: '/ru/upravlenie-znaniyami'
+aliases:
+    - /ru/wissensmanagement
 seo:
     title:
     description:

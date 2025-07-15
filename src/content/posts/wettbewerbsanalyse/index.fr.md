@@ -3,7 +3,10 @@ title: 'Analyse de la concurrence : la meilleure façon de procéder - modèle i
 date: 2025-01-20
 lastmod: '2025-01-21'
 author: 'nsc'
-url: '/fr/wettbewerbsanalyse'
+url: '/fr/analyse-concurrentielle'
+aliases:
+    - /fr/wettbewerbsanalyse
+color: '#eeeeee'
 seo:
     title:
     description:

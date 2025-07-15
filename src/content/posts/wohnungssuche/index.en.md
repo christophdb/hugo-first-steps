@@ -4,7 +4,9 @@ date: 2023-12-18
 lastmod: '2023-12-18'
 coverImage: 'Wohnungssuche-Kriterien.png'
 author: 'nsc'
-url: '/wohnungssuche'
+url: '/apartment-search'
+aliases:
+    - /wohnungssuche
 seo:
     title:
     description:

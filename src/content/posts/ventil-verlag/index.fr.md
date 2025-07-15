@@ -3,7 +3,9 @@ title: "Comment la maison d'Ã©dition Ventil fait passer ses processus internes Ã
 date: 2021-01-27
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/fr/ventil-verlag'
+url: '/fr/ventil-edition'
+aliases:
+    - /fr/ventil-verlag
 color: '#eeeeee'
 seo:
     title:
