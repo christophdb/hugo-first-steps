@@ -4,10 +4,14 @@ date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
 url: '/es/checkliste-urlaub'
-color: '#eeeeee'
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana y ocio'
+color: '#ffb04e'
 ---
 
 Las vacaciones de verano están a la vuelta de la esquina y, para muchos veraneantes, eso significa que ha llegado el momento de hacer las **maletas**. Pero, ¿cuándo es exactamente el momento de hacer la maleta? ¿Es usted una de esas personas que reúnen todo rápidamente la noche antes de partir y lo meten en la mejor bolsa de viaje? ¿O prefiere planificar con semanas de antelación lo que incluirá en su **lista de vacaciones**?

@@ -14,7 +14,7 @@ url: '/ru/pomoshch/datenimport-und-export'
 
 ## Экспортная база
 
-Вы можете экспортировать текущее состояние базы, включая все таблицы, [представления]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [веб-формы]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) и [автоматизация]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), а также [данные в бэкенде больших данных]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) также **не экспортируются**.
+Через **стартовую страницу** Вы можете экспортировать текущее состояние Ваших баз, включая все таблицы, [представления]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [веб-формы]({{< relref "help/base-editor/webformulare/webformulare" >}}) и плагины. [Комментарии]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), [Автоматизации]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) и [История изменений]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}), а также [Данные в бэкенде больших данных]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) **не экспортируются**.
 
 ![Экспортные базы](images/export-bases.png)
 
@@ -22,7 +22,7 @@ SeaTable использует [формат файла DTABLE]({{< relref "help/
 
 ## Таблица экспорта
 
-Вы можете **экспортировать** отдельные **таблицы** из каждой базы, к которой у вас есть доступ, **в файлы Excel**. Содержимое текстовых и числовых столбцов копируется в целевой файл в виде значений. Содержимое типа [Форматированный текст]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), [автоматизация]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) и [история изменений]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) **не экспортируются**.
+Вы можете **экспортировать** отдельные **таблицы** из каждой базы, к которой у вас есть доступ, **в файлы Excel**. Содержимое текстовых и числовых столбцов копируется в целевой файл в виде значений. [Комментарии]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), [Автоматизации]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) и [История изменений]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) **не экспортируются**.
 
 ![Экспорт таблицы](images/export-tables.jpg)
 

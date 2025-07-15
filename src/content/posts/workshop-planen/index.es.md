@@ -9,6 +9,12 @@ aliases:
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestión de candidatos y talentos'
+    - 'Educación'
+color: '#a462c3'
 ---
 
 Hoy en día, el aprendizaje permanente es una de las cosas más importantes cuando se trata de **cualificación profesional** y **desarrollo personal**. Ya se trate de un taller, de formación o de formación continua: Como empresario, es esencial que apoye a sus empleados y les ofrezca oportunidades de perfeccionamiento. Para muchos empleados de hoy en día, esto forma parte de un trabajo atractivo y **su empresa se beneficia** de muchas maneras de unos empleados bien formados.

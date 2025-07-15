@@ -26,7 +26,7 @@ Wenn Sie eine Tabelle aus dem Papierkorb holen, wird diese genauso wiederhergest
 
 - Tabellendaten
 - [Tabellenansichten]({{< relref "help/base-editor/ansichten" >}})
-- [Kommentare]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Kommentare]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})
 - [Webformulare]({{< relref "help/base-editor/webformulare" >}})
 - Automationen
 - Darstellungen und Auswertungen in den Plugins von SeaTable

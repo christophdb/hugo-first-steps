@@ -26,7 +26,7 @@ url: '/ru/pomoshch/eine-geloeschte-tabelle-wiederherstellen'
 
 - Данные таблицы
 - [Виды таблиц]({{< relref "help/base-editor/ansichten" >}})
-- [Комментарии]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Комментарии]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})
 - [Веб-формы]({{< relref "help/base-editor/webformulare" >}})
 - Автоматизация
 - Представления и оценки в плагинах SeaTable

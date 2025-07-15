@@ -14,7 +14,7 @@ How to export bases and tables from SeaTable and import them into SeaTable is th
 
 ## Export base
 
-You can export the current status of your bases including all tables, [views]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [web forms]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) and [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) as well as [data in the big data backend]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) are also **not exported**.
+You can export the current status of your bases including all tables, [views]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}), [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}) and plugins. [Comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) and the [change history]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) as well as [data in the big data backend]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) are **not exported**.
 
 ![Bases export](images/export-bases.png)
 
@@ -22,7 +22,7 @@ For exporting bases, SeaTable uses the [DTABLE file format]({{< relref "help/sta
 
 ## Export table
 
-You can **export** individual **tables to Excel files** from any base to which you have access. The contents of text and number-based columns are copied as values to the destination file. Contents of the [Formatted Text]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) and the [change history]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) are **not exported**.
+You can **export** individual **tables to Excel files** from any base to which you have access. The contents of text and number-based columns are copied as values to the destination file. [Comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), [automations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) and the [change history]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) are **not exported**.
 
 ![Export tables](images/export-tables.jpg)
 

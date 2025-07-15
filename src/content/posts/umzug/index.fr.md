@@ -9,6 +9,11 @@ aliases:
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vie Quotidienne'
+color: '009f9b'
 ---
 
 Le moment est enfin venu ! Vous avez trouvé l'appartement parfait pour vous et vous êtes impatient d'emménager dans votre nouvelle maison. La seule chose qui vous sépare encore de l'appartement de vos rêves est le déménagement. Ce qui représente beaucoup de stress et de temps pour la plupart des gens peut vous être facilité par un **plan de déménagement** structuré. Vous apprendrez ici comment planifier votre déménagement avec le moins de stress possible et comment le mener à bien.

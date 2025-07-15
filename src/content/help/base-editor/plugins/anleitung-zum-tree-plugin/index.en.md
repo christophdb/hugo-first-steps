@@ -5,7 +5,9 @@ lastmod: '2024-12-10'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/help/anleitung-zum-tree-plugin'
+url: '/help/instructions-for-the-tree-plugin'
+aliases:
+    - '/help/anleitung-zum-tree-plugin'
 ---
 
 The **Tree plugin** enables the compact **hierarchical display** of linked data records. This means that you can visualize data that is located in different, [linked tables]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) at different levels in a tree diagram. The plugin therefore provides a structured overview, especially for large amounts of data such as financial data or project data.

@@ -3,6 +3,8 @@ title: 'Gestion des produits numériques'
 description: ''
 date: '2024-08-24'
 url: '/fr/modele/digital-product-management'
+aliases:
+    - '/fr/digitales-produktmanagement'
 category: 'product-design'
 functions:
 seo:

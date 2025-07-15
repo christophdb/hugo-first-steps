@@ -9,6 +9,12 @@ aliases:
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestão de candidatos e talentos'
+    - 'Educação'
+color: '#a462c3'
 ---
 
 Atualmente, a aprendizagem ao longo da vida é um dos aspectos mais importantes no que diz respeito às **qualificações profissionais** e ao **desenvolvimento pessoal**. Quer se trate de um workshop, de uma formação ou de um curso superior: Como empregador, é essencial que apoie os seus empregados e lhes ofereça oportunidades de desenvolvimento. Hoje em dia, para muitos trabalhadores, isto faz parte de um emprego atrativo e **a sua empresa beneficia** de muitas formas com trabalhadores bem formados.

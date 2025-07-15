@@ -18,7 +18,7 @@ Le formulaire web classique est idéal pour les **enquêtes en ligne** et la sai
 
 Les formulaires web se réfèrent toujours à une **table** dans la base ouverte. C'est pourquoi vous devez d'abord ouvrir la table et la vue concernées avant de créer un formulaire. Dans chaque base, vous pouvez créer et enregistrer un **nombre quelconque** de formulaires web.
 
-## Créer un formulaire classique
+## Créer un formulaire
 
 Ouvrez la gestion des formulaires en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-form" >}} **Formulaires** en haut à droite dans l'en-tête de la base. La gestion des formulaires se présente sous forme de liste vide si aucun formulaire n'a encore été créé dans la base. Sinon, les formulaires déjà existants sont affichés dans la fenêtre ouverte.
 
@@ -64,7 +64,7 @@ Dans le projet, vous pouvez cliquer sur chaque champ, ce qui vous permet d'accé
 
 Pour vérifier à quoi ressemble le formulaire pour le destinataire, cliquez en haut à droite sur le bouton **Page du formulaire web**. Le formulaire s'ouvre alors dans un nouvel onglet, tel qu'un autre utilisateur le verrait.
 
-### Partager le formulaire
+## Partager le formulaire
 
 Pour rendre le formulaire accessible à d'autres, vous avez besoin d'un **lien**. Vous obtenez le lien pour le formulaire dans l'éditeur de formulaire web en cliquant sur le bouton {{< seatable-icon icon="dtable-icon-share" >}} **Partager**. Vous pouvez utiliser le **lien généré automatiquement** ou créer **votre propre lien** et l'enrichir avec [des valeurs pré-remplies]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}).
 
@@ -74,7 +74,7 @@ Pour rendre le formulaire accessible à d'autres, vous avez besoin d'un **lien**
 
 Avant d'envoyer le lien du formulaire ou de le rendre public, vous devriez tester le formulaire de manière approfondie.
 
-### Tester le formulaire
+## Tester le formulaire
 
 Des tests approfondis évitent toute frustration de la part des destinataires. Les problèmes peuvent être causés par des ambiguïtés ou des conflits dans le formulaire. Dans le pire des cas, un formulaire ne peut pas être envoyé parce qu'un champ obligatoire ne peut pas être rempli (par exemple, si aucune valeur n'est définie pour une sélection simple).
 
@@ -84,10 +84,10 @@ Ouvrez le formulaire web pour le tester. Depuis l'éditeur de formulaires web, v
 
 Les valeurs saisies dans le formulaire sont enregistrées dans le tableau lié. N'oubliez pas de supprimer les données de test du tableau avant de collecter les données ultérieurement.
 
-### Modifier le formulaire
+## Modifier le formulaire
 
 Vous pouvez à tout moment modifier les formulaires web à l'aide de l'éditeur de formulaires web. Pour revenir à l'éditeur, accédez à la gestion des formulaires, placez le curseur de la souris sur le nom du formulaire, puis cliquez sur l'**icône en forme de crayon** à droite du nom {{< seatable-icon icon="dtable-icon-rename" >}}.
 
-### Supprimer le formulaire
+## Supprimer le formulaire
 
 Vous pouvez à tout moment supprimer des formulaires web via la gestion des formulaires. Placez le curseur de la souris sur le nom du formulaire, puis cliquez sur l'**icône de la corbeille à** droite du nom {{< seatable-icon icon="dtable-icon-delete" >}}.

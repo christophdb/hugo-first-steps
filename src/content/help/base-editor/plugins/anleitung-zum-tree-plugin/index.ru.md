@@ -5,7 +5,9 @@ lastmod: '2024-12-10'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/ru/pomoshch/anleitung-zum-tree-plugin'
+url: '/ru/pomoshch/instruktsii-dlya-plagina-derevo'
+aliases:
+    - '/ru/pomoshch/anleitung-zum-tree-plugin'
 ---
 
 **Плагин Дерево** позволяет компактно **иерархически визуализировать** связанные записи данных. Это означает, что вы можете визуализировать данные, находящиеся в различных [связанных таблицах]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) на разных уровнях в виде древовидной диаграммы. Таким образом, плагин обеспечивает структурированный обзор, особенно для больших объемов данных, таких как финансовые данные или данные по проектам.

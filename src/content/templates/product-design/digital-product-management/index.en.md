@@ -3,6 +3,8 @@ title: 'Digital product management'
 description: ''
 date: '2024-08-24'
 url: '/template/digital-product-management'
+aliases:
+    - '/digitales-produktmanagement'
 category: 'product-design'
 functions:
 seo:

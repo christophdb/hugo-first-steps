@@ -9,6 +9,11 @@ aliases:
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vie Quotidienne'
+color: '#a462c3'
 ---
 
 Qu'il s'agisse du premier appartement à soi, de la troisième colocation de l'année ou d'un nouveau lieu de retraite pour toute la famille, toutes les personnes à la **recherche d'un logement** sont confrontées au même défi. La situation sur le marché du logement est tendue : Les logements abordables sont rares, tandis que les loyers continuent d'augmenter. Mais il y a toujours de beaux appartements qui se libèrent ou d'anciens immeubles locatifs qui sont rénovés. Vous devez être bien préparé à ces opportunités afin de pouvoir vous imposer face à vos nombreux concurrents.

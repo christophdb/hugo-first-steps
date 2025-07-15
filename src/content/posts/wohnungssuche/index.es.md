@@ -9,6 +9,11 @@ aliases:
 seo:
     title:
     description:
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana y ocio'
+color: '#a462c3'
 ---
 
 Ya sea su primera vivienda, su tercer piso compartido este año o un nuevo refugio para toda la familia, todos los **que buscan casa** se enfrentan al mismo reto. La situación del mercado inmobiliario es tensa: Los pisos asequibles escasean, mientras que los alquileres siguen subiendo. Pero siempre hay pisos bonitos disponibles o bloques de pisos antiguos que se renuevan. Debe estar bien preparado para estas oportunidades a fin de poder imponerse a sus numerosos competidores.
