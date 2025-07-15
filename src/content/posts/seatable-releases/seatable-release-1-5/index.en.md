@@ -13,7 +13,7 @@ seo:
 
 Today we have updated cloud.seatable.io to version 1.5 of SeaTable. With the next login, all users will benefit from exciting new features and a number of interface and existing functionality improvements. At first glance, you will notice the numerous minor and major changes to the table editor, resulting in increased workflow efficiency and improved user experience. The new custom sharing permissions provide more control and flexibility when working collaboratively on bases. Enhanced customization options make SeaTable's web forms an even more versatile tool for data collection.
 
-The full list of changes is, as always, available in [SeaTable's Changelog]({{< relref "pages/changelog" >}}?lang=auto). This release note presents the new version's biggest and most exciting changes.
+The full list of changes is, as always, available in [SeaTable's Changelog]({{< relref "pages/changelog" >}}). This release note presents the new version's biggest and most exciting changes.
 
 ## Sleeker table editor
 

@@ -18,7 +18,7 @@ Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navi
 
 ![Einstellungen der Zeitstrahlseite ändern](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung der Zeitleisten einstellen. Wählen Sie dazu die [Zeilenfarbe]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder eine [Einfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) aus, welche die **Farbe der Blöcke** bestimmt. Auch für die **Beschriftung der Blöcke** können Sie eine Spalte festlegen.
+In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung der Zeitleisten einstellen. Wählen Sie dazu die [Zeilenfarbe]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder eine [Einfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) aus, welche die **Farbe der Blöcke** bestimmt. Auch für die **Beschriftung der Blöcke** können Sie eine Spalte festlegen.
 
 ![Grafische Einstellung der Zeitleisten in Universellen Apps](images/Grafische-Einstellung-der-Zeitleisten.png)
 

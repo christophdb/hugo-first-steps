@@ -1,48 +1,52 @@
 ---
-title: 'A Coluna de Selecção Múltipla'
+title: 'A coluna de seleção múltipla'
 date: 2023-03-28
-lastmod: '2023-04-27'
+lastmod: '2025-07-15'
 categories:
-    - 'auswahlspalten'
-author: 'nsc2'
+    - 'spalten'
+author: 'kgr'
 url: '/pt/ajuda/die-mehrfachauswahl-spalte'
 ---
 
-Uma coluna multi-selecção é ideal se quiser atribuir as suas linhas numa coluna **várias opções** de uma lista de opções a serem definidas. As opções são dadas etiquetas coloridas que pode utilizar para rotular os seus registos e tornar as tabelas claras, por exemplo, através [de filtragem]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) para opções específicas.
+Uma coluna de seleção múltipla é ideal se quiser atribuir as suas linhas numa coluna **várias opções** de uma lista de opções a serem definidas. As opções são dadas etiquetas coloridas que pode utilizar para rotular os seus registos e tornar as tabelas claras, por exemplo, através [de filtragem]({{< relref "help/base-editor/ansichten/filtern-von-eintraegen-in-einer-ansicht" >}}) para opções específicas.
 
-![Tabela de exemplo com uma coluna de selecção múltipla](images/example-table-multiple-select.png)
+![Tabela de exemplo com uma coluna de seleção múltipla](images/example-table-multiple-select.png)
 
-## Criar uma coluna de selecção múltipla
+## Criar uma coluna de seleção múltipla
 
-A criação de uma coluna de escolha múltipla é uma brincadeira de criança e feita com apenas alguns cliques. Para informações detalhadas, ver [Adicionar uma coluna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
+A criação de uma coluna de seleção múltipla é uma brincadeira de criança e feita com apenas alguns cliques. Para informações detalhadas, ver [Adicionar uma coluna]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 
 1. Clique no **símbolo \[+\]** à direita da última coluna de qualquer tabela.
 2. Dê um **nome** à nova coluna.
-3. Seleccionar **Selecção Múltipla** como tipo de coluna.
-4. Confirmar com **Submeter**.
+3. Selecione **Seleção múltipla** como tipo de coluna.
+4. Confirme com **Enviar**.
 
-## Adicionar opções
+## Semelhanças com a coluna de seleção única
 
-Adicionar opções a uma coluna de multi-selecção funciona da **mesma forma que para uma coluna de selecção única**. É possível adicionar novas opções de várias maneiras. Saiba tudo sobre isto no artigo separado [Acrescentar opções a uma coluna de selecção única]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}).
+### Adicione várias opções de seleção
 
-Actualmente, estão disponíveis 24 cores para destacar visualmente as respectivas opções.
+Adicionar opções a uma coluna de seleção múltipla funciona **exatamente da mesma forma que com uma coluna de seleção única**. Pode adicionar novas opções de várias formas. Saiba tudo sobre isto no artigo [sobre a coluna de seleção única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}).
 
-![Cores da coluna de selecção única](images/farben-einfachauswahl.png)
+### Exportar e importar opções de seleção múltipla
 
-Com uma [subscrição Enterprise]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}), também tem a opção de criar as suas [próprias cores]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) para as suas múltiplas opções de selecção.
+Pode **exportar** e **importar** as opções de uma coluna de seleção múltipla da mesma forma que uma coluna de seleção única. Pode encontrar mais informações sobre isto no artigo sobre a coluna de seleção única.
 
-## Definir valor por defeito
+### Cores das opções
 
-Ao criar uma coluna de selecção múltipla, em contraste com a coluna de selecção única, **não** tem a opção de definir um valor por defeito.
+Tal como na coluna de seleção única, estão atualmente disponíveis **24 cores** para realçar visualmente as respectivas opções.
 
-## Selecção múltipla ou coluna de ligação?
+![Cores da coluna de seleção única](images/farben-einfachauswahl.png)
 
-Se desejar poder armazenar **informação adicional** para cada opção de selecção, deve considerar a conversão da coluna de selecção múltipla numa [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Depois poderá criar um registo completo para cada opção numa tabela separada.
+Com uma [subscrição Enterprise]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}), também tem a opção de criar as suas [próprias cores]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) para as suas múltiplas opções de seleção.
 
-## Alterar a ordem das múltiplas opções de selecção
+### Altere a ordem das opções de seleção múltipla
 
-A ordem das opções de selecção múltipla pode ser ajustada da **mesma** forma que para uma coluna de selecção única. Pode encontrar instruções detalhadas [aqui]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}}).
+A ordem das opções pode ser ajustada da mesma forma que para uma única coluna de seleção. É de importância crucial se quiser [ordenar]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) ou [agrupar]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) pela coluna de seleção múltipla. Isto deve-se ao facto de o SeaTable **não organizar as opções por ordem alfabética**, mas sim de forma flexível, de acordo com a **ordem das opções** que especificar utilizando a função arrastar e largar.
 
-## Exportar e importar múltiplas opções de selecção
+### Defina o valor padrão
 
-Pode **exportar** e **importar** as **opções de** uma coluna de multi-selecção da mesma forma que uma coluna de selecção única. Pode encontrar mais informações sobre isto [neste artigo]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).
+Ao contrário da coluna de seleção única, você **não pode** especificar um valor padrão para uma coluna de seleção múltipla.
+
+## Seleção múltipla ou ligação a outras entradas?
+
+Se pretender guardar **informação adicional** para cada opção de seleção, deve considerar a utilização de uma [coluna de ligação]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) em vez de uma coluna de seleção múltipla. Para tal, crie registos de dados completos para todas as opções numa tabela separada, que pode ligar a qualquer número de linhas noutras tabelas.

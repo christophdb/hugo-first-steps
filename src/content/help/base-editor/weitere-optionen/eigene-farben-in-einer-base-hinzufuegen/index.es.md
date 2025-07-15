@@ -1,5 +1,5 @@
 ---
-title: 'Añade tus propios colores a una base'
+title: 'Añadir sus propios colores a una base'
 date: 2023-04-27
 lastmod: '2023-04-27'
 categories:
@@ -12,7 +12,7 @@ url: '/es/ayuda/eigene-farben-in-einer-base-hinzufuegen'
 
 Con SeaTable aportará más color a su trabajo diario, especialmente en comparación con las bases de datos monótonas y las aburridas hojas de cálculo. Con la [suscripción Enterprise]({{< relref "pages/prices" >}}), incluso es posible añadir tus **propios colores personalizados** mediante código hexadecimal a la paleta de colores que encuentras en varios lugares dentro de una base.
 
-Por ejemplo, puede colorear [las opciones de selección]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}), los [botones]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) para que coincidan con su diseño corporativo o dar rienda suelta a su creatividad en el diseño de colores.
+Por ejemplo, puede colorear [las opciones de selección]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), [las celdas]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) y [los botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) para que coincidan con su diseño corporativo o dar rienda suelta a su creatividad en el diseño de colores.
 
 {{< warning  headline="Nota importante"  text="**Sólo** los **propietarios** y **administradores** pueden ajustar la configuración de color de una base que pertenezca a un grupo. A los simples miembros del grupo **ni** siquiera se les muestra esta opción." />}}
 
@@ -23,7 +23,7 @@ Por ejemplo, puede colorear [las opciones de selección]({{< relref "help/base-e
 1. Haga clic en los **tres puntos** de la cabecera de la base.
 2. Ve a **Ajustes**.
 3. Selecciona los **ajustes de color**.
-4. Haga clic en el **símbolo \[+**\] de la pestaña _Mis colores_.
+4. Haga clic en el **símbolo \[+\]** de la pestaña _Mis colores_.
 5. Seleccione cualquier color del **selector de** color como color de **fondo** _o_ añada un color personalizado mediante **código hexadecimal** a la paleta de colores.
 6. Seleccione blanco o negro como **color de fuente**.
 7. Confirme con **Enviar** y vuelva a hacer clic en **Enviar** para guardar el color recién añadido.
@@ -57,6 +57,6 @@ Puede **eliminar** los colores añadidos a una base en cualquier momento utiliza
 
 {{< warning  headline="Nota" >}}
 
-Actualmente, **no** es posible en SeaTable Cloud definir su propio color para una base (encabezado de la base, [icono de la base en la]({{< relref "help/base-editor/webformulare/webformulare" >}}). Aquí solo puede elegir entre los **12 colores** predefinidos.
+Actualmente, **no** es posible en SeaTable Cloud definir su propio color para una base (encabezado de la base, icono de la base en la página de inicio) o [formularios]({{< relref "help/base-editor/webformulare/webformulare" >}}). Aquí solo puede elegir entre los **12 colores** predefinidos.
 
 {{< /warning >}}

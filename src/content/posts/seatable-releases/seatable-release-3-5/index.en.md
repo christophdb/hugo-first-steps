@@ -15,7 +15,7 @@ April does what it wants - but SeaTable does what you want! With version 3.5, so
 
 With this release, we are also introducing a new App Builder as a beta. With the Universal App Builder, you can build applications for a wide range of use cases and user groups without any programming knowledge. Currently, our development team is still working on the fine-tuning, but already the foretaste makes you want more. We are looking forward to your feedback!
 
-This morning we updated the SeaTable Cloud to version 3.5. All self-hosters can do the same: The SeaTable 3.5 image is available for download from the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, see the [changelog]({{< relref "pages/changelog" >}}?lang=auto) for the full list of changes.
+This morning we updated the SeaTable Cloud to version 3.5. All self-hosters can do the same: The SeaTable 3.5 image is available for download from the well-known [Docker repository](https://hub.docker.com/r/seatable/seatable-enterprise). As always, see the [changelog]({{< relref "pages/changelog" >}}) for the full list of changes.
 
 ## Formulas in the first column
 

@@ -72,7 +72,7 @@ Legen Sie hier eine Textspalte, in der Sie Adressen oder Ortsnamen erfasst haben
 
 ### Markerfarbe
 
-Wenn Sie in der Tabelle [Zeilen farblich markiert]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) mit farbigen Optionen angelegt haben, können Sie an dieser Stelle auswählen, was davon die **Farbe der Kartenmarkierungen** bestimmen soll.
+Wenn Sie in der Tabelle [Zeilen farblich markiert]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder [Einfachauswahl-Spalten]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) mit farbigen Optionen angelegt haben, können Sie an dieser Stelle auswählen, was davon die **Farbe der Kartenmarkierungen** bestimmen soll.
 
 ### Anzeigefeld
 

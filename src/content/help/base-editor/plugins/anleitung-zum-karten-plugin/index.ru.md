@@ -74,7 +74,7 @@ url: '/ru/pomoshch/anleitung-zum-karten-plugin'
 
 ### Цвет маркера
 
-Если вы [выделили цветом строки в]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) с цветными опциями, вы можете выбрать на этом этапе, какой из них должен определять **цвет маркировки карты**.
+Если вы [выделили цветом строки]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) или [одиночные колонки выбора]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) с цветными опциями, вы можете выбрать на этом этапе, какой из них должен определять **цвет маркировки карты**.
 
 ### Поле отображения
 

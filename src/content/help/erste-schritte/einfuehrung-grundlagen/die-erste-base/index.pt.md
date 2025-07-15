@@ -28,9 +28,7 @@ Utilizando o ícone do lápis, pode mudar o nome da base e atribuir-lhe um ícon
 
 A nova Base contém uma [tabela]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) desde o início. A vista de tabela é a vista central, mas não a única, do SeaTable. Na vista de tabela, pode gerir as tabelas da base, definir a sua estrutura de colunas e introduzir ou analisar os seus dados.
 
-Antes da [entrada de dados]({{< relref "help/base-editor/webformulare/webformulare" >}}).
-
-O SeaTable oferece um total de [mais de 20 tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Provavelmente já está familiarizado com as colunas de texto, número e data das folhas de cálculo convencionais. Naturalmente, o SeaTable também as conhece. Além disso, o SeaTable oferece colunas para [imagens e ficheiros]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) e [caixas de verificação]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) e [múltipla]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}}).
+O SeaTable oferece um total de [mais de 20 tipos de colunas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Provavelmente já está familiarizado com as colunas de texto, número e data das folhas de cálculo convencionais. Naturalmente, o SeaTable também as conhece. Além disso, o SeaTable oferece colunas para imagens e ficheiros, botões e caixas de verificação, bem como campos de seleção única e múltipla.
 
 Quer adicionar fotografias a uma entrada? Basta arrastar a imagem para uma coluna de imagens e o SeaTable guarda-a directamente na mesa. Em SeaTable tem todos os seus dados no mesmo lugar!
 

@@ -28,9 +28,7 @@ L'icône en forme de crayon permet de renommer la base et de lui attribuer une a
 
 La nouvelle base contient dès le départ un [tableau]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}). La vue Tableau est la vue centrale, mais pas la seule, de SeaTable. Dans la vue Tableau, vous gérez les tableaux de la base, définissez leur structure en colonnes et saisissez ou analysez vos données.
 
-Avant de [saisir des données]({{< relref "help/base-editor/webformulare/webformulare" >}}).
-
-SeaTable propose [plus de 20 types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) au total. Vous connaissez certainement déjà les colonnes de texte, de chiffres et de dates des tableurs traditionnels. Bien sûr, SeaTable les connaît aussi. En outre, SeaTable propose des colonnes pour les [images et les fichiers]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) et [les cases à cocher]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) et [multiples]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}}).
+SeaTable propose [plus de 20 types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) au total. Vous connaissez certainement déjà les colonnes de texte, de chiffres et de dates des tableurs traditionnels. Bien sûr, SeaTable les connaît aussi. En outre, SeaTable propose des colonnes pour les images et les fichiers, des boutons et des cases à cocher, ainsi que des sélections uniques et multiples.
 
 Vous voulez ajouter des images à une entrée ? Faites simplement glisser l'image dans une colonne d'images et SeaTable l'enregistrera directement dans le tableau. Dans SeaTable, vous avez toutes vos données au même endroit !
 

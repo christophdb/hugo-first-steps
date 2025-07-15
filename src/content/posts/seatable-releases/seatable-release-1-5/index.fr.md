@@ -12,7 +12,7 @@ seo:
 
 Aujourd'hui, nous avons mis à jour cloud.seatable.io vers la version 1.5 de SeaTable. Avec la prochaine connexion, tous les utilisateurs bénéficieront de nouvelles fonctionnalités passionnantes et d'une série d'améliorations de l'interface et des fonctions existantes. Au premier coup d'œil, vous remarquerez les nombreuses modifications, petites et grandes, apportées à l'éditeur de tableaux, qui se traduisent par une plus grande efficacité du flux de travail et une meilleure expérience utilisateur. Les nouvelles autorisations de partage définies par l'utilisateur offrent un contrôle et une flexibilité accrus pour le travail collaboratif sur les bases. Les options de personnalisation avancées font des formulaires Web de SeaTables un outil encore plus polyvalent pour la saisie de données.
 
-La liste complète des changements peut être trouvée, comme toujours, dans [le journal des changements de SeaTable]({{< relref "pages/changelog" >}}?lang=auto). Cette note de mise à jour présente les changements les plus importants et les plus intéressants de cette nouvelle version.
+La liste complète des changements peut être trouvée, comme toujours, dans [le journal des changements de SeaTable]({{< relref "pages/changelog" >}}). Cette note de mise à jour présente les changements les plus importants et les plus intéressants de cette nouvelle version.
 
 ## Amélioration de l'éditeur de tableaux
 

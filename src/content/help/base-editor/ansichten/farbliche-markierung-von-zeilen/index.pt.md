@@ -32,7 +32,7 @@ Para a opção **Utilizar coluna de seleção única**, é necessária uma colun
 
 {{< warning  headline="Criar uma coluna de seleção única" >}}
 
-Descubra [aqui]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) como criar novas colunas de seleção simples.
+Descubra [aqui]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) como criar novas colunas de seleção simples.
 
 {{< /warning >}}
 

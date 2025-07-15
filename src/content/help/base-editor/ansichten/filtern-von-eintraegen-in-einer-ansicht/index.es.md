@@ -30,7 +30,7 @@ Dependiendo del **tipo de columna** por el que quieras filtrar, las condiciones 
 Tiene estas opciones de condición con un [Columna de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}):  
 ![Columna de texto filtrado](images/filtern-von-eintraegen-5.png)
 
-Tiene estas opciones de condición con un [Columna de selección única]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}):  
+Tiene estas opciones de condición con un [Columna de selección única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}):  
 ![Filtrar una sola columna de selección](images/filtern-von-eintraegen-6.png)
 
 Tiene estas opciones de condición con un [Columna de imágenes]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}):  

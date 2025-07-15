@@ -28,9 +28,7 @@ Using the pencil icon, you can rename the base and assign a different icon and c
 
 The new Base contains a [table]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) from the beginning. The Table view is the central, but not the only view of SeaTable. In the Table view you manage the tables of the Base, define their column structure and enter or analyze your data.
 
-Before you [enter data]({{< relref "help/base-editor/webformulare/webformulare" >}}).
-
-SeaTable offers a total of [over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). From conventional spreadsheets you probably already know text, number and date columns. Of course, SeaTable knows these as well. In addition, SeaTable offers columns for [images and files]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) and [checkboxes]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) and [multiple selection fields]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}}).
+SeaTable offers a total of [over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). From conventional spreadsheets you probably already know text, number and date columns. Of course, SeaTable knows these as well. In addition, SeaTable offers columns for images and files, buttons and checkboxes as well as single and multiple select fields.
 
 You want to add images to an entry? Just drag the image into an image column and SeaTable saves it directly into the table. In SeaTable you have all your data in one place!
 

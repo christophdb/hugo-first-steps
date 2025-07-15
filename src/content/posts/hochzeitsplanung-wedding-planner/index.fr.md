@@ -22,7 +22,7 @@ Notre check-list pour l'organisation du mariage contient déjà plus de 200 ToDo
 
 ### Créer ses propres to-do
 
-Pour commencer à planifier votre propre mariage, vous devez [vous inscrire]({{< relref "pages/registration" >}}?lang=auto) à un [compte gratuit de SeaTable]({{< relref "pages/registration" >}}?lang=auto). Vous pourrez ensuite commencer à planifier votre mariage à l'aide de notre modèle _Wedding Planner_.
+Pour commencer à planifier votre propre mariage, vous devez [vous inscrire]({{< relref "pages/registration" >}}) à un [compte gratuit de SeaTable]({{< relref "pages/registration" >}}). Vous pourrez ensuite commencer à planifier votre mariage à l'aide de notre modèle _Wedding Planner_.
 
 Vous pouvez insérer des tâches à faire supplémentaires ou additionnelles à n'importe quel endroit du modèle. Lorsque vous attribuez un nouveau _Parent To-do_, un nouveau groupe de tâches est automatiquement créé. Le tri des groupes de tâches se fait automatiquement en fonction du délai de préparation de votre mariage. Vous souhaitez attribuer une date concrète aux tâches ? Il vous suffit d'ajouter une nouvelle [colonne de date]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}#datum) et d'attribuer une date à chaque to-do.
 
@@ -90,9 +90,9 @@ Pendant l'organisation d'un mariage, on fait beaucoup de recherches. Sur Pintere
 
 Grâce à notre _liste de contrôle_ de plus de 200 points, l'organisation de votre mariage ne peut plus se dérouler de manière incorrecte. SeaTable vous accompagne pendant 13 mois jusqu'au jour parfait. L'_Evaluation Lists_ vous aide à prendre des décisions, la _Guest List_ évite le chaos dans le _plan de table_ et chaque invité reçoit à temps son invitation et le menu approprié sur la table du dîner. Grâce à la _planification du budget_, aucune contrainte financière ne viendra assombrir le plus beau jour de votre vie et, finalement, vous n'oublierez aucune bonne idée grâce à votre base _Notes & Ideas_.
 
-Même si votre mariage est plus spécifique ou si vous avez d'autres exigences, SeaTable peut être personnalisé selon vos besoins. Ajoutez des tableaux, créez [différentes vues]({{< relref "help/base-editor/ansichten" >}}?lang=auto), [regroupez et filtrez]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) vos données et vos vues ou essayez les [plug-ins]({{< relref "help/base-editor/plugins" >}}) qui vous conviennent. Il serait par exemple envisageable d'intégrer une liste de souhaits dans le Wedding Planner et de permettre aux invités d'inscrire à l'avance, via un formulaire web, le cadeau qu'ils choisiront. Avec SeaTable, le formulaire web pourrait être conçu de manière à ce que les invités ne voient que les cadeaux qu'aucun autre invité n'a encore choisis. Il n'y a vraiment aucune limite à l'imagination.
+Même si votre mariage est plus spécifique ou si vous avez d'autres exigences, SeaTable peut être personnalisé selon vos besoins. Ajoutez des tableaux, créez [différentes vues]({{< relref "help/base-editor/ansichten" >}}), [regroupez et filtrez]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}) vos données et vos vues ou essayez les [plug-ins]({{< relref "help/base-editor/plugins" >}}) qui vous conviennent. Il serait par exemple envisageable d'intégrer une liste de souhaits dans le Wedding Planner et de permettre aux invités d'inscrire à l'avance, via un formulaire web, le cadeau qu'ils choisiront. Avec SeaTable, le formulaire web pourrait être conçu de manière à ce que les invités ne voient que les cadeaux qu'aucun autre invité n'a encore choisis. Il n'y a vraiment aucune limite à l'imagination.
 
-Inscrivez-vous[dès maintenant]({{< relref "pages/registration" >}}?lang=auto) et commencez à planifier votre mariage. Toute l'équipe de SeaTable vous souhaite un bon mariage !
+Inscrivez-vous[dès maintenant]({{< relref "pages/registration" >}}) et commencez à planifier votre mariage. Toute l'équipe de SeaTable vous souhaite un bon mariage !
 
 ### Instructions vidéo en allemand sur YouTube
 

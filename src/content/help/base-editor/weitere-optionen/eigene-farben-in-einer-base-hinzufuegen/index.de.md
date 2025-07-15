@@ -12,7 +12,7 @@ url: '/de/hilfe/eigene-farben-in-einer-base-hinzufuegen'
 
 Mit SeaTable bringen Sie mehr Farbe in Ihren Arbeitsalltag – vor allem im Vergleich zu eintönigen Datenbanken und tristen Tabellenkalkulationen. Mit [Enterprise-Abo]({{< relref "pages/prices" >}}) ist es sogar möglich, dass Sie **Ihre eigenen benutzerdefinierten Farben** per Hexadezimalcode in die Farbpalette einfügen, welche Ihnen an verschiedenen Stellen innerhalb einer Base begegnet.
 
-So können Sie beispielsweise [Auswahloptionen]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}), [Schaltflächen]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) passend zu Ihrem Corporate Design einfärben oder Ihrer Kreativität bei der Farbgestaltung freien Lauf lassen.
+So können Sie beispielsweise [Auswahloptionen]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), [Zellen]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) und [Schaltflächen]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) passend zu Ihrem Corporate Design einfärben oder Ihrer Kreativität bei der Farbgestaltung freien Lauf lassen.
 
 {{< warning  type="warning" headline="Wichtiger Hinweis"  text="Die Farbeinstellungen einer Base, die zu einer Gruppe gehört, können **ausschließlich** **Eigentümer** und **Administratoren** anpassen. Einfachen Gruppenmitgliedern wird diese Option gar **nicht** erst angezeigt." />}}
 
@@ -57,6 +57,6 @@ Zu einer Base hinzugefügte Farben können Sie über den gleichen Weg jederzeit 
 
 {{< warning  type="warning" headline="Hinweis" >}}
 
-Aktuell ist es in der SeaTable Cloud **nicht** möglich, eine eigene Farbe für eine Base (Base-Header, [Base-Icon auf der Startseite]({{< relref "help/base-editor/webformulare/webformulare" >}}) zu definieren. Hier stehen Ihnen nur die vorgegebenen **12 Farben** zur Auswahl.
+Aktuell ist es in der SeaTable Cloud **nicht** möglich, eine eigene Farbe für eine Base (Base-Header, Base-Icon auf der Startseite) oder [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}}) zu definieren. Hier stehen Ihnen nur die vorgegebenen **12 Farben** zur Auswahl.
 
 {{< /warning >}}

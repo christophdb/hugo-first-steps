@@ -32,7 +32,7 @@ Pour l'option **Utiliser une colonne de sélection simple**, vous avez besoin d'
 
 {{< warning  headline="Création d'une colonne de sélection simple" >}}
 
-Apprenez [ici]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) comment créer de nouvelles colonnes de sélection simple.
+Apprenez [ici]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) comment créer de nouvelles colonnes de sélection simple.
 
 {{< /warning >}}
 

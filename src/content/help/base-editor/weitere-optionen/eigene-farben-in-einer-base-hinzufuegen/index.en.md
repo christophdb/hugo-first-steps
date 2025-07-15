@@ -12,7 +12,7 @@ url: '/help/eigene-farben-in-einer-base-hinzufuegen'
 
 With SeaTable you bring more color into your daily work - especially compared to drab databases and dull spreadsheets. With [Enterprise subscription]({{< relref "pages/prices" >}}) it is even possible that you insert **your own custom colors** via hexadecimal code into the color palette, which you encounter at various places within a base.
 
-For example, you can colorize [selection options]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}), [buttons]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) to match your corporate design, or let your creativity run wild with the color scheme.
+For example, you can colorize [selection options]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), [cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) and [buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) to match your corporate design, or let your creativity run wild with the color scheme.
 
 {{< warning  headline="Important note"  text="**Only** **owners** and **administrators** can adjust the color settings of a Base that belongs to a group. Simple group members will **not** even see this option." />}}
 
@@ -57,6 +57,6 @@ You can **delete** colors added to a base at any time using the same method.
 
 {{< warning  headline="Note" >}}
 
-Currently in SeaTable Cloud it is **not** possible to define your own color for a base (base header, [base icon on the home]({{< relref "help/base-editor/webformulare/webformulare" >}}). Here you can only choose from the default **12 colors**.
+Currently in SeaTable Cloud it is **not** possible to define your own color for a base (base header, base icon on the homepage) or [web forms]({{< relref "help/base-editor/webformulare/webformulare" >}}). Here you can only choose from the default **12 colors**.
 
 {{< /warning >}}

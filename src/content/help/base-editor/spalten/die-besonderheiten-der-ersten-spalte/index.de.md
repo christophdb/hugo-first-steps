@@ -16,7 +16,13 @@ Die **erste Spalte** einer Tabelle weist in SeaTable im Vergleich zu den anderen
 - Die erste Spalte einer Tabelle können Sie im Gegensatz zu den anderen Spalten **nicht verschieben**.
 - Die erste Spalte einer Tabelle können Sie im Gegensatz zu den anderen Spalten **nicht löschen**.
 - Im Gegensatz zu den anderen Spalten können Sie die erste Spalte aber individuell **fixieren**.
-- Die erste Spalte unterstützt nur die **Spaltentypen** [Text]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}), [Einfachauswahl]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), [Automatische Nummer]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
+- Für die **erste Spalte** stehen lediglich **sechs Spaltentypen** zur Auswahl:
+  - [Text]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+  - [Zahl]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+  - [Datum]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+  - [Einfachauswahl]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
+  - [Automatische Nummer]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
+  - [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Wie Sie den Typ der ersten Spalte anpassen
 
@@ -29,15 +35,6 @@ Die **erste Spalte** einer Tabelle weist in SeaTable im Vergleich zu den anderen
 5. Nehmen Sie ggf. **Format-Einstellungen** vor.
 6. Klicken Sie auf **Abschicken**.
 7. Bestätigen Sie die Anpassung mit einem Klick auf **Konvertieren**.
-
-Für die **erste Spalte** stehen lediglich **sechs Spaltentypen** zur Auswahl:
-
-- [Text]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
-- [Zahl]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
-- [Datum]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Einfachauswahl]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Automatische Nummer]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-- [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Formeln in der ersten Spalte
 

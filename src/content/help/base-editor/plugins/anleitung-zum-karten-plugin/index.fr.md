@@ -74,7 +74,7 @@ Définissez ici une colonne de texte dans laquelle vous avez saisi des adresses 
 
 ### Couleur du marqueur
 
-Si vous avez [mis des lignes en couleur]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) avec des options colorées, vous pouvez choisir à ce stade ce qui doit déterminer la **couleur des repères de la carte**.
+Si vous avez [mis des lignes en couleur]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou créé des [colonnes de sélection unique]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) avec des options colorées, vous pouvez choisir à ce stade ce qui doit déterminer la **couleur des repères de la carte**.
 
 ### Champ d'affichage
 

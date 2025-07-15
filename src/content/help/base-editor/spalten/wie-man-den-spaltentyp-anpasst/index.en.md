@@ -30,8 +30,8 @@ The **first column** in a table **only** supports **6 of the 25 column types**. 
 - [Text]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
 - [Number]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
 - [Date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Single selection]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Automatic number]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
+- [Single select]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
+- [Auto number]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
 - [Formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Data loss warning

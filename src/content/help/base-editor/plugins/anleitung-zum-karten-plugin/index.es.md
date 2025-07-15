@@ -40,7 +40,7 @@ Amplíe la ventana del complemento cartográfico para que ocupe toda la interfaz
 
 ## Opciones de configuración del complemento de mapas
 
-Haz clic en el **símbolo de la rueda dentada** para abrir los ajustes.
+Haga clic en el **símbolo de la rueda dentada** para abrir los ajustes.
 
 ![Configuración del plugin de mapas](images/setting.png)
 
@@ -74,7 +74,7 @@ Establezca aquí una columna de texto en la que haya introducido direcciones o t
 
 ### Color del marcador
 
-Si ha [marcado con color las filas de]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) con opciones de color, puede seleccionar en este punto cuál de ellas debe determinar el **color de las marcas del mapa**.
+Si ha [marcado con color las filas]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) o creado [columnas de selección única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) con opciones de color, puede seleccionar en este punto cuál de ellas debe determinar el **color de las marcas del mapa**.
 
 ### Campo de visualización
 

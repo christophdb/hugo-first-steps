@@ -74,7 +74,7 @@ Specify here a text column where you have entered addresses or place names, or a
 
 ### Marker color
 
-If you have [color-marked]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) with colored options in the table [rows , you can select at this point which of these should determine the]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) **color of the map markers**.
+If you have [single-select columns]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) with colored options or [color-marked rows]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) in the table, you can select at this point which of these should determine the **color of the map markers**.
 
 ### Display field
 

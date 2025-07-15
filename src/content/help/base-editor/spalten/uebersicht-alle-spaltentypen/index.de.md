@@ -66,7 +66,7 @@ Symbol: {{< seatable-icon icon="dtable-icon-single-election" >}} **Einfachauswah
 
 In einer Zelle einer Einfachauswahl-Spalte können Sie **einen Wert** aus einer Liste definierter Optionen auswählen. Die Liste der definierten Optionen erstellen Sie pro Einfachauswahl-Spalte selbst und können diese jederzeit an wechselnde Umstände anpassen. Die Einfachauswahl eignet sich somit besonders zur Kategorisierung und Gruppierung Ihrer Daten.
 
-[Mehr zur Einfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}} )
+[Mehr zur Einfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}} )
 
 ### Mehrfachauswahl
 

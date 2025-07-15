@@ -30,7 +30,7 @@ url: '/ru/pomoshch/wie-man-den-spaltentyp-anpasst'
 - [Текст]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
 - [Номер]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
 - [Дата]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Одиночный выбор]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+- [Одиночный выбор]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
 - [Автоматический номер]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
 - [Формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 

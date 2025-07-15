@@ -11,7 +11,7 @@ seo:
     description:
 ---
 
-SeaTable 3.0 is here! The third major release of SeaTable offers online editing of Office documents, automatic data validation, more functions for shared data sets and a new server component for more efficient storage of bases. As always, the [changelog]({{< relref "pages/changelog" >}}?lang=auto) provides information about the many other detailed improvements and bug fixes in the new version. The new functions are available immediately for [SeaTable Cloud users](https://cloud.seatable.io/). The image for SeaTable 3.0 was made available tonight on [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub.  
+SeaTable 3.0 is here! The third major release of SeaTable offers online editing of Office documents, automatic data validation, more functions for shared data sets and a new server component for more efficient storage of bases. As always, the [changelog]({{< relref "pages/changelog" >}}) provides information about the many other detailed improvements and bug fixes in the new version. The new functions are available immediately for [SeaTable Cloud users](https://cloud.seatable.io/). The image for SeaTable 3.0 was made available tonight on [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub.  
 In addition to the functional improvements in the SeaTable app, there is another new feature for SeaTable Cloud users: A new team management with extended functions and improved design makes the management of small and especially larger teams much easier. You can find out more about the new team management in the article [The new team management]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}}).
 
 ## Automatic data validation

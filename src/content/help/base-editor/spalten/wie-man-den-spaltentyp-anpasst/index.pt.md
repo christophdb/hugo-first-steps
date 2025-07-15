@@ -30,7 +30,7 @@ A **primeira coluna** de uma tabela suporta **apenas 6 dos 25 tipos de coluna**.
 - [Texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
 - [Número]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
 - [Data]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Selecção única]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+- [Seleção única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
 - [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
 - [Fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 

@@ -66,7 +66,7 @@ Símbolo: {{< seatable-icon icon="dtable-icon-single-election" >}} **Selección 
 
 En una celda de una columna de selección única, puede seleccionar un **valor** de una lista de opciones definidas. Usted mismo crea la lista de opciones definidas por columna de selección única y puede adaptarla a circunstancias cambiantes en cualquier momento. Por lo tanto, la selección única es especialmente adecuada para categorizar y agrupar sus datos.
 
-[Más información sobre la columna de selección única]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+[Más información sobre la columna de selección única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
 
 ### Selección múltiple
 
