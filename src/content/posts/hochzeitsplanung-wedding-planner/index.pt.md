@@ -3,7 +3,9 @@ title: 'O planeamento perfeito do casamento com SeaTable - SeaTable'
 date: 2021-07-22
 lastmod: '2023-07-11'
 author: 'rbu'
-url: '/pt/hochzeitsplanung-wedding-planner'
+url: '/pt/planejamento-casamento-wedding-planner'
+aliases:
+    - /pt/hochzeitsplanung-wedding-planner
 color: '#eeeeee'
 seo:
     title:

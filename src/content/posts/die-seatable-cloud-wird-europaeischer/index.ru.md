@@ -3,7 +3,9 @@ title: 'AWS: SeaTable Cloud отделяется от Amazon и становит
 date: 2021-05-20
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/ru/die-seatable-cloud-wird-europaeischer'
+url: '/ru/seatable-cloud-stanovitsya-bolee-evropeyskoy'
+aliases:
+    - /ru/die-seatable-cloud-wird-europaeischer
 color: '#eeeeee'
 seo:
     title:

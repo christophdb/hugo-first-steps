@@ -3,7 +3,9 @@ title: 'Fiesta de revelación del sexo: cómo hacer que tu baby shower sea un é
 date: 2024-02-16
 lastmod: '2024-02-16'
 author: 'lsc'
-url: '/es/gender-reveal-party'
+url: '/es/fiesta-revelacion-genero'
+aliases:
+    - /es/gender-reveal-party
 seo:
     title:
     description:

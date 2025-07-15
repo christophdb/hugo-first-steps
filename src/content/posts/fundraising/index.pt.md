@@ -2,7 +2,9 @@
 title: 'Angariação de fundos: Como recolher e gerir donativos - SeaTable'
 date: 2024-04-16
 lastmod: '2024-04-16'
-url: '/pt/fundraising'
+url: '/pt/arrecadacao-fundos'
+aliases:
+    - /pt/fundraising
 seo:
     title:
     description:

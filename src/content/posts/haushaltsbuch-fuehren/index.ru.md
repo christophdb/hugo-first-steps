@@ -3,7 +3,9 @@ title: 'Ведите бюджетную книгу: Экономьте день�
 date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
-url: '/ru/haushaltsbuch-fuehren'
+url: '/ru/vesti-semeinnyy-byudzhet'
+aliases:
+    - /ru/haushaltsbuch-fuehren
 seo:
     title:
     description:

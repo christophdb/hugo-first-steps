@@ -3,7 +3,9 @@ title: 'Birthday party planning - 3 steps to the perfect party'
 description: 'From choosing the date and location to the guest list, catering and music - planning your party well in advance creates the perfect conditions for a successful birthday party.'
 date: 2023-07-26
 lastmod: '2024-01-11'
-url: '/geburtstagsfeier-planen'
+url: '/plan-birthday-party'
+aliases:
+    - /geburtstagsfeier-planen
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: 'Управление недвижимостью стало проще: �
 date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
-url: '/ru/hausverwaltung'
+url: '/ru/upravlenie-domom'
+aliases:
+    - /ru/hausverwaltung
 seo:
     title:
     description:

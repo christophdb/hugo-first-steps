@@ -2,7 +2,9 @@
 title: 'Управление автопарком: как грамотно управлять своим автопарком'
 date: 2024-01-09
 lastmod: '2025-02-12'
-url: '/ru/fuhrparkmanagement'
+url: '/ru/upravlenie-avtoparkom'
+aliases:
+    - /ru/fuhrparkmanagement
 seo:
     title:
     description:

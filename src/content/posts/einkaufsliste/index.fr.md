@@ -3,7 +3,9 @@ title: 'Liste de courses & app : Comparaison de 7 listes de courses numériques'
 date: 2024-02-05
 lastmod: '2024-02-05'
 author: 'nsc'
-url: '/fr/einkaufsliste'
+url: '/fr/liste-courses'
+aliases:
+    - /fr/einkaufsliste
 seo:
     title:
     description:

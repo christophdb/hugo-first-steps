@@ -3,7 +3,9 @@ title: 'Désespéré de travailler à domicile ? Avec ces conseils, tout ira bie
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
-url: '/fr/homeoffice-tipps'
+url: '/fr/conseils-teletravail'
+aliases:
+    - /fr/homeoffice-tipps
 color: '#eeeeee'
 seo:
     title:

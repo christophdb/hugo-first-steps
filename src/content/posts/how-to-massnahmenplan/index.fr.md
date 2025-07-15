@@ -3,7 +3,9 @@ title: "Comment faire : Comment créer un plan d'action pour toute l'année - Se
 date: 2021-05-04
 lastmod: '2023-07-11'
 author: 'ott'
-url: '/fr/how-to-massnahmenplan'
+url: '/fr/comment-faire-plan-actions'
+aliases:
+    - /fr/how-to-massnahmenplan
 color: '#eeeeee'
 seo:
     title:

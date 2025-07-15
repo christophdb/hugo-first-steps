@@ -3,7 +3,9 @@ title: 'Lista de compras e aplicação: 7 listas de compras digitais em compara�
 date: 2024-02-05
 lastmod: '2024-02-05'
 author: 'nsc'
-url: '/pt/einkaufsliste'
+url: '/pt/lista-compras'
+aliases:
+    - /pt/einkaufsliste
 seo:
     title:
     description:

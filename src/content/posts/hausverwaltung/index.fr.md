@@ -3,7 +3,9 @@ title: "La gestion immobilière en toute simplicité : Gérer l'immobilier de ma
 date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
-url: '/fr/hausverwaltung'
+url: '/fr/gestion-immeuble'
+aliases:
+    - /fr/hausverwaltung
 seo:
     title:
     description:

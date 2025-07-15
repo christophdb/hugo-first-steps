@@ -3,7 +3,9 @@ title: 'Habit Tracker - comment changer vos habitudes à long terme'
 date: 2023-12-06
 lastmod: '2024-01-25'
 author: 'lsc'
-url: '/fr/habit-tracker'
+url: '/fr/suivi-habitudes'
+aliases:
+    - /fr/habit-tracker
 seo:
     title:
     description:

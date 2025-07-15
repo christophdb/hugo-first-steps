@@ -3,7 +3,9 @@ title: 'Liste de colisage pour le festival : Les incontournables pour une expér
 date: 2024-03-13
 lastmod: '2024-07-26'
 author: 'nsc'
-url: '/fr/festival-packliste'
+url: '/fr/liste-affaires-festival'
+aliases:
+    - /fr/festival-packliste
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Digital estate: How you can manage your access data'
 date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
-url: '/digitaler-nachlass'
+url: '/digital-legacy'
+aliases:
+    - /digitaler-nachlass
 seo:
     title:
     description:

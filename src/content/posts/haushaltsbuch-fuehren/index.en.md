@@ -4,7 +4,9 @@ date: 2024-01-02
 lastmod: '2024-01-03'
 coverImage: 'Fuehren-Sie-Ihr-Haushaltsbuch-mit-SeaTable.jpg'
 author: 'kgr'
-url: '/haushaltsbuch-fuehren'
+url: '/keep-household-budget'
+aliases:
+    - /haushaltsbuch-fuehren
 seo:
     title:
     description:

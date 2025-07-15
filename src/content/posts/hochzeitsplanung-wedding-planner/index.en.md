@@ -4,7 +4,9 @@ date: 2021-07-22
 lastmod: '2023-07-11'
 coverImage: 'eliza-szablinska-TncriKEFStY-unsplash-scaled-1.jpg'
 author: 'rbu'
-url: '/hochzeitsplanung-wedding-planner'
+url: '/wedding-planning-wedding-planner'
+aliases:
+    - /hochzeitsplanung-wedding-planner
 color: '#eeeeee'
 seo:
     title:

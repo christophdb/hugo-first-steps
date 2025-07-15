@@ -2,7 +2,9 @@
 title: 'Gestión de flotas: cómo gestionar su flota de forma inteligente'
 date: 2024-01-09
 lastmod: '2025-02-12'
-url: '/es/fuhrparkmanagement'
+url: '/es/gestion-flotas'
+aliases:
+    - /es/fuhrparkmanagement
 seo:
     title:
     description:

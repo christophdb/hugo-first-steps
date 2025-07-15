@@ -3,7 +3,7 @@ title: 'Property management made easy: Manage real estate professionally'
 date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
-url: '/property-management'
+url: '/property-management-house'
 seo:
     title:
     description:

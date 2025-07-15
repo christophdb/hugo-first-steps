@@ -3,7 +3,9 @@ title: 'Património digital: como gerir os seus dados de acesso'
 date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
-url: '/pt/digitaler-nachlass'
+url: '/pt/legado-digital'
+aliases:
+    - /pt/digitaler-nachlass
 seo:
     title:
     description:

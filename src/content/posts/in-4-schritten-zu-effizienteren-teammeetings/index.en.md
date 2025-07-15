@@ -4,7 +4,9 @@ date: 2021-10-21
 lastmod: '2024-08-09'
 coverImage: 'pexels-fauxels-3184638-scaled-1.jpg'
 author: 'ott'
-url: '/in-4-schritten-zu-effizienteren-teammeetings'
+url: '/more-efficient-team-meetings-4-steps'
+aliases:
+    - /in-4-schritten-zu-effizienteren-teammeetings
 color: '#eeeeee'
 seo:
     title:

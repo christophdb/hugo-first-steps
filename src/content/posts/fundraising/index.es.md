@@ -2,7 +2,9 @@
 title: 'Recaudación de fondos: Cómo recaudar y gestionar donativos - SeaTable'
 date: 2024-04-16
 lastmod: '2024-04-16'
-url: '/es/fundraising'
+url: '/es/recaudacion-fondos'
+aliases:
+    - /es/fundraising
 seo:
     title:
     description:

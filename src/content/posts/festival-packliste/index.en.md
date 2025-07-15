@@ -4,7 +4,9 @@ date: 2024-03-13
 lastmod: '2024-07-26'
 coverImage: 'group-friends-having-fun-together.jpg'
 author: 'nsc'
-url: '/festival-packliste'
+url: '/festival-packing-list'
+aliases:
+    - /festival-packliste
 color: '#eeeeee'
 seo:
     title:

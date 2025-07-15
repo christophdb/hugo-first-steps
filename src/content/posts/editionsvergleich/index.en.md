@@ -4,7 +4,9 @@ date: 2022-02-03
 lastmod: '2022-02-15'
 coverImage: 'developer-or-enterprise-edition-1.jpg'
 author: 'cdb'
-url: '/editionsvergleich'
+url: '/compare-editions'
+aliases:
+    - /editionsvergleich
 color: '#eeeeee'
 seo:
     title:

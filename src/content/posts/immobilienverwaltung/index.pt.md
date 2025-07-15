@@ -3,7 +3,9 @@ title: 'Propriedade: 4 modelos úteis para inquilinos e senhorios'
 date: 2022-04-17
 lastmod: '2023-11-06'
 author: 'cdb'
-url: '/pt/immobilienverwaltung'
+url: '/pt/gestao-imobiliaria'
+aliases:
+    - /pt/immobilienverwaltung
 seo:
     title:
     description:

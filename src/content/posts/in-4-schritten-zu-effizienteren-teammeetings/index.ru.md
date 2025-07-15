@@ -3,7 +3,9 @@ title: '4 шага к более эффективным командным со�
 date: 2021-10-21
 lastmod: '2024-08-09'
 author: 'ott'
-url: '/ru/in-4-schritten-zu-effizienteren-teammeetings'
+url: '/ru/bolee-effektivnye-komandnye-vstrechi-4-shaga'
+aliases:
+    - /ru/in-4-schritten-zu-effizienteren-teammeetings
 color: '#eeeeee'
 seo:
     title:

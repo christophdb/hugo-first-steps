@@ -4,7 +4,9 @@ date: 2022-04-17
 lastmod: '2023-11-06'
 coverImage: 'seatable-immobilien-vorlagen.jpg'
 author: 'cdb'
-url: '/immobilienverwaltung'
+url: '/property-management'
+aliases:
+    - /immobilienverwaltung
 seo:
     title:
     description:

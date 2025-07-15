@@ -3,7 +3,9 @@ title: 'Cómo hacerlo: Cómo crear un plan de acción para todo el año - SeaTab
 date: 2021-05-04
 lastmod: '2023-07-11'
 author: 'ott'
-url: '/es/how-to-massnahmenplan'
+url: '/es/como-hacer-plan-accion'
+aliases:
+    - /es/how-to-massnahmenplan
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Цифровое имущество: как управлять данн�
 date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
-url: '/ru/digitaler-nachlass'
+url: '/ru/tsifroye-nasledstvo'
+aliases:
+    - /ru/digitaler-nachlass
 seo:
     title:
     description:

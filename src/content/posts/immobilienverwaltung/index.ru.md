@@ -3,7 +3,9 @@ title: 'Недвижимость: 4 полезных шаблона для ар�
 date: 2022-04-17
 lastmod: '2023-11-06'
 author: 'cdb'
-url: '/ru/immobilienverwaltung'
+url: '/ru/upravlenie-nedvizhimostyu'
+aliases:
+    - /ru/immobilienverwaltung
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: 'Achats indirects : simples et économiques avec SeaTable - SeaTable'
 date: 2021-11-19
 lastmod: '2023-07-11'
 author: 'ott'
-url: '/fr/indirekter-einkauf'
+url: '/fr/achat-indirect'
+aliases:
+    - /fr/indirekter-einkauf/
 color: '#eeeeee'
 seo:
     title:

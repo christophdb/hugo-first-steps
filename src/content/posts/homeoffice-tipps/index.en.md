@@ -4,7 +4,9 @@ date: 2020-09-17
 lastmod: '2022-06-13'
 coverImage: 'markus-winkler-TRcaFMV5vk-unsplash-scaled-1.jpg'
 author: 'rbu'
-url: '/homeoffice-tipps'
+url: '/home-office-tips'
+aliases:
+    - /homeoffice-tipps
 color: '#eeeeee'
 seo:
     title:

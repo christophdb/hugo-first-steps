@@ -3,7 +3,9 @@ title: 'Gestão de propriedades facilitada: Gestão profissional de propriedades
 date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
-url: '/pt/hausverwaltung'
+url: '/pt/administracao-predios'
+aliases:
+    - /pt/hausverwaltung
 seo:
     title:
     description:

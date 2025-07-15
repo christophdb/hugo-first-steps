@@ -2,7 +2,9 @@
 title: 'Festa de revelação do sexo: como fazer da festa do bebé um sucesso'
 date: 2024-02-16
 lastmod: '2024-02-16'
-url: '/pt/gender-reveal-party'
+url: '/pt/cha-revelacao'
+aliases:
+    - /pt/gender-reveal-party
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: 'Идеальное планирование свадьбы с SeaTable -
 date: 2021-07-22
 lastmod: '2023-07-11'
 author: 'rbu'
-url: '/ru/hochzeitsplanung-wedding-planner'
+url: '/ru/organizatsiya-svadby-wedding-planner'
+aliases:
+    - /ru/hochzeitsplanung-wedding-planner
 color: '#eeeeee'
 seo:
     title:

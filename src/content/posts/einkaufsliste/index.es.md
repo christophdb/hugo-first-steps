@@ -3,7 +3,9 @@ title: 'Lista de la compra y aplicación: comparativa de 7 listas de la compra d
 date: 2024-02-05
 lastmod: '2024-02-05'
 author: 'nsc'
-url: '/es/einkaufsliste'
+url: '/es/lista-compras'
+aliases:
+    - /es/einkaufsliste
 seo:
     title:
     description:

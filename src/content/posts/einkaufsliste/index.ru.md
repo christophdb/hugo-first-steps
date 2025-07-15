@@ -3,7 +3,9 @@ title: 'Список покупок и приложение: 7 цифровых 
 date: 2024-02-05
 lastmod: '2024-02-05'
 author: 'nsc'
-url: '/ru/einkaufsliste'
+url: '/ru/spisok-pokupok'
+aliases:
+    - /ru/einkaufsliste
 seo:
     title:
     description:
