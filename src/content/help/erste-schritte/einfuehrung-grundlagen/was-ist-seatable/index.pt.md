@@ -39,7 +39,7 @@ Por exemplo, um primeiro clique coloca as datas de um evento num calendário, um
 
 Trabalham em **conjunto e em tempo real em** todas as coisas que organizam no SeaTable. Novas entradas e alterações são imediatamente exibidas para cada utilizador - você e a sua equipa estão sempre actualizados.
 
-Quer fazer um comentário sobre uma linha? Então simplesmente deixe lá um [comentário]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})! Desta forma é sempre claro do que está a falar, e mesmo meses mais tarde não tem de pensar em quando, onde e através de que canal trocou ideias com os seus colegas.
+Quer fazer um comentário sobre uma linha? Então simplesmente deixe lá um [comentário]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})! Desta forma é sempre claro do que está a falar, e mesmo meses mais tarde não tem de pensar em quando, onde e através de que canal trocou ideias com os seus colegas.
 
 Pode [partilhar bases, tabelas e pontos de vista]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) com outros utilizadores ou grupos inteiros em qualquer altura. Ao atribuir permissões de utilizador individuais, mantém o controlo sobre quem está autorizado a fazer o quê e quem não está autorizado a fazer o quê.
 

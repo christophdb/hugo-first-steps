@@ -3,7 +3,9 @@ title: 'Gestion des connaissances : comment rendre les connaissances utilisables
 date: 2024-08-09
 lastmod: '2024-08-09'
 author: 'lsc'
-url: '/fr/wissensmanagement'
+url: '/fr/gestion-des-connaissances'
+aliases:
+    - /fr/wissensmanagement
 seo:
     title:
     description:
@@ -190,7 +192,7 @@ La base de connaissances **SeaTable**, intuitive et simple d'utilisation **,** e
 
 ![Documenter les connaissances est une tâche simple avec SeaTable](knowledge-management.jpg)
 
-En choisissant SeaTable, vous offrez à vos collaborateurs une boîte à outils complète qui leur permet de créer une base de connaissances flexible. SeaTable permet une [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) en temps réel, avec [des commentaires]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) et [un historique]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) complet [des modifications]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). Vous et vos collaborateurs pouvez ainsi transformer vos connaissances personnelles implicites en connaissances explicites et les mettre à la disposition des autres. SeaTable vous permet également de visualiser graphiquement les données à l'aide de différents [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) et [applications]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
+En choisissant SeaTable, vous offrez à vos collaborateurs une boîte à outils complète qui leur permet de créer une base de connaissances flexible. SeaTable permet une [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) en temps réel, avec [des commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) et [un historique]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) complet [des modifications]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}). Vous et vos collaborateurs pouvez ainsi transformer vos connaissances personnelles implicites en connaissances explicites et les mettre à la disposition des autres. SeaTable vous permet également de visualiser graphiquement les données à l'aide de différents [plug-ins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) et [applications]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}).
 
 Vous pouvez utiliser SeaTable dans le cloud, qui est hébergé dans des centres de données allemands conformément au RGPD, ou l'installer [sur site]({{< relref "pages/product/seatable-server" >}}) sur vos propres serveurs. Vos données sont ainsi sécurisées dans tous les cas ! Les autorisations vous permettent en outre de contrôler précisément qui peut voir et traiter quelles données à de nombreux endroits de SeaTable.
 

@@ -3,7 +3,9 @@ title: 'Créer un sondage : comparaison de 7 outils populaires'
 date: 2024-02-21
 lastmod: '2024-03-05'
 author: 'nsc'
-url: '/fr/umfrage-erstellen'
+url: '/fr/creer-sondage'
+aliases:
+    - /fr/umfrage-erstellen
 seo:
     title:
     description:

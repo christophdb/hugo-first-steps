@@ -104,6 +104,6 @@ Esta tabela também utiliza informações de outras tabelas. Os números das enc
 
 A organização do escritório, e especialmente a encomenda de bens internos, pode rapidamente tornar-se uma trivialidade, mas é importante e mantém o negócio a funcionar. O modelo mostrado neste post do blog pode ser encontrado directamente no SeaTable. Ao criar uma nova base, basta seleccionar a opção: _Comece com o modelo_ e encontrará este modelo na área **Operações**.
 
-Com SeaTable tem ao seu lado uma ferramenta poderosa que lhe pode fornecer um excelente apoio neste e em muitos outros processos. Por exemplo, pode utilizá-lo para organizar a [gestão da]({{< relref "posts/crm-angebotsmanagement" >}}) sua [oferta CRM]({{< relref "posts/crm-angebotsmanagement" >}}), [construir digitalmente]({{< relref "templates/product-design/digital-product-management" >}}) a sua [gestão de produtos]({{< relref "templates/product-design/digital-product-management" >}}) ou [planear workshops internos]({{< relref "posts/workshop-planen" >}}).
+Com SeaTable tem ao seu lado uma ferramenta poderosa que lhe pode fornecer um excelente apoio neste e em muitos outros processos. Por exemplo, pode utilizá-lo para organizar a [gestão da]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto) sua [oferta CRM]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto) ou [planear workshops internos]({{< relref "posts/workshop-planen" >}}).
 
 Experimente o nosso modelo e [registe-se]({{< relref "pages/registration" >}})! O SeaTable é gratuito na versão básica.

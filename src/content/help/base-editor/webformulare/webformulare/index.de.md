@@ -18,7 +18,7 @@ Das klassische Webformular ist ideal für **Online-Umfragen** und die strukturie
 
 Webformulare beziehen sich immer auf eine **Tabelle** in der geöffneten Base. Daher müssen Sie zunächst die relevante Tabelle und Ansicht öffnen, bevor Sie ein Formular anlegen. In jeder Base können Sie eine **beliebige Anzahl** an Webformularen erstellen und speichern.
 
-## Klassisches Formular erstellen
+## Formular erstellen
 
 Öffnen Sie die Formularverwaltung über die Schaltfläche {{< seatable-icon icon="dtable-icon-form" >}} **Webformulare** oben rechts im Base-Header. Die Formularverwaltung präsentiert sich Ihnen als leere Liste, wenn in der Base noch keine Formulare angelegt wurden. Ansonsten werden die schon bestehenden Formulare in dem geöffneten Fenster angezeigt.
 
@@ -64,7 +64,7 @@ Im Entwurf können Sie jedes Feld anklicken, wodurch Sie zu den **Feldeinstellun
 
 Um zu prüfen, wie das Formular für den Empfänger aussieht, klicken Sie oben rechts auf die Schaltfläche **Webformular Seite**. In einem neuen Tab öffnet sich dann das Formular so, wie es ein anderer Benutzer sehen würde.
 
-### Formular freigeben
+## Formular freigeben
 
 Um das Formular anderen zugänglich zu machen, benötigen Sie einen **Link**. Den Link für das Formular erhalten Sie im Webformular-Editor über die Schaltfläche {{< seatable-icon icon="dtable-icon-share" >}} **Freigeben**. Sie können den **automatisch generierten Link** nutzen oder **eigene Links** erstellen und diese mit [vorbefüllten Werten]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}) erweitern.
 
@@ -74,7 +74,7 @@ Um das Formular anderen zugänglich zu machen, benötigen Sie einen **Link**. De
 
 Bevor Sie den Formularlink nun versenden bzw. öffentlich zugänglich machen, sollten Sie das Formular ausgiebig testen.
 
-### Formular testen
+## Formular testen
 
 Umfangreiche Tests vermeiden Frustration auf Seiten der Empfänger. Probleme können durch Mehrdeutigkeiten oder Konflikte im Formular verursacht werden. Im schlimmsten Fall lässt sich ein Formular nicht absenden, weil ein Pflichtfeld nicht ausgefüllt werden kann (z. B. wenn für eine Einfachauswahl keine Werte definiert sind).
 
@@ -84,10 +84,10 @@ Umfangreiche Tests vermeiden Frustration auf Seiten der Empfänger. Probleme kö
 
 In das Formular eingegebene Werte werden in der verknüpften Tabelle abgespeichert. Vergessen Sie nicht, die Testdaten vor der späteren Datenerhebung wieder aus der Tabelle zu löschen.
 
-### Formular anpassen
+## Formular anpassen
 
 Sie können Webformulare jederzeit mithilfe des Webformular-Editors anpassen. Um in den Editor zurückzukehren, rufen Sie die Formularverwaltung auf, bewegen den Mauszeiger auf den Namen des Formulars und klicken dann rechts neben dem Namen auf das **Stift-Icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 
-### Formular löschen
+## Formular löschen
 
 Sie können Webformulare jederzeit über die Formularverwaltung löschen. Bewegen Sie den Mauszeiger auf den Namen des Formulars und klicken Sie dann rechts neben dem Namen auf das **Papierkorb-Icon** {{< seatable-icon icon="dtable-icon-delete" >}}.

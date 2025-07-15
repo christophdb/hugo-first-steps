@@ -4,7 +4,9 @@ date: 2021-01-27
 lastmod: '2023-07-11'
 coverImage: 'ventil-verlag.jpg'
 author: 'cdb'
-url: '/ventil-verlag'
+url: '/ventil-publishing'
+aliases:
+    - /ventil-verlag
 color: '#eeeeee'
 seo:
     title:

@@ -12,6 +12,8 @@ url: '/help/seitenberechtigungen-in-einer-universellen-app'
 
 To precisely control **access to your data**, you can set **individual page permissions for** each page you have created in a Universal App. You edit the permissions through the page settings.
 
+{{< warning type="warning" headline="Default page permissions" text="When you create **new pages** in your app, they initially grant all available permissions to all users. However, if you want to restrict the usage rights, you will need to adjust the page permissions." />}}
+
 ## Set and edit page permissions
 
 1. Open a **Base** to which you have already added a Universal App.

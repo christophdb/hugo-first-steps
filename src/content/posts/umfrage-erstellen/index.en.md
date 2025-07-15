@@ -4,7 +4,9 @@ date: 2024-02-21
 lastmod: '2024-03-05'
 coverImage: 'feedback-kommentar-umfrage-support-antwortleiste-wort.jpg'
 author: 'nsc'
-url: '/umfrage-erstellen'
+url: '/create-survey'
+aliases:
+    - /umfrage-erstellen
 seo:
     title:
     description:

@@ -16,7 +16,7 @@ url: '/ru/pomoshch/bases'
 - [Более 20 типов столбцов]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}), охватывающих все распространенные форматы данных
 - Различные [варианты совместного использования для]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) легкого обмена данными
 - [Совместная работа]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) с другими пользователями и передача всех изменений в режиме реального времени
-- [Функция комментария для]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) каждой записи в ряду
+- [Функция комментария для]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) каждой записи в ряду
 - Полная [версионность]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) всех изменений
 - Встроенный [редактор веб-форм]({{< relref "help/base-editor/webformulare/webformulare" >}}) и графические [плагины]({{< relref "help/base-editor/ansichten" >}})
 - Простые возможности интеграции благодаря REST API

@@ -105,6 +105,6 @@ This table also uses information from other tables. The order numbers, for examp
 
 Office organisation, and especially the ordering of internal goods, can quickly become a triviality, yet it is important and keeps the business running. The template shown in this blog post can be found directly in SeaTable. When creating a new base, simply select the option: _Start with template_ and you will find this template in the **Operations** area.
 
-With SeaTable you have a powerful tool at your side that can provide you with excellent support in this and many other processes. For example, you can use it to organise your [CRM offer management]({{< relref "posts/crm-angebotsmanagement" >}}), [build]({{< relref "templates/product-design/digital-product-management" >}}) your [product management digitally]({{< relref "templates/product-design/digital-product-management" >}}) or [plan internal workshops]({{< relref "posts/workshop-planen" >}}).
+With SeaTable you have a powerful tool at your side that can provide you with excellent support in this and many other processes. For example, you can use it to organise your [CRM offer management]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto), or [plan internal workshops]({{< relref "posts/workshop-planen" >}}).
 
 Try out our template and [register]({{< relref "pages/registration" >}})! SeaTable is free of charge in the basic version.

@@ -66,7 +66,7 @@ Die Agenda hilft außerdem dabei, sich entsprechend auf das Meeting vorzubereite
 
 ![Die Chat-Funktion macht E-Mails überflüssig ](Chat-Funktion.png)
 
-Die [Chat-Funktion]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) in jeder Zeile, also in jedem einzelnen Teammeeting, ermöglicht eine unkomplizierte und schlanke Kommunikation, die jegliche E-Mails erübrigen. Beim Öffnen einer Zeile (Klicken auf die kleinen blauen Pfeilchen links in der Zeile) öffnet sich eine Gesamtansicht des Meetings. Rechts darin befindet sich der Chat, indem Sie einfach Mitarbeiter hinzufügen und wichtige Nachrichten schreiben können, wie zum Beispiel dass Mitarbeiter Müller bitte die Zwischenpräsentation mit dem Jahresrückblick hochladen soll.
+Die [Chat-Funktion]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) in jeder Zeile, also in jedem einzelnen Teammeeting, ermöglicht eine unkomplizierte und schlanke Kommunikation, die jegliche E-Mails erübrigen. Beim Öffnen einer Zeile (Klicken auf die kleinen blauen Pfeilchen links in der Zeile) öffnet sich eine Gesamtansicht des Meetings. Rechts darin befindet sich der Chat, indem Sie einfach Mitarbeiter hinzufügen und wichtige Nachrichten schreiben können, wie zum Beispiel dass Mitarbeiter Müller bitte die Zwischenpräsentation mit dem Jahresrückblick hochladen soll.
 
 Der getaggte Mitarbeiter bekommt eine automatische Benachrichtigung per Mail über die Chatnachricht und kann dann im Chat selbst einfach darauf antworten. So können im Vorfeld fragen geklärt, Materialien eingesammelt oder oder andere wichtige Informationen ausgetauscht werden. Alles wird transparent und nachvollziehbar gesammelt, sodass alle mit im Boot sind und Verantwortlichkeiten klar abgegrenzt sind.
 

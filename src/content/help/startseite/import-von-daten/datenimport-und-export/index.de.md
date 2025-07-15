@@ -15,7 +15,7 @@ Wie Sie Bases und Tabellen aus SeaTable exportieren und in SeaTable importieren 
 ## Base exportieren
 
 Über die **Startseite** können Sie den aktuellen Stand Ihrer Bases inklusive aller Tabellen, [Ansichten]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}
-), [Webformulare]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) und [Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) sowie [Daten im Big Data Backend]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) werden ebenfalls **nicht exportiert**.
+), [Webformulare]({{< relref "help/base-editor/webformulare/webformulare" >}}) und Plugins exportieren. [Kommentare]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), [Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) und die [Veränderungshistorie]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) sowie [Daten im Big Data Backend]({{< relref "help/base-editor/big-data/potenzial-big-data" >}}) werden **nicht exportiert**.
 
 ![Export von Bases](images/export-bases.png)
 
@@ -23,7 +23,7 @@ Für den Export von Bases verwendet SeaTable das [DTABLE-Dateiformat]({{< relref
 
 ## Tabelle exportieren
 
-Sie können aus jeder Base, auf die Sie Zugriff haben, einzelne **Tabellen in Excel-Dateien exportieren**. Die Inhalte von text- und zahlenbasierten Spalten werden dabei als Werte in die Zieldatei kopiert. Inhalte vom Typ [Formatierter Text]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}), [Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) und die [Veränderungshistorie]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) werden **nicht exportiert**.
+Sie können aus jeder Base, auf die Sie Zugriff haben, einzelne **Tabellen in Excel-Dateien exportieren**. Die Inhalte von text- und zahlenbasierten Spalten werden dabei als Werte in die Zieldatei kopiert. [Kommentare]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}), [Automationen]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) und die [Veränderungshistorie]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) werden **nicht exportiert**.
 
 ![Export von Tabellen](images/export-tables.jpg)
 

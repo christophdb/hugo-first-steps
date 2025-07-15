@@ -26,7 +26,7 @@ When you retrieve a table from the Trash, it is restored exactly as it looked wh
 
 - Table data
 - [Table views]({{< relref "help/base-editor/ansichten" >}})
-- [Comments]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})
 - [Forms]({{< relref "help/base-editor/webformulare" >}})
 - Automations
 - Representations and evaluations in the plugins of SeaTable

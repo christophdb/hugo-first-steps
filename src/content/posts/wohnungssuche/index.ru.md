@@ -3,7 +3,9 @@ title: 'Поиск жилья - 10 советов о том, как найти �
 date: 2023-12-18
 lastmod: '2023-12-18'
 author: 'nsc'
-url: '/ru/wohnungssuche'
+url: '/ru/poisk-kvartiry'
+aliases:
+    - /ru/wohnungssuche
 seo:
     title:
     description:

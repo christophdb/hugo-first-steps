@@ -104,6 +104,6 @@ Esta tabla también utiliza información de otras tablas. Los números de pedido
 
 La organización de la oficina, y especialmente el pedido de productos internos, puede convertirse rápidamente en una trivialidad, pero es importante y mantiene la empresa en funcionamiento. La plantilla que se muestra en esta entrada del blog se puede encontrar directamente en SeaTable. Al crear una nueva base, simplemente seleccione la opción: _Comenzar con la plantilla_ y encontrará esta plantilla en el área de **Operaciones**.
 
-Con SeaTable tiene a su lado una poderosa herramienta que puede proporcionarle un excelente apoyo en este y muchos otros procesos. Por ejemplo, puede utilizarlo para organizar la [gestión de su oferta de CRM]({{< relref "posts/crm-angebotsmanagement" >}}), [construir]({{< relref "templates/product-design/digital-product-management" >}}) su [gestión de productos de forma digital]({{< relref "templates/product-design/digital-product-management" >}}) o [planificar talleres internos]({{< relref "posts/workshop-planen" >}}).
+Con SeaTable tiene a su lado una poderosa herramienta que puede proporcionarle un excelente apoyo en este y muchos otros procesos. Por ejemplo, puede utilizarlo para organizar la [gestión de su oferta de CRM]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto) o [planificar talleres internos]({{< relref "posts/workshop-planen" >}}).
 
 Pruebe nuestra plantilla y [regístrese]({{< relref "pages/registration" >}}). SeaTable es gratuito en su versión básica.

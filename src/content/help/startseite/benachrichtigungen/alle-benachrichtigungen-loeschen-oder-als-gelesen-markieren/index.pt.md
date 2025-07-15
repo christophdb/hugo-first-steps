@@ -52,6 +52,6 @@ Pode aceder às notificações tanto a partir da página **inicial do** SeaTable
 
 {{< warning  headline="Nota importante" >}}
 
-É favor notar que depende do **conteúdo de** uma notificação, onde é exibida exactamente. Por exemplo, as notificações relativas a lançamentos são sempre exibidas na página **inicial**, enquanto as notificações resultantes de [automatizações]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) ou [entradas de colunas de pessoal]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) são exibidas na respectiva **base**.
+Tenha em atenção que depende do **conteúdo** de uma notificação onde exatamente é exibida. As notificações para bases compartilhadas, por exemplo, são sempre exibidas na **Página inicial**, enquanto as notificações resultantes de automações, comentários ou entradas de colunas de empregados são exibidas na respectiva **Base** e os comentários de aplicações na respectiva **App**.
 
 {{< /warning >}}

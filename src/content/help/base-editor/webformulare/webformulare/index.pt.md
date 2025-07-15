@@ -18,7 +18,7 @@ O formulário web clássico é ideal para **inquéritos em linha** e recolha est
 
 Os formulários da Web referem-se sempre a uma **tabela** na Base aberta. Por conseguinte, é necessário primeiro abrir a tabela relevante e visualizar antes de criar um formulário. Pode criar e guardar **qualquer número** de formulários da Web em cada base.
 
-## Criar formulário clássico
+## Criar um formulário
 
 Abrir a gestão de formulários através do botão {{< seatable-icon icon="dtable-icon-form" >}} **Forms** no canto superior direito do cabeçalho da Base. Se ainda não tiverem sido criados formulários na base, a gestão de formulários aparecerá como uma lista vazia. Caso contrário, os formulários existentes são apresentados na janela aberta.
 
@@ -64,7 +64,7 @@ No rascunho, pode clicar em cada campo, o que o levará às **definições do ca
 
 Para verificar o aspecto do formulário para o destinatário, clicar no botão **Webform Page**, no canto superior direito. O formulário abre-se então num novo separador, como outro utilizador o veria.
 
-### Partilhar o formulário
+## Partilhar o formulário
 
 Para tornar o formulário acessível a outras pessoas, é necessário um **link**. Pode obter a ligação para o formulário no editor de formulários Web através do botão {{< seatable-icon icon="dtable-icon-share" >}} **Partilhar**. Pode utilizar a **ligação gerada automaticamente** ou criar as **suas próprias ligações** e alargá-las com [valores pré-preenchidos]({{< relref "help/base-editor/webformulare/formularfelder-per-url-vorbefuellen" >}}).
 
@@ -74,7 +74,7 @@ Para tornar o formulário acessível a outras pessoas, é necessário um **link*
 
 Antes de enviar a hiperligação do formulário ou de o tornar acessível ao público, deve testar exaustivamente o formulário.
 
-### Testar o formulário
+## Testar o formulário
 
 Os testes exaustivos evitam a frustração por parte dos beneficiários. Os problemas podem ser causados por ambiguidades ou conflitos na sua forma. No pior dos casos, um formulário não pode ser submetido porque um campo obrigatório não pode ser preenchido (por exemplo, se não forem definidos valores para uma única escolha).
 
@@ -84,10 +84,10 @@ Abrir o formulário web para testes. A partir do editor do formulário web, isto
 
 Os valores introduzidos no formulário são guardados na tabela ligada. Não se esqueça de apagar novamente os dados do teste da tabela antes de recolher os dados mais tarde.
 
-### Editar o formulário
+## Editar o formulário
 
 Pode editar formulários web em qualquer altura, utilizando o editor de formulários web. Para voltar ao editor, chamar a administração do formulário, mover o ponteiro do rato sobre o nome do formulário e depois clicar no **ícone do lápis** à direita do nome {{< seatable-icon icon="dtable-icon-rename" >}}.
 
-### Eliminar o formulário
+## Eliminar o formulário
 
 Pode apagar formulários web a qualquer momento através da administração de formulários. Mova o ponteiro do rato para o nome do formulário e depois clique no **ícone da lixeira** à direita do nome {{< seatable-icon icon="dtable-icon-delete" >}}.

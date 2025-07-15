@@ -3,7 +3,9 @@ title: 'Bases de données - 5 avantages par rapport aux tableaux simples'
 date: 2021-03-30
 lastmod: '2024-03-22'
 author: 'cdb'
-url: '/fr/vorteile-von-datenbanken'
+url: '/fr/avantages-bases-donnees'
+aliases:
+    - /fr/vorteile-von-datenbanken
 color: '#eeeeee'
 seo:
     title:

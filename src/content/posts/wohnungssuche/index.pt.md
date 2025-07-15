@@ -3,7 +3,9 @@ title: 'Procura de casa - 10 dicas para encontrar um apartamento'
 date: 2023-12-18
 lastmod: '2023-12-18'
 author: 'nsc'
-url: '/pt/wohnungssuche'
+url: '/pt/busca-apartamento'
+aliases:
+    - /pt/wohnungssuche
 seo:
     title:
     description:

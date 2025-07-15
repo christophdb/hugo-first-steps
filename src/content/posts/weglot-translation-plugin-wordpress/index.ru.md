@@ -3,7 +3,9 @@ title: 'Как автоматически перевести ваш сайт с 
 date: 2022-03-21
 lastmod: '2022-04-05'
 author: 'cdb'
-url: '/ru/weglot-translation-plugin-wordpress'
+url: '/ru/weglot-plagin-perevoda-wordpress'
+aliases:
+    - /ru/weglot-translation-plugin-wordpress
 color: '#eeeeee'
 seo:
     title:

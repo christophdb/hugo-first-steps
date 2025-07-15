@@ -4,7 +4,9 @@ date: 2024-10-28
 lastmod: '2024-11-20'
 coverImage: 'Gruen-Pink-Orange-Infografik-5-Schritte-Online-Business-Instagram-Post-e1722850146731.png'
 author: 'lsc'
-url: '/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
+url: '/christmas-gifts-for-employees-and-clients'
+aliases:
+    - /weihnachtsgeschenke-fuer-mitarbeiter-und-kunden
 seo:
     title:
     description:

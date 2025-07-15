@@ -26,7 +26,7 @@ Lorsque vous récupérez un tableau dans la corbeille, il est restauré exacteme
 
 - Données du tableau
 - [Vues des tableaux]({{< relref "help/base-editor/ansichten" >}})
-- [Commentaires]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Commentaires]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})
 - [Formulaires web]({{< relref "help/base-editor/webformulare" >}})
 - Automatismes
 - Représentations et évaluations dans les plugins de SeaTable

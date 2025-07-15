@@ -3,7 +3,9 @@ title: 'Como desenvolver um frontend para a sua própria aplicação SeaTable co
 date: 2022-09-27
 lastmod: '2022-09-27'
 author: 'cdb'
-url: '/pt/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
+url: '/pt/seatable-app-frontend-php'
+aliases:
+    - /pt/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
 color: '#eeeeee'
 seo:
     title:

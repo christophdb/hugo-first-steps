@@ -3,7 +3,9 @@ title: 'Prendas de Natal para empregados e clientes - 24 ideias'
 date: 2024-10-28
 lastmod: '2024-11-20'
 author: 'lsc'
-url: '/pt/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden'
+url: '/pt/presentes-natal-para-colaboradores-e-clientes'
+aliases:
+    - /pt/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden
 seo:
     title:
     description:

@@ -104,6 +104,6 @@ Ce tableau utilise également des informations provenant d'autres tableaux. Les 
 
 L'organisation du bureau, et notamment la commande de marchandises internes, peut rapidement devenir secondaire, alors qu'elle est importante et permet de maintenir l'activité. Le modèle de cet article de blog se trouve directement dans SeaTable. Lors de la création d'une nouvelle base, il suffit de sélectionner l'option : _Démarrer avec un modèle_ et vous trouverez ce modèle dans la section **Opérations**.
 
-Avec SeaTable, vous disposez d'un outil puissant qui peut vous aider dans ce processus et dans bien d'autres. Vous pouvez par exemple l'utiliser pour organiser votre [gestion des offres CRM]({{< relref "posts/crm-angebotsmanagement" >}}), pour [mettre en place une gestion numérique des produits]({{< relref "templates/product-design/digital-product-management" >}}) ou pour [planifier des ateliers internes]({{< relref "posts/workshop-planen" >}}).
+Avec SeaTable, vous disposez d'un outil puissant qui peut vous aider dans ce processus et dans bien d'autres. Vous pouvez par exemple l'utiliser pour organiser votre [gestion des offres CRM]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto), ou pour [planifier des ateliers internes]({{< relref "posts/workshop-planen" >}}).
 
 Essayez notre modèle et [inscrivez-vous]({{< relref "pages/registration" >}})! SeaTable est gratuit dans sa version de base.

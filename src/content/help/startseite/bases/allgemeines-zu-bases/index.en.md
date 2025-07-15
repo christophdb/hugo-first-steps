@@ -16,7 +16,7 @@ At first glance, a Base is just a **container** for one or more **tables**. From
 - [Over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) covering all common data formats
 - Various [sharing options for]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}})
 - Real-time [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) with other users and real-time transmission of all changes
-- A [comment function for]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}}) each record in a row
+- A [comment function for]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) each record in a row
 - Complete [versioning]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}) all changes
 - An integrated [web form editor]({{< relref "help/base-editor/webformulare/webformulare" >}}) and graphical [plugins]({{< relref "help/base-editor/ansichten" >}})
 - Simple integration options thanks to REST API

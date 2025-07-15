@@ -133,7 +133,7 @@ sections:
     text: "Apps selbst erstellen – maßgeschneidert für Ihr Geschäftsmanagement, Ihre Kundenbindung und vieles mehr, perfekt auf die Bedürfnisse Ihres Unternehmens abgestimmt."
     icon: "sun"
   - headline: "Kosteneffektiv"
-    text: "Apps selbst erstellen – maßgeschneidert für Ihr Geschäftsmanagement, Ihre Kundenbindung und vieles mehr, perfekt auf die Bedürfnisse Ihres Unternehmens abgestimmt."
+    text: "Beginnen Sie kostenlos mit der Erstellung Ihrer Datenbank und der Entwicklung Ihrer Anwendung – und skalieren Sie, wenn Ihr Team wächst. Keine versteckten Kosten."
     icon: "bomb"
   - headline: "Benutzerfreundlich"
     text: "Unsere Low-Code/No-Code Plattform ist sowohl für Programmierer als auch für Citizen Developer konzipiert und macht die App-Erstellung für alle zugänglich."
@@ -247,7 +247,7 @@ sections:
   title: Häufig gestellte Fragen zur SeaTable No-Code-Lösung
   items:
   - q: "Wie erstelle ich eine App?"
-    a: "Unsere Plattform bietet Ihnen alle Features, die Sie benötigen, um eine App von Grund auf ohne Programmierkenntnisse zu erstellen. "
+    a: "Unsere Plattform bietet Ihnen alle Features, die Sie benötigen, um eine App von Grund auf ohne Programmierkenntnisse zu erstellen."
   - q: "Ist die Nutzung der No-Code / Low-Code Plattform kostenlos?"
     a: "Ja, Sie können unsere Grundfunktionen kostenlos nutzen und später auf erweiterte Funktionen upgraden."
   - q: "Welches Preismodell hat SeaTable?"
@@ -271,7 +271,7 @@ sections:
   - text: "Sie behalten stets die Kontrolle über Ihre Informationen und können sicher sein, dass Ihre Daten gemäß den neuesten Datenschutzstandards verwaltet werden.
     Die SeaTable No-Code Plattform gewährleistet, dass Ihre Daten sicher und konform mit den geltenden Datenschutzbestimmungen gespeichert werden."
   - text: "Die SeaTable Cloud wird in zertifizierten deutschen Rechenzentren einer Schweizer Anbieters gehostet. Die Registrierung dauert nur wenige Sekunden."
-  - text: "Bei Ihrem eigenen Server entscheiden Sie, wo SeaTable Ihre Daten speicher. Sie haben die volle Datenhoheit."
+  - text: "Bei Ihrem eigenen Server entscheiden Sie, wo SeaTable Ihre Daten speichert. Sie haben die volle Datenhoheit."
   buttons:
   - label: "Erfahren Sie mehr über die verschiedenen Versionen"
     link: "pages/product/overview"
@@ -286,7 +286,7 @@ sections:
 - name: "form-contact"
   weight: 16
   subtitle: Kontaktieren Sie uns
-  title: Lassen Sie uns Ihre Prozess-digitalisierung vorantreiben.
+  title: Lassen Sie uns Ihre Prozess-digitalisierung vorantreiben
   description: Unser Team steht Ihnen zur Verfügung, rund um Fragen zu No Code Plattformen, Programmieren ohne Code und Low-Code-Lösungen mit SeaTable. Wir helfen Ihnen, die beste Lösung für Ihr Unternehmen und Ihren Anwendungsfall zu finden. Entdecken Sie noch heute die transformative Power der SeaTable No-Code Digital Solution!
   submit_message: Nachricht schicken
 

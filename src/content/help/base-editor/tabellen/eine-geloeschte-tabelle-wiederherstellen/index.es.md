@@ -26,7 +26,7 @@ Cuando recuperas una tabla de la papelera de reciclaje, se restaura exactamente 
 
 - Datos de la tabla
 - [Vistas de la tabla]({{< relref "help/base-editor/ansichten" >}})
-- [Comentarios]({{< relref "help/base-editor/zeilen/die-kommentarfunktion-in-seatable" >}})
+- [Comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}})
 - [Formularios web]({{< relref "help/base-editor/webformulare" >}})
 - Automatizaciones
 - Representaciones y evaluaciones en los plug-ins de SeaTable

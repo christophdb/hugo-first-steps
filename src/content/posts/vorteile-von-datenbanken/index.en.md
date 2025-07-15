@@ -4,7 +4,9 @@ date: 2021-03-30
 lastmod: '2024-03-22'
 coverImage: 'hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg'
 author: 'cdb'
-url: '/vorteile-von-datenbanken'
+url: '/database-benefits'
+aliases:
+    - /vorteile-von-datenbanken
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Criar um inquérito: 7 ferramentas populares em comparação'
 date: 2024-02-21
 lastmod: '2024-03-05'
 author: 'nsc'
-url: '/pt/umfrage-erstellen'
+url: '/pt/criar-pesquisa'
+aliases:
+    - /pt/umfrage-erstellen
 seo:
     title:
     description:
