@@ -3,7 +3,9 @@ title: 'Criar uma análise custo-benefício'
 date: 2024-03-04
 lastmod: '2025-02-20'
 author: 'cdb'
-url: '/pt/kosten-nutzen-analyse-vorlage'
+url: '/pt/modelo-analise-custo-beneficio'
+aliases:
+    - /pt/kosten-nutzen-analyse-vorlage
 seo:
     title:
     description:

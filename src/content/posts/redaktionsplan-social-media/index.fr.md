@@ -3,7 +3,9 @@ title: "Garder une vue d'ensemble grâce à un plan éditorial pour les médias 
 date: 2024-02-07
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/fr/redaktionsplan-social-media'
+url: '/fr/calendrier-editorial-social-media'
+aliases:
+    - /fr/reisekostenabrechnung
 color: '#eeeeee'
 seo:
     title:

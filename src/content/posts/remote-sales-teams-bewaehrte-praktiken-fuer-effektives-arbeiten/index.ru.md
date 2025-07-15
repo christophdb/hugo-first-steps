@@ -3,7 +3,9 @@ title: 'Удаленные команды продаж: лучшие практ�
 date: 2023-06-06
 lastmod: '2023-06-28'
 author: 'nsc2'
-url: '/ru/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten'
+url: '/ru/udalennye-prodazhi-komanda-effektivnaya-rabota'
+aliases:
+    - /ru/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten
 color: '#eeeeee'
 seo:
     title:

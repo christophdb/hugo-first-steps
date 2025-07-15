@@ -3,7 +3,9 @@ title: 'Отчет о командировочных расходах: все, �
 date: 2025-01-17
 lastmod: '2025-01-17'
 author: 'nsc'
-url: '/ru/reisekostenabrechnung'
+url: '/ru/avansovy-otchet-po-komandirovke'
+aliases:
+    - /ru/reisekostenabrechnung
 color: '#eeeeee'
 seo:
     title:

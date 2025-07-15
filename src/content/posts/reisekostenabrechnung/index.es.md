@@ -3,7 +3,9 @@ title: 'Informe de gastos de viaje: todo lo que necesita saber'
 date: 2025-01-17
 lastmod: '2025-01-17'
 author: 'nsc'
-url: '/es/reisekostenabrechnung'
+url: '/es/informe-gastos-viaje'
+aliases:
+    - /es/reisekostenabrechnung
 color: '#eeeeee'
 seo:
     title:

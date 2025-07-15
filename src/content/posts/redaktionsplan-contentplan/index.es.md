@@ -3,7 +3,9 @@ title: 'Crear plan editorial | plan de contenidos: Consejos y trucos con plantil
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/es/redaktionsplan-contentplan'
+url: '/es/calendario-editorial-plan-contenidos'
+aliases:
+    - /es/redaktionsplan-contentplan
 color: '#8ddb8c'
 categories:
     - 'best-practice'

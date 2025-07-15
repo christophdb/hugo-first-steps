@@ -3,7 +3,9 @@ title: 'Цифровое новаторство в сфере услуг по у
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/ru/kd-cura-pflegedienst'
+url: '/ru/kd-cura-patronazhnaya-sluzhba'
+aliases:
+    - /ru/kd-cura-pflegedienst
 color: '#eeeeee'
 seo:
     title:

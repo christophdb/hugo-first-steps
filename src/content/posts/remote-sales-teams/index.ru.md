@@ -3,7 +3,9 @@ title: '6 советов по повышению производительно�
 date: 2021-10-07
 lastmod: '2023-07-11'
 author: 'rbu'
-url: '/ru/remote-sales-teams'
+url: '/ru/udalennye-komandy-prodazh'
+aliases:
+    - /ru/remote-sales-teams
 color: '#eeeeee'
 seo:
     title:

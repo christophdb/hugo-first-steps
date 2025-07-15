@@ -3,7 +3,9 @@ title: 'Мальчишник - идеи и советы для идеально�
 date: 2024-08-06
 lastmod: '2024-08-07'
 author: 'nsc'
-url: '/ru/junggesellenabschied'
+url: '/ru/malchishnik'
+aliases:
+    - /ru/junggesellenabschied
 seo:
     title:
     description:

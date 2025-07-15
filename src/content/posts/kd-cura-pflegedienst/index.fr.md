@@ -3,7 +3,9 @@ title: 'Pionnier du numérique dans les services de soins'
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/fr/kd-cura-pflegedienst'
+url: '/fr/kd-cura-service-infirmier'
+aliases:
+    - /fr/kd-cura-pflegedienst
 color: '#eeeeee'
 seo:
     title:

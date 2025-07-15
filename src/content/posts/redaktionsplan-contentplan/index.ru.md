@@ -3,7 +3,9 @@ title: 'Создание редакционного плана | контент-
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/ru/redaktionsplan-contentplan'
+url: '/ru/redaktsionnyy-kalendar-kontent-plan'
+aliases:
+    - /ru/redaktionsplan-contentplan
 color: '#8ddb8c'
 categories:
     - 'best-practice'

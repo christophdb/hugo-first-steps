@@ -3,7 +3,9 @@ title: 'Создать анализ затрат и выгод'
 date: 2024-03-04
 lastmod: '2025-02-20'
 author: 'cdb'
-url: '/ru/kosten-nutzen-analyse-vorlage'
+url: '/ru/shablon-analiza-zatrat-i-vygod'
+aliases:
+    - /ru/kosten-nutzen-analyse-vorlage
 seo:
     title:
     description:

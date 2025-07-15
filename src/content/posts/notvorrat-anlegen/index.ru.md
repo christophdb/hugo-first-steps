@@ -3,7 +3,9 @@ title: 'Запаситесь средствами на случай чрезвы
 date: 2023-09-20
 lastmod: '2023-09-20'
 author: 'lsc'
-url: '/ru/notvorrat-anlegen'
+url: '/ru/sozdanie-nabora-na-chernyy-den'
+aliases:
+    - /ru/notvorrat-anlegen
 seo:
     title:
     description:

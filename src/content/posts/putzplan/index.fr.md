@@ -3,7 +3,9 @@ title: 'Créer un plan de nettoyage selon vos souhaits : Modèle et conseils'
 date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
-url: '/fr/putzplan'
+url: '/fr/planning-menage'
+aliases:
+    - /fr/putzplan
 seo:
     title:
     description:

@@ -5,6 +5,8 @@ lastmod: '2024-04-19'
 coverImage: 'pexels-karolina-grabowska-5632397-scaled.jpg'
 author: 'nsc'
 url: '/klarna-schulden'
+aliases:
+    - /klarna-schulden
 seo:
     title:
     description:

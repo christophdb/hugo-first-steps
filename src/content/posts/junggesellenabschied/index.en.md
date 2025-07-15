@@ -4,7 +4,9 @@ date: 2024-08-06
 lastmod: '2024-08-07'
 coverImage: 'ibrahim-boran-oLaWOFe7_xI-unsplash.jpg'
 author: 'nsc'
-url: '/junggesellenabschied'
+url: '/bachelor-party'
+aliases:
+    - /junggesellenabschied
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: 'Abastécete de suministros de emergencia: Lo que siempre debe tener en c
 date: 2023-09-20
 lastmod: '2023-09-20'
 author: 'lsc'
-url: '/es/notvorrat-anlegen'
+url: '/es/crear-kit-emergencia'
+aliases:
+    - /es/notvorrat-anlegen
 seo:
     title:
     description:

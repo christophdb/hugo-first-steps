@@ -3,7 +3,9 @@ title: "Faire des réserves d'urgence : Ce que vous devriez toujours avoir chez 
 date: 2023-09-20
 lastmod: '2023-09-20'
 author: 'lsc'
-url: '/fr/notvorrat-anlegen'
+url: '/fr/constituer-kit-survie'
+aliases:
+    - /fr/notvorrat-anlegen
 seo:
     title:
     description:

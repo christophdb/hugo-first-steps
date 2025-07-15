@@ -3,7 +3,9 @@ title: 'Criar plano editorial | plano de conteúdo: Dicas e truques com modelo'
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/pt/redaktionsplan-contentplan'
+url: '/pt/calendario-editorial-plano-conteudo'
+aliases:
+    - /pt/redaktionsplan-contentplan
 color: '#8ddb8c'
 categories:
     - 'best-practice'

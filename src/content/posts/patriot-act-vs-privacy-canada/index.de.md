@@ -4,7 +4,9 @@ description: 'Die Daten von Millionen Kanadiern lagern auf US-Servern von Micros
 date: 2023-07-17
 lastmod: '2023-08-18'
 author: 'cdb'
-url: '/de/patriot-act-vs-privacy-canada'
+url: '/de/atriot-act-vs-datenschutz-kanada'
+aliases:
+    - /de/patriot-act-vs-privacy-canada
 seo:
     title: 'Patriot Act vs. Datenschutz – Kanadische Daten sicher verarbeiten'
     description: 'In diesem Artikel erfahren Sie, wie Sie kanadische Daten datenschutzkonform und außer Reichweite des Patriot Act verarbeiten können.'

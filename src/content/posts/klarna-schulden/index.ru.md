@@ -3,7 +3,9 @@ title: 'Долги Klarna - как взять финансы под контро
 date: 2024-04-19
 lastmod: '2024-04-19'
 author: 'nsc'
-url: '/ru/klarna-schulden'
+url: '/ru/dolgi-klarna'
+aliases:
+    - /ru/klarna-schulden
 seo:
     title:
     description:

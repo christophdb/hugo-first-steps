@@ -3,7 +3,9 @@ title: 'Stock up on emergency supplies: What you should always have at home'
 date: 2023-09-20
 lastmod: '2023-09-20'
 author: 'lsc'
-url: '/notvorrat-anlegen'
+url: '/create-emergency-supplies'
+aliases:
+    - /notvorrat-anlegen
 seo:
     title:
     description:

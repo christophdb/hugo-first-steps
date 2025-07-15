@@ -3,7 +3,9 @@ title: 'Mantener una visión de conjunto con un plan editorial para las redes so
 date: 2024-02-07
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/es/redaktionsplan-social-media'
+url: '/es/calendario-editorial-social-media'
+aliases:
+    - /es/reisekostenabrechnung
 color: '#eeeeee'
 seo:
     title:

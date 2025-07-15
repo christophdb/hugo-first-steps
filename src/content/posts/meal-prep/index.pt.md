@@ -3,7 +3,9 @@ title: 'Preparação de refeições - preparação de refeições saudáveis e e
 date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
-url: '/pt/meal-prep'
+url: '/pt/preparacao-refeicoes'
+aliases:
+    - /pt/meal-prep
 seo:
     title:
     description:

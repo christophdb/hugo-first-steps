@@ -3,7 +3,9 @@ title: 'Un programme de gestion de la littérature pour y voir plus clair'
 date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
-url: '/fr/literaturverwaltung'
+url: '/fr/gestion-bibliographique'
+aliases:
+    - /fr/literaturverwaltung
 seo:
     title:
     description:

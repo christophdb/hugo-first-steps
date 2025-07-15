@@ -4,7 +4,9 @@ date: 2024-05-17
 lastmod: '2024-05-17'
 coverImage: 'Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg'
 author: 'rdb'
-url: '/literaturverwaltung'
+url: '/reference-management'
+aliases:
+    - /literaturverwaltung
 seo:
     title:
     description:

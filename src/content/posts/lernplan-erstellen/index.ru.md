@@ -3,7 +3,9 @@ title: 'Создайте план обучения - 7 шагов к высше�
 date: 2024-05-02
 lastmod: '2024-05-02'
 author: 'nsc'
-url: '/ru/lernplan-erstellen'
+url: '/ru/sozdat-uchebnyy-plan'
+aliases:
+    - /ru/lernplan-erstellen
 seo:
     title:
     description:

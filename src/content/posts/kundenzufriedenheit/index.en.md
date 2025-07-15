@@ -4,7 +4,9 @@ date: 2021-03-05
 lastmod: '2023-06-28'
 coverImage: 'customer-satisfaction-survey-seatable.jpg'
 author: 'cdb'
-url: '/kundenzufriedenheit'
+url: '/customer-satisfaction'
+aliases:
+    - /kundenzufriedenheit
 seo:
     title:
     description:

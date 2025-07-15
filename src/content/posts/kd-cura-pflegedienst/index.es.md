@@ -3,7 +3,9 @@ title: 'Pionero digital en el servicio de asistencia'
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/es/kd-cura-pflegedienst'
+url: '/es/kd-cura-servicio-enfermeria'
+aliases:
+    - /es/kd-cura-pflegedienst
 color: '#eeeeee'
 seo:
     title:

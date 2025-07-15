@@ -3,7 +3,9 @@ title: "L'analyse qualitative de contenu expliquée simplement - Exemple : revue
 date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
-url: '/fr/qualitative-inhaltsanalyse'
+url: '/fr/analyse-contenu-qualitative'
+aliases:
+    - /fr/qualitative-inhaltsanalyse
 seo:
     title:
     description:

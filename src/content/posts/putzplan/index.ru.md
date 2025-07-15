@@ -3,7 +3,9 @@ title: 'Создайте план уборки в соответствии с в
 date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
-url: '/ru/putzplan'
+url: '/ru/grafik-uborki'
+aliases:
+    - /ru/putzplan
 seo:
     title:
     description:

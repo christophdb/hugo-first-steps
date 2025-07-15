@@ -3,7 +3,9 @@ title: 'Create cleaning plan according to your wishes: Template and Tips'
 date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
-url: '/putzplan'
+url: '/cleaning-schedule'
+aliases:
+    - /putzplan
 seo:
     title:
     description:

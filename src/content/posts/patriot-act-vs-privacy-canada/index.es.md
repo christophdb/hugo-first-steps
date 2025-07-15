@@ -3,7 +3,9 @@ title: 'Patriot Act frente a protección de datos: tratamiento seguro de los dat
 date: 2023-07-17
 lastmod: '2023-08-18'
 author: 'cdb'
-url: '/es/patriot-act-vs-privacy-canada'
+url: '/es/patriot-act-vs-privacidad-canada'
+aliases:
+    - /es/patriot-act-vs-privacy-canada
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: 'Dívida Klarna - como controlar as suas finanças'
 date: 2024-04-19
 lastmod: '2024-04-19'
 author: 'nsc'
-url: '/pt/klarna-schulden'
+url: '/pt/dividas-klarna'
+aliases:
+    - /pt/klarna-schulden
 seo:
     title:
     description:

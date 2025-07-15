@@ -3,7 +3,9 @@ title: 'Top 9 des bases de données en ligne gratuites'
 date: 2022-07-08
 lastmod: '2022-07-27'
 author: 'rdb'
-url: '/fr/online-datenbank-kostenlos'
+url: '/fr/base-donnees-en-ligne-gratuite'
+aliases:
+    - /fr/online-datenbank-kostenlos
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Réaliser une analyse coûts-bénéfices'
 date: 2024-03-04
 lastmod: '2025-02-20'
 author: 'cdb'
-url: '/fr/kosten-nutzen-analyse-vorlage'
+url: '/fr/modele-analyse-cout-benefice'
+aliases:
+    - /fr/kosten-nutzen-analyse-vorlage
 seo:
     title:
     description:

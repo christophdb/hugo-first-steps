@@ -5,6 +5,8 @@ lastmod: '2023-07-11'
 coverImage: 'KD-Cura-pionarbeit-in-der-pflege.jpg'
 author: 'cdb'
 url: '/kd-cura-pflegedienst'
+aliases:
+    - /kd-cura-pflegedienst
 color: '#eeeeee'
 seo:
     title:

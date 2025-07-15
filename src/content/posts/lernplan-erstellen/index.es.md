@@ -3,7 +3,9 @@ title: 'Crear un plan de aprendizaje - 7 pasos para obtener la mejor nota'
 date: 2024-05-02
 lastmod: '2024-05-02'
 author: 'nsc'
-url: '/es/lernplan-erstellen'
+url: '/es/crear-plan-estudio'
+aliases:
+    - /es/lernplan-erstellen
 seo:
     title:
     description:

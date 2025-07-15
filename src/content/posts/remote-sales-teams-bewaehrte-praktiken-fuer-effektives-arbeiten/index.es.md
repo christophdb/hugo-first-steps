@@ -3,7 +3,9 @@ title: 'Equipos de ventas a distancia: buenas prácticas para un trabajo eficaz'
 date: 2023-06-06
 lastmod: '2023-06-28'
 author: 'nsc2'
-url: '/es/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten'
+url: '/es/equipos-ventas-remotas-trabajo-efectivo'
+aliases:
+    - /es/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Эти 4 шага к идеальному управлению прод�
 date: 2021-04-29
 lastmod: '2023-07-11'
 author: 'ott'
-url: '/ru/produktmanagement'
+url: '/ru/upravlenie-produktom'
+aliases:
+    - /ru/produktmanagement
 color: '#eeeeee'
 seo:
     title:

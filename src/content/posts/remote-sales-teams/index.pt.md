@@ -3,7 +3,9 @@ title: '6 dicas para aumentar a produtividade da sua equipa remota - SeaTable'
 date: 2021-10-07
 lastmod: '2023-07-11'
 author: 'rbu'
-url: '/pt/remote-sales-teams'
+url: '/pt/equipes-vendas-remotas'
+aliases:
+    - /pt/remote-sales-teams
 color: '#eeeeee'
 seo:
     title:

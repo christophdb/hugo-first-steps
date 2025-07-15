@@ -3,7 +3,9 @@ title: 'Frais de déplacement : tout ce que vous devez savoir'
 date: 2025-01-17
 lastmod: '2025-01-17'
 author: 'nsc'
-url: '/fr/reisekostenabrechnung'
+url: '/fr/note-frais-deplacement'
+aliases:
+    - /fr/reisekostenabrechnung
 color: '#eeeeee'
 seo:
     title:

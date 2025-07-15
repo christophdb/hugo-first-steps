@@ -4,7 +4,9 @@ date: 2024-02-07
 lastmod: '2025-01-17'
 coverImage: 'Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg'
 author: 'rdb'
-url: '/redaktionsplan-social-media'
+url: '/social-media-editorial-calendar'
+aliases:
+    - /reisekostenabrechnung
 color: '#eeeeee'
 seo:
     title:
