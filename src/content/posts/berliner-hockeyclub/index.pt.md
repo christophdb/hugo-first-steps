@@ -3,7 +3,9 @@ title: 'Clube de Hóquei de Berlim passa à digital com SeaTable'
 date: 2021-02-08
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/pt/berliner-hockeyclub'
+url: '/pt/berliner-clube-hoquei'
+aliases:
+    - /pt/berliner-hockeyclub
 color: '#eeeeee'
 seo:
     title:

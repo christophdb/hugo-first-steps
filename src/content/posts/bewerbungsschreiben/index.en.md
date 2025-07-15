@@ -4,7 +4,9 @@ date: 2024-04-22
 lastmod: '2024-04-22'
 coverImage: 'Bewerbungsschreiben_02-e1713776597515.png'
 author: 'lsc'
-url: '/bewerbungsschreiben'
+url: '/cover-letter'
+aliases:
+    - /bewerbungsschreiben
 seo:
     title:
     description:

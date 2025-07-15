@@ -3,7 +3,9 @@ title: 'Une bonne gestion des offres pour de meilleures performances de vente'
 date: 2022-07-22
 lastmod: '2022-07-27'
 author: 'rdb'
-url: '/fr/angebotsmanagement'
+url: '/fr/gestion-offres'
+aliases:
+    - /fr/angebotsmanagement
 color: '#eeeeee'
 seo:
     title:

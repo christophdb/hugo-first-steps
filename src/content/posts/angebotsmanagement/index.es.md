@@ -7,7 +7,9 @@ seo:
 date: 2022-07-22
 lastmod: '2022-07-27'
 author: 'rdb'
-url: '/es/angebotsmanagement'
+url: '/es/gestion-ofertas'
+aliases:
+    - /es/angebotsmanagement
 color: '#eeeeee'
 seo:
     title:

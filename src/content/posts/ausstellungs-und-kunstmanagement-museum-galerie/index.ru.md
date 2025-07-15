@@ -3,7 +3,9 @@ title: 'Арт-менеджмент - как управлять музеями �
 date: 2021-03-09
 lastmod: '2023-07-05'
 author: 'cdb'
-url: '/ru/ausstellungs-und-kunstmanagement-museum-galerie'
+url: '/ru/upravlenie-vystavkami-iskusstvom-muzeem-galereey'
+aliases:
+    - /ru/ausstellungs-und-kunstmanagement-museum-galerie
 seo:
     title:
     description:

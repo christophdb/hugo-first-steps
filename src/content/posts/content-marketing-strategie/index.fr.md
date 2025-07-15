@@ -3,7 +3,9 @@ title: 'Comment développer une stratégie de marketing de contenu - SeaTable'
 date: 2021-02-28
 lastmod: '2023-06-26'
 author: 'cdb'
-url: '/fr/content-marketing'
+url: '/fr/marketing-contenu'
+aliases:
+    - /fr/content-marketing
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Lista de verificação para as férias: tudo sob controlo para uma viage
 date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
-url: '/pt/checkliste-urlaub'
+url: '/pt/checklist-ferias'
+aliases:
+    - /pt/checkliste-urlaub
 seo:
     title:
     description:

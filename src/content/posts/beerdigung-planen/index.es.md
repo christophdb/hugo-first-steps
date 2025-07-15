@@ -3,7 +3,9 @@ title: 'Planificar un funeral: para una despedida digna'
 date: 2023-08-17
 lastmod: '2024-01-25'
 author: 'kgr'
-url: '/es/beerdigung-planen'
+url: '/es/organizar-funeral'
+aliases:
+    - /es/beerdigung-planen
 seo:
     title:
     description:

@@ -4,7 +4,9 @@ date: 2021-07-22
 lastmod: '2023-07-11'
 coverImage: 'crm-product-catalog-offers-preview.jpg'
 author: 'pbr'
-url: '/crm-angebotsmanagement'
+url: '/crm-quote-management'
+aliases:
+    - /crm-angebotsmanagement
 color: '#eeeeee'
 seo:
     title:

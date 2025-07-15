@@ -3,7 +3,9 @@ title: 'Catalogação de livros facilitada'
 date: 2022-07-29
 lastmod: '2024-12-02'
 author: 'cdb'
-url: '/pt/buecher-katalogisieren'
+url: '/pt/catalogar-livros'
+aliases:
+    - /pt/buecher-katalogisieren
 seo:
     title:
     description:

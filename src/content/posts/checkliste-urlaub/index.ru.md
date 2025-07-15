@@ -3,7 +3,9 @@ title: 'Контрольный список для отпуска: все под
 date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
-url: '/ru/checkliste-urlaub'
+url: '/ru/spisok-predmetov-otpusk'
+aliases:
+    - /ru/checkliste-urlaub
 seo:
     title:
     description:

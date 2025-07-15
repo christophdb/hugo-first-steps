@@ -3,7 +3,9 @@ title: "Gestion de l'art - comment gérer les musées et les galeries numérique
 date: 2021-03-09
 lastmod: '2023-07-05'
 author: 'cdb'
-url: '/fr/ausstellungs-und-kunstmanagement-museum-galerie'
+url: '/fr/gestion-exposition-art-musee-galerie'
+aliases:
+    - /fr/ausstellungs-und-kunstmanagement-museum-galerie
 seo:
     title:
     description:

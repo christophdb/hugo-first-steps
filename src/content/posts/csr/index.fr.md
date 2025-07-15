@@ -3,7 +3,9 @@ title: 'RSE - les bases de la responsabilité sociale des entreprises'
 date: 2024-04-08
 lastmod: '2025-05-19'
 author: 'nsc'
-url: '/fr/csr'
+url: '/fr/rse'
+aliases:
+    - /fr/csr
 seo:
     title:
     description:

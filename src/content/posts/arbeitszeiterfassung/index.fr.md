@@ -3,7 +3,9 @@ title: 'Législation sur la gestion du temps de vos employés - SeaTable'
 date: 2023-04-20
 lastmod: '2023-04-25'
 author: 'kgr'
-url: '/fr/arbeitszeiterfassung'
+url: '/fr/suivi-temps-travail'
+aliases:
+    - /fr/arbeitszeiterfassung
 color: '#eeeeee'
 seo:
     title:

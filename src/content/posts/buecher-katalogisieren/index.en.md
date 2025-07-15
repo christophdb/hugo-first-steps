@@ -4,7 +4,9 @@ date: 2022-07-29
 lastmod: '2024-12-02'
 coverImage: 'Bücher-katalogisieren_AdobeStock_144344997_bearbeitet-1.jpg'
 author: 'cdb'
-url: '/buecher-katalogisieren'
+url: '/catalog-books'
+aliases:
+    - /buecher-katalogisieren
 seo:
     title:
     description:

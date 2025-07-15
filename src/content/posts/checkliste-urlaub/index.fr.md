@@ -3,7 +3,9 @@ title: 'Check-list vacances : tout à portée de main pour un voyage parfait | S
 date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
-url: '/fr/checkliste-urlaub'
+url: '/fr/checklist-vacances'
+aliases:
+    - /fr/checkliste-urlaub
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: 'Планирование похорон - для достойного п
 date: 2023-08-17
 lastmod: '2024-01-25'
 author: 'kgr'
-url: '/ru/beerdigung-planen'
+url: '/ru/organizovat-pokhorony'
+aliases:
+    - /ru/beerdigung-planen
 seo:
     title:
     description:

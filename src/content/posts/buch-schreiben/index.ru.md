@@ -3,7 +3,9 @@ title: 'Написание книг: 7 инструментов для созд�
 date: 2024-03-20
 lastmod: '2024-03-20'
 author: 'nsc'
-url: '/ru/buch-schreiben'
+url: '/ru/napisat-knigu'
+aliases:
+    - /ru/buch-schreiben
 seo:
     title:
     description:

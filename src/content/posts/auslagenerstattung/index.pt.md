@@ -4,7 +4,9 @@ description: 'Quer se trate de uma refeição de negócios, de um bilhete de com
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
-url: '/pt/auslagenerstattung'
+url: '/pt/reembolso-despesas'
+aliases:
+    - /pt/auslagenerstattung
 seo:
     title:
     description:

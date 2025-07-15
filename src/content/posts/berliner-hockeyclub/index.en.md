@@ -4,7 +4,9 @@ date: 2021-02-08
 lastmod: '2023-07-11'
 coverImage: 'berliner-hockeyclub-goes-digital.jpg'
 author: 'cdb'
-url: '/berliner-hockeyclub'
+url: '/berliner-hockey-club'
+aliases:
+    - /berliner-hockeyclub
 color: '#eeeeee'
 seo:
     title:

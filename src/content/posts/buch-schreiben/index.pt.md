@@ -3,7 +3,9 @@ title: 'Escreva um livro: resumo de 7 ferramentas de software de autoria'
 date: 2024-03-20
 lastmod: '2024-03-20'
 author: 'nsc'
-url: '/pt/buch-schreiben'
+url: '/pt/escrever-livro'
+aliases:
+    - /pt/buch-schreiben
 seo:
     title:
     description:

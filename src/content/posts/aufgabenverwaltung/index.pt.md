@@ -3,7 +3,9 @@ title: 'Gestão de tarefas: otimizar o planeamento e a utilização dos recursos
 date: 2021-09-23
 lastmod: '2025-02-28'
 author: 'ott'
-url: '/pt/aufgabenverwaltung'
+url: '/pt/gestao-tarefas'
+aliases:
+    - /pt/aufgabenverwaltung
 color: '#eeeeee'
 seo:
     title:

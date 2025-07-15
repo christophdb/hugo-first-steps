@@ -3,7 +3,9 @@ title: "CRM : de la saisie du client à l'offre - SeaTable"
 date: 2021-07-22
 lastmod: '2023-07-11'
 author: 'pbr'
-url: '/fr/crm-angebotsmanagement'
+url: '/fr/crm-gestion-offres'
+aliases:
+    - /fr/crm-angebotsmanagement
 color: '#eeeeee'
 seo:
     title:

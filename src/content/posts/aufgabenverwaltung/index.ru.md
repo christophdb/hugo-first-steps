@@ -3,7 +3,9 @@ title: 'Управление задачами: оптимизация плани
 date: 2021-09-23
 lastmod: '2025-02-28'
 author: 'ott'
-url: '/ru/aufgabenverwaltung'
+url: '/ru/upravlenie-zadachami'
+aliases:
+    - /ru/aufgabenverwaltung
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Requisitos legais para o registo do tempo dos seus empregados - SeaTable
 date: 2023-04-20
 lastmod: '2023-04-25'
 author: 'kgr'
-url: '/pt/arbeitszeiterfassung'
+url: '/pt/registro-horas-trabalho'
+aliases:
+    - /pt/arbeitszeiterfassung
 color: '#eeeeee'
 seo:
     title:

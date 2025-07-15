@@ -3,7 +3,9 @@ title: 'Оптимальный учет дебиторской задолжен�
 date: 2021-08-26
 lastmod: '2023-07-11'
 author: 'pbr'
-url: '/ru/debitorenbuchhaltung'
+url: '/ru/upravlenie-debitorami'
+aliases:
+    - /ru/debitorenbuchhaltung
 color: '#eeeeee'
 seo:
     title:

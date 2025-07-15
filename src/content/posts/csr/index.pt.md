@@ -3,7 +3,9 @@ title: 'RSE - noções básicas de responsabilidade social das empresas'
 date: 2024-04-08
 lastmod: '2025-05-19'
 author: 'nsc'
-url: '/pt/csr'
+url: '/pt/rsc'
+aliases:
+    - /pt/csr
 seo:
     title:
     description:

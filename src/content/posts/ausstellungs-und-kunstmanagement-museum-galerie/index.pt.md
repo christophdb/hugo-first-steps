@@ -3,7 +3,9 @@ title: 'Gestão de arte - como gerir digitalmente museus e galerias - SeaTable'
 date: 2021-03-09
 lastmod: '2023-07-05'
 author: 'cdb'
-url: '/pt/ausstellungs-und-kunstmanagement-museum-galerie'
+url: '/pt/gestao-exposicoes-arte-museu-galeria'
+aliases:
+    - /pt/ausstellungs-und-kunstmanagement-museum-galerie
 seo:
     title:
     description:

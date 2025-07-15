@@ -3,7 +3,9 @@ title: 'Escritura de libros: 7 herramientas de software de autoría de un vistaz
 date: 2024-03-20
 lastmod: '2024-03-20'
 author: 'nsc'
-url: '/es/buch-schreiben'
+url: '/es/escribir-libro'
+aliases:
+    - /es/buch-schreiben
 seo:
     title:
     description:

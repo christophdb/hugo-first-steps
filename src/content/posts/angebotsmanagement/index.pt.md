@@ -3,7 +3,9 @@ title: 'Boa gestão da oferta para um melhor desempenho de vendas'
 date: 2022-07-22
 lastmod: '2022-07-27'
 author: 'rdb'
-url: '/pt/angebotsmanagement'
+url: '/pt/gestao-propostas'
+aliases:
+    - /pt/angebotsmanagement
 color: '#eeeeee'
 seo:
     title:

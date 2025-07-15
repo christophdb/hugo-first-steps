@@ -4,7 +4,9 @@ date: 2024-01-24
 lastmod: '2025-02-13'
 coverImage: 'content-for-instagram-e1622035217478.jpg'
 author: 'nsc'
-url: '/content-ideen'
+url: '/content-ideas'
+aliases:
+    - /content-ideen
 seo:
     title:
     description:

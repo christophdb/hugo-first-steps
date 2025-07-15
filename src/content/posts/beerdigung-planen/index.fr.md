@@ -3,7 +3,9 @@ title: 'Planifier des funérailles - pour des adieux dans la dignité'
 date: 2023-08-17
 lastmod: '2024-01-25'
 author: 'kgr'
-url: '/fr/beerdigung-planen'
+url: '/fr/organiser-funerailles'
+aliases:
+    - /fr/beerdigung-planen
 seo:
     title:
     description:

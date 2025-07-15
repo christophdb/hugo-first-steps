@@ -3,7 +3,9 @@ title: 'Crear una lista de cosas que hacer antes de morir: Ideas, inspiración y
 date: 2024-02-19
 lastmod: '2024-02-19'
 author: 'nsc'
-url: '/es/bucket-list'
+url: '/es/lista-deseos'
+aliases:
+    - /es/bucket-list
 color: '#eeeeee'
 seo:
     title:

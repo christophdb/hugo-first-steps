@@ -3,7 +3,9 @@ title: 'El Club de Hockey de Berlín se digitaliza con SeaTable'
 date: 2021-02-08
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/es/berliner-hockeyclub'
+url: '/es/berliner-club-hockey'
+aliases:
+    - /es/berliner-hockeyclub
 color: '#eeeeee'
 seo:
     title:

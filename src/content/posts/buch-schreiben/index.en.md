@@ -4,7 +4,9 @@ date: 2024-03-20
 lastmod: '2024-03-20'
 coverImage: 'Tiny-male-author-or-screenwriter-writing-story-or-movie-script.jpg'
 author: 'nsc'
-url: '/buch-schreiben'
+url: '/write-book'
+aliases:
+    - /buch-schreiben
 seo:
     title:
     description:

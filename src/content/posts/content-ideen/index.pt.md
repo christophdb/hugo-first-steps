@@ -3,7 +3,9 @@ title: 'Ideias de conteúdos que funcionam sempre'
 date: 2024-01-24
 lastmod: '2025-02-13'
 author: 'nsc'
-url: '/pt/content-ideen'
+url: '/pt/ideias-conteudo'
+aliases:
+    - /pt/content-ideen
 seo:
     title:
     description:
