@@ -28,9 +28,7 @@ Con el icono del lápiz, puedes cambiar el nombre de la base y asignarle un icon
 
 La nueva Base contiene una [tabla]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) desde el principio. La vista de tabla es la vista central, pero no la única, de SeaTable. En la vista de tabla usted gestiona las tablas de la base, define su estructura de columnas e introduce o analiza sus datos.
 
-Antes de [introducir los datos]({{< relref "help/base-editor/webformulare/webformulare" >}}).
-
-SeaTable ofrece un total de [más de 20 tipos de columnas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Probablemente ya esté familiarizado con las columnas de texto, números y fechas de las hojas de cálculo convencionales. Por supuesto, SeaTable también las conoce. Además, SeaTable ofrece columnas para [imágenes y archivos]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) y [casillas de verificación]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) y [múltiple]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}}).
+SeaTable ofrece un total de [más de 20 tipos de columnas]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Probablemente ya esté familiarizado con las columnas de texto, números y fechas de las hojas de cálculo convencionales. Por supuesto, SeaTable también las conoce. Además, SeaTable ofrece columnas para imágenes y archivos, botones y casillas de verificación, así como campos de selección única y múltiple.
 
 ¿Quieres añadir fotos a una entrada? Basta con arrastrar la imagen a una columna de imágenes para que SeaTable la guarde directamente en la tabla. En SeaTable tienes todos tus datos en un solo lugar.
 

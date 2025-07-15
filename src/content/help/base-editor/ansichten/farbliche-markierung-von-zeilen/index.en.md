@@ -32,7 +32,7 @@ For the **Use single selection column** option, you need a column of this type i
 
 {{< warning  headline="Creating a single selection column" >}}
 
-Find out [here]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) how to create new single selection columns.
+Find out [here]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) how to create new single selection columns.
 
 {{< /warning >}}
 

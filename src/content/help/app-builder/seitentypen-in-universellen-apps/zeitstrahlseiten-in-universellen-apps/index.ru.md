@@ -18,7 +18,7 @@ url: '/ru/pomoshch/zeitstrahlseiten-in-universellen-apps'
 
 ![Изменение настроек страницы временной шкалы](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-В **настройках страницы** вы можете задать графическое представление временных линий. Для этого выберите [цвет строки]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) или [одного столбца выделения]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), который определяет **цвет блоков**. Вы также можете задать столбец для **маркировки блоков**.
+В **настройках страницы** вы можете задать графическое представление временных линий. Для этого выберите [цвет строки]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) или [одного столбца выделения]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), который определяет **цвет блоков**. Вы также можете задать столбец для **маркировки блоков**.
 
 ![Графическая настройка временных шкал в универсальных приложениях](images/Grafische-Einstellung-der-Zeitleisten.png)
 

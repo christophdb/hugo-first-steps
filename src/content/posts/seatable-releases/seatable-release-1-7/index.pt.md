@@ -14,7 +14,7 @@ Já passou cerca de um mês desde o lançamento do SeaTable 1.6 e por isso é te
 
 Para este novo lançamento, dedicámos muito esforço a melhorar o aspecto e a sensação do SeaTable e a aumentar a simplicidade da interface web. Para tal, abordámos um grande número de pequenas questões. Estamos convencidos de que, embora não necessariamente visíveis à primeira vista, contribuem significativamente para uma experiência positiva do utilizador. Todos aqueles que estavam à espera de uma série de novidades terão de esperar um pouco mais por SeaTable 1.8. Contudo, por favor, desfrute do maior conforto da versão 1.7.
 
-Nesta nota de lançamento centramo-nos nos aspectos mais importantes da nova versão. A lista completa de alterações pode ser encontrada - como sempre - no [changelog]({{< relref "pages/changelog" >}}?lang=auto).
+Nesta nota de lançamento centramo-nos nos aspectos mais importantes da nova versão. A lista completa de alterações pode ser encontrada - como sempre - no [changelog]({{< relref "pages/changelog" >}}).
 
 ## Interface de utilizador dinâmica
 

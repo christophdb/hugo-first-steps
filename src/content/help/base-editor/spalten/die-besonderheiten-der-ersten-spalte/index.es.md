@@ -16,7 +16,13 @@ La **primera** columna de una tabla en SeaTable tiene varias características es
 - A diferencia de las demás columnas, **no puede desplazar** la primera columna de una tabla.
 - A diferencia de las demás columnas, **no puede eliminar** la primera columna de una tabla.
 - Sin embargo, a diferencia de las demás columnas, la primera puede **fijarse** individualmente.
-- La primera columna sólo admite los **tipos de columna** [texto]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}), [selección única]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), [número automático]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
+- Para la **primera** columna, sólo hay **seis tipos de columna** entre los que elegir:
+  - [Texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+  - [Número]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+  - [Fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+  - [Selección única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
+  - [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
+  - [Fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Cómo personalizar el tipo de la primera columna
 
@@ -29,15 +35,6 @@ La **primera** columna de una tabla en SeaTable tiene varias características es
 5. Si es necesario, **ajuste el formato**.
 6. Haga clic en **Enviar**.
 7. Confirme el ajuste haciendo clic en **Convertir**.
-
-Para la **primera** columna, sólo hay **seis tipos de columna** entre los que elegir:
-
-- [Texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
-- [Número]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
-- [Fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Selección individual]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-- [Fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Fórmulas en la primera columna
 

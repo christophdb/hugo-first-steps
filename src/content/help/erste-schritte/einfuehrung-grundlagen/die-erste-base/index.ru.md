@@ -28,9 +28,7 @@ SeaTable ведет [историю]({{< relref "help/base-editor/historie-und-v
 
 Новая база содержит [таблицу]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) с самого начала. Представление таблицы является центральным, но не единственным представлением SeaTable. В представлении таблицы вы управляете таблицами базы, определяете структуру их колонок и вводите или анализируете свои данные.
 
-Перед [вводом данных]({{< relref "help/base-editor/webformulare/webformulare" >}}).
-
-SeaTable предлагает в общей сложности [более 20 типов колонок]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Вы, вероятно, уже знакомы с текстовыми столбцами, столбцами чисел и дат из обычных электронных таблиц. Конечно, SeaTable также знает их. Кроме того, SeaTable предлагает колонки для [изображений и файлов]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) и [флажков]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) и [множественного выбора]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}}).
+SeaTable предлагает в общей сложности [более 20 типов колонок]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Вы, вероятно, уже знакомы с текстовыми столбцами, столбцами чисел и дат из обычных электронных таблиц. Конечно, SeaTable также знает их. Кроме того, SeaTable предлагает колонки для изображений и файлов, кнопки и флажки, а также поля для одиночного и множественного выбора.
 
 Вы хотите добавить фотографии к записи? Просто перетащите картинку в колонку с картинками, и SeaTable сохранит ее прямо в таблице. В SeaTable все ваши данные находятся в одном месте!
 

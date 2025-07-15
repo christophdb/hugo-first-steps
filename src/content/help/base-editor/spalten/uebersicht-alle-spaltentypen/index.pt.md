@@ -60,21 +60,21 @@ A coluna de duração é um tipo de coluna numérica especializada para armazena
 
 [Mais informações sobre a coluna permanente]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}})
 
-### Selecção única
+### Seleção única
 
-Símbolo: {{< seatable-icon icon="dtable-icon-single-election" >}} **Selecção única**
+Símbolo: {{< seatable-icon icon="dtable-icon-single-election" >}} **Seleção única**
 
-Numa célula de uma coluna de selecção individual, é possível seleccionar um **valor** a partir de uma lista de opções definidas. A lista de opções definidas por coluna de seleção única é criada pelo próprio usuário e pode ser adaptada a circunstâncias variáveis a qualquer momento. A selecção simples é, portanto, particularmente adequada para categorizar e agrupar os dados.
+Numa célula de uma coluna de seleção individual, é possível seleccionar um **valor** a partir de uma lista de opções definidas. A lista de opções definidas por coluna de seleção única é criada pelo próprio usuário e pode ser adaptada a circunstâncias variáveis a qualquer momento. A seleção única é, portanto, particularmente adequada para categorizar e agrupar os dados.
 
-[Mais informações sobre a coluna de selecção única]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+[Mais informações sobre a coluna de seleção única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
 
-### Selecção múltipla
+### Seleção múltipla
 
-Símbolo: {{< seatable-icon icon="dtable-icon-multiple-selection" >}} **Selecção múltipla**
+Símbolo: {{< seatable-icon icon="dtable-icon-multiple-selection" >}} **Seleção múltipla**
 
-Com uma selecção múltipla, é possível seleccionar **qualquer número de valores** de uma lista de opções definidas. Tal como na selecção simples, o próprio utilizador cria a lista de valores possíveis e adapta-a às suas necessidades individuais. A selecção múltipla é, portanto, ideal para o registo de palavras-chave - também designado por etiquetagem.
+Com uma seleção múltipla, é possível seleccionar **qualquer número de valores** de uma lista de opções definidas. Tal como na seleção única, o próprio utilizador cria a lista de valores possíveis e adapta-a às suas necessidades individuais. A seleção múltipla é, portanto, ideal para o registo de palavras-chave - também designado por etiquetagem.
 
-[Mais informações sobre a coluna de selecção múltipla]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
+[Mais informações sobre a coluna de seleção múltipla]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
 
 ### Imagem
 

@@ -18,7 +18,7 @@ Se pretender alterar as definições de uma página, clique no **símbolo da rod
 
 ![Alterar as definições da página da linha de tempo](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-Nas **definições da página**, pode começar por definir a representação gráfica das linhas cronológicas. Para tal, selecionar a [cor da linha]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou uma [coluna de seleção individual]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), que determina a **cor dos blocos**. Também é possível definir uma coluna para a **etiquetagem dos blocos**.
+Nas **definições da página**, pode começar por definir a representação gráfica das linhas cronológicas. Para tal, selecionar a [cor da linha]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou uma [coluna de seleção individual]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), que determina a **cor dos blocos**. Também é possível definir uma coluna para a **etiquetagem dos blocos**.
 
 ![Definição gráfica das linhas de tempo em aplicações universais](images/Grafische-Einstellung-der-Zeitleisten.png)
 

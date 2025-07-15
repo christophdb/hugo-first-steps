@@ -30,7 +30,7 @@ url: '/ru/pomoshch/filtern-von-eintraegen-in-einer-ansicht'
 У вас есть эти варианты условий с [Текстовая колонка]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}):  
 ![Фильтр текстового столбца](images/filtern-von-eintraegen-5.png)
 
-У вас есть эти варианты условий с [Одиночная колонка выбора]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}):  
+У вас есть эти варианты условий с [Одиночная колонка выбора]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}):  
 ![Фильтр колонки с одним отбором](images/filtern-von-eintraegen-6.png)
 
 У вас есть эти варианты условий с [Колонка изображений]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}):  

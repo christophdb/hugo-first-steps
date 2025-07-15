@@ -1,10 +1,10 @@
 ---
 title: 'Die Mehrfachauswahl-Spalte'
 date: 2023-03-28
-lastmod: '2023-04-27'
+lastmod: '2025-07-15'
 categories:
-    - 'auswahlspalten'
-author: 'nsc2'
+    - 'spalten'
+author: 'kgr'
 url: '/de/hilfe/die-mehrfachauswahl-spalte'
 ---
 
@@ -21,28 +21,32 @@ Das Anlegen einer Mehrfachauswahl-Spalte ist kinderleicht und mit wenigen Klicks
 3. Wählen Sie als Spaltentyp **Mehrfachauswahl**.
 4. Bestätigen Sie mit **Abschicken**.
 
-## Optionen hinzufügen
+## Gemeinsamkeiten mit der Einfachauswahl-Spalte
 
-Das Hinzufügen von Optionen zu einer Mehrfachauswahl-Spalte funktioniert **genauso wie bei einer Einfachauswahl-Spalte**. Neue Optionen können Sie dabei auf mehreren Wegen hinzufügen. Erfahren Sie alles darüber im separaten Artikel [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}).
+### Mehrfachauswahl-Optionen hinzufügen
 
-Aktuell stehen Ihnen 24 Farben zur Verfügung, um die jeweiligen Optionen visuell hervorzuheben.
+Das Hinzufügen von Optionen zu einer Mehrfachauswahl-Spalte funktioniert **genauso wie bei einer Einfachauswahl-Spalte**. Neue Optionen können Sie dabei auf mehreren Wegen hinzufügen. Erfahren Sie alles darüber im Artikel [zur Einfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}).
+
+### Mehrfachauswahl-Optionen exportieren und importieren
+
+Sie können die Optionen einer Mehrfachauswahl-Spalte wie bei einer Einfachauswahl-Spalte **exportieren** und **importieren**. Nähere Informationen dazu finden Sie im Artikel zur Einfachauswahl-Spalte.
+
+### Farben der Optionen
+
+Aktuell stehen Ihnen wie bei der Einfachauswahl-Spalte **24 Farben** zur Verfügung, um die jeweiligen Optionen visuell hervorzuheben.
 
 ![Farben der Einfachauswahl-Spalte](images/farben-einfachauswahl.png)
 
 Mit einem [Enterprise-Abo]({{< relref "help/teamverwaltung/abonnement/abo-pakete" >}}) haben Sie zudem die Möglichkeit, [eigene Farben]({{< relref "help/base-editor/weitere-optionen/eigene-farben-in-einer-base-hinzufuegen" >}}) für Ihre Mehrfachauswahl-Optionen anzulegen.
 
-## Standardwert festlegen
+### Ändern der Reihenfolge von Mehrfachauswahl-Optionen
 
-Beim Anlegen einer Mehrfachauswahl-Spalte haben Sie im Gegensatz zur Einfachauswahl-Spalte **nicht** die Möglichkeit, einen Standardwert festzulegen.
+Die Reihenfolge der Optionen lässt sich genauso wie bei einer Einfachauswahl-Spalte anpassen. Sie ist von entscheidender Bedeutung, wenn Sie nach der Mehrfachauswahl-Spalte [sortieren]({{< relref "help/base-editor/ansichten/sortieren-von-eintraegen-in-einer-ansicht" >}}) oder [gruppieren]({{< relref "help/base-editor/ansichten/gruppieren-von-eintraegen-in-einer-ansicht" >}}) möchten. Denn SeaTable ordnet die Optionen **nicht alphabetisch**, sondern richtet sich flexibel nach der **Reihenfolge der Optionen**, die Sie per Drag-and-Drop festlegen.
 
-## Mehrfachauswahl- oder Verknüpfungs-Spalte?
+### Standardwert festlegen
 
-Wenn Sie sich wünschen, **zusätzliche Informationen** zu jeder Auswahloption speichern zu können, sollten Sie in Erwägung ziehen, die Mehrfachauswahl-Spalte in eine [Verknüpfungsspalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) umzuwandeln. Dann können Sie für jede Option einen vollständigen Datensatz in einer separaten Tabelle anlegen.
+Bei einer Mehrfachauswahl-Spalte haben Sie im Gegensatz zur Einfachauswahl-Spalte **nicht** die Möglichkeit, einen Standardwert festzulegen.
 
-## Ändern der Reihenfolge von Mehrfachauswahl-Optionen
+## Mehrfachauswahl oder Verknüpfung zu anderen Einträgen?
 
-Die Reihenfolge der Mehrfachauswahl-Optionen lässt sich auf dem **gleichen Weg** anpassen wie bei einer Einfachauswahl-Spalte. Eine detaillierte Anleitung finden Sie [hier]({{< relref "help/base-editor/auswahl-spalten/aendern-der-reihenfolge-von-einfachauswahl-optionen" >}}).
-
-## Mehrfachauswahl-Optionen exportieren und importieren
-
-Sie können die **Optionen** einer Mehrfachauswahl-Spalte wie bei einer Einfachauswahl-Spalte **exportieren** und **importieren**. Nähere Informationen dazu finden Sie [in diesem Artikel]({{< relref "help/base-editor/auswahl-spalten/einfachauswahl-optionen-exportieren-und-importieren" >}}).
+Wenn Sie sich wünschen, **zusätzliche Informationen** zu jeder Auswahloption speichern zu können, sollten Sie in Erwägung ziehen, statt einer Mehrfachauswahl-Spalte eine [Verknüpfungsspalte]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) zu verwenden. Dazu legen Sie in einer separaten Tabelle für alle Optionen vollständige Datensätze an, die Sie mit beliebig vielen Zeilen in anderen Tabellen verknüpfen können.

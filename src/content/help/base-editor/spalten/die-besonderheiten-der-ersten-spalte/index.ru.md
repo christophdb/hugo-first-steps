@@ -16,7 +16,13 @@ url: '/ru/pomoshch/die-besonderheiten-der-ersten-spalte'
 - В отличие от других столбцов, первый столбец таблицы **нельзя перемещать**.
 - В отличие от других столбцов, вы **не можете удалить** первый столбец таблицы.
 - Однако, в отличие от других колонок, первую колонку можно **закрепить** отдельно.
-- Первый столбец поддерживает только **типы столбцов** [текст]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}), [одиночный выбор]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), [автоматическое число]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}).
+- Для **первой колонки** можно выбрать только **шесть типов колонок**:
+  - [Текст]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+  - [Номер]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+  - [Дата]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
+  - [Одиночный выбор]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
+  - [Автоматический номер]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
+  - [Формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Как настроить тип первого столбца
 
@@ -29,15 +35,6 @@ url: '/ru/pomoshch/die-besonderheiten-der-ersten-spalte'
 5. При необходимости выполните **настройки формата**.
 6. Нажмите **Отправить**.
 7. Подтвердите настройку, нажав на кнопку **Convert (Преобразовать**).
-
-Для **первой колонки** можно выбрать только **шесть типов колонок**:
-
-- [Текст]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
-- [Номер]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
-- [Дата]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Одиночный выбор]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
-- [Автоматический номер]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-- [Формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
 
 ## Формулы в первом столбце
 

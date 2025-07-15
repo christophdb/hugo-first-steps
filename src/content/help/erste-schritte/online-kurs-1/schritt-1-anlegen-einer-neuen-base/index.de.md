@@ -97,6 +97,6 @@ Das war auch schon Schritt 1 dieses Online Kurses. Scrollen Sie bis ans Ende die
 - [Wie man den Spaltentyp anpasst]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
 - [Löschen einer Zeile]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Hinzufügen einer Spalte]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
-- [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}})
+- [Hinzufügen von Optionen zu einer Einfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
 - [Besonderheiten der ersten Spalte]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
 - [Aussehen einer Base anpassen (Icon und Farbe)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})

@@ -32,7 +32,7 @@ url: '/ru/pomoshch/farbliche-markierung-von-zeilen'
 
 {{< warning  headline="Создание одного столбца выбора" >}}
 
-[Здесь]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) вы узнаете, как создать новые колонки с одиночным выбором.
+[Здесь]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) вы узнаете, как создать новые колонки с одиночным выбором.
 
 {{< /warning >}}
 

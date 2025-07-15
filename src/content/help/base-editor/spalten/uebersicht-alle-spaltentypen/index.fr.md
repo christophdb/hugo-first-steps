@@ -62,17 +62,17 @@ La colonne des durées est un type de colonne de nombres spécialisé pour l'enr
 
 ### Sélection unique
 
-le symbole : {{< seatable-icon icon="dtable-icon-single-election" >}} **Sélection simple**
+le symbole : {{< seatable-icon icon="dtable-icon-single-election" >}} **Sélection unique**
 
-Dans une cellule d'une colonne de sélection simple, vous pouvez choisir **une valeur** dans une liste d'options définies. Vous créez vous-même la liste des options définies pour chaque colonne de sélection simple et pouvez l'adapter à tout moment aux circonstances changeantes. La sélection simple est donc particulièrement adaptée à la catégorisation et au regroupement de vos données.
+Dans une cellule d'une colonne de sélection unique, vous pouvez choisir **une valeur** dans une liste d'options définies. Vous créez vous-même la liste des options définies pour chaque colonne de sélection unique et pouvez l'adapter à tout moment aux circonstances changeantes. La sélection unique est donc particulièrement adaptée à la catégorisation et au regroupement de vos données.
 
-[En savoir plus sur la colonne de sélection simple]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+[En savoir plus sur la colonne de sélection unique]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
 
 ### Sélection multiple
 
-le symbole : {{< seatable-icon icon="dtable-icon-multiple-selection" >}} **Choix multiple**
+le symbole : {{< seatable-icon icon="dtable-icon-multiple-selection" >}} **Sélection multiple**
 
-Lors d'une sélection multiple, vous pouvez choisir un **nombre quelconque de valeurs** dans une liste d'options définies. Comme pour la sélection simple, vous créez vous-même la liste des valeurs possibles et l'adaptez à vos besoins individuels. La sélection multiple est donc idéale pour l'indexation - également appelée tagging.
+Lors d'une sélection multiple, vous pouvez choisir un **nombre quelconque de valeurs** dans une liste d'options définies. Comme pour la sélection unique, vous créez vous-même la liste des valeurs possibles et l'adaptez à vos besoins individuels. La sélection multiple est donc idéale pour l'indexation - également appelée tagging.
 
 [En savoir plus sur la colonne de sélection multiple]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
 

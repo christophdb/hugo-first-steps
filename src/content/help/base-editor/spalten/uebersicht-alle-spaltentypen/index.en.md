@@ -66,7 +66,7 @@ Icon: {{< seatable-icon icon="dtable-icon-single-election" >}} **Single selectio
 
 In a cell of a single-selection column you can select a **value** from a list of defined options. You create the list of defined options per single selection column yourself and can adapt it to changing circumstances at any time. The single selection is thus particularly suitable for categorizing and grouping your data.
 
-[More about the single selection column]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}})
+[More about the single selection column]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
 
 ### Multiple selection
 

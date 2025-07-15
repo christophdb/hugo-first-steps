@@ -28,10 +28,7 @@ Mit einem Klick auf **Base hinzufügen** legen Sie Ihre erste eigene Base an. Ge
 
 Die neue Base enthält von Beginn an eine [Tabelle]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}). Die Tabellenansicht ist die zentrale, aber nicht die einzige Ansicht von SeaTable. In der Tabellenansicht verwalten Sie die Tabellen der Base, definieren deren Spaltenstruktur und erfassen oder analysieren Ihre Daten.
 
-Vor der [Datenerfassung]({{< relref "help/base-editor/webformulare/webformulare" >}}) verhalten.
-
-SeaTable bietet insgesamt [über 20 Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
-). Aus herkömmlichen Tabellenkalkulationen kennen Sie bestimmt schon Text-, Zahl- und Datum-Spalten. Diese kennt natürlich auch SeaTable. Darüber hinaus bietet SeaTable Spalten für [Bilder und Dateien]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) und [Checkboxen]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}) und [Mehrfachauswahlfelder]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}}).
+SeaTable bietet insgesamt [über 20 Spaltentypen]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Aus herkömmlichen Tabellenkalkulationen kennen Sie bestimmt schon Text-, Zahl- und Datum-Spalten. Diese kennt natürlich auch SeaTable. Darüber hinaus bietet SeaTable Spalten für Bilder und Dateien, Schaltflächen und Checkboxen sowie Einfach- und Mehrfachauswahlfelder.
 
 Sie wollen Bilder zu einem Eintrag hinzufügen? Ziehen Sie einfach das Bild in eine Bild-Spalte und SeaTable speichert es direkt in der Tabelle. In SeaTable haben Sie alle Ihre Daten an einem Ort!
 

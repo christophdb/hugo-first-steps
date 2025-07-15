@@ -32,7 +32,7 @@ Für die Option **Einfachauswahl-Spalte verwenden** benötigen Sie in Ihrer Tabe
 
 {{< warning  headline="Anlegen einer Einfachauswahlspalte" >}}
 
-Erfahren Sie [hier]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), wie Sie neue Einfachauswahlspalten anlegen.
+Erfahren Sie [hier]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), wie Sie neue Einfachauswahlspalten anlegen.
 
 {{< /warning >}}
 

@@ -74,7 +74,7 @@ Defina aqui uma coluna de texto na qual tenha introduzido endereços ou nomes de
 
 ### Cor do marcador
 
-Se tiver [linhas com marcas de cor na]({{< relref "help/base-editor/auswahl-spalten/hinzufuegen-von-optionen-zu-einer-einfachauswahl-spalte" >}}) com opções de cor, pode seleccionar neste momento qual destas deve determinar a **cor das marcações do mapa**.
+Se tiver [linhas com marcas de cor]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou [colunas de seleção única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) com opções de cor, pode seleccionar neste momento qual destas deve determinar a **cor das marcações do mapa**.
 
 ### Campo de visualização
 

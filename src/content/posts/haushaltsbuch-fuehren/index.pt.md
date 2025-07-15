@@ -57,7 +57,7 @@ Pode introduzir facilmente todas as suas despesas no seu livro de orçamento dig
 - Montante da emissão e carregamento da fatura
 - Data, mês e unidade de custo da emissão
 
-Quer se trate de compras, renda e serviços públicos, seguro automóvel ou explicações para o seu filho - com o SeaTable pode controlar todas as suas despesas. Com a ajuda de [colunas de seleção única]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), pode **categorizar**, **filtrar** e **agrupar** as suas despesas individualmente. Para uma ordem cronológica no seu livro de orçamento, basta **ordenar** as suas despesas por [data]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). Pode listar o seu **rendimento** mensal e calcular o seu excedente **orçamental** em dois quadros adicionais.
+Quer se trate de compras, renda e serviços públicos, seguro automóvel ou explicações para o seu filho - com o SeaTable pode controlar todas as suas despesas. Com a ajuda de [colunas de seleção única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), pode **categorizar**, **filtrar** e **agrupar** as suas despesas individualmente. Para uma ordem cronológica no seu livro de orçamento, basta **ordenar** as suas despesas por [data]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). Pode listar o seu **rendimento** mensal e calcular o seu excedente **orçamental** em dois quadros adicionais.
 
 Se pretender utilizar o modelo para o seu livro de orçamento, [basta registar-se gratuitamente]({{< relref "pages/registration" >}}) no SeaTable. Pode então importar o [modelo]({{< relref "templates/finance/budget-book" >}}) para o seu espaço de trabalho e personalizá-lo de acordo com as suas necessidades.
 

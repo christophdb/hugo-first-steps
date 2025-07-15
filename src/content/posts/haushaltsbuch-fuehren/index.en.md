@@ -58,7 +58,7 @@ You can easily enter all your expenses in your digital budget book. Using the ex
 - Amount of the issue and upload of the invoice
 - Date, month and cost unit of issue
 
-Whether it's shopping, rent and utilities, car insurance or tutoring for your son - with SeaTable you can keep track of all your costs. With the help of [single-selection columns]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-einfachauswahl-spalte" >}}), you can **categorize**, **filter** and **group** your expenses individually. For a chronological order in your budget book, simply **sort** your expenses by [date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). You can list your monthly **income** and calculate your surplus **budget** in two additional tables.
+Whether it's shopping, rent and utilities, car insurance or tutoring for your son - with SeaTable you can keep track of all your costs. With the help of [single-selection columns]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), you can **categorize**, **filter** and **group** your expenses individually. For a chronological order in your budget book, simply **sort** your expenses by [date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). You can list your monthly **income** and calculate your surplus **budget** in two additional tables.
 
 If you would like to use the template for your budget book, [simply register for free]({{< relref "pages/registration" >}}) in SeaTable. You can then import the [template]({{< relref "templates/finance/budget-book" >}}) into your workspace and adapt it flexibly to your needs.
 
