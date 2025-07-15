@@ -4,7 +4,9 @@ date: 2024-04-03
 lastmod: '2024-04-03'
 coverImage: 'To-do-Liste-online_AdobeStock_481389921_bearbeitet.jpg'
 author: 'kgr'
-url: '/to-do-liste-online'
+url: '/online-to-do-list'
+aliases:
+    - /to-do-liste-online
 seo:
     title:
     description:

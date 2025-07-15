@@ -3,7 +3,9 @@ title: 'Ejemplo de análisis DAFO: Centrarse en los puntos fuertes y débiles in
 date: 2024-03-19
 lastmod: '2025-02-03'
 author: 'rdb'
-url: '/es/swot-analyse'
+url: '/es/analisis-swot'
+aliases:
+    - /es/swot-analyse
 seo:
     title:
     description:

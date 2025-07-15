@@ -3,7 +3,9 @@ title: 'A gestão das redes sociais explicada de forma simples: exemplos e model
 date: 2024-01-17
 lastmod: '2025-01-28'
 author: 'nsc'
-url: '/pt/social-media-management'
+url: '/pt/gestao-midia-social'
+aliases:
+    - /pt/social-media-management
 seo:
     title:
     description:

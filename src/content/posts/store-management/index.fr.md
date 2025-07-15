@@ -3,7 +3,9 @@ title: 'Gestion organisée des magasins avec SeaTable - SeaTable'
 date: 2021-10-21
 lastmod: '2023-07-11'
 author: 'rbu'
-url: '/fr/store-management-mit-seatable'
+url: '/fr/gestion-magasin-avec-seatable'
+aliases:
+    - /fr/store-management-mit-seatable
 color: '#eeeeee'
 seo:
     title:

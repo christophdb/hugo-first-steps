@@ -3,7 +3,9 @@ title: 'Управление коллекцией с помощью цифров
 date: 2022-07-01
 lastmod: '2024-03-21'
 author: 'cdb'
-url: '/ru/sammlung-verwalten'
+url: '/ru/upravlenie-kollektsiey'
+aliases:
+    - /ru/sammlung-verwalten
 seo:
     title:
     description:

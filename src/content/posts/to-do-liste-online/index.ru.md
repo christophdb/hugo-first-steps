@@ -3,7 +3,9 @@ title: 'Создайте список дел онлайн с помощью пр
 date: 2024-04-03
 lastmod: '2024-04-03'
 author: 'kgr'
-url: '/ru/to-do-liste-online'
+url: '/ru/online-spisok-del'
+aliases:
+    - /ru/to-do-liste-online
 seo:
     title:
     description:

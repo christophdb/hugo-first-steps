@@ -3,7 +3,9 @@ title: 'Организованное управление магазином с 
 date: 2021-10-21
 lastmod: '2023-07-11'
 author: 'rbu'
-url: '/ru/store-management-mit-seatable'
+url: '/ru/upravlenie-magazinom-s-seatable'
+aliases:
+    - /ru/store-management-mit-seatable
 color: '#eeeeee'
 seo:
     title:

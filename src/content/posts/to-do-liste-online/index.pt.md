@@ -3,7 +3,9 @@ title: 'Criar uma lista de tarefas online com a aplicação'
 date: 2024-04-03
 lastmod: '2024-04-03'
 author: 'kgr'
-url: '/pt/to-do-liste-online'
+url: '/pt/lista-tarefas-online'
+aliases:
+    - /pt/to-do-liste-online
 seo:
     title:
     description:

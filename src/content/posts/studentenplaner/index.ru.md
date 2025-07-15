@@ -3,7 +3,9 @@ title: 'Настройте свой студенческий планировщ�
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
-url: '/ru/studentenplaner'
+url: '/ru/studentcheskiy-planner'
+aliases:
+    - /ru/studentenplaner
 seo:
     title:
     description:

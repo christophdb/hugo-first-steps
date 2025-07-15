@@ -4,7 +4,9 @@ date: 2021-05-15
 lastmod: '2023-07-11'
 coverImage: 'SeaTableEE_Installation_With_Webserver.png'
 author: 'rdb'
-url: '/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren'
+url: '//seatable-enterprise-installation-server-webserver'
+aliases:
+    - /seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
 color: '#eeeeee'
 seo:
     title:

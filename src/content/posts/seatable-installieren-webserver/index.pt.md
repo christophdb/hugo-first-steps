@@ -3,7 +3,9 @@ title: 'Instale o SeaTable Enterprise no seu próprio servidor por detrás de um
 date: 2021-05-15
 lastmod: '2023-07-11'
 author: 'rdb'
-url: '/pt/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren'
+url: '/pt/instalacao-seatable-enterprise-servidor-web'
+aliases:
+    - /pt/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
 color: '#eeeeee'
 seo:
     title:

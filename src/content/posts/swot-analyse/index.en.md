@@ -4,7 +4,9 @@ date: 2024-03-19
 lastmod: '2025-02-03'
 coverImage: 'Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg'
 author: 'rdb'
-url: '/swot-analyse'
+url: '/swot-analysis'
+aliases:
+    - /swot-analyse
 seo:
     title:
     description:

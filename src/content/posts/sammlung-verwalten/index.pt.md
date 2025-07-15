@@ -3,7 +3,9 @@ title: 'Gerir colecções com ferramentas digitais'
 date: 2022-07-01
 lastmod: '2024-03-21'
 author: 'cdb'
-url: '/pt/sammlung-verwalten'
+url: '/pt/gerenciar-colecao'
+aliases:
+    - /pt/sammlung-verwalten
 seo:
     title:
     description:

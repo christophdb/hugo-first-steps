@@ -3,7 +3,9 @@ title: 'Personalice su agenda estudiantil | con SeaTable'
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
-url: '/es/studentenplaner'
+url: '/es/planificador-estudiantil'
+aliases:
+    - /es/studentenplaner
 seo:
     title:
     description:
