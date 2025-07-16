@@ -3,7 +3,9 @@ title: 'Desesperado por um escritório em casa? Com estas dicas, funciona! | Sea
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
-url: '/pt/homeoffice-tipps'
+url: '/pt/dicas-home-office'
+aliases:
+    - /pt/homeoffice-tipps
 color: '#eeeeee'
 seo:
     title:

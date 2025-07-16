@@ -3,7 +3,9 @@ title: 'La gestión inmobiliaria más fácil: Gestión inmobiliaria profesional'
 date: 2023-11-03
 lastmod: '2023-11-06'
 author: 'ott'
-url: '/es/hausverwaltung'
+url: '/es/administracion-edificios'
+aliases:
+    - /es/hausverwaltung
 seo:
     title:
     description:

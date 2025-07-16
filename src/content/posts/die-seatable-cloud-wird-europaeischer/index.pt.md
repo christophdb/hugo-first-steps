@@ -3,7 +3,9 @@ title: 'AWS: SeaTable Cloud separa-se da Amazon e torna-se mais europeu'
 date: 2021-05-20
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/pt/die-seatable-cloud-wird-europaeischer'
+url: '/pt/seatable-cloud-mais-europeia'
+aliases:
+    - /pt/die-seatable-cloud-wird-europaeischer
 color: '#eeeeee'
 seo:
     title:

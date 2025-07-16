@@ -2,7 +2,9 @@
 title: 'Collecte de fonds : comment collecter et gérer les dons - SeaTable'
 date: 2024-04-16
 lastmod: '2024-04-16'
-url: '/fr/fundraising'
+url: '/fr/collecte-fonds'
+aliases:
+    - /fr/fundraising
 seo:
     title:
     description:

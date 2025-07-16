@@ -3,7 +3,9 @@ title: 'Propiedad: 4 plantillas útiles para inquilinos y propietarios'
 date: 2022-04-17
 lastmod: '2023-11-06'
 author: 'cdb'
-url: '/es/immobilienverwaltung'
+url: '/es/gestion-inmobiliaria'
+aliases:
+    - /es/immobilienverwaltung
 seo:
     title:
     description:

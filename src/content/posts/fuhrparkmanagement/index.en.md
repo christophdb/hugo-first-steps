@@ -2,7 +2,9 @@
 title: 'Fleet management: How to manage your fleet cleverly'
 date: 2024-01-09
 lastmod: '2025-02-12'
-url: '/fuhrparkmanagement'
+url: '/fleet-management'
+aliases:
+    - /fuhrparkmanagement
 seo:
     title:
     description:

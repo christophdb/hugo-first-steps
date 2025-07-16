@@ -3,7 +3,9 @@ title: 'Lista de equipaje para el festival: Lo imprescindible para una experienc
 date: 2024-03-13
 lastmod: '2024-07-26'
 author: 'nsc'
-url: '/es/festival-packliste'
+url: '/es/lista-empacar-festival'
+aliases:
+    - /es/festival-packliste
 color: '#eeeeee'
 seo:
     title:

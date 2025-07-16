@@ -3,7 +3,9 @@ title: 'Lleve un libro de presupuesto: Ahorra dinero con estos 12 consejos'
 date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
-url: '/es/haushaltsbuch-fuehren'
+url: '/es/llevar-libro-gastos'
+aliases:
+    - /es/haushaltsbuch-fuehren
 seo:
     title:
     description:

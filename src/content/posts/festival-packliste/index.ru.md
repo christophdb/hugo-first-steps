@@ -3,7 +3,9 @@ title: 'Список вещей для фестиваля: Необходимы�
 date: 2024-03-13
 lastmod: '2024-07-26'
 author: 'nsc'
-url: '/ru/festival-packliste'
+url: '/ru/spisok-veshchey-dlya-festivala'
+aliases:
+    - /ru/festival-packliste
 color: '#eeeeee'
 seo:
     title:

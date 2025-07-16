@@ -4,7 +4,9 @@ date: 2024-02-05
 lastmod: '2024-02-05'
 coverImage: 'einkaufswagen-voller-produkte-in-einem-supermarkt.jpg'
 author: 'nsc'
-url: '/einkaufsliste'
+url: '/shopping-list'
+aliases:
+    - /einkaufsliste
 seo:
     title:
     description:

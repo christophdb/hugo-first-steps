@@ -3,7 +3,9 @@ title: 'Трекер привычек - как изменить свои при�
 date: 2023-12-06
 lastmod: '2024-01-25'
 author: 'lsc'
-url: '/ru/habit-tracker'
+url: '/ru/treker-privychek'
+aliases:
+    - /ru/habit-tracker
 seo:
     title:
     description:

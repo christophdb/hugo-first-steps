@@ -3,7 +3,9 @@ title: 'Manter um livro de orçamento: Poupe dinheiro com estas 12 dicas'
 date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
-url: '/pt/haushaltsbuch-fuehren'
+url: '/pt/manter-caderno-financas'
+aliases:
+    - /pt/haushaltsbuch-fuehren
 seo:
     title:
     description:

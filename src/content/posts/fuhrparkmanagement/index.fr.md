@@ -2,7 +2,9 @@
 title: 'Gestion de la flotte : comment gérer intelligemment votre parc de véhicules'
 date: 2024-01-09
 lastmod: '2025-02-12'
-url: '/fr/fuhrparkmanagement'
+url: '/fr/gestion-flotte'
+aliases:
+    - /fr/fuhrparkmanagement
 seo:
     title:
     description:

@@ -4,7 +4,9 @@ date: 2021-05-20
 lastmod: '2023-07-11'
 coverImage: 'seatable-europa-aws-exoscale-migraton.jpg'
 author: 'cdb'
-url: '/die-seatable-cloud-wird-europaeischer'
+url: '/seatable-cloud-goes-more-european'
+aliases:
+    - /die-seatable-cloud-wird-europaeischer
 color: '#eeeeee'
 seo:
     title:

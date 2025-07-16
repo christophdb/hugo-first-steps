@@ -3,7 +3,9 @@ title: 'Отчаялись работать дома? С этими совета
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
-url: '/ru/homeoffice-tipps'
+url: '/ru/sovety-home-office'
+aliases:
+    - /ru/homeoffice-tipps
 color: '#eeeeee'
 seo:
     title:

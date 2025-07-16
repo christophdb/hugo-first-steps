@@ -3,7 +3,9 @@ title: 'Geburtstagsfeier planen – in 3 Schritten zur perfekten Party'
 description: 'Desde a escolha da data e do local até à lista de convidados, ao catering e à música - planear a sua festa com bastante antecedência cria as condições perfeitas para uma festa de aniversário bem sucedida.'
 date: 2023-07-26
 lastmod: '2024-01-11'
-url: '/pt/geburtstagsfeier-planen'
+url: '/pt/planejar-festa-aniversario'
+aliases:
+    - /pt/geburtstagsfeier-planen
 seo:
     title:
     description:

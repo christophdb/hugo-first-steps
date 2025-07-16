@@ -4,7 +4,10 @@ description: ''
 date: 2021-10-21
 lastmod: '2024-08-09'
 author: 'ott'
-url: '/de/in-4-schritten-zu-effizienteren-teammeetings'
+url: '/de/effizientere-teammeetings-4-schritte'
+aliases:
+    - /de/in-4-schritten-zu-effizienteren-teammeetings
+
 color: '#eeeeee'
 seo:
     title: ''

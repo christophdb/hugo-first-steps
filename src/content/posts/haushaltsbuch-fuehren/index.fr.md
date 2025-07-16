@@ -3,7 +3,9 @@ title: "Tenir un livre de comptes : Ces 12 conseils vous permettront d'économis
 date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
-url: '/fr/haushaltsbuch-fuehren'
+url: '/fr/tenir-livre-comptes'
+aliases:
+    - /fr/haushaltsbuch-fuehren
 seo:
     title:
     description:

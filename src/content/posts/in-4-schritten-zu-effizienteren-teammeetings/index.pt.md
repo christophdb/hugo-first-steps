@@ -3,7 +3,9 @@ title: '4 passos para reuniões de equipa mais eficientes - SeaTable'
 date: 2021-10-21
 lastmod: '2024-08-09'
 author: 'ott'
-url: '/pt/in-4-schritten-zu-effizienteren-teammeetings'
+url: '/pt/reunioes-equipe-mais-eficientes-4-passos'
+aliases:
+    - /pt/in-4-schritten-zu-effizienteren-teammeetings
 color: '#eeeeee'
 seo:
     title:

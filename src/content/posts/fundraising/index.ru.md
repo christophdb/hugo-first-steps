@@ -2,7 +2,9 @@
 title: 'Фандрайзинг: как собирать пожертвования и управлять ими - SeaTable'
 date: 2024-04-16
 lastmod: '2024-04-16'
-url: '/ru/fundraising'
+url: '/ru/sbor-sredstv'
+aliases:
+    - /ru/fundraising
 seo:
     title:
     description:

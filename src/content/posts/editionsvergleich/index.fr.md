@@ -3,7 +3,9 @@ title: 'Comparaison de SeaTable Developer et Enterprise Edition'
 date: 2022-02-03
 lastmod: '2022-02-15'
 author: 'cdb'
-url: '/fr/editionsvergleich'
+url: '/fr/comparatif-editions'
+aliases:
+    - /fr/editionsvergleich
 color: '#eeeeee'
 seo:
     title:

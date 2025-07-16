@@ -3,7 +3,9 @@ title: 'Lista de bagagem para o festival: Artigos indispensáveis para uma exper
 date: 2024-03-13
 lastmod: '2024-07-26'
 author: 'nsc'
-url: '/pt/festival-packliste'
+url: '/pt/lista-itens-festival'
+aliases:
+    - /pt/festival-packliste
 color: '#eeeeee'
 seo:
     title:

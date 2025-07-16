@@ -3,7 +3,9 @@ title: 'Как: Как составить план действий на вес�
 date: 2021-05-04
 lastmod: '2023-07-11'
 author: 'ott'
-url: '/ru/how-to-massnahmenplan'
+url: '/ru/kak-sostavit-plan-meropriyatiy'
+aliases:
+    - /ru/how-to-massnahmenplan
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Compras indirectas: sencillas y rentables con SeaTable - SeaTable'
 date: 2021-11-19
 lastmod: '2023-07-11'
 author: 'ott'
-url: '/es/indirekter-einkauf'
+url: '/es/compras-indirectas'
+aliases:
+    - /es/indirekter-einkauf/
 color: '#eeeeee'
 seo:
     title:

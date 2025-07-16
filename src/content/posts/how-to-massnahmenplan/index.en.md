@@ -4,7 +4,9 @@ date: 2021-05-04
 lastmod: '2023-07-11'
 coverImage: 'pexels-breakingpic-3299.jpg'
 author: 'ott'
-url: '/how-to-massnahmenplan'
+url: '/how-to-action-plan'
+aliases:
+    - /how-to-massnahmenplan
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Косвенные закупки: простота и экономия 
 date: 2021-11-19
 lastmod: '2023-07-11'
 author: 'ott'
-url: '/ru/indirekter-einkauf'
+url: '/ru/kosvennye-zakupki'
+aliases:
+    - /ru/indirekter-einkauf/
 color: '#eeeeee'
 seo:
     title:

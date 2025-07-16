@@ -3,7 +3,9 @@ title: "Héritage numérique : comment gérer vos données d'accès"
 date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
-url: '/fr/digitaler-nachlass'
+url: '/fr/heritage-numerique'
+aliases:
+    - /fr/digitaler-nachlass
 seo:
     title:
     description:

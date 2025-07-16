@@ -4,7 +4,9 @@ date: 2021-11-19
 lastmod: '2023-07-11'
 coverImage: 'indirect_procurement.jpg'
 author: 'ott'
-url: '/indirekter-einkauf'
+url: '/indirect-procurement'
+aliases:
+    - /indirekter-einkauf/
 color: '#eeeeee'
 seo:
     title:
