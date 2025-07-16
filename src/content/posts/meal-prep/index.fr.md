@@ -3,7 +3,9 @@ title: "Meal Prep - cuisiner à l'avance des repas sains et bon marché + plan h
 date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
-url: '/fr/meal-prep'
+url: '/fr/preparation-repas'
+aliases:
+    - /fr/meal-prep
 seo:
     title:
     description:

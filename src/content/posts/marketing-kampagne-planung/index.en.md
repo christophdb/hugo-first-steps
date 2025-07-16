@@ -4,7 +4,9 @@ date: 2022-08-05
 lastmod: '2022-07-25'
 coverImage: 'Marketing-Kampagne-Planung_AdobeStock_439332312.jpg'
 author: 'rdb'
-url: '/marketing-kampagne-planung'
+url: '/marketing-campaign-planning'
+aliases:
+    - /marketing-kampagne-planung
 color: '#eeeeee'
 seo:
     title:

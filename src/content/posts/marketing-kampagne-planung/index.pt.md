@@ -3,7 +3,9 @@ title: 'Dicas para planear a sua campanha de marketing'
 date: 2022-08-05
 lastmod: '2022-07-25'
 author: 'rdb'
-url: '/pt/marketing-kampagne-planung'
+url: '/pt/planejamento-campanha-marketing'
+aliases:
+    - /pt/marketing-kampagne-planung
 color: '#eeeeee'
 seo:
     title:

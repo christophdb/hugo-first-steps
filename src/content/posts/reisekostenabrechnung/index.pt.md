@@ -3,7 +3,9 @@ title: 'Relatório de despesas de viagem: tudo o que precisa de saber'
 date: 2025-01-17
 lastmod: '2025-01-17'
 author: 'nsc'
-url: '/pt/reisekostenabrechnung'
+url: '/pt/relatorio-despesas-viagem'
+aliases:
+    - /pt/reisekostenabrechnung
 color: '#eeeeee'
 seo:
     title:

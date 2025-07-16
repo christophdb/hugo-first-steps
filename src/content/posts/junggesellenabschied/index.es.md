@@ -3,7 +3,9 @@ title: 'Despedida de soltero: ideas y consejos para un viaje perfecto'
 date: 2024-08-06
 lastmod: '2024-08-07'
 author: 'nsc'
-url: '/es/junggesellenabschied'
+url: '/es/despedida-soltero'
+aliases:
+    - /es/junggesellenabschied
 seo:
     title:
     description:

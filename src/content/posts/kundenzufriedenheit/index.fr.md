@@ -3,7 +3,9 @@ title: 'Mesurer, évaluer et améliorer la satisfaction des clients - SeaTable'
 date: 2021-03-05
 lastmod: '2023-06-28'
 author: 'cdb'
-url: '/fr/kundenzufriedenheit'
+url: '/fr/satisfaction-clients'
+aliases:
+    - /fr/kundenzufriedenheit
 seo:
     title:
     description:

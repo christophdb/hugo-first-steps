@@ -3,7 +3,9 @@ title: 'Подготовка еды - подготовка здоровой и �
 date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
-url: '/ru/meal-prep'
+url: '/ru/podgotovka-pitaniya'
+aliases:
+    - /ru/meal-prep
 seo:
     title:
     description:

@@ -4,6 +4,8 @@ date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
 url: '/es/meal-prep'
+aliases:
+    - /es/meal-prep
 seo:
     title:
     description:

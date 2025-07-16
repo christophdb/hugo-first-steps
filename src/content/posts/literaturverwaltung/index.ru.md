@@ -3,7 +3,9 @@ title: 'Программа управления литературой для л
 date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
-url: '/ru/literaturverwaltung'
+url: '/ru/upravlenie-literaturoy'
+aliases:
+    - /ru/literaturverwaltung
 seo:
     title:
     description:

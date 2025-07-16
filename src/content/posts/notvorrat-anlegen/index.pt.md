@@ -3,7 +3,9 @@ title: 'Abastecer-se de material de emergência: O que deve ter sempre em casa'
 date: 2023-09-20
 lastmod: '2023-09-20'
 author: 'lsc'
-url: '/pt/notvorrat-anlegen'
+url: '/pt/criar-kit-emergencia'
+aliases:
+    - /pt/notvorrat-anlegen
 seo:
     title:
     description:

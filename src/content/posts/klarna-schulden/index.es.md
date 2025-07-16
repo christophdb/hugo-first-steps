@@ -3,7 +3,9 @@ title: 'Klarna debt: cómo tener las finanzas bajo control'
 date: 2024-04-19
 lastmod: '2024-04-19'
 author: 'nsc'
-url: '/es/klarna-schulden'
+url: '/es/deudas-klarna'
+aliases:
+    - /es/klarna-schulden
 seo:
     title:
     description:

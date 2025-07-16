@@ -4,7 +4,9 @@ date: 2025-01-17
 lastmod: '2025-01-17'
 coverImage: 'guests-with-suitcases-hotel-reception.jpg'
 author: 'nsc'
-url: '/reisekostenabrechnung'
+url: '/travel-expense-report'
+aliases:
+    - /reisekostenabrechnung
 color: '#eeeeee'
 seo:
     title: 'Travel expense report: Everything important for companies & travelers'

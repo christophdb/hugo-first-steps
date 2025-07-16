@@ -4,7 +4,9 @@ date: 2023-06-06
 lastmod: '2023-06-28'
 coverImage: 'windows-MYomVPpR5FU-unsplash-scaled.jpg'
 author: 'nsc2'
-url: '/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten'
+url: '/remote-sales-teams-effective-work'
+aliases:
+    - /remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten
 color: '#eeeeee'
 seo:
     title:

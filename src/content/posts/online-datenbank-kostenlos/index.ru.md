@@ -3,7 +3,9 @@ title: '9 лучших бесплатных онлайновых баз данн
 date: 2022-07-08
 lastmod: '2022-07-27'
 author: 'rdb'
-url: '/ru/online-datenbank-kostenlos'
+url: '/ru/besplatnaya-onlayn-baza-dannyh'
+aliases:
+    - /ru/online-datenbank-kostenlos
 color: '#eeeeee'
 seo:
     title:

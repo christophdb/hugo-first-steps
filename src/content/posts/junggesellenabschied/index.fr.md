@@ -3,7 +3,9 @@ title: 'Enterrement de vie de garçon - Idées et conseils pour la visite parfai
 date: 2024-08-06
 lastmod: '2024-08-07'
 author: 'nsc'
-url: '/fr/junggesellenabschied'
+url: '/fr/enterrement-vie-garcon'
+aliases:
+    - /fr/junggesellenabschied
 seo:
     title:
     description:

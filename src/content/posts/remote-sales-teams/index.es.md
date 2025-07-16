@@ -3,7 +3,9 @@ title: '6 consejos para aumentar la productividad de su equipo remoto - SeaTable
 date: 2021-10-07
 lastmod: '2023-07-11'
 author: 'rbu'
-url: '/es/remote-sales-teams'
+url: '/es/equipos-ventas-remotas'
+aliases:
+    - /es/remote-sales-teams
 color: '#eeeeee'
 seo:
     title:

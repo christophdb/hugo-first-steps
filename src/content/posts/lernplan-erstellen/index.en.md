@@ -4,7 +4,9 @@ date: 2024-05-02
 lastmod: '2024-05-02'
 coverImage: 'pexels-prateekkatyal-2740956.jpg'
 author: 'nsc'
-url: '/lernplan-erstellen'
+url: '/create-learning-plan'
+aliases:
+    - /lernplan-erstellen
 seo:
     title:
     description:

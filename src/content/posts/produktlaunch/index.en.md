@@ -4,7 +4,9 @@ date: 2020-09-24
 lastmod: '2022-06-13'
 coverImage: 'SeaTable-Product-Launch.jpg'
 author: 'rbu'
-url: '/produktlaunch'
+url: '/product-launch'
+aliases:
+    - /produktlaunch
 color: '#eeeeee'
 seo:
     title:

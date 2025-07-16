@@ -3,7 +3,9 @@ title: 'Criar um plano de aprendizagem - 7 passos para a nota máxima'
 date: 2024-05-02
 lastmod: '2024-05-02'
 author: 'nsc'
-url: '/pt/lernplan-erstellen'
+url: '/pt/criar-plano-estudos'
+aliases:
+    - /pt/lernplan-erstellen
 seo:
     title:
     description:

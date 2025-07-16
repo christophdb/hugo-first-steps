@@ -3,7 +3,9 @@ title: 'Измерение, оценка и повышение удовлетв�
 date: 2021-03-05
 lastmod: '2023-06-28'
 author: 'cdb'
-url: '/ru/kundenzufriedenheit'
+url: '/ru/udovletvorennost-klientov'
+aliases:
+    - /ru/kundenzufriedenheit
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: "Créer une liste d'inventaire - avec un modèle gratuit, Excel ou Word"
 date: 2024-02-23
 lastmod: '2025-01-10'
 author: 'kgr'
-url: '/fr/inventarliste-erstellen'
+url: '/fr/creer-liste-inventaire'
+aliases:
+    - /fr/inventarliste-erstellen
 seo:
     title:
     description:

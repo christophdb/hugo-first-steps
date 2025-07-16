@@ -4,7 +4,9 @@ description: ''
 date: 2023-06-06
 lastmod: '2023-06-28'
 author: 'nsc2'
-url: '/de/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten'
+url: '/de/remote-sales-teams-effektives-arbeiten'
+aliases:
+    - /de/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten
 color: '#eeeeee'
 seo:
     title: 'Remote Sales Teams: Bewährte Praktiken für effektives Arbeiten'

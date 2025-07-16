@@ -3,7 +3,9 @@ title: 'Klarna dettes - comment maîtriser vos finances'
 date: 2024-04-19
 lastmod: '2024-04-19'
 author: 'nsc'
-url: '/fr/klarna-schulden'
+url: '/fr/dettes-klarna'
+aliases:
+    - /fr/klarna-schulden
 seo:
     title:
     description:

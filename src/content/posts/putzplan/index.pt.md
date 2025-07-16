@@ -3,7 +3,9 @@ title: 'Crie um plano de limpeza de acordo com os seus desejos: Modelo e dicas'
 date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
-url: '/pt/putzplan'
+url: '/pt/plano-limpeza'
+aliases:
+    - /pt/putzplan
 seo:
     title:
     description:

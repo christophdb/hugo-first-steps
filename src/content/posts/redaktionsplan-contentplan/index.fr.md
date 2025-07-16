@@ -3,7 +3,9 @@ title: 'Créer un plan éditorial | un plan de contenu : Conseils et astuces ave
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/fr/redaktionsplan-contentplan'
+url: '/fr/calendrier-editorial-plan-contenu'
+aliases:
+    - /fr/redaktionsplan-contentplan
 color: '#8ddb8c'
 categories:
     - 'best-practice'

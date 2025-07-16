@@ -3,7 +3,9 @@ title: 'Советы по планированию маркетинговой к
 date: 2022-08-05
 lastmod: '2022-07-25'
 author: 'rdb'
-url: '/ru/marketing-kampagne-planung'
+url: '/ru/planirovanie-marketingovoy-kampanii'
+aliases:
+    - /ru/marketing-kampagne-planung
 color: '#eeeeee'
 seo:
     title:

@@ -4,7 +4,9 @@ date: 2024-03-04
 lastmod: '2025-02-20'
 coverImage: 'Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg'
 author: 'cdb'
-url: '/kosten-nutzen-analyse-vorlage'
+url: '/cost-benefit-analysis-template'
+aliases:
+    - /kosten-nutzen-analyse-vorlage
 seo:
     title:
     description:

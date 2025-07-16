@@ -3,7 +3,9 @@ title: 'Создайте инвентаризационную ведомость
 date: 2024-02-23
 lastmod: '2025-01-10'
 author: 'kgr'
-url: '/ru/inventarliste-erstellen'
+url: '/ru/sozdat-inventarnyy-spisok'
+aliases:
+    - /ru/inventarliste-erstellen
 seo:
     title:
     description:

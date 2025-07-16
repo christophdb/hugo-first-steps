@@ -3,7 +3,9 @@ title: 'Запуск продукта - гарантированная рабо�
 date: 2020-09-24
 lastmod: '2022-06-13'
 author: 'rbu'
-url: '/ru/produktlaunch'
+url: '/ru/zapusk-produkta'
+aliases:
+    - /ru/produktlaunch
 color: '#eeeeee'
 seo:
     title:

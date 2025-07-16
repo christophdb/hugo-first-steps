@@ -3,7 +3,9 @@ title: 'Qualitative content analysis explained simply - example: press review'
 date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
-url: '/qualitative-inhaltsanalyse'
+url: '/qualitative-content-analysis'
+aliases:
+    - /qualitative-inhaltsanalyse
 seo:
     title:
     description:

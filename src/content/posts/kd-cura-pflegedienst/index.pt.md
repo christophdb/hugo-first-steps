@@ -3,7 +3,9 @@ title: 'Trabalho pioneiro digital no serviço de cuidados'
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/pt/kd-cura-pflegedienst'
+url: '/pt/kd-cura-servico-enfermagem'
+aliases:
+    - /pt/kd-cura-pflegedienst
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Ведите обзор с помощью редакционного п�
 date: 2024-02-07
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/ru/redaktionsplan-social-media'
+url: '/ru/redaktsionnyy-kalendar-social-media'
+aliases:
+    - /ru/reisekostenabrechnung
 color: '#eeeeee'
 seo:
     title:

@@ -4,7 +4,9 @@ date: 2022-07-08
 lastmod: '2022-07-27'
 coverImage: 'Online-Datenbank-kostenlos_AdobeStock_203168528_bearbeitet.jpg'
 author: 'rdb'
-url: '/online-datenbank-kostenlos'
+url: '/free-online-database'
+aliases:
+    - /online-datenbank-kostenlos
 color: '#eeeeee'
 seo:
     title:

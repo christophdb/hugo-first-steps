@@ -4,7 +4,9 @@ date: 2022-05-27
 lastmod: '2025-01-17'
 coverImage: 'Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg'
 author: 'rdb'
-url: '/redaktionsplan-contentplan'
+url: '/editorial-calendar-content-plan'
+aliases:
+    - /redaktionsplan-contentplan
 color: '#8ddb8c'
 categories:
     - 'best-practice'

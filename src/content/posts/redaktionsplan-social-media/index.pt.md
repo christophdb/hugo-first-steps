@@ -3,7 +3,9 @@ title: 'Manter uma visão geral com um plano editorial para as redes sociais'
 date: 2024-02-07
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/pt/redaktionsplan-social-media'
+url: '/pt/calendario-editorial-midia-social'
+aliases:
+    - /pt/reisekostenabrechnung
 color: '#eeeeee'
 seo:
     title:

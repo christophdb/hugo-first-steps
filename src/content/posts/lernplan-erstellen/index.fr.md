@@ -3,7 +3,9 @@ title: "Elaborer un plan d'apprentissage - en 7 étapes vers la meilleure note"
 date: 2024-05-02
 lastmod: '2024-05-02'
 author: 'nsc'
-url: '/fr/lernplan-erstellen'
+url: '/fr/creer-plan-apprentissage'
+aliases:
+    - /fr/lernplan-erstellen
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: 'El análisis de contenido cualitativo explicado de forma sencilla - ejem
 date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
-url: '/es/qualitative-inhaltsanalyse'
+url: '/es/analisis-cualitativo-contenido'
+aliases:
+    - /es/qualitative-inhaltsanalyse
 seo:
     title:
     description:

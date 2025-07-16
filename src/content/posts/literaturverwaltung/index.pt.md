@@ -3,7 +3,9 @@ title: 'Programa de gestão da literatura para uma melhor visão de conjunto'
 date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
-url: '/pt/literaturverwaltung'
+url: '/pt/gerenciamento-referencias'
+aliases:
+    - /pt/literaturverwaltung
 seo:
     title:
     description:

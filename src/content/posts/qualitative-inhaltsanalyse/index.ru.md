@@ -3,7 +3,9 @@ title: 'Качественный контент-анализ - простое о
 date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
-url: '/ru/qualitative-inhaltsanalyse'
+url: '/ru/kvalitativnyy-analiz-kontenta'
+aliases:
+    - /ru/qualitative-inhaltsanalyse
 seo:
     title:
     description:

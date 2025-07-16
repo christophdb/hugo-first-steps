@@ -4,7 +4,9 @@ date: 2021-04-29
 lastmod: '2023-07-11'
 coverImage: 'pexels-lukas-669619.jpg'
 author: 'ott'
-url: '/produktmanagement'
+url: '/product-management'
+aliases:
+    - /produktmanagement
 color: '#eeeeee'
 seo:
     title:

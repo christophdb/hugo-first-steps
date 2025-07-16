@@ -3,7 +3,9 @@ title: 'Crear una lista de inventario: con una plantilla gratuita, Excel o Word'
 date: 2024-02-23
 lastmod: '2025-01-10'
 author: 'kgr'
-url: '/es/inventarliste-erstellen'
+url: '/es/crear-lista-inventario'
+aliases:
+    - /es/inventarliste-erstellen
 seo:
     title:
     description:

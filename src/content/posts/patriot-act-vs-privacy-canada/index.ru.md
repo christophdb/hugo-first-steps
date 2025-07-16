@@ -3,7 +3,9 @@ title: 'Патриотический акт против защиты данны
 date: 2023-07-17
 lastmod: '2023-08-18'
 author: 'cdb'
-url: '/ru/patriot-act-vs-privacy-canada'
+url: '/ru/patriot-act-protiv-konfidencialnosti-kanada'
+aliases:
+    - /ru/patriot-act-vs-privacy-canada
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: '6 conseils pour améliorer la productivité de votre équipe à distance
 date: 2021-10-07
 lastmod: '2023-07-11'
 author: 'rbu'
-url: '/fr/remote-sales-teams'
+url: '/fr/equipes-ventes-a-distance'
+aliases:
+    - /fr/remote-sales-teams
 color: '#eeeeee'
 seo:
     title:
