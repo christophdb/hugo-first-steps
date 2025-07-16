@@ -3,7 +3,9 @@ title: 'CRM: Desde el registro del cliente hasta la oferta - SeaTable'
 date: 2021-07-22
 lastmod: '2023-07-11'
 author: 'pbr'
-url: '/es/crm-angebotsmanagement'
+url: '/es/crm-gestion-ofertas'
+aliases:
+    - /es/crm-angebotsmanagement
 color: '#eeeeee'
 seo:
     title:

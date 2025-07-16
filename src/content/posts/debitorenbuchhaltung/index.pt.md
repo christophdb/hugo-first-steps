@@ -3,7 +3,9 @@ title: 'Contabilidade optimizada de contas a receber com SeaTable - SeaTable'
 date: 2021-08-26
 lastmod: '2023-07-11'
 author: 'pbr'
-url: '/pt/debitorenbuchhaltung'
+url: '/pt/contabilidade-devedores'
+aliases:
+    - /pt/debitorenbuchhaltung
 color: '#eeeeee'
 seo:
     title:

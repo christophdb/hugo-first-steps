@@ -3,7 +3,9 @@ title: 'Une comptabilité clients optimale avec SeaTable - SeaTable'
 date: 2021-08-26
 lastmod: '2023-07-11'
 author: 'pbr'
-url: '/fr/debitorenbuchhaltung'
+url: '/fr/comptabilite-clients'
+aliases:
+    - /fr/debitorenbuchhaltung
 color: '#eeeeee'
 seo:
     title:

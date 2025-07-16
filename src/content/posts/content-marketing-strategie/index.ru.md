@@ -3,7 +3,9 @@ title: 'Как разработать стратегию контент-марк
 date: 2021-02-28
 lastmod: '2023-06-26'
 author: 'cdb'
-url: '/ru/content-marketing'
+url: '/ru/kontekt-marketing'
+aliases:
+    - /ru/content-marketing
 color: '#eeeeee'
 seo:
     title:

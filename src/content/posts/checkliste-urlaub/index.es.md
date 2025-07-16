@@ -3,7 +3,9 @@ title: 'Lista de control para las vacaciones: todo bajo control para un viaje pe
 date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
-url: '/es/checkliste-urlaub'
+url: '/es/checklist-vacaciones'
+aliases:
+    - /es/checkliste-urlaub
 seo:
     title:
     description:

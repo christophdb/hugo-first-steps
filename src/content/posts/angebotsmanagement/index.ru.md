@@ -3,7 +3,9 @@ title: 'Правильное управление предложениями д�
 date: 2022-07-22
 lastmod: '2022-07-27'
 author: 'rdb'
-url: '/ru/angebotsmanagement'
+url: '/ru/upravlenie-predlozheniyami'
+aliases:
+    - /ru/angebotsmanagement
 color: '#eeeeee'
 seo:
     title:

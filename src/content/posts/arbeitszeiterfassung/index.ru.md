@@ -3,7 +3,9 @@ title: 'Законодательные требования к учету раб
 date: 2023-04-20
 lastmod: '2023-04-25'
 author: 'kgr'
-url: '/ru/arbeitszeiterfassung'
+url: '/ru/uchet-rabochego-vremeni'
+aliases:
+    - /ru/arbeitszeiterfassung
 color: '#eeeeee'
 seo:
     title:

@@ -3,7 +3,9 @@ title: 'Reembolso de gastos: consejos para empresarios y trabajadores'
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
-url: '/es/auslagenerstattung'
+url: '/es/reembolso-gastos'
+aliases:
+    - /es/auslagenerstattung
 seo:
     title:
     description:

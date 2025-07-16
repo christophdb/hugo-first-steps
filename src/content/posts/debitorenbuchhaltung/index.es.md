@@ -3,7 +3,9 @@ title: 'Contabilidad óptima de las cuentas por cobrar con SeaTable - SeaTable'
 date: 2021-08-26
 lastmod: '2023-07-11'
 author: 'pbr'
-url: '/es/debitorenbuchhaltung'
+url: '/es/contabilidad-deudores'
+aliases:
+    - /es/debitorenbuchhaltung
 color: '#eeeeee'
 seo:
     title:

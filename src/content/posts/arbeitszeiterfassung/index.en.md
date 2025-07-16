@@ -5,7 +5,9 @@ date: 2023-04-20
 lastmod: '2023-04-25'
 coverImage: 'pexels-jeshootscom-714701-scaled.jpg'
 author: 'kgr'
-url: '/arbeitszeiterfassung'
+url: '/time-tracking'
+aliases:
+    - /arbeitszeiterfassung
 color: '#eeeeee'
 seo:
     title:

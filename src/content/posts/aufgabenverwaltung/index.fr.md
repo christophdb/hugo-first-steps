@@ -3,7 +3,9 @@ title: 'Gestion des tâches : planifier et utiliser les ressources de manière o
 date: 2021-09-23
 lastmod: '2025-02-28'
 author: 'ott'
-url: '/fr/aufgabenverwaltung'
+url: '/fr/gestion-taches'
+aliases:
+    - /fr/aufgabenverwaltung
 color: '#eeeeee'
 seo:
     title:

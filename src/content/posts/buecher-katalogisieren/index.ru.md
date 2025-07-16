@@ -3,7 +3,9 @@ title: 'Простая каталогизация книг'
 date: 2022-07-29
 lastmod: '2024-12-02'
 author: 'cdb'
-url: '/ru/buecher-katalogisieren'
+url: '/ru/katalogizirovat-knigi'
+aliases:
+    - /ru/buecher-katalogisieren
 seo:
     title:
     description:

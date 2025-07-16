@@ -4,7 +4,9 @@ date: 2024-07-17
 lastmod: '2024-07-17'
 coverImage: 'nattu-adnan-atSUvc1hMwk-unsplash-scaled.jpg'
 author: 'nsc'
-url: '/checkliste-urlaub'
+url: '/vacation-checklist'
+aliases:
+    - /checkliste-urlaub
 seo:
     title:
     description:

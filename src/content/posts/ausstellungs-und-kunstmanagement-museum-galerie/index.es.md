@@ -3,7 +3,9 @@ title: 'Gestión del arte: cómo gestionar museos y galerías digitalmente - Sea
 date: 2021-03-09
 lastmod: '2023-07-05'
 author: 'cdb'
-url: '/es/ausstellungs-und-kunstmanagement-museum-galerie'
+url: '/es/gestion-exposicion-arte-museo-galeria'
+aliases:
+    - /es/ausstellungs-und-kunstmanagement-museum-galerie
 seo:
     title:
     description:

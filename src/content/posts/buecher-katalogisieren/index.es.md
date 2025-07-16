@@ -3,7 +3,9 @@ title: 'La catalogación de libros se hace más fácil'
 date: 2022-07-29
 lastmod: '2024-12-02'
 author: 'cdb'
-url: '/es/buecher-katalogisieren'
+url: '/es/catalogar-libros'
+aliases:
+    - /es/buecher-katalogisieren
 seo:
     title:
     description:

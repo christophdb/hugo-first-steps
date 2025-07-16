@@ -3,7 +3,9 @@ title: 'CRM: от регистрации клиента до предложен�
 date: 2021-07-22
 lastmod: '2023-07-11'
 author: 'pbr'
-url: '/ru/crm-angebotsmanagement'
+url: '/ru/crm-upravlenie-predlozheniyami'
+aliases:
+    - /ru/crm-angebotsmanagement
 color: '#eeeeee'
 seo:
     title:

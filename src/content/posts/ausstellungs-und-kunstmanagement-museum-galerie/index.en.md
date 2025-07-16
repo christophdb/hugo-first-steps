@@ -4,7 +4,9 @@ date: 2021-03-09
 lastmod: '2023-07-05'
 coverImage: 'seatable-art-exhibition-management.jpg'
 author: 'cdb'
-url: '/ausstellungs-und-kunstmanagement-museum-galerie'
+url: '/exhibition-art-management-museum-gallery'
+aliases:
+    - /ausstellungs-und-kunstmanagement-museum-galerie
 seo:
     title:
     description:

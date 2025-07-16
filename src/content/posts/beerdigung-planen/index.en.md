@@ -4,7 +4,9 @@ description: Have you lost a loved one and want to ensure that the upcoming fune
 date: 2023-08-17
 lastmod: '2024-01-25'
 author: 'kgr'
-url: '/beerdigung-planen'
+url: '/plan-funeral'
+aliases:
+    - /beerdigung-planen
 seo:
     title: Planning a funeral - for a dignified farewell
     description: When someone dies, relatives often don't know how to plan a funeral. This article will help you to say goodbye with dignity.

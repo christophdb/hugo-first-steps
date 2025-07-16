@@ -3,7 +3,9 @@ title: 'Сопроводительное письмо: Как убедить л�
 date: 2024-04-22
 lastmod: '2024-04-22'
 author: 'lsc'
-url: '/ru/bewerbungsschreiben'
+url: '/ru/soprovoditelnoe-pismo'
+aliases:
+    - /ru/bewerbungsschreiben
 seo:
     title:
     description:

@@ -3,7 +3,9 @@ title: 'Возмещение расходов - советы для работо
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
-url: '/ru/auslagenerstattung'
+url: '/ru/vozvrat-rasxodov'
+aliases:
+    - /ru/auslagenerstattung
 seo:
     title:
     description:

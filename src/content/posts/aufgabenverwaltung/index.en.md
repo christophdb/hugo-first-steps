@@ -4,7 +4,9 @@ date: 2021-09-23
 lastmod: '2025-02-28'
 coverImage: 'project-management.jpg'
 author: 'ott'
-url: '/aufgabenverwaltung'
+url: '/task-management'
+aliases:
+    - /aufgabenverwaltung
 color: '#eeeeee'
 seo:
     title:

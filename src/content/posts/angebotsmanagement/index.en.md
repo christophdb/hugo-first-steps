@@ -8,7 +8,9 @@ date: 2022-07-22
 lastmod: '2022-07-27'
 coverImage: 'Angebotsmanagement_AdobeStock_62533714.jpg'
 author: 'rdb'
-url: '/angebotsmanagement'
+url: '/quote-management'
+aliases:
+    - /angebotsmanagement
 color: '#eeeeee'
 seo:
     title:

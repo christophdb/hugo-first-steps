@@ -3,7 +3,9 @@ title: 'Des idées de contenu qui fonctionnent toujours'
 date: 2024-01-24
 lastmod: '2025-02-13'
 author: 'nsc'
-url: '/fr/content-ideen'
+url: '/fr/idees-contenu'
+aliases:
+    - /fr/content-ideen
 seo:
     title:
     description:

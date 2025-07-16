@@ -3,7 +3,9 @@ title: 'Берлинский хоккейный клуб переходит на
 date: 2021-02-08
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/ru/berliner-hockeyclub'
+url: '/ru/berliner-khokkeynyy-klub'
+aliases:
+    - /ru/berliner-hockeyclub
 color: '#eeeeee'
 seo:
     title:

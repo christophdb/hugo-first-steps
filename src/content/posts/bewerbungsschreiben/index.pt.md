@@ -3,7 +3,9 @@ title: 'Carta de apresentação: Como convencer todos os recrutadores'
 date: 2024-04-22
 lastmod: '2024-04-22'
 author: 'lsc'
-url: '/pt/bewerbungsschreiben'
+url: '/pt/carta-apresentacao'
+aliases:
+    - /pt/bewerbungsschreiben
 seo:
     title:
     description:

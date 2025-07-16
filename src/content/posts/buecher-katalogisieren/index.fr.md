@@ -3,7 +3,9 @@ title: 'Cataloguer des livres en toute simplicité'
 date: 2022-07-29
 lastmod: '2024-12-02'
 author: 'cdb'
-url: '/fr/buecher-katalogisieren'
+url: '/fr/cataloguer-livres'
+aliases:
+    - /fr/buecher-katalogisieren
 seo:
     title:
     description:

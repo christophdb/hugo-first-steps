@@ -3,7 +3,9 @@ title: 'Идеи контента, которые всегда работают'
 date: 2024-01-24
 lastmod: '2025-02-13'
 author: 'nsc'
-url: '/ru/content-ideen'
+url: '/ru/idei-kontenta'
+aliases:
+    - /ru/content-ideen
 seo:
     title:
     description:

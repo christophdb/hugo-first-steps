@@ -3,7 +3,9 @@ title: 'Requisitos legales para el registro horario de sus empleados - SeaTable'
 date: 2023-04-20
 lastmod: '2023-04-25'
 author: 'kgr'
-url: '/es/arbeitszeiterfassung'
+url: '/es/control-horas-trabajo'
+aliases:
+    - /es/arbeitszeiterfassung
 color: '#eeeeee'
 seo:
     title:

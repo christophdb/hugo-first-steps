@@ -3,7 +3,9 @@ title: 'Remboursement des frais - Conseils pour les employeurs et les employés'
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
-url: '/fr/auslagenerstattung'
+url: '/fr/remboursement-frais'
+aliases:
+    - /fr/auslagenerstattung
 seo:
     title:
     description:

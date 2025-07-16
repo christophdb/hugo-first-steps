@@ -3,7 +3,9 @@ title: 'КСО - основы корпоративной социальной о
 date: 2024-04-08
 lastmod: '2025-05-19'
 author: 'nsc'
-url: '/ru/csr'
+url: '/ru/kso'
+aliases:
+    - /ru/csr
 seo:
     title:
     description:

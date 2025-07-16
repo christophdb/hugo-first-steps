@@ -3,7 +3,9 @@ title: 'Rédaction de livres : 7 outils logiciels de création en un coup d’œ
 date: 2024-03-20
 lastmod: '2024-03-20'
 author: 'nsc'
-url: '/fr/buch-schreiben'
+url: '/fr/ecrire-livre'
+aliases:
+    - /fr/buch-schreiben
 seo:
     title:
     description:

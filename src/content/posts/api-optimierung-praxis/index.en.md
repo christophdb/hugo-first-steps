@@ -9,7 +9,7 @@ url: '/api-optimization'
 color: '#4e92a9'
 ---
 
-# API Optimization in Practice: How to Stay Within Limits and Boost Performance with Fewer Calls
+## API Optimization in Practice: How to Stay Within Limits and Boost Performance with Fewer Calls
 
 In the past, **SeaTable** only had general minute and daily limits for using the SeaTable API. These limits were intended to prevent abuse or faulty code with excessive loops. As a cloud solution, this kind of protection is essential to ensure performance and availability for all users. Without these restrictions, a few intensive users could heavily burden the system and compromise stability for everyone.
 

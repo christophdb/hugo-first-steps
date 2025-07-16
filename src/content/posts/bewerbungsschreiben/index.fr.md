@@ -3,7 +3,9 @@ title: 'La lettre de motivation : Comment convaincre tout recruteur'
 date: 2024-04-22
 lastmod: '2024-04-22'
 author: 'lsc'
-url: '/fr/bewerbungsschreiben'
+url: '/fr/lettre-motivation'
+aliases:
+    - /fr/bewerbungsschreiben
 seo:
     title:
     description:

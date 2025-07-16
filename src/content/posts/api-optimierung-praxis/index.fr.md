@@ -9,7 +9,7 @@ url: '/fr/optimisation-api'
 color: '#4e92a9'
 ---
 
-# Optimisation de l’API en pratique : comment respecter les limites et améliorer les performances avec moins d’appels
+## Optimisation de l’API en pratique : comment respecter les limites et améliorer les performances avec moins d’appels
 
 Dans le passé, **SeaTable** ne proposait que des limites générales à la minute et à la journée pour l’utilisation de son API. Ces limites visaient à empêcher les abus ou le code défectueux avec des boucles excessives. En tant que solution cloud, ce type de protection est essentiel pour garantir la performance et la disponibilité pour tous les utilisateurs. Sans ces restrictions, quelques utilisateurs intensifs pourraient surcharger le système et compromettre la stabilité globale.
 

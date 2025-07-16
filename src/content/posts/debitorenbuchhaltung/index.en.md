@@ -4,7 +4,9 @@ date: 2021-08-26
 lastmod: '2023-07-11'
 coverImage: 'Buchhaltung.jpg'
 author: 'pbr'
-url: '/debitorenbuchhaltung'
+url: '/accounts-receivable'
+aliases:
+    - /debitorenbuchhaltung
 color: '#eeeeee'
 seo:
     title:
