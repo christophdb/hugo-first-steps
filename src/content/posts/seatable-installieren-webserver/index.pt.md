@@ -6,13 +6,15 @@ author: 'rdb'
 url: '/pt/instalacao-seatable-enterprise-servidor-web'
 aliases:
     - /pt/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
-color: '#eeeeee'
+color: '#265697'
 seo:
     title:
     description:
 ---
 
 No artigo [Instalando SeaTable Enterprise Edition sob Ubuntu Server 20.04 LTS]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) explicamos a instalação padrão de SeaTable Enterprise num servidor com Ubuntu Linux. Na instalação padrão, o SeaTable é instalado num servidor em que nenhuma outra aplicação web está em execução. Mas e se as portas 80 e 443 já estiverem ocupadas por outro serviço como um servidor web nginx ou Apache? Respondemos a esta pergunta neste artigo. Como verá, a resposta é encantadoramente simples.
+
+{{< warning headline="Este manual está desatualizado" text="Tenha em atenção que este manual está desatualizado. Consulte as instruções de instalação actualizadas disponíveis em [https://manual.seatable.io](https://manual.seatable.io)" />}}
 
 ## Requisitos
 
