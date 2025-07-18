@@ -28,7 +28,7 @@ sections:
         - curved
         - bg-seatable-blue
       title: Die deutsche No-Code-Alternative zu Asana
-      subtitle: DSGVO-konform, flexibel und leistungstark
+      subtitle: DSGVO-konform, flexibel und leistungsstark
       description: SeaTable ist die ideale Lösung für alle, die eine Asana Alternative z. B. für Projektmanagement oder Task Management suchen. 
       items:
         - text: individuell anpassbare Datenstrukturen
@@ -45,7 +45,7 @@ sections:
       title: Leistungsstarke Asana Alternative für Marketing
       subtitle: Flexibel, anpassbar und skalierbar
       items:
-      - text: SeaTable überzeugt als zentralisiertes Marketing Management Tool durch effizientes Kampagnenmanagement. Dank der flexiblen Datenbankstruktur, integrierten Automatisierungen und kollaborativer Zusammenarbeit in Echtzeit erhalten alle Beteiligten jederzeit einen klaren Überblick über laufende Maßnahmen. Die SeaTable API ermöglicht eine eine nahtlose Verknüpfung bestehender Marketing-Tools – dank No-Code ohne IT-Aufwand. 
+      - text: SeaTable überzeugt als zentralisiertes Marketing Management Tool durch effizientes Kampagnenmanagement. Dank der flexiblen Datenbankstruktur, integrierten Automatisierungen und kollaborativer Zusammenarbeit in Echtzeit, erhalten alle Beteiligten jederzeit einen klaren Überblick über laufende Maßnahmen. Die SeaTable API ermöglicht eine nahtlose Verknüpfung bestehender Marketing-Tools – dank No-Code ohne IT-Aufwand. 
       image: /images/asana-marketing.jpg
       image_position: left
 
@@ -54,7 +54,7 @@ sections:
       title: SeaTable als Projektmanagement Tool statt Asana
       subtitle: Zentralisieren, automatisieren, optimieren
       items:
-      - text: Als innovative Alternative zu Asana überzeugt die No-Code Lösung durch effizientes Task Management und transparente Projektübersicht, die Teams jederzeit den aktuellen Status ihrer Aufgaben im Blick behalten lässt. Die Echtzeit-Kollaboration ermöglicht nahtlose Zusammenarbeit, während flexible Ansichten wie Kanban oder Gantt eine intuitive Visualisierung des Projektfortschritts ermöglicht. 
+      - text: Als innovative Alternative zu Asana überzeugt die No-Code Lösung durch effizientes Task Management und transparente Projektübersicht, die Teams jederzeit den aktuellen Status ihrer Aufgaben im Blick behalten lässt. Die Echtzeit-Kollaboration ermöglicht nahtlose Zusammenarbeit.  Flexible Ansichten wie Kanban oder Gantt erlauben eine intuitive Visualisierung des Projektfortschritts. 
       image: /images/asana-projektportfoliomanagement.jpg
 
     - name: content-11
@@ -114,10 +114,10 @@ sections:
       weight: 9
       title: Umfangreiche Funktionen in allen Preismodellen
       subtitle: Cloud oder self-hosted?
-      description: 'Große Organisationen profitieren zusätzlich von der fehlenden Begrenzung der Nutzeranzahl in allen SeaTable-Bezahlmodellen – unabhängig davon, ob Sie als sich für SeaTable Cloud oder SeaTable Server entscheiden. Beide Optionen garantieren höchste Sicherheit und Anpassungsfähigkeit, um Ihre spezifischen Anforderungen zu erfüllen.'
+      description: 'Große Organisationen profitieren zusätzlich von der fehlenden Begrenzung der Nutzeranzahl in allen SeaTable-Bezahlmodellen – unabhängig davon, ob Sie sich für SeaTable Cloud oder SeaTable Server entscheiden. Beide Optionen garantieren höchste Sicherheit und Anpassungsfähigkeit, um Ihre spezifischen Anforderungen zu erfüllen.'
       items:
           - headline: SeaTable Cloud
-            text: Perfekt für Unternehmen, die schnell und ohne umfangreiche IT-Infrastruktur starten wollen – flexibibel und skalierbar.
+            text: Perfekt für Unternehmen, die schnell und ohne umfangreiche IT-Infrastruktur starten wollen – flexibel und skalierbar.
             image: /images/template-projektplan.png
           - headline: SeaTable Server
             text: Für Unternehmen, die die volle Kontrolle über ihre Daten behalten wollen, bietet SeaTable Server eine On-Premises-Option.
@@ -157,7 +157,7 @@ sections:
 
       - icon: user-plus
         headline: Benutzerdefinierte Sicherheitseinstellungen
-        text: "Richten Sie individuelle Zugriffs- und Bearbeitungsrechte ein und beschränken Sie den Zugang zu sensiblen Daten . Zusammen mit der Option, den Login durch eine Zwei-Faktor-Authentifizierung zu sichern, erhöhen Nutzer zusätzlich die Sicherheit ihrer Daten."
+        text: "Richten Sie individuelle Zugriffs- und Bearbeitungsrechte ein und beschränken Sie den Zugang zu sensiblen Daten. Zusammen mit der Option, den Login durch eine Zwei-Faktor-Authentifizierung zu sichern, erhöhen Nutzer zusätzlich die Datensicherheit."
 
       - icon: fingerprint
         headline: Authentifizierung und Single-Sign-On
@@ -165,7 +165,7 @@ sections:
 
     - name: "banner-2"
       weight: 14
-      title: Komplexe Prozesse einfach umgesetzt - mit SeaTable 
+      title: Komplexe Prozesse einfach umgesetzt – mit SeaTable 
       buttons:
            - label: Jetzt registrieren und sofort loslegen
              link: pages/registration
@@ -188,5 +188,5 @@ sections:
           - q: 'Bietet SeaTable einen kostenlosen Support?'
             a: 'Unser Support steht Ihnen für alle Fragen rund um SeaTable zur Verfügung. Sie können Ihre Fragen entweder im Forum stellen oder direkt eine E-Mail schreiben. Damit bietet SeaTable als deutsche Alternative zu Asana ein Support-Paket, dass so keine Asana Alternativen bieten.'
           - q: 'Bietet SeaTable auch eine Kanban-Ansicht?'
-            a: 'Ja, SeaTable bietet wie das Projektmanagement Tool Asana Kanban Boards und darüber hinaus noch weitere Projektansichten. Wenn Sie das Arbeiten mit Asana gewohnt sind, werden Sie sich in SeaTable leicht zurecht finden und feststellen, dass sich eine SeaTable Ansicht nicht grundlegend von einem Asana Board unterscheiden. Alle Ansichten stehen Ihnen unabhängig vom gewählten Abo zur Verfügung. Wenn Sie bisher Ihr Projektmanagement mit Asana gemacht haben, können Sie SeaTable als Ersatz zur Asana Software kostenlos nutzen. Ohne Einschränkungen in der Darstellung Ihrer Prozesse ist SeaTable die ideale Alternative zum Asana Projektmanagement Tool, oder um ebenso wie in Asana Ressourcenplanung zu betreiben.' 
+            a: 'Ja, SeaTable bietet wie das Projektmanagement Tool Asana Kanban Boards und darüber hinaus noch weitere Projektansichten. Wenn Sie das Arbeiten mit Asana gewohnt sind, werden Sie sich in SeaTable leicht zurecht finden und feststellen, dass sich eine SeaTable Ansicht nicht grundlegend von einem Asana Board unterscheidet. Alle Ansichten stehen Ihnen unabhängig vom gewählten Abo zur Verfügung. Wenn Sie bisher Ihr Projektmanagement mit Asana gemacht haben, können Sie SeaTable als Ersatz zur Asana Software kostenlos nutzen. Ohne Einschränkungen in der Darstellung Ihrer Prozesse ist SeaTable die ideale Alternative zum Asana Projektmanagement Tool, oder um ebenso wie in Asana Ressourcenplanung zu betreiben.' 
 ---
