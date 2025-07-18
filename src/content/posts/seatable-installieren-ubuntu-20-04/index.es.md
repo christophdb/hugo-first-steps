@@ -9,6 +9,7 @@ aliases:
 seo:
     title:
     description:
+color: '#3b6bb1'
 ---
 
 Gracias a Docker , la instalación de SeaTable Enterprise Edition es muy sencilla y puede realizarse en unos instantes. Ubuntu Server, como sistema operativo Linux ampliamente utilizado y bien documentado, es una base excelente para SeaTable. Si ya tienes un servidor Ubuntu, puedes descubrir aquí cómo instalar SeaTable en él en 10 minutos.

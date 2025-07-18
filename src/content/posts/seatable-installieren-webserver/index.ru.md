@@ -6,13 +6,15 @@ author: 'rdb'
 url: '/ru/ustanovka-seatable-enterprise-server-webserver'
 aliases:
     - /ru/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
-color: '#eeeeee'
+color: '#265697'
 seo:
     title:
     description:
 ---
 
 В статье [Установка SeaTable Enterprise Edition под Ubuntu Server 20.04 LTS]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) мы рассказали о стандартной установке SeaTable Enterprise на сервер с Ubuntu Linux. При стандартной установке SeaTable устанавливается на сервер, на котором не запущены другие веб-приложения. Но что делать, если порты 80 и 443 уже заняты другой службой, например, веб-сервером nginx или Apache? Мы ответим на этот вопрос в данной статье. Как вы увидите, ответ восхитительно прост.
+
+{{< warning headline="Это руководство устарело" text="Обратите внимание, что данное руководство устарело. Обратитесь к обновленным инструкциям по установке, доступным на сайте [https://manual.seatable.io](https://manual.seatable.io)." />}}
 
 ## Требования
 
