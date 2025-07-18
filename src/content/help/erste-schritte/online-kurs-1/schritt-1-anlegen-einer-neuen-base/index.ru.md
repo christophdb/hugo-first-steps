@@ -97,6 +97,6 @@ url: '/ru/pomoshch/schritt-1-anlegen-einer-neuen-base'
 - [Как настроить тип колонки]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}})
 - [Удалить строку]({{< relref "help/base-editor/zeilen/das-loeschen-von-zeilen" >}})
 - [Добавить колонку]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}})
-- [Добавление опций в колонку с одним выбором]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
+- [Добавление опций в колонку с одним выбором]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
 - [Особенности первой колонны]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}})
 - [Настройка внешнего вида базы (значок и цвет)]({{< relref "help/startseite/bases/aussehen-einer-base-anpassen-icon-und-farbe" >}})

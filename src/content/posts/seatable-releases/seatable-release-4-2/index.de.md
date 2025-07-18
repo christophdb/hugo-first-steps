@@ -64,7 +64,7 @@ Die [automatisierte Aktion „Eintrag bearbeiten“]({{< relref "help/base-edito
 
 ## Neue Funktion in der Formel-Spalte: iserror()
 
-Für [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})\-Freunde ist die neue Funktion **iserror()** ein Schmankerl. Sie prüft, ob ein Argument ein **Fehlerwert** (z. B. #DIV/0!, #VALUE!) ist. Insbesondere für [Formeln mit if-Operatoren]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}) lässt sich dank dieser Funktion eine höhere Ergebnisqualität erzielen.
+Für [Formel]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})\-Freunde ist die neue Funktion **iserror()** ein Schmankerl. Sie prüft, ob ein Argument ein **Fehlerwert** (z. B. #DIV/0!, #VALUE!) ist. Insbesondere für [Formeln mit if-Operatoren]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}) lässt sich dank dieser Funktion eine höhere Ergebnisqualität erzielen.
 
 ## Und vieles mehr
 
@@ -88,4 +88,4 @@ In den [Sicherheitseinstellungen]({{< relref "help/base-editor/weitere-optionen/
 
 {{< /warning >}}
 
-Außerdem unterstützt SeaTable 4.2 nun auch den Spaltentyp [Automatische Nummer]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) bei den Datenverarbeitungsoperationen [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) sowie [Vergleichen und kopieren]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).
+Außerdem unterstützt SeaTable 4.2 nun auch den Spaltentyp [Automatische Nummer]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) bei den Datenverarbeitungsoperationen [Vergleichen und verknüpfen]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) sowie [Vergleichen und kopieren]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).

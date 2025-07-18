@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/bilder-und-dateien-aus-einer-zeile-loeschen'
 ---
 
-SeaTable allows you to **delete** **files** and **images** in several ways. The following instructions apply to both [image]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) and [file columns]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}).
+SeaTable allows you to **delete** **files** and **images** in several ways. The following instructions apply to both [image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) and [file columns]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}).
 
 ## Remove files and images via the row details
 

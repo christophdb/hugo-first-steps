@@ -38,6 +38,6 @@ url: '/ru/pomoshch/schritt-4-geldeingang'
 
 - [Настройка учетной записи электронной почты в базе]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
 - [Настройте Gmail для отправки писем через SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
-- [Кнопка]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
+- [Кнопка]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
 - [Отправка сообщения электронной почты с помощью кнопки]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Электронная почта с помощью автоматизации]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

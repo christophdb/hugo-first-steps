@@ -40,7 +40,7 @@ In den Seiteneinstellungen dieses Seitentyps findet sich ab SeaTable 5.2 die Fun
 
 Bei [gesperrten Datensätzen]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}) erhält der Benutzer nun auch eine Rückmeldung, dass die Bearbeitung nicht möglich ist. Ein entsprechender Hinweis wird eingeblendet, wenn Sie den Mauszeiger in der Toolbar auf “Eintrag bearbeiten” bewegen.
 
-Neben der Berechtigungssteuerung enthält die neue Version auch noch zwei Verbesserungen zur Steigerung der Nutzerfreundlichkeit: Felder vom Typ [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) und [E-Mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) sind ab sofort klickbar. Der Aufruf einer Webseite oder das Schreiben einer E-Mail geht so noch schneller. (Dateien in Dateispalten werden in der Version 5.3 klickbar.) Bei Bild-Elementen auf der Seite können Sie den Füllmodus einstellen. Drei Modi stehen Ihnen zur Verfügung: Anpassen, ausfüllen und dehnen.
+Neben der Berechtigungssteuerung enthält die neue Version auch noch zwei Verbesserungen zur Steigerung der Nutzerfreundlichkeit: Felder vom Typ [URL]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}) und [E-Mail]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) sind ab sofort klickbar. Der Aufruf einer Webseite oder das Schreiben einer E-Mail geht so noch schneller. (Dateien in Dateispalten werden in der Version 5.3 klickbar.) Bei Bild-Elementen auf der Seite können Sie den Füllmodus einstellen. Drei Modi stehen Ihnen zur Verfügung: Anpassen, ausfüllen und dehnen.
 
 ### Seitentyp Formular
 
@@ -48,7 +48,7 @@ Einfache [Webformulare]({{< relref "help/base-editor/webformulare" >}}), die sic
 
 ### Seitentyp Tabelle
 
-Die **voreingestellten Filter** in den Dateneinstellungen erlauben nun die Auswahl aller relevanten Spaltentypen inklusive [Formel-]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) und [Verknüpfungsspalten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Damit ist eine wichtige funktionale Einschränkung bei der Vorfilterung der Daten aufgehoben. Mit der Implementierung von Filtergruppen in einer der kommenden Versionen wird dieser Seitentyp die gleichen leistungsfähigen Filtermöglichkeiten bieten wie die Base.
+Die **voreingestellten Filter** in den Dateneinstellungen erlauben nun die Auswahl aller relevanten Spaltentypen inklusive [Formel-]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) und [Verknüpfungsspalten]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Damit ist eine wichtige funktionale Einschränkung bei der Vorfilterung der Daten aufgehoben. Mit der Implementierung von Filtergruppen in einer der kommenden Versionen wird dieser Seitentyp die gleichen leistungsfähigen Filtermöglichkeiten bieten wie die Base.
 
 ### Individuelle Seiten
 
@@ -106,7 +106,7 @@ SeaTable unterstützt mit der neuen Version die **Anmeldung an Google und Micros
 
 Tabellen lassen sich nun, wie man es aus Microsoft Excel kennt, ausblenden. Ein **ausgeblendetes Tabellenblatt** wird nicht mehr als Tab angezeigt und ist nur noch über das Drop-down-Menü aufrufbar.
 
-[Checkboxen]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) bieten in SeaTable 5.2 mehr Stiloptionen und noch mehr Farboptionen. Wer den grünen Haken nicht mag, kann nun aus 69 anderen Optionen wählen.
+[Checkboxen]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) bieten in SeaTable 5.2 mehr Stiloptionen und noch mehr Farboptionen. Wer den grünen Haken nicht mag, kann nun aus 69 anderen Optionen wählen.
 
 Im [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) lassen sich neue Einträge nun auch per Doppelklick oder über die neue Schaltfläche “+” anlegen.
 

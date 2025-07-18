@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/bilder-und-dateien-aus-einer-zeile-loeschen'
 ---
 
-SeaTable erlaubt das **Löschen** von **Dateien** und **Bildern** auf verschiedenen Wegen. Die folgenden Anleitungen gelten sowohl für [Bild-]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) als auch für [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}).
+SeaTable erlaubt das **Löschen** von **Dateien** und **Bildern** auf verschiedenen Wegen. Die folgenden Anleitungen gelten sowohl für [Bild-]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) als auch für [Datei-Spalten]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}).
 
 ## Dateien und Bilder über die Zeilendetails entfernen
 

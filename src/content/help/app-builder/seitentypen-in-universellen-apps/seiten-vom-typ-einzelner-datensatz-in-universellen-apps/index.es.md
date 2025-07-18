@@ -109,7 +109,7 @@ También encontrará un **generador de códigos QR** en la barra de herramientas
 
 ## Ejecutar acciones de botón
 
-Al igual que en las páginas de tablas y consultas, aquí también puede utilizar columnas de tipo [botón]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Tanto si desea crear un documento PDF, editar un registro de datos o ejecutar un script, puede iniciar todas estas **acciones con** sólo pulsar un botón. Para ello **no** se requiere autorización de edición. De este modo, los administradores de aplicaciones pueden restringir las interacciones del usuario para este tipo de página a unas pocas acciones predefinidas.
+Al igual que en las páginas de tablas y consultas, aquí también puede utilizar columnas de tipo [botón]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}). Tanto si desea crear un documento PDF, editar un registro de datos o ejecutar un script, puede iniciar todas estas **acciones con** sólo pulsar un botón. Para ello **no** se requiere autorización de edición. De este modo, los administradores de aplicaciones pueden restringir las interacciones del usuario para este tipo de página a unas pocas acciones predefinidas.
 
 ## Autorizaciones de páginas
 
@@ -121,7 +121,7 @@ Decida quién está autorizado a **ver** y **editar** los registros de datos ind
 
 {{< warning  headline="Atención con los botones" >}}
 
-[Los botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar la página.
+[Los botones]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar la página.
 
 {{< /warning >}}
 

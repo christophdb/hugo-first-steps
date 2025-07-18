@@ -32,7 +32,7 @@ Für die Option **Einfachauswahl-Spalte verwenden** benötigen Sie in Ihrer Tabe
 
 {{< warning  headline="Anlegen einer Einfachauswahlspalte" >}}
 
-Erfahren Sie [hier]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), wie Sie neue Einfachauswahlspalten anlegen.
+Erfahren Sie [hier]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}), wie Sie neue Einfachauswahlspalten anlegen.
 
 {{< /warning >}}
 
@@ -51,7 +51,7 @@ Die Option **Regeln verwenden** erlaubt es Ihnen, Bedingungen für die farbliche
 
 ### Beispiel für Regel verwenden
 
-In diesem Beispiel sollen alle Zeilen in einem Redaktionsplan markiert werden, die in der [Checkbox-Spalte]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) als erledigt markiert sind. Hierfür wurde die **Spalte "Published"** ausgewählt, die Bedingung **"ist"** verwendet und festgelegt, dass die **mit einem Haken versehenen** Zeilen markiert werden sollen.
+In diesem Beispiel sollen alle Zeilen in einem Redaktionsplan markiert werden, die in der [Checkbox-Spalte]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) als erledigt markiert sind. Hierfür wurde die **Spalte "Published"** ausgewählt, die Bedingung **"ist"** verwendet und festgelegt, dass die **mit einem Haken versehenen** Zeilen markiert werden sollen.
 
 ![Farbliche Markierung von Zeilen](images/Farbliche-Markierung-von-Zellen-9.png)
 

@@ -71,7 +71,7 @@ Ganz unten in den Seiteneinstellungen können Sie eingrenzen, wer die Abfragesei
 
 Das ist die einzige [Seitenberechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}), die Sie hier zur Auswahl haben. Über Abfrageseiten kann man keine Zeilen in der Tabelle hinzufügen oder löschen.
 
-Allerdings können die Nutzer der App nach einer erfolgreichen Datenabfrage [Schaltflächen]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) in der angezeigten Trefferliste betätigen, um bestimmte **Aktionen auszuführen**.
+Allerdings können die Nutzer der App nach einer erfolgreichen Datenabfrage [Schaltflächen]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) in der angezeigten Trefferliste betätigen, um bestimmte **Aktionen auszuführen**.
 
 ![Schaltflächen auf Abfrageseiten ausführen](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -79,7 +79,7 @@ Ein Anwendungsbeispiel ist eine interne Stellenbörse: Die Abfrageseite erlaubt 
 
 {{< warning  type="warning" headline="Achtung bei Schaltflächen" >}}
 
-[Schaltflächen]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Abfrageergebnisse berechtigt ist.
+[Schaltflächen]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) können unabhängig von den Seitenberechtigungen **immer** betätigt werden. Dadurch kann jeder App-Nutzer bestimmte Änderungen an den Datensätzen ausführen, die Sie zuvor definiert haben, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind oder der Nutzer nicht zur Bearbeitung der Abfrageergebnisse berechtigt ist.
 
 {{< /warning >}}
 

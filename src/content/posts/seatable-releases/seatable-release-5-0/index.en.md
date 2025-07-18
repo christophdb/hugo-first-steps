@@ -30,7 +30,7 @@ Users of the app can view, search, browse, and edit each single record on this p
 
 ### New functions of existing page types
 
-You can now **export** all data displayed on [table pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) as an **Excel file**. You can also **download all attachments as a zip file** via the column header of [image]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) and [file columns]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). The new export functions are helpful if you want to make certain files available to other users via the app.
+You can now **export** all data displayed on [table pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) as an **Excel file**. You can also **download all attachments as a zip file** via the column header of [image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) and [file columns]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}). The new export functions are helpful if you want to make certain files available to other users via the app.
 
 We have added the **settings for link columns** on [gallery pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}}). For example, you can specify whether users can link existing entries via the gallery page or add entries in another table. On [query pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}), the query results are now updated immediately when you trigger button actions that cause changes to the data.
 

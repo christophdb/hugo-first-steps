@@ -28,7 +28,7 @@ Só é possível deslocar linhas para a memória de grandes volumes de dados se 
 
 {{< warning  headline="Dica" >}}
 
-Por exemplo, se pretender **arquivar entradas antigas**, pode filtrar previamente a vista com os tipos de colunas [Criado]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}) ou [Última edição]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}).
+Por exemplo, se pretender **arquivar entradas antigas**, pode filtrar previamente a vista com os tipos de colunas [Criado]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [Última edição]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}).
 
 {{< /warning >}}
 

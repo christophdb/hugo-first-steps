@@ -1,5 +1,5 @@
 ---
-title: '¿Cómo saber quién ha añadido una fila? - Mesa de mar'
+title: '¿Cómo saber quién ha añadido una fila?'
 date: 2023-01-07
 lastmod: '2023-02-16'
 categories:
@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 ---
 
-¿Quieres saber **quién** ha añadido una fila? Entonces cree una columna del tipo [Creador]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). Aquí, el **nombre del usuario** que creó la columna es inmutable.
+¿Quiere saber **quién** ha añadido una fila? Entonces cree una columna del tipo [Creador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}). Aquí, el **nombre del usuario** que creó la columna es inmutable.
 
 ## Crear la columna del creador
 
@@ -21,10 +21,10 @@ url: '/es/ayuda/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 
 ## Mostrar más detalles de las filas mediante columnas
 
-Además, puede utilizar otros tipos de columnas para mostrar _cuándo_ se **creó** y **editó por última vez** una fila y _quién_ la modificó como **último editor**.
+Además, puede utilizar otros tipos de columnas para mostrar _cuándo_ se **creó** y **editó por última vez** una fila y _quién_ la modificó como **último modificador**.
 
 {{< warning headline="Nota" >}}
 
-Además del tipo de columna **Creador**, el contenido de las columnas **Creado**, [Último editor y Último editado]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) tampoco se puede modificar.
+Además del tipo de columna **Creador**, el contenido de las columnas **Fecha y hora de creación**, [Último modificador y Última modificación]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) tampoco se puede modificar.
 
 {{< /warning >}}

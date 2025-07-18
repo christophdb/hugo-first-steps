@@ -43,14 +43,14 @@ Mithilfe dieses Seitentyps können Sie unterschiedliche **Formulare** bauen, wel
 
 ## Seitentyp: Galerie
 
-Mithilfe dieses Seitentyps können Sie **Bilder**, die Sie in einer [Bild-Spalte]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) Ihrer Tabelle gespeichert haben, in Form einer **Galerie** anzeigen lassen. Andere **Daten** aus Ihrer Tabelle können Sie in der Galerie ebenfalls anzeigen lassen. Eine Galerieseite könnten Sie zum Beispiel für übersichtliche **Steckbriefe Ihrer Mitarbeiter** verwenden.
+Mithilfe dieses Seitentyps können Sie **Bilder**, die Sie in einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) Ihrer Tabelle gespeichert haben, in Form einer **Galerie** anzeigen lassen. Andere **Daten** aus Ihrer Tabelle können Sie in der Galerie ebenfalls anzeigen lassen. Eine Galerieseite könnten Sie zum Beispiel für übersichtliche **Steckbriefe Ihrer Mitarbeiter** verwenden.
 
 ![Darstellung Ihrer Mitarbeiter in einer Galerie-Seite](images/page-type-gallery-example.png) [Erfahren Sie mehr über Galerieseiten in Universellen Apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}})
 
 ## Seitentyp: Kalender
 
 Dieser Seitentyp funktioniert so ähnlich wie das [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}
-) und ermöglicht es Ihnen, die Einträge aus einer oder zwei [Datum-Spalten]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) Ihrer Tabelle in einem **Kalender** anzeigen zu lassen. Ein konkreter Anwendungsfall könnte beispielsweise die kalendarische Darstellung von bevorstehenden **Meetings** sein.
+) und ermöglicht es Ihnen, die Einträge aus einer oder zwei [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) Ihrer Tabelle in einem **Kalender** anzeigen zu lassen. Ein konkreter Anwendungsfall könnte beispielsweise die kalendarische Darstellung von bevorstehenden **Meetings** sein.
 
 ![Bevorstehende Meetings in einer Kalenderansicht der Kalenderseite](images/calendar-page-example.png)
 

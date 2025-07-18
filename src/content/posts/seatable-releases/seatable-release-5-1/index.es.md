@@ -20,7 +20,7 @@ Esta mañana hemos actualizado SeaTable Cloud a la versión 5.1. Recomendamos a 
 
 Nuestros desarrolladores han revisado los [ajustes de la aplicación]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) y los han hecho más claros. Entre otras cosas, se ha añadido un menú independiente para la marca de la aplicación, en el que se puede seleccionar el modo, la combinación de colores y el icono de la aplicación. El asistente "Añadir página" también tiene un nuevo diseño de dos páginas.
 
-Páginas de palabras clave: Con SeaTable 5.1, todos los tipos de página ofrecen una función de vista previa de los archivos de imagen en las [columnas de archivos]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Los archivos PDF, Office y de texto se siguen mostrando con un icono de archivo.
+Páginas de palabras clave: Con SeaTable 5.1, todos los tipos de página ofrecen una función de vista previa de los archivos de imagen en las [columnas de archivos]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}). (Los archivos PDF, Office y de texto se siguen mostrando con un icono de archivo.
 
 Si nos fijamos en los distintos tipos de página, la [página individual]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) y la [página de registros de datos individuales]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}}) son las que presentan más mejoras. Sin embargo, otros tipos de páginas también pueden esperar mejoras incrementales.
 
@@ -34,7 +34,7 @@ La versión 5.1 también ofrece más flexibilidad a la hora de **ampliar y despl
 
 ### Tipo de página Registro de datos individual
 
-En SeaTable 5.1, este tipo de página - al igual que las páginas de tabla y de consulta - admite la [ejecución de acciones mediante botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Ya sea crear un documento PDF, llamar a una página web, cambiar un registro de datos o ejecutar un script, ahora también puede iniciar todas estas **acciones** de botón aquí. Para ello no se requiere [autorización de edición de la página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}). De este modo, los administradores de aplicaciones pueden establecer las interacciones del usuario para este tipo de página en unas pocas acciones predefinidas.
+En SeaTable 5.1, este tipo de página - al igual que las páginas de tabla y de consulta - admite la [ejecución de acciones mediante botones]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}). Ya sea crear un documento PDF, llamar a una página web, cambiar un registro de datos o ejecutar un script, ahora también puede iniciar todas estas **acciones** de botón aquí. Para ello no se requiere [autorización de edición de la página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}). De este modo, los administradores de aplicaciones pueden establecer las interacciones del usuario para este tipo de página en unas pocas acciones predefinidas.
 
 La barra de herramientas ofrece un nuevo **generador de códigos QR**. El código QR contiene el enlace a la entrada mostrada en ese momento. Si se adjunta a un objeto o dispositivo, todos los datos pueden consultarse en la aplicación a través de una tableta o un smartphone sin necesidad de introducir el teclado. Esto facilita aún más, por ejemplo, la gestión de inventarios.
 
@@ -90,7 +90,7 @@ Actualmente, en el complemento pueden mostrarse jerarquías de hasta tres nivele
 
 Una vez más, hay más novedades en esta versión de las que podemos presentar en una cantidad manejable en estas notas de la versión. Por lo tanto, aquí hay algunas características más que creemos que merecen una mención.
 
-Se ha añadido una nueva función al **editor de fórmulas**: **rowid()** devuelve el ID de la fila. Esto puede utilizarse, por ejemplo, para acciones de botón o automatizaciones. Sin embargo, hay nuevas funciones no sólo en la [columna]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) de fórmulas, sino también en el tipo de columna de fórmulas para enlaces: [Las búsquedas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) ofrecen ahora una comprobación de duplicados. Si la opción **No mostrar duplicados** está activada, sólo se muestran valores únicos en cada celda de la columna.
+Se ha añadido una nueva función al **editor de fórmulas**: **rowid()** devuelve el ID de la fila. Esto puede utilizarse, por ejemplo, para acciones de botón o automatizaciones. Sin embargo, hay nuevas funciones no sólo en la [columna]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) de fórmulas, sino también en el tipo de columna de fórmulas para enlaces: [Las búsquedas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) ofrecen ahora una comprobación de duplicados. Si la opción **No mostrar duplicados** está activada, sólo se muestran valores únicos en cada celda de la columna.
 
 ![Selector de color introducido SeaTable 5.1](ColorPicker.png)
 

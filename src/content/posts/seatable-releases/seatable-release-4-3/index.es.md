@@ -45,7 +45,7 @@ Los usuarios de la aplicación correspondiente pueden acceder a sus notificacion
 
 ## Columna de empleados entre equipos
 
-En la [columna]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) de empleados, antes sólo era posible seleccionar a las personas que ya tenían acceso a la base correspondiente. A partir de SeaTable 4.3, puede introducir a **todos los miembros de su** equipo en las columnas de empleados, aunque no tengan acceso a determinadas bases. Esto facilita enormemente la asignación de registros de datos a sus empleados, independientemente de su autorización de acceso.
+En la [columna]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) de empleados, antes sólo era posible seleccionar a las personas que ya tenían acceso a la base correspondiente. A partir de SeaTable 4.3, puede introducir a **todos los miembros de su** equipo en las columnas de empleados, aunque no tengan acceso a determinadas bases. Esto facilita enormemente la asignación de registros de datos a sus empleados, independientemente de su autorización de acceso.
 
 Esta funcionalidad es especialmente útil en la aplicación universal. Puede activar la opción de que los miembros del equipo sean visibles para todos los usuarios en la lista desplegable de los [ajustes de]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) la app Universal. Si no quieres que los usuarios puedan ver los registros de datos de otros, establece **filtros preestablecidos**: si una página se filtra por columna de empleado con la condición "incluye al usuario actual", cada usuario de la app universal solo verá las entradas que se le asignen en la tabla.
 
@@ -71,7 +71,7 @@ Además, el **color de fondo** de las páginas individuales se puede configurar 
 
 La herencia de [autorizaciones de columna]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) de la base se suprime con SeaTable 4.3. Si desea bloquear la edición de una columna en la aplicación universal, puede establecerla como **"solo lectura"** en la configuración de [la página de la tabla]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}).
 
-También se han eliminado todas las restricciones para [las acciones de los botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Ahora todos los usuarios de la aplicación pueden realizar cambios predefinidos en los registros de datos, aunque las columnas afectadas estén bloqueadas para ellos y el usuario no esté autorizado a editar la página.
+También se han eliminado todas las restricciones para [las acciones de los botones]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}). Ahora todos los usuarios de la aplicación pueden realizar cambios predefinidos en los registros de datos, aunque las columnas afectadas estén bloqueadas para ellos y el usuario no esté autorizado a editar la página.
 
 ## Anuncio importante: Eliminación de la app de galería y consulta de datos
 

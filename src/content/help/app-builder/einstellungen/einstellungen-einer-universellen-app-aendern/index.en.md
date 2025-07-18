@@ -49,7 +49,7 @@ This is only a default setting when the app is opened for the first time. Every 
 
 ## Collaboration settings
 
-In the fourth section, you can decide whether your **collaborator list** should be visible to all users in the app. You can then enter people in [Collaborator columns]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) or add them to [comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). If you want your collaborators to remain invisible to others, you should deactivate this function.
+In the fourth section, you can decide whether your **collaborator list** should be visible to all users in the app. You can then enter people in [Collaborator columns]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) or add them to [comments]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). If you want your collaborators to remain invisible to others, you should deactivate this function.
 
 ![Load collaborator list in apps](images/Load-collaborator-list-in-apps.png)
 

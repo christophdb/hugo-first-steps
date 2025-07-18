@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/anleitung-zum-karten-plugin'
 ---
 
-Se criou uma coluna de texto com endereços ou nomes de locais na sua tabela ou utilizou o tipo de coluna [Geoposition]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}), pode utilizar o **Plugin do Mapa** para exibir os locais introduzidos na coluna.
+Se criou uma coluna de texto com endereços ou nomes de locais na sua tabela ou utilizou o tipo de coluna [Geoposition]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}), pode utilizar o **Plugin do Mapa** para exibir os locais introduzidos na coluna.
 
 Para activar o plugin, seguir as instruções do artigo [Activando um Plugin numa Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
@@ -58,7 +58,7 @@ Decidir entre a exibição padrão com **pinos de localização** ou usar **imag
 
 ![Plug-in do mapa por defeito](images/default-map.png)
 
-Se decidir apresentar imagens, deve especificar a [coluna de]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) imagens a partir da qual as imagens devem ser apresentadas.
+Se decidir apresentar imagens, deve especificar a [coluna de]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) imagens a partir da qual as imagens devem ser apresentadas.
 
 ![A visualização da imagem no plug-in do mapa](images/bildanzeige.png)
 
@@ -70,11 +70,11 @@ Se tiver criado várias tabelas na sua base, pode seleccionar neste momento qual
 
 ### Linha de endereço
 
-Defina aqui uma coluna de texto na qual tenha introduzido endereços ou nomes de locais, ou uma [coluna de geoposição]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}) a partir da qual os locais devem ser exibidos no mapa. Note que o plug-in do mapa só funciona se tiver utilizado uma coluna deste tipo na sua tabela.
+Defina aqui uma coluna de texto na qual tenha introduzido endereços ou nomes de locais, ou uma [coluna de geoposição]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}) a partir da qual os locais devem ser exibidos no mapa. Note que o plug-in do mapa só funciona se tiver utilizado uma coluna deste tipo na sua tabela.
 
 ### Cor do marcador
 
-Se tiver [linhas com marcas de cor]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou [colunas de seleção única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) com opções de cor, pode seleccionar neste momento qual destas deve determinar a **cor das marcações do mapa**.
+Se tiver [linhas com marcas de cor]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou [colunas de seleção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) com opções de cor, pode seleccionar neste momento qual destas deve determinar a **cor das marcações do mapa**.
 
 ### Campo de visualização
 

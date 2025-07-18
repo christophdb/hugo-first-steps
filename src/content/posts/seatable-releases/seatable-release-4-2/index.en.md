@@ -64,7 +64,7 @@ Previously, you could only trigger the [automated "Edit entry" action]({{< relre
 
 ## New function in the formula column: iserror()
 
-The new **iserror()** function is a treat for [formula fans]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). It checks whether an argument is an **error value** (e.g. #DIV/0!, #VALUE!). Thanks to this function, a higher quality of result can be achieved, especially for [formulas with if operators]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
+The new **iserror()** function is a treat for [formula fans]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}). It checks whether an argument is an **error value** (e.g. #DIV/0!, #VALUE!). Thanks to this function, a higher quality of result can be achieved, especially for [formulas with if operators]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
 
 ## And much more
 
@@ -88,4 +88,4 @@ As the owner or administrator of a base, you can specify in the [security settin
 
 {{< /warning >}}
 
-In addition, SeaTable 4.2 now also supports the column type [Automatic number]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) for the data processing operations [Auto add link]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) as well as [Lookup and copy]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).
+In addition, SeaTable 4.2 now also supports the column type [Automatic number]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) for the data processing operations [Auto add link]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) as well as [Lookup and copy]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).

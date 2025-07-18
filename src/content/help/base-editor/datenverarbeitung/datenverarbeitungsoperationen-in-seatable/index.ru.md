@@ -12,7 +12,7 @@ url: '/ru/pomoshch/datenverarbeitungsoperationen-in-seatable'
 
 ## Смысл операций по обработке данных
 
-SeaTable часто мыслит рядами. Например, [формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) может связывать между собой только значения в строке, а [связи между таблицами]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) осуществляются только из строки в строку.
+SeaTable часто мыслит рядами. Например, [формула]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) может связывать между собой только значения в строке, а [связи между таблицами]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) осуществляются только из строки в строку.
 
 Обработка данных, напротив, представляет собой функцию для выполнения операций в столбце по нескольким строкам. В принципе, различают два разных типа операций обработки данных:
 
@@ -39,11 +39,11 @@ SeaTable часто мыслит рядами. Например, [формула
 Каждый из этих двух типов операций обработки данных имеет свои **требования**, которые должны быть выполнены для создания соответствующей операции.
 
 - **Математические операции** требуют наличия **двух столбцов чисел** в вашей таблице.
-- Для **операций с отношениями** вам нужны очень специфические типы столбцов в зависимости от приложения, например, [столбец с персоналом]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) и [текстовый]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) столбец при переносе имен пользователей.
+- Для **операций с отношениями** вам нужны очень специфические типы столбцов в зависимости от приложения, например, [столбец с персоналом]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) и [текстовый]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) столбец при переносе имен пользователей.
 
 ## Примечания по выполнению
 
-В настоящее время операции по обработке данных могут выполняться [вручную]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) или с [помощью автоматизации]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
+В настоящее время операции по обработке данных могут выполняться [вручную]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) или с [помощью автоматизации]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}).
 
 Каждый раз, когда выполняется операция обработки данных, **результаты** записываются в **столбец результатов** независимо от этого. Если вы не хотите перезаписывать данные, следует заранее [создать новый пустой столбец]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) для результатов.
 

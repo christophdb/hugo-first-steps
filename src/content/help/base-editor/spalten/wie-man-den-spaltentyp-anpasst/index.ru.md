@@ -27,13 +27,13 @@ url: '/ru/pomoshch/wie-man-den-spaltentyp-anpasst'
 
 **Первый столбец** таблицы поддерживает **только 6 из 25 типов столбцов**. К ним относятся
 
-- [Текст]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
-- [Номер]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
-- [Дата]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Одиночный выбор]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
-- [Автоматический номер]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-- [Формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+- [Текст]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- [Номер]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
+- [Дата]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- [Одиночный выбор]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
+- [Автоматический номер]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- [Формула]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
 ## Предупреждение о потере данных
 
-**Преобразование** определенных типов столбцов обычно приводит к нежелательной **потере данных**. Это происходит, например, с колонками [файлов]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) или при преобразовании [текстовых колонок]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) в числовые. В этих случаях SeaTable выводит **предупреждающее сообщение** с вопросом, действительно ли вы хотите изменить тип столбца.
+**Преобразование** определенных типов столбцов обычно приводит к нежелательной **потере данных**. Это происходит, например, с колонками [файлов]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) или при преобразовании [текстовых колонок]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) в числовые. В этих случаях SeaTable выводит **предупреждающее сообщение** с вопросом, действительно ли вы хотите изменить тип столбца.

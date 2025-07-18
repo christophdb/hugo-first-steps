@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/pt/ajuda/kalenderseiten-in-universellen-apps'
 ---
 
-Este tipo de página da aplicação universal funciona de forma semelhante ao [plug-in de calendário]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) da sua tabela num **calendário**. Um caso de utilização específico poderia ser, por exemplo, a apresentação do calendário das próximas **reuniões**.
+Este tipo de página da aplicação universal funciona de forma semelhante ao [plug-in de calendário]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) da sua tabela num **calendário**. Um caso de utilização específico poderia ser, por exemplo, a apresentação do calendário das próximas **reuniões**.
 
 ![Próximas reuniões numa vista de calendário da página de calendário](images/calendar-page-example.png)
 
@@ -50,7 +50,7 @@ Independentemente da data, pode também clicar no grande **símbolo circular de 
 
 ## Editar e mover entradas de calendário
 
-Pode editar facilmente as entradas do calendário clicando **numa entrada** e efectuando as alterações pretendidas nos **detalhes da linha** que se abrem. Também pode mover convenientemente entradas no calendário **utilizando a função arrastar e largar**. O SeaTable ajusta automaticamente os valores nas respectivas [colunas de datas]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}).
+Pode editar facilmente as entradas do calendário clicando **numa entrada** e efectuando as alterações pretendidas nos **detalhes da linha** que se abrem. Também pode mover convenientemente entradas no calendário **utilizando a função arrastar e largar**. O SeaTable ajusta automaticamente os valores nas respectivas [colunas de datas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
 ![Mover e editar entradas nas páginas do calendário](images/Eintraege-auf-Kalenderseiten-verschieben-und-bearbeiten.gif)
 

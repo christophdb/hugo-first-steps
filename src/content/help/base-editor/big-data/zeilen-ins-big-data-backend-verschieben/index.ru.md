@@ -28,7 +28,7 @@ url: '/ru/pomoshch/zeilen-ins-big-data-backend-verschieben'
 
 {{< warning  headline="Совет" >}}
 
-Например, если необходимо **архивировать старые записи**, можно предварительно отфильтровать представление с помощью типов колонок [Создано]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}) или [Последнее редактирование]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}).
+Например, если необходимо **архивировать старые записи**, можно предварительно отфильтровать представление с помощью типов колонок [Создано]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) или [Последнее редактирование]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}).
 
 {{< /warning >}}
 

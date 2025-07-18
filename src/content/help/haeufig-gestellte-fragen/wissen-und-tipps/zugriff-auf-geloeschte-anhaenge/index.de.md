@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/zugriff-auf-geloeschte-anhaenge'
 ---
 
-**Dateien** und **Bilder**, die Sie aus einer [Bild-]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) oder [Datei-Spalte]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) entfernt haben, sind **nicht endgültig gelöscht**. Diese gelöschten Dateien verbleiben in der [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) der Base und können auf zwei verschiedene Arten **wiederhergestellt** werden.
+**Dateien** und **Bilder**, die Sie aus einer [Bild-]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) oder [Datei-Spalte]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) entfernt haben, sind **nicht endgültig gelöscht**. Diese gelöschten Dateien verbleiben in der [Dateiverwaltung]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) der Base und können auf zwei verschiedene Arten **wiederhergestellt** werden.
 
 ## Zuletzt hochgeladen
 

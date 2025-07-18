@@ -18,11 +18,11 @@ Se pretender alterar as definições de uma página, clique no **símbolo da rod
 
 ![Alterar as definições da página da linha de tempo](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-Nas **definições da página**, pode começar por definir a representação gráfica das linhas cronológicas. Para tal, selecionar a [cor da linha]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou uma [coluna de seleção individual]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), que determina a **cor dos blocos**. Também é possível definir uma coluna para a **etiquetagem dos blocos**.
+Nas **definições da página**, pode começar por definir a representação gráfica das linhas cronológicas. Para tal, selecionar a [cor da linha]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) ou uma [coluna de seleção individual]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}), que determina a **cor dos blocos**. Também é possível definir uma coluna para a **etiquetagem dos blocos**.
 
 ![Definição gráfica das linhas de tempo em aplicações universais](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Para definir o período das entradas, é necessária uma [coluna de data]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}}) ou [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) que especifique o número de dias. Também é possível selecionar o **período de tempo**, ou seja, quantos anos a cronologia deve abranger.
+Para definir o período das entradas, você precisa de uma [coluna de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) para a **data de início**. Para a **data de término**, você pode usar outra coluna de data ou uma coluna numérica diferente – [número]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), [duração]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}}) ou [fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) – que indique o número de dias. Além disso, é possível selecionar o **período de tempo**, ou seja, quantos anos a cronologia deve abranger.
 
 ![Definições de página da página da linha de tempo em aplicações universais](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

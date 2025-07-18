@@ -49,7 +49,7 @@ Esta é apenas uma definição predefinida quando a aplicação é aberta pela p
 
 ## Definições para colaboração
 
-Na quarta secção, pode decidir se a sua **lista de empregados** deve ser visível para todos os utilizadores da aplicação. Pode então introduzir pessoas nas [colunas de empregados]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) ou adicioná-las aos [comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). Se quiser que os seus empregados permaneçam invisíveis para os outros, deve desativar esta função.
+Na quarta secção, pode decidir se a sua **lista de empregados** deve ser visível para todos os utilizadores da aplicação. Pode então introduzir pessoas nas [colunas de empregados]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) ou adicioná-las aos [comentários]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). Se quiser que os seus empregados permaneçam invisíveis para os outros, deve desativar esta função.
 
 ![Carregar lista de colaboradores em aplicações](images/Load-collaborator-list-in-apps.png)
 

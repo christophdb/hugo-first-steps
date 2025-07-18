@@ -26,6 +26,6 @@ Les paramètres de date d'une base appartenant à un groupe peuvent être modifi
 
 ## Champ d'application des paramètres de date
 
-Un ajustement dans les paramètres de date fait que dans le contrôle de calendrier de [Colonnes de date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}), le jour sélectionné se déplace vers la première colonne. Cela s'applique à la base actuellement ouverte et à toutes les applications basées sur celle-ci.
+Un ajustement dans les paramètres de date fait que dans le contrôle de calendrier de [Colonnes de date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}), le jour sélectionné se déplace vers la première colonne. Cela s'applique à la base actuellement ouverte et à toutes les applications basées sur celle-ci.
 
 Dans le [plugin de calendrier]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) ainsi que sur la [page de calendrier dans l'app]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}), vous pouvez cependant continuer à configurer le premier jour de la semaine individuellement et indépendamment du réglage dans la base.

@@ -26,6 +26,6 @@ url: '/ru/pomoshch/datumseinstellungen-in-einer-base'
 
 ## Область применения настроек даты
 
-Изменение настроек даты приводит к тому, что выбранный день перемещается в первый столбец календаря [Колонки даты]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). Это относится к текущей открытой базе и всем приложениям, основанным на ней.
+Изменение настроек даты приводит к тому, что выбранный день перемещается в первый столбец календаря [Колонки даты]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}). Это относится к текущей открытой базе и всем приложениям, основанным на ней.
 
 В [плагине Календарь]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) и на странице [Календарь в приложении]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}), однако, Вы по-прежнему можете настроить первый день недели отдельно и независимо от настройки в базе.

@@ -1,4 +1,4 @@
 ---
-title: Buttons
-url: '/help/base-editor/buttons'
+title: Button actions
+url: '/help/base-editor/button-actions'
 ---

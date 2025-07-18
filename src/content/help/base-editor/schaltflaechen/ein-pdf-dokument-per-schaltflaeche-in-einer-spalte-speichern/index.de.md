@@ -12,7 +12,7 @@ Mithilfe einer **Schaltfläche** können Sie PDF-Dokumente in Datei-Spalten spei
 
 ## PDF-Dokumente per Schaltfläche in einer Spalte speichern
 
-Schaltflächen ermöglichen es Ihnen, PDF-Dokumente in den [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) Ihrer Tabellen zu speichern. Die Aktion steht Ihnen beim Erstellen einer Schaltfläche zur Verfügung, sobald Sie in der entsprechenden Tabelle das [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) eingerichtet haben.
+Schaltflächen ermöglichen es Ihnen, PDF-Dokumente in den [Datei-Spalten]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) Ihrer Tabellen zu speichern. Die Aktion steht Ihnen beim Erstellen einer Schaltfläche zur Verfügung, sobald Sie in der entsprechenden Tabelle das [Seitendesign-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) eingerichtet haben.
 
 Im ersten Schritt benennen Sie die **Spalte** und legen die **Beschriftung** und **Farbe** des Buttons fest, den Sie Ihren Zeilen hinzufügen möchten.
 

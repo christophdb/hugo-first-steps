@@ -12,7 +12,7 @@ url: '/pt/ajuda/eigene-farben-in-einer-base-hinzufuegen'
 
 Com o SeaTable, pode dar mais cor ao seu trabalho diário - especialmente em comparação com as bases de dados monótonas e as folhas de cálculo sem graça. Com a [subscrição Enterprise]({{< relref "pages/prices" >}}), é até possível adicionar as **suas próprias cores personalizadas** através de código hexadecimal à paleta de cores que encontra em vários locais de uma base.
 
-Por exemplo, pode colorir [as opções de seleção]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), [as células de uma tabela]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) e [os botões]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) de acordo com o design da sua empresa ou dar asas à sua criatividade no design de cores.
+Por exemplo, pode colorir [as opções de seleção]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}), [as células de uma tabela]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) e [os botões]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) de acordo com o design da sua empresa ou dar asas à sua criatividade no design de cores.
 
 {{< warning  headline="Nota importante"  text="**Apenas** os **proprietários** e **administradores** podem ajustar as definições de cor de uma base que pertença a um grupo. Esta opção **nem** sequer é apresentada aos membros simples do grupo." />}}
 

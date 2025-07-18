@@ -20,7 +20,7 @@ Para poder trabalhar de forma eficiente e concentrar-se no essencial, é necess�
 
 Com a **ligação E**, todas as condições especificadas devem aplicar-se a um registo para que este possa ser exibido.
 
-Este exemplo é demonstrado no vídeo seguinte: Estamos a visualizar um plano editorial com várias publicações. Em primeiro lugar, filtrámos a [coluna de seleção única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) **"Estado"** para todos os posts que **não** estão **concluídos**. Reduzimos ainda mais este conjunto de dados utilizando o segundo filtro para apresentar apenas as publicações do **tipo "Publicação de blogue"**. Agora podemos ver quais os posts do blogue que ainda não estão concluídos.
+Este exemplo é demonstrado no vídeo seguinte: Estamos a visualizar um plano editorial com várias publicações. Em primeiro lugar, filtrámos a [coluna de seleção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) **"Estado"** para todos os posts que **não** estão **concluídos**. Reduzimos ainda mais este conjunto de dados utilizando o segundo filtro para apresentar apenas as publicações do **tipo "Publicação de blogue"**. Agora podemos ver quais os posts do blogue que ainda não estão concluídos.
 
 ![Adicionar regra de filtro com ligação AND](images/Filterregel-mit-Und-Verknuepfung-hinzufuegen.gif)
 

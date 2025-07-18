@@ -24,7 +24,7 @@ Neste artigo vamos apresentar-lhe estas três possibilidades diferentes. O artig
 
 ## Executar script através de um botão
 
-1. Criar uma coluna do tipo [Botão]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
+1. Criar uma coluna do tipo [Botão]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}).
 2. Decidir qual a **etiqueta** e qual a **cor** que o botão deve ter.
 3. Utilizar a acção **Executar guião**.
 4. Seleccione o seu **guião** e guarde.

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/ru/pomoshch/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 ---
 
-Хотите узнать, **кто** добавил строку? Тогда создайте столбец типа [Создатель]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). Здесь **имя пользователя**, создавшего столбец, неизменно.
+Хотите узнать, **кто** добавил строку? Тогда создайте столбец типа [Создатель]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}). Здесь **имя пользователя**, создавшего столбец, неизменно.
 
 ## Создайте колонку создателя
 
@@ -25,6 +25,6 @@ url: '/ru/pomoshch/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 
 {{< warning headline="Примечание" >}}
 
-Помимо типа столбца **Создатель**, содержимое столбцов **Создано**, [Последний редактор и Последнее редактирование]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) также неизменяемо.
+Помимо типа столбца **Создатель**, содержимое столбцов **Время создания**, [Последний редактор и Время последнего изменения]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) также неизменяемо.
 
 {{< /warning >}}

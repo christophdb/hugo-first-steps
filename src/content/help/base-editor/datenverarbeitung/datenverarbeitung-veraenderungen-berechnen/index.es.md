@@ -33,7 +33,7 @@ La primera vez que se ejecuta con éxito, un pequeño **garrapata verde**.
 
 Un caso de uso concreto para esta operación de tratamiento de datos podría ser, por ejemplo, si recoge el número de accesos diarios a un sitio web y desea averiguar cómo han cambiado **los** números de acceso en el periodo entre dos mediciones. Para ello, desea calcular la **diferencia** entre los números de acceso en otra columna.
 
-Para la aplicación, primero se necesita una tabla en la que se recojan los distintos **días** en una columna de [fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) y los **números de acceso** al sitio web en una [columna de número]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}).
+Para la aplicación, primero se necesita una tabla en la que se recojan los distintos **días** en una columna de [fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) y los **números de acceso** al sitio web en una [columna de número]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}).
 
 ![Tabla de ejemplo para el caso de uso Calcular cambios](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

@@ -40,7 +40,7 @@ Dans les paramètres de page de ce type de page, on trouve à partir de SeaTable
 
 Dans le cas d'[enregistrements bloqués]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}), l'utilisateur reçoit désormais aussi un message lui indiquant que l'édition n'est pas possible. Un message correspondant s'affiche lorsque le curseur de la souris se déplace sur "Modifier l'entrée" dans la barre d'outils.
 
-Outre le contrôle des autorisations, la nouvelle version contient encore deux améliorations pour augmenter la convivialité : les champs de type [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) et [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) sont désormais cliquables. L'appel d'une page web ou la rédaction d'un e-mail est ainsi encore plus rapide. (Les fichiers dans les colonnes de fichiers deviennent cliquables dans la version 5.3.) Pour les éléments d'image sur la page, vous pouvez régler le mode de remplissage. Trois modes sont à votre disposition : Ajuster, Remplir et Étirer.
+Outre le contrôle des autorisations, la nouvelle version contient encore deux améliorations pour augmenter la convivialité : les champs de type [URL]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}) et [e-mail]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) sont désormais cliquables. L'appel d'une page web ou la rédaction d'un e-mail est ainsi encore plus rapide. (Les fichiers dans les colonnes de fichiers deviennent cliquables dans la version 5.3.) Pour les éléments d'image sur la page, vous pouvez régler le mode de remplissage. Trois modes sont à votre disposition : Ajuster, Remplir et Étirer.
 
 ### Type de page Formulaire
 
@@ -48,7 +48,7 @@ Les [formulaires web]({{< relref "help/base-editor/webformulare" >}}) simples qu
 
 ### Type de page Tableau
 
-Les **filtres prédéfinis** dans les paramètres de données permettent désormais de sélectionner tous les types de colonnes pertinents, y compris [les]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) [colonnes]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) [de formules]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) et [de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Cela supprime une restriction fonctionnelle importante lors du préfiltrage des données. Avec l'implémentation des groupes de filtres dans une prochaine version, ce type de page offrira les mêmes possibilités de filtrage performantes que la Base.
+Les **filtres prédéfinis** dans les paramètres de données permettent désormais de sélectionner tous les types de colonnes pertinents, y compris [les]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) [colonnes]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) [de formules]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) et [de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Cela supprime une restriction fonctionnelle importante lors du préfiltrage des données. Avec l'implémentation des groupes de filtres dans une prochaine version, ce type de page offrira les mêmes possibilités de filtrage performantes que la Base.
 
 ### Pages personnalisées
 
@@ -106,7 +106,7 @@ Avec la nouvelle version, SeaTable prend en charge la **connexion aux comptes de
 
 Il est désormais possible de masquer des tableaux, comme on le fait dans Microsoft Excel. Une **feuille de calcul masquée** n'est plus affichée sous forme d'onglet et ne peut être appelée que via le menu déroulant.
 
-[Les cases à cocher]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) offrent plus d'options de style et encore plus d'options de couleur dans SeaTable 5.2. Ceux qui n'aiment pas la coche verte peuvent désormais choisir parmi 69 autres options.
+[Les cases à cocher]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) offrent plus d'options de style et encore plus d'options de couleur dans SeaTable 5.2. Ceux qui n'aiment pas la coche verte peuvent désormais choisir parmi 69 autres options.
 
 Dans le [plug-in calendrier]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), il est désormais possible de créer de nouvelles entrées par double-clic ou via le nouveau bouton "+".
 

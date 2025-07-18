@@ -43,7 +43,7 @@ To implement this data processing operation, you need **two tables in the same B
 
 ![Example table for maintenance of personal data of mtployees](images/example-table-employees-and-personal-data-1.png)
 
-In the second table you enter the **open tasks**, for which the respective responsible employee is entered in another column. In addition, you create a new column of the type [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}), into which the e-mail addresses are to be copied later.
+In the second table you enter the **open tasks**, for which the respective responsible employee is entered in another column. In addition, you create a new column of the type [e-mail]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}), into which the e-mail addresses are to be copied later.
 
 ![Target table including the result column before the data processing action is executed.](images/table-open-tasks-before-data-processing-operation-1.png)
 
@@ -59,7 +59,7 @@ In the next step, you can select any number of source columns from the **employe
 
 {{< warning  headline="Beware of data loss" >}}
 
-The source and result columns should have **the same column type** so that no data is lost during copying. For example, you can copy data from a [date column]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) to a [text column]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), but it will no longer be suitable for [calendars]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). So, before performing the operation, create a **result** column of the same type in the destination table for each **source** column you want to copy.
+The source and result columns should have **the same column type** so that no data is lost during copying. For example, you can copy data from a [date column]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) to a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), but it will no longer be suitable for [calendars]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). So, before performing the operation, create a **result** column of the same type in the destination table for each **source** column you want to copy.
 
 {{< /warning >}}
 
@@ -73,7 +73,7 @@ When the operation is successfully executed, the **employees** and **open tasks*
 
 The following column types **cannot** be copied using the _Compare and copy_ operation and are therefore **not** available when defining the source and result columns.
 
-- [Multiple selection column]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
-- [The Creator column]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}})
-- [The Last Edited column]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
+- [Multiple selection column]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}})
+- [The Creator column]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}})
+- [The Last Edited column]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Button]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})

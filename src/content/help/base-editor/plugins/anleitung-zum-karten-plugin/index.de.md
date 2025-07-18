@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/anleitung-zum-karten-plugin'
 ---
 
-Wenn Sie in Ihrer Tabelle eine Textspalte mit Adressen bzw. Ortsnamen erstellt oder den Spaltentyp [Geoposition]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}) verwendet haben, können Sie mit dem **Karten-Plugin** die in der Spalte eingetragenen Standorte darstellen.
+Wenn Sie in Ihrer Tabelle eine Textspalte mit Adressen bzw. Ortsnamen erstellt oder den Spaltentyp [Geoposition]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}) verwendet haben, können Sie mit dem **Karten-Plugin** die in der Spalte eingetragenen Standorte darstellen.
 
 Um das Plugin zu aktivieren, folgen Sie der Anleitung im Artikel [Aktivieren eines Plugins in einer Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
@@ -58,7 +58,7 @@ Entscheiden Sie sich zwischen der standardmäßigen Anzeige mit **Standort-Pins*
 
 ![Karten-Plugin die Default-Map](images/default-map.png)
 
-Wenn Sie sich für die Bildanzeige entscheiden, müssen Sie die [Bild-Spalte]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) festlegen, aus der die Bilder angezeigt werden sollen.
+Wenn Sie sich für die Bildanzeige entscheiden, müssen Sie die [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) festlegen, aus der die Bilder angezeigt werden sollen.
 
 ![Die Bildanzeige im Karten-Plugin](images/bildanzeige.png)
 
@@ -68,11 +68,11 @@ Wenn Sie mehrere Tabellen in Ihrer Base angelegt haben, können Sie an dieser St
 
 ### Adresszeile
 
-Legen Sie hier eine Textspalte, in der Sie Adressen oder Ortsnamen erfasst haben, oder eine [Geopositions-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}) fest, aus der die Standorte auf der Karte angezeigt werden sollen. Beachten Sie, dass das Karten-Plugin nur funktioniert, wenn Sie in Ihrer Tabelle eine Spalte dieses Typs verwendet haben.
+Legen Sie hier eine Textspalte, in der Sie Adressen oder Ortsnamen erfasst haben, oder eine [Geopositions-Spalte]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}) fest, aus der die Standorte auf der Karte angezeigt werden sollen. Beachten Sie, dass das Karten-Plugin nur funktioniert, wenn Sie in Ihrer Tabelle eine Spalte dieses Typs verwendet haben.
 
 ### Markerfarbe
 
-Wenn Sie in der Tabelle [Zeilen farblich markiert]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder [Einfachauswahl-Spalten]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) mit farbigen Optionen angelegt haben, können Sie an dieser Stelle auswählen, was davon die **Farbe der Kartenmarkierungen** bestimmen soll.
+Wenn Sie in der Tabelle [Zeilen farblich markiert]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder [Einfachauswahl-Spalten]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) mit farbigen Optionen angelegt haben, können Sie an dieser Stelle auswählen, was davon die **Farbe der Kartenmarkierungen** bestimmen soll.
 
 ### Anzeigefeld
 

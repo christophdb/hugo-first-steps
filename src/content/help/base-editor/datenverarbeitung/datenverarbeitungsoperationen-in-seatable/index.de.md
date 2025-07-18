@@ -12,7 +12,7 @@ Die Datenverarbeitungsfunktion ist ein nützliches Feature von SeaTable, mit dem
 
 ## Sinn hinter Datenverarbeitungsoperationen
 
-SeaTable denkt oft in Zeilen. Zum Beispiel kann eine [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) ausschließlich die Werte in einer Zeile miteinander in Beziehung setzen und auch [Verlinkungen zwischen Tabellen]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) erfolgen immer nur von Zeilen zu Zeilen.
+SeaTable denkt oft in Zeilen. Zum Beispiel kann eine [Formel]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) ausschließlich die Werte in einer Zeile miteinander in Beziehung setzen und auch [Verlinkungen zwischen Tabellen]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) erfolgen immer nur von Zeilen zu Zeilen.
 
 Die Datenverarbeitung ist im Gegensatz dazu eine Funktion, um Operationen in einer Spalte über mehrere Zeilen hinweg durchzuführen. Grundsätzlich wird dabei zwischen zwei verschiedenen Arten von Datenverarbeitungsoperationen unterschieden:
 
@@ -39,11 +39,11 @@ Folgende **Beziehungs-Operationen** können derzeit mithilfe der Datenverarbeitu
 Für beide Arten von Datenverarbeitungsoperationen gelten jeweils unterschiedliche **Voraussetzungen**, die erfüllt werden müssen, um eine entsprechende Operation anzulegen.
 
 - **Mathematische Operationen** setzen das Vorhandensein von **zwei Zahlen-Spalten** in Ihrer Tabelle voraus.
-- Für die **Beziehungs-Operationen** benötigen Sie je nach Anwendungsfall ganz bestimmte Spaltentypen, z. B. eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) und eine [Text-Spalte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) beim Übertragen von Benutzernamen.
+- Für die **Beziehungs-Operationen** benötigen Sie je nach Anwendungsfall ganz bestimmte Spaltentypen, z. B. eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) und eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) beim Übertragen von Benutzernamen.
 
 ## Hinweise zur Ausführung
 
-Datenverarbeitungsoperationen können derzeit [manuell]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) oder [per Automation]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) ausgeführt werden können.
+Datenverarbeitungsoperationen können derzeit [manuell]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) oder [per Automation]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) ausgeführt werden können.
 
 Bei jeder Ausführung der Datenverarbeitungsoperation werden die **Ergebnisse** ohne Rücksicht auf Verluste in die **Ergebnisspalte** geschrieben. Wenn Sie keine Daten überschreiben wollen, sollten Sie für die Ergebnisse im Voraus eine [neue leere Spalte anlegen]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}).
 

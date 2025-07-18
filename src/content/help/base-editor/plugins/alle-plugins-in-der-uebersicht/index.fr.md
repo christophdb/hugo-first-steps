@@ -20,7 +20,7 @@ Un **plugin** est un composant logiciel optionnel de SeaTable qui vous offre des
 
 ## Plugin de calendrier
 
-Le plug-in Calendrier vous permet d'afficher les données d'une [colonne de dates]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) dans une **vue** **annuelle**, **mensuelle**, **hebdomadaire**, **quotidienne** ou **d'agenda**. Vous pouvez également afficher **des périodes de temps** à l'aide de deux colonnes de dates et garder ainsi une vue d'ensemble de tous les rendez-vous importants, etc.
+Le plug-in Calendrier vous permet d'afficher les données d'une [colonne de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) dans une **vue** **annuelle**, **mensuelle**, **hebdomadaire**, **quotidienne** ou **d'agenda**. Vous pouvez également afficher **des périodes de temps** à l'aide de deux colonnes de dates et garder ainsi une vue d'ensemble de tous les rendez-vous importants, etc.
 
 ![](images/Calendar.png)
 
@@ -41,7 +41,7 @@ Le plugin Timeline représente différentes périodes sous la forme d'une **lign
 
 ## Plugin de la galerie
 
-Le plug-in Galerie est particulièrement adapté à la présentation de jeux de données avec **des images**, car il se réfère en premier lieu au contenu d'une [colonne d'images]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}). Les entrées d'une colonne sont affichées sous forme de **titre** sous les images. En outre, ce plugin offre la possibilité d'afficher d'autres colonnes du tableau et de compléter ainsi les images par davantage d'informations provenant des enregistrements. Cela est particulièrement utile pour les projets créatifs et artistiques, afin de regrouper toutes les informations en un seul coup d'œil.
+Le plug-in Galerie est particulièrement adapté à la présentation de jeux de données avec **des images**, car il se réfère en premier lieu au contenu d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Les entrées d'une colonne sont affichées sous forme de **titre** sous les images. En outre, ce plugin offre la possibilité d'afficher d'autres colonnes du tableau et de compléter ainsi les images par davantage d'informations provenant des enregistrements. Cela est particulièrement utile pour les projets créatifs et artistiques, afin de regrouper toutes les informations en un seul coup d'œil.
 
 ![Plugin de la galerie](images/Galerie.png)
 

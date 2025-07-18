@@ -10,7 +10,7 @@ url: '/de/hilfe/avatarbild-anpassen'
 
 Ihr eigenes **Avatarbild** können Sie in nur wenigen Schritten in den **persönlichen Einstellungen** Ihres Kontos anpassen.
 
-Ein Avatarbild ist hilfreich, damit andere Teammitglieder Sie schnell in SeaTable identifizieren können, denn das Bild wird beispielsweise auch als Miniatur in [Mitarbeiter-]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), [Ersteller-]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}})\-Spalten sowie bei Freigaben vor Ihrem Namen angezeigt.
+Ein Avatarbild ist hilfreich, damit andere Teammitglieder Sie schnell in SeaTable identifizieren können, denn das Bild wird beispielsweise auch als Miniatur in [Mitarbeiter-]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Ersteller-]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}})\-Spalten sowie bei Freigaben vor Ihrem Namen angezeigt.
 
 ## So passen Sie Ihr Avatarbild an
 

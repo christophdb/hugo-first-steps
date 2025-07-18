@@ -43,7 +43,7 @@ Pour mettre en œuvre cette opération de traitement des données, vous avez bes
 
 ![Exemple de tableau pour la gestion des données personnelles des travailleurs](images/example-table-employees-and-personal-data-1.png)
 
-Dans le deuxième tableau, vous saisissez les **tâches ouvertes**, pour lesquelles le collaborateur responsable est saisi dans une autre colonne. En outre, vous créez une nouvelle colonne de type [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}), dans laquelle les adresses e-mail seront copiées ultérieurement.
+Dans le deuxième tableau, vous saisissez les **tâches ouvertes**, pour lesquelles le collaborateur responsable est saisi dans une autre colonne. En outre, vous créez une nouvelle colonne de type [e-mail]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}), dans laquelle les adresses e-mail seront copiées ultérieurement.
 
 ![Tableau cible avec colonne de résultats avant l'exécution de l'action de traitement des données](images/table-open-tasks-before-data-processing-operation-1.png)
 
@@ -59,7 +59,7 @@ Dans l'étape suivante, vous pouvez sélectionner un nombre quelconque de colonn
 
 {{< warning  headline="Attention à la perte de données" >}}
 
-Les colonnes source et résultat doivent avoir **le même type de colonne** afin de ne pas perdre de données lors de la copie. Vous pouvez par exemple copier des données d'une [colonne de date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) dans une [colonne de texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), mais elles ne conviennent plus pour les [calendriers]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Avant d'effectuer l'opération, créez donc une **colonne de résultats** du même type dans le tableau cible pour chaque **colonne source** que vous souhaitez copier.
+Les colonnes source et résultat doivent avoir **le même type de colonne** afin de ne pas perdre de données lors de la copie. Vous pouvez par exemple copier des données d'une [colonne de date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) dans une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), mais elles ne conviennent plus pour les [calendriers]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Avant d'effectuer l'opération, créez donc une **colonne de résultats** du même type dans le tableau cible pour chaque **colonne source** que vous souhaitez copier.
 
 {{< /warning >}}
 
@@ -73,7 +73,7 @@ Si l'opération est exécutée avec succès, les tables **employees** et **open 
 
 Les types de colonnes suivants ne peuvent **pas** être copiés à l'aide de l'opération _Comparer et copier_ et ne sont donc **pas** disponibles lors de la définition des colonnes source et résultat.
 
-- [Colonne à choix multiples]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
-- [La colonne Créateur]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}})
-- [La colonne Dernier intervenant]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Bouton]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
+- [Colonne à choix multiples]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}})
+- [La colonne Créateur]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}})
+- [La colonne Dernier intervenant]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Bouton]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
