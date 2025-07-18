@@ -8,7 +8,7 @@ author: 'vge'
 url: '/pt/ajuda/wie-findet-man-heraus-wer-eine-zeile-hinzugefuegt-hat'
 ---
 
-Quer descobrir **quem** acrescentou uma fila? Então crie uma coluna do tipo [Creator]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}). Aqui, o **nome do utilizador** que criou a coluna é imutável.
+Quer descobrir **quem** acrescentou uma fila? Então crie uma coluna do tipo [Criador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}). Aqui, o **nome do utilizador** que criou a coluna é imutável.
 
 ## Criar a coluna do criador
 
@@ -25,6 +25,6 @@ Além disso, pode utilizar outros tipos de colunas para mostrar _quando_ uma lin
 
 {{< warning headline="Nota" >}}
 
-Além do tipo de coluna **Criador**, o conteúdo das colunas **Criado**, [Último Editor e Última Edição]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) são também imutáveis.
+Além do tipo de coluna **Criador**, o conteúdo das colunas **Tempo criado**, [Último modificador e Último tempo modificado]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) são também imutáveis.
 
 {{< /warning >}}

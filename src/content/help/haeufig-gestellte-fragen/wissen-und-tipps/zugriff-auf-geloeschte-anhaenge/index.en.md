@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/zugriff-auf-geloeschte-anhaenge'
 ---
 
-**Files** and **images** that you have removed from an [image]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) or [file column]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) are **not permanently deleted**. These deleted files remain in the Base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) and can be **restored** in two different ways.
+**Files** and **images** that you have removed from an [image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) or [file column]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) are **not permanently deleted**. These deleted files remain in the Base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) and can be **restored** in two different ways.
 
 ## Last uploaded
 

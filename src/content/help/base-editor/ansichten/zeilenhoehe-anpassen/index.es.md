@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/es/ayuda/zeilenhoehe-anpassen'
 ---
 
-Por defecto, SeaTable muestra todas las filas con una altura de fila compacta para mostrar el mayor número posible de registros. Sin embargo, con esta altura **de** fila simple, entre otras cosas, se cortan las [columnas de]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) y [selección]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}}) múltiple y solo se muestran pequeñas **miniaturas** de imágenes.
+Por defecto, SeaTable muestra todas las filas con una altura de fila compacta para mostrar el mayor número posible de registros. Sin embargo, con esta altura **de** fila simple, entre otras cosas, se cortan las [columnas de]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) y [selección]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) múltiple y solo se muestran pequeñas **miniaturas** de imágenes.
 
 ![Contenido de la celda truncado](images/small-row-height-cut-cells.png)
 

@@ -27,13 +27,13 @@ Dependendo dos **valores** que pretende registar no SeaTable, pode atribuir-lhes
 
 A **primeira coluna** de uma tabela suporta **apenas 6 dos 25 tipos de coluna**. Estes são
 
-- [Texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
-- [Número]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
-- [Data]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Seleção única]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
-- [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-- [Fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+- [Texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- [Número]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
+- [Data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- [Seleção única]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
+- [Número automático]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- [Fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
 ## Aviso de perda de dados
 
-**A conversão de** certos tipos de colunas conduz normalmente a uma **perda** indesejada de **dados**. É o caso, por exemplo, das colunas [de ficheiros]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) ou quando converte [colunas de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) em colunas numéricas. Nestes casos, o SeaTable apresenta uma **mensagem de aviso** a perguntar se pretende realmente alterar o tipo de coluna.
+**A conversão de** certos tipos de colunas conduz normalmente a uma **perda** indesejada de **dados**. É o caso, por exemplo, das colunas [de ficheiros]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) ou quando converte [colunas de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) em colunas numéricas. Nestes casos, o SeaTable apresenta uma **mensagem de aviso** a perguntar se pretende realmente alterar o tipo de coluna.

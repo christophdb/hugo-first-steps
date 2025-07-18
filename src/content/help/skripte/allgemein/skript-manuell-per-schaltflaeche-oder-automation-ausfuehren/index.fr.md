@@ -24,7 +24,7 @@ Dans cet article, nous vous présentons ces trois possibilités différentes. L'
 
 ## Exécuter un script à l'aide d'un bouton
 
-1. Créez une colonne de type [bouton]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
+1. Créez une colonne de type [bouton]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}).
 2. Décidez du **libellé** et de la **couleur** du bouton.
 3. Utilisez l'action **Exécuter le script**.
 4. Sélectionnez votre **script** et enregistrez.

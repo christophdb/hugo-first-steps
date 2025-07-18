@@ -8,7 +8,7 @@ author: 'vge'
 url: '/fr/aide/zugriff-auf-geloeschte-anhaenge'
 ---
 
-**Les fichiers** et les **images** que vous avez supprimés d'une [colonne]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) ou [de fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) ne sont **pas définitivement supprimés**. Ces fichiers supprimés restent dans le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la base et peuvent être **restaurés** de deux manières différentes.
+**Les fichiers** et les **images** que vous avez supprimés d'une [colonne]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) ou [de fichiers]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) ne sont **pas définitivement supprimés**. Ces fichiers supprimés restent dans le [gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de la base et peuvent être **restaurés** de deux manières différentes.
 
 ## Dernièrement téléchargé
 

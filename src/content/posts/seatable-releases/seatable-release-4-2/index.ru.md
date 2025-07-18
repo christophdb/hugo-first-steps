@@ -64,7 +64,7 @@ seo:
 
 ## Новая функция в колонке формул: iserror()
 
-Новая функция **iserror()** придется по душе [любителям формул]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Она проверяет, является ли аргумент **ошибочным значением** (например, #DIV/0!, #VALUE!). Благодаря этой функции можно добиться более высокого качества результата, особенно для [формул с операторами if]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
+Новая функция **iserror()** придется по душе [любителям формул]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}). Она проверяет, является ли аргумент **ошибочным значением** (например, #DIV/0!, #VALUE!). Благодаря этой функции можно добиться более высокого качества результата, особенно для [формул с операторами if]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
 
 ## И многое другое
 
@@ -88,4 +88,4 @@ seo:
 
 {{< /warning >}}
 
-Кроме того, SeaTable 4.2 теперь поддерживает тип столбца [Автоматический номер]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) для операций обработки данных [Сравнить и объединить]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}), а также [Сравнить и скопировать]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).
+Кроме того, SeaTable 4.2 теперь поддерживает тип столбца [Автоматический номер]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) для операций обработки данных [Сравнить и объединить]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}), а также [Сравнить и скопировать]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).

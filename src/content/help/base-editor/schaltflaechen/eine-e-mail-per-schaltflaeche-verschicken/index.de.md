@@ -12,7 +12,7 @@ Mithilfe einer **Schaltfläche** in Ihren Zeilen können Sie E-Mails an einen od
 
 ## Eine E-Mail per Schaltfläche verschicken
 
-Als Erstes wählen Sie beim Erstellen der [Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) die Aktion **E-Mail versenden** aus.
+Als Erstes wählen Sie beim Erstellen der [Schaltfläche]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) die Aktion **E-Mail versenden** aus.
 
 ![Auswahl der Aktion "E-Mail versenden"](images/send-email-action.png)
 
@@ -38,13 +38,13 @@ Wählen Sie den/die **Empfänger** der E-Mail aus. Sie können optional auch Emp
 
 ![Legen Sie den/die Empfänger der E-Mail fest. Sie können optional auch noch Empfänger auswählen, die eine Kopie der E-Mail erhalten sollen oder denen Sie mit der E-Mail antworten möchten.](images/send-to-copy-to-reply-to.png)
 
-Optional können Sie der E-Mail noch einen **Anhang** hinzufügen. Beachten Sie jedoch, dass Sie Dateien _nicht_ einfach hochladen können, sondern diese zunächst in einer [Datei-Spalte]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) der Tabelle speichern müssen. Im Feld **Anhänge** können Sie im Anschluss eine oder mehrere **Datei-Spalten** auswählen, aus der Sie die Dateien an die E-Mail anhängen möchten.
+Optional können Sie der E-Mail noch einen **Anhang** hinzufügen. Beachten Sie jedoch, dass Sie Dateien _nicht_ einfach hochladen können, sondern diese zunächst in einer [Datei-Spalte]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) der Tabelle speichern müssen. Im Feld **Anhänge** können Sie im Anschluss eine oder mehrere **Datei-Spalten** auswählen, aus der Sie die Dateien an die E-Mail anhängen möchten.
 
 ![Dateien, die Sie in einer Dateispalte Ihrer Tabelle hinzugefügt haben, können Sie als Anhang der E-Mail nutzen](images/file-001.png)
 
 ## Bedingte Ausführung mehrerer Schaltflächen-Aktionen
 
-Die [Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) ist ein besonderer Spaltentyp, mit dem Sie **mehrere Aktionen gleichzeitig** per Knopfdruck ausführen können. Die **zeitliche Abfolge** von Aktionen können Sie durch die bedingte Ausführung einer nachfolgenden Aktion festlegen. So ist es möglich, **Aktionen hintereinanderzuschalten**.
+Die [Schaltfläche]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) ist ein besonderer Spaltentyp, mit dem Sie **mehrere Aktionen gleichzeitig** per Knopfdruck ausführen können. Die **zeitliche Abfolge** von Aktionen können Sie durch die bedingte Ausführung einer nachfolgenden Aktion festlegen. So ist es möglich, **Aktionen hintereinanderzuschalten**.
 
 Zum Beispiel kann es vorkommen, dass Sie mit einem Klick ein [PDF-Dokument in einer Datei-Spalte speichern]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) und die Datei im Anschluss an eine E-Mail anhängen möchten. Dabei kann das Problem auftreten, dass die E-Mail schon versandt wird, bevor das PDF für den Anhang erstellt worden ist.
 

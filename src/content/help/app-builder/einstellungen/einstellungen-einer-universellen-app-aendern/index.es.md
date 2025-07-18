@@ -49,7 +49,7 @@ Esta es la configuración por defecto cuando se abre la aplicación por primera 
 
 ## Ajustes para la colaboración
 
-En la cuarta sección, puede decidir si su **lista de empleados** debe ser visible para todos los usuarios de la aplicación. A continuación, puede introducir personas en [columnas de empleados]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) o añadirlas a [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). Si desea que sus empleados permanezcan invisibles para los demás, deberá desactivar esta función.
+En la cuarta sección, puede decidir si su **lista de empleados** debe ser visible para todos los usuarios de la aplicación. A continuación, puede introducir personas en [columnas de empleados]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) o añadirlas a [comentarios]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). Si desea que sus empleados permanezcan invisibles para los demás, deberá desactivar esta función.
 
 ![Cargar la lista de colaboradores en las aplicaciones](images/Load-collaborator-list-in-apps.png)
 

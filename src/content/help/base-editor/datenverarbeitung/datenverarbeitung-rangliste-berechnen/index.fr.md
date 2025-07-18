@@ -33,7 +33,7 @@ Lors de la première exécution réussie, une petite icône apparaît dans la ma
 
 Un cas d'application concret de cette opération de traitement des données pourrait par exemple se présenter si vous souhaitez relever le nombre de visites quotidiennes d'un site web dans une colonne et les **classer** (par rapport aux autres valeurs de la colonne). Pour ce faire, vous souhaitez attribuer **des rangs** aux **nombres d'accès** quotidiens séparément dans une autre colonne.
 
-Pour la mise en œuvre, vous avez d'abord besoin d'un tableau dans lequel les différents **jours** sont relevés dans une [colonne de dates]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) et le **nombre de visites** sur le site dans une [colonne de chiffres]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}).
+Pour la mise en œuvre, vous avez d'abord besoin d'un tableau dans lequel les différents **jours** sont relevés dans une [colonne de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) et le **nombre de visites** sur le site dans une [colonne de chiffres]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}).
 
 ![Exemple de tableau pour le cas d'utilisation Calculer les valeurs cumulées](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

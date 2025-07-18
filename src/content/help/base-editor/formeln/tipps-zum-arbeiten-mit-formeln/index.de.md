@@ -28,7 +28,7 @@ Wenn Sie im Formeleditor auf ein **Element** klicken, das Sie zu Ihrer Formel hi
 
 ## Farbgebung der verschiedenen Formelelemente beachten
 
-Um die verschiedenen Elemente Ihrer Formel voneinander unterscheiden zu können, werden diese je nach Typ in einer unterschiedlichen **Farbe** markiert. Welche Elemente dabei in welcher Farbe dargestellt werden, können Sie [hier]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}#klare-farbsprache-zur-orientierung) nachlesen.
+Um die verschiedenen Elemente Ihrer Formel voneinander unterscheiden zu können, werden diese je nach Typ in einer unterschiedlichen **Farbe** markiert. Welche Elemente dabei in welcher Farbe dargestellt werden, können Sie [hier]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}#klare-farbsprache-zur-orientierung) nachlesen.
 
 Orientieren Sie sich an den verschiedenen **Farben**, um einen besseren Überblick über Ihre Formel zu erhalten. Darüber hinaus kann die farbliche Hervorhebung der Formelelemente in zwei Fällen auch als eine Art **Selbstkontrolle** fungieren:
 

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/neue-kalendereintraege-im-kalender-plugin-anlegen'
 ---
 
-Um **neue Einträge** im Kalender hinzuzufügen, haben Sie verschiedene Möglichkeiten. Sie können das **in der zugrundeliegenden Tabelle** tun, indem Sie dort eine neue Zeile anlegen und einen Termin in die [Datum-Spalte]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) eintragen, der dann auch im Kalender-Plugin angezeigt wird.
+Um **neue Einträge** im Kalender hinzuzufügen, haben Sie verschiedene Möglichkeiten. Sie können das **in der zugrundeliegenden Tabelle** tun, indem Sie dort eine neue Zeile anlegen und einen Termin in die [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) eintragen, der dann auch im Kalender-Plugin angezeigt wird.
 
 Aber auch direkt **im Kalender-Plugin** ist es kinderleicht, neue Einträge vorzunehmen. Dort hängt es von der gewählten Darstellung (**Jahr**, **Monat**, **Woche**, **Tag** oder **Agenda**) ab, wie Sie einen Termin eintragen können.
 

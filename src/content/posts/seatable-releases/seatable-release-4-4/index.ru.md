@@ -20,7 +20,7 @@ seo:
 
 ### Кнопки на страницах запросов
 
-[Страницы запросов]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) теперь поддерживают выполнение действий с помощью кнопок: После успешного запроса данных вы можете нажимать [кнопки]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) в отображаемом списке хитов для выполнения действий. Это особенная новая функция, поскольку ранее не было возможности взаимодействовать с запрашиваемыми строками в любом месте SeaTable.
+[Страницы запросов]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) теперь поддерживают выполнение действий с помощью кнопок: После успешного запроса данных вы можете нажимать [кнопки]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) в отображаемом списке хитов для выполнения действий. Это особенная новая функция, поскольку ранее не было возможности взаимодействовать с запрашиваемыми строками в любом месте SeaTable.
 
 ![Кнопки выполнения на страницах запросов](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -28,7 +28,7 @@ seo:
 
 ### Перетаскивание в календарь
 
-До сих пор не было возможности изменять встречи на [странице календаря]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). SeaTable 4.4 предоставляет вам больше возможностей. Теперь вы можете удобно перемещать встречи в календаре с помощью перетаскивания. Вы также можете редактировать значения в соответствующих [столбцах даты]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) через детали строки, если у вас есть необходимые [полномочия]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}).
+До сих пор не было возможности изменять встречи на [странице календаря]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). SeaTable 4.4 предоставляет вам больше возможностей. Теперь вы можете удобно перемещать встречи в календаре с помощью перетаскивания. Вы также можете редактировать значения в соответствующих [столбцах даты]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) через детали строки, если у вас есть необходимые [полномочия]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}).
 
 ### Упрощенная обработка данных на странице таблицы
 
@@ -38,7 +38,7 @@ seo:
 
 ### Колонка сотрудника доступна на страницах форм
 
-Если вы используете [столбец сотрудников]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) в таблице, он **недоступен** в [веб-формах]({{< relref "help/base-editor/webformulare" >}}). Однако, начиная с версии SeaTable 4.4, вы можете добавлять колонки сотрудников на [страницы форм]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) в универсальном приложении. Например, члены вашей команды могут выбрать себя для запроса на отпуск, и больше не придется вводить их имена вручную. Сначала необходимо активировать опцию отображения списка сотрудников в [настройках приложения]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
+Если вы используете [столбец сотрудников]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) в таблице, он **недоступен** в [веб-формах]({{< relref "help/base-editor/webformulare" >}}). Однако, начиная с версии SeaTable 4.4, вы можете добавлять колонки сотрудников на [страницы форм]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) в универсальном приложении. Например, члены вашей команды могут выбрать себя для запроса на отпуск, и больше не придется вводить их имена вручную. Сначала необходимо активировать опцию отображения списка сотрудников в [настройках приложения]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
 
 ### Больше возможностей для настройки отдельных страниц
 
@@ -94,7 +94,7 @@ SeaTable 4.4 делает [импорт таблиц Excel]({{< relref "help/sta
 
 ## И многое другое
 
-Вы уже знакомы с **редактором форматированного текста** из различных мест SeaTable, например, из [описания базы]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), [типа колонки для длинных текстов]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) или [сообщений электронной почты]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). В SeaTable 4.4 мы улучшили удобство использования и исправили некоторые ошибки. Вот только две: раньше при закрытии редактора удалялись множественные переносы строк, а при вводе текста в ячейку перезаписывался существующий текст. В новом редакторе множественные переносы строк сохраняются и могут быть использованы для более четкого структурирования текста. Мы также устранили риск непреднамеренного удаления: При вводе новый текст помещается перед существующим.
+Вы уже знакомы с **редактором форматированного текста** из различных мест SeaTable, например, из [описания базы]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), [типа колонки для длинных текстов]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) или [сообщений электронной почты]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). В SeaTable 4.4 мы улучшили удобство использования и исправили некоторые ошибки. Вот только две: раньше при закрытии редактора удалялись множественные переносы строк, а при вводе текста в ячейку перезаписывался существующий текст. В новом редакторе множественные переносы строк сохраняются и могут быть использованы для более четкого структурирования текста. Мы также устранили риск непреднамеренного удаления: При вводе новый текст помещается перед существующим.
 
 В новой версии мы также улучшили **центр уведомлений** {{< seatable-icon icon="dtable-icon-notice" >}} на стартовой странице. Теперь вы можете видеть все [уведомления]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) в системе в одном месте, отслеживать источник уведомления и переходить на соответствующую страницу одним щелчком мыши.
 

@@ -14,7 +14,7 @@ Lea el artículo [Activación de un plugin en una base]({{< relref "help/base-ed
 
 ## Función del complemento de línea de tiempo
 
-El complemento de la línea de tiempo muestra **intervalos de tiempo**. Por lo tanto, para esta representación se necesitan **dos** [columnas de fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) en una tabla que definan el **principio** y el **final de** un marco temporal.
+El complemento de la línea de tiempo muestra **intervalos de tiempo**. Por lo tanto, para esta representación se necesitan **dos** [columnas de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) en una tabla que definan el **principio** y el **final de** un marco temporal.
 
 ## Cómo utilizar el plug-in de la línea de tiempo
 
@@ -40,4 +40,4 @@ Como se puede ver en el vídeo anterior, también puedes crear **varias líneas 
 
 1. Haz clic en el **signo más** situado a la derecha del título de tu primera línea de tiempo.
 2. Asigne un **nombre** a la línea de tiempo y confirme con **Enviar**.
-3. En la **configuración** {{< seatable-icon icon="dtable-icon-set-up" >}}, defina a qué [vista de tabla]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) y a qué [columnas de]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) fecha debe referirse la nueva línea de tiempo.
+3. En la **configuración** {{< seatable-icon icon="dtable-icon-set-up" >}}, defina a qué [vista de tabla]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) y a qué [columnas de]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) fecha debe referirse la nueva línea de tiempo.

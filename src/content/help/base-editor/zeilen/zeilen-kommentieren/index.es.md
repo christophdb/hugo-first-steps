@@ -40,7 +40,7 @@ Puede llamar la atención de los miembros del equipo sobre su comentario añadi�
 
 ## Añadir imágenes a un comentario
 
-También puede añadir **imágenes** a sus comentarios mediante el **icono de imagen** situado debajo del campo de entrada. Éstas sólo son visibles en la ventana de comentarios y no se guardan en una [columna de imágenes]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) de la tabla, sino en la [gestión de archivos de la base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
+También puede añadir **imágenes** a sus comentarios mediante el **icono de imagen** situado debajo del campo de entrada. Éstas sólo son visibles en la ventana de comentarios y no se guardan en una [columna de imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) de la tabla, sino en la [gestión de archivos de la base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
 
 ## Visualización de las filas comentadas
 

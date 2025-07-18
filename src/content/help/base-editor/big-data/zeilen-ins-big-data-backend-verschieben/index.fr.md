@@ -28,7 +28,7 @@ Vous ne pouvez déplacer des lignes vers le stockage de données volumineuses qu
 
 {{< warning  headline="Conseil" >}}
 
-Si vous souhaitez par exemple **archiver d'anciennes entrées**, vous pouvez filtrer l'affichage au préalable avec les types de colonnes [Créé]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}) ou [Dernièrement modifié]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}).
+Si vous souhaitez par exemple **archiver d'anciennes entrées**, vous pouvez filtrer l'affichage au préalable avec les types de colonnes [Créé]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) ou [Dernièrement modifié]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}).
 
 {{< /warning >}}
 

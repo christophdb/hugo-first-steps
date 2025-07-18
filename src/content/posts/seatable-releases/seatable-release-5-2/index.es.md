@@ -40,7 +40,7 @@ A partir de SeaTable 5.2, la configuración de página para este tipo de página
 
 En el caso de los [registros de datos bloqueados]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}), ahora el usuario también recibe un aviso de que no es posible editarlos. Aparecerá el mensaje correspondiente al situar el puntero del ratón sobre "Editar entrada" en la barra de herramientas.
 
-Además del control de autorizaciones, la nueva versión contiene dos mejoras para aumentar la facilidad de uso: ahora se puede hacer clic en los campos de tipo [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) y [correo electrónico]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}). De este modo, se puede acceder más rápidamente a un sitio web o escribir un correo electrónico. (A partir de la versión 5.3, también se puede hacer clic en los archivos de las columnas de archivos). Hay tres modos disponibles: Personalizar, Rellenar y Estirar.
+Además del control de autorizaciones, la nueva versión contiene dos mejoras para aumentar la facilidad de uso: ahora se puede hacer clic en los campos de tipo [URL]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}) y [correo electrónico]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}). De este modo, se puede acceder más rápidamente a un sitio web o escribir un correo electrónico. (A partir de la versión 5.3, también se puede hacer clic en los archivos de las columnas de archivos). Hay tres modos disponibles: Personalizar, Rellenar y Estirar.
 
 ### Tipo de página Formulario
 
@@ -48,7 +48,7 @@ Los [formularios web]({{< relref "help/base-editor/webformulare" >}}) sencillos 
 
 ### Tipo de página Tabla
 
-Los **filtros preestablecidos** de la configuración de datos permiten ahora seleccionar todos los tipos de columnas pertinentes, incluidas [las columnas de]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) [fórmulas]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) y [enlaces]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Esto elimina una importante restricción funcional en el prefiltrado de datos. Con la implementación de grupos de filtros en una de las próximas versiones, este tipo de página ofrecerá las mismas potentes opciones de filtro que la base.
+Los **filtros preestablecidos** de la configuración de datos permiten ahora seleccionar todos los tipos de columnas pertinentes, incluidas [las columnas de]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) [fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) y [enlaces]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Esto elimina una importante restricción funcional en el prefiltrado de datos. Con la implementación de grupos de filtros en una de las próximas versiones, este tipo de página ofrecerá las mismas potentes opciones de filtro que la base.
 
 ### Páginas personalizadas
 
@@ -106,7 +106,7 @@ La nueva versión de SeaTable admite el **inicio de sesión con cuentas de corre
 
 Ahora las tablas pueden ocultarse, como es habitual en Microsoft Excel. Una **hoja de cálculo oculta** ya no se muestra como una pestaña y sólo se puede acceder a través del menú desplegable.
 
-[Las casillas de verificación]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) ofrecen más opciones de estilo y aún más opciones de color en SeaTable 5.2. Si no le gusta la marca verde, ahora puede elegir entre otras 69 opciones.
+[Las casillas de verificación]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) ofrecen más opciones de estilo y aún más opciones de color en SeaTable 5.2. Si no le gusta la marca verde, ahora puede elegir entre otras 69 opciones.
 
 En el [plugin de calendario]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), ahora también se pueden crear nuevas entradas haciendo doble clic o utilizando el nuevo botón "+".
 

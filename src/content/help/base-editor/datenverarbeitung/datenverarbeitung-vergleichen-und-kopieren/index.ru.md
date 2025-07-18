@@ -43,7 +43,7 @@ url: '/ru/pomoshch/datenverarbeitung-vergleichen-und-kopieren'
 
 ![Пример таблицы для ведения персональных данных сотрудников](images/example-table-employees-and-personal-data-1.png)
 
-Во второй таблице вводятся **открытые задачи**, для которых в другой колонке вводится соответствующий ответственный сотрудник. Кроме того, создается новый столбец типа [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}), в который впоследствии будут копироваться адреса электронной почты.
+Во второй таблице вводятся **открытые задачи**, для которых в другой колонке вводится соответствующий ответственный сотрудник. Кроме того, создается новый столбец типа [e-mail]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}), в который впоследствии будут копироваться адреса электронной почты.
 
 ![Целевая таблица, включающая столбец результатов до выполнения действия по обработке данных](images/table-open-tasks-before-data-processing-operation-1.png)
 
@@ -59,7 +59,7 @@ url: '/ru/pomoshch/datenverarbeitung-vergleichen-und-kopieren'
 
 {{< warning  headline="Остерегайтесь потери данных" >}}
 
-Колонки источника и результата должны иметь **одинаковый тип колонок**, чтобы данные не были потеряны при копировании. Например, можно скопировать данные из [столбца даты]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) в [текстовый столбец]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), но тогда они уже не будут подходить для [календарей]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Поэтому перед выполнением операции создайте в целевой таблице столбец **результата** того же типа для каждого столбца **источника**, который вы хотите скопировать.
+Колонки источника и результата должны иметь **одинаковый тип колонок**, чтобы данные не были потеряны при копировании. Например, можно скопировать данные из [столбца даты]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) в [текстовый столбец]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), но тогда они уже не будут подходить для [календарей]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Поэтому перед выполнением операции создайте в целевой таблице столбец **результата** того же типа для каждого столбца **источника**, который вы хотите скопировать.
 
 {{< /warning >}}
 
@@ -73,7 +73,7 @@ url: '/ru/pomoshch/datenverarbeitung-vergleichen-und-kopieren'
 
 Следующие типы столбцов **не могут** быть скопированы с помощью операции _сравнения и копирования_ и поэтому **недоступны** при определении столбцов источника и результата.
 
-- [Колонка множественного выбора]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
-- [Колонка "Создатель]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}})
-- [Колонка "Последний редактор]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Кнопка]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
+- [Колонка множественного выбора]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}})
+- [Колонка "Создатель]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}})
+- [Колонка "Последний редактор]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Кнопка]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})

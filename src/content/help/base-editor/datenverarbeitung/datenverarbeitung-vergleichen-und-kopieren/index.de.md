@@ -33,7 +33,7 @@ Zur Umsetzung dieser Datenverarbeitungsoperation benötigen Sie **zwei Tabellen 
 
 ![Beispiel-Tabelle für die Pflege von persönlichen Daten der Mtarbeiter](images/example-table-employees-and-personal-data-1.png)
 
-In der zweiten Tabelle erfassen Sie die **offenen Aufgaben**, für die der jeweils zuständige Mitarbeiter in einer weiteren Spalte eingetragen wird. Außerdem legen Sie eine neue Spalte vom Typ [E-Mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) an, in die später die E-Mail-Adressen kopiert werden sollen.
+In der zweiten Tabelle erfassen Sie die **offenen Aufgaben**, für die der jeweils zuständige Mitarbeiter in einer weiteren Spalte eingetragen wird. Außerdem legen Sie eine neue Spalte vom Typ [E-Mail]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) an, in die später die E-Mail-Adressen kopiert werden sollen.
 
 ![Ziel-Tabelle samt Ergebnis-Spalte vor der Ausführung der Datenverarbeitungsaktion](images/table-open-tasks-before-data-processing-operation-1.png)
 
@@ -47,7 +47,7 @@ Im nächsten Schritt können Sie eine beliebige Anzahl an Quellspalten aus der T
 
 {{< warning  type="warning" headline="Achtung vor Datenverlust" >}}
 
-Die Quell- und Ergebnisspalten sollten **den gleichen Spaltentyp** aufweisen, damit beim Kopieren keine Daten verloren gehen. Sie können zwar beispielsweise Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) kopieren, diese eignen sich dann aber nicht mehr für [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Legen Sie also vor der Ausführung der Operation für jede **Quellspalte**, die Sie kopieren möchten, eine **Ergebnisspalte** des gleichen Typs in der Ziel-Tabelle an."
+Die Quell- und Ergebnisspalten sollten **den gleichen Spaltentyp** aufweisen, damit beim Kopieren keine Daten verloren gehen. Sie können zwar beispielsweise Daten aus einer [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) kopieren, diese eignen sich dann aber nicht mehr für [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}). Legen Sie also vor der Ausführung der Operation für jede **Quellspalte**, die Sie kopieren möchten, eine **Ergebnisspalte** des gleichen Typs in der Ziel-Tabelle an."
 
 {{< /warning >}}
 
@@ -65,7 +65,7 @@ Um eine leichte Verständlichkeit zu ermöglichen, haben wir uns im Anwendungsfa
 
 Folgende Spaltentypen können Sie mithilfe der Operation _Vergleichen und kopieren_ **nicht** kopieren und stehen Ihnen dementsprechend bei der Definition der Quell- und Ergebnisspalten **nicht** zur Verfügung.
 
-- [Mehrfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}})
-- [Die Spalte Ersteller]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}})
-- [Die Spalte Letzter Bearbeiter]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
+- [Mehrfachauswahl-Spalte]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}})
+- [Die Spalte Ersteller]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}})
+- [Die Spalte Letzter Bearbeiter]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Schaltfläche]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})

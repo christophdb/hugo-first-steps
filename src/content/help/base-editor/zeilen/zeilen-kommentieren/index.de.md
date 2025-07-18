@@ -40,7 +40,7 @@ Sie können Teammitglieder auf Ihren Kommentar aufmerksam machen, indem Sie sie 
 
 ## Einem Kommentar Bilder hinzufügen
 
-Über das **Bild-Icon** unter dem Eingabefeld können Sie Ihren Kommentaren auch **Bilder** hinzufügen. Diese sind nur in der Kommentarspalte sichtbar und werden zwar nicht in einer [Bild-Spalte]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) der Tabelle, aber in der [Dateiverwaltung der Base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) gespeichert.
+Über das **Bild-Icon** unter dem Eingabefeld können Sie Ihren Kommentaren auch **Bilder** hinzufügen. Diese sind nur in der Kommentarspalte sichtbar und werden zwar nicht in einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) der Tabelle, aber in der [Dateiverwaltung der Base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) gespeichert.
 
 ## Anzeige der kommentierten Zeilen
 

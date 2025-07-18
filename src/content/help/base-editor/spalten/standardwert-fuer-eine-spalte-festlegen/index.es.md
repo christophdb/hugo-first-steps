@@ -26,7 +26,7 @@ También puede definir un valor por defecto directamente al [crear una nueva col
 
 ## Para qué tipos de columnas puede definir valores por defecto
 
-Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de columnas en]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) SeaTable. Las columnas cuyo contenido es generado automáticamente por SeaTable[(fórmulas]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), [archivo]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) y [firma]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}}).
+Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de columnas en]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) SeaTable. Las columnas cuyo contenido es generado automáticamente por SeaTable[(fórmulas]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}), [archivo]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) y [firma]({{< relref "help/base-editor/spaltentypen/die-signatur-spalte" >}}).
 
 **A continuación encontrará un resumen de los tipos de columna para los que puede definir valores por defecto:**
 
@@ -59,7 +59,7 @@ Se pueden definir valores por defecto para muchos, pero no todos, [los tipos de 
 
 ## Valores por defecto referenciados en columnas de texto
 
-Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por defecto en una [columna de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), el **nombre** o **ID del usuario** que añadió la línea se introduce automáticamente.
+Si especifica la referencia **{creator.name}** o **{creator.id}** como valor por defecto en una [columna de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), el **nombre** o **ID del usuario** que añadió la línea se introduce automáticamente.
 
 ![Referenciar el nombre de usuario con un valor por defecto](images/Set-creator-name-as-default-value.png)
 

@@ -22,7 +22,7 @@ Pour définir quels enregistrements dépendent les uns des autres, vous avez bes
 
 > Dans l'exemple d'application avec les postes dans une entreprise, vous lieriez donc le supérieur respectif de l'employé dans la colonne des liens. Il en résulte les niveaux de l'organigramme : Au deuxième niveau se trouveraient les chefs de service et tout en haut le directeur général.
 
-Si vous souhaitez illustrer les enregistrements de l'organigramme avec des images, vous avez également besoin d'une [colonne d'images]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) dans le tableau, dans laquelle vous pouvez télécharger des photos et des graphiques.
+Si vous souhaitez illustrer les enregistrements de l'organigramme avec des images, vous avez également besoin d'une [colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) dans le tableau, dans laquelle vous pouvez télécharger des photos et des graphiques.
 
 ## Possibilités de paramétrage d'un organigramme
 

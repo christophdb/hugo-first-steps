@@ -28,7 +28,7 @@ You can only move rows to the big data storage if you [have already activated]({
 
 {{< warning  headline="Tip" >}}
 
-For example, if you want to **archive old entries**, you can filter the view beforehand using the [Created]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}) or [Last Edited]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) column types.
+For example, if you want to **archive old entries**, you can filter the view beforehand using the [Created]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) or [Last Edited]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) column types.
 
 {{< /warning >}}
 

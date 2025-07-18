@@ -87,6 +87,6 @@ Congratulations! You have just sent your first email via SeaTable - even if it o
 
 - [Setting up an e-mail account in a base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
 - [Set up Gmail to send e-mails via SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
-- [The button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
+- [The button]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
 - [Sending an e-mail with a button]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [E-mail via automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

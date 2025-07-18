@@ -46,17 +46,17 @@ For number-based columns, the following **calculation options** are available in
 
 For the following column types, the statusrow reflects a calculated value:
 
-- [Number columns]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+- [Number columns]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
     - Number
     - Percent
     - Currency
-- [Duration columns]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}})
-- [Rating columns]({{< relref "help/base-editor/numerische-spalten/die-rating-spalte" >}})
-- Numerical values in [formula columns]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+- [Duration columns]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}})
+- [Rating columns]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+- Numerical values in [formula columns]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
 For the following column types, the status-row **does not** reflect a calculated value, although they (may) contain numbers:
 
-- [Date columns]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Created]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Automatic number]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-- Numbers in [text columns]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+- [Date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- [Created time]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) and [Last modified time]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Automatic number]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- Numbers in [text columns]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})

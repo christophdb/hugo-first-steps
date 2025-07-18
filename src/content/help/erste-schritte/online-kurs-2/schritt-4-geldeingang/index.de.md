@@ -36,6 +36,6 @@ Mit Ihrem neu erworbenen Wissen sollte dies kein Problem darstellen. Den folgend
 
 - [Einrichten eines E-Mail-Kontos in einer Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
 - [Gmail für den Versand von e-Mails per SMTP einrichten]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
-- [Die Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
+- [Die Schaltfläche]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
 - [Eine E-Mail per Schaltfläche verschicken]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [E-Mail per Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

@@ -20,7 +20,7 @@ Heute Morgen haben wir SeaTable Cloud auf Version 5.1 aktualisiert. Wir empfehle
 
 Die [Einstellungen der App]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) haben unsere Entwickler überarbeitet und übersichtlicher gemacht. Dabei ist unter anderem ein separates Menü für das Branding der App hinzugekommen, in dem sich der Modus, das Farbschema und das App-Icon auswählen lassen. Der ‘Seite hinzufügen’-Assistent zeigt sich ebenfalls in einem neuen, zweiseitigen Layout.
 
-Stichwort Seiten: Alle Seitentypen bieten mit SeaTable 5.1 eine Vorschaufunktion für Bilddateien in [Datei-Spalten]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Solche Thumbnails boten bisher nur [Bild-Spalten]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}).) PDF-, Office- und Textdateien werden weiterhin mit einem Datei-Icon dargestellt.
+Stichwort Seiten: Alle Seitentypen bieten mit SeaTable 5.1 eine Vorschaufunktion für Bilddateien in [Datei-Spalten]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}). (Solche Thumbnails boten bisher nur [Bild-Spalten]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).) PDF-, Office- und Textdateien werden weiterhin mit einem Datei-Icon dargestellt.
 
 Mit Blick auf die einzelnen Seitentypen stechen die [individuelle Seite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) und die [Seite für einzelne Datensätze]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}}) mit den meisten Verbesserungen heraus. Aber auch andere Seitentypen können sich über inkrementelle Verbesserungen freuen.
 
@@ -34,7 +34,7 @@ Mehr Flexibilität bietet Version 5.1 auch beim **Vergrößern und Verschieben v
 
 ### Seitentyp Einzelner Datensatz
 
-Dieser Seitentyp unterstützt in SeaTable 5.1 – genauso wie Tabellen- und Abfrageseiten – die [Ausführung von Aktionen per Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Ob Erstellung eines PDF-Dokuments, Aufruf einer Webseite, Veränderung eines Datensatzes oder Ausführung eines Skripts – all diese **Schaltflächen-Aktionen** können Sie nun auch hier starten. Eine [Bearbeitungsberechtigung für die Seite]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) ist dafür nicht notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen festlegen.
+Dieser Seitentyp unterstützt in SeaTable 5.1 – genauso wie Tabellen- und Abfrageseiten – die [Ausführung von Aktionen per Schaltfläche]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}). Ob Erstellung eines PDF-Dokuments, Aufruf einer Webseite, Veränderung eines Datensatzes oder Ausführung eines Skripts – all diese **Schaltflächen-Aktionen** können Sie nun auch hier starten. Eine [Bearbeitungsberechtigung für die Seite]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) ist dafür nicht notwendig. Auf diese Weise können App-Admins die Benutzerinteraktionen für diesen Seitentyp auf einige vordefinierte Aktionen festlegen.
 
 Die Toolbar bietet einen neuen **QR-Code-Generator**. Der QR-Code enthält den Link auf den aktuell angezeigten Eintrag. Auf einem Gegenstand oder Gerät angebracht, lassen sich über ein Tablet oder Smartphone ohne jede Tastatureingabe alle Daten in der App abrufen. Dadurch wird beispielsweise die Inventarverwaltung noch einfacher.
 
@@ -90,7 +90,7 @@ Hierarchien über bis zu drei Ebenen, das heißt Daten aus drei Tabellen, lassen
 
 Auch in dieser Version gibt es wieder mehr Neuigkeiten, als wir in überschaubarem Umfang in diesen Release Notes darstellen können. Daher folgen in aller Kürze noch ein paar weitere Features, die aus unserer Sicht eine Erwähnung verdienen.
 
-Der **Formel-Editor** erhält eine neue Funktion: **rowid()** gibt die ID der Zeile zurück. Diese lässt sich dann z. B. bei Schaltflächen-Aktionen oder Automationen verwenden. Aber nicht nur in der [Formel-Spalte]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), sondern auch beim Spaltentyp Formel für Verknüpfungen gibt es Neuigkeiten: [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) bieten nun eine Duplikatsprüfung. Wenn die Option **Duplikate nicht anzeigen** aktiviert ist, dann werden in jeder Zelle der Spalte nur einzigartige Werte angezeigt.
+Der **Formel-Editor** erhält eine neue Funktion: **rowid()** gibt die ID der Zeile zurück. Diese lässt sich dann z. B. bei Schaltflächen-Aktionen oder Automationen verwenden. Aber nicht nur in der [Formel-Spalte]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}), sondern auch beim Spaltentyp Formel für Verknüpfungen gibt es Neuigkeiten: [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) bieten nun eine Duplikatsprüfung. Wenn die Option **Duplikate nicht anzeigen** aktiviert ist, dann werden in jeder Zelle der Spalte nur einzigartige Werte angezeigt.
 
 ![Color Picker introduced SeaTable 5.1](ColorPicker.png)
 

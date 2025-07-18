@@ -10,7 +10,7 @@ url: '/pt/ajuda/mehrere-kalender-fuer-eine-base-anlegen'
 
 Ao criar **vários calendários** numa base, é possível armazenar compromissos específicos em calendários diferentes. Por exemplo, é possível criar calendários individuais para diferentes projectos. Se trabalhar com várias pessoas numa base, cada membro da equipa pode criar calendários individuais.
 
-Para criar vários calendários, são necessárias **várias tabelas** ou uma tabela com diferentes [vistas]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) ou uma tabela com diferentes [colunas de datas]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}).
+Para criar vários calendários, são necessárias **várias tabelas** ou uma tabela com diferentes [vistas]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen-ansicht" >}}) ou uma tabela com diferentes [colunas de datas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
 ## Como criar calendários adicionais no plug-in do calendário
 

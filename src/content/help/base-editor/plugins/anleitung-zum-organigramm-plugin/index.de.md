@@ -23,7 +23,7 @@ Um zu definieren, welche Datensätze voneinander abhängen, brauchen Sie eine [V
 
 > Im Anwendungsbeispiel mit den Positionen in einem Unternehmen würden Sie also den jeweiligen Vorgesetzten des Mitarbeiters in der Verknüpfungsspalte verlinken. Daraus resultieren die Ebenen des Organigramms: In der zweiten Ebene stünden die Abteilungsleiter und ganz oben der Geschäftsführer.
 
-Wenn Sie die Datensätze im Organigramm mit Bildern illustrieren möchten, benötigen Sie in der Tabelle zudem eine [Bild-Spalte]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), in der Sie Fotos und Grafiken hochladen können.
+Wenn Sie die Datensätze im Organigramm mit Bildern illustrieren möchten, benötigen Sie in der Tabelle zudem eine [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}), in der Sie Fotos und Grafiken hochladen können.
 
 ## Einstellungsmöglichkeiten eines Organigramms
 

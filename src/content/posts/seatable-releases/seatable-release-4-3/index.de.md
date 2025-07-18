@@ -45,7 +45,7 @@ Die Nutzer der jeweiligen App können ihre Benachrichtigungen über das {{< seat
 
 ## Teamübergreifende Mitarbeiter-Spalte
 
-In der [Mitarbeiter-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) war es bisher nur möglich Personen auszuwählen, die bereits Zugriff auf die jeweilige Base hatten. Ab SeaTable 4.3 können Sie in Mitarbeiter-Spalten **alle Mitglieder Ihres Teams** eintragen, selbst wenn diese keinen Zugriff auf bestimmte Bases haben. Dadurch wird es wesentlich komfortabler, Ihren Mitarbeitern unabhängig von ihrer Zugriffsberechtigung Datensätze zuzuordnen.
+In der [Mitarbeiter-Spalte]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) war es bisher nur möglich Personen auszuwählen, die bereits Zugriff auf die jeweilige Base hatten. Ab SeaTable 4.3 können Sie in Mitarbeiter-Spalten **alle Mitglieder Ihres Teams** eintragen, selbst wenn diese keinen Zugriff auf bestimmte Bases haben. Dadurch wird es wesentlich komfortabler, Ihren Mitarbeitern unabhängig von ihrer Zugriffsberechtigung Datensätze zuzuordnen.
 
 Diese Funktionalität ist vor allem in der Universellen App von Vorteil. Sie können die Option, dass die Teammitglieder in der Drop-down-Liste für alle Nutzer zu sehen sind, in den [Einstellungen]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) der Universellen App aktivieren. Wenn Sie nicht möchten, dass die Nutzer die Datensätze der anderen sehen können, legen Sie **voreingestellte Filter** fest: Wird eine Seite per Mitarbeiter-Spalte mit der Bedingung „inkludiert aktuellen Benutzer“ gefiltert, sieht jeder Nutzer der Universellen App nur die Einträge, die ihm in der Tabelle zugeordnet sind.
 
@@ -71,7 +71,7 @@ Außerdem lässt sich die **Hintergrundfarbe** von individuellen Seiten ab SeaTa
 
 Die Vererbung von [Spaltenberechtigungen]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) aus der Base wird mit SeaTable 4.3 abgeschafft. Wenn Sie eine Spalte in der Universellen App für die Bearbeitung sperren möchten, können Sie sie stattdessen in den Einstellungen der [Tabellenseite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}) auf **„nur lesbar“** setzen.
 
-Ebenso werden alle Einschränkungen für [Schaltflächen-Aktionen]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) aufgehoben. Jeder App-Nutzer kann nun vordefinierte Änderungen an den Datensätzen ausführen, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind und der Nutzer nicht zur Bearbeitung der Seite berechtigt ist.
+Ebenso werden alle Einschränkungen für [Schaltflächen-Aktionen]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) aufgehoben. Jeder App-Nutzer kann nun vordefinierte Änderungen an den Datensätzen ausführen, auch wenn die betroffenen Spalten ansonsten für ihn gesperrt sind und der Nutzer nicht zur Bearbeitung der Seite berechtigt ist.
 
 ## Wichtige Ankündigung: Entfernung der Galerie- und Datenabfrage-App
 

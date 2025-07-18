@@ -20,7 +20,7 @@ Un **plugin** es un componente de software opcional en SeaTable que le ofrece op
 
 ## Plugin de calendario
 
-En el complemento de calendario, puede mostrar los datos de una [columna]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) de fecha en una **vista de** **año**, **mes**, **semana**, **día** o **agenda**. También puede utilizar dos columnas de fecha para mostrar **intervalos de tiempo** y mantener así una visión general de todas las fechas importantes, etc.
+En el complemento de calendario, puede mostrar los datos de una [columna]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) de fecha en una **vista de** **año**, **mes**, **semana**, **día** o **agenda**. También puede utilizar dos columnas de fecha para mostrar **intervalos de tiempo** y mantener así una visión general de todas las fechas importantes, etc.
 
 ![](images/Calendar.png)
 
@@ -41,7 +41,7 @@ El plug-in de línea de tiempo representa distintos periodos de tiempo en forma 
 
 ## Plugin de galería
 
-El complemento de galería es especialmente adecuado para mostrar registros con **imágenes**, ya que se refiere principalmente al contenido de una columna [de imágenes]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}). Debajo de las imágenes, las entradas de una columna se muestran como **títulos**. Además, es posible mostrar otras columnas de la tabla en este plug-in y complementar así las imágenes con más información de los conjuntos de datos. Especialmente para proyectos creativos y artísticos, esto resulta muy útil para resumir toda la información de un vistazo.
+El complemento de galería es especialmente adecuado para mostrar registros con **imágenes**, ya que se refiere principalmente al contenido de una columna [de imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Debajo de las imágenes, las entradas de una columna se muestran como **títulos**. Además, es posible mostrar otras columnas de la tabla en este plug-in y complementar así las imágenes con más información de los conjuntos de datos. Especialmente para proyectos creativos y artísticos, esto resulta muy útil para resumir toda la información de un vistazo.
 
 ![Plugin de galería](images/Galerie.png)
 

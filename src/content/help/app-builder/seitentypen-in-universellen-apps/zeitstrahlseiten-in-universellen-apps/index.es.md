@@ -18,11 +18,11 @@ Si desea cambiar la configuración de una página, haga clic en el **símbolo de
 
 ![Cambiar la configuración de la página de la línea de tiempo](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-En la **configuración de la página**, puede establecer en primer lugar la representación gráfica de las líneas de tiempo. Para ello, seleccione el [color de la fila]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) o de una columna [de selección]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), que determina el **color de los** bloques. También puede definir una columna para el **etiquetado de los** bloques.
+En la **configuración de la página**, puede establecer en primer lugar la representación gráfica de las líneas de tiempo. Para ello, seleccione el [color de la fila]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) o de una columna [de selección]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}), que determina el **color de los** bloques. También puede definir una columna para el **etiquetado de los** bloques.
 
 ![Ajuste gráfico de las líneas de tiempo en las aplicaciones universales](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Para definir el periodo de las entradas, necesita una [columna]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}}) o [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) que especifique el número de días. También puede seleccionar el **lapso** de tiempo, es decir, cuántos años debe abarcar la línea de tiempo.
+Para definir el período de las entradas, necesita una [columna de fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) para la **fecha de inicio**. Para la **fecha de finalización**, puede utilizar otra columna de fecha o una columna numérica diferente – [número]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), [duración]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}}) o [fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) – que indique la cantidad de días. Además, puede seleccionar el **intervalo de tiempo**, es decir, cuántos años debe abarcar la línea de tiempo.
 
 ![Configuración de la página de la línea de tiempo en aplicaciones universales](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

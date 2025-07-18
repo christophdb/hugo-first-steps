@@ -10,7 +10,7 @@ url: '/pt/ajuda/avatarbild-anpassen'
 
 Pode personalizar a sua própria **imagem de avatar** em apenas alguns passos nas **configurações pessoais da** sua conta.
 
-Uma imagem de avatar é útil para que outros membros da equipa possam identificá-lo rapidamente no SeaTable, porque a imagem é também exibida como uma miniatura em [colunas de]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), [criador]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}), por exemplo, e em frente do seu nome em acções.
+Uma imagem de avatar é útil para que outros membros da equipa possam identificá-lo rapidamente no SeaTable, porque a imagem é também exibida como uma miniatura em [colunas de]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [criador]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}), por exemplo, e em frente do seu nome em acções.
 
 ## Para personalizar a sua imagem de avatar
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/zeilenhoehe-anpassen'
 ---
 
-Standardmäßig zeigt SeaTable sämtliche Zeilen mit einer kompakten Zeilenhöhe an, um möglichst viele Datensätze darzustellen. Bei dieser **einfachen Zeilenhöhe** werden aber unter anderem [Text-]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) und [Mehrfachauswahl-Spalten]({{< relref "help/base-editor/auswahl-spalten/die-mehrfachauswahl-spalte" >}}) abgeschnitten und von Bildern nur kleine **Miniaturansichten** angezeigt.
+Standardmäßig zeigt SeaTable sämtliche Zeilen mit einer kompakten Zeilenhöhe an, um möglichst viele Datensätze darzustellen. Bei dieser **einfachen Zeilenhöhe** werden aber unter anderem [Text-]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) und [Mehrfachauswahl-Spalten]({{< relref "help/base-editor/spaltentypen/die-mehrfachauswahl-spalte" >}}) abgeschnitten und von Bildern nur kleine **Miniaturansichten** angezeigt.
 
 ![Abgeschnittene Zelleninhalte](images/small-row-height-cut-cells.png)
 

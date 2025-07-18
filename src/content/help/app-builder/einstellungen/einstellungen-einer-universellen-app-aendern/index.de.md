@@ -49,7 +49,7 @@ Es handelt sich dabei nur um eine Voreinstellung beim erstmaligen Öffnen der Ap
 
 ## Einstellungen für die Zusammenarbeit
 
-Im vierten Abschnitt können Sie entscheiden, ob Ihre **Mitarbeiter-Liste** in der App für alle Nutzer sichtbar sein soll. Sie können dann Personen in [Mitarbeiter-Spalten]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) eintragen oder zu [Kommentaren]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) hinzufügen. Wenn Ihre Mitarbeiter für andere unsichtbar bleiben sollen, sollten Sie diese Funktion deaktivieren.
+Im vierten Abschnitt können Sie entscheiden, ob Ihre **Mitarbeiter-Liste** in der App für alle Nutzer sichtbar sein soll. Sie können dann Personen in [Mitarbeiter-Spalten]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) eintragen oder zu [Kommentaren]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) hinzufügen. Wenn Ihre Mitarbeiter für andere unsichtbar bleiben sollen, sollten Sie diese Funktion deaktivieren.
 
 ![Load collaborator list in apps](images/Load-collaborator-list-in-apps.png)
 

@@ -46,17 +46,17 @@ Pour les colonnes basées sur des chiffres, les **options de calcul** suivantes 
 
 Pour les types de colonnes suivants, la ligne d'état indique une valeur calculée :
 
-- [Colonnes de chiffres]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+- [Colonnes de nombres]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
     - Nombre
     - Pourcentage
     - Monnaie
-- [Colonnes permanentes]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}})
-- [Colonnes de notation]({{< relref "help/base-editor/numerische-spalten/die-rating-spalte" >}})
-- Valeurs numériques dans [les colonnes de formules]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+- [Colonnes de durée]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}})
+- [Colonnes de classement]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+- Valeurs numériques dans [les colonnes de formules]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
 Pour les types de colonnes suivants, la ligne d'état ne donne **pas** de valeur calculée, bien qu'ils contiennent (ou puissent contenir) des chiffres :
 
-- [Colonnes de dates]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Créé]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Numéro automatique]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-- Chiffres dans [les colonnes de texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+- [Colonnes de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- [Date de création]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) y [Date de dernière modification]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Numéro automatique]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- Chiffres dans [les colonnes de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})

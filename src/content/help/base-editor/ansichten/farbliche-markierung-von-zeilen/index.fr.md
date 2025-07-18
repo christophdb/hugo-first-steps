@@ -32,7 +32,7 @@ Pour l'option **Utiliser une colonne de sélection simple**, vous avez besoin d'
 
 {{< warning  headline="Création d'une colonne de sélection simple" >}}
 
-Apprenez [ici]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) comment créer de nouvelles colonnes de sélection simple.
+Apprenez [ici]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) comment créer de nouvelles colonnes de sélection simple.
 
 {{< /warning >}}
 
@@ -51,7 +51,7 @@ L'option **Utiliser des règles** vous permet de définir des conditions pour le
 
 ### Utiliser un exemple de règle
 
-Dans cet exemple, toutes les lignes d'un plan de rédaction qui sont cochées comme étant terminées dans la [colonne des cases à cocher]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) doivent être marquées. Pour cela, la **colonne "Published"** a été sélectionnée, la condition **"est"** a été utilisée et il a été défini que les lignes marquées **d'une coche** doivent être sélectionnées.
+Dans cet exemple, toutes les lignes d'un plan de rédaction qui sont cochées comme étant terminées dans la [colonne des cases à cocher]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) doivent être marquées. Pour cela, la **colonne "Published"** a été sélectionnée, la condition **"est"** a été utilisée et il a été défini que les lignes marquées **d'une coche** doivent être sélectionnées.
 
 ![Marquage des lignes en couleur](images/Farbliche-Markierung-von-Zellen-9.png)
 

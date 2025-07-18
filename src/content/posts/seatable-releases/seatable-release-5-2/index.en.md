@@ -40,7 +40,7 @@ As of SeaTable 5.2, the page settings for this page type include the **Preset re
 
 For [locked data records]({{< relref "help/base-editor/zeilen/sperren-einer-zeile" >}}), the user now also receives feedback that editing is not possible. A corresponding message is displayed when you move the mouse pointer over "Edit entry" in the toolbar.
 
-In addition to the authorization control, the new version also contains two improvements to increase user-friendliness: fields of type [URL]({{< relref "help/base-editor/text-spalten/die-url-spalte" >}}) and [e-mail]({{< relref "help/base-editor/text-spalten/die-e-mail-spalte-und-ihre-verwendung" >}}) are now clickable. This makes calling up a website or writing an e-mail even faster. (Files in file columns become clickable in version 5.3.) You can set the fill mode for image elements on the page. Three modes are available: Fit, Fill and Stretch.
+In addition to the authorization control, the new version also contains two improvements to increase user-friendliness: fields of type [URL]({{< relref "help/base-editor/spaltentypen/die-url-spalte" >}}) and [e-mail]({{< relref "help/base-editor/spaltentypen/die-e-mail-spalte" >}}) are now clickable. This makes calling up a website or writing an e-mail even faster. (Files in file columns become clickable in version 5.3.) You can set the fill mode for image elements on the page. Three modes are available: Fit, Fill and Stretch.
 
 ### Page type Form
 
@@ -48,7 +48,7 @@ Simple [web forms]({{< relref "help/base-editor/webformulare" >}}) that can be c
 
 ### Page type Table
 
-The **preset filters** in the data settings now allow the selection of all relevant column types including [formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) and [link columns]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). This removes an important functional limitation in the pre-filtering of data. With the implementation of filter groups in one of the upcoming versions, this page type will offer the same powerful filter options as the Base.
+The **preset filters** in the data settings now allow the selection of all relevant column types including [formula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) and [link columns]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). This removes an important functional limitation in the pre-filtering of data. With the implementation of filter groups in one of the upcoming versions, this page type will offer the same powerful filter options as the Base.
 
 ### Individual pages
 
@@ -106,7 +106,7 @@ With the new version, SeaTable supports **logging into Google and Microsoft emai
 
 Tables can now be hidden, as is familiar from Microsoft Excel. A **hidden worksheet** is no longer displayed as a tab and can only be accessed via the drop-down menu.
 
-[Checkboxes]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) offer more style options and even more color options in SeaTable 5.2. If you don't like the green tick, you can now choose from 69 other options.
+[Checkboxes]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) offer more style options and even more color options in SeaTable 5.2. If you don't like the green tick, you can now choose from 69 other options.
 
 In the [calendar plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}), new entries can now also be created by double-clicking or using the new "+" button.
 

@@ -142,7 +142,7 @@ You can use the **frame radius** to **round off** the **corners** of the frame u
 
 ## Static image
 
-A **static image** offers you the option of integrating **image files** such as logos, graphics or background images into a page to create a basic page layout. In contrast to images that originate from [image columns]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) of your table, a static image does not change and remains the same regardless of the entries in the table. However, you must upload the corresponding image file **manually**.
+A **static image** offers you the option of integrating **image files** such as logos, graphics or background images into a page to create a basic page layout. In contrast to images that originate from [image columns]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) of your table, a static image does not change and remains the same regardless of the entries in the table. However, you must upload the corresponding image file **manually**.
 
 ### Change the position and size of the image
 

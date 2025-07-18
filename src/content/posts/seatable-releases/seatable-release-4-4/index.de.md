@@ -20,7 +20,7 @@ In SeaTable 4.4 haben wir wieder jede Menge Verbesserungen und Bugfixes an der [
 
 ### Buttons auf Abfrageseiten
 
-[Abfrageseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) unterstützen nun die Ausführung von Schaltflächen-Aktionen: Nach einer erfolgreichen Datenabfrage können Sie in der angezeigten Trefferliste [Schaltflächen]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) betätigen, um Aktionen auszuführen. Dies ist eine besondere Neuerung, denn bisher war in SeaTable nirgends eine Interaktion mit abgefragten Zeilen möglich.
+[Abfrageseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) unterstützen nun die Ausführung von Schaltflächen-Aktionen: Nach einer erfolgreichen Datenabfrage können Sie in der angezeigten Trefferliste [Schaltflächen]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) betätigen, um Aktionen auszuführen. Dies ist eine besondere Neuerung, denn bisher war in SeaTable nirgends eine Interaktion mit abgefragten Zeilen möglich.
 
 ![Schaltflächen auf Abfrageseiten ausführen](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -28,7 +28,7 @@ Ein Anwendungsbeispiel ist eine interne Stellenbörse: Die Abfrageseite erlaubt 
 
 ### Drag and Drop im Kalender
 
-Bislang war es nicht möglich, Termine auf der [Kalenderseite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}) zu ändern. Mit SeaTable 4.4 bekommen Sie hier mehr Flexibilität. Ab jetzt können Sie Ihre Termine im Kalender komfortabel per Drag and Drop verschieben. Zudem können Sie die Werte in den entsprechenden [Datum-Spalten]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) über die Zeilendetails bearbeiten, sofern Sie die notwendige [Berechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) besitzen.
+Bislang war es nicht möglich, Termine auf der [Kalenderseite]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}) zu ändern. Mit SeaTable 4.4 bekommen Sie hier mehr Flexibilität. Ab jetzt können Sie Ihre Termine im Kalender komfortabel per Drag and Drop verschieben. Zudem können Sie die Werte in den entsprechenden [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) über die Zeilendetails bearbeiten, sofern Sie die notwendige [Berechtigung]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) besitzen.
 
 ### Vereinfachtes Datenhandling auf der Tabellenseite
 
@@ -38,7 +38,7 @@ Wie in der Base können Sie nun auch auf den [Tabellenseiten]({{< relref "help/a
 
 ### Mitarbeiter-Spalte auf Formularseiten verfügbar
 
-Wenn Sie eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) in Ihrer Tabelle nutzen, ist diese in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) **nicht** verfügbar. Jedoch können Sie ab SeaTable 4.4 Mitarbeiter-Spalten auf [Formularseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) der Universellen App hinzufügen. So können sich Ihre Teammitglieder beispielsweise bei einem Urlaubsantrag selbst auswählen und müssen ihre Namen nicht mehr manuell eintragen. Zuvor müssen Sie in den [App-Einstellungen]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) die Option aktivieren, dass die Mitarbeiterliste angezeigt werden soll.
+Wenn Sie eine [Mitarbeiter-Spalte]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) in Ihrer Tabelle nutzen, ist diese in [Webformularen]({{< relref "help/base-editor/webformulare" >}}) **nicht** verfügbar. Jedoch können Sie ab SeaTable 4.4 Mitarbeiter-Spalten auf [Formularseiten]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) der Universellen App hinzufügen. So können sich Ihre Teammitglieder beispielsweise bei einem Urlaubsantrag selbst auswählen und müssen ihre Namen nicht mehr manuell eintragen. Zuvor müssen Sie in den [App-Einstellungen]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) die Option aktivieren, dass die Mitarbeiterliste angezeigt werden soll.
 
 ### Mehr Customizing-Optionen für individuelle Seiten
 
@@ -94,7 +94,7 @@ Da sich der Wirkungsbereich der Standardwerte erheblich vergrößert hat, haben 
 
 ## Und vieles mehr
 
-Den **Editor für formatierten Text** kennen Sie bereits von verschiedenen Stellen in SeaTable, z. B. von der [Base-Beschreibung]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), dem [Spaltentyp für lange Texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) oder [E-Mail-Nachrichten]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). Mit SeaTable 4.4 haben wir die Usability verbessert und einige Bugs behoben. Hier nur zwei: Bisher wurden mehrfache Zeilenumbrüche beim Schließen des Editors entfernt und bestehender Text beim Tippen in der Zelle überschrieben. Im neuen Editor bleiben mehrfache Zeilenumbrüche erhalten und können dazu dienen, den Text übersichtlicher zu strukturieren. Auch die Gefahr von ungewollten Löschungen haben wir beseitigt: Bei der Eingabe wird der neue Text dem bestehenden Text vorangestellt.
+Den **Editor für formatierten Text** kennen Sie bereits von verschiedenen Stellen in SeaTable, z. B. von der [Base-Beschreibung]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), dem [Spaltentyp für lange Texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) oder [E-Mail-Nachrichten]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). Mit SeaTable 4.4 haben wir die Usability verbessert und einige Bugs behoben. Hier nur zwei: Bisher wurden mehrfache Zeilenumbrüche beim Schließen des Editors entfernt und bestehender Text beim Tippen in der Zelle überschrieben. Im neuen Editor bleiben mehrfache Zeilenumbrüche erhalten und können dazu dienen, den Text übersichtlicher zu strukturieren. Auch die Gefahr von ungewollten Löschungen haben wir beseitigt: Bei der Eingabe wird der neue Text dem bestehenden Text vorangestellt.
 
 In der neuen Version haben wir auch die **Benachrichtigungszentrale** {{< seatable-icon icon="dtable-icon-notice" >}} auf der Startseite verbessert. Jetzt können Sie alle [Benachrichtigungen]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) im System an einem Ort sehen, die Quelle der Benachrichtigung nachvollziehen und mit einem Klick zur entsprechenden Seite gelangen.
 

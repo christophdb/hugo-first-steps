@@ -18,11 +18,11 @@ Wenn Sie die Einstellungen einer Seite ändern möchten, klicken Sie in der Navi
 
 ![Einstellungen der Zeitstrahlseite ändern](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung der Zeitleisten einstellen. Wählen Sie dazu die [Zeilenfarbe]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder eine [Einfachauswahl-Spalte]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) aus, welche die **Farbe der Blöcke** bestimmt. Auch für die **Beschriftung der Blöcke** können Sie eine Spalte festlegen.
+In den **Seiteneinstellungen** können Sie zunächst die grafische Darstellung der Zeitleisten einstellen. Wählen Sie dazu die [Zeilenfarbe]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) oder eine [Einfachauswahl-Spalte]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) aus, welche die **Farbe der Blöcke** bestimmt. Auch für die **Beschriftung der Blöcke** können Sie eine Spalte festlegen.
 
 ![Grafische Einstellung der Zeitleisten in Universellen Apps](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Um den Zeitraum der Einträge zu definieren, benötigen Sie eine [Datum-Spalte]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}}) oder [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) verwenden, welche die Anzahl an Tagen angibt. Zudem können Sie die **Zeitspanne** auswählen, wie viele Jahre der Zeitstrahl abdecken soll.
+Um den Zeitraum der Einträge zu definieren, benötigen Sie eine [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) für das **Startdatum**. Für das **Enddatum** können Sie eine weitere Datum-Spalte oder eine andere numerische Spalte – [Zahl]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), [Dauer]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}}) oder [Formel]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) – verwenden, welche die Anzahl an Tagen angibt. Zudem können Sie die **Zeitspanne** auswählen, wie viele Jahre der Zeitstrahl abdecken soll.
 
 ![Seiteneinstellungen der Zeitstrahlseite in Universellen Apps](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

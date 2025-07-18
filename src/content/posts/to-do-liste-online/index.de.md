@@ -96,7 +96,7 @@ Die Erinnerungen lassen sich in jeder Liste übersichtlich sortieren und in Absc
 
 SeaTable ist eine Online-Datenbank, mit der Sie Aufgaben, Informationen, Prozesse und Ideen einfach und übersichtlich organisieren können. Sie profitieren von einer klassischen Listenansicht oder können alternative Darstellungsformen wie das [Kanban-Board]({{< relref "help/base-editor/plugins/anleitung-zum-kanban-plugin" >}}), den [Kalender]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}) oder ein [Gantt-Diagramm]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) verwenden.
 
-Interessant ist außerdem, dass Sie [Dateien]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) und [Bilder]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) hochladen und an Aufgaben anhängen können. Ebenso können Sie beliebig viele Informationen wie ein Datum, eine Priorität und Unteraufgaben in weiteren Spalten hinzufügen.
+Interessant ist außerdem, dass Sie [Dateien]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) und [Bilder]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) hochladen und an Aufgaben anhängen können. Ebenso können Sie beliebig viele Informationen wie ein Datum, eine Priorität und Unteraufgaben in weiteren Spalten hinzufügen.
 
 Im Vergleich aller betrachteten Apps hat SeaTable den mit Abstand **größten Funktionsumfang** und überzeugt mit jeder Menge **Flexibilität**. So erhalten Sie in einer App alles, was Sie für Ihre To do Liste brauchen. Dank der vielen **kollaborativen Funktionen** (Kommentare, gemeinsame Datensätze, synchrones Arbeiten in Echtzeit etc.) können Sie nicht nur an eigenen Listen, sondern auch erfolgreich im Team zusammenarbeiten.
 

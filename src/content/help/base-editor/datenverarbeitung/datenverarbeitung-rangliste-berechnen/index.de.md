@@ -26,7 +26,7 @@ Bei der ersten erfolgreichen Ausführung erscheint am unteren linken Rand ein kl
 
 Ein konkreter Anwendungsfall für diese Datenverarbeitungs-operation könnte beispielsweise auftreten, wenn Sie die Anzahl der täglichen Zugriffe auf eine Website in einer Spalte erheben und diese in eine **Rangordnung** (im Vergleich zu den anderen Spaltenwerten) bringen möchten. Hierfür möchten Sie den täglichen **Zugriffszahlen** separat in einer weiteren Spalte **Ränge** zuweisen.
 
-Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}) erhoben werden.
+Für die Umsetzung benötigen Sie zunächst eine Tabelle, in der die verschiedenen **Tage** in einer [Datum-Spalte]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) und die **Zugriffszahlen** auf die Website in einer [Zahlen-Spalte]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}) erhoben werden.
 
 ![Beispieltabelle für den Anwendungsfall Kumulierte Werte berechnen](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

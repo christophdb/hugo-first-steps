@@ -17,12 +17,12 @@ Die **erste Spalte** einer Tabelle weist in SeaTable im Vergleich zu den anderen
 - Die erste Spalte einer Tabelle können Sie im Gegensatz zu den anderen Spalten **nicht löschen**.
 - Im Gegensatz zu den anderen Spalten können Sie die erste Spalte aber individuell **fixieren**.
 - Für die **erste Spalte** stehen lediglich **sechs Spaltentypen** zur Auswahl:
-  - [Text]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
-  - [Zahl]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
-  - [Datum]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-  - [Einfachauswahl]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
-  - [Automatische Nummer]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-  - [Formel]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+  - [Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+  - [Zahl]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
+  - [Datum]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+  - [Einfachauswahl]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
+  - [Automatische Nummer]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+  - [Formel]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
 ## Wie Sie den Typ der ersten Spalte anpassen
 
@@ -48,6 +48,6 @@ Wenn Sie als **erste Spalte** einer Tabelle eine **Formel** definieren, können 
 {{< /faq >}}
 {{< faq "Kann man den Typ der ersten Spalte nachträglich ändern?" >}}Ja, dies ist möglich. In manchen Fällen kann es jedoch vorkommen, dass bei der [Änderung des Spaltentyps]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), beispielsweise von Text zu Zahl, Informationen **verloren gehen**. Prüfen Sie daher nach einer Konvertierung, ob alle Informationen korrekt und vollständig übernommen wurden.
 {{< /faq >}}
-{{< faq "Was ist eine automatische Nummer?" >}}Wenn Ihre Zeilen eine **eindeutige Identifikationsnummer** haben sollen, könnte der Spaltentyp [Automatische Nummer]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) Ihnen gute Dienste erweisen. Beispiele sind Rechnungsnummern, Testfälle oder Mitarbeiter-IDs. Die Nummer lässt sich zusätzlich um ein beliebiges Präfix ergänzen.
+{{< faq "Was ist eine automatische Nummer?" >}}Wenn Ihre Zeilen eine **eindeutige Identifikationsnummer** haben sollen, könnte der Spaltentyp [Automatische Nummer]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) Ihnen gute Dienste erweisen. Beispiele sind Rechnungsnummern, Testfälle oder Mitarbeiter-IDs. Die Nummer lässt sich zusätzlich um ein beliebiges Präfix ergänzen.
 
 {{< /faq >}}

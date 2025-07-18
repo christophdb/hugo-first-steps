@@ -87,6 +87,6 @@ A continuación, haga clic en el botón y compruebe si el correo electrónico ap
 
 - [Crear una cuenta de correo electrónico en una base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}})
 - [Configurar Gmail para enviar correos electrónicos a través de SMTP]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/gmail-fuer-den-versand-von-e-mails-per-smtp-einrichten" >}})
-- [El botón]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}})
+- [El botón]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}})
 - [Enviar un correo electrónico mediante un botón]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 - [Correo electrónico automatizado]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})

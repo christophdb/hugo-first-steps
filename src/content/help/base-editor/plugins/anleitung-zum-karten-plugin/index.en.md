@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/anleitung-zum-karten-plugin'
 ---
 
-If you have created a text column with addresses or place names in your table or used the [Geoposition]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}) column type, you can use the **Map plugin** to display the locations entered in the column.
+If you have created a text column with addresses or place names in your table or used the [Geoposition]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}) column type, you can use the **Map plugin** to display the locations entered in the column.
 
 To activate the plugin, follow the instructions in the article [Activating a Plugin in a Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
@@ -58,7 +58,7 @@ Decide between the default display with **location pins** or use **images** to m
 
 ![Map plugin the default map](images/default-map.png)
 
-If you choose to display images, you must specify the image [column]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) from which to display the images.
+If you choose to display images, you must specify the image [column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) from which to display the images.
 
 ![The image display in the map plugin](images/bildanzeige.png)
 
@@ -70,11 +70,11 @@ If you have created multiple tables in your Base, you can select which table to 
 
 ### Address line
 
-Specify here a text column where you have entered addresses or place names, or a [geo-location column]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}) from which to display the locations on the map. Note that the map plugin will only work if you have used a column of this type in your table.
+Specify here a text column where you have entered addresses or place names, or a [geo-location column]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}) from which to display the locations on the map. Note that the map plugin will only work if you have used a column of this type in your table.
 
 ### Marker color
 
-If you have [single-select columns]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) with colored options or [color-marked rows]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) in the table, you can select at this point which of these should determine the **color of the map markers**.
+If you have [single-select columns]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) with colored options or [color-marked rows]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) in the table, you can select at this point which of these should determine the **color of the map markers**.
 
 ### Display field
 

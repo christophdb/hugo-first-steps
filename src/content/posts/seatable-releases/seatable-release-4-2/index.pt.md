@@ -64,7 +64,7 @@ Anteriormente, só era possível acionar a [ação automatizada "Editar entrada"
 
 ## Nova função na coluna de fórmulas: iserror()
 
-A nova função **iserror()** é um mimo para [os fãs de fórmulas]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Verifica se um argumento é um **valor de erro** (por exemplo, #DIV/0!, #VALUE!). Graças a esta função, é possível obter um resultado de maior qualidade, especialmente para [fórmulas com operadores if]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
+A nova função **iserror()** é um mimo para [os fãs de fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}). Verifica se um argumento é um **valor de erro** (por exemplo, #DIV/0!, #VALUE!). Graças a esta função, é possível obter um resultado de maior qualidade, especialmente para [fórmulas com operadores if]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
 
 ## E muito mais
 
@@ -88,4 +88,4 @@ Como proprietário ou administrador de uma base, é possível especificar nas [d
 
 {{< /warning >}}
 
-Além disso, o SeaTable 4.2 agora também suporta o tipo de coluna [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) para as operações de processamento de dados [Comparar e juntar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}), bem como [Comparar e copiar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).
+Além disso, o SeaTable 4.2 agora também suporta o tipo de coluna [Número automático]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) para as operações de processamento de dados [Comparar e juntar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}), bem como [Comparar e copiar]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).

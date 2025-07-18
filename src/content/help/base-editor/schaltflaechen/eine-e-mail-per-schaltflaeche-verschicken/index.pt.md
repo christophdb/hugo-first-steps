@@ -12,7 +12,7 @@ Com a ajuda de um **botão** nas suas filas, pode enviar e-mails a um ou mais de
 
 ## Envio de um e-mail por botão
 
-Primeiro, seleccionar a acção **Enviar e-mail** ao criar o [botão]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
+Primeiro, seleccionar a acção **Enviar e-mail** ao criar o [botão]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}).
 
 ![Selecção da acção "Enviar e-mail](images/send-email-action.png)
 
@@ -38,13 +38,13 @@ Seleccione o(s) **destinatário** (s) do e-mail. Opcionalmente, pode também sel
 
 ![Especificar o(s) destinatário(s) do e-mail. Opcionalmente, pode também seleccionar destinatários que devem receber uma cópia do e-mail ou a quem gostaria de responder com o e-mail.](images/send-to-copy-to-reply-to.png)
 
-Opcionalmente, pode acrescentar um **anexo à** mensagem de correio electrónico. Note-se, no entanto, que _não pode_ simplesmente carregar ficheiros, mas deve primeiro guardá-los numa [coluna de ficheiros da]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) tabela. No campo **Anexos**, pode então seleccionar uma ou mais **colunas de ficheiros** a partir das quais pretende anexar os ficheiros à mensagem de correio electrónico.
+Opcionalmente, pode acrescentar um **anexo à** mensagem de correio electrónico. Note-se, no entanto, que _não pode_ simplesmente carregar ficheiros, mas deve primeiro guardá-los numa [coluna de ficheiros da]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) tabela. No campo **Anexos**, pode então seleccionar uma ou mais **colunas de ficheiros** a partir das quais pretende anexar os ficheiros à mensagem de correio electrónico.
 
 ![Os ficheiros que adicionou a uma coluna de ficheiro da sua tabela podem ser utilizados como anexos ao e-mail](images/file-001.png)
 
 ## Execução condicional de acções de múltiplos botões
 
-O [botão]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) é um tipo de coluna especial com o qual é possível executar **várias acções simultaneamente** premindo um botão. É possível determinar a **seqüência cronológica de** ações através da execução condicional de uma ação subseqüente. Isto torna possível **alternar acções uma após a outra**.
+O [botão]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) é um tipo de coluna especial com o qual é possível executar **várias acções simultaneamente** premindo um botão. É possível determinar a **seqüência cronológica de** ações através da execução condicional de uma ação subseqüente. Isto torna possível **alternar acções uma após a outra**.
 
 Por exemplo, pode querer [guardar um documento PDF numa coluna de ficheiros]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) com um clique e anexar o ficheiro a uma mensagem de correio electrónico. O problema pode surgir se a mensagem de correio electrónico for enviada antes de o PDF para o anexo ter sido criado.
 

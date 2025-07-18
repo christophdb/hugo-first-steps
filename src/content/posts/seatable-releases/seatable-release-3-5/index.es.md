@@ -10,7 +10,7 @@ seo:
     description:
 ---
 
-April hace lo que quiere - ¡pero SeaTable hace lo que usted quiere! La versión 3.5 cumple algunos deseos largamente acariciados por nuestros usuarios: la primera columna ahora también soporta [fórmulas]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) y mediante la [automatización]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) puede hacer que se ejecuten periódicamente dos acciones adicionales. Obtendrá más flexibilidad para casos de uso más exigentes con la ejecución condicional de las [acciones de los botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) y las [búsquedas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) condicionales. A continuación presentamos estas mejoras en detalle.
+April hace lo que quiere - ¡pero SeaTable hace lo que usted quiere! La versión 3.5 cumple algunos deseos largamente acariciados por nuestros usuarios: la primera columna ahora también soporta [fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) y mediante la [automatización]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) puede hacer que se ejecuten periódicamente dos acciones adicionales. Obtendrá más flexibilidad para casos de uso más exigentes con la ejecución condicional de las [acciones de los botones]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) y las [búsquedas]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) condicionales. A continuación presentamos estas mejoras en detalle.
 
 Con esta versión, también publicamos un nuevo App Builder en versión beta. Con el Universal App Builder, se pueden crear aplicaciones para una gran variedad de casos de uso y grupos de usuarios sin necesidad de conocimientos de programación. Por el momento, nuestro equipo de desarrollo todavía está afinándolo, pero incluso el anticipo hace que quieras más. Esperamos sus comentarios.
 
@@ -18,7 +18,7 @@ Esta mañana hemos actualizado SeaTable Cloud a la versión 3.5. Todos los auto-
 
 ## Fórmulas en la primera columna
 
-SeaTable 3.5 ofrece más flexibilidad en la primera columna de la tabla: Hasta ahora, sólo se permitían en ella los [tipos de]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) columna texto, número, fecha, selección única y número automático. El tipo de columna [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), que ahora también se admite, permite "calcular" su propia referencia de fila. Dado que la [primera]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) columna de una tabla no se puede ocultar y, además, se muestra siempre en el diálogo de enlace, resulta especialmente adecuada para este fin.
+SeaTable 3.5 ofrece más flexibilidad en la primera columna de la tabla: Hasta ahora, sólo se permitían en ella los [tipos de]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) columna texto, número, fecha, selección única y número automático. El tipo de columna [fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}), que ahora también se admite, permite "calcular" su propia referencia de fila. Dado que la [primera]({{< relref "help/base-editor/spalten/die-besonderheiten-der-ersten-spalte" >}}) columna de una tabla no se puede ocultar y, además, se muestra siempre en el diálogo de enlace, resulta especialmente adecuada para este fin.
 
 En el editor de fórmulas, introduzca simplemente entre llaves la columna a la que desea hacer referencia. _por ejemplo, _{número de producto}** toma el valor de la columna "Número de producto". Puede concatenar varios valores de columna con **&**. Por supuesto, también puede utilizar funciones de texto como **left()\*\* para truncar valores. Por ejemplo, si gestiona facturas en una tabla, una referencia de fila formada por la fecha de la factura, el nombre del cliente y el número de factura podría tener este aspecto _20230412-CustomerZ-INV202302347_.
 
@@ -34,7 +34,7 @@ Compruebe usted mismo lo que permiten las [operaciones de tratamiento de datos e
 
 ## Ejecución condicional de las acciones de los botones
 
-Con un [botón]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) puedes ejecutar una o varias acciones con un solo clic, por ejemplo, [enviar un correo electrónico]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) y luego editar la línea. No era posible vincular la ejecución de una acción a una condición. Hemos cerrado esta brecha funcional con SeaTable 3.5.
+Con un [botón]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) puedes ejecutar una o varias acciones con un solo clic, por ejemplo, [enviar un correo electrónico]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}}) y luego editar la línea. No era posible vincular la ejecución de una acción a una condición. Hemos cerrado esta brecha funcional con SeaTable 3.5.
 
 ![SeaTable 3.5 - Las acciones de los botones pueden vincularse a reglas](SeaTable-3.5-ConditionalExecution.png)
 
@@ -74,6 +74,6 @@ Hemos introducido los cambios más importantes en la interfaz de usuario de los 
 
 ## Dos nuevos límites
 
-Como se anunció en [las últimas Notas de la Versión]({{< relref "posts/seatable-releases/seatable-release-3-4" >}}), SeaTable 3.5 introduce un límite de 100.000 caracteres para celdas individuales del tipo [Texto Formateado]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}). Si el texto de una celda supera los 100.000 caracteres (lo que corresponde a unas 25 páginas A4 de texto), aparecerá un mensaje de advertencia. Si no acorta el texto y cierra el editor, SeaTable sólo guardará 100.000 caracteres.
+Como se anunció en [las últimas Notas de la Versión]({{< relref "posts/seatable-releases/seatable-release-3-4" >}}), SeaTable 3.5 introduce un límite de 100.000 caracteres para celdas individuales del tipo [Texto Formateado]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}). Si el texto de una celda supera los 100.000 caracteres (lo que corresponde a unas 25 páginas A4 de texto), aparecerá un mensaje de advertencia. Si no acorta el texto y cierra el editor, SeaTable sólo guardará 100.000 caracteres.
 
 Con la versión 3.5, hemos reducido el número máximo de líneas devueltas en una llamada API de 10.000 a 1.000 para SeaTable Cloud. Por favor, compruebe si esto provoca la necesidad de realizar ajustes en sus integraciones.

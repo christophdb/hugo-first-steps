@@ -24,7 +24,7 @@ In this article, we will introduce you to these three different possibilities. T
 
 ## Execute script via a button
 
-1. Create a column of the type [Button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
+1. Create a column of the type [Button]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}).
 2. Decide which **label** and **color** you want the button to have.
 3. Use the **Run Script** action.
 4. Select your **script** and save.

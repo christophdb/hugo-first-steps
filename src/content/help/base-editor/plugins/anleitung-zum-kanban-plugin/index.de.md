@@ -39,7 +39,7 @@ Wenn Sie mehrere **Tabellen** und **Ansichten** in Ihrer Base angelegt haben, k�
 
 ### Gruppierung
 
-Die **Gruppierung** bestimmt, welche Spalte die **S채ulen** definiert. Hierf체r eignen sich besonders [Auswahl-]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}).
+Die **Gruppierung** bestimmt, welche Spalte die **S채ulen** definiert. Hierf체r eignen sich besonders [Auswahl-]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}).
 
 ![Kanban-Plugin S채ulen](images/Saeulen.png) In diesem Beispiel wurde die Spalte **Status** gew채hlt. Als S채ulen wurden dadurch die **Optionen** "Idee", "in Arbeit", "erledigt" und "geplant" definiert.
 

@@ -64,7 +64,7 @@ Jusqu'à présent, vous ne pouviez déclencher l'[action automatisée "Modifier 
 
 ## Nouvelle fonction dans la colonne des formules : iserror()
 
-Pour les [amateurs de formules]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), la nouvelle fonction **iserror()** est un régal. Elle vérifie si un argument est une **valeur d'erreur** (par ex. #DIV/0 !, #VALUE !). Cette fonction permet d'obtenir une meilleure qualité de résultat, en particulier pour les [formules avec opérateurs if]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
+Pour les [amateurs de formules]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}), la nouvelle fonction **iserror()** est un régal. Elle vérifie si un argument est une **valeur d'erreur** (par ex. #DIV/0 !, #VALUE !). Cette fonction permet d'obtenir une meilleure qualité de résultat, en particulier pour les [formules avec opérateurs if]({{< relref "help/base-editor/formeln/formelbeispiel-logische-if-operatoren-zum-vergleichen-von-werten" >}}).
 
 ## Et bien plus encore
 
@@ -88,4 +88,4 @@ Dans les [paramètres de sécurité]({{< relref "help/base-editor/weitere-option
 
 {{< /warning >}}
 
-De plus, SeaTable 4.2 prend désormais en charge le type de colonne [Numéro automatique]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) pour les opérations de traitement des données [Comparer et relier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) et [Comparer et copier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).
+De plus, SeaTable 4.2 prend désormais en charge le type de colonne [Numéro automatique]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) pour les opérations de traitement des données [Comparer et relier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-verknuepfen" >}}) et [Comparer et copier]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitung-vergleichen-und-kopieren" >}}/).

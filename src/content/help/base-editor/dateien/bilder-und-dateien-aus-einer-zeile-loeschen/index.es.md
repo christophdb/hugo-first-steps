@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/bilder-und-dateien-aus-einer-zeile-loeschen'
 ---
 
-SeaTable le permite **borrar** **archivos** e **imágenes** de diferentes maneras. Las siguientes instrucciones se aplican tanto a las [columnas de]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) como a las [de]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) archivos.
+SeaTable le permite **borrar** **archivos** e **imágenes** de diferentes maneras. Las siguientes instrucciones se aplican tanto a las [columnas de]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) como a las [de]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) archivos.
 
 ## Eliminar archivos e imágenes a través de los detalles de la fila
 

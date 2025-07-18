@@ -33,7 +33,7 @@ Lors de la première exécution réussie, une petite icône apparaît dans la ma
 
 Une application concrète de cette opération de traitement des données pourrait par exemple se produire si vous relevez le nombre de visites quotidiennes d'un site web et souhaitez connaître la part du **nombre de visites d'un jour** par rapport au nombre total de visites sur l'ensemble des jours. Pour ce faire, vous souhaitez calculer les **pourcentages** du nombre d'accès quotidiens dans une colonne supplémentaire.
 
-Pour la mise en œuvre, vous avez d'abord besoin d'un tableau dans lequel les différents **jours** sont relevés dans une [colonne de dates]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) et le **nombre de visites** sur le site dans une [colonne de chiffres]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}).
+Pour la mise en œuvre, vous avez d'abord besoin d'un tableau dans lequel les différents **jours** sont relevés dans une [colonne de dates]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) et le **nombre de visites** sur le site dans une [colonne de chiffres]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}).
 
 ![Exemple de tableau pour le cas d'utilisation Calculer un pourcentage](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 
@@ -51,7 +51,7 @@ Chaque fois que l'opération de traitement des données est exécutée, les **po
 
 {{< warning headline="Respecter les paramètres de format" >}}
 
-Pour que les chiffres calculés soient affichés sous forme de pourcentages, vous devez d'abord adapter les **paramètres de format de** la [colonne des chiffres]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}). Sélectionnez le format **pourcentage**. Vous pouvez également définir le point ou la virgule comme **séparateur décimal** et le nombre de **chiffres après la virgule** auxquels l'arrondi doit être effectué.
+Pour que les chiffres calculés soient affichés sous forme de pourcentages, vous devez d'abord adapter les **paramètres de format de** la [colonne des chiffres]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}). Sélectionnez le format **pourcentage**. Vous pouvez également définir le point ou la virgule comme **séparateur décimal** et le nombre de **chiffres après la virgule** auxquels l'arrondi doit être effectué.
 
 {{< /warning >}}
 

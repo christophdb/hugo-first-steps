@@ -12,7 +12,7 @@ La función de tratamiento de datos es una característica útil de SeaTable que
 
 ## El sentido de las operaciones de tratamiento de datos
 
-SeaTable suele pensar en filas. Por ejemplo, una [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) sólo puede relacionar los valores de una fila entre sí y [los enlaces entre tablas]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) sólo se hacen de fila a fila.
+SeaTable suele pensar en filas. Por ejemplo, una [fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) sólo puede relacionar los valores de una fila entre sí y [los enlaces entre tablas]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) sólo se hacen de fila a fila.
 
 El tratamiento de datos, por el contrario, es una función para realizar operaciones en una columna a través de varias filas. Básicamente, se distingue entre dos tipos diferentes de operaciones de tratamiento de datos:
 
@@ -39,11 +39,11 @@ Actualmente pueden realizarse las siguientes **operaciones de relación** median
 Cada uno de los dos tipos de operaciones de tratamiento de datos tiene **requisitos** diferentes que deben cumplirse para crear la operación correspondiente.
 
 - Las **operaciones matemáticas** requieren la presencia de **dos columnas de números** en su tabla.
-- Para las **operaciones de relación**, se necesitan tipos de columna muy específicos en función de la aplicación, por ejemplo, una [columna de personal]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) y una columna de [texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) cuando se transfieren nombres de usuario.
+- Para las **operaciones de relación**, se necesitan tipos de columna muy específicos en función de la aplicación, por ejemplo, una [columna de personal]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) y una columna de [texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) cuando se transfieren nombres de usuario.
 
 ## Notas sobre la ejecución
 
-Actualmente, las operaciones de tratamiento de datos pueden realizarse [manualmente]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) o [mediante automatización]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
+Actualmente, las operaciones de tratamiento de datos pueden realizarse [manualmente]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) o [mediante automatización]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}).
 
 Cada vez que se ejecuta la operación de tratamiento de datos, los **resultados** se escriben en la **columna de resultados** independientemente. Si no desea sobrescribir ningún dato, deberá [crear]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para los resultados.
 

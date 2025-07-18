@@ -60,7 +60,7 @@ Concrètement, cela peut se faire à l'aide d'un tableau ("Order") dans lequel v
 
 ![Tableau de recensement des différentes commandes passées](images/table-with-different-orders-1.png)
 
-Dans un autre tableau ("Order-Status-Log"), vous souhaitez également voir les différents **numéros de commande** ainsi que les **montants** correspondants. De plus, dans ce tableau, la [colonne de date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) "last status change" indique l'**heure du dernier changement de statut**.
+Dans un autre tableau ("Order-Status-Log"), vous souhaitez également voir les différents **numéros de commande** ainsi que les **montants** correspondants. De plus, dans ce tableau, la [colonne de date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) "last status change" indique l'**heure du dernier changement de statut**.
 
 ![Tableau dans lequel les dates du dernier changement de statut sont automatiquement relevées](images/table-order-status-log.png)
 

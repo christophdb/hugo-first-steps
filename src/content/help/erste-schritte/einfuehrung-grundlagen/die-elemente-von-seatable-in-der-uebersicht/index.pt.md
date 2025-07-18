@@ -40,7 +40,7 @@ Cada linha representa um registo de dados relacionado na sua tabela. Por exemplo
 
 Utiliza as colunas da sua folha de cálculo para definir as informações que são aí guardadas. Ao contrário de uma folha de cálculo clássica, como o Excel, não é possível substituir o tipo de coluna e guardar simplesmente qualquer informação em qualquer posição.
 
-Se uma coluna for uma [coluna numérica]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}), também pode guardar apenas números nessa coluna. O SeaTable reconhece uma variedade de tipos de colunas diferentes para que possa registar todos os dados que desejar.
+Se uma coluna for uma [coluna numérica]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), também pode guardar apenas números nessa coluna. O SeaTable reconhece uma variedade de tipos de colunas diferentes para que possa registar todos os dados que desejar.
 
 [Saiba mais sobre as colunas no SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}})
 

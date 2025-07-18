@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/datenverarbeitung-benutzernamen-uebertragen'
 ---
 
-Using the data processing function, you can perform various operations across a column. The **transfer of user names** is an operation that copies data from columns of the type [Employee]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), [Creator]({{< relref "help/base-editor/autofill-spalten/die-spalten-ersteller-und-erstelldatum" >}}) into a [text column]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}).
+Using the data processing function, you can perform various operations across a column. The **transfer of user names** is an operation that copies data from columns of the type [Collaborator]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), [Creator]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) or [Last modifier]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}}) into a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
 
 ## Putting on the operation
 
@@ -31,7 +31,7 @@ On the first successful execution, a small **Green hook**.
 
 ## Execution of the operation
 
-For example, if you maintain a table with tasks to be done, in which your **team members** are recorded as responsible contact persons in a [staff column]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}), you can simply copy the user names into a [text column]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}), e.g. to use them for a staff list.
+For example, if you maintain a table with tasks to be done, in which your **team members** are recorded as responsible contact persons in a [staff column]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}), you can simply copy the user names into a [text column]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}), e.g. to use them for a staff list.
 
 To do this, follow the steps described above and select the Employee column as the **source** column and the Text column as the **result** column.
 

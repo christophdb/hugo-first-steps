@@ -27,13 +27,13 @@ Selon le **type de colonne** que vous souhaitez filtrer, les conditions que vous
 
 ### Voici quelques exemples
 
-Voici les options de conditions dont vous disposez en cas de [Colonne de texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}):  
+Voici les options de conditions dont vous disposez en cas de [Colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}):  
 ![Filtrer la colonne de texte](images/filtern-von-eintraegen-5.png)
 
-Voici les options de conditions dont vous disposez en cas de [Colonne de sélection simple]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}):  
+Voici les options de conditions dont vous disposez en cas de [Colonne de sélection simple]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}):  
 ![Filtre colonne de sélection unique](images/filtern-von-eintraegen-6.png)
 
-Voici les options de conditions dont vous disposez en cas de [Colonne d'images]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}):  
+Voici les options de conditions dont vous disposez en cas de [Colonne d'images]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}):  
 ![Filtrer la colonne d'images](images/filtern-von-eintraegen-7.png)
 
 ## Supprimer un filtre

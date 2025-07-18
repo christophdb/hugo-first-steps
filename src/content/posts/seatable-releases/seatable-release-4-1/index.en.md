@@ -70,8 +70,8 @@ Often it is not obvious for other users what you have thought about the structur
 
 Another, purely visual improvement concerns the **row details**, where you can view records and edit them depending on your permissions: We have aligned the design of the row details in Universal Apps and bases to create a uniform look. So that you can recognize locked fields directly, they are now uniformly highlighted in gray in the row details.
 
-For all those who like to start processes with a mouse click, there is reason to rejoice: The new [button action]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) "Send notification" is available as of SeaTable 4.1. This supplements the already previously available action "Send email". Since SeaTable now offers **nine** button actions, we have also made the selection window clearer:
+For all those who like to start processes with a mouse click, there is reason to rejoice: The new [button action]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) "Send notification" is available as of SeaTable 4.1. This supplements the already previously available action "Send email". Since SeaTable now offers **nine** button actions, we have also made the selection window clearer:
 
 ![New "Send notification" button action](New-button-action-send-notification.png)
 
-Last but not least, we fixed some **bugs** again in SeaTable 4.1 - among others that values with following % sign in text and single selection columns were not interpreted as percentages but as numbers. This could lead to unwanted results in some [formulas]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}). Please check if this bugfix affects your formulas.
+Last but not least, we fixed some **bugs** again in SeaTable 4.1 - among others that values with following % sign in text and single selection columns were not interpreted as percentages but as numbers. This could lead to unwanted results in some [formulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}). Please check if this bugfix affects your formulas.

@@ -20,7 +20,7 @@ In SeaTable 4.4 we have again made a lot of improvements and bug fixes to the [U
 
 ### Buttons on query pages
 
-[Query pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) now support the execution of button actions: After a successful data query, you can press [buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) in the displayed hit list to execute actions. This is a special new feature, as it was previously not possible to interact with queried rows anywhere in SeaTable.
+[Query pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) now support the execution of button actions: After a successful data query, you can press [buttons]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) in the displayed hit list to execute actions. This is a special new feature, as it was previously not possible to interact with queried rows anywhere in SeaTable.
 
 ![Execute buttons on query pages](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -28,7 +28,7 @@ One application example is an internal job board: the query page allows you to q
 
 ### Drag and drop in the calendar
 
-Until now, it was not possible to change appointments on the [calendar page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). SeaTable 4.4 gives you more flexibility here. You can now conveniently move your appointments in the calendar using drag and drop. You can also edit the values in the corresponding [date columns]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) via the row details, provided you have the necessary [permission]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}).
+Until now, it was not possible to change appointments on the [calendar page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). SeaTable 4.4 gives you more flexibility here. You can now conveniently move your appointments in the calendar using drag and drop. You can also edit the values in the corresponding [date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) via the row details, provided you have the necessary [permission]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}).
 
 ### Simplified data handling on the table page
 
@@ -38,7 +38,7 @@ As in Base, you can now [select all entries in a column]({{< relref "help/base-e
 
 ### Collaborator column available on form pages
 
-If you use an [employee column]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) in your table, it is **not** available in [web forms]({{< relref "help/base-editor/webformulare" >}}). However, as of SeaTable 4.4, you can add employee columns to [form pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) in the Universal App. For example, your team members can select themselves for a vacation request and no longer have to enter their names manually. You must first activate the option to display the employee list in the [app settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
+If you use an [employee column]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) in your table, it is **not** available in [web forms]({{< relref "help/base-editor/webformulare" >}}). However, as of SeaTable 4.4, you can add employee columns to [form pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) in the Universal App. For example, your team members can select themselves for a vacation request and no longer have to enter their names manually. You must first activate the option to display the employee list in the [app settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
 
 ### More customizing options for custom pages
 
@@ -99,7 +99,7 @@ By the way: You can even activate the default values with the corresponding para
 
 ## And much more
 
-You already know the **editor for formatted text** from various places in SeaTable, e.g. from the [base description]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), the [column type for long texts]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) or [e-mail messages]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). With SeaTable 4.4 we have improved usability and fixed some bugs. Here are just two: Previously, multiple line breaks were removed when closing the editor and existing text was overwritten when typing in the cell. In the new editor, multiple line breaks are retained and can be used to structure the text more clearly. We have also eliminated the risk of unintentional deletions: When typing, the new text is placed in front of the existing text.
+You already know the **editor for formatted text** from various places in SeaTable, e.g. from the [base description]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), the [column type for long texts]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) or [e-mail messages]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). With SeaTable 4.4 we have improved usability and fixed some bugs. Here are just two: Previously, multiple line breaks were removed when closing the editor and existing text was overwritten when typing in the cell. In the new editor, multiple line breaks are retained and can be used to structure the text more clearly. We have also eliminated the risk of unintentional deletions: When typing, the new text is placed in front of the existing text.
 
 In the new version, we have also improved the **notification center** {{< seatable-icon icon="dtable-icon-notice" >}} on the start page. Now you can see all [notifications]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) in the system in one place, track the source of the notification and go to the relevant page with one click.
 

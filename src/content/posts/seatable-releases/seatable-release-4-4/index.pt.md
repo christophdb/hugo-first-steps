@@ -20,7 +20,7 @@ No SeaTable 4.4, voltámos a introduzir muitas melhorias e correcções de erros
 
 ### Botões nas páginas de consulta
 
-[As páginas de consulta]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) suportam agora a execução de acções de botão: Após uma consulta de dados bem sucedida, é possível premir [botões]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) na lista de resultados apresentada para executar acções. Esta é uma nova funcionalidade especial, uma vez que anteriormente não era possível interagir com as linhas consultadas em qualquer parte do SeaTable.
+[As páginas de consulta]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) suportam agora a execução de acções de botão: Após uma consulta de dados bem sucedida, é possível premir [botões]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) na lista de resultados apresentada para executar acções. Esta é uma nova funcionalidade especial, uma vez que anteriormente não era possível interagir com as linhas consultadas em qualquer parte do SeaTable.
 
 ![Botões de execução nas páginas de consulta](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -28,7 +28,7 @@ Um exemplo de aplicação é um quadro de empregos interno: a página de consult
 
 ### Arrastar e largar no calendário
 
-Até agora, não era possível alterar os compromissos na [página do calendário]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). O SeaTable 4.4 dá-lhe mais flexibilidade nesta área. Agora pode mover convenientemente os seus compromissos no calendário utilizando a função arrastar e largar. Também pode editar os valores nas [colunas de datas]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) correspondentes através dos detalhes da linha, desde que tenha a [autorização]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) necessária.
+Até agora, não era possível alterar os compromissos na [página do calendário]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). O SeaTable 4.4 dá-lhe mais flexibilidade nesta área. Agora pode mover convenientemente os seus compromissos no calendário utilizando a função arrastar e largar. Também pode editar os valores nas [colunas de datas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) correspondentes através dos detalhes da linha, desde que tenha a [autorização]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) necessária.
 
 ### Tratamento simplificado dos dados na página da tabela
 
@@ -38,7 +38,7 @@ Tal como no Base, pode agora [selecionar todas as entradas de uma coluna]({{< re
 
 ### Coluna do empregado disponível nas páginas do formulário
 
-Se utilizar uma [coluna de empregado]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) na sua tabela, esta **não** está disponível em [formulários Web]({{< relref "help/base-editor/webformulare" >}}). No entanto, a partir do SeaTable 4.4, pode adicionar colunas de colaboradores a [páginas de formulários]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) na aplicação universal. Por exemplo, os membros da sua equipa podem selecionar-se a si próprios para um pedido de férias e já não têm de introduzir os seus nomes manualmente. Primeiro, é necessário ativar a opção para apresentar a lista de colaboradores nas [definições da aplicação]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
+Se utilizar uma [coluna de empregado]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) na sua tabela, esta **não** está disponível em [formulários Web]({{< relref "help/base-editor/webformulare" >}}). No entanto, a partir do SeaTable 4.4, pode adicionar colunas de colaboradores a [páginas de formulários]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) na aplicação universal. Por exemplo, os membros da sua equipa podem selecionar-se a si próprios para um pedido de férias e já não têm de introduzir os seus nomes manualmente. Primeiro, é necessário ativar a opção para apresentar a lista de colaboradores nas [definições da aplicação]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}).
 
 ### Mais opções de personalização para páginas individuais
 
@@ -94,7 +94,7 @@ A propósito: pode até ativar os valores predefinidos com o parâmetro correspo
 
 ## E muito mais
 
-Já conhece o **editor de texto formatado** de vários locais no SeaTable, por exemplo, da [descrição de base]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), do [tipo de coluna para textos longos]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) ou [mensagens de correio eletrónico]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). Com o SeaTable 4.4, melhorámos a facilidade de utilização e corrigimos alguns erros. Aqui estão apenas dois: Anteriormente, as quebras de linha múltiplas eram removidas ao fechar o editor e o texto existente era substituído ao escrever na célula. No novo editor, as quebras de linha múltiplas são mantidas e podem ser utilizadas para estruturar o texto de forma mais clara. Também eliminámos o risco de eliminações não intencionais: Ao digitar, o novo texto é colocado à frente do texto existente.
+Já conhece o **editor de texto formatado** de vários locais no SeaTable, por exemplo, da [descrição de base]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), do [tipo de coluna para textos longos]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) ou [mensagens de correio eletrónico]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). Com o SeaTable 4.4, melhorámos a facilidade de utilização e corrigimos alguns erros. Aqui estão apenas dois: Anteriormente, as quebras de linha múltiplas eram removidas ao fechar o editor e o texto existente era substituído ao escrever na célula. No novo editor, as quebras de linha múltiplas são mantidas e podem ser utilizadas para estruturar o texto de forma mais clara. Também eliminámos o risco de eliminações não intencionais: Ao digitar, o novo texto é colocado à frente do texto existente.
 
 Na nova versão, também melhorámos o **centro de notificações** {{< seatable-icon icon="dtable-icon-notice" >}} na página inicial. Agora, pode ver todas as [notificações]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) no sistema num único local, localizar a origem da notificação e ir para a página relevante com um clique.
 

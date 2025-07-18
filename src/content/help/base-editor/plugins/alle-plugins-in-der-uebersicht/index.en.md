@@ -20,7 +20,7 @@ A **plugin** is an optional software component in SeaTable that offers you addit
 
 ## Calendar plugin
 
-In the calendar plugin you can display dates from a [date column]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) in a **year**, **month**, **week**, **day** or **agenda view**. You can also use two date columns to display **time spans** and keep track of all important dates, etc.
+In the calendar plugin you can display dates from a [date column]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) in a **year**, **month**, **week**, **day** or **agenda view**. You can also use two date columns to display **time spans** and keep track of all important dates, etc.
 
 ![](images/Calendar.png)
 
@@ -41,7 +41,7 @@ The timeline plugin represents different periods of time in the form of a **time
 
 ## Gallery plugin
 
-The gallery plugin is particularly suitable for displaying records with **images**, as it primarily refers to the contents of an [image column]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}). Below the images, the entries of a column are displayed as **titles**. In addition, it is possible to show more columns of the table in this plugin and thus supplement the images with more information from the data sets. Especially for creative and artistic projects this is very helpful to summarize all information at a glance.
+The gallery plugin is particularly suitable for displaying records with **images**, as it primarily refers to the contents of an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}). Below the images, the entries of a column are displayed as **titles**. In addition, it is possible to show more columns of the table in this plugin and thus supplement the images with more information from the data sets. Especially for creative and artistic projects this is very helpful to summarize all information at a glance.
 
 ![Gallery plugin](images/Galerie.png)
 

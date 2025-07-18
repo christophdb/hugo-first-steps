@@ -33,7 +33,7 @@ La primera vez que se ejecuta con éxito, un pequeño **garrapata verde**.
 
 Un caso de uso concreto de esta operación de tratamiento de datos podría darse, por ejemplo, si se desea recoger el número de accesos diarios a un sitio web en una columna y **clasificarlos** (en comparación con los valores de las demás columnas). Para ello, desea asignar **rangos** a los **números** de acceso diario por separado en otra columna.
 
-Para la aplicación, primero se necesita una tabla en la que se recojan los distintos **días** en una columna de [fecha]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) y los **números de acceso** al sitio web en una [columna de número]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}).
+Para la aplicación, primero se necesita una tabla en la que se recojan los distintos **días** en una columna de [fecha]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) y los **números de acceso** al sitio web en una [columna de número]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}).
 
 ![Tabla de ejemplo para el caso de uso Calcular valores acumulados](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 

@@ -87,11 +87,11 @@ En las páginas de tablas donde diferentes usuarios pueden hacer nuevas entradas
 
 ## Comprobación del formato de las nuevas entradas
 
-Puede activar otro **control deslizante** para [validar las entradas en columnas de texto]({{< relref "help/base-editor/text-spalten/validierung-der-eingabe-bei-textfeldern" >}}). En cuanto se activa la **comprobación** del formato, los detalles de la fila se abren siempre que alguien quiere añadir una nueva entrada a la página de la tabla - y esto sólo es posible si las entradas corresponden al formato definido. Para entradas con un formato diferente aparece un **mensaje de error**.
+Puede activar otro **control deslizante** para [validar las entradas en columnas de texto]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}). En cuanto se activa la **comprobación** del formato, los detalles de la fila se abren siempre que alguien quiere añadir una nueva entrada a la página de la tabla - y esto sólo es posible si las entradas corresponden al formato definido. Para entradas con un formato diferente aparece un **mensaje de error**.
 
 ![Comprobación de formato en la página de tablas](images/Format-check-on-table-page.png)
 
-Por ejemplo, puede minimizar los **errores de escritura** en cadenas de caracteres claramente definidas, como códigos postales o números de cuenta. Las [expresiones regulares]({{< relref "help/base-editor/text-spalten/validierung-der-eingabe-bei-textfeldern" >}}) para validar las entradas se definen al crear una columna de texto en la base.
+Por ejemplo, puede minimizar los **errores de escritura** en cadenas de caracteres claramente definidas, como códigos postales o números de cuenta. Las [expresiones regulares]({{< relref "help/base-editor/spaltentypen/validierung-der-eingabe-bei-textfeldern" >}}) para validar las entradas se definen al crear una columna de texto en la base.
 
 ## Mostrar formato de celda
 
@@ -113,7 +113,7 @@ En las [autorizaciones de la página]({{< relref "help/app-builder/einstellungen
 
 {{< warning  headline="Atención con los botones" >}}
 
-[Los botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar la página.
+[Los botones]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) **siempre** se pueden pulsar independientemente de las autorizaciones de la página. Esto significa que todos los usuarios de la app pueden realizar determinados cambios en los registros de datos que hayas definido previamente, aunque las columnas afectadas estén bloqueadas para ellos o el usuario no esté autorizado a editar la página.
 
 {{< /warning >}}
 

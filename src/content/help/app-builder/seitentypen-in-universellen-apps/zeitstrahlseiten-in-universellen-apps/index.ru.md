@@ -18,11 +18,11 @@ url: '/ru/pomoshch/zeitstrahlseiten-in-universellen-apps'
 
 ![Изменение настроек страницы временной шкалы](images/Einstellungen-der-Zeitstrahlseite-aendern.png)
 
-В **настройках страницы** вы можете задать графическое представление временных линий. Для этого выберите [цвет строки]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) или [одного столбца выделения]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}), который определяет **цвет блоков**. Вы также можете задать столбец для **маркировки блоков**.
+В **настройках страницы** вы можете задать графическое представление временных линий. Для этого выберите [цвет строки]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) или [одного столбца выделения]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}), который определяет **цвет блоков**. Вы также можете задать столбец для **маркировки блоков**.
 
 ![Графическая настройка временных шкал в универсальных приложениях](images/Grafische-Einstellung-der-Zeitleisten.png)
 
-Чтобы определить период записей, вам понадобится [столбец даты]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}}) или [формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), в котором указывается количество дней. Вы также можете выбрать **временной интер** вал, то есть сколько лет должна охватывать временная шкала.
+Чтобы определить период записей, вам потребуется [столбец даты]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) для **даты начала**. Для **даты окончания** вы можете использовать другой столбец даты или другой числовой столбец — [номер]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), [период]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}}) или [формула]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}), — который указывает количество дней. Кроме того, вы можете выбрать **временной интервал**, то есть сколько лет должна охватывать временная шкала.
 
 ![Настройки страницы временной шкалы в универсальных приложениях](images/Seiteneinstellungen-der-Zeitstrahlseite-in-Universellen-Apps.png)
 

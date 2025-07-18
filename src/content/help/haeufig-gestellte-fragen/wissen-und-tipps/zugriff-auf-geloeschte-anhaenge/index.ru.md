@@ -8,7 +8,7 @@ author: 'vge'
 url: '/ru/pomoshch/zugriff-auf-geloeschte-anhaenge'
 ---
 
-**Файлы** и **изображения**, которые вы удалили из [колонки]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) или [файлов]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}), **не удаляются окончательно**. Эти удаленные файлы остаются в [файловом менеджере]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base и могут быть **восстановлены** двумя различными способами.
+**Файлы** и **изображения**, которые вы удалили из [колонки]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) или [файлов]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}), **не удаляются окончательно**. Эти удаленные файлы остаются в [файловом менеджере]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Base и могут быть **восстановлены** двумя различными способами.
 
 ## Последняя загрузка
 

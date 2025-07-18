@@ -48,7 +48,7 @@ Puede definir numerosos parámetros en la configuración del elemento:
 
 ### Texto con formato
 
-Como su nombre indica, puede utilizar elementos de texto con formato para **dar formato a textos más largos**. Esto abre el editor de texto que ya conoce del tipo de columna Texto con [formato]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}).
+Como su nombre indica, puede utilizar elementos de texto con formato para **dar formato a textos más largos**. Esto abre el editor de texto que ya conoce del tipo de columna Texto con [formato]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}).
 
 ![Textos con formato en páginas individuales](images/Formatierte-Texte-auf-individuellen-Seiten.png)
 

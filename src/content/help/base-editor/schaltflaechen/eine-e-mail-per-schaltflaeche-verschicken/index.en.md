@@ -12,7 +12,7 @@ With the help of a **button** in your rows you can send e-mails to one or more r
 
 ## Sending an e-mail with a button
 
-First, when you create the [button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}), select the **Send Email** action.
+First, when you create the [button]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}), select the **Send Email** action.
 
 ![Selection of the action "Send e-mail](images/send-email-action.png)
 
@@ -38,13 +38,13 @@ Select the **recipient** (s) of the email. Optionally, you can also select recip
 
 ![Specify the recipient(s) of the email. Optionally, you can also select recipients who should receive a copy of the email or to whom you want to reply with the email.](images/send-to-copy-to-reply-to.png)
 
-Optionally, you can add an **attachment to** the email. Note, however, that you _cannot_ simply upload files, but must first save them in a [file column of]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) the table. In the **Attachments** field, you can then select one or more **file columns** from which you want to attach the files to the email.
+Optionally, you can add an **attachment to** the email. Note, however, that you _cannot_ simply upload files, but must first save them in a [file column of]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) the table. In the **Attachments** field, you can then select one or more **file columns** from which you want to attach the files to the email.
 
 ![Files that you have added to a file column of your spreadsheet can be used as attachments to the e-mail](images/file-001.png)
 
 ## Conditional execution of multiple button actions
 
-The [button]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) is a special type of column that allows you to perform **several actions simultaneously** by pressing a button. You can specify the **timing of** actions by conditionally executing a subsequent action. Thus it is possible to **switch actions one after the other**.
+The [button]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) is a special type of column that allows you to perform **several actions simultaneously** by pressing a button. You can specify the **timing of** actions by conditionally executing a subsequent action. Thus it is possible to **switch actions one after the other**.
 
 For example, you may want to [save a PDF document in a file column]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) with one click and attach the file to an email afterwards. This may cause the problem that the email is sent before the PDF for the attachment has been created.
 

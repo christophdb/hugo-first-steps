@@ -71,7 +71,7 @@ At the bottom of the page settings, you can restrict who can see the query page.
 
 This is the only [page authorization]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) you can select here. You cannot add or delete rows in the table via query pages.
 
-However, after a successful data query, app users can click on [buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) in the displayed hit list to **perform** certain **actions**.
+However, after a successful data query, app users can click on [buttons]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) in the displayed hit list to **perform** certain **actions**.
 
 ![Execute buttons on query pages](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -79,7 +79,7 @@ One application example is an internal job board: the query page allows you to q
 
 {{< warning  headline="Attention with buttons" >}}
 
-[Buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) can **always** be pressed regardless of the page authorizations. This means that every app user can make certain changes to the data records that you have previously defined, even if the affected columns are otherwise locked for them or the user is not authorized to edit the query results.
+[Buttons]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) can **always** be pressed regardless of the page authorizations. This means that every app user can make certain changes to the data records that you have previously defined, even if the affected columns are otherwise locked for them or the user is not authorized to edit the query results.
 
 {{< /warning >}}
 

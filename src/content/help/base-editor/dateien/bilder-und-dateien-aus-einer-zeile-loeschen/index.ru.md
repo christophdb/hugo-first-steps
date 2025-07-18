@@ -8,7 +8,7 @@ author: 'vge'
 url: '/ru/pomoshch/bilder-und-dateien-aus-einer-zeile-loeschen'
 ---
 
-SeaTable позволяет **удалять** **файлы** и **изображения** разными способами. Следующие инструкции относятся как к [столбцам]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), так и к [столбцам файлов]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}).
+SeaTable позволяет **удалять** **файлы** и **изображения** разными способами. Следующие инструкции относятся как к [столбцам]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}), так и к [столбцам файлов]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}).
 
 ## Удаление файлов и изображений через сведения о строке
 

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/es/ayuda/anleitung-zum-galerie-plugin'
 ---
 
-El **plugin de galería** es especialmente adecuado para mostrar registros ilustrados, ya que se refiere principalmente al contenido de una [columna de imágenes]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}).
+El **plugin de galería** es especialmente adecuado para mostrar registros ilustrados, ya que se refiere principalmente al contenido de una [columna de imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).
 
 Mientras que las imágenes de la **vista de tabla** se muestran como miniaturas y sólo pueden ampliarse individualmente haciendo clic sobre ellas, el complemento de galería permite obtener una visión general animada de todos los conjuntos de datos gracias a las **imágenes de previsualización** de mayor tamaño. El plug-in de galería combina todas las imágenes de una fila en un **álbum**.
 
@@ -18,7 +18,7 @@ Mientras que las imágenes de la **vista de tabla** se muestran como miniaturas 
 
 Para utilizar el **plugin de galería**, primero debe [activarlo]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) en su Base.
 
-A continuación, en la configuración, determine para qué **vista de tabla** desea crear una galería y de qué columna de [imágenes]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) deben proceder las imágenes. En **Título**, introduzca la columna cuyas entradas desea utilizar como título del álbum.
+A continuación, en la configuración, determine para qué **vista de tabla** desea crear una galería y de qué columna de [imágenes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) deben proceder las imágenes. En **Título**, introduzca la columna cuyas entradas desea utilizar como título del álbum.
 
 ## Mostrar y ocultar información
 

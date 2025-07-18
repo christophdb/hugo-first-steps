@@ -28,7 +28,7 @@ Cuando haga clic en un **elemento** del editor de fórmulas que desee añadir a 
 
 ## Observe la coloración de los distintos elementos del formulario
 
-Para poder distinguir entre sí los distintos elementos de su fórmula, se marcan en un **color** diferente en función de su tipo. Puedes leer [aquí]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}#klare-farbsprache-zur-orientierung) qué elementos se muestran en cada color.
+Para poder distinguir entre sí los distintos elementos de su fórmula, se marcan en un **color** diferente en función de su tipo. Puedes leer [aquí]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}#klare-farbsprache-zur-orientierung) qué elementos se muestran en cada color.
 
 Utiliza los distintos **colores** como guía para tener una mejor visión general de tu fórmula. Además, el resaltado por colores de los elementos de la fórmula también puede funcionar como una especie de **autocontrol** en dos casos:
 
