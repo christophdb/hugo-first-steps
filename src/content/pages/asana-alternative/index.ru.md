@@ -5,7 +5,7 @@ seo:
     title:
     description: 
 date: '2025-07-08'
-url: '/ru/альтернатива-асанам'
+url: '/ru/alternativa-asanam'
 
 sections:
     - name: hero-5
