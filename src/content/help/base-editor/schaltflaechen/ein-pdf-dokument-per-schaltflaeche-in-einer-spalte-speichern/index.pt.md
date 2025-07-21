@@ -12,7 +12,7 @@ Com a ajuda de um **botão**, pode guardar documentos PDF em colunas de ficheiro
 
 ## Guardar documentos PDF através de um botão numa coluna
 
-Os botões permitem-lhe guardar documentos PDF nas [colunas de arquivo das]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) suas tabelas. A acção está disponível quando se cria um botão, logo que se tenha configurado o [plug-in de desenho de página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) na tabela correspondente.
+Os botões permitem-lhe guardar documentos PDF nas [colunas de arquivo das]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) suas tabelas. A acção está disponível quando se cria um botão, logo que se tenha configurado o [plug-in de desenho de página]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) na tabela correspondente.
 
 No primeiro passo, nomeia a **coluna** e define o **rótulo** e a **cor do** botão que deseja adicionar às suas linhas.
 

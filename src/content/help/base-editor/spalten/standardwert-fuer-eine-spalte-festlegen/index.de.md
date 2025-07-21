@@ -27,7 +27,7 @@ Zudem können Sie bereits beim [Anlegen einer neuen Spalte]({{< relref "help/bas
 ## Für welche Spaltentypen Sie Standardwerte festlegen können
 
 Standardwerte können für zahlreiche, aber nicht für alle [Spaltentypen in SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}
-) definiert werden. Spalten, deren Inhalt automatisch von SeaTable generiert wird ([Formeln]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), [Datei-]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) und [Signatur-]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}})Spalten.
+) definiert werden. Spalten, deren Inhalt automatisch von SeaTable generiert wird ([Formeln]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}), [Datei-]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) und [Signatur-]({{< relref "help/base-editor/spaltentypen/die-signatur-spalte" >}})Spalten.
 
 **Hier eine Übersicht, für welche Spaltentypen Sie Standardwerte festlegen können:**
 
@@ -60,7 +60,7 @@ Standardwerte können für zahlreiche, aber nicht für alle [Spaltentypen in Sea
 
 ## Referenzierte Standardwerte in Text-Spalten
 
-Wenn Sie als Standardwert in einer [Text-Spalte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) die Referenz **{creator.name}** oder **{creator.id}** festlegen, wird automatisch der **Name** oder die **ID des Benutzers** eingetragen, der die Zeile hinzugefügt hat.
+Wenn Sie als Standardwert in einer [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) die Referenz **{creator.name}** oder **{creator.id}** festlegen, wird automatisch der **Name** oder die **ID des Benutzers** eingetragen, der die Zeile hinzugefügt hat.
 
 ![Mit einem Standardwert auf den Benutzernamen referenzieren](images/Set-creator-name-as-default-value.png)
 

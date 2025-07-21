@@ -8,7 +8,7 @@ author: 'vge'
 url: '/ru/pomoshch/anleitung-zum-karten-plugin'
 ---
 
-Если вы создали в таблице текстовую колонку с адресами или географическими названиями или использовали тип колонки [Geoposition]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}), вы можете использовать **Map Plugin** для отображения мест, введенных в колонку.
+Если вы создали в таблице текстовую колонку с адресами или географическими названиями или использовали тип колонки [Geoposition]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}), вы можете использовать **Map Plugin** для отображения мест, введенных в колонку.
 
 Чтобы активировать плагин, следуйте инструкциям в статье [Активация плагина в базе]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
@@ -58,7 +58,7 @@ url: '/ru/pomoshch/anleitung-zum-karten-plugin'
 
 ![Карта плагина карта по умолчанию](images/default-map.png)
 
-Если вы решили отобразить изображения, необходимо указать [колонку]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) изображений, из которой они будут отображаться.
+Если вы решили отобразить изображения, необходимо указать [колонку]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) изображений, из которой они будут отображаться.
 
 ![Отображение изображения в плагине карты](images/bildanzeige.png)
 
@@ -70,11 +70,11 @@ url: '/ru/pomoshch/anleitung-zum-karten-plugin'
 
 ### Адресная строка
 
-Установите здесь текстовый столбец, в который вы ввели адреса или географические названия, или [столбец геопозиции]({{< relref "help/base-editor/auswahl-spalten/die-geopositions-spalte" >}}), из которого местоположения будут отображаться на карте. Обратите внимание, что подключаемый модуль карты работает только в том случае, если вы использовали столбец этого типа в своей таблице.
+Установите здесь текстовый столбец, в который вы ввели адреса или географические названия, или [столбец геопозиции]({{< relref "help/base-editor/spaltentypen/die-geopositions-spalte" >}}), из которого местоположения будут отображаться на карте. Обратите внимание, что подключаемый модуль карты работает только в том случае, если вы использовали столбец этого типа в своей таблице.
 
 ### Цвет маркера
 
-Если вы [выделили цветом строки]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) или [одиночные колонки выбора]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) с цветными опциями, вы можете выбрать на этом этапе, какой из них должен определять **цвет маркировки карты**.
+Если вы [выделили цветом строки]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}}) или [одиночные колонки выбора]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) с цветными опциями, вы можете выбрать на этом этапе, какой из них должен определять **цвет маркировки карты**.
 
 ### Поле отображения
 

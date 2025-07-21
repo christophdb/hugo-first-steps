@@ -20,7 +20,7 @@ En SeaTable 4.4, una vez más hemos hecho un montón de mejoras y correcciones d
 
 ### Botones en las páginas de consulta
 
-Las [páginas de consulta]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) admiten ahora la ejecución de acciones mediante botones: Tras una consulta de datos satisfactoria, puede pulsar [los botones]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) de la lista de resultados mostrada para ejecutar acciones. Se trata de una nueva característica especial, ya que antes no era posible interactuar con las filas consultadas en cualquier parte de SeaTable.
+Las [páginas de consulta]({{< relref "help/app-builder/seitentypen-in-universellen-apps/abfrageseiten-in-universellen-apps" >}}) admiten ahora la ejecución de acciones mediante botones: Tras una consulta de datos satisfactoria, puede pulsar [los botones]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) de la lista de resultados mostrada para ejecutar acciones. Se trata de una nueva característica especial, ya que antes no era posible interactuar con las filas consultadas en cualquier parte de SeaTable.
 
 ![Botones de ejecución en las páginas de consulta](Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -28,7 +28,7 @@ Un ejemplo de aplicación es una bolsa de trabajo interna: la página de consult
 
 ### Arrastrar y soltar en el calendario
 
-Hasta ahora, no era posible cambiar las citas en la [página del calendario]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). SeaTable 4.4 le ofrece más flexibilidad en este aspecto. Ahora puede mover cómodamente sus citas en el calendario mediante arrastrar y soltar. También puede editar los valores de las [columnas de fechas]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) correspondientes a través de los detalles de la fila, siempre que disponga de la [autorización]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) necesaria.
+Hasta ahora, no era posible cambiar las citas en la [página del calendario]({{< relref "help/app-builder/seitentypen-in-universellen-apps/kalenderseiten-in-universellen-apps" >}}). SeaTable 4.4 le ofrece más flexibilidad en este aspecto. Ahora puede mover cómodamente sus citas en el calendario mediante arrastrar y soltar. También puede editar los valores de las [columnas de fechas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) correspondientes a través de los detalles de la fila, siempre que disponga de la [autorización]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) necesaria.
 
 ### Tratamiento simplificado de los datos en la página de tablas
 
@@ -38,7 +38,7 @@ Como en Base, ahora puede [seleccionar todas las entradas de una columna]({{< re
 
 ### Columna de empleados disponible en las páginas de formularios
 
-Si utiliza una columna de [empleado]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) en su tabla, **no** estará disponible en los formularios [web]({{< relref "help/base-editor/webformulare" >}}). Sin embargo, a partir de SeaTable 4.4, puede añadir columnas de empleados a las [páginas de formularios]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) en la Universal App. Por ejemplo, los miembros de su equipo pueden seleccionarse a sí mismos para una solicitud de vacaciones y ya no tienen que introducir sus nombres manualmente. Primero debe activar la opción para mostrar la lista de empleados en la [configuración de]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) la app.
+Si utiliza una columna de [empleado]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) en su tabla, **no** estará disponible en los formularios [web]({{< relref "help/base-editor/webformulare" >}}). Sin embargo, a partir de SeaTable 4.4, puede añadir columnas de empleados a las [páginas de formularios]({{< relref "help/app-builder/seitentypen-in-universellen-apps/formularseiten-in-universellen-apps" >}}) en la Universal App. Por ejemplo, los miembros de su equipo pueden seleccionarse a sí mismos para una solicitud de vacaciones y ya no tienen que introducir sus nombres manualmente. Primero debe activar la opción para mostrar la lista de empleados en la [configuración de]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) la app.
 
 ### Más opciones de personalización para páginas individuales
 
@@ -94,7 +94,7 @@ Por cierto: incluso puede activar los valores por defecto con el parámetro corr
 
 ## Y mucho más
 
-Usted ya conoce el **editor para texto formateado** de varios lugares en SeaTable, por ejemplo, de la [descripción base]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), el [tipo de columna para textos largos]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) o [mensajes de correo electrónico]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). Con SeaTable 4.4 hemos mejorado la usabilidad y corregido algunos errores. Éstos son sólo dos: Anteriormente, los saltos de línea múltiples se eliminaban al cerrar el editor y el texto existente se sobrescribía al escribir en la celda. En el nuevo editor, los saltos de línea múltiples se conservan y pueden utilizarse para estructurar el texto con mayor claridad. También hemos eliminado el riesgo de borrados involuntarios: Al escribir, el nuevo texto se coloca delante del texto existente.
+Usted ya conoce el **editor para texto formateado** de varios lugares en SeaTable, por ejemplo, de la [descripción base]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}), el [tipo de columna para textos largos]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) o [mensajes de correo electrónico]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}). Con SeaTable 4.4 hemos mejorado la usabilidad y corregido algunos errores. Éstos son sólo dos: Anteriormente, los saltos de línea múltiples se eliminaban al cerrar el editor y el texto existente se sobrescribía al escribir en la celda. En el nuevo editor, los saltos de línea múltiples se conservan y pueden utilizarse para estructurar el texto con mayor claridad. También hemos eliminado el riesgo de borrados involuntarios: Al escribir, el nuevo texto se coloca delante del texto existente.
 
 En la nueva versión, también hemos mejorado el **centro de notificaciones** {{< seatable-icon icon="dtable-icon-notice" >}} en la página de inicio. Ahora puedes ver todas las [notificaciones]({{< relref "help/startseite/benachrichtigungen/sinn-und-zweck-von-benachrichtigungen-in-seatable" >}}) del sistema en un solo lugar, rastrear el origen de la notificación e ir a la página correspondiente con un solo clic.
 

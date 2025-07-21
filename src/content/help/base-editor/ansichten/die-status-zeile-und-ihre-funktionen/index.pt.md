@@ -46,17 +46,17 @@ Para colunas baseadas em números, estão disponíveis as seguintes **opções d
 
 Para os seguintes tipos de colunas, a linha de estado reflecte um valor calculado:
 
-- [Colunas numéricas]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+- [Colunas numéricas]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
     - Número
     - Porcentagem
     - Moeda
-- [Colunas permanentes]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}})
-- [Colunas de classificação]({{< relref "help/base-editor/numerische-spalten/die-rating-spalte" >}})
-- Valores numéricos em [colunas de fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+- [Colunas de duração]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}})
+- [Colunas de avaliação]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+- Valores numéricos em [colunas de fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
 Para os seguintes tipos de colunas, a linha de estado **não** reflecte um valor calculado, embora (possam) conter números:
 
-- [Colunas de datas]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Criado]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Número automático]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-- Números em [colunas de texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+- [Colunas de datas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- [Tempo criado]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) y [Último tempo modificado]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Número automático]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- Números em [colunas de texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})

@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/anleitung-zum-galerie-plugin'
 ---
 
-The **Gallery plugin** is particularly well suited to displaying illustrated records, as it primarily refers to the contents of an [image column]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}).
+The **Gallery plugin** is particularly well suited to displaying illustrated records, as it primarily refers to the contents of an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}).
 
 While the images in the **table view** are displayed as thumbnails and can only be enlarged individually by clicking on them, the gallery plugin allows you to get a vivid overview of all records thanks to the larger **preview** images. Thereby the gallery plugin combines all images of a row in one **album**.
 
@@ -18,7 +18,7 @@ While the images in the **table view** are displayed as thumbnails and can only 
 
 In order to use the **Gallery plugin**, you must first [enable]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) it in your Base.
 
-Then, in the settings, specify for which **table view** you want to create a gallery and from which [image column]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) the images should come. For **Title**, specify the column whose entries you want to use as album title.
+Then, in the settings, specify for which **table view** you want to create a gallery and from which [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) the images should come. For **Title**, specify the column whose entries you want to use as album title.
 
 ## Show and hide information
 

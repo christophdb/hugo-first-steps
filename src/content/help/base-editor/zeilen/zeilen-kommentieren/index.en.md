@@ -40,7 +40,7 @@ You can draw the attention of team members to your comment by adding them to the
 
 ## Add images to a comment
 
-You can also add **images** to your comments via the **image icon** below the input field. These are only visible in the comment column and are not stored in an [image column]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) of the table, but in the [file management of the base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
+You can also add **images** to your comments via the **image icon** below the input field. These are only visible in the comment column and are not stored in an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) of the table, but in the [file management of the base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
 
 ## Display of the commented rows
 

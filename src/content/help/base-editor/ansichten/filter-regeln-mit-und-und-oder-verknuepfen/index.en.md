@@ -20,7 +20,7 @@ In order to work efficiently and concentrate on the essentials, you need to be a
 
 With the **And link**, all specified conditions must apply to a record for it to be displayed.
 
-This example is demonstrated in the following video: We are in the view of an editorial plan with numerous posts. First, we filtered the [single selection column]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) **"Status"** for all posts that are **not finished**. We have further narrowed down this data set using the second filter to only display posts of the **type "Blog post"**. Now we can see which blog posts are not yet finished.
+This example is demonstrated in the following video: We are in the view of an editorial plan with numerous posts. First, we filtered the [single selection column]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) **"Status"** for all posts that are **not finished**. We have further narrowed down this data set using the second filter to only display posts of the **type "Blog post"**. Now we can see which blog posts are not yet finished.
 
 ![Add filter rule with AND link](images/Filterregel-mit-Und-Verknuepfung-hinzufuegen.gif)
 

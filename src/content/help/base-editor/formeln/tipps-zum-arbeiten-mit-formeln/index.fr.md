@@ -28,7 +28,7 @@ Lorsque vous cliquez dans l'éditeur de formules sur un **élément** que vous s
 
 ## Respecter les couleurs des différents éléments de la forme
 
-Pour pouvoir distinguer les différents éléments de votre formule, ceux-ci sont marqués d'une **couleur** différente selon leur type. Vous pouvez lire [ici]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}#klare-farbsprache-zur-orientierung) quels éléments sont représentés dans quelle couleur.
+Pour pouvoir distinguer les différents éléments de votre formule, ceux-ci sont marqués d'une **couleur** différente selon leur type. Vous pouvez lire [ici]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}#klare-farbsprache-zur-orientierung) quels éléments sont représentés dans quelle couleur.
 
 Orientez-vous vers les différentes **couleurs** afin d'avoir une meilleure vue d'ensemble de votre formule. En outre, dans deux cas, la mise en évidence des éléments de la formule par des couleurs peut également faire office d'**autocontrôle**:
 

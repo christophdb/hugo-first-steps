@@ -46,17 +46,17 @@ Für zahlenbasierte Spalten stehen in der Status-Zeile folgende **Berechnungsopt
 
 Bei den folgenden Spaltentypen gibt die Status-Zeile einen berechneten Wert wieder:
 
-- [Zahlen-Spalten]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
+- [Zahlen-Spalten]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
     - Zahl
     - Prozent
     - Währung
-- [Dauer-Spalten]({{< relref "help/base-editor/numerische-spalten/die-dauer-spalte" >}})
-- [Rating-Spalten]({{< relref "help/base-editor/numerische-spalten/die-rating-spalte" >}})
-- Zahlenwerte in [Formel-Spalten]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+- [Dauer-Spalten]({{< relref "help/base-editor/spaltentypen/die-dauer-spalte" >}})
+- [Rating-Spalten]({{< relref "help/base-editor/spaltentypen/die-rating-spalte" >}})
+- Zahlenwerte in [Formel-Spalten]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
 Bei den folgenden Spaltentypen gibt die Status-Zeile **keinen** berechneten Wert wieder, obwohl sie Zahlen enthalten (können):
 
-- [Datum-Spalten]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Erstellt]({{< relref "help/base-editor/autofill-spalten/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
-- [Automatische Nummer]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-- Zahlen in [Text-Spalten]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
+- [Datum-Spalten]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- [Erstellt]({{< relref "help/base-editor/spaltentypen/die-spalten-ersteller-und-erstelldatum" >}}) und [Zuletzt bearbeitet]({{< relref "help/base-editor/spaltentypen/die-spalten-letzter-bearbeiter-und-bearbeitungsdatum" >}})
+- [Automatische Nummer]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- Zahlen in [Text-Spalten]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})

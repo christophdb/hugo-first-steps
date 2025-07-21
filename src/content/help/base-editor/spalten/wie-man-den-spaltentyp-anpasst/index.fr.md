@@ -27,13 +27,13 @@ Il est encore possible de modifier le type de colonne après coup. Vous apprendr
 
 La **première colonne** d'un tableau ne prend en charge **que 6 des 25 types de colonnes**. Il s'agit de :
 
-- [Texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
-- [Nombre]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
-- [Date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-- [Sélection unique]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
-- [Numéro automatique]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-- [Formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+- [Texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+- [Nombre]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
+- [Date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+- [Sélection unique]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
+- [Numéro automatique]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+- [Formule]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
 ## Avertissement de perte de données
 
-La **conversion** de certains types de colonnes entraîne généralement une **perte de données** indésirable. C'est par exemple le cas des [colonnes]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) ou lorsque vous convertissez [des colonnes de texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) en colonnes numériques. Dans ces cas, SeaTable affiche un **message d'avertissement** vous demandant si vous souhaitez vraiment changer le type de colonne.
+La **conversion** de certains types de colonnes entraîne généralement une **perte de données** indésirable. C'est par exemple le cas des [colonnes]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) ou lorsque vous convertissez [des colonnes de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) en colonnes numériques. Dans ces cas, SeaTable affiche un **message d'avertissement** vous demandant si vous souhaitez vraiment changer le type de colonne.

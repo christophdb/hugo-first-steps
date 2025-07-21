@@ -12,7 +12,7 @@ Un **bouton** permet d'enregistrer des documents PDF dans des colonnes de fichie
 
 ## Enregistrer les documents PDF par un bouton dans une colonne
 
-Les boutons vous permettent d'enregistrer des documents PDF dans [les colonnes de fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) de vos tableaux. Cette action est disponible lors de la création d'un bouton, dès que vous avez configuré le [plugin de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) dans le tableau correspondant.
+Les boutons vous permettent d'enregistrer des documents PDF dans [les colonnes de fichiers]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) de vos tableaux. Cette action est disponible lors de la création d'un bouton, dès que vous avez configuré le [plugin de conception de page]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) dans le tableau correspondant.
 
 La première étape consiste à nommer la **colonne** et à définir le **libellé** et **la couleur** du bouton que vous souhaitez ajouter à vos lignes.
 

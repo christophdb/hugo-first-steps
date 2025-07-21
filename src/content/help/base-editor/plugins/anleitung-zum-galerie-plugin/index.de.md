@@ -8,7 +8,7 @@ author: 'vge'
 url: '/de/hilfe/anleitung-zum-galerie-plugin'
 ---
 
-Das **Galerie-Plugin** eignet sich besonders gut, um bebilderte Datensätze darzustellen, da es sich in erster Linie auf die Inhalte einer [Bild-Spalte]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) bezieht.
+Das **Galerie-Plugin** eignet sich besonders gut, um bebilderte Datensätze darzustellen, da es sich in erster Linie auf die Inhalte einer [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) bezieht.
 
 Während die Bilder in der **Tabellen-Ansicht** als Miniatur dargestellt werden und nur einzeln durch Klicken vergrößert werden können, ermöglicht Ihnen das Galerie-Plugin, sich dank der größeren **Vorschaubilder** einen lebendigen Überblick über alle Datensätze zu verschaffen. Dabei fasst das Galerie-Plugin alle Bilder einer Zeile in einem **Album** zusammen.
 
@@ -18,7 +18,7 @@ Während die Bilder in der **Tabellen-Ansicht** als Miniatur dargestellt werden 
 
 Um das **Galerie-Plugin** verwenden zu können, müssen Sie dieses zunächst in Ihrer Base [aktivieren]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-Daraufhin legen Sie in den Einstellungen fest, für welche **Tabellenansicht** Sie eine Galerie erstellen möchten und aus welcher [Bild-Spalte]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) die Bilder stammen sollen. Geben Sie bei **Titel** die Spalte an, deren Einträge Sie als Albumtitel verwenden möchten.
+Daraufhin legen Sie in den Einstellungen fest, für welche **Tabellenansicht** Sie eine Galerie erstellen möchten und aus welcher [Bild-Spalte]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) die Bilder stammen sollen. Geben Sie bei **Titel** die Spalte an, deren Einträge Sie als Albumtitel verwenden möchten.
 
 ## Informationen ein- und ausblenden
 

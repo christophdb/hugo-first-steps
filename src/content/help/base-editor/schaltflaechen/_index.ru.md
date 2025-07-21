@@ -1,4 +1,4 @@
 ---
-title: Кнопки
-url: '/ru/pomoshch/base-editor/knopki'
+title: Действия с кнопкой
+url: '/ru/pomoshch/base-editor/deystviya-s-knopkoy'
 ---

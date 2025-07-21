@@ -14,7 +14,7 @@ Leia o artigo [Activando um Plugin numa Base]({{< relref "help/base-editor/plugi
 
 ## Função do plug-in da linha do tempo
 
-O plug-in da linha do tempo mostra **os períodos de tempo**. Por conseguinte, para esta representação são necessárias **duas** [colunas de datas]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) numa tabela que definam o **início** e o **fim de** um período de tempo.
+O plug-in da linha do tempo mostra **os períodos de tempo**. Por conseguinte, para esta representação são necessárias **duas** [colunas de datas]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) numa tabela que definam o **início** e o **fim de** um período de tempo.
 
 ## Como utilizar o plug-in da linha do tempo
 
@@ -40,4 +40,4 @@ Como se pode ver no vídeo acima, também se podem criar **várias linhas de tem
 
 1. Clique no **símbolo de mais** à direita do título da sua primeira linha temporal.
 2. Dar um **nome** à linha do tempo e confirmar com **Submeter**.
-3. Nas **definições** {{< seatable-icon icon="dtable-icon-set-up" >}}, defina a [vista de tabela]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) e as [colunas de data]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) a que a nova cronologia se deve referir.
+3. Nas **definições** {{< seatable-icon icon="dtable-icon-set-up" >}}, defina a [vista de tabela]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}}) e as [colunas de data]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) a que a nova cronologia se deve referir.

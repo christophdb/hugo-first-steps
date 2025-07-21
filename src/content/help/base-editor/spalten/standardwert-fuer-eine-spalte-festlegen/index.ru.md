@@ -26,7 +26,7 @@ url: '/ru/pomoshch/standardwert-fuer-eine-spalte-festlegen'
 
 ## Для каких типов столбцов можно задать значения по умолчанию
 
-Значения по умолчанию могут быть определены для многих, но не для всех [типов столбцов SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Колонки, содержимое которых автоматически генерируется SeaTable[(формулы]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}), [файлами]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) и [подписями]({{< relref "help/base-editor/dateien/die-signatur-spalte" >}}).
+Значения по умолчанию могут быть определены для многих, но не для всех [типов столбцов SeaTable]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). Колонки, содержимое которых автоматически генерируется SeaTable[(формулы]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}), [файлами]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) и [подписями]({{< relref "help/base-editor/spaltentypen/die-signatur-spalte" >}}).
 
 **Ниже приведен обзор типов столбцов, для которых можно задать значения по умолчанию:**
 
@@ -59,7 +59,7 @@ url: '/ru/pomoshch/standardwert-fuer-eine-spalte-festlegen'
 
 ## Ссылающиеся значения по умолчанию в текстовых колонках
 
-Если в качестве значения по умолчанию в [текстовом столбце]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) указать ссылку **{creator.name}** или **{creator.id}**, то автоматически вводится **имя** или **идентификатор пользователя**, добавившего строку.
+Если в качестве значения по умолчанию в [текстовом столбце]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) указать ссылку **{creator.name}** или **{creator.id}**, то автоматически вводится **имя** или **идентификатор пользователя**, добавившего строку.
 
 ![Ссылка на имя пользователя со значением по умолчанию](images/Set-creator-name-as-default-value.png)
 

@@ -32,7 +32,7 @@ Para a opção **Utilizar coluna de seleção única**, é necessária uma colun
 
 {{< warning  headline="Criar uma coluna de seleção única" >}}
 
-Descubra [aqui]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}}) como criar novas colunas de seleção simples.
+Descubra [aqui]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}) como criar novas colunas de seleção simples.
 
 {{< /warning >}}
 
@@ -51,7 +51,7 @@ A opção **Regras de Utilização** permite-lhe definir condições para a marc
 
 ### Usar exemplo de regra
 
-Neste exemplo, todas as linhas de um plano editorial que estão marcadas como concluídas na [coluna da caixa de verificação]({{< relref "help/base-editor/auswahl-spalten/anlegen-einer-checkbox-spalte" >}}) devem ser destacadas. Para tal, foi selecionada a **coluna "Publicado"**, foi utilizada a condição **"é"** e foi especificado que as linhas **com um visto** devem ser marcadas.
+Neste exemplo, todas as linhas de um plano editorial que estão marcadas como concluídas na [coluna da caixa de verificação]({{< relref "help/base-editor/spaltentypen/die-checkbox-spalte" >}}) devem ser destacadas. Para tal, foi selecionada a **coluna "Publicado"**, foi utilizada a condição **"é"** e foi especificado que as linhas **com um visto** devem ser marcadas.
 
 ![Marcação a cores das linhas](images/Farbliche-Markierung-von-Zellen-9.png)
 

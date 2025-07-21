@@ -62,5 +62,5 @@ Prenez quelques minutes pour vous familiariser avec la gestion des fichiers dans
 
 - [Instructions pour le plugin de conception de pages]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}})
 - [Enregistrer un document PDF par un bouton dans une colonne]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}})
-- [La colonne des fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}})
+- [La colonne des fichiers]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}})
 - [La gestion des fichiers d'une base]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}})

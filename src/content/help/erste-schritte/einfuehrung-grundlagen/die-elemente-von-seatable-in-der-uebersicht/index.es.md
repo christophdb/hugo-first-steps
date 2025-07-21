@@ -40,7 +40,7 @@ Cada fila representa un registro relacionado en su tabla. Por ejemplo, si compil
 
 Con las columnas de tu hoja de cálculo, tú determinas qué información se almacena allí en cada caso. A diferencia de una hoja de cálculo clásica como Excel, no puedes ignorar el tipo de columna y simplemente almacenar cualquier información en cualquier punto.
 
-Si una columna es [numérica]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}), también puede almacenar sólo números en esa columna. SeaTable conoce una gran variedad de tipos de columnas diferentes, para que pueda capturar todos los datos que desee.
+Si una columna es [numérica]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}), también puede almacenar sólo números en esa columna. SeaTable conoce una gran variedad de tipos de columnas diferentes, para que pueda capturar todos los datos que desee.
 
 [Más información sobre las columnas de SeaTable →]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}})
 

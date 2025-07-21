@@ -12,7 +12,7 @@ url: '/ru/pomoshch/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
 
 ## Сохранение PDF-документов с помощью кнопки в колонке
 
-Кнопки позволяют сохранять PDF-документы в [колонках файлов]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) ваших таблиц. Действие доступно при создании кнопки, как только вы настроите [плагин дизайна страницы]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) в соответствующей таблице.
+Кнопки позволяют сохранять PDF-документы в [колонках файлов]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) ваших таблиц. Действие доступно при создании кнопки, как только вы настроите [плагин дизайна страницы]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) в соответствующей таблице.
 
 На первом этапе вы присваиваете имя **столбцу** и задаете **метку** и **цвет** кнопки, которую хотите добавить в строки.
 

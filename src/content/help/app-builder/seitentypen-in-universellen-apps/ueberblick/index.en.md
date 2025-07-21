@@ -43,14 +43,14 @@ You can use this page type to build different **forms** that users can then subm
 
 ## Page type: Gallery
 
-Using this page type you can display **images** that you have saved in an [image column]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) of your table in the form of a **gallery**. Other **data** from your table can also be displayed in the gallery. For example, you could use a gallery page for clear **profiles of your employees**.
+Using this page type you can display **images** that you have saved in an [image column]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) of your table in the form of a **gallery**. Other **data** from your table can also be displayed in the gallery. For example, you could use a gallery page for clear **profiles of your employees**.
 
 ![Representation of your employees in a gallery page](images/page-type-gallery-example.png)  
 [Learn more about gallery pages in universal apps.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}})
 
 ## Page type: Calendar
 
-This page type works something like the [calendar plugin]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) your table in a **calendar**. For example, a concrete use case could be the calendar display of upcoming **meetings**.
+This page type works something like the [calendar plugin]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) your table in a **calendar**. For example, a concrete use case could be the calendar display of upcoming **meetings**.
 
 ![Upcoming meetings in a calendar view of the calendar page](images/calendar-page-example.png)
 

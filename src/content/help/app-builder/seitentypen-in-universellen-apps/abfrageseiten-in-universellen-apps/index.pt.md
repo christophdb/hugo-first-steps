@@ -71,7 +71,7 @@ Na parte inferior das definições da página, pode restringir quem pode ver a p
 
 Esta é a única [autorização de página]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) que pode selecionar aqui. Não é possível adicionar ou eliminar linhas na tabela através de páginas de consulta.
 
-No entanto, após uma consulta de dados bem sucedida, os utilizadores da aplicação podem clicar nos [botões]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) da lista de ocorrências apresentada para **executar** determinadas **acções**.
+No entanto, após uma consulta de dados bem sucedida, os utilizadores da aplicação podem clicar nos [botões]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) da lista de ocorrências apresentada para **executar** determinadas **acções**.
 
 ![Botões de execução nas páginas de consulta](images/Schaltflaechen-auf-Abfrageseiten-ausfuehren.gif)
 
@@ -79,7 +79,7 @@ Um exemplo de aplicação é um quadro de empregos interno: a página de consult
 
 {{< warning  headline="Atenção com os botões" >}}
 
-[Os botões]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) podem ser **sempre** premidos, independentemente das autorizações da página. Isto significa que todos os utilizadores da aplicação podem fazer determinadas alterações aos registos de dados que definiu previamente, mesmo que as colunas afectadas estejam bloqueadas para eles ou que o utilizador não esteja autorizado a editar os resultados da consulta.
+[Os botões]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) podem ser **sempre** premidos, independentemente das autorizações da página. Isto significa que todos os utilizadores da aplicação podem fazer determinadas alterações aos registos de dados que definiu previamente, mesmo que as colunas afectadas estejam bloqueadas para eles ou que o utilizador não esteja autorizado a editar os resultados da consulta.
 
 {{< /warning >}}
 

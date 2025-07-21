@@ -43,14 +43,14 @@ Pode utilizar este tipo de página para criar diferentes **formulários** que os
 
 ## Tipo de página: Galeria
 
-Com a ajuda deste tipo de página, pode apresentar **as imagens** que guardou numa [coluna de imagens da]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) sua tabela sob a forma de uma **galeria**. Também pode apresentar outros **dados** da sua tabela na galeria. Pode, por exemplo, utilizar uma página de galeria para apresentar **perfis** claros **dos seus empregados**.
+Com a ajuda deste tipo de página, pode apresentar **as imagens** que guardou numa [coluna de imagens da]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) sua tabela sob a forma de uma **galeria**. Também pode apresentar outros **dados** da sua tabela na galeria. Pode, por exemplo, utilizar uma página de galeria para apresentar **perfis** claros **dos seus empregados**.
 
 ![Representação dos seus empregados numa página de galeria](images/page-type-gallery-example.png)  
 [Saiba mais sobre as páginas da galeria em aplicações universais.]({{< relref "help/app-builder/seitentypen-in-universellen-apps/galerieseiten-in-universellen-apps" >}})
 
 ## Tipo de página: Calendário
 
-Este tipo de página funciona de forma semelhante ao [plugin de calendário]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) sua tabela num **calendário**. Um caso de utilização concreto poderia ser, por exemplo, a apresentação do calendário das próximas **reuniões**.
+Este tipo de página funciona de forma semelhante ao [plugin de calendário]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) sua tabela num **calendário**. Um caso de utilização concreto poderia ser, por exemplo, a apresentação do calendário das próximas **reuniões**.
 
 ![Próximas reuniões numa vista de calendário da página de calendário](images/calendar-page-example.png)
 

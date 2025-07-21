@@ -45,7 +45,7 @@ Os utilizadores da respectiva aplicação podem aceder às suas notificações a
 
 ## Coluna de colaboradores de várias equipas
 
-Na [coluna de]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) colaboradores, anteriormente só era possível selecionar pessoas que já tinham acesso à respectiva base. A partir do SeaTable 4.3, é possível introduzir **todos os membros da sua equipa** nas colunas de colaboradores, mesmo que não tenham acesso a determinadas bases. Desta forma, é muito mais fácil atribuir registos de dados aos seus colaboradores, independentemente da sua autorização de acesso.
+Na [coluna de]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) colaboradores, anteriormente só era possível selecionar pessoas que já tinham acesso à respectiva base. A partir do SeaTable 4.3, é possível introduzir **todos os membros da sua equipa** nas colunas de colaboradores, mesmo que não tenham acesso a determinadas bases. Desta forma, é muito mais fácil atribuir registos de dados aos seus colaboradores, independentemente da sua autorização de acesso.
 
 Esta funcionalidade é particularmente útil na aplicação Universal. Pode ativar a opção para que os membros da equipa sejam visíveis para todos os utilizadores na lista pendente nas [definições]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) da aplicação Universal. Se não quiser que os utilizadores possam ver os registos de dados de outros, defina **filtros predefinidos**: Se uma página for filtrada pela coluna do empregado com a condição "inclui o utilizador atual", cada utilizador da aplicação universal só vê as entradas que lhe estão atribuídas na tabela.
 
@@ -71,7 +71,7 @@ Além disso, a **cor de fundo** das páginas individuais pode ser definida confo
 
 A herança de [autorizações de colunas]({{< relref "help/base-editor/spalten/spaltenberechtigungen-festlegen" >}}) a partir da base foi abolida com o SeaTable 4.3. Se pretender bloquear uma coluna na aplicação universal para edição, pode defini-la como **"só de leitura"** nas definições da [página da tabela]({{< relref "help/app-builder/seitentypen-in-universellen-apps/tabellenseiten-in-universellen-apps" >}}).
 
-Todas as restrições para [acções de botão]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) também foram removidas. Cada utilizador da aplicação pode agora fazer alterações predefinidas aos registos de dados, mesmo que as colunas afectadas estejam bloqueadas e o utilizador não esteja autorizado a editar a página.
+Todas as restrições para [acções de botão]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) também foram removidas. Cada utilizador da aplicação pode agora fazer alterações predefinidas aos registos de dados, mesmo que as colunas afectadas estejam bloqueadas e o utilizador não esteja autorizado a editar a página.
 
 ## Anúncio importante: Remoção da galeria e da aplicação de consulta de dados
 

@@ -17,12 +17,12 @@ url: '/ru/pomoshch/die-besonderheiten-der-ersten-spalte'
 - В отличие от других столбцов, вы **не можете удалить** первый столбец таблицы.
 - Однако, в отличие от других колонок, первую колонку можно **закрепить** отдельно.
 - Для **первой колонки** можно выбрать только **шесть типов колонок**:
-  - [Текст]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
-  - [Номер]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
-  - [Дата]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-  - [Одиночный выбор]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
-  - [Автоматический номер]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-  - [Формула]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+  - [Текст]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+  - [Номер]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
+  - [Дата]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+  - [Одиночный выбор]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
+  - [Автоматический номер]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+  - [Формула]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
 ## Как настроить тип первого столбца
 
@@ -48,6 +48,6 @@ url: '/ru/pomoshch/die-besonderheiten-der-ersten-spalte'
 {{< /faq >}}
 {{< faq "Можно ли после этого изменить тип первого столбца?" >}}Да, это возможно. Однако в некоторых случаях может произойти **потеря** информации при [изменении типа колонки]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), например, с текста на число. Поэтому после конвертации проверьте, вся ли информация была перенесена правильно и полностью.
 {{< /faq >}}
-{{< faq "Что такое автоматический номер?" >}}Если вы хотите, чтобы ваши строки имели **уникальный идентификационный номер**, вам подойдет тип столбца " [Автоматический номер]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) ". В качестве примера можно привести номера счетов, тестовых случаев или идентификаторы сотрудников. Номер также может быть дополнен любым префиксом.
+{{< faq "Что такое автоматический номер?" >}}Если вы хотите, чтобы ваши строки имели **уникальный идентификационный номер**, вам подойдет тип столбца " [Автоматический номер]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) ". В качестве примера можно привести номера счетов, тестовых случаев или идентификаторы сотрудников. Номер также может быть дополнен любым префиксом.
 
 {{< /faq >}}

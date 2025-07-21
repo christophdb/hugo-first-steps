@@ -24,7 +24,7 @@ In diesem Artikel stellen wir Ihnen diese drei unterschiedlichen Möglichkeiten 
 
 ## Skript über eine Schaltfläche ausführen
 
-1. Legen Sie eine Spalte vom Typ [Schaltfläche]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) an.
+1. Legen Sie eine Spalte vom Typ [Schaltfläche]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) an.
 2. Entscheiden Sie, welche **Beschriftung** und welche **Farbe** die Schaltfläche erhalten soll.
 3. Nutzen Sie die Aktion **Skript ausführen**.
 4. Wählen Sie Ihr **Skript** aus und speichern Sie.

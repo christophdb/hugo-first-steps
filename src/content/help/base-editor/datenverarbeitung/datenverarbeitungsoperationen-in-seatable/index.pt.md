@@ -12,7 +12,7 @@ A função de processamento de dados é uma característica útil do SeaTable qu
 
 ## Sentido por detrás das operações de processamento de dados
 
-O SeaTable pensa frequentemente em filas. Por exemplo, uma [fórmula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) só pode relacionar os valores numa fila entre si e as [ligações entre tabelas]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) só são feitas de fila em fila.
+O SeaTable pensa frequentemente em filas. Por exemplo, uma [fórmula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) só pode relacionar os valores numa fila entre si e as [ligações entre tabelas]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) só são feitas de fila em fila.
 
 O processamento de dados, em contraste, é uma função para realizar operações numa coluna através de várias filas. Basicamente, é feita uma distinção entre dois tipos diferentes de operações de processamento de dados:
 
@@ -39,11 +39,11 @@ As seguintes **operações de relacionamento** podem actualmente ser realizadas 
 Os dois tipos de operações de tratamento de dados têm **requisitos** diferentes que devem ser cumpridos cada um para criar uma operação correspondente.
 
 - **As operações matemáticas** requerem a presença de **duas colunas de números** na sua tabela.
-- Para as **operações de relacionamento**, são necessários tipos de colunas muito específicos dependendo da aplicação, por exemplo uma [coluna de pessoal]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) e uma coluna de [texto]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) quando se transferem nomes de utilizadores.
+- Para as **operações de relacionamento**, são necessários tipos de colunas muito específicos dependendo da aplicação, por exemplo uma [coluna de pessoal]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) e uma coluna de [texto]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) quando se transferem nomes de utilizadores.
 
 ## Notas sobre a execução
 
-Actualmente, as operações de processamento de dados podem ser executadas [manualmente]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) ou [por automatização]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}).
+Actualmente, as operações de processamento de dados podem ser executadas [manualmente]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) ou [por automatização]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}).
 
 Cada vez que a operação de processamento de dados é executada, os **resultados** são escritos na **coluna de resultados** independentemente. Se não quiser sobregravar quaisquer dados, deve [criar]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) para os resultados.
 

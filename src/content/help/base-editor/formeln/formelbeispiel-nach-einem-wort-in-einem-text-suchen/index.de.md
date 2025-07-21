@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/de/hilfe/formelbeispiel-nach-einem-wort-in-einem-text-suchen'
 ---
 
-SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine Möglichkeit ist die **Suche nach Wörtern in einem Text**. Durch die Eingabe einer entsprechenden Formel können Sie eine [Text-Spalte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) automatisch nach beliebigen Wörtern durchsuchen und einen Hinweis - z. B. "Wort gefunden/nicht gefunden" - als Ergebnis in eine Formel-Spalte Ihrer Tabelle schreiben lassen.
+SeaTable Formeln bieten Ihnen verschiedene Möglichkeiten, mit den Daten in Ihren Tabellen zu arbeiten. Eine Möglichkeit ist die **Suche nach Wörtern in einem Text**. Durch die Eingabe einer entsprechenden Formel können Sie eine [Text-Spalte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) automatisch nach beliebigen Wörtern durchsuchen und einen Hinweis - z. B. "Wort gefunden/nicht gefunden" - als Ergebnis in eine Formel-Spalte Ihrer Tabelle schreiben lassen.
 
 ## Nach einem Wort in einem Text suchen
 

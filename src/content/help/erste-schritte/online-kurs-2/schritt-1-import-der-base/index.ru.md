@@ -113,6 +113,6 @@ SeaTable предлагает возможность выделения стро
 ## Справочная статья с дополнительной информацией
 
 - [Создание базы из файла DTABLE]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
-- [Основы формул SeaTable]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+- [Основы формул SeaTable]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 - [Цветовая маркировка линий]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Виды замков]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})

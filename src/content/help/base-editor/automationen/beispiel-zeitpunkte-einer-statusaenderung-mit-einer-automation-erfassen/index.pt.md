@@ -60,7 +60,7 @@ Em termos concretos, isto pode ser feito com a ajuda de uma tabela ("Ordem") na 
 
 ![Quadro para o levantamento das diferentes encomendas efectuadas](images/table-with-different-orders-1.png)
 
-Noutro quadro ("Registo do estado das encomendas") também se pretende ver os diferentes **números de encomenda** juntamente com os **montantes** correspondentes. Além disso, a **hora da última** alteração de estado é registada nesta tabela na [coluna de]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) data "última **alteração de estado** ".
+Noutro quadro ("Registo do estado das encomendas") também se pretende ver os diferentes **números de encomenda** juntamente com os **montantes** correspondentes. Além disso, a **hora da última** alteração de estado é registada nesta tabela na [coluna de]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) data "última **alteração de estado** ".
 
 ![Tabela em que são recolhidas automaticamente as horas da última alteração de estado](images/table-order-status-log.png)
 

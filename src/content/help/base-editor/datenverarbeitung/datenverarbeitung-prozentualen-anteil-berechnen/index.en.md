@@ -33,7 +33,7 @@ On the first successful execution, a small **Green hook**.
 
 A concrete use case for this data processing operation could occur, for example, if you collect the number of daily accesses to a website and want to find out what share the **access number of one day** has of the total number of accesses over all days. For this purpose, you want to calculate the **percentage of** daily access numbers in another column.
 
-For the implementation you first need a table in which the different **days** are collected in a [date column]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}) and the **access numbers to** the website in a [number column]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}).
+For the implementation you first need a table in which the different **days** are collected in a [date column]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) and the **access numbers to** the website in a [number column]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}).
 
 ![Example table for the Calculate percentage use case](images/Beispieltabelle-Anwendungsfall-kumulierte-Werte-berechnen.png)
 
@@ -51,7 +51,7 @@ Each time the data processing operation is executed, the **calculated percentage
 
 {{< warning  headline="Note format settings" >}}
 
-In order for the calculated numbers to be displayed as percentages, you must first adjust the **format settings of** the [numbers column]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}}). There you select **Percent** as the format. You can also set the **decimal** **separator to** point or comma and the number of **decimal places to** round to.
+In order for the calculated numbers to be displayed as percentages, you must first adjust the **format settings of** the [numbers column]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}}). There you select **Percent** as the format. You can also set the **decimal** **separator to** point or comma and the number of **decimal places to** round to.
 
 {{< /warning >}}
 

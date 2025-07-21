@@ -12,7 +12,7 @@ La fonction de traitement des données est une fonctionnalité utile de SeaTable
 
 ## Le sens derrière les opérations de traitement des données
 
-SeaTable pense souvent en termes de lignes. Par exemple, une [formule]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) ne peut mettre en relation que les valeurs d'une ligne et [les liens entre les tableaux]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) se font toujours de ligne à ligne.
+SeaTable pense souvent en termes de lignes. Par exemple, une [formule]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) ne peut mettre en relation que les valeurs d'une ligne et [les liens entre les tableaux]({{< relref "help/base-editor/tabellen/tabellen-miteinander-verlinken" >}}) se font toujours de ligne à ligne.
 
 Par opposition, le traitement des données est une fonction permettant d'effectuer des opérations dans une colonne sur plusieurs lignes. En principe, on distingue deux types d'opérations de traitement des données :
 
@@ -39,11 +39,11 @@ Les **opérations** suivantes **sur les relations** peuvent actuellement être e
 Les deux types d'opérations de traitement des données sont soumis à des **conditions** différentes, qui doivent être remplies pour pouvoir créer une opération correspondante.
 
 - **Les opérations mathématiques** supposent la présence de **deux colonnes de chiffres** dans votre tableau.
-- Pour les **opérations sur les liens**, vous avez besoin de types de colonnes bien spécifiques selon le cas d'utilisation, par exemple une [colonne de collaborateurs]({{< relref "help/base-editor/auswahl-spalten/die-spalte-mitarbeiter" >}}) et une [colonne de texte]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}}) lors du transfert de noms d'utilisateurs.
+- Pour les **opérations sur les liens**, vous avez besoin de types de colonnes bien spécifiques selon le cas d'utilisation, par exemple une [colonne de collaborateurs]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) et une [colonne de texte]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}}) lors du transfert de noms d'utilisateurs.
 
 ## Remarques sur l'exécution
 
-Les opérations de traitement des données peuvent actuellement être exécutées [manuellement]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) ou [par automatisation]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) l'avenir.
+Les opérations de traitement des données peuvent actuellement être exécutées [manuellement]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-ausfuehren" >}}) ou [par automatisation]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) l'avenir.
 
 Chaque fois que l'opération de traitement des données est exécutée, les **résultats** sont écrits dans la **colonne des résultats** sans tenir compte des pertes. Si vous ne voulez pas écraser de données, vous devez [créer]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) pour les résultats.
 

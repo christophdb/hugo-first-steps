@@ -12,7 +12,7 @@ Un **bouton** dans vos lignes vous permet d'envoyer un e-mail à un ou plusieurs
 
 ## Envoyer un e-mail via un bouton
 
-Tout d'abord, lorsque vous créez le [bouton]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}), sélectionnez l'action **Envoyer un e-mail**.
+Tout d'abord, lorsque vous créez le [bouton]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}), sélectionnez l'action **Envoyer un e-mail**.
 
 ![Sélection de l'action "Envoyer un e-mail](images/send-email-action.png)
 
@@ -38,13 +38,13 @@ Sélectionnez le(s) **destinataire** (s) de l'e-mail. Vous pouvez également sé
 
 ![Définissez le(s) destinataire(s) de l'e-mail. Vous pouvez également choisir les destinataires qui recevront une copie de l'e-mail ou à qui vous souhaitez répondre par e-mail.](images/send-to-copy-to-reply-to.png)
 
-En option, vous pouvez encore ajouter une **pièce jointe** au courriel. Notez toutefois que vous ne pouvez _pas_ simplement télécharger des fichiers, mais que vous devez d'abord les enregistrer dans une [colonne de fichiers]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}) du tableau. Dans le champ **Pièces jointes**, vous pouvez ensuite sélectionner une ou plusieurs **colonnes de fichiers** à partir desquelles vous souhaitez joindre les fichiers au courriel.
+En option, vous pouvez encore ajouter une **pièce jointe** au courriel. Notez toutefois que vous ne pouvez _pas_ simplement télécharger des fichiers, mais que vous devez d'abord les enregistrer dans une [colonne de fichiers]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) du tableau. Dans le champ **Pièces jointes**, vous pouvez ensuite sélectionner une ou plusieurs **colonnes de fichiers** à partir desquelles vous souhaitez joindre les fichiers au courriel.
 
 ![Les fichiers que vous avez ajoutés dans une colonne de fichier de votre tableau peuvent être utilisés comme pièces jointes du courriel.](images/file-001.png)
 
 ## Exécution conditionnelle de plusieurs actions de bouton
 
-Le [bouton]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}) est un type de colonne particulier qui vous permet d'exécuter **plusieurs actions simultanément** en appuyant sur un bouton. Vous pouvez définir l'**ordre chronologique** des actions en conditionnant l'exécution d'une action suivante. Il est ainsi possible d'**enchaîner des actions les unes après les autres**.
+Le [bouton]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) est un type de colonne particulier qui vous permet d'exécuter **plusieurs actions simultanément** en appuyant sur un bouton. Vous pouvez définir l'**ordre chronologique** des actions en conditionnant l'exécution d'une action suivante. Il est ainsi possible d'**enchaîner des actions les unes après les autres**.
 
 Par exemple, il peut arriver que vous [enregistriez un document PDF dans une colonne de fichier]({{< relref "help/base-editor/schaltflaechen/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern" >}}) en un seul clic et que vous souhaitiez ensuite joindre le fichier à un e-mail. Il se peut alors que le courriel soit déjà envoyé avant que le PDF ne soit créé pour la pièce jointe.
 

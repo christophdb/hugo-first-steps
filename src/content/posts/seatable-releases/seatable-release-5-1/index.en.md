@@ -20,7 +20,7 @@ This morning we updated SeaTable Cloud to version 5.1. We recommend all administ
 
 Our developers have revised the [app settings]({{< relref "help/app-builder/einstellungen/einstellungen-einer-universellen-app-aendern/" >}}) and made them clearer. Among other things, a separate menu has been added for the branding of the app, in which the mode, the color scheme and the app icon can be selected. The 'Add page' wizard also has a new, two-page layout.
 
-Keyword pages: With SeaTable 5.1, all page types offer a preview function for image files in [file columns]({{< relref "help/base-editor/dateien/die-datei-spalte" >}}). (Previously, only [image columns]({{< relref "help/base-editor/dateien/die-bild-spalte" >}}) offered such thumbnails.) PDF, Office and text files are still displayed with a file icon.
+Keyword pages: With SeaTable 5.1, all page types offer a preview function for image files in [file columns]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}). (Previously, only [image columns]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) offered such thumbnails.) PDF, Office and text files are still displayed with a file icon.
 
 Looking at the individual page types, the [individual page]({{< relref "help/app-builder/seitentypen-in-universellen-apps/individuelle-seiten-in-universellen-apps" >}}) and the [page for individual data records]({{< relref "help/app-builder/seitentypen-in-universellen-apps/seiten-vom-typ-einzelner-datensatz-in-universellen-apps" >}}) stand out with the most improvements. However, other page types can also look forward to incremental improvements.
 
@@ -34,7 +34,7 @@ Version 5.1 also offers more flexibility when **enlarging and moving elements**.
 
 ### Page type Single data record
 
-In SeaTable 5.1, this page type - just like table and query pages - supports the [execution of actions via buttons]({{< relref "help/base-editor/schaltflaechen/die-schaltflaeche" >}}). Whether creating a PDF document, calling up a web page, changing a data record or executing a script - you can now also start all these **button actions** here. [Editing authorization for the page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) is not required for this. In this way, app admins can set the user interactions for this page type to a few predefined actions.
+In SeaTable 5.1, this page type - just like table and query pages - supports the [execution of actions via buttons]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}). Whether creating a PDF document, calling up a web page, changing a data record or executing a script - you can now also start all these **button actions** here. [Editing authorization for the page]({{< relref "help/app-builder/einstellungen/seitenberechtigungen-in-einer-universellen-app" >}}) is not required for this. In this way, app admins can set the user interactions for this page type to a few predefined actions.
 
 The toolbar offers a new **QR code generator**. The QR code contains the link to the currently displayed entry. Attached to an object or device, all data can be called up in the app via a tablet or smartphone without any keyboard input. This makes inventory management, for example, even easier.
 
@@ -90,7 +90,7 @@ Hierarchies across up to three levels, i.e. data from three tables, can currentl
 
 Once again, there is more news in this version than we can present in a manageable amount in these release notes. So here are a few more features that we think deserve a mention.
 
-A new function has been added to the **formula editor**: **rowid()** returns the ID of row . This can then be used for button actions or automations, for example. There are new features not only in the [formula column]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}), but also in the formula column type for links: [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) now offer a duplicate check. If the **Do not show duplicates** option is activated, only unique values are displayed in each cell of the column.
+A new function has been added to the **formula editor**: **rowid()** returns the ID of row . This can then be used for button actions or automations, for example. There are new features not only in the [formula column]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}), but also in the formula column type for links: [Lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) now offer a duplicate check. If the **Do not show duplicates** option is activated, only unique values are displayed in each cell of the column.
 
 ![Color Picker introduced SeaTable 5.1](ColorPicker.png)
 

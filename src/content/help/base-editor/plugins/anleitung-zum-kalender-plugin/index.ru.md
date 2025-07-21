@@ -14,7 +14,7 @@ url: '/ru/pomoshch/anleitung-zum-kalender-plugin'
 
 {{< warning  headline="Требования" >}}
 
-Чтобы использовать отображение календаря для табличного представления, вам необходим хотя бы один [столбец с датами]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}}).
+Чтобы использовать отображение календаря для табличного представления, вам необходим хотя бы один [столбец с датами]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
 {{< /warning >}}
 

@@ -17,12 +17,12 @@ The **first column** of a table in SeaTable has several special features and res
 - Unlike the other columns, you **cannot delete** the first column of a table.
 - In contrast to the other columns, however, you can **freeze** the first column individually.
 - There are only **six column types** to choose from for the **first column**:
-  - [Text]({{< relref "help/base-editor/text-spalten/die-spalten-text-und-formatierter-text" >}})
-  - [Number]({{< relref "help/base-editor/numerische-spalten/die-zahlen-spalte" >}})
-  - [Date]({{< relref "help/base-editor/numerische-spalten/die-datum-spalte" >}})
-  - [Single select]({{< relref "help/base-editor/auswahl-spalten/die-einfachauswahl-spalte" >}})
-  - [Auto number]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}})
-  - [Formula]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}})
+  - [Text]({{< relref "help/base-editor/spaltentypen/die-spalten-text-und-formatierter-text" >}})
+  - [Number]({{< relref "help/base-editor/spaltentypen/die-zahlen-spalte" >}})
+  - [Date]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}})
+  - [Single select]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}})
+  - [Auto number]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}})
+  - [Formula]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 
 ## How to customize the type of the first column
 
@@ -48,6 +48,6 @@ If you define a **formula** as the **first column** of a table, you can use the 
 {{< /faq >}}
 {{< faq "Is it possible to change the type of the first column afterwards?" >}}Yes, this is possible. However, in some cases information may be **lost** when [changing the column type]({{< relref "help/base-editor/spalten/wie-man-den-spaltentyp-anpasst" >}}), for example from text to number. Therefore, after a conversion, check whether all information has been transferred correctly and completely.
 {{< /faq >}}
-{{< faq "What is an automatic number?" >}}If you want your rows to have a **unique identification number**, the [Auto number]({{< relref "help/base-editor/autofill-spalten/der-spaltentyp-automatische-nummer" >}}) column type could serve you well. Examples include invoice numbers, test cases or employee IDs. The number can also be supplemented with any prefix.
+{{< faq "What is an automatic number?" >}}If you want your rows to have a **unique identification number**, the [Auto number]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) column type could serve you well. Examples include invoice numbers, test cases or employee IDs. The number can also be supplemented with any prefix.
 
 {{< /faq >}}

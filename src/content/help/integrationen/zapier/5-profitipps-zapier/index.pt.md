@@ -34,7 +34,7 @@ Crie uma [nova vista]({{< relref "help/base-editor/ansichten/anlegen-einer-neuen
 
 O Zapier oferece várias possibilidades para editar dados antes do passo de processamento seguinte. Por exemplo, pode converter números em moedas ou fundir valores, etc. Pode obter uma breve descrição geral neste [artigo](https://zapier.com/blog/updates/593/introducing-formatter-by-zapier).
 
-Se o seu Zap ler os dados do SeaTable, não deve efetuar essas conversões no Zapier. Em vez disso, utilize as possibilidades fornecidas pela [coluna de fórmulas]({{< relref "help/base-editor/formeln/grundlagen-von-seatable-formeln" >}}) no SeaTable. No SeaTable, pode facilmente fazer manipulações complexas dos seus dados e depois utilizá-las no seu Zap através da coluna de fórmulas.
+Se o seu Zap ler os dados do SeaTable, não deve efetuar essas conversões no Zapier. Em vez disso, utilize as possibilidades fornecidas pela [coluna de fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) no SeaTable. No SeaTable, pode facilmente fazer manipulações complexas dos seus dados e depois utilizá-las no seu Zap através da coluna de fórmulas.
 
 ## 4\. como não exceder o limite da API
 
