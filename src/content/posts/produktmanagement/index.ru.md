@@ -1,8 +1,11 @@
 ---
 title: 'Эти 4 шага к идеальному управлению продуктом - SeaTable'
 date: 2021-04-29
-lastmod: '2023-07-11'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Управление проектом'
+    - 'Планирование маркетинга'
 url: '/ru/upravlenie-produktom'
 aliases:
     - /ru/produktmanagement

@@ -1,8 +1,11 @@
 ---
 title: 'Bases de datos - 5 ventajas sobre las tablas simples'
 date: 2021-03-30
-lastmod: '2024-03-22'
-author: 'cdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Cuando Excel ya no es suficiente'
+    - 'Gestión y visualización de datos'
 url: '/es/beneficios-bases-datos'
 aliases:
     - /es/vorteile-von-datenbanken

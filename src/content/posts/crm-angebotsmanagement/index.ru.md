@@ -1,8 +1,11 @@
 ---
 title: 'CRM: от регистрации клиента до предложения - SeaTable'
 date: 2021-07-22
-lastmod: '2023-07-11'
-author: 'pbr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Управление данными и визуализация'
+    - 'Планирование продаж'
 url: '/ru/crm-upravlenie-predlozheniyami'
 aliases:
     - /ru/crm-angebotsmanagement

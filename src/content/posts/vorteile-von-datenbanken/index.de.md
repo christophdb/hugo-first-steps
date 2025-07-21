@@ -2,8 +2,11 @@
 title: 'Datenbanken – 5 Vorteile gegenüber einfachen Tabellen'
 description: ''
 date: 2021-03-30
-lastmod: '2024-03-22'
-author: 'cdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Datenmanagement & Visualisierung'
+    - 'Wenn Excel nicht mehr reicht…'
 url: '/de/vorteile-datenbanken'
 aliases:
     - /de/vorteile-von-datenbanken

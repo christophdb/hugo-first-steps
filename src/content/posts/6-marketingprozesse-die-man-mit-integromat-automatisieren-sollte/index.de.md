@@ -1,9 +1,15 @@
 ---
 title: '6 Marketingprozesse, die man mit Integromat automatisieren sollte - SeaTable'
 date: 2021-09-24
-lastmod: '2023-07-11'
-author: 'cdb'
-url: '/de/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Integrationen & Automatisierung'
+    - 'Workflows'
+    - 'Marketingplanung'
+url: '/de/marketingprozesse-automatisieren'
+aliases:
+    - '/de/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte'
 color: '#ede1a3'
 seo:
     title:

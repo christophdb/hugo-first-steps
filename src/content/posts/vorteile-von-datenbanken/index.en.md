@@ -1,9 +1,11 @@
 ---
 title: 'Databases - 5 advantages over simple tables'
 date: 2021-03-30
-lastmod: '2024-03-22'
-coverImage: 'hunter-harritt-Ype9sdOPdYc-unsplash-scaled-1.jpg'
-author: 'cdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Data Management & Visualisation'
+    - 'When Excel is no longer sufficient'
 url: '/database-benefits'
 aliases:
     - /vorteile-von-datenbanken

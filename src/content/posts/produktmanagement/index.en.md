@@ -1,8 +1,11 @@
 ---
 title: 'With these 4 steps to perfect product management - SeaTable'
 date: 2021-04-29
-lastmod: '2023-07-11'
-coverImage: 'pexels-lukas-669619.jpg'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Marketing Planning'
+    - 'Project Management'
 author: 'ott'
 url: '/product-management'
 aliases:

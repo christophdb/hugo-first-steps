@@ -1,8 +1,11 @@
 ---
 title: 'Liste de colisage pour le festival : Les incontournables pour une expérience inoubliable'
+description: "Lorsque la saison des festivals commence et que l'on se réjouit de pouvoir écouter de la bonne musique et de partager des moments entre amis, il est temps de boucler ses bagages. Pour que votre visite au festival se déroule sans encombre et ne soit pas assombrie par des problèmes et des contrariétés, une préparation minutieuse est essentielle. Que vous vous prépariez pour le légendaire Wacken, le vibrant Rock am Ring ou l'énergique Hurricane Festival, il y a quelques incontournables qui doivent figurer sur toute liste d'emballage de festival."
 date: 2024-03-13
-lastmod: '2024-07-26'
-author: 'nsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Vie Quotidienne'
 url: '/fr/liste-affaires-festival'
 aliases:
     - /fr/festival-packliste
