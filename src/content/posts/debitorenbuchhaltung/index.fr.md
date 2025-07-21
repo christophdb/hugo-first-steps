@@ -6,7 +6,7 @@ author: 'pbr'
 url: '/fr/comptabilite-clients'
 aliases:
     - /fr/debitorenbuchhaltung
-color: '#eeeeee'
+color: '#7cbaef'
 seo:
     title:
     description:

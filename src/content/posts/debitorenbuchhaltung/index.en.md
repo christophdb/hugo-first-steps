@@ -7,7 +7,7 @@ author: 'pbr'
 url: '/accounts-receivable'
 aliases:
     - /debitorenbuchhaltung
-color: '#eeeeee'
+color: '#7cbaef'
 seo:
     title:
     description:

@@ -6,7 +6,7 @@ author: 'nsc'
 url: '/es/lista-empacar-festival'
 aliases:
     - /es/festival-packliste
-color: '#eeeeee'
+color: '#74aa84'
 seo:
     title:
     description:

@@ -6,7 +6,7 @@ author: 'nsc'
 url: '/pt/lista-itens-festival'
 aliases:
     - /pt/festival-packliste
-color: '#eeeeee'
+color: '#74aa84'
 seo:
     title:
     description:

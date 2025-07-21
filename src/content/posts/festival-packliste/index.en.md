@@ -7,7 +7,7 @@ author: 'nsc'
 url: '/festival-packing-list'
 aliases:
     - /festival-packliste
-color: '#eeeeee'
+color: '#74aa84'
 seo:
     title:
     description:

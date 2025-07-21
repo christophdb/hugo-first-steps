@@ -6,7 +6,7 @@ author: 'pbr'
 url: '/pt/contabilidade-devedores'
 aliases:
     - /pt/debitorenbuchhaltung
-color: '#eeeeee'
+color: '#7cbaef'
 seo:
     title:
     description:

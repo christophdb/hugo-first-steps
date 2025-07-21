@@ -6,7 +6,7 @@ author: 'pbr'
 url: '/es/crm-gestion-ofertas'
 aliases:
     - /es/crm-angebotsmanagement
-color: '#eeeeee'
+color: '#fdce05'
 seo:
     title:
     description:

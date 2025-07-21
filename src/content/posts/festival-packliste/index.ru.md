@@ -6,7 +6,7 @@ author: 'nsc'
 url: '/ru/spisok-veshchey-dlya-festivala'
 aliases:
     - /ru/festival-packliste
-color: '#eeeeee'
+color: '#74aa84'
 seo:
     title:
     description:

@@ -6,7 +6,7 @@ author: 'nsc'
 url: '/fr/liste-affaires-festival'
 aliases:
     - /fr/festival-packliste
-color: '#eeeeee'
+color: '#74aa84'
 seo:
     title:
     description:

@@ -5,7 +5,7 @@ lastmod: '2023-07-11'
 coverImage: 'marketing-automation-1.jpg'
 author: 'cdb'
 url: '/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte'
-color: '#eeeeee'
+color: '#ede1a3'
 seo:
     title:
     description:

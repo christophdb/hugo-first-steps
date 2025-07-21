@@ -7,7 +7,7 @@ author: 'cdb'
 url: '/database-benefits'
 aliases:
     - /vorteile-von-datenbanken
-color: '#eeeeee'
+color: '#d4ad2a'
 seo:
     title:
     description:

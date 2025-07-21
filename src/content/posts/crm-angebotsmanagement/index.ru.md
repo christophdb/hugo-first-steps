@@ -6,7 +6,7 @@ author: 'pbr'
 url: '/ru/crm-upravlenie-predlozheniyami'
 aliases:
     - /ru/crm-angebotsmanagement
-color: '#eeeeee'
+color: '#fdce05'
 seo:
     title:
     description:

@@ -5,7 +5,7 @@ date: 2024-03-13
 lastmod: '2024-07-26'
 author: 'nsc'
 url: '/de/festival-packliste'
-color: '#eeeeee'
+color: '#74aa84'
 seo:
     title: 'Festival Packliste: Must-haves für ein unvergessliches Erlebnis'
     description: 'Entdecken Sie die ultimative Festival Packliste mit allen wichtigen Dingen, die Sie brauchen. Inklusive Festivalplaner und Checkliste!'

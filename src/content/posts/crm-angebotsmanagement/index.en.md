@@ -7,7 +7,7 @@ author: 'pbr'
 url: '/crm-quote-management'
 aliases:
     - /crm-angebotsmanagement
-color: '#eeeeee'
+color: '#fdce05'
 seo:
     title:
     description:

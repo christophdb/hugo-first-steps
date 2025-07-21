@@ -6,7 +6,7 @@ author: 'cdb'
 url: '/pt/vantagens-bancos-dados'
 aliases:
     - /pt/vorteile-von-datenbanken
-color: '#eeeeee'
+color: '#d4ad2a'
 seo:
     title:
     description:

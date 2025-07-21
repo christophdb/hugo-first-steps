@@ -6,7 +6,7 @@ author: 'ott'
 url: '/es/gestion-productos'
 aliases:
     - /es/produktmanagement
-color: '#eeeeee'
+color: '#6b64c4'
 seo:
     title:
     description:

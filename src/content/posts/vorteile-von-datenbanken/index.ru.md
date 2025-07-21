@@ -6,7 +6,7 @@ author: 'cdb'
 url: '/ru/preimushchestva-baz-dannyh'
 aliases:
     - /ru/vorteile-von-datenbanken
-color: '#eeeeee'
+color: '#d4ad2a'
 seo:
     title:
     description:

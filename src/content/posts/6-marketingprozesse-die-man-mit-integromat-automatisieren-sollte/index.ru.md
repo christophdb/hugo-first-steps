@@ -4,7 +4,7 @@ date: 2021-09-24
 lastmod: '2023-07-11'
 author: 'cdb'
 url: '/ru/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte'
-color: '#eeeeee'
+color: '#ede1a3'
 seo:
     title:
     description:
