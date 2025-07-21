@@ -1,12 +1,14 @@
 ---
 title: 'Gestión organizada de la tienda con SeaTable - SeaTable'
 date: 2021-10-21
-lastmod: '2023-07-11'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Compras y logística'
 url: '/es/gestion-tienda-con-seatable'
 aliases:
     - /es/store-management-mit-seatable
-color: '#eeeeee'
+color: '#c2eee0'
 seo:
     title:
     description:

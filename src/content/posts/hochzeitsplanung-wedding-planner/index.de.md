@@ -2,10 +2,12 @@
 title: 'Die perfekte Hochzeitsplanung mit SeaTable'
 description: ''
 date: 2021-07-22
-lastmod: '2023-07-11'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Alltag & Freizeit'
 url: '/de/hochzeitsplanung-wedding-planner'
-color: '#eeeeee'
+color: '#c6ae94'
 seo:
     title: ''
     description: ''

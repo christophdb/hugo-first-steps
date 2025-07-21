@@ -1,12 +1,15 @@
 ---
 title: 'Conseils pour la planification de votre campagne de marketing'
+description: "Si vous voulez vraiment développer votre entreprise et vous démarquer de la concurrence, il vous faut avant tout une chose : un marketing extrêmement efficace. La qualité de ce dernier dépend de la campagne de marketing et de sa planification. Cela soulève plusieurs questions : qu'est-ce qu'une campagne de marketing ? Quand est-elle bonne et quand ne l'est-elle pas ? Et comment l'exécution et la planification de la campagne de marketing peuvent-elles être combinées de manière optimale ?"
+categories:
+    - 'best-practice'
+tags:
+    - 'Planification marketing'
 date: 2022-08-05
-lastmod: '2022-07-25'
-author: 'rdb'
 url: '/fr/planification-campagne-marketing'
 aliases:
     - /fr/marketing-kampagne-planung
-color: '#eeeeee'
+color: '#ea817a'
 seo:
     title:
     description:

@@ -2,10 +2,12 @@
 title: 'Organisiertes Store Management mit SeaTable - SeaTable'
 description: ''
 date: 2021-10-21
-lastmod: '2023-07-11'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Beschaffung & Logistik'
 url: '/de/store-management-mit-seatable'
-color: '#eeeeee'
+color: '#c2eee0'
 seo:
     title: ''
     description: ''

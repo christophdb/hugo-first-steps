@@ -1,13 +1,16 @@
 ---
 title: 'Task management: plan and use resources optimally'
+description: 'Discover effective task management for successful project management. Learn tips for optimal task management.'
 date: 2021-09-23
-lastmod: '2025-02-28'
-coverImage: 'project-management.jpg'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Workflows'
+    - 'Project Management'
 url: '/task-management'
 aliases:
     - /aufgabenverwaltung
-color: '#eeeeee'
+color: '#317b7a'
 seo:
     title:
     description:

@@ -1,12 +1,19 @@
 ---
 title: 'Управление задачами: оптимизация планирования и использования ресурсов'
+description: 'Откройте для себя эффективное управление задачами для успешного управления проектами. Узнайте советы по оптимальному управлению задачами.'
+date: 2021-09-23
+categories:
+    - 'best-practice'
+tags:
+    - 'Управление проектом'
+    - 'Рабочие процессы'
 date: 2021-09-23
 lastmod: '2025-02-28'
 author: 'ott'
 url: '/ru/upravlenie-zadachami'
 aliases:
     - /ru/aufgabenverwaltung
-color: '#eeeeee'
+color: '#317b7a'
 seo:
     title:
     description:

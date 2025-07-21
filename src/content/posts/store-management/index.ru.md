@@ -1,12 +1,14 @@
 ---
 title: 'Организованное управление магазином с помощью SeaTable - SeaTable'
 date: 2021-10-21
-lastmod: '2023-07-11'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Закупки и логистика'
 url: '/ru/upravlenie-magazinom-s-seatable'
 aliases:
     - /ru/store-management-mit-seatable
-color: '#eeeeee'
+color: '#c2eee0'
 seo:
     title:
     description:

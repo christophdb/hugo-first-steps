@@ -1,13 +1,15 @@
 ---
 title: 'Tips for planning your marketing campaign'
+description: 'If you want to really push your company forward and clearly set yourself apart from the competition, you need one thing above all: extremely good marketing. How good this actually is depends on the respective marketing campaign and its planning. And this directly raises several questions: What is a marketing campaign anyway? When is it good and when is it not? And how can the implementation and planning of the marketing campaign be optimally combined?'
+categories:
+    - 'best-practice'
+tags:
+    - 'Marketingplanung'
 date: 2022-08-05
-lastmod: '2022-07-25'
-coverImage: 'Marketing-Kampagne-Planung_AdobeStock_439332312.jpg'
-author: 'rdb'
 url: '/marketing-campaign-planning'
 aliases:
     - /marketing-kampagne-planung
-color: '#eeeeee'
+color: '#ea817a'
 seo:
     title:
     description:

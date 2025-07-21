@@ -1,12 +1,16 @@
 ---
 title: 'Property management made easy: Manage real estate professionally'
+description: 'If you rent out properties, you should make sure you have good property management - regardless of whether you are renting privately or on a large scale. From utility bills to communication with tenants and service providers: the tasks of property management are many and varied. In this article, you will learn how to keep track of all properties, tenants, payments, documents and tasks.'
 date: 2023-11-03
-lastmod: '2023-11-06'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Finances'
 url: '/property-management-house'
 seo:
     title:
     description:
+color: '#75b389'     
 ---
 
 **Property rental** is a profitable business for individuals, companies, and municipalities alike. If you manage properties, you need to ensure effective **property management**—whether you’re renting out a few apartments privately or managing a large portfolio as a company.

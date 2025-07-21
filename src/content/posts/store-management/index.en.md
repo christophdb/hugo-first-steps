@@ -1,13 +1,14 @@
 ---
 title: 'Organised Store Management with SeaTable - SeaTable'
 date: 2021-10-21
-lastmod: '2023-07-11'
-coverImage: 'pexels-artem-beliaikin-1036857.jpg'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Procurement & Logistics'
 url: '/store-management-with-seatable'
 aliases:
     - /store-management-mit-seatable
-color: '#eeeeee'
+color: '#c2eee0'
 seo:
     title:
     description:

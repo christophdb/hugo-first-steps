@@ -1,14 +1,15 @@
 ---
 title: 'La gestión inmobiliaria más fácil: Gestión inmobiliaria profesional'
+description: "Si alquila propiedades, debe asegurarse de contar con una buena gestión inmobiliaria, independientemente de si se trata de un alquiler privado o a gran escala. Desde las facturas de los servicios públicos hasta la comunicación con los inquilinos y los proveedores de servicios: las tareas de la gestión inmobiliaria son muchas y variadas. En este artículo, aprenderá a realizar un seguimiento de todas las propiedades, inquilinos, pagos, documentos y tareas."
 date: 2023-11-03
-lastmod: '2023-11-06'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Finanzas'
 url: '/es/administracion-edificios'
 aliases:
     - /es/hausverwaltung
-seo:
-    title:
-    description:
+color: '#75b389'
 ---
 
 El **alquiler de inmuebles** es un negocio lucrativo, tanto para particulares como para empresas y ayuntamientos. Sin embargo, si administra propiedades, debe asegurarse de que su **gestión inmobiliaria** funciona correctamente, independientemente de si alquila pisos individuales de forma privada o a gran escala con una empresa.
