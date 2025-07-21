@@ -54,7 +54,7 @@ sections:
       title: SeaTable als Projektmanagement Tool statt Asana
       subtitle: Zentralisieren, automatisieren, optimieren
       items:
-      - text: Als innovative Alternative zu Asana überzeugt die No-Code Lösung durch effizientes Task Management und transparente Projektübersicht, die Teams jederzeit den aktuellen Status ihrer Aufgaben im Blick behalten lässt. Die Echtzeit-Kollaboration ermöglicht nahtlose Zusammenarbeit.  Flexible Ansichten wie Kanban oder Gantt erlauben eine intuitive Visualisierung des Projektfortschritts. 
+      - text: Als innovative Alternative zu Asana überzeugt die No-Code Lösung durch effizientes Task Management und transparente Projektübersicht, die Teams jederzeit den aktuellen Status ihrer Aufgaben im Blick behalten lässt. Die Echtzeit-Kollaboration ermöglicht nahtlose Zusammenarbeit. Flexible Ansichten wie Kanban oder Gantt erlauben eine intuitive Visualisierung des Projektfortschritts. 
       image: /images/asana-projektportfoliomanagement.jpg
 
     - name: content-11
