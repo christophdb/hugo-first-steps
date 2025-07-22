@@ -1,13 +1,14 @@
 ---
 title: 'Product launch - guaranteed to work | SeaTable'
 date: 2020-09-24
-lastmod: '2022-06-13'
-coverImage: 'SeaTable-Product-Launch.jpg'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Marketing Planning'
 url: '/product-launch'
 aliases:
     - /produktlaunch
-color: '#eeeeee'
+color: '#d21d0d'
 seo:
     title:
     description:

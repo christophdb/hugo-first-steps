@@ -1,12 +1,14 @@
 ---
 title: 'Lançamento do produto - garantia de funcionamento | SeaTable'
 date: 2020-09-24
-lastmod: '2022-06-13'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Planeamento de marketing'
 url: '/pt/lancamento-produto'
 aliases:
     - /pt/produktlaunch
-color: '#eeeeee'
+color: '#d21d0d'
 seo:
     title:
     description:

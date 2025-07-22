@@ -1,11 +1,10 @@
 ---
 title: 'SeaTable 1.8: more collaboration and a new column type - SeaTable'
 date: 2021-03-18
-lastmod: '2023-07-11'
-coverImage: 'seatable-1.8-release-notes.jpg'
-author: 'rdb'
+categories:
+    - 'product-features'
 url: '/seatable-release-1-8'
-color: '#eeeeee'
+color: 'f9c707'
 seo:
     title:
     description:

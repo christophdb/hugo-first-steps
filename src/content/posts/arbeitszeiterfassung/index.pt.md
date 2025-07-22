@@ -1,12 +1,15 @@
 ---
 title: 'Requisitos legais para o registo do tempo dos seus empregados - SeaTable'
+description: "Neste artigo, vamos mostrar-lhe como registar o tempo dos seus empregados no SeaTable de uma forma legal e com o mínimo de esforço."
 date: 2023-04-20
-lastmod: '2023-04-25'
-author: 'kgr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Administração de Recursos Humanos'
 url: '/pt/registro-horas-trabalho'
 aliases:
     - /pt/arbeitszeiterfassung
-color: '#eeeeee'
+color: '#fdd5d4'
 seo:
     title:
     description:

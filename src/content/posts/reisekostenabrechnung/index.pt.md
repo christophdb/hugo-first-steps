@@ -1,12 +1,15 @@
 ---
 title: 'Relatório de despesas de viagem: tudo o que precisa de saber'
+description: "Quer se trate de uma viagem de negócios de vários dias, de uma reunião com um cliente distante ou de uma deslocação a uma feira comercial - as viagens de negócios fazem parte do quotidiano de muitos trabalhadores. No artigo seguinte, não só ficará a saber o que é um relatório de despesas de viagem, como também receberá dicas valiosas sobre o que deve ter em atenção ao prepará-lo."
 date: 2025-01-17
-lastmod: '2025-01-17'
-author: 'nsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Faturação'
 url: '/pt/relatorio-despesas-viagem'
 aliases:
     - /pt/reisekostenabrechnung
-color: '#eeeeee'
+color: '#006198'
 seo:
     title:
     description:

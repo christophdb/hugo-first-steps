@@ -1,12 +1,15 @@
 ---
 title: 'Законодательные требования к учету рабочего времени ваших сотрудников - SeaTable'
+description: "В этой статье мы покажем Вам, как вести учет рабочего времени Ваших сотрудников в SeaTable в соответствии с законом и с минимальными усилиями."
 date: 2023-04-20
-lastmod: '2023-04-25'
-author: 'kgr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Управление персоналом'
 url: '/ru/uchet-rabochego-vremeni'
 aliases:
     - /ru/arbeitszeiterfassung
-color: '#eeeeee'
+color: '#fdd5d4'
 seo:
     title:
     description:

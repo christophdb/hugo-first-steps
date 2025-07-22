@@ -1,12 +1,15 @@
 ---
 title: 'Frais de déplacement : tout ce que vous devez savoir'
+description: "Qu'il s'agisse d'un voyage d'affaires de plusieurs jours, d'une réunion avec un client éloigné ou d'un déplacement à un salon professionnel, les déplacements professionnels font partie du quotidien de nombreux salariés. Dans l'article suivant, vous découvrirez non seulement ce qu'est une note de frais, mais vous obtiendrez également de précieux conseils sur les points à prendre en compte lors de son établissement."
 date: 2025-01-17
-lastmod: '2025-01-17'
-author: 'nsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Comptabilité'
 url: '/fr/note-frais-deplacement'
 aliases:
     - /fr/reisekostenabrechnung
-color: '#eeeeee'
+color: '#006198'
 seo:
     title:
     description:

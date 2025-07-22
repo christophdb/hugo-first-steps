@@ -1,12 +1,15 @@
 ---
 title: 'Législation sur la gestion du temps de vos employés - SeaTable'
+description: "Dans cet article, nous vous montrerons comment enregistrer le temps de travail de vos employés dans SeaTable de manière légalement conforme et avec un minimum d'efforts."
 date: 2023-04-20
-lastmod: '2023-04-25'
-author: 'kgr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestion du personnel'
 url: '/fr/suivi-temps-travail'
 aliases:
     - /fr/arbeitszeiterfassung
-color: '#eeeeee'
+color: '#fdd5d4'
 seo:
     title:
     description:

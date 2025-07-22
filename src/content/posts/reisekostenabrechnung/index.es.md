@@ -1,12 +1,15 @@
 ---
 title: 'Informe de gastos de viaje: todo lo que necesita saber'
+description: "Ya se trate de un viaje de negocios de varios días, de una reunión con un cliente lejano o de un desplazamiento a una feria comercial, los viajes de negocios forman parte de la vida cotidiana de muchos empleados. En el siguiente artículo, no sólo aprenderá qué es un informe de gastos de viaje, sino que también recibirá valiosos consejos sobre a qué debe prestar atención al prepararlo."
 date: 2025-01-17
-lastmod: '2025-01-17'
-author: 'nsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Facturación'
 url: '/es/informe-gastos-viaje'
 aliases:
     - /es/reisekostenabrechnung
-color: '#eeeeee'
+color: '#006198'
 seo:
     title:
     description:
