@@ -1,15 +1,19 @@
 ---
 title: 'Une bonne gestion des offres pour de meilleures performances de vente'
+description: "Une chose est essentielle pour une vente réussie : la gestion des offres. Mais qu'est-ce qui est important ? Quelles sont les erreurs à ne pas commettre ? Et qu'est-ce qui se cache derrière le terme 'gestion des offres' ? Découvrez dans cet article les réponses à ces questions et pourquoi des logiciels et des outils en ligne judicieux peuvent vous aider de manière décisive dans la gestion de vos offres."
 date: 2022-07-22
-lastmod: '2022-07-27'
-author: 'rdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestion des données & visualisation'
+    - 'Planification Commerciale'
 url: '/fr/gestion-offres'
 aliases:
     - /fr/angebotsmanagement
-color: '#eeeeee'
+color: '#66a7a3'
 seo:
-    title:
-    description:
+    title: "Optimiser la gestion des appels d'offres : la solution informatique"
+    description: "Optimisez la gestion de vos offres Automatisez les processus de vente, gérez les données de manière centralisée et gardez une vue d'ensemble à tout moment."
 ---
 
 Une chose est essentielle pour une vente réussie : la **gestion des offres**. Mais de quoi s'agit-il ? Quelles sont les erreurs à ne pas commettre ? Et qu'est-ce qui se cache derrière le terme "gestion des offres" ?

@@ -2,9 +2,13 @@
 title: 'Wie Sie mit einer To-do-Liste den Überblick über alle Aufgaben behalten'
 description: 'Eine online nutzbare To-do-Liste mit einer App zu erstellen und zu verwalten bringt viele Vorteile mit sich. Denn eine To-do-Liste unterstützt Sie sowohl im Privatleben als auch im beruflichen Tagesgeschäft dabei, Ihre Aufgaben effizient zu meistern und im stressigen Alltag nichts zu vergessen. Lesen Sie in diesem Artikel, warum Sie für Ihre To do Liste eine Vorlage einsetzen sollten und welche App sich dafür anbietet.'
 date: 2024-04-03
-lastmod: '2024-04-03'
-author: 'kgr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Toolings & Plugins'
+    - 'Projektmanagement'
 url: '/de/to-do-liste-online'
+color: '#ca9fb9'
 seo:
     title: 'To do Liste mit App online erstellen'
     description: 'Welche App eignet sich für Ihre To-do-Liste und wie können Sie Ihre To do Liste mit einer Vorlage online erstellen? Lesen Sie hier mehr.'

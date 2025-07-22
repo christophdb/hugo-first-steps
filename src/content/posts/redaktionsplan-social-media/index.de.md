@@ -2,10 +2,12 @@
 title: 'Readaktionsplan für Social-Media - Damit behaltet ihr den Überblick'
 description: 'Um in Social Media messbare Erfolge zu erzielen, müssen Sie kontinuierlich neue Inhalte veröffentlichen. Und das oft mehrmals pro Woche für unterschiedliche Kanäle. Es gilt, termingerecht interessanten und unterhaltsamen Content zu posten. Bei der Umsetzung hilft Ihnen ein Social-Media-Plan. Lesen Sie in diesem Artikel, wie Sie mit einem solchen Redaktionsplan erfolgreich durchstarten.'
 date: 2024-02-07
-lastmod: '2025-01-17'
-author: 'rdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Contentplanung'
 url: '/de/redaktionsplan-social-media'
-color: '#eeeeee'
+color: '#cc0512'
 seo:
     title: 'Mit einem Redaktionsplan für Social Media den Überblick behalten'
     description: 'Erfahren Sie, wie Sie mit einem Social Media Plan Ihren Content termingerecht und erfolgreich veröffentlichen können.'

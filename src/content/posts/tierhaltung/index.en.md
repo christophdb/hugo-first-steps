@@ -1,11 +1,15 @@
 ---
 title: 'Organizing animal husbandry - how to keep your pet in a species-appropriate way'
+description: "A pet brings you joy, is a soulmate or is simply beautiful to look at. But keeping a pet also involves work, because you are committing yourself for a long time and have to take your pet's needs into account. Here you can find out how to organize species-appropriate pet ownership and what conditions you and your household should meet in order to be able to offer an animal a good home."
 date: 2024-01-30
-lastmod: '2024-01-30'
-author: 'lsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
 url: '/animal-husbandry'
 aliases:
     - /to-do-liste-online
+color: '#f5c119'
 seo:
     title:
     description:

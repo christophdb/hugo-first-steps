@@ -1,12 +1,15 @@
 ---
 title: "Garder une vue d'ensemble grâce à un plan éditorial pour les médias sociaux"
+description: "Pour obtenir des résultats mesurables sur les médias sociaux, vous devez publier en permanence de nouveaux contenus. Et ce, souvent plusieurs fois par semaine pour différents canaux. Vous devez publier des contenus intéressants et divertissants dans les délais impartis. Un plan pour les médias sociaux vous aidera à le mettre en œuvre. Lisez cet article pour savoir comment démarrer avec succès grâce à un tel plan éditorial."
 date: 2024-02-07
-lastmod: '2025-01-17'
-author: 'rdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Planification de contenu'
 url: '/fr/calendrier-editorial-social-media'
 aliases:
     - /fr/reisekostenabrechnung
-color: '#eeeeee'
+color: '#cc0512'
 seo:
     title:
     description:

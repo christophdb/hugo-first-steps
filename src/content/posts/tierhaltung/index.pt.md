@@ -1,11 +1,15 @@
 ---
 title: 'Organizar a criação de animais - como manter o seu animal de estimação de uma forma adequada à espécie'
+description: "Um animal de estimação dá-lhe alegria, é a sua alma gémea ou é simplesmente bonito de se ver. No entanto, ter um animal de estimação também envolve trabalho, porque está a comprometer-se durante muito tempo e tem de ter em conta as necessidades do seu animal. Aqui pode descobrir como organizar a posse de animais de estimação adequados à espécie e quais as condições que você e o seu agregado familiar devem preencher para poderem oferecer um bom lar a um animal."
 date: 2024-01-30
-lastmod: '2024-01-30'
-author: 'lsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana e lazer'
 url: '/pt/criacao-animais'
 aliases:
     - /pt/to-do-liste-online
+color: '#f5c119'
 seo:
     title:
     description:
