@@ -2,7 +2,8 @@
 title: 'Установите SeaTable Enterprise на собственном сервере за веб-сервером - SeaTable'
 date: 2021-05-15
 lastmod: '2023-07-11'
-author: 'rdb'
+categories: 
+    - 'product-features'
 url: '/ru/ustanovka-seatable-enterprise-server-webserver'
 aliases:
     - /ru/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren

@@ -2,8 +2,8 @@
 title: 'Install SeaTable Enterprise on your own server behind a web server - SeaTable'
 date: 2021-05-15
 lastmod: '2023-07-11'
-coverImage: 'SeaTableEE_Installation_With_Webserver.png'
-author: 'rdb'
+categories: 
+    - 'product-features'
 url: '//seatable-enterprise-installation-server-webserver'
 aliases:
     - /seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
