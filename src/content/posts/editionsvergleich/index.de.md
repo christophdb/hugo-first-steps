@@ -2,10 +2,10 @@
 title: 'SeaTable Developer und Enterprise Edition im Vergleich'
 description: 'SeaTable gibt es in zwei verschiedenen Editionen. Während die Enterprise Edition den vollen Funktionsumfang liefert und deshalb für die SeaTable Cloud und Dedicated Systeme zum Einsatz kommt, ist die Developer Edition kostenlos nutzbar und bietet sich geradezu für Entwickler als flexible Datenbank an.'
 date: 2022-02-03
-lastmod: '2022-02-15'
+lastmod: '2025-07-22'
 author: 'cdb'
 url: '/de/editionsvergleich'
-color: '#eeeeee'
+color: '#01adc3'
 seo:
     title: 'SeaTable Developer und Enterprise Edition im Vergleich'
     description: 'Die selbst gehostete No-Code Plattform SeaTable gibt es in zwei Editionen. Hier finden Sie alle Details und die möglichen Einsatzzwecke zur Enterprise und Developer Edition.'
@@ -13,11 +13,16 @@ seo:
 
 SeaTable Server ist SeaTable für den eigenen Server. Durch die Installation von SeaTable in der eigenen Infratruktur haben Sie volle Kontrolle darüber, wo Ihre Daten liegen und wer darauf zugreift. Samit empfiehlt sich SeaTable auch für Anwendungsfälle, in denen Sie Ihre Daten nicht außer Haus geben wollen. Sie können SeaTable Server auch ausschließlich im lokalen Netzwerk ohne Zugriffsmöglichkeit über das Internet betreiben.
 
-SeaTable Server gibt es in zwei verschiedenen Editionen:
+## SeaTable Server gibt es in zwei verschiedenen Editionen
 
-- Die SeaTable Server Enterprise Edition ist die perfekte [No-Code]({{< relref "posts/20250307-low-code" >}}) Lösung für Teams und Organisationen jeder Größe, die den vollen Funktionsumfang und volle Datenkontrolle erhalten möchten. Nur die Enterprise Edition bietet die Möglichkeit eine externe Authentifizierung per LDAP oder SAML zu verwenden. Auch die erweiterten Freigabeberechtigungen und Automationen finden Sie nur in dieser Edition.  
-   Sie können jederzeit eine SeaTable Enterprise Lizenz für bis zu drei Anwender erhalten. Sie finden das entsprechende Registrierungsformular [unter diesem Link](/on-premises/). Die Installation erfolgt gemäß dem [Administrationshandbuch](https://manual.seatable.io/docker/Enterprise-Edition/Deploy%20SeaTable-EE%20with%20Docker/) mithilfe von Docker.
-- Die SeaTable Server Developer Edition richtet sich primär an Entwickler, die SeaTable als flexible Datenbank verwenden möchten und eventuell gar nicht auf das Frontend zurückgreifen werden. Hier punktet die Developer Edition mit der leistungsfähigen [SeaTable API](https://api.seatable.com/), den Apps für die verschiedenen Automatisierungsplattform und der vollen Unterstützung sämtlicher Spaltentypen. Für die Developer Edition kann kostenfrei genutzt werden. Die Installationsanleitung finden Sie [hier](https://manual.seatable.io/docker/Developer-Edition/Deploy%20SeaTable-DE%20with%20Docker/).
+### SeaTable Enterprise Edition
+
+Die SeaTable Server Enterprise Edition ist die perfekte [No-Code]({{< relref "posts/20250307-low-code" >}}) Lösung für Teams und Organisationen jeder Größe, die den vollen Funktionsumfang und volle Datenkontrolle erhalten möchten. Nur die Enterprise Edition bietet die Möglichkeit eine externe Authentifizierung per LDAP oder SAML zu verwenden. Auch die erweiterten Freigabeberechtigungen und Automationen finden Sie nur in dieser Edition.  
+Sie können jederzeit eine SeaTable Enterprise Lizenz für bis zu drei Anwender erhalten. Sie finden das entsprechende Registrierungsformular [unter diesem Link](/on-premises/). Die Installation erfolgt gemäß dem [Administrationshandbuch](https://admin.seatable.io) mithilfe von Docker.
+
+### SeaTable Developer Edition
+
+Die SeaTable Server Developer Edition richtet sich primär an Entwickler, die SeaTable als flexible Datenbank verwenden möchten und eventuell gar nicht auf das Frontend zurückgreifen werden. Hier punktet die Developer Edition mit der leistungsfähigen [SeaTable API](https://api.seatable.com/), den Apps für die verschiedenen Automatisierungsplattform und der vollen Unterstützung sämtlicher Spaltentypen. Für die Developer Edition kann kostenfrei genutzt werden. Die Installationsanleitung finden Sie [hier](https://admin.seatable.io).
 
 ## Unterschiede in der Gegenüberstellung
 
@@ -104,3 +109,24 @@ SeaTable Server gibt es in zwei verschiedenen Editionen:
 | **Backend und Skalierbarkeit**                     |                                                               |                                                               |
 | S3-Support                                         | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 | Cluster-Support                                    | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+
+## Unterschiede in den Versionen
+
+Sowohl die SeaTable Enterprise Edition als auch die Developer Edition laden Sie bequem von Docker Hub herunter:
+
+- https://hub.docker.com/r/seatable/seatable-enterprise
+- https://hub.docker.com/r/seatable/seatable-developer
+
+**Die Editionen unterscheiden sich vor allem bei den Versionen:**
+
+Die Developer Edition stellt jeweils nur eine Grundversion bereit, zum Beispiel **5.3.0**, die auf der ersten Enterprise-Version basiert. Die Enterprise Edition entwickelt sich stetig weiter. Dort finden Sie stets die aktuellste Version, etwa **5.3.12**.
+
+Entdeckte Probleme in der Developer Edition beheben wir erst mit der nächsten Hauptversion (z.B. von 5.3.x zu 5.4.0).
+
+## Unterschiede bei Testing und Support
+
+Die **SeaTable Enterprise Edition** wird von uns umfassend getestet, um eine möglichst fehlerfreie und stabile Nutzung sicherzustellen. Für die **Developer Edition** führen wir hingegen **keine systematischen Tests** durch.
+
+**Kostenpflichtiger Support** wird ausschließlich für die Enterprise Edition angeboten; für die Developer Edition steht **kein offizieller Support** zur Verfügung.
+
+Bei Fragen zur Developer Edition empfehlen wir das [SeaTable Community-Forum](https://forum.seatable.com). Beachten Sie jedoch, dass dort überwiegend Themen zur Enterprise Edition behandelt werden, da diese intensiver genutzt und offiziell unterstützt wird.
