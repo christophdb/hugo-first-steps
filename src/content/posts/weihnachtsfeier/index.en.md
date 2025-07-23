@@ -1,12 +1,15 @@
 ---
 title: 'Christmas party 2025 - ideas for a unique company event'
+description: "It will soon be that time again! While some people are still mourning the past summer, the first gingerbread and cookies on the supermarket shelves are already a reminder of the coming Christmas season. To ensure that your Christmas party is a complete success, you can't start planning early enough! This article will give you valuable tips and lots of varied ideas for your next company Christmas party."
 date: 2023-08-25
-lastmod: '2025-07-09'
-author: 'nsc2'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Event Management'
+color: '#98cddf'
 url: '/christmas-party'
 aliases:
     - /weihnachtsfeier/
-color: '#eeeeee'
 seo:
     title:
     description:

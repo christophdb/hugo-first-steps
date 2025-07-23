@@ -1,8 +1,13 @@
 ---
 title: 'Gestion des connaissances : comment rendre les connaissances utilisables'
+description: "La connaissance est l'une des ressources les plus importantes de toute entreprise. Ce n'est pas pour rien que la connaissance est déjà citée comme facteur de production au même titre que la terre, le capital et le travail lorsqu'il s'agit de la réussite d'une entreprise. Mais que faut-il faire pour que les connaissances de vos collaborateurs soient utiles à d'autres dans votre entreprise ? La réponse : une gestion des connaissances efficace ! Découvrez ici comment gérer efficacement les connaissances au sein de votre entreprise et ce à quoi vous devez faire attention lorsque vous choisissez un système de gestion des connaissances approprié."
 date: 2024-08-09
-lastmod: '2024-08-09'
-author: 'lsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Outils & plugins'
+    - 'Travail collaboratif'
+color: '#bae3e6'
 url: '/fr/gestion-des-connaissances'
 aliases:
     - /fr/wissensmanagement

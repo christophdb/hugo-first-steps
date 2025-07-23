@@ -1,8 +1,12 @@
 ---
 title: 'Prendas de Natal para empregados e clientes - 24 ideias'
+description: 'O Natal está à porta e gostaria de oferecer aos seus empregados, parceiros de negócios ou clientes um pequeno presente como sinal do seu apreço. Mas quais são as prendas de Natal adequadas para os seus empregados e clientes? É necessário que tenha muitas ideias e um instinto seguro! Neste artigo, pode descobrir quais os presentes de Natal que farão as delícias dos seus empregados e clientes e qual o orçamento que pode esperar.'
 date: 2024-10-28
-lastmod: '2024-11-20'
-author: 'lsc'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Gestão de clientes'
+color: '#fc756f'
 url: '/pt/presentes-natal-para-colaboradores-e-clientes'
 aliases:
     - /pt/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden

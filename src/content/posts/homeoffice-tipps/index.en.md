@@ -1,19 +1,19 @@
 ---
 title: 'Desperate for a home office? With these tips it works! | SeaTable'
+description: 'The corona crisis is currently forcing millions of people to work from home. Some find it easy to adjust to the new situation, but many also struggle with it. Do you also not really know how to start in the morning? Do you keep forgetting your lunch break and instead eat your quickly made sandwiches in front of your PC? We will give you valuable tips and show you advantages that will definitely make the situation easier for you.'
 date: 2020-09-17
-lastmod: '2022-06-13'
-coverImage: 'markus-winkler-TRcaFMV5vk-unsplash-scaled-1.jpg'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Workflows'
+color: '#c1601e'
 url: '/home-office-tips'
 aliases:
     - /homeoffice-tipps
-color: '#eeeeee'
 seo:
     title:
     description:
 ---
-
-The corona crisis is currently forcing millions of people to work from home. Some find it easy to adjust to the new situation, but many also struggle with it. Do you also not really know how to start in the morning? Do you keep forgetting your lunch break and instead eat your quickly made sandwiches in front of your PC? We will give you valuable tips and show you advantages that will definitely make the situation easier for you.
 
 Are you a team leader and wondering how best to organise your weekly meetings from your home office? Take a look [here,]({{< relref "templates/projects/team-meetings" >}}) we have developed the right template for you!
 

@@ -2,8 +2,12 @@
 title: 'Wissensmanagement: Wie Sie Wissen nutzbar machen'
 description: 'Wissen ist eine der wichtigsten Ressourcen in jedem Unternehmen. Nicht umsonst wird Wissen bereits als Produktionsfaktor in einer Reihe mit Boden, Kapital und Arbeit genannt, wenn es um den Erfolg eines Unternehmens geht. Doch was braucht es, um das Wissen Ihrer Mitarbeiter für andere in Ihrem Unternehmen nutzbar zu machen? Die Antwort: ein funktionierendes Wissensmanagement! Wie Sie das Wissen in Ihrem Unternehmen erfolgreich managen und worauf Sie bei der Auswahl eines geeigneten Wissensmanagementsystems achten sollten, erfahren Sie hier.'
 date: 2024-08-09
-lastmod: '2024-08-09'
-author: 'lsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Toolings & Plugins'
+    - 'Kollaboratives Arbeiten'
+color: '#bae3e6'
 url: '/de/wissensmanagement'
 seo:
     title: 'Wissensmanagement: Wie Sie Wissen nutzbar machen'

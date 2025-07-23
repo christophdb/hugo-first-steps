@@ -1,18 +1,19 @@
 ---
 title: 'Desesperado por um escritório em casa? Com estas dicas, funciona! | SeaTable'
+description: 'A crise da coroa está actualmente a forçar milhões de pessoas a trabalhar a partir de casa. Alguns acham fácil adaptar-se à nova situação, mas muitos também se debatem com ela. Também não sabe realmente como começar pela manhã? Está sempre a esquecer-se da hora de almoço e, em vez disso, come as suas sandes rapidamente feitas em frente ao seu PC? Dar-lhe-emos dicas valiosas e mostrar-lhe-emos vantagens que lhe facilitarão definitivamente a situação.'
 date: 2020-09-17
-lastmod: '2022-06-13'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Workflows'
+color: '#c1601e'
 url: '/pt/dicas-home-office'
 aliases:
     - /pt/homeoffice-tipps
-color: '#eeeeee'
 seo:
     title:
     description:
 ---
-
-A crise da coroa está actualmente a forçar milhões de pessoas a trabalhar a partir de casa. Alguns acham fácil adaptar-se à nova situação, mas muitos também se debatem com ela. Também não sabe realmente como começar pela manhã? Está sempre a esquecer-se da hora de almoço e, em vez disso, come as suas sandes rapidamente feitas em frente ao seu PC? Dar-lhe-emos dicas valiosas e mostrar-lhe-emos vantagens que lhe facilitarão definitivamente a situação.
 
 É líder de equipa e está a pensar como organizar melhor as suas reuniões semanais a partir do seu escritório em casa? Dê uma olhada [aqui,]({{< relref "templates/projects/team-meetings" >}}) desenvolvemos o modelo certo para si!
 

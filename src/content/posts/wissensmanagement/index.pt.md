@@ -1,8 +1,13 @@
 ---
 title: 'Gestão do conhecimento: como tornar o conhecimento utilizável'
+description: 'O conhecimento é um dos recursos mais importantes de qualquer empresa. Não é por acaso que o conhecimento já é citado como um fator de produção, a par da terra, do capital e do trabalho, quando se trata do sucesso de uma empresa. Mas o que é que é preciso para tornar o conhecimento dos seus empregados disponível para os outros na sua empresa? A resposta: um sistema de gestão do conhecimento funcional!'
 date: 2024-08-09
-lastmod: '2024-08-09'
-author: 'lsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Ferramentas e plugins'
+    - 'Trabalho colaborativo'
+color: '#bae3e6'
 url: '/pt/gestao-do-conhecimento'
 aliases:
     - /pt/wissensmanagement

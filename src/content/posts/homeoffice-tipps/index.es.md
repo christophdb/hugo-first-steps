@@ -1,18 +1,19 @@
 ---
 title: '¿Desesperado por una oficina en casa? Con estos consejos funciona! | SeaTable'
+description: 'La crisis de la corona obliga actualmente a millones de personas a trabajar desde casa. A algunos les resulta fácil adaptarse a la nueva situación, pero a muchos también les cuesta. ¿Tampoco sabes cómo empezar por la mañana? ¿Sigues olvidando tu pausa para comer y en su lugar te comes tus sándwiches hechos rápidamente delante de tu PC? Le daremos valiosos consejos y le mostraremos ventajas que definitivamente le facilitarán la situación.'
 date: 2020-09-17
-lastmod: '2022-06-13'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Workflows'
+color: '#c1601e'
 url: '/es/consejos-home-office'
 aliases:
     - /es/homeoffice-tipps
-color: '#eeeeee'
 seo:
     title:
     description:
 ---
-
-La crisis de la corona obliga actualmente a millones de personas a trabajar desde casa. A algunos les resulta fácil adaptarse a la nueva situación, pero a muchos también les cuesta. ¿Tampoco sabes cómo empezar por la mañana? ¿Sigues olvidando tu pausa para comer y en su lugar te comes tus sándwiches hechos rápidamente delante de tu PC? Le daremos valiosos consejos y le mostraremos ventajas que definitivamente le facilitarán la situación.
 
 ¿Es usted un jefe de equipo y se pregunta cuál es la mejor manera de organizar sus reuniones semanales desde su oficina en casa? Echa un vistazo [aquí, ¡hemos]({{< relref "templates/projects/team-meetings" >}}) desarrollado la plantilla adecuada para ti!
 
