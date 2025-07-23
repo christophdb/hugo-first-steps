@@ -1,13 +1,15 @@
 ---
 title: 'Travel expense report: everything you need to know'
+description: "Whether it's a business trip lasting several days, a meeting with a distant customer or a trip to a trade fair - business trips are part of everyday life for many employees. In the following article, you will not only learn what a travel expense report is, but also receive valuable tips on what you should pay attention to when preparing it."
 date: 2025-01-17
-lastmod: '2025-01-17'
-coverImage: 'guests-with-suitcases-hotel-reception.jpg'
-author: 'nsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Invoicing'
 url: '/travel-expense-report'
 aliases:
     - /reisekostenabrechnung
-color: '#eeeeee'
+color: '#006198'
 seo:
     title: 'Travel expense report: Everything important for companies & travelers'
     description: 'Transparent expense reports for your company. This guide explains reimbursable expenses and how to use SeaTable for efficiency.'

@@ -2,11 +2,15 @@
 title: "Comment faire : Comment créer un plan d'action pour toute l'année - SeaTable"
 date: 2021-05-04
 lastmod: '2023-07-11'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Planification marketing'
+    - 'Gestion de projet'
 url: '/fr/comment-faire-plan-actions'
 aliases:
     - /fr/how-to-massnahmenplan
-color: '#eeeeee'
+color: '#6aaaea'
 seo:
     title:
     description:

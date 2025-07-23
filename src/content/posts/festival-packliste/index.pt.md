@@ -1,12 +1,15 @@
 ---
 title: 'Lista de bagagem para o festival: Artigos indispensáveis para uma experiência inesquecível'
+description: 'Quando a época dos festivais começa e a expetativa de boa música e de experiências partilhadas com amigos aumenta, é altura de voltar a fazer as malas. Para garantir que a sua visita ao festival corre bem e não é ensombrada por problemas e aborrecimentos, é crucial uma preparação minuciosa. Quer esteja a preparar-se para o lendário Wacken, para o emocionante Rock am Ring ou para o enérgico Hurricane Festival - há alguns itens indispensáveis em todas as listas de embalagem de festivais.'
 date: 2024-03-13
-lastmod: '2024-07-26'
-author: 'nsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana e lazer'
 url: '/pt/lista-itens-festival'
 aliases:
     - /pt/festival-packliste
-color: '#eeeeee'
+color: '#74aa84'
 seo:
     title:
     description:

@@ -1,12 +1,15 @@
 ---
 title: 'Com estes 4 passos para uma gestão perfeita do produto - SeaTable'
 date: 2021-04-29
-lastmod: '2023-07-11'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Gestão de projectos'
+    - 'Planeamento de marketing'
 url: '/pt/gestao-produtos'
 aliases:
     - /pt/produktmanagement
-color: '#eeeeee'
+color: '#6b64c4'
 seo:
     title:
     description:

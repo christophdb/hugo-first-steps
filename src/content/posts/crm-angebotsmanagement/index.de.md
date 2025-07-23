@@ -2,10 +2,13 @@
 title: 'CRM: Von der Kundenerfassung bis zum Angebot'
 description: ''
 date: 2021-07-22
-lastmod: '2023-07-11'
-author: 'pbr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Datenmanagement & Visualisierung'
+    - 'Vertriebsplanung'
 url: '/de/crm-angebotsmanagement'
-color: '#eeeeee'
+color: '#fdce05'
 seo:
     title: ''
     description: ''

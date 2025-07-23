@@ -2,10 +2,12 @@
 title: 'Indirekter Einkauf: einfach und kostensparend mit SeaTable'
 description: ''
 date: 2021-11-19
-lastmod: '2023-07-11'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Beschaffung & Logistik'
 url: '/de/indirekter-einkauf'
-color: '#eeeeee'
+color: '#f3919b'
 seo:
     title: ''
     description: ''

@@ -2,10 +2,13 @@
 title: 'Aufgabenmanagement: Ressourcen optimal planen und nutzen'
 description: 'Entdecken Sie effektives Aufgabenmanagement für erfolgreiches Projektmanagement. Lernen Sie Tipps zur optimalen Aufgabenverwaltung kennen.'
 date: 2021-09-23
-lastmod: '2025-02-28'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Projektmanagement'
+    - 'Workflows'
 url: '/de/aufgabenverwaltung'
-color: '#eeeeee'
+color: '#317b7a'
 seo:
     title: Perfekte Aufgabenverwaltung im Projektmanagement
     description: Entdecken Sie effektives Aufgabenmanagement für erfolgreiches Projektmanagement. Lernen Sie Tipps zur optimalen Aufgabenverwaltung kennen.

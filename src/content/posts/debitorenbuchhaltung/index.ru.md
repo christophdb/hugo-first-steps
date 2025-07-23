@@ -6,7 +6,7 @@ author: 'pbr'
 url: '/ru/upravlenie-debitorami'
 aliases:
     - /ru/debitorenbuchhaltung
-color: '#eeeeee'
+color: '#7cbaef'
 seo:
     title:
     description:

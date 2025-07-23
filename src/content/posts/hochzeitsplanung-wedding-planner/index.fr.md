@@ -2,11 +2,14 @@
 title: 'Organiser un mariage parfait avec SeaTable - SeaTable'
 date: 2021-07-22
 lastmod: '2023-07-11'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Vie Quotidienne'
 url: '/fr/organisation-mariage-wedding-planner'
 aliases:
     - /fr/hochzeitsplanung-wedding-planner
-color: '#eeeeee'
+color: '#c6ae94'
 seo:
     title:
     description:

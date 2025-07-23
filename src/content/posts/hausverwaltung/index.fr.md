@@ -1,14 +1,18 @@
 ---
 title: "La gestion immobilière en toute simplicité : Gérer l'immobilier de manière professionnelle"
+description: "Si vous louez des biens immobiliers, vous devez vous assurer que vous disposez d'une bonne gestion immobilière, qu'il s'agisse d'une location privée ou d'une location à grande échelle. Des factures de services publics à la communication avec les locataires et les prestataires de services : les tâches de la gestion immobilière sont nombreuses et variées. Dans cet article, vous apprendrez à suivre l'ensemble des biens, des locataires, des paiements, des documents et des tâches."
 date: 2023-11-03
-lastmod: '2023-11-06'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Finances'
 url: '/fr/gestion-immeuble'
 aliases:
     - /fr/hausverwaltung
 seo:
     title:
     description:
+color: '#75b389'   
 ---
 
 La **location de biens immobiliers** est une activité rentable, tant pour les particuliers que pour les entreprises et les communes. Si vous gérez des biens immobiliers, vous devez toutefois garantir le bon fonctionnement de la **gestion immobilière**, que vous louiez des appartements individuels à titre privé ou à grande échelle avec une entreprise.

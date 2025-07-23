@@ -1,12 +1,14 @@
 ---
 title: 'Запуск продукта - гарантированная работа | SeaTable'
 date: 2020-09-24
-lastmod: '2022-06-13'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Планирование маркетинга'
 url: '/ru/zapusk-produkta'
 aliases:
     - /ru/produktlaunch
-color: '#eeeeee'
+color: '#d21d0d'
 seo:
     title:
     description:

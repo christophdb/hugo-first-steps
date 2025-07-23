@@ -1,12 +1,16 @@
 ---
 title: 'Gestión de tareas: optimizar la planificación y el uso de los recursos'
+description: 'Descubra una gestión eficaz de las tareas para gestionar con éxito los proyectos. Aprenda consejos para una gestión óptima de las tareas.'
 date: 2021-09-23
-lastmod: '2025-02-28'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestión de proyectos'
+    - 'Workflows'
 url: '/es/gestion-tareas'
 aliases:
     - /es/aufgabenverwaltung
-color: '#eeeeee'
+color: '#317b7a'
 seo:
     title:
     description:

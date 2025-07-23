@@ -5,7 +5,7 @@ date: 2021-08-26
 lastmod: '2023-07-11'
 author: 'pbr'
 url: '/de/debitorenbuchhaltung'
-color: '#eeeeee'
+color: '#7cbaef'
 seo:
     title: ''
     description: ''

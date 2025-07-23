@@ -2,10 +2,12 @@
 title: 'Reisekostenabrechnung: Alles, was Sie wissen müssen'
 description: 'Ob mehrtägige Geschäftsreise, ein Meeting mit einem weit entfernten Kunden oder die Fahrt zur Messe – Dienstreisen gehören für viele Arbeitnehmer zum Alltag. Im folgenden Artikel erfahren Sie nicht nur, was eine Reisekostenabrechnung ist, sondern erhalten auch wertvolle Tipps, worauf Sie bei der Erstellung achten sollten.'
 date: 2025-01-17
-lastmod: '2025-01-17'
-author: 'nsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Rechnungswesen'
 url: '/de/reisekostenabrechnung'
-color: '#eeeeee'
+color: '#006198'
 seo:
     title: 'Reisekostenabrechnung: Alles Wichtige für Firmen & Reisende'
     description: 'Transparente Reisekostenabrechnungen für Ihr Unternehmen. Dieser Guide erklärt erstattungsfähige Kosten und die Nutzung von SeaTable für Effizienz.'

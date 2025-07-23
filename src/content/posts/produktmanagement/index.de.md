@@ -1,11 +1,16 @@
 ---
 title: 'Mit diesen 4 Schritten zum perfekten Produktmanagement'
 description: ''
+categories:
+    - 'best-practice'
+tags: 
+    - 'Projektmanagement'
+    - 'Marketingplanung'
 date: 2021-04-29
 lastmod: '2023-07-11'
 author: 'ott'
 url: '/de/produktmanagement'
-color: '#eeeeee'
+color: '#6b64c4'
 seo:
     title: ''
     description: ''

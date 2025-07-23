@@ -1,11 +1,13 @@
 ---
 title: 'Marketingkampagnen planen: 6 Praxis-Tipps zur einfachen Planung'
 description: 'Wer sein Unternehmen richtig nach vorne bringen und sich deutlich vom Wettbewerb absetzen will, braucht vor allem eines: ein extrem gutes Marketing. Wie gut dieses tatsächlich ist, hängt von der jeweiligen Marketingkampagne und deren Planung ab. Und damit stellen sich direkt mehrere Fragen: Was ist überhaupt eine Marketingkampagne? Wann ist sie gut und wann nicht? Und wie lassen sich Umsetzung und Planung der Marketingkampagne optimal vereinen?'
+categories:
+    - 'best-practice'
+tags:
+    - 'Marketingplanung'
 date: 2022-08-05
-lastmod: '2022-07-25'
-author: 'rdb'
 url: '/de/marketing-kampagne-planung'
-color: '#eeeeee'
+color: '#ea817a'
 seo:
     title: 'Tipps für die Planung Ihrer Marketingkampagne'
     description: 'Eine Marketingkampagne ist nur so gut wie ihre Planung – hier finden Sie 6 Tipps für die perfekte Vorbereitung!'

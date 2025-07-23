@@ -1,12 +1,15 @@
 ---
 title: 'Requisitos legales para el registro horario de sus empleados - SeaTable'
+description: "En este artículo, le mostraremos cómo registrar el tiempo de sus empleados en SeaTable de una manera que cumpla la ley y con el mínimo esfuerzo."
 date: 2023-04-20
-lastmod: '2023-04-25'
-author: 'kgr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Administración de RR.HH.'
 url: '/es/control-horas-trabajo'
 aliases:
     - /es/arbeitszeiterfassung
-color: '#eeeeee'
+color: '#fdd5d4'
 seo:
     title:
     description:

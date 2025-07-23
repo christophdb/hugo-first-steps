@@ -1,13 +1,14 @@
 ---
 title: 'Festival packing list: Must-haves for an unforgettable experience'
+description: "When the festival season begins and the anticipation of good music and shared experiences with friends increases, it's time to pack your bags again. To ensure that your festival visit runs smoothly and is not overshadowed by problems and annoyances, thorough preparation is crucial. Whether you're getting ready for the legendary Wacken, the thrilling Rock am Ring or the energetic Hurricane Festival - there are a few must-haves on every festival packing list."
 date: 2024-03-13
-lastmod: '2024-07-26'
-coverImage: 'group-friends-having-fun-together.jpg'
-author: 'nsc'
-url: '/festival-packing-list'
+categories:
+    - 'best-practice'
+tags:
+    - 'Everyday Life & Leisure'
 aliases:
     - /festival-packliste
-color: '#eeeeee'
+color: '#74aa84'
 seo:
     title:
     description:

@@ -1,12 +1,15 @@
 ---
 title: 'Lista de equipaje para el festival: Lo imprescindible para una experiencia inolvidable'
+description: 'Cuando comienza la temporada de festivales y aumenta la expectación por la buena música y las experiencias compartidas con los amigos, es hora de volver a hacer las maletas. Para asegurarse de que su visita a un festival transcurre sin contratiempos y no se ve ensombrecida por problemas y molestias, es fundamental una preparación minuciosa. Tanto si se prepara para el legendario Wacken, como para el emocionante Rock am Ring o el enérgico Hurricane Festival, hay algunas cosas imprescindibles en la lista de equipaje de todo festival.'
 date: 2024-03-13
-lastmod: '2024-07-26'
-author: 'nsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana y ocio'
 url: '/es/lista-empacar-festival'
 aliases:
     - /es/festival-packliste
-color: '#eeeeee'
+color: '#74aa84'
 seo:
     title:
     description:

@@ -1,12 +1,15 @@
 ---
 title: 'Como fazer: Como criar um plano de acção para o ano inteiro - SeaTable'
 date: 2021-05-04
-lastmod: '2023-07-11'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestão de projectos'
+    - 'Planeamento de marketing'
 url: '/pt/como-fazer-plano-acoes'
 aliases:
     - /pt/how-to-massnahmenplan
-color: '#eeeeee'
+color: '6aaaea'
 seo:
     title:
     description:

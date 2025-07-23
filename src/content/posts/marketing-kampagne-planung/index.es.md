@@ -1,12 +1,15 @@
 ---
 title: 'Consejos para planificar su campaña de marketing'
+description: "Si quiere impulsar realmente su empresa y destacar entre la competencia, necesita sobre todo una cosa: un marketing extremadamente bueno. Lo bueno que sea esto en realidad depende de la respectiva campaña de marketing y de su planificación. Y esto plantea directamente varias preguntas: ¿Qué es una campaña de marketing en cualquier caso? ¿Cuándo es buena y cuándo no lo es? ¿Y cómo pueden combinarse de forma óptima la ejecución y la planificación de la campaña de marketing?"
+categories:
+    - 'best-practice'
+tags:
+    - 'Planificación de marketing'
 date: 2022-08-05
-lastmod: '2022-07-25'
-author: 'rdb'
 url: '/es/planificacion-campamentos-marketing'
 aliases:
     - /es/marketing-kampagne-planung/
-color: '#eeeeee'
+color: '#ea817a'
 seo:
     title:
     description:

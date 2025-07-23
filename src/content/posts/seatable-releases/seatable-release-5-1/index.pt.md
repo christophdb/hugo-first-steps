@@ -1,10 +1,10 @@
 ---
 title: 'SeaTable 5.1: Mais funções/conveniência no App Builder e Big Data'
 date: 2024-11-08
-lastmod: '2024-11-08'
-author: 'rdb'
+categories:
+    - 'product-features'
 url: '/pt/seatable-release-5-1'
-color: '#eeeeee'
+color: '#017b4a'
 seo:
     title:
     description:

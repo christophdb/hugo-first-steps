@@ -2,13 +2,14 @@
 title: "Legal requirements for recording your employees' time"
 description: "In this article, we will show you how to record your employees' time in SeaTable in a legally compliant manner and with minimal effort."
 date: 2023-04-20
-lastmod: '2023-04-25'
-coverImage: 'pexels-jeshootscom-714701-scaled.jpg'
-author: 'kgr'
+categories:
+    - 'best-practice'
+tags:
+    - 'HR Administration'
 url: '/time-tracking'
 aliases:
     - /arbeitszeiterfassung
-color: '#eeeeee'
+color: '#fdd5d4'
 seo:
     title:
     description:

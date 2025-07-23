@@ -1,12 +1,15 @@
 ---
 title: 'Базы данных - 5 преимуществ перед простыми таблицами'
 date: 2021-03-30
-lastmod: '2024-03-22'
-author: 'cdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Когда Excel уже недостаточно'
+    - 'Управление данными и визуализация'
 url: '/ru/preimushchestva-baz-dannyh'
 aliases:
     - /ru/vorteile-von-datenbanken
-color: '#eeeeee'
+color: '#d4ad2a'
 seo:
     title:
     description:

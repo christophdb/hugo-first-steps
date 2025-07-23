@@ -2,10 +2,12 @@
 title: 'Produktlaunch- so funktioniert es garantiert'
 description: ''
 date: 2020-09-24
-lastmod: '2022-06-13'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Marketingplanung'
 url: '/de/produktlaunch'
-color: '#eeeeee'
+color: '#d21d0d'
 seo:
     title: 'Produktlaunch- so funktioniert es garantiert'
     description: 'Egal ob Start-up-Unternehmer, Produktmanager oder Produktteam innerhalb eines großen Unternehmens. Testen Sie unser Produktlaunch Template!'

@@ -2,10 +2,12 @@
 title: 'Rechtliche Vorgaben zur Zeiterfassung Ihrer Mitarbeiter'
 description: 'In diesem Artikel zeigen wir Ihnen, wie die Zeiterfassung Ihrer Mitarbeiter rechtssicher und mit minimalem Aufwand in SeaTable erfolgen kann.'
 date: 2023-04-20
-lastmod: '2023-04-25'
-author: 'kgr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Personalverwaltung'
 url: '/de/arbeitszeiterfassung'
-color: '#eeeeee'
+color: '#fdd5d4'
 seo:
     title: Rechtliche Vorgaben zur Zeiterfassung Ihrer Mitarbeiter
     description: In diesem Artikel zeigen wir Ihnen, wie die Zeiterfassung Ihrer Mitarbeiter rechtssicher und mit minimalem Aufwand in SeaTable erfolgen kann.

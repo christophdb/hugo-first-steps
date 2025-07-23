@@ -2,10 +2,13 @@
 title: 'How to: Wie Sie einen Maßnahmenplan für das ganze Jahr erstellen'
 description: ''
 date: 2021-05-04
-lastmod: '2023-07-11'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Projektmanagement'
+    - 'Marketingplanung'
 url: '/de/how-to-massnahmenplan'
-color: '#eeeeee'
+color: '#6aaaea'
 seo:
     title: ''
     description: ''

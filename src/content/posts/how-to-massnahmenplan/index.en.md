@@ -3,11 +3,15 @@ title: 'How to: How to create an action plan for the whole year - SeaTable'
 date: 2021-05-04
 lastmod: '2023-07-11'
 coverImage: 'pexels-breakingpic-3299.jpg'
-author: 'ott'
+categories:
+    - 'best-practice'
+tags:
+    - 'Marketing Planning'
+    - 'Project Management'
 url: '/how-to-action-plan'
 aliases:
     - /how-to-massnahmenplan
-color: '#eeeeee'
+color: '#6aaaea'
 seo:
     title:
     description:

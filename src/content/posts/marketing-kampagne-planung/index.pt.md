@@ -1,12 +1,15 @@
 ---
 title: 'Dicas para planear a sua campanha de marketing'
+description: "Se quer realmente fazer crescer o seu negócio e destacar-se da concorrência, precisa de uma coisa acima de tudo: um marketing extremamente eficaz. A qualidade deste marketing depende da campanha de marketing e do seu planeamento. Isto levanta uma série de questões: o que é uma campanha de marketing? Quando é que é boa e quando é que não é? E como é que a execução e o planeamento da campanha de marketing podem ser combinados da melhor forma?"
+categories:
+    - 'best-practice'
+tags:
+    - 'Planeamento de marketing'
 date: 2022-08-05
-lastmod: '2022-07-25'
-author: 'rdb'
 url: '/pt/planejamento-campanha-marketing'
 aliases:
     - /pt/marketing-kampagne-planung
-color: '#eeeeee'
+color: '#ea817a'
 seo:
     title:
     description:

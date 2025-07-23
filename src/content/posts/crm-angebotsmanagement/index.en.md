@@ -1,13 +1,15 @@
 ---
 title: 'CRM: From customer registration to the offer - SeaTable'
 date: 2021-07-22
-lastmod: '2023-07-11'
-coverImage: 'crm-product-catalog-offers-preview.jpg'
-author: 'pbr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Data Management & Visualisation'
+    - 'Sales Planning'
 url: '/crm-quote-management'
 aliases:
     - /crm-angebotsmanagement
-color: '#eeeeee'
+color: '#fdce05'
 seo:
     title:
     description:

@@ -1,12 +1,15 @@
 ---
 title: 'CRM: Desde o registo do cliente até à oferta - SeaTable'
 date: 2021-07-22
-lastmod: '2023-07-11'
-author: 'pbr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestão e visualização de dados'
+    - 'Planejamento de vendas'
 url: '/pt/crm-gestao-propostas'
 aliases:
     - /pt/crm-angebotsmanagement
-color: '#eeeeee'
+color: '#fdce05'
 seo:
     title:
     description:
