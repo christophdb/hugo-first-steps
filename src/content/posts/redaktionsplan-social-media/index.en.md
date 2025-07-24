@@ -1,13 +1,15 @@
 ---
 title: 'Keeping an overview with an editorial plan for social media'
+description: 'To achieve measurable success in social media, you need to publish new content continuously. And often several times a week for different channels. You need to post interesting and entertaining content on time. A social media plan will help you implement this. Read this article to find out how to get off to a successful start with such an editorial plan.'
 date: 2024-02-07
-lastmod: '2025-01-17'
-coverImage: 'Social-Media-Planung-Vorlage_AdobeStock_197682814_bearbeitet.jpg'
-author: 'rdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Content Planning'
 url: '/social-media-editorial-calendar'
 aliases:
     - /reisekostenabrechnung
-color: '#eeeeee'
+color: '#cc0512'
 seo:
     title:
     description:

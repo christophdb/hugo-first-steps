@@ -1,15 +1,19 @@
 ---
 title: 'Boa gestão da oferta para um melhor desempenho de vendas'
+description: 'Uma coisa é crucial para um trabalho de vendas bem sucedido: a gestão da oferta. Mas o que é que é importante aqui? Que erros não deve cometer em circunstância alguma? E o que é que o termo "gestão de orçamentos" significa realmente? As respostas a estas perguntas e a razão pela qual software útil e ferramentas online o podem ajudar significativamente na gestão de orçamentos podem ser encontradas neste artigo.'
 date: 2022-07-22
-lastmod: '2022-07-27'
-author: 'rdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestão e visualização de dados'
+    - 'Planejamento de vendas'
 url: '/pt/gestao-propostas'
 aliases:
     - /pt/angebotsmanagement
-color: '#eeeeee'
+color: '#66a7a3'
 seo:
-    title:
-    description:
+    title: 'Otimizar a gestão dos concursos - a solução informática'
+    description: 'Optimize a gestão das suas ofertas Automatize os processos de venda, gira os dados de forma centralizada e mantenha uma visão geral em todos os momentos.'
 ---
 
 Uma coisa é crucial para um trabalho de vendas bem sucedido: a **gestão da oferta**. Mas o que é importante aqui? Que erros não devem ser cometidos em circunstância alguma? E o que está por detrás do termo "gestão da oferta", afinal?

@@ -2,10 +2,13 @@
 title: '6 Tipps zu mehr Produktivität in Ihrem Remote-Team'
 description: ''
 date: 2021-10-07
-lastmod: '2023-07-11'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Digitale Transformation'
+    - 'Kollaboratives Arbeiten'
 url: '/de/remote-sales-teams'
-color: '#eeeeee'
+color: '#4b9480'
 seo:
     title: ''
     description: ''

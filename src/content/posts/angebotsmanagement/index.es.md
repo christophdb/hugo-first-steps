@@ -1,19 +1,19 @@
 ---
 title: 'Una buena gestión de la oferta para mejorar el rendimiento de las ventas'
-description: 'Una cosa es crucial para el éxito de la labor de ventas: la gestión de la oferta. Pero, ¿qué es importante aquí? ¿Qué errores no deben cometerse bajo ningún concepto? ¿Y qué significa realmente el término "gestión de ofertas"? En este artículo encontrará las respuestas a estas preguntas y las razones por las que un software y unas herramientas en línea útiles pueden ayudarle significativamente en la gestión de ofertas.'
+description: "Una cosa es crucial para el éxito de la labor de ventas: la gestión de la oferta. Pero, ¿qué es importante aquí? ¿Qué errores no deben cometerse bajo ningún concepto? ¿Y qué significa realmente el término 'gestión de ofertas'? En este artículo encontrará las respuestas a estas preguntas y las razones por las que un software y unas herramientas en línea útiles pueden ayudarle significativamente en su gestión de ofertas."
+date: 2022-07-22
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestión y visualización de datos'
+    - 'Planificación de ventas'
 seo:
     title: 'Optimizar la gestión de ofertas: la solución informática'
     description: 'Optimice la gestión de sus ofertas Automatice los procesos de venta, gestione los datos de forma centralizada y mantenga una visión de conjunto en todo momento.'
-date: 2022-07-22
-lastmod: '2022-07-27'
-author: 'rdb'
 url: '/es/gestion-ofertas'
 aliases:
     - /es/angebotsmanagement
-color: '#eeeeee'
-seo:
-    title:
-    description:
+color: '#66a7a3'
 ---
 
 Una cosa es crucial para el éxito de la labor de ventas: la **gestión de la oferta**. ¿Pero qué es lo importante aquí? ¿Qué errores no deben cometerse bajo ninguna circunstancia? ¿Y qué hay detrás del término "gestión de ofertas"?

@@ -1,20 +1,19 @@
 ---
 title: 'Good offer management for better sales performance'
-escription: 'One thing is crucial for successful sales work: offer management. But what is important here? What mistakes should not be made under any circumstances? And what does the term "quotation management" actually mean? The answers to these questions and why useful software and online tools can help you significantly with your quotation management can be found in this article.'
+description: "One thing is crucial for successful sales work: quotation management. But what is important here, what mistakes must not be made under any circumstances, and what does the term 'quotation management' really mean? In this article you will find the answers to these questions and the reasons why useful software and online tools can help you considerably in bid management."
+date: 2022-07-22
+categories:
+    - 'best-practice'
+tags:
+    - 'Data Management & Visualisation'
+    - 'Sales Planning'
 seo:
     title: 'Optimize quotation management - the software solution'
     description: 'Optimize your quotation management! Automate sales processes, manage data centrally and maintain an overview at all times'
-date: 2022-07-22
-lastmod: '2022-07-27'
-coverImage: 'Angebotsmanagement_AdobeStock_62533714.jpg'
-author: 'rdb'
 url: '/quote-management'
 aliases:
     - /angebotsmanagement
-color: '#eeeeee'
-seo:
-    title:
-    description:
+color: '#66a7a3'
 ---
 
 One thing is crucial for successful sales work: **offer management**. But what is important here? What mistakes should not be made under any circumstances? And what is behind the term "offer management" anyway?

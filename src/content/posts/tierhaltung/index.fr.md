@@ -1,11 +1,14 @@
 ---
 title: "Organiser l'élevage d'animaux - comment garder votre animal de compagnie de manière adaptée à son espèce"
+description: "Un animal de compagnie vous apporte de la joie, est une âme sœur ou est simplement agréable à regarder. Mais l'élevage d'animaux implique également du travail, car vous vous engagez pour une longue période et devez tenir compte des besoins de votre animal de compagnie. Nous vous expliquons ici comment organiser un élevage adapté et quelles sont les conditions que vous et votre foyer devez remplir pour offrir un bon foyer à un animal."
 date: 2024-01-30
-lastmod: '2024-01-30'
-author: 'lsc'
-url: '/fr/elevage-animaux'
+categories:
+    - 'best-practice'
+tags:
+    - 'Vie Quotidiennex'
 aliases:
     - /fr/to-do-liste-online
+color: '#f5c119'
 seo:
     title:
     description:

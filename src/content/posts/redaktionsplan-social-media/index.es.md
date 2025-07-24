@@ -1,12 +1,15 @@
 ---
 title: 'Mantener una visión de conjunto con un plan editorial para las redes sociales'
+description: 'Para lograr un éxito mensurable en los medios sociales, necesita publicar nuevos contenidos continuamente. Y a menudo varias veces a la semana para diferentes canales. Necesita publicar contenidos interesantes y entretenidos a tiempo. Un plan de medios sociales le ayudará a ponerlo en práctica. Lea este artículo para saber cómo empezar con éxito con un plan editorial de este tipo.'
 date: 2024-02-07
-lastmod: '2025-01-17'
-author: 'rdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Planificación de contenidos'
 url: '/es/calendario-editorial-social-media'
 aliases:
     - /es/reisekostenabrechnung
-color: '#eeeeee'
+color: '#cc0512'
 seo:
     title:
     description:

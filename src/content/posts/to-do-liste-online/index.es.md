@@ -1,11 +1,16 @@
 ---
 title: 'Crear una lista de tareas en línea con una aplicación'
+description: 'Crear y gestionar una lista de tareas pendientes en línea con una aplicación tiene muchas ventajas. Esto se debe a que una lista de tareas pendientes le ayuda a gestionar eficazmente sus tareas tanto en su vida privada como en su día a día y a no olvidar nada en el estresante día a día. Lea este artículo para averiguar por qué debería utilizar una plantilla para su lista de tareas pendientes y qué aplicación es la mejor para ello.'
 date: 2024-04-03
-lastmod: '2024-04-03'
-author: 'kgr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Gestión de proyectos'
+    - 'Herramientas y plugins'
 url: '/es/lista-tareas-online'
 aliases:
     - /es/to-do-liste-online
+color: '#ca9fb9'
 seo:
     title:
     description:

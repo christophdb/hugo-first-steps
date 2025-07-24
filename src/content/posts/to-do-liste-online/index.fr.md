@@ -1,8 +1,12 @@
 ---
 title: "Créer une liste de choses à faire avec l'application en ligne"
+description: "Créer et gérer une liste de choses à faire en ligne avec une application présente de nombreux avantages. En effet, une liste de choses à faire vous aide à gérer efficacement vos tâches, tant dans votre vie privée que dans votre travail quotidien, et à ne rien oublier dans le stress de la vie de tous les jours. Découvrez dans cet article pourquoi vous devriez utiliser un modèle pour votre liste de choses à faire et quelle application est la plus appropriée pour cela."
 date: 2024-04-03
-lastmod: '2024-04-03'
-author: 'kgr'
+categories:
+    - 'best-practice'
+tags:
+    - 'Outils & plugins'
+    - 'Gestion de projet'
 url: '/fr/liste-taches-en-ligne'
 aliases:
     - /fr/to-do-liste-online

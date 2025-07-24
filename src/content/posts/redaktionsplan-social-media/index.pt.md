@@ -1,12 +1,15 @@
 ---
 title: 'Manter uma visão geral com um plano editorial para as redes sociais'
+description: "Para alcançar um sucesso mensurável nas redes sociais, precisa de publicar novos conteúdos continuamente. E, muitas vezes, várias vezes por semana em diferentes canais. Tem de publicar conteúdos interessantes e divertidos a tempo e horas. Um plano para as redes sociais ajudá-lo-á a pôr isto em prática. Leia este artigo para saber como começar com sucesso com um plano editorial deste tipo."
 date: 2024-02-07
-lastmod: '2025-01-17'
-author: 'rdb'
+categories:
+    - 'best-practice'
+tags:
+    - 'Planeamento de conteúdos'
 url: '/pt/calendario-editorial-midia-social'
 aliases:
     - /pt/reisekostenabrechnung
-color: '#eeeeee'
+color: '#cc0512'
 seo:
     title:
     description:

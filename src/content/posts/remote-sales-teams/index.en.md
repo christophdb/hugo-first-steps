@@ -1,11 +1,13 @@
 ---
 title: '6 tips to increase productivity in your remote team - SeaTable'
 date: 2021-10-07
-lastmod: '2023-07-11'
-coverImage: 'corona-5124524_1920.jpg'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Collaborative Work'
+    - 'Digital Transformation'
 url: '/remote-sales-teams'
-color: '#eeeeee'
+color: '#4b9480'
 seo:
     title:
     description:

@@ -1,11 +1,15 @@
 ---
 title: 'Organización de la cría de animales: cómo mantener a su mascota de forma adecuada a su especie'
+description: "Una mascota le aporta alegría, es un alma gemela o simplemente es hermosa a la vista. Sin embargo, tener un animal de compañía también implica trabajo, porque se compromete durante mucho tiempo y debe tener en cuenta las necesidades de su mascota. Aquí puede averiguar cómo organizar la tenencia de un animal de compañía adecuado a su especie y qué condiciones deben cumplir usted y su hogar para poder ofrecer un buen hogar a un animal."
 date: 2024-01-30
-lastmod: '2024-01-30'
-author: 'lsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Vida cotidiana y ocio'
 url: '/es/ganaderia'
 aliases:
     - /es/to-do-liste-online
+color: '#f5c119'
 seo:
     title:
     description:

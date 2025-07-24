@@ -1,12 +1,15 @@
 ---
 title: '6 советов по повышению производительности труда в вашей удаленной команде - SeaTable'
 date: 2021-10-07
-lastmod: '2023-07-11'
-author: 'rbu'
+categories:
+    - 'best-practice'
+tags:
+    - 'Цифровая трансформация'
+    - 'совместная работа'
 url: '/ru/udalennye-komandy-prodazh'
 aliases:
     - /ru/remote-sales-teams
-color: '#eeeeee'
+color: '#4b9480'
 seo:
     title:
     description:
