@@ -1,8 +1,12 @@
 ---
 title: 'Cadeaux de Noël pour les employés et les clients - 24 idées'
+description: "Noël approche et vous souhaitez offrir à vos employés, partenaires commerciaux ou clients une petite attention en signe de reconnaissance. Mais quels pourraient être les cadeaux de Noël appropriés pour les employés et les clients ? Il faut faire preuve d'imagination et de doigté ! Découvrez dans cet article quels cadeaux de Noël feront plaisir à vos collaborateurs et clients et quel budget vous pouvez espérer."
 date: 2024-10-28
-lastmod: '2024-11-20'
-author: 'lsc'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Relation Client'
+color: '#fc756f'
 url: '/fr/cadeaux-noel-pour-collaborateurs-et-clients'
 aliases:
     - /fr/weihnachtsgeschenke-fuer-mitarbeiter-und-kunden

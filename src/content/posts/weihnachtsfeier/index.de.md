@@ -2,10 +2,12 @@
 title: 'Weihnachtsfeier 2025 – Ideen für ein einzigartiges Firmenevent'
 description: 'Bald ist es wieder so weit! Während der ein oder andere noch dem vergangenen Sommer hinterhertrauert, erinnern die ersten Lebkuchen und Plätzchen in den Supermarktregalen bereits an die kommende Weihnachtszeit. Damit Ihre Weihnachtsfeier ein voller Erfolg wird, können Sie nicht früh genug mit der Planung beginnen! In diesem Artikel bekommen Sie wertvolle Tipps und viele abwechslungsreiche Ideen für Ihre nächste Firmenweihnachtsfeier.'
 date: 2023-08-25
-lastmod: '2025-07-09'
-author: 'nsc2'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Eventmanagement'
+color: '#98cddf'
 url: '/de/weihnachtsfeier'
-color: '#eeeeee'
 seo:
     title: 'Weihnachtsfeier 2025 – Ideen für ein einzigartiges Firmenevent'
     description: 'Mit diesen abwechslungsreichen Ideen wird Ihre Weihnachtsfeier zu einem unvergesslichen Firmenevent mit Ihren Kollegen.'

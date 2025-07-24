@@ -1,8 +1,13 @@
 ---
 title: 'Gestión del conocimiento: cómo hacer que el conocimiento sea utilizable'
+description: "El conocimiento es uno de los recursos más importantes de cualquier empresa. No en vano ya se menciona el conocimiento como factor de producción junto a la tierra, el capital y la mano de obra cuando se trata del éxito de una empresa. Pero, ¿qué hace falta para que los conocimientos de sus empleados estén a disposición de los demás en su empresa? La respuesta: ¡un sistema de gestión del conocimiento que funcione! Descubra aquí cómo puede gestionar con éxito el conocimiento en su empresa y en qué debe fijarse a la hora de seleccionar un sistema de gestión del conocimiento adecuado."
 date: 2024-08-09
-lastmod: '2024-08-09'
-author: 'lsc'
+categories:
+    - 'best-practice'
+tags:
+    - 'Herramientas y plugins'
+    - 'Trabajo en colaboración'
+color: '#bae3e6'
 url: '/es/gestion-del-conocimiento'
 aliases:
     - /es/wissensmanagement

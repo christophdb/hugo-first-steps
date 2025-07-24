@@ -1,12 +1,15 @@
 ---
 title: "Fête de Noël 2025 - Des idées pour un événement d'entreprise unique"
+description: "C'est bientôt l'heure de la rentrée ! Alors que certains regrettent encore l'été dernier, les premiers pains d'épices et biscuits dans les rayons des supermarchés évoquent déjà la période de Noël à venir. Pour que votre fête de Noël soit un succès, vous ne pourrez jamais commencer à l'organiser assez tôt ! Dans cet article, vous trouverez de précieux conseils et de nombreuses idées variées pour votre prochaine fête de Noël d'entreprise."
 date: 2023-08-25
-lastmod: '2025-07-09'
-author: 'nsc2'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Gestion evenements'
+color: '#98cddf'
 url: '/fr/fete-noel'
 aliases:
     - /fr/weihnachtsfeier
-color: '#eeeeee'
 seo:
     title:
     description:

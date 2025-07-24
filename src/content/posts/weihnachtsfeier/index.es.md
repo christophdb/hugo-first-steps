@@ -1,12 +1,15 @@
 ---
 title: 'Fiesta de Navidad 2025: ideas para un evento de empresa único'
+description: "¡Pronto volverá a ser esa época! Mientras algunas personas todavía están de luto por el verano pasado, los primeros panes de jengibre y galletas en los estantes de los supermercados ya nos recuerdan la próxima temporada navideña. Para asegurarse de que su fiesta de Navidad sea todo un éxito, ¡no puede empezar a planificarla con suficiente antelación! Este artículo le dará valiosos consejos y muchas ideas variadas para su próxima fiesta de Navidad de empresa."
 date: 2023-08-25
-lastmod: '2025-07-09'
-author: 'nsc2'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Gestión de eventos'
+color: '#98cddf'
 url: '/es/fiesta-navidad'
 aliases:
     - /es/weihnachtsfeier
-color: '#eeeeee'
 seo:
     title:
     description:
