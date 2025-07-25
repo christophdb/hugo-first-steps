@@ -1,9 +1,9 @@
 ---
-title: 'Bewerbemanagement mit SeaTable'
+title: 'Bewerbermanagement mit SeaTable'
 description: ''
 seo:
-    title:
-    description: 
+    title: 'Digitalisieren Sie Ihr Bewerbermanagement im Unternehmen'
+    description: 'Mit klaren Prozessen und smarter Organisation wird Bewerbermanagement effizienter – ideal für kleine und große HR-Abteilungen.'
 date: '2025-07-22'
 url: '/de/bewerbermanagement/'
 draft: true
@@ -63,7 +63,7 @@ sections:
       weight: 7
       title: Ihre DSGVO-konforme Bewerbermanagement Software
       subtitle: Sicherheit und Datenschutz
-      text: "Datensicherheit hat bei SeaTable oberste Priorität. Die Software ist DSGVO-konform und bietet Ihnen die Wahl zwischen einer Nutzung on-premises oder in der Cloud mit Serverstandort in Deutschland. Zusätzlich können Sie individuell einstellen, wer Zugriff auf welche Daten hat, sodass sensible Informationen bestens geschützt sind."
+      text: "Datensicherheit hat bei SeaTable oberste Priorität. Die Software ist **DSGVO-konform** und bietet Ihnen die Wahl zwischen einer Nutzung on-premises oder in der **Cloud mit Serverstandort in Deutschland**. Zusätzlich können Sie individuell einstellen, wer Zugriff auf welche Daten hat, sodass sensible Informationen bestens geschützt sind."
       items:
       - icon: terminal
         headline: On-Premises Lösung
@@ -145,7 +145,7 @@ sections:
           text: 'Einfach registrieren und loslegen: SeaTable Cloud ist sofort einsatzbereit. Richten Sie SeaTable so ein, wie Sie es brauchen – ohne Ihre IT zu benötigen.'
           icon: code  
         - headline: 'Statistiken und Dashboards'
-          text: Analysieren Sie Ihre HR Prozesse direkt in SeaTable. Mit aussagekräftigen Statistiken und Reportings können Sie Ihr Bewerbermanagement kontinuierlich optimieren.
+          text: Analysieren Sie Ihre [HR Prozesse]({{< relref "pages/industry-solutions/hr" >}})direkt in SeaTable. Mit aussagekräftigen Statistiken und Reportings können Sie Ihr Bewerbermanagement kontinuierlich optimieren.
           icon: chart-line
 
     - name: "banner-2"
@@ -167,7 +167,7 @@ sections:
           - q: 'Warum brauche ich ein extra Tool, wenn ich mein Bewerbermanagement mit Excel machen kann?'
             a: 'Auch wenn Ihnen im Bewerbermanagement eine Excel Vorlage kostenlos zur Verfügung steht, macht es Sinn einen Bewerbermanagement Software Vergleich zu starten. Excel hat in diesem Bereich weit nicht so viele Funktionen zu bieten wie andere, teils kostenlose Bewerbermanagement Tools.'
           - q: 'Wie kann ich meinen Bewerbermanagement Prozess optimieren?'
-            a: 'Wenn Sie nach einem umfassenden Leitfaden für Bewerbermanagement und Social Recruiting suchen, werden Sie in unserem [Blogbeitrag]({{< relref "posts/20250317-recruiting/" >}}) fündig. Dort erhalten Sie wertvolle Tipps und Strategien, wie Sie Ihre Bewerbermanagement optimieren können. '
+            a: 'Wenn Sie nach einem umfassenden Leitfaden für Bewerbermanagement und Social Recruiting suchen, werden Sie in unserem Blockbeitrag [Recruiting]({{< relref "posts/20250317-recruiting/" >}}) fündig. Dort erhalten Sie wertvolle Tipps und Strategien, wie Sie Ihre Bewerbermanagement optimieren können. '
           - q: 'Bietet SeaTable auch eine Free Version?'
             a: 'Ja, SeaTable Cloud kann im Free Abo als kostenlose Bewerbermanagement Software genutzt werden. Sie können dann schon nahezu alle Funktionen und Features nutzen, die Sie für ein effizientes und transparentes Bewerbermanagement brauchen. Wenn Sie erweiterte Funktionen und mehr Speicherplatz benötigen, können Sie jederzeit auf eine unserer kostengünstigen Premium-Versionen upgraden.'
           - q: 'Welche Bewerbermanagement-Software ist kostenlos und sicher?'
