@@ -5,7 +5,9 @@ date: 2021-05-20
 lastmod: '2023-07-11'
 author: 'cdb'
 url: '/de/die-seatable-cloud-wird-europaeischer'
-color: '#eeeeee'
+color: 'e86569'
+categories:
+    - 'product-feature'
 seo:
     title: ''
     description: ''
