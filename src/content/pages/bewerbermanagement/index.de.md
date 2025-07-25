@@ -6,12 +6,11 @@ seo:
     description: 'Mit klaren Prozessen und smarter Organisation wird Bewerbermanagement effizienter – ideal für kleine und große HR-Abteilungen.'
 date: '2025-07-22'
 url: '/de/bewerbermanagement/'
-draft: true
 
 sections:
     - name: hero-5
       weight: 1
-      title: 'Bewerbemanagement mit SeaTable'
+      title: 'Bewerbermanagement mit SeaTable'
       text: 'Eine intuitive Bewerbermanagement Software ist entscheidend, um Top-Talente zu gewinnen. Mit SeaTable als innovativem Tool sparen Sie Zeit und Kosten, optimieren Prozesse und verbessern Candidate Experience und Employer Branding. Absolut DSGVO-konform!'
       classes:
           - bg-white
@@ -34,13 +33,12 @@ sections:
       items:
         - text: zentrale Bewerberverwaltung
         - text: effizientes Talentmanagement
+        - text: kollaboratives Arbeiten in Echtzeit
         - text: integrierte Automatisierungen und Benachrichtigungen
-        - text: Webformulare und Benutzeroberfläche mit No-Code Universal App
+        - text: Webformulare und Frontend mit No-Code Universal App
         - text: 100 % DSGVO-konform
         - text: flexibel anpassbare Datenstruktur
-        - text: kollaboratives Arbeiten in Echtzeit
-        - text: als Cloud-Lösung oder On-Premises
-      image: /images/asana-alternative-1.png
+      image: /images/landing-page-bewerbermanagement-1.png
 
     - name: content-11
       weight: 5
@@ -48,15 +46,15 @@ sections:
       subtitle: Bewerbermanagement-Prozess
       items:
       - text: Mit SeaTable als Bewerbermanagement Software erfassen Sie alle Bewerberdaten zentral und übersichtlich. Über ein individuell gestaltbares und benutzerfreundliches Webformular sammeln Sie alle relevanten Informationen und Dokumente online. In einer klar strukturierten Datenbank haben sie alle Bewerbungen und Bewerber auf einen Blick. 
-      image: /images/asana-projektportfoliomanagement.jpg
+      image: /images/1 bewerbermanagement-zentrale-datenbank.jpg
 
     - name: content-11
       weight: 6
       title: Schnelle und einfache Bewerberauswahl
-      subtitle: Talentmanager
+      subtitle: Talentmanagement
       items:
       - text: Die Auswahl der passenden Talente wird mit SeaTable einfacher und effizienter. Dank cleverer Funktionen wie der Segmentierung und Filterung von Bewerbungen finden Sie gezielt die besten Kandidaten. Verschiedene Ansichten, Tabellen und Ebenen sorgen für optimale Übersichtlichkeit und ermöglichen eine perfekt organisierte Bewerberauswahl.
-      image: /images/asana-hr-1.jpg
+      image: /images/bewerbermanagement-talenmanagement.jpg
       image_position: left
 
     - name: "content-4"
@@ -87,18 +85,18 @@ sections:
     
     - name: 'content-8'
       weight: 8
-      title: Kostenlose HR Vorlagen in SeaTable
+      title: Kostenlose Vorlagen in SeaTable
       subtitle: Individuell anpassbare Templates
-      description: 'Mit den kostenlosen HR und Bewerbermanagement Vorlagen von Seatable können Sie ein individuelles Bewerbermanagement System nach Baukastenprinizip erstellen. Importieren Sie unsere Vorlagen mit einem Klick in Ihren SeaTable Account.'
+      description: 'Mit den HR und Bewerbermanagement Vorlagen von Seatable können Sie ein individuelles Bewerbermanagement System nach Baukastenprinizip erstellen. Importieren Sie unsere Vorlagen mit einem Klick in Ihren SeaTable Account.'
       items:
           - text: Arbeitszeiterfassung
-            image: /images/asana-projektmanagement.jpg
+            image: /images/bewerbermanagement-template-arbeitszeiterfassung.svg
             image_alt: ""
           - text: Personalrekrutierung
-            image: /images/ticketing-system-asana.jpg
+            image: /images/bewerbermanagement-template-personalrekrutierung.svg
             image_alt: ""
           - text: Mitarbeiter-Onboarding
-            image: /images/workshop-planner-asana.jpg
+            image: /images/bewerbermanagement-template-onboarding.svg
             image_alt: ""
       buttons:
         - label: Alle Vorlagen entdecken
@@ -167,7 +165,7 @@ sections:
           - q: 'Warum brauche ich ein extra Tool, wenn ich mein Bewerbermanagement mit Excel machen kann?'
             a: 'Auch wenn Ihnen im Bewerbermanagement eine Excel Vorlage kostenlos zur Verfügung steht, macht es Sinn einen Bewerbermanagement Software Vergleich zu starten. Excel hat in diesem Bereich weit nicht so viele Funktionen zu bieten wie andere, teils kostenlose Bewerbermanagement Tools.'
           - q: 'Wie kann ich meinen Bewerbermanagement Prozess optimieren?'
-            a: 'Wenn Sie nach einem umfassenden Leitfaden für Bewerbermanagement und Social Recruiting suchen, werden Sie in unserem Blockbeitrag [Recruiting]({{< relref "posts/20250317-recruiting/" >}}) fündig. Dort erhalten Sie wertvolle Tipps und Strategien, wie Sie Ihre Bewerbermanagement optimieren können. '
+            a: 'Wenn Sie nach einem umfassenden Leitfaden für Bewerbermanagement und Social Recruiting suchen, werden Sie in unserem Blockbeitrag [Recruiting]({{< relref "posts/20250317-recruiting/" >}}) fündig. Dort erhalten Sie wertvolle Tipps und Strategien, wie Sie Ihre Bewerbermanagement optimieren können.'
           - q: 'Bietet SeaTable auch eine Free Version?'
             a: 'Ja, SeaTable Cloud kann im Free Abo als kostenlose Bewerbermanagement Software genutzt werden. Sie können dann schon nahezu alle Funktionen und Features nutzen, die Sie für ein effizientes und transparentes Bewerbermanagement brauchen. Wenn Sie erweiterte Funktionen und mehr Speicherplatz benötigen, können Sie jederzeit auf eine unserer kostengünstigen Premium-Versionen upgraden.'
           - q: 'Welche Bewerbermanagement-Software ist kostenlos und sicher?'
