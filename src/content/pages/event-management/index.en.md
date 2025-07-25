@@ -38,7 +38,7 @@ sections:
         - text: Simple integration without IT effort
         - text: 100% GDPR-compliant with servers in Germany
         - text: Perfect for small or large events
-      image: /images/landing-page-bewerbermanagement-1.png
+      image: /images/landing-page-eventplanung-1.png
 
     - name: content-12
       weight: 3

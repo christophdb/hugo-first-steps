@@ -38,7 +38,7 @@ sections:
         - text: einfache Integration ohne IT-Aufwand
         - text: 100 % DSGVO-konform mit Servern in Deutschland
         - text: perfekt für kleine oder große Events
-      image: /images/landing-page-bewerbermanagement-1.png
+      image: /images/landing-page-eventplanung-1.png
 
     - name: content-12
       weight: 3

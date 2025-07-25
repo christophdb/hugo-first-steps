@@ -38,7 +38,7 @@ sections:
         - text: Intégration simple sans effort informatique
         - text: 100% conforme au RGPD avec des serveurs en Allemagne
         - text: Parfait pour les petits et grands événements
-      image: /images/landing-page-bewerbermanagement-1.png
+      image: /images/landing-page-eventplanung-1.png
 
     - name: content-12
       weight: 3
