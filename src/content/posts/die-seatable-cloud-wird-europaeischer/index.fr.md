@@ -6,7 +6,9 @@ author: 'cdb'
 url: '/fr/seatable-cloud-devient-plus-europeenne'
 aliases:
     - /fr/die-seatable-cloud-wird-europaeischer
-color: '#eeeeee'
+color: 'e86569'
+categories:
+    - 'product-feature'
 seo:
     title:
     description:

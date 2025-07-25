@@ -6,7 +6,9 @@ author: 'cdb'
 url: '/ru/seatable-cloud-stanovitsya-bolee-evropeyskoy'
 aliases:
     - /ru/die-seatable-cloud-wird-europaeischer
-color: '#eeeeee'
+color: 'e86569'
+categories:
+    - 'product-feature'
 seo:
     title:
     description:
