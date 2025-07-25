@@ -2,8 +2,8 @@
 title: 'Das Tool für Ihre Eventplanung'
 description: ''
 seo:
-    title:
-    description: 
+    title: 'Events planen – digital, einfach, professionell und im Team'
+    description: 'Planen Sie Veranstaltungen stressfrei: Teilnehmer, Aufgaben & Deadlines an einem Ort – ideal für Teams und Agenturen.'
 date: '2025-07-08'
 url: '/de/eventplanung/'
 draft: true
@@ -12,7 +12,7 @@ sections:
     - name: hero-5
       weight: 1
       title: 'Das Tool für Ihre Eventplanung'
-      text: "Starten Sie mit SeaTable als Event Planungstool und behalten Sie jederzeit alle Schritte Ihrer Eventplanung im Blick. Von der ersten Planung, über Budgets und Werbung bis zu Gästelisten,  Moderation und Personalplan: Mit SeaTable können Sie von überall jederzeit darauf zugreifen, Aufgaben automatisieren und in Echtzeit gemeinsam daran arbeiten."
+      text: "Starten Sie mit SeaTable als Event Planungstool und behalten Sie jederzeit **alle Schritte Ihrer Eventplanung im Blick**. Von der ersten Planung, über Budgets und Werbung bis zu Gästelisten,  Moderation und Personalplan: Mit SeaTable können Sie von überall jederzeit darauf zugreifen, Aufgaben automatisieren und in Echtzeit gemeinsam daran arbeiten."
       classes:
           - bg-white
       template: bb4d007014a64a18be06
@@ -30,7 +30,7 @@ sections:
         - bg-seatable-blue
       title: So einfach geht Eventplanung mit SeaTable
       subtitle: Sicher, intuitiv, kollaborativ
-      description: SeaTable ist so simpel wie ein Spreadsheet, mit allen Funktionen einer Datenbank und dabei ganz einfach an Ihre Anforderungen und Prozesse anpassbar.    
+      description: SeaTable ist so simpel wie ein Spreadsheet, mit allen Funktionen einer Datenbank und dabei ganz einfach **an Ihre Anforderungen und Prozesse anpassbar**.    
       items:
         - text: flexibel anpassbare Datenstrukturen
         - text: ideal für kollaboratives Arbeiten
@@ -45,7 +45,7 @@ sections:
       weight: 3
       title: Event Projektmanagement in Echtzeit
       subtitle: Eventplanung und Organisation
-      description: Mit einer Checkliste für die Eventplanung vermeiden sie Versäumnisse – wenn alle an der Planung eines Events Beteiligten Zugriff darauf haben. SeaTable ermöglicht kollaboratives Arbeiten in Echtzeit und volle Transparenz.
+      description: Mit einer Checkliste für die Eventplanung vermeiden sie Versäumnisse – wenn alle an der Planung eines Events Beteiligten Zugriff darauf haben. SeaTable ermöglicht **kollaboratives Arbeiten** in Echtzeit und volle Transparenz.
       items:
         - text: Tasks festlegen und direkt zuweisen
         - text: Chat-Kommunikation transparent dokumentieren. 
@@ -100,14 +100,14 @@ sections:
       title: Eventplan mit Datenbankpower
       subtitle: Events planen mit SeaTable
       items:
-      - text: Gegenüber einem herkömmlichen Event Planungstools oder einem Event Management Template in Excel bietet SeaTable die Power einer echten Datenbank. Erstellen Sie eine Checkliste für Veranstaltungen und einen minutiösen Ablaufplan Ihres Events. Speichern Sie alle Dateien die Ihre Mitarbeiter vor oder während des Events benötigen, direkt in Ihrem Regieplan, z. B. Musikdateien oder Bilder. 
+      - text: Gegenüber einem herkömmlichen Event Planungstools oder einem Event Management Template in Excel bietet SeaTable die **Power einer echten Datenbank**. Erstellen Sie eine Checkliste für Veranstaltungen und einen minutiösen Ablaufplan Ihres Events. Speichern Sie alle Dateien die Ihre Mitarbeiter vor oder während des Events benötigen, direkt in Ihrem Regieplan, wie Musikdateien oder Bilder. 
       image: /images/asana-projektportfoliomanagement.jpg
 
     - name: "content-9"
       weight: 13
       title: DSGVO konformes Event Projektmanagement
       subtitle: Keine Kompromisse beim Datenschutz
-      description: "Egal ob Sie SeaTable auf Ihren eigenen Servern hosten oder unsere Cloud-Lösung nutzen: Sie können sich darauf verlassen, dass Ihre Daten zu 100 % sicher sind. Denn beim Schutz sensibler Kundendaten machen wir keine Abstriche und hosten die SeaTable Cloud ausschließlich in lizenzierten deutschen Rechenzentren. Mit SeaTable behalten Sie während der gesamten Organisation von Events und danach die volle Kontrolle über Ihre Daten."
+      description: "Egal ob Sie SeaTable auf Ihren eigenen Servern hosten oder unsere Cloud-Lösung nutzen: Sie können sich darauf verlassen, dass Ihre **Daten zu 100 % sicher** sind. Denn beim Schutz sensibler Kundendaten machen wir keine Abstriche und hosten die SeaTable Cloud ausschließlich in **lizenzierten deutschen Rechenzentren**. Mit SeaTable behalten Sie während der gesamten Organisation von Events und danach die volle Kontrolle über Ihre Daten."
       items:
       - headline: Cloud oder On-Premises   
         text: für volle Datenkontrolle
@@ -132,12 +132,13 @@ sections:
       title: FAQ – Event organisieren mit SeaTable
       items:
           - q: 'Für wen eignet sich SeaTable als Eventplanungstool?'
-            a: 'Damit Ihr Event zu einem gelungenen Ereignis für alle Beteiligten wird, müssen Sie viele Dinge bedenken und organisieren. Dabei spielt es auch keine Rolle, ob Sie ein exklusives Event planen oder ein mediales Mega-Event mit hunderten Gästen veranstalten müssen. Zwar gibt es keinen universellen Plan für jedes erdenkliche Event. Doch die wesentlichen Tasks sind identisch – und ebenso die Stolperfallen. Mit dem passenden Tool wird Ihre Eventplanung deutlich einfacher, effizienter, transparenter und weniger anfällig für Fehler. 
-            a: SeaTable eignet sich für jede Organisation und Einzelperson, die Events organisieren. Durch Automatisierungen und anpassbare Strukturen und Workflows können Sie Ihre Prozesse schneller und transparenter machen. Mit SeaTable als Eventplaner Software brauchen Sie keine teuren Tools einzukaufen oder eigene Lösungen programmieren. '
+            a: 'Damit Ihr Event zu einem gelungenen Ereignis für alle Beteiligten wird, müssen Sie viele Dinge bedenken und organisieren. Dabei spielt es auch keine Rolle, ob Sie ein exklusives Event planen oder ein mediales Mega-Event mit hunderten Gästen veranstalten müssen. Zwar gibt es keinen universellen Plan für jedes erdenkliche Event. Doch die wesentlichen Tasks sind identisch – und ebenso die Stolperfallen. Mit dem passenden Tool wird Ihre Eventplanung deutlich einfacher, effizienter, transparenter und weniger anfällig für Fehler.'
+            q: 'Für wen eignet sich die Eventplanun mit SeaTable?'
+            a: 'SeaTable eignet sich für jede Organisation und Einzelperson, die Events organisieren. Durch Automatisierungen und anpassbare Strukturen und [Workflows]({{< relref "pages/industry-solutions/individual" >}}) können Sie Ihre Prozesse schneller und transparenter machen. Mit SeaTable als Eventplaner Software brauchen Sie keine teuren Tools einzukaufen oder eigene Lösungen programmieren.'
           - q: 'Worauf muss man bei der Eventplanung achten?'
-            a: 'Zwar unterscheiden sich alle Veranstaltungen voneinander, dennoch gibt es viele Schritte und Punkte, die bei jeder erfolgreichen Organisation von Events berücksichtigt werden müssen. Wir haben einen [10-Schritte-Plan]({{< relref "posts/202503-veranstaltung-verwalten" >}}) zusammengestellt, der Ihnen als Vorlage für eine Event Checkliste dienen kann, damit Sie immer das perfekte Event organisieren.' 
+            a: 'Zwar unterscheiden sich alle Veranstaltungen voneinander, dennoch gibt es viele Schritte und Punkte, die bei jeder erfolgreichen Organisation von Events berücksichtigt werden müssen. Wir haben einen 10-Schritte-Plan zusammengestellt, der Ihnen als Vorlage für eine [Event Checkliste]({{< relref "posts/202503-veranstaltung-verwalten" >}}) dienen kann, damit Sie immer das perfekte Event organisieren.' 
           - q: 'Welche Vorteile bietet SeaTable als Event Management Software?'
-            a: 'Verantwortliche im Event Projektmanagement profitieren bei der Eventplanung und Organisation mit SeaTable von einer an die eigenen Anforderungen anpassbaren Datenbankstruktur, kollaborativem Arbeiten in Echtzeit, benutzerdefinierten Zugriffsrechten, integrierten Webformularen, Benachrichtigungen, automatisierten Workflows, einer einfachen Budgetkontrolle und einem hohen Datenschutzstandard. So können Sie ganz leicht einen individuellen Online Veranstaltungsplaner, eine Online Teilnehmerliste oder eine Event Checkliste erstellen.'
+            a: 'Verantwortliche im Event [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}) profitieren bei der Eventplanung und Organisation mit SeaTable von einer an die eigenen Anforderungen anpassbaren Datenbankstruktur, kollaborativem Arbeiten in Echtzeit, benutzerdefinierten Zugriffsrechten, integrierten Webformularen, Benachrichtigungen, automatisierten Workflows, einer einfachen Budgetkontrolle und einem hohen Datenschutzstandard. So können Sie ganz leicht einen individuellen Online Veranstaltungsplaner, eine Online Teilnehmerliste oder eine Event Checkliste erstellen.'
           - q: 'Bietet SeaTable auch eine Event Organisation Vorlage?'
             a: 'Bei SeaTable finden Sie viele kostenlose Vorlagen für verschiedene Anwendungsfälle. Sie können unsere [Event Organisation Vorlage]({{< relref "templates/events/event-management" >}}) problemlos Ihren Bedürfnissen anpassen und zum Beispiel um Event Konzept, einen Ablaufplan Event oder eine Event organisieren Checkliste ergänzen. Um die Vorlagen zu nutzen, benötigen Sie lediglich einen SeaTable Account.'
           - q: 'Ist SeaTable auch kostenlos nutzbar? '
