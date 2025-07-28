@@ -1,12 +1,13 @@
 ---
 title: 'Comparação entre as edições Developer e Enterprise do SeaTable'
-description: 'O SeaTable está disponível em duas edições diferentes. Enquanto a edição Enterprise'
-date: 2022-02-03
+description: 'O SeaTable está disponível em duas edições diferentes. Enquanto a Enterprise Edition oferece toda a gama de funções e é, portanto, utilizada para o SeaTable Cloud e sistemas dedicados, a Developer Edition pode ser utilizada gratuitamente e é ideal para programadores como base de dados flexível.'
+color: '#069214'
+categories:
+    - 'product-features'
 lastmod: '2025-07-22'
 url: '/pt/comparacao-edicoes'
 aliases:
     - /pt/editionsvergleich
-color: '#01adc3'
 seo:
     title: 'Comparação entre as edições Developer e Enterprise do SeaTable'
     description: 'A plataforma no-code auto-hospedada SeaTable está disponível em duas edições. Aqui você encontra todos os detalhes e os possíveis casos de uso das edições Enterprise e Developer.'
