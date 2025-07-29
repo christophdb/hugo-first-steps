@@ -151,3 +151,6 @@ templates:
     back: 'Voltar para a visão geral'
     use_template: 'Usar modelo'
     preview: 'Pré-visualização'
+
+template-box:
+    title: 'Experimente o nosso modelo interativo. As vistas também podem ser personalizadas.'

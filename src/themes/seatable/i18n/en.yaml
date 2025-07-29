@@ -151,3 +151,6 @@ templates:
     back: 'Back to oveview'
     use_template: 'Use template'
     preview: 'Preview'
+
+template-box:
+    title: 'Test our interactive template. The views are also customizable'

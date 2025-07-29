@@ -151,3 +151,6 @@ templates:
     back: 'Retour à l’aperçu'
     use_template: 'Utiliser le modèle'
     preview: 'Aperçu'
+
+template-box:
+    title: 'Testez notre modèle interactif. Les vues sont également personnalisables.'

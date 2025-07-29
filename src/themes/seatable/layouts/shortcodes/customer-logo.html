@@ -1,0 +1,28 @@
+<div class="customer-logo mx-auto mb-4 flex flex-col overflow-hidden rounded-lg bg-orange-50 p-4 sm:flex-row">
+    <!-- img column -->
+    {{ $img := .Get "image" }}
+    {{ if $img }}
+        {{ if strings.HasPrefix $img "http" }}
+        {{ else }}
+            {{ $resource := .Page.Resources.GetMatch $img }}
+            {{ if $resource }}
+                {{ $img = $resource.RelPermalink }}
+            {{ end }}
+        {{ end }}
+
+
+        <div class="w-full items-center justify-center sm:w-2/6">
+            <img src="{{ $img }}" alt="{{ .Get "alt" }}" class="h-full w-full rounded-xl object-cover" />
+        </div>
+    {{ end }}
+
+
+    <!-- text column -->
+    <div class="w-full px-8 py-4 sm:w-4/6">
+        <ul class="!list-none">
+            <li class="!p-0"><span class="font-bold">Firma:</span> {{ .Get "firma" | default "?" }}</li>
+            <li class="!p-0"><span class="font-bold">Branche:</span> {{ .Get "branche" | default "?" }}</li>
+            <li class="!p-0"><span class="font-bold">Ort:</span> {{ .Get "ort" | default "?" }}</li>
+        </ul>
+    </div>
+</div>
