@@ -1,0 +1,37 @@
+<div class="customer-story mx-auto mb-4 flex flex-col overflow-hidden rounded-lg bg-blue-100 p-4 sm:flex-row">
+    <!-- img column -->
+    {{ $img := .Get "image" }}
+    {{ if $img }}
+        {{ if strings.HasPrefix $img "http" }}
+        {{ else }}
+            {{ $resource := .Page.Resources.GetMatch $img }}
+            {{ if $resource }}
+                {{ $img = $resource.RelPermalink }}
+            {{ end }}
+        {{ end }}
+
+
+        <div class="w-full items-center justify-center sm:w-2/6">
+            <img src="{{ $img }}" alt="{{ .Get "alt" }}" class="h-full w-full rounded-xl object-cover" />
+        </div>
+    {{ end }}
+
+
+    <!-- text column -->
+    <div class="w-full px-8 py-4 sm:w-4/6">
+        {{ if .Inner }}
+            <span class="font-poppins text-2xl font-bold text-seatable-blue">{{ .Inner | markdownify }}</span>
+        {{ end }}
+
+        {{ $target := .Get "link-target" }}
+        {{ $link := $target }}
+        <!-- default to raw target (string) -->
+        {{ with site.GetPage $target }}
+            {{ $link = .Permalink }}
+            <!-- override with Permalink if found -->
+        {{ end }}
+        <div class="relative mb-8 mt-6">
+            <a class="bg-gradient rounded-xl px-5 py-3 font-poppins text-lg font-bold !text-white" href="{{ $link }}">{{ .Get "link-text" }}</a>
+        </div>
+    </div>
+</div>

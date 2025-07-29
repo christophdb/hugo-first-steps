@@ -151,3 +151,6 @@ templates:
     back: 'Zurück zur Übersicht'
     use_template: 'Vorlage benutzen'
     preview: 'Vorschau'
+
+template-box:
+    title: 'Testen Sie unser interaktives Template. Auch die Ansichten sind anpassbar.'

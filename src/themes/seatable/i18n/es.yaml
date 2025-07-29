@@ -151,3 +151,6 @@ templates:
     back: 'Volver al resumen'
     use_template: 'Usar plantilla'
     preview: 'Vista previa'
+
+template-box:
+    title: 'Pruebe nuestra plantilla interactiva. Las vistas también son personalizables.'

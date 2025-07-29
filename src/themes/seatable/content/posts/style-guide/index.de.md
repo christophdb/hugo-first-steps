@@ -3,6 +3,7 @@ title: 'Blog Design Tutorial'
 description: 'Welche Stylings gibt es? Wie nutze ich diese?'
 draft: true
 date: 2025-07-10
+lastmod: 2025-07-29
 url: '/de/style-guide'
 color: '#eef0f2'
 ---
@@ -93,6 +94,8 @@ Mit Markdown können auch Tabellen geschrieben werden.
 
 ## SeaTable Templates
 
+### Template (alleine)
+
 Es können SeaTable Templates direkt in die Blog-Posts eingebunden werden. Hierfür wird der **External Link** der Base benötigt.
 Aus z.B. `https://cloud.seatable.io/dtable/external-links/3ab08a59c6b34166b852/` wird die Zeichenfolge nach `external-links` benötigt.
 
@@ -106,6 +109,16 @@ Die Einbindung in den Blog erfolgt über diesen Befehl:
 Die Höhe ist ein optionaler Parameter und kann weggelassen werden. Standardmäßig wird eine Höhe von 667px verwendet.
 
 {{< template id="14498b7d75cd47ab934c" height="400" >}}
+
+### Template-Box
+
+{{< template-box id="14498b7d75cd47ab934c" >}}
+
+Die Default-Texte passen sich automatisch der Sprache an.
+
+```
+{{</* template-box id="14498b7d75cd47ab934c" */>}}
+```
 
 ## FAQs
 
@@ -284,3 +297,62 @@ sections:
     # das ist ein Kommentar
     # das ist noch ein Kommentar.
 ```
+
+## Customer
+
+### Testimonial
+
+{{< testimonial image="feature.jpg" alt="John Doe portrait" name="John Doe" >}}
+
+SeaTable hat uns geholfen als Unternehmen sehr schnell, sehr flexibel und sehr effizient zu werden und zu bleiben.
+
+Mit SeaTable können wir individuell auf die Bedarfe unserer Kunden eingehen, indem wir unsere **Arbeitsstrukturen anpassen** können, unseren Service optimieren können.
+
+{{</ testimonial >}}
+
+So verwendet man die Testimonials. Bei `images` kann entweder auf eine Grafik im gleichen Verzeichnis oder auf ein externes Bild per `https://` referenziert werden.
+Die Grafik nimmt automatisch 2/6 der Breite ein. Bei kleiner Auflösung werden Bild und Text übereinander gestapelt.
+
+```
+{{</* testimonial image="feature.jpg" alt="Img Alt (optional)" name="John Doe" */>}}
+
+Some text with **markdown format**.
+
+{{</*/ testimonial */>}}
+```
+
+### Story
+
+{{< customer-story
+  image="feature.jpg"
+  link-text="Mehr erfahren"
+  link-target="posts/20250321-customer-story-cloudvox-srl" >}}
+
+Cloudvox SRL: Wie SeaTable **komplexe Daten** zugänglich macht
+
+{{</ customer-story >}}
+
+```
+{{</* customer-story
+  image="feature.jpg"
+  link-text="Mehr erfahren"
+  link-target="posts/20250321-customer-story-cloudvox-srl" */>}}
+
+Cloudvox SRL: Wie SeaTable komplexe Daten zugänglich macht
+
+{{</*/ customer-story */>}}
+```
+
+### Logo
+
+{{< customer-logo image="feature.jpg" firma="SecUnity" branche="IT Sicherheit" ort="Deutschland" >}}
+
+```
+{{</* customer-logo image="feature.jpg" firma="SecUnity" branche="IT Sicherheit" ort="Deutschland" */>}}
+```
+
+## Newsletter
+
+Mit dem Shortcode `{{</* newsletter */>}}` kann man die Newsletter-Anmeldung in jeden Blog-Artikel einbauen.
+
+{{< newsletter >}}

@@ -1,0 +1,50 @@
+<aside class="group relative -mx-4 mb-16 mt-8 rounded-md bg-blue-200 py-6 pl-[calc(1rem-3px)] pr-4 text-base" style="--base-icon-color: #374151;">
+    <div class="absolute left-0 top-0 flex h-full flex-col text-white">
+        <svg xmlns="http://www.w3.org/2000/svg" width="28.5" height="34.5" fill="currentColor" viewBox="0 0 57 69" preserveAspectRatio="none" class="ml-[-2px] mt-[-1.5px]">
+            <path
+                fill="var(--color-page-background)"
+                d="M54 0V0.716804C54 25.9434 35.0653 47.1517 10 50L0 57V0H54Z"
+                style="transition:fill var(--color-swap-duration) var(--color-swap-timing-function)"></path>
+            <path
+                fill="var(--color-primary)"
+                d="M56.9961 4.15364C57.0809 2.49896 55.8083 1.08879 54.1536 1.00394C52.499 0.919082 51.0888 2.19168 51.0039 3.84636L56.9961 4.15364ZM9.09704 51.7557L8.49716 48.8163L9.09704 51.7557ZM6 69V59.2227H0V69H6ZM9.69692 54.6951L14.3373 53.7481L13.1375 47.8693L8.49716 48.8163L9.69692 54.6951ZM14.3373 53.7481C38.202 48.8777 55.7486 28.4783 56.9961 4.15364L51.0039 3.84636C49.8967 25.4384 34.3213 43.5461 13.1375 47.8693L14.3373 53.7481ZM6 59.2227C6 57.0268 7.54537 55.1342 9.69692 54.6951L8.49716 48.8163C3.55195 49.8255 0 54.1756 0 59.2227H6Z"></path>
+        </svg>
+    </div>
+    <!-- Warning icon -->
+    <div
+        class="absolute left-0 top-0 -translate-x-[calc(50%+1.5px)] -translate-y-1/2 p-2 text-blue-600 md:group-[.article-layout]:hidden md:group-[.tutorial-layout]:hidden lg:group-[.tutorial-layout]:block xl:group-[.tutorial-layout]:hidden">
+        <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="32"
+            height="32"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="lucide lucide-info">
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="M12 16v-4"></path>
+            <path d="M12 8h.01"></path>
+        </svg>
+    </div>
+
+    <!-- Main content -->
+    <div class="p-4">
+        <p>{{ T "template-box.title" }}</li></p>
+        <iframe
+            class="dtable-embed"
+            src="https://cloud.seatable.io/dtable/external-links/{{ .Get "id" }}/"
+            frameborder="0"
+            width="100%"
+            height="{{ .Get "height" | default "667" }}"
+            style="background: transparent; border: 1px solid #ccc;"></iframe>
+        <div class="mt-8">
+            <a
+                class="bg-gradient rounded-xl px-5 py-3 font-poppins text-lg font-bold !text-white"
+                href="https://cloud.seatable.io/copy-template/?template_link_token={{ .Get "id" }}/"
+                >{{ T "templates.use_template" }}</a>
+        </div>
+    </div>
+</aside>

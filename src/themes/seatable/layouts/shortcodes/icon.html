@@ -18,7 +18,7 @@
 {{ end }}
 
 {{ if $icon }}
-    <span class="icon {{ $class }} relative block" :class="{ '-rotate-180': !open }">
+    <span class="icon {{ $class }} relative" :class="{ '-rotate-180': !open }">
         {{ $icon.Content | safeHTML }}
     </span>
 {{ end }}
