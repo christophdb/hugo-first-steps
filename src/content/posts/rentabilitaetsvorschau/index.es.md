@@ -8,7 +8,7 @@ category:
     - 'best-practice'
 tags:
     - 'Finanzas'
-color: 
+color: '#3fc4ac'
 seo:
     title: 'Previsión de rentabilidad | cifras clave, fórmulas, ejemplos'
     description: 'Aprenda a crear una previsión de rentabilidad y a calcular las cifras clave: desde la rentabilidad de las ventas hasta la rentabilidad de los activos.'

@@ -8,7 +8,7 @@ category:
     - 'best-practice'
 tags:
     - 'Finanzen'
-color: 
+color: '#3fc4ac'
 seo:
     title: 'Rentabilitätsvorschau | Kennzahlen, Formeln, Beispiele'
     description: 'Erfahren Sie, wie Sie eine Rentabilitätsvorschau erstellen und die zentralen Kennzahlen berechnen – von der Umsatz- bis zur Gesamtkapitalrentabilität.'

@@ -8,7 +8,7 @@ category:
     - 'best-practice'
 tags:
     - 'Finances'
-color: 
+color: '#3fc4ac'
 seo:
     title: 'Profitability forecast | key figures, formulas, examples'
     description: 'Learn how to create a profitability forecast and calculate the key figures – from return on sales to return on assets.'

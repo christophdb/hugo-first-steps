@@ -8,7 +8,7 @@ category:
     - 'best-practice'
 tags:
     - 'Finances'
-color: 
+color: '#3fc4ac'
 seo:
     title: 'Prévisions de rentabilité | Ratios, formules, exemples'
     description: 'Apprenez à établir des prévisions de rentabilité et à calculer les principaux ratios, de la rentabilité des ventes à la rentabilité du capital total.'

@@ -8,7 +8,7 @@ category:
     - 'best-practice'
 tags:
     - 'Finanças'
-color: 
+color: '#3fc4ac'
 seo:
     title: 'Previsão de rentabilidade | Índices, fórmulas, exemplos'
     description: 'Aprenda a criar uma previsão de rentabilidade e a calcular os números-chave - desde o retorno das vendas ao retorno dos activos.'
