@@ -1,13 +1,14 @@
 ---
 title: 'SeaDays 2024 em retrospetiva: Os destaques e as lições aprendidas - SeaTable'
+description: "O SeaDays 2024 terminou e podemos olhar para trás, para dois dias intensos e inspiradores. Pela segunda vez, cerca de 50 participantes reuniram-se para discutir os últimos desenvolvimentos em torno do Seafile e do SeaTable e dar o seu feedback."
 date: 2024-10-18
-lastmod: '2024-10-18'
-author: 'nsc'
+categories:
+    - 'product-features'
+color: '#eb86a6'
 url: '/pt/seadays-2024'
-color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'SeaDays 2024 em retrospetiva: Os destaques e as aprendizagens'
+    description: "Leia os destaques do SeaDays 2024: casos de utilização inspiradores, ideias práticas e aprendizagens valiosas num relance."
 ---
 
 **O SeaDays 2024** chegou ao fim e podemos olhar para trás, para dois dias intensos e inspiradores na Sala do Senado da Universidade de Mainz. Pela segunda vez, cerca de 50 participantes - incluindo administradores e gestores de projectos - reuniram-se para discutir os últimos desenvolvimentos em torno do Seafile e do SeaTable e dar o seu feedback.

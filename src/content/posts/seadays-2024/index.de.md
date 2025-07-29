@@ -2,10 +2,10 @@
 title: 'SeaDays 2024 im Rückblick: Die Highlights und Learnings'
 description: 'Die SeaDays 2024 sind vorbei, und wir blicken auf zwei intensive und inspirierende Tage zurück. Zum zweiten Mal trafen sich etwa 50 Teilnehmer um die neuesten Entwicklungen rund um Seafile und SeaTable zu diskutieren und ihr Feedback einzubringen.'
 date: 2024-10-18
-lastmod: '2024-10-18'
-author: 'nsc'
+categories:
+    - 'product-features'
+color: '#eb86a6'
 url: '/de/seadays-2024'
-color: '#eeeeee'
 seo:
     title: 'SeaDays 2024 im Rückblick: Die Highlights und Learnings'
     description: 'Lesen Sie die Highlights der SeaDays 2024: inspirierende Use Cases, praxisnahe Einblicke und wertvolle Learnings im Überblick.'

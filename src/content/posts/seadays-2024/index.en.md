@@ -1,14 +1,14 @@
 ---
 title: 'SeaDays 2024 in retrospect: The highlights and learnings - SeaTable'
+description: 'SeaDays 2024 is over and we can look back on two intensive and inspiring days. For the second time, around 50 participants met to discuss the latest developments around Seafile and SeaTable and provide their feedback.'
 date: 2024-10-18
-lastmod: '2024-10-18'
-coverImage: '20241008_104929-scaled.jpg'
-author: 'nsc'
+categories:
+    - 'product-features'
+color: '#eb86a6'
 url: '/seadays-2024'
-color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'SeaDays 2024 in retrospect: The highlights and learnings'
+    description: 'Read the highlights of SeaDays 2024: inspiring use cases, practical insights and valuable learnings at a glance.'
 ---
 
 **SeaDays 2024** is over, and we can look back on two intensive and inspiring days in the Senate Hall of Mainz University. For the second time, around 50 participants - including administrators and project managers - met to discuss the latest developments around Seafile and SeaTable and to provide their feedback.
