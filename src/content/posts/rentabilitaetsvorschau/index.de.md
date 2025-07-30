@@ -8,11 +8,10 @@ category:
     - 'best-practice'
 tags:
     - 'Finanzen'
-color: 
+color: '#3fc4ac'
 seo:
     title: 'Rentabilitätsvorschau | Kennzahlen, Formeln, Beispiele'
     description: 'Erfahren Sie, wie Sie eine Rentabilitätsvorschau erstellen und die zentralen Kennzahlen berechnen – von der Umsatz- bis zur Gesamtkapitalrentabilität.'
-draft: true
 ---
 
 ## Was ist eine Rentabilitätsvorschau?
@@ -41,8 +40,8 @@ Grundsätzlich ist eine Rentabilitätsvorschau immer sinnvoll, um die zukünftig
 
 Eine Rentabilitätsvorschau erstellen Sie ganz einfach in wenigen Schritten:
 
-1.  **Umsatz- und Kostenplanung**: Erstellen Sie eine detaillierte Auflistung Ihrer voraussichtlichen Erlöse und Aufwendungen über den gewählten Zeitraum (meist 3 Jahre).  
-2.  **Gewinn- und Verlustrechnung**: Stellen Sie für jedes Jahr dem erwarteten Umsatz die geplanten Kosten gegenüber und ermitteln Sie, ob Ihr Unternehmen voraussichtlich Gewinne oder Verluste machen wir.
+1.  **Umsatz- und Kostenplanung**: Erstellen Sie eine detaillierte Auflistung Ihrer voraussichtlichen Erlöse und Aufwendungen über den gewählten Zeitraum hinweg (meist 3 Jahre).
+2.  **Gewinn- und Verlustrechnung**: Stellen Sie für jedes Jahr dem erwarteten Umsatz die geplanten Kosten gegenüber und ermitteln Sie, ob Ihr Unternehmen voraussichtlich Gewinne oder Verluste machen wird.
 3.  **Rentabilitätsanalyse**: Berechnen Sie mit den ermittelten Werten, wie rentabel Ihr Unternehmen zukünftig sein wird.
 4.  **Dokumentation**: Halten Sie die Rentabilitätsvorschau in Ihrem Business- oder Finanzplan fest.
 
@@ -89,9 +88,11 @@ Sobald Ihr Rentabilitätsplan steht, können Sie mit den Zahlen die Rentabilitä
 
 ## Wichtige Rentabilitätskennzahlen
 
-Mithilfe der Rentabilität berechnen Sie, **wie viel Gewinn Ihr Unternehmen im Verhältnis zum Umsatz oder zum eingesetzten Kapital erwirtschaftet**. Daher ist das Ergebnis immer ein Prozentsatz.
+Mithilfe der Rentabilität berechnen Sie, wie viel Gewinn Ihr Unternehmen im Verhältnis zum Umsatz oder zum eingesetzten Kapital erwirtschaftet. Daher ist das Ergebnis immer ein Prozentsatz.
 
-{{< warning headline="Wie hoch sollte die Rentabilität eines Unternehmens sein?" text="Allgemein gilt eine Rentabilität von 5 bis 10 Prozent als gut, von 10 bis 15 Prozent als sehr gut und darüber hinaus als hervorragend. Diese Richtwerte können jedoch je nach Branche und Marktbedingungen stark variieren. Vergleichen Sie die Rentabilität Ihres Unternehmens am besten mit der Rentabilität von Unternehmen, zu denen Sie in direkter Konkurrenz stehen." />}}
+**Wie hoch sollte die Rentabilität eines Unternehmens sein?** 
+
+Allgemein gilt eine Rentabilität von 5 bis 10 Prozent als gut, von 10 bis 15 Prozent als sehr gut und darüber hinaus als hervorragend. Diese Richtwerte können jedoch je nach Branche und Marktbedingungen stark variieren. Vergleichen Sie die Rentabilität Ihres Unternehmens am besten mit der Rentabilität von Unternehmen, zu denen Sie in direkter Konkurrenz stehen.
 
 ### Umsatzrentabilität (Return on Sales)
 
@@ -206,9 +207,8 @@ Zwei grundlegende Kennzahlen, um die Rentabilität von Unternehmen zu messen, si
 
 {{< faq "Wie berechnet man die Rentabilität?" >}}
 Um die Rentabilität berechnen zu können, benötigen Sie entweder den Gewinn und den Umsatz oder den Gewinn und den Kapitaleinsatz in einem bestimmten Zeitraum. Je nachdem lautet die Formel:
-
-Umsatzrentabilität = (Gewinn / Umsatz) × 100  
-Kapitalrentabilität = (Gewinn / Kapitaleinsatz) × 100
+- Umsatzrentabilität = (Gewinn / Umsatz) × 100  
+- Kapitalrentabilität = (Gewinn / Kapitaleinsatz) × 100
 {{< /faq >}}
 
 {{< faq "Wie kann man die Gesamtkapitalrentabilität berechnen? " >}}
