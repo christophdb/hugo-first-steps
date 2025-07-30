@@ -1,12 +1,18 @@
 ---
 title: 'Pionnier du numérique dans les services de soins'
+description: 'Avec SeaTable, Norman Kolwitz, fondateur de KD-Cura, souhaite faire œuvre de pionnier dans son secteur en numérisant les processus de son service de soins ambulatoires. En cherchant un outil approprié, il est tombé sur SeaTable et trouve le système très "charmant".'
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
 url: '/fr/kd-cura-service-infirmier'
 aliases:
     - /fr/kd-cura-pflegedienst
-color: '#eeeeee'
+color: '#daecc7'
+categories:
+    - 'customer-story'
+tags:
+    - 'Gestion du personnel'
+    - 'Transformation digitale'
 seo:
     title:
     description:

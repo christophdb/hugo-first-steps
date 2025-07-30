@@ -1,5 +1,12 @@
 ---
-title: 'How Ventil Verlag is taking its internal processes to a new level'
+title: 'How Ventil Publishing is taking its internal processes to a new level'
+description: 'Ventil Publishing needs a flexible organization tool for its internal publishing processes. The diverse and small organizational tasks that cannot be meaningfully mapped in any standard software have led Ventil Publishing to SeaTable.
+categories:
+    - 'customer-story'
+tags:
+    - 'Collaborative Work'
+    - 'Data Management & Visualisation'
+    - 'When Excel is no longer sufficient'
 date: 2021-01-27
 lastmod: '2023-07-11'
 coverImage: 'ventil-verlag.jpg'
@@ -7,15 +14,15 @@ author: 'cdb'
 url: '/ventil-publishing'
 aliases:
     - /ventil-verlag
-color: '#eeeeee'
+color: '#dadff6'
 seo:
     title:
     description:
 ---
 
-Ventil Verlag needs a flexible organisational tool for its internal publishing processes. The diverse and small organisational tasks that cannot be meaningfully mapped in any standard software led Ventil Verlag to SeaTable.
+Ventil Publishing needs a flexible organisational tool for its internal publishing processes. The diverse and small organisational tasks that cannot be meaningfully mapped in any standard software led Ventil Publishing to SeaTable.
 
-> Name: **Valve publisher**
+> Name: **Ventil Publishing**
 > Division: **Book publisher**
 > Founded: **1999**
 > Location: **Mainz, Germany**
@@ -23,13 +30,13 @@ Ventil Verlag needs a flexible organisational tool for its internal publishing p
 
 ## Flexible processes require flexible tools
 
-[Ventil Verlag](https://www.ventil-verlag.de/geschichte) is a classic niche publisher, like hundreds of others in Germany. For over 20 years, it has been producing and publishing books beyond the mainstream, mainly in the pop and vegan nutrition sections. One of its most successful publications is the book [Vegan-Klischee ade!](https://www.ventil-verlag.de/titel/1814/vegan-klischee-ade), which was published in March 2020 and became a Spiegel bestseller.
+[Ventil Publishing](https://www.ventil-verlag.de/geschichte) is a classic niche publisher, like hundreds of others in Germany. For over 20 years, it has been producing and publishing books beyond the mainstream, mainly in the pop and vegan nutrition sections. One of its most successful publications is the book [Vegan-Klischee ade!](https://www.ventil-verlag.de/titel/1814/vegan-klischee-ade), which was published in March 2020 and became a Spiegel bestseller.
 
-The challenges of a small publishing house are many. There is no huge organization with clearly defined roles and tasks. Instead, a small team has to react flexibly to the tasks at hand and find solutions. The core team of Ventil Verlag consists of just 6 people who are supported by external photographers, designers, editors, press staff or other freelancers. There are no fixed processes that are mapped in a publishing software, but you need a flexible software that adapts to changing requirements and processes.
+The challenges of a small publishing house are many. There is no huge organization with clearly defined roles and tasks. Instead, a small team has to react flexibly to the tasks at hand and find solutions. The core team of Ventil Publishing consists of just 6 people who are supported by external photographers, designers, editors, press staff or other freelancers. There are no fixed processes that are mapped in a publishing software, but you need a flexible software that adapts to changing requirements and processes.
 
 > SeaTable is super easy to understand and was immediately well received by our team. People immediately understood how to work with it.
 >
-> **Patrick Siegmund**, Head of the Vegan Division at Ventil Verlag
+> **Patrick Siegmund**, Head of the Vegan Division at Ventil Publishing
 
 ## Maintaining an overview is essential in publishing
 
@@ -49,10 +56,10 @@ Since the introduction of SeaTable, coordination and communication in the team h
 
 > We used to try Trello and Google Sheets, but it just wasn't a good fit. Trello limited us too much and with Google Sheets we often lacked context. With SeaTable, we always have the perfect overview.
 >
-> **Patrick Siegmund**, Head of the Vegan Division at Ventil Verlag
+> **Patrick Siegmund**, Head of the Vegan Division at Ventil Publishing
 
 ## Summary
 
-- Ventil Verlag always keeps track of its book process via linked tables. All information about the book can be perfectly linked to the planned next steps.
+- Ventil Publishing always keeps track of its book process via linked tables. All information about the book can be perfectly linked to the planned next steps.
 - Exposés can be ideally captured and edited with SeaTable, as the submitted text documents can be stored directly in SeaTable and meaningfully assigned a status.
-- Ventil Verlag uses SeaTable for many other processes, so that everyone in the team now works with it. Training was not necessary, as SeaTable can be used intuitively.
+- Ventil Publishing uses SeaTable for many other processes, so that everyone in the team now works with it. Training was not necessary, as SeaTable can be used intuitively.
