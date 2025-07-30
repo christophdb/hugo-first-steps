@@ -10,13 +10,13 @@ tags:
     - 'Beschaffung & Logistik'
 color: '#ed5b76'
 seo:
-    title:
-    description:
+    title: 'Supply Chain Management: Jetzt Prozesse optimieren'
+    description: 'Entdecken Sie, wie effizientes Supply Chain Management Ihre Geschäftsprozesse revolutioniert. Optimieren Sie Lieferketten von Beschaffung bis Lieferung'
 ---
 
 ## Supply Chain Management und die Wertschöpfungskette
 
-Die Verzahnung von mehreren Prozessen entlang der Wertschöpfungskette eines Produktes ist sehr komplex. Von der Beschaffung der benötigten Waren über die Produktion und Lagerhaltung bis hin zur Auslieferung an den Kunden müssen Prozesse effizient geplant, dokumentiert und überwacht werden. Nur so können Firmen gewährleisten, dass ihre Produktion nicht stockt und der Kunde sein gewünschtes Produkt zum richtigen Zeitpunkt erhält – nämlich dann, wenn er es braucht. 
+Die Verzahnung von mehreren Prozessen entlang der Wertschöpfungskette eines Produktes ist sehr komplex. Von der Beschaffung der benötigten Waren über die Produktion und Lagerverwaltung   bis hin zur Auslieferung an den Kunden müssen **Prozesse effizient geplant, dokumentiert und überwacht** werden. Nur so können Firmen gewährleisten, dass ihre Produktion nicht stockt und der Kunde sein gewünschtes Produkt zum richtigen Zeitpunkt erhält – nämlich dann, wenn er es braucht. 
 
 Diese Prozesse richtig zu gestalten und zu kontrollieren ist die Aufgabe eines Supply Chain Managers. Und dank moderner Softwarelösungen haben Sie heute ideale Möglichkeiten, um Ihr **Supply Chain Management** (SCM), auf Deutsch auch Lieferkettenmanagement genannt, optimal abzubilden. So haben Sie Ihre gesamte Wertschöpfungskette stets im Griff.
 
@@ -60,7 +60,7 @@ Das Supply Chain Management ist entscheidend für den Erfolg eines Unternehmens.
 
 ## Supply Chain Management in Echtzeit dank moderner Technologien
 
-Supply Chain Manager können bei ihrer Arbeit enorm von modernen Technologien profitieren. Dank Echtzeitinformationen werden Bestell- und Lieferstatus automatisch aktualisiert. Mittels automatisierter Benachrichtigungen können Sie bei Verzögerungen zeitnah reagieren. Bestandsführung, Bedarfsprognose, die Kommunikation und Zusammenarbeit im Unternehmen oder die Datenanalyse: Es gibt kaum einen Bereich im SCM, in dem durch die digitale Transformation keine neuen Maßstäbe gesetzt werden. Verantwortliche Mitarbeiter werden dadurch schneller und agiler und können effizientere Prozesse entwickeln.
+Supply Chain Manager können bei ihrer Arbeit enorm von modernen Technologien profitieren. Dank Echtzeitinformationen werden Bestell- und Lieferstatus automatisch aktualisiert. Mittels automatisierter Benachrichtigungen können Sie **bei Verzögerungen zeitnah reagieren**. Bestandsführung, Bedarfsprognose, die Kommunikation und Zusammenarbeit im Unternehmen oder die Datenanalyse: Es gibt kaum einen Bereich im SCM, in dem durch die digitale Transformation keine neuen Maßstäbe gesetzt werden. Verantwortliche Mitarbeiter werden dadurch schneller und agiler und können effizientere Prozesse entwickeln.
 
 ![Modernes Supply Chain Management Tool](Modern-SCM-Tool.jpg)
 
@@ -68,7 +68,7 @@ Ein **modernes SCM** basiert auf Systemen, die Datenerfassung, Analyse und Entsc
 
 ### Supply Chain Management in einer Cloud-Umgebung
 
-Moderne Cloud-Umgebungen ermöglichen ein flexibleres Supply Chain Management. Neben den bereits genannten Vorteilen – Schnelligkeit, Prozessautomatisierung, Echtzeit-Kommunikation – lässt sich das Unternehmenswachstum mit einer Cloud-Lösung problemlos skalieren. Sie aktivieren zusätzliche Ressourcen oder Funktionen erst dann, wenn sie benötigt werden. Unternehmen minimieren damit ihr finanzielles Risiko und reduzieren Kosten. 
+Moderne Cloud-Umgebungen ermöglichen ein flexibleres Supply Chain Management. Neben den bereits genannten Vorteilen – **Schnelligkeit, Prozessautomatisierung, Echtzeit-Kommunikation** – lässt sich das Unternehmenswachstum mit einer Cloud-Lösung problemlos skalieren. Sie aktivieren zusätzliche Ressourcen oder Funktionen erst dann, wenn sie benötigt werden. Unternehmen minimieren damit ihr finanzielles Risiko und reduzieren Kosten. 
 
 Cloud-Lösungen wie die No-Code-Plattform SeaTable bieten indes noch einen weiteren, nicht zu unterschätzenden Vorteil: sie sind keine normierten Lösungen von der Stange. Im Gegenteil können Supply Chain Manager das System an Ihre spezifischen Anforderungen anpassen – entweder von Grund auf neu oder mit einer Supply Chain Management Vorlage als Basis. 
 
@@ -91,7 +91,7 @@ Ein effizientes und wirksames Supply Chain Management für Ihr Unternehmen zu en
 
 ## Starten Sie die Transformation Ihres Supply Chain Managements 
 
-Sie wissen nun, was SCM ist und worauf es bei der Optimierung ankommt. Der entscheidende Schritt bleibt jetzt, die technischen Rahmenbedingungen zu schaffen. SeaTable schafft einen Ort, an dem alle Informationen zusammenlaufen können. Somit schaffen Sie es in nur wenigen Schritten und Klicks Ihr Supply Chain Management effizient abzubilden. Erfassen Sie alle nötigen Informationen, wie z. B. Ihre Lieferanten, eingehende sowie ausgehende Sendungen und Ihr Produktportfolio und behalten Sie Ihr gesamtes Lager im Blick. Arbeiten Sie mit Ihren Kollegen in Echtzeit zusammen, richten Sie Automatisierungen für Benachrichtigungen oder Task-Zuweisungen ein und nutzen Sie Dashboards und Statistiken für datenbasierte Entscheidungen. Registrieren Sie sich ganz einfach kostenlos und testen Sie unsere Supply Chain Management Vorlage.
+Sie wissen nun, was SCM ist und worauf es bei der Optimierung ankommt. Der entscheidende Schritt bleibt jetzt, die technischen Rahmenbedingungen zu schaffen. SeaTable schafft einen Ort, an dem alle Informationen zusammenlaufen können. Somit schaffen Sie es in nur wenigen Schritten und Klicks Ihr Supply Chain Management effizient abzubilden. Erfassen Sie alle nötigen Informationen, wie z. B. Ihre Lieferanten, eingehende sowie ausgehende Sendungen und Ihr [Produktportfolio]({{< relref "posts/20250327-portfoliomanagement" >}}) und behalten Sie Ihr gesamtes Lager im Blick. Arbeiten Sie mit Ihren Kollegen in Echtzeit zusammen, richten Sie Automatisierungen für Benachrichtigungen oder Task-Zuweisungen ein und nutzen Sie Dashboards und Statistiken für datenbasierte Entscheidungen. Registrieren Sie sich ganz einfach kostenlos und testen Sie unsere Supply Chain Management Vorlage.
 
 {{< button label="Unverbindlich registrieren" link="/pages/registration/" >}}
 
@@ -107,5 +107,5 @@ Cloudbasierte SCM-Systeme ermöglichen kollaboratives Arbeiten und Informations
 In einer Supply Chain Management-Strategie wird zwischen der operativen, der taktischen und der strategischen Ebene unterschieden. Diese unterscheiden sich in ihrer zeitlichen Ausrichtung.
 1.	Operatives Supply Chain Management: Alle Entscheidungen sind kurzfristig bzw. innerhalb von Tagen oder wenigen Wochen umsetzbar. Im Normalfall betrifft dies schnell realisierbare Prozesse, wie z.B. die Ablaufplanung, Verladung oder Auftragsverarbeitung. Weiterhin werden auch Beziehungen zwischen Bestellungen und Beständen analysiert. Ziel hierbei ist es, eine möglichst hohe Kundenzufriedenheit zu erzielen, da man sich vor allem mit den Kundenbeziehungen beschäftigt.
 2.	Taktisches Supply Chain Management: Alle Entscheidungen sind mittelfristig bzw. zwischen einem Vierteljahr und einem Jahr umsetzbar. Diese betreffen z.B. Entscheidungen im Bezug auf Produktionsmengen, Produktionsressourcen, Bestände, Versandstrategien und Transporte.
-3.	Strategisches Supply Chain Management: Hier werden Entscheidungen mit langfristigem Erfolg getroffen. Darunter fallen z.B. die Standortwahl für das eigene Lager, die Produktions- und Lagerkapazitäten, die Investitionen, die Lieferantenauswahl, Make-or-Buy-Entscheidungen und die Vertriebsstrategien.
+3.	Strategisches Supply Chain Management: Hier werden Entscheidungen mit langfristigem Erfolg getroffen. Darunter fallen z.B. die Standortwahl für das eigene Lager, die Produktions- und Lagerkapazitäten, die Investitionen, die Lieferantenauswahl, Make-or-Buy-Entscheidungen und die [Vertriebsstrategien]< relref "posts/vertriebsstrategie" >.
 {{< /faq >}}
