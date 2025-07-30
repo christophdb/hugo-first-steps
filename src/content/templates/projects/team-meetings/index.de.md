@@ -3,6 +3,9 @@ title: 'Teambesprechungen'
 description: ''
 date: '2025-03-03'
 url: '/de/vorlage/team-meetings'
+aliases:
+    - /de/in-4-schritten-zu-effizienteren-teammeetings
+    - /de/effizientere-teammeetings-4-schritte
 category: 'projects'
 functions:
 seo:

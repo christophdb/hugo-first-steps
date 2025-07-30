@@ -81,7 +81,7 @@ Il en résulte une sorte de guide dont vous pouvez vous inspirer pour élaborer 
 - **Acquisition de connaissances :** acheter des connaissances à des experts externes pour combler les lacunes de connaissances.
 - **Partage des connaissances :** accès ouvert et partage actif des connaissances existantes.
 
-Un grand nombre de méthodes connues entrent en ligne de compte pour la diffusion des connaissances, par exemple [les ateliers]({{< relref "posts/workshop-planen" >}}), les leçons apprises, les [réunions d'équipe]({{< relref "posts/in-4-schritten-zu-effizienteren-teammeetings" >}}), le mentoring, [l]({{< relref "posts/20250324-onboarding-prozess" >}}) '[onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}) ou les newsletters internes.
+Un grand nombre de méthodes connues entrent en ligne de compte pour la diffusion des connaissances, par exemple [les ateliers]({{< relref "posts/workshop-planen" >}}), les leçons apprises, les [réunions d'équipe]({{< relref "templates/projects/team-meetings" >}}), le mentoring, [l]({{< relref "posts/20250324-onboarding-prozess" >}}) '[onboarding]({{< relref "posts/20250324-onboarding-prozess" >}}) ou les newsletters internes.
 
 ![Pour gérer les connaissances, il est important que tous les collaborateurs soient au même niveau et qu'ils échangent activement des informations.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 
