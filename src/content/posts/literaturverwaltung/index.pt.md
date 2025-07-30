@@ -1,14 +1,21 @@
 ---
 title: 'Programa de gestão da literatura para uma melhor visão de conjunto'
+description: 'Um programa de gestão de referências facilita-lhe o trabalho em projectos científicos de maior dimensão. Continue a ler para obter dicas sobre como trabalhar com sucesso com um programa de gestão de referências e encontrar a solução que melhor se adapta a si.'
 date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
 url: '/pt/gerenciamento-referencias'
 aliases:
     - /pt/literaturverwaltung
+categories:
+    - 'best-practice'
+tags:
+    - 'Ferramentas e plugins'
+    - 'Educação'
+color: '#719da6'
 seo:
-    title:
-    description:
+    title: 'Programa de gestão da literatura para uma melhor visão de conjunto'
+    description: 'Certifique-se de que a sua gestão da literatura é clara e isenta de erros. Eis algumas dicas sobre como utilizar um programa de gestão de referências.'
 ---
 
 Quer se trate de uma tese, dissertação ou relatório de investigação - um **programa de gestão de referências** facilita o trabalho em projectos científicos. A criação de **bibliografias** leva tanto tempo como a procura, visualização e análise de **fontes**.

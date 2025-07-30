@@ -6,10 +6,15 @@ author: 'nsc2'
 url: '/ru/udalennye-prodazhi-komanda-effektivnaya-rabota'
 aliases:
     - /ru/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten
-color: '#eeeeee'
+color: '#187cec'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Цифровая трансформация'
+    - 'Рабочие процессы'
 seo:
-    title:
-    description:
+    title: 'Удаленные отделы продаж: лучшие практики для эффективной работы'
+    description: 'В этой статье мы представляем полезные лучшие практики для эффективной работы в удаленных отделах продаж.'
 ---
 
 Обстоятельства 2020 года существенно изменили способ работы в компаниях. Согласно недавнему [опросу Gallup](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 из 10 удаленных работников хотели бы в той или иной степени сохранить этот способ работы.

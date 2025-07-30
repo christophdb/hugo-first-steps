@@ -5,7 +5,12 @@ date: 2021-02-28
 lastmod: '2023-06-26'
 author: 'cdb'
 url: '/de/content-marketing'
-color: '#eeeeee'
+color: '#ec796d'
+categories:
+    - 'best-practice'
+tags:
+    - 'Contentplanung'
+    - 'Marketingplanung'
 seo:
     title: 'Wie Sie eine Content Marketing Strategie entwickeln'
     description: 'Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren.'

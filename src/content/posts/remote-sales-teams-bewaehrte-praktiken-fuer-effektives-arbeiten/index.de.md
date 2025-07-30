@@ -7,7 +7,12 @@ author: 'nsc2'
 url: '/de/remote-sales-teams-effektives-arbeiten'
 aliases:
     - /de/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten
-color: '#eeeeee'
+color: '#187cec'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Workflows'
+    - 'Digitale Transformation'
 seo:
     title: 'Remote Sales Teams: Bewährte Praktiken für effektives Arbeiten'
     description: 'In diesem Artikel stellen wir Ihnen nützliche und bewährte Praktiken für effektives Arbeiten in Remote Sales Teams vor.'

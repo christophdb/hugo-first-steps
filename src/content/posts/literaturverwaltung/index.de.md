@@ -1,10 +1,16 @@
 ---
 title: 'Literaturverwaltungsprogramm für mehr Durchblick'
-description: 'Ein Literaturverwaltungsprogramm erleichtert Ihnen die Arbeit an größeren wissenschaftlichen Projekten. Sie beugen Fehlern in Literaturlisten vor, haben Ihre Quellen auf einen Blick parat und können diese nach Themen ordnen. Wenn Sie Auflagen zur Zitierweise erfüllen müssen, hilft Ihnen die Literatur-Software bei der Umsetzung. Erhalten Sie im Folgenden Tipps zur erfolgreichen Arbeit mit einem Literaturverwaltungsprogramm und finden Sie die Lösung, die zu Ihnen passt.'
+description: 'Ein Literaturverwaltungsprogramm erleichtert Ihnen die Arbeit an größeren wissenschaftlichen Projekten. Erhalten Sie im Folgenden Tipps zur erfolgreichen Arbeit mit einem Literaturverwaltungsprogramm und finden Sie die Lösung, die zu Ihnen passt.'
 date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
 url: '/de/literaturverwaltung'
+categories:
+    - 'best-practice'
+tags:
+    - 'Toolings & Plugins'
+    - 'Bildung'
+color: '#719da6'
 seo:
     title: 'Literaturverwaltungsprogramm für mehr Durchblick'
     description: 'Sorgen Sie für eine übersichtliche und fehlerfreie Literaturverwaltung. Hier gibt es Tipps im Umgang mit einem Literaturverwaltungsprogramm.'

@@ -1,15 +1,21 @@
 ---
 title: 'Como desenvolver uma estratégia de marketing de conteúdos - SeaTable'
+description: 'O marketing de conteúdos é uma abordagem de marketing popular para colocar os seus próprios produtos junto de clientes e potenciais clientes em potencial.'
 date: 2021-02-28
 lastmod: '2023-06-26'
 author: 'cdb'
 url: '/pt/marketing-conteudo'
 aliases:
     - /pt/content-marketing
-color: '#eeeeee'
+color: '#ec796d'
+categories:
+    - 'best-practice'
+tags:
+    - 'Planeamento de marketing'
+    - 'Planeamento de conteúdos'
 seo:
-    title:
-    description:
+    title: 'Como desenvolver uma estratégia de marketing de conteúdos'
+    description: 'O marketing de conteúdos é uma abordagem de marketing popular para colocar os seus próprios produtos junto de clientes e potenciais clientes em potencial.'
 ---
 
 O marketing de conteúdos é uma abordagem de marketing popular para colocar os seus próprios produtos junto dos clientes e das potenciais partes interessadas. A ideia básica do marketing de conteúdos é muito simples: cria-se conteúdo para o grupo-alvo, publica-se e inspira-se os clientes.

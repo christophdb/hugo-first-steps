@@ -1,15 +1,21 @@
 ---
 title: 'Comment développer une stratégie de marketing de contenu - SeaTable'
+description: "Le marketing de contenu est une approche marketing très populaire pour faire connaître ses produits aux clients et aux prospects potentiels."
 date: 2021-02-28
 lastmod: '2023-06-26'
 author: 'cdb'
 url: '/fr/marketing-contenu'
 aliases:
     - /fr/content-marketing
-color: '#eeeeee'
+color: '#ec796d'
+categories:
+    - 'best-practice'
+tags:
+    - 'Planification marketing'
+    - 'Planification de contenu'
 seo:
-    title:
-    description:
+    title: 'Comment développer une stratégie de marketing de contenu'
+    description: 'Le marketing de contenu est une approche marketing très populaire pour faire connaître ses produits aux clients et aux prospects potentiels.'
 ---
 
 Le marketing de contenu est une approche marketing très appréciée pour placer ses produits auprès des clients et des prospects potentiels. L'idée de base du marketing de contenu est très simple : on crée des contenus pour son groupe cible, on les publie et on enthousiasme ses clients.

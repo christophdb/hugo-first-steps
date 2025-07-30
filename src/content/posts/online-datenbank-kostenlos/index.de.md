@@ -1,11 +1,16 @@
 ---
 title: 'Top 9 kostenlose Online-Datenbanken'
-description: 'Eine Datenbank dient als Basis zur Erfassung, Verarbeitung und dem Darstellen von Daten. Sie fassen Informationen mit gemeinsamen Merkmalen zusammen und erleichtern die Verwaltung. Für die Erstellung und Arbeit mit einer Datenbank benötigen Sie nicht immer Programmierkenntnisse. Einige Online-Datenbanken haben den Vorteil, dass sie sowohl kostenlos sind als auch einfach bedient werden können. In diesem Artikel haben wir Ihnen die neun besten, kostenlosen Online-Datenbanken gegenübergestellt.'
+description: 'Eine Datenbank dient als Basis zur Erfassung, Verarbeitung und dem Darstellen von Daten. Sie fassen Informationen mit gemeinsamen Merkmalen zusammen und erleichtern die Verwaltung. Für die Erstellung und Arbeit mit einer Datenbank benötigen Sie nicht immer Programmierkenntnisse. In diesem Artikel haben wir Ihnen die neun besten, kostenlosen Online-Datenbanken gegenübergestellt.'
 date: 2022-07-08
 lastmod: '2022-07-27'
 author: 'rdb'
 url: '/de/online-datenbank-kostenlos'
-color: '#eeeeee'
+color: '#7cc3da'
+categories:
+    - 'best-practice'
+tags:
+    - 'Toolings & Plugins'
+    - 'Datenmanagement & Visualisierung'
 seo:
     title: 'Top 9 kostenlose Online-Datenbanken'
     description: 'Verschaffen Sie sich einen Überblick über neun bekannte Online-Datenbanken, die Sie kostenlos erhalten können.'

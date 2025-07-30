@@ -1,5 +1,6 @@
 ---
 title: 'Literature management program for a better overview'
+description: 'A reference management program makes it easier for you to work on larger scientific projects. Read on for tips on how to work successfully with a reference management program and find the solution that suits you best.'
 date: 2024-05-17
 lastmod: '2024-05-17'
 coverImage: 'Literaturverwaltung_AdobeStock_141021783_bearbeitet.jpg'
@@ -7,9 +8,15 @@ author: 'rdb'
 url: '/reference-management'
 aliases:
     - /literaturverwaltung
+categories:
+    - 'best-practice'
+tags:
+    - 'Tools & Plugins'
+    - 'Education'
+color: '#719da6'
 seo:
-    title:
-    description:
+    title: 'Reference management program for more clarity'
+    description: 'Ensure clear and error-free literature management. Here are tips on how to use a reference management program.'
 ---
 
 Whether it's a thesis, dissertation or research report - a **reference management program** makes it easier for you to work on scientific projects. Creating **bibliographies** takes just as much time as finding, viewing and evaluating **sources**.
