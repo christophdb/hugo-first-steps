@@ -2,7 +2,7 @@
 title: "Comment la maison d'édition Ventil fait passer ses processus internes à la vitesse supérieure"
 description: "Éditions Ventil avait besoin d'un outil d'organisation flexible pour ses processus d'édition internes. Les tâches d'organisation variées et de petite taille qui ne peuvent être représentées de manière pertinente dans aucun logiciel standard ont conduit Éditions Ventil à utiliser SeaTable."
 categories:
-    - 'customer-stories'
+    - 'customer-story'
 tags:
     - 'Gestion des données & visualisation'
     - 'Travail collaboratif'
