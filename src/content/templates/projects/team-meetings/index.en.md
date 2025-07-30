@@ -3,6 +3,9 @@ title: 'Team Meetings'
 description: ''
 date: '2025-03-03'
 url: '/template/team-meetings'
+aliases:
+    - /in-4-schritten-zu-effizienteren-teammeetings
+    - /more-efficient-team-meetings-4-steps
 category: 'projects'
 functions:
 seo:

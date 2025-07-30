@@ -3,6 +3,9 @@ title: 'Reuniones de equipo'
 description: ''
 date: '2025-03-03'
 url: '/es/plantilla/team-meetings'
+aliases:
+    - /es/in-4-schritten-zu-effizienteren-teammeetings
+    - /es/reuniones-equipo-mas-eficientes-4-pasos
 category: 'projects'
 functions:
 seo:

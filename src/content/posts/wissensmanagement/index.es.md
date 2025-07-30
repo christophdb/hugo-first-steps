@@ -81,7 +81,7 @@ El resultado es una especie de pauta que puede utilizar como guía para desarrol
 - **Adquisición de conocimientos:** compra de conocimientos a expertos externos para colmar lagunas de conocimiento.
 - **Intercambio de conocimientos:** acceso abierto a los conocimientos existentes y puesta en común activa de los mismos.
 
-Para compartir conocimientos pueden utilizarse diversos métodos bien conocidos, por ejemplo [talleres]({{< relref "posts/workshop-planen" >}}), lecciones aprendidas, [reuniones de equipo]({{< relref "posts/in-4-schritten-zu-effizienteren-teammeetings" >}}), tutorías, [incorporación]({{< relref "posts/20250324-onboarding-prozess" >}}) o boletines internos.
+Para compartir conocimientos pueden utilizarse diversos métodos bien conocidos, por ejemplo [talleres]({{< relref "posts/workshop-planen" >}}), lecciones aprendidas, [reuniones de equipo]({{< relref "templates/projects/team-meetings" >}}), tutorías, [incorporación]({{< relref "posts/20250324-onboarding-prozess" >}}) o boletines internos.
 
 ![Para que funcione la gestión del conocimiento, es importante que todos los empleados estén al día e intercambien información activamente.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 

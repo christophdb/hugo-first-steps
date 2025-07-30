@@ -81,7 +81,7 @@ O resultado é uma espécie de diretriz que pode ser utilizada como guia para de
 - **Aquisição de conhecimentos:** aquisição de conhecimentos de peritos externos para colmatar as lacunas de conhecimento.
 - **Partilha de conhecimentos:** Acesso aberto e partilha ativa dos conhecimentos existentes.
 
-Podem ser utilizados vários métodos bem conhecidos para partilhar conhecimentos, por exemplo, [workshops]({{< relref "posts/workshop-planen" >}}), lições aprendidas, [reuniões de equipa]({{< relref "posts/in-4-schritten-zu-effizienteren-teammeetings" >}}), orientação, [integração]({{< relref "posts/20250324-onboarding-prozess" >}}) ou boletins informativos internos.
+Podem ser utilizados vários métodos bem conhecidos para partilhar conhecimentos, por exemplo, [workshops]({{< relref "posts/workshop-planen" >}}), lições aprendidas, [reuniões de equipa]({{< relref "templates/projects/team-meetings" >}}), orientação, [integração]({{< relref "posts/20250324-onboarding-prozess" >}}) ou boletins informativos internos.
 
 ![Para que a gestão do conhecimento funcione, é importante que todos os funcionários estejam actualizados e troquem informações ativamente.](Design-ohne-Titel-27-e1722944969749-711x544.png)
 

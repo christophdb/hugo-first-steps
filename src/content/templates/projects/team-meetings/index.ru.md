@@ -3,6 +3,9 @@ title: 'Командные встречи'
 description: ''
 date: '2025-03-03'
 url: '/ru/шаблон/team-meetings'
+aliases:
+    - /ru/in-4-schritten-zu-effizienteren-teammeetings
+    - /ru/bolee-effektivnye-komandnye-vstrechi-4-shaga
 category: 'projects'
 functions:
 seo:
