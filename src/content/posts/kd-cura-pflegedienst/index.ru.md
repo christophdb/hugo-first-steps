@@ -1,12 +1,18 @@
 ---
 title: 'Цифровое новаторство в сфере услуг по уходу'
+description: 'С помощью SeaTable Норман Колвиц, основатель компании KD-Cura, хочет сделать новаторскую работу в своей отрасли, оцифровав процессы в своей амбулаторной службе. В поисках подходящего инструмента он наткнулся на SeaTable и нашел эту систему очень "очаровательной".
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
 url: '/ru/kd-cura-patronazhnaya-sluzhba'
 aliases:
     - /ru/kd-cura-pflegedienst
-color: '#eeeeee'
+color: '#daecc7'
+categories:
+    - 'customer-story'
+tags:
+    - 'Цифровая трансформация'
+    - 'Управление персоналом'
 seo:
     title:
     description:
