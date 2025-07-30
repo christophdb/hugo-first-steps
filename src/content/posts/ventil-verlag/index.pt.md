@@ -2,7 +2,7 @@
 title: 'Como a Ventil Editora está a levar os seus processos internos a um novo nível'
 description: "A Ventil Editora precisa de uma ferramenta de organização flexível para os seus processos de publicação internos. As diversas e pequenas tarefas organizacionais que não podem ser mapeadas de forma significativa em qualquer software padrão levaram a Ventil Editora ao SeaTable."
 categories:
-    - 'customer-stories'
+    - 'customer-story'
 tags:
     - 'Quando o Excel já não é suficiente'
     - 'Gestão e visualização de dados'
