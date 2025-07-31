@@ -1,6 +1,6 @@
 ---
 title: 'Indirekter Einkauf: einfach und kostensparend mit SeaTable'
-description: ''
+description: 'In jedem Unternehmen ist er in irgendeiner Art und Weise vorhanden: indirekter Einkauf. Er umfasst die Beschaffung, Bestellung und das komplette Management aller Güter und Waren, die nicht weiterverkauft werden, sondern im Unternehmen verbleiben und für die internen Abläufe der Büroorganisation benötigt werden. Typische Beispiele für indirektes Material sind:'
 date: 2021-11-19
 categories:
     - 'best-practice'
@@ -9,23 +9,23 @@ tags:
 url: '/de/indirekter-einkauf'
 color: '#f3919b'
 seo:
-    title: ''
-    description: ''
+    title: 'Indirekter Einkauf: Prozesse digitalisieren'
+    description: 'Verbessern Sie die Effizienz im indirekten Einkauf. Automatisieren Sie Prozesse, gewinnen Sie Transparenz und treffen Sie bessere Entscheidungen'
 ---
 
 In jedem Unternehmen ist er in irgendeiner Art und Weise vorhanden: indirekter Einkauf. Er umfasst die Beschaffung, Bestellung und das komplette Management aller Güter und Waren, die nicht weiterverkauft werden, sondern im Unternehmen verbleiben und für die internen Abläufe der Büroorganisation benötigt werden. Typische Beispiele für indirektes Material sind:
 
-- Arbeitsmittel wie Kugelschreiber, Bleistifte, Notizbücher
-- Büroequipment, z. B. Druckerpapier oder Druckerpatronen
-- sämtliche Lebensmittel für die Büroküche
-- Büroausstattung wie Stühle oder Schränke
-- IT-Geräte wie Notebooks oder Computer
+- **Arbeitsmittel** wie Kugelschreiber, Bleistifte, Notizbücher
+- **Büroequipment**, z. B. Druckerpapier oder Druckerpatronen
+- sämtliche **Lebensmittel** für die Büroküche
+- **Büroausstattung** wie Stühle oder Schränke
+- **IT-Geräte** wie Notebooks oder Computer
 
 Untersuchungen zeigen, dass der indirekte Einkauf zwischen [15 und 30 % der internen Ausgaben](https://www.wlw.de/de/inside-business/praxiswissen/einkaeufer-ratgeber/indirect-procurement-verdient-viel-mehr-aufmerksamkeit) verursachen kann.
 
 Gleichzeitig wird dem indirekten Einkauf üblicherweise viel weniger Aufmerksamkeit geschenkt, im Gegensatz zum direkten Einkauf, bei dem viel Aufwand zur Optimierung und Kostenersparnis getrieben wird.
 
-Die Herausforderung in jedem Unternehmen ist es, dass indirekte Material effizient und kostengünstig zu beschaffen. Zum einen müssen Verbrauchsgegenstände wie Stifte, Kaffeebohnen und Druckerpapier rechtzeitig nachbestellt werden, bevor sie verbraucht sind. Das sind Arbeitsmittel, die dem täglichen Bedarf unterliegen und daher immer einen Vorrat benötigen. Zum anderen müssen manche Posten separat und auf Anfrage bestellt werden, wie zum Beispiel Computer, Noise Cancelling Earphones oder EDV Kabel. Die Lösung für einen reibungslosen Prozess: Eine zentrale Büroorganisation aller interner Warenbestellungen über SeaTable!
+Die Herausforderung in jedem Unternehmen ist es, dass indirekte Material effizient und kostengünstig zu beschaffen. Zum einen müssen Verbrauchsgegenstände wie Stifte, Kaffeebohnen und Druckerpapier rechtzeitig nachbestellt werden, bevor sie verbraucht sind. Das sind **Arbeitsmittel, die dem täglichen Bedarf unterliegen** und daher immer einen Vorrat benötigen. Zum anderen müssen manche Posten separat und auf Anfrage bestellt werden, wie zum Beispiel Computer, Noise Cancelling Earphones oder EDV Kabel. Die Lösung für einen reibungslosen Prozess: Eine zentrale Büroorganisation aller interner Warenbestellungen über SeaTable!
 
 Mit SeaTable haben Sie alle wichtigen Informationen, Produkte und Bestellungen an einem Ort. Hier erstellen Sie einen eigenen Produktkatalog für Ihren internen Einkauf, nehmen Bestellungen via Webformular auf und führen Bestellungen mit einem Klick aus. Sie müssen dabei nicht bei null anfangen, sondern können direkt mit unserem [Template]({{< relref "templates/operations/indirect-procurement" >}}) aus dem Bereich Operations starten.
 
