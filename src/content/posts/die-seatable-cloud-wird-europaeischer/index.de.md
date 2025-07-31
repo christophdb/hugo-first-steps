@@ -9,8 +9,8 @@ color: 'e86569'
 categories:
     - 'product-feature'
 seo:
-    title: ''
-    description: ''
+    title: 'SeaTable Cloud wird europäischer: Mehr Sicherheit in der EU'
+    description: 'Die Cloud wird europäischer: Erfahren Sie, wie dieser Schritt die Datensicherheit stärkt und neue Möglichkeiten für Nutzer in der EU schafft.'
 ---
 
 Mit SeaTable verwalten und organisieren Sie Projekte, Kunden, Assets, Ideen und Arbeitsergebnisse aller Art. Sie vertrauen SeaTable somit die zentralen und wichtigsten Daten Ihres Unternehmens oder Ihres Teams an. Dass uns der Schutz Ihrer Daten sehr wichtig ist, zeigt die Tatsache, dass wir als einziger Anbieter von Online-Spreadsheet Lösungen unseren Kunden die Möglichkeit geben, Ihren eigenen persönlichen [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) zu betreiben. Nur so behalten Sie die volle Kontrolle und absolute Datenhoheit. Doch auch bei unseren Cloud-Kunden legen wir höchste Maßstäbe an die Sicherheit Ihrer Daten.

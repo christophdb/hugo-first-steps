@@ -2,8 +2,8 @@
 title: 'Vertriebsstrategie entwickeln: Mehr Erfolg für Ihr Sales-Team'
 description: 'Eine gut durchdachte, flexible Vertriebsstrategie bildet die Basis für die erfolgreiche Arbeit Ihres Vertriebsteams – und damit für den Erfolg Ihres Unternehmens. In diesem Artikel erfahren Sie, wie Sie eine Vertriebsstrategie entwickeln und worauf es dabei besonders ankommt.'
 seo:
-    title: 
-    description: 
+    title: 'Vertriebsplanung strategisch angehen | SeaTable'
+    description: 'Die ideale Lösung für Ihre Vertriebsplanung. Planen Sie strategisch, verwalten Sie Ressourcen und überwachen Sie den Fortschritt in Echtzeit'
 date: 2025-07-03
 categories:
     - 'best-practice'
@@ -93,7 +93,7 @@ Sie wissen nun, wie zentral eine Strategie für den Erfolg Ihres Vertriebs ist u
 
 1. **Nehmen Sie sich Zeit:** Eine Vertriebsstrategie entwickeln Sie nicht über Nacht – und nicht allein. Planen Sie die erforderliche Zeit lieber großzügig und binden Sie Ihr Team und ggf. weitere Abteilungen ein.
 
-2. **Definieren Sie realistische Ziele:** Erst durch formulierte Ziele entsteht Klarheit bei allen Beteiligten. Legen Sie messbare Ziele fest, die durch Daten und Zahlen überprüft werden können, z. B. 10 % mehr Umsatz oder Absatz. Sie können auch qualitative Ziele festlegen, z. B. die Kundenzufriedenheit zu steigern. Da sich solche Ziele schlecht quantifizieren lassen, müssen Sie dann **spezifische Erfolgskriterien** definieren. Ziele können Top-down durch die Geschäftsleitung, Bottom-up durch den Sales oder hybrid festgelegt werden. Wichtig ist, dass Sie immer mit erreichbaren Zielen arbeiten, um die Motivation im Team hoch zu halten.
+2. **Definieren Sie realistische Ziele:** Erst durch formulierte Ziele entsteht Klarheit bei allen Beteiligten. Legen Sie messbare Ziele fest, die durch Daten und Zahlen überprüft werden können, z. B. 10 % mehr Umsatz oder Absatz. Sie können auch qualitative Ziele festlegen, z. B. die [Kundenzufriedenheit]({{< relref "posts/kundenzufriedenheit" >}}) zu steigern. Da sich solche Ziele schlecht quantifizieren lassen, müssen Sie dann **spezifische Erfolgskriterien** definieren. Ziele können Top-down durch die Geschäftsleitung, Bottom-up durch den Sales oder hybrid festgelegt werden. Wichtig ist, dass Sie immer mit erreichbaren Zielen arbeiten, um die Motivation im Team hoch zu halten.
 
 3. **Zielgruppe definieren:** Wer seine Zielgruppe genau kennt, ist seiner Konkurrenz voraus und positioniert das eigene Produkt erfolgreich am Markt. Erstellen Sie wenn möglich Buyer Personas. Auf jeden Fall sollten Sie diese Fragen beantworten können: Für wen ist Ihr Produkt geeignet? Wer braucht es und warum? Wer kann es sich leisten? Je nachdem, ob Sie eine Vertriebsstrategie B2B erstellen oder B2C, können noch weitere Fragen relevant werden.
 
