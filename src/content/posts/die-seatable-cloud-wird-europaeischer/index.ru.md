@@ -8,7 +8,7 @@ aliases:
     - /ru/die-seatable-cloud-wird-europaeischer
 color: 'e86569'
 categories:
-    - 'product-feature'
+    - 'product-features'
 seo:
     title:
     description:

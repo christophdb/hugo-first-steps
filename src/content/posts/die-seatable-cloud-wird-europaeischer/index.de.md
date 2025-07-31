@@ -7,7 +7,7 @@ author: 'cdb'
 url: '/de/die-seatable-cloud-wird-europaeischer'
 color: 'e86569'
 categories:
-    - 'product-feature'
+    - 'product-features'
 seo:
     title: ''
     description: ''
