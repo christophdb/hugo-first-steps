@@ -1,15 +1,21 @@
 ---
 title: 'Top 9 des bases de données en ligne gratuites'
+description: "Une base de données sert de base à la collecte, au traitement et à la présentation des données. Elles regroupent des informations ayant des caractéristiques communes et facilitent leur gestion. Pour créer et travailler avec une base de données, vous n'avez pas toujours besoin de connaissances en programmation. Dans cet article, nous avons comparé les neuf meilleures bases de données en ligne gratuites."
 date: 2022-07-08
 lastmod: '2022-07-27'
 author: 'rdb'
 url: '/fr/base-donnees-en-ligne-gratuite'
 aliases:
     - /fr/online-datenbank-kostenlos
-color: '#eeeeee'
+color: '#7cc3da'
+categories:
+    - 'best-practice'
+tags:
+    - 'Outils & plugins'
+    - 'Gestion des données & visualisation'
 seo:
-    title:
-    description:
+    title: 'Top 9 des bases de données en ligne gratuites'
+    description: 'Obtenez un aperçu de neuf bases de données en ligne connues que vous pouvez obtenir gratuitement.'
 ---
 
 Une base de données sert de base à la saisie, au traitement et à la présentation de données. Elles regroupent des informations ayant des caractéristiques communes et facilitent la gestion. Pour créer et travailler avec une base de données, vous n'avez pas toujours besoin de connaissances en programmation. Certaines bases de données en ligne ont l'avantage d'être à la fois gratuites et faciles à utiliser. Dans cet article, nous avons comparé les neuf meilleures bases de données en ligne gratuites.

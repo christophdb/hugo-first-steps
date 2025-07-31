@@ -6,10 +6,15 @@ author: 'nsc2'
 url: '/pt/equipes-vendas-remotas-trabalho-eficaz'
 aliases:
     - /pt/remote-sales-teams-bewaehrte-praktiken-fuer-effektives-arbeiten
-color: '#eeeeee'
+color: '#187cec'
+categories:
+    - 'best-practice'
+tags: 
+    - 'Transformação digital'
+    - 'Workflows'
 seo:
-    title:
-    description:
+    title: 'Equipas de vendas à distância: melhores práticas para um trabalho eficaz'
+    description: 'Neste artigo, apresentamos as melhores práticas úteis para trabalhar eficazmente em equipas de vendas remotas.'
 ---
 
 As circunstâncias em 2020 alteraram significativamente a forma como o trabalho é efectuado nas empresas. De acordo com uma [sondagem](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx) recente [da Gallup](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx), 9 em cada 10 trabalhadores remotos gostariam de manter esta forma de trabalhar até certo ponto.

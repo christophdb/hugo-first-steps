@@ -1,14 +1,21 @@
 ---
 title: 'Un programme de gestion de la littérature pour y voir plus clair'
+description: "Un programme de gestion de la documentation vous permet de travailler plus facilement sur des projets scientifiques plus importants. Découvrez ci-dessous des conseils pour bien travailler avec un programme de gestion de la documentation et trouvez la solution qui vous convient."
 date: 2024-05-17
 lastmod: '2024-05-17'
 author: 'rdb'
 url: '/fr/gestion-bibliographique'
 aliases:
     - /fr/literaturverwaltung
+categories:
+    - 'best-practice'
+tags:
+    - 'Outils & plugins'
+    - 'Éducation'
+color: '#719da6'
 seo:
-    title:
-    description:
+    title: "Programme de gestion de la littérature pour plus de clarté"
+    description: "Assurez une gestion de la littérature claire et sans erreur. Voici des conseils sur l'utilisation d'un programme de gestion de la littérature."
 ---
 
 Qu'il s'agisse d'un travail de fin d'études, d'une thèse ou d'un rapport de recherche, un **programme de gestion de la littérature** vous facilite le travail sur les projets scientifiques. La création d'une **bibliographie** prend autant de temps que la recherche, la consultation et l'évaluation des **sources**.

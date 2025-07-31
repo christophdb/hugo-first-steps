@@ -1,5 +1,6 @@
 ---
 title: 'Top 9 free online databases'
+description: "A database serves as the basis for recording, processing and displaying data. They summarize information with common characteristics and facilitate administration. You don't always need programming skills to create and work with a database. In this article, we have compared the nine best free online databases."
 date: 2022-07-08
 lastmod: '2022-07-27'
 coverImage: 'Online-Datenbank-kostenlos_AdobeStock_203168528_bearbeitet.jpg'
@@ -7,10 +8,15 @@ author: 'rdb'
 url: '/free-online-database'
 aliases:
     - /online-datenbank-kostenlos
-color: '#eeeeee'
+color: '#7cc3da'
+categories:
+    - 'best-practice'
+tags:
+    - 'Tools & Plugins'
+    - 'Data Management & Visualisation'
 seo:
-    title:
-    description:
+    title: 'Top 9 free online databases'
+    description: 'Get an overview of nine well-known online databases that you can obtain free of charge.'
 ---
 
 A database serves as a basis for collecting, processing and displaying data. They summarise information with common characteristics and facilitate management. You do not always need programming skills to create and work with a database. Some online databases have the advantage of being both free and easy to use. In this article we have compared the nine best free online databases.

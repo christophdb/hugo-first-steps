@@ -1,14 +1,20 @@
 ---
 title: 'How to develop a content marketing strategy - SeaTable'
+description: 'Content marketing is a popular marketing approach for placing your own products with customers and potential prospects.'
 date: 2021-02-28
 lastmod: '2023-06-26'
 coverImage: 'content-marketing-with-seatable.jpg'
 author: 'cdb'
 url: '/content-marketing'
-color: '#eeeeee'
+color: '#ec796d'
+categories:
+    - 'best-practice'
+tags:
+    - 'Content Planning'
+    - 'Marketing Planning'
 seo:
-    title:
-    description:
+    title: 'How to develop a content marketing strategy'
+    description: 'Content marketing is a popular marketing approach for placing your own products with customers and potential prospects.'
 ---
 
 Content marketing is a popular marketing approach to place one's own products with customers and potential prospects. The basic idea behind content marketing is very simple: you create content for your target group, publish it and inspire your customers.

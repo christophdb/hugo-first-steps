@@ -1,15 +1,21 @@
 ---
 title: 'Cómo desarrollar una estrategia de marketing de contenidos - SeaTable'
+description: 'El marketing de contenidos es un enfoque de marketing muy popular para colocar sus propios productos entre los clientes y posibles clientes.'
 date: 2021-02-28
 lastmod: '2023-06-26'
 author: 'cdb'
 url: '/es/marketing-contenidos'
 aliases:
     - /es/content-marketing
-color: '#eeeeee'
+color: '#ec796d'
+categories:
+    - 'best-practice'
+tags:
+    - 'Planificación de marketing'
+    - 'Planificación de contenidos'
 seo:
-    title:
-    description:
+    title: 'Cómo desarrollar una estrategia de marketing de contenidos'
+    description: 'El marketing de contenidos es un enfoque de marketing muy popular para colocar sus propios productos entre los clientes y posibles clientes.'
 ---
 
 El marketing de contenidos es un popular enfoque de marketing para colocar los propios productos entre los clientes y posibles interesados. La idea básica del marketing de contenidos es muy sencilla: creas contenidos para tu grupo objetivo, los publicas e inspiras a tus clientes.

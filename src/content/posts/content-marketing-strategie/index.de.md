@@ -5,7 +5,12 @@ date: 2021-02-28
 lastmod: '2023-06-26'
 author: 'cdb'
 url: '/de/content-marketing'
-color: '#eeeeee'
+color: '#ec796d'
+categories:
+    - 'best-practice'
+tags:
+    - 'Contentplanung'
+    - 'Marketingplanung'
 seo:
     title: 'Strategisches Content-Marketing für Ihr Wachstum'
     description: 'Steigern Sie den Erfolg Ihres Content-Marketings. Verwalten Sie alle Inhalte, Kampagnen und Redaktionspläne an einem Ort für mehr Wirkung'

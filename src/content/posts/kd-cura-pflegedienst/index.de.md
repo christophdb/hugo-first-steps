@@ -5,7 +5,12 @@ date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
 url: '/de/kd-cura-pflegedienst'
-color: '#eeeeee'
+color: '#daecc7'
+categories:
+    - 'customer-story'
+tags:
+    - 'Personalverwaltung'
+    - 'Digitale Transformation'
 seo:
     title: ''
     description: ''
