@@ -7,23 +7,23 @@ author: 'cdb'
 url: '/de/content-marketing'
 color: '#eeeeee'
 seo:
-    title: 'Wie Sie eine Content Marketing Strategie entwickeln'
-    description: 'Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren.'
+    title: 'Strategisches Content-Marketing für Ihr Wachstum'
+    description: 'Steigern Sie den Erfolg Ihres Content-Marketings. Verwalten Sie alle Inhalte, Kampagnen und Redaktionspläne an einem Ort für mehr Wirkung'
 ---
 
-Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren. Der grundsätzliche Gedanke hinter Content Marketing ist dabei denkbar einfach: Man erstellt Inhalte für seine Zielgruppe, publiziert diese und begeistert seine Kunden.
+Content Marketing ist ein beliebter Marketingansatz, um die eigenen Produkte bei den Kunden und potenziellen Interessenten zu platzieren. Der grundsätzliche Gedanke hinter Content Marketing ist dabei denkbar einfach: **Man erstellt Inhalte für seine Zielgruppe**, publiziert diese und begeistert seine Kunden.
 
-So einfach es auf den ersten Blick klingen mag – Content Marketing funktioniert nur, wenn Sie qualitativ hochwertige Inhalte bieten, die den Kunden interessieren; und wenn Sie eine passende Struktur und die passenden Werkzeuge für die Planung, Umsetzung und Learnings haben. Denn eine Content Marketing Strategie zielt nicht auf kurzfristige Effekte ab, wie es z. B. bei bezahlter Werbung wäre, sondern stellt einen langfristigen, organischen Vertriebs- und Kommunikationsansatz heutiger Unternehmen dar.
+So einfach es auf den ersten Blick klingen mag – Content Marketing funktioniert nur, wenn Sie **qualitativ hochwertige Inhalte** bieten, die den Kunden interessieren; und wenn Sie eine passende Struktur und die passenden Werkzeuge für die Planung, Umsetzung und Learnings haben. Denn eine Content Marketing Strategie zielt nicht auf kurzfristige Effekte ab, wie es z. B. bei bezahlter Werbung wäre, sondern stellt einen langfristigen, organischen Vertriebs- und Kommunikationsansatz heutiger Unternehmen dar.
 
-Um eine eigene Content Marketing Strategie aufbauen und ein geeignetes Tool auswählen zu können, ist es erst einmal wichtig zu verstehen, was Content Marketing genau ist und wie die einzelnen Teile miteinander zusammenhängen.
+Um eine eigene Content Marketing Strategie aufbauen und ein geeignetes [Marketing Tool]({{< relref "pages/industry-solutions/marketing" >}}) auswählen zu können, ist es erst einmal wichtig zu verstehen, was Content Marketing genau ist und wie die einzelnen Teile miteinander zusammenhängen.
 
 ## Welche Vorteile hat Content Marketing?
 
-Jede Art von Marketing zielt darauf ab, die Aufmerksamkeit von Menschen oder Kunden zu gewinnen. Doch während Werbung typischerweise versucht Menschen zu einer unmittelbaren Aktion zu verleiten, will Content Marketing Menschen schon weit vor dem eigentlichen Produktinteresse ansprechen. Man möchte durch spannende Geschichten und Inhalte Menschen in jedem Abschnitt der [Customer Journey](https://de.wikipedia.org/wiki/Customer_Journey) erreichen und für das eigene Unternehmen und die eigenen Produkte sensibilisieren.
+Jede Art von Marketing zielt darauf ab, die **Aufmerksamkeit von Menschen oder Kunden zu gewinnen**. Doch während Werbung typischerweise versucht Menschen zu einer unmittelbaren Aktion zu verleiten, will Content Marketing Menschen schon weit vor dem eigentlichen Produktinteresse ansprechen. Man möchte durch spannende Geschichten und Inhalte Menschen in jedem Abschnitt der [Customer Journey](https://de.wikipedia.org/wiki/Customer_Journey) erreichen und für das eigene Unternehmen und die eigenen Produkte sensibilisieren.
 
-Natürlich können Sie eine Content Marketing Strategie auch so ausrichten, dass der Verkauf von Produkten im Vordergrund steht. Normalerweise ist aber beabsichtigt, Interesse zu wecken, eine Marke bekannt zu machen oder eine positive Assoziation mit einer Marke oder einem Produkt zu erzielen.
+Natürlich können Sie eine Content Marketing Strategie auch so ausrichten, dass der Verkauf von Produkten im Vordergrund steht. Normalerweise ist aber beabsichtigt, **Interesse zu wecken, eine Marke bekannt zu machen oder eine positive Assoziation** mit einer Marke oder einem Produkt zu erzielen.
 
-Gerade wenn Sie erklärungsbedürftige Produkte entwickeln oder es nicht den _einen_ Kaufmoment gibt, verspricht Content Marketing langfristig erfolgreicher und wirkungsvoller zu sein als bezahlte Werbung, die große Streuverluste mit sich bringen kann. Wenn Ihre Firma den Content sinnvoll auf eine zukünftige Zielgruppe zuschneidet, wird sich der potenzielle Kunde im entsprechenden Moment an Ihre Marke erinnern und sich für das entsprechende Produkte entscheiden.
+Gerade wenn Sie erklärungsbedürftige Produkte entwickeln oder es nicht **den einen Kaufmoment** gibt, verspricht Content Marketing **langfristig erfolgreicher und wirkungsvoller** zu sein als bezahlte Werbung, die große Streuverluste mit sich bringen kann. Wenn Ihre Firma den Content sinnvoll auf eine zukünftige Zielgruppe zuschneidet, wird sich der potenzielle Kunde im entsprechenden Moment an Ihre Marke erinnern und sich für das entsprechende Produkte entscheiden.
 
 ### Die Vorteile von Content Marketing im Überblick
 
@@ -31,7 +31,7 @@ Gerade wenn Sie erklärungsbedürftige Produkte entwickeln oder es nicht den _ei
 - funktioniert in allen Phasen der Customer Journey
 - ist weniger aufdringlich und wird tendenziell weniger als Werbung wahrgenommen
 - kann sich über virale Effekte selbst verstärken
-- harmoniert mit SEO, PR und Social Media Marketing
+- harmoniert mit SEO, PR und [Social Media Marketing]({{< relref "posts/social-media-management" >}})
 
 **Gleichzeitig hat Content Marketing auch Schwächen**
 
@@ -41,7 +41,7 @@ Gerade wenn Sie erklärungsbedürftige Produkte entwickeln oder es nicht den _ei
 
 Diese Schwächen bestätigt auch eine [Untersuchung aus dem Jahre 2016](https://www.forbes.com/sites/sujanpatel/2016/01/03/what-your-2016-content-marketing-strategy-should-look-like/#69c6a60a342e), welche deutlich das zentrale Problem des Content Marketings zeigt: Obwohl 76 Prozent der befragten Unternehmer mit einer Content Marketing Strategie arbeiten und davon überzeugt sind, dass Content Marketing funktioniert, sagen nur 37 Prozent, dass sie mit ihrer Strategie erfolgreich sind.
 
-Die Autoren der Studie kommen zu dem Schluss, dass Content Marketing zwar ein erfolgreiches Marketing-Instrument ist, aber eben nur, wenn man nicht wahllos irgendwelche Inhalte und Beiträge erzeugt. Der entscheidende Unterschied besteht darin, das eigene Vorgehen zu planen, einen Prozess und eine Struktur zu etablieren und ein Tool zu verwenden, welches sich den eigenen Bedürfnissen anpasst und dem Team hilft, alle Informationen im Blick zu behalten.
+Die Autoren der Studie kommen zu dem Schluss, dass Content Marketing zwar ein erfolgreiches Marketing-Instrument ist, aber eben nur, wenn man **nicht wahllos irgendwelche Inhalte und Beiträge erzeugt**. Der entscheidende Unterschied besteht darin, das eigene Vorgehen zu planen, einen Prozess und eine Struktur zu etablieren und ein Tool zu verwenden, welches sich den eigenen Bedürfnissen anpasst und dem Team hilft, alle Informationen im Blick zu behalten.
 
 Worauf kommt es also bei einer Content Marketing Strategie an? Was muss eine Softwarelösung können, damit sie den Prozess zur Content-Erstellung optimal unterstützt?
 
@@ -57,11 +57,11 @@ Es gibt verschiedene Definitionen von Content Marketing, aber die Beschreibung m
 
 ## Warum reine Kanban- und Prozessmanagement-Tools nicht für das Content Marketing geeignet sind
 
-Es ist wichtig zu verstehen, dass Content Marketing üblicherweise aus vielen kleinen Puzzleteilen besteht und dass nicht ein einziger guter Artikel den gewünschten Erfolgt bringt. Beispielsweise erstellt die SEO-Agentur _Content Marketing Star_ selbst bei kleinen Projekten eine Content Pipeline mit Dutzenden, wenn nicht sogar Hunderten Suchbegriffen, und erstellt dann den passenden Content.
+Es ist wichtig zu verstehen, dass Content Marketing üblicherweise aus vielen kleinen Puzzleteilen besteht und dass nicht ein einziger guter Artikel den gewünschten Erfolgt bringt. Beispielsweise erstellen SEO-Agentur selbst bei kleinen Projekten eine Content Pipeline mit Dutzenden, wenn nicht sogar Hunderten Suchbegriffen, und erstellt dann den passenden Content.
 
 Content Marketing erfordert ein Tool, das den Überblick über diese Masse an Informationen ermöglicht und eine zielgerichtete Veröffentlichung von geplanten Inhalten erlaubt.
 
-Typische Kanban- und Projektmanagement-Tools wie Trello oder Asana sind mit dieser großen Menge an Informationen schnell überfordert. Wenn man z. B. eine Google Keywordrecherche mit Hunderten von SEO-Begriffen in so eine Software importiert, hat man praktisch schon die notwendige Übersicht verloren.
+Typische Kanban- und [Projektmanagement-Tools]({{< relref "pages/industry-solutions/project-management" >}}) wie Trello oder Asana sind mit dieser großen Menge an Informationen schnell überfordert. Wenn man z. B. eine Google Keywordrecherche mit Hunderten von SEO-Begriffen in so eine Software importiert, hat man praktisch schon die notwendige Übersicht verloren.
 
 Gehen wir also die Schritte durch, die notwendig sind, um eine Content Marketing Strategie aufzubauen, und wie ein geeignetes Content Marketing Tool aussieht.
 
@@ -153,7 +153,7 @@ Als Autor oder Redakteur möchten Sie vielleicht die geplanten Veröffentlichung
 
 ![Redaktionsplanung per Drag&Drop in SeaTable](redaktionsplanung-seatable-kalender.png)
 
-Redaktionsplanung per Drag & Drop in SeaTable
+[Redaktionsplan erstellen]({{< relref "posts/redaktionsplan-contentplan" >}}) per Drag & Drop in SeaTable
 
 Jede dieser unterschiedlichen Ansichten hebt bestimmte Aspekte der Content Pipeline hervor, während andere versteckt oder ausgeblendet werden. So erhält jeder im Team genau die richtige Menge an Informationen, die er für seine Arbeit benötigt.
 
@@ -163,7 +163,7 @@ Sorgen Sie auch dafür, dass Ihnen nicht vorzeitig die Ideen ausgehen. Fragen Si
 
 ![Brainstorming als Vorbereitung für das Content Marketing](seatable-content-brainstorming-1.png)
 
-Ihr Ziel sollte es sein, beständig im Austausch mit Ihren Kunden zu stehen und die Hürden zum Melden solcher Ideen so gering wie möglich zu halten. Sie werden sehen: Der beste Weg, um in regelmäßigen Abständen guten Content zu veröffentlichen, besteht darin, einen konstanten Strom hochwertiger Ideen zu erhalten.
+Ihr Ziel sollte es sein, beständig im Austausch mit Ihren Kunden zu stehen und die Hürden zum Melden solcher Ideen so gering wie möglich zu halten. Sie werden sehen: Der beste Weg, um in regelmäßigen Abständen guten Content zu veröffentlichen, besteht darin, einen **konstanten Strom hochwertiger Ideen** zu erhalten.
 
 ## 3\. Veröffentlichung und Analyse
 
@@ -175,17 +175,17 @@ Richten Sie auf Ihrer Webseite einen Feedback-Bereich ein und erlauben Sie Ihren
 
 Diese Art von Analyse zur Verbesserung der eigenen Content Marketing Strategie ist wahrlich keine Raketenwissenschaft, sondern hauptsächlich das Ergebnis einfacher, checklistenähnlicher Aktionen, die in den meisten Fällen einfach nur vergessen werden oder denen man keine Priorität einräumt.
 
-Machen Sie nicht den gleichen Fehler und etablieren Sie von Anfang an solche Feedback- und Analyseprozesse. SeaTable liefert Ihnen alle notwendigen Fähigkeiten, die Sie benötigen.
+Machen Sie nicht den gleichen Fehler und **etablieren Sie von Anfang an solche Feedback- und Analyseprozesse**. SeaTable liefert Ihnen alle notwendigen Fähigkeiten, die Sie benötigen.
 
 ### Machen Sie sich eine Feedback-Checkliste
 
-Achten Sie darauf, dass Ihre Artikel immer einer Ihrer Personas zugeordnet sind. Nur so haben Sie die Möglichkeit, Ihren Content nach der Veröffentlichung zu überprüfen und diesen im Laufe der Zeit kontinuierlich zu verbessern. Schreiben Sie Inhalte gemäß der Annahmen über die Wünsche Ihrer Kunden und verfeinern Sie diese Erkenntnisse fortlaufend.
+Achten Sie darauf, dass Ihre **Artikel immer einer Ihrer Personas zugeordnet** sind. Nur so haben Sie die Möglichkeit, Ihren Content nach der Veröffentlichung zu überprüfen und diesen im Laufe der Zeit kontinuierlich zu verbessern. Schreiben Sie Inhalte gemäß der Annahmen über die Wünsche Ihrer Kunden und verfeinern Sie diese Erkenntnisse fortlaufend.
 
 Zwingen Sie sich, auf diese strukturierte Weise über Inhalte nachzudenken, um wirklich Herr über Ihre strategischen Entscheidungen zu sein.
 
 ### Überwachen Sie die tatsächlichen Zugriffszahlen
 
-Sie werden schnell feststellen, dass Sie bei guten Artikeln schon nach wenigen Wochen einen Zuwachs an organischem Traffic auf Ihrer Webseite beobachten können. Machen Sie sich die Mühe und speichern Sie die Zugriffszahlen Ihrer Artikel regelmäßig. Anfangs sollten Sie die Zahlen noch manuell aus [Google Analytics](https://analytics.google.com/analytics/web/) übernehmen, später können Sie eine automatische Datenerfassung, z. B. mit [Zapier](https://zapier.com/apps/google-analytics/integrations/seatable) oder der [SeaTable API](https://api.seatable.com), einrichten.
+Sie werden schnell feststellen, dass Sie bei guten Artikeln schon nach wenigen Wochen einen **Zuwachs an organischem Traffic** auf Ihrer Webseite beobachten können. Machen Sie sich die Mühe und speichern Sie die Zugriffszahlen Ihrer Artikel regelmäßig. Anfangs sollten Sie die Zahlen noch manuell aus Google Analytics oder anderen Analysetools übernehmen, später können Sie eine **automatische Datenerfassung**, z. B. mit [Zapier](https://zapier.com/apps/google-analytics/integrations/seatable) oder der [SeaTable API](https://api.seatable.com), einrichten.
 
 Sie werden sehen, dass es sich lohnt, diese Auswertungen in SeaTable zu erfassen, um sich die Zahlen anschließend als Statistik in einem Balken-, Linien- oder Kuchendiagramm anzeigen zu lassen.
 
@@ -193,12 +193,12 @@ Sie werden sehen, dass es sich lohnt, diese Auswertungen in SeaTable zu erfassen
 
 Statistische Auswertungen der Zugriffszahlen und der geplanten Postings mit SeaTable
 
-Das Analysieren Ihrer Inhalte und Zugriffszahlen kann in der Hektik der nächsten Veröffentlichungen leicht untergehen. Natürlich ist es wichtig, dass Sie regelmäßig neuen Content veröffentlichen. Trotzdem sollten Sie sich die Zeit nehmen, bei jedem Artikel, den Sie veröffentlichen, eine kurze Erwähnung auf Facebook, Twitter oder LinkedIn zu posten. Auch für diesen Schritt können Sie SeaTable zur Planung nutzen oder das Posting direkt per Zapier absetzen. Sie werden begeistert sein, wie viel sich in Ihrem Content Marketing Prozess optimieren lässt, wenn Sie sich etwas Zeit nehmen und über Verbesserungen nachdenken.
+Das Analysieren Ihrer Inhalte und Zugriffszahlen kann in der Hektik der nächsten Veröffentlichungen leicht untergehen. Natürlich ist es wichtig, dass Sie **regelmäßig neuen Content veröffentlichen**. Trotzdem sollten Sie sich die Zeit nehmen, bei jedem Artikel, den Sie veröffentlichen, eine kurze Erwähnung auf ihren Socila-Media Kanälen zu posten. Auch für diesen Schritt können Sie SeaTable zur Planung nutzen oder das Posting direkt per Zapier absetzen. Sie werden begeistert sein, wie viel sich in Ihrem Content Marketing Prozess optimieren lässt, wenn Sie sich etwas Zeit nehmen und über Verbesserungen nachdenken.
 
 ## Ein Redaktionsplan zur Organisation Ihrer Content Marketing Strategie
 
 Es fragt sich, warum so viele Unternehmer das Gefühl haben, dass ihr Content Marketing nicht funktioniert. Wahrscheinlich liegt es daran, dass die Unternehmen entweder keine Strategie oder das falsche Tool haben.
 
-Überzeugen Sie sich selbst davon, dass Content Marketing ein wirksames Mittel ist und entscheidend zu Ihrem Unternehmenserfolg beitragen kann. Wenn Sie Erfolg haben wollen, dann verzichten Sie auf austauschbare Inhalte und unübersichtliche Projektmanagement-Tools.
+Überzeugen Sie sich selbst davon, dass **Content Marketing ein wirksames Mittel ist und entscheidend zu Ihrem Unternehmenserfolg beitragen** kann. Wenn Sie Erfolg haben wollen, dann verzichten Sie auf austauschbare Inhalte und unübersichtliche Projektmanagement-Tools.
 
 Verwenden Sie SeaTable, um Ihre Personas, Ziele und Inhalte festzulegen und deren Erarbeitung genauestens zu überwachen. Etablieren Sie einen sich selbst verbessernden Prozess und Sie werden sehen, wie sich der Erfolg einstellen wird. Starten Sie jetzt mit unseren [Marketing-Templates]({{< relref "templates/marketing/content-marketing-strategy" >}}) und passen Sie diese an Ihre Bedürfnisse an.
