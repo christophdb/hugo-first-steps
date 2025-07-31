@@ -1,6 +1,6 @@
 ---
 title: 'Pionero digital en el servicio de asistencia'
-description: 'Con SeaTable, Norman Kolwitz, fundador de KD-Cura, quiere hacer un trabajo pionero en su sector digitalizando los procesos de su servicio de atención ambulatoria. En su búsqueda de una herramienta adecuada, se topó con SeaTable y encuentra el sistema muy "encantador".'
+description: 'Con SeaTable, Norman Kolwitz, fundador de KD-Cura, quiere hacer un trabajo pionero en su sector digitalizando los procesos de su servicio de atención ambulatoria. En su búsqueda de una herramienta adecuada, se topó con SeaTable y encuentra el sistema muy encantador.'
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
@@ -14,8 +14,8 @@ tags:
     - 'Transformación digital'
     - 'Administración de RR.HH.'
 seo:
-    title:
-    description:
+    title: ''
+    description: ''
 ---
 
 Con SeaTable, Norman Kolwitz, fundador de KD-Cura, quiere ser pionero en su sector digitalizando los procesos de su servicio de atención ambulatoria. En su búsqueda de una herramienta adecuada, dio con SeaTable y encuentra el sistema muy "encantador".

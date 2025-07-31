@@ -1,6 +1,6 @@
 ---
 title: 'How Ventil Publishing is taking its internal processes to a new level'
-description: 'Ventil Publishing needs a flexible organization tool for its internal publishing processes. The diverse and small organizational tasks that cannot be meaningfully mapped in any standard software have led Ventil Publishing to SeaTable.
+description: 'Ventil Publishing needs a flexible organization tool for its internal publishing processes. The diverse and small organizational tasks that cannot be meaningfully mapped in any standard software have led Ventil Publishing to SeaTable.'
 categories:
     - 'customer-story'
 tags:
@@ -16,8 +16,8 @@ aliases:
     - /ventil-verlag
 color: '#dadff6'
 seo:
-    title:
-    description:
+    title: ''
+    description: ''
 ---
 
 Ventil Publishing needs a flexible organisational tool for its internal publishing processes. The diverse and small organisational tasks that cannot be meaningfully mapped in any standard software led Ventil Publishing to SeaTable.

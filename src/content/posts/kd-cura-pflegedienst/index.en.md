@@ -1,6 +1,6 @@
 ---
 title: 'Digital pioneering in the care service'
-description: 'With SeaTable, Norman Kolwitz, founder of KD-Cura, wants to do pioneering work in his industry by digitizing processes in his outpatient care service. In his search for a suitable tool, he came across SeaTable and finds the system very "charming".'
+description: 'With SeaTable, Norman Kolwitz, founder of KD-Cura, wants to do pioneering work in his industry by digitizing processes in his outpatient care service. In his search for a suitable tool, he came across SeaTable and finds the system very charming.'
 date: 2021-02-12
 lastmod: '2023-07-11'
 coverImage: 'KD-Cura-pionarbeit-in-der-pflege.jpg'
@@ -15,8 +15,8 @@ tags:
     - 'HR Administration'
     - 'Digital Transformation'
 seo:
-    title:
-    description:
+    title: ''
+    description: ''
 ---
 
 With SeaTable, Norman Kolwitz, founder of KD-Cura, wants to pioneer in his industry by digitising processes in his outpatient care service. In his search for a suitable tool, he came across SeaTable and finds the system very "charming".
