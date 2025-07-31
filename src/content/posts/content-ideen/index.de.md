@@ -6,8 +6,8 @@ lastmod: '2025-02-13'
 author: 'nsc'
 url: '/de/content-ideen'
 seo:
-    title: 'Content-Ideen, die immer funktionieren'
-    description: 'Erfahren Sie, wie ein erfolgreicher Social-Media-Auftritt durch die ideale Auswahl von Content-Ideen für Instagram, TikTok und Co. gelingt!'
+    title: 'Innovative Content-Ideen für mehr Reichweite '
+    description: 'Entdecken Sie innovative Content-Ideen, um Ihre Zielgruppe zu begeistern. Erfahren Sie, wie Sie ansprechende Inhalte für Social-Media entwickeln können'
 categories:
     - 'best-practice'
 tags:
@@ -135,6 +135,6 @@ Posten Sie beispielsweise unter dem Hashtag #throwbackthursday vergangene Erfolg
 
 Mit SeaTable haben Sie die Möglichkeit, Ihre Content-Ideen perfekt zu planen. Unser [Social-Media-Plan]({{< relref "templates/marketing/social-media-plan" >}}) kann Ihnen als Inspiration für Ihre Content-Planung dienen. Füllen Sie die Pipeline für Ihren Social-Media-Auftritt, sodass Ihnen nie die Posts für Instagram, TikTok und Co. ausgehen.
 
-In dieser Vorlage können Sie die 14 Content-Ideen aus diesem Blogartikel zum Beispiel als wiederkehrende Formate mit unterschiedlichen Themenschwerpunkten anlegen. Passen Sie den Plan an Ihren individuellen Bedarf an, um Ihre Content-Ideen für Social Media zu sammeln und anschließend umzusetzen.
+In dieser Vorlage können Sie die 14 Content-Ideen aus diesem Blogartikel zum Beispiel als wiederkehrende Formate mit unterschiedlichen Themenschwerpunkten anlegen. Passen Sie den Plan an Ihren individuellen Bedarf an, um Ihre Content-Ideen für dein [Social-Media-Management]({{< relref "posts/social-media-management" >}}) zu sammeln und anschließend umzusetzen.
 
 Mit SeaTable erstellen Sie intuitiv Übersichten, Tabellen, Pläne und vieles mehr und sparen damit wertvolle Zeit. Probieren Sie’s aus!
