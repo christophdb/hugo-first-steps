@@ -7,7 +7,7 @@ author: 'cdb'
 url: '/de/die-seatable-cloud-wird-europaeischer'
 color: 'e86569'
 categories:
-    - 'product-feature'
+    - 'product-features'
 seo:
     title: 'SeaTable Cloud wird europäischer: Mehr Sicherheit in der EU'
     description: 'Die Cloud wird europäischer: Erfahren Sie, wie dieser Schritt die Datensicherheit stärkt und neue Möglichkeiten für Nutzer in der EU schafft.'

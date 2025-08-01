@@ -15,8 +15,8 @@ aliases:
     - /es/ventil-verlag
 color: '#dadff6'
 seo:
-    title:
-    description:
+    title: ''
+    description: ''
 ---
 
 El Ventil Editorial necesita una herramienta organizativa flexible para sus procesos editoriales internos. Las múltiples y pequeñas tareas organizativas, que no pueden representarse de manera adecuada en ningún software estándar, llevaron a Ventil Editorial a SeaTable.
