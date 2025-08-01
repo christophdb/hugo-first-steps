@@ -14,6 +14,7 @@ seo:
     description: 'Wenn Sie sich schon immer gefragt haben, was fakturieren heißt und wofür die Fakturierung von Bedeutung ist, werden Sie in diesem Artikel fündig.'
 draft: true
 ---
+<!-- Ändere bitte den ersten Satz in der Description. Der passt überhaupt nicht zur Zielgruppe.-->
 
 ## Was bedeutet Fakturierung? Definition und Relevanz
 
@@ -33,7 +34,7 @@ Auf den ersten Blick scheinen die Vorteile der Fakturierung offensichtlich zu se
 - **Automatisierung**: Wiederkehrende Prozesse wie Zahlungserinnerungen laufen in einem Fakturierungsprogramm einfach von selbst ab.
 - **Rechtssicherheit**: Eine Fakturierungssoftware enthält üblicherweise vorgefertigte Muster, in denen alle Pflichtangaben für die Rechnung integriert sind.
 
-Die zentralen Nachteile der Fakturierung sind der **hohe Aufwand** und die **Fehleranfälligkeit** – vor allem, wenn Sie noch manuell Rechnungen in Excel-Tabellen oder Textdokumenten schreiben. Da die Fakturierung für Unternehmen unumgänglich ist, sollten Sie den Prozess so weit wie möglich optimieren und automatisieren, um menschliche Fehler zu minimieren. Mehr dazu erfahren Sie weiter unten auf dieser Seite.
+Die zentralen Nachteile der Fakturierung sind der **hohe Aufwand** und die **Fehleranfälligkeit** – vor allem, wenn Sie noch manuell Rechnungen in Excel-Tabellen oder Textdokumenten schreiben. Da die Fakturierung für Unternehmen unumgänglich ist, sollten Sie den Prozess so weit wie möglich optimieren und automatisieren, um menschliche Fehler zu minimieren. Mehr dazu erfahren Sie weiter unten auf dieser Seite. <!-- Hier könntest du schon mal einen Satz einfügen, dass sich moderne Cloud-Lösungen gut dafür eignen.>
 
 ![Fakturierung Definition](fakturierung.jpg)
 
@@ -55,9 +56,9 @@ Die Fakturierung gehört zum Rechnungswesen Ihres Unternehmens und läuft im Wes
 {{< warning headline="Rechnungseingang und Rechnungsausgang" text="Beim Rechnungsausgang versenden Sie Rechnungen an Ihre Kunden, wohingegen Sie im Rechnungseingang selbst Rechnungen von Lieferanten oder Dienstleistern erhalten. Eine Rechnung ist daher je nach Perspektive sowohl eine Forderung (des Leistungserbringers) als auch eine Verbindlichkeit (des Leistungsempfängers)." />}}
 
 ## Rechtliche Aspekte bei der Rechnungsstellung
-
+<!-- Dieser Abschnitt muss bei der Übersetzung so gut es geht lokalisiert werden. Zumindest für FR solltest du einmal recherchieren, wie die Vorgaben sind. Patricia oder Ronan können dabei bestimmt helfen. Wenn du es ohne großen Aufwand auch für ES, PT und RU herausbekommst, gerne auch dafür anpassen. Für die EN-Version reicht vielleicht ein einschränkender Satz, dass z. B. in Deutschland/der EU die Rechtslage so ist. In GB gibt es ähnliche Vorgaben. Ich weiß, dass es in Österreich und der Schweiz sehr ähnliche Vorschriften gibt. -->
 In Deutschland ist die Fakturierung ausführlich in [Paragraph 14 des Umsatzsteuergesetzes (§ 14 UStG)](https://www.gesetze-im-internet.de/ustg_1980/__14.html) geregelt. Demnach sind Sie gegenüber anderen Unternehmen verpflichtet, Rechnungen über Ihre erbrachten Leistungen auszustellen. Eine solche Verpflichtung besteht bei einem Verkauf an Privatpersonen nicht.
-
+<!-- In Österreich und der Schweiz gibt es nahezu identische Vorgaben. Sollten wir das noch erwähnen? -->
 ### Fakturierungsfristen
 
 Die Frist für die Rechnungsstellung richtet sich danach, ob Ihr Kunde ein Unternehmen oder eine Privatperson ist:  
@@ -114,11 +115,11 @@ Das Finanzamt akzeptiert nur Rechnungen, die mit einer Rechnungsnummer versehen 
 Wenn Sie Ihre Rechnungen händisch nummerieren, können versehentlich **Duplikate oder fehlende Nummern** entstehen. Ein professionelles Fakturierungsprogramm erzeugt hingegen für jede neue Rechnung eine eindeutige Identifikationsnummer. Deshalb ist es empfehlenswert, eine [automatische Nummer]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) von einer Software generieren zu lassen.
 
 ### Umsatzsteuer bei der Fakturierung richtig ausweisen
-
+<!-- Entweder nimmst du bei der Übersetzung den ersten Satz zur Umsatzsteuer raus oder du lokalisierst ihn. Der zweite Absatz muss auch lokalisiert werden. --> 
 In Deutschland beträgt der **reguläre Umsatzsteuersatz** 19 Prozent und der **ermäßigte Umsatzsteuersatz** 7 Prozent. Je nach Art der Waren und Dienstleistungen, die Sie fakturieren, gelten womöglich unterschiedliche Steuersätze. Nicht immer ist dabei logisch nachvollziehbar, in welchem Fall welcher Steuersatz zur Anwendung kommt. Informieren Sie sich und achten Sie darauf, Ihre Produkte und Dienstleistungen korrekt zu versteuern.  
   
 Noch komplizierter kann es werden, wenn Sie Auslandsgeschäfte fakturieren: Nehmen Sie die **Rechnungsstellung für Kleinunternehmer oder Privatkunden im Ausland** vor, müssen Sie den deutschen Steuersatz berechnen. Ist Ihr Kunde jedoch ein **Unternehmen in der EU**, muss es die Umsatzsteuer in seinem jeweiligen Mitgliedstaat ans Finanzamt abführen. Dies nennt man [Reverse-Charge-Verfahren](https://de.wikipedia.org/wiki/Umkehrung_der_Steuerschuldnerschaft_(Deutschland)). In diesem Fall weisen Sie **keine Umsatzsteuer** aus, sondern notieren auf der Rechnung die **Steuerschuldnerschaft des Leistungsempfängers**. Außerdem müssen Sie auf der Rechnung sowohl Ihre Umsatzsteuer-Identifikationsnummer als auch die Ihres Kundenunternehmens angeben. Für die Fakturierung bei Unternehmen in Drittstaaten außerhalb der EU gilt ebenfalls nicht die deutsche Umsatzsteuer, sondern die Regelung des jeweiligen Landes.
-  
+<!-- Es gibt eine EU-weite Kleinunternehmerregelung, die der deutschen entspricht. Jedoch sind die Grenzbeträge von Land zu Land unterschiedlich. Die müssten für FR, ES und PT angepasst werden. Prüf bitte mal, ob es für RU und EN etwas Ähnliches gibt, sonst würde ich die Infobox in den beiden Übersetzungen weglassen. -->  
 {{< warning headline="Umsatzsteuerbefreiung von Kleinunternehmern" >}} 
 Eine wichtige Ausnahme gibt es auch bei der Rechnungsstellung für Kleinunternehmer in Deutschland. Diese müssen nach [§ 19 UStG](https://www.gesetze-im-internet.de/ustg_1980/__19.html) bis zu einer gewissen Grenze keine Umsatzsteuer zahlen. **Ihr Umsatz bleibt steuerfrei, wenn der Gesamtumsatz im vorangegangenen Kalenderjahr 25.000 Euro nicht überschritten hat und im laufenden Kalenderjahr 100.000 Euro nicht überschreitet**. Damit sich Ihre Kunden nicht wundern, vermerken Sie auf der Rechnung am besten: „Im ausgewiesenen Rechnungsbetrag ist gemäß Klein­unternehmer­regelung (§ 19 UStG) keine Umsatzsteuer enthalten.“
 {{< /warning >}}
@@ -153,7 +154,7 @@ Hier nochmal ein Überblick über die häufigsten Stolpersteine bei der Fakturie
 
 ## Kostenlose Vorlage für die elektronische Rechnungsstellung
 
-Durch die elektronische Rechnungsstellung mit einer Fakturierungssoftware sparen Sie viel Zeit und Papier. Weitere Vorteile für die Fakturierung in Ihrem Unternehmen sind die geringere Fehleranfälligkeit, die Automatisierung wiederkehrender Prozesse und die ebenso einfache wie übersichtliche Datenaufbereitung. Vorgefertigte Rechnungsvorlagen, in denen bereits alle Pflichtangaben enthalten sind, helfen Ihnen den gesetzlichen Anforderungen gerecht zu werden.  
+Durch die elektronische Rechnungsstellung mit einer Fakturierungssoftware sparen Sie viel Zeit und Papier. Weitere Vorteile für die Fakturierung in Ihrem Unternehmen sind die geringere Fehleranfälligkeit, die Automatisierung wiederkehrender Prozesse und die ebenso einfache wie übersichtliche Datenaufbereitung. Vorgefertigte Rechnungsvorlagen, in denen bereits alle Pflichtangaben enthalten sind, helfen Ihnen <!-- fehlt hier ein Komma?--> den gesetzlichen Anforderungen gerecht zu werden.  
   
 Klingt gut? Dann starten Sie mit der [kostenlosen Vorlage von SeaTable]({{< relref "templates/finance/invoice-creation" >}}) und gestalten Sie die Fakturierung in Ihrem Unternehmen ganz nach Ihren Vorstellungen! Für einen Vorgeschmack auf unsere Vorlage scrollen Sie durch unser interaktiv eingebettetes Template:
 
