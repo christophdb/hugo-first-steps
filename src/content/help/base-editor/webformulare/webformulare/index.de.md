@@ -12,15 +12,15 @@ url: '/de/hilfe/webformulare'
 
 Machen Sie sich mit SeaTables Formularfunktion vertraut, um Daten bequem über Webformulare zu erheben!
 
-## Funktionsweise von Webformularen
+## Funktionsweise von Formularen
 
-Das klassische Webformular ist ideal für **Online-Umfragen** und die strukturierte Erfassung neuer Daten. Die Tabellenspalten werden mithilfe von **Formularfeldern** integriert und die Nutzer durch den Ausfüllprozess geleitet. Für den Zugriff erstellen Sie einen Link, über den die Nutzer **ohne SeaTable-Benutzerkonto** das Webformular ausfüllen können. Ein ausgefülltes Webformular entspricht dabei **einem Datensatz** bzw. einer hinzugefügten Zeile in der entsprechenden Tabelle.
+Das klassische Webformular ist ideal für **Online-Umfragen** und die strukturierte Erfassung neuer Daten. Die Tabellenspalten werden mithilfe von **Formularfeldern** integriert und die Nutzer durch den Ausfüllprozess geleitet. Für den Zugriff erstellen Sie einen Link, über den die Nutzer **ohne SeaTable Benutzerkonto** das Webformular ausfüllen können. Ein ausgefülltes Webformular entspricht dabei **einem Datensatz** bzw. einer hinzugefügten Zeile in der entsprechenden Tabelle.
 
-Webformulare beziehen sich immer auf eine **Tabelle** in der geöffneten Base. Daher müssen Sie zunächst die relevante Tabelle und Ansicht öffnen, bevor Sie ein Formular anlegen. In jeder Base können Sie eine **beliebige Anzahl** an Webformularen erstellen und speichern.
+Formulare beziehen sich immer auf eine **Tabelle** in der geöffneten Base. Daher müssen Sie zunächst die relevante Tabelle und Ansicht öffnen, bevor Sie ein Formular anlegen. In jeder Base können Sie eine **beliebige Anzahl** an Formularen erstellen und speichern.
 
 ## Formular erstellen
 
-Öffnen Sie die Formularverwaltung über die Schaltfläche {{< seatable-icon icon="dtable-icon-form" >}} **Webformulare** oben rechts im Base-Header. Die Formularverwaltung präsentiert sich Ihnen als leere Liste, wenn in der Base noch keine Formulare angelegt wurden. Ansonsten werden die schon bestehenden Formulare in dem geöffneten Fenster angezeigt.
+Öffnen Sie die Formularverwaltung über die Schaltfläche {{< seatable-icon icon="dtable-icon-form" >}} **Formulare** oben rechts im Base-Header. Die Formularverwaltung präsentiert sich Ihnen als leere Liste, wenn in der Base noch keine Formulare angelegt wurden. Ansonsten werden die schon bestehenden Formulare in dem geöffneten Fenster angezeigt.
 
 ![Optionen Klassisches Formular](images/Optionen-Klassisches-Formular.gif)
 
