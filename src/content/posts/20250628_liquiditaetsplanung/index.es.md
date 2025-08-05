@@ -1,6 +1,6 @@
 ---
 title: 'Planificación de la liquidez: consejos para su plan de liquidez'
-description: 'La planificación de la liquidez no es sólo una medida de precaución, sino el requisito previo para una empresa preparada para el futuro.'
+description: 'La planificación de la liquidez no es sólo una medida de precaución, sino el requisito previo para una empresa preparada para el futuro. Lea nuestro artículo para saber cómo mantener su liquidez estable a largo plazo.'
 date: 2025-06-28
 lastmod: '2025-06-28'
 url: '/es/planificacion-de-la-liquidez'
@@ -62,11 +62,11 @@ Un plan de liquidez bien pensado no es ciencia espacial: con un sistema claro, p
 
 4. **Registrar los desembolsos:** Registrar todos los gastos previstos: Esto incluye gastos de compra, salarios, alquiler, seguros, marketing, impuestos, amortización de préstamos e inversiones. También debes tener en cuenta los gastos irregulares o estacionales.
 
-5 **Calcular la liquidez neta:** Deduce los pagos de los ingresos. Así obtendrás la liquidez neta del periodo en cuestión. Un valor positivo significa un excedente de liquidez; un valor negativo indica un posible cuello de botella.
+5. **Calcular la liquidez neta:** Deduce los pagos de los ingresos. Así obtendrás la liquidez neta del periodo en cuestión. Un valor positivo significa un excedente de liquidez; un valor negativo indica un posible cuello de botella.
 
-6 **Calcular el saldo final:** Suma o resta la liquidez neta del saldo inicial. Esto le dará el saldo de caja previsto al final del periodo.
+6. **Calcular el saldo final:** Suma o resta la liquidez neta del saldo inicial. Esto le dará el saldo de caja previsto al final del periodo.
 
-7 **Analiza y ajusta:** Comprueba tus resultados con regularidad. ¿Hay periodos críticos en los que su liquidez se vuelve escasa? ¿Es necesario aplazar gastos o conseguir financiación? Ajusta tu planificación si es necesario, porque cuanto más flexible seas para reaccionar ante los cambios, mejor.
+7. **Analiza y ajusta:** Comprueba tus resultados con regularidad. ¿Hay periodos críticos en los que su liquidez se vuelve escasa? ¿Es necesario aplazar gastos o conseguir financiación? Ajusta tu planificación si es necesario, porque cuanto más flexible seas para reaccionar ante los cambios, mejor.
 
 {{< warning headline="Consejo" text="Para una planificación fiable de la liquidez, debe calcular siempre sus ingresos de forma realista, es decir, ni demasiado optimista ni demasiado prudente. Para sus gastos, en cambio, es aconsejable calcular de forma más bien pesimista para amortiguar posibles subidas de precios o costes imprevistos." />}}
 
@@ -110,7 +110,9 @@ Imagine que su empresa dispone de las siguientes reservas de liquidez:
 Los denominados ratios de liquidez sirven para comprobar en qué medida su empresa es capaz de hacer frente a sus obligaciones a corto plazo con fondos rápidamente disponibles. El cálculo se realiza en tres etapas:
 
 _Nivel de liquidez 1 = (18.000 euros / 60.000 euros) × 100 = 30%_.
+
 _Nivel de liquidez 2 = (18.000 euros + 54.000 euros) / 60.000 euros × 100 = 120 %_.
+
 _Nivel de liquidez 3 = (18.000 euros + 54.000 euros + 36.000 euros) / 60.000 euros × 100 = 180 %_
 
 ### ¿Qué significan estos valores?

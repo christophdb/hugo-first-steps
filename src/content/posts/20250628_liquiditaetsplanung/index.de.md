@@ -1,6 +1,6 @@
 ---
 title: 'Liquiditätsplanung: Tipps für Ihren Liquiditätsplan'
-description: 'Liquiditätsplanung ist nicht nur eine Vorsichtsmaßnahme, es ist vielmehr die Vorraussetzung für ein zukunfssicheres Unternehmen.'
+description: 'Liquiditätsplanung ist nicht nur eine Vorsichtsmaßnahme, es ist vielmehr die Vorraussetzung für ein zukunfssicheres Unternehmen. Erfahren Sie in unserem Artikel, wie Ihre Liquidität auch langfristig stabil bleibt.'
 date: 2025-06-28
 lastmod: '2025-06-28'
 url: '/de/liquiditaetsplanung'
@@ -110,7 +110,9 @@ Stellen Sie sich vor, Ihr Unternehmen verfügt über folgende Liquiditätsreserv
 Mit den sogenannten Liquiditätsgraden prüfen Sie, wie gut Ihr Unternehmen in der Lage ist, kurzfristige Verbindlichkeiten zu begleichen – und zwar mit Mitteln, die schnell verfügbar sind. Die Berechnung erfolgt in drei Stufen:
 
 _Liquiditätsgrad 1 = (18.000 € / 60.000 €) × 100 = 30 %_
+
 _Liquiditätsgrad 2 = (18.000 € + 54.000 €) / 60.000 € × 100 = 120 %_
+
 _Liquiditätsgrad 3 = (18.000 € + 54.000 € + 36.000 €) / 60.000 € × 100 = 180 %_
 
 ### Was sagen diese Werte aus?

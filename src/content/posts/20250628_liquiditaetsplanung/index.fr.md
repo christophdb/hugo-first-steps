@@ -1,6 +1,6 @@
 ---
 title: 'Planification des liquidités : conseils pour votre plan de liquidités'
-description: "La planification des liquidités n'est pas seulement une mesure de précaution, c'est la condition sine qua non de la pérennité de l'entreprise."
+description: "La planification des liquidités n'est pas seulement une mesure de précaution, c'est la condition sine qua non de la pérennité de l'entreprise. Découvrez dans notre article comment vos liquidités restent stables à long terme."
 date: 2025-06-28
 lastmod: '2025-06-28'
 url: '/fr/planification-des-liquidites'
@@ -110,8 +110,10 @@ Imaginez que votre entreprise dispose des réserves de liquidités suivantes :
 Avec ce que l'on appelle les degrés de liquidité, vous vérifiez dans quelle mesure votre entreprise est en mesure de régler ses dettes à court terme - et ce avec des moyens qui sont rapidement disponibles. Le calcul se fait en trois étapes :
 
 _degré de liquidité 1 = (18.000 € / 60.000 €) × 100 = 30 %_.
+
 _degré de liquidité 2 = (18.000 € + 54.000 €) / 60.000 € × 100 = 120 %_.
-_Degré de liquidité 3 = (18.000 € + 54.000 € + 36.000 €) / 60.000 € × 100 = 180 %_.
+
+_degré de liquidité 3 = (18.000 € + 54.000 € + 36.000 €) / 60.000 € × 100 = 180 %_.
 
 ### Que signifient ces valeurs ?
 
