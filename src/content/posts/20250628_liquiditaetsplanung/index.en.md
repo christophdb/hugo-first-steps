@@ -1,6 +1,6 @@
 ---
 title: 'Liquidity planning: tips for your liquidity plan'
-description: 'Liquidity planning is not just a precautionary measure, it is the prerequisite for a future-proof company.'
+description: 'Liquidity planning is not just a precautionary measure, it is the prerequisite for a future-proof company. Read our article to find out how to keep your liquidity stable in the long term.'
 date: 2025-06-28
 lastmod: '2025-06-28'
 url: '/liquidity-planning'
@@ -62,11 +62,11 @@ A well thought-out liquidity plan is not rocket science – with a clear system,
 
 4. **Record disbursements:** Record all planned expenses: This includes purchasing costs, salaries, rent, insurance, marketing, taxes, loan repayments and investments. You should also take irregular or seasonal costs into account.
 
-5 **Calculate net liquidity:** Deduct the payments from the incoming payments. This gives you your net liquidity for the period in question. A positive value means a liquidity surplus – a negative value indicates a possible bottleneck.
+5. **Calculate net liquidity:** Deduct the payments from the incoming payments. This gives you your net liquidity for the period in question. A positive value means a liquidity surplus – a negative value indicates a possible bottleneck.
 
-6 **Calculate closing balance:** Add or subtract the net liquidity from the opening balance. This will give you the expected cash balance at the end of the period.
+6. **Calculate closing balance:** Add or subtract the net liquidity from the opening balance. This will give you the expected cash balance at the end of the period.
 
-7 **Analysis and adjustment:** Check your results regularly. Are there critical periods in which your liquidity becomes tight? Do expenses need to be postponed or financing secured? Adjust your planning if necessary, because the more flexibly you can react to changes, the better.
+7. **Analysis and adjustment:** Check your results regularly. Are there critical periods in which your liquidity becomes tight? Do expenses need to be postponed or financing secured? Adjust your planning if necessary, because the more flexibly you can react to changes, the better.
 
 {{< warning headline="Tip" text="For reliable liquidity planning, you should always estimate your income realistically – i.e. neither too optimistically nor too cautiously. When it comes to your expenses, on the other hand, it is advisable to calculate rather pessimistically in order to cushion possible price increases or unforeseen costs." />}}
 
@@ -110,7 +110,9 @@ Imagine your company has the following liquidity reserves:
 With the so-called liquidity ratios, you can check how well your company is able to settle short-term liabilities – with funds that are quickly available. The calculation is carried out in three stages:
 
 _Liquidity level 1 = (€ 18,000 / € 60,000) × 100 = 30%_
+
 _Liquidity level 2 = (€ 18,000 + € 54,000) / € 60,000 × 100 = 120 %_
+
 _Liquidity level 3 = (€ 18,000 + € 54,000 + € 36,000) / € 60,000 × 100 = 180 %_
 
 ### What do these values mean?
