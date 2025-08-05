@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/pt/ajuda/ansicht-sperren'
 ---
 
-Pode **bloquear\*\***vistas de** uma mesa em SeaTable. Esta característica é particularmente útil quando se trabalha em grupo. Aqui, **os utilizadores com direitos de proprietário ou administrador\*\* têm a opção de bloquear uma vista para todos os outros membros do grupo que não possuam um destes dois níveis de permissão. Isto significa que estes membros já não podem fazer alterações às opções de visualização.
+Pode **bloquear vistas de** uma mesa em SeaTable. Esta característica é particularmente útil quando se trabalha em grupo. Aqui, \*\*os utilizadores com direitos de proprietário ou administrador\*\* têm a opção de bloquear uma vista para todos os outros membros do grupo que não possuam um destes dois níveis de permissão. Isto significa que estes membros já não podem fazer alterações às opções de visualização.
 
 Entre outras coisas, os **filtros, classificação e agrupamento de** uma vista são afectados pela fechadura. A configuração seleccionada permanece em vigor até a fechadura ser removida por um utilizador com direitos de proprietário ou administrador.
 
