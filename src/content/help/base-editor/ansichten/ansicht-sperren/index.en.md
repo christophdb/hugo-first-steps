@@ -8,9 +8,9 @@ author: 'nsc2'
 url: '/help/ansicht-sperren'
 ---
 
-You can **lock views of** a table in SeaTable. This feature is especially useful for working in groups. Here, \*\*users with owner or admin privileges\*\* have the ability to lock a view for all other group members who do not have one of these two privilege levels. This means that these members can no longer make changes to the view options.
+You can **lock views** of a table in SeaTable. This feature is especially useful for working in groups. Here, \*\*users with owner or admin privileges\*\* have the ability to lock a view for all other group members who do not have one of these two privilege levels. This means that these members can no longer make changes to the view options.
 
-Among others, **filters, sortings and groupings of** a view are affected by the lock. The selected configuration remains in place until the lock is removed by a user with owner or admin rights.
+Among others, **filters, sortings and groupings** of a view are affected by the lock. The selected configuration remains in place until the lock is removed by a user with owner or admin rights.
 
 Note, however, that locking a view generally has **no** effect on **data editing**. Data that is in a locked view can still be **edited** by all group members.
 

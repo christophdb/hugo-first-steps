@@ -8,9 +8,9 @@ author: 'nsc2'
 url: '/es/ayuda/ansicht-sperren'
 ---
 
-Puede **bloquear vistas de** una tabla en SeaTable. Esta función es especialmente útil cuando se trabaja en grupo. Aquí, \*\*los usuarios con derechos de propietario o administrador\*\* tienen la opción de bloquear una vista para todos los demás miembros del grupo que no tengan uno de estos dos niveles de permiso. Esto significa que estos miembros ya no pueden realizar cambios en las opciones de vista.
+Puede **bloquear vistas** de una tabla en SeaTable. Esta función es especialmente útil cuando se trabaja en grupo. Aquí, \*\*los usuarios con derechos de propietario o administrador\*\* tienen la opción de bloquear una vista para todos los demás miembros del grupo que no tengan uno de estos dos niveles de permiso. Esto significa que estos miembros ya no pueden realizar cambios en las opciones de vista.
 
-Entre otras cosas, los **filtros, la ordenación y la agrupación de** una vista se ven afectados por el bloqueo. La configuración seleccionada se mantiene hasta que un usuario con derechos de propietario o administrador elimina el bloqueo.
+Entre otras cosas, los **filtros, la ordenación y la agrupación** de una vista se ven afectados por el bloqueo. La configuración seleccionada se mantiene hasta que un usuario con derechos de propietario o administrador elimina el bloqueo.
 
 Tenga en cuenta, no obstante, que el bloqueo de una vista **no** suele influir en el **tratamiento de los datos**. Los datos de una vista bloqueada pueden seguir siendo **editados** por todos los miembros del grupo.
 
