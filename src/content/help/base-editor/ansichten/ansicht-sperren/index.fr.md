@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/ansicht-sperren'
 ---
 
-Vous pouvez **verrouiller\*\***les vues** d'un tableau dans SeaTable. Cette fonction est particulièrement utile pour le travail en groupe. Dans ce cas, **les utilisateurs disposant de droits de propriétaire ou d'administrateur\*\* ont la possibilité de verrouiller une vue pour tous les autres membres du groupe qui ne disposent pas de l'un de ces deux niveaux d'autorisation. Ainsi, ces membres ne peuvent plus apporter de modifications aux options de la vue.
+Vous pouvez **verrouiller les vues** d'un tableau dans SeaTable. Cette fonction est particulièrement utile pour le travail en groupe. Dans ce cas, **les utilisateurs disposant de droits de propriétaire ou d'administrateur** ont la possibilité de verrouiller une vue pour tous les autres membres du groupe qui ne disposent pas de l'un de ces deux niveaux d'autorisation. Ainsi, ces membres ne peuvent plus apporter de modifications aux options de la vue.
 
 Les **filtres, les tris et les regroupements** d'une vue sont entre autres concernés par le blocage. La configuration choisie reste en place jusqu'à ce que le blocage soit levé par un utilisateur disposant des droits de propriétaire ou d'administrateur.
 
