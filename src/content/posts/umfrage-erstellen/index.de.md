@@ -1,13 +1,12 @@
 ---
-title: 'Umfrage erstellen: 7 beliebte Tools im Vergleich'
-description: 'Möchten Sie herausfinden, was die Bedürfnisse Ihrer Zielgruppe sind oder wie Sie Ihr Produkt weiter optimieren können? Oder möchten Sie eine Umfrage erstellen, um die Zufriedenheit Ihrer Mitarbeiter abzufragen? Online-Umfragen sind für Unternehmen, Organisationen und Forscher auf der ganzen Welt ein äußerst effizientes Werkzeug, um Daten zu erheben. Wir haben 7 beliebte Tools für Sie unter die Lupe genommen.'
+title: 'Starten Sie Ihre nächste Umfrage online - 7 beliebte Tools im Vergleich'
+description: 'Möchten Sie herausfinden, was die Bedürfnisse Ihrer Zielgruppe sind oder wie Sie Ihr Produkt weiter optimieren können? Online Umfragen erweisen sich als ein äußerst effizientes Werkzeug, um Daten zu erheben. In diesem Tool-Vergleich stellen wir Ihnen sieben vielversprechende Tools vor, mit denen Sie Ihre nächste Umfrage online starten.'
 date: '2024-02-21'
-lastmod: '2024-03-05'
-author: 'nsc'
-url: '/de/umfrage-erstellen'
+lastmod: '2025-08-06'
+url: '/de/umfrage-online-tool-vergleich'
 seo:
-    title: 'Umfrage erstellen: 7 beliebte Tools im Vergleich'
-    description: 'Sie möchten Online-Umfragen erstellen? Finden Sie heraus, worauf es ankommt und welches Tool das richtige für Sie ist!'
+    title: '7 Tools, um Ihre Umfrage online durchzuführen'
+    description: 'Sie möchten eine Umfrage online erstellen? Finden Sie heraus, worauf es ankommt und welches Tool das richtige für Sie ist!'
 color: '#e3a9bb'
 categories:
     - 'best-practice'
@@ -17,155 +16,174 @@ tags:
     - 'Kundenmanagement'
 ---
 
-Möchten Sie herausfinden, was die Bedürfnisse Ihrer Zielgruppe sind oder wie Sie Ihr Produkt weiter optimieren können? Oder möchten Sie eine Umfrage erstellen, um die Zufriedenheit Ihrer Mitarbeiter abzufragen? **Online-Umfragen** erweisen sich als ein äußerst effizientes Werkzeug, um Daten zu erheben. Die zahlreichen Vorteile machen sie zu einer bevorzugten Methode für Unternehmen, Organisationen und Forscher auf der ganzen Welt.
+## Welche Vorteile bietet eine Online Umfrage?
 
-Der nachfolgende Artikel beleuchtet die Vorzüge und wichtige Kriterien für das Erstellen von Online-Umfragen und führt einen Vergleich von sieben vielversprechenden Tools durch.
+Die Bedürfnisse und Erwartungen der existierenden und potentiellen Kunden zu kennen, ist für Firmen heute wichtiger denn je. Für nahezu jedes Produkt und jede Dienstleitung lassen sich online leicht Alternativen finden. Die genaue Kenntnis der eigenen Zielgruppe ist daher ein unschätzbarer Wettbewerbsvorteil. Und das erreichen Sie am effektivsten, indem Sie Ihre (potentiellen) Kunden direkt fragen. Eine entsprechende **Umfrage online durchzuführen** bietet Ihnen dabei einige Vorteile:
+
+- Sie sparen mit einer Online Befragung viel Zeit und können einfach digital einen Fragebogen erstellen, anstatt mühsam Telefonate zu führen oder Passanten in Fußgängerzonen anzusprechen.
+
+- Online Umfragen sind oft erheblich günstiger als traditionelle Methoden. Mit vielen Tools lässt sich eine Online Befragung auch kostenlos erstellen.
+
+- Mit einer Online Befragung ist Ihre Reichweite deutlich größer. So können Sie repräsentative Daten aus verschiedenen Regionen und Ländern sammeln.
+
+- Sobald Sie Ihre Umfrage online starten, können Sie die Antworten in Echtzeit verfolgen und analysieren und müssen nicht mehr auf langwierige manuelle Auswertungen warten.
 
 ![Umfrage erstellen: Laptop mit Feedbackergebnissen](feedback-kommentar-umfrage-support-antwortleiste-wort-711x475.jpg)
 
-Zur Datenerhebung erweist sich die Online-Umfrage als ein äußerst effizientes Werkzeug.
+## Eine Umfrage online erstellen: Tools im Vergleich
 
-## Vorteile einer Online-Umfrage
-
-**Online** Umfragen zu erstellen bietet Ihnen einige Vorteile. Einer der größten Vorteile einer Online-Umfrage ist die **Zeitersparnis**. Anstatt mühsam Telefonate zu führen oder durch Fußgängerzonen zu gehen, um potenzielle Teilnehmer persönlich zu befragen, können Sie einfach digital eine Umfrage erstellen und den Link im Internet veröffentlichen. Dies ermöglicht es Ihnen, schnell eine große Anzahl an Antworten zu sammeln, ohne dabei wertvolle Zeit zu verschwenden.
-
-Darüber hinaus sind die **Kosten** für Online-Umfragen im Vergleich zu traditionellen Methoden oft erheblich geringer. Einige Tools bieten ihre Dienste teilweise oder sogar vollständig kostenlos an. Dies macht es auch für kleinere Unternehmen oder Forschungsprojekte mit begrenztem Budget möglich, qualitativ hochwertige Umfragen durchzuführen.
-
-Ein weiterer Pluspunkt ist die **globale Reichweite**, die Ihnen eine Online-Umfrage bietet. Da das Internet weltweit zugänglich ist, können Sie Ihre Umfrage problemlos an Nutzer auf der ganzen Welt freigeben. Dies eröffnet Ihnen die Möglichkeit, vielfältige und repräsentative Daten aus verschiedenen Regionen und Kulturen zu sammeln.
-
-Ein entscheidender Vorteil davon, online Umfragen zu erstellen, ist die Möglichkeit, die Ergebnisse in **Echtzeit** zu verfolgen und zu analysieren. Moderne Umfrageplattformen bieten **Auswertungstools**, welche die gesammelten Daten sofort in aussagekräftige Statistiken und Grafiken umwandeln. Auf diese Weise können Sie schnell Einblicke gewinnen und fundierte Entscheidungen treffen, ohne auf die manuelle Auswertung von Fragebögen angewiesen zu sein.
-
-## 10 Gebote der Frageformulierung nach Porst
-
-Damit Sie gute Ergebnisse erzielen, ist es besonders wichtig, dass Sie Ihre Fragen sorgfältig formulieren, wenn Sie eine Umfrage erstellen. Schlecht formulierte Fragen können zu ungenauen oder verzerrten Antworten führen, was die **Gültigkeit** Ihrer Daten beeinträchtigen kann. Dies wäre bedauerlich, insbesondere wenn Sie viel Zeit und Mühe in die Umfrage investiert haben. Um solche Probleme zu vermeiden, hat Rolf Porst [zehn Grundsätze](https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/howto/how-to2rp.pdf) formuliert, die Sie bei der Formulierung von Umfragen unbedingt berücksichtigen sollten.
-
-![Checkliste zu den 10 Grundsätzen der Frageformulierung.](Beige-Aesthetic-Morning-Routine-Checklist-1-711x1006.jpg)
-
-Die 10 Gebote der Frageformulierung nach Rolf Porst.
-
-## Worauf es bei Umfragen ankommt
-
-Zusätzlich ist es wichtig, einige Aspekte zu berücksichtigen, um sicherzustellen, dass die Teilnehmer motiviert sind, Ihre Umfrage erfolgreich abzuschließen. Eine hohe Abbruchrate kann darauf hindeuten, dass die Teilnehmer unzufrieden sind, und das sollten Sie unbedingt vermeiden.
-
-Eine **klare Strukturierung** der Umfrage ist entscheidend. Niemand hat Lust, eine chaotische Umfrage auszufüllen. Gliedern Sie Ihre Fragen so, dass sie logisch aufeinander aufbauen und leicht zu verstehen sind. Vermeiden Sie übermäßig lange Fragebeschreibungen und Antworten, da die meisten Teilnehmer eine **schnelle** und **unkomplizierte** Umfrage bevorzugen.
-
-Sorgen Sie für **Abwechslung** in Ihrer Umfrage, um das Interesse Ihrer Teilnehmer beizubehalten. Eine lange Liste von Multiple-Choice-Fragen kann schnell ermüdend sein. Integrieren Sie daher verschiedene Fragetypen, um die Befragten zu motivieren und ihre Aufmerksamkeit aufrechtzuerhalten.
-
-Auch nach Abschluss der Umfrage ist es wichtig, **Wertschätzung** zu zeigen. Die Teilnehmer haben ihre wertvolle Zeit investiert, um Ihnen zu helfen, und verdienen daher Anerkennung. Eine kurze Dankesnachricht am Ende der Umfrage kann dazu beitragen, dass sich die Teilnehmer geschätzt fühlen und bereit sind, in Zukunft erneut an Umfragen teilzunehmen.
-
-![Umfrage erstellen: Frau lacht in Kamera](pexels-andrea-piacquadio-3769021-711x474.jpg)
-
-Mit einer gut konzipierten Umfrage verhindern Sie eine hohe Abbruchrate.
-
-## Umfragen erstellen: Tools im Vergleich
-
-Im folgenden Test wurden Umfrage-Tools anhand mehrerer Kriterien getestet, darunter Benutzerfreundlichkeit, Anpassungsfähigkeit, Datenschutz, Analysefunktionen und Kosten. Diese Bewertung ermöglicht Ihnen die Auswahl der optimalen Plattform für Ihre Umfragebedürfnisse.
+Ihre nächste Kunden- oder Mitarbeiterbefragung steht an und nun möchten Sie Ihre Online Umfrage erstellen, kostenlos wenn möglich. Wir haben sieben Umfrage-Tools für Sie anhand verschiedener Kriterien getestet, darunter **Benutzerfreundlichkeit, Anpassungsfähigkeit, Datenschutz, Analysefunktionen und Kosten**.
 
 ### Doodle
 
-Wenn Sie eine unkomplizierte Möglichkeit suchen, Termine mit mehreren Teilnehmern zu planen, ist **Doodle** eine gute Wahl. Die Anwendung überzeugt durch ihr benutzerfreundliches und minimalistisches Design. Doodle konzentriert sich darauf, Umfragen zur Terminplanung anzubieten, und ermöglicht es Nutzern, diese auf einfache und intuitive Weise zu gestalten.
+Wenn Sie eine unkomplizierte Möglichkeit suchen, Termine mit mehreren Teilnehmern zu planen, ist Doodle eine gute und beliebte Wahl. Die Anwendung überzeugt durch ihr benutzerfreundliches und minimalistisches Design. Doodle konzentriert sich darauf, **Umfragen zur Terminplanung** anzubieten, ist jedoch für andere Umfragen ungeeignet.
 
-In puncto Datenschutz gibt es jedoch Bedenken, da Doodle personenbezogene Daten an ausländische Server sendet und Trackingtools einsetzt. Zudem ist es nur in der kostenpflichtigen Pro-Version möglich, die Teilnehmerliste von Umfragen zu verbergen. Für Einzelpersonen ist die Nutzung kostenlos, Berufstätige müssen jedoch 6,95€ pro Monat zahlen.
+In puncto Datenschutz kann das Tool trotz **SSL-Verschlüsselung** nicht voll überzeugen. Denn Doodle überträgt personenbezogene Daten an ausländische Server und setzt Trackingtools ein. Zudem ist es nur in der kostenpflichtigen Pro-Version möglich, die Teilnehmerliste von Umfragen zu verbergen. Der Preis dafür liegt bei 6,95 € pro Monat.
 
-**Anwendungsbereich:** Terminplanung  
-**Benutzerfreundlichkeit:** sehr gut  
-**Anpassungsmöglichkeit:** gering  
-**Datenschutz:** DSGVO und SSL-Verschlüsselung  
+**Anwendungsbereich:** Terminplanung  
+**Benutzerfreundlichkeit:** sehr gut  
+**Anpassungsmöglichkeit:** gering  
+**Datenschutz:** mittel 
 **Analysefunktion:** gut  
-**Kosten:** teilweise kostenlos
+**Kosten:** teilweise kostenlos
 
 ### Google Forms
 
-Dieses vielseitige Tool eignet sich nicht nur für Umfragen, sondern auch für Quizze und besticht durch seine übersichtliche Oberfläche. Die klare Struktur und die begrenzten Funktionen machen das Umfragen erstellen dabei besonders benutzerfreundlich. Neben verschiedenen Fragetypen wie Einfachauswahl, freiem Textfeld und Bewertung bietet diese Anwendung auch die Option, Bilder und Videos in die Fragen zu integrieren. Zudem können Sie Fragen in übersichtliche Abschnitte gliedern und sowohl zufällige Reihenfolgen als auch verzweigte Fragen problemlos umsetzen.
+Für Nutzer, die eine Umfrage online erstellen möchten, aber keine komplexen Funktionen benötigen, ist dieses Tool gut geeignet. Durch die übersichtliche Oberfläche und klare Struktur ist Google Forms besonders benutzerfreundlich. Sie können **verschiedene Fragetypen** einsetzen und **Bilder und Videos integrieren**. Zudem können Sie Fragen in übersichtliche Abschnitte gliedern und sowohl zufällige Reihenfolgen als auch verzweigte Fragen problemlos umsetzen.
 
-Ein weiterer Pluspunkt ist die Möglichkeit, Fragen direkt zu importieren, was den Erstellungsprozess noch effizienter gestaltet. Darüber hinaus entspricht **Google Forms** allen Anforderungen der DSGVO und anderer globaler Compliance-Richtlinien, was die Sicherheit Ihrer Daten gewährleistet. Zur Auswertung stehen einige Funktionen zur Verfügung, darunter eine Zusammenfassung aller Ergebnisse sowie die Möglichkeit, einzelne Fragen oder Ergebnisse von bestimmten Teilnehmern genauer zu betrachten.
+Darüber hinaus entspricht Google Forms allen Anforderungen der DSGVO und anderer globaler Compliance-Richtlinien, was die Sicherheit Ihrer Daten gewährleistet.
 
 **Anwendungsbereich:** Umfragen und Quizze  
 **Benutzerfreundlichkeit:** sehr gut  
 **Anpassungsmöglichkeit:** hoch  
-**Datenschutz:** DSGVO und andere Compliance-Richtlinien  
+**Datenschutz:** gut
 **Analysefunktion:** in Ordnung  
 **Kosten:** kostenlos
 
 ### Surveymonkey
 
-Dieses Tool ist ebenfalls für Umfragen und Quizze geeignet. Im Vergleich zu anderen Programmen mag es etwas komplexer erscheinen, da es viele Optionen zur Individualisierung bietet. Dennoch führt es den Nutzer Schritt für Schritt durch den Prozess, was es einfach macht, eine Umfrage zu erstellen. Ein besonderes Highlight dieser Anwendung ist die umfangreiche Fragendatenbank, die als Inspirationsquelle und Vorlage dient.
+Dieses Tool bietet umfangreiche Funktionen und viele Individualisierungs-Optionen, um auch komplexere Kundenumfragen zu erstellen. Ob es um Design, Fragetypen, verzweigte Fragen oder Analyse-Funktionen geht, Surveymonkey bietet eine Vielzahl an Anpassungsmöglichkeiten. Durch die übersichtliche **Schritt-für-Schritt-Einführung** sollte es ihnen leicht fallen, eine Umfrage online einzurichten. Ein besonderes Highlight ist die **umfangreiche Fragendatenbank**, die als Inspirationsquelle und Vorlage dient.
 
-Ob es um Design, Fragetypen oder verzweigte Fragen geht, dieses Tool bietet eine Vielzahl von Anpassungsmöglichkeiten, ohne dabei den Nutzer zu überfordern. In Bezug auf Datenschutz entspricht **Surveymonkey** den Anforderungen der DSGVO und des California Consumer Privacy Act (CCPA).
-
-Für die Analyse stehen verschiedene Funktionen zur Verfügung, darunter eine Frageübersicht sowie Erkenntnisse über die Umfrage selbst und mögliche Trends. Die Grundfunktionen sind kostenlos nutzbar, während Erweiterungen ab 39€ pro Person und Monat starten.
+In Bezug auf Datenschutz entspricht Surveymonkey **den Anforderungen der DSGVO** und des California Consumer Privacy Act (CCPA). Jedoch ist das Tool im Vergleich nicht günstig. Die kostenlose Basisversion bietet nur sehr eingeschränkte Funktionen, während Erweiterungen ab 39 € pro Person und Monat starten.
 
 **Anwendungsbereich:** Umfragen und Quizze  
 **Benutzerfreundlichkeit:** in Ordnung  
 **Anpassungsmöglichkeit:** hoch  
-**Datenschutz:** DSGVO und CCPA  
+**Datenschutz:** gut 
 **Analysefunktion:** in Ordnung  
 **Kosten:** teuer, teilweise kostenlos
 
+![Umfrage erstellen: Frau lacht in Kamera](pexels-andrea-piacquadio-3769021-711x474.jpg)
+
 ### Survio
 
-**Survio** bietet eine benutzerfreundliche Plattform, um in verschiedenen Anwendungsbereichen Umfragen zu erstellen und durchzuführen. Mit Vorlagen und der Möglichkeit, die Umfrage nach Seiten zu gliedern, ist das Umfragen erstellen sehr einfach und übersichtlich. Die Anpassungsmöglichkeiten sind vielfältig, wobei verschiedene Fragetypen und Fragebeschreibungen zur Verfügung stehen. Allerdings erfordert die Logik, bestimmte Fragen basierend auf vorherigen Antworten zu verbergen oder anzuzeigen, eine kostenpflichtige Erweiterung.
+Survio bietet eine **benutzerfreundliche Plattform**, um in verschiedenen Anwendungsbereichen Umfragen zu erstellen und durchzuführen. Dank der vielen Vorlagen und Fragetypen sowie der Möglichkeit, die Umfrage nach Seiten zu gliedern, erstellen Sie sehr einfach einen übersichtlichen Fragebogen. Sehr interessant ist die – allerdings kostenpflichtige – Option, **Fragen basierend auf vorherigen Antworten zu verbergen oder anzuzeigen**.
 
-In Bezug auf Datenschutz entspricht das Tool den Anforderungen der DSGVO und bietet zusätzliche Sicherheit durch Verschlüsselung mit einem SSL-Zertifikat. Survio bietet umfangreiche Analysefunktionen, darunter die Möglichkeit zur Ergebnisanalyse, die Betrachtung individueller Antworten und die Anzeige von Umfragestatistiken. Die Grundfunktionen sind kostenlos verfügbar, während eine Erweiterung für zusätzliche Funktionen monatlich 25€ kostet.
+In Bezug auf Datenschutz entspricht das Tool den Anforderungen der DSGVO und bietet zusätzliche Sicherheit durch Verschlüsselung mit einem SSL-Zertifikat. Survio überzeugt auch durch **umfangreiche Analysefunktionen**, u. a. die Betrachtung individueller Antworten und die Anzeige von Umfragestatistiken. Die Basisversion ist kostenlos, während eine Erweiterung für zusätzliche Funktionen monatlich 25 € kostet.
 
 **Anwendungsbereich:** Umfragen  
 **Benutzerfreundlichkeit:** sehr gut  
 **Anpassungsmöglichkeit:** hoch  
-**Datenschutz:** DSGVO und SSL-Zertifikat  
+**Datenschutz:** gut 
 **Analysefunktion:** sehr gut  
 **Kosten:** mäßig, teilweise kostenlos
 
 ### LamaPoll
 
-Diese Anwendung eignet sich für alle Arten von Umfragen, insbesondere im wissenschaftlichen Bereich. Auf den ersten Blick mag sie aufgrund der Vielzahl ihrer Funktionen überwältigend wirken und erfordert daher etwas Zeit, um sich mit den verschiedenen Möglichkeiten vertraut zu machen. Dafür bietet sie zahlreiche Optionen für verschiedene Fragetypen, individuelle Antwortpfade und sogar die Möglichkeit zur Kodierung von Antworten.
+LamaPoll eignet sich insbesondere – aber nicht nur – für verschiedenste **Umfragen im wissenschaftlichen Bereich**. Ein Pluspunkt ist die Vielzahl der Optionen für verschiedene Fragetypen, individuelle Antwortpfade, kodierte Antworten und Analysen. Nutzer sollten daher etwas Zeit einplanen, um sich mit den Möglichkeiten des Tools vertraut zu machen.
 
-**LamaPoll** ist DSGVO-konform und betreibt seine Server in Deutschland. Zudem stellt es transparente Datenschutzdokumente für Unternehmen bereit. Neben Ereignisanalysen und Stichproben bietet sie Zugriff auf verschiedene Statistiken.
-
-Die Grundfunktionen dieser Anwendung sind kostenlos, jedoch können dabei nur 50 Personen an einer Umfrage teilnehmen. Das Basic-Upgrade ist mit 58,31€ pro Monat zwar teuer, bietet jedoch erweiterte Funktionen und mehr Möglichkeiten zur Durchführung von Umfragen.
+LamaPoll ist **DSGVO-konform** und betreibt seine Server in Deutschland. Zudem stellt es transparente Datenschutzdokumente für Unternehmen bereit. Wenn Sie dieses Tool für Ihre Online Befragung nutzen, müssen Sie etwas tiefer in die Tasche greifen. Die kostenlose Basisversion erlaubt lediglich Umfragen mit maximal 50 Teilnehmern. Die kostenpflichtige Version beginnt ab 49 € pro Monat, bietet jedoch erweiterte Funktionen und mehr Möglichkeiten zur Durchführung von Umfragen.
 
 **Anwendungsbereich:** Umfragen  
 **Benutzerfreundlichkeit:** in Ordnung  
 **Anpassungsmöglichkeit:** hoch  
-**Datenschutz:** DSGVO und deutsche Server  
+**Datenschutz:** sehr gut
 **Analysefunktion:** gut  
 **Kosten:** teuer, teilweise kostenlos
 
-### Hotjar
+### Alchemer
 
-**Hotjar** eignet sich besonders für Umfragen zur Website-Nutzung. Das Umfragen erstellen kann anfangs etwas unübersichtlich wirken, da es nicht beim ersten Punkt beginnt, sondern direkt zu den Fragen nach unten scrollt. Dennoch erleichtert das Programm den Erstellungsprozess, indem es den Nutzer Schritt für Schritt hindurchführt.
+Alchemer, fürher Surveygizmo, richtet sich primär an Unternehmen. Die vielen verschiedenen Fragetypen und Auswertemöglichkeiten erlauben ausführliche Marktforschungen und Kundenumfragen. Gerade die vielen Möglichkeiten machen es neuen Nutzern jedoch auch etwas schwieriger, einen ersten Fragebogen zu erstellen. Ein Pluspunkt sind die **sehr guten Analysefunktionen** und der kostenlose Support.
 
-Ein besonderes Merkmal dieses Tools ist die Möglichkeit, die Fragen beispielsweise als sogenanntes “Pop-over” direkt auf der Website an der entsprechenden Stelle anzuzeigen. Zur Analyse stellt das Programm Stichproben, Ergebnisse und Daten zur Performance der Umfrage zur Verfügung. Die Basic-Version ist kostenlos, jedoch ist das Upgrade mit 82,50€ vergleichsweise teuer.
+Dieses Paket hat jedoch auch seinen Preis. Alchemer bietet **keine kostenlose Basisversion** sondern lediglich eine 14-tägige kostenlose Testphase. Kleine Teams bis zu drei Personen zahlen im günstigsten Paket 55 € pro Monat. Alchemer erfüllt u. a. die Anforderungen der DSGOV und CCPA und ist nach ISO 27001 zertifiziert
 
-**Anwendungsbereich:** Umfragen zur Website-Nutzung  
-**Benutzerfreundlichkeit:** gut  
-**Anpassungsmöglichkeit:** hoch  
-**Datenschutz:** DSGVO und CCPA  
-**Analysefunktion**: gut  
-**Kosten:** sehr teuer, teilweise kostenlos
+**Anwendungsbereich:** Umfragen  
+**Benutzerfreundlichkeit:** gut  
+**Anpassungsmöglichkeit:** hoch  
+**Datenschutz:** gut 
+**Analysefunktion:** sehr gut  
+**Kosten:** sehr teuer
 
 ### SeaTable
 
-Die [Webformulare]({{< relref "help/base-editor/webformulare" >}}) von **SeaTable** ermöglichen Umfragen, bei denen die erhobenen Daten automatisch in einer Tabelle mit Datenbank-Backend gespeichert werden. Dadurch lassen sich die Daten hervorragend miteinander in Beziehung setzen. Für die Analyse und Aufbereitung der Umfrageergebnisse stehen verschiedene [Statistiken]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) zur Verfügung, alle Daten können übersichtlich gefiltert, sortiert und gruppiert sowie mit grafischen [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) dargestellt werden. Darüber hinaus erlaubt SeaTable den Export der Daten für weitere Analysen oder Berichte.
+![Eine Umfrage zum Kundenfeedback als Beispiel](Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
+Beispiel einer Umfrage zum Kundenfeedback in SeaTable
 
-Obwohl es beim Umfragen erstellen nicht den gleichen Umfang an Funktionen wie beispielsweise Surveymonkey hat, bietet es dank seiner individuellen Anpassungsmöglichkeiten und der intuitiven Bedienung viele praktische Anwendungen. Die Möglichkeit, verschiedene Datentypen zu erheben und die Ergebnisse [kollaborativ im Team]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) auszuwerten, macht SeaTable zu einem flexiblen Werkzeug für Umfragen und andere Projekte.
+Die [Webformulare]({{< relref "help/base-editor/webformulare" >}}) von SeaTable ermöglichen Umfragen, bei denen die erhobenen Daten automatisch in einer Tabelle mit Datenbank-Backend gespeichert werden. Dadurch lassen sich die Daten hervorragend miteinander in Beziehung setzen. Sie analysieren die Ergebnisse Ihrer Umfrage online mit verschiedenen [Statistiken]({{< relref "help/base-editor/statistiken/anleitung-zum-statistik-modul" >}}) und erstellen in der Universal App und mit verschiedenen grafischen [Plugins]({{< relref "help/base-editor/plugins/alle-plugins-in-der-uebersicht" >}}) **flexible Reportings**. Darüber hinaus erlaubt SeaTable den Export der Daten für weitere Analysen oder Berichte.
+
+Obwohl SeaTable bei Online Umfragen nicht den gleichen Umfang an Funktionen wie beispielsweise Surveymonkey hat, bietet es dank seiner **individuellen Anpassungsmöglichkeiten** und der **intuitiven Bedienung** viele praktische Anwendungen. Die Möglichkeit, verschiedene Datentypen zu erheben und die Ergebnisse [kollaborativ im Team]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) auszuwerten, macht SeaTable zu einem flexiblen Werkzeug für Ihre Online Befragung und andere Projekte. Ein weiterer Pluspunkt ist die kostenlos verfügbare [Vorlage zum Kundenfeedback]({{< relref "templates/marketing/customer-feedback" >}}), die leicht für jeden Umfrage-Typ angepasst werden kann.
+
+{{< template id="fc59b6cdb703474ab3eb" >}}
 
 In Bezug auf den Datenschutz erfüllt SeaTable alle Anforderungen der DSGVO und bietet zusätzliche Sicherheit, da die Daten ausschließlich in deutschen Rechenzentren gespeichert werden. Neben der Cloud-Version gibt es sogar die Option, [SeaTable auf dem eigenen Server zu installieren]({{< relref "pages/product/seatable-server" >}}), um die volle Datenhoheit zu behalten.
 
 **Anwendungsbereich:** Umfragen  
 **Benutzerfreundlichkeit:** sehr gut  
 **Anpassungsmöglichkeit:** hoch  
-**Datenschutz:** DSGVO und deutsche Rechenzentren  
+**Datenschutz:** sehr gut  
 **Analysefunktion:** sehr gut  
 **Kosten:** kostenlos
-
-Die Webformular-Funktion von SeaTable können Sie in vollem Umfang kostenlos nutzen. Lediglich die Anpassung des Designs erfordert ein Enterprise Abo für 14€ pro Monat.
-
-![Eine Umfrage zum Kundenfeedback als Beispiel](Bildschirmfoto-2024-02-20-um-13.04.01-711x656.png)
-
-Beispiel einer Umfrage zum Kundenfeedback in SeaTable
 
 ## Fazit
 
 Bei der Auswahl eines Umfrage-Tools ist es wichtig, dass Sie Ihre individuellen Anforderungen kennen. Google Forms, Surveymonkey, LamaPoll und SeaTable sind nur einige Beispiele, die Sie verwenden können. Es gibt kein universell perfektes Tool; jedes hat ein anderes Preis-Leistungs-Verhältnis sowie eigene Vor- und Nachteile.
 
 Insgesamt bieten Online-Umfragen eine flexible und leistungsstarke Methode zur Datenerhebung und -analyse. Durch die Auswahl des richtigen Tools und die Anwendung statistischer Methoden können Sie effektiv Einblicke gewinnen, Entscheidungen treffen und Ihre Ziele erreichen.
+
+## FAQ Supply Chain Management
+
+{{< faq "Worauf muss man bei einer Online Befragung achten?" >}}
+Wenn Sie eine Umfrage online erstellen, dann gelten dieselben Grundsätze wie bei einer Offline-Umfrage. Neben einem klaren Anreiz für die Teilnehmer sollten Sie besonderen Wert auf die Formulierung Ihrer Fragen legen. Wir empfehlen Ihnen, sich an den **10 Geboten der Frageformulierung** nach Rolf Porst zu orientieren. Achten Sie auch auf eine logische Struktur Ihrer Umfrage und vermeiden Sie lange Fragebeschreibungen und Antworten. Integrieren Sie verschiedene Fragetypen und sorgen Sie für Abwechslung. So vermeiden Sie, dass die Teilnehmer Ihre Umfrage online zwar starten, aber nicht beenden. Eine kurze Dankesnachricht am Ende der Umfrage kann dazu beitragen, dass sich die Teilnehmer geschätzt fühlen und bereit sind, in Zukunft erneut an Umfragen teilzunehmen.
+{{< /faq >}}
+
+{{< faq "Wie viel kostet ein Online Befragung Tool?" >}}
+Software, mit denen Sie Kundenumfragen erstellen, sind in der Regel webbasiert. Nutzer erwerben eine Lizenz und nutzen das Tool online. Wie viel eine Umfrage online kosten kann, hängt dabei auch von der Komplexität Ihrer Online-Befragung ab. Je mehr Funktionen Sie benötigen, umso teurer wird es. Zwar können Sie mit den meisten Tools eine einfache Online Umfrage kostenlos erstellen. Dafür verzichten Sie in der Regel jedoch auf vernünftige Analyse- und Reporting-Funktionen.
+{{< /faq >}}
+
+{{< faq "Wie wählen Sie das richtige Tool aus?" >}}
+Wenn Sie Kundenumfragen erstellen und dafür eine Umfrage online starten möchten, ist es gar nicht so einfach, das passende Tool zu finden, das auch zu Ihren Anforderungen passt. Pauschal lässt sich diese Frage daher nicht beantworten. Neben der Frage, wie viel Ihre Umfrage online kosten darf, gibt es noch weitere Faktoren, die Sie bei den zur Auswahl stehenden Onlineumfrage Tools kritisch prüfen sollten, bevor Sie Ihren Fragebogen erstellen:  
+
+- Wie gewährleistet das Tool Datenschutz und Datensicherheit?
+
+- Können Umfragen mit verschiedenen Fragetypen erstellt werden?
+
+- Ist das Tool einfach zu bedienen?
+
+- Welche Design- und Branding-Möglichkeiten gibt es?
+
+- Bietet das Tool flexible Reporting- und Analysefunktionen?
+
+- Können externe Datenbanken integriert werden?
+{{< /faq >}}
+
+{{< faq "Was sind die 10 Gebote der Frageformulierung nach Porst?" >}}
+Damit Sie gute Ergebnisse erzielen, ist es besonders wichtig, dass Sie Ihre Fragen sorgfältig formulieren, wenn Sie eine Umfrage erstellen. Schlecht formulierte Fragen können zu ungenauen oder verzerrten Antworten führen, was die Gültigkeit  Ihrer Daten beeinträchtigen kann. Dies wäre bedauerlich, insbesondere wenn Sie viel Zeit und Mühe in die Umfrage investiert haben. Um solche Probleme zu vermeiden, hat der Sozialwissenschaftler Rolf Porst zehn Grundsätze  formuliert, die Sie unbedingt berücksichtigen sollten, wenn Sie einen Fragebogen erstellen. Vermeiden Sie
+
+- schwierige, zweideutige Begriffe
+
+- lange und komplexe Fragen
+
+- doppelte Stimuli und Verneinungen
+
+- Unterstellungen und Suggestivfragen
+
+- Fragen zu Infos, die Befragte nicht haben
+
+- Fragen ohne eindeutigen zeitlichen Bezug
+
+- Antwortkategorien, die sich überschneiden
+
+- Fragen mit beeinflussendem Kontext
+
+- unklare Begriffe nicht zu definieren
+{{< /faq >}}
