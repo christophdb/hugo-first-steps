@@ -6,8 +6,8 @@ url: '/de/vorlage/baby-party'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Babyparty planen: Kostenlose Vorlage für die Feier'
+    description: 'Organisieren Sie die Babyparty im Handumdrehen. Verwenden Sie unsere Vorlage, um alle Details zu erfassen und die Feier unvergesslich zu machen.'
 template: 'f49862deac1d4d1ea078'
 ---
 

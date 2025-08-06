@@ -5,8 +5,8 @@ url: '/de/vorlage/event-management'
 category: 'ereignisse'
 functions:
 seo:
-    title: 'Vorlage: Event Management'
-    description: ''
+    title: 'Vorlage für Event-Management: Einfach planen & umsetzen'
+    description: 'Planen, organisieren und verfolgen Sie jedes Detail. Mit dieser Vorlage für Event-Management gelingen Ihre Veranstaltungen mühelos'
 template: 'bb4d007014a64a18be06'
 ---
 

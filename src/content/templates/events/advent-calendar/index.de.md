@@ -6,8 +6,8 @@ url: '/de/vorlage/advent-calendar'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Einfache Adventskalender-Vorlage für Teams und Familie'
+    description: 'Erstellen Sie ganz einfach Ihren eigenen digitalen Adventskalender für Freunde, Familie oder Ihr Team. Überraschungen planen und teilen'
 template: '618993ff2f964dadb460'
 ---
 
@@ -17,7 +17,7 @@ Sie möchten individuelle Adventskalender für Ihre Liebsten basteln und persön
 
 Legen Sie für jede Person, die Sie mit einem Adventskalender überraschen wollen, eine Ansicht an und überlegen Sie sich, hinter welchem Türchen sich welche Überraschung verbergen soll (Tabelle 2). Erleichtern Sie sich das Einkaufen der Kalenderfüllungen und lassen Sie sich von SeaTable die Anzahl der benötigten Geschenke ausrechnen (Tabelle 3). Außerdem gibt es hinter jedem Türchen einen Weihnachtsspruch und ein YouTube Video zu entdecken. Mithilfe einer App können Sie die Bilder zu allen Türchen wunderschön in einer Galerie anzeigen lassen.
 
-![](images/image-1730120842850.png)
+![digitaler Adventskalender](images/image-1730120842850.png)
 
 Für Unternehmen haben wir zudem einen digitalen Adventskalender angelegt, bei dem sich hinter jedem Türchen eine weihnachtliche Idee verbirgt, mit der Sie Ihre Mitarbeiter oder Kunden überraschen können (Tabelle 1). Lassen Sie sich inspirieren und nutzen Sie gleich unsere Vorlage inklusive App, um einen digitalen Adventskalender für Ihr Unternehmen anzufertigen.
 
