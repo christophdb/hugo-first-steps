@@ -254,8 +254,9 @@ Um eine Tastenkombination wie z.B. {{< key "STRG" >}} + {{< key "C" >}} auszugeb
 Das sind Tags, in den Farben {{< tag color="blue" text="Blau" >}}, {{< tag color="red" text="Rot" >}} oder {{< tag text="irgendwas anderes" >}}.
 Hier die gesamte Übersicht:
 
-- ...
-- ...
+- `{{</* tag color="blue" text="Blau" */>}}`
+- `{{</* tag color="red" text="Rot" */>}}`
+- `{{</* tag text="irgendwas anderes" */>}}`
 
 ## Icons
 
@@ -266,6 +267,13 @@ In den Blogbeiträgen oder Hilfeseiten können die Icons wie z.B. {{< icon "circ
 {{</* icon icon="circle-check" class="text-seatable-orange" */>}}
 ```
 
+Mit Hilfe von `class` kann das Icon eingefärbt werden. Folgende Farben stehen zur Verfügung:
+
+- `text-seatable-orange`
+- `text-seatable-blue`
+- `text-seatable-red`
+- `text-seatable-gray`
+
 ## SeaTable Icons
 
 Die Icons der SeaTable Benutzeroberfläche wie z.B. {{< seatable-icon "dtable-icon-filter" >}} können im Fließtext eingebunden werden.
@@ -275,9 +283,15 @@ Die Namen des Icon kann man über die Entwicklertools des Browsers herausfinden.
 {{</* seatable-icon "dtable-icon-filter" */>}}
 ```
 
+Alternativ kann man auch die Langschreibweise mit den folgenden Parametern `seatable-icon icon="..." und color="..."` verwenden.
+
 ## Verfügbar mit
 
 {{< required-version "free" "plus" "enterprise" >}}
+
+```
+{{</* required-version "free" "plus" "enterprise" */>}}
+```
 
 ## Kommentare
 
