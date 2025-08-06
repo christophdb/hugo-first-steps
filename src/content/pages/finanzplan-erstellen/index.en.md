@@ -4,7 +4,7 @@ description: ''
 seo:
     title: ''
     description: ''
-date: '2025-08-07'
+date: '2025-08-05'
 url: '/create-finance-plan/'
 draft: true
 
