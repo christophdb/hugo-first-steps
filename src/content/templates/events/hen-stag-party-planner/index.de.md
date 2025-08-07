@@ -1,13 +1,15 @@
 ---
-title: 'Junggesellenabschied'
+title: 'Junggesellenabschied planen'
 description: ''
 date: '2024-09-06'
-url: '/de/vorlage/hen-stag-party-planner'
+url: '/de/vorlage/junggesellenabschied-planen'
+aliases:
+    - '/de/vorlage/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Der perfekte Junggesellenabschied planen: Die Vorlage'
+    description: 'Einen Junggesellenabschied planen ohne Stress. Nutzen Sie unsere Vorlage, um Aufgaben, Budget und Gäste effizient zu organisieren'
 template: '88ed38a6b4b04683a4c8'
 ---
 

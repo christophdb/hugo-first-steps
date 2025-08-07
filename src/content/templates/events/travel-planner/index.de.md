@@ -2,12 +2,14 @@
 title: 'Reiseplaner'
 description: ''
 date: '2024-08-17'
-url: '/de/vorlage/travel-planner'
+url: '/de/vorlage/reiseplaner'
+aliases:
+    - '/de/vorlage/travel-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Die beste Reiseplaner-Vorlage für den perfekten Trip'
+    description: 'Entdecken Sie eine Reiseplaner-Vorlage, die Ihnen hilft, Ihre Reise mühelos zu organisieren – von der Idee bis zum Budget. Planen Sie stressfrei'
 template: '836031683b7e4df489a2'
 ---
 
