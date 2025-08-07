@@ -166,6 +166,8 @@ Wenn Sie Kundenumfragen erstellen und dafür eine Umfrage online starten möchte
 - Können externe Datenbanken integriert werden?
 {{< /faq >}}
 
+<--! Als Leser würde ich mir nach FAQ 1 schon die Frage stellen, was die 10 Gebote sind. Vielleicht macht es daher Sinn, diese Frage nach oben zu ziehen? -->
+
 {{< faq "Was sind die 10 Gebote der Frageformulierung nach Porst?" >}}
 Damit Sie gute Ergebnisse erzielen, ist es besonders wichtig, dass Sie Ihre Fragen sorgfältig formulieren, wenn Sie eine Umfrage erstellen. Schlecht formulierte Fragen können zu ungenauen oder verzerrten Antworten führen, was die Gültigkeit  Ihrer Daten beeinträchtigen kann. Dies wäre bedauerlich, insbesondere wenn Sie viel Zeit und Mühe in die Umfrage investiert haben. Um solche Probleme zu vermeiden, hat der Sozialwissenschaftler Rolf Porst zehn Grundsätze  formuliert, die Sie unbedingt berücksichtigen sollten, wenn Sie einen Fragebogen erstellen. Vermeiden Sie
 
