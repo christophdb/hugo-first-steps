@@ -1,8 +1,8 @@
 ---
 title: 'Faturação: Como gerir corretamente a sua faturação'
 description: 'O que significa faturação e qual a sua importância? Encontrará as respostas neste artigo. Mas mesmo que já tenha abordado o tema da faturação de forma mais detalhada, vai receber o seu dinheiro: leia como pode otimizar a faturação na sua empresa e quais os erros que pode evitar.'
-date: 2025-07-31
-lastmod: '2025-07-31'
+date: 2025-08-07
+lastmod: '2025-08-07'
 url: '/pt/faturacao'
 category:
     - 'best-practice'
@@ -12,7 +12,6 @@ color: '#f6e493'
 seo:
     title: 'Faturação | Definição e prevenção de erros'
     description: 'Leia como otimizar a faturação na sua empresa e quais os erros que pode evitar.'
-draft: true
 ---
 
 ## O que significa faturação? Definição e relevância

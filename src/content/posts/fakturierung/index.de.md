@@ -1,8 +1,8 @@
 ---
 title: 'Fakturierung: Wie Sie Ihre Rechnungsstellung ordnungsgemäß abwickeln'
 description: 'Was bedeutet fakturieren und wofür ist die Fakturierung von Bedeutung? In diesem Artikel werden Sie fündig. Doch auch, wenn Sie sich bereits näher mit der Rechnungsstellung befasst haben, kommen Sie auf Ihre Kosten: Lesen Sie, wie Sie die Fakturierung in Ihrem Unternehmen optimieren und welche Fehler Sie vermeiden können.'
-date: 2025-07-31
-lastmod: '2025-07-31'
+date: 2025-08-07
+lastmod: '2025-08-07'
 url: '/de/fakturierung'
 category:
     - 'best-practice'
@@ -12,7 +12,6 @@ color: '#f6e493'
 seo:
     title: 'Fakturierung | Rechnungsstellung'
     description: 'Lesen Sie, wie Sie die Fakturierung in Ihrem Unternehmen optimieren und welche Fehler Sie vermeiden können.'
-draft: true
 ---
 
 ## Was bedeutet Fakturierung? Definition und Relevanz

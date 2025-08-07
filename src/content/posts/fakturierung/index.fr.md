@@ -1,8 +1,8 @@
 ---
 title: 'Facturation : comment gérer correctement votre facturation'
 description: 'Que signifie facturer et en quoi la facturation est-elle importante ? Vous trouverez la réponse dans cet article. Mais même si vous vous êtes déjà intéressé de plus près à la facturation, vous y trouverez votre compte : découvrez comment optimiser la facturation dans votre entreprise et quelles erreurs vous pouvez éviter.'
-date: 2025-07-31
-lastmod: '2025-07-31'
+date: 2025-08-07
+lastmod: '2025-08-07'
 url: '/fr/facturation'
 category:
     - 'best-practice'
@@ -12,7 +12,6 @@ color: '#f6e493'
 seo:
     title: 'Facturation | Définition et prévention des erreurs'
     description: 'Découvrez comment optimiser la facturation dans votre entreprise et quelles erreurs vous pouvez éviter.'
-draft: true
 ---
 
 ## Qu'est-ce que la facturation ? Définition et pertinence

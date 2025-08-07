@@ -1,8 +1,8 @@
 ---
 title: 'Invoicing: How to handle your billing properly'
 description: "What does invoicing mean and what is it important for? You will find the answers in this article. But even if you have already dealt with invoicing in more detail, you will get what you are looking for: read how you can optimize invoicing in your company and which mistakes you can avoid."
-date: 2025-07-31
-lastmod: '2025-07-31'
+date: 2025-08-07
+lastmod: '2025-08-07'
 url: '/invoicing'
 category:
     - 'best-practice'
@@ -12,7 +12,6 @@ color: '#f6e493'
 seo:
     title: 'Invoicing | Billing'
     description: Read how to optimize invoicing in your company and what mistakes you can avoid.
-draft: true
 ---
 
 ## What does invoicing mean? Definition and relevance
