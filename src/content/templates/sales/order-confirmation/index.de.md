@@ -2,16 +2,18 @@
 title: 'Auftragsbestätigung Vorlage'
 description: ''
 date: '2025-05-02'
-url: '/de/vorlage/order-confirmation'
+url: '/de/vorlage/auftragsbestaetigung-vorlage'
+aliases:
+    - '/de/vorlage/order-confirmation'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Auftragsbestätigungen digitalisieren mit dieser Vorlage'
+    description: 'Erstellen Sie schnell und fehlerfrei Auftragsbestätigungen. Diese flexible Vorlage hilft Ihnen, den Bestellprozess zu automatisieren und zu optimieren'
 template: 'f62eb7d3adf841cfb48a'
 ---
 
-Herzlichen Glückwunsch! Wieder hat ein Kunde Ihr Angebot angenommen. Bevor es mit der Leistungserbringung losgehen kann, müssen Sie nur noch eineAuftragsbestätigung schreiben. Vor allem, wenn Sie häufig Aufträge abwickeln, sollten Sie aber nicht jedes Mal von Neuem eine Auftragsbestätigung erstellen. Nutzen Sie dafür lieber dieAuftragsbestätigung Vorlage von SeaTable, mit der Sie jedes Angebot schriftlich bestätigen können – kostenlos, bequem und sicher!
+Herzlichen Glückwunsch! Wieder hat ein Kunde Ihr Angebot angenommen. Bevor es mit der Leistungserbringung losgehen kann, müssen Sie nur noch eine Auftragsbestätigung schreiben. Vor allem, wenn Sie häufig Aufträge abwickeln, sollten Sie aber nicht jedes Mal von Neuem eine Auftragsbestätigung erstellen. Nutzen Sie dafür lieber die **Auftragsbestätigung Vorlage** von SeaTable, mit der Sie jedes Angebot schriftlich bestätigen können – kostenlos, bequem und sicher!
 
 ## Vorteile einer Vorlage für die Auftragsbestätigung
 
@@ -22,7 +24,7 @@ Wenn Sie eine Auftragsbestätigung Vorlage nutzen, profitieren Sie von zahlreich
 - Zentrale Speicherung: In SeaTable können Sie alle bestehenden Daten rund um Ihre Kunden, Produkte und Aufträge speichern, miteinander verknüpfen und in Dokumente einbetten.
 - Nachhaltigkeit: Mit SeaTable läuft Ihre Auftragsbestätigung vollständig papierlos ab – ohne aufwändigen und teuren Versand, sondern einfach auf Knopfdruck per E-Mail.
 
-![](images/image-1743589610782.gif)
+![Bearbeitung Auftragsbestätigung mit SeaTable](images/image-1743589610782.gif)
 
 ## Wann Sie eine Auftragsbestätigung erstellen sollten
 
@@ -48,55 +50,55 @@ Sie können die Auftragsbestätigung auchvon Ihrem Kunden unterschreiben lassen,
 
 Es gibt zwar keine gesetzlichen Vorgaben, welche Informationen eine schriftliche Auftragsbestätigung enthalten muss, aber dieAngaben dürfen nicht vom angenommenen Angebot abweichen. Wenn Sie unsere Vorlage für die Auftragsbestätigung nutzen, sind Sie immer auf der sicheren Seite, da SeaTable dieselben Daten wie im entsprechenden Angebot verwendet.
 
-![](images/image-1743589843690.png)
+![Screenshot Auftragsbestätigung Vorlage](images/image-1743589843690.png)
 
 Folgende Pflichtangaben sollten in keiner Auftragsbestätigung an Kunden fehlen:
 
 1. Wenn Sie eine Auftragsbestätigung schreiben, bilden derNameund dieAdresse Ihres Unternehmensin der Regel zusammen mit IhremFirmenlogoden Briefkopf.
 
-2. DenNamenund dieAdresse des Auftraggebers/Kundenbenötigen Sie nicht nur für die Lieferung, sondern auch aus steuerlichen Gründen – denn Leistungen an Unternehmen sind dort zu versteuern, wo der Auftraggeber seinen Sitz hat.
+2. Den Namen und dieAdresse des Auftraggebers / Kunden benötigen Sie nicht nur für die Lieferung, sondern auch aus steuerlichen Gründen – denn Leistungen an Unternehmen sind dort zu versteuern, wo der Auftraggeber seinen Sitz hat.
 
-3.BetreffzeileundAuftragsnummer: Eine eindeutige, fortlaufende Nummerierung Ihrer Aufträge erleichert die Zuordnung bei zukünftigem Schriftverkehr mit Ihren Kunden.
+3.Betreffzeile und Auftragsnummer: Eine eindeutige, fortlaufende Nummerierung Ihrer Aufträge erleichert die Zuordnung bei zukünftigem Schriftverkehr mit Ihren Kunden.
 
-4. Die direkte Anrede mit demNamen des Ansprechpartnersverleiht Ihrer Auftragsbestätigung eine persönliche Note.
+4. Die direkte Anrede mit dem Namen des Ansprechpartners verleiht Ihrer Auftragsbestätigung eine persönliche Note.
 
-5. Die genaue Leistungsbeschreibung mit den einzelnenPositionen (Art, Preis und Menge)​bildet den Hauptteil Ihrer Auftragsbestätigung. Es muss klar sein, in welchem Umfang Sie Ihre Produkte oder Dienstleistungen verkaufen.
+5. Die genaue Leistungsbeschreibung mit den einzelnen Positionen (Art, Preis und Menge) ​bildet den Hauptteil Ihrer Auftragsbestätigung. Es muss klar sein, in welchem Umfang Sie Ihre Produkte oder Dienstleistungen verkaufen.
 
-6. Nun geht es ans Eingemachte: Addieren Sie die Einzelposten zumNettobetragzusammen, ziehen Sie gegebenenfalls einenRabattab und berechnen Sie bei Kunden im Inland auch den Bruttobetrag inklusive gesetzlicher Mehrwertsteuer.
+6. Nun geht es ans Eingemachte: Addieren Sie die Einzelposten zum Nettobetragzusammen, ziehen Sie gegebenenfalls einen Rabatt ab und berechnen Sie bei Kunden im Inland auch den Bruttobetrag inklusive gesetzlicher Mehrwertsteuer.
 
-7. Bei Unternehmenskunden im Ausland benötigen Sie dieUmsatzsteuer-Identifikationsnummer. Weisen Sie diese Kunden darauf hin, dass sie die Umsatzsteuer in ihrem jeweiligen Land selbst zu entrichten haben (Steuerschuldnerschaft des Leistungsempfängers).
+7. Bei Unternehmenskunden im Ausland benötigen Sie die Umsatzsteuer-Identifikationsnummer. Weisen Sie diese Kunden darauf hin, dass sie die Umsatzsteuer in ihrem jeweiligen Land selbst zu entrichten haben (Steuerschuldnerschaft des Leistungsempfängers).
 
-8. Vergessen Sie nicht dasaktuelle Datumund dasDatum der Auftragserteilung, wenn Sie eine Auftragsbestätigung schreiben. Optional können Sie auch einenLieferterminnennen.
+8. Vergessen Sie nicht das aktuelle Datum und das Datum der Auftragserteilung, wenn Sie eine Auftragsbestätigung schreiben. Optional können Sie auch einen Lieferterminnennen.
 
-9. Schließen Sie den Text mit einem freundlichen Abbinder und einerGrußformelab. Am besten weisen Sie bei einer Auftragsbestätigung an Kunden auch auf IhreAllgemeinen Geschäftsbedingungen (AGB)​hin.
+9. Schließen Sie den Text mit einem freundlichen Abbinder und einer Grußformel ab. Am besten weisen Sie bei einer Auftragsbestätigung an Kunden auch auf Ihre Allgemeinen Geschäftsbedingungen (AGB)​hin.
 
-10. Im Brieffuß Ihrer Auftragsbestätigung Vorlage sollten IhreBankverbindung, IhreUmsatzsteuer-IDund andere relevante Firmendaten Platz finden.
+10. Im Brieffuß Ihrer Auftragsbestätigung Vorlage sollten Ihre Bankverbindung, Ihre Umsatzsteuer-ID und andere relevante Firmendaten Platz finden.
 
 ## Die vielfältigen Funktionen unserer Auftragsbestätigung Vorlage
 
-• Unsere Auftragsbestätigung Vorlage können Sie individuell an Ihre Wünsche und Bedürfnisse anpassen. Gestalten Sie Ihre Auftragsbestätigung mit dem Muster imSeitendesign-Pluginund nutzen Sie vielfältige Spaltentypen und Visualisierungsmöglichkeiten.
+• Unsere Auftragsbestätigung Vorlage können Sie individuell an Ihre Wünsche und Bedürfnisse anpassen. Gestalten Sie Ihre Auftragsbestätigung mit dem Muster im Seitendesign-Plugin und nutzen Sie vielfältige Spaltentypen und Visualisierungsmöglichkeiten.
 
-• Erstellen Sie Ihre Auftragsbestätigung Musterin verschiedenen Sprachenbzw. für verschiedene Länder und definieren Sie Abhängigkeiten, sodass immer automatisch die passende Vorlage ausgewählt wird.
+• Erstellen Sie Ihre Auftragsbestätigung Muster in verschiedenen Sprachen bzw. für verschiedene Länder und definieren Sie Abhängigkeiten, sodass immer automatisch die passende Vorlage ausgewählt wird.
 
-• Sobald Sie die Vorlage mit Ihren Daten und individuellen Designs befüllt haben, können Sie kostenlos undautomatisiert per Knopfdruckdie Auftragsbestätigung erstellen – ganz ohne weiteren Aufwand Ihrerseits.
+• Sobald Sie die Vorlage mit Ihren Daten und individuellen Designs befüllt haben, können Sie kostenlos und automatisiert per Knopfdruck die Auftragsbestätigung erstellen – ganz ohne weiteren Aufwand Ihrerseits.
 
-• Auch den Versand können Sie automatisieren: Durch die Integration mit Ihrem E-Mail-Provider lässt sich mit nur einem Klick eine Auftragsbestätigung schreiben unddirekt per E-Mail verschicken.
+• Auch den Versand können Sie automatisieren: Durch die Integration mit Ihrem E-Mail-Provider lässt sich mit nur einem Klick eine Auftragsbestätigung schreiben und direkt per E-Mail verschicken.
 
-• Nutzen Sie die integriertenStatistiken, um wertvolle Erkenntnisse aus Ihren Zahlen und Daten zu gewinnen und fundierte Entscheidungen zu treffen.
+• Nutzen Sie die integrierten Statistiken, um wertvolle Erkenntnisse aus Ihren Zahlen und Daten zu gewinnen und fundierte Entscheidungen zu treffen.
 
 ## Auftragsbestätigung schreiben – so einfach kann es sein
 
-Die Auftragsbestätigung Vorlage von SeaTable hilft IhnenProdukte,KundenundBestellungenübersichtlich zu organisieren, automatisch eine Auftragsbestätigung zu erstellen und als PDF versandfertig zu speichern. Dank intelligenterVerknüpfungenspeist sich die Auftragsbestätigung aus relevanten Daten verschiedener Tabellen: Kundeninformationen, Bestellpositionen und Preise fließen nahtlos zusammen, währendFormelnautomatisch Rabatte und Mehrwertsteuern berechnen.
+Die Auftragsbestätigung Vorlage von SeaTable hilft Ihnen Produkte,Kunden und Bestellungen übersichtlich zu organisieren, automatisch eine Auftragsbestätigung zu erstellen und als PDF versandfertig zu speichern. Dank intelligenter Verknüpfungen speist sich die Auftragsbestätigung aus relevanten Daten verschiedener Tabellen: Kundeninformationen, Bestellpositionen und Preise fließen nahtlos zusammen, während Formeln automatisch Rabatte und Mehrwertsteuern berechnen.
 
-![](images/image-1743590730029.gif)
+![SeaTable Base - Erstellen einer Auftragsbestätigung per Knopfdruck](images/image-1743590730029.gif)
 
 ### Auftragsbestätigung erstellen leicht gemacht
 
-Besonders praktisch für die schriftliche Auftragsbestätigung ist das Seitendesign-Plugin, mit dem SieDokumente in mehreren Sprachengestalten können. Ein einziger Klick genügt, um eine Auftragsbestätigung Vorlage als PDF zu speichern – je nach Land des Kunden nutzt SeaTable automatisch die passende Vorlage für die Auftragsbestätigung. Dank derbenutzerfreundlichen Oberflächekönnen Sie so in kürzester Zeit eine Auftragsbestätigung schreiben. Auch der Versand ist integriert: Mit einem weiteren Button lässt sich die fertigeAuftragsbestätigung direkt per E-Mail an den Kunden verschicken. So läuft der gesamte Prozess effizient und reibungslos, ohne umständliches Kopieren oder manuelles Tippen.
+Besonders praktisch für die schriftliche Auftragsbestätigung ist das Seitendesign-Plugin, mit dem Sie Dokumente in mehreren Sprachen gestalten können. Ein einziger Klick genügt, um eine Auftragsbestätigung Vorlage als PDF zu speichern – je nach Land des Kunden nutzt SeaTable automatisch die passende Vorlage für die Auftragsbestätigung. Dank der benutzerfreundlichen Oberfläche können Sie so in kürzester Zeit eine Auftragsbestätigung schreiben. Auch der Versand ist integriert: Mit einem weiteren Button lässt sich die fertige Auftragsbestätigung direkt per E-Mail an den Kunden verschicken. So läuft der gesamte Prozess effizient und reibungslos, ohne umständliches Kopieren oder manuelles Tippen.
 
 ### Mehr als eine Auftragsbestätigung Vorlage
 
-Sie benötigen auch eine Vorlage für IhrAngebotoder IhreRechnung? Die Auftragsbestätigung ist zum Glück nur einer derunzähligen Anwendungsfällevon SeaTable. Nutzen Sie ebenso wertvolle Zusatzfunktionen:Statistikenermöglichen Ihnen eine einfache Auswertung von Verkaufszahlen und Umsätzen, während dasGalerie-Plugineine Übersicht über IhrProduktportfoliobietet. Dank der flexiblen Anpassungsmöglichkeiten von SeaTable können Sie Spalten, Berechnungen und Ansichten individuell auf Ihre Bedürfnisse abstimmen und so eine Anwendung erstellen, die genau zu Ihrem Unternehmen passt.
+Sie benötigen auch eine Vorlage für Ihr Angebotoder Ihre Rechnung? Die Auftragsbestätigung ist zum Glück nur einer der unzähligen Anwendungsfälle von SeaTable. Nutzen Sie ebenso wertvolle Zusatzfunktionen: Statistiken ermöglichen Ihnen eine einfache Auswertung von Verkaufszahlen und Umsätzen, während das Galerie-Plugin eine Übersicht über Ihr Produktportfolio bietet. Dank der flexiblen Anpassungsmöglichkeiten von SeaTable können Sie Spalten, Berechnungen und Ansichten individuell auf Ihre Bedürfnisse abstimmen und so eine Anwendung erstellen, die genau zu Ihrem Unternehmen passt.
 
 ## Vorteile von SeaTable als Auftragsbestätigung Software
 

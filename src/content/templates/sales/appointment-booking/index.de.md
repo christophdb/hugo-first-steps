@@ -9,8 +9,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Terminbuchungen managen mit dieser Vorlage'
+    description: 'Optimieren Sie Ihr Terminmanagement mit einer kostenlosen Vorlage. Automatisieren Sie Buchungen und erstellen Sie einen klaren Zeitplan'
 template: '32d6342b2b43442ca4a4'
 ---
 
