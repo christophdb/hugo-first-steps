@@ -1,19 +1,19 @@
 ---
-title: 'Kunden-Onboarding'
+title: 'Customer-Onboarding'
 description: ''
 date: '2024-08-16'
 url: '/de/vorlage/customer-onboarding'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Effiziente Customer Onboarding Vorlage für Ihr Team'
+    description: 'Starten Sie Ihr Customer Onboarding mit einer Vorlage. Erfassen Sie alle wichtigen Schritte, behalten Sie den Überblick und optimieren Sie Ihre Kundenbeziehungen'
 template: 'c33b819f0a694f3b8cf1'
 ---
 
 Diese Vorlage ist ein Muss für jede Firma, die erklärungsbedürftige Produkte anbieten. Mit SeaTable können Sie in kürzester Zeit und ohne eigene Programmierung einen individuellen Prozess gestalten, den Ihre Kunden im Anschluß an den Kauf durchlaufen.
 
-SeaTable gibt Ihnen die volle Kontrolle über die Gestaltung Ihres Onboardings. Sie bestimmen, welche Informationen Ihre Kunden bekommen, wann diese informiert werden und wann ein Feedback abgefragt wird. Verschicken Sie eine E-Mail mit der Bitte um Feedback durch einen einfachen Knopfdruck und behalten Sie zu jedem Zeitpunkt die Übersicht.
+SeaTable gibt Ihnen die volle Kontrolle über die Gestaltung Ihres Customer-Onboardings. Sie bestimmen, welche Informationen Ihre Kunden bekommen, wann diese informiert werden und wann ein Feedback abgefragt wird. Verschicken Sie eine E-Mail mit der Bitte um Feedback durch einen einfachen Knopfdruck und behalten Sie zu jedem Zeitpunkt die Übersicht.
 
 Die Vorlage sieht vor, dass Sie jedem Kunden einen individuellen Ansprechpartner zuweisen und die einzelnen Phasen manuell verändern. Dies erfolgt bequem über die Kanban-Ansicht von SeaTable.
 
