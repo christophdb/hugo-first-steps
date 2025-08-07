@@ -1,13 +1,13 @@
 ---
-title: 'Feature-Wünsche'
+title: 'Feature-Requests'
 description: ''
 date: '2024-08-24'
 url: '/de/vorlage/feature-requests'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Feature-Requests zentral verwalten und priorisieren'
+    description: 'Verwalten Sie Ihre Feature-Requests zentral mit einer effizienten Vorlage. Sammeln, priorisieren und verfolgen Sie Nutzerfeedback'
 template: 'dc2f9f8565dc427c986b'
 ---
 

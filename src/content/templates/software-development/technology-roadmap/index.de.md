@@ -2,12 +2,14 @@
 title: 'Technologie-Roadmap'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/technology-roadmap'
+url: '/de/vorlage/technologie-roadmap'
+aliases:
+    - '/de/vorlage/technology-roadmap'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Technologie-Roadmap | Vorlage zur Strategieplanung'
+    description: 'Planen Sie Ihre technische Strategie effektiv. Mit dieser Vorlage visualisieren Sie Projekte, Technologien und Meilensteine klar für Ihr gesamtes Team'
 template: '1b086534c58049f481eb'
 ---
 

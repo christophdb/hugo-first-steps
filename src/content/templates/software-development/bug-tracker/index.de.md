@@ -6,8 +6,8 @@ url: '/de/vorlage/bug-tracker'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Bug-Tracker für reibungslose Entwicklungsprozesse'
+    description: 'Behalten Sie den Überblick über Softwarefehler mit dieser Bug-Tracker System. Priorisieren Sie Aufgaben und verbessern Sie Ihre Produktivität'
 template: '51d678ca8b004e9b9b79'
 ---
 
