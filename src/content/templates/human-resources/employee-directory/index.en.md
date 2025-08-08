@@ -1,13 +1,13 @@
 ---
 title: 'Employee directory'
-description: ''
+description: 'Employee Directory Template: Overview of All Staff'
 date: '2025-04-18'
 url: '/template/employee-directory'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Employee Directory Template: Overview of All Staff'
+    description: 'Use our employee directory template for a quick overview of positions, departments, and contact details in your company.'
 template: 'e3d0d9a9139c46c58bf0'
 ---
 

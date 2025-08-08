@@ -1,13 +1,15 @@
 ---
-title: 'Lista de pessoal'
-description: ''
+title: 'Modelo de diretório de funcionários'
+description: 'Use nosso modelo para visualizar cargos, departamentos e contatos dos funcionários da sua empresa em um só lugar.'
 date: '2025-04-18'
-url: '/pt/modelo/employee-directory'
+url: '/pt/modelo/diretorio-de-funcionarios'
+aliases:
+    - /pt/modelo/employee-directory/
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de diretório de funcionários: visão geral rápida'
+    description: 'Use nosso modelo para visualizar cargos, departamentos e contatos dos funcionários da sua empresa em um só lugar.'
 template: 'e3d0d9a9139c46c58bf0'
 ---
 
