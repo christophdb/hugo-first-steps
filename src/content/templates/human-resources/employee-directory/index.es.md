@@ -1,13 +1,15 @@
 ---
-title: 'Directorio del personal'
-description: ''
+title: 'Directorio de empleados'
+description: 'Utiliza nuestra plantilla para ver puestos, departamentos y datos de contacto del personal de tu empresa en un solo lugar.'
 date: '2025-04-18'
-url: '/es/plantilla/employee-directory'
+url: '/es/plantilla/directorio-de-empleados'
+aliases:
+    - /es/plantilla/employee-directory/
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de directorio de empleados: visión general rápida'
+    description: 'Utiliza nuestra plantilla para ver puestos, departamentos y datos de contacto del personal de tu empresa en un solo lugar.'
 template: 'e3d0d9a9139c46c58bf0'
 ---
 
