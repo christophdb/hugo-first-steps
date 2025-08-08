@@ -6,7 +6,6 @@ seo:
     description: 'Create your financial plan effortlessly with SeaTable! This innovative platform combines the benefits of spreadsheets with the powerful features of modern cloud databases. Perfect for companies, start-ups and freelancers who want to create and optimize their financial plan.'
 date: '2025-08-05'
 url: '/create-financial-plan'
-draft: true
 
 sections:
     - name: hero-5
