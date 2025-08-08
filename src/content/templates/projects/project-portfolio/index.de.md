@@ -1,12 +1,14 @@
 ---
 title: 'Projektportfolio'
 description: 'Erstellen Sie eine Gesamtübersicht aller Projekte in Ihrem Unternehmen.'
-url: '/de/vorlage/project-portfolio'
+url: '/de/vorlage/projektportfolio'
+aliases:
+    - '/de/vorlage/project-portfolio'
 category: 'projekte'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Projektportfolio - Projekte jetzt effizient starten'
+    description: 'Finden Sie die perfekte Vorlage für Ihr Projekt. Passen Sie sie an Ihre Anforderungen an und steigern Sie Ihre Effizienz im Handumdrehen'
 template: '1acd19d97c8f4ed3ad38'
 ---
 
@@ -14,11 +16,11 @@ Legen Sie ein Projektportfolio an, um alle Projekte Ihres Unternehmens an einem 
 
 ### Behalten Sie mit unserem Projektportfolio Tool den Überblick
 
-In SeaTable können Sie Projekte, Ziele, Aufgaben und die zuständigen Abteilungen in verschiedenen Tabellen erfassen und diese so miteinander verknüpfen, dass Sie stets den Überblick behalten. Sammeln Sie in der ersten Tabelle alle Informationen zu den Projekten, z. B. Priorität, Status, Kick-off-Datum, Deadline und den Projektverantwortlichen. Um das Projektportfolio möglichst übersichtlich zu gestalten, können Sie die Projekte nach Abteilungen gruppieren.
+In SeaTable können Sie Projekte, Ziele, Aufgaben und die zuständigen Abteilungen in verschiedenen Tabellen erfassen und diese so miteinander verknüpfen, dass Sie **stets den Überblick behalten**. Sammeln Sie in der ersten Tabelle alle Informationen zu den Projekten, z. B. Priorität, Status, Kick-off-Datum, Deadline und den Projektverantwortlichen. Um das Projektportfolio möglichst übersichtlich zu gestalten, können Sie die Projekte nach Abteilungen gruppieren.
 
 ### Stützen Sie Ihre Entscheidungen auf fundierte Daten
 
-Jedes Projekt können Sie mit den Datensätzen in den anderen Tabellen (Goals, Departments, Tasks) verknüpfen. Beispielsweise errechnet sich der strategische Score automatisch, wenn Sie Ihren Projekten Ziele aus Tabelle 2 zuweisen. Diese Punktzahl (Summe der Sterne) sagt aus, wie wichtig ein Projekt für Ihre Unternehmensstrategie ist, und hilft Ihnen die Priorität eines Projekts festzulegen bzw. zu entscheiden, ob ein beantragtes Projekt genehmigt oder abgelehnt wird.
+Jedes Projekt können Sie mit den Datensätzen in den anderen Tabellen (Goals, Departments, Tasks) verknüpfen. Beispielsweise errechnet sich der strategische Score automatisch, wenn Sie Ihren Projekten Ziele aus Tabelle 2 zuweisen. Diese Punktzahl (Summe der Sterne) sagt aus, wie **wichtig ein Projekt für Ihre Unternehmensstrategie** ist, und hilft Ihnen die **Priorität eines Projekts festzulegen** bzw. zu entscheiden, ob ein beantragtes Projekt genehmigt oder abgelehnt wird.
 
 ### Machen Sie sich die Ressourcenplanung leicht
 
@@ -32,11 +34,11 @@ Damit Sie in unserem Projektportfolio Tool den Einsatz Ihrer Ressourcen effizien
 
 ### Kommen Sie mit einer benutzerdefinierten Project Web App ans Ziel
 
-Erstellen Sie ohne Programmierkenntnisse Ihre eigene Projekt App oder nutzen Sie hier die vorgefertigte Project Web App, um den verschiedenen Projektbeteiligten genau die Daten zur Verfügung zu stellen, die für sie relevant sind. Mithilfe der Seitenberechtigungen können Sie präzise festlegen, wer bestimmte Aktionen ausführen (z. B. Projektideen einreichen) kann. Auf individuellen Dashboards haben Sie die Möglichkeit, die Zahlen und Daten aus Ihren Tabellen mit Statistiken, Bildern und anderen Elementen aufzubereiten.
+Erstellen Sie **ohne Programmierkenntnisse** Ihre eigene Projekt App oder nutzen Sie hier die v**orgefertigte Project Web App**, um den verschiedenen Projektbeteiligten genau die Daten zur Verfügung zu stellen, die für sie relevant sind. Mithilfe der Seitenberechtigungen können Sie präzise festlegen, wer bestimmte Aktionen ausführen (z. B. Projektideen einreichen) kann. Auf **individuellen Dashboards** haben Sie die Möglichkeit, die Zahlen und Daten aus Ihren Tabellen mit Statistiken, Bildern und anderen Elementen aufzubereiten.
 
 ### Wie Sie ein Projektportfolio erstellen
 
-Sie möchten genauer wissen, wie Sie ein Projektportfolio erstellen? Dann lesen Sie unseren Blog-Artikel zum Thema Portfoliomanagement, der Ihnen viele weiterführende Informationen bietet.
+Sie möchten genauer wissen, wie Sie ein Projektportfolio erstellen? Dann lesen Sie unseren Blog-Artikel zum Thema [Portfoliomanagement]({{< relref "posts/20250327-portfoliomanagement" >}}), der Ihnen viele weiterführende Informationen bietet.
 
 ### Interaktives Template
 
