@@ -4,16 +4,11 @@
     <meta name="viewport" content="width=device-width" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-    {{ if .IsHome -}}
-        <title>{{ .Site.Title | emojify | safeHTML }}</title>
-        <meta name="title" content="{{ .Site.Title | emojify | safeHTML }}" />
+    <title>{{ .Title | emojify | safeHTML }}</title>
+    {{ if .Params.seo.title -}}
+        <meta name="title" content="{{ .Params.seo.title | emojify | safeHTML }}" />
     {{- else -}}
-        <title>{{ .Title | emojify | safeHTML }}</title>
-        {{ if .Params.seo.title -}}
-            <meta name="title" content="{{ .Params.seo.title | emojify | safeHTML }}" />
-        {{- else -}}
-            <meta name="title" content="{{ .Title | emojify }}" />
-        {{- end -}}
+        <meta name="title" content="{{ .Title | emojify | safeHTML }}" />
     {{- end -}}
 
     {{/* Metadata */}}
