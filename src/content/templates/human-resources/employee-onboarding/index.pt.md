@@ -1,13 +1,15 @@
 ---
-title: 'Empregado a bordo'
+title: 'Modelo de onboarding'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/employee-onboarding'
+url: '/pt/modelo/onboarding-funcionarios'
+aliases: 
+    - /pt/modelo/employee-onboarding/
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de onboarding: integração de novos funcionários'
+    description: 'Use nosso modelo para estruturar listas de tarefas e facilitar o onboarding digital de novos funcionários na empresa.'
 template: '89db2f0bd28d41f19c01'
 ---
 

@@ -1,13 +1,15 @@
 ---
-title: 'Incorporación de los empleados'
-description: ''
+title: 'Onboarding-de-empleados'
+description: 'Utiliza nuestra plantilla para organizar checklists y procesos al incorporar nuevos empleados de manera estructurada.'
 date: '2024-08-24'
-url: '/es/plantilla/employee-onboarding'
+url: '/es/plantilla/onboarding-de-empleados'
+aliases:
+    - /es/plantilla/employee-onboarding/
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de onboarding: integración de nuevos empleados'
+    description: 'Utiliza nuestra plantilla para organizar checklists y procesos al incorporar nuevos empleados de manera estructurada.'
 template: '89db2f0bd28d41f19c01'
 ---
 

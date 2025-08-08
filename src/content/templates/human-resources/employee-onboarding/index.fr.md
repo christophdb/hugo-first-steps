@@ -1,13 +1,15 @@
 ---
-title: 'Introduction des employés'
-description: ''
+title: 'onboarding-employes'
+description: 'Structurez l’intégration des nouveaux employés grâce à nos checklists et un modèle d’onboarding pratique et efficace.'
 date: '2024-08-24'
 url: '/fr/modele/employee-onboarding'
+aliases:
+    - /fr/modele/employee-onboarding/
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle d’onboarding : intégration des nouveaux employés'
+    description: 'Structurez l’intégration des nouveaux employés grâce à nos checklists et un modèle d’onboarding pratique et efficace.'
 template: '89db2f0bd28d41f19c01'
 ---
 

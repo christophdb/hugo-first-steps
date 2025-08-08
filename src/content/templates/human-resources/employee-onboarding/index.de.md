@@ -1,13 +1,15 @@
 ---
 title: 'Mitarbeiter-Onboarding'
-description: ''
+description: 'Nutzen Sie unsere Onboarding-Vorlage für strukturierte Checklisten und klaren Überblick beim Einarbeiten neuer Mitarbeiter.'
 date: '2024-08-24'
-url: '/de/vorlage/employee-onboarding'
+url: '/de/vorlage/mitarbeiter-onboarding'
+aliases:
+    - /de/vorlage/employee-onboarding/
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Mitarbeiter-Onboarding Vorlage: Einarbeitung neuer Mitarbeiter strukturieren'
+    description: 'Nutzen Sie unsere Onboarding-Vorlage für strukturierte Checklisten und klaren Überblick beim Einarbeiten neuer Mitarbeiter.'
 template: '89db2f0bd28d41f19c01'
 ---
 
