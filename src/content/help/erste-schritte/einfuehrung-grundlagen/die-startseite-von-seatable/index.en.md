@@ -31,5 +31,5 @@ The workspace contains all the bases you have access to. The workspace is divide
 
 - **My Bases** - Bases that you have created and to which only you have access (as long as you do not give any [shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) ).
 - **Favorites** - Bases that you have marked as [favorites]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}}).
-- **Released for me** - all the bases that others have shared with you.
+- **Shared with me** - all the bases that others have shared with you.
 - **Groups** - all the [groups]({{< relref "help/startseite/gruppen" >}}) you are a member of.

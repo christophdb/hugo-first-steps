@@ -37,11 +37,11 @@ To help you keep track of who made what changes to the data in your Bases and wh
 
 Records that different groups and users in your team need can be made available to them as templates for new tables using [shared records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}). Any table that your team members create with a shared record, they can [synchronize]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}). When they do, SeaTable overwrites the data in the table with that of the current shared record, so everyone is at the same level.
 
-## Internal releases
+## Internal shares
 
 You want to work temporarily with one or more SeaTable users on one Base? With [internal shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) you can do exactly that! You determine whether a share should be read-only or read and write. This way you always keep full control over the data in your Base.
 
-## External releases
+## External shares
 
 Bases can be shared not only with other SeaTable users. You can also make Bases available to third parties via an external share. An [external link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}), which you can set with a password and/or an expiration date, gives all persons with knowledge of the link read access to the shared base. You create an external link - like an internal share - via the **share icon** {{< seatable-icon icon="dtable-icon-share" >}} in the base header.
 

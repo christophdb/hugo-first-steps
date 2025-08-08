@@ -18,7 +18,7 @@ In SeaTable, you have the ability to give **specific people or groups** access t
 
 That's why SeaTable allows you to define tiered permissions on each share. By specifying whether it should be a **read-only** share, a **read-and-write** share, or a [custom share]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}), you retain full control over **who is** **authorized to do what** in your base, table, or view. Of course, this means you also have the ability to **change** and **revoke** permissions.
 
-## Functionality and types of releases
+## Functionality and types of shares
 
 With a share you grant **access to** a base, table or view to other persons. The authorized users will see the share as a separate base on the home page, and the sharing user will also be mentioned. Depending on the type of share, other users can only view or also edit your data.
 
@@ -33,13 +33,13 @@ To give you even more options when sharing a Base than you have with the two bas
 
 Each share, regardless of the assigned authorization, can be **terminated** at any time by the owner or an administrator.
 
-## Releases for Bases
+## Sharing options for Bases
 
-The release of a Base can be made to different groups of persons:
+The share of a Base can be made to different groups of persons:
 
-- [Release for user]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Release for group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
-- [Release via invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
+- [Share a base with a user]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Share a base with a group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Share via invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Share via external link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
 Sharing to a user or group lets you share the base **within your team**. Sharing by invitation link allows you to give access to a Base to people **outside your team** (but inside SeaTable). External link lets you share bases or views externally, whether someone has a SeaTable account or not.
@@ -58,7 +58,7 @@ An existing share to a user or group can be extended or restricted at any time b
 
 If you don't want to [share]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) an entire base, but only [individual tables]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}), that is of course also possible. [Custom sharing]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) allows you to share multiple tables and views at once and send them to team members or entire groups.
 
-## Approvals for views
+## Shares for views
 
 You create the share of a view in the opened table. When you are in the view you want to share, click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} in the view options. Do not confuse this with the Share icon of Base.
 
@@ -66,8 +66,8 @@ You create the share of a view in the opened table. When you are in the view you
 
 You will then be taken to the familiar **Share dialog**, where you can create your view shares in the same way as for the bases. A view can be shared with three groups of people:
 
-- [Release to a team member]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Release to a group]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
+- [Share a view with a team member]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+- [Share a view with a group]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Share via external link]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 As soon as you click the **Submit** button for a share option, the selected person or group can access the view with the granted permission. To share a view with multiple users or groups, repeat this process.

@@ -23,8 +23,8 @@ Vous pouvez - indépendamment de votre [rôle et]({{< relref "help/startseite/gr
 
 ![Ajouter une description de tableau](images/edit-table-description.jpg)
 
-4. Ajoutez une **description** au tableau.
-5. Confirmez en cliquant sur **Envoyer**.
+3. Ajoutez une **description** au tableau.
+4. Confirmez en cliquant sur **Envoyer**.
 
 ![Ajouter une description de tableau](images/insert-table-description.jpg)
 

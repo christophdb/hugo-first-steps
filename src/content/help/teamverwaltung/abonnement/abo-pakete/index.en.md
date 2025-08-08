@@ -22,7 +22,7 @@ The Plus subscription offers unlimited tables, up to 50,000 rows and 50 GB of st
 
 ### SeaTable Cloud Enterprise
 
-With SeaTable Enterprise, for 14€ per month per user, you get unlimited tables and rows, a full 100 GB of storage for files and 12 months of versioning for recovery. Also unlimited are the JavaScripts and Python runs. With Enterprise you can expect additional extended releases, extended customizing of your bases and the archive function. In addition, there are automations that can efficiently relieve you of a lot of work.
+With SeaTable Enterprise, for 14€ per month per user, you get unlimited tables and rows, a full 100 GB of storage for files and 12 months of versioning for recovery. Also unlimited are the JavaScripts and Python runs. With Enterprise you can expect additional sharing options, extended customizing of your bases and the archive function. In addition, there are automations that can efficiently relieve you of a lot of work.
 
 ## Your own SeaTable system
 

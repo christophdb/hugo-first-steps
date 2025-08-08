@@ -14,13 +14,20 @@ Puede utilizar registros de datos compartidos no sólo en el grupo respectivo en
 
 ![Compartir un registro común con otro grupo](images/overview-common-datasets.png)
 
-![Compartir un registro común con otro grupo](images/release-a-common-dataset-to-a-external-group-2.gif) 3. Abra la página de **inicio** de SeaTable. 4. Haga clic en la pestaña **Registro compartido**. 5. Seleccione el registro de datos compartidos que desea **compartir** con otro grupo. 6. Haga clic en los **tres puntos** situados a la derecha del registro de datos correspondiente y, a continuación, en **Gestionar acceso**. 7. Seleccione el **grupo** al que se le va a entregar el registro. 8. Confirme la liberación pulsando **Añadir**.
+![Compartir un registro común con otro grupo](images/release-a-common-dataset-to-a-external-group-2.gif) 
 
-## Liberación por disolución
+1. Abra la **página de inicio** de SeaTable. 
+2. Haga clic en la pestaña **Registro compartido**. 
+3. Seleccione el registro de datos compartidos que desea **compartir** con otro grupo. 
+4. Haga clic en los **tres puntos** situados a la derecha del registro de datos correspondiente y, a continuación, en **Gestionar acceso**. 
+5. Seleccione el **grupo** al que se le va a entregar el registro. 
+6. Confirme pulsando **Añadir**.
+
+## Disolución
 
 Para **cancelar** la cesión de un registro de datos compartidos a otro grupo, basta con seguir de nuevo los pasos anteriores y hacer clic en **Eliminar** junto al grupo correspondiente en las autorizaciones de acceso.
 
-![Resolver la liberación de un registro compartido a otro grupo.](images/cancel-the-release-of-a-common-dataset-to-an-external-group.png)
+![Disolución de un registro compartido a otro grupo.](images/cancel-the-release-of-a-common-dataset-to-an-external-group.png)
 
 ### Consecuencias de la disolución
 
