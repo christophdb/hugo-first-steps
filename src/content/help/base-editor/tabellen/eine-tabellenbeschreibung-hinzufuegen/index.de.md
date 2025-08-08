@@ -21,7 +21,10 @@ Sie können – unabhängig von Ihrer [Rolle und Berechtigung]({{< relref "help/
 1. Klicken Sie auf das **dreieckige Drop-down-Symbol** neben dem Namen einer beliebigen Tabelle.
 2. Wählen Sie die Option **Tabellenbeschreibung bearbeiten**.
 
-![Eine Tabellenbeschreibung hinzufügen](images/edit-table-description.jpg) 4. Fügen Sie der Tabelle eine **Beschreibung** hinzu. 5. Bestätigen Sie mit **Abschicken**.
+![Eine Tabellenbeschreibung hinzufügen](images/edit-table-description.jpg) 
+
+3. Fügen Sie der Tabelle eine **Beschreibung** hinzu. 
+4. Bestätigen Sie mit **Abschicken**.
 
 ![Tabellenbeschreibung hinzufügen](images/insert-table-description.jpg)
 

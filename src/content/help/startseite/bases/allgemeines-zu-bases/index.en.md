@@ -47,7 +47,7 @@ You have **three options** when creating a new Base. You can read more about the
 
 You manage bases via the **context menu** on the start page. When you move the mouse pointer over one of your bases, a **pencil icon** appears to the right of the name {{< seatable-icon icon="dtable-icon-rename" >}} and a **three-dot icon** {{< seatable-icon icon="dtable-icon-more-vertical" >}} for the advanced options. You will need these regularly to manage your Bases.
 
-You cannot **manage** bases released to you. In the advanced functions of such bases you have only two options: **Exit shared base** and **Copy**.
+You cannot **manage** bases shared with you. In the advanced functions of such bases you have only two options: **Exit shared base** and **Copy**.
 
 ## Rename Bases
 
@@ -61,7 +61,7 @@ You can give a new look to the bases you are the owner or administrator of. You 
 
 You can add a description to your bases to give other users an "instruction manual" or to record supplementary information about a base. Learn how to use this feature [here]({{< relref "help/base-editor/weitere-optionen/wie-man-einer-base-eine-beschreibung-hinzufuegt" >}}).
 
-## Release bases
+## Share bases
 
 You can **share** bases that you own or administer with other **users and groups**, giving them access to the data. Sharing is done with different permissions, so you always have control over changes in your bases.
 

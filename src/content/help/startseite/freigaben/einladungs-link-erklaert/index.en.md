@@ -14,7 +14,7 @@ The person must **log in** or **register to** get access to the Base you send. I
 
 ## To create an invitation link for a Base
 
-![Release link explained](images/Freigabelinks-erklaert.gif)
+![Invitation link explained](images/Freigabelinks-erklaert.gif)
 
 1. Go to the **home page of SeaTable**.
 2. Move the mouse cursor to the **base** you want to split and click the **three dots** that appear on the right.

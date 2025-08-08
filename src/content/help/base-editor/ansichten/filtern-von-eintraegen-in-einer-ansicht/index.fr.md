@@ -47,5 +47,6 @@ Vous pouvez créer un ou plusieurs filtres qui restreignent davantage la premiè
 
 ## Réorganiser les filtres
 
-Vous pouvez déplacer et réorganiser les filtres en déplaçant la souris sur le **Surface de préhension** ![Icône pour déplacer des éléments](images/move-icon.png) maintenir enfoncé, tirer et relâcher.  
+Vous pouvez déplacer et réorganiser les filtres en déplaçant la souris sur le **Surface de préhension**, maintenir enfoncé, tirer et relâcher.
+
 ![Filtrer les entrées Trier](images/Filtern-von-Eintraegen-2.gif)

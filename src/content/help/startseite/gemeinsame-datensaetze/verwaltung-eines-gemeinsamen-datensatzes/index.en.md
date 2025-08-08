@@ -1,5 +1,5 @@
 ---
-title: 'Management of a shared data set'
+title: 'Management of a common data set'
 date: 2024-06-11
 lastmod: '2024-06-11'
 categories:
@@ -8,33 +8,33 @@ author: 'kgr'
 url: '/help/verwaltung-eines-gemeinsamen-datensatzes'
 ---
 
-Once you have created a shared data set, you can perform various operations to manage your data set. You can access the overview of your shared data records via the start page.
+Once you have created a common data set, you can perform various operations to manage your data set. You can access the overview of your common datasets via the start page.
 
-## How to manage your shared data records
+## How to manage your common datasets
 
-1. Open the **home** page of SeaTable.
+1. Open the **home page** of SeaTable.
 
-![Management of a shared data set](images/overview-common-datasets.png)
+![Management of a common data set](images/overview-common-datasets.png)
 
-3. Click on **Shared data record**. You are now in the **overview** of all shared data records.
-4. Move the mouse over a shared data record and click on the **three dots** on the far right.
-5. Select the desired option in the following menu.
+2. Click on **common dataset**. You are now in the **overview** of all common datasets.
+3. Move the mouse over a common dataset and click on the **three dots** on the far right.
+4. Select the desired option in the following menu.
 
 ![More operations for common datasets](images/More-operations-for-common-datasets.png)
 
-{{< warning  headline="Authorization required"  text="You can only perform these management operations if you are the **creator of** the shared data record. The **three dots are hidden** for data records that are only released to one of your groups." />}}
+{{< warning  headline="Authorization required"  text="You can only perform these management operations if you are the **creator of** the common dataset. The **three dots are hidden** for datasets that are only shared with one of your groups." />}}
 
-## Retrieve details of a shared data record
+## Retrieve details of a common dataset
 
-If you use shared data sets extensively in your team, it can be easy to lose track. To which **groups** is a shared data record released and in which **bases** is it integrated? You can view this information under **Details**.
+If you use common data sets extensively in your team, it can be easy to lose track. With which **groups** is a common dataset shared and in which **bases** is it integrated? You can view this information under **Details**.
 
 ![Details of a common dataset](images/Details-of-a-common-dataset.png)
 
 ![Common dataset details](images/Common-dataset-details.png)
 
-## Rename a shared data set
+## Rename a common data set
 
-If you want to change the **name** of your shared data set, simply click on **Rename**.
+If you want to change the **name** of your common data set, simply click on **Rename**.
 
 ![Rename common dataset option](images/Rename-common-dataset-option.png)
 
@@ -44,12 +44,12 @@ Enter the new name and confirm with **Send**.
 
 ## Manage access authorizations
 
-You can use the **Manage access** option to share your shared data set with another group or withdraw access again. You can find out exactly how this works [here]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
+You can use the **Manage access** option to share your common data set with another group or withdraw access again. You can find out exactly how this works [here]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
-## Force synchronization with the shared data set
+## Force synchronization with the common data set
 
-As the creator of a shared data record, you can force the **synchronization** of dependent tables. You can find out the consequences and advantages of this [here]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
+As the creator of a common dataset, you can force the **synchronization** of dependent tables. You can find out the consequences and advantages of this [here]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
-## Delete a shared data record
+## Delete a common dataset
 
-If you want to delete a shared data record, you will find all the important information [here]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}}).
+If you want to delete a common dataset, you will find all the important information [here]({{< relref "help/startseite/gemeinsame-datensaetze/loeschen-eines-gemeinsamen-datensatzes" >}}).

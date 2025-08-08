@@ -23,8 +23,8 @@ Independientemente de su [función y autorización]({{< relref "help/startseite/
 
 ![Añadir una descripción de la tabla](images/edit-table-description.jpg)
 
-4. Añade una **descripción** a la tabla.
-5. Confirme con **Enviar**.
+3. Añade una **descripción** a la tabla.
+4. Confirme con **Enviar**.
 
 ![Añadir descripción de la tabla](images/insert-table-description.jpg)
 

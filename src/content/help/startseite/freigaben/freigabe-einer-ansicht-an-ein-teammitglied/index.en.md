@@ -22,7 +22,7 @@ If you grant editing rights to a shared view to another user, he is authorized t
 2. Click **Share View**, and then select **Share with User**.
 3. Select a **user** to whom you want to share the view.
 4. In the **Permission** field, decide whether your team member can only read the view or also edit it.
-5. **Name the** release and confirm it with **Submit**.
+5. **Name the** share and confirm it with **Submit**.
 
 If you have successfully shared the view with another user, it will appear on their home page under the **Shared with me** tab:
 
@@ -48,17 +48,17 @@ In a Base, there are a total of two **sharing icons** that you can use to share 
 
 ![Sharing icons in a base](images/share-icons-new-1.png)
 
-### Release of a base
+### Share a base
 
-- The entire Base (including all **tables**, **views** and **data**) is released to another user.
+- The entire Base (including all **tables**, **views** and **data**) is shared with another user.
 
-### Sharing a view
+### Share a view
 
 - Only the selected **view of a table** is shared with another user.
 
 ## Special features
 
-### When releasing a view, there are some special features that need to be considered:
+### When sharing a view, there are some special features that need to be considered:
 
 - Columns hidden in a view are **not** displayed to viewers of the share link.
 - If a shared table view contains links to the entries of another table that you have not shared with the respective user, the user can still **see** the corresponding entries and, depending on the rights you have granted him for the shared view, also **edit** them.

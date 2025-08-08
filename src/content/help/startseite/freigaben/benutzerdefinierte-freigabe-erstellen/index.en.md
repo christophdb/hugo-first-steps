@@ -1,5 +1,5 @@
 ---
-title: 'Create custom share'
+title: 'Create a custom sharing permission'
 date: 2023-01-16
 lastmod: '2023-02-22'
 categories:
@@ -10,7 +10,7 @@ url: '/help/benutzerdefinierte-freigabe-erstellen'
 
 {{< required-version "Plus" "Enterprise" >}}
 
-A custom share permission allows you to share **multiple tables and views** from a Base at the same time. This saves you a lot of work if you want to share numerous tables and views with your team members, but not an entire base.
+A custom sharing permission allows you to share **multiple tables and views** from a Base at the same time. This saves you a lot of work if you want to share numerous tables and views with your team members, but not an entire base.
 
 Despite this bundled sharing, you can define the desired **permission** in detail, as you can select individually for each table and view whether a **read and write** share or only a **read share** should be granted.
 
@@ -18,12 +18,12 @@ For example, you can specify that you grant read and write access to the first t
 
 After you create a custom share, you can send it to **individual team members** or **entire groups**.
 
-## To create a custom share permission
+## To create a custom sharing permission
 
 You have **two** ways to share individual tables and views of a Base:
 
-- From the **home** page
-- Via the **Share icon** in Base
+- From the **home page**
+- Via the **Share icon** within a Base
 
 ### From the home page
 
@@ -32,12 +32,12 @@ You have **two** ways to share individual tables and views of a Base:
 1. Go to the **home page of SeaTable**.
 2. Move the mouse cursor to the base you want to split and click the **three dots** that appear on the right.
 3. Click **Share**.
-4. Select the **Custom share permission** menu item.
+4. Select the **Custom sharing permission** menu item.
 5. Click **Add Permission**.
 6. Give the permission a **name** and add a **description**.
 7. Place **check marks** next to each table and view you want to share, deciding whether you want to assign **read and write** permissions or **read-only perm** issions.
 
-### Via the Share icon in Base
+### Via the Share icon in a Base
 
 ![Sharing individual spreadsheets from the home page](images/share-single-tablesheets-from-the-base-options.png)
 
@@ -52,18 +52,18 @@ The created share permission is now available as an option under **Share for Use
 1. In the left column of the Share window, click **Share for Group** or **Share for User**.
 2. Select the **group** or **users** you want to send the custom share to.
 3. In the **Permissions** field, you can now select the previously created **share permission** under the respective name.
-4. Confirm the release with **Submit**.
+4. Confirm with **Submit**.
 
 ![Share individual spreadsheets of a base](images/share-sinlge-table-sheets-to-a-group-1.gif)
 
 For detailed explanations of what you should consider when sharing with users or groups, see the following articles:
 
-- [Release a base to a user]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Release a base to a group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Share a base with a user]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Share a base with a group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 
-## Consequences of the release
+## Consequences of the share
 
-Shared tables and views can be found in the group's or user's **workspace** on the **home** **page**. They are always displayed with the note **Shared**.
+Shared tables and views can be found in the group's or user's **workspace** on the **home page**. They are always displayed with the note **Shared**.
 
 ![Individual spreadsheets of a base shared with a group](images/how-shared-single-table-sheets-are-marked.png)
 
@@ -77,15 +77,15 @@ Tables and views that are shared for **reading and writing**, on the other hand,
 
 {{< warning  headline="Attention"  text="Please note that **changes** made by other users (with write permission) in the tables or views you share will also be **applied** to you." />}}
 
-## Edit custom share permissions
+## Edit custom sharing permissions
 
-You can change custom share permissions after the fact by **removing** individual **tables and views** from the share again or **adjusting** the **type of share**.
+You can change custom sharing permissions after the fact by **removing** individual **tables and views** from the share again or **adjusting** the **type of share**.
 
-1. Click **Custom Share Permissions** and hover over the **permission** you want to customize.
-2. Click on the **pencil icon that** appears {{< seatable-icon icon="dtable-icon-rename" >}}.
-3. Now you can change the **name** and **description of** the permission.
-4. Below you have the possibility to remove the checkmarks for individual **tables** and **views of** the base or to adjust whether they should be released for **reading and writing** or only for **reading**.
-5. Confirm with **Submit** to save the **release authorization**.
+1. Click **Custom Sharing Permissions** and hover over the **permission** you want to customize.
+2. Click on the **pencil icon** that appears {{< seatable-icon icon="dtable-icon-rename" >}}.
+3. Now you can change the **name** and **description** of the permission.
+4. Below you have the possibility to remove the checkmarks for individual **tables** and **views** of the base or to adjust whether they should be shared for **reading and writing** or only for **reading**.
+5. Confirm with **Submit** to save the **authorization**.
 
 ## Limitations
 

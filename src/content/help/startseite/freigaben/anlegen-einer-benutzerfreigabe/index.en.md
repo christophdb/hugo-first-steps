@@ -22,9 +22,9 @@ You can **share bases with other users** within your team. Here you can choose b
 6. Set whether you want to assign **read and write perm** issions or **read-only permissions**.
 7. Click **Submit**.
 
-### Release within Base
+### Share from inside a base
 
-![Release within Base](images/share-a-base.png)
+![Share from inside a base](images/share-a-base.png)
 
 If you are currently **in a Base**, you can also create a share without having to switch to the Home screen. To do this, click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} at the top right of the **Base options**. The window that opens to create a share looks just like the one on the Home page. Just follow the above clicking instructions starting from step 4.
 
@@ -38,7 +38,7 @@ Select multiple users here by checking the appropriate **boxes**.
 
 ![](images/Anlegen-einer-Benutzerdefinierten-Freigabe-2.png)
 
-## Withdraw the release from a user again
+## Withdraw the shared base from a user again
 
 Click the **x icon** to remove added users.
 

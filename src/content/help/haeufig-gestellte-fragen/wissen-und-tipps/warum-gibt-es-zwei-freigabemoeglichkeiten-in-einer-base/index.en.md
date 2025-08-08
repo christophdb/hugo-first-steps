@@ -14,17 +14,17 @@ Two different sharing options are available in your bases, allowing you to share
 
 Both sharing is done via the **Share** dialog - a window you reach via the **Share icons** {{< seatable-icon icon="dtable-icon-share" >}} in the View or Base options.
 
-![Releasing a Base to a User](images/share-base-to-user.png)
+![Share a base with a user](images/share-base-to-user.png)
 
-## Release of a base
+## Share a base
 
 ![Open share dialog within Base](images/share-a-base.png)
 
 If you want to share one of your bases, you have a choice of options depending on the group of people you want to share it with:
 
-- [Release for user]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Release for group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
-- [Release via invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
+- [Share a base with a user]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Share a base with a group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Share via invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Share via external link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
 ### Custom share
@@ -35,8 +35,8 @@ If you don't want to share a whole base, but only parts of it, that is of course
 
 If you only want to share a single view, sharing can be done to three groups of people:
 
-- [Release to a team member]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
-- [Release to a group]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
+- [Share with a team member]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}})
+- [Share with a group]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Share via external link]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
 For more information, see also the article [Base and view shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) at a glance.

@@ -23,8 +23,8 @@ url: '/ru/pomoshch/eine-tabellenbeschreibung-hinzufuegen'
 
 ![Добавьте описание таблицы](images/edit-table-description.jpg)
 
-4. Добавьте **описание** к таблице.
-5. Подтвердите с помощью кнопки **Отправить**.
+3. Добавьте **описание** к таблице.
+4. Подтвердите с помощью кнопки **Отправить**.
 
 ![Добавить описание таблицы](images/insert-table-description.jpg)
 

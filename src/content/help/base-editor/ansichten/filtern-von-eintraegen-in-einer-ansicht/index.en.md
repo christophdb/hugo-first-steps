@@ -47,5 +47,6 @@ You can create one or more filters that further restrict the first condition. Re
 
 ## Rearrange filters
 
-You can move and rearrange filters by moving the mouse on the **Gripping surface** ![Icon for moving elements](images/move-icon.png) Press and hold, pull and release.  
+You can move and rearrange filters by moving the mouse on the **Gripping surface**, press and hold, pull and release.
+
 ![Filter entries sort](images/Filtern-von-Eintraegen-2.gif)

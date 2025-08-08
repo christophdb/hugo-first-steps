@@ -14,9 +14,16 @@ Vous pouvez non seulement utiliser les enregistrements partagés dans le groupe 
 
 ![Partage d'un ensemble de données commun avec un autre groupe](images/overview-common-datasets.png)
 
-![Partage d'un ensemble de données commun avec un autre groupe](images/release-a-common-dataset-to-a-external-group-2.gif) 3. Ouvrez la **page d'accueil** de SeaTable. 4. Cliquez sur l'onglet **Enregistrement partagé**. 5. Sélectionnez l'enregistrement partagé que vous souhaitez **partager** avec un autre groupe. 6. Cliquez sur les **trois points** à droite de l'enregistrement concerné, puis sur **Gérer l'accès**. 7. Sélectionnez un **groupe** avec lequel l'enregistrement doit être partagé. 8. Confirmez le partage en cliquant sur **Ajouter**.
+![Partage d'un ensemble de données commun avec un autre groupe](images/release-a-common-dataset-to-a-external-group-2.gif) 
 
-## Résoudre la validation
+1. Ouvrez la **page d'accueil** de SeaTable. 
+2. Cliquez sur l'onglet **Enregistrement partagé**. 
+3. Sélectionnez l'enregistrement partagé que vous souhaitez **partager** avec un autre groupe. 
+4. Cliquez sur les **trois points** à droite de l'enregistrement concerné, puis sur **Gérer l'accès**. 
+5. Sélectionnez un **groupe** avec lequel l'enregistrement doit être partagé. 
+6. Confirmez le partage en cliquant sur **Ajouter**.
+
+## Résoudre le partage
 
 Pour **annuler** le partage d'un enregistrement commun avec un autre groupe, il suffit de suivre à nouveau les étapes ci-dessus et de cliquer sur **Supprimer** dans les autorisations d'accès à côté du groupe concerné.
 

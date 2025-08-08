@@ -20,7 +20,7 @@ Depois de ter criado uma partilha personalizada, pode enviá-la a **membros indi
 
 ## Para criar uma permissão de partilha personalizada
 
-Há **duas** formas de libertar tabelas individuais e vistas de uma base:
+Há **duas** formas de partilhar tabelas individuais e vistas de uma base:
 
 - A partir da página **inicial**
 - Através do **ícone de acção** na Base
@@ -31,9 +31,9 @@ Há **duas** formas de libertar tabelas individuais e vistas de uma base:
 
 1. Ir para a **página inicial do SeaTable**.
 2. Mova o ponteiro do rato para a base que pretende dividir e clique nos **três pontos** que aparecem do lado direito.
-3. Clique em **Release**.
+3. Clique em **Partilha**.
 4. Seleccionar o item do menu **Permissão de Partilha Personalizada**.
-5. Clique em **Add Permission (Adicionar permissão**).
+5. Clique em **Add Permission (Adicionar permissão)**.
 6. Dar à permissão um **nome** e acrescentar uma **descrição**.
 7. Coloque **marcas** ao lado das tabelas e vistas individuais que pretende partilhar, decidindo se pretende atribuir permissões de **leitura e escrita** ou **permissões só de leitura**.
 
@@ -47,21 +47,21 @@ Há **duas** formas de libertar tabelas individuais e vistas de uma base:
 
 ## Enviar a quota a utilizadores ou grupos
 
-A autorização de liberação criada está agora disponível para selecção em **Release for user** ou **Release for group** nas autorizações. Para enviar a acção personalizada, proceder como se segue:
+A autorização de liberação criada está agora disponível para selecção em **Partilhar para Utilizador** ou **Partilhar para Grupo** nas autorizações. Para enviar a acção personalizada, proceder como se segue:
 
 1. Na coluna da esquerda da janela Partilhar, clique em **Partilhar para Grupo** ou **Partilhar para Utilizador**.
 2. Seleccione o **grupo** ou **utilizadores** para os quais pretende enviar a partilha personalizada.
-3. No campo **Direitos**, pode agora seleccionar a **autorização de libertação** previamente criada com o respectivo nome.
-4. Confirmar a libertação com **Submeter**.
+3. No campo **Direitos**, pode agora seleccionar a **autorização de partilha** previamente criada com o respectivo nome.
+4. Confirmar a partilha com **Submeter**.
 
-![Libertar folhas de cálculo individuais de uma base](images/share-sinlge-table-sheets-to-a-group-1.gif)
+![Partilhar folhas de cálculo individuais de uma base](images/share-sinlge-table-sheets-to-a-group-1.gif)
 
 Explicações detalhadas sobre o que deve considerar ao partilhar com utilizadores ou grupos podem ser encontradas nos artigos seguintes:
 
-- [Lançamento de uma Base a um Utilizador]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Libertar uma Base para um Grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Partilhar uma base com um utilizador]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Partilhar uma base com um grupo]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 
-## Consequências da libertação
+## Consequências da partilha
 
 As tabelas e opiniões partilhadas podem ser encontradas no **espaço de trabalho do** grupo ou utilizador na página **inicial**. Estas são sempre exibidas com a nota **Partilhada**.
 
@@ -84,8 +84,8 @@ Pode alterar retrospectivamente as permissões de partilha personalizadas, **rem
 1. Clique em **Permissões de Partilha Personalizadas** e passe por cima da **permissão** que pretende personalizar.
 2. Clique no **ícone do lápis que** aparece {{< seatable-icon icon="dtable-icon-rename" >}}.
 3. Agora pode alterar o **nome** e a **descrição** da permissão.
-4. Abaixo disto, tem a opção de remover as marcas de marcação definidas para **tabelas** e **vistas** individuais da base novamente ou ajustar se estas devem ser libertadas para **leitura e escrita** ou apenas para **leitura**.
-5. Confirmar com **Submeter** para guardar a **autorização de libertação**.
+4. Abaixo disto, tem a opção de remover as marcas de marcação definidas para **tabelas** e **vistas** individuais da base novamente ou ajustar se estas devem ser partilhadas para **leitura e escrita** ou apenas para **leitura**.
+5. Confirmar com **Submeter** para guardar a **autorização de partilha**.
 
 ## Limitações
 
