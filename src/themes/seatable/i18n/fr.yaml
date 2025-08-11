@@ -142,6 +142,7 @@ price_table:
 help_area:
     category: 'Catégorie'
     section: 'Section'
+    available_with: 'Disponible avec'
 
 templates:
     all: 'Tous les modèles'
