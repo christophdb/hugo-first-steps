@@ -51,7 +51,7 @@ Parfois, vous ne pouvez pas vous passer d'une gestion immobilière professionnel
 
 Dans ce cas, la gestion de l'immeuble prend également en charge l'entretien des espaces verts, par exemple.
 
-La **loi sur la copropriété** définit les activités que le syndic de **copropriété** doit assumer. Il est important de vérifier si le syndic s'acquitte correctement de ses tâches afin de repérer [les entreprises peu sérieuses](https://www.hausverwaltung-ratgeber.de/woran-erkennt-man-einen-unserioesen-hausverwalter.html).
+La **loi sur la copropriété** définit les activités que le syndic de **copropriété** doit assumer. Il est important de vérifier si le syndic s'acquitte correctement de ses tâches afin de repérer les entreprises peu sérieuses.
 
 ## Quelles sont les tâches liées à la gestion immobilière ?
 
