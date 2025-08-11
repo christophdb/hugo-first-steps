@@ -2,7 +2,9 @@
 title: 'Менеджер паролей'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/password-manager'
+url: '/ru/shablon/menedzhera-paroley'
+aliases:
+    - '/ru/шаблон/password-manager'
 category: 'everyday-life'
 functions:
 seo:

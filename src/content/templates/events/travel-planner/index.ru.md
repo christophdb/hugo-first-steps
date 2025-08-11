@@ -2,7 +2,9 @@
 title: 'Планировщик путешествий'
 description: ''
 date: '2024-08-17'
-url: '/ru/шаблон/travel-planner'
+url: '/ru/shablon/planirovshchika-puteshestviy'
+aliases:
+    - '/ru/шаблон/travel-planner'
 category: 'events'
 functions:
 seo:

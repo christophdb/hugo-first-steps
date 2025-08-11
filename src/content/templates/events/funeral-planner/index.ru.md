@@ -2,7 +2,9 @@
 title: 'План похорон'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/funeral-planner'
+url: '/ru/shablon/planirovshchika-pokhoron'
+aliases: 
+    - '/ru/шаблон/funeral-planner'
 category: 'events'
 functions:
 seo:

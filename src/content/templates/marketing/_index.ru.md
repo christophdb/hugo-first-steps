@@ -1,4 +1,6 @@
 ---
 title: 'Маркетинг'
-url: '/ru/шаблоны/маркетинг'
+url: '/ru/shablon/marketing'
+aliases:
+    - '/ru/шаблоны/маркетинг'
 ---

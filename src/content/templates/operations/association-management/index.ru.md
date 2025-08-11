@@ -2,7 +2,9 @@
 title: 'Управление ассоциациями'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/association-management'
+url: '/ru/shablon/upravleniya-assotsiatsiey'
+aliases:
+    - '/ru/шаблон/association-management'
 category: 'operations'
 functions:
 seo:

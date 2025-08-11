@@ -2,7 +2,9 @@
 title: 'Запасы'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/emergency-stock-planner'
+url: '/ru/shablon/avariynykh-zapasov'
+aliases:
+    - '/ru/шаблон/emergency-stock-planner'
 category: 'everyday-life'
 functions:
 seo:

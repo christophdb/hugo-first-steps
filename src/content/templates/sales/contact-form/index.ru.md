@@ -2,7 +2,9 @@
 title: 'Контактная форма'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/contact-form'
+url: '/ru/shablon/formy-obratnoy-svyazi'
+aliases:
+    - '/ru/шаблон/contact-form'
 category: 'sales'
 functions:
 seo:

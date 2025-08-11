@@ -2,10 +2,11 @@
 title: 'Бронирование назначений'
 description: ''
 date: '2024-08-16'
-url: '/ru/шаблон/запись на прием'
+url: '/ru/shablon/zapisi-na-priyom'
 aliases: 
     - '/ru/terminbuchung'
     - '/ru/шаблон/appointment-booking'
+    - '/ru/шаблон/запись на прием'
 category: 'sales'
 functions:
 seo:

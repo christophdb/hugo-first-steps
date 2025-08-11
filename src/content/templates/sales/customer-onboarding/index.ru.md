@@ -2,7 +2,9 @@
 title: 'Привлечение клиентовg'
 description: ''
 date: '2024-08-16'
-url: '/ru/шаблон/customer-onboarding'
+url: '/ru/shablon/onboarding-klientov'
+aliases:
+    - '/ru/шаблон/customer-onboarding'
 category: 'sales'
 functions:
 seo:

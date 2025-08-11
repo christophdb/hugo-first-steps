@@ -2,7 +2,9 @@
 title: 'Бизнес-план'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/business-roadmap'
+url: '/ru/shablon/dorozhnaya-karta-biznesa'
+aliases:
+    - '/ru/шаблон/business-roadmap'
 category: 'projects'
 functions:
 seo:

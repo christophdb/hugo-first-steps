@@ -2,7 +2,9 @@
 title: 'Запросы по функциям'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/feature-requests'
+url: '/ru/shablon/zaprosov-na-funktsii'
+aliases:
+    - '/ru/шаблон/feature-requests'
 category: 'software-development'
 functions:
 seo:

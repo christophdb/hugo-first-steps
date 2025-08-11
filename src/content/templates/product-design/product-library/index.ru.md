@@ -2,7 +2,9 @@
 title: 'Библиотека продуктов'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/product-library'
+url: '/ru/shablon/kataloga-produktov'
+aliases:
+    - '/ru/шаблон/product-library'
 category: 'product-design'
 functions:
 seo:

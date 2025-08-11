@@ -2,7 +2,9 @@
 title: 'Детский душ'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/baby-party'
+url: '/ru/shablon/beybi-shauer'
+aliases:
+    - '/ru/шаблон/baby-party'
 category: 'events'
 functions:
 seo:

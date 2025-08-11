@@ -2,7 +2,9 @@
 title: 'План написания'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/writing-plan'
+url: '/ru/shablon/plana-napisaniya'
+aliases:
+    - '/ru/шаблон/writing-plan'
 category: 'projects'
 functions:
 seo:

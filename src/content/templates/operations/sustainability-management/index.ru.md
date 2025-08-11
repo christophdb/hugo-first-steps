@@ -2,7 +2,9 @@
 title: 'Управление устойчивым развитием'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/sustainability-management'
+url: '/ru/shablon/upravleniya-ustoychivym-razvitiem'
+aliases:
+     '/ru/шаблон/sustainability-management'
 category: 'operations'
 functions:
 seo:

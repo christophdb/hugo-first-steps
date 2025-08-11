@@ -2,7 +2,9 @@
 title: 'Коллекция кроссовок'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/sneaker-collection'
+url: '/ru/shablon/kollektsii-krossovok'
+aliases:
+    - '/ru/шаблон/sneaker-collection'
 category: 'everyday-life'
 functions:
 seo:

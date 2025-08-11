@@ -1,7 +1,9 @@
 ---
 title: 'Портфель проектов'
 description: ''
-url: '/ru/шаблон/project-portfolio'
+url: '/ru/'
+aliases:
+    - '/ru/shablon/portfelya-proektov'
 category: 'projects'
 functions:
 seo:

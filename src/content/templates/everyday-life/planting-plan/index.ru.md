@@ -2,7 +2,9 @@
 title: 'План посадки'
 description: ''
 date: '2025-05-15'
-url: '/ru/шаблон/planting-plan'
+url: '/ru/shablon/plana-posadok'
+aliases:
+    - '/ru/шаблон/planting-plan'
 category: 'everyday-life'
 functions:
 seo:

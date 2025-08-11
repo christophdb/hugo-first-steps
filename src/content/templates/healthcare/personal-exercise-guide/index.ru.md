@@ -2,7 +2,9 @@
 title: 'Персональный план тренировок'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/personal-exercise-guide'
+url: '/ru/shablon/uprazhneniy'
+aliases:
+    - '/ru/шаблон/personal-exercise-guide'
 category: 'healthcare'
 functions:
 seo:

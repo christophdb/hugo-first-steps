@@ -2,7 +2,9 @@
 title: 'Управление больничными листами'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/sick-leave-management'
+url: '/ru/shablon/ucheta-bolnichnyh'
+aliases:
+    - '/ru/шаблон/sick-leave-management'
 category: 'human-resources'
 functions:
 seo:

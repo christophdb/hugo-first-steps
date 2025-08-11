@@ -2,7 +2,9 @@
 title: 'Список покупок'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/shopping-list'
+url: '/ru/shablon/spiska-pokupok'
+aliases:
+    - '/ru/шаблон/shopping-list'
 category: 'everyday-life'
 functions:
 seo:

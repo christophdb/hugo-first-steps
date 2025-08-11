@@ -2,7 +2,9 @@
 title: 'Управление недвижимостью'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/property-management'
+url: '/ru/shablon/upravleniya-nedvizhimostyu'
+aliases:
+    - '/ru/шаблон/property-management'
 category: 'real-estate'
 functions:
 seo:

@@ -2,7 +2,9 @@
 title: 'Конвейер продаж'
 description: ''
 date: '2024-08-16'
-url: '/ru/шаблон/sales-pipeline'
+url: '/ru/shablon/voronki-prodazh'
+aliases:
+    - '/ru/шаблон/sales-pipeline'
 category: 'sales'
 functions:
 seo:

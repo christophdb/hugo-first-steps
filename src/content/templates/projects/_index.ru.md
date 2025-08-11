@@ -1,4 +1,6 @@
 ---
 title: 'Проекты'
-url: '/ru/шаблоны/проекты'
+url: '/ru/shablon/proekty'
+aliases:
+    - '/ru/шаблоны/проекты'
 ---

@@ -2,7 +2,9 @@
 title: 'Обратная связь при разработке продукции'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/product-development-feedback'
+url: '/ru/shablon/otzyvov-o-razrabotke-produkta'
+aliases:
+    - '/ru/шаблон/product-development-feedback'
 category: 'product-design'
 functions:
 seo:

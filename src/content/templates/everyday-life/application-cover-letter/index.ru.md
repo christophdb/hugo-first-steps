@@ -2,7 +2,9 @@
 title: 'Заявление и сопроводительное письмо'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/application-cover-letter'
+url: '/ru/shablon/soprovoditelnogo-pisma'
+aliases:
+    - '/ru/шаблон/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:

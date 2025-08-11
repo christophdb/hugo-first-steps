@@ -2,7 +2,9 @@
 title: 'Recording Working Time'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/recording-working-time'
+url: '/ru/shablon/ucheta-rabochego-vremeni'
+aliases:
+    - '/ru/шаблон/recording-working-time'
 category: 'human-resources'
 functions:
 seo:
