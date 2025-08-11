@@ -2,7 +2,7 @@
 title: 'Журнал для отслеживания привычек и пулевой журнал'
 description: ''
 date: '2024-08-24'
-url: '/ru/shablon-treker-privychek-bullet-journal'
+url: '/ru/shablon/treker-privychek-bullet-journal'
 aliases:
     - '/ru/шаблон/habit-tracker-bullet-journal'
 category: 'everyday-life'
