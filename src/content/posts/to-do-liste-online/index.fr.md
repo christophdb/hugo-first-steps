@@ -1,6 +1,6 @@
 ---
 title: "Créer une liste de choses à faire avec l'application en ligne"
-description: "Créer et gérer une liste de choses à faire en ligne avec une application présente de nombreux avantages. En effet, une liste de choses à faire vous aide à gérer efficacement vos tâches, tant dans votre vie privée que dans votre travail quotidien, et à ne rien oublier dans le stress de la vie de tous les jours. Découvrez dans cet article pourquoi vous devriez utiliser un modèle pour votre liste de choses à faire et quelle application est la plus appropriée pour cela."
+description: 'Créer et gérer une liste de choses à faire en ligne avec une application présente de nombreux avantages. En effet, une liste de choses à faire vous aide à gérer efficacement vos tâches, tant dans votre vie privée que dans votre travail quotidien, et à ne rien oublier dans le stress de la vie de tous les jours. Découvrez dans cet article pourquoi vous devriez utiliser un modèle pour votre liste de choses à faire et quelle application est la plus appropriée pour cela.'
 date: 2024-04-03
 categories:
     - 'best-practice'
@@ -83,7 +83,7 @@ Il est possible de trier les différentes tâches à faire, de leur attribuer un
 
 ### Projoodle (en anglais) : Une liste de choses à faire inspirée de Doodle
 
-[Projoodle](https://www.projoodle.com/de) souhaite avant tout faciliter la collaboration avec des amis. À l'instar de l'envoi d'un [lien Doodle]({{< relref "posts/umfrage-erstellen" >}}) pour les rendez-vous, la gestion des tâches doit également fonctionner sans connexion. C'est avec cet objectif en tête que le projet Projoodle a vu le jour.
+[Projoodle](https://www.projoodle.com/de) souhaite avant tout faciliter la collaboration avec des amis. À l'instar de l'envoi d'un [lien Doodle]({{< relref "posts/umfrage-online" >}}) pour les rendez-vous, la gestion des tâches doit également fonctionner sans connexion. C'est avec cet objectif en tête que le projet Projoodle a vu le jour.
 
 Avec Projoodle, vous disposez d'une application gratuite pour les listes de choses à faire, qui sont faciles à créer, à partager et à gérer. Une autre caractéristique est l'affichage du tableau Kanban, qui vous permet de regrouper les tâches par statut. Les possibilités de trier et de planifier les tâches sont toutefois peu nombreuses.
 

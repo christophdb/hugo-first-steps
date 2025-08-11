@@ -84,7 +84,7 @@ You can sort the individual to-dos, set a deadline and tick them off. Reminders 
 
 ### Projoodle: A to-do list based on Doodle
 
-[Projoodle](https://www.projoodle.com/de) 's main aim is to facilitate collaboration with friends. Similar to sending a [Doodle link]({{< relref "posts/umfrage-erstellen" >}}) for appointments, task management should also work without logging in. The Projoodle project was created with this goal in mind.
+[Projoodle](https://www.projoodle.com/de) 's main aim is to facilitate collaboration with friends. Similar to sending a [Doodle link]({{< relref "posts/umfrage-online" >}}) for appointments, task management should also work without logging in. The Projoodle project was created with this goal in mind.
 
 With Projoodle, you get a free app for to-do lists that are easy to create, share and manage. Another feature is the Kanban board view, which allows you to group tasks clearly by status. However, the options for sorting and scheduling tasks are sparse.
 
