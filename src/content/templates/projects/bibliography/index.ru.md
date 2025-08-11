@@ -2,7 +2,9 @@
 title: 'Библиография'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/bibliography'
+url: '/ru/shablon/bibliografiya'
+aliases:
+    - '/ru/шаблон/bibliography'
 category: 'projects'
 functions:
 seo:

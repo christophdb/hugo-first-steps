@@ -2,7 +2,9 @@
 title: 'Список ведер'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/bucket-list'
+url: '/ru/shablon/spiska-zhelaniy'
+aliases:
+    - '/ru/шаблон/bucket-list'
 category: 'everyday-life'
 functions:
 seo:

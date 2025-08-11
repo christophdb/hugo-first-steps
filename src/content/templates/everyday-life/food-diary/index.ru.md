@@ -2,7 +2,9 @@
 title: 'Пищевой дневник'
 description: ''
 date: '2025-07-18'
-url: '/ru/шаблон/pishchevoy-dnevnik'
+url: '/ru/shablon/pishchevogo-dnevnika'
+aliases:
+    - '/ru/шаблон/pishchevoy-dnevnik'
 category: 'everyday-life'
 functions:
 seo:

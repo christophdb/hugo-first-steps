@@ -2,7 +2,9 @@
 title: 'Анкета НПС'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/net-promoter-score-nps-form'
+url: '/ru/shablon/chistogo-koeffitsienta-loyalnosti'
+aliases:
+    - '/ru/шаблон/net-promoter-score-nps-form'
 category: 'marketing'
 functions:
 seo:

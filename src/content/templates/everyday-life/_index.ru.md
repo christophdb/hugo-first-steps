@@ -1,4 +1,6 @@
 ---
 title: 'Повседневная жизнь'
-url: '/ru/шаблоны/повседневная-жизнь'
+url: '/ru/shablon/povsednevnoy-zhizni'
+aliases:
+    - '/ru/шаблоны/повседневная-жизнь'
 ---

@@ -2,7 +2,9 @@
 title: 'Регистрация времени проекта'
 description: ''
 date: '2025-03-12'
-url: '/ru/шаблон/project-time-tracking'
+url: '/ru/shablon/ucheta-vremeni-po-proektu'
+aliases:
+    - '/ru/шаблон/project-time-tracking'
 category: 'projects'
 functions:
 seo:

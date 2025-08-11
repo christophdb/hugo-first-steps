@@ -2,7 +2,9 @@
 title: 'Услуги по уборке помещений'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/janitorial-services'
+url: '/ru/shablon/uslug-po-uborke'
+aliases:
+    - '/ru/шаблон/janitorial-services'
 category: 'real-estate'
 functions:
 seo:

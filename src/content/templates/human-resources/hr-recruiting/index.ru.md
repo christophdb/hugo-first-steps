@@ -2,7 +2,9 @@
 title: 'Подбор персонала'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/hr-recruiting'
+url: '/ru/shablon/rekruting'
+aliases:
+    - '/ru/шаблон/hr-recruiting'
 category: 'human-resources'
 functions:
 seo:

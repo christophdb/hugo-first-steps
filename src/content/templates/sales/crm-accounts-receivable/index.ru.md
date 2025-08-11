@@ -2,7 +2,9 @@
 title: 'CRM: Дебиторская задолженность'
 description: ''
 date: '2024-08-16'
-url: '/ru/шаблон/crm-accounts-receivable'
+url: '/ru/shablon/debitorskaya-zadolzhennost'
+aliases:
+    - '/ru/шаблон/crm-accounts-receivable'
 category: 'sales'
 functions:
 seo:

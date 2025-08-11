@@ -2,7 +2,9 @@
 title: 'Редакционный календарь подкаста'
 description: ''
 date: '2024-08-16'
-url: '/ru/шаблон/podcast-editorial-calendar'
+url: '/ru/shablon/redaktsionnogo-kalendarya-podkasta'
+aliases:
+    - '/ru/шаблон/podcast-editorial-calendar'
 category: 'marketing'
 functions:
 seo:

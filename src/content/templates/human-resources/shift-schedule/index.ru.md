@@ -2,7 +2,9 @@
 title: 'План сменности'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/shift-schedule'
+url: '/ru/shablon/grafika-smen'
+aliases:
+    - '/ru/шаблон/shift-schedule'
 category: 'human-resources'
 functions:
 seo:

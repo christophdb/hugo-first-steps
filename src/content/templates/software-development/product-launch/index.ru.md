@@ -2,7 +2,9 @@
 title: 'Запуск продукта'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/product-launch'
+url: '/ru/shablon/zapuska-produkta'
+aliases:
+    - '/ru/шаблон/product-launch'
 category: 'software-development'
 functions:
 seo:

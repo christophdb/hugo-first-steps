@@ -2,7 +2,9 @@
 title: 'Выписать счет-фактуру'
 description: ''
 date: '2025-03-24'
-url: '/ru/шаблон/invoice-creation'
+url: '/ru/shablon/sozdaniya-schetov'
+aliases:
+    - '/ru/шаблон/invoice-creation'
 category: 'finance'
 functions:
 seo:

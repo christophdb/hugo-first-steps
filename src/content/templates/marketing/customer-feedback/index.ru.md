@@ -2,7 +2,9 @@
 title: 'Отзывы клиентов'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/customer-feedback'
+url: '/ru/shablon/otzyvov-klientov'
+aliases:
+    - '/ru/шаблон/customer-feedback'
 category: 'marketing'
 functions:
 seo:

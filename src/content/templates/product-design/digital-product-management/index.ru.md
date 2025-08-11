@@ -2,9 +2,10 @@
 title: 'Управление цифровыми продуктами'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/digital-product-management'
+url: '/ru/shablon/upravleniya-tsifrovymi-produktami'
 aliases:
     - '/ru/digitales-produktmanagement'
+    - '/ru/шаблон/digital-product-management'
 category: 'product-design'
 functions:
 seo:

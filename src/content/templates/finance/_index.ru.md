@@ -1,4 +1,6 @@
 ---
 title: 'Финансы'
-url: '/ru/шаблоны/финансы'
+url: '/ru/shablon/finansy'
+aliases:
+    - '/ru/шаблоны/финансы'
 ---

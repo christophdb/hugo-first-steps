@@ -2,7 +2,9 @@
 title: 'Шаблон доски канбан'
 description: ''
 date: '2025-03-05'
-url: '/ru/шаблон/kanban-board'
+url: '/ru/shablon/kanban-doska'
+aliases:
+    - '/ru/шаблон/kanban-board'
 category: 'projects'
 functions:
 seo:

@@ -1,4 +1,6 @@
 ---
 title: 'Юридический'
-url: '/ru/шаблоны/юридический'
+url: '/ru/shablon/yuridicheskie'
+aliases:
+    - '/ru/шаблоны/юридический'
 ---

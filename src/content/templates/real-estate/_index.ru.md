@@ -1,4 +1,6 @@
 ---
 title: 'Недвижимость'
-url: '/ru/шаблоны/недвижимость'
+url: '/ru/shablon/nedvizhimost'
+aliases:
+    - '/ru/шаблоны/недвижимость'
 ---

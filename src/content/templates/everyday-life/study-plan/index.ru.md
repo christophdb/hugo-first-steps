@@ -2,7 +2,9 @@
 title: 'План обучения'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/study-plan'
+url: '/ru/shablon/uchebnogo-plana'
+aliases:
+    - '/ru/шаблон/study-plan'
 category: 'everyday-life'
 functions:
 seo:

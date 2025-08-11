@@ -2,7 +2,9 @@
 title: 'Обзор пожертвований'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/donation-overview'
+url: '/ru/shablon/obzora-pozhertvovaniy'
+aliases:
+    - '/ru/шаблон/donation-overview'
 category: 'finance'
 functions:
 seo:

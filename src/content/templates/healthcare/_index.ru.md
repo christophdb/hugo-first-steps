@@ -1,4 +1,6 @@
 ---
 title: 'Здоровье'
-url: '/ru/шаблоны/здоровье'
+url: '/ru/shablon/zdorovye'
+aliases:
+    - '/ru/шаблоны/здоровье'
 ---

@@ -2,7 +2,9 @@
 title: 'Структура разбивки работ'
 description: ''
 date: '2024-08-17'
-url: '/ru/шаблон/work-breakdown-structure'
+url: '/ru/shablon/strukturnoy-dekompozitsii-rabot'
+aliases:
+    - '/ru/шаблон/work-breakdown-structure'
 category: 'projects'
 functions:
 seo:

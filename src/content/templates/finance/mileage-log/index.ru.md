@@ -2,7 +2,9 @@
 title: 'Шаблон журнала регистрации'
 description: ''
 date: '2025-02-23'
-url: '/ru/шаблон/mileage-log'
+url: '/ru/shablon/zhurnala-probega'
+aliases:
+    - '/ru/шаблон/mileage-log'
 category: 'finance'
 functions:
 seo:

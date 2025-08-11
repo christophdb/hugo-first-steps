@@ -2,7 +2,9 @@
 title: 'Цифровая медицинская карта'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/electronic-health-record'
+url: '/ru/shablon/elektronnoy-meditsinskoy-karty'
+aliases:
+    - '/ru/шаблон/electronic-health-record'
 category: 'healthcare'
 functions:
 seo:

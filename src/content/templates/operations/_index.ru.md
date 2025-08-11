@@ -1,4 +1,6 @@
 ---
 title: 'Операции'
-url: '/ru/шаблоны/операции'
+url: '/ru/shablon/operatsii'
+aliases:
+    - '/ru/шаблоны/операции'
 ---

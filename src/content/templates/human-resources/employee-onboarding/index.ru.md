@@ -2,7 +2,9 @@
 title: 'Ввод сотрудников в должность'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/employee-onboarding'
+url: '/ru/shablon/adaptatsii-sotrudnikov'
+aliases:
+    - '/ru/шаблон/employee-onboarding'
 category: 'human-resources'
 functions:
 seo:

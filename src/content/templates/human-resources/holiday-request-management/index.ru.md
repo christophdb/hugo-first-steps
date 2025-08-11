@@ -2,7 +2,9 @@
 title: 'Управление заявлениями на отпуск'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/holiday-request-management'
+url: '/ru/shablon/zayavka-na-otpusk'
+aliases:
+    - '/ru/шаблон/holiday-request-management'
 category: 'human-resources'
 functions:
 seo:

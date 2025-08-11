@@ -2,7 +2,9 @@
 title: 'Шаблон плана проекта'
 description: ''
 date: '2025-03-07'
-url: '/ru/шаблон/project-plan'
+url: '/ru/shablon/plana-proekta'
+aliases:
+    - '/ru/шаблон/project-plan'
 category: 'projects'
 functions:
 seo:
