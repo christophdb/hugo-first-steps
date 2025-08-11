@@ -26,7 +26,7 @@ Der neue Spaltentyp “Schaltfläche” ist der Sonderling unter den knapp zwei 
 
 ![New column type: Button](SeaTable1.8_ColumnType_Button_1500x708.png)
 
-Bei der Erstellung einer Schalftfläche-Spalte definieren Sie das Aussehen und die Funktion der Schaltfläche. Dies umfasst neben der auszuführenden Aktion auch die Beschriftung der Schaltfläche und deren Farbe. Werfen Sie einen Blick in das [SeaTable Script Manual](https://seatable.github.io/seatable-scripts/) (nur in Englisch verfügbar), wenn Sie Ihre eigenen Skripte schreiben und per Schaltfläche in Ihre Tabelle integrieren möchten.
+Bei der Erstellung einer Schalftfläche-Spalte definieren Sie das Aussehen und die Funktion der Schaltfläche. Dies umfasst neben der auszuführenden Aktion auch die Beschriftung der Schaltfläche und deren Farbe. Werfen Sie einen Blick in das [SeaTable Script Manual](https://developer.seatable.com/scripts/) (nur in Englisch verfügbar), wenn Sie Ihre eigenen Skripte schreiben und per Schaltfläche in Ihre Tabelle integrieren möchten.
 
 ## Sammelformular
 

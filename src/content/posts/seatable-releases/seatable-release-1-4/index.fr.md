@@ -60,7 +60,7 @@ Mais Zapier n'était que la première étape. Les Webhooks, introduits avec cett
 
 Enfin, SeaTable 1.4 offre également une innovation pour les développeurs. Cette fois, ce sont de bonnes nouvelles pour les amateurs de python.
 
-SeaTable 1.3 a introduit le moteur de script de SeaTable. JavaScript était le langage de script pris en charge. Avec SeaTable 1.4, les scripts peuvent désormais être développés et exécutés en Python. Importez votre script Python ou développez-le directement dans l'éditeur de script SeaTables pour automatiser le traitement des données et construire votre application personnalisée. Pour plus d'informations sur les scripts SeaTables, consultez le [manuel de programmation des scripts SeaTable](https://seatable.github.io/seatable-scripts/).
+SeaTable 1.3 a introduit le moteur de script de SeaTable. JavaScript était le langage de script pris en charge. Avec SeaTable 1.4, les scripts peuvent désormais être développés et exécutés en Python. Importez votre script Python ou développez-le directement dans l'éditeur de script SeaTables pour automatiser le traitement des données et construire votre application personnalisée. Pour plus d'informations sur les scripts SeaTables, consultez le [manuel de programmation des scripts SeaTable](https://developer.seatable.com/scripts/).
 
 Spoiler : Dans l'une des prochaines versions, nous ajouterons la possibilité d'exécuter des scripts en temps contrôlé.
 

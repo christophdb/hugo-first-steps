@@ -26,7 +26,7 @@ El nuevo tipo de columna "Botón" es el más extraño entre las casi dos docenas
 
 ![Nuevo tipo de columna: Botón](SeaTable1.8_ColumnType_Button_1500x708.png)
 
-Al crear una columna de botones, se define el aspecto y la función del botón. Incluye la acción a realizar, la etiqueta del botón y su color. Echa un vistazo al [Manual de Script de SeaTable](https://seatable.github.io/seatable-scripts/) si quieres escribir tus propios scripts e integrarlos en tu tabla a través de botones.
+Al crear una columna de botones, se define el aspecto y la función del botón. Incluye la acción a realizar, la etiqueta del botón y su color. Echa un vistazo al [Manual de Script de SeaTable](https://developer.seatable.com/scripts/) si quieres escribir tus propios scripts e integrarlos en tu tabla a través de botones.
 
 ## Formulario de recogida
 

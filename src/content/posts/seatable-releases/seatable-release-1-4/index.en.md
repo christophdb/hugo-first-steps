@@ -61,7 +61,7 @@ But Zapier was only the first step. Webhooks, introduced with this version, are 
 
 Last but not least, SeaTable 1.4 also has something in store for developers. This time, we have good news for all those fond of Python.
 
-After adding JavaScript support in SeaTable 1.3, SeaTable 1.4 adds Python support to SeaTable scripts. Import your Python script or write it in SeaTable’s script editor to automate data processing and make SeaTable your custom application. To learn more about SeaTable scripts, read our [SeaTable Scripts Programming Manual](https://seatable.github.io/seatable-scripts/).
+After adding JavaScript support in SeaTable 1.3, SeaTable 1.4 adds Python support to SeaTable scripts. Import your Python script or write it in SeaTable’s script editor to automate data processing and make SeaTable your custom application. To learn more about SeaTable scripts, read our [SeaTable Scripts Programming Manual](https://developer.seatable.com/scripts/).
 
 Spoiler alert: In one of the next releases, we’ll add time triggers for executing scripts.
 

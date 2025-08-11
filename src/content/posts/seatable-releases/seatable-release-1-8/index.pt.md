@@ -26,7 +26,7 @@ O novo tipo de coluna "Botão" é o mais estranho entre as quase duas dúzias de
 
 ![Novo tipo de coluna: Botão](SeaTable1.8_ColumnType_Button_1500x708.png)
 
-Ao criar uma coluna de botão, define-se o aspecto e a função do botão. Isto inclui a acção a realizar, o rótulo do botão e a sua cor. Consulte o [SeaTable Script Manual](https://seatable.github.io/seatable-scripts/) se quiser escrever os seus próprios guiões e integrá-los na sua mesa através de botões.
+Ao criar uma coluna de botão, define-se o aspecto e a função do botão. Isto inclui a acção a realizar, o rótulo do botão e a sua cor. Consulte o [SeaTable Script Manual](https://developer.seatable.com/scripts/) se quiser escrever os seus próprios guiões e integrá-los na sua mesa através de botões.
 
 ## Formulário de recolha
 

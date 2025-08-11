@@ -50,4 +50,4 @@ After entering the command, **all** entries are deleted from the **Time** table.
 
 ## Overview of supported SQL commands
 
-SeaTable supports not all, but most of the SQL commands. For a complete list and more details, see the [SeaTable Programming Manual](https://seatable.github.io/seatable-scripts/python/sql/).
+SeaTable supports not all, but most of the SQL commands. For a complete list and more details, see the [SeaTable Programming Manual](https://developer.seatable.com/scripts/).

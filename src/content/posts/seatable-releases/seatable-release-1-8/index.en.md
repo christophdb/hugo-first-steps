@@ -26,7 +26,7 @@ The new column type "Button" is the odd man out among the nearly two dozen colum
 
 ![New column type: Button](SeaTable1.8_ColumnType_Button_1500x708.png)
 
-When creating a button column, the button's look and purpose is specified. This includes the button's label, its color, and its action. Have a look at the [SeaTable Script Manual](https://seatable.github.io/seatable-scripts/) , if you want to write your own scripts.
+When creating a button column, the button's look and purpose is specified. This includes the button's label, its color, and its action. Have a look at the [SeaTable Script Manual](https://developer.seatable.com/scripts/) , if you want to write your own scripts.
 
 ## Data collection form
 
