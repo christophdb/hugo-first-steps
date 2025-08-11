@@ -49,7 +49,7 @@ Sometimes, you can’t avoid professional property management and have no chance
 
 In this case, the management company also takes care of green spaces, for example.
 
-The **German Condominium Act** legally defines which tasks the property manager must handle. You should keep an eye on whether the management company is fulfilling its duties properly to spot any [untrustworthy companies](https://www.hausverwaltung-ratgeber.de/woran-erkennt-man-einen-unserioesen-hausverwalter.html).
+The **German Condominium Act** legally defines which tasks the property manager must handle. You should keep an eye on whether the management company is fulfilling its duties properly to spot any untrustworthy companies.
 
 ## What Tasks Are Involved in Property Management?
 

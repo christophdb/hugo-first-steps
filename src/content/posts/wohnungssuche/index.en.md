@@ -42,7 +42,7 @@ To convince your future landlord of your merits, you need to make a good first i
 The rent index continues to rise, making it difficult for many people to find affordable housing. When things get really tight financially, there is some state aid available to support people on low incomes.
 
 - The **certificate of eligibility for housing** confirms that the tenant is entitled to move into an apartment subsidized by public funds. To obtain the certificate, however, the tenant must meet certain criteria. For example, they must not exceed a set income limit. Your local authority will clarify whether you are entitled to this.
-- **Housing benefit** is a rent subsidy for households with a low income. The Federal Ministry of Housing, Urban Development and Building offers an online housing [benefit calculator](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/wohnen/wohnraumfoerderung/wohngeld/wohngeldrechner-2023-artikel.html;jsessionid=6DD0480874498C458F1FA626537143D2.live861) which you can use to check whether you are eligible. You can also apply for housing benefit from your local authority.
+- **Housing benefit** is a rent subsidy for households with a low income. The Federal Ministry of Housing, Urban Development and Building offers an online housing benefit calculator which you can use to check whether you are eligible. You can also apply for housing benefit from your local authority.
 
 ![Sunrise over skyscrapers](Bild-von-Freepik_9328139-711x711.jpg)
 

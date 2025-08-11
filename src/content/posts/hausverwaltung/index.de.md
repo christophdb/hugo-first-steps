@@ -49,7 +49,7 @@ Manchmal kommen Sie um eine professionelle Hausverwaltung nicht herum und haben 
 
 Dann übernimmt die Hausverwaltung z. B. auch die Pflege der Grünanlagen.
 
-Gesetzlich ist mit dem **Wohnungseigentumsgesetz** festgelegt, welche Tätigkeiten der Hausverwalter zu übernehmen hat. Hierbei sollten Sie im Auge behalten, ob die Hausverwaltung ihre Aufgaben ordnungsgemäß erledigt, um [unseriöse Unternehmen](https://www.hausverwaltung-ratgeber.de/woran-erkennt-man-einen-unserioesen-hausverwalter.html) zu erkennen.
+Gesetzlich ist mit dem **Wohnungseigentumsgesetz** festgelegt, welche Tätigkeiten der Hausverwalter zu übernehmen hat. Hierbei sollten Sie im Auge behalten, ob die Hausverwaltung ihre Aufgaben ordnungsgemäß erledigt, um unseriöse Unternehmen zu erkennen.
 
 ## Welche Aufgaben bei der Immobilienverwaltung anfallen
 

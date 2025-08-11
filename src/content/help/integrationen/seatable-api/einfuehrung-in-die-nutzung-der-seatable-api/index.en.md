@@ -14,7 +14,7 @@ The SeaTable API is a standardized interface that could be used to perform virtu
 
 The abbreviation API stands for **Application Programming Interface** and typically describes a programming interface to exchange information between an application and individual program parts in a standardized way. An API defines the structure and syntax needed to execute predefined commands.
 
-APIs are typically encountered in web applications and are primarily intended to make life easier for developers. For a slightly more comprehensive explanation of APIs, see the following article from [howtogeek.com](https://www.howtogeek.com/343877/what-is-an-api/). SeaTable's full API documentation can be found at [https://api.seatable.com.](https://api.seatable.com)
+APIs are typically encountered in web applications and are primarily intended to make life easier for developers. For a slightly more comprehensive explanation of APIs, see the following article from [howtogeek.com](https://www.howtogeek.com/343877/what-is-an-api/). Here is SeaTable's full [API documentation](https://api.seatable.com).
 
 ## API calls for interaction with your own bases and account
 

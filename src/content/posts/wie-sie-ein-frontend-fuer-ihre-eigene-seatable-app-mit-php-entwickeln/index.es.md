@@ -32,7 +32,7 @@ Pero no te preocupes. Verá que todos estos retos pueden resolverse con un front
 Este tutorial comienza con la base que ya hemos creado en el vídeo de YouTube. En base a esto, te mostraré los pasos necesarios para construir una herramienta, tal y como puedes encontrarla en [https://ideas.seatable.com.](https://ideas.seatable.com) Este tutorial simplifica algunos pasos, pero muestra el procedimiento básico.
 
 - Comenzaremos con el desarrollo de un diseño de sitio web simple utilizando HTML y CSS.
-- A continuación, utilizaremos la [API PHP de SeaTable](https://seatable.github.io/seatable-api-php/) para rellenar estas páginas web estáticas con el contenido de SeaTable. Para ello utilizaré el [framework PHP Slim](https://www.slimframework.com/) y el [sistema de plantillas Twig](https://twig.symfony.com/).
+- A continuación, utilizaremos la API PHP de SeaTable para rellenar estas páginas web estáticas con el contenido de SeaTable. Para ello utilizaré el [framework PHP Slim](https://www.slimframework.com/) y el [sistema de plantillas Twig](https://twig.symfony.com/).
 - Por último, haremos algunos ajustes.
 
 No parece tan complicado, ¿verdad? Así que empecemos.
