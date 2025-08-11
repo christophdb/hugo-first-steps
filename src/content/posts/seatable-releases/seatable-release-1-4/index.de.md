@@ -60,7 +60,7 @@ Aber Zapier war nur der erste Schritt. Webhooks, die mit dieser Version eingefü
 
 Nicht zuletzt bietet SeaTable 1.4 auch eine Neuerung für Entwickler. Diesmal sind es gute Nachrichten für Python Liebhaber.
 
-SeaTable 1.3 führte SeaTables Skripting Engine ein. JavaScript war die unterstützte Skriptsprache. Mit SeaTable 1.4 lassen sich nun auch Skripte in Python entwickeln und ausführen. Importieren Sie Ihr Python Skript oder entwickeln Sie es direkt in SeaTables Skript Editor und automatisieren Sie so die Datenverarbeitung und bauen Sie Ihre Individualanwendung. Mehr Informationen über SeaTables Skripte finden Sie im [SeaTable Scripts Programming Manual](https://seatable.github.io/seatable-scripts/) (nur auf Englisch verfügbar).
+SeaTable 1.3 führte SeaTables Skripting Engine ein. JavaScript war die unterstützte Skriptsprache. Mit SeaTable 1.4 lassen sich nun auch Skripte in Python entwickeln und ausführen. Importieren Sie Ihr Python Skript oder entwickeln Sie es direkt in SeaTables Skript Editor und automatisieren Sie so die Datenverarbeitung und bauen Sie Ihre Individualanwendung. Mehr Informationen über SeaTables Skripte finden Sie im [SeaTable Scripts Programming Manual](https://developer.seatable.com/scripts/) (nur auf Englisch verfügbar).
 
 Spoiler: In einer der nächsten Versionen werden wir die Möglichkeit ergänzen, Skripte zeitgesteuert auszuführen.
 

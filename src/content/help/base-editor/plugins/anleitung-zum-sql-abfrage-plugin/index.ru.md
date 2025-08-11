@@ -50,4 +50,4 @@ DELETE FROM Time
 
 ## Обзор поддерживаемых команд SQL
 
-SeaTable поддерживает не все, но большинство команд SQL. Полный список и более подробную информацию можно найти в [Руководстве по программированию SeaTable](https://seatable.github.io/seatable-scripts/python/sql/).
+SeaTable поддерживает не все, но большинство команд SQL. Полный список и более подробную информацию можно найти в [Руководстве по программированию SeaTable](https://developer.seatable.com/scripts/).

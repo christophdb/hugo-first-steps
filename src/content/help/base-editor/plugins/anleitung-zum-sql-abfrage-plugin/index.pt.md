@@ -50,4 +50,4 @@ Depois de introduzir o comando, **todas as** entradas são eliminadas da tabela 
 
 ## Visão geral dos comandos SQL suportados
 
-O SeaTable não suporta todos, mas a maioria dos comandos SQL. Para obter uma lista completa e mais pormenores, consulte o [Manual de Programação do SeaTable](https://seatable.github.io/seatable-scripts/python/sql/).
+O SeaTable não suporta todos, mas a maioria dos comandos SQL. Para obter uma lista completa e mais pormenores, consulte o [Manual de Programação do SeaTable](https://developer.seatable.com/scripts/).

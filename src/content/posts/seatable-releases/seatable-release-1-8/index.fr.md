@@ -26,7 +26,7 @@ Le nouveau type de colonne "Bouton" est l'excentrique parmi les presque deux dou
 
 ![Nouveau type de colonne : Bouton](SeaTable1.8_ColumnType_Button_1500x708.png)
 
-Lors de la création d'une colonne de bouton, vous définissez l'apparence et la fonction du bouton. Cela inclut l'action à effectuer, le libellé du bouton et sa couleur. Consultez le [manuel des scripts SeaTable](https://seatable.github.io/seatable-scripts/) si vous souhaitez écrire vos propres scripts et les intégrer dans votre tableau à l'aide d'un bouton.
+Lors de la création d'une colonne de bouton, vous définissez l'apparence et la fonction du bouton. Cela inclut l'action à effectuer, le libellé du bouton et sa couleur. Consultez le [manuel des scripts SeaTable](https://developer.seatable.com/scripts/) si vous souhaitez écrire vos propres scripts et les intégrer dans votre tableau à l'aide d'un bouton.
 
 ## Formulaire de collecte
 

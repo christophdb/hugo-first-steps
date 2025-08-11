@@ -50,4 +50,4 @@ Après l'entrée de la commande, **toutes les** entrées de la table **Time** so
 
 ## Aperçu des commandes SQL prises en charge
 
-SeaTable ne supporte pas toutes les commandes SQL, mais une grande partie d'entre elles. Pour une liste complète et plus de détails, consultez le [Manuel de programmation SeaTable](https://seatable.github.io/seatable-scripts/python/sql/).
+SeaTable ne supporte pas toutes les commandes SQL, mais une grande partie d'entre elles. Pour une liste complète et plus de détails, consultez le [Manuel de programmation SeaTable](https://developer.seatable.com/scripts/).
