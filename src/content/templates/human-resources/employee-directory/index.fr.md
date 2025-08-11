@@ -1,13 +1,15 @@
 ---
-title: 'Annuaire du personnel'
-description: ''
+title: 'Modèle de répertoire des employés'
+description: 'Utilisez notre modèle pour afficher postes, départements et coordonnées de vos employés en un seul endroit.'
 date: '2025-04-18'
-url: '/fr/modele/employee-directory'
+url: '/fr/modele/repertoire-des-employes'
+aliases:
+    - /fr/modele/employee-directory/
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de répertoire des employés : vue d ensemble rapide'
+    description: 'Utilisez notre modèle pour afficher postes, départements et coordonnées de vos employés en un seul endroit.'
 template: 'e3d0d9a9139c46c58bf0'
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: 'Mitarbeiterverzeichnis'
-description: ''
+description: 'Nutzen Sie unsere Mitarbeiterverzeichnis-Vorlage für den schnellen Überblick über Positionen, Abteilungen und Kontaktdaten im Unternehmen.'
 date: '2025-04-18'
 url: '/de/vorlage/employee-directory'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Mitarbeiterverzeichnis Vorlage: Überblick über alle Mitarbeiter'
+    description: 'Nutzen Sie unsere Mitarbeiterverzeichnis-Vorlage für den schnellen Überblick über Positionen, Abteilungen und Kontaktdaten im Unternehmen.'
 template: 'e3d0d9a9139c46c58bf0'
 ---
 
