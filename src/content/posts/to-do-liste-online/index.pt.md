@@ -1,6 +1,6 @@
 ---
 title: 'Criar uma lista de tarefas online com a aplicação'
-description: "Criar e gerir uma lista de tarefas online com uma aplicação tem muitas vantagens. Isto porque uma lista de tarefas ajuda-o a gerir eficazmente as suas tarefas, tanto na sua vida privada como no seu dia a dia profissional, e a não se esquecer de nada no stressante quotidiano. Leia este artigo para saber por que razão deve utilizar um modelo para a sua lista de tarefas e qual a melhor aplicação para o fazer."
+description: 'Criar e gerir uma lista de tarefas online com uma aplicação tem muitas vantagens. Isto porque uma lista de tarefas ajuda-o a gerir eficazmente as suas tarefas, tanto na sua vida privada como no seu dia a dia profissional, e a não se esquecer de nada no stressante quotidiano. Leia este artigo para saber por que razão deve utilizar um modelo para a sua lista de tarefas e qual a melhor aplicação para o fazer.'
 date: 2024-04-03
 categories:
     - 'best-practice'
@@ -83,7 +83,7 @@ Pode ordenar as tarefas individuais, definir um prazo e assinalá-las. Também s
 
 ### Projoodle: Uma lista de afazeres baseada no Doodle
 
-O principal objetivo do [Projoodle](https://www.projoodle.com/de) é facilitar a colaboração com os amigos. À semelhança do envio de uma [ligação Doodle]({{< relref "posts/umfrage-erstellen" >}}) para compromissos, a gestão de tarefas também deve funcionar sem iniciar sessão. O projeto Projoodle foi criado com este objetivo em mente.
+O principal objetivo do [Projoodle](https://www.projoodle.com/de) é facilitar a colaboração com os amigos. À semelhança do envio de uma [ligação Doodle]({{< relref "posts/umfrage-online" >}}) para compromissos, a gestão de tarefas também deve funcionar sem iniciar sessão. O projeto Projoodle foi criado com este objetivo em mente.
 
 Com o Projoodle, obtém uma aplicação gratuita para listas de tarefas que são fáceis de criar, partilhar e gerir. Outra funcionalidade é a vista de quadro Kanban, que permite agrupar claramente as tarefas por estado. No entanto, as opções para ordenar e agendar tarefas são escassas.
 

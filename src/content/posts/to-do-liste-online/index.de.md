@@ -82,7 +82,7 @@ Die einzelnen To-dos können Sie sortieren, mit einer Frist versehen und abhaken
 
 ### Projoodle: Eine an Doodle angelehnte To-do-Liste
 
-[Projoodle](https://www.projoodle.com/de) möchte vor allem die Zusammenarbeit mit Freunden erleichtern. Ähnlich wie beim Versenden eines [Doodle]({{< relref "posts/umfrage-erstellen" >}})\-Links für Termine soll auch die Aufgabenverwaltung ohne Log-in funktionieren. Mit diesem Ziel im Blick entstand das Projekt Projoodle.
+[Projoodle](https://www.projoodle.com/de) möchte vor allem die Zusammenarbeit mit Freunden erleichtern. Ähnlich wie beim Versenden eines [Doodle]({{< relref "posts/umfrage-online" >}})\-Links für Termine soll auch die Aufgabenverwaltung ohne Log-in funktionieren. Mit diesem Ziel im Blick entstand das Projekt Projoodle.
 
 Mit Projoodle erhalten Sie eine kostenlose App für To do Listen, die einfach zu erstellen, zu teilen und zu verwalten sind. Als weiteres Feature gibt es eine Kanban-Board-Ansicht, mit der Sie die Aufgaben übersichtlich nach Status gruppieren können. Die Möglichkeiten zum Sortieren und Terminieren der Aufgaben fallen allerdings spärlich aus.
 
