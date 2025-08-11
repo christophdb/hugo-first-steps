@@ -2,7 +2,7 @@
 title: 'Сравнение цен'
 description: ''
 date: '2024-08-24'
-url: '/ru/shablon-sravneniya-tsen'
+url: '/ru/shablon/sravneniya-tsen'
 aliases:
     - '/ru/шаблон/price-comparison'
 category: 'finance'
