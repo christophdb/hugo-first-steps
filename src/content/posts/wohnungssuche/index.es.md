@@ -41,7 +41,7 @@ Para convencer a su futuro casero de sus méritos, necesita causar una buena pri
 El índice de alquileres sigue subiendo, lo que dificulta a mucha gente encontrar una vivienda asequible. Cuando las cosas se ponen realmente difíciles desde el punto de vista financiero, hay algunas ayudas estatales disponibles para apoyar a las personas con rentas bajas.
 
 - El certificado de **derecho a** la vivienda confirma que el inquilino tiene derecho a mudarse a un piso subvencionado con fondos públicos. Sin embargo, para obtener el certificado, el inquilino debe cumplir determinados criterios. Por ejemplo, no debe superar un límite de ingresos establecido. Su ayuntamiento le aclarará si tiene derecho a ello.
-- El **subsidio** de vivienda es una ayuda al alquiler para las familias con bajos ingresos. El Ministerio Federal de Vivienda, Urbanismo y Construcción ofrece una [calculadora](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/wohnen/wohnraumfoerderung/wohngeld/wohngeldrechner-2023-artikel.html;jsessionid=6DD0480874498C458F1FA626537143D2.live861) en línea del subsidio de vivienda que puede utilizar para comprobar si tiene derecho al subsidio de vivienda. También puede solicitar el subsidio de vivienda a su ayuntamiento.
+- El **subsidio** de vivienda es una ayuda al alquiler para las familias con bajos ingresos. El Ministerio Federal de Vivienda, Urbanismo y Construcción ofrece una calculadora en línea del subsidio de vivienda que puede utilizar para comprobar si tiene derecho al subsidio de vivienda. También puede solicitar el subsidio de vivienda a su ayuntamiento.
 
 ![Amanecer sobre rascacielos](Bild-von-Freepik_9328139-711x711.jpg)
 

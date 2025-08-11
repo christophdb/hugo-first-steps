@@ -33,7 +33,7 @@ But don't worry. You will see that all these challenges can be solved with a cus
 This tutorial starts with the base we already created in the YouTube video. Based on that, I will show you what steps are necessary to build a tool like the one you can find at [https://ideas.seatable.com](https://ideas.seatable.com). This tutorial simplifies some steps but shows the basic procedure.
 
 - We will start with development of simple web pages design using HTML and CSS.
-- Next, we will use the [SeaTable PHP API](https://seatable.github.io/seatable-api-php/) to populate these static web pages with the content from SeaTable. For this I will use the [Slim PHP framework](https://www.slimframework.com/) and the [Twig template system](https://twig.symfony.com/).
+- Next, we will use the SeaTable PHP API to populate these static web pages with the content from SeaTable. For this I will use the [Slim PHP framework](https://www.slimframework.com/) and the [Twig template system](https://twig.symfony.com/).
 - Finally, we will do some fine tuning.
 
 Doesn't sound so complicated, does it? So let's get started.

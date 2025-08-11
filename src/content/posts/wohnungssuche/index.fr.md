@@ -41,7 +41,7 @@ Pour convaincre votre futur propriétaire, la première impression doit être la
 Le niveau des loyers ne cesse d'augmenter, de sorte que de nombreuses personnes ont du mal à trouver un logement abordable. Lorsque la situation financière devient vraiment difficile, il existe quelques aides de l'État qui soutiennent les citoyens à faibles revenus.
 
 - Le **certificat d'autorisation de logement** confirme que le locataire a le droit d'occuper un logement subventionné par des fonds publics. Pour l'obtenir, le locataire doit toutefois remplir certains critères. Il ne doit par exemple pas dépasser un certain plafond de revenus. C'est l'autorité locale compétente qui détermine si vous y avez droit.
-- L'**allocation logement** est une aide au loyer pour les ménages qui ne peuvent justifier que de faibles revenus. Le ministère fédéral du Logement, de l'Urbanisme et de la Construction propose un [calculateur d'allocation logement](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/wohnen/wohnraumfoerderung/wohngeld/wohngeldrechner-2023-artikel.html;jsessionid=6DD0480874498C458F1FA626537143D2.live861) en ligne qui vous permet de vérifier si vous y avez droit. La demande d'aide au logement elle-même doit également être déposée auprès de l'autorité compétente.
+- L'**allocation logement** est une aide au loyer pour les ménages qui ne peuvent justifier que de faibles revenus. Le ministère fédéral du Logement, de l'Urbanisme et de la Construction propose un calculateur d'allocation logement en ligne qui vous permet de vérifier si vous y avez droit. La demande d'aide au logement elle-même doit également être déposée auprès de l'autorité compétente.
 
 ![Lever de soleil sur les gratte-ciel](Bild-von-Freepik_9328139-711x711.jpg)
 

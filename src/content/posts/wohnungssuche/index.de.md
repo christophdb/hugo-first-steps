@@ -40,7 +40,7 @@ Um Ihren zukünftigen Vermieter von Ihnen zu überzeugen, muss der erste Eindruc
 Der Mietspiegel steigt immer weiter an, sodass viele Menschen nur schwer bezahlbaren Wohnraum finden. Wenn es finanziell richtig knapp wird, gibt es einige staatliche Hilfen, die Bürger mit geringem Einkommen unterstützen.
 
 - Der **Wohnberechtigungsschein** bestätigt, dass der Mieter berechtigt ist, eine mit öffentlichen Mitteln geförderte Wohnung zu beziehen. Um den Schein zu bekommen, muss der Mieter jedoch einige Kriterien erfüllen. Er darf zum Beispiel eine festgelegte Einkommensgrenze nicht überschreiten. Ob Sie Anspruch darauf haben, klärt Ihre örtlich zuständige Behörde.
-- Das **Wohngeld** ist ein Mietzuschuss für Haushalte, die nur ein geringes Einkommen vorweisen können. Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen bietet online einen [Wohngeldrechner](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/wohnen/wohnraumfoerderung/wohngeld/wohngeldrechner-2023-artikel.html;jsessionid=6DD0480874498C458F1FA626537143D2.live861) an, mit dessen Hilfe Sie prüfen können, ob ein Anspruch besteht. Den Wohngeldantrag selbst stellen Sie ebenfalls bei Ihrer zuständigen Behörde.
+- Das **Wohngeld** ist ein Mietzuschuss für Haushalte, die nur ein geringes Einkommen vorweisen können. Das Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen bietet online einen Wohngeldrechner an, mit dessen Hilfe Sie prüfen können, ob ein Anspruch besteht. Den Wohngeldantrag selbst stellen Sie ebenfalls bei Ihrer zuständigen Behörde.
 
 ![Sonnenaufgang über Hochhäusern](Bild-von-Freepik_9328139-711x711.jpg)
 
