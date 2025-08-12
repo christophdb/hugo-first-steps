@@ -6,7 +6,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Datenmanagement & Visualisierung'
-    - 'Wenn Excel nicht mehr reicht…'
+    - 'Wenn Excel nicht mehr reicht'
 url: '/de/vorteile-datenbanken'
 aliases:
     - /de/vorteile-von-datenbanken
