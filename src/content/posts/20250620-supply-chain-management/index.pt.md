@@ -3,7 +3,7 @@ title: 'Como otimizar a gestão da sua cadeia de abastecimento'
 description: 'Uma gestão eficiente da cadeia de abastecimento é crucial para o sucesso de uma empresa. Com as nossas 5 dicas simples e as possibilidades das tecnologias modernas, pode criar processos eficientes e obter resultados óptimos.'
 date: 2021-10-07
 lastmod: '2025-06-20'
-url: '/supply-chain-management'
+url: '/pt/supply-chain-management'
 category:
     - 'best-practice'
 tags:

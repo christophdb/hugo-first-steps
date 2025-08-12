@@ -5,7 +5,7 @@ seo:
     title: 'Manage your event | 10 tips for your success | SeaTable'
     description: 'Read how even large events can be professionally managed and how tools can help you with complex planning'
 date: 2025-03-23
-url: '/event-management'
+url: '/event-organization'
 aliases:
     - /veranstaltung-verwalten/
 tags:
