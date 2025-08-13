@@ -5,7 +5,7 @@ seo:
     title: 'Управление мероприятием | 10 советов для успеха | SeaTable'
     description: 'Узнайте, как можно профессионально управлять даже крупными мероприятиями и как инструменты могут помочь вам в комплексном планировании.'
 date: 2025-03-23
-url: '/ru/event-management'
+url: '/ru/upravlenie-meropriyatiyami'
 aliases:
     - /ru/veranstaltung-verwalten/
 tags:

@@ -5,7 +5,7 @@ seo:
     title: 'Vgérer un événement | 10 conseils pour réussir | SeaTable'
     description: 'Découvrez comment gérer de manière professionnelle même les événements les plus importants et comment les outils peuvent vous aider à planifier des événements complexes.'
 date: 2025-03-23
-url: '/fr/veranstaltung-verwalten'
+url: '/fr/gestion-evenements'
 aliases:
     - /fr/veranstaltung-verwalten/
 tags:
