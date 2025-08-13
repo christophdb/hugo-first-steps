@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
 tags:
     - 'IT Processes'
-    - 'Data Mmangement & Visualisation'
+    - 'Data Management & Visualisation'
 url: '/ticketing-system'
 color: '#66d4d0'
 ---
