@@ -6,8 +6,9 @@ categories:
     - 'best-practice'
 tags:
     - 'Vie Quotidiennex'
+URL: '/fr/elevage-animaux
 aliases:
-    - /fr/to-do-liste-online
+    - /fr/tierhaltung/
 color: '#f5c119'
 seo:
     title:

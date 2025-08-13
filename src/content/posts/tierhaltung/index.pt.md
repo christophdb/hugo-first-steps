@@ -8,7 +8,7 @@ tags:
     - 'Vida cotidiana e lazer'
 url: '/pt/criacao-animais'
 aliases:
-    - /pt/to-do-liste-online
+    - /pt/tierhaltung/
 color: '#f5c119'
 seo:
     title:
