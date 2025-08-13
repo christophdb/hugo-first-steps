@@ -1,5 +1,5 @@
 ---
-title: 'Définir des permissions de table'
+title: 'Définir des permissions de tableau'
 date: 2022-11-16
 lastmod: '2023-08-09'
 categories:
@@ -14,7 +14,7 @@ Avec un abonnement approprié, vous avez la possibilité dans SeaTable de restre
 
 ## Définir des autorisations au sein des tableaux
 
-![Définir l'autorisation de table](images/Tabellenberechtigung-setzen-1.gif)
+![Définir l'autorisation de tableau](images/Tabellenberechtigung-setzen-1.gif)
 
 1. Cliquez sur l'**icône triangulaire déroulante** à côté du nom du tableau.
 2. Sélectionnez l'option **Modifier les autorisations des tableaux**.

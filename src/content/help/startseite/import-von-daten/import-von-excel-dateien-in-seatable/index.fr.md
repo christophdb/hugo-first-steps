@@ -44,7 +44,7 @@ Au total, **trois** possibilités différentes s'offrent à vous :
 6. Une **fenêtre d'aperçu** s'ouvre ensuite pour vous permettre de vérifier à quoi ressembleront les données importées dans SeaTable. Ici, vous pouvez choisir avec précision **quelles colonnes** et **quels tableaux** vous souhaitez transférer depuis le classeur XLSX.
 7. Cliquez sur **Envoyer** pour terminer l'importation.
 
-## Option 3 : importation dans une table existante
+## Option 3 : importation dans un tableau existant
 
 ![Importer une feuille de calcul Excel dans une feuille de calcul existante](images/Import-einer-Excel-Tabelle-in-eine-bestehende-Tabelle.gif)
 

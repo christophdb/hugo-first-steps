@@ -1,5 +1,5 @@
 ---
-title: 'Instructions pour le plugin de relations entre les tables'
+title: 'Instructions pour le plugin de relations entre les tableaux'
 date: 2024-07-29
 lastmod: '2024-08-01'
 categories:
@@ -12,11 +12,11 @@ Surtout lorsque de nombreux tableaux avec des dizaines de colonnes se trouvent d
 
 Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
-![Plugin de relations entre les tables](images/Table-Relationships-Plugin.png)
+![Plugin de relations entre les tableaux](images/Table-Relationships-Plugin.png)
 
 ## Fonctionnement du plugin
 
-Lorsque vous avez configuré et ouvert le plug-in Relations entre les tableaux, vous voyez d'abord **tous les tableaux** qui se trouvent dans la base. Sous les noms de table en couleur sont listées **toutes les colonnes** qui ont été créées dans les tables respectives.
+Lorsque vous avez configuré et ouvert le plug-in Relations entre les tableaux, vous voyez d'abord **tous les tableaux** qui se trouvent dans la base. Sous les noms de tableau en couleur sont listées **toutes les colonnes** qui ont été créées dans les tableaux respectives.
 
 Pour visualiser les liens des tableaux, vous verrez non seulement **des lignes pleines** pour les liens _directs_ via les [colonnes de liens]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mais aussi des **lignes en pointillés** pour les liens _indirects_ via les colonnes de formules de liens (par exemple [les lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}).
 
@@ -34,7 +34,7 @@ Les **paramètres**, auxquels vous accédez en cliquant sur l'**icône en forme 
 
 - Souhaitez-vous afficher **les liens vers d'autres entrées** (liens directs) ?
 - Souhaitez-vous afficher **des formules pour les liens** (liens indirects) ?
-- Souhaitez-vous afficher **des formules à deux niveaux pour les liens** (par exemple, une formule de recherche qui obtient des valeurs à partir de la colonne de recherche d'une autre table) ?
+- Souhaitez-vous afficher **des formules à deux niveaux pour les liens** (par exemple, une formule de recherche qui obtient des valeurs à partir de la colonne de recherche d'un autre tableau) ?
 - Vous souhaitez afficher **des tableaux sans liens**?
 
 ![Options de paramétrage d'un graphique de relations entre tableaux](images/Settings-of-Table-Relationship-Chart.png)

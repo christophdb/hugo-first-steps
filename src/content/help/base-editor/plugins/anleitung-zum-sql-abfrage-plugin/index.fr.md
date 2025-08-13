@@ -18,7 +18,7 @@ L'un des grands avantages du plugin réside dans le fait qu'il accède aussi bie
 
 ### La commande SQL SELECT
 
-La commande **SQL** la plus utilisée est sans doute la commande **SELECT**, qui sert à interroger des entrées. Une simple requête sur les colonnes _Name_ et _Number_ de la table _Time_ ressemblerait à ceci :
+La commande **SQL** la plus utilisée est sans doute la commande **SELECT**, qui sert à interroger des entrées. Une simple requête sur les colonnes _Name_ et _Number_ du tableau _Time_ ressemblerait à ceci :
 
 ```
 SELECT Nom, Numéro FROM Heure
@@ -30,23 +30,23 @@ Une fois la commande saisie, la base de données est parcourue à la recherche d
 
 ### Transfert des résultats dans un nouveau tableau
 
-La fonction **Exporter vers une nouvelle table** permet d'exporter les données trouvées dans une nouvelle table au sein de la même base.
+La fonction **Exporter vers un nouveau tableau** permet d'exporter les données trouvées dans un nouveau tableau au sein de la même base.
 
-![Exportation des valeurs trouvées par requête de données SQL dans une nouvelle table](images/export-data-sql-query-to-a-new-table.png)
+![Exportation des valeurs trouvées par requête de données SQL dans un nouveau tableau](images/export-data-sql-query-to-a-new-table.png)
 
-![Nouvelle table créée avec les données trouvées précédemment par commande SQL avec le plugin](images/new-table-with-sql-data.png)
+![nouveau tableau créé avec les données trouvées précédemment par commande SQL avec le plugin](images/new-table-with-sql-data.png)
 
 ### La commande SQL DELETE
 
-**DELETE** est une autre commande fréquemment utilisée pour **supprimer** rapidement **des entrées**. Par exemple, la commande suivante supprime toutes les données de la table _Time_.
+**DELETE** est une autre commande fréquemment utilisée pour **supprimer** rapidement **des entrées**. Par exemple, la commande suivante supprime toutes les données du tableau _Time_.
 
 ```
 DELETE FROM Time
 ```
 
-Après l'entrée de la commande, **toutes les** entrées de la table **Time** sont supprimées. Vous pouvez toutefois restaurer les lignes via le [journal de base]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}#base-log).
+Après l'entrée de la commande, **toutes les** entrées du tableau **Time** sont supprimées. Vous pouvez toutefois restaurer les lignes via le [journal de base]({{< relref "help/base-editor/historie-und-versionen/historie-und-logs" >}}#base-log).
 
-![Saisie de la commande SQL DELETE pour supprimer les données de la table](images/query-delete-from-table.png)
+![Saisie de la commande SQL DELETE pour supprimer les données du tableau](images/query-delete-from-table.png)
 
 ## Aperçu des commandes SQL prises en charge
 

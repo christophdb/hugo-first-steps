@@ -16,7 +16,7 @@ Vous pouvez à tout moment supprimer les opérations de traitement des données 
 
 ![Cliquez sur Traitement des données](images/create-an-data-processing-action-1.jpg)
 
-1. Ouvrez n'importe quelle **table** dans laquelle vous souhaitez supprimer une opération de traitement des données.
+1. Ouvrez n'importe quel **tableau** dans lequel vous souhaitez supprimer une opération de traitement des données.
 2. Cliquez sur les **trois points** dans les options d'affichage.
 3. Cliquez sur **Traitement des données**.
 4. Passez la souris sur l'opération de traitement des données créée que vous souhaitez supprimer et cliquez sur l'**icône de la corbeille**.

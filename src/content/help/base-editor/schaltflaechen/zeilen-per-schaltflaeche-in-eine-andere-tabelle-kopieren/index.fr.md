@@ -22,7 +22,7 @@ Maintenant, vous souhaitez également organiser l'enterrement **de vie de jeune 
 
 Créez deux nouveaux tableaux pour les listes d'invités aux fêtes respectives.
 
-{{< warning  headline="Attention"  text="Les **types de colonnes** et les **noms de colonnes** doivent être **identiques** dans les tables cibles à ceux de la table source, sinon l'action ne fonctionne pas. Toutes les valeurs de colonnes que SeaTable ne peut pas attribuer ne sont **pas** copiées et restent vides dans les tableaux cibles." />}}
+{{< warning  headline="Attention"  text="Les **types de colonnes** et les **noms de colonnes** doivent être **identiques** dans les tableaux cibles à ceux du tableau source, sinon l'action ne fonctionne pas. Toutes les valeurs de colonnes que SeaTable ne peut pas attribuer ne sont **pas** copiées et restent vides dans les tableaux cibles." />}}
 
 **Conseil :** Une méthode simple pour reprendre la structure du tableau d'origine consiste à **dupliquer le tableau sans les entrées existantes**.
 

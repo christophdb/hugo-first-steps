@@ -12,7 +12,7 @@ Vous pouvez ajouter une description à chaque tableau de votre base. Ce texte co
 
 {{< warning  headline="Remarque importante" >}}
 
-Vous pouvez - indépendamment de votre [rôle et]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) de vos [droits]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) - également modifier les descriptions de tables dans les bases qui appartiennent à un **groupe**. En revanche, vous ne pouvez modifier la description des tables qui vous ont été [partagées]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) qu'avec des **droits d'écriture**.
+Vous pouvez - indépendamment de votre [rôle et]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) de vos [droits]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) - également modifier les descriptions de tableaux dans les bases qui appartiennent à un **groupe**. En revanche, vous ne pouvez modifier la description des tableaux qui vous ont été [partagés]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) qu'avec des **droits d'écriture**.
 
 {{< /warning >}}
 

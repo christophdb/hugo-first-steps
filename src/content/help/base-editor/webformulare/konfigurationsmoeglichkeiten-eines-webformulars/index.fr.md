@@ -14,7 +14,7 @@ Vous pouvez configurer votre formulaire web en termes d'apparence, de contenu et
 
 ## Paramètres du formulaire
 
-- Si votre base est composée de plusieurs tables, vous pouvez sélectionner la **table** pour laquelle vous souhaitez créer le formulaire.
+- Si votre base est composée de plusieurs tableaux, vous pouvez sélectionner le **tableau** pour lequel vous souhaitez créer le formulaire.
 - Glissez **et déposez** **les éléments statiques** et **les champs de tableau** dans le formulaire ou cliquez sur l'**icône plus** à droite de leur nom.
 - Si vous souhaitez insérer des textes d'aide pour remplir les champs du formulaire, vous pouvez définir la **couleur de la police des textes d'aide**.
 - Vous pouvez choisir entre deux **règles de notification**: Soit aucune notification n'est envoyée, soit vous définissez un destinataire (par exemple vous-même) qui recevra une notification lorsqu'un formulaire est soumis.

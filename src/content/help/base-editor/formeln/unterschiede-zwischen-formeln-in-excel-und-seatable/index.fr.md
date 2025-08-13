@@ -48,11 +48,11 @@ La formule fait référence à des _colonnes_ entières, comme par exemple {Purc
 ## Valeurs provenant d'autres tableaux
 
 Les formules SeaTable fonctionnent à l'intérieur des _tableaux_, pas au-delà des _bases_.  
-Comme ci-dessus, les formules SeaTable ne concernent par défaut que les _colonnes_ d'une même _table_. Il est toutefois possible de prendre une valeur dans une autre table pour la référencer dans un champ de calcul (cette approche utilise des enregistrements liés, qui sont traités plus en détail [ici]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) ).
+Comme ci-dessus, les formules SeaTable ne concernent par défaut que les _colonnes_ d'une même _table_. Il est toutefois possible de prendre une valeur dans un autre tableau pour la référencer dans un champ de calcul (cette approche utilise des enregistrements liés, qui sont traités plus en détail [ici]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) ).
 
 ### Excel
 
-Pour faire référence à un enregistrement dans une autre table, vous devez écrire des références spécifiques à l'autre table dans un format tel que, par exemple, le suivant :
+Pour faire référence à un enregistrement dans un autre tableau, vous devez écrire des références spécifiques à l' dans un format tel que, par exemple, le suivant :
 
 **\=IF(Tâches!B1='Home improvements',Tâches!A1,0).**
 
@@ -62,10 +62,10 @@ Ensuite, vous devez appliquer cette formule à chaque cellule dans laquelle vous
 
 ### SeaTable
 
-Pour référencer un enregistrement dans une autre table, vous pouvez d'abord les lier à l'aide du type de colonne **"Lien vers d'autres entrées"**. Une fois qu'un enregistrement d'une table, par exemple "Projects", est lié à un enregistrement d'une autre table, par exemple "Tasks", vous pouvez faire référence à chaque ligne des deux tables en utilisant une **colonne** **lookup**, **rollup** ou **count**.
+Pour référencer un enregistrement dans un autre tableau, vous pouvez d'abord les lier à l'aide du type de colonne **"Lien vers d'autres entrées"**. Une fois qu'un enregistrement d'un tableau, par exemple "Projects", est lié à un enregistrement d'un autre tableau, par exemple "Tasks", vous pouvez faire référence à chaque ligne des deux tableaux en utilisant une **colonne** **lookup**, **rollup** ou **count**.
 
 Dans l'exemple ci-dessous, une **colonne déroulante** est utilisée pour faire référence de manière simple aux coûts de chaque tâche associée à un projet et pour additionner les dépenses afin de déterminer le coût total du projet.
 
 ![Colonne déroulante permettant de faire référence aux coûts de chaque tâche associée à un projet et de totaliser les dépenses afin d'obtenir le coût total du projet.](images/reference-to-other-bases.gif)
 
-La fonction crée ainsi une série de possibilités d'écrire des formules simples ou complexes pour référencer des données entre les tables.
+La fonction crée ainsi une série de possibilités d'écrire des formules simples ou complexes pour référencer des données entre les tableaux.

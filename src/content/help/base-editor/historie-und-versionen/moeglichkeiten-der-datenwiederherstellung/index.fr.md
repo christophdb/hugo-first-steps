@@ -53,7 +53,7 @@ Pour plus d'informations, consultez l'article [Annuler les modifications via les
 
 ## 5\. restauration à l'aide de snapshots
 
-Un snapshot enregistre un instantané d'une base, c'est-à-dire toutes les tables, vues, statistiques et formulaires présents dans une base à un moment donné. SeaTable crée un snapshot toutes les 24 heures pour les bases dans lesquelles un travail actif a été effectué - mais vous pouvez aussi créer des snapshots manuellement. Vous pouvez afficher les snapshots et restaurer les versions précédentes.
+Un snapshot enregistre un instantané d'une base, c'est-à-dire tous les tableaux, vues, statistiques et formulaires présents dans une base à un moment donné. SeaTable crée un snapshot toutes les 24 heures pour les bases dans lesquelles un travail actif a été effectué - mais vous pouvez aussi créer des snapshots manuellement. Vous pouvez afficher les snapshots et restaurer les versions précédentes.
 
 Pour en savoir plus, consultez les articles [Enregistrer la base actuelle en tant que snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) et [Restaurer un snapshot]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 

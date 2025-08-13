@@ -48,7 +48,7 @@ L'option **Gérer l'accès** vous permet de partager votre jeu de données commu
 
 ## Forcer la synchronisation avec le jeu de données commun
 
-En tant que créateur d'un jeu de données commun, vous pouvez forcer la **synchronisation** des tables dépendantes. Vous découvrirez [ici]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) les conséquences et les avantages de cette démarche.
+En tant que créateur d'un jeu de données commun, vous pouvez forcer la **synchronisation** des tableaux dépendants. Vous découvrirez [ici]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) les conséquences et les avantages de cette démarche.
 
 ## Supprimer un jeu de données commun
 

@@ -14,7 +14,7 @@ En outre, SeaTable dispose d'un puissant système d'importation de données. Cel
 
 ## Importation de données avec CSV
 
-CSV est un format d'échange de données très répandu, qui représente souvent le plus petit dénominateur commun entre deux produits logiciels. En raison de sa structure simple, vous gardez le contrôle total de vos données, mais vous pouvez importer **au maximum une table** ou une base à la fois.
+CSV est un format d'échange de données très répandu, qui représente souvent le plus petit dénominateur commun entre deux produits logiciels. En raison de sa structure simple, vous gardez le contrôle total de vos données, mais vous pouvez importer **au maximum un tableau** ou une base à la fois.
 
 [Apprenez-en plus sur l'importation de données avec CSV ici.]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
 

@@ -21,7 +21,7 @@ La page d'accueil se divise en deux parties : La navigation (à gauche) et l'ape
 
 ### Qu'est-ce qu'une base exactement ?
 
-Une base est une banque de données. Une base se compose d'une ou plusieurs tables et peut contenir plusieurs milliers de lignes. Toutes les bases auxquelles un utilisateur a accès sont affichées sur la page d'accueil. SeaTable distingue différents espaces de travail en fonction de la personne qui a créé la base ou qui y a accès. Les mots-clés correspondants sont ici :
+Une base est une banque de données. Une base se compose d'une ou plusieurs tableaux et peut contenir plusieurs milliers de lignes. Toutes les bases auxquelles un utilisateur a accès sont affichées sur la page d'accueil. SeaTable distingue différents espaces de travail en fonction de la personne qui a créé la base ou qui y a accès. Les mots-clés correspondants sont ici :
 
 - **Mes bases**: vous avez créé vous-même des bases dans cette zone et tant que vous n'avez pas explicitement partagé la base avec quelqu'un ou un groupe, vous êtes le seul à y avoir accès.
 - **Les favoris**: Vous pouvez marquer n'importe quelle base comme favorite afin de toujours la retrouver dans cette section.

@@ -10,7 +10,7 @@ url: '/fr/aide/aktivieren-eines-plugins-in-einer-base'
 
 **Les plugins** vous offrent de nombreuses possibilités pour présenter clairement les données dans vos tableaux. En installant un plugin dans votre base, vous pouvez facilement passer de l'**affichage des tableaux** à celui **du calendrier ou du Kanban**, par exemple.
 
-{{< warning  headline="Remarque"  text="Vous activez toujours les plugins pour l'ensemble de la base. Cela signifie que vous ne devez configurer un plugin qu'**une seule fois** et que vous pouvez ensuite l'utiliser dans **toutes les tables** de votre base." />}}
+{{< warning  headline="Remarque"  text="Vous activez toujours les plugins pour l'ensemble de la base. Cela signifie que vous ne devez configurer un plugin qu'**une seule fois** et que vous pouvez ensuite l'utiliser dans **tous les tableaux** de votre base." />}}
 
 Pour un accès rapide à vos plugins, vous pouvez les ajouter à la **barre d'outils** à côté des options d'affichage.
 

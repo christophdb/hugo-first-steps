@@ -35,7 +35,7 @@ Une fois que vous avez maîtrisé les premières étapes et créé vos première
 
 Le tableau est le niveau le plus important auquel vous pouvez organiser vos données dans SeaTable, comparable à une feuille de calcul dans un tableur. En principe, **les tableaux** représentent le niveau suivant dans la structure organisationnelle de SeaTable, en dessous des [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}).
 
-Comme SeaTable est un **logiciel de base de données relationnelle**, vous pouvez relier les informations contenues dans différentes tables d'une base à l'aide de [jointures]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), d ['automatisations]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) et d'autres fonctions.
+Comme SeaTable est un **logiciel de base de données relationnelle**, vous pouvez relier les informations contenues dans différents tableaux d'une base à l'aide de [jointures]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), d ['automatisations]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) et d'autres fonctions.
 
 Un tableau se compose de [lignes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) de SeaTable définissent les **types de données** que vous pouvez saisir dans une **colonne**.
 

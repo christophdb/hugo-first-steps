@@ -14,8 +14,8 @@ L'article suivant est un aperçu de l'**importation de données** dans SeaTable 
 
 La fonction d'importation de SeaTable vous permet de transférer des fichiers CSV dans vos bases. **Trois** possibilités s'offrent à vous :
 
-1. Importer un fichier CSV en tant que **nouvelle table** dans une **nouvelle base**.
-2. Importer un fichier CSV en tant que **nouvelle table** dans une **base existante**.
+1. Importer un fichier CSV en tant que **nouveau tableau** dans une **nouvelle base**.
+2. Importer un fichier CSV en tant que **nouveau tableau** dans une **base existante**.
 3. Importer un fichier CSV dans un **tableau** déjà **existant**.
 
 {{< warning  headline="Attention"  text="Pour que SeaTable reconnaisse correctement un fichier CSV, celui-ci doit être formaté selon [la norme UTF-8](https://de.wikipedia.org/wiki/UTF-8)." />}}
@@ -44,9 +44,9 @@ La fonction d'importation de SeaTable vous permet de transférer des fichiers CS
 6. Une **fenêtre d'aperçu** s'ouvre ensuite pour vous permettre de vérifier à quoi ressembleront les données importées dans SeaTable. Vous pouvez y sélectionner précisément **les colonnes** du fichier CSV que vous souhaitez transférer.
 7. Cliquez sur **Envoyer** pour terminer l'importation.
 
-## Option 3 : importer dans une table existante
+## Option 3 : importer dans un tableau existant
 
-![Importer un fichier CSV dans une table existante](images/Import-einer-CSV-Datei-in-eine-bestehende-Tabelle.gif)
+![Importer un fichier CSV dans un tableau existant](images/Import-einer-CSV-Datei-in-eine-bestehende-Tabelle.gif)
 
 1. Cliquez sur l'**icône** triangulaire **déroulante** à droite du nom de votre tableau.
 2. Sélectionnez **Importer de nouvelles données à partir d'un fichier CSV ou XLSX**.

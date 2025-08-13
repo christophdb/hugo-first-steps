@@ -24,5 +24,5 @@ Si, à un moment donné, vous n'avez plus besoin des **jeux de données communs*
 
 ## Effets de la suppression
 
-- Il n'y a **plus de possibilité de synchronisation** pour toutes les **tables** qui utilisent les données du jeu de données commun supprimé.
-- Toutefois, les **données du jeu de données commun** qui se trouvaient jusqu'à présent dans les tables correspondantes sont **conservées**.
+- Il n'y a **plus de possibilité de synchronisation** pour tous les **tableaux** qui utilisent les données du jeu de données commun supprimé.
+- Toutefois, les **données du jeu de données commun** qui se trouvaient jusqu'à présent dans les tableaux correspondants sont **conservées**.

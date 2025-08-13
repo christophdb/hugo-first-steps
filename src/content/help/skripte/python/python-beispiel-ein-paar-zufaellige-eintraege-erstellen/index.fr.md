@@ -34,7 +34,7 @@ base.auth()
 
 ## 3) Définir de nouveaux contenus de ligne
 
-Maintenant que nous avons accès à la table actuelle, nous pouvons définir les enregistrements à créer. Le code suivant part du principe que vous avez des colonnes nommées _Name_, _single_, _random_, _rating_. Si vos colonnes s'appellent autrement, vous devez adapter les noms en conséquence.
+Maintenant que nous avons accès au tableau actuel, nous pouvons définir les enregistrements à créer. Le code suivant part du principe que vous avez des colonnes nommées _Name_, _single_, _random_, _rating_. Si vos colonnes s'appellent autrement, vous devez adapter les noms en conséquence.
 
 ```python
 # define the data for two new rows

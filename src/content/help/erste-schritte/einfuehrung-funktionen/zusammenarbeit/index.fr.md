@@ -35,7 +35,7 @@ Pour que vous puissiez à tout moment savoir qui a apporté quelles modification
 
 ## Ensembles de données communs
 
-Vous pouvez mettre à disposition des différents groupes et utilisateurs de votre équipe les enregistrements dont ils ont besoin en utilisant les [jeux de données communs]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) comme modèle pour les nouvelles tables. Chaque table que les membres de votre équipe créent avec un jeu de données commun peut être [synchronisée]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}). SeaTable remplace alors les données de la table par celles du jeu de données commun actuel, de sorte que tout le monde soit au même niveau.
+Vous pouvez mettre à disposition des différents groupes et utilisateurs de votre équipe les enregistrements dont ils ont besoin en utilisant les [jeux de données communs]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) comme modèle pour les nouveaux tableaux. Chaque tableau que les membres de votre équipe créent avec un jeu de données commun peut être [synchronisée]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}). SeaTable remplace alors les données du tableau par celles du jeu de données commun actuel, de sorte que tout le monde soit au même niveau.
 
 ## Partages internes
 

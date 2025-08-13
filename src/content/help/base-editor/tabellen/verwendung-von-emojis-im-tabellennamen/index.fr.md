@@ -1,5 +1,5 @@
 ---
-title: "Utilisation d'emojis dans le nom d'une table"
+title: "Utilisation d'emojis dans le nom d'un tableau"
 date: 2022-12-13
 lastmod: '2025-02-28'
 categories:
@@ -26,7 +26,7 @@ Essayez-le tout simplement ! Copiez un **emoji** correspondant à votre tableau 
 
 ![Renommer le tableau et insérer un emoji](images/Tabelle-umbenennen-und-Emoji-einfuegen.gif)
 
-- Cliquez sur la **flèche déroulante** à droite du nom de la table que vous souhaitez modifier.
+- Cliquez sur la **flèche déroulante** à droite du nom du tableau que vous souhaitez modifier.
 - Allez sur **Renommer le tableau** dans le menu déroulant ouvert.
 - Effacez l'ancien **nom de tableau** du champ de saisie.
 - Copiez un **emoji** et collez-le dans le **champ de saisie**.

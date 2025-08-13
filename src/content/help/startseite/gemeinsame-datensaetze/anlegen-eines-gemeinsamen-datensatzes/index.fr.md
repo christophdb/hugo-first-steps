@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/anlegen-eines-gemeinsamen-datensatzes'
 ---
 
-Dans chaque base appartenant à un groupe, vous pouvez créer une vue de table comme **jeu de données commun**. Pour cela, vous devez être propriétaire ou administrateur du groupe (et pas seulement membre). Vous pouvez ensuite importer le jeu de données commun, y compris ses conditions de filtrage et de tri spécifiques, en tant que nouveau tableau dans n'importe quelle autre base du groupe.
+Dans chaque base appartenant à un groupe, vous pouvez créer une vue de tableau comme **jeu de données commun**. Pour cela, vous devez être propriétaire ou administrateur du groupe (et pas seulement membre). Vous pouvez ensuite importer le jeu de données commun, y compris ses conditions de filtrage et de tri spécifiques, en tant que nouveau tableau dans n'importe quelle autre base du groupe.
 
 {{< warning headline="Pas de jeux de données communs dans les bases privées" text="Les jeux de données communs ne sont disponibles que dans **Bases d'un groupe**. Dans une base privée, la fonction de création d'un jeu de données commun est grisée."  />}}
 

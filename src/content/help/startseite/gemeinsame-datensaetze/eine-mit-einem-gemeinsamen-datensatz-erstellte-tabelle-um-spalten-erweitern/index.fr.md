@@ -1,5 +1,5 @@
 ---
-title: 'Ajouter des colonnes à une table créée avec un jeu de données commun'
+title: 'Ajouter des colonnes à un tableau créé avec un jeu de données commun'
 date: 2022-12-15
 lastmod: '2024-06-12'
 categories:
@@ -12,11 +12,11 @@ Les tableaux que vous avez créés avec un jeu de données commun contiennent au
 
 Cette fonction permet d'utiliser des jeux de données communs, par exemple, par plusieurs services et groupes de collaborateurs d'une entreprise dans les contextes les plus divers.
 
-## Ajouter des colonnes à une table créée avec un jeu de données commun
+## Ajouter des colonnes à un tableau créé avec un jeu de données commun
 
 L'ajout de colonnes fonctionne **de la même manière que pour les tableaux habituels**. Vous trouverez [ici]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) des instructions détaillées pour cliquer.
 
-![Ajouter des colonnes à une table créée avec un jeu de données commun](images/add-a-column-to-a-table-created-with-a-common-dataset.png)
+![Ajouter des colonnes à un tableau créé avec un jeu de données commun](images/add-a-column-to-a-table-created-with-a-common-dataset.png)
 
 ## Verrouillage des colonnes du jeu de données commun
 

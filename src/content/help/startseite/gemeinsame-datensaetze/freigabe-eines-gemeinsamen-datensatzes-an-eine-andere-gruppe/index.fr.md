@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe'
 ---
 
-Vous pouvez non seulement utiliser les jeux de données communs dans le groupe dans lequel vous les avez créés, mais aussi les partager avec d'autres groupes. De cette manière, d'autres utilisateurs ont la possibilité d'accéder aux données du jeu de données commun. Ils pourront ainsi travailler avec le jeu de données commun et créer une nouvelle table. Le partage d'un jeu de données commun avec un autre groupe s'effectue via la page d'accueil.
+Vous pouvez non seulement utiliser les jeux de données communs dans le groupe dans lequel vous les avez créés, mais aussi les partager avec d'autres groupes. De cette manière, d'autres utilisateurs ont la possibilité d'accéder aux données du jeu de données commun. Ils pourront ainsi travailler avec le jeu de données commun et créer un nouveau tableau. Le partage d'un jeu de données commun avec un autre groupe s'effectue via la page d'accueil.
 
 ## Partage d'un jeu de données commun avec un autre groupe
 
@@ -31,6 +31,6 @@ Pour **annuler** le partage d'un jeu de données commun avec un autre groupe, il
 
 ### Conséquences de la dissolution
 
-Si le partage d'un jeu de données commun avec un autre groupe **est dissous**, les **tables créées** avec le jeu de données commun sont conservées dans ce groupe. Par conséquent, malgré la dissolution, le groupe peut **continuer** à **travailler** avec les données existantes dans les tables.
+Si le partage d'un jeu de données commun avec un autre groupe **est dissous**, les **tableaux créés** avec le jeu de données commun sont conservés dans ce groupe. Par conséquent, malgré la dissolution, le groupe peut **continuer** à **travailler** avec les données existantes dans les tableaux.
 
 Toutefois, la **possibilité de synchronisation** avec le jeu de données commun n'est **plus** disponible pour le groupe après la dissolution du partage, de sorte que les modifications apportées au jeu de données commun ne sont **plus** visibles pour ce groupe. Les membres du groupe n'ont donc plus accès qu'à la dernière version du jeu de données commun **avant** la dissolution du partage.

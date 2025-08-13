@@ -1,5 +1,5 @@
 ---
-title: 'Dupliquer une table'
+title: 'Dupliquer un tableau'
 date: 2024-02-20
 lastmod: '2024-02-20'
 categories:
@@ -18,7 +18,7 @@ Vous avez besoin d'un tableau dans votre base plusieurs fois sous une forme lég
 4. Cliquez sur **Dupliquer le tableau**.
 5. Décidez si le tableau doit être **vide ou** dupliqué **avec des entrées** en activant le curseur.
 
-![Dialogue de la boîte de dialogue : Dupliquer les entrées si la table est dupliquée](images/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
+![Dialogue de la boîte de dialogue : Dupliquer les entrées si le tableau est dupliqué](images/Dialog-Eintraege-duplizieren-wenn-Tabelle-dupliziert-wird.png)
 
 7. Confirmez en cliquant sur **Envoyer**.
 

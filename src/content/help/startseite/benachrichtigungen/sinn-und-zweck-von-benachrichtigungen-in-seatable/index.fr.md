@@ -20,7 +20,7 @@ La fonction de notification de SeaTable permet d'automatiser la surveillance de 
 
 Une configuration habile et prévoyante des **règles de notification** permet d'éviter presque totalement l'observation personnelle d'un tableau, qui prend beaucoup de temps. Vous pouvez configurer une règle de notification pour une ou plusieurs personnes. Vous pouvez également faire envoyer une notification qui informe un ou plusieurs autres utilisateurs, mais pas vous.
 
-{{< warning  headline="L'accès est nécessaire"  text="Pour qu'un utilisateur soit informé, il faut qu'il ait au moins **un accès en lecture** à la table concernée." />}}
+{{< warning  headline="L'accès est nécessaire"  text="Pour qu'un utilisateur soit informé, il faut qu'il ait au moins **un accès en lecture** au tableau concerné." />}}
 
 Vous reconnaissez la présence d'une nouvelle **notification** à l'**icône de la cloche** {{< seatable-icon icon="dtable-icon-notice" color="grey" >}}, qui vous permet également d'ouvrir le centre de notifications en cliquant dessus.
 

@@ -107,11 +107,11 @@ Le plug-in Organigramme permet de représenter **les hiérarchies** entre les en
 
 [En savoir plus sur le plugin d'organigramme]({{< relref "help/base-editor/plugins/anleitung-zum-organigramm-plugin" >}})
 
-## Plugin de relations entre les tables
+## Plugin de relations entre les tableaux
 
 Surtout lorsque de nombreux tableaux avec des dizaines de colonnes se trouvent dans une base, on perd rapidement la vue d'ensemble de la manière dont ils sont reliés entre eux. Le plug-in Relations entre les tableaux permet de voir **quels tableaux sont reliés entre eux et par quelles colonnes**.
 
-![Plugin de relations entre les tables](images/Table-Relationships-Plugin.png)
+![Plugin de relations entre les tableaux](images/Table-Relationships-Plugin.png)
 
 [En savoir plus sur le plugin de relations entre les tableaux]({{< relref "help/base-editor/plugins/anleitung-zum-tabellenbeziehungen-plugin" >}})
 

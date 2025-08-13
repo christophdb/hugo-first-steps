@@ -61,7 +61,7 @@ Toutes les fonctions présentées dans cette section s'appliquent de la même ma
 4. Le terme saisi est ensuite affecté à la cellule sélectionnée et ajouté aux différentes **options de sélection** de la colonne.
 
 {{< warning headline="Sélection unique ou lien vers d'autres entrées ?" >}}
-Si vous souhaitez pouvoir saisir des **données supplémentaires** pour chaque option de sélection, vous devriez envisager d'utiliser une [colonne de liaison]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) plutôt qu'une colonne de sélection unique. Pour ce faire, créez la sélection unique comme première colonne dans un tableau séparé. Vous pouvez ainsi saisir des enregistrements complets pour toutes les options, que vous pouvez associer à autant de lignes que vous le souhaitez dans des tables liées.
+Si vous souhaitez pouvoir saisir des **données supplémentaires** pour chaque option de sélection, vous devriez envisager d'utiliser une [colonne de liaison]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) plutôt qu'une colonne de sélection unique. Pour ce faire, créez la sélection unique comme première colonne dans un tableau séparé. Vous pouvez ainsi saisir des enregistrements complets pour toutes les options, que vous pouvez associer à autant de lignes que vous le souhaitez dans des tableaux liés.
 {{< /warning >}}
 
 ## Exporter et importer des options
@@ -145,7 +145,7 @@ La fonction de mise en cascade vous permet de définir, pour chaque colonne de s
 
 ![Définition d'un cascadage à l'aide d'un exemple](images/Beispiel-fuer-eine-Kaskadierung-Bild-1.png)
 
-Dans cet exemple, la table contient des données sur les différentes sessions de formation des employés. En plus de la première colonne qui répertorie les différentes **formations**, il existe déjà une colonne de sélection unique qui indique le **lieu** de la formation. Dans cet exemple, une **cascade** est définie pour une autre colonne de sélection unique qui saisit le **bâtiment** exact.
+Dans cet exemple, le tableau contient des données sur les différentes sessions de formation des employés. En plus de la première colonne qui répertorie les différentes **formations**, il existe déjà une colonne de sélection unique qui indique le **lieu** de la formation. Dans cet exemple, une **cascade** est définie pour une autre colonne de sélection unique qui saisit le **bâtiment** exact.
 
 ![Correspondance entre les options de la colonne sélectionnée et les options de la colonne de sélection unique supérieure](images/Beispiel-fuer-eine-Kaskadierung-Bild-2.png)
 

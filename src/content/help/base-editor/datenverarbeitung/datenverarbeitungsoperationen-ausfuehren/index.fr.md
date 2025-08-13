@@ -16,7 +16,7 @@ Les opérations de traitement des données s'effectuent soit **manuellement**, s
 
 ![Exécution d'une action de traitement des données](images/create-an-data-processing-action-1.jpg)
 
-1. Ouvrez n'importe quelle **table** dans laquelle vous souhaitez effectuer une opération de traitement des données.
+1. Ouvrez n'importe quel **tableau** dans lequel vous souhaitez effectuer une opération de traitement des données.
 2. Cliquez sur les **trois points** dans les options d'affichage.
 3. Cliquez sur **Traitement des données**.
 4. Passez la souris sur une **opération de traitement de données** déjà créée que vous souhaitez exécuter.

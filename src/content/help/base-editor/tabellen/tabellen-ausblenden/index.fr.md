@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/tabellen-ausblenden'
 ---
 
-L'en-tête de la base peut devenir confus, en particulier dans le cas de bases contenant un grand nombre de tableaux. C'est pourquoi SeaTable offre la possibilité de **masquer** les **tables** moins souvent utilisées. Un tableau masqué n'est plus affiché comme onglet dans l'en-tête de la base et ne peut être appelé que par le **menu déroulant**.
+L'en-tête de la base peut devenir confus, en particulier dans le cas de bases contenant un grand nombre de tableaux. C'est pourquoi SeaTable offre la possibilité de **masquer** les **tableaux** moins souvent utilisés. Un tableau masqué n'est plus affiché comme onglet dans l'en-tête de la base et ne peut être appelé que par le **menu déroulant**.
 
 ![Masquer les tableaux](images/Tabellen-ausblenden.gif)
 

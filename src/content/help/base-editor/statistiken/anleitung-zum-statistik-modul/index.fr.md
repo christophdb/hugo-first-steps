@@ -31,7 +31,7 @@ Vous avez la possibilité de choisir parmi différents **types** de graphiques e
 
 ### Paramètres de données
 
-7. Définissez la **table** et **l'affichage** à partir desquels les statistiques doivent obtenir les données.
+7. Définissez le **tableau** et **la vue** à partir desquels les statistiques doivent obtenir les données.
 8. Selon le graphique, vous pouvez définir différents **paramètres de données** - dans le cas d'un diagramme à colonnes, par exemple, quelles valeurs vous souhaitez afficher sur les **axes X et Y**. Vous pouvez également définir le type de graphique que vous souhaitez utiliser.
 
 ![Créer un nouveau graphique dans le module Statistiques.](images/Dateneinstellungen.png)
