@@ -40,8 +40,8 @@ This is illustrated by the following example:
 
 - An employee list that is relevant to multiple user groups (e.g., HR, Accounting, and Internal Communications) can be made available to your team members via common dataset as a **template for new tables**.
 - After your team members import the common dataset into a base, they can add columns to the table as they wish and customize it to their specific use cases (e.g., vacation scheduling, payroll, distribution list for internal newsletters).
-- The tables accessing a common data record can be **synchronized** at any time, i.e. compared with the latest version of the data record (e.g. when new employees join or leave).
-- There is a top-down relationship here: changes to the common data set are transferred to the dependent tables during synchronization. However, changes in these tables have **no** effect on the underlying data set.
+- The tables accessing a common dataset can be **synchronized** at any time, i.e. compared with the latest version of the data record (e.g. when new employees join or leave).
+- There is a top-down relationship here: changes to the common dataset are transferred to the dependent tables during synchronization. However, changes in these tables have **no** effect on the underlying data set.
 
 {{< warning headline="Further information" >}}
 

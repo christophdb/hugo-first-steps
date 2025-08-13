@@ -12,7 +12,7 @@ SeaTable est un outil puissant qui vous permet d'organiser vos données de mani�
 
 Dans **les bases de données de groupe**, vous travaillez en commun et en temps réel sur les données. Si un utilisateur effectue une modification ou un complément, celle-ci est immédiatement affichée à tous les autres membres du groupe. Grâce à l'**historique**, vous pouvez suivre l'évolution de la situation actuelle et - si nécessaire - annuler certaines modifications.
 
-Si vous souhaitez mettre des données à la disposition d'une autre personne ou d'un groupe, vous pouvez **partager** une base avec eux en quelques clics - en interne, en externe ou via des **jeux de données partagés**.
+Si vous souhaitez mettre des données à la disposition d'une autre personne ou d'un groupe, vous pouvez **partager** une base avec eux en quelques clics - en interne, en externe ou via des **jeux de données communs**.
 
 Les **commentaires** et **les notifications** permettent notamment une communication efficace dans SeaTable.
 
@@ -20,7 +20,7 @@ Dans ce qui suit, vous découvrirez les fonctions de collaboration de SeaTable. 
 
 - comment travailler efficacement ensemble sur des bases au sein d'un groupe,
 - où vous pouvez voir les modifications apportées par les autres utilisateurs,
-- ce que sont les ensembles de données communs,
+- ce que sont les jeux de données communs,
 - comment partager des données avec d'autres utilisateurs et groupes,
 - comment partager des bases avec des tiers externes et
 - comment améliorer la communication au sein de l'équipe avec SeaTable.
@@ -35,7 +35,7 @@ Pour que vous puissiez à tout moment savoir qui a apporté quelles modification
 
 ## Ensembles de données communs
 
-Vous pouvez mettre à disposition des différents groupes et utilisateurs de votre équipe les enregistrements dont ils ont besoin en utilisant les [enregistrements partagés]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) comme modèle pour les nouvelles tables. Chaque table que les membres de votre équipe créent avec un enregistrement commun peut être [synchronisée]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}). SeaTable remplace alors les données de la table par celles de l'enregistrement partagé actuel, de sorte que tout le monde soit au même niveau.
+Vous pouvez mettre à disposition des différents groupes et utilisateurs de votre équipe les enregistrements dont ils ont besoin en utilisant les [jeux de données communs]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) comme modèle pour les nouvelles tables. Chaque table que les membres de votre équipe créent avec un jeu de données commun peut être [synchronisée]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}). SeaTable remplace alors les données de la table par celles du jeu de données commun actuel, de sorte que tout le monde soit au même niveau.
 
 ## Partages internes
 

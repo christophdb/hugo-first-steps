@@ -1,5 +1,5 @@
 ---
-title: 'Management of a common data set'
+title: 'Management of a common dataset'
 date: 2024-06-11
 lastmod: '2024-06-11'
 categories:
@@ -8,13 +8,13 @@ author: 'kgr'
 url: '/help/verwaltung-eines-gemeinsamen-datensatzes'
 ---
 
-Once you have created a common data set, you can perform various operations to manage your data set. You can access the overview of your common datasets via the start page.
+Once you have created a common dataset, you can perform various operations to manage your data set. You can access the overview of your common datasets via the start page.
 
 ## How to manage your common datasets
 
 1. Open the **home page** of SeaTable.
 
-![Management of a common data set](images/overview-common-datasets.png)
+![Management of a common dataset](images/overview-common-datasets.png)
 
 2. Click on **common dataset**. You are now in the **overview** of all common datasets.
 3. Move the mouse over a common dataset and click on the **three dots** on the far right.
@@ -26,15 +26,15 @@ Once you have created a common data set, you can perform various operations to m
 
 ## Retrieve details of a common dataset
 
-If you use common data sets extensively in your team, it can be easy to lose track. With which **groups** is a common dataset shared and in which **bases** is it integrated? You can view this information under **Details**.
+If you use common datasets extensively in your team, it can be easy to lose track. With which **groups** is a common dataset shared and in which **bases** is it integrated? You can view this information under **Details**.
 
 ![Details of a common dataset](images/Details-of-a-common-dataset.png)
 
 ![Common dataset details](images/Common-dataset-details.png)
 
-## Rename a common data set
+## Rename a common dataset
 
-If you want to change the **name** of your common data set, simply click on **Rename**.
+If you want to change the **name** of your common dataset, simply click on **Rename**.
 
 ![Rename common dataset option](images/Rename-common-dataset-option.png)
 
@@ -44,9 +44,9 @@ Enter the new name and confirm with **Send**.
 
 ## Manage access authorizations
 
-You can use the **Manage access** option to share your common data set with another group or withdraw access again. You can find out exactly how this works [here]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
+You can use the **Manage access** option to share your common dataset with another group or withdraw access again. You can find out exactly how this works [here]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
-## Force synchronization with the common data set
+## Force synchronization with the common dataset
 
 As the creator of a common dataset, you can force the **synchronization** of dependent tables. You can find out the consequences and advantages of this [here]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 

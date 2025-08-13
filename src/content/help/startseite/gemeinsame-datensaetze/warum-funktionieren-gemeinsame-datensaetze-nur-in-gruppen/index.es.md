@@ -1,5 +1,5 @@
 ---
-title: '¿Por qué los registros compartidos sólo funcionan en grupo? - Mesa de mar'
+title: '¿Por qué los registros compartidos sólo funcionan en grupo?'
 date: 2022-12-15
 lastmod: '2022-12-15'
 categories:
@@ -16,7 +16,7 @@ También se hace referencia a esta circunstancia mediante un breve **texto infor
 
 ![Tenga en cuenta si desea publicar un registro compartido desde una vista de una base en el área "Mis bases".](images/common-dataset-hinweis.png)
 
-## Limitación de bypass
+## Eludir la limitación
 
 Para poder crear un registro común a partir de una vista de tabla de una base que **no** pertenezca a un grupo, existe una forma sencilla de sortear la limitación técnica descrita anteriormente:
 

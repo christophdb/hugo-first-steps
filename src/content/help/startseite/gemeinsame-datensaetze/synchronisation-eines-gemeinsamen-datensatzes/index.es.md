@@ -1,5 +1,5 @@
 ---
-title: 'Sincronización de un conjunto de datos común - SeaTable'
+title: 'Sincronización de un conjunto de datos compartidos'
 date: 2022-12-15
 lastmod: '2024-06-12'
 categories:
@@ -54,8 +54,8 @@ Si la sincronización se realiza correctamente, aparece el siguiente mensaje:
 
 ![Elija las bases para la sincronización con el conjunto de datos común](images/Choose-bases-for-sync-with-common-dataset.png)
 
-5. Seleccione las **bases** que desea sincronizar con el conjunto de datos compartidos.
-6. Confirme con **Forzar sincronización**.
+4. Seleccione las **bases** que desea sincronizar con el conjunto de datos compartidos.
+5. Confirme con **Forzar sincronización**.
 
 Puede utilizar esta función para asegurarse de que los demás usuarios utilizan el estado actual del conjunto de datos compartidos en sus bases. De lo contrario, deberá confiar en que los usuarios hayan activado la sincronización automática o realicen ellos mismos la sincronización de forma periódica.
 
@@ -63,10 +63,10 @@ Puede utilizar esta función para asegurarse de que los demás usuarios utilizan
 
 ## Efectos de la sincronización en la mesa
 
-### Líneas
+### Filas
 
 - Las filas contenidas en la tabla pero no en el registro de datos compartidos se **eliminan** de la tabla.
-- Las líneas contenidas tanto en la tabla como en el registro de datos compartidos se **sobrescriben** en la tabla si se han realizado cambios desde la última sincronización.
+- Las filas contenidas tanto en la tabla como en el registro de datos compartidos se **sobrescriben** en la tabla si se han realizado cambios desde la última sincronización.
 - Las filas que no están contenidas en la tabla pero sí en el registro de datos compartidos se **añaden** a la tabla.
 - Las filas que se han filtrado en el registro de datos compartidos desde la última sincronización también **desaparecen** de la tabla.
 

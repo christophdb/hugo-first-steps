@@ -1,5 +1,5 @@
 ---
-title: 'Registros compartidos'
+title: 'Conjuntos de datos compartidos'
 description: ''
-url: '/es/ayuda/pagina-de-inicio/registros-compartidos'
+url: '/es/ayuda/pagina-de-inicio/conjuntos-de-datos-compartidos'
 ---

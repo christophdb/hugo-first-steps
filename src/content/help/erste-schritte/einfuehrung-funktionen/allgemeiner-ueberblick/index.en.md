@@ -28,7 +28,7 @@ For authors, nothing is worse than a blank sheet of paper - and in SeaTable, not
 
 ## Cooperation
 
-As a collaboration platform, SeaTable offers multiple features for efficient [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) - for example, group bases, sharing, and shared data sets, to name a few.
+As a collaboration platform, SeaTable offers multiple features for efficient [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) - for example, group bases, sharing, and common datasets, to name a few.
 
 ## Statistics and data analysis
 

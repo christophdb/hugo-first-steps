@@ -20,8 +20,8 @@ You can create new bases in SeaTable not only empty or from a template, but also
 
 ## Import problems with missing shares or permissions
 
-Among other things, with **automations** and **shared data sets**, problems can arise if the exporter of a DTABLE file has certain permissions or shares that another team member lacks.
+Among other things, with **automations** and **common datasets**, problems can arise if the exporter of a DTABLE file has certain permissions or shares that another team member lacks.
 
-For example, if a user imports a base without proper **permissions** and **shares**, they will **not** be able to access shared records or run automations.
+For example, if a user imports a base without proper **permissions** and **shares**, they will **not** be able to access common datasets or run automations.
 
 {{< warning  headline="Tip"  text="Make sure that other users have all the necessary permissions before providing them with a DTABLE file to import a base." />}}

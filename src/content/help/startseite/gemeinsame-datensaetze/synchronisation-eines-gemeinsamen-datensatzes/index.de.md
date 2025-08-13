@@ -48,8 +48,9 @@ Bei einer erfolgreichen Synchronisation erscheint folgende Meldung:
 1. Wechseln Sie von der Startseite in den Bereich **Gemeinsame Datensätze**.
 2. Fahren Sie mit der Maus über den **gemeinsamen Datensatz**, den Sie synchronisieren möchten, und klicken Sie ganz rechts auf die **drei Punkte**.
 3. Klicken Sie auf **Sync erzwingen**.
-   ![Choose bases for sync with common dataset](images/Choose-bases-for-sync-with-common-dataset.png)5. Wählen Sie die **Bases** aus, die Sie mit dem gemeinsamen Datensatz synchronisieren wollen.
-4. Bestätigen Sie mit **Sync erzwingen**.
+   ![Choose bases for sync with common dataset](images/Choose-bases-for-sync-with-common-dataset.png)
+4. Wählen Sie die **Bases** aus, die Sie mit dem gemeinsamen Datensatz synchronisieren wollen.
+5. Bestätigen Sie mit **Sync erzwingen**.
 
 Mit dieser Funktion können Sie sicherstellen, dass die anderen Nutzer in ihren Bases den aktuellen Stand des gemeinsamen Datensatzes verwenden. Ansonsten müssen Sie darauf vertrauen, dass die Benutzer die automatische Synchronisation aktiviert haben oder die Synchronisation regelmäßig selbst durchführen.
 

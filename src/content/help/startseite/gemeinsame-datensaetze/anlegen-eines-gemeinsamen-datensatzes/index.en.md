@@ -1,5 +1,5 @@
 ---
-title: 'Creating a common data set'
+title: 'Creating a common dataset'
 date: 2022-11-21
 lastmod: '2024-06-13'
 categories:

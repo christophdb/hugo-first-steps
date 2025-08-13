@@ -22,6 +22,6 @@ Dans SeaTable, vous pouvez non seulement créer de nouvelles bases vides ou à p
 
 Des problèmes peuvent survenir, entre autres, lors d'**automatisations** et d'**ensembles de données communs**, si l'exportateur d'un fichier DTABLE dispose de certaines autorisations ou de certains partages dont un autre membre de l'équipe ne dispose pas.
 
-Si un utilisateur importe une base sans **les autorisations** et **les partages** appropriés, il ne pourra **pas**, par exemple, accéder aux enregistrements partagés ou exécuter des automatisations.
+Si un utilisateur importe une base sans **les autorisations** et **les partages** appropriés, il ne pourra **pas**, par exemple, accéder aux jeux de données communs ou exécuter des automatisations.
 
 {{< warning  headline="Conseil"  text="Assurez-vous que les autres utilisateurs disposent de toutes les autorisations nécessaires avant de leur fournir un fichier DTABLE pour l'importation d'une base." />}}
