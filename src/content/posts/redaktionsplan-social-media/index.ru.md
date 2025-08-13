@@ -8,7 +8,7 @@ tags:
     - 'Планирование контента'
 url: '/ru/redaktsionnyy-kalendar-social-media'
 aliases:
-    - /ru/reisekostenabrechnung
+    - /ru/redaktionsplan-social-media
 color: '#cc0512'
 seo:
     title:

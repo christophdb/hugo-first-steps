@@ -8,7 +8,7 @@ tags:
     - 'Planificación de contenidos'
 url: '/es/calendario-editorial-social-media'
 aliases:
-    - /es/reisekostenabrechnung
+    - /es/redaktionsplan-social-media
 color: '#cc0512'
 seo:
     title:
