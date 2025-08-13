@@ -2,7 +2,7 @@
 title: 'Написать предложение'
 description: ''
 date: '2025-04-06'
-url: '/ru/shablon/kommercheskoe-predlozhenie'
+url: '/ru/shablon/upravleniya-kommercheskimi-predlozheniyami'
 aliases:
     - '/ru/шаблон/quotation-management'
 category: 'sales'
