@@ -70,6 +70,6 @@ Comments are visible to all persons with access to the table. This also includes
 
 Comments cannot be copied or migrated and are only saved where they were originally made. The behavior is as follows:
 
-- When [duplicating lines]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}}), no comments are copied. This also applies to the **fill handle** and the **copying and pasting** of rows.
+- When [duplicating rows]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}}), no comments are copied. This also applies to the **fill handle** and the **copying and pasting** of rows.
 - Tables that you [import from other bases](https://seatable.com/de/hilfe/eine-tabelle-in-einer-base-hinzufuegen/#tabelle-aus-einer-anderen-base-importieren) or create from a [common dataset]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}) also do not contain any comments.
 - Comments are also not saved in [snapshots]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) or [exported files]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}).

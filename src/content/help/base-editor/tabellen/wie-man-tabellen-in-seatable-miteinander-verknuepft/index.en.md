@@ -66,7 +66,7 @@ You can even add a **new row** to a **linked table** via the link dialog without
 
 1. Click in a **cell of** the link column.
 2. Click on the **linked entry** you want to edit.
-3. The **line details** open. Make the desired **changes** there.
+3. The **row details** open. Make the desired **changes** there.
 4. **Close** the window to **save** the changes.
 
 ## Remove links

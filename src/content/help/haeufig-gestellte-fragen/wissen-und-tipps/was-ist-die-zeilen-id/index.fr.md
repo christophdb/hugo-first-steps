@@ -18,6 +18,6 @@ L'**ID de ligne** est la **désignation unique d'une ligne** qui, contrairement 
 
 ![Extraire l'ID de ligne de l'URL](images/get-row-id-from-url.png)
 
-## Pas de détermination de l'ID de ligne par formule
+## Lire l'ID de ligne par formule
 
-Actuellement, la **colonne de formules** n'offre pas la possibilité de lire l'ID de la ligne.
+La **colonne de formules** offre la possibilité d'afficher les ID de toutes les lignes en même temps. La formule **rowid()** renvoie l'ID de chaque ligne. Celle-ci peut ensuite être utilisée, par exemple, pour des actions de boutons ou des automatisations.

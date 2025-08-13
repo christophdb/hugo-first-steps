@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/farbliche-markierung-von-zeilen'
 ---
 
-With the help of the **rows-format tool** you can set colored markings at the **beginning of lines**. The color **marking of rows** serves the quick identification of certain data sets. This is not to be confused with [coloring cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), which allows you to highlight individual cells.
+With the help of the **rows-format tool** you can set colored markings at the beginning of rows. The **color marking of rows** serves the quick identification of certain data sets. This is not to be confused with [coloring cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}), which allows you to highlight individual cells.
 
 ## The rows-format tool
 
@@ -26,7 +26,7 @@ After clicking on the rows-format tool, you can choose between **three options**
 
 ## Use single selection column
 
-For the **Use single selection column** option, you need a column of this type in your table. This allows you to mark each row at the **beginning of the line** with the color of the respective option that is entered in this column.
+For the **Use single selection column** option, you need a column of this type in your table. This allows you to mark each row at the beginning with the color of the respective option that is entered in this column.
 
 ![Color marking of cells](images/Farbliche-Markierung-von-Zellen-3.png)
 
@@ -59,7 +59,7 @@ In this example, all rows in an editorial plan that are marked as completed in t
 
 In this example, we only want to highlight rows the editorial plan in color if the **status** of the post is not "finished", the **publication date** is in the future and an **image** already exists.
 
-![Rule with several conditions for the colored line marking](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
+![Rule with several conditions for the colored row marking](images/Regel-mit-mehreren-Bedingungen-fuer-die-farbliche-Zeilenmarkierung.png)
 
 ## Highlight duplicates
 
