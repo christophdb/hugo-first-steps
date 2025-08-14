@@ -10,7 +10,7 @@ url: '/help/bearbeiten-und-loeschen-eines-existierenden-api-token'
 
 SeaTable allows to create any number of API tokens for a base. Therefore, it is recommended to create a separate token for each interface, app or development. These tokens can be deleted or their authorization changed at any time.
 
-You can edit and delete the API tokens either on the home page or, as a team admin, also via Team Management.
+You can edit and delete the API tokens either on the home page or, as a team admin, also via Team administration.
 
 ## API token management from the home page
 
@@ -23,7 +23,7 @@ On the SeaTable home page, you manage your API tokens each within a Base.
 3. Expand the **Advanced** section and select **API Tokens**.
 4. Edit the existing API tokens with {{< seatable-icon icon="dtable-icon-rename" color="grey" >}} or delete a token with {{< seatable-icon icon="dtable-icon-more-level" color="grey" >}} and then **Delete**.
 
-## Manage API tokens via team management
+## Manage API tokens via Team administration
 
 {{< required-version "Team Administrators" >}}
 

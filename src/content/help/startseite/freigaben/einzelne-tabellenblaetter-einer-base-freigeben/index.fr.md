@@ -1,5 +1,5 @@
 ---
-title: "Partager les tables individuelles d'une base"
+title: "Partager les tableaux individuelles d'une base"
 date: 2022-11-16
 lastmod: '2023-02-22'
 categories:
@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/einzelne-tabellenblaetter-einer-base-freigeben'
 ---
 
-Vous ne souhaitez pas **partager** une base entière, mais **des tables individuelles**? Vous pouvez le faire en **définissant un partage personnalisé** avec certains [utilisateurs]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}) entiers.
+Vous ne souhaitez pas **partager** une base entière, mais **des tableaux individuels**? Vous pouvez le faire en **définissant un partage personnalisé** avec certains [utilisateurs]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}}) entiers.
 
 ## Partager des tableaux individuels via la page d'accueil
 

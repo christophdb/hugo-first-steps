@@ -40,7 +40,7 @@ Si ce paramètre **est activé**, la base concernée ne peut plus être exporté
 
 En activant ce paramètre, vous pouvez **empêcher** les autres utilisateurs d'[imprimer]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) les différentes vues de tableau de votre base.
 
-Si ce paramètre **est activé**, les différentes vues de tableau de la base concernée ne peuvent plus être imprimées par **personne** jusqu'à ce que le paramètre soit à nouveau désactivé par un propriétaire ou un administrateur. L'option d'impression correspondante dans les options d'affichage est affichée **en grisé** pour tous les utilisateurs et ne peut **plus** être cliquée. De plus, une **remarque** indique que les utilisateurs **n'** ont **pas** l'autorisation d'imprimer les vues de la table.
+Si ce paramètre **est activé**, les différentes vues de tableau de la base concernée ne peuvent plus être imprimées par **personne** jusqu'à ce que le paramètre soit à nouveau désactivé par un propriétaire ou un administrateur. L'option d'impression correspondante dans les options d'affichage est affichée **en grisé** pour tous les utilisateurs et ne peut **plus** être cliquée. De plus, une **remarque** indique que les utilisateurs **n'** ont **pas** l'autorisation d'imprimer les vues du tableau.
 
 ![Option grisée pour imprimer les vues de tableau d'une base si l'option "Empêcher l'impression d'une base" est activée pour tous les utilisateurs dans les paramètres de sécurité](images/no-permission-for-printing-table-views-due-security-settings-all-users.png)
 

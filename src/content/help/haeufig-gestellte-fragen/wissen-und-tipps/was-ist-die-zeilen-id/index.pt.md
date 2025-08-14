@@ -18,6 +18,6 @@ A **identificação da linha** é a **designação única de uma linha** que, ao
 
 ![Ler a identificação da linha a partir do URL](images/get-row-id-from-url.png)
 
-## Nenhuma determinação da identificação da linha por fórmula
+## Leia o ID da linha através da fórmula
 
-Actualmente, a **coluna da fórmula** não oferece a possibilidade de ler o ID da linha.
+A coluna **Fórmula** oferece a opção de exibir os IDs de todas as linhas simultaneamente. A fórmula **rowid()** devolve-lhe o ID de cada linha. Isto pode então ser utilizado para acções de botão ou automações, por exemplo.

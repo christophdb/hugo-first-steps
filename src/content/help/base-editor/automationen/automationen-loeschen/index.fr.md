@@ -37,5 +37,5 @@ Les effets de la suppression des automatismes sur les différentes actions peuve
 | Entrée de la serrure                              | Lorsque l'événement déclencheur se produit, les lignes ne sont plus bloquées pour le traitement. Les lignes déjà bloquées restent cependant bloquées. |
 | Modifier l'entrée                                 | Lorsque l'événement déclencheur se produit, plus aucune entrée n'est traitée.                                                                         |
 | Ajouter des liens                                 | Lorsque l'événement déclencheur se produit, plus aucun lien n'est ajouté.                                                                             |
-| Ajouter une nouvelle entrée dans un autre tableau | Lorsque l'événement déclencheur se produit, plus aucune entrée n'est ajoutée dans une autre table.                                                    |
+| Ajouter une nouvelle entrée dans un autre tableau | Lorsque l'événement déclencheur se produit, plus aucune entrée n'est ajoutée dans un autre tableau.                                                    |
 | Exécuter un script Python                         | Lorsque l'événement déclencheur se produit, les scripts Python ne sont plus exécutés.                                                                 |

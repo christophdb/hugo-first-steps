@@ -16,7 +16,7 @@ Esta circunstância é também referida por um pequeno **texto informativo** que
 
 ![Nota: se quiser publicar um registo partilhado a partir de uma base na área "As Minhas Bases".](images/common-dataset-hinweis.png)
 
-## Limitação de Bypass
+## Contornar a limitação
 
 Para poder criar um registo comum a partir de uma visão de tabela de uma base que **não** pertence a um grupo, há uma forma simples de contornar a limitação técnica acima descrita:
 

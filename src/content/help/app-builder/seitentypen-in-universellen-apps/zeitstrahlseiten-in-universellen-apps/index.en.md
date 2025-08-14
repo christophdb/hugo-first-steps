@@ -44,7 +44,7 @@ If you add a **grouping**, the bars can also be displayed in **swimlanes**. For 
 
 ## Edit or move an entry on the timeline
 
-You can easily edit entries by clicking on a **bar** and making the desired changes in the **line details** that open.
+You can easily edit entries by clicking on a **bar** and making the desired changes in the **row details** that open.
 
 ![Change entries on timeline pages](images/Eintraege-auf-Zeitstrahlseiten-aendern.gif)
 

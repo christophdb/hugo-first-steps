@@ -1,5 +1,5 @@
 ---
-title: 'Bases in the team management'
+title: 'Bases in the Team administration'
 date: 2023-01-18
 lastmod: '2023-01-19'
 categories:
@@ -12,10 +12,10 @@ If you are a **team administrator**, you can access all the bases in your team t
 
 ## How to access the bases in the team administration
 
-![Bases in the team management](images/bases-in-der-teamverwaltung.gif)
+![Bases in the Team administration](images/bases-in-der-teamverwaltung.gif)
 
 1. Click your **avatar image** in the upper right corner.
-2. Select the **Team Management** option from the drop-down menu.
+2. Select the **Team administration** option from the drop-down menu.
 3. Go to **Bases** on the left side under **Navigation**.
 4. Click on a **Base** to get more information and options about that Base.
 
@@ -53,23 +53,23 @@ Under **Delete** you have the option to delete the selected Base.
 
 ![Delete](images/Delete-1.png)
 
-## The trash
+## Trash
 
 All **deleted bases** are listed in the recycle bin. After **30 days**, the bases are automatically removed from the system. However, you can also **delete all** bases in the recycle bin manually. You can find out how to do this [here]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 To restore a base, click the respective base and operate the slider before clicking the **Restore Base** button.
 
-## Releases
+## Share
 
-Here are the **User and group sharing** listed for all bases. You can see **To whom** a base was released and which **Right** have the recipients of the release.
+Here are the **User and group shares** listed for all bases. You can see **with whom** a base was shared and which **Right** have the recipients of the share.
 
-{{< warning  headline="Important"  text="Please note that only **base** releases are shown here. **View releases** are **not** displayed!" />}}
+{{< warning  headline="Important"  text="Please note that only **base shares** are shown here. **View shares** are **not** displayed!" />}}
 
-Learn more about the release types in the following articles:
+Learn more about the share types in the following articles:
 
-- [Releasing a Base to a Group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
-- [Create a user share]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
-- [Create custom share]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}})
+- [Share a base with a group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
+- [Share a base with a user]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
+- [Create a custom sharing permission]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}})
 
 ## External links and invitation links
 

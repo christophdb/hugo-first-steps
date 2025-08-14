@@ -28,7 +28,7 @@ Pour les auteurs, rien n'est pire qu'une feuille de papier blanche - et dans Sea
 
 ## Coopération
 
-En tant que plateforme de collaboration, SeaTable offre de nombreuses fonctions pour une [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) efficace - par exemple des bases de groupes, des partages et des ensembles de données communs, pour n'en citer que quelques-unes.
+En tant que plateforme de collaboration, SeaTable offre de nombreuses fonctions pour une [collaboration]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}}) efficace - par exemple des bases de groupes, des partages et des jeux de données communs, pour n'en citer que quelques-unes.
 
 ## Statistiques et analyse des données
 

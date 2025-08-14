@@ -22,7 +22,7 @@ You have the option to print **row details** similar to [table views]({{< relref
 6. The **standard print window of** your device opens. Here you can make other settings and see a print preview.
 7. Complete the action by pressing **Print**.
 
-You can also print a row by opening the line details and using the shortcut {{< key "Ctrl" >}} + {{< key "P" >}} use
+You can also print a row by opening the row details and using the shortcut {{< key "Ctrl" >}} + {{< key "P" >}} use
 
 ## Compact and normal pressure
 

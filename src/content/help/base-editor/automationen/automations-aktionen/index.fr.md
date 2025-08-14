@@ -105,8 +105,8 @@ L'article [Ajouter des lignes par automation]({{< relref "help/base-editor/autom
 
 Si vous définissez "Verrouiller l'entrée" comme action automatisée, la **ligne** contenant l'entrée qui a déclenché l'automatisation sera **bloquée** pour l'édition. Notez que vous ne pouvez **pas** **débloquer** les lignes bloquées sans droits d'administrateur.
 
-![Définition de l'action d'automatisation : "Verrouiller une entrée dans la table".](images/action-lock-records.png)  
-![Blocage d'une entrée dans une table déclenché par une automatisation ](images/example-locked-records.png)
+![Définition de l'action d'automatisation : "Verrouiller une entrée dans le tableau".](images/action-lock-records.png)  
+![Blocage d'une entrée dans un tableau déclenché par une automatisation ](images/example-locked-records.png)
 
 L'action d'automatisation "Bloquer l'entrée" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
 
@@ -144,11 +144,11 @@ L'article [Lier des entrées par automatisation]({{< relref "help/base-editor/au
 
 ## Action d'automatisation : ajouter une nouvelle entrée dans un autre tableau
 
-Si vous sélectionnez "Ajouter une nouvelle entrée dans une autre table" comme action automatisée, une **entrée** est créée dans une **autre** table lorsque le **déclencheur** est **déclenché**. Dans les **paramètres** de la règle d'automatisation, vous pouvez alors définir des entrées individuelles qui seront ajoutées aux tables sélectionnées au cours de l'automatisation.
+Si vous sélectionnez "Ajouter une nouvelle entrée dans un autre tableau" comme action automatisée, une **entrée** est créée dans un autre tableau lorsque le **déclencheur** est **déclenché**. Dans les **paramètres** de la règle d'automatisation, vous pouvez alors définir des entrées individuelles qui seront ajoutées aux tableaux sélectionnés au cours de l'automatisation.
 
-![Action d'automatisation : "Ajouter une entrée dans une autre table".](images/action-add-records-to-another-table-new.png)
+![Action d'automatisation : "Ajouter une entrée dans un autre tableau".](images/action-add-records-to-another-table-new.png)
 
-L'action d'automatisation "Ajouter une nouvelle entrée dans une autre table" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
+L'action d'automatisation "Ajouter une nouvelle entrée dans un autre tableau" est actuellement disponible pour les **déclencheurs d'automatisation** suivants :
 
 - Si une nouvelle entrée est ajoutée
 - Les entrées remplissent certaines conditions après traitement
@@ -167,7 +167,7 @@ L'action d'automatisation "Convertir la page en PDF" est actuellement disponible
 
 ## Action d'automatisation : exécuter un script Python
 
-Si vous sélectionnez l'exécution d'un script Python comme action automatisée, SeaTable peut exécuter un **script Python** défini à l'avance dans la table sélectionnée. Vous pouvez créer ou modifier le script à tout moment dans l'[éditeur de script]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}), puis le sélectionner dans les **paramètres** de la règle d'automatisation.
+Si vous sélectionnez l'exécution d'un script Python comme action automatisée, SeaTable peut exécuter un **script Python** défini à l'avance dans le tableau sélectionné. Vous pouvez créer ou modifier le script à tout moment dans l'[éditeur de script]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}), puis le sélectionner dans les **paramètres** de la règle d'automatisation.
 
 ![Action d'automatisation : "Exécution d'un script Python".](images/action-run-python-script.png)
 
@@ -179,7 +179,7 @@ L'action d'automatisation "Exécuter un script Python" est actuellement disponib
 
 ## Action d'automatisation : exécuter une opération de traitement des données
 
-Si vous sélectionnez l'exécution d'une opération de traitement des données en tant qu'action automatisée, une [opération de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) définie au préalable dans la table est exécutée lorsque le **déclencheur est déclenché**. Vous pouvez définir l'opération de traitement des données à exécuter dans les **paramètres** de la règle d'automatisation.
+Si vous sélectionnez l'exécution d'une opération de traitement des données en tant qu'action automatisée, une [opération de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) définie au préalable dans le tableau est exécutée lorsque le **déclencheur est déclenché**. Vous pouvez définir l'opération de traitement des données à exécuter dans les **paramètres** de la règle d'automatisation.
 
 ![Définition d'une action d'automatisation : exécuter une opération de traitement des données](images/define-data-operation-to-run-with-automation.png)
 

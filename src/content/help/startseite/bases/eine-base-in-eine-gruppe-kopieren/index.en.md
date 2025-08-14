@@ -26,9 +26,9 @@ After copying, the corresponding base is located both at the **original location
 
 {{< /warning >}}
 
-## Copy a base linked to shared data records
+## Copy a base linked to common datasets
 
-If you copy a base that contains [shared data records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), you can decide whether you want to **retain** the **connection to these data records**. The group to which you copy the base must of course have [access to the shared data records]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
+If you copy a base that contains [common datasets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}), you can decide whether you want to **retain** the **connection to these data records**. The group to which you copy the base must of course have [access to the common datasets]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
 ![Retain link to common dataset when copying a base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
 

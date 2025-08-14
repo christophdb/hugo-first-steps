@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/datenverarbeitung-vergleichen-und-verknuepfen'
 ---
 
-La fonction de traitement des données vous permet d'effectuer diverses opérations sur une colonne. **Comparer et lier** est une opération qui vous permet de lier des enregistrements dans deux tables différentes si une valeur de colonne est identique dans les deux tables.
+La fonction de traitement des données vous permet d'effectuer diverses opérations sur une colonne. **Comparer et lier** est une opération qui vous permet de lier des enregistrements dans deux tableaux différents si une valeur de colonne est identique dans les deux tableaux.
 
 ## Mise en place de l'opération
 
@@ -20,7 +20,7 @@ La fonction de traitement des données vous permet d'effectuer diverses opérati
 
 ![Désignation de l'action de traitement des données et sélection du type d'opération](images/select-operation-type-example-compare-and-link.jpg)
 
-5. Définissez **deux tables** que vous souhaitez comparer et lier, et dans quelles **colonnes** les valeurs doivent correspondre pour que SeaTable relie les enregistrements entre eux.
+5. Définissez **deux tableaux** que vous souhaitez comparer et lier, et dans quelles **colonnes** les valeurs doivent correspondre pour que SeaTable relie les enregistrements entre eux.
 
 ![Définition de l'action de traitement des données](images/name-and-define-data-operation-compare-and-link-1.png)
 
@@ -45,20 +45,20 @@ Pour la mise en œuvre, vous avez tout d'abord besoin de deux tableaux : un tabl
 
 {{< warning  headline="Remarque importante" >}}
 
-Avec cette opération de traitement des données, vous n'avez **pas** besoin d'ajouter manuellement **des colonnes** à vos tables, car une [colonne de liaison]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) est automatiquement créée dans les deux tables lors de la première exécution.
+Avec cette opération de traitement des données, vous n'avez **pas** besoin d'ajouter manuellement **des colonnes** à vos tableaux, car une [colonne de liaison]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) est automatiquement créée dans les deux tableaux lors de la première exécution.
 
 {{< /warning >}}
 
-Pour créer l'opération de traitement des données, suivez les étapes décrites ci-dessus. Pour le cas d'application concret, sélectionnez les **tables** _Transactions_ et _Invoices_ ainsi que les _colonnes_**Amount** avec les montants respectifs qui doivent correspondre pour que les enregistrements soient reliés entre eux.
+Pour créer l'opération de traitement des données, suivez les étapes décrites ci-dessus. Pour le cas d'application concret, sélectionnez les **tableaux** _Transactions_ et _Invoices_ ainsi que les _colonnes_**Amount** avec les montants respectifs qui doivent correspondre pour que les enregistrements soient reliés entre eux.
 
 ![Définition de l'action de traitement des données](images/name-and-define-data-operation-compare-and-link-1.png)
 
-Si l'exécution est réussie, les tables _Transactions_ et _Factures_ sont analysées pour voir si elles correspondent dans les _colonnes de montants_ définies. Si les **montants** dans ces colonnes correspondent, un **lien** est établi entre les deux **tables**.
+Si l'exécution est réussie, les tableaux _Transactions_ et _Factures_ sont analysées pour voir si elles correspondent dans les _colonnes de montants_ définies. Si les **montants** dans ces colonnes correspondent, un **lien** est établi entre les deux **tableaux**.
 
-Dans ce cas, un lien avec la **transaction** correspondante de la table _Transactions_ est ajouté d'un côté de la **facture** correspondante dans la table _Invoices_.
+Dans ce cas, un lien avec la **transaction** correspondante du tableau _Transactions_ est ajouté d'un côté de la **facture** correspondante dans le tableau _Invoices_.
 
 ![Ajout d'un lien dans le tableau Invoices](images/table-invoices-after-operation.png)
 
-D'autre part, un lien est simultanément ajouté à la **transaction** correspondante dans la table _Transactions_ avec la **facture** correspondante de la table _Invoices_.
+D'autre part, un lien est simultanément ajouté à la **transaction** correspondante dans le tableau _Transactions_ avec la **facture** correspondante du tableau _Invoices_.
 
 ![Ajout d'un lien dans le tableau Transactions](images/table-transactions-after-operation.png)

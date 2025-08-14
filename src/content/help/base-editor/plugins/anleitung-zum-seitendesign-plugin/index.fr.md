@@ -21,7 +21,7 @@ Consultez l'article [Activer un plugin dans une base]({{< relref "help/base-edit
 3. Sélectionnez l'option **Créer une page vierge**.
 ![Sélectionner l'option Créer une page vierge](images/create-blank-page.png)
 4. Vous pouvez y trouver les **réglages**:
-    - Sélectionnez la **table** à partir de laquelle vous souhaitez utiliser les données.
+    - Sélectionnez le **tableau** à partir duquel vous souhaitez utiliser les données.
     - Décidez de la **taille du papier**.
     - Définissez le **format portrait** ou **paysage** pour la mise en page.
 ![Paramètres d'une page dans le plugin de conception de page](images/settings-page-design-plugin.png)
@@ -218,7 +218,7 @@ Dans le champ **Utilisateur actuel**, votre propre nom apparaît si vous êtes e
 
 ## Champs du tableau
 
-Le plug-in de conception de pages liste comme champs de tableau **toutes les colonnes du tableau** à partir desquelles vous pouvez intégrer des données dans la page. Comme le nombre et le type de colonnes déterminent les champs de tableau que vous pouvez sélectionner, vous disposez de différentes possibilités selon le tableau. Le contenu des champs dépend des données dans la table et change en fonction de l'entrée (enregistrement dans une ligne).
+Le plug-in de conception de pages liste comme champs de tableau **toutes les colonnes du tableau** à partir desquelles vous pouvez intégrer des données dans la page. Comme le nombre et le type de colonnes déterminent les champs de tableau que vous pouvez sélectionner, vous disposez de différentes possibilités selon le tableau. Le contenu des champs dépend des données dans le tableau et change en fonction de l'entrée (enregistrement dans une ligne).
 
 Si vous passez d'un enregistrement à l'autre à l'aide des options de navigation **Enregistrement précédent** et **Enregistrement suivant**, les champs du tableau affichent automatiquement les données d'autres lignes.
 

@@ -12,7 +12,7 @@ La formule Countlinks compte le nombre d'entrées liées du type de colonne **Li
 
 {{< warning  headline="La liaison des tableaux est une condition de base" >}}
 
-Vous ne pouvez créer une colonne avec la formule Countlinks que si vous avez lié deux tables entre elles. Lisez [ici comment créer un tel lien]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
+Vous ne pouvez créer une colonne avec la formule Countlinks que si vous avez lié deux tableaux entre elles. Lisez [ici comment créer un tel lien]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
 
 {{< /warning >}}
 

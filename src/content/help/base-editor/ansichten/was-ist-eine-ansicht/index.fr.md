@@ -22,7 +22,7 @@ Qu'est-ce que cela signifie ? Voici quelques **exemples de vues** que vous pouve
 - Si vous avez un tableau avec beaucoup de colonnes, vous pouvez créer une vue qui masque certaines colonnes, rendant ainsi le tableau plus clair.
 - Si vous disposez d'un tableau de rendez-vous clients, vous pouvez créer une vue de calendrier qui présente tous vos rendez-vous clients dans un calendrier mensuel.
 
-Il est important de comprendre qu'une vue n'est qu'une autre façon de voir **les mêmes données sous-jacentes**! Cela signifie que si vous modifiez les données d'une table dans une vue, ces données changent dans toutes les vues de la table, car toutes les vues considèrent le même ensemble de données.
+Il est important de comprendre qu'une vue n'est qu'une autre façon de voir **les mêmes données sous-jacentes**! Cela signifie que si vous modifiez les données d'un tableau dans une vue, ces données changent dans toutes les vues du tableau, car toutes les vues considèrent le même ensemble de données.
 
 ## Le tableau comme représentation standard d'une vue
 

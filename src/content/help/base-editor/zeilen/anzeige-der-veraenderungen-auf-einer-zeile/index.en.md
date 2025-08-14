@@ -13,7 +13,7 @@ SeaTable stores all changes that are made in a Base. Within a row the **rows-Log
 ## The rows-Log
 
 1. Move the mouse to the **numbering field of** a row and click the **double arrow icon**.
-2. In the opened **Line Details** window, click the square **door icon** in the upper right corner.
+2. In the opened **row details** window, click the square **door icon** in the upper right corner.
 3. The window expands. Click **Logs** to the right of the comments.
 
 ![Display of changes in a row through logs.](images/Logs.png)  

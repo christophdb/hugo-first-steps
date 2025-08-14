@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/benachrichtigungsregel-erstellen'
 ---
 
-Les **règles de notification** vous permettent d'envoyer automatiquement des notifications à des utilisateurs sélectionnés dès qu'un **événement déclencheur** défini au préalable se produit dans l'une de vos tables. Les règles de notification sont donc fondamentalement comparables aux [automatisations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), mais contrairement à ces dernières, elles sont déjà disponibles avec un abonnement gratuit.
+Les **règles de notification** vous permettent d'envoyer automatiquement des notifications à des utilisateurs sélectionnés dès qu'un **événement déclencheur** défini au préalable se produit dans l'une de vos tableaux. Les règles de notification sont donc fondamentalement comparables aux [automatisations]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}), mais contrairement à ces dernières, elles sont déjà disponibles avec un abonnement gratuit.
 
 ## Créer une règle de notification
 
@@ -39,7 +39,7 @@ En outre, selon le déclencheur, vous pouvez limiter le nombre de **colonnes sur
 
 ![Événements déclencheurs d'une règle de notification à sélectionner](images/trigger-conditions-notification-rule.png)
 
-Pour finir, définissez l'**action** qui sera exécutée lorsque le déclencheur sera déclenché. Pour cela, sélectionnez d'abord les **utilisateurs** auxquels SeaTable doit envoyer une notification. Vous pouvez sélectionner tous les utilisateurs qui ont **accès** à la table sélectionnée.
+Pour finir, définissez l'**action** qui sera exécutée lorsque le déclencheur sera déclenché. Pour cela, sélectionnez d'abord les **utilisateurs** auxquels SeaTable doit envoyer une notification. Vous pouvez sélectionner tous les utilisateurs qui ont **accès** au tableau sélectionné.
 
 ![Sélection des utilisateurs qui doivent être informés après le déclenchement de la règle de notification](images/select-users-to-get-notified-1.png)
 

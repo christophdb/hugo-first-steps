@@ -10,13 +10,13 @@ url: '/fr/aide/tipps-und-tricks-beim-import-von-csv-oder-xlsx-dateien'
 
 SeaTable vous permet d'**importer** des fichiers **CSV** et **Excel (.xlsx)** dans vos bases. Pour que l'importation des données se déroule comme prévu et qu'aucune donnée ne soit perdue, nous avons résumé pour vous les principaux **conseils et astuces** lors de l'importation de fichiers CSV ou XLSX. Si vous suivez ces conseils et astuces, vous réussirez à importer vos données dans SeaTable :
 
-- Importer uniquement des structures de table
-- Créer la structure de la table dans SeaTable avant l'importation
+- Importer uniquement des structures de tableau
+- Créer la structure du tableau dans SeaTable avant l'importation
 - Diviser l'importation
 - Assurer la qualité des données
 - Contrôler l'importation
 
-## Importez uniquement des structures de table
+## Importez uniquement des structures de tableau
 
 Il arrive souvent que des problèmes surviennent lors de l'importation de fichiers Excel lorsque ceux-ci contiennent **des structures** et des contenus **qui n'appartiennent pas au tableau**. Le graphique suivant illustre un tel cas. L'en-tête, la date et les colonnes A et D ne font pas partie du tableau et doivent être supprimés avant l'importation.
 

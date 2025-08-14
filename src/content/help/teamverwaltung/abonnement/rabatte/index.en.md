@@ -16,10 +16,10 @@ SeaTable grants public institutions a 25% discount, charitable non-profit organi
 
 If you have not yet registered a team on cloud.seatable.io, start by [registering]({{< relref "pages/registration" >}}). Always create a team with the free [subscription]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}) first. Then proceed as follows:
 
-1. Open the [team management](https://account.seatable.io).
+1. Open the [Team administration](https://account.seatable.io).
 2. Switch to the **Subscription** section.
 3. Click on **Are you a non-profit organization?**
-   ![Submit request for discount via team management](images/Antrag-auf-Rabatt-in-SeaTable.png)
+   ![Submit request for discount via Team administration](images/Antrag-auf-Rabatt-in-SeaTable.png)
 4. Fill out the **form** and click on **Send application**.
 
 ## Wait for feedback

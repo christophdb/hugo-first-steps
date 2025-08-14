@@ -14,11 +14,11 @@ However, users who no longer use the program can be set to **inactive** via the 
 Alternatively, you can simply use this link:  
 (you must of course be logged into cloud.seatable.io)
 
-[To the team management](https://account.seatable.io/team)
+[To the Team administration](https://account.seatable.io/team)
 
 ## Set user to inactive
 
-{{< warning  headline="Important note"  text="Users can be set to inactive by team admins **only**." />}}2. Open the **team management**. 3. Click on **Team**. 4. Click on any **user**. 5. **Activate** the **slider** next to the **"Disable user"** item. 6. Click **Save Changes**.
+{{< warning  headline="Important note"  text="Users can be set to inactive by team admins **only**." />}}2. Open the **Team administration**. 3. Click on **Team**. 4. Click on any **user**. 5. **Activate** the **slider** next to the **"Disable user"** item. 6. Click **Save Changes**.
 
 ![Deactivate inactive users via the "Team" tab in the team administration](images/deactivate-user.png)
 

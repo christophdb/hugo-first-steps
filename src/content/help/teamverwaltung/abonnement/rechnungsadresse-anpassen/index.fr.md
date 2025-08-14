@@ -10,11 +10,11 @@ url: '/fr/aide/rechnungsadresse-anpassen'
 
 {{< required-version "Administrateurs de l'équipe" >}}
 
-Vous souhaitez modifier votre adresse de facturation ? Pas de problème, grâce à la gestion d'équipe, cela se fait en quelques étapes.
+Vous souhaitez modifier votre adresse de facturation ? Pas de problème, grâce à l'administration d'équipe, cela se fait en quelques étapes.
 
 ## Adapter l'adresse de facturation
 
-{{< warning  headline="Remarque importante"  text="L'adresse de facturation de votre équipe ne peut être modifiée que par les **administrateurs de l'équipe**." />}}2. Ouvrez la **gestion d'équipe**. 3. Cliquez sur **Abonnement**. 4. Cliquez sur **"Personnaliser les informations de facturation".** 5. Enregistrez une **nouvelle** adresse de facturation. 6. Enregistrez la modification en cliquant sur **Modifier le destinataire de la facture**.
+{{< warning  headline="Remarque importante"  text="L'adresse de facturation de votre équipe ne peut être modifiée que par les **administrateurs de l'équipe**." />}}2. Ouvrez l'**administration d'équipe**. 3. Cliquez sur **Abonnement**. 4. Cliquez sur **"Personnaliser les informations de facturation".** 5. Enregistrez une **nouvelle** adresse de facturation. 6. Enregistrez la modification en cliquant sur **Modifier le destinataire de la facture**.
 
 ![Changement d'adresse de facturation](images/Rechnungsadresse-aendern.png)
 

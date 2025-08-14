@@ -10,7 +10,7 @@ url: '/fr/aide/team-logo-auf-der-seatable-startseite-austauschen'
 
 {{< required-version "Entreprise" >}}
 
-Les utilisateurs disposant de **droits d'administrateur** peuvent à tout moment changer le logo de l'équipe sur leur page d'accueil SeaTable en quelques clics via la gestion d'équipe. Par défaut, le logo SeaTable est affiché ici.
+Les utilisateurs disposant de **droits d'administrateur** peuvent à tout moment changer le logo de l'équipe sur leur page d'accueil SeaTable en quelques clics via l'administration d'équipe. Par défaut, le logo SeaTable est affiché ici.
 
 ![Le logo de l'équipe sur la page d'accueil](images/team-logo-seatable.png)
 
@@ -18,9 +18,9 @@ En plaçant le logo de leur entreprise, les utilisateurs disposant d'un abonneme
 
 ## Remplacer le logo de l'équipe sur la page d'accueil de SeaTable
 
-1. Passez à la **gestion d'équipe**.
+1. Passez à l'**administration d'équipe**.
 
-![Passez à la gestion d'équipe](images/open-team-admin.png)
+![Passez à l'administration d'équipe](images/open-team-admin.png)
 
 3. Cliquez sur l'option de menu **Équipe**.
 

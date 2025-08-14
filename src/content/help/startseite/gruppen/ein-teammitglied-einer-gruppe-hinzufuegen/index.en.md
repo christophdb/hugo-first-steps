@@ -29,14 +29,14 @@ Owners and administrators of a group can add members, remove members, and change
 
 If you do not find the person you are looking for, or more precisely, the autocomplete does not suggest the person you are looking for, it is most likely because this person is not part of your team. In this case, this other SeaTable user cannot be added to your group. Only with the help of an invitation link you can share a Base with this person and thus collaborate.
 
-## Add team members in the team management
+## Add team members in the Team administration
 
 Team members with administrator rights also have the option of managing all groups and their members in the team administration. The advantage of the team administration is that you can change the group membership and the respective permissions at the same time.
 
 1. Switch to the SeaTable **home** page.
-2. Click your **avatar image** in the upper right corner and then click **Team Management**.
+2. Click your **avatar image** in the upper right corner and then click **Team administration**.
 
-![Open the team management](images/open-team-admin.jpg)
+![Open the Team administration](images/open-team-admin.jpg)
 
 4. Switch to the **Team** area and there to the **Groups** tab.
 

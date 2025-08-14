@@ -76,9 +76,9 @@ SeaTable est une solution qui permet aux gens de travailler ensemble sur des pro
 
 ### Gestion de l'équipe
 
-La gestion d'équipe met diverses fonctions à la disposition des administrateurs de votre équipe. Vous pouvez entre autres gérer les membres de votre équipe et votre abonnement, consulter les factures ou créer des tickets d'assistance.
+L'administration d'équipe met diverses fonctions à la disposition des administrateurs de votre équipe. Vous pouvez entre autres gérer les membres de votre équipe et votre abonnement, consulter les factures ou créer des tickets d'assistance.
 
-[En savoir plus sur la gestion d'équipe →]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
+[En savoir plus sur l'administration d'équipe →]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 ### Abonnement et facturation
 

@@ -16,7 +16,7 @@ La liaison entre les enregistrements est l'une des fonctions centrales de SeaTab
 
 - **Plus de clarté**: en reliant les tableaux entre eux, vous créez une structure claire et concise. Au lieu de stocker toutes les informations dans un seul tableau et de risquer des redondances, vous pouvez gérer les données apparentées - comme les dépenses et les catégories - dans des tableaux séparés. Vos données restent ainsi cohérentes et les doublons sont évités.
 - **Analyse de données plus flexible**: les tableaux liés permettent de combiner et d'analyser de manière ciblée des données provenant de différentes sources. Il est par exemple possible d'analyser rapidement et facilement toutes les dépenses d'une certaine catégorie ou d'un département.
-- **Une gestion des données plus simple**: les modifications apportées à une table centrale sont automatiquement répercutées dans toutes les tables liées. Vos données restent ainsi toujours à jour et cohérentes, sans que vous ayez à les gérer plusieurs fois.
+- **Une gestion des données plus simple**: les modifications apportées à un tableau centrale sont automatiquement répercutées dans toutes les tableaux liés. Vos données restent ainsi toujours à jour et cohérentes, sans que vous ayez à les gérer plusieurs fois.
 
 ## Étendre la structure de la base
 
@@ -40,9 +40,9 @@ Pour pouvoir créer des liens, nous avons besoin d'un deuxième tableau, que nou
 
 ## Relier les lignes entre les deux tableaux
 
-Pour relier les enregistrements des deux tables, vous avez deux possibilités :
+Pour relier les enregistrements des deux tableaux, vous avez deux possibilités :
 
-1. Vous pouvez attribuer à une entrée de la table `Expenses` manuellement une ligne de la table `Categories` en cliquant à l'intérieur de la cellule sur le bouton {{< key "+" >}} puis sélectionner la catégorie appropriée. Cela devient vite fastidieux et source d'erreurs lorsque le volume de données est important.  
+1. Vous pouvez attribuer à une entrée du tableau `Expenses` manuellement une ligne du tableau `Categories` en cliquant à l'intérieur de la cellule sur le bouton {{< key "+" >}} puis sélectionner la catégorie appropriée. Cela devient vite fastidieux et source d'erreurs lorsque le volume de données est important.  
    ![](images/level1-link-rows.png)
 2. Vous pouvez également utiliser la [Options de traitement des données]({{< relref "help/base-editor/datenverarbeitung/datenverarbeitungsoperationen-in-seatable" >}}) de SeaTable pour automatiser la mise en place des liens.  
    ![](images/level1-data-operation.png)
@@ -60,9 +60,9 @@ En outre, vous devez définir les paramètres suivants pour que SeaTable sache c
 
 ![](images/level1-auto-add-link.png)
 
-Cliquez sur Exécuter pour effectuer l'opération. Vous constaterez que toutes les lignes de la table `Expenses` avec une ligne du tableau `Categories` ont été liés.
+Cliquez sur Exécuter pour effectuer l'opération. Vous constaterez que toutes les lignes du tableau `Expenses` avec une ligne du tableau `Categories` ont été liés.
 
-{{< warning  headline="Si des liens manquent"  text="Si certaines lignes n'ont pas de lien après l'opération de traitement des données, vous avez probablement fait une faute de frappe sur les quatre entrées de la table `Categories`. Corrigez la faute de frappe et exécutez à nouveau l'opération de traitement des données." />}}
+{{< warning  headline="Si des liens manquent"  text="Si certaines lignes n'ont pas de lien après l'opération de traitement des données, vous avez probablement fait une faute de frappe sur les quatre entrées du tableau `Categories`. Corrigez la faute de frappe et exécutez à nouveau l'opération de traitement des données." />}}
 
 ## Supprimer la colonne inutile
 

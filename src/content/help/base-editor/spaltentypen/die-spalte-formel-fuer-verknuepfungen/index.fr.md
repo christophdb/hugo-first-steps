@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/die-spalte-formel-fuer-verknuepfungen'
 ---
 
-Une formule pour les liens vous permet **d'afficher, de fusionner ou de mettre en relation des données de tables liées** dans votre table actuelle. C'est là que SeaTable fait valoir ses avantages en tant que base de données relationnelle.
+Une formule pour les liens vous permet **d'afficher, de fusionner ou de mettre en relation des données de tableaux liés** dans votre tableau actuel. C'est là que SeaTable fait valoir ses avantages en tant que base de données relationnelle.
 
 Pour le type de colonne, vous disposez au total de **cinq formules différentes**. La condition préalable à l'utilisation de la colonne est la présence d'au moins une colonne de type [lien vers d'autres entrées]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}) dans votre table.
 
@@ -22,8 +22,8 @@ Pour appliquer une formule, vous devez d'abord ajouter une nouvelle colonne de f
 2. Donnez un **nom** à la colonne.
 3. Sélectionnez **Formule pour les liens** comme type de colonne.
 4. Choisissez une **formule** (par exemple, un rollup).
-5. Sélectionnez la **colonne de lien** de la table dont vous souhaitez utiliser les données.
-6. Indiquez la **colonne de la table liée** à laquelle la formule doit se référer.
+5. Sélectionnez la **colonne de lien** du tableau dont vous souhaitez utiliser les données.
+6. Indiquez la **colonne du tableau lié** à laquelle la formule doit se référer.
 7. Selon la formule choisie, vous pouvez effectuer **d'autres réglages**.
 8. Créez la colonne en cliquant sur **Envoyer**.
 

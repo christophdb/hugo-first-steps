@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/wo-finde-ich-meine-rechnungen'
 ---
 
-Vous pouvez consulter et télécharger vos factures en quelques clics via la gestion d'équipe. Vous les trouverez dans l'onglet Abonnement.
+Vous pouvez consulter et télécharger vos factures en quelques clics via l'administration d'équipe. Vous les trouverez dans l'onglet Abonnement.
 
 Vous pouvez aussi simplement utiliser ce lien :  
 (vous devez bien sûr être connecté à cloud.seatable.io)
@@ -17,12 +17,12 @@ Vous pouvez aussi simplement utiliser ce lien :
 
 ## Consulter les factures
 
-1. Ouvrez la **gestion d'équipe**.
+1. Ouvrez l'**administration d'équipe**.
 2. Cliquez sur **Abonnement**.
 3. Cliquez sur **Factures**.
 4. Vous pouvez maintenant afficher toutes les factures disponibles et les trier également par **statut de paiement**, **montant** ou **numéro de facture**.
 
-![vos factures dans la gestion d'équipe SeaTable.](images/seatable-rechnungen-teamverwaltung.png)
+![vos factures dans l'administration d'équipe SeaTable.](images/seatable-rechnungen-teamverwaltung.png)
 
 ## Télécharger la facture au format PDF
 

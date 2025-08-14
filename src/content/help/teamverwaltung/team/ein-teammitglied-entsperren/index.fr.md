@@ -20,7 +20,7 @@ Le membre de l'équipe ne peut plus rien faire par ses propres moyens à ce stad
 
 ## Déblocage par l'administrateur de l'équipe
 
-1. Passez à la **gestion d'équipe**.
+1. Passez à l'**administration d'équipe**.
 2. Cliquez sur l'option de menu **Équipe**.
 3. Sélectionnez le **membre de l'équipe** bloqué.
 4. Désactivez le curseur **Désactiver l'utilisateur**.

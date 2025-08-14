@@ -16,7 +16,7 @@ Passez à votre tableau `Expenses` et supprimez toutes les lignes saisies jusqu'
 
 ## Importation de nouveaux enregistrements
 
-SeaTable offre de nombreuses possibilités d'importation. Vous pouvez ainsi importer des bases entières par fichier .dtable, .csv ou .xlsx. Mais même si vous avez déjà une base, vous pouvez écrire de nouvelles données ou des données mises à jour directement dans une table. C'est ce que nous voulons faire maintenant à l'aide d'un fichier CSV. Nous aurions également pu utiliser un fichier Excel.
+SeaTable offre de nombreuses possibilités d'importation. Vous pouvez ainsi importer des bases entières par fichier .dtable, .csv ou .xlsx. Mais même si vous avez déjà une base, vous pouvez écrire de nouvelles données ou des données mises à jour directement dans un tableau. C'est ce que nous voulons faire maintenant à l'aide d'un fichier CSV. Nous aurions également pu utiliser un fichier Excel.
 
 - Téléchargez le fichier [expenses.csv](/expenses.csv) suivant
 - Importez maintenant le fichier CSV dans le tableau `Expenses`

@@ -15,7 +15,7 @@ As a **team administrator**, you can create new team members via the **team admi
 ![Add a new team member](images/ein-neues-teammitglied-hinzufuegen.gif)
 
 1. Click on your **profile** in the upper right corner.
-2. Select the **Team Management** option from the drop-down menu.
+2. Select the **Team administration** option from the drop-down menu.
 3. Click on the **Team** menu item under **Navigation**.
 4. Click the **Add Team Member** button.
 5. A new window will open. Set the **user name**.
@@ -35,7 +35,7 @@ You **cannot** add a **team member** who has already created another SeaTable ac
 You can set the following **security options** by activating the corresponding sliders:
 
 - Decide if you want your new team member to become an **administrator of** the team.
-- Decide if you want your new team member to go through **2-factor authentication**.
+- Decide if you want your new team member to go through **two-factor authentication**.
 
 ![Add team member security settings](images/Security_Teammitglied-hinzufuegen.png)
 

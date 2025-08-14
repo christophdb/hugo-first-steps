@@ -23,7 +23,7 @@ SeaTable vous laisse toute latitude pour organiser vos données. Excel, par exem
 
 SeaTable permet de stocker des informations textuelles, des images et des fichiers. Les champs à sélection unique permettent une catégorisation claire, les champs à sélection multiple une indexation rapide. Les codes-barres, les données de géolocalisation, les références aux personnes et d'autres types de champs vous permettent de réunir toutes les données en un seul endroit.
 
-Et SeaTable n'offre pas seulement un support de format plus riche grâce à [plus de 20 types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). En tant qu'application de base de données, SeaTable prend en charge les relations entre les enregistrements de différentes tables, ce qui offre un large éventail d'applications inimaginables dans Excel.
+Et SeaTable n'offre pas seulement un support de format plus riche grâce à [plus de 20 types de colonnes]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). En tant qu'application de base de données, SeaTable prend en charge les relations entre les enregistrements de différents tableaux, ce qui offre un large éventail d'applications inimaginables dans Excel.
 
 ### ... présente vos données comme vous le souhaitez
 

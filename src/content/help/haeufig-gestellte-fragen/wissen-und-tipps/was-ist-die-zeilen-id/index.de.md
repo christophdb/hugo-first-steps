@@ -18,6 +18,6 @@ Die **Zeilen-ID** ist die **eindeutige Bezeichnung einer Zeile**, die sich im Ge
 
 ![Zeilen-ID aus der URL auslesen](images/get-row-id-from-url.png)
 
-## Kein Ermitteln der Zeilen-ID per Formel
+## Zeilen-ID per Formel auslesen
 
-Aktuell bietet die **Formel-Spalte** keine Möglichkeit, die Zeilen-ID auszulesen.
+Die **Formel-Spalte** bietet die Möglichkeit, die IDs aller Zeilen gleichzeitig anzuzeigen. Die Formel **rowid()** gibt die ID jeder Zeile zurück. Diese lässt sich dann z. B. bei Schaltflächen-Aktionen oder Automationen verwenden.

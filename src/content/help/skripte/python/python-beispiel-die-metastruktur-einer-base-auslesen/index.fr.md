@@ -12,7 +12,7 @@ Cet article vous présente un script Python qui permet d'afficher la métastruct
 
 ## La métastructure d'une base
 
-La métastructure d'une base décrit les tables, les colonnes et les vues d'une base. Les entrées et les enregistrements dans les lignes ne sont pas inclus dans la métastructure. La structure JSON suivante décrit une base relativement simple avec seulement une table, deux colonnes et une vue.
+La métastructure d'une base décrit les tableaux, les colonnes et les vues d'une base. Les entrées et les enregistrements dans les lignes ne sont pas inclus dans la métastructure. La structure JSON suivante décrit une base relativement simple avec seulement un tableau, deux colonnes et une vue.
 
 ```json
 {
@@ -128,9 +128,9 @@ for table in metadata['tables']:
     print("  --> "+column['name']+" ("+column['type']+")")
 ```
 
-Que se passe-t-il exactement ? Tout d'abord, vous demandez à Python d'enregistrer toutes les tables avec un **for**\-pour passer à travers la boucle. Ensuite, utilisez **print** le nom du tableau et son ID. Vous voyez également ici comment accéder aux différents éléments à l'aide des crochets.
+Que se passe-t-il exactement ? Tout d'abord, vous demandez à Python d'enregistrer tous les tableaux avec un **for**\-pour passer à travers la boucle. Ensuite, utilisez **print** le nom du tableau et son ID. Vous voyez également ici comment accéder aux différents éléments à l'aide des crochets.
 
-Répétez la même chose pour les colonnes. Grâce à la **for**\-Toutes les colonnes de la table correspondante sont éditées dans la boucle d'affichage de l'état.
+Répétez la même chose pour les colonnes. Grâce à la **for**\-Toutes les colonnes du tableau correspondant sont éditées dans la boucle d'affichage de l'état.
 
 {{< warning  headline="Respecter les indentations en Python"  text="En Python, l'indentation des lignes est utilisée pour structurer le code. Cela permet de garder un code court et clair. C'est pourquoi il faut faire très attention aux indentations, car elles déterminent où la _boucle for_ se termine." />}}
 

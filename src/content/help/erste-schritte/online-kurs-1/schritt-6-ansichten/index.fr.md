@@ -14,7 +14,7 @@ Les vues vous permettent de déterminer quelles données d'un tableau doivent ê
 
 Un exemple : vous pourriez créer une vue qui n'affiche que les dépenses supérieures à 100 euros et les trier par date. Cela vous permettra de garder une trace des dépenses importantes.
 
-{{< warning  headline="Les modifications apportées aux données s'appliquent à toutes les vues"  text="Il est important de garder à l'esprit qu'une vue n'est qu'une représentation différente des mêmes données. Les modifications apportées aux enregistrements d'une vue se répercutent sur toutes les vues de la même table, car elles accèdent toutes au même enregistrement." />}}
+{{< warning  headline="Les modifications apportées aux données s'appliquent à toutes les vues"  text="Il est important de garder à l'esprit qu'une vue n'est qu'une représentation différente des mêmes données. Les modifications apportées aux enregistrements d'une vue se répercutent sur toutes les vues de le même tableau, car elles accèdent toutes au même enregistrement." />}}
 
 ## Créer une vue supplémentaire avec un regroupement
 

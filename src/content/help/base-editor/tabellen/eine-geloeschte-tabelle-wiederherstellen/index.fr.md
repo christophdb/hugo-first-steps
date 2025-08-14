@@ -1,5 +1,5 @@
 ---
-title: 'Récupérer une table supprimée'
+title: 'Récupérer un tableau supprimé'
 date: 2022-11-17
 lastmod: '2023-01-12'
 categories:

@@ -10,13 +10,13 @@ url: '/fr/aide/aendern-der-kreditkarte'
 
 {{< required-version "Administrateurs de l'équipe" >}}
 
-Vous souhaitez modifier la carte de crédit que vous avez utilisée pour payer votre abonnement à SeaTable ? Pas de problème, vous pouvez le faire en quelques étapes via la gestion d'équipe.
+Vous souhaitez modifier la carte de crédit que vous avez utilisée pour payer votre abonnement à SeaTable ? Pas de problème, vous pouvez le faire en quelques étapes via l'administration d'équipe.
 
 ## Changer de carte de crédit
 
-![Modifiez facilement votre carte de crédit via la gestion d'équipe](images/Aendern-der-Kreditkarte-1-1.png)
+![Modifiez facilement votre carte de crédit via l'administration d'équipe](images/Aendern-der-Kreditkarte-1-1.png)
 
-1. Ouvrez la **gestion d'équipe**.
+1. Ouvrez l'**administration d'équipe**.
 2. Cliquez sur **Abonnement**.
 3. Cliquez sur **"Personnaliser le mode de paiement**".
 4. Déposer une **nouvelle** carte de crédit.

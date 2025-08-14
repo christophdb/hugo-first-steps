@@ -8,11 +8,11 @@ author: 'vge'
 url: '/help/duplizieren-einer-zeile'
 ---
 
-In SeaTable you have several options to duplicate a row . To find out which is the best approach in your situation, read this article.
+In SeaTable you have several options to duplicate a row. To find out which is the best approach in your situation, read this article.
 
 ## Duplicate by right click
 
-Right-click on a row and select the **Duplicaterow** option from the drop-down menu. A new row is created with the same content.
+Right-click on a row and select the **Duplicate row** option from the drop-down menu. A new row is created with the same content.
 
 ![row and double content](images/duplicate-row-context-menu.png)
 

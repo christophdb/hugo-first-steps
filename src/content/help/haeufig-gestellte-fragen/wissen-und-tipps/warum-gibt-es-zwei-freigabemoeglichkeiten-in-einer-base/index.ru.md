@@ -39,4 +39,4 @@ url: '/ru/pomoshch/warum-gibt-es-zwei-freigabemoeglichkeiten-in-einer-base'
 - [Освобождение для группы]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-eine-gruppe" >}})
 - [Релиз по внешней ссылке]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}})
 
-Для получения дополнительной информации см. также статью [Base and view releases]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) at a glance.
+Для получения дополнительной информации см. также статью [Base and view shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) at a glance.

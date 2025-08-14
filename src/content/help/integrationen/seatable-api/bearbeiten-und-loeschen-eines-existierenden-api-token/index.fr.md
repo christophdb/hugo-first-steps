@@ -10,7 +10,7 @@ url: '/fr/aide/bearbeiten-und-loeschen-eines-existierenden-api-token'
 
 SeaTable permet de créer autant de jetons d'API que l'on veut pour une base. Il est donc recommandé de créer un token pour chaque interface, chaque app ou chaque développement. Ces tokens peuvent être supprimés ou leur autorisation modifiée à tout moment.
 
-Vous pouvez modifier et supprimer les tokens API soit sur la page d'accueil, soit, en tant qu'administrateur d'équipe, également via la gestion d'équipe.
+Vous pouvez modifier et supprimer les tokens API soit sur la page d'accueil, soit, en tant qu'administrateur d'équipe, également via l'administration d'équipe.
 
 ## Gestion des tokens API via la page d'accueil
 
@@ -27,4 +27,4 @@ Sur la page d'accueil de SeaTable, vous gérez vos jetons d'API dans une base.
 
 {{< required-version "Administrateurs de l'équipe" >}}
 
-Un administrateur d'équipe a également la possibilité, via la gestion d'équipe, de gérer les tokens API de toutes les bases auxquelles il a accès. Passez dans la gestion d'équipe et là, dans le domaine [API & intégrations](https://account.seatable.io/api). Vous y trouverez tous les tokens API que vous pouvez supprimer si nécessaire.
+Un administrateur d'équipe a également la possibilité, via l'administration d'équipe, de gérer les tokens API de toutes les bases auxquelles il a accès. Passez dans l'administration d'équipe et là, dans le domaine [API & intégrations](https://account.seatable.io/api). Vous y trouverez tous les tokens API que vous pouvez supprimer si nécessaire.

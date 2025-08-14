@@ -15,7 +15,7 @@ In addition, you can read out the [rows ID from the URL, which you need for]({{<
 ### There are two different ways to copy a rows URL:
 
 - Copy the rows URL via the context menu
-- Copying the rows URL via the line details
+- Copying the rows URL via the row details
 
 ## To copy the rows URL from the context menu
 
@@ -32,10 +32,10 @@ After successfully copying the rows URL, the following **success message** appea
 
 ## To copy the rows URL via the row details
 
-![Copying the rows URL via the line details](images/copy-URL-1.gif)
+![Copying the rows URL via the row details](images/copy-URL-1.gif)
 
 1. Open any **table**.
-2. Open the **line details** by clicking the **double arrow icon** next to the number of a row whose URL you want to copy.
+2. Open the **row details** by clicking the **double arrow icon** next to the number of a row whose URL you want to copy.
 3. Click the **link icon** next to the Row Details heading to copy the **rows URL.**
 
-{{< warning  headline="Tip"  text="You can also get the rows URL from the **search line of your browser** once you have opened the line details." />}}
+{{< warning  headline="Tip"  text="You can also get the rows URL from the **search line of your browser** once you have opened the row details." />}}

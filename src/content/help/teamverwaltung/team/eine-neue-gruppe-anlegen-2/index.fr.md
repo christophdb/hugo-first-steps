@@ -8,9 +8,9 @@ author: 'vge'
 url: '/fr/aide/eine-neue-gruppe-anlegen-2'
 ---
 
-En tant qu'administrateur d'équipe, vous pouvez créer de nouveaux groupes dans la gestion d'équipe. Pour ce faire, suivez ces instructions :
+En tant qu'administrateur d'équipe, vous pouvez créer de nouveaux groupes dans l'administration d'équipe. Pour ce faire, suivez ces instructions :
 
-1. Passez à la **gestion d'équipe**.
+1. Passez à l'**administration d'équipe**.
 2. Cliquez sous **Navigation** sur le point de menu **Équipe**.
 3. Sélectionnez la catégorie **Groupes**.
 4. Faites défiler la page jusqu'en bas et cliquez sur le bouton **Créer un groupe**.

@@ -84,7 +84,7 @@ Apprenez [ici]({{< relref "help/base-editor/automationen/beispiel-zeilen-per-aut
 
 ## Ajouter des entrées dans d'autres tableaux par automatisation
 
-Grâce à l'automatisation, vous ne devez plus effectuer manuellement des entrées dans d'autres tables, mais vous pouvez faire en sorte que ces étapes soient exécutées automatiquement. Le grand avantage est que le déclencheur ne doit pas se trouver dans la même table que l'action déclenchée. Cette automatisation est particulièrement avantageuse si vous utilisez différentes tables dont les contenus sont en relation les uns avec les autres.
+Grâce à l'automatisation, vous ne devez plus effectuer manuellement des entrées dans d'autres tableaux, mais vous pouvez faire en sorte que ces étapes soient exécutées automatiquement. Le grand avantage est que le déclencheur ne doit pas se trouver dans le même tableau que l'action déclenchée. Cette automatisation est particulièrement avantageuse si vous utilisez différents tableaux dont les contenus sont en relation les uns avec les autres.
 
 Apprenez [ici]({{< relref "help/base-editor/automationen/beispiel-eintraege-in-andere-tabellen-per-automation-hinzufuegen" >}}) comment ajouter des entrées dans d'autres tableaux par automatisation.
 

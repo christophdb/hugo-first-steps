@@ -60,7 +60,7 @@ To avoid truncated entries or large gaps between the values, you can **adjust th
 
 ## Add, open and edit entries in the Tree plugin
 
-To add a new entry in the Tree plugin, click on **\+ Add row** . The created row is automatically linked to the parent entry and grouped accordingly. You can then open the **line details** of the new entry and fill them in as required.
+To add a new entry in the Tree plugin, click on **\+ Add row** . The created row is automatically linked to the parent entry and grouped accordingly. You can then open the **row details** of the new entry and fill them in as required.
 
 ![Add, open and edit entries in the Tree plugin](images/Eintraege-im-Tree-Plugin-hinzufuegen-oeffnen-und-bearbeiten.gif)
 

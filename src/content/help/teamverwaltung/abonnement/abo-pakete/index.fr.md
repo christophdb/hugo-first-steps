@@ -18,7 +18,7 @@ L'abonnement gratuit à SeaTable est gratuit - [il suffit de s'inscrire]({{< rel
 
 ### SeaTable Cloud Plus
 
-L'abonnement Plus offre, pour 7€ par mois et par utilisateur, des tables illimitées, jusqu'à 50.000 lignes et 50 GB d'espace de stockage pour les fichiers dans vos bases. Le versionnage va jusqu'à 6 mois et les exécutions de Python passent à 5.000 avec le même nombre illimité de JavaScripts. Une nouveauté est l'extension des partages, ce qui est particulièrement important pour le travail en équipe. Les partages permettent une gestion flexible des tableaux et facilitent la coordination des données - partagez les bases et les tableaux individuellement avec les collaborateurs et les clients afin que chacun ne voie que ce qu'il doit voir.
+L'abonnement Plus offre, pour 7€ par mois et par utilisateur, des tableaux illimités, jusqu'à 50.000 lignes et 50 GB d'espace de stockage pour les fichiers dans vos bases. Le versionnage va jusqu'à 6 mois et les exécutions de Python passent à 5.000 avec le même nombre illimité de JavaScripts. Une nouveauté est l'extension des partages, ce qui est particulièrement important pour le travail en équipe. Les partages permettent une gestion flexible des tableaux et facilitent la coordination des données - partagez les bases et les tableaux individuellement avec les collaborateurs et les clients afin que chacun ne voie que ce qu'il doit voir.
 
 ### SeaTable Cloud Enterprise
 

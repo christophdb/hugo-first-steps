@@ -57,7 +57,7 @@ All users with access to the query page can then **edit** the **data records** t
 ![Edit query results on query pages of the app](images/Abfrageergebnisse-bearbeiten-auf-Abfrageseiten-der-App.gif)
 
 - Carry out a **successful data query**.
-- Move your mouse to the **line numbering** of the hit list and click on the **double arrow symbol** in front of the data record you want to edit.
+- Move your mouse to the **row numbering** of the hit list and click on the **double arrow symbol** in front of the data record you want to edit.
 - Make the desired changes in the open **row details**.
 - Click on the **x symbol** to close the window and save your changes.
 

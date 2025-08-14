@@ -10,15 +10,15 @@ url: '/fr/aide/hinterlegen-der-steuer-id'
 
 {{< required-version "Administrateurs de l'équipe" >}}
 
-Vous souhaitez enregistrer un identifiant fiscal dans SeaTable ? Pas de problème, c'est possible à tout moment en quelques étapes via la gestion d'équipe.
+Vous souhaitez enregistrer un identifiant fiscal dans SeaTable ? Pas de problème, c'est possible à tout moment en quelques étapes via l'administration d'équipe.
 
 ## Déposer le numéro d'identification fiscale
 
 Le dépôt du numéro d'identification fiscale est possible aussi bien lors de la **réservation** d'un abonnement qu'**ultérieurement**.
 
-![Le numéro d'identification fiscale peut être enregistré via l'onglet Abonnement dans la gestion d'équipe.](images/Hinterlegen-einer-Steuer-ID.png)
+![Le numéro d'identification fiscale peut être enregistré via l'onglet Abonnement dans l'administration d'équipe.](images/Hinterlegen-einer-Steuer-ID.png)
 
-1. Ouvrez la **gestion d'équipe**.
+1. Ouvrez l'**administration d'équipe**.
 2. Passez à la section **Abonnement**.
 3. Cliquez sur **"Personnaliser les informations de facturation".**
 4. Enregistrez un **numéro d'identification fiscale** dans le champ prévu à cet effet.
@@ -30,7 +30,7 @@ Après l'envoi du formulaire, votre numéro d'identification fiscale est automat
 
 Ce n'est qu'une fois la vérification effectuée avec succès que le numéro d'identification fiscale sera effectif et utilisé sur les futures factures. De même, l'aperçu du montant de la future facture ne sera adapté que lorsque l'ID fiscal aura été vérifié comme étant valable.
 
-![Traitement fiscal dans la gestion d'équipe de SeaTable.](images/steuerliche-Behandlung.png)
+![Traitement fiscal dans l'administration d'équipe de SeaTable.](images/steuerliche-Behandlung.png)
 
 ## Questions fréquentes sur le numéro d'identification fiscale
 

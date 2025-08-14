@@ -16,7 +16,7 @@ SeaTable accorde une remise de 25% aux institutions publiques, une remise standa
 
 Si vous n'avez pas encore enregistré d'équipe sur cloud.seatable.io, commencez par vous [inscrire]({{< relref "pages/registration" >}}). Commencez toujours par créer une équipe avec l'[abonnement gratuit]({{< relref "help/teamverwaltung/abonnement/abonnement-und-abrechnung-im-ueberblick" >}}). Ensuite, procédez comme suit :
 
-1. Ouvrez la [gestion d'équipe](https://account.seatable.io).
+1. Ouvrez [l'administration d'équipe](https://account.seatable.io).
 2. Passez à la section **Abonnement**.
 3. Cliquez sur **Êtes-vous une organisation à but non lucratif ?**
    ![Faire une demande de réduction via l'administration de l'équipe](images/Antrag-auf-Rabatt-in-SeaTable.png)

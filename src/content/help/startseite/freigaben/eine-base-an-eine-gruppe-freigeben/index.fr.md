@@ -40,4 +40,4 @@ Si vous vous trouvez actuellement **dans une base**, vous pouvez également cré
 - Les bases que vous avez **créées vous-même** peuvent être partagées à tout moment, tandis que les bases qui appartiennent à un groupe ne peuvent être partagées avec d'autres groupes que par les **propriétaires** et **les administrateurs**.
 - Un groupe auquel vous avez partagé une base ne possède **pas de droits de propriété** et ne peut donc **pas**, par exemple, modifier le nom de la base.
 
-Pour savoir comment partager **des tables et des vues individuelles** d'une base avec un groupe, consultez l'article [Créer un partage personnalisé]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).
+Pour savoir comment partager **des tableaux et des vues individuelles** d'une base avec un groupe, consultez l'article [Créer un partage personnalisé]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).

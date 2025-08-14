@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/fr/aide/einfuehrung-in-die-nutzung-der-seatable-api'
 ---
 
-L'API SeaTable est une interface standardisée qui permet d'effectuer pratiquement toutes les actions que l'utilisateur pourrait réaliser via l'interface web. L'API SeaTable permet de créer de nouvelles structures telles que des bases, des tables ou des lignes, mais aussi d'extraire des valeurs existantes.
+L'API SeaTable est une interface standardisée qui permet d'effectuer pratiquement toutes les actions que l'utilisateur pourrait réaliser via l'interface web. L'API SeaTable permet de créer de nouvelles structures telles que des bases, des tableaux ou des lignes, mais aussi d'extraire des valeurs existantes.
 
 ## Qu'est-ce qu'une API exactement ?
 

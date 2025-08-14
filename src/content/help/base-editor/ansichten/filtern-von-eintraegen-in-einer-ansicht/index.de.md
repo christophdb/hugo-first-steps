@@ -43,4 +43,6 @@ Sie können einen oder mehrere Filter erstellen, welche die erste Bedingung weit
 
 ## Filter neu anordnen
 
-Sie können Filter verschieben und neu anordnen, indem Sie die Maus auf der **Grifffläche** ![Icon zum Verschieben von Elementen](images/move-icon.png) gedrückt halten, ziehen und loslassen. ![Filtern von Einträgen sortieren](images/Filtern-von-Eintraegen-2.gif)
+Sie können Filter verschieben und neu anordnen, indem Sie die Maus auf der **Grifffläche** gedrückt halten, ziehen und loslassen. 
+
+![Filtern von Einträgen sortieren](images/Filtern-von-Eintraegen-2.gif)

@@ -1,5 +1,5 @@
 ---
-title: 'Rechercher une table'
+title: 'Rechercher un tableau'
 date: 2025-02-27
 lastmod: '2025-02-27'
 categories:
@@ -10,11 +10,11 @@ url: '/fr/aide/nach-einer-tabelle-suchen'
 
 Pour les bases avec un grand nombre de tableaux, tous les **onglets** ne peuvent plus être affichés **dans l'en-tête de la base**. De même, [les tableaux masqués]({{< relref "help/base-editor/tabellen/tabellen-ausblenden" >}}) ne peuvent plus être trouvés dans l'en-tête de la base. C'est pourquoi SeaTable offre la possibilité de rechercher un **tableau**.
 
-![Recherche d'une table](images/Search-for-a-table.png)
+![Recherche d'un tableau](images/Search-for-a-table.png)
 
 - Cliquez sur la **flèche déroulante** à droite du dernier tableau visible.
 - Faites défiler la **liste des tableaux** ou saisissez une partie du nom du tableau dans le **champ de recherche**.
-- Cliquez sur le **nom de la table** pour ouvrir la table souhaitée.
+- Cliquez sur le **nom du tableau** pour ouvrir le tableau souhaitée.
 
 Vous pouvez également trouver des tableaux dans l'en-tête de base à l'aide des **touches fléchées** {{< seatable-icon icon="dtable-icon-left-slide" >}} et {{< seatable-icon icon="dtable-icon-right-slide" >}}.
 

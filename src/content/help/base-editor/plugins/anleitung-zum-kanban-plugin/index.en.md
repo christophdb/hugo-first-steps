@@ -57,7 +57,7 @@ The entries in the column you specify under **Title** determine the **heading of
 ![Kanban plugin more settingne](images/weitere-einsellungen-kanban.png)  
 Here all **Columns** that you have created in your table. By activating the individual **Controller** the entries in the respective columns become visible as informative notes on the cards.
 
-{{< warning  headline="Note"  text="Open the **line details** by clicking on a card to see all information of a row , even if they are not activated in the Kanban board." />}}
+{{< warning  headline="Note"  text="Open the **row details** by clicking on a card to see all information of a row , even if they are not activated in the Kanban board." />}}
 
 ### Controller options
 

@@ -60,7 +60,7 @@ De plus, tous les utilisateurs peuvent **marquer les commentaires comme résolus
 
 ## Visibilité des commentaires
 
-Les commentaires sont visibles par toutes les personnes ayant accès à la table. Cela inclut les personnes qui accèdent à une table via un [partage de vue]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}).
+Les commentaires sont visibles par toutes les personnes ayant accès au tableau. Cela inclut les personnes qui accèdent à un tableau via un [partage de vue]({{< relref "help/startseite/freigaben/freigabe-einer-ansicht-an-ein-teammitglied" >}}).
 
 {{< warning headline="Pas de commentaires via les liens externes" text="Si vous partagez une base ou une vue via un lien externe, les utilisateurs ne pourront pas y voir de commentaires" />}}
 
@@ -71,5 +71,5 @@ Dans la base, **tous les commentaires des apps** qui s'appuient sur la base sont
 En principe, les commentaires ne peuvent être ni copiés ni migrés et ne sont enregistrés qu'à l'endroit où ils ont été faits à l'origine. Le comportement est le suivant:
 
 - Lors de la [duplication de lignes]({{< relref "help/base-editor/zeilen/duplizieren-einer-zeile" >}}), aucun commentaire n'est repris. Cela s'applique également à la **prise de remplissage** et **à la copie et au collage** de lignes.
-- Les tables que vous créez [à partir d'autres bases](https://seatable.com/de/hilfe/eine-tabelle-in-einer-base-hinzufuegen/#tabelle-aus-einer-anderen-base-importieren) ou à partir d'un [ensemble de données partagées]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}) ne contiennent pas non plus de commentaires.
+- Les tableaux que vous créez [à partir d'autres bases](https://seatable.com/de/hilfe/eine-tabelle-in-einer-base-hinzufuegen/#tabelle-aus-einer-anderen-base-importieren) ou à partir d'un [jeu de données commun]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}) ne contiennent pas non plus de commentaires.
 - Les commentaires ne sont pas non plus enregistrés dans les [instantanés]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) ou les [fichiers exportés]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}).

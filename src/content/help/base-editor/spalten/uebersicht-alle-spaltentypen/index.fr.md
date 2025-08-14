@@ -13,7 +13,7 @@ SeaTable permet de stocker des informations et des données dans des formats tr�
 
 - Outre les informations simples basées sur du texte (par ex. mots, chiffres, sommes d'argent), SeaTable prend également en charge le stockage d'informations complexes (par ex. fichiers, images, texte mis en forme, y compris les éléments insérés).
 - Les champs de sélection vous permettent de classer vos données dans des catégories définies et les fonctions de validation intégrées (par ex. URL, données de position) garantissent que vos données saisies sont disponibles dans un format uniforme et directement exploitable.
-- Les formules permettent d'effectuer des opérations arithmétiques et les jointures créent des relations entre les entrées de différentes tables, ce qui permet d'effectuer de puissantes opérations dans la base de données.
+- Les formules permettent d'effectuer des opérations arithmétiques et les jointures créent des relations entre les entrées de différents tableaux, ce qui permet d'effectuer de puissantes opérations dans la base de données.
 
 Découvrez ici SeaTables 25 types de colonnes différents !
 
@@ -137,7 +137,7 @@ Vous avez besoin de plus d'informations sur la colonne des formules ? Jetez un c
 
 Symbole : {{< seatable-icon icon="dtable-icon-link-other-record" >}} **Lien vers d'autres entrées**
 
-Dans les cellules de ce type de colonne, vous pouvez saisir un nombre quelconque de **références à des entrées dans d'autres tables** de la base. La colonne des liens est conçue pour représenter des relations entre des entrées de différents tableaux. Les relations 1:n et n:1 peuvent être représentées avec la colonne de liaison, tout comme les relations n:m. La colonne de liaison peut également être utilisée pour représenter les relations entre les tables.
+Dans les cellules de ce type de colonne, vous pouvez saisir un nombre quelconque de **références à des entrées dans d'autres tableaux** de la base. La colonne des liens est conçue pour représenter des relations entre des entrées de différents tableaux. Les relations 1:n et n:1 peuvent être représentées avec la colonne de liaison, tout comme les relations n:m. La colonne de liaison peut également être utilisée pour représenter les relations entre les tableaux.
 
 Vous trouverez plus d'informations sur le type de colonne Lien vers d'autres entrées [ici]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}).
 

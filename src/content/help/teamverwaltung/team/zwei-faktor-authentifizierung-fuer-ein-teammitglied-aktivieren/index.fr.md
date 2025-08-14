@@ -16,8 +16,8 @@ Les paragraphes suivants décrivent uniquement comment activer cette protection 
 
 ![Activer l'authentification à deux facteurs pour un membre de l'équipe](images/Zwei-Faktor-Authentifizierung-fuer-ein-Teammitglied-aktivieren.gif)
 
-1. Passez à la **gestion d'équipe**.
+1. Passez à l'**administration d'équipe**.
 2. Cliquez sur l'option **Équipe**.
 3. Sélectionnez le **membre de l'équipe**.
-4. Sous **Sécurité**, activez l'option **Authentification à 2 facteurs**.
+4. Sous **Sécurité**, activez l'option **Authentification à deux facteurs**.
 5. Cliquez sur **Enregistrer les modifications**.

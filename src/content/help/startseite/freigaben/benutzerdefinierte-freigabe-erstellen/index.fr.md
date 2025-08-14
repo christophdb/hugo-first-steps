@@ -10,17 +10,17 @@ url: '/fr/aide/benutzerdefinierte-freigabe-erstellen'
 
 {{< required-version "Plus" "Entreprise" >}}
 
-Une autorisation de partage personnalisée vous permet de partager simultanément **plusieurs tableaux et vues** d'une base. Cela vous épargne beaucoup de travail si vous souhaitez partager avec les membres de votre équipe de nombreuses tables et vues, mais pas une base entière.
+Une autorisation de partage personnalisée vous permet de partager simultanément **plusieurs tableaux et vues** d'une base. Cela vous épargne beaucoup de travail si vous souhaitez partager avec les membres de votre équipe de nombreuses tableaux et vues, mais pas une base entière.
 
-Malgré cette autorisation groupée, vous pouvez définir en détail l'**autorisation** souhaitée, car vous pouvez choisir individuellement pour chaque table et chaque vue si une autorisation de **lecture et d'écriture** ou une **autorisation de lecture** seule doit être accordée.
+Malgré cette autorisation groupée, vous pouvez définir en détail l'**autorisation** souhaitée, car vous pouvez choisir individuellement pour chaque tableau et chaque vue si une autorisation de **lecture et d'écriture** ou une **autorisation de lecture** seule doit être accordée.
 
-Vous pouvez par exemple décider d'accorder un accès en lecture et en écriture à la première table d'une base, un accès en lecture seule à la deuxième table et aucun accès à toutes les autres tables.
+Vous pouvez par exemple décider d'accorder un accès en lecture et en écriture au premier tableau d'une base, un accès en lecture seule au deuxième tableau et aucun accès à tous les autres tableaux.
 
 Une fois que vous avez créé un partage personnalisé, vous pouvez l'envoyer à **des membres de l'équipe** ou à **des groupes entiers**.
 
 ## Pour créer une autorisation de partage personnalisée
 
-Vous avez **deux** possibilités pour partager des tables et des vues individuelles d'une base :
+Vous avez **deux** possibilités pour partager des tableaux et des vues individuelles d'une base :
 
 - Depuis la **page d'accueil**
 - Via l'**icône de partage** dans la base
@@ -41,7 +41,7 @@ Vous avez **deux** possibilités pour partager des tables et des vues individuel
 
 ![Partage de feuilles de calcul individuelles à partir de la page d'accueil](images/share-single-tablesheets-from-the-base-options.png)
 
-1. Ouvrez la **base** à partir de laquelle vous souhaitez partager des tables ou des vues individuelles.
+1. Ouvrez la **base** à partir de laquelle vous souhaitez partager des tableaux ou des vues individuelles.
 2. Cliquez en haut à droite dans les **options de la base** sur **Partager** {{< seatable-icon icon="dtable-icon-share" >}}.
 3. La **fenêtre de partage** s'ouvre ensuite comme lors de la première étape. Suivez les **instructions en cliquant** ci-dessus à partir de l'étape 4 pour créer le partage.
 
@@ -79,7 +79,7 @@ En revanche, vous pouvez à la fois consulter et **modifier** les tableaux et le
 
 ## Modifier les autorisations de partage définies par l'utilisateur
 
-Vous pouvez modifier les autorisations de partage personnalisées a posteriori, en **supprimant** des **tables et des vues** individuelles du partage ou **en adaptant le type de partage**.
+Vous pouvez modifier les autorisations de partage personnalisées a posteriori, en **supprimant** des tableaux et des vues individuelles du partage ou **en adaptant le type de partage**.
 
 1. Cliquez sur **Autorisations de partage personnalisées** et passez la souris sur l'**autorisation** que vous souhaitez personnaliser.
 2. Cliquez sur l'**icône de crayon** qui apparaît {{< seatable-icon icon="dtable-icon-rename" >}}.

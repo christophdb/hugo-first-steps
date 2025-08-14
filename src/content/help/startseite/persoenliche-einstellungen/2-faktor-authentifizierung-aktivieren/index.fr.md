@@ -1,5 +1,5 @@
 ---
-title: "Activer l'authentification à 2 facteurs"
+title: "Activer l'authentification à deux facteurs"
 date: 2023-03-02
 lastmod: '2023-03-09'
 categories:
@@ -28,7 +28,7 @@ Ce code (appelé token) est typiquement généré à l'aide d'une **application 
 
 1. Sur la **page d'accueil** de SeaTable, cliquez sur l'image de votre avatar en haut à droite.
 2. Allez dans **Paramètres personnels**.
-3. Cliquez sur **Activer l'authentification à 2 facteurs**.
+3. Cliquez sur **Activer l'authentification à deux facteurs**.
 4. Scannez le **code QR** avec votre application 2FA et saisissez le **code à six chiffres**.
 5. Enregistrez les **jetons de remplacement** sur votre PC.
 
