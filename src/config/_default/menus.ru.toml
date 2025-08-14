@@ -87,14 +87,14 @@ weight = 36
 
 [[main]]
 name = "Продажи"
-parent = "Lösungen"
-pageRef = "pages/upravlenie-klientami"
+parent = "Pешения"
+pageRef = "pages/kundenmanagement"
 weight = 38
 
 [[main]]
 name = "Финансы"
-parent = "Lösungen"
-pageRef = "pages/cosdaite-financoviji-plan"
+parent = "Pешения"
+pageRef = "pages/finanzplan-erstellen"
 weight = 37
 
 [[main]]

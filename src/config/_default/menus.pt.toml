@@ -87,14 +87,14 @@ weight = 36
 
 [[main]]
 name = "Vendas"
-parent = "Lösungen"
-pageRef = "pages/gestao-de-clientes"
+parent = "Soluções"
+pageRef = "pages/kundenmanagement"
 weight = 38
 
 [[main]]
 name = "Finanças"
-parent = "Lösungen"
-pageRef = "pages/criar um plano financeiro"
+parent = "Soluções"
+pageRef = "pages/finanzplan-erstellen"
 weight = 37
 
 [[main]]

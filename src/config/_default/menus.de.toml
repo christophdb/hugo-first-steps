@@ -94,7 +94,7 @@ weight = 38
 [[main]]
 name = "Finance"
 parent = "Lösungen"
-pageRef = "pages/finanzplan-erstellen/"
+pageRef = "pages/finanzplan-erstellen"
 weight = 37
 
 [[main]]
