@@ -8,7 +8,7 @@ date: 2024-10-21
 categories:
     - 'customer-story'
 tags:
-    - 'Gestión de datos / visualización'
+    - 'Gestión y visualización de datos'
     - 'Administración pública'
 color: '#fbe337'
 url: '/es/effektive-datenverwaltung-beim-hceres-mit-seatable'

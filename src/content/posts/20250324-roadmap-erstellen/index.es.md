@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
     - 'best-practice'
 tags:
-    - 'Procesos de TI'
+    - 'Procesos informáticos'
     - 'Herramientas y plugins'
 color: '#eee8ca'
 url: '/es/roadmap-erstellen'

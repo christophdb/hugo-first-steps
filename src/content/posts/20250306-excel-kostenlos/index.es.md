@@ -8,7 +8,7 @@ date: 2025-03-06
 categories:
     - 'best-practice'
 tags:
-    - 'Toolings y plugins'
+    - 'Herramientas y plugins'
 url: '/es/excel-kostenlos'
 color: '#6d9c70'
 ---

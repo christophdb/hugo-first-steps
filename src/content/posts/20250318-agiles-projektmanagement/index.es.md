@@ -8,7 +8,7 @@ date: 2025-03-18
 categories:
     - 'best-practice'
 tags:
-    - 'Toolings y plugins'
+    - 'Herramientas y plugins'
 color: '#1eb0e5'
 url: '/es/agiles-projektmanagement'
 ---
