@@ -48,17 +48,17 @@ Numa base há um total de dois **ícones de partilha** com os quais se pode part
 
 ![Partilha de ícones numa base](images/share-icons-new-1.png)
 
-### Lançamento de uma base
+### Partilha de uma base
 
 - Toda a base (incluindo todas as **tabelas**, **vistas** e **dados**) é divulgada a outro utilizador.
 
-### Libertação de uma vista
+### Partilha de uma vista
 
 - Apenas a **vista** seleccionada **de uma tabela** é divulgada a outro utilizador.
 
 ## Características especiais
 
-### Ao libertar uma vista, há algumas características especiais que precisam de ser tidas em conta:
+Ao partilhar uma vista, há algumas características especiais que precisam de ser tidas em conta:
 
 - As colunas ocultas numa vista **não** são mostradas aos telespectadores da ligação da acção.
 - Se uma vista de tabela partilhada contiver links para as entradas de outra tabela que não tenha partilhado com o respectivo utilizador, o utilizador ainda pode **ver** as entradas correspondentes e, dependendo dos direitos que lhe tenha concedido para a vista partilhada, **editá-las** também.

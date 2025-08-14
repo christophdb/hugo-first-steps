@@ -14,10 +14,10 @@ For optimal design of your apps, you should of course **test** them before publi
 
 Basically, you can test your apps at any time by opening them in normal mode.
 
-1. Open the **Base** in which you want to test an app.
-2. Click **Apps** in the Base header.
+1. Open the **base** in which you want to test an app.
+2. Click **Apps** in the base header.
 
-![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
+![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
 
 4. Click on the **name of** the app to open it.
 

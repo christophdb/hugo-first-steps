@@ -17,7 +17,7 @@ Without activated big data storage, you can record a maximum of 100,000 rows in 
 ![How to activate the Big Data backend](images/activate-big-data.gif)
 
 1. Open any **base** in which you want to activate the **big data storage**.
-2. In the Base header, click the **three dots** in the upper right corner.
+2. In the base header, click the **three dots** in the upper right corner.
 3. Select the **Big Data Management** option.
 4. Click **Activate Big Data Function**.
 

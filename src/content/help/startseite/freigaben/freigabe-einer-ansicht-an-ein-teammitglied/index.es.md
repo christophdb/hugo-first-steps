@@ -19,7 +19,7 @@ Si concede a otro usuario derechos de edición sobre una vista compartida, éste
 ![Compartir una vista con un miembro del equipo](images/sharing-a-view-with-a-team-member-1.gif)
 
 1. Abra la **vista de** una tabla que desee compartir.
-2. Haga clic en **Compartir vista** y luego seleccione Compartir con el **usuario**.
+2. Haga clic en **Compartir vista** y luego seleccione **Compartir con el usuario**.
 3. Seleccione el **usuario** con el que desea compartir la vista.
 4. En el campo **Autorización**, decida si el miembro de su equipo sólo puede leer la vista o también editarla.
 5. **Nombre el** comunicado y confírmelo con **Enviar**.
@@ -48,17 +48,17 @@ En una base hay un total de dos **iconos de compartición** con los que puede co
 
 ![Compartir iconos en una base](images/share-icons-new-1.png)
 
-### Liberación de una base
+### Compartir una base
 
 - Se libera toda la base (incluidas todas las **tablas**, **vistas** y **datos**) a otro usuario.
 
-### Liberación de una vista
+### Compartir una vista
 
 - Sólo la **vista** seleccionada **de una tabla** se libera a otro usuario.
 
 ## Características especiales
 
-### Cuando se libera una vista, hay que tener en cuenta algunas características especiales:
+Cuando se libera una vista, hay que tener en cuenta algunas características especiales:
 
 - Las columnas ocultas en una vista **no** se muestran a los espectadores del enlace compartido.
 - Si una vista de tabla compartida contiene enlaces a las entradas de otra tabla que no ha compartido con el usuario correspondiente, éste podrá seguir **viendo** las entradas correspondientes y, en función de los derechos que le haya concedido para la vista compartida, también **editarlas**.

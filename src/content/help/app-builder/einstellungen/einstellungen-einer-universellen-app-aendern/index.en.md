@@ -13,8 +13,8 @@ Within a **universal app**, you can make various **global settings** that affect
 ## Change the settings of a universal app
 
 1. Open a **base** in which you want to edit an existing app.
-2. Click **Apps** in the Base header.
-![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
+2. Click **Apps** in the base header.
+![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
 3. Hover your mouse over the app and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 ![Edit apps](images/Apps-bearbeiten.png)
 4. Click the **gear icon** at the top left of the page.
@@ -59,7 +59,7 @@ You can also set whether you want to **enable loading comments from the underlyi
 
 ## Big Data Management
 
-This section is only relevant if you have activated the [big data storage]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) in your Base. Apps can then access data in the big data storage and save entries created via the app directly there. However, new entries are saved in the base by default. To set the Big Data storage as the **storage location for new entries**, simply activate the slider. As the screenshot shows, you can specify for each table whether new rows should be written to the base (empty box) or to the big data storage (checked box).
+This section is only relevant if you have activated the [big data storage]({{< relref "help/base-editor/big-data/aktivieren-des-big-data-backends-in-einer-base" >}}) in your base. Apps can then access data in the big data storage and save entries created via the app directly there. However, new entries are saved in the base by default. To set the Big Data storage as the **storage location for new entries**, simply activate the slider. As the screenshot shows, you can specify for each table whether new rows should be written to the base (empty box) or to the big data storage (checked box).
 
 ![Big data management in apps](images/Big-data-management-in-apps.png)
 

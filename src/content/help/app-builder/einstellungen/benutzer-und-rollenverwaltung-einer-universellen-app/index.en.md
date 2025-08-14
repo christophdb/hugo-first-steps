@@ -14,10 +14,10 @@ Whether it is adding **new users**, assigning **roles** or creating **invitation
 
 ## User and role management of the Universal App
 
-1. Open a **Base** to which you have already added a Universal App.
-2. Click **Apps** in the Base header.
+1. Open a **base** to which you have already added a Universal App.
+2. Click **Apps** in the base header.
 
-![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
+![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
 
 4. Hover your mouse over the app and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 
@@ -49,16 +49,16 @@ To add a user to the app, click **Import User**, search for the **user** using t
 
 ![Import a user to your app](images/import-users-to-app.png)
 
-Click **Synchronize users with Base** to automatically collect the **app users** in a table of your Base.
+Click **Synchronize users with base** to automatically collect the **app users** in a table of your base.
 
 ![Click Synchronize user with base](images/click-sync-users-to-base-1.jpg)  
 ![Table in which app users are automatically collected](images/table-with-app-users.png)
 
-If you add more users this way in the future, you can always click **Synchronize users with Base** again to add the **new users** to the table.
+If you add more users this way in the future, you can always click **Synchronize users with base** again to add the **new users** to the table.
 
 ![If you add more users to your app in the future, ...](images/if-you-add-more-users-to-your-app.png)
 
-![... you can always click Synchronize users with Base again to add the new users to the table automatically.](images/added-imported-app-users-to-table.png)
+![... you can always click Synchronize users with base again to add the new users to the table automatically.](images/added-imported-app-users-to-table.png)
 
 To **delete** a user from the app, simply click on the **X icon**, which you can find to the right of the status of the respective user.
 
@@ -66,7 +66,7 @@ To **delete** a user from the app, simply click on the **X icon**, which you can
 
 By clicking on the **pen icons** {{< seatable-icon icon="dtable-icon-rename" >}}, which you can find for each user, you can edit their **role** and **status**.
 
-{{< warning  headline="Important note"  text="Please note that the **user** who added the Universal App to Base is automatically registered as **Admin**. Both role and status of this user **cannot** be edited and the user cannot **be** removed from the app." />}}
+{{< warning  headline="Important note"  text="Please note that the **user** who added the Universal App to base is automatically registered as **Admin**. Both role and status of this user **cannot** be edited and the user cannot **be** removed from the app." />}}
 
 ![Editing icons for each user ](images/edit-icons-users.jpg)
 

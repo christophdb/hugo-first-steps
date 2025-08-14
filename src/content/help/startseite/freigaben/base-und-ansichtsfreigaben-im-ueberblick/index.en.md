@@ -14,7 +14,7 @@ In this explanation and overview article, you will learn about the **sharing opt
 
 ## Permissions for shares
 
-In SeaTable, you have the ability to give **specific people or groups** access to Bases, Tables, and Views to work collaboratively with the data. While this has many benefits for **teamwork**, there may be **confidential information** that you don't want everyone on the team to have access to.
+In SeaTable, you have the ability to give **specific people or groups** access to bases, Tables, and Views to work collaboratively with the data. While this has many benefits for **teamwork**, there may be **confidential information** that you don't want everyone on the team to have access to.
 
 That's why SeaTable allows you to define tiered permissions on each share. By specifying whether it should be a **read-only** share, a **read-and-write** share, or a [custom share]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}), you retain full control over **who is** **authorized to do what** in your base, table, or view. Of course, this means you also have the ability to **change** and **revoke** permissions.
 
@@ -29,22 +29,22 @@ Each share - whether for a base, table or view - is assigned a permission level.
 - **Sharing with read** permissions: Read permissions allow users to view tables and data and change view settings such as filters and groupings. However, users cannot make changes to tables and data with this permission.
 - **Share with read and write** permissions: With read and write sharing, users can make changes to tables and data, but they cannot install plugins or share the base or view with other people or groups.
 
-To give you even more options when sharing a Base than you have with the two basic permissions, SeaTable also offers [custom sharing permissions]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) on Bases. With a custom share permission, you can **share** **multiple tables and views** with different permission levels in a Base in one fell swoop.
+To give you even more options when sharing a base than you have with the two basic permissions, SeaTable also offers [custom sharing permissions]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}) on bases. With a custom share permission, you can **share** **multiple tables and views** with different permission levels in a base in one fell swoop.
 
 Each share, regardless of the assigned authorization, can be **terminated** at any time by the owner or an administrator.
 
-## Sharing options for Bases
+## Sharing options for bases
 
-The share of a Base can be made to different groups of persons:
+The share of a base can be made to different groups of persons:
 
 - [Share a base with a user]({{< relref "help/startseite/freigaben/anlegen-einer-benutzerfreigabe" >}})
 - [Share a base with a group]({{< relref "help/startseite/freigaben/eine-base-an-eine-gruppe-freigeben" >}})
 - [Share via invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}})
 - [Share via external link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}})
 
-Sharing to a user or group lets you share the base **within your team**. Sharing by invitation link allows you to give access to a Base to people **outside your team** (but inside SeaTable). External link lets you share bases or views externally, whether someone has a SeaTable account or not.
+Sharing to a user or group lets you share the base **within your team**. Sharing by invitation link allows you to give access to a base to people **outside your team** (but inside SeaTable). External link lets you share bases or views externally, whether someone has a SeaTable account or not.
 
-All these shares are done via the **Share** **dialog** - a window that you can reach via the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} in the Base options or via the SeaTable **home** page. There, move the mouse cursor to the **Base** you want to share and click on the **three dots** that appear on the right. Then open the share dialog by clicking on **Share**.
+All these shares are done via the **Share** **dialog** - a window that you can reach via the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} in the base options or via the SeaTable **home** page. There, move the mouse cursor to the **base** you want to share and click on the **three dots** that appear on the right. Then open the share dialog by clicking on **Share**.
 
 ## Manage base shares
 
@@ -60,7 +60,7 @@ If you don't want to [share]({{< relref "help/startseite/freigaben/einzelne-tabe
 
 ## Shares for views
 
-You create the share of a view in the opened table. When you are in the view you want to share, click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} in the view options. Do not confuse this with the Share icon of Base.
+You create the share of a view in the opened table. When you are in the view you want to share, click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} in the view options. Do not confuse this with the Share icon of base.
 
 ![Sharing icons in a base](images/share-icons-new-1.png)
 
@@ -72,4 +72,4 @@ You will then be taken to the familiar **Share dialog**, where you can create yo
 
 As soon as you click the **Submit** button for a share option, the selected person or group can access the view with the granted permission. To share a view with multiple users or groups, repeat this process.
 
-As with Bases, you can create an **external link** to share the view publicly. The shared view is always displayed as a **base** on the **home** page for authorized users.
+As with bases, you can create an **external link** to share the view publicly. The shared view is always displayed as a **base** on the **home** page for authorized users.

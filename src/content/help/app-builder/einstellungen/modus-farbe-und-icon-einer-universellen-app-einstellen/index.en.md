@@ -13,9 +13,9 @@ You can make **visual settings** for each [universal app]({{< relref "help/app-b
 ## Change the design settings of a universal app
 
 1. Open a **base** in which you want to edit an existing app.
-2. Click **Apps** in the Base header.
+2. Click **Apps** in the base header.
 
-![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
+![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
 
 4. Hover your mouse over the app and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 

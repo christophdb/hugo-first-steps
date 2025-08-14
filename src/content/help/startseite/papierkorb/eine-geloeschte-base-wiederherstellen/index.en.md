@@ -1,5 +1,5 @@
 ---
-title: 'Restore a deleted Base'
+title: 'Restore a deleted base'
 date: 2022-10-11
 lastmod: '2022-12-28'
 categories:
@@ -8,17 +8,17 @@ author: 'nsc2'
 url: '/help/eine-geloeschte-base-wiederherstellen'
 ---
 
-Bases that you have created under "My Bases" or in groups can be deleted and restored from the Trash if required. Note that you can restore a Base only up to 30 days after deleting it. After this time, deleted Bases are permanently removed from SeaTable and can no longer be restored.
+Bases that you have created under "My bases" or in groups can be deleted and restored from the Trash if required. Note that you can restore a base only up to 30 days after deleting it. After this time, deleted bases are permanently removed from SeaTable and can no longer be restored.
 
-## Restore a base deleted from "My Bases"
+## Restore a base deleted from "My bases"
 
-![Restore a Base deleted from My Bases](images/restore-a-deleted-base.gif)
+![Restore a base deleted from My bases](images/restore-a-deleted-base.gif)
 
 1. Switch to the SeaTable **home page**.
 2. Open the **Trash**.
 3. Select the **base** you want to restore. To do this, click either on the **name of the base** or on **Restore** to the right of the deletion date.
 4. Confirm the recovery by clicking **Restore** again.
-5. You can now find the restored base on the home page under **My Bases**.
+5. You can now find the restored base on the home page under **My bases**.
 
 ## Restore a deleted base of a group
 
@@ -27,7 +27,7 @@ You **cannot** restore bases that have been deleted from a group in the way desc
 ![Restore a base deleted from a group](images/restore-a-deleted-base-of-a-group.gif)
 
 1. Switch to the SeaTable **home page**.
-2. Click the **triangle icon** to the right of the name of the group where the deleted Base was located.
+2. Click the **triangle icon** to the right of the name of the group where the deleted base was located.
 3. Open the **Trash**.
 4. Select the **base** you want to restore. To do this, click either on the **name of the base** or on **Restore** to the right of the deletion date.
 5. Confirm the recovery by clicking **Restore** again.

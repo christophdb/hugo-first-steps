@@ -28,7 +28,7 @@ And a collection of link functions in the "Link Formula" column:
 
 ![](images/formula.jpg)
 
-Apart from the above functions, there are one or more column lists in the formula editor. These are those columns in the current table and the linked columns of the other table in Base. If you click on the "+" symbol next to it, the column name will be added as an element to the input field, in the format {ColumnName} or {LinkedTable.ColumnName}. You can use this element directly in your formula. Alternatively, you can of course enter a column name in the form of {ColumnName} by hand.
+Apart from the above functions, there are one or more column lists in the formula editor. These are those columns in the current table and the linked columns of the other table in base. If you click on the "+" symbol next to it, the column name will be added as an element to the input field, in the format {ColumnName} or {LinkedTable.ColumnName}. You can use this element directly in your formula. Alternatively, you can of course enter a column name in the form of {ColumnName} by hand.
 
 In this article we will show you a complete overview of all formulas in SeaTable with appropriate examples. If you are looking for a specific function, you can use the key combination {{< key "Ctrl" >}}+{{< key "F" >}} to quickly find an entry on this page.
 

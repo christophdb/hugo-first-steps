@@ -52,7 +52,7 @@ Comme ci-dessus, les formules SeaTable ne concernent par défaut que les _colonn
 
 ### Excel
 
-Pour faire référence à un enregistrement dans un autre tableau, vous devez écrire des références spécifiques à l' dans un format tel que, par exemple, le suivant :
+Pour faire référence à un enregistrement dans un autre tableau, vous devez écrire des références spécifiques à l'aide d'un format tel que, par exemple, le suivant :
 
 **\=IF(Tâches!B1='Home improvements',Tâches!A1,0).**
 

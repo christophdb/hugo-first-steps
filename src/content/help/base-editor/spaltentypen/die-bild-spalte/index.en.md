@@ -85,7 +85,7 @@ You can then specify **your own file name** and the **number of files** containe
 
 ![Dialog box to download all files](images/Download-all-files-dialog.png)
 
-If you click on the **three dots**, you have two options for saving the file: A **download** will save a zip file on your device from which you can extract all the images. You can also save the images **in Seafile**. To do this, you must first [connect a Seafile library to your Base]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
+If you click on the **three dots**, you have two options for saving the file: A **download** will save a zip file on your device from which you can extract all the images. You can also save the images **in Seafile**. To do this, you must first [connect a Seafile library to your base]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ### Delete images
 
@@ -97,6 +97,6 @@ Then select the desired **image** and click on the {{< seatable-icon icon="dtabl
 
 {{< warning  headline="Attention" >}}
 
-Images deleted from an image column are still part of Base and thus **not** permanently deleted. For more information, read the articles [Accessing deleted files and images]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) and [How to permanently remove files]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+Images deleted from an image column are still part of base and thus **not** permanently deleted. For more information, read the articles [Accessing deleted files and images]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) and [How to permanently remove files]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
 
 {{< /warning >}}

@@ -39,7 +39,7 @@ A concrete use case for this data processing operation could occur, for example,
 
 Subsequently, you want certain data of the employees, which are already available in the employee table, to be copied to the task table. For example, you might also need the **e-mail address** there to be able to contact the responsible person directly.
 
-To implement this data processing operation, you need **two tables in the same Base**. In the first table, the **employee data** is maintained, which includes, among other things, the employees' **e-mail addresses**.
+To implement this data processing operation, you need **two tables in the same base**. In the first table, the **employee data** is maintained, which includes, among other things, the employees' **e-mail addresses**.
 
 ![Example table for maintenance of personal data of mtployees](images/example-table-employees-and-personal-data-1.png)
 

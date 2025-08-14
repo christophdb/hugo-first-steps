@@ -14,7 +14,7 @@ You can **edit** and **delete** notification rules that have already been create
 
 ![Edit a notification rule](images/edit-notification-rules.jpg)
 
-1. Open the **Base** in which you want to edit an already created notification rule.
+1. Open the **base** in which you want to edit an already created notification rule.
 2. Click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Notification Rules**.
 3. Hover over the notification rule you want to customize and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 4. Make the desired **adjustments to** the notification rule.
@@ -41,7 +41,7 @@ After confirming the changes made, they are automatically **saved in** the notif
 
 ![Deletion of a notification rule](images/delete-notification.jpg)
 
-1. Open the **Base** in which you want to delete an already created notification rule.
+1. Open the **base** in which you want to delete an already created notification rule.
 2. Click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Notification Rules**.
 3. Hover the mouse cursor over the notification rule and right-click the **trash icon** {{< seatable-icon icon="dtable-icon-delete" >}}.
 4. Confirm with **Delete**.

@@ -24,7 +24,7 @@ Currently, SeaTable offers five different integration options, which will be pre
 
 ## Scripts in SeaTable
 
-SeaTable allows you to run custom JavaScript and Python scripts in a Base. This allows users who have some programming experience to automate steps or recurring tasks. The scripts can be started either manually, using a button, or through automation.
+SeaTable allows you to run custom JavaScript and Python scripts in a base. This allows users who have some programming experience to automate steps or recurring tasks. The scripts can be started either manually, using a button, or through automation.
 
 ## Integrations within SeaTable
 
@@ -36,7 +36,7 @@ The SeaTable API provides a universal interface through which you can interact w
 
 ## Webhooks
 
-Webhooks are set up within SeaTable for one Base at a time. Once a webhook is set up, SeaTable sends a message to a URL of your choice whenever a change is made in that Base. At this URL, software receives the webhooks and processes them. Depending on what change was made in the Base, you can perform a corresponding follow-up activity.
+Webhooks are set up within SeaTable for one base at a time. Once a webhook is set up, SeaTable sends a message to a URL of your choice whenever a change is made in that base. At this URL, software receives the webhooks and processes them. Depending on what change was made in the base, you can perform a corresponding follow-up activity.
 
 A typical example of a webhook would be monitoring the payment status of an invoice or subscription. As soon as you set an invoice to the status _Paid_ in SeaTable, another software should perform a corresponding action. You could easily implement this with a webhook. Every change to the invoices in SeaTable is sent via webhook to the other software and it only reacts to the status message that is relevant for you.
 

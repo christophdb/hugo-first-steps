@@ -14,7 +14,7 @@ You can configure the look, content, and functionality of your web form by custo
 
 ## Form settings
 
-- If your Base consists of several tables, you can select the **table** for which you want to create the form.
+- If your base consists of several tables, you can select the **table** for which you want to create the form.
 - **Drag and** drop **static elements** and **table fields** into the form or click the **plus** icon to the right of their names.
 - If you want to insert help texts to fill in the form fields, you can define the **font color of the help texts**.
 - You can choose between two **notification rules**: Either no notifications are sent or you specify a recipient (e.g. yourself) who receives a notification when a form is submitted.

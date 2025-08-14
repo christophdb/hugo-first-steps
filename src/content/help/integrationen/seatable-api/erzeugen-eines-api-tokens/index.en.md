@@ -22,9 +22,9 @@ In SeaTable, you can create your API tokens either from the home page or as a te
 
 API tokens can be conveniently created on the SeaTable home page.
 
-![Create new Base Token](images/generate-api-token.gif)
+![Create new base Token](images/generate-api-token.gif)
 
-1. Move the mouse over the Base for which you want to create a token.
+1. Move the mouse over the base for which you want to create a token.
 2. Click {{< seatable-icon icon="dtable-icon-more-vertical" color="grey" >}}
 3. Expand the **Advanced** section and select **API Tokens**.
 4. Choose a name and set the permission.

@@ -10,11 +10,11 @@ url: '/help/skript-manuell-per-schaltflaeche-oder-automation-ausfuehren'
 
 You can do great things in SeaTable with a script. However, nothing happens by saving alone: in fact, the execution of the script must be started either **manually**, **by button** or **by automation**.
 
-In this article, we will introduce you to these three different possibilities. The article assumes that you have already [created]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) in your Base, which in our example does nothing but output _Hello World_.
+In this article, we will introduce you to these three different possibilities. The article assumes that you have already [created]({{< relref "help/skripte/allgemein/anlegen-und-loeschen-eines-skriptes" >}}) in your base, which in our example does nothing but output _Hello World_.
 
 ## Run script manually
 
-1. In your Base, click {{< seatable-icon icon="dtable-icon-script" >}} in the Base header.
+1. In your base, click {{< seatable-icon icon="dtable-icon-script" >}} in the base header.
 2. Hover the mouse over the **name of** your script.
 3. Start the script with the **play icon** {{< seatable-icon icon="dtable-icon-implement" >}}.
 
@@ -39,7 +39,7 @@ From now on, every time you click the button, your script will be executed. With
 
 You can use an automation to run a Python script. JavaScript is not available to you at this point because JavaScript is executed in the user's browser, which is not available in an automation.
 
-1. In the Base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
+1. In the base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
 2. Click **Add rule** and create a new **automation**. You can get more detailed information on how to do this [here]({{< relref "help/base-editor/automationen/anlegen-einer-automation" >}}).
 3. Use the **Run Python Script** automation action.
 4. Select your **script** and save the automation with **Submit**.

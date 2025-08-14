@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/seiten-vom-typ-einzelner-datensatz-in-universellen-apps'
 ---
 
-With the **single record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from the Base.
+With the **single record** [page type]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}), you have the option of designing a page with static elements, dynamic table fields, colors, frames, etc. in order to visually prepare the data stored in a row . This page type is therefore similar to the [page design plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) that you already know from the base.
 
 Users of the app can view, search, browse or even edit the single records on this page – with the relevant authorization. This page type is suitable, for example, for displaying the data in an employee database as personal profiles.
 

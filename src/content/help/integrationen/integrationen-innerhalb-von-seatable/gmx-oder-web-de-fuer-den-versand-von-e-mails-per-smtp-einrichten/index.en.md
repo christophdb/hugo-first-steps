@@ -8,11 +8,11 @@ author: 'cdb'
 url: '/help/gmx-oder-web-de-fuer-den-versand-von-e-mails-per-smtp-einrichten'
 ---
 
-The email services GMX and WEB.DE are very popular in German-speaking countries. You can use GMX and WEB.DE accounts to send emails from a SeaTable Bases.
+The email services GMX and WEB.DE are very popular in German-speaking countries. You can use GMX and WEB.DE accounts to send emails from a SeaTable bases.
 
-This article explains how to set up a **GMX** or **WEB.DE** e-mail account in a SeaTable Base and what preparatory measures are necessary.
+This article explains how to set up a **GMX** or **WEB.DE** e-mail account in a SeaTable base and what preparatory measures are necessary.
 
-{{< warning headline="Identical procedure for GMX and WEB.DE" text="**GMX** and **WEB.DE** are offers from the German telecommunications provider 1&1. The procedure for integrating an email account in a SeaTable Base is demonstrated in this help article using GMX as an example. If you want to use a WEB.DE account, follow the instructions in the same way. The preparatory step must be carried out in the WEB.DE account settings." />}}
+{{< warning headline="Identical procedure for GMX and WEB.DE" text="**GMX** and **WEB.DE** are offers from the German telecommunications provider 1&1. The procedure for integrating an email account in a SeaTable base is demonstrated in this help article using GMX as an example. If you want to use a WEB.DE account, follow the instructions in the same way. The preparatory step must be carried out in the WEB.DE account settings." />}}
 
 ## Allow POP3/IMAP retrieval
 
@@ -34,7 +34,7 @@ You have now made all the preparations to be able to use this email account in S
 
 ## Creation of the e-mail account in SeaTable
 
-Now add your e-mail account as a **third-party provider** in your SeaTable Base. The following steps are necessary for this:
+Now add your e-mail account as a **third-party provider** in your SeaTable base. The following steps are necessary for this:
 
 ![Third-party integration via the advanced base options](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
@@ -57,6 +57,6 @@ An example configuration for a GMX account looks like this:
 
 ## Send emails via automation
 
-After that, you can use the email account created in your SeaTable Base to send emails via automation or [button.]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
+After that, you can use the email account created in your SeaTable base to send emails via automation or [button.]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 
 If you want to learn more about this useful automation, read the article [Email Sending by Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).

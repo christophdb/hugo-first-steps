@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/freigabe-von-bases-per-einladungslink-erlauben'
 ---
 
-With an [invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}), you can give **read and write perm** issions for a **Base** to people outside your team, but they must log in to SeaTable.
+With an [invitation link]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}), you can give **read and write permissions** for a **base** to people outside your team, but they must log in to SeaTable.
 
 You can learn how to create an invitation link [here.]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) Since the link can be copied and forwarded as often as you like, it makes sense to set a password and an expiration date as **protective measures**.
 
@@ -25,7 +25,7 @@ In the **team administration**, you can [view]({{< relref "help/teamverwaltung/b
 
 If you allow base sharing by invitation link, your team members can create as **many invitation links as they want** and send them to people outside the team, who can use the links to view or even edit the corresponding bases.
 
-An invitation link can also be **duplicated** as many times as you want and gives everyone who has access to the link access to the **contents of Base**. If you want to restrict this sharing option, then uncheck the **Allowbase sharing by invitation link** slider. You will see the following message for the links:
+An invitation link can also be **duplicated** as many times as you want and gives everyone who has access to the link access to the **contents of base**. If you want to restrict this sharing option, then uncheck the **Allowbase sharing by invitation link** slider. You will see the following message for the links:
 
 ![Error message invitation link in Team administration](images/Fehlermeldung-EInladungslink.png)
 

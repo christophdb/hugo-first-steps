@@ -16,9 +16,9 @@ You can edit and delete the API tokens either on the home page or, as a team adm
 
 {{< required-version "Team members" "Team Administrators" >}}
 
-On the SeaTable home page, you manage your API tokens each within a Base.
+On the SeaTable home page, you manage your API tokens each within a base.
 
-1. Move the mouse over a Base.
+1. Move the mouse over a base.
 2. Click {{< seatable-icon icon="dtable-icon-more-vertical" color="grey" >}}
 3. Expand the **Advanced** section and select **API Tokens**.
 4. Edit the existing API tokens with {{< seatable-icon icon="dtable-icon-rename" color="grey" >}} or delete a token with {{< seatable-icon icon="dtable-icon-more-level" color="grey" >}} and then **Delete**.

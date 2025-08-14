@@ -1,5 +1,5 @@
 ---
-title: 'Edit Apps'
+title: 'Edit apps'
 date: 2023-05-02
 lastmod: '2024-02-16'
 categories:
@@ -14,10 +14,10 @@ Apps that you have already added to one of your bases can be edited at any time 
 
 ## Edit an app
 
-1. Open the **Base** in which you want to edit an app.
-2. Click **Apps** in the Base header.
+1. Open the **base** in which you want to edit an app.
+2. Click **Apps** in the base header.
 
-![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
+![Click apps in the base header](images/click-apps-in-the-base-header.jpg)
 
 4. Hover over the desired app and click the **pencil icon that** appears {{< seatable-icon icon="dtable-icon-rename" >}}.
 

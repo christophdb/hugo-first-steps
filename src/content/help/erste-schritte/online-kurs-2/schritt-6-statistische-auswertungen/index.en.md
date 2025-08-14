@@ -19,7 +19,7 @@ With SeaTable, you can create charts and graphs in seconds that provide you with
 
 ## The statistics module in SeaTable
 
-Open the statistics module in your Base and you will see that we have already prepared some charts to answer the first three questions. These charts show you, for example:
+Open the statistics module in your base and you will see that we have already prepared some charts to answer the first three questions. These charts show you, for example:
 
 - **Sales per month**: At a glance, you can see that June and August 2024 were the months with the highest sales, while August 2024 recorded the most registrations.
 - **Registrations per month**: Here you can see in which months your courses were particularly popular.

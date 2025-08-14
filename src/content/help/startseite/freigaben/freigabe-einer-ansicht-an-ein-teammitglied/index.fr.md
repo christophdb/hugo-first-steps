@@ -58,7 +58,7 @@ Dans une base, il y a en tout deux **icônes de partage** avec lesquelles vous p
 
 ## Particularités
 
-### Lors du partage d'une vue, il y a quelques particularités à prendre en compte :
+Lors du partage d'une vue, il y a quelques particularités à prendre en compte :
 
 - Les colonnes masquées dans une vue ne sont **pas** affichées aux personnes qui consultent le lien de partage.
 - Si une vue de tableau partagée contient des liens vers les entrées d'un autre tableau que vous n'avez pas partagé avec l'utilisateur concerné, ce dernier peut tout de même **voir** les entrées correspondantes et, selon les droits que vous lui avez accordés pour la vue partagée, les **modifier**.

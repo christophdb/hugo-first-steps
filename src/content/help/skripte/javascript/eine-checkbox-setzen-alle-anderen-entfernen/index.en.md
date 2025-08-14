@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/help/eine-checkbox-setzen-alle-anderen-entfernen'
 ---
 
-Imagine that you always want to activate a checkbox in exactly one row in a Base. When this checkbox is activated, all other checkboxes that may be filled should be deactivated. You can easily perform this operation with a script, e.g. via a button.
+Imagine that you always want to activate a checkbox in exactly one row in a base. When this checkbox is activated, all other checkboxes that may be filled should be deactivated. You can easily perform this operation with a script, e.g. via a button.
 
 {{< warning  headline="Thank you for this input from the community"  text="Many thanks to Jörg who posted this script in the [SeaTable community forum](https://forum.seatable.com/t/tutorial-default-column-with-simple-js-script/2266)." />}}
 

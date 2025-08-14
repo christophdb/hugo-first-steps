@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/eine-tabellenbeschreibung-hinzufuegen'
 ---
 
-You can add a description to each table in your Base. With this concise text you can, for example, explain the table contents.
+You can add a description to each table in your base. With this concise text you can, for example, explain the table contents.
 
 {{< warning  headline="Important note" >}}
 

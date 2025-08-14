@@ -14,6 +14,6 @@ After **30 days**, deleted bases are **automatically** removed from the system. 
 
 1. Click your **avatar image** in the upper right corner.
 2. Select **Team administration** from the drop-down menu.
-3. Go to **Bases** on the left side under **Navigation**.
+3. Go to **bases** on the left side under **Navigation**.
 4. Click the **Trash** category under the heading.
 5. Scroll down and click **Delete all bases in trash permanently**.

@@ -25,7 +25,7 @@ A total of **three** different options are available to you:
 ![Importing an Excel file as a new base](images/Import-einer-Excel-Datei-als-neue-Base.gif)
 
 1. Switch to the SeaTable **home** page.
-2. In the **My Bases** workspace or within a **group**, click **Add a Base or Folder**.
+2. In the **My bases** workspace or within a **group**, click **Add a base or Folder**.
 3. Click on **Import base from file (XLSX, CSV or DTABLE)**.
 4. In the file overview that opens, select the **file** you want to import from your device.
 5. Confirm either by **double-clicking** the selected file or by clicking **Select** or **Open**.

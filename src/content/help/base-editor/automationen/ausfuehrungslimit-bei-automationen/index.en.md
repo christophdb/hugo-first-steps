@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/ausfuehrungslimit-bei-automationen'
 ---
 
-Do you work with [automations]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) in your Base that are triggered by new or changed entries? Then please note the following: If you add or modify more than 50 entries per minute, it may happen that the desired [automation actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) are not started. The reason for this is the execution limit for automations.
+Do you work with [automations]({{< relref "help/base-editor/automationen/funktionsweise-von-automationen" >}}) in your base that are triggered by new or changed entries? Then please note the following: If you add or modify more than 50 entries per minute, it may happen that the desired [automation actions]({{< relref "help/base-editor/automationen/automations-aktionen" >}}) are not started. The reason for this is the execution limit for automations.
 
 ## The execution limit for automations
 

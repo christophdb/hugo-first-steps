@@ -33,7 +33,7 @@ Now open one of your bases by clicking on one of your bases with the mouse. If y
 
 You will initially only see three empty cells in your base, so don't be confused when we explain the various elements using a filled example base.
 
-![Elements of the SeaTable Base](images/elements_seatable_base.png)
+![Elements of the SeaTable base](images/elements_seatable_base.png)
 
 Phew, the first sight of a base can be quite frightening. There are so many buttons and interaction options waiting to be used. Let's take a look at the various elements in detail.
 
@@ -70,4 +70,4 @@ In the following articles, we will always include a section at the bottom of the
 - [Create a new base]({{< relref "help/startseite/bases/eine-neue-base-erstellen" >}})
 - [What is a view]({{< relref "help/base-editor/ansichten/was-ist-eine-ansicht" >}})
 - [SeaTable Glossary]({{< relref "help/erste-schritte/einfuehrung-grundlagen/glossar-der-von-seatable-verwendeten-begriffe" >}})
-- [Add a Base to Favorites]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}})
+- [Add a base to Favorites]({{< relref "help/startseite/bases/eine-base-zu-den-favoriten-hinzufuegen" >}})

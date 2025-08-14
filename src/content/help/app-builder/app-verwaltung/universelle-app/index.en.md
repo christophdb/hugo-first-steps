@@ -14,11 +14,11 @@ When building a **Universal app**, you can let your creativity run wild. The app
 
 ## Creating the Universal App
 
-In order to use a Universal App in your Base, you must first **add** it to your Base.
+In order to use a Universal App in your base, you must first **add** it to your base.
 
 ![Create the Universal App](images/universal-app-preview.png)
 
-[Learn how to add a Universal App to your Base here.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
+[Learn how to add a Universal App to your base here.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
 
 ## Design of the Universal App
 
@@ -30,7 +30,7 @@ A Universal App consists of several **pages** that you can group into **folders*
 
 [Learn how to add new pages and folders to your Universal App here]({{< relref "help/app-builder/einstellungen/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten" >}}).
 
-To prepare the data in your Base in an appealing way, the Universal App offers a variety of [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) with different design elements.
+To prepare the data in your base in an appealing way, the Universal App offers a variety of [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) with different design elements.
 
 ![Page Types Universal App](images/Seitentypen-Universal-App.png)
 
@@ -90,7 +90,7 @@ While the universal app has many advantages over [working in the]({{< relref "he
 
 ## Comments in universal apps
 
-Nevertheless, you also have the option of communicating with other team members in an app. To do this, use the [comment function]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) that you already know in the same form from Base. Record your feedback or additional information on the data records for the other app users and hold discussions on the spot.
+Nevertheless, you also have the option of communicating with other team members in an app. To do this, use the [comment function]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) that you already know in the same form from base. Record your feedback or additional information on the data records for the other app users and hold discussions on the spot.
 
 ![Comment function in universal apps](images/Kommentarfunktion-in-Universellen-Apps.png)
 

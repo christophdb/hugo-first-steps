@@ -16,7 +16,7 @@ With a script you can do great things in SeaTable. Scripts created in your bases
 
 ![Open the execution log](images/Anlegen-eines-Skriptes.jpg)
 
-1. In your Base, click {{< seatable-icon icon="dtable-icon-script" >}} in the Base header.
+1. In your base, click {{< seatable-icon icon="dtable-icon-script" >}} in the base header.
 2. Hover the mouse over the **name of** your script.
 3. Click on the **three dots** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 4. Click **Script Log** to open the execution log of the selected script.

@@ -38,7 +38,7 @@ Within the Team administration, you can see all **bases of** your team members a
 The following articles may be of interest to you:
 
 - [Bases in the Team administration]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})
-- [View all access permissions of a Base]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
+- [View all access permissions of a base]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
 - [base sharing Allow via invitation link]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
 - [Unlock a team member again]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})
 

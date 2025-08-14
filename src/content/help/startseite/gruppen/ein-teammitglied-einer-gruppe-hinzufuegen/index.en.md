@@ -27,7 +27,7 @@ Owners and administrators of a group can add members, remove members, and change
 
 ### What if you can't find the person?
 
-If you do not find the person you are looking for, or more precisely, the autocomplete does not suggest the person you are looking for, it is most likely because this person is not part of your team. In this case, this other SeaTable user cannot be added to your group. Only with the help of an invitation link you can share a Base with this person and thus collaborate.
+If you do not find the person you are looking for, or more precisely, the autocomplete does not suggest the person you are looking for, it is most likely because this person is not part of your team. In this case, this other SeaTable user cannot be added to your group. Only with the help of an invitation link you can share a base with this person and thus collaborate.
 
 ## Add team members in the Team administration
 

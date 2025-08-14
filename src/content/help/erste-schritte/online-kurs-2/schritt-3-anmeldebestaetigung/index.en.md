@@ -12,7 +12,7 @@ We are now adding the function that participants who have registered for a cours
 
 ## Sending e-mails with SeaTable
 
-To send e-mails with SeaTable, you must first create an e-mail account in the Base. As the configuration differs depending on the provider, we recommend using [mailtrap](https://mailtrap.io). _Mailtrap_ allows you to send emails to a virtual mailbox, which has the advantage that no emails are sent to real or fictitious customers - but you can simulate sending emails realistically.
+To send e-mails with SeaTable, you must first create an e-mail account in the base. As the configuration differs depending on the provider, we recommend using [mailtrap](https://mailtrap.io). _Mailtrap_ allows you to send emails to a virtual mailbox, which has the advantage that no emails are sent to real or fictitious customers - but you can simulate sending emails realistically.
 
 {{< warning headline="Which email provider is right for me" text="There is no _right_ or _wrong>_email provider. If you only send a few emails a day, your existing email account will probably suffice. However, as your email volume increases, you should consider a professional provider such as [Brevo.com](https://brevo.com), which allows you to better track the delivery of emails."  />}}
 

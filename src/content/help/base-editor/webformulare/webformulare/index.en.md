@@ -16,11 +16,11 @@ Get familiar with SeaTable's form feature to conveniently collect data via web f
 
 The classic web form is ideal for **online surveys** and structured collection of new data. Table columns are integrated using **form fields** and users are guided through the completion process. For access, create a link that allows users **without a SeaTable user account** to fill out the web form. A completed web form corresponds to **a record** or an added row in the corresponding table.
 
-Web forms always refer to a **table** in the opened Base. Therefore, you must first open the relevant table and view before creating a form. You can create and save **any number of** web forms in each Base.
+Web forms always refer to a **table** in the opened base. Therefore, you must first open the relevant table and view before creating a form. You can create and save **any number of** web forms in each base.
 
 ## Create form
 
-Open the form management via the {{< seatable-icon icon="dtable-icon-form" >}} **Forms** button at the top right of the Base header. If no forms have yet been created in the Base, the form management will appear as an empty list. Otherwise, the existing forms are displayed in the open window.
+Open the form management via the {{< seatable-icon icon="dtable-icon-form" >}} **Forms** button at the top right of the base header. If no forms have yet been created in the base, the form management will appear as an empty list. Otherwise, the existing forms are displayed in the open window.
 
 ![Options Classic form](images/Optionen-Klassisches-Formular.gif)
 

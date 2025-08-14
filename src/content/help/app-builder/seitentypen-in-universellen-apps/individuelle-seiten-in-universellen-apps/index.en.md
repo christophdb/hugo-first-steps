@@ -104,7 +104,7 @@ On an individual page of your app, you can visualize the data from the underlyin
 
 ### Data settings
 
-The **configuration of statistics** is very similar to the [statistics module]({{< relref "help/base-editor/statistiken/statistiken" >}}) in Base. First select the **table** from which the statistics should display data. You can change the **chart type** by clicking on the **opposite arrows**.
+The **configuration of statistics** is very similar to the [statistics module]({{< relref "help/base-editor/statistiken/statistiken" >}}) in base. First select the **table** from which the statistics should display data. You can change the **chart type** by clicking on the **opposite arrows**.
 
 ![](images/Elementeinstellungen-fuer-Statistiken-auf-individuellen-Seiten.png)
 

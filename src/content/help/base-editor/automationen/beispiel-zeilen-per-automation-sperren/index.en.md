@@ -16,7 +16,7 @@ With the help of automations, you no longer have to manually lock rows in your t
 
 ## Creating the automation
 
-1. In the Base options, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
+1. In the base options, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
 2. Click **Add Rule**.
 3. **Name** the automation and specify the **table** and **view** in which it should act.
 4. Define a **trigger event that triggers** the automation.

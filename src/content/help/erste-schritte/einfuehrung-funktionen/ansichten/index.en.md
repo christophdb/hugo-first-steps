@@ -16,9 +16,9 @@ In this post, learn which views and plugins are available, how you can use them,
 
 ## Table view
 
-SeaTable has a **table view** for the most common use cases. Here your data is recorded in a table consisting of **rows** and **columns**. The Table View is SeaTable's **default view**: when you open a Base, you first see your data in table form.
+SeaTable has a **table view** for the most common use cases. Here your data is recorded in a table consisting of **rows** and **columns**. The Table View is SeaTable's **default view**: when you open a base, you first see your data in table form.
 
-The Table View is essential for manually entering, editing and managing data in a Base: In it, you create the tables and define the column structure. Each column is assigned a [type]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) that captures specific data.
+The Table View is essential for manually entering, editing and managing data in a base: In it, you create the tables and define the column structure. Each column is assigned a [type]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}) that captures specific data.
 
 The table view is particularly suitable for displaying text- and number-based data. Using the available view settings such as [grouping, sorting and filters]({{< relref "help/base-editor/ansichten/gruppierung-sortierung-und-filter" >}}), you can also perform simple evaluations very quickly.
 
@@ -36,10 +36,10 @@ With the help of **plugins**, the table view can be supplemented with additional
 
 Plugins allow you to view your data from different angles. In doing so, the data set always remains exactly the same, only the representation changes.
 
-You activate the plugins via the Plugin Manager, which you open via the {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** button in the top right corner of the Base header. You can learn how to add plugins to your Base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}). Plugins are always activated only for the opened Base. You may have to repeat the activation of plugins in other Bases.
+You activate the plugins via the Plugin Manager, which you open via the {{< seatable-icon icon="dtable-icon-assembly" >}}**Plugins** button in the top right corner of the base header. You can learn how to add plugins to your base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}). Plugins are always activated only for the opened base. You may have to repeat the activation of plugins in other bases.
 
 ![Overview of all plugins in SeaTable](images/Uebersicht-ueber-alle-Plugins-in-SeaTable.gif)
 
-With the [calendar plug]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) in you manage images quickly and easily in your Base.
+With the [calendar plug]({{< relref "help/base-editor/plugins/anleitung-zum-galerie-plugin" >}}) in you manage images quickly and easily in your base.
 
 Display addresses and position data on a map using the [Map plugin]({{< relref "help/base-editor/plugins/anleitung-zum-karten-plugin" >}}) and visualize your tasks and project phases with the [Kanban plugin]({{< relref "help/base-editor/plugins/anleitung-zum-seitendesign-plugin" >}}) helps you quickly turn your records into laid out documents.

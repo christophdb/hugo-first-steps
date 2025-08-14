@@ -8,13 +8,13 @@ author: 'vge'
 url: '/help/wie-man-dateien-dauerhaft-entfernt'
 ---
 
-**Files**, **images** and **signatures** that you **delete** in a table can still be found in the Base [file]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) manager. To remove these permanently, you must also delete the files from the file manager.
+**Files**, **images** and **signatures** that you **delete** in a table can still be found in the base [file]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) manager. To remove these permanently, you must also delete the files from the file manager.
 
 ## Delete files from the file manager
 
 ![Remove files and images permanently](images/Delete-files-and-images-permanently.gif)
 
-1. Click on the **three dots** in the Base header and open the **file manager**.
+1. Click on the **three dots** in the base header and open the **file manager**.
 2. Go to the appropriate **folder** where you want to delete the file.
 3. Hover the mouse over the **file** you want to delete and click the **trash icon**.
 4. Confirm again with **Delete**.

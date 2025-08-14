@@ -32,6 +32,6 @@ SeaTable allows you to **delete** **files** and **images** in several ways. The 
 
 {{< warning  headline="Attention" >}}
 
-Deleted images and files are still part of Base and therefore **not** permanently deleted. For more information, read the articles [Accessing deleted files and images]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) and [How to permanently remove files]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+Deleted images and files are still part of base and therefore **not** permanently deleted. For more information, read the articles [Accessing deleted files and images]({{< relref "help/haeufig-gestellte-fragen/wissen-und-tipps/zugriff-auf-geloeschte-anhaenge" >}}) and [How to permanently remove files]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
 
 {{< /warning >}}

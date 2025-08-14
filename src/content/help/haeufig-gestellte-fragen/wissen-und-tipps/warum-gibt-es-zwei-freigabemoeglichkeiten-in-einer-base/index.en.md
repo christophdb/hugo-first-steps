@@ -1,5 +1,5 @@
 ---
-title: 'Why are there two sharing options in one Base?'
+title: 'Why are there two sharing options in one base?'
 date: 2023-03-14
 lastmod: '2023-03-14'
 categories:
@@ -12,13 +12,13 @@ Two different sharing options are available in your bases, allowing you to share
 
 ![Sharing icons in a base](images/share-icons-new-1.png)
 
-Both sharing is done via the **Share** dialog - a window you reach via the **Share icons** {{< seatable-icon icon="dtable-icon-share" >}} in the View or Base options.
+Both sharing is done via the **Share** dialog - a window you reach via the **Share icons** {{< seatable-icon icon="dtable-icon-share" >}} in the View or base options.
 
 ![Share a base with a user](images/share-base-to-user.png)
 
 ## Share a base
 
-![Open share dialog within Base](images/share-a-base.png)
+![Open share dialog within base](images/share-a-base.png)
 
 If you want to share one of your bases, you have a choice of options depending on the group of people you want to share it with:
 

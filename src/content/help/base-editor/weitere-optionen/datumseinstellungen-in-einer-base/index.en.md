@@ -1,5 +1,5 @@
 ---
-title: 'Date settings in a Base'
+title: 'Date settings in a base'
 date: 2025-07-02
 lastmod: '2025-07-02'
 categories:

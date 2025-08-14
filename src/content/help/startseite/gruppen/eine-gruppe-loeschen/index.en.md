@@ -19,4 +19,4 @@ Groups that are no longer active or are no longer needed for other reasons can b
 3. Click **Delete Group**.
 4. Confirm with **Delete**.
 
-{{< warning  headline="Attention"  text="Groups that contain one or more **Bases** **cannot** be deleted. To delete such groups, the **individual Bases** of the group must first be **deleted** separately." />}}
+{{< warning  headline="Attention"  text="Groups that contain one or more **bases** **cannot** be deleted. To delete such groups, the **individual bases** of the group must first be **deleted** separately." />}}

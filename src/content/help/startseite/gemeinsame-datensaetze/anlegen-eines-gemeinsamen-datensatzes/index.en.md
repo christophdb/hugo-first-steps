@@ -10,7 +10,7 @@ url: '/help/anlegen-eines-gemeinsamen-datensatzes'
 
 In each base belonging to a group, you can create a table view as a **common dataset**. The prerequisite for this is that you are the owner or administrator of the group (and not just a member). You can then import the common dataset, including its specific filtering and sorting conditions, as a new table into any other base in the group.
 
-{{< warning headline="No common datasets in private bases" text="Common datasets are only available in **Bases of a group**. In a private base, the function for creating a common dataset is grayed out." />}}
+{{< warning headline="No common datasets in private bases" text="Common datasets are only available in **bases of a group**. In a private base, the function for creating a common dataset is grayed out." />}}
 
 ![](images/common-dataset-only-in-group.png)
 
@@ -19,7 +19,7 @@ In each base belonging to a group, you can create a table view as a **common dat
 ![Creating a common dataset](images/create-a-common-dataset-5.png)  
 ![Creating a common dataset](images/create-a-common-dataset-2-1.png)
 
-1. Open any **table view** in a Base that belongs to one of your groups.
+1. Open any **table view** in a base that belongs to one of your groups.
 2. Click on the **three dots**.
 3. Click **Publish as common dataset**.
 4. **Name** the common dataset.

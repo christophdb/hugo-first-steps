@@ -58,7 +58,7 @@ In einer Base gibt es insgesamt zwei **Sharing-Icons**, mit denen Sie entweder e
 
 ## Besonderheiten
 
-### Bei der Freigabe einer Ansicht gibt es einige Besonderheiten, die es zu beachten gilt:
+Bei der Freigabe einer Ansicht gibt es einige Besonderheiten, die es zu beachten gilt:
 
 - In einer Ansicht ausgeblendete Spalten werden den Betrachtern des Freigabe-Links **nicht** angezeigt.
 - Enthält eine freigegebene Tabellenansicht Verknüpfungen zu den Einträgen einer anderen Tabelle, die Sie nicht an den jeweiligen Benutzer freigegeben haben, kann dieser dennoch die entsprechenden Einträge **sehen** und je nachdem, welche Rechte Sie ihm für die geteilte Ansicht gewährt haben, diese auch **bearbeiten**.

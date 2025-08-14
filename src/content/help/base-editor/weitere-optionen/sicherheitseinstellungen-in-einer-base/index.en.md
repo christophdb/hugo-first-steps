@@ -1,5 +1,5 @@
 ---
-title: 'Security settings in a Base'
+title: 'Security settings in a base'
 date: 2023-04-27
 lastmod: '2023-11-27'
 categories:
@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/sicherheitseinstellungen-in-einer-base'
 ---
 
-In the security settings of your Base, you can make settings at any time that affect the security of your Base and the protection of the data contained therein. The security settings apply specifically to a complete Base and can differ from Base to Base depending on the settings made.
+In the security settings of your base, you can make settings at any time that affect the security of your base and the protection of the data contained therein. The security settings apply specifically to a complete base and can differ from base to base depending on the settings made.
 
 {{< warning  headline="Important note" >}}
 
@@ -16,12 +16,12 @@ In the security settings of your Base, you can make settings at any time that af
 
 {{< /warning >}}
 
-## Edit security settings of a Base
+## Edit security settings of a base
 
 ![Security settings in a base](images/Security-settings-of-a-base.gif)
 
-1. Open the **Base** whose security settings you want to edit.
-2. Click on the **three dots** in the Base header.
+1. Open the **base** whose security settings you want to edit.
+2. Click on the **three dots** in the base header.
 3. Go to **Settings** and then to **Security settings**.
 4. In the new window, make the security settings for **All users** and **Shared users**.
 5. Then **close** the window. The settings you have made will be **saved** automatically.
@@ -42,17 +42,17 @@ If this setting is **activated**, the base in question can no longer be exported
 
 ### Prevent printing of a base
 
-By enabling this setting, you can **prevent** other users from [printing]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) the different table views of your Base.
+By enabling this setting, you can **prevent** other users from [printing]({{< relref "help/base-editor/ansichten/das-drucken-einer-ansicht" >}}) the different table views of your base.
 
-If this setting is **activated**, the various table views of the affected Base can no longer be printed by **anyone** until the setting is deactivated again by an owner or administrator. The corresponding option for printing in the view options is displayed **grayed out to** all users and can **no** longer be clicked. In addition, a **note** indicates that the users do **not have** permission to print the table views.
+If this setting is **activated**, the various table views of the affected base can no longer be printed by **anyone** until the setting is deactivated again by an owner or administrator. The corresponding option for printing in the view options is displayed **grayed out to** all users and can **no** longer be clicked. In addition, a **note** indicates that the users do **not have** permission to print the table views.
 
 ![Grayed out option for printing table views of a base if the "Prevent printing of a base" option is enabled in the security settings for all users](images/no-permission-for-printing-table-views-due-security-settings-all-users.png)
 
 ### Prevent copying a base to another group
 
-By enabling this setting you can **prevent** other users from [copying Base to another group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).
+By enabling this setting you can **prevent** other users from [copying base to another group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}).
 
-If this setting is **activated**, the base in question can no longer be copied by **anyone** to another group or to the _My Bases_ area until the setting is deactivated again by an owner or an administrator. If a user nevertheless tries to copy the corresponding base via the start page, the copying process is **prevented** and the following **error message** appears:
+If this setting is **activated**, the base in question can no longer be copied by **anyone** to another group or to the _My bases_ area until the setting is deactivated again by an owner or an administrator. If a user nevertheless tries to copy the corresponding base via the start page, the copying process is **prevented** and the following **error message** appears:
 
 ![Error message when trying to copy a base if the security setting "Prevent copying a base to another group" is enabled for all users](images/fehlermeldung-sicherheitseinstellung-base-exportieren-alle.png)
 
@@ -80,7 +80,7 @@ By activating this setting you can **prevent** users to whom the corresponding [
 
 ### Prevent copying a base to another group
 
-By enabling this setting you can **prevent** users to whom the corresponding [base]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) it to another group or to the _My Bases_ section.
+By enabling this setting you can **prevent** users to whom the corresponding [base]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}) it to another group or to the _My bases_ section.
 
 ### Prevent creation and modification of data processing operations
 

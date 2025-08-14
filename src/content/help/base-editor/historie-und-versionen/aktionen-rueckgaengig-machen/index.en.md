@@ -18,12 +18,12 @@ If you are currently in the **Editing** a **Base** or **Table** and you want to 
 
 Alternatively, you can undo your last action with **a mouse click** in SeaTable's **web interface**.
 
-1. In the top right corner of Base Options, click **Versions** and in the drop-down menu that opens, click **Undo**.
+1. In the top right corner of base Options, click **Versions** and in the drop-down menu that opens, click **Undo**.
 2. With each click you undo your last **change**.
 
 ## Frequently asked questions
 
-{{< faq "How long can you undo changes?" >}}In principle, you can undo any entry or change within a session. However, as soon as you leave Base, the last work steps can no longer be undone with the two described options the next time Base is called.
+{{< faq "How long can you undo changes?" >}}In principle, you can undo any entry or change within a session. However, as soon as you leave base, the last work steps can no longer be undone with the two described options the next time base is called.
 {{< /faq >}}
 {{< faq "What can all be undone?" >}}The following actions can be undone:
 

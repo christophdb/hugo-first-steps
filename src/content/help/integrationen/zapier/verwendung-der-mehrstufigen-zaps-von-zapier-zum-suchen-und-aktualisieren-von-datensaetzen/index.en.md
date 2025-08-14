@@ -18,7 +18,7 @@ Imagine you use Brevo (formerly SendinBlue) to manage your customer relationship
 
 This requirement can be realized by an intermediary search in Zap, and you will learn how exactly this works in this help article.
 
-### Creation of the SeaTable Base for saving the contacts
+### Creation of the SeaTable base for saving the contacts
 
 In order to send the contacts from Brevo to Seatable, we need a suitable base. To keep the example as simple as possible, we create a minimal base with only three columns.
 

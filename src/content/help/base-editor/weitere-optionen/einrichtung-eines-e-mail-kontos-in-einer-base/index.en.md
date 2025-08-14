@@ -1,5 +1,5 @@
 ---
-title: 'Setting up an email account in a Base'
+title: 'Setting up an email account in a base'
 date: 2023-03-24
 lastmod: '2025-03-08'
 categories:
@@ -12,7 +12,7 @@ One of the countless options available to you in SeaTable is **sending emails** 
 
 This article explains the steps required to add an email account to a base and how you can then send emails from your base.
 
-## Set up an email account in your Base
+## Set up an email account in your base
 
 ![Third-party integration via the advanced base options](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
@@ -32,7 +32,7 @@ To make account setup easier, we offer step-by-step instructions for the most po
 
 ## Testing the email configuration
 
-After you have successfully added an email account to your Base, the created account will be displayed in the advanced Base options under **third-party integration**. Here you can send a **test email** to selected recipients with just a few clicks.
+After you have successfully added an email account to your base, the created account will be displayed in the advanced base options under **third-party integration**. Here you can send a **test email** to selected recipients with just a few clicks.
 
 To do this, click the **envelope icon** to the right of your set up email account.
 
@@ -48,7 +48,7 @@ If everything worked as described, you have successfully set up your email accou
 
 ## Sending e-mail from a base
 
-After adding your email account in a Base, you will have **two** different options for sending emails:
+After adding your email account in a base, you will have **two** different options for sending emails:
 
 - [E-mail dispatch via automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}})
 - [E-mail dispatch by button]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
@@ -59,7 +59,7 @@ In both ways, you define a standardized e-mail whose **text** remains the **same
 
 {{< faq "Are the e-mail access data (especially the password) visible to others, e.g. when I share a base?" >}}**No**, the secret email access data is **not compromised** by sharing a base. For email accounts that log in to the email server using a user name and password, the password is no longer displayed in plain text after setup. For email accounts set up with OAuth 2.0 authentication, neither the ID nor the key are displayed.
 {{< /faq >}}
-{{< faq "Are e-mail accounts copied when a base is copied?" >}}**No**, the email accounts set up for a base are **not copied**. If you copy a base to the _My Bases_ area or [to a group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), you must **set up** the email accounts **again** in the new base.
+{{< faq "Are e-mail accounts copied when a base is copied?" >}}**No**, the email accounts set up for a base are **not copied**. If you copy a base to the _My bases_ area or [to a group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}}), you must **set up** the email accounts **again** in the new base.
 {{< /faq >}}
 {{< faq "Are e-mail accounts exported when exporting a base?" >}}**No**, the e-mail accounts set up in a base are **not exported to the [DTABLE file]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}})**.
 

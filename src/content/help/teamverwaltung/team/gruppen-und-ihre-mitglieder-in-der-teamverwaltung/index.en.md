@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
 ---
 
-The **team administrator** has control over which team member is part of which group. Once someone is a **member of** a group, they usually have **read and write perm** issions to all bases in that group.
+The **team administrator** has control over which team member is part of which group. Once someone is a **member of** a group, they usually have **read and write permissions** to all bases in that group.
 
 Learn all about the possible roles in a group in the article [Group members and their permissions]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
 

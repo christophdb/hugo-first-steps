@@ -22,7 +22,7 @@ You can only create a big data view if you [have already activated]({{< relref "
 
 ![Create a Big Data view](images/create-big-data-view.gif)
 
-1. Click the name of the **current view** in your Base.
+1. Click the name of the **current view** in your base.
 2. Next, select the **Add View or Folder** option.
 3. In the new menu, select **Add big data view**.
 4. Give the new view any **name** and confirm with **Submit**.

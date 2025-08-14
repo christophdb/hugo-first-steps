@@ -24,7 +24,7 @@ You do not want to **share** a whole base, but **individual tables**? You can do
 
 ![Share from inside a base](images/share-a-base.png)
 
-If you are currently **in a base**, you can also create a share without having to switch to the Home screen. To do this, click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} at the top right of the **Base options**. The window that opens to create a share is the same as on the Home page.
+If you are currently **in a base**, you can also create a share without having to switch to the Home screen. To do this, click the **Share icon** {{< seatable-icon icon="dtable-icon-share" >}} at the top right of the **base options**. The window that opens to create a share is the same as on the Home page.
 
 ## Create custom sharing permission
 
