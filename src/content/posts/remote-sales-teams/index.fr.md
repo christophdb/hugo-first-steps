@@ -4,7 +4,7 @@ date: 2021-10-07
 categories:
     - 'best-practice'
 tags:
-    - 'Transformation digitale'
+    - 'Transformation numérique'
     - 'Travail collaboratif'
 url: '/fr/equipes-ventes-a-distance'
 aliases:

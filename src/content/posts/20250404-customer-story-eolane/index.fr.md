@@ -10,9 +10,9 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'Gestion des données & visualisation'
-    - 'Transformation digitale'
+    - 'Transformation numérique'
     - 'Intégration & automatisation'
-    - 'Low-Code / No-Code'
+    - 'Low-Code & No-Code'
 color: '#469361'
 url: '/fr/succes-de-la-numerisation-de-la-gestion-des-ordres-avec-un-seatable-usage-de-eolane'
 ---

@@ -12,7 +12,7 @@ categories:
     - 'customer-story'
 tags:
     - 'Gestion du personnel'
-    - 'Transformation digitale'
+    - 'Transformation numérique'
 seo:
     title: ''
     description: ''

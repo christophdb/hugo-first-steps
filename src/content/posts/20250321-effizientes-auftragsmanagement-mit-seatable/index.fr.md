@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
     - 'customer-story'
 tags:
-    - 'Transformation digitale'
+    - 'Transformation numérique'
 color: '#f7f0d6'
 url: '/fr/effizientes-auftragsmanagement-mit-seatable'
 ---
