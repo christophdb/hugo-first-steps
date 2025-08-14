@@ -86,6 +86,18 @@ pageRef = "pages/industry-solutions/individual"
 weight = 36
 
 [[main]]
+name = "Продажи"
+parent = "Lösungen"
+pageRef = "pages/upravlenie-klientami"
+weight = 38
+
+[[main]]
+name = "Финансы"
+parent = "Lösungen"
+pageRef = "pages/cosdaite-financoviji-plan"
+weight = 37
+
+[[main]]
 name = "Ресурсы"
 pageRef = "#0"
 weight = 40
