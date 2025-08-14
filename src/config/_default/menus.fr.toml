@@ -56,25 +56,25 @@ pageRef = "pages/industry-solutions/marketing"
 weight = 31
 
 [[main]]
-name = "Gestion de projet"
+name = "Gestion de Projet"
 parent = "Solutions"
 pageRef = "pages/industry-solutions/project-management"
 weight = 32
 
 [[main]]
-name = "RH"
+name = "Ressources Humaines"
 parent = "Solutions"
 pageRef = "pages/industry-solutions/hr"
 weight = 33
 
 [[main]]
-name = "Service public"
+name = "Secteur Public"
 parent = "Solutions"
 pageRef = "pages/industry-solutions/public-service"
 weight = 34
 
 [[main]]
-name = "Développement de logiciels"
+name = "Développement Logiciels"
 parent = "Solutions"
 pageRef = "pages/industry-solutions/software-development"
 weight = 35
@@ -84,6 +84,18 @@ name = "Individuel"
 parent = "Solutions"
 pageRef = "pages/industry-solutions/individual"
 weight = 36
+
+[[main]]
+name = "Ventes"
+parent = "Lösungen"
+pageRef = "pages/gestion-des-clients"
+weight = 38
+
+[[main]]
+name = "Finance"
+parent = "Lösungen"
+pageRef = "pages/creation-plan-financier"
+weight = 37
 
 [[main]]
 name = "Ressources"
