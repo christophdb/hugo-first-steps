@@ -1,5 +1,5 @@
 ---
-title: 'Bases in the team management'
+title: 'Bases in the Team administration'
 date: 2023-01-18
 lastmod: '2023-01-19'
 categories:
@@ -12,10 +12,10 @@ If you are a **team administrator**, you can access all the bases in your team t
 
 ## How to access the bases in the team administration
 
-![Bases in the team management](images/bases-in-der-teamverwaltung.gif)
+![Bases in the Team administration](images/bases-in-der-teamverwaltung.gif)
 
 1. Click your **avatar image** in the upper right corner.
-2. Select the **Team Management** option from the drop-down menu.
+2. Select the **Team administration** option from the drop-down menu.
 3. Go to **Bases** on the left side under **Navigation**.
 4. Click on a **Base** to get more information and options about that Base.
 

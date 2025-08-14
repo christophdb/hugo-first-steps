@@ -15,7 +15,7 @@ As a **team administrator**, you can create new team members via the **team admi
 ![Add a new team member](images/ein-neues-teammitglied-hinzufuegen.gif)
 
 1. Click on your **profile** in the upper right corner.
-2. Select the **Team Management** option from the drop-down menu.
+2. Select the **Team administration** option from the drop-down menu.
 3. Click on the **Team** menu item under **Navigation**.
 4. Click the **Add Team Member** button.
 5. A new window will open. Set the **user name**.

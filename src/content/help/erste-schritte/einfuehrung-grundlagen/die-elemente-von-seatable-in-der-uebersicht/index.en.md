@@ -74,11 +74,11 @@ SeaTable is a solution where people should work together on processes, structure
 
 [Learn more about SeaTable collaboration →]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}})
 
-### Team management
+### Team administration
 
-The team management provides various functions for the administrators of your team. Among other things, you can manage your team members and subscription, view invoices or create support tickets.
+The Team administration provides various functions for the administrators of your team. Among other things, you can manage your team members and subscription, view invoices or create support tickets.
 
-[Learn more about the team management →]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
+[Learn more about the Team administration →]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 ### Subscription and billing
 

@@ -13,7 +13,7 @@ You can **delete** both **external links** and **invitation links** at any time 
 ## Ways to delete external links and invitation links
 
 - Deletion via the share icon {{< seatable-icon icon="dtable-icon-share" >}} for bases or views
-- Deletion via [team management]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
+- Deletion via [Team administration]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Note"  text="External links are for Bases and Views, Invitation links are for Bases only." />}}
 
@@ -28,15 +28,15 @@ You can **delete** both **external links** and **invitation links** at any time 
 
 ![Delete external links and invitation links](images/delete-invitation-and-external-links.jpg)
 
-## Deletion via team management
+## Deletion via Team administration
 
 {{< warning  headline="For team admins only"  text="To access the team administration, you must be a **team administrator**." />}}
 
 1. Switch to the SeaTable **home** page and click on your **avatar image**.
 
-![Access to the team management](images/Zugriff-auf-die-Teamverwaltung.png)
+![Access to the Team administration](images/Zugriff-auf-die-Teamverwaltung.png)
 
-3. Open the **team management of** your account.
+3. Open the **Team administration of** your account.
 4. Click **Bases** in the navigation.
 5. Depending on which type of link you want to delete, click either **Invitation Links** or **External Links**.
 6. Select the **link** you want to delete.
@@ -45,7 +45,7 @@ You can **delete** both **external links** and **invitation links** at any time 
 
 {{< warning  headline="Works only with base links" >}}
 
-You cannot delete an [external link for a view]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) via the team management, but only via the share icon for views.
+You cannot delete an [external link for a view]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) via the Team administration, but only via the share icon for views.
 
 {{< /warning >}}
 

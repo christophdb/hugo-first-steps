@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/plus-oder-enterprise-abonnement-buchen'
 ---
 
-Your team has a SeaTable Free subscription and you want to upgrade to Plus or Enterprise? No problem! Just use the **Subscription** tab in **Team Management** and book your desired subscription package.
+Your team has a SeaTable Free subscription and you want to upgrade to Plus or Enterprise? No problem! Just use the **Subscription** tab in **Team administration** and book your desired subscription package.
 
 On the [Pricing]({{< relref "pages/prices" >}}) page you can find an overview with all the subscription packages available in SeaTable and the features and capabilities they include.
 
@@ -16,7 +16,7 @@ On the [Pricing]({{< relref "pages/prices" >}}) page you can find an overview wi
 
 {{< warning  headline="Important note"  text="Subscription packages for your team can only be booked by **team administrators**." />}}
 
-1. Open the **team management**.
+1. Open the **Team administration**.
 2. Click on **Subscription**.
 3. Click **Upgrade Now** under the subscription you want.
 4. Fill out the **booking form.**

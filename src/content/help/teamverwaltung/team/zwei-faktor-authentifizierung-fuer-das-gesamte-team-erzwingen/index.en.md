@@ -14,7 +14,7 @@ url: '/help/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
 
 ![Enforce two-factor authentication for the entire team](images/Zwei-Faktor-Authentifizierung-fuer-das-gesamte-Team-erzwingen.gif)
 
-1. Go to the **team management**.
+1. Go to the **Team administration**.
 2. Click on the **Team** option.
 3. Click **Settings**.
 4. Turn on the **Enforce 2FA** slider **for all team members**.

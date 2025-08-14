@@ -1,5 +1,5 @@
 ---
-title: "Groupes et leurs membres dans la gestion d'équipe"
+title: "Groupes et leurs membres dans l'administration d'équipe"
 date: 2023-01-18
 lastmod: '2023-01-18'
 categories:
@@ -14,9 +14,9 @@ Apprenez tout sur les rôles possibles dans un groupe dans l'article [Les membre
 
 ## Modifier l'appartenance et les rôles dans un groupe
 
-![Gérer les membres du groupe dans la gestion d'équipe](images/Gruppe-verwalten.png)
+![Gérer les membres du groupe dans l'administration d'équipe](images/Gruppe-verwalten.png)
 
-1. Passez à la **gestion d'équipe**.
+1. Passez à l'**administration d'équipe**.
 2. Cliquez sur l'option de menu **Équipe**.
 3. Sélectionnez la catégorie **Groupes**.
 4. Sélectionnez un **groupe**.
@@ -33,7 +33,7 @@ Apprenez tout sur les rôles possibles dans un groupe dans l'article [Les membre
 
 Dès la [création d'un nouveau membre de l'équipe]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}}), vous pouvez ajouter directement une personne à différents groupes et lui attribuer des rôles.
 
-1. Passez à la **gestion d'équipe**.
+1. Passez à l'**administration d'équipe**.
 2. Cliquez sur l'option de menu **Équipe**.
 3. Cliquez sur **Ajouter un membre de l'équipe**.
 4. Une nouvelle fenêtre s'ouvre. Sélectionnez la catégorie **Groupes**.

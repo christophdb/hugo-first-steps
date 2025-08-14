@@ -10,13 +10,13 @@ url: '/fr/aide/ein-support-ticket-eroeffnen'
 
 {{< required-version "Plus" "Entreprise" >}}
 
-Les équipes ayant un abonnement Plus ou Enterprise ont la possibilité d'ouvrir un ticket auprès du **support SeaTable**. Dans la **gestion d'équipe**, vous pouvez à la fois créer de nouveaux tickets et consulter le statut de vos tickets.
+Les équipes ayant un abonnement Plus ou Enterprise ont la possibilité d'ouvrir un ticket auprès du **support SeaTable**. Dans l'**administration d'équipe**, vous pouvez à la fois créer de nouveaux tickets et consulter le statut de vos tickets.
 
-{{< warning  headline="Les tickets sont toujours créés pour l'équipe"  text="Veuillez noter que SeaTable ne crée pas de tickets personnels, mais toujours des tickets d'équipe. Cela signifie que toute personne de l'équipe ayant accès à la gestion d'équipe peut voir tous les tickets de votre équipe." />}}
+{{< warning  headline="Les tickets sont toujours créés pour l'équipe"  text="Veuillez noter que SeaTable ne crée pas de tickets personnels, mais toujours des tickets d'équipe. Cela signifie que toute personne de l'équipe ayant accès à l'administration d'équipe peut voir tous les tickets de votre équipe." />}}
 
 ## Comment ouvrir un ticket d'assistance
 
-1. Passez à la **gestion d'équipe**.
+1. Passez à l'**administration d'équipe**.
 2. Sélectionnez dans la **navigation** l'option de menu **Aide & Support**.
 3. Copiez le **mot de passe** ou placez-le dans le presse-papiers.
 4. Ouvrez le **système de tickets**.

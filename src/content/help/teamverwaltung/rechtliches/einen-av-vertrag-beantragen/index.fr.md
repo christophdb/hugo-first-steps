@@ -16,7 +16,7 @@ Dans la **gestion de l'équipe**, vous avez la possibilité de conclure et de t�
 
 ## Comment demander un contrat MO
 
-1. Passez à la [gestion d'équipe](https://account.seatable.io).
+1. Passez à [l'administration d'équipe](https://account.seatable.io).
 2. Sous **Navigation**, allez dans **Mentions légales**.
 3. Cliquez sur **Créer un contrat de traitement des commandes (CT)**.
 4. Un tableau de bord s'ouvre à droite. Saisissez le nom et l'adresse de votre entreprise dans la ligne **Client et adresse**.

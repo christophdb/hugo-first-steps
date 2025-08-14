@@ -8,14 +8,14 @@ author: 'nsc2'
 url: '/fr/aide/was-passiert-mit-meinen-daten-wenn-ich-mein-team-loesche'
 ---
 
-Les administrateurs d'équipe ont la possibilité de supprimer leur équipe dans SeaTable via la gestion d'équipe.  
+Les administrateurs d'équipe ont la possibilité de supprimer leur équipe dans SeaTable via l'administration d'équipe.  
 Cet article vous explique les conséquences de la suppression d'une équipe sur les données qui lui sont associées.
 
 ## Supprimer mon équipe
 
 {{< warning  headline="Remarque importante"  text="Les équipes ne peuvent être supprimées **que** par les admins d'équipe." />}}
 
-![Cliquez tout en bas de la page sur "Supprimer complètement le compte d'équipe et toutes les données".](images/delete-team.png) 4. Ouvrez la **gestion d'équipe**. 5. Cliquez sur **Abonnement**. 6. Cliquez tout en bas de la page sur **"Supprimer complètement le compte d'équipe et toutes les données".** 7. Activez le **curseur** et confirmez la suppression en cliquant **sur "Supprimer cette équipe et toutes les données".** 8. Vous recevrez ensuite automatiquement un **message** confirmant une nouvelle fois la suppression de votre compte d'équipe.
+![Cliquez tout en bas de la page sur "Supprimer complètement le compte d'équipe et toutes les données".](images/delete-team.png) 4. Ouvrez l'**administration d'équipe**. 5. Cliquez sur **Abonnement**. 6. Cliquez tout en bas de la page sur **"Supprimer complètement le compte d'équipe et toutes les données".** 7. Activez le **curseur** et confirmez la suppression en cliquant **sur "Supprimer cette équipe et toutes les données".** 8. Vous recevrez ensuite automatiquement un **message** confirmant une nouvelle fois la suppression de votre compte d'équipe.
 
 ![Confirmez la suppression de votre équipe.](images/delete-team-confirmation-1.png)
 

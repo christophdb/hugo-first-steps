@@ -14,7 +14,7 @@ L'**authentification à deux facteurs** permet de définir une deuxième barriè
 
 ![Forcer l'authentification à deux facteurs pour toute l'équipe](images/Zwei-Faktor-Authentifizierung-fuer-das-gesamte-Team-erzwingen.gif)
 
-1. Allez sur la **gestion d'équipe**.
+1. Allez sur l'**administration d'équipe**.
 2. Cliquez sur l'option **Équipe**.
 3. Cliquez sur **Paramètres**.
 4. Activez le curseur **Forcer 2FA pour tous les membres de l'équipe**.

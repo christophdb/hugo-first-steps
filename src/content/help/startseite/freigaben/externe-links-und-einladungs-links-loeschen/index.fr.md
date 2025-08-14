@@ -13,7 +13,7 @@ Vous pouvez **supprimer** à tout moment les **liens externes** et **les liens d
 ## Moyens de supprimer les liens externes et les liens d'invitation
 
 - Suppression via l'icône de partage {{< seatable-icon icon="dtable-icon-share" >}} pour les bases ou les vues
-- Suppression via la [gestion d'équipe]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
+- Suppression via [l'administration d'équipe]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 {{< warning  headline="Remarque"  text="Les liens externes existent pour les bases et les vues, les liens d'invitation uniquement pour les bases." />}}
 
@@ -28,15 +28,15 @@ Vous pouvez **supprimer** à tout moment les **liens externes** et **les liens d
 
 ![Suppression de liens externes et de liens d’invitation](images/delete-invitation-and-external-links.jpg)
 
-## Suppression via la gestion d'équipe
+## Suppression via l'administration d'équipe
 
-{{< warning  headline="Réservé aux administrateurs de l'équipe"  text="Pour pouvoir accéder à la gestion d'équipe, vous devez être **administrateur d'équipe**." />}}
+{{< warning  headline="Réservé aux administrateurs de l'équipe"  text="Pour pouvoir accéder à l'administration d'équipe, vous devez être **administrateur d'équipe**." />}}
 
 1. Allez sur la **page d'accueil** de SeaTable et cliquez sur l'**image de** votre **avatar**.
 
-![Accès à la gestion d'équipe](images/Zugriff-auf-die-Teamverwaltung.png)
+![Accès à l'administration d'équipe](images/Zugriff-auf-die-Teamverwaltung.png)
 
-3. Ouvrez la **gestion d'équipe** de votre compte.
+3. Ouvrez l'**administration d'équipe** de votre compte.
 4. Cliquez dans la navigation sur **Bases**.
 5. Selon le type de lien que vous souhaitez supprimer, cliquez soit sur **Liens d'invitation**, soit sur **Liens externes**.
 6. Sélectionnez le **lien** à supprimer.
@@ -45,7 +45,7 @@ Vous pouvez **supprimer** à tout moment les **liens externes** et **les liens d
 
 {{< warning  headline="Ne fonctionne que pour les liens de base" >}}
 
-Vous ne pouvez pas supprimer un [lien externe pour une vue]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) via la gestion d'équipe, mais uniquement via l'icône de partage pour les vues.
+Vous ne pouvez pas supprimer un [lien externe pour une vue]({{< relref "help/startseite/freigaben/externen-link-fuer-eine-ansicht-erstellen" >}}) via l'administration d'équipe, mais uniquement via l'icône de partage pour les vues.
 
 {{< /warning >}}
 

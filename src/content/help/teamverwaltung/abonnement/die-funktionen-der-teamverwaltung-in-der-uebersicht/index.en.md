@@ -1,5 +1,5 @@
 ---
-title: 'Overview of the team management functions'
+title: 'Overview of the Team administration functions'
 date: 2022-10-21
 lastmod: '2023-02-14'
 categories:
@@ -10,7 +10,7 @@ url: '/help/die-funktionen-der-teamverwaltung-in-der-uebersicht'
 
 In SeaTable, your team is the center of attention. You work together on your tasks and projects. In the team you celebrate successes, experience setbacks and develop your potential. In this article you will learn how to manage your team via the **team administration** and what you can do there.
 
-You manage your team including all users, groups and bases in [SeaTable's team management](https://account.seatable.io). Your **subscription** is also linked to your team, whether you have a **free** subscription or a paid **Plus** or **Enterprise** subscription. You also manage your subscription in the team administration.
+You manage your team including all users, groups and bases in [SeaTable's Team administration](https://account.seatable.io). Your **subscription** is also linked to your team, whether you have a **free** subscription or a paid **Plus** or **Enterprise** subscription. You also manage your subscription in the team administration.
 
 {{< warning  headline="Access for administrators only"  text="Team administration is accessible only for **team administr** ators." />}}
 
@@ -28,16 +28,16 @@ The following articles may be of interest to you:
 - [Two-factor authentication for the entire team]({{< relref "help/teamverwaltung/team/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen" >}})
 - [Lock or delete a team member]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 - [Changing the team name]({{< relref "help/teamverwaltung/team/aendern-des-teamnamens" >}})
-- [Groups and their members in the team management]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
+- [Groups and their members in the Team administration]({{< relref "help/teamverwaltung/team/gruppen-und-ihre-mitglieder-in-der-teamverwaltung" >}})
 - [Create a new group]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
 
 ## Bases and shares
 
-Within the team management, you can see all **bases of** your team members and track who has an **access permission to** which bases. In addition, you can monitor and restrict sent [invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) links and [external links]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) and see whether the links grant read or write permissions and how often they have been accessed.
+Within the Team administration, you can see all **bases of** your team members and track who has an **access permission to** which bases. In addition, you can monitor and restrict sent [invitation]({{< relref "help/startseite/freigaben/einladungs-link-erklaert" >}}) links and [external links]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}) and see whether the links grant read or write permissions and how often they have been accessed.
 
 The following articles may be of interest to you:
 
-- [Bases in the team management]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})
+- [Bases in the Team administration]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}})
 - [View all access permissions of a Base]({{< relref "help/teamverwaltung/bases/alle-zugriffsberechtigungen-einer-base-einsehen" >}})
 - [base sharing Allow via invitation link]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
 - [Unlock a team member again]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})
@@ -46,7 +46,7 @@ As a team administrator, you also have the option of manually [emptying the recy
 
 ## Subscription
 
-By deleting your entire team in Team Management, **you automatically terminate your contract** with SeaTable.
+By deleting your entire team in Team administration, **you automatically terminate your contract** with SeaTable.
 
 The following articles may be of interest to you:
 
@@ -58,7 +58,7 @@ To be continued ...
 
 ## Help & Support
 
-Through the team management you have the possibility to create a **support ticket for** specific questions. SeaTable can thus provide you with personalized answers to your concerns.
+Through the Team administration you have the possibility to create a **support ticket for** specific questions. SeaTable can thus provide you with personalized answers to your concerns.
 
 The following articles may be of interest to you:
 
@@ -66,7 +66,7 @@ The following articles may be of interest to you:
 
 ## Legal
 
-In the team management you will find the option to receive a personalized **AV contract** as well as to view general **legal documents**.
+In the Team administration you will find the option to receive a personalized **AV contract** as well as to view general **legal documents**.
 
 The following articles may be of interest to you:
 

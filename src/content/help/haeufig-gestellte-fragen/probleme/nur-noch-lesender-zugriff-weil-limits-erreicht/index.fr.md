@@ -26,6 +26,6 @@ Vous pouvez également supprimer une partie de vos données jusqu'à ce que vous
 
 Veuillez noter que vos **limites** peuvent également être atteintes si vous passez à une **formule d'abonnement plus petite**. Si, après un passage d'**Enterprise à Plus** ou de **Plus à Free** , le volume de vos données dépasse les limites contenues dans le nouvel abonnement, il se peut que vous ne disposiez plus que d'un **accès en lecture** à vos données. Vous pouvez également demander à votre fournisseur d'accès Internet de vous fournir un accès en lecture seule, ce qui signifie qu'il ne pourra plus traiter vos données jusqu'à ce que vous passiez à une **formule d'abonnement plus complète** ou que vous supprimiez une partie de vos données.
 
-Par conséquent, **avant** de passer à un forfait inférieur, assurez-vous que vos données **ne** dépassent pas les limites du nouveau forfait. Vous recevrez également un **message** de SeaTable avant de confirmer le changement d'abonnement dans la gestion d'équipe.
+Par conséquent, **avant** de passer à un forfait inférieur, assurez-vous que vos données **ne** dépassent pas les limites du nouveau forfait. Vous recevrez également un **message** de SeaTable avant de confirmer le changement d'abonnement dans l'administration d'équipe.
 
 ![Remarque affichée avant la confirmation du passage à une formule d'abonnement inférieure](images/Hinweis-Wechsel-Abo-Paket.png)

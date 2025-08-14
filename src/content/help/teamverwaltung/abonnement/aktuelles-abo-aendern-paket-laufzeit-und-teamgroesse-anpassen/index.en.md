@@ -41,7 +41,7 @@ Of course, you also only pay the respective **pro-rata amount** for each change.
 
 {{< warning  headline="Important note"  text="Your team's subscription package can only be changed by **team administrators**." />}}
 
-1. Open the **team management**.
+1. Open the **Team administration**.
 2. Switch to the **Subscription** section.
 3. Click **Customize Subscription**.
 4. Make the desired changes to the **subscription**, **number of users**, and **billing period**.
@@ -59,7 +59,7 @@ Canceling your paid subscription will not delete your team or data. Your team wi
 
 {{< /warning >}}
 
-1. Open the **team management**.
+1. Open the **Team administration**.
 2. Click on **Subscription**.
 3. Click **Cancel Subscription and switch to SeaTable Free**.
 
