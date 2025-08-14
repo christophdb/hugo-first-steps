@@ -37,7 +37,7 @@ You can **upload files** in the file column by clicking on a **cell** with the m
 
 {{< warning  headline="Connected to file management" >}}
 
-Files that you upload locally to a file column are saved in a **system folder** that you can access via the [file management]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) of your Base.
+Files that you upload locally to a file column are saved in a **system folder** that you can access via the [file management]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) of your base.
 
 {{< /warning >}}
 
@@ -45,9 +45,9 @@ Files that you upload locally to a file column are saved in a **system folder** 
 
 Besides new files that you upload locally to the cell of a file column, you can also add existing files, which can come from **three sources**:
 
-- **Last uploaded**: Here you will find the most recently uploaded files saved in the Base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
+- **Last uploaded**: Here you will find the most recently uploaded files saved in the base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
 - **My folders**: Here you have access to files in your own folders, which you can create and fill in the [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}).
-- **Seafile**: Here you can select files from [Seafile libraries]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) that are attached to your Base.
+- **Seafile**: Here you can select files from [Seafile libraries]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}) that are attached to your base.
 
 ![Add existing files to a file column](images/Add-existing-files-to-a-file-column.png)
 
@@ -77,7 +77,7 @@ You can then specify **your own file name** and the **number of files** containe
 
 ![Dialog box to download all files](images/Download-all-files-dialog.png)
 
-If you click on the **three dots**, you have two options for saving the file: When **downloading**, a zip file is saved on your device from which you can extract all files. You can also save the files **in Seafile**. To do this, you must first [connect a Seafile library to your Base]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
+If you click on the **three dots**, you have two options for saving the file: When **downloading**, a zip file is saved on your device from which you can extract all files. You can also save the files **in Seafile**. To do this, you must first [connect a Seafile library to your base]({{< relref "help/integrationen/integrationen-innerhalb-von-seatable/eine-seafile-bibliothek-an-seatable-anbinden" >}}).
 
 ## Rename files
 
@@ -102,7 +102,7 @@ If you click on the **three dots**, you have two options for saving the file: Wh
 
 {{< warning  headline="Note" >}}
 
-The files are **not** permanently deleted in this way. Only when you delete the files in the Base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) are they [permanently removed]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
+The files are **not** permanently deleted in this way. Only when you delete the files in the base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) are they [permanently removed]({{< relref "help/base-editor/dateien/wie-man-dateien-dauerhaft-entfernt" >}}).
 
 {{< /warning >}}
 

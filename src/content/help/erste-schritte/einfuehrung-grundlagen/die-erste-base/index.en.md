@@ -20,13 +20,13 @@ After logging in, you will find yourself on the **start** page. Here you manage 
 
 By clicking on the **avatar image** in the upper right corner, you can switch to the [personal settings]({{< relref "help/startseite/persoenliche-einstellungen" >}}) to adjust the system language, for example.
 
-Click on **Add Base** to create your first base. Give it a **name**, press **Enter** and the base will be placed on the start page. When you move the mouse pointer over the base name, a **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}} and the three-dot icon {{< seatable-icon icon="dtable-icon-more-vertical" >}} for the advanced functions appear on the right.
+Click on **Add base** to create your first base. Give it a **name**, press **Enter** and the base will be placed on the start page. When you move the mouse pointer over the base name, a **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}} and the three-dot icon {{< seatable-icon icon="dtable-icon-more-vertical" >}} for the advanced functions appear on the right.
 
 Using the pencil icon, you can rename the base and assign a different icon and color to it. The advanced functions include, for example, [sharing]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) a base or [exporting]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}) it. You open the base by clicking on its name.
 
 ## Table view
 
-The new Base contains a [table]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) from the beginning. The Table view is the central, but not the only view of SeaTable. In the Table view you manage the tables of the Base, define their column structure and enter or analyze your data.
+The new base contains a [table]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}}) from the beginning. The Table view is the central, but not the only view of SeaTable. In the Table view you manage the tables of the base, define their column structure and enter or analyze your data.
 
 SeaTable offers a total of [over 20 column types]({{< relref "help/base-editor/spalten/uebersicht-alle-spaltentypen" >}}). From conventional spreadsheets you probably already know text, number and date columns. Of course, SeaTable knows these as well. In addition, SeaTable offers columns for images and files, buttons and checkboxes as well as single and multiple select fields.
 

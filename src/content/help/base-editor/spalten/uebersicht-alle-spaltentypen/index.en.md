@@ -137,7 +137,7 @@ You need more info about the formula column? Then take a look at this [article](
 
 Icon: {{< seatable-icon icon="dtable-icon-link-other-record" >}} **Link to other records**
 
-In cells of this column type you can enter any number of **references to records in other tables** of the Base. The link column is intended for mapping relations between records of different tables. The link column can be used to map 1:n and n:1 relations as well as n:m relations.
+In cells of this column type you can enter any number of **references to records in other tables** of the base. The link column is intended for mapping relations between records of different tables. The link column can be used to map 1:n and n:1 relations as well as n:m relations.
 
 More information about the column type Link to other records can be found [here.]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}})
 
@@ -153,7 +153,7 @@ With the Link formula you can **display** data from **linked tables** in your cu
 
 Icon: {{< seatable-icon icon="dtable-icon-collaborator" >}} **Collaborator**
 
-In a collaborator column you can record any number of **users** who have at least read access to the Base. SeaTable users without access cannot be entered in the column as collaborators. Other entries are also not allowed. The collaborator column is especially useful for project management. For example, if you enter tasks to be completed in a table, you can record the persons performing the tasks and the responsibles in columns of the Collaborator type.
+In a collaborator column you can record any number of **users** who have at least read access to the base. SeaTable users without access cannot be entered in the column as collaborators. Other entries are also not allowed. The collaborator column is especially useful for project management. For example, if you enter tasks to be completed in a table, you can record the persons performing the tasks and the responsibles in columns of the Collaborator type.
 
 [More about the collaborator column]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}})
 
@@ -177,7 +177,7 @@ In this column you can record **locations** and visualize them later with the [m
 
 Icon: {{< seatable-icon icon="dtable-icon-rename" >}} **Digital signature**
 
-You can store **digital signatures** in a signature column, which are automatically saved in the file management of your Base. Digital signatures are very well suited for data capture using **web forms**, for example to have applications conveniently signed online.
+You can store **digital signatures** in a signature column, which are automatically saved in the file management of your base. Digital signatures are very well suited for data capture using **web forms**, for example to have applications conveniently signed online.
 
 [More about the signature column]({{< relref "help/base-editor/spaltentypen/die-signatur-spalte" >}})
 

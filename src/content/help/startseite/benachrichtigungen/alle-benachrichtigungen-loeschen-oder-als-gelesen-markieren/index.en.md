@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/alle-benachrichtigungen-loeschen-oder-als-gelesen-markieren'
 ---
 
-Notifications are an important part of collaboration in SeaTable and inform you, among other things, that automations have been triggered in your Bases, comments have been added to a row , or Bases have been shared with you. To help you keep track of notifications you receive, you can access them both from the Home screen and from within your Bases.
+Notifications are an important part of collaboration in SeaTable and inform you, among other things, that automations have been triggered in your bases, comments have been added to a row , or bases have been shared with you. To help you keep track of notifications you receive, you can access them both from the Home screen and from within your bases.
 
 ## Delete all notifications
 
@@ -40,18 +40,18 @@ Marking notifications as read can be useful, for example, if you have taken note
 
 ## Access to the notifications
 
-You can access notifications both from the SeaTable **home** page and from within **Bases**, and consequently mark your notifications as read or delete them in both ways. To do this, simply click on the **bell** {{< seatable-icon icon="dtable-icon-notice" >}} at the top right of the page.
+You can access notifications both from the SeaTable **home** page and from within **bases**, and consequently mark your notifications as read or delete them in both ways. To do this, simply click on the **bell** {{< seatable-icon icon="dtable-icon-notice" >}} at the top right of the page.
 
 ### Access via the home page
 
 ![Access to the Notification Center from the Home screen](images/notifications-from-the-starting-page.jpg)
 
-### Access within a Base
+### Access within a base
 
-![Access to the notification center within a Base](images/notifications-in-base-1.jpg)
+![Access to the notification center within a base](images/notifications-in-base-1.jpg)
 
 {{< warning  headline="Important note" >}}
 
-Please note that it depends on the **content** of a notification where exactly it is displayed. Notifications for shared bases, for example, are always displayed on the **Homepage**, while notifications resulting from automations, comments or collaborator column entries are displayed in the respective **Base** and app comments in the respective **App**.
+Please note that it depends on the **content** of a notification where exactly it is displayed. Notifications for shared bases, for example, are always displayed on the **Homepage**, while notifications resulting from automations, comments or collaborator column entries are displayed in the respective **base** and app comments in the respective **app**.
 
 {{< /warning >}}

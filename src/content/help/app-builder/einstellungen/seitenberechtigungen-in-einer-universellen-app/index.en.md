@@ -16,9 +16,9 @@ To precisely control **access to your data**, you can set **individual page perm
 
 ## Set and edit page permissions
 
-1. Open a **Base** to which you have already added a Universal App.
-2. Click **Apps** in the Base header.
-![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
+1. Open a **base** to which you have already added a Universal App.
+2. Click **Apps** in the base header.
+![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
 3. Hover your mouse over the Universal App and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 ![Click on the edit icon](images/add-page-to-universal-app-1.png)
 4. Select the desired **page** from the navigation on the left side of the page and click on the **gear icon** {{< seatable-icon icon="dtable-icon-set-up" >}}.

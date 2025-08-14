@@ -11,7 +11,7 @@ url: '/help/schritt-4-geldeingang'
 After your course participants have received the payment request by e-mail, they will transfer the course fee to your bank account. We will not automate the verification of incoming payments any further at this point. Nevertheless, it would make sense to integrate an additional button in your base that performs two tasks:
 
 1. Confirmation of receipt of payment and thus the complete registration of the participant for the course.
-2. Documentation of the payment process in the Base.
+2. Documentation of the payment process in the base.
 
 ## Multiple actions in one button
 

@@ -12,7 +12,7 @@ When you sign up for a paid SeaTable subscription, you are typically required to
 
 ## What problems can occur with 3D Secure?
 
-Typically, payments to SeaTable are made without difficulty. You select the subscription you want in Team administration, specify the bill recipient, and complete the order with your credit card information.  
+Typically, payments to SeaTable are made without difficulty. You select the subscription you want in the team administration, specify the bill recipient, and complete the order with your credit card information.  
 Usually, a few seconds later, a new form appears to confirm 3D Secure authentication, which has been reloaded from your bank. The methods for confirming 3D Secure differ depending on the bank. Basically, however, this step must be performed in order for the payment to SeaTable to be authorized and accepted for future payments.
 
 There are always problems with this reloading of the 3D Secure check. Sometimes this new form does not appear, sometimes the screen goes white and sometimes it is accidentally clicked away.

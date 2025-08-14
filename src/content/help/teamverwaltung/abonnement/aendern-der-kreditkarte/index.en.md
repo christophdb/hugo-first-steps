@@ -10,11 +10,11 @@ url: '/help/aendern-der-kreditkarte'
 
 {{< required-version "Team Administrators" >}}
 
-You want to change the credit card you used to pay your SeaTable subscription? No problem, via the Team administration this is done with just a few steps.
+You want to change the credit card you used to pay your SeaTable subscription? No problem, via the team administration this is done with just a few steps.
 
 ## Change credit card
 
-![Change your credit card easily via the Team administration](images/Aendern-der-Kreditkarte-1-1.png)
+![Change your credit card easily via the team administration](images/Aendern-der-Kreditkarte-1-1.png)
 
 1. Open the **Team administration**.
 2. Click on **Subscription**.

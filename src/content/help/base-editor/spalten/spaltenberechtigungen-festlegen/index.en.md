@@ -12,7 +12,7 @@ url: '/help/spaltenberechtigungen-festlegen'
 
 If you have owner or administrator rights, you can define in each table column **who is authorized to edit cells and settings of the respective column**. You have three different options in each case.
 
-{{< warning  headline="Important note"  text="The column permissions can be edited only by the **owner** or an **administrator of** the **group** in which the Base is located." />}}
+{{< warning  headline="Important note"  text="The column permissions can be edited only by the **owner** or an **administrator of** the **group** in which the base is located." />}}
 
 ## column permissions determine
 

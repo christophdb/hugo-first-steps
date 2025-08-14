@@ -10,7 +10,7 @@ url: '/help/was-sind-webhooks-und-wofuer-setzt-man-diese-ein'
 
 {{< required-version "Free" "Plus" "Enterprise" >}}
 
-SeaTable offers the possibility to set up one or even more webhooks for a Base. Once a webhook is set up, any change to the contents of a Base triggers an impulse in the form of an HTTP post request to any URL.
+SeaTable offers the possibility to set up one or even more webhooks for a base. Once a webhook is set up, any change to the contents of a base triggers an impulse in the form of an HTTP post request to any URL.
 
 Simplified, you can think of a webhook as a notification system. Every time something changes in a base, a record is sent to a URL you define.
 
@@ -30,7 +30,7 @@ Thus, you can use webhooks to ensure that certain changes are processed in anoth
 
 Thus, webhooks basically work only in one direction. SeaTable tells another application that something has happened. It is thus the responsibility of the target application to decide whether this change is relevant and what follow-up activities should be triggered. Popular uses of webhooks include:
 
-- Email or chat notification when a new row is created in a Base.
+- Email or chat notification when a new row is created in a base.
 - Automatic publication of an article as soon as the status is changed to "publish now".
 - Updating a subscription as soon as a payment is recorded.
 

@@ -19,7 +19,7 @@ In addition, there are several options you can use to secure an external link:
 - You have the option to set an **automatic expiration date for** an external link. After the selected number of days, the external link will lose its validity.
 - In addition, you can also set any **password** for an external link. This must be entered correctly by another user to gain access to the view.
 
-Everything else you should know about external links can be found in the article [Creating an External Link for a Base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}).
+Everything else you should know about external links can be found in the article [Creating an External Link for a base]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}).
 
 ## Create external link for a view
 

@@ -18,7 +18,7 @@ You can export the current status of your bases including all tables, [views]({{
 
 ![Bases export](images/export-bases.png)
 
-For exporting bases, SeaTable uses the [DTABLE file format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). For more information, see the article [Saving a Base as a DTABLE File]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}).
+For exporting bases, SeaTable uses the [DTABLE file format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}). For more information, see the article [Saving a base as a DTABLE File]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}}).
 
 ## Export table
 
@@ -26,7 +26,7 @@ You can **export** individual **tables to Excel files** from any base to which y
 
 ![Export tables](images/export-tables.jpg)
 
-You start the export of a table from Base. Click on the drop-down arrow to the right of the name of the table you want to export. Now select **Export table to Excel** to start the download. Once the export is complete, you will find the XLSX file in the selected location on your device.
+You start the export of a table from base. Click on the drop-down arrow to the right of the name of the table you want to export. Now select **Export table to Excel** to start the download. Once the export is complete, you will find the XLSX file in the selected location on your device.
 
 ## Import base
 
@@ -34,9 +34,9 @@ SeaTable supports importing bases from its own [DTABLE format]({{< relref "help/
 
 ![Importing data into a base](images/import-data-into-your-base.png)
 
-What you need to do when importing a base depends on the type of import file. However, the procedure is the same for all file types: go to the **Home** page and click **Add a Base or Folder** in the area or group where you want the new Base. You can get more detailed information in the following articles:
+What you need to do when importing a base depends on the type of import file. However, the procedure is the same for all file types: go to the **Home** page and click **Add a base or Folder** in the area or group where you want the new base. You can get more detailed information in the following articles:
 
-- [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
+- [Creating a base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Import Excel files into SeaTable]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 - [Data import using CSV in SeaTable]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}})
 
@@ -52,7 +52,7 @@ or import the data into a **new table**.
 
 The import is done as a [CSV file]({{< relref "help/startseite/import-von-daten/daten-import-mithilfe-von-csv-in-seatable" >}}) or [Excel file]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}}) into the table. For more information, see the linked articles.
 
-If you have already created a table in **SeaTable** and need it in **another base**, you can simply copy it over. To learn how to import tables from another Base, [click here]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}).
+If you have already created a table in **SeaTable** and need it in **another base**, you can simply copy it over. To learn how to import tables from another base, [click here]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}).
 
 {{< warning  headline="Memory limit for rows" >}}
 

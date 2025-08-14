@@ -10,7 +10,7 @@ url: '/help/rechnungsadresse-anpassen'
 
 {{< required-version "Team Administrators" >}}
 
-You want to change your billing address? No problem, via the Team administration this is done in just a few steps.
+You want to change your billing address? No problem, via the team administration this is done in just a few steps.
 
 ## Customize billing address
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/die-signatur-spalte'
 ---
 
-You can store a digital signature in a **signature column**, which is saved as a PNG file in the Base file manager.
+You can store a digital signature in a **signature column**, which is saved as a PNG file in the base file manager.
 
 ## How to create a signature column
 
@@ -44,15 +44,15 @@ If you are not satisfied with your deposited signature and want to sign again, s
 
 {{< warning  headline="File not deleted" >}}
 
-However, the original signature remains available in the Base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) as a PNG file if you have already saved it.
+However, the original signature remains available in the base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) as a PNG file if you have already saved it.
 
 {{< /warning >}}
 
 ## Digital signatures in the file manager
 
-Each stored signature is also saved in the [file management]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) of your Base as a PNG file in a **system folder**.
+Each stored signature is also saved in the [file management]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) of your base as a PNG file in a **system folder**.
 
-![Folder in the file management of your Base where your signatures are stored ](images/stored-signatures-in-filemanagement.jpg)
+![Folder in the file management of your base where your signatures are stored ](images/stored-signatures-in-filemanagement.jpg)
 
 From there you can both **download** and **delete** your signatures.
 

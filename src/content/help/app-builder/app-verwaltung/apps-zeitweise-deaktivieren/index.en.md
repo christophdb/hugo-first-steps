@@ -15,9 +15,9 @@ It may happen that you want to **temporarily prevent the use of an app** because
 ## Disable an app
 
 1. Open the **base** where you want to disable an app.
-2. Click **Apps** in the Base header.
+2. Click **Apps** in the base header.
 
-![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
+![Click apps in the base header](images/click-apps-in-the-base-header.jpg)
 
 4. Hover your mouse over the desired app and click on the **three dots** on the right.
 5. Select **Pause** .

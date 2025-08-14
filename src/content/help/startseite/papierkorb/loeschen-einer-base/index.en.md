@@ -1,5 +1,5 @@
 ---
-title: 'Deleting a Base'
+title: 'Deleting a base'
 date: 2022-09-19
 lastmod: '2023-06-27'
 categories:

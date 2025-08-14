@@ -14,11 +14,11 @@ In SeaTable you don't need to be afraid of losing your data. Even accidentally d
 
 ![Table recovery](images/Wiederherstellung-von-Tabellen.png)
 
-2. Click **Versions** in the top right corner of the Base options.
+2. Click **Versions** in the top right corner of the base options.
 3. Open the **recycle bin**.
 4. You will now see all **tables**, **rows** and **columns** that have been deleted within this base in the past.
 5. Select the desired **table** you want to restore and click **Restore to** the right of the deletion time.
-6. The selected table will then be automatically added back to your **Base**.
+6. The selected table will then be automatically added back to your **base**.
 
 ## Table contents that are restored
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/historie-und-logs'
 ---
 
-In order to keep track of who made what **changes to** the data in your Bases and when, the **history** is temporarily stored in various places in SeaTable. There is an overall **activity log** on the start page, a **log** for each Base and for each row. In addition, you can review automations and scripts that have been performed in an **execution log** for each.
+In order to keep track of who made what **changes to** the data in your bases and when, the **history** is temporarily stored in various places in SeaTable. There is an overall **activity log** on the start page, a **log** for each base and for each row. In addition, you can review automations and scripts that have been performed in an **execution log** for each.
 
 ## Activity log
 
@@ -22,7 +22,7 @@ However, only the changes that have occurred in your bases **within the last 7 d
 
 By clicking on the **name of** a **base** to be found in the log, you can open it in a new window.
 
-To learn more about the changes made to a Base, simply click on the **changes** next to a Base's name in the Activity Log.
+To learn more about the changes made to a base, simply click on the **changes** next to a base's name in the Activity Log.
 
 ![More detailed information about the changes made to a base in the activity log](images/details-of-a-edit.png)
 
@@ -40,7 +40,7 @@ By clicking **Details** you can view the corresponding changes in a separate win
 
 All activities performed in a base can be viewed in the so-called base **log**, which you can access via the base header.
 
-![Open logs in Base](images/Logs-in-der-Base-oeffnen.png)
+![Open logs in base](images/Logs-in-der-Base-oeffnen.png)
 
 In a base log you will find the latest changes that have been made to the corresponding base. Each log entry contains the following information:
 
@@ -66,7 +66,7 @@ All changes made in a row can be viewed in the so-called **rows-log, which you c
 
 ![Open the rows log](images/how-to-open-the-cell-log.jpg)
 
-The **rows-Log offers you the possibility to track when which user made which change to the record in a** **row** file. If you want to view all changes in a Base instead, you have to resort to the **Base log**.
+The **rows-Log offers you the possibility to track when which user made which change to the record in a** **row** file. If you want to view all changes in a base instead, you have to resort to the **base log**.
 
 ![Display of changes in a row through logs.](images/Logs.png)
 
@@ -74,7 +74,7 @@ If you need more information about the rows log, please have a look at the corre
 
 ## Automation execution log
 
-To check the correct execution of an **automation**, you have the possibility to view the **execution log**, which you can reach via the Base options.
+To check the correct execution of an **automation**, you have the possibility to view the **execution log**, which you can reach via the base options.
 
 ![Show execution log](images/open-an-automation-log.png)
 

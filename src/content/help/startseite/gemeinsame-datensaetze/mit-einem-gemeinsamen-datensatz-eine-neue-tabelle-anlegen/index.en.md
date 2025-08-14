@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen'
 ---
 
-To use a common dataset in another Base, you can import the corresponding table view of the common dataset into the desired Base. To do this, create a new table in the Base with the corresponding data set. You can then work with the data of the common dataset or the table view, including specific filter and sort conditions, in the selected base as well.
+To use a common dataset in another base, you can import the corresponding table view of the common dataset into the desired base. To do this, create a new table in the base with the corresponding data set. You can then work with the data of the common dataset or the table view, including specific filter and sort conditions, in the selected base as well.
 
 ## Requirements
 
@@ -23,11 +23,11 @@ To be able to create a new table in a base with a common dataset, the base must 
 
 ![Create a new table with a common dataset](images/image-how-to-create-a-new-table-with-a-common-dataset.png)
 
-1. Open a **table** that is in a Base that meets one of the **requirements** described above.
+1. Open a **table** that is in a base that meets one of the **requirements** described above.
 2. Click the **\[+\] symbol** to create a new table.
 3. Click **Import common dataset**.
 4. Select a **common dataset**.
-5. The common dataset will then be imported into your Base as a **new table**.
+5. The common dataset will then be imported into your base as a **new table**.
 
 If the **import** of the common dataset is **successful**, the following message appears:
 

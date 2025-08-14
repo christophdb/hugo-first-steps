@@ -16,8 +16,8 @@ With the help of automations, you can **automate processes** so that you not onl
 
 ![Create automations](images/how-to-use-automations-for-locking-rows-3.png)
 
-1. Open a **Base** in which you want to create an Automation.
-2. Click {{< seatable-icon icon="dtable-icon-rule" >}} in the Base header, and then click **Automation Rules**.
+1. Open a **base** in which you want to create an Automation.
+2. Click {{< seatable-icon icon="dtable-icon-rule" >}} in the base header, and then click **Automation Rules**.
 3. Click **Add Rule**.
 4. Create the desired **automation** and confirm with **Submit**.
 

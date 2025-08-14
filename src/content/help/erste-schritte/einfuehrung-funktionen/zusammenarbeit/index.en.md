@@ -31,7 +31,7 @@ All members of a [group]({{< relref "help/startseite/gruppen/eine-neue-gruppe-an
 
 ## History
 
-To help you keep track of who made what changes to the data in your Bases and when, the history is temporarily stored in various places in SeaTable. There is an overall **activity log** on the home page, a log for each **base** and a log for each **row**. In addition, you can review **automations** and **scripts** that have been performed, each in an execution log.
+To help you keep track of who made what changes to the data in your bases and when, the history is temporarily stored in various places in SeaTable. There is an overall **activity log** on the home page, a log for each **base** and a log for each **row**. In addition, you can review **automations** and **scripts** that have been performed, each in an execution log.
 
 ## Common datasets
 
@@ -39,15 +39,15 @@ Records that different groups and users in your team need can be made available 
 
 ## Internal shares
 
-You want to work temporarily with one or more SeaTable users on one Base? With [internal shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) you can do exactly that! You determine whether a share should be read-only or read and write. This way you always keep full control over the data in your Base.
+You want to work temporarily with one or more SeaTable users on one base? With [internal shares]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) you can do exactly that! You determine whether a share should be read-only or read and write. This way you always keep full control over the data in your base.
 
 ## External shares
 
-Bases can be shared not only with other SeaTable users. You can also make Bases available to third parties via an external share. An [external link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}), which you can set with a password and/or an expiration date, gives all persons with knowledge of the link read access to the shared base. You create an external link - like an internal share - via the **share icon** {{< seatable-icon icon="dtable-icon-share" >}} in the base header.
+Bases can be shared not only with other SeaTable users. You can also make bases available to third parties via an external share. An [external link]({{< relref "help/startseite/freigaben/externer-link-erklaert" >}}), which you can set with a password and/or an expiration date, gives all persons with knowledge of the link read access to the shared base. You create an external link - like an internal share - via the **share icon** {{< seatable-icon icon="dtable-icon-share" >}} in the base header.
 
 ## Comments
 
-To keep discussions where they belong, you can [comment on]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) each table entry. Group members and others with access to Base are notified of the comments and can respond. This keeps the entire discussion on a topic right in Base. Searching for a discussion in old emails, chat or log is a thing of the past.
+To keep discussions where they belong, you can [comment on]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) each table entry. Group members and others with access to base are notified of the comments and can respond. This keeps the entire discussion on a topic right in base. Searching for a discussion in old emails, chat or log is a thing of the past.
 
 ## Notifications
 

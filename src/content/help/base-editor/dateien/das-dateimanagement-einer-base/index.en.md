@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/das-dateimanagement-einer-base'
 ---
 
-**File management** revolutionizes the way you handle files in your Base. You can upload, rename, copy, move, download and delete **files** there directly. You can even create **new documents** (e.g. Excel, Word or PowerPoint files) and edit them using the integrated editor.
+**File management** revolutionizes the way you handle files in your base. You can upload, rename, copy, move, download and delete **files** there directly. You can even create **new documents** (e.g. Excel, Word or PowerPoint files) and edit them using the integrated editor.
 
 In this overview article you will find all information on the structure and individual functions of the file manager.
 
@@ -16,7 +16,7 @@ In this overview article you will find all information on the structure and indi
 
 The file manager contains various folders, which in turn contain various files. A basic distinction can be made between **three folder types**:
 
-- **Custom folders** are independent from the structure of a Base and can be freely created and organized by the user.
+- **Custom folders** are independent from the structure of a base and can be freely created and organized by the user.
 
 ![Own folders freely created and organized by the user in the file management system ](images/costum-folders.png)
 
@@ -34,19 +34,19 @@ The following diagram shows an overview of the complete **folder structure of th
 
 ## Accessing the file manager
 
-1. Open a **Base** where you want to manage files.
-2. Click on the three dots in the Base header to open the **advanced Base options**.
+1. Open a **base** where you want to manage files.
+2. Click on the three dots in the base header to open the **advanced base options**.
 3. Go to **File Management**.
 
 ![Opening the file management via the advanced base options](images/open-file-management.jpg)
 
-5. A resizable window with the **folder structure** then opens automatically - the Base file management.
+5. A resizable window with the **folder structure** then opens automatically - the base file management.
 
-![Open file management of a Base](images/opened-file-management.png)
+![Open file management of a base](images/opened-file-management.png)
 
 You can also **add** the file manager **to the toolbar** by clicking on the **middle icon** at the top right of the window.
 
-![Adding file management to the toolbar in the Base header](images/add-file-management-to-toolbar.png)
+![Adding file management to the toolbar in the base header](images/add-file-management-to-toolbar.png)
 
 This means you can always access the **file manager** with just one click from your toolbar.
 
@@ -212,7 +212,7 @@ Then confirm the process again with **Delete**.
 
 ![Confirmation of the deletion process](images/confirm-deletion.jpg)
 
-Files that you delete from the file manager also disappear from your Base (e.g. from signature, file, image columns, web forms or universal apps) and end up in the **recycle bin**, where they remain for 60 days.
+Files that you delete from the file manager also disappear from your base (e.g. from signature, file, image columns, web forms or universal apps) and end up in the **recycle bin**, where they remain for 60 days.
 
 {{< warning  headline="Important note"  text="Please note that files in the Recycle Bin are permanently removed from the system **after 60 days**. Consequently, make sure that **only** files that are no longer needed are in the Recycle Bin." />}}
 

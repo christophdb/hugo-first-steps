@@ -26,7 +26,7 @@ It is important to understand that a view is just another way of looking at the 
 
 ## The table as the default representation of a view
 
-The **table view** is the default display format in a SeaTable Base. It is very similar to a spreadsheet, as the records are organized in rows and columns.
+The **table view** is the default display format in a SeaTable base. It is very similar to a spreadsheet, as the records are organized in rows and columns.
 
 ![Table view](images/Tabelle.png)
 

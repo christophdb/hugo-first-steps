@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/die-zeilen-url-kopieren'
 ---
 
-Each row of a Base has a unique **URL**. You can copy this if you want to reference the exact record in a specific row , for example to forward the data to a team member. However, the URL can only be opened by people who are logged into SeaTable and have access to the row .
+Each row of a base has a unique **URL**. You can copy this if you want to reference the exact record in a specific row , for example to forward the data to a team member. However, the URL can only be opened by people who are logged into SeaTable and have access to the row .
 
 In addition, you can read out the [rows ID from the URL, which you need for]({{< relref "help/skripte/allgemein/unterschied-zwischen-javascript-und-python-scripten-in-seatable" >}}), for example.
 

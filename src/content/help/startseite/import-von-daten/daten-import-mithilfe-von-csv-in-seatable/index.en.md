@@ -14,7 +14,7 @@ The following article serves as an overview of the topic of **importing data** u
 
 With the import function of SeaTable you can transfer CSV files into your bases. In total, there are **three** different options available to you:
 
-1. Import a CSV file as a **new table** into a **new Base**.
+1. Import a CSV file as a **new table** into a **new base**.
 2. Import a CSV file as a **new table** into an **existing base**.
 3. Import a CSV file into an existing **table**.
 
@@ -25,8 +25,8 @@ With the import function of SeaTable you can transfer CSV files into your bases.
 ![Import a CSV file as a new base](images/Import-einer-CSV-Datei-als-neue-Base.gif)
 
 1. Switch to the SeaTable **home** page.
-2. In the **My Bases** workspace or within a **group**, click **Add a Base or Folder**.
-3. Click **Import Base from File (XLSX, CSV or DTABLE)**.
+2. In the **My bases** workspace or within a **group**, click **Add a base or Folder**.
+3. Click **Import base from File (XLSX, CSV or DTABLE)**.
 4. In the opening file overview from your device, select the desired **CSV file** you want to import.
 5. Confirm either by **double-clicking** the selected file or by clicking **Select** or **Open**.
 6. A **preview window** will then open so that you can check how the imported data will look in SeaTable. Here you can select exactly **which columns** of the CSV file you want to import.

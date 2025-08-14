@@ -14,9 +14,9 @@ The SeaTable Cloud does **not currently allow users to change their email addres
 
 If you are the **administrator** or the only person in your team, changing your email address is very easy. **Export** all your existing bases as **DTABLE files**, create the **new account with a new email address**, import all bases into the new account and delete your **old** account. Here you can find the appropriate help articles:
 
-- [Exporting a Base as a DTABLE File]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
+- [Exporting a base as a DTABLE File]({{< relref "help/startseite/bases/speichern-einer-base-als-dtable-datei" >}})
 - [Registration]({{< relref "help/erste-schritte/einfuehrung-grundlagen/seatable-konto-erstellen" >}})
-- [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
+- [Creating a base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Delete the complete team]({{< relref "help/teamverwaltung/team/das-komplette-team-loeschen" >}})
 
 ## Migration within a team to a new e-mail address
@@ -26,7 +26,7 @@ This process is also very simple. First, create **another team member with the n
 - [Add a new team member]({{< relref "help/teamverwaltung/team/ein-neues-teammitglied-hinzufuegen" >}})
 - [Make a team member an administrator]({{< relref "help/teamverwaltung/team/ein-teammitglied-zum-administrator-machen" >}})
 - [Create a new group]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}})
-- [Copying a Base to a Group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
+- [Copying a base to a Group]({{< relref "help/startseite/bases/eine-base-in-eine-gruppe-kopieren" >}})
 - [Assign permissions in a group]({{< relref "help/startseite/gruppen/berechtigungen-in-einer-gruppe-vergeben" >}})
 - [Lock or delete a team member]({{< relref "help/teamverwaltung/team/ein-teammitglied-sperren-oder-loeschen" >}})
 

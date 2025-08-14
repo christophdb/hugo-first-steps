@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/ein-pdf-dokument-per-schaltflaeche-in-einer-spalte-speichern'
 ---
 
-Using a **button** you can save PDF documents in file columns. This requires the **Page Design plugin** to be set up via the Base options.
+Using a **button** you can save PDF documents in file columns. This requires the **Page Design plugin** to be set up via the base options.
 
 ## Save PDF documents via button in a column
 

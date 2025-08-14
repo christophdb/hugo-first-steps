@@ -14,9 +14,9 @@ SeaTable logs all activities within a base in a log. This log can be used to res
 
 You open the logs like the recycle bin via the versions icon in the upper right corner.
 
-![Open logs in Base](images/Logs-in-der-Base-oeffnen.png)
+![Open logs in base](images/Logs-in-der-Base-oeffnen.png)
 
-In the panel that opens you will find, in antichronological order, the most recent changes made in Base. Each log entry contains the following information:
+In the panel that opens you will find, in antichronological order, the most recent changes made in base. Each log entry contains the following information:
 
 - Name of the processor
 - Nature of the change

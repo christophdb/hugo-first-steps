@@ -14,8 +14,8 @@ Notification **rules** allow you to automatically send notifications to selected
 
 ![Create a notification rule](images/create-notification-rule.jpg)
 
-1. Open a **Base** in which you want to create a notification rule.
-2. Click {{< seatable-icon icon="dtable-icon-rule" >}} in the Base header, and then click **Notification Rules**.
+1. Open a **base** in which you want to create a notification rule.
+2. Click {{< seatable-icon icon="dtable-icon-rule" >}} in the base header, and then click **Notification Rules**.
 3. Click **Add Rule**.
 4. Create the desired **notification rule** and confirm with **Submit**.
 
@@ -57,7 +57,7 @@ After the trigger is released, the defined notification is automatically sent to
 
 ![Notification sent to a user after a notification rule has been triggered.](images/received-notification-rule.jpg)
 
-{{< warning  headline="Good to know"  text="You can create **as many notification rules as you want in** a Base." />}}
+{{< warning  headline="Good to know"  text="You can create **as many notification rules as you want in** a base." />}}
 
 ### More helpful articles in the notifications section:
 

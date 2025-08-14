@@ -47,7 +47,7 @@ Any table that you have created with a common dataset can be synchronized. When 
 
 ## Create a new table with a common dataset
 
-If you or your team members want to use a common dataset, you can import it into a Base. To do this, you create a new table with the common dataset.
+If you or your team members want to use a common dataset, you can import it into a base. To do this, you create a new table with the common dataset.
 
 [Learn more about creating a new table with a common dataset.]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}})
 

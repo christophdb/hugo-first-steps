@@ -28,6 +28,6 @@ Furthermore, some **plugins** of SeaTable offer the option to add new entries. T
 
 ## Why you cannot create new rows
 
-You can't add a new row in a table and you don't see a plus icon? Then you probably do not have the appropriate **permissions** in Base or View.
+You can't add a new row in a table and you don't see a plus icon? Then you probably do not have the appropriate **permissions** in base or View.
 
 For example, you may have been granted read-only rights instead of **read-and-write** rights in a **share**. If you do not have the necessary rights, contact the sharing user or an **administrator** on your team.

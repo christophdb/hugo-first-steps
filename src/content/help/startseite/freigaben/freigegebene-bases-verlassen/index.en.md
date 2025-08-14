@@ -15,9 +15,9 @@ If another user has shared a base with you, you can **leave this share**. This i
 ![Exit shared bases](images/leave-shared-base.png)
 
 1. Switch to the SeaTable **home page**.
-2. Move the mouse pointer to the **Base** and click the **three dots** that appear on the right {{< seatable-icon icon="dtable-icon-more-vertical" color="grey" >}}.
+2. Move the mouse pointer to the **base** and click the **three dots** that appear on the right {{< seatable-icon icon="dtable-icon-more-vertical" color="grey" >}}.
 3. Click **Exit Share**.
 
 ## Impact
 
-If you exit a share by yourself in the way described above, you **lose access to any data** in the shared Base. However, **any changes** you made in Base **before** exiting the share will still be **saved** in the Base.
+If you exit a share by yourself in the way described above, you **lose access to any data** in the shared base. However, **any changes** you made in base **before** exiting the share will still be **saved** in the base.

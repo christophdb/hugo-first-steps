@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/anzeige-der-veraenderungen-auf-einer-zeile'
 ---
 
-SeaTable stores all changes that are made in a Base. Within a row the **rows-Log offers the possibility to track exactly when which user has made which change.**
+SeaTable stores all changes that are made in a base. Within a row the **rows-Log offers the possibility to track exactly when which user has made which change.**
 
 ## The rows-Log
 

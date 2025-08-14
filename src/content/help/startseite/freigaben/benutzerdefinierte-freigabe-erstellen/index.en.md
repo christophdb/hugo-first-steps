@@ -10,7 +10,7 @@ url: '/help/benutzerdefinierte-freigabe-erstellen'
 
 {{< required-version "Plus" "Enterprise" >}}
 
-A custom sharing permission allows you to share **multiple tables and views** from a Base at the same time. This saves you a lot of work if you want to share numerous tables and views with your team members, but not an entire base.
+A custom sharing permission allows you to share **multiple tables and views** from a base at the same time. This saves you a lot of work if you want to share numerous tables and views with your team members, but not an entire base.
 
 Despite this bundled sharing, you can define the desired **permission** in detail, as you can select individually for each table and view whether a **read and write** share or only a **read share** should be granted.
 
@@ -20,10 +20,10 @@ After you create a custom share, you can send it to **individual team members** 
 
 ## To create a custom sharing permission
 
-You have **two** ways to share individual tables and views of a Base:
+You have **two** ways to share individual tables and views of a base:
 
 - From the **home page**
-- Via the **Share icon** within a Base
+- Via the **Share icon** within a base
 
 ### From the home page
 
@@ -35,14 +35,14 @@ You have **two** ways to share individual tables and views of a Base:
 4. Select the **Custom sharing permission** menu item.
 5. Click **Add Permission**.
 6. Give the permission a **name** and add a **description**.
-7. Place **check marks** next to each table and view you want to share, deciding whether you want to assign **read and write** permissions or **read-only perm** issions.
+7. Place **check marks** next to each table and view you want to share, deciding whether you want to assign **read and write** permissions or **read-only permissions**.
 
-### Via the Share icon in a Base
+### Via the Share icon in a base
 
 ![Sharing individual spreadsheets from the home page](images/share-single-tablesheets-from-the-base-options.png)
 
 1. Open the **base** from which you want to share individual tables or views.
-2. In the top right corner of the **Base options**, click **Share** {{< seatable-icon icon="dtable-icon-share" >}}.
+2. In the top right corner of the **base options**, click **Share** {{< seatable-icon icon="dtable-icon-share" >}}.
 3. Afterwards the same **share window** opens as in the first way. Follow the **click instructions** above from step 4 to create the share.
 
 ## Send the share to users or groups

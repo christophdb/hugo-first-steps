@@ -14,7 +14,7 @@ In this post you will learn where to find the templates and how to work with the
 
 ## Template library
 
-You can access the continuously growing template collection in several ways: via the [template library on the SeaTable.io website]({{< relref "templates" >}}) - this is possible without logging in - , via the **Templates** button on the SeaTable home page and when creating a new Base, if you select **Create Base from Template**.
+You can access the continuously growing template collection in several ways: via the [template library on the SeaTable.io website]({{< relref "templates" >}}) - this is possible without logging in - , via the **Templates** button on the SeaTable home page and when creating a new base, if you select **Create base from Template**.
 
 The templates for SeaTable are divided into different categories. These include project management, human resources, marketing, sales or everyday life. In each category you will find several templates. Each template has a short description and a description of the use case. Below the description you will find an interactive image of the template with its table layout, views as well as dummy data. Take a close look at the template, click around in it and check if it fits your use case!
 
@@ -28,13 +28,13 @@ You have found an exciting template and now you want to use it? Great! So that y
 
 If you are already logged in to your account, then all the requirements are met. If you are not logged in or do not have a SeaTable account, then [log](https://cloud.seatable.io/) in or [register for free with your email address]({{< relref "pages/registration" >}}).
 
-Back on your home page you will find a new Base within the selected group or in **My Bases**. The name of the newly created Base is the name of the template. If you don't like it, simply rename the Base.
+Back on your home page you will find a new base within the selected group or in **My bases**. The name of the newly created base is the name of the template. If you don't like it, simply rename the base.
 
 ## Creation of your own template
 
 You can create your own template from scratch or derive it from an existing base or table. The procedure is identical: create the tables you need in a base, define the table layout according to your needs and create the views, plugins, statistics and web forms your use case requires. Also add some dummy data to illustrate the use of the template and make it easier for users to use.
 
-Now export your template. Exporting a template is identical to [exporting a Base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
+Now export your template. Exporting a template is identical to [exporting a base]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}).
 
 ## Submit your personal template
 

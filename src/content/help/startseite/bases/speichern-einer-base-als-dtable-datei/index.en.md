@@ -45,4 +45,4 @@ The exported DTABLE file contains the current state of your base, including all 
 
 ## Restore a base from a DTABLE file
 
-You can always **import** a DTABLE file back into SeaTable as a new Base. You can learn more about this in the article [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).
+You can always **import** a DTABLE file back into SeaTable as a new base. You can learn more about this in the article [Creating a base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

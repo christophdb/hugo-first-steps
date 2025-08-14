@@ -14,8 +14,8 @@ Tables in SeaTable can contain thousands of records. So that you can still find 
 
 ![Find a cell or value in a table](images/Finding-a-cell-or-value-in-a-table-in-SeTable.gif)
 
-1. In a Base, open any **table** where you are looking for a specific value or cell.
-2. Click on the **magnifying glass** at the top right under the Base options.
+1. In a base, open any **table** where you are looking for a specific value or cell.
+2. Click on the **magnifying glass** at the top right under the base options.
 3. Enter a **value** or a **term in** the search field.
 4. The corresponding **search results** are automatically displayed and highlighted.
 5. You can switch between the search results using the **triangle icons** in the search box.
@@ -24,5 +24,5 @@ Tables in SeaTable can contain thousands of records. So that you can still find 
 
 SeaTable's search offers two more functions that we don't want to deprive you of, of course:
 
-- If you click on **Search all tables** below the search field after clicking on the magnifying glass, a window opens in which you can search **all** **tables** belonging to the Base for your entered term or value.
+- If you click on **Search all tables** below the search field after clicking on the magnifying glass, a window opens in which you can search **all** **tables** belonging to the base for your entered term or value.
 - Of course SeaTable also supports the key combination {{< key "CTRL" >}} + {{< key "F" >}}to activate the search field.

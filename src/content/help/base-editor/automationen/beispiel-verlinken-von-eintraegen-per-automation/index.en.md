@@ -14,7 +14,7 @@ With the help of automations, you no longer have to link entries in your tables 
 
 ![rows Locking and archiving with automation](images/how-to-use-automations-for-locking-rows-3.png)
 
-1. In the Base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
+1. In the base header, click {{< seatable-icon icon="dtable-icon-rule" >}} and then click **Automation Rules**.
 2. Click **Add Rule**.
 3. **Name** the automation and specify the **table** and **view** in which it should act.
 4. Define a **trigger event that triggers** the automation.

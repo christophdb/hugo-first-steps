@@ -12,11 +12,11 @@ Using a **data query app**, you can enable other users to search your records ac
 
 ## Creating the data query app
 
-To use a data query app in your Base, you must first **add** it to your Base.
+To use a data query app in your base, you must first **add** it to your base.
 
 ![The data query app](images/data-query-app-preview.png)
 
-[Learn how to add an app to your Base here.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
+[Learn how to add an app to your base here.]({{< relref "help/app-builder/app-verwaltung/apps-zu-einer-base-hinzufuegen" >}})
 
 ## Edit settings of a data query app
 

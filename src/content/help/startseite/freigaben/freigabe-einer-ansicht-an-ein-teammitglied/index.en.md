@@ -44,13 +44,13 @@ If you no longer want to share a table view with another user, you can easily de
 
 ## Difference between sharing a whole base and sharing a view
 
-In a Base, there are a total of two **sharing icons** that you can use to share either an entire Base or a single table view. According to their function, you will find these icons either in the **Base Options** area (highlighted here) or in the **View Options** area (white here):
+In a base, there are a total of two **sharing icons** that you can use to share either an entire base or a single table view. According to their function, you will find these icons either in the **base Options** area (highlighted here) or in the **View Options** area (white here):
 
 ![Sharing icons in a base](images/share-icons-new-1.png)
 
 ### Share a base
 
-- The entire Base (including all **tables**, **views** and **data**) is shared with another user.
+- The entire base (including all **tables**, **views** and **data**) is shared with another user.
 
 ### Share a view
 
@@ -58,7 +58,7 @@ In a Base, there are a total of two **sharing icons** that you can use to share 
 
 ## Special features
 
-### When sharing a view, there are some special features that need to be considered:
+When sharing a view, there are some special features that need to be considered:
 
 - Columns hidden in a view are **not** displayed to viewers of the share link.
 - If a shared table view contains links to the entries of another table that you have not shared with the respective user, the user can still **see** the corresponding entries and, depending on the rights you have granted him for the shared view, also **edit** them.

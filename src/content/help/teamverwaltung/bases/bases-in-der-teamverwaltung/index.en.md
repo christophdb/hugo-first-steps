@@ -1,5 +1,5 @@
 ---
-title: 'Bases in the Team administration'
+title: 'Bases in the team administration'
 date: 2023-01-18
 lastmod: '2023-01-19'
 categories:
@@ -8,18 +8,18 @@ author: 'vge'
 url: '/help/bases-in-der-teamverwaltung'
 ---
 
-If you are a **team administrator**, you can access all the bases in your team through the **Team Administration**. You can view the details of each base, see base shares and links, or delete bases.
+If you are a **team administrator**, you can access all the bases in your team through the **team administration**. You can view the details of each base, see base shares and links, or delete bases.
 
 ## How to access the bases in the team administration
 
-![Bases in the Team administration](images/bases-in-der-teamverwaltung.gif)
+![Bases in the team administration](images/bases-in-der-teamverwaltung.gif)
 
 1. Click your **avatar image** in the upper right corner.
 2. Select the **Team administration** option from the drop-down menu.
-3. Go to **Bases** on the left side under **Navigation**.
-4. Click on a **Base** to get more information and options about that Base.
+3. Go to **bases** on the left side under **Navigation**.
+4. Click on a **base** to get more information and options about that base.
 
-## What you can see in the detailed view of a Base
+## What you can see in the detailed view of a base
 
 ### Info area
 
@@ -31,7 +31,7 @@ Here you can read out the following **information**:
 - Base ID
 - Creation date
 - Base owner
-- Number of rows within Base
+- Number of rows within base
 
 You can **export** the selected **base** by clicking the corresponding button.
 
@@ -49,7 +49,7 @@ In **Links** you can see all links generated for the selected base.
 
 ### Delete
 
-Under **Delete** you have the option to delete the selected Base.
+Under **Delete** you have the option to delete the selected base.
 
 ![Delete](images/Delete-1.png)
 
@@ -57,7 +57,7 @@ Under **Delete** you have the option to delete the selected Base.
 
 All **deleted bases** are listed in the recycle bin. After **30 days**, the bases are automatically removed from the system. However, you can also **delete all** bases in the recycle bin manually. You can find out how to do this [here]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
-To restore a base, click the respective base and operate the slider before clicking the **Restore Base** button.
+To restore a base, click the respective base and operate the slider before clicking the **Restore base** button.
 
 ## Share
 

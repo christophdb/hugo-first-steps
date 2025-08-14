@@ -1,5 +1,5 @@
 ---
-title: 'Activating a plugin in a Base'
+title: 'Activating a plugin in a base'
 date: 2022-11-07
 lastmod: '2023-02-02'
 categories:
@@ -8,9 +8,9 @@ author: 'vge'
 url: '/help/aktivieren-eines-plugins-in-einer-base'
 ---
 
-**Plugins** offer you a wide range of possibilities to vividly display the data in your tables. By setting up a plugin in your Base, you can easily switch between the **table view** and, for example, the **calendar or kanban display**.
+**Plugins** offer you a wide range of possibilities to vividly display the data in your tables. By setting up a plugin in your base, you can easily switch between the **table view** and, for example, the **calendar or kanban display**.
 
-{{< warning  headline="Note"  text="You always activate plugins for the entire Base. That means you have to set up a plugin only **once and** then you can use it in **all tables of** your Base." />}}
+{{< warning  headline="Note"  text="You always activate plugins for the entire base. That means you have to set up a plugin only **once and** then you can use it in **all tables of** your base." />}}
 
 For quick access to your plugins, you can add them to the **toolbar** next to the view options.
 
@@ -18,7 +18,7 @@ For quick access to your plugins, you can add them to the **toolbar** next to th
 
 ![Activate a plugin in a base](images/activate-a-plugin.gif)
 
-1. Click **Plugins** in the Base header.
+1. Click **Plugins** in the base header.
 2. In the appeared panel go to **Set up plugins**.
 3. Set up the desired plugin by clicking **Add.**
 

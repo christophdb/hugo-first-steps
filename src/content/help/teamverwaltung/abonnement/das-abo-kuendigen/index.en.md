@@ -8,11 +8,15 @@ author: 'nsc2'
 url: '/help/das-abo-kuendigen'
 ---
 
-You want to cancel your SeaTable subscription? To do so, use the Subscription tab in Team administration. Please note, however, that the cancellation of existing subscriptions only takes effect at the end of the subscription period. You can still use your cancelled subscription to its full extent until this point is reached.
+You want to cancel your SeaTable subscription? To do so, use the Subscription tab in team administration. Please note, however, that the cancellation of existing subscriptions only takes effect at the end of the subscription period. You can still use your cancelled subscription to its full extent until this point is reached.
 
 ## Cancel subscription
 
-{{< warning  headline="Important note"  text="Your team's subscription package can only be cancelled by the **team admins**." />}}2. Open the **Team administration**. 3. Click on **Subscription**. 4. Click **"Cancel subscription and switch to SeaTable Free"**. 5. Your subscription is now canceled at the **end of** the **term** you selected. You can still make full use of SeaTable until that time.
+{{< warning  headline="Important note"  text="Your team's subscription package can only be cancelled by the **team admins**." />}}
+1. Open the **Team administration**. 
+2. Click on **Subscription**. 
+3. Click **"Cancel subscription and switch to SeaTable Free"**. 
+4. Your subscription is now canceled at the **end of the term** you selected. You can still make full use of SeaTable until that time.
 
 ![Existing subscriptions can be cancelled via the team administration](images/Abonnement-loeschen.jpg)
 

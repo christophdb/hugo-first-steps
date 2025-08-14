@@ -16,17 +16,17 @@ The intuitive yet powerful low-code SeaTable platform gives everyone the flexibi
 
 ### The home page with your bases
 
-After logging in, you start on the home page of SeaTable. Each square tile represents a project, database or process of yours. SeaTable calls these objects "bases". Bases contain all the information you need for a particular project or data collection, much like a folder that contains individual files.
+After logging in, you start on the home page of SeaTable. Each square tile represents a project, database or process of yours. SeaTable calls these objects "bases". bases contain all the information you need for a particular project or data collection, much like a folder that contains individual files.
 
-[Learn more about Bases →]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}})
+[Learn more about bases →]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}})
 
 ---
 
-![Elements of the SeaTable Base](images/elements_seatable_base.png)
+![Elements of the SeaTable base](images/elements_seatable_base.png)
 
 ### Tables
 
-Each Base consists of one or more tables. Tables help you to structure and relate your information.
+Each base consists of one or more tables. Tables help you to structure and relate your information.
 
 [Learn more about tables →]({{< relref "help/erste-schritte/einfuehrung-funktionen/einfuehrung-in-die-arbeit-mit-bases-und-tabellen" >}})
 
@@ -74,11 +74,11 @@ SeaTable is a solution where people should work together on processes, structure
 
 [Learn more about SeaTable collaboration →]({{< relref "help/erste-schritte/einfuehrung-funktionen/zusammenarbeit" >}})
 
-### Team administration
+### team administration
 
-The Team administration provides various functions for the administrators of your team. Among other things, you can manage your team members and subscription, view invoices or create support tickets.
+The team administration provides various functions for the administrators of your team. Among other things, you can manage your team members and subscription, view invoices or create support tickets.
 
-[Learn more about the Team administration →]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
+[Learn more about the team administration →]({{< relref "help/teamverwaltung/abonnement/die-funktionen-der-teamverwaltung-in-der-uebersicht" >}})
 
 ### Subscription and billing
 

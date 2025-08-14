@@ -37,7 +37,7 @@ With this, you have made all the preparations to be able to use your Microsoft 3
 
 ## Creation of the third-party account in SeaTable
 
-Now you need to add your Microsoft 365 account in your SeaTable Base. To do this, the following steps are necessary:
+Now you need to add your Microsoft 365 account in your SeaTable base. To do this, the following steps are necessary:
 
 ![Third-party integration via the advanced base options](images/Integration-von-Drittanbietern-ueber-die-erweiterten-Base-Optionen.png)
 
@@ -57,6 +57,6 @@ Now you need to add your Microsoft 365 account in your SeaTable Base. To do this
 
 ## Send emails via automation or button
 
-After that, you can use the email account created in your SeaTable Base to send emails via [automation]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
+After that, you can use the email account created in your SeaTable base to send emails via [automation]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 
-If you want to learn more about this useful feature, read the article [Setting up an email account in a Base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
+If you want to learn more about this useful feature, read the article [Setting up an email account in a base]({{< relref "help/base-editor/weitere-optionen/einrichtung-eines-e-mail-kontos-in-einer-base" >}}).
