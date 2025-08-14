@@ -8,15 +8,15 @@ author: 'kgr'
 url: '/help/aenderungen-ueber-die-logs-rueckgaengig-machen'
 ---
 
-SeaTable logs all activities within a base in a log. This log can be used to restore not only individual values, but also rows, columns and tables. With the logs you can see the changes in more detail and undo more than with the recycle bin.
+SeaTable logs all activities within a base in a log. This log can be used to restore not only individual values, but also rows, columns and tables. With the logs you can see the changes in more detail and undo more than with the trash.
 
 ## To open the log of a base
 
-You open the logs like the recycle bin via the versions icon in the upper right corner.
+You open the logs like the trash via the versions icon in the upper right corner.
 
 ![Open logs in base](images/Logs-in-der-Base-oeffnen.png)
 
-In the panel that opens you will find, in antichronological order, the most recent changes made in base. Each log entry contains the following information:
+In the panel that opens you will find, in antichronological order, the most recent changes made in the base. Each log entry contains the following information:
 
 - Name of the processor
 - Nature of the change

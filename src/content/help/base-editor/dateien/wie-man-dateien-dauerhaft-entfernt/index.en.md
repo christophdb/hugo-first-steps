@@ -21,12 +21,12 @@ url: '/help/wie-man-dateien-dauerhaft-entfernt'
 
 ## Final deletion of files
 
-As soon as you have deleted the desired files, they end up in the **recycle bin** of the file manager. They remain there for **60 days** and can be restored. If you want to permanently remove the files from the system before this period has expired, you can **empty** the recycle bin.
+As soon as you have deleted the desired files, they end up in the **trash** of the file manager. They remain there for **60 days** and can be restored. If you want to permanently remove the files from the system before this period has expired, you can **empty** the trash.
 
 ![Final deletion of files](images/Finally-remove-files-from-the-system.png)
 
-1. Click **Recycle Bin** in the navigation.
+1. Click **trash** in the navigation.
 2. Select either **My F** olders or **System Folders** - depending on where the files you want to permanently delete are located.
 3. Click on **Empty**.
 
-{{< warning  headline="Important note"  text="Please note that **all** files and folders in the recycle bin are **permanently** removed from the system and therefore **cannot** be restored. Therefore, make sure that you **only** delete files from the file manager that are no longer required." />}}
+{{< warning  headline="Important note"  text="Please note that **all** files and folders in the trash are **permanently** removed from the system and therefore **cannot** be restored. Therefore, make sure that you **only** delete files from the file manager that are no longer required." />}}

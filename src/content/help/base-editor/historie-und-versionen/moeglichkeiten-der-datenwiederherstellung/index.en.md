@@ -16,7 +16,7 @@ Learn here how to recover data deleted in SeaTable and what other options SeaTab
 
 SeaTable does not offer you only _one_ type of data recovery. Depending on the situation, you will need one of the following **six options**:
 
-1. You can restore deleted bases from the recycle bin on the home page.
+1. You can restore deleted bases from the trash on the home page.
 2. In a base you can restore deleted rows, columns or tables.
 3. You can conveniently undo the last changes using keyboard shortcuts.
 4. With the help of the logs, you can track and undo any change in a base.
@@ -27,15 +27,15 @@ The following article gives you an overview of when which recovery option is rig
 
 ## 1\. recovery of deleted bases
 
-If you have deleted an entire base, you can restore it using a recycle bin on the SeaTable home page. To learn how to do this, see the article [Restore a Deleted Base]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
+If you have deleted an entire base, you can restore it using a trash on the SeaTable home page. To learn how to do this, see the article [Restore a Deleted Base]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 
 ## 2\. recovery of deleted rows, columns or tables
 
-Retrieving individual deleted rows, columns or tables is probably the most common recovery request. Fortunately, this can be done very quickly via the recycle bin of a base.
+Retrieving individual deleted rows, columns or tables is probably the most common recovery request. Fortunately, this can be done very quickly via the trash of a base.
 
 You can learn more about this in the article [Retrieve tables, rows and columns from the trash]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}).
 
-You can access the base Recycle Bin by clicking on the versions icon in the upper right corner. In this drop-down menu you will also find other recovery options, which will be explained below.
+You can access the base trash by clicking on the versions icon in the upper right corner. In this drop-down menu you will also find other recovery options, which will be explained below.
 
 ![Restoration of individual rows](images/Trash-Versionierung.png)
 
@@ -47,7 +47,7 @@ For details, see the corresponding help article [Undo Actions]({{< relref "help/
 
 ## 4\. undo changes via the logs
 
-SeaTable logs all activities within a base in a log. This log can be used to restore not only individual values, but also rows, columns and tables. With the logs you can see the changes in more detail and undo more than with the recycle bin.
+SeaTable logs all activities within a base in a log. This log can be used to restore not only individual values, but also rows, columns and tables. With the logs you can see the changes in more detail and undo more than with the trash.
 
 For more information, see the article [Undoing changes via the logs]({{< relref "help/base-editor/historie-und-versionen/aenderungen-ueber-die-logs-rueckgaengig-machen" >}}).
 
@@ -57,7 +57,7 @@ A snapshot stores a snapshot of a base, i.e. all tables, views, statistics and f
 
 For more information, see the articles [Saving the Current Base as a Snapshot]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) and [Restoring a Snapshot]({{< relref "help/base-editor/historie-und-versionen/wiederherstellung-eines-snapshots" >}}).
 
-{{< warning  headline="Beware of data loss"  text="SeaTable does **not** store the contents of the Recycle Bin, log data, and snapshots indefinitely. The duration for which SeaTable keeps this deleted information depends **on your subscription**. Changes made further in the past than the versioning duration of your subscription **cannot** be undone. Older snapshots will be deleted." />}}
+{{< warning  headline="Beware of data loss"  text="SeaTable does **not** store the contents of the trash, log data, and snapshots indefinitely. The duration for which SeaTable keeps this deleted information depends **on your subscription**. Changes made further in the past than the versioning duration of your subscription **cannot** be undone. Older snapshots will be deleted." />}}
 
 ## 6\. import a base saved as a DTABLE file
 

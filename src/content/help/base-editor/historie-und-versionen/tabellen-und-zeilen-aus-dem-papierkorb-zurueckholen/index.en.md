@@ -8,17 +8,17 @@ author: 'nsc2'
 url: '/help/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen'
 ---
 
-Deleted tables, rows and columns can be found and restored at any time in the Recycle Bin of the respective base. You don't have to be afraid of losing data, because within bases deleted tables, rows and columns remain available indefinitely.
+Deleted tables, rows and columns can be found and restored at any time in the trash of the respective base. You don't have to be afraid of losing data, because within bases, deleted tables, rows and columns remain available indefinitely.
 
-## Retrieve tables, rows and columns from the recycle bin
+## Retrieve tables, rows and columns from the trash
 
 ![](images/Screenshot-from-2022-10-27-12-04-15.png)
 
-1. Click **Versions** in the top right corner of the base options.
-2. Open the **recycle bin**.
-3. In the recycle bin you will now find all the **tables deleted** within base, **rows** and **columns**. With a click on **Restore** you can retrieve them from the recycle bin.
+1. Click **Versions** in the top right corner of the base header.
+2. Open the **trash**.
+3. In the trash you will now find all the **tables**, **rows** and **columns** deleted within the base. With a click on **Restore** you can retrieve them from the trash.
 
-The Base Recycle Bin displays a list in **antichronological** order - that is, the most recent deletions at the top. You can see the deleting user, the name of the deleted table, column or row (the name of row is the value from the first column of the deleted entry) and a time indication how long ago the deletion took place. If you click on **Restore**, the deleted data will be immediately inserted back into the base or table.
+The base trash displays a list in **antichronological** order - that is, the most recent deletions at the top. You can see the deleting user, the name of the deleted table, column or row (the name of row is the value from the first column of the deleted entry) and a time indication how long ago the deletion took place. If you click on **Restore**, the deleted data will be immediately inserted back into the base or table.
 
 ## Frequently asked questions
 

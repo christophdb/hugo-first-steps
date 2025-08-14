@@ -204,7 +204,7 @@ Hover your mouse over a file and click the **download icon** {{< seatable-icon i
 
 ### Delete and restore files
 
-You can **delete** any file from the file manager with just a few clicks. Simply move the mouse over a file and click on the **recycle bin icon**.
+You can **delete** any file from the file manager with just a few clicks. Simply move the mouse over a file and click on the **trash icon**.
 
 ![Delete a file from the file management](images/delete-files.jpg)
 
@@ -212,13 +212,13 @@ Then confirm the process again with **Delete**.
 
 ![Confirmation of the deletion process](images/confirm-deletion.jpg)
 
-Files that you delete from the file manager also disappear from your base (e.g. from signature, file, image columns, web forms or universal apps) and end up in the **recycle bin**, where they remain for 60 days.
+Files that you delete from the file manager also disappear from your base (e.g. from signature, file, image columns, web forms or universal apps) and end up in the **trash**, where they remain for 60 days.
 
-{{< warning  headline="Important note"  text="Please note that files in the Recycle Bin are permanently removed from the system **after 60 days**. Consequently, make sure that **only** files that are no longer needed are in the Recycle Bin." />}}
+{{< warning  headline="Important note"  text="Please note that files in the trash are permanently removed from the system **after 60 days**. Consequently, make sure that **only** files that are no longer needed are in the trash." />}}
 
-If you want to restore a file from the Recycle Bin, for example because it was accidentally deleted, click **Restore**. You will then find the file in the folder where it was before it was deleted. When you **empty** the Recycle Bin, all deleted files and folders are lost permanently.
+If you want to restore a file from the trash, for example because it was accidentally deleted, click **Restore**. You will then find the file in the folder where it was before it was deleted. When you **empty** the trash, all deleted files and folders are lost permanently.
 
-![Empty recycle bin or restore files from recycle bin](images/Empty-and-restore-from-trash.png)
+![Empty trash or restore files from trash](images/Empty-and-restore-from-trash.png)
 
 ### Delete and restore folder
 
@@ -240,10 +240,10 @@ Confirm the operation with **Delete**.
 
 ![Confirm deletion](images/delete-folders-in-folders-3.jpg)
 
-Folders that you delete from the file manager end up in the **recycle bin**, where they remain for 60 days.
+Folders that you delete from the file manager end up in the **trash**, where they remain for 60 days.
 
-{{< warning  headline="Important notes"  text="Please note that when deleting folders, **all files** in the respective folders are also **deleted**. The same applies to the subfolders in a deleted folder. The deleted files will therefore also disappear from your base (e.g. from signature, file, image columns, web forms or universal apps). Make sure that you **only** delete folders with files that are no longer required from the file management. After **60 days** in the recycle bin, both folders and files are permanently removed from the system." />}}
+{{< warning  headline="Important notes"  text="Please note that when deleting folders, **all files** in the respective folders are also **deleted**. The same applies to the subfolders in a deleted folder. The deleted files will therefore also disappear from your base (e.g. from signature, file, image columns, web forms or universal apps). Make sure that you **only** delete folders with files that are no longer required from the file management. After **60 days** in the trash, both folders and files are permanently removed from the system." />}}
 
-If you want to restore a folder from the Recycle Bin, for example because you accidentally deleted it, click **Restore**. The folder will then appear where it was before you deleted it. When you **empty** the Recycle Bin, all deleted files and folders are lost permanently.
+If you want to restore a folder from the trash, for example because you accidentally deleted it, click **Restore**. The folder will then appear where it was before you deleted it. When you **empty** the trash, all deleted files and folders are lost permanently.
 
-![Empty recycle bin or restore files from recycle bin](images/Empty-and-restore-from-trash.png)
+![Empty trash or restore files from trash](images/Empty-and-restore-from-trash.png)

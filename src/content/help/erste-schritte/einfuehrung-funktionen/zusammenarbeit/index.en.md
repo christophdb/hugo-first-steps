@@ -47,7 +47,7 @@ Bases can be shared not only with other SeaTable users. You can also make bases 
 
 ## Comments
 
-To keep discussions where they belong, you can [comment on]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}) each table entry. Group members and others with access to base are notified of the comments and can respond. This keeps the entire discussion on a topic right in base. Searching for a discussion in old emails, chat or log is a thing of the past.
+To keep discussions where they belong, you can [comment on each row]({{< relref "help/base-editor/zeilen/zeilen-kommentieren" >}}). Group members and others with access to the base are notified of the comments and can respond. This keeps the entire discussion on a topic right in the base. Searching for a discussion in old emails, chat or log is a thing of the past.
 
 ## Notifications
 

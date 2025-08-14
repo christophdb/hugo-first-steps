@@ -40,7 +40,7 @@ You can delete the entry in any cell of a row by clicking the **Select cell** an
 
 ## Restore deleted rows
 
-If you want to restore a **deleted row**, you can find it in the **base recycle bin**. In this you will find all deleted rows and you can **restore** them with one click.
+If you want to restore a **deleted row**, you can find it in the **base trash**. In this you will find all deleted rows and you can **restore** them with one click.
 
 ![Restore deleted rows](images/restore-rows-from-trash.png)
 
