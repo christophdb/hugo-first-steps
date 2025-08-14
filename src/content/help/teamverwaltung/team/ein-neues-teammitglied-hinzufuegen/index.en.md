@@ -35,7 +35,7 @@ You **cannot** add a **team member** who has already created another SeaTable ac
 You can set the following **security options** by activating the corresponding sliders:
 
 - Decide if you want your new team member to become an **administrator of** the team.
-- Decide if you want your new team member to go through **2-factor authentication**.
+- Decide if you want your new team member to go through **two-factor authentication**.
 
 ![Add team member security settings](images/Security_Teammitglied-hinzufuegen.png)
 

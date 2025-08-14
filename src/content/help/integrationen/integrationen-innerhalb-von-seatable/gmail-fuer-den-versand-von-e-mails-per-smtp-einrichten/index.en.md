@@ -14,7 +14,7 @@ Gmail, Google's popular email service, can be used to send emails from SeaTable.
 
 ## Authentication via app password
 
-An [app password](https://support.google.com/accounts/answer/185833?hl=de) is a 16-digit security code that apps or devices can use to authenticate themselves to Google and thereby gain access to your Gmail account. You can create app passwords in your [Google account](https://myaccount.google.com/). App passwords can only be used for accounts that have 2-factor authentication enabled.
+An [app password](https://support.google.com/accounts/answer/185833?hl=de) is a 16-digit security code that apps or devices can use to authenticate themselves to Google and thereby gain access to your Gmail account. You can create app passwords in your [Google account](https://myaccount.google.com/). App passwords can only be used for accounts that have two-factor authentication enabled.
 
 ### Creating an app password
 

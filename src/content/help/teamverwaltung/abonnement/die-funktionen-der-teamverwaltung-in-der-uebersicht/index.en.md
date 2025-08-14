@@ -12,13 +12,13 @@ In SeaTable, your team is the center of attention. You work together on your tas
 
 You manage your team including all users, groups and bases in [SeaTable's Team administration](https://account.seatable.io). Your **subscription** is also linked to your team, whether you have a **free** subscription or a paid **Plus** or **Enterprise** subscription. You also manage your subscription in the team administration.
 
-{{< warning  headline="Access for administrators only"  text="Team administration is accessible only for **team administr** ators." />}}
+{{< warning  headline="Access for administrators only"  text="Team administration is accessible only for **team administrators**." />}}
 
 A team can have several administrators, who will then have access to the following areas in the team administration:
 
 ## Team members and groups
 
-This section provides an overview of your team's team members and groups. You can add and delete **team members** as well as edit their membership and roles in groups. **Groups** can also be managed and members and bases of a group can be viewed. In addition, you will also find general settings here. For example, you can change the name of the team or enable mandatory **two-factor authentication for** all team members.
+This section provides an overview of your team's team members and groups. You can add and delete **team members** as well as edit their membership and roles in groups. **Groups** can also be managed and members and bases of a group can be viewed. In addition, you will also find general settings here. For example, you can change the name of the team or enable mandatory **two-factor authentication for all team members**.
 
 The following articles may be of interest to you:
 

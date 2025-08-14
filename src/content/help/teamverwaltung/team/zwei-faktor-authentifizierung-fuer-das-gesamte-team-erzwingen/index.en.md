@@ -17,12 +17,12 @@ url: '/help/zwei-faktor-authentifizierung-fuer-das-gesamte-team-erzwingen'
 1. Go to the **Team administration**.
 2. Click on the **Team** option.
 3. Click **Settings**.
-4. Turn on the **Enforce 2FA** slider **for all team members**.
+4. Turn on the slider **Enforce 2FA for all team members**.
 5. Click **Save Settings**.
 
 ## How two-factor authentication works
 
-SeaTable supports **two-factor authentication for** improved protection of your accounts against hacking attempts and brute force attacks. Two-factor authentication requires a second factor in addition to the username and password when logging in. This second factor is generated using an app on the smartphone of the respective team member. The second factor is a _six-digit numerical code that changes every 30 seconds_.
+SeaTable supports **two-factor authentication for improved protection of your accounts** against hacking attempts and brute force attacks. Two-factor authentication requires a second factor in addition to the username and password when logging in. This second factor is generated using an app on the smartphone of the respective team member. The second factor is a _six-digit numerical code that changes every 30 seconds_.
 
 ## Two-factor authentication setup
 
