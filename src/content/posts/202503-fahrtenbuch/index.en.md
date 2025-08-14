@@ -11,7 +11,7 @@ aliases:
 tags:
     - 'Finances'
     - 'Tools & Plugins'
-    - 'Fleetmanagement'
+    - 'Fleet Management'
 categories:
     - 'best-practice'
 color: '#f34b4c'

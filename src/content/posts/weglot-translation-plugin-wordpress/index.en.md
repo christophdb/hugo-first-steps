@@ -5,7 +5,7 @@ date: 2022-03-21
 categories:
     - 'best-practice'
 tags: 
-    - 'Toolings & Plugins'
+    - 'Tools & Plugins'
 color: '#07bfff'
 url: '/weglot-translation-plugin-wordpress'
 color: '#eeeeee'
