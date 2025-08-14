@@ -12,9 +12,9 @@ In SeaTable you have the possibility to duplicate your existing bases. You can h
 
 ![copy a base](images/duplicate-a-base.png)
 
-1. Switch to the SeaTable **home** page.
+1. Switch to the SeaTable **home page**.
 2. Move the mouse over one of **your bases** and click on the **three dots**
 3. Click **Copy**.
 4. Select **My bases**.
 5. Confirm with **Submit**.
-6. The **copy of base** will now be displayed in your workspace.
+6. The **copy of the base** will now be displayed in your workspace.

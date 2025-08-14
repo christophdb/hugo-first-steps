@@ -21,7 +21,7 @@ You can delete incorrectly created views or views that have become irrelevant at
 
 ## Frequently asked questions
 
-{{< faq "Can a deleted view be restored?" >}}**No**. Since a view does not contain any data of its own, but is merely a special representation of the data, you cannot delete a deleted view using either the recycle bin or the shortcut {{< key "CTRL" >}} + {{< key "Z" >}} Restore.
+{{< faq "Can a deleted view be restored?" >}}**No**. Since a view does not contain any data of its own, but is merely a special representation of the data, you cannot delete a deleted view using either the trash or the shortcut {{< key "CTRL" >}} + {{< key "Z" >}} Restore.
 {{< /faq >}}
 {{< faq "Can a view always be deleted?" >}}You can delete views only if you have created **at least one additional view** to the default **view**.
 

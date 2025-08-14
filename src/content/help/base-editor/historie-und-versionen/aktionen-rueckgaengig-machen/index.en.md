@@ -12,18 +12,18 @@ You can undo actions in SeaTable in two different ways. SeaTable supports both t
 
 ## Undo actions via key combination
 
-If you are currently in the **Editing** a **Base** or **Table** and you want to undo one or more entries, just press the key combination {{< key "CTRL" >}}+{{< key "Z" >}} to press. Each time you type this key combination, SeaTable will display your last **Change** **undo** make
+If you are currently editing a **base** or **table** and you want to undo one or more entries, just press the key combination {{< key "CTRL" >}}+{{< key "Z" >}} to press. Each time you type this key combination, SeaTable will **undo your last change**.
 
 ## Undo actions by mouse click
 
 Alternatively, you can undo your last action with **a mouse click** in SeaTable's **web interface**.
 
-1. In the top right corner of base Options, click **Versions** and in the drop-down menu that opens, click **Undo**.
-2. With each click you undo your last **change**.
+1. In the top right corner of the base header, click **Versions** and in the drop-down menu that opens, click **Undo**.
+2. With each click you **undo your last change**.
 
 ## Frequently asked questions
 
-{{< faq "How long can you undo changes?" >}}In principle, you can undo any entry or change within a session. However, as soon as you leave base, the last work steps can no longer be undone with the two described options the next time base is called.
+{{< faq "How long can you undo changes?" >}}In principle, you can undo any entry or change within a session. However, as soon as you leave the base, the last work steps can no longer be undone with the two described options the next time the base is called.
 {{< /faq >}}
 {{< faq "What can all be undone?" >}}The following actions can be undone:
 
@@ -33,8 +33,8 @@ Alternatively, you can undo your last action with **a mouse click** in SeaTable'
   {{< /faq >}}
   {{< faq "Actions that cannot be undone" >}}Some operations cannot be undone. These include, but are not limited to:
 
-- Locking from rows
+- Locking rows
 - Changes to sorting, grouping or filters
-- Line comments
+- Comments
 
 {{< /faq >}}

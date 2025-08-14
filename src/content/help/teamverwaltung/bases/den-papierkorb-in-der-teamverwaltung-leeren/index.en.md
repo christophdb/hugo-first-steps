@@ -1,5 +1,5 @@
 ---
-title: 'Empty the recycle bin in team administration'
+title: 'Empty the trash in team administration'
 date: 2023-01-19
 lastmod: '2023-01-19'
 categories:
@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/den-papierkorb-in-der-teamverwaltung-leeren'
 ---
 
-After **30 days**, deleted bases are **automatically** removed from the system. However, you can also permanently delete the bases **manually** by **emptying the recycle bin in the team administration**.
+After **30 days**, deleted bases are **automatically** removed from the system. However, you can also permanently delete the bases **manually** by **emptying the trash in the team administration**.
 
 ![Empty the trash](images/Den-Papierkorb-leeren.gif)
 

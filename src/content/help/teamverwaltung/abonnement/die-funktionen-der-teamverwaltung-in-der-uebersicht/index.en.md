@@ -42,7 +42,7 @@ The following articles may be of interest to you:
 - [base sharing Allow via invitation link]({{< relref "help/teamverwaltung/bases/freigabe-von-bases-per-einladungslink-erlauben" >}})
 - [Unlock a team member again]({{< relref "help/teamverwaltung/team/ein-teammitglied-entsperren" >}})
 
-As a team administrator, you also have the option of manually [emptying the recycle bin]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}) in addition to automatic deletion after 30 days.
+As a team administrator, you also have the option of manually [emptying the trash]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}) in addition to automatic deletion after 30 days.
 
 ## Subscription
 

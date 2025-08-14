@@ -173,7 +173,7 @@ If you want to delete an element, there are several options: You can either clic
 
 To quickly and accurately remove several elements from the canvas, you can also use the **eraser** from the toolbar.
 
-{{< warning  headline="Attention"  text="There is no recycle bin in the whiteboard plugin. The removed elements are **permanently deleted**." />}}
+{{< warning  headline="Attention"  text="There is no trash in the whiteboard plugin. The removed elements are **permanently deleted**." />}}
 
 You can use the arrow icons at the top left-hand edge to select only the last steps. **undo** or **Restore**. You can also use the familiar shortcuts {{< key "Ctrl" >}}+{{< key "Z" >}} and {{< key "Ctrl" >}}+{{< key "Shift" >}}+{{< key "Z" >}} use.
 

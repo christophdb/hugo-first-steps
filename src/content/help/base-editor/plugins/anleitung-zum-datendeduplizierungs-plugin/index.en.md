@@ -52,4 +52,4 @@ After confirming the deletion, **all duplicate entries** will be **deleted** fro
 
 Please note that **not only** the **values** identified as duplicates are deleted from the table, but with them also **the whole rows**, which contain one of the duplicate values.
 
-If you have deleted the entries or rows by mistake or need them again afterwards, you can [restore]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}) them [from the base recycle bin]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}) for a certain time.
+If you have deleted the entries or rows by mistake or need them again afterwards, you can [restore]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}) them [from the base trash]({{< relref "help/base-editor/historie-und-versionen/tabellen-und-zeilen-aus-dem-papierkorb-zurueckholen" >}}) for a certain time.

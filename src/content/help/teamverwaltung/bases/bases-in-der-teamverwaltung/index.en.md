@@ -55,7 +55,7 @@ Under **Delete** you have the option to delete the selected base.
 
 ## Trash
 
-All **deleted bases** are listed in the recycle bin. After **30 days**, the bases are automatically removed from the system. However, you can also **delete all** bases in the recycle bin manually. You can find out how to do this [here]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
+All **deleted bases** are listed in the trash. After **30 days**, the bases are automatically removed from the system. However, you can also **delete all** bases in the trash manually. You can find out how to do this [here]({{< relref "help/teamverwaltung/bases/den-papierkorb-in-der-teamverwaltung-leeren" >}}).
 
 To restore a base, click the respective base and operate the slider before clicking the **Restore base** button.
 
