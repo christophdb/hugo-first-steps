@@ -13,7 +13,7 @@ categories:
     - 'customer-story'
 tags:
     - 'Gestion des données & visualisation'
-    - 'Transformation digitale'
+    - 'Transformation numérique'
     - 'Finances'
 seo:
     title: Le club de hockey de Berlin passe au numérique avec SeaTable

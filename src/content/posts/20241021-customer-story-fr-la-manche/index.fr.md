@@ -9,7 +9,7 @@ categories:
     - 'customer-story'
 tags:
     - 'gestion des données & visualisation'
-    - 'transformation digitale'
+    - 'transformation numérique'
     - 'administration publique'
 color: '#bb9de1'
 url: '/fr/customer-story-fr-la-manche/'

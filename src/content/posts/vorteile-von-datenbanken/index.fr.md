@@ -5,7 +5,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Gestion des données & visualisation'
-    - 'Quand Excel ne fait plus le poids...'
+    - 'Quand Excel ne fait plus le poids'
 url: '/fr/avantages-bases-donnees'
 aliases:
     - /fr/vorteile-von-datenbanken

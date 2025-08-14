@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
     - 'customer-story'
 tags:
-    - 'Transformation digitale'
+    - 'Transformation numérique'
     - 'Intégration & automatisation'
 color: '#faeebf'
 url: '/fr/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'

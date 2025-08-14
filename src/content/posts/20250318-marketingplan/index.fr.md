@@ -9,7 +9,7 @@ date: 2025-03-18
 categories:
     - 'best-practice'
 tags:
-    - 'planification du marketing'
+    - 'planification marketing'
 color: '#509dfd'
 url: '/fr/marketingplan'
 ---
