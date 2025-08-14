@@ -52,7 +52,7 @@ Managing your base shares is done in the same way as creating them via the Share
 
 An existing share to a user or group can be extended or restricted at any time by changing the share permission. To do this, click on the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}. A share can be terminated or a link deleted by clicking on the **x symbol**. All changes are effective immediately. For an existing link, the password protection, the expiration date and the URL **cannot** be changed.
 
-> You can also get a comprehensive overview of all shares and links to a base under [Bases in Team Administration]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}), if you are a team administrator.
+> You can also get a comprehensive overview of all shares and links to a base under [Bases in team administration]({{< relref "help/teamverwaltung/bases/bases-in-der-teamverwaltung" >}}), if you are a team administrator.
 
 ## Shares for tables
 

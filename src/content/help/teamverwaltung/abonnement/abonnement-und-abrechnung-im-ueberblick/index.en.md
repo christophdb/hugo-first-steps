@@ -30,13 +30,13 @@ You can adjust your booked subscription to your changing needs at any time in th
 
 ## Plus or Enterprise subscription booking
 
-You want to book a Plus or Enterprise subscription? No problem, this is possible at any time via the Subscription tab in the Team administration.
+You want to book a Plus or Enterprise subscription? No problem, this is possible at any time via the Subscription tab in the team administration.
 
 [Learn more about Plus or Enterprise subscription booking]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Change current subscription (Plus, Enterprise, duration and team size)
 
-You want to change your current subscription package or simply adjust the duration of your subscription or the team size? No problem, via the Subscription tab in the Team administration this is possible with just a few steps.
+You want to change your current subscription package or simply adjust the duration of your subscription or the team size? No problem, via the Subscription tab in the team administration this is possible with just a few steps.
 
 [Learn more about changing your current subscription]({{< relref "help/teamverwaltung/abonnement/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen" >}}).
 
@@ -54,37 +54,37 @@ Payment by invoice is only possible with an Enterprise subscription, a team size
 
 ## Customize billing address
 
-You want to adjust your billing address? No problem, via the Team administration this is also done in just a few steps.
+You want to adjust your billing address? No problem, via the team administration this is also done in just a few steps.
 
 [Learn more about customizing the billing address]({{< relref "help/teamverwaltung/abonnement/rechnungsadresse-anpassen" >}}).
 
 ## Where can I find my invoices?
 
-You can view your invoices with just a few clicks via the Team administration. You can find them in the Subscription tab.
+You can view your invoices with just a few clicks via the team administration. You can find them in the Subscription tab.
 
 [Learn more about retrieving your invoices]({{< relref "help/teamverwaltung/abonnement/wo-finde-ich-meine-rechnungen" >}}).
 
 ## Download invoices
 
-If you need your invoices as PDF files, you can download them at any time via the Team administration.
+If you need your invoices as PDF files, you can download them at any time via the team administration.
 
 [Learn more about downloading your invoices]({{< relref "help/teamverwaltung/abonnement/wo-finde-ich-meine-rechnungen" >}}).
 
 ## Change credit card
 
-You want to change the credit card you used to pay your SeaTable subscription? No problem, via the Team administration this is done with just a few steps.
+You want to change the credit card you used to pay your SeaTable subscription? No problem, via the team administration this is done with just a few steps.
 
 [Learn more about changing your credit card]({{< relref "help/teamverwaltung/abonnement/aendern-der-kreditkarte" >}}).
 
 ## Deposit of the tax ID
 
-You can also add a valid tax ID to your account at any time through Team administration.
+You can also add a valid tax ID to your account at any time through team administration.
 
 [Learn more about filing a tax ID]({{< relref "help/teamverwaltung/abonnement/hinterlegen-der-steuer-id" >}}).
 
 ## Discounts for public, non-profit or educational institutions
 
-SeaTable provides a standard 25% discount, and in special cases up to 75% discount on the cost of SeaTable Plus or Enterprise for public, non-profit or educational institutions. To take advantage of the discount, simply submit an appropriate request through Team Administration.
+SeaTable provides a standard 25% discount, and in special cases up to 75% discount on the cost of SeaTable Plus or Enterprise for public, non-profit or educational institutions. To take advantage of the discount, simply submit an appropriate request through team administration.
 
 [Learn more about the discounts for the above facilities]({{< relref "help/teamverwaltung/abonnement/rabatte" >}}).
 

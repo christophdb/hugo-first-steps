@@ -24,14 +24,14 @@ Organize your bases into groups, both to get a better overview of your topics an
 
 {{< warning  headline="Small tip"  text="The name of a group may only consist of _letters_, _numbers_, _spaces_, _periods_, _hyphens_, _underscores_ and the _\# sign_. Other characters are currently not allowed." />}}
 
-## Create group in Team administration
+## Create group in team administration
 
 As a **team administrator**, you have a second option, which is to [create a group via the team administration]({{< relref "help/teamverwaltung/team/eine-neue-gruppe-anlegen-2" >}}).
 
 1. Switch to the SeaTable **home** page.
 2. Click your **avatar image** in the upper right corner and then click **Team administration**.
 
-![Open the Team administration](images/open-team-admin.jpg)
+![Open the team administration](images/open-team-admin.jpg)
 
 4. Switch to the **Team** section.
 

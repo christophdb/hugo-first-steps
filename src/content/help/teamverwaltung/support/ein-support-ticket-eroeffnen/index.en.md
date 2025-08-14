@@ -12,7 +12,7 @@ url: '/help/ein-support-ticket-eroeffnen'
 
 Teams with a Plus or Enterprise subscription have the option to open a ticket with **SeaTable Support.** In the **Team administration** you can create new tickets as well as view the status of your tickets.
 
-{{< warning  headline="Tickets are always created for the team"  text="Please note that SeaTable does not create personal tickets, but always team tickets. This means that everyone in the team who has access to the Team administration can see all the tickets of your team." />}}
+{{< warning  headline="Tickets are always created for the team"  text="Please note that SeaTable does not create personal tickets, but always team tickets. This means that everyone in the team who has access to the team administration can see all the tickets of your team." />}}
 
 ## To open a support ticket
 

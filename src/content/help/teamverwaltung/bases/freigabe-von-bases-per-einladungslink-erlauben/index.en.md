@@ -27,7 +27,7 @@ If you allow base sharing by invitation link, your team members can create as **
 
 An invitation link can also be **duplicated** as many times as you want and gives everyone who has access to the link access to the **contents of base**. If you want to restrict this sharing option, then uncheck the **Allowbase sharing by invitation link** slider. You will see the following message for the links:
 
-![Error message invitation link in Team administration](images/Fehlermeldung-EInladungslink.png)
+![Error message invitation link in team administration](images/Fehlermeldung-EInladungslink.png)
 
 Any **invitation links** previously created by the team will **no longer** **work.** You can still create invitation links, but the recipient will not have base access through them.
 

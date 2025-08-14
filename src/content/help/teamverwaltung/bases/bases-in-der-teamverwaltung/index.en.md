@@ -1,5 +1,5 @@
 ---
-title: 'Bases in the Team administration'
+title: 'Bases in the team administration'
 date: 2023-01-18
 lastmod: '2023-01-19'
 categories:
@@ -8,11 +8,11 @@ author: 'vge'
 url: '/help/bases-in-der-teamverwaltung'
 ---
 
-If you are a **team administrator**, you can access all the bases in your team through the **Team Administration**. You can view the details of each base, see base shares and links, or delete bases.
+If you are a **team administrator**, you can access all the bases in your team through the **team administration**. You can view the details of each base, see base shares and links, or delete bases.
 
 ## How to access the bases in the team administration
 
-![Bases in the Team administration](images/bases-in-der-teamverwaltung.gif)
+![Bases in the team administration](images/bases-in-der-teamverwaltung.gif)
 
 1. Click your **avatar image** in the upper right corner.
 2. Select the **Team administration** option from the drop-down menu.

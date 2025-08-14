@@ -16,7 +16,7 @@ You want to store a tax ID in SeaTable? No problem, via the team administration 
 
 Depositing the tax ID is possible both when **booking** a subscription and **subsequently.**
 
-![The tax ID can be stored via the Subscription tab in the Team administration](images/Hinterlegen-einer-Steuer-ID.png)
+![The tax ID can be stored via the Subscription tab in the team administration](images/Hinterlegen-einer-Steuer-ID.png)
 
 1. Open the **Team administration**.
 2. Switch to the **Subscription** section.
@@ -30,7 +30,7 @@ After submitting the form, your tax ID will be automatically checked and compare
 
 Only when the verification has been successful, the tax ID will be effective and used on future invoices. Also, the preview of the future invoice amount will not be adjusted until the tax ID has been verified as valid.
 
-![Tax treatment in SeaTable Team administration.](images/steuerliche-Behandlung.png)
+![Tax treatment in SeaTable team administration.](images/steuerliche-Behandlung.png)
 
 ## Frequently asked questions about the tax ID
 

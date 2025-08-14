@@ -14,7 +14,7 @@ To lock or delete team members, you must have **administration permissions**.
 
 1. Switch to the **team administration**.
 
-![Switch to the Team administration](images/open-team-admin.png)
+![Switch to the team administration](images/open-team-admin.png)
 
 3. Click on the **Team** menu item.
 

@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
 ---
 
-In Team Administration, as a **team administrator**, you can make changes to the subscription at any time. Learn how to make changes, when they take effect, and what effects they have on the term in this article.
+In team administration, as a **team administrator**, you can make changes to the subscription at any time. Learn how to make changes, when they take effect, and what effects they have on the term in this article.
 
 ## Effectiveness of changes
 

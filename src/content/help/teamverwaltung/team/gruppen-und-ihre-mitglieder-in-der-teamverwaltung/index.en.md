@@ -1,5 +1,5 @@
 ---
-title: 'Groups and their members in Team administration'
+title: 'Groups and their members in team administration'
 date: 2023-01-18
 lastmod: '2023-01-18'
 categories:
@@ -14,7 +14,7 @@ Learn all about the possible roles in a group in the article [Group members and 
 
 ## Change the membership and roles in a group
 
-![Manage group members in Team administration](images/Gruppe-verwalten.png)
+![Manage group members in team administration](images/Gruppe-verwalten.png)
 
 1. Switch to the **team administration**.
 2. Click on the **Team** menu item.
