@@ -9,7 +9,7 @@ categories:
     - 'customer-story'
 tags:
     - 'Planificación de marketing'
-    - 'Herramientas y complementos'
+    - 'Herramientas y plugins'
 color: '#dc4d51'
 url: '/es/customer-story-red-dot'
 ---

@@ -9,7 +9,7 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'Transformación digital'
-    - 'Integración y automatización'
+    - 'Integraciones y automatizaciones'
     - 'Herramientas y plugins'
 color: '#f2afdb'
 url: '/es/low-code'

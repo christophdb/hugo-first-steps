@@ -9,7 +9,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Gestión y visualización de datos'
-    - 'Herramientas y complementos'
+    - 'Herramientas y plugins'
 color: '#bedeab'
 url: '/es/datenmanagement'
 ---

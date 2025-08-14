@@ -9,7 +9,7 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'Transformación digital'
-    - 'Procesos de TI'
+    - 'Procesos informáticos'
 color: '#50c2d0'
 url: '/es/citizen-developer'
 ---
