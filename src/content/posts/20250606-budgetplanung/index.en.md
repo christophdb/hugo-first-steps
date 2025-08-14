@@ -9,7 +9,7 @@ seo:
 categories:
     - 'best-practice'
 tags:
-    - 'Finance'
+    - 'Finances'
     - 'Project management'
 color: '#f4a64b'
 ---
