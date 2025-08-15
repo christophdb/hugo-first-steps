@@ -20,7 +20,7 @@
                 autocomplete="email"
                 class="min-w-0 flex-auto rounded-lg bg-white px-3.5 py-2 text-base font-bold text-seatable-blue outline-none placeholder:text-gray-500 focus:bg-blue-50 sm:text-sm/6" />
 
-            <button type="submit" class="bg-gradient rounded-lg p-4 px-8 font-poppins text-sm font-bold text-white">
+            <button type="submit" @click="submitForm" class="bg-gradient rounded-lg p-4 px-8 font-poppins text-sm font-bold text-white">
                 <span x-show="!submitted">{{ T "newsletter.submit_text" }}</span>
                 <span x-show="submitted">{{ ":white_check_mark:" | emojify }}</span>
             </button>
