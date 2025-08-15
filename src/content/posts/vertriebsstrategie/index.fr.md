@@ -15,7 +15,7 @@ url: '/fr/strategie-de-vente/'
 
 ## Pourquoi vous avez besoin d'une stratégie de vente
 
-Sans une stratégie de vente claire, votre service commercial (et dans une certaine mesure votre service marketing) manquera de direction. Les mesures n'aboutissent à rien ou ne contribuent pas à l'objectif de l'entreprise. Seule une stratégie formulée, documentée et communiquée permet à votre service commercial de cibler les clients et de s'adapter facilement aux conditions changeantes du marché.
+Sans une stratégie de vente claire, votre service commercial (et dans une certaine mesure votre service [marketing]({{< relref "pages/industry-solutions/marketing" >}})) manquera de direction. Les mesures n'aboutissent à rien ou ne contribuent pas à l'objectif de l'entreprise. Seule une stratégie formulée, documentée et communiquée permet à votre service commercial de cibler les [clients]({{< relref "pages/industry-solutions/kundenmanagement" >}}) et de s'adapter facilement aux conditions changeantes du marché.
 
 Les inconvénients les plus graves de l'absence de stratégie de vente sont les suivants :
 
