@@ -28,13 +28,12 @@ La presupuestación – también conocida como planificación presupuestaria o a
 
 - **Distribución razonable del presupuesto**: La planificación presupuestaria le ayuda a distribuir el dinero y los recursos de forma sensata entre los departamentos y proyectos y a utilizarlos específicamente allí donde aportarán el mayor beneficio posible.
 - **Objetivos vinculantes**: Con un plan presupuestario vinculante, puede asegurarse de que sus directivos formulen objetivos claros y tomen medidas eficaces para alcanzarlos.
-
 - **Transparencia financiera**: La elaboración de presupuestos proporciona claridad sobre en qué se gasta el dinero. Puede vigilar los costes y los objetivos, medir el éxito y anticiparse a los acontecimientos indeseables.
 - **Inversiones prioritarias**: La lista de deseos en los departamentos suele ser larga. Un presupuesto fijo le ayuda a priorizar las inversiones cruciales y a evitar gastos innecesarios.
 
 ## El presupuesto va de la mano de la planificación financiera
 
-La planificación **presupuestaria operativa** forma parte de la planificación financiera a corto plazo, en la que usted estima sus ingresos y gastos futuros para el año siguiente. Utiliza los datos del ejercicio en curso y/o del anterior para obtener previsiones de la evolución futura. A diferencia de la planificación financiera, la presupuestación se centra generalmente en la parte de los gastos, independientemente de la procedencia del dinero.
+La planificación **presupuestaria operativa** forma parte de la [planificación financiera]({{< relref "posts/20250617-finanzplanung" >}}) a corto plazo, en la que usted estima sus ingresos y gastos futuros para el año siguiente. Utiliza los datos del ejercicio en curso y/o del anterior para obtener previsiones de la evolución futura. A diferencia del [plan financiero]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}), la presupuestación se centra generalmente en la parte de los gastos, independientemente de la procedencia del dinero.
 
 La planificación **presupuestaria estratégica** para los próximos dos a cinco años también es bastante habitual. Esto le ayuda a tomar decisiones empresariales a largo plazo que impulsarán a su empresa y garantizarán su éxito, como la apertura de nuevas sedes. Sin embargo, cuanto más lejos en el futuro esté el horizonte de planificación, más difícil e incierto será hacer una previsión precisa.
 

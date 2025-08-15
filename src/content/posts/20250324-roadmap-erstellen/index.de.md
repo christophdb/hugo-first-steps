@@ -65,7 +65,7 @@ Um Ihr Projekt so effizient wie möglich zu gestalten, sollten Sie die betroffen
 
 Wie Sie Ihr Ziel erreichen wollen, legen Sie mit der Struktur der Roadmap fest. Ausgangspunkt sollte dabei immer der aktuelle Stand sein. In der Regel visualisiert eine Roadmap anschließend die **Hauptaufgaben**, die zur Erreichung des Ziels nötig sind. Dabei bringen Sie die Meilensteine in eine logische **zeitliche Reihenfolge**. Der gewünschte Detailgrad entscheidet darüber, wie viele Zwischenschritte und Teilaufgaben Sie festhalten wollen.
 
-_Tipp: Für die Detailplanung Ihres Projekts nutzen Sie am besten einen Projektstrukturplan, der sich beliebig erweitern lässt._
+Tipp: Für die Detailplanung Ihres Projekts nutzen Sie am besten einen [Projektstrukturplan]({{< relref "posts/20250317-projektstrukturplan" >}}), der sich beliebig erweitern lässt.
 
 ### 5. Roadmap erstellen
 
@@ -73,7 +73,7 @@ Nun sollten Sie die wichtigsten Informationen zur Erstellung Ihrer Roadmap beisa
 
 Um Ihnen die Gestaltung zu erleichtern, stellen Ihnen verschiedene Dienste fertige **Roadmap-Vorlagen** zur Verfügung, welche Sie nur noch individuell befüllen müssen.
 
-### 6\. Regelmäßige Updates und Kommunikation\*\*
+### 6. Regelmäßige Updates und Kommunikation
 
 Egal, für welche Art der Roadmap Sie sich entschieden haben – Sie sollten Ihre **Fortschritte** und mögliche **Änderungen** regelmäßig aktualisieren. Zum Beispiel können neue Aufgaben hinzukommen oder sich die Umsetzung verzögern. Besonders Strategieänderungen führen zu weitreichenden Anpassungen Ihrer Road Map. Achten Sie darauf, die Auswirkungen der Updates schnell und umfassend zu kommunizieren, damit alle Stakeholder stets auf dem aktuellen Stand sind.
 
@@ -117,7 +117,7 @@ Wenn Sie eine Vorlage suchen, die Ihnen das Festhalten von Projektberichten und 
 
 ### Strategische Roadmap
 
-Sie sind Geschäftsführer oder Vorstand und möchten Ihren Mitarbeitern oder anderen Stakeholdern die **Gesamtvision** für das Unternehmen übersichtlich und griffig erklären? Dann ist eine strategische Roadmap, die viele Ähnlichkeiten zu einem Businessplan aufweist, das Mittel der Wahl. Damit können Sie Ihre kurz- und langfristigen Ziele (z. B. im Marketing und Vertrieb) abbilden, die Finanzplanung sowie alle zum Erreichen der Geschäftsvision erforderlichen Maßnahmen auf einen Blick greifbar machen.
+Sie sind Geschäftsführer oder Vorstand und möchten Ihren Mitarbeitern oder anderen Stakeholdern die **Gesamtvision** für das Unternehmen übersichtlich und griffig erklären? Dann ist eine strategische Roadmap, die viele Ähnlichkeiten zu einem Businessplan aufweist, das Mittel der Wahl. Damit können Sie Ihre kurz- und langfristigen Ziele (z. B. im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}) und Vertrieb) abbilden, die [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) sowie alle zum Erreichen der Geschäftsvision erforderlichen Maßnahmen auf einen Blick greifbar machen.
 
 Die Vorlage von SeaTable bildet alle wichtigen Prozesse übersichtlich ab. Diese können Sie an Ihr Unternehmen individuell anpassen.
 

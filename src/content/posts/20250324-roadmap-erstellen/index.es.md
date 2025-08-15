@@ -67,7 +67,7 @@ Para que su proyecto sea lo más eficaz posible, debe implicar a las **personas*
 
 La estructura de la hoja de ruta define cómo se quiere alcanzar el objetivo. El punto de partida debe ser siempre la situación actual. Por regla general, en una hoja de ruta se visualizan las **tareas principales** necesarias para alcanzar el objetivo. Al hacerlo, se organizan los hitos en una **secuencia temporal** lógica. El nivel de detalle deseado determina cuántos pasos intermedios y subtareas desea registrar.
 
-Consejo: para la planificación detallada de su proyecto, lo mejor es utilizar una estructura de desglose del trabajo, que puede ampliarse según sea necesario.
+Consejo: para la planificación detallada de su proyecto, lo mejor es utilizar una [estructura de desglose del trabajo]({{< relref "posts/20250317-projektstrukturplan" >}}), que puede ampliarse según sea necesario.
 
 ### 5. crear una hoja de ruta
 
@@ -75,7 +75,7 @@ Ahora debería disponer de la información más importante para crear su hoja de
 
 Para facilitarte el diseño, varios servicios te ofrecen **plantillas de hojas de ruta** ya preparadas, que sólo tienes que rellenar individualmente.
 
-### 6\. Actualizaciones y comunicación periódicas\*\*
+### 6. Actualizaciones y comunicación periódicas
 
 Independientemente del tipo de hoja de ruta que haya elegido, debe actualizar periódicamente su **progreso** y cualquier **cambio**. Por ejemplo, pueden añadirse nuevas tareas o retrasarse su ejecución. Los cambios de estrategia, en particular, provocan ajustes de gran alcance en su hoja de ruta. Asegúrese de comunicar los efectos de las actualizaciones de forma rápida y exhaustiva para que todas las partes interesadas estén siempre al día.
 
@@ -117,7 +117,7 @@ Si busca una plantilla que le facilite el registro de informes y documentación 
 
 ### Hoja de ruta estratégica
 
-¿Es usted director general o miembro del consejo de administración y le gustaría explicar la **visión global** de la empresa a sus empleados o a otras partes interesadas de forma clara y concisa? Entonces una hoja de ruta estratégica, que tiene muchas similitudes con un plan de empresa, es la herramienta que necesita. Puede utilizarla para trazar sus objetivos a corto y largo plazo (por ejemplo, en marketing y ventas), la planificación financiera y todas las medidas necesarias para alcanzar la visión empresarial de un vistazo.
+¿Es usted director general o miembro del consejo de administración y le gustaría explicar la **visión global** de la empresa a sus empleados o a otras partes interesadas de forma clara y concisa? Entonces una hoja de ruta estratégica, que tiene muchas similitudes con un plan de empresa, es la herramienta que necesita. Puede utilizarla para trazar sus objetivos a corto y largo plazo (por ejemplo, en [marketing]({{< relref "pages/industry-solutions/marketing" >}}) y ventas), [la planificación financiera]({{< relref "posts/20250617-finanzplanung" >}}) y todas las medidas necesarias para alcanzar la visión empresarial de un vistazo.
 
 La plantilla SeaTable traza claramente todos los procesos importantes. Puede personalizarla para adaptarla a su empresa.
 

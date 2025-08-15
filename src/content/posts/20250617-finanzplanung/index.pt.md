@@ -21,7 +21,7 @@ O planeamento financeiro de uma empresa trata **do registo, da previsão e da ge
 ## As vantagens e os objectivos mais importantes do planeamento financeiro
 
 - **Assegure a liquidez**: Deve ter sempre rendimentos e activos suficientes para cobrir os seus custos fixos e cumprir as suas obrigações de pagamento.
-- **Planear orçamentos e investimentos**: Esclareça quanto dinheiro precisa para atingir os seus objectivos empresariais e de onde deve vir o dinheiro. Isto dar-lhe-á uma base sólida para tomar decisões sobre orçamentos e investimentos.
+- **Planear orçamentos e investimentos**: Esclareça quanto dinheiro precisa para atingir os seus objectivos empresariais e de onde deve vir o dinheiro. Isto dar-lhe-á uma base sólida para tomar decisões sobre [orçamentos]({{< relref "posts/20250606-budgetplanung" >}}) e investimentos.
 - **Aumente a rentabilidade**: O planeamento financeiro ajuda a aumentar os seus lucros e a reduzir o capital investido e os custos para melhorar a rentabilidade da sua empresa.
 - **Minimize os riscos**: O controlo regular dos principais valores financeiros permite-lhe reconhecer os aumentos de custos, as quebras de vendas e os pagamentos futuros numa fase precoce. Calcule sempre as reservas para estar preparado para os estrangulamentos de liquidez.
 - **Crie confiança**: Com um planeamento financeiro bem pensado, prova que sabe gerir o dinheiro com competência. Isto aumenta a sua solvabilidade junto dos bancos e reforça a confiança dos seus empregados e acionistas.
@@ -36,12 +36,12 @@ As tarefas do planeamento financeiro podem ser divididas em diferentes fases:
 Em primeiro lugar, registe todos os activos e passivos, bem como as receitas e despesas da sua empresa, que também se reflectem nas demonstrações financeiras anuais. Ao obter uma visão geral da situação financeira atual, pode derivar previsões de fluxo de caixa, avaliar a liquidez e examinar o financiamento existente (por exemplo, empréstimos, capital próprio).
 
 ### 2. Fase de planeamento (preparação do plano financeiro)
-Na fase central do planeamento financeiro, utiliza os dados obtidos na fase de análise para criar o seu plano financeiro com visão de futuro. Este pode ser dividido em vários domínios:
+Na fase central do planeamento financeiro, utiliza os dados obtidos na fase de análise para criar o seu [plano financeiro]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) com visão de futuro. Este pode ser dividido em vários domínios:
 - **Planeamento de vendas**: Como é que as suas receitas vão evoluir e como é que as vendas podem ser aumentadas?
 - **Planeamento de custos**: Quais os custos fixos e variáveis incorridos e quais os que pode reduzir?
-- **Previsão da rentabilidade**: Qual é o volume de negócios que precisa de gerar para que a sua empresa seja rentável?
+- [Previsão da rentabilidade]({{< relref "posts/rentabilitaetsvorschau" >}}): Qual é o volume de negócios que precisa de gerar para que a sua empresa seja rentável?
 - **Planeamento dos investimentos**: Que compras pretende fazer e onde é que o seu dinheiro está bem investido?
-- **Planeamento da liquidez**: Como garante a solvência da sua empresa?
+- [Planeamento da liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}): Como garante a solvência da sua empresa?
 - **Planeamento das necessidades de capital**: De quanto capital necessita a sua empresa para as operações e os investimentos?
 - **Planeamento do financiamento**: De onde virá o dinheiro (capital próprio ou capital alheio)?
 

@@ -65,7 +65,7 @@ To make your project as efficient as possible, you should involve the **people**
 
 You define how you want to achieve your goal with the structure of the roadmap. The starting point should always be the current status. As a rule, a roadmap then visualizes the **main tasks** that are necessary to achieve the goal. In doing so, you put the milestones in a logical **time sequence**. The desired level of detail determines how many intermediate steps and subtasks you want to record.
 
-Tip: For the detailed planning of your project, it is best to use a work breakdown structure, which can be expanded as required.
+Tip: For the detailed planning of your project, it is best to use a [work breakdown structure]({{< relref "posts/20250317-projektstrukturplan" >}}), which can be expanded as required.
 
 ### 5\. Create a roadmap
 
@@ -115,7 +115,7 @@ If you are looking for a template that makes it easier for you to record project
 
 ### Strategic roadmap
 
-Are you a managing director or board member and want to explain the **overall vision** for the company to your employees or other stakeholders in a clear and concise way? Then a strategic roadmap, which has many similarities to a business plan, is the tool of choice. You can use it to map out your short and long-term goals (e.g. in marketing and sales) and make the financial planning and all the measures required to achieve the business vision tangible at a glance.
+Are you a managing director or board member and want to explain the **overall vision** for the company to your employees or other stakeholders in a clear and concise way? Then a strategic roadmap, which has many similarities to a business plan, is the tool of choice. You can use it to map out your short and long-term goals (e.g. in [marketing]({{< relref "pages/industry-solutions/marketing" >}}) and sales) and make the [financial planning]({{< relref "posts/20250617-finanzplanung" >}}) and all the measures required to achieve the business vision tangible at a glance.
 
 The SeaTable template clearly maps all important processes. You can customize it to suit your company.
 

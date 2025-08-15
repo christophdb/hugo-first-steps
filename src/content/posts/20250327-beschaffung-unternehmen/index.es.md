@@ -15,7 +15,7 @@ url: '/es/beschaffung-unternehmen/'
 
 ## Gestión de adquisiciones en las empresas
 
-El aprovisionamiento en las empresas es un área de responsabilidad compleja y plantea grandes exigencias a los responsables de la gestión de compras. Tienen que sopesar los intereses y requisitos, a veces contrapuestos, de las partes interesadas internas y organizar la gestión de los proveedores. También son responsables de garantizar que los **materiales y servicios** necesarios estén disponibles a tiempo y dentro del presupuesto disponible. **Negociación de precios, gestión de ofertas, control de calidad y gestión de riesgos** son sólo algunas de las tareas centrales de un responsable de compras.
+El aprovisionamiento en las empresas es un área de responsabilidad compleja y plantea grandes exigencias a los responsables de la gestión de compras. Tienen que sopesar los intereses y requisitos, a veces contrapuestos, de las partes interesadas internas y organizar la gestión de los proveedores. También son responsables de garantizar que los **materiales y servicios** necesarios estén disponibles a tiempo y dentro del [presupuesto]({{< relref "posts/20250606-budgetplanung" >}}) disponible. **Negociación de precios, gestión de ofertas, control de calidad y gestión de riesgos** son sólo algunas de las tareas centrales de un responsable de compras.
 
 La buena noticia es que las soluciones digitales pueden ayudarle a optimizar sus compras y establecer procesos transparentes. Antes de analizar el potencial de optimización del proceso de contratación, echemos un vistazo a los mayores retos en este ámbito.
 
@@ -69,13 +69,13 @@ Inventario de almacén con la aplicación sin código SeaTable](Why-is-efficient
 
 ## Opciones de aprovisionamiento: ¿Qué opciones tiene?
 
-Como responsable de aprovisionamiento, dispone de varias opciones para organizar la compra de mercancías. Además de la orientación de su empresa, son criterios de decisión importantes la planificación financiera, la estabilidad de la cadena de suministro y la fiabilidad de sus proveedores. En la práctica, lo mejor para usted puede ser una combinación de diferentes opciones de adquisición.
+Como responsable de aprovisionamiento, dispone de varias opciones para organizar la compra de mercancías. Además de la orientación de su empresa, son criterios de decisión importantes la [planificación financiera]({{< relref "posts/20250617-finanzplanung" >}}), la estabilidad de la cadena de suministro y la fiabilidad de sus proveedores. En la práctica, lo mejor para usted puede ser una combinación de diferentes opciones de adquisición.
 
 Con el **compra individual**, se adquieren mercancías por artículos, por ejemplo si hay un pedido especial del cliente.
 
 El objetivo del **aprovisionamiento de existencias** es mantener una gran cantidad de bienes y materiales en stock para satisfacer los pedidos de forma continuada.
 
-El aprovisionamiento justo a tiempo\*\*, también conocido como aprovisionamiento sincronizado con la producción, consiste en adquirir bienes sólo cuando se necesitan en el proceso de producción.
+El **aprovisionamiento justo a tiempo**, también conocido como aprovisionamiento sincronizado con la producción, consiste en adquirir bienes sólo cuando se necesitan en el proceso de producción.
 
 ## Factores de éxito en el aprovisionamiento: ¿qué hay que tener en cuenta?
 
@@ -111,7 +111,7 @@ Mediante una planificación cuidadosa, una implementación eficaz y una optimiza
 
 Tanto si gestiona las compras operativas como todo el proceso de aprovisionamiento de su empresa, una planificación cuidadosa y una evaluación y optimización continuas de sus procesos pueden reducir los costes, mejorar la selección de proveedores y contribuir al éxito de la empresa. Para ello, es esencial disponer de una visión general de todos los proveedores, los pedidos abiertos y previstos, la cadena de suministro, los costes y el estado de los pedidos. Sin embargo, dependiendo del tamaño de la empresa, esto puede resultar confuso rápidamente. Con las plantillas gratuitas de SeaTable, siempre tendrá una visión general de todos los datos y facilitará la transparencia a las partes interesadas. Esto le permite analizar su cadena de suministro y aprovisionamiento en cualquier momento y tomar decisiones estratégicas.
 
-Regístrese gratis hoy mismo con su dirección de correo electrónico.
+[Regístrese gratis hoy mismo con su dirección de correo electrónico.]({{< relref "pages/registration" >}})
 
 ## FAQ Compras
 

@@ -36,7 +36,7 @@ A orçamentação - também conhecida como planeamento orçamental ou atribuiç�
 
 ## O orçamento anda de mãos dadas com o planeamento financeiro
 
-**O planeamento do orçamento operacional** faz parte do planeamento financeiro a curto prazo, no qual estima as suas receitas e despesas futuras para o ano seguinte. Utiliza os dados do exercício atual e/ou anterior para obter previsões de desenvolvimentos futuros. Ao contrário do planeamento financeiro, a orçamentação centra-se geralmente no lado das despesas - independentemente da origem do dinheiro.
+**O planeamento do orçamento operacional** faz parte do [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) a curto prazo, no qual estima as suas receitas e despesas futuras para o ano seguinte. Utiliza os dados do exercício atual e/ou anterior para obter previsões de desenvolvimentos futuros. Ao contrário do [plano financeiro]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}), a orçamentação centra-se geralmente no lado das despesas - independentemente da origem do dinheiro.
 
 **O planeamento estratégico do orçamento** para os próximos dois a cinco anos é também bastante comum. Isto ajuda-o a tomar decisões comerciais a longo prazo que irão fazer avançar a sua empresa e garantir o seu sucesso, como a abertura de novas localizações. No entanto, quanto mais distante for o horizonte de planeamento, mais difícil e incerto será fazer uma previsão exacta.
 

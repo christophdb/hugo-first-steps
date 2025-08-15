@@ -28,13 +28,12 @@ Budgeting – also known as budget planning or budget allocation – is, as the 
 
 - **Sensible budget allocation**: Budget planning helps you to allocate money and resources sensibly to departments and projects and to use them specifically where they will bring the greatest possible benefit.
 - **Binding targets**: With a binding budget plan, you can ensure that your managers formulate clear goals and take efficient measures to achieve them.
-
 - **Financial transparency**: Budgeting provides clarity on what you are spending your money on. You can keep an eye on costs and targets, measure success and anticipate undesirable developments.
 - **Prioritized investments**: The wish list in departments is often long. A fixed budget helps you to prioritize the crucial investments and avoid unnecessary expenditure.
 
 ## Budgeting goes hand in hand with financial planning
 
-**Operational budget planning** is part of short-term financial planning, in which you estimate your future income and expenditure for the coming year. You use the data from the current and/or previous financial year to derive forecasts for future developments. In contrast to financial planning, budgeting generally focuses on the expenditure side - regardless of where the money comes from.
+**Operational budget planning** is part of short-term [financial planning]({{< relref "posts/20250617-finanzplanung" >}}), in which you estimate your future income and expenditure for the coming year. You use the data from the current and/or previous financial year to derive forecasts for future developments. In contrast to a [financial plan]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}), budgeting generally focuses on the expenditure side - regardless of where the money comes from.
 
 **Strategic budget planning** for the next two to five years is also quite common. This helps you to make long-term business decisions that will drive your company forward and ensure its success, such as opening new locations. However, the further into the future the planning horizon is, the more difficult and uncertain it is to make an accurate forecast.
 

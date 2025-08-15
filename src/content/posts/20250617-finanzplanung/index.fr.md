@@ -21,7 +21,7 @@ La planification financière dans l'entreprise s'occupe **de l'enregistrement, d
 ## Les principaux avantages et objectifs de la planification financière
 
 - **Garantir la liquidité** : Vous devez disposer à tout moment de revenus et d'actifs suffisants pour couvrir vos frais fixes et faire face à vos obligations de paiement.
-- **Planifier les budgets et les investissements** : déterminez de combien d'argent vous avez besoin pour atteindre les objectifs de votre entreprise et d'où cet argent doit provenir. Vous disposez ainsi d'une base de décision solide pour les budgets et les investissements.
+- **Planifier les budgets et les investissements** : déterminez de combien d'argent vous avez besoin pour atteindre les objectifs de votre entreprise et d'où cet argent doit provenir. Vous disposez ainsi d'une base de décision solide pour [les budgets]({{< relref "posts/20250606-budgetplanung" >}}) et les investissements.
 - **Augmenter la rentabilité** : La planification financière permet d'augmenter vos bénéfices et de réduire le capital utilisé et les coûts afin d'améliorer la rentabilité de votre entreprise.
 - **Minimiser les risques** : En contrôlant régulièrement les indicateurs financiers, vous pouvez identifier à temps les augmentations de coûts, les baisses de chiffre d'affaires et les paiements à effectuer. Prévoyez toujours des réserves afin d'être prêt à faire face à des pénuries de liquidités.
 - **Instaurer la confiance** : Avec une planification financière bien pensée, vous prouvez que vous savez gérer l'argent avec compétence. Cela augmente votre solvabilité auprès des banques et renforce la confiance de vos collaborateurs et parties prenantes.
@@ -36,12 +36,12 @@ Les tâches de planification financière peuvent être divisées en plusieurs ph
 La première chose à faire est de recenser tous les actifs et passifs, ainsi que les recettes et dépenses de votre entreprise, qui se reflètent également dans les comptes annuels. En obtenant une vue d'ensemble de la situation financière actuelle, vous pouvez faire des prévisions de flux de trésorerie, estimer les liquidités et remettre en question le financement existant (par exemple, les prêts, les fonds propres).
 
 ### 2. phase de planification (élaboration du plan financier)
-Dans la phase centrale de la planification financière, vous utilisez les données obtenues lors de la phase d'analyse pour élaborer votre plan financier de manière prospective. Celui-ci peut être divisé en plusieurs domaines :
+Dans la phase centrale de la planification financière, vous utilisez les données obtenues lors de la phase d'analyse pour élaborer votre [plan financier]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) de manière prospective. Celui-ci peut être divisé en plusieurs domaines :
 - **Planification du chiffre d'affaires** : comment vos revenus vont-ils évoluer et comment le chiffre d'affaires peut-il être augmenté ?
 - **Planification des coûts** : quels sont les coûts fixes et variables et lesquels pouvez-vous réduire ?
-- **Prévision de la rentabilité** : Quel est le chiffre d'affaires que vous devez réaliser pour que votre entreprise soit rentable ?
+- [Prévision de la rentabilité]({{< relref "posts/rentabilitaetsvorschau" >}}) : Quel est le chiffre d'affaires que vous devez réaliser pour que votre entreprise soit rentable ?
 - **Planification des investissements** : quels achats souhaitez-vous faire et où votre argent est-il bien placé ?
-- **Planification des liquidités** : comment assurez-vous la solvabilité de votre entreprise ?
+- [Planification des liquidités]({{< relref "posts/20250628_liquiditaetsplanung" >}}) : comment assurez-vous la solvabilité de votre entreprise ?
 - **Planification des besoins en capitaux** : de combien de capitaux votre entreprise a-t-elle besoin pour son fonctionnement et ses investissements ?
 - **Planification financière** : d'où proviennent les fonds (propres ou étrangers) ?
 

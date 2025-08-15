@@ -21,7 +21,7 @@ Financial planning in a company deals with the systematic **recording, forecasti
 ## The most important advantages and objectives of financial planning
 
 - **Ensure liquidity**: You should always have sufficient income and assets to cover your fixed costs and meet your payment obligations.
-- **Plan budgets and investments**: Clarify how much money you need to achieve your business goals and where the money should come from. This will give you a sound basis for making decisions on budgets and investments.
+- **Plan budgets and investments**: Clarify how much money you need to achieve your business goals and where the money should come from. This will give you a sound basis for making decisions on [budgeting]({{< relref "posts/20250606-budgetplanung" >}}) and investments.
 - **Increase profitability**: Financial planning helps to increase your profit and reduce capital employed and costs to improve the profitability of your business.
 - **Minimize risks**: By regularly controlling key financial figures, you can recognize cost increases, sales slumps and upcoming payments at an early stage. Always calculate reserves in order to be prepared for liquidity bottlenecks.
 - **Create confidence**: With well thought-out financial planning, you prove that you can handle money competently. This increases your creditworthiness with banks and strengthens the trust of your employees and stakeholders.
@@ -36,12 +36,12 @@ The tasks of financial planning can be divided into different phases:
 The first step is to record all assets and liabilities as well as the income and expenditure of your company, which are also reflected in the annual financial statements. By gaining an overview of the current financial situation, you can derive cash flow forecasts, assess liquidity and scrutinize existing financing (e.g. loans, equity).
 
 ### 2. Planning phase (preparation of the financial plan)
-In the central phase of financial planning, you use the data obtained from the analysis phase to create your financial plan with foresight. This can be divided into several areas:
+In the central phase of financial planning, you use the data obtained from the analysis phase to create your [financial plan]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) with foresight. This can be divided into several areas:
 - **Revenue planning**: How will your revenue develop and how can sales be increased?
 - **Cost planning**: Which fixed and variable costs are incurred and which can you reduce?
-- **Profitability forecast**: How much turnover do you need to generate for your company to be profitable?
+- [Profitability forecast]({{< relref "posts/rentabilitaetsvorschau" >}}): How much turnover do you need to generate for your company to be profitable?
 - **Investment planning**: What purchases do you want to make and where is your money well invested?
-- **Liquidity planning**: How do you ensure your company's solvency?
+- [Liquidity planning]({{< relref "posts/20250628_liquiditaetsplanung" >}}): How do you ensure your company's solvency?
 - **Capital requirement planning**: How much capital does your company need for operations and investments?
 - **Financing planning**: Where will the money come from (equity or borrowed capital)?
 

@@ -44,7 +44,7 @@ Um roteiro também permite estimar aproximadamente se o tempo previsto para um p
 
 A criação de um roteiro leva tempo e requer uma preparação exaustiva. Em seguida, aprenderá a criar um roteiro que satisfaça as suas necessidades em seis passos.
 
-### 1. definir objectivos
+### 1. Definir objectivos
 
 Antes de criar um roteiro, deve primeiro definir o **objetivo geral do projeto**, uma vez que todo o planeamento posterior se baseará nele. Para tal, defina objectivos claros para o roteiro que estejam de acordo com os objectivos gerais da sua empresa. A implementação deve ser realisticamente **exequível** e poder ser integrada nos processos da empresa. Defina **milestones** aproximados que pretende alcançar num determinado período de tempo.
 
@@ -58,17 +58,17 @@ Com base nos requisitos que o seu plano deve cumprir, pode classificá-lo de aco
 
 A definição das caraterísticas ajudá-lo-á a identificar o tipo certo de roteiro para mapear os seus processos.
 
-### 3. envolver as partes interessadas
+### 3. Envolver as partes interessadas
 
 Para tornar o seu projeto tão eficiente quanto possível, deve envolver as **pessoas** e **departamentos** relevantes desde o início do processo de criação. Atribuir **responsabilidades** vinculativas para maximizar o empenho e a motivação. Isto irá melhorar a **transparência** e a comunicação no seio da equipa do projeto.
 
-### 4. desenvolver estrutura e processos
+### 4. Desenvolver estrutura e processos
 
 A estrutura do roteiro define como pretende atingir o seu objetivo. O ponto de partida deve ser sempre o estado atual. Em regra, um roteiro visualiza as **tarefas principais** que são necessárias para atingir o objetivo. Ao fazê-lo, organiza os marcos numa **sequência temporal** lógica. O nível de detalhe desejado determina quantos passos intermédios e subtarefas se pretende registar.
 
-\_Dica: Para o planeamento detalhado do seu projeto, é melhor utilizar um plano de trabalho, que pode ser expandido conforme necessário.
+Dica: Para o planeamento detalhado do seu projeto, é melhor utilizar um [plano de trabalho]({{< relref "posts/20250317-projektstrukturplan" >}}), que pode ser expandido conforme necessário.
 
-### 5. criar um roteiro
+### 5. Criar um roteiro
 
 Agora deve ter as informações mais importantes para criar o seu roteiro. Com base nisso, pode escolher um **formato e design** que se adapte ao seu projeto. Em seguida, adicione as tarefas mais importantes, os marcos e as partes responsáveis para dar a si e aos seus colegas uma visão geral.
 
@@ -96,7 +96,7 @@ O Jira oferece uma poderosa ferramenta de roadmap que foi especialmente desenvol
 
 ### Ferramentas de gestão de projectos e de roteiro, como o SeaTable
 
-Outros fornecedores também fornecem modelos de roteiro diretamente utilizáveis que permitem a recolha e visualização de dados num só. As ferramentas de roadmap [de gestão de projectos] ({{< relref "pages/industry-solutions/project-management" >}}) de renome, como o SeaTable, baseiam-se em **modelos personalizáveis** que podem ser adaptados com precisão às suas necessidades e mostram uma pré-visualização das caraterísticas que pode esperar antes de os descarregar. Desta forma, evita-se comprar o proverbial "porco num papo".
+Outros fornecedores também fornecem modelos de roteiro diretamente utilizáveis que permitem a recolha e visualização de dados num só. As ferramentas de roadmap [de gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}) de renome, como o SeaTable, baseiam-se em **modelos personalizáveis** que podem ser adaptados com precisão às suas necessidades e mostram uma pré-visualização das caraterísticas que pode esperar antes de os descarregar. Desta forma, evita-se comprar o proverbial "porco num papo".
 
 Uma boa ferramenta deve também permitir vários tipos de visualização, como calendários, cronogramas, diagramas de Gantt ou fluxogramas, para que os dados possam ser personalizados para diferentes pessoas e objectivos. É importante que tenha à mão exatamente as **funções-chave** de que necessita para o seu trabalho.
 
@@ -116,7 +116,7 @@ Se procura um modelo que lhe facilite o registo dos relatórios e da documentaç
 
 ### Roteiro estratégico
 
-É diretor-geral ou membro do conselho de administração e gostaria de explicar a **visão global** da empresa aos seus empregados ou a outras partes interessadas de uma forma clara e concisa? Então, um roteiro estratégico, que tem muitas semelhanças com um plano de negócios, é a ferramenta de eleição. Pode utilizá-lo para traçar os seus objectivos a curto e a longo prazo (por exemplo, em termos de marketing e vendas), o planeamento financeiro e todas as medidas necessárias para alcançar a visão da empresa num relance.
+É diretor-geral ou membro do conselho de administração e gostaria de explicar a **visão global** da empresa aos seus empregados ou a outras partes interessadas de uma forma clara e concisa? Então, um roteiro estratégico, que tem muitas semelhanças com um plano de negócios, é a ferramenta de eleição. Pode utilizá-lo para traçar os seus objectivos a curto e a longo prazo (por exemplo, em termos de [marketing]({{< relref "pages/industry-solutions/marketing" >}}) e vendas), o [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}) e todas as medidas necessárias para alcançar a visão da empresa num relance.
 
 O modelo SeaTable mapeia claramente todos os processos importantes. Pode personalizá-lo para se adaptar à sua empresa.
 
@@ -142,8 +142,6 @@ Nesta forma, todos os departamentos da empresa são considerados como um todo. O
 
 Isto permite-lhe combinar e melhorar os processos existentes com novas tecnologias e produtos. O roadmapping também permite identificar lacunas e impulsionar a inovação.
 
-Criar um roteiro para toda a empresa](Company-wide-Roadmap.jpg)
-
 ## Utilizar modelos de roteiro em linha
 
 Por isso, se quiser criar um roteiro e utilizar um modelo, deve planear algum tempo para comparar e testar diferentes modelos e fornecedores.
@@ -167,8 +165,8 @@ Existem diferentes tipos de roteiros, cada um dos quais aborda requisitos e obje
 - Roteiro do produto
 - Roteiro tecnológico
 - Roteiro integrado
-  {{< /faq >}}
-  {{< faq "  Que ferramentas são adequadas para criar um roteiro?" >}}
-  Existem inúmeras ferramentas que o podem ajudar a criar um roteiro. Um exemplo particularmente flexível é o SeaTable: uma ferramenta de gestão de projectos que fornece modelos de roteiro personalizáveis e suporta vários formatos de apresentação, como gráficos de Gantt.
+{{< /faq >}}
+{{< faq "  Que ferramentas são adequadas para criar um roteiro?" >}}
+Existem inúmeras ferramentas que o podem ajudar a criar um roteiro. Um exemplo particularmente flexível é o SeaTable: uma ferramenta de gestão de projectos que fornece modelos de roteiro personalizáveis e suporta vários formatos de apresentação, como gráficos de Gantt.
 
 {{< /faq >}}
