@@ -88,13 +88,13 @@ weight = 36
 [[main]]
 name = "Продажи"
 parent = "Pешения"
-pageRef = "pages/kundenmanagement"
+pageRef = "pages/industry-solutions/kundenmanagement"
 weight = 38
 
 [[main]]
 name = "Финансы"
 parent = "Pешения"
-pageRef = "pages/finanzplan-erstellen"
+pageRef = "pages/industry-solutions/finanzplan-erstellen"
 weight = 37
 
 [[main]]
