@@ -16,7 +16,7 @@ url: '/beschaffung-unternehmen/'
 
 ## Procurement management in companies
 
-Procurement in companies is a complex area of responsibility and places high demands on the responsible procurement managers. They have to weigh up the sometimes conflicting interests and requirements of internal stakeholders and organize supplier management. You are also responsible for ensuring that the required **materials and services** are available on time and within the available budget. **Price negotiations, offer management, quality control and risk management** are just a few of the central tasks of a procurement manager.
+Procurement in companies is a complex area of responsibility and places high demands on the responsible procurement managers. They have to weigh up the sometimes conflicting interests and requirements of internal stakeholders and organize supplier management. You are also responsible for ensuring that the required **materials and services** are available on time and within the available [budget]({{< relref "posts/20250606-budgetplanung" >}}). **Price negotiations, offer management, quality control and risk management** are just a few of the central tasks of a procurement manager.
 
 The good news is that digital solutions can help you optimize your procurement and set up transparent processes. Before we look at the potential for optimization in the procurement process, let's first take a look at the biggest challenges in this area.
 
@@ -70,7 +70,7 @@ Operational purchasing (also known as operational procurement), on the other han
 
 ## Procurement options: What options do you have?
 
-As a procurement manager, you have various options for organizing your goods purchasing. In addition to the focus of your company, important decision criteria include financial planning, the stability of the supply chain and the reliability of your suppliers. In practice, a mix of different procurement options may also work best for you.
+As a procurement manager, you have various options for organizing your goods purchasing. In addition to the focus of your company, important decision criteria include [financial planning]({{< relref "posts/20250617-finanzplanung" >}}), the stability of the supply chain and the reliability of your suppliers. In practice, a mix of different procurement options may also work best for you.
 
 With **individual procurement**, you purchase goods by the piece, for example if there is a special customer order for them.
 
@@ -112,7 +112,7 @@ Through careful planning, efficient implementation and continuous optimization, 
 
 Whether you manage operational purchasing or the entire procurement process in your company, careful planning and continuous evaluation and optimization of your processes can reduce costs, improve supplier selection and contribute to the company's success. An overview of all suppliers, open and planned orders, the supply chain, costs and order status is essential for this. Depending on the size of the company, however, this can quickly become confusing. With the free templates from SeaTable, you always have an overview of all data and enable transparency for your stakeholders. This allows you to evaluate your supply chain and procurement at any time and make strategic decisions.
 
-Register for free today with your e-mail address.
+[Register for free today with your e-mail address.]({{< relref "pages/registration" >}})
 
 ## FAQ Procurement
 

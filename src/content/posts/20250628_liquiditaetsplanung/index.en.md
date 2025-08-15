@@ -16,8 +16,6 @@ seo:
 
 Whether you are a young start-up, a medium-sized company or a large corporation: without a clear overview of your own cash flows, things can quickly become risky. Because even if your company is profitable on paper, if you run out of money for wages, rent or materials at short notice, this can threaten your existence. To prevent this, you as a company should calculate your **liquidity as a precaution using liquidity planning**.
 
-![Liquidity planning saves time and money](geld-und-zeit.jpg)
-
 ## What is liquidity planning?
 
 Liquidity planning is a central component of financial management and is often decisive in determining whether a company stays on course or runs into trouble. Liquidity planning is about ensuring a company's **solvency**. In concrete terms, this means systematically recording, comparing and planning ahead all expected incoming and outgoing payments. This allows you to identify financial bottlenecks at an early stage and initiate countermeasures in good time.
@@ -30,7 +28,7 @@ The term liquidity is derived from the Latin word liquidus, which means **liquid
 
 ## Advantages of liquidity planning
 
-Careful liquidity planning brings your company many tangible benefits. It ensures **improved cash management** because it is always clear how much money is actually available to you. You can also track your expenditure more accurately and manage it better, which helps you to make optimum use of your financial leeway.
+Careful liquidity planning brings your company many tangible benefits. It ensures **improved cash management** because it is always clear [how much money is actually available to you]({{< relref "posts/20250606-budgetplanung" >}}). You can also track your expenditure more accurately and manage it better, which helps you to make optimum use of your financial leeway.
 
 ![Ensures solvency in everyday life](mit-karte-bezahlen.jpg)
 
@@ -52,7 +50,7 @@ In practice, many companies rely on hybrid liquidity planning, which combines bo
 
 ## How to create a liquidity plan in 7 steps
 
-A well thought-out liquidity plan is not rocket science – with a clear system, you can keep an eye on your solvency at all times and create an important basis for business decisions. Because if you know exactly when money is coming and going, you can act with foresight instead of reacting in crisis mode. This is how you create a well-founded liquidity plan for your financial plan step by step:
+A well thought-out liquidity plan is not rocket science – with a clear system, you can keep an eye on your solvency at all times and create an important basis for business decisions. Because if you know exactly when money is coming and going, you can act with foresight instead of reacting in crisis mode. This is how you create a well-founded liquidity plan for your [financial plan]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) step by step:
 
 1. **Determine planning period:** First determine the period for which you want to plan your liquidity. Monthly planning is recommended for starters. For larger companies, weekly or quarterly planning can also be useful – depending on how dynamic your cash flows are.
 
@@ -123,7 +121,7 @@ A liquidity ratio 1 of 30 % shows you that you can only cover part of your short
 
 At first glance, it sounds ideal if a company has a particularly high level of cash and cash equivalents. After all, this means that all invoices can be paid without any problems and there are no financial bottlenecks in sight. But **too much liquidity can also have disadvantages**.
 
-Liquid funds that are not used generally bring little or no return. Instead, they even lose value due to inflation. Capital that is sitting in accounts is not working for the company – there is a lack of investments that could secure long-term growth and competitiveness.
+Liquid funds that are not used generally bring little or no [return]({{< relref "posts/rentabilitaetsvorschau" >}}). Instead, they even lose value due to inflation. Capital that is sitting in accounts is not working for the company – there is a lack of investments that could secure long-term growth and competitiveness.
 
 In addition, banks or investors can see a permanently high level of liquidity as a sign that the company is not using its capital efficiently. This can worsen the valuation or weaken confidence in the management strategy.
 

@@ -16,8 +16,6 @@ seo:
 
 Ob junges Start-up, mittelständischer Betrieb oder großer Konzern: Ohne einen klaren Überblick über die eigenen Zahlungsströme kann es schnell riskant werden. Denn auch wenn Ihr Unternehmen auf dem Papier Gewinne schreibt – wenn jedoch kurzfristig das Geld für Löhne, Miete oder Material fehlt, kann das Ihre Existenz bedrohen. Um das zu verhindern, sollten Sie als Unternehmen Ihre **Liquidität vorsorglich mittels Liquiditätsplanung berechnen**.
 
-![Liquiditätsplanung spart Zeit und Geld](geld-und-zeit.jpg)
-
 ## Was ist Liquiditätsplanung?
 
 Liquiditätsplanung ist ein zentraler Bestandteil des Finanzmanagements und oft entscheidend dafür, ob ein Unternehmen auf Kurs bleibt oder ins Schlingern gerät. Bei der Liquiditätsplanung geht es darum, die **Zahlungsfähigkeit eines Unternehmens sicherzustellen**. Konkret bedeutet das, alle erwarteten Einzahlungen und Auszahlungen systematisch zu erfassen, gegenüberzustellen und vorauszuplanen. So können Sie finanzielle Engpässe frühzeitig erkennen und rechtzeitig Gegenmaßnahmen einleiten.
@@ -30,7 +28,7 @@ Der Begriff Liquidität leitet sich vom lateinischen Wort liquidus ab, was **fl�
 
 ## Vorteile der Liquiditätsplanung
 
-Eine sorgfältige Liquiditätsplanung bringt Ihrem Unternehmen viele handfeste Vorteile. Sie sorgt für ein **verbessertes Cash Management**, weil jederzeit klar ist, wie viel Geld Ihnen tatsächlich zur Verfügung steht. Auch Ihre Ausgaben können Sie genauer nachverfolgen und besser verwalten, was Ihnen hilft, Ihre finanziellen Spielräume optimal zu nutzen.
+Eine sorgfältige Liquiditätsplanung bringt Ihrem Unternehmen viele handfeste Vorteile. Sie sorgt für ein **verbessertes Cash Management**, weil jederzeit klar ist, [wie viel Geld Ihnen tatsächlich zur Verfügung steht]({{< relref "posts/20250606-budgetplanung" >}}). Auch Ihre Ausgaben können Sie genauer nachverfolgen und besser verwalten, was Ihnen hilft, Ihre finanziellen Spielräume optimal zu nutzen.
 
 ![Sichert Zahlungsfähigkeit im Alltag](mit-karte-bezahlen.jpg)
 
@@ -52,7 +50,7 @@ In der Praxis setzen viele Unternehmen auf eine hybride Liquiditätsplanung, die
 
 ## Wie Sie in 7 Schritten einen Liquiditätsplan erstellen
 
-Ein durchdachter Aufbau Ihrer Liquiditätsplanung ist kein Hexenwerk – mit einem klaren System behalten Sie Ihre Zahlungsfähigkeit jederzeit im Blick und schaffen eine wichtige Grundlage für unternehmerische Entscheidungen. Denn wer genau weiß, wann Geld kommt und geht, kann vorausschauend handeln statt im Krisenmodus zu reagieren. So erstellen Sie Schritt für Schritt einen fundierten Liquiditätsplan für Ihren Finanzplan:
+Ein durchdachter Aufbau Ihrer Liquiditätsplanung ist kein Hexenwerk – mit einem klaren System behalten Sie Ihre Zahlungsfähigkeit jederzeit im Blick und schaffen eine wichtige Grundlage für unternehmerische Entscheidungen. Denn wer genau weiß, wann Geld kommt und geht, kann vorausschauend handeln statt im Krisenmodus zu reagieren. So erstellen Sie Schritt für Schritt einen fundierten Liquiditätsplan für Ihren [Finanzplan]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}):
 
 1. **Planungszeitraum festlegen:** Bestimmen Sie zunächst, für welchen Zeitraum Sie Ihre Liquidität planen möchten. Für den Einstieg empfiehlt sich eine monatliche Planung. Bei größeren Unternehmen kann auch eine wöchentliche oder quartalsweise Planung sinnvoll sein – je nachdem, wie dynamisch Ihre Zahlungsströme sind.
 
@@ -123,9 +121,9 @@ Ein Liquiditätsgrad 1 von 30 % zeigt Ihnen, dass Sie nur einen Teil Ihrer kurzf
 
 Auf den ersten Blick klingt es ideal, wenn ein Unternehmen über besonders hohe liquide Mittel verfügt. Schließlich bedeutet das, dass alle Rechnungen problemlos bezahlt werden können und finanzielle Engpässe nicht in Sicht sind. Doch eine **zu hohe Liquidität kann auch Nachteile mit sich bringen**.
 
-Flüssige Mittel, die nicht genutzt werden, bringen in der Regel kaum oder gar keine Rendite. Stattdessen verlieren sie durch Inflation sogar an Wert. Kapital, das auf Konten liegt, arbeitet nicht für das Unternehmen – es fehlt an Investitionen, die langfristig Wachstum und Wettbewerbsfähigkeit sichern könnten.
+Flüssige Mittel, die nicht genutzt werden, bringen in der Regel kaum oder gar keine [Rendite]({{< relref "posts/rentabilitaetsvorschau" >}}). Stattdessen verlieren sie durch Inflation sogar an Wert. Kapital, das auf Konten liegt, arbeitet nicht für das Unternehmen – es fehlt an Investitionen, die langfristig Wachstum und Wettbewerbsfähigkeit sichern könnten.
 
-Zudem können Banken oder Investoren eine dauerhaft zu hohe Liquidität als Zeichen dafür werten,, dass das Unternehmen sein Kapital nicht effizient einsetzt. Das kann die Bewertung verschlechtern oder das Vertrauen in die Managementstrategie schwächen.
+Zudem können Banken oder Investoren eine dauerhaft zu hohe Liquidität als Zeichen dafür werten, dass das Unternehmen sein Kapital nicht effizient einsetzt. Das kann die Bewertung verschlechtern oder das Vertrauen in die Managementstrategie schwächen.
 
 ![Basis jeder soliden Finanzplanung](past-due.jpg)
 

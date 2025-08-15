@@ -15,7 +15,7 @@ url: '/pt/beschaffung-unternehmen/'
 
 ## Gestão das aquisições nas empresas
 
-O aprovisionamento nas empresas é uma área de responsabilidade complexa e coloca grandes exigências aos gestores de aprovisionamento responsáveis. Estes têm de ponderar os interesses e requisitos, por vezes contraditórios, dos intervenientes internos e organizar a gestão dos fornecedores. É também responsável por garantir que os **materiais e serviços** necessários estejam disponíveis a tempo e dentro do orçamento disponível. **Negociações de preços, gestão de ofertas, controlo de qualidade e gestão de riscos** são apenas algumas das tarefas centrais de um gestor de compras.
+O aprovisionamento nas empresas é uma área de responsabilidade complexa e coloca grandes exigências aos gestores de aprovisionamento responsáveis. Estes têm de ponderar os interesses e requisitos, por vezes contraditórios, dos intervenientes internos e organizar a gestão dos fornecedores. É também responsável por garantir que os **materiais e serviços** necessários estejam disponíveis a tempo e dentro do [orçamento]({{< relref "posts/20250606-budgetplanung" >}}) disponível. **Negociações de preços, gestão de ofertas, controlo de qualidade e gestão de riscos** são apenas algumas das tarefas centrais de um gestor de compras.
 
 A boa notícia é que as soluções digitais podem ajudá-lo a otimizar as suas aquisições e a criar processos transparentes. Antes de analisarmos o potencial de otimização do processo de aquisição, vejamos primeiro quais são os maiores desafios nesta área.
 
@@ -69,13 +69,13 @@ As compras operacionais (também conhecidas como aprovisionamento operacional), 
 
 ## Opções de aquisição: Que opções tem?
 
-Como gestor de compras, tem várias opções para organizar as suas compras de mercadorias. Para além da orientação da sua empresa, os critérios de decisão importantes incluem o planeamento financeiro, a estabilidade da cadeia de abastecimento e a fiabilidade dos seus fornecedores. Na prática, uma combinação de diferentes opções de aquisição também pode funcionar melhor para si.
+Como gestor de compras, tem várias opções para organizar as suas compras de mercadorias. Para além da orientação da sua empresa, os critérios de decisão importantes incluem o [planeamento financeiro]({{< relref "posts/20250617-finanzplanung" >}}), a estabilidade da cadeia de abastecimento e a fiabilidade dos seus fornecedores. Na prática, uma combinação de diferentes opções de aquisição também pode funcionar melhor para si.
 
 Com o **suprimento individual**, o usuário compra mercadorias por item, por exemplo, se houver um pedido especial do cliente para elas.
 
 O objetivo do **stock procurement** é manter uma grande quantidade de bens e materiais em stock, de modo a satisfazer as encomendas numa base contínua.
 
-O aprovisionamento just-in-time\*\*, também conhecido como aprovisionamento sincronizado com a produção, envolve a aquisição de bens apenas quando estes são necessários no processo de produção.
+O **aprovisionamento just-in-time**, também conhecido como aprovisionamento sincronizado com a produção, envolve a aquisição de bens apenas quando estes são necessários no processo de produção.
 
 ## Factores de sucesso nas aquisições: o que deve considerar?
 
@@ -111,7 +111,7 @@ Através de um planeamento cuidadoso, de uma implementação eficiente e de uma 
 
 Quer seja gestor de compras operacionais ou de todo o processo de aquisição na sua empresa, um planeamento cuidadoso e uma avaliação e otimização contínuas dos seus processos podem reduzir os custos, melhorar a seleção de fornecedores e contribuir para o sucesso da empresa. Para tal, é essencial ter uma visão geral de todos os fornecedores, das encomendas abertas e planeadas, da cadeia de abastecimento, dos custos e do estado das encomendas. No entanto, dependendo da dimensão da empresa, isto pode tornar-se rapidamente confuso. Com os modelos gratuitos do SeaTable, tem sempre uma visão geral de todos os dados e permite transparência para as partes interessadas. Isto permite-lhe analisar a sua cadeia de abastecimento e aprovisionamento em qualquer altura e tomar decisões estratégicas.
 
-Registe-se hoje gratuitamente com o seu endereço de e-mail.
+[Registe-se hoje gratuitamente com o seu endereço de e-mail.]({{< relref "pages/registration" >}})
 
 ## FAQ Compras
 

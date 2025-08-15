@@ -16,7 +16,7 @@ url: '/de/beschaffung-unternehmen/'
 
 ## Beschaffungsmanagement in Unternehmen
 
-Beschaffung in Unternehmen ist ein komplexes Aufgabengebiet und stellt hohe Anforderungen an die zuständigen Beschaffungsmanager. Sie müssen die unter Umständen gegensätzlichen Interessen und Anforderungen interner Stakeholder gegeneinander abwägen und das Lieferantenmanagement organisieren. Zudem sind Sie dafür verantwortlich, dass benötigte **Materialien und Dienstleistungen** rechtzeitig und im Rahmen des verfügbaren Budgets bereitstehen. **Preisverhandlungen, Angebotsmanagement, Qualitätskontrolle und Risikomanagement** sind nur ein paar der zentralen Aufgaben eines Beschaffungsmanagers.
+Beschaffung in Unternehmen ist ein komplexes Aufgabengebiet und stellt hohe Anforderungen an die zuständigen Beschaffungsmanager. Sie müssen die unter Umständen gegensätzlichen Interessen und Anforderungen interner Stakeholder gegeneinander abwägen und das Lieferantenmanagement organisieren. Zudem sind Sie dafür verantwortlich, dass benötigte **Materialien und Dienstleistungen** rechtzeitig und im Rahmen des verfügbaren [Budgets]({{< relref "posts/20250606-budgetplanung" >}}) bereitstehen. **Preisverhandlungen, Angebotsmanagement, Qualitätskontrolle und Risikomanagement** sind nur ein paar der zentralen Aufgaben eines Beschaffungsmanagers.
 
 Die gute Nachricht: Digitale Lösungen helfen Ihnen dabei, Ihre Beschaffung zu optimieren und transparente Prozesse aufzusetzen. Bevor wir auf Optimierungspotentiale im Beschaffungsprozess eingehen, werfen wir erst mal einen Blick auf die größten Herausforderungen in diesem Bereich.
 
@@ -70,7 +70,7 @@ Im operativen Einkauf (auch operative Beschaffung genannt) geht es dagegen konkr
 
 ## Beschaffungsmöglichkeiten: Welche Optionen haben Sie?
 
-Als Beschaffungsmanager haben Sie verschiedene Optionen, um ihren Wareneinkauf zu organisieren. Wichtige Entscheidungskriterien sind neben der Ausrichtung Ihres Unternehmens auch die Finanzplanung, die Stabilität der Lieferkette und die Zuverlässigkeit Ihrer Lieferanten. In der Praxis kann auch ein Mix aus verschiedenen Beschaffungsmöglichkeiten für Sie am besten funktionieren.
+Als Beschaffungsmanager haben Sie verschiedene Optionen, um ihren Wareneinkauf zu organisieren. Wichtige Entscheidungskriterien sind neben der Ausrichtung Ihres Unternehmens auch die [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}), die Stabilität der Lieferkette und die Zuverlässigkeit Ihrer Lieferanten. In der Praxis kann auch ein Mix aus verschiedenen Beschaffungsmöglichkeiten für Sie am besten funktionieren.
 
 Bei der **Einzelbeschaffung** beziehen Sie die Waren stückweise, zum Beispiel, wenn ein spezieller Kundenauftrag dafür vorliegt.
 
@@ -100,7 +100,7 @@ Der Erfolg eines Unternehmens hängt auch davon ab, dass die einzelnen Abteilung
 
 **Lieferantenmanagement:** Legen Sie eine zentrale, für alle zugängliche Lieferantendatenbank an, in der die relevanten Informationenzusammenfließen, z. B. Preise und verfügbare Produkte, bisherige Lieferungen, Qualitätsanalyse, Zuverlässigkeit und Leistungsbewertung, offene Reklamationen usw. Anhand dieser Informationen können Sie dann Bestellungen gezielt bündeln.
 
-**Bestan\*\***dsm\***\*anagement:** Mit einer effektiven Bestandskontrolle reduzieren Sie Lagerkosten,  vermeiden doppelte Bestellungen und stellen die Lieferfähigkeit des Unternehmens sicher. Nutzen Sie moderne Systeme, um Ihren Beschaffungsprozess durch präzise Bedarfsprognosen zu optimieren. Mit der [Lieferkettenmanagement-Vorlage]({{< relref "templates/sales/supply-chain-management" >}}) der No-Code-Datenbank-Lösung SeaTable behalten Sie stets alle Bestände und ausstehenden Lieferungen im Blick.
+**Bestandsmanagement:** Mit einer effektiven Bestandskontrolle reduzieren Sie Lagerkosten,  vermeiden doppelte Bestellungen und stellen die Lieferfähigkeit des Unternehmens sicher. Nutzen Sie moderne Systeme, um Ihren Beschaffungsprozess durch präzise Bedarfsprognosen zu optimieren. Mit der [Lieferkettenmanagement-Vorlage]({{< relref "templates/sales/supply-chain-management" >}}) der No-Code-Datenbank-Lösung SeaTable behalten Sie stets alle Bestände und ausstehenden Lieferungen im Blick.
 
 **Leistungs- und Qualitätsprüfung:** Etablieren Sie systematische Leistungs- und Qualitätsmessungen für Lieferanten. Definieren Sie klare Kennzahlen, erstellen Sie Dashboards und monitoren Sie regelmäßig die Leistung Ihrer Lieferanten. Nutzen Sie dafür moderne Datenbanklösungen, die Statistiken und Dashboards bereitstellen, um tiefere Einblicke in Ihre Daten zu erhalten.
 
@@ -112,7 +112,7 @@ Durch eine sorgfältige Planung, eine effiziente Umsetzung und eine kontinuierli
 
 Egal, ob Sie den operativen Einkauf oder die gesamte Beschaffung im Unternehmen managen: Durch eine sorgfältige Planung und eine kontinuierliche Bewertung und Optimierung Ihrer Prozesse können Sie Kosten senken, die Auswahl der Lieferanten verbessern und so zum Erfolg des Unternehmens beitragen. Eine Übersicht über alle Lieferanten, die offenen und geplanten Bestellungen, die Lieferkette sowie die Kosten und Orderstatus ist dafür unerlässlich. Je nach Größe des Unternehmens wird das jedoch schnell unübersichtlich. Mit den kostenlosen Vorlagen von SeaTable haben Sie stets alle Daten im Blick und ermöglichen Transparenz für Ihre Stakeholder. So können Sie jederzeit Ihre Lieferkette und Ihr Beschaffungswesen fundiert auswerten und strategische Entscheidungen treffen.
 
-Registrieren Sie sich noch heute kostenlos mit Ihrer E-Mail-Adresse.
+[Registrieren Sie sich noch heute kostenlos mit Ihrer E-Mail-Adresse.]({{< relref "pages/registration" >}})
 
 ## FAQ Beschaffung
 

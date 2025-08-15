@@ -5,7 +5,7 @@ seo:
     title: 'Crie um plano financeiro para a sua empresa com o SeaTable'
     description: 'Crie o seu plano financeiro sem esforço com o SeaTable! Esta plataforma inovadora combina as vantagens das folhas de cálculo com as poderosas funções das modernas bases de dados na nuvem. Ideal para empresas, start-ups e freelancers que pretendam criar e otimizar o seu plano financeiro.'
 date: '2025-08-05'
-url: '/pt/criar um plano financeiro/'
+url: '/pt/criar-um-plano-financeiro/'
 
 sections:
     - name: hero-5

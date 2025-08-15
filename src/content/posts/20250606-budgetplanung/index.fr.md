@@ -36,7 +36,7 @@ La budgétisation - également connue sous le nom de planification budgétaire o
 
 ## La budgétisation va de pair avec la planification financière
 
-**La budgétisation opérationnelle** fait partie de la planification financière à court terme, dans laquelle vous estimez vos revenus et dépenses futurs pour l'année à venir. Vous utilisez les données de l'exercice en cours et/ou de l'exercice précédent pour établir des prévisions pour les évolutions futures. Contrairement à la planification financière, la budgétisation se concentre généralement sur les dépenses, indépendamment de l'origine de l'argent.
+**La budgétisation opérationnelle** fait partie de la [planification financière]({{< relref "posts/20250617-finanzplanung" >}}) à court terme, dans laquelle vous estimez vos revenus et dépenses futurs pour l'année à venir. Vous utilisez les données de l'exercice en cours et/ou de l'exercice précédent pour établir des prévisions pour les évolutions futures. Contrairement au [plan financier]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}), la budgétisation se concentre généralement sur les dépenses, indépendamment de l'origine de l'argent.
 
 **La planification budgétaire stratégique** pour les deux à cinq prochaines années est également très courante. Cela vous aide à prendre des décisions commerciales à long terme qui permettront à votre entreprise d'aller de l'avant et d'assurer son succès, comme par exemple l'ouverture de nouveaux sites. Cependant, plus l'horizon de planification est lointain, plus il est difficile et incertain de faire des prévisions précises.
 
