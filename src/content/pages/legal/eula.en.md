@@ -121,7 +121,7 @@ The **[German original]({{< relref path="pages/legal/eula" lang="de" >}})** is
    (i) which was demonstrably already known to the recipient at the time of conclusion of the contract or which are subsequently made known to the recipient by a third party without this disclosure violating any confidentiality agreement, statutory provisions or official orders;  
    (ii) which is publicly known at the time of conclusion of the contract or are subsequently made public, unless this disclosure is due to a breach of this Agreement;  
    (iii) which must be disclosed due to legal obligations or at the order of a court or authority. To the extent permissible and possible, the recipient obliged to disclose will inform the other party in advance and give it the opportunity to take action against the disclosure.
-1. SeaTable collects, processes, and uses personal data of Customers in accordance with legal requirements and as described in the Privacy Statement. The Privacy Statement is available at https://seatable.com/data-privacy/.
+1. SeaTable collects, processes, and uses personal data of Customers in accordance with legal requirements and as described in the [Privacy Statement]({{< relref "pages/legal/data-privacy" >}}).
 1. Non-personal or anonymous data may be collected automatically to improve functionality and the user experience with the Software. The Customer agrees that SeaTable owns all rights in and is free to use any such non-personal or anonymous data in any way it deems fit for development, bugfixing, as well as marketing or any other purposes.
 
 ## 12. Publicity
