@@ -46,19 +46,19 @@ Utilizando a **função de pesquisa integrada** no diálogo de ligação, é pos
 
 ![Fazer duplo clique numa coluna de ligação](images/click-in-linked-column.png)
 
-3. Clique em **Adicionar linha**.
+2. Clique em **Adicionar linha**.
 
 ![Clique em Adicionar linha](images/click-add-record.jpg)
 
-5. Na janela que se abre, preencha as várias **colunas da tabela**.
+3. Na janela que se abre, preencha as várias **colunas da tabela**.
 
 ![Preenchimento das colunas da tabela](images/fill-columns.png)
 
-7. Clique em **Submeter** para criar a nova linha.
+4. Clique em **Submeter** para criar a nova linha.
 
 ![Clique em enviar](images/click-submit.png)
 
-9. A **nova linha** é automaticamente adicionada à **tabela ligada** e exibida na tabela atualmente aberta como uma **entrada ligada** na coluna de ligação.
+5. A **nova linha** é automaticamente adicionada à **tabela ligada** e exibida na tabela atualmente aberta como uma **entrada ligada** na coluna de ligação.
 
 ## Editar entradas existentes de uma tabela ligada
 

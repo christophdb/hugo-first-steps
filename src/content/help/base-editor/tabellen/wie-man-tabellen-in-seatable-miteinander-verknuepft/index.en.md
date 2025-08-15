@@ -46,19 +46,19 @@ You can even add a **new row** to a **linked table** via the link dialog without
 
 ![Double-click in a link column](images/click-in-linked-column.png)
 
-3. Click **row to add**.
+2. Click **row to add**.
 
 ![Click to add row](images/click-add-record.jpg)
 
-5. In the window that opens, fill in the various **table columns**.
+3. In the window that opens, fill in the various **table columns**.
 
 ![Filling in the table columns](images/fill-columns.png)
 
-7. Click **Submit** to create the new row .
+4. Click **Submit** to create the new row .
 
 ![Click submit](images/click-submit.png)
 
-9. The **new row** is automatically added to the **linked table** and displayed in the currently opened table as a **linked entry** in the link column.
+5. The **new row** is automatically added to the **linked table** and displayed in the currently opened table as a **linked entry** in the link column.
 
 ## Edit existing entries of a linked table
 

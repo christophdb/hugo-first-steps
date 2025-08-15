@@ -19,7 +19,7 @@ Cela a surtout du sens si les données de votre tableau présentent une **hiéra
 1. Cliquez sur le **symbole plus** à droite du dernier en-tête de colonne.
 2. Saisissez le **nom de la colonne supérieure** dans le champ de saisie.
 3. Sélectionnez **Lien vers d'autres entrées** comme type de colonne.
-4. Recherchez **le tableau actuelle** comme à lier.
+4. Recherchez **le tableau actuel** comme tableau à lier.
 5. Confirmez en cliquant sur **Envoyer**.
 6. SeaTable ajoute automatiquement une **deuxième colonne pour les entrées subordonnées**.
 
