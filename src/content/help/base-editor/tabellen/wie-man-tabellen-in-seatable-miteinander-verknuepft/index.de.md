@@ -42,10 +42,14 @@ Sobald Tabellen miteinander verknüpft sind, können Sie über den **Link-Dialog
 Sie können über den Link-Dialog sogar eine **neue Zeile** zu einer **verknüpften Tabelle** hinzufügen, ohne in diese Tabelle wechseln zu müssen. Im Anschluss wird die Zeile in der verknüpften Tabelle unter den bestehenden Datensätzen hinzugefügt und als verlinkter Eintrag in der Verknüpfungsspalte der geöffneten Tabelle angezeigt.
 
 1. Machen Sie einen **Doppelklick** auf die **Zelle** einer **Verknüpfungsspalte** oder klicken Sie auf das blaue **Doppelpfeil-Symbol**, um den Link-Dialog zu öffnen.
-   ![Doppelklick in eine Verknüpfungsspalte](images/click-in-linked-column.png)3. Klicken Sie auf **Zeile hinzufügen**.
-   ![Klick auf Zeile hinzufügen](images/click-add-record.jpg)5. Füllen Sie im sich öffnenden Fenster die verschiedenen **Tabellenspalten** aus.
-   ![Ausfüllen der Tabellenspalten](images/fill-columns.png)7. Klicken Sie auf **Abschicken**, um die neue Zeile anzulegen.
-   ![Klick auf Abschicken](images/click-submit.png)9. Die **neue Zeile** wird automatisch der **verknüpften Tabelle** hinzugefügt und in der aktuell geöffneten Tabelle als **verlinkter Eintrag** in der Verknüpfungsspalte angezeigt.
+   ![Doppelklick in eine Verknüpfungsspalte](images/click-in-linked-column.png)
+2. Klicken Sie auf **Zeile hinzufügen**.
+   ![Klick auf Zeile hinzufügen](images/click-add-record.jpg)
+3. Füllen Sie im sich öffnenden Fenster die verschiedenen **Tabellenspalten** aus.
+   ![Ausfüllen der Tabellenspalten](images/fill-columns.png)
+4. Klicken Sie auf **Abschicken**, um die neue Zeile anzulegen.
+   ![Klick auf Abschicken](images/click-submit.png)
+5. Die **neue Zeile** wird automatisch der **verknüpften Tabelle** hinzugefügt und in der aktuell geöffneten Tabelle als **verlinkter Eintrag** in der Verknüpfungsspalte angezeigt.
 
 ## Bestehende Einträge einer verknüpften Tabelle bearbeiten
 

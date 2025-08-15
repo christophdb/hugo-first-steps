@@ -22,7 +22,7 @@ Commençons par la page d'accueil de SeaTable. Créez une nouvelle base avec le 
 
 ## Modifier le nom du premier tableau
 
-Par défaut, chaque base contient un tableau nommée `Table 1` qui possède une colonne de trois lignes.
+Par défaut, chaque base contient un tableau nommé `Table 1` qui possède une colonne de trois lignes.
 
 - Supprimez les trois lignes
 - Modifiez ensuite le nom du tableau en `Expenses`

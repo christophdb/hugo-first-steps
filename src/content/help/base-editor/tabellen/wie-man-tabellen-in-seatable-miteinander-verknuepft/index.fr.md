@@ -40,25 +40,25 @@ La **fonction de recherche intégrée** dans la boîte de dialogue du lien perme
 
 ## Ajouter une nouvelle ligne
 
-Vous pouvez même ajouter une **nouvelle ligne** à un **tableau lié** à l 'aide de la boîte de dialogue de lien, sans devoir passer dans ce tableau. La ligne est ensuite ajoutée dans le tableau lié parmi les enregistrements existants et s'affiche en tant qu'entrée liée dans la colonne de lien du tableau ouverte.
+Vous pouvez même ajouter une **nouvelle ligne** à un **tableau lié** à l 'aide de la boîte de dialogue de lien, sans devoir passer dans ce tableau. La ligne est ensuite ajoutée dans le tableau lié parmi les enregistrements existants et s'affiche en tant qu'entrée liée dans la colonne de lien du tableau ouvert.
 
-1. **Double-cliquez** sur la **cellule** d'une **colonne de lien** ou cliquez sur l'**icône** bleue **à double flèche** pour ouvrir la boîte de dialogue de lien.
+1. **Double-cliquez** sur la **cellule** d'une **colonne de lien** ou cliquez sur l'**icône bleue à double flèche** pour ouvrir la boîte de dialogue de lien.
 
 ![Double-clic dans une colonne de raccourcis](images/click-in-linked-column.png)
 
-3. Cliquez sur **Ajouter une ligne**.
+2. Cliquez sur **Ajouter une ligne**.
 
 ![Clique sur Ajouter une ligne](images/click-add-record.jpg)
 
-5. Dans la fenêtre qui s'ouvre, remplissez les différentes **colonnes du tableau**.
+3. Dans la fenêtre qui s'ouvre, remplissez les différentes **colonnes du tableau**.
 
 ![Remplir les colonnes du tableau](images/fill-columns.png)
 
-7. Cliquez sur **Envoyer** pour créer la nouvelle ligne.
+4. Cliquez sur **Envoyer** pour créer la nouvelle ligne.
 
 ![Cliquez sur Envoyer](images/click-submit.png)
 
-9. La **nouvelle ligne** est automatiquement ajoutée au **tableau lié** et s'affiche dans le tableau actuellement ouvert en tant qu'**entrée liée** dans la colonne de lien.
+5. La **nouvelle ligne** est automatiquement ajoutée au **tableau lié** et s'affiche dans le tableau actuellement ouvert en tant qu'**entrée liée** dans la colonne de lien.
 
 ## Modifier les entrées existantes d'un tableau lié
 

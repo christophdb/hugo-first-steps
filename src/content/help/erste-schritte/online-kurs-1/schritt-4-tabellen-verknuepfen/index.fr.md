@@ -16,7 +16,7 @@ La liaison entre les enregistrements est l'une des fonctions centrales de SeaTab
 
 - **Plus de clarté**: en reliant les tableaux entre eux, vous créez une structure claire et concise. Au lieu de stocker toutes les informations dans un seul tableau et de risquer des redondances, vous pouvez gérer les données apparentées - comme les dépenses et les catégories - dans des tableaux séparés. Vos données restent ainsi cohérentes et les doublons sont évités.
 - **Analyse de données plus flexible**: les tableaux liés permettent de combiner et d'analyser de manière ciblée des données provenant de différentes sources. Il est par exemple possible d'analyser rapidement et facilement toutes les dépenses d'une certaine catégorie ou d'un département.
-- **Une gestion des données plus simple**: les modifications apportées à un tableau centrale sont automatiquement répercutées dans toutes les tableaux liés. Vos données restent ainsi toujours à jour et cohérentes, sans que vous ayez à les gérer plusieurs fois.
+- **Une gestion des données plus simple**: les modifications apportées à un tableau central sont automatiquement répercutées dans toutes les tableaux liés. Vos données restent ainsi toujours à jour et cohérentes, sans que vous ayez à les gérer plusieurs fois.
 
 ## Étendre la structure de la base
 
