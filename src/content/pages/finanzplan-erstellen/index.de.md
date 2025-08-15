@@ -106,13 +106,13 @@ sections:
       items:
           - text: Rechnung schreiben
             image: /images/rechnung-erstellen-template.jpg
-            image_alt: ""
+            image_alt: "Erstellen einer Rechnung mit SeaTable"
           - text: Budgetplanung
             image: /images/budgetplanung-template.jpg
-            image_alt: ""
+            image_alt: "Erstellen eines Budgetplan mit SeaTable"
           - text: Kosten-Nutzen-Analyse
             image: /images/template-cost-benefit-analysis.jpg
-            image_alt: ""
+            image_alt: "Erstellung einer Kosten-Nutzen-Analyse "
       buttons:
         - label: Alle Vorlagen entdecken
           link: "templates"
