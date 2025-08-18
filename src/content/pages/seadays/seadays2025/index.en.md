@@ -62,18 +62,23 @@ sections:
             text: Managing Director of SeaTable GmbH and datamate GmbH & Co. KG
             link: https://www.linkedin.com/in/christoph-dyllick-brenzinger/
             img: christoph_dyllick.jpg
-          - headline: Jonathan Xu
-            text: Chief Technology Officer (CTO) of Seafile Ltd.
-            img: gruender-jonathan-xue.jpg
           - headline: Daniel Pan
             text: Chief Executive Officer (CEO) of Seafile Ltd.
             img: gruender-daniel-pan.png
+          - headline: Cristian Livadaru
+            text: Managing Director of LcX.at
+            img: cristian_livadaru.jpg
+            link: https://www.linkedin.com/in/livadaru/
+          - headline: Elias Schneuwly
+            text: Managing Director of Speicherbox GmbH
+            img: elias_schneuwly.jpg
+            link: https://www.linkedin.com/in/elias-schneuwly-020825a2
 
-    #- name: 'content-26'
-    #  weight: 6
-    #  title: Agenda for 07.10.2025
-    #  subtitle: Seafile Day
-    #  template: 'bd93e7f9b1b4465b9791'
+    - name: 'content-26'
+      weight: 6
+      title: Agenda for 01.10.2025
+      subtitle: Seafile and SeaTable Day
+      template: 'b0fca5903e7747f1bbc8'
 
     #- name: 'content-26'
     #  weight: 7
