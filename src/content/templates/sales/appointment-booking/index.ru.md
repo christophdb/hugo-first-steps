@@ -6,8 +6,7 @@ url: '/ru/shablon/zapisi-na-priyom'
 aliases:
     - '/ru/terminbuchung'
     - '/ru/шаблон/appointment-booking'
-    # FIXME:
-    # - '/ru/шаблон/запись на прием'
+    - '/ru/шаблон/запись-на-прием'
 category: 'sales'
 functions:
 seo:
