@@ -25,6 +25,14 @@ jobs:
                   fetch-depth: 0 # Fetches entire commit history for git lastmod
             - name: Build site
               run: ./build.sh
+            - name: Generate caddy_redirects.conf
+              run: |
+                  ./generate-caddy-redirects.sh
+                  sudo cp caddy_redirects.conf src/public/
+            - name: Validate Caddy config (local)
+              run: |
+                  echo -e "https://seatable.com {\nimport /tmp/caddy_redirects.conf\n}" > Caddyfile
+                  docker run --rm -v ./Caddyfile:/tmp/Caddyfile -v ./src/public/caddy_redirects.conf:/tmp/caddy_redirects.conf lucaslorentz/caddy-docker-proxy:2.9.1-alpine validate --config /tmp/Caddyfile
             - name: Create tar.gz archive
               run: tar -czvf archive.tar.gz public
               working-directory: src
@@ -79,13 +87,11 @@ jobs:
                   known_hosts: placeholder
             - name: Adding Known Hosts
               run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
-            - name: Generate caddy_redirects.conf
-              run: |
-                  ./generate-caddy-redirects.sh
-                  cp caddy_redirects.conf public/
             - name: Deploy with rsync
               # There's no target path after the last colon since rrsync is used on the server
               run: 'rsync -avz --delete . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:'
               working-directory: public
-            - name: Validate Caddy config
+            - name: Validate Caddy config (remote)
               run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} validate-caddy-config
+            - name: Reload Caddy config
+              run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} reload-caddy-config
