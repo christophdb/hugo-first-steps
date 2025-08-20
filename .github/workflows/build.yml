@@ -2,9 +2,8 @@ name: Build
 
 on:
     push:
-        # FIXME: Revert
-        #branches:
-        #    - main
+        branches:
+            - main
     #pull_request:
     #    branches:
     #        - main
@@ -18,8 +17,7 @@ jobs:
     create-archive:
         name: Create archive
         runs-on: ubuntu-22.04
-        # FIXME: Revert
-        # if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main'
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
@@ -47,8 +45,6 @@ jobs:
     check-links:
         name: Check links
         runs-on: ubuntu-22.04
-        # FIXME: Revert
-        if: false
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
@@ -74,10 +70,9 @@ jobs:
         name: Deploy
         needs:
             - create-archive
-            # - check-links
+            - check-links
         runs-on: ubuntu-22.04
-        # FIXME: Revert
-        # if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main'
         steps:
             - name: Download artifact
               uses: actions/download-artifact@v4
