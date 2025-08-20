@@ -31,6 +31,10 @@ jobs:
               run: |
                   ./generate-caddy-redirects.sh
                   sudo cp caddy_redirects.conf src/public/
+            - name: Validate Caddy config (local)
+              run: |
+                  echo -e "https://seatable.com {\nimport /tmp/caddy_redirects.conf\n}" > Caddyfile
+                  docker run --rm -v ./Caddyfile:/tmp/Caddyfile -v ./src/public/caddy_redirects.conf:/tmp/caddy_redirects.conf lucaslorentz/caddy-docker-proxy:2.9.1-alpine validate --config /tmp/Caddyfile
             - name: Create tar.gz archive
               run: tar -czvf archive.tar.gz public
               working-directory: src
@@ -92,10 +96,6 @@ jobs:
               # There's no target path after the last colon since rrsync is used on the server
               run: 'rsync -avz --delete . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:'
               working-directory: public
-            - name: Validate Caddy config (local)
-              run: |
-                  echo -e "https://seatable.com {\nimport /tmp/caddy_redirects.conf\n}" > Caddyfile
-                  docker run --rm -v ./Caddyfile:/tmp/Caddyfile -v ./public/caddy_redirects.conf:/tmp/caddy_redirects.conf lucaslorentz/caddy-docker-proxy:2.9.1-alpine validate --config /tmp/Caddyfile
             - name: Validate Caddy config (remote)
               run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} validate-caddy-config
             - name: Reload Caddy config
