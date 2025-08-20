@@ -19,6 +19,7 @@ services:
         labels:
             caddy: https://${SEATABLE_HUGO_HOSTNAME:?Variable is not set or empty}
             caddy.root: /tmp/seatable.com
+            caddy.import: /tmp/seatable.com/caddy_redirects.conf
             # Enable zstd/gzip compression
             caddy.encode:
             caddy.file_server:
