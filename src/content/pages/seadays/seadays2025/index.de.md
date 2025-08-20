@@ -58,13 +58,17 @@ sections:
       title: Speaker und Agenda
       text: 'Auf den SeaDays 2025 erwarten Sie Präsentationen von den folgenden Speakern.<br>**Präsentationssprache: Englisch**'
       items:
+          - headline: Daniel Pan
+            text: Chief Executive Officer (CEO) der Seafile Ltd.
+            img: gruender-daniel-pan.png
           - headline: Christoph Dyllick-Brenzinger
             text: Geschäftsführer der SeaTable GmbH und datamate GmbH & Co. KG
             link: https://www.linkedin.com/in/christoph-dyllick-brenzinger/
             img: christoph_dyllick.jpg
-          - headline: Daniel Pan
-            text: Chief Executive Officer (CEO) der Seafile Ltd.
-            img: gruender-daniel-pan.png
+          - headline: Dr. Ralf Dyllick-Brenzinger
+            text: Geschäftsführer der SeaTable GmbH und datamate GmbH & Co. KG
+            link: https://de.linkedin.com/in/ralfdyllickbrenzinger
+            img: ralf_dyllick.jpg
           - headline: Cristian Livadaru
             text: Geschäftsführer LcX.at
             img: cristian_livadaru.jpg
@@ -72,6 +76,10 @@ sections:
             text: Geschäftsführer der Speicherbox GmbH
             img: elias_schneuwly.jpg
             link: https://www.linkedin.com/in/elias-schneuwly-020825a2
+          - headline: Volker Müller
+            text: Director DevOps Enterprise Application der Cancom GmbH
+            img: volker-mueller.jpg
+            link: https://de.linkedin.com/in/volkermueller
 
     - name: 'content-26'
       weight: 6
