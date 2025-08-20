@@ -4,11 +4,11 @@ description: ''
 date: 2022-09-27
 categories:
     - 'product-features'
-tags: 
+tags:
     - 'Universal App Builder'
 url: '/de/seatable-app-frontend-php'
 aliases:
-    - /de/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
+    - /de/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln
 color: '#fcbc68'
 seo:
     title: 'Wie Sie ein Frontend für Ihre eigene SeaTable App mit PHP entwickeln'
