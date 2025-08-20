@@ -3,11 +3,11 @@ title: 'Como desenvolver um frontend para a sua própria aplicação SeaTable co
 date: 2022-09-27
 categories:
     - 'product-features'
-tags: 
+tags:
     - 'Universal App Builder'
 url: '/pt/seatable-app-frontend-php'
 aliases:
-    - /pt/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
+    - /pt/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln
 color: '#fcbc68'
 seo:
     title:

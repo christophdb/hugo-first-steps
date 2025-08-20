@@ -5,11 +5,11 @@ lastmod: '2022-09-27'
 coverImage: 'develop-own-frontend-seatable-app.jpg'
 categories:
     - 'product-features'
-tags: 
+tags:
     - 'Universal App Builder'
 url: '/seatable-app-frontend-php'
 aliases:
-    - /wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
+    - /wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln
 color: '#fcbc68'
 seo:
     title:

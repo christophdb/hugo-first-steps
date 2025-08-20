@@ -4,11 +4,11 @@ date: 2022-09-27
 lastmod: '2022-09-27'
 categories:
     - 'product-features'
-tags: 
+tags:
     - 'Universal App Builder'
 url: '/es/seatable-app-frontend-php'
 aliases:
-    - /es/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
+    - /es/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln
 color: '#fcbc68'
 seo:
     title:
