@@ -30,7 +30,7 @@ jobs:
             - name: Generate caddy_redirects.conf
               run: |
                   ./generate-caddy-redirects.sh
-                  cp caddy_redirects.conf src/public/
+                  sudo cp caddy_redirects.conf src/public/
             - name: Create tar.gz archive
               run: tar -czvf archive.tar.gz public
               working-directory: src
