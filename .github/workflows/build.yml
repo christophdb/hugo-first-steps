@@ -18,7 +18,8 @@ jobs:
     create-archive:
         name: Create archive
         runs-on: ubuntu-22.04
-        if: github.ref == 'refs/heads/main'
+        # FIXME: Revert
+        # if: github.ref == 'refs/heads/main'
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
