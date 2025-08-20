@@ -27,6 +27,10 @@ jobs:
                   fetch-depth: 0 # Fetches entire commit history for git lastmod
             - name: Build site
               run: ./build.sh
+            - name: Generate caddy_redirects.conf
+              run: |
+                  ./generate-caddy-redirects.sh
+                  cp caddy_redirects.conf src/public/
             - name: Create tar.gz archive
               run: tar -czvf archive.tar.gz public
               working-directory: src
@@ -71,8 +75,6 @@ jobs:
         # FIXME: Revert
         # if: github.ref == 'refs/heads/main'
         steps:
-            - name: Checkout repository
-              uses: actions/checkout@v4
             - name: Download artifact
               uses: actions/download-artifact@v4
               with:
@@ -86,10 +88,6 @@ jobs:
                   known_hosts: placeholder
             - name: Adding Known Hosts
               run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
-            - name: Generate caddy_redirects.conf
-              run: |
-                  ./generate-caddy-redirects.sh
-                  cp caddy_redirects.conf public/
             - name: Deploy with rsync
               # There's no target path after the last colon since rrsync is used on the server
               run: 'rsync -avz --delete . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:'
