@@ -7,6 +7,7 @@ type: 'legal'
 url: '/es/terminos-de-uso'
 aliases:
     - '/es/nutzungsbedingungen'
+    - /es/invalid alias
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
