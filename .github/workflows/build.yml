@@ -87,3 +87,5 @@ jobs:
               # There's no target path after the last colon since rrsync is used on the server
               run: 'rsync -avz --delete . ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:'
               working-directory: public
+            - name: Validate Caddy config
+              run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} validate-caddy-config
