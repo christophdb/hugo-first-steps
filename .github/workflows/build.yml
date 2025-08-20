@@ -94,3 +94,5 @@ jobs:
               working-directory: public
             - name: Validate Caddy config
               run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} validate-caddy-config
+            - name: Reload Caddy config
+              run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} reload-caddy-config
