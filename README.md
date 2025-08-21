@@ -119,11 +119,29 @@ The workflow runs on `main` and uses `rsync` to deploy the generated site to the
 - Install Docker: `curl -fsSL get.docker.com | bash`
 - Install rsync: `apt install -y rsync`
 - Create `/opt/seatable.com` and a subdirectory for the static files: `mkdir -p /opt/seatable.com/public`
-- Copy [`deploy/caddy.yml`](./deploy/caddy.yml) to `/opt/seatable.com/caddy.yml`
-- Create `/opt/seatable.com/.env` and enter all required environment variables (take a look at [`deploy/.env-release`](deploy/.env-release))
+- Copy [`deploy/caddy.yml`](./deploy/caddy.yml) to `/opt/compose/caddy.yml`
+- Create `/opt/compose/.env` and enter all required environment variables (take a look at [`deploy/.env-release`](deploy/.env-release))
 - Start the services: `docker compose up -d`
 - Create a new SSH key pair on the remote machine: `ssh-keygen -t rsa -b 4096 -f ~/.ssh/github-actions -C "GitHub Actions"`
-- Add the public key of this key pair to `~/.ssh/authorized_keys` on the remote machine and prepend the line with `command="/usr/bin/rrsync -wo /opt/seatable.com/public",no-port-forwarding,no-X11-forwarding,no-agent-forwarding,no-pty `
+- Create `/opt/compose/ssh-command-runner.sh` with the following contents:
+
+    ```bash
+    #!/bin/sh
+    # You can have only one forced command in ~/.ssh/authorized_keys.
+    # This wrapper allows several commands.
+
+    case "$SSH_ORIGINAL_COMMAND" in
+      rsync*) exec /usr/bin/rrsync -wo /opt/seatable.com/public ;;
+      "validate-caddy-config") docker exec caddy caddy validate --config /config/caddy/Caddyfile.autosave --adapter caddyfile ;;
+      "reload-caddy-config") docker exec caddy caddy reload --config /config/caddy/Caddyfile.autosave --adapter caddyfile ;;
+      *) echo "Command not allowed"; exit 1 ;;
+    esac
+    ```
+
+    The `validatew-caddy-config` and `reload-caddy-config` commands are executed as part of the GitHub Actions workflow to validate and reload the Caddy configuration.
+
+- Make the script executable by running `chmod +x /opt/compose/ssh-command-runner.sh`
+- Add the public key of this key pair to `~/.ssh/authorized_keys` on the remote machine and prepend the line with `command="/opt/compose/ssh-command-runner.sh",no-port-forwarding,no-X11-forwarding,no-agent-forwarding,no-pty `
 
 It looks like this:
 
@@ -131,11 +149,10 @@ It looks like this:
 # other keys ...
 
 # GitHub Actions
-# Only allow rrsync access to /opt/seatable.com/public
-command="/usr/bin/rrsync -wo /opt/seatable.com/public",no-port-forwarding,no-X11-forwarding,no-agent-forwarding,no-pty ssh-rsa AAAAB3Nza... (hier geht der Key weiter...)
+command="/opt/compose/ssh-command-runner.sh",no-port-forwarding,no-X11-forwarding,no-agent-forwarding,no-pty ssh-rsa AAAAB3Nza... (hier geht der Key weiter...)
 ```
 
-This restricts the owner of the private key to only run **rrsync** (a restriced version of rsync) inside the specified directory.
+This restricts the owner of the private key to only run the wrapper script.
 
 - Add the following variables to this GitHub project:
     - `SSH_HOST`: IP address of the remote host
