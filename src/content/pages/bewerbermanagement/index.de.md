@@ -77,7 +77,7 @@ sections:
         
     - name: "banner-2"
       weight: 10
-      title: SeaTable ist in wenigen Sekungen einsatzbereit 
+      title: SeaTable ist in wenigen Sekunden einsatzbereit 
       buttons:
            - label: Jetzt kostenlos registrieren und loslegen
              link: pages/registration
@@ -106,7 +106,7 @@ sections:
       weight: 12
       title: Effiziente und schlanke Recruiting Prozesse  
       subtitle: Zeitersparnis durch Automatisierungen
-      description: Automatisierung ist ein weiterer Vorteil von SeaTable. Erstellen Sie automatisierte Benachrichtigungen oder versenden Sie E-Mails direkt aus dem System per Knofdruck. Durch Integrationen wie Zapier, Make oder n8n optimieren und automatisieren Sie Ihre Workflows nahtlos.
+      description: Automatisierung ist ein weiterer Vorteil von SeaTable. Erstellen Sie automatisierte Benachrichtigungen oder versenden Sie E-Mails direkt aus dem System per Knopfdruck. Durch Integrationen wie Zapier, Make oder n8n optimieren und automatisieren Sie Ihre Workflows nahtlos.
       items:
           - image: '/images/logos/zapier.svg'
           - image: '/images/logos/make.svg'
@@ -169,5 +169,5 @@ sections:
           - q: 'Bietet SeaTable auch eine Free Version?'
             a: 'Ja, SeaTable Cloud kann im Free Abo als kostenlose Bewerbermanagement Software genutzt werden. Sie können dann schon nahezu alle Funktionen und Features nutzen, die Sie für ein effizientes und transparentes Bewerbermanagement brauchen. Wenn Sie erweiterte Funktionen und mehr Speicherplatz benötigen, können Sie jederzeit auf eine unserer kostengünstigen Premium-Versionen upgraden.'
           - q: 'Welche Bewerbermanagement-Software ist kostenlos und sicher?'
-            a: 'Ein Bewerbermanagement Tool, das kostenlos nutzbar ist, ist SeaTable. Sie bietet höchste Sicherheitsstandards und ist DSGVO-konform.'
+            a: 'Ein Bewerbermanagement Tool, das kostenlos nutzbar ist, ist SeaTable. Es bietet höchste Sicherheitsstandards und ist DSGVO-konform.'
 ---
