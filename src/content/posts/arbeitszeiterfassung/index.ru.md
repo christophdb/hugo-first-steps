@@ -6,7 +6,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Управление персоналом'
-url: '/ru/uchet-rabochego-vremeni'
+url: '/ru/uchet-rabochego-vremeni-sotrudnikov'
 aliases:
     - /ru/arbeitszeiterfassung
 color: '#fdd5d4'
