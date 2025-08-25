@@ -15,11 +15,17 @@ color: '#f07c66'
 draft: true
 ---
 
+<!-- sind Sie vielleicht auf Ihrer Suche auf Airtable gestoßen, oder ähnlich. Mit dem sind Sie vermutlich bereits... bestätigen wir, dass sie die Nummer 1 sind -->
+
+<!-- finden wir eine andere Formulierung als "wie Sie Airtable kostenlos nutzen können"? vlt. eher so in Richtung zeigt, was die Limiterungen der kostenlosen Nutzung sind oder ähnlich  -->
+
 ## Was ist Airtable?
 
 Airtable ist eine **cloudbasierte Kollaborationsplattform**, die eine **Mischung aus Tabellenkalkulation und Datenbanksoftware** darstellt. Je nach Blickwinkel kann man die Frage "Was ist Airtable?" deshalb unterschiedlich beantworten: Da man seine Daten dort meist in Tabellen erfasst und strukturiert, wird es oft als leistungsfähigere [Excel Alternative]({{< relref "pages/excel-alternative" >}}) betrachtet. Airtable wird aber auch als [No-Code-Datenbank]({{< relref "posts/20250307-low-code" >}}) bezeichnet, mit der man ohne tiefergehende Programmierkenntnisse Datenbanken erstellen, managen und nutzen kann.  
 
 Weil in einer digitalisierten Welt so gut wie überall Daten anfallen, gibt es eine große Bandbreite an **Anwendungsmöglichkeiten**, um mit Airtable Erfahrungen zu machen. Daher bietet Airtable kostenlos Einstiegslösungen für verschiedene Bereiche wie Produktentwicklung, Marketing, Operations, Projektmanagement, Personal, Vertrieb und Finanzen an. Bei höheren Anforderungen und größeren Teams geht das Airtable Pricing aber schnell ins Geld.
+
+<!-- geht schnell ins Geld und stößt schnell an Limits, mit denen ein aussagefähiges Testen im Grunde kaum möglich ist -->
 
 {{< warning headline="Das Unternehmen hinter Airtable" text="Hinter Airtable steckt die Entwicklungsfirma Formagrid Inc., die 2012 von Howard Liu, Andrew Ofstad und Emmett Nicholas gegründet wurde. Das US-amerikanische Unternehmen aus San Francisco ist mit mehr als 500 Mitarbeitern und einem geschätzten Jahresumsatz von 100 bis 500 Millionen US-Dollar mittlerweile ein großer Player in einer wachsenden Software-Marktnische." />}} 
 
@@ -67,21 +73,31 @@ Das ist die Kehrseite der Flexibilität. Sie bedienen sich aus einem Baukasten u
 Dieser Nachteil geht mit dem zuvor genannten Punkt einher. Anders als spezielle Branchensoftware können Sie Airtable flexibel an Ihre Anforderungen anpassen. Von Grund auf neue Workflows zu bauen dauert zu Beginn aber meist länger. Im Vergleich zu [Asana]({{< relref "pages/asana-alternative" >}}) ist Airtable als Projektmanagement Tool beispielsweise nur bedingt zu empfehlen, da man sich vieles selbst zusammenbasteln muss.
 {{< /faq >}}
 
+<!-- Mache doch hier bitte direkt in der Überschrift deutlich, um was für einen Aufwand es sich handelt -->
+
 {{< faq "Hohe Airtable Kosten" >}}
 Viele Teams, die mit Airtable kostenlos begonnen haben, stoßen bald an Limits und sehen sich mit explodierenden Airtable Kosten konfrontiert. Denn der preisliche Sprung von Airtable kostenlos zu einer kostenpflichtigen Version ist enorm; eine Team-Lizenz schlägt derzeit mit 20 US-Dollar pro Nutzer und Monat zu Buche. Einen günstigeren Einstiegstarif gibt es nicht, dafür aber günstigere Airtable Alternativen: Viele Nutzer wechseln beispielsweise zu SeaTable, weil Sie mit dem Airtable Pricing unzufrieden sind.
 {{< /faq >}}
+
+<!-- Kaum skalierbar durch stark steigenden Kostenaufwand mit steigender Nutzung. Die Kosten sind zu Beginn nicht überschaubar und der Kostenfaktor steigt immens -->
 
 {{< faq "Unzureichender Datenschutz" >}}
 Immer wieder stößt bei Airtable der Datenschutz auf harte Kritik. Die Speicherung von Kundendaten auf Cloud-Servern in den USA und die fehlende Option, Airtable On-Premises zu installieren, machen Airtable für viele Unternehmen mit höheren Sicherheitsanforderungen unattraktiv. Für Unternehmen in der EU ist die Software sogar rechtlich bedenklich, da Airtable die DSGVO Compliance nicht vollumfänglich gewährleistet.
 {{< /faq >}}
 
+<!-- gerne in der Headline deutlicher werden. Das Hosting außerhalb der EU ist nicht DSGVO konform und damit nicht nur rechtlich bedenklich, sondern nicht rechtens, da der Datenschutz nicht gewährleistet werden kann. -->
+
 {{< faq "Keine Mehrsprachigkeit" >}}
 Der Support und die Benutzeroberfläche von Airtable sind ausschließlich in englischer Sprache verfügbar. Was bei IT-Fachkräften rund um die Welt selbstverständlich ist, kann den Anwendern in Fachabteilungen durchaus Verständnisprobleme bereiten. Deshalb bieten Anbieter von ähnlichen Tools wie Airtable auch Deutsch, Französisch, Spanisch oder andere Sprachen in ihrer Software an.
 {{< /faq >}}
 
+<!-- Die Nutzeroberfläche gibt es mittlerweile auch in FR, DE und ES. Support mag anders aussehen. https://support.airtable.com/docs/translate-extension -->
+
 {{< faq "Kritik an einzelnen Airtable Funktionen" >}}
 Neben diesen wesentlichen Nachteilen wird auch immer wieder Kritik an einzelnen Airtable Funktionen laut. Viele Nutzer finden zum Beispiel das Benutzerzugriffs- und Berechtigungsmanagement verwirrend oder dass fortgeschrittene Berechnungen mit Formeln in Airtable schnell zu kompliziert werden. Ebenso berichten Nutzer, dass in der mobilen Version von Airtable einige Funktionen aus der Desktop-Version fehlen und die Navigation in der Airtable App eine Herausforderung darstellt. Zwar gibt es in Airtable kostenlos eine Kommentarfunktion für jeden Datensatz, manche Nutzer würden sich aber einen Gruppenchat oder private Nachrichten für einen intensiveren Austausch wünschen.
 {{< /faq >}}
+
+<!-- Mein SeaTable-Herz wünscht sich sehr, die Nachteile nicht hinter einem Drop-Down zu verstecken... findest Du hierfür eine andere Lösung? Vermutlich sollten wir dann auch die Vorteile nicht in einem FAQ Format verstecken -->
 
 ## Airtable und die DSGVO
 
@@ -100,6 +116,9 @@ Wenn Sie nun über Wege nachdenken, wie Sie Airtable vielleicht doch DSGVO-konfo
 {{< warning headline="SeaTable als Alternative" >}}
 Als Alternative zu Airtable kommt hier vor allem die No-Code-Lösung [SeaTable]({{< relref "/" >}}) ins Spiel. Diese steht der Konkurrenz aus den USA in nichts nach, bietet aber mehr Funktionen als Airtable kostenlos an und ist auch in den bezahlten Abonnements deutlich günstiger. Sie haben die freie Wahl, ob Sie die DSGVO-konforme [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) nutzen möchten, die ausschließlich auf deutschen Servern eines Schweizer Anbieters gehostet wird, oder mit [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) die volle Datenhoheit einer On-Premises-Installation genießen. Mehr dazu erfahren Sie im Airtable Test und Toolvergleich:
 {{< /warning >}}
+
+<!-- Möchtest Du hier nach dem Toolvergleich: auf den CTA-Link drunter verweisen? Ich finde das irritierend und würde als Leser hier nach dem : einen Link in der Box erwarten -->
+
 
 {{< button label="Entdecken Sie die Airtable Alternative Nr. 1" link="pages/airtable-alternative" >}}
 
@@ -129,6 +148,9 @@ Zunächst lässt sich feststellen, dass Airtable sein Pricing in der Vergangenhe
   
 ![Bei wachsenden Datenmengen steigen die Airtable Kosten schnell](airtable-kosten.jpg)
 
+<!-- Hier gerne eine Krasse Preissteigerungskurve zeigen anstelle der Papercheck-People -->
+
+
 Kurze Zeit nach dem kostenlosen Einstieg kommt oft ein böses Erwachen: Denn wenn Sie erst einmal Ihre Unternehmensprozesse auf Airtable umgestellt haben, Ihr Team und Ihre Datenmengen wachsen, müssen Sie entweder tief in Ihre Tasche greifen oder wieder auf eine preiswerte Software umsteigen. Dabei ist es ein offenes Geheimnis, dass Airtable **nicht das beste Preis-Leistungs-Verhältnis** bietet. Sie können sich also viel Geld und Aufwand sparen, wenn Sie sich direkt für einen günstigeren Airtable Konkurrenten entscheiden.
 
 ## Fazit: Airtable Pricing und Datenschutz überzeugen nicht
@@ -138,6 +160,9 @@ Airtable hat im Test zunächst recht gut abgeschnitten: Die Software punktet mit
 Als **US-Cloud ohne On-Premises-Variante** weckt der Anbieter jedoch große Zweifel, ob Airtable den Datenschutz wirklich gewährleisten kann. Da personenbezogene Daten auf Servern von US-Firmen möglicherweise ausgespäht werden, ist Airtable mit der DSGVO unvereinbar und für Unternehmen in der EU nicht einsatzfähig. Gerade für kleine Teams mit wachsenden Datenmengen und Benutzerzahlen ist auch das **Airtable Pricing** weniger geeignet, da von der Gratis-Version zum Team-Abo die Airtable Kosten sprunghaft ansteigen.
   
 Wenn Sie nach einer Alternative suchen, die einen ähnlichen Funktionsumfang, **mehr Datensicherheit und ein besseres Preis-Leistungs-Verhältnis** bietet, ist vor allem SeaTable eine Überlegung wert. Werfen Sie doch mal einen Blick in die kostenlose Basis-Version von SeaTable, die über **großzügigere Limits als Airtable** verfügt.  
+
+<!-- Gerne auch erwähnen, dass unsere kostenlose Version einen großen Funktionsumfang zum real-Test umfäßt und keine abgespeckte Version ist. -->
+
   
 {{< button label="Jetzt kostenlos registrieren und zeitlich unbegrenzt testen" link="/pages/registration" >}}
 
@@ -162,3 +187,5 @@ Airtable ist zwar darum bemüht, die DSGVO zu erfüllen; als US-Cloud-Anbieter o
 {{< faq "Gibt es Airtable auf Deutsch? " >}} 
 Nein, es gibt keine Version von Airtable auf Deutsch oder in anderen Sprachen. Die Oberflächensprache und der Support von Airtable sind ausschließlich auf Englisch verfügbar.
 {{< /faq >}}
+
+<!-- Oberfläche offenbar schon s. o., Support nicht -->
