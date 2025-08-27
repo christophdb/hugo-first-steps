@@ -5,7 +5,9 @@ lastmod: '2022-06-27'
 coverImage: 'SeaTable_Release_2.8_1200x628.jpg'
 author: 'rdb'
 url: '/seatable-release-2-8'
-color: '#eeeeee'
+color: '#8799b7'
+categories:
+    - 'product-features'
 seo:
     title:
     description:

@@ -5,7 +5,9 @@ lastmod: '2022-01-24'
 coverImage: 'michael-shannon.jpg'
 author: 'mwu'
 url: '/seatable-release-1-3'
-color: '#eeeeee'
+color: '#c96afc'
+categories:
+    - 'product-features'
 seo:
     title:
     description:

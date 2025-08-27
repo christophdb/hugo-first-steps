@@ -4,7 +4,9 @@ date: 2023-11-22
 lastmod: '2023-11-22'
 author: 'kgr'
 url: '/es/seatable-release-4-2'
-color: '#eeeeee'
+color: '#a6d8b7'
+categories:
+    - 'product-features'
 seo:
     title:
     description:

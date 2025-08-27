@@ -5,7 +5,9 @@ lastmod: '2023-07-27'
 coverImage: 'seatable-release-1.2.jpg'
 author: 'mwu'
 url: '/seatable-release-1-2'
-color: '#eeeeee'
+color: '#93a5d5'
+categories:
+    - 'product-features'
 seo:
     title:
     description:

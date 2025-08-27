@@ -4,7 +4,9 @@ date: 2020-09-14
 lastmod: '2022-01-24'
 author: 'mwu'
 url: '/es/seatable-release-1-3'
-color: '#eeeeee'
+color: '#c96afc'
+categories:
+    - 'product-features'
 seo:
     title:
     description:
