@@ -4,7 +4,9 @@ date: 2024-02-08
 lastmod: '2024-02-16'
 author: 'kgr'
 url: '/ru/seatable-release-4-3'
-color: '#eeeeee'
+color: '#fd5d04'
+categories:
+    - 'product-features'
 seo:
     title:
     description:

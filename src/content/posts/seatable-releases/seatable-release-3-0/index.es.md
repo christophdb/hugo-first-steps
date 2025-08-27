@@ -4,7 +4,9 @@ date: 2022-06-21
 lastmod: '2022-06-27'
 author: 'rdb'
 url: '/es/seatable-release-3-0'
-color: '#eeeeee'
+color: '#cfe107'
+categories:
+    - 'product-features'
 seo:
     title:
     description:

@@ -5,7 +5,9 @@ lastmod: '2023-06-27'
 coverImage: 'seatable-release-4.0.jpg'
 author: 'kgr'
 url: '/seatable-release-4-0'
-color: '#eeeeee'
+color: '#3aa3f4'
+categories:
+    - 'product-features'
 seo:
     title:
     description:

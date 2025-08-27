@@ -5,7 +5,9 @@ lastmod: '2023-07-11'
 coverImage: 'SeaTable_2.5_background.jpg'
 author: 'rdb'
 url: '/seatable-release-2-5'
-color: '#eeeeee'
+color: '#e7cae0'
+categories:
+    - 'product-features'
 seo:
     title:
     description:
