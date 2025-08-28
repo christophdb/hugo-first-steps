@@ -4,7 +4,9 @@ description: 'Зарегистрируйтесь сейчас и восполь�
 date: 2025-03-24
 url: '/ru/registratsiya/'
 aliases:
-  - '/ru/registrierung/geschafft'
+  - '/ru/registrierung/geschafft/'
+  - '/ru/registration/'
+  - '/ru/registrierung/'
 
 sections:
     - name: form-registration

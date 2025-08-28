@@ -4,6 +4,10 @@ description: ''
 date: 2024-10-28
 type: 'legal'
 url: '/security'
+aliases:
+  - '/securite/'
+  - '/seguridad/'
+  - '/sicherheit/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
