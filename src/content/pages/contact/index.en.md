@@ -2,6 +2,8 @@
 title: 'Contact'
 date: '2025-04-03'
 url: '/contact'
+aliases:
+    - '/en/contact/'
 
 sections:
     - name: form-contact

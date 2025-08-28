@@ -5,6 +5,8 @@ seo:
     description: 'SeaTable offers flexible cloud, dedicated and on-premises solutions, perfectly tailored to your business requirements'
 date: '2025-03-30'
 url: '/products'
+aliases:
+    - '/en/produkte/'
 
 sections:
     - name: hero-2
