@@ -2,6 +2,8 @@
 title: 'Gestion des événements'
 description: ''
 url: '/fr/modele/event-management'
+aliases:
+    - '/fr/modeles/événements/'
 category: 'ereignisse'
 functions:
 seo:

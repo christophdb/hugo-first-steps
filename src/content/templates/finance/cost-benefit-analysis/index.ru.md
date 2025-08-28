@@ -4,7 +4,9 @@ description: ''
 date: '2024-08-24'
 url: '/ru/shablon/analiza-rentabelnosti'
 aliases:
-    - '/ru/шаблон/cost-benefit-analysis'
+    - '/ru/шаблон/cost-benefit-analysis/'
+    - '/ru/shablon-analiza-zatrat-i-vygod/'
+    - '/ru/shablon/analiza-zatrat-i-vygod/'
 category: 'finance'
 functions:
 seo:

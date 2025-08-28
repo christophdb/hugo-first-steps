@@ -4,7 +4,7 @@ description: ''
 date: '2025-04-18'
 url: '/ru/shablon/kataloga-sotrudnikov'
 aliases:
-    - url: '/ru/шаблон/employee-directory'
+    - '/ru/шаблон/employee-directory/'
 category: 'human-resources'
 functions:
 seo:
