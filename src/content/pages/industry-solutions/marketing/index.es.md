@@ -6,6 +6,8 @@ seo:
     description: "Descubra SeaTable como una potente herramienta de marketing. Automatice procesos, analice datos y aumente su eficiencia."
 date: '2025-04-03'
 url: '/es/marketing-tool'
+aliases:
+    - '/es/marketing/'
 
 sections:
     - name: hero-5

@@ -3,6 +3,9 @@ title: 'Administración digital más fácil para administraciones públicas y em
 description: 'Administración digital repensada: Seatable permite soluciones flexibles y personalizables para administraciones públicas y empresas de todos los tamaños'
 date: '2025-04-03'
 url: '/es/public-service'
+aliases:
+    - '/es/digitale-verwaltung/'
+    - '/es/offentlicher-dienst/'
 
 sections:
     - name: hero-5

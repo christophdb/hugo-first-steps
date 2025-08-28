@@ -5,6 +5,9 @@ seo:
     description: 'SeaTable ofrece soluciones flexibles en la nube, dedicadas y locales, perfectamente adaptadas a las necesidades de su empresa'
 date: '2025-03-30'
 url: '/es/productos'
+aliases:
+    - '/es/products/'
+    - '/es/produkte/'
 
 sections:
     - name: hero-2

@@ -6,6 +6,9 @@ seo:
     description: "Increase productivity with SeaTable. The project management tool can be adapted to your needs in simple steps"
 date: '2025-04-03'
 url: '/projectmanagement-tools'
+aliases:
+    - '/en/projektmanagement-tools/'
+    - '/en/projektmanagement/'
 
 sections:
     - name: hero-5

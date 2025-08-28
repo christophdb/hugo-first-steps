@@ -1,6 +1,8 @@
 ---
 title: 'No-code platform | Individual solutions without programming'
 description: 'The flexible no-code low-code platform. Create individual applications for your business processes without any programming knowledge.'
+aliases:
+    - '/en/home/'
 
 sections:
 - name: hero-1
