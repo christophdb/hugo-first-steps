@@ -4,7 +4,7 @@ description: 'Повысьте производительность с помо�
 date: '2025-04-03'
 url: '/ru/инструменты-управления-проектами'
 aliases:
-  - '/ru/projectmanagement-tools'
+  - '/ru/projectmanagement-tools/'
 
 sections:
     - name: hero-5

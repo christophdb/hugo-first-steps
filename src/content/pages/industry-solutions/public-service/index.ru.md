@@ -2,9 +2,13 @@
 title: 'Цифровое администрирование для государственных органов и компаний'
 description: 'Переосмысление цифрового администрирования: Seatable предлагает гибкие и настраиваемые решения для государственных органов и компаний любого размера'
 date: '2025-04-03'
-url: '/ru/государственные-услуги'
+url: '/ru/gosudarstvennye-uslugi'
 aliases:
-    - '/ru/public-service'
+    - '/ru/public-service/'
+    - '/ru/digitale-verwaltung/'
+    - '/ru/государственные-услуги/'
+    - '/ru/offentlicher-dienst/'
+    - '/ru/public-service/'
 
 sections:
     - name: hero-5

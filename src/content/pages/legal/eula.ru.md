@@ -5,6 +5,8 @@ date: 2021-09-28
 version: '1.0'
 type: 'legal'
 url: '/ru/licenzionnoe-soglashenie'
+aliases:
+    - '/ru/eula/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

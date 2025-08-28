@@ -2,7 +2,11 @@
 title: 'Лучшее решение для баз данных для вашей команды | Возможности SeaTable'
 description: 'Откройте для себя широкие возможности SeaTable: от гибких таблиц до мощных автоматизаций.'
 date: '2025-03-30'
-url: '/ru/функции'
+url: '/ru/funktsii'
+aliases:
+    - '/ru/functions/'
+    - '/ru/funktionen/'
+    - '/ru/функции/'
 
 sections:
     - name: hero-3

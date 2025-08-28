@@ -5,6 +5,7 @@ date: '2025-04-03'
 url: '/it-service-management'
 aliases:
     - '/en/softwareentwicklung/'
+    - '/softwareentwicklung/'
 
 sections:
     - name: hero-5

@@ -5,6 +5,7 @@ date: 2025-03-24
 url: '/es/registro/'
 aliases:
     - '/es/inscripcion/'
+    - '/es/registrierung/geschafft/'
 
 sections:
     - name: form-registration
