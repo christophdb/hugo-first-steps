@@ -15,6 +15,27 @@
         <div x-data="contactForm()">
             <form @submit.prevent="submitForm" method="POST" class="mx-auto mt-16 max-w-2xl sm:mt-20">
                 <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
+                    <div class="sm:col-span-2">
+                        <label class="text-md block font-bold">Anliegen{{/* T "contact.first_name" */}}</label>
+                        <div class="mt-2.5">
+                            <label><input type="radio" name="type" value="support" x-model="type" class="mx-2.5" />Ich brauche Support</label><br />
+                            <label><input type="radio" name="type" value="sales" x-model="type" class="mx-2.5" />Ich wünsche ein Angebot</label><br />
+                            <label><input type="radio" name="type" value="question" x-model="type" class="mx-2.5" />Ich habe eine Frage und möchte Kontakt aufnehmen</label>
+                        </div>
+                    </div>
+
+                    <div x-show="type == 'support'" class="sm:col-span-2">
+                        <p>
+                            Sie haben kein SeaTable-Enterprise-Abonnement?<br />
+                            Dann nutzen Sie bitte unser <a href="https://forum.seatable.com" target="_blank" rel="nofollow">Community-Forum</a>.
+                        </p>
+
+                        <p class="mt-4">
+                            Als Enterprise-Kunde können Sie Tickets direkt in der
+                            <a href="https://account.seatable.com/support" target="_blank" rel="nofollow">Teamverwaltung</a> anlegen.
+                        </p>
+                    </div>
+
                     <div>
                         <label for="first-name" class="text-md block font-bold">{{ T "contact.first_name" }}</label>
                         <div class="mt-2.5">
@@ -69,29 +90,110 @@
                         </div>
                     </div>
 
-                    <!--
-                    <div class="sm:col-span-2">
-                        <label for="subject" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.reason" }}</label>
-
-                        <div class="mt-2.5">
-                            <select
-                                id="subject"
-                                x-model="subject"
-                                x-init="subject = $el.value; console.log($el.dataset); type = $el.dataset.type"
-                                @change="type = $event.target.options[$event.target.selectedIndex].dataset.type"
-                                class="form-select block w-full appearance-none rounded-lg border border-gray-300 bg-gray-50 bg-no-repeat p-3 text-sm text-gray-900 focus:border-blue-500 focus:ring-blue-500 dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:placeholder-gray-400 dark:focus:border-blue-500 dark:focus:ring-blue-500">
-                                <option value="Ich möchte mehr über SeaTable Enterprise erfahren" data-type="sales" selected>
-                                    I would like to learn more about SeaTable Enterprise
-                                </option>
-                                <option value="Ich möchte ein Angebot erhalten" data-type="sales">I would like to receive a quote</option>
-                                <option value="Ich habe eine Frage zur SeaTable Cloud" data-type="sales">I have a question about the SeaTable Cloud</option>
-                                <option value="Ich bin ein Kunde und benötige Support" data-type="support">I am a customer and need support</option>
-                                <option value="Ich habe eine Partner/Reseller Anfrage" data-type="sales">I have a partner/reseller request</option>
-                                <option value="Etwas anderes ..." data-type="support">Something else ...</option>
-                            </select>
+                    <div x-show="type == 'sales'" class="">
+                        <div>
+                            <label for="org_type" class="block text-sm/6 font-semibold text-gray-900">Organisationstyp</label>
+                            <div class="mt-2.5">
+                                <select id="org_type" x-model="orgType">
+                                    <option value="business">Unternehmen (for-profit)</option>
+                                    <option value="education">Bildung (non-profit)</option>
+                                    <option value="research">Forschung (non-profit)</option>
+                                    <option value="public-sector">Öffentlicher Sektor (non-profit)</option>
+                                    <option value="other">Anderer Organisationstyp (non-profit)</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="sm:col-span-2">
+                            <label for="phone" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.phone" }} Telefonnummer (optional)</label>
+                            <div class="mt-2.5">
+                                <input
+                                    type="tel"
+                                    name="phone"
+                                    id="phone"
+                                    x-model="phone"
+                                    class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                                <p>Eine Telefonnummer ermöglicht uns besonders schnelle Rückfragen.</p>
+                            </div>
+                        </div>
+                        <div class="sm:col-span-2">
+                            <label for="url" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.url" }} URL (optional)</label>
+                            <div class="mt-2.5">
+                                <input
+                                    type="text"
+                                    name="url"
+                                    id="url"
+                                    x-model="url"
+                                    class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                            </div>
+                        </div>
+                        <div class="sm:col-span-2">
+                            <label for="address" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.url" }} Adresse (optional)</label>
+                            <div class="mt-2.5">
+                                <input
+                                    type="text"
+                                    name="address"
+                                    id="address"
+                                    x-model="address"
+                                    class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                            </div>
+                        </div>
+                        <div class="sm:col-span-2">
+                            <label for="country" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.country" }} Land (optional)</label>
+                            <div class="mt-2.5">
+                                <input
+                                    type="text"
+                                    name="country"
+                                    id="country"
+                                    x-model="country"
+                                    class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                            </div>
+                        </div>
+                        <div class="sm:col-span-2">
+                            <label for="vat_id" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.vat_id" }} VAT-ID (optional)</label>
+                            <div class="mt-2.5">
+                                <input
+                                    type="text"
+                                    name="vat_id"
+                                    id="vat_id"
+                                    x-model="vatId"
+                                    class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                            </div>
+                        </div>
+                        <div class="sm:col-span-2">
+                            {{/* FIXME: Field is required, at least one must be filled out */}}
+                            <label class="block text-sm/6 font-semibold text-gray-900">Produkte (Mehrfachauswahl möglich)</label>
+                            <div class="mt-2.5">
+                                <label><input type="checkbox" name="type" value="cloud" x-model="products" class="mx-2.5" />SeaTable Cloud</label><br />
+                                <label><input type="checkbox" name="type" value="dedicated" x-model="products" class="mx-2.5" />SeaTable Dedicated</label><br />
+                                <label><input type="checkbox" name="type" value="server" x-model="products" class="mx-2.5" />SeaTable Server</label>
+                            </div>
+                        </div>
+                        <div>
+                            <label for="preferredLanguage" class="block text-sm/6 font-semibold text-gray-900">Bevorzugte Sprache</label>
+                            <div class="mt-2.5">
+                                <select id="preferredLanguage" x-model="preferredLanguage">
+                                    <option value="de">Deutsch</option>
+                                    <option value="en">Englisch</option>
+                                    <option value="fr">Französisch</option>
+                                    {{/* TODO: Other options? */}}
+                                </select>
+                            </div>
                         </div>
                     </div>
-                    -->
+
+                    <div x-show="type == 'question'" class="sm:col-span-2">
+                        <div>
+                            <label for="reason" class="block text-sm/6 font-semibold text-gray-900">Grund Ihrer Anfrage</label>
+                            <div class="mt-2.5">
+                                <select id="reason" x-model="reason">
+                                    <option value="bug-report">Fehlerbericht</option>
+                                    <option value="security">Datenschutz und Sicherheit</option>
+                                    <option value="partner-request">Partneranfrage</option>
+                                    <option value="other">Etwas anderes</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="sm:col-span-2">
                         <label for="message" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.message" }}</label>
@@ -101,6 +203,7 @@
                                 id="message"
                                 x-model="message"
                                 rows="4"
+                                :placeholder="type == 'sales' ? 'Hier wäre es hilfreich, wenn Sie bereits die Anzahl der Benutzer und die Lizenzperiode angeben würden.' : ''"
                                 class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"></textarea>
                         </div>
                     </div>
@@ -110,7 +213,7 @@
                 <label class="absolute left-0 top-0 -z-10 h-0 w-0 opacity-0" for="name"></label>
                 <input class="absolute left-0 top-0 -z-10 h-0 w-0 opacity-0" autocomplete="off" type="text" name="name" placeholder="Your name here" x-model="name" />
 
-                <div class="mt-10">
+                <div x-show="type != ''" class="mt-10">
                     <button
                         type="submit"
                         x-bind:disabled="isSubmitting"
