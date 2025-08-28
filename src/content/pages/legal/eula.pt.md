@@ -5,6 +5,9 @@ date: 2021-09-28
 version: '1.0'
 type: 'legal'
 url: '/pt/acordo-de-licença'
+aliases:
+    - '/pt/eula/'
+    - '/pt/lizenzvereinbarung/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

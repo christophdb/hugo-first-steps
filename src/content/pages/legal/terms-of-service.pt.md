@@ -5,6 +5,8 @@ date: 2022-04-14
 version: 1.0.1
 type: 'legal'
 url: '/pt/termos-de-uso'
+aliases:
+    - '/pt/politica-de-distribuição/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}
