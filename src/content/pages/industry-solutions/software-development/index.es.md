@@ -3,6 +3,8 @@ title: 'Gestión de servicios de TI con SeaTable: eficaz y flexible'
 description: 'SeaTable le ofrece la oportunidad de personalizar y optimizar su gestión de servicios de TI. Utilice nuestra solución sin código.'
 date: '2025-04-03'
 url: '/es/it-service-management'
+aliases:
+    - '/es/softwareentwicklung/'
 
 sections:
   - name: hero-5

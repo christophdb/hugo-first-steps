@@ -5,6 +5,8 @@ date: 2022-04-14
 version: 1.0.1
 type: 'legal'
 url: '/fr/conditions-d-utilisation'
+aliases:
+    - '/fr/nutzungsbedingungen/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

@@ -7,6 +7,7 @@ type: 'legal'
 url: '/eula'
 aliases:
     - '/en/lizenzvereinbarung/'
+    - '/lizenzvereinbarung/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

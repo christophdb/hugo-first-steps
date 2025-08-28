@@ -5,6 +5,7 @@ date: '2025-03-30'
 url: '/functions'
 aliases:
     - '/en/funktionen/'
+    - '/funktionen/'
 
 sections:
     - name: hero-3
