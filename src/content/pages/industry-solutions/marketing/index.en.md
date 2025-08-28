@@ -10,6 +10,7 @@ aliases:
     - '/branchenloesung-marketing/'
     - '/en/branchenloesung-marketing/'
     - '/en/marketing/'
+    - '/marketing/'
 
 sections:
     - name: hero-5

@@ -4,6 +4,8 @@ description: ''
 date: 2022-11-03
 type: 'legal'
 url: '/fr/protection-de-donnees'
+aliases:
+    - '/fr/datenschutz/'
 ---
 
 Version 1.3.0 from November 3, 2022

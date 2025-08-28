@@ -4,6 +4,7 @@ date: '2025-04-03'
 url: '/contact'
 aliases:
     - '/en/contact/'
+    - '/kontakt/'
 
 sections:
     - name: form-contact

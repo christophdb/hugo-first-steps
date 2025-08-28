@@ -6,6 +6,7 @@ url: '/prices'
 aliases:
     - '/en/preise/'
     - '/en/pricing/'
+    - '/preise/'
 
 sections:
     - name: hero-price

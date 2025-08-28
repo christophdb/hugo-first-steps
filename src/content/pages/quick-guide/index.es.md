@@ -1,6 +1,8 @@
 ---
 title: Guía rápida
 url: '/es/quick-guide'
+aliases:
+    - '/es/quick-quide/'
 
 sections:
     - name: 'hero-2'

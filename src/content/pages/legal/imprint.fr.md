@@ -4,6 +4,8 @@ description: ''
 date: 2025-03-24
 type: 'legal'
 url: '/fr/mentions-legales'
+aliases:
+    - '/fr/imprint/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

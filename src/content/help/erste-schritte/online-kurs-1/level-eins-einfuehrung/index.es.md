@@ -6,6 +6,8 @@ categories:
     - 'online-kurs'
 author: 'cdb'
 url: '/es/ayuda/level-eins-einfuehrung'
+aliases:
+    - '/es/training/'
 weight: 1
 ---
 

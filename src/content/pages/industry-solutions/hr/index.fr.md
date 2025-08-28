@@ -3,6 +3,9 @@ title: 'Numériser et automatiser les processus RH avec SeaTable'
 description: 'Révolutionnez vos processus RH avec SeaTable. De l&#039;onboarding à la saisie des temps, améliorez l&#039;efficacité de votre service du personnel.'
 date: '2025-04-03'
 url: '/fr/hr-processes'
+aliases:
+    - '/fr/hr-prozesse/'
+    - '/fr/hr/'
 
 sections:
     - name: hero-5

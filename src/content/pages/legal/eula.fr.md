@@ -5,6 +5,8 @@ date: 2021-09-28
 version: '1.0'
 type: 'legal'
 url: '/fr/contrat-de-licence-utilisateur-final'
+aliases:
+    - '/fr/eula/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

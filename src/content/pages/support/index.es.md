@@ -2,6 +2,8 @@
 title: 'Soporte'
 date: '2025-04-03'
 url: '/es/soporte'
+aliases:
+    - '/es/support/'
 
 sections:
     - name: hero-2

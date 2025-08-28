@@ -5,6 +5,8 @@ date: '2025-04-03'
 url: '/public-service'
 aliases:
     - '/en/digitale-verwaltung/'
+    - '/LG/offentlicher-dienst/'
+    - '/offentlicher-dienst/'
 
 sections:
     - name: hero-5
