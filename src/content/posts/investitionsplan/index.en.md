@@ -1,173 +1,172 @@
 ---
-title: 'Investitionsplan für Unternehmen: Wie Sie klug investieren'
-description: 'Ohne Plan ins Blaue hinein zu investieren ist selten eine gute Idee. Dabei laufen Sie Gefahr, sich von Emotionen leiten zu lassen und ebenso vermeidbare wie verlustreiche Fehlentscheidungen zu treffen. Mit einem Investitionsplan folgen Sie hingegen einem wohlüberlegten Pfad, der Ihre Chancen erhöht, ein Vielfaches aus Ihrer Investition herauszuholen. Erfahren Sie in diesem Artikel, wie Ihre Investitionsplanung wirklich Früchte trägt.'
+title: 'Investment plan for companies: How to invest wisely'
+description: 'Investing blindly without a plan is rarely a good idea. You run the risk of being guided by emotions and making bad decisions that are as avoidable as they are loss-making. With an investment plan, on the other hand, you follow a well-considered path that increases your chances of getting the most out of your investment. Find out in this article how your investment planning can really bear fruit.'
 date: 2025-08-26
-url: '/investment-plan'
+url: '/en/investment-plan'
 seo:
-    title: 'Investitionsplan für Unternehmen'
-    description: 'Mit einem Investitionsplan folgen Sie einem wohlüberlegten Pfad, der die Chancen erhöht, dass Ihre Investitionen sich lohnen.'
+    title: 'Investment plan for companies'
+    description: 'Investment plan simply explained: practical examples and tips on how founders and companies can reduce risks and make investments profitable.'
 categories:
     - 'best-practice'
 tags:
-    - 'Finanzen'
+    - 'Finances'
     - 'Build your Business'
 color: '#969ed4'
-draft: true
 ---
 
-## Was ist ein Investitionsplan?
+## What is an investment plan?
 
-Bei einer **Investition** binden Sie für eine gewisse Zeit finanzielle Mittel in materiellen oder immateriellen Vermögenswerten – frei verfügbares Geld wird **gebundenes Kapital**. Meist handelt es sich dabei um **Anlagevermögen**, also Dinge, die lange in Ihrem Unternehmen verbleiben, wie zum Beispiel Gebäude, Maschinen oder Patente. Investitionen in das **Umlaufvermögen** können beispielsweise Waren oder Rohstoffe sein, die Sie verarbeiten oder verkaufen und die sich nur kurzfristig in Ihrem Besitz befinden.
+With an **investment**, you tie up financial resources in tangible or intangible assets for a certain period of time – freely available money becomes **tied-up capital**. These are usually **fixed assets**, i.e. things that remain in your company for a long time, such as buildings, machines or patents. Investments in **current assets** can be, for example, goods or raw materials that you process or sell and that are only in your possession for a short time.
   
-Ein **Investitionsplan** verschafft Ihnen einen Überblick über alle geplanten Investitionen und gibt Aufschluss darüber, wie viel Geld Sie zu welchem Zeitpunkt in die Hand nehmen wollen. Dafür halten Sie alle Ausgaben fest, die **einmalig zu Beginn** durch die Anschaffung bzw. in der Anlaufphase eines Projekts anfallen. Dahingegen gehören laufende Kosten für den Betrieb und Erhalt nicht in den Investitionsplan, sondern in den **Betriebsmittelplan**. Zusammen mit eventuellen Gründungskosten bilden diese beiden Pläne den **Kapitalbedarfsplan**, der auch Teil Ihrer [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}) oder Ihres Businessplans ist.
+An **investment plan** gives you an overview of all planned investments and provides information on how much money you want to invest and when. To do this, you record all expenses that are incurred **once at the beginning** through the acquisition or in the start-up phase of a project. Ongoing costs for operation and maintenance, on the other hand, do not belong in the investment plan, but in the **operating resources plan**. Together with any start-up costs, these two plans form the **capital requirements plan**, which is also part of your [financial planning]({{< relref "posts/20250617-finanzplanung" >}}) or your business plan.
 
-{{< warning headline="Beispiel: Investitionsplan und Kapitalbedarfsplan" >}}  
-Nehmen wir an, dass Sie eine neue Anlage in Ihrer Fabrik installieren wollen, um die Produktion zu steigern. Der Bau dieser Anlage kostet geschätzt 100.000 Euro, die in Ihren Investitionsplan für Maschinen einfließen. Zudem benötigen Sie aber noch ausgebildete Fachkräfte, Energie und Rohstoffe, um die Anlage betreiben zu können. Diese laufenden Kosten schlagen sich gemeinsam mit den Anschaffungskosten im Kapitalbedarfsplan nieder.
+{{< warning headline="Example: Investment plan and capital requirements plan" >}}
+Let's assume that you want to install a new plant in your factory to increase production. The construction of this plant costs an estimated 100,000 euros, which is included in your investment plan for machinery. However, you will also need trained specialists, energy and raw materials to operate the plant. These running costs are reflected in the capital requirements plan together with the acquisition costs.
 {{< /warning >}}
 
-## Warum ein Investitionsplan für Unternehmen essenziell ist
+## Why an investment plan is essential for companies
 
-Wenn Sie ein Unternehmen gründen oder in leitender Position managen, stehen Sie immer wieder vor wichtigen **Investitionsentscheidungen**. Egal, ob Sie neue Maschinen kaufen, [Personal einstellen]({{< relref "posts/20250630-personalplanung" >}}) oder die Digitalisierung vorantreiben möchten – jede Entscheidung beeinflusst das zukünftige Wachstum und den Erfolg Ihres Unternehmens. Mit einem durchdachten Investitionsplan steuern Sie vorausschauend Ihre Ausgaben, setzen klare Prioritäten und vermeiden unnötige Risiken.
+If you set up a company or are in a management position, you are always faced with important **investment decisions**. Whether you want to buy new machinery, [hire staff]({{< relref "posts/20250630-personalplanung" >}}) or drive digitalization – every decision influences the future growth and success of your company. With a well thought-out investment plan, you can manage your expenditure with foresight, set clear priorities and avoid unnecessary risks.
 
-Des Weiteren entsteht durch Investitionen meist ein hoher **Kapitalbedarf**, den Sie oft nur mit externen Geldgebern wie Banken und Investoren decken können. Eine überzeugende Investitionsplanung zeigt ihnen, dass Sie mit Geld umgehen können, und erhöht Ihre **Kreditwürdigkeit**. Nicht zuletzt kalkulieren Sie bei der Investitionsrechnung auch den potenziellen Nutzen Ihrer Investitionen und ermitteln, ab wann sich Ihr Kapitaleinsatz rentieren wird.
+Furthermore, investments usually result in a high **capital requirement**, which you can often only cover with external lenders such as banks and investors. Convincing investment planning shows them that you can handle money and increases your **creditworthiness**. Last but not least, in the investment calculation you also calculate the potential benefit of your investments and determine when your capital investment will be profitable.
 
-![Investitionsplan und Investitionsrechnung](investitionsplan.jpg)
+![Investment plan and investment calculation](investitionsplan.jpg)
 
-## Investitionsarten einfach erklärt
+## Types of investment explained simply
 
-Je nach Ziel und Zeitpunkt einer Investition lassen sich 4 Investitionsarten unterscheiden:
+Depending on the objective and timing of an investment, 4 types of investment can be distinguished:
 
-{{< faq "Erstinvestition" >}}
-Eine Erstinvestition, auch Gründungsinvestition genannt, umfasst alle Ausgaben, die Sie für die Erstausstattung Ihres Unternehmens tätigen, um Ihr Business ins Rollen zu bringen. In der Regel ist der Kapitalbedarf bei dieser Art von Investment am höchsten. Dabei wird zwischen echten Investitionen und reinen Gründungskosten wie Anmeldungen bei Behörden unterschieden, die nicht zur Wertsteigerung Ihres Unternehmens beitragen.
+{{< faq "Initial investment" >}}
+An initial investment, also known as a start-up investment, comprises all the expenses you incur for the initial equipment of your company to get your business off the ground. As a rule, the capital requirement is highest for this type of investment. A distinction is made between genuine investments and pure start-up costs such as registrations with the authorities, which do not contribute to increasing the value of your company.
 {{< /faq >}}
 
-{{< faq "Erweiterungsinvestition" >}}
-Um Erweiterungsinvestitionen handelt es sich bei Ausgaben, mit denen Sie Ihre Kapazitäten ausbauen. Ist beispielsweise die Nachfrage nach Ihren Produkten oder Dienstleistungen gestiegen, sollten Sie in Ihrem Investitionsplan mehr Maschinen oder Personal vorsehen. Eine Erweiterungsinvestition amortisiert sich meist nach kurzer Zeit, da sie mit einer absehbaren Umsatzsteigerung einhergeht.
+{{< faq "Expansion investment" >}}
+Expansion investments are expenses with which you expand your capacities. For example, if the demand for your products or services has increased, you should include more machines or personnel in your investment plan. An expansion investment usually pays for itself after a short time, as it is accompanied by a foreseeable increase in turnover.
 {{< /faq >}}
 
-{{< faq "Rationalisierungsinvestition" >}}
-Von einer Rationalisierungsinvestition erwarten Sie sich vor allem eine Kostenersparnis. Zum Beispiel könnten Sie in Roboter zur Automatisierung und Beschleunigung von Produktionsprozessen investieren, um Personalkosten einzusparen. Im Vergleich zur Erweiterungsinvestition erhöhen Sie damit allerdings nicht die Kapazitäten, sondern hauptsächlich die Effizienz.
+{{< faq "Rationalization investment" >}}
+The main thing you expect from a rationalization investment is a cost saving. For example, you could invest in robots to automate and speed up production processes in order to save on personnel costs. Compared to an expansion investment, however, you are not increasing capacity, but mainly efficiency.
 {{< /faq >}}
 
-{{< faq "Ersatzinvestition" >}}
-Eine Ersatzinvestition ist vonnöten, wenn Sie einen veralteten oder defekten Vermögensgegenstand vollständig ersetzen müssen, um Ihr Business am Laufen zu halten. Dies nennt man auch Reinvestition. Hierbei geht es lediglich darum, den bisherigen Zustand aufrechtzuerhalten oder wiederherzustellen, ohne die Kapazitäten oder die Effizienz Ihres Unternehmens zu verändern.
+{{< faq "Replacement investment" >}}
+A replacement investment is necessary if you need to completely replace an obsolete or defective asset in order to keep your business running. This is also known as reinvestment. It is simply a matter of maintaining or restoring the previous state without changing the capacity or efficiency of your business.
 {{< /faq >}}
 
-## Nutzungsdauer und Abschreibung von Investitionsgütern
+## Useful life and depreciation of capital goods
 
-Wie Sie bereits an den verschiedenen Investitionsarten ablesen können, spielen der **Zeitpunkt der Anschaffung** und die zu erwartende **Nutzungsdauer** von Investitionsgütern eine entscheidende Rolle für Ihre Investitionsplanung. Deshalb erstellen Sie Ihren Investitionsplan nicht nur für die Existenzgründung, sondern für die gesamte Lebensdauer Ihrer Vermögensgegenstände.  
+As you can already see from the different types of investment, the **time of acquisition** and the expected **useful life** of capital goods play a decisive role in your investment planning. You should therefore draw up your investment plan not only for the start-up, but for the entire life of your assets.  
   
-Bei einem Investitionsplan für Maschinen definieren Sie beispielsweise für jede Maschine, wie lange Sie diese nutzen möchten und wann Sie diese vermutlich ersetzen müssen. Im Rahmen der Nutzungsdauer sollten Sie demzufolge nicht nur die Anschaffungskosten erwirtschaften, sondern auch **Rücklagen** bilden, um die Maschinen zum gegebenen Zeitpunkt austauschen zu können.
+In an investment plan for machinery, for example, you define for each machine how long you want to use it and when you will probably have to replace it. During the useful life, you should therefore not only generate the acquisition costs, but also build up **reserves** so that you can replace the machines when the time comes.
 
-![Inspektion von Maschinen](investitionsplan-beispiel-maschinen.jpg)
+![Inspection of machines](investitionsplan-beispiel-maschinen.jpg)
 
-Die hypothetischen Kosten für diese Rücklagen tauchen bei der Bilanzierung (z. B. im Jahresabschluss) als **Abschreibungen** auf. Konkret berücksichtigt eine Abschreibung die **Wertminderung** des Vermögensgegenstands über die gesamte Nutzungsdauer hinweg. Kaufen Sie zum Beispiel eine Maschine für 20.000 Euro, die für 10 Jahre in Ihrem Unternehmen bleiben soll, verringert sich der Wert jedes Jahr um 10 Prozent, also 2.000 Euro, die Sie als Abschreibung in der Gewinn- und Verlustrechnung aufführen.
+The hypothetical costs for these reserves appear in the balance sheet (e.g. in the annual financial statements) as **depreciation**. Specifically, it takes into account the depreciation of the asset over its entire useful life. For example, if you buy a machine for 20,000 euros that is to remain in your company for 10 years, the value is reduced by 10 percent each year, i.e. 2,000 euros, which you enter as depreciation in the income statement.
 
-## Wie Sie einen Investitionsplan erstellen – in 6 Schritten
+## How to create an investment plan – in 6 steps
 
-1. **Definieren Sie Ihre Ziele**: Wollen Sie beispielsweise die Produktionskapazitäten ausbauen, um auf eine gestiegene Nachfrage zu reagieren oder neue Märkte zu erschließen? Dann legt dies einen Investitionsplan für mehr Maschinen nahe. Sprich: Für jede Investition sollte Ihnen klar sein, was Sie damit erreichen möchten. 
+1. **Define your goals**: For example, do you want to expand production capacity to respond to increased demand or enter new markets? Then this suggests an investment plan for more machines. In other words, you should be clear about what you want to achieve with each investment.
 
-2. **Klären Sie die Finanzierung**: Analysieren Sie, wie viel Geld Sie für Ihr Vorhaben benötigen und wie Sie dieses finanzieren können. Ob Eigenkapital, Kredite oder Fördermittel – Sie entscheiden, welche Finanzierung zu Ihrem Investment passt. 
+2. **Clarify the financing**: Analyze how much money you need for your project and how you can finance it. Whether equity, loans or subsidies – you decide which financing suits your investment.
 
-3. **Setzen Sie Prioritäten**: Nicht alles, was wünschenswert ist, ist auch finanzierbar. Legen Sie fest, welche Investitionen höchste Priorität haben und welche Sie zurückstellen können. Bevorzugen Sie Investitionen, die strategisch auf Ihre Ziele einzahlen und direkte Auswirkungen auf Ihr Business haben. 
+3. **Set priorities**: Not everything that is desirable can be financed. Determine which investments have the highest priority and which you can postpone. Prioritize investments that strategically contribute to your goals and have a direct impact on your business.
 
-4. **Kalkulieren Sie Kosten und Nutzen**: Natürlich sollen Ihre Investitionen möglichst schnell Früchte tragen. Berechnen Sie daher für jede Investition sorgfältig, welche Kosten auf Sie zukommen und welchen Nutzen Sie erwarten. Mit einer solchen Kosten-Nutzen-Analyse können Sie unnötige Fehlinvestitionen vermeiden.
+4. **Calculate costs and benefits**: Naturally, your investments should bear fruit as quickly as possible. Therefore, carefully calculate the costs you will incur and the benefits you expect for each investment. Such a [cost-benefit analysis]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) will help you avoid unnecessary bad investments.
 
-5. **Planen Sie den Zeithorizont**: Ein Investitionsplan hilft Ihnen, notwendige Ausgaben zeitlich zu ordnen und die Mittel so einzusetzen, dass die Finanzierung langfristig gesichert ist. Dank eines realistischen Zeitplans, wann Sie welche Investitionsgüter anschaffen, sinkt die Gefahr von [Liquiditätsengpässen]({{< relref "posts/20250628_liquiditaetsplanung" >}}). 
+5. **Plan the time horizon**: An investment plan helps you to schedule necessary expenditure and deploy funds in such a way that financing is secured in the long term. Thanks to a realistic schedule of when you will purchase which capital goods, the risk of [liquidity bottlenecks]({{< relref "posts/20250628_liquiditaetsplanung" >}}) is reduced.
+ 
+6. **Realize your investment plan**: The financing, significance, benefits and timing of your investments have been clarified? Then nothing stands in the way of implementing your investment plan! Check regularly whether your investments are actually achieving the desired success and adjust your plan if necessary.
 
-6. **Realisieren Sie Ihren Investitionsplan**: Die Finanzierung, der Stellenwert, der Nutzen und der Zeitplan Ihrer Investitionen sind geklärt? Dann steht der Umsetzung Ihrer Investitionsplanung nichts mehr im Weg! Prüfen Sie regelmäßig, ob Ihre Investitionen tatsächlich den gewünschten Erfolg bringen, und passen Sie Ihren Plan gegebenenfalls an.
+{{< warning headline="Investment calculation" text="You can use an investment calculation to check whether an investment is economically advantageous. Well-known methods with which you can compare several investment alternatives are the cost, profit and profitability comparison calculation." />}}
 
-{{< warning headline="Investitionsrechnung" text="Mit einer Investitionsrechnung prüfen Sie, ob eine Investition wirtschaftlich von Vorteil ist. Bekannte Verfahren, mit denen Sie mehrere Investitionsalternativen vergleichen können, sind die Kosten-, die Gewinn- und die Rentabilitätsvergleichsrechnung." />}}  
+## Investment plan example: Setting up a garage
 
-## Investitionsplan Beispiel: Gründung einer Werkstatt
+Imagine that you want to set up your own garage and need to draw up an investment plan, for example. You make the following investment decisions: You don't want to rent a garage, but buy a property with a workshop and office. Naturally, this property will be the largest item in your investment plan.  
 
-Stellen Sie sich vor, dass Sie Ihre eigene Autowerkstatt gründen möchten und dafür zum Beispiel einen Investitionsplan erstellen müssen. Dabei treffen Sie folgende Investitionsentscheidungen: Sie möchten keine Garage mieten, sondern direkt eine Immobilie mit Werkstatt und Büro kaufen. Natürlich schlägt dann als größter Posten in Ihrem Investitionsplan diese Immobilie zu Buche.  
+![Investment plan example garage](investitionsplan-beispiel-werkstatt.jpg)
 
-![Investitionsplan Beispiel Autowerkstatt](investitionsplan-beispiel-werkstatt.jpg)
+Next, you will need a lifting platform and various electrical devices and tools for your workshop, which you enter in the investment plan under machinery and equipment. Other items of equipment for the workshop and office could include a fitted kitchen, desks, seating, workbenches, shelving systems, computers and telephones. In the future, you also want to invest in your own tow truck, a second lifting platform and a table football table for breaks.
 
-Als Nächstes benötigen Sie für Ihre Werkstatt eine Hebebühne sowie verschiedene elektrische Geräte und Werkzeuge, die Sie im Investitionsplan unter Maschinen und Anlagen eintragen. Weitere Ausstattungsgegenstände für Werkstatt und Büro könnten eine Einbauküche, Schreibtische, Sitzmöbel, Werkbänke, Regalsysteme, Computer und Telefone sein. Perspektivisch wollen Sie auch in einen eigenen Abschleppwagen, eine zweite Hebebühne und einen Tischkicker für die Pausen investieren.
+### What does an investment plan look like?
 
-### Wie sieht ein Investitionsplan aus?
+In the example described above, the investment plan could have a structure like this:
 
-Im oben beschriebenen Beispiel könnte der Investitionsplan einen Aufbau wie diesen haben:  
-
-| **Art der Investition** | **Jahr 1**      | **Jahr 2**      | **Jahr 3**      |
+| **Type of investment** | **Year 1** | **Year 2** | **Year 3** |
 | ----------------------- | --------------- | --------------- | --------------- |
-| **Immobilien**          |                 |                 |                 |
-| Werkstatt mit Büro      | 350.000         | –               | –               |
-| **Maschinen/Anlagen**   |                 |                 |                 |
-| Hebebühnen              | 5.000           | –               | 5.000           |
-| Elektrische Geräte      | 10.000          | 5.000           | –               |
-| Werkzeuge               | 5.000           | –               | 2.000           |
-| **Fahrzeuge**           |                 |                 |                 |
-| Abschleppwagen          | –               | –               | 70.000          |
-| **Mobiliar**            |                 |                 |                 |
-| Werkbänke               | 5.000           | –               | –               |
-| Einbauküche             | 5.000           | –               | –               |
-| Schreibtische           | 1.000           | –               | 500             |
-| Sitzmöbel               | 1.200           | –               | –               |
-| Regalsysteme            | 500             | –               | –               |
-| Tischkicker             | –               | –               | 500             |
-| **IT**                  |                 |                 |                 |
-| Computer & Monitore     | 2.800           | 700             | 1.000           |
-| Telefone & Router       | 1.000           | –               | 500             |
-| **Umlaufvermögen**      |                 |                 |                 |
-| Basis-Ersatzteile       | 2.000           | 1.000           | 1.000           |
-| Benzin, Öle             | 500             | 500             | 500             |
-| Handschuhe, Kleidung    | 500             | 300             | 500             |
-| Sonstiges               | 500             | 500             | 500             |
-| **Investitionssumme**   | **390.000**     | **8.000**       | **82.000**      |
+| **Real estate** | | | |
+| Garage with office | 350,000 | – | – |
+| **Machinery/equipment** | | | |
+| Lifting platforms | 5,000 | – | 5,000 |
+| Electrical equipment | 10,000 | 5,000 | – |
+| Tools | 5,000 | – | 2,000 |
+| **Vehicles** | | | |
+| Tow truck | – | – | 70,000 |
+| **Furniture** | | | |
+| Workbenches | 5,000 | – | – |
+| Fitted kitchen | 5,000 | – | – |
+| Desks | 1,000 | – | 500 |
+| Seating | 1,200 | – | – |
+| Shelving systems | 500 | – | – |
+| Table soccer | – | – | 500 |
+| **IT** | | | |
+| Computers & monitors | 2,800 | 700 | 1,000 |
+| Telephones & routers | 1,000 | – | 500 |
+| **Current assets** | | | |
+| Basic spare parts | 2,000 | 1,000 | 1,000 |
+| Gasoline, oils | 500 | 500 | 500 |
+| Gloves, clothing | 500 | 300 | 500 |
+| Other | 500 | 500 | 500 | 500 |
+| **Investment amount** | **390,000** | **8,000** | **82,000** |
 
-Alle Zahlen in diesem Investitionsplan Beispiel stellen Nettopreise in Euro dar.
+All figures in this investment plan example are net prices in euros.
 
-{{< warning headline="Höherer Kapitalbedarf" >}}  
-Beachten Sie, dass insbesondere bei einer Gründung der Kapitalbedarf deutlich höher ist als die Investitionssumme. Hinzu kommen:  
-- **Einmalige Gründungskosten** wie Meldegebühren, Beratungskosten oder eine Eröffnungsfeier  
-- **Laufende Betriebskosten**, darunter Miete, Nebenkosten, Versicherungen, Internet und Telefonie  
-- **Personalkosten** sowie Ihr eigenes Einkommen für den privaten Lebensunterhalt  
-- **Werbekosten**, z. B. Corporate Design, Website, Anzeigenschaltung
+{{< warning headline="Higher capital requirement" >}}
+Please note that the capital requirement is significantly higher than the investment sum, especially for a start-up. Added to this are
+- **One-off start-up costs** such as registration fees, consultancy fees or an opening ceremony
+- **Ongoing operating costs**, including rent, utilities, insurance, internet and telephony
+- **Personnel costs** and your own income for private living expenses
+- **Advertising costs**, e.g. corporate design, website, ad placement
 {{< /warning >}}
 
-## Die häufigsten Fehler bei der Investitionsplanung
+## The most common mistakes in investment planning
 
-Folgende Fallstricke sollten Sie vermeiden, damit Ihre Investitionsplanung ein Erfolg wird:
+You should avoid the following pitfalls to ensure that your investment planning is a success:
 
-- **Verwechslung mit der Kapitalbedarfsplanung**: Der Investitionsplan deckt nur einen Teil des Kapitalbedarfs ab. Beachten Sie zusätzliche Ausgaben, insbesondere für laufende Betriebs- und Personalkosten.
+- **Confusion with capital requirements planning**: The investment plan only covers part of the capital requirements. Take into account additional expenses, especially for ongoing operating and personnel costs.
     
-- **Unklare Ziele oder Prioritäten**: Bevor Sie auch nur einen Euro investieren, sollten Sie geklärt haben, wie dringlich bestimmte Investitionen sind und welches Investment am stärksten auf Ihre Unternehmensziele einzahlt. So wissen Sie immer, wofür Sie direkt Geld ausgeben sollten und womit Sie noch warten können.
+- **Unclear goals or priorities**: Before you invest even one euro, you should have clarified how urgent certain investments are and which investment contributes most to your business goals. This way you will always know what you should spend money on immediately and what you can wait on.
     
-- **Kosten unterschätzen, Nutzen überschätzen**: Seien Sie nicht zu optimistisch, was den Effekt Ihrer Investitionen angeht. Manchmal dauert es länger als gedacht, bis sich die Anschaffungskosten amortisiert haben. Kalkulieren Sie bei den Kosten besser zu viel als zu wenig ein, damit Sie einen Puffer für unvorhergesehene Preissteigerungen haben.
+- **Underestimate costs, overestimate benefits**: Don't be too optimistic about the effect of your investments. Sometimes it takes longer than expected for the acquisition costs to be amortized. It is better to calculate too much than too little in terms of costs so that you have a buffer for unforeseen price increases.
     
-- **Bauchgefühl statt Berechnungen**: Auch wenn Sie kein großer Fan der Mathematik sind, sollten Sie die Investitionsrechnung ernsthaft und sorgfältig durchführen. Berechnen Sie beispielsweise die [Rentabilität]({{< relref "posts/rentabilitaetsvorschau" >}}) verschiedener Investitionen, um die richtigen Investitionsentscheidungen zu treffen.
+- **Gut feeling instead of calculations**: Even if you are not a big fan of math, you should carry out the investment calculation seriously and carefully. For example, calculate the [profitability]({{< relref "posts/rentabilitaetsvorschau" >}}) of different investments to make the right investment decisions.
 
-![Investitionen können sich lohnen](investitionsplanung.jpg)
+![Investments can be worthwhile](investitionsplanung.jpg)
 
-## Investitionsplanung Software: So behalten Sie den Überblick über Ihre Investitionen
+## Investment planning software: How to keep track of your investments
 
-Während für einen einfachen Investitionsplan noch eine Vorlage in Excel oder Word ausreichen mag, werden die Datenmengen und -strukturen in größeren Unternehmen schnell unüberschaubar und komplex. Damit Sie dennoch den Überblick behalten, bietet sich als Investitionsplanung Software zum Beispiel die No-Code-Datenbank [SeaTable]({{< relref "/" >}}) an. Die intuitive Benutzeroberfläche erinnert an eine Tabellenkalkulation, SeaTable bietet aber deutlich mehr Funktionen und sogar die Möglichkeit, [eigene Apps zu erstellen]({{< relref "posts/20250318-app-erstellen" >}}).  
+While a template in Excel or Word may suffice for a simple investment plan, the data volumes and structures in larger companies quickly become unmanageable and complex. The no-code database [SeaTable]({{< relref "/" >}}), for example, is the ideal investment planning software to help you maintain an overview. The intuitive user interface is reminiscent of a spreadsheet, but SeaTable offers significantly more functions and even the option to [create your own apps]({{< relref "posts/20250318-app-erstellen" >}}).
   
-Mithilfe von **Formeln und Statistiken**, aber auch **Ansichten und Plugins** (wie z. B. Galerien, Kalender, Kanban-Boards) können Sie Ihre Daten im Handumdrehen auswerten und visualisieren. Zudem unterstützt SeaTable die Zusammenarbeit in Ihrem Unternehmen, zum Beispiel mit seiner **Kommentarfunktion** und der **Echtzeit-Synchronisation** von Änderungen. Über granulare Berechtigungen können Sie indes genau steuern, wer welche Daten sehen und bearbeiten kann. Nicht zuletzt können Sie mit dem **App Builder** individuelle Interfaces und Prozesse gestalten. Für den Investitionsantrag könnten Sie beispielsweise ein **Formular** nutzen, mit dem jeder im Unternehmen seine Wünsche für Anschaffungen einreichen kann.  
+With the help of **formulas and statistics**, but also **views and plugins** (such as galleries, calendars, Kanban boards), you can evaluate and visualize your data in no time at all. SeaTable also supports collaboration within your company, for example with its **comment function** and **real-time synchronization** of changes. Granular authorizations allow you to control exactly who can see and edit which data. Last but not least, you can use the **App Builder** to design individual interfaces and processes. For example, you could use a **form** for investment requests, which everyone in the company can use to submit their requests for purchases.  
 
-Insbesondere für Gründer bedeutet eine professionelle Investitionsplanung Software oft hohe Kosten, bevor überhaupt Einnahmen fließen. Gut, dass SeaTable skalierbar ist: Starten Sie mit der **kostenlosen Version**, die Ihnen bereits alle grundlegenden Funktionen bietet, und zahlen Sie nur für Upgrades, wenn Sie mehr Speicherplatz, Features oder Nutzerkonten benötigen. SeaTable wächst mit Ihren Anforderungen und Ihrem Team!  
+For founders in particular, professional investment planning software often means high costs before any revenue flows in. Good thing SeaTable is scalable: start with the **free version**, which already offers you all the basic functions, and only pay for upgrades if you need more storage space, features or user accounts. SeaTable grows with your requirements and your team!  
   
-{{< button label="Jetzt kostenlos registrieren" link="/pages/registration" >}} 
+{{< button label="Register now for free" link="/pages/registration" >}}
   
-Zudem haben Sie die Wahl, ob Sie den Komfort und die Skalierbarkeit der Cloud vorziehen – oder mit [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) die volle Datenhoheit einer On-Premises-Installation genießen möchten. Wenn Sie die [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) verwenden, sind Ihre Daten übrigens DSGVO-konform in deutschen Rechenzentren gespeichert und vor der Weitergabe an Server in den USA und anderen Ländern geschützt.
+You also have the choice of whether you prefer the convenience and scalability of the cloud – or whether you want to enjoy the full data sovereignty of an on-premises installation with [SeaTable Server]({{< relref "pages/product/seatable-server" >}}). If you use the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), your data is stored in German data centers in compliance with the GDPR and protected from being passed on to servers in the USA and other countries.
 
-## FAQ zum Investitionsplan
+## FAQ about the investment plan
 
-{{< faq "Was ist ein Investitionsplan?" >}}
-Der Investitionsplan ist der Teil Ihres Business- oder Finanzplans, der alle geplanten Ausgaben für die langfristige Anschaffung von Maschinen, Gebäuden oder anderen Vermögenswerten aufführt. Gemeinsam mit dem Betriebsmittelplan dient er dazu, Ihren Kapitalbedarf zu ermitteln.
+{{< faq "What is an investment plan?" >}}
+The investment plan is the part of your business or financial plan that lists all planned expenditure for the long-term acquisition of machinery, buildings or other assets. Together with the working capital plan, it is used to determine your capital requirements.
 {{< /faq >}}
 
-{{< faq "Wie sieht ein Investitionsplan aus?" >}}
-In der Regel ist ein Investitionsplan eine tabellarische Aufstellung aller geplanten Investitionen. Das Aussehen und der Umfang des Investitionsplans kann sich je nach Komplexität und Größe Ihres Unternehmens unterscheiden. Es kann sich zum Beispiel um einen mehrjährigen Investitionsplan für Maschinen und Anlagen handeln oder um einen Investionsplan zur Existenzgründung.
+{{< faq "What does an investment plan look like?" >}}
+As a rule, an investment plan is a tabular list of all planned investments. The appearance and scope of the investment plan can vary depending on the complexity and size of your company. For example, it may be a multi-year investment plan for machinery and equipment or an investment plan for a business start-up.
 {{< /faq >}}
 
-{{< faq "Was sollte man bei der Investitionsplanung beachten?" >}}
-In Bezug auf eine professionelle Investitionsplanung ist eine Erklärung gar nicht so leicht. In erster Linie geht es darum, Ziele und Prioritäten zu klären, Kosten und Nutzen zu kalkulieren, die Investitionsrechnung gründlich durchzuführen und daraufhin fundierte Entscheidungen zu treffen. Auch der Faktor Zeit spielt eine große Rolle. Insbesondere bei einer Gründung sollte man nicht vergessen, dass der Kapitalbedarf deutlich über die Investitionen hinausgeht. Wenn Sie ausführlichere Informationen rund um die Investitionsplanung und mehr Erklärung haben möchten, finden Sie diese im Artikel.
+{{< faq "What should you consider when planning investments?" >}}
+When it comes to professional investment planning, it is not that easy to explain. First and foremost, it is about clarifying objectives and priorities, calculating costs and benefits, carrying out a thorough investment appraisal and then making well-founded decisions. The time factor also plays a major role. Particularly when setting up a company, you should not forget that the capital requirements go well beyond the investments. If you would like more detailed information on investment planning and more explanation, you can find this in the article.
 {{< /faq >}}
 
-{{< faq "Was ist eine Abschreibung?" >}}
-Mithilfe von Abschreibungen bilden Sie bilanzielle Rücklagen für Ersatzinvestionen. Dabei bezieht sich die Abschreibung auf die Wertminderung von Vermögensgegenständen über deren gesamte Nutzungsdauer hinweg. Wenn Sie beispielsweise 60.000 Euro in ein Firmenfahrzeug investieren, das Sie 20 Jahre lang nutzen möchten, beträgt die jährliche Abschreibung 5 Prozent (ein Zwanzigstel) des Kaufwerts, also 3.000 Euro.
+{{< faq "What is depreciation?" >}}
+With the help of depreciation, you create balance sheet reserves for replacement investments. Depreciation refers to the reduction in value of assets over their entire useful life. For example, if you invest 60,000 euros in a company car that you want to use for 20 years, the annual depreciation is 5 percent (one twentieth) of the purchase value, i.e. 3,000 euros.
 {{< /faq >}}

@@ -5,14 +5,13 @@ date: 2025-08-26
 url: '/de/investitionsplan'
 seo:
     title: 'Investitionsplan für Unternehmen'
-    description: 'Mit einem Investitionsplan folgen Sie einem wohlüberlegten Pfad, der die Chancen erhöht, dass Ihre Investitionen sich lohnen.'
+    description: 'Investitionsplan einfach erklärt: Praxisbeispiele und Tipps, wie Gründer und Unternehmen Risiken reduzieren und Investitionen rentabel gestalten.'
 categories:
     - 'best-practice'
 tags:
     - 'Finanzen'
     - 'Build your Business'
 color: '#969ed4'
-draft: true
 ---
 
 ## Was ist ein Investitionsplan?
@@ -71,7 +70,7 @@ Die hypothetischen Kosten für diese Rücklagen tauchen bei der Bilanzierung (z.
 
 3. **Setzen Sie Prioritäten**: Nicht alles, was wünschenswert ist, ist auch finanzierbar. Legen Sie fest, welche Investitionen höchste Priorität haben und welche Sie zurückstellen können. Bevorzugen Sie Investitionen, die strategisch auf Ihre Ziele einzahlen und direkte Auswirkungen auf Ihr Business haben. 
 
-4. **Kalkulieren Sie Kosten und Nutzen**: Natürlich sollen Ihre Investitionen möglichst schnell Früchte tragen. Berechnen Sie daher für jede Investition sorgfältig, welche Kosten auf Sie zukommen und welchen Nutzen Sie erwarten. Mit einer solchen Kosten-Nutzen-Analyse können Sie unnötige Fehlinvestitionen vermeiden.
+4. **Kalkulieren Sie Kosten und Nutzen**: Natürlich sollen Ihre Investitionen möglichst schnell Früchte tragen. Berechnen Sie daher für jede Investition sorgfältig, welche Kosten auf Sie zukommen und welchen Nutzen Sie erwarten. Mit einer solchen [Kosten-Nutzen-Analyse]({{< relref "posts/kosten-nutzen-analyse-vorlage" >}}) können Sie unnötige Fehlinvestitionen vermeiden.
 
 5. **Planen Sie den Zeithorizont**: Ein Investitionsplan hilft Ihnen, notwendige Ausgaben zeitlich zu ordnen und die Mittel so einzusetzen, dass die Finanzierung langfristig gesichert ist. Dank eines realistischen Zeitplans, wann Sie welche Investitionsgüter anschaffen, sinkt die Gefahr von [Liquiditätsengpässen]({{< relref "posts/20250628_liquiditaetsplanung" >}}). 
  
