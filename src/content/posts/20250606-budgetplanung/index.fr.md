@@ -9,11 +9,11 @@ seo:
     title: "Budgétisation : avantages, méthodes, conseils"
     description: "Comment la budgétisation fonctionne-t-elle dans une entreprise et quels sont les éléments à prendre en compte ? Lisez nos conseils ici, y compris un exemple."
 categories:
-    - 'best-practice'
+    - "best-practice"
 tags:
-    - 'Finances'
-    - 'Gestion de projet'
-color: '#f4a64b'
+    - "Finances"
+    - "Gestion de projet"
+color: "#f4a64b"
 ---
 
 **Avez-vous déjà établi votre budget pour l'année prochaine ?** Si ce n'est pas le cas, il est temps pour la budgétisation : plus vite vous connaîtrez le montant dont vous disposez, plus vous pourrez prendre des mesures précises pour atteindre vos objectifs : Souhaitez-vous embaucher davantage de salariés ou envisagez-vous une campagne publicitaire importante ? Peu importe ce que vous avez en tête, cet article vous fournira des conseils précieux pour la planification budgétaire.
