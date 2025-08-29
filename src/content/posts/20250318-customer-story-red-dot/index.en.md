@@ -13,6 +13,8 @@ tags:
     - 'When Excel is no longer sufficient'
 color: '#dc4d51'
 url: '/customer-story-red-dot'
+aliases:
+    - '/en//customer-story-red-dot/'
 ---
 
 ## A modern system for an efficient process

@@ -13,6 +13,8 @@ tags:
     - 'Public Sector'
 color: '#bb9de1'
 url: '/customer-story-fr-la-manche/'
+aliases:
+    - '/en/customer-story-fr-la-manche/'
 ---
 
 ## Challenges in the management of sensitive data
