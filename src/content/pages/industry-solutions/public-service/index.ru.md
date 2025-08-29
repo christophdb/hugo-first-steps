@@ -8,7 +8,6 @@ aliases:
     - '/ru/digitale-verwaltung/'
     - '/ru/государственные-услуги/'
     - '/ru/offentlicher-dienst/'
-    - '/ru/public-service/'
 
 sections:
     - name: hero-5
