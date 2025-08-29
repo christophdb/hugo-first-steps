@@ -19,6 +19,8 @@ En comparación con una [vista]({{< relref "help/startseite/freigaben/freigabe-e
 - Las tablas que acceden a un conjunto de datos común pueden **sincronizarse** en cualquier momento, es decir, compararse con la última versión del conjunto de datos (por ejemplo, cuando se incorporan o abandonan nuevos empleados).
 - Existe una relación descendente: los cambios en el conjunto de datos común se transfieren a las tablas dependientes durante la sincronización. Sin embargo, los cambios en estas tablas **no** afectan al conjunto de datos subyacente.
 
+{{< warning headline="Registros compartidos y Big Data Backend" text="Actualmente no es posible utilizar registros compartidos dentro de una vista Big Data." />}}
+
 En el siguiente resumen también encontrará los enlaces a los distintos artículos de ayuda de la sección Conjuntos de datos comunes.
 
 ## Creación de un conjunto de datos común

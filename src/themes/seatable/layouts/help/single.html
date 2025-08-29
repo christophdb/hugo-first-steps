@@ -49,12 +49,12 @@
 
                 <div class="toc post-toc win-w-[220px] hidden w-1/4 lg:block" data-pagefind-ignore>
                     <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
-                        <h3>INHALTSVERZEICHNIS</h3>
+                        <h3>{{ T "help_area.toc" | upper }}</h3>
                         <div>
                             {{ .TableOfContents }}
                         </div>
 
-                        <h3 class="mt-12">WEITERE ARTIKEL IN DIESER KATEGORIE</h3>
+                        <h3 class="mt-12">{{ T "help_area.more_articles" | upper }}</h3>
                         <div>
                             <ul>
                                 {{ range .CurrentSection.Pages.ByWeight }}

@@ -19,6 +19,8 @@ Compared to a [view]({{< relref "help/startseite/freigaben/freigabe-einer-ansich
 - The tables accessing a common dataset can be **synchronized** at any time, i.e. compared with the latest version of the data record (e.g. when new employees join or leave).
 - There is a top-down relationship here: changes to the common dataset are transferred to the dependent tables during synchronization. However, changes in these tables have **no** effect on the underlying data set.
 
+{{< warning headline="Shared Records and Big Data Backend" text="At this time, it is not possible to use shared records within a Big Data view." />}}
+
 In the following overview you will also find the links to the various help articles in the Shared Records section.
 
 ## Creating a common dataset

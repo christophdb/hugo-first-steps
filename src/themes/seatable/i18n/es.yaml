@@ -143,6 +143,8 @@ help_area:
     category: 'Categoría'
     section: 'Sección'
     available_with: 'Disponible con'
+    toc: 'Índice'
+    more_articles: 'Más artículos en esta categoría'
 
 templates:
     all: 'Todas las plantillas'
