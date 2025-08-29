@@ -4,8 +4,10 @@ description: 'Переосмысление цифрового администр
 date: '2025-04-03'
 url: '/ru/gosudarstvennye-uslugi'
 aliases:
-    - '/ru/public-service/'
+    - '/ru/digitale-verwaltung/'
     - '/ru/государственные-услуги/'
+    - '/ru/offentlicher-dienst/'
+    - '/ru/public-service/'
 
 sections:
     - name: hero-5

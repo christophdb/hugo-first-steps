@@ -1,6 +1,8 @@
 ---
 title: Краткое руководство
 url: '/ru/quick-guide'
+aliases:
+    - '/ru/quick-quide/'
 
 sections:
     - name: 'hero-2'

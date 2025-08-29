@@ -8,6 +8,7 @@ author: 'cdb'
 url: '/help/level-eins-einfuehrung'
 aliases:
     - '/en/training/'
+    - '/training/'
 weight: 1
 ---
 
