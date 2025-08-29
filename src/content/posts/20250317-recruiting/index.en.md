@@ -11,6 +11,8 @@ tags:
     - 'Applicants & Talents Management'
 color: '#d4a2ee'
 url: '/recruiting'
+aliases:
+  - '/en/recruiting/'
 ---
 
 ## How to reach the best talent online

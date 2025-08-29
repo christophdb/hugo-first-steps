@@ -10,6 +10,8 @@ categories:
 tags:
 color: '#c4d69f'
 url: '/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten'
+aliases:
+    - '/en/pflanzplan-fruchtfolge-expertentipps-fuer-ihren-garten/'
 ---
 
 ## A planting plan for successful beds

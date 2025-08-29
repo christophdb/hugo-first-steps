@@ -12,6 +12,8 @@ tags:
     - 'Digital Transformation'
 color: '#f7f0d6'
 url: '/effizientes-auftragsmanagement-mit-seatable'
+aliases:
+    - 'en/effizientes-auftragsmanagement-mit-seatable/'
 ---
 
 ## Advancing digital transformation
