@@ -4,8 +4,8 @@ description: "La budgétisation définit le montant dont vous et vos managers di
 date: 2025-06-06
 url: '/fr/budgeting'
 seo:
-    title: 'Budgétisation : avantages, méthodes, conseils'
-    description: 'Comment la budgétisation fonctionne-t-elle dans une entreprise et quels sont les éléments à prendre en compte ? Lisez nos conseils ici, y compris un exemple.'
+    title: "Budgétisation : avantages, méthodes, conseils"
+    description: "Comment la budgétisation fonctionne-t-elle dans une entreprise et quels sont les éléments à prendre en compte ? Lisez nos conseils ici, y compris un exemple."
 categories:
     - 'best-practice'
 tags:
