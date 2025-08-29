@@ -42,6 +42,49 @@ jobs:
                   name: site
                   path: src/archive.tar.gz
 
+    check-links-en:
+        name: Check links English
+        runs-on: ubuntu-22.04
+        needs: create-archive
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+            - name: Start development server
+              run: docker compose up -d
+            - name: Wait until the container is healthy
+              uses: raschmitt/wait-for-healthy-container/@master
+              with:
+                  container-name: hugo
+                  timeout: 240
+            - name: Check links English (/en/)
+              run: docker run --rm -v ${{ github.workspace }}:/site -w /site \
+                  raviqqe/muffet:${{ env.MUFFET_VERSION }} -t60 -c30 -f \
+                  -i 'http://127*' -i 'http://localhost' \
+                  -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
+                  http://127.0.0.1:1313/en/
+
+    check-links-fr:
+        name: Check links French
+        runs-on: ubuntu-22.04
+        needs: create-archive
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+            - name: Start development server
+              run: docker compose up -d
+            - name: Wait until the container is healthy
+              uses: raschmitt/wait-for-healthy-container/@master
+              with:
+                  container-name: hugo
+                  timeout: 240
+            - name: Check links English (/fr/)
+              run: docker run --rm -v ${{ github.workspace }}:/site -w /site \
+                  raviqqe/muffet:${{ env.MUFFET_VERSION }} -t60 -c30 -f \
+                  -i 'http://127*' -i 'http://localhost' \
+                  -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
+                  http://127.0.0.1:1313/fr/
+
+    # check links without englisch and french
     check-links:
         name: Check links
         runs-on: ubuntu-22.04
@@ -64,13 +107,19 @@ jobs:
                   container-name: hugo
                   timeout: 240
             - name: Check links
-              run: muffet -t60 -c30 -f -i 'http://127*' -i 'http://localhost' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' http://127.0.0.1:1313
+              run: muffet -t60 -c30 -f \
+                  -i 'http://127*' -i 'http://localhost' \
+                  -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
+                  -e 'http://127.0.0.1:1313/en' -e 'http://127.0.0.1:1313/fr' \
+                  http://127.0.0.1:1313
 
     deploy:
         name: Deploy
         needs:
             - create-archive
             - check-links
+            - check-links-en
+            - check-links-fr
         runs-on: ubuntu-22.04
         if: github.ref == 'refs/heads/main'
         steps:
