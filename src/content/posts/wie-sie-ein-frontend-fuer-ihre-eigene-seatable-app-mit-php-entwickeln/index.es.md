@@ -8,7 +8,7 @@ tags:
     - 'Universal App Builder'
 url: '/es/seatable-app-frontend-php'
 aliases:
-    - /es/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln
+    - '/es/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln/'
 color: '#fcbc68'
 seo:
     title:

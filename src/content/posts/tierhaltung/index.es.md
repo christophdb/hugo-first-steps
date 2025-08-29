@@ -8,7 +8,7 @@ tags:
     - 'Vida cotidiana y ocio'
 url: '/es/ganaderia'
 aliases:
-    - /es/tierhaltung/
+    - '/es/tierhaltung/'
 color: '#f5c119'
 seo:
     title:

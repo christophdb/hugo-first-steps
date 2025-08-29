@@ -3,6 +3,8 @@ title: "Budgétisation : Qu'est-ce qui est important dans la planification budg�
 description: "La budgétisation définit le montant dont vous et vos managers disposez pour atteindre certains objectifs. Il vous aide également à allouer l'argent et les ressources aux projets et aux services de manière sensible. Lisez cet article pour découvrir comment fonctionne une planification budgétaire efficace."
 date: 2025-06-06
 url: '/fr/budgeting'
+aliases:
+    - '/fr/budgetplanung-vorlage/
 seo:
     title: 'Budgétisation : avantages, méthodes, conseils'
     description: 'Comment la budgétisation fonctionne-t-elle dans une entreprise et quels sont les éléments à prendre en compte ? Lisez nos conseils ici, y compris un exemple.'
