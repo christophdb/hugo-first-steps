@@ -2,6 +2,8 @@
 title: 'Event Management'
 description: 'This tool allows you to keep an eye on all the important details when planning your event.'
 url: '/template/event-management'
+aliases:
+    - '/event-management/'
 category: 'events'
 functions:
 seo:

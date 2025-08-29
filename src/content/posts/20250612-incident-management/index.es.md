@@ -14,6 +14,8 @@ tags:
 date: 2025-06-12
 lastmod: '2025-06-12'
 url: '/es/gestion-incidentes/'
+aliases:
+    - '/es/incident-management/'
 color: '#5bb7dd'
 ---
 
