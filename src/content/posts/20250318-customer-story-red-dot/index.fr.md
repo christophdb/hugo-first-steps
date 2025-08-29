@@ -8,7 +8,7 @@ date: 2025-03-18
 categories:
     - 'customer-story'
 tags:
-    - 'Planification du marketing'
+    - 'Planification marketing'
     - 'Toolings & Plugins'
 color: '#dc4d51'
 url: '/fr/customer-story-red-dot'

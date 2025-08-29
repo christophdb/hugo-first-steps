@@ -13,6 +13,8 @@ tags:
     - 'IT Processes'
 color: '#faeebf'
 url: '/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
+aliases:
+    - '/en/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht/'
 ---
 
 ## Background: Missing database interface for non-technical users

@@ -3,6 +3,8 @@ title: 'La presse de SeaTable : Actualités et communiqués de presse'
 description: 'Découvrez la presse SeaTable et les articles de presse intéressants qui mettent en lumière notre plateforme et ses applications.'
 date: '2025-04-03'
 url: '/fr/presse'
+aliases:
+    - '/fr/press/'
 
 sections:
     - name: 'content-23'

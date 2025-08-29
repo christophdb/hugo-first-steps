@@ -6,8 +6,8 @@ url: '/de/vorlage/party-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Stressfreie Partyplanung: Ihre digitale Vorlage'
+    description: 'Effiziente Partyplanung ohne Stress: Behalten Sie den Überblick über Checklisten, Budgets und Gästelisten für Ihr nächstes Event'
 template: 'c7b0c4bf967442cba68a'
 ---
 

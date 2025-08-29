@@ -1,5 +1,5 @@
 ---
-title: "Bases dans la gestion d'équipe"
+title: "Bases dans l'administration d'équipe"
 date: 2023-01-18
 lastmod: '2023-01-19'
 categories:
@@ -8,14 +8,14 @@ author: 'vge'
 url: '/fr/aide/bases-in-der-teamverwaltung'
 ---
 
-Si vous êtes **administrateur d'équipe**, vous avez accès à toutes les bases de votre équipe via la **gestion d'équipe**. Vous pouvez accéder à la vue détaillée de chaque base, voir les partages et les liens des bases ou supprimer des bases.
+Si vous êtes **administrateur d'équipe**, vous avez accès à toutes les bases de votre équipe via l'**administration d'équipe**. Vous pouvez accéder à la vue détaillée de chaque base, voir les partages et les liens des bases ou supprimer des bases.
 
-## Pour accéder aux bases dans la gestion d'équipe, procédez comme suit
+## Pour accéder aux bases dans l'administration d'équipe, procédez comme suit
 
-![Bases dans la gestion d'équipe](images/bases-in-der-teamverwaltung.gif)
+![Bases dans l'administration d'équipe](images/bases-in-der-teamverwaltung.gif)
 
 1. Cliquez sur l'**image de** votre **avatar** dans le coin supérieur droit.
-2. Sélectionnez l'option **Gestion d'équipe** dans le menu déroulant.
+2. Sélectionnez l'option **Administration d'équipe** dans le menu déroulant.
 3. Sur le côté gauche, sous **Navigation**, allez sur **Bases**.
 4. Cliquez sur une **base** pour obtenir plus d'informations et d'options sur la base en question.
 

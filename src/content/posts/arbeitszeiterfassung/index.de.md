@@ -1,25 +1,25 @@
 ---
-title: 'Rechtliches zur Arbeitszeiterfassung Ihrer Mitarbeiter'
+title: 'Rechtliches zur Zeiterfassung Ihrer Mitarbeiter'
 description: 'In diesem Artikel zeigen wir Ihnen, wie die Zeiterfassung Ihrer Mitarbeiter rechtssicher und mit minimalem Aufwand in SeaTable erfolgen kann.'
 date: 2023-04-20
 categories:
     - 'best-practice'
 tags:
     - 'Personalverwaltung'
-url: '/de/arbeitszeiterfassung'
+url: '/de/zeiterfassung-mitarbeiter'
 color: '#fdd5d4'
 seo:
     title: 'Digitale Zeiterfassung für effiziente Teams'
-    description: 'Effiziente Arbeitszeiterfassung leicht gemacht. Optimieren Sie Projekte, behalten Sie den Überblick über Stunden und steigern Sie Ihre Produktivität'
+    description: 'Effiziente Zeiterfassung für Mitarbeiter leicht gemacht. Optimieren Sie Projekte, behalten Sie den Überblick über Stunden und steigern Sie Ihre Produktivität'
 ---
 
-Wahrscheinlich haben Sie es bereits aus den Medien erfahren: Das Bundesarbeitsministerium plant für 2023 eine Reform des Arbeitszeitgesetzes. Doch was ändert sich dadurch für Sie und Ihr Unternehmen? Müssen Sie teure Zeiterfassungssysteme anschaffen oder reicht eine [kostenlose Software]({{< relref "posts/arbeitszeiterfassung" >}})? In diesem Artikel zeigen wir Ihnen, wie Sie die Arbeitszeiterfassung Ihrer Mitarbeiter mit minimalem Verwaltungsaufwand umsetzen und dabei geltendes Recht einhalten.
+Wahrscheinlich haben Sie es bereits aus den Medien erfahren: Das Bundesarbeitsministerium plant für 2023 eine Reform des Arbeitszeitgesetzes. Doch was ändert sich dadurch für Sie und Ihr Unternehmen? Müssen Sie teure Zeiterfassungssysteme anschaffen oder reicht eine [kostenlose Software]({{< relref "posts/arbeitszeiterfassung" >}})? In diesem Artikel zeigen wir Ihnen, wie Sie die Zeiterfassung Ihrer Mitarbeiter mit minimalem Verwaltungsaufwand umsetzen und dabei geltendes Recht einhalten.
 
 ## Die aktuelle Rechtslage zur Zeiterfassung in Unternehmen
 
 Nachdem der Europäische Gerichtshof (EuGH) bereits im Mai 2019 entschieden hatte, dass Unternehmen in der EU die Arbeitszeit ihrer Mitarbeiter erfassen müssen, ließ sich die Politik in Deutschland erst einmal viel Zeit mit der Umsetzung in nationales Recht. [Den ersten Entwurf zur Reform des Arbeitszeitgesetzes hat das Bundesarbeitsministerium im April 2023 vorgelegt.](https://www.tagesschau.de/wirtschaft/unternehmen/arbeitszeit-erfassung-heil-101.html) Demzufolge müssen Beginn, Ende und Dauer der täglichen Arbeitszeit aufgezeichnet werden – und zwar elektronisch und in der Regel noch am selben Tag.
 
-Das Bundesarbeitsgericht hatte zuvor mit seiner [Entscheidung vom 13. September 2022](https://www.verdi.de/themen/recht-datenschutz/++co++0ba8cc14-1882-11ed-9793-001a4a160129) Fakten geschaffen: Es bestätigte in seinem Urteil, dass deutsche Arbeitgeber zur Arbeitszeiterfassung in ihren Unternehmen verpflichtet sind. Der Gedanke dahinter ist, die Mitarbeiter vor zu langen Arbeitszeiten, zu wenigen Pausen und zu kurzen Ruhezeiten zu schützen.
+Das Bundesarbeitsgericht hatte zuvor mit seiner [Entscheidung vom 13. September 2022](https://www.verdi.de/themen/recht-datenschutz/++co++0ba8cc14-1882-11ed-9793-001a4a160129) Fakten geschaffen: Es bestätigte in seinem Urteil, dass deutsche Arbeitgeber zur Zeiterfassung der Mitarbiter in ihren Unternehmen verpflichtet sind. Der Gedanke dahinter ist, die Mitarbeiter vor zu langen Arbeitszeiten, zu wenigen Pausen und zu kurzen Ruhezeiten zu schützen.
 
 Denn laut geltendem Arbeitszeitgesetz müssen Arbeitgeber bereits sicherstellen, dass
 
@@ -36,7 +36,7 @@ In vielen Unternehmen – vielleicht auch in Ihrem – gibt es bisher die sogena
 
 Was den Mitarbeitern große Flexibilität und Selbstbestimmung bietet, steht scheinbar jedoch im krassen **Widerspruch zur verpflichtenden Zeiterfassung**. Diese soll vom Gesetz abweichende Arbeitszeiten und vor allem Überstunden sichtbar machen. Dem liegt die Annahme zugrunde, dass Menschen in Vertrauensarbeitszeit ihre tatsächliche Arbeitszeit häufig über- oder unterschätzen und bisweilen die gesetzlichen Regelungen überhaupt nicht kennen.
 
-Ohne Arbeitszeiterfassung der Mitarbeiter ist es daher unmöglich, eine dauerhaft **zu hohe oder zu niedrige Stundenzahl** sicher erkennen zu können. Auch eine Ausnutzung übermotivierter Mitarbeiter durch die Arbeitgeber ist bei Vertrauensarbeitszeit nicht auszuschließen. Denn was viele nicht wissen: Niemand ist zu **Überstunden** verpflichtet – und wenn Arbeitgeber sie anordnen, müssen sie Überstunden mit Geld oder Freizeit wieder ausgleichen. Steht im Arbeitsvertrag, dass Überstunden pauschal mit dem Festgehalt abgegolten sind, ist das unwirksam.
+Ohne Zeiterfassung der Mitarbeiter ist es daher unmöglich, eine dauerhaft **zu hohe oder zu niedrige Stundenzahl** sicher erkennen zu können. Auch eine Ausnutzung übermotivierter Mitarbeiter durch die Arbeitgeber ist bei Vertrauensarbeitszeit nicht auszuschließen. Denn was viele nicht wissen: Niemand ist zu **Überstunden** verpflichtet – und wenn Arbeitgeber sie anordnen, müssen sie Überstunden mit Geld oder Freizeit wieder ausgleichen. Steht im Arbeitsvertrag, dass Überstunden pauschal mit dem Festgehalt abgegolten sind, ist das unwirksam.
 
 In den meisten Fällen ist die Vertrauensarbeitszeit dennoch von beiden Seiten gewünscht, fördert sie doch das **Vertrauensverhältnis** zwischen Arbeitnehmer und Arbeitgeber – ein hohes Gut, das durch Arbeitszeitkontrolle keinen Schaden nehmen soll. Wenn Sie das bislang in Ihrem Unternehmen so gehändelt haben, kann die Lösung wie folgt aussehen: Die Mitarbeiter erfassen ihre Arbeitszeiten in einem System, das der jeweiligen Führungskraft ermöglicht die Einhaltung der Arbeitszeitregelungen zu überprüfen, sie gestalten die Arbeitseinteilung aber (im Rahmen des Arbeitszeitgesetzes) weiterhin frei und eigenverantwortlich.
 
@@ -46,11 +46,11 @@ Dabei können Sie sich folgenden Umstand zunutze machen: Grundsätzlich trägt z
 
 Das EuGH-Urteil fordert ein „objektives, verlässliches und zugängliches System“, mit dem Sie die täglich geleistete Arbeitszeit messen können. Aber was genau ist damit gemeint?
 
-Seit der Corona-Krise ist klar: Das **Homeoffice** ist in vielen Unternehmen nicht mehr wegzudenken und **hybrides Arbeiten** an verschiedenen Orten schon Normalität. Während Stechuhren stillstanden und Stundenzettel verstaubten, hielten digitale Lösungen Einzug in die Arbeitswelt – anders war die Arbeitszeiterfassung der Mitarbeiter schlichtweg nicht mehr möglich. Und auch für die Zukunft heißt das, dass an Büroräume gebundene Stechuhren kein zugängliches System darstellen, wenn sich die Mitarbeiter nicht remote einloggen können.
+Seit der Corona-Krise ist klar: Das **Homeoffice** ist in vielen Unternehmen nicht mehr wegzudenken und **hybrides Arbeiten** an verschiedenen Orten schon Normalität. Während Stechuhren stillstanden und Stundenzettel verstaubten, hielten digitale Lösungen Einzug in die Arbeitswelt – anders war die Zeiterfassung der Mitarbeiter schlichtweg nicht mehr möglich. Und auch für die Zukunft heißt das, dass an Büroräume gebundene Stechuhren kein zugängliches System darstellen, wenn sich die Mitarbeiter nicht remote einloggen können.
 
 Viele Unternehmen sind dazu übergegangen, die Stunden statt auf Papier in digitalen Tabellen einzutragen. Aber auch das ist keine gute Lösung: Für die Mitarbeiter ist das Eintragen der Stunden z. B. in **Excel Tabellen** oder **Google Sheets** sehr zeitaufwändig und fehleranfällig: Schnell ist es passiert, dass man sich unbemerkt vertippt oder bei der Eingabe in der Zeile bzw. Spalte verrutscht. Zudem pflegen dann alle Mitarbeiter eigene Tabellen an verschiedenen Ablageorten, was es für die Führungskräfte und die Personalabteilung schwierig macht, die Daten regelmäßig zusammenzuführen und im Blick zu behalten: Spätestens am Monatsende werden sie jedes Mal von einer Masse an digitalen Stundentabellen erschlagen.
 
-## Optimale Arbeitszeiterfassung Ihrer Mitarbeiter mit SeaTable
+## Optimale Zeiterfassung Ihrer Mitarbeiter mit SeaTable
 
 Wie also lässt sich die Arbeitszeit der Mitarbeiter schnell, einfach und rechtskonform erfassen? Mit einer speziell auf diesen Anwendungsfall zugeschnittenen Vorlage von SeaTable!
 
@@ -82,6 +82,6 @@ Zur Erinnerung: Hierbei handelt es sich nur um eine beispielhafte Vorlage, die w
 
 Schlussendlich können Sie in SeaTable alle notwendigen Prozesse abbilden, um die Arbeitszeiten Ihrer Mitarbeiter der aktuellen Rechtslage entsprechend und mit minimalem Verwaltungsaufwand zu erfassen. Um die Einhaltung der Arbeitszeitregelungen sicherzustellen, können Sie sich stets ein vollständiges Bild von den geleisteten Stunden im Team machen und mithilfe einer Management-App die Daten für einzelne Mitarbeiter auswerten.
 
-In SeaTable dokumentieren Sie und Ihre Mitarbeiter die Arbeitszeiterfassung, Urlaubsanträge und Krankheitstage an einem zentralen Ort, anstatt viele verstreute Stundentabellen (z. B. in Excel oder Google Sheets) zu pflegen. Alles, was Sie dafür benötigen, ist ein Internet-Browser und eine E-Mail-Adresse.
+In SeaTable dokumentieren Sie und Ihre Mitarbeiter die Zeiterfassung, Urlaubsanträge und Krankheitstage an einem zentralen Ort, anstatt viele verstreute Stundentabellen (z. B. in Excel oder Google Sheets) zu pflegen. Alles, was Sie dafür benötigen, ist ein Internet-Browser und eine E-Mail-Adresse.
 
 Dennoch ist die Zeiterfassung nur ein einziger Anwendungsfall der schier unendlichen Möglichkeiten, die SeaTable Ihnen bietet. Entdecken Sie in unseren [Vorlagen]({{< relref "templates" >}}), welche beeindruckenden Software-Lösungen Sie mit SeaTable bauen können, und starten Sie am besten gleich mit einem [kostenlosen Free Account]({{< relref "pages/registration" >}}).

@@ -26,9 +26,9 @@ Après la copie, la base correspondante se trouve à la fois à l'**endroit d'or
 
 {{< /warning >}}
 
-## Copier une base liée à des enregistrements communs
+## Copier une base liée à des jeux de données communs
 
-Si vous copiez une base dans laquelle [des enregistrements communs]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) sont intégrés, vous pouvez décider de **conserver** le **lien avec ces enregistrements**. Le groupe dans lequel vous copiez la base doit bien sûr avoir [accès aux enregistrements partagés]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
+Si vous copiez une base dans laquelle [des jeux de données communs]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) sont intégrés, vous pouvez décider de **conserver** le **lien avec ces enregistrements**. Le groupe dans lequel vous copiez la base doit bien sûr avoir [accès aux jeux de données communs]({{< relref "help/startseite/gemeinsame-datensaetze/freigabe-eines-gemeinsamen-datensatzes-an-eine-andere-gruppe" >}}).
 
 ![Retenir le lien vers le dataset commun lors de la copie d'une base](images/Retain-link-to-common-dataset-when-copying-a-base.gif)
 

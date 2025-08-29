@@ -4,6 +4,8 @@ description: ''
 date: 2025-03-24
 type: 'legal'
 url: '/es/aviso-legal'
+aliases:
+    - '/es/imprint/'
 ---
 
 {{< alert icon="empty" cardColor="gradient" textColor="#fff" >}}

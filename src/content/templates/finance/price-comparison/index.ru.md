@@ -2,7 +2,9 @@
 title: 'Сравнение цен'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/price-comparison'
+url: '/ru/shablon/sravneniya-tsen'
+aliases:
+    - '/ru/шаблон/price-comparison'
 category: 'finance'
 functions:
 seo:

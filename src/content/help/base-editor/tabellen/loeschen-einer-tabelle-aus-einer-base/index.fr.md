@@ -1,5 +1,5 @@
 ---
-title: "Supprimer une table d'une base - SeaTable"
+title: "Supprimer un tableau d'une base"
 date: 2022-09-26
 lastmod: '2023-08-16'
 categories:
@@ -26,5 +26,5 @@ Dans SeaTable, vous ne devez pas avoir peur d'effacer. Même si vous supprimez a
 {{< /faq >}}
 
 {{< faq "Je ne trouve pas l'option pour supprimer le tableau" >}}
-S'il n'y a plus qu'un seul tableau dans une base, l'option _Supprimer le tableau_ n'est plus affichée. En outre, vous devez disposer de l'autorisation nécessaire pour pouvoir supprimer une table.
+S'il n'y a plus qu'un seul tableau dans une base, l'option _Supprimer le tableau_ n'est plus affichée. En outre, vous devez disposer de l'autorisation nécessaire pour pouvoir supprimer un tableau.
 {{< /faq >}}

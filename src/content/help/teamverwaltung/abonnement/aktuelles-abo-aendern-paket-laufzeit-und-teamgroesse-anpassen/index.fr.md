@@ -8,11 +8,11 @@ author: 'nsc2'
 url: '/fr/aide/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen'
 ---
 
-Dans la gestion d'équipe, vous pouvez, en tant qu'**administrateur d'équipe**, apporter à tout moment des modifications à l'abonnement. Vous apprendrez dans cet article comment effectuer des modifications, quand elles prennent effet et quelles en sont les conséquences sur la durée de l'abonnement.
+Dans l'administration d'équipe, vous pouvez, en tant qu'**administrateur d'équipe**, apporter à tout moment des modifications à l'abonnement. Vous apprendrez dans cet article comment effectuer des modifications, quand elles prennent effet et quelles en sont les conséquences sur la durée de l'abonnement.
 
 ## Efficacité des modifications
 
-En principe, **les mises à niveau** prennent effet immédiatement, tandis que **les rétrogradations** sont toujours effectuées à la fin de la période actuelle. Le tableau suivant en donne un aperçu, sachant que vous pouvez consulter à tout moment la **durée restante** de votre abonnement SeaTable dans la **gestion d'équipe**.
+En principe, **les mises à niveau** prennent effet immédiatement, tandis que **les rétrogradations** sont toujours effectuées à la fin de la période actuelle. Le tableau suivant en donne un aperçu, sachant que vous pouvez consulter à tout moment la **durée restante** de votre abonnement SeaTable dans l'**administration d'équipe**.
 
 | Action                           | Efficacité             |
 | -------------------------------- | ---------------------- |
@@ -41,7 +41,7 @@ Bien entendu, vous ne payez que le **montant proportionnel** à chaque modificat
 
 {{< warning  headline="Remarque importante"  text="Le forfait de votre équipe ne peut être modifié que par les **administrateurs de l'équipe**." />}}
 
-1. Ouvrez la **gestion d'équipe**.
+1. Ouvrez l'**administration d'équipe**.
 2. Passez à la section **Abonnement**.
 3. Cliquez sur **Personnaliser l'abonnement**.
 4. Apportez les modifications souhaitées à l'**abonnement**, au **nombre d'utilisateurs** et à la **période de facturation**.
@@ -59,7 +59,7 @@ La résiliation de votre abonnement payant n'entraîne pas la suppression de vot
 
 {{< /warning >}}
 
-1. Ouvrez la **gestion d'équipe**.
+1. Ouvrez l'**administration d'équipe**.
 2. Cliquez sur **Abonnement**.
 3. Cliquez sur **Annuler l'abonnement et passer à SeaTable Free**.
 

@@ -3,6 +3,9 @@ title: 'IT service management with SeaTable: efficient and flexible'
 description: 'SeaTable offers you the opportunity to customize and optimize your IT service management. Use our no-code solution.'
 date: '2025-04-03'
 url: '/it-service-management'
+aliases:
+    - '/en/softwareentwicklung/'
+    - '/softwareentwicklung/'
 
 sections:
     - name: hero-5

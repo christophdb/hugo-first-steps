@@ -42,7 +42,7 @@ Ce à quoi vous devez faire attention lors de l'importation d'une base dépend d
 
 ## Importer un tableau
 
-Dans les bases existantes, vous pouvez **remplir** des **tableaux** individuels **par importation CSV ou Excel**. Pour cela, vous avez les options suivantes : Vous pouvez importer les données dans une **table existante**.
+Dans les bases existantes, vous pouvez **remplir** des **tableaux** individuels **par importation CSV ou Excel**. Pour cela, vous avez les options suivantes : Vous pouvez importer les données dans un **tableau existant**.
 
 ![Importer des données dans un tableau existant](images/Daten-in-eine-bestehende-Tabelle-importieren.png)
 

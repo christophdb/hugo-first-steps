@@ -72,7 +72,7 @@ To restore an app snapshot, click on the **three dots** and select the correspon
 
 ![Restore version of app snapshot](images/Restore-version-of-app-snapshot.png)
 
-{{< warning  headline="Attention"  text="The snapshot restore in the Universal App Builder works differently than in the Base, where the snapshot is restored in a new Base and the current version is retained. **In the Universal App Builder, however, the current version is discarded when you restore a snapshot.**" />}}
+{{< warning  headline="Attention"  text="The snapshot restore in the Universal App Builder works differently than in the base, where the snapshot is restored in a new base and the current version is retained. **In the Universal App Builder, however, the current version is discarded when you restore a snapshot.**" />}}
 
 As soon as you restore a snapshot, the app is reset to the memory status of this earlier version. Any **changes** you have made to pages, folders and settings in the app since then will be **lost**. It is therefore advisable to also save the current version in a snapshot before restoring a snapshot. This allows you to jump back and forth between different versions.
 

@@ -14,13 +14,13 @@ With SeaTable you bring more color into your daily work - especially compared to
 
 For example, you can colorize [selection options]({{< relref "help/base-editor/spaltentypen/die-einfachauswahl-spalte" >}}), [cells]({{< relref "help/base-editor/ansichten/einfaerben-von-zellen" >}}) and [buttons]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) to match your corporate design, or let your creativity run wild with the color scheme.
 
-{{< warning  headline="Important note"  text="**Only** **owners** and **administrators** can adjust the color settings of a Base that belongs to a group. Simple group members will **not** even see this option." />}}
+{{< warning  headline="Important note"  text="**Only** **owners** and **administrators** can adjust the color settings of a base that belongs to a group. Simple group members will **not** even see this option." />}}
 
 ## Add your own colors
 
 ![Adding your own color to your base](images/add-a-individual-colour-to-your-base.gif)
 
-1. Click on the **three dots** in the Base header.
+1. Click on the **three dots** in the base header.
 2. Go to **Settings**.
 3. Select the **color settings**.
 4. Under the _Custom Colors_ tab, click the **\[+\] icon**.
@@ -34,7 +34,7 @@ Colors added to a base can be **adjusted** at any time using the same method.
 
 ![Editing a custom color added to your base](images/edit-individual-colours-added-to-your-base.gif)
 
-1. Click on the **three dots** in the Base header.
+1. Click on the **three dots** in the base header.
 2. Go to **Settings**.
 3. Select the **color settings**.
 4. Under the _Custom Colors_ tab, click **Edit**.
@@ -48,7 +48,7 @@ You can **delete** colors added to a base at any time using the same method.
 
 ![Delete a custom color added to your base](images/delete-individual-colours-added-to-your-base.gif)
 
-1. Click on the **three dots** in the Base header.
+1. Click on the **three dots** in the base header.
 2. Go to **Settings**.
 3. Select the **color settings**.
 4. Under the _Custom Colors_ tab, click **Edit**.

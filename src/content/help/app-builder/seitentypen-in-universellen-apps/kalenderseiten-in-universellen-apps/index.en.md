@@ -44,13 +44,13 @@ Therefore, decide which data should be **visible** and show or hide the correspo
 
 If you have the appropriate authorization, you can **add new entries** directly on a calendar page. In the month view, click on the small **plus symbol** in the top right-hand corner of a tile. The **date of** this day is then already pre-filled.
 
-Regardless of the date, you can also click on the large **circular plus symbol** in the bottom right-hand corner of the page. A window with the **line details** will then open. Enter all the required data there and save the entry by clicking on **Send**.
+Regardless of the date, you can also click on the large **circular plus symbol** in the bottom right-hand corner of the page. A window with the **row details** will then open. Enter all the required data there and save the entry by clicking on **Send**.
 
 ![Adding a calendar entry in an app](images/Kalendereintrag-hinzufuegen.gif)
 
 ## Edit and move calendar entries
 
-You can easily edit calendar entries by **clicking on an entry** and making the desired changes in the **line details** that open. You can also conveniently move entries in the calendar **using drag-and-drop**. SeaTable automatically adjusts the values in the respective [date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
+You can easily edit calendar entries by **clicking on an entry** and making the desired changes in the **row details** that open. You can also conveniently move entries in the calendar **using drag-and-drop**. SeaTable automatically adjusts the values in the respective [date columns]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}).
 
 ![Move and edit entries on calendar pages](images/Eintraege-auf-Kalenderseiten-verschieben-und-bearbeiten.gif)
 

@@ -1,4 +1,6 @@
 ---
 title: 'События'
-url: '/ru/шаблоны/события'
+url: '/ru/shablon/meropriyatiy'
+aliases: 
+    - '/ru/шаблоны/события'
 ---

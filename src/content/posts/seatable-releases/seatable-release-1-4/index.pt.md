@@ -4,7 +4,9 @@ date: 2020-10-29
 lastmod: '2023-07-11'
 author: 'rdb'
 url: '/pt/seatable-release-1-4'
-color: '#eeeeee'
+color: '#396afc'
+categories:
+    - 'product-features'
 seo:
     title:
     description:
@@ -60,7 +62,7 @@ Mas Zapier foi apenas o primeiro passo. Os ganchos da Web, introduzidos com este
 
 Por último, mas não menos importante, a SeaTable 1.4 também oferece uma inovação para os criadores. Desta vez é uma boa notícia para os amantes de Python.
 
-SeaTable 1.3 introduziu o motor de guião de SeaTable. JavaScript era a linguagem de scripting suportada. Com SeaTable 1.4, os guiões podem agora ser desenvolvidos e executados em Python. Importe o seu script Python ou desenvolva-o directamente no SeaTables Script Editor para automatizar o processamento de dados e construir a sua aplicação personalizada. Para mais informações sobre scripts SeaTables, ver o [SeaTable Scripts Programming Manual](https://seatable.github.io/seatable-scripts/).
+SeaTable 1.3 introduziu o motor de guião de SeaTable. JavaScript era a linguagem de scripting suportada. Com SeaTable 1.4, os guiões podem agora ser desenvolvidos e executados em Python. Importe o seu script Python ou desenvolva-o directamente no SeaTables Script Editor para automatizar o processamento de dados e construir a sua aplicação personalizada. Para mais informações sobre scripts SeaTables, ver o [SeaTable Scripts Programming Manual](https://developer.seatable.com/scripts/).
 
 Spoiler: Numa das próximas versões, acrescentaremos a possibilidade de executar scripts com controlo de tempo.
 

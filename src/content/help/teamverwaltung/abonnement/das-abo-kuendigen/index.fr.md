@@ -8,13 +8,17 @@ author: 'nsc2'
 url: '/fr/aide/das-abo-kuendigen'
 ---
 
-Vous souhaitez résilier votre abonnement à SeaTable ? Utilisez pour cela l'onglet Abonnement dans la gestion d'équipe. Notez toutefois que la résiliation des abonnements existants ne prend effet qu'à la fin de la période de validité. Jusqu'à ce que cette date soit atteinte, vous pouvez encore utiliser pleinement votre abonnement résilié.
+Vous souhaitez résilier votre abonnement à SeaTable ? Utilisez pour cela l'onglet Abonnement dans l'administration d'équipe. Notez toutefois que la résiliation des abonnements existants ne prend effet qu'à la fin de la période de validité. Jusqu'à ce que cette date soit atteinte, vous pouvez encore utiliser pleinement votre abonnement résilié.
 
 ## Résilier un abonnement
 
-{{< warning  headline="Remarque importante"  text="Le pack d'abonnement de votre équipe peut être résilié uniquement par les **administrateurs de l'équipe**." />}}2. Ouvrez la **gestion d'équipe**. 3. Cliquez sur **Abonnement**. 4. Cliquez sur **"Annuler l'abonnement et passer à SeaTable Free".** 5. Votre abonnement est maintenant résilié à la **fin** de la **période** que vous avez choisie. Jusqu'à cette date, vous pouvez encore utiliser SeaTable dans son intégralité.
+{{< warning  headline="Remarque importante"  text="Le pack d'abonnement de votre équipe peut être résilié uniquement par les **administrateurs de l'équipe**." />}}
+1. Ouvrez l'**administration d'équipe**.
+2. Cliquez sur **Abonnement**.
+3. Cliquez sur **"Annuler l'abonnement et passer à SeaTable Free".**
+4. Votre abonnement est maintenant résilié à la **fin** de la **période** que vous avez choisie. Jusqu'à cette date, vous pouvez encore utiliser SeaTable dans son intégralité.
 
-![Les abonnements existants peuvent être résiliés via la gestion d'équipe.](images/Abonnement-loeschen.jpg)
+![Les abonnements existants peuvent être résiliés via l'administration d'équipe.](images/Abonnement-loeschen.jpg)
 
 ## Supprimer complètement une équipe
 

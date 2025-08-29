@@ -8,16 +8,16 @@ author: 'nsc2'
 url: '/help/seiten-und-ordner-in-einer-universellen-app-anlegen-und-verwalten'
 ---
 
-In a Universal App you can create as many **pages** and **folders** as you like to make the data in a Base accessible to a specific user group, to organize it and to present it in an appealing way. There are a variety of [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) that you already know from other places in SeaTable and can create in your Universal App with just a few clicks.
+In a Universal App you can create as many **pages** and **folders** as you like to make the data in a base accessible to a specific user group, to organize it and to present it in an appealing way. There are a variety of [page types]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) that you already know from other places in SeaTable and can create in your Universal App with just a few clicks.
 
 {{< warning  headline="Authorization required in the group"  text="To be able to edit an app, you must be the **owner** or **administrator of the group** in which the underlying **base** is located. Simple **group members** can only view and use the apps." />}}
 
 ## Create a new page in a universal app
 
-1. Open a **Base** to which you have already added a Universal App.
-2. Click **Apps** in the Base header.
+1. Open a **base** to which you have already added a Universal App.
+2. Click **Apps** in the base header.
 
-![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
+![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
 
 4. Hover your mouse over the Universal App and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 
@@ -69,10 +69,10 @@ Alternatively, you can also move pages **using drag-and-drop**. To do this, hold
 
 If there are a large number of pages, **folders** are helpful to group the pages thematically and make navigation clearer for users.
 
-1. Open a **Base** to which you have already added a Universal App.
-2. Click **Apps** in the Base header.
+1. Open a **base** to which you have already added a Universal App.
+2. Click **Apps** in the base header.
 
-![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
+![Click Apps in the base header](images/click-apps-in-the-base-header.jpg)
 
 4. Hover your mouse over the Universal App and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 

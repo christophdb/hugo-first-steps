@@ -20,13 +20,13 @@ But it is also very easy to make new entries directly **in the calendar plugin**
 
 1. Open the **calendar plugin** and select the **month** or **week** display option.
 2. Hover the mouse cursor over a **field** in the calendar and click the **plus icon** that appears in the upper right corner.
-3. Create a new entry in the **line details** and confirm by **closing** the window with {{< seatable-icon icon="dtable-icon-x" >}}.
+3. Create a new entry in the **row details** and confirm by **closing** the window with {{< seatable-icon icon="dtable-icon-x" >}}.
 
 {{< warning  headline="Note"  text="This function only exists for the **month** and **week** display options." />}}
 
 ### Create new entries by double-clicking
 
-Make a selection in the daily, weekly or monthly overview. **Double click** to a place in the calendar and the **Line details** will also open. Otherwise, create the entry in the same way as described in the instructions above.
+Make a selection in the daily, weekly or monthly overview. **Double click** to a place in the calendar and the **row details** will also open. Otherwise, create the entry in the same way as described in the instructions above.
 
 {{< warning  headline="Note"  text="The double-click only works for the **month**, **week** and **day** display options." />}}
 
@@ -34,7 +34,7 @@ Make a selection in the daily, weekly or monthly overview. **Double click** to a
 
 ### Create new entries using the large plus symbol
 
-At the bottom right-hand edge is a **Large plus symbol in an orange circle**. If you click on it, the **Line details** as well. Otherwise, create the entry in the same way as described in the instructions above.
+At the bottom right-hand edge is a **Large plus symbol in an orange circle**. If you click on it, the **row details** as well. Otherwise, create the entry in the same way as described in the instructions above.
 
 {{< warning  headline="Note"  text="This function is available for **all** display options in the calendar." />}}
 

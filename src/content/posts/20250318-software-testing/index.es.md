@@ -10,7 +10,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Procesos informáticos'
-    - 'Trabajo colaborativo'
+    - 'Trabajo en colaboración'
     - 'Herramientas y plugins'
 color: '#79b9e9'
 url: '/es/software-testing'

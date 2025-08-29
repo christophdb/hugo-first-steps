@@ -142,6 +142,9 @@ price_table:
 help_area:
     category: 'Catégorie'
     section: 'Section'
+    available_with: 'Disponible avec'
+    toc: 'Table des matières'
+    more_articles: 'Plus d’articles dans cette catégorie'
 
 templates:
     all: 'Tous les modèles'

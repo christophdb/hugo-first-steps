@@ -1,7 +1,9 @@
 ---
 title: 'Управление событиями'
 description: ''
-url: '/ru/шаблон/event-management'
+url: '/ru/shablon/organizatsii-meropriyatiy'
+aliases: 
+    - '/ru/шаблон/event-management'
 category: 'ereignisse'
 functions:
 seo:

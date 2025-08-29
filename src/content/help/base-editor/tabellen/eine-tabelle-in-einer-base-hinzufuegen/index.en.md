@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/help/eine-tabelle-in-einer-base-hinzufuegen'
 ---
 
-Bases consist of one or more tables, which in turn can hold very different data and link to each other. A base can contain **up to 200 tables**. For the sake of clarity, however, you should consider splitting the tables into several bases and synchronizing the data with the [Shared Data Sets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) function if you have more than 20 tables.
+Bases consist of one or more tables, which in turn can hold very different data and link to each other. A base can contain **up to 200 tables**. For the sake of clarity, however, you should consider splitting the tables into several bases and synchronizing the data with the [common datasets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) function if you have more than 20 tables.
 
 ## Add a table in a base
 
@@ -22,17 +22,17 @@ Bases consist of one or more tables, which in turn can hold very different data 
 
 ## Import table from a file
 
-Alternatively, you can also import tables from **files** into your Base. The import takes place as a [CSV file]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#tabelle_importieren).
+Alternatively, you can also import tables from **files** into your base. The import takes place as a [CSV file]({{< relref "help/startseite/import-von-daten/datenimport-und-export" >}}#tabelle_importieren).
 
 ![Import table from a file](images/import-data-in-table.jpg)
 
 ## Import table from another base
 
-In SeaTable, [Bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) are basically separate entities, but it is not uncommon to need data in another Base as well. Instead of having to export a table from one base and import it into the desired base, SeaTable offers the convenient option of **importing** tables **directly** from other bases and thus transferring data across base boundaries.
+In SeaTable, [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}) are basically separate entities, but it is not uncommon to need data in another base as well. Instead of having to export a table from one base and import it into the desired base, SeaTable offers the convenient option of **importing** tables **directly** from other bases and thus transferring data across base boundaries.
 
 ![Importing a table from another base](images/import-table-from-other-base.gif)
 
-[Shared records]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) also allow you to share a master table in a group and use and synchronize the table offshoots in different bases. You can learn more about this [here]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}).
+[Common datasets]({{< relref "help/startseite/gemeinsame-datensaetze/funktionsweise-von-gemeinsamen-datensaetzen" >}}) also allow you to share a master table in a group and use and synchronize the table offshoots in different bases. You can learn more about this [here]({{< relref "help/startseite/gemeinsame-datensaetze/mit-einem-gemeinsamen-datensatz-eine-neue-tabelle-anlegen" >}}).
 
 ## Keep the overview
 

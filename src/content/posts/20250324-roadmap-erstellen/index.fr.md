@@ -67,7 +67,7 @@ Pour que votre projet soit aussi efficace que possible, vous devez impliquer les
 
 La structure de la feuille de route vous permet de déterminer comment vous souhaitez atteindre votre objectif. Le point de départ devrait toujours être l'état actuel. En règle générale, une roadmap visualise ensuite les **tâches principales** nécessaires pour atteindre l'objectif. Ce faisant, vous placez les étapes dans un **ordre chronologique logique**. Le niveau de détail souhaité détermine le nombre d'étapes intermédiaires et de tâches partielles que vous souhaitez consigner.
 
-Conseil : pour la planification détaillée de votre projet, il est préférable d'utiliser un organigramme technique de projet, qui peut être étendu à volonté.
+Conseil : pour la planification détaillée de votre projet, il est préférable d'utiliser un [organigramme technique de projet]({{< relref "posts/20250317-projektstrukturplan" >}}), qui peut être étendu à volonté.
 
 ### 5. établir la feuille de route
 
@@ -75,7 +75,7 @@ Vous devriez maintenant avoir réuni les informations les plus importantes pour 
 
 Pour vous faciliter la tâche, différents services mettent à votre disposition des **modèles de feuilles de route** prêts à l'emploi qu'il ne vous reste plus qu'à remplir individuellement.
 
-**6\. Mises à jour et communication régulières**.
+### 6. Mises à jour et communication régulières
 
 Quel que soit le type de roadmap que vous avez choisi, vous devez régulièrement mettre à jour vos **progrès** et les **modifications éventuelles**. Par exemple, de nouvelles tâches peuvent être ajoutées ou leur mise en œuvre peut être retardée. Les changements de stratégie, en particulier, entraînent des adaptations importantes de votre feuille de route. Veillez à communiquer rapidement et largement les effets des mises à jour afin que toutes les parties prenantes soient toujours au courant.
 
@@ -103,7 +103,7 @@ En outre, un bon outil doit permettre plusieurs types de représentation, comme 
 
 Et une fois que vous avez trouvé le bon outil, vous pouvez facilement créer la feuille de route optimale et l'utiliser comme modèle à plusieurs reprises.
 
-¡[Personnaliser la feuille de route en fonction des besoins](Schluesselfunktionen-zur-Hand-haben.jpg)
+![Personnaliser la feuille de route en fonction des besoins](Schluesselfunktionen-zur-Hand-haben.jpg)
 
 ## Trouver la bonne feuille de route
 
@@ -117,7 +117,7 @@ Si vous cherchez un modèle qui vous permette de consigner plus facilement les r
 
 ### Feuille de route stratégique
 
-Vous êtes directeur ou membre du conseil d'administration et vous souhaitez expliquer à vos collaborateurs ou à d'autres parties prenantes la **vision globale** de l'entreprise de manière claire et accessible ? Une feuille de route stratégique, qui présente de nombreuses similitudes avec un business plan, est alors l'outil de choix. Elle vous permet d'illustrer vos objectifs à court et à long terme (par exemple en matière de marketing et de vente), de rendre la planification financière et toutes les mesures nécessaires à la réalisation de la vision d'entreprise accessibles en un coup d'œil.
+Vous êtes directeur ou membre du conseil d'administration et vous souhaitez expliquer à vos collaborateurs ou à d'autres parties prenantes la **vision globale** de l'entreprise de manière claire et accessible ? Une feuille de route stratégique, qui présente de nombreuses similitudes avec un business plan, est alors l'outil de choix. Elle vous permet d'illustrer vos objectifs à court et à long terme (par exemple en matière de [marketing]({{< relref "pages/industry-solutions/marketing" >}}) et de vente), de rendre [la planification financière]({{< relref "posts/20250617-finanzplanung" >}}) et toutes les mesures nécessaires à la réalisation de la vision d'entreprise accessibles en un coup d'œil.
 
 Le modèle de SeaTable illustre clairement tous les processus importants. Vous pouvez les adapter à votre entreprise.
 
@@ -142,8 +142,6 @@ Les feuilles de route intégrées se composent de plusieurs thèmes individuels,
 Dans cette forme, tous les départements de l'entreprise sont considérés comme un tout. Les processus de technologie, de produit, de marketing et de vente sont mis en relation et évalués dans le contexte global de l'entreprise.
 
 Ce faisant, vous pouvez relier les processus déjà existants aux nouvelles technologies et aux nouveaux produits et les améliorer. Le roadmapping vous permet en outre de repérer les lacunes et de stimuler l'innovation.
-
-¡[Créer une roadmap d'entreprise](Roadmap-in-6-Schritten.jpg)
 
 ## Utiliser des modèles de roadmap en ligne
 

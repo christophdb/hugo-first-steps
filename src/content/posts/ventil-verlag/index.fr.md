@@ -6,7 +6,7 @@ categories:
 tags:
     - 'Gestion des données & visualisation'
     - 'Travail collaboratif'
-    - 'Quand Excel ne fait plus le poids...'
+    - 'Quand Excel ne fait plus le poids'
 date: 2021-01-27
 lastmod: '2023-07-11'
 author: 'cdb'

@@ -6,8 +6,8 @@ url: '/de/vorlage/festival-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Kostenlose Vorlage für die Festival-Planung '
+    description: 'Nutzen Sie eine Vorlage für Ihre Festival-Planung - von der Packliste bis zum Festival-Line-Up. So wird Ihr Festivalbesuch ein Erfolg'
 template: '1aa1f7e441554bf6887b'
 ---
 
@@ -15,7 +15,7 @@ Egal, ob Sie sich auf das nächste Coachella Festival, Tomorrowland oder Wacken 
 
 Die Line-up-Tabelle bietet nicht nur Informationen zu den Live-Acts und Bühnen, sondern ermöglicht es auch die Vorlieben Ihrer Freunde zu berücksichtigen, damit Sie gemeinsam den besten Zeitplan erstellen können. So können Sie sehen, welche Acts Ihre Freunde sehen möchten, und sicherstellen, dass Sie keine Ihrer Lieblingskünstler verpassen.
 
-Die gemeinsame Packliste ermöglicht es Ihnen und Ihren Freunden in Zukunft nichts mehr zu vergessen. Von Camping-Ausrüstung bis hin zu Verpflegung können Sie gemeinsam alle Essentials organisieren und sicherstellen, dass Sie für jedes Szenario gewappnet sind.
+Die gemeinsame Packliste fürs Festival ermöglicht es Ihnen und Ihren Freunden in Zukunft nichts mehr zu vergessen. Von Camping-Ausrüstung bis hin zu Verpflegung können Sie gemeinsam alle Essentials organisieren und sicherstellen, dass Sie für jedes Szenario gewappnet sind.
 
 Also schnappen Sie sich Ihre Freunde, bereiten Sie sich vor und tauchen Sie ein in die unvergessliche Welt der Musikfestivals!
 

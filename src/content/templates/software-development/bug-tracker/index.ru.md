@@ -2,7 +2,9 @@
 title: 'Отслеживание ошибок'
 description: ''
 date: '2025-01-09'
-url: '/ru/шаблон/bug-tracker'
+url: '/ru/shablon/bag-treker'
+aliases:
+    - '/ru/шаблон/bug-tracker'
 category: 'software-development'
 functions:
 seo:

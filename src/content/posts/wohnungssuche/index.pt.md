@@ -41,7 +41,7 @@ Para convencer o seu futuro senhorio dos seus méritos, é necessário causar um
 O índice de rendas continua a aumentar, tornando difícil para muitas pessoas encontrar habitação a preços acessíveis. Quando as coisas ficam realmente apertadas do ponto de vista financeiro, há algumas ajudas estatais disponíveis para apoiar as pessoas com baixos rendimentos.
 
 - O **certificado de elegibilidade** confirma que o inquilino tem direito a mudar-se para um apartamento subsidiado pelo Estado. No entanto, para obter o certificado, o inquilino deve preencher determinados critérios. Por exemplo, não deve ultrapassar um determinado limite de rendimentos. A sua autarquia local esclarecerá se tem direito a este certificado.
-- **O subsídio de habitação** é um subsídio de renda para agregados familiares com baixos rendimentos. O Ministério Federal da Habitação, do Desenvolvimento Urbano e da Construção disponibiliza em linha uma [calculadora do subsídio de](https://www.bmwsb.bund.de/Webs/BMWSB/DE/themen/wohnen/wohnraumfoerderung/wohngeld/wohngeldrechner-2023-artikel.html;jsessionid=6DD0480874498C458F1FA626537143D2.live861) habitação, que pode utilizar para verificar se tem direito ao mesmo. Também pode requerer o subsídio de alojamento junto da sua autarquia local.
+- **O subsídio de habitação** é um subsídio de renda para agregados familiares com baixos rendimentos. O Ministério Federal da Habitação, do Desenvolvimento Urbano e da Construção disponibiliza em linha uma calculadora do subsídio de habitação, que pode utilizar para verificar se tem direito ao mesmo. Também pode requerer o subsídio de alojamento junto da sua autarquia local.
 
 ![Nascer do sol sobre os arranha-céus](Bild-von-Freepik_9328139-711x711.jpg)
 

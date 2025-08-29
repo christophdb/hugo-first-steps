@@ -1,5 +1,5 @@
 ---
-title: 'How do I find missing data in a Base?'
+title: 'How do I find missing data in a base?'
 date: 2023-03-21
 lastmod: '2023-03-21'
 categories:
@@ -16,15 +16,15 @@ If this is not the case, next look at the [activity log]({{< relref "help/base-e
 
 If you or your team members have accidentally deleted certain items in SeaTable, you can restore them in several ways.
 
-## Restore tables, columns and rows from Base Recycle Bin
+## Restore tables, columns and rows from base trash
 
-You can restore entire tables or individual columns and rows at any time via the recycle bin in a base.
+You can restore entire tables or individual columns and rows at any time via the trash in a base.
 
 Learn more about restoring tables, columns and rows[here]({{< relref "help/base-editor/tabellen/eine-geloeschte-tabelle-wiederherstellen" >}}).
 
-## Restore deleted bases from the recycle bin
+## Restore deleted bases from the trash
 
-Deleted bases can be restored via the recycle bin on the start page. Please note that this is only possible until the 30th day after the deletion.
+Deleted bases can be restored via the trash on the start page. Please note that this is only possible until the 30th day after the deletion.
 
 Learn more about base recovery [here]({{< relref "help/startseite/papierkorb/eine-geloeschte-base-wiederherstellen" >}}).
 

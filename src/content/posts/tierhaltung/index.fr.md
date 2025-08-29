@@ -5,9 +5,10 @@ date: 2024-01-30
 categories:
     - 'best-practice'
 tags:
-    - 'Vie Quotidiennex'
+    - 'Vie Quotidienne'
+URL: '/fr/elevage-animaux'
 aliases:
-    - /fr/to-do-liste-online
+    - '/fr/tierhaltung/'
 color: '#f5c119'
 seo:
     title:

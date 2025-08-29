@@ -6,7 +6,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Gestion du personnel'
-url: '/fr/suivi-temps-travail'
+url: '/fr/suivi-temps-employes'
 aliases:
     - /fr/arbeitszeiterfassung
 color: '#fdd5d4'

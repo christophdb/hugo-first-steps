@@ -1,7 +1,10 @@
 ---
 title: 'Contact'
 date: '2025-04-03'
-url: '/ru/kонтакты'
+url: '/ru/o-nas'
+aliases:
+    - '/ru/contact/'
+    - '/ru/kонтакты'
 
 sections:
     - name: form-contact

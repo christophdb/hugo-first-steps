@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/duplizieren-einer-tabelle'
 ---
 
-Do you need a table in your Base several times in a slightly modified form? Then you can duplicate it with just a few mouse clicks. It's that simple:
+Do you need a table in your base several times in a slightly modified form? Then you can duplicate it with just a few mouse clicks. It's that simple:
 
 1. In the base header, you will find all the tables in the base displayed as **tabs** at the top left.
 2. Click on the **drop-down icon** next to **the name of the table** you wish to duplicate.

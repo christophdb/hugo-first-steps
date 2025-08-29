@@ -8,7 +8,7 @@ date: 2025-03-17
 categories:
     - 'best-practice'
 tags:
-    - 'Candidatos y gestión del talento'
+    - 'Gestión de candidatos y talentos'
 color: '#d4a2ee'
 url: '/es/recruiting'
 ---

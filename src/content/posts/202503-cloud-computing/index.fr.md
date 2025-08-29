@@ -7,7 +7,7 @@ seo:
 categories:
     - 'best-practice'
 tags:
-    - 'Transformation digitale'
+    - 'Transformation numérique'
     - 'Sécurité informatique'
     - 'gestion des données & visualisation'
 date: 2025-04-01

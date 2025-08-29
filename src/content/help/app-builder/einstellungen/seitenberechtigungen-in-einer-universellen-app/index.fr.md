@@ -18,13 +18,13 @@ Pour contrôler précisément l'**accès à vos données**, vous pouvez définir
 
 1. Ouvrez une **base** à laquelle vous avez déjà ajouté une application universelle.
 2. Cliquez sur **Apps** dans l'en-tête de la base.
-![Cliquez sur Apps dans l'en-tête de base](images/click-apps-in-the-base-header.jpg)
+   ![Cliquez sur Apps dans l'en-tête de base](images/click-apps-in-the-base-header.jpg)
 3. Passez la souris sur l'application universelle et cliquez sur l'**icône en forme de crayon** {{< seatable-icon icon="dtable-icon-rename" >}}.
-![Cliquez sur l'icône d'édition](images/add-page-to-universal-app-1.png)
+   ![Cliquez sur l'icône d'édition](images/add-page-to-universal-app-1.png)
 4. Sélectionnez la **page** souhaitée dans la navigation sur le bord gauche de la page et cliquez sur l'**icône en forme de roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}}.
-![Clique sur l'icône d'édition](images/page-permissions-universal-app.png)
+   ![Clique sur l'icône d'édition](images/page-permissions-universal-app.png)
 5. Définissez les **autorisations** souhaitées dans les **paramètres de page** apparaissant sur le bord droit de la page.
-![Définition des autorisations des pages](images/page-permissions.png)
+   ![Définition des autorisations des pages](images/page-permissions.png)
 6. Les autorisations de pages définies sont **automatiquement** enregistrées et **immédiatement** appliquées.
 
 ## Quelles sont les autorisations de page ?
@@ -32,23 +32,23 @@ Pour contrôler précisément l'**accès à vos données**, vous pouvez définir
 Vous pouvez définir les autorisations de page suivantes :
 
 - Qui peut ajouter des lignes ?
-- Qui peut modifier les lignes ?
+- Qui peut modifier des lignes ?
 - Qui peut supprimer des lignes ?
 - Qui peut voir la page ?
 
 Toutes les autorisations de pages ne sont pas disponibles pour tous les [types de pages]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}). Jetez un coup d'œil à cette vue d'ensemble :
 
-| Page type                             | Add records                                                     | Modify records                                                  | Delete records                                                  | View page                                                       |
-| ------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------- |
-| Table page                            | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Form page                             | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Gallery page                          | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Calendar page                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Custom page                           | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Kanban page                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Timeline page                         | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Query page                            | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Single record page                    | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Type de page          | Ajouter des lignes                                            | Modifier des lignes                                           | Supprimer des lignes                                          | Voir la page                                                  |
+| --------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| Tableau               | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Formulaire            | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Galerie               | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Calendrier            | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Dashboard             | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Kanban                | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Chronologie           | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Requête               | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Enregistrement unique | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 
 ## Quels groupes d'utilisateurs vous pouvez autoriser
 

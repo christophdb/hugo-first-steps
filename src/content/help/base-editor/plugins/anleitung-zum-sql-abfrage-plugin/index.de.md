@@ -46,4 +46,4 @@ Nach der Eingabe des Befehls werden **alle** Einträge aus der Tabelle **Time** 
 
 ## Übersicht über die unterstützten SQL-Befehle
 
-SeaTable unterstützt nicht alle, aber einen Großteil der SQL-Befehle. Eine vollständige Liste und weitere Details finden Sie im [SeaTable Programming Manual](https://seatable.github.io/seatable-scripts/python/sql/).
+SeaTable unterstützt nicht alle, aber einen Großteil der SQL-Befehle. Eine vollständige Liste und weitere Details finden Sie im [SeaTable Programming Manual](https://developer.seatable.com/scripts/).

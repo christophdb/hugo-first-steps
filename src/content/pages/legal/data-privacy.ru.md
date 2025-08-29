@@ -4,6 +4,8 @@ description: ''
 date: 2022-11-03
 type: 'legal'
 url: '/ru/zashchita-dannykh'
+aliases:
+    - '/ru/data-privacy/'
 ---
 
 Version 1.3.0 from November 3, 2022

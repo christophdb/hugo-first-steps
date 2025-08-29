@@ -2,7 +2,9 @@
 title: 'Регистрация гостей'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/guest-registration'
+url: '/ru/shablon/registratsii-gostey'
+aliases:
+    - '/ru/шаблон/guest-registration'
 category: 'healthcare'
 functions:
 seo:

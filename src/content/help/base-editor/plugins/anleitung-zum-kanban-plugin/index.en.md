@@ -10,7 +10,7 @@ url: '/help/anleitung-zum-kanban-plugin'
 
 A **Kanban board** can be useful to represent dynamic processes with different phases. In this respect, it allows you to visualize **workflows** and **project progress**, for example. This is particularly helpful for project planning, product development or task distribution **in the team**.
 
-Good that SeaTable offers you all these possibilities with the **Kanban plugin**. You can learn how to activate the plugin in a Base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
+Good that SeaTable offers you all these possibilities with the **Kanban plugin**. You can learn how to activate the plugin in a base [here]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}).
 
 ## Structure of the Kanban board
 
@@ -35,9 +35,9 @@ Via the **settings**, which you can reach by clicking on the **gear icon** {{< s
 
 ### Table and view
 
-If you have several **Tables** and **Views** created in your Base, you can choose from them.
+If you have several **Tables** and **Views** created in your base, you can choose from them.
 
-{{< warning  headline="Multiple Kanban boards"  text="You can also create **multiple Kanban boards** in a Base if you have either created **multiple tables**, **multiple views of** a table, or want to group by **different columns**." />}}
+{{< warning  headline="Multiple Kanban boards"  text="You can also create **multiple Kanban boards** in a base if you have either created **multiple tables**, **multiple views of** a table, or want to group by **different columns**." />}}
 
 ### Grouping
 
@@ -57,7 +57,7 @@ The entries in the column you specify under **Title** determine the **heading of
 ![Kanban plugin more settingne](images/weitere-einsellungen-kanban.png)  
 Here all **Columns** that you have created in your table. By activating the individual **Controller** the entries in the respective columns become visible as informative notes on the cards.
 
-{{< warning  headline="Note"  text="Open the **line details** by clicking on a card to see all information of a row , even if they are not activated in the Kanban board." />}}
+{{< warning  headline="Note"  text="Open the **row details** by clicking on a card to see all information of a row , even if they are not activated in the Kanban board." />}}
 
 ### Controller options
 

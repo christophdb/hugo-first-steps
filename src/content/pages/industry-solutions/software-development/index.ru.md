@@ -2,9 +2,10 @@
 title: 'Управление ИТ-услугами с помощью SeaTable: эффективность и гибкость'
 description: 'SeaTable предлагает вам возможность настроить и оптимизировать управление ИТ-услугами. Используйте наше бескодовое решение.'
 date: '2025-04-03'
-url: '/ru/управление-it-услугами'
+url: '/ru/upravlenie-it-uslugami'
 aliases: 
-  - '/ru/it-service-management'
+  - '/ru/it-service-management/'
+  - '/ru/управление-it-услугами/'
 
 sections:
     - name: hero-5

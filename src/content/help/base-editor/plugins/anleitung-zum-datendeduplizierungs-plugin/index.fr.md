@@ -18,7 +18,7 @@ Consultez l'article [Activer un plugin dans une base]({{< relref "help/base-edit
 
 ![Sélection du tableau, de la vue du tableau et des colonnes du tableau à vérifier pour les entrées en double ](images/select-data-to-get-checked-on-double-entries.png)
 
-3. Sélectionnez la **table** et la **vue** à vérifier, ainsi que la ou les **colonnes** à vérifier pour les entrées en double.
+3. Sélectionnez le **tableau** et la **vue** à vérifier, ainsi que la ou les **colonnes** à vérifier pour les entrées en double.
 
 Lors de chaque vérification, vous pouvez n'afficher que les entrées en double dans **une** vue de tableau, mais vérifier **plusieurs colonnes** à la fois.
 

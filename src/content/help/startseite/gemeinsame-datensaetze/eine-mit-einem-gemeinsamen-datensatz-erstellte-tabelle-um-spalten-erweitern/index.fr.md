@@ -1,5 +1,5 @@
 ---
-title: 'Ajouter des colonnes à une table créée avec un enregistrement commun'
+title: 'Ajouter des colonnes à un tableau créé avec un jeu de données commun'
 date: 2022-12-15
 lastmod: '2024-06-12'
 categories:
@@ -8,23 +8,23 @@ author: 'nsc2'
 url: '/fr/aide/eine-mit-einem-gemeinsamen-datensatz-erstellte-tabelle-um-spalten-erweitern'
 ---
 
-Les tableaux que vous avez créés avec un ensemble de données commun contiennent au départ toutes les colonnes et lignes qui se trouvent également dans la vue tableau de l'ensemble de données commun. En outre, vous avez bien entendu la possibilité d'ajouter **de nouvelles colonnes** à ces tableaux et de les remplir avec vos propres données. L'avantage : les données des colonnes qui ne sont pas liées à l'ensemble de données commun ne sont **pas écrasées** lors de la [synchronisation]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
+Les tableaux que vous avez créés avec un jeu de données commun contiennent au départ toutes les colonnes et lignes qui se trouvent également dans la vue tableau du jeu de données commun. En outre, vous avez bien entendu la possibilité d'ajouter **de nouvelles colonnes** à ces tableaux et de les remplir avec vos propres données. L'avantage : les données des colonnes qui ne sont pas liées au jeu de données commun ne sont **pas écrasées** lors de la [synchronisation]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}).
 
-Cette fonction permet d'utiliser des ensembles de données communs, par exemple, par plusieurs services et groupes de collaborateurs d'une entreprise dans les contextes les plus divers.
+Cette fonction permet d'utiliser des jeux de données communs, par exemple, par plusieurs services et groupes de collaborateurs d'une entreprise dans les contextes les plus divers.
 
-## Ajouter des colonnes à une table créée avec un enregistrement commun
+## Ajouter des colonnes à un tableau créé avec un jeu de données commun
 
 L'ajout de colonnes fonctionne **de la même manière que pour les tableaux habituels**. Vous trouverez [ici]({{< relref "help/base-editor/spalten/hinzufuegen-einer-spalte" >}}) des instructions détaillées pour cliquer.
 
-![Ajouter des colonnes à une table créée avec un enregistrement commun](images/add-a-column-to-a-table-created-with-a-common-dataset.png)
+![Ajouter des colonnes à un tableau créé avec un jeu de données commun](images/add-a-column-to-a-table-created-with-a-common-dataset.png)
 
-## Verrouillage des colonnes de l'ensemble de données commun
+## Verrouillage des colonnes du jeu de données commun
 
-Il **convient d'être prudent** lors de la modification des colonnes d'un ensemble de données commun. Si vous effectuez des modifications dans des colonnes contenant des données d'un ensemble de données commun, celles-ci seront **écrasées** lors de la prochaine [synchronisation de l'ensemble de données]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) et seront donc **perdues**.
+Il **convient d'être prudent** lors de la modification des colonnes d'un jeu de données commun. Si vous effectuez des modifications dans des colonnes contenant des données d'un jeu de données commun, celles-ci seront **écrasées** lors de la prochaine [synchronisation]({{< relref "help/startseite/gemeinsame-datensaetze/synchronisation-eines-gemeinsamen-datensatzes" >}}) et seront donc **perdues**.
 
-Afin de garantir un flux de travail optimal et d'éviter aussi bien une perte de données que des malentendus lors de la collaboration, il est recommandé de **bloquer** pour l'édition toutes les **colonnes** qui contiennent des données d'un **enregistrement commun**. En revanche, les colonnes supplémentaires ajoutées **individuellement** peuvent être modifiées à volonté.
+Afin de garantir un flux de travail optimal et d'éviter aussi bien une perte de données que des malentendus lors de la collaboration, il est recommandé de **bloquer** pour l'édition toutes les **colonnes** qui contiennent des données d'un **jeu de données commun**. En revanche, les colonnes supplémentaires ajoutées **individuellement** peuvent être modifiées à volonté.
 
-![Verrouillage des colonnes de l'ensemble de données commun](images/how-to-lock-columns-of-a-common-dataset.gif)
+![Verrouillage des colonnes du jeu de données commun](images/how-to-lock-columns-of-a-common-dataset.gif)
 
 1. Cliquez sur l'**icône triangulaire** d'une colonne dont vous souhaitez bloquer l'édition.
 2. Cliquez sur **Modifier les autorisations de colonne**.
@@ -35,4 +35,4 @@ Vous pouvez limiter individuellement l'édition de chaque colonne, de sorte que 
 
 Un blocage de la colonne empêche en principe l'**édition des cellules**. Pour certains types de colonnes, comme par exemple la sélection **simple** ou **multiple**, il est en outre possible de restreindre la **création d'options**.
 
-![Colonne d'un ensemble de données commun bloquée pour modification (à gauche) et colonne modifiable nouvellement ajoutée à un ensemble de données commun (à droite)](images/locked-column-and-regular-column-2.png)
+![Colonne d'un jeu de données commun bloquée pour modification (à gauche) et colonne modifiable nouvellement ajoutée à un jeu de données commun (à droite)](images/locked-column-and-regular-column-2.png)

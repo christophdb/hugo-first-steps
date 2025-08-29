@@ -18,7 +18,7 @@ Grâce à l'[automatisation]({{< relref "help/base-editor/automationen/uebersich
 2. Cliquez sur **Ajouter une règle**.
 3. Donnez un **nom** à l'automatisation et définissez le **tableau** et la **vue** dans lesquels elle doit agir.
 4. Définir l'**événement déclencheur** qui déclenchera l'automatisation.
-5. Cliquez sur **Ajouter une action** et sélectionnez **Ajouter une nouvelle entrée dans une autre table** comme action automatisée.
+5. Cliquez sur **Ajouter une action** et sélectionnez **Ajouter une nouvelle entrée dans un autre tableau** comme action automatisée.
 6. Définissez le **tableau** dans lequel l'entrée doit être insérée, ainsi que les **champs** pré-remplis.
 7. Confirmez en cliquant sur **Envoyer**.
 
@@ -36,7 +36,7 @@ Sélectionnez ensuite **Ajouter une nouvelle entrée dans un autre tableau** com
 
 L'étape suivante consiste à sélectionner le **tableau** dans lequel l'entrée doit être ajoutée après le déclenchement du trigger.
 
-![Sélection de la table dans laquelle l'entrée doit être ajoutée après le déclenchement du trigger](images/select-table-to-add-entry-after-automation-example-1.png)
+![Sélection du tableau dans laquelle l'entrée doit être ajoutée après le déclenchement du trigger](images/select-table-to-add-entry-after-automation-example-1.png)
 
 Cliquez ensuite sur **Ajouter un champ** pour sélectionner les colonnes pour lesquelles vous souhaitez définir des valeurs fixes dans la nouvelle entrée.
 
@@ -64,7 +64,7 @@ Dans un autre tableau ("Order-Status-Log"), vous souhaitez également voir les d
 
 ![Tableau dans lequel les dates du dernier changement de statut sont automatiquement relevées](images/table-order-status-log.png)
 
-A l'aide d'une automatisation, chaque fois que vous modifiez le **statut** d'une commande dans la table "Order", le **moment** du changement de statut doit être ajouté dans la colonne "last status change" de la table "Order-Status-Log". De plus, l'automatisation permet d'ajouter automatiquement les **numéros de commande** et **les montants** dans le tableau "Order-Status-Log".
+A l'aide d'une automatisation, chaque fois que vous modifiez le **statut** d'une commande dans le tableau "Order", le **moment** du changement de statut doit être ajouté dans la colonne "last status change" du tableau "Order-Status-Log". De plus, l'automatisation permet d'ajouter automatiquement les **numéros de commande** et **les montants** dans le tableau "Order-Status-Log".
 
 ### Création de l'automation
 
@@ -84,7 +84,7 @@ Comme **action automatisée**, vous définissez l'action **Ajouter une nouvelle 
 
 ![Sélection de l'action automatisée](images/add-action-example2.png)
 
-Dans l'étape suivante, sélectionnez la **table**"Journal des statuts des ordres" comme table dans laquelle le moment du changement de statut sera ajouté après le déclenchement de l'automatisation.
+Dans l'étape suivante, sélectionnez le **tableau** "Journal des statuts des ordres" comme tableau dans lequel le moment du changement de statut sera ajouté après le déclenchement de l'automatisation.
 
 ![Sélection du tableau dans lequel les entrées sont ajoutées lors du déclenchement de l'automatisation](images/select-table-to-put-in-entries-after-automation.png)
 

@@ -36,7 +36,7 @@ Prenez quelques minutes pour explorer les possibilités du plug-in. Essayez par 
 
 Si vous cliquez sur `{{< seatable-icon icon="dtable-icon-download" >}} PDF` le PDF généré est enregistré sur votre PC.
 
-{{< warning  headline="Les modèles se réfèrent toujours à un tableau"  text="Lors de la création d'un nouveau modèle, les données ne peuvent être utilisées qu'à partir d'une seule table. Si vous avez besoin de données provenant d'une colonne liée, vous devez les inclure via des colonnes de consultation. C'est la raison pour laquelle, dans la table `Registrations` il existe trois colonnes de recherche masquées. Ces colonnes ne sont nécessaires que pour le plug-in de conception de page et peuvent donc rester masquées." />}}
+{{< warning  headline="Les modèles se réfèrent toujours à un tableau"  text="Lors de la création d'un nouveau modèle, les données ne peuvent être utilisées qu'à partir d'un seul tableau. Si vous avez besoin de données provenant d'une colonne liée, vous devez les inclure via des colonnes de consultation. C'est la raison pour laquelle, dans le tableau `Registrations` il existe trois colonnes de recherche masquées. Ces colonnes ne sont nécessaires que pour le plug-in de conception de page et peuvent donc rester masquées." />}}
 
 ### Envoi par e-mail
 

@@ -20,7 +20,7 @@ Die Finanzplanung im Unternehmen beschäftigt sich mit der systematischen **Erfa
 ## Die wichtigsten Vorteile und Ziele der Finanzplanung
 
 - **Liquidität sicherstellen**: Sie sollten jederzeit über ausreichende Einnahmen und Vermögenswerte verfügen, mit denen Sie Ihre Fixkosten decken und Ihren Zahlungsverpflichtungen nachkommen können.
-- **Budgets und Investitionen planen**: Klären Sie, wie viel Geld Sie benötigen, um Ihre Unternehmensziele zu erreichen, und woher das Geld kommen soll. So schaffen Sie eine fundierte Entscheidungsgrundlage für Budgets und Investitionen.
+- **Budgets und Investitionen planen**: Klären Sie, wie viel Geld Sie benötigen, um Ihre Unternehmensziele zu erreichen, und woher das Geld kommen soll. So schaffen Sie eine fundierte Entscheidungsgrundlage für [Budgetplanung]({{< relref "posts/20250606-budgetplanung" >}}) und Investitionen.
 - **Rentabilität erhöhen**: Die Finanzplanung hilft Ihren Gewinn zu steigern sowie das eingesetzte Kapital und die Kosten zu reduzieren, um die Wirtschaftlichkeit Ihres Unternehmens zu verbessern.
 - **Risiken minimieren**: Durch regelmäßiges Controlling der Finanzkennzahlen erkennen Sie frühzeitig Kostensteigerungen, Umsatzeinbrüche und anstehende Zahlungen. Kalkulieren Sie stets Reserven ein, um auf Liquiditätsengpässe vorbereitet zu sein.
 - **Vertrauen schaffen**: Mit einer durchdachten Finanzplanung beweisen Sie, dass Sie kompetent mit Geld umgehen können. Dies erhöht Ihre Kreditwürdigkeit bei Banken und stärkt das Vertrauen Ihrer Mitarbeiter und Stakeholder.
@@ -35,12 +35,12 @@ Die Aufgaben der Finanzplanung lassen sich in verschiedene Phasen einteilen:
 Als Erstes erfassen Sie alle Vermögenswerte und Verbindlichkeiten sowie die Einnahmen und Ausgaben Ihres Unternehmens, die sich auch im Jahresabschluss niederschlagen. Indem Sie einen Überblick über die aktuelle finanzielle Situation gewinnen, können Sie Prognosen für den Cashflow ableiten, die Liquidität einschätzen und die bestehende Finanzierung (z. B. Kredite, Eigenkapital) hinterfragen.
 
 ### 2. Planungsphase (Erstellung des Finanzplans)
-In der zentralen Phase der Finanzplanung nutzen Sie die ermittelten Daten aus der Analysephase, um vorausschauend Ihren Finanzplan zu erstellen. Dieser lässt sich in mehrere Bereiche unterteilen:
+In der zentralen Phase der Finanzplanung nutzen Sie die ermittelten Daten aus der Analysephase, um vorausschauend Ihren [Finanzplan zu erstellen]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}). Dieser lässt sich in mehrere Bereiche unterteilen:
 - **Umsatzplanung**: Wie entwickeln sich Ihre Einnahmen und wie lässt sich der Umsatz steigern?
 - **Kostenplanung**: Welche fixen und variablen Kosten fallen an und welche können Sie reduzieren?
-- **Rentabilitätsvorschau**: Wie viel Umsatz müssen Sie erwirtschaften, damit Ihr Unternehmen profitabel ist?
+- [Rentabilitätsvorschau]({{< relref "posts/rentabilitaetsvorschau" >}}): Wie viel Umsatz müssen Sie erwirtschaften, damit Ihr Unternehmen profitabel ist?
 - **Investitionsplanung**: Welche Anschaffungen möchten Sie tätigen und wo ist Ihr Geld gut angelegt?
-- **Liquiditätsplanung**: Wie stellen Sie die Zahlungsfähigkeit Ihres Unternehmens sicher?
+- [Liquiditätsplanung]({{< relref "posts/20250628_liquiditaetsplanung" >}}): Wie stellen Sie die Zahlungsfähigkeit Ihres Unternehmens sicher?
 - **Kapitalbedarfsplanung**: Wie viel Kapital benötigt Ihr Unternehmen für den Betrieb und Investitionen?
 - **Finanzierungsplanung**: Woher kommt das Geld (Eigen- oder Fremdkapital)?
 
@@ -124,7 +124,7 @@ Nicht zu vernachlässigen ist auch der DSGVO-konforme Datenschutz: Wenn Sie die 
 
 Egal, ob in einem etablierten Unternehmen oder Startup: Eine Finanzplanung mit fundierten Zahlen beweist Professionalität und Weitblick. Sie gibt Ihnen Orientierung, beugt Überraschungen vor und stärkt das Vertrauen von Investoren, Mitarbeitern und Geschäftspartnern. Gerade in der Gründungsphase entscheidet sie oft über den langfristigen Erfolg oder das vorzeitige Scheitern Ihres Unternehmens.
 
-Optimieren Sie Ihre Finanzplanung mit SeaTable, indem Sie alle Zahlen, Daten und Fakten übersichtlich aufbereiten. Denn nur wer seine Finanzen im Griff hat, kann wirtschaftliche Stabilität garantieren, auf zukünftige Entwicklungen reagieren und Gestaltungsspielräume nutzen.
+Optimieren Sie Ihre Finanzplanung mit [SeaTable]({{< relref "/" >}}), indem Sie alle Zahlen, Daten und Fakten übersichtlich aufbereiten. Denn nur wer seine Finanzen im Griff hat, kann wirtschaftliche Stabilität garantieren, auf zukünftige Entwicklungen reagieren und Gestaltungsspielräume nutzen.
 
 {{< button label="Jetzt kostenlos registrieren" link="/pages/registration" >}}
 

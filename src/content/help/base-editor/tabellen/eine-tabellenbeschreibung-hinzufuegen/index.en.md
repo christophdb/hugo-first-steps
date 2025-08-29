@@ -8,11 +8,11 @@ author: 'nsc2'
 url: '/help/eine-tabellenbeschreibung-hinzufuegen'
 ---
 
-You can add a description to each table in your Base. With this concise text you can, for example, explain the table contents.
+You can add a description to each table in your base. With this concise text you can, for example, explain the table contents.
 
 {{< warning  headline="Important note" >}}
 
-You can - regardless of your [role and authorization]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) - also edit the table descriptions in bases that belong to a **group**. However, you can only edit the description of tables that have been [released to]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) you with **write perm** issions.
+You can – regardless of your [role and authorization]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}) – also edit the table descriptions in bases that belong to a **group**. However, you can only edit the description of tables that have been [shared with]({{< relref "help/startseite/freigaben/einzelne-tabellenblaetter-einer-base-freigeben" >}}) you with **write permissions**.
 
 {{< /warning >}}
 
@@ -23,8 +23,8 @@ You can - regardless of your [role and authorization]({{< relref "help/startseit
 
 ![Add a table description](images/edit-table-description.jpg)
 
-4. Add a **description** to the table.
-5. Confirm with **Submit**.
+3. Add a **description** to the table.
+4. Confirm with **Submit**.
 
 ![Add table description](images/insert-table-description.jpg)
 

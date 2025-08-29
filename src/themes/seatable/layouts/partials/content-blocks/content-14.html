@@ -24,7 +24,7 @@
         <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
         <h2 class="mt-1 text-4xl font-bold">{{ .title }}</h2>
 
-        <div class="mx-auto mt-16 grid max-w-screen-md grid-cols-2 gap-8 text-left">
+        <div class="mx-auto mt-16 grid max-w-screen-md grid-cols-1 gap-8 text-left md:grid-cols-2">
             {{ range .items }}
                 <div>
                     <span class="text-3xl text-seatable-orange">{{ partial "icon.html" .icon }}</span>

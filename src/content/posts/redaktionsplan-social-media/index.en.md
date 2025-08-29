@@ -8,7 +8,7 @@ tags:
     - 'Content Planning'
 url: '/social-media-editorial-calendar'
 aliases:
-    - /reisekostenabrechnung
+    - /redaktionsplan-social-media
 color: '#cc0512'
 seo:
     title:

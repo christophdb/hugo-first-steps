@@ -16,7 +16,7 @@ Pour savoir comment activer le plugin dans une base, [cliquez ici]({{< relref "h
 
 ## Conditions préalables et fonctionnement du plug-in d'organigramme
 
-Pour définir quels enregistrements dépendent les uns des autres, vous avez besoin d'un [lien qui se réfère à une seule et même table]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}). L'enregistrement que vous liez dans cette colonne à une autre ligne de la même table est représenté comme un **enregistrement parent**.
+Pour définir quels enregistrements dépendent les uns des autres, vous avez besoin d'un [lien qui se réfère à une seule et même table]({{< relref "help/base-editor/tabellen/verknuepfungen-innerhalb-einer-tabelle" >}}). L'enregistrement que vous liez dans cette colonne à une autre ligne de le même tableau est représenté comme un **enregistrement parent**.
 
 ![Colonne de liaison pour un organigramme](images/Verknuepfungsspalte-fuer-ein-Organigramm.png)
 
@@ -36,7 +36,7 @@ Pour modifier l'**ordre des organigrammes**, maintenez le bouton gauche de la so
 
 Les **paramètres**, auxquels vous accédez en cliquant sur l'**icône en forme de roue dentée** {{< seatable-icon icon="dtable-icon-set-up" >}}, vous permettent de définir les éléments suivants pour l'organigramme :
 
-- **Tableau**: Sélectionnez la table à partir de laquelle SeaTable doit générer l'organigramme.
+- **Tableau**: Sélectionnez le tableau à partir de laquelle SeaTable doit générer l'organigramme.
 - **Vue**: sélectionnez la vue contenant les enregistrements à afficher dans l'organigramme.
 - **Relation**: sélectionnez la colonne de relation sur laquelle la hiérarchie est basée.
 - **Titre**: Sélectionnez une colonne dont les valeurs doivent être affichées comme titre.

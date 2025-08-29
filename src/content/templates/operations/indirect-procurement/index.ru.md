@@ -2,7 +2,9 @@
 title: 'Косвенные закупки'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/indirect-procurement'
+url: '/ru/shablon/kosvennykh-zakupok'
+aliases:
+    - '/ru/шаблон/indirect-procurement'
 category: 'operations'
 functions:
 seo:

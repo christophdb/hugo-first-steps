@@ -2,7 +2,9 @@
 title: 'Раскадровка'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/storyboard'
+url: '/ru/shablon/raskadrovki'
+aliases:
+    - '/ru/шаблон/storyboard'
 category: 'marketing'
 functions:
 seo:

@@ -2,7 +2,9 @@
 title: 'Управление филиалом'
 description: ''
 date: '2024-08-16'
-url: '/ru/шаблон/store-management'
+url: '/ru/shablon/upravleniya-magazinom'
+aliases:
+    - '/ru/шаблон/store-management'
 category: 'sales'
 functions:
 seo:

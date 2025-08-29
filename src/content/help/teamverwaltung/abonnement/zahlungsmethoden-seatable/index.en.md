@@ -16,7 +16,7 @@ The second possible payment method is **payment** by invoice, which is only poss
 
 ## How can I see which payment method is currently being used?
 
-1. Open the **team management**.
+1. Open the **Team administration**.
 2. Click on **Subscription**.
 3. You can view your current payment method under "**Payment method"**.
 
@@ -24,7 +24,7 @@ The second possible payment method is **payment** by invoice, which is only poss
 
 ## How can I change my payment method?
 
-1. Open the **team management**.
+1. Open the **Team administration**.
 2. Click on **Subscription**.
 3. Click on **"Customize payment method"**.
 4. You can now add a **new credit card** as a payment method. You can find out how and under what conditions you can activate **payment by invoice** in this [article]({{< relref "help/teamverwaltung/abonnement/bezahlung-per-rechnung" >}}).

@@ -6,8 +6,8 @@ url: '/de/vorlage/product-launch'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Produktlaunch effizient planen mit dieser Vorlage'
+    description: 'Meistern Sie Ihren Produktlaunch. Verwenden Sie dieses Template, um Features, Deadlines und Marketingaktivitäten zentral zu planen und zu steuern'
 template: '61e4639f122f45a2bcba'
 ---
 

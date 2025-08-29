@@ -10,11 +10,13 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'Gestion des données & visualisation'
-    - 'Transformation digitale'
+    - 'Transformation numérique'
     - 'Intégration & automatisation'
-    - 'Low-Code / No-Code'
+    - 'Low-Code & No-Code'
 color: '#469361'
 url: '/fr/succes-de-la-numerisation-de-la-gestion-des-ordres-avec-un-seatable-usage-de-eolane'
+aliases:
+    - '/fr/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane/'
 ---
 
 ## éolane - leader de la fabrication électronique, à la recherche d'une gestion plus efficace des données

@@ -13,6 +13,8 @@ tags:
     - 'Project Management'
 color: '#bba9d3'
 url: '/portfoliomanagement'
+aliases:
+    - '/en/portfoliomanagement/'
 ---
 
 ## What is portfolio management?

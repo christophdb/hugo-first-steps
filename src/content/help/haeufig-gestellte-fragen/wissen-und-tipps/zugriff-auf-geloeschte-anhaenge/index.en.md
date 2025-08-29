@@ -8,7 +8,7 @@ author: 'vge'
 url: '/help/zugriff-auf-geloeschte-anhaenge'
 ---
 
-**Files** and **images** that you have removed from an [image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) or [file column]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) are **not permanently deleted**. These deleted files remain in the Base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) and can be **restored** in two different ways.
+**Files** and **images** that you have removed from an [image]({{< relref "help/base-editor/spaltentypen/die-bild-spalte" >}}) or [file column]({{< relref "help/base-editor/spaltentypen/die-datei-spalte" >}}) are **not permanently deleted**. These deleted files remain in the base [file manager]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) and can be **restored** in two different ways.
 
 ## Last uploaded
 
@@ -23,8 +23,8 @@ url: '/help/zugriff-auf-geloeschte-anhaenge'
 
 ![The file management of a base](images/file-management.gif)
 
-1. Click on the **three dots** in the Base header and select the **file manager**. You can also add it as a quick access to your toolbar.
-2. In the window that opens, you will find a **folder system** with all the files stored in your Base.
+1. Click on the **three dots** in the base header and select the **file manager**. You can also add it as a quick access to your toolbar.
+2. In the window that opens, you will find a **folder system** with all the files stored in your base.
 3. Simply drag and drop the desired (image) file from the file manager into the appropriate file or image column.
 
 ![Drag and drop files from file management to appropriate table columns](images/drag-files-via-drag-and-drop-from-file-management-to-columns.gif)

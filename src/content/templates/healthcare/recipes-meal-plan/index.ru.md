@@ -2,7 +2,9 @@
 title: 'Рецепты и план питания'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/recipes-meal-plan'
+url: '/ru/shablon/pitanie-retsepty'
+aliases:
+    - '/ru/шаблон/recipes-meal-plan'
 category: 'healthcare'
 functions:
 seo:

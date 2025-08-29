@@ -8,7 +8,7 @@ author: 'nsc2'
 url: '/fr/aide/plus-oder-enterprise-abonnement-buchen'
 ---
 
-Votre équipe dispose d'un abonnement SeaTable Free et vous souhaitez passer à Plus ou Enterprise ? Pas de problème ! Pour cela, il vous suffit d'utiliser l'onglet **Abonnement** dans la **gestion d'équipe** et de réserver le pack d'abonnement de votre choix.
+Votre équipe dispose d'un abonnement SeaTable Free et vous souhaitez passer à Plus ou Enterprise ? Pas de problème ! Pour cela, il vous suffit d'utiliser l'onglet **Abonnement** dans l'**administration d'équipe** et de réserver le pack d'abonnement de votre choix.
 
 La page [Tarifs]({{< relref "pages/prices" >}}) donne un aperçu de toutes les formules d'abonnement disponibles dans SeaTable et des fonctions et possibilités qu'elles incluent.
 
@@ -16,7 +16,7 @@ La page [Tarifs]({{< relref "pages/prices" >}}) donne un aperçu de toutes les f
 
 {{< warning  headline="Remarque importante"  text="Les forfaits d'abonnement pour votre équipe ne peuvent être réservés que par les **administrateurs de l'équipe**." />}}
 
-1. Ouvrez la **gestion d'équipe**.
+1. Ouvrez l'**administration d'équipe**.
 2. Cliquez sur **Abonnement**.
 3. Cliquez sur **Mettre à niveau maintenant** sous l'abonnement souhaité.
 4. Remplissez le **formulaire de réservation**.

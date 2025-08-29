@@ -3,6 +3,8 @@ title: 'SeaTable Jobs: Focus on joint successes'
 description: 'Discover SeaTable Jobs and revolutionize your daily work routine with our no-code platform. Become part of the change!'
 date: '2025-04-03'
 url: '/jobs'
+aliases:
+    - '/en/jobs/'
 
 sections:
     - name: hero-2

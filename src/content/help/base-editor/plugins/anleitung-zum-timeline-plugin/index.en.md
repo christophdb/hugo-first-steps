@@ -10,7 +10,7 @@ url: '/help/anleitung-zum-timeline-plugin'
 
 The **Timeline plugin** allows you to display different time spans in the form of a **timeline**. This is very useful, for example, if you want to see whether appointments **overlap**. Accordingly, you can use the Timeline plugin for vacation and project planning or booking (meeting) rooms, among other things.
 
-Read the article [Activating a Plugin in a Base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) to find out how to activate the Timeline plugin.
+Read the article [Activating a Plugin in a base]({{< relref "help/base-editor/plugins/aktivieren-eines-plugins-in-einer-base" >}}) to find out how to activate the Timeline plugin.
 
 ## Function of the timeline plugin
 
@@ -36,7 +36,7 @@ Since the timeline plugin is based on the views of the table, [sorting]({{< relr
 
 ## Create multiple timelines
 
-As you can see in the video above, you can also create **multiple timelines** in one Base. To do this, proceed as follows:
+As you can see in the video above, you can also create **multiple timelines** in one base. To do this, proceed as follows:
 
 1. Click the **plus icon** to the right of the title of your first timeline.
 2. Give the timeline a **name** and confirm with **Submit**.

@@ -5,6 +5,8 @@ date: 2025-06-15
 author: 'rdb'
 url: '/seatable-release-5-3'
 color: '#7dc3cb'
+categories:
+    - 'product-features'
 seo:
     title:
     description:

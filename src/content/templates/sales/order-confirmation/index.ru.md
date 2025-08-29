@@ -2,7 +2,9 @@
 title: 'Шаблон подтверждения заказа'
 description: ''
 date: '2025-05-02'
-url: '/ru/шаблон/order-confirmation'
+url: '/ru/shablon/podtverzhdeniya-zakaza'
+aliases:
+    - '/ru/шаблон/order-confirmation'
 category: 'sales'
 functions:
 seo:

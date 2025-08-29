@@ -3,11 +3,11 @@ title: 'Como desenvolver um frontend para a sua própria aplicação SeaTable co
 date: 2022-09-27
 categories:
     - 'product-features'
-tags: 
+tags:
     - 'Universal App Builder'
 url: '/pt/seatable-app-frontend-php'
 aliases:
-    - /pt/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln'
+    - /pt/wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln
 color: '#fcbc68'
 seo:
     title:
@@ -31,7 +31,7 @@ Mas não se preocupe. Verá que todos estes desafios podem ser resolvidos com um
 Este tutorial começa com a base que já criámos no vídeo do YouTube. Com base nisto, mostrar-vos-ei que passos são necessários para construir uma ferramenta, como podem encontrar em [https://ideas.seatable.com](https://ideas.seatable.com). Este tutorial simplifica alguns passos, mas mostra o procedimento básico.
 
 - Começaremos com o desenvolvimento de uma concepção simples de website utilizando HTML e CSS.
-- A seguir, utilizaremos o [SeaTable PHP API](https://seatable.github.io/seatable-api-php/) para preencher estas páginas web estáticas com o conteúdo do SeaTable. Para tal, utilizarei a [estrutura PHP Slim](https://www.slimframework.com/) e o [sistema modelo Twig](https://twig.symfony.com/).
+- A seguir, utilizaremos o SeaTable PHP API para preencher estas páginas web estáticas com o conteúdo do SeaTable. Para tal, utilizarei a [estrutura PHP Slim](https://www.slimframework.com/) e o [sistema modelo Twig](https://twig.symfony.com/).
 - Finalmente, faremos algumas afinações.
 
 Não parece tão complicado, pois não? Portanto, vamos começar.

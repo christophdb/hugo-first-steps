@@ -16,7 +16,7 @@ SeaTable vous permet de relier entre elles des informations provenant de différ
 
 1. Créez une nouvelle colonne et sélectionnez le type de colonne **Lien vers d'autres entrées**.
 2. Donnez un **nom** à la colonne.
-3. Sous **Sélectionner une table pour le lien**, sélectionnez la table dont vous souhaitez lier les entrées à la table actuelle.
+3. Sous **Sélectionner un tableau pour le lien**, sélectionnez le tableau dont vous souhaitez lier les entrées au tableau actuel.
 4. Cliquez sur **Envoyer**.
 5. Le contenu de la nouvelle colonne est encore vide. Pour la remplir, vous pouvez **lier des entrées existantes** ou **ajouter de nouvelles lignes**.
 
@@ -40,25 +40,25 @@ La **fonction de recherche intégrée** dans la boîte de dialogue du lien perme
 
 ## Ajouter une nouvelle ligne
 
-Vous pouvez même ajouter une **nouvelle ligne** à une **table liée à l** 'aide de la boîte de dialogue de lien, sans devoir passer dans cette table. La ligne est ensuite ajoutée dans la table liée parmi les enregistrements existants et s'affiche en tant qu'entrée liée dans la colonne de lien de la table ouverte.
+Vous pouvez même ajouter une **nouvelle ligne** à un **tableau lié** à l 'aide de la boîte de dialogue de lien, sans devoir passer dans ce tableau. La ligne est ensuite ajoutée dans le tableau lié parmi les enregistrements existants et s'affiche en tant qu'entrée liée dans la colonne de lien du tableau ouvert.
 
-1. **Double-cliquez** sur la **cellule** d'une **colonne de lien** ou cliquez sur l'**icône** bleue **à double flèche** pour ouvrir la boîte de dialogue de lien.
+1. **Double-cliquez** sur la **cellule** d'une **colonne de lien** ou cliquez sur l'**icône bleue à double flèche** pour ouvrir la boîte de dialogue de lien.
 
 ![Double-clic dans une colonne de raccourcis](images/click-in-linked-column.png)
 
-3. Cliquez sur **Ajouter une ligne**.
+2. Cliquez sur **Ajouter une ligne**.
 
 ![Clique sur Ajouter une ligne](images/click-add-record.jpg)
 
-5. Dans la fenêtre qui s'ouvre, remplissez les différentes **colonnes du tableau**.
+3. Dans la fenêtre qui s'ouvre, remplissez les différentes **colonnes du tableau**.
 
 ![Remplir les colonnes du tableau](images/fill-columns.png)
 
-7. Cliquez sur **Envoyer** pour créer la nouvelle ligne.
+4. Cliquez sur **Envoyer** pour créer la nouvelle ligne.
 
 ![Cliquez sur Envoyer](images/click-submit.png)
 
-9. La **nouvelle ligne** est automatiquement ajoutée au **tableau lié** et s'affiche dans le tableau actuellement ouvert en tant qu'**entrée liée** dans la colonne de lien.
+5. La **nouvelle ligne** est automatiquement ajoutée au **tableau lié** et s'affiche dans le tableau actuellement ouvert en tant qu'**entrée liée** dans la colonne de lien.
 
 ## Modifier les entrées existantes d'un tableau lié
 
@@ -99,7 +99,7 @@ Si vous avez déjà ajouté une entrée liée à une cellule, les options permet
 
 ![Si le lien est limité à une ligne maximum, les options d'ajout de liens dans la boîte de dialogue des liens ne sont plus disponibles dès qu'un lien a été ajouté.](images/not-visibble-options-to-add-linked-records.png)
 
-Ce paramètre peut par exemple être utile lorsqu'une facture doit être liée à la commande correspondante d'une autre table - lorsque les enregistrements liés forment donc des **paires** logiques. Dans ce cas, l'ajout d'autres liens pourrait entraîner une certaine confusion et nuire aux processus de travail.
+Ce paramètre peut par exemple être utile lorsqu'une facture doit être liée à la commande correspondante d'un autre tableau - lorsque les enregistrements liés forment donc des **paires** logiques. Dans ce cas, l'ajout d'autres liens pourrait entraîner une certaine confusion et nuire aux processus de travail.
 
 ### Limiter les raccourcis à une seule vue
 

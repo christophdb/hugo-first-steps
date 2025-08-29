@@ -35,7 +35,7 @@ L'utilisation de la formule de rollup n'a de sens que si vous activez l'option *
 1. Créez une nouvelle colonne de type **Formule pour les liens**.
 2. Définissez l'option **Rollup** comme formule.
 3. Sélectionnez la **colonne de lien** qui renvoie au tableau souhaité.
-4. Décidez maintenant, dans le champ **Sélectionner la colonne à résumer dans la table liée**, quelle colonne de la table souhaitée vous souhaitez lier et évaluer.
+4. Décidez maintenant, dans le champ **Sélectionner la colonne à résumer dans le tableau lié**, quelle colonne du tableau vous souhaitez lier et évaluer.
 5. Définissez la **méthode d'évaluation**. Vous avez le choix entre moyenne, minimum, maximum, somme et concaténation.
 6. Cliquez sur **Envoyer**.
 

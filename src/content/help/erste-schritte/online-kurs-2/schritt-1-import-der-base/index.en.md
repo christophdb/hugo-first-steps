@@ -19,7 +19,7 @@ In the first course, you have already learned how to create a base with differen
 
 Download the following file to your PC and import it as a new base on the SeaTable start page:
 
-[SeaTable Course Level 2.dtable](/SeaTable-Course-Level-2.dtable)
+<a href="/SeaTable-Course-Level-2.dtable" download>SeaTable Course Level 2.dtable</a>
 
 Even if you do not have to create the base yourself, it is important that you familiarize yourself intensively with the structure. New column types have been used that you may not be familiar with from the previous course.
 
@@ -112,7 +112,7 @@ Take enough time to explore the base in detail. If you are still unfamiliar with
 
 ## Help article with further information
 
-- [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
+- [Creating a base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})
 - [Basics of SeaTable formulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}})
 - [Color marking of rows]({{< relref "help/base-editor/ansichten/farbliche-markierung-von-zeilen" >}})
 - [Lock Views]({{< relref "help/base-editor/ansichten/ansicht-sperren" >}})

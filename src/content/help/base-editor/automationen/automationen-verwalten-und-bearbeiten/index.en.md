@@ -15,7 +15,7 @@ To be able to make adjustments to already created automations at any time, you h
 ## Manage and edit automations
 
 1. Open a **table** in which you have already created an automation.
-2. Click {{< seatable-icon icon="dtable-icon-rule" >}} in the Base header and then click **Automation Rules**.
+2. Click {{< seatable-icon icon="dtable-icon-rule" >}} in the base header and then click **Automation Rules**.
 3. Hover the mouse cursor over the corresponding automation rule and click the **pencil icon** {{< seatable-icon icon="dtable-icon-rename" >}}.
 4. Make the desired **adjustments to** the automation.
 5. Confirm with **Submit**.

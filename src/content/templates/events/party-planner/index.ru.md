@@ -2,7 +2,9 @@
 title: 'Планировщик вечеринок'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/party-planner'
+url: '/ru/shablon/planirovshchika-vecherinok'
+aliases: 
+    - '/ru/шаблон/party-planner'
 category: 'events'
 functions:
 seo:

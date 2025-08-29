@@ -8,7 +8,7 @@ author: 'cdb'
 url: '/fr/aide/die-erste-base'
 ---
 
-Dans SeaTable, vous organisez vos données dans des [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Une base est un conteneur pour une ou plusieurs tables. Les tables d'une base peuvent être juxtaposées indépendamment les unes des autres ou, comme dans une base de données, reliées entre elles par des relations.
+Dans SeaTable, vous organisez vos données dans des [bases]({{< relref "help/startseite/bases/allgemeines-zu-bases" >}}). Une base est un conteneur pour une ou plusieurs tableaux. Les tableaux d'une base peuvent être juxtaposés indépendamment les uns des autres ou, comme dans une base de données, reliés entre eux par des relations.
 
 Vous pouvez également [partager]({{< relref "help/startseite/freigaben/base-und-ansichtsfreigaben-im-ueberblick" >}}) avec d'autres membres de l'équipe ou [inviter]({{< relref "help/startseite/freigaben/unterschiede-zwischen-einladungs-links-und-externen-links" >}}) des tiers externes à y travailler ensemble.
 
@@ -34,6 +34,6 @@ Vous voulez ajouter des images à une entrée ? Faites simplement glisser l'imag
 
 Un autre type de colonne que vous ne connaissez pas dans un tableur est la [liaison à d'autres entrées]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}). Les liens permettent de créer des relations entre les lignes de différents tableaux. Cette procédure, qui correspond au mode de fonctionnement des bases de données relationnelles, permet d'éviter les saisies en double, d'assurer la cohérence des données et de créer une vue d'ensemble.
 
-Voici un exemple d'application : une gérance immobilière saisit dans une table les objets gérés et les relie aux locataires qui sont gérés dans une autre table. Si les propriétés de l'objet changent, le gestionnaire doit uniquement modifier l'adaptation dans le tableau des objets. Grâce à la liaison, les informations modifiées sont automatiquement mises à jour pour tous les locataires affectés.
+Voici un exemple d'application : une gérance immobilière saisit dans un tableau les objets gérés et les relie aux locataires qui sont gérés dans un autre tableau. Si les propriétés de l'objet changent, le gestionnaire doit uniquement modifier l'adaptation dans le tableau des objets. Grâce à la liaison, les informations modifiées sont automatiquement mises à jour pour tous les locataires affectés.
 
 [Vous créez d'autres tableaux à l'aide des onglets]({{< relref "help/base-editor/tabellen/eine-tabelle-in-einer-base-hinzufuegen" >}}). Chaque tableau a une mise en page individuelle : aménagez les colonnes selon vos propres souhaits et besoins.

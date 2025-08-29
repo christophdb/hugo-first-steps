@@ -12,6 +12,8 @@ tags:
     - 'Tools & Plugins'
 color: '#59c9a1'
 url: '/google-spreadsheet-alternative'
+aliases:
+    - '/en/google-spreadsheet-alternative/'
 ---
 
 ## Overcome the limits of Excel

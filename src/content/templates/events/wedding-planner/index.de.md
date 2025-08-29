@@ -2,12 +2,14 @@
 title: 'Hochzeitsplaner'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/wedding-planner'
+url: '/de/vorlage/hochzeitsplaner'
+liases:
+    - '/de/vorlage/wedding-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Hochzeitsplanung Vorlage für Ihren großen Tag'
+    description: 'Planen Sie Ihre Traumhochzeit stressfrei! Diese Vorlage hilft Ihnen, Gäste, Budget und Aufgaben mühelos zu organisieren und zu verwalten'
 template: 'de0ea6ddde484de99645'
 ---
 

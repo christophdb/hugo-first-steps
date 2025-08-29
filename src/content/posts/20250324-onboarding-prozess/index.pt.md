@@ -8,7 +8,7 @@ date: 2025-03-24
 categories:
     - 'best-practice'
 tags:
-    - 'Integração'
+    - 'Gestão de candidatos e talentos'
 color: '#d0e4e9'
 url: '/pt/onboarding-prozess'
 ---

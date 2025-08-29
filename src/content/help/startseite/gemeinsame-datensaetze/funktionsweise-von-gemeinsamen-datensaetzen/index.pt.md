@@ -19,6 +19,8 @@ Em comparação com uma partilha de [vistas]({{< relref "help/startseite/freigab
 - As tabelas de acesso a um conjunto de dados comum podem ser **sincronizadas** em qualquer altura, ou seja, comparadas com a última versão do conjunto de dados (por exemplo, quando novos empregados entram ou saem).
 - Existe uma relação de cima para baixo: as alterações ao conjunto de dados comuns são transferidas para as tabelas dependentes durante a sincronização. No entanto, as alterações nestas tabelas **não** têm **qualquer** efeito sobre o conjunto de dados subjacentes.
 
+{{< warning headline="Registros Compartilhados e Big Data Backend" text="No momento, não é possível usar registros compartilhados em uma visualização Big Data." />}}
+
 Na síntese seguinte encontrará também os links para os vários artigos de ajuda na secção de Conjuntos de Dados Comuns.
 
 ## Criação de um conjunto de dados comum

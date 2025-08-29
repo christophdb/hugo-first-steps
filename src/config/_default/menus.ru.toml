@@ -86,6 +86,18 @@ pageRef = "pages/industry-solutions/individual"
 weight = 36
 
 [[main]]
+name = "Продажи"
+parent = "Pешения"
+pageRef = "pages/industry-solutions/kundenmanagement"
+weight = 38
+
+[[main]]
+name = "Финансы"
+parent = "Pешения"
+pageRef = "pages/industry-solutions/finanzplan-erstellen"
+weight = 37
+
+[[main]]
 name = "Ресурсы"
 pageRef = "#0"
 weight = 40

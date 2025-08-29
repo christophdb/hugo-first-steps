@@ -2,7 +2,9 @@
 title: 'Технологическая дорожная карта'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/technology-roadmap'
+url: '/ru/shablon/dorozhnoy-karty-tekhnologiy'
+aliases:
+    - '/ru/шаблон/technology-roadmap'
 category: 'software-development'
 functions:
 seo:

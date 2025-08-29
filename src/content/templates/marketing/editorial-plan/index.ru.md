@@ -2,7 +2,9 @@
 title: 'EРедакционный план'
 description: ''
 date: '2025-02-17'
-url: '/ru/шаблон/editorial-plan'
+url: '/ru/shablon/redaktsionnogo-plana'
+aliases:
+    - '/ru/шаблон/editorial-plan'
 category: 'marketing'
 functions:
 seo:

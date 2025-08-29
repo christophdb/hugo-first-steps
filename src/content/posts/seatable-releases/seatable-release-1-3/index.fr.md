@@ -4,7 +4,9 @@ date: 2020-09-14
 lastmod: '2022-01-24'
 author: 'mwu'
 url: '/fr/seatable-release-1-3'
-color: '#eeeeee'
+color: '#c96afc'
+categories:
+    - 'product-features'
 seo:
     title:
     description:
@@ -14,7 +16,7 @@ La version de septembre, que nous avons mise en ligne le 14 septembre, offre un 
 
 ## Traitement automatisé des données avec des scripts
 
-Les utilisateurs expérimentés ayant un peu d'expérience en codage apprécieront le nouveau support de script de SeaTable. Avec votre propre script, vous pouvez automatiser les activités à votre guise. Création de nouvelles données, traitement des données existantes, envoi d'e-mails, ... - Les scripts de SeaTable utilisent JavaScript et les possibilités sont donc presque illimitées. Ceux qui ne se sentent pas appelés à être programmeurs peuvent facilement importer des scripts téléchargés sur l'internet (par exemple, le forum Seafile) ou reçus de collègues. Le [manuel de programmation des scripts SeaTable](https://seatable.github.io/seatable-scripts/) contient toutes les informations dont vous avez besoin pour commencer. Jetez un coup d'œil. (Le manuel de programmation des scripts n'est disponible qu'en anglais).
+Les utilisateurs expérimentés ayant un peu d'expérience en codage apprécieront le nouveau support de script de SeaTable. Avec votre propre script, vous pouvez automatiser les activités à votre guise. Création de nouvelles données, traitement des données existantes, envoi d'e-mails, ... - Les scripts de SeaTable utilisent JavaScript et les possibilités sont donc presque illimitées. Ceux qui ne se sentent pas appelés à être programmeurs peuvent facilement importer des scripts téléchargés sur l'internet (par exemple, le forum Seafile) ou reçus de collègues. Le [manuel de programmation des scripts SeaTable](https://developer.seatable.com/scripts/) contient toutes les informations dont vous avez besoin pour commencer. Jetez un coup d'œil. (Le manuel de programmation des scripts n'est disponible qu'en anglais).
 
 Les scripts de SeaTable sont similaires aux plugins bien connus de SeaTable (par exemple, calendrier, galerie, carte), mais il y a aussi des différences importantes : les plugins sont développés et maintenus par l'équipe de développement de SeaTable ; les scripts peuvent être créés et adaptés par n'importe qui selon les besoins. En d'autres termes, vous avez besoin d'un automatisme qui envoie un courriel lorsqu'une nouvelle ligne est créée ? N'attendez pas que les développeurs vous proposent un plugin. Écrivez un script qui fait cela ! Autre différence importante : les plugins sont installés à partir du Plugin Store ; les scripts sont créés dans l'éditeur de script intégré de SeaTable.
 

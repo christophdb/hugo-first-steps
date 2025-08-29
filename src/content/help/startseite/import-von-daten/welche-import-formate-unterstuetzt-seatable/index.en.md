@@ -20,7 +20,7 @@ CSV is a widely used data exchange format, which is often the lowest common deno
 
 ## Data import from Excel
 
-Of course, when it comes to working with data, Excel can't be missing. SeaTable supports the import of both the new _XLSX_ and the old _XLS file formats_. Using Excel files, you can also import **multiple tables** or worksheets into a SeaTable Base at the same time. In doing so, SeaTable converts each worksheet from Excel into a table.
+Of course, when it comes to working with data, Excel can't be missing. SeaTable supports the import of both the new _XLSX_ and the old _XLS file formats_. Using Excel files, you can also import **multiple tables** or worksheets into a SeaTable base at the same time. In doing so, SeaTable converts each worksheet from Excel into a table.
 
 [Learn everything about importing Excel files.]({{< relref "help/startseite/import-von-daten/import-von-excel-dateien-in-seatable" >}})
 
@@ -38,6 +38,6 @@ You can also import data from Google Sheets into SeaTable.
 
 ## Data import with DTABLE
 
-SeaTable Bases can be exported in [DTABLE file format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) - and with such a DTABLE file you can of course create a Base in SeaTable again.
+SeaTable bases can be exported in [DTABLE file format]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}) - and with such a DTABLE file you can of course create a base in SeaTable again.
 
 [Learn more about data import with DTABLE.]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}})

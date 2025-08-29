@@ -1,5 +1,5 @@
 ---
-title: 'Groups and their members in team management'
+title: 'Groups and their members in team administration'
 date: 2023-01-18
 lastmod: '2023-01-18'
 categories:
@@ -8,13 +8,13 @@ author: 'vge'
 url: '/help/gruppen-und-ihre-mitglieder-in-der-teamverwaltung'
 ---
 
-The **team administrator** has control over which team member is part of which group. Once someone is a **member of** a group, they usually have **read and write perm** issions to all bases in that group.
+The **team administrator** has control over which team member is part of which group. Once someone is a **member of** a group, they usually have **read and write permissions** to all bases in that group.
 
 Learn all about the possible roles in a group in the article [Group members and their permissions]({{< relref "help/startseite/gruppen/gruppenmitglieder-und-ihre-berechtigungen" >}}).
 
 ## Change the membership and roles in a group
 
-![Manage group members in team management](images/Gruppe-verwalten.png)
+![Manage group members in team administration](images/Gruppe-verwalten.png)
 
 1. Switch to the **team administration**.
 2. Click on the **Team** menu item.

@@ -10,9 +10,11 @@ categories:
 tags:
     - 'Data Management & Visualisation'
     - 'IT Processes'
-    - 'No Code / Low Code'
+    - 'No Code & Low Code'
 color: '#bedeab'
 url: '/datenmanagement/'
+aliases:
+    - '/en/datenmanagement/'
 ---
 
 ## Data management guarantees success

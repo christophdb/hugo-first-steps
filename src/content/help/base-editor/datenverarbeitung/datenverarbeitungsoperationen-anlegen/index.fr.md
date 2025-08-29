@@ -16,7 +16,7 @@ Vous pouvez créer des opérations de traitement des données à tout moment dan
 
 ![Création d'une action de traitement des données](images/create-an-data-processing-action-1.jpg)
 
-1. Ouvrez n'importe quelle **table** pour laquelle vous souhaitez créer une opération de traitement des données.
+1. Ouvrez n'importe quel **tableau** dans lequel vous souhaitez créer une opération de traitement des données.
 2. Cliquez sur les **trois points** dans les options d'affichage.
 3. Cliquez sur **Traitement des données**, puis sur **Ajouter une opération de traitement des données**.
 4. Donnez un **nom** à l'opération.

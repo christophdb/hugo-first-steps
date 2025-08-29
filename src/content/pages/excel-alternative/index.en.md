@@ -6,6 +6,8 @@ seo:
     description: "Forget rigid tables. SeaTable offers collaborative data management. Switch to the intelligent Excel alternative"
 date: '2025-03-30'
 url: '/excel-alternative'
+aliases:
+  - '/en/excel-alternative/'
 
 sections:
     - name: hero-5

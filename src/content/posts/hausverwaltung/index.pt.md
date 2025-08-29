@@ -51,7 +51,7 @@ Por vezes, não é possível evitar a gestão profissional do património e não
 
 A sociedade de gestão imobiliária encarrega-se também da manutenção dos espaços verdes, por exemplo.
 
-A **Lei do Condomínio (Wohnungseigentumsgesetz** ) estipula quais as actividades que o administrador do imóvel tem de assumir. É necessário verificar se o gestor do condomínio desempenha corretamente as suas funções, a fim de identificar [empresas duvidosas](https://www.hausverwaltung-ratgeber.de/woran-erkennt-man-einen-unserioesen-hausverwalter.html).
+A **Lei do Condomínio (Wohnungseigentumsgesetz** ) estipula quais as actividades que o administrador do imóvel tem de assumir. É necessário verificar se o gestor do condomínio desempenha corretamente as suas funções, a fim de identificar empresas duvidosas.
 
 ## Que tarefas estão envolvidas na gestão de propriedades
 

@@ -1,5 +1,5 @@
 ---
-title: "Modification de l'ID de l'utilisateur dans la gestion d'équipe"
+title: "Modification de l'ID de l'utilisateur dans l'administration d'équipe"
 date: 2023-04-25
 lastmod: '2023-05-12'
 categories:
@@ -10,13 +10,13 @@ url: '/fr/aide/aenderung-der-id-des-users-in-der-teamverwaltung'
 
 Chaque **compte d'utilisateur** dans SeaTable possède, en plus du nom et de l'adresse e-mail, un **identifiant** qui peut être utilisé pour [des filtres dynamiques]({{< relref "help/base-editor/ansichten/was-ist-die-id-des-users-und-warum-kann-man-danach-filtern" >}}). Chaque ID ne peut être attribué qu'**une seule fois** au sein d'une équipe.
 
-Vous pouvez modifier cet identifiant en quelques étapes seulement via la gestion d'équipe.
+Vous pouvez modifier cet identifiant en quelques étapes seulement via l'administration d'équipe.
 
 ## Modifier l'ID utilisateur
 
-1. Ouvrez la **gestion d'équipe**.
+1. Ouvrez l'**administration d'équipe**.
 
-![Ouvrir la gestion d'équipe](images/open-the-team-verwaltung.png)
+![Ouvrir l'administration d'équipe](images/open-the-team-verwaltung.png)
 
 3. Cliquez sur l'onglet **Équipe**.
 

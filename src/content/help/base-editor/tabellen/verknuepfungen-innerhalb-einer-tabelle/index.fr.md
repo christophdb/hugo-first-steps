@@ -1,5 +1,5 @@
 ---
-title: 'Liens dans une table'
+title: 'Liens dans un tableau'
 date: 2025-02-28
 lastmod: '2025-02-28'
 categories:
@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/verknuepfungen-innerhalb-einer-tabelle'
 ---
 
-Une **colonne de liaison** dans SeaTable permet non seulement de [lier plusieurs tables entre elles]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mais aussi **de mettre en relation les enregistrements d'une même table**.
+Une **colonne de liaison** dans SeaTable permet non seulement de [lier plusieurs tableaux entre eux]({{< relref "help/base-editor/tabellen/wie-man-tabellen-in-seatable-miteinander-verknuepft" >}}), mais aussi **de mettre en relation les enregistrements d'un même tableau**.
 
 Cela a surtout du sens si les données de votre tableau présentent une **hiérarchie**.
 
@@ -19,7 +19,7 @@ Cela a surtout du sens si les données de votre tableau présentent une **hiéra
 1. Cliquez sur le **symbole plus** à droite du dernier en-tête de colonne.
 2. Saisissez le **nom de la colonne supérieure** dans le champ de saisie.
 3. Sélectionnez **Lien vers d'autres entrées** comme type de colonne.
-4. Recherchez **la table actuelle** comme table à lier.
+4. Recherchez **le tableau actuel** comme tableau à lier.
 5. Confirmez en cliquant sur **Envoyer**.
 6. SeaTable ajoute automatiquement une **deuxième colonne pour les entrées subordonnées**.
 
@@ -29,7 +29,7 @@ Les deux colonnes de liens sont **indissociables**. Si vous **supprimez** l'une 
 
 {{< /warning >}}
 
-## Relier des enregistrements dans une table
+## Relier des enregistrements dans un tableau
 
 ![Relations parents-enfants dans un tableau](images/Eltern-Kind-Beziehungen-in-einer-Tabelle.gif)
 

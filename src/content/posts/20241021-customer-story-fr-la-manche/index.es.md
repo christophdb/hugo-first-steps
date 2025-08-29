@@ -8,7 +8,7 @@ date: 2024-10-21
 categories:
     - 'customer-story'
 tags:
-    - 'visualización de la gestión de datos'
+    - 'Gestión y visualización de datos'
     - transformación digital
     - 'administración pública'
 color: '#bb9de1'

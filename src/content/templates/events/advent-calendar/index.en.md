@@ -6,8 +6,8 @@ url: '/template/advent-calendar'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Einfache Adventskalender-Vorlage für Teams und Familie'
+    description: 'Erstellen Sie ganz einfach Ihren eigenen digitalen Adventskalender für Freunde, Familie oder Ihr Team. Überraschungen planen und teilen'
 template: '618993ff2f964dadb460'
 ---
 

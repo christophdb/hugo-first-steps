@@ -21,33 +21,33 @@ Una solución para cumplir con los límites en este caso es externalizar sus arc
 
 ![Abra la configuración avanzada de una biblioteca y haga clic en API Token](images/click-api-token.png)
 
-4. **Nombre el** **token**, asigne un permiso de lectura y escritura o un permiso de sólo lectura y cree el token mediante **Submit**.
+3. **Nombre el** **token**, asigne un permiso de lectura y escritura o un permiso de sólo lectura y cree el token mediante **Submit**.
 
 ![Creación del token API](images/create-api-token.png)
 
-6. **Copie** el token de la API en el portapapeles.
+4. **Copie** el token de la API en el portapapeles.
 
 ![Copiar el token de la API en la caché](images/copy-api-token.png)
 
-8. A continuación, abra la **interfaz web de SeaTable** y vaya a la base en la que desea integrar la **biblioteca**.
-9. Haga clic en los **tres puntos** de la cabecera Base para abrir las opciones avanzadas de Base y seleccione la opción **Integración de terceros**.
+5. A continuación, abra la **interfaz web de SeaTable** y vaya a la base en la que desea integrar la **biblioteca**.
+6. Haga clic en los **tres puntos** de la cabecera Base para abrir las opciones avanzadas de Base y seleccione la opción **Integración de terceros**.
 
 ![Seleccionar la opción Integración de terceros](images/open-third-party-integration.png)
 
-11. En el área Seafile, haga clic en **Add Seafile Library**.
+7. En el área Seafile, haga clic en **Add Seafile Library**.
 
 ![Haga clic en Añadir biblioteca Seafile](images/add-seafile-library.png)
 
-13. Introduzca el **nombre de la biblioteca**, la **URL de su servidor Seafile** y el **token API de** la biblioteca que ha copiado anteriormente.
+8. Introduzca el **nombre de la biblioteca**, la **URL de su servidor Seafile** y el **token API de** la biblioteca que ha copiado anteriormente.
 
 ![Integración de la biblioteca Seafile](images/add-library-to-base.png)
 
-15. Por último, haga clic en **Consulte**. Después de que aparezca el mensaje de éxito, confirme la integración con **Enviar**.  
+9. Por último, haga clic en **Consulte**. Después de que aparezca el mensaje de éxito, confirme la integración con **Enviar**.  
     ![Confirmar y completar la integración de la biblioteca Seafile](images/finish-integration.gif)
 
 ## Acceso a archivos en Seafile
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base.
+Tras una integración satisfactoria en la base, la biblioteca **Seafile** aparece como una carpeta en la [gestión de archivos]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de su base.
 
 ![Biblioteca Seafile integrada en la gestión de archivos de la base](images/library-in-file-management.png)
 

@@ -5,7 +5,9 @@ lastmod: '2023-07-11'
 coverImage: 'release-notes-2.2-1.jpg'
 author: 'rdb'
 url: '/seatable-release-2-2'
-color: '#eeeeee'
+color: '#fc8a6e'
+categories:
+    - 'product-features'
 seo:
     title:
     description:

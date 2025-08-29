@@ -34,7 +34,7 @@ When creating an collaborator column, you can **activate** the **slider** so tha
 
 ![Enable notifications to collaborators added to an collaborator column.](images/turn-on-notification-for-collaborateur-1.png)
 
-Collaborators then receive a corresponding notification in Base, which they can access via the {{< seatable-icon icon="dtable-icon-notice" >}} **bell symbol** in the top right-hand corner.
+Collaborators then receive a corresponding notification in base, which they can access via the {{< seatable-icon icon="dtable-icon-notice" >}} **bell symbol** in the top right-hand corner.
 
 ![Notification when an collaborator is added](images/Benachrichtigung-wenn-Mitarbeiter-hinzugefuegt-wird.png)
 

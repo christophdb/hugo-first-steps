@@ -14,10 +14,10 @@ SeaTable allows you to run custom JavaScript and Python scripts in a base. Besid
 
 ![Import of a script](images/Anlegen-eines-Skriptes.jpg)
 
-1. In your Base, click {{< seatable-icon icon="dtable-icon-script" >}} in the Base header.
+1. In your base, click {{< seatable-icon icon="dtable-icon-script" >}} in the base header.
 2. Click **Import**.
 
-![Importing a script into your Base](images/import-scripts.jpg)
+![Importing a script into your base](images/import-scripts.jpg)
 
 4. Select a **.js or .py type script file** from your device for import.
 5. The imported **script** will be automatically saved in SeaTable and added to your existing scripts.
@@ -26,7 +26,7 @@ SeaTable allows you to run custom JavaScript and Python scripts in a base. Besid
 
 ![Export of a script](images/Anlegen-eines-Skriptes.jpg)
 
-1. In your Base, click {{< seatable-icon icon="dtable-icon-script" >}} in the Base header.
+1. In your base, click {{< seatable-icon icon="dtable-icon-script" >}} in the base header.
 2. Hover the mouse over the **name of** your script.
 3. Click on the **three dots** {{< seatable-icon icon="dtable-icon-more-level" >}}.
 4. Click **Export**.

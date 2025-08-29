@@ -6,6 +6,7 @@ categories:
     - 'best-practice'
 tags:
     - 'Everyday Life & Leisure'
+url: '/festival-packing-list'
 aliases:
     - /festival-packliste
 color: '#74aa84'

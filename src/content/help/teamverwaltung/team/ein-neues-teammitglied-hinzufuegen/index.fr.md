@@ -8,14 +8,14 @@ author: 'vge'
 url: '/fr/aide/ein-neues-teammitglied-hinzufuegen'
 ---
 
-En tant qu'**administrateur d'équipe**, vous pouvez créer de nouveaux membres d'équipe via la **gestion d'équipe**, sans qu'ils soient déjà enregistrés sur SeaTable. Pendant la création, vous pouvez déjà affecter votre nouveau membre d'équipe aux premiers groupes et effectuer des réglages liés à la sécurité. Votre nouveau membre d'équipe recevra ensuite ses **données d'accès par e-mail** et pourra immédiatement collaborer avec vous.
+En tant qu'**administrateur d'équipe**, vous pouvez créer de nouveaux membres d'équipe via l'**administration d'équipe**, sans qu'ils soient déjà enregistrés sur SeaTable. Pendant la création, vous pouvez déjà affecter votre nouveau membre d'équipe aux premiers groupes et effectuer des réglages liés à la sécurité. Votre nouveau membre d'équipe recevra ensuite ses **données d'accès par e-mail** et pourra immédiatement collaborer avec vous.
 
 ## Ajouter des membres d'équipe
 
 ![Ajouter un nouveau membre de l'équipe](images/ein-neues-teammitglied-hinzufuegen.gif)
 
 1. Cliquez sur votre **profil** dans le coin supérieur droit.
-2. Sélectionnez l'option **Gestion d'équipe** dans le menu déroulant.
+2. Sélectionnez l'option **Administration d'équipe** dans le menu déroulant.
 3. Cliquez sous **Navigation** sur le point de menu **Équipe**.
 4. Cliquez sur le bouton **Ajouter un membre de l'équipe**.
 5. Une nouvelle fenêtre s'ouvre. Définissez le **nom d'utilisateur**.

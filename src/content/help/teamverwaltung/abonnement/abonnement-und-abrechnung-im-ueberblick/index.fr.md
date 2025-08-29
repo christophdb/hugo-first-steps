@@ -30,13 +30,13 @@ Vous pouvez à tout moment adapter votre abonnement réservé à vos besoins cha
 
 ## Réserver un abonnement Plus ou Enterprise
 
-Vous souhaitez souscrire un abonnement Plus ou Enterprise ? Pas de problème, c'est possible à tout moment via l'onglet Abonnement dans la gestion d'équipe.
+Vous souhaitez souscrire un abonnement Plus ou Enterprise ? Pas de problème, c'est possible à tout moment via l'onglet Abonnement dans l'administration d'équipe.
 
 [En savoir plus sur la réservation d'un abonnement Plus ou Enterprise]({{< relref "help/teamverwaltung/abonnement/plus-oder-enterprise-abonnement-buchen" >}}).
 
 ## Modifier l'abonnement actuel (Plus, Enterprise, durée et taille de l'équipe)
 
-Vous souhaitez modifier votre formule d'abonnement actuelle ou simplement adapter la durée de votre abonnement ou la taille de votre équipe ? Pas de problème, l'onglet Abonnement dans la gestion d'équipe vous permet de le faire en quelques étapes seulement.
+Vous souhaitez modifier votre formule d'abonnement actuelle ou simplement adapter la durée de votre abonnement ou la taille de votre équipe ? Pas de problème, l'onglet Abonnement dans l'administration d'équipe vous permet de le faire en quelques étapes seulement.
 
 [En savoir plus sur la modification de l'abonnement actuel]({{< relref "help/teamverwaltung/abonnement/aktuelles-abo-aendern-paket-laufzeit-und-teamgroesse-anpassen" >}}).
 
@@ -54,31 +54,31 @@ Le paiement par facture est uniquement possible avec un abonnement Enterprise, u
 
 ## Adapter l'adresse de facturation
 
-Vous souhaitez adapter votre adresse de facturation ? Pas de problème, grâce à la gestion d'équipe, cela se fait également en quelques étapes.
+Vous souhaitez adapter votre adresse de facturation ? Pas de problème, grâce à l'administration d'équipe, cela se fait également en quelques étapes.
 
 [En savoir plus sur la personnalisation de l'adresse de facturation]({{< relref "help/teamverwaltung/abonnement/rechnungsadresse-anpassen" >}}).
 
 ## Où puis-je trouver mes factures ?
 
-Vous pouvez consulter vos factures en quelques clics via la gestion d'équipe. Vous les trouverez dans l'onglet Abonnement.
+Vous pouvez consulter vos factures en quelques clics via l'administration d'équipe. Vous les trouverez dans l'onglet Abonnement.
 
 [En savoir plus sur la récupération de vos factures]({{< relref "help/teamverwaltung/abonnement/wo-finde-ich-meine-rechnungen" >}}).
 
 ## Télécharger les factures
 
-Si vous avez besoin de vos factures au format PDF, vous pouvez les télécharger à tout moment via la gestion d'équipe.
+Si vous avez besoin de vos factures au format PDF, vous pouvez les télécharger à tout moment via l'administration d'équipe.
 
 [En savoir plus sur le téléchargement de vos factures]({{< relref "help/teamverwaltung/abonnement/wo-finde-ich-meine-rechnungen" >}}).
 
 ## Changer de carte de crédit
 
-Vous souhaitez modifier la carte de crédit que vous avez utilisée pour payer votre abonnement à SeaTable ? Pas de problème, vous pouvez le faire en quelques étapes via la gestion d'équipe.
+Vous souhaitez modifier la carte de crédit que vous avez utilisée pour payer votre abonnement à SeaTable ? Pas de problème, vous pouvez le faire en quelques étapes via l'administration d'équipe.
 
 [En savoir plus sur la modification de votre carte de crédit]({{< relref "help/teamverwaltung/abonnement/aendern-der-kreditkarte" >}}).
 
 ## Déposer le numéro d'identification fiscale
 
-Vous pouvez également ajouter à tout moment un identifiant fiscal valide à votre compte via la gestion d'équipe.
+Vous pouvez également ajouter à tout moment un identifiant fiscal valide à votre compte via l'administration d'équipe.
 
 [En savoir plus sur le dépôt d'un numéro d'identification fiscale]({{< relref "help/teamverwaltung/abonnement/hinterlegen-der-steuer-id" >}}).
 
@@ -97,7 +97,7 @@ SeaTable nécessite une licence pour chaque utilisateur qui dispose de son propr
 ## Comment les utilisateurs inactifs sont-ils pris en compte dans la facturation ?
 
 Pour pouvoir utiliser SeaTable dans votre équipe, vous devez acheter une licence séparée pour chaque utilisateur.  
-Les utilisateurs qui n'utilisent plus le programme peuvent toutefois être rendus inactifs via l'onglet "Équipe" dans la gestion d'équipe et ne seront alors plus comptabilisés dans le nombre d'utilisateurs réservés.
+Les utilisateurs qui n'utilisent plus le programme peuvent toutefois être rendus inactifs via l'onglet "Équipe" dans l'administration d'équipe et ne seront alors plus comptabilisés dans le nombre d'utilisateurs réservés.
 
 [En savoir plus sur la prise en compte des utilisateurs inactifs dans la facturation]({{< relref "help/teamverwaltung/abonnement/wie-werden-inaktive-user-bei-der-abrechnung-beruecksichtigt" >}}).
 
@@ -115,7 +115,7 @@ Si vous avez dépassé les limites dont vous disposez dans votre abonnement actu
 
 ## Résilier l'abonnement
 
-Les abonnements existants peuvent être résiliés à tout moment via la gestion d'équipe. Notez toutefois que la résiliation de votre abonnement n'entre en vigueur qu'à la fin de la période de validité et qu'il peut encore être utilisé dans son intégralité jusqu'à cette date.
+Les abonnements existants peuvent être résiliés à tout moment via l'administration d'équipe. Notez toutefois que la résiliation de votre abonnement n'entre en vigueur qu'à la fin de la période de validité et qu'il peut encore être utilisé dans son intégralité jusqu'à cette date.
 
 [En savoir plus sur la résiliation de votre abonnement]({{< relref "help/teamverwaltung/abonnement/das-abo-kuendigen" >}}).
 

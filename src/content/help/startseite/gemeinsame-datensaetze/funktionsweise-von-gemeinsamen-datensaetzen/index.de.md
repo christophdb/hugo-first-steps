@@ -19,6 +19,8 @@ Im Vergleich zu einer [Ansichtsfreigabe]({{< relref "help/startseite/freigaben/f
 - Die auf einen gemeinsamen Datensatz zugreifenden Tabellen können jederzeit **synchronisiert**, also mit der aktuellsten Version des Datensatzes abgeglichen werden (z. B. wenn Mitarbeiter neu hinzukommen oder ausscheiden).
 - Dabei besteht eine Top-down-Beziehung: Änderungen am gemeinsamen Datensatz werden bei Synchronisation in die abhängigen Tabellen übernommen. Änderungen in diesen Tabellen haben aber **keine** Auswirkungen auf den zugrundeliegenden Datensatz.
 
+{{< warning headline="Gemeinsame Datensätze und Big Data Backend" text="Zum aktuellen Zeitpunkt ist es nicht möglich, Gemeinsame Datensätze innerhalb einer Big Data Ansicht zu nutzen." />}}
+
 Im folgenden Überblick finden Sie auch die Links zu den verschiedenen Hilfe-Artikeln in der Rubrik Gemeinsame Datensätze.
 
 ## Anlegen eines gemeinsamen Datensatzes

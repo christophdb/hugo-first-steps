@@ -12,9 +12,9 @@ Pour bloquer ou supprimer des membres de l'équipe, vous devez disposer de **dro
 
 ## Suspension d'un membre de l'équipe
 
-1. Passez à la **gestion d'équipe**.
+1. Passez à l'**administration d'équipe**.
 
-![Passez à la gestion d'équipe](images/open-team-admin.png)
+![Passez à l'administration d'équipe](images/open-team-admin.png)
 
 3. Cliquez sur l'option de menu **Équipe**.
 
@@ -34,7 +34,7 @@ Dès que le membre de l'équipe bloqué essaie de se connecter, le message d'err
 
 ## Supprimer un membre de l'équipe
 
-1. Passez à la **gestion d'équipe**.
+1. Passez à l'**administration d'équipe**.
 2. Cliquez sur l'option de menu **Équipe**.
 3. Sélectionnez le **membre de l'équipe**.
 4. Une nouvelle fenêtre s'ouvre. Sélectionnez la catégorie **Supprimer**.

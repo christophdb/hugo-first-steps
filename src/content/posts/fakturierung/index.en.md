@@ -1,8 +1,8 @@
 ---
-title: 'Fakturierung: Wie Sie Ihre Rechnungsstellung ordnungsgemäß abwickeln'
-description: 'Wenn Sie sich schon immer gefragt haben, was fakturieren heißt und wofür die Fakturierung von Bedeutung ist, werden Sie in diesem Artikel fündig. Doch auch, wenn Sie sich bereits näher mit der Rechnungsstellung befasst haben, kommen Sie auf Ihre Kosten: Lesen Sie, wie Sie die Fakturierung in Ihrem Unternehmen optimieren und welche Fehler Sie vermeiden können.'
-date: 2025-07-31
-lastmod: '2025-07-31'
+title: 'Invoicing: How to handle your billing properly'
+description: "What does invoicing mean and what is it important for? You will find the answers in this article. But even if you have already dealt with invoicing in more detail, you will get what you are looking for: read how you can optimize invoicing in your company and which mistakes you can avoid."
+date: 2025-08-07
+lastmod: '2025-08-07'
 url: '/invoicing'
 category:
     - 'best-practice'
@@ -10,191 +10,190 @@ tags:
     - 'Accounting'
 color: '#f6e493'
 seo:
-    title: 'Fakturierung | Rechnungsstellung'
-    description: 'Wenn Sie sich schon immer gefragt haben, was fakturieren heißt und wofür die Fakturierung von Bedeutung ist, werden Sie in diesem Artikel fündig.'
-draft: true
+    title: 'Invoicing | Billing'
+    description: Read how to optimize invoicing in your company and what mistakes you can avoid.
 ---
 
-## Was bedeutet Fakturierung? Definition und Relevanz
+## What does invoicing mean? Definition and relevance
 
-**Faktura** ist der vom lateinischen Wort *factura* abgeleitete Fachbegriff für eine Rechnung – ein Dokument, mit dem Sie Ihre Kunden zur Zahlung eines bestimmten Geldbetrags auffordern. Wenn Sie etwas fakturieren, heißt das also, dass Sie einem Kunden eine Leistung oder ein Produkt in Rechnung stellen. Die Rechnungsstellung wird dementsprechend auch **Fakturierung** genannt.
+An **invoice** is a document with which you ask your customers to pay a certain amount of money. When you invoice something, this means that you bill a customer for a service or product. Invoicing is therefore also called **billing**.
 
-Die Fakturierung sorgt für die **Einnahmen Ihres Unternehmens** und ist damit der wichtigste Prozess der Finanzbuchhaltung. Eine ebenso zentrale Rolle spielt die Rechnungsstellung für die [Liquiditätsplanung]({{< relref "posts/20250628_liquiditaetsplanung" >}}) und das Mahnwesen, das Forderungen gegenüber säumigen Kunden durchsetzt. Außerdem bilden Rechnungen die Grundlage für die Ermittlung der Umsatzsteuer.
+Invoicing ensures the **revenue of your company** and is therefore the most important process in financial accounting. Invoicing plays an equally central role in [liquidity planning]({{< relref "posts/20250628_liquiditaetsplanung" >}}) and the dunning process, which enforces claims against defaulting customers. Invoices also form the basis for calculating sales tax.
 
-{{< warning headline="Was ist der Unterschied zwischen Rechnungsstellung und Rechnungslegung?" text="Obwohl Rechnungsstellung und Rechnungslegung ähnlich klingen, meinen Sie komplett unterschiedliche Dinge. Bei der **Rechnungslegung** informieren Sie Ihre Stakeholder (z. B. Gläubiger, Aktionäre und Behörden) über die Entwicklung Ihres Unternehmens und legen Rechenschaft über Ihre Finanzen ab. Üblicherweise veröffentlichen Sie dafür Dokumente wie einen Jahresabschluss oder Lagebericht. Dahingegen geht es bei der Fakturierung lediglich darum, Ihren Kunden erbrachte Leistungen in Rechnung zu stellen." />}}
+{{< warning headline="What is the difference between invoicing and accounting?" text="Although invoicing and accounting sound similar, they mean completely different things. With **external accounting**, you inform your stakeholders (e.g. creditors, shareholders and authorities) about the development of your company and give an account of your finances. You usually publish documents such as annual financial statements or a management report. In contrast, invoicing is simply about billing your customers for services rendered." />}}
 
-## Die Vorteile einer professionellen Fakturierung
+## The advantages of professional invoicing
 
-Auf den ersten Blick scheinen die Vorteile der Fakturierung offensichtlich zu sein: **Sie fakturieren Leistungen oder Waren, um Einnahmen zu generieren**. Dabei ist die elektronische Rechnungsstellung heutzutage klar der Papierrechnung überlegen, was die weiteren Vorteile der Fakturierung angeht:
+At first glance, the advantages of invoicing seem obvious: **you invoice services or goods to generate revenue**. Nowadays, electronic invoicing is clearly superior to paper invoicing when it comes to the other advantages of invoicing:
 
-- **Zeiteffizienz**: Elektronische Rechnungen lassen sich mit wenigen Klicks erstellen und direkt per E-Mail versenden oder online bereitstellen.
-- **Transparenz**: Ihre Kunden erhalten schnell Einsicht in ihre Rechnungen und Klarheit über erbrachte Leistungen, Preise und Steuern.
-- **Besserer Überblick**: Behalten Sie Ihre Zahlungseingänge, offene Rechnungen und die Umsatzentwicklung jederzeit im Auge.
-- **Automatisierung**: Wiederkehrende Prozesse wie Zahlungserinnerungen laufen in einem Fakturierungsprogramm einfach von selbst ab.
-- **Rechtssicherheit**: Eine Fakturierungssoftware enthält üblicherweise vorgefertigte Muster, in denen alle Pflichtangaben für die Rechnung integriert sind.
+- **Time efficiency**: Electronic invoices can be created with just a few clicks and sent directly by e-mail or made available online.
+- **Transparency**: Your customers quickly gain insight into their invoices and clarity about services rendered, prices and taxes.
+- **Better overview**: Keep an eye on your incoming payments, outstanding invoices and turnover at all times.
+- **Automation**: Recurring processes such as payment reminders simply run themselves in an invoicing program.
+- **Legal security**: Invoicing software usually contains ready-made templates in which all mandatory information for the invoice is integrated.
 
-Die zentralen Nachteile der Fakturierung sind der **hohe Aufwand** und die **Fehleranfälligkeit** – vor allem, wenn Sie noch manuell Rechnungen in Excel-Tabellen oder Textdokumenten schreiben. Da die Fakturierung für Unternehmen unumgänglich ist, sollten Sie den Prozess so weit wie möglich optimieren und automatisieren, um menschliche Fehler zu minimieren. Mehr dazu erfahren Sie weiter unten auf dieser Seite.
+The main disadvantages of invoicing are the **high effort** and **susceptibility to errors** – especially if you are still writing invoices manually in Excel spreadsheets or text documents. Since invoicing is essential for companies, you should optimize and automate the process as much as possible to minimize human error. Modern software solutions can help with this. You can find out more about this further down on this page.
 
-![Fakturierung Definition](fakturierung.jpg)
+![Invoicing definition](fakturierung.jpg)
 
-## Zwei Arten der Fakturierung in Unternehmen
+## Two types of invoicing in companies
 
-Je nachdem, wann Sie eine Leistung fakturieren, unterscheidet man zwischen Vorfakturierung und Nachfakturierung. Wenn Sie eine Rechnung vor der Lieferung ausstellen, spricht man von **Vorfakturierung**. Dies ist besonders bei Online-Bestellungen üblich. Als Unternehmen sollten Sie dann allerdings genügend Ware auf Lager haben, um zeitnah liefern zu können.
+Depending on when you invoice a service, a distinction is made between pre-invoicing and post-invoicing. If you issue an invoice before delivery, this is referred to as **pre-invoicing**. This is particularly common for online orders. As a company, however, you should then have enough goods in stock to be able to deliver promptly.
 
-Wenn Sie die Rechnung der Lieferung beilegen oder sie nachträglich verschicken, handelt es sich um **Nachfakturierung**. Beachten Sie in Sachen Liquidität, dass sich dabei der Zahlungsprozess verlängert und das Risiko für Zahlungsausfälle steigt. Gerade bei komplizierteren Aufrägen (z. B. Bauprojekten) kann die Abrechnung jedoch erst nach der Ausführung erfolgen. Hier hilft eine schrittweise Fakturierung.
+If you enclose the invoice with the delivery or send it afterwards, this is called **post-invoicing**. When it comes to liquidity, please note that this prolongs the payment process and increases the risk of non-payment. Particularly in the case of more complicated orders (e.g. construction projects), however, invoicing can only take place after completion. Step-by-step invoicing helps here.
 
-## Der Fakturierungsprozess
+## The invoicing process
 
-Die Fakturierung gehört zum Rechnungswesen Ihres Unternehmens und läuft im Wesentlichen so ab:
+Invoicing is part of your company's accounting system and essentially works like this:
 
-- **Rechnung vorbereiten**: Erfassen Sie auf der Rechnung alle relevanten Daten wie Artikel, Preise, Mengen, Steuersätze, das Datum und die Kundendaten.
-- **Rechnung zustellen**: Lassen Sie die erstellte Rechnung dem Kunden zukommen – ob per Post, E-Mail oder Online-Portal.
-- **Zahlungseingang prüfen**: Gleichen Sie die Zahlungseingänge mit Ihren offenen Forderungen ab und versenden Sie gegebenenfalls Zahlungserinnerungen.
-- **Buchen und archivieren**: Buchen Sie den Geschäftsvorfall und legen Sie alle Dokumente sorgfältig ab.
+- **Prepare invoice**: Enter all relevant data on the invoice, such as items, prices, quantities, tax rates, the date and customer details.
+- **Send invoice**: Have the created invoice sent to the customer – whether by post, e-mail or online portal.
+- **Check incoming payments**: Reconcile incoming payments with your outstanding receivables and send payment reminders if necessary.
+- **Post and archive**: Post the business transaction and file all documents carefully.
 
-{{< warning headline="Rechnungseingang und Rechnungsausgang" text="Beim Rechnungsausgang versenden Sie Rechnungen an Ihre Kunden, wohingegen Sie im Rechnungseingang selbst Rechnungen von Lieferanten oder Dienstleistern erhalten. Eine Rechnung ist daher je nach Perspektive sowohl eine Forderung (des Leistungserbringers) als auch eine Verbindlichkeit (des Leistungsempfängers)." />}}
+{{< warning headline="Incoming and outgoing invoices" text="In outgoing invoices, you send invoices to your customers, whereas in incoming invoices you receive invoices from suppliers or service providers. Depending on the perspective, an invoice is therefore both a receivable (of the service provider) and a payable (of the service recipient)." />}}
 
-## Rechtliche Aspekte bei der Rechnungsstellung
+## Legal aspects of invoicing
 
-In Deutschland ist die Fakturierung ausführlich in [Paragraph 14 des Umsatzsteuergesetzes (§ 14 UStG)](https://www.gesetze-im-internet.de/ustg_1980/__14.html) geregelt. Demnach sind Sie gegenüber anderen Unternehmen verpflichtet, Rechnungen über Ihre erbrachten Leistungen auszustellen. Eine solche Verpflichtung besteht bei einem Verkauf an Privatpersonen nicht.
+In the UK, invoicing is regulated in detail in the [Value Added Tax Act 1994](https://en.wikipedia.org/wiki/Value_Added_Tax_Act_1994) and the VAT Regulations 1995. These require you to issue invoices to other businesses for taxable supplies. There is no such obligation when selling to private individuals, unless the customer requests it.
 
-### Fakturierungsfristen
+### Invoicing deadlines
 
-Die Frist für die Rechnungsstellung richtet sich danach, ob Ihr Kunde ein Unternehmen oder eine Privatperson ist:  
-- Da es Ihnen freisteht, Leistungen und Verkäufe an Privatpersonen zu fakturieren, gibt es auch **keine Frist für Rechnungen an Privatpersonen**. Jedoch erwarten die meisten Kunden in bestimmten Fällen eine Rechnung.  
-- Ist der Leistungsempfänger ein **Unternehmen**, müssen Sie bei der Rechnungsstellung eine Frist von **6 Monaten** einhalten. Diese läuft ab dem Tag, an dem Sie die Leistung erbracht haben.
+The deadline for invoicing depends on whether your customer is a company or a private individual:
+- If the recipient of the service is a **company**, you must observe a time limit of **30 days** for invoicing. This runs from the date of the taxable service or supply.
+- As you are free to invoice services and sales to **private individuals**, the 30-day deadline for invoices only applies if they request it. However, most customers expect an invoice in certain cases. 
 
-### Verjährung von Rechnungen
+### Limitation period for invoices
 
-Behalten Sie immer Ihre offenen Forderungen im Blick, denn Rechnungen können verjähren! Zur Verjährung der Rechnungsstellung kommt es bereits **nach drei Jahren**, wenn Sie vergessen eine Leistung zu fakturieren oder keine rechtlichen Schritte gegen säumige Kunden einleiten. Nach Ablauf dieser Frist kann der Schuldner die Zahlung einer Rechnung verweigern und Sie können Ihren Anspruch nicht mehr gerichtlich durchsetzen.  
+Always keep an eye on your outstanding receivables, because invoices can become time-barred! Invoices become time-barred **after 6 years** if you forget to invoice a service or do not take legal action against defaulting customers. After this period has expired, the debtor can refuse to pay an invoice and you can no longer enforce your claim in court.
   
-Dabei ist es egal, ob Sie eine Rechnung gestellt haben – denn die Frist beginnt nicht mit der Fakturierung, sondern am **Ende des Kalenderjahres**, in dem die Forderung entstanden ist. Haben Sie also eine Leistung im August 2021 erbracht, begann die Verjährung der Rechnungsstellung am 31.12.2021 und seit dem 31.12.2024 ist Ihre Forderung verjährt.
+The period begins on the day the debt becomes due, in most cases when the due date shown on the invoice has passed. So if you issued an invoice on July 1, 2019, payable within 30 days, it was due on July 31, 2019. Your claim has been time-barred since July 31, 2025.
 
-![Gesetzliche Regelungen](fakturierung-gesetze.jpg)
+![statutory regulations](fakturierung-gesetze.jpg)
 
-### Aufbewahrungsfrist von Rechnungen
+### Retention period for invoices
 
-Laut Gesetz haben Sie die **Pflicht, von jeder Rechnung eine Kopie anzufertigen und diese acht Jahre lang aufzubewahren**. Hier gilt: Archivieren Sie jede Rechnung revisionssicher – egal, ob digital oder ausgedruckt. Denn nachträgliche Änderungen der Fakturierung sind verboten.  
+According to the law, you have the **obligation to make a copy of every invoice and keep it for 6 years**. Archive every invoice in an audit-proof, read-only manner – regardless of whether it is digital or printed. This is because subsequent changes to invoicing are prohibited.
   
-Wenn Sie noch Rechnungen auf Papier gegenüber der elektronischen Rechnungsstellung bevorzugen, sollten Sie Stauraum einplanen, da die Aktenordner schnell Regale füllen. Darüber hinaus müssen Sie sich um **das datenschutzkonforme Vernichten der Rechnungskopien** nach Ende der Aufbewahrungfrist kümmern.
+If you still prefer paper invoices to electronic invoicing, you should plan for storage space, as file folders quickly fill shelves. You must also ensure that copies of invoices are destroyed in accordance with **data protection regulations** at the end of the retention period.
 
-### Pflichtangaben bei der Fakturierung
+### Mandatory information for invoicing
 
-Nach § 14 Abs. 4 UStG muss eine Rechnung in Deutschland folgende Angaben enthalten:
+A full VAT invoice is required for amounts over £250. This must contain the following information:
 
-1.  Name und Anschrift des Leistungserbringers sowie des Leistungsempfängers
-2.  Steuernummer oder Umsatzsteuer-Identifikationsnummer
-3.  Ausstellungsdatum
-4.  Fortlaufende Rechnungsnummer
-5.  Menge und Art der gelieferten Gegenstände oder Dienstleistungen
-6.  Leistungs- oder Lieferdatum
-7.  Netto- und Bruttobetrag sowie eventuelle Rabatte
-8.  Steuersatz und -betrag oder Hinweis auf Steuerbefreiung
+1.  Name and address of the service provider and the service recipient
+2.  Tax number or VAT registration number
+3.  Date of issue
+4.  Consecutive invoice number
+5.  Quantity and type of goods or services supplied
+6.  Date of service or delivery
+7.  Net and gross amount and any discounts
+8.  Tax rate and amount or reference to tax exemption
 
-## Typische Fehler bei der Fakturierung
+## Typical errors in invoicing
 
-Wenn Sie bei der Rechnungsstellung einen Fehler machen, kann das steuerliche und schlimmstenfalls rechtliche Konsequenzen haben. Daher sollten Sie konzentriert arbeiten und akribisch darauf achten, dass die Rechnung alle Pflichtangaben enthält und die Zahlen stimmen. Dennoch ist es schnell passiert: Eine kleine Unaufmerksamkeit reicht schon – und ein **Zahlendreher oder Tippfehler** hat sich eingeschlichen.  
+If you make a mistake when invoicing, this can have tax and, in the worst case, legal consequences. You should therefore work with concentration and make sure meticulously that the invoice contains all mandatory information and that the figures are correct. Nevertheless, it can happen quickly: All it takes is a little inattention – and a **transposed figure or typing error** has crept in.  
+
+![invoicing errors](fakturierung-fehler.jpg)
+
+Other typical errors in invoicing are
+- There is no unique number for each invoice.
+- The VAT is shown incorrectly.
+- The terms of payment are not specified.
+- The invoice copy is processed after dispatch.
+
+## How to avoid invoicing errors
+
+Below you will learn how to avoid the above-mentioned invoicing errors.
+
+### Generate consecutive invoice number
+
+The tax office only accepts invoices that have an invoice number. However, it is also advantageous for your internal financial accounting if each invoice can be clearly and traceably assigned to the respective business transaction. A consecutively ascending number ensures that each invoice is **unique**.
+
+If you number your invoices manually, **duplicates or missing numbers** may be created by mistake. A professional invoicing program, on the other hand, generates a unique identification number for each new invoice. It is therefore advisable to have an [automatic number]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) generated by a software program.
+
+### Correctly show VAT in invoicing
+
+In the UK, the **regular VAT rate** is 20 percent and the **reduced VAT rate** is 5 percent. Depending on the type of goods and services you invoice, different tax rates may apply. It is not always clear which tax rate applies in which case. Find out more and make sure you pay tax on your products and services correctly.
   
-Weitere typische Fehler bei der Fakturierung sind:
-- Es gibt keine eindeutige Nummer für jede Rechnung.
-- Die Umsatzsteuer ist falsch ausgewiesen. 
-- Die Zahlungsbedingungen sind nicht angegeben.
-- Die Rechnungskopie wird nach dem Versand bearbeitet.
-
-![Fehler bei der Fakturierung](fakturierung-fehler.jpg)
-
-## Wie Sie Fehler bei der Fakturierung vermeiden
-
-Im Folgenden erfahren Sie, wie Sie die oben genannten Fehler bei der Fakturierung verhindern können.
-
-### Fortlaufende Rechnungsnummer erzeugen
-
-Das Finanzamt akzeptiert nur Rechnungen, die mit einer Rechnungsnummer versehen sind. Aber auch für Ihre interne Finanzbuchhaltung ist es von Vorteil, wenn jede Rechnung eindeutig und nachvollziehbar dem jeweiligen Geschäftsvorfall zugeordnet werden kann. Eine fortlaufend aufsteigende Nummer stellt dabei sicher, dass jede Rechnung **einmalig** ist.
-
-Wenn Sie Ihre Rechnungen händisch nummerieren, können versehentlich **Duplikate oder fehlende Nummern** entstehen. Ein professionelles Fakturierungsprogramm erzeugt hingegen für jede neue Rechnung eine eindeutige Identifikationsnummer. Deshalb ist es empfehlenswert, eine [automatische Nummer]({{< relref "help/base-editor/spaltentypen/der-spaltentyp-automatische-nummer" >}}) von einer Software generieren zu lassen.
-
-### Umsatzsteuer bei der Fakturierung richtig ausweisen
-
-In Deutschland beträgt der **reguläre Umsatzsteuersatz** 19 Prozent und der **ermäßigte Umsatzsteuersatz** 7 Prozent. Je nach Art der Waren und Dienstleistungen, die Sie fakturieren, gelten womöglich unterschiedliche Steuersätze. Nicht immer ist dabei logisch nachvollziehbar, in welchem Fall welcher Steuersatz zur Anwendung kommt. Informieren Sie sich und achten Sie darauf, Ihre Produkte und Dienstleistungen korrekt zu versteuern.  
+It can become even more complicated if you invoice foreign transactions: For example, if your customer is a **company in the EU**, it must pay VAT to the tax office in its respective member state. This is called the **reverse charge procedure**. In this case, you **do not show UK VAT**, but instead note on the invoice that the **recipient of the service is liable for VAT**. To do this, you must state both your VAT identification number and that of your customer company on the invoice. Furthermore, **import duties** may apply.
   
-Noch komplizierter kann es werden, wenn Sie Auslandsgeschäfte fakturieren: Nehmen Sie die **Rechnungsstellung für Kleinunternehmer oder Privatkunden im Ausland** vor, müssen Sie den deutschen Steuersatz berechnen. Ist Ihr Kunde jedoch ein **Unternehmen in der EU**, muss es die Umsatzsteuer in seinem jeweiligen Mitgliedstaat ans Finanzamt abführen. Dies nennt man [Reverse-Charge-Verfahren](https://de.wikipedia.org/wiki/Umkehrung_der_Steuerschuldnerschaft_(Deutschland)). In diesem Fall weisen Sie **keine Umsatzsteuer** aus, sondern notieren auf der Rechnung die **Steuerschuldnerschaft des Leistungsempfängers**. Außerdem müssen Sie auf der Rechnung sowohl Ihre Umsatzsteuer-Identifikationsnummer als auch die Ihres Kundenunternehmens angeben. Für die Fakturierung bei Unternehmen in Drittstaaten außerhalb der EU gilt ebenfalls nicht die deutsche Umsatzsteuer, sondern die Regelung des jeweiligen Landes.
-  
-{{< warning headline="Umsatzsteuerbefreiung von Kleinunternehmern" >}} 
-Eine wichtige Ausnahme gibt es auch bei der Rechnungsstellung für Kleinunternehmer in Deutschland. Diese müssen nach [§ 19 UStG](https://www.gesetze-im-internet.de/ustg_1980/__19.html) bis zu einer gewissen Grenze keine Umsatzsteuer zahlen. **Ihr Umsatz bleibt steuerfrei, wenn der Gesamtumsatz im vorangegangenen Kalenderjahr 25.000 Euro nicht überschritten hat und im laufenden Kalenderjahr 100.000 Euro nicht überschreitet**. Damit sich Ihre Kunden nicht wundern, vermerken Sie auf der Rechnung am besten: „Im ausgewiesenen Rechnungsbetrag ist gemäß Klein­unternehmer­regelung (§ 19 UStG) keine Umsatzsteuer enthalten.“
+{{< warning headline="VAT exemption for small businesses" >}}
+There is also an important exception when it comes to invoicing for small businesses in the UK. They do not have to pay VAT up to the VAT registration threshold. **Businesses only have to register for VAT when their annual turnover exceeds the £90,000 threshold**. So that your customers are not surprised, it is best to note on the invoice if your company is not registered and exempt from VAT.
 {{< /warning >}}
 
-### Zahlungsbedingungen bei der Fakturierung angeben
+### Specify terms of payment during invoicing
 
-Mit den Zahlungsbedingungen legen Sie fest, wann und wie Ihre Kunden für Waren oder Dienstleistungen bezahlen sollen. Beispielsweise kann die Zahlung per Überweisung, Lastschrift oder Barzahlung erfolgen. Vergessen Sie je nach Zahlungsweise nicht, Ihre vollständige Kontoverbindung anzugeben.  
+You can use the terms of payment to specify when and how your customers should pay for goods or services. For example, payment can be made **by bank transfer, direct debit or cash**. Depending on the payment method, don't forget to enter your full bank details.
   
-Das Zahlungsziel definiert die Frist, in welchem Zeitraum Ihre Kunden die Rechnung begleichen müssen. Üblich sind hierbei 14 bis 30 Tage. Das Fälligkeitsdatum markiert den genauen Tag, an dem die Zahlung spätestens eingehen soll. Machen Sie dies auf der Rechnung deutlich.  
+The **payment target** defines the period within which your customers must pay the invoice. This is usually between 14 and 30 days. The **due date** marks the exact date on which the payment should be received at the latest. Make this clear on the invoice.  
   
-Vor allem im Online-Handel ist Vorkasse weit verbreitet. Bei dieser Zahlungsart leistet der Kunde die Zahlung, bevor er die Ware oder Dienstleistung erhält. Der Vorteil für Sie: Indem Sie Ihre Produkte erst nach Zahlungseingang versenden, minimieren Sie das Risiko von Zahlungsausfällen. Weisen Sie dann bei der Fakturierung darauf hin, dass Sie den Rechnungsbetrag bereits erhalten haben.
+**Prepayment** is particularly widespread in online retail. With this payment method, the customer makes the payment before receiving the goods or services. The advantage for you: By not shipping your products until payment has been received, you minimize the risk of non-payment. When invoicing, point out that you have already received the invoice amount.
 
-### Fehlerhafte Rechnung abgeschickt – was nun?
+### Incorrect invoice sent – what now?
 
-{{< warning headline="Achtung" text="Bereits versandte Rechnungen dürfen Sie niemals überarbeiten und dadurch verfälschen! Falls eine nachträgliche Manipulation der Fakturierung bei einer Betriebsprüfung auffällt, kommen Sie in arge Bedrängnis. Deshalb sollten Sie **Ihre Rechnungskopien idealerweise schreibgeschützt speichern**." />}} 
+{{< warning headline="Attention" text="You must never revise invoices that have already been sent and thereby falsify them! If a subsequent manipulation of the invoicing becomes apparent during a tax audit, you will be in serious trouble. Therefore, you should ideally **save your copies of invoices as read-only files**." />}}
 
-Sobald Sie bemerken, dass Sie eine falsche Rechnung ausgestellt haben, müssen Sie diese **stornieren** und mit einer neuen Rechnung korrigieren, die Sie dem Rechnungsempfänger zukommen lassen. Dies erzeugt nicht nur einen erheblichen Mehraufwand, sondern oft auch eine Verwirrung oder gar Verstimmung des Kunden. Wichtig ist in diesem Fall, dass Sie professionell reagieren und sich für den Vorfall entschuldigen.  
+As soon as you realize that you have issued an incorrect invoice, you must **cancel** it and correct it with a new invoice that you send to the invoice recipient. This not only creates a considerable amount of extra work, but often also confuses or even upsets the customer. In this case, it is important that you react professionally and apologize for the incident.  
 
-Sowohl die **ursprüngliche Rechnung** als auch die **Korrekturrechnung** müssen Sie für die Buchhaltung aufbewahren. Bei bereits bezahlten Rechnungen, die einen zu hohen Betrag in Rechnung gestellt haben, ist zudem eine **Gutschrift** erforderlich.
+You must keep both the **original invoice** and the **correction invoice** for accounting purposes. A **credit note** is also required for invoices that have already been paid and for which an excessive amount has been charged.
 
-## Checkliste für eine reibungslose Fakturierung
+## Checklist for smooth invoicing
 
-Hier nochmal ein Überblick über die häufigsten Stolpersteine bei der Fakturierung und worauf Sie bei der finalen Überprüfung einer Rechnung achten sollten:
+Here is another overview of the most common stumbling blocks in invoicing and what you should look out for when finally checking an invoice:
 
-- keine Tippfehler bei Name und Anschrift des Leistungsempfängers
-- keine Zahlendreher bei Rechnungsnummer, Steuernummer oder Umsatzsteuer-ID
-- alle Rechnungspositionen (Leistungen, Mengen, Preise) und Nettobeträge stimmen
-- Umsatzsteuer ist korrekt ausgewiesen
-- Rechnungsdatum, Rechnungsbetrag und Zahlungsfrist sind klar ersichtlich
+- no typing errors in the name and address of the service recipient
+- no transposed numbers in the invoice number, tax number or VAT ID
+- all invoice items (services, quantities, prices) and net amounts are correct
+- VAT is shown correctly
+- Invoice date, invoice amount and payment deadline are clearly visible
 
-![Erfolgreich fakturieren](fakturierung-erfolg.jpg)
+![Successful invoicing](fakturierung-erfolg.jpg)
 
-## Kostenlose Vorlage für die elektronische Rechnungsstellung
+## Free template for electronic invoicing
 
-Durch die elektronische Rechnungsstellung mit einer Fakturierungssoftware sparen Sie viel Zeit und Papier. Weitere Vorteile für die Fakturierung in Ihrem Unternehmen sind die geringere Fehleranfälligkeit, die Automatisierung wiederkehrender Prozesse und die ebenso einfache wie übersichtliche Datenaufbereitung. Vorgefertigte Rechnungsvorlagen, in denen bereits alle Pflichtangaben enthalten sind, helfen Ihnen den gesetzlichen Anforderungen gerecht zu werden.  
+Electronic invoicing with invoicing software saves you a lot of time and paper. Other advantages for invoicing in your company are the reduced susceptibility to errors, the automation of recurring processes and the simple and clear data analysis. Prepared invoice templates, which already contain all mandatory information, help you to meet the legal requirements.  
   
-Klingt gut? Dann starten Sie mit der kostenlosen Vorlage von SeaTable und gestalten Sie die Fakturierung in Ihrem Unternehmen ganz nach Ihren Vorstellungen! Die Vorteile für Ihre Fakturierung sind:
-- Einfach per Knopfdruck digitale Rechnungen erstellen und versenden
-- Intelligente Verknüpfungen mit anderen Tabellen in Ihrer Datenbank
-- Individuelle Rechnungslayouts in mehreren Sprachen gestalten
-- Echtzeit-Synchronisation für die simultane Zusammenarbeit im Team
-- Verschiedene Statistiken, Auswertungs- und Visualisierungsoptionen
-
-Ganz wichtig: Ihre Daten sind bei der Fakturierung mit SeaTable bestens geschützt und in deutschen Rechenzentren gespeichert. Zudem haben Sie die Möglichkeit, [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) selbst zu hosten und so die volle Datenhoheit zu behalten. Sollten Sie sich für die [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) entscheiden, sind Ihre Daten und Rechnungen zudem jederzeit und von überall online abrufbar.
-
-Für einen Vorgeschmack auf unsere Vorlage scrollen Sie durch unser interaktiv eingebettetes Template:
+Sounds good? Then start with the [free template from SeaTable]({{< relref "templates/finance/invoice-creation" >}}) and design your company's invoicing according to your ideas! For a taste of our template, scroll through our interactively embedded template:
 
 {{< template id="0341827ed80f4be3888a" >}}
 
-## Häufig gestellte Fragen
+The advantages for your invoicing are:
+- Simply create and send digital invoices at the touch of a button
+- Intelligent links to other tables in your database
+- Design individual invoice layouts in multiple languages
+- Real-time synchronization for simultaneous team collaboration
+- Various statistics, evaluation and visualization options
 
-{{< faq "Sind Faktura und Rechnung das Gleiche?" >}}
-Ja. Faktura und Rechnung sind weitestgehend synonym. Folglich sind auch Rechnungsstellung und Fakturierung von der Bedeutung her identisch.  
+Very important: Your data is optimally protected when invoicing with SeaTable and stored in German data centers. You also have the option of hosting [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) yourself and thus retaining full data sovereignty. If you opt for the [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), your data and invoices can also be accessed online at any time and from anywhere.
+
+## Frequently asked questions
+
+{{< faq "Are invoices and bills the same thing?" >}}
+Yes, invoicing and billing are largely synonymous.
 {{< /faq >}}
 
-{{< faq "Was bedeutet Fakturierung?" >}}
-Fakturierung hat die Bedeutung, einem Kunden eine Leistung oder ein Produkt in Rechnung zu stellen. Es gibt also keinen Unterschied zwischen Fakturierung und Rechnungsstellung. Beide Begriffe meinen denselben Vorgang.
+{{< faq "What does invoicing mean?" >}}
+Invoicing means charging a customer for a service or product. There is therefore no difference between invoicing and billing. Both terms mean the same process.
 {{< /faq >}}
 
-{{< faq "Was sind die Pflichtangaben auf einer Rechnung?" >}}
-Nach § 14 Abs. 4 UStG muss eine Rechnung in Deutschland folgende Angaben enthalten:  
+{{< faq "What are the mandatory details on an invoice?" >}}
+A full VAT invoice is required for amounts over £250. This must contain the following information:
 
-1.  Name und Anschrift des Leistungserbringers sowie des Leistungsempfängers
-2.  Steuernummer oder Umsatzsteuer-Identifikationsnummer
-3.  Ausstellungsdatum
-4.  Fortlaufende Rechnungsnummer
-5.  Menge und Art der gelieferten Gegenstände oder Dienstleistungen
-6.  Leistungs- oder Lieferdatum
-7.  Netto- und Bruttobetrag sowie eventuelle Rabatte
-8.  Steuersatz und -betrag oder Hinweis auf Steuerbefreiung
+1.  Name and address of the service provider and the service recipient
+2.  Tax number or VAT registration number
+3.  Date of issue
+4.  Consecutive invoice number
+5.  Quantity and type of goods or services supplied
+6.  Date of service or delivery
+7.  Net and gross amount and any discounts
+8.  Tax rate and amount or reference to tax exemption
 {{< /faq >}}
 
-{{< faq "Gibt es für die Rechnungsstellung eine Frist?" >}}?
-Ja. Wenn Sie eine Leistung für ein Unternehmen erbringen, müssen Sie bei der Rechnungsstellung eine Frist von 6 Monaten einhalten. Für Rechnungen an Privatpersonen existiert allerdings keine Frist.
+{{< faq "Is there a deadline for invoicing?" >}}
+Yes, if you provide a service for a company, you must comply with a 30-day deadline for invoicing. For private individuals, this only applies if they wish to receive an invoice.
 {{< /faq >}}
 
-{{< faq "Wie funktioniert die Fakturierung bei Unternehmen im EU-Ausland?" >}} 
-Wenn Sie Waren oder Dienstleistungen an ein Unternehmen in der EU verkaufen, muss es die Umsatzsteuer in seinem jeweiligen Mitgliedstaat ans Finanzamt abführen. In diesem Fall berechnen Sie keine Umsatzsteuer, sondern notieren auf der Rechnung die Steuerschuldnerschaft des Leistungsempfängers. Außerdem müssen Sie sowohl Ihre eigene Umsatzsteuer-Identifikationsnummer als auch die Ihres Kundenunternehmens angeben.
+{{< faq "How does invoicing work for companies in EU countries?" >}}
+If you sell goods or services to a company in the EU, it must pay VAT to the tax office in its respective member state. In this case, you do not charge VAT, but note the recipient's tax liability on the invoice. You must also state both your own VAT identification number and that of your customer company.
 {{< /faq >}}

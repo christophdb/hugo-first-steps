@@ -5,9 +5,10 @@ seo:
     title: 'VGestione su evento | 10 consejos para su éxito | SeaTable'
     description: 'Lea cómo incluso los grandes eventos pueden gestionarse de forma profesional y cómo las herramientas pueden ayudarle con una planificación compleja'
 date: 2025-03-23
-url: '/es/veranstaltung-verwalten'
+url: '/es/gestion-eventos'
 aliases:
-    - /es/veranstaltung-verwalten/
+    - '/es/veranstaltung-verwalten/'
+    - '/es/veranstaltungen-verwalten/'
 tags:
 categories:
 color: '#f7c1cf'

@@ -12,15 +12,15 @@ In the following article you will find a Python script that allows you to output
 
 ## Entering and executing the script
 
-![Exporting a Base Structure](images/export_base_structure.gif)
+![Exporting a base Structure](images/export_base_structure.gif)
 
-1. Open the **Base** in which you have a problem.
-2. Click {{< seatable-icon icon="dtable-icon-script" >}} in the Base header.
+1. Open the **base** in which you have a problem.
+2. Click {{< seatable-icon icon="dtable-icon-script" >}} in the base header.
 3. Create a **new script** and select **Python**.
 4. Copy the following **code** to the left pane.
 
 ```
-from seatable_api import Base, context
+from seatable_api import base, context
 server_url = context.server_url
 api_token = context.api_token
 base = Base(api_token, server_url)

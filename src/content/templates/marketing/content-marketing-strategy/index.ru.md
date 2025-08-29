@@ -2,7 +2,9 @@
 title: 'Стратегия контент-маркетинга'
 description: ''
 date: '2024-08-16'
-url: '/ru/шаблон/content-marketing-strategy'
+url: '/ru/shablon/strategii-kontent-marketinga'
+aliases:
+    - '/ru/шаблон/content-marketing-strategy'
 category: 'marketing'
 functions:
 seo:

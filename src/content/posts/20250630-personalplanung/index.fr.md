@@ -12,6 +12,8 @@ tags:
     - 'Gestion du personnel'
 color: '#4c9481'
 url: '/fr/planification-du-personnel'
+aliases:
+    - '/fr/personalplanung/'
 ---
 
 Imaginez qu'une entreprise prévoit de lancer un nouveau produit sur le marché, mais qu'elle manque de personnel qualifié pour le développement, la production ou le marketing. La réussite du projet est compromise avant même qu'il n'ait réellement commencé. C'est là qu'intervient la planification des ressources humaines - un outil stratégique qui garantit que vous pouvez toujours utiliser **les bons collaborateurs avec les qualifications appropriées**.

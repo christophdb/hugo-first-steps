@@ -30,7 +30,7 @@ After entering the command, the database is searched for the **defined values** 
 
 ### Transfer of the results as a new table
 
-Using the **Export to new table** function you can export the found data to a new table within the same Base.
+Using the **Export to new table** function you can export the found data to a new table within the same base.
 
 ![Exporting the values found by SQL data query to a new table](images/export-data-sql-query-to-a-new-table.png)
 
@@ -50,4 +50,4 @@ After entering the command, **all** entries are deleted from the **Time** table.
 
 ## Overview of supported SQL commands
 
-SeaTable supports not all, but most of the SQL commands. For a complete list and more details, see the [SeaTable Programming Manual](https://seatable.github.io/seatable-scripts/python/sql/).
+SeaTable supports not all, but most of the SQL commands. For a complete list and more details, see the [SeaTable Programming Manual](https://developer.seatable.com/scripts/).

@@ -14,7 +14,7 @@ Gmail, Google's popular email service, can be used to send emails from SeaTable.
 
 ## Authentication via app password
 
-An [app password](https://support.google.com/accounts/answer/185833?hl=de) is a 16-digit security code that apps or devices can use to authenticate themselves to Google and thereby gain access to your Gmail account. You can create app passwords in your [Google account](https://myaccount.google.com/). App passwords can only be used for accounts that have 2-factor authentication enabled.
+An [app password](https://support.google.com/accounts/answer/185833?hl=de) is a 16-digit security code that apps or devices can use to authenticate themselves to Google and thereby gain access to your Gmail account. You can create app passwords in your [Google account](https://myaccount.google.com/). App passwords can only be used for accounts that have two-factor authentication enabled.
 
 ### Creating an app password
 
@@ -29,7 +29,7 @@ An [app password](https://support.google.com/accounts/answer/185833?hl=de) is a 
 
 ### Creation of the e-mail account in SeaTable
 
-Now you need to add your Gmail account as a third party in your SeaTable Base. To do this, the following steps are necessary:
+Now you need to add your Gmail account as a third party in your SeaTable base. To do this, the following steps are necessary:
 
 1. Open the extended base options by clicking on the **three-dot icon** {{< seatable-icon icon="dtable-icon-more-level" >}} in the top right-hand corner.
 2. Select the option **Integration of third-party providers**.
@@ -82,7 +82,7 @@ If you made a mistake during configuration and no longer know where you are, cli
 
 ### Creation of the e-mail account in SeaTable
 
-Now you need to add your Gmail account as a third party in your SeaTable Base. To do this, the following steps are necessary:
+Now you need to add your Gmail account as a third party in your SeaTable base. To do this, the following steps are necessary:
 
 1. Open the extended base options by clicking on the **three-dot icon** {{< seatable-icon icon="dtable-icon-more-level" >}} in the top right-hand corner.
 2. Select the option **Integration of third-party providers**.
@@ -101,6 +101,6 @@ Now you need to add your Gmail account as a third party in your SeaTable Base. T
 
 ## Send emails via automation
 
-After that, you can use the email account created in your SeaTable Base to send emails via automation or [button.]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
+After that, you can use the email account created in your SeaTable base to send emails via automation or [button.]({{< relref "help/base-editor/schaltflaechen/eine-e-mail-per-schaltflaeche-verschicken" >}})
 
 If you want to learn more about this useful automation, read the article [Email Sending by Automation]({{< relref "help/base-editor/automationen/beispiel-e-mail-versand-per-automation" >}}).

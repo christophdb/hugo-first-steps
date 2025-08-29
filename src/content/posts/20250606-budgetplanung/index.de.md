@@ -30,13 +30,12 @@ Bei der Budgetierung – auch Budgetplanung oder Budgetverteilung genannt – ge
 
 - **Sinnvolle Budgetverteilung**: Die Budgetplanung unterstützt Sie dabei, Geld und Ressourcen sinnvoll auf Abteilungen und Vorhaben zu verteilen und gezielt dort einzusetzen, wo sie den größtmöglichen Nutzen bringen.
 - **Verbindliche Ziele**: Mit einem verbindlichen Budgetplan können Sie dafür sorgen, dass Ihre Führungskräfte klare Ziele formulieren und effiziente Maßnahmen ergreifen, um sie zu erreichen.
-
 - **Finanzielle Transparenz**: Die Budgetierung schafft Klarheit, wofür Sie Ihr Geld ausgeben. Sie behalten Kosten und Ziele im Blick, können Erfolge messen und Fehlentwicklungen antizipieren.
 - **Priorisierte Investitionen**: Oft ist die Wunschliste in den Abteilungen lang. Ein festgelegtes Budget hilft Ihnen, die entscheidenden Investitionen zu priorisieren und unnötige Ausgaben zu vermeiden.
 
 ## Die Budgetierung geht mit der Finanzplanung einher
 
-Die **operative Budgetplanung** ist ein Teil der kurzfristigen Finanzplanung, bei der Sie Ihre künftigen Einnahmen sowie Ausgaben für das kommende Jahr schätzen. Dabei ziehen Sie die Daten des laufenden und/oder vergangenen Geschäftsjahres heran, um Prognosen für die zukünftige Entwicklung abzuleiten. Im Gegensatz zur Finanzplanung fokussiert sich die Budgetierung in der Regel auf die Ausgabenseite – unabhängig davon, woher das Geld kommt.
+Die **operative Budgetplanung** ist ein Teil der kurzfristigen [Finanzplanung]({{< relref "posts/20250617-finanzplanung" >}}), bei der Sie Ihre künftigen Einnahmen sowie Ausgaben für das kommende Jahr schätzen. Dabei ziehen Sie die Daten des laufenden und/oder vergangenen Geschäftsjahres heran, um Prognosen für die zukünftige Entwicklung abzuleiten. Im Gegensatz zum [Finanzplan]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) fokussiert sich die Budgetierung in der Regel auf die Ausgabenseite – unabhängig davon, woher das Geld kommt.
 
 Auch eine **strategische Budgetplanung** für die nächsten zwei bis fünf Jahre ist durchaus üblich. Diese hilft Ihnen bei langfristigen Geschäftsentscheidungen, die Ihr Unternehmen voranbringen und den Erfolg sichern sollen, wie zum Beispiel die Eröffnung neuer Standorte. Je weiter der Planungshorizont in der Zukunft liegt, desto schwieriger und unsicherer ist allerdings die genaue Prognose.
 

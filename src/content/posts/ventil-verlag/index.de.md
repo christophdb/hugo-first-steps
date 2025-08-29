@@ -6,7 +6,7 @@ categories:
 tags:
     - 'Datenmanagement & Visualisierung'
     - 'Kollaboratives Arbeiten'
-    - 'Wenn Excel nicht mehr reicht…'
+    - 'Wenn Excel nicht mehr reicht'
 date: 2021-01-27
 color: '#dadff6'
 lastmod: '2023-07-11'

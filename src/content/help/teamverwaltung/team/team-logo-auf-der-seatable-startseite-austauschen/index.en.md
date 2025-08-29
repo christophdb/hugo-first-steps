@@ -20,7 +20,7 @@ By placing their company logo, Enterprise subscription users can customize the u
 
 1. Switch to the **team administration**.
 
-![Switch to the team management](images/open-team-admin.png)
+![Switch to the team administration](images/open-team-admin.png)
 
 3. Click on the **Team** menu item.
 

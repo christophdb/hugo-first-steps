@@ -48,7 +48,7 @@ Une solution pour respecter les limites dans ce cas est d'externaliser vos fichi
 
 ## Accéder aux fichiers dans Seafile
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base.
+Une fois l'intégration dans la base réussie, la **bibliothèque Seafile** apparaît comme un dossier dans le [Gestionnaire de fichiers]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) de votre base.
 
 ![Bibliothèque Seafile intégrée dans la gestion de fichiers de la base](images/library-in-file-management.png)
 

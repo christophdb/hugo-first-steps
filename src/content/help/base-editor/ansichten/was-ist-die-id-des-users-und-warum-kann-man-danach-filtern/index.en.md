@@ -48,14 +48,14 @@ Now, for example, if you maintain a table in which you enter the open tasks of y
 The alternative would be to filter by the [Creator]({{< relref "help/base-editor/spaltentypen/die-mitarbeiter-spalte" >}}) column, which also offer dynamic filtering options. However, these two columns have the following disadvantages:
 
 - The **value in the creator column** _cannot_ be **changed** later. Once set, the value always remains the same. This would be problematic in the above example because the creator of the tasks is _not_ the employee.
-- The **Staff column** can only be filled if a team member has at least **read access** to Base. Especially when using the [Universal App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), this may _not_ be desired.
+- The **Staff column** can only be filled if a team member has at least **read access** to base. Especially when using the [Universal App]({{< relref "help/app-builder/app-verwaltung/universelle-app" >}}), this may _not_ be desired.
 - The employee column _cannot_ be **filled automatically via web form**. However, the ID of the user can be set as default value by assigning _{creator.id}_.
 
 You can adjust the **user ID** entered in the text column at any time. So if you want to change the assignment of a row **afterwards**, filtering by the user ID is very helpful.
 
 ### Example: Assignment of tasks
 
-Imagine a to-do list that you use to enter tasks in SeaTable. The **creator column** is _out of_ the question for assigning the responsible person, because then the team members could only create tasks and assign them to themselves. The **employee column** is the most obvious solution, but only if all team members have at least read access to Base. If the team members should not be able to see the tasks of their colleagues under any circumstances, it is recommended to use the user ID to assign the responsible person.
+Imagine a to-do list that you use to enter tasks in SeaTable. The **creator column** is _out of_ the question for assigning the responsible person, because then the team members could only create tasks and assign them to themselves. The **employee column** is the most obvious solution, but only if all team members have at least read access to base. If the team members should not be able to see the tasks of their colleagues under any circumstances, it is recommended to use the user ID to assign the responsible person.
 
 If you assign the open task _"plan next meeting"_ of _Markus_ to another employee, i.e. if you change the **ID of the user** in this row for example from _20 (Markus)_ to _23 (Helmut_ ), the corresponding row will automatically be **filtered out of** the table view of Markus and added to the table view of Helmut.
 

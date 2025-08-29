@@ -2,12 +2,14 @@
 title: 'Beerdigung planen'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/funeral-planner'
+url: '/de/vorlage/beerdigung-planen'
+aliases:
+    - '/de/vorlage/funeral-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Vorlage zur Planung und Organisation einer Beerdigung'
+    description: 'Organisieren Sie die Trauerfeier mit einer hilfreichen Vorlage. Verwalten Sie alle To-dos, Gäste und Details in einem übersichtlichen Tool'
 template: '6624590d2b024f068339'
 ---
 

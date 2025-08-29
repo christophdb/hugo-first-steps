@@ -6,8 +6,8 @@ url: '/de/vorlage/it-helpdesk'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'IT-Helpdesk Vorlage: Support-Tickets einfach verwalten'
+    description: 'Verwalten Sie Ihren IT-Helpdesk mühelos. Organisieren Sie Support-Tickets zentral, weisen Sie Aufgaben zu und behalten Sie den Überblick über Anfragen'
 template: '79de1c79b29445c280ad'
 ---
 
@@ -17,7 +17,7 @@ Ein Ticketing System in SeaTable hilft Ihnen dabei, alle Support-Anfragen zentra
 
 Die zentrale Tabelle der Helpdesk Software erfasst alle eingehenden Anfragen über ein individuell anpassbaresWebformular.
 
-![](images/image-1743602701710.png)
+![Beispiel für ein Ticketformular von SeaTable](images/image-1743602701710.png)
 
 Jedem Eintrag können Sie wichtige Informationen wieStatus,Prioritätund eineverantwortliche Personzuweisen. Dank automatischer Zuweisung an Ihre Teammitglieder nach vorher definierten Zuständigkeiten und einer einfachen Statusänderung von "offen" über "in Bearbeitung" bis hin zu "erledigt" behalten Sie stets den Überblick.
 
@@ -45,7 +45,7 @@ Statistiken: Visualisieren Sie Ihre Ticket-Daten und analysieren Sie wichtige KP
 
 Noch mehr bietet dieintegrierte Appder Helpdesk Software. Eine übersichtliche und intuitive Oberfläche ermöglicht Ihnen einindividuelles Dashboard, das Sie mit wenig Aufwand ganz auf Ihre Bedürfnisse zuschneiden können. Neue Tickets lassen sich mit wenigen Klicks per Webformular erstellen und relevante Informationen können Sie direkt in derKnowledge Baserecherchieren. Die übersichtliche Kanban-Ansicht filtert hier je nach Anwender die Tickets, sodass nur diefür Sie relevanten Ticketsauf Ihrem Board zu sehen sind. Sie können außerdem individuell einstellen,wer welche Daten sehen und bearbeiten darf, um Ihre Tickets vor unberechtigten Zugriffen zu schützen.
 
-![](images/image-1743602924380.png)
+![Dashboard SeaTable IT Help-Desk](images/image-1743602924380.png)
 
 ## Vorteile von SeaTable als Helpdesk Software
 

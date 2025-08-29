@@ -14,9 +14,9 @@ Familiarisez-vous avec la fonction de formulaire de SeaTables pour collecter fac
 
 ## Fonctionnement des formulaires web
 
-Le formulaire web classique est idéal pour les **enquêtes en ligne** et la saisie structurée de nouvelles données. Les colonnes du tableau sont intégrées à l'aide de **champs de formulaire** et les utilisateurs sont guidés tout au long du processus de remplissage. Pour y accéder, vous créez un lien qui permet aux utilisateurs **qui n'ont pas de compte SeaTable** de remplir le formulaire Web. Un formulaire web rempli correspond à **un enregistrement** ou à une ligne ajoutée dans la table correspondante.
+Le formulaire web classique est idéal pour les **enquêtes en ligne** et la saisie structurée de nouvelles données. Les colonnes du tableau sont intégrées à l'aide de **champs de formulaire** et les utilisateurs sont guidés tout au long du processus de remplissage. Pour y accéder, vous créez un lien qui permet aux utilisateurs **qui n'ont pas de compte SeaTable** de remplir le formulaire Web. Un formulaire web rempli correspond à **un enregistrement** ou à une ligne ajoutée dans le tableau correspondant.
 
-Les formulaires web se réfèrent toujours à une **table** dans la base ouverte. C'est pourquoi vous devez d'abord ouvrir la table et la vue concernées avant de créer un formulaire. Dans chaque base, vous pouvez créer et enregistrer un **nombre quelconque** de formulaires web.
+Les formulaires web se réfèrent toujours à un **tableau** dans la base ouverte. C'est pourquoi vous devez d'abord ouvrir le tableau et la vue concernées avant de créer un formulaire. Dans chaque base, vous pouvez créer et enregistrer un **nombre quelconque** de formulaires web.
 
 ## Créer un formulaire
 
@@ -34,8 +34,8 @@ Il existe de nombreuses [possibilités de configuration]({{< relref "help/base-e
 
 Les **paramètres du formulaire web** à droite vous permettent de prendre les décisions suivantes :
 
-- À quelle **table** le formulaire est-il lié ?
-- Quels sont les **éléments statiques** et **les champs de table** que vous souhaitez intégrer dans le formulaire ?
+- À quel **tableau** le formulaire est-il lié ?
+- Quels sont les **éléments statiques** et **les champs de tableau** que vous souhaitez intégrer dans le formulaire ?
 - Une **notification** doit-elle être envoyée (à vous) lors de la soumission du formulaire ?
 - Qui peut **accéder** au formulaire ?
 - Tous les champs **doivent-ils** être **obligatoires**?
@@ -44,7 +44,7 @@ Les **paramètres du formulaire web** à droite vous permettent de prendre les d
 - Souhaitez-vous **rediriger** le participant **vers une page web** après avoir soumis le formulaire ?
 - Le formulaire a-t-il une **date limite de dépôt**?
 
-Les champs disponibles dans le formulaire dépendent des **colonnes** du tableau sélectionné. Si vous ajoutez ou supprimez des colonnes dans la table, les champs disponibles dans les paramètres s'adaptent automatiquement. Les **noms** et l'**ordre** des champs sont directement repris de la table sous-jacente.
+Les champs disponibles dans le formulaire dépendent des **colonnes** du tableau sélectionné. Si vous ajoutez ou supprimez des colonnes dans le tableau, les champs disponibles dans les paramètres s'adaptent automatiquement. Les **noms** et l'**ordre** des champs sont directement repris du tableau sous-jacent.
 
 ![Ajouter et configurer des champs dans un formulaire web](images/Add-fields-to-a-web-form.gif)
 

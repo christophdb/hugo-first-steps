@@ -12,12 +12,12 @@ Do you want to delete an app from your base that you no longer need? No problem!
 
 {{< warning  headline="Authorization required in the group"  text="To be able to delete an app, you must be the **owner** or **administrator of the group** in which the underlying **base** is located. Simple **group members** are not authorized to do this." />}}
 
-## Delete an App from a Base
+## Delete an app from a base
 
 1. Open the **base** where you want to delete an app.
-2. Click **Apps** in the Base header.
+2. Click **Apps** in the base header.
 
-![Click Apps in the Base header](images/click-apps-in-the-base-header.jpg)
+![Click apps in the base header](images/click-apps-in-the-base-header.jpg)
 
 4. Hover your mouse over the desired app and click on the **three dots** on the right.
 5. Select **Delete** .

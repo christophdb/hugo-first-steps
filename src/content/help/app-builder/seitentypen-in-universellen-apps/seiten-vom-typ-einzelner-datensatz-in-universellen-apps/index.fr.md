@@ -20,7 +20,7 @@ Si vous souhaitez modifier les paramètres d'une page, cliquez dans la navigatio
 
 ![Modifier les paramètres du site de la galerie](images/Einstellungen-der-Galerieseite-aendern.png)
 
-Dans les **paramètres de la page**, vous pouvez sélectionner la **table** dans laquelle les différents enregistrements sont stockés.
+Dans les **paramètres de la page**, vous pouvez sélectionner le **tableau** dans lequel les différents enregistrements sont stockés.
 
 ### Éléments statiques
 
@@ -39,7 +39,7 @@ Pour des informations plus précises sur les **possibilités de réglage** de ce
 
 ### Champs du tableau
 
-Toutes les colonnes du tableau à partir desquelles vous pouvez intégrer des données dans la page sont listées comme champs de tableau. Le contenu des champs dépend des différents enregistrements de la table et change en fonction de l'entrée.
+Toutes les colonnes du tableau à partir desquelles vous pouvez intégrer des données dans la page sont listées comme champs de tableau. Le contenu des champs dépend des différents enregistrements du tableau et change en fonction de l'entrée.
 
 Tout comme les éléments statiques, chaque champ de tableau dispose de ses propres **paramètres d'élément**. Choisissez d'abord si vous souhaitez **afficher** le **nom du champ** qui sert d'en-tête à l'élément. Si c'est le cas, vous pouvez régler précisément l'**alignement**, la **taille**, **l'épaisseur** et **la couleur de la police**.
 
@@ -70,7 +70,7 @@ En outre, vous pouvez définir des filtres et des tris prédéfinis afin de limi
 
 ![Ajouter des filtres sur les pages d'enregistrement unique dans les applications universelles](images/Add-filters-on-Single-Record-pages-in-Universal-Apps.png)
 
-Les utilisateurs ne peuvent voir que les informations relatives à un seul enregistrement que vous avez choisi d'afficher via les champs de table intégrés.
+Les utilisateurs ne peuvent voir que les informations relatives à un seul enregistrement que vous avez choisi d'afficher via les champs de tableau intégrés.
 
 {{< warning  headline="Remarque importante"  text="Les utilisateurs de l'application ne peuvent **pas modifier** les **filtres** et **les tris** **prédéfinis**. Vous n'obtenez donc, comme vous le souhaitez, que les entrées filtrées dans un ordre fixe." />}}
 

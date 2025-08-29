@@ -3,6 +3,9 @@ title: 'The best database solution for your team | SeaTable features'
 description: 'Discover the extensive functions of SeaTable: from flexible tables to powerful automations.'
 date: '2025-03-30'
 url: '/functions'
+aliases:
+    - '/en/funktionen/'
+    - '/funktionen/'
 
 sections:
     - name: hero-3

@@ -142,6 +142,9 @@ price_table:
 help_area:
     category: 'Категория'
     section: 'Раздел'
+    available_with: 'Доступно с'
+    toc: 'Содержание'
+    more_articles: 'Больше статей в этой категории'
 
 templates:
     all: 'Bce шаблоны'

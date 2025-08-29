@@ -8,9 +8,9 @@ author: 'nsc2'
 url: '/help/eine-seafile-bibliothek-an-seatable-anbinden'
 ---
 
-If you store a lot of larger files (e.g. images and videos) in a Base, you may eventually reach the [storage limits of your subscription]({{< relref "pages/prices" >}}), and above 100 MB it will no longer be possible to [export]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}).
+If you store a lot of larger files (e.g. images and videos) in a base, you may eventually reach the [storage limits of your subscription]({{< relref "pages/prices" >}}), and above 100 MB it will no longer be possible to [export]({{< relref "help/startseite/import-von-daten/dtable-dateiformat" >}}).
 
-One solution to comply with the limits in this case is to outsource your files to a cloud storage like **Seafile**, which you can then connect to SeaTable. In the following article you will learn how to integrate a Seafile library into a Base.
+One solution to comply with the limits in this case is to outsource your files to a cloud storage like **Seafile**, which you can then connect to SeaTable. In the following article you will learn how to integrate a Seafile library into a base.
 
 {{< warning headline="Info" text="Seafile is the file sharing and cloud storage solution from the makers of SeaTable, allowing you to combine the two products into a total solution for collaborative information management. In doing so, you can combine the advantages of Seafile - flexible storage capacity and file synchronization - with the strengths of SeaTable." />}}
 
@@ -21,35 +21,35 @@ One solution to comply with the limits in this case is to outsource your files t
 
 ![Open the Advanced Settings of a library and click on API Token](images/click-api-token.png)
 
-4. **Name the** **token**, assign a read and write permission or a read only permission and create the token via **Submit**.
+3. **Name the** **token**, assign a read and write permission or a read only permission and create the token via **Submit**.
 
 ![Creation of the API token](images/create-api-token.png)
 
-6. **Copy** the API token to the cache.
+4. **Copy** the API token to the cache.
 
 ![Copying the API token to the cache](images/copy-api-token.png)
 
-8. After that, open the **SeaTable web interface** and go to the Base where you want to include the **library**.
-9. Click the **three dots** in the Base header to open the advanced Base options and select the **third-party integration** option.
+5. After that, open the **SeaTable web interface** and go to the base where you want to include the **library**.
+6. Click the **three dots** in the base header to open the advanced base options and select the **third-party integration** option.
 
 ![Selecting the third-party integration option](images/open-third-party-integration.png)
 
-11. In the Seafile area, click **Add Seafile Library**.
+7. In the Seafile area, click **Add Seafile Library**.
 
 ![Click on Add Seafile Library](images/add-seafile-library.png)
 
-13. Enter the **name of the library**, the **URL of your Seafile server**, and the library **API token** you copied earlier.
+8. Enter the **name of the library**, the **URL of your Seafile server**, and the library **API token** you copied earlier.
 
 ![Integration of the Seafile library](images/add-library-to-base.png)
 
-15. Finally click on **Check**. After the success message has appeared, confirm the integration with **Submit**.  
+9. Finally click on **Check**. After the success message has appeared, confirm the integration with **Submit**.  
     ![Confirm and complete the integration of the Seafile library](images/finish-integration.gif)
 
 ## Access files in Seafile
 
-Nach erfolgreicher Einbindung in die Base erscheint die **Seafile Bibliothek** als Ordner im [Dateimanagement]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) Ihrer Base.
+After successful integration into the base, the **Seafile library** appears as a folder in the [file management]({{< relref "help/base-editor/dateien/das-dateimanagement-einer-base" >}}) of your base.
 
-![Included Seafile library in Base file management](images/library-in-file-management.png)
+![Included Seafile library in base file management](images/library-in-file-management.png)
 
 Through this integration, you can use the files stored in Seafile directly in SeaTable.
 

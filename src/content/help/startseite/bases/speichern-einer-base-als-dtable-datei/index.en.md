@@ -41,8 +41,8 @@ The exported DTABLE file contains the current state of your base, including all 
 - Plugins and
 - Apps.
 
-{{< warning  headline="Attention"  text="However, a DTABLE file **does not** save the history of the base. Snapshots, comments, deleted content in the recycle bin and the log are not included in the export file. Data in the Big Data backend is also not exported to the DTABLE file." />}}
+{{< warning  headline="Attention"  text="However, a DTABLE file **does not** save the history of the base. Snapshots, comments, deleted content in the trash and the log are not included in the export file. Data in the Big Data backend is also not exported to the DTABLE file." />}}
 
 ## Restore a base from a DTABLE file
 
-You can always **import** a DTABLE file back into SeaTable as a new Base. You can learn more about this in the article [Creating a Base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).
+You can always **import** a DTABLE file back into SeaTable as a new base. You can learn more about this in the article [Creating a base from a DTABLE File]({{< relref "help/startseite/import-von-daten/erstellen-einer-base-aus-einer-dtable-datei" >}}).

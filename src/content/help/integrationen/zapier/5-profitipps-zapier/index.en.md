@@ -63,7 +63,7 @@ Using the SeaTable Zapier app you can easily monitor a base for new or changed e
 
 ![SeaTable Base Operations](images/seatable-api-base-operations.png)
 
-{{< warning headline="Only Base Operations are allowed" text="In the _API Request_ action, you can only use API commands from _Base Operations_ because Zapier only knows your API token, so it cannot authenticate general account-related API commands." />}}
+{{< warning headline="Only base Operations are allowed" text="In the _API Request_ action, you can only use API commands from _Base Operations_ because Zapier only knows your API token, so it cannot authenticate general account-related API commands." />}}
 
 Use the option in the SeaTable API documentation to click together an API request and then apply the information. The following example shows the settings necessary to delete a row based on your rows ID.
 

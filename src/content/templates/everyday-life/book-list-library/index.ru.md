@@ -2,7 +2,9 @@
 title: 'Книжный каталог / Библиотека'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/book-list-library'
+url: '/ru/shablon/spiska-knig'
+aliases:
+    - '/ru/шаблон/book-list-library'
 category: 'everyday-life'
 functions:
 seo:

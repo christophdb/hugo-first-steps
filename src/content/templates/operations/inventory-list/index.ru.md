@@ -2,7 +2,9 @@
 title: 'Шаблон инвентаризационной ведомости'
 description: ''
 date: '2025-02-28'
-url: '/ru/шаблон/inventory-list'
+url: '/ru/shablon/spiska-inventarya'
+aliases:
+    - '/ru/шаблон/inventory-list'
 category: 'operations'
 functions:
 seo:

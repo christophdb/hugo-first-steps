@@ -3,6 +3,10 @@ title: 'SeaTable prices: Transparent rates for every team size'
 description: 'SeaTable offers powerful functions at fair prices. Discover our various tariffs and find the optimal solution for your data management.'
 date: '2025-03-30'
 url: '/prices'
+aliases:
+    - '/en/preise/'
+    - '/en/pricing/'
+    - '/preise/'
 
 sections:
     - name: hero-price

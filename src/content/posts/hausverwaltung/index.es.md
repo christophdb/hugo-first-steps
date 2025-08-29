@@ -48,7 +48,7 @@ A veces no puede evitar una gestión inmobiliaria profesional y no tiene ninguna
 
 La empresa de gestión inmobiliaria también se encarga del mantenimiento de las zonas verdes, por ejemplo.
 
-La **Ley de Propiedad Horizontal alemana (Wohnungseigentumsgesetz** ) estipula qué actividades debe asumir el administrador de fincas. Deberías vigilar si el administrador de fincas realiza sus tareas correctamente para reconocer a las [empresas dudosas](https://www.hausverwaltung-ratgeber.de/woran-erkennt-man-einen-unserioesen-hausverwalter.html).
+La **Ley de Propiedad Horizontal alemana (Wohnungseigentumsgesetz** ) estipula qué actividades debe asumir el administrador de fincas. Deberías vigilar si el administrador de fincas realiza sus tareas correctamente para reconocer a las empresas dudosas.
 
 ## Qué tareas conlleva la gestión inmobiliaria
 

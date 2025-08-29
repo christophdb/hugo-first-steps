@@ -21,7 +21,7 @@ La planificación financiera en una empresa se ocupa del registro sistemático, 
 ## Las ventajas y los objetivos más importantes de la planificación financiera
 
 - **Garantizar la liquidez**: Debe disponer siempre de ingresos y activos suficientes para cubrir sus costes fijos y cumplir sus obligaciones de pago.
-- **Planificar presupuestos e inversiones**: Aclare cuánto dinero necesita para alcanzar sus objetivos empresariales y de dónde debe proceder el dinero. Esto le proporcionará una base sólida para tomar decisiones sobre presupuestos e inversiones.
+- **Planificar presupuestos e inversiones**: Aclare cuánto dinero necesita para alcanzar sus objetivos empresariales y de dónde debe proceder el dinero. Esto le proporcionará una base sólida para tomar decisiones sobre [presupuestos]({{< relref "posts/20250606-budgetplanung" >}}) e inversiones.
 - **Aumente la rentabilidad**: La planificación financiera ayuda a aumentar sus beneficios y a reducir el capital empleado y los costes para mejorar la rentabilidad de su empresa.
 - **Minimice los riesgos**: Controlando regularmente las cifras financieras clave, podrá reconocer a tiempo los aumentos de costes, las caídas de las ventas y los próximos pagos. Calcule siempre las reservas para estar preparado en caso de problemas de liquidez.
 - **Genere confianza**: Con una planificación financiera bien pensada, usted demuestra que puede manejar el dinero de forma competente. Esto aumenta su solvencia ante los bancos y refuerza la confianza de sus empleados y partes interesadas.
@@ -36,12 +36,12 @@ Las tareas de la planificación financiera pueden dividirse en distintas fases:
 En primer lugar, registre todos los activos y pasivos, así como los ingresos y gastos de su empresa, que también se reflejan en los estados financieros anuales. Al obtener una visión general de la situación financiera actual, podrá derivar previsiones de flujo de caja, evaluar la liquidez y examinar la financiación existente (por ejemplo, préstamos, capital propio).
 
 ### 2. Fase de planificación (elaboración del plan financiero)
-En la fase central de la planificación financiera, usted utiliza los datos obtenidos en la fase de análisis para crear su plan financiero con previsión. Éste puede dividirse en varias áreas:
+En la fase central de la planificación financiera, usted utiliza los datos obtenidos en la fase de análisis para crear su [plan financiero]({{< relref "pages/industry-solutions/finanzplan-erstellen" >}}) con previsión. Éste puede dividirse en varias áreas:
 - **Planificación de las ventas**: ¿Cómo evolucionarán sus ingresos y cómo pueden aumentarse las ventas?
 - **Planificación de costes**: ¿En qué costes fijos y variables incurrirá y cuáles puede reducir?
-- **Previsión de rentabilidad**: ¿Cuánto volumen de negocio necesita generar para que su empresa sea rentable?
+- [Previsión de rentabilidad]({{< relref "posts/rentabilitaetsvorschau" >}}): ¿Cuánto volumen de negocio necesita generar para que su empresa sea rentable?
 - **Planificación de las inversiones**: ¿Qué compras desea realizar y dónde está bien invertido su dinero?
-- **Planificación de la liquidez**: ¿Cómo asegura la solvencia de su empresa?
+- [Planificación de la liquidez]({{< relref "posts/20250628_liquiditaetsplanung" >}}): ¿Cómo asegura la solvencia de su empresa?
 - **Planificación de las necesidades de capital**: ¿Cuánto capital necesita su empresa para las operaciones y las inversiones?
 - **Planificación de la financiación**: ¿De dónde saldrá el dinero (capital propio o prestado)?
 

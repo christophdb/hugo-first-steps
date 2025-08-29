@@ -41,7 +41,7 @@ Sélectionnez ensuite **Envoyer une notification** comme action automatisée. Ce
 ![Ajouter l'action automatisée](images/add-an-action.png)  
 ![Ajouter l'action automatisée](images/send-notification.png)
 
-L'étape suivante consiste à sélectionner les **utilisateurs** qui doivent être informés lorsque l'événement déclencheur se produit. Notez que vous ne pouvez sélectionner ici que les utilisateurs qui ont au moins **un accès en lecture** à la table ou à la vue.
+L'étape suivante consiste à sélectionner les **utilisateurs** qui doivent être informés lorsque l'événement déclencheur se produit. Notez que vous ne pouvez sélectionner ici que les utilisateurs qui ont au moins **un accès en lecture** au tableau ou à la vue.
 
 ![Sélection des utilisateurs qui doivent être informés ](images/select-users-to-get-notified.png)
 
@@ -63,7 +63,7 @@ Grâce à une automatisation, une **notification** doit être envoyée automatiq
 
 ### Création de l'automation
 
-Tout d'abord, donnez un **nom** à l'automation (par exemple notification if training is booked) et sélectionnez la table (ici : employees & trainings) ainsi que la vue dans laquelle l'automation doit agir.
+Tout d'abord, donnez un **nom** à l'automation (par exemple notification if training is booked) et sélectionnez le tableau (ici : employees & trainings) ainsi que la vue dans laquelle l'automation doit agir.
 
 ![Désignation de l'automatisation et définition du tableau et de la vue dans lesquels elle doit agir](images/definition-of-the-automation-1.png)
 

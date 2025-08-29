@@ -19,7 +19,7 @@ In this article you will learn how to**delete** a **single row**, **multiple row
 
 {{< warning  headline="Warning" >}}
 
-Before deleting a large amount of data, it is recommended to take a [snapshot of]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) your Base.
+Before deleting a large amount of data, it is recommended to take a [snapshot of]({{< relref "help/base-editor/historie-und-versionen/speichern-der-aktuellen-base-als-snapshot" >}}) your base.
 
 {{< /warning >}}
 
@@ -40,8 +40,8 @@ You can delete the entry in any cell of a row by clicking the **Select cell** an
 
 ## Restore deleted rows
 
-If you want to restore a **deleted row**, you can find it in the **Base recycle bin**. In this you will find all deleted rows and you can **restore** them with one click.
+If you want to restore a **deleted row**, you can find it in the **base trash**. In this you will find all deleted rows and you can **restore** them with one click.
 
 ![Restore deleted rows](images/restore-rows-from-trash.png)
 
-You can also use the key combination {{< key "CTRL" >}} + {{< key "Z" >}} Undo your last operations and restore deleted rows if you have not left Base since deletion.
+You can also use the key combination {{< key "CTRL" >}} + {{< key "Z" >}} Undo your last operations and restore deleted rows if you have not left base since deletion.

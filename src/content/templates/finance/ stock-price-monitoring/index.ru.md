@@ -2,7 +2,9 @@
 title: 'Мониторинг цен на акции'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/stock-price-monitoring'
+url: '/ru/shablon/monitoringa-aktsiy'
+aliases: 
+    - '/ru/шаблон/stock-price-monitoring'
 category: 'finance'
 functions:
 seo:

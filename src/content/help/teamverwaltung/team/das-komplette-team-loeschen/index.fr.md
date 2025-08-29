@@ -12,7 +12,7 @@ En tant qu'**administrateur d'équipe**, vous pouvez **supprimer complètement**
 
 ## Pour supprimer votre équipe complète
 
-1. Passez à la **gestion d'équipe**.
+1. Passez à l'**administration d'équipe**.
 2. Cliquez sur l'option **Abonnement** à gauche sous **Navigation**.
 3. Faites défiler vers le bas et cliquez sur **Compte d'équipe et supprimer complètement toutes les données**.
 4. Confirmez la suppression.

@@ -29,14 +29,14 @@ Les propriétaires et les administrateurs d'un groupe peuvent ajouter ou supprim
 
 Si vous ne trouvez pas la personne que vous recherchez, ou plus précisément si l'autocomplétion ne vous propose pas la personne souhaitée, c'est très probablement parce que cette personne ne fait pas partie de votre équipe. Dans ce cas, cet autre utilisateur de SeaTable ne peut pas être ajouté à votre groupe. Ce n'est qu'à l'aide d'un lien d'invitation que vous pouvez partager une base avec cette personne et ainsi collaborer.
 
-## Ajouter des membres d'équipe dans la gestion d'équipe
+## Ajouter des membres d'équipe dans l'administration d'équipe
 
-Les membres de l'équipe disposant d'un droit d'administrateur ont en outre la possibilité de gérer tous les groupes et leurs membres dans la gestion d'équipe. L'avantage de la gestion d'équipe est qu'elle permet de modifier simultanément l'appartenance à un groupe et les autorisations correspondantes.
+Les membres de l'équipe disposant d'un droit d'administrateur ont en outre la possibilité de gérer tous les groupes et leurs membres dans l'administration d'équipe. L'avantage de l'administration d'équipe est qu'elle permet de modifier simultanément l'appartenance à un groupe et les autorisations correspondantes.
 
 1. Passez à la **page d'accueil** de SeaTable.
-2. Cliquez en haut à droite sur **l'image de** votre **avatar**, puis sur **Gestion d'équipe**.
+2. Cliquez en haut à droite sur **l'image de** votre **avatar**, puis sur **Administration d'équipe**.
 
-![Ouvrir la gestion d'équipe](images/open-team-admin.jpg)
+![Ouvrir l'administration d'équipe](images/open-team-admin.jpg)
 
 4. Passez à la section **Équipe**, puis à l'onglet **Groupes**.
 

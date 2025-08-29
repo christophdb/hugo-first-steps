@@ -3,6 +3,9 @@ title: 'Registro: Es muy fácil empezar'
 description: 'Regístrese ahora y benefíciese de nuestra suscripción gratuita. Sin apenas esfuerzo, uso inmediato y sin necesidad de tarjeta de crédito.'
 date: 2025-03-24
 url: '/es/registro/'
+aliases:
+    - '/es/inscripcion/'
+    - '/es/registrierung/geschafft/'
 
 sections:
     - name: form-registration

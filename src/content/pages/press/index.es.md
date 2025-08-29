@@ -3,6 +3,9 @@ title: 'Prensa de SeaTable: Noticias y reportajes'
 description: 'Más información sobre SeaTable Press y los interesantes reportajes que destacan nuestra plataforma y sus aplicaciones.'
 date: '2025-04-03'
 url: '/es/prensa'
+aliases:
+    - '/es/press/'
+    - '/es/presse/'
 
 sections:
     - name: 'content-23'

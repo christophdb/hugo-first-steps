@@ -22,9 +22,9 @@ Um den **Zugriff auf Ihre Daten** genau zu steuern, können Sie für jede Seite,
 3. Fahren Sie mit der Maus über die Universelle App und klicken Sie auf das **Stift-Symbol** {{< seatable-icon icon="dtable-icon-rename" >}}.
    ![Klicken Sie auf das Bearbeitungs-Symbol](images/add-page-to-universal-app-1.png)
 4. Wählen Sie aus der Navigation am linken Seitenrand die gewünschte **Seite** aus und klicken Sie auf das **Zahnrad-Symbol** {{< seatable-icon icon="dtable-icon-set-up" >}}.
-![Klick auf das Bearbeitungs-Symbol](images/page-permissions-universal-app.png) 
+   ![Klick auf das Bearbeitungs-Symbol](images/page-permissions-universal-app.png)
 5. Legen Sie in den am rechten Seitenrand erschienenen **Seiteneinstellungen** die gewünschten **Berechtigungen** fest.
-![Festlegung der Seitenberechtigungen](images/page-permissions.png)
+   ![Festlegung der Seitenberechtigungen](images/page-permissions.png)
 6. Die definierten Seitenberechtigungen werden **automatisch** gespeichert und **unmittelbar** übernommen.
 
 ## Welche Seitenberechtigungen es gibt
@@ -36,21 +36,21 @@ Folgende Seitenberechtigungen können Sie einstellen:
 - Wer darf Zeilen löschen?
 - Wer kann die Seite sehen?
 
-Nicht alle Seitenberechtigungen sind für alle [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) verfügbar. Hier ein Überblick:
+Nicht alle Berechtigungen sind für alle [Seitentypen]({{< relref "help/app-builder/seitentypen-in-universellen-apps/ueberblick" >}}) verfügbar. Hier ein Überblick:
 
-| Page type                             | Add records                                                     | Modify records                                                  | Delete records                                                  | View page                                                       |
-| ------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------| --------------------------------------------------------------- | --------------------------------------------------------------- |
-| Table page                            | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Form page                             | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Gallery page                          | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Calendar page                         | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Custom page                           | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Kanban page                           | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Timeline page                         | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Query page                            | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
-| Single record page                    | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                     | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Seitentyp           | Zeilen hinzufügen                                             | Zeilen bearbeiten                                             | Zeilen löschen                                                | Seite sehen                                                   |
+| ------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| Tabelle             | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Formular            | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Galerie             | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Kalender            | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Dashboard           | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Kanban              | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Zeitstrahl          | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Abfrage             | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
+| Einzelner Datensatz | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} | {{< icon "circle-xmark" >}}                                   | {{< icon icon="circle-check" class="text-seatable-orange" >}} |
 
-## Welche Nutzergruppen Sie berechtigen können
+## Welche Benutzergruppen Sie berechtigen können
 
 Für jede Berechtigung stehen Ihnen folgende Optionen zur Auswahl, mit denen Sie den Personenkreis eingrenzen können: **Niemand**, **Administratoren**, **Bestimmte Rollen** und **Jeder**.
 

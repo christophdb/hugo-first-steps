@@ -2,7 +2,9 @@
 title: 'Управление складом'
 description: ''
 date: '2025-07-18'
-url: '/ru/шаблон/upravlenije-skladom'
+url: '/ru/shablon/upravleniya-skladom'
+aliases:
+    - '/ru/шаблон/upravlenije-skladom'
 category: 'operations'
 functions:
 seo:

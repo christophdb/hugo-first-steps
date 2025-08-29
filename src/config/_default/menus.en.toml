@@ -62,7 +62,7 @@ pageRef = "pages/industry-solutions/project-management"
 weight = 32
 
 [[main]]
-name = "HR"
+name = "Human Resources"
 parent = "Solutions"
 pageRef = "pages/industry-solutions/hr"
 weight = 33
@@ -84,6 +84,19 @@ name = "Individual"
 parent = "Solutions"
 pageRef = "pages/industry-solutions/individual"
 weight = 36
+
+[[main]]
+name = "Sales"
+parent = "Solutions"
+pageRef = "pages/industry-solutions/kundenmanagement"
+weight = 38
+
+[[main]]
+name = "Finance"
+parent = "Solutions"
+pageRef = "pages/industry-solutions/finanzplan-erstellen"
+weight = 37
+
 
 [[main]]
 name = "Resources"

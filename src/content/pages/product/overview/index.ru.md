@@ -5,6 +5,8 @@ seo:
     description: 'SeaTable предлагает гибкие облачные, выделенные и локальные решения, идеально соответствующие требованиям вашего бизнеса'
 date: '2025-03-30'
 url: '/ru/produkty'
+aliases:
+    - '/ru/products/'
 
 sections:
     - name: hero-2

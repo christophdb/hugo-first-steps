@@ -2,7 +2,9 @@
 title: 'Планировщик фестивалей'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/festival-planner'
+url: '/ru/shablon/planirovshchika-festivalej'
+aliases:
+   - '/ru/шаблон/festival-planner'
 category: 'events'
 functions:
 seo:

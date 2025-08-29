@@ -15,7 +15,7 @@ If you do not want to run automations for a certain period of time, you can **pa
 ## Temporarily stop automations
 
 1. Open a **table** where you want to pause an active automation.
-2. Click {{< seatable-icon icon="dtable-icon-rule" >}} in the Base header and then click **Automation Rules**.
+2. Click {{< seatable-icon icon="dtable-icon-rule" >}} in the base header and then click **Automation Rules**.
 3. Hover the mouse cursor over the corresponding automation rule and click the **pause icon** on the far right {{< seatable-icon icon="dtable-icon-paused" >}}.
 
 ![Pause automations](images/pause-an-automation-1.png)

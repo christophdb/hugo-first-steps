@@ -42,23 +42,23 @@ Mediante la **función de búsqueda integrada** en el cuadro de diálogo de enla
 
 Incluso puede añadir una **nueva fila** a una tabla **vinculada** a través del diálogo de vínculos sin tener que cambiar a esta tabla. La fila se añade entonces a la tabla enlazada entre los registros existentes y se muestra como una entrada enlazada en la columna de enlace de la tabla abierta.
 
-1. **Haga doble clic** en la **celda de** una **columna de enlace** o en el **símbolo** azul de **la doble flecha** para abrir el cuadro de diálogo de enlace.
+1. **Haga doble clic** en la **celda** de una **columna de enlace** o en el **símbolo azul de la doble flecha** para abrir el cuadro de diálogo de enlace.
 
 ![Doble clic en una columna de enlaces](images/click-in-linked-column.png)
 
-3. Haga clic en **Añadir fila**.
+2. Haga clic en **Añadir fila**.
 
 ![Haga clic en Añadir fila](images/click-add-record.jpg)
 
-5. En la ventana que se abre, rellene las distintas **columnas de la tabla**.
+3. En la ventana que se abre, rellene las distintas **columnas de la tabla**.
 
 ![Rellenar las columnas de la tabla](images/fill-columns.png)
 
-7. Haga clic en **Enviar** para crear la nueva fila.
+4. Haga clic en **Enviar** para crear la nueva fila.
 
 ![Haga clic en enviar](images/click-submit.png)
 
-9. La **nueva fila** se añade automáticamente a la **tabla vinculada** y se muestra en la tabla actualmente abierta como una **entrada vinculada** en la columna de enlace.
+5. La **nueva fila** se añade automáticamente a la **tabla vinculada** y se muestra en la tabla actualmente abierta como una **entrada vinculada** en la columna de enlace.
 
 ## Editar entradas existentes de una tabla vinculada
 
@@ -89,7 +89,7 @@ En el menú desplegable puede seleccionar primero la **columna de la tabla vincu
 
 ![Selección de la columna vinculada de la tabla vinculada](images/select-column-of-linked-table-to-display.png)
 
-### Limitar los enlaces a una línea
+### Limitar los enlaces a una fila
 
 Activando el control deslizante correspondiente, puede limitar la vinculación a un **máximo de una fila**. Si este ajuste está activo, sólo se podrá añadir **una entrada enlazada** en cada celda de la columna de enlace.
 

@@ -28,7 +28,7 @@ In the calendar plugin you can display dates from a [date column]({{< relref "he
 
 These articles may also be of interest to you:
 
-- [Create multiple calendars for one Base]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
+- [Create multiple calendars for one base]({{< relref "help/base-editor/plugins/mehrere-kalender-fuer-eine-base-anlegen" >}})
 - [Create new calendar entries in the calendar plugin]({{< relref "help/base-editor/plugins/neue-kalendereintraege-im-kalender-plugin-anlegen" >}})
 
 ## Timeline plugin

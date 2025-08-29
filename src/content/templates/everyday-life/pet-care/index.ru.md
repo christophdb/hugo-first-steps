@@ -2,7 +2,9 @@
 title: 'Содержание домашних животных'
 description: ''
 date: '2024-08-24'
-url: '/ru/шаблон/pet-care'
+url: '/ru/shablon/pitomtsy'
+aliases:
+    - '/ru/шаблон/pet-care'
 category: 'everyday-life'
 functions:
 seo:

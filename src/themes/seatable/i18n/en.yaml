@@ -142,6 +142,9 @@ price_table:
 help_area:
     category: 'Category'
     section: 'Section'
+    available_with: 'Available with'
+    toc: 'Table of Contents'
+    more_articles: 'More articles in this category'
 
 templates:
     all: 'All templates'

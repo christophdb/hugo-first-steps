@@ -10,7 +10,7 @@ categories:
     - 'low-code-no-code'
 tags:
     - 'No Code & Low Code'
-    - 'Aplicação universal'
+    - 'Universal App Builder'
 color: '#9fe0cc'
 url: '/pt/app-erstellen'
 ---

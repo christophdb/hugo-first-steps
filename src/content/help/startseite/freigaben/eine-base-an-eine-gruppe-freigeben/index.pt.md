@@ -18,26 +18,26 @@ Pode partilhar as suas bases tanto **a partir da** página **inicial** como **de
 
 ## Partilhar uma Base a partir da Página Principal
 
-![Lançamento de uma Base a um Grupo](images/Freigabe-einer-Base-an-eine-Gruppe.gif)
+![Partilhar uma Base a um Grupo](images/Freigabe-einer-Base-an-eine-Gruppe.gif)
 
 1. Ir para a **página inicial do SeaTable**.
 2. Mova o ponteiro do rato para a **base** que pretende dividir e clique nos **três pontos** que aparecem do lado direito.
-3. Clique em **Release**.
-4. Ir para **Libertação para Grupo**.
-5. Seleccione o **grupo** desejado para o qual pretende libertar a **base**.
+3. Clique em **Partilhar**.
+4. Ir para **Partilhar para Grupo**.
+5. Seleccione o **grupo** desejado para o qual pretende partilhar a **base**.
 6. Definir se pretende atribuir **direitos de leitura e escrita** ou apenas **direitos de leitura**.
 7. Clique em **Submeter**.
 
-## Lançamento dentro da base
+## Partilhar dentro da base
 
-![Lançamento dentro da base](images/share-a-base.png)
+![Partilhar dentro da base](images/share-a-base.png)
 
 Se estiver actualmente **numa base**, também pode criar uma acção sem ter de mudar para a página inicial. Para o fazer, clique no **ícone de partilha** {{< seatable-icon icon="dtable-icon-share" >}} no canto superior direito das **opções da base**. A janela que se abre para criar uma acção parece-se exactamente com a da página inicial. Basta seguir as instruções de clique acima, a partir do passo 4.
 
 ## Limitações
 
 - **Só** pode partilhar bases com grupos dos quais já é **membro**.
-- As bases que **você mesmo criou** podem ser libertadas em qualquer altura, enquanto que as bases que pertencem a um grupo só podem ser libertadas para outros grupos por **proprietários** e **administradores**.
-- Um grupo que foi libertado por si **não tem direitos de proprietário** e, portanto, **não pode**, por exemplo, alterar o nome da base.
+- As bases que **você mesmo criou** podem ser partilhadas em qualquer altura, enquanto que as bases que pertencem a um grupo só podem ser partilhadas para outros grupos por **proprietários** e **administradores**.
+- Um grupo que foi partilhado por si **não tem direitos de proprietário** e, portanto, **não pode**, por exemplo, alterar o nome da base.
 
 Para aprender a partilhar **tabelas e pontos de vista individuais de** uma base com um grupo, ver o artigo [Criando a partilha personalizada]({{< relref "help/startseite/freigaben/benutzerdefinierte-freigabe-erstellen" >}}).
