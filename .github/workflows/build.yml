@@ -10,8 +10,7 @@ on:
 
 env:
     GO_VERSION: 1.24.3
-    MUFFET_VERSION: v2.10.7
-    MUFFET_VERSION_WITHOUT_V: 2.10.7
+    MUFFET_VERSION: v2.11.0
     PAGEFIND_VERSION: 1.3.0
 
 jobs:
@@ -43,73 +42,6 @@ jobs:
                   name: site
                   path: src/archive.tar.gz
 
-    check-links-en:
-        name: Check links English
-        runs-on: ubuntu-22.04
-        needs: create-archive
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v4
-            - name: Start development server
-              run: docker compose up -d
-            - name: Wait until the container is healthy
-              uses: raschmitt/wait-for-healthy-container/@master
-              with:
-                  container-name: hugo
-                  timeout: 240
-            - name: Check links English (/en/)
-              run: |
-                  docker run --rm -v ${{ github.workspace }}:/site -w /site \
-                    raviqqe/muffet:${{ env.MUFFET_VERSION_WITHOUT_V }} -t60 -c30 -f \
-                    -i 'http://127.0.0.1:1313/en \
-                    -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
-                    http://127.0.0.1:1313/en/
-
-    check-links-fr:
-        name: Check links French
-        runs-on: ubuntu-22.04
-        needs: create-archive
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v4
-            - name: Start development server
-              run: docker compose up -d
-            - name: Wait until the container is healthy
-              uses: raschmitt/wait-for-healthy-container/@master
-              with:
-                  container-name: hugo
-                  timeout: 240
-            - name: Check links English (/fr/)
-              run: |
-                  docker run --rm -v ${{ github.workspace }}:/site -w /site \
-                    raviqqe/muffet:${{ env.MUFFET_VERSION_WITHOUT_V }} -t60 -c30 -f \
-                    -i 'http://127.0.0.1:1313/fr' \
-                    -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
-                    http://127.0.0.1:1313/fr/
-
-    check-links-es:
-        name: Check links Spanish
-        runs-on: ubuntu-22.04
-        needs: create-archive
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v4
-            - name: Start development server
-              run: docker compose up -d
-            - name: Wait until the container is healthy
-              uses: raschmitt/wait-for-healthy-container/@master
-              with:
-                  container-name: hugo
-                  timeout: 240
-            - name: Check links English (/es/)
-              run: |
-                  docker run --rm -v ${{ github.workspace }}:/site -w /site \
-                    raviqqe/muffet:${{ env.MUFFET_VERSION_WITHOUT_V }} -t60 -c30 -f \
-                    -i 'http://127.0.0.1:1313/es' \
-                    -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
-                    http://127.0.0.1:1313/es/
-
-    # check links without englisch, french and spanish
     check-links:
         name: Check links
         runs-on: ubuntu-22.04
@@ -132,21 +64,13 @@ jobs:
                   container-name: hugo
                   timeout: 240
             - name: Check links
-              run: |
-                  muffet -t60 -c30 -f -v \
-                    -i 'http://127*' -i 'http://localhost' \
-                    -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
-                    -e 'http://127.0.0.1:1313/en' -e 'http://127.0.0.1:1313/fr' -e 'http://127.0.0.1:1313/es' \
-                    http://127.0.0.1:1313
+              run: muffet -f -i 'http://127*' -i 'http://localhost' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' http://127.0.0.1:1313
 
     deploy:
         name: Deploy
         needs:
             - create-archive
             - check-links
-            - check-links-en
-            - check-links-fr
-            - check-links-es
         runs-on: ubuntu-22.04
         if: github.ref == 'refs/heads/main'
         steps:
