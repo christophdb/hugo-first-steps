@@ -21,7 +21,7 @@ registration:
     email_required: 'E-Mail ist ein Pflichtfeld'
     submit: 'Jetzt anmelden'
     send: 'Registrierung wird geschickt...'
-    success: 'Registrierung erfolgreich. Prüfen Sie Ihre E-Mail Inbox.'
+    success: 'Registrierung erfolgreich. Überprüfen Sie Ihren E-Mail-Posteingang.'
     error: 'Es ist ein Fehler aufgetreten.'
 
 contact:
@@ -37,7 +37,10 @@ contact:
     error: 'Es ist ein Fehler aufgetreten.'
 
 newsletter:
-    submit_text: 'Abonnieren'
+    submit: 'Abonnieren'
+    send: 'Die Anmeldung wird gesendet...'
+    success: 'Abonnement erfolgreich. Überprüfen Sie Ihren E-Mail-Posteingang.'
+    error: 'Es ist ein Fehler aufgetreten.'
 
 support_table:
     support_channel: 'Support-Kanal'
@@ -157,3 +160,12 @@ templates:
 
 template-box:
     title: 'Testen Sie unser interaktives Template. Auch die Ansichten sind anpassbar.'
+
+customer-logo:
+    company: 'Firma'
+    industry: 'Branche'
+    location: 'Ort'
+
+customer-story:
+    subtitle: 'Das sagen unsere Kunden'
+    link-text: 'Mehr erfahren'

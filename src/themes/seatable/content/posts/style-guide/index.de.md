@@ -334,6 +334,7 @@ Cloudvox SRL: Wie SeaTable **komplexe Daten** zugänglich macht
 ```
 {{</* customer-story
   image="feature.jpg"
+  subtitle="Das sagen unsere Kunden"
   link-text="Mehr erfahren"
   link-target="posts/20250321-customer-story-cloudvox-srl" */>}}
 
@@ -341,6 +342,8 @@ Cloudvox SRL: Wie SeaTable komplexe Daten zugänglich macht
 
 {{</*/ customer-story */>}}
 ```
+
+Die Parameter `subtitle` und `link-text` sind optional. Wenn die Werte nicht gesetzt werden, wird der Standardtext in der jeweils passenden Sprache verwendet.
 
 ### Logo
 
