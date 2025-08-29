@@ -8,6 +8,7 @@ date: 2025-04-01
 url: '/digital-logbook'
 aliases:
     - '/fahrtenbuch'
+    - '/en/fahrtenbuch/'
 tags:
     - 'Finances'
     - 'Tools & Plugins'

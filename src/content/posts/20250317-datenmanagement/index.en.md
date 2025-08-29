@@ -13,6 +13,8 @@ tags:
     - 'No Code & Low Code'
 color: '#bedeab'
 url: '/datenmanagement/'
+aliases:
+    - '/en/datenmanagement/'
 ---
 
 ## Data management guarantees success

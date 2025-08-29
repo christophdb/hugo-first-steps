@@ -12,6 +12,8 @@ tags:
     - 'No Code & Low Code'
 color: '#f2afdb'
 url: '/low-code'
+aliases:
+    - '/en/low-code/'
 ---
 
 ## Say Goodbye to coding - with Low Code and No Code

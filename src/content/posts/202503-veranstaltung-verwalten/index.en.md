@@ -7,7 +7,9 @@ seo:
 date: 2025-03-23
 url: '/event-organization'
 aliases:
-    - /veranstaltung-verwalten/
+    - '/veranstaltung-verwalten/'
+    - '/en/veranstaltung-verwalten/'
+    - '/en/veranstaltungen-verwalten/'
 tags:
     - 'Event Management'
 categories:

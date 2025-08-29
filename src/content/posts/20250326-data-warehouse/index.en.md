@@ -11,6 +11,8 @@ tags:
     - 'Data Management & Visualisation'
     - 'Digital Transformation'
 url: '/data-warehouse'
+aliases:
+    - '/en/data-warehouse/'
 color: '#34ba9d'
 ---
 
