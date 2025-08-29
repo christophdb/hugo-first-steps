@@ -143,6 +143,8 @@ help_area:
     category: 'Kategorie'
     section: 'Abschnitt'
     available_with: 'Verfügbar mit'
+    toc: 'Inhaltsverzeichnis'
+    more_articles: 'Weitere Artikel in dieser Kategorie'
 
 templates:
     all: 'Alle Templates'

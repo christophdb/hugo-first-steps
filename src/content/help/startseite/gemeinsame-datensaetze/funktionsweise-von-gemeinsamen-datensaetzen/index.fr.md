@@ -19,6 +19,8 @@ Par rapport au [partage d'une vue]({{< relref "help/startseite/freigaben/freigab
 - Les tableaux qui accèdent à un jeu de données commun peuvent être **synchronisés** à tout moment, c'est-à-dire comparés à la version la plus récente de l'ensemble de données (par exemple lorsque des collaborateurs viennent d'être ajoutés ou quittent l'entreprise).
 - Il existe une relation descendante : les modifications apportées au jeu de données commun sont reprises dans les tableaux dépendants lors de la synchronisation. Les modifications apportées à ces tableaux n'ont toutefois **aucun** effet sur l'ensemble de données sous-jacent.
 
+{{< warning headline="Jeux de données partagés et Big Data Backend" text="À l’heure actuelle, il n’est pas possible d’utiliser des jeux de données partagés dans une vue Big Data." />}}
+
 Dans l'aperçu suivant, vous trouverez également les liens vers les différents articles d'aide dans la rubrique Jeux de données communs.
 
 ## Création d'un jeu de données commun
