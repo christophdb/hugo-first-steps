@@ -1,153 +1,143 @@
 ---
-title: 'Airtable Erfahrungen – Funktionen, Kosten und Datenschutz'
-description: 'Sie suchen nach einer Software, mit der Sie Ihre Daten organisieren und Ihre Prozesse optimieren können? Dann sind Sie vermutlich bereits auf Airtable gestoßen. Doch was ist Airtable und wie schneidet Airtable im Test ab? Dieser Artikel fasst für Sie die Airtable Erfahrungen anderer Nutzer zusammen, beleuchtet das Airtable Pricing und zeigt, wie Sie Airtable kostenlos nutzen können.'
+title: 'Airtable review – functions, costs, and data protection'
+description: "Are you looking for software to organize your data and optimize your processes? Then you've probably come across Airtable. But what is Airtable and what is Airtable used for? This article summarizes the Airtable experiences of other users, sheds light on Airtable pricing and shows which restrictions you have to expect if you use Airtable (free of charge)."
 seo:
-    title: 'Airtable Erfahrungen | Airtable Pricing | Airtable kostenlos'
-    description: 'Was ist Airtable und wie schneidet Airtable im Test ab? Dieser Artikel betrachtet die Airtable Erfahrungen anderer Nutzer, das Airtable Pricing und wie Sie Airtable kostenlos nutzen können.'
+    title: 'Airtable review | Airtable pricing | Airtable free'
+    description: 'What is Airtable and what is Airtable used for? This Airtable review looks at the Airtable experience of other users and Airtable pricing (Airtable plans and Airtable free).'
 date: 2025-08-21
 categories:
     - 'best-practice'
 tags:
-    - 'Wenn Excel nicht mehr reicht'
-    - 'Toolings & Plugins'
-url: '/de/airtable'
+    - 'When Excel is no longer sufficient'
+    - 'Tools & Plugins'
+url: '/airtable'
 color: '#f07c66'
-draft: true
 ---
 
-## Was ist Airtable?
+## What is Airtable?
 
-Airtable ist eine **cloudbasierte Kollaborationsplattform**, die eine **Mischung aus Tabellenkalkulation und Datenbanksoftware** darstellt. Je nach Blickwinkel kann man die Frage "Was ist Airtable?" deshalb unterschiedlich beantworten: Da man seine Daten dort meist in Tabellen erfasst und strukturiert, wird es oft als leistungsfähigere [Excel Alternative]({{< relref "pages/excel-alternative" >}}) betrachtet. Airtable wird aber auch als [No-Code-Datenbank]({{< relref "posts/20250307-low-code" >}}) bezeichnet, mit der man ohne tiefergehende Programmierkenntnisse Datenbanken erstellen, managen und nutzen kann.  
+Airtable is a **cloud-based collaboration platform** and a **blend of spreadsheet and database software**. Depending on your point of view, the question "What is Airtable?" can therefore be answered differently: As you usually record and structure your data in tables, it is often regarded as a more powerful [Excel alternative]({{< relref "pages/excel-alternative" >}}). However, Airtable is also referred to as a [no-code database]({{< relref "posts/20250307-low-code" >}}), which can be used to create, manage and use databases without in-depth programming knowledge.
 
-Weil in einer digitalisierten Welt so gut wie überall Daten anfallen, gibt es eine große Bandbreite an Anwendungsmöglichkeiten, um mit Airtable Erfahrungen zu machen. Daher bietet Airtable kostenlos Einstiegslösungen für verschiedene Bereiche wie Produktentwicklung, Marketing, Operations, Projektmanagement, Personal, Vertrieb und Finanzen an. Bei höheren Anforderungen und größeren Teams geht das Airtable Pricing aber schnell ins Geld.
+### What is Airtable used for?
 
-{{< warning headline="Das Unternehmen hinter Airtable" text="Hinter Airtable steckt die Entwicklungsfirma Formagrid Inc., die 2012 von Howard Liu, Andrew Ofstad und Emmett Nicholas gegründet wurde. Das US-amerikanische Unternehmen aus San Francisco ist mit mehr als 500 Mitarbeitern und einem geschätzten Jahresumsatz von 100 bis 500 Millionen US-Dollar mittlerweile ein großer Player in einer wachsenden Software-Marktnische." />}} 
+Since data is generated almost everywhere in a digitalized world, there is a wide range of **application possibilities** to gain experience with Airtable. Therefore, Airtable offers free entry-level solutions for various areas such as product development, marketing, operations, project management, HR, sales and finance, which are, however, very limited. For higher requirements and larger teams, Airtable pricing quickly adds up.
 
-## Wichtige Airtable Funktionen
+{{< warning headline="The company behind Airtable" text="Behind Airtable is the development company Formagrid Inc. which was founded in 2012 by Howard Liu, Andrew Ofstad and Emmett Nicholas. With more than 500 employees and an estimated annual turnover of 100 to 500 million US dollars, the US company from San Francisco is now a major player in a growing software market." />}}
 
-Wie bereits erwähnt, ist Airtable mehr als ein Tabellen-Tool. Die Software gliedert sich vielmehr in unterschiedliche hierarchische Ebenen: **Workspaces, Bases, Tabellen, Datensätze und Felder**. Bei den Feldern handelt es sich um die senkrechten Spalten innerhalb einer Tabelle, bei denen Sie im Gegensatz zu Excel vorab **feste Datentypen** definieren müssen. Dank der Nähe zu traditionellen Spreadsheets ist die anfängliche Dateneingabe sehr intuitiv. 
-  
-Bei der **Visualisierung der Daten** zeigt sich Airtable sehr flexibel: Neben der klassischen Tabellenansicht können Sie unter anderem Kanban, Gantt, Galerie und Kalender auswählen. Um Ihre Daten passend aufzubereiten, haben Sie **Filter, Sortierungen und Gruppierungen** zur Hand. Für die strukturierte Datenerfassung gibt es zudem **Formulare**.  
+## Important Airtable functions
 
-![Airtable Grid View und Statistiken](airtable-grid-view-and-extensions.jpg)
+As already mentioned, Airtable is more than just a spreadsheet tool. The software is divided into different hierarchical levels: **Workspaces, Bases, Tables, Records and Fields**. The fields are the vertical columns within a table where, unlike Excel, you have to define **fixed data types** in advance. Thanks to the proximity to traditional spreadsheets, the initial data entry is very intuitive.
 
-Darüber hinaus bietet Airtable **Erweiterungen** für Reporting und Statistiken, Page Design und Time Tracking an. Die **Automatisierungen und Integrationen** (z. B. via Zapier oder Make) erlauben es Ihnen, manuelle Arbeitsschritte durch effiziente Workflows zu ersetzen, die unter bestimmten Bedingungen von allein ablaufen. Nicht zuletzt können Sie mit dem **Airtable Interface Designer** sogar eigene Webanwendungen auf Basis Ihrer Datenbanken bauen – oder Ihre Idee von **Omni**, Airtables eigenem KI-Assistenten, umsetzen lassen.
+Airtable is extremely flexible when it comes to **visualizing the data**: in addition to the classic table view, you can select Kanban, Gantt, gallery and calendar, among others. You can use filters, sorting and grouping to prepare your data appropriately. There are also **forms** for structured data entry.
+
+![Airtable Grid View and Statistics](airtable-grid-view-and-extensions.jpg)
+
+Airtable also offers **extensions** for reporting and statistics, page design and time tracking. The **automations and integrations** (e.g. via Zapier or Make) allow you to replace manual work steps with efficient workflows that run automatically under certain conditions. Last but not least, you can even use the **Airtable Interface Designer** to build your own web applications based on your databases – or have your idea realized by **Omni**, Airtable's own AI assistant.
+
+## Advantages and disadvantages of Airtable
+
+Based on hundreds of online reviews in which users describe their Airtable experiences, some strengths and weaknesses of Airtable crystallize. Here is an overview of the most important arguments and points of criticism:
+
+### Popular features and advantages of Airtable
+
+1. **User-friendly interface**: At first glance, Airtable's minimalist, clean user interface catches the eye. You can organize your data clearly at any time and display it in different views. For international customers who do not speak English well, it is good to know that Airtable also offers German, French and Spanish as languages.
+   
+2. **Flexible data management**: Airtable is highly flexible and suitable for a wide variety of projects and workflows. You can adapt it to your individual requirements and use it for a variety of use cases – from simple lists to complex systems.
+   
+3. **Custom fields**: With numerous field types, you can configure the information in your data sets in a versatile way and define the data types that are allowed in fields. This allows you to standardize data formats and minimize input errors.
+   
+4. **Smart integration of AI**: Artificial intelligence is available in Airtable for interface design as well as integrated as a separate field type. With the right prompts, you can create applications on a large scale and generate content from your data.
 
 ![Airtable Interface Designer](airtable-interface-designer.jpg)
 
-## Vor- und Nachteile von Airtable
+### Frequently mentioned disadvantages and problems
 
-Basierend auf Hunderten Online-Bewertungen, in denen Nutzer ihre Airtable Erfahrungen schildern, kristallisieren sich einige Stärken und Schwächen von Airtable heraus. Hier die wichtigsten Argumente und Kritikpunkte im Überblick:
+1. **Hardly any predefined structures**: This is the downside of flexibility. You are using a construction kit and need certain conceptual skills to create meaningful data structures. Users who have little experience with Airtable or generally have no prior knowledge of databases and tables may feel overwhelmed by the number of functions, especially at the beginning.
+   
+2. **More time required at the beginning**: This disadvantage goes hand in hand with the previously mentioned point. Unlike special industry software, you can adapt Airtable flexibly to your requirements. However, building new workflows from scratch usually takes longer at the beginning. Compared to [Asana]({{< relref "pages/asana-alternative" >}}), for example, Airtable can only be recommended to a limited extent as a project management tool, as you have to put a lot of things together yourself.
+   
+3. **Insufficient data protection**: Time and again, Airtable's data protection comes in for harsh criticism. The storage of customer data on cloud servers in the USA and the lack of an option to install Airtable on-premises make Airtable unattractive for many companies with higher security requirements. For companies in the EU, the use of the software is even legally questionable, as Airtable does not fully guarantee GDPR compliance.
+   
+4. **High Airtable costs**: Many teams that started with Airtable for free soon reach their limits and are faced with exploding costs. The Airtable costs are unforeseeable at the beginning, hardly scalable and the price jumps are immense; a Team license currently costs 24 US dollars per user per month. There is no cheaper entry-level plan, but there are cheaper Airtable alternatives: many users switch to SeaTable, for example, because they are dissatisfied with Airtable pricing.
 
-### Beliebte Features und Vorteile von Airtable
+![Airtable costs rise quickly as data volumes increase](airtable-kosten.jpg)
+   
+In addition to these major disadvantages, there is also repeated criticism of individual Airtable functions. For example, many users find the user access and authorization management confusing or that advanced calculations with Airtable formulas quickly become too complicated. Users also report that some functions from the desktop version are missing in the mobile version of Airtable, and that navigation in the Airtable app is a challenge. Although there is a free comment function for each data record in Airtable, some users would like to have a group chat or private messages for a more intensive exchange.
 
-{{< faq "Benutzerfreundliche Oberfläche" >}} 
-Auf den ersten Blick fällt bei Airtable die minimalistische, cleane Benutzeroberfläche ins Auge. Sie können Ihre Daten jederzeit übersichtlich ordnen und in verschiedenen Ansichten anzeigen lassen. Dies ist besonders vorteilhaft, wenn Ihre Datenbanken größer und komplexer werden.
-{{< /faq >}}
+## Airtable and the GDPR
 
-{{< faq "Flexibles Datenmanagement" >}} 
-Airtable ist hochgradig flexibel und für unterschiedlichste Projekte und Arbeitsabläufe geeignet. Sie können es an Ihre individuellen Anforderungen anpassen und für eine Vielzahl von Anwendungsfällen einsetzen – von einfachen Listen bis hin zu komplexen Systemen.
-{{< /faq >}}
+Companies in the EU are subject to the General Data Protection Regulation (GDPR). We will therefore take a closer look at how Airtable deals with data protection. On its website, Airtable states that its data protection program is designed to comply with requirements, laws and regulations, including the GDPR. **However, Airtable's customer data is hosted by Amazon Web Services (AWS) on servers that are mostly located in the USA**.
 
-{{< faq "Benutzerdefinierte Felder" >}}
-Mit zahlreichen Feldtypen können Sie die Informationen in Ihren Datensätzen vielseitig konfigurieren und die Datentypen festlegen, die in Feldern erlaubt sind. Dadurch vereinheitlichen Sie die Datenformate und minimieren Eingabefehler. 
-{{< /faq >}}
+In accordance with the GDPR, Airtable offers you the **European Data Residency**, where customer data is managed in an AWS data center in Frankfurt (Germany) and backups are secured in an AWS data center in Ireland. However, this option is only available from the most expensive subscription (Enterprise Scale), which is out of the question for many users. Even if you take advantage of the European Data Residency, only the **database content** (e.g. data records, files and the change history) is stored in the EU. All other information such as user and authentication data, metadata (e.g. database names and descriptions) and support data will continue to reside in the USA. EU companies using Airtable can therefore not guarantee compliance with the GDPR, which prohibits the **transfer of personal data** to third countries such as the USA without explicit consent.
 
-{{< faq "Smarte Einbindung von KI" >}} 
-Künstliche Intelligenz ist bei Airtable ebenso für das Interface Design verfügbar wie als eigener Feldtyp integriert. Mit den richtigen Prompts können Sie im großen Stil Anwendungen erstellen und Inhalte aus Ihren Daten generieren.
-{{< /faq >}}
+In this regard, you should know that the so-called [USA Patriot Act](https://en.wikipedia.org/wiki/Patriot_Act) following the terrorist attacks of September 11, 2001 allows some US authorities such as the FBI, the NSA or the CIA to access the servers of US companies without a court order and to siphon off personal data. In 2013, it became known that this was not only happening in individual cases, but that the **surveillance of servers of large US tech companies** such as Microsoft and Google was taking place systematically, en masse and continuously. What is considered a necessary evil for companies in the USA is a no-go for companies in Europe and many other parts of the world. Some experts even fear that the USA is deliberately engaging in **industrial espionage** and generally advise against storing data in US clouds.
 
-### Häufig genannte Nachteile und Probleme
+![due to the possible monitoring of US servers, data protection is not guaranteed with Airtable](airtable-privacy-usa.jpg)
 
-{{< faq "Kaum vorgegebene Strukturen" >}}
-Das ist die Kehrseite der Flexibilität. Sie bedienen sich aus einem Baukasten und benötigen gewisse konzeptionelle Fähigkeiten, um sinnvolle Datenstrukturen anzulegen. Nutzer, die bisher wenig Airtable Erfahrungen oder generell Vorkenntnisse im Umgang mit Datenbanken und Tabellen haben, fühlen sich von der Anzahl der Funktionen gerade am Anfang überfordert. 
-{{< /faq >}}
+### Is it possible to use Airtable self-hosted?
 
-{{< faq "Höherer Aufwand zu Beginn" >}}
-Dieser Nachteil geht mit dem zuvor genannten Punkt einher. Anders als spezielle Branchensoftware können Sie Airtable flexibel an Ihre Anforderungen anpassen. Von Grund auf neue Workflows zu bauen dauert zu Beginn aber meist länger. Im Vergleich zu [Asana]({{< relref "pages/asana-alternative" >}}) ist Airtable als Projektmanagement Tool beispielsweise nur bedingt zu empfehlen, da man sich vieles selbst zusammenbasteln muss.
-{{< /faq >}}
+If you are now thinking about ways in which you might be able to use Airtable in a GDPR-compliant manner, you probably have the idea of deploying self-hosted Airtable. Many interested parties with **high data security requirements**, especially critical infrastructure companies, also have the desire to install and operate Airtable self-hosted on their own servers. However, such an Airtable download is not possible, as the solution is only available as a [cloud-based SaaS product]({{< relref "posts/202503-cloud-computing" >}}) and Airtable has no plans to offer an on-premises version in the future.
 
-{{< faq "Hohe Airtable Kosten" >}}
-Viele Teams, die mit Airtable kostenlos begonnen haben, stoßen bald an Limits und sehen sich mit explodierenden Airtable Kosten konfrontiert. Denn der preisliche Sprung von Airtable kostenlos zu einer kostenpflichtigen Version ist enorm; eine Team-Lizenz schlägt derzeit mit 20 US-Dollar pro Nutzer und Monat zu Buche. Einen günstigeren Einstiegstarif gibt es nicht, dafür aber günstigere Airtable Alternativen: Viele Nutzer wechseln beispielsweise zu SeaTable, weil Sie mit dem Airtable Pricing unzufrieden sind.
-{{< /faq >}}
-
-{{< faq "Unzureichender Datenschutz" >}}
-Immer wieder stößt bei Airtable der Datenschutz auf harte Kritik. Die Speicherung von Kundendaten auf Cloud-Servern in den USA und die fehlende Option, Airtable On-Premises zu installieren, machen Airtable für viele Unternehmen mit höheren Sicherheitsanforderungen unattraktiv. Für Unternehmen in der EU ist die Software sogar rechtlich bedenklich, da Airtable die DSGVO Compliance nicht vollumfänglich gewährleistet.
-{{< /faq >}}
-
-{{< faq "Keine Mehrsprachigkeit" >}}
-Der Support und die Benutzeroberfläche von Airtable sind ausschließlich in englischer Sprache verfügbar. Was bei IT-Fachkräften rund um die Welt selbstverständlich ist, kann den Anwendern in Fachabteilungen durchaus Verständnisprobleme bereiten. Deshalb bieten Anbieter von ähnlichen Tools wie Airtable auch Deutsch, Französisch, Spanisch oder andere Sprachen in ihrer Software an.
-{{< /faq >}}
-
-{{< faq "Kritik an einzelnen Airtable Funktionen" >}}
-Neben diesen wesentlichen Nachteilen wird auch immer wieder Kritik an einzelnen Airtable Funktionen laut. Viele Nutzer finden zum Beispiel das Benutzerzugriffs- und Berechtigungsmanagement verwirrend oder dass fortgeschrittene Berechnungen mit Formeln in Airtable schnell zu kompliziert werden. Ebenso berichten Nutzer, dass in der mobilen Version von Airtable einige Funktionen aus der Desktop-Version fehlen und die Navigation in der Airtable App eine Herausforderung darstellt. Zwar gibt es in Airtable kostenlos eine Kommentarfunktion für jeden Datensatz, manche Nutzer würden sich aber einen Gruppenchat oder private Nachrichten für einen intensiveren Austausch wünschen.
-{{< /faq >}}
-
-## Airtable und die DSGVO
-
-Unternehmen in der EU unterliegen der Datenschutzgrundverordnung (DSGVO). Daher werfen wir im Folgenden einen ausführlicheren Blick darauf, wie genau es Airtable mit dem Datenschutz nimmt. Auf seiner Website schreibt Airtable dazu, dass sein Datenschutzprogramm darauf ausgelegt sei, Anforderungen, Gesetze und Vorschriften einschließlich der DSGVO zu erfüllen. **Kundendaten von Airtable werden allerdings von Amazon Web Services (AWS) auf Servern gehostet, die größtenteils in den USA stehen**.
-
-Zwar bietet Ihnen Airtable gemäß DSGVO die **European Data Residency** an, bei der Kundendaten in einem AWS-Rechenzentrum in Frankfurt (Deutschland) verwaltet und Backups in einem AWS-Rechenzentrum in Irland gesichert werden. Diese Option ist aber erst ab dem teuersten Abonnement (Enterprise Scale) verfügbar, das für viele Nutzer überhaupt nicht in Frage kommt. Selbst wenn Sie die European Data Residency in Anspruch nehmen, wird nur der **Datenbankinhalt** (z. B. Datensätze, Dateien und die Änderungshistorie) in der EU gespeichert. Alle weiteren Informationen wie Benutzer- und Authentifizierungsdaten, Metadaten (z. B. Datenbanknamen und -beschreibungen) und Supportdaten liegen weiterhin in den USA. EU-Unternehmen, die Airtable verwenden, können somit nicht die Einhaltung der DSVGO garantieren, welche die **Weitergabe personenbezogener Daten** an Drittländer wie die USA ohne ausdrückliche Zustimmung untersagt.
-
-Diesbezüglich sollten Sie wissen, dass der sogenannte [USA Patriot Act](https://de.wikipedia.org/wiki/USA\_Patriot\_Act) in Folge der Terroranschläge vom 11. September 2001 einigen US-Behörden wie dem FBI, der NSA oder der CIA erlaubt, ohne richterliche Anordnung auf die Server von US-Unternehmen zuzugreifen und personenbezogene Daten abzuschöpfen. Im Jahr 2013 wurde bekannt, dass dies nicht nur in Einzelfällen geschieht, sondern die **Überwachung von Servern großer US-Tech-Konzerne** wie Microsoft und Google systematisch, massenhaft und kontinuierlich stattfindet. Was für Firmen in den USA als notwendiges Übel gilt, ist für Unternehmen in Europa und in vielen anderen Teilen der Welt ein No-Go. Einige Fachleute befürchten sogar, dass von den USA gezielt **Wirtschaftsspionage** betrieben wird, und raten generell davon ab, Daten in US-Clouds zu speichern.
-
-### Ist es möglich, Airtable self-hosted zu nutzen?
-
-Wenn Sie nun über Wege nachdenken, wie Sie Airtable vielleicht doch DSGVO-konform nutzen können, haben Sie vermutlich die Idee, self-hosted Airtable zu deployen. Viele Interessenten mit hohen Anforderungen an die Datensicherheit, vor allem Unternehmen der kritischen Infrastruktur, hegen ebenfalls den Wunsch, Airtable self-hosted auf ihren eigenen Servern zu installieren und zu betreiben. Solch ein Airtable Download ist aber nicht möglich, da die Lösung ausschließlich als [cloudbasiertes SaaS-Produkt]({{< relref "posts/202503-cloud-computing" >}}) verfügbar ist und Airtable nicht vorhat, zukünftig eine On-Premises-Variante anzubieten.
-
-{{< warning headline="SeaTable als Alternative" >}}
-Als Alternative zu Airtable kommt hier vor allem die No-Code-Lösung [SeaTable]({{< relref "/" >}}) ins Spiel. Diese steht der Konkurrenz aus den USA in nichts nach, bietet aber mehr Funktionen als Airtable kostenlos an und ist auch in den bezahlten Abonnements deutlich günstiger. Sie haben die freie Wahl, ob Sie die DSGVO-konforme [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}) nutzen möchten, die ausschließlich auf deutschen Servern eines Schweizer Anbieters gehostet wird, oder mit [SeaTable Server]({{< relref "pages/product/seatable-server" >}}) die volle Datenhoheit einer On-Premises-Installation genießen. Mehr dazu erfahren Sie in unserem Airtable Test und Toolvergleich [SeaTable vs Airtable]({{< relref "pages/airtable-alternative" >}})." 
+{{< warning headline="SeaTable as an alternative" >}}
+As an alternative to Airtable, the no-code solution [SeaTable]({{< relref "/" >}}) comes into play here. It is in no way inferior to the competition from the USA, but offers more functions than Airtable free of charge and is also significantly cheaper in the paid subscriptions. You are free to choose whether you want to use the GDPR-compliant [SeaTable Cloud]({{< relref "pages/product/seatable-cloud" >}}), which is hosted exclusively on German servers of a Swiss provider, or enjoy the full data sovereignty of an on-premises installation with [SeaTable Server]({{< relref "pages/product/seatable-server" >}}).
 {{< /warning >}}
 
-## Airtable Pricing und Abos
+{{< button label="Discover the No. 1 Airtable alternative" link="pages/airtable-alternative" >}}
 
-Airtable setzt wie die meisten Cloud-Anbieter auf ein **skalierbares Pay-as-you-go-Modell**. Das heißt, dass Sie mit einer kostenlosen Basis-Version starten, die Sie upgraden müssen, sobald Sie erweiterte Funktionen oder mehr Nutzerkonten brauchen oder bestimmte Limits überschreiten. Prinzipiell zahlen Sie also nur für den Produktumfang, den Sie wirklich nutzen. Hier die verschiedenen Tarife im Überblick:
+## Airtable pricing and plans
 
-|                                | **Airtable kostenlos**        | **Airtable Team**             | **Airtable Business**         | **Airtable Enterprise Scale** |
+Like most cloud providers, Airtable relies on a **pay-as-you-go model**. This means that you start with a free basic version, which you have to upgrade as soon as you need **extended functions**, want to add **more users** or exceed certain **limits**. In principle, you only pay for the product scope that you actually use. Here is an overview of the Airtable plans:
+
+| | **Airtable free** | **Airtable Team** | **Airtable Business** | **Airtable Enterprise Scale** |
 | ------------------------------ | ----------------------------- | ----------------------------- | ----------------------------- | ----------------------------- |
-| **Preis pro Nutzer/Monat**     | 0 $                           | 20 $                          | 45 $                          | individuell                   |
-| **Maximale Benutzerzahl**      | 5                             | unbegrenzt                    | unbegrenzt                    | unbegrenzt                    |
-| **Datensätze pro Base**        | 1.000                         | 50.000                        | 125.000                       | 500.000                       |
-| **Speicherplatz pro Base**     | 1 GB                          | 20 GB                         | 100 GB                        | 1.000 GB                      |
-| **Automationsläufe pro Monat** | 100                           | 25.000                        | 100.000                       | 500.000                       |
-| **Änderungshistorie**          | 2 Wochen                      | 1 Jahr                        | 2 Jahre                       | 3 Jahre                       |
-| **KI-Guthaben**                | 500                           | 15.000                        | 20.000                        | 25.000                        |
+| **Price per user/month** | - | 24 USD | 54 USD | individual |
+| **Maximum number of users** | 5 | unlimited | unlimited | unlimited |
+| **Records per base** | 1,000 | 50,000 | 125,000 | 500,000 |
+| **Storage limit per base** | 1 GB | 20 GB | 100 GB | 1,000 GB |
+| **Automation runs per month** | 100 | 25,000 | 100,000 | 500,000 |
+| **Change history** | 2 weeks | 1 year | 2 years | 3 years |
+| **AI credits** | 500 | 15,000 | 20,000 | 25,000 |
 
-In dieser Tabelle sind die wichtigsten Limits aufgeführt, die Sie zu einem Upgrade veranlassen könnten. Wenn Sie sich genauer dafür interessieren, welche Airtable Funktionen in welchem Abonnement enthalten sind, können Sie das Airtable Pricing im Detail auf der Webseite des Unternehmens nachlesen.
+This table lists the most important limits that could prompt you to upgrade. If you are interested in finding out more about which Airtable functions are included in which subscription, you can read the Airtable pricing in detail on the company's website.
 
-### Wie Sie Airtable kostenlos nutzen können
+### How you can use Airtable for free
 
-Wenn Sie einen Airtable Test wagen möchten, benötigen Sie zuallererst einen Account. Diesen können Sie mit Airtable kostenlos einrichten. Nach Ihrem ersten Airtable Login werden Sie ohnehin gratis für 14 Tage auf das kostenpflichtige Team-Abo hochgestuft, damit Sie die erweiterten Funktionen unverbindlich testen können. Danach kehren Sie zur kostenlosen Version zurück, die nur die grundlegenden Airtable Funktionen enthält.
+If you would like to test Airtable, the first thing you need is an **account**. You set this up with Airtable Free. After your first Airtable login, you will be upgraded to the paid Team plan for 14 days free of charge anyway, so that you can test the extended functions without obligation. After that, you will return to the free version, which only contains the basic Airtable functions.
 
-### Airtable Kosten im Vergleich
+### Airtable plans in comparison
 
-Zunächst lässt sich feststellen, dass Airtable sein Pricing in der Vergangenheit bereits angepasst hat. Während das günstigste Bezahl-Abonnement (Airtable Plus) im Jahr 2023 noch 10 $ pro Nutzer und Monat kostete, ist dieses heute mit Airtable Team doppelt so teuer – denn das Plus-Abo existiert nicht mehr. Dies erhöht vor allem für kleine Unternehmen die finanzielle Hürde, auf eine kostenpflichtige Version umzusteigen.  
+The first thing to note is that Airtable has already adjusted its pricing in the past. While **the cheapest paid subscription** (Airtable Plus) still cost 12 US dollars per user per month in 2023, it is now twice as expensive at **24 US dollars per user per month** (Airtable Team) – because the Plus plan no longer exists. This increases the financial hurdle especially for small companies to switch to a paid plan.
+
+In addition, the Team plan **contains fewer features than the former Pro plan**, although it costs the same as its predecessor. For example, Airtable has halved the number of automation runs from a maximum of 50,000 per month to just 25,000 per month and introduced a limit of 100,000 per month for the previously unlimited API calls. Heavy users who don't like this have to upgrade to **the more than twice as expensive Business plan**.
+
+![Price development of Airtable subscriptions](airtable-pricing.png)
+
+As you can see, there is often a rude awakening shortly after the free entry: Because once you've switched your business processes to Airtable and your team and data volumes grow, you'll either have to dig deep into your pockets or switch back to inexpensive software. It is an open secret that Airtable **does not offer the best price-performance ratio**. So you can save yourself a lot of money and effort by opting directly for a cheaper Airtable competitor.
+
+## Conclusion: Airtable pricing and data protection are not convincing
+
+Airtable initially performed quite well in this review: The software scores with many **useful functions** around data management, a tidy user interface and impressive AI features. Many users praise the high **flexibility** of being able to design their own applications from scratch, even if Airtable requires more time and conceptual effort than conventional software in the beginning.
   
-Kurze Zeit nach dem kostenlosen Einstieg kommt oft ein böses Erwachen: Denn wenn Sie erst einmal Ihre Unternehmensprozesse auf Airtable umgestellt haben, Ihr Team und Ihre Datenmengen wachsen, müssen Sie entweder tief in Ihre Tasche greifen oder wieder auf eine preiswerte Software umsteigen. Dabei ist es ein offenes Geheimnis, dass Airtable nicht das beste Preis-Leistungs-Verhältnis bietet. Sie können also viel Geld und Aufwand sparen, wenn Sie sich direkt für einen günstigeren Airtable Konkurrenten entscheiden.
+However, as a **US cloud without an on-premises version**, the provider raises major doubts as to whether Airtable can really guarantee data protection. As personal data on servers of US companies may be spied on, Airtable is incompatible with the GDPR and cannot be used by companies in the EU. **Airtable pricing** is also less suitable for small teams with growing data volumes and user numbers, as Airtable costs skyrocket from the free version to the Team subscription.
 
-## Fazit: Airtable Pricing und Datenschutz überzeugen nicht
+If you are looking for an alternative that offers **more data security and a better price-performance ratio**, SeaTable in particular is worth considering. Take a look at the free basic version of SeaTable, which has a wide range of functions and **more generous limits than Airtable**.
 
-Airtable hat im Test zunächst gut abgeschnitten: Die Software punktet mit vielen nützlichen Funktionen rund um das Datenmanagement, einer aufgeräumten Benutzeroberfläche und beeindruckenden KI-Features. Viele Nutzer loben die hohe Flexibilität, von Grund auf eigene Anwendungen entwerfen zu können, auch wenn Airtable zu Beginn mehr Zeit und konzeptionellen Aufwand erfordert als herkömmliche Software. Zudem kann es für Nutzer, die nicht gut Englisch sprechen, anfangs herausfordernd sein, dass Airtable weder auf Deutsch noch in anderen Sprachen verfügbar ist.
-  
-Als US-Cloud ohne On-Premises-Variante weckt der Anbieter jedoch große Zweifel, ob Airtable den Datenschutz wirklich gewährleisten kann. Da personenbezogene Daten auf Servern von US-Firmen möglicherweise ausgespäht werden, ist Airtable mit der DSGVO unvereinbar und für Unternehmen in der EU nicht einsatzfähig. Gerade für kleine Teams mit wachsenden Datenmengen und Benutzerzahlen ist auch das Airtable Pricing weniger geeignet, da von der Gratis-Version zum Team-Abo die Airtable Kosten sprunghaft ansteigen.  
-  
-Wenn Sie nach einer Alternative suchen, die einen ähnlichen Funktionsumfang, mehr Datensicherheit und ein besseres Preis-Leistungs-Verhältnis bietet, ist vor allem SeaTable eine Überlegung wert. Werfen Sie doch mal einen Blick in die kostenlose Basis-Version von SeaTable, die über großzügigere Limits als Airtable verfügt.  
-  
-{{< button label="Jetzt kostenlos registrieren und zeitlich unbegrenzt testen" link="/pages/registration" >}}
+{{< button label="Register now for free and test for an unlimited time" link="/pages/registration" >}}
 
-## Häufige Fragen zu Airtable
+## Frequently asked questions about Airtable
 
-Was ist Airtable?  
-Airtable ist eine cloudbasierte Datenbanksoftware und Kollaborationsplattform. Auf den ersten Blick wirkt es wie ein klassisches Spreadsheet, daher wird es auch als leistungsstarke Excel Alternative angesehen.
+{{< faq "What is Airtable?" >}}
+Airtable is a cloud-based database software and collaboration platform. At first glance, it looks like a classic spreadsheet, which is why it is also seen as a powerful Excel alternative.
+{{< /faq >}}
 
-Kann man Airtable kostenlos nutzen?  
-Ja, zu Beginn steigen Sie bei Airtable kostenlos ein, Sie müssen allerdings mit eingeschränkten Funktionen und Speicherlimits auskommen. Bei einem Upgrade erhöhen sich die Airtable Kosten schlagartig. Die günstigste Bezahlversion beginnt bei 20 $ pro Nutzer und Monat.
+{{< faq "Is Airtable free?" >}}
+Yes, you can get started with Airtable for free, but you will have to make do with limited functions and storage limits. When you upgrade, the Airtable costs increase dramatically. The cheapest paid plan starts at 24 US dollars per user per month.
+{{< /faq >}}
 
-Kann man Airtable self-hosted betreiben?  
-Nein, leider gibt es keine Möglichkeit, Airtable self-hosted auf den eigenen Servern zu installieren und zu betreiben. Es existieren jedoch Airtable Konkurrenten wie beispielsweise SeaTable, die nicht nur eine Cloud, sondern auch eine On-Premises-Lösung anbieten.
+{{< faq "Can Airtable be self-hosted?" >}}
+No, unfortunately there is no way to install and run Airtable self-hosted on your own servers. However, there are Airtable competitors such as SeaTable, which offer not only a cloud but also an on-premises solution.
+{{< /faq >}}
 
-Ist Airtable DSGVO-konform?  
-Airtable ist zwar darum bemüht, die DSGVO zu erfüllen; als US-Cloud-Anbieter ohne self-hosted Airtable Option ist aber fraglich, ob Airtable den Datenschutz nach europäischen Standards wirklich gewährleisten kann. Denn US-Behörden wie das FBI, die NSA oder die CIA dürfen ohne richterliche Anordnung auf die Server von US-Unternehmen zugreifen und personenbezogene Daten auswerten. Einen verbesserten Schutz könnte die European Data Residency von Airtable bieten, die aber erst ab dem teuersten Abonnement (Enterprise Scale) wählbar ist, was für die meisten Nutzer gar nicht in Frage kommt.
-
-Gibt es Airtable auf Deutsch?  
-Nein, es gibt keine Version von Airtable auf Deutsch oder in anderen Sprachen. Die Oberflächensprache und der Support von Airtable sind ausschließlich auf Englisch verfügbar.
+{{< faq "Is Airtable GDPR compliant?" >}}
+Although Airtable strives to comply with the GDPR, as a US cloud provider without a self-hosted Airtable option, it is questionable whether Airtable can really guarantee data protection in accordance with European standards. This is because US authorities such as the FBI, NSA and CIA are allowed to access the servers of US companies and analyze personal data without a court order. Airtable's European Data Residency could offer improved protection, but this is only available from the most expensive subscription (Enterprise Scale), which is out of the question for most users.
+{{< /faq >}}
