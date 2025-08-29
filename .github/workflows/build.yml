@@ -57,11 +57,12 @@ jobs:
                   container-name: hugo
                   timeout: 240
             - name: Check links English (/en/)
-              run: docker run --rm -v ${{ github.workspace }}:/site -w /site \
-                  raviqqe/muffet:${{ env.MUFFET_VERSION }} -t60 -c30 -f \
-                  -i 'http://127*' -i 'http://localhost' \
-                  -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
-                  http://127.0.0.1:1313/en/
+              run: |
+                  docker run --rm -v ${{ github.workspace }}:/site -w /site \
+                    raviqqe/muffet:${{ env.MUFFET_VERSION }} -t60 -c30 -f \
+                    -i 'http://127*' -i 'http://localhost' \
+                    -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
+                    http://127.0.0.1:1313/en/
 
     check-links-fr:
         name: Check links French
@@ -78,11 +79,12 @@ jobs:
                   container-name: hugo
                   timeout: 240
             - name: Check links English (/fr/)
-              run: docker run --rm -v ${{ github.workspace }}:/site -w /site \
-                  raviqqe/muffet:${{ env.MUFFET_VERSION }} -t60 -c30 -f \
-                  -i 'http://127*' -i 'http://localhost' \
-                  -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
-                  http://127.0.0.1:1313/fr/
+              run: |
+                  docker run --rm -v ${{ github.workspace }}:/site -w /site \
+                    raviqqe/muffet:${{ env.MUFFET_VERSION }} -t60 -c30 -f \
+                    -i 'http://127*' -i 'http://localhost' \
+                    -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
+                    http://127.0.0.1:1313/fr/
 
     # check links without englisch and french
     check-links:
@@ -107,11 +109,12 @@ jobs:
                   container-name: hugo
                   timeout: 240
             - name: Check links
-              run: muffet -t60 -c30 -f \
-                  -i 'http://127*' -i 'http://localhost' \
-                  -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
-                  -e 'http://127.0.0.1:1313/en' -e 'http://127.0.0.1:1313/fr' \
-                  http://127.0.0.1:1313
+              run: |
+                  muffet -t60 -c30 -f \
+                    -i 'http://127*' -i 'http://localhost' \
+                    -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.css' -e 'http://127.0.0.1:1313/pagefind/pagefind-ui.js' \
+                    -e 'http://127.0.0.1:1313/en' -e 'http://127.0.0.1:1313/fr' \
+                    http://127.0.0.1:1313
 
     deploy:
         name: Deploy
