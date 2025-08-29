@@ -4,7 +4,7 @@ description: 'Узнайте больше о SeaTable Press и интересн�
 date: '2025-04-03'
 url: '/ru/pressa'
 aliases:
-    - '/ru/public-service/'
+    - '/ru/press/'
     - '/ru/пресса/'
 
 sections:
