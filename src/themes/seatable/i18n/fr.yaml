@@ -37,7 +37,10 @@ contact:
     error: "Une erreur s'est produite."
 
 newsletter:
-    submit_text: 'Souscrire'
+    submit: "S'abonner"
+    send: "L'abonnement est en cours d'envoi..."
+    success: 'Abonnement réussi. Vérifiez votre boîte de réception.'
+    error: "Une erreur s'est produite."
 
 support_table:
     support_channel: 'Canal de support'
@@ -157,3 +160,12 @@ templates:
 
 template-box:
     title: 'Testez notre modèle interactif. Les vues sont également personnalisables.'
+
+customer-logo:
+    company: 'Entreprise'
+    industry: 'Industrie'
+    location: 'Emplacement'
+
+customer-story:
+    subtitle: 'Ce que disent nos clients'
+    link-text: 'En savoir plus'

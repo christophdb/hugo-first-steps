@@ -37,7 +37,10 @@ contact:
     error: 'Произошла ошибка.'
 
 newsletter:
-    submit_text: 'Подписаться'
+    submit: 'Подписаться'
+    send: 'Отправка подписки...'
+    success: 'Подписка успешна. Проверьте свой почтовый ящик.'
+    error: 'Произошла ошибка.'
 
 support_table:
     support_channel: 'Канал поддержки'
@@ -157,3 +160,12 @@ templates:
 
 template-box:
     title: 'Попробуйте наш интерактивный шаблон. Виды также можно настраивать.'
+
+customer-logo:
+    company: 'Компания'
+    industry: 'Отрасль'
+    location: 'Местоположение'
+
+customer-story:
+    subtitle: 'Что говорят наши клиенты'
+    link-text: 'Узнать больше'

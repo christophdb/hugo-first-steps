@@ -202,7 +202,12 @@
                     // Honeypot field
                     name: '',
                     errors: {},
+                    isSubmitting: false,
                     submitted: false,
+                    successMessage: '', // Message to show on success
+                    errorMessage: '', // Message to show on error
+                    buttonText: '{{ T "newsletter.submit"}}',
+
                     validateEmail() {
                         if (!this.email.trim()) {
                             this.errors.email = '{{ T "registration.email_required" }}';
@@ -212,7 +217,7 @@
                             delete this.errors.email;
                         }
                     },
-                    async submitForm() {
+                    submitForm() {
                         this.validateEmail();
 
                         if (this.errors.email) {
@@ -223,6 +228,10 @@
                         if (this.name.length >= 1) {
                             return;
                         }
+
+                        // Disable the button
+                        this.isSubmitting = true;
+                        this.buttonText = '{{ T "newsletter.send" }}';
 
                         const url = '{{ getenv "HUGO_BACKEND_URL" }}';
                         const data = {
@@ -235,17 +244,26 @@
                         };
                         const params = new URLSearchParams(data);
 
-                        try {
-                            const response = await fetch(`${url}/subscribe`, {
-                                method: 'POST',
-                                headers: headers,
-                                body: params.toString(),
-                            });
-                            const body = await response.json();
-                            this.submitted = true;
-                        } catch (error) {
+                        fetch(`${url}/subscribe`, {
+                            method: 'POST',
+                            headers: headers,
+                            body: params.toString(),
+                        })
+                        .then((response) => response.json())
+                        .then((data) => {
+                            if (data.success) {
+                                this.buttonText = '{{ partial "icon.html" "circle-check" }} {{ T "newsletter.success" }}';
+                            } else {
+                                this.errorMessage = data.error || 'error message'; // Show error message
+                                this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "newsletter.error" }}'; // Reset button text
+                            }
+                        })
+                        .catch((error) => {
                             console.error('Error:', error);
-                        }
+                            this.errorMessage = error; // Show error message
+                            this.buttonText = '{{ partial "icon.html" "fire" }} {{ T "newsletter.error" }}'; // Reset button text
+                        })
+                        .finally(() => {});
                     },
                 };
             }

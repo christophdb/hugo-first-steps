@@ -37,7 +37,10 @@ contact:
     error: 'Ocorreu um erro.'
 
 newsletter:
-    submit_text: 'Subscrever'
+    submit: 'Inscrever-se'
+    send: 'A inscrição está sendo enviada...'
+    success: 'Assinatura bem-sucedida. Verifique sua caixa de entrada.'
+    error: 'Ocorreu um erro.'
 
 support_table:
     support_channel: 'Canal de suporte'
@@ -157,3 +160,12 @@ templates:
 
 template-box:
     title: 'Experimente o nosso modelo interativo. As vistas também podem ser personalizadas.'
+
+customer-logo:
+    company: 'Empresa'
+    industry: 'Indústria'
+    location: 'Localização'
+
+customer-story:
+    subtitle: 'O que dizem os nossos clientes'
+    link-text: 'Saiba mais'

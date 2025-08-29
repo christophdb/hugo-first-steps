@@ -37,7 +37,10 @@ contact:
     error: 'An error has occurred.'
 
 newsletter:
-    submit_text: 'Subscribe'
+    submit: 'Subscribe'
+    send: 'Subscription is being sent...'
+    success: 'Subscription successful. Check your email inbox.'
+    error: 'An error has occurred.'
 
 support_table:
     support_channel: 'Support channel'
@@ -157,3 +160,12 @@ templates:
 
 template-box:
     title: 'Test our interactive template. The views are also customizable'
+
+customer-logo:
+    company: 'Company'
+    industry: 'Industry'
+    location: 'Location'
+
+customer-story:
+    subtitle: 'What our customers say'
+    link-text: 'Learn more'
