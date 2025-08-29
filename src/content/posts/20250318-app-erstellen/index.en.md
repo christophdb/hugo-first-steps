@@ -13,7 +13,8 @@ tags:
 color: '#9fe0cc'
 url: '/app-builder'
 aliases:
-    - /app-erstellen/
+    - '/app-erstellen/'
+    - '/en/app-erstellen/'
 ---
 
 ## How to create your own app without programming knowledge

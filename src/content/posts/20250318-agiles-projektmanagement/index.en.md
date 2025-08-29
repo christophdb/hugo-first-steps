@@ -13,6 +13,8 @@ tags:
     - 'Project Management'
 color: '#1eb0e5'
 url: '/agiles-projektmanagement'
+aliases:
+    - '/en/agiles-projektmanagement/'
 ---
 
 ## Why agile project management?

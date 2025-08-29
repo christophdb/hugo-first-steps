@@ -12,6 +12,8 @@ tags:
     - 'IT Processes'
 color: '#50c2d0'
 url: '/citizen-developer/'
+aliases:
+    - '/en/citizen-developer/'
 ---
 
 ## Citizen Developer: innovation driver for the digital transformation

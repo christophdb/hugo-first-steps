@@ -12,6 +12,8 @@ tags:
     - 'Procurement & Logistics'
 color: '#a57956'
 url: '/beschaffung-unternehmen/'
+aliases:
+    - '/en/beschaffung-unternehmen/'
 ---
 
 ## Procurement management in companies
