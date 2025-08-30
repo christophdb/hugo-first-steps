@@ -1,4 +1,4 @@
-<aside class="group relative -mx-4 mb-16 mt-8 rounded-md bg-blue-200 py-6 pl-[calc(1rem-3px)] pr-4 text-base" style="--base-icon-color: #374151;">
+<aside class="group relative -mx-4 mb-16 mt-8 rounded-md bg-gray-100 py-6 pl-[calc(1rem-3px)] pr-4 text-base" style="--base-icon-color: #374151;">
     <div class="absolute left-0 top-0 flex h-full flex-col text-white">
         <svg xmlns="http://www.w3.org/2000/svg" width="28.5" height="34.5" fill="currentColor" viewBox="0 0 57 69" preserveAspectRatio="none" class="ml-[-2px] mt-[-1.5px]">
             <path
@@ -32,7 +32,7 @@
 
     <!-- Main content -->
     <div class="p-4">
-        <p>{{ T "template-box.title" }}</li></p>
+        <p>{{ or ( .Get "text" ) ( T "template-box.text" ) }}</li></p>
         <iframe
             class="dtable-embed"
             src="https://cloud.seatable.io/dtable/external-links/{{ .Get "id" }}/"
@@ -44,7 +44,7 @@
             <a
                 class="bg-gradient rounded-xl px-5 py-3 font-poppins text-lg font-bold !text-white"
                 href="https://cloud.seatable.io/copy-template/?template_link_token={{ .Get "id" }}/"
-                >{{ T "templates.use_template" }}</a>
+                >{{ or ( .Get "submit" ) ( T "templates.use_template" ) }}</a>
         </div>
     </div>
 </aside>

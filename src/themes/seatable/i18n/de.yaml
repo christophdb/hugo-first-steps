@@ -159,7 +159,7 @@ templates:
     preview: 'Vorschau'
 
 template-box:
-    title: 'Testen Sie unser interaktives Template. Auch die Ansichten sind anpassbar.'
+    text: 'Testen Sie unser interaktives Template. Auch die Ansichten sind anpassbar.'
 
 customer-logo:
     company: 'Firma'
@@ -169,3 +169,9 @@ customer-logo:
 customer-story:
     subtitle: 'Das sagen unsere Kunden'
     link-text: 'Mehr erfahren'
+
+newsletter-subscribe:
+    title: 'Abonnieren Sie unseren Newsletter'
+    subtitle: ''
+    inner: 'Abonnieren Sie unseren Newsletter und bleiben Sie informiert!'
+    submit: 'Abonnieren'

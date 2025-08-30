@@ -133,4 +133,4 @@ Comparez minutieusement et choisissez l'outil le mieux adapté à vos besoins. S
 
 Inscrivez-vous à notre newsletter et restez au courant de tout ce qui concerne la gestion de projet !
 
-{{< newsletter >}}
+{{< newsletter />}}

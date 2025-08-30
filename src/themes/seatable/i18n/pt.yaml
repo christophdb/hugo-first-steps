@@ -159,7 +159,7 @@ templates:
     preview: 'Pré-visualização'
 
 template-box:
-    title: 'Experimente o nosso modelo interativo. As vistas também podem ser personalizadas.'
+    text: 'Experimente o nosso modelo interativo. As vistas também podem ser personalizadas.'
 
 customer-logo:
     company: 'Empresa'
@@ -169,3 +169,9 @@ customer-logo:
 customer-story:
     subtitle: 'O que dizem os nossos clientes'
     link-text: 'Saiba mais'
+
+newsletter-subscribe:
+    title: 'Inscreva-se na nossa newsletter'
+    subtitle: ''
+    inner: 'Inscreva-se na nossa newsletter e fique informado!'
+    submit: 'Inscrever-se'

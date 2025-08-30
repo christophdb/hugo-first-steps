@@ -159,7 +159,7 @@ templates:
     preview: 'Vista previa'
 
 template-box:
-    title: 'Pruebe nuestra plantilla interactiva. Las vistas también son personalizables.'
+    text: 'Pruebe nuestra plantilla interactiva. Las vistas también son personalizables.'
 
 customer-logo:
     company: 'Empresa'
@@ -169,3 +169,9 @@ customer-logo:
 customer-story:
     subtitle: 'Lo que dicen nuestros clientes'
     link-text: 'Saber más'
+
+newsletter-subscribe:
+    title: 'Suscríbete a nuestro boletín'
+    subtitle: ''
+    inner: '¡Suscríbete a nuestro boletín y mantente informado!'
+    submit: 'Suscribirse'

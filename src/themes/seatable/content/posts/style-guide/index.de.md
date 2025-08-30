@@ -2,9 +2,18 @@
 title: 'Blog Design Tutorial'
 description: 'Welche Stylings gibt es? Wie nutze ich diese?'
 draft: true
-date: 2025-08-11
+date: 2025-08-29
 url: '/de/style-guide'
 color: '#eef0f2'
+
+#register: 'hide'
+register:
+    title: 'Das ist der Title'
+    items:
+        - Wert 1
+        - Wert 2
+        - Wert 3
+    submit: 'Ich will'
 ---
 
 ## Typische Markdown Formatierungen
@@ -111,13 +120,13 @@ Die Höhe ist ein optionaler Parameter und kann weggelassen werden. Standardmä�
 
 ### Template-Box
 
-{{< template-box id="14498b7d75cd47ab934c" >}}
-
-Die Default-Texte passen sich automatisch der Sprache an.
+Nur `id` ist verpflichtend. Die anderen Parameter `submit` und `text` sind optional und nutzen dann Standardtexte.
 
 ```
-{{</* template-box id="14498b7d75cd47ab934c" */>}}
+{{</* template-box id="14498b7d75cd47ab934c" submit="Yeah" text="Ich bin der Text..." */>}}
 ```
+
+{{< template-box id="14498b7d75cd47ab934c" submit="Yeah" text="Ich bin der Text..." >}}
 
 ## FAQs
 
@@ -355,6 +364,51 @@ Die Parameter `subtitle` und `link-text` sind optional. Wenn die Werte nicht ges
 
 ## Newsletter
 
-Mit dem Shortcode `{{</* newsletter */>}}` kann man die Newsletter-Anmeldung in jeden Blog-Artikel einbauen.
+### Kurzform
 
-{{< newsletter >}}
+Mit dem Shortcode `{{</* newsletter /*/>}}` kann man die Newsletter-Anmeldung in jeden Blog-Artikel einbauen.
+
+{{< newsletter />}}
+
+### Langform
+
+Alternativ kann man auch die beiden Überschriften, den Button-Text und die Beschreibung inviduell anpassen. Hier der dafür benötigte Shortcode:
+
+```
+{{</* newsletter title=="Title" subtitle="Ich bin optional" submit="Ich will" */>}}
+
+Abonnieren Sie unseren **Newsletter** und bleiben Sie informiert! Hier funktioniert nun auch _Markdown_.
+
+{{</* /newsletter */>}}
+```
+
+{{< newsletter
+title="Title"
+subtitle="Ich bin optional"
+submit="Ich will" >}}
+
+Abonnieren Sie unseren **Newsletter** und bleiben Sie informiert! Hier funktioniert nun auch _Markdown_.
+
+{{</ newsletter >}}
+
+## Registrierung in der Seitenleiste
+
+Die Registerung in der Seitenleiste wird standardmäßig in jedem Blog-Post angezeigt.
+
+Man kann die Box mit folgendem Frontmatter-Eintrag ausblenden:
+
+```
+register: 'hide'
+```
+
+Alternativ kann man die Texte individuell anpassen:
+
+```
+register:
+    title: 'Das ist der Title'
+    items:
+      - Wert 1
+      - Wert 2
+      - Wert 3
+    submit: 'Ich will'
+```

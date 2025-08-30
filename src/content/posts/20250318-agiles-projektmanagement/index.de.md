@@ -136,4 +136,4 @@ Vergleichen Sie gründlich und wählen Sie das passende Tool für Ihre Bedürfni
 
 Registrieren Sie sich zu unserem Newsletter und bleiben Sie rund um das Thema Projektmanagement immer auf dem Laufenden!
 
-{{< newsletter >}}
+{{< newsletter />}}
