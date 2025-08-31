@@ -8,11 +8,12 @@ color: '#eef0f2'
 
 #register: 'hide'
 register:
+    show: true
     title: 'Das ist der Title'
     items:
-        - Wert 1
-        - Wert 2
-        - Wert 3
+        - Wert 1 X
+        - Wert 2 Y
+        - 'Wert 3 Z'
     submit: 'Ich will'
 ---
 
@@ -393,18 +394,12 @@ Abonnieren Sie unseren **Newsletter** und bleiben Sie informiert! Hier funktioni
 
 ## Registrierung in der Seitenleiste
 
-Die Registerung in der Seitenleiste wird standardmäßig in jedem Blog-Post angezeigt.
-
-Man kann die Box mit folgendem Frontmatter-Eintrag ausblenden:
-
-```
-register: 'hide'
-```
-
-Alternativ kann man die Texte individuell anpassen:
+Die Registerung in der Seitenleiste wird aktuell **nicht** in jedem Blog-Post angezeigt.
+Man muss die Box bewußt einblenden mit `show: true`.
 
 ```
 register:
+    show: true
     title: 'Das ist der Title'
     items:
       - Wert 1
@@ -412,3 +407,21 @@ register:
       - Wert 3
     submit: 'Ich will'
 ```
+
+**Später** werden wir die Logik umdrehen und die Box standardmäßig anzeigen und dann kann man die mit folgendem Frontmatter-Eintrag ausblenden:
+
+```
+register: 'hide'
+```
+
+Default-Texte sind auch noch keine festgelegt.
+
+## Tabs
+
+{{< tabs >}}
+
+## Carousel
+
+Not yet ready ...
+
+{{< carousel >}}

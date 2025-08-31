@@ -46,15 +46,21 @@
                 <div class="toc post-toc win-w-[220px] mt-20 hidden w-1/4 lg:block">
                     <div class="sticky top-8 border-l border-dotted border-gray-400 py-2 pl-5">
                         {{ .TableOfContents }}
-                        {{ if ne .Params.register "hide" }}
+
+
+                        <!-- registration box -->
+                        <!-- später so: if ne .Params.register "hide" -->
+                        {{ if .Params.register.show }}
                             <div class="mt-8 rounded-lg bg-gray-100 p-8">
-                                <div class="gradient font-poppins text-xl font-bold">{{ .Params.register.title | default "Kein Title definiert" }}</div>
-                                <ul class="!list-disc">
-                                    <li>Wert 1</li>
-                                    <li class="list-item">Wert 2</li>
-                                    <li class="list-item">Wert 3</li>
+                                <div class="pb-2 font-poppins text-xl font-bold text-seatable-blue">{{ .Params.register.title | default "Kein Title definiert" }}</div>
+                                <ul class="ml-4 !list-disc pb-2">
+                                    {{ range .Params.register.items }}
+                                        <li class="!list-disc">{{ . }}</li>
+                                    {{ end }}
                                 </ul>
-                                <a href="#" class="bg-gradient rounded-lg px-4 py-2 font-poppins !font-bold !text-white md:block"> Jetzt registrieren </a>
+                                <a href="#" class="bg-gradient rounded-lg px-4 py-2 text-center font-poppins !font-bold !text-white md:block"
+                                    >{{ .Params.register.submit | default "Jetzt registrieren" }}</a
+                                >
                             </div>
                         {{ end }}
                     </div>
