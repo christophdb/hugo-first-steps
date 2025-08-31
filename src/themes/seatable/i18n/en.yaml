@@ -159,7 +159,7 @@ templates:
     preview: 'Preview'
 
 template-box:
-    title: 'Test our interactive template. The views are also customizable'
+    text: 'Test our interactive template. The views are also customizable'
 
 customer-logo:
     company: 'Company'
@@ -169,3 +169,9 @@ customer-logo:
 customer-story:
     subtitle: 'What our customers say'
     link-text: 'Learn more'
+
+newsletter-subscribe:
+    title: 'Subscribe to our newsletter'
+    subtitle: ''
+    inner: 'Subscribe to our newsletter and stay informed!'
+    submit: 'Subscribe'

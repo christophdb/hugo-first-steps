@@ -1,6 +1,16 @@
 <div class="my-4 rounded-xl bg-seatable-blue p-12 text-left">
-    <div class="font-poppins text-4xl font-bold leading-none tracking-tight text-white">Abonnieren Sie unseren Newsletter</div>
-    <div class="pt-6 text-lg text-gray-200">Abonnieren Sie unseren Newsletter und bleiben Sie informiert!</div>
+    {{ if .Get "subtitle" }}
+        <div class="gradient font-poppins text-lg font-bold">{{ .Get "subtitle" }}</div>
+    {{ end }}
+
+
+    <div class="font-poppins text-4xl font-bold leading-none tracking-tight text-white">{{ or ( .Get "title") ( T "newsletter-subscribe.inner" ) }}</div>
+    {{ if .Inner }}
+        <div class="pt-6 text-lg text-gray-200">{{ .Inner | markdownify }}</div>
+    {{ else }}
+        <div class="pt-6 text-lg text-gray-200">{{ T "newsletter-subscribe.inner" }}</div>
+    {{ end }}
+
 
     <div x-data="newsletterForm()">
         <form @submit.prevent="submitForm" method="POST">
@@ -23,10 +33,13 @@
 
                 <button
                     type="submit"
-                    class="bg-gradient flex items-center justify-center rounded-lg px-5 py-3 text-center font-poppins text-lg font-bold text-white"
+                    class="bg-gradient flex items-center justify-center whitespace-nowrap rounded-lg px-5 py-3 text-center font-poppins text-lg font-bold text-white"
+                    {{ if .Get "submit" }}
+                        x-init="buttonText = $el.innerText.trim()"
+                    {{ end }}
                     x-bind:disabled="isSubmitting"
                     x-html="buttonText">
-                    {{ T "newsletter.submit" }}
+                    {{ or (.Get "submit") (T "newsletter-subscribe.submit") }}
                 </button>
             </div>
 

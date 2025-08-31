@@ -133,4 +133,4 @@ Compare a fondo y elija la herramienta adecuada para sus necesidades. Si buscas 
 
 Regístrese en nuestro boletín y manténgase al día sobre todo lo relacionado con la gestión de proyectos.
 
-{{< newsletter >}}
+{{< newsletter />}}

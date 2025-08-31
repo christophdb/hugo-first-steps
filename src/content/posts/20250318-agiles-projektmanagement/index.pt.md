@@ -132,4 +132,4 @@ Compare cuidadosamente e escolha a ferramenta certa para as suas necessidades. S
 
 Registe-se para receber a nossa newsletter e mantenha-se atualizado sobre tudo o que diz respeito à gestão de projectos!
 
-{{< newsletter >}}
+{{< newsletter />}}
