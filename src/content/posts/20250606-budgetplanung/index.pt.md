@@ -3,6 +3,8 @@ title: 'Orçamentação: O que é importante no planeamento orçamental?'
 description: 'A orçamentação define quanto dinheiro você e os seus gestores têm disponível para atingir determinados objectivos. Também o ajuda a atribuir dinheiro e recursos de forma sensata a projectos e departamentos. Leia este artigo para saber como funciona um planeamento orçamental eficiente.'
 date: 2025-06-06
 url: '/pt/budgeting'
+aliases:
+    - '/pt/budgetplanung-vorlage/'
 seo:
     title: 'Orçamentação: vantagens, métodos, conselhos'
     description: 'Como funciona a orçamentação numa empresa e o que deve ter em conta? Leia aqui as nossas dicas, incluindo um exemplo.'

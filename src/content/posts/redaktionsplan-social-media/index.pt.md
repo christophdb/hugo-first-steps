@@ -8,7 +8,7 @@ tags:
     - 'Planeamento de conteúdos'
 url: '/pt/calendario-editorial-midia-social'
 aliases:
-    - /pt/redaktionsplan-social-media
+    - '/pt/redaktionsplan-social-media/'
 color: '#cc0512'
 seo:
     title:

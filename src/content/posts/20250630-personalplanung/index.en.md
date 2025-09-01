@@ -12,6 +12,8 @@ tags:
     - 'HR Administration'
 color: '#4c9481'
 url: '/personnel-planning'
+aliases:
+    - '/personalplanung/'
 ---
 
 Imagine a company is planning to launch a new product on the market, but lacks the skilled staff for development, production or marketing. The success of the project is jeopardized before it has really begun. This is where workforce planning comes into play - a strategic tool that ensures you always have the **right people with the right skills** in place.
