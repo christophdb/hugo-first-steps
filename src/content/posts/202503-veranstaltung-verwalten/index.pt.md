@@ -8,7 +8,7 @@ date: 2025-03-23
 url: '/pt/gestao-de-eventos'
 aliases:
     - '/pt/veranstaltung-verwalten/'
-    - '/pt/gestão de eventos/'
+
 tags:
     - 'Gestão de eventos'
 categories:
