@@ -6,6 +6,9 @@ seo:
     description: 'Registo do tempo de trabalho com o SeaTable: digital, gratuito, em conformidade com o RGPD. Gestão eficiente e em conformidade com a lei das horas de trabalho, férias e baixas por doença.'
 date: '2025-08-21'
 url: '/pt/controlo-tempo-trabalho/'
+aliases:
+    - '/pt/arbeitszeiterfassung'
+    - '/pt/registro-horas-trabalho'
 
 sections:
     - name: hero-5

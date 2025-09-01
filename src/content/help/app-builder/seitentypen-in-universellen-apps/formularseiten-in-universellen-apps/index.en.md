@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/help/formularseiten-in-universellen-apps'
 ---
 
-You can use this page type to build different **forms** that users can then submit. Form pages in universal apps are ideal for collecting data from many different users. One possible use case is [recording your employees' working hours]({{< relref "posts/arbeitszeiterfassung" >}}).
+You can use this page type to build different **forms** that users can then submit. Form pages in universal apps are ideal for collecting data from many different users. One possible use case is [recording your employees' working hours]({{< relref "pages/arbeitszeiterfassung" >}}).
 
 ![Web form for recording your employees' working hours](images/webformular-working-time.png)
 

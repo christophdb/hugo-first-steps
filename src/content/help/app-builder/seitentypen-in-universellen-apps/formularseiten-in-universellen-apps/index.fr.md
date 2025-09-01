@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/fr/aide/formularseiten-in-universellen-apps'
 ---
 
-Ce type de page permet de construire différents **formulaires** que les utilisateurs peuvent ensuite soumettre. Les pages de formulaires dans les applications universelles sont idéales pour la saisie de données par de nombreux utilisateurs différents. Une application possible est la [saisie des heures de travail de vos collaborateurs]({{< relref "posts/arbeitszeiterfassung" >}}).
+Ce type de page permet de construire différents **formulaires** que les utilisateurs peuvent ensuite soumettre. Les pages de formulaires dans les applications universelles sont idéales pour la saisie de données par de nombreux utilisateurs différents. Une application possible est la [saisie des heures de travail de vos collaborateurs]({{< relref "pages/arbeitszeiterfassung" >}}).
 
 ![Formulaire web pour enregistrer le temps de travail de vos employés](images/webformular-working-time.png)
 

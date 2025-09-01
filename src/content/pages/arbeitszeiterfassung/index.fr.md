@@ -6,6 +6,9 @@ seo:
     description: 'Enregistrement du temps de travail avec SeaTable : numérique, gratuit, conforme au RGPD. Gestion efficace et conforme à la législation des heures de travail, des congés et des maladies.'
 date: '2025-08-21'
 url: '/fr/suivi-temps-travail/'
+aliases:
+    - '/fr/arbeitszeiterfassung'
+    - '/fr/suivi-temps-employes'
 
 sections:
     - name: hero-5

@@ -6,6 +6,8 @@ seo:
     description: 'Arbeitszeiterfassung mit SeaTable: digital, kostenlos, DSGVO-konform. Effiziente und rechtskonforme Verwaltung von Arbeitszeiten, Urlaub und Krankheit.'
 date: '2025-08-21'
 url: '/de/arbeitszeiterfassung/'
+aliases:
+  - '/de/zeiterfassung-mitarbeiter'
 
 sections:
     - name: hero-5
