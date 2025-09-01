@@ -4,7 +4,7 @@ description: "Augmentez votre productivité avec SeaTable. L&#039;outil de gesti
 date: '2025-04-03'
 url: '/fr/projectmanagement-tools'
 aliases:
-    - '/en/projektmanagement/'
+    - '/fr/projektmanagement/'
 
 sections:
     - name: hero-5
