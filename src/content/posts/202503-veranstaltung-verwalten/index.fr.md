@@ -7,7 +7,8 @@ seo:
 date: 2025-03-23
 url: '/fr/gestion-evenements'
 aliases:
-    - /fr/veranstaltung-verwalten/
+    - '/fr/veranstaltung-verwalten/'
+    - '/fr/veranstaltungen-verwalten/'
 tags:
 categories:
 color: '#f7c1cf'

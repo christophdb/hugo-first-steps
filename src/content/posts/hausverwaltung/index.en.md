@@ -7,6 +7,8 @@ categories:
 tags:
     - 'Finances'
 url: '/property-management-house'
+aliases:
+    - '/hausverwaltung/'
 seo:
     title:
     description:

@@ -12,6 +12,8 @@ tags:
     - 'Administração de Recursos Humanos'
 color: '#4c9481'
 url: '/pt/planeamento-do-pessoal'
+aliases:
+    - '/pt/personalplanung/'
 ---
 
 Imagine que uma empresa está a planear lançar um novo produto no mercado, mas não dispõe de mão de obra qualificada para o desenvolvimento, a produção ou a comercialização. O sucesso do projeto é posto em causa antes de ter começado realmente. É aqui que entra em jogo o planeamento da força de trabalho - uma ferramenta estratégica que garante que tem sempre as **pessoas certas com as competências certas** no local.

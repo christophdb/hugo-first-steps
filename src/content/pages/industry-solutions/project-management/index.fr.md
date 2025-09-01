@@ -3,6 +3,8 @@ title: "L'outil de gestion de projet flexible pour ton équipe"
 description: "Augmentez votre productivité avec SeaTable. L&#039;outil de gestion de projet s&#039;adapte à vos besoins en quelques étapes simples"
 date: '2025-04-03'
 url: '/fr/projectmanagement-tools'
+aliases:
+    - '/en/projektmanagement/'
 
 sections:
     - name: hero-5
