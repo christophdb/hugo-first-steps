@@ -8,7 +8,7 @@ author: 'kgr'
 url: '/es/ayuda/formularseiten-in-universellen-apps'
 ---
 
-Puedes utilizar este tipo de página para crear diferentes **formularios** que los usuarios pueden enviar. Las páginas de formularios en aplicaciones universales son ideales para recopilar datos de muchos usuarios diferentes. Un posible caso de uso es [registrar las horas de trabajo de tus empleados]({{< relref "posts/arbeitszeiterfassung" >}}).
+Puedes utilizar este tipo de página para crear diferentes **formularios** que los usuarios pueden enviar. Las páginas de formularios en aplicaciones universales son ideales para recopilar datos de muchos usuarios diferentes. Un posible caso de uso es [registrar las horas de trabajo de tus empleados]({{< relref "pages/arbeitszeiterfassung" >}}).
 
 ![Formulario web para registrar el tiempo de trabajo de sus empleados](images/webformular-working-time.png)
 

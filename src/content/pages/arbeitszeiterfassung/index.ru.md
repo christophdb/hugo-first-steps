@@ -6,6 +6,9 @@ seo:
     description: 'Учет рабочего времени с SeaTable: цифровой, бесплатный, соответствующий GDPR. Эффективное и соответствующее законодательству управление рабочим временем, отпусками и больничными.'
 date: '2025-08-21'
 url: '/ru/uchet-rabochego-vremeni/'
+aliases:
+    - '/ru/arbeitszeiterfassung'
+    - '/ru/uchet-rabochego-vremeni-sotrudnikov'
 
 sections:
     - name: hero-5

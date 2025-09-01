@@ -6,6 +6,9 @@ seo:
     description: 'Work time tracking with SeaTable: digital, free, GDPR-compliant. Efficient and legally compliant management of work hours, leave, and sick days.'
 date: '2025-08-21'
 url: '/work-time-tracking/'
+aliases:
+  - '/time-tracking'
+  - '/arbeitszeiterfassung'
 
 sections:
     - name: hero-5
