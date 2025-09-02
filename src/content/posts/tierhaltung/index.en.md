@@ -8,7 +8,7 @@ tags:
     - 'Everyday Life & Leisure'
 url: '/animal-husbandry'
 aliases:
-    - /tierhaltung/
+    - '/tierhaltung/'
 color: '#f5c119'
 seo:
     title:

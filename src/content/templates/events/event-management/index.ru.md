@@ -4,6 +4,7 @@ description: ''
 url: '/ru/shablon/organizatsii-meropriyatiy'
 aliases: 
     - '/ru/шаблон/event-management'
+    - '/ru/event-management/'
 category: 'ereignisse'
 functions:
 seo:

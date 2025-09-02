@@ -8,7 +8,7 @@ tags:
     - 'Повседневная жизнь и досуг'
 url: '/ru/zhivotnovodstvo'
 aliases:
-    - /ru/tierhaltung/
+    - '/ru/tierhaltung/'
 color: '#f5c119'
 seo:
     title:
