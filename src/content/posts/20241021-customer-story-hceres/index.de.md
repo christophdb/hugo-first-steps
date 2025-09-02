@@ -12,7 +12,9 @@ tags:
     - 'Digitale Transformation'
     - 'Öffentliche Verwaltung'
 color: '#fbe337'
-url: '/de/effektive-datenverwaltung-beim-hceres-mit-seatable'
+url: '/de/effektive-datenverwaltung-beim-hceres'
+aliases:
+    - '/de/effektive-datenverwaltung-beim-hceres-mit-seatable'
 ---
 
 Der Haut Conseil de l’évaluation de la recherche et de l’enseignement supérieur (Hcéres) ist eine unabhängige öffentliche Behörde in Frankreich, die durch die Artikel L. 114-3-1 bis L. 114-3-6 sowie R. 114-1 bis R. 114-23 des französischen Forschungsgesetzes geregelt wird. Zu den Hauptaufgaben des Hcéres gehören:

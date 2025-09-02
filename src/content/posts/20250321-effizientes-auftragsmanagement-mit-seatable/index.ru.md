@@ -11,7 +11,9 @@ tags:
     - 'Управление данными и визуализация'
     - 'Цифровая трансформация'
 color: '#f7f0d6'
-url: '/ru/effizientes-auftragsmanagement-mit-seatable'
+url: '/ru/effektuvnoje-upravlenije-sakasami-c-seatable'
+aliases:
+    - '/ru/effizientes-auftragsmanagement-mit-seatable'
 ---
 
 ## Продвижение цифровой трансформации

@@ -12,7 +12,9 @@ tags:
     - 'Цифровая трансформация'
     - 'Государственный сектор'
 color: '#bb9de1'
-url: '/ru/customer-story-fr-la-manche/'
+url: '/ru/istorija-klienta-franzusskii-la-manche/'
+aliases:
+    - '/ru/customer-story-fr-la-manche/'
 ---
 
 ## Проблемы управления конфиденциальными данными

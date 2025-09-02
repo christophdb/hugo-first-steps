@@ -13,6 +13,8 @@ tags:
     - 'Setor público'
 color: '#bb9de1'
 url: '/pt/historia-do-cliente-fr-la-manche/'
+aliases:
+    - '/pt/customer-story-fr-la-manche/'
 ---
 
 ## Desafios na gestão de dados sensíveis

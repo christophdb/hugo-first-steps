@@ -11,7 +11,9 @@ categorías:
 tags:
     - 'Transformación Digital'
 color: '#f7f0d6'
-url: '/es/effizientes-auftragsmanagement-mit-seatable'
+url: '/es/gestion-eficaz-de-pedidos-con-seatable'
+aliases:
+    - '/es/effizientes-auftragsmanagement-mit-seatable'
 ---
 
 ## Avanzar en la transformación digital

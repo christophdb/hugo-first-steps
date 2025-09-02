@@ -12,9 +12,10 @@ tags:
     - 'Data Management & Visualisation'
     - 'IT Processes'
 color: '#faeebf'
-url: '/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
+url: '/cloudvox-customer-story'
 aliases:
     - '/en/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht/'
+    - '/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
 ---
 
 ## Background: Missing database interface for non-technical users

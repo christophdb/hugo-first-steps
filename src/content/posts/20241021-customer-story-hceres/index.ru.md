@@ -12,7 +12,9 @@ tags:
     - 'Цифровая трансформация'
     - 'Государственный сектор'
 color: '#fbe337'
-url: '/ru/effektive-datenverwaltung-beim-hceres-mit-seatable'
+url: '/ru/effektivnoe-upravlenie-dannymi-na-hceres'
+aliases:
+    - '/ru/effektive-datenverwaltung-beim-hceres-mit-seatable'
 ---
 
 Высший совет по оценке научных исследований и высшего образования (Hcéres) - это независимый государственный орган во Франции, деятельность которого регулируется статьями L. 114-3-1 - L. 114-3-6 и R. 114-1 - R. 114-23 Кодекса научных исследований Франции. К основным задачам Hcéres относятся

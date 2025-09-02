@@ -11,7 +11,9 @@ categories:
 tags:
     - 'Transformation numérique'
 color: '#f7f0d6'
-url: '/fr/effizientes-auftragsmanagement-mit-seatable'
+url: '/fr/gestion-efficace-des-commandes-avec-seatable'
+aliases:    
+    - '/fr/effizientes-auftragsmanagement-mit-seatable'
 ---
 
 ## Faire avancer la transformation numérique
