@@ -7,7 +7,7 @@ seo:
 date: 2025-04-01
 url: '/ru/digital-logbook'
 aliases:
-    - '/ru/fahrtenbuch'
+    - '/ru/fahrtenbuch/'
 tags:
     - 'Финансы'
     - 'Инструменты и плагины'

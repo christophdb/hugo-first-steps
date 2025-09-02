@@ -6,9 +6,10 @@ categories:
     - 'best-practice'
 tags:
     - 'Повседневная жизнь и досуг'
-url: /ru/festivalniji-spisok'
+url: '/ru/festivalniji-spisok'
 aliases:
-    - /ru/festival-packliste
+    - '/ru/festival-packliste/'
+    - '/ru/spisok-veshchey-dlya-festivala/'
 color: '#74aa84'
 seo:
     title:

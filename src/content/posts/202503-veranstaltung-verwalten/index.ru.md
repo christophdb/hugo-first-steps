@@ -7,7 +7,7 @@ seo:
 date: 2025-03-23
 url: '/ru/upravlenie-meropriyatiyami'
 aliases:
-    - /ru/veranstaltung-verwalten/
+    - '/ru/veranstaltung-verwalten/'
 tags:
     - 'Управление событиями'
 categories:
