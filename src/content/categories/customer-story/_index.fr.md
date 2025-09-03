@@ -1,4 +1,6 @@
 ---
-title: 'Témoignage client'
-url: 'categories/temoignage-client'
+title: 'Success Story'
+url: 'categories/success-story'
+aliases:
+    - /categories/temoignage-client/
 ---

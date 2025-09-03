@@ -1,3 +1,3 @@
 ---
-title: 'Customer Story'
+title: 'Customer Stories'
 ---

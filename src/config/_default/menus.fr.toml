@@ -145,6 +145,12 @@ pageRef = "posts"
 weight = 48
 
 [[main]]
+name = "Success Story"
+parent = "Ressources"
+pageRef = "categories/customer-story"
+weight = 49
+
+[[main]]
 name = "Prix"
 pageRef = "pages/prices"
 weight = 50

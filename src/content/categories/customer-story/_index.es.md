@@ -1,4 +1,6 @@
 ---
-title: 'Testimonios de clientes'
-url: 'categories/testimonios-de-clientes'
+title: 'Casos de exito'
+url: 'categories/casos-de-exito'
+aliases:
+    - /categories/testimonios-de-clientes/
 ---
