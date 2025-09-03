@@ -1,4 +1,4 @@
 ---
-title: 'Customer Story'
+title: 'Customer Stories'
 url: 'categories/customer-story'
 ---

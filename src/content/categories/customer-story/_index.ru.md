@@ -1,4 +1,6 @@
 ---
-title: 'Истории Клиентов'
-url: 'categories/истории-клиентов'
+title: 'истории успеха'
+url: 'categories/istorii-uspekha'
+aliases:
+    - /categories/истории-клиентов/
 ---
