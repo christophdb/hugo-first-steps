@@ -12,7 +12,7 @@ tags:
     - transformación digital
     - 'administración pública'
 color: '#bb9de1'
-url: '/es/historia-del-cliente-fr-la-manche/'
+url: '/es/casos-de-exito/la-manche-modernizo-procesos-publicos/'
 aliases:
     - '/es/customer-story-fr-la-manche/'
 ---
