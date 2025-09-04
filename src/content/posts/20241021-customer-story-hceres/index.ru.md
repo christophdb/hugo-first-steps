@@ -12,7 +12,7 @@ tags:
     - 'Цифровая трансформация'
     - 'Государственный сектор'
 color: '#fbe337'
-url: '/ru/effektivnoe-upravlenie-dannymi-na-hceres'
+url: '/ru/istorii-uspekha/hceres-effektivnoe-upravlenie-dannymi'
 aliases:
     - '/ru/effektive-datenverwaltung-beim-hceres-mit-seatable'
 ---
