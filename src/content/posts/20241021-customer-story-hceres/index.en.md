@@ -12,7 +12,7 @@ tags:
     - 'Digital Transformation'
     - 'Public Sector'
 color: '#fbe337'
-url: '/effective-data-management-at-hceres'
+url: '/customer-story/hceres-effective-data-management'
 aliases:
     - '/en/effektive-datenverwaltung-beim-hceres-mit-seatable/'
     - '/effektive-datenverwaltung-beim-hceres-mit-seatable'
