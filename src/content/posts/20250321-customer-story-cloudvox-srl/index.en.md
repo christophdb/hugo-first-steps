@@ -12,7 +12,7 @@ tags:
     - 'Data Management & Visualisation'
     - 'IT Processes'
 color: '#faeebf'
-url: '/cloudvox-customer-story'
+url: '/customer-story/cloudvox-data-transparency'
 aliases:
     - '/en/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht/'
     - '/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
