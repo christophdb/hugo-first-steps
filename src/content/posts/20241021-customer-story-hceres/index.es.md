@@ -11,7 +11,7 @@ tags:
     - 'Gestión y visualización de datos'
     - 'Administración pública'
 color: '#fbe337'
-url: '/es/gestion-eficaz-de-datos-en-hceres'
+url: '/es/casos-de-exito/hceres-gestion-eficaz-de-datos'
 aliases:
     - '/es/effektive-datenverwaltung-beim-hceres-mit-seatable'
 ---
