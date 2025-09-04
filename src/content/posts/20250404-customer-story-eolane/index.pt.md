@@ -14,7 +14,7 @@ tags:
     - 'Integrações e automatizações'
     - 'Low-Code / No-Code'
 color: '#469361'
-url: '/pt/digitalizacao-com-sucesso-eolane-seatable'
+url: '/pt/casos-de-sucesso/eolane-digitalizacao'
 aliases:
     - '/pt/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane'
 ---
