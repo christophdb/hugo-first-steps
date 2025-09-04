@@ -12,7 +12,7 @@ tags:
     - 'Digitale Transformation'
     - 'Öffentliche Verwaltung'
 color: '#fbe337'
-url: '/de/effektive-datenverwaltung-beim-hceres'
+url: '/de/customer-story/hceres-effektive-datenverwaltung'
 aliases:
     - '/de/effektive-datenverwaltung-beim-hceres-mit-seatable'
 ---
