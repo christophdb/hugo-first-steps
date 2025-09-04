@@ -11,7 +11,7 @@ categories:
 tags:
     - 'Transformação digital'
 color: '#f7f0d6'
-url: '/pt/gestao-eficaz-das-encomendas-com-seatable'
+url: '/pt/casos-de-sucesso/instalacao-de-construcao-gestao-das-encomendas'
 aliases:
     - '/pt/effizientes-auftragsmanagement-mit-seatable'
 ---
