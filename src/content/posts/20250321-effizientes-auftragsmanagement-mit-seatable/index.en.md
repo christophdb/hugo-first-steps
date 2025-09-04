@@ -11,7 +11,7 @@ tags:
     - 'Data Management & Visualisation'
     - 'Digital Transformation'
 color: '#f7f0d6'
-url: '/efficient-order-management-with-seatable'
+url: '/customer-story/building-services-industry-efficient-order-management'
 aliases:
     - 'en/effizientes-auftragsmanagement-mit-seatable/'
     - '/effizientes-auftragsmanagement-mit-seatable'
