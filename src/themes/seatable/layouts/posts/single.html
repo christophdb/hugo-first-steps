@@ -12,7 +12,7 @@
                     <div class="w-full p-8 lg:w-3/5 lg:p-12 xl:p-20">
                         {{ $colorMap := dict "white" "text-white" "neutral" "text-neutral-500" "dark" "text-neutral-900" }}
                         {{ $textColor := index $colorMap (default "neutral" .Params.color) }}
-                        <h1 class="text-56 {{ $textColor }} mt-0 pt-8 text-left text-4xl font-extrabold leading-narrow">{{ .Title | emojify }}</h1>
+                        <h1 class="xl:text-56 {{ $textColor }} mt-0 pt-8 text-left text-3xl font-extrabold leading-narrow md:text-4xl">{{ .Title | emojify }}</h1>
                         <p class="mt-4 text-xl leading-normal">{{ .Description }}</p>
                         <p class="mt-8">{{ .Date.Format .Site.Params.dateFormat }}</p>
                     </div>
@@ -35,10 +35,12 @@
 
                     <div class="mt-12 border-t border-gray-300"></div>
                     <p class="mt-12">
-                        TAGS:
-                        {{ range (.GetTerms "tags") }}
-                            <a href="{{ .Permalink }}"><span style="background-color: #e1e1e1; padding: 4px 8px; border-radius: 8px;">{{ .LinkTitle }}</span></a>
-                        {{ end }}
+                        <span class="text-sm uppercase">TAGS:</span>
+                        <span class="mt-2 flex flex-wrap gap-2">
+                            {{ range (.GetTerms "tags") }}
+                                <a href="{{ .Permalink }}" class="whitespace-nowrap rounded-lg bg-gray-200 px-2 py-1">{{ .LinkTitle }}</a>
+                            {{ end }}
+                        </span>
                     </p>
                 </div>
 
@@ -50,12 +52,16 @@
 
                         <!-- registration box -->
                         <!-- später so: if ne .Params.register "hide" -->
+                        {{ $dark := eq .Params.register.style "dark" }}
+
                         {{ if .Params.register.show }}
-                            <div class="mt-8 rounded-lg bg-gray-100 p-8">
-                                <div class="pb-2 font-poppins text-xl font-bold text-seatable-blue">{{ .Params.register.title | default "Kein Title definiert" }}</div>
+                            <div class="{{ if $dark }}bg-seatable-blue{{ else }}bg-gray-100{{ end }} mt-8 rounded-lg p-8">
+                                <div class="{{ if $dark }}text-white{{ else }}text-seatable-blue{{ end }} pb-2 font-poppins text-xl font-bold">
+                                    {{ .Params.register.title | default "Kein Title definiert" }}
+                                </div>
                                 <ul class="ml-4 !list-disc pb-2">
                                     {{ range .Params.register.items }}
-                                        <li class="!list-disc">{{ . }}</li>
+                                        <li class="{{ if $dark }}text-white{{ end }} !list-disc">{{ . }}</li>
                                     {{ end }}
                                 </ul>
                                 <a href="#" class="bg-gradient rounded-lg px-4 py-2 text-center font-poppins !font-bold !text-white md:block"

@@ -522,5 +522,19 @@ sections:
             text: Chief Executive Officer (CEO) der Seafile Ltd.
             img: gruender-daniel-pan.png
 
+  - name: content-29
+    weight: 48
+    subtitle: Templates
+    title: Die Besten, die es jemals gab
+    text: 'Von null auf hundert mit unseren Templates...'
+    items:
+          - headline: "Template: Mileage Log"
+            text: Description for the template **Mileage Log** with Markdown support.
+            id: 14498b7d75cd47ab934c
+            submit: Use Template
+          - headline: "Template: Warehouse Management"
+            text: Description for Einkaufsliste
+            id: ab96101c9e5b4470a2d2
+            submit: "Awesome Template"
 
 ---
