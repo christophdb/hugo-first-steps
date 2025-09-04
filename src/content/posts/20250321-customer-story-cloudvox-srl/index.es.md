@@ -12,7 +12,7 @@ tags:
     - 'Transformación digital'
     - 'integraciones y automatizaciones'
 color: '#faeebf'
-url: '/es/cloudvox-historia-del-cliente'
+url: '/es/casos-de-exito/cloudvox-transparencia-de-datos'
 aliases:
     - '/es/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
 ---
