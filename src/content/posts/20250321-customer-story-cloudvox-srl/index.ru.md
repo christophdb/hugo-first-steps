@@ -12,7 +12,7 @@ tags:
     - 'Цифровая трансформация'
     - 'ИТ-процессы'
 color: '#faeebf'
-url: '/ru/cloudvox-istorija-klienta'
+url: '/ru/istorii-uspekha/cloudvox-prozrachnost-dannykh'
 aliases:
     - '/ru/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
 ---
