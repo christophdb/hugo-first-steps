@@ -11,7 +11,7 @@ tags:
     - 'Управление данными и визуализация'
     - 'Цифровая трансформация'
 color: '#f7f0d6'
-url: '/ru/istorii-uspekha/montasch-konstruktsiy-upravlenije-sakasami'
+url: '/ru/istorii-uspekha/montazh-konstruktsiy-upravlenije-sakasami'
 aliases:
     - '/ru/effizientes-auftragsmanagement-mit-seatable'
 ---
