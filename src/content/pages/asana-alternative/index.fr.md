@@ -1,9 +1,9 @@
 ---
 title: 'SeaTable : La meilleure alternative à Asana'
-description : ''
+description : "Découvrez SeaTable, l'alternative française et sécurisée à Asana pour une gestion de projet et d'équipe efficace. Profitez de flux de travail flexibles, cloud & on-premises, essayez gratuitement !"
 seo:
-    title:
-    description: 
+    title: "Alternative Asana : protection des données & flexibilité & pour votre équipe de projet"
+    description: "Découvrez SeaTable, l'alternative française et sécurisée à Asana pour une gestion de projet et d'équipe efficace. Profitez de flux de travail flexibles, cloud & on-premises, essayez gratuitement !"
 date: '2025-07-08'
 url: '/fr/alternative-asana'
 
