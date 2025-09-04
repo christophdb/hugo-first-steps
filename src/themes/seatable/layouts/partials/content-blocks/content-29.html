@@ -1,0 +1,89 @@
+<!-- Describe the block options -->
+{{ if not hugo.IsProduction }}
+    <div class="absolute left-0 z-50 rounded-lg border bg-seatable-orange p-4 text-xs">
+        <pre><code>- name: "{{ .name }}"
+  weight: 1
+  classes:
+    - bg-gray-100
+    - curved
+  title:
+  subtitle: 
+  text: 
+  items:
+  - headline:
+    text:
+    id:
+    submit:
+  - headline: 
+    text: 
+    id: 
+    submit:</code></pre>
+    </div>
+{{ end }}
+
+
+<!-- HTML Block -->
+{{ $classes := .classes | default "" }}
+<section class="{{ delimit $classes " " }} padding relative" id="{{ .name }}">
+    <section class="max-container">
+        <div class="mx-auto mb-12 max-w-[800px] text-center">
+            <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle | markdownify }}</p>
+            <h2 class="mt-1 text-4xl font-bold">{{ .title | markdownify }}</h2>
+            <p class="mt-12 text-lg leading-normal">{{ .text | markdownify }}</p>
+        </div>
+
+        {{- $items := .items | default slice }}
+        {{- if gt (len $items) 0 }}
+            <div x-data="{ selectedTab: '{{ (index $items 0).headline }}' }" class="rounded-t-xl bg-gray-100 px-8 py-8">
+                <div
+                    x-on:keydown.right.prevent="$focus.wrap().next()"
+                    x-on:keydown.left.prevent="$focus.wrap().previous()"
+                    class="flex flex-col gap-2 overflow-x-auto md:flex-row"
+                    role="tablist"
+                    aria-label="tab options">
+                    {{- range $i, $item := $items }}
+                        <button
+                            x-on:click="selectedTab = '{{ $item.headline }}'"
+                            x-bind:aria-selected="selectedTab === '{{ $item.headline }}'"
+                            x-bind:tabindex="selectedTab === '{{ $item.headline }}' ? '0' : '-1'"
+                            x-bind:class="selectedTab === '{{ $item.headline }}' ? 'bg-indigo-500 text-white' : 'border border-gray-300'"
+                            class="h-min rounded-2xl px-4 py-2 text-base"
+                            type="button"
+                            role="tab"
+                            aria-controls="tabpanel{{ $i }}">
+                            {{ $item.headline }}
+                        </button>
+                    {{- end }}
+                </div>
+
+                <div class="mt-6 rounded-b-xl border-t border-gray-400 bg-gray-100 pt-6 text-neutral-600">
+                    {{- range $i, $item := $items }}
+                        <div x-cloak x-show="selectedTab === '{{ $item.headline }}'" id="tabpanel{{ $i }}" role="tabpanel" aria-label="{{ $item.headline }}">
+                            <p class="mb-8">{{ $item.text | markdownify }}</p>
+                            {{- if $item.id }}
+                                <iframe
+                                    class="dtable-embed"
+                                    src="https://cloud.seatable.io/dtable/external-links/{{ $item.id }}/"
+                                    frameborder="0"
+                                    width="100%"
+                                    height="667"
+                                    style="background: transparent; border: 1px solid #ccc;">
+                                </iframe>
+                                <div class="mt-8">
+                                    <a
+                                        class="bg-gradient rounded-xl px-5 py-3 font-poppins text-lg font-bold !text-white"
+                                        href="https://cloud.seatable.io/copy-template/?template_link_token={{ $item.id }}">
+                                        {{ $item.submit | default "Jetzt registrieren" }}
+                                    </a>
+                                </div>
+                            {{- end }}
+                        </div>
+                    {{- end }}
+                </div>
+            </div>
+        {{- else }}
+            <p>No templates defined.</p>
+        {{- end }}
+
+    </section>
+</section>

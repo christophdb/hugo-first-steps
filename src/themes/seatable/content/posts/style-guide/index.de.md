@@ -14,6 +14,7 @@ register:
         - Wert 1 X
         - Wert 2 Y
         - 'Wert 3 Z'
+    style: dark
     submit: 'Ich will'
 ---
 
@@ -357,7 +358,7 @@ Die Parameter `subtitle` und `link-text` sind optional. Wenn die Werte nicht ges
 
 ### Logo
 
-{{< customer-logo image="feature.jpg" firma="SecUnity" branche="IT Sicherheit" ort="Deutschland" >}}
+{{< customer-logo image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBI2TQi-K-PQ44NnPkS_3gRoe0MGpd-SRpsQ&s" firma="SecUnity" branche="IT Sicherheit" ort="Deutschland" >}}
 
 ```
 {{</* customer-logo image="feature.jpg" firma="SecUnity" branche="IT Sicherheit" ort="Deutschland" */>}}
@@ -405,6 +406,7 @@ register:
       - Wert 1
       - Wert 2
       - Wert 3
+    style: dark
     submit: 'Ich will'
 ```
 
@@ -418,7 +420,41 @@ Default-Texte sind auch noch keine festgelegt.
 
 ## Tabs
 
-{{< tabs >}}
+{{< tabs
+title1="Template: Mileage Log"
+text1="Description for the template **Mileage Log** with Markdown support."
+id1="14498b7d75cd47ab934c"
+submit1="Use Template"
+
+title2="Template: Warehouse Management"
+text2="Description for Einkaufsliste"
+id2="ab96101c9e5b4470a2d2"
+submit2="Awesome Template"
+
+title3="Template: Advent Calendar"
+text3="Description for the third template"
+id3="618993ff2f964dadb460"
+submit3="I am the best template ever"
+
+title4="Template: To-Do-List"
+text4="Description for the fourth template"
+id4="6381c036ff2649739c80"
+submit4="Try me!" >}}
+
+Bis zu vier Templates können dargestellt werden.
+
+```
+{{</* tabs
+title1="Template: Mileage Log"
+text1="Description for the template **Mileage Log** with Markdown support."
+id1="14498b7d75cd47ab934c"
+submit1="Use Template"
+
+title2="Template: Warehouse Management"
+text2="Description for Einkaufsliste"
+id2="ab96101c9e5b4470a2d2"
+submit2="Awesome Template" */>}}
+```
 
 ## Carousel
 

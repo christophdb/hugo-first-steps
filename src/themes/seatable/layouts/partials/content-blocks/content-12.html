@@ -29,7 +29,7 @@
         </div>
         <div class="flex basis-1/2 flex-col">
             <p class="gradient font-poppins text-2xl font-bold">{{ .subtitle }}</p>
-            <h2 class="{{ if in $classes "bg-seatable-blue" }}text-white{{ end }} mt-1 text-4xl font-bold">{{ .title }}</h2>
+            <h2 class="{{ if in $classes "bg-seatable-blue" }}text-white{{ end }} mt-1 text-2xl font-bold sm:text-3xl md:text-4xl">{{ .title }}</h2>
             <p class="{{ if in $classes "bg-seatable-blue" }}text-white{{ end }} mb-4 mt-8 text-xl leading-relaxed">{{ .description | markdownify }}</p>
             {{ range .items }}
                 <div class="flex flex-row items-baseline text-lg text-seatable-orange">

@@ -42,8 +42,9 @@
             style="background: transparent; border: 1px solid #ccc;"></iframe>
         <div class="mt-8">
             <a
+                target="_blank"
                 class="bg-gradient rounded-xl px-5 py-3 font-poppins text-lg font-bold !text-white"
-                href="https://cloud.seatable.io/copy-template/?template_link_token={{ .Get "id" }}/"
+                href="https://cloud.seatable.io/copy-template/?template_link_token={{ .Get "id" }}"
                 >{{ or ( .Get "submit" ) ( T "templates.use_template" ) }}</a>
         </div>
     </div>

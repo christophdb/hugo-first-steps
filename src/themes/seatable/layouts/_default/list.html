@@ -2,7 +2,7 @@
     <section class="padding">
         <section class="max-container">
             <div class="mx-auto text-center">
-                <h1 class="mt-1 xl:text-8xl lg:text-6xl text-5xl leading-narrow font-bold">{{ .Title }}</h1>
+                <h1 class="mt-1 xl:text-8xl lg:text-6xl text-4xl leading-narrow font-bold">{{ .Title }}</h1>
             </div>
 
             <div class="mt-14 flex flex-col">
@@ -16,7 +16,7 @@
                         <a href="{{ .RelPermalink }}">
                         <div class="justify-left mt-6 flex flex-col gap-0 rounded-2xl shadow-2xl md:gap-8 lg:flex-row" style="background-color: {{ $page.Params.color | default "#ffffff" }}">
                             <div class="w-full p-8 lg:w-3/5 lg:p-12 xl:p-20">
-                                <h2 class="text-56 {{ $textColor }} mt-0 pt-8 text-left text-4xl font-extrabold leading-narrow">{{ $page.Title }}</h2>
+                                <h2 class="xl:text-4xl md:text-3xl text-2xl {{ $textColor }} mt-0 pt-8 text-left font-extrabold leading-narrow">{{ $page.Title }}</h2>
                                 <p class="mt-4 text-xl leading-normal">{{ $page.Description }}</p>
                                 <p class="mt-18">{{ $page.Date | time.Format site.Params.dateFormat }}</p>
                             </div>

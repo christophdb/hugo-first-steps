@@ -1,54 +1,65 @@
-<div x-data="{ selectedTab: 'groups' }" class="bg-gray-100 rounded-t-xl px-8 py-8">
-    <div
-        x-on:keydown.right.prevent="$focus.wrap().next()"
-        x-on:keydown.left.prevent="$focus.wrap().previous()"
-        class="flex gap-2 overflow-x-auto"
-        role="tablist"
-        aria-label="tab options">
-        <button
-            x-on:click="selectedTab = 'groups'"
-            x-bind:aria-selected="selectedTab === 'groups'"
-            x-bind:tabindex="selectedTab === 'groups' ? '0' : '-1'"
-            x-bind:class="selectedTab === 'groups' ? 'bg-indigo-500 text-white' : 'border border-gray-300'"
-            class="h-min px-4 py-2 text-base rounded-2xl"
-            type="button"
-            role="tab"
-            aria-controls="tabpanelGroups">
-            Template: Budgetplanung
-        </button>
-        <button
-            x-on:click="selectedTab = 'likes'"
-            x-bind:aria-selected="selectedTab === 'likes'"
-            x-bind:tabindex="selectedTab === 'likes' ? '0' : '-1'"
-            x-bind:class="selectedTab === 'likes' ? 'bg-indigo-500 text-white' : 'border border-gray-300'"
-            class="h-min px-4 py-2 text-base rounded-2xl"
-            type="button"
-            role="tab"
-            aria-controls="tabpanelLikes">
-            Template: Einkaufsliste
-        </button>
+{{ $ctx := . }}
+{{ $items := slice }}
 
-    </div>
+{{ range $i := seq 1 4 }}
+    {{ $title := $ctx.Get (printf "title%d" $i) }}
+    {{ if $title }}
+        {{ $text := $ctx.Get (printf "text%d" $i) }}
+        {{ $id := $ctx.Get (printf "id%d" $i) }}
+        {{ $submit := $ctx.Get (printf "submit%d" $i) | default "Jetzt registrieren" }}
 
-    <div class="mt-6 border-t border-gray-400 pt-6 text-neutral-600 bg-gray-100 rounded-b-xl">
-        <div x-cloak x-show="selectedTab === 'groups'" id="tabpanelGroups" role="tabpanel" aria-label="groups">
-            <p>{{ or ( .Get "text" ) ( T "template-box.text" ) }}</li></p>
-            <iframe
-                class="dtable-embed"
-                src="https://cloud.seatable.io/dtable/external-links/14498b7d75cd47ab934c/"
-                frameborder="0"
-                width="100%"
-                height="667"
-                style="background: transparent; border: 1px solid #ccc;"></iframe>
-            <div class="mt-8">
-                <a
-                    class="bg-gradient rounded-xl px-5 py-3 font-poppins text-lg font-bold !text-white"
-                    href="https://cloud.seatable.io/copy-template/?template_link_token={{ .Get "id" }}/"
-                    >{{ or ( .Get "submit" ) ( T "templates.use_template" ) }}</a>
-            </div>
+        {{ $item := dict "title" $title "text" $text "id" $id "submit" $submit }}
+        {{ $items = $items | append $item }}
+    {{ end }}
+{{ end }}
+
+{{- if gt (len $items) 0 }}
+    <div x-data="{ selectedTab: '{{ (index $items 0).title }}' }" class="mb-8 rounded-t-xl bg-gray-100 px-8 py-8">
+        <div
+            x-on:keydown.right.prevent="$focus.wrap().next()"
+            x-on:keydown.left.prevent="$focus.wrap().previous()"
+            class="flex flex-col gap-2 overflow-x-auto md:flex-row"
+            role="tablist"
+            aria-label="tab options">
+            {{- range $i, $item := $items }}
+                <button
+                    x-on:click="selectedTab = '{{ $item.title }}'"
+                    x-bind:aria-selected="selectedTab === '{{ $item.title }}'"
+                    x-bind:tabindex="selectedTab === '{{ $item.title }}' ? '0' : '-1'"
+                    x-bind:class="selectedTab === '{{ $item.title }}' ? 'bg-indigo-500 text-white' : 'border border-gray-300'"
+                    class="h-min rounded-2xl px-4 py-2 text-base"
+                    type="button"
+                    role="tab"
+                    aria-controls="tabpanel{{ $i }}">
+                    {{ $item.title }}
+                </button>
+            {{- end }}
         </div>
-        <div x-cloak x-show="selectedTab === 'likes'" id="tabpanelLikes" role="tabpanel" aria-label="likes">
-            Anderes Template...
+
+        <div class="mt-6 rounded-b-xl border-t border-gray-400 bg-gray-100 pt-6 text-neutral-600">
+            {{- range $i, $item := $items }}
+                <div x-cloak x-show="selectedTab === '{{ $item.title }}'" id="tabpanel{{ $i }}" role="tabpanel" aria-label="{{ $item.title }}">
+                    <p>{{ $item.text | markdownify }}</p>
+                    {{- if $item.id }}
+                        <iframe
+                            class="dtable-embed"
+                            src="https://cloud.seatable.io/dtable/external-links/{{ $item.id }}/"
+                            frameborder="0"
+                            width="100%"
+                            height="667"
+                            style="background: transparent; border: 1px solid #ccc;"></iframe>
+                        <div class="mt-8">
+                            <a
+                                class="bg-gradient rounded-xl px-5 py-3 font-poppins text-lg font-bold !text-white"
+                                href="https://cloud.seatable.io/copy-template/?template_link_token={{ $item.id }}">
+                                {{ $item.submit }}
+                            </a>
+                        </div>
+                    {{- end }}
+                </div>
+            {{- end }}
         </div>
     </div>
-</div>
+{{- else }}
+    <p>No templates defined.</p>
+{{- end }}
