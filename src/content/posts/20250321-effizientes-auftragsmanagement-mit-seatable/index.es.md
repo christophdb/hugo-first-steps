@@ -11,7 +11,7 @@ categorías:
 tags:
     - 'Transformación Digital'
 color: '#f7f0d6'
-url: '/es/gestion-eficaz-de-pedidos-con-seatable'
+url: '/es/casos-de-exito/sector-de-la-construccion-gestion-de-pedidos'
 aliases:
     - '/es/effizientes-auftragsmanagement-mit-seatable'
 ---
