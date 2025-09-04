@@ -14,7 +14,7 @@ tags:
     - 'No Code & Low Code'
     - 'Интеграции и автоматизация'
 color: '#469361'
-url: '/ru/uspeschnaja-zifrovisazija-eolane-seatable'
+url: '/ru/eolane-otsifrovka'
 aliases:
     - '/ru/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane'
 ---
