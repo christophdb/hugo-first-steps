@@ -11,13 +11,9 @@ sections:
     - name: hero-5
       weight: 1
       title: SeaDays 2025
-      text: 1.10. Seafile & SeaTable Community-Workshop in Mainz
+      text: Die SeaDays 2025 **wurden leider abgesagt**. Die bisher geplanten Vorträge zu Seafile und SeaTable werden in den kommenden Wochen [hier veröffentlicht](#content-21).<br><br>Wir freuen uns schon jetzt darauf, Sie nächstes Jahr wieder persönlich bei den SeaDays begrüßen zu dürfen.
       classes:
           - bg-gray-200
-      buttons:
-          - label: Jetzt kostenlos zu den SeaDays anmelden
-            link: 'https://cloud.seatable.io/dtable/forms/0b1adca2-db25-44ec-b658-ba6c040bae54/'
-            style: primary
 
     - name: 'content-4'
       weight: 2
@@ -34,62 +30,21 @@ sections:
             text: Treffen Sie Administratoren und Projektverantwortliche großer und kleinerer Seafile/SeaTable Systeme.<br><br>Tauschen Sie sich bei den SeaDays 2025 mit Nutzern und Partnern zu Ihren Erfahrungen aus.
             icon: graduation-cap
 
-    - name: 'content-13'
-      weight: 4
-      classes:
-          - curved
-          - bg-gray-200
-      title: Informationen zum Veranstaltung
-      subtitle: 1. Oktober 2025
-      description: Die Universität ist gut zu Fuß oder mit den öffentlichen Verkehrsmitteln sowohl vom Mainzer Hauptbahnhof als auch der Mainzer Innenstadt erreichbar.<br><br>Weitere Informationen zur Anreise finden Sie auf der [Seite der Universität Mainz](https://startseite.uni-mainz.de/anreise).<br><br>Falls Sie mit dem Auto kommen, können Sie die beiden Tage kostenlos auf dem Uni-Gelände parken. Die Universität Mainz erlaubt Gästen eine kostenlose Parkdauer von bis zu 30 Stunden pro Jahr. Die Schranke öffnet sich automatisch. Weitere Infos finden Sie unter [Parken an der Universität Mainz](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
-      box-position: [right!, left]
+    - name: 'content-21'
+      weight: 3
+      title: Unsere Highlights für euch
+      text: 'Die SeaDays 2025 pausieren – aber unsere Innovationen nicht!<br>Alle geplanten Themen bringen wir direkt zu euch: kompakt als Blogbeitrag oder Video. Bleibt gespannt auf frische Einblicke und exklusive Features aus erster Hand.'
       items:
-          - headline: Ort
-            text: Universität Mainz<br>Deutschland
-          - headline: Adresse
-            text: Anselm-Franz-von-Bentzel-Weg 12<br>55128 Mainz
-          - headline: Gebäude
-            text: NatFak-Hauptgebäude
-          - headline: Raum
-            text: 7.Stock, Raum 232, Senatssaal
-
-    - name: 'content-28'
-      weight: 5
-      title: Speaker und Agenda
-      text: 'Auf den SeaDays 2025 erwarten Sie Präsentationen von den folgenden Speakern.<br>**Präsentationssprache: Englisch**'
-      items:
-          - headline: Daniel Pan
-            text: Chief Executive Officer (CEO) der Seafile Ltd.
-            img: gruender-daniel-pan.png
-          - headline: Christoph Dyllick-Brenzinger
-            text: Geschäftsführer der SeaTable GmbH und datamate GmbH & Co. KG
-            link: https://www.linkedin.com/in/christoph-dyllick-brenzinger/
-            img: christoph_dyllick.jpg
-          - headline: Dr. Ralf Dyllick-Brenzinger
-            text: Geschäftsführer der SeaTable GmbH und datamate GmbH & Co. KG
-            link: https://de.linkedin.com/in/ralfdyllickbrenzinger
-            img: ralf_dyllick.jpg
-          - headline: Cristian Livadaru
-            text: Geschäftsführer LcX.at
-            img: cristian_livadaru.jpg
-          - headline: Elias Schneuwly
-            text: Geschäftsführer der Speicherbox GmbH
-            img: elias_schneuwly.jpg
-            link: https://www.linkedin.com/in/elias-schneuwly-020825a2
-          - headline: Volker Müller
-            text: Director DevOps Enterprise Application der Cancom GmbH
-            img: volker-mueller.jpg
-            link: https://de.linkedin.com/in/volkermueller
-
-    - name: 'content-26'
-      weight: 6
-      title: Agenda für den 1.10.2025
-      subtitle: Seafile and SeaTable
-      template: 'b0fca5903e7747f1bbc8'
-
-    #- name: 'content-26'
-    #  weight: 7
-    #  title: Agenda für den 08.10.2025
-    #  subtitle: Der SeaTable-Tag
-    #  template: '91050075fc2941b28e71'
+          - headline: Seafile 13 – Status Update
+            text: 'Mit Version 13 schlägt Seafile ein neues Kapitel auf. Wir zeigen, welche innovativen Funktionen hinzugekommen sind – und warum Seafile damit mehr ist als nur ein Update.'
+          - headline: Seafile 13 – Rechnungsbearbeitung mit Extensible Markup & KI
+            text: 'Von einfacher Ablage zu echter Prozessautomatisierung: Mit Seafile 13 wird die Rechnungsbearbeitung smarter, effizienter und intelligenter – dank modernster KI-Unterstützung.'
+          - headline: Individuelle Seafile-Clients
+            text: 'Viele Unternehmen wünschen sich maßgeschneiderte Clients. Wir präsentieren, wie einfach Customizing heute schon möglich ist – und welche spannenden Optionen die Zukunft noch bereithält.'
+          - headline: SeaTable 6.0 – Das nächste große Release
+            text: 'SeaTable 6.0 bringt zahlreiche Verbesserungen und neue Features. Erfahrt, worauf ihr euch freuen könnt – und welchen Entwicklungspfad wir als Nächstes einschlagen.'
+          - headline: SeaTable KI-Integration in Automationen
+            text: 'Von smarter Texterkennung bis hin zum automatischen Informations-Extrakt: Mit KI in Automationen wird SeaTable mächtiger denn je. Wir geben einen exklusiven Ausblick auf den aktuellen Stand und die Möglichkeiten.'
+          - headline: 'Follow-Up: Stellt chinesische Software ein operatives Risiko dar?'
+            text: 'Aufbauend auf unserer viel diskutierten Session von 2023 geben wir ein Update zu diesem hochrelevanten Thema – mit neuen Fakten, Einschätzungen und Perspektiven.'
 ---

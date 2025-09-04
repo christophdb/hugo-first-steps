@@ -11,86 +11,40 @@ sections:
     - name: hero-5
       weight: 1
       title: SeaDays 2025
-      text: 1.10. Seafile & SeaTable Community Workshop in Mainz
+      text: SeaDays 2025 **have unfortunately been canceled**. The planned presentations on Seafile and SeaTable will be [published here](#content-21) in the coming weeks.<br><br>We are already looking forward to welcoming you in person at next year's SeaDays.
       classes:
           - bg-gray-200
-      buttons:
-          - label: Register for SeaDays now for free
-            link: 'https://cloud.seatable.io/dtable/forms/0b1adca2-db25-44ec-b658-ba6c040bae54/'
-            style: primary
 
     - name: 'content-4'
       weight: 2
-      title: Community Meeting with the Developers
-      subtitle: The Event of the Year
+      title: Community meeting with the developers
+      subtitle: The event of the year
       items:
           - headline: The Community Event
-            text: Talk directly with the developers and those responsible for Seafile/SeaTable.<br><br>Learn more about planned features and future plans with a detailed roadmap.<br>Bring your wishes and ideas to SeaDays 2025.
+            text: Talk directly with the developers and those responsible for Seafile/SeaTable.<br><br>Learn more about planned features and roadmaps with an in-depth preview.<br>Bring your ideas and wishes to SeaDays 2025.
             icon: award
-          - headline: 1 Day Full of Exciting Presentations
+          - headline: 1 day full of exciting sessions
             text: On Wednesday, **01.10.**, everything will revolve around the sync-and-share solution Seafile and the no-code platform SeaTable.
             icon: comment
-          - headline: For Administrators and Professionals
-            text: Meet administrators and project managers of large and small Seafile/SeaTable systems.<br><br>At SeaDays 2025, exchange experiences with users and partners.
+          - headline: For administrators and professionals
+            text: Meet administrators and project managers of both large and small Seafile/SeaTable systems.<br><br>At SeaDays 2025, exchange experiences directly with other users and partners.
             icon: graduation-cap
 
-    - name: 'content-13'
-      weight: 4
-      classes:
-          - curved
-          - bg-gray-200
-      title: Information about the Event
-      subtitle: 1st of October 2025
-      description: The university is easily accessible on foot or by public transport from both Mainz Central Station and the city center.<br><br>Further information on how to get there can be found on the [University of Mainz website](https://startseite.uni-mainz.de/anreise).<br><br>If you come by car, you can park for free on the university campus on both days. The University of Mainz allows guests free parking for up to 30 hours per year. The barrier opens automatically. More information can be found at [Parking at the University of Mainz](https://www.verwaltung.zentrale-dienste.uni-mainz.de/informationen-zur-parkraumbewirtschaftung/).
-      box-position: [right!, left]
+    - name: 'content-21'
+      weight: 3
+      title: Our highlights for you
+      text: 'SeaDays 2025 may be on pause – but our innovations are not!<br>All planned topics will still reach you: compact as blog posts or videos. Stay tuned for fresh insights and exclusive features firsthand.'
       items:
-          - headline: Location
-            text: University of Mainz<br>Germany
-          - headline: Address
-            text: Anselm-Franz-von-Bentzel-Weg 12<br>55128 Mainz
-          - headline: Building
-            text: NatFak Main Building
-          - headline: Room
-            text: 7th Floor, Room 232, Senate Hall
-
-    - name: 'content-28'
-      weight: 5
-      title: Speakers and Agenda
-      text: 'At SeaDays 2025 you can expect presentations from the following speakers.<br>**Presentation language: English**'
-      items:
-          - headline: Daniel Pan
-            text: Chief Executive Officer (CEO) of Seafile Ltd.
-            img: gruender-daniel-pan.png
-          - headline: Christoph Dyllick-Brenzinger
-            text: Managing Director of SeaTable GmbH and datamate GmbH & Co. KG
-            link: https://www.linkedin.com/in/christoph-dyllick-brenzinger/
-            img: christoph_dyllick.jpg
-          - headline: Dr. Ralf Dyllick-Brenzinger
-            text: Managing Director of SeaTable GmbH and datamate GmbH & Co. KG
-            link: https://de.linkedin.com/in/ralfdyllickbrenzinger
-            img: ralf_dyllick.jpg
-          - headline: Cristian Livadaru
-            text: Managing Director of LcX.at
-            img: cristian_livadaru.jpg
-            link: https://www.linkedin.com/in/livadaru/
-          - headline: Elias Schneuwly
-            text: Managing Director of Speicherbox GmbH
-            img: elias_schneuwly.jpg
-            link: https://www.linkedin.com/in/elias-schneuwly-020825a2
-          - headline: Volker Müller
-            text: Director DevOps Enterprise Application of Cancom GmbH
-            img: volker-mueller.jpg
-            link: https://de.linkedin.com/in/volkermueller
-
-    - name: 'content-26'
-      weight: 6
-      title: Agenda for 01.10.2025
-      subtitle: Seafile and SeaTable Day
-      template: 'b0fca5903e7747f1bbc8'
-
-    #- name: 'content-26'
-    #  weight: 7
-    #  title: Agenda for 08.10.2025
-    #  subtitle: SeaTable Day
-    #  template: '91050075fc2941b28e71'
+          - headline: Seafile 13 – Status Update
+            text: 'With version 13, Seafile is opening a new chapter. We will show which innovative features have been added – and why Seafile is more than just an update.'
+          - headline: Seafile 13 – Invoice processing with Extensible Markup & AI
+            text: 'From simple storage to true process automation: with Seafile 13, invoice processing becomes smarter, faster, and more intelligent – thanks to state-of-the-art AI support.'
+          - headline: Customized Seafile clients
+            text: 'Many businesses are looking for tailor-made clients. We’ll show how easy customization already is today – and which exciting options the future is bringing.'
+          - headline: SeaTable 6.0 – The next major release
+            text: 'SeaTable 6.0 introduces numerous improvements and brand-new features. Discover what’s coming – and the future direction we are taking.'
+          - headline: SeaTable AI integration in automations
+            text: 'From smart text summarization to automatic information extraction: with AI integration, SeaTable becomes more powerful than ever. We provide an exclusive preview of the current state and its possibilities.'
+          - headline: 'Follow-Up: Does Chinese software pose an operational risk?'
+            text: 'Building on our much-discussed 2023 session, we provide an update on this highly relevant topic – with new facts, insights, and perspectives.'
 ---
