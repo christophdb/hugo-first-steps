@@ -1,12 +1,16 @@
 ---
-title: 'Digital administration made easy for public authorities &amp; companies'
+title: 'Digital administration made easy for public authorities & companies'
 description: 'Digital administration rethought: Seatable enables flexible and customizable solutions for public authorities and companies of all sizes'
+seo:
+    title: 'Digital administration for authorities & municipalities | SeaTable'
+    description: 'Making digital administration simple: SeaTable offers public authorities a flexible no-code solution for secure processes, GDPR-compliant in the cloud or on-premises.'
 date: '2025-04-03'
-url: '/public-service'
+url: '/digital-government'
 aliases:
     - '/en/digitale-verwaltung/'
     - '/LG/offentlicher-dienst/'
     - '/offentlicher-dienst/'
+    - '/digital-government/'
 
 sections:
     - name: hero-5
