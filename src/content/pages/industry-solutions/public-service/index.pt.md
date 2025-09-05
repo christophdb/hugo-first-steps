@@ -1,10 +1,14 @@
 ---
 title: 'Administração digital facilitada para autoridades públicas e empresas'
-description: 'Administração digital repensada: a Seatable permite soluções flexíveis e personalizáveis para autoridades públicas e empresas de todas as dimensões'
+description: 'Administração digital repensada: Seatable permite soluções flexíveis e personalizáveis para autoridades públicas e empresas de todas as dimensões'
+seo:
+    title: 'Administração digital para autoridades e municípios | SeaTable'
+    description: 'Simplifique a administração digital: O SeaTable oferece às autoridades públicas uma solução flexível e sem código para processos seguros, em conformidade com o RGPD, na nuvem ou no local.'
 date: '2025-04-03'
-url: '/pt/public-service'
+url: '/pt/governo-digital'
 aliases:
     - '/pt/offentlicher-dienst/'
+    - '/pt/public-service/'
 
 sections:
     - name: hero-5

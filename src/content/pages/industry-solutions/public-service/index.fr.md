@@ -1,11 +1,15 @@
 ---
 title: "L'administration numérique simplifiée pour les administrations et les entreprises"
-description: "L'administration numérique repensée : Seatable permet des solutions flexibles et adaptables pour les administrations et les entreprises de toutes tailles"
+description: "L'administration numérique repensée : Seatable permet des solutions flexibles et personnalisables pour les administrations et les entreprises de toutes tailles"
+seo:
+    title: "Administration numérique pour les administrations publiques et les collectivités locales | SeaTable"
+    description: "Simplifier l'administration numérique : SeaTable offre aux administrations une solution flexible sans code pour des processus sécurisés, en conformité avec le RGPD, dans le cloud ou sur site."
 date: '2025-04-03'
-url: '/fr/public-service'
+url: '/fr/gouvernement-numerique'
 aliases:
     - '/fr/digitale-verwaltung/'
     - '/fr/offentlicher-dienst/'
+    - '/fr/public-service/'
 
 sections:
     - name: hero-5
