@@ -11,9 +11,10 @@ tags:
     - 'Gestão e visualização de dados'
     - 'Setor público'
 color: '#fbe337'
-url: '/pt/casos-de-sucesso/hceres-gestao-eficaz-de-dados'
+url: '/pt/hceres-gestao-eficaz-de-dados'
 aliases:
     - '/pt/gestao-eficaz-de-dados-em-hceres-com-seatable'
+    - '/pt/casos-de-sucesso/hceres-gestao-eficaz-de-dados'
 
 ---
 

@@ -12,7 +12,9 @@ tags:
     - 'Gestão e visualização de dados'
     - 'Gestão de eventos'
 color: '#dc4d51'
-url: '/pt/customer-story-red-dot'
+url: '/pt/red-dot-gestao-de-eventos'
+aliases:
+    - '/pt/customer-story-red-dot'
 ---
 
 ## Um sistema moderno para um processo eficiente

@@ -11,9 +11,10 @@ categorías:
 tags:
     - 'Transformación Digital'
 color: '#f7f0d6'
-url: '/es/casos-de-exito/sector-de-la-construccion-gestion-de-pedidos'
+url: '/es/sector-de-la-construccion-gestion-de-pedidos'
 aliases:
     - '/es/effizientes-auftragsmanagement-mit-seatable'
+    - '/es/casos-de-exito/sector-de-la-construccion-gestion-de-pedidos'
 ---
 
 ## Avanzar en la transformación digital

@@ -14,9 +14,10 @@ tags:
     - 'No Code & Low Code'
     - 'Интеграции и автоматизация'
 color: '#469361'
-url: '/ru/istorii-uspekha/eolane-otsifrovka'
+url: '/ru/eolane-otsifrovka'
 aliases:
     - '/ru/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane'
+    - '/ru/istorii-uspekha/eolane-otsifrovka'
 ---
 
 ## éolane - лидер в производстве электроники, ищущий более эффективное управление данными

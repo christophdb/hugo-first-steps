@@ -11,9 +11,10 @@ date: 2021-01-27
 lastmod: '2023-07-11'
 coverImage: 'ventil-verlag.jpg'
 author: 'cdb'
-url: '/ventil-publishing'
+url: '/ventil-publishing-process-optimization'
 aliases:
     - /ventil-verlag
+    - '/ventil-publishing'
 color: '#dadff6'
 seo:
     title: ''

@@ -12,6 +12,8 @@ tags:
     - 'Toolings & Plugins'
 color: '#dc4d51'
 url: '/fr/customer-story-red-dot'
+aliases:
+    - '/fr/red-dot-gestion-des-evenements'
 ---
 
 ## Un système moderne pour un processus efficace

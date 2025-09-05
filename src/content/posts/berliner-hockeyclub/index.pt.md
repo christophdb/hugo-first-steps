@@ -4,9 +4,10 @@ description: Como gestor de um clube desportivo, há muitas áreas a supervision
 date: 2021-02-08
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/pt/berliner-clube-hoquei'
+url: '/pt/clube-de-hoquei-de-berlim-digitalizacao'
 aliases:
     - /pt/berliner-hockeyclub
+    - '/pt/berliner-clube-hoquei'
 color: '#eeeeee'
 color: '#9fb5d6'
 categories:

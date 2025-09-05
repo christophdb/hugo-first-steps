@@ -11,9 +11,10 @@ categories:
 tags:
     - 'Transformation numérique'
 color: '#f7f0d6'
-url: '/fr/success-story/secteur-de-construction-gestion-des-commandes'
+url: '/fr/secteur-de-construction-gestion-des-commandes'
 aliases:    
     - '/fr/effizientes-auftragsmanagement-mit-seatable'
+    - '/fr/success-story/secteur-de-construction-gestion-des-commandes'
 ---
 
 ## Faire avancer la transformation numérique

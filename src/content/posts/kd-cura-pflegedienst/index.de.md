@@ -4,7 +4,9 @@ description: 'Mit SeaTable möchte Norman Kolwitz, Gründer von KD-Cura, in sein
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/de/kd-cura-pflegedienst'
+url: '/de/kd-cura-pflegedienst-digitalisierung'
+aliases:
+    - '/de/kd-cura-pflegedienst'
 color: '#daecc7'
 categories:
     - 'customer-story'

@@ -14,9 +14,10 @@ tags:
     - 'Integrações e automatizações'
     - 'Low-Code / No-Code'
 color: '#469361'
-url: '/pt/casos-de-sucesso/eolane-digitalizacao'
+url: '/pt/eolane-digitalizacao'
 aliases:
     - '/pt/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane'
+    - '/pt/casos-de-sucesso/eolane-digitalizacao'
 ---
 
 ## Éolane - líder no fabrico de produtos electrónicos, em busca de uma gestão de dados mais eficiente

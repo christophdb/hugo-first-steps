@@ -11,7 +11,9 @@ categories:
 tags:
     - 'Digitale Transformation'
 color: '#f7f0d6'
-url: '/de/effizientes-auftragsmanagement-mit-seatable'
+url: '/de/bauinstallationsbranche-effizientes-auftragsmanagement'
+aliases:
+    - '/de/effizientes-auftragsmanagement-mit-seatable'
 ---
 
 ## Digitale Transformation voranbringen

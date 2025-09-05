@@ -11,7 +11,9 @@ tags:
     - 'Planificación de marketing'
     - 'Herramientas y plugins'
 color: '#dc4d51'
-url: '/es/customer-story-red-dot'
+url: '/es/red-dot-gestion-de-eventos'
+aliases:
+    - '/es/customer-story-red-dot'
 ---
 
 ## Un sistema moderno para un proceso eficaz

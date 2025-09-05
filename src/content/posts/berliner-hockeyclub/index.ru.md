@@ -4,9 +4,10 @@ description: Будучи руководителем спортивного кл
 date: 2021-02-08
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/ru/berliner-khokkeynyy-klub'
+url: '/ru/berlinskiy-khokkeynyy-klub-otsifrovka'
 aliases:
     - /ru/berliner-hockeyclub
+    - '/ru/berliner-khokkeynyy-klub'
 color: '#eeeeee'
 color: '#9fb5d6'
 categories:
