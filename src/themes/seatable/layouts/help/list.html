@@ -115,9 +115,12 @@
                 {{ end }}
 
 
-                <div class="mt-8 grid grid-cols-1 gap-4 md:grid-cols-2">
+                <div class="mt-8 grid grid-cols-1 gap-4">
                     {{ range .Pages }}
-                        <a href="{{ .RelPermalink }}" class="rounded-xl border px-4 py-6 shadow-lg hover:border-gray-300 hover:bg-gray-50">
+                        <a
+                            href="{{ .RelPermalink }}"
+                            class="flex flex-row items-center gap-2 rounded-xl border px-6 py-4 text-gray-800 shadow-lg hover:border-gray-300 hover:bg-gray-50 hover:text-black">
+                            {{ if .Params.star }}<span class="pb-[2px] text-seatable-orange">{{ partial "icon.html" "star-full" }}</span>{{ end }}
                             {{ .Title }}
                         </a>
                     {{ end }}

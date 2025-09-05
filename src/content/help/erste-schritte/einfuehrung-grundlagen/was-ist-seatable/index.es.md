@@ -7,6 +7,7 @@ categories:
 author: 'cdb'
 url: '/es/ayuda/was-ist-seatable'
 weight: 1
+star: true
 ---
 
 SeaTable es siempre algo diferente, dependiendo de a quién preguntes: para los gestores de proyectos SeaTable es una **herramienta** flexible de **gestión de proyectos**, para los desarrolladores es un **sistema de seguimiento de errores** y **problemas** y para los investigadores de mercado es un **software de encuestas**. Las agencias utilizan SeaTable como **plataforma de colaboración**, los coleccionistas como **solución de archivo**. Y estos son sólo algunos de los innumerables casos de uso.

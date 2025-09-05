@@ -6,6 +6,8 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'cdb'
 url: '/ru/pomoshch/bases'
+star: true
+weight: 1
 ---
 
 Базы имеют центральное значение в SeaTable. Каждый раз, когда вы вводите, анализируете, редактируете или делитесь данными в SeaTable, вы находитесь в базе.
