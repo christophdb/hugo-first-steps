@@ -1,9 +1,9 @@
 ---
-title: 'Criar um plano financeiro de forma simples'
-description: ''
+title: 'Crie um plano financeiro: de forma eficiente e sem o caos do Excel com o SeaTable'
+description: 'Simplifique o seu planeamento financeiro: aumente a sua eficiência, acompanhe todos os valores e despesas e tome decisões informadas - graças a painéis de controlo claros e à rápida implementação. Perfeito para empresas, empresas em fase de arranque e trabalhadores independentes que pretendem controlo, estrutura e certeza no seu planeamento.'
 seo:
-    title: 'Crie um plano financeiro para a sua empresa com o SeaTable'
-    description: 'Crie o seu plano financeiro sem esforço com o SeaTable! Esta plataforma inovadora combina as vantagens das folhas de cálculo com as poderosas funções das modernas bases de dados na nuvem. Ideal para empresas, start-ups e freelancers que pretendam criar e otimizar o seu plano financeiro.'
+    title: 'Crie um plano financeiro: eficiente e sem o caos do Excel | SeaTable'
+    description: 'Planeamento financeiro eficiente: mantenha-se atento aos números e às despesas, tome decisões informadas e ganhe clareza com painéis de controlo claros.'
 date: '2025-08-05'
 url: '/pt/criar-um-plano-financeiro/'
 

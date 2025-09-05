@@ -1,9 +1,9 @@
 ---
-title: 'Creating a financial plan made easy'
-description: ''
+title: 'Create a financial plan: efficiently & without Excel chaos with SeaTable'
+description: 'Simplify your financial planning: increase your efficiency, keep an eye on all figures and expenses and make informed decisions - thanks to clear dashboards and fast implementation. Perfect for companies, start-ups and the self-employed who want control, structure and security when planning.'
 seo:
-    title: 'Create a financial plan for your company with SeaTable'
-    description: 'Create your financial plan effortlessly with SeaTable! This innovative platform combines the benefits of spreadsheets with the powerful features of modern cloud databases. Perfect for companies, start-ups and freelancers who want to create and optimize their financial plan.'
+    title: 'Create a financial plan: efficient & without Excel chaos | SeaTable'
+    description: 'Efficient financial planning: keep an eye on figures and expenditure, make informed decisions and gain clarity with clear dashboards.'
 date: '2025-08-05'
 url: '/create-financial-plan'
 
