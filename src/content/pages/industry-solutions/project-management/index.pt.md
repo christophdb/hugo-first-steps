@@ -1,10 +1,14 @@
 ---
 title: 'A ferramenta de gestão de projectos flexível para a sua equipa'
-description: 'Aumente a produtividade com o SeaTable. A ferramenta de gestão de projectos pode ser personalizada de acordo com as suas necessidades em passos simples'
+description: 'Aumente a produtividade com o SeaTable. A ferramenta de gestão de projectos pode ser personalizada de acordo com as suas necessidades em passos simples.'
+seo:
+    title: 'Ferramenta de gestão de projectos flexível e escalável | SeaTable'
+    description: 'SeaTable - o software de gestão de projectos flexível para equipas de todas as dimensões. Comece gratuitamente, planeie projectos facilmente, automatize tarefas e cumpra o RGPD.'
 date: '2025-04-03'
-url: '/pt/projectmanagement-tools'
+url: '/pt/ferramentas-gestao-de-projetos'
 aliases:
     - '/pt/projektmanagement/'
+    - '/pt/projectmanagement-tools/'
 
 sections:
     - name: hero-5
