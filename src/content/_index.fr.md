@@ -5,8 +5,8 @@ description: 'La plateforme flexible No-Code Low-Code. Créez des applications p
 sections:
 - name: hero-1
   weight: 1
-  h2_left: "Pas de code,"
-  h2_right: "pas de limit"
+  h2_left: "No code,"
+  h2_right: "no limits"
   h1: "Plate-forme SeaTable No-Code: organisez toutes vos données et développez des applications sur mesure sans écrire une seule ligne de code !"
   description: "Concevez intuitivement des bases de données, des workflows et des apps personnalisés - en toute simplicité. Notre solution No-Code allie la simplicité des feuilles de calcul à la puissance des bases de données No-Code et des constructeurs d'applications No-Code et peut également être utilisée comme plateforme Low-Code."
   buttons:
