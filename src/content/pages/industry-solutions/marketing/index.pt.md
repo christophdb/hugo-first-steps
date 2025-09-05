@@ -1,10 +1,14 @@
 ---
-title: 'Utilizar a ferramenta de marketing SeaTable: Automatizar processos'
+title: 'Utilize a ferramenta de marketing SeaTable: Automatize os processos'
 description: 'Descubra o SeaTable como uma poderosa ferramenta de marketing. Automatize processos, analise dados e aumente a sua eficiência.'
+seo:
+    title: 'Ferramenta de marketing para automatização e análise | SeaTable'
+    description: 'Ferramenta de marketing SeaTable: automatize campanhas, centralize dados e analise KPIs - para uma maior eficiência no marketing digital.'
 date: '2025-04-03'
-url: '/pt/marketing-tool'
+url: '/pt/ferramenta-marketing'
 aliases:
     - '/pt/marketing/'
+    - '/pt/marketing-tool/'
 
 sections:
     - name: hero-5
