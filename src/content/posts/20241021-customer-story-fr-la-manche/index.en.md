@@ -12,9 +12,10 @@ tags:
     - 'Digital Transformation'
     - 'Public Sector'
 color: '#bb9de1'
-url: '/customer-story-fr-la-manche/'
+url: 'la-manche-modernization-public-administration'
 aliases:
     - '/en/customer-story-fr-la-manche/'
+    - '/customer-story-fr-la-manche/'
 ---
 
 ## Challenges in the management of sensitive data

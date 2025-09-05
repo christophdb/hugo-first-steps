@@ -11,7 +11,9 @@ tags:
     - 'Управление данными и визуализация'
     - 'Цифровая трансформация'
 color: '#dc4d51'
-url: '/ru/customer-story-red-dot'
+url: '/ru/red-dot-upravlenije-meroprijatijmi'
+aliases:
+    - '/ru/customer-story-red-dot'
 ---
 
 ## Современная система для эффективного процесса

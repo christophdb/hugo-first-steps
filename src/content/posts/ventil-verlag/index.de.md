@@ -11,7 +11,9 @@ date: 2021-01-27
 color: '#dadff6'
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/de/ventil-verlag'
+url: '/de/ventil-verlag-prozessoptimierung'
+aliases:
+    - '/de/ventil-verlag'
 seo:
     title: ''
     description: ''

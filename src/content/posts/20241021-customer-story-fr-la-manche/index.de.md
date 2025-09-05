@@ -12,7 +12,9 @@ tags:
     - 'Digitale Transformation'
     - 'Öffentliche Verwaltung'
 color: '#bb9de1'
-url: '/de/customer-story-fr-la-manche/'
+url: '/de/la-manche-modernisierung-oeffentliche-verwaltung/'
+aliases:    
+    - '/de/customer-story-fr-la-manche/'
 ---
 
 ## Herausforderungen in der Verwaltung sensibler Daten

@@ -11,9 +11,10 @@ tags:
     - 'Gestión y visualización de datos'
     - 'Administración pública'
 color: '#fbe337'
-url: '/es/casos-de-exito/hceres-gestion-eficaz-de-datos'
+url: '/es/hceres-gestion-eficaz-de-datos'
 aliases:
     - '/es/effektive-datenverwaltung-beim-hceres-mit-seatable'
+    - '/es/casos-de-exito/hceres-gestion-eficaz-de-datos'
 ---
 
 El Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres) es una autoridad pública independiente en Francia regida por los artículos L. 114-3-1 a L. 114-3-6 y R. 114-1 a R. 114-23 del Código de Investigación francés. Las principales tareas del Hcéres son

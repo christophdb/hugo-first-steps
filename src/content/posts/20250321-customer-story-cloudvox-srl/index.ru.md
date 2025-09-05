@@ -12,9 +12,10 @@ tags:
     - 'Цифровая трансформация'
     - 'ИТ-процессы'
 color: '#faeebf'
-url: '/ru/istorii-uspekha/cloudvox-prozrachnost-dannykh'
+url: '/ru/cloudvox-prozrachnost-dannykh'
 aliases:
     - '/ru/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
+    - '/ru/istorii-uspekha/cloudvox-prozrachnost-dannykh'
 ---
 
 ## Предыстория: Отсутствие интерфейса базы данных для нетехнических пользователей

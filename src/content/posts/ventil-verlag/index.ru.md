@@ -10,9 +10,10 @@ tags:
 date: 2021-01-27
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/ru/ventil-izdatelstvo'
+url: '/ru/ventil-izdatelstvo-optimisatsija-prozessa'
 aliases:
     - /ru/ventil-verlag
+    - '/ru/ventil-izdatelstvo'
 color: '#dadff6'
 seo:
     title: ''

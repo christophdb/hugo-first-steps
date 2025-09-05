@@ -11,9 +11,10 @@ tags:
     - 'Gestion des données & visualisation'
     - 'Administration publique'
 color: '#fbe337'
-url: '/fr/success-story/hceres-gestion-efficace-des-donnees'
+url: '/fr/hceres-gestion-efficace-des-donnees'
 aliases:
     - '/fr/effektive-datenverwaltung-beim-hceres-mit-seatable'
+    - '/fr/success-story/hceres-gestion-efficace-des-donnees'
 ---
 
 Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres) est une autorité publique indépendante en France, régie par les articles L. 114-3-1 à L. 114-3-6 et R. 114-1 à R. 114-23 du code de la recherche. Les principales missions du Hcéres sont les suivantes

@@ -12,7 +12,9 @@ tags:
     - 'Eventmanagement'
     - 'Wenn Excel nicht mehr reicht'
 color: '#dc4d51'
-url: '/de/customer-story-red-dot'
+url: '/de/red-dot-eventmanagement'
+aliases:
+    - '/de/customer-story-red-dot'
 ---
 
 ## Ein zeitgemäßes System für einen effizienten Prozess

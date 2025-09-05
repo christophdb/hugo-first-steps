@@ -4,9 +4,10 @@ description: 'Com o SeaTable, Norman Kolwitz, fundador da KD-Cura, quer fazer um
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/pt/kd-cura-servico-enfermagem'
+url: '/pt/kd-cura-digitalizacao'
 aliases:
     - /pt/kd-cura-pflegedienst
+    - '/pt/kd-cura-servico-enfermagem'
 color: '#daecc7'
 categories:
     - 'customer-story'

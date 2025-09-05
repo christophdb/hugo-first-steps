@@ -12,9 +12,10 @@ tags:
     - 'Event Management'
     - 'When Excel is no longer sufficient'
 color: '#dc4d51'
-url: '/customer-story-red-dot'
+url: '/red-dot-event-management'
 aliases:
     - '/en//customer-story-red-dot/'
+    - '/customer-story-red-dot'
 ---
 
 ## A modern system for an efficient process

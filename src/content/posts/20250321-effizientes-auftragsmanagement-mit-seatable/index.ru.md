@@ -11,9 +11,10 @@ tags:
     - 'Управление данными и визуализация'
     - 'Цифровая трансформация'
 color: '#f7f0d6'
-url: '/ru/istorii-uspekha/montazh-konstruktsiy-upravlenije-sakasami'
+url: '/ru/montazh-konstruktsiy-upravlenije-sakasami'
 aliases:
     - '/ru/effizientes-auftragsmanagement-mit-seatable'
+    - '/ru/istorii-uspekha/montazh-konstruktsiy-upravlenije-sakasami'
 ---
 
 ## Продвижение цифровой трансформации

@@ -4,9 +4,10 @@ description: 'Como gerente de un club deportivo, hay muchas áreas que supervisa
 date: 2021-02-08
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/es/berliner-club-hockey'
+url: '/es/club-de-hockey-de-berlin-digitalizacion'
 aliases:
     - /es/berliner-hockeyclub
+    - '/es/berliner-club-hockey'
 color: '#9fb5d6'
 categories:
     - 'customer-story'

@@ -4,7 +4,9 @@ description: Als Manager eines Sportvereins gilt es viele Bereiche zu überschau
 date: 2021-02-08
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/de/berliner-hockeyclub'
+url: '/de/berliner-hockeyclub-digitalisierung'
+aliases:
+    - '/de/berliner-hockeyclub'
 color: '#9fb5d6'
 categories:
     - 'customer-story'

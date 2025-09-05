@@ -4,9 +4,10 @@ description: "En tant que manager d'un club sportif, il est nécessaire d'avoir 
 date: 2021-02-08
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/fr/berliner-club-hockey'
+url: '/fr/club-de-hockey-de-berlin-numerisation'
 aliases:
     - /fr/berliner-hockeyclub
+    - '/fr/berliner-club-hockey'
 color: '#eeeeee'
 color: '#9fb5d6'
 categories:

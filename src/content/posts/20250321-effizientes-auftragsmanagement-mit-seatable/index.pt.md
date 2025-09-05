@@ -11,9 +11,10 @@ categories:
 tags:
     - 'Transformação digital'
 color: '#f7f0d6'
-url: '/pt/casos-de-sucesso/instalacao-de-construcao-gestao-das-encomendas'
+url: '/pt/instalacao-de-construcao-gestao-das-encomendas'
 aliases:
     - '/pt/effizientes-auftragsmanagement-mit-seatable'
+    - '/pt/casos-de-sucesso/instalacao-de-construcao-gestao-das-encomendas'
 ---
 
 ## Avançar na transformação digital

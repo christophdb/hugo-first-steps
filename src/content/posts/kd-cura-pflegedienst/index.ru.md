@@ -4,9 +4,10 @@ description: 'С помощью SeaTable Норман Колвиц, основа
 date: 2021-02-12
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/ru/kd-cura-patronazhnaya-sluzhba'
+url: '/ru/kd-cura-otsifrovka'
 aliases:
     - /ru/kd-cura-pflegedienst
+    - '/ru/kd-cura-patronazhnaya-sluzhba'
 color: '#daecc7'
 categories:
     - 'customer-story'

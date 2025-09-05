@@ -10,9 +10,10 @@ tags:
 date: 2021-01-27
 lastmod: '2023-07-11'
 author: 'cdb'
-url: '/es/ventil-editorial'
+url: '/es/ventil-editorial-optimizacion-de-procesos'
 aliases:
     - /es/ventil-verlag
+    - '/es/ventil-editorial'
 color: '#dadff6'
 seo:
     title: ''

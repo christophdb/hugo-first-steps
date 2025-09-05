@@ -12,10 +12,11 @@ tags:
     - 'Digital Transformation'
     - 'Public Sector'
 color: '#fbe337'
-url: '/customer-story/hceres-effective-data-management'
+url: '/hceres-effective-data-management'
 aliases:
     - '/en/effektive-datenverwaltung-beim-hceres-mit-seatable/'
     - '/effektive-datenverwaltung-beim-hceres-mit-seatable'
+    - '/customer-story/hceres-effective-data-management'
 ---
 
 The Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres) is an independent public authority in France governed by Articles L. 114-3-1 to L. 114-3-6 and R. 114-1 to R. 114-23 of the French Research Code. The main tasks of the Hcéres include

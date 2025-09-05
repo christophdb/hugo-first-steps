@@ -5,9 +5,10 @@ date: 2021-02-12
 lastmod: '2023-07-11'
 coverImage: 'KD-Cura-pionarbeit-in-der-pflege.jpg'
 author: 'cdb'
-url: '/kd-cura-pflegedienst'
+url: '/kd-cura-digitalization'
 aliases:
-    - /kd-cura-pflegedienst
+    - /en/kd-cura-pflegedienst
+    - '/kd-cura-pflegedienst'
 color: '#daecc7'
 categories:
     - 'customer-story'
