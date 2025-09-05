@@ -2,8 +2,8 @@
 title: 'IT Service Management mit SeaTable: Effizient und flexibel'
 description: 'SeaTable bietet Ihnen die Möglichkeit, Ihr IT Service Management individuell anzupassen und zu optimieren. Nutzen Sie unsere No-Code-Lösung.'
 seo:
-    title: "IT Service Management: Effizient und flexibel | SeaTable"
-    description: "SeaTable bietet Ihnen die Möglichkeit, Ihr IT Service Management individuell anzupassen und zu optimieren. Nutzen Sie unsere No-Code-Lösung"
+    title: 'IT Service Management - flexibel & skalierbar | SeaTable'
+    description: 'Optimieren Sie Ihr IT Service Management mit SeaTable: No-Code Plattform für flexible Workflows, Automatisierung und DSGVO-konforme ITSM Prozesse.'
 date: '2025-04-03'
 url: '/de/it-service-management'
 
