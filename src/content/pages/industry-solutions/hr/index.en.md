@@ -1,9 +1,9 @@
 ---
 title: 'Digitize and automate HR processes with SeaTable'
-description: 'Revolutionize your HR processes with SeaTable. From onboarding to time recording - increase the efficiency of your HR department.'
+description: 'Optimize your HR management: With SeaTable you can automate applicant management, time recording & personnel files in compliance with GDPR. Avoid Excel chaos, time loss and data protection risks and gain an overview, security and efficiency - for modern HR teams.'
 seo:
-    title: "Digitize and automate HR processes | SeaTable"
-    description: "Revolutionize your HR processes with SeaTable. From onboarding to time recording - increase the efficiency of your HR department"
+    title: 'HR processes GDPR-compliant, digital & automated | SeaTable'
+    description: 'Digitize and automate R processes - GDPR-compliant with SeaTable. More efficiency, overview and security in HR management.'
 date: '2025-04-03'
 url: '/hr-processes'
 aliases:
