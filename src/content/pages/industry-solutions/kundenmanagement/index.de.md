@@ -1,9 +1,9 @@
 ---
 title: 'SeaTable: Die flexibelste Lösung für Ihr Kundenmanagement'
-description: ''
+description: 'Zentralisieren Sie Ihr Kundenmanagement! Unsere Software hilft Ihnen, Kundenbeziehungen zu pflegen, Prozesse zu optimieren und den Umsatz zu steigern.'
 seo:
-    title: 'Kundenmanagement Software: CRM für Ihr Unternehmen'
-    description: 'Zentralisieren Sie Ihr Kundenmanagement! Unsere Software hilft Ihnen, Kundenbeziehungen zu pflegen, Prozesse zu optimieren und den Umsatz zu steigern.'
+    title: 'Kundenmanagemen: Flexibles CRM für Unternehmen | SeaTable'
+    description: 'Optimieren Sie Ihr Kundenmanagement mit SeaTable: Flexible CRM Software zur Pflege von Kundenbeziehungen, Automatisierung von Prozessen & 100 % DSGVO-konform.'
 date: '2025-07-18'
 url: '/de/kundenmanagement/'
 
