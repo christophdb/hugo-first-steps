@@ -12,7 +12,7 @@ tags:
     - 'Transformação digital'
     - 'Setor público'
 color: '#bb9de1'
-url: '/pt/casos-de-sucesso/la-manche-modernizou-processos-publicos/'
+url: '/pt/la-manche-modernizou-processos-publicos/'
 aliases:
     - '/pt/customer-story-fr-la-manche/'
 ---
