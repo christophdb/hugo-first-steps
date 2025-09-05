@@ -1,6 +1,9 @@
 ---
 title: 'IT service management with SeaTable: efficient and flexible'
 description: 'SeaTable offers you the opportunity to customize and optimize your IT service management. Use our no-code solution.'
+seo:
+    title: 'IT service management - flexible & scalable | SeaTable'
+    description: 'Optimize your IT service management with SeaTable: No-code platform for flexible workflows, automation and GDPR-compliant ITSM processes.'
 date: '2025-04-03'
 url: '/it-service-management'
 aliases:
