@@ -1,11 +1,13 @@
 ---
-title: 'Gestión de flujos de trabajo: automatice los procesos con eficacia'
-description: 'Optimice sus flujos de trabajo con SeaTable, utilice una moderna gestión de flujos de trabajo y automatice sus procesos.'
+title: 'Gestión del flujo de trabajo: automatice los procesos de forma eficaz'
+description: 'Optimice sus flujos de trabajo con SeaTable, opere una moderna gestión de flujos de trabajo y automatice sus procesos.'
 seo:
-    title: "Gestión de flujos de trabajo: automatice los procesos con eficacia"
-    description: "Optimice sus flujos de trabajo, utilice una gestión de flujos de trabajo moderna y automatice sus procesos con SeaTable"
+    title: 'Herramienta de gestión del flujo de trabajo: Automatice procesos fácilmente | SeaTable'
+    description: 'Gestión de flujos de trabajo con SeaTable: cree, automatice y supervise sus procesos en tiempo real - flexible, sin código y conforme a GDPR.'
 date: '2025-04-03'
-url: '/es/workflow-management'
+url: '/es/gestion-flujos-trabajo'
+aliases:
+  - '/es/workflow-management/'
 
 sections:
     - name: hero-5
