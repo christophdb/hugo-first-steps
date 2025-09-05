@@ -1,11 +1,15 @@
 ---
 title: 'Digitalize e automatize os processos de RH com o SeaTable'
-description: 'Revolucione os seus processos de RH com o SeaTable. Desde a integração ao registo de horas - aumente a eficiência do seu departamento de RH.'
+description: 'Optimize a sua gestão de RH: Com o SeaTable, pode automatizar a gestão de candidatos, o registo de horas e os ficheiros pessoais em conformidade com o RGPD. Evite o caos do Excel, a perda de tempo e os riscos de proteção de dados e obtenha uma visão geral, segurança e eficiência - para equipas de RH modernas.'
+seo:
+    title: 'Processos de RH em conformidade com o RGPD, digitais e automatizados | SeaTable'
+    description: 'Digitalize e automatize os processos de RH - em conformidade com o RGPD com o SeaTable. Mais eficiência, visão geral e segurança na gestão de RH.'
 date: '2025-04-03'
-url: '/pt/hr-processes'
+url: '/pt/processos-rh'
 aliases:
     - '/pt/hr-prozesse/'
     - '/pt/hr/'
+    - '/pt/hr-processes/'
 
 sections:
     - name: hero-5
