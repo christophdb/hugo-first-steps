@@ -12,7 +12,9 @@ tags:
     - transformación digital
     - 'administración pública'
 color: '#bb9de1'
-url: '/es/customer-story-fr-la-manche/'
+url: '/es/la-manche-modernizo-procesos-publicos/'
+aliases:
+    - '/es/customer-story-fr-la-manche/'
 ---
 
 ## Desafíos en la gestión de datos sensibles

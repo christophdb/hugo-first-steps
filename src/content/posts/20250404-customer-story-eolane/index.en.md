@@ -14,9 +14,10 @@ tags:
     - 'Integrations & Automations'
     - 'No Code & Low Code'
 color: '#469361'
-url: '/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane'
+url: '/customer-story/eolane-digitalization'
 aliases:
     - '/en/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane/'
+    - '/erfolgreiche-digitalisierung-der-auftragsverwaltung-mit-seatable-ein-use-case-von-eolane'
 ---
 
 ## éolane - a leader in electronics manufacturing, in search of more efficient data management

@@ -12,7 +12,9 @@ tags:
     - 'Datenmanagement & Visualisierung'
     - 'Digitale Transformation'
 color: '#faeebf'
-url: '/de/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
+url: '/de/customer-story/cloudvox-datentransparenz'
+aliases:
+    - '/de/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
 ---
 
 ## Hintergrund: Fehlendes Datenbank-Interface für nicht-technische User

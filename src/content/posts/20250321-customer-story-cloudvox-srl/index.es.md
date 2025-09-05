@@ -12,7 +12,9 @@ tags:
     - 'Transformación digital'
     - 'integraciones y automatizaciones'
 color: '#faeebf'
-url: '/es/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
+url: '/es/casos-de-exito/cloudvox-transparencia-de-datos'
+aliases:
+    - '/es/cloudvox-srl-wie-seatable-komplexe-daten-zugaenglich-macht'
 ---
 
 ## Fondo: Falta una interfaz de base de datos para usuarios no técnicos
