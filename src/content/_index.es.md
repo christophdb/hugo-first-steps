@@ -5,8 +5,8 @@ description: 'La plataforma flexible no-code low-code. Cree aplicaciones persona
 sections:
 - name: hero-1
   weight: 1
-  h2_left: "Sin código,"
-  h2_right: "sin límites"
+  h2_left: "No code,"
+  h2_right: "no limits"
   h1: "Plataforma sin código SeaTable: ¡organice todos sus datos y desarrolle aplicaciones personalizadas sin escribir una sola línea de código!"
   description: Diseñe intuitivamente bases de datos, flujos de trabajo y aplicaciones personalizadas de forma sencilla. Nuestra solución sin código combina la sencillez de las hojas de cálculo con la potencia de las bases de datos sin código y los creadores de aplicaciones sin código.
   buttons:
