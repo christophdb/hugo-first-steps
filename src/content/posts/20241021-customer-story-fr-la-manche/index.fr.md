@@ -12,7 +12,7 @@ tags:
     - 'transformation numérique'
     - 'administration publique'
 color: '#bb9de1'
-url: '/fr/success-story/la-manche-modernise-processus-publics/'
+url: '/fr/la-manche-modernise-processus-publics/'
 aliases:
     - '/fr/customer-story-fr-la-manche/'
 ---
