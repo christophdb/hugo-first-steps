@@ -6,6 +6,8 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'cdb'
 url: '/fr/aide/bases'
+star: true
+weight: 1
 ---
 
 Les bases sont essentielles dans SeaTable. Chaque fois que vous saisissez, analysez, modifiez ou partagez des données dans SeaTable, vous vous trouvez dans une base.

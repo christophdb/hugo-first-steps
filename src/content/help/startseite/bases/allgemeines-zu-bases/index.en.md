@@ -6,6 +6,8 @@ categories:
     - 'arbeiten-mit-bases'
 author: 'cdb'
 url: '/help/bases'
+star: true
+weight: 1
 ---
 
 Bases are of central importance in SeaTable. Whenever you collect, analyze, edit or share data in SeaTable, you are in a base.

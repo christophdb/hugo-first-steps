@@ -56,16 +56,25 @@
 
                         {{ if .Params.register.show }}
                             <div class="{{ if $dark }}bg-seatable-blue{{ else }}bg-gray-100{{ end }} mt-8 rounded-lg p-8">
-                                <div class="{{ if $dark }}text-white{{ else }}text-seatable-blue{{ end }} pb-2 font-poppins text-xl font-bold">
-                                    {{ .Params.register.title | default "Kein Title definiert" }}
+                                <div class="{{ if $dark }}text-white{{ else }}text-seatable-blue{{ end }} mb-4 pb-2 font-poppins text-xl font-bold">
+                                    {{ or ( .Params.register.title ) ( T "blog-register.title" ) }}
                                 </div>
-                                <ul class="ml-4 !list-disc pb-2">
-                                    {{ range .Params.register.items }}
-                                        <li class="{{ if $dark }}text-white{{ end }} !list-disc">{{ . }}</li>
+                                <ul class="ml-4 !list-disc">
+                                    {{ if .Params.register.items }}
+                                        {{ range .Params.register.items }}
+                                            <li class="{{ if $dark }}text-white{{ end }} !list-disc">{{ . }}</li>
+                                        {{ end }}
+                                    {{ else }}
+                                        <li class="{{ if $dark }}text-white{{ end }} !list-disc">{{ T "blog-register.item1" }}</li>
+                                        <li class="{{ if $dark }}text-white{{ end }} !list-disc">{{ T "blog-register.item2" }}</li>
+                                        <li class="{{ if $dark }}text-white{{ end }} !list-disc">{{ T "blog-register.item3" }}</li>
                                     {{ end }}
                                 </ul>
-                                <a href="#" class="bg-gradient rounded-lg px-4 py-2 text-center font-poppins !font-bold !text-white md:block"
-                                    >{{ .Params.register.submit | default "Jetzt registrieren" }}</a
+                                <p class="{{ if $dark }}text-white{{ end }} pt-1 text-sm">{{ or ( .Params.register.text ) ( T "blog-register.text" ) }}</p>
+                                <a
+                                    href="{{ (page.GetPage "pages/registration").RelPermalink }}"
+                                    class="bg-gradient mt-6 rounded-lg px-4 py-2 text-center font-poppins !font-bold !text-white md:block"
+                                    >{{ or ( .Params.register.submit ) ( T "blog-register.submit" ) }}</a
                                 >
                             </div>
                         {{ end }}

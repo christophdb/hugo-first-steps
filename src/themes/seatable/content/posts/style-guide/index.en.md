@@ -5,6 +5,9 @@ draft: true
 date: 2025-08-11
 url: '/style-guide'
 color: '#eef0f2'
+
+register:
+    show: true
 ---
 
 ## Switch to the German version

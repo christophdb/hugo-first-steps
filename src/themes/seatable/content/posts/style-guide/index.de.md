@@ -14,6 +14,7 @@ register:
         - Wert 1 X
         - Wert 2 Y
         - 'Wert 3 Z'
+    text: 'abc'
     style: dark
     submit: 'Ich will'
 ---
@@ -406,6 +407,7 @@ register:
       - Wert 1
       - Wert 2
       - Wert 3
+    text: "abc"
     style: dark
     submit: 'Ich will'
 ```
@@ -458,6 +460,24 @@ submit2="Awesome Template" */>}}
 
 ## Carousel
 
-Not yet ready ...
+Dieses Carousel hat eine Höhe von 288px (400px bei mobile) und bietet die Konfiguration von Titel, Text und Grafik.
 
-{{< carousel >}}
+{{< carousel
+title1="Hier gibt es etwas cooles zu sehen"
+text1="Seatable hat uns geholfen **als Unternehmen** sehr schnell, sehr flexibel und sehr effizient zu werden und zu bleiben. Mit Seatable können wir individuell auf die Bedarfe unserer Kunden eingehen, indem wir unsere Arbeitsstrukturen anpassen können, unsere Service optimieren können."
+img1="feature.jpg"
+title2="asdfasdfaf"
+text2="Seatable hat uns geholfen als Unternehmen sehr schnell"
+img2="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBI2TQi-K-PQ44NnPkS_3gRoe0MGpd-SRpsQ&s"
+title3="asdfasdfasdf adsf öaslkdf aödfkaf"
+text3="asdfasdfafaf asd adsf asdf asdf asdf asdf asdf asdf asdf asfd adf a " >}}
+
+```
+{{</* carousel
+title1="Titel"
+text1="Text"
+img1="feature.jpg"
+title2="Titel"
+text2="Text"
+img2="feature.jpg" */>}}
+```
