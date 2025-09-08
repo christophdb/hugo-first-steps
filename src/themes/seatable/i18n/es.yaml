@@ -175,3 +175,11 @@ newsletter-subscribe:
     subtitle: ''
     inner: '¡Suscríbete a nuestro boletín y mantente informado!'
     submit: 'Suscribirse'
+
+blog-register:
+    title: 'No Code, no Limits | SeaTable'
+    item1: 'Bases de datos flexibles'
+    item2: 'Creador de aplicaciones universal'
+    item3: 'Colaboración en tiempo real'
+    text: '¡Y todo esto conforme al RGPD!'
+    submit: 'Pruébalo ahora'

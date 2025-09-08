@@ -175,3 +175,11 @@ newsletter-subscribe:
     subtitle: ''
     inner: 'Abonnieren Sie unseren Newsletter und bleiben Sie informiert!'
     submit: 'Abonnieren'
+
+blog-register:
+    title: 'No Code, no Limits | SeaTable'
+    item1: 'Flexible Datenbanken'
+    item2: 'Universal App Builder'
+    item3: 'Kollaboration in Echtzeit'
+    text: 'Und das alles DSGVO-konform!'
+    submit: 'Jetzt ausprobieren'

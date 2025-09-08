@@ -175,3 +175,11 @@ newsletter-subscribe:
     subtitle: ''
     inner: 'Подпишитесь на нашу рассылку и всегда будьте в курсе!'
     submit: 'Подписаться'
+
+blog-register:
+    title: 'No Code, no Limits | SeaTable'
+    item1: 'Гибкие базы данных'
+    item2: 'Универсальный конструктор приложений'
+    item3: 'Совместная работа в реальном времени'
+    text: 'И всё это в соответствии с GDPR!'
+    submit: 'Попробовать сейчас'

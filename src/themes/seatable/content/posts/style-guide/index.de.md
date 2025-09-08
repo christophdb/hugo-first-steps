@@ -14,6 +14,7 @@ register:
         - Wert 1 X
         - Wert 2 Y
         - 'Wert 3 Z'
+    text: 'abc'
     style: dark
     submit: 'Ich will'
 ---
@@ -406,6 +407,7 @@ register:
       - Wert 1
       - Wert 2
       - Wert 3
+    text: "abc"
     style: dark
     submit: 'Ich will'
 ```
