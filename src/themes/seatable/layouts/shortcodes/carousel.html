@@ -1,83 +1,87 @@
-<div
-    x-data="{            
-    slides: [                
-        {
-            imgSrc: 'https://penguinui.s3.amazonaws.com/component-assets/carousel/default-slide-1.webp',
-            imgAlt: 'Vibrant abstract painting with swirling blue and light pink hues on a canvas.',  
-            title: 'Front end developers',
-            description: 'The architects of the digital world, constantly battling against their mortal enemy – browser compatibility.',              
-        },                
-        {                    
-            imgSrc: 'https://penguinui.s3.amazonaws.com/component-assets/carousel/default-slide-2.webp',                    
-            imgAlt: 'Vibrant abstract painting with swirling red, yellow, and pink hues on a canvas.',  
-            title: 'Back end developers',
-            description: 'Because not all superheroes wear capes, some wear headphones and stare at terminal screens',              
-        },                
-        {                    
-            imgSrc: 'https://penguinui.s3.amazonaws.com/component-assets/carousel/default-slide-3.webp',                    
-            imgAlt: 'Vibrant abstract painting with swirling blue and purple hues on a canvas.',    
-            title: 'Full stack developers',
-            description: 'Where &quot;burnout&quot; is just a fancy term for &quot;Tuesday&quot;.'             
-        },            
-    ],            
-    currentSlideIndex: 1,
-    previous() {                
-        if (this.currentSlideIndex > 1) {                    
-            this.currentSlideIndex = this.currentSlideIndex - 1                
-        } else {   
-            // If it's the first slide, go to the last slide           
-            this.currentSlideIndex = this.slides.length                
-        }            
-    },            
-    next() {                
-        if (this.currentSlideIndex < this.slides.length) {                    
-            this.currentSlideIndex = this.currentSlideIndex + 1                
-        } else {                 
-            // If it's the last slide, go to the first slide    
-            this.currentSlideIndex = 1                
-        }            
-    },        
-}"
-    class="relative w-full overflow-hidden">
-    <!-- previous button -->
-    <button
-        type="button"
-        class="absolute left-5 top-1/2 z-20 flex -translate-y-1/2 items-center justify-center rounded-full bg-white/40 p-2 text-neutral-600 transition hover:bg-white/60 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black active:outline-offset-0 dark:bg-neutral-950/40 dark:text-neutral-300 dark:hover:bg-neutral-950/60 dark:focus-visible:outline-white"
-        aria-label="previous slide"
-        x-on:click="previous()">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke="currentColor" fill="none" stroke-width="3" class="size-5 pr-0.5 md:size-6" aria-hidden="true">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" />
-        </svg>
-    </button>
+{{ $ctx := . }}
+{{ $items := slice }}
 
-    <!-- next button -->
-    <button
-        type="button"
-        class="absolute right-5 top-1/2 z-20 flex -translate-y-1/2 items-center justify-center rounded-full bg-white/40 p-2 text-neutral-600 transition hover:bg-white/60 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black active:outline-offset-0 dark:bg-neutral-950/40 dark:text-neutral-300 dark:hover:bg-neutral-950/60 dark:focus-visible:outline-white"
-        aria-label="next slide"
-        x-on:click="next()">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke="currentColor" fill="none" stroke-width="3" class="size-5 pl-0.5 md:size-6" aria-hidden="true">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
-        </svg>
-    </button>
+{{ range $i := seq 1 4 }}
+    {{ $title := $ctx.Get (printf "title%d" $i) }}
+    {{ if $title }}
+        {{ $text := $ctx.Get (printf "text%d" $i) | markdownify }}
+        {{ $id := $ctx.Get (printf "id%d" $i) | default (printf "%d" $i) }}
+        {{ $img := $ctx.Get (printf "img%d" $i) | default "" }}
 
-    <!-- slides -->
-    <!-- Change min-h-[50svh] to your preferred height size -->
-    <div class="relative min-h-[50svh] w-full">
-        <template x-for="(slide, index) in slides">
-            <div x-cloak x-show="currentSlideIndex == index + 1" class="absolute inset-0" x-transition.opacity.duration.1000ms>
-                <!-- Title and description -->
-                <div
-                    class="bg-linear-to-t absolute inset-0 z-10 flex flex-col items-center justify-end gap-2 from-neutral-950/85 to-transparent px-16 py-12 text-center lg:px-32 lg:py-14">
-                    <h3
-                        class="w-full text-balance text-2xl font-bold text-white lg:w-[80%] lg:text-3xl"
-                        x-text="slide.title"
-                        x-bind:aria-describedby="'slide' + (index + 1) + 'Description'"></h3>
-                    <p class="w-full text-pretty text-sm text-neutral-300 lg:w-1/2" x-text="slide.description" x-bind:id="'slide' + (index + 1) + 'Description'"></p>
+        {{ if and $img (not (hasPrefix $img "http")) }}
+            {{ $resource := $.Page.Resources.GetMatch $img }}
+            {{ if $resource }}
+                {{ $img = $resource.RelPermalink }}
+            {{ end }}
+        {{ end }}
+
+        {{ $item := dict "title" $title "text" $text "id" $id "img" $img }}
+        {{ $items = $items | append $item }}
+    {{ end }}
+{{ end }}
+
+{{ if gt (len $items) 0 }}
+    <div
+        class="0 relative mb-8 flex h-auto min-h-[400px] flex-col items-center justify-center rounded-xl bg-gray-50 lg:min-h-72"
+        x-data="{ activeSlide: '{{ (index $items 0).id }}', slides: {{ $items | jsonify }} }">
+        <!-- Slides -->
+        <template x-for="slide in slides" :key="slide.id">
+            <div
+                x-show="activeSlide === slide.id"
+                x-transition:enter="transition ease-out duration-500"
+                x-transition:enter-start="opacity-0"
+                x-transition:enter-end="opacity-100"
+                x-transition:leave="transition ease-in duration-300"
+                x-transition:leave-start="opacity-100"
+                x-transition:leave-end="opacity-0"
+                class="absolute inset-0 flex p-4 pr-12"
+                style="will-change: opacity;">
+                <div class="flex flex-col items-center gap-8 overflow-hidden lg:flex-row">
+                    <div class="w-1/3 items-center">
+                        <img :src="slide.img" alt="" />
+                    </div>
+                    <div class="w-2/3 text-left">
+                        <h4 class="gradient mb-0 mt-0 !pt-0 font-poppins text-2xl" x-text="slide.title"></h4>
+                        <div class="mt-2 text-base leading-normal text-black" x-html="slide.text"></div>
+                    </div>
                 </div>
-
-                <img class="absolute inset-0 h-full w-full object-cover text-neutral-600 dark:text-neutral-300" x-bind:src="slide.imgSrc" x-bind:alt="slide.imgAlt" />
             </div>
         </template>
+
+        <!-- Prev/Next Arrows -->
+        <div class="pointer-events-none absolute inset-0 flex">
+            <button
+                class="pointer-events-auto absolute left-2 top-1/2 -translate-y-1/2 rounded-full bg-white bg-opacity-50 p-3 text-xl font-bold text-teal-700 shadow hover:bg-opacity-80"
+                x-on:click="
+        let currentIndex = slides.findIndex(s => s.id === activeSlide);
+        activeSlide = slides[(currentIndex === 0 ? slides.length : currentIndex) - 1].id;
+      "
+                aria-label="Previous Slide">
+                ‹
+            </button>
+
+            <button
+                class="pointer-events-auto absolute right-2 top-1/2 -translate-y-1/2 rounded-full bg-white bg-opacity-50 p-3 text-xl font-bold text-teal-700 shadow hover:bg-opacity-80"
+                x-on:click="
+        let currentIndex = slides.findIndex(s => s.id === activeSlide);
+        activeSlide = slides[(currentIndex === slides.length -1 ? -1 : currentIndex) + 1].id;
+      "
+                aria-label="Next Slide">
+                ›
+            </button>
+        </div>
+
+        <!-- Slide indicators -->
+        <div class="absolute bottom-2 left-1/2 flex -translate-x-1/2 space-x-2">
+            <template x-for="slide in slides" :key="slide.id">
+                <button
+                    class="h-2 w-6 rounded-full transition-colors duration-300"
+                    :class="activeSlide === slide.id ? 'bg-seatable-blue' : 'bg-gray-200 hover:bg-seatable-blue'"
+                    x-on:click="activeSlide = slide.id"
+                    :aria-label="'Slide ' + slide.title"></button>
+            </template>
+        </div>
     </div>
-</div>
+{{ else }}
+    <p>No slides defined.</p>
+{{ end }}
