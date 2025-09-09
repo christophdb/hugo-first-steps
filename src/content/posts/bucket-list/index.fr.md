@@ -1,14 +1,14 @@
 ---
-title: "Créer une bucket list : Idées, inspiration & modèle gratuit"
-description: “Et si vous décidiez de réaliser vos rêves ? Une Bucket List, c’est le début de toutes vos aventures : de l’adrénaline aux découvertes, cultivez ce qui compte vraiment pour vous. Découvrez des astuces pour la personnaliser et démarrez votre propre liste grâce à notre modèle gratuit.“
+title: 'Créer une bucket list : Idées, inspiration & modèle gratuit'
+description: 'Et si vous décidiez de réaliser vos rêves ? Une Bucket List, c’est le début de toutes vos aventures : de l’adrénaline aux découvertes, cultivez ce qui compte vraiment pour vous. Découvrez des astuces pour la personnaliser et démarrez votre propre liste grâce à notre modèle gratuit.'
 date: 2024-02-19
 lastmod: '2024-02-19'
 author: 'nsc'
 url: '/fr/bucket-list'
 color: '#eeeeee'
 seo:
-    title: "Créez votre Bucket List : idées & modèle gratuit"
-    description: "Laissez-vous inspirer : 63 idées et un modèle gratuit pour créer votre liste de rêves et aventures."
+    title: 'Créez votre Bucket List : idées & modèle gratuit'
+    description: 'Laissez-vous inspirer : 63 idées et un modèle gratuit pour créer votre liste de rêves et aventures.'
 categories:
     - 'best-practice'
 tags:
