@@ -1,5 +1,6 @@
 ---
 title: "Exemple d'analyse SWOT : Focalisation sur les forces et les faiblesses internes"
+description: "Découvrez comment l’analyse SWOT révèle les forces, faiblesses, opportunités et menaces de votre entreprise. Obtenez des conseils pratiques, un exemple concret et un modèle gratuit pour la planification stratégique."
 date: 2024-03-19
 lastmod: '2025-02-03'
 author: 'rdb'
@@ -7,8 +8,8 @@ url: '/fr/analyse-swot'
 aliases:
     - /fr/swot-analyse
 seo:
-    title:
-    description:
+    title: "Analyse SWOT : exemple & modèle gratuit pour entreprise"
+    description: "Améliorez votre stratégie avec la SWOT : découvrez un exemple réel et téléchargez un modèle gratuit pour la planification interne et externe."
 categories:
     - 'best-practice'
 tags:
