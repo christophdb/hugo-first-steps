@@ -13,6 +13,7 @@ color: '#f4ba81'
 url: '/de/johannes-fontanus-college-examensverwaltung'
 draft: true
 ---
+<!-- Beschreibung: "Ko Smidt, Head of Exam, hat uns von ihrem Weg zu SeaTable und seinen Erfahrungen erzählt." Finde ich unglücklich, weil sich "von ihrem Weg zu SeaTable" auch auf Ko Smidt beziehen könnte. Vielleicht lieber: "Ko Smidt, Head of Exam, berichtete über den Weg des Colleges zu SeaTable und welche Erfahrungen er dabei gemacht hat." -->
 
 {{< customer-logo image="logo-jfc.jpg" firma="Johannes Fontanus College" branche="Bildungseinrichtung" ort="Niederlande" >}}
 
