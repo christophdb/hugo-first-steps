@@ -1,13 +1,13 @@
 ---
 title: 'Kunstmanagement – wie Sie Museen und Galerien digital managen - SeaTable'
-description: 'Nutzen Sie SeaTable als flexible Kunstmanagement-Software für die Verwaltung und die Organisation von Ausstellungen in Museen und Galerien.'
+description: 'Ausstellungen, Museen oder Galerien digital verwalten? SeaTable bietet maximale Flexibilität für Sammlungen, Kontakte, Leihgaben, Pflege, Logistik und Literatur. Wie Sie digitale Prozesse individuell gestalten, Workflows abbilden und typische Problemfälle effizient lösen, erfahren Sie im Beitrag.'
 date: 2021-03-09
 lastmod: '2023-07-05'
 author: 'cdb'
 url: '/de/ausstellungs-und-kunstmanagement-museum-galerie'
 seo:
-    title: Kunstmanagement – wie Sie Museen und Galerien digital managen
-    description: Nutzen Sie SeaTable als flexible Kunstmanagement-Software für die Verwaltung und die Organisation von Ausstellungen in Museen und Galerien.
+    title: 'Kunstmanagement: Museen & Galerien digital verwalten'
+    description: 'Nutzen Sie SeaTable als flexible Kunstmanagement-Software für Verwaltung und Organisation von Ausstellungen.'
 categories:
     - 'best-practice'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'SeaTable Enterprise auf dem eigenen Server hinter einem Webserver installieren'
-description: ''
+description: 'Wie installiert man SeaTable Enterprise auf dem eigenen Server, wenn die Standard-Ports 80 und 443 schon belegt sind? Diese step-by-step Anleitung erklärt Port-Umstellung, Proxy-Konfiguration, SSL-Einrichtung und zeigt alle Fallstricke und Lösungen für Ihr Hosting.'
 date: 2021-05-15
 lastmod: '2023-07-11'
 categories: 
@@ -9,8 +9,8 @@ url: '/de/seatable-enterprise-installation-server-webserver'
 aliases:
     - /de/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
 seo:
-    title: ''
-    description: ''
+    title: 'SeaTable Enterprise hinter Webserver installieren: Anleitung'
+    description: 'Installieren Sie SeaTable Enterprise sicher hinter einem bestehenden Webserver – alles zu Port-Anpassung, Proxy & SSL im Überblick.'
 color: '#265697'
 ---
 

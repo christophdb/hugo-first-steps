@@ -1,5 +1,6 @@
 ---
 title: 'Install SeaTable Enterprise on your own server behind a web server - SeaTable'
+description: 'Need to install SeaTable but ports are in use by another web server? This guide walks you through custom ports, nginx/Apache proxy configs, database tweaks, and SSL certificates for secure, seamless deployment of SeaTable Enterprise on your own infrastructure.'
 date: 2021-05-15
 lastmod: '2023-07-11'
 categories: 
@@ -8,8 +9,8 @@ url: '//seatable-enterprise-installation-server-webserver'
 aliases:
     - /seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
 seo:
-    title:
-    description:
+    title: 'Install SeaTable Behind a Web Server: Step-by-Step Guide'
+    description: 'Learn to securely deploy SeaTable Enterprise behind an existing web server—ports, proxies & SSL setup made easy.'
 color: '#265697'
 ---
 

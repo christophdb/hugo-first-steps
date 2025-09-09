@@ -1,5 +1,6 @@
 ---
 title: 'Арт-менеджмент - как управлять музеями и галереями в цифровом формате - SeaTable'
+description: 'Как упростить работу с коллекциями в музее или галерее? SeaTable гибко структуирует экспонаты, контакты, договора, перевозки и архивы. Максимум индивидуальности и контроля для всего, что связано с современным искусством и организацией выставок — в одном цифровом решении.'
 date: 2021-03-09
 lastmod: '2023-07-05'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/ru/upravlenie-vystavkami-iskusstvom-muzeem-galereey'
 aliases:
     - /ru/ausstellungs-und-kunstmanagement-museum-galerie
 seo:
-    title:
-    description:
+    title: 'Диджитал-арт-менеджмент: музеи и галереи онлайн'
+    description: 'SeaTable — гибкое решение для цифрового управления коллекциями и выставками.'
 categories:
     - 'best-practice'
 tags:

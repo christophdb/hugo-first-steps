@@ -1,5 +1,6 @@
 ---
 title: 'Gestão de arte - como gerir digitalmente museus e galerias - SeaTable'
+description: 'Modernize a gestão de museus e galerias com SeaTable: catalogue coleções, organize empréstimos, contatos, logística e literatura de forma flexível. Descubra como digitalizar todos os fluxos e adaptar a organização artística às necessidades do seu espaço cultural.'
 date: 2021-03-09
 lastmod: '2023-07-05'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/pt/gestao-exposicoes-arte-museu-galeria'
 aliases:
     - /pt/ausstellungs-und-kunstmanagement-museum-galerie
 seo:
-    title:
-    description:
+    title: 'Gestão de arte digital: museus e galerias'
+    description: 'Use SeaTable como software flexível para organizar exposições e coleções de arte.'
 categories:
     - 'best-practice'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Com estes 4 passos para uma gestão perfeita do produto - SeaTable'
+description: 'Do planejamento à análise: veja como estruturar todas as etapas do gerenciamento de produtos, centralizar contatos e extrair valor dos dados para impulsionar resultados e vendas. Otimize o processo com dicas eficientes e um modelo flexível.'
 date: 2021-04-29
 categories:
     - 'best-practice'
@@ -11,8 +12,8 @@ aliases:
     - /pt/produktmanagement
 color: '#6b64c4'
 seo:
-    title:
-    description:
+    title: 'Gerencie produtos em 4 etapas: guia prático'
+    description: 'Aprenda a organizar o gerenciamento de produtos em 4 passos e centralizar dados no SeaTable.'
 ---
 
 Quando as empresas comercializam um produto ou serviço, uma boa gestão do produto é muito importante para o sucesso do mercado a longo prazo. Afinal de contas, de que serve um grande produto que simplesmente não funciona? Mostramos o que deve ser considerado na gestão do produto e quais as funções úteis que o trabalho com SeaTable traz consigo.
