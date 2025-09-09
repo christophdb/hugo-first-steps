@@ -1,5 +1,6 @@
 ---
 title: 'Art management - how to manage museums and galleries digitally - SeaTable'
+description: 'Art management made easy: see how museums and galleries benefit from digital tools that allow flexible record-keeping, logistics, contacts, and more. Learn how SeaTable supports all core processes individually—making exhibition, collection and contract management truly efficient and adaptable.'
 date: 2021-03-09
 lastmod: '2023-07-05'
 coverImage: 'seatable-art-exhibition-management.jpg'
@@ -8,8 +9,8 @@ url: '/exhibition-art-management-museum-gallery'
 aliases:
     - /ausstellungs-und-kunstmanagement-museum-galerie
 seo:
-    title:
-    description:
+    title: 'Art Management: Digital Tools for Museums & Galleries'
+    description: 'Use SeaTable as flexible art management software for organizing exhibitions and collections.'
 categories:
     - 'best-practice'
 tags:

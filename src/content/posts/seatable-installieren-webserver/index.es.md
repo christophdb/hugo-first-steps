@@ -1,5 +1,6 @@
 ---
 title: 'Instalar SeaTable Enterprise en su propio servidor detrás de un servidor web - SeaTable'
+description: '¿Los puertos 80/443 ya están ocupados? Aprende en pocos pasos a instalar SeaTable Enterprise en tu propio servidor: configura el proxy, personaliza los puertos y protege tu entorno con HTTPS y certificados SSL. Todo lo que necesitas para una instalación segura y moderna.'
 date: 2021-05-15
 lastmod: '2023-07-11'
 categories: 
@@ -9,8 +10,8 @@ aliases:
     - /es/seatable-enterprise-auf-dem-eigenen-server-hinter-einem-webserver-installieren
 color: '#265697'
 seo:
-    title:
-    description:
+    title: 'Instalar SeaTable tras un servidor web: guía completa'
+    description: 'Descubre cómo instalar SeaTable Enterprise detrás de tu servidor web mediante proxy y SSL fácilmente.'
 ---
 
 En el artículo [Instalación de SeaTable Enterprise Edition en Ubuntu Server 20.04 LTS]({{< relref "posts/seatable-installieren-ubuntu-20-04" >}}) explicamos la instalación estándar de SeaTable Enterprise en un servidor con Ubuntu Linux. En la instalación estándar, SeaTable se instala en un servidor en el que no se ejecutan otras aplicaciones web. ¿Pero qué pasa si los puertos 80 y 443 ya están ocupados por otro servicio como un servidor web nginx o Apache? En este artículo responderemos a esta pregunta. Como verás, la respuesta es deliciosamente sencilla.
