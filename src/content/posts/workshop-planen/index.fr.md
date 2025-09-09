@@ -1,5 +1,6 @@
 ---
 title: 'Planifier un atelier : comment organiser des ateliers sans stress'
+description: 'Du recrutement à la gestion des inscriptions, découvrez comment organiser ateliers et formations avec succès. Les outils digitaux simplifient le suivi des participants et la certification. Profitez d’une méthode structurée et d’un modèle pour développer les talents au sein de votre entreprise.'
 date: 2024-01-15
 lastmod: '2024-01-15'
 author: 'kgr'
@@ -7,8 +8,8 @@ url: '/fr/organisation-atelier'
 aliases:
     - /fr/workshop-planen
 seo:
-    title:
-    description:
+    title: 'Organisez des ateliers efficacement : astuces & modèle'
+    description: 'Envie d’organiser un atelier ? Ce guide propose des conseils pratiques et un modèle pour planifier formations et événements sans stress.'
 categories:
     - 'best-practice'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Planificación de talleres: cómo organizar talleres sin estrés'
+description: 'Mejorar las competencias de tus empleados empieza con una buena gestión. Descubre claves para organizar talleres y cursos: cómo coordinar participantes, elegir formadores y digitalizar el proceso con herramientas prácticas. Aprovecha también una plantilla gratuita para facilitar tu formación.'
 date: 2024-01-15
 lastmod: '2024-01-15'
 author: 'kgr'
@@ -7,8 +8,8 @@ url: '/es/planificacion-taller'
 aliases:
     - /es/workshop-planen
 seo:
-    title:
-    description:
+    title: 'Organiza talleres sin estrés: consejos y plantilla'
+    description: '¿Quieres planificar un taller? Aquí tienes recursos útiles y una plantilla para organizar formaciones y capacitaciones de empleados.'
 categories:
     - 'best-practice'
 tags:

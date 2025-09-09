@@ -1,5 +1,6 @@
 ---
 title: 'Planeamento de workshops: Como organizar workshops sem stress'
+description: 'Impulsione a evolução da equipe com workshops bem organizados. Saiba como gerenciar participantes, encontrar instrutores e digitalizar todo o processo usando ferramentas como SeaTable. Use a nossa planilha gratuita para garantir o sucesso nos treinamentos da sua empresa.'
 date: 2024-01-15
 lastmod: '2024-01-15'
 author: 'kgr'
@@ -7,8 +8,8 @@ url: '/pt/planejamento-workshops'
 aliases:
     - /pt/workshop-planen
 seo:
-    title:
-    description:
+    title: 'Planejar workshops sem estresse: dicas e modelo gratuito'
+    description: 'Quer organizar um workshop? Veja práticas e dicas com um modelo para planejar treinamentos e capacitações sem complicações.'
 categories:
     - 'best-practice'
 tags:
