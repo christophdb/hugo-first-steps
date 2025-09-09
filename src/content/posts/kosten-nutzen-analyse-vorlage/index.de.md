@@ -1,13 +1,13 @@
 ---
-title: 'Kosten-Nutzen-Analyse erstellen'
-description: 'Im unternehmerischen Alltag ist es nicht immer leicht, die richtigen Entscheidungen zu treffen. Sie müssen viele Aspekte und Faktoren berücksichtigen und oft ohne Erfahrungswerte die Wirkung bestimmter Maßnahmen abschätzen. Wie erfolgreich Ihr Unternehmen dabei ist, hängt insbesondere von einer Sache ab: auf welcher Basis Ihre Entscheidungen fallen. Gut, dass Sie Ihre Entscheidungen mit einer Kosten-Nutzen-Analyse auf eine solide Grundlage stellen können.'
+title: 'Kosten-Nutzen-Analyse einfach erstellen'
+description: 'Im Unternehmensalltag fällt es oft schwer, Investitionen objektiv zu bewerten. Wie lassen sich Kosten und Nutzen zuverlässig gegenüberstellen und worauf kommt es bei der Analyse wirklich an? Entdecken Sie, wie eine Kosten-Nutzen-Analyse hilft, Risiken zu erkennen, Vorteile zu nutzen und Ihre Entscheidungen nachhaltig abzusichern.'
 date: 2024-03-04
 lastmod: '2025-02-20'
 author: 'cdb'
 url: '/de/kosten-nutzen-analyse-vorlage'
 seo:
-    title: 'Kosten-Nutzen-Analyse erstellen'
-    description: 'Eine Kosten-Nutzen-Analyse mit einer Vorlage zu erstellen ist praktisch, schnell und gewinnbringend. Wie es funktioniert, erfahren Sie hier.'
+    title: 'Kosten-Nutzen-Analyse einfach erstellen'
+    description: 'Treffen Sie fundierte Entscheidungen mit einer Kosten-Nutzen-Analyse und Vorlage – schnell, praktisch und gewinnbringend für Ihr Unternehmen.'
 categories:
     - 'best-practice'
 tags:

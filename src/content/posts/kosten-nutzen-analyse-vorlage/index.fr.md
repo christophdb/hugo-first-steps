@@ -1,5 +1,6 @@
 ---
-title: 'Réaliser une analyse coûts-bénéfices'
+title: "Réaliser une analyse coûts-bénéfices"
+description: "Dans le quotidien professionnel, il est parfois difficile d’évaluer objectivement une décision d’investissement. Quels critères prendre en compte pour comparer coûts et bénéfices ? Découvrez comment l’analyse coût-bénéfice révèle risques, atouts et vous aide à fonder vos choix sur des bases solides pour l’avenir."
 date: 2024-03-04
 lastmod: '2025-02-20'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/fr/modele-analyse-cout-benefice'
 aliases:
     - /fr/kosten-nutzen-analyse-vorlage
 seo:
-    title:
-    description:
+    title: "Réaliser une analyse coût-bénéfice facilement"
+    description: "Prenez des décisions éclairées avec une analyse coût-bénéfice et un modèle gratuit – rapide, pratique et rentable pour votre entreprise."
 categories:
     - 'best-practice'
 tags:

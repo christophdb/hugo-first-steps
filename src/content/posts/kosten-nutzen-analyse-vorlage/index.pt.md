@@ -1,5 +1,6 @@
 ---
 title: 'Criar uma análise custo-benefício'
+description: 'Tomar decisões estratégicas exige olhar para todos os detalhes e equilibrar custos e benefícios para cada investimento. Como identificar com precisão riscos e vantagens? Descubra como uma análise custo-benefício pode transformar avaliações superficiais em decisões sustentáveis e bem fundamentadas para sua empresa.'
 date: 2024-03-04
 lastmod: '2025-02-20'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/pt/modelo-analise-custo-beneficio'
 aliases:
     - /pt/kosten-nutzen-analyse-vorlage
 seo:
-    title:
-    description:
+    title: 'Como fazer uma análise custo-benefício'
+    description: 'Tome decisões seguras com a análise custo-benefício e um modelo gratuito: prático, rápido e eficaz para sua empresa.'
 categories:
     - 'best-practice'
 tags:

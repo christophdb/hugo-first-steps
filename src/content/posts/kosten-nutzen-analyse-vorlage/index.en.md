@@ -1,5 +1,6 @@
 ---
 title: 'Create cost-benefit analysis'
+description: 'Navigating business decisions means weighing costs against potential benefits, but which factors are truly decisive? Discover how a cost-benefit analysis reveals hidden risks, pinpoints opportunities, and provides a clear foundation for lasting investment choices—all while keeping your company’s goals in focus.'
 date: 2024-03-04
 lastmod: '2025-02-20'
 coverImage: 'Kosten-Nutzen-Analyse-Vorlage_AdobeStock_467514550.jpg'
@@ -8,8 +9,8 @@ url: '/cost-benefit-analysis-template'
 aliases:
     - /kosten-nutzen-analyse-vorlage
 seo:
-    title:
-    description:
+    title: 'How to Create a Cost-Benefit Analysis'
+    description: 'Make business decisions confidently with a cost-benefit analysis and a free template—practical, fast, and effective for your company.'
 categories:
     - 'best-practice'
 tags:
