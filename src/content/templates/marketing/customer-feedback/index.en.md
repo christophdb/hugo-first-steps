@@ -6,8 +6,8 @@ url: '/template/customer-feedback'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Collect & Analyze Customer Feedback Easily'
+    description: 'Collect, manage and analyze customer feedback with SeaTable’s forms and templates for smarter product decisions.'
 template: 'fc59b6cdb703474ab3eb'
 ---
 

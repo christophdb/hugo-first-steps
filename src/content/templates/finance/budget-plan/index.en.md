@@ -6,8 +6,8 @@ url: '/template/budget-plan'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Effortless Business Budget Planning'
+    description: 'Create and manage your business budget efficiently—track expenses, set goals and forecast for the future.'
 template: '8fa08d31d16c4a54a1bb'
 ---
 

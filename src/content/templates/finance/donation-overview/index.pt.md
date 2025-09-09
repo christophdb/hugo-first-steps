@@ -6,8 +6,8 @@ url: '/pt/modelo/donation-overview'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Visão geral de doações: gestão eficiente'
+    description: 'Controle doações, metas e recibos em um só lugar—ideal para ONGs e projetos sociais.'
 template: 'f64c97dc0723400887c0'
 ---
 

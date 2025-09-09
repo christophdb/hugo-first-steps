@@ -8,8 +8,8 @@ aliases:
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Возврат расходов: всё под контролем онлайн'
+    description: 'Электронный учёт и возврат расходов — быстрая и прозрачная работа с отчетами и чеками сотрудников.'
 template: 'e51bde56c25e439891c9'
 ---
 

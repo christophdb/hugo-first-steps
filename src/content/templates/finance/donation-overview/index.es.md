@@ -6,8 +6,8 @@ url: '/es/plantilla/donation-overview'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Resumen de donativos: control total'
+    description: 'Gestiona donaciones y crea certificados rápidamente: controla el progreso financiero de tus proyectos solidarios.'
 template: 'f64c97dc0723400887c0'
 ---
 

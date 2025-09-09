@@ -6,8 +6,8 @@ url: '/pt/modelo/expenses-reimbursement'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Reembolso de despesas: 100% digital'
+    description: 'Reembolse despesas de funcionários de forma prática: sem papéis, com total controle digital.'
 template: 'e51bde56c25e439891c9'
 ---
 

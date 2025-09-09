@@ -6,8 +6,8 @@ url: '/de/vorlage/customer-feedback'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Kundenfeedback effizient sammeln & auswerten'
+    description: 'Sammeln und analysieren Sie Kundenfeedback einfach mit Vorlagen, Webformularen und Statistiken von SeaTable.'
 template: 'fc59b6cdb703474ab3eb'
 ---
 

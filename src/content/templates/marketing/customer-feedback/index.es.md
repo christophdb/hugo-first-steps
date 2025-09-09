@@ -6,8 +6,8 @@ url: '/es/plantilla/customer-feedback'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Recoge opiniones de clientes fácilmente'
+    description: 'Recoge y analiza el feedback de tus clientes con formularios y plantillas personalizables en SeaTable.'
 template: 'fc59b6cdb703474ab3eb'
 ---
 

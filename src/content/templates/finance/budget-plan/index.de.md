@@ -6,8 +6,8 @@ url: '/de/vorlage/budget-plan'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Budgetplanung einfach umsetzen'
+    description: 'Planen Sie Ihr Unternehmensbudget effizient und zukunftssicher: Analyse, Prognose und Ziele klar im Blick.'
 template: '8fa08d31d16c4a54a1bb'
 ---
 
