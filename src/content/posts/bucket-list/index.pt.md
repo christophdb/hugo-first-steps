@@ -1,13 +1,14 @@
 ---
 title: 'Criar uma lista de desejos: Ideias, inspiração e modelo gratuito'
+description: 'Quais sonhos e experiências ainda faltam viver? Uma bucket list transforma desejos em metas: viagens, aprendizados, desafios e boas ações. Veja dicas, liste seus objetivos e use nosso modelo gratuito para não perder nenhum momento marcante ao longo da sua vida.'
 date: 2024-02-19
 lastmod: '2024-02-19'
 author: 'nsc'
 url: '/pt/bucket-list'
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Crie sua Bucket List: ideias e modelo gratuito'
+    description: 'Inspire-se: 63 ideias e um modelo grátis para criar sua lista de sonhos e conquistas inesquecíveis.'
 categories:
     - 'best-practice'
 tags:

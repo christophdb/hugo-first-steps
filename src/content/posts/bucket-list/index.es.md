@@ -1,5 +1,6 @@
 ---
 title: 'Crear una lista de cosas que hacer antes de morir: Ideas, inspiración y plantilla gratuita'
+description: '¿Qué sueños dejarás sin cumplir? Una bucket list te anima a plasmar tus mayores anhelos: viajes, retos, aventuras o pequeños placeres por vivir. Descubre cómo transformar tus deseos en objetivos palpables y encuentra la motivación e inspiración que necesitas para empezar tu propia lista.'
 date: 2024-02-19
 lastmod: '2024-02-19'
 author: 'nsc'
@@ -8,8 +9,8 @@ aliases:
     - /es/bucket-list
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Crea tu Bucket List: ideas y plantilla gratuita'
+    description: 'Inspírate con 63 ideas y una plantilla gratis para tu lista de sueños y experiencias únicas.'
 categories:
     - 'best-practice'
 tags:

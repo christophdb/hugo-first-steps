@@ -1,13 +1,14 @@
 ---
 title: 'Create a bucket list: Ideas, inspiration & free template'
+description: 'What’s on your life’s wishlist? From once-in-a-lifetime adventures to personal growth or giving back, a bucket list helps you capture and achieve your dreams. Discover what makes each list unique, how to find inspiration, and get your free template to start your own unforgettable journey.'
 date: 2024-02-19
 lastmod: '2024-02-19'
 coverImage: 'aurora-1185464_1280.jpg'
 author: 'nsc'
 url: '/bucket-list'
 seo:
-    title:
-    description:
+    title: 'Create Your Bucket List: Ideas & Free Template'
+    description: 'Get inspired: 63 ideas and a free template to create a bucket list filled with your dreams and lifelong adventures.'
 categories:
     - 'best-practice'
 tags:
