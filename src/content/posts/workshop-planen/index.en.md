@@ -1,5 +1,6 @@
 ---
 title: 'Workshop planning: How to organize stress-free workshops'
+description: 'Employee growth starts with smart planning. Learn how to organize workshops and trainings with efficient tools and actionable steps—from participant management and finding the right coaches to using software like SeaTable. Boost engagement and professional development in your company.'
 date: 2024-01-15
 lastmod: '2024-01-15'
 coverImage: 'Workshops.jpg'
@@ -8,8 +9,8 @@ url: '/workshop-planning'
 aliases:
     - /workshop-planen
 seo:
-    title: 
-    description: 
+    title: 'Plan Workshops Easily: Tips, Tools & Free Template'
+    description: 'Want to organize a workshop? Discover practical advice, common challenges, and a free template for stress-free employee trainings.'
 categories:
     - 'best-practice'
 tags:

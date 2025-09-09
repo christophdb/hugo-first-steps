@@ -6,8 +6,8 @@ lastmod: '2024-01-15'
 author: 'kgr'
 url: '/de/workshop-planen'
 seo:
-    title: 'Workshop planen: So organisieren Sie stressfrei Workshops'
-    description: 'Sie möchten einen Workshop planen? Dieser Artikel liefert Ihnen nützliche Infos rund um die Organisation von Workshops und Weiterbildungen.'
+    title: 'Workshops stressfrei organisieren: Tipps & Vorlage'
+    description: 'Sie möchten einen Workshop planen? Dieser Artikel liefert nützliche Infos samt Vorlage zur Organisation von Workshops und Weiterbildungen.'
 categories:
     - 'best-practice'
 tags:
