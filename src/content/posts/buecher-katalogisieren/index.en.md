@@ -1,5 +1,6 @@
 ---
 title: 'Cataloging books made easy'
+description: 'Love reading but losing track of your collection? With smart apps, you can catalog every book quickly—track locations, wishlists, lendings and stats. Explore the top tools to stay organized, share your list and turn your passion for books into a perfectly managed library—all with just a few taps.'
 date: 2022-07-29
 lastmod: '2024-12-02'
 coverImage: 'Bücher-katalogisieren_AdobeStock_144344997_bearbeitet-1.jpg'
@@ -8,8 +9,8 @@ url: '/catalog-books'
 aliases:
     - /buecher-katalogisieren
 seo:
-    title:
-    description:
+    title: 'Catalog Your Books Easily'
+    description: 'For book lovers: find the best apps to catalog and organize your books, collections, wishlists, and reading stats effortlessly.'
 categories:
     - 'best-practice'
 tags:

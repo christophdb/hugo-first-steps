@@ -1,5 +1,6 @@
 ---
 title: 'House hunting - 10 tips on how to find an apartment'
+description: 'Searching for a new place is tough—tight markets and growing competition. Learn how to set search criteria, get your paperwork in order, and keep track of promising offers. These 10 expert tips will help you move forward and secure the right apartment with less stress.'
 date: 2023-12-18
 lastmod: '2023-12-18'
 coverImage: 'Wohnungssuche-Kriterien.png'
@@ -8,8 +9,8 @@ url: '/apartment-search'
 aliases:
     - /wohnungssuche
 seo:
-    title:
-    description:
+    title: 'Apartment Search: 10 Key Tips to Find Your Home'
+    description: 'Organize your apartment search with 10 useful tips: set criteria, prepare documents, schedule viewings, and more!'
 categories:
     - 'best-practice'
 tags:

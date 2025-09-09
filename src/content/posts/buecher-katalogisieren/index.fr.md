@@ -1,5 +1,6 @@
 ---
 title: 'Cataloguer des livres en toute simplicité'
+description: 'Passionné de lecture ? Organisez facilement votre collection : gérez les prêts, les listes d’envies et les statistiques de lecture. Découvrez les applications idéales pour suivre tous vos ouvrages et optimiser la gestion de votre bibliothèque, même virtuelle—pour que chaque livre soit toujours à portée de main.'
 date: 2022-07-29
 lastmod: '2024-12-02'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/fr/cataloguer-livres'
 aliases:
     - /fr/buecher-katalogisieren
 seo:
-    title:
-    description:
+    title: 'Cataloguer ses livres facilement'
+    description: 'Gardez le contrôle sur votre bibliothèque : listez, organisez et partagez vos livres grâce aux meilleures applications.'
 categories:
     - 'best-practice'
 tags:

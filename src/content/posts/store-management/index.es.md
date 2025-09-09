@@ -1,5 +1,6 @@
 ---
 title: 'Gestión organizada de la tienda con SeaTable - SeaTable'
+description: 'Más sucursales significan más tareas: SeaTable reúne toda la información clave sobre empleados, ventas, formaciones y materiales en un solo sitio. Personaliza vistas, automatiza procesos y facilita el seguimiento para una gestión de tiendas sencilla y productiva.'
 date: 2021-10-21
 categories:
     - 'best-practice'
@@ -10,8 +11,8 @@ aliases:
     - /es/store-management-mit-seatable
 color: '#c2eee0'
 seo:
-    title:
-    description:
+    title: 'Gestión de tiendas eficiente con SeaTable'
+    description: 'Mantenga bajo control sucursales, ventas, personal y materiales con la solución integral de gestión SeaTable.'
 ---
 
 Con la apertura de nuevos locales, no sólo crece el volumen de negocio, sino también el esfuerzo organizativo. Ahora es importante mantener una visión general. Nuestra plantilla de gestión de tiendas le ayuda con las siguientes preguntas: ¿Dónde están sus sucursales de mayor volumen de negocio? ¿Qué tiendas necesitan más atención porque no han alcanzado el volumen de negocio previsto? ¿Dónde se necesita nuevo personal y cuál es la calidad de su personal contratado? ¿Qué empleados podrían utilizar qué formación?

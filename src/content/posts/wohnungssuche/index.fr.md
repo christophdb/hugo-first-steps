@@ -1,5 +1,6 @@
 ---
 title: 'Recherche de logement - 10 conseils pour trouver un logement'
+description: 'Dans un marché tendu, il faut être efficace : découvrez comment établir vos critères, préparer les documents, organiser les visites et suivre vos démarches. Ces 10 conseils vous aideront à maximiser vos chances de trouver un logement adapté à vos besoins et à votre style de vie.'
 date: 2023-12-18
 lastmod: '2023-12-18'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/fr/recherche-appartement'
 aliases:
     - /fr/wohnungssuche
 seo:
-    title:
-    description:
+    title: 'Recherche d’appartement : 10 conseils pratiques'
+    description: 'Organisez votre recherche de logement avec 10 conseils essentiels : critères, dossiers, visites et plus encore.'
 categories:
     - 'best-practice'
 tags:

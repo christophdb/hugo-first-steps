@@ -1,5 +1,6 @@
 ---
 title: 'Catalogação de livros facilitada'
+description: 'Perde o controle do acervo? Descubra os melhores apps para catalogar livros, organizar empréstimos, criar listas de desejos e acompanhar sua evolução de leitura. Gerencie tudo de maneira prática e eficiente, e torne sua coleção ainda mais apaixonante e acessível no dia a dia.'
 date: 2022-07-29
 lastmod: '2024-12-02'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/pt/catalogar-livros'
 aliases:
     - /pt/buecher-katalogisieren
 seo:
-    title:
-    description:
+    title: 'Catalogar livros de forma simples'
+    description: 'Tenha sua biblioteca sempre organizada: use aplicativos para catalogar, criar listas de desejos e controlar empréstimos facilmente.'
 categories:
     - 'best-practice'
 tags:

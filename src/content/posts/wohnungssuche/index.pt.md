@@ -1,5 +1,6 @@
 ---
 title: 'Procura de casa - 10 dicas para encontrar um apartamento'
+description: 'Encontrar um novo lar pode ser complexo—mercado disputado, muitas opções. Veja como definir o que procura, preparar os documentos e organizar visitas para não perder nenhuma chance. Com estas 10 dicas, você tem mais controle e tranquilidade para escolher o endereço ideal.'
 date: 2023-12-18
 lastmod: '2023-12-18'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/pt/busca-apartamento'
 aliases:
     - /pt/wohnungssuche
 seo:
-    title:
-    description:
+    title: 'Procura de apartamento: 10 dicas essenciais'
+    description: 'Organize sua busca por apartamento com 10 dicas valiosas: critérios, documentação, visitas e muito mais!'
 categories:
     - 'best-practice'
 tags:

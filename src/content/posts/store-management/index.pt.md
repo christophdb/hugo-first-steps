@@ -1,5 +1,6 @@
 ---
 title: 'Gestão de loja organizada com SeaTable - SeaTable'
+description: 'À medida que o número de lojas cresce, a organização precisa ser ágil. Com SeaTable, controle funcionários, vendas, treinamentos e materiais em um só lugar. Vistas personalizadas e formulários digitais facilitam a rotina e otimizam sua gestão comercial.'
 date: 2021-10-21
 categories:
     - 'best-practice'
@@ -10,8 +11,8 @@ aliases:
     - /pt/store-management-mit-seatable
 color: '#c2eee0'
 seo:
-    title:
-    description:
+    title: 'Gestão de lojas prática com SeaTable'
+    description: 'Gerencie filiais, vendas, equipe e materiais POS com eficiência e controle total usando SeaTable.'
 ---
 
 Com a abertura de novos locais, não só cresce o volume de negócios, mas também o esforço organizacional. Agora é importante manter uma visão geral. O nosso Modelo de Gestão de Loja ajuda-o com as seguintes perguntas: Onde estão os seus ramos com maior rotatividade? Que lojas precisam de mais atenção porque ainda não atingiram o volume de negócios previsto? Onde é necessário pessoal novo e qual é a qualidade do seu pessoal recrutado? Que empregados poderiam utilizar que formação?
