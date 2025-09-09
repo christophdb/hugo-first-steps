@@ -6,8 +6,8 @@ url: '/template/donation-overview'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Donation Overview: Track & Manage Easily'
+    description: 'Manage donations and generate receipts easily—track fundraising goals and financial progress with a clear overview.'
 template: 'f64c97dc0723400887c0'
 ---
 

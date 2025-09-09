@@ -8,8 +8,8 @@ aliases:
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Эффективный сбор отзывов клиентов'
+    description: 'Сбор и анализ отзывов клиентов через формы и шаблоны SeaTable — для роста и улучшения продукта.'
 template: 'fc59b6cdb703474ab3eb'
 ---
 

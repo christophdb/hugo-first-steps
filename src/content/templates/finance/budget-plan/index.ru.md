@@ -8,8 +8,8 @@ aliases:
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Легкое планирование бюджета'
+    description: 'Эффективно управляйте бюджетом: анализируйте расходы и ставьте финансовые цели.'
 template: '8fa08d31d16c4a54a1bb'
 ---
 

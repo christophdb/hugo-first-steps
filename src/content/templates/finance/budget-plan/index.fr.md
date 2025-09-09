@@ -6,8 +6,8 @@ url: '/fr/modele/budget-plan'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planification budgétaire simplifiée'
+    description: 'Gérez le budget de votre organisation efficacement et fixez vos objectifs financiers avec clarté.'
 template: '8fa08d31d16c4a54a1bb'
 ---
 

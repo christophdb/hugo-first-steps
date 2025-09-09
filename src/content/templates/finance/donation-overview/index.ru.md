@@ -8,8 +8,8 @@ aliases:
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Учёт пожертвований: простое управление'
+    description: 'Ведение учёта пожертвований и автоматизация квитанций — полный контроль за проектами организации.'
 template: 'f64c97dc0723400887c0'
 ---
 

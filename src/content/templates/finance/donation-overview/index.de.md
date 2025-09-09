@@ -6,8 +6,8 @@ url: '/de/vorlage/donation-overview'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Spendenübersicht: Alles im Blick'
+    description: 'Verwalten Sie Spenden, Ziele und Spendenbescheinigungen zentral – ideal für Vereine und Organisationen.'
 template: 'f64c97dc0723400887c0'
 ---
 

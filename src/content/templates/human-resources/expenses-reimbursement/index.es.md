@@ -6,8 +6,8 @@ url: '/es/plantilla/expenses-reimbursement'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Reembolso de gastos: gestión digital rápida'
+    description: 'Administra reembolsos fácilmente: empleados cargan gastos y recibos, gestiona todo online con SeaTable.'
 template: 'e51bde56c25e439891c9'
 ---
 

@@ -6,8 +6,8 @@ url: '/es/plantilla/budget-plan'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planificación de presupuesto sencilla'
+    description: 'Planifica y controla fácilmente tu presupuesto empresarial con análisis y objetivos claros.'
 template: '8fa08d31d16c4a54a1bb'
 ---
 

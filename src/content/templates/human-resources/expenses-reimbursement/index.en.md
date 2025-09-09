@@ -6,8 +6,8 @@ url: '/template/expenses-reimbursement'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Expense Reimbursement: Go Paperless Easily'
+    description: 'Manage employee expenses digitally—collect, process, and reimburse all claims seamlessly with SeaTable.'
 template: 'e51bde56c25e439891c9'
 ---
 

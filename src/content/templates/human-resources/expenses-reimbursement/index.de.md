@@ -6,8 +6,8 @@ url: '/de/vorlage/expenses-reimbursement'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Auslagenerstattung einfach digital verwalten'
+    description: 'Erstatten Sie Mitarbeiterauslagen schnell und papierlos: Belege, Überblicke & Rückzahlungen digital steuern.'
 template: 'e51bde56c25e439891c9'
 ---
 

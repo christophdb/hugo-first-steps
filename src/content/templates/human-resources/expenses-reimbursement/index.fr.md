@@ -6,8 +6,8 @@ url: '/fr/modele/expenses-reimbursement'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Remboursement de frais : gérez tout en ligne'
+    description: 'Gérez les notes de frais et preuves d’achat numériquement pour des remboursements rapides et simples.'
 template: 'e51bde56c25e439891c9'
 ---
 

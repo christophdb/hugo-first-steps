@@ -6,8 +6,8 @@ url: '/fr/modele/donation-overview'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Suivi des dons : gestion simplifiée'
+    description: 'Gérez dons et reçus facilement : surveillez objectifs et avancement de vos collectes en toute transparence.'
 template: 'f64c97dc0723400887c0'
 ---
 

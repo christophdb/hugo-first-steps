@@ -6,8 +6,8 @@ url: '/pt/modelo/budget-plan'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planejamento orçamentário facilitado'
+    description: 'Planeje e gerencie o orçamento da sua empresa com eficiência, analisando custos e metas.'
 template: '8fa08d31d16c4a54a1bb'
 ---
 

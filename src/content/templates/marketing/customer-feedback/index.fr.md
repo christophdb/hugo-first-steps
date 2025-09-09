@@ -6,8 +6,8 @@ url: '/fr/modele/customer-feedback'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Collecter et exploiter le feedback client'
+    description: 'Collectez et exploitez les avis clients grâce aux formulaires et tableaux SeaTable, pour améliorer votre offre.'
 template: 'fc59b6cdb703474ab3eb'
 ---
 
