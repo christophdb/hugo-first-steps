@@ -6,8 +6,8 @@ url: '/fr/modele/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Candidatures & lettres de motivation : tout organiser'
+    description: 'Centralisez lettres, CV, échéances et statuts pour candidater efficacement avec SeaTable.'
 template: '2671e798b8924aeb8957'
 ---
 

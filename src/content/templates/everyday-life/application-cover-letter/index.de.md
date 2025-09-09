@@ -6,8 +6,8 @@ url: '/de/vorlage/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Bewerbung & Anschreiben: Alles im Griff'
+    description: 'Behalten Sie Anschreiben, Dokumente und Fristen übersichtlich im Blick – mit dem Bewerbungsplaner von SeaTable.'
 template: '2671e798b8924aeb8957'
 ---
 

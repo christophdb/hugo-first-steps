@@ -8,8 +8,8 @@ aliases:
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Баг-трекер: контроль над ошибками'
+    description: 'Система Bug-Tracker для учёта багов и управления задачами — прозрачная работа над качеством ПО.'
 template: '51d678ca8b004e9b9b79'
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: 'Security in SeaTable Cloud'
 description: ''
+seo:
+    title: 'SeaTable Cloud Security & Data Protection'
+    description: 'Learn how SeaTable Cloud keeps your data secure, private and always available using best practices and strong infrastructure.'
 date: 2024-10-28
 type: 'legal'
 url: '/security'

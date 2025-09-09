@@ -6,8 +6,8 @@ url: '/fr/modele/bug-tracker'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Bug Tracker : maîtrisez vos anomalies'
+    description: 'Gardez le contrôle sur les bugs et hiérarchisez les tâches pour une gestion efficace et une meilleure qualité logicielle.'
 template: '51d678ca8b004e9b9b79'
 ---
 

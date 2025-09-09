@@ -1,6 +1,9 @@
 ---
 title: 'Segurança na SeaTable Cloud'
 description: ''
+seo:
+    title: 'Segurança dos seus dados na SeaTable Cloud'
+    description: 'Saiba como a SeaTable Cloud mantém seus dados protegidos, privados e sempre acessíveis com as melhores práticas de segurança.'
 date: 2024-10-28
 type: 'legal'
 url: '/pt/seguranca'

@@ -1,6 +1,9 @@
 ---
 title: 'Безопасность в SeaTable Cloud'
 description: ''
+seo:
+    title: 'Безопасность данных в облаке SeaTable'
+    description: 'Узнайте, как SeaTable обеспечивает безопасность, конфиденциальность и доступность ваших данных.'
 date: 2024-10-28
 type: 'legal'
 url: '/ru/bezopasnost'

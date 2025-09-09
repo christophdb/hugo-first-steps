@@ -6,8 +6,8 @@ url: '/template/bug-tracker'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Bug Tracker: Streamline Issue Management'
+    description: 'Track software bugs, assign tasks and streamline your workflows. Improve team productivity with this powerful bug tracking system.'
 template: '51d678ca8b004e9b9b79'
 ---
 

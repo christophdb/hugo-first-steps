@@ -6,8 +6,8 @@ url: '/pt/modelo/bug-tracker'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Bug Tracker: controle total dos bugs'
+    description: 'Gerencie bugs de software, priorize tarefas e aumente a produtividade com este sistema de acompanhamento fácil.'
 template: '51d678ca8b004e9b9b79'
 ---
 

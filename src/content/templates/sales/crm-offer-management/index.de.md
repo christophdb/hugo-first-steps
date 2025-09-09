@@ -6,8 +6,8 @@ url: '/de/vorlage/crm-offer-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM: Einfaches Kundenmanagement'
+    description: 'Optimieren Sie Ihr CRM: Kunden, Termine, Umsätze und Angebote zentral und einfach mit SeaTable verwalten.'
 template: 'e88ee7aedd00470e9310'
 ---
 

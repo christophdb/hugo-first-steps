@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Заявления и сопроводительные письма: учет и структура'
+    description: 'Храните документы и отслеживайте дедлайны ваших заявлений удобно в SeaTable.'
 template: '2671e798b8924aeb8957'
 ---
 
