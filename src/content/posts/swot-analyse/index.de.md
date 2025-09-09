@@ -6,8 +6,8 @@ lastmod: '2025-02-03'
 author: 'rdb'
 url: '/de/swot-analyse'
 seo:
-    title: 'SWOT Analyse Beispiel: Interne Stärken und Schwächen im Fokus'
-    description: 'Lernen Sie an einem Beispiel, wie eine SWOT-Analyse Ihnen helfen kann, Stärken, Schwächen, Chancen und Risiken zu identifizieren.'
+    title: 'SWOT-Analyse: Beispiel & Vorlage für Unternehmen'
+    description: 'Strategie stärken mit SWOT-Analyse: Praxisbeispiel und kostenlose Vorlage für interne und externe Faktoren der Unternehmensplanung.'
 categories:
     - 'best-practice'
 tags:

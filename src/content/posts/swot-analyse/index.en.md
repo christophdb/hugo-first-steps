@@ -1,5 +1,6 @@
 ---
 title: 'SWOT analysis example: Focus on internal strengths and weaknesses'
+description: 'Discover how a SWOT analysis reveals your strengths, weaknesses, opportunities, and threats. Learn actionable tips, explore a real-world example, and download a free template to optimize your strategic planning.'
 date: 2024-03-19
 lastmod: '2025-02-03'
 coverImage: 'Swot-Analyse-Template_AdobeStock_213201297_bearbeitet.jpg'
@@ -8,8 +9,8 @@ url: '/swot-analysis'
 aliases:
     - /swot-analyse
 seo:
-    title:
-    description:
+    title: 'SWOT Analysis: Example & Free Template for Business'
+    description: 'Strengthen your strategy with SWOT analysis—learn from real examples and access a free template for internal and external business planning.'
 categories:
     - 'best-practice'
 tags:

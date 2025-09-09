@@ -1,5 +1,6 @@
 ---
 title: 'Ejemplo de análisis DAFO: Centrarse en los puntos fuertes y débiles internos'
+description: 'Descubre cómo el análisis SWOT te ayuda a identificar fortalezas, debilidades, oportunidades y amenazas. Aprende con un ejemplo real y descarga una plantilla gratuita para optimizar tu planificación estratégica.'
 date: 2024-03-19
 lastmod: '2025-02-03'
 author: 'rdb'
@@ -7,8 +8,8 @@ url: '/es/analisis-swot'
 aliases:
     - /es/swot-analyse
 seo:
-    title:
-    description:
+    title: 'Análisis SWOT: ejemplo y plantilla gratuita para empresas'
+    description: 'Fortalece tu estrategia con el análisis SWOT: aprende con ejemplos y descarga una plantilla gratis para planificar factores internos y externos.'
 categories:
     - 'best-practice'
 tags:

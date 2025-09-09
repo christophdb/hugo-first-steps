@@ -1,5 +1,6 @@
 ---
 title: 'Exemplo de análise SWOT: Concentrar-se nos pontos fortes e fracos internos'
+description: 'Descubra como a análise SWOT identifica forças, fraquezas, oportunidades e ameaças. Veja dicas práticas, exemplo real e baixe um modelo grátis para otimizar sua estratégia empresarial.'
 date: 2024-03-19
 lastmod: '2025-02-03'
 author: 'rdb'
@@ -7,8 +8,8 @@ url: '/pt/analise-swot'
 aliases:
     - /pt/swot-analyse
 seo:
-    title:
-    description:
+    title: 'Análise SWOT: exemplo e modelo grátis para negócios'
+    description: 'Reforce sua estratégia com SWOT: exemplos práticos e modelo gratuito para analisar fatores internos e externos em seu planejamento empresarial.'
 categories:
     - 'best-practice'
 tags:
