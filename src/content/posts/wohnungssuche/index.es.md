@@ -1,5 +1,6 @@
 ---
 title: 'Buscar casa: 10 consejos para encontrar piso'
+description: 'Encontrar piso es un reto: el mercado está saturado y la competencia es alta. Aprende a definir tus criterios, preparar la documentación y gestionar contactos y visitas para estar listo cuando surja la oportunidad. Descubre cómo estos 10 consejos pueden facilitarte el proceso.'
 date: 2023-12-18
 lastmod: '2023-12-18'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/es/busqueda-de-apartamento'
 aliases:
     - /es/wohnungssuche
 seo:
-    title:
-    description:
+    title: 'Búsqueda de vivienda: 10 consejos imprescindibles'
+    description: 'Organiza tu búsqueda de piso con 10 consejos útiles: criterios, documentos, visitas y muchos más detalles.'
 categories:
     - 'best-practice'
 tags:
