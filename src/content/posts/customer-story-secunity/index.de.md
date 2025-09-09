@@ -18,17 +18,20 @@ color: '#5a97bc'
 url: '/de/secunity-growth'
 draft: true
 ---
+<!-- Beschreibung fehlt -->
 
 {{< customer-logo image="logo-secunity.jpg" firma="SecUnity GmbH" branche="IT Security Managed Services" ort="Deutschland" >}}
 
 ## Mit SeaTable zu schnelleren und besseren Entscheidungen
 
 Spezialsoftware für Rechnungslegung, Angebotserstellung, ERP oder Marketing und Sales sind in vielen Unternehmen keine Seltenheit. Ist das ein Problem? In den allermeisten Fällen definitiv. Es ist der Klotz am Unternehmens-Bein, der die digitale Transformation be- und modernes, datengetriebenes Arbeiten verhindert. Diese Erfahrung machte auch der norddeutsche IT Security Dienstleister [SecUnity](https://secunity.global/). Nach der Einführung von SeaTable als zentralem Datenbank- und Management-Tool für nahezu alle Geschäftsbereiche gewann das Team ein besseres Verständnis der vorhandenen Daten, Entscheidungen wurde schneller und datenbasiert getroffen. Das Unternehmen zündete den Produktivitäts-Turbo.
+<!-- Was ist mit "be- und modernes" gemeint? -->
 
 Wir haben mit Stephan Lehninger, CEO von SecUnity, über seine Erfahrungen gesprochen.
 
 ### Herr Lehninger, gleich vorab einmal: Würden Sie SeaTable weiterempfehlen?
 
+<!-- 2x kleines T bei "Seatable" -->
 **Stephan Lehninger**: Auf jeden Fall – tatsächlich empfehlen wir Seatable nicht nur weiter, wir arbeiten selber als externe Berater, als Ideengeber und als Betreiber von Seatable Umgebungen für Kunden und wollen dieses Geschäft ausbauen.
 
 ### Stellen Sie Ihre Firma doch kurz vor. Was machen Sie?
@@ -37,6 +40,7 @@ Wir haben mit Stephan Lehninger, CEO von SecUnity, über seine Erfahrungen gespr
 
 ### Ich weiß bereits, dass Sie SeaTable sehr intensiv einsetzen. Können Sie noch einmal kurz schildern, in welchen Bereichen es konkret genutzt wird?
 
+<!-- 3x kleines T bei "Seatable" -->
 **SL:** Derzeit nutzen wir Seatable in sämtlichen Bereichen des Unternehmens.Es gibt bis auf unser Ticketsystem, unser Instant Messaging System und unsere E-Mail-Kommunikationen aktuell keinen Prozess, keine Kommunikation, keinen täglichen Ablauf, der nicht auf Seatable beruht. Wenn neue Themen kommen, neue Bedarfe aufkommen, überlegen wir inzwischen erst,  ob das Ganze mit Seatable umsetzbar ist bevor wir anfangen nach einer Drittlösung zu suchen. 
 
 ### Wie sah die Situation vor SeaTable aus? Welche Tools haben Sie genutzt? 
@@ -51,22 +55,27 @@ Gerade für mich als Geschäftsführer waren das einfach zu viele Programme, die
 
 ### Es gibt ja ganz unterschiedliche Gründe, sich für eine Software zu entscheiden. Was hat für euch den Ausschlag gegeben?
 
+<!-- 3x kleines T bei "Seatable" -->
 **SL:** Drei Punkte waren aus meiner Sicht ausschlaggebend: der sehr einfache Einstieg, dass wir schnell Ergebnisse sehen konnten, und wir durch den Kontakt zu Seatable als Firma in Deutschland auch sehr schnell Vertrauen aufgebaut haben. Wir hatten einfach das Gefühl, dass wir mit der Firma zusammenwachsen können und dass unsere Interessen wirklich gehört wurden. Gerade aus der Situation heraus, dass wir mit Seatable viele kritische Daten und schützenswerte Kundendaten verarbeiten, kam uns die Unterstützung von Seatable beim Betrieb einer eigenen Instanz in unserem Haus sehr entgegen. 
 
 ### Wie schnell konntet ihr dann tasächlich umsteigen? Hat die Implementierung lange gedauert?
 
+<!-- 1x kleines T bei "Seatable" -->
 **SL:** Im Gegenteil, der Implementierungs-Prozess lief enorm schnell. Das hatte primär aber auch als Ausgangssituation, dass ich als Geschäftsführer die Entscheidungsgewalt hatte, um zu sagen, dass wir sehr schnell unsere Prozesse auf Seatable beschränken und wir nicht erst lange Demo-Umgebungen im Haus aufbauen mussten, um dann erst zu einer Entscheidungsfindung zu kommen. 
 
 ### Gab es Herausforderung bei der Einführung? 
 
+<!-- 1x kleines T bei "Seatable" -->
 **SL:** Ja, allerdings primär im Kopf der einzelnen Mitarbeiter und Kollegen, die erst mal lernen mussten „SeaTable“ zu denken. Es ist ja eine sehr flexible Plattform mit der an sich erst mal nahezu jeder Prozess, jede Erfassung und Verarbeitung von Daten, jede Organisation, jede Übersicht möglich ist. Man muss aber auch die Kreativität und das Vorstellungsvermögen haben, um das dementsprechend in ein Tabellenformat bringen zu können. Neue Mitarbeiter hingegen starten direkt in unser Ökosystem Seatable. Sie haben während der Einarbeitung noch nichts anderes bei uns kennengelernt und sind dadurch sehr schnell in der Lage sich in das System einzufühlen.
 
 ### Die eigenen Prozesse und gewohnten Strukturen neu zu denken und flexibel neu aufzusetzen kann ziemlich herausfordernd sein, da haben Sie recht. Wie haben Sie diese Umstellung gemanagt?
 
+<!-- 1x kleines T bei "Seatable" -->
 **SL:** Als Geschäftsführung war meine Hauptaufgabe zu schauen, wie die Daten strukturiert zusammenlaufen, die Verantwortung der einzelnen Bereiche und Abteilungen lag dann da drin für sich selber zu definieren, wie sollen bestimmte Prozesse laufen. D. h. beispielsweise in der Rechnungslegung, haben wir den Gesamtabrechnungsprozess komplett neu gestaltet, über die Zeit umgebaut und mithilfe der Seatable-Automatisierung und den Möglichkeiten gerade innerhalb der Universal App ganz anders strukturiert und ganz anders auch effizient ausgebaut als es uns vorher möglich war.
 
 ### Wo sehen Sie bei SecUnity noch Bedarf?
 
+<!-- 2x kleines T bei "Seatable" -->
 **SL:** Es gibt kaum noch Bereiche, in denen SeaTable nicht eingesetzt wird. Wie gesagt, unser Ticketsystem, unsere E-Mail-Kommunikation und unser Live-Chat sind Lösungen, die wir aktuell nicht in SeaTable haben. Alle weiteren Bereiche die sich nebenbei in unserem täglichen Betrieb gerade entwickeln – zum Beispiel Change Management, Marketing, Social Media Pflege und komplexeres Projektmanagement – sind alles Themen die wir immer Stück für Stück weiter ausbauen. Kurz gesagt: Seatable in weiteren Bereichen des Unternehmens einzusetzen ist kaum möglich. Aber Seatable wird in den kommenden Jahren massiv mit uns mit wachsen müssen; hoffentlich mit uns mit wachsen so wie wir uns das wünschen.
 
 ### Was hat sich durch die Einführung von SeaTable konkret verbessert? Gab es messbare Veränderungen?
@@ -77,6 +86,7 @@ Qualitative Veränderungen sehen wir vor allem in der Qualität unserer Arbeit m
 
 ### Man merkt ja schon, dass Sie SeaTable sehr positiv gegenüber stehen, dennoch zum Schluss noch die Frage: Wie zufrieden sind Sie? Was könnten wir Ihrer Meinung nach besser machen?
 
+<!-- 3x kleines T bei "Seatable" -->
 **SL:** Wir sind enorm zufrieden mit Seatable über die letzten Monate und Jahre. Wir sind beeindruckt davon, wie sich das Produkt entwickelt. Wir sind beeindruckt davon, dass die Entwicklung aus China heraus Interesse an dem Feedback aus Deutschland hat und dieses umgesetzt wird. Vor allem unter der Maßgabe, dass wir doch sehr individuelle Lösungen umsetzen wollen. Jeder Mitarbeiter hat eine andere Idealvorstellung wie er gerne mit Daten arbeiten möchte. Der eine mit Tabellen, der andere mit Web-Apps, der nächste mit Statistiken. Wir profitieren sehr davon, dass wir Daten flexibel und individuell zu jedem Zeitpunkt miteinander verarbeiten können und auch voneinander getrennt weiterverarbeiten können, sehen aber auch, dass gerade diese Vernetzung von Daten innerhalb von Seatable doch viele Ressourcen benötigt. Gerade die Synchronisierung zwischen Datenbeständen nimmt merklich Zeit in Anspruch. Würde Seatable sich dahingehend weiterentwickeln das Daten noch schneller miteinander verknüpft werden können, Automatismen direkt im System Trigger auslösen ohne dass dafür Automatisierungs-Tools gebraucht werden, würde Seatable als alleinige Lösung sicherlich für noch viel mehr Kunden interessant sein. 
 
 ### Herr Lehninger, vielen Dank für das Gespärch.
