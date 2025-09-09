@@ -1,5 +1,6 @@
 ---
 title: 'Competitor analysis: The best way to proceed - incl. template!'
+description: 'Are you planning to expand your product line and want to know which product features are especially in demand in your industry? Or have you noticed a decline in sales and want to find out what your competitors are doing better? A targeted competitor analysis can provide valuable insights to help you optimize your strategy and respond directly to your customers’ needs.'
 date: 2025-01-20
 lastmod: '2025-01-21'
 coverImage: 'chess-6890325_1920.jpg'
@@ -9,8 +10,8 @@ aliases:
     - /wettbewerbsanalyse
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Competitor Analysis Guide & Free Template for Growth'
+    description: 'Boost your strategy with proven competitor analysis methods and a free template to assess strengths, weaknesses, and market positioning.'
 categories:
     - 'best-practice'
 tags:
