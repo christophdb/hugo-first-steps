@@ -1,5 +1,6 @@
 ---
 title: 'Analyse de la concurrence : la meilleure façon de procéder - modèle inclus !'
+description: 'Vous envisagez d’élargir votre gamme de produits et souhaitez savoir quelles caractéristiques sont particulièrement recherchées dans votre secteur ? Ou bien vous avez constaté une baisse des ventes et voulez comprendre ce que vos concurrents font mieux ? Une analyse ciblée de la concurrence peut vous fournir des informations précieuses pour optimiser votre stratégie et répondre précisément aux besoins de vos clients.'
 date: 2025-01-20
 lastmod: '2025-01-21'
 author: 'nsc'
@@ -8,8 +9,8 @@ aliases:
     - /fr/wettbewerbsanalyse
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Guide analyse de la concurrence et modèle gratuit'
+    description: 'Optimisez votre stratégie grâce à l’analyse concurrentielle et à un modèle offert pour comparer les points forts et le positionnement sur le marché.'
 categories:
     - 'best-practice'
 tags:

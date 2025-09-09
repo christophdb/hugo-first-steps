@@ -1,5 +1,6 @@
 ---
 title: 'Análisis de la competencia: la mejor forma de proceder - ¡incluye plantilla!'
+description: '¿Planeas ampliar tu línea de productos y quieres saber qué características son especialmente demandadas en tu sector? ¿O has notado una disminución en las ventas y quieres descubrir qué hace mejor tu competencia? Un análisis de la competencia te puede aportar información valiosa para optimizar tu estrategia y responder específicamente a las necesidades de tus clientes.'
 date: 2025-01-20
 lastmod: '2025-01-21'
 author: 'nsc'
@@ -8,8 +9,8 @@ aliases:
     - /es/wettbewerbsanalyse
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Guía de análisis de la competencia y plantilla gratuita'
+    description: 'Mejora tu estrategia con métodos de análisis de competencia y una plantilla gratis para comparar fortalezas y posicionamiento en el mercado.'
 categories:
     - 'best-practice'
 tags:

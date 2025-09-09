@@ -1,5 +1,6 @@
 ---
 title: 'Análise da concorrência: A melhor forma de proceder - incl. modelo!'
+description: 'Você está planejando expandir sua linha de produtos e quer saber quais características são especialmente demandadas no seu setor? Ou percebeu uma queda nas vendas e deseja descobrir o que seus concorrentes fazem melhor? Uma análise de concorrência direcionada pode fornecer insights valiosos para otimizar sua estratégia e atender diretamente às necessidades dos seus clientes.'
 date: 2025-01-20
 lastmod: '2025-01-21'
 author: 'nsc'
@@ -8,8 +9,8 @@ aliases:
     - /pt/wettbewerbsanalyse
 color: '#eeeeee'
 seo:
-    title:
-    description:
+    title: 'Guia de análise da concorrência e modelo gratuito'
+    description: 'Otimize sua estratégia com métodos de análise concorrencial e um modelo grátis para comparar pontos fortes e posicionamento no mercado.'
 categories:
     - 'best-practice'
 tags:
