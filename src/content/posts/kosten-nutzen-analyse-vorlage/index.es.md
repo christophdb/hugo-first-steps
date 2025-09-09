@@ -1,5 +1,6 @@
 ---
 title: 'Crear un análisis coste-beneficio'
+description: 'Tomar decisiones empresariales implica analizar múltiples factores sin perder de vista el objetivo principal. ¿Cómo puedes comparar costos y beneficios de forma imparcial para cada inversión? Descubre cómo una buena análisis coste-beneficio identifica riesgos, oportunidades y asegura que tus proyectos tengan éxito a largo plazo.'
 date: 2024-03-04
 lastmod: '2025-02-20'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/es/plantilla-analisis-coste-beneficio'
 aliases:
     - /es/kosten-nutzen-analyse-vorlage
 seo:
-    title:
-    description:
+    title: 'Cómo hacer un análisis coste-beneficio'
+    description: 'Toma decisiones empresariales seguras con un análisis coste-beneficio y una plantilla gratuita: práctico, rápido y rentable para tu empresa.'
 categories:
     - 'best-practice'
 tags:
