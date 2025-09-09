@@ -1,5 +1,6 @@
 ---
 title: 'Lista de la compra y aplicación: comparativa de 7 listas de la compra digitales'
+description: 'Siete aplicaciones, una solución para tus compras. ¿Cuál se adapta mejor a tus rutinas y preferencias? Descubre las funcionalidades más útiles, ahorra tiempo y dinero, y organiza tu alimentación de forma sencilla. Encuentra tu app ideal para hacer que comprar sea rápido y sin complicaciones.'
 date: 2024-02-05
 lastmod: '2024-02-05'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/es/lista-compras'
 aliases:
     - /es/einkaufsliste
 seo:
-    title:
-    description:
+    title: 'Lista de compras digital: 7 apps comparadas'
+    description: 'Descubre la mejor app para tu lista de compras y reduce el estrés la próxima vez que vayas al supermercado. Compara funciones y opciones.'
 categories:
     - 'best-practice'
 tags:

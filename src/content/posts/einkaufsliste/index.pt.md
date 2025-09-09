@@ -1,5 +1,6 @@
 ---
 title: 'Lista de compras e aplicação: 7 listas de compras digitais em comparação'
+description: 'Sete aplicativos, um propósito: tornar o ato de fazer compras mais simples e eficiente. Veja como listas digitais ajudam a economizar tempo e dinheiro, organizar receitas e controlar gastos. Compare funções e descubra qual app se adapta ao seu estilo para facilitar sua rotina no supermercado.'
 date: 2024-02-05
 lastmod: '2024-02-05'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/pt/lista-compras'
 aliases:
     - /pt/einkaufsliste
 seo:
-    title:
-    description:
+    title: 'Lista de compras digital: comparativo de 7 apps'
+    description: 'Descubra a melhor app para criar sua lista de compras, reduzir o estresse e tornar seu dia a dia mais organizado.'
 categories:
     - 'best-practice'
 tags:
