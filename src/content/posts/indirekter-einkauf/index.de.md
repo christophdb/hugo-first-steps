@@ -12,7 +12,7 @@ seo:
     title: ''
     description: ''
 ---
-
+<!-- Der Beschreibungstext und der erste Abschnitt sind der selbe Text -->
 Software-Lizenzen, Wartungsverträge oder Bürobedarf: Diese Ausgaben tragen nicht unmittelbar zu den Produkten oder Dienstleistungen eines Unternehmens bei. Sie sind jedoch für den reibungslosen Ablauf des Geschäftsbetriebs unerlässlich und bergen ein enormes Optimierungspotential. Denn die **indirekte Beschaffung** kann ohne eine sorgfältige Verwaltung erhebliche Kosten verursachen und so den Unternehmensgewinn beeinträchtigen. Lesen Sie, was indirekter Einkauf genau ist, und worauf Sie dabei achten sollten.  
 
 ## Was bedeuten direkter und indirekter Einkauf?
