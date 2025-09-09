@@ -6,8 +6,8 @@ url: '/es/plantilla/bug-tracker'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Bug Tracker: gestión y resolución de errores'
+    description: 'Controla los bugs de tu software y mejora la productividad del equipo con este sistema intuitivo de seguimiento de errores.'
 template: '51d678ca8b004e9b9b79'
 ---
 

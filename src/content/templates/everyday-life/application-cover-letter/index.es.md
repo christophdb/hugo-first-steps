@@ -6,8 +6,8 @@ url: '/es/plantilla/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Solicitudes y cartas de presentación: fácil gestión'
+    description: 'Lleva el control de tus solicitudes, documentos y plazos de forma eficiente con el planificador de SeaTable.'
 template: '2671e798b8924aeb8957'
 ---
 

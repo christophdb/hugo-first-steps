@@ -6,8 +6,8 @@ url: '/template/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Applications & Cover Letters: Stay Organized'
+    description: 'Keep track of all applications, cover letters and deadlines easily with SeaTable’s job search planner.'
 template: '2671e798b8924aeb8957'
 ---
 

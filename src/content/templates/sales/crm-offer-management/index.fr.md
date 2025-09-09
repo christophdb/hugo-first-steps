@@ -6,8 +6,8 @@ url: '/fr/modele/crm-offer-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM : gestion client centralisée'
+    description: 'Gérez centralement clients, offres et ventes efficacement avec SeaTable CRM.'
 template: 'e88ee7aedd00470e9310'
 ---
 

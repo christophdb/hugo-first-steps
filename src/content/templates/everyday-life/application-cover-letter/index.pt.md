@@ -6,8 +6,8 @@ url: '/pt/modelo/application-cover-letter'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Candidaturas & cartas: tudo organizado'
+    description: 'Mantenha organizada sua procura de emprego: cartas, documentos e prazos em um só lugar com SeaTable.'
 template: '2671e798b8924aeb8957'
 ---
 

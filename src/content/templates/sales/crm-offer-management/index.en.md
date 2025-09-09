@@ -6,8 +6,8 @@ url: '/template/crm-offer-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM: Manage Customers Efficiently'
+    description: 'Optimize your CRM by managing customers, deals and sales cycles easily and centrally with SeaTable.'
 template: 'e88ee7aedd00470e9310'
 ---
 

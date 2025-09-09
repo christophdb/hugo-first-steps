@@ -6,8 +6,8 @@ url: '/pt/modelo/crm-offer-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM: Gerencie clientes com eficiência'
+    description: 'Otimize seu CRM gerenciando clientes, propostas e vendas em uma única plataforma SeaTable.'
 template: 'e88ee7aedd00470e9310'
 ---
 

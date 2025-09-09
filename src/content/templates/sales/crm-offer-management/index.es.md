@@ -6,8 +6,8 @@ url: '/es/plantilla/crm-offer-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM: Gestión de clientes sencilla'
+    description: 'Optimiza tu CRM gestionando clientes, ofertas y ventas de forma central y eficaz con SeaTable.'
 template: 'e88ee7aedd00470e9310'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM: Эффективное управление клиентами'
+    description: 'Эффективно управляйте клиентами, продажами и предложениями в SeaTable.'
 template: 'e88ee7aedd00470e9310'
 ---
 
