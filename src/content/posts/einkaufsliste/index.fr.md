@@ -1,5 +1,6 @@
 ---
-title: 'Liste de courses & app : Comparaison de 7 listes de courses numériques'
+title: "Liste de courses & app : Comparaison de 7 listes de courses numériques"
+description: "Quelles applis facilitent vraiment vos courses ? Découvrez sept alternatives digitales qui transforment l’organisation de vos achats, de la gestion des recettes à la réduction du gaspillage. Comparez les fonctionnalités et optez pour l’outil qui vous correspond pour plus de sérénité au supermarché."
 date: 2024-02-05
 lastmod: '2024-02-05'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/fr/liste-courses'
 aliases:
     - /fr/einkaufsliste
 seo:
-    title:
-    description:
+    title: "Liste de courses & apps : 7 solutions digitales comparées"
+    description: "Trouvez l’application de liste de courses digitale qui vous simplifie les achats et minimise le stress au quotidien."
 categories:
     - 'best-practice'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Shopping list & app: 7 digital shopping lists in comparison'
+description: 'Seven apps, one mission: making shopping easier. Explore how digital shopping lists save time, reduce food waste, and help you organize recipes, expenses, and more. Compare smart features and discover which app truly fits your busy lifestyle to make every grocery run a breeze.'
 date: 2024-02-05
 lastmod: '2024-02-05'
 coverImage: 'einkaufswagen-voller-produkte-in-einem-supermarkt.jpg'
@@ -8,8 +9,8 @@ url: '/shopping-list'
 aliases:
     - /einkaufsliste
 seo:
-    title:
-    description:
+    title: 'Shopping List Apps: 7 Digital Tools Compared'
+    description: 'Find the perfect shopping list app to minimize stress and streamline your next trip to the store—discover our favorite digital solutions.'
 categories:
     - 'best-practice'
 tags:
