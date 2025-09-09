@@ -1,13 +1,13 @@
 ---
 title: 'Bucket List erstellen: Ideen, Inspiration & kostenlose Vorlage'
-description: 'Unsere Träume und Sehnsüchte sind es, die uns antreiben und uns zu unvergesslichen Abenteuern inspirieren. Doch allzu oft werden unsere Träume aufgeschoben oder vernachlässigt, während wir uns dem Alltagstrott hingeben. Eine Bucket List kann Ihnen dabei helfen, Ihre Träume festzuhalten und Sie daran zu erinnern, sie zu verwirklichen.'
+description: 'Große Abenteuer beginnen mit einer Liste: Ob Fallschirmsprung, Kulturerlebnis oder soziales Engagement – eine Bucket List hält Ihre Träume fest und motiviert, sie Wirklichkeit werden zu lassen. Worauf kommt es an? Welche Ziele passen zu Ihnen? Finden Sie Inspiration und starten Sie Ihren Lebensplan!'
 date: 2024-02-19
 lastmod: '2024-02-19'
 author: 'nsc'
 url: '/de/bucket-list'
 seo:
     title: 'Bucket List erstellen: Ideen, Inspiration & kostenlose Vorlage'
-    description: 'Lesen Sie hier, wie Sie Ihre Bucket List erfolgreich umsetzen und lassen Sie sich inspirieren: von 63 Ideen und einer kostenlosen Vorlage!'
+    description: 'Lassen Sie sich inspirieren: 63 Ideen und eine gratis Vorlage helfen, Ihre persönliche Bucket List voller Träume zu gestalten.'
 categories:
     - 'best-practice'
 tags:
