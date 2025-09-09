@@ -31,6 +31,7 @@ benutzerdefinierte Anwendungen für verschiedene Abteilungen zu erstellen und gl
 
 ## SeaTable überzeugte durch Flexibilität und Leistungsfähigkeit
 Die Umstellung begann, als Ko Smidt, der an der Schule bereits mit der Implementierung von SeaTable für die Prüfungsabteilung begonnen hatte, den IT-Kollegen von seinen Erfahrungen mit der **No-Code-Plattform** berichtete. „SeaTable hat uns durch seine Flexibilität und seine schnellen Implementierungsmöglichkeiten beeindruckt.“, erzählte Matthias van Laar. Innerhalb weniger Tage konnte das IT-Team ein digitales Ticketingsystem aufbauen. Die **intuitive Benutzeroberfläche** und die Möglichkeit, schnell individuelle Lösungen ohne aufwendige Entwicklung zu erstellen, waren weitere wesentliche Faktoren für die Entscheidung, SeaTable einzuführen
+<!-- Satzzeichen fehlt -->
 
 Die **Implementierung verlief bemerkenswert reibungslos**. Die Mitarbeiter des IT-Service Desk und die  Systemadministratoren arbeiteten zusammen, um individuelle Schnittstellen zu schaffen, die auf die technischen Fähigkeiten der verschiedenen Benutzergruppen zugeschnitten waren. Denn dank der benutzerfreundlichen Oberfläche und **leistungsstarken Automatisierungsfunktionen** kommen auch nicht-technische Mitarbeiter mühelos mit dem Tool zurecht. Die Möglichkeit, Lösungen iterativ zu entwickeln und einzusetzen, ermöglichte eine kontinuierliche Prozessoptimierung, ohne den täglichen Betrieb zu stören.
 
