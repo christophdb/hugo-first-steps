@@ -1,7 +1,8 @@
 ---
 title: 'Indirekter Einkauf: So optimieren Sie Ihre Prozesse und senken Kosten'
-description: 'Software-Lizenzen, Wartungsverträge oder Bürobedarf: Diese Ausgaben tragen nicht unmittelbar zu den Produkten oder Dienstleistungen eines Unternehmens bei. Sie sind jedoch für den reibungslosen Ablauf des Geschäftsbetriebs unerlässlich und bergen ein enormes Optimierungspotential. Denn die indirekte Beschaffung kann ohne eine sorgfältige Verwaltung erhebliche Kosten verursachen und so den Unternehmensgewinn beeinträchtigen. Lesen Sie, was indirekter Einkauf genau ist, und worauf Sie dabei achten sollten.'
+description: 'Software-Lizenzen, Wartungsverträge oder Bürobedarf: Diese Ausgaben tragen nicht unmittelbar zu den Produkten oder Dienstleistungen eines Unternehmens bei. Sie sind jedoch für den reibungslosen Ablauf des Geschäftsbetriebs unerlässlich und bergen ein enormes Optimierungspotential. Denn die indirekte Beschaffung kann erhebliche Kosten verursachen. Lesen Sie in diesem Artikel, was indirekter Einkauf ist, und worauf Sie dabei achten sollten.'
 date: 2021-11-19
+lastmod: 2025-09-10
 categories:
     - 'best-practice'
 tags:
@@ -9,11 +10,9 @@ tags:
 url: '/de/indirekter-einkauf'
 color: '#f3919b'
 seo:
-    title: ''
-    description: ''
+    title: 'Indirekter Einkauf: Prozesse optimieren, Kosten senken'
+    description: 'Der indirekte Einkauf läuft in vielen Unternehmen nebenher. Und birgt dadurch enormes Optimierungspotential. Erfahren Sie, worauf es ankommt und wie Sie es besser machen können.'
 ---
-<!-- Der Beschreibungstext und der erste Abschnitt sind der selbe Text -->
-Software-Lizenzen, Wartungsverträge oder Bürobedarf: Diese Ausgaben tragen nicht unmittelbar zu den Produkten oder Dienstleistungen eines Unternehmens bei. Sie sind jedoch für den reibungslosen Ablauf des Geschäftsbetriebs unerlässlich und bergen ein enormes Optimierungspotential. Denn die **indirekte Beschaffung** kann ohne eine sorgfältige Verwaltung erhebliche Kosten verursachen und so den Unternehmensgewinn beeinträchtigen. Lesen Sie, was indirekter Einkauf genau ist, und worauf Sie dabei achten sollten.  
 
 ## Was bedeuten direkter und indirekter Einkauf?
 
@@ -26,6 +25,8 @@ In diesem Bereich geht es um den strategischen Einkauf von Produkten, die unmitt
 Der direkte Einkauf zeichnet sich durch stark formalisierte Abläufe, ein **strategisches Lieferanten- und Qualitätsmanagement** und langfristige Verträge aus. Die Beschaffungsvolumen sind üblicherweise größer als im indirekten Einkauf und die Qualitätsanforderungen besonders hoch. Zu den wesentlichen Aufgaben gehört auch die Kostenkontrolle. Denn die Beschaffungskosten wirken sich unmittelbar auf den Endpreis des eigenen Produkts aus.
 
 ### Was bedeutet indirekter Einkauf?
+
+![Welche Produkte umfasst indirekter Einkauf?](indirect_procurement.jpg)
 
 Der indirekte Einkauf umfasst Produkte und Dienstleistungen, die den reibungslosen Ablauf des Betriebs sicherstellen (**indirekte Materialien**). Dazu zählen z. B: Hard- und Software, Büromaterial, Versicherungen und Handwerkerdienste, aber auch Werbematerial oder externe Berater.
 
@@ -42,6 +43,8 @@ Einzelne Abteilungen arbeiten oft mit verschiedenen Systemen und Datenbanken, di
 ### Maverick Buying
 
 Wenn Mitarbeiter eigenständig indirekte Materialien außerhalb der formalen Beschaffungsprozesse ordern, spricht man von Maverick Buying. Dabei werden bewusst oder durch Unkenntnis Entscheidungsprozesse umgangen und häufig bei falschen Lieferanten oder zu höheren Preisen eingekauft. Die Folge sind versäumte Rabatte, reduzierte Verhandlungsmacht gegenüber Partnern, unkontrollierbare Kosten und **Compliance-Risiken**. Maverick Buying tritt in vielen Betrieben systematisch auf und macht teilweise **40 Prozent des gesamten indirekten Einkaufs** aus.  
+
+![Vielfältige Herausforderungen im indirekten Einkauf](indirekter_einkauf_herausforderungen.jpg)
 
 ### Komplexe Einkaufsprozesse
 
@@ -68,6 +71,8 @@ Wie wir sehen, sind die Herausforderungen im indirekten Einkauf vielfältig. Der
 - Ein **Self-Service-Portal mit vorkonfigurierten Produktansichten** und einer Auswahl verfügbarer Lieferanten reduziert Maverick Buying und ermöglicht Ihren Mitarbeitern einen schnellen Zugang zu relevanten Informationen.
 
 - Ein **effektives Kostencontrolling** deckt Einsparpotentiale auf und ermöglicht auch beim Einkauf indirekter Materialien ein strategisches Lieferantenmanagement.
+
+![Kostencontrolling ist auch im indirekten Einkauf entscheidend.](indirekter_einkauf_kostenkontrolle.jpg)
 
 ## Welche Kennzahlen zur Steuerung des indirekten Einkaufs gibt es?
 
@@ -96,6 +101,8 @@ Bevor Sie loslegen und anfangen, ein **Kosten- und Prozesscontrolling** für Ihr
 Die traditionell fragmentierte indirekte Beschaffung kann durch **moderne Cloud-Technologien** wie die **No-Code-Plattform SeaTable** deutlich optimiert werden. Digitale Lösungen bieten vielfältige Möglichkeiten, um Datensilos zu sprengen, Transparenz herzustellen und Prozesse zu optimieren. Durch die zentrale Zusammenführung aller relevanten Daten und die Kollaboration in Echtzeit gewinnen Sie ein vollständiges Bild Ihrer Lieferanten, Verträge, Budgets und Ausgaben.
 
 Mit der kostenlosen [digitalen Vorlage]({{< relref "templates/operations/indirect-procurement/" >}}) von SeaTable erstellen Sie schnell ein auf Ihre Anforderungen zugeschnittenes Beschaffungssystem, mit dem Sie Ihre Prozesse vereinfachen und Ihre Aufwände reduzieren. Durch die integrierten Formulare und die Gallerie-Ansicht erstellen Sie in wenigen Klicks einen **Produktkatalog mit Lieferantenauswahl und Bestellformular.** So können Fachabteilungen unkompliziert Bedarfe melden und Orders platzieren. Integrierte Benachrichtigungen und **automatisierte Workflows** sorgen für einen effizienten, schnellen Freigabeprozess.
+
+{{< template-box id="d0e2ed7353734084ba94" submit="Template testen" text="Scrollen Sie durch unser interaktives Template und entdecken Sie erste Funktionen." >}}
 
 Integrierte Statistik-Module und Reporting-Dashboards liefern Ihnen in Echtzeit fundierte Einblicke in Ausgabentrends und Lieferantenperformance. Außerdem speichern Sie problemlos verschiedene Dateien und Dokumente direkt an einem zentralen Ort, ganz egal, ob es sich um Bilder, Verträge, Präsentationen oder andere Dateien handelt. Nahtlose Integrationen mit bestehenden ERP-Systemen über APIs gewährleisten einen durchgängigen Datenfluss und machen die SeaTable damit zur zentralen Schnittstelle Ihres digitalen indirekten Einkaufs.
 
