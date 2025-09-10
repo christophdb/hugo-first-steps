@@ -2,12 +2,14 @@
 title: "Entretiens d'embauche"
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/recruitment-interviews'
+url: '/fr/modele/entretiens-embauche'
+aliases:
+    - '/fr/modele/recruitment-interviews/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Entretiens d’embauche : gestion structurée'
+    description: 'Structurez vos entretiens, évaluations et suivis candidats pour des décisions RH plus rapides.'
 template: '66531bee1fad490b940d'
 ---
 

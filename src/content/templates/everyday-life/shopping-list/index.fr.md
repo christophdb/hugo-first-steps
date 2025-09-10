@@ -2,12 +2,14 @@
 title: "Liste d'achats"
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/shopping-list'
+url: '/fr/modele/liste-achats'
+aliases:
+    - '/fr/modele/shopping-list/'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Liste d’achats : pratique & connectée'
+    description: 'Créez, partagez et gérez vos listes de courses en ligne pour ne rien oublier, seul ou en famille.'
 template: '913bf21e3f934d57b402'
 ---
 

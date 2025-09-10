@@ -2,12 +2,14 @@
 title: 'Entrevistas de trabajo'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/recruitment-interviews'
+url: '/es/plantilla/entrevistas-seleccion'
+aliases:
+    - '/es/plantilla/recruitment-interviews/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Entrevistas de selección: organización efectiva'
+    description: 'Organiza entrevistas y valoraciones de candidatos de forma ágil y centralizada con esta plantilla.'
 template: '66531bee1fad490b940d'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Lanzamiento de productos'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/product-launch'
+url: '/es/plantilla/lanzamiento-producto'
+aliases:
+    - '/es/plantilla/product-launch/'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Lanzamiento de producto: planificación fácil'
+    description: 'Domina tu lanzamiento de producto: utiliza esta plantilla para planificar tareas, fechas y marketing centralizados.'
 template: '61e4639f122f45a2bcba'
 ---
 

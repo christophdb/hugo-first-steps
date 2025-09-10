@@ -2,12 +2,14 @@
 title: "Plan d'équipes"
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/shift-schedule'
+url: '/fr/modele/planning-travail'
+aliases:
+    - '/fr/modele/shift-schedule/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planning de travail : gestion collaborative'
+    description: 'Planifiez les horaires et répartissez vos équipes sans stress grâce au planning digital de SeaTable.'
 template: '6f0bcf51bc7a47329e14'
 ---
 

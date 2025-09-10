@@ -8,8 +8,8 @@ aliases:
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Эффективный запуск продукта: шаблон SeaTable'
+    description: 'Организуйте запуск продукта легко: отслеживайте задачи, сроки и маркетинг в едином шаблоне.'
 template: '61e4639f122f45a2bcba'
 ---
 

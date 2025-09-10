@@ -8,8 +8,8 @@ aliases:
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Интервью при приёме на работу: полный контроль'
+    description: 'Эффективная организация собеседований, учёт оценок и заметок о кандидатах в одном месте.'
 template: '66531bee1fad490b940d'
 ---
 

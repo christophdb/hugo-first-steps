@@ -2,12 +2,14 @@
 title: 'Plan de turnos'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/shift-schedule'
+url: '/es/plantilla/horario-turnos'
+aliases:
+    - '/es/plantilla/shift-schedule/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Horario de turnos: planificación digital'
+    description: 'Organiza turnos, gestiona plantillas y comparte horarios online de forma sencilla con SeaTable.'
 template: '6f0bcf51bc7a47329e14'
 ---
 

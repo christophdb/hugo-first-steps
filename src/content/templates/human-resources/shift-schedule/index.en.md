@@ -6,8 +6,8 @@ url: '/template/shift-schedule'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Shift Schedule: Smart Team Planning Online'
+    description: 'Plan shifts, track staff coverage and share rosters online—easy and efficient shift scheduling with SeaTable.'
 template: '6f0bcf51bc7a47329e14'
 ---
 

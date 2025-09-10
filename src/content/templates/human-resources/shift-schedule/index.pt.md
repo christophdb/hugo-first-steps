@@ -2,12 +2,14 @@
 title: 'Plano de turnos'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/shift-schedule'
+url: '/pt/modelo/escala-turnos'
+aliases:
+    - '/pt/modelo/shift-schedule/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Escala de turnos: modelo digital flexível'
+    description: 'Organize e compartilhe escalas, soluções práticas para equipes e empresas com o modelo SeaTable.'
 template: '6f0bcf51bc7a47329e14'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Lancement du produit'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/product-launch'
+url: '/fr/modele/lancement-produit'
+aliases:
+    - '/fr/modele/product-launch/'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Lancer un produit : organisation optimale'
+    description: 'Réussissez le lancement de votre produit en centralisant étapes, responsables et marketing dans un template intuitif.'
 template: '61e4639f122f45a2bcba'
 ---
 
