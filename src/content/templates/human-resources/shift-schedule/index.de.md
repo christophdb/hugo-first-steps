@@ -2,12 +2,14 @@
 title: 'Schichtplan'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/shift-schedule'
+url: '/de/vorlage/schichtplan'
+aliases:
+    - '/de/vorlage/shift-schedule/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Schichtplan: Dienstplanung digital & flexibel'
+    description: 'Dienst- und Schichtpläne für Ihr Team einfach online verwalten, teilen und optimieren – mit SeaTable.'
 template: '6f0bcf51bc7a47329e14'
 ---
 

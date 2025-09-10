@@ -8,8 +8,8 @@ aliases:
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'График смен: удобное планирование онлайн'
+    description: 'Управляйте сменами и составом команды онлайн – гибкая и простая служебная ведомость в SeaTable.'
 template: '6f0bcf51bc7a47329e14'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Список покупок: удобно и онлайн'
+    description: 'Создайте и ведите свой список покупок онлайн — делитесь, сортируйте и обновляйте для быстрой организации походов в магазин.'
 template: '913bf21e3f934d57b402'
 ---
 

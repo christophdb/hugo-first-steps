@@ -2,12 +2,14 @@
 title: 'Lançamento do produto'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/product-launch'
+url: '/pt/modelo/lancamento-produto'
+aliases:
+    - '/pt/modelo/product-launch/'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Lançamento de produto: template eficiente'
+    description: 'Planeje o lançamento com eficiência: template para organizar funcionalidades, cronogramas e ações de marketing.'
 template: '61e4639f122f45a2bcba'
 ---
 

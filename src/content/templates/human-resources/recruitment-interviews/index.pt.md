@@ -2,12 +2,14 @@
 title: 'Entrevistas de emprego'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/recruitment-interviews'
+url: '/pt/modelo/entrevistas-emprego'
+aliases:
+    - '/pt/modelo/recruitment-interviews/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Entrevistas de emprego: processo organizado'
+    description: 'Estruture entrevistas e avaliações de candidatos de maneira simples, colaborativa e eficiente.'
 template: '66531bee1fad490b940d'
 ---
 

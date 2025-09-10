@@ -2,12 +2,14 @@
 title: 'Lista de la compra'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/shopping-list'
+url: '/es/plantilla/lista-compras'
+aliases:
+    - '/es/plantilla/shopping-list/'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Lista de compras: gestión digital'
+    description: 'Organiza, comparte y actualiza tu lista de compras de manera online para hacer tus compras más ágiles.'
 template: '913bf21e3f934d57b402'
 ---
 

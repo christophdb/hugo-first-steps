@@ -6,8 +6,8 @@ url: '/template/product-launch'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plan a Product Launch Efficiently'
+    description: 'Master your product launch: use this template to organize features, tasks and marketing activities in one place.'
 template: '61e4639f122f45a2bcba'
 ---
 

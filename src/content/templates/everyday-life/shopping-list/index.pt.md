@@ -2,12 +2,14 @@
 title: 'Lista de compras'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/shopping-list'
+url: '/pt/modelo/lista-compras'
+aliases:
+    - '/pt/modelo/shopping-list/'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Lista de compras: planeje online'
+    description: 'Gerencie e compartilhe sua lista de compras online, organize por categoria, receita ou loja facilmente.'
 template: '913bf21e3f934d57b402'
 ---
 

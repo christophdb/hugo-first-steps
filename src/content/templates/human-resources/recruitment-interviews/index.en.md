@@ -6,8 +6,8 @@ url: '/template/recruitment-interviews'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Recruitment Interviews: Structured & Simple'
+    description: 'Organize recruitment interviews, notes and candidate ratings easily—evaluate and track every candidate step by step.'
 template: '66531bee1fad490b940d'
 ---
 

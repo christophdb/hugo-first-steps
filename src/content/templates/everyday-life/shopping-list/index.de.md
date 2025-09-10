@@ -2,12 +2,14 @@
 title: 'Einkaufsliste'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/shopping-list'
+url: '/de/vorlage/einkaufsliste'
+aliases:
+    - '/de/vorlage/shopping-list/'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Einkaufsliste: Einkäufe digital planen'
+    description: 'Erstellen, teilen und verwalten Sie Ihre Einkaufsliste digital — jederzeit griffbereit für alle im Haushalt.'
 template: '913bf21e3f934d57b402'
 ---
 

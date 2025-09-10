@@ -6,8 +6,8 @@ url: '/template/shopping-list'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Shopping List: Organize & Shop Smarter'
+    description: 'Create and manage your shopping list digitally—share, sort and update for every shopping trip easily.'
 template: '913bf21e3f934d57b402'
 ---
 

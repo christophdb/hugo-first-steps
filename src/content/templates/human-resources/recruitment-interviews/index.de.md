@@ -2,12 +2,14 @@
 title: 'Einstellungsgespräche'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/recruitment-interviews'
+url: '/de/vorlage/einstellungsgespraeche'
+aliases:
+    - '/de/vorlage/recruitment-interviews/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Einstellungsgespräche optimal organisieren'
+    description: 'Vorstellungsgespräche effizient strukturieren, bewerten und auswerten – mit SeaTable als Interview-Tool.'
 template: '66531bee1fad490b940d'
 ---
 
