@@ -2,12 +2,14 @@
 title: 'Conciergerie'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/janitorial-services'
+url: '/fr/modele/services-conciergerie'
+aliases:
+    - '/fr/modele/janitorial-services/'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Services de conciergerie : gestion digitale'
+    description: 'Centralisez gestion des réparations et tâches conciergerie pour vos bâtiments avec SeaTable, sans papier ni confusion.'
 template: '6de3e32edb154de08eed'
 ---
 

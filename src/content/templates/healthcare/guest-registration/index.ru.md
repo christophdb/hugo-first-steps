@@ -8,8 +8,8 @@ aliases:
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Цифровая регистрация гостей: быстро и удобно'
+    description: 'Безопасный и быстрый учёт гостей с помощью QR-кода — все данные защищены и удаляются вовремя.'
 template: '25c5b08db4184d6dbc3e'
 ---
 

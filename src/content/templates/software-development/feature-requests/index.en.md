@@ -6,8 +6,8 @@ url: '/template/feature-requests'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Manage Feature Requests Centrally & Effectively'
+    description: 'Collect, prioritize and track user feedback with a flexible feature request template in SeaTable.'
 template: 'dc2f9f8565dc427c986b'
 ---
 

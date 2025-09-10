@@ -2,12 +2,14 @@
 title: 'Servicios de limpieza'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/janitorial-services'
+url: '/es/plantilla/servicios-mantenimiento'
+aliases:
+    - '/es/plantilla/janitorial-services/'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Servicios de mantenimiento digitalizados'
+    description: 'Organiza y gestiona avisos de reparaciones y tareas del personal en una sola plataforma fácil y eficiente.'
 template: '6de3e32edb154de08eed'
 ---
 

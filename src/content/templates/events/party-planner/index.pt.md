@@ -2,12 +2,14 @@
 title: 'Planeador de festas'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/party-planner'
+url: '/pt/modelo/planejador-festas'
+aliases:
+    - '/pt/modelo/party-planner/'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planejador de festas digital fácil e completo'
+    description: 'Planeje festas com eficiência: convites, listas, orçamentos e confirmações, tudo centralizado online.'
 template: 'c7b0c4bf967442cba68a'
 ---
 

@@ -6,8 +6,8 @@ url: '/template/guest-registration'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Guest Registration: Digital & Contactless'
+    description: 'Collect guest data securely and easily—contactless check-in for hospitality and events with full data protection.'
 template: '25c5b08db4184d6dbc3e'
 ---
 

@@ -6,8 +6,8 @@ url: '/template/party-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Party Planner: Your Digital Event Organizer'
+    description: 'Simplify your party planning: manage guest lists, checklists, budgets, and RSVPs for any event—stress-free!'
 template: 'c7b0c4bf967442cba68a'
 ---
 
