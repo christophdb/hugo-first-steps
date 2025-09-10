@@ -2,12 +2,14 @@
 title: 'Filialverwaltung'
 description: ''
 date: '2024-08-16'
-url: '/de/vorlage/store-management'
+url: '/de/vorlage/filialverwaltung'
+aliases:
+    - '/de/vorlage/store-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Filialverwaltung: Store Management Vorlage'
+    description: 'Verwalten Sie Filialen, Team, POS-Material und Umsätze zentral – intelligente Steuerung für Einzelhandel und Ketten.'
 template: 'c090ef310bd54007ab0a'
 ---
 

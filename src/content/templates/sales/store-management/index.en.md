@@ -6,8 +6,8 @@ url: '/template/store-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Store Management Template: Multilocation Control'
+    description: 'Manage store locations, teams, POS and sales data on one platform—making multisite retail easy and transparent.'
 template: 'c090ef310bd54007ab0a'
 ---
 

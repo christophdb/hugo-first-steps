@@ -2,12 +2,14 @@
 title: 'Gestión de sucursales'
 description: ''
 date: '2024-08-16'
-url: '/es/plantilla/store-management'
+url: '/es/plantilla/gestion-sucursales'
+aliases:
+    - '/es/plantilla/store-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestión de sucursales: plantilla integral'
+    description: 'Administra sucursales, ventas, personal y materiales fácilmente desde una sola base digital.'
 template: 'c090ef310bd54007ab0a'
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: 'Switching to the SeaTable API gateway: What changes with version 5.3'
-description: ''
+description: 'Version 5.3 introduces the API Gateway: legacy endpoints are deprecated, team- and subscription-based limits are enforced, and transparency is increased. Find out how this impacts your workflow and what steps you need for a seamless transition.'
+seo:
+    title: 'SeaTable 5.3: All API Calls via Gateway'
+    description: 'Starting with SeaTable 5.3, all API access routes through the new gateway. Learn what changes and how to migrate your integration.'
 url: /api-gateway-version-5-3
 date: 2025-06-02
 color: '#c5e8bc'

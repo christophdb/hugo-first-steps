@@ -1,6 +1,9 @@
 ---
 title: 'Umstellung auf das SeaTable API-Gateway: Was sich mit Version 5.3 ändert'
-description: ''
+description: 'Die neue Version 5.3 bringt ein API-Gateway als zentralen Einstieg, entfernt alte Endpunkte und setzt teamweite Limits. Entwickler müssen Integrationen anpassen, profitieren aber von besserer Transparenz, Performance und Sicherheit. Hier finden Sie alle Details!'
+seo:
+    title: 'SeaTable 5.3: Neues API-Gateway – Das ändert sich'
+    description: 'Ab SeaTable 5.3 ist die API nur noch über das zentrale Gateway erreichbar. Erfahren Sie, welche Umstellungen für Entwickler, Limits und Vorteile zu beachten sind.'
 url: /de/api-gateway-version-5-3
 date: 2025-06-02
 color: '#c5e8bc'

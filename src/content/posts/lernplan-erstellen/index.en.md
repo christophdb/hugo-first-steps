@@ -1,15 +1,17 @@
 ---
 title: 'Create a learning plan - 7 steps to the top grade'
+description: 'Avoid cramming and overwhelm! Our step-by-step guide shows you how to break goals down, organize deadlines, track your progress and learn smarter. Templates and proven methods help you ace school or uni with less stress.'
 date: 2024-05-02
 lastmod: '2024-05-02'
 coverImage: 'pexels-prateekkatyal-2740956.jpg'
 author: 'nsc'
-url: '/create-learning-plan'
+url: '/create-study-plan'
 aliases:
-    - /lernplan-erstellen
+    - '/lernplan-erstellen'
+    - '/create-learning-plan'
 seo:
-    title:
-    description:
+    title: 'Study Plan: Step-by-Step Guide to Top Grades'
+    description: 'Create your own study plan in 7 easy steps—perfect for exams, graduation, or university tests, with free template & tips.'
 categories:
     - 'best-practice'
 tags:

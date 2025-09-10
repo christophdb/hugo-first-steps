@@ -1,6 +1,9 @@
 ---
 title: 'Passage à la passerelle API SeaTable : ce qui change avec la version 5.3'
-description: ''
+description: 'La passerelle API uniformise l’accès et remplace les anciens points d’entrée : migration requise pour les développeurs, limites par équipe, transparence sur l’usage – SeaTable assure stabilité et évolutivité pour tous les projets connectés.'
+seo:
+    title: 'SeaTable 5.3 : nouveau gateway API centralisé'
+    description: 'Dès la version 5.3, toutes les requêtes API passent par la nouvelle passerelle. Découvrez son fonctionnement et les nouveaux quotas d’équipe.'
 url: /fr/api-gateway-version-5-3
 date: 2025-06-02
 color: '#c5e8bc'

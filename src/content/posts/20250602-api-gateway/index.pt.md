@@ -1,6 +1,9 @@
 ---
 title: 'Mudar para o gateway da API SeaTable: O que muda com a versão 5.3'
-description: ''
+description: 'O novo gateway API centraliza o controle, remove endpoints antigos e traz limites mais claros por equipe – ajuste suas integrações e aproveite mais transparência, desempenho e escalabilidade para conectar seus dados SeaTable.'
+seo:
+    title: 'SeaTable 5.3: Novo API Gateway, o que muda?'
+    description: 'A partir da versão 5.3, todas as requisições passam pelo gateway unificado. Veja o que muda para integrações e limites de uso.'
 url: '/pt/api-gateway-version-5-3'
 date: 2025-06-02
 color: '#c5e8bc'
