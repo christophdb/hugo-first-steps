@@ -2,12 +2,14 @@
 title: 'CRM: Debitorenbuchhaltung'
 description: ''
 date: '2024-08-16'
-url: '/de/vorlage/crm-accounts-receivable'
+url: '/de/vorlage/crm-debitorenbuchhaltung'
+aliases:
+    - '/de/vorlage/crm-accounts-receivable'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM Debitorenbuchhaltung: Rechnungen und Forderungen im Griff'
+    description: 'Organisieren Sie Ihre Debitorenbuchhaltung mit SeaTable – Rechnungen, Zahlungen, Mahnwesen und Auswertungen zentral verwalten.'
 template: '9abcb338414a450b8f66'
 ---
 

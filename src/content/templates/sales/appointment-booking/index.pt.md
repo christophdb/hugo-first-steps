@@ -2,15 +2,16 @@
 title: 'Marcação de compromissos'
 description: ''
 date: '2024-08-16'
-url: '/pt/modelo/marcacao_de_consultas'
+url: '/pt/modelo/agendamento-online'
 aliases: 
     - '/pt/terminbuchung'
     - '/pt/modelo/appointment-booking'
+    - '/pt/modelo/marcacao_de_consultas'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Agendamentos online: modelo prático gratuito'
+    description: 'Organize e automatize agendamentos, reuniões e reservas facilmente com esta solução SeaTable.'
 template: '32d6342b2b43442ca4a4'
 ---
 

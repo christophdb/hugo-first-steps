@@ -6,8 +6,8 @@ url: '/template/workshop-planner'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Workshop Planner: Organize & Manage Easily'
+    description: 'Plan, schedule and review all workshops in one digital tool: participants, agenda, feedback and more.'
 template: '3d757663bb3648439b9d'
 ---
 

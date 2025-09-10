@@ -2,12 +2,14 @@
 title: 'Talleres'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/workshop-planner'
+url: '/es/plantilla/planificador-talleres'
+aliases:
+    - '/es/plantilla/workshop-planner/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planificador de talleres: gestión integral'
+    description: 'Organiza talleres y formaciones desde invitaciones hasta evaluaciones, todo centralizado en SeaTable.'
 template: '3d757663bb3648439b9d'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Workshop Planner'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/workshop-planner'
+url: '/de/vorlage/workshop-planer'
+aliases:
+    - '/de/vorlage/workshop-planner/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Workshop-Planung: Vorlage für HR, Training & Teams'
+    description: 'Workshops effizient planen: Teilnehmer, Agenda und Feedback zentral organisieren – mit SeaTable.'
 template: '3d757663bb3648439b9d'
 ---
 

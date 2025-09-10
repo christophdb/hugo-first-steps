@@ -6,8 +6,8 @@ url: '/template/content-marketing-strategy'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Content Marketing Strategy Template'
+    description: 'Plan, track and optimize your content marketing with this professional, easy-to-use strategy template.'
 template: '791a438b055a4680908c'
 ---
 

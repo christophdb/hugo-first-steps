@@ -8,8 +8,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM дебиторская задолженность: полный контроль'
+    description: 'Ведите учет счетов, платежей и долгов клиентов централизованно — шаблон CRM SeaTable для бухгалтерии.'
 template: '9abcb338414a450b8f66'
 ---
 

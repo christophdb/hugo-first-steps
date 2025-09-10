@@ -2,12 +2,14 @@
 title: 'Estrategia de marketing de contenidos'
 description: ''
 date: '2024-08-16'
-url: '/es/plantilla/content-marketing-strategy'
+url: '/es/plantilla/estrategia-marketing-contenidos'
+aliases:
+    - '/es/plantilla/content-marketing-strategy'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Estrategia de marketing de contenidos: plantilla'
+    description: 'Planifica, controla y mejora tu estrategia de contenidos desde una sola plantilla profesional y flexible.'
 template: '791a438b055a4680908c'
 ---
 

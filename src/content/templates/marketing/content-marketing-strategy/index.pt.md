@@ -2,12 +2,14 @@
 title: 'Estratégia de marketing de conteúdo'
 description: ''
 date: '2024-08-16'
-url: '/pt/modelo/content-marketing-strategy'
+url: '/pt/modelo/estrategia-marketing-conteudo'
+aliases:
+    - '/pt/modelo/content-marketing-strategy'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Estratégia de marketing de conteúdo: template'
+    description: 'Planeje, acompanhe e otimize suas campanhas de conteúdo com um modelo simples e poderoso.'
 template: '791a438b055a4680908c'
 ---
 

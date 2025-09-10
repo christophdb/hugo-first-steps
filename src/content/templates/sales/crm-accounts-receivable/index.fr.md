@@ -2,12 +2,14 @@
 title: 'CRM : Comptabilité des débiteurs'
 description: ''
 date: '2024-08-16'
-url: '/fr/modele/crm-accounts-receivable'
+url: '/fr/modele/crm-comptes-clients'
+aliases:
+    - '/fr/modele/crm-accounts-receivable'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM comptes clients : gestion des factures et paiements'
+    description: 'Gérez créances, factures et paiements au sein d’un CRM centralisé et moderne avec SeaTable.'
 template: '9abcb338414a450b8f66'
 ---
 

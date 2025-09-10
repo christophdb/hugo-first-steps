@@ -6,8 +6,8 @@ url: '/template/crm-accounts-receivable'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM Accounts Receivable: Track Invoices & Payments'
+    description: 'Manage accounts receivable, invoices, payments and reminders from a single CRM template in SeaTable.'
 template: '9abcb338414a450b8f66'
 ---
 
