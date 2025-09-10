@@ -2,12 +2,14 @@
 title: 'Gestión de la sostenibilidad'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/sustainability-management'
+url: '/es/plantilla/gestion-sostenibilidad'
+aliases:
+    - '/es/plantilla/sustainability-management/'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestión de sostenibilidad: guía práctica'
+    description: 'Gestiona objetivos y acciones de sostenibilidad, responsabilidad social y cumplimiento ESG de forma centralizada.'
 template: 'a7bbe6280aad4c409a93'
 ---
 

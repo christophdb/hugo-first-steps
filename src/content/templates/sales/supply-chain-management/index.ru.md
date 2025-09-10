@@ -8,8 +8,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Управление цепочкой поставок: онлайн-решение'
+    description: 'Централизованный контроль и цифровая автоматизация всего процесса SCM для вашего бизнеса.'
 template: 'd58845a24cda4807847e'
 ---
 

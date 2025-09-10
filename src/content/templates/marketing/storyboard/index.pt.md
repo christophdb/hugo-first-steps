@@ -2,12 +2,14 @@
 title: 'Storyboard'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/storyboard'
+url: '/pt/modelo/roteiro-visual'
+aliases:
+    - '/pt/modelo/storyboard/'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Storyboard digital : plane seus vídeos'
+    description: 'Crie storyboards de forma digital: roteirize cenas, papéis e recursos visuais de cada produção facilmente.'
 template: 'ecbab98c02fa45aa903b'
 ---
 

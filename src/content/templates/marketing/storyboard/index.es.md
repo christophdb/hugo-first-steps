@@ -2,12 +2,14 @@
 title: 'Guión gráfico'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/storyboard'
+url: '/es/plantilla/guion-grafico'
+aliases:
+    - '/es/plantilla/storyboard/'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Storyboard digital: organiza tu producción'
+    description: 'Crea un storyboard online: define escenas, actores y acciones para tus videos o campañas de forma clara.'
 template: 'ecbab98c02fa45aa903b'
 ---
 

@@ -6,8 +6,8 @@ url: '/template/supply-chain-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Supply Chain Management: Plan & Track'
+    description: 'Effectively manage, analyze, and optimize your supply chain with this digital template and real-time tracking.'
 template: 'd58845a24cda4807847e'
 ---
 

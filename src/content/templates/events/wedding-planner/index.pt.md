@@ -2,12 +2,14 @@
 title: 'Organizador de casamentos'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/wedding-planner'
+url: '/pt/modelo/planejador-casamento'
+aliases:
+    - '/pt/modelo/wedding-planner/'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planejador de casamento: template online'
+    description: 'Organize todos os detalhes do seu casamento: convidados, lista de tarefas, orçamento e fornecedores – tudo centralizado.'
 template: 'de0ea6ddde484de99645'
 ---
 

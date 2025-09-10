@@ -2,12 +2,14 @@
 title: 'Gestão da sustentabilidade'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/sustainability-management'
+url: '/pt/modelo/gestao-sustentabilidade'
+aliases:
+    - '/pt/modelo/sustainability-management/'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestão de sustentabilidade: template completo'
+    description: 'Organize objetivos, ações ambientais e sociais no seu negócio com transparência e controle digital.'
 template: 'a7bbe6280aad4c409a93'
 ---
 

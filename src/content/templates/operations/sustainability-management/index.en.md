@@ -6,8 +6,8 @@ url: '/template/sustainability-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Sustainability Management Guide'
+    description: 'Plan, manage and document your company’s sustainability, CSR and ESG goals with this easy template.'
 template: 'a7bbe6280aad4c409a93'
 ---
 

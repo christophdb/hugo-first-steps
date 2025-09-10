@@ -2,12 +2,14 @@
 title: 'Lieferkettenmanagement'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/supply-chain-management'
+url: '/de/vorlage/lieferkettenmanagement'
+aliases:
+    - '/de/vorlage/supply-chain-management/'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Lieferkettenmanagement: SCM digital steuern'
+    description: 'Supply-Chain-Management einfach, übersichtlich und automatisiert mit SeaTable organisieren.'
 template: 'd58845a24cda4807847e'
 ---
 

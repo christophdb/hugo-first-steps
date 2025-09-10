@@ -8,8 +8,8 @@ aliases:
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Управление устойчивым развитием'
+    description: 'Контролируйте корпоративные цели по экологии, социальной ответственности и устойчивому развитию в одной системе.'
 template: 'a7bbe6280aad4c409a93'
 ---
 

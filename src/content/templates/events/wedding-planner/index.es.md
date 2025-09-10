@@ -2,12 +2,14 @@
 title: 'Planificador de bodas'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/wedding-planner'
+url: '/es/plantilla/planificador-bodas'
+aliases:
+    - '/es/plantilla/wedding-planner/'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planificador de bodas: Guía digital completa'
+    description: 'Plantilla para boda sin estrés: organiza invitados, tareas y presupuesto en un panel sencillo y colaborativo.'
 template: 'de0ea6ddde484de99645'
 ---
 
