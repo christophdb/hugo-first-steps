@@ -2,12 +2,14 @@
 title: 'Hausmeisterdienste'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/janitorial-services'
+url: '/de/vorlage/hausmeisterdienste'
+aliases:
+    - '/de/vorlage/janitorial-services/'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Hausmeisterdienste digital verwalten'
+    description: 'Reparaturmeldungen und Aufgaben im Objekt zentral planen, digital dokumentieren und verwalten – alles mit SeaTable.'
 template: '6de3e32edb154de08eed'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Registro de invitados'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/guest-registration'
+url: '/es/plantilla/registro-invitados'
+aliases:
+    - '/es/plantilla/guest-registration/'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Registro digital de invitados fácil y seguro'
+    description: 'Recoge datos de invitados digitalmente y sin papeles—registro ágil y seguro vía QR para hostelería y eventos.'
 template: '25c5b08db4184d6dbc3e'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Enregistrement des invités'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/guest-registration'
+url: '/fr/modele/enregistrement-invites'
+aliases:
+    - '/fr/modele/guest-registration/'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Enregistrement digital des invités'
+    description: 'Collectez facilement les données des clients via QR code pour une gestion rapide et conforme des entrées en restauration.'
 template: '25c5b08db4184d6dbc3e'
 ---
 

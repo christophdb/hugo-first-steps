@@ -8,8 +8,8 @@ aliases:
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Управление работами дворника онлайн'
+    description: 'Заявки на ремонт и задачи по объекту под контролем — цифровой учёт и уведомления с SeaTable.'
 template: '6de3e32edb154de08eed'
 ---
 

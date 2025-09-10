@@ -2,12 +2,14 @@
 title: 'Gästeregistrierung'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/guest-registration'
+url: '/de/vorlage/gaesteregistrierung'
+aliases:
+    - '/de/vorlage/guest-registration/'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gästeregistrierung digital & sicher'
+    description: 'Erfassen Sie Gästedaten digital nach DSGVO – kontaktlos, hygienisch und bequem für Restaurants und Cafés.'
 template: '25c5b08db4184d6dbc3e'
 ---
 

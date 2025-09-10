@@ -2,12 +2,14 @@
 title: 'Pedidos de recursos'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/feature-requests'
+url: '/pt/modelo/pedidos-funcionalidades'
+aliases:
+    - '/pt/modelo/feature-requests/'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Centralize e priorize pedidos de funcionalidades'
+    description: 'Gerencie pedidos e feedback de usuários de forma central e eficiente usando um modelo SeaTable.'
 template: 'dc2f9f8565dc427c986b'
 ---
 

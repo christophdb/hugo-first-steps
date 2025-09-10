@@ -8,8 +8,8 @@ aliases:
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Онлайн-планировщик вечеринок: всё под контролем'
+    description: 'Организация праздника под ключ: гости, списки дел, бюджет и подтверждения — всё в одном сервисе.'
 template: 'c7b0c4bf967442cba68a'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Souhaits de fonctionnalités'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/feature-requests'
+url: '/fr/modele/demandes-fonctionnalites'
+aliases:
+    - '/fr/modele/feature-requests/'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Centralisez & priorisez vos demandes de fonctionnalités'
+    description: 'Collectez, priorisez et suivez les suggestions clients dans SeaTable avec ce template flexible.'
 template: 'dc2f9f8565dc427c986b'
 ---
 

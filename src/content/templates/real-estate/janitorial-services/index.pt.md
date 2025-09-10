@@ -2,12 +2,14 @@
 title: 'Serviços de limpeza'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/janitorial-services'
+url: '/pt/modelo/servicos-zeladoria'
+aliases:
+    - '/pt/modelo/janitorial-services/'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Serviços de zeladoria organizados online'
+    description: 'Receba avisos e gerencie reparos, tarefas e comunicações digitais com SeaTable na administração predial.'
 template: '6de3e32edb154de08eed'
 ---
 

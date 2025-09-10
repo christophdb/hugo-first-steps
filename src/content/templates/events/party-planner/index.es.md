@@ -2,12 +2,14 @@
 title: 'Organizador de fiestas'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/party-planner'
+url: '/es/plantilla/planificador-fiesta'
+aliases:
+    - '/es/plantilla/party-planner/'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Organizador de fiestas digital y sencillo'
+    description: 'Planifica fiestas fácilmente: invitados, listas, presupuestos y confirmaciones de manera digital y organizada.'
 template: 'c7b0c4bf967442cba68a'
 ---
 

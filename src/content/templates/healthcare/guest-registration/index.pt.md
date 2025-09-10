@@ -2,12 +2,14 @@
 title: 'Registo de convidados'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/guest-registration'
+url: '/pt/modelo/registro-convidados'
+aliases:
+    - '/pt/modelo/guest-registration/'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Registro digital de convidados seguro'
+    description: 'Gere dados de clientes de forma digital, rápida e segura via QR code—ideal para bares e restaurantes.'
 template: '25c5b08db4184d6dbc3e'
 ---
 

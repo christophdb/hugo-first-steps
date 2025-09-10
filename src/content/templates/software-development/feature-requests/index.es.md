@@ -2,12 +2,14 @@
 title: 'Peticiones de funciones'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/feature-requests'
+url: '/es/plantilla/solicitudes-funciones'
+aliases:
+    - '/es/plantilla/feature-requests/'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestión centralizada de peticiones de funciones'
+    description: 'Recoge, prioriza y da seguimiento al feedback sobre funcionalidades con una plantilla eficiente en SeaTable.'
 template: 'dc2f9f8565dc427c986b'
 ---
 

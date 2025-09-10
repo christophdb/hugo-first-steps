@@ -8,8 +8,8 @@ aliases:
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Централизованный учёт фичереквестов: просто и прозрачно'
+    description: 'Собирайте, приоритизируйте и отслеживайте пользовательские запросы на новые функции с помощью шаблона SeaTable.'
 template: 'dc2f9f8565dc427c986b'
 ---
 

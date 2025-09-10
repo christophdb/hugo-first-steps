@@ -6,8 +6,8 @@ url: '/template/janitorial-services'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Janitorial Services: Digital Management'
+    description: 'Manage janitorial tickets, repairs, and assignments centrally and paperlessly with SeaTable’s digital forms.'
 template: '6de3e32edb154de08eed'
 ---
 
