@@ -2,12 +2,14 @@
 title: 'CRM: Cuentas por cobrar'
 description: ''
 date: '2024-08-16'
-url: '/es/plantilla/crm-accounts-receivable'
+url: '/es/plantilla/crm-cuentas-cobrar'
+aliases:
+    - '/es/plantilla/crm-accounts-receivable'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM cuentas por cobrar: controla tus facturas'
+    description: 'Organiza facturación, pagos y cobros en una sola plantilla CRM centralizada y eficiente en SeaTable.'
 template: '9abcb338414a450b8f66'
 ---
 

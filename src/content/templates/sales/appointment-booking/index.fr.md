@@ -2,15 +2,16 @@
 title: 'Réservations de rendez-vous'
 description: ''
 date: '2024-08-16'
-url: '/fr/modele/reservations_de_rendez-vous'
+url: '/fr/modele/prise-rendez-vous'
 aliases: 
     - '/fr/terminbuchung'
     - '/fr/modele/appointment-booking'
+    - '/fr/modele/reservations_de_rendez-vous/'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Prise de rendez-vous: modèle efficace en ligne'
+    description: 'Gérez et automatisez la prise de rendez-vous, réunions ou événements : tout en ligne avec SeaTable.'
 template: '32d6342b2b43442ca4a4'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Workshops'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/workshop-planner'
+url: '/pt/modelo/planejador-workshop'
+aliases:
+    - '/pt/modelo/workshop-planner/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planejador de workshops: modelo digital completo'
+    description: 'Planeje, organize e avalie workshops, treinamentos e eventos de equipe facilmente em SeaTable.'
 template: '3d757663bb3648439b9d'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Appointment Booking Template: Easy Scheduling'
+    description: 'Manage appointments, bookings and meetings online with this free, efficient scheduling template from SeaTable.'
 template: '32d6342b2b43442ca4a4'
 ---
 

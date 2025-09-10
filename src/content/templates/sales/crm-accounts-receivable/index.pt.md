@@ -2,12 +2,14 @@
 title: 'CRM: Contas a Receber'
 description: ''
 date: '2024-08-16'
-url: '/pt/modelo/crm-accounts-receivable'
+url: '/pt/modelo/crm-contas-receber'
+aliases:
+    - '/pt/modelo/crm-accounts-receivable'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM contas a receber: centralize faturas e pagamentos'
+    description: 'Gerencie faturas, cobranças e recebimentos em um CRM digital integrado com SeaTable.'
 template: '9abcb338414a450b8f66'
 ---
 

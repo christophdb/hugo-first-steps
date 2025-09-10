@@ -8,8 +8,8 @@ aliases:
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Планировщик воркшопов: шаблон для HR и команд'
+    description: 'Планируйте тренинги и семинары: участники, расписание, фидбек – всё онлайн в одном инструменте.'
 template: '3d757663bb3648439b9d'
 ---
 

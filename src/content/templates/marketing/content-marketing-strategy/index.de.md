@@ -2,12 +2,14 @@
 title: 'Content Marketing Strategie'
 description: ''
 date: '2024-08-16'
-url: '/de/vorlage/content-marketing-strategy'
+url: '/de/vorlage/content-marketing-strategie'
+aliases:
+    - '/de/vorlage/content-marketing-strategy'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Content Marketing Strategie: Template'
+    description: 'Mit dieser Content Marketing Strategie-Vorlage planen, überwachen und optimieren Sie Ihre Inhalte professionell.'
 template: '791a438b055a4680908c'
 ---
 

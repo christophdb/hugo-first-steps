@@ -2,12 +2,14 @@
 title: 'Ateliers'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/workshop-planner'
+url: '/fr/modele/planificateur-atelier'
+aliases:
+    - '/fr/modele/workshop-planner/'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planificateur d’atelier : tout organiser'
+    description: 'Centralisez l’organisation de vos ateliers ou formations : participants, contenus et suivi en une solution unique.'
 template: '3d757663bb3648439b9d'
 ---
 

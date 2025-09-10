@@ -9,8 +9,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Reservas de citas: gestiona tus agendas online'
+    description: 'Optimiza la programación de citas, reuniones y eventos con este formulario digital flexible y fácil de usar.'
 template: '32d6342b2b43442ca4a4'
 ---
 
