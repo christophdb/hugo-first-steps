@@ -1,5 +1,6 @@
 ---
 title: 'Crear un plan de aprendizaje - 7 pasos para obtener la mejor nota'
+description: 'Deja atrás el caos: crea tu propio plan de estudios paso a paso. Consejos para dividir temas, ajustar tiempos, motivarte y hacer seguimiento a tu progreso para que triunfes en pruebas y exámenes sin estrés innecesario.'
 date: 2024-05-02
 lastmod: '2024-05-02'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/es/crear-plan-estudio'
 aliases:
     - /es/lernplan-erstellen
 seo:
-    title:
-    description:
+    title: 'Plan de estudios: 7 pasos para mejores notas'
+    description: 'Organiza, planifica y alcanza tus metas con nuestro método de 7 pasos y plantilla gratis para exámenes y universidad.'
 categories:
     - 'best-practice'
 tags:

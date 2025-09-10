@@ -1,5 +1,6 @@
 ---
 title: 'Stag party - ideas and tips for the perfect tour'
+description: 'Want your bachelor party to stand out? Get creative ideas, checklists and expert tips: city breaks, activities, surprises and handy guides ensure your celebration will be memorable, fun and hassle-free for everyone.'
 date: 2024-08-06
 lastmod: '2024-08-07'
 coverImage: 'ibrahim-boran-oLaWOFe7_xI-unsplash.jpg'
@@ -8,8 +9,8 @@ url: '/bachelor-party'
 aliases:
     - /junggesellenabschied
 seo:
-    title:
-    description:
+    title: 'Bachelor Party: Top Ideas & Planning Tips'
+    description: 'Fun bachelor party ideas, tips and surprises for an epic, stress-free celebration with friends—plan it perfectly!'
 categories:
     - 'best-practice'
 tags:

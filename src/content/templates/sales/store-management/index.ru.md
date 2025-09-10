@@ -8,8 +8,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Управление филиалами: шаблон для ритейла'
+    description: 'Централизованное управление магазинами, сотрудниками, запасами и продажами – шаблон для торговых сетей.'
 template: 'c090ef310bd54007ab0a'
 ---
 

@@ -1,14 +1,16 @@
 ---
 title: 'Enterrement de vie de garçon - Idées et conseils pour la visite parfaite'
+description: 'Organisez un enterrement de vie de célibataire original : idées, liste, activités tendance, conseils pratiques et surprises qui rendent la journée de fête unique pour tous les invités—sans fausse note.'
 date: 2024-08-06
 lastmod: '2024-08-07'
 author: 'nsc'
-url: '/fr/enterrement-vie-garcon'
+url: '/fr/enterrement-vie-celibataire'
 aliases:
     - /fr/junggesellenabschied
+    - '/fr/enterrement-vie-garcon'
 seo:
-    title:
-    description:
+    title: 'EVG/EVJF : idées & conseils pratiques'
+    description: 'Inspirations et astuces pour organiser une fête de célibataire inoubliable, bien planifiée, avec surprises et activités uniques.'
 categories:
     - 'best-practice'
 tags:

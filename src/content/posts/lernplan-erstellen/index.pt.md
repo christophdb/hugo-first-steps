@@ -1,5 +1,6 @@
 ---
 title: 'Criar um plano de aprendizagem - 7 passos para a nota máxima'
+description: 'Aprenda a dividir temas, ajustar prazos e acompanhar o progresso. Torne o estudo mais leve e eficaz: organize revisões, motive-se e atinja as melhores notas com nosso passo a passo prático.'
 date: 2024-05-02
 lastmod: '2024-05-02'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/pt/criar-plano-estudos'
 aliases:
     - /pt/lernplan-erstellen
 seo:
-    title:
-    description:
+    title: 'Planejamento de estudos: método em 7 etapas'
+    description: 'Monte seu plano de estudos em 7 etapas fáceis, com dicas para provas, vestibular e modelo gratuito para organizar tudo.'
 categories:
     - 'best-practice'
 tags:

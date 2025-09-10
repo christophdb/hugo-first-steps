@@ -2,12 +2,14 @@
 title: 'Gestão de sucursais'
 description: ''
 date: '2024-08-16'
-url: '/pt/modelo/store-management'
+url: '/pt/modelo/gestao-filiais'
+aliases:
+    - '/pt/modelo/store-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestão de filiais: template para varejo'
+    description: 'Controle lojas, equipes e vendas em todo o grupo de forma centralizada na plataforma SeaTable.'
 template: 'c090ef310bd54007ab0a'
 ---
 

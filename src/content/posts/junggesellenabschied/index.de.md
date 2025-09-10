@@ -7,7 +7,7 @@ author: 'nsc'
 url: '/de/junggesellenabschied'
 seo:
     title: 'Junggesellenabschied – Ideen und Tipps für die perfekte Tour'
-    description: 'Planen Sie einen unvergesslichen Junggesellenabschied? Wir haben die besten Ideen und Tipps für den perfekten Tag!'
+    description: 'Die besten Ideen, Planungstipps und Überraschungen für einen unvergesslichen JGA – organisiert & kreativ feiern!'
 categories:
     - 'best-practice'
 tags:

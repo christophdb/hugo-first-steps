@@ -1,5 +1,6 @@
 ---
 title: 'Despedida de soltero: ideas y consejos para un viaje perfecto'
+description: '¿Planeando una despedida de soltero divertida y diferente? Encuentra actividades originales, sorpresas, listas y trucos para una celebración especial, personalizada y perfectamente organizada para el grupo completo.'
 date: 2024-08-06
 lastmod: '2024-08-07'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/es/despedida-soltero'
 aliases:
     - /es/junggesellenabschied
 seo:
-    title:
-    description:
+    title: 'Despedida de soltero: Ideas y consejos'
+    description: 'Descubre ideas originales y consejos para organizar y disfrutar una despedida divertida y única con amigos.'
 categories:
     - 'best-practice'
 tags:

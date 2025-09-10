@@ -2,12 +2,14 @@
 title: 'Gestion des filiales'
 description: ''
 date: '2024-08-16'
-url: '/fr/modele/store-management'
+url: '/fr/modele/gestion-filiales'
+aliases:
+    - '/fr/modele/store-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestion de filiales: modèle unifié'
+    description: 'Gérez succursales, personnel, ressources et ventes en toute simplicité – analyse et supervision centralisées avec SeaTable.'
 template: 'c090ef310bd54007ab0a'
 ---
 
