@@ -1,6 +1,6 @@
 ---
 title: "Elaborer un plan d'apprentissage - en 7 étapes vers la meilleure note"
-description: 'Découvrez comment structurer vos révisions et progresser : planifiez, répartissez vos tâches et adoptez des méthodes efficaces pour réaliser vos objectifs scolaires ou universitaires sans panique de dernière minute !'
+description: "Découvrez comment structurer vos révisions et progresser : planifiez, répartissez vos tâches et adoptez des méthodes efficaces pour réaliser vos objectifs scolaires ou universitaires sans panique de dernière minute !"
 date: 2024-05-02
 lastmod: '2024-05-02'
 author: 'nsc'
@@ -9,8 +9,8 @@ aliases:
     - '/fr/lernplan-erstellen'
     - '/fr/creer-plan-apprentissage'
 seo:
-    title: "Planning d’étude : réussir en 7 étapes essentielles'
-    description: "Comment créer un planning d’étude en 7 étapes faciles : conseils & modèle pour révisions réussies, examens ou concours.'
+    title: 'Planning d’étude : réussir en 7 étapes essentielles'
+    description: 'Comment créer un planning d’étude en 7 étapes faciles : conseils & modèle pour révisions réussies, examens ou concours.'
 categories:
     - 'best-practice'
 tags:
