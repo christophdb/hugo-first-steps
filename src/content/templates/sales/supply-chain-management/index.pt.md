@@ -2,12 +2,14 @@
 title: 'Gestão da cadeia de fornecimento'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/supply-chain-management'
+url: '/pt/modelo/gestao-cadeia-suprimentos'
+aliases:
+    - '/pt/modelo/supply-chain-management/'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestão de cadeia de suprimentos simplificada'
+    description: 'Gerencie toda a cadeia de suprimentos: entradas, saídas e automações em um painel central digital.'
 template: 'd58845a24cda4807847e'
 ---
 

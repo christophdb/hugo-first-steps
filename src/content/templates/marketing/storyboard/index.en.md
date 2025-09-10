@@ -6,8 +6,8 @@ url: '/template/storyboard'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Storyboard: Visualize Your Story Efficiently'
+    description: 'Create your storyboard digitally—organize scenes, roles, props and scripts all in one smart template.'
 template: 'ecbab98c02fa45aa903b'
 ---
 

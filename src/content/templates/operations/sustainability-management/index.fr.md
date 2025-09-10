@@ -2,12 +2,14 @@
 title: 'Gestion du développement durable'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/sustainability-management'
+url: '/fr/modele/gestion-durable'
+aliases:
+    - '/fr/modele/sustainability-management/'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestion durable : objectifs RSE & ESG'
+    description: 'Centralisez la gestion environnementale, sociale et économique en entreprise et suivez vos progrès RSE facilement.'
 template: 'a7bbe6280aad4c409a93'
 ---
 

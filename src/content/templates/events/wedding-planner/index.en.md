@@ -6,8 +6,8 @@ url: '/template/wedding-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Wedding Planner: Expert Template for Your Day'
+    description: 'Stress-free wedding planning starts here! Organize guests, budget and tasks effortlessly with this template.'
 template: 'de0ea6ddde484de99645'
 ---
 

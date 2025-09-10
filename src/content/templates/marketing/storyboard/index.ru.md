@@ -8,8 +8,8 @@ aliases:
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Сториборд онлайн: планируйте видео-проекты'
+    description: 'Структурируйте съёмки: сцены, реквизит, роли и сценарий в едином шаблоне.'
 template: 'ecbab98c02fa45aa903b'
 ---
 

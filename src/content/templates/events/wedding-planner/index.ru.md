@@ -8,8 +8,8 @@ aliases:
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Организатор свадьбы: удобный шаблон'
+    description: 'Планируйте свадьбу без стресса: гости, бюджет, задачи — всё в одном цифровом инструменте.'
 template: 'de0ea6ddde484de99645'
 ---
 

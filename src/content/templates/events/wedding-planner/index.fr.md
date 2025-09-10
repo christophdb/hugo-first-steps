@@ -2,12 +2,14 @@
 title: 'Organisateur de mariage'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/wedding-planner'
+url: '/fr/modele/planificateur-mariage'
+aliases:
+    - '/fr/modele/wedding-planner/'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planificateur de mariage: modèle pratique'
+    description: 'Votre mariage en toute sérénité: planifiez invités, tâches et budget dans un outil digital partagé et organisé.'
 template: 'de0ea6ddde484de99645'
 ---
 

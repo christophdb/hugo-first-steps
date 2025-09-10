@@ -6,8 +6,8 @@ url: '/de/vorlage/storyboard'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Storyboard: Video- und Imageplanung digital'
+    description: 'Erstellen Sie Ihr Storyboard digital: Szenen, Rollen, Drehbuch und Requisiten immer übersichtlich im Griff.'
 template: 'ecbab98c02fa45aa903b'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Nachhaltigkeitsmanagement'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/sustainability-management'
+url: '/de/vorlage/nachhaltigkeitsmanagement'
+aliases:
+    - '/de/vorlage/sustainability-management/'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Nachhaltigkeitsmanagement: Umwelt & CSR steuern'
+    description: 'Nachhaltigkeitsziele, soziale und ökologische Maßnahmen zentral planen und überwachen – mit SeaTable.'
 template: 'a7bbe6280aad4c409a93'
 ---
 

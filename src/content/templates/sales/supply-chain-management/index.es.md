@@ -2,12 +2,14 @@
 title: 'Gestión de la cadena de suministro'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/supply-chain-management'
+url: '/es/plantilla/gestion-cadena-suministro'
+aliases:
+    - '/es/plantilla/supply-chain-management/'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestión de la cadena de suministro digital'
+    description: 'Optimiza la gestión de tu cadena de suministros online: controla inventario, compras y logística centralizados.'
 template: 'd58845a24cda4807847e'
 ---
 

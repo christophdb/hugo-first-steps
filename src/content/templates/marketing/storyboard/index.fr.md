@@ -2,12 +2,14 @@
 title: 'Storyboard'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/storyboard'
+url: '/fr/modele/scenario-visuel'
+aliases:
+    - '/fr/modele/storyboard/'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Storyboard numérique pour vos vidéos'
+    description: 'Structurez vos projets vidéo étape par étape : scènes, plans, accessoires et équipes tout-en-un.'
 template: 'ecbab98c02fa45aa903b'
 ---
 
