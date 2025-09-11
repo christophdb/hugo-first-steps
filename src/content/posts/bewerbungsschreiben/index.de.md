@@ -6,8 +6,8 @@ lastmod: '2024-04-22'
 author: 'lsc'
 url: '/de/bewerbungsschreiben'
 seo:
-    title: 'Bewerbungsschreiben: Wie Sie jeden Personaler überzeugen'
-    description: Der erste Schritt zum Traumjob ist das Bewerbungsschreiben. Hier erfahren Sie, mit welchen Tipps Ihnen das perfekte Anschreiben gelingt.
+    title: 'Bewerbungsschreiben: Tipps & Muster für Ihr Anschreiben'
+    description: 'Überzeugen Sie jeden Personaler! Die besten Tipps, Muster und Beispiele für ein perfektes Bewerbungsschreiben und mehr Erfolg.'
 categories:
     - 'best-practice'
 tags:

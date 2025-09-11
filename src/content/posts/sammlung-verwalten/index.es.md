@@ -1,5 +1,6 @@
 ---
 title: 'Gestión de la colección con herramientas digitales'
+description: 'Ya sean monedas, cómics o arte digital: descubre herramientas para catalogar, analizar y proteger tus objetos preciados. Análisis de apps como Evernote, Data Crow y SeaTable para mantener tu colección bajo control.'
 date: 2022-07-01
 lastmod: '2024-03-21'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/es/gestionar-coleccion'
 aliases:
     - /es/sammlung-verwalten
 seo:
-    title:
-    description:
+    title: 'Gestor de colecciones: apps y soluciones clave'
+    description: 'Los mejores programas digitales para organizar y controlar cualquier tipo de colección: compara y gestiona tus objetos de valor.'
 categories:
     - 'best-practice'
 tags:

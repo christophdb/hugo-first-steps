@@ -1,19 +1,21 @@
 ---
 title: 'Criar plano editorial | plano de conteúdo: Dicas e truques com modelo'
+description: 'Aprimore sua estratégia de conteúdo: estruture publicações, organize cronograma e delegue tarefas com máxima eficiência. Baixe nosso modelo e confira as melhores dicas para alcançar seus objetivos de marketing.'
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/pt/calendario-editorial-plano-conteudo'
+url: '/pt/planejamento-editorial'
 aliases:
     - /pt/redaktionsplan-contentplan
+    - '/pt/calendario-editorial-plano-conteudo'
 color: '#8ddb8c'
 categories:
     - 'best-practice'
 tags:
     - 'Planeamento de conteúdos'
 seo:
-    title:
-    description:
+    title: 'Planejamento editorial: dicas e modelo gratuito'
+    description: 'Planeje e monitore seu conteúdo com checklist, modelo grátis e guia prático para marketing digital eficaz.'
 ---
 
 Atualmente, uma presença em linha é crucial para o sucesso da sua empresa. É necessário publicar regularmente conteúdos através das redes sociais, do seu sítio Web, de um blogue ou de formatos como um podcast. Podem ser artigos, vídeos explicativos ou infografias, por exemplo. Um plano de conteúdos, também conhecido como plano editorial, ajuda-o a **planear e a criar todos os seus conteúdos**.

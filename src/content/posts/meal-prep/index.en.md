@@ -1,13 +1,14 @@
 ---
 title: 'Meal Prep - healthy and affordable meal prep + weekly plan'
+description: 'Meal Prep makes eating healthy and saving money simple. Discover techniques for planning, shopping and batch cooking to simplify your diet. Includes practical tips and templates for stress-free, nutritious lunches!'
 date: 2023-11-23
 lastmod: '2024-02-13'
 coverImage: 'Weiss-Minimalistisch-Papier-Notizen-A4-Dokument-e1699963996683.jpg'
 author: 'lsc'
 url: '/meal-prep'
 seo:
-    title:
-    description:
+    title: 'Meal Prep: Healthy, Easy & Budget-Friendly'
+    description: 'Save time and money—plan, cook and store healthy meals in advance. Tips, ideas and template for your meal plan!'
 categories:
     - 'best-practice'
 tags:

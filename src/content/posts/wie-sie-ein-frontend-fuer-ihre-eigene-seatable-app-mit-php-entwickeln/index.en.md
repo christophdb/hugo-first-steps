@@ -1,5 +1,6 @@
 ---
 title: 'How to develop a frontend for your own SeaTable app with PHP - SeaTable'
+description: 'Build your own SeaTable app: A complete tutorial on using the SeaTable PHP API, Slim and Twig for a dynamic, database-driven user interface. Perfect for developers aiming at flexible business solutions.'
 date: 2022-09-27
 lastmod: '2022-09-27'
 coverImage: 'develop-own-frontend-seatable-app.jpg'
@@ -12,8 +13,8 @@ aliases:
     - /wie-sie-ein-frontend-fuer-ihre-eigene-seatable-app-mit-php-entwickeln
 color: '#fcbc68'
 seo:
-    title:
-    description:
+    title: 'How to build your own SeaTable App Frontend in PHP'
+    description: 'Learn how to create a custom frontend for SeaTable using PHP, the Slim framework and Twig template engine.'
 ---
 
 SeaTable is an incredibly powerful low-code platform that allows you to develop your own business processes in no time. In one of my first YouTube tutorials, I already showed how you can develop your own **Customer Feeback Tool** in less than an hour using only Seatable's features and on-boarding tools. If you don't know what I'm talking about, I recommend watching this [YouTube video](https://www.youtube.com/watch?v=HqtyeRL2qiY) first.

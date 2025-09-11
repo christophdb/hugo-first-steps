@@ -1,15 +1,15 @@
 ---
 title: 'Cover letter: How to convince every recruiter'
+description: 'Create a job-winning cover letter : expert tips, examples and templates for structure, effective phrases and personal branding. Show your strengths and convince any recruiter—step by step, for any application.'
 date: 2024-04-22
 lastmod: '2024-04-22'
 coverImage: 'Bewerbungsschreiben_02-e1713776597515.png'
-author: 'lsc'
 url: '/cover-letter'
 aliases:
     - /bewerbungsschreiben
 seo:
-    title:
-    description:
+    title: 'Cover Letter Guide: Win Every Recruiter’s Attention'
+    description: 'How to write a cover letter that stands out. Structure, tips and wording for applications and job search.'
 categories:
     - 'best-practice'
 tags:

@@ -6,12 +6,13 @@ categories:
     - 'best-practice'
 tags:
     - 'Finanças'
-url: '/pt/administracao-predios'
+url: '/pt/gestao-imoveis'
 aliases:
     - /pt/hausverwaltung
+    - '/pt/administracao-predios'
 seo:
-    title:
-    description:
+    title: 'Gestão de imóveis: administração digital facilitada'
+    description: 'Controle imóveis, contratos e manutenções com um sistema digital de gestão imobiliária simples e eficiente.'
 color: '#75b389'     
 ---
 

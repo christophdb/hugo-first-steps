@@ -1,19 +1,21 @@
 ---
 title: 'Créer un plan éditorial | un plan de contenu : Conseils et astuces avec modèle'
+description: 'Concevez votre plan de contenu : structuration, choix des canaux, calendrier, responsabilité et analyse. Profitez de notre checklist, exemples et modèles pour une planification digitale performante.'
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/fr/calendrier-editorial-plan-contenu'
+url: '/fr/planning-editorial'
 aliases:
-    - /fr/redaktionsplan-contentplan
+    - '/fr/redaktionsplan-contentplan'
+    - '/fr/calendrier-editorial-plan-contenu'
 color: '#8ddb8c'
 categories:
     - 'best-practice'
 tags:
     - 'Planification de contenu'
 seo:
-    title:
-    description:
+    title: 'Planning éditorial : modèle, conseils & check-list'
+    description: 'Gagnez en efficacité : modèles gratuits et astuces pour votre planning éditorial et stratégie de contenu.'
 ---
 
 De nos jours, une présence en ligne est essentielle pour le succès de votre entreprise. Il convient de publier régulièrement des contenus via les médias sociaux, votre site web, un blog ou des formats tels qu'un podcast. Il peut s'agir par exemple d'articles, de vidéos explicatives ou d'infographies. Un plan de contenu, également appelé plan éditorial, vous aide à **planifier et à créer tous vos contenus**.

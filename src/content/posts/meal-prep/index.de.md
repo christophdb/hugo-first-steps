@@ -7,7 +7,7 @@ author: 'lsc'
 url: '/de/meal-prep'
 seo:
     title: 'Meal Prep – gesund und günstig Essen vorkochen + Wochenplan'
-    description: 'Oft fehlt die Zeit, selbst zu kochen. Meal Prep löst dieses Problem und hilft Ihnen mit ausgewogener Ernährung Zeit und Geld zu sparen.'
+    description: 'Meal Prep spart Zeit & Geld – plane, koche und lagere Mahlzeiten gezielt vor. Tipps & Wochenplan für gesunden Genuss!'
 categories:
     - 'best-practice'
 tags:

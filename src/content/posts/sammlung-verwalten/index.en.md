@@ -1,5 +1,6 @@
 ---
 title: 'Managing the collection with digital tools'
+description: 'Whether you collect stamps, books or NFTs: use modern collection manager software to track, compare, insure and share your collectibles wherever you are. Analysis of leading apps from Evernote to SeaTable.'
 date: 2022-07-01
 lastmod: '2024-03-21'
 coverImage: 'Sammlung-verwalten_AdobeStock_21666861_bearbeitet.jpg'
@@ -8,8 +9,8 @@ url: '/manage-collection'
 aliases:
     - /sammlung-verwalten
 seo:
-    title:
-    description:
+    title: 'Collection Manager: Best Tools & Apps Compared'
+    description: 'The best tools and apps for managing your collection. Compare features and get organized—physical or digital items.'
 categories:
     - 'best-practice'
 tags:

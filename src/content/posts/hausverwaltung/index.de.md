@@ -8,8 +8,8 @@ tags:
     - 'Finanzen'
 url: '/de/hausverwaltung'
 seo:
-    title: 'Hausverwaltung leicht gemacht: Immobilien professionell managen'
-    description: 'Wenn Sie Immobilien vermieten, sollten Sie für eine gute Hausverwaltung sorgen – egal, ob Sie privat vermieten oder im großen Stil.'
+    title: 'Hausverwaltung & Immobilien digital verwalten'
+    description: 'Mit Software Immobilien und Mietobjekte einfach verwalten: Aufgaben, Dokumente und Mieteinnahmen im Griff behalten.'
 color: '#75b389'
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Patrimonio digital: cómo gestionar sus datos de acceso'
+description: 'Descubre cómo preparar y proteger tu herencia digital: guía para anotar contraseñas, organizar tus cuentas online y ayudar a tu familia a gestionar tus datos y redes sociales después de tu fallecimiento.'
 date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
@@ -7,8 +8,8 @@ url: '/es/legado-digital'
 aliases:
     - /es/digitaler-nachlass
 seo:
-    title:
-    description:
+    title: 'Herencia digital: gestiona tus cuentas online'
+    description: 'Toda tu información online en orden. Gestiona claves, contactos y deja tu legado digital organizado para tus seres queridos.'
 categories:
     - 'best-practice'
 tags:

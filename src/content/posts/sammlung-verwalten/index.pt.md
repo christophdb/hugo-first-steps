@@ -1,5 +1,6 @@
 ---
 title: 'Gerir colecções com ferramentas digitais'
+description: 'Controle moedas, selos, livros ou NFTs: escolha o software certo para catalogar, comparar valores e administrar objetos de coleção. Do Evernote à SeaTable, veja qual ferramenta digital se adapta melhor ao seu perfil de colecionador.'
 date: 2022-07-01
 lastmod: '2024-03-21'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/pt/gerenciar-colecao'
 aliases:
     - /pt/sammlung-verwalten
 seo:
-    title:
-    description:
+    title: 'Gerenciar coleção: melhores apps e programas'
+    description: 'Os principais aplicativos para organizar e controlar coleções físicas ou digitais de forma prática e segura.'
 categories:
     - 'best-practice'
 tags:
