@@ -1,6 +1,9 @@
 ---
 title: 'Terminos de uso'
 description: ''
+seo:
+    title: 'Términos de uso SeaTable: información clave'
+    description: 'Consulta los términos y condiciones vigentes : derechos, deberes y reglas de uso para todos los usuarios.'
 date: 2022-04-14
 version: 1.0.1
 type: 'legal'

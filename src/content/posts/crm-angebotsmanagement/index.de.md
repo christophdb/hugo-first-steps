@@ -1,6 +1,6 @@
 ---
 title: 'CRM: Von der Kundenerfassung bis zum Angebot'
-description: ''
+description: 'So optimieren Sie Ihr Customer-Relationship-Management: Von der Kundenerfassung bis zur Erstellung eines Angebots — CRM-Tools bündeln Kontakte, Umsätze und Vertriebschancen und unterstützen im Teamwork für besseren Vertriebserfolg.'
 date: 2021-07-22
 categories:
     - 'best-practice'
@@ -10,8 +10,8 @@ tags:
 url: '/de/crm-angebotsmanagement'
 color: '#fdce05'
 seo:
-    title: ''
-    description: ''
+    title: 'CRM & Angebotsmanagement: Kunden smart verwalten'
+    description: 'Erfahren Sie, wie ein CRM-System Sie von der Erfassung bis zum Angebot begleitet und interne Prozesse verbessert.'
 ---
 
 Jedes Unternehmen, das seine Kunden effizienter erfassen und nachhalten möchte, kommt um ein gutes Customer Relationship Management (CRM) bzw. genauer gesagt um ein CRM-System nicht herum.

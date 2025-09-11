@@ -1,5 +1,6 @@
 ---
 title: 'CRM: From customer registration to the offer - SeaTable'
+description: 'Discover how CRM and offer management tools streamline everything from collecting customer data to creating tailored proposals. Assign leads, track deals and close more sales efficiently with the right digital workflows.'
 date: 2021-07-22
 categories:
     - 'best-practice'
@@ -11,8 +12,8 @@ aliases:
     - /crm-angebotsmanagement
 color: '#fdce05'
 seo:
-    title:
-    description:
+    title: 'CRM & Quote Management: Efficient Sales Workflow'
+    description: 'Boost your sales process with CRM—from lead capture to offer generation and pipeline tracking in one system.'
 ---
 
 Any company that wants to record and track its customers more efficiently cannot do without good customer relationship management (CRM) or, more precisely, a CRM system.

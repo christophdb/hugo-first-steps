@@ -1,5 +1,6 @@
 ---
 title: 'Lançamento do produto - garantia de funcionamento | SeaTable'
+description: 'Descubra como gerenciar todas as fases do seu lançamento, atribuir tarefas e monitorar resultados. Baixe nosso template e siga os passos essenciais para maximizar o sucesso do seu novo produto.'
 date: 2020-09-24
 categories:
     - 'best-practice'
@@ -10,8 +11,8 @@ aliases:
     - /pt/produktlaunch
 color: '#d21d0d'
 seo:
-    title:
-    description:
+    title: 'Lançamento de produto: etapas e checklist'
+    description: 'Dicas, checklist e um modelo prático para planejar e executar seu lançamento com sucesso e destacar no mercado.'
 ---
 
 Uma vez concluído com sucesso o processo de desenvolvimento do produto, nada se interpõe no caminho do lançamento de um produto.

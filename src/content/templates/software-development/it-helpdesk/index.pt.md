@@ -1,13 +1,13 @@
 ---
 title: 'Helpdesk de TI'
-description: ''
+description: 'Organize solicitações, atribua responsáveis, acompanhe status, automatize feedback e use a base de conhecimento para resolver questões recorrentes—ferramenta flexível e segura na nuvem.'
 date: '2025-05-02'
 url: '/pt/modelo/it-helpdesk'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo helpdesk IT: tickets, base de conhecimento'
+    description: 'Gerencie centralmente chamados, tarefas e documentação IT: estatísticas, automatizações e feedback integrados.'
 template: '79de1c79b29445c280ad'
 ---
 

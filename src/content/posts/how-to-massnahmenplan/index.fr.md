@@ -1,5 +1,6 @@
 ---
 title: "Comment faire : Comment créer un plan d'action pour toute l'année - SeaTable"
+description: 'Simplifiez la planification : reliez objectifs, échéances et responsabilités pour l’année entière. Mode d’emploi et modèle gratuits pour piloter des projets, suivre l’avancement et réussir vos objectifs.'
 date: 2021-05-04
 lastmod: '2023-07-11'
 categories:
@@ -12,8 +13,8 @@ aliases:
     - /fr/how-to-massnahmenplan
 color: '#6aaaea'
 seo:
-    title:
-    description:
+    title: 'Plan d’actions annuel : modèle & conseils pratiques'
+    description: 'Organisez vos actions de l’année : modèle de plan annuel, calendrier et conseils stratégiques inclus.'
 ---
 
 Pour croître et se développer, les entreprises se fixent constamment de nouveaux objectifs et y consacrent toutes leurs ressources. Le plan d'action est une méthode éprouvée pour atteindre ces objectifs, par exemple dans le domaine de la [gestion de projet]({{< relref "pages/industry-solutions/project-management" >}}), des finances et du contrôle de gestion ainsi que du [marketing]({{< relref "pages/industry-solutions/marketing" >}}).

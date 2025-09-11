@@ -1,5 +1,6 @@
 ---
 title: 'Lanzamiento de productos - garantía de funcionamiento | SeaTable'
+description: 'Sigue cada etapa del go-to-market con claridad : estrategias, cronogramas y tareas principales para una introducción de producto sin errores ni olvidos. Descarga plantilla gratis para tu equipo.'
 date: 2020-09-24
 categories:
     - 'best-practice'
@@ -10,8 +11,8 @@ aliases:
     - /es/produktlaunch
 color: '#d21d0d'
 seo:
-    title:
-    description:
+    title: 'Lanzamiento de producto: pasos y plantilla'
+    description: 'Consigue un lanzamiento exitoso : guía paso a paso, checklist y plantilla editable para tu producto.'
 ---
 
 Una vez que haya completado con éxito el proceso de desarrollo del producto, nada se interpone en el camino de su lanzamiento.

@@ -1,13 +1,13 @@
 ---
 title: 'IT Helpdesk'
-description: ''
+description: 'Rassemblez toutes demandes IT, gérez priorités, assignez équipes et visualisez en Kanban : base documentaire et statistiques intégrés. Améliorez efficacement la gestion de votre support informatique selon vos besoins.'
 date: '2025-05-02'
 url: '/fr/modele/it-helpdesk'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Template Helpdesk IT : gestion centralisée des tickets'
+    description: 'Centralisez tickets, priorités et FAQs IT : board, analyse, processus et support améliorés avec SeaTable Helpdesk.'
 template: '79de1c79b29445c280ad'
 ---
 

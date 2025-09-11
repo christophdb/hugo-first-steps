@@ -1,5 +1,6 @@
 ---
 title: 'CRM: Desde o registo do cliente até à oferta - SeaTable'
+description: 'Cadastre leads, acompanhe negociações e crie orçamentos em poucos cliques – o CRM integra tarefas do marketing à entrega comercial, acelerando vendas e melhorando a experiência do cliente.'
 date: 2021-07-22
 categories:
     - 'best-practice'
@@ -11,8 +12,8 @@ aliases:
     - /pt/crm-angebotsmanagement
 color: '#fdce05'
 seo:
-    title:
-    description:
+    title: 'CRM e propostas: do cadastro ao fechamento'
+    description: 'Gerencie clientes, oportunidades e propostas comerciais de forma inteligente e eficiente com um só sistema CRM.'
 ---
 
 Qualquer empresa que queira registar e acompanhar os seus clientes de forma mais eficiente não pode prescindir de uma boa gestão da relação com o cliente (CRM) ou, mais precisamente, de um sistema CRM.

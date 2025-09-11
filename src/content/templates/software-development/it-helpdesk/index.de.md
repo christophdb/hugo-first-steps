@@ -1,6 +1,6 @@
 ---
 title: 'IT Helpdesk'
-description: ''
+description: 'Organisieren Sie alle IT-Anfragen effizient: Tickets erfassen, Status tracken, FAQ-Datenbank und Kanban-Board inklusive. Bewertung und Statistiken helfen beim Prozess- und Service-Optimieren – alles DSGVO-konform.'
 date: '2025-05-02'
 url: '/de/vorlage/it-helpdesk'
 category: 'software-development'

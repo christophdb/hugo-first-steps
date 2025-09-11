@@ -1,5 +1,6 @@
 ---
 title: "CRM : de la saisie du client à l'offre - SeaTable"
+description: 'Centralisez la gestion des clients, l’historique, les ventes et la création de devis : une solution CRM collaborative fluidifie vos processus, réduit les doublons et améliore les résultats en équipe.'
 date: 2021-07-22
 categories:
     - 'best-practice'
@@ -11,8 +12,8 @@ aliases:
     - /fr/crm-angebotsmanagement
 color: '#fdce05'
 seo:
-    title:
-    description:
+    title: 'CRM & gestion d’offres : workflow optimisé'
+    description: 'Optimisez la gestion client et les propositions commerciales grâce à un CRM centralisé, efficace et intuitif.'
 ---
 
 Toute entreprise qui souhaite enregistrer et suivre ses clients plus efficacement ne peut se passer d'une bonne gestion de la relation client (CRM) ou, plus précisément, d'un système CRM.

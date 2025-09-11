@@ -1,6 +1,9 @@
 ---
 title: 'Nutzungsbedingungen'
 description: ''
+seo:
+    title: 'Nutzungsbedingungen SeaTable: Rechte & Pflichten'
+    description: 'Aktuelle Nutzungsbedingungen von SeaTable : Ihr Vertrag, Rechte, Pflichten und Hinweise für alle Nutzergruppen.'
 date: 2022-04-14
 version: 1.0.1
 type: 'legal'

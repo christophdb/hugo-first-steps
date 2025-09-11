@@ -1,6 +1,9 @@
 ---
 title: 'Termos-de-uso'
 description: ''
+seo:
+    title: 'Termos de uso SeaTable: guia de direitos'
+    description: 'Confira os termos de uso atualizados : obrigações e direitos ao utilizar a plataforma SeaTable Cloud e Market.'
 date: 2022-04-14
 version: 1.0.1
 type: 'legal'

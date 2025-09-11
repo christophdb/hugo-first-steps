@@ -1,13 +1,13 @@
 ---
 title: 'IT Helpdesk'
-description: ''
+description: 'Centralize all your IT tickets, assign staff, track status, automate feedback and manage knowledge: Kanban board and performance statistics included. Improve your IT support in the cloud—simple, flexible and secure.'
 date: '2025-05-02'
 url: '/template/it-helpdesk'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'IT Helpdesk Template: Simplify Ticket Management'
+    description: 'Streamline IT support : centralize and manage tickets, knowledge and feedback with SeaTable’s IT helpdesk template.'
 template: '79de1c79b29445c280ad'
 ---
 

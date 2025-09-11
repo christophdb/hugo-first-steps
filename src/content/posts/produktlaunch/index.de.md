@@ -1,6 +1,6 @@
 ---
 title: 'Produktlaunch- so funktioniert es garantiert'
-description: ''
+description: 'So gelingt der perfekte Produktlaunch : Von Zielgruppe bis Go-to-Market alle Aufgaben meistern. Mit Tipps, Checkliste und individuell anpassbarem Template vermeiden Sie Fehler und holen das Beste aus Ihrer Markteinführung heraus.'
 date: 2020-09-24
 categories:
     - 'best-practice'
@@ -9,8 +9,8 @@ tags:
 url: '/de/produktlaunch'
 color: '#d21d0d'
 seo:
-    title: 'Produktlaunch- so funktioniert es garantiert'
-    description: 'Egal ob Start-up-Unternehmer, Produktmanager oder Produktteam innerhalb eines großen Unternehmens. Testen Sie unser Produktlaunch Template!'
+    title: 'Produktlaunch: Checkliste & Template für Ihre Markteinführung'
+    description: 'Erfolgreiche Produkteinführung: Mit Checkliste & Template alle Schritte Ihres Produktlaunchs strukturiert planen und umsetzen.'
 ---
 
 Haben Sie den Prozess der Produktentwicklung erfolgreich abgeschlossen, steht einem Produktlaunch nichts mehr im Wege.

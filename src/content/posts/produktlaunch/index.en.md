@@ -1,5 +1,6 @@
 ---
 title: 'Product launch - guaranteed to work | SeaTable'
+description: 'Guide to flawless launches: define targets, manage features, orchestrate teams and stay on track with our proven checklist and practical templates for your next product introduction.'
 date: 2020-09-24
 categories:
     - 'best-practice'
@@ -10,8 +11,8 @@ aliases:
     - /produktlaunch
 color: '#d21d0d'
 seo:
-    title:
-    description:
+    title: 'Product Launch: Steps, Checklist & Template'
+    description: 'Make your product launch a success. Free checklist & template : plan, execute and monitor go-to-market strategies.'
 ---
 
 Once you have successfully completed the product development process, nothing stands in the way of a product launch.

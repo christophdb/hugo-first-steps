@@ -1,6 +1,9 @@
 ---
 title: 'Terms of Service'
 description: ''
+seo:
+    title: 'Terms of Use: SeaTable Cloud & Market'
+    description: 'Read and understand the latest SeaTable Terms of Use : user rights, obligations and how to manage your data.'
 date: 2022-04-14
 version: 1.0.1
 type: 'legal'

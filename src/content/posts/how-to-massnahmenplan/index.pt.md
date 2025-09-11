@@ -1,5 +1,6 @@
 ---
 title: 'Como fazer: Como criar um plano de acção para o ano inteiro - SeaTable'
+description: 'Estruture metas, responsáveis e prazos ao longo do ano, monitore resultados e otimize recursos com nosso guia completo, exemplos práticos e download gratuito de planilha para seu planejamento estratégico.'
 date: 2021-05-04
 categories:
     - 'best-practice'
@@ -11,8 +12,8 @@ aliases:
     - /pt/how-to-massnahmenplan
 color: '6aaaea'
 seo:
-    title:
-    description:
+    title: 'Plano de ações anual: como criar & modelo'
+    description: 'Aprenda a criar um plano de ações anual com etapas, cronograma detalhado e modelo para empresas e projetos.'
 ---
 
 Para que as empresas cresçam e se desenvolvam, estabelecem constantemente novos objectivos e trabalham para eles com todos os seus recursos. O plano de acção é um método comprovado para alcançar estes objectivos - por exemplo na [gestão de projectos]({{< relref "pages/industry-solutions/project-management" >}}), finanças & controlo e [marketing]({{< relref "pages/industry-solutions/marketing" >}}).
