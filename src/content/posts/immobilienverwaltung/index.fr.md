@@ -3,7 +3,7 @@ title: 'Immobilier : 4 modèles utiles pour les locataires et les bailleurs'
 date: 2022-04-17
 lastmod: '2023-11-06'
 author: 'cdb'
-url: '/fr/gestion-immobiliere'
+url: '/fr/gestion-immeuble'
 aliases:
     - /fr/immobilienverwaltung
 seo:
