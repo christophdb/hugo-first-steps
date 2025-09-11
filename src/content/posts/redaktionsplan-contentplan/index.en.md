@@ -1,20 +1,22 @@
 ---
 title: 'Create editorial plan | content plan: Tips & tricks with template'
+description: 'Take control of your content strategy with our step-by-step template. Plan across channels, assign tasks, set deadlines and analyze performance to boost results. Download expert-led checklists for your digital marketing.'
 date: 2022-05-27
 lastmod: '2025-01-17'
 coverImage: 'Contentplan-Vorlage_AdobeStock_389443380_bearbeitet.jpg'
 author: 'rdb'
-url: '/editorial-calendar-content-plan'
+url: '/editorial-calendar'
 aliases:
     - /redaktionsplan-contentplan
+    - /editorial-calendar-content-plan
 color: '#8ddb8c'
 categories:
     - 'best-practice'
 tags:
     - 'Content Planning'
 seo:
-    title:
-    description:
+    title: 'Editorial Calendar: Content Plan Template & Checklist'
+    description: 'Create an effective content plan : free template, checklist and expert tips for marketing success.'
 ---
 
 In today's world, an online presence is crucial for the success of your company. You need to publish content regularly via social media, your website, a blog or formats such as a podcast. This could be articles, explanatory videos or infographics, for example. A content plan, also known as an editorial plan, helps you to **plan and create all your content**.

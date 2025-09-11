@@ -1,5 +1,6 @@
 ---
 title: 'Meal Prep - preparación de comidas sanas y asequibles + plan semanal'
+description: 'Cocina en lote, organiza tus comidas y gestiona mejor tu dieta y presupuesto. Descubre los beneficios del Meal Prepping y descarga tu plantilla de menú semanal para simplificar tu rutina saludable sin complicaciones.'
 date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/es/meal-prep'
 aliases:
     - /es/meal-prep
 seo:
-    title:
-    description:
+    title: 'Meal Prep: Come sano y ahorra sin estrés'
+    description: 'Prepara tus comidas sanas en menos tiempo y ahorra dinero. Planifica platos variados con recetas prácticas y trucos fáciles.'
 categories:
     - 'best-practice'
 tags:

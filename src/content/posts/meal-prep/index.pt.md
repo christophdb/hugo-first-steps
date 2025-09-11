@@ -1,5 +1,6 @@
 ---
 title: 'Preparação de refeições - preparação de refeições saudáveis e económicas + plano semanal'
+description: 'Descubra os segredos do Meal Prep: dicas para planejar, cozinhar e armazenar refeições, evitar desperdício e manter uma dieta equilibrada mesmo na rotina mais corrida. Com modelo prático de cardápio semanal!'
 date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/pt/preparacao-refeicoes'
 aliases:
     - /pt/meal-prep
 seo:
-    title:
-    description:
+    title: 'Meal Prep: refeições saudáveis & econômicas'
+    description: 'Organize, cozinhe e guarde refeições – economize tempo e dinheiro com um plano semanal saudável e saboroso!'
 categories:
     - 'best-practice'
 tags:

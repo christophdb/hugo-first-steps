@@ -6,9 +6,13 @@ categories:
     - 'best-practice'
 tags:
     - 'Finanzas'
-url: '/es/administracion-edificios'
+url: '/es/gestion-inmuebles'
 aliases:
     - /es/hausverwaltung
+    - '/es/administracion-edificios'
+seo:
+    title: 'Gestión de inmuebles: eficiencia y control digital'
+    description: 'Organiza tus propiedades, pagos y documentos con software de administración y gestiona todo desde un solo lugar.'
 color: '#75b389'
 ---
 

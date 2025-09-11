@@ -1,19 +1,21 @@
 ---
 title: 'Crear plan editorial | plan de contenidos: Consejos y trucos con plantilla'
+description: 'Multiplica el alcance y la eficacia de tus contenidos. Estructura tus publicaciones, define responsables y tiempos, y mide el éxito cada mes con nuestra guía, ejemplos y herramientas prácticas gratis.'
 date: 2022-05-27
 lastmod: '2025-01-17'
 author: 'rdb'
-url: '/es/calendario-editorial-plan-contenidos'
+url: '/es/calendario-editorial'
 aliases:
     - /es/redaktionsplan-contentplan
+    - '/es/calendario-editorial-plan-contenidos'
 color: '#8ddb8c'
 categories:
     - 'best-practice'
 tags:
     - 'Planificación de contenidos'
 seo:
-    title:
-    description:
+    title: 'Calendario editorial: guía y plantilla de content plan'
+    description: 'Aprende a organizar tu marketing: plantilla de redacción, pasos y checklist para tu content plan ideal.'
 ---
 
 Hoy en día, la presencia en Internet es crucial para el éxito de su empresa. Debe publicar contenidos con regularidad a través de las redes sociales, su sitio web, un blog o formatos como un podcast. Puede tratarse de artículos, vídeos explicativos o infografías, por ejemplo. Un plan de contenidos, también conocido como plan editorial, te ayuda a **planificar y crear todos tus contenidos**.

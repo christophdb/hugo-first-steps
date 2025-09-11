@@ -1,5 +1,6 @@
 ---
 title: 'La lettre de motivation : Comment convaincre tout recruteur'
+description: 'Les secrets pour rédiger une lettre de motivation convaincante : exemples, formules adaptées, conseils personnalisés et checklist pour obtenir plus d’entretiens grâce à votre candidature.'
 date: 2024-04-22
 lastmod: '2024-04-22'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/fr/lettre-motivation'
 aliases:
     - /fr/bewerbungsschreiben
 seo:
-    title:
-    description:
+    title: 'Lettre de motivation : conseils & modèle de réussite'
+    description: 'Guide, plan et astuces pour réussir sa lettre de motivation : impressionnez chaque recruteur avec votre dossier.'
 categories:
     - 'best-practice'
 tags:

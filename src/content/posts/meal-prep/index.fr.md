@@ -1,5 +1,6 @@
 ---
 title: "Meal Prep - cuisiner à l'avance des repas sains et bon marché + plan hebdomadaire"
+description: 'Découvrez comment planifier les repas à l’avance : recettes, conservations, astuces anti-gaspillage et plans de menus pratiques. Gagnez du temps, gérez budget et nutrition… Le meal prep rend votre alimentation plus simple!'
 date: 2023-11-23
 lastmod: '2024-02-13'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/fr/preparation-repas'
 aliases:
     - /fr/meal-prep
 seo:
-    title:
-    description:
+    title: 'Meal Prep: repas sains, faciles & économiques'
+    description: 'Préparez et stockez vos repas : gagnez du temps, mangez sain et maîtrisez votre budget. Astuces et planning inclus!'
 categories:
     - 'best-practice'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Património digital: como gerir os seus dados de acesso'
+description: 'Veja como proteger e organizar todos seus acessos. Orientações para gerenciar contas digitais, nomear um responsável e evitar transtornos aos familiares após o falecimento.'
 date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
@@ -7,8 +8,8 @@ url: '/pt/legado-digital'
 aliases:
     - /pt/digitaler-nachlass
 seo:
-    title:
-    description:
+    title: 'Legado digital: senhas e contas sob controle'
+    description: 'Saiba como criar seu legado digital. Organize senhas, contas online e facilite o trabalho aos seus herdeiros.'
 categories:
     - 'best-practice'
 tags:

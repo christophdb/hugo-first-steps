@@ -1,5 +1,6 @@
 ---
 title: 'Carta de presentación: Cómo convencer a todos los reclutadores'
+description: 'Da el primer paso hacia tu empleo ideal con un modelo claro de carta de presentación: estructura ganadora, frases útiles y consejos para destacar y lograr la entrevista de tus sueños en cualquier sector.'
 date: 2024-04-22
 lastmod: '2024-04-22'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/es/carta-presentacion'
 aliases:
     - /es/bewerbungsschreiben
 seo:
-    title:
-    description:
+    title: 'Carta de presentación: ejemplos y claves para triunfar'
+    description: 'Descubre cómo redactar una carta de presentación perfecta. Estructura, trucos y puntos clave para convencer a RRHH.'
 categories:
     - 'best-practice'
 tags:

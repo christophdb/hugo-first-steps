@@ -11,8 +11,8 @@ categories:
 tags:
     - 'Contentplanung'
 seo:
-    title: 'Redaktionsplan | Contentplan erstellen: Tipps & Tricks mit Vorlage'
-    description: 'Steigern Sie die Effizienz Ihrer Inhaltsproduktion mit einem Contentplan. Erfahren Sie, wie Sie Ihren Redaktionsplan optimal nutzen können.'
+    title: 'Redaktionsplan & Contentplan: Tipps, Vorlage & Checkliste'
+    description: 'Redaktionsplan effizient erstellen – mit Checkliste, Vorlage & Experten-Tipps für erfolgreichen Content.'
 ---
 
 In der heutigen Zeit ist eine Online-Präsenz entscheidend für den Erfolg Ihres Unternehmens. Über Social Media, Ihre Webseite, einen Blog oder Formate wie einen Podcast gilt es, regelmäßig Inhalte zu veröffentlichen. Das können zum Beispiel Artikel, Erklärvideos oder Infografiken sein. Ein Contentplan, auch Redaktionsplan genannt, hilft Ihnen bei der **Planung und Erstellung all Ihrer Inhalte**.

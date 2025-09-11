@@ -6,12 +6,13 @@ categories:
     - 'best-practice'
 tags:
     - 'Finances'
-url: '/fr/gestion-immeuble'
+url: '/fr/gestion-immobiliere'
 aliases:
     - /fr/hausverwaltung
+    - '/fr/gestion-immeuble'
 seo:
-    title:
-    description:
+    title: 'Gestion immobilière : logiciel et astuces pratiques'
+    description: 'Pilotez vos biens immobiliers, paiements et documents avec un logiciel intuitif et restez maître de vos locations.'
 color: '#75b389'   
 ---
 

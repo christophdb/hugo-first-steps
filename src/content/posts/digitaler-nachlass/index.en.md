@@ -1,5 +1,6 @@
 ---
 title: 'Digital estate: How you can manage your access data'
+description: 'What happens to your accounts and cloud data after you’re gone? Find out how to document passwords, appoint a digital executor and prepare your digital legacy for peace of mind for your family and heirs.'
 date: 2023-10-31
 lastmod: '2023-10-31'
 author: 'kgr'
@@ -7,8 +8,8 @@ url: '/digital-legacy'
 aliases:
     - /digitaler-nachlass
 seo:
-    title:
-    description:
+    title: 'Digital Legacy: Manage Online Accounts Securely'
+    description: 'Ensure your digital assets are organized—manage passwords and legacy contacts for your loved ones and estate.'
 categories:
     - 'best-practice'
 tags:

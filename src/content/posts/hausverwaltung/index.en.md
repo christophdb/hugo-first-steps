@@ -10,8 +10,8 @@ url: '/property-management-house'
 aliases:
     - '/hausverwaltung/'
 seo:
-    title:
-    description:
+    title: 'Property Management: Digital Solutions & Tips'
+    description: 'Manage rental properties, payments and maintenance with digital tools. All info, documents and tenants at a glance.'
 color: '#75b389'     
 ---
 

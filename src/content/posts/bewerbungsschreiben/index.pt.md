@@ -1,5 +1,6 @@
 ---
 title: 'Carta de apresentação: Como convencer todos os recrutadores'
+description: 'Dicas práticas e exemplos para criar cartas de apresentação que realmente convencem recrutadores em qualquer área – confira guia completo de estrutura, linguagem e diferenciais competitivos para sua carreira.'
 date: 2024-04-22
 lastmod: '2024-04-22'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/pt/carta-apresentacao'
 aliases:
     - /pt/bewerbungsschreiben
 seo:
-    title:
-    description:
+    title: 'Carta de apresentação: como se destacar nos processos'
+    description: 'Veja como estruturar, escrever e personalizar a carta de apresentação ideal para conquistar vagas e entrevistas.'
 categories:
     - 'best-practice'
 tags:

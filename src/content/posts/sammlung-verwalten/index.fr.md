@@ -1,5 +1,6 @@
 ---
 title: 'Gérer la collection avec des outils numériques'
+description: 'Qu’il s’agisse d’objets, de livres ou de cartes, adoptez l’un des meilleurs logiciels pour organiser, inventorier, comparer et protéger vos collections : comparatif complet d’Evernote à SeaTable pour tous les passionnés.'
 date: 2022-07-01
 lastmod: '2024-03-21'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/fr/gerer-collection'
 aliases:
     - /fr/sammlung-verwalten
 seo:
-    title:
-    description:
+    title: 'Gérer ses collections : outils & logiciels'
+    description: 'Outils et applications pour gérer des collections physiques ou numériques facilement et efficacement.'
 categories:
     - 'best-practice'
 tags:
