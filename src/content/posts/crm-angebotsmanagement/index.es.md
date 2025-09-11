@@ -12,7 +12,7 @@ aliases:
     - /es/crm-angebotsmanagement
 color: '#fdce05'
 seo:
-    title: 'CRM y gestión de ofertas: procesos eficientes
+    title: 'CRM y gestión de ofertas: procesos eficientes'
     description: 'Descubre cómo el CRM mejora la gestión de clientes y agiliza la creación de propuestas de venta personalizadas.'
 ---
 
