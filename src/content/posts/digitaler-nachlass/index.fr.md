@@ -1,21 +1,21 @@
 ---
-title: "Héritage numérique : comment gérer vos données d'accès'
+title: 'Héritage numérique : comment gérer vos données d accès'
 description: 'Savez-vous ce qui arrive à vos données en ligne après votre décès ? Mode d’emploi : faire la liste des identifiants, choisir un responsable et gérer de manière sécurisée l’ensemble de vos actifs numériques pour vos héritiers.'
 date: 2023-10-31
 lastmod: '2023-10-31'
-author: 'kgr'
 url: '/fr/heritage-numerique'
 aliases:
-    - /fr/digitaler-nachlass
+    - '/fr/digitaler-nachlass'
 seo:
     title: 'Héritage numérique : bien gérer ses accès internet'
     description: 'Préparez votre succession numérique. Gérez mots de passe et comptes pour simplifier la tâche à vos proches.'
+
+color: '#b8adcb'
 categories:
-    - 'best-practice'
+    - 'Meilleures pratiques'
 tags:
     - 'Sécurité informatique'
     - 'Vie Quotidienne'
-color: '#b8adcb'
 ---
 
 À l'ère du numérique, notre **vie en ligne** prend de plus en plus d'importance : nous communiquons par e-mails, messageries et médias sociaux, nous stockons des fichiers et des photos importants dans le cloud, nous effectuons des opérations bancaires en ligne et nous laissons d'innombrables traces sur Internet. Mais qu'advient-il de toutes ces données et de tous ces comptes si l'on décède un jour ? Mot-clé : l'**héritage numérique**.
