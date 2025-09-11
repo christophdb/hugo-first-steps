@@ -1,6 +1,6 @@
 ---
 title: 'How to: Wie Sie einen Maßnahmenplan für das ganze Jahr erstellen'
-description: ''
+description: 'So erstellen Sie einen effizienten Maßnahmenplan für das ganze Jahr: Nutzen Sie übersichtliche Kalender, Verantwortlichkeiten, Statusanzeigen & verknüpfen Sie Jahresziele mit Aktionen. Inklusive kostenloser Vorlage & Anleitung.'
 date: 2021-05-04
 categories:
     - 'best-practice'
@@ -10,8 +10,8 @@ tags:
 url: '/de/how-to-massnahmenplan'
 color: '#6aaaea'
 seo:
-    title: ''
-    description: ''
+    title: 'Maßnahmenplan erstellen: Jahresplanung & Vorlage'
+    description: 'Maßnahmen clever planen: Mit Jahresübersicht, Vorlage & Tipps zielorientierte Maßnahmen im Unternehmen umsetzen.'
 ---
 
 Damit Unternehmen wachsen und sich weiterentwickeln, setzen sie sich stetig neue Ziele und arbeiten mit allen Ressourcen auf diese hin. Dabei ist der Maßnahmenplan eine bewährte Methode, um diese Ziele zu erreichen – etwa im [Projektmanagement]({{< relref "pages/industry-solutions/project-management" >}}), im Bereich Finanzen & Controlling sowie im [Marketing]({{< relref "pages/industry-solutions/marketing" >}}).

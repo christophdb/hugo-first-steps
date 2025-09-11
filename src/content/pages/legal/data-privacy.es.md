@@ -1,6 +1,9 @@
 ---
 title: 'Proteccion-de-datos'
 description: ''
+seo:
+    title: 'Protección de datos y RGPD: toda la información'
+    description: '¿Cómo protege SeaTable tus datos? Seguridad, cumplimiento RGPD y centros de datos en Alemania para máxima privacidad.'
 date: 2022-11-03
 type: 'legal'
 url: '/es/proteccion-de-datos'

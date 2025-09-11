@@ -1,6 +1,9 @@
 ---
 title: 'Privacidade'
 description: ''
+seo:
+    title: 'Proteção de dados & LGPD : política SeaTable'
+    description: 'Saiba como a SeaTable garante seu direito à privacidade : servidores alemães, LGPD e proteção de dados eficiente.'
 date: 2022-11-03
 type: 'legal'
 url: '/pt/privacidade'

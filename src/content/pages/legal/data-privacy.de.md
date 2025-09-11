@@ -1,6 +1,9 @@
 ---
 title: 'Datenschutz'
 description: ''
+seo:
+    title: 'Datenschutz & DSGVO bei SeaTable'
+    description: 'Alles zum Datenschutz bei SeaTable : DSGVO, Speicherung in Deutschland für Ihre Datensicherheit.'
 date: 2022-11-03
 type: 'legal'
 url: '/de/datenschutz'

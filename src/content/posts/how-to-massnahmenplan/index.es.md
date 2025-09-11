@@ -1,5 +1,6 @@
 ---
 title: 'Cómo hacerlo: Cómo crear un plan de acción para todo el año - SeaTable'
+description: 'Descubre cómo planificar y monitorizar acciones y objetivos: organiza prioridades, establece responsables y compara resultados año a año. Descarga tu calendario y plantilla para gestionar proyectos de principio a fin.'
 date: 2021-05-04
 categories:
     - 'best-practice'
@@ -11,8 +12,8 @@ aliases:
     - /es/how-to-massnahmenplan
 color: '#6aaaea'
 seo:
-    title:
-    description:
+    title: 'Plan de acciones anual: pasos & plantilla'
+    description: 'Gestiona tu empresa con un plan de acciones anual: guía, calendario y plantilla editable para tu organización.'
 ---
 
 Para que las empresas crezcan y se desarrollen, se fijan constantemente nuevos objetivos y trabajan para alcanzarlos con todos sus recursos. El plan de acción es un método de probada eficacia para alcanzar estos objetivos, por ejemplo en la [gestión de proyectos]({{< relref "pages/industry-solutions/project-management" >}}), las finanzas y el control y el [marketing]({{< relref "pages/industry-solutions/marketing" >}}).

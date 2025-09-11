@@ -1,5 +1,6 @@
 ---
 title: 'How to: How to create an action plan for the whole year - SeaTable'
+description: 'Learn how to develop and manage an annual or project action plan for your team: track tasks, deadlines, owners and progress, using a free step-by-step template and actionable best-practice tips for success.'
 date: 2021-05-04
 lastmod: '2023-07-11'
 coverImage: 'pexels-breakingpic-3299.jpg'
@@ -13,8 +14,8 @@ aliases:
     - /how-to-massnahmenplan
 color: '#6aaaea'
 seo:
-    title:
-    description:
+    title: 'Annual Action Plan: How to Create & Template'
+    description: 'Create an annual action plan with structure, timeline and free template—achieve your business goals effectively.'
 ---
 
 In order for companies to grow and develop, they constantly set themselves new goals and work towards them with all their resources. The action plan is a proven method for achieving these goals - for example in [project management]({{< relref "pages/industry-solutions/project-management" >}}), finance & controlling and [marketing]({{< relref "pages/industry-solutions/marketing" >}}).

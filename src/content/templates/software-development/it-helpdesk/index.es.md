@@ -1,13 +1,13 @@
 ---
 title: 'IT Helpdesk'
-description: ''
+description: 'Administra tickets IT, asigna responsables, sigue el progreso, automatiza feedback y optimiza tus procesos con estadísticas y base de conocimiento. Plantilla SeaTable fácil, segura y adaptada a tus necesidades.'
 date: '2025-05-02'
 url: '/es/plantilla/it-helpdesk'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla mesa de ayuda IT: tickets unificados'
+    description: 'Centraliza y gestiona tickets, FAQs y tareas del helpdesk IT: asignaciones, status y comentarios en un solo lugar.'
 template: '79de1c79b29445c280ad'
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: 'Privacy Policy'
 description: ''
+seo:
+    title: 'Privacy & Data Security: Your Rights Online'
+    description: 'Learn how SeaTable protects your data : GDPR compliance, secure hosting & comprehensive privacy practices.'
 date: 2022-11-03
 type: 'legal'
 url: '/data-privacy'

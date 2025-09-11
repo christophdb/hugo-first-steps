@@ -1,6 +1,6 @@
 ---
 title: 'Служба ИТ-помощи'
-description: ''
+description: 'Фиксируйте обращения, назначайте задачи, отслеживайте стадии, собирайте отзывы и стройте статистику. Всё для эффективной работы IT-поддержки: Kanban, база знаний и cloud-решение для вашей команды.'
 date: '2025-05-02'
 url: '/ru/shablon/sluzhby-podderzhki'
 aliases:
@@ -8,8 +8,8 @@ aliases:
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'IT-helpdesk: тикеты и база знаний в одном месте'
+    description: 'Централизованно управляйте тикетами, ответственными лицами и базой знаний IT с помощью шаблона SeaTable.'
 template: '79de1c79b29445c280ad'
 ---
 

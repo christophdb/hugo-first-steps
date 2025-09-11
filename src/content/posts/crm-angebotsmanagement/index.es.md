@@ -1,5 +1,6 @@
 ---
 title: 'CRM: Desde el registro del cliente hasta la oferta - SeaTable'
+description: 'Organiza clientes, rastrea oportunidades y crea ofertas a medida en minutos. Un sistema CRM conecta ventas, marketing y soporte para atraer, convertir y fidelizar mejor.'
 date: 2021-07-22
 categories:
     - 'best-practice'
@@ -11,8 +12,8 @@ aliases:
     - /es/crm-angebotsmanagement
 color: '#fdce05'
 seo:
-    title:
-    description:
+    title: 'CRM y gestión de ofertas: procesos eficientes
+    description: 'Descubre cómo el CRM mejora la gestión de clientes y agiliza la creación de propuestas de venta personalizadas.'
 ---
 
 Cualquier empresa que quiera registrar y hacer un seguimiento más eficaz de sus clientes no puede prescindir de una buena gestión de las relaciones con los clientes (CRM) o, más concretamente, de un sistema CRM.

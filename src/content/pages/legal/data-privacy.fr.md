@@ -1,6 +1,9 @@
 ---
 title: 'Protection de données'
 description: ''
+seo:
+    title: 'Protection des données & RGPD chez SeaTable'
+    description: 'Tout sur la confidentialité : conformité RGPD, stockage sécurisé & vos droits numériques expliqués clairement.'
 date: 2022-11-03
 type: 'legal'
 url: '/fr/protection-de-donnees'

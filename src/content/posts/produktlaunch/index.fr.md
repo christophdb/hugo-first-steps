@@ -1,5 +1,6 @@
 ---
 title: 'Lancement de produit - fonctionnement garanti | SeaTable'
+description: 'Toutes les clés pour réussir votre lancement : segmentation, feuille de route, responsabilités. Notre modèle permet de suivre l’évolution de chaque action pour une introduction sans accroc. Modèle à télécharger.'
 date: 2020-09-24
 categories:
     - 'best-practice'
@@ -10,8 +11,8 @@ aliases:
     - /fr/produktlaunch
 color: '#d21d0d'
 seo:
-    title:
-    description:
+    title: 'Lancement produit : guide, checklist & modèle'
+    description: 'Maîtrisez chaque étape du lancement : planification, coordination et checklist pour réussir votre produit.'
 ---
 
 Une fois le processus de développement du produit terminé avec succès, plus rien ne s'oppose au lancement du produit.

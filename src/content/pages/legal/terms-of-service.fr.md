@@ -1,6 +1,9 @@
 ---
 title: "Conditions d'utilisation"
 description: ''
+seo:
+    title: 'Conditions d’utilisation SeaTable : obligations'
+    description: 'Dernières conditions d’utilisation SeaTable : vos droits, vos responsabilités et toutes les informations contractuelles.'
 date: 2022-04-14
 version: 1.0.1
 type: 'legal'
