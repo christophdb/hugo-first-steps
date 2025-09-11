@@ -12,7 +12,7 @@ seo:
 
 color: '#b8adcb'
 categories:
-    - 'Meilleures pratiques'
+    - 'best-practice'
 tags:
     - 'Sécurité informatique'
     - 'Vie Quotidienne'
