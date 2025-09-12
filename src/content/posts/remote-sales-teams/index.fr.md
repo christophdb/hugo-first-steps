@@ -1,5 +1,6 @@
 ---
 title: '6 conseils pour améliorer la productivité de votre équipe à distance - SeaTable'
+description: 'Le management d’une équipe à distance demande de nouveaux réflexes. Grâce à ces 6 conseils, optimisez la productivité, renforcez la cohésion et exploitez toutes les possibilités du travail digital et du stand-up meeting quotidien.'
 date: 2021-10-07
 categories:
     - 'best-practice'
@@ -11,8 +12,8 @@ aliases:
     - /fr/remote-sales-teams
 color: '#4b9480'
 seo:
-    title:
-    description:
+    title: '6 conseils pour plus de productivité en équipe à distance'
+    description: 'Restez productifs à distance : méthodes, outils et team-buildings pour des équipes connectées et motivées.'
 ---
 
 La plupart des entreprises prennent des mesures pour permettre le travail à domicile et organisent, outre des possibilités de télétravail, des séminaires en ligne ou d'autres événements pour leurs collaborateurs. Mais : vous commencez à regretter même le collègue le plus agaçant et la discussion autour de la machine à café vous manque aussi. Avec une équipe travaillant presque exclusivement à distance, il est parfois difficile de rester à jour et il n'est pas rare que la [productivité en pâtisse]({{< relref "posts/homeoffice-tipps" >}}) également. Heureusement, il existe une méthode qui pourrait vous aider à retrouver votre productivité à distance. Avec des stand-ups quotidiens, vous améliorez la productivité de votre équipe en un rien de temps.

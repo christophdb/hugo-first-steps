@@ -1,6 +1,6 @@
 ---
 title: '6 Tipps zu mehr Produktivität in Ihrem Remote-Team'
-description: ''
+description: 'Remote-Arbeit birgt neue Herausforderungen für die Produktivität. Mit täglichen Stand-ups, klarer Kommunikation und den richtigen digitalen Tools bleibt Ihr Team motiviert und leistungsfähig – für nachhaltige Erfolge, auch im Homeoffice.'
 date: 2021-10-07
 categories:
     - 'best-practice'
@@ -10,8 +10,8 @@ tags:
 url: '/de/remote-sales-teams'
 color: '#4b9480'
 seo:
-    title: ''
-    description: ''
+    title: '6 Tipps für mehr Produktivität im Remote-Team'
+    description: 'So bleibt Ihr Remote-Team produktiv – mit Stand-ups, Tools und Teamgeist gelingt Zusammenarbeit online.'
 ---
 
 Die meisten Unternehmen ergreifen Maßnahmen, die Arbeit von zu Hause aus zu ermöglichen und organisieren neben Homeoffice Möglichkeiten auch Online-Seminare oder sonstige Veranstaltungen für Ihre Mitarbeiter. Doch: Langsam vermissen Sie selbst den nervigsten Kollegen und der Plausch an der Kaffeemaschine fehlt Ihnen auch. Mit einem fast ausschließlich remote arbeitenden Team ist es manchmal schwierig, up-to-date zu bleiben und die [Produktivität leidet]({{< relref "posts/homeoffice-tipps" >}}) auch nicht selten darunter. Zum Glück gibt es da eine Methode, die Ihnen helfen könnte, Ihre Produktivität remote zurückzugewinnen. Mit täglichen Stand-ups verbessern Sie die Produktivität Ihres Teams im Handumdrehen.

@@ -1,14 +1,14 @@
 ---
 title: 'Abastecer-se de material de emergência: O que deve ter sempre em casa'
+description: 'Pane elétrica, abastecimento limitado? Tenha sempre água, comida, remédios e produtos de higiene prontos para a família. Veja quais itens incluir, dicas para armazenamento seguro e como girar seu estoque para evitar desperdícios.'
 date: 2023-09-20
 lastmod: '2023-09-20'
-author: 'lsc'
 url: '/pt/criar-kit-emergencia'
 aliases:
     - /pt/notvorrat-anlegen
 seo:
-    title:
-    description:
+    title: 'Estoque de emergência: o que ter sempre em casa'
+    description: 'Veja como montar seu estoque de emergência: alimentos, água, remédios e higiene.'
 categories:
     - 'best-practice'
 tags:

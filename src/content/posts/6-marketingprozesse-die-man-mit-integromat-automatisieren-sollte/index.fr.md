@@ -1,5 +1,6 @@
 ---
 title: '6 processus marketing à automatiser avec Integromat - SeaTable'
+description: 'Automatisez les tâches répétitives: découvrez 6 processus marketing essentiels à automatiser avec Integromat. Du suivi clients à la diffusion de contenus, ces workflows pratiques vous font gagner en efficacité et clarté.'
 date: 2021-09-24
 categories:
     - 'best-practice'
@@ -12,8 +13,8 @@ aliases:
     - '/fr/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte'
 color: '#ede1a3'
 seo:
-    title:
-    description:
+    title: '6 processus marketing à automatiser avec Integromat'
+    description: 'Optimisez vos campagnes : 6 examples d’automatisation marketing avec Integromat et SeaTable.'
 ---
 
 Le succès du marketing est souvent le résultat d'un travail cohérent et constant avec les clients futurs et actuels. Le département marketing typique ne s'occupe pas d'un processus marketing central, mais de nombreux petits processus interdépendants qui visent à susciter l'intérêt des clients potentiels, à améliorer l'expérience client ou à établir un échange régulier. C'est précisément en raison de cette fragmentation et de ces tâches répétitives qu'il est judicieux d'automatiser tous les processus marketing qui peuvent l'être. Vous gagnez ainsi du temps, que vous pouvez consacrer à votre travail créatif. Car c'est là qu'a lieu la véritable création de valeur du marketing et ce travail ne pourra que difficilement être automatisé à l'avenir.

@@ -1,14 +1,14 @@
 ---
 title: "Faire des réserves d'urgence : Ce que vous devriez toujours avoir chez vous"
+description: 'Coupure de courant, difficultés d’achats ? Constituez votre stock d’urgence : eau, alimentation, médicaments, hygiène. Découvrez nos listes complètes et conseils simples pour tout prévoir sans gaspiller ni oublier l’essentiel.'
 date: 2023-09-20
 lastmod: '2023-09-20'
-author: 'lsc'
 url: '/fr/constituer-kit-survie'
 aliases:
     - /fr/notvorrat-anlegen
 seo:
-    title:
-    description:
+    title: 'Stock d’urgence : ce qu’il faut toujours avoir chez soi'
+    description: 'Mettez votre foyer à l’abri avec un stock d’urgence : checklist et organisation.'
 categories:
     - 'best-practice'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "AWS : le cloud de SeaTable se sépare d'Amazon et devient plus européen - SeaTable"
+description: 'SeaTable Cloud passe d’AWS à Exoscale : données stockées seulement en Europe, conformité RGPD renforcée, nouvelles garanties pour les entreprises et utilisateurs – découvrez tous les avantages de cette migration décisive.'
 date: 2021-05-20
 lastmod: '2023-07-11'
 author: 'cdb'
@@ -10,8 +11,8 @@ color: 'e86569'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable Cloud devient plus européenne : sécurité & confidentialité'
+    description: 'SeaTable choisit une infrastructure européenne pour plus de confidentialité et conformité RGPD.'
 ---
 
 Avec SeaTable, vous gérez et organisez des projets, des clients, des actifs, des idées et des résultats de travail de toutes sortes. Vous confiez ainsi à SeaTable les données centrales et les plus importantes de votre entreprise ou de votre équipe. Le fait que nous soyons le seul fournisseur de solutions de tableurs en ligne à offrir à nos clients la possibilité d'exploiter leur propre [serveur SeaTable]({{< relref "pages/product/seatable-server" >}}) personnel montre que la protection de vos données est très importante pour nous. Ce n'est que de cette manière que vous conservez un contrôle total et une souveraineté absolue sur les données. Mais nous fixons également les normes les plus élevées en matière de sécurité de vos données avec nos clients du cloud.

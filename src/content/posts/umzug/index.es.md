@@ -1,14 +1,14 @@
 ---
 title: 'Planifique su mudanza con una lista de comprobación: Cómo mudarse sin estrés'
+description: '¿Planeando una mudanza? Una checklist detallada y una buena organización evitan sorpresas. Esta guía muestra cómo mudarse paso a paso, ahorrar dinero, y todas las tareas legales, fiscales y prácticas que no debes olvidar.'
 date: 2023-10-30
 lastmod: '2023-10-30'
-author: 'lsc'
 url: '/es/mudanza'
 aliases:
     - /es/umzug
 seo:
-    title:
-    description:
+    title: 'Mudanza: planificación y checklist para mudarte sin estrés'
+    description: 'Cómo organizar una mudanza sin estrés – las mejores listas y consejos para cada paso.'
 categories:
     - 'best-practice'
 tags:

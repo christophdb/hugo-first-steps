@@ -1,5 +1,6 @@
 ---
 title: '6 Marketingprozesse, die man mit Integromat automatisieren sollte - SeaTable'
+description: 'Automatisieren Sie zeitaufwändige Aufgaben und Workflows im Marketing – von Lead-Management über Umfragen bis Blogpost-Checklisten. Sechs Praxisbeispiele zeigen, wie Integromat und SeaTable Ihre Effizienz spürbar steigern.'
 date: 2021-09-24
 categories:
     - 'best-practice'
@@ -12,8 +13,8 @@ aliases:
     - '/de/6-marketingprozesse-die-man-mit-integromat-automatisieren-sollte'
 color: '#ede1a3'
 seo:
-    title:
-    description:
+    title: '6 Marketingprozesse mit Integromat automatisieren – Beispiele & Tipps'
+    description: 'Erfahren Sie, wie Sie Ihre Marketingprozesse mit Integromat effizient automatisieren und Zeit sparen.'
 ---
 
 Erfolg im Marketing ist häufig das Ergebnis konsequenter und beständiger Arbeit im Umgang mit zukünftigen und aktuellen Kunden. Die typische Marketingabteilung kümmert sich nicht um den einen zentralen Marketingprozess, sondern viele kleine ineinandergreifende Prozesse, die darauf abzielen, das Interesse bei möglichen Kunden zu wecken, die Kundenerfahrung zu steigern oder in einen regelmäßigen Austausch zu kommen. Gerade wegen dieser Kleinteiligkeit und der sich ständig wiederholenden Aufgaben ergibt es Sinn, alle Marketingprozesse zu automatisieren, die sich automatisieren lassen. So sparen Sie Zeit, in der Sie sich auf Ihre kreative Arbeit konzentrieren können. Denn hier findet die tatsächliche Wertschöpfung des Marketings statt und diese Arbeit wird sich auch in Zukunft nur schwer automatisieren lassen.
