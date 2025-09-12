@@ -18,9 +18,11 @@
                     <div class="sm:col-span-2">
                         <label class="text-md block font-bold">Anliegen{{/* T "contact.first_name" */}}</label>
                         <div class="mt-2.5">
-                            <label><input type="radio" name="type" value="support" x-model="type" class="mx-2.5" />Ich brauche Support</label><br />
-                            <label><input type="radio" name="type" value="sales" x-model="type" class="mx-2.5" />Ich wünsche ein Angebot</label><br />
-                            <label><input type="radio" name="type" value="question" x-model="type" class="mx-2.5" />Ich habe eine Frage und möchte Kontakt aufnehmen</label>
+                            <label><input type="radio" name="type" value="support" x-model="type" class="mx-2.5" required />Ich brauche Support</label><br />
+                            <label><input type="radio" name="type" value="sales" x-model="type" class="mx-2.5" required />Ich wünsche ein Angebot</label><br />
+                            <label
+                                ><input type="radio" name="type" value="question" x-model="type" class="mx-2.5" required />Ich habe eine Frage und möchte Kontakt aufnehmen</label
+                            >
                         </div>
                     </div>
 
@@ -90,108 +92,106 @@
                         </div>
                     </div>
 
-                    <div x-show="type == 'sales'" class="">
-                        <div>
-                            <label for="org_type" class="block text-sm/6 font-semibold text-gray-900">Organisationstyp</label>
-                            <div class="mt-2.5">
-                                <select id="org_type" x-model="orgType">
-                                    <option value="business">Unternehmen (for-profit)</option>
-                                    <option value="education">Bildung (non-profit)</option>
-                                    <option value="research">Forschung (non-profit)</option>
-                                    <option value="public-sector">Öffentlicher Sektor (non-profit)</option>
-                                    <option value="other">Anderer Organisationstyp (non-profit)</option>
-                                </select>
-                            </div>
+                    {{/* Sales */}}
+                    <div x-show="type == 'sales'" class="sm:col-span-2">
+                        <label for="org_type" class="block text-sm/6 font-semibold text-gray-900">Organisationstyp</label>
+                        <div class="mt-2.5">
+                            <select id="org_type" x-model="orgType">
+                                <option value="business">Unternehmen (for-profit)</option>
+                                <option value="education">Bildung (non-profit)</option>
+                                <option value="research">Forschung (non-profit)</option>
+                                <option value="public-sector">Öffentlicher Sektor (non-profit)</option>
+                                <option value="other">Anderer Organisationstyp (non-profit)</option>
+                            </select>
                         </div>
-                        <div class="sm:col-span-2">
-                            <label for="phone" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.phone" }} Telefonnummer (optional)</label>
-                            <div class="mt-2.5">
-                                <input
-                                    type="tel"
-                                    name="phone"
-                                    id="phone"
-                                    x-model="phone"
-                                    class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
-                                <p>Eine Telefonnummer ermöglicht uns besonders schnelle Rückfragen.</p>
-                            </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        <label for="phone" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.phone" }} Telefonnummer (optional)</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="tel"
+                                name="phone"
+                                id="phone"
+                                x-model="phone"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
+                            <p>Eine Telefonnummer ermöglicht uns besonders schnelle Rückfragen.</p>
                         </div>
-                        <div class="sm:col-span-2">
-                            <label for="url" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.url" }} URL (optional)</label>
-                            <div class="mt-2.5">
-                                <input
-                                    type="text"
-                                    name="url"
-                                    id="url"
-                                    x-model="url"
-                                    class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
-                            </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        <label for="url" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.url" }} URL (optional)</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="text"
+                                name="url"
+                                id="url"
+                                x-model="url"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
-                        <div class="sm:col-span-2">
-                            <label for="address" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.url" }} Adresse (optional)</label>
-                            <div class="mt-2.5">
-                                <input
-                                    type="text"
-                                    name="address"
-                                    id="address"
-                                    x-model="address"
-                                    class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
-                            </div>
+                    </div>
+                    <div x-show="type == 'sales'" class="sm:col-span-2">
+                        <label for="address" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.url" }} Adresse (optional)</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="text"
+                                name="address"
+                                id="address"
+                                x-model="address"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
-                        <div class="sm:col-span-2">
-                            <label for="country" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.country" }} Land (optional)</label>
-                            <div class="mt-2.5">
-                                <input
-                                    type="text"
-                                    name="country"
-                                    id="country"
-                                    x-model="country"
-                                    class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
-                            </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        <label for="country" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.country" }} Land (optional)</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="text"
+                                name="country"
+                                id="country"
+                                x-model="country"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
-                        <div class="sm:col-span-2">
-                            <label for="vat_id" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.vat_id" }} VAT-ID (optional)</label>
-                            <div class="mt-2.5">
-                                <input
-                                    type="text"
-                                    name="vat_id"
-                                    id="vat_id"
-                                    x-model="vatId"
-                                    class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
-                            </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        <label for="vat_id" class="block text-sm/6 font-semibold text-gray-900">{{ T "contact.vat_id" }} VAT-ID (optional)</label>
+                        <div class="mt-2.5">
+                            <input
+                                type="text"
+                                name="vat_id"
+                                id="vat_id"
+                                x-model="vatId"
+                                class="block w-full rounded-md bg-gray-50 px-3.5 py-3 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600" />
                         </div>
-                        <div class="sm:col-span-2">
-                            {{/* FIXME: Field is required, at least one must be filled out */}}
-                            <label class="block text-sm/6 font-semibold text-gray-900">Produkte (Mehrfachauswahl möglich)</label>
-                            <div class="mt-2.5">
-                                <label><input type="checkbox" name="type" value="cloud" x-model="products" class="mx-2.5" />SeaTable Cloud</label><br />
-                                <label><input type="checkbox" name="type" value="dedicated" x-model="products" class="mx-2.5" />SeaTable Dedicated</label><br />
-                                <label><input type="checkbox" name="type" value="server" x-model="products" class="mx-2.5" />SeaTable Server</label>
-                            </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        {{/* FIXME: Field is required, at least one must be filled out */}}
+                        <label class="block text-sm/6 font-semibold text-gray-900">Produkte (Mehrfachauswahl möglich)</label>
+                        <div class="mt-2.5">
+                            <label><input type="checkbox" name="type" value="cloud" x-model="products" class="mx-2.5" />SeaTable Cloud</label><br />
+                            <label><input type="checkbox" name="type" value="dedicated" x-model="products" class="mx-2.5" />SeaTable Dedicated</label><br />
+                            <label><input type="checkbox" name="type" value="server" x-model="products" class="mx-2.5" />SeaTable Server</label>
                         </div>
-                        <div>
-                            <label for="preferredLanguage" class="block text-sm/6 font-semibold text-gray-900">Bevorzugte Sprache</label>
-                            <div class="mt-2.5">
-                                <select id="preferredLanguage" x-model="preferredLanguage">
-                                    <option value="de">Deutsch</option>
-                                    <option value="en">Englisch</option>
-                                    <option value="fr">Französisch</option>
-                                    {{/* TODO: Other options? */}}
-                                </select>
-                            </div>
+                    </div>
+                    <div x-show="type == 'sales'">
+                        <label for="preferredLanguage" class="block text-sm/6 font-semibold text-gray-900">Bevorzugte Sprache</label>
+                        <div class="mt-2.5">
+                            <select id="preferredLanguage" x-model="preferredLanguage">
+                                <option value="de">Deutsch</option>
+                                <option value="en">Englisch</option>
+                                <option value="fr">Französisch</option>
+                                {{/* TODO: Other options? */}}
+                            </select>
                         </div>
                     </div>
 
+                    {{/* Question */}}
                     <div x-show="type == 'question'" class="sm:col-span-2">
-                        <div>
-                            <label for="reason" class="block text-sm/6 font-semibold text-gray-900">Grund Ihrer Anfrage</label>
-                            <div class="mt-2.5">
-                                <select id="reason" x-model="reason">
-                                    <option value="bug-report">Fehlerbericht</option>
-                                    <option value="security">Datenschutz und Sicherheit</option>
-                                    <option value="partner-request">Partneranfrage</option>
-                                    <option value="other">Etwas anderes</option>
-                                </select>
-                            </div>
+                        <label for="reason" class="block text-sm/6 font-semibold text-gray-900">Grund Ihrer Anfrage</label>
+                        <div class="mt-2.5">
+                            <select id="reason" x-model="reason">
+                                <option value="bug-report">Fehlerbericht</option>
+                                <option value="security">Datenschutz und Sicherheit</option>
+                                <option value="partner-request">Partneranfrage</option>
+                                <option value="other">Etwas anderes</option>
+                            </select>
                         </div>
                     </div>
 
@@ -213,7 +213,7 @@
                 <label class="absolute left-0 top-0 -z-10 h-0 w-0 opacity-0" for="name"></label>
                 <input class="absolute left-0 top-0 -z-10 h-0 w-0 opacity-0" autocomplete="off" type="text" name="name" placeholder="Your name here" x-model="name" />
 
-                <div x-show="type != ''" class="mt-10">
+                <div class="mt-10">
                     <button
                         type="submit"
                         x-bind:disabled="isSubmitting"
