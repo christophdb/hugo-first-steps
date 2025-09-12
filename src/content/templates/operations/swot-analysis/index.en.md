@@ -6,8 +6,8 @@ url: '/template/swot-analysis'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'SWOT Analysis Template: strengths, weaknesses, opportunities, threats'
+    description: 'Download a powerful digital SWOT analysis template: Identify, organize and visualize key strategic business factors easily.'
 template: '13fe52fa8c814d5bbeb7'
 ---
 

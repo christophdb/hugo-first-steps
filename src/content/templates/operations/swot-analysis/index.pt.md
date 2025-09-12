@@ -3,11 +3,13 @@ title: 'Modelo de análise SWOT'
 description: ''
 date: '2025-02-23'
 url: '/pt/modelo/swot-analysis'
+aliases:
+    - '/pt/modelo/swot-analysis'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo SWOT: forças, fraquezas, oportunidades, ameaças'
+    description: 'Análise SWOT digital : identifique fatores internos e externos, visualize matrizes e planeje ações, com modelo grátis.'
 template: '13fe52fa8c814d5bbeb7'
 ---
 

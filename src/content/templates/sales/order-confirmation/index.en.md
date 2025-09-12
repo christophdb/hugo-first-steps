@@ -6,8 +6,8 @@ url: '/template/order-confirmation'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Order Confirmation Template: easy & secure'
+    description: 'Quickly create error-free order confirmations—customizable template, professionally formatted for your business.'
 template: 'f62eb7d3adf841cfb48a'
 ---
 

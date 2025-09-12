@@ -2,12 +2,14 @@
 title: 'Análisis coste-beneficio'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/cost-benefit-analysis'
+url: '/es/plantilla/costo-beneficio'
+aliases:
+    - '/es/plantilla/cost-benefit-analysis'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla análisis coste-beneficio: inversión clara'
+    description: 'Evalúa inversiones con eficiencia: plantilla digital para costes, beneficios y toma de decisiones empresariales.'
 template: '96bac4ce0df545daa01f'
 ---
 

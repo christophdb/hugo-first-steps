@@ -2,12 +2,14 @@
 title: 'Bücherliste / Bibliothek'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/book-list-library'
+url: '/de/vorlage/buecherliste'
+aliases:
+    - '/de/vorlage/book-list-library'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Bücherliste Vorlage – Bibliothek digital verwalten'
+    description: 'Bücher und private Bibliothek mit Vorlage einfach verwalten und ordnen. Übersicht für alle Titel, Autoren, Ausleihen und Bewertungen.'
 template: '1a98cfea0a6548d599c3'
 ---
 

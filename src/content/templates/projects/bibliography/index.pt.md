@@ -2,12 +2,14 @@
 title: 'Bibliografia'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/bibliography'
+url: '/pt/modelo/bibliografia'
+aliases:
+    - '/pt/modelo/bibliography'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo bibliografia: fontes organizadas digitalmente'
+    description: 'Controle todas as referências dos seus estudos com um modelo de bibliografia simples e eficiente. Ideal para TCC.'
 template: 'afeb7cc5783744bfa3f7'
 ---
 

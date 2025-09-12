@@ -6,8 +6,8 @@ url: '/es/plantilla/bucket-list'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla Bucket List: sueños, viajes y logros'
+    description: 'Organiza online grandes metas, sueños y deseos vitales: añade, combina y comparte fácilmente con plantilla editable.'
 template: '9c1486a65e97457a9fdc'
 ---
 

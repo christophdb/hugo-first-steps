@@ -2,12 +2,14 @@
 title: 'Fahrtenbuch Vorlage'
 description: ''
 date: '2025-02-23'
-url: '/de/vorlage/mileage-log'
+url: '/de/vorlage/fahrtenbuch'
+aliases:
+    - '/de/vorlage/mileage-log'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Fahrtenbuch Vorlage: digital & steuerkonform führen'
+    description: 'Fahrten digital & rechtssicher dokumentieren: Kostenlose Fahrtenbuch Vorlage, flexibel anpassbar und mehrfach nutzbar.'
 template: '14498b7d75cd47ab934c'
 ---
 

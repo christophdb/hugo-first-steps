@@ -2,12 +2,14 @@
 title: 'Plan de limpieza'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/cleaning-plan'
+url: '/es/plantilla/plan-limpieza'
+aliases:
+    - '/es/plantilla/cleaning-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de tareas del hogar: limpia sin estrés'
+    description: 'Organiza tareas domésticas, asigna responsabilidades y controla tu plan de limpieza con una plantilla digital.'
 template: '8c6d69d5dcda43e6bf9f'
 ---
 

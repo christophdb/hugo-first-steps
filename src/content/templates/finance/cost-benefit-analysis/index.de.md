@@ -2,12 +2,14 @@
 title: 'Kosten-Nutzen-Analyse'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/cost-benefit-analysis'
+url: '/de/vorlage/kosten-nutzen-analyse'
+aliases:
+    - '/de/vorlage/cost-benefit-analysis'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Kosten-Nutzen-Analyse Vorlage: Investitionen richtig bewerten'
+    description: 'Kosten-Nutzen-Analyse Vorlage – einfach, schnell und fundiert Kosten und Nutzen abwägen und bessere Entscheidungen treffen.'
 template: '96bac4ce0df545daa01f'
 ---
 

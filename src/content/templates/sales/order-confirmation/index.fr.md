@@ -2,12 +2,14 @@
 title: 'Modèle de confirmation de commande'
 description: ''
 date: '2025-05-02'
-url: '/fr/modele/order-confirmation'
+url: '/fr/modele/confirmation-commande'
+aliases:
+    - '/fr/modele/order-confirmation'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle confirmation de commande: simple & conforme'
+    description: 'Créez vos confirmations de commande rapidement et légalement grâce à un modèle personnalisable et numérique.'
 template: 'f62eb7d3adf841cfb48a'
 ---
 

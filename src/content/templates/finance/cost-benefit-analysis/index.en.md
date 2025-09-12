@@ -6,8 +6,8 @@ url: '/template/cost-benefit-analysis'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Cost-Benefit Analysis Template – maximize ROI'
+    description: 'Make better business decisions: free, structured cost-benefit analysis template to evaluate investments and projects.'
 template: '96bac4ce0df545daa01f'
 ---
 

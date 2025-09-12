@@ -2,12 +2,14 @@
 title: 'SWOT Analyse'
 description: ''
 date: '2025-02-23'
-url: '/de/vorlage/swot-analysis'
+url: '/de/vorlage/swot-analyse'
+aliases:
+    - '/de/vorlage/swot-analysis'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'SWOT Analyse Vorlage: Stärken, Schwächen, Chancen'
+    description: 'SWOT-Analyse als effektives Tool : Mit kostenloser Vorlage Stärken, Schwächen, Chancen und Risiken systematisch erfassen.'
 template: '13fe52fa8c814d5bbeb7'
 ---
 

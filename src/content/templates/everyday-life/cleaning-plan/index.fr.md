@@ -2,12 +2,14 @@
 title: 'Plan de nettoyage'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/cleaning-plan'
+url: '/fr/modele/planning-menage'
+aliases:
+    - '/fr/modele/cleaning-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle planning ménage : clair & collaboratif'
+    description: 'Partagez et visualisez tâches ménagères, tours et suivi dans un planning de ménage digital simple et efficace.'
 template: '8c6d69d5dcda43e6bf9f'
 ---
 

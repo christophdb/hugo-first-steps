@@ -6,8 +6,8 @@ url: '/fr/modele/bucket-list'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle Bucket List: vos rêves à portée de main'
+    description: 'Liste de rêves digitale : planifiez, organisez et réalisez vos objectifs et expériences, seul ou à plusieurs.'
 template: '9c1486a65e97457a9fdc'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Modèle de carnet de route'
 description: ''
 date: '2025-02-23'
-url: '/fr/modele/mileage-log'
+url: '/fr/modele/carnet-de-route'
+aliases:
+    - '/fr/modele/mileage-log'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de carnet de route: digital et conforme'
+    description: 'Modèle carnet de route digital : saisie facile, conformité fiscale et édition immédiate, statistiques à l appui.'
 template: '14498b7d75cd47ab934c'
 ---
 

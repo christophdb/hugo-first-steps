@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон списка книг – цифровая библиотека'
+    description: 'Эффективно организуйте книжную коллекцию: добавляйте, сортируйте и отслеживайте книги, авторов, выданные экземпляры.'
 template: '1a98cfea0a6548d599c3'
 ---
 

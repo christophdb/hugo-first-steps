@@ -6,8 +6,8 @@ url: '/template/cleaning-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Cleaning Plan Template: Smart Task Delegation'
+    description: 'Cleaning schedule made easy: assign, track and rotate household chores online—ideal for shared living.'
 template: '8c6d69d5dcda43e6bf9f'
 ---
 

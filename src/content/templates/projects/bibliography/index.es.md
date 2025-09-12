@@ -2,12 +2,14 @@
 title: 'Bibliografía'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/bibliography'
+url: '/es/plantilla/bibliografia'
+aliases:
+    - '/es/plantilla/bibliography'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla bibliografía: referencias académicas gestor'
+    description: 'Prepara la bibliografía de tus trabajos: recoge, organiza y exporta fuentes fácilmente. Plantilla digital gratuita.'
 template: 'afeb7cc5783744bfa3f7'
 ---
 

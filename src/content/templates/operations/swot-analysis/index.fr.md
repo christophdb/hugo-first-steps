@@ -2,12 +2,14 @@
 title: "Modèle d'analyse SWOT"
 description: ''
 date: '2025-02-23'
-url: '/fr/modele/swot-analysis'
+url: '/fr/modele/analyse-swot'
+aliases:
+    - '/fr/modele/swot-analysis'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle SWOT: forces, faiblesses, opportunités, menaces'
+    description: 'Analyse stratégique : mode d’emploi et modèle SWOT interactif, complet, visualisations et extension à volonté.'
 template: '13fe52fa8c814d5bbeb7'
 ---
 

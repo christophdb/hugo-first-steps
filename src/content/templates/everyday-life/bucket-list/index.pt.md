@@ -6,8 +6,8 @@ url: '/pt/modelo/bucket-list'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo Bucket List: seus sonhos mais organizados'
+    description: 'Template digital gratuito para planejar metas e sonhos: modifique, compartilhe e inspire-se em qualquer lugar.'
 template: '9c1486a65e97457a9fdc'
 ---
 

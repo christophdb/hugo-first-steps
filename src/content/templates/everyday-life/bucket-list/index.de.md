@@ -6,8 +6,8 @@ url: '/de/vorlage/bucket-list'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Bucket List Vorlage: Träume & Ziele digital planen'
+    description: 'Mit der SeaTable Bucket List Vorlage sammeln Sie Ziele & Wünsche online, behalten den Überblick und werden inspiriert.'
 template: '9c1486a65e97457a9fdc'
 ---
 

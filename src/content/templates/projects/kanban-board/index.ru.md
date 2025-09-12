@@ -8,8 +8,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Канбан-доска: визуальный шаблон для задач'
+    description: 'Гибкий шаблон для канбан-доски: визуализация, управление и распределение задач онлайн для команд любого объёма.'
 template: '932ed68b8ffc4a689819'
 ---
 

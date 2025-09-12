@@ -2,12 +2,14 @@
 title: 'Plano de limpeza'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/cleaning-plan'
+url: '/pt/modelo/plano-limpeza'
+aliases:
+    - '/pt/modelo/cleaning-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo plano de limpeza: fácil & organizado'
+    description: 'Planeje e delegue as tarefas domésticas de forma digital, prática e transparente para todos da casa.'
 template: '8c6d69d5dcda43e6bf9f'
 ---
 

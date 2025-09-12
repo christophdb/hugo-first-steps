@@ -2,12 +2,14 @@
 title: 'Modelo de confirmación de pedido'
 description: ''
 date: '2025-05-02'
-url: '/es/plantilla/order-confirmation'
+url: '/es/plantilla/confirmacion-pedido'
+aliases:
+    - '/es/plantilla/order-confirmation'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla confirmación de pedido: digital y adaptada'
+    description: 'Automatiza tus confirmaciones de pedido: descarga la plantilla, añade tus datos, crea documentos legales al instante.'
 template: 'f62eb7d3adf841cfb48a'
 ---
 

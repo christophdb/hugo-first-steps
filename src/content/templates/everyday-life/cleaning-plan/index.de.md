@@ -2,12 +2,14 @@
 title: 'Putzplan'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/cleaning-plan'
+url: '/de/vorlage/putzplan'
+aliases:
+    - '/de/vorlage/cleaning-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Putzplan Vorlage: Aufgaben im Haushalt teilen'
+    description: 'Putzplan digital erstellen: Klare Aufgabenverteilung, gerechte Rotation und Motivation für den Haushalt.'
 template: '8c6d69d5dcda43e6bf9f'
 ---
 

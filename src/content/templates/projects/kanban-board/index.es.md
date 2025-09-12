@@ -6,8 +6,8 @@ url: '/es/plantilla/kanban-board'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla Kanban Board: controla tu proyecto'
+    description: 'Controla tareas y flujos de trabajo visualmente : plantilla personalizable, fácil y gratuita para equipos.'
 template: '932ed68b8ffc4a689819'
 ---
 

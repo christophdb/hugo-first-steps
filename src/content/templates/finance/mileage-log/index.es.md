@@ -2,12 +2,14 @@
 title: 'Plantilla de cuaderno diario'
 description: ''
 date: '2025-02-23'
-url: '/es/plantilla/mileage-log'
+url: '/es/plantilla/libro-de-rutas'
+aliases:
+    - '/es/plantilla/mileage-log'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla libro de rutas: digital, legal y práctica'
+    description: 'Lleva el control digital de los trayectos: plantilla gratis, fácil de usar, válida para autónomos y empresas.'
 template: '14498b7d75cd47ab934c'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Modelo de diário de bordo'
 description: ''
 date: '2025-02-23'
-url: '/pt/modelo/mileage-log'
+url: '/pt/modelo/diario-de-bordo'
+aliases:
+    - '/pt/modelo/mileage-log'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de diário de bordo: digital, para impostos'
+    description: 'Registre viagens digitais e se organize: modelo gratuito, pronto para qualquer empresa ou profissional.'
 template: '14498b7d75cd47ab934c'
 ---
 

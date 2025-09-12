@@ -2,12 +2,14 @@
 title: 'Plantilla de análisis DAFO'
 description: ''
 date: '2025-02-23'
-url: '/es/plantilla/swot-analysis'
+url: '/es/plantilla/analisis-foda'
+aliases:
+    - '/es/plantilla/swot-analysis'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla análisis FODA: fortalezas, riesgos y oportunidades'
+    description: 'Análisis FODA profesional: identifica fortalezas, debilidades, oportunidades y amenazas con nuestra plantilla gratuita y flexible.'
 template: '13fe52fa8c814d5bbeb7'
 ---
 
