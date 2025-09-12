@@ -7,6 +7,7 @@ url: '/ru/upravlenie-debitorami'
 aliases:
     - /ru/debitorenbuchhaltung
 color: '#7cbaef'
+draft: true
 seo:
     title:
     description:
