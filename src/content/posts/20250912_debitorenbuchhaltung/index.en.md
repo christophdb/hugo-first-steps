@@ -8,6 +8,7 @@ url: '/accounts-receivable'
 aliases:
     - /debitorenbuchhaltung
 color: '#7cbaef'
+draft: true
 seo:
     title:
     description:

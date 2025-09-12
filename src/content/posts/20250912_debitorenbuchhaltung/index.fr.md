@@ -7,6 +7,7 @@ url: '/fr/comptabilite-clients'
 aliases:
     - /fr/debitorenbuchhaltung
 color: '#7cbaef'
+draft: true
 seo:
     title:
     description:

@@ -7,6 +7,7 @@ url: '/pt/contabilidade-devedores'
 aliases:
     - /pt/debitorenbuchhaltung
 color: '#7cbaef'
+draft: true
 seo:
     title:
     description:
