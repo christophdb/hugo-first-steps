@@ -2,12 +2,14 @@
 title: 'Inscription à la newsletter'
 description: ''
 date: '2024-08-17'
-url: '/fr/modele/newsletter-subscription'
+url: '/fr/modele/inscription-newsletter'
+aliases:
+    - '/fr/modele/newsletter-subscription'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle inscription newsletter: leads certifiés'
+    description: 'Collectez des abonnés de façon conforme au RGPD, personnalisez vos formulaires et automatisez vos listes.'
 template: '7cf445229dd74020b326'
 ---
 

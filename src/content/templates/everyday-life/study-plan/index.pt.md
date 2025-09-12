@@ -2,12 +2,14 @@
 title: 'Plano de aprendizagem'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/study-plan'
+url: '/pt/modelo/plano-estudos'
+aliases:
+    - '/pt/modelo/study-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo plano de estudos: metas e progresso claros'
+    description: 'Foque nos estudos com modelo digital grátis: acompanhe matérias, prazos e evolução rumo à sua aprovação.'
 template: '0ef3605355e24164a3cb'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон учебного плана: учёба и самоконтроль'
+    description: 'Спланируйте подготовку к экзаменам – цифровой шаблон для тем, сроков, контроля и мотивации.'
 template: '0ef3605355e24164a3cb'
 ---
 

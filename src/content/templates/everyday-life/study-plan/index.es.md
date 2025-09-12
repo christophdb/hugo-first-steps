@@ -2,12 +2,14 @@
 title: 'Plan de aprendizaje'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/study-plan'
+url: '/es/plantilla/plan-estudio'
+aliases:
+    - '/es/plantilla/study-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla plan de estudio: éxito paso a paso'
+    description: 'Organiza temas, horarios y progreso: plantilla editada para estudiantes y opositores de todos los niveles.'
 template: '0ef3605355e24164a3cb'
 ---
 

@@ -6,8 +6,8 @@ url: '/template/sales-pipeline'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Sales Pipeline Template: manage your deals fast'
+    description: 'Track leads, deal stages and close sales with a structured visual pipeline. Perfect for sales growth and reports.'
 template: 'fe3688c820cc4c649b4f'
 ---
 

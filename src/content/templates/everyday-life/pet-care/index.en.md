@@ -6,8 +6,8 @@ url: '/template/pet-care'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Pet Care Template: Organize and Track Everything'
+    description: 'All-in-one pet care tracker: manage health, feeding, vet visits, finances & routines for every animal in your home.'
 template: 'b82852b6536b4b2b9cbd'
 ---
 

@@ -6,8 +6,8 @@ url: '/template/price-comparison'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Price Comparison Template: Smart Product Overview'
+    description: 'Compare prices and features for any product or service – digital template to highlight the best deals online.'
 template: '93b0bef415cb4811ab34'
 ---
 

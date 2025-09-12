@@ -2,12 +2,14 @@
 title: 'Haustiere halten'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/pet-care'
+url: '/de/vorlage/haustiere-halten'
+aliases:
+    - '/de/vorlage/pet-care'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Haustierverwaltung Vorlage: Tierhaltung im Griff'
+    description: 'Tierhaltung leicht gemacht: Mit der digitalen Vorlage Aufgaben, Betreuung, Gesundheit & Kosten übersichtlich planen.'
 template: 'b82852b6536b4b2b9cbd'
 ---
 

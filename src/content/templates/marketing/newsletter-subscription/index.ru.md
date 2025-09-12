@@ -8,8 +8,8 @@ aliases:
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон подписки на новости: база легко и законно'
+    description: 'Собирайте электронные адреса для рассылки через веб-форму или QR-код, гарантируя конфиденциальность.'
 template: '7cf445229dd74020b326'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Verwaltung von Krankenständen'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/sick-leave-management'
+url: '/de/vorlage/krankenstand-verwaltung'
+aliases:
+    - '/de/vorlage/sick-leave-management'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Krankenstand Verwaltung Vorlage: Abwesenheiten im Griff'
+    description: 'Krankenstände, Krankmeldungen und Abwesenheiten zentral erfassen und automatisch auswerten – Vorlage zur Verwaltung.'
 template: '66efdfd13de84a9a96a9'
 ---
 

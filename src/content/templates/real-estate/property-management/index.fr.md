@@ -2,12 +2,14 @@
 title: 'Gestion immobilière'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/property-management'
+url: '/fr/modele/gestion-immobiliere'
+aliases:
+    - '/fr/modele/property-management'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle gestion immobilière : loyers & locataires'
+    description: 'Centralisez tous vos biens, loyers, tâches & bailleurs : modèle tout-en-un pour votre gestion locative immobilière.'
 template: '6f9a2b4869804608978c'
 ---
 

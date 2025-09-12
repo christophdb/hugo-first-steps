@@ -6,8 +6,8 @@ url: '/template/property-management'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Property Management Template: Efficient Portfolio Control'
+    description: 'Organize properties, tenants, rent and maintenance with the digital property management template—ideal for landlords.'
 template: '6f9a2b4869804608978c'
 ---
 

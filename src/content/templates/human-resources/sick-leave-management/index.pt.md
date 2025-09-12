@@ -2,12 +2,14 @@
 title: 'Gestão de licenças por doença'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/sick-leave-management'
+url: '/pt/modelo/gestao-atestados'
+aliases:
+    - '/pt/modelo/sick-leave-management'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo gestão de atestados: registre ausências fácil'
+    description: 'Gerencie afastamentos por saúde, gere relatórios de ausências e integre documentos médicos à sua rotina.'
 template: '66efdfd13de84a9a96a9'
 ---
 

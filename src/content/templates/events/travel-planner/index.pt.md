@@ -2,12 +2,14 @@
 title: 'Planeador de viagens'
 description: ''
 date: '2024-08-17'
-url: '/pt/modelo/travel-planner'
+url: '/pt/modelo/planejador-viagem'
+aliases:
+    - '/pt/modelo/travel-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo planejamento de viagem: roteiro e orçamento pronto'
+    description: 'Organize roteiros, custos, reservas, tarefas e registros das viagens num único modelo digital prático.'
 template: '836031683b7e4df489a2'
 ---
 

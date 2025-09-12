@@ -2,12 +2,14 @@
 title: 'Comparaison des prix'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/price-comparison'
+url: '/fr/modele/comparateur-prix'
+aliases:
+    - '/fr/modele/price-comparison'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle comparateur de prix: choix simple & rapide'
+    description: 'Analysez rapidement les prix & offres : modèle digital pour comparer produits et marchands efficacement.'
 template: '93b0bef415cb4811ab34'
 ---
 

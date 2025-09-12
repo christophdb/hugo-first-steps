@@ -2,12 +2,14 @@
 title: 'Verkaufspipeline'
 description: ''
 date: '2024-08-16'
-url: '/de/vorlage/sales-pipeline'
+url: '/de/vorlage/verkaufspipeline'
+aliases:
+    - '/de/vorlage/sales-pipeline'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Verkaufspipeline Vorlage: Verkaufschancen steuern'
+    description: 'Vertriebsprozesse digital im Griff: Pipeline-Phasen klar erfassen, Chancen verfolgen und Deals schneller abschließen.'
 template: 'fe3688c820cc4c649b4f'
 ---
 

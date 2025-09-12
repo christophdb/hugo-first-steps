@@ -2,12 +2,14 @@
 title: 'Gestión de las bajas por enfermedad'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/sick-leave-management'
+url: '/es/plantilla/gestion-bajas'
+aliases:
+    - '/es/plantilla/sick-leave-management'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla gestión bajas: ausencias y salud controladas'
+    description: 'Optimiza la gestión y análisis de bajas laborales con un modelo digital fácil de usar y reportes automáticos.'
 template: '66efdfd13de84a9a96a9'
 ---
 

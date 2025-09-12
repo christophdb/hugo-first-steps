@@ -2,12 +2,14 @@
 title: 'Suscripción al boletín de noticias'
 description: ''
 date: '2024-08-17'
-url: '/es/plantilla/newsletter-subscription'
+url: '/es/plantilla/suscripcion-boletin'
+aliases:
+    - '/es/plantilla/newsletter-subscription'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla suscripción boletín: contactos y permisos claros'
+    description: 'Gestión fácil y legal de suscriptores para tu newsletter con plantilla digital y doble opt-in.'
 template: '7cf445229dd74020b326'
 ---
 

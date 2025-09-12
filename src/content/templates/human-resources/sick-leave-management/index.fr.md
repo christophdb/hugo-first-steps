@@ -2,12 +2,14 @@
 title: 'Gestion des arrêts maladie'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/sick-leave-management'
+url: '/fr/modele/gestion-arrets-maladie'
+aliases:
+    - '/fr/modele/sick-leave-management'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle gestion arrêts maladie : suivi & export'
+    description: 'Suivi centralisé des arrêts maladie et absences : modèle digital prêt à l’emploi et vue calendrier intelligente.'
 template: '66efdfd13de84a9a96a9'
 ---
 

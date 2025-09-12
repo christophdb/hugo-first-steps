@@ -2,12 +2,14 @@
 title: 'Newsletter Anmeldung'
 description: ''
 date: '2024-08-17'
-url: '/de/vorlage/newsletter-subscription'
+url: '/de/vorlage/newsletter-anmeldung'
+aliases:
+    - '/de/vorlage/newsletter-subscription'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Newsletter Anmeldung Vorlage: Kontakte DSGVO-konform gewinnen'
+    description: 'Mit der SeaTable Newsletter-Anmeldung Vorlage Interessenten einfach & sicher online erfassen, Interessen abfragen.'
 template: '7cf445229dd74020b326'
 ---
 

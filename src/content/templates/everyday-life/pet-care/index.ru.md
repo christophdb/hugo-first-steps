@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон учёта питомцев: всё для домашних животных'
+    description: 'Ведите полную цифровую базу по кормлению, лечению, уходу и расходам на своих питомцев.'
 template: 'b82852b6536b4b2b9cbd'
 ---
 

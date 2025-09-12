@@ -2,12 +2,14 @@
 title: 'Planifier des funérailles'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/funeral-planner'
+url: '/fr/modele/planificateur-obseques'
+aliases:
+    - '/fr/modele/funeral-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle planificateur obsèques : simple et détaillé'
+    description: 'Préparez chaque étape des funérailles avec un modèle collaboratif : tâches, invités, dépenses et rituels compris.'
 template: '6624590d2b024f068339'
 ---
 

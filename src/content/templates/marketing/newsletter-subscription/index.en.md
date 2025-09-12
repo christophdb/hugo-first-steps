@@ -6,8 +6,8 @@ url: '/template/newsletter-subscription'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Newsletter Subscription Template: capture leads easily'
+    description: 'Seamlessly collect newsletter signups with a GDPR-compliant web form or QR code template.'
 template: '7cf445229dd74020b326'
 ---
 

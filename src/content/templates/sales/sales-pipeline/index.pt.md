@@ -2,12 +2,14 @@
 title: 'Gasoduto de vendas'
 description: ''
 date: '2024-08-16'
-url: '/pt/modelo/sales-pipeline'
+url: '/pt/modelo/pipeline-vendas'
+aliases:
+    - '/pt/modelo/sales-pipeline'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo pipeline de vendas: gestão de negócios'
+    description: 'Visualize os estágios do funil, avance negociações e ganhe eficiência no fechamento das vendas.'
 template: 'fe3688c820cc4c649b4f'
 ---
 

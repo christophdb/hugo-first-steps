@@ -8,8 +8,8 @@ aliases:
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон учёта больничных: управление отсутствиями'
+    description: 'Цифровой шаблон для учёта больничных и автоматизации анализа отсутствий сотрудников.'
 template: '66efdfd13de84a9a96a9'
 ---
 

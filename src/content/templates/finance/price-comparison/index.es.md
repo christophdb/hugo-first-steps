@@ -2,12 +2,14 @@
 title: 'Comparación de precios'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/price-comparison'
+url: '/es/plantilla/comparacion-precios'
+aliases:
+    - '/es/plantilla/price-comparison'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla comparación de precios: ahorra y decide'
+    description: 'Ordena y compara precios de productos, servicios o tiendas fácilmente. Elige la mejor opción sin perder tiempo.'
 template: '93b0bef415cb4811ab34'
 ---
 
