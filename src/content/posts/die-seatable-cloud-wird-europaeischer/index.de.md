@@ -1,9 +1,8 @@
 ---
 title: 'AWS: Die SeaTable Cloud trennt sich von Amazon und wird europäischer'
-description: ''
+description: 'Die SeaTable Cloud zieht von AWS zu Exoscale um. Was bedeutet das für Datensicherheit, Souveränität und DSGVO-Konformität? Wir zeigen die Vorteile der europäischen Infrastruktur für Unternehmen und Nutzer – jetzt mehr erfahren!'
 date: 2021-05-20
 lastmod: '2023-07-11'
-author: 'cdb'
 url: '/de/die-seatable-cloud-wird-europaeischer'
 color: 'e86569'
 categories:

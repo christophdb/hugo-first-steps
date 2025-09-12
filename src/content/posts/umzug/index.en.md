@@ -1,14 +1,14 @@
 ---
 title: 'Plan your move with checklist: How to move stress free'
+description: 'Found your dream home? With the right checklist and some smart planning, moving day becomes manageable. Discover tips for stress-free moves, budgeting, and what to remember before, during, and after your move in this comprehensive guide.'
 date: 2023-10-30
 lastmod: '2023-10-30'
-author: 'lsc'
 url: '/moving'
 aliases:
     - /umzug
 seo:
-    title:
-    description:
+    title: 'Moving Checklist: How to Move Stress-Free'
+    description: 'Plan your move the easy way – moving tips and a handy checklist for a stress-free process.'
 categories:
     - 'best-practice'
 tags:

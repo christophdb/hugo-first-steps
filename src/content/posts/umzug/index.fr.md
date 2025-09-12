@@ -1,5 +1,6 @@
 ---
 title: 'Planifier un déménagement avec une check-list : Comment déménager sans stress'
+description: 'Préparez votre déménagement sans stresser : découvrez toutes les étapes grâce à une checklist pratique, des conseils fiscaux, et des astuces pour économiser des efforts, du temps et de l’argent.'
 date: 2023-10-30
 lastmod: '2023-10-30'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/fr/demenagement'
 aliases:
     - /fr/umzug
 seo:
-    title:
-    description:
+    title: 'Déménagement : planifiez sans stress avec checklist'
+    description: 'Astuces et listes pour déménager sans stress et réussir son installation.'
 categories:
     - 'best-practice'
 tags:
