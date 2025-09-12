@@ -1,6 +1,8 @@
 ---
-title: 'Indirect purchasing: easy and cost-saving with SeaTable - SeaTable'
+title: 'Indirect procurement: How to optimize your processes and reduce costs'
+description: "Software licenses, maintenance contracts or office supplies: these expenses do not contribute directly to a company's products or services. However, they are essential for the smooth running of business operations and hold enormous potential for optimization. This is because indirect procurement can cause considerable costs. Read this article to find out what indirect procurement is and what you should pay attention to."
 date: 2021-11-19
+lastmod: 2025-09-10
 categories:
     - 'best-practice'
 tags:
@@ -10,104 +12,121 @@ aliases:
     - /indirekter-einkauf/
 color: '#f3919b'
 seo:
-    title:
-    description:
+    title: 'Indirect procurement: optimize processes, reduce costs'
+    description: 'Indirect procurement runs on the side in many companies. And therefore holds enormous potential for optimization. Find out what is important and how you can do it better.'
 ---
 
-It is present in every company in one way or another: indirect purchasing. It includes the procurement, ordering and complete management of all goods and merchandise that are not resold, but remain within the company and are needed for the internal operations of the office organization. Typical examples of indirect material are:
+## What do direct and indirect procurement mean?
 
-- Work tools such as pens, pencils, notebooks
-- Office equipment, e.g. printer paper or printer cartridges
-- All food for the office kitchen
-- Office equipment such as chairs or cabinets
-- IT devices such as notebooks or computers
+Direct procurement and indirect procurement are two areas in operational [procurement]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) and in [supply chain management]({{< relref "posts/20250620-supply-chain-management" >}}). They differ in terms of specific product categories and organizational structure. This results in different specific challenges for those responsible.
 
-Research shows that indirect procurement can account for between [15 and 30% of internal spend](https://www.wlw.de/de/inside-business/praxiswissen/einkaeufer-ratgeber/indirect-procurement-verdient-viel-mehr-aufmerksamkeit).
+### What does direct procurement mean?
 
-At the same time, much less attention is usually paid to indirect purchasing, in contrast to direct purchasing, where a lot of effort is put into optimisation and cost savings.
+This area deals with the strategic procurement of products that are directly incorporated into the end product. This includes preliminary components and raw materials, but also packaging materials or production machinery. In large procurement departments, there are specific areas for individual purchased goods, e.g. **Technical procurement** for technical equipment and components.
 
-The challenge in any business is to procure indirect materials efficiently and cost-effectively. On the one hand, consumables such as pens, coffee beans and printer paper need to be reordered in time before they are used up. These are working materials that are subject to daily demand and therefore always need a supply. On the other hand, some items have to be ordered separately and on demand, such as computers, noise-cancelling earphones or IT cables. The solution for a smooth process: A central office organisation of all internal goods orders via SeaTable!
+Direct procurement is characterized by highly formalized processes, **strategic supplier and quality management** and long-term contracts. The procurement volumes are usually larger than in indirect procurement and the quality requirements are particularly high. Cost control is also one of the key tasks. This is because procurement costs have a direct impact on the final price of the company's own product.
 
-With SeaTable you have all important information, products and orders in one place. Here you create your own product catalog for your internal purchasing, take orders via web form and execute orders with one click. You don't have to start from scratch, but can start directly with our [template]({{< relref "templates/operations/indirect-procurement" >}}) from the Operations section.
+### What does indirect procurement mean?
 
-## Indirect procurement: Keep the overview
+![Which products does indirect procurement cover?](indirect_procurement.jpg)
 
-Our template consists of three tables that are all interrelated and pass information to each other. The first table is the basis for the web form that your employees can use for all orders. The second table consists of a detailed product catalogue containing all the goods needed in the company for internal purposes - from pencils to computer mice. The third table contains all suppliers of the goods with the important contact details. **With these three set screws**, your office organisation will very soon become a breeze.
+Indirect procurement includes products and services that ensure the smooth running of the business (**indirect materials**). These include, for example, hardware and software, office supplies, insurance and tradesman services, but also advertising material or external consultants.
 
-![Overview of all orders in indirect procurement](bestellungen-indirekter-einkauf-1088x515.png)
+In contrast to direct procurement, indirect procurement is characterized by many small orders and **decentralized supplier management**. Procurement processes are often not standardized or not very standardized, and the determination of requirements is decentralized. Effective cost control is often lacking.
 
-The fact that all tables are linked to each other is possible with the linked columns. This handy feature simplifies data organization within a base: Data that is needed in each table, such as the price of a product, can be created in one table and played out in all other tables. If the price changes in the source table, it also changes in all other tables due to the link. Thus information does not have to be entered several times, but regulates itself!
+## What are the biggest challenges in indirect procurement?
 
-In this table a lot of information comes together: The columns "Product", "€" for the price, "Email" and "Art.No." for the article number all pull their data from the remaining two tables that are there in the original. In this way, a data entry can be used sensibly and equally in several places.
+While direct procurement is often well structured and strategically planned, indirect procurement is often the opposite. Inconsistent data, decentralized procurement processes and a lack of transparency: the challenges are complex and have a significant impact on cost efficiency. Let's take a closer look at the six most important difficulties:
 
-## Order goods with the integrated web form
+### Data silos
 
-The table with its columns also provides the basis for the integrated [web form]({{< relref "help/base-editor/webformulare/webformulare" >}}) for your office organization. For an order of internal material, the employees select a product from the list - this is the linked column "Products" from the product catalog (Table 2). After that, they only specify the quantity and in which department they work, so that the orders remain clear.
+Individual departments often work with different systems and databases that are generally not networked with each other. For indirect procurement in particular, this means that no reliable statements can be made about spending behavior or the efficiency of ordering processes. Synergies between different departments, e.g. in the form of bundled orders or better delivery conditions, remain unrecognized.
 
-![Order form indirect material](bestellformular-indirektes-material.png)
+### Maverick buying
 
-Each submitted form immediately ends up in Base and is created as a new row . The employees have to enter relatively little information, although a lot of information is stored in the table itself. This is where the linked columns come into play.
+Maverick buying is when employees independently order indirect materials outside of the formal procurement processes. This involves deliberately or through ignorance bypassing decision-making processes and often procurement from the wrong suppliers or at higher prices. The consequences are missed discounts, reduced negotiating power with partners, uncontrollable costs and **compliance risks**. Maverick buying occurs systematically in many companies and sometimes accounts for **40 percent of total indirect procurement**.  
 
-> **For professionals:** The linked columns can also be used to create the linked formula columns, which, for example, reflect the values of a certain row , add up or output the maximum value. With a new entry in the order list and the selection of a product, properties of this product, such as the category, the item number and the price of the product, are also automatically displayed.
+![Diverse challenges in indirect procurement](indirekter_einkauf_herausforderungen.jpg)
 
-Here, therefore, no manual assignment of the information must take place; it is simply taken from the other tables and reproduced here. From the table "Suppliers" the email address of the corresponding supplier of the goods is extracted. This will be needed later for the ordering process. No more tedious transfer of data - SeaTable already takes care of all this for you automatically and makes your office organization much easier.
+### Complex procurement processes
 
-## Automatic rules: Simplify, automate, notify
+Cumbersome approval processes, unclear responsibilities and organizational problems can easily lead to even simple procurements taking weeks. Especially when individual departments have developed their own processes, historically grown structures quickly become an obstacle to efficient indirect procurement.
 
-To make your office organisation even better and smarter, we have worked with our automation rules and notification rules. These rules automate processes under certain conditions and notify members in your team when appropriate events occur, which you define in the rules themselves.
+### Lack of transparency
 
-With a first rule we have defined that for each newly created row in table 1 ("Orders") the option "open" is automatically set for the column "Status". This means that every order is directly marked as open and thus all processors know that it is not yet done.
+A lack of transparency is another core problem of indirect procurement. The causes are manifold and can reinforce each other: decentralized procurement, various incompatible systems or incomplete documentation. As a result, those responsible do not know where the greatest **potential for savings and optimization** lies. Suppliers and risks cannot be evaluated.
 
-The other automation rules automatically assign each order to the correct agent in our template. This works as follows:
+### Missing or unclear approval processes
 
-1. As a condition, it must be selected that an action happens for each newly added row with the following condition. This is then the trigger that triggers the action.
-2. In our example here on the right, the action is triggered when the category is "Foods".
-3. The subsequent action is that a specific employee is then entered in the "Agent" column.
+Unclear approval processes lead to frustrated employees and inefficient processes. Particularly when procurement indirect materials, the specialist departments are often unaware of the intended processes. Requests end up with the wrong employees without it being clear who really has to make the final decision. Or important stakeholders are not involved. This is a particular problem with time-critical procurements.
 
-As soon as an order is received in which, for example, apples are ordered, SeaTable recognizes through the linked columns that the associated category is "Foods" and then automatically enters the correct processor with the automation rule. This is especially important for the next rule: the notification rule.
+### Lack of controlling
 
-This rule automatically notifies all participants by e-mail if there are any changes. Due to the specification of the automation rule (we have created a rule for each category), only the agents receive a notification when exactly their category is claimed in the order. This way, the other colleagues are not bothered with annoying emails that do not concern their internal purchasing.
+The most serious challenge in indirect procurement is the lack of cost controlling. Decentralized processes make it difficult to record the necessary metrics and KPIs. **This makes it almost impossible to control and plan expenditure** and optimization potential and problem areas remain undetected. Indirect procurement can only react instead of working with foresight.
 
-## Indirect procurement: forward orders with one click
+## How can you optimize your indirect procurement?
 
-With SeaTable you also have the possibility to send automated emails with just one click. This is not only very helpful in internal purchasing. To do this, you first need to add your email account to your Base. This can be done via the three dots at the top right -> Settings -> Third-party providers. Here you can add your email account according to the specifications of your email provider. Once this step is done, you can use the button column to create a button for sending emails.
+As we can see, the challenges in indirect procurement are manifold. The first step towards systematic optimization is the consistent integration of existing systems into a central procurement tool:
 
-![Send orders automatically with SeaTable](Bestellungen-automatisch-verschicken.gif)
+- **Standardized, transparent processes** simplify complex workflows and avoid duplicate structures or time-consuming approval processes.
 
-Here's how it works:
+- A **self-service portal with preconfigured product views** and a selection of available suppliers reduces maverick buying and gives your employees quick access to relevant information.
 
-1. Create column and select action "Send email
-2. Select the integrated email account from which the mail is to be sent.
-3. Select subject, email text and recipient
+- **Effective cost controlling** uncovers potential savings and also enables strategic supplier management when procurement indirect materials.
 
-**For professionals:** You can directly reproduce column contents with nose brackets, which is particularly important for the email address. In our template, we use {Email} to refer to the previously inserted email address of the supplier, which is taken from Table 3. You can also use the content from columns in the subject and text of the email, such as the product name and the quantity of goods ordered (for example: "We would like to order the product {Product} with the quantity {Amount}"). In this way, you simplify your office organization immensely, as you no longer have to write manual emails in which all orders have to be laboriously transferred.
+![Cost controlling is also crucial in indirect procurement](indirekter_einkauf_kostenkontrolle.jpg)
 
-## Individual views and Kanban provide a better overview
+## What key figures are there for controlling indirect procurement?
 
-SeaTable would not be an optimal solution for office organization if it did not have a clear and practical function for task management as well. First, we create different [views]({{< relref "help/base-editor/ansichten" >}}) for each agent, so that only the orders that are relevant for him are visible. For example, a processor for office equipment does not need to see the orders for food. This can be done by clicking on the small arrow in the upper left corner, in our example titled "View all".
+Before you get started and begin to set up **cost and process controlling** for your indirect procurement, you need to think about your KPIs. Depending on your goal, different metrics are important and should be given special consideration. We present the most important KPIs below. Basically, you can differentiate between process efficiency metrics and financial performance indicators
 
-![Kanban view of all orders in indirect procurement](kanban-view-indirekte-beschaffung.png)
+### Process efficiency metrics
 
-With a filter, the corresponding persons for whom the view is intended are set. Thus, only those orders are displayed that also belong to oneself - this helps to maintain an overview and to keep one's own areas of responsibility in view. However, the views are also the basis for the Kanban plug-in.
+- **Procurement Cycle Time:** This key figure measures the total duration of a purchase from the request to the order release. A short cycle time indicates efficient processes. Typical target values are 5-15 working days. If your Procurement Cycle Time is greater than 15, you should definitely review your processes.
 
-With the Kanban plugin you simplify your task management and always stay in the flow. The plugin is based on the columns in the table and displays them in the usual Kanban look. In order to give each processor his own workspace here as well, we have created a separate Kanban board for each employee. For this purpose, the respective view is selected from the "Orders" table.
+- **Supplier Lead Time:** The time between order and delivery is also critical in indirect procurement. This key figure helps you to evaluate your suppliers and plan your inventory.  
 
-Individualise your board exactly as you need it. By activating columns, the respective value that applies to the order is displayed in the orders. Using drag-and-drop, you can change the information in the kanban cards according to your desired order.
+- **Compliance Rate:** This metric shows the percentage of purchases that are processed through the intended procurement processes. You should aim for a high compliance rate to save costs and minimize risks. A target value of 85 percent is often specified.  
 
-## Linked columns: Use synergies
+- **Maverick Buying Rate:** The Maverick Buying Rate is to a certain extent the counterpart to the Compliance Rate. It shows what proportion of purchases of indirect materials are made outside the formal processes.
 
-We have already explained above how valuable the linked columns in SeaTable are for data organization. In our non-resale management, it is especially handy because product data and manufacturer data can be integrated directly into the web form for orders without having to store this data again separately. **There is one central data source** - this can be exhausted endlessly through the linked columns and the "formula for links" column in other tables. The advantage of this is that changes in the source are also automatically transferred to all linked values.
+### Financial performance indicators
 
-The second table contains the complete product catalogue of the office organisation. Only products that are stored here can be ordered by the staff. It is therefore important that all products are in the list - as soon as new products are added, they are entered here and are then immediately available for ordering.
+- **Avoided Costs:** With this key figure, you can make a statement about how much was saved compared to the planned budget, e.g. by bundling orders or negotiating prices.  
 
-![The product catalogue for the indirect material in SeaTable](produktkatalog-indirekter-einkauf.png)
+- **Cost per Invoice:** The internal processing costs per invoice provide information about the operational efficiency of your payment processes. Automated processes allow you to reduce these costs considerably.  
 
-This table also uses information from other tables. The order numbers, for example, come from the "Orders" table, and the suppliers and their email addresses come from the third "Suppliers" table. Again, the linked columns are used to keep the organization effort as low as possible. The column "€" in this table shows the product prices according to the list and is decisive for the calculation of the prices of the orders.
+- **Spend under Management:** This figure indicates what proportion of the total spend is actively controlled by the procurement department. The higher the value, the greater the control over spending.
 
-## Indirect procurement: manage efficiently and cost-saving with SeaTable
+## How do digital solutions help in indirect procurement?
 
-Office organisation, and especially the ordering of internal goods, can quickly become a triviality, yet it is important and keeps the business running. The template shown in this blog post can be found directly in SeaTable. When creating a new base, simply select the option: _Start with template_ and you will find this template in the **Operations** area.
+Traditionally fragmented indirect procurement can be significantly optimized by **modern cloud technologies** such as the **no-code platform SeaTable**. Digital solutions offer a wide range of options for breaking down data silos, creating transparency and optimizing processes. By centralizing all relevant data and collaborating in real time, you gain a complete picture of your suppliers, contracts, budgets and spend.
 
-With SeaTable you have a powerful tool at your side that can provide you with excellent support in this and many other processes. For example, you can use it to organise your [CRM offer management]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto), or [plan internal workshops]({{< relref "posts/workshop-planen" >}}).
+With SeaTable's free [digital template]({{< relref "templates/operations/indirect-procurement/" >}}), you can quickly create a procurement system tailored to your needs to simplify your processes and reduce your efforts. With the integrated forms and the gallery view, you can create a **product catalog with supplier selection and order form** in just a few clicks, allowing departments to easily report requirements and place orders. Integrated notifications and **automated workflows** ensure an efficient, fast approval process.
 
-Try out our template and [register]({{< relref "pages/registration" >}})! SeaTable is free of charge in the basic version.
+{{< template-box id="d0e2ed7353734084ba94" submit="Test our template" text="Scroll through our interactive template and discover the first functions." >}}
+
+Integrated statistics modules and reporting dashboards provide you with real-time insights into spending trends and supplier performance. You can also easily store various files and documents directly in one central location, whether they are images, contracts, presentations or other files. Seamless integrations with existing ERP systems via APIs ensure a consistent data flow, making SeaTable the central interface for your digital indirect procurement.
+
+## Conclusion
+
+The challenge in every company is to procure indirect materials efficiently and cost-effectively. On the one hand, consumables such as pens, coffee beans and printer paper must be reordered in good time before they are used up. Other items are ordered separately and on request. Even small changes to internal processes can lead to significant increases in efficiency. The key to optimized procurement of indirect materials lies in a central database tool in which all relevant information from the individual departments is bundled. This creates transparency and clarity about the processes, reduces the maverick buying rate and increases your spend under management. By having access to current values at all times, you can create meaningful, reliable reports and analyses and identify problems and optimization potential more quickly. With SeaTable, you have a powerful tool at your side that can provide you with excellent support in this and many other processes.
+
+## FAQ - Indirect procurement
+
+{{< faq "What does indirect procurement mean?" >}}
+
+Direct and indirect procurement are two sub-areas of procurement in companies. Indirect procurement is often organized decentrally. Unlike direct procurement, indirect procurement is about procuring goods and services that are necessary for day-to-day operations, from copy paper to IT security software.
+{{< /faq >}}
+
+{{< faq "What are indirect materials?" >}}
+
+Indirect materials are consumable products and resources that are necessary for the day-to-day operation of a company without flowing directly into the end product. Typical indirect materials are office supplies, machine tools, energy, cleaning agents or health and safety materials. The purchase of indirect materials is referred to as indirect procurement or indirect procurement.
+
+{{< /faq >}}
+
+{{< faq "What does maverick buying mean?" >}}
+
+Maverick buying, or maverick spend, refers to a procurement practice where teams or departments bypass internal procurement procedures. As a control metric for indirect procurement, a high maverick buying rate indicates a need to optimize internal communication and approval processes. Maverick buying must be distinguished from tail spend. Here, departments are explicitly allowed to order smaller quantities from selected retailers without the involvement of Procurement.
+
+{{< /faq >}}

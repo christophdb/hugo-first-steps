@@ -1,6 +1,8 @@
 ---
-title: 'Compras indirectas: sencillas y rentables con SeaTable - SeaTable'
+title: 'Adquisiciones indirectas: Cómo optimizar sus procesos y reducir costes'
+description: "Licencias de software, contratos de mantenimiento o material de oficina: estos gastos no contribuyen directamente a los productos o servicios de una empresa. Sin embargo, son esenciales para el buen funcionamiento de las operaciones empresariales y encierran un enorme potencial de optimización. Y es que las compras indirectas pueden ocasionar costes considerables. Lea este artículo para saber qué es la contratación indirecta y a qué debe prestar atención."
 date: 2021-11-19
+lastmod: 2025-09-10
 categories:
     - 'best-practice'
 tags:
@@ -10,104 +12,121 @@ aliases:
     - /es/indirekter-einkauf/
 color: '#f3919b'
 seo:
-    title:
-    description:
+    title: 'Adquisiciones indirectas: optimizar procesos, reducir costes'
+    description: 'El aprovisionamiento indirecto corre por cuenta ajena en muchas empresas. Y, por tanto, encierra un enorme potencial de optimización. Descubra qué es importante y cómo puede hacerlo mejor.'
 ---
 
-Está presente en todas las empresas de un modo u otro: la compra indirecta. Incluye la adquisición, el pedido y la gestión completa de todos los bienes y mercancías que no se revenden, sino que permanecen en la empresa y son necesarios para los procesos internos de la organización de la oficina. Ejemplos típicos de material indirecto son:
+## ¿Qué significan contratación directa e indirecta?
 
-- Herramientas de trabajo como bolígrafos, lápices, cuadernos
-- Material de oficina, por ejemplo, papel o cartuchos de impresora
-- Todos los alimentos para la cocina de la oficina
-- Material de oficina, como sillas o armarios
-- Equipos informáticos como ordenadores portátiles u ordenadores
+El aprovisionamiento directo y el indirecto son dos áreas en [aprovisionamiento operativo]({{< relref "posts/20250327-beschaffung-unternehmen" >}}) y en [gestión de la cadena de suministro]({{< relref "posts/20250620-supply-chain-management" >}}). Difieren en cuanto a categorías específicas de productos y estructura organizativa. Esto se traduce en diferentes retos específicos para los responsables.
 
-Los estudios muestran que las compras indirectas pueden representar entre [el 15 y el 30% del gasto interno](https://www.wlw.de/de/inside-business/praxiswissen/einkaeufer-ratgeber/indirect-procurement-verdient-viel-mehr-aufmerksamkeit).
+### ¿Qué significa aprovisionamiento directo?
 
-Al mismo tiempo, se suele prestar mucha menos atención a las compras indirectas, en contraste con las compras directas, en las que se hace un gran esfuerzo de optimización y ahorro de costes.
+Esta área se ocupa de la adquisición estratégica de productos que se incorporan directamente al producto final. Esto incluye componentes preliminares y materias primas, pero también materiales de envasado o maquinaria de producción. En los grandes departamentos de aprovisionamiento, existen áreas específicas para bienes adquiridos individuales, por ejemplo **Aprovisionamiento técnico** para equipos y componentes técnicos.
 
-El reto de cualquier empresa es adquirir materiales indirectos de forma eficiente y rentable. Por un lado, los consumibles como los bolígrafos, el café en grano y el papel de la impresora deben reordenarse a tiempo antes de que se agoten. Se trata de materiales de trabajo que están sujetos a la demanda diaria y, por tanto, siempre necesitan un suministro. En cambio, algunos artículos deben pedirse por separado y bajo demanda, como los ordenadores, los auriculares con cancelación de ruido o los cables informáticos. La solución para un proceso fluido: ¡una organización centralizada de todos los pedidos internos de mercancías a través de SeaTable!
+El aprovisionamiento directo se caracteriza por procesos muy formalizados, **gestión estratégica de proveedores y calidad** y contratos a largo plazo. Los volúmenes de compra suelen ser mayores que en la contratación indirecta y los requisitos de calidad son especialmente elevados. El control de los costes es también una de las tareas clave. Esto se debe a que los costes de aprovisionamiento tienen un impacto directo en el precio final del propio producto de la empresa.
 
-Con SeaTable tendrá toda la información importante, los productos y los pedidos en un solo lugar. Aquí puede crear su propio catálogo de productos para sus compras internas, realizar pedidos a través de un formulario web y ejecutar los pedidos con un solo clic. No tiene que empezar desde cero, sino que puede empezar directamente con nuestra [plantilla]({{< relref "templates/operations/indirect-procurement" >}}) desde el área de Operaciones.
+### ¿Qué significa aprovisionamiento indirecto?
 
-## Compras indirectas: Mantenga la visión de conjunto
+![¿Qué productos cubre la contratación indirecta?](indirect_procurement.jpg)
 
-Nuestra plantilla consta de tres tablas que están interrelacionadas y se pasan información unas a otras. La primera tabla es la base del formulario web que sus empleados pueden utilizar para todos los pedidos. El segundo cuadro consiste en un catálogo detallado de productos que contiene todos los bienes necesarios en la empresa para fines internos, desde lápices hasta ratones de ordenador. La tercera tabla contiene todos los proveedores de la mercancía con los datos de contacto importantes. **Con estos tres tornillos de** fijación, la organización de su oficina se convertirá muy pronto en un juego de niños.
+La contratación indirecta incluye los productos y servicios que garantizan el buen funcionamiento de la empresa (**materiales indirectos**). Estos incluyen, por ejemplo, hardware y software, material de oficina, seguros y servicios de comerciantes, pero también material publicitario o consultores externos.
 
-![Resumen de todos los pedidos en compras indirectas](bestellungen-indirekter-einkauf-1088x515.png)
+A diferencia de las adquisiciones directas, las indirectas se caracterizan por la gran cantidad de pedidos pequeños y la **gestión descentralizada de los proveedores**. Los procesos de adquisición no suelen estar estandarizados o lo están poco, y la determinación de las necesidades está descentralizada. A menudo falta un control eficaz de los costes.
 
-El hecho de que todas las tablas estén vinculadas entre sí es posible con las columnas vinculadas. Esta práctica característica simplifica la organización de los datos dentro de una base: Los datos que se necesitan en todas las tablas, como el precio de un producto, pueden crearse en una tabla y reproducirse en todas las demás. Si el precio cambia en la tabla original, también cambia en todas las demás tablas a través del enlace. De este modo, la información no tiene que introducirse varias veces, sino que se regula sola.
+## ¿Cuáles son los mayores retos de la contratación indirecta?
 
-En esta tabla se reúne mucha información: Las columnas "Producto", "€" para el precio, "Email" y "Art.No." para el número de artículo extraen todas sus datos de las otras dos tablas que hay en el original. De este modo, una entrada de datos puede utilizarse de forma sensata y equitativa en varios lugares.
+Mientras que la contratación directa suele estar bien estructurada y planificada estratégicamente, la indirecta suele ser todo lo contrario. Datos incoherentes, procesos de aprovisionamiento descentralizados y falta de transparencia: los retos son complejos y tienen un impacto significativo en la eficiencia de los costes. Echemos un vistazo más de cerca a las seis dificultades más importantes:
 
-## Pedir productos con el formulario web integrado
+### Silos de datos
 
-Con sus columnas, la tabla también constituye la base del [formulario web]({{< relref "help/base-editor/webformulare/webformulare" >}}) integrado para la organización de su oficina. Para realizar un pedido de material interno, los empleados seleccionan un producto de la lista - se trata de la columna vinculada "Productos" del catálogo de productos (Tabla 2). Después, sólo tienen que introducir la cantidad y en qué departamento trabajan, para que los pedidos queden claros.
+Los distintos departamentos suelen trabajar con sistemas y bases de datos diferentes que, por lo general, no están interconectados entre sí. Para la contratación indirecta en particular, esto significa que no se pueden hacer afirmaciones fiables sobre el comportamiento del gasto o la eficacia de los procesos de pedido. Las sinergias entre los distintos departamentos, por ejemplo en forma de pedidos agrupados o mejores condiciones de entrega, siguen sin reconocerse.
 
-![Formulario de pedido de material indirecto](bestellformular-indirektes-material.png)
+### Compras irregulares
 
-Cada formulario enviado termina inmediatamente en Base y se crea como una nueva fila. Los empleados tienen que introducir relativamente poca información, aunque hay mucha información almacenada en la propia tabla. Aquí es donde entran en juego las columnas enlazadas.
+Se habla de compras irregulares cuando los empleados realizan pedidos de materiales indirectos de forma independiente, al margen de los procesos de aprovisionamiento formales. Esto implica eludir deliberadamente o por ignorancia los procesos de toma de decisiones y, a menudo, realizar compras a los proveedores equivocados o a precios más elevados. Las consecuencias son descuentos desaprovechados, menor poder de negociación con los socios, costes incontrolables y **riesgos de cumplimiento**. Las compras irregulares se producen sistemáticamente en muchas empresas y a veces representan el **40% del total de las compras indirectas**.  
 
-> **Para los profesionales:** Las columnas enlazadas también pueden utilizarse para crear las columnas de fórmulas enlazadas que, por ejemplo, reflejan los valores de una determinada fila, los suman o emiten el valor máximo. Con una nueva entrada en la lista de pedidos y la selección de un producto, también se muestran automáticamente las propiedades de este producto, como la categoría, el número de artículo y el precio del producto.
+![Diversos retos en la contratación indirecta](indirekter_einkauf_herausforderungen.jpg)
 
-Aquí no es necesario asignar manualmente la información; simplemente se toma de las otras tablas y se reproduce aquí. La dirección de correo electrónico del correspondiente proveedor de la mercancía se toma de la tabla "Proveedores". Se necesitará más adelante para el proceso de pedido. Se acabó la tediosa transferencia de datos: SeaTable ya se encarga de todo esto automáticamente por usted y le facilita enormemente la organización de su oficina.
+### Procesos de aprovisionamiento complejos
 
-## Reglas automáticas: Simplificar, automatizar, notificar
+Los engorrosos procesos de aprobación, las responsabilidades poco claras y los problemas de organización pueden hacer que incluso las adquisiciones más sencillas tarden semanas. Especialmente cuando los departamentos individuales han desarrollado sus propios procesos, las estructuras históricamente crecidas se convierten rápidamente en un obstáculo para la eficacia de las adquisiciones indirectas.
 
-Para que la organización de su oficina sea aún mejor y más inteligente, hemos trabajado con nuestras reglas de automatización y reglas de notificación. Estas reglas automatizan procesos bajo ciertas condiciones y notifican a los miembros de su equipo cuando se producen los eventos apropiados, que usted define en las propias reglas.
+### Falta de transparencia
 
-Con una primera regla hemos determinado que para cada fila recién creada en la tabla 1 ("Pedidos") se establece automáticamente la opción "abierto" para la columna "Estado". Esto significa que cada pedido se marca directamente como abierto y, por tanto, todos los procesadores saben que aún no se ha completado.
+La falta de transparencia es otro de los problemas centrales de la contratación indirecta. Las causas son múltiples y pueden reforzarse mutuamente: compras descentralizadas, diversos sistemas incompatibles o documentación incompleta. Como resultado, los responsables no saben dónde reside el mayor **potencial de ahorro y optimización**. No se pueden evaluar los proveedores ni los riesgos.
 
-Las demás reglas de automatización asignan automáticamente cada pedido al agente correcto de nuestra plantilla. Esto funciona de la siguiente manera:
+### Procesos de aprobación inexistentes o poco claros.
 
-1. Como condición, debe seleccionarse que se produzca una acción por cada fila recién añadida con la siguiente condición. Este es entonces el disparador que desencadena la acción.
-2. En nuestro ejemplo de la derecha, la acción se activa cuando la categoría es "Alimentos".
-3. A continuación, se introduce un empleado concreto en la columna "Agente".
+Los procesos de aprobación poco claros provocan la frustración de los empleados y la ineficacia de los procesos. Especialmente en la adquisición de materiales indirectos, los departamentos especializados desconocen a menudo los procesos previstos. Las solicitudes acaban en manos de los empleados equivocados sin que esté claro quién tiene que tomar realmente la decisión final. O no se implica a las partes interesadas importantes. Este es un problema particular en las adquisiciones en las que el tiempo es un factor crítico.
 
-En cuanto se recibe un pedido en el que, por ejemplo, se piden manzanas, SeaTable reconoce a través de las columnas vinculadas que la categoría asociada es "Alimentos" y, a continuación, introduce automáticamente el procesador correcto con la regla de automatización. Esto es especialmente importante para la siguiente regla: la regla de notificación.
+### Falta de control
 
-Esta regla notifica automáticamente a todos los participantes por correo electrónico si hay algún cambio. Debido a la especificación de la regla de automatización (hemos creado una regla para cada categoría), sólo los agentes reciben una notificación cuando se reclama exactamente su categoría en el pedido. De este modo, los demás compañeros no se ven molestados por correos electrónicos molestos que no tienen que ver con sus compras internas.
+El reto más grave en la contratación indirecta es la falta de control de los costes. Los procesos descentralizados dificultan el registro de las métricas y los KPI necesarios. **Esto hace casi imposible controlar y planificar el gasto** y las áreas problemáticas y de potencial de optimización permanecen sin detectar. El aprovisionamiento indirecto sólo puede reaccionar en lugar de trabajar con previsión.
 
-## Compra indirecta: reenvío de pedidos con un solo clic
+## ¿Cómo puede optimizar su aprovisionamiento indirecto?
 
-Con SeaTable también tiene la posibilidad de enviar correos electrónicos automatizados con un solo clic. Esto no sólo es muy útil en las compras internas. Para ello, primero tienes que añadir tu cuenta de correo electrónico a tu Base. Esto se puede hacer a través de los tres puntos en la parte superior derecha -> Configuración -> Proveedores de terceros. Aquí puede añadir su cuenta de correo electrónico de acuerdo con las especificaciones de su proveedor de correo electrónico. Una vez realizado este paso, puede utilizar la columna de botones para crear un botón de envío de correos electrónicos.
+Como vemos, los retos de la contratación indirecta son múltiples. El primer paso hacia una optimización sistemática es la integración coherente de los sistemas existentes en una herramienta central de aprovisionamiento:
 
-![Enviar pedidos automáticamente con SeaTable](Bestellungen-automatisch-verschicken.gif)
+- **Los procesos estandarizados y transparentes** simplifican los flujos de trabajo complejos y evitan estructuras duplicadas o procesos de aprobación que requieren mucho tiempo.
 
-Así es como funciona:
+- Un **portal de autoservicio con vistas preconfiguradas de los productos** y una selección de los proveedores disponibles reduce las compras inconstantes y ofrece a sus empleados un acceso rápido a la información relevante.
 
-1. Cree una columna y seleccione la acción "Enviar correo electrónico
-2. Seleccione la cuenta de correo electrónico integrada desde la que se va a enviar el correo.
-3. Seleccione el asunto, el texto del correo electrónico y el destinatario
+- El **control eficaz de los costes** descubre posibles ahorros y permite también una gestión estratégica de los proveedores en la adquisición de materiales indirectos.
 
-**Para profesionales:** Puede utilizar corchetes de nariz para reproducir directamente el contenido de las columnas, lo que es especialmente importante en el caso de la dirección de correo electrónico. En nuestra plantilla, {Email} hace referencia a la dirección de correo electrónico del proveedor insertada anteriormente, que se ha tomado de la Tabla 3. También puede utilizar el contenido de las columnas en el asunto y el texto del correo electrónico, como el nombre del producto y la cantidad pedida (por ejemplo: "Deseamos pedir el producto {Product} con la cantidad {Amount}"). De este modo, simplificará enormemente la organización de su oficina, ya que no tendrá que redactar correos electrónicos manuales en los que haya que transferir laboriosamente todos los pedidos.
+![El control de costes también es crucial en el aprovisionamiento indirecto](indirekter_einkauf_kostenkontrolle.jpg)
 
-## Las vistas individuales y Kanban proporcionan una mejor visión de conjunto
+## ¿Qué ratios existen para controlar las adquisiciones indirectas?
 
-SeaTable no sería una solución óptima para la organización de oficinas si no tuviera también una función clara y práctica para la gestión de tareas. Por un lado, creamos [vistas]({{< relref "help/base-editor/ansichten" >}}) diferentes para cada agente, de modo que sólo sean visibles los pedidos que le conciernen. Por ejemplo, un agente de material de oficina no necesita ver los pedidos de comida. Para ello, haga clic en la pequeña flecha de la esquina superior izquierda, en nuestro ejemplo titulada "Ver todo".
+Antes de ponerse en marcha y comenzar a establecer el **control de costes y procesos** para su aprovisionamiento indirecto, debe pensar en sus indicadores clave de rendimiento. Dependiendo de su objetivo, hay diferentes métricas que son importantes y a las que debe prestar especial atención. A continuación le presentamos los KPI más importantes. Básicamente, puede diferenciar entre las métricas de eficiencia del proceso y los indicadores de rendimiento financiero
 
-![Vista de Kanban de todos los pedidos en compras indirectas](kanban-view-indirekte-beschaffung.png)
+### Métricas de eficiencia de los procesos
 
-Con un filtro, se establecen las personas correspondientes a las que va dirigida la vista. Así, sólo se muestran las órdenes que también pertenecen a uno mismo, lo que ayuda a mantener una visión general y a tener a la vista las propias áreas de responsabilidad. Sin embargo, las vistas son también la base del complemento Kanban.
+- **Tiempo del ciclo de aprovisionamiento:** Este ratio mide la duración total de una compra desde la solicitud hasta la liberación del pedido. Un tiempo de ciclo corto indica procesos eficientes. Los valores objetivo típicos son de 5 a 15 días laborables. Si su duración del ciclo de aprovisionamiento es superior a 15, sin duda debe revisar sus procesos.
 
-Con el plugin Kanban, simplifique la gestión de sus tareas y manténgase siempre en el flujo. El plugin se basa en las columnas de la tabla y las muestra con el aspecto familiar de Kanban. Para que cada procesador tenga su propio espacio de trabajo, hemos creado un tablero Kanban independiente para cada empleado. Para ello, se selecciona la vista correspondiente de la tabla "Pedidos".
+- **Tiempo de entrega del proveedor:** El tiempo que transcurre entre el pedido y la entrega también es fundamental en las adquisiciones indirectas. Este ratio le ayuda a evaluar a sus proveedores y a planificar su inventario.  
 
-Individualice su tablero exactamente como lo necesita. Al activar las columnas, el valor respectivo que se aplica a la orden se muestra en las órdenes. Mediante la función de arrastrar y soltar, puede cambiar la información de las tarjetas kanban según el orden que desee.
+- **Tasa de cumplimiento:** Esta métrica muestra el porcentaje de compras que se procesan a través de los procesos de aprovisionamiento previstos. Debe aspirar a una tasa de cumplimiento elevada para ahorrar costes y minimizar riesgos. A menudo se especifica un valor objetivo del 85%.  
 
-## Columnas enlazadas: Utilizar las sinergias
+- **Tasa de compras irregulares:** La tasa de compras irregulares es hasta cierto punto la contrapartida de la tasa de cumplimiento. Muestra qué proporción de las compras de materiales indirectos se realizan al margen de los procesos formales.
 
-Ya hemos explicado anteriormente lo valiosas que son las columnas vinculadas de SeaTable para la organización de datos. En nuestra gestión de no reventa, resulta especialmente práctico porque los datos del producto y del fabricante pueden integrarse directamente en el formulario web para pedidos sin tener que volver a introducir estos datos. **Existe una fuente de datos central**, que se puede agotar infinitamente a través de las columnas vinculadas y la columna "fórmula para vínculos" de otras tablas. La ventaja de esto es que los cambios en la fuente también se transfieren automáticamente a todos los valores vinculados.
+### Indicadores de rendimiento financiero
 
-El segundo cuadro contiene el catálogo completo de productos de la organización de la oficina. Sólo los productos que se almacenan aquí pueden ser pedidos por el personal. Por lo tanto, es importante que todos los productos estén en la lista: en cuanto se añaden nuevos productos, se introducen aquí y están disponibles inmediatamente para su pedido.
+- **Costes evitados:** Con este ratio, puede hacer una declaración sobre cuánto se ha ahorrado en comparación con el presupuesto previsto, por ejemplo, agrupando pedidos o negociando precios.  
 
-![El catálogo de productos para el material indirecto en SeaTable](produktkatalog-indirekter-einkauf.png)
+- **Costes por factura:** Los costes de procesamiento interno por factura proporcionan información sobre la eficacia operativa de sus procesos de pago. Los procesos automatizados le permiten reducir considerablemente estos costes.  
 
-Esta tabla también utiliza información de otras tablas. Los números de pedido, por ejemplo, proceden de la tabla "Pedidos", y los proveedores y sus direcciones de correo electrónico, de la tercera tabla "Proveedores". Una vez más, las columnas vinculadas se utilizan para reducir al máximo el esfuerzo organizativo. La columna "€" de esta tabla muestra los precios de los productos según la lista y es decisiva para calcular los precios de los pedidos.
+- **Gasto bajo gestión:** Esta cifra indica qué proporción del gasto total controla activamente el departamento de compras. Cuanto mayor sea el valor, mayor será el control sobre el gasto.
 
-## Compras indirectas: gestione con eficiencia y ahorro de costes con SeaTable
+## ¿Cómo ayudan las soluciones digitales en la contratación indirecta?
 
-La organización de la oficina, y especialmente el pedido de productos internos, puede convertirse rápidamente en una trivialidad, pero es importante y mantiene la empresa en funcionamiento. La plantilla que se muestra en esta entrada del blog se puede encontrar directamente en SeaTable. Al crear una nueva base, simplemente seleccione la opción: _Comenzar con la plantilla_ y encontrará esta plantilla en el área de **Operaciones**.
+La contratación indirecta, tradicionalmente fragmentada, puede optimizarse significativamente mediante **tecnologías modernas en la nube** como la **plataforma sin código SeaTable**. Las soluciones digitales ofrecen una amplia gama de opciones para acabar con los silos de datos, crear transparencia y optimizar los procesos. Al centralizar todos los datos relevantes y colaborar en tiempo real, obtendrá una visión completa de sus proveedores, contratos, presupuestos y gastos.
 
-Con SeaTable tiene a su lado una poderosa herramienta que puede proporcionarle un excelente apoyo en este y muchos otros procesos. Por ejemplo, puede utilizarlo para organizar la [gestión de su oferta de CRM]({{< relref "posts/crm-angebotsmanagement" >}}?lang=auto) o [planificar talleres internos]({{< relref "posts/workshop-planen" >}}).
+Con la [plantilla digital gratuita]({{< relref "templates/operations/indirect-procurement/" >}})  de SeaTable, puede crear rápidamente un sistema de aprovisionamiento adaptado a sus necesidades para simplificar sus procesos y reducir sus esfuerzos. Con los formularios integrados y la vista de galería, puede crear un **catálogo de productos con selección de proveedores y formulario de pedido** en sólo unos clics, lo que permite a los departamentos informar fácilmente de las necesidades y realizar pedidos. Las notificaciones integradas y los **flujos de trabajo automatizados** garantizan un proceso de aprobación eficaz y rápido.
 
-Pruebe nuestra plantilla y [regístrese]({{< relref "pages/registration" >}}). SeaTable es gratuito en su versión básica.
+{{< template-box id="d0e2ed7353734084ba94" submit="Pruebe nuestra plantilla" text="Desplácese por nuestra plantilla interactiva y descubra las primeras funciones." >}}
+
+Los módulos de estadísticas integrados y los paneles de informes le ofrecen información en tiempo real sobre las tendencias de gasto y el rendimiento de los proveedores. También puede almacenar fácilmente diversos archivos y documentos directamente en una ubicación central, ya sean imágenes, contratos, presentaciones u otros archivos. Las integraciones sin fisuras con los sistemas ERP existentes a través de API garantizan un flujo de datos coherente, lo que convierte a SeaTable en la interfaz central para su contratación indirecta digital.
+
+## Conclusión
+
+El reto de toda empresa es adquirir materiales indirectos de forma eficiente y rentable. Por un lado, los consumibles como bolígrafos, café en grano y papel de impresora deben volver a pedirse a tiempo antes de que se agoten. Otros artículos se piden por separado y bajo pedido. Incluso pequeños cambios en los procesos internos pueden suponer un aumento significativo de la eficacia. La clave para optimizar la adquisición de materiales indirectos reside en una herramienta de base de datos central en la que se agrupe toda la información relevante de los distintos departamentos. Esto crea transparencia y claridad sobre los procesos, reduce la tasa de compras inconstantes y aumenta su gasto bajo gestión. Al tener acceso a los valores actuales en todo momento, puede crear informes y análisis significativos y fiables e identificar los problemas y el potencial de optimización con mayor rapidez. Con SeaTable, tiene a su lado una potente herramienta que puede proporcionarle una excelente ayuda en éste y muchos otros procesos.
+
+## FAQ - Aprovisionamiento indirecto
+
+{{< faq "¿Qué significa aprovisionamiento indirecto?" >}}
+
+El aprovisionamiento directo y el indirecto son dos subáreas del aprovisionamiento en las empresas. El aprovisionamiento indirecto suele organizarse de forma descentralizada. A diferencia del aprovisionamiento directo, el indirecto consiste en adquirir bienes y servicios necesarios para las operaciones cotidianas, desde papel de copia hasta software de seguridad informática.
+{{< /faq >}}
+
+{{< faq "¿Qué son los materiales indirectos?" >}}
+
+Los materiales indirectos son productos consumibles y recursos necesarios para el funcionamiento diario de una empresa sin que pasen directamente al producto final. Los materiales indirectos típicos son el material de oficina, las máquinas herramienta, la energía, los productos de limpieza o los materiales de salud y seguridad. La compra de materiales indirectos se denomina adquisición indirecta o aprovisionamiento indirecto.
+
+{{< /faq >}}
+
+{{< faq "¿Qué significa compra indirecta?" >}}
+
+La compra inconformista, o gasto inconformista, se refiere a una práctica de aprovisionamiento en la que los equipos o departamentos se saltan los procedimientos internos de aprovisionamiento. Como métrica de control de las adquisiciones indirectas, un alto índice de compras inconformistas indica la necesidad de optimizar la comunicación interna y los procesos de aprobación. Las compras inconformistas deben distinguirse de los gastos de cola. En este caso, se permite explícitamente a los departamentos hacer pedidos de cantidades más pequeñas a minoristas seleccionados sin la participación de Adquisiciones.
+
+{{< /faq >}}
