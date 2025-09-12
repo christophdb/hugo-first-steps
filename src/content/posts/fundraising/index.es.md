@@ -1,13 +1,14 @@
 ---
 title: 'Recaudación de fondos: Cómo recaudar y gestionar donativos - SeaTable'
+description: 'Impulsa tus proyectos sociales o culturales: Motiva donantes, regula campañas y controla donaciones con claridad y herramientas digitales gratuitas – desde ONGs a eventos solidarios.'
 date: 2024-04-16
 lastmod: '2024-04-16'
 url: '/es/recaudacion-fondos'
 aliases:
     - /es/fundraising
 seo:
-    title:
-    description:
+    title: 'Recaudación de fondos: guía para el éxito solidario'
+    description: 'Aprende estrategias de captación de fondos y gestiona donaciones fácilmente en una sola herramienta digital.'
 categories:
     - 'best-practice'
 tags:
