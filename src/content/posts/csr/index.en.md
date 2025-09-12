@@ -1,13 +1,14 @@
 ---
 title: 'CSR - the basics of corporate social responsibility'
+description: 'Corporate Social Responsibility (CSR) is about taking responsibility for environmental, social, and economic impacts. Companies committed to CSR not only enhance their reputation but also improve employee engagement and customer loyalty. Discover practical steps to implement CSR and create a sustainable long-term impact for your organization.'
 date: 2024-04-08
 lastmod: '2025-05-19'
 coverImage: 'solar-4478105_1280.jpg'
 author: 'nsc'
 url: '/csr'
 seo:
-    title:
-    description:
+    title: 'CSR – Basics of Corporate Social Responsibility'
+    description: 'Learn the fundamentals of Corporate Social Responsibility (CSR) and how to integrate sustainability into your business strategy successfully.'
 categories:
     - 'best-practice'
 tags:

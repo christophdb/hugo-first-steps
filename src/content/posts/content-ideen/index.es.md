@@ -1,14 +1,14 @@
 ---
 title: 'Ideas de contenido que siempre funcionan'
+description: 'La clave del éxito en las redes sociales son las publicaciones regulares e interesantes. En este artículo encontrará ideas prácticas de contenido: desde “detrás de cámaras” hasta encuestas, sorteos y tips para lograr más interacción y presencia online.'
 date: 2024-01-24
 lastmod: '2025-02-13'
-author: 'nsc'
 url: '/es/ideas-contenido'
 aliases:
     - /es/content-ideen
 seo:
-    title:
-    description:
+    title: 'Ideas de contenido que siempre funcionan'
+    description: 'Descubra ideas creativas de contenido para redes sociales y aumente su alcance – formatos fáciles y efectivos.'
 categories:
     - 'best-practice'
 tags:

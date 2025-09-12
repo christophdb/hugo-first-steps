@@ -1,5 +1,6 @@
 ---
 title: 'RSE: conceptos básicos de la responsabilidad social de las empresas'
+description: 'La Responsabilidad Social Corporativa (RSC) implica que las empresas asuman su impacto en la sociedad y el medio ambiente. Implementar RSC no solo mejora la imagen de marca, sino que también fortalece la relación con clientes y empleados. Conozca cómo integrar prácticas responsables en su empresa para garantizar un futuro sostenible.'
 date: 2024-04-08
 lastmod: '2025-05-19'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/es/rse'
 aliases:
     - /es/csr
 seo:
-    title:
-    description:
+    title: 'CSR – Fundamentos de la Responsabilidad Social'
+    description: 'Descubra los fundamentos de la Responsabilidad Social Corporativa (RSC) y cómo aplicarla para lograr sostenibilidad empresarial.'
 categories:
     - 'best-practice'
 tags:

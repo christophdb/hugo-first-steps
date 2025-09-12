@@ -1,8 +1,9 @@
 ---
 title: 'Habit Tracker & Bullet Journal'
-description: ''
 date: '2024-08-24'
-url: '/fr/modele/habit-tracker-bullet-journal'
+url: '/fr/modele/registre-habitudes-bullet-journal'
+aliases: 
+    - '/fr/modele/habit-tracker-bullet-journal'
 category: 'everyday-life'
 functions:
 seo:

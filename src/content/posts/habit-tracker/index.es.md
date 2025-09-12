@@ -1,14 +1,14 @@
 ---
 title: 'Habit Tracker: cómo cambiar tus hábitos a largo plazo'
+description: 'Los propósitos son fáciles de hacer, pero difíciles de cumplir. Un habit tracker ayuda a visualizar el progreso, integrar rutinas y conseguir cambios reales – con consejos prácticos y ejemplos inspiradores para tu día a día.'
 date: 2023-12-06
 lastmod: '2024-01-25'
-author: 'lsc'
 url: '/es/rastreador-habitos'
 aliases:
     - /es/habit-tracker
 seo:
-    title:
-    description:
+    title: 'Seguimiento de hábitos – Cambia tus rutinas'
+    description: 'Usa un habit tracker para cambiar tus hábitos y crear rutinas positivas de manera sostenible.'
 categories:
     - 'best-practice'
 tags:

@@ -1,14 +1,14 @@
 ---
 title: 'Escritura de libros: 7 herramientas de software de autoría de un vistazo'
+description: 'Escribir un libro requiere organización y creatividad. Los programas para autores pueden ayudarle a estructurar la trama, dar vida a los personajes y gestionar su proyecto de forma eficiente. En este análisis encontrará 7 herramientas prácticas, desde software profesional hasta aplicaciones gratuitas, que facilitan cada fase del proceso creativo.'
 date: 2024-03-20
 lastmod: '2024-03-20'
-author: 'nsc'
 url: '/es/escribir-libro'
 aliases:
     - /es/buch-schreiben
 seo:
-    title:
-    description:
+    title: 'Escribir un libro: 7 programas para autores'
+    description: 'Descubra 7 programas de escritura para planificar y redactar su libro con éxito – incluidas opciones gratuitas.'
 categories:
     - 'best-practice'
 tags:

@@ -1,14 +1,14 @@
 ---
 title: 'Rédaction de livres : 7 outils logiciels de création en un coup d’œil'
+description: 'Écrire un livre est un défi, mais des logiciels spécialisés peuvent transformer le processus. De la structure narrative à la gestion des personnages, ces outils aident les auteurs à organiser leurs idées et à rester créatifs. Dans cet article, explorez 7 solutions adaptées, dont un programme gratuit, pour optimiser chaque étape de votre projet littéraire.'
 date: 2024-03-20
 lastmod: '2024-03-20'
-author: 'nsc'
 url: '/fr/ecrire-livre'
 aliases:
     - /fr/buch-schreiben
 seo:
-    title:
-    description:
+    title: 'Écrire un livre : 7 logiciels pour auteurs'
+    description: 'Découvrez 7 logiciels d’écriture pour planifier, structurer et rédiger votre livre – avec un outil gratuit inclus.'
 categories:
     - 'best-practice'
 tags:

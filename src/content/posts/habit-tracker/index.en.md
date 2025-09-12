@@ -1,13 +1,13 @@
 ---
 title: 'Habit Tracker - how to change your habits in the long term'
+description: 'New goals are easy to set but hard to keep. Learn how habit trackers make your progress visible and routines stick – with practical tips, ideas, and science-backed methods for achieving long-term behavioral change.'
 date: 2023-12-06
 lastmod: '2024-01-25'
 coverImage: 'Purple-Colorful-Modern-Roadmap-Timeline-Infographic-e1701339213192.jpg'
-author: 'lsc'
 url: '/habit-tracker'
 seo:
-    title:
-    description:
+    title: 'Habit Tracker – Change Your Habits for Good'
+    description: 'Discover how a habit tracker can help you change routines and build lasting, positive habits.'
 categories:
     - 'best-practice'
 tags:

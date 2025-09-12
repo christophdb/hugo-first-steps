@@ -3,7 +3,6 @@ title: 'Content-Ideen, die immer funktionieren'
 description: 'Für einen erfolgreichen Auftritt in den sozialen Medien ist besonders eines wichtig: regelmäßiges Posten von Inhalten. Die Algorithmen von Instagram und Co. bestrafen Inaktivität sofort und schränken die Sichtbarkeit von Accounts ein, was durchaus fatal für Ihre Reichweite sein kann. Daher ist es wichtig, den Algorithmus regelmäßig zu füttern. In diesem Artikel haben wir einige Content-Ideen zusammengestellt, die Sie auf Social Media schnell und ohne großen Aufwand umsetzen können.'
 date: 2024-01-24
 lastmod: '2025-02-13'
-author: 'nsc'
 url: '/de/content-ideen'
 seo:
     title: 'Innovative Content-Ideen für mehr Reichweite '

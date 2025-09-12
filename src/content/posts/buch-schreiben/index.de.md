@@ -3,7 +3,6 @@ title: 'Buch schreiben: 7 Autorensoftware Tools im Überblick'
 description: 'In einer Zeit, in der digitale Werkzeuge und Softwarelösungen eine immer größere Rolle im kreativen Schaffensprozess spielen, ist es für angehende Autoren entscheidend, die richtige Software zu finden, um ihre Visionen zum Leben zu erwecken. Dieser Artikel wirft einen genaueren Blick auf sieben verschiedene Tools, die speziell für Autoren entwickelt wurden.'
 date: 2024-03-20
 lastmod: '2024-03-20'
-author: 'nsc'
 url: '/de/buch-schreiben'
 seo:
     title: 'Buch schreiben: 7 Autorensoftware Tools im Überblick'
