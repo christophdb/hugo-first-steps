@@ -2,12 +2,14 @@
 title: 'Plan funeral'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/funeral-planner'
+url: '/es/plantilla/planificador-funeral'
+aliases:
+    - '/es/plantilla/funeral-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla organización funeral: guía paso a paso'
+    description: 'Gestiona toda la organización — tareas, invitados, detalles y homenaje en una plantilla única, clara y fácil de usar.'
 template: '6624590d2b024f068339'
 ---
 

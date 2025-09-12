@@ -6,8 +6,8 @@ url: '/template/funeral-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Funeral Planner Template: Structure & Delegate Tasks'
+    description: 'Plan a dignified funeral: organize tasks, guests, costs and ceremonies simply with our digital checklist template.'
 template: '6624590d2b024f068339'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Immobilienverwaltung'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/property-management'
+url: '/de/vorlage/immobilienverwaltung'
+aliases:
+    - '/de/vorlage/property-management'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Immobilienverwaltung Vorlage: Miete, Mieter, Aufgaben im Griff'
+    description: 'Mit der Immobilienverwaltungs-Vorlage von SeaTable Mieten, Aufgaben, Mieter und Verträge zentral verwalten.'
 template: '6f9a2b4869804608978c'
 ---
 

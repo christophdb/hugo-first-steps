@@ -2,12 +2,14 @@
 title: 'Pipeline de vente'
 description: ''
 date: '2024-08-16'
-url: '/fr/modele/sales-pipeline'
+url: '/fr/modele/pipeline-vente'
+aliases:
+    - '/fr/modele/sales-pipeline'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle pipeline de vente : suivez vos opportunités'
+    description: 'Centralisez leads, phases et progression grâce à un tableau de bord pipeline ventes adapté à votre équipe.'
 template: 'fe3688c820cc4c649b4f'
 ---
 

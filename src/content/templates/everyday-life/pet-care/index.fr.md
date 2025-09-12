@@ -2,12 +2,14 @@
 title: 'Garder des animaux domestiques'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/pet-care'
+url: '/fr/modele/gestion-animaux'
+aliases:
+    - '/fr/modele/pet-care'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle gestion animaux: suivi & organisation'
+    description: 'Modèle digital pour gérer rdv vétérinaire, nourriture et planning de soins pour tous vos animaux domestiques.'
 template: 'b82852b6536b4b2b9cbd'
 ---
 

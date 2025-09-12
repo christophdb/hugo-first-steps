@@ -2,12 +2,14 @@
 title: 'Tener animales de compañía'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/pet-care'
+url: '/es/plantilla/cuidado-mascotas'
+aliases:
+    - '/es/plantilla/pet-care'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla cuidado de mascotas: control total'
+    description: 'Lleva al día salud, alimentación, presupuestos y tareas para tus animales – con un modelo digital inteligente.'
 template: 'b82852b6536b4b2b9cbd'
 ---
 

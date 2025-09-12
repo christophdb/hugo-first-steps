@@ -2,12 +2,14 @@
 title: 'Gestión inmobiliaria'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/property-management'
+url: '/es/plantilla/gestion-inmobiliaria'
+aliases:
+    - '/es/plantilla/property-management'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla gestión inmobiliaria: propiedades, inquilinos'
+    description: 'Gestiona contratos, pagos y mantenimiento — todo lo relacionado con tu cartera inmobiliaria de manera digital.'
 template: '6f9a2b4869804608978c'
 ---
 

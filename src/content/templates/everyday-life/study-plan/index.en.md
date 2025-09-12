@@ -6,8 +6,8 @@ url: '/template/study-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Study Plan Template: Organize Your Study Routine'
+    description: 'Plan, track and optimize your study goals with a free digital template—ideal for exams, courses or languages.'
 template: '0ef3605355e24164a3cb'
 ---
 

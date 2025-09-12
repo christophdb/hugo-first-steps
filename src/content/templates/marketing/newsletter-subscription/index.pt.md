@@ -2,12 +2,14 @@
 title: 'Assinatura do boletim informativo'
 description: ''
 date: '2024-08-17'
-url: '/pt/modelo/newsletter-subscription'
+url: '/pt/modelo/inscricao-newsletter'
+alaises:
+    - '/pt/modelo/newsletter-subscription'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo inscrição newsletter: coleta e consentimento digital'
+    description: 'Capte contatos para seu boletim de forma segura: formulário ou QR code, modelo pronto a usar.'
 template: '7cf445229dd74020b326'
 ---
 

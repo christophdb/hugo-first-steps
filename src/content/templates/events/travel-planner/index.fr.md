@@ -2,12 +2,14 @@
 title: 'Planificateur de voyage'
 description: ''
 date: '2024-08-17'
-url: '/fr/modele/travel-planner'
+url: '/fr/modele/planificateur-voyage'
+aliases:
+    - '/fr/modele/travel-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle planificateur de voyage : tout organiser facilement'
+    description: 'Tout pour vos voyages : itinéraire, réservations, dépenses et souvenirs réunis dans un modèle digital.'
 template: '836031683b7e4df489a2'
 ---
 

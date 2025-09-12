@@ -6,8 +6,8 @@ url: '/template/travel-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Travel Planner Template: Organize Your Perfect Trip'
+    description: 'The ultimate travel planner for activities, documents, expenses, to-dos and memories—all in a digital template.'
 template: '836031683b7e4df489a2'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон сравнения цен: быстрое решение'
+    description: 'Быстро сравните цены и характеристики разных товаров или продавцов – шаблон для автоматизации выбора.'
 template: '93b0bef415cb4811ab34'
 ---
 

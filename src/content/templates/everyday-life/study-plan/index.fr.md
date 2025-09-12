@@ -2,12 +2,14 @@
 title: "Plan d'apprentissage"
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/study-plan'
+url: '/fr/modele/planning-etudes'
+aliases:
+    - '/fr/modele/study-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle planning révisions: apprendre sans stress'
+    description: 'Gagnez en efficacité : modèle de planning d’études pour gérer horaires, priorités et suivi de votre apprentissage.'
 template: '0ef3605355e24164a3cb'
 ---
 

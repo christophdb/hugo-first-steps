@@ -2,12 +2,14 @@
 title: 'Planear o funeral'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/funeral-planner'
+url: '/pt/modelo/planejamento-funeral'
+aliases:
+    - '/pt/modelo/funeral-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo planeamento funeral: apoio e organização'
+    description: 'Organize o funeral passo-a-passo: tarefas, convidades, custos e cerimónias num só modelo prático e funcional.'
 template: '6624590d2b024f068339'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Planificador de viajes'
 description: ''
 date: '2024-08-17'
-url: '/es/plantilla/travel-planner'
+url: '/es/plantilla/planificador-viajes'
+aliases:
+    - '/es/plantilla/travel-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla planificador de viajes: organiza tu aventura'
+    description: 'Planifica rutas, hoteles, gastos y documentos con una plantilla flexible y gestión de recuerdos de viaje.'
 template: '836031683b7e4df489a2'
 ---
 

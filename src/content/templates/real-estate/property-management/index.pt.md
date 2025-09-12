@@ -2,12 +2,14 @@
 title: 'Gestão imobiliária'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/property-management'
+url: '/pt/modelo/administracao-imoveis'
+aliases:
+    - '/pt/modelo/property-management'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo administração de imóveis: controle total'
+    description: 'Controle unidades, contratos, inquilinos e manutenções de modo digital e seguro – modelo prático para proprietários.'
 template: '6f9a2b4869804608978c'
 ---
 

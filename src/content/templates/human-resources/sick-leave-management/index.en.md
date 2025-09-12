@@ -6,8 +6,8 @@ url: '/template/sick-leave-management'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Sick Leave Management Template: Track Absences Easily'
+    description: 'Manage sick leave records for your team—digital template, notifications and absence analytics included.'
 template: '66efdfd13de84a9a96a9'
 ---
 

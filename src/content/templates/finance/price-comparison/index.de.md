@@ -2,12 +2,14 @@
 title: 'Preisvergleich'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/price-comparison'
+url: '/de/vorlage/preisvergleich'
+aliases:
+    - '/de/vorlage/price-comparison'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Preisvergleich Vorlage: Produkte & Händler im Überblick'
+    description: 'Produktpreise einfach vergleichen: Smarte Vorlage hebt das günstigste Angebot hervor & strukturiert alle Daten übersichtlich.'
 template: '93b0bef415cb4811ab34'
 ---
 

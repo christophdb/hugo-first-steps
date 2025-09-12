@@ -2,12 +2,14 @@
 title: 'Comparação de preços'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/price-comparison'
+url: '/pt/modelo/comparacao-precos'
+aliases:
+    - '/pt/modelo/price-comparison'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo comparação de preços: análise fácil & visual'
+    description: 'Analise diferenças de preço e escolha as melhores ofertas – modelo digital e intuitivo para compradores exigentes.'
 template: '93b0bef415cb4811ab34'
 ---
 

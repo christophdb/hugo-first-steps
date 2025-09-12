@@ -2,12 +2,14 @@
 title: 'Proceso de venta'
 description: ''
 date: '2024-08-16'
-url: '/es/plantilla/sales-pipeline'
+url: '/es/plantilla/pipeline-ventas'
+aliases:
+    - '/es/plantilla/sales-pipeline'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla sales pipeline: control del embudo de ventas'
+    description: 'Visualiza oportunidades y fases del proceso de ventas para cerrar tratos antes y mejor. Totalmente editable.'
 template: 'fe3688c820cc4c649b4f'
 ---
 

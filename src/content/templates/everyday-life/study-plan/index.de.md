@@ -2,12 +2,14 @@
 title: 'Lernplan'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/study-plan'
+url: '/de/vorlage/lernplan'
+aliases:
+    - '/de/vorlage/study-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Lernplan Vorlage: Prüfungsvorbereitung stressfrei'
+    description: 'Lernzeit optimal planen: Lernplan kostenlos anpassen, Fortschritt tracken, Themen priorisieren, Ziel erreichen.'
 template: '0ef3605355e24164a3cb'
 ---
 

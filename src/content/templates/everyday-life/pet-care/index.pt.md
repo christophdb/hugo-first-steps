@@ -2,12 +2,14 @@
 title: 'Manter os animais de estimação'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/pet-care'
+url: '/pt/modelo/cuidado-animais'
+aliases:
+    - '/pt/modelo/pet-care'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo cuidado dos animais: tarefa & saúde fácil'
+    description: 'Organize vacinas, alimentação, gastos e bem-estar de todos os seus animais em um só lugar prático.'
 template: 'b82852b6536b4b2b9cbd'
 ---
 
