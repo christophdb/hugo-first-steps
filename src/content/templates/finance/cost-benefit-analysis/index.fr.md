@@ -2,12 +2,14 @@
 title: 'Analyse coûts-bénéfices'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/cost-benefit-analysis'
+url: '/fr/modele/analyse-couts-benefices'
+aliases:
+    - '/fr/modele/cost-benefit-analysis'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle analyse coûts-bénéfices : décision rapide'
+    description: 'Décidez quand investir: modèle d’analyse coûts-bénéfices pour arbitrer projets et ressources et assurer le meilleur retour.'
 template: '96bac4ce0df545daa01f'
 ---
 

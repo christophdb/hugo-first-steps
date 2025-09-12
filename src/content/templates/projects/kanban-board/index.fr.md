@@ -6,8 +6,8 @@ url: '/fr/modele/kanban-board'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle Kanban Board : organiser vos tâches'
+    description: 'Modèle intuitif : suivez, gérez et visualisez facilement vos projets en équipe ou en solo, selon vos flux Kanban.'
 template: '932ed68b8ffc4a689819'
 ---
 

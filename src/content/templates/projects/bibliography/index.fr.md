@@ -2,12 +2,14 @@
 title: 'Bibliographie'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/bibliography'
+url: '/fr/modele/bibliographie'
+aliases:
+    - '/fr/modele/bibliography'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle bibliographie : références faciles & précises'
+    description: 'Centralisez toutes vos références dans une bibliographie complète : modèle gratuit pour l’organisation académique.'
 template: 'afeb7cc5783744bfa3f7'
 ---
 

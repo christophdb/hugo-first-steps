@@ -8,8 +8,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон библиографии: учёт научных источников'
+    description: 'Библиография без ошибок — электронный шаблон, сбор и выгрузка всех книг, статей и интернет-источников для отчётов.'
 template: 'afeb7cc5783744bfa3f7'
 ---
 

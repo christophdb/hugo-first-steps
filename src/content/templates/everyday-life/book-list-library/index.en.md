@@ -6,8 +6,8 @@ url: '/template/book-list-library'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Book List Template – Manage Your Library Online'
+    description: 'Keep track of your library with ease: Organize books, authors and loans with our flexible online book list template.'
 template: '1a98cfea0a6548d599c3'
 ---
 

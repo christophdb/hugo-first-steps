@@ -2,12 +2,14 @@
 title: 'Lista de livros / Biblioteca'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/book-list-library'
+url: '/pt/modelo/lista-de-livros'
+aliases:
+    - '/pt/modelo/book-list-library'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo lista de livros – sua biblioteca organizada'
+    description: 'Digitalize e organize sua biblioteca: controle títulos, autores, temas e empréstimos facilmente com modelo grátis.'
 template: '1a98cfea0a6548d599c3'
 ---
 

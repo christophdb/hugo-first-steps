@@ -6,8 +6,8 @@ url: '/pt/modelo/kanban-board'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Template Kanban Board: projetos sob controle'
+    description: 'Visualize seus fluxos de trabalho e tarefas: kanban digital grátis, personalizável e ideal para colaboração.'
 template: '932ed68b8ffc4a689819'
 ---
 

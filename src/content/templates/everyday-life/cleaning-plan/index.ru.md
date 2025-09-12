@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон графика уборки: автоматизированная ротация'
+    description: 'Организация домашних дел : автоматизированный график, честное распределение, цифровой контроль и статистика.'
 template: '8c6d69d5dcda43e6bf9f'
 ---
 

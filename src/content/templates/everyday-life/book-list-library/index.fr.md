@@ -2,12 +2,14 @@
 title: 'Liste de livres / Bibliothèque'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/book-list-library'
+url: '/fr/modele/liste-de-livres'
+aliases:
+    - '/fr/modele/book-list-library'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle liste de livres – gérer sa bibliothèque'
+    description: 'Centralisez et classez tous vos livres et auteurs: prêt, classement et gestion visuelle de votre bibliothèque privée.'
 template: '1a98cfea0a6548d599c3'
 ---
 

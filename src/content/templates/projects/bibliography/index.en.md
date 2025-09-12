@@ -6,8 +6,8 @@ url: '/template/bibliography'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Bibliography Template: Organize References Easily'
+    description: 'Create and manage your bibliography the smart way: free, structured template for books, articles, and web sources.'
 template: 'afeb7cc5783744bfa3f7'
 ---
 

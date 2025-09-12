@@ -2,12 +2,14 @@
 title: 'Lista de libros / Biblioteca'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/book-list-library'
+url: '/es/plantilla/lista-de-libros'
+aliases:
+    - '/es/plantilla/book-list-library'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla lista de libros – gestiona tu biblioteca'
+    description: 'Controla tu biblioteca: organiza, cataloga y comparte libros, autores y préstamos con esta plantilla digital gratis.'
 template: '1a98cfea0a6548d599c3'
 ---
 

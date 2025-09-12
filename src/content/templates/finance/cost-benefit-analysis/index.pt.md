@@ -2,12 +2,14 @@
 title: 'Análise custo-benefício'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/cost-benefit-analysis'
+url: '/pt/modelo/analise-custo-beneficio'
+aliases:
+    - '/pt/modelo/cost-benefit-analysis'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo análise custo-benefício: decisão fácil'
+    description: 'Tome decisões fundamentadas : modelo digital para comparar custos e benefícios em todos os projetos da empresa.'
 template: '96bac4ce0df545daa01f'
 ---
 

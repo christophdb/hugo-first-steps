@@ -2,12 +2,14 @@
 title: 'Modelo de confirmação de encomenda'
 description: ''
 date: '2025-05-02'
-url: '/pt/modelo/order-confirmation'
+url: '/pt/modelo/confirmacao-pedido'
+aliases:
+    - '/pt/modelo/order-confirmation'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo confirmação de pedido: digital e seguro'
+    description: 'Baixe modelo gratuito para confirmar pedidos – totalmente editável, pronto para uso em qualquer negócio.'
 template: 'f62eb7d3adf841cfb48a'
 ---
 

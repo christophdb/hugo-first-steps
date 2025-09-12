@@ -6,8 +6,8 @@ url: '/template/mileage-log'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Mileage Log Template: digital & tax-compliant'
+    description: 'Log trips digitally—easy, secure and ready for tax purposes. Free template with stats, multi-car and cloud features.'
 template: '14498b7d75cd47ab934c'
 ---
 

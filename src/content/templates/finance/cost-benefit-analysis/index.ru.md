@@ -10,8 +10,8 @@ aliases:
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон анализа затрат и выгод: простой расчет'
+    description: 'Определите эффективность вложений: цифровой шаблон для расчета всех затрат и выгод бизнес-проектов.'
 template: '96bac4ce0df545daa01f'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'SWOT-анализ: шаблон для бизнеса и проектов'
+    description: 'Легко проведите SWOT-анализ: цифровой шаблон для оценки сильных и слабых сторон, возможностей и угроз вашего предприятия.'
 template: '13fe52fa8c814d5bbeb7'
 ---
 

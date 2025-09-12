@@ -6,8 +6,8 @@ url: '/template/kanban-board'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Kanban Board Template: Visualize & Manage Workflows'
+    description: 'Visual Kanban board template : manage projects and tasks, customize your process and keep your team on track.'
 template: '932ed68b8ffc4a689819'
 ---
 

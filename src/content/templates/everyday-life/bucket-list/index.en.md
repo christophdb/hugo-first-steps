@@ -6,8 +6,8 @@ url: '/template/bucket-list'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Bucket List Template: Structure Your Life Goals'
+    description: 'Digital bucket list template: Easily manage, track & expand your life goals and adventures online, for every dreamer.'
 template: '9c1486a65e97457a9fdc'
 ---
 
