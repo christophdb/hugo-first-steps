@@ -1,13 +1,14 @@
 ---
 title: 'Collecte de fonds : comment collecter et gérer les dons - SeaTable'
+description: 'Animez votre association : Engager, segmenter et renforcer votre impact grâce aux méthodes de fundraising et un outil métier simple pour centraliser vos dons et générer des reçus automatiquement.'
 date: 2024-04-16
 lastmod: '2024-04-16'
 url: '/fr/collecte-fonds'
 aliases:
     - /fr/fundraising
 seo:
-    title:
-    description:
+    title: 'Fundraising : dynamisez vos collectes et donateurs'
+    description: 'Méthodes modernes de levée de fonds : inspirez soutien, centralisez les dons, réussissez vos projets solidaires.'
 categories:
     - 'best-practice'
 tags:

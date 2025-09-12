@@ -1,12 +1,13 @@
 ---
 title: 'Fundraising: How to collect and manage donations - SeaTable'
+description: 'Turn ideas into action: Campaign, communicate and grow your nonprofit or cause with proven fundraising tactics. Learn how to motivate donors and manage records – digital, easy, and for any project.'
 date: 2024-04-16
 lastmod: '2024-04-16'
 coverImage: 'charity-donations-fundraising-nonprofit-volunteer-concept.jpg'
 url: '/fundraising'
 seo:
-    title:
-    description:
+    title: 'Fundraising: Grow Your Impact & Donations'
+    description: 'Discover strategies to inspire donors and manage donations efficiently – free fundraising and donor management guide.'
 categories:
     - 'best-practice'
 tags:

@@ -1,13 +1,14 @@
 ---
 title: 'Angariação de fundos: Como recolher e gerir donativos - SeaTable'
+description: 'Dê vida à sua causa: técnicas modernas, comunicação emocional e plataforma para gerenciar arrecadações, recibos e contato dos doadores – perfeito para ONGs, eventos ou campanhas comunitárias.'
 date: 2024-04-16
 lastmod: '2024-04-16'
 url: '/pt/arrecadacao-fundos'
 aliases:
     - /pt/fundraising
 seo:
-    title:
-    description:
+    title: 'Fundraising: captação de recursos para projetos'
+    description: 'Estratégias práticas de captação : motive doadores e controle doações facilmente com nosso modelo digital gratuito.'
 categories:
     - 'best-practice'
 tags:
