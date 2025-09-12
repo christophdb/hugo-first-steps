@@ -1,14 +1,14 @@
 ---
 title: 'Habit Tracker - como mudar os seus hábitos a longo prazo'
+description: 'Estabelecer novas rotinas é desafiador. Um habit tracker permite visualizar progressos, criar hábitos saudáveis e conquistar mudanças duradouras – com dicas práticas para aplicar no dia a dia e fortalecer a disciplina.'
 date: 2023-12-06
 lastmod: '2024-01-25'
-author: 'lsc'
 url: '/pt/monitor-habitos'
 aliases:
     - /pt/habit-tracker
 seo:
-    title:
-    description:
+    title: 'Rastreador de hábitos – Mude seus hábitos para sempre'
+    description: 'Use um habit tracker para conquistar novas rotinas e manter mudanças positivas com mais facilidade.'
 categories:
     - 'best-practice'
 tags:

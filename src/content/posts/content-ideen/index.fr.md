@@ -1,14 +1,14 @@
 ---
 title: 'Des idées de contenu qui fonctionnent toujours'
+description: 'Le succès sur les réseaux sociaux repose sur des contenus réguliers et créatifs. Voici des idées concrètes à appliquer sur Instagram, TikTok, etc. : coulisses, sondages, concours et astuces à adapter à votre communauté pour plus de visibilité.'
 date: 2024-01-24
 lastmod: '2025-02-13'
-author: 'nsc'
 url: '/fr/idees-contenu'
 aliases:
     - /fr/content-ideen
 seo:
-    title:
-    description:
+    title: 'Idées de contenu qui fonctionnent toujours'
+    description: 'Découvrez des idées de contenu créatives pour les réseaux sociaux et augmentez votre portée et engagement facilement.'
 categories:
     - 'best-practice'
 tags:

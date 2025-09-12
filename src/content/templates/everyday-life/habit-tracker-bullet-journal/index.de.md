@@ -1,6 +1,5 @@
 ---
 title: 'Habit Tracker & Bullet Journal'
-description: ''
 date: '2024-08-24'
 url: '/de/vorlage/habit-tracker-bullet-journal'
 category: 'everyday-life'

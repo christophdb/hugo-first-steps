@@ -1,14 +1,14 @@
 ---
 title: 'Habit Tracker - comment changer vos habitudes à long terme'
+description: 'Les bonnes résolutions sont faciles mais éphémères. Un habit tracker vous motive à instaurer de vraies routines, à suivre vos progrès et à obtenir des changements positifs durables grâce à des conseils et méthodes éprouvées.'
 date: 2023-12-06
 lastmod: '2024-01-25'
-author: 'lsc'
 url: '/fr/suivi-habitudes'
 aliases:
     - /fr/habit-tracker
 seo:
-    title:
-    description:
+    title: 'Suivi d’habitudes – Changer ses routines durablement'
+    description: 'Gagnez en motivation grâce au suivi d’habitudes et transformez durablement vos comportements.'
 categories:
     - 'best-practice'
 tags:

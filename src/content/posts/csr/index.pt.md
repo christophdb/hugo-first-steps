@@ -1,5 +1,6 @@
 ---
 title: 'RSE - noções básicas de responsabilidade social das empresas'
+description: 'A Responsabilidade Social Corporativa (RSC) é o compromisso das empresas com impactos ambientais, sociais e econômicos. Adotar práticas de RSC fortalece a marca, aumenta o engajamento dos colaboradores e melhora a relação com clientes. Descubra como implementar ações sustentáveis e gerar valor a longo prazo.'
 date: 2024-04-08
 lastmod: '2025-05-19'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/pt/rsc'
 aliases:
     - /pt/csr
 seo:
-    title:
-    description:
+    title: 'CSR – Fundamentos da Responsabilidade Social'
+    description: 'Entenda os fundamentos da Responsabilidade Social Corporativa (RSC) e como adotar estratégias empresariais sustentáveis.'
 categories:
     - 'best-practice'
 tags:

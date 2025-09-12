@@ -1,5 +1,6 @@
 ---
 title: 'RSE - les bases de la responsabilité sociale des entreprises'
+description: 'La Responsabilité Sociétale des Entreprises (RSE) consiste à assumer les impacts sociaux, économiques et environnementaux. Les entreprises engagées renforcent leur image, fidélisent leurs clients et motivent leurs équipes. Découvrez comment mettre en place une démarche RSE efficace et durable au sein de votre organisation.'
 date: 2024-04-08
 lastmod: '2025-05-19'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/fr/rse'
 aliases:
     - /fr/csr
 seo:
-    title:
-    description:
+    title: 'CSR – Bases de la Responsabilité Sociétale'
+    description: 'Découvrez les bases de la Responsabilité Sociétale des Entreprises (RSE) et comment intégrer la durabilité dans votre stratégie.'
 categories:
     - 'best-practice'
 tags:

@@ -1,15 +1,15 @@
 ---
 title: 'Book Writing: 7 Authoring Software Tools at a Glance'
+description: 'Writing a book is a challenge, but the right tools make the process smoother. From outlining and plotting to managing characters and editing, authoring software can transform your workflow. In this article, we highlight 7 powerful writing tools designed to support every stage of the creative process – helping you stay organized and inspired.'
 date: 2024-03-20
 lastmod: '2024-03-20'
 coverImage: 'Tiny-male-author-or-screenwriter-writing-story-or-movie-script.jpg'
-author: 'nsc'
 url: '/write-book'
 aliases:
     - /buch-schreiben
 seo:
-    title:
-    description:
+    title: 'Writing a Book: 7 Authoring Tools Compared'
+    description: 'Discover 7 writing software solutions to help you plan, structure, and finish your book – including a free program.'
 categories:
     - 'best-practice'
 tags:

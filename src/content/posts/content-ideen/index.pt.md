@@ -1,14 +1,14 @@
 ---
 title: 'Ideias de conteúdos que funcionam sempre'
+description: 'O segredo do sucesso nas redes sociais está em publicações criativas e frequentes. Descubra ideias práticas de conteúdo para Instagram, TikTok e outras plataformas: bastidores, enquetes, sorteios e dicas para engajar seguidores com facilidade.'
 date: 2024-01-24
 lastmod: '2025-02-13'
-author: 'nsc'
 url: '/pt/ideias-conteudo'
 aliases:
     - /pt/content-ideen
 seo:
-    title:
-    description:
+    title: 'Ideias de conteúdo que sempre funcionam'
+    description: 'Conheça ideias de conteúdo inovadoras para redes sociais e aumente seu alcance com formatos criativos e fáceis de aplicar.'
 categories:
     - 'best-practice'
 tags:

@@ -1,8 +1,9 @@
 ---
 title: 'Rastreador de hábitos y Bullet Journal'
-description: ''
 date: '2024-08-24'
-url: '/es/plantilla/habit-tracker-bullet-journal'
+url: '/es/plantilla/seguimiento-habitos-bullet-journal'
+aliases:
+    - '/es/plantilla/habit-tracker-bullet-journal'
 category: 'everyday-life'
 functions:
 seo:

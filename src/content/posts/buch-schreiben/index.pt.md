@@ -1,14 +1,14 @@
 ---
 title: 'Escreva um livro: resumo de 7 ferramentas de software de autoria'
+description: 'Escrever um livro exige disciplina e ferramentas adequadas. Programas de escrita permitem organizar enredos, personagens e capítulos de forma prática. Neste artigo, apresentamos 7 softwares recomendados que ajudam em todas as fases do processo criativo, desde a ideia inicial até a versão final, incluindo uma opção totalmente gratuita.'
 date: 2024-03-20
 lastmod: '2024-03-20'
-author: 'nsc'
 url: '/pt/escrever-livro'
 aliases:
     - /pt/buch-schreiben
 seo:
-    title:
-    description:
+    title: 'Escrever um livro: 7 softwares de autoria'
+    description: 'Conheça 7 softwares de escrita para planejar, estruturar e concluir seu livro – incluindo uma opção gratuita.'
 categories:
     - 'best-practice'
 tags:

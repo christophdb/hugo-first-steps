@@ -1,15 +1,15 @@
 ---
 title: 'Content ideas that always work'
+description: 'Consistent, creative content is key for social media success. This article presents proven content ideas for Instagram, TikTok, and more – from behind-the-scenes posts to polls, giveaways, and daily hacks that grow your audience and engagement.'
 date: 2024-01-24
 lastmod: '2025-02-13'
 coverImage: 'content-for-instagram-e1622035217478.jpg'
-author: 'nsc'
 url: '/content-ideas'
 aliases:
     - /content-ideen
 seo:
-    title:
-    description:
+    title: 'Content Ideas That Always Work'
+    description: 'Discover content ideas for social media to boost your reach and engagement – easy-to-use, creative formats for every account.'
 categories:
     - 'best-practice'
 tags:
