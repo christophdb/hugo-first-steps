@@ -1,5 +1,6 @@
 ---
 title: 'Lista de control para las vacaciones: todo bajo control para un viaje perfecto | SeaTable'
+description: 'Descubra la lista de viaje definitiva: checklist descargable, consejos para empacar, planificación de documentos y trucos para disfrutar de un viaje sin estrés.'
 date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/es/checklist-vacaciones'
 aliases:
     - /es/checkliste-urlaub
 seo:
-    title:
-    description:
+    title: 'Lista de viaje: checklist para unas vacaciones perfectas'
+    description: 'Descargue la mejor lista de viaje para vacaciones: todo lo esencial en su equipaje.'
 categories:
     - 'best-practice'
 tags:

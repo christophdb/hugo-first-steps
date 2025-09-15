@@ -1,5 +1,6 @@
 ---
 title: 'Personnaliser son planning étudiant | avec SeaTable'
+description: 'Centralisez devoirs, contrôles, lectures, emploi du temps et contacts dans un planificateur étudiant digital signé SeaTable. Personnalisez vos vues, organisez votre semestre intuitivement, gagnez du temps – efficacité garantie pour vos études.'
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
@@ -7,8 +8,8 @@ url: '/fr/planificateur-etudiant'
 aliases:
     - /fr/studentenplaner
 seo:
-    title:
-    description:
+    title: 'Planificateur étudiant : modèle d’organisation complet'
+    description: 'Devoirs, examens, lectures, agenda : le planificateur étudiant SeaTable centralise tout pour un semestre structuré et productif, sans stress.'
 categories:
     - 'best-practice'
 tags:

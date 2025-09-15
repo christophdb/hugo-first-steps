@@ -1,5 +1,6 @@
 ---
 title: 'Une comptabilité clients optimale avec SeaTable - SeaTable'
+description: 'Centralisez vos factures, paiements et relances avec le modèle SeaTable. Optimisez votre gestion de la trésorerie, suivez les encaissements et réduisez le risque client grâce à un système digital performant.'
 date: 2021-08-26
 lastmod: '2023-07-11'
 author: 'pbr'
@@ -8,8 +9,8 @@ aliases:
     - /fr/debitorenbuchhaltung
 color: '#7cbaef'
 seo:
-    title:
-    description:
+    title: 'Gestion des comptes clients : modèle tout-en-un'
+    description: 'Automatisez la gestion des comptes clients : factures, relances et cash-flow.'
 ---
 
 Il faut vérifier les paiements entrants, rappeler les paiements aux clients et, parfois, il y a même la partie que toute entreprise veut éviter : le processus de relance. Cela peut devenir un véritable défi pour de nombreuses entreprises. Vous vous perdez rapidement dans votre propre chaos et personne dans votre entreprise ne sait toujours quand et si une facture a même été payée. Au final, c'est la liquidité de votre propre entreprise qui en pâtit. Cependant, il ne faut pas que cela aille aussi loin !

@@ -1,5 +1,6 @@
 ---
 title: 'Управление социальными сетями: примеры и шаблоны'
+description: 'Узнайте всё об эффективном social media management: подробные примеры, схемы, чек-листы и шаблоны для бизнес-аккаунтов – планируйте, анализируйте и развивайте соцсети осознанно.'
 date: 2024-01-17
 lastmod: '2025-01-28'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/ru/smm-upravlenie'
 aliases:
     - /ru/social-media-management
 seo:
-    title:
-    description:
+    title: 'Social media management: примеры и бесплатный шаблон'
+    description: 'Social media management c кейсами и бесплатным шаблоном для планирования.'
 categories:
     - 'best-practice'
 tags:

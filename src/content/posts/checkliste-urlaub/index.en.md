@@ -1,5 +1,6 @@
 ---
 title: 'Vacation checklist: Everything under control for the perfect trip | SeaTable'
+description: 'The ultimate travel checklist: download your free vacation packing list! Plan smart, pack efficiently and enjoy a stress-free trip. Including last-minute essentials, safety tips and a customizable template.'
 date: 2024-07-17
 lastmod: '2024-07-17'
 coverImage: 'nattu-adnan-atSUvc1hMwk-unsplash-scaled.jpg'
@@ -8,8 +9,8 @@ url: '/vacation-checklist'
 aliases:
     - /checkliste-urlaub
 seo:
-    title:
-    description:
+    title: 'Vacation Packing Checklist: Travel Essentials Guide'
+    description: 'Free vacation packing checklist for trips: what to pack plus travel tips & printables.'
 categories:
     - 'best-practice'
 tags:

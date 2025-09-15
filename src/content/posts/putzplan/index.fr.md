@@ -1,5 +1,6 @@
 ---
 title: 'Créer un plan de nettoyage selon vos souhaits : Modèle et conseils'
+description: 'Optimisez le partage des tâches ménagères avec le planning ménage SeaTable : répartition, fréquence, rotation et suivi dans un outil souple et collaboratif, idéal pour foyer, colocs et équipes.'
 date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/fr/planning-menage'
 aliases:
     - /fr/putzplan
 seo:
-    title:
-    description:
+    title: 'Modèle de planning ménage: tâches partagées'
+    description: 'Planifiez et répartissez le ménage facilement avec un planning digital prêt à l’emploi.'
 categories:
     - 'best-practice'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Create cleaning plan according to your wishes: Template and Tips'
+description: 'SeaTable’s cleaning schedule template helps you divide, track, and rotate household chores for families, roommates, or teams. Customizable, shareable, and designed for a hassle-free, sparkling clean home!'
 date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/cleaning-schedule'
 aliases:
     - /putzplan
 seo:
-    title:
-    description:
+    title: 'Cleaning Schedule Template: Smart Household Planner'
+    description: 'Cleaning schedule template for perfectly organized cleaning routines.'
 categories:
     - 'best-practice'
 tags:

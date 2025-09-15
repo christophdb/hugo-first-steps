@@ -1,5 +1,8 @@
 ---
 title: 'Soporte'
+seo:
+    title: 'Soporte – Ayuda y comunidad SeaTable'
+    description: 'Todo para tu soporte SeaTable: tickets para empresas, foro comunitario, ayuda para resolver incidencias, facturación y dudas.'
 date: '2025-04-03'
 url: '/es/soporte'
 aliases:

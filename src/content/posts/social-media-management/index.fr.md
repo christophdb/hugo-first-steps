@@ -1,5 +1,6 @@
 ---
 title: 'La gestion des médias sociaux expliquée simplement : exemples et modèle'
+description: 'Découvrez comment réussir votre social media management : conseils, exemples pratiques et modèle gratuit pour structurer votre présence sur Instagram, Facebook, LinkedIn et toutes les plateformes importantes.'
 date: 2024-01-17
 lastmod: '2025-01-28'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/fr/gestion-reseaux-sociaux'
 aliases:
     - /fr/social-media-management
 seo:
-    title:
-    description:
+    title: 'Social media management : exemples & modèle à télécharger'
+    description: 'Stratégies et exemples de social media management, plan à télécharger offert.'
 categories:
     - 'best-practice'
 tags:

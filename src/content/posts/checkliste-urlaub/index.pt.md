@@ -1,5 +1,6 @@
 ---
 title: 'Lista de verificação para as férias: tudo sob controlo para uma viagem perfeita | SeaTable'
+description: 'Tenha a checklist de viagem essencial: lista completa para não esquecer nada na mala, recomendações para organização, documentos, clima e segurança – prepare sua viagem sem preocupação, com tranquilidade.'
 date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/pt/checklist-ferias'
 aliases:
     - /pt/checkliste-urlaub
 seo:
-    title:
-    description:
+    title: 'Checklist de viagem: lista para férias perfeitas'
+    description: 'Baixe sua checklist de viagem: tudo o que levar nas férias + dicas práticas.'
 categories:
     - 'best-practice'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Customise your student planner | with SeaTable'
+description: 'The SeaTable student planner template helps you structure your courses, deadlines and book lists. Easily track assignments, manage calendars and study smarter – all in one fully customizable digital tool.'
 date: 2020-09-17
 lastmod: '2022-06-13'
 coverImage: 'john-schnobrich-2FPjlAyMQTA-unsplash-scaled-1.jpg'
@@ -8,8 +9,8 @@ url: '/student-planner'
 aliases:
     - /studentenplaner
 seo:
-    title:
-    description:
+    title: 'Student Planner Template: Stay Organized in College'
+    description: 'Track all assignments, deadlines, courses and books in one place – this digital student planner helps you master every semester with ease.'
 categories:
     - 'best-practice'
 tags:

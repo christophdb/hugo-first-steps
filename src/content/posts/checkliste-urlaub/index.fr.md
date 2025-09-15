@@ -1,5 +1,6 @@
 ---
 title: 'Check-list vacances : tout à portée de main pour un voyage parfait | SeaTable'
+description: 'Profitez d’une checklist de voyage et d’un guide d’essentiels pour des vacances réussies : conseils pratiques, astuces valise et liste imprimable selon votre destination, type de séjour et saison.'
 date: 2024-07-17
 lastmod: '2024-07-17'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/fr/checklist-vacances'
 aliases:
     - /fr/checkliste-urlaub
 seo:
-    title:
-    description:
+    title: 'Liste de voyage : checklist pour vacances sans stress'
+    description: 'Préparez vos vacances : packlist et checklist pour voyager sans rien oublier.'
 categories:
     - 'best-practice'
 tags:

@@ -1,5 +1,8 @@
 ---
 title: 'Support'
+seo:
+    title: 'Support – Assistance & communauté SeaTable'
+    description: 'Obtenez de l’aide : support avec ticket, forum, FAQ pour bugs, abonnements, factures et conseils sur l’utilisation SeaTable.'
 date: '2025-04-03'
 url: '/fr/support'
 
