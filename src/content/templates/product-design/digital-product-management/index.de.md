@@ -8,8 +8,8 @@ aliases:
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Digitales Produktmanagement – Vorlage & Software Tipps'
+    description: 'Alle Prozesse digitalisieren – Katalog, Vertrieb, Projekte, Teamwork und Datenbank in einer flexiblen Produktmanagement-Lösung.'
 template: '563da026db8e4782ac62'
 ---
 

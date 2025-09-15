@@ -2,12 +2,14 @@
 title: 'Baby shower'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/baby-party'
+url: '/es/plantilla/baby-shower'
+aliases:
+    - '/es/plantilla/baby-party'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla para baby shower: lista de invitados, tareas'
+    description: 'Organiza tu baby shower: invitados, regalos, juegos, tareas y menú en una plantilla sencilla, gratis y totalmente editable.'
 template: 'f49862deac1d4d1ea078'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Babyparty'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/baby-party'
+url: '/de/vorlage/babyparty'
+aliases:
+    - '/de/vorlage/baby-party'
 category: 'events'
 functions:
 seo:
-    title: 'Babyparty planen: Kostenlose Vorlage für die Feier'
-    description: 'Organisieren Sie die Babyparty im Handumdrehen. Verwenden Sie unsere Vorlage, um alle Details zu erfassen und die Feier unvergesslich zu machen.'
+    title: 'Babyparty Planer – Gästeliste, Geschenke & Checkliste'
+    description: 'Babyparty stressfrei planen: Gästeliste, Aufgaben, Geschenkideen, Spiele und Deko clever verwalten – gratis Vorlage & Tipps.'
 template: 'f49862deac1d4d1ea078'
 ---
 

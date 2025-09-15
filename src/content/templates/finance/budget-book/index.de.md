@@ -2,12 +2,14 @@
 title: 'Haushaltsbuch'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/budget-book'
+url: '/de/vorlage/budgetbuch'
+aliases:
+    - '/de/vorlage/budget-book'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Budgetbuch Vorlage – Einnahmen & Ausgaben im Griff'
+    description: 'Kostenlose Budgetbuch Vorlage: Einnahmen & Ausgaben erfassen, analysieren, sparen – Statistiken und Übersicht, auch im Team.'
 template: '07029bcd3c644efc898c'
 ---
 

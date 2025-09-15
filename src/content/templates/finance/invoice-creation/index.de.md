@@ -2,12 +2,14 @@
 title: 'Rechnung schreiben'
 description: ''
 date: '2025-03-24'
-url: '/de/vorlage/invoice-creation'
+url: '/de/vorlage/rechnung-schreiben'
+aliases:
+    - '/de/vorlage/invoice-creation'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Rechnung schreiben Vorlage – schnell & fehlerfrei'
+    description: 'Professionelle Rechnungsvorlage für Unternehmer: automatisiert Rechnungen erstellen, versenden & verwalten.'
 template: '0341827ed80f4be3888a'
 ---
 

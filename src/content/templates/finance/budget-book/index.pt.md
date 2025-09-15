@@ -2,12 +2,14 @@
 title: 'Livro do orçamento'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/budget-book'
+url: '/pt/modelo/orcamento'
+aliases:
+    - '/pt/modelo/budget-book'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de orçamento: despesas e receitas visíveis'
+    description: 'Modelo de orçamento gratuito: registre ganhos e gastos, analise, economize e visualize tudo em um só lugar – fácil e online.'
 template: '07029bcd3c644efc898c'
 ---
 

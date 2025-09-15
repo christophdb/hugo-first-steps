@@ -2,12 +2,14 @@
 title: 'Libro de presupuesto'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/budget-book'
+url: '/es/plantilla/presupuesto'
+aliases:
+    - '/es/plantilla/budget-book'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de presupuesto: controla tus finanzas'
+    description: 'Lleva tu presupuesto al día: registra gastos, ingresos, analiza partidas y ahorra mejor – descarga plantilla de presupuesto.'
 template: '07029bcd3c644efc898c'
 ---
 

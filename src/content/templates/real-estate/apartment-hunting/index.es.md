@@ -2,12 +2,14 @@
 title: 'Caza en plano'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/apartment-hunting'
+url: '/es/plantilla/busqueda-apartamento'
+aliases:
+    - '/es/plantilla/apartment-hunting'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla búsqueda de piso: compara y controla visitas'
+    description: 'Organiza la búsqueda: compara pisos, gestiona contactos y toma notas de cada visita – plantilla intuitiva, gratis y digital.'
 template: '3ab08a59c6b34166b852'
 ---
 

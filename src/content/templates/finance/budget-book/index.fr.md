@@ -2,12 +2,14 @@
 title: 'Livre de ménage'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/budget-book'
+url: '/fr/modele/budget'
+aliases:
+    - '/fr/modele/budget-book'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de budget : suivi des dépenses et recettes'
+    description: 'Suivez vos finances: gérez dépenses, recettes, statistiques. Modèle de budget gratuit pour individuels, familles ou équipes.'
 template: '07029bcd3c644efc898c'
 ---
 

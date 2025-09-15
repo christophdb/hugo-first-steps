@@ -6,8 +6,8 @@ url: '/template/art-gallery-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Art Gallery Management Template – Art & Exhibition Planner'
+    description: 'Manage all artworks, artists, exhibitions, loans, contacts & more. The all-in-one gallery management template for teams & curators.'
 template: '59d653f20de446a79f03'
 ---
 

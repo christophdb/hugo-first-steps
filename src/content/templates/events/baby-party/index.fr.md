@@ -2,12 +2,14 @@
 title: 'Fête de bébé'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/baby-party'
+url: '/fr/modele/baby-shower'
+aliases:
+    - '/fr/modele/baby-party'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de baby shower : invités, tâches, cadeaux'
+    description: 'Organisez une baby shower sans stress : liste d’invités, souhaits, cadeaux, jeux et planning – modèle clair et gratuit.'
 template: 'f49862deac1d4d1ea078'
 ---
 

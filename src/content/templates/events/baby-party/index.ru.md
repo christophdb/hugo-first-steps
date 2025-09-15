@@ -8,8 +8,8 @@ aliases:
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Органайзер для baby shower: гости, задачи, подарки'
+    description: 'Идеальный планер baby shower: гости, задачи, подарки, меню и игры – всё прозрачно и удобно, бесплатный шаблон для праздника.'
 template: 'f49862deac1d4d1ea078'
 ---
 

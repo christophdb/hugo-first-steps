@@ -2,12 +2,14 @@
 title: 'Plantilla de plan de proyecto'
 description: ''
 date: '2025-03-07'
-url: '/es/plantilla/project-plan'
+url: '/es/plantilla/plan-proyecto'
+aliases:
+    - '/es/plantilla/project-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de plan de proyecto: gratuita, Gantt y Kanban'
+    description: 'Organiza tu proyecto fácil: plantilla de plan con cronograma, Kanban y seguimiento. Descarga gratis, gestiona tareas sin complicaciones.'
 template: 'f5a615ac93104c44a1e4'
 ---
 

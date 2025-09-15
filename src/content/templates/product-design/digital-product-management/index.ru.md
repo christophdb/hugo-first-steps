@@ -9,8 +9,8 @@ aliases:
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон цифрового управления продуктом: каталог, команда'
+    description: 'Вся команда, каталог, продажи и задачи – в одном шаблоне цифрового продукт-менеджмента — гибко и на русском языке.'
 template: '563da026db8e4782ac62'
 ---
 

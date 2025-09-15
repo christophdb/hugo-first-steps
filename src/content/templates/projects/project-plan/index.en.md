@@ -6,8 +6,8 @@ url: '/template/project-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Project Plan Template – Free Download, Timeline & Kanban'
+    description: 'Use our free project plan template to schedule, track and manage tasks with timeline or Kanban view. Ideal for agile and classic teams.'
 template: 'f5a615ac93104c44a1e4'
 ---
 

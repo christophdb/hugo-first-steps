@@ -8,8 +8,8 @@ aliases:
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Digital Product Management Template & Online Solution'
+    description: 'Manage catalogs, sales, tasks and teams in one product management template – flexible, digital and ready for your workflow.'
 template: '563da026db8e4782ac62'
 ---
 

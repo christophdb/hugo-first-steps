@@ -2,14 +2,15 @@
 title: 'Gestão digital de produtos'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/digital-product-management'
+url: '/pt/modelo/gestao-produtos-digital'
 aliases:
     - '/pt/digitales-produktmanagement'
+    - '/pt/modelo/digital-product-management'
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de gestão digital de produtos: catálogo e vendas'
+    description: 'Gerencie catálogo, vendas, tarefas e time em um modelo digital ágil, integrado e completo para gerenciamento de produtos.'
 template: '563da026db8e4782ac62'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Historia clínica digital'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/electronic-health-record'
+url: '/es/plantilla/historia-clinica'
+aliases:
+    - '/es/plantilla/electronic-health-record'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de historia clínica digital (EHR)'
+    description: 'Historial médico, diagnósticos y recetas: plantilla fácil para controlar toda tu información de salud, siempre segura, siempre accesible.'
 template: '8180670a338044d4a602'
 ---
 
