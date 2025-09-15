@@ -1,5 +1,6 @@
 ---
 title: 'Contabilidade optimizada de contas a receber com SeaTable - SeaTable'
+description: 'Com o modelo SeaTable, acompanhe faturas, recebimentos e inadimplências com automação e rapidez. Mantenha o controle sobre a saúde financeira do seu negócio e simplifique o fluxo de caixa.'
 date: 2021-08-26
 lastmod: '2023-07-11'
 author: 'pbr'
@@ -8,8 +9,8 @@ aliases:
     - /pt/debitorenbuchhaltung
 color: '#7cbaef'
 seo:
-    title:
-    description:
+    title: 'Gestão de contas a receber: template digital completo'
+    description: 'Organize cobranças e pagamentos com eficiência usando um modelo adaptável.'
 ---
 
 Os pagamentos recebidos têm de ser verificados, os clientes têm de ser lembrados dos pagamentos e, por vezes, há mesmo a parte que cada empresa quer evitar: o processo de cobrança. Isto pode tornar-se um verdadeiro desafio para muitas empresas. Perde-se rapidamente no seu próprio caos e ninguém na sua empresa ainda sabe quando e se uma factura foi sequer paga. No final, a liquidez da sua própria empresa acaba por sofrer. No entanto, não deve deixá-lo chegar tão longe!

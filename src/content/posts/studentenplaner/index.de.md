@@ -1,13 +1,13 @@
 ---
 title: 'Studentenplaner individuell gestalten mit SeaTable'
-description: ''
+description: 'Mit dem Studentenplaner von SeaTable planst du Prüfungen, Abgaben, Stundenplan und Literatur stressfrei. Behalte alle Fristen, Aufgaben und Kontakte digital im Blick – individuell, übersichtlich, kostenlos.'
 date: 2020-09-17
 lastmod: '2022-06-13'
 author: 'rbu'
 url: '/de/studentenplaner'
 seo:
     title: 'Studentenplaner individuell gestalten mit SeaTable'
-    description: 'Gestalte deinen individuellen Studentenplaner und behalte stets den Überblick über deine To-Dos. Jetzt kostenlos anmelden und direkt starten!'
+    description: 'Studiere organisiert: Prüfungen, Stundenplan, Abgaben, Deadlines und Bücher digital planen. Einfache Vorlage für deinen erfolgreichen Semesterstart.'
 categories:
     - 'best-practice'
 tags:

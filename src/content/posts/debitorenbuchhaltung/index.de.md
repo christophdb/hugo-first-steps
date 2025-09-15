@@ -1,14 +1,14 @@
 ---
 title: 'Mit SeaTable zur optimalen Debitorenbuchhaltung'
-description: ''
+description: 'Behalten Sie Kundenrechnungen, offene Posten, Zahlungen und Mahnwesen im Griff. Die SeaTable Vorlage bietet übersichtliches Forderungsmanagement, automatische Prozesse und volle Transparenz für Ihr Unternehmen.'
 date: 2021-08-26
 lastmod: '2023-07-11'
 author: 'pbr'
 url: '/de/debitorenbuchhaltung'
 color: '#7cbaef'
 seo:
-    title: ''
-    description: ''
+    title: '	Debitorenbuchhaltung digitalisieren: Vorlage & Anleitung'
+    description: 'Optimieren Sie Ihre Debitorenbuchhaltung mit SeaTable – alles zu Rechnungen, Mahnwesen, Liquidität.'
 ---
 
 Zahlungseingänge müssen geprüft, Kunden an Zahlungen erinnert werden und teilweise kommt es sogar zu dem Part, den jedes Unternehmen vermeiden möchte: dem Mahnwesen. Das kann für viele Unternehmen zu einer wirklichen Herausforderung werden. Schnell verliert man sich im eigenen Chaos und niemand in Ihrem Unternehmen weiß noch, wann und ob eine Rechnung überhaupt bezahlt wurde. Am Ende leidet noch die Liquidität Ihres eigenen Unternehmens darunter. Soweit sollten Sie es jedoch nicht kommen lassen!

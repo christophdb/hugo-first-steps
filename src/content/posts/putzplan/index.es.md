@@ -1,5 +1,6 @@
 ---
 title: 'Cree un plan de limpieza según sus deseos: Plantilla y consejos'
+description: 'Distribuya y controle tareas domésticas o de oficina con la plantilla digital SeaTable. Planifica semanalmente y haz el mantenimiento más llevadero con recordatorios y roles rotativos incluidos.'
 date: 2023-09-06
 lastmod: '2023-09-13'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/es/plan-limpieza'
 aliases:
     - /es/putzplan
 seo:
-    title:
-    description:
+    title: 'Plantilla de plan de limpieza: organización sencilla'
+    description: 'Planifique la limpieza del hogar con la plantilla editable ideal para todos.'
 categories:
     - 'best-practice'
 tags:

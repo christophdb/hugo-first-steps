@@ -1,5 +1,6 @@
 ---
 title: 'Klarna debt: cómo tener las finanzas bajo control'
+description: 'Descubre los riesgos de las deudas con Klarna y qué hacer para salir de ellas – incluye recomendaciones para presupuestar y prevenir consecuencias negativas para tu bienestar financiero y tu historial.'
 date: 2024-04-19
 lastmod: '2024-04-19'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/es/deudas-klarna'
 aliases:
     - /es/klarna-schulden
 seo:
-    title:
-    description:
+    title: 'Deudas Klarna: cómo evitar el sobreendeudamiento'
+    description: 'Deudas Klarna y BNPL: cómo pagarlas y evitar caer en la trampa de las cuotas.'
 categories:
     - 'best-practice'
 tags:

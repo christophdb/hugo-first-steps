@@ -1,5 +1,8 @@
 ---
 title: 'Contact'
+seo:
+    title: 'Contact – SeaTable Support & Sales'
+    description: 'Contact SeaTable for support, consulting and sales. Cloud & self-host users can reach us via form, email or phone – we’re here to help!'
 date: '2025-04-03'
 url: '/contact'
 aliases:

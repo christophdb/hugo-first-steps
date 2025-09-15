@@ -1,5 +1,6 @@
 ---
 title: 'Klarna dettes - comment maîtriser vos finances'
+description: 'Les dettes Klarna concernent de plus en plus de jeunes Français. Apprenez à les repérer, les rembourser et éviter l’engrenage du crédit grâce à nos conseils et à une gestion budgétaire efficace.'
 date: 2024-04-19
 lastmod: '2024-04-19'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/fr/dettes-klarna'
 aliases:
     - /fr/klarna-schulden
 seo:
-    title:
-    description:
+    title: 'Dettes Klarna : sortir du surendettement'
+    description: 'Gérez vos dettes Klarna et évitez la spirale du crédit en ligne : guide et conseils pour s’en sortir.'
 categories:
     - 'best-practice'
 tags:

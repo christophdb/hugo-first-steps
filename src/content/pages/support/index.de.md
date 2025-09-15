@@ -1,5 +1,8 @@
 ---
 title: 'Support'
+seo:
+    title: 'Support – SeaTable Hilfe & Community'
+    description: 'Finden Sie schnelle Hilfe: Support-Tickets für Enterprise, Community Forum für alle, Tipps zu Fehlern, Abo, Rechnung & Beratung.'
 date: '2025-04-03'
 url: '/de/support'
 

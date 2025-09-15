@@ -1,5 +1,6 @@
 ---
 title: 'Dívida Klarna - como controlar as suas finanças'
+description: 'Dívidas acumuladas no Klarna? Veja dicas para controlar compras parceladas, negociar pagamentos e restaurar seu crédito sem cair em armadilhas do BNPL e juros abusivos.'
 date: 2024-04-19
 lastmod: '2024-04-19'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/pt/dividas-klarna'
 aliases:
     - /pt/klarna-schulden
 seo:
-    title:
-    description:
+    title: 'Dívidas Klarna: recupere seu equilíbrio financeiro'
+    description: 'Evite dívidas Klarna e “compre agora, pague depois”. Saiba como sair do vermelho rapidamente.'
 categories:
     - 'best-practice'
 tags:

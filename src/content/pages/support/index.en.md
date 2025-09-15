@@ -1,5 +1,8 @@
 ---
 title: 'Support'
+seo:
+    title: 'Support – SeaTable Help & Community'
+    description: 'Get fast support from SeaTable: Enterprise ticket system, community forum, and complete help for errors, billing and consulting.'
 date: '2025-04-03'
 url: '/support'
 aliases:

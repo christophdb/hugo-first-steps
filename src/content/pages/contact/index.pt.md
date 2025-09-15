@@ -1,5 +1,8 @@
 ---
-title: 'Contact'
+title: 'Contato'
+seo:
+    title: 'Contato – Suporte e consultoria SeaTable'
+    description: 'Fale com a equipe SeaTable: suporte, consultoria e canais diretos para todas as dúvidas sobre nuvem e servidor próprio.'
 date: '2025-04-03'
 url: '/pt/contact'
 aliases:

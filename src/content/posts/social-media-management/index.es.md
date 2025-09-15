@@ -1,5 +1,6 @@
 ---
 title: 'La gestión de las redes sociales explicada de forma sencilla: ejemplos y plantilla'
+description: 'Aprende cómo organizar la gestión de redes sociales para tu empresa: estrategias, inspiración, checklist y plantilla descargable para planificar y mejorar tu presencia social paso a paso.'
 date: 2024-01-17
 lastmod: '2025-01-28'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/es/gestion-redes-sociales'
 aliases:
     - /es/social-media-management
 seo:
-    title:
-    description:
+    title: 'Gestión de redes sociales: ejemplos y plantilla gratuita'
+    description: 'Descubre gestión de redes sociales eficiente con consejos y plantilla gratuita.'
 categories:
     - 'best-practice'
 tags:

@@ -1,5 +1,6 @@
 ---
 title: 'Contabilidad óptima de las cuentas por cobrar con SeaTable - SeaTable'
+description: 'La gestión de cuentas por cobrar digitalizada permite seguir facturas, pagos y morosidad paso a paso. Gestione alertas automatizadas y mantenga el flujo de caja transparente en su negocio.'
 date: 2021-08-26
 lastmod: '2023-07-11'
 author: 'pbr'
@@ -8,8 +9,8 @@ aliases:
     - /es/debitorenbuchhaltung
 color: '#7cbaef'
 seo:
-    title:
-    description:
+    title: 'Gestión de cuentas por cobrar: plantilla digital'
+    description: 'Controle facturas, cobros y recordatorios con la plantilla SeaTable.'
 ---
 
 Hay que comprobar los pagos recibidos, recordar a los clientes los pagos y, a veces, incluso está la parte que toda empresa quiere evitar: el proceso de reclamación. Esto puede convertirse en un verdadero reto para muchas empresas. Rápidamente te pierdes en tu propio caos y nadie en tu empresa sabe aún cuándo y si una factura fue pagada. Al final, la liquidez de su propia empresa se resiente. Sin embargo, ¡no hay que dejar que llegue tan lejos!

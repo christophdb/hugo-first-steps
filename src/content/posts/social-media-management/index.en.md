@@ -1,13 +1,14 @@
 ---
 title: 'Social media management explained simply: examples and template'
+description: 'Explore top strategies for successful social media management: from content planning and brand storytelling to engagement tracking. Includes actionable case studies and a ready-to-use management template.'
 date: 2024-01-17
 lastmod: '2025-01-28'
 coverImage: 'pexels-lisa-fotios-1092671-scaled.jpg'
 author: 'nsc'
 url: '/social-media-management'
 seo:
-    title:
-    description:
+    title: 'Social Media Management: Guide & Free Template'
+    description: 'Social media management explained – best practices, expert tips & template free.'
 categories:
     - 'best-practice'
 tags:

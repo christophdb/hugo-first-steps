@@ -1,5 +1,6 @@
 ---
 title: 'Optimal accounts receivable accounting with SeaTable - SeaTable'
+description: 'Organize all your clients’ invoices, payments and reminders easily with our digital template. Monitor outstanding receivables, automate follow-ups, and track liquidity to streamline your accounting workflows.'
 date: 2021-08-26
 lastmod: '2023-07-11'
 coverImage: 'Buchhaltung.jpg'
@@ -9,8 +10,8 @@ aliases:
     - /debitorenbuchhaltung
 color: '#7cbaef'
 seo:
-    title:
-    description:
+    title: 'Accounts Receivable Management: Digital Best Practice'
+    description: 'Upgrade your accounts receivable: manage invoices, reminders, dunning & KPIs.'
 ---
 
 Incoming payments have to be checked, customers have to be reminded of payments and sometimes there is even the part that every company wants to avoid: the dunning process. This can become a real challenge for many companies. You quickly get lost in your own chaos and no one in your company still knows when and if an invoice was even paid. In the end, the liquidity of your own company suffers. However, you should not let it get that far!
