@@ -2,12 +2,14 @@
 title: 'Biblioteca de produtos'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/product-library'
+url: '/pt/modelo/biblioteca-produtos'
+aliases:
+    - '/pt/modelo/product-library'
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de biblioteca de produtos: gestão eficiente'
+    description: 'Organize dados de produtos e fornecedores com uma biblioteca digital SeaTable.'
 template: 'faf9c0823ac748b59ef5'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон библиотеки продуктов: весь ассортимент под контролем'
+    description: 'Организуйте и управляйте характеристиками, поставщиками и продажами продуктов.'
 template: 'faf9c0823ac748b59ef5'
 ---
 

@@ -6,8 +6,8 @@ url: '/de/vorlage/product-library'
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Produktbibliothek Vorlage: Produktdaten zentral verwalten'
+    description: 'Die Produktbibliothek Vorlage für Unternehmen – Produkte, Spezifikationen und Lieferanten im Griff.'
 template: 'faf9c0823ac748b59ef5'
 ---
 
