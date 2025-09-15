@@ -6,8 +6,8 @@ url: '/template/warehouse-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Warehouse Management Template: Digital Stock Control'
+    description: 'Streamline your warehouse management with SeaTable’s no-code and scalable template.'
 template: 'ab96101c9e5b4470a2d2'
 ---
 

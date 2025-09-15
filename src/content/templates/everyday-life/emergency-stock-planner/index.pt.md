@@ -2,12 +2,14 @@
 title: 'Armazenagem'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/emergency-stock-planner'
+url: '/pt/modelo/estoque-emergencia'
+aliases:
+    - '/pt/modelo/emergency-stock-planner'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de estoque de emergência: controle familiar'
+    description: 'Planeje e monitore seus estoques de emergência de forma flexível e segura.'
 template: 'a3692d5b12a54c6dad13'
 ---
 

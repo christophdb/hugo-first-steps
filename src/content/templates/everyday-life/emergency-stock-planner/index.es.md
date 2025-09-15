@@ -2,12 +2,14 @@
 title: 'Almacenamiento'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/emergency-stock-planner'
+url: '/es/plantilla/gestion-provisiones'
+aliases:
+    - '/es/plantilla/emergency-stock-planner'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de gestión de provisiones de emergencia'
+    description: 'Controle y planee sus provisiones familiares fácilmente con una plantilla digital.'
 template: 'a3692d5b12a54c6dad13'
 ---
 

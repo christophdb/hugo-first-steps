@@ -5,8 +5,8 @@ url: '/de/vorlage/habit-tracker-bullet-journal'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Habit Tracker & Bullet Journal: Gewohnheiten tracken'
+    description: 'Kombinieren Sie Habit Tracker & Bullet Journal – für neue Routinen und mehr Übersicht.'
 template: 'c7a62de5f2664659bce2'
 ---
 

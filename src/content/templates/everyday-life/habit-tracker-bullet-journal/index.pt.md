@@ -6,8 +6,8 @@ url: '/pt/modelo/habit-tracker-bullet-journal'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Habit Tracker & Bullet Journal: modelo digital completo'
+    description: 'Monitore hábitos e registre conquistas com esse modelo flexível e intuitivo.'
 template: 'c7a62de5f2664659bce2'
 ---
 

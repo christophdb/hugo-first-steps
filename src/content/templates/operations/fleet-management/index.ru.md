@@ -8,8 +8,8 @@ aliases:
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Программное обеспечение для автопарка SeaTable'
+    description: 'Управляйте автопарком просто: бронирование, техобслуживание и учет расходов.'
 template: 'd781991c26e24261bdce'
 ---
 

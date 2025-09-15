@@ -6,8 +6,8 @@ url: '/pt/modelo/net-promoter-score-nps-form'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Questionário Net Promoter Score (NPS): modelo digital'
+    description: 'Meça satisfação e lealdade com o questionário de NPS – pronto para usar.'
 template: '895068666cae411b9da7'
 ---
 

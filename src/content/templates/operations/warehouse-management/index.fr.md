@@ -6,8 +6,8 @@ url: '/fr/modele/gestion-des-stocks'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestion d’entrepôt : modèle digital et flexible'
+    description: 'Pilotez votre gestion d’entrepôt avec SeaTable : stocks, alertes et automatisation.'
 template: 'ab96101c9e5b4470a2d2'
 ---
 

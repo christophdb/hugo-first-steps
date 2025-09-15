@@ -6,8 +6,8 @@ url: '/template/attendance-list'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Attendance List Template: Smart Digital Check-In'
+    description: 'Free attendance list template to track participants, staff, or students easily.'
 template: '7e0a717a66ca4658bbb4'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Хабит трекер и bullet journal: шаблон для учета'
+    description: 'Ведите привычки и bullet journal в единой системе – удобно и прозрачно.'
 template: 'c7a62de5f2664659bce2'
 ---
 

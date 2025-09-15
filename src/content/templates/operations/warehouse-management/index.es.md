@@ -6,8 +6,8 @@ url: '/es/plantilla/gestion-de-almacenes'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestión de almacenes: plantilla eficiente'
+    description: 'Simplifica la gestión de almacenes con la plantilla digital de SeaTable.'
 template: 'ab96101c9e5b4470a2d2'
 ---
 

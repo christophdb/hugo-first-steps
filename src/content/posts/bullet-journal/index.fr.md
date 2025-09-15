@@ -2,11 +2,10 @@
 title: 'Bullet Journal - comment organiser votre vie avec créativité'
 date: 2023-12-19
 lastmod: '2024-01-25'
-author: 'lsc'
 url: '/fr/bullet-journal'
 seo:
-    title:
-    description:
+    title: 'Bullet Journal : méthode et exemples d’organisation'
+    description: 'Le bullet journal, outil créatif et pratique pour tout planifier au quotidien.'
 categories:
     - 'best-practice'
 tags:

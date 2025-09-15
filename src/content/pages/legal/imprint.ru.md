@@ -1,6 +1,9 @@
 ---
 title: 'выходные данные'
 description: ''
+seo:
+    title: 'Правовая информация SeaTable GmbH: контакты'
+    description: 'Юридическая информация и контакты SeaTable GmbH – для прозрачности и согласно закону.'
 date: 2025-03-24
 type: 'legal'
 url: '/ru/vykhodnye-dannye'

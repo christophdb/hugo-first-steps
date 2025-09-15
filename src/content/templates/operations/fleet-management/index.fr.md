@@ -2,12 +2,14 @@
 title: 'Logiciel de gestion de parc automobile'
 description: ''
 date: '2025-03-12'
-url: '/fr/modele/fleet-management'
+url: '/fr/modele/logiciel-gestion-flotte'
+aliases:
+    - '/fr/modele/fleet-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Logiciel de gestion de flotte : solution complète'
+    description: 'Optimisez la gestion de votre flotte avec notre logiciel flexible et intuitif.'
 template: 'd781991c26e24261bdce'
 ---
 

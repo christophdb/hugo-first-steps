@@ -2,12 +2,14 @@
 title: 'Stockage'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/emergency-stock-planner'
+url: '/fr/modele/gestion-stocks-urgence'
+aliases:
+    - '/fr/modele/emergency-stock-planner'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de gestion des stocks d’urgence'
+    description: 'Planifiez et suivez vos stocks d’urgence avec un outil simple et digital.'
 template: 'a3692d5b12a54c6dad13'
 ---
 

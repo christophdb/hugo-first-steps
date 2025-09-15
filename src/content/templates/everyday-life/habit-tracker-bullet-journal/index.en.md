@@ -5,8 +5,8 @@ url: '/template/habit-tracker-bullet-journal'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Habit Tracker & Bullet Journal Template'
+    description: 'Track habits & organize tasks – free habit tracker & bullet journal solution.'
 template: 'c7a62de5f2664659bce2'
 ---
 
