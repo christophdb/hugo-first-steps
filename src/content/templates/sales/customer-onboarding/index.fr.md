@@ -2,12 +2,14 @@
 title: 'Démarrage du client'
 description: ''
 date: '2024-08-16'
-url: '/fr/modele/customer-onboarding'
+url: '/fr/modele/onboarding-client'
+aliases:
+    - '/fr/modele/customer-onboarding'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle d’onboarding client : automatisation & suivi'
+    description: 'Centralisez tâches, contacts et emails: checklist intelligente pour onboarding client efficace, personnel et sans effort.'
 template: 'c33b819f0a694f3b8cf1'
 ---
 

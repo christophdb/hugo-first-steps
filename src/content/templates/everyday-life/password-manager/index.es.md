@@ -2,12 +2,14 @@
 title: 'Gestor de contraseñas'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/password-manager'
+url: '/es/plantilla/gestor-contrasenas'
+aliases:
+    - '/es/plantilla/password-manager'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla gestor de contraseñas: cuentas seguras'
+    description: 'Guarda contraseñas, usuarios, notas y abonos en una plantilla digital – gestor gratuito para tu seguridad y organización.'
 template: '0467fede46ee48a8a1c2'
 ---
 

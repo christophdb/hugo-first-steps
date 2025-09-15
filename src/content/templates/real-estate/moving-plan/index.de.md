@@ -2,12 +2,14 @@
 title: 'Umzugsplan'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/moving-plan'
+url: '/de/vorlage/umzugsplan'
+aliases:
+    - '/de/vorlage/moving-plan'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Umzugsplan Vorlage – Checkliste & Aufgaben'
+    description: 'Umzug stressfrei planen: Aufgaben, Packliste, Helfer, Adressänderungen und Finanzen zentral in der Umzugsplan-Checkliste verwalten.'
 template: 'fc4bbfc83848400a8669'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Plan de reubicación'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/moving-plan'
+url: '/es/plantilla/plan-mudanza'
+aliases:
+    - '/es/plantilla/moving-plan'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plan de mudanza: plantilla para organizar y empacar'
+    description: 'Planifica tu mudanza: tareas, lista de empaque, gastos y cambios de dirección en una plantilla digital fácil y gratuita.'
 template: 'fc4bbfc83848400a8669'
 ---
 

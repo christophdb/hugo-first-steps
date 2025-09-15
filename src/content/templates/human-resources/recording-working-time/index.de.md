@@ -2,12 +2,14 @@
 title: 'Arbeitszeiterfassung'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/recording-working-time'
+url: '/de/vorlage/arbeitszeiterfassung'
+aliases:
+    - '/de/vorlage/recording-working-time'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Arbeitszeiterfassung Vorlage – EU-konforme Zeiterfassung'
+    description: 'Arbeitszeit, Urlaub und Krankheitstage einfach für das Team dokumentieren – digitale Vorlage zur Pflicht-Zeiterfassung & Statistik.'
 template: '7b72578c0e714750954a'
 ---
 

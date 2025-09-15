@@ -2,12 +2,14 @@
 title: 'Customer-Onboarding'
 description: ''
 date: '2024-08-16'
-url: '/de/vorlage/customer-onboarding'
+url: '/de/vorlage/kunden-onboarding'
+aliases:
+    - '/de/vorlage/customer-onboarding'
 category: 'sales'
 functions:
 seo:
-    title: 'Effiziente Customer Onboarding Vorlage für Ihr Team'
-    description: 'Starten Sie Ihr Customer Onboarding mit einer Vorlage. Erfassen Sie alle wichtigen Schritte, behalten Sie den Überblick und optimieren Sie Ihre Kundenbeziehungen'
+    title: 'Kunden-Onboarding Vorlage – Prozess & Checkliste'
+    description: 'Kunden einfach, digital und strukturiert onboarden: Aufgaben, Betreuung und E-Mails zentral verwalten – Vorlage für Vertrieb & Service.'
 template: 'c33b819f0a694f3b8cf1'
 ---
 

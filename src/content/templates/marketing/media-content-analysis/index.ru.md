@@ -8,8 +8,8 @@ aliases:
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон анализа СМИ: упоминания и охват'
+    description: 'Анализ новостей, упоминаний, цитат и тональности: шаблон для PR-отчетности, мониторинга и обзоров в СМИ и блогах.'
 template: '2064f57fadc14bc884cb'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Plan de déménagement'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/moving-plan'
+url: '/fr/modele/plan-demenagement'
+aliases:
+    - '/fr/modele/moving-plan'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de plan de déménagement: checklist & budget'
+    description: 'Organisez votre déménagement: tâches, objets, contacts, budget – modèle numérique tout-en-un pour un déménagement sans stress.'
 template: 'fc4bbfc83848400a8669'
 ---
 

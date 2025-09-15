@@ -8,8 +8,8 @@ aliases:
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон HR-рекрутинга: кандидаты и собеседования'
+    description: 'Вся работа с кандидатами: заявки, интервью, отзывы, статусы – в одной цифровой воронке для команд HR. Просто и прозрачно.'
 template: '9abba02477a7435eb3d7'
 ---
 

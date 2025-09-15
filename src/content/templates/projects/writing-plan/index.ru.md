@@ -8,8 +8,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон плана книги: сюжет, герои, главы'
+    description: 'Структурируйте сюжет, персонажей и главы – цифровой шаблон для романа, триллера, биографии или сценария.'
 template: 'f4d05c56e13e4dd1bb57'
 ---
 

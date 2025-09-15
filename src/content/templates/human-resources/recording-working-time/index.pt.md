@@ -2,12 +2,14 @@
 title: 'Gravação do tempo de trabalho'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/recording-working-time'
+url: '/pt/modelo/controle-horas-trabalho'
+aliases:
+    - '/pt/modelo/recording-working-time'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo controle de ponto: registro digital e compliance'
+    description: 'Controle horas, folgas e férias no modelo digital – conformidade com a lei europeia e praticidade para equipes de RH e empresas.'
 template: '7b72578c0e714750954a'
 ---
 

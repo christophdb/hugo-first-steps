@@ -2,12 +2,14 @@
 title: 'Plan de rédaction'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/writing-plan'
+url: '/fr/modele/plan-ecriture'
+aliases:
+    - '/fr/modele/writing-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de plan d’écriture : roman, intrigue'
+    description: 'Structurez intrigue, personnages, lieux et chapitres – plan d’écriture digital idéal pour roman, nouvelle ou biographie.'
 template: 'f4d05c56e13e4dd1bb57'
 ---
 

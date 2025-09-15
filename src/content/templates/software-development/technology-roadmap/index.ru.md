@@ -8,8 +8,8 @@ aliases:
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон tech roadmap: этапы, релизы, команды'
+    description: 'Визуализируйте релизы, этапы, задачи и команды в шаблоне технологической дорожной карты – стратегическое планирование ИТ.'
 template: '1b086534c58049f481eb'
 ---
 

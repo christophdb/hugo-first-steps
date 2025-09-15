@@ -2,12 +2,14 @@
 title: 'Embarque de clientes'
 description: ''
 date: '2024-08-16'
-url: '/pt/modelo/customer-onboarding'
+url: '/pt/modelo/onboarding-clientes'
+aliases:
+    - '/pt/modelo/customer-onboarding'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de onboarding de clientes: processo digital'
+    description: 'Onboard clientes com tarefas, e-mails e automações. Checklist digital para acelerar integração e sucesso do cliente.'
 template: 'c33b819f0a694f3b8cf1'
 ---
 

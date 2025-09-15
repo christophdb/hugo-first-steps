@@ -2,12 +2,14 @@
 title: 'Pressespiegel / Inhaltsanalyse'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/media-content-analysis'
+url: '/de/vorlage/medienanalyse'
+aliases:
+    - '/de/vorlage/media-content-analysis'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Medienanalyse Vorlage – Monitoring & Berichterstattung'
+    description: 'Medienbeobachtung: Artikel, Erwähnungen, Zitate & Reichweite analysieren – digitale Vorlage für Presseauswertung & Reporting.'
 template: '2064f57fadc14bc884cb'
 ---
 

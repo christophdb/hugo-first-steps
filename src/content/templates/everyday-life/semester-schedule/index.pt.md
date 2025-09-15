@@ -2,12 +2,14 @@
 title: 'Planificador de estudos'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/semester-schedule'
+url: '/pt/modelo/plano-semestre'
+aliases:
+    - '/pt/modelo/semester-schedule'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planejador de semestre: modelo digital personalizado'
+    description: 'Tempos, matérias, tarefas e meta – organize tudo em um só planner digital de semestre. Controle total dos estudos e horários.'
 template: '44ac24b866ac446f8fda'
 ---
 
