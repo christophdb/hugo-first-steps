@@ -2,12 +2,14 @@
 title: 'Digitale Gesundheitsakte'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/electronic-health-record'
+url: '/de/vorlage/elektronische-patientenakte'
+aliases:
+    - '/de/vorlage/electronic-health-record'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Elektronische Gesundheitsakte – Vorlage & Features'
+    description: 'Gesundheitsdaten, Diagnosen, Medikamente & Arztbriefe sicher digital speichern, verwalten und teilen – zentral im E-Akten Template.'
 template: '8180670a338044d4a602'
 ---
 

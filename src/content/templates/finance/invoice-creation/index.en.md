@@ -6,8 +6,8 @@ url: '/template/invoice-creation'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Invoice Template: Write & Send Invoices Fast'
+    description: 'Create professional invoices in seconds – download the invoice template for automated, secure accounting.'
 template: '0341827ed80f4be3888a'
 ---
 

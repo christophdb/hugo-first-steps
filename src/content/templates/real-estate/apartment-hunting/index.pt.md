@@ -2,12 +2,14 @@
 title: 'Caça ao apartamento'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/apartment-hunting'
+url: '/pt/modelo/busca-apartamento'
+aliases:
+    - '/pt/modelo/apartment-hunting'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo para busca de apartamento: checklist & comparativo'
+    description: 'Organize visitas, avalie imóveis, gerencie contatos e notas – template gratuito para simplificar sua mudança e escolha.'
 template: '3ab08a59c6b34166b852'
 ---
 

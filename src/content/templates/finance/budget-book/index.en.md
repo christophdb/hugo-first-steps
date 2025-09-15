@@ -6,8 +6,8 @@ url: '/template/budget-book'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Budget Book Template – Track, Save & Analyze Money'
+    description: 'Budget book template: log expenses/income, analyze spending, view stats – easy finance management for individuals or families.'
 template: '07029bcd3c644efc898c'
 ---
 

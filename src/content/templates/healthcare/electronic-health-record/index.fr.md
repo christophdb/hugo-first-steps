@@ -2,12 +2,14 @@
 title: 'Dossier de santé numérique'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/electronic-health-record'
+url: '/fr/modele/dossier-medical'
+aliases:
+    - '/fr/modele/electronic-health-record'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Dossier médical électronique : modèle EHR complet'
+    description: 'Toutes vos données médicales numériques : diagnostics, médicaments, médecins et documents en toute sécurité avec le modèle EHR.'
 template: '8180670a338044d4a602'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон бюджета: учет доходов и расходов'
+    description: 'Бюджет под контролем: ведите доходы, расходы, анализируйте статьи, экономьте и визуализируйте финансы в одной таблице.'
 template: '07029bcd3c644efc898c'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Wohnungssuche'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/apartment-hunting'
+url: '/de/vorlage/wohnungssuche'
+aliases:
+    - '/de/vorlage/apartment-hunting'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Wohnungssuche Vorlage – Vergleich, Checkliste, Bewertung'
+    description: 'Wohnungssuche einfach: Mit der Überblick-Vorlage alle Mietwohnungen vergleichen, Kontakte & Besichtigungen clever verwalten.'
 template: '3ab08a59c6b34166b852'
 ---
 

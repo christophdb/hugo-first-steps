@@ -2,12 +2,14 @@
 title: 'Chá de bebé'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/baby-party'
+url: '/pt/modelo/cha-de-bebe'
+aliases:
+    - '/pt/modelo/baby-party'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planner de chá de bebê: convidados, presentes, tarefas'
+    description: 'Tudo para organizar o chá de bebê: convidados, presentes, tarefas, brincadeiras e cardápio em um só modelo digital, gratuito.'
 template: 'f49862deac1d4d1ea078'
 ---
 

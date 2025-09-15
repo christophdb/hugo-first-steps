@@ -8,8 +8,8 @@ aliases:
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон счёта: быстрое и простое выставление'
+    description: 'Автоматизированный шаблон SeaTable: выставляйте, отправляйте и храните счета для бизнеса без ошибок и рутины.'
 template: '0341827ed80f4be3888a'
 ---
 

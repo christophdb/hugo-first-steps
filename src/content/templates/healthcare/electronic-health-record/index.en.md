@@ -6,8 +6,8 @@ url: '/template/electronic-health-record'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Electronic Health Record Template – EHR for Patients'
+    description: 'Track health data, diagnoses, meds, allergies & doctors – secure digital EHR template for patient profiles, visits and medical docs.'
 template: '8180670a338044d4a602'
 ---
 
