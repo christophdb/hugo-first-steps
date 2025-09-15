@@ -6,8 +6,8 @@ url: '/es/plantilla/net-promoter-score-nps-form'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Encuesta Net Promoter Score (NPS): plantilla gratuita'
+    description: 'Plantilla de encuesta NPS para medir la satisfacción del cliente fácilmente.'
 template: '895068666cae411b9da7'
 ---
 

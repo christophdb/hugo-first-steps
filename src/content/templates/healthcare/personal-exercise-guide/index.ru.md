@@ -8,8 +8,8 @@ aliases:
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Персональный тренировочный план: цифровой шаблон'
+    description: 'Составьте индивидуальный тренировочный план и фиксируйте прогресс.'
 template: '59bc81daee554d35bf9f'
 ---
 

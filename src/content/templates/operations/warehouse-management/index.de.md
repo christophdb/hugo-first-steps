@@ -6,8 +6,8 @@ url: '/de/vorlage/lagerverwaltung'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Lagerverwaltung Vorlage: Lager effizient digital managen'
+    description: 'Die No-Code Warehouse Management Vorlage von SeaTable – flexibel, digital, skalierbar.'
 template: 'ab96101c9e5b4470a2d2'
 ---
 

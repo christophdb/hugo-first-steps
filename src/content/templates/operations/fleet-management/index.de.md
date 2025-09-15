@@ -2,12 +2,14 @@
 title: 'Fuhrparkmanagement Software'
 description: ''
 date: '2025-03-12'
-url: '/de/vorlage/fleet-management'
+url: '/de/vorlage/fuhrparkmanagement'
+aliases:
+    - '/de/vorlage/fleet-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Fuhrparkmanagement Software: Flotte effizient verwalten'
+    description: 'Moderne Fuhrparkmanagement Software für Unternehmen – kostenlos, sicher, skalierbar.'
 template: 'd781991c26e24261bdce'
 ---
 

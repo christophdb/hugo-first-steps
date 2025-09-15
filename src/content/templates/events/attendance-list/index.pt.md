@@ -2,12 +2,14 @@
 title: 'Lista de presenças'
 description: ''
 date: '2025-02-28'
-url: '/pt/modelo/attendance-list'
+url: '/pt/modelo/lista-presenca'
+aliases:
+    - '/pt/modelo/attendance-list'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de lista de presença: gestão digital eficaz'
+    description: 'Organize presenças com modelo digital fácil, seguro e pronto para eventos ou cursos.'
 template: '7e0a717a66ca4658bbb4'
 ---
 

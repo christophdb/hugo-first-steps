@@ -2,11 +2,10 @@
 title: 'Пулевой журнал - как организовать свою жизнь с помощью творчества'
 date: 2023-12-19
 lastmod: '2024-01-25'
-author: 'lsc'
 url: '/ru/bullet-journal'
 seo:
-    title:
-    description:
+    title: 'Bullet Journal: как структурировать жизнь творчески'
+    description: 'Организация задач, целей и креативности с системой Bullet Journal.'
 categories:
     - 'best-practice'
 tags:

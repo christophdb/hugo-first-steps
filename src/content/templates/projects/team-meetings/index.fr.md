@@ -2,15 +2,16 @@
 title: "Réunions d'équipe"
 description: ''
 date: '2025-03-03'
-url: '/fr/modele/team-meetings'
+url: '/fr/modele/reunion-equipe'
 aliases:
     - /fr/in-4-schritten-zu-effizienteren-teammeetings
     - /fr/reunions-equipe-plus-efficaces-4-etapes
+    - /fr/modele/team-meetings'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de réunion d’équipe : efficacité et clarté'
+    description: 'Planifiez et suivez vos réunions d’équipe : agendas, comptes rendus, assignations.'
 template: '049628c4ea884375b7b9'
 ---
 

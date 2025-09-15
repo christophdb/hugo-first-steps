@@ -6,8 +6,8 @@ url: '/template/emergency-stock-planner'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Emergency Stock Planner: Prepare & Manage Your Supplies'
+    description: 'Organize your household’s emergency food, water, and supplies with a flexible stock planner.'
 template: 'a3692d5b12a54c6dad13'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Опросник NPS: Net Promoter Score шаблон'
+    description: 'Измеряйте удовлетворенность клиентов бесплатным опросником NPS.'
 template: '895068666cae411b9da7'
 ---
 

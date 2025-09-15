@@ -1,6 +1,9 @@
 ---
 title: 'Aviso-legal'
 description: ''
+seo:
+    title: 'Aviso legal: Información de la empresa SeaTable'
+    description: 'Detalles legales y de contacto de SeaTable GmbH conforme a la normativa.'
 date: 2025-03-24
 type: 'legal'
 url: '/es/aviso-legal'

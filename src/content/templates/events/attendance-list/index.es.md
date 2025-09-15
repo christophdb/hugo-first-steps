@@ -2,12 +2,14 @@
 title: 'Lista de asistencia'
 description: ''
 date: '2025-02-28'
-url: '/es/plantilla/attendance-list'
+url: '/es/plantilla/lista-asistencia'
+aliases:
+    - '/es/plantilla/attendance-list'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de lista de asistencia digital personalizada'
+    description: 'Optimice la asistencia con una plantilla de lista digital fácil y segura.'
 template: '7e0a717a66ca4658bbb4'
 ---
 

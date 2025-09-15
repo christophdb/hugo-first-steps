@@ -2,15 +2,16 @@
 title: 'Reuniones de equipo'
 description: ''
 date: '2025-03-03'
-url: '/es/plantilla/team-meetings'
+url: '/es/plantilla/reuniones-equipo'
 aliases:
     - /es/in-4-schritten-zu-effizienteren-teammeetings
     - /es/reuniones-equipo-mas-eficientes-4-pasos
+    - /es/plantilla/team-meetings'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de reuniones de equipo eficaz'
+    description: 'Simplifique las reuniones de equipo: agenda, seguimiento de tareas y colaboración digital.'
 template: '049628c4ea884375b7b9'
 ---
 

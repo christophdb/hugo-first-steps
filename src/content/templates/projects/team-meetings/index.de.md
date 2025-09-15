@@ -9,8 +9,8 @@ aliases:
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Teambesprechungen: Meetings effizient digitalisieren'
+    description: 'Digitalisieren Sie Ihre Teambesprechungen: Agenda, Protokoll, Aufgaben und mehr – einfach, übersichtlich.'
 template: '049628c4ea884375b7b9'
 ---
 

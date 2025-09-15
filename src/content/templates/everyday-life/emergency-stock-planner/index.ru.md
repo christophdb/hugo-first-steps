@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон учёта запасов: подготовка к чрезвычайным ситуациям'
+    description: 'Управляйте и планируйте семейный запас быстро и удобно – цифровое решение.'
 template: 'a3692d5b12a54c6dad13'
 ---
 

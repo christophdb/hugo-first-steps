@@ -1,6 +1,9 @@
 ---
 title: 'Imprint'
 description: ''
+seo:
+    title: 'Legal Notice SeaTable GmbH: Company Information'
+    description: 'Legal and contact details for SeaTable GmbH in compliance with EU law.'
 date: 2025-03-24
 type: 'legal'
 url: '/imprint'

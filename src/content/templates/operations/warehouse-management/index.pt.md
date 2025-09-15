@@ -6,8 +6,8 @@ url: '/pt/modelo/gestao-de-armazens'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestão de armazém: modelo simples e digital'
+    description: 'Controle seus estoques com a solução de gestão de armazém digital da SeaTable.'
 template: 'ab96101c9e5b4470a2d2'
 ---
 

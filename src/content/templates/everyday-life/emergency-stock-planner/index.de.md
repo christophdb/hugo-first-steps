@@ -2,12 +2,14 @@
 title: 'Vorratshaltung'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/emergency-stock-planner'
+url: '/de/vorlage/vorratshaltung'
+aliases:
+    - '/de/vorlage/emergency-stock-planner'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Vorratshaltung Vorlage: Notvorrat clever verwalten'
+    description: 'Behalten Sie mit der Vorlage zur Vorratshaltung den Überblick – digital und anpassbar.'
 template: 'a3692d5b12a54c6dad13'
 ---
 

@@ -7,8 +7,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Habit Tracker & Bullet Journal: plantilla personalizada'
+    description: 'Registra hábitos y organiza tus retos con la plantilla digital más completa.'
 template: 'c7a62de5f2664659bce2'
 ---
 
