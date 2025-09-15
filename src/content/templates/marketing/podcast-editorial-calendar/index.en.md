@@ -6,8 +6,8 @@ url: '/template/podcast-editorial-calendar'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Podcast Editorial Calendar Template – Schedule & Guests'
+    description: 'Plan episodes, guests, ads & promotion with an editorial calendar – manage your podcast workflow & releases reliably, free & digital.'
 template: '00fdb62203c74a0e87b4'
 ---
 

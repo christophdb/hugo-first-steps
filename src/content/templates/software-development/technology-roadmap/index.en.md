@@ -6,8 +6,8 @@ url: '/template/technology-roadmap'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Technology Roadmap Template – Plan IT & Milestones'
+    description: 'Technology roadmap: map releases, milestones, teams & tasks visually – plan, prioritize & align projects with company goals. Free sample.'
 template: '1b086534c58049f481eb'
 ---
 

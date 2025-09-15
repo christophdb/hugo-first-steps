@@ -6,8 +6,8 @@ url: '/template/writing-plan'
 category: 'projects'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Writing Plan Template – Outline, Characters, Plot'
+    description: 'Build your book: chapters, plots, characters, world – writing plan template for novels, thrillers & non-fiction. Structure to succeed.'
 template: 'f4d05c56e13e4dd1bb57'
 ---
 

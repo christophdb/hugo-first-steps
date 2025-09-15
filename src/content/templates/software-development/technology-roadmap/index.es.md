@@ -2,12 +2,14 @@
 title: 'Hoja de ruta tecnológica'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/technology-roadmap'
+url: '/es/plantilla/hoja-ruta-tecnologica'
+aliases:
+    - '/es/plantilla/technology-roadmap'
 category: 'software-development'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla hoja de ruta tecnológica : hitos y equipos'
+    description: 'Gestiona tu desarrollo digital: cronograma, lanzamientos, responsables y tareas, todo desde la plantilla de roadmap tecnológico.'
 template: '1b086534c58049f481eb'
 ---
 

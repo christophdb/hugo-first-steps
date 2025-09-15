@@ -2,12 +2,14 @@
 title: 'Saisie du temps de travail'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/recording-working-time'
+url: '/fr/modele/suivi-temps-travail'
+aliases:
+    - '/fr/modele/recording-working-time'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de suivi du temps de travail : conformité UE'
+    description: 'Gérez temps de travail, congés et absences facilement – modèle digital conforme au droit européen pour entreprises et RH.'
 template: '7b72578c0e714750954a'
 ---
 

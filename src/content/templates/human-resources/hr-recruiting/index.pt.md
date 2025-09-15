@@ -2,12 +2,14 @@
 title: 'Recrutamento de pessoal'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/hr-recruiting'
+url: '/pt/modelo/recrutamento-rh'
+aliases:
+    - '/pt/modelo/hr-recruiting'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de recrutamento RH: candidatos & entrevistas'
+    description: 'Centralize candidatos, entrevistas e feedback em um modelo digital de RH. Recrutamento moderno, fácil e colaborativo para equipes de RH.'
 template: '9abba02477a7435eb3d7'
 ---
 

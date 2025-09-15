@@ -6,8 +6,8 @@ url: '/template/recording-working-time'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Working Time Recording Template – EU HR Compliance'
+    description: 'Record working hours, absences & paid leave for all staff – compliant timesheet solution for EU companies, instantly ready to use.'
 template: '7b72578c0e714750954a'
 ---
 

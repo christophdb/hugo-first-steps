@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон менеджера паролей: все данные под защитой'
+    description: 'Надежное цифровое хранилище: логины, пароли, подписки, заметки, последние волеизъявления – всё безопасно и централизовано.'
 template: '0467fede46ee48a8a1c2'
 ---
 

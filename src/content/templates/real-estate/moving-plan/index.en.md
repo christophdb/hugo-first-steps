@@ -6,8 +6,8 @@ url: '/template/moving-plan'
 category: 'real-estate'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Moving Plan Template – Checklist & Organizer'
+    description: 'Organize your move: task list, packing, contacts and costs – free digital moving planner for a seamless moving experience.'
 template: 'fc4bbfc83848400a8669'
 ---
 

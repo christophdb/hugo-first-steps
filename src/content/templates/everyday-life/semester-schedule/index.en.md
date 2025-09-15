@@ -6,8 +6,8 @@ url: '/template/semester-schedule'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Semester Schedule Template – Student Planner'
+    description: 'Semester schedule: timetable, tasks & time tracking in one student planner – organize, analyze, succeed. Free digital template.'
 template: '44ac24b866ac446f8fda'
 ---
 

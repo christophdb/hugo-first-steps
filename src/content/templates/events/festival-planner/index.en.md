@@ -6,8 +6,8 @@ url: '/template/festival-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Festival Planner Template – Packing List & Schedule'
+    description: 'Plan the best festival: line-up, packing list, friends, food and schedule – free digital planner for a smooth group experience.'
 template: '1aa1f7e441554bf6887b'
 ---
 

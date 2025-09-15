@@ -6,8 +6,8 @@ url: '/template/customer-onboarding'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Customer Onboarding Template – Checklist & Workflow'
+    description: 'Streamline onboarding: assign contacts, automate steps, trigger feedback and track phases – digital template for better retention.'
 template: 'c33b819f0a694f3b8cf1'
 ---
 

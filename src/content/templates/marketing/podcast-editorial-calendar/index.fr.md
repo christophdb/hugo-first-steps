@@ -2,12 +2,14 @@
 title: 'Calendrier éditorial du podcast'
 description: ''
 date: '2024-08-16'
-url: '/fr/modele/podcast-editorial-calendar'
+url: '/fr/modele/calendrier-podcast'
+aliases:
+    - '/fr/modele/podcast-editorial-calendar'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Calendrier éditorial podcast : épisodes et invités'
+    description: 'Centralisez planning, invités & sponsors : calendrier éditorial pour podcasts – gestion moderne et efficace, exportable et flexible.'
 template: '00fdb62203c74a0e87b4'
 ---
 

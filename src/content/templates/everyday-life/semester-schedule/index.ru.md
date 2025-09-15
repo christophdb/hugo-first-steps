@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Шаблон учебного семестра: расписание и задачи'
+    description: 'Планируйте занятия, задачи и время в цифровом шаблоне семестра – учебный календарь, трекер и анализ в одном месте.'
 template: '44ac24b866ac446f8fda'
 ---
 

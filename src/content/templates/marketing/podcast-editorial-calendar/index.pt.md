@@ -2,12 +2,14 @@
 title: 'Podcast Calendário Editorial'
 description: ''
 date: '2024-08-16'
-url: '/pt/modelo/podcast-editorial-calendar'
+url: '/pt/modelo/calendario-podcast'
+aliases:
+    - '/pt/modelo/podcast-editorial-calendar'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Calendário editorial podcast: convidados & pauta'
+    description: 'Agende episódios, convidados e publicidade em um calendário digital de podcast – fluxo produtivo, divulgação e lançamento sem falhas.'
 template: '00fdb62203c74a0e87b4'
 ---
 

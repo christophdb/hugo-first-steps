@@ -2,12 +2,14 @@
 title: 'Calendario editorial de podcasts'
 description: ''
 date: '2024-08-16'
-url: '/es/plantilla/podcast-editorial-calendar'
+url: '/es/plantilla/calendario-podcast'
+aliases:
+    - '/es/plantilla/podcast-editorial-calendar'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Calendario editorial podcast: episodios y promoción'
+    description: 'Organiza episodios, invitados y campañas promocionales en una plantilla de calendario editorial para podcasts, gratis y digital.'
 template: '00fdb62203c74a0e87b4'
 ---
 

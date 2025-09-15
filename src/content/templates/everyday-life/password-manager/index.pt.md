@@ -2,12 +2,14 @@
 title: 'Gestor de palavras-passe'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/password-manager'
+url: '/pt/modelo/gerenciador-senhas'
+aliases:
+    - '/pt/modelo/password-manager'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modelo de senha: todas as contas protegidas'
+    description: 'Guarde senhas, logins e notas de forma segura – modelo digital para organizar e proteger seus dados de acesso facilmente.'
 template: '0467fede46ee48a8a1c2'
 ---
 

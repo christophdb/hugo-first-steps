@@ -6,8 +6,8 @@ url: '/de/vorlage/hr-recruiting'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'HR Recruiting Vorlage – Bewerbermanagement digital'
+    description: 'Bewerbungen, Interviews, Kontakte bequem online verwalten – HR Recruiting Vorlage für effizientes, transparentes Bewerbermanagement im Team.'
 template: '9abba02477a7435eb3d7'
 ---
 
