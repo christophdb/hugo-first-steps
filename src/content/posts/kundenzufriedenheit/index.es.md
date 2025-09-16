@@ -1,5 +1,6 @@
 ---
 title: 'Medir, evaluar y aumentar la satisfacción del cliente - SeaTable'
+description: 'Clientes satisfechos repiten y recomiendan. Conozca cómo medir la satisfacción mediante encuestas NPS y cuestionarios en línea. Con SeaTable podrá recopilar fácilmente comentarios, analizarlos con estadísticas claras y tomar decisiones para corregir fallos y mejorar la experiencia del cliente de manera continua.'
 date: 2021-03-05
 lastmod: '2023-06-28'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/es/satisfaccion-clientes'
 aliases:
     - /es/kundenzufriedenheit
 seo:
-    title:
-    description:
+    title: 'Medir y Mejorar la Satisfacción del Cliente'
+    description: 'Descubra cómo medir y analizar la satisfacción del cliente y aumentarla con herramientas digitales como SeaTable.'
 categories:
     - 'best-practice'
 tags:

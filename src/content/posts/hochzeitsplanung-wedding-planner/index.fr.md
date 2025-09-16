@@ -1,5 +1,6 @@
 ---
 title: 'Organiser un mariage parfait avec SeaTable - SeaTable'
+description: 'Organiser un mariage demande du temps et de la méthode. SeaTable vous aide avec une checklist de plus de 200 tâches, des comparaisons de prestataires, une liste d’invités et la gestion des places. Suivez vos dépenses et collectez vos idées pour que le plus beau jour de votre vie reste inoubliable.'
 date: 2021-07-22
 lastmod: '2023-07-11'
 categories:
@@ -11,8 +12,8 @@ aliases:
     - /fr/hochzeitsplanung-wedding-planner
 color: '#c6ae94'
 seo:
-    title:
-    description:
+    title: 'Organisation Parfaite de Mariage avec SeaTable'
+    description: 'Préparez votre mariage facilement. Checklists, listes d’invités et budget vous garantissent une organisation sans stress.'
 ---
 
 L'un des plus beaux et des plus importants jours de la vie est sur le point d'arriver : le mariage. Il ne faut surtout pas que quelque chose se passe mal, c'est pourquoi un planning de mariage structuré est d'une grande importance pour la plupart des couples. Que faut-il faire 12 mois avant le mariage, que faut-il faire 5 mois avant le grand jour ? Si l'on n'a pas les moyens financiers d'engager un organisateur de mariage professionnel ou si l'on prend tout simplement plaisir à organiser son propre mariage, SeaTable permet de ne pas perdre la vue d'ensemble lors de l'organisation du mariage.

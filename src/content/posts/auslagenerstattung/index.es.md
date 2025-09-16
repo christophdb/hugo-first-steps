@@ -1,5 +1,6 @@
 ---
 title: 'Reembolso de gastos: consejos para empresarios y trabajadores'
+description: 'Ya sea una comida de negocios, un billete de tren o material de oficina, los reembolsos de gastos requieren control y transparencia. Este artículo explica las bases legales, ofrece consejos prácticos y presenta plantillas digitales que ayudan a simplificar procesos y reducir errores en la gestión.'
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/es/reembolso-gastos'
 aliases:
     - /es/auslagenerstattung
 seo:
-    title:
-    description:
+    title: 'Reembolso de Gastos: Guía para Empresas y Empleados'
+    description: 'Descubra cómo gestionar reembolsos de forma correcta y digital, con eficiencia y menos carga administrativa.'
 categories:
     - 'best-practice'
 tags:

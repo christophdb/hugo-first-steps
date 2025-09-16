@@ -1,6 +1,6 @@
 ---
 title: 'Was ein Storyboard ist und wie Sie es erstellen'
-description: 'Was macht ein gutes Storyboard aus? In diesem Praxisartikel erfährst du alles über Storyboard-Technik, Beispiele für kreative Filmarbeit und bekommst eine kostenlose, editierbare Vorlage zum Planen deines Projekts.'
+description: 'Was macht ein gutes Storyboard aus? In diesem Praxisartikel erfahren Sie alles über Storyboard-Technik, Beispiele für kreative Filmarbeit und eine kostenlose, editierbare Vorlage zum Planen Ihres Projekts.'
 date: 2024-03-26
 lastmod: '2024-03-26'
 author: 'nsc'

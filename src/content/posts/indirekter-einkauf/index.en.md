@@ -1,6 +1,6 @@
 ---
 title: 'Indirect procurement: How to optimize your processes and reduce costs'
-description: "Software licenses, maintenance contracts or office supplies: these expenses do not contribute directly to a company's products or services. However, they are essential for the smooth running of business operations and hold enormous potential for optimization. This is because indirect procurement can cause considerable costs. Read this article to find out what indirect procurement is and what you should pay attention to."
+description: "Software licenses, maintenance contracts and office supplies are critical but costly. Indirect procurement is often fragmented and inefficient. This article covers the main challenges such as maverick buying, lack of transparency, and missing control mechanisms, while offering digital solutions and KPIs for optimization."
 date: 2021-11-19
 lastmod: 2025-09-10
 categories:
@@ -13,7 +13,7 @@ aliases:
 color: '#f3919b'
 seo:
     title: 'Indirect procurement: optimize processes, reduce costs'
-    description: 'Indirect procurement runs on the side in many companies. And therefore holds enormous potential for optimization. Find out what is important and how you can do it better.'
+    description: 'Indirect procurement holds untapped potential. Learn how to streamline processes, create transparency and achieve sustainable cost reductions.'
 ---
 
 ## What do direct and indirect procurement mean?

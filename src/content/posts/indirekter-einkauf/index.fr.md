@@ -1,6 +1,6 @@
 ---
 title: 'Achats indirects : Comment optimiser vos processus et réduire les coûts'
-description: "Licences de logiciels, contrats de maintenance ou fournitures de bureau : ces dépenses ne contribuent pas directement aux produits ou services d'une entreprise. Pourtant, elles sont essentielles au bon fonctionnement des activités de l'entreprise et recèlent un énorme potentiel d'optimisation. En effet, les achats indirects peuvent engendrer des coûts considérables. Lisez cet article pour découvrir ce que sont les achats indirects et ce à quoi vous devez prêter attention."
+description: "Licences logicielles, fournitures de bureau ou contrats de maintenance représentent un poste de dépense majeur. Les achats indirects sont souvent fragmentés et manquent de visibilité. Cet article met en lumière les défis courants et propose des solutions digitales et des KPI pour professionnaliser ce domaine."
 date: 2021-11-19
 lastmod: 2025-09-10
 categories:
@@ -12,8 +12,8 @@ aliases:
     - /fr/indirekter-einkauf/
 color: '#f3919b'
 seo:
-    title: 'Achats indirects : optimiser les processus, réduire les coûts'
-    description: "Les achats indirects recèlent donc un énorme potentiel d'optimisation. Découvrez ce qui est important et comment vous pouvez mieux faire."
+    title: 'Achats Indirects: Optimiser processus & réduire coûts'
+    description: "Les achats indirects restent souvent sous-optimisés. Découvrez comment améliorer vos processus, renforcer la transparence et réduire vos coûts."
 ---
 
 ## Que signifient les termes "achats directs" et "achats indirects" ?

@@ -1,5 +1,8 @@
 ---
-title: Changelog
+title: 'Changelog'
+seo:
+    title: 'SeaTable Changelog: All Updates & Releases'
+    description: 'Stay up to date with all new features. Access changelogs and release notes for every SeaTable Server version.'
 url: '/changelog'
 
 sections:

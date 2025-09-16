@@ -6,7 +6,7 @@ lastmod: '2024-02-16'
 url: '/de/gender-reveal-party'
 seo:
     title: 'Gender Reveal Party planen – Tipps, Ideen, Checkliste'
-    description: 'Gender Reveal Party richtig planen: Checkliste, Deko, Spiele und Rezepte – so wird deine Babyparty ein emotionales Highlight!'
+    description: 'Gender Reveal Party richtig planen: Checkliste, Deko, Spiele und Rezepte – so wird Ihre Babyparty ein emotionales Highlight!'
 categories:
     - 'best-practice'
 tags:

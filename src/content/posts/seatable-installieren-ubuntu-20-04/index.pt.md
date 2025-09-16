@@ -1,5 +1,6 @@
 ---
 title: 'Instalar SeaTable Enterprise Edition sob Ubuntu Server 20.04 LTS - SeaTable'
+description: 'Com Docker, a instalação do SeaTable Enterprise no Ubuntu 20.04 torna-se simples. Aprenda a preparar o ambiente, configurar o YAML e iniciar o serviço para obter uma nuvem colaborativa própria, ideal para dados sensíveis e privacidade.'
 date: 2021-01-23
 lastmod: '2024-01-19'
 categories: 
@@ -8,8 +9,8 @@ url: '/pt/instalacao-seatable-enterprise-ubuntu-20-04'
 aliases:
     - /pt/seatable-enterprise-edition-unter-ubuntu-20-04-lts-installieren
 seo:
-    title:
-    description:
+    title: 'Instale SeaTable Enterprise no Ubuntu 20.04'
+    description: 'Saiba como instalar o SeaTable Enterprise Edition no Ubuntu 20.04 em poucos minutos usando Docker e docker-compose.'
 color: '#3b6bb1'
 ---
 

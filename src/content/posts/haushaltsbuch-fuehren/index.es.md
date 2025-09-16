@@ -1,5 +1,6 @@
 ---
 title: 'Lleve un libro de presupuesto: Ahorra dinero con estos 12 consejos'
+description: '¿Se queda sin dinero al final del mes sin saber en qué lo ha gastado? Un libro de gastos le ayuda a registrar sus costos fijos y variables. En este artículo encontrará 12 consejos prácticos para detectar gastos innecesarios, planificar mejor su presupuesto y ahorrar de manera inteligente.'
 date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
@@ -7,8 +8,8 @@ url: '/es/llevar-libro-gastos'
 aliases:
     - /es/haushaltsbuch-fuehren
 seo:
-    title:
-    description:
+    title: 'Llevar un Libro de Gastos: 12 Consejos'
+    description: 'Controle sus gastos con un libro de cuentas y descubra 12 consejos para ahorrar dinero y organizar mejor sus finanzas.'
 categories:
     - 'best-practice'
 tags:

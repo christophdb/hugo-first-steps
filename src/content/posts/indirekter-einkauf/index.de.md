@@ -11,7 +11,7 @@ url: '/de/indirekter-einkauf'
 color: '#f3919b'
 seo:
     title: 'Indirekter Einkauf: Prozesse optimieren, Kosten senken'
-    description: 'Der indirekte Einkauf läuft in vielen Unternehmen nebenher. Und birgt dadurch enormes Optimierungspotential. Erfahren Sie, worauf es ankommt und wie Sie es besser machen können.'
+    description: 'Indirekter Einkauf birgt viel Einsparpotenzial. Erfahren Sie, wie Sie Prozesse digitalisieren, Transparenz schaffen und Kosten nachhaltig reduzieren.'
 ---
 
 ## Was bedeuten direkter und indirekter Einkauf?

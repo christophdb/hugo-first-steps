@@ -1,5 +1,6 @@
 ---
 title: 'Remboursement des frais - Conseils pour les employeurs et les employés'
+description: 'Repas d’affaires, billets de train ou fournitures de bureau : le remboursement des frais est incontournable mais complexe. Cet article présente les obligations fiscales, met en lumière les défis et propose des solutions digitales pour simplifier et fiabiliser le traitement des dépenses en entreprise.'
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/fr/remboursement-frais'
 aliases:
     - /fr/auslagenerstattung
 seo:
-    title:
-    description:
+    title: 'Remboursement de Frais: Conseils pour Employeurs & Salariés'
+    description: 'Gérez vos remboursements de frais efficacement grâce à des règles claires et des modèles numériques pratiques.'
 categories:
     - 'best-practice'
 tags:

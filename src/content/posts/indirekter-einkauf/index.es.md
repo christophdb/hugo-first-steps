@@ -1,6 +1,6 @@
 ---
 title: 'Adquisiciones indirectas: Cómo optimizar sus procesos y reducir costes'
-description: "Licencias de software, contratos de mantenimiento o material de oficina: estos gastos no contribuyen directamente a los productos o servicios de una empresa. Sin embargo, son esenciales para el buen funcionamiento de las operaciones empresariales y encierran un enorme potencial de optimización. Y es que las compras indirectas pueden ocasionar costes considerables. Lea este artículo para saber qué es la contratación indirecta y a qué debe prestar atención."
+description: "Licencias de software, suministros de oficina o contratos de mantenimiento no forman parte del producto final, pero generan altos gastos. En este artículo explicamos los mayores retos de las compras indirectas y presentamos indicadores clave y herramientas digitales que ayudan a optimizar la gestión y ahorrar dinero."
 date: 2021-11-19
 lastmod: 2025-09-10
 categories:
@@ -12,8 +12,8 @@ aliases:
     - /es/indirekter-einkauf/
 color: '#f3919b'
 seo:
-    title: 'Adquisiciones indirectas: optimizar procesos, reducir costes'
-    description: 'El aprovisionamiento indirecto corre por cuenta ajena en muchas empresas. Y, por tanto, encierra un enorme potencial de optimización. Descubra qué es importante y cómo puede hacerlo mejor.'
+    title: 'Compras Indirectas: Optimice Procesos y Reduzca Costos'
+    description: 'Las compras indirectas suelen ser ineficientes. Descubra cómo centralizar procesos, mejorar la transparencia y reducir costos empresariales.'
 ---
 
 ## ¿Qué significan contratación directa e indirecta?

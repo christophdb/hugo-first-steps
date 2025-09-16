@@ -1,5 +1,6 @@
 ---
 title: 'Mesurer, évaluer et améliorer la satisfaction des clients - SeaTable'
+description: 'La satisfaction client est la clé pour fidéliser et attirer de nouveaux clients. À l’aide d’enquêtes NPS et de questionnaires en ligne, récoltez des retours fiables. SeaTable facilite la collecte, l’analyse et la priorisation du feedback, afin d’identifier les points à améliorer et d’offrir une meilleure expérience utilisateur.'
 date: 2021-03-05
 lastmod: '2023-06-28'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/fr/satisfaction-clients'
 aliases:
     - /fr/kundenzufriedenheit
 seo:
-    title:
-    description:
+    title: 'Mesurer et Améliorer la Satisfaction Client'
+    description: 'Découvrez comment évaluer la satisfaction client et l’accroître grâce à des outils modernes comme SeaTable.'
 categories:
     - 'best-practice'
 tags:

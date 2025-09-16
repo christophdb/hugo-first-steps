@@ -1,5 +1,6 @@
 ---
 title: 'The perfect wedding planning with SeaTable - SeaTable'
+description: 'A wedding is one of the most important days in life, and flawless planning is key. SeaTable offers smart tools: a 200+ task checklist, vendor comparison views, guest and seating lists, budget management and space for inspirations. Stay organized, save time and focus on what really matters—your special day.'
 date: 2021-07-22
 lastmod: '2023-07-11'
 coverImage: 'eliza-szablinska-TncriKEFStY-unsplash-scaled-1.jpg'
@@ -12,8 +13,8 @@ aliases:
     - /hochzeitsplanung-wedding-planner
 color: '#c6ae94'
 seo:
-    title:
-    description:
+    title: 'Perfect Wedding Planning with SeaTable'
+    description: 'Plan your dream wedding stress-free. With checklists, guest lists and budget tracking, SeaTable helps you stay organized.'
 ---
 
 One of the most beautiful and important days in life is just around the corner: your own wedding. Nothing should go wrong here, which is why structured wedding planning is of great importance for most couples. What needs to be done 12 months before the wedding, what needs to be done 5 months before the big day? If you don't have the financial means to hire a professional wedding planner, or if you simply enjoy planning your own wedding, SeaTable helps you not to lose the overview when planning your wedding.

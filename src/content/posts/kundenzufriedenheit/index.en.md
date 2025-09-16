@@ -1,5 +1,6 @@
 ---
 title: 'Measure, evaluate and increase customer satisfaction - SeaTable'
+description: 'Customer satisfaction drives loyalty and growth. Learn how to collect and evaluate structured feedback with NPS surveys and online questionnaires. SeaTable’s digital tools simplify data collection, provide clarity through smart analytics, and help you identify priorities—so you can continuously improve the customer experience.'
 date: 2021-03-05
 lastmod: '2023-06-28'
 coverImage: 'customer-satisfaction-survey-seatable.jpg'
@@ -8,8 +9,8 @@ url: '/customer-satisfaction'
 aliases:
     - /kundenzufriedenheit
 seo:
-    title:
-    description:
+    title: 'Measure & Improve Customer Satisfaction'
+    description: 'Learn proven methods to measure, analyze, and increase customer satisfaction effectively with SeaTable’s powerful survey tools.'
 categories:
     - 'best-practice'
 tags:
