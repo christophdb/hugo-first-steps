@@ -1,5 +1,6 @@
 ---
 title: 'A análise qualitativa de conteúdo explicada de forma simples - exemplo: análise da imprensa'
+description: 'Entenda a diferença entre análise qualitativa e quantitativa e aprenda, em detalhes, como criar categorias e analisar dados usando um exemplo real com matérias de imprensa no guia passo a passo.'
 date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/pt/analise-cualitativa-conteudo'
 aliases:
     - /pt/qualitative-inhaltsanalyse
 seo:
-    title:
-    description:
+    title: 'Análise de conteúdo qualitativo: conceito e exemplo prático'
+    description: 'Como aplicar análise qualitativa de conteúdo: etapas, dicas e exemplo prático com análise de matérias de imprensa.'
 categories:
     - 'best-practice'
 tags:

@@ -1,13 +1,14 @@
 ---
 title: 'Gestion de la flotte : comment gérer intelligemment votre parc de véhicules'
+description: 'Comment optimiser la gestion de flotte d’entreprise ? Ce dossier présente les étapes, enjeux réglementaires, options de financement et outils SaaS pour piloter votre flotte de véhicules.'
 date: 2024-01-09
 lastmod: '2025-02-12'
 url: '/fr/gestion-flotte'
 aliases:
     - /fr/fuhrparkmanagement
 seo:
-    title:
-    description:
+    title: 'Gestion de flotte : méthodes, coûts et solutions'
+    description: 'Gestion de flotte: processus, financement, maintenance et meilleures pratiques pour gagner en efficacité – toutes les clés expliquées.'
 categories:
     - 'best-practice'
 tags:

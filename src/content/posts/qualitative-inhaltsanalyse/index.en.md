@@ -1,5 +1,6 @@
 ---
 title: 'Qualitative content analysis explained simply - example: press review'
+description: 'What is qualitative content analysis? This article explains the key steps, main criteria (Mayring method), and practical implementation using a real-world press review – including category-building and coding.'
 date: 2024-03-11
 lastmod: '2024-03-11'
 author: 'lsc'
@@ -7,8 +8,8 @@ url: '/qualitative-content-analysis'
 aliases:
     - /qualitative-inhaltsanalyse
 seo:
-    title:
-    description:
+    title: 'Qualitative Content Analysis: Method & Press Review Example'
+    description: 'How to conduct a qualitative content analysis – step-by-step guide with real-life press review example, coding, and tips.'
 categories:
     - 'best-practice'
 tags:

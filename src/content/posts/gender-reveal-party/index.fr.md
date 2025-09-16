@@ -1,11 +1,12 @@
 ---
 title: 'Gender Reveal Party : comment faire de votre fête de bébé un succès'
+description: 'Vous préparez une gender reveal party ? Découvrez tous nos conseils : idées déco, animations, timing, invitations et une checklist pour organiser un moment inoubliable entre proches avant l’arrivée de bébé !'
 date: 2024-02-16
 lastmod: '2024-02-16'
 url: '/fr/gender-reveal-party'
 seo:
-    title:
-    description:
+    title: 'Gender reveal party : guide, conseils et inspirations'
+    description: 'Tout pour organiser une gender reveal party parfaite : idées créatives, check-list, déco, recettes et jeux pour la fête du bébé.'
 categories:
     - 'best-practice'
 tags:
