@@ -6,8 +6,8 @@ url: '/de/vorlage/crm-sales'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM & Sales: Kunden digital verwalten mit SeaTable'
+    description: 'Digitalisieren Sie Ihr Kundenmanagement: Kunden, Pipelines und Angebote zentral erfassen, Interaktionen dokumentieren und Analysefunktionen nutzen.'
 template: '76c0775460d44fee93a4'
 ---
 

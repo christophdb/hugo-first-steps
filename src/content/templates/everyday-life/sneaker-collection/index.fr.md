@@ -6,8 +6,8 @@ url: '/fr/modele/sneaker-collection'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Sneaker Collection : gérez votre stock facilement'
+    description: 'Centralisez et gérez chaque paire de baskets : tri par marque, valeur, état, contact des collectionneurs, données et photos dans SeaTable.'
 template: 'cc4113f9d66f488db6e2'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Produktentwicklungs-Feedback'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/product-development-feedback'
+url: '/de/vorlage/produktentwicklungs-feedback'
+aliases:
+    - '/de/vorlage/product-development-feedback'
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Produktentwicklungs-Feedback mit SeaTable erfassen'
+    description: 'Optimieren Sie Ihr Produkt mit strukturiertem Kundenfeedback: zentrale Verwaltung, Auswertung nach Feature und automatisierte Auswertung in SeaTable.'
 template: '9ea387bd5e6a43388286'
 ---
 

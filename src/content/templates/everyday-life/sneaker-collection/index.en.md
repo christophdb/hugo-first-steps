@@ -6,8 +6,8 @@ url: '/template/sneaker-collection'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Sneaker Collection: Manage Your Kicks Online Easily'
+    description: 'Digitally organize all your sneakers—by brand, value, rarity, and sale/trade status. Keep contacts and collection stats in SeaTable.'
 template: 'cc4113f9d66f488db6e2'
 ---
 

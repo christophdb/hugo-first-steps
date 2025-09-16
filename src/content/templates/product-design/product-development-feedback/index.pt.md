@@ -2,12 +2,14 @@
 title: 'Feedback de desenvolvimento do produto'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/product-development-feedback'
+url: '/pt/modelo/feedback-desenvolvimento-produto'
+aliases:
+    - '/pt/modelo/product-development-feedback'
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Feedback para produto: centralize e analise insights'
+    description: 'Receba e avalie opiniões de clientes: sugestões, críticas e demandas em um sistema SeaTable pensado para melhorias contínuas.'
 template: '9ea387bd5e6a43388286'
 ---
 

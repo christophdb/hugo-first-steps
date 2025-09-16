@@ -6,8 +6,8 @@ url: '/template/product-development-feedback'
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Product Development Feedback: Collect with SeaTable'
+    description: 'Gather structured product feedback: analyze feature requests, complaints and ideas—centralized and actionable, all in SeaTable.'
 template: '9ea387bd5e6a43388286'
 ---
 

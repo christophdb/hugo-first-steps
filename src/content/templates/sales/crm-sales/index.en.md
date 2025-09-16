@@ -6,8 +6,8 @@ url: '/template/crm-sales'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM & Sales: Manage Customers & Pipeline in SeaTable'
+    description: 'All-in-one sales platform: manage contacts, interactions, pipeline and offers in one cloud system with analysis and task tracking features.'
 template: '76c0775460d44fee93a4'
 ---
 

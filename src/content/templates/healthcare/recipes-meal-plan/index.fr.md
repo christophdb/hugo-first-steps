@@ -2,12 +2,14 @@
 title: 'Recettes et plan de repas'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/recipes-meal-plan'
+url: '/fr/modele/recettes-menu'
+aliases:
+    - '/fr/modele/recipes-meal-plan'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Recettes & Menu: Centralisez, Planifiez, Partagez'
+    description: 'Centralisez toutes vos recettes préférées, créez vos menus de la semaine et partagez-les facilement. Galerie photo et liste d’ingrédients incluses.'
 template: 'f1b6279b2aa8466fbcea'
 ---
 

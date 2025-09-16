@@ -6,8 +6,8 @@ url: '/template/recipes-meal-plan'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Recipes & Meal Plan: Organize, Plan, Share Easily'
+    description: 'Keep all recipes, meal plans and shopping lists in one place—rate, plan and share favorite dishes anytime thanks to SeaTable’s template.'
 template: 'f1b6279b2aa8466fbcea'
 ---
 

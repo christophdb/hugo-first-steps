@@ -2,12 +2,14 @@
 title: 'CRM y ventas'
 description: ''
 date: '2024-08-16'
-url: '/es/plantilla/crm-sales'
+url: '/es/plantilla/crm-ventas'
+aliases:
+    - '/es/plantilla/crm-sales'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM & Ventas: gestiona clientes digitalmente'
+    description: 'Administra prospectos, ofertas y actividades de ventas en una base central con registros, análisis y tareas compartidas—todo en SeaTable.'
 template: '76c0775460d44fee93a4'
 ---
 

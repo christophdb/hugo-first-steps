@@ -2,12 +2,14 @@
 title: 'Comentarios sobre el desarrollo de productos'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/product-development-feedback'
+url: '/es/plantilla/feedback-desarrollo-producto'
+aliases:
+    - '/es/plantilla/product-development-feedback'
 category: 'product-design'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Feedback de desarrollo de producto centralizado'
+    description: 'Recopile opiniones sobre funciones, problemas y calidad: plantilla SeaTable para análisis y mejoras del producto basadas en datos reales.'
 template: '9ea387bd5e6a43388286'
 ---
 

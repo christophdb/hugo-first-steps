@@ -2,12 +2,14 @@
 title: 'Suivi du cours des actions'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/stock-price-monitoring'
+url: '/fr/modele/suivi-cours-bourse'
+aliases:
+    - '/fr/modele/stock-price-monitoring'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Suivi des cours d’actions automatisé par SeaTable'
+    description: 'Centralisez la collecte automatique des données boursières : graphiques, historique, API et dashboards intégrés dans SeaTable.'
 template: 'd5cbbf2bba084333a1d7'
 ---
 
