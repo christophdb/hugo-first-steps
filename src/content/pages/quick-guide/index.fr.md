@@ -1,6 +1,11 @@
 ---
-title: Guide rapide
+title: 'Guide rapide'
+seo:
+    title: 'Guide rapide SeaTable : démarrage pas à pas'
+    description: 'Guide rapide pour débuter avec SeaTable : structurez, partagez, automatisez et collaborez en toute simplicité.'
 url: '/fr/guide-rapide'
+aliases:
+    - '/fr/quick-quide/'
 
 sections:
     - name: 'hero-2'

@@ -1,5 +1,8 @@
 ---
-title: Kurzanleitung
+title: 'Kurzanleitung'
+seo:
+    title: 'SeaTable Quick Guide – die wichtigsten Basics'
+    description: 'Die wichtigsten SeaTable Funktionen im Schnellüberblick: Erste Schritte, Tabellen, Ansichten, Teamarbeit – jetzt starten.'
 url: '/de/kurzanleitung'
 
 sections:

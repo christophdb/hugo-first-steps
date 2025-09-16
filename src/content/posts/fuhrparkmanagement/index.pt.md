@@ -1,13 +1,14 @@
 ---
 title: 'Gestão de frotas: Como gerir a sua frota de forma inteligente'
+description: 'Otimize a gestão da sua frota: guia prático sobre aquisição, manutenções, acompanhamento digital, regulamentos e alternativas para reduzir custos e elevar o desempenho da frota corporativa.'
 date: 2024-01-09
 lastmod: '2025-02-12'
 url: '/pt/gestao-frotas'
 aliases:
     - /pt/fuhrparkmanagement
 seo:
-    title:
-    description:
+    title: 'Gestão de frotas: práticas, custos e ferramentas'
+    description: 'Gestão de frotas na prática: seleção, manutenção, controle de custos e tecnologias para frotas empresariais modernas.'
 categories:
     - 'best-practice'
 tags:

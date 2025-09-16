@@ -1,12 +1,13 @@
 ---
 title: "Ce qu'est un storyboard et comment le créer"
+description: 'Qu’est-ce qu’un storyboard et pourquoi en utiliser un ? Notre article détaille ses avantages pour la création audiovisuelle et propose un modèle prêt à remplir à télécharger pour tous vos projets filmés.'
 date: 2024-03-26
 lastmod: '2024-03-26'
 author: 'nsc'
 url: '/fr/storyboard'
 seo:
-    title:
-    description:
+    title: 'Modèle de storyboard : planifiez vos films & vidéos'
+    description: 'Découvrez le storyboard : définition, intérêt, étapes pour créer un modèle – comprendre, structurer, réussir vos projets.'
 categories:
     - 'best-practice'
 tags:

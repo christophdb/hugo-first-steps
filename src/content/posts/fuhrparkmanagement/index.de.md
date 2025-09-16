@@ -5,8 +5,8 @@ date: 2024-01-09
 lastmod: '2025-02-12'
 url: '/de/fuhrparkmanagement'
 seo:
-    title: 'Fuhrparkmanagement: Wie Sie Ihren Fuhrpark clever verwalten'
-    description: 'Erfahren Sie alles über effizientes Fuhrparkmanagement, um Ihre Fahrzeugflotte geschickt aufzubauen und mit minimalem Aufwand zu verwalten.'
+    title: 'Fuhrparkmanagement: Definition, Tipps & Prozesse'
+    description: 'Wie gelingt effizientes Fuhrparkmanagement? Definition, Aufgaben, Best Practices & Software – so optimieren Unternehmen ihre Flotte.'
 categories:
     - 'best-practice'
 tags:

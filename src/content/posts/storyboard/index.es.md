@@ -1,12 +1,13 @@
 ---
 title: 'Qué es un guión gráfico y cómo crearlo'
+description: 'Descubre cómo un storyboard te ayuda a dar vida a tus ideas. En esta guía encontrarás ejemplos gráficos, consejos prácticos y una plantilla gratuita descargable para tu película, animación o video corporativo.'
 date: 2024-03-26
 lastmod: '2024-03-26'
 author: 'nsc'
 url: '/es/storyboard'
 seo:
-    title:
-    description:
+    title: 'Plantilla de storyboard: visualiza tu historia'
+    description: 'Qué es un storyboard y cómo crearlo – guía completa de estructura narrativa, ejemplos y plantilla editable gratis.'
 categories:
     - 'best-practice'
 tags:

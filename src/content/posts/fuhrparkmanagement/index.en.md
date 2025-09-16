@@ -1,13 +1,14 @@
 ---
 title: 'Fleet management: How to manage your fleet cleverly'
+description: 'Fleet management made easy: This guide covers core strategies, procurement, maintenance, tracking and digital tools to help you run a cost-effective, compliant and future-proof company vehicle fleet.'
 date: 2024-01-09
 lastmod: '2025-02-12'
 url: '/fleet-management'
 aliases:
     - /fuhrparkmanagement
 seo:
-    title:
-    description:
+    title: 'Fleet Management: Guide, Best Practices & Tools'
+    description: 'What is fleet management? Strategies, tasks and software for effective, cost-efficient vehicle operations in companies of any size.'
 categories:
     - 'best-practice'
 tags:

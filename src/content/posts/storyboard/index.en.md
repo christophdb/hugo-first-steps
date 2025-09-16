@@ -1,13 +1,14 @@
 ---
 title: 'What a storyboard is and how to create one'
+description: 'What’s the real power of a storyboard in projects, films or videos? This blog post explains the strategic benefits, essential elements and gives you a free, flexible storyboard template to jump-start your story.'
 date: 2024-03-26
 lastmod: '2024-03-26'
 coverImage: 'dix-sept-idiRDLFPH6A-unsplash.jpg'
 author: 'nsc'
 url: '/storyboard'
 seo:
-    title:
-    description:
+    title: 'Storyboard Template – Visualize Scripts & Ideas'
+    description: 'Learn what a storyboard is, why it matters, and how to create one for film, video, or animation – free template included.'
 categories:
     - 'best-practice'
 tags:

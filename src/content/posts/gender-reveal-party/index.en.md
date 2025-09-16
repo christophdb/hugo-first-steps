@@ -1,11 +1,12 @@
 ---
 title: 'Gender reveal party: How to make your baby shower a success'
+description: 'Find everything you need to make your gender reveal party memorable: step-by-step organizer, color scheme ideas, DIY tips and creative revelations. All the inspiration for planning an unforgettable baby shower event.'
 date: 2024-02-16
 lastmod: '2024-02-16'
 url: '/gender-reveal-party'
 seo:
-    title:
-    description:
+    title: 'Gender Reveal Party: Planning Guide & Best Ideas'
+    description: 'How to plan a gender reveal party: tips, ideas, invitation, decoration, food and games for the big moment – checklist included.'
 categories:
     - 'best-practice'
 tags:
