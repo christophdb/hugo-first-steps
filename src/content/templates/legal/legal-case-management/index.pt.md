@@ -2,12 +2,14 @@
 title: 'Gestão de casos'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/legal-case-management'
+url: '/pt/modelo/gestao-processos-juridicos'
+aliases:
+    - '/pt/modelo/legal-case-management'
 category: 'legal'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gerencie processos jurídicos online com SeaTable'
+    description: 'Gerencie processos, clientes, prazos e arquivos legalmente em um só local. Kanban visual, alertas automáticos e compartilhamento seguro.'
 template: '8a314f809d5f4945847c'
 ---
 

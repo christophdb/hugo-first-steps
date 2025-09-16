@@ -2,12 +2,14 @@
 title: 'Escribir oferta'
 description: ''
 date: '2025-04-06'
-url: '/es/plantilla/quotation-management'
+url: '/es/plantilla/gestion-presupuestos'
+aliases:
+    - '/es/plantilla/quotation-management'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestión de Presupuestos: Plantilla para Crear Ofertas Online'
+    description: 'Crea, gestiona y envía presupuestos en segundos con la plantilla de SeaTable. Flujo digital y automático para tus ofertas.'
 template: '584c3121cf4a4ffd86e5'
 ---
 

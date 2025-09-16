@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'План посадок: цифровой шаблон для сада и огорода'
+    description: 'Планируйте и улучшайте грядки: уход, урожай, энциклопедия растений — всё в одной системе SeaTable.'
 template: '945ae9dc4c9c4968a035'
 ---
 

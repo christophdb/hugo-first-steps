@@ -2,12 +2,14 @@
 title: 'Despedida de solteiro'
 description: ''
 date: '2024-09-06'
-url: '/pt/modelo/hen-stag-party-planner'
+url: '/pt/modelo/planejador-despedida-solteiro'
+aliases:
+    - '/pt/modelo/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planejador de Despedida de Solteiro(a): Modelo Digital'
+    description: 'Organize festas pré-casamento com cronograma, tarefas, participantes e orçamento em um só lugar digital.'
 template: '88ed38a6b4b04683a4c8'
 ---
 

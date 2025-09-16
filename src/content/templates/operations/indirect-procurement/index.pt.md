@@ -2,12 +2,14 @@
 title: 'Compras indirectas'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/indirect-procurement'
+url: '/pt/modelo/compras-indiretas'
+aliases:
+    - '/pt/modelo/indirect-procurement'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Compras indiretas digitais com SeaTable'
+    description: 'Processe compras, cadastre fornecedores e produtos, autorize pedidos por formulário e veja relatórios detalhados de consumo e custos em SeaTable.'
 template: 'd0e2ed7353734084ba94'
 ---
 

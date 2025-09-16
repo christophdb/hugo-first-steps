@@ -2,12 +2,14 @@
 title: 'Redaktionsplan'
 description: ''
 date: '2025-02-17'
-url: '/de/vorlage/editorial-plan'
+url: '/de/vorlage/redaktionsplan'
+aliases:
+    - '/de/vorlage/editorial-plan'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Redaktionsplan Vorlage: Content-Workflow effizient steuern'
+    description: 'Mit dem Redaktionsplan von SeaTable alle Inhalte, Deadlines und Aufgaben zentral verwalten, Teamarbeit fördern und Produktivität steigern.'
 template: '62d7d05bf70348c080e8'
 ---
 

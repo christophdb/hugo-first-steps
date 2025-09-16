@@ -6,8 +6,8 @@ url: '/de/vorlage/social-media-plan'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Social-Media-Plan Vorlage: Beiträge effizient planen'
+    description: 'Social-Media-Posts für alle Kanäle zentral planen, verwalten und auswerten. Übersichtliche Teamarbeit mit der digitalen SeaTable-Vorlage.'
 template: 'e386be96230744a18802'
 ---
 

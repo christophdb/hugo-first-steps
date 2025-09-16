@@ -8,8 +8,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: 'Angebot schreiben - Nutzen Sie unsere Vorlage'
-    description: 'Erstellen Sie professionelle Angebote. Diese Vorlage hilft Ihnen, den gesamten Prozess zu automatisieren und die Kommunikation zu verbessern'
+    title: 'Angebotsmanagement Vorlage: Angebote schnell & digital erstellen'
+    description: 'Mit SeaTable Angebote komfortabel digital verwalten, automatisieren und nahtlos als PDF oder E-Mail verschicken.'
 template: '584c3121cf4a4ffd86e5'
 ---
 

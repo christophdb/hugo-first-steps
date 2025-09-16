@@ -2,12 +2,14 @@
 title: 'Indirekter Einkauf'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/indirect-procurement'
+url: '/de/vorlage/indirekter-einkauf'
+aliases:
+    - '/de/vorlage/indirect-procurement'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Indirekter Einkauf digital mit SeaTable planen'
+    description: 'Indirekte Beschaffung effizient abbilden: Produktkatalog zentralisieren, Bestellungen per Webformular, Lieferanten-Verwaltung und Reportings in Echtzeit.'
 template: 'd0e2ed7353734084ba94'
 ---
 

@@ -6,8 +6,8 @@ url: '/es/plantilla/social-media-plan'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planificador de Redes Sociales: Plantilla Centralizada'
+    description: 'Organiza publicaciones y campañas en todas tus redes con un calendario visual y gestión colaborativa en SeaTable.'
 template: 'e386be96230744a18802'
 ---
 

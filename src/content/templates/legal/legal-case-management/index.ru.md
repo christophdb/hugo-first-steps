@@ -8,8 +8,8 @@ aliases:
 category: 'legal'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Управление судебными делами: шаблон SeaTable'
+    description: 'Все по делу — клиенты, файлы, статусы, сроки, календари и напоминания. Управляйте кейсами в одной системе онлайн.'
 template: '8a314f809d5f4945847c'
 ---
 

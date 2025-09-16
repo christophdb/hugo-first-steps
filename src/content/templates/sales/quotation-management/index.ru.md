@@ -8,8 +8,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Управление коммерческими предложениями: цифровой шаблон'
+    description: 'Быстро создавайте, отправляйте и храните оферты через SeaTable — автоматизация, доставка PDF, работа в команде.'
 template: '584c3121cf4a4ffd86e5'
 ---
 

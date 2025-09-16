@@ -6,8 +6,8 @@ url: '/template/holiday-request-management'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Holiday Request Management: Leave Requests Online'
+    description: 'Digitally manage and approve leave requests: web form entry, instant notifications, Kanban board tracking and calendar for easy, transparent HR workflows.'
 template: 'a4065ce03d4d4bd5959c'
 ---
 

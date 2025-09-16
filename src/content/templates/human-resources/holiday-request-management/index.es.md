@@ -2,12 +2,14 @@
 title: 'Gestión de las solicitudes de vacaciones'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/holiday-request-management'
+url: '/es/plantilla/gestion-solicitudes-vacaciones'
+aliases:
+    - '/es/plantilla/holiday-request-management'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestión de vacaciones digital con plantilla SeaTable'
+    description: 'Automatice solicitudes de vacaciones: formulario web, validación ágil, notificación inmediata y vista Kanban para una gestión ágil y centralizada.'
 template: 'a4065ce03d4d4bd5959c'
 ---
 

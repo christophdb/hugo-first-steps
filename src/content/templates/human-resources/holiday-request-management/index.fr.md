@@ -2,12 +2,14 @@
 title: 'Gestion des demandes de congé'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/holiday-request-management'
+url: '/fr/modele/gestion-conges'
+aliases:
+    - '/fr/modele/holiday-request-management'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestion des congés : modèle tout-en-un SeaTable'
+    description: 'Centralisez et automatisez demandes, validations, calendriers et notifications grâce à SeaTable : gestion moderne en quelques clics.'
 template: 'a4065ce03d4d4bd5959c'
 ---
 

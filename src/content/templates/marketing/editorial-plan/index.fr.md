@@ -2,12 +2,14 @@
 title: 'Plan éditorial'
 description: ''
 date: '2025-02-17'
-url: '/fr/modele/editorial-plan'
+url: '/fr/modele/plan-editorial'
+aliases:
+    - '/fr/modele/editorial-plan'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Modèle de Plan Editorial: Pilotez la Production de Contenu'
+    description: 'Centralisez idées, tâches et publications, suivez les échéances et dynamisez la collaboration sur tous vos contenus marketing.'
 template: '62d7d05bf70348c080e8'
 ---
 

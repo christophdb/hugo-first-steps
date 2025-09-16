@@ -2,12 +2,14 @@
 title: 'Verwaltung von Urlaubsanträgen'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/holiday-request-management'
+url: '/de/vorlage/urlaubsantrag-verwaltung'
+aliases:
+    - '/de/vorlage/holiday-request-management'
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Urlaubsanträge digital verwalten mit SeaTable'
+    description: 'Mit SeaTable erfassen Sie Urlaubsanträge digital, prüfen Überschneidungen im Kalender und genehmigen mit Automationen – einfach, transparent, zentralisiert.'
 template: 'a4065ce03d4d4bd5959c'
 ---
 

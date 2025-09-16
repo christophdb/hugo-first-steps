@@ -2,12 +2,14 @@
 title: 'Plan de plantación'
 description: ''
 date: '2025-05-15'
-url: '/es/plantilla/planting-plan'
+url: '/es/plantilla/plan-siembra'
+aliases:
+    - '/es/plantilla/planting-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de Plan de Siembra: Organiza tu huerto fácil'
+    description: 'Planea, documenta y mejora tu jardín o huerto año tras año: todo centralizado y visible desde cualquier lugar.'
 template: '945ae9dc4c9c4968a035'
 ---
 

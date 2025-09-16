@@ -2,12 +2,14 @@
 title: 'Compras indirectas'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/indirect-procurement'
+url: '/es/plantilla/compras-indirectas'
+aliases:
+    - '/es/plantilla/indirect-procurement'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Compras indirectas digitales con SeaTable'
+    description: 'Centraliza compras indirectas, catálogos y proveedores; automatiza pedidos y controla consumo y presupuesto en paneles visuales SeaTable.'
 template: 'd0e2ed7353734084ba94'
 ---
 

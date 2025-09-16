@@ -2,12 +2,14 @@
 title: 'Despedida de soltero'
 description: ''
 date: '2024-09-06'
-url: '/es/plantilla/hen-stag-party-planner'
+url: '/es/plantilla/planificador-despedida-soltero'
+aliases:
+    - '/es/plantilla/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planificador de Despedidas de Soltero/a: Plantilla Online'
+    description: 'Organiza la despedida perfecta con agenda, tareas, presupuesto y lista de invitados—¡todo centralizado y editable!'
 template: '88ed38a6b4b04683a4c8'
 ---
 

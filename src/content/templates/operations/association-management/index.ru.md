@@ -8,8 +8,8 @@ aliases:
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Управление ассоциацией: шаблон для участников и событий'
+    description: 'Централизуйте учёт членов, сборы, встречи и финансы клуба или некоммерческой организации.'
 template: '6ad94b534b8548c8a10a'
 ---
 

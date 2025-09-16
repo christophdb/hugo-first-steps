@@ -6,8 +6,8 @@ url: '/template/social-media-plan'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Social Media Plan Template: Organize Your Content Easily'
+    description: 'Plan, manage, and track your social media posts for all channels—central dashboard, team collaboration, and results analysis.'
 template: 'e386be96230744a18802'
 ---
 

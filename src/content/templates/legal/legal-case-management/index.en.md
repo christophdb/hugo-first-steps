@@ -6,8 +6,8 @@ url: '/template/legal-case-management'
 category: 'legal'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Legal Case Management: Track Cases with SeaTable'
+    description: 'Digital case and client management: track status, deadlines, billing and docs. Kanban board, calendar and reminders all in one system.'
 template: '8a314f809d5f4945847c'
 ---
 

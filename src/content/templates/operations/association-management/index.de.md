@@ -2,12 +2,14 @@
 title: 'Vereinsmanagement'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/association-management'
+url: '/de/vorlage/vereinsverwaltung'
+aliases:
+    - '/de/vorlage/association-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Vereinsverwaltung Vorlage: Mitglieder & Events digital managen'
+    description: 'Mit der SeaTable-Vorlage behalten Sie Mitglieder, Termine, Beiträge und Finanzen zentral im Griff und automatisieren Ihre Vereinsverwaltung.'
 template: '6ad94b534b8548c8a10a'
 ---
 

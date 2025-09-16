@@ -2,12 +2,14 @@
 title: 'Fallmanagement'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/legal-case-management'
+url: '/de/vorlage/kanzleimanagement'
+aliases:
+    - '/de/vorlage/legal-case-management'
 category: 'legal'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Kanzleimanagement: Juristische Fälle digital verwalten'
+    description: 'Digitale Kanzleiverwaltung mit SeaTable: Alle Fälle, Termine und Dokumente zentral, Wiedervorlagen, Kanban- und Kalenderfunktionen, Daten DSGVO-konform.'
 template: '8a314f809d5f4945847c'
 ---
 

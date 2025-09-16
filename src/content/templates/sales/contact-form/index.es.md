@@ -2,12 +2,14 @@
 title: 'Formulario de contacto'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/contact-form'
+url: '/es/plantilla/formulario-contacto'
+aliases:
+    - '/es/plantilla/contact-form'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Formulario de Contacto: Plantilla para Consultas & Tickets'
+    description: 'Recoge y gestiona solicitudes de clientes con un formulario web — conviértelas en tickets y automatiza todo el flujo interno.'
 template: '94a17598acf3466f8706'
 ---
 

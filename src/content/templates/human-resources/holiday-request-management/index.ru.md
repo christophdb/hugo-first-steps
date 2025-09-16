@@ -8,8 +8,8 @@ aliases:
 category: 'human-resources'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Управление отпусками: заявки онлайн'
+    description: 'Подайте заявку на отпуск онлайн, проверьте пересечения в календаре — SeaTable автоматизирует учёт, уведомления, согласования и хранение данных.'
 template: 'a4065ce03d4d4bd5959c'
 ---
 

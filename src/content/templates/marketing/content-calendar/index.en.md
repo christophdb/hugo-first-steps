@@ -6,8 +6,8 @@ url: '/template/content-calendar'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Content Calendar Template: Plan & Track Campaigns'
+    description: 'Plan, track and collaborate on all your content and campaigns—calendar, dashboards and workflows in one central tool.'
 template: 'bea0242b70f64ec698cb'
 ---
 
