@@ -2,12 +2,14 @@
 title: 'Planification de la campagne'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/content-calendar'
+url: '/fr/modele/calendrier-contenu'
+aliases:
+    - '/fr/modele/content-calendar'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Calendrier de Contenu: Modèle pour Planifier facilement'
+    description: 'Centralisez la gestion de vos contenus, campagnes et plannings éditoriaux avec un calendrier partagé, dynamique et adaptable.'
 template: 'bea0242b70f64ec698cb'
 ---
 

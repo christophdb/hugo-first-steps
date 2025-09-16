@@ -8,8 +8,8 @@ aliases:
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Планировщик девичника/мальчишника: цифровой шаблон'
+    description: 'Вся организация вечеринки — задачи, маршрут, расходы, участники — собраны в SeaTable.'
 template: '88ed38a6b4b04683a4c8'
 ---
 

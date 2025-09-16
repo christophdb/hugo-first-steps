@@ -8,8 +8,8 @@ aliases:
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Косвенные закупки: контроль с SeaTable'
+    description: 'Косвенные закупки централизованы: каталог продукции, заказы через веб-форму, автоматизация и аналитика бюджета — всё просто.'
 template: 'd0e2ed7353734084ba94'
 ---
 

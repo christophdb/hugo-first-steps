@@ -2,12 +2,14 @@
 title: 'Pflanzplan'
 description: ''
 date: '2025-05-15'
-url: '/de/vorlage/planting-plan'
+url: '/de/vorlage/pflanzplan'
+aliases:
+    - '/de/vorlage/planting-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Pflanzplan Vorlage: Garten digital planen & erfassen'
+    description: 'Pflanzen, pflegen, ernten – erstellen Sie Ihren Pflanzplan individuell und behalten Sie alle Gartenarbeiten zentral im Blick.'
 template: '945ae9dc4c9c4968a035'
 ---
 

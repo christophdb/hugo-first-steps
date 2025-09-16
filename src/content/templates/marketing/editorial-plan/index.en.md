@@ -6,8 +6,8 @@ url: '/template/editorial-plan'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Editorial Plan Template: Streamline Your Content Workflow'
+    description: 'Manage all tasks, content ideas and deadlines in one place with SeaTable’s editorial plan—focus on team collaboration and clear processes.'
 template: '62d7d05bf70348c080e8'
 ---
 

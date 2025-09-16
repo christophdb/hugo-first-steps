@@ -2,12 +2,14 @@
 title: 'Planeamento de campanhas'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/content-calendar'
+url: '/pt/modelo/calendario-conteudo'
+aliases:
+    - '/pt/modelo/content-calendar'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Calendário de Conteúdo: Modelo Digital de Planejamento'
+    description: 'Planeje e acompanhe todas as campanhas e ações de conteúdo do seu time com calendário, painéis e Kanban integrados.'
 template: 'bea0242b70f64ec698cb'
 ---
 

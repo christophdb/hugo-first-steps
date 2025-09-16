@@ -8,8 +8,8 @@ aliases:
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Редакционный план: шаблон для контент-менеджмента'
+    description: 'Централизуйте задачи, идеи и сроки публикаций — SeaTable для эффективной работы с контентом в команде.'
 template: '62d7d05bf70348c080e8'
 ---
 

@@ -2,12 +2,14 @@
 title: 'Achats indirects'
 description: ''
 date: '2024-08-24'
-url: '/fr/modele/indirect-procurement'
+url: '/fr/modele/achats-indirects'
+aliases:
+    - '/fr/modele/indirect-procurement'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Achats indirects digitalisés avec SeaTable'
+    description: 'Gérez achats indirects, catalogue produits, commandes web, fournisseurs et données centralisées—automatisation et suivi budgétaire intégrés.'
 template: 'd0e2ed7353734084ba94'
 ---
 

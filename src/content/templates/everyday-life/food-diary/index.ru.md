@@ -8,8 +8,8 @@ aliases:
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Дневник питания: приложение для учёта и анализа питания'
+    description: 'Удобно фиксируйте приёмы пищи, симптомы и непереносимости в цифровом дневнике питания SeaTable.'
 template: '166dab67dcff4ee799fb'
 ---
 

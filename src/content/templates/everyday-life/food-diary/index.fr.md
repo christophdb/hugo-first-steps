@@ -6,8 +6,8 @@ url: '/fr/modele/journal-alimentaire'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Carnet Alimentaire: Application pour Suivi Nutritionnel'
+    description: 'Suivez vos repas, allergies et habitudes alimentaires avec l’app carnet alimentaire SeaTable – simple, personnalisable et gratuite.'
 template: '166dab67dcff4ee799fb'
 ---
 

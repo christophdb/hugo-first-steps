@@ -6,8 +6,8 @@ url: '/template/indirect-procurement'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Indirect Procurement: Streamline with SeaTable'
+    description: 'Centralize catalog and supplier data, submit orders via web form, and track indirect spend—automation and dashboards smooth the process.'
 template: 'd0e2ed7353734084ba94'
 ---
 

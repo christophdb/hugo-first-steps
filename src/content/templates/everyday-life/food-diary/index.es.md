@@ -6,8 +6,8 @@ url: '/es/plantilla/diario-alimentario'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Diario de Comidas: Registra y Analiza tu Alimentación'
+    description: 'Controla tus hábitos alimenticios y posibles intolerancias en la app de diario de comidas de SeaTable: fácil, gratis y adaptable.'
 template: '166dab67dcff4ee799fb'
 ---
 

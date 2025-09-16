@@ -2,12 +2,14 @@
 title: 'Enterrement de vie de garçon'
 description: ''
 date: '2024-09-06'
-url: '/fr/modele/hen-stag-party-planner'
+url: '/fr/modele/planificateur-evjf-evg'
+aliases:
+    - '/fr/modele/hen-stag-party-planner'
 category: 'events'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Planificateur d’Enterrement de Vie de Jeune Fille/Garçon'
+    description: 'Organisez l’EVJF/EVG idéal : planning, tâches, budget et invités réunis dans une application tout-en-un.'
 template: '88ed38a6b4b04683a4c8'
 ---
 

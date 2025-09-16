@@ -2,12 +2,14 @@
 title: 'Gestión de asociaciones'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/association-management'
+url: '/es/plantilla/gestion-asociacion'
+aliases:
+    - '/es/plantilla/association-management'
 category: 'operations'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Gestión de Asociaciones: Plantilla para Miembros y Eventos'
+    description: 'Centraliza datos, eventos y finanzas de tu asociación con una solución flexible, visual y fácil de usar.'
 template: '6ad94b534b8548c8a10a'
 ---
 

@@ -8,8 +8,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: 'Digitale Kontaktformular Vorlage für Ihre Website'
-    description: 'Erstellen Sie ein professionelles Kontaktformular in wenigen Minuten. Sammeln Sie Anfragen effizient und integrieren Sie Daten nahtlos in Ihre Workflows'
+    title: 'Kontaktformular Vorlage: Anfragen digital & effizient erfassen'
+    description: 'Mit SeaTable Kundenanfragen strukturiert per Webformular empfangen, als Tickets verwalten & Folgeprozesse automatisieren.'
 template: '94a17598acf3466f8706'
 ---
 

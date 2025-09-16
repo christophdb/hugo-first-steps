@@ -2,12 +2,14 @@
 title: 'Plan editorial'
 description: ''
 date: '2025-02-17'
-url: '/es/plantilla/editorial-plan'
+url: '/es/plantilla/plan-editorial'
+aliases:
+    - '/es/plantilla/editorial-plan'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plantilla de Plan Editorial: Organiza tu Contenido Fácilmente'
+    description: 'Centraliza tus ideas, tareas y publicaciones en una sola plataforma y mejora la colaboración del equipo de marketing.'
 template: '62d7d05bf70348c080e8'
 ---
 

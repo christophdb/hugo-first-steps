@@ -2,12 +2,14 @@
 title: 'Plano de plantação'
 description: ''
 date: '2025-05-15'
-url: '/pt/modelo/planting-plan'
+url: '/pt/modelo/plano-plantio'
+aliases:
+    - '/pt/modelo/planting-plan'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Plano de Plantio: Modelo Digital para Jardim'
+    description: 'Planeje canteiros, cultivos e colheitas digitalmente — gestão centralizada e fácil para o seu jardim sustentável.'
 template: '945ae9dc4c9c4968a035'
 ---
 

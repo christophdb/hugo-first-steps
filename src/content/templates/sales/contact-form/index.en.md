@@ -6,8 +6,8 @@ url: '/template/contact-form'
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Contact Form Template: Capture & Track Customer Requests'
+    description: 'Collect inquiries through a web form and manage them directly as support tickets—central, automated and ready for team collaboration.'
 template: '94a17598acf3466f8706'
 ---
 

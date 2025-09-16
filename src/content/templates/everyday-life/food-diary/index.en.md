@@ -6,8 +6,8 @@ url: '/template/food-diary'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Food Diary App: Log and Analyze Your Nutrition'
+    description: "Use SeaTable's digital food diary to record meals and intolerances. Get insights into eating habits with customizable analysis."
 template: '166dab67dcff4ee799fb'
 ---
 

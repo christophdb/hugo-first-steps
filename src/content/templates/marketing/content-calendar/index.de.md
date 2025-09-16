@@ -2,12 +2,14 @@
 title: 'Kampagnenplanung'
 description: ''
 date: '2024-08-24'
-url: '/de/vorlage/content-calendar'
+url: '/de/vorlage/content-kalender'
+aliases:
+    - '/de/vorlage/content-calendar'
 category: 'marketing'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Content-Kalender Vorlage: Kampagnen & Content planen'
+    description: 'Mit dem Content-Kalender von SeaTable behalten Sie Kampagnen, Deadlines und Teamaufgaben im Griff – für reibungslosen Content-Workflow.'
 template: 'bea0242b70f64ec698cb'
 ---
 
