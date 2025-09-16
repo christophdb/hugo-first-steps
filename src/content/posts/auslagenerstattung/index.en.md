@@ -1,5 +1,6 @@
 ---
 title: 'Reimbursement of expenses - tips for employers and employees'
+description: 'From business meals to train tickets – expense reimbursements are common, yet complex. Employers and employees need to follow clear rules and documentation. This article explains the process, highlights pitfalls, and shows how digital tools and templates can simplify reimbursements and ensure compliance.'
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
@@ -7,8 +8,8 @@ url: '/expense-reimbursement'
 aliases:
     - /auslagenerstattung
 seo:
-    title:
-    description:
+    title: 'Expense Reimbursement: Practical Tips for Employers & Staff'
+    description: 'Learn how to handle expense reimbursements, avoid bureaucracy and manage them efficiently with digital templates.'
 categories:
     - 'best-practice'
 tags:

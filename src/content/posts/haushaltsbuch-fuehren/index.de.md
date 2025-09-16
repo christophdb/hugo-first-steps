@@ -6,8 +6,8 @@ lastmod: '2024-01-03'
 author: 'kgr'
 url: '/de/haushaltsbuch-fuehren'
 seo:
-    title: 'Haushaltsbuch führen: Mit diesen 12 Tipps sparen Sie bares Geld'
-    description: 'Alle Ausgaben im Blick zu behalten ist manchmal gar nicht so leicht. Ein Haushaltsbuch hilft Ihnen, Ordnung in das Finanzchaos zu bringen!'
+    title: 'Haushaltsbuch führen: 12 Tipps zum Geldsparen'
+    description: 'Behalten Sie Ihre Ausgaben im Blick. Mit einem Haushaltsbuch und 12 Tipps bringen Sie Ordnung ins Finanzchaos und sparen Geld.'
 categories:
     - 'best-practice'
 tags:

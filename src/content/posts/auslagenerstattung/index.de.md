@@ -1,13 +1,13 @@
 ---
 title: 'Auslagenerstattung – Tipps für Arbeitgeber und Arbeitnehmer'
-description: Ob Geschäftsessen, Bahnticket oder Diensthandy – treten Sie bei Ihrer Arbeit regelmäßig in Vorleistung und möchten wissen, was es bei der Auslagenerstattung zu beachten gibt? Oder sind Sie selbst Arbeitgeber und suchen nach einer Möglichkeit, den Prozess der Auslagenerstattung effizienter zu gestalten? Dann finden Sie im Artikel alles Wissenswerte und eine kostenlose Vorlage zur Auslagenerstattung in Ihrem Unternehmen.
+description: 'Ob Geschäftsessen, Bahntickets oder Büromaterial – bei Auslagenerstattungen ist Präzision gefragt. Arbeitgeber und Arbeitnehmer müssen klare Vorgaben und Nachweise beachten. Dieser Beitrag erklärt die wichtigsten Regeln, gibt Tipps zu Fallstricken und zeigt, wie digitale Vorlagen den Prozess effizienter machen.'
 date: 2024-01-03
 lastmod: '2025-05-19'
 author: 'nsc'
 url: '/de/auslagenerstattung'
 seo:
-    title: 'Auslagenerstattung - Digital und effizient abwickeln'
-    description: 'Optimieren Sie Ihre Auslagenerstattung: Digitale Prozesse für schnellere Rückzahlungen und volle Kostenkontrolle. Vereinfachen Sie Ihre Finanzabläufe.'
+    title: 'Auslagenerstattung: Tipps für Arbeitgeber & Arbeitnehmer'
+    description: 'Erfahren Sie, wie Sie Auslagen korrekt erstatten, Bürokratie vermeiden und mit Vorlagen digitale Prozesse effizient gestalten.'
 categories:
     - 'best-practice'
 tags:

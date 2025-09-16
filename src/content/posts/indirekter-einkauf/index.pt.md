@@ -1,6 +1,6 @@
 ---
 title: 'Aprovisionamento indirectos: Como otimizar os seus processos e reduzir os custos'
-description: "Licenças de software, contratos de manutenção ou material de escritório: estas despesas não contribuem diretamente para os produtos ou serviços de uma empresa. No entanto, são essenciais para o bom funcionamento das operações comerciais e têm um enorme potencial de otimização. Isto porque o aprovisionamento indireto pode causar custos consideráveis. Leia este artigo para saber o que é o aprovisionamento indireto e a que deve prestar atenção."
+description: "Licenças de software, contratos de manutenção e suprimentos de escritório são essenciais mas caros. As compras indiretas, muitas vezes descentralizadas, carecem de controle. Este artigo aborda os principais desafios e mostra como indicadores e soluções digitais podem tornar o processo eficiente."
 date: 2021-11-19
 lastmod: 2025-09-10
 categories:
@@ -12,8 +12,8 @@ aliases:
     - /pt/indirekter-einkauf/
 color: '#f3919b'
 seo:
-    title: 'Aprovisionamento indireto: optimize os processos, reduza os custos'
-    description: 'Em muitas empresas, o aprovisionamento indireto é uma atividade paralela. E, por isso, tem um enorme potencial de otimização. Descubra o que é importante e como o pode fazer melhor.'
+    title: 'Compras Indiretas: Otimize Processos e Corte Custos'
+    description: 'Compras indiretas geram altos custos ocultos. Saiba como padronizar processos, aumentar a transparência e economizar significativamente.'
 ---
 
 ## O que significa aprovisionamento direta e indireta?

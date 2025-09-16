@@ -1,5 +1,6 @@
 ---
 title: 'Patriot Act frente a protección de datos: tratamiento seguro de los datos canadienses'
+description: 'El Patriot Act permite a las autoridades estadounidenses acceder a datos en la nube de EE. UU., lo que contradice las normas de privacidad de Canadá. Este artículo explica los riesgos para las compañías, detalla las implicaciones legales y propone alternativas en la nube que cumplen con la legislación canadiense.'
 date: 2023-07-17
 lastmod: '2023-08-18'
 author: 'cdb'
@@ -7,8 +8,8 @@ url: '/es/patriot-act-vs-privacidad-canada'
 aliases:
     - /es/patriot-act-vs-privacy-canada
 seo:
-    title:
-    description:
+    title: 'Patriot Act vs. Privacidad: Datos Canadienses'
+    description: 'Descubra cómo la Ley 25 de Quebec choca con el Patriot Act de EE. UU. y qué alternativas seguras existen para las empresas.'
 categories:
     - 'best-practice'
 tags:

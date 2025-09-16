@@ -1,5 +1,8 @@
 ---
-title: Список изменений
+title: 'Changelog'
+seo:
+    title: 'Changelog SeaTable: все обновления и изменения'
+    description: 'Все обновления и изменения SeaTable Server на одной странице: чэнджлог, релиз-ноты и ответы на важные вопросы.'
 url: '/ru/changelog'
 
 sections:

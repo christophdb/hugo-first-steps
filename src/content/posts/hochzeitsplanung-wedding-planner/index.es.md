@@ -1,5 +1,6 @@
 ---
 title: 'La planificación de la boda perfecta con SeaTable - SeaTable'
+description: 'planear una boda implica muchos detalles: lugar, invitados, presupuesto. Con SeaTable podrá usar listas de tareas, comparaciones de proveedores, organización de invitados y un planificador de presupuestos. Además, puede recoger inspiración y notas para no olvidar nada. Todo en un solo lugar para una boda inolvidable.'
 date: 2021-07-22
 lastmod: '2023-07-11'
 categories:
@@ -11,8 +12,8 @@ aliases:
     - /es/hochzeitsplanung-wedding-planner
 color: '#c6ae94'
 seo:
-    title:
-    description:
+    title: 'Planificación de Bodas Perfecta con SeaTable'
+    description: 'Organice su boda fácilmente. Con checklist, lista de invitados y control de gastos tendrá todo bajo control.'
 ---
 
 Uno de los días más bonitos e importantes de la vida está a la vuelta de la esquina: tu propia boda. Nada debería salir mal aquí, por lo que la planificación estructurada de la boda es de gran importancia para la mayoría de las parejas. ¿Qué hay que hacer 12 meses antes de la boda, qué hay que hacer 5 meses antes del gran día? Si no dispone de medios económicos para contratar a un organizador de bodas profesional, o si simplemente le gusta planificar su propia boda, SeaTable le ayuda a no perder la visión de conjunto al planificar su boda.

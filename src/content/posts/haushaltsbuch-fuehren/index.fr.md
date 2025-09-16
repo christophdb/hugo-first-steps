@@ -1,5 +1,6 @@
 ---
 title: "Tenir un livre de comptes : Ces 12 conseils vous permettront d'économiser de l'argent"
+description: 'Vos dépenses mensuelles s’accumulent sans que vous sachiez vraiment comment? Un livre de comptes vous aide à analyser coûts fixes et variables. Découvrez 12 astuces efficaces pour réduire vos abonnements, revoir vos contrats et mieux planifier vos achats afin de libérer du budget chaque mois.'
 date: 2024-01-02
 lastmod: '2024-01-03'
 author: 'kgr'
@@ -7,8 +8,8 @@ url: '/fr/tenir-livre-comptes'
 aliases:
     - /fr/haushaltsbuch-fuehren
 seo:
-    title:
-    description:
+    title: 'Tenir un Budget: 12 Astuces pour Économiser'
+    description: 'Tenez un budget clair. Grâce à un livre de comptes et 12 conseils pratiques, maîtrisez vos finances et économisez efficacement.'
 categories:
     - 'best-practice'
 tags:
