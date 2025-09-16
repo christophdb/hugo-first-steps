@@ -6,8 +6,8 @@ url: '/de/vorlage/sneaker-collection'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Sneaker Collection: Sammlungen perfekt digital verwalten'
+    description: 'Erstelle deine Sneaker-Sammlung digital, sortiere nach Marke, Zustand, Preis, handle Kontakte und behalte den Überblick über jedes Paar – alles mit SeaTable.'
 template: 'cc4113f9d66f488db6e2'
 ---
 

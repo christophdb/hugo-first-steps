@@ -2,12 +2,14 @@
 title: 'Colecção de sapatilhas'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/sneaker-collection'
+url: '/pt/modelo/colecao-tenis'
+aliases:
+    - '/pt/modelo/sneaker-collection'
 category: 'everyday-life'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Coleção de Tênis: controle digital prático e visual'
+    description: 'Controle seus pares favoritos: marca, preço, disponibilidade e contatos — centralize tudo e organize sua coleção visualmente no SeaTable.'
 template: 'cc4113f9d66f488db6e2'
 ---
 

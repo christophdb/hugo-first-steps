@@ -2,12 +2,14 @@
 title: 'Recetas y plan de comidas'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/recipes-meal-plan'
+url: '/es/plantilla/recetas-plan-comidas'
+aliases:
+    - '/es/plantilla/recipes-meal-plan'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Recetas y Menús: Organiza y Planea con SeaTable'
+    description: 'Guarda recetas favoritas y arma menús semanales ; administra ingredientes, fotos, y comparte tu plan de comidas fácilmente en SeaTable.'
 template: 'f1b6279b2aa8466fbcea'
 ---
 

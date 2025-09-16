@@ -8,8 +8,8 @@ aliases:
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Мониторинг акций: цены в SeaTable онлайн'
+    description: 'Автоматически собирайте, храните и анализируйте котировки акций — данные, графики и история в одном решении SeaTable.'
 template: 'd5cbbf2bba084333a1d7'
 ---
 

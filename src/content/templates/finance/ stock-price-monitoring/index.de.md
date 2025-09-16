@@ -3,11 +3,13 @@ title: 'Überwachung von Aktienkursen'
 description: ''
 date: '2024-08-24'
 url: '/de/vorlage/stock-price-monitoring'
+aliases:
+    - '/de/vorlage/stock-price-monitoring'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Aktienkurse mit SeaTable automatisch überwachen'
+    description: 'Beobachten Sie Kursentwicklungen automatisiert, speichern Sie Daten und visualisieren Sie Trends – mit SeaTable und externer Preis-API.'
 template: 'd5cbbf2bba084333a1d7'
 ---
 

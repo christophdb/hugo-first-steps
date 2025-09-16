@@ -8,8 +8,8 @@ aliases:
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Рецепты и меню: удобно в SeaTable'
+    description: 'Соберите любимые блюда, создайте меню недели, экономьте время с фото и списками ингредиентов – всё в цифровой базе.'
 template: 'f1b6279b2aa8466fbcea'
 ---
 

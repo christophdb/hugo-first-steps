@@ -2,12 +2,14 @@
 title: 'Seguimiento de la cotización de las acciones'
 description: ''
 date: '2024-08-24'
-url: '/es/plantilla/stock-price-monitoring'
+url: '/es/plantilla/monitor-precios-acciones'
+aliases:
+    - '/es/plantilla/stock-price-monitoring'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Monitor de precios de acciones: template SeaTable'
+    description: 'Supervise precios, registre datos día a día y visualice tendencias en tableros: todo digital y automático con APIs y SeaTable.'
 template: 'd5cbbf2bba084333a1d7'
 ---
 

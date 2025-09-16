@@ -2,12 +2,14 @@
 title: 'Controlo dos preços das acções'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/stock-price-monitoring'
+url: '/pt/modelo/monitoracao-acoes'
+aliases:
+    - '/pt/modelo/stock-price-monitoring'
 category: 'finance'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Monitoramento de preços de ações automatizado'
+    description: 'Monitore cotações em tempo real, salve histórico e obtenha relatórios visuais com SeaTable e integração via API/Zapier.'
 template: 'd5cbbf2bba084333a1d7'
 ---
 

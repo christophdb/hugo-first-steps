@@ -8,8 +8,8 @@ aliases:
 category: 'sales'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'CRM и продажи: клиенты и сделки в SeaTable'
+    description: 'Все клиенты, этапы продаж, задачи и офферы в одном месте: CRM SeaTable автоматизирует учёт, аналитику и интеграции.'
 template: '76c0775460d44fee93a4'
 ---
 

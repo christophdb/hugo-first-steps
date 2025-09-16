@@ -2,12 +2,14 @@
 title: 'Receitas e plano de refeições'
 description: ''
 date: '2024-08-24'
-url: '/pt/modelo/recipes-meal-plan'
+url: '/pt/modelo/receitas-cardapio'
+aliases:
+    - '/pt/modelo/recipes-meal-plan'
 category: 'healthcare'
 functions:
 seo:
-    title: ''
-    description: ''
+    title: 'Receitas e cardápio: tudo em um único lugar'
+    description: 'Armazene receitas, planeje cardápios semanais e compartilhe pratos ou listas de compras no SeaTable. Simples, moderno e acessível.'
 template: 'f1b6279b2aa8466fbcea'
 ---
 
