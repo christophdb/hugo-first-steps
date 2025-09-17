@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.2: Interaktiver Formelassistent und verbesserte Spaltentypen'
+description: 'Jetzt noch effizienter: Farbcodierter Formelassistent, mehrere Aktionen pro Button (z.B. PDF, Mail, Status), komfortableres Datei-Handling, Tooltip bei langen Auswahleinträgen und responsive Label im Seitendesign. Zudem: Automationen pausieren, periodische Mails, Stunden-Sync und neue Datenverarbeitungsfunktionen.'
 date: 2022-10-06
 lastmod: '2022-10-29'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#ff6549'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.2: Interaktiver Formelassistent & Buttons'
+    description: 'Formelassistent mit Echtzeit-Feedback, Multi-Button-Aktionen, neue Dateiarbeits-Tools und verbesserte Auswahlspalten – das Update 3.2 ist da!'
 ---
 
 Willkommen SeaTable 3.2! In dem neuen Release stehen SeaTables Spaltenypen im Rampenlicht: Der Assistent der Formelspalte ist nun interaktiv und bietet eine deutlich verbesserte Fehlerkorrektur. Schaltflächen im gleichnamigen Spaltentyp erlauben ab sofort die Ausführung mehrere Aktionen mit einem Klick. Neue Funktionen in der Dateispalte vereinfachen die Verwaltung von Dateien und auch die Auswahlspalten bieten eine bequemere Nutzung. Aber nicht nur die Spaltentypen haben profitiert. Insbesondere Enterprise Benutzer können sich über verbesserte Automationen freuen.

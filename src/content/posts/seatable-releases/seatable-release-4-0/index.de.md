@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.0: neuer Spaltentyp, verbessertes Dateimanagement und Fortschritte beim Universal App Builder - SeaTable'
+description: 'Digitale Unterschrift kommt als neuer Spaltentyp, Dateiverwaltung integriert Drag & Drop, Datei- und Ordnerstrukturen, Seafile-Anbindung für große Datenmengen. Statistik-Plugin verschmilzt mit Modul und der Universal App Builder erhält neue Funktionen und Layouts. Branding mit Firmenlogo, Bugfixes und Preisupdate runden das Release ab.'
 date: 2023-06-27
 lastmod: '2023-06-27'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#3aa3f4'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.0: Digitale Signatur & Dateimanager'
+    description: 'Neues Dateimanagement, Spaltentyp für Signaturen, Seafile-Integration, verbesserte Statistik und Universal App Builder: SeaTable 4.0!'
 ---
 
 Während draußen die Sonne brennt, haben unsere Entwickler einen kühlen Kopf behalten und das vierte Major Release von SeaTable fertiggestellt. SeaTable Version 4.0 verbessert bestehende Funktionen, stillt aber auch den Durst nach neuen Features. Neu in Version 4.0: ein Spaltentyp für digitale Unterschriften, ein integrierter Datei-Manager für die einfachere Verwaltung von Anhängen und – für unsere Cloud Enterprise Kunden – eine Custom-Logo-Funktion als Branding-Option.

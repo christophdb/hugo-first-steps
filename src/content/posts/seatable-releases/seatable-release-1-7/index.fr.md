@@ -1,5 +1,6 @@
 ---
 title: "SeaTable 1.7 : Amélioration de l'interface et importation d'Excel"
+description: 'Interface fluide avec animations, meilleure recherche et markdown. Gérez traceurs, convertissez Excel avec reconnaissance des types, remplacez des valeurs groupées, saisissez plus rapidement des dates : tout pour travailler vite, bien, et attendre la version 1.8 avec impatience!'
 date: 2021-02-07
 lastmod: '2021-02-07'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#cfd164'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.7 : nouvelle interface & Excel importé'
+    description: 'UI dynamique, monnaies personnalisées, saisie rapide de dates, import Excel efficace et remplacement de masse – SeaTable 1.7 dope la productivité!'
 ---
 
 Près d'un mois s'est écoulé depuis la sortie de SeaTable 1.6 et il est donc temps de passer à autre chose. Aussitôt dit, aussitôt fait ! Nous sommes heureux de vous présenter la version 1.7 de SeaTable ! La nouvelle version a été déployée aujourd'hui sur https://cloud.seatable.io. Les utilisateurs de SeaTable Cloud ont donc déjà commencé à l'utiliser. Les utilisateurs de la version auto-hébergée pourront bientôt télécharger la dernière version depuis Docker Hub.

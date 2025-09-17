@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.4: New options for data management and online collaboration - SeaTable'
+description: '1.4 brings a new URL column, improved linking wizard, cross-table queries for advanced database magic, a real-time team chat in row comments, webhooks for external integrations, and Python scripting in SeaTable scripts. Plus: refreshed navigation and a new grouped activity feed for better orientation.'
 date: 2020-10-29
 lastmod: '2023-07-11'
 coverImage: 'title-scaled-1.jpg'
@@ -9,8 +10,8 @@ color: '#396afc'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.4: URL Column, Linking & Team Chat'
+    description: 'URL column, record linking wizard, cross-table queries, team chat, webhooks and Python scripting arrive in major update 1.4!'
 ---
 
 We are pleased to announce the release of SeaTable 1.4! We've packed a new column type, improved database features, realtime chat and many more improvements into this new release. Organising data and collaborating in a team has never been so easy and convenient! And best of all, every user benefits from the new features, including the free subscription.

@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.6: Dos nuevos tipos de columnas y más control sobre las fórmulas y los anexos - SeaTable'
+description: 'Calcula tiempos con la columna duración y valida emails automáticamente. El asistente de fórmulas agrega funciones y diseño pop-over. Gestor de archivos accesible y papelera de bases recuperables. Mejoras sutiles y correcciones para trabajar mejor con datos, ficheros y vistas personalizadas.'
 date: 2021-01-07
 lastmod: '2021-01-07'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#7891da'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.6: Nuevas columnas y gestión de archivos'
+    description: 'Columnas duración y email, asistente de fórmulas renovado, gestión de archivos y más mejoras en la interfaz de SeaTable 1.6.'
 ---
 
 Empezamos el año con una nueva versión de SeaTable: la versión 1.6 se ha lanzado hoy en [https://cloud.seatable.io](https://cloud.seatable.io). En breve se publicará en Docker Hub. La nueva versión vuelve a estar llena de novedades y mejoras. A primera vista, observará los dos nuevos tipos de columnas y el menú de configuración de columnas revisado. Si se examina con más detenimiento, se encontrarán otras mejoras en la interfaz de usuario. En esta versión, también hemos invertido mucho esfuerzo en el asistente de fórmulas. Las nuevas funciones, las mejoras de diseño y los mensajes de error ampliados llevan al asistente a un nivel completamente nuevo.

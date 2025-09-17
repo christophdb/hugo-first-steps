@@ -1,13 +1,14 @@
 ---
 title: 'SeaTable 1.8 : plus de collaboration et un nouveau type de colonne - SeaTable'
+description: 'Ajustez la hauteur des lignes, déclenchez scripts par bouton, collectez des données via une table dédiée, partagez des vues externes, stockez des comptes e-mail par base. Nouvelles fonctions de filtre, compte des liens, et réglages de formules améliorés vous attendent dans cette version collaborative.'
 date: 2021-03-18
 categories:
     - 'product-features'
 url: '/fr/seatable-release-1-8'
 color: 'f9c707'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.8 : hauteur, boutons et collaboration'
+    description: 'Hauteur de ligne ajustable, colonne bouton, collecte de données partagée, liens externes, envoi d’e-mails : SeaTable 1.8 simplifie le travail d’équipe !'
 ---
 
 Aujourd'hui, nous avons mis à disposition SeaTable 1.8 sur [SeaTable Cloud](https://cloud.seatable.io) et nous sommes convaincus que vous serez d'accord avec nous : SeaTable 1.8 est génial ! Elle regorge de nouvelles fonctions et d'ajouts de fonctionnalités, ainsi que d'un grand nombre d'améliorations mineures. Comme par le passé, nous présentons les principales nouveautés dans la note de mise à jour. Cette fois-ci, il a été particulièrement difficile de nous concentrer sur les cinq points forts. Comme toujours, vous trouverez la liste complète des modifications dans le changelog. Nous téléchargerons l'image Docker sur Docker Hub dans les prochains jours.

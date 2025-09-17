@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.3: Editor de formularios mejorado y compatibilidad con correo electrónico HTML'
+description: 'Ahora puedes organizar campos fácilmente, añadir contenido estático o hacer que todos los campos sean obligatorios. Envío de emails en HTML, carga masiva de filas y validación automática de numéricos. Detección de duplicados y nuevas opciones en vistas completan una versión ideal para equipos con grandes volúmenes.'
 date: 2022-12-13
 lastmod: '2022-12-15'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#fac207'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.3: Editor de formularios y emails HTML'
+    description: 'Creador de formularios mejorado, emails HTML, importación masiva y validación de números – todas novedades de SeaTable 3.3.'
 ---
 
 Los aficionados a SeaTable recibirán hoy su regalo de Navidad: la versión 3.3 de SeaTable con sus numerosas mejoras e innovaciones. El editor de formularios completamente revisado en diseño de bloques ofrece nueva libertad y funciones adicionales para el diseño y uso de formularios web. Además de correos electrónicos de texto, SeaTable ahora también envía correos electrónicos HTML formateados. El editor ampliado de texto formateado lo convierte en un juego de niños. Y las columnas de pago ofrecen ahora validación automática de datos, como ya se sabe de las columnas de texto. Los usuarios que gestionan o quieren gestionar datos masivos en SeaTable también sacan partido a su dinero con SeaTable 3.3. A partir de ahora, SeaTable puede importar cientos de miles de filas de un archivo XLSX directamente a la memoria de Big Data y volver a exportarlas desde allí. ¿Quiere saber más? Pues siga leyendo.

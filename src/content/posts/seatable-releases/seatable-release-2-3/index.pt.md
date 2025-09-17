@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.3: Ainda mais flexibilidade de aplicação com função de arquivo - SeaTable'
+description: 'Supere o limite clássico! O recurso de arquivo (beta) permite guardar e consultar milhões de dados, aplicar filtros, criar formulários com valores automáticos, clonar colunas, exportar relatórios em PDF e automatizar e-mails. Ideal para equipes com grandes bancos de dados e novas demandas analíticas.'
 date: 2021-09-02
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#fa77b6'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.3: Arquivo para milhões de registros'
+    description: 'Arquive milhões de linhas, analise dados históricos, defina padrões em formulários, duplique colunas – tudo com SeaTable 2.3.'
 ---
 
 O SeaTable versão 2.3, disponível desde hoje, está a preparar-se para conquistar novos campos de aplicação. Com a função de arquivo, que é apresentada como um beta nesta versão, o SeaTable é agora também recomendado para casos de utilização intensiva de dados: As tabelas com milhões de registos de dados podem ser armazenadas e avaliadas em SeaTable. É o foco destas notas de lançamento. Outras inovações e melhorias são apresentadas numa visão geral. A lista completa de alterações pode ser encontrada - como sempre - no [SeaTable Changelog]({{< relref "pages/changelog" >}}).

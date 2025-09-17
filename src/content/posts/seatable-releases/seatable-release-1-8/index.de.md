@@ -1,13 +1,14 @@
 ---
 title: 'SeaTable 1.8: mehr Zusammenarbeit und ein neuer Spaltentyp - SeaTable'
+description: 'Mit anpassbaren Zeilenhöhen präsentiert sich SeaTable optisch flexibler denn je. Buttons lösen Skripte aus, Datenerfassungstabellen machen Teams das Sammeln von Infos leicht, Ansichten lassen sich extern teilen, E-Mail-Konten in Bases speichern. Viele Detailverbesserungen und neue Filter bringen zusätzlichen Mehrwert fürs Team.'
 date: 2021-03-18
 categories:
     - 'product-features'
 url: '/de/seatable-release-1-8'
 color: 'f9c707'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.8: Zeilenhöhe & Buttons, mehr Teamwork'
+    description: 'Verstellbare Zeilenhöhe, Button-Spalte für Automatisierung, Datenerfassung, Ansichten extern teilen und E-Mail-Versand – das ist SeaTable 1.8!'
 ---
 
 Am heutigen Tag haben wir SeaTable 1.8 auf [SeaTable Cloud](https://cloud.seatable.io) zur Verfügung gestellt und wir sind davon überzeugt, dass Sie uns zustimmen werden: SeaTable 1.8 ist großartig! Es ist vollgepackt mit neuen Funktionen und Funktionsergänzungen sowie einer großen Anzahl kleinerer Verbesserungen. Wie auch schon in der Vergangenheit stellen wir in der Release Note die wichtigsten Neuerungen vor. Dieses Mal war es besonders schwer, uns auf die fünf Highlights zu fokussieren. Sie finden Sie vollständige Änderungsliste – wie immer – im Changelog. Das Docker Image werden wir in den nächsten Tag auf Docker Hub hochladen.

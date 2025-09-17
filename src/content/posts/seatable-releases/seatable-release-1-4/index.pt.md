@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.4: Novas opções para gestão de dados e colaboração online - SeaTable'
+description: 'A nova versão inclui coluna para links, automatiza vinculação entre tabelas e permite perguntas sobre conexões indiretas, chat colaborativo, integração via webhooks, scripts Python para automação e interface aprimorada. Feed de atividades por base e navegação mais lógica.'
 date: 2020-10-29
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#396afc'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.4: coluna URL, chat e integrações'
+    description: 'Coluna URL, assistente de links, queries cruzadas, chat em tempo real e Python scripts chegam ao SeaTable 1.4!'
 ---
 
 Temos o prazer de anunciar a libertação da SeaTable 1.4! Empacotámos um novo tipo de coluna, características melhoradas da base de dados, chat em tempo real e muitos mais melhoramentos nesta nova versão. Organizar dados e colaborar em equipa nunca foi tão fácil e conveniente! E o melhor de tudo, cada utilizador beneficia das novas funcionalidades, incluindo a subscrição gratuita.

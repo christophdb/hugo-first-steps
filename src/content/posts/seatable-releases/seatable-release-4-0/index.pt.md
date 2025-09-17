@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.0: novo tipo de coluna, gestão de ficheiros melhorada e progressos com o Universal App Builder - SeaTable'
+description: 'Assinatura digital chega como novo campo; file manager reúne uploads/folders/edição/drag&drop; integração Seafile amplia limites; estatísticas moduladas e App Builder evoluído. Logo próprio, várias correções e atualização de preços para times prontos à transformação digital.'
 date: 2023-06-27
 lastmod: '2023-06-27'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#3aa3f4'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.0: assinatura digital e arquivos'
+    description: 'Gerencie arquivos, assine digitalmente, integre Seafile, obtenha novas estatísticas e recursos no App Builder. SeaTable 4.0 moderniza sua base!'
 ---
 
 Enquanto o sol está a brilhar lá fora, os nossos programadores mantiveram a cabeça fria e concluíram a quarta grande versão do SeaTable. A versão 4.0 do SeaTable melhora as funções existentes, mas também sacia a sede de novas funcionalidades. Novidades na versão 4.0: um tipo de coluna para assinaturas digitais, um gestor de ficheiros integrado para facilitar a gestão de anexos e - para os nossos clientes Cloud Enterprise - uma função de logótipo personalizado como opção de marca.

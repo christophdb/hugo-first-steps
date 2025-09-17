@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.1: Enhanced page design plugin and new big data backend'
+description: 'Print view lists and templates with page elements, versioning and dynamic fields. The new Big Data backend enables millions of rows in a base, layers data for teamwork or archiving, and improves view management with folders. It’s built for big organizations, performance, and flexible collaboration on all levels.'
 date: 2022-08-26
 lastmod: '2022-08-26'
 coverImage: 'SeaTable-3.1-Feature.jpg'
@@ -9,8 +10,8 @@ color: '#f5757a'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.1: Page Design & Big Data Backend'
+    description: 'Advanced page design plugin, list printing and dynamic fields, big data backend for millions of rows – SeaTable 3.1 goes enterprise scale.'
 ---
 
 We are happy to introduce the latest version of SeaTable! The release is only a "minor" release, but it comes along quite big. The advanced page design plugin now offers more options to design and manage sophisticated templates. New features also allow for completely new usage scenarios. The Big Data Backend, which goes live with version 3.1, does the same. The Enterprise feature breaks SeaTable's previous limit of 100,000 rows per base, making SeaTable ready for larger tasks. Larger teams will be pleased with the ability to sort groups on the home page and categorize views in Bases. These highlights and a few other new features are presented here. The changelog contains the complete list of changes.

@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.7: Bedingte Zellformatierung, flexible Spaltenfixierung und praktischer Datumsstandardwert - SeaTable'
+description: 'Mit Version 2.7 gibt’s mehr Übersicht im Tabelleneditor: Markierungen für Werte per Regel oder Farbverlauf, Rankings automatisch berechnen, mehrere Spalten fixieren. Neu: Standardwert für Datumsspalten und Passwortschutz für Bases. Verbesserte Suche, 2FA-Option und Links werden beim Wiederherstellen neu gesetzt.'
 date: 2022-02-02
 lastmod: '2022-02-03'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#c29eca'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.7: Zellformatierung & Spaltenfixierung'
+    description: 'Bedingte Zellformatierung, Spalten einfrieren, Standardwerte für Datumsfelder – SeaTable 2.7 bringt neue Power ins Tabellen- und Zugriffsmanagement!'
 ---
 
 Heute Morgen wurde [SeaTable Cloud](https://cloud.seatable.io) auf die Version 2.7 aktualisiert. Damit kommen nun auch alle Cloud-Benutzer in den Genuss der neuen Funktionen und Verbesserungen der neuen Version, die bereits seit einigen Tagen für Selbsthoster auf Docker Hub zum Download bereitsteht. Der Tabelleneditor profitierte am meisten von dem Versionswechsel: Die bedingte Zellformatierung, die neue Datenverarbeitungsoperation „Rangliste berechnen“, die erweiterte Spaltenfixierung und die Standardwertfunktion für Datumsspalten bieten eine Menge neuer Funktionalität. Außerhalb des Tabelleneditors sind die passwortgeschützten Bases eine wichtige Verbesserung. Sämtliche Änderungen gibt es – wie immer – im [SeaTable Changelog]({{< relref "pages/changelog" >}}).

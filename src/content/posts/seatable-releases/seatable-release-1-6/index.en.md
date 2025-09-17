@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.6: Two new column types and more control over formulas and attachments - SeaTable'
+description: 'Two new columns: Duration for time tracking, Email with auto-validation in forms. Smarter formula wizard with new date functions and pop-over design. Improved asset management and trash bin, plus various UI enhancements streamline working with data, attachments and views in SeaTable every day.'
 date: 2021-01-07
 lastmod: '2021-01-07'
 coverImage: 'seatable-release-1.6.jpg'
@@ -9,8 +10,8 @@ color: '#7891da'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.6: New Column Types & Formula Power'
+    description: 'Duration and email column types, expanded formula wizard, asset management and many UI upgrades — the all-new SeaTable 1.6!'
 ---
 
 We begin the New Year with a new release of SeaTable: Version 1.6 has been deployed today on https://cloud.seatable.io and will be made available on Docker Hub shortly. The new version is packed with new features and improvements. At first glance, you will spot two new column types and a redesigned column type selector. Upon closer inspection, you are going to find a host of other user interface improvements that have found their way into this new release. A lot of effort has also gone into improving the formula wizard. New functions, design improvements, and more detailed error messages lift the wizard to a whole new level.
