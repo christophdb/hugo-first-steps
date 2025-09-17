@@ -6,6 +6,9 @@ categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
 url: '/de/hilfe/kalenderseiten-in-universellen-apps'
+seo:
+    title: 'Kalenderseiten in Universellen Apps: Meetings & Planung'
+    description: 'Kalenderseiten in SeaTable Universellen Apps: Termine & Projekte im Kalender verwalten, filtern & bearbeiten.'
 ---
 
 Dieser Seitentyp der Universellen App funktioniert so ähnlich wie das [Kalender-Plugin]({{< relref "help/base-editor/plugins/anleitung-zum-kalender-plugin" >}}

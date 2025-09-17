@@ -5,7 +5,12 @@ lastmod: '2025-02-28'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/ru/pomoshch/anleitung-zum-organigramm-plugin'
+url: '/ru/pomoshch/rukovodstvo-po-plaginu-organigramma'
+aliases:
+    - '/ru/pomoshch/anleitung-zum-organigramm-plugin'
+seo:
+    title: 'Плагин orgchart: иерархии, отделы, проекты'
+    description: 'Плагин orgchart: построение визуальных иерархий, команд или проектов с кастомизацией в SeaTable.'
 ---
 
 Вы можете использовать плагин организационной диаграммы для отображения **иерархии** между записями данных в таблице. Это полезно, например, для визуализации должностей в компании или [вышестоящих и нижестоящих задач в проекте]({{< relref "templates/projects/work-breakdown-structure" >}}).

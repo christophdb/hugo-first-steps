@@ -5,7 +5,12 @@ lastmod: '2025-04-24'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/ru/pomoshch/anleitung-zum-whiteboard-plugin-tldraw'
+url: '/ru/pomoshch/guide-to-whiteboard-plugin-tldraw'
+aliases:
+    - '/ru/pomoshch/anleitung-zum-whiteboard-plugin-tldraw'
+seo:
+    title: 'Whiteboard-плагин (tldraw): скетчинг, команда, экспорт'
+    description: 'Новый Whiteboard-плагин tldraw: совместная графика, скетчи, организация процессов, импорт/экспорт и групповые сценарии.'
 ---
 
 **Плагин Whiteboard** дает вам возможность графически визуализировать процессы и структуры, которые невозможно отобразить с помощью предыдущих плагинов. Вы также можете свободно создавать макеты и эскизы. Для оформления вам предлагаются различные **элементы**, такие как квадраты, эллипсы и стрелки, а также такие **инструменты**, как перо, ластик и текстовый инструмент.

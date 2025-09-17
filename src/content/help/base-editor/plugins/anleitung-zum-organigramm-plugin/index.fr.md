@@ -5,7 +5,12 @@ lastmod: '2025-02-28'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/fr/aide/anleitung-zum-organigramm-plugin'
+url: '/fr/aide/guide-plugin-organigramme'
+aliases:
+    - '/fr/aide/anleitung-zum-organigramm-plugin'
+seo:
+    title: 'Plugin organigramme: équipes & rôles en arbre'
+    description: 'Plugin organigramme : visualisez les hiérarchies, équipes ou projets arborescents. Installation simple, présentation claire SeaTable.'
 ---
 
 Le plug-in Organigramme permet de représenter **les hiérarchies** entre les enregistrements d'un tableau. C'est utile, par exemple, pour visualiser les postes dans une entreprise ou les [tâches supérieures et inférieures dans un projet]({{< relref "templates/projects/work-breakdown-structure" >}}).

@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/pt/ajuda/zeitstrahlseiten-in-universellen-apps'
+url: '/pt/ajuda/paginas-de-linha-do-tempo-em-apps-universais'
+aliases:
+    - url: '/pt/ajuda/zeitstrahlseiten-in-universellen-apps'
+seo:
+    title: 'Páginas de linha do tempo em Apps Universais'
+    description: 'No SeaTable, organize projetos, prazos e férias em timelines dinâmicas nas Apps Universais.'
 ---
 
 Este tipo de página é muito semelhante ao [plug-in]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) de linha cronológica e permite-lhe apresentar diferentes períodos de tempo sob a forma de uma **linha cronológica**. Como esta visualização de dados revela datas sobrepostas, **o planeamento de férias numa empresa**, por exemplo, pode ser um caso de utilização específico.

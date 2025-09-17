@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/fr/aide/zeitstrahlseiten-in-universellen-apps'
+url: '/fr/aide/pages-chronologie-apps-universelles'
+aliases:
+    - '/fr/aide/zeitstrahlseiten-in-universellen-apps'
+seo:
+    title: 'Pages chronologie dans les apps universelles'
+    description: 'Visualisez projets, congés ou tâches sur des timelines interactives avec SeaTable Universal Apps.'
 ---
 
 Ce type de page présente une grande similitude avec le [plug-in Timeline]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) et vous permet d'afficher différentes périodes de temps sous la forme d'une **ligne de temps**. Étant donné que cette vue des données révèle les chevauchements de dates, la **planification des congés dans une entreprise**, par exemple, pourrait être un cas d'application concret.

@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/es/ayuda/kalenderseiten-in-universellen-apps'
+url: '/es/ayuda/calendario-en-apps-universales'
+aliases:
+    - '/es/ayuda/kalenderseiten-in-universellen-apps'
+seo:
+    title: 'Páginas de calendario en apps universales'
+    description: 'Agenda colaborativa en SeaTable: visualiza y gestiona eventos, tareas y proyectos en el calendario de la app.'
 ---
 
 Este tipo de página de la aplicación universal funciona de forma similar al [complemento de calendario]({{< relref "help/base-editor/spaltentypen/die-datum-spalte" >}}) de la tabla en un **calendario**. Un caso de uso específico podría ser, por ejemplo, la visualización en el calendario de las próximas **reuniones**.

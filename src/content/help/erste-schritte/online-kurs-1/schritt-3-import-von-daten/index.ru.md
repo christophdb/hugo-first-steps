@@ -5,7 +5,12 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/ru/pomoshch/schritt-3-import-von-daten'
+url: '/ru/pomoshch/shag-3-import-dannyh'
+aliases:
+    - '/ru/pomoshch/schritt-3-import-von-daten'
+seo:
+    title: 'Шаг 3: импорт данных в SeaTable'
+    description: 'Как быстро импортировать CSV в свой учет расходов в SeaTable. Поддерживаемые форматы, проверка данных и экспорта.'
 ---
 
 Вероятно, вы уже ввели несколько расходов в свою новую систему управления расходами. Однако для следующих шагов нам понадобится немного больше данных. Поэтому мы удалим существующие записи и импортируем новые записи в таблицу.

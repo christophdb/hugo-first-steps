@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/help/zeitstrahlseiten-in-universellen-apps'
+url: '/help/timeline-pages-in-universal-apps'
+aliases:
+    - '/help/zeitstrahlseiten-in-universellen-apps'
+seo:
+    title: 'Timeline Pages in Universal Apps: Projects & Planning'
+    description: 'SeaTable Universal Apps: visualize and manage project schedules and periods on an interactive timeline.'
 ---
 
 This page type is very similar to the [timeline plugin]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) and allows you to display different time spans in the form of a **timeline**. As this data view reveals overlapping dates, **vacation planning in a company**, for example, could be a specific use case.
