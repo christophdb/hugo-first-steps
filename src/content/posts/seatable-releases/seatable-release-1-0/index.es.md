@@ -1,5 +1,6 @@
 ---
 title: 'Lanzamiento de SeaTable 1.0 Vinculación de tablas y soporte del formato numérico europeo - SeaTable'
+description: 'Vincula tablas y consulta valores entre ellas; agrupa, resume y suma datos; elige separadores de miles/decimales al estilo europeo. Enlaces protegidos por contraseña, imágenes en comentarios, arrastra varios archivos y muchas mejoras más. SeaTable apunta alto en productividad.'
 date: 2020-07-08
 lastmod: '2023-07-11'
 author: 'cdb'
@@ -8,8 +9,8 @@ color: '#c65d71'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.0: enlaces y formato europeo'
+    description: 'Enlaces de tablas con lookup/rollup, agrupación avanzada, formato numérico europeo: SeaTable 1.0 ya disponible.'
 ---
 
 Nos complace anunciar que SeaTable 1.0 por fin está listo.

@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.5: формулы в первом столбце, новые действия автоматизации и всевозможные плюсы - SeaTable'
+description: 'Формула в ключевой колонке, автоматизация создания связей/процессинга, кнопки/lookup с условиями, исполнение по очереди. Новый Universal App Builder без кода, кастомные цвета, импорт из других баз — максимум гибкости для команд.'
 date: 2023-04-12
 lastmod: '2023-09-04'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#f3fa61'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.5: формулы, automation, Universal App'
+    description: 'Формула в первой колонке, новые автоматизации, условия для кнопок/lookup – и Universal App Builder (beta).'
 ---
 
 Апрель делает то, что хочет - но SeaTable делает то, что хотите вы! Версия 3.5 исполняет некоторые давние пожелания наших пользователей: первый столбец теперь также поддерживает [формулы]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}), а с помощью [автоматизации]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) вы можете периодически выполнять два дополнительных действия. Вы получаете больше гибкости для более сложных случаев использования благодаря условному выполнению [действий кнопок]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) и условному [поиску]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}). Далее мы подробно расскажем об этих улучшениях.

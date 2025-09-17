@@ -1,6 +1,7 @@
 ---
 title: 'SeaTable 4.3: New form links, automations & app features'
-date: 2024-02-08
+description: 'Create custom URLs for web forms, automate PDF creation and app notifications, assign team members via collaborator columns, use comments, cards and containers in universal apps. Rich-text emails, advanced themes, more granular permissions—and easier admin workflow boost your teams productivity.'
+date: '2024-02-08'
 lastmod: '2024-02-16'
 author: 'kgr'
 url: '/seatable-release-4-3'
@@ -8,8 +9,9 @@ color: '#fd5d04'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.3: Form Links, Automation & App Tools'
+    description: 'Customizable form links, automated PDFs, app notifications, and universal app upgrades: SeaTable 4.3 boosts workflow and creative data management!'
+
 ---
 
 The carnival season in Germany is approaching its peak - and the confetti cannons are popping at SeaTable too! Version 4.3 brings with it some long-awaited functions and improvements.

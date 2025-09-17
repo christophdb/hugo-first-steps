@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.6: Private views, more default values and improved page design plugin'
+description: 'Get personalized private views, assign defaults to checkboxes, ratings & text fields, use multi-page page design (plus linked tables), update your data with CSV/XLSX files, customize headers. New formats, automation tweaks, and a full-screen editor boost ease-of-use. import, status, formula, link improvements!'
 date: 2021-12-24
 lastmod: '2023-07-11'
 coverImage: 'release-2.6.jpg'
@@ -9,8 +10,8 @@ color: '#7892ad'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.6: Private Views, Defaults & Page Design'
+    description: 'Private views (Enterprise), defaults for more columns, multi-page page design, data updates & more—SeaTable 2.6 improves data workflows.'
 ---
 
 We are pleased to present in these release notes version 2.6 of SeaTable, the last new release in 2021. If you are tired of eating biscuits in the coming days and need a little distance from the dear family, then take a look. There is more than enough new stuff to discover! The highlights of the new version are the private views, the data update function for CSV and XLSX files, default values for three additional column types and an extended page design plug-in. And that's not all. SeaTable 2.6 is filled to bursting with minor improvements to existing features. You can find the complete list of changes - as always - in the [SeaTable Changelog]({{< relref "pages/changelog" >}}).

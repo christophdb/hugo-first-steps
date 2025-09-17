@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.8: More colour, more comfort and more automation - SeaTable'
+description: 'Ribbon color is now customizable, active editors show in real time, columns have clear descriptions. A more powerful text editor enables tables, images and navigation. Shared datasets sync automatically every day. Median function, custom currency symbols and finer usability details boost teamwork and clarity.'
 date: 2022-04-04
 lastmod: '2022-06-27'
 coverImage: 'SeaTable_Release_2.8_1200x628.jpg'
@@ -9,8 +10,8 @@ color: '#8799b7'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.8: More Color, Comfort, Automation'
+    description: 'Colored title ribbons, live editing users, column descriptions, new editor, and automatic dataset sync arrive in SeaTable 2.8!'
 ---
 
 Early builds of SeaTable 2.8 have been available for download from [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub for a few days now. The final build has been available for download since April 1. With today's update to SeaTable 2.8, we are pleased to make its many new features and improvements available in SeaTable Cloud as well. New features include a color-customizable title band and display of all active users in a base, column descriptions, and an improved formatted text editor. In addition, shared records can now be automatically synchronized and renamed. And these are just the highlights, which we present in more detail in these release notes. The complete list of changes can be found - as always - in the [changelog]({{< relref "pages/changelog" >}}).

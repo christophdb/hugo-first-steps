@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.2: Novas funções no Universal App Builder e muito mais'
+description: 'Snapshots em apps universais, bloqueio de duplicatas em tabelas/formulários, duplicação/suspensão de páginas/apps. Temas gráficos, imagens-link, iserror(), processos automáticos, conversão de views privadas, rankeamento: mais segurança e flexibilidade para times centrados em dados.'
 date: 2023-11-22
 lastmod: '2023-11-22'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#a6d8b7'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.2: versões, duplicatas, automações'
+    description: 'Controle de versões, bloqueio de duplicatas, clone páginas/apps, automações periódicas — SeaTable 4.2 evolui apps e workflows.'
 ---
 
 O **SeaTable 4.2** leva o desenvolvimento do Universal App Builder para o próximo nível: a nova **gestão de versões** permite-lhe reverter para versões anteriores de uma aplicação. Com a **verificação de duplicados** na página da tabela e do formulário, é possível impedir eficazmente a introdução de entradas idênticas. Agora também é possível duplicar páginas na aplicação universal e **suspender temporariamente as aplicações**.

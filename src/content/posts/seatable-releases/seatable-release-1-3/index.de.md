@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.3: Eine Welle neuer Features und Verbesserungen - SeaTable'
+description: 'Entwickle eigene Scripts zur Automatisierung, nutze Vorlagen direkt beim Base-Start, färbe Zeilen bedingt ein, drucke Tabellen oder Einträge gezielt, vergib automatische Nummern und genieße zahllose UX-Verbesserungen wie echtes Autofill, anklickbare URLs, Gruppenverwaltung u.v.m. SeaTable 1.3 rockt die Datenarbeit!'
 date: 2020-09-14
 lastmod: '2022-01-24'
 author: 'mwu'
@@ -8,8 +9,8 @@ color: '#c96afc'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.3: Scripting, Vorlagen, Formatierung'
+    description: 'Scripting Engine, Templates, bedingte Formatierung, neue Druckfunktion & Autonummer — SeaTable 1.3 steckt voller Neuerungen!'
 ---
 
 Das September Release, das wir am 14. September hochgeladen haben, bietet eine beeindruckende Reihe neuer Features, Funktionalitäten und Verbesserungen für ALLE Benutzer. Die heißeste Ergänzung ist SeaTables Scripting Engine. Andere großartige, neue Features sind die nahtlose Integration unserer Templates, bedingte Zeilenformatierung, eine neue Druckfunktion und der neuer Spaltentyp automatische Nummer. Und das ist bei weitem noch nicht alles! Die vollständige Liste der Änderungen ist im [Changelog]({{< relref "pages/changelog" >}}) verfügbar. SeaTable bleibt seinem Namen treu und bietet ein Meer voller Möglichkeiten. [Starten Sie jetzt]({{< relref "pages/registration" >}}) und spielen Sie mit den Wellen.

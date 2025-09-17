@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.0 veröffentlicht! Verlinkung von Tabellen und Unterstützung des europäischen Nummernformats - SeaTable'
+description: 'Mit SeaTable 1.0 werden Tabellen durch Lookup- & Rollup-Spalten relational: Werte aus anderen Tabellen abfragen, Summen berechnen, flexibel gruppieren. Individuelle Dezimal- und Tausendertrennzeichen, neue Exportoptionen, Passwortschutz für Freigaben, Bilder in Kommentaren, Multi-Drag für Dateien und zahlreiche Detailverbesserungen machen den Start komplett.'
 date: 2020-07-08
 lastmod: '2023-07-11'
 author: 'cdb'
@@ -8,8 +9,8 @@ color: '#c65d71'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.0: Tabellen-Verknüpfung & Europäisches Zahlenformat'
+    description: 'Tabellen­verknüpfungen mit Lookup- & Rollup-Funktion, Gruppierung nach Funktion, europäisches Zahlenformat – SeaTable 1.0 ist da!'
 ---
 
 Wir freuen uns, Ihnen mitteilen zu können, dass SeaTable 1.0 endlich fertig ist!

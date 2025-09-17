@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.4: Improved display options for faster work - SeaTable'
+description: 'Dock view navigation for efficient switching, link columns now pick any display field. Conditional formatting highlights duplicates, percentage calc shows row shares. PDF generation by button, TIFF preview added, advanced compare & link – plus dozens of UI tweaks for a powerful, streamlined team workflow.'
 date: 2021-10-19
 lastmod: '2023-07-11'
 coverImage: 'release-2.4-v3.jpg'
@@ -9,8 +10,8 @@ color: '#8a9c54'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.4: Dockable Views, Custom Links'
+    description: 'Dockable view list, custom link columns, highlight duplicates, new percentage calc, PDF via button: SeaTable 2.4 is smarter and faster than ever!'
 ---
 
 SeaTable 2.4 has seen the light of day! The latest incarnation of the SeaTable Server was uploaded to [Docker](https://hub.docker.com/u/seatable) Hub at the end of last week and SeaTable Cloud was updated this morning. The new version offers a number of improvements and new features: View navigation is now dockable, the Link to Other Entries column type offers enhanced settings, a new and improved data processing operation make quantitative analysis easier. In addition, a new conditional formatting offers help with large data sets. And these are just the features that stand out from the crowd. SeaTable 2.4 also offers much more. You will find the most important information about the new release in these release notes. You will find the complete list of changes - as always in the [changelog]({{< relref "pages/changelog" >}}).

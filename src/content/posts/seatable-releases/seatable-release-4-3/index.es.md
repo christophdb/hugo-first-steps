@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.3: Nuevos enlaces de formularios, automatizaciones y funciones de la aplicación'
+description: 'Haz URLs propias para formularios, automatiza la creación de PDF y avisos en apps, añade colaboradores entre equipos, aprovecha comentarios y nuevas tarjetas. Correos con texto enriquecido, colores a medida, autorizaciones finas, exportación flexible, nueva API: el trabajo en equipo nunca fue tan fluido.'
 date: 2024-02-08
 lastmod: '2024-02-16'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#fd5d04'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.3: enlaces, automatización y apps'
+    description: 'Enlaces a formularios personalizados, PDF y notificaciones automáticas, mejoras en apps universales: SeaTable 4.3 impulsa la gestión inteligente.'
 ---
 
 La temporada de carnaval en Alemania se acerca a su punto álgido, ¡y los cañones de confeti también estallan en SeaTable! La versión 4.3 trae consigo algunas funciones y mejoras muy esperadas.

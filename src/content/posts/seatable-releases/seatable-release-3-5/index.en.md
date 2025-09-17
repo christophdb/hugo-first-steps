@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.5: Formulas in the first column, new automation actions and all sorts of goodies - SeaTable'
+description: 'Now you can use formulas in the first column, automate Add Link & Data Processing operations, run button actions and lookups with conditions, and use sequential logic. Universal App Builder debuts for no-code custom apps, color options and cross-base import. More flexible, user-friendly data power for every team.'
 date: 2023-04-12
 lastmod: '2023-09-04'
 coverImage: 'seatable-version-3.5.jpg'
@@ -9,8 +10,8 @@ color: '#f3fa61'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.5: Formulas, Automations, App Builder'
+    description: 'Formula in first column, periodic automations, conditional buttons & lookups—plus Universal App Builder (Beta): SeaTable 3.5 delivers!'
 ---
 
 April does what it wants - but SeaTable does what you want! With version 3.5, some long-cherished wishes of our users come true: The first column now also supports [formulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) and via [automation]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) you can have two additional actions executed periodically. You gain more flexibility for demanding use cases with the conditional execution of [button actions]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) and the conditional [lookups]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}). Below we present these improvements in detail.

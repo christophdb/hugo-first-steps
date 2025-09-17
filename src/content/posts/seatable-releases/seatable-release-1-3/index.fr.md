@@ -1,5 +1,6 @@
 ---
 title: "SeaTable 1.3 : Une vague de nouvelles fonctionnalités et d'améliorations - SeaTable"
+description: 'Automatisez avec des scripts, travaillez sur modèles, colorez les lignes suivant des règles, imprimez vues/détails, attribuez des numéros auto et offrez-vous autofill, URLs cliquables, gestion de groupes, upload groupé et une ergonomie optimisée sur toute la ligne.'
 date: 2020-09-14
 lastmod: '2022-01-24'
 author: 'mwu'
@@ -8,8 +9,8 @@ color: '#c96afc'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.3 : scripts, modèles, couleurs'
+    description: 'Moteur de scripts, intégration modèles, formatage conditionnel, impression et autonumération – SeaTable 1.3 fait le plein de nouveautés !'
 ---
 
 La version de septembre, que nous avons mise en ligne le 14 septembre, offre un éventail impressionnant de nouvelles caractéristiques, fonctionnalités et améliorations pour TOUS les utilisateurs. L'addition la plus chaude est le moteur de script de SeaTable. Parmi les autres nouvelles fonctionnalités, citons l'intégration transparente de nos modèles, le formatage conditionnel des lignes, une nouvelle fonction d'impression et le nouveau type de colonne à numérotation automatique. Et ce n'est pas tout, loin de là ! La liste complète des modifications est disponible dans le [journal des modifications]({{< relref "pages/changelog" >}}). SeaTable reste fidèle à son nom et offre une mer de possibilités. [Commencez maintenant]({{< relref "pages/registration" >}}) et jouez avec les vagues.

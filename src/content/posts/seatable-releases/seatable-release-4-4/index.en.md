@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.4: Universal App, Excel Import & Common Datasets'
+description: 'Buttons enabled on query pages, fill handle for columns, flexible appointments in app calendars, employee fields for forms, more dashboard/chart options, hide title bars on custom pages. Gallery and data query apps consolidated into Universal App, fast/robust Excel import, new dataset sync & copying options.'
 date: 2024-05-15
 lastmod: '2024-05-15'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#96b228'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.4: Universal App, Excel Import, Common Datasets'
+    description: 'Universal App now with actionable queries, drag-and-drop calendar, better Excel import, improved datasets and universal default values.'
 ---
 
 In SeaTable 4.4, we continue the development of the Universal App Builder with verve. Many new functions enable even more powerful and convenient web applications. We have also polished up the import function and the common datasets. The practical default values now apply universally.

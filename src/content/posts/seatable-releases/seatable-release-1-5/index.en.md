@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.5: Improved editor, shares and web forms - SeaTable'
+description: 'Inline menus replace old modals, improved plugin usability, new precision for numbers and formulas. Custom shares now flexible per table/view, web forms gain redirects, hints and thank-yous. Upgraded stats engine, timeline/map tweaks, Python time triggers, more: the most user-friendly version yet.'
 date: 2020-11-27
 lastmod: '2022-06-14'
 coverImage: 'seatable-release-1.5.png'
@@ -9,8 +10,8 @@ color: '#fba303'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.5: Editor, Shares & Web Forms'
+    description: 'Enhanced editor, custom sharing, smarter forms, stat module updates, inline menus—SeaTable 1.5 delivers full comfort and precision!'
 ---
 
 Today we have updated cloud.seatable.io to version 1.5 of SeaTable. With the next login, all users will benefit from exciting new features and a number of interface and existing functionality improvements. At first glance, you will notice the numerous minor and major changes to the table editor, resulting in increased workflow efficiency and improved user experience. The new custom sharing permissions provide more control and flexibility when working collaboratively on bases. Enhanced customization options make SeaTable's web forms an even more versatile tool for data collection.

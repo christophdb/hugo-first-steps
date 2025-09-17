@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.5: Fórmulas na primeira coluna, novas acções de automatização e todo o tipo de guloseimas - SeaTable'
+description: 'Use fórmulas na chave, automatize links e processing, acione botões/lookups com condições, sequência lógica garantida. Monte apps sem programação, pinte com cores próprias, importe de outras bases: mais potência, flexibilidade e visual para equipes competitivas.'
 date: 2023-04-12
 lastmod: '2023-09-04'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#f3fa61'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.5: fórmulas, automações, app builder'
+    description: 'Fórmulas na primeira coluna, automações avançadas, botões e lookups condicionais, App Builder beta—SeaTable 3.5 evoluiu!'
 ---
 
 Abril faz o que quer - mas SeaTable faz o que você quer! A versão 3.5 responde a alguns desejos há muito acalentados dos nossos utilizadores: a primeira coluna agora também suporta [fórmulas]({{< relref "help/base-editor/spaltentypen/die-formel-spalte" >}}) e através da [automatização]({{< relref "help/base-editor/automationen/uebersicht-ueber-automationen" >}}) pode ter duas acções adicionais executadas periodicamente. Ganha mais flexibilidade para casos de utilização mais exigentes com a execução condicional de [acções de botões]({{< relref "help/base-editor/spaltentypen/die-schaltflaeche" >}}) e a [procura]({{< relref "help/base-editor/formeln/die-lookup-funktion" >}}) condicional. A seguir, apresentamos estas melhorias em detalhe.

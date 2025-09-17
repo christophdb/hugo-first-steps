@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.1: Tabellenberechtigungen und Datenverarbeitung - SeaTable'
+description: 'Tabellenrechte bündeln granulare Zugriffssteuerung bis auf Einzeltabellen-Ebene; Datenverarbeitung erlaubt kumulierte, differenzierte und kopierte Werte zwischen Zeilen/Tabellen. Optionserstellung ist eingeschränkt steuerbar, Checkboxen reagieren schneller, zahlreiche Detailverbesserungen für Spalten, Import, Gruppenmanagement und Formulare.'
 date: 2021-07-06
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#9ebb00'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.1: Tabellenrechte & Daten­verarbeitung'
+    description: 'Neue Tabellenberechtigungen, Daten­verarbeitung zwischen Zeilen, selektive Optionsrechte und optimierte Checkboxen – SeaTable 2.1 bringt Feintuning!'
 ---
 
 Heute, den 6. Juli 2021, haben wir [SeaTable Cloud](https://cloud.seatable.io) auf SeaTable 2.1 aktualisiert und das neue Docker Image auf Docker Hub hochgeladen. Die Highlights des Releases sind die neuen Tabellenberechtigungen und eine neue Funktion namens Datenverarbeitung. Darüber hinaus haben wir die Spaltentypen Einfach- und Mehrfachauswahl sowie die Checkbox Spalte verbessert. In diesen Release Notes stellen wir – wie immer – die zentralen Entwicklungen vor und verweisen für die vollständige Liste der Änderungen auf das [SeaTable Changelog]({{< relref "pages/changelog" >}}) (nur in Englisch verfügbar).
