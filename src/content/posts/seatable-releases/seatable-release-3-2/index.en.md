@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.2: Interactive formula wizard and improved column types'
+description: 'Work smarter: Interactive, color-coded formula wizard, combined multi-action buttons (like create, mail, lock), new file popups and rename, tooltips for long selects, better label rendering, automation pauses, periodic mails, hourly dataset sync and more. Analytics and bulk-editing made even more streamlined.'
 date: 2022-10-06
 lastmod: '2022-10-29'
 coverImage: 'seatable-release-3.2-blog.jpg'
@@ -9,8 +10,8 @@ color: '#ff6549'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.2: Interactive Formula Wizard & Buttons'
+    description: 'Formula wizard with live feedback, buttons triggering multi-actions, advanced file handling, better selects: that’s SeaTable 3.2!'
 ---
 
 Welcome SeaTable 3.2! In the new release SeaTable's column types are in the spotlight: The formula column wizard is now interactive and offers significantly improved error correction. Buttons in the column type of the same name now allow to perform multiple actions with one click. New functions in the file column simplify the management of files and the selection columns also offer more convenient use. But not only the column types have benefited. Enterprise users in particular can look forward to improved automations.

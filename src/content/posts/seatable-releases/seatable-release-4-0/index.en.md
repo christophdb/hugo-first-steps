@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.0: new column type, improved file management and progress in Universal App Builder - SeaTable'
+description: 'Digital signatures land as a dedicated column type. The new file manager offers drag-and-drop, folder structures and editing tools. Seafile integration supports large files. Unified stats and upgrades to the Universal App Builder add power. Custom branding, many fixes and an updated pricing round out this key release.'
 date: 2023-06-27
 lastmod: '2023-06-27'
 coverImage: 'seatable-release-4.0.jpg'
@@ -9,8 +10,8 @@ color: '#3aa3f4'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.0: Digital Signatures & File Manager'
+    description: 'New file management, signature column, Seafile link, improved stats and Universal App Builder—SeaTable 4.0 delivers major upgrades!'
 ---
 
 While the sun is blazing outside, our developers have kept a cool head and finished the fourth major release of SeaTable. SeaTable version 4.0 improves existing features, but also quenches the thirst for new features. New in version 4.0: a column type for digital signatures, an integrated file manager for easier attachment management and - for our Cloud Enterprise customers - a custom logo feature as a branding option.

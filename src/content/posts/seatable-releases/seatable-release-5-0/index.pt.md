@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 5.0: Criador de aplicações, novos plugins e mais acessibilidade'
+description: 'SeaTable 5.0 lança o App Builder sem código — crie apps personalizadas e painéis para dados. Visualize relações, hierarquias e fluxos com plugins. Importação de Excel ainda mais flexível e experiência aprimorada para todos os usuários, inclusive em acessibilidade. Próxima geração de produtividade para empresas digitais.'
 date: 2024-07-15
 lastmod: '2024-07-15'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#efba4b'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 5.0: App Builder e novos plugins'
+    description: 'Novos recursos: criador de apps no-code, três plugins visuais, mais acessibilidade e importação detalhada do Excel por coluna.'
 ---
 
 Chegou a hora: o nosso criador de aplicações foi oficialmente lançado! Com esta versão da nossa **base de dados sem código com o criador de aplicações sem código integrado**, qualquer pessoa, quer seja programador ou cidadão programador, pode agora criar facilmente as suas próprias aplicações! Com o SeaTable 5.0, estamos prontos para assumir uma posição de liderança na transformação digital e na inovação no mercado internacional.

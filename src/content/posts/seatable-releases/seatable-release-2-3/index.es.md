@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.3: Aún más flexibilidad de despliegue con la función de archivo - SeaTable'
+description: 'Rompe el límite de filas: con SeaTable 2.3 archiva millones de registros y consulta datos históricos como activos. Preconfigura formularios, copia columnas, expórtalo como PDF y automatiza notificaciones o emails. Más versatilidad y rendimiento para grandes equipos que procesan grandes volúmenes de datos.'
 date: 2021-09-02
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#fa77b6'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.3: Función de archivo y nuevos campos'
+    description: 'Archivado de millones de filas, evaluación de datos antiguos, valores predefinidos en formularios y duplicación de columnas: descubre SeaTable 2.3.'
 ---
 
 La versión 2.3 de SeaTable, disponible desde hoy, se prepara para conquistar nuevos campos de aplicación. Con la función de archivo, que se presenta como beta en esta versión, SeaTable se recomienda ahora también para casos de uso intensivo de datos: En SeaTable se pueden almacenar y evaluar tablas con millones de registros de datos. Es el objetivo de estas notas de la versión. Otras innovaciones y mejoras se presentan en un resumen. La lista completa de cambios se puede encontrar - como siempre - en el [Changelog de SeaTable]({{< relref "pages/changelog" >}}).

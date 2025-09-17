@@ -1,13 +1,14 @@
 ---
 title: 'SeaTable 1.8: more collaboration and a new column type - SeaTable'
+description: 'With resizeable row heights SeaTable now visualizes data even better. Button columns trigger scripts, data collection tables gather info from many users, and views can be shared externally. Save mail accounts in bases, use filters, count links, and benefit from enhanced formulas. Many UI tweaks finish a new teamwork release.'
 date: 2021-03-18
 categories:
     - 'product-features'
 url: '/seatable-release-1-8'
 color: 'f9c707'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.8: Row Height & Buttons, More Collab'
+    description: 'Adjustable row heights, button column for automation, data collection, external view links and mail sending — SeaTable 1.8 is here!'
 ---
 
 We have deployed SeaTable 1.8 on [SeaTable Cloud](https://cloud.seatable.io) today, and we are confident that you'll agree with us: SeaTable 1.8 is a great new release! It is packed with new features and extensions of existing features as well as a great number of smaller improvements. As usual, this release note only highlights the most important changes and this time it was particularly difficult to choose those highlights. You'll find the complete list of changes - as always - in SeaTable's Changelog. We'll upload the new Docker images to Docker Hub within the next couple of days.

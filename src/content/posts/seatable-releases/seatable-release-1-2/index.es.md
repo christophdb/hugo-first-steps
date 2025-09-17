@@ -1,5 +1,6 @@
 ---
 title: '¡SeaTable 1.2 ya está en marcha! Dando pasos de gigante hacia una mejor gestión de los datos - SeaTable'
+description: 'Bases más organizadas: colores y símbolos, archivos e imágenes en ZIP, snapshots para regresión, vistas duplicadas fácilmente, compartir sólo lo necesario, bloqueo de filas, permisos detallados por columna. Usabilidad móvil mejorada y optimizada para trabajar en equipo o grandes bases de datos.'
 date: 2020-08-12
 lastmod: '2023-07-27'
 author: 'mwu'
@@ -8,8 +9,8 @@ color: '#93a5d5'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.2: colores, snapshots y permisos'
+    description: 'Personaliza colores e iconos, descarga masiva ZIP, snapshots, vistas duplicadas y permisos mejorados en SeaTable 1.2.'
 ---
 
 SeaTable es la solución definitiva para la gestión de datos y la colaboración en línea. Con sus múltiples tipos de campos, funciones de organización, grupo, gestión de equipos y colaboración, así como numerosas plantillas y plugins, SeaTable da rienda suelta a toda la productividad de su equipo.

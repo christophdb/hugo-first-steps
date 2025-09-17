@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.1: Erweitertes Seitendesign Plugin und neues Big Data Backend'
+description: 'Page Design-Plugin erhält Listendruck, dynamische Felder, Versionierung und Kopf-/Fußzeile zur flexibleren Dokumentenerstellung. Das neue Big Data Backend hebt die Zeilenbegrenzung – Millionen Datensätze pro Base, zwei Speicherebenen und Folder für Views und Teams machen Seatable zur echten Business-Datenplattform.'
 date: 2022-08-26
 lastmod: '2022-08-26'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#f5757a'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.1: Page-Design & Big Data Backend'
+    description: 'Neues Page-Design-Plugin mit Listen- und Kopfzeilen, Millionen Zeilen per Big Data Backend – so wächst SeaTable mit großen Teams und Daten.'
 ---
 
 Wir freuen uns, die neueste Version von SeaTable vorzustellen! Das Release ist zwar nur ein “Minor” Release, kommt aber ganz groß daher. Das erweiterte Seitendesign Plugin bietet nun mehr Optionen, um anspruchsvolle Vorlagen zu gestalten und zu verwalten. Neue Funktionen erlauben darüber hinaus ganz neue Einsatzszenarien. Das gleich tut auch das Big Data Backend, das mit der Version 3.1 Produktivreife erhält. Das Enterprise Feature sprengt SeaTables bisheriges Limit von 100.000 Zeilen pro Base und macht SeaTable damit bereit für größere Aufgaben. Größere Teams werden sich über die Möglichkeit freuen, Gruppen auf der Homepage sortieren und Ansichten in Bases kategorisieren zu können. Diese Highlights und ein paar weitere Neuerungen stellen wir in hier vor. Das Changelog enthält die vollständige Liste der Änderungen.

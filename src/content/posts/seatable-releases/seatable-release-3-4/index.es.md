@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.4: diseño dinámico de páginas, más funciones de búsqueda y formularios web mejorados'
+description: 'Diseña documentos con elementos autoajustables, personaliza formularios y prellénalos con enlace, busca en menús y listas. Nueva Data Query App para hallar datos en múltiples columnas. Mejoras en contexto de filas, registros y límites editables: mucho poder nuevo para equipos orientados a detalles.'
 date: 2023-03-01
 lastmod: '2023-03-01'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#f36f22'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.4: Diseño dinámico y búsqueda avanzada'
+    description: 'Motivos dinámicos en PDF, búsquedas múltiples, formularios y vistas flexibles: SeaTable 3.4 trae más control y personalización a tus datos.'
 ---
 
 ¡El despertar de la primavera en SeaTable! Mientras en el exterior brotan las primeras flores, nosotros salimos de las vacaciones de invierno con SeaTable 3.4. Prepárese para una experiencia de usuario mejorada y aún más libertad de diseño. El plugin de diseño de páginas despliega ahora todo su potencial al igual que el editor de formularios web, con funciones ampliadas para el posicionamiento dinámico de elementos y otras opciones útiles. Descubra la nueva función de búsqueda al filtrar, ordenar y agrupar en los ajustes de vista y al crear opciones en columnas de selección. También se han introducido notables innovaciones en la aplicación de consulta de datos, que ahora permite realizar búsquedas refinadas en varios campos. El menú contextual de la fila también tiene más opciones y las entradas del registro de filas lucen un nuevo esplendor.

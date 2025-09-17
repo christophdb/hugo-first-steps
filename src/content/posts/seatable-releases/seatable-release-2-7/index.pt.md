@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.7: Formatação celular condicional, fixação flexível da coluna e valor prático da data por defeito - SeaTable'
+description: 'Controle melhor sua planilha: destaque valores com regras, calcule rankings, congele várias colunas e defina datas padrão. Novidade: proteção por senha para bases, reforço em buscas, restauração de links, gerenciamento fácil de 2FA e recursos avançados de personalização na edição de dados.'
 date: 2022-02-02
 lastmod: '2022-02-03'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#c29eca'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.7: Formatação condicional intuitiva'
+    description: 'Formatação de células, congelamento de colunas, datas padrão e bases protegidas fortalecem o SeaTable na versão 2.7.'
 ---
 
 Esta manhã, o [SeaTable Cloud](https://cloud.seatable.io) foi actualizado para a versão 2.7. Isto significa que todos os utilizadores do Cloud podem agora também desfrutar das novas funções e melhorias da nova versão, que já está disponível para download para auto-gerentes em Docker Hub por alguns dias. O editor de tabela beneficiou mais com a mudança de versão: a formatação de célula condicional, a nova operação de processamento de dados "Calcular classificação", a fixação de coluna alargada e a função de valor por defeito para colunas de data oferecem muitas novas funcionalidades. Fora do editor de mesa, as bases protegidas por palavra-passe são uma melhoria importante. Todas as mudanças podem ser encontradas - como sempre - no [SeaTable changelog]({{< relref "pages/changelog" >}}).

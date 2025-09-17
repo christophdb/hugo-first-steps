@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.2: Asistente interactivo para fórmulas y tipos de columna mejorados'
+description: 'Fórmulas y campos con ayuda visual, combina acciones en un botón, maneja archivos mejor, muestra textos extensos con tooltip, ajusta etiquetas, pausa automations y manda emails periódicos. Sincroniza datos cada hora, agrupa elementos en page design y pon en práctica nuevos procesamientos.'
 date: 2022-10-06
 lastmod: '2022-10-29'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#ff6549'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.2: Asistente, botones y archivos potentes'
+    description: 'Asistente de fórmulas interactivo y codificado, botones multipropósito, gestión avanzada de archivos y mejoras en selectores ya disponibles en 3.2.'
 ---
 
 ¡Bienvenido SeaTable 3.2! En esta nueva versión, los tipos de columna de SeaTable son los protagonistas: el asistente de la columna de fórmula ahora es interactivo y ofrece una corrección de errores significativamente mejorada. Los botones en el tipo de columna homónimo permiten ahora ejecutar varias acciones con un solo clic. Las nuevas funciones en la columna de archivos facilitan la gestión de archivos y las columnas de selección también ofrecen un uso más cómodo. Pero no solo los tipos de columna han salido ganando. Los usuarios Enterprise, en particular, pueden disfrutar de automatizaciones mejoradas.

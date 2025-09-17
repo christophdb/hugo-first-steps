@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 3.3: Verbesserter Formulareditor und HTML-E-Mail-Support'
+description: 'SeaTable 3.3 bringt den flexibelsten Formulareditor: Felder per Drag&Drop sortieren, statische Blöcke, Pflichtfelder global setzen. Neu sind HTML-E-Mails direkt aus SeaTable und ein Big Data-Import/Export-Modus für Hunderttausende Zeilen. Zahlenspalten prüfen Werte automatisch. Viele kleine Verbesserungen runden das Update ab.'
 date: 2022-12-13
 lastmod: '2022-12-15'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#fac207'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 3.3: Neuer Form-Editor & HTML-E-Mail Support'
+    description: 'Blockbasierter Form-Editor, HTML-Mails, Massenimport für Big Data und Validierung für Zahlenspalten – alles neu in SeaTable Version 3.3!'
 ---
 
 SeaTable Fans erhalten heute schon Ihr Weihnachtsgeschenk: Die Version 3.3 von SeaTable mit seinen zahlreichen Verbesserungen und Neuerungen. Der komplett überarbeitete Formulareditor im Block-Design bietet neue Freiheiten und zusätzliche Funktionen bei der Gestaltung und Nutzung von Webformularen. Neben Text-E-Mails versendet SeaTable nun auch formatierte HTML-E-Mails. Der dafür erweiterte Editor für formatierten Text macht das zum Kinderspiel. Und Zahlspalten bieten ab sofort eine automatische Datenvalidierung wie man sie von Textspalten bereits kennt. Auch Nutzer, die Massendaten in SeaTable verwalten bzw. verwalten wollen, kommen bei SeaTable 3.3 auf ihre Kosten. Von nun an kann SeaTable hunderttausende Zeilen aus einer XLSX-Datei direkt in den Big Data Speicher importieren und von dort auch wieder exportieren. Lust gemacht auf mehr? Dann lesen Sie weiter!

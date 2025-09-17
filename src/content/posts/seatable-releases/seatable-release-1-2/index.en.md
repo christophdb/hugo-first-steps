@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.2 now live! Taking giant steps towards better data management - SeaTable'
+description: 'Boost organization with base colors/icons, batch export files as ZIP, travel in time with snapshot restores, duplicate customized views in a click, and control access with new fine-grained share/view/row/col permissions. Improved mobile and teamwork features round out this major release.'
 date: 2020-08-12
 lastmod: '2023-07-27'
 coverImage: 'seatable-release-1.2.jpg'
@@ -9,8 +10,8 @@ color: '#93a5d5'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.2: Colors, Snapshots, Export, Permissions'
+    description: 'Customize base icons/colors, batch ZIP export, snapshots, duplicate views and new permissions! SeaTable 1.2 upgrades management & safety.'
 ---
 
 SeaTable is the ultimate solution for data management and online collaboration. With its rich field types, organization / group / team management and collaboration functions as well as various templates and plugins, SeaTable unleashes your team's full productive power with its automated data processing and workflow.

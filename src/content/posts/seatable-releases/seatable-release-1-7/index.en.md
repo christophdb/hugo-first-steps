@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.7: Interface improvement and Excel import'
+description: 'Enjoy improved UI with animations, streamlined search and a Markdown editor. Choose your currency per column, import Excel workbooks (types auto-detected), and batch-replace values at scale. Faster keyboard date entry and bugfixes make work with data smoother—setting the stage for next-gen releases.'
 date: 2021-02-07
 lastmod: '2021-02-07'
 coverImage: 'seatable-release-1.7.jpg'
@@ -9,8 +10,8 @@ color: '#cfd164'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.7: UI Upgrades & Excel Import'
+    description: 'Dynamic UI, custom currencies, keyboard date entry, smart Excel import with type detection and batch replacement: SeaTable 1.7 upgrades your workflow!'
 ---
 
 A month has passed since the release of SeaTable 1.6, so it's about time for a new release. Here it is: We proudly present SeaTable 1.7! It was rolled out today, so SeaTable Cloud users have already started using it. On-premises users will be able to download the newest version from Docker Hub shortly.

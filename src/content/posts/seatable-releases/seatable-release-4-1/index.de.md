@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.1: Leistungsstärkere Automationen, App Builder auf der Zielgeraden und vieles mehr - SeaTable'
+description: 'SeaTable 4.1 überzeugt mit mehr Power für Automationen (Link-Spalten, 50 Ausführungen/Minute), erweitertem Dateimanagement (Papierkorb, Suche), feineren App-Berechtigungen, Default-Ansichten und weiteren UI-Verbesserungen. Perfekte Übersicht und mehr Effizienz für Teams und Selbsthoster!'
 date: 2023-08-23
 lastmod: '2023-08-23'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#aecdab'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.1: Stärkere Automationen & App-Features'
+    description: 'Neue Automationsoptionen, Datei-Papierkorb, Suchfunktion, granularere App-Rechte und optimierte Nutzererfahrung – alles in SeaTable 4.1!'
 ---
 
 Die Sommerferien neigen sich dem Ende zu und wir hoffen, Sie haben die Urlaubszeit genossen. Während andere in den Pool sprangen oder die Füße hochlegten, haben sich unsere Entwickler mächtig ins Zeug gelegt und **SeaTable Version 4.1** hervorgezaubert.

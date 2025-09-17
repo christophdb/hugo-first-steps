@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.1: More powerful automations, App Builder on the home stretch and much more - SeaTable'
+description: 'SeaTable 4.1 brings more flexible automations (now for link columns), a 50/min execution cap, new file manager features (trash, search), detailed app permissions and default views. UI enhancements and fixes ensure a smooth experience for self-hosted and cloud users alike.'
 date: 2023-08-23
 lastmod: '2023-08-23'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#aecdab'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.1: Stronger Automation and App Upgrades'
+    description: 'New automation triggers, file recycle bin, search, fine-grained app permissions and easier usability — all in SeaTable 4.1!'
 ---
 
 The summer vacations are coming to an end and we hope you enjoyed the vacation time. While others were jumping into the pool or putting their feet up, our developers have been hard at work and created **SeaTable version 4.1**.

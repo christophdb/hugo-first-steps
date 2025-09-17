@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.7 : Formatage conditionnel des cellules, fixation flexible des colonnes et valeur par défaut pratique de la date - SeaTable'
+description: 'Offrez-vous davantage de clarté avec les règles de formatage, le calcul de classement, la fixation de plusieurs colonnes. Prédéfinissez les dates facilement, protégez vos bases par mot de passe, la recherche et la reliaison de données sont renforcées. L’authentification à deux facteurs s’impose sur demande.'
 date: 2022-02-02
 lastmod: '2022-02-03'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#c29eca'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.7 : Formatage conditionnel et colonnes fixes'
+    description: 'Formatage conditionnel, colonnes figées, dates par défaut et bases protégées : SeaTable 2.7 simplifie l’analyse de données.'
 ---
 
 Ce matin, [SeaTable Cloud](https://cloud.seatable.io) a été mis à jour à la version 2.7. Ainsi, tous les utilisateurs de Cloud peuvent désormais profiter des nouvelles fonctions et améliorations de la nouvelle version, qui est déjà disponible depuis quelques jours en téléchargement pour les auto-hébergeurs sur Docker Hub. C'est l'éditeur de tableaux qui a le plus profité de ce changement de version : le formatage conditionnel des cellules, la nouvelle opération de traitement des données "Calculer le classement", la fixation avancée des colonnes et la fonction de valeur par défaut pour les colonnes de dates offrent une foule de nouvelles fonctionnalités. En dehors de l'éditeur de tableaux, les bases protégées par mot de passe constituent une amélioration importante. Toutes les modifications sont - comme toujours - disponibles dans le [changelog de SeaTable]({{< relref "pages/changelog" >}}).

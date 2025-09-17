@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.6: Zwei neue Spaltentypen und mehr Kontrolle über Formeln und Anhänge - SeaTable'
+description: 'Mehr Kontrolle im Tabellenalltag: Zeitmessungen mit Dauer-Spalte, E-Mail-Adressen automatisch prüfen, Formeln schneller dank Wizard, Dateien im Asset-Manager verwalten und zahlreiche Designverbesserungen beschleunigen den Workflow. Viele kleine Neuerungen und Bugfixes machen 1.6 zum Highlight für Powernutzer.'
 date: 2021-01-07
 lastmod: '2021-01-07'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#7891da'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.6: Neue Spaltentypen & Formeln'
+    description: 'Neue Spaltentypen „Dauer“ & „E-Mail“, optimierter Formelassistent, verbessertes Asset Management und mehr Usability – SeaTable 1.6!'
 ---
 
 Wir beginnen das neue Jahr mit einem neuen SeaTable Release: Version 1.6 wurde heute auf [https://cloud.seatable.io](https://cloud.seatable.io) ausgerollt. Die Veröffentlichung auf Docker Hub wird in Kürze erfolgen. Die neue Version ist wieder mal voll mit neuen Funktionen und Verbesserungen. Auf den ersten Blick werden Ihnen die zwei neuen Spaltentypen und das überarbeitete Menü für die Spaltenkonfiguration auffallen. Bei genauerem Blick werden Sie eine Vielzahl weiterer User Interface Verbesserungen finden. In dieser Version haben wir auch große Anstrengungen in den Formelassistenten investiert. Neue Funktionen, Designverbesserungen und erweiterte Fehlermeldungen heben den Assistenten auf eine ganz neue Ebene.

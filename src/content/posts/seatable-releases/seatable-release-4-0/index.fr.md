@@ -1,5 +1,6 @@
 ---
 title: "SeaTable 4.0 : nouveau type de colonne, amélioration de la gestion des fichiers et progrès dans l'Universal App Builder - SeaTable"
+description: 'Apposez signatures numériques, organisez/catégorisez vos fichiers, glissez/déposez, reliez Seafile pour stockages lourds, statistiques puissantes et builder refondu. Ajoutez vos logos, plus de bugs, des prix renouvelés – la suite no code devient indispensable !'
 date: 2023-06-27
 lastmod: '2023-06-27'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#3aa3f4'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.0 : signature, fichiers & apps'
+    description: 'Gestionnaire de fichiers, colonne de signature, intégration Seafile, statistiques fusionnées et avancées App Builder : SeaTable 4.0 élève la barre!'
 ---
 
 Alors que le soleil brûle dehors, nos développeurs ont gardé la tête froide et ont terminé la quatrième version majeure de SeaTable. La version 4.0 de SeaTable améliore les fonctions existantes, mais étanche également la soif de nouvelles fonctionnalités. Nouveautés de la version 4.0 : un type de colonne pour les signatures numériques, un gestionnaire de fichiers intégré pour faciliter la gestion des pièces jointes et - pour nos clients Cloud Enterprise - une fonction de logo personnalisé comme option de branding.

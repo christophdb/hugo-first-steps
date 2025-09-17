@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.4: Neue Optionen für die Datenverwaltung und die Online Collaboration - SeaTable'
+description: 'Datenmanagement wird flexibler: Mit SeaTable 1.4 gibt’s jetzt echte URL-Spalten, neue Wizards für Verknüpfungen, Queries über mehrere Tabellen hinweg, Teamchat in Echtzeit, Webhooks für externe Tools und Python für Scripts. Dazu viele Designverbesserungen und mehr Übersicht samt neuem Navigationskonzept und Activity-Feed.'
 date: 2020-10-29
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#396afc'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.4: URL-Spalte, Linking, Realtime-Chat'
+    description: 'URL-Spalte, vereinfachtes Linking, Abfragen über verknüpfte Felder, Team-Chat, Webhooks, Python-Skripte – das steckt im Major-Update 1.4!'
 ---
 
 Wir freuen uns, die Veröffentlichung von SeaTable 1.4 bekannt zu geben! Wir haben einen neuen Spaltentyp, verbesserte Datenbankfunktionen, einen Realtime Chat und viele weitere Verbesserungen in dieses neue Release gepackt. Die Organisation von Daten und die Zusammenarbeit im Team war nie so einfach und bequem! Und das beste ist: Jeder Nutzer profitiert von den neuen Features, inklusive des Free Abos.

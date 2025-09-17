@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.3: Noch mehr Einsatzflexibilität mit Archivfunktion - SeaTable'
+description: 'Mit SeaTable 2.3 überwinden Sie das 150.000-Zeilen-Limit dank neuem Archiv. Archivierte Daten sind filterbar, sortierbar und per API abfragbar. Standardwerte für Formulare, Spalten kopieren, PDF-Export fürs Seitendesign und E-Mails per Automation – mehr Flexibilität, Performance und neue Einsatzfelder mit dieser Version.'
 date: 2021-09-02
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#fa77b6'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.3: Archivfunktion für Millionen Datensätze'
+    description: 'Archivierungsfunktion (Beta) für riesige Tabellen, Datenanalyse von Alt- und Live-Daten, Standardwerte in Formularen, Spalten-Duplikation – alles in 2.3!'
 ---
 
 SeaTable Version 2.3, die seit heute verfügbar ist, macht sich bereit, neue Einsatzfelder zu erobern. Mit der Archivfunktion, die in diesem Release als Beta vorgestellt wird, empfiehlt sich SeaTable nun auch für datenintensive Anwendungsfälle: Tabellen mit Millionen Datensätzen lassen sich mit ihr in SeaTable speichern und auswerten. Sie steht in diesen Release Notes im Fokus. Weitere Neuerungen und Verbesserungen stellen wir überblicksartig vor. Die vollständige Liste der Änderungen finden Sie – wie immer – im [SeaTable Changelog]({{< relref "pages/changelog" >}}).
