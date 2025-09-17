@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.0 released! Linking of tables and support of the European number format - SeaTable'
+description: 'Table links become relational: Lookup and rollup columns display data from other tables, aggregate results, flexible grouping. Custom decimal/thousands separators, exports, password-protected links, images in comments, file drag-and-drop and more round out the release. Next-gen spreadsheet-database workflow starts here!'
 date: 2020-07-08
 lastmod: '2023-07-11'
 coverImage: 'seatable-release-1_0.jpg'
@@ -9,8 +10,8 @@ color: '#c65d71'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.0: Table Linking & European Format'
+    description: 'Table links with lookup & rollup, grouping by function, European number format — SeaTable 1.0 is launched!'
 ---
 
 We are pleased to announce that SeaTable 1.0 is finally ready!

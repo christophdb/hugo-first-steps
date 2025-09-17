@@ -1,13 +1,14 @@
 ---
 title: 'SeaTable 5.1: Mais funções/conveniência no App Builder e Big Data'
+description: 'Construção de apps com branding, widgets e gráficos evoluiu; botões em páginas de registro, QR para mobile. Big data full integrado aos apps e logs próprios, plugin árvore para estruturas hierárquicas, menus avançados e logs de auditoria; fórmulas novas, melhor visualização e automação. Mais controle e visão para times exigentes.'
 date: 2024-11-08
 categories:
     - 'product-features'
 url: '/pt/seatable-release-5-1'
 color: '#017b4a'
 seo:
-    title:
-    description:
+    title: 'SeaTable 5.1: apps, big data e árvore'
+    description: 'App builder refinado, integração big data, novo plugin de árvore, QR code e layout fácil – SeaTable 5.1 foca na eficiência.'
 ---
 
 O foco do SeaTable 5.1 está em melhorar as funções existentes e optimizá-las para casos de utilização prática. Em particular, o **App Builder**, que foi oficialmente lançado com a versão 5.0, recebeu atenção especial e agora permite aplicações web ainda mais poderosas. No entanto, os utilizadores do **Big Data Store** também beneficiam de extensas melhorias. O novo **plug-in Árvore** oferece uma opção de visualização adicional para dados hierárquicos. Nas presentes notas de lançamento, apresentamos todas as novas funcionalidades importantes. Como sempre, encontrará a lista completa de alterações no [registo de alterações]({{< relref "pages/changelog" >}}).

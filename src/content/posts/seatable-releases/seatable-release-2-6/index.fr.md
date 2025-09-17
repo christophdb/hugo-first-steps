@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.6 : Vues privées, plus de valeurs par défaut et amélioration du plugin de conception de pages'
+description: 'Vues privées pour vos analyses, valeurs par défaut pour cases/rating/textes, documents multi-pages ou tableaux liés. Mettez à jour vos données via CSV/XLSX, personnalisez les en-têtes, nouveaux formats et automatisations. Statut base, meilleur éditeur et moteurs de recherche optimisés : puissance et confort.'
 date: 2021-12-24
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#7892ad'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.6 : vues privées, valeurs, design'
+    description: 'Vues privées (Enterprise), valeurs par défaut élargies, page design multi-page, actualisations CSV/XLSX : la 2.6 simplifie le travail sur les données.'
 ---
 
 Nous sommes heureux de vous présenter dans ces notes de version la version 2.6 de SeaTable, la dernière nouvelle version de l'année 2021. Si vous êtes lassés de manger des biscuits dans les jours à venir et que vous avez besoin de vous éloigner un peu de votre chère famille, jetez-y un œil. Il y a plus qu'assez de nouveautés à découvrir ! Les points forts de la nouvelle version sont les vues privées, la fonction de mise à jour des données pour les fichiers CSV et XLSX, les valeurs par défaut pour trois types de colonnes supplémentaires et un plugin de conception de page avancé. Et ce n'est pas tout. SeaTable 2.6 est rempli à craquer d'améliorations mineures des fonctions existantes. Comme toujours, vous trouverez la liste complète des modifications dans le [changelog de SeaTable]({{< relref "pages/changelog" >}}).

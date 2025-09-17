@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.8: Mais cor, mais conforto e mais automatização - SeaTable'
+description: 'Cores dos títulos seguem o ícone da base; usuários online exibidos imediatamente; colunas podem ser descritas; editor insere tabelas/imagens facilmente; autocorreção e navegação otimizada; datasets compartilhados sincronizam todo dia; médiana por coluna, moeda customizável, detalhes que facilitam o trabalho em equipe.'
 date: 2022-04-04
 lastmod: '2022-06-27'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#8799b7'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.8: cor, automação e mais conforto'
+    description: 'Cabeçalho colorido, usuários ativos ao vivo, descrições de coluna, editor melhorado, sync automático – tudo novo no SeaTable 2.8!'
 ---
 
 As primeiras construções da SeaTable 2.8 estão disponíveis para download em [Docker](https://hub.docker.com/r/seatable/seatable-enterprise/tags) Hub há vários dias. A construção final está disponível para download desde 1 de Abril. Com a actualização de hoje do SeaTable 2.8, temos o prazer de disponibilizar as suas numerosas novas funções e melhorias também no SeaTable Cloud. As novas características incluem uma banda de título a cores personalizável e a exibição de todos os utilizadores activos numa base, descrições de colunas e um editor melhorado para texto formatado. Além disso, os registos partilhados podem agora ser automaticamente sincronizados e renomeados. E estes são apenas os destaques que apresentamos com mais detalhe nestas notas de lançamento. A lista completa de alterações pode ser encontrada - como sempre - no [changelog]({{< relref "pages/changelog" >}}).

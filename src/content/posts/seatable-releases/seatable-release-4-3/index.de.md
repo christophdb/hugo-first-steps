@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 4.3: Neue Formularlinks, Automationen & App-Features'
+description: 'Neue Links für Webformulare, Automatisierung von PDF-Erstellung und App-Benachrichtigungen, Mitarbeiter-Spalte teamübergreifend, Kommentare und neue Card- und Container-Elemente für die Universal App. Rich-Text-Mails, neue Theme-Optionen, feinere Gruppenrechte – und eine intuitivere Migration für Admins.'
 date: 2024-02-08
 lastmod: '2024-02-16'
 author: 'kgr'
@@ -8,8 +9,8 @@ color: '#fd5d04'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 4.3: Form-Links, Automation & App-Tools'
+    description: 'Individuelle Form-Links, PDF-Automation und neue App-Elemente: SeaTable 4.3 macht die Arbeit mit Daten und Apps kreativer, schneller, einfacher!'
 ---
 
 Die Karnevalszeit in Deutschland nähert sich ihrem Höhepunkt – und auch bei SeaTable knallen die Konfetti-Kanonen! Version 4.3 bringt einige lang ersehnte Funktionen und Verbesserungen mit sich.

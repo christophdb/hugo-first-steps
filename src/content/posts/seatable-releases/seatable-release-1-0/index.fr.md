@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 1.0 est sorti ! Liens entre les tableaux et prise en charge du format de numérotation européen - SeaTable'
+description: 'Reliez les tables avec lookup/rollup, regroupez par fonctions, sélectionnez formats décimaux européens ! Export, liens protégés, images dans commentaires, import multiples : une version aboutie, prête pour la gestion avancée de la donnée.'
 date: 2020-07-08
 lastmod: '2023-07-11'
 author: 'cdb'
@@ -8,8 +9,8 @@ color: '#c65d71'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 1.0 : liaisons, formats, regroupement'
+    description: 'Liaison de tables (lookup/rollup), regroupements, formats européens : SeaTable 1.0 est là !'
 ---
 
 Nous sommes heureux de vous annoncer que SeaTable 1.0 est enfin prêt !

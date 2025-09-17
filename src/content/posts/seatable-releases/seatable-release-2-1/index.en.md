@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.1: table permissions and data processing - SeaTable'
+description: 'Fine-tune access with table-level rights; process data row-to-row or across tables (totals, differences, copy/compare values). Single/multi-select options can restrict creators, improved checkbox column speed, plus batch import from Excel, group leave, smart filter date widget and scaling print wizard.'
 date: 2021-07-06
 lastmod: '2023-07-11'
 coverImage: 'SeaTable-Release-2.1.jpg'
@@ -9,8 +10,8 @@ color: '#9ebb00'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.1: Table Permissions & Data Processing'
+    description: 'New table permissions, between-row data processing, granular option editing & smarter checkboxes—SeaTable 2.1 fine-tunes data control.'
 ---
 
 Today, 6 July 2021, we updated [SeaTable Cloud](https://cloud.seatable.io) to SeaTable 2.1 and uploaded the new Docker image to Docker Hub. The highlights of the release are the new table permissions and a new feature called Data Processing. In addition, we have improved the single and multiple selection column types and the checkbox column. In these release notes we present - as always - the key developments and refer to the [SeaTable Changelog]({{< relref "pages/changelog" >}}) for the full list of changes.

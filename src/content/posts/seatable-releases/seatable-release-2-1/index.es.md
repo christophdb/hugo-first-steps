@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.1: Permisos de tabla y procesamiento de datos - SeaTable'
+description: 'Control fino con permisos por tabla y edición para selectores; procesa datos acumulados y diferencias entre filas/tablas, opciones de select restringidas, casillas más cómodas, importación avanzada de Excel, mejor grupo y filtros smart. Todo para equipos productivos y análisis eficiente.'
 date: 2021-07-06
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#9ebb00'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.1: permisos, procesos y mejoras'
+    description: 'Permisos granulares, procesamiento de datos entre filas, opciones restringidas y casillas mejoradas — SeaTable 2.1 da más control.'
 ---
 
 Hoy, 6 de julio de 2021, hemos actualizado [SeaTable Cloud](https://cloud.seatable.io) a SeaTable 2.1 y hemos subido la nueva imagen Docker a Docker Hub. Lo más destacado de la versión son los nuevos permisos para las tablas y una nueva función llamada Procesamiento de Datos. Además, hemos mejorado los tipos de columna de selección simple y múltiple y la columna de casilla de verificación. En estas notas de la versión presentamos, como siempre, las principales novedades y remitimos al [registro de cambios de SeaTable]({{< relref "pages/changelog" >}}) para ver la lista completa de cambios.

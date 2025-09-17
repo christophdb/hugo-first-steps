@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.5: archivo optimizado, procesamiento de datos y automatizaciones - SeaTable'
+description: 'El archivo ahora acepta todas las columnas (fórmulas y enlaces incluidos), procesamiento de datos más ágil, Python vía automation, columna rating configurable y resúmenes, mejoras en importación/exportación Excel, integración con 4 plataformas de automatización. Una versión ideal para grandes equipos y flujos exigentes.'
 date: 2021-11-16
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#e7cae0'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.5: archivo, flujos y automatizaciones'
+    description: 'Archivo avanzado, procesamiento flexible, nuevas automatizaciones y columna valoración mejorada: SeaTable 2.5 llena tu base de opciones.'
 ---
 
 ¡SeaTable 2.5 ya está aquí! La nueva imagen Docker se puso a disposición en Docker Hub a finales de la semana pasada y esta mañana SeaTable Cloud se ha actualizado a la última versión. La nueva versión hace que muchas de las funciones de SeaTable sean aún mejores. La función de archivo, con su creciente gama de funciones, se recomienda para un número cada vez mayor de casos de uso, las funciones de procesamiento de datos disponibles se vuelven más flexibles y las automatizaciones integradas, así como la columna de calificación, ofrecen nuevas opciones. También merece una mención: las columnas de tipo de enlace y la fórmula para los enlaces son ahora totalmente compatibles con las vistas externas. Siga leyendo para saber más sobre estas nuevas funciones. La lista completa de cambios se puede encontrar - como siempre - en el [Changelog de SeaTable]({{< relref "pages/changelog" >}}).

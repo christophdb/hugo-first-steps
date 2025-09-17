@@ -1,5 +1,6 @@
 ---
 title: 'SeaTable 2.4: Verbesserte Anzeigeoptionen für schnelleres Arbeiten - SeaTable'
+description: 'Angedockte Ansichten sparen Klicks, Linkspalten zeigen jetzt beliebige Spaltenwerte an, Duplikaterkennung durch neue bedingte Formatierung, Datenprozesse flexibel (Prozent-Anteil, Mehrfachkriterien-Linking). TIFF-Vorschau für Bilder, neue Berechnungsoptionen, PDF-Erstellung und viele Komfortverbesserungen.'
 date: 2021-10-19
 lastmod: '2023-07-11'
 author: 'rdb'
@@ -8,8 +9,8 @@ color: '#8a9c54'
 categories:
     - 'product-features'
 seo:
-    title:
-    description:
+    title: 'SeaTable 2.4: Ansichtsdock, Links, Duplikate'
+    description: 'Ansichtsnavigation andocken, Linkspalten individualisieren, Duplikate hervorheben, neue Datenprozesse & PDF per Button – SeaTable 2.4 im Überblick!'
 ---
 
 SeaTable 2.4 hat das Licht der Welt erblickt! Die jüngste Inkarnation des SeaTable Servers wurde Ende vergangener Woche auf [Docker Hub](https://hub.docker.com/u/seatable) hochgeladen und SeaTable Cloud wurde heute Morgen aktualisiert. Die neue Version bietet eine Vielzahl von Verbesserungen und neuen Funktionen: Die Ansichtsnavigation ist nun andockbar, der Spaltentyp Verknüpfung zu anderen Einträgen bietet erweiterte Einstellungen, eine neue und eine verbesserte Datenverarbeitungsoperation machen die quantitative Analyse einfacher. Außerdem bietet eine neue bedingte Formatierung Hilfe mit großen Datensätzen. Und dies sind nur die Funktionen, die aus der Masse hervorstechen. SeaTable 2.4 bietet darüber hinaus noch viel mehr. Sie finden die wichtigsten Informationen über das neue Release in diesen Release Notes. Sie finden die komplette Änderungsliste – wie immer im [Changelog]({{< relref "pages/changelog" >}}).
