@@ -5,7 +5,12 @@ lastmod: '2025-02-28'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/pt/ajuda/anleitung-zum-organigramm-plugin'
+url: '/pt/ajuda/guia-plugin-organograma'
+aliases:
+    - '/pt/ajuda/anleitung-zum-organigramm-plugin'
+seo:
+    title: 'Plugin organograma: hierarquia e equipes visuais'
+    description: 'Plugin de organograma: crie hierarquias, visualize equipes ou estruturas em árvore no SeaTable. Prático e personalizável.'
 ---
 
 Pode utilizar o plugin do organigrama para apresentar **hierarquias** entre os registos de dados de uma tabela. Isto é útil, por exemplo, para visualizar os cargos numa empresa ou as [tarefas superiores e subordinadas num projeto]({{< relref "templates/projects/work-breakdown-structure" >}}).

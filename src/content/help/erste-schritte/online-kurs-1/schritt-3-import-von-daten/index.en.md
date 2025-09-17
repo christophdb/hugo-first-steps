@@ -5,7 +5,12 @@ lastmod: '2024-09-01'
 categories:
     - 'online-kurs'
 author: 'cdb'
-url: '/help/schritt-3-import-von-daten'
+url: '/help/step-3-importing-data'
+aliases:
+    - '/help/schritt-3-import-von-daten'
+seo:
+    title: 'Step 3: Importing Data Into SeaTable'
+    description: 'How to import data via CSV into your expense tracker using SeaTable. Includes file types, import control and export tips.'
 ---
 
 You have probably already entered a few expenses in your new expense management system. However, we need a little more data for the following steps. We will therefore remove your existing entries and import new data records into the table.

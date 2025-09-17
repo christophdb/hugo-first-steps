@@ -6,6 +6,9 @@ categories:
     - 'plugins'
 author: 'kgr'
 url: '/de/hilfe/anleitung-zum-whiteboard-plugin-tldraw'
+seo:
+    title: 'Whiteboard-Plugin (tldraw): Skizzen, Kollaboration, Export'
+    description: 'Das neue Whiteboard-Plugin (tldraw): Grafische Kollaboration, Skizzen, Prozess- und Layoutplanung, Import/Export, Gruppen- und Präsentationsfunktionen.'
 ---
 
 Das **Whiteboard-Plugin** gibt Ihnen die Freiheit, Prozesse und Strukturen grafisch zu visualisieren, die Sie mit den bisherigen Plugins nicht darstellen können. Ebenso können Sie Layouts und Mockups frei skizzieren. Für die Gestaltung haben Sie verschiedene **Elemente** wie Vierecke, Ellipsen und Pfeile sowie **Werkzeuge** wie Stift, Radierer und das Text-Werkzeug zur Auswahl.

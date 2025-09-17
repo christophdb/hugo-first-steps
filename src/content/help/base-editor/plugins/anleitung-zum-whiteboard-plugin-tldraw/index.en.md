@@ -5,7 +5,12 @@ lastmod: '2025-04-24'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/help/anleitung-zum-whiteboard-plugin-tldraw'
+url: '/help/guide-to-whiteboard-plugin-tldraw'
+aliases:
+    - '/help/anleitung-zum-whiteboard-plugin-tldraw'
+seo:
+    title: 'Whiteboard Plugin (tldraw): Sketch, Collaborate, Export'
+    description: 'The new tldraw whiteboard: visual collaboration, sketches, process/layout design, import/export, groups and presentation tools.'
 ---
 
 The **whiteboard plugin** gives you the freedom to graphically visualize processes and structures that you cannot display with the previous plugins. You can also freely sketch layouts and mockups. For the design, you have various **elements** such as squares, ellipses and arrows as well as **tools** such as pen, eraser and the text tool to choose from.

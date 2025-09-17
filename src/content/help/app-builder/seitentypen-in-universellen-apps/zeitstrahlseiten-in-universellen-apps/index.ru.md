@@ -5,7 +5,12 @@ lastmod: '2025-02-26'
 categories:
     - 'seitentypen-in-universellen-apps'
 author: 'kgr'
-url: '/ru/pomoshch/zeitstrahlseiten-in-universellen-apps'
+url: '/ru/pomoshch/stranitsy-taymlayn-v-universalnykh-prilozheniyakh'
+aliases:
+    - '/ru/pomoshch/zeitstrahlseiten-in-universellen-apps'
+seo:
+    title: 'Страницы-таймлайны в универсальных приложениях'
+    description: 'В SeaTable Universal Apps: планируйте проекты, задачи, отпуска на таймлайне, фильтруйте и редактируйте периоды.'
 ---
 
 Этот тип страницы очень похож на [плагин timeline]({{< relref "help/base-editor/plugins/anleitung-zum-timeline-plugin" >}}) и позволяет отображать различные временные отрезки в виде **временной шкалы**. Поскольку такое представление данных показывает пересекающиеся даты, то, например, **планирование праздников в компании** может быть специфическим вариантом использования.

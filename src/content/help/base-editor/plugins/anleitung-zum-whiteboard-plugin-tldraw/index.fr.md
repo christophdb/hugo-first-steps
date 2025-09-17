@@ -5,7 +5,12 @@ lastmod: '2025-04-24'
 categories:
     - 'plugins'
 author: 'kgr'
-url: '/fr/aide/anleitung-zum-whiteboard-plugin-tldraw'
+url: '/fr/aide/guide-plugin-whiteboard-tldraw'
+aliases:
+    - '/fr/aide/anleitung-zum-whiteboard-plugin-tldraw'
+seo:
+    title: 'Whiteboard Plugin (tldraw): croquis, collaborer, exporter'
+    description: 'Nouveau plugin tldraw Whiteboard : collaboration graphique, schémas, gestion, import/export, animation par groupes.'
 ---
 
 Le **plug-in Whiteboard** vous donne la liberté de visualiser graphiquement des processus et des structures que vous ne pouvez pas représenter avec les plug-ins précédents. De même, vous pouvez esquisser librement des mises en page et des mockups. Pour la conception, vous avez le choix entre différents **éléments** tels que des carrés, des ellipses et des flèches ainsi que **des outils** tels que le stylo, la gomme et l'outil de texte.
